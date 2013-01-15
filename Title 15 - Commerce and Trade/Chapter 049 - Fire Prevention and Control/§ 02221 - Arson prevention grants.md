@@ -60,7 +60,7 @@ In order to qualify for a grant under this section, a State, or consortium of St
 
 &emsp;(1) will obtain at least 25 percent of the cost of programs funded by the grant, in cash or in kind, from non-Federal sources;
 
-&emsp;(2) will not as a result of receiving the grant decrease the prior level of spending of funds of the State or consortium from non-Federalsources for arson research, prevention, and control programs;
+&emsp;(2) will not as a result of receiving the grant decrease the prior level of spending of funds of the State or consortium from non-Federal sources for arson research, prevention, and control programs;
 
 &emsp;(3) will use no more than 10 percent of funds provided under the grant for administrative costs of the programs; and
 
@@ -98,7 +98,7 @@ Not later than 90 days after May 19, 1994, the Administrator shall issue regulat
 
 The Administrator shall directly administer the grant program required by this section, and shall not enter into any contract under which the grant program or any portion of the program will be administered by another party.
 
-#### (<i>l</i>) Purchase of American made equipment and products
+#### (l) Purchase of American made equipment and products
 
 #### (1) Sense of Congress
 
@@ -106,7 +106,7 @@ The Administrator shall directly administer the grant program required by this s
 
 #### (2) Notice to recipients of assistance
 
-&emsp;In allocating grants under this section, the Administrator shall provide to each recipient a notice describing the statement made in paragraph (1) by the Congress.
+&emsp;In allocating grants under this section, the Administrator shall provide to each recipienta notice describing the statement made in paragraph (1) by the Congress.
 
 (Pub. L. 93–498, §25, as added Pub. L. 103–254, §3, May 19, 1994, 108 Stat. 679.)
 

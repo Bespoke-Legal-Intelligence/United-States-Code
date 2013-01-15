@@ -1,6 +1,6 @@
 ### §3804. Compliance with international law
 
-Any action taken under this chapter shall be taken in accordance with treaties to which the United States is a party and other international obligations of the United States.
+Any action taken under this chapter shall be taken in accordance with treaties to which theUnited States is a party and other international obligations of the United States.
 
 (Pub. L. 111–281, title X, §1014, Oct. 15, 2010, 124 Stat. 3025.)
 

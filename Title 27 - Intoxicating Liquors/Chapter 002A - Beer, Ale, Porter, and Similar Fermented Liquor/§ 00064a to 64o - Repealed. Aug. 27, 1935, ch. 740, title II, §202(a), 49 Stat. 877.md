@@ -22,11 +22,11 @@ Section 64j, act Mar. 22, 1933, ch. 4, §6, 48 Stat. 19, related to prohibition 
 
 Section 64k, act Mar. 22, 1933, ch. 4, §7, 48 Stat. 19, related to penalties for violation of prohibition of shipment of beer, ale, porter, etc., into dry States.
 
-Section 64<i>l</i>, act Mar. 22, 1933, ch. 4, §8, 48 Stat. 19, related to penalties and forfeitures incurred prior to effective date of chapter.
+Section 64l, act Mar. 22, 1933, ch. 4, §8, 48 Stat. 19, related to penalties and forfeitures incurred prior to effective date of chapter.
 
 Section 64m, act Mar. 22, 1933, ch. 4, §1(c), 48 Stat. 16, related to effect of chapter on existing legislation with respect to internal revenue laws.
 
 Section 64n, act Mar. 22, 1933, ch. 4, §9, 48 Stat. 19, related to effective date of chapter.
 
-Section 64<i>o</i>, act Mar. 22, 1933, ch. 4, §10, 48 Stat. 20, provided for a savings clause for provisions of chapter.
+Section 64o, act Mar. 22, 1933, ch. 4, §10, 48 Stat. 20, provided for a savings clause for provisions of chapter.
 

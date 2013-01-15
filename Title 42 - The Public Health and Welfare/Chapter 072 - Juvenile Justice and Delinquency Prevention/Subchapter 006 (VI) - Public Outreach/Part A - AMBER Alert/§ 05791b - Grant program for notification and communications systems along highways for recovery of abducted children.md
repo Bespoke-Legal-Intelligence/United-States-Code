@@ -56,7 +56,7 @@ In this section, the term “State” means any of the 50 States, the District o
 
 #### (h) Authorization of appropriations
 
-There is authorized to be appropriated to the Secretary to carry out this section $20,000,000 for fiscal year 2004. Such amounts shall remain available until expended.
+There is authorized to be appropriated to the Secretary to carry out this section $20,000,000 forfiscal year 2004. Such amounts shall remain available until expended.
 
 #### (i) Study of State programs
 

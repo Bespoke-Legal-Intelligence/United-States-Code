@@ -20,7 +20,7 @@ There shall be a General Counsel of the Board who shall be appointed by the Pres
 
 #### References in Text
 
-The Labor Management Relations Act, 1947, referred to in subsec. (a), is act June 23, 1947, ch. 120, 61 Stat. 136, as amended, which is classified principally to this chapter. For complete classification of this act to the Code, see section 141 of this title and Tables.
+The Labor Management Relations Act, 1947, referred to in subsec. (a), is act June 23, 1947, ch. 120, 61 Stat.136, as amended, which is classified principally to this chapter. For complete classification of this act to the Code, see section 141 of this title and Tables.
 
 #### Codification
 
@@ -28,7 +28,7 @@ In subsec. (d), “administrative law judges” substituted for “trial examine
 
 #### Amendments
 
-<b>1982</b>—Subsec. (c). Pub. L. 97–375 substituted “summarizing significant case activities and operations forthat fiscal year” for “stating in detail the cases it has heard, the decisions it has rendered, and an account of all moneys it has disbursed”.
+<b>1982</b>—Subsec. (c). Pub. L. 97–375 substituted “summarizing significant case activities and operations for that fiscal year” for “stating in detail the cases it has heard, the decisions it has rendered, and an account of all moneys it has disbursed”.
 
 <b>1975</b>—Subsec. (c). Pub. L. 93–608 struck out requirement that report contain the names, salaries, and duties of all employees and officers employed or supervised by the Board.
 
@@ -40,7 +40,7 @@ Subsec. (d). Pub. L. 86–257, §703, authorized the President to designate the 
 
 #### Effective Date of 1959 Amendment
 
-Section 707 of title VII of Pub. L. 86–257 provided that: “The amendments made by this title \[amending this section and sections 158, 159, and 160 of this title\] shall take effect sixty days after the date of the enactment of this Act \[Sept. 14, 1959\] and no provision of this title shall be deemed to make an unfair labor practice, any act which is performed prior to such effective date which did not constitute an unfair labor practice prior thereto.”
+Pub. L. 86–257, title VII, §707, Sept. 14, 1959, 73 Stat. 546, provided that: “The amendments made by this title \[amending this section and sections 158, 159, and 160 of this title\] shall take effect sixty days after the date of the enactment of this Act \[Sept. 14, 1959\] and no provision of this title shall be deemed to make an unfair labor practice, any act which is performed prior to such effective date which did not constitute an unfair labor practice prior thereto.”
 
 #### Termination of Reporting Requirements
 

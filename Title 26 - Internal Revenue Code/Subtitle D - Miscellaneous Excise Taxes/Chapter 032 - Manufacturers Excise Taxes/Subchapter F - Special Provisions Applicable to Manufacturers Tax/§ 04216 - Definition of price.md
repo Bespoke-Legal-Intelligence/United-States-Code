@@ -2,7 +2,7 @@
 
 #### (a) Containers, packing and transportation charges.
 
-In determining, for the purposes of this chapter, the price for which an article is sold, there shall be included any charge for coverings and containers of whatever nature, and any charge incident to placing the article in conditionpacked ready for shipment, but there shall be excluded the amount of tax imposed by this chapter, whether or not stated as a separate charge. A transportation, delivery, insurance, installation, or other charge (not required by the foregoing sentence to be included) shall be excluded from the price only if the amount thereof is established to the satisfaction of the Secretary in accordance with the regulations.
+In determining, for the purposes of this chapter, the price for which an article is sold, there shall be included any charge for coverings and containers of whatever nature, and any charge incident to placing the article in condition packed ready for shipment, but there shall be excluded the amount of tax imposed by this chapter, whether or not stated as a separate charge. A transportation, delivery, insurance, installation, or other charge (not required by the foregoing sentence to be included) shall be excluded from the price only if the amount thereof is established to the satisfaction of the Secretary in accordance with the regulations.
 
 #### (b) Constructive sale price
 
@@ -36,7 +36,7 @@ In determining, for the purposes of this chapter, the price for which an article
 
 &emsp;&emsp;(A) the manufacturer, producer, or importer of an article regularly sells such article to a distributor which is a member of the same affiliated group of corporations (as defined in section 1504(a)) as the manufacturer, producer, or importer, and
 
-&emsp;&emsp;(B) such distributor regularly sells such article to one or more independent retailers, but does not regularly sell to wholesale distributors,
+&emsp;&emsp;(B) such distributor regularly sells such article to one or more independent retailers,but does not regularly sell to wholesale distributors,
 
 > &emsp;the constructive sale price of such article shall be 90 percent of the lowest price for which such distributor regularly sells such article in arm's-length transactions to such independent retailers. The price determined under this paragraph shall not be adjusted for any exclusion (except for the tax imposed on such article) or readjustments under subsections (a) and (e) and under section 6416(b)(1). If both this paragraph and paragraph (4) apply with respect to an article, the constructive sale price for such article shall be the lower of the constructive sale price determined under this paragraph or paragraph (4).
 
@@ -66,7 +66,7 @@ In the case of—
 
 &emsp;(1) a lease (other than a lease to which section 4217(b) applies),
 
-&emsp;(2) a contract for the sale of an article wherein it is provided that the price shall bepaid by installments and title to the article sold does not pass until a future date notwithstanding partial payment by installments,
+&emsp;(2) a contract for the sale of an article wherein it is provided that the price shall be paid by installments and title to the article sold does not pass until a future date notwithstanding partial payment by installments,
 
 &emsp;(3) a conditional sale, or
 
@@ -126,7 +126,7 @@ If installment accounts, with respect to payments on which tax is being computed
 
 #### Amendments
 
-<b>1984</b>—Subsec. (b)(1). Pub. L. 98–369, §735(c)(6)(A), in provisions following subpar. (C) struck out “(other than an article the sale of which is taxable under section 4061(a))” in second sentence, before “the computation under the preceding sentence”, and struck out provision that in the case of an article the sale of whichis taxable under section 4061(a) and which is sold at retail, the computation under the first sentence of this paragraph shall be a percentage (not greater than 100 percent) of the actual selling price based on the highest price for which such articles are sold by manufacturers and producers in the ordinary course of trade (determined without regard to any individual manufacturer's or producer's cost).
+<b>1984</b>—Subsec. (b)(1). Pub. L. 98–369, §735(c)(6)(A), in provisions following subpar. (C) struck out “(other than an article the sale of which is taxable under section 4061(a))” in second sentence, before “the computation under the preceding sentence”, and struck out provision that in the case of an article the sale of which is taxable under section 4061(a) and which is sold at retail, the computation under the first sentence of this paragraph shall be a percentage (not greater than 100 percent) of the actual selling price based on the highest price for which such articles are sold by manufacturers and producers in the ordinary course of trade (determined without regard to any individual manufacturer's or producer's cost).
 
 Subsec. (b)(2)(B) to (D). Pub. L. 98–369, §735(c)(6)(B), inserted “and” at end of subpar. (B), redesignated subpar. (D) as (C), and struck out former subpar. (C) which related to articles upon which tax is imposed under section 4061(a) of this title.
 
@@ -192,7 +192,7 @@ Amendment by Pub. L. 98–369 effective, except as otherwise provided, as if inc
 
 #### Effective Date of 1978 Amendment
 
-Section 1(c) of Pub. L. 95–458 provided that: “The amendments made by this section \[amending this section\] shall apply to articles sold by the manufacturer or producer on or after the first day of the first calendar quarter beginning 30 days or more after the date of enactment of this Act \[Oct. 14, 1978\].”
+Pub. L. 95–458, §1(c), Oct. 14, 1978, 92 Stat. 1255, provided that: “The amendments made by this section \[amending this section\] shall apply to articles sold by the manufacturer or producer on or after the first day of the first calendar quarter beginning 30 days or more after the date of enactment of this Act \[Oct. 14, 1978\].”
 
 #### Effective Date of 1976 Amendment
 
@@ -204,41 +204,41 @@ Amendment by Pub. L. 92–178 applicable with respect to articles sold on or aft
 
 #### Effective Date of 1970 Amendment
 
-Section 301(c) of Pub. L. 91–614, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to articles sold after December 31, 1970; except that section 4216(b)(6) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (a)) shall also apply to (1) the application of paragraph (1) of such section 4216(b) to articles sold after June 30, 1962, and before January 1, 1971, and (2) the application of paragraph (3) of such section 4216(b) to articles sold after December 31, 1969, and before January 1, 1971.”
+Pub. L. 91–614, title III, §301(c), Dec. 31, 1970, 84 Stat. 1844, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to articles sold after December 31, 1970; except that section 4216(b)(6) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (a)) shall also apply to (1) the application of paragraph (1) of such section 4216(b) to articles sold after June 30, 1962, and before January 1, 1971, and (2) the application of paragraph (3) of such section 4216(b) to articles sold after December 31, 1969, and before January 1, 1971.”
 
 #### Effective Date of 1969 Amendment
 
-Section 932(b) of Pub. L. 91–172 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to articles sold after December 31, 1969.”
+Pub. L. 91–172, title IX, §932(b), Dec. 30, 1969, 83 Stat. 725, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to articles sold after December 31, 1969.”
 
 #### Effective Date of 1965 Amendment
 
 Amendment by section 207(a), (b) of Pub. L. 89–44 effective June 22, 1965, and amendment by section 208 of Pub. L. 89–44 applicable with respect to articles sold on or after June 22, 1965, except insofar as such amendments related to the taxes imposed by sections 4061(b), 4091, or 4131 and, as to such taxes, applicable with respect to articles sold on or after January 1, 1966, see section 701(a) of Pub. L. 89–44, set out as a note under section 4161 of this title.
 
-Section 801(e) of Pub. L. 89–44 provided that: “The amendments made by subsections (a), (b), and (d) \[amending this section and sections 4063, 4221, and 6416 of this title\] shall apply with respect to articles sold on or after the day after the date of the enactment of this Act \[June 21, 1965\]. The amendment made by subsection (c) \[amending section 4221 of this title\] shall apply with respect to articles sold on or after January 1, 1965.”
+Pub. L. 89–44, title VIII, §801(e), June 21, 1965, 79 Stat. 158, provided that: “The amendments made by subsections (a), (b), and (d) \[amending this section and sections 4063, 4221, and 6416 of this title\] shall apply with respect to articles sold on or after the day after the date of the enactment of this Act \[June 21, 1965\]. The amendment made by subsection (c) \[amending section 4221 of this title\] shall apply with respect to articles sold on or after January 1, 1965.”
 
 #### Effective Date of 1962 Amendments
 
-Section 1(b) of Pub. L. 87–858 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to articles sold by the manufacturer, producer, or importer on or after October 1, 1962.”
+Pub. L. 87–858, §1(b), Oct. 23, 1962, 76 Stat. 1134, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to articles sold by the manufacturer, producer, or importer on or after October 1, 1962.”
 
-Section 2(b) of Pub. L. 87–770 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to articles sold on or after the first day of the first calendar quarter beginning more than 20 days after the date of the enactment of this Act \[Oct. 9, 1962\].”
+Pub. L. 87–770, §2(b), Oct. 9, 1962, 76 Stat. 768, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to articles sold on or after the first day of the first calendar quarter beginning more than 20 days after the date of the enactment of this Act \[Oct. 9, 1962\].”
 
 #### Effective Date of 1960 Amendment
 
-Section 3 of Pub. L. 86–781 provided that: “The amendments made by this Act \[amending this section and section 6416 of this title\] shall apply with respect to articles sold on or after the first day of the first calendar quarter beginning more than twenty days after the date of the enactment of this Act \[Sept. 14, 1960\].”
+Pub. L. 86–781, §3, Sept. 14, 1960, 74 Stat. 1018, provided that: “The amendments made by this Act \[amending this section and section 6416 of this title\] shall apply with respect to articles sold on or after the first day of the first calendar quarter beginning more than twenty days after the date of the enactment of this Act \[Sept. 14, 1960\].”
 
 #### Effective Date of 1958 Amendment
 
-Amendment by Pub. L. 85–859 effective on first day of first calendar quarter which begins more than 60 days after Sept. 2, 1958, see section 1(c) of Pub. L. 85–859.
+Amendment by Pub. L. 85–859 effective on first day of first calendar quarter which begins more than 60 days after Sept. 2, 1958, see section 1(c) of Pub. L. 85–859, Sept. 2, 1958, 72 Stat. 1275.
 
 #### Effective Date of 1955 Amendment
 
-Section 4 of act Aug. 9, 1955, as amended by act Oct. 22, 1986, Pub. L. 99–514, §2, 100 Stat. 2095, provided that: “The amendments made by subsection (a) \[probably should refer to amendments made by sections 1 to 3 of act Aug. 9, 1955, amending this section and section 4217 of this title\] shall take effect on the first day of the first month which begins more than 10 days after the date of the enactment of this act \[Aug. 9, 1955\]. In the application of section 4216(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by this Act) to any article which has been leased before the effective date specified in the preceding sentence, under regulations prescribed by the Secretary of the Treasury or his delegate—
+Act Aug. 9, 1955, ch. 677, §4, 69 Stat. 614, as amended by act Oct. 22, 1986, Pub. L. 99–514, §2, 100 Stat. 2095, provided that: “The amendments made by subsection (a) \[probably should refer to amendments made by sections 1 to 3 of act Aug. 9, 1955, amending this section and section 4217 of this title\] shall take effect on the first day of the first month which begins more than 10 days after the date of the enactment of this act \[Aug. 9, 1955\]. In the application of section 4216(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by this Act) to any article which has been leased before the effective date specified in the preceding sentence, under regulations prescribed by the Secretary of the Treasury or his delegate—
 
 &emsp;“(1) the fair market value of such article shall be the fair market value determined as of such effective date;
 
 &emsp;“(2) only payments under a lease received on or after such effective date shall be considered in determining when the total tax (as defined in such section 4216(d)) has been paid;
 
-&emsp;“(3) any lease existing on such effective date, or if there is none, the first lease entered into after such effective date, shall be considered an initial lease (except that fair market value shall be determined as provided in paragraph (1) of this sentence); and
+&emsp;“(3) any lease existing on such effective date, or if there is none, the first lease entered into after sucheffective date, shall be considered an initial lease (except that fair market value shall be determined as provided in paragraph (1) of this sentence); and
 
 &emsp;“(4) any lease existing on such effective date shall be considered as having been entered into on such date.”
 

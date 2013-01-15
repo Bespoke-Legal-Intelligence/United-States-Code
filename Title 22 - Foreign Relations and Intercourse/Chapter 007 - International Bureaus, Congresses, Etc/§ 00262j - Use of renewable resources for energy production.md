@@ -40,11 +40,11 @@ For purposes of this section, the term “renewable resource” means any energy
 
 #### Congressional Statement of Findings Respecting Use of Renewable Resources for Energy Production in Poor and Developing Countries and Role of International Financial Institutions
 
-Section 601 of Pub. L. 96–259 provided that: “The Congress finds that—
+Pub. L. 96–259, title VI, §601, June 3, 1980, 94 Stat. 432, provided that: “The Congress finds that—
 
 &emsp;“(1) without an adequate supply of energy at affordable prices the world's poor will continue to be deprived of jobs, food, water, shelter, and clothing, and poor countries will continue to be economically and politically unstable;
 
-&emsp;“(2) dependence on increasingly expensive fossil fuel resources consumes too much of the capitalavailable to poor countries with the result that funds are not available to meet the basic needs of poor people;
+&emsp;“(2) dependence on increasingly expensive fossil fuel resources consumes too much of the capital available to poor countries with the result that funds are not available to meet the basic needs of poor people;
 
 &emsp;“(3) in many developing countries the cost of large central generators and long distance electrical distribution makes it unlikely that rural energy by means of a national grid will contribute to meeting the needs of poor people;
 

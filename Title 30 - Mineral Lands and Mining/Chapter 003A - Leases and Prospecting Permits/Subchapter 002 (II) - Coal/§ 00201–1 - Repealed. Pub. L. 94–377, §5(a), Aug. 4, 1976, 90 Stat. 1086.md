@@ -4,5 +4,5 @@ Section, Pub. L. 88–526, §2(c), (d), Aug. 31, 1964, 78 Stat. 710, permitted t
 
 #### Savings Provision
 
-Section 5(a) of Pub. L. 94–377 provided that the repeal of this section is subject to valid existing rights.
+Pub. L. 94–377, §5(a), Aug. 4, 1976, 90 Stat. 1086, provided that the repeal of this section is subject to valid existing rights.
 

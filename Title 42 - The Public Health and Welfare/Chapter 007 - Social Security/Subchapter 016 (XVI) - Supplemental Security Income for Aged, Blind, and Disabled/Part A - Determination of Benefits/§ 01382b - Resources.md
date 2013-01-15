@@ -70,7 +70,7 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 &emsp;(I) the total, cumulative uncompensated value of all resources so disposed of by the individual (or the spouse of the individual) on or after the look-back date described in clause (ii)(I); divided by
 
-&emsp;(II) the amount of the maximum monthly benefit payable under section 1382(b) of this title, plus the amount (if any) of the maximum State supplementary payment corresponding to the State's payment level applicable to the individual's living arrangement and eligibility category that would otherwise be payable to the individual by the Commissioner pursuant to an agreement under section 1382e(a) of this title or section 212(b) of Public Law 93–66, for the month in which occurs the date described in clause (ii)(II),
+&emsp;(II) the amount of the maximum monthly benefit payable under section 1382(b) of thistitle, plus the amount (if any) of the maximum State supplementary payment corresponding to the State's payment level applicable to the individual's living arrangement and eligibility category that would otherwise be payable to the individual by the Commissioner pursuant to an agreement under section 1382e(a) of this title or section 212(b) of Public Law 93–66, for the month in which occurs the date described in clause (ii)(II),
 
 > rounded, in the case of any fraction, to the nearest whole number, but shall not in any case exceed 36 months.
 
@@ -164,7 +164,7 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 &emsp;(iv) any restrictions on the use of distributions from the trust.
 
-(3)(A) In the case of a revocable trust established by an individual, the corpus of the trustshall be considered a resource available to the individual.
+(3)(A) In the case of a revocable trust established by an individual, the corpus of the trust shall be considered a resource available to the individual.
 
 (B) In the case of an irrevocable trust established by an individual, if there are any circumstances under which payment from the trust could be made to or for the benefit of the individual (or of the individual's spouse), the portion of the corpus from which payment to or for the benefit of the individual (or of the individual's spouse) could be made shall be considered a resource available to the individual.
 
@@ -318,13 +318,13 @@ Amendment by Pub. L. 105–306 applicable to gifts made on or after the date tha
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 213(b) of Pub. L. 104–193 applicable to payments made after Aug. 22, 1996, see section213(d) of Pub. L. 104–193, set out as a note under section 1382a of this title.
+Amendment by section 213(b) of Pub. L. 104–193 applicable to payments made after Aug. 22, 1996, see section 213(d) of Pub. L. 104–193, set out as a note under section 1382a of this title.
 
 #### Effective Date of 1994 Amendment
 
 Amendment by section 107(a)(4) of Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of this title.
 
-Section 321(h)(3) of Pub. L. 103–296 provided that: “The amendments made by this subsection \[amending this section and section 1383 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 15, 1994\].”
+Pub. L. 103–296, title III, §321(h)(3), Aug. 15, 1994, 108 Stat. 1544, provided that: “The amendments made by this subsection \[amending this section and section 1383 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 15, 1994\].”
 
 #### Effective Date of 1990 Amendment
 
@@ -338,23 +338,23 @@ Amendment by section 11115(b)(2) of Pub. L. 101–508 applicable to determinatio
 
 Amendment by section 8013(b) of Pub. L. 101–239 effective on 1st day of 4th month beginning after Dec. 19, 1989, see section 8013(c) of Pub. L. 101–239, set out as a note under section 1382a of this title.
 
-Section 8014(b) of Pub. L. 101–239 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the 1st day of the 5th calendar month beginning after the date of the enactment of this Act \[Dec. 19, 1989\].”
+Pub. L. 101–239, title VIII, §8014(b), Dec. 19, 1989, 103 Stat. 2465, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the 1st day of the 5th calendar month beginning after the date of the enactment of this Act \[Dec. 19, 1989\].”
 
-#### Effective Date of 1988 Amendments
+#### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective as though included in section 162 of Housing and Community Development Act of 1987, Pub. L. 100–242, at the time of its enactment, on Feb. 5, 1988, see section 8103(c) of Pub. L. 100–647, set out as a note under section 1382a of this title.
+Amendment by Pub. L. 100–647 effective as though included in section 162 of Housing and Community Development Act of 1987, Pub. L. 100–242, at the time of its enactment, on Feb. 5, 1988, see section 8103(c) of Pub. L.100–647, set out as a note under section 1382a of this title.
 
 Amendment by Pub. L. 100–360 applicable to transfers occurring on or after July 1, 1988, without regard to whether or not final regulations to carry out such amendment have been promulgated by such date, see section 303(g)(3) of Pub. L. 100–360, set out as a note under section 1396r–5 of this title.
 
 #### Effective Date of 1987 Amendment
 
-Section 9103(b) of Pub. L. 100–203 provided that: “The amendments made by subsection (a) \[amending this section\] shall become effective April 1, 1988.”
+Pub. L. 100–203, title IX, §9103(b), Dec. 22, 1987, 101 Stat. 1330–301, provided that: “The amendments made by subsection (a) \[amending this section\] shall become effective April 1, 1988.”
 
-Section 9104(b) of Pub. L. 100–203 provided that: “The amendments made by subsection (a) \[amending this section\] shall become effective April 1, 1988.”
+Pub. L. 100–203, title IX, §9104(b), Dec. 22, 1987, 101 Stat. 1330–301, provided that: “The amendments made by subsection (a) \[amending this section\] shall become effective April 1, 1988.”
 
-Section 9105(b) of Pub. L. 100–203 provided that: “The amendments made by subsection (a) \[amending this section\] shall become effective April 1, 1988.”
+Pub. L. 100–203, title IX, §9105(b), Dec. 22, 1987, 101 Stat. 1330–301, provided that: “The amendments made by subsection (a) \[amending this section\] shall become effective April 1, 1988.”
 
-Section 9114(b) of Pub. L. 100–203 provided that: “The amendment made by subsection (a) \[amending this section\] shall become effective January 1, 1988.”
+Pub. L. 100–203, title IX, §9114(b), Dec. 22, 1987, 101 Stat. 1330–304, provided that: “The amendment made by subsection (a) \[amending this section\] shall become effective January 1, 1988.”
 
 #### Effective Date of 1984 Amendment
 
@@ -364,19 +364,19 @@ Amendment by section 2663(g)(5) of Pub. L. 98–369 effective July 18, 1984, but
 
 #### Effective Date of 1982 Amendment
 
-Section 185(c) of Pub. L. 97–248 provided that: “The amendment made by this section \[amending this section\] shall take effect on the first day of the second month after the month in which this Act is enacted \[September 1982\].”
+Pub. L. 97–248, title I, §185(c), Sept. 3, 1982, 96 Stat. 407, provided that: “The amendment made by this section \[amending this section\] shall take effect on the first day of the second month after the month in which this Act is enacted \[September 1982\].”
 
 #### Effective Date of 1980 Amendment
 
-Section 5(c) of Pub. L. 96–611 provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective with respect to applications for benefits under title XVI of the Social Security Act \[this subchapter\] filed on or after the first day of the first month which begins at least 60 days after the date of enactment of this Act \[Dec. 28, 1980\].”
+Pub. L. 96–611, §5(c), Dec. 28, 1980, 94 Stat. 3568, provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective with respect to applications for benefits under title XVI of the Social Security Act \[this subchapter\] filed on or after the first day of the first month which begins at least 60 days after the date of enactment of this Act \[Dec. 28, 1980\].”
 
 #### Effective Date of 1977 Amendment
 
-Section 9(b) of Pub. L. 95–171 provided that: “The amendment made by this section \[amending this section\] shall be effective July 1, 1976, with respect to catastrophes which occurred on or after June 1, 1976, and before December 31, 1976. With respect to catastrophes which occurred on or after December 1, 1976, the amendment made by this section shall be effective the first day of the calendar quarter following enactment of this Act \[Nov. 12, 1977\].”
+Pub. L. 95–171, §9(b), Nov. 12, 1977, 91 Stat. 1356, provided that: “The amendment made by this section \[amending this section\] shall be effective July 1, 1976, with respect to catastrophes which occurred on or after June 1, 1976, and before December 31, 1976. With respect to catastrophes which occurred on or after December 1, 1976, the amendment made by this section shall be effective the first day of the calendar quarter following enactment of this Act \[Nov. 12, 1977\].”
 
 #### Effective Date
 
-Section 301 of Pub. L. 92–603 provided that this section is effective Jan. 1, 1974.
+Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1465, provided that this section is effective Jan. 1, 1974.
 
 #### Application to Northern Mariana Islands
 

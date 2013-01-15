@@ -6,7 +6,7 @@ High-voltage circuits entering the underground area of any coal mine shall be pr
 
 #### (b) Circuits extending underground and supplying equipment; direct neutral grounds; ground conductors for frames, exceptions; location of disconnection devices, exceptions
 
-High-voltage circuits extending underground and supplying portable, mobile, or stationary high-voltage equipment shall contain either a direct or derived neutral which shall be grounded through a suitable resistor at the source transformers, and a grounding circuit, originating at the grounded side of the grounding resistor, shall extend along with the power conductors and serve as a grounding conductor for the frames of all high-voltage equipment supplied power from that circuit, except that the Secretary or his authorized representative may permit ungrounded high-voltage circuits to be extended underground to feed stationary electrical equipment if such circuits are either steel armored or installed in grounded, rigid steel conduit throughout their entire length, and upon his finding that such exception does not pose a hazard to the miners. Within one hundred feet of the point on the surface where high-voltage circuits enter the underground portion of the mine, disconnecting devices shall be installed and so equipped or designed in such a manner that it can be determined by visual observation that the power is disconnected, except that the Secretary or his authorized representative may permit such devices to be installed at a greater distance from such area of the mine if he determines, based on existing physical conditions, that such installation will be more accessible at a greater distance and will not pose any hazard to the miners.
+High-voltage circuits extending underground and supplying portable, mobile, or stationary high-voltage equipment shall contain either a direct or derived neutral which shall be grounded through a suitable resistor at the source transformers, and a grounding circuit, originating at the grounded side of the grounding resistor, shall extend along with the power conductors and serve as a grounding conductor for the frames of all high-voltage equipment supplied power from that circuit, except that the Secretary or his authorized representative may permit ungrounded high-voltage circuits to be extended underground to feed stationary electrical equipment if such circuits are either steel armored or installed in grounded, rigid steel conduit throughout their entire length, and upon his finding that such exception does not pose a hazard to the miners. Within one hundred feet of the point on the surface where high-voltage circuits enter the underground portion of the mine, disconnecting devices shall be installed and so equipped or designed in such a manner that it can be determined by visual observation that the power is disconnected, except that the Secretary or his authorized representative may permit such devices to be installed at a greater distance from such area of the mine if he determines, based on existing physical conditions, that such installation will be more accessible ata greater distance and will not pose any hazard to the miners.
 
 #### (c) Grounding resistors
 
@@ -18,7 +18,7 @@ Six months after the operative date of this subchapter, high-voltage, resistance
 
 #### (e) Underground cables used in resistance grounded systems; metallic shields for power conductors; standards; splices
 
-(1) Underground high-voltage cables used in resistance grounded systems shall be equippedwith metallic shields around each power conductor, with one or more ground conductors having a total cross-sectional area of not less than one-half the power conductor, and with an insulated internal or external conductor not smaller than No. 8 (AWG) for the ground continuity check circuit.
+(1) Underground high-voltage cables used in resistance grounded systems shall be equipped with metallic shields around each power conductor, with one or more ground conductors having a total cross-sectional area of not less than one-half the power conductor, and with an insulated internal or external conductor not smaller than No. 8 (AWG) for the ground continuity check circuit.
 
 (2) All such cables shall be adequate for the intended current and voltage. Splices made in such cables shall provide continuity of all components.
 
@@ -46,7 +46,7 @@ Circuit breakers and disconnecting switches underground shall be marked for iden
 
 In the case of high-voltage cables used as trailing cables, temporary splices shall not be used and all permanent splices shall be made in accordance with section 866(e) of this title. Terminations and splices in all other high-voltage cables shall be made in accordance with the manufacturer's specifications.
 
-#### (<i>l</i>) Grounding of frames of underground equipment
+#### (l) Grounding of frames of underground equipment
 
 Frames, supporting structures, and enclosures of stationary, portable, or mobile underground high-voltage equipment and all high-voltage equipment supplying power to such equipment receiving power from resistance grounded systems shall be effectively grounded to the high-voltage ground.
 

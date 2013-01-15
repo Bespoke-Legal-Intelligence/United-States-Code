@@ -86,7 +86,7 @@ For purposes of this section—
 
 #### (3) Exception for qualified electric vehicles
 
-&emsp;The term “qualified clean-fuel vehicle property” does not include any qualified electric vehicle (as defined in section 30(c)).
+&emsp;The term “qualified clean-fuel vehicle property” does not include any qualified electric vehicle (as defined in section 30(c)).<sup>1</sup>
 
 #### (d) Qualified clean-fuel vehicle refueling property defined
 
@@ -152,7 +152,11 @@ For purposes of this section—
 
 This section shall not apply to any property placed in service after December 31, 2005.
 
-(Added Pub. L. 102–486, title XIX, §1913(a)(1), Oct. 24, 1992, 106 Stat. 3016; amended Pub. L. 104–188, title I, §1704(j)(2), Aug. 20, 1996, 110 Stat. 1881; Pub. L. 107–147, title VI, §606(a), Mar. 9, 2002, 116 Stat. 60; Pub. L. 108–311, title III,§319(a), Oct. 4, 2004, 118 Stat. 1182; Pub. L. 109–58, title XIII, §1348, Aug. 8, 2005, 119 Stat. 1056.)
+(Added Pub. L. 102–486, title XIX, §1913(a)(1), Oct. 24, 1992, 106 Stat. 3016; amended Pub. L. 104–188, title I, §1704(j)(2), Aug. 20, 1996, 110 Stat. 1881; Pub. L. 107–147, title VI, §606(a), Mar. 9, 2002, 116 Stat. 60; Pub. L. 108–311, title III, §319(a), Oct. 4, 2004, 118 Stat. 1182; Pub. L. 109–58, title XIII, §1348, Aug. 8, 2005, 119 Stat. 1056.)
+
+#### References in Text
+
+Section 30, referred to in subsec. (c)(3), was amended generally by Pub. L. 111–5, div. B, title I, §1142(a), Feb. 17, 2009, 123 Stat. 328, and as so amended no longer defines “qualified electric vehicle”.
 
 #### Amendments
 
@@ -189,4 +193,6 @@ Pub. L. 107–147, title VI, §606(b), Mar. 9, 2002, 116 Stat. 60, provided that
 #### Effective Date
 
 Section applicable to property placed in service after June 30, 1993, see section 1913(c) of Pub. L. 102–486, set out as a note under section 30 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -18,7 +18,7 @@
 
 <b>2002</b>—Pub. L. 107–295, §416(a)(5)(A), substituted “separation” for “severance” in section catchline.
 
-Subsec. (a)(2). Pub. L. 107–295, §416(a)(5)(B), added par. (2) and struck out former par. (2) which read as follows: “for honorable discharge with severance benefits under subsection (b) in those cases arising under clause (1) of section 321 of this title; or”.
+Subsec. (a)(2). Pub. L. 107–295, §416(a)(5)(B), added par. (2) and struck out former par. (2) which read as follows:“for honorable discharge with severance benefits under subsection (b) in those cases arising under clause (1) of section 321 of this title; or”.
 
 Subsec. (a)(3). Pub. L. 107–295, §416(a)(5)(C), struck out par. (3) which read as follows: “for discharge with severance benefits under subsection (b) in those cases arising under clause (2) of section 321 of this title.”
 

@@ -32,7 +32,7 @@ As used in this subchapter—
 
 (k) The term “commerce” means commerce among the several States or with foreign nations, or in any Territory of the United States or in the District of Columbia, or between any such Territory and another, or between any such Territory and any State or foreign nation or between the District of Columbia and any State or Territory or foreign nation.
 
-(<i>l</i>) The term “Territory” includes the insular possessions of the United States, and also any Territory of the United States.
+(l) The term “Territory” includes the insular possessions of the United States, and also any Territory of the United States.
 
 (m) The term “ultimate consumer” means a person who obtains a textile fiber product by purchase or exchange with no intent to sell or exchange such textile fiber product in any form.
 

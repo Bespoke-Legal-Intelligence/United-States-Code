@@ -102,7 +102,7 @@ The Secretary may provide technical assistance to States, State health authoriti
 
 (4) Subsections (d), (e), and (f) of this section shall apply to grants under this subsection in the same manner as such subsections apply to grants under subsection (a) of this section.
 
-#### (<i>l</i>) Authority to purchase recommended vaccines for adults
+#### (l) Authority to purchase recommended vaccines for adults
 
 #### (1) In general
 
@@ -158,9 +158,9 @@ The Secretary may provide technical assistance to States, State health authoriti
 
 #### (7) Authorization of appropriations
 
-&emsp;There is authorized to be appropriated to carry out this subsection, such sums as maybe necessary for each of fiscal years 2010 through 2014.
+&emsp;There is authorized to be appropriated to carry out this subsection, such sums as may be necessary for each of fiscal years 2010 through 2014.
 
-(July 1, 1944, ch. 373, title III, §317, as added Pub. L. 87–868, §2, Oct. 23, 1962, 76 Stat. 1155; amended Pub. L. 89–109, §2, Aug. 5, 1965, 79 Stat. 435; Pub. L. 91–464, §2, Oct. 16, 1970, 84 Stat. 988; Pub. L. 92–449, title I, §101, Sept. 30, 1972, 86 Stat. 748; Pub. L. 93–354, §4, July 23, 1974, 88 Stat. 376; Pub. L. 94–63, title VI, §601, July 29, 1975, 89 Stat. 346; Pub. L. 94–317, title II, §202(a), June 23, 1976, 90 Stat. 700; Pub. L. 94–380, §2, Aug. 12, 1976, 90 Stat. 1113; Pub. L. 95–626, title II, §§202, 204(b)(2), Nov. 10, 1978, 92 Stat. 3574, 3583; Pub. L. 96–32, §6(i), July 10, 1979, 93 Stat. 83; Pub. L. 97–35, title IX, §928, Aug. 13, 1981, 95 Stat. 569; Pub. L. 98–555, §2, Oct. 30, 1984, 98 Stat. 2854; Pub. L. 99–117, §11(c), Oct. 7, 1985, 99 Stat. 495; Pub. L. 100–177, title I, §§110(a), 111, Dec. 1, 1987, 101 Stat. 990, 991; Pub. L. 101–368, §2, Aug. 15, 1990, 104 Stat. 446; Pub. L. 101–502, §2(a), Nov. 3, 1990, 104 Stat. 1285; Pub. L. 103–183, title III, §301(b), Dec. 14, 1993, 107 Stat. 2235; Pub. L. 105–392, title III, §303, Nov. 13, 1998, 112 Stat. 3586; Pub. L. 106–310, div. A, title XVII, §1711, Oct. 17, 2000, 114 Stat. 1152; Pub. L. 111–148, title IV, §4204(a)–(c), Mar. 23, 2010, 124 Stat. 571, 572.)
+(July 1, 1944, ch. 373, title III, §317, as added Pub. L. 87–868, §2, Oct. 23, 1962, 76 Stat. 1155; amended Pub. L. 89–109, §2, Aug. 5, 1965, 79 Stat. 435; Pub. L. 91–464, §2, Oct. 16, 1970, 84 Stat. 988; Pub. L. 92–449, title I, §101, Sept. 30, 1972, 86 Stat. 748; Pub. L. 93–354, §4, July 23, 1974, 88 Stat. 376; Pub. L. 94–63, title VI, §601, July 29, 1975, 89 Stat. 346; Pub. L. 94–317, title II, §202(a), June 23, 1976, 90 Stat. 700; Pub. L. 94–380, §2, Aug. 12, 1976, 90 Stat. 1113; Pub. L. 95–626, title II, §§202, 204(b)(2), Nov. 10, 1978, 92 Stat. 3574, 3583; Pub. L. 96–32, §6(i), July 10, 1979, 93 Stat. 83; Pub. L. 97–35, title IX, §928, Aug. 13, 1981, 95 Stat. 569; Pub. L. 98–555, §2, Oct. 30, 1984, 98 Stat. 2854; Pub. L. 99–117, §11(c), Oct. 7, 1985, 99 Stat. 495; Pub. L. 100–177, title I, §§110(a), 111, Dec. 1, 1987, 101 Stat. 990, 991; Pub. L. 101–368, §2, Aug. 15, 1990, 104 Stat. 446; Pub. L. 101–502, §2(a), Nov. 3, 1990, 104 Stat. 1285; Pub. L. 103–183, title III, §301(b), Dec. 14, 1993, 107 Stat. 2235; Pub. L. 105–392, title III, §303, Nov. 13,1998, 112 Stat. 3586; Pub. L. 106–310, div. A, title XVII, §1711, Oct. 17, 2000, 114 Stat. 1152; Pub. L. 111–148, title IV, §4204(a)–(c), Mar. 23, 2010, 124 Stat. 571, 572.)
 
 #### References in Text
 
@@ -176,7 +176,7 @@ March 23, 2010, referred to in subsec. (m)(6), was in the original “the date o
 
 Subsec. (j)(2). Pub. L. 111–148, §4204(c)(2), struck out “after October 1, 1997,” after “routine use,”.
 
-Subsecs. (<i>l</i>), (m). Pub. L. 111–148, §4204(a), (b), added subsecs. (<i>l</i>) and (m).
+Subsecs. (l), (m). Pub. L. 111–148, §4204(a), (b), added subsecs. (l) and (m).
 
 <b>2000</b>—Subsec. (j)(1). Pub. L. 106–310 substituted “1998 through 2005” for “1998 through 2002” in first sentence.
 
@@ -200,7 +200,7 @@ Subsec. (k)(3). Pub. L. 103–183, §301(b)(2)(B), redesignated par. (4) as (3).
 
 Subsec. (k)(4), (5). Pub. L. 103–183, §301(b)(2)(B), (C), redesignated par. (5) as (4) and made technical amendments to references to subsections (d), (e), and (f) of this section and subsection (a) of this section, to reflect change in references to corresponding provisions of original act. Former par. (4) redesignated (3).
 
-Subsec. (<i>l</i>). Pub. L. 103–183, §301(b)(3), struck out subsec. (<i>l</i>) which related to establishment and function of Advisory Council for the Elimination of Tuberculosis.
+Subsec. (l). Pub. L. 103–183, §301(b)(3), struck out subsec. (l) which related to establishment and function of Advisory Council for the Elimination of Tuberculosis.
 
 <b>1990</b>—Subsec. (j)(1)(A). Pub. L. 101–502, §2(a)(1), substituted provisions authorizing appropriations for fiscal years 1991 through 1995 for provisions authorizing appropriations for fiscal years 1988 through 1990.
 
@@ -214,7 +214,7 @@ Pub. L. 101–368, §2(a)(1), substituted “preventive health service programs 
 
 Subsec. (k)(2)(A) to (D). Pub. L. 101–368, §2(a)(2), substituted “prevention, control, and elimination” for “prevention and control”.
 
-Subsec. (<i>l</i>). Pub. L. 101–368, §2(b), added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 101–368, §2(b), added subsec. (l).
 
 <b>1987</b>—Subsec. (j). Pub. L. 100–177, §§110(a), 111(a), amended subsec. (j) generally, substituting provisions authorizing appropriations for fiscal years 1988 to 1990 for grants under subsecs. (a) and (k) of this section for former provisions authorizing appropriations for fiscal years 1982 to 1987 for grants under subsec. (a) of this section.
 
@@ -236,9 +236,9 @@ Subsec. (j). Pub. L. 97–35, §928(b), as amended by Pub. L. 99–117, substitu
 
 Subsec. (g)(2). Pub. L. 95–626, §204(b)(2), struck out “Except as provided in section 247c of this title,” before “No funds appropriated under any provision of this chapter”.
 
-<b>1976</b>—Pub. L. 94–317 amended section generally to include many non-communicable diseases as well as expanding coverage of communicable diseases, increased appropriations for grants, widened scope of Secretary's authority to make grants and enter into contracts to include nonprofit private entities, and required a report from the Secretary on the effectiveness of all Federal and other public and private activities in controlling the diseases covered under this section.
+<b>1976</b>—Pub. L. 94–317 amended section generally to include many non-communicable diseases as well as expanding coverage of communicable diseases, increasedappropriations for grants, widened scope of Secretary's authority to make grants and enter into contracts to include nonprofit private entities, and required a report from the Secretary on the effectiveness of all Federal and other public and private activities in controlling the diseases covered under this section.
 
-Subsecs. (j) to (<i>l</i>). Pub. L. 94–380 added subsecs. (j) to (<i>l</i>).
+Subsecs. (j) to (l). Pub. L. 94–380 added subsecs. (j) to (l).
 
 <b>1975</b>—Subsec. (d)(3). Pub. L. 94–63, §601(b), inserted authorization of appropriation for fiscal year 1976.
 
@@ -284,7 +284,7 @@ Subsec. (e). Pub. L. 91–464 struck out reference to title V of the Social Secu
 
 Subsecs. (f), (g). Pub. L. 91–464 added subsecs. (f) and (g).
 
-<b>1965</b>—Subsec. (a). Pub. L. 89–109, §2(a), (b), (d)(1), inserted “and each of the next three fiscal years”, substituted “any fiscal year ending prior to July 1, 1968” for “the fiscal years ending June 30, 1963, and June 30, 1964”, “tetanus, and measles” for “and tetanus”, “of preschool age” for “under the age of five years”, and “immunization” for “intensive community vaccination”, and permitted grants to be used to pay costs inconnection with immunization of other infectious diseases.
+<b>1965</b>—Subsec. (a). Pub. L. 89–109, §2(a), (b), (d)(1), inserted “and each of the next three fiscal years”, substituted “any fiscal year ending prior to July 1, 1968” for “the fiscal years ending June 30, 1963, and June 30, 1964”, “tetanus, and measles” for “and tetanus”, “of preschool age” for “under the age of five years”, and “immunization” for “intensive community vaccination”, and permitted grants to be used to pay costs in connection with immunization of other infectious diseases.
 
 Subsec. (b). Pub. L. 89–109, §2(c), (d)(1), substituted “against the diseases referred to in subsection (a) of this section” for “against poliomyelitis, diphtheria, whooping cough, and tetanus”, “of preschool age” for “who are under the age of five years” and “immunization” for “intensive community vaccination” in two places.
 
@@ -292,15 +292,15 @@ Subsec. (c). Pub. L. 89–109, §2(d)(1), (e), inserted “on the basis of estim
 
 #### Effective Date of 1978 Amendment
 
-Section 202 of Pub. L. 95–626, as amended by Pub. L. 96–32, §6(g), July 10, 1979, 93 Stat. 83, provided that the amendment made by that section is effective Oct. 1, 1978.
+Pub. L. 95–626, title II, §202, Nov. 10, 1978, 92 Stat. 3574, as amended by Pub. L. 96–32, §6(g), July 10, 1979, 93 Stat. 83, provided that the amendment made by that section is effective Oct. 1, 1978.
 
 #### Effective Date of 1976 Amendment
 
-Section 202(a) of Pub. L. 94–317 provided that the amendment made by that section is effective with respect to grants under this section for fiscal years beginning after June 30, 1975.
+Pub. L. 94–317, title II, §202(a), Nov. 10, 1978, 92 Stat. 3574, provided that the amendment made by that section is effective with respect to grants under this section for fiscal years beginning after June 30, 1975.
 
 #### Effective Date of 1975 Amendment
 
-Section 608 of title VI of Pub. L. 94–63 provided that: “Except as may otherwise be specifically provided, the amendments made by this title \[enacting sections 300c–21 and 300c–22 of this title, amending this section, and enacting provisions set out as notes under sections 289, 289k–2, and 1395x of this title\] and by titles I \[amending section 246 of this title and enacting provisions set out as notes under section 246 of this title\], II \[enacting sections 300a–6a and 300a–8 of this title, amending sections 300 and 300a–1 to 300a–4 of this title, repealing section 3505c of this title, and enacting provision set out as a note under section 300 of this title\], III \[enacting sections 2689 to 2689aa of this title, amending sections 2691 and 2693 to 2696 of this title, and enacting provisions set out as notes under section 2689 of this title\], IV \[amending sections 218 and 254b of this title and enacting provision set out as a note under section 254b of this title\], and V \[enacting section 254c of this title and amending section 246 of this title\] of this Act shall take effect July 1, 1975. The amendments made by this title and by such titles to the provisions of law amended by this title and by such titles are made to such provisions as amended by title VII of this Act \[amending sections 246, 254b, 300, 300a–1 to 300a–3 of this title and sections 2681, 2687, 2688a, 2688d, 2688j–1, 2688j–2, 2688<i>l</i>, 2688<i>l</i>–1, 2688n–1, 2688<i>o</i>, and 2688u of this title\].”
+Pub. L. 94–63, title VI, §608, July 29, 1975, 89 Stat. 352, provided that: “Except as may otherwise be specifically provided, the amendments made by this title \[enacting sections 300c–21 and 300c–22 of this title, amending this section, and enacting provisions set out as notes under sections 289, 289k–2, and 1395x of this title\] and by titles I \[amending section 246 of this title and enacting provisions set out as notes under section 246 of this title\], II \[enacting sections 300a–6a and 300a–8 of this title, amending sections 300 and 300a–1 to 300a–4 of this title, repealing section 3505c of this title, and enacting provision set out as a note under section 300 of this title\], III \[enacting sections 2689 to 2689aa of this title, amending sections 2691 and 2693 to 2696 of this title, and enacting provisions set out as notes under section 2689 of this title\], IV \[amending sections 218 and 254b of this title and enacting provision set out as a note under section 254b of this title\], and V \[enacting section 254c of this title and amending section 246 of this title\] of this Act shall take effect July 1, 1975. The amendments made by this title and by such titles to the provisions of law amended by this title and by such titles are made to such provisions as amended by title VII of this Act \[amending sections 246, 254b, 300, 300a–1 to 300a–3 of this title and sections 2681, 2687, 2688a, 2688d, 2688j–1, 2688j–2, 2688l, 2688l–1, 2688n–1, 2688o, and 2688u of this title\].”
 
 #### Effective Date of 1972 Amendment
 
@@ -316,7 +316,7 @@ Pub. L. 94–420, §3, Sept. 23, 1976, 90 Stat. 1301, provided that, in order to
 
 #### Study by Secretary of Scope and Extent of Liability Arising Out of Immunization Program; Alternative Protective Approaches; Report to Congress
 
-Section 3 of Pub. L. 94–380 directed Secretary to conduct a study of liability for personal injuries or death arising out of immunization programs and of alternative approaches to provide protection against such liability and report to Congress on findings of such study by Aug. 12, 1977.
+Pub. L. 94–380, §3, Aug. 12, 1976, 90 Stat. 1118, directed Secretary to conduct a study of liability for personal injuries or death arising out of immunization programs and of alternative approaches to provide protection against such liability and report to Congress on findings of such study by Aug. 12, 1977.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

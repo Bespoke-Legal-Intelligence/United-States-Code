@@ -116,7 +116,7 @@ The provisions of section 1395p of this title (except subsection (f) thereof), s
 
 &emsp;(i)(I) the person was receiving cash benefits under a qualified State or local government retirement system (as defined in subparagraph (C)) on the basis of the person's employment in one or more positions covered under any such system, and (II) the person would have at least 40 quarters of coverage under subchapter II of this chapter if remuneration for medicare qualified government employment (as defined in paragraph (1) of section 410(p) of this title, but determined without regard to paragraph (3) of such section) paid to such person were treated as wages paid to such person and credited for purposes of determining quarters of coverage under section 413 of this title;
 
-&emsp;(ii)(I) the person was married (and had been married for the previous 1-year period) to an individual who is described in clause (i), or (II) the person met the requirement of clause (i)(II) and was married (and had been married for the previous 1-year period) to an individual described in clause (i)(I);
+&emsp;(ii)(I) the person was married (and had been married for the previous 1-year period) to an individual who is described in clause (i), or (II) the person met the requirement of clause (i)(II) and was married (and had been marriedfor the previous 1-year period) to an individual described in clause (i)(I);
 
 &emsp;(iii) the person had been married to an individual for a period of at least 1 year (at the time of such individual's death) if (I) the individual was described in clause (i) at the time of the individual's death, or (II) the person met the requirement of clause (i)(II) and the individual was described in clause (i)(I) at the time of the individual's death; or
 
@@ -130,7 +130,7 @@ The provisions of section 1395p of this title (except subsection (f) thereof), s
 
 &emsp;(iii) does not adjust cash retirement benefits based on eligibility for a reduction in premium under this paragraph.
 
-(6)(A) In the case where a State, a political subdivision of a State, or an agency or instrumentality of a State or political subdivision thereof determines to pay, for the life of each individual, the monthly premiums due under paragraph (1) on behalf of each of the individuals ina qualified State or local government retiree group who meets the conditions of subsection (a) of this section, the amount of any increase otherwise applicable under section 1395r(b) of this title (as applied and modified by subsection (c)(6) of this section) with respect to the monthly premium for benefits under this part for an individual who is a member of such group shall be reduced by the total amount of taxes paid under section 3101(b) of the Internal Revenue Code of 1986 by such individual and under section 3111(b) of such Code by the employers of such individual on behalf of such individual with respect to employment (as defined in section 3121(b) of such Code).
+(6)(A) In the case where a State, a political subdivision of a State, or an agency or instrumentality of a State or political subdivision thereof determines to pay, for the life of each individual, the monthly premiums due under paragraph (1) on behalf of each of the individuals in a qualified State or local government retiree group who meets the conditions of subsection (a) of this section, the amount of any increase otherwise applicable under section 1395r(b) of this title (as applied and modified by subsection (c)(6) of this section) with respect to the monthly premium for benefits under this part for an individual who is a member of such group shall be reduced by the total amount of taxes paid under section 3101(b) of the Internal Revenue Code of 1986 by such individual and under section 3111(b) of such Code by the employers of such individual on behalf of such individual with respect to employment (as defined in section 3121(b) of such Code).
 
 (B) For purposes of this paragraph, the term “qualified State or local government retiree group” means all of the individuals who retire prior to a specified date that is before January 1, 2002, from employment in one or more occupations or other broad classes of employees of—
 
@@ -196,7 +196,7 @@ Subsec. (d). Pub. L. 100–360, §103, amended subsec. (d) generally. Prior to a
 
 “(1) The monthly premium of each individual for each month in his coverage period before July 1974 shall be $33.
 
-“(2) The Secretary shall, during the next to last calendar quarter of each year determine and promulgate the dollar amount (whether or not such dollar amount was applicable for premiums for any prior month) which shall be applicable for premiums for months occurring in the following calendar year. Such amount shall be equal to $33, multiplied by the ratio of (A) the inpatient hospital deductible for that following calendar year, as promulgated under section 1395e(b)(2) ofthis title, to (B) such deductible promulgated for 1973. Any amount determined under the preceding sentence which is not a multiple of $1 shall be rounded to the nearest multiple of $1, or, if a multiple of 50 cents but not a multiple of $1, to the next higher multiple of $1.”
+“(2) The Secretary shall, during the next to last calendar quarter of each year determine and promulgate the dollar amount (whether or not such dollar amount was applicable for premiums for any prior month) which shall be applicable for premiums for months occurring in the following calendar year. Such amount shall be equal to $33, multiplied by the ratio of (A) the inpatient hospital deductible for that following calendar year, as promulgated under section 1395e(b)(2) of this title, to (B) such deductible promulgated for 1973. Any amount determined under the preceding sentence which is not a multiple of $1 shall be rounded to the nearest multiple of $1, or, if a multiple of 50 cents but not a multiple of $1, to the next higher multiple of $1.”
 
 Subsec. (d)(1). Pub. L. 100–485 substituted “during that year” for “during that entire year”.
 
@@ -220,23 +220,23 @@ Pub. L. 106–554, §1(a)(6) \[title III, §331(b)\], Dec. 21, 2000, 114 Stat. 2
 
 #### Effective Date of 1997 Amendment
 
-Section 4453(b) of Pub. L. 105–33 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to premiums for months beginning with January 1998, and months before such month may be taken into account for purposes of meeting the requirement of section 1818(d)(5)(B)(iii) of the Social Security Act \[subsec. (d)(5)(B)(iii) of this section\], as added by subsection (a).”
+Pub. L. 105–33, title IV, §4453(b), Aug. 5, 1997, 111 Stat. 426, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to premiums for months beginning with January 1998, and months before such month may be taken into account for purposes of meeting the requirement of section 1818(d)(5)(B)(iii) of the Social Security Act \[subsec. (d)(5)(B)(iii) of this section\], as added by subsection (a).”
 
 #### Effective Date of 1993 Amendment
 
-Section 13508(b) of Pub. L. 103–66 provided that: “The amendments made by this section \[amending this section\] shall apply to monthly premiums under section 1818 of the Social Security Act \[this section\] for months beginning with January 1, 1994.”
+Pub. L. 103–66, title XIII, §13508(b), Aug. 10, 1993, 107 Stat. 580, provided that: “The amendments made by this section \[amending this section\] shall apply to monthly premiums under section 1818 of the Social Security Act \[this section\] for months beginning with January 1, 1994.”
 
 #### Effective Date of 1990 Amendment
 
-Section 4008(g)(2) of Pub. L. 101–508 provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on February 1, 1991.”
+Pub. L. 101–508, title IV, §4008(g)(2), Nov. 5, 1990, 104 Stat. 1388–46, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on February 1, 1991.”
 
 #### Effective Date of 1989 Amendment
 
 Amendment by section 6012(a)(1) of Pub. L. 101–239 effective Dec. 19, 1989, but not applicable so as to provide coverage under this part for any month before July 1990, see section 6012(b) of Pub. L. 101–239, set out as an Effective Date note under section 1395i–2a of this title.
 
-Section 6013(c) of Pub. L. 101–239 provided that: “The amendments made by this section \[amending this section and section 1395v of this title\] shall become effective January 1, 1990.”
+Pub. L. 101–239, title VI, §6013(c), Dec. 19, 1989, 103 Stat. 2164, provided that: “The amendments made by this section \[amending this section and section 1395v of this title\] shall become effective January 1, 1990.”
 
-#### Effective Date of 1988 Amendments
+#### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–485 effective as if originally included in the Medicare Catastrophic Coverage Act of 1988, Pub. L. 100–360, see section 608(g)(1) of Pub. L. 100–485, set out as a note under section 704 of this title.
 
@@ -246,7 +246,7 @@ Except as specifically provided in section 411 of Pub. L. 100–360, amendment b
 
 #### Effective Date of 1986 Amendment
 
-Section 9124(b) of Pub. L. 99–272 provided that:
+Pub. L. 99–272, title IX, §9124(b), Apr. 7, 1986, 100 Stat. 168, provided that:
 
 “(1) The amendment made by subsection (a)(3) \[amending this section\] shall apply to premiums paid for months beginning with July 1986.
 
@@ -270,9 +270,9 @@ Pub. L. 97–248, title I, §125, Sept. 3, 1982, 96 Stat. 365, provided that:
 
 &emsp;“(1) was entitled to medical, surgical, and dental treatment and hospitalization under section 322(a) of the Public Health Service Act \[section 249(a) of this title\] (as in effect on September 30, 1981), including such entitlement on the basis of continuing medical care under 42 C.F.R. §32.17, at any time during the period beginning on March 10, 1981, and ending on October 1, 1981, and
 
-&emsp;“(2) as of September 30, 1981, was eligible under section 1818(a) or section 1836 of the Social Security Act \[this section or section 1395<i>o</i> of this title\] to enroll in the insurance program established by part A or part B, respectively, of title XVIII of that Act \[this subchapter\] (hereinafter in this section referred to as the ‘respective program’),
+&emsp;“(2) as of September 30, 1981, was eligible under section 1818(a) or section 1836 of the Social Security Act \[this section or section 1395o of this title\] to enroll in the insurance program established by part A or part B, respectively, of title XVIII of that Act \[this subchapter\] (hereinafter in this section referred to as the ‘respective program’),
 
-> may enroll (if not otherwise enrolled) in the respective program during the period beginning on the first day ofthe first month beginning at least 20 days after the date of the enactment of this Act \[Sept. 3, 1982\] and ending on December 31, 1982.
+> may enroll (if not otherwise enrolled) in the respective program during the period beginning on the first day of the first month beginning at least 20 days after the date of the enactment of this Act \[Sept. 3, 1982\] and ending on December 31, 1982.
 
 “(b)(1) The coverage period under the respective program of an individual who enrolls under subsection (a) shall begin—
 

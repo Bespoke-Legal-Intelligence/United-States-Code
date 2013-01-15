@@ -70,9 +70,9 @@ Except as otherwise provided, Secretary of State to have and exercise any author
 
 #### Assumption of Duties by Administrator of Bureau of Security and Consular Affairs
 
-Section 109(b)(4) of Pub. L. 95–105 provided that: “The individual holding the position of administrator of the Bureau of Security and Consular Affairs on the date of enactment of this section \[Aug. 17, 1977\] shall assume the duties of the Assistant Secretary of State for Consular Affairs and shall not be required to be reappointed by reason of the enactment of this section.”
+Pub. L. 95–105, title I, §109(b)(4), Aug. 17, 1977, 91 Stat. 847, provided that: “The individual holding the position of administrator of the Bureau of Security and Consular Affairs on the date of enactment of this section \[Aug. 17, 1977\] shall assume the duties of the Assistant Secretary of State for Consular Affairs and shall not be required to be reappointed by reason of the enactment of this section.”
 
 #### References to Bureau of Security and Consular Affairs or Administrator
 
-Section 109(b)(5) of Pub. L. 95–105 provided that: “Any reference in any law to the Bureau of Security and Consular Affairs or to the administrator of such Bureau shall be deemed to be a reference to the Bureau of Consular Affairs or to the Assistant Secretary of State for Consular Affairs, respectively.”
+Pub. L. 95–105, title I, §109(b)(5), Aug. 17, 1977, 91 Stat. 847, provided that: “Any reference in any law to the Bureau of Security and Consular Affairs or to the administrator of such Bureau shall be deemed to be a reference to the Bureau of Consular Affairs or to the Assistant Secretary of State for Consular Affairs, respectively.”
 

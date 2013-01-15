@@ -1,6 +1,6 @@
 ### §3515. Performance of one-year contracts during two fiscal years
 
-Funds provided in this Act or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts may be used for one-year contracts which are to be performed in two fiscal years, so long as the total amount for such contracts is obligated in the year for which the funds are appropriated.
+Funds provided in this Act or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts may be used for one-year contracts which are to be performed in two fiscalyears, so long as the total amount for such contracts is obligated in the year for which the funds are appropriated.
 
 (Pub. L. 102–394, title II, §208, Oct. 6, 1992, 106 Stat. 1811.)
 

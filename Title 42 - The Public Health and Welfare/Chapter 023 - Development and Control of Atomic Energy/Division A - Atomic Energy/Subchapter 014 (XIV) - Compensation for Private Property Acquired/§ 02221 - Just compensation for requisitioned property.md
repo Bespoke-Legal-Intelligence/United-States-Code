@@ -18,7 +18,7 @@ Provisions similar to this section were contained in section 1813(a) of this tit
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a noteunder section 171 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1982 Amendment
 
@@ -26,7 +26,7 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 #### Retrocession of Land to New Mexico
 
-Section 3 of act Aug. 30, 1954, provided that:
+Act Aug. 30, 1954, ch. 1073, §3, 68 Stat. 961, provided that:
 
 “There is hereby retroceded to the State of New Mexico the exclusive jurisdiction heretofore acquired from the State of New Mexico by the United States of America over the following land of the United States Atomic Energy Commission in Bernalillo County and within the boundaries of the Sandia base, Albuquerque, New Mexico.
 

@@ -10,13 +10,13 @@ Based on title 28, U.S.C., 1940 ed., §§344, 876, 877 (R.S. §701; Mar. 3, 1891
 
 Section consolidates part of section 344 of title 28, U.S.C., 1940 ed., with sections 876 and 877 of said title. Other provisions of said section 344 are incorporated in sections 1257 and 2103 of this title.
 
-Words “or a court of appeals” were inserted after “Supreme Court” upon authority of <i>United States v. Illinois Surety Co</i>., C.C.A. 1915, 226 F. 653, affirmed 37 S.Ct. 614, 244 U.S. 376, 61 L.Ed. 1206, wherein it was held that this section also applied to the courts of appeals in view of section 11 of the Circuit Court of Appeals Act of Mar. 3, 1891, ch. 517, 28 Stat. 829.
+Words “or a court of appeals” were inserted after “Supreme Court” upon authority of <i>United States v. Illinois Surety Co</i>., C.C.A. 1915, 226 F. 653, affirmed 37 S.Ct. 614, 244 U.S. 376, 61 L.Ed. 1206, wherein it was held thatthis section also applied to the courts of appeals in view of section 11 of the Circuit Court of Appeals Act of Mar. 3, 1891, ch. 517, 28 Stat. 829.
 
 The revised section will cover instances where the Supreme Court remands a case to the highest court of a State and to the United States Tax Court. It will also cover a remand of a case to the Court of Claims or the Court of Customs and Patent Appeals. For authority to remand a case to The Tax Court, see <i>Equitable Life Assurance Society of U.S. v. Commissioner of Internal Revenue</i>, 1944, 64 S.Ct. 722, 321 U.S. 560, 88 L.Ed. 927.
 
 Revised section will also permit a remand by the Supreme Court to a court of appeals inasmuch as such latter court then would be a lower court. The revised section is in conformity with numerous holdings of the Supreme Court to the effect that such a remand may be made. See especially, <i>Maryland Casualty Co. v. United States</i>, 1929, 49 S.Ct. 484, 279 U.S. 792, 73 L.Ed. 960; <i>Krauss Bros. Co. v. Mellon</i>, 1928, 48 S.Ct. 358, 276 U.S. 386, 72 L.Ed. 620 and <i>Buzyuski v. Luckenbach S. S. Co</i>., 1928, 48 S.Ct. 440, 277 U.S. 226, 72 L.Ed. 860.
 
-The last sentence of section 876 of title 28, U.S.C., 1940 ed., providing that the Supreme Court should not issue execution but should send a special mandate to the inferior court to award execution, was omitted. See rule 34 of the revised rules of the Supreme Court relating toMandates, and section 1651 of this title authorizing the Supreme Court to issue all writs necessary in aid of its jurisdiction.
+The last sentence of section 876 of title 28, U.S.C., 1940 ed., providing that the Supreme Court should not issue execution but should send a special mandate to the inferior court to award execution, was omitted. See rule 34 of the revised rules of the Supreme Court relating to Mandates, and section 1651 of this title authorizing the Supreme Court to issue all writs necessary in aid of its jurisdiction.
 
 Changes were made in phraseology.
 

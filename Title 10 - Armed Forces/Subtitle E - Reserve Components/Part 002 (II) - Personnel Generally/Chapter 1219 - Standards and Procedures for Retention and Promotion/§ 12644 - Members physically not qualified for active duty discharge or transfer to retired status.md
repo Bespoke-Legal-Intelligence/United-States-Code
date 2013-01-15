@@ -48,7 +48,7 @@ Pub. L. 103–337, §1661(a)(4), struck out “(c)” before “Except as otherw
 
 <b>1993</b>—Subsec. (a)(1). Pub. L. 103–160 substituted “five years” for “four years”.
 
-<b>1960</b>—Subsec. (a). Pub. L. 86–603 limited the requirement for a physical examination every four years, and for the annual execution of a certificate of physical condition, to the Ready Reserve, and also required each Reserve in an active status, or on an inactive status list, who is not on active duty to execute and submit annually a certificate of physical condition.
+<b>1960</b>—Subsec. (a). Pub. L. 86–603 limited the requirement for a physical examination every four years, and for the annual execution of a certificate of physical condition, to the Ready Reserve, and also required each Reserve in an active status, or on an inactive statuslist, who is not on active duty to execute and submit annually a certificate of physical condition.
 
 #### Effective Date of 1994 Amendment
 

@@ -136,7 +136,7 @@ In making grants under this part to any institution of higher education after Au
 
 #### (4) Maximum scholarship amount
 
-&emsp;The maximum scholarship amount awarded to an eligible student under this subsection for an award year shall be the lesser of $5,000, or the student's cost of attendance (as defined in section 1087<i>ll</i> of this title).
+&emsp;The maximum scholarship amount awarded to an eligible student under this subsection for an award year shall be the lesser of $5,000, or the student's cost of attendance (as defined in section 1087ll of this title).
 
 #### (5) Amounts for scholarships
 

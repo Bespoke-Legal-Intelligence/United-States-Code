@@ -68,7 +68,7 @@ Pub. L. 104–67, title II, §202, Dec. 22, 1995, 109 Stat. 762, provided that: 
 
 #### Construction of 1995 Amendment
 
-Nothing in amendment by Pub. L. 104–67 to be deemed to create or ratify any implied right of action, or toprevent Commission, by rule or regulation, from restricting or otherwise regulating private actions under Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.), see section 203 of Pub. L. 104–67, set out as a Construction note under section 78j–1 of this title.
+Nothing in amendment by Pub. L. 104–67 to be deemed to create or ratify any implied right of action, or to prevent Commission, by rule or regulation, from restricting or otherwise regulating private actions under Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.), see section 203 of Pub. L. 104–67, set out as a Construction note under section 78j–1 of this title.
 
 #### Transfer of Functions
 

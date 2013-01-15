@@ -96,7 +96,7 @@ The Assistant Secretary shall be appointed by the President by and with the advi
 
 &emsp;(G) supervise the activities carried out under the authority of the Administration that relate to State Long-Term Care Ombudsman programs;
 
-&emsp;(H) administer the National Ombudsman Resource Center established under section3012(a)(21) <sup>1</sup> of this title and make recommendations to the Assistant Secretary regarding the operation of the National Ombudsman Resource Center;
+&emsp;(H) administer the National Ombudsman Resource Center established under section 3012(a)(21) <sup>1</sup> of this title and make recommendations to the Assistant Secretary regarding the operation of the National Ombudsman Resource Center;
 
 &emsp;(I) advocate, monitor, and coordinate Federal and State activities of Long-Term Care Ombudsmen under this chapter;
 
@@ -108,7 +108,7 @@ The Assistant Secretary shall be appointed by the President by and with the advi
 
 #### (e) Elder abuse prevention and services
 
-(1) The Assistant Secretary is authorized to designate within the Administration a person to have responsibility for elder abuse prevention and services.
+(1) The Assistant Secretary is authorized to designate within the Administration a person tohave responsibility for elder abuse prevention and services.
 
 (2) It shall be the duty of the Assistant Secretary, acting through the person designated to have responsibility for elder abuse prevention and services—
 
@@ -178,7 +178,7 @@ Subsec. (c)(1). Pub. L. 102–375, §102(b)(1)(A), substituted “Administration
 
 Subsec. (c)(3)(A)(i). Pub. L. 102–375, §904(a)(3)(A), inserted “individuals who are” before “Native Americans”.
 
-Subsec. (c)(3)(B). Pub. L. 102–375, §§201(b)(1), 904(a)(3)(A), (B), inserted “individuals who are” before “Native Americans within” and substituted “affecting such individuals, with particular attention to services provided to Native Americans by the Indian Health Service” for “affecting older Native Americans”.
+Subsec. (c)(3)(B). Pub. L. 102–375, §§201(b)(1), 904(a)(3)(A), (B), inserted “individuals who are” before“Native Americans within” and substituted “affecting such individuals, with particular attention to services provided to Native Americans by the Indian Health Service” for “affecting older Native Americans”.
 
 Subsec. (c)(3)(E). Pub. L. 102–375, §904(a)(3)(A), (C), substituted “this chapter” for “the chapter” and inserted “individuals who are” after “older”.
 
@@ -210,7 +210,7 @@ Subsec. (b). Pub. L. 93–29 struck out provision respecting the direction of th
 
 #### Change of Name
 
-Section 3(c) of Pub. L. 103–171 provided that: “Any reference to the Commissioner on Aging in any order, rule, guideline, contract, grant, suit, or proceeding that is pending, enforceable, or in effect on the date of the enactment of this Act \[Dec. 2, 1993\] shall be deemed to be a reference to the Assistant Secretary for Aging.”
+Pub. L. 103–171, §3(c), Dec. 2, 1993, 107 Stat. 1991, provided that: “Any reference to the Commissioner on Aging in any order, rule, guideline, contract, grant, suit, or proceeding that is pending, enforceable, or in effect on the date of the enactment of this Act \[Dec. 2, 1993\] shall be deemed to be a reference to the Assistant Secretary for Aging.”
 
 #### Effective Date of 1987 Amendment
 
@@ -226,7 +226,7 @@ Amendment by Pub. L. 95–478 effective at close of Sept. 30, 1978, see section 
 
 #### Modification of Delegation of Functions of Commissioner on Aging in Effect on July 12, 1974
 
-Section 2(b) of Pub. L. 93–351 provided that: “Any delegation of the functions of the Commissioner on Aging \[now Assistant Secretary for Aging\] in effect on the date of enactment of this Act \[July 12, 1974\], issued pursuant to section 201(a) of such Act \[subsec. (a) of this section\], shall be modified by the Commissioner to comply with the provisions of the amendment made by this section \[amending this section\].”
+Pub. L. 93–351, §2(b), July 12, 1974, 88 Stat. 357, provided that: “Any delegation of the functions of the Commissioner on Aging \[now Assistant Secretary for Aging\] in effect on the date of enactment of this Act \[July 12, 1974\], issued pursuant to section 201(a) of such Act \[subsec. (a) of this section\], shall be modified by the Commissioner to comply with the provisions of the amendment made by this section \[amending this section\].”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

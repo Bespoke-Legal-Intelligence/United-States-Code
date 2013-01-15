@@ -22,7 +22,7 @@ The provisions of section 402 of the Social Security Amendments of 1967 (Public 
 
 #### References in Text
 
-Section 402 of the Social Security Amendments of 1967, referred to in subsec. (b), is section 402 of Pub. L. 90–248, title IV, Jan. 2, 1968, 81 Stat. 930, which enacted section 1395b–1 of this title and amended section 1395<i>ll</i> of this title.
+Section 402 of the Social Security Amendments of 1967, referred to in subsec. (b), is section 402 of Pub. L. 90–248, title IV, Jan. 2, 1968, 81 Stat. 930, which enacted section 1395b–1 of this title and amended section 1395ll of this title.
 
 #### Amendments
 

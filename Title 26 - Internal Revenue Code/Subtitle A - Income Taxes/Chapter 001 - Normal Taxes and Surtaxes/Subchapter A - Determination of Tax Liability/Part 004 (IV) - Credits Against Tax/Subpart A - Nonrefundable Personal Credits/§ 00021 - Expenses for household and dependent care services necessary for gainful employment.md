@@ -42,7 +42,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) a qualifying individual described in paragraph (1)(A), or
 
-&emsp;&emsp;&emsp;(ii) a qualifying individual (not described in paragraph (1)(A)) who regularly spendsat least 8 hours each day in the taxpayer's household.
+&emsp;&emsp;&emsp;(ii) a qualifying individual (not described in paragraph (1)(A)) who regularly spends at least 8 hours each day in the taxpayer's household.
 
 #### (C) Dependent care centers
 
@@ -136,7 +136,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) with respect to whom, for the taxable year, a deduction under section 151(c) (relating to deduction for personal exemptions for dependents) is allowable either to the taxpayer or his spouse, or
 
-&emsp;&emsp;(B) who is a child of the taxpayer (within the meaning of section 152(f)(1)) who has notattained the age of 19 at the close of the taxable year.
+&emsp;&emsp;(B) who is a child of the taxpayer (within the meaning of section 152(f)(1)) who has not attained the age of 19 at the close of the taxable year.
 
 > &emsp;For purposes of this paragraph, the term “taxable year” means the taxable year of the taxpayer in which the service is performed.
 
@@ -168,10 +168,6 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 (Added Pub. L. 94–455, title V, §504(a)(1), Oct. 4, 1976, 90 Stat. 1563, §44A; amended Pub. L. 95–600, title I, §121(a), Nov. 6, 1978, 92 Stat. 2779; Pub. L. 97–34, title I §124 (a)–(d), Aug. 13, 1981, 95 Stat. 197, 198; Pub. L. 98–21, title I, §122(c)(1), Apr. 20, 1983, 97 Stat. 87; renumbered §21 and amended Pub. L. 98–369, div. A, title IV, §§423(c)(4), 471(c), 474(c), July 18, 1984, 98 Stat. 801, 826, 830; Pub. L. 99–514, title I, §104(b)(1), Oct. 22, 1986, 100 Stat. 2104; Pub. L. 100–203, title X, §10101(a), Dec. 22, 1987, 101 Stat. 1330–384; Pub. L. 100–485, title VII, §703(a)–(c)(1), Oct. 13, 1988, 102 Stat. 2426, 2427; Pub. L. 104–188, title I, §1615(b), Aug. 20, 1996, 110 Stat. 1853; Pub. L. 107–16, title II, §204(a), (b), June 7, 2001, 115 Stat. 49; Pub. L. 107–147, title IV, §418(b), Mar. 9, 2002, 116 Stat. 57; Pub. L. 108–311, title II, §§203, 207(2), (3), Oct. 4, 2004, 118 Stat. 1175, 1177; Pub. L. 109–135, title IV, §404(b), Dec. 21, 2005, 119 Stat. 2634; Pub. L. 110–172, §11(a)(1), Dec. 29, 2007, 121 Stat. 2484.)
 
-#### Amendment of Section
-
-<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
-
 #### Prior Provisions
 
 A prior section 21 was renumbered section 15 of this title.
@@ -202,11 +198,11 @@ Subsec. (e)(6)(B). Pub. L. 108–311, §207(3), substituted “section 152(f)(1)
 
 Subsec. (d)(2)(B). Pub. L. 107–147, §418(b)(2), substituted “$500” for “$400”.
 
-<b>2001</b>—Subsec. (a)(2). Pub. L. 107–16, §§204(b), 901, temporarily substituted “35 percent” for “30 percent” and “$15,000” for “$10,000”. See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Subsec. (a)(2). Pub. L. 107–16, §204(b), substituted “35 percent” for “30 percent” and “$15,000” for “$10,000”.
 
-Subsec. (c)(1). Pub. L. 107–16, §§204(a)(1), 901, temporarily substituted “$3,000” for “$2,400”. See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (c)(1). Pub. L. 107–16, §204(a)(1), substituted “$3,000” for “$2,400”.
 
-Subsec. (c)(2). Pub. L. 107–16, §§204(a)(2), 901, temporarily substituted “$6,000” for “$4,800”. See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (c)(2). Pub. L. 107–16, §204(a)(2), substituted “$6,000” for “$4,800”.
 
 <b>1996</b>—Subsec. (e)(10). Pub. L. 104–188 added par. (10).
 
@@ -256,7 +252,7 @@ Pub. L. 98–369, §423(c)(4), amended par. (5) generally, substituting subpars.
 
 &emsp;“(B) such child is in the custody of one or both of his parents for more than one-half of the calendar year.”
 
-> and substituted in concluding text “(whichever is appropriate) with respect to the custodial parent (within the meaning of section 152(e)(1)), and shall not be treated as a qualifying individual with respect to the noncustodial parent” for “, as the case may be, with respect to that parent who has custody for a longer period during such calendar year than the other parent, and shall not be treated as being a qualifying individual with respect to such other parent.”
+> and substituted in concluding text “(whichever is appropriate) with respect to the custodial parent (within the meaning of section 152(e)(1)), and shall not be treated as a qualifying individual with respect to the noncustodial parent” for “, as the case may be, with respect to that parent who has custody for a longer period during such calendar year than the other parent,and shall not be treated as being a qualifying individual with respect to such other parent.”
 
 Subsecs. (f), (g). Pub. L. 98–369, §474(c)(1), redesignated subsecs. (f) and (g) as (e) and (f), respectively.
 
@@ -290,15 +286,13 @@ Amendment by Pub. L. 108–311 applicable to taxable years beginning after Dec. 
 
 Pub. L. 107–147, title IV, §418(c), Mar. 9, 2002, 116 Stat. 58, provided that: “The amendments made by this section \[amending this section and sections 23 and 137 of this title\] shall take effect as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001 \[Pub. L. 107–16\] to which they relate.”
 
-#### Effective and Termination Dates of 2001 Amendment
+#### Effective Date of 2001 Amendment
 
 Pub. L. 107–16, title II, §204(c), June 7, 2001, 115 Stat. 50, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2002.”
 
-Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
-
 #### Effective Date of 1996 Amendment
 
-Section 1615(d) of Pub. L. 104–188 provided that:
+Pub. L. 104–188, title I, §1615(d), Aug. 20, 1996, 110 Stat. 1853, provided that:
 
 “(1)
 
@@ -310,11 +304,11 @@ Special rule for 1995 and 1996.—In the case of returns for taxable years begin
 
 #### Effective Date of 1988 Amendment
 
-Section 703(d) of Pub. L. 100–485 provided that: “The amendments made by this section \[amending this section and sections 129 and 6109 of this title\] shall apply to taxable years beginning after December 31, 1988.”
+Pub. L. 100–485, title VII, §703(d), Oct. 13, 1988, 102 Stat. 2427, provided that: “The amendments made by this section \[amending this section and sections 129 and 6109 of this title\] shall apply to taxable years beginning after December 31, 1988.”
 
 #### Effective Date of 1987 Amendment
 
-Section 10101(b) of Pub. L. 100–203, as amended by Pub. L. 100–647, title II, §2004(a), Nov. 10, 1988, 102 Stat. 3598, provided that:
+Pub. L. 100–203, title X, §10101(b), Dec. 22, 1987, 101 Stat. 1330–384, as amended by Pub. L. 100–647, title II, §2004(a), Nov. 10, 1988, 102 Stat. 3598, provided that:
 
 “(1)
 
@@ -332,7 +326,7 @@ Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 3
 
 Amendment by section 423(c)(4) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1984, see section 423(d) of Pub. L. 98–369, set out as a note under section 2 of this title.
 
-Section 475(a) of Pub. L. 98–369 provided that: “The amendments made by this title \[probably means subtitle F (§§471–475) of title IV of Pub. L. 98–369, which enacted sections 25, 38, and 39 of this title, amended this section and sections 12, 15, 22 to 24, 27 to 35, 37, 39 to 41, 44A, 44C to 44H, 45 to 48, 51, 52, 55, 56, 86, 87, 103, 108, 129, 168, 196, 213, 280C, 381, 383, 401, 404, 409, 441, 527, 642, 691, 874, 882, 901, 904, 936, 1016, 1033, 1351, 1366, 1374, 1375, 1441, 1442, 1451, 3507, 6013, 6096, 6201, 6211, 6213, 6362, 6401, 6411, 6420, 6421, 6427, 6501, 6511, 7701, 7871, 9502, and 9503 of this title, repealed sections 38, 40, 44, 44B, 50A, 50B, and 53 of this title, and enacted provisions set out as notes under sections 30, 33, 46, and 48 of this title\] shall apply to taxable years beginning after December 31, 1983, and to carrybacks from such years.”
+Pub. L. 98–369, title IV, §475(a), July 18, 1984, 98 Stat. 847, provided that: “The amendments made by this title \[probably means subtitle F (§§471–475) of title IV of Pub. L. 98–369, which enacted sections 25, 38, and 39 of this title, amended this section and sections 12, 15, 22 to 24, 27 to 35, 37, 39 to 41, 44A, 44C to 44H, 45 to 48, 51, 52, 55, 56, 86, 87, 103, 108, 129, 168, 196, 213, 280C, 381, 383, 401, 404, 409, 441, 527, 642, 691, 874, 882, 901, 904, 936, 1016, 1033, 1351, 1366, 1374, 1375, 1441, 1442, 1451, 3507, 6013, 6096, 6201, 6211, 6213, 6362, 6401, 6411, 6420, 6421, 6427, 6501, 6511, 7701, 7871, 9502, and 9503 of this title, repealed sections 38, 40, 44, 44B, 50A, 50B, and 53 of this title, and enacted provisions set out as notes under sections 30, 33, 46, and 48 of this title\] shall apply to taxable years beginning after December 31, 1983, and to carrybacks from such years.”
 
 #### Effective Date of 1983 Amendment
 
@@ -340,15 +334,15 @@ Amendment by Pub. L. 98–21 applicable to taxable years beginning after Dec. 31
 
 #### Effective Date of 1981 Amendment
 
-Section 124(f) of Pub. L. 97–34 provided that:
+Pub. L. 97–34, title I, §124(f), Aug. 13, 1981, 95 Stat. 201, provided that:
 
-“(1) Except as provided in paragraph (2), the amendments made by this section \[amending this section and enacting section 129 of this title\] shall apply to taxable years beginning after December 31, 1981.
+“(1) Except as provided in paragraph (2), the amendments made by this section \[amending this section andenacting section 129 of this title\] shall apply to taxable years beginning after December 31, 1981.
 
 “(2) The amendments made by subsection (e)(2) \[amending sections 3121, 3306, and 3401 of this title and section 409 of Title 42, The Public Health and Welfare\] shall apply to remuneration paid after December 31, 1981.”
 
 #### Effective Date of 1978 Amendment
 
-Section 121(b) of Pub. L. 95–600 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1978.”
+Pub. L. 95–600, title I, §121(b), Nov. 6, 1978, 92 Stat. 2779, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1978.”
 
 #### Effective Date
 

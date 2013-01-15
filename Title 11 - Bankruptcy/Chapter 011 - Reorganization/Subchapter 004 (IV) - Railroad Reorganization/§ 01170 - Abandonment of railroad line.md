@@ -14,7 +14,7 @@
 
 (d)(1) Enforcement of an order authorizing such abandonment shall be stayed until the time for taking an appeal has expired, or, if an appeal is timely taken, until such order has become final.
 
-(2) If an order authorizing such abandonment is appealed, the court, on request of a party in interest, may authorize suspension of service on a line or a portion of a line pending the determination of such appeal, after notice to the Board, the Secretary of Transportation, the trustee, any party in interest that has requested notice, any affected shipper or community, and any other entity prescribed by the court, and a hearing. An appellant may not obtain a stay of the enforcement of an order authorizing such suspension by the giving of a supersedeas bond or otherwise, during the pendency of such appeal.
+(2) If an order authorizing such abandonment is appealed, the court, on request of a party in interest, may authorize suspension of service on a line or a portion of a line pending the determination of such appeal, after notice to the Board, the Secretary of Transportation, the trustee, any party in interest that has requestednotice, any affected shipper or community, and any other entity prescribed by the court, and a hearing. An appellant may not obtain a stay of the enforcement of an order authorizing such suspension by the giving of a supersedeas bond or otherwise, during the pendency of such appeal.
 
 (e)(1) In authorizing any abandonment of a railroad line under this section, the court shall require the rail carrier to provide a fair arrangement at least as protective of the interests of employees as that established under section 11326(a) of title 49.
 
@@ -30,7 +30,7 @@ Subsection (a) of section 1178 \[enacted as section 1170\] permits the court to 
 
 Subsection (b) permits some participation by the Interstate Commerce Commission in the abandonment process. The Commission's role, however, is only advisory. The Commission will represent the public interest, while the trustee and various creditors and equity security holders will represent the interests of those who have invested money in the enterprise. The court will balance the various interests and make an appropriate decision. The subsection specifies that if, except for the pendency of the railroad reorganization case, the proposed abandonment would require Commission approval, then the trustee, with the approval of the court, must initiate an application for the abandonment with the Commission. The court may then fix a time within which the Commission must report to the court on the application.
 
-Subsection (c) permits the court to act after it has received the report of the Commission or the time fixed under subsection (b) has expired, whichever occurs first. The court may then authorize the abandonment after notice and a hearing. The notice must go to theCommission, the Secretary of Transportation, the trustee, and party in interest that has requested notice, any affected shipper or community, and any other entity that the court specifies.
+Subsection (c) permits the court to act after it has received the report of the Commission or the time fixed under subsection (b) has expired, whichever occurs first. The court may then authorize the abandonment after notice and a hearing. The notice must go to the Commission, the Secretary of Transportation, the trustee, and party in interest that has requested notice, any affected shipper or community, and any other entity that the court specifies.
 
 Subsection (d) stays the enforcement of an abandonment until the time for taking an appeal has expired, or if an appeal has been taken, until the order has become final. However, the court may, and after notice and a hearing, on request of a party in interest authorize termination of service on the line or a portion of the line pending the determination of the appeal. The notice required is the same as that required under subsection (c). If the court authorizes termination of service pending determination of the appeal, an appellant may not obtain a stay of the enforcement of the order authorizing termination, either by the giving of a supersedeas bond or otherwise, during the pendency of the appeal.
 
@@ -62,7 +62,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 #### Effective Date of 1980 Amendment
 
-Section 710 of Pub. L. 96–448 provided that:
+Pub. L. 96–448, title VII, §710, Oct. 14, 1980, 94 Stat. 1966, provided that:
 
 “(a) Except as provided in subsections (b), (c), and (d) of this section, the provisions of this Act and the amendments made by this Act \[see Tables for classification\] shall take effect on October 1, 1980.
 

@@ -18,7 +18,7 @@ Any residential special use permit extended pursuant to subsection (a) of this s
 
 &emsp;(2) be subject to such terms and conditions as the Secretary may prescribe (including termination) to ensure that the permit does not unreasonably diminish the values of the park.
 
-> The extension of any such residential special use permit shall be conditional upon the paymentby the individual holding such permit of an annual fee in the same amount as required as of July 1, 1991.
+> The extension of any such residential special use permit shall be conditional upon the payment by the individual holding such permit of an annual fee in the same amount as required as of July 1, 1991.
 
 (Pub. L. 86–321, §7, as added Pub. L. 102–488, §2(5)\[(4)\], Oct. 24, 1992, 106 Stat. 3136.)
 

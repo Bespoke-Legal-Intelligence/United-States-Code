@@ -24,7 +24,7 @@
 
 #### (6) Terms and conditions
 
-&emsp;An agreement under paragraph (1) (and any extension or renewal of an agreement) shall contain such terms and conditions as the Secretary may consider appropriate.
+&emsp;An agreement under paragraph (1) (and any extension or renewal of an agreement) shallcontain such terms and conditions as the Secretary may consider appropriate.
 
 #### (7) Prior agreements
 

@@ -62,7 +62,7 @@
 
 &emsp;&emsp;&emsp;(II) to dismiss a child, except that, before dismissing any child, the University shall give at least 60 days written notice to the child's parents and to the local educational agency in which the child resides, unless the dismissal involves a suspension, expulsion, or other change in placement covered under section 615(k) \[20 U.S.C. 1415(k)\].
 
-&emsp;&emsp;(vi) Subsections (k) through (<i>o</i>).
+&emsp;&emsp;(vi) Subsections (k) through (o).
 
 (5) The University, for purposes of the elementary and secondary education programs carried out at the Clerc Center, shall—
 
@@ -96,7 +96,7 @@ Subsec. (b)(4)(C). Pub. L. 110–315, §901(3)(C)(i), realigned margins.
 
 Subsec. (b)(4)(C)(i). Pub. L. 110–315, §901(3)(C)(ii), substituted “(8)” for “(6)”.
 
-Subsec. (b)(4)(C)(vi). Pub. L. 110–315, §901(3)(C)(iii), substituted “(<i>o</i>)” for “(m)”.
+Subsec. (b)(4)(C)(vi). Pub. L. 110–315, §901(3)(C)(iii), substituted “(o)” for “(m)”.
 
 Subsec. (b)(5). Pub. L. 110–315, §901(3)(D), added par. (5).
 

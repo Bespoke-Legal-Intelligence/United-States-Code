@@ -1,6 +1,6 @@
 ### §341. General enumeration of powers
 
-Upon the filing of the organization certificate with the Comptroller of the Currency a Federal reserve bank shall become a body corporate and as such, and in the name designated in such organization certificate, shall have power—
+Upon the filing of the organization certificate with the Comptroller of the Currency a Federal reserve bank shall become a body corporate andas such, and in the name designated in such organization certificate, shall have power—
 
 First. To adopt and use a corporate seal.
 
@@ -46,7 +46,7 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
 #### Effective Date of 1935 Amendment
 
-Section 201 of act Aug. 23, 1935, provided that the amendment made by that section is effective Mar. 1, 1936.
+Act Aug. 23, 1935, ch. 614, title II, §201, 49 Stat. 703, provided that the amendment made by that section is effective Mar. 1, 1936.
 
 #### Transfer of Functions
 

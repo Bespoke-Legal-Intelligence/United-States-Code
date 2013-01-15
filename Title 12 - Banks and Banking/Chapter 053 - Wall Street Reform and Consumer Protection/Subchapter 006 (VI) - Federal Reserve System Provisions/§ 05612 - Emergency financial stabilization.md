@@ -78,7 +78,7 @@ Upon the written determination of the Corporation and the Board of Governors und
 
 #### (C) Treatment of companion measures
 
-&emsp;&emsp;If, following passage of the joint resolution in the Senate, the Senate then receives thecompanion measure from the House of Representatives, the companion measure shall not be debatable.
+&emsp;&emsp;If, following passage of the joint resolution in the Senate, the Senate then receives the companion measure from the House of Representatives, the companion measure shall not be debatable.
 
 #### (D) Rules of the Senate
 

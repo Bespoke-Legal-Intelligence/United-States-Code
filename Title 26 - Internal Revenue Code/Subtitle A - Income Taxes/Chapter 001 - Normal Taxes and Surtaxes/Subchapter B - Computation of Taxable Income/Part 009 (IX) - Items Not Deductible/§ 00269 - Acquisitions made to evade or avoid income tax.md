@@ -54,7 +54,7 @@ Subsec. (c). Pub. L. 94–455, §1901(a)(38), struck out subsec. (c) relating to
 
 #### Effective Date of 1984 Amendment
 
-Section 712(k)(8)(C) of Pub. L. 98–369 provided that: “The amendments made by this paragraph \[amending this section\] shall apply to liquidations after October 20, 1983, in taxable years ending after such date.”
+Pub. L. 98–369, div. A, title VII, §712(k)(8)(C), July 18, 1984, 98 Stat. 952, provided that: “The amendments made by this paragraph \[amending this section\] shall apply to liquidations after October 20, 1983, in taxable years ending after such date.”
 
 #### Effective Date of 1964 Amendment
 

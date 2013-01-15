@@ -2,7 +2,7 @@
 
 (a)
 
-Agreements Required.—The Secretary of Defense may enter into one or more agreements,each with an appropriate Federal or private entity, under which such entity may, under this subchapter—
+Agreements Required.—The Secretary of Defense may enter into one or more agreements, each with an appropriate Federal or private entity, under which such entity may, under this subchapter—
 
 &emsp;(1) process applications for loan guarantees;
 

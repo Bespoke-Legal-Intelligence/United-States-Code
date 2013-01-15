@@ -16,7 +16,7 @@ Formula.—The monthly retired pay of a member entitled to recompute that pay un
 
 Rounding to Next Lower Dollar.—The amount computed under subsection (b), if not a multiple of $1, shall be rounded to the next lower multiple of $1.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 557; Pub. L. 96–342, title VIII, §813(e), Sept. 8, 1980, 94 Stat. 1109; Pub. L. 96–513, title V, §514(8), Dec. 12, 1980,94 Stat. 2935; Pub. L. 97–295, §1(52), Oct. 12, 1982, 96 Stat. 1300; Pub. L. 98–94, title IX, §§922(a)(13), 923(a)(1), (2)(I), Sept. 24, 1983, 97 Stat. 642, 643; Pub. L. 99–348, title II, §204(b), July 1, 1986, 100 Stat. 698; Pub. L. 103–337, div. A, title VI, §635(c)(3), Oct. 5, 1994, 108 Stat. 2789.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 557; Pub. L. 96–342, title VIII, §813(e), Sept. 8, 1980, 94 Stat. 1109; Pub. L. 96–513, title V, §514(8), Dec. 12, 1980, 94 Stat. 2935; Pub. L. 97–295, §1(52), Oct. 12, 1982, 96 Stat. 1300; Pub. L. 98–94, title IX, §§922(a)(13), 923(a)(1), (2)(I), Sept. 24, 1983, 97 Stat. 642, 643; Pub. L. 99–348, title II, §204(b), July 1, 1986, 100 Stat. 698; Pub. L. 103–337, div. A, title VI, §635(c)(3), Oct. 5, 1994, 108 Stat. 2789.)
 
 Historical and Revision Notes<br>1956
 

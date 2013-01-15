@@ -14,7 +14,7 @@ As originally enacted the second sentence of this section, extending the boundar
 
 “United States Geological Survey” substituted in text for “Geological Survey” pursuant to provision of title I of Pub. L. 102–154, set out as a note under section 31 of Title 43, Public Lands.
 
-“Denali National Park” substituted in text for “Mount McKinley National Park” pursuant to Pub. L.96–487, §202(3)(a), which is classified to section 410hh–1(3)(a) of this title and which added lands to the park, established additional land as the Denali National Preserve, and redesignated the whole as the Denali National Park and Preserve.
+“Denali National Park” substituted in text for “Mount McKinley National Park” pursuant to Pub. L. 96–487, §202(3)(a), which is classified to section 410hh–1(3)(a) of this title and which added lands to the park, established additional land as the Denali National Preserve, and redesignated the whole as the Denali National Park and Preserve.
 
 #### Feasibility Study for Northern Access Route Into Denali National Park and Preserve
 

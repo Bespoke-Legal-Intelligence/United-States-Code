@@ -4,7 +4,7 @@ Notwithstanding any other provision of law—
 
 #### (a) Gasohol feedstock or food security reserves; establishment
 
-Whenever the President or other member of the executive branch of Government causes theexport of any agricultural commodity to any country or area of the world to be suspended or restricted for reasons of national security or foreign policy under the Export Administration Act of 1979 \[50 U.S.C. App. 2401 et seq.\] or any other provision of law and the Secretary of Agriculture determines that such suspension or restriction will result in a surplus supply of such commodity that will adversely affect prices producers receive for the commodity, the Secretary may establish a gasohol feedstock reserve or a food security reserve, or both, of the commodity, as provided in subsections (c) and (d) of this section, if the commodity is suitable for stockpiling in a reserve.
+Whenever the President or other member of the executive branch of Government causes the export of any agricultural commodity to any country or area of the world to be suspended or restricted for reasons of national security or foreign policy under the Export Administration Act of 1979 \[50 U.S.C. App. 2401 et seq.\] or any other provision of law and the Secretary of Agriculture determines that such suspension or restriction will result in a surplus supply of such commodity that will adversely affect prices producers receive for the commodity, the Secretary may establish a gasohol feedstock reserve or a food security reserve, or both, of the commodity, as provided in subsections (c) and (d) of this section, if the commodity is suitable for stockpiling in a reserve.
 
 #### (b) Announcement of intention to establish reserves; contents
 
@@ -58,7 +58,7 @@ Section 1445e of this title, referred to in subsec. (c)(2), was amended generall
 
 <b>1998</b>—Subsec. (d)(2). Pub. L. 105–385 made technical amendment to reference in original act which appears in text as reference to section 1736f–1 of this title.
 
-<b>1996</b>—Subsec. (d)(2). Pub. L. 104–127 added par. (2) and struck out former par. (2) which read as follows: “The provisions of subsections (c), (d), (e), (f), and (g)(2) of section 1736f–1 of this title shall apply to commodities in any reserve established under paragraph (1) of this subsection, and (except for the last sentence of subsection (c) of section 1736f–1 of this title) the references to ‘wheat’ in such subsections of section 1736f–1 of this title shall be deemed to be references to ‘agricultural commodities’.”
+<b>1996</b>—Subsec. (d)(2). Pub. L. 104–127 added par. (2) and struck out former par. (2) which read as follows: “The provisions of subsections (c), (d), (e), (f), and (g)(2) of section 1736f–1 of this title shall apply to commodities in any reserve established under paragraph (1) of thissubsection, and (except for the last sentence of subsection (c) of section 1736f–1 of this title) the references to ‘wheat’ in such subsections of section 1736f–1 of this title shall be deemed to be references to ‘agricultural commodities’.”
 
 <b>1981</b>—Subsec. (c)(2)(A). Pub. L. 97–98, §1004(1), substituted “third sentence” for “second sentence”.
 
@@ -70,13 +70,13 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 
 #### Effective Date
 
-Section 213 of title II of Pub. L. 96–494 provided that: “Except as otherwise provided herein, this title \[enacting this chapter and section 1445h of this title, amending sections 1444c, 1445b, 1445e, and 1446 of this title, and enacting provisions set out as notes under this section, sections 1445e and 1445h of this title, and section 714c of Title 15, Commerce and Trade\] shall become effective October 1, 1980, or the date of enactment \[Dec. 3, 1980\], whichever is later.”
+Pub. L. 96–494, title II, §213, Dec. 3, 1980, 94 Stat. 2578, provided that: “Except as otherwise provided herein, this title \[enacting this chapter and section 1445h of this title, amending sections 1444c, 1445b, 1445e, and 1446 of this title, and enacting provisions set out as notes under this section, sections 1445e and 1445h of this title, and section 714c of Title 15, Commerce and Trade\] shall become effective October 1, 1980, or the date of enactment \[Dec. 3, 1980\], whichever is later.”
 
 #### Short Title
 
-Section 1 of Pub. L. 96–494 provided: “That this Act \[enacting this chapter and sections 1445h and 1736f–1 of this title, amending sections 608c, 1444c, 1445b, 1445e, and 1446 of this title, and enacting provisions set out as notes under this section, sections 1445e, 1445h, and 1736f–1 of this title, and section 714c of Title 15, Commerce and Trade\] may be cited as the ‘Agricultural Act of 1980’.”
+Pub. L. 96–494, §1, Dec. 3, 1980, 94 Stat. 2570, provided: “That this Act \[enacting this chapter and sections 1445h and 1736f–1 of this title, amending sections 608c, 1444c, 1445b, 1445e, and 1446 of this title, and enacting provisions set out as notes under this section, sections 1445e, 1445h, and 1736f–1 of this title, and section 714c of Title 15, Commerce and Trade\] may be cited as the ‘Agricultural Act of 1980’.”
 
-Section 201 of title II of Pub. L. 96–494 provided that: “This title \[enacting this chapter and section 1445h of this title, amending sections 1444c, 1445b, 1445e, and 1446 of this title, and enacting provisions set out as notes under this section, sections 1445e and 1445h of this title, and section 714c of Title 15, Commerce and Trade\] may be cited as the ‘Agricultural Trade Suspension Adjustment Act of 1980’.”
+Pub. L. 96–494, title II, §201, Dec. 3, 1980, 94 Stat. 2570, provided that: “This title \[enacting this chapter and section 1445h of this title, amending sections 1444c, 1445b, 1445e, and 1446 of this title, and enacting provisions set out as notes under this section, sections 1445e and 1445h of this title, and section 714c of Title 15, Commerce and Trade\] may be cited as the ‘Agricultural Trade Suspension Adjustment Act of 1980’.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -10,7 +10,7 @@ The Commission shall—
 
 &emsp;(3) develop a filing, coding, and cross-indexing system consistent with the purposes of this Act;
 
-&emsp;(4) within 48 hours after the time of the receipt by the Commission of reports and statements filed with it, make them available for public inspection, and copying, at the expenseof the person requesting such copying, except that any information copied from such reports or statements may not be sold or used by any person for the purpose of soliciting contributions or for commercial purposes, other than using the name and address of any political committee to solicit contributions from such committee. A political committee may submit 10 pseudonyms on each report filed in order to protect against the illegal use of names and addresses of contributors, provided such committee attaches a list of such pseudonyms to the appropriate report. The Secretary or the Commission shall exclude these lists from the public record;
+&emsp;(4) within 48 hours after the time of the receipt by the Commission of reports and statements filed with it, make them available for public inspection, and copying, at the expense of the person requesting such copying, except that any information copied from such reports or statements may not be sold or used by any person for the purpose of soliciting contributions or for commercial purposes, other than using the name and address of any political committee to solicit contributions from such committee. A political committee may submit 10 pseudonyms on each report filed in order to protect against the illegal use of names and addresses of contributors, provided such committee attaches a list of such pseudonyms to the appropriate report. The Secretary or the Commission shall exclude these lists from the public record;
 
 &emsp;(5) keep such designations, reports, and statements for a period of 10 years from the date of receipt, except that designations, reports, and statements that relate solely to candidates for the House of Representatives shall be kept for 5 years from the date of their receipt;
 
@@ -28,7 +28,7 @@ The Commission shall—
 
 #### (b) Audits and field investigations
 
-The Commission may conduct audits and field investigations of any political committee required to file a report under section 434 of this title. All audits and field investigations concerning the verification for, and receipt and use of, any payments received by a candidate or committee under chapter 95 or chapter 96 of title 26 shall be given priority. Prior to conducting any audit under this subsection, the Commission shall perform an internal review of reports filed by selected committees to determine if the reports filed by a particular committee meet the threshold requirements for substantial compliance with the Act. Such thresholds for compliance shall be established by the Commission. The Commission may, upon an affirmative vote of 4 of its members, conduct an audit and field investigation of any committee which does meet the threshold requirements established by the Commission. Such audit shall be commenced within 30 days of such vote, except that any audit of an authorized committee of a candidate, under the provisions of this subsection, shall be commenced within 6 months of the election for which such committee is authorized.
+The Commission may conduct audits and field investigations of any political committee required to file a report under section 434 of this title. All audits and field investigations concerning the verification for, and receipt and use of, any payments received by a candidate or committee under chapter 95 or chapter 96 of title 26 shall be given priority. Prior to conducting any audit under this subsection, the Commission shall perform an internal review of reports filed by selected committees to determine if the reports filed by a particular committee meet the threshold requirements for substantial compliance with the Act. Such thresholds for compliance shall be established by the Commission. The Commission may, upon an affirmative vote of 4 of its members, conduct an audit and field investigation of any committee which does meet the threshold requirements established by the Commission. Such audit shall be commencedwithin 30 days of such vote, except that any audit of an authorized committee of a candidate, under the provisions of this subsection, shall be commenced within 6 months of the election for which such committee is authorized.
 
 #### (c) Statutory provisions applicable to forms and information-gathering activities
 
@@ -50,7 +50,7 @@ Any forms prescribed by the Commission under subsection (a)(1) of this section, 
 
 #### (e) Scope of protection for good faith reliance upon rules or regulations
 
-Notwithstanding any other provision of law, any person who relies upon any rule or regulation prescribed by the Commission in accordance with the provisions of this section and who acts in good faith in accordance with such ruleor regulation shall not, as a result of such act, be subject to any sanction provided by this Act or by chapter 95 or chapter 96 of title 26.
+Notwithstanding any other provision of law, any person who relies upon any rule or regulation prescribed by the Commission in accordance with the provisions of this section and who acts in good faith in accordance with such rule or regulation shall not, as a result of such act, be subject to any sanction provided by this Act or by chapter 95 or chapter 96 of title 26.
 
 #### (f) Promulgation of rules, regulations, and forms by Commission and Internal Revenue Service; report to Congress on cooperative efforts
 
@@ -166,7 +166,7 @@ Disapproval of rules and regulations by either House of Congress under subsec. (
 
 #### Annual Reports for Calendar Years Beginning After Dec. 31, 1972
 
-Section 209(a)(2) of Pub. L. 93–443 provided that: “Notwithstanding section 308(a)(7) of the Federal Election Campaign Act of 1971 \[subsec. (a)(7) of this section\] (relating to an annual report by the supervisory officer), as in effect on the day before the effective date of the amendments made by paragraph (1) of this subsection, no such annual report shall be required with respect to any calendar year beginning after December 31, 1972.”
+Pub. L. 93–443, title II, §209(a)(2), Oct. 15, 1974, 88 Stat. 1287, provided that: “Notwithstanding section 308(a)(7) of the Federal Election Campaign Act of 1971 \[subsec. (a)(7) of this section\] (relating to an annual report by the supervisory officer), as in effect on the day before the effective date of the amendments made by paragraph (1) of this subsection, no such annual report shall be required with respect to any calendar year beginning after December 31, 1972.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

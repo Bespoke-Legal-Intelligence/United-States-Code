@@ -36,7 +36,7 @@ Exception to Reimbursement Requirement.—Notwithstanding subsection (a), in the
 
 Definitions.—In this section:
 
-&emsp;(1) The term “hazardous waste” has the meaning given that term by section 1004(5) of the Solid Waste Disposal Act (42 U.S.C.6903(5)), except that such term also includes polychlorinated biphenyls.
+&emsp;(1) The term “hazardous waste” has the meaning given that term by section 1004(5) of the Solid Waste Disposal Act (42 U.S.C. 6903(5)), except that such term also includes polychlorinated biphenyls.
 
 &emsp;(2) The term “remedial action” has the meaning given that term by section 101(24) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601(24)).
 
@@ -66,5 +66,5 @@ Subsec. (d). Pub. L. 102–484, §1052(36)(B), substituted “In” for “For p
 
 #### Effective Date
 
-Section 331(b) of Pub. L. 102–190 provided that: “Section 2708 of title 10, United States Code, shall apply with respect to contracts entered into after the expiration of the 60-day period beginning on the date of the enactment of this Act \[Dec. 5, 1991\].”
+Pub. L. 102–190, div. A, title III, §331(b), Dec. 5, 1991, 105 Stat. 1340, provided that: “Section 2708 of title 10, United States Code, shall apply with respect to contracts entered into after the expiration of the 60-day period beginning on the date of the enactment of this Act \[Dec. 5, 1991\].”
 

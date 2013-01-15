@@ -16,5 +16,5 @@ Section was enacted as part of Customs Procedural Reform and Simplification Act 
 
 #### Clearance Procedures Study; Report to Congressional Committees
 
-Section 216 of Pub. L. 95–410 provided that the Comptroller General, in cooperation with the Customs Service of the Department of the Treasury and the Immigration and Naturalization Service of the Department of Justice, study clearance procedures for individuals entering or reentering the United States, and to report the results of his study and any recommendations for expediting the clearance process to specific committees of the United States Senate and the House of Representatives not later than Sept. 1, 1979.
+Pub. L. 95–410, title II, §216, Oct. 3, 1978, 92 Stat. 904, provided that the Comptroller General, in cooperation with the Customs Service of the Department of the Treasury and the Immigration and Naturalization Service of the Department of Justice, study clearance procedures for individuals entering or reentering the United States, and to report the results of his study and any recommendations for expediting the clearance process to specific committees of the United States Senate and the House of Representatives not later than Sept. 1, 1979.
 

@@ -2,7 +2,7 @@
 
 (a) The Secretary of Defense, under regulations prescribed by him, may sell to State and local law enforcement, firefighting, homeland security, and emergency management agencies, at fair market value, pistols, revolvers, shotguns, rifles of a caliber not exceeding .30, ammunition for such firearms, gas masks, personal protective equipment, and other appropriate equipment which (1) are suitable for use by such agencies in carrying out law enforcement, firefighting, homeland security, and emergency management activities, and (2) have been determined to be surplus property under subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
 
-(b) Such surplus military equipment shall not be sold under the provisions of this section to a State or local law enforcement, firefighting, homeland security, or emergency management agency unless request therefor is made by such agency, in such form and manner as the Secretary of Defense shall prescribe, and such request, with respect to the type and amount of equipment so requested, is certified as being necessary and suitable for the operation of such agency by the Governor (or such State official as he may designate) of the State in which such agency is located. Equipment sold to a State or local law enforcement, firefighting, homeland security, or emergency management agency under this section shall not exceed, in quantity, the amount requested and certified for such agency and shall be for the exclusive use of such agency. Such equipment may not be sold, or otherwise transferred, by such agency to any individual or public or private organization or agency.
+(b) Such surplus military equipment shall not be sold under the provisions of this section to a State or local law enforcement, firefighting,homeland security, or emergency management agency unless request therefor is made by such agency, in such form and manner as the Secretary of Defense shall prescribe, and such request, with respect to the type and amount of equipment so requested, is certified as being necessary and suitable for the operation of such agency by the Governor (or such State official as he may designate) of the State in which such agency is located. Equipment sold to a State or local law enforcement, firefighting, homeland security, or emergency management agency under this section shall not exceed, in quantity, the amount requested and certified for such agency and shall be for the exclusive use of such agency. Such equipment may not be sold, or otherwise transferred, by such agency to any individual or public or private organization or agency.
 
 (Added Pub. L. 90–500, title IV, §403(a) Sept. 20, 1968, 82 Stat. 851; amended Pub. L. 96–513, title V, §511(85), Dec. 12, 1980, 94 Stat. 2927; Pub. L. 107–217, §3(b)(10), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 111–350, §5(b)(42), Jan. 4, 2011, 124 Stat. 3846; Pub. L. 111–383, div. A, title X, §1072(a)–(c)(1), Jan. 7, 2011, 124 Stat. 4366.)
 
@@ -24,13 +24,73 @@ Subsec. (b). Pub. L. 111–383, §1072(a)(2), substituted “State or local law 
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
+#### Transfer of Excess Aircraft to Other Departments of the Federal Government
+
+Pub. L. 112–239, div. A, title X, §1091, Jan. 2, 2013, 126 Stat. 1971, provided that:
+
+“(a)
+
+Transfer.—The Secretary of Defense may transfer excess aircraft specified in subsection (b) to the Secretary of Agriculture and the Secretary of Homeland Security for use by the Forest Service and the United States Coast Guard. The transfer of any excess aircraft under this subsection shall be without reimbursement.
+
+“(b)
+
+Aircraft.—The aircraft transferred under subsection (a) are aircraft of the Department of Defense that are—
+
+&emsp;“(1) identified by the Forest Service or the United States Coast Guard as a suitable platform to carry out their respective missions;
+
+&emsp;“(2) excess to the needs of the Department of Defense, as determined by the Secretary of Defense;
+
+&emsp;“(3) in the case of aircraft to be transferred to the Secretary of Agriculture, acceptable for use by the Forest Service, as determined by the Secretary of Agriculture; and
+
+&emsp;“(4) in the case of aircraft to be transferred to the Secretary of Homeland Security, acceptable for use by the United States Coast Guard, as determined by the Secretary of Homeland Security.
+
+“(c)
+
+Limitation on Number.—
+
+&emsp;“(1)
+
+Limitation.—Except as provided in paragraph (2), the number of aircraft that may be transferred under subsection (a) to each of the Secretary of Agriculture and the Secretary of Homeland Security may not exceed seven aircraft for each agency.
+
+&emsp;“(2)
+
+Termination of limitation after official notice of intent to accept or decline seven aircraft.—The limitation in paragraph (1) on the number of aircraft transferrable under subsection (a) shall cease upon official notice to the Secretary of Defense, from the Secretary of Agriculture, and the Secretary of Homeland Security that the Secretary's respective department will decline or accept seven aircraft.
+
+“(d)
+
+Order of Transfers.—
+
+&emsp;“(1)
+
+Rights of refusal.—In implementing the transfers authorized by subsection (a), the Secretary of Defense shall afford the Secretary of Agriculture the right of first refusal and the Secretary of Homeland Security the second right of refusal in the transfer to each department by the Secretary of Defense of up to seven excess aircraft specified in subsection (b) before the transfer of such excess aircraft is offered to any other department or agency of the Federal Government.
+
+&emsp;“(2)
+
+Expiration of right of first refusal.—The right of first refusal afforded the Secretary of Agriculture by paragraph (1) shall expire upon official notice of the Secretary to the Secretary of Defense under subsection (c)(2).
+
+“(e)
+
+Conditions of Certain Transfers.—Excess aircraft transferred to the Secretary of Agriculture under subsection (a)—
+
+&emsp;“(1) may be used only for wildfire suppression purposes; and
+
+&emsp;“(2) may not be flown or otherwise removed from the United States unless dispatched by the National Interagency Fire Center in support of an international agreement to assist in wildfire suppression efforts or for other purposes approved by the Secretary of Agriculture in writing in advance.
+
+“(f)
+
+Additional Limitation.—Excess aircraft transferred under subsection (a) may not be sold by the Secretary of Agriculture or the Secretary of Homeland Security after transfer.
+
+“(g)
+
+Costs After Transfer.—Any costs of operation, maintenance, sustainment, and disposal of excess aircraft transferred under subsection (a) after the date of transfer shall be borne by the Secretary of Agriculture and the Secretary of Homeland Security, as applicable.”
+
 #### Commercial Sale of Small Arms Ammunition and Small Arms Ammunition Components in Excess of Military Requirements, and Fired Cartridge Cases
 
 Pub. L. 111–383, div. A, title III, §346, Jan. 7, 2011, 124 Stat. 4191, as amended by Pub. L. 112–81, div. A, title III, §361, Dec. 31, 2011, 125 Stat. 1377, provided that:
 
 “(a)
 
-Commercial Sale of Small Arms Ammunition, Small \[Arms\] Ammunition Components, and Fired Cartridge Cases.—Small arms ammunition and small \[arms\] ammunition components which are in excess of military requirements, and intact fired small arms cartridge cases shall be made available for commercial sale. Such small arms ammunition, small arms ammunition components, and intact fired cartridge cases shall not be demilitarized, destroyed, or disposed of, unless in excess of commercial demands or certified by the Secretary of Defense as unserviceable or unsafe. This provision shall not apply to ammunition, ammunition components, or fired cartridge cases stored or expended outside the continental United States (OCONUS).
+Commercial Sale of Small Arms Ammunition, Small \[Arms\] Ammunition Components, and FiredCartridge Cases.—Small arms ammunition and small \[arms\] ammunition components which are in excess of military requirements, and intact fired small arms cartridge cases shall be made available for commercial sale. Such small arms ammunition, small arms ammunition components, and intact fired cartridge cases shall not be demilitarized, destroyed, or disposed of, unless in excess of commercial demands or certified by the Secretary of Defense as unserviceable or unsafe. This provision shall not apply to ammunition, ammunition components, or fired cartridge cases stored or expended outside the continental United States (OCONUS).
 
 “(b)
 
@@ -90,7 +150,7 @@ Conditions of Sale.—Aircraft and aircraft parts sold under subsection (a)—
 
 “(c)
 
-Certification of Persons and Entities.—The Secretary of Defense may sell aircraft and aircraft parts to a person or entity under subsection (a) only if the Secretary of Homeland Security certifies to the Secretary of Defense, in writing, before the sale, that the person or entity is capable of meeting the terms and conditions of a contract to deliver oil spilldispersants by air, and that the overall system to be employed by that person or entity for the delivery and application of oil spill dispersants has been sufficiently tested to ensure that the person or entity is capable of being included in an oil spill response plan that has been approved by the Secretary of the Department in which the Coast Guard is operating.
+Certification of Persons and Entities.—The Secretary of Defense may sell aircraft and aircraft parts to a person or entity under subsection (a) only if the Secretary of Homeland Security certifies to the Secretary of Defense, in writing, before the sale, that the person or entity is capable of meeting the terms and conditions of a contract to deliver oil spill dispersants by air, and that the overall system to be employed by that person or entity for the delivery and application of oil spill dispersants has been sufficiently tested to ensure that the person or entity is capable of being included in an oil spill response plan that has been approved by the Secretary of the Department in which the Coast Guard is operating.
 
 “(d)
 
@@ -150,5 +210,73 @@ Expiration of Authority.—The authority to sell aircraft and aircraft parts und
 
 #### Sale of Aircraft for Wildfire Suppression Purposes
 
-Pub. L. 104–307, Oct. 14, 1996, 110 Stat. 3811, as amended by Pub. L. 106–65, div. A, title X, §1067(23), Oct. 5, 1999, 113 Stat. 775; Pub. L. 106–398, §1 \[\[div. A\], title III, §388\], Oct. 30, 2000, 114 Stat. 1654, 1654A–89; Pub. L. 107–314, div. A, title X, §1062(k), Dec. 2, 2002, 116 Stat. 2651, known as the Wildfire Suppression and Aircraft Transfer Act of 1996, authorized the Secretary of Defense, during the period beginning on Oct. 1, 1996, and ending on Sept. 30, 2005, to sell the aircraft and aircraft parts that were determined by the Secretary to be excess to the needs of the Department of Defense and acceptable for commercial sale to persons or entities that contracted with the Federal Government for the delivery of fire retardant by air in order to suppress wildfire.
+Pub. L. 104–307, Oct. 14, 1996, 110 Stat. 3811, as amended by Pub. L. 106–65, div. A, title X, §1067(23), Oct. 5, 1999, 113 Stat. 775; Pub. L. 106–398, §1 \[\[div. A\], title III, §388\], Oct. 30, 2000, 114 Stat. 1654, 1654A–89; Pub. L. 107–314, div. A, title X, §1062(k), Dec. 2, 2002, 116 Stat. 2651; Pub. L. 112–239, div. A, title X, §1090, Jan. 2, 2013, 126 Stat. 1971, provided that:
+
+#### “SECTION 1. SHORT TITLE.
+
+“This Act may be cited as the ‘Wildfire Suppression Aircraft Transfer Act of 1996’.
+
+#### “SEC. 2. AUTHORITY TO SELL AIRCRAFT AND PARTS FOR WILDFIRE SUPPRESSION PURPOSES.
+
+“(a)
+
+Authority.—(1) Notwithstanding subchapter II of chapter 5 of title 40, United States Code, and subject to subsections (b) and (c), the Secretary of Defense may, during a period specified in subsection (g), sell the aircraft and aircraft parts referred to in paragraph (2) to persons or entities that contract with the Federal Government for the delivery of fire retardant by air in order to suppress wildfire.
+
+“(2) Paragraph (1) applies to aircraft and aircraft parts of the Department of Defense that are determined by the Secretary to be—
+
+&emsp;“(A) excess to the needs of the Department; and
+
+&emsp;“(B) acceptable for commercial sale.
+
+“(b)
+
+Conditions of Sale.—Aircraft and aircraft parts sold under subsection (a)—
+
+&emsp;“(1) may be used only for the provision of airtanker services for wildfire suppression purposes; and
+
+&emsp;“(2) may not be flown or otherwise removed from the United States unless dispatched by the National Interagency Fire Center in support of an international agreement to assist in wildfire suppression efforts or for other purposes jointly approved by the Secretary of Defense and the Secretary of Agriculture in writing in advance.
+
+“(c)
+
+Certification of Persons and Entities.—The Secretary of Defense may sell aircraft and aircraft parts to a person or entity under subsection (a) only if the Secretary of Agriculture certifies to the Secretary of Defense, in writing, before the sale that the person or entity is capable of meeting the terms and conditions of a contract to deliver fire retardant by air.
+
+“(d)
+
+Regulations.—(1) As soon as practicable after October 14, 1996, the Secretary of Defense shall, in consultation with the Secretary of Agriculture and the Administrator of General Services, prescribe regulations relating to the sale of aircraft and aircraft parts under this section. The regulations prescribed under this paragraph shall be effective until the end of the period specified in subsection (a)(1).
+
+“(2) The regulations shall—
+
+&emsp;“(A) ensure that the sale of the aircraft and aircraft parts is made at fair market value (as determined by the Secretary of Defense) and, to the extent practicable, on a competitive basis;
+
+&emsp;“(B) require a certification by the purchaser that the aircraft and aircraft parts will be used only in accordance with the conditions set forth in subsection (b);
+
+&emsp;“(C) establish appropriate means of verifying and enforcing the use of the aircraft and aircraft parts by the purchaser and other end users in accordance with the conditions set forth in subsections (b) and (e); and
+
+&emsp;“(D) ensure, to the maximum extent practicable, that the Secretary consults with the Administrator of General Services and with the heads of appropriate departments and agencies of the Federal Government regarding alternative requirements for such aircraft and aircraft parts before the sale of such aircraft and aircraft parts under this section.
+
+“(e)
+
+Additional Terms and Conditions.—The Secretary of Defense may require such other terms and conditions in connection with each sale of aircraft and aircraft parts under this section as the Secretary considers appropriate for such sale. Such terms and conditions shall meet the requirements of the regulations prescribed under subsection (d).
+
+“(f)
+
+Report.—Not later than March 31, 2005, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the Secretary's exercise of authority under this section. The report shall set forth—
+
+&emsp;“(1) the number and type of aircraft sold under the authority, and the terms and conditions under which the aircraft were sold;
+
+&emsp;“(2) the persons or entities to which the aircraft were sold; and
+
+&emsp;“(3) an accounting of the current use of the aircraft sold.
+
+“(g)
+
+Periods for Exercise of Authority.—The periods specified in this subsection are the following:
+
+&emsp;“(1) The period beginning on October 1, 1996, and ending on September 30, 2005.
+
+&emsp;“(2) The period beginning on October 1, 2012, and ending on September 30, 2017.
+
+“(h)
+
+Construction.—Nothing in this section may be construed as affecting the authority of the Administrator of the Federal Aviation Administration under any other provision of law.”
 

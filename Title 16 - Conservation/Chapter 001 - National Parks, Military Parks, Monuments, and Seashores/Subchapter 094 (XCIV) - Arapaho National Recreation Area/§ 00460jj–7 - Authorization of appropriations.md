@@ -8,5 +8,5 @@ Effective October 1, 1979, there are authorized to be appropriated to carry out 
 
 Sections 1 through 10 of this Act, referred to in text, means sections 1 through 10 of Pub. L. 95–450, Oct. 11, 1978, 92 Stat. 1095, which enacted sections 460jj to 460jj–6 of this title and enacted provisions set out as notes under sections 460jj and 1132 of this title.
 
-The Land and Water Conservation Fund, referred to in text, was established by section 460<i>l</i>–5 of this title.
+The Land and Water Conservation Fund, referred to in text, was established by section 460l–5 of this title.
 

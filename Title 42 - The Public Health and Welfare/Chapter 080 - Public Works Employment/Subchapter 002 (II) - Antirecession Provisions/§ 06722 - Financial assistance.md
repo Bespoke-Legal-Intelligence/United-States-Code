@@ -14,7 +14,7 @@ Subject to the provisions of subsections (c) and (d) of this section, there are 
 
 #### (c) Aggregate authorization
 
-In no case shall the aggregate amount authorized to be appropriated under the provisions ofsubsection (b) of this section for the five successive calendar quarters beginning with the calendar quarter which begins July 1, 1977, exceed $2,250,000,000.
+In no case shall the aggregate amount authorized to be appropriated under the provisions of subsection (b) of this section for the five successive calendar quarters beginning with the calendar quarter which begins July 1, 1977, exceed $2,250,000,000.
 
 #### (d) Termination
 

@@ -18,7 +18,7 @@
 
 #### Effective Date of 1995 Amendment
 
-Amendment by Pub. L. 104–67 not to affect or apply to any private action arising under title I of the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) or title I of the Securities Act of 1933 (15 U.S.C. 77a et seq.), commenced before and pending on Dec. 22, 1995, see section 108 of Pub. L. 104–67, set out as a note under section 77<i>l</i> of Title 15, Commerce and Trade.
+Amendment by Pub. L. 104–67 not to affect or apply to any private action arising under title I of the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) or title I of the Securities Act of 1933 (15 U.S.C. 77a et seq.), commenced before and pending on Dec. 22, 1995, see section 108 of Pub. L. 104–67, set out as a note under section 77l of Title 15, Commerce and Trade.
 
 #### Effective Date of 1984 Amendment
 

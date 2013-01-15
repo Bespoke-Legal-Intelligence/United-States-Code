@@ -16,7 +16,7 @@ The Secretary, in coordination with the Under Secretary for Science and Technolo
 
 &emsp;(1) research, development, testing, and evaluation efforts funded by the Department in furtherance of maritime and cargo security are coordinated within the Department and with other appropriate Federal agencies to avoid duplication of efforts; and
 
-&emsp;(2) the results of such efforts are shared throughout the Department and with otherFederal, State, and local agencies, as appropriate.
+&emsp;(2) the results of such efforts are shared throughout the Department and with other Federal, State, and local agencies, as appropriate.
 
 (Pub. L. 109–347, title III, §303, Oct. 13, 2006, 120 Stat. 1921.)
 

@@ -132,7 +132,7 @@ Not later than the end of the second fiscal year beginning after November 12, 19
 
 Subsec. (c)(1). Pub. L. 106–176, §111(a)(2)(A), substituted “certain districts, structures, and relics” for “certain districts structures, and relics”.
 
-Subsec. (c)(2)(A)(i). Pub. L. 106–176, §111(a)(2)(B), substituted “The area included within the New BedfordHistoric District (a National Landmark District), also known as the” for “The area included with the New Bedford National Historic Landmark District, known as the”.
+Subsec. (c)(2)(A)(i). Pub. L. 106–176, §111(a)(2)(B), substituted “The area included within the New Bedford Historic District (a National Landmark District), also known as the” for “The area included with the New Bedford National Historic Landmark District, known as the”.
 
 Subsec. (d)(2). Pub. L. 106–176, §111(a)(3), struck out “to provide” before “appropriate assistance”.
 

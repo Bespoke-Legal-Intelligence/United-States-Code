@@ -140,7 +140,7 @@
 
 #### (5) Independent evaluation
 
-&emsp;Not later than 4 years after December 19, 2006, the Government Accountability Office shall conduct an independent evaluation, and submit to the Secretary and the appropriatecommittees of Congress a report concerning the activities conducted under this subsection and subsection (d).
+&emsp;Not later than 4 years after December 19, 2006, the Government Accountability Office shall conduct an independent evaluation, and submit to the Secretary and the appropriate committees of Congress a report concerning the activities conducted under this subsection and subsection (d).
 
 #### (f) Telehealth enhancements for emergency response
 
@@ -160,7 +160,7 @@
 
 &emsp;&emsp;(B) identify methods to expand and interconnect the regional health information networks funded by the Secretary, the State and regional broadband networks funded through the rural health care support mechanism pilot program funded by the Federal Communications Commission, and other telehealth networks;
 
-&emsp;&emsp;(C) evaluate ways to prepare for, monitor, respond rapidly to, or manage the events of, a public health emergency through the enhanced use of telehealth technologies, including mechanisms for payment or reimbursement for use of such technologies and personnel during public health emergencies;
+&emsp;&emsp;(C) evaluate ways to prepare for, monitor, respond rapidly to, or manage the events of,a public health emergency through the enhanced use of telehealth technologies, including mechanisms for payment or reimbursement for use of such technologies and personnel during public health emergencies;
 
 &emsp;&emsp;(D) identify methods for reducing legal barriers that deter health care professionals from providing telemedicine services, such as by utilizing State emergency health care professional credentialing verification systems, encouraging States to establish and implement mechanisms to improve interstate medical licensure cooperation, facilitating the exchange of information among States regarding investigations and adverse actions, and encouraging States to waive the application of licensing requirements during a public health emergency;
 

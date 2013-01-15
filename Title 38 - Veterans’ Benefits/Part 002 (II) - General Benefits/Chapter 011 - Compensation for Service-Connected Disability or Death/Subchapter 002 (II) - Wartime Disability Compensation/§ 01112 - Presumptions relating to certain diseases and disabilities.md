@@ -120,7 +120,7 @@
 
 &emsp;&emsp;(iii) Internment as prisoner of war in Japan (or service on active duty in Japan immediately following such internment) during World War II which (as determined by the Secretary) resulted in an opportunity for exposure to ionizing radiation comparable to that of veterans described in clause (ii) of this subparagraph.
 
-&emsp;&emsp;(iv) Service in a capacity which, if performed as an employee of the Department of Energy, would qualify the individual for inclusion as a member of the Special Exposure Cohort under section 3621(14) of the Energy Employees Occupational Illness Compensation Program Act of 2000 (42 U.S.C. 7384<i>l</i>(14)).
+&emsp;&emsp;(iv) Service in a capacity which, if performed as an employee of the Department of Energy, would qualify the individual for inclusion as a member of the Special Exposure Cohort under section 3621(14) of the Energy Employees Occupational Illness Compensation Program Act of 2000 (42 U.S.C. 7384l(14)).
 
 (4) A radiation-exposed veteran who receives a payment under the provisions of the Radiation Exposure Compensation Act of 1990 (42 U.S.C. 2210 note) shall not be deprived, by reason of the receipt of that payment, of receipt of compensation to which that veteran is entitled by reason of paragraph (1), but there shall be deducted from payment of such compensation the amount of the payment under that Act.
 
@@ -234,31 +234,31 @@ Pub. L. 108–454, title III, §306(c), Dec. 10, 2004, 118 Stat. 3612, provided 
 
 #### Effective Date of 1992 Amendment
 
-Section 2(b) of Pub. L. 102–578 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 1992.”
+Pub. L. 102–578, §2(b), Oct. 30, 1992, 106 Stat. 4774, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 1992.”
 
 #### Effective Date of 1991 Amendment
 
-Section 104(b) of Pub. L. 102–86 provided that: “No benefit may be paid by reason of the amendment made by subsection (a) \[amending this section\] for any period before the date of the enactment of this Act \[Aug. 14, 1991\].”
+Pub. L. 102–86, title I, §104(b), Aug. 14, 1991, 105 Stat. 415, provided that: “No benefit may be paid by reason of the amendment made by subsection (a) \[amending this section\] for any period before the date of the enactment of this Act \[Aug. 14, 1991\].”
 
 #### Effective Date of 1988 Amendment
 
-Section 2(b) of Pub. L. 100–321 provided that: “Subsection (c) of section 312 \[now 1112\] of title 38, United States Code, as added by subsection (a), shall take effect on May 1, 1988.”
+Pub. L. 100–321, §2(b), May 20, 1988, 102 Stat. 486, provided that: “Subsection (c) of section 312 \[now 1112\] of title 38, United States Code, as added by subsection (a), shall take effect on May 1, 1988.”
 
 #### Effective Date of 1986 Amendment
 
-Section 108(b) of Pub. L. 99–576 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect as of October 1, 1986.”
+Pub. L. 99–576, title I, §108(b), Oct. 28, 1986, 100 Stat. 3252, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect as of October 1, 1986.”
 
 #### Effective Date of 1984 Amendment
 
 Amendment by section 101(c) of Pub. L. 98–223 effective Apr. 1, 1984, see section 107 of Pub. L. 98–223, set out as a note under section 1114 of this title.
 
-Section 114 of Pub. L. 98–223 provided that: “The amendments made by this part \[part B (§§111–114) of title I of Pub. L. 98–223, amending this section and sections 314 and 3011 \[now 1114 and 5111\] of this title\] shall take effect as of October 1, 1983.”
+Pub. L. 98–223, title I, §114, Mar. 2, 1984, 98 Stat. 40, provided that: “The amendments made by this part \[part B (§§111–114) of title I of Pub. L. 98–223, amending this section and sections 314 and 3011 \[now 1114 and 5111\] of this title\] shall take effect as of October 1, 1983.”
 
 #### Effective Date of 1981 Amendment
 
-Section 4(b) of Pub. L. 97–37 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 1981.”
+Pub. L. 97–37, §4(b), Aug. 14, 1981, 95 Stat. 936, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 1981.”
 
 #### Effective Date of 1962 Amendment
 
-Section 4 of Pub. L. 87–645 provided that: “This Act \[amending this section and sections 314 and 3203 \[now 1114 and 5503\] of this title and enacting provisions set out as a note under section 1114 of this title\] shall take effect on the first day of the first calendar month which begins after the date of enactment of this Act \[Sept. 7, 1962\] but no payments shall be made by reason of this Act for any period before such effective date. The increased rate of compensation payable to any veteran entitled thereto on such first day shall be further increased, for such month only, in an amount equal to three times the monthly increase provided for such veteran by the amendments made by this Act.”
+Pub. L. 87–645, §4, Sept. 7, 1962, 76 Stat. 442, provided that: “This Act \[amending this section and sections 314 and 3203 \[now 1114 and 5503\] of this title and enacting provisions set out as a note under section 1114 of this title\] shall take effect on the first day of the first calendar month which begins after the date of enactment of this Act \[Sept. 7, 1962\] but no payments shall be made by reason of this Act for any period before such effective date. The increased rate of compensation payable to any veteran entitled thereto on such first day shall be further increased, for such month only, in an amount equal to three times the monthly increase provided for such veteran by the amendments made by this Act.”
 

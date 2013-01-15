@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-Except as provided in subsections (b) and (c) and in sections 6306, 7651, 7652, 7654, and 7810, the gross amount of all taxes and revenues received under the provisions of this title, and collections of whatever nature received or collected by authority of any internal revenue law, shall be paid daily into the Treasury of the United States under instructions of the Secretary as internal revenue collections, by the officer or employee receiving or collecting the same, without any abatement or deduction on account of salary, compensation, fees, costs, charges, expenses, or claims of any description. A certificate of such payment, stating the name of the depositor and the specific account on which the deposit was made, signed by the Treasurer of theUnited States, designated depositary, or proper officer of a deposit bank, shall be transmitted to the Secretary.
+Except as provided in subsections (b) and (c) and in sections 6306, 7651, 7652, 7654, and 7810, the gross amount of all taxes and revenues received under the provisions of this title, and collections of whatever nature received or collected by authority of any internal revenue law, shall be paid daily into the Treasury of the United States under instructions of the Secretary as internal revenue collections, by the officer or employee receiving or collecting the same, without any abatement or deduction on account of salary, compensation, fees, costs, charges, expenses, or claims of any description. A certificate of such payment, stating the name of the depositor and the specific account on which the deposit was made, signed by the Treasurer of the United States, designated depositary, or proper officer of a deposit bank, shall be transmitted to the Secretary.
 
 #### (b) Deposit funds
 
@@ -44,7 +44,7 @@ Moneys received in payment for—
 
 #### (1) In general
 
-&emsp;In the case of any amounts recovered as the result of information provided to the Internal Revenue Service by State and local law enforcement agencies which substantially contributed to such recovery, an amount equal to 10 percent of such amounts shall be deposited in a separate account which shall be used to make the reimbursements required under section 7624.
+&emsp;In the case of any amounts recovered as the result of information provided to the InternalRevenue Service by State and local law enforcement agencies which substantially contributed to such recovery, an amount equal to 10 percent of such amounts shall be deposited in a separate account which shall be used to make the reimbursements required under section 7624.
 
 #### (2) Deposit in Treasury as internal revenue collections
 
@@ -78,7 +78,7 @@ Amendment by Pub. L. 100–690 applicable to information first provided more tha
 
 #### Effective Date of 1976 Amendments
 
-Section 2(e) of Pub. L. 94–528 provided that: “The amendments made by this section \[amending this section and provisions set out as notes under sections 6334, 6851, and 7609 of this title\] shall take effect on the date of the enactment of the Tax Reform Act of 1976 \[Oct. 4, 1976\].”
+Pub. L. 94–528, §2(e), Oct. 17, 1976, 90 Stat. 2484, provided that: “The amendments made by this section \[amending this section and provisions set out as notes under sections 6334, 6851, and 7609 of this title\] shall take effect on the date of the enactment of the Tax Reform Act of 1976 \[Oct. 4, 1976\].”
 
 Amendment by section 1202(h)(5) of Pub. L. 94–455 effective Jan. 1, 1977, see section 1202(i) of Pub. L. 94–455, set out as a note under section 6103 of this title.
 
@@ -88,5 +88,5 @@ Amendment by Pub. L. 89–719 applicable after Nov. 2, 1966, regardless of when 
 
 #### Authorization of Appropriations
 
-Section 7602(f) of Pub. L. 100–690 provided that: “There is authorized to be appropriated from the account referred to in section 7809(d) of the Internal Revenue Code of 1986 such sums as may be necessary to make the payments authorized by section 7624 of such Code.”
+Pub. L. 100–690, title VII, §7602(f), Nov. 18, 1988, 102 Stat. 4508, provided that: “There is authorized to be appropriated from the account referred to in section 7809(d) of the Internal Revenue Code of 1986 such sums as may be necessary to make the payments authorized by section 7624 of such Code.”
 

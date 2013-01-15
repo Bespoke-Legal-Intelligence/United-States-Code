@@ -32,7 +32,7 @@
 
 (B) The Secretary is not required to make an appointment to an attorney position under this paragraph if the Secretary determines that the member of the Board removed under paragraph (1) is not qualified for the position.
 
-(e)(1) A member of the Board (other than the Chairman or a member of the Senior Executive Service) may be removed as a member of the Board by reason of job performance only as provided in subsections (c) and (d). Such a member may be removed by the Secretary, upon the recommendation of the Chairman, for any other reason as determined by the Secretary.
+(e)(1) A member of the Board (other than the Chairman or a member of the Senior Executive Service) may be removed as a member of the Board by reason of job performance only as provided in subsections (c) and (d). Such a membermay be removed by the Secretary, upon the recommendation of the Chairman, for any other reason as determined by the Secretary.
 
 (2) In the case of a removal of a member under this section for a reason other than job performance that would be covered by section 7521 of title 5 in the case of an administrative law judge, the removal of the member of the Board shall be carried out subject to the same requirements as apply to removal of an administrative law judge under that section. Section 554(a)(2) of title 5 shall not apply to a removal action under this subsection. In such a removal action, a member shall have the rights set out in section 7513(b) of that title.
 
@@ -50,15 +50,15 @@ Subsec. (d)(2). Pub. L. 105–368, §1002(b), amended par. (2) generally. Prior 
 
 #### Effective Date
 
-Section 201(c) of Pub. L. 103–446 provided that: “Section 7101A(b) of title 38, United States Code, as added by subsection (a), shall take effect on the first day of the first pay period beginning after December 31, 1994.”
+Pub. L. 103–446, title II, §201(c), Nov. 2, 1994, 108 Stat. 4657, provided that: “Section 7101A(b) of title 38, United States Code, as added by subsection (a), shall take effect on the first day of the first pay period beginning after December 31, 1994.”
 
 #### Save Pay Provision
 
-Section 201(b) of Pub. L. 103–446 provided that: “The rate of basic pay payable to an individual who is a member of the Board of Veterans’ Appeals on the date of the enactment of this Act \[Nov. 2, 1994\] may not be reduced by reason of the amendments made by this section \[enacting this section and amending section 7101 of this title\] to a rate below the rate payable to such individual on the day before such date.”
+Pub. L. 103–446, title II, §201(b), Nov. 2, 1994, 108 Stat. 4656, provided that: “The rate of basic pay payable to an individual who is a member of the Board of Veterans’ Appeals on the date of the enactment of this Act \[Nov. 2, 1994\] may not be reduced by reason of the amendments made by this section \[enacting this section and amending section 7101 of this title\] to a rate below the rate payable to such individual on the day before such date.”
 
 #### Deadline for Establishment of Performance Evaluation Criteria for Board Members
 
-Section 202 of Pub. L. 103–446 provided that:
+Pub. L. 103–446, title II, §202, Nov. 2, 1994, 108 Stat. 4657, provided that:
 
 “(a)
 

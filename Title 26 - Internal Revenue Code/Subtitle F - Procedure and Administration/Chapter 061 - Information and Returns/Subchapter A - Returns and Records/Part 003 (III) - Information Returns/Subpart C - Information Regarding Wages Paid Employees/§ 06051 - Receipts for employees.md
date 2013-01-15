@@ -74,13 +74,13 @@ A duplicate of any statement made pursuant to this section and in accordance wit
 
 &emsp;&emsp;If, during any calendar year, any person makes a payment of third-party sick pay to an employee, such person shall, on or before January 15 of the succeeding year, furnish a written statement to the employer in respect of whom such payment was made showing—
 
-&emsp;&emsp;&emsp;(i) the name and, if there is withholding under section 3402(<i>o</i>), the social security number of such employee,
+&emsp;&emsp;&emsp;(i) the name and, if there is withholding under section 3402(o), the social security number of such employee,
 
 &emsp;&emsp;&emsp;(ii) the total amount of the third-party sick pay paid to such employee during the calendar year, and
 
 &emsp;&emsp;&emsp;(iii) the total amount (if any) deducted and withheld from such sick pay under section 3402.
 
-> &emsp;&emsp;For purposes of the preceding sentence, the term “third-party sick pay” means any sick pay (as defined in section 3402(<i>o</i>)(2)(C)) which does not constitute wages for purposes of chapter 24 (determined without regard to section 3402(<i>o</i>)(1)).
+> &emsp;&emsp;For purposes of the preceding sentence, the term “third-party sick pay” means any sick pay (as defined in section 3402(o)(2)(C)) which does not constitute wages for purposes of chapter 24 (determined without regard to section 3402(o)(1)).
 
 #### (B) Special rules
 
@@ -102,7 +102,7 @@ A duplicate of any statement made pursuant to this section and in accordance wit
 
 > &emsp;To the extent practicable, the information required under the preceding sentence shall be furnished on or with the statement (if any) required under subsection (a).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 747; Aug. 1, 1956, ch. 837, title IV, §412, 70 Stat. 879; Pub. L. 87–293, title II, §202(a)(4), Sept. 22, 1961, 75 Stat. 626; Pub. L. 89–97, title I, §107, title III, §313(e)(1), July 30, 1965, 79 Stat. 337, 384; Pub. L. 90–248, title V, §502(c)(1), (2), Jan. 2, 1968, 81 Stat. 934; Pub. L. 91–172, title VIII, §805(f)(2), Dec. 30, 1969, 83 Stat. 708; Pub. L. 92–603, title II, §293(a)–(c),Oct. 30, 1972, 86 Stat. 1459; Pub. L. 93–406, title II, §1022(k), Sept. 2, 1974, 88 Stat. 943; Pub. L. 94–455, title XIX, §1906(a)(5), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1824, 1834; Pub. L. 95–216, title III, §317(b)(3), Dec. 20, 1977, 91 Stat. 1540; Pub. L. 95–600, title I, §105(c), Nov. 6, 1978, 92 Stat. 2776; Pub. L. 96–601, §4(e), Dec. 24, 1980, 94 Stat. 3497; Pub. L. 97–248, title III, §§307(a)(7), 308(a), Sept. 3, 1982, 96 Stat. 589, 591; Pub. L. 97–362, title I, §107(a), Oct. 25, 1982, 96 Stat. 1731; Pub. L. 98–67, title I, §102(a), Aug. 5, 1983, 97 Stat. 369; Pub. L. 99–514, title XI, §1105(b), Oct. 22, 1986, 100 Stat. 2419; Pub. L. 100–647, title I, §§1011B(c)(2)(B), 1018(u)(33), Nov. 10, 1988, 102 Stat. 3489, 3592; Pub. L. 103–465, title VII, §721(b), Dec. 8, 1994, 108 Stat. 5002; Pub. L. 104–191, title III, §301(c)(3), Aug. 21, 1996, 110 Stat. 2049; Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(9)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–629; Pub. L. 107–16, title VI, §617(d)(1), June 7, 2001, 115 Stat. 105; Pub. L. 108–173, title XII, §1201(d)(3), Dec. 8, 2003, 117 Stat. 2477; Pub. L. 108–357, title VIII, §885(b)(1), Oct. 22, 2004, 118 Stat. 1639; Pub. L. 111–148, title IX, §9002(a), Mar. 23, 2010, 124 Stat. 853; Pub. L. 111–226, title II, §219(a)(3), Aug. 10, 2010, 124 Stat. 2403.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 747; Aug. 1, 1956, ch. 837, title IV, §412, 70 Stat. 879; Pub. L. 87–293, title II, §202(a)(4), Sept. 22, 1961, 75 Stat. 626; Pub. L. 89–97, title I, §107, title III, §313(e)(1), July 30, 1965, 79 Stat. 337, 384; Pub. L. 90–248, title V, §502(c)(1), (2), Jan. 2, 1968, 81 Stat. 934; Pub. L. 91–172, title VIII, §805(f)(2), Dec. 30, 1969, 83 Stat. 708; Pub. L. 92–603, title II, §293(a)–(c), Oct. 30, 1972, 86 Stat. 1459; Pub. L. 93–406, title II, §1022(k), Sept. 2, 1974, 88 Stat. 943; Pub. L. 94–455, title XIX, §1906(a)(5), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1824, 1834; Pub. L. 95–216, title III, §317(b)(3), Dec. 20, 1977, 91 Stat. 1540; Pub. L. 95–600, title I, §105(c), Nov. 6, 1978, 92 Stat. 2776; Pub. L. 96–601, §4(e), Dec. 24, 1980, 94 Stat. 3497; Pub. L. 97–248, title III, §§307(a)(7), 308(a), Sept. 3, 1982, 96 Stat. 589, 591; Pub. L. 97–362, title I, §107(a), Oct. 25, 1982, 96 Stat. 1731; Pub. L. 98–67, title I, §102(a), Aug. 5, 1983, 97 Stat. 369; Pub. L. 99–514, title XI, §1105(b), Oct. 22, 1986, 100 Stat. 2419; Pub. L. 100–647, title I, §§1011B(c)(2)(B), 1018(u)(33), Nov. 10, 1988, 102 Stat. 3489, 3592; Pub. L. 103–465, title VII, §721(b), Dec. 8, 1994, 108 Stat. 5002; Pub. L. 104–191, title III, §301(c)(3), Aug. 21, 1996, 110 Stat. 2049; Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(9)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–629; Pub. L. 107–16, title VI, §617(d)(1), June 7, 2001, 115 Stat. 105; Pub. L. 108–173, title XII, §1201(d)(3), Dec. 8, 2003, 117 Stat. 2477; Pub. L. 108–357, title VIII, §885(b)(1), Oct. 22, 2004, 118 Stat. 1639; Pub. L. 111–148, title IX, §9002(a), Mar. 23, 2010, 124 Stat. 853; Pub. L. 111–226, title II, §219(a)(3), Aug. 10, 2010, 124 Stat. 2403.)
 
 #### References in Text
 
@@ -138,7 +138,7 @@ Subsec. (a)(9). Pub. L. 100–647, §1011B(c)(2)(B), added par. (9).
 
 <b>1983</b>—Subsec. (f)(1)(A). Pub. L. 98–67 repealed amendments made by Pub. L. 97–248. See 1982 Amendment note below.
 
-<b>1982</b>—Subsec. (a). Pub. L. 97–362 substituted “within 30 days after the date of receipt of a written request from the employee if such 30-day period ends before January 31” for “on the day on which the last payment of remuneration is made”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–362 substituted “within 30 days after the date of receipt of a written request from the employee if such 30-day period ends beforeJanuary 31” for “on the day on which the last payment of remuneration is made”.
 
 Subsec. (f)(1)(A). Pub. L. 97–248 provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, par. (1)(A) is amended by inserting “subchapter A of” before “chapter 24”. Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
 
@@ -180,7 +180,7 @@ Subsec. (b). Act Aug. 1, 1956, §412(b), required the furnishing of a statement 
 
 Amendment by Pub. L. 111–226 applicable to taxable years beginning after Dec. 31, 2010, see section 219(c) of Pub. L. 111–226, set out as a note under section 32 of this title.
 
-Pub. L. 111–148, title IX, §9002(b), Mar. 23, 2010, 124 Stat. 854, provided that: “The amendments made bythis section \[amending this section\] shall apply to taxable years beginning after December 31, 2010.”
+Pub. L. 111–148, title IX, §9002(b), Mar. 23, 2010, 124 Stat. 854, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2010.”
 
 #### Effective Date of 2004 Amendment
 
@@ -200,7 +200,7 @@ Amendment by Pub. L. 104–191 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 1994 Amendment
 
-Section 721(d)(2) of Pub. L. 103–465 provided that: “The amendments made by subsections (b) and (c) \[amending this section and former section 3507 of this title\] shall apply to remuneration paid after December 31, 1994.”
+Pub. L. 103–465, title VII, §721(d)(2), Dec. 8, 1994, 108 Stat. 5002, provided that: “The amendments made by subsections (b) and (c) \[amending this section and former section 3507 of this title\] shall apply to remuneration paid after December 31, 1994.”
 
 #### Effective Date of 1988 Amendment
 
@@ -214,7 +214,7 @@ Amendment by Pub. L. 99–514 applicable to calendar years beginning after Dec. 
 
 #### Effective Date of 1982 Amendment
 
-Section 107(b) of Pub. L. 97–362 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to employees whose employment is terminated after the date of the enactment of this Act \[Oct. 25, 1982\].”
+Pub. L. 97–362, title I, §107(b), Oct. 25, 1982, 96 Stat. 1731, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to employees whose employment is terminated after the date of the enactment of this Act \[Oct. 25, 1982\].”
 
 #### Effective Date of 1980 Amendment
 
@@ -222,7 +222,7 @@ Amendment by Pub. L. 96–601 applicable to payments made on or after first day 
 
 #### Effective Date of 1978 Amendment
 
-Section 105(g)(2) of Pub. L. 95–600, as amended by Pub. L. 96–222, title I, §101(a)(2)(D), Apr. 1, 1980, 94 Stat. 195, provided that: “The amendments made by subsections (b), (c), and (e) \[enacting former section 3507 of this title and amending this section and section 6302 of this title\] shall apply to remuneration paid after June 30, 1979.”
+Pub. L. 95–600, title I, §105(g)(2), Nov. 6, 1978, 92 Stat. 2776, as amended by Pub. L. 96–222, title I, §101(a)(2)(D),Apr. 1, 1980, 94 Stat. 195, provided that: “The amendments made by subsections (b), (c), and (e) \[enacting former section 3507 of this title and amending this section and section 6302 of this title\] shall apply to remuneration paid after June 30, 1979.”
 
 #### Effective Date of 1974 Amendment
 
@@ -230,7 +230,7 @@ Amendment by Pub. L. 93–406 applicable to plan years to which part I of subtit
 
 #### Effective Date of 1972 Amendment
 
-Section 293(d) of Pub. L. 92–603 provided that: “The amendments made by this section \[amending this section\] shall apply in respect to remuneration paid after December 31, 1971.”
+Pub. L. 92–603, title II, §293(d), Oct. 30, 1972, 86 Stat. 1459, provided that: “The amendments made by this section \[amending this section\] shall apply in respect to remuneration paid after December 31, 1971.”
 
 #### Effective Date of 1969 Amendment
 
@@ -238,7 +238,7 @@ Amendment by Pub. L. 91–172 applicable to wages paid after Apr. 30, 1970, see 
 
 #### Effective Date of 1968 Amendment
 
-Section 502(c)(3) of Pub. L. 90–248 provided that: “The amendments made by paragraphs (1) and (2) \[amending this section\] shall apply in respect of remuneration paid after December 31, 1967.”
+Pub. L. 90–248, title V, §502(c)(3), Jan. 2, 1968, 81 Stat. 934, provided that: “The amendments made by paragraphs (1) and (2) \[amending this section\] shall apply in respect of remuneration paid after December 31, 1967.”
 
 #### Effective Date of 1965 Amendment
 
@@ -250,7 +250,7 @@ Amendment by Pub. L. 87–293 applicable with respect to service performed after
 
 #### Effective Date of 1956 Amendment
 
-Amendment by act Aug. 1, 1956, effective Jan. 1, 1957, see section 603(a) of act Aug. 1, 1956.
+Amendment by act Aug. 1, 1956, effective Jan. 1, 1957, see section 603(a) of act Aug. 1, 1956, ch. 837, title VI, 70 Stat. 887.
 
 #### Repeals; Amendments and Application of Amendments Unaffected
 

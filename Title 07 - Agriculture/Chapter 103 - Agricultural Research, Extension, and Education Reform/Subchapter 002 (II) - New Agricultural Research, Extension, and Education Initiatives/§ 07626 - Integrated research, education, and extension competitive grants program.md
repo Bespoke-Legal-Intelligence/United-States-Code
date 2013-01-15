@@ -10,7 +10,7 @@ Subject to the availability of appropriations to carry out this section, the Sec
 
 #### (c) Criteria for grants
 
-Grants under this section shall be awarded to address priorities in United States agriculture,determined by the Secretary in consultation with the Advisory Board, that involve integrated research, extension, and education activities.
+Grants under this section shall be awarded to address priorities in United States agriculture, determined by the Secretary in consultation with the Advisory Board, that involve integrated research, extension, and education activities.
 
 #### (d) Matching of funds
 

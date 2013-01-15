@@ -2,7 +2,7 @@
 
 #### (a) Preemption of testing and labeling requirements
 
-(1) Effective on March 17, 1987, this part supersedes any State regulation insofar as such Stateregulation provides at any time for the disclosure of information with respect to any measure of energy consumption or water use of any covered product if—
+(1) Effective on March 17, 1987, this part supersedes any State regulation insofar as such State regulation provides at any time for the disclosure of information with respect to any measure of energy consumption or water use of any covered product if—
 
 &emsp;(A) such State regulation requires testing or the use of any measure of energy consumption, water use, or energy descriptor in any manner other than that provided under section 6293 of this title; or
 
@@ -26,11 +26,9 @@ Effective on March 17, 1987, and ending on the effective date of an energy conse
 
 &emsp;(B) in the case of any portion of any regulation that establishes requirements for general service incandescent lamps, intermediate base incandescent lamps, or candelabra base lamps, was enacted or adopted by the State of California or Nevada before December 4, 2007, except that—
 
-&emsp;&emsp;(i) the regulation adopted by the California Energy Commission with an effective date of January 1, 2008, shall only be effective until the effective date of the Federal standard for the applicable lamp category under subparagraphs (A), (B), and (C) of section 6295(i)(1) of this title;
+&emsp;&emsp;(i) the regulation adopted by the California Energy Commission with an effective date of January 1, 2008, shall only be effective until the effective date of the Federal standard for the applicable lamp category under subparagraphs (A), (B), and (C) of section 6295(i)(1) of this title; and
 
-&emsp;&emsp;(ii) the States of California and Nevada may, at any time, modify or adopt a State standard for general service lamps to conform with Federal standards with effective dates no earlier than 12 months prior to the Federal effective dates prescribed under subparagraphs (A), (B), and (C) of section 6295(i)(1) of this title, at which time any prior regulations adopted by the State of California or Nevada shall no longer be effective; and
-
-&emsp;&emsp;(iii) all other States may, at any time, modify or adopt a State standard for general service lamps to conform with Federal standards and effective dates.
+&emsp;&emsp;(ii) the States of California and Nevada may, at any time, modify or adopt a State standard for general service lamps to conform with Federal standards with effective dates no earlier than 12 months prior to the Federal effective dates prescribed under subparagraphs (A), (B), and (C) of section 6295(i)(1) of this title, at which time any prior regulations adopted by the State of California or Nevada shall no longer be effective.
 
 &emsp;(2) is a State procurement regulation described in subsection (e) of this section;
 
@@ -48,7 +46,7 @@ Effective on March 17, 1987, and ending on the effective date of an energy conse
 
 Except as provided in section 6295(b)(3)(A)(ii) of this title, subparagraphs (B) and (C) of section 6295(j)(3) of this title, and subparagraphs (B) and (C) of section 6295(k)(3) of this title and effective on the effective date of an energy conservation standard established in or prescribed under section 6295 of this title for any covered product, no State regulation concerning the energy efficiency, energy use, or water use of such covered product shall be effective with respect to such product unless the regulation—
 
-&emsp;(1) is a regulation described in paragraph (2) or (4) of subsection (b) of this section, except that a State regulation (or portion thereof) regulating fluorescent lamp ballasts other than those to which paragraph (5) of section 6295(g) of this title is applicable shall be effective only until the effective date of a standardthat is prescribed by the Secretary under paragraph (7) of such section and is applicable to such ballasts, except that a State regulation (or portion thereof) regulating fluorescent or incandescent lamps other than those for which section 6295(i) of this title is applicable shall be effective only until the effective date of a standard that is prescribed by the Secretary and is applicable to such lamps;
+&emsp;(1) is a regulation described in paragraph (2) or (4) of subsection (b) of this section, except that a State regulation (or portion thereof) regulating fluorescent lamp ballasts other than those to which paragraph (5) of section 6295(g) of this title is applicable shall be effective only until the effective date of a standard that is prescribed by the Secretary under paragraph (7) of such section and is applicable to such ballasts, except that a State regulation (or portion thereof) regulating fluorescent or incandescent lamps other than those for which section 6295(i) of this title is applicable shall be effective only until the effective date of a standard that is prescribed by the Secretary and is applicable to such lamps;
 
 &emsp;(2) is a regulation which has been granted a waiver under subsection (d) of this section;
 
@@ -90,7 +88,7 @@ Except as provided in section 6295(b)(3)(A)(ii) of this title, subparagraphs (B)
 
 > The factors described in clause (ii) shall be evaluated within the context of the State's energy plan and forecast, and, with respect to a State regulation for which a petition has been submitted to the Secretary which provides for any energy conservation standard or requirement with respect to water use of a covered product, within the context of the water supply and groundwater management plan, water quality program, and comprehensive plan (if any) of the State or river basin commission for improving, developing, or conserving a waterway affected by water supply development.
 
-(2) The Secretary shall give notice of any petition filed under paragraph (1)(A) and afford interested persons a reasonable opportunity to make written comments, including rebuttal comments, thereon. The Secretary shall, within the 6-month period beginning on the date on which any such petition is filed, deny such petition or prescribe the requested rule, except that the Secretary may publish a notice in the Federal Register extending such period to a date certain but no longer than one year after the date on which the petition was filed. Such notice shall include the reasons for delay. In the case of any denial of a petition under this subsection, the Secretary shall publish in the Federal Register notice of, and the reasons for, such denial.
+(2) The Secretary shall give notice of any petition filed under paragraph (1)(A) and afford interested persons a reasonable opportunity to make written comments, including rebuttal comments, thereon. The Secretary shall, withinthe 6-month period beginning on the date on which any such petition is filed, deny such petition or prescribe the requested rule, except that the Secretary may publish a notice in the Federal Register extending such period to a date certain but no longer than one year after the date on which the petition was filed. Such notice shall include the reasons for delay. In the case of any denial of a petition under this subsection, the Secretary shall publish in the Federal Register notice of, and the reasons for, such denial.
 
 (3) The Secretary may not prescribe a rule under this subsection if the Secretary finds (and publishes such finding) that interested persons have established, by a preponderance of the evidence, that such State regulation will significantly burden manufacturing, marketing, distribution, sale, or servicing of the covered product on a national basis. In determining whether to make such finding, the Secretary shall evaluate all relevant factors, including—
 
@@ -164,9 +162,11 @@ Any State regulation which sets forth procurement standards for a State (or poli
 
 Any disclosure with respect to energy use, energy efficiency, or estimated annual operating cost which is required to be made under the provisions of this part shall not create an express or implied warranty under State or Federal law that such energy efficiency will be achieved or that such energy use or estimated annual operating cost will not be exceeded under conditions of actual use.
 
-(Pub. L. 94–163, title III, §327, Dec. 22, 1975, 89 Stat. 926; Pub. L. 95–619, title IV, §424, Nov. 9, 1978, 92 Stat. 3263; Pub. L. 100–12, §7, Mar. 17, 1987, 101 Stat. 117; Pub. L. 100–357, §2(f), June 28, 1988, 102 Stat. 674; Pub. L. 102–486, title I, §123(h), Oct. 24, 1992, 106 Stat. 2829; Pub. L. 109–58, title I, §135(d), Aug. 8, 2005, 119 Stat. 634; Pub. L. 110–140, title III, §§321(d), 324(f), Dec. 19, 2007, 121 Stat. 1585, 1594.)
+(Pub. L. 94–163, title III, §327, Dec. 22, 1975, 89 Stat. 926; Pub. L. 95–619, title IV, §424, Nov. 9, 1978, 92 Stat. 3263; Pub. L. 100–12, §7, Mar. 17, 1987, 101 Stat. 117; Pub. L. 100–357, §2(f), June 28, 1988, 102 Stat. 674; Pub. L. 102–486, title I, §123(h),Oct. 24, 1992, 106 Stat. 2829; Pub. L. 109–58, title I, §135(d), Aug. 8, 2005, 119 Stat. 634; Pub. L. 110–140, title III, §§321(d), 324(f), Dec. 19, 2007, 121 Stat. 1585, 1594; Pub. L. 112–210, §10(a)(9), Dec. 18, 2012, 126 Stat. 1524.)
 
 #### Amendments
+
+<b>2012</b>—Subsec. (b)(1)(B). Pub. L. 112–210 inserted “and” after the semicolon in cl. (i), substituted a period for “; and” in cl. (ii), and struck out cl. (iii) which read as follows: “all other States may, at any time, modify or adopt a State standard for general service lamps to conform with Federal standards and effective dates.”
 
 <b>2007</b>—Subsec. (b)(1). Pub. L. 110–140, §321(d), designated existing provisions as subpar. (A) and added subpar. (B).
 
@@ -215,6 +215,10 @@ Subsec. (c)(1). Pub. L. 100–357, §2(f)(3), inserted before semicolon “, ex
 <b>1978</b>—Subsec. (a)(2). Pub. L. 95–619, §424(b), substituted “other requirement” for “similar requirement”.
 
 Subsec. (b). Pub. L. 95–619, §424(a), in par. (1) substituted provisions vesting power to prescribe rules superseding State energy efficiency regulations in the Secretary for provisions vesting such power in the Administrator of the Federal Energy Administration and provided that persons subject to such State regulations were to petition the Secretary for relief therefrom rather than the Administrator, in par. (2) inserted provisions authorizing the supersedure of any State regulation prescribed after Jan. 1, 1978 respecting energy use of any type of covered product and authorizing the filing of a petition by the State for exemption from any such supersedure, and struck out provision that a State regulation containing a more stringent energy efficiency standard than the corresponding Federal standard would not be superseded, and added pars. (3) to (5).
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–210 effective as if included in the Energy Independence and Security Act of 2007, Pub. L. 110–140, see section 10(a)(13) of Pub. L. 112–210, set out as a note under section 6291 of this title.
 
 #### Effective Date of 2007 Amendment
 

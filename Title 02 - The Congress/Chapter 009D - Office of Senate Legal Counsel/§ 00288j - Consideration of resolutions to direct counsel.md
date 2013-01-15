@@ -6,7 +6,7 @@
 
 (2) With respect to a resolution pursuant to section 288b(a) of this title, the following rules apply:
 
-&emsp;(A) If the motion to proceed to the consideration of the resolution is agreed to, debate thereon shall be limited to not more than ten hours, which shall be divided equally between, and controlled by, those favoring and those opposing the resolution. A motion further to limit debate shall not be debatable. No amendment to the resolution shall be in order. No motion to recommit the resolution shall be in order, and it shall not be in order to reconsider the vote by which the resolution is agreed to.
+&emsp;(A) If the motion to proceed to the consideration of the resolution is agreed to, debatethereon shall be limited to not more than ten hours, which shall be divided equally between, and controlled by, those favoring and those opposing the resolution. A motion further to limit debate shall not be debatable. No amendment to the resolution shall be in order. No motion to recommit the resolution shall be in order, and it shall not be in order to reconsider the vote by which the resolution is agreed to.
 
 &emsp;(B) Motions to postpone, made with respect to the consideration of the resolution, and motions to proceed to the consideration of other business, shall be decided without debate.
 

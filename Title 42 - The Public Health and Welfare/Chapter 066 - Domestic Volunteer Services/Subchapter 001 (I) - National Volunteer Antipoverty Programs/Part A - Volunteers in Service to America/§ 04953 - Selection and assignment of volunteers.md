@@ -34,7 +34,7 @@ The Director, on the receipt of applications by public or nonprofit private orga
 
 (1) The Director shall establish placement procedures that involve sponsoring organizations and that offer opportunities for both local and national placement of volunteers for service under this part.
 
-(2)(A) The Director shall establish and maintain within the national headquarters of the Corporation (or any successor entity of such agency) a volunteer placement office which shall be responsible for all functions related to the recruitment and placement of volunteers under this part. Such functions and activitiesshall be carried out in coordination or in conjunction with recruitment and placement activities carried out under the National and Community Service Act of 1990 \[42 U.S.C. 12501 et seq.\].
+(2)(A) The Director shall establish and maintain within the national headquarters of the Corporation (or any successor entity of such agency) a volunteer placement office which shall be responsible for all functions related to the recruitment and placement of volunteers under this part. Such functions and activities shall be carried out in coordination or in conjunction with recruitment and placement activities carried out under the National and Community Service Act of 1990 \[42 U.S.C. 12501 et seq.\].
 
 (B) Such volunteer placement office shall develop, operate, and maintain a current and comprehensive database that provides information—
 
@@ -58,7 +58,7 @@ The Director, on the receipt of applications by public or nonprofit private orga
 
 (E) If an applicant under this part who is recruited locally becomes unavailable for service prior to the commencement of service, the recipient of the project grant or contract that was designated to receive the services of such applicant may replace such applicant with another qualified applicant approved by the Director.
 
-(F) If feasible and appropriate, low-income community volunteers shall be given the option of serving in the home communities of such volunteers in teams with nationally recruited specialist volunteers. The Director shall attempt to assign such volunteers to serve in the home or nearby communities of such volunteers and shall make national efforts to attract other individuals to serve in the VISTA program. The Director shall also, in the assignment of volunteers under this subparagraph, recognize that community-identified needs that cannot be met in the local area and the individual desires of VISTA volunteers in regard to the service in various geographical areas of the United States should be taken into consideration.
+(F) If feasible and appropriate, low-income community volunteers shall be given the option of serving in the home communities of such volunteers in teams with nationally recruited specialist volunteers. The Director shall attempt to assign such volunteers to serve in the home or nearby communities of such volunteers and shall make national efforts to attract other individuals to serve in the VISTA program. TheDirector shall also, in the assignment of volunteers under this subparagraph, recognize that community-identified needs that cannot be met in the local area and the individual desires of VISTA volunteers in regard to the service in various geographical areas of the United States should be taken into consideration.
 
 #### (c) Public awareness and recruit activities; dissemination of information; reimbursement of costs; coordination; obligation of funds
 
@@ -72,7 +72,7 @@ The Director, on the receipt of applications by public or nonprofit private orga
 
 &emsp;(D) disseminating such information through presentations made personally by employees of the Corporation or other designees of the Director, to students and faculty at institutions of higher education and to other entities described in subparagraph (C), including presentations made at the facilities, conventions, or other meetings of such entities;
 
-&emsp;(E) publicizing the student loan deferment and forgiveness opportunities available to VISTA volunteers under parts B and E of title IV of the Higher Education Act of 1965 \[20U.S.C. 1071 et seq., 1087aa et seq.\] and including such information in all applications and recruitment materials;
+&emsp;(E) publicizing the student loan deferment and forgiveness opportunities available to VISTA volunteers under parts B and E of title IV of the Higher Education Act of 1965 \[20 U.S.C. 1071 et seq., 1087aa et seq.\] and including such information in all applications and recruitment materials;
 
 &emsp;(F) publicizing national service educational awards available under the National and Community Service Act of 1990 \[42 U.S.C. 12501 et seq.\];
 
@@ -236,7 +236,7 @@ Subsec. (f). Pub. L. 101–204, §101(b)(1), (d)(2)(C), redesignated subsec. (e)
 
 Subsec. (g). Pub. L. 101–204, §101(b)(1), redesignated former subsec. (f) as (g).
 
-<b>1986</b>—Subsec. (b). Pub. L. 99–551 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Director, wherever feasible and appropriate, shall assign low-income community volunteers to serve in their home communities in teams with nationally recruited specialist volunteers. The Director shall make efforts to assign volunteers to serve in their home communities or in nearby communities and shall make national efforts to attract other volunteers to serve in the VISTA program.”
+<b>1986</b>—Subsec. (b). Pub. L. 99–551 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Director, wherever feasible and appropriate,shall assign low-income community volunteers to serve in their home communities in teams with nationally recruited specialist volunteers. The Director shall make efforts to assign volunteers to serve in their home communities or in nearby communities and shall make national efforts to attract other volunteers to serve in the VISTA program.”
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–288, §4(a)(1), inserted “in the local communities in which the volunteers were recruited” and inserted “, including work” in provisions before par. (1).
 
@@ -268,7 +268,7 @@ Amendment by section 101(f) \[title VIII, §405(d)(36)(A)\] of Pub. L. 105–277
 
 #### Effective Date of 1994 Amendment
 
-Section 3(b)(10) of Pub. L. 103–304 provided that:
+Pub. L. 103–304, §3(b)(10), Aug. 23, 1994, 108 Stat. 1568, provided that:
 
 “(A)
 

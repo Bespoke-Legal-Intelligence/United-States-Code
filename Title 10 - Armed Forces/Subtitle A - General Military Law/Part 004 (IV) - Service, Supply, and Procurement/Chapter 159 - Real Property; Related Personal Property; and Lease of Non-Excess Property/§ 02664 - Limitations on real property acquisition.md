@@ -2,7 +2,7 @@
 
 (a)
 
-Authorization for Acquisition Required.—No military department may acquire real property not owned by the United States unless the acquisition is expressly authorized by law. The foregoing limitation shall not apply to the acceptance by a military department of real property acquired under the authority of the Administrator of General Services to acquire property by the exchange of Government property pursuant to subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
+Authorization for Acquisition Required.—No military department may acquirereal property not owned by the United States unless the acquisition is expressly authorized by law. The foregoing limitation shall not apply to the acceptance by a military department of real property acquired under the authority of the Administrator of General Services to acquire property by the exchange of Government property pursuant to subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
 
 (b)
 
@@ -96,7 +96,7 @@ Subsec. (e). Pub. L. 98–407, §802(3), added subsec. (e).
 
 #### Effective Date of 1986 Amendment
 
-Section 1343(a)(17)(B) of Pub. L. 99–661 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in the enactment of section 802(2) of the Military Construction Authorization Act, 1985 (Public Law 98–407; 98 Stat. 1519) \[amending this section\].”
+Pub. L. 99–661, div. A, title XIII, §1343(a)(17)(B), Nov. 14, 1986, 100 Stat. 3993, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in the enactment of section 802(2) of the Military Construction Authorization Act, 1985 (Public Law 98–407; 98 Stat. 1519) \[amending this section\].”
 
 #### Effective Date of 1982 Amendment
 

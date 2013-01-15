@@ -22,7 +22,7 @@
 
 (d) This chapter does not affect an international agreement to which the United States Government is a party that is not in conflict with the Convention or the application of IMO Resolutions A.494 (XII) of November 19, 1981, A.540 (XIII) of November 17, 1983, and A.541 (XIII) of November 17, 1983.
 
-(Pub. L. 99–509, title V, §5101(3), Oct. 21, 1986, 100 Stat. 1920; Pub. L. 101–595, title III, §305, Nov. 16, 1990, 104 Stat. 2985; Pub. L. 111–281, title III, §303(c), Oct. 15, 2010, 124 Stat. 2924.)
+(Pub. L. 99–509, title V, §5101(3), Oct. 21, 1986, 100 Stat. 1920; Pub. L. 101–595, title III, §305, Nov. 16,1990, 104 Stat. 2985; Pub. L. 111–281, title III, §303(c), Oct. 15, 2010, 124 Stat. 2924.)
 
 #### Historical and Revision Notes
 

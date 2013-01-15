@@ -32,7 +32,7 @@ Such regulations shall provide that—
 
 #### (c) Continuation of existing coverage
 
-Notwithstanding any provision of this section to the contrary, any bank or association that onDecember 24, 1980, is offering insurance coverages not authorized by this section may continue to sell such coverages for a period of not more than one year from such date and may continue to service such coverages until their expiration.
+Notwithstanding any provision of this section to the contrary, any bank or association that on December 24, 1980, is offering insurance coverages not authorized by this section may continue to sell such coverages for a period of not more than one year from such date and may continue to service such coverages until their expiration.
 
 (Pub. L. 92–181, title IV, §4.29, as added Pub. L. 96–592, title IV, §404, Dec. 24, 1980, 94 Stat. 3448; amended Pub. L. 100–233, title IV, §422(a), Jan. 6, 1988, 101 Stat. 1655; Pub. L. 100–399, title IV, §411, Aug. 17, 1988, 102 Stat. 1003; Pub. L. 101–624, title XVIII, §1834, Nov. 28, 1990, 104 Stat. 3833.)
 
@@ -56,5 +56,5 @@ Amendment by Pub. L. 100–399 effective immediately after amendment made by sec
 
 #### Continuation of Program
 
-Section 422(b) of Pub. L. 100–233 provided that: “Notwithstanding the amendments made to section 4.29 \[12 U.S.C. 2218\] by subsection (a), any insurance program offered by any bank or association of the Farm Credit System on the date of the enactment of this Act \[Jan. 6, 1988\] that does not meet the requirements of section 4.29, as so amended, may be continued until July 1, 1988.”
+Pub. L. 100–233, title IV, §422(b), Jan. 6, 1988, 101 Stat. 1656, provided that: “Notwithstanding the amendments made to section 4.29 \[12 U.S.C. 2218\] by subsection (a), any insurance program offered by any bank or association of the Farm Credit System on the date of the enactment of this Act \[Jan. 6, 1988\] that does not meetthe requirements of section 4.29, as so amended, may be continued until July 1, 1988.”
 

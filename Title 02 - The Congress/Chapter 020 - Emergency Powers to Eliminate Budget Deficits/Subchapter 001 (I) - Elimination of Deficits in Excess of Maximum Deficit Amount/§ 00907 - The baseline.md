@@ -42,7 +42,7 @@ For the budget year and each outyear, the baseline shall be calculated using the
 
 #### (3) Social insurance administrative expenses
 
-&emsp;Budgetary resources for the administrative expenses of the following trust funds shall beadjusted by the percentage change in the beneficiary population from the current year to that fiscal year: the Federal Hospital Insurance Trust Fund, the Supplementary Medical Insurance Trust Fund, the Unemployment Trust Fund, and the railroad retirement account.
+&emsp;Budgetary resources for the administrative expenses of the following trust funds shall be adjusted by the percentage change in the beneficiary population from the current year to that fiscal year: the Federal Hospital Insurance Trust Fund, the Supplementary Medical Insurance Trust Fund, the Unemployment Trust Fund, and the railroad retirement account.
 
 #### (4) Pay annualization; offset to pay absorption
 
@@ -50,7 +50,7 @@ For the budget year and each outyear, the baseline shall be calculated using the
 
 #### (5) Inflators
 
-&emsp;The inflator used in paragraph (1) to adjust budgetary resources relating to personnel shall be the percent by which the average of the Bureau of Labor Statistics Employment Cost Index (wages and salaries, private industry workers) for that fiscal year differs from such index for the current year. The inflator used in paragraph (1) to adjust all other budgetary resources shall be the percent by which the average of the estimated gross domestic product chain-type price index for that fiscal year differs from the average of such estimated index for the current year.
+&emsp;The inflator used in paragraph (1) to adjust budgetary resources relating to personnelshall be the percent by which the average of the Bureau of Labor Statistics Employment Cost Index (wages and salaries, private industry workers) for that fiscal year differs from such index for the current year. The inflator used in paragraph (1) to adjust all other budgetary resources shall be the percent by which the average of the estimated gross domestic product chain-type price index for that fiscal year differs from the average of such estimated index for the current year.
 
 #### (6) Current-year appropriations
 
@@ -140,7 +140,7 @@ Pars. (13), (14). Pub. L. 100–119, §102(b)(8), added pars. (13) and (14).
 
 #### Definition of Terms Used in Balanced Budget and Emergency Deficit Control Act of 1985
 
-Pub. L. 101–163, title III, §315, Nov. 21, 1989, 103 Stat. 1066, provided that: “Effective in the case of this Act and any subsequent Act making appropriations for the Legislative Branch, for purposes of the Balanced Budget and Emergency Deficit Control Act of 1985 (Public Law 99–177), as amended \[see Short Title note set out under section 900 of this title\], or any other Act which requires a uniform percentage reduction in accounts in this Act and any subsequent Act making appropriations for the Legislative Branch, the accounts under the general heading ‘Senate’, and the accounts under the general heading ‘House of Representatives’, shall each be considered to be one appropriation account and one ‘program, project, and activity’.”
+Pub. L. 101–163, title III, §315, Nov. 21, 1989, 103 Stat. 1066, provided that: “Effective in the case of this Act and any subsequent Act making appropriations for theLegislative Branch, for purposes of the Balanced Budget and Emergency Deficit Control Act of 1985 (Public Law 99–177), as amended \[see Short Title note set out under section 900 of this title\], or any other Act which requires a uniform percentage reduction in accounts in this Act and any subsequent Act making appropriations for the Legislative Branch, the accounts under the general heading ‘Senate’, and the accounts under the general heading ‘House of Representatives’, shall each be considered to be one appropriation account and one ‘program, project, and activity’.”
 
 Pub. L. 100–202, §101(i) \[title III, §306\], Dec. 22, 1987, 101 Stat. 1329–290, 1329–309, provided that: “Hereafter, for purposes of the Balanced Budget and Emergency Deficit Control Act of 1985 (Public Law 99–177), as amended \[see Short Title note set out under section 900 of this title\], the term ‘program, project, and activity’ shall be synonymous with each appropriation account in this Act \[see Tables for classification\], except that the accounts under the general heading ‘House of Representatives’ shall be considered one appropriation account and one ‘program, project, and activity’, and the accounts under the general heading ‘Senate’ shall be considered one appropriation account and one ‘program, project, and activity’.”
 

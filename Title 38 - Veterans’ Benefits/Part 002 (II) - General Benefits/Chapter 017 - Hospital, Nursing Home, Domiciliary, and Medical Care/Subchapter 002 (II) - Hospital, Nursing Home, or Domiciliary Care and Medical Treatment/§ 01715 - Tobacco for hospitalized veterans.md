@@ -44,7 +44,7 @@ Reports.—(1) Not later than 180 days after the date of the enactment of this A
 
 &emsp;“(B) the extent to which the ventilating system of each facility is adequate to ensure that use of the area for smoking does not result in health problems for other patients or residents of the facility; and
 
-&emsp;“(C) the effect of the establishment and maintenance of an area for smoking in each facility on the accreditation score issued for the facility by the Joint Commission on the Accreditation of Health Organizations.
+&emsp;“(C) the effect of the establishment and maintenance of an area for smoking in each facility on the accreditation score issued for the facility by theJoint Commission on the Accreditation of Health Organizations.
 
 “(2) Not later than 120 days after the effective date of this section, the Secretary shall submit to the committees referred to in paragraph (1) a report on the implementation of this section. The report shall include a description of the actions taken at each covered facility to ensure compliance with this section.
 

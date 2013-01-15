@@ -1,6 +1,6 @@
 ### §278. Gorgas Memorial Laboratory; location; acceptance of funds from Latin American countries or other sources
 
-There is hereby authorized to be permanently appropriated for each year, out of any money inthe Treasury not otherwise appropriated, the sum of not to exceed $2,000,000 to be paid to the Gorgas Memorial Institute of Tropical and Preventive Medicine, Incorporated (hereinafter referred to as the Gorgas Memorial Institute), for the maintenance and operation by its, of a laboratory to be known as the Gorgas Memorial Laboratory, upon condition (1) that the necessary building or quarters for said laboratory shall be constructed within the five years next ensuing after this subchapter shall become a law, either upon the site offered by the Republic of Panama therefor, at, or adjacent to, the city of Panama, or upon a site in the Canal Zone to be provided by the United States; and (2) that the said Gorgas Memorial Institute be, and it is, authorized within its discretion, henceforth to accept from any of the Latin American Governments, or from any other sources, any funds which may be offered or given for the use of the Gorgas Memorial Institute for the maintenance and operation of the Gorgas Memorial Laboratory, and for carrying on the work of said Laboratory wherever deemed by the said Institute to be necessary or desirable.
+There is hereby authorized to be permanently appropriated for each year, out of any money in the Treasury not otherwise appropriated, the sum of not to exceed $2,000,000 to be paid to the Gorgas Memorial Institute of Tropical and Preventive Medicine, Incorporated (hereinafter referred to as the Gorgas Memorial Institute), for the maintenance and operation by its, of a laboratory to be known as the Gorgas Memorial Laboratory, upon condition (1) that the necessary building or quarters for said laboratory shall be constructed within the five years next ensuing after this subchapter shall become a law, either upon the site offered by the Republic of Panama therefor, at, or adjacent to, the city of Panama, or upon a site in the Canal Zone to be provided by the United States; and (2) that the said Gorgas Memorial Institute be, and it is, authorized within its discretion, henceforth to accept from any of the Latin American Governments, or from any other sources, any funds which may be offered or given for the use of the Gorgas Memorial Institute for the maintenance and operation of the Gorgas Memorial Laboratory, and for carrying on the work of said Laboratory wherever deemed by the said Institute to be necessary or desirable.
 
 (May 7, 1928, ch. 505, §1, 45 Stat. 491; July 1, 1948, ch. 787, 62 Stat. 1213; Apr. 19, 1954, ch. 160, 68 Stat. 57; Pub. L. 86–296, §1, Sept. 21, 1959, 73 Stat. 572; Pub. L. 89–181, Sept. 11, 1965, 79 Stat. 679; Pub. L. 93–559, §47, Dec. 30, 1974, 88 Stat. 1816.)
 
@@ -26,11 +26,11 @@ Pub. L. 89–181 provided that the amendment made by Pub. L. 89–181 is effecti
 
 #### Effective Date of 1959 Amendment
 
-Section 1 of Pub. L. 86–296 provided that the amendment made by that section is effective for fiscal years ending after June 30, 1960.
+Pub. L. 86–296, §1, Sept. 21, 1959, 73 Stat. 572, provided that the amendment made by that section is effective for fiscal years ending after June 30, 1960.
 
 #### Additional Appropriation for the Fiscal Year Ending June 30, 1970
 
-Section 505 of Pub. L. 90–574, title V, Oct. 15, 1968, 82 Stat. 1013, provided that the annual appropriation for the maintenance and operation of the Gorgas Memorial Laboratory for the fiscal year ending June 30, 1970 would be increased by $500,000.
+Pub. L. 90–574, title V, §505, Oct. 15, 1968, 82 Stat. 1013, provided that the annual appropriation for the maintenance and operation of the Gorgas Memorial Laboratory for the fiscal year ending June 30, 1970 would be increased by $500,000.
 
 #### Annual Appropriations
 
@@ -88,5 +88,5 @@ Jan. 25, 1929, ch. 102, title I, 45 Stat. 1094.
 
 #### Appropriation for Construction of Facilities
 
-Section 4 of act May 7, 1928, as added by section 2 of Pub. L. 86–296, and amended Pub. L. 86–617, July 12, 1960, 74 Stat. 396, provided that a sum not to exceed $500,000 be appropriated for construction and equipment of facilities for Gorgas Memorial Laboratory, including preparation of plans and specifications, remodeling of buildings, and site improvement, but excluding the cost of acquisition of land.
+Act May 7, 1928, ch. 505, §4, as added by Pub. L. 86–296, §2, Sept. 21, 1959, 73 Stat. 573, and amended Pub. L. 86–617, July 12, 1960, 74 Stat. 396, provided that a sum not to exceed $500,000 be appropriated for construction and equipment of facilities for Gorgas Memorial Laboratory, including preparation of plans and specifications, remodeling of buildings, and site improvement, but excluding the cost of acquisition of land.
 

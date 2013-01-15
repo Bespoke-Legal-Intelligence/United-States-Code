@@ -30,7 +30,7 @@ Historical and Revision Notes
 
 46:399
 
-Section 3309 provides for the issuance of a certificate of inspection that attests to the fact that the vessel hasbeen found to be in compliance with the applicable maritime safety laws and regulations. Under this provision the Coast Guard can issue a temporary certificate of inspection upon compliance with the applicable laws or regulations to facilitate the preparation, processing, and forwarding of the regular certificate of inspection to the vessel. A temporary certificate does not imply less than satisfactory compliance.
+Section 3309 provides for the issuance of a certificate of inspection that attests to the fact that the vessel has been found to be in compliance with the applicable maritime safety laws and regulations. Under this provision the Coast Guard can issue a temporary certificate of inspection upon compliance with the applicable laws or regulations to facilitate the preparation, processing, and forwarding of the regular certificate of inspection to the vessel. A temporary certificate does not imply less than satisfactory compliance.
 
 #### Amendments
 

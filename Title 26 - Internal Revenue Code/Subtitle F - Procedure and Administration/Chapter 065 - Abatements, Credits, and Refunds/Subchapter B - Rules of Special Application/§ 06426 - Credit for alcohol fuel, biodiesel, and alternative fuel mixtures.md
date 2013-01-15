@@ -100,7 +100,7 @@ There shall be allowed as a credit—
 
 #### (6) Termination
 
-&emsp;This subsection shall not apply to any sale, use, or removal for any period after December 31, 2011.
+&emsp;This subsection shall not apply to any sale, use, or removal for any period after December 31, 2013.
 
 #### (d) Alternative fuel credit
 
@@ -148,7 +148,7 @@ There shall be allowed as a credit—
 
 #### (5) Termination
 
-&emsp;This subsection shall not apply to any sale or use for any period after December 31, 2011 (September 30, 2014, in the case of any sale or use involving liquefied hydrogen).
+&emsp;This subsection shall not apply to any sale or use for any period after December 31, 2013 (September 30, 2014, in the case of any sale or use involving liquefied hydrogen).
 
 #### (e) Alternative fuel mixture credit
 
@@ -166,7 +166,7 @@ There shall be allowed as a credit—
 
 #### (3) Termination
 
-&emsp;This subsection shall not apply to any sale or use for any period after December 31, 2011 (September 30, 2014, in the case of any sale or use involving liquefied hydrogen).
+&emsp;This subsection shall not apply to any sale or use for any period after December 31, 2013 (September 30, 2014, in the case of any sale or use involving liquefied hydrogen).
 
 #### (f) Mixture not used as a fuel, etc.
 
@@ -208,7 +208,7 @@ No credit shall be determined under subsection (d) or (e) with respect to any fu
 
 > For purposes of this subsection, the term “United States” includes any possession of the United States.
 
-(Added Pub. L. 108–357, title III, §301(a), Oct. 22, 2004, 118 Stat. 1459; amended Pub. L. 109–58, title XIII, §1344(a), Aug. 8, 2005, 119 Stat. 1052; Pub. L. 109–59, title XI, §§11113(b)(1)–(3)(A), 11151(e)(2), Aug. 10, 2005, 119 Stat. 1947, 1948, 1969; Pub. L. 110–172, §5(a)(2), (3), Dec. 29, 2007, 121 Stat. 2479; Pub. L. 110–234, title XV, §§15331(b), 15332(b), May 22, 2008, 122 Stat. 1516; Pub. L. 110–246, §4(a), titleXV, §§15331(b), 15332(b), June 18, 2008, 122 Stat. 1664, 2278; Pub. L. 110–343, div. B, title II, §§202(a), (b)(2), 203(c)(1), 204(a)(1), (2), (b), (c), Oct. 3, 2008, 122 Stat. 3832, 3834; Pub. L. 111–312, title VII, §§701(b)(1), 704(a), (b), 708(b)(1), Dec. 17, 2010, 124 Stat. 3310–3312.)
+(Added Pub. L. 108–357, title III, §301(a), Oct. 22, 2004, 118 Stat. 1459; amended Pub. L. 109–58, title XIII, §1344(a), Aug. 8, 2005, 119 Stat. 1052; Pub. L. 109–59, title XI, §§11113(b)(1)–(3)(A), 11151(e)(2), Aug. 10, 2005, 119 Stat. 1947, 1948, 1969; Pub. L. 110–172, §5(a)(2), (3), Dec. 29, 2007, 121 Stat. 2479; Pub. L. 110–234, title XV, §§15331(b), 15332(b), May 22, 2008, 122 Stat. 1516; Pub. L. 110–246, §4(a), title XV, §§15331(b), 15332(b), June 18, 2008, 122 Stat. 1664, 2278; Pub. L. 110–343, div. B, title II, §§202(a), (b)(2), 203(c)(1), 204(a)(1), (2), (b), (c), Oct. 3, 2008, 122 Stat. 3832, 3834; Pub. L. 111–312, title VII, §§701(b)(1), 704(a), (b), 708(b)(1), Dec. 17, 2010, 124 Stat. 3310–3312; Pub. L. 112–240, title IV, §§405(b)(1), 412(a), Jan. 2, 2013, 126 Stat. 2340, 2343.)
 
 #### Codification
 
@@ -219,6 +219,10 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 A prior section 6426, added Pub. L. 91–258, title II, §206(c), May 21, 1970, 84 Stat. 245; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834, provided for a refund of aircraft use tax where plane transports for hire in foreign air commerce, prior to repeal by Pub. L. 97–248, title II, §280(c)(2)(G), (d), Sept. 3, 1982, 96 Stat. 564, 565, applicable with respect to transportation beginning after Aug. 31, 1982.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (c)(6). Pub. L. 112–240, §405(b)(1), substituted “December 31, 2013” for “December 31, 2011”.
+
+Subsecs. (d)(5), (e)(3). Pub. L. 112–240, §412(a), substituted “December 31, 2013” for “December 31, 2011”.
 
 <b>2010</b>—Subsec. (b)(6). Pub. L. 111–312, §708(b)(1), substituted “December 31, 2011” for “December 31, 2010”.
 
@@ -286,6 +290,12 @@ Subsec. (d)(2)(F). Pub. L. 109–59, §11151(e)(2), substituted “section 45K(c
 
 Subsecs. (e) to (g). Pub. L. 109–59, §11113(b)(2), added subsec. (e) and redesignated former subsecs. (d) and (e) as (f) and (g), respectively.
 
+#### Effective Date of 2013 Amendment
+
+Amendment by section 405(b)(1) of Pub. L. 112–240 applicable to fuel sold or used after Dec. 31, 2011, see section 405(c) of Pub. L. 112–240, set out as a note under section 40A of this title.
+
+Pub. L. 112–240, title IV, §412(c), Jan. 2, 2013, 126 Stat. 2343, provided that: “The amendments made by this section \[amending this section and section 6427 of this title\] shall apply to fuel sold or used after December 31, 2011.”
+
 #### Effective Date of 2010 Amendment
 
 Amendment by section 701(b)(1) of Pub. L. 111–312 applicable to fuel sold or used after Dec. 31, 2009, see section 701(d) of Pub. L. 111–312, set out as a note under section 40A of this title.
@@ -316,7 +326,7 @@ Pub. L. 110–172, §5(b), Dec. 29, 2007, 121 Stat. 2479, provided that: “The 
 
 Amendment by section 11113(b)(1)–(3)(A) of Pub. L. 109–59 applicable to any sale or use for any period after Sept. 30, 2006, see section 11113(d) of Pub. L. 109–59, set out as a note under section 4041 of this title.
 
-Amendment by section 11151(e)(2) of Pub. L. 109–59 effective as if included in the provision of the Energy Tax Incentives Act of 2005, Pub. L. 109–58, title XIII, to which such amendment relates, see section 11151(f)(3) ofPub. L. 109–59, set out as a note under section 38 of this title.
+Amendment by section 11151(e)(2) of Pub. L. 109–59 effective as if included in the provision of the Energy Tax Incentives Act of 2005, Pub. L. 109–58, title XIII, to which such amendment relates, see section 11151(f)(3) of Pub. L. 109–59, set out as a note under section 38 of this title.
 
 #### Effective Date
 

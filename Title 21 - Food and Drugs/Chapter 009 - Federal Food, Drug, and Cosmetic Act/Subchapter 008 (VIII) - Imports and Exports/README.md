@@ -13,3 +13,4 @@
 - [&sect; 00384b - Voluntary qualified importer program](%C2%A7%2000384b%20-%20Voluntary%20qualified%20importer%20program.md)
 - [&sect; 00384c - Inspection of foreign food facilities](%C2%A7%2000384c%20-%20Inspection%20of%20foreign%20food%20facilities.md)
 - [&sect; 00384d - Accreditation of third-party auditors](%C2%A7%2000384d%20-%20Accreditation%20of%20third-party%20auditors.md)
+- [&sect; 00384e - Recognition of foreign government inspections](%C2%A7%2000384e%20-%20Recognition%20of%20foreign%20government%20inspections.md)

@@ -74,7 +74,7 @@ Every such organization shall register by filing with the Attorney General, on s
 
 (k) A description of all firearms or other weapons owned by the organization, or by any chapter, branch, or affiliate of the organization, identified by the manufacturer's number thereon;
 
-(<i>l</i>) In case the organization is subject to foreign control, the manner in which it is so subject;
+(l) In case the organization is subject to foreign control, the manner in which it is so subject;
 
 (m) A copy of the charter, articles of association, constitution, bylaws, rules, regulations, agreements, resolutions, and all other instruments relating to the organization, powers, and purposes of the organization and to the powers of the officers of the organization and of each chapter, branch, and affiliate of the organization; and
 

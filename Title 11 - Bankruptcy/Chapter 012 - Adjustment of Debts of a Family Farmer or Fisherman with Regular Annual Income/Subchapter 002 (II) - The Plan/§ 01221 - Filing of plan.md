@@ -14,11 +14,11 @@ For repeal of section effective Oct. 1, 1998, and subsequent reenactment of sect
 
 #### Effective Date of 1993 Amendment
 
-Section 3 of Pub. L. 103–65 provided that:
+Pub. L. 103–65, §3, Aug. 6, 1993, 107 Stat. 311, provided that:
 
 “(a)
 
-Effective Date.—Except as provided in subsection (b), this Act \[amending this section and provisions set out as a note under section 581 of Title 28, Judiciary and Judicial Procedure\] and the amendments made by this Act shall take effect on the date of the enactment of this Act \[Aug. 6, 1993\].
+Effective Date.—Except as provided in subsection (b), this Act \[amending this section and provisions set out as a note under section 581 of Title 28, Judiciary and Judicial Procedure\] and the amendmentsmade by this Act shall take effect on the date of the enactment of this Act \[Aug. 6, 1993\].
 
 “(b)
 

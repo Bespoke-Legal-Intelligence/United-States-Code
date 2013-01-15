@@ -8,7 +8,7 @@ Jurisdiction.—There is jurisdiction, including extraterritorial jurisdiction, 
 
 &emsp;(2) outside United States and—
 
-&emsp;&emsp;(A) an offender or a victim is a national of the United States (as that term is definedunder section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22)); <sup>1</sup>
+&emsp;&emsp;(A) an offender or a victim is a national of the United States (as that term is defined under section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22)); <sup>1</sup>
 
 &emsp;&emsp;(B) the activity involves a vessel in which a national of the United States was on board; or
 

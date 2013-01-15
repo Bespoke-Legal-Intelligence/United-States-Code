@@ -46,7 +46,7 @@ The period during which a loan guarantee under this section is in effect shall b
 
 &emsp;&emsp;&emsp;(i) 3 amortized annual installments; or
 
-&emsp;&emsp;&emsp;(ii) an amount equal to 3 annual installments (including an amount equal to thetotal cost of any tax and insurance incurred during the period covered by the annual installments); or
+&emsp;&emsp;&emsp;(ii) an amount equal to 3 annual installments (including an amount equal to the total cost of any tax and insurance incurred during the period covered by the annual installments); or
 
 &emsp;&emsp;(B) a standard guarantee plan, which shall cover an amount equal to 90 percent of the outstanding principal of the loan.
 

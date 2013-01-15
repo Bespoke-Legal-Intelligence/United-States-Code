@@ -102,7 +102,7 @@ Research carried out under subsection (a) of this section through contracts, gra
 
 #### (7) Disaggregation
 
-&emsp;To the extent feasible, research conducted under this subsection shall be disaggregated by age, race, gender, and socioeconomic background.
+&emsp;To the extent feasible, research conducted under this subsection shall be disaggregatedby age, race, gender, and socioeconomic background.
 
 (Pub. L. 107–279, title I, §133, Nov. 5, 2002, 116 Stat. 1954.)
 

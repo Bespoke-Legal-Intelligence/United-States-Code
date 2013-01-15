@@ -14,7 +14,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 &emsp;(5) use debt reduction techniques that would not compensate commercial banks for the reduction in the value of such debt, but would serve as a catalyst for new lending;
 
-&emsp;(6) involve such bank in lending for purposes of debt reduction and conversion only where such involvement would not lower the credit rating of such bank;
+&emsp;(6) involve such bank in lending for purposes of debt reduction and conversion only where such involvement would not lower the credit-worthiness of such bank;
 
 &emsp;(7) not require public sector funding beyond that provided through any capital increase for such bank, and any replenishment for the International Development Association, which is agreed to by the member countries of such institutions; and
 
@@ -32,7 +32,7 @@ In connection with the discussions initiated pursuant to subsection (b) of this 
 
 Not later than March 1, 1989, March 1, 1991, and March 1, 1993, respectively, the Secretary of the Treasury shall submit to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate 3 reports each of which—
 
-&emsp;(1) describes the long term strategy and lending programs of the International Bank for Reconstruction and Development for reducing and managing the debt burden of the countries designated as “Highly Indebted Countries” in the 1987–1988 World Debt Tables published by such bank, and summarize thelong term strategy and lending programs of such bank for other seriously indebted countries;
+&emsp;(1) describes the long term strategy and lending programs of the International Bank for Reconstruction and Development for reducing and managing the debt burden of the countries designated as “Highly Indebted Countries” in the 1987–1988 World Debt Tables published by such bank, and summarize the long term strategy and lending programs of such bank for other seriously indebted countries;
 
 &emsp;(2) contains an explanation of the measures taken by such bank to facilitate the reduction of the debt burden of the countries designated as “Highly Indebted Countries” in the 1987–1988 World Debt tables <sup>1</sup> published by such bank;
 
@@ -46,15 +46,15 @@ On receipt of each report required to be submitted pursuant to subsection (d) of
 
 (Pub. L. 100–461, title V, §555, Oct. 1, 1988, 102 Stat. 2268–36; Pub. L. 111–203, title IX, §939(f), July 21, 2010, 124 Stat. 1886.)
 
-#### Amendment of Subsection (a)(6)
-
-<i>Pub. L. 111–203, title IX, §939(f), (g), July 21, 2010, 124 Stat. 1886, 1887, provided that, effective 2 years after July 21, 2010, subsection (a)(6) of this section is amended by striking “credit rating” and inserting “credit-worthiness”.</i>
-
 #### Codification
 
 Section is based on section 3 of H.R. 4645, One Hundredth Congress, as reported Sept. 28, 1988, and enacted into law by Pub. L. 100–461.
 
 Section was not enacted as part of act July 31, 1945, ch. 339, 59 Stat. 512, known as the Bretton Woods Agreements Act, which comprises this subchapter.
+
+#### Amendments
+
+<b>2010</b>—Subsec. (a)(6). Pub. L. 111–203 substituted “credit-worthiness” for “credit rating”.
 
 #### Change of Name
 

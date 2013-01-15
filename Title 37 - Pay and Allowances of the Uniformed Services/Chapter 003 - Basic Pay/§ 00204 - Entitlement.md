@@ -150,7 +150,7 @@ Dec. 20, 1886, ch. 2, 24 Stat. 351; June 2, 1950, ch. 217, §2, 64 Stat. 195.
 
 In subsection (a), the last 27 words are substituted for the words “or performance of the duties provided for by sections 5, 81, 94, 97 and 99 of the National Defense Act, as amended,” to reflect the current citations. So much of the introductory clause as follows the exception is substituted for the 36 words preceding 1st proviso of 1st sentence of section 232(d) of existing title 37. The words “on the active list” are omitted as covered by the words “active duty” as defined in section 101(18) of this revised title. The words “(provided for or authorized in the National Defense Act, as amended, or in the Naval Reserve Act of 1938, as amended)” are omitted as covered by the words “provided by law”.
 
-In subsection (b), the words “For the purposes of subsection (a)” are inserted for clarity. The words “active duty for a period of more than 30 days” are substituted for the words “extended active duty in excess of thirty days”. The words “call or” are inserted to conform to the words “called or”.
+In subsection (b), the words “For the purposes of subsection (a)” are inserted for clarity. The words “activeduty for a period of more than 30 days” are substituted for the words “extended active duty in excess of thirty days”. The words “call or” are inserted to conform to the words “called or”.
 
 In subsection (c), the words “and allowances” are omitted, since, under chapter 7 of this revised title, entitlement to allowances depends upon entitlement to basic pay. The last sentence is substituted for the last 38 words of the 2d proviso of the 1st sentence of section 232(d) of existing title 37.
 
@@ -158,7 +158,7 @@ In subsection (d), the words “for the purposes of this section” are substitu
 
 In subsection (e), the words “or active duty for training” are omitted as covered by the words “active duty” as defined in section 101(18) of this revised title.
 
-In subsection (f), the words “is appointed” are substituted for the words “has been or may be commissioned”. The words “under the laws appointing such graduates to the Army” and the last 16 words of section 308a of existing title 37 are omitted as surplusage. The words “to the date of his acceptance of and qualification under his commission” are omitted, since the member concerned would continue to be entitled to basic pay after that acceptance and qualification. Thewords “or the United States Naval Academy” are inserted to reflect section 541 of title 10, under which graduates of that Academy may be appointed in the Army or the Air Force.
+In subsection (f), the words “is appointed” are substituted for the words “has been or may be commissioned”. The words “under the laws appointing such graduates to the Army” and the last 16 words of section 308a of existing title 37 are omitted as surplusage. The words “to the date of his acceptance of and qualification under his commission” are omitted, since the member concerned would continue to be entitled to basic pay after that acceptance and qualification. The words “or the United States Naval Academy” are inserted to reflect section 541 of title 10, under which graduates of that Academy may be appointed in the Army or the Air Force.
 
 In subsection (i), the inclusion of the Coast Guard Reserve is based on the authority contained in section 755(c) of title 14.
 
@@ -226,11 +226,11 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 #### Effective Date of 1988 Amendment
 
-Section 631(d) of Pub. L. 100–456 provided that: “The amendments made by this section \[amending this section and section 206 of this title\] shall apply with respect to persons who, after the date of enactment of this Act \[Sept. 29, 1988\], incur or aggravate an injury, illness, or disease, or who die as the result of incurring or aggravating an injury, illness, or disease.”
+Pub. L. 100–456, div. A, title VI, §631(d), Sept. 29, 1988, 102 Stat. 1985, provided that: “The amendments made by this section \[amending this section and section 206 of this title\] shall apply with respect to persons who, after the date of enactment of this Act \[Sept. 29, 1988\], incur or aggravate an injury, illness, or disease, or who die as the result of incurring or aggravating an injury, illness, or disease.”
 
 #### Effective Date of 1983 Amendment
 
-Amendment by Pub. L. 98–94 applicable only in cases of injuries incurred or aggravated on or after Sept. 24, 1983, see section 1012(c) of Pub. L. 98–94, set out as an Effective Date note under section 1074a of Title 10, Armed Forces.
+Amendment by Pub. L. 98–94 applicable only in cases of injuries incurred or aggravated on or after Sept. 24,1983, see section 1012(c) of Pub. L. 98–94, set out as an Effective Date note under section 1074a of Title 10, Armed Forces.
 
 #### Effective Date of 1980 Amendment
 

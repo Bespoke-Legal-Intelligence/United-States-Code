@@ -66,7 +66,7 @@ Subject to valid existing rights, there is established in the State the Beaver D
 
 #### (A) In general
 
-&emsp;&emsp;Except in cases in which motorized vehicles are needed for administrative purposes, or to respond to an emergency, the use of motorized vehicles in the National Conservation Area shall be permitted only on roads designated by the management plan for the use of motorized vehicles.
+&emsp;&emsp;Except in cases in which motorized vehicles are needed for administrative purposes,or to respond to an emergency, the use of motorized vehicles in the National Conservation Area shall be permitted only on roads designated by the management plan for the use of motorized vehicles.
 
 #### (B) Additional requirement relating to certain areas located in the National Conservation Area
 

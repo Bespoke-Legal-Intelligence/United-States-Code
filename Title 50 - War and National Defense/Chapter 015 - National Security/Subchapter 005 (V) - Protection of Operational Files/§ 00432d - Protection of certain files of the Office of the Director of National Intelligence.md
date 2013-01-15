@@ -56,7 +56,7 @@ The provisions of this section may not be superseded except by a provision of la
 
 #### (f) Allegation; improper withholding of records; judicial review
 
-(1) Except as provided in paragraph (2), whenever any person who has requested agency records under section 552 of title 5 alleges that the Office has withheld records improperly because of failure to comply with any provision ofthis section, judicial review shall be available under the terms set forth in section 552(a)(4)(B) of title 5.
+(1) Except as provided in paragraph (2), whenever any person who has requested agency records under section 552 of title 5 alleges that the Office has withheld records improperly because of failure to comply with any provision of this section, judicial review shall be available under the terms set forth in section 552(a)(4)(B) of title 5.
 
 (2) Judicial review shall not be available in the manner provided for under paragraph (1) as follows:
 

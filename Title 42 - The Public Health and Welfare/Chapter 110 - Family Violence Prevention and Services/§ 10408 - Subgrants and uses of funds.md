@@ -14,7 +14,7 @@ A State that receives a grant under section 10406(a) of this title shall use gra
 
 &emsp;&emsp;(B) assistance in developing safety plans, and supporting efforts of victims of family violence, domestic violence, or dating violence to make decisions related to their ongoing safety and well-being;
 
-&emsp;&emsp;(C) provision of individual and group counseling, peer support groups, and referral tocommunity-based services to assist family violence, domestic violence, and dating violence victims, and their dependents, in recovering from the effects of the violence;
+&emsp;&emsp;(C) provision of individual and group counseling, peer support groups, and referral to community-based services to assist family violence, domestic violence, and dating violence victims, and their dependents, in recovering from the effects of the violence;
 
 &emsp;&emsp;(D) provision of services, training, technical assistance, and outreach to increase awareness of family violence, domestic violence, and dating violence and increase the accessibility of family violence, domestic violence, and dating violence services;
 

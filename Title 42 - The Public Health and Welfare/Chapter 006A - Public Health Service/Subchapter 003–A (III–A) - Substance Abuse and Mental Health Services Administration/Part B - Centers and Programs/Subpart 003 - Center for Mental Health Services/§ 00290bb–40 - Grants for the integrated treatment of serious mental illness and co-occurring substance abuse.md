@@ -40,7 +40,7 @@ The Secretary shall ensure that a State, political subdivision of a State, India
 
 #### (e) Distribution of awards
 
-The Secretary shall ensure that grants, contracts, or cooperative agreements awarded under subsection (a) of this section are equitably distributed among the geographical regions of the United States and between urban and rural populations.
+The Secretary shall ensure that grants, contracts, or cooperative agreements awardedunder subsection (a) of this section are equitably distributed among the geographical regions of the United States and between urban and rural populations.
 
 #### (f) Duration
 

@@ -6,7 +6,7 @@ As used in this chapter, the term “building” means any building or facility 
 
 &emsp;(2) to be leased in whole or in part by the United States after August 12, 1968;
 
-&emsp;(3) to be financed in whole or in part by a grant or a loan made by the United States after August 12, 1968, if such building or facility is subject to standards for design, construction, or alteration issued under authority of the law authorizing such grant or loan; or
+&emsp;(3) to be financed in whole or in part by a grant or a loan made by the United Statesafter August 12, 1968, if such building or facility is subject to standards for design, construction, or alteration issued under authority of the law authorizing such grant or loan; or
 
 &emsp;(4) to be constructed under authority of the National Capital Transportation Act of 1960, the National Capital Transportation Act of 1965, or title III of the Washington Metropolitan Area Transit Regulation Compact.
 
@@ -20,7 +20,7 @@ The National Capital Transportation Act of 1965, referred to in par. (4), is Pub
 
 #### Amendments
 
-<b>1976</b>—Pub. L. 94–541 inserted in parenthetical text “not leased by the Government for subsidized housingprograms” after “structure” and struck out from par. (2) “, after construction or alteration in accordance with plans and specifications of the United States” after “August 12, 1968”.
+<b>1976</b>—Pub. L. 94–541 inserted in parenthetical text “not leased by the Government for subsidized housing programs” after “structure” and struck out from par. (2) “, after construction or alteration in accordance with plans and specifications of the United States” after “August 12, 1968”.
 
 <b>1970</b>—Par. (4). Pub. L. 91–205 added par. (4).
 
@@ -30,5 +30,5 @@ Pub. L. 90–480, Aug. 12, 1968, 82 Stat. 718, which enacted this chapter, is po
 
 #### Applicability of 1976 Amendment to Leases Entered Into Before, On, or After January 1, 1977
 
-Section 202 of Pub. L. 94–541 provided that: “The amendment made by paragraph (1) of section 201 of this Act \[amending this section\] shall not apply to any lease entered into before January 1, 1977. It shall apply to every lease entered into on or after January 1, 1977, including any renewal of a lease entered into before such date which renewal is on or after such date.”
+Pub. L. 94–541, title II, §202, Oct. 18, 1976, 90 Stat. 2508, provided that: “The amendment made by paragraph (1) of section 201 of this Act \[amending this section\] shall not apply to any lease entered into before January 1, 1977. It shall apply to every lease entered into on or after January 1, 1977, including any renewal of a lease entered into before such date which renewal is on or after such date.”
 

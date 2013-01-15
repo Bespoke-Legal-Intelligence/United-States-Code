@@ -16,7 +16,7 @@ The Director shall have the following duties:
 
 &emsp;&emsp;(C) Exchange of expertise on terrorism prevention, response, and crisis management.
 
-&emsp;(2) To identify areas for homeland security information and training exchange where the United States has a demonstrated weaknessand another friendly nation or nations have a demonstrated expertise.
+&emsp;(2) To identify areas for homeland security information and training exchange where the United States has a demonstrated weakness and another friendly nation or nations have a demonstrated expertise.
 
 &emsp;(3) To plan and undertake international conferences, exchange programs, and training activities.
 

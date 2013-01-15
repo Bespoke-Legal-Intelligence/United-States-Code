@@ -14,7 +14,7 @@ Assessment Process.—The Secretary of Defense shall ensure that technology and 
 
 &emsp;(3) identify technological and industrial capabilities and processes for which there is potential for the national industrial and technology base not to be able to support the achievement of national security objectives; and
 
-&emsp;(4) consider the effects of the termination of major defense acquisition programs (as the term is defined in section 2430 of this title) or major automated information system programs (as defined in section 2445a of this title) in the previous fiscal year on the sectors and capabilities in the assessment.
+&emsp;(4) consider the effects of the termination of major defense acquisition programs (as theterm is defined in section 2430 of this title) or major automated information system programs (as defined in section 2445a of this title) in the previous fiscal year on the sectors and capabilities in the assessment.
 
 (c)
 
@@ -26,15 +26,27 @@ Assessment of Extent of Dependency on Foreign Source Items.—Each assessment un
 
 (d)
 
+Assessment of Extent of Effects of Foreign Boycotts.—Each assessment under subsection (a) shall include an examination of the extent to which the national technology and industrial base is affected by foreign boycotts. If it is determined that a foreign boycott (other than a boycott addressed in a previous assessment) is subjecting the national technology and industrial base to significant harm, the assessment shall include a separate discussion and presentation regarding that foreign boycott that shall, at a minimum—
+
+&emsp;(1) identify the sectors that are subject to such harm;
+
+&emsp;(2) describe the harm resulting from such boycott; and
+
+&emsp;(3) identify actions necessary to minimize the effects of such boycott on the national technology and industrial base.
+
+(e)
+
 Integrated Process.—The Secretary of Defense shall ensure that consideration of the technology and industrial base assessments is integrated into the overall budget, acquisition, and logistics support decision processes of the Department of Defense.
 
-(Added Pub. L. 102–484, div. D, title XLII, §4215, Oct. 23, 1992, 106 Stat. 2667; amended Pub. L. 103–35, title II, §201(g)(7), May 31, 1993, 107 Stat. 100; Pub. L. 104–201, div. A, title VIII, §829(c)(1), Sept. 23, 1996, 110 Stat. 2612; Pub. L. 111–23, title III, §303(b), May 22, 2009, 123 Stat. 1731; Pub. L. 111–383, div. A, title VIII, §895(c), Jan. 7, 2011, 124 Stat. 4314.)
+(Added Pub. L. 102–484, div. D, title XLII, §4215, Oct. 23, 1992, 106 Stat. 2667; amended Pub. L. 103–35, title II, §201(g)(7), May 31, 1993, 107 Stat. 100; Pub. L. 104–201, div. A, title VIII, §829(c)(1), Sept. 23, 1996, 110 Stat. 2612; Pub. L. 111–23, title III, §303(b), May 22, 2009, 123 Stat. 1731; Pub. L. 111–383, div. A, title VIII, §895(c), Jan. 7, 2011, 124 Stat. 4314; Pub. L. 112–239, div. A, title XVI, §1602, Jan. 2, 2013, 126 Stat. 2062.)
 
 #### Prior Provisions
 
 A prior section 2505 was renumbered section 2532 of this title.
 
 #### Amendments
+
+<b>2013</b>—Subsecs. (d), (e). Pub. L. 112–239 added subsec. (d) and redesignated former subsec. (d) as (e).
 
 <b>2011</b>—Subsec. (b)(4). Pub. L. 111–383 inserted “or major automated information system programs (as defined in section 2445a of this title)” after “section 2430 of this title)”.
 
@@ -50,5 +62,5 @@ Pub. L. 108–136, div. A, title VIII, §824, Nov. 24, 2003, 117 Stat. 1547, req
 
 #### Implementing Regulations Concerning National Technology and Industrial Base Periodic Assessment
 
-Section 4219 of Pub. L. 102–484, as amended by Pub. L. 103–35, title II, §202(a)(14), May 31, 1993, 107 Stat. 101, set forth requirements for the initial regulations prescribed to implement this section, prior to repeal by Pub. L. 104–201, div. A, title VIII, §829(h), Sept. 23, 1996, 110 Stat. 2614.
+Pub. L. 102–484, div. D, title XLII, §4219, Oct. 23, 1992, 106 Stat. 2671, as amended by Pub. L. 103–35, title II, §202(a)(14), May 31, 1993, 107 Stat. 101, set forth requirements for the initial regulations prescribed to implement this section, prior to repeal by Pub. L. 104–201, div. A, title VIII, §829(h), Sept. 23, 1996, 110 Stat. 2614.
 

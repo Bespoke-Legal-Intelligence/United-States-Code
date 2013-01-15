@@ -22,7 +22,7 @@
 
 #### (3) Effect of failure to timely notify
 
-&emsp;Except as provided in paragraph (2), the failure to timely provide the notice required under this subsection shall relieve the approved insurance provider from the debt owed the Corporation.
+&emsp;Except as provided in paragraph (2), the failure to timely provide the notice requiredunder this subsection shall relieve the approved insurance provider from the debt owed the Corporation.
 
 #### (c) Reconciling producer information
 
@@ -86,7 +86,7 @@ The Secretary shall establish procedures under which the Corporation shall consu
 
 &emsp;The Secretary shall establish procedures under which the Corporation will be able to identify the following:
 
-&emsp;&emsp;(A) Any agent engaged in the sale of coverage offered under this subchapter where the loss claims associated with such sales by the agent are equal to or greater than 150 percent (or an appropriate percentage specified by the Corporation) of the mean for all loss claims associated with such sales by all other agents operating in the same area, as determined by the Corporation.
+&emsp;&emsp;(A) Any agent engaged in the sale of coverage offered under this subchapter wherethe loss claims associated with such sales by the agent are equal to or greater than 150 percent (or an appropriate percentage specified by the Corporation) of the mean for all loss claims associated with such sales by all other agents operating in the same area, as determined by the Corporation.
 
 &emsp;&emsp;(B) Any person performing loss adjustment services relative to coverage offered under this subchapter where such loss adjustments performed by the person result in accepted or denied claims equal to or greater than 150 percent (or an appropriate percentage specified by the Corporation) of the mean for accepted or denied claims (as applicable) for all other persons performing loss adjustment services in the same area, as determined by the Corporation.
 
@@ -262,7 +262,7 @@ Subsec. (k)(1). Pub. L. 110–398 substituted “2010, and not more than $9,000,
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 #### Effective Date
 

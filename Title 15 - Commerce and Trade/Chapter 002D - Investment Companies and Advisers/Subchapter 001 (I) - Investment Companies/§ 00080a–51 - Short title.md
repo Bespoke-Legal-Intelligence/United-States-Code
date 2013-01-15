@@ -10,7 +10,7 @@ Pub. L. 104–290, title II, §201, Oct. 11, 1996, 110 Stat. 3426, provided that
 
 #### Short Title of 1995 Amendment
 
-Pub. L. 104–62, §1(a), Dec. 8, 1995, 109 Stat. 682, provided that: “This Act \[enacting section 80a–3a of this title, amending sections 77c, 78c, 78<i>l</i>, 80a–3, 80a–7, and 80b–3 of this title, and enacting provisions set out as a note under section 77c of this title\] may be cited as the ‘Philanthropy Protection Act of 1995’.”
+Pub. L. 104–62, §1(a), Dec. 8, 1995, 109 Stat. 682, provided that: “This Act \[enacting section 80a–3a of this title, amending sections 77c, 78c, 78l, 80a–3, 80a–7, and 80b–3 of this title, and enacting provisions set out as a note under section 77c of this title\] may be cited as the ‘Philanthropy Protection Act of 1995’.”
 
 #### Short Title of 1980 Amendment
 
@@ -18,5 +18,5 @@ Pub. L. 96–477, §1, Oct. 21, 1980, 94 Stat. 2275, provided that: “That this
 
 #### Short Title of 1970 Amendment
 
-Pub. L. 91–547, §1, Dec. 14, 1970, 84 Stat. 1413, provided: “That this Act \[enacting section 80b–6a of this title, amending sections 77b, 77c, 78c, 78<i>l</i>, 80a–2, 80a–3, 80a–8 to 80a–13, 80a–15, 80a–17 to 80a–19, 80a–22, 80a–24 to 80a–28, 80a–31, 80a–32, 80a–35, 80a–42, 80a–43, 80b–2, 80b–3, and 80b–5 of this title, and enacting provisions set out as notes under sections 77c and 80a–2 of this title\] may be cited as the ‘Investment Company amendments Act of 1970’.”
+Pub. L. 91–547, §1, Dec. 14, 1970, 84 Stat. 1413, provided: “That this Act \[enacting section 80b–6a of this title, amending sections 77b, 77c, 78c, 78l, 80a–2, 80a–3, 80a–8 to 80a–13, 80a–15, 80a–17 to 80a–19, 80a–22, 80a–24 to 80a–28, 80a–31, 80a–32, 80a–35, 80a–42, 80a–43, 80b–2, 80b–3, and 80b–5 of this title, and enacting provisions set out as notes under sections 77c and 80a–2 of this title\] may be cited as the ‘Investment Company amendments Act of 1970’.”
 

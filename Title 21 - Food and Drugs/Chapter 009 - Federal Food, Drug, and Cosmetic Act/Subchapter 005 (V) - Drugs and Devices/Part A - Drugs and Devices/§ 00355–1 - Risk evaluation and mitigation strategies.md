@@ -60,7 +60,7 @@ For purposes of this section:
 
 #### (3) New safety information
 
-&emsp;The term “new safety information”, with respect to a drug, means information derived from a clinical trial, an adverse event report, a postapproval study (including a study under section 355(<i>o</i>)(3) of this title), or peer-reviewed biomedical literature; data derived from the postmarket risk identification and analysis system under section 355(k) of this title; or other scientific data deemed appropriate by the Secretary about—
+&emsp;The term “new safety information”, with respect to a drug, means information derived from a clinical trial, an adverse event report, a postapproval study (including a study under section 355(o)(3) of this title), or peer-reviewed biomedical literature; data derived from the postmarket risk identification and analysis system under section 355(k) of this title; or other scientific data deemed appropriate by the Secretary about—
 
 &emsp;&emsp;(A) a serious risk or an unexpected serious risk associated with use of the drug that the Secretary has become aware of (that may be based on a new analysis of existing information) since the drug was approved, since the risk evaluation and mitigation strategy was required, or since the last assessment of the approved risk evaluation and mitigation strategy for the drug; or
 
@@ -96,7 +96,7 @@ For purposes of this section:
 
 &emsp;&emsp;(B) adverse event reports;
 
-&emsp;&emsp;(C) a postapproval study, including a study under section 355(<i>o</i>)(3) of this title;
+&emsp;&emsp;(C) a postapproval study, including a study under section 355(o)(3) of this title;
 
 &emsp;&emsp;(D) peer-reviewed biomedical literature;
 
@@ -226,7 +226,7 @@ For purposes of subsection (c)(1), the risk evaluation and mitigation strategy f
 
 &emsp;&emsp;&emsp;(ii) to the extent practicable, minimize the burden on the health care delivery system;
 
-&emsp;&emsp;(B) at least annually, evaluate, for 1 or more drugs, the elements to assure safe use of such drug to assess whether the elements—
+&emsp;&emsp;(B) at least annually, evaluate, for 1 or more drugs, the elements to assure safe useof such drug to assess whether the elements—
 
 &emsp;&emsp;&emsp;(i) assure safe use of the drug;
 
@@ -260,61 +260,65 @@ For purposes of subsection (c)(1), the risk evaluation and mitigation strategy f
 
 #### (1) Voluntary assessments
 
-&emsp;After the approval of a risk evaluation and mitigation strategy under subsection (a), the responsible person involved may, subject to paragraph (2), submit to the Secretary an assessment of, and propose a modification to, the approved strategy for the drug involved at any time.
+&emsp;After the approval of a risk evaluation and mitigation strategy under subsection (a), the responsible person involved may, subject to paragraph (2), submit to the Secretary an assessment of the approved strategy for the drug involved at any time.
 
 #### (2) Required assessments
 
-&emsp;A responsible person shall, subject to paragraph (5), submit an assessment of, and may propose a modification to, the approved risk evaluation and mitigation strategy for a drug—
+&emsp;A responsible person shall submit an assessment of the approved risk evaluation and mitigation strategy for a drug—
 
 &emsp;&emsp;(A) when submitting a supplemental application for a new indication for use under section 355(b) of this title or under section 262 of title 42, unless the drug is not subject to section 353(b) of this title and the risk evaluation and mitigation strategy for the drug includes only the timetable under subsection (d);
 
 &emsp;&emsp;(B) when required by the strategy, as provided for in such timetable under subsection (d);
 
-&emsp;&emsp;(C) within a time period to be determined by the Secretary, if the Secretary, in consultation with the offices described in subsection (c)(2), determines that new safety or effectiveness information indicates that—
+&emsp;&emsp;(C) within a time period to be determined by the Secretary, if the Secretary, in consultation with the offices described in subsection (c)(2), determines that an assessment is needed to evaluate whether the approved strategy should be modified to—
 
-&emsp;&emsp;&emsp;(i) an element under subsection (d) or (e) should be modified or included in the strategy; or
+&emsp;&emsp;&emsp;(i) ensure the benefits of the drug outweigh the risks of the drug; or
 
-&emsp;&emsp;&emsp;(ii) an element under subsection (f) should be modified or included in the strategy; or
-
-&emsp;&emsp;(D) within 15 days when ordered by the Secretary, in consultation with the offices described in subsection (c)(2), if the Secretary determines that there may be a cause for action by the Secretary under section 355(e) of this title.
+&emsp;&emsp;&emsp;(ii) minimize the burden on the health care delivery system of complying with the strategy.
 
 #### (3) Requirements for assessments
 
-&emsp;An assessment under paragraph (1) or (2) of an approved risk evaluation and mitigation strategy for a drug shall include—
-
-&emsp;&emsp;(A) with respect to any goal under subsection (f), an assessment of the extent to which the elements to assure safe use are meeting the goal or whether the goal or such elements should be modified;
-
-&emsp;&emsp;(B) with respect to any postapproval study required under section 355(<i>o</i>) of this title or otherwise undertaken by the responsible person to investigate a safety issue, the status of such study, including whether any difficulties completing the study have been encountered; and
-
-&emsp;&emsp;(C) with respect to any postapproval clinical trial required under section 355(<i>o</i>) of this title or otherwise undertaken by the responsible party to investigate a safety issue, the status of such clinical trial, including whether enrollment has begun, the number of participants enrolled, the expected completion date, whether any difficulties completing the clinical trial have been encountered, and registration information with respect to requirements under subsections (i) and (j) of section 282 of title 42.
+&emsp;An assessment under paragraph (1) or (2) of an approved risk evaluation and mitigation strategy for a drug shall include, with respect to each goal included in the strategy, an assessment of the extent to which the approved strategy, including each element of the strategy, is meeting the goal or whether 1 or more such goals or such elements should be modified.
 
 #### (4) Modification
 
-&emsp;A modification (whether an enhancement or a reduction) to the approved risk evaluation and mitigation strategy for a drug may include the addition or modification of any element under subsection (d) or the addition, modification, or removal of any element under subsection (e) or (f), such as—
+#### (A) On initiative of responsible person
 
-&emsp;&emsp;(A) modifying the timetable for assessments of the strategy as provided in subsection (d)(3), including to eliminate assessments; or
+&emsp;&emsp;After the approval of a risk evaluation and mitigation strategy by the Secretary, the responsible person may, at any time, submit to the Secretary a proposal to modify the approved strategy. Such proposal may propose the addition, modification, or removal of any goal or element of the approved strategy and shall include an adequate rationale to support such proposed addition, modification, or removal of any goal or element of the strategy.
 
-&emsp;&emsp;(B) adding, modifying, or removing an element to assure safe use under subsection (f).
+#### (B) On initiative of Secretary
 
-#### (h) Review of proposed strategies; review of assessments of approved strategies
+&emsp;&emsp;After the approval of a risk evaluation and mitigation strategy by the Secretary, the Secretary may, at any time, require a responsible person to submit a proposed modification to the strategy within 120 days or within such reasonable time as the Secretary specifies, if the Secretary, in consultation with the offices described in subsection (c)(2), determines that 1 or more goals or elements should be added, modified, or removed from the approved strategy to—
+
+&emsp;&emsp;&emsp;(i) ensure the benefits of the drug outweigh the risks of the drug; or
+
+&emsp;&emsp;&emsp;(ii) minimize the burden on the health care delivery system of complying with the strategy.
+
+#### (h) Review of proposed strategies; review of assessments and modifications of approved strategies
 
 #### (1) In general
 
-&emsp;The Secretary, in consultation with the offices described in subsection (c)(2), shall promptly review each proposed risk evaluation and mitigation strategy for a drug submitted under subsection (a) and each assessment of an approved risk evaluation and mitigation strategy for a drug submitted under subsection (g).
+&emsp;The Secretary, in consultation with the offices described in subsection (c)(2), shall promptly review each proposed risk evaluation and mitigation strategy for a drug submitted under subsection (a) and each assessment ofand proposed modification to an approved risk evaluation and mitigation strategy for a drug submitted under subsection (g), and, if necessary, promptly initiate discussions with the responsible person about such proposed strategy, assessment, or modification.
 
-#### (2) Discussion
-
-&emsp;The Secretary, in consultation with the offices described in subsection (c)(2), shall initiate discussions with the responsible person for purposes of this subsection to determine a strategy not later than 60 days after any such assessment is submitted or, in the case of an assessment submitted under subsection (g)(2)(D), not later than 30 days after such assessment is submitted.
-
-#### (3) Action
+#### (2) Action
 
 #### (A) In general
 
-&emsp;&emsp;Unless the dispute resolution process described under paragraph (4) or (5) applies, the Secretary, in consultation with the offices described in subsection (c)(2), shall describe any required risk evaluation and mitigation strategy for a drug, or any modification to any required strategy—
+#### (i) Timeframe
 
-&emsp;&emsp;&emsp;(i) as part of the action letter on the application, when a proposed strategy is submitted under subsection (a) or a modification to the strategy is proposed as part of an assessment of the strategy submitted under subsection (g)(1); or
+&emsp;&emsp;&emsp;Unless the dispute resolution process described under paragraph (3) or (4) applies, and, except as provided in clause (ii) or clause (iii) below, the Secretary, in consultation with the offices described in subsection (c)(2), shall review and act on the proposed risk evaluation and mitigation strategy for a drug or any proposed modification to any required strategy within 180 days of receipt of the proposed strategy or modification.
 
-&emsp;&emsp;&emsp;(ii) in an order issued not later than 90 days after the date discussions of such modification begin under paragraph (2), when a modification to the strategy is proposed as part of an assessment of the strategy submitted under subsection (g)(1) or under any of subparagraphs (B) through (D) of subsection (g)(2).
+#### (ii) Minor modifications
+
+&emsp;&emsp;&emsp;The Secretary shall review and act on a proposed minor modification, as defined by the Secretary in guidance, within 60 days of receipt of such modification.
+
+#### (iii) REMS modification due to safety label changes
+
+&emsp;&emsp;&emsp;Not later than 60 days after the Secretary receives a proposed modification to an approved risk evaluation and mitigation strategy to conform the strategy to approved safety label changes, including safety labeling changes initiated by the sponsor in accordance with FDA regulatory requirements, or to a safety label change that the Secretary has directed the holder of the application to make pursuant to section 355(o)(4) of this title, the Secretary shall review and act on such proposed modification to the approved strategy.
+
+#### (iv) Guidance
+
+&emsp;&emsp;&emsp;The Secretary shall establish, through guidance, that responsible persons may implement certain modifications to an approved risk evaluation and mitigation strategy following notification to the Secretary.
 
 #### (B) Inaction
 
@@ -322,19 +326,19 @@ For purposes of subsection (c)(1), the risk evaluation and mitigation strategy f
 
 #### (C) Public availability
 
-&emsp;&emsp;Any action letter described in subparagraph (A)(i) or order described in subparagraph (A)(ii) shall be made publicly available.
+&emsp;&emsp;Upon acting on a proposed risk evaluation and mitigation strategy or proposed modification to a risk evaluation and mitigation strategy under subparagraph (A), the Secretary shall make publicly available an action letter describing the actions taken by the Secretary under such subparagraph (A).
 
-#### (4) Dispute resolution at initial approval
+#### (3) Dispute resolution at initial approval
 
 &emsp;If a proposed risk evaluation and mitigation strategy is submitted under subsection (a)(1) in an application for initial approval of a drug and there is a dispute about the strategy, the responsible person shall use the major dispute resolution procedures as set forth in the letters described in section 101(c) of the Food and Drug Administration Amendments Act of 2007.
 
-#### (5) Dispute resolution in all other cases
+#### (4) Dispute resolution in all other cases
 
 #### (A) Request for review
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Not earlier than 15 days, and not later than 35 days, after discussions under paragraph (2) have begun, the responsible person may request in writing that a dispute about the strategy be reviewed by the Drug Safety Oversight Board under subsection (j), except that the determination of the Secretary to require a risk evaluation and mitigation strategy is not subject to review under this paragraph. The preceding sentence does not prohibit review under this paragraph of the particular elements of such a strategy.
+&emsp;&emsp;&emsp;The responsible person may, after the sponsor is required to make a submission under subsection (a)(2) or (g), request in writing that a dispute about the strategy be reviewed by the Drug Safety Oversight Board under subsection (j), except that the determination of the Secretary to require a risk evaluation and mitigation strategy is not subject to review under this paragraph. The preceding sentence does not prohibit review under this paragraph of the particular elements of such a strategy.
 
 #### (ii) Scheduling
 
@@ -386,7 +390,7 @@ For purposes of subsection (c)(1), the risk evaluation and mitigation strategy f
 
 #### (ii) Order
 
-&emsp;&emsp;&emsp;With respect to an assessment of an approved risk evaluation and mitigationstrategy under subsection (g)(1) or under any of subparagraphs (B) through (D) of subsection (g)(2), the Secretary shall issue an order, which shall be made public, that resolves the dispute not later than 7 days after receiving the recommendation of the Drug Safety Oversight Board.
+&emsp;&emsp;&emsp;With respect to an assessment of an approved risk evaluation and mitigation strategy under subsection (g)(1) or under any of subparagraphs (B) through (D) of subsection (g)(2), the Secretary shall issue an order, which shall be made public, that resolves the dispute not later than 7 days after receiving the recommendation of the Drug Safety Oversight Board.
 
 #### (H) Inaction
 
@@ -394,11 +398,7 @@ For purposes of subsection (c)(1), the risk evaluation and mitigation strategy f
 
 #### (I) Effect on action deadline
 
-&emsp;&emsp;With respect to a proposal or assessment referred to in paragraph (1), the Secretary shall be considered to have met the action deadline for the action letter on the application if the responsible person requests the dispute resolution process described in this paragraph and if the Secretary—
-
-&emsp;&emsp;&emsp;(i) has initiated the discussions described under paragraph (2) not less than 60 days before such action deadline; and
-
-&emsp;&emsp;&emsp;(ii) has complied with the timing requirements of scheduling review by the Drug Safety Oversight Board, providing a written recommendation, and issuing an action letter under subparagraphs (B), (F), and (G), respectively.
+&emsp;&emsp;With respect to a proposal or assessment referred to in paragraph (1), the Secretary shall be considered to have met the action deadline for the action letter on the application if the responsible person requests the dispute resolution process described in this paragraph and if the Secretary has complied with the timing requirements of scheduling review by the Drug Safety Oversight Board, providing a written recommendation, and issuing an action letter under subparagraphs (B), (F), and (G), respectively.
 
 #### (J) Disqualification
 
@@ -408,17 +408,17 @@ For purposes of subsection (c)(1), the risk evaluation and mitigation strategy f
 
 &emsp;&emsp;The Drug Safety Oversight Board may add members with relevant expertise from the Food and Drug Administration, including the Office of Pediatrics, the Office of Women's Health, or the Office of Rare Diseases, or from other Federal public health or health care agencies, for a meeting under subparagraph (D) of the Drug Safety Oversight Board.
 
-#### (6) Use of advisory committees
+#### (5) Use of advisory committees
 
 &emsp;The Secretary may convene a meeting of 1 or more advisory committees of the Food and Drug Administration to—
 
-&emsp;&emsp;(A) review a concern about the safety of a drug or class of drugs, including before an assessment of the risk evaluation and mitigation strategy or strategies of such drug or drugs is required to be submitted under any of subparagraphs (B) through (D) of subsection (g)(2);
+&emsp;&emsp;(A) review a concern about the safety of a drug or class of drugs, including before an assessment of the risk evaluation and mitigation strategy or strategies of such drug or drugs is required to be submitted under subparagraph (B) or (C) of subsection (g)(2);
 
 &emsp;&emsp;(B) review the risk evaluation and mitigation strategy or strategies of a drug or group of drugs; or
 
-&emsp;&emsp;(C) review a dispute under paragraph (4) or (5).
+&emsp;&emsp;(C) review a dispute under paragraph (3) or (4).
 
-#### (7) Process for addressing drug class effects
+#### (6) Process for addressing drug class effects
 
 #### (A) In general
 
@@ -454,25 +454,25 @@ For purposes of subsection (c)(1), the risk evaluation and mitigation strategy f
 
 &emsp;&emsp;&emsp;(iii) after seeking such comment, issue an order addressing such regulatory action.
 
-#### (8) International coordination
+#### (7) International coordination
 
-&emsp;The Secretary, in consultation with the offices described in subsection (c)(2), may coordinate the timetable for submission of assessments under subsection (d), or a study or clinical trial under section 355(<i>o</i>)(3) of this title, with efforts to identify and assess the serious risks of such drug by the marketing authorities of other countries whose drug approval and risk management processes the Secretary deems comparable to the drug approval and risk management processes of the United States. If the Secretary takes action to coordinate such timetable, the Secretary shall give notice to the responsible person.
+&emsp;The Secretary, in consultation with the offices described in subsection (c)(2), may coordinate the timetable for submission of assessments under subsection (d), or a study or clinical trial under section 355(o)(3) of this title, with efforts to identify and assess the serious risks of such drug by the marketing authorities of other countries whose drug approval and risk management processes the Secretary deems comparable to the drug approval and risk management processes of the United States. If the Secretary takes action to coordinate such timetable, the Secretary shall give notice to the responsible person.
 
-#### (9) Effect
+#### (8) Effect
 
-&emsp;Use of the processes described in paragraphs (7) and (8) shall not be the sole source of delay of action on an application or a supplement to an application for a drug.
+&emsp;Use of the processes described in paragraphs (6) and (7).<sup>1</sup> shall not be the sole source of delay of action on an application or a supplement to an application for a drug.
 
 #### (i) Abbreviated new drug applications
 
 #### (1) In general
 
-&emsp;A drug that is the subject of an abbreviated new drug application under section 355(j) ofthis title is subject to only the following elements of the risk evaluation and mitigation strategy required under subsection (a) for the applicable listed drug:
+&emsp;A drug that is the subject of an abbreviated new drug application under section 355(j) of this title is subject to only the following elements of the risk evaluation and mitigation strategy required under subsection (a) for the applicable listed drug:
 
 &emsp;&emsp;(A) A Medication Guide or patient package insert, if required under subsection (e) for the applicable listed drug.
 
 &emsp;&emsp;(B) Elements to assure safe use, if required under subsection (f) for the listed drug. A drug that is the subject of an abbreviated new drug application and the listed drug shall use a single, shared system under subsection (f). The Secretary may waive the requirement under the preceding sentence for a drug that is the subject of an abbreviated new drug application, and permit the applicant to use a different, comparable aspect of the elements to assure safe use, if the Secretary determines that—
 
-&emsp;&emsp;&emsp;(i) the burden of creating a single, shared system outweighs the benefit of a single, system,<sup>1</sup> taking into consideration the impact on health care providers, patients, the applicant for the abbreviated new drug application, and the holder of the reference drug product; or
+&emsp;&emsp;&emsp;(i) the burden of creating a single, shared system outweighs the benefit of a single, system,<sup>2</sup> taking into consideration the impact on health care providers, patients, the applicant for the abbreviated new drug application, and the holder of the reference drug product; or
 
 &emsp;&emsp;&emsp;(ii) an aspect of the elements to assure safe use for the applicable listed drug is claimed by a patent that has not expired or is a method or process that, as a trade secret, is entitled to protection, and the applicant for the abbreviated new drug application certifies that it has sought a license for use of an aspect of the elements to assure safe use for the applicable listed drug and that it was unable to obtain a license.
 
@@ -506,17 +506,71 @@ For purposes of subsection (c)(1), the risk evaluation and mitigation strategy f
 
 &emsp;&emsp;(E) meet at least monthly to provide oversight and advice to the Secretary on the management of important drug safety issues.
 
-(June 25, 1938, ch. 675, §505–1, as added Pub. L. 110–85, title IX, §901(b), Sept. 27, 2007, 121 Stat. 926.)
+(June 25, 1938, ch. 675, §505–1, as added Pub. L. 110–85, title IX, §901(b), Sept. 27, 2007, 121 Stat. 926; amended Pub. L. 112–144, title XI, §1132(a), (b), July 9, 2012, 126 Stat. 1119, 1120.)
 
 #### References in Text
 
 For the effective date of this section, referred to in subsec. (a)(2)(A), see Effective Date note below.
 
-Section 101(c) of the Food and Drug Administration Amendments Act of 2007, referred to in subsec. (h)(4), (5)(C)(i), is section 101(c) of Pub. L. 110–85, which is set out as a note under section 379g of this title.
+Section 101(c) of the Food and Drug Administration Amendments Act of 2007, referred to in subsec. (h)(3), (4)(C)(i), is section 101(c) of Pub. L. 110–85, which is set out as a note under section 379g of this title.
+
+#### Amendments
+
+<b>2012</b>—Subsec. (g)(1). Pub. L. 112–144, §1132(a)(1), struck out “, and propose a modification to,” after “an assessment of”.
+
+Subsec. (g)(2). Pub. L. 112–144, §1132(a)(2)(A), in introductory provisions, struck out “, subject to paragraph (5),” after “shall” and “, and may propose a modification to,” after “an assessment of”.
+
+Subsec. (g)(2)(C). Pub. L. 112–144, §1132(a)(2)(B), substituted “an assessment is needed to evaluate whether the approved strategy should be modified to—” and cls. (i) and (ii) for “new safety or effectiveness information indicates that—
+
+&emsp;“(i) an element under subsection (d) or (e) should be modified or included in the strategy; or
+
+&emsp;“(ii) an element under subsection (f) should be modified or included in the strategy; or”.
+
+Subsec. (g)(2)(D). Pub. L. 112–144, §1132(a)(2)(C), struck out subpar. (D) which read as follows: “within 15 days when ordered by the Secretary, in consultation with the offices described in subsection (c)(2), if the Secretary determines that there may be a cause for action by the Secretary under section 355(e) of this title.”
+
+Subsec. (g)(3). Pub. L. 112–144, §1132(a)(3), substituted “for a drug shall include, with respect to each goal included in the strategy, an assessment of the extent to which the approved strategy, including each element of the strategy, is meeting the goal or whether 1 or more such goals or such elements should be modified.” for “for a drug shall include—” and struck out subpars. (A) to (C) which related to assessment of elements to assure safe use, postapproval studies, and postapproval clinical trials.
+
+Subsec. (g)(4). Pub. L. 112–144, §1132(a)(4), amended par. (4) generally. Prior to amendment, text read as follows: “A modification (whether an enhancement or a reduction) to the approved risk evaluation and mitigation strategy for a drug may include the addition or modification of any element under subsection (d) or the addition, modification, or removal of any element under subsection (e) or (f), such as—
+
+&emsp;“(A) modifying the timetable for assessments of the strategy as provided in subsection (d)(3), including to eliminate assessments; or
+
+&emsp;“(B) adding, modifying, or removing an element to assure safe use under subsection (f).”
+
+Subsec. (h). Pub. L. 112–144, §1132(b)(1), inserted “and modifications” after “review of assessments” in heading.
+
+Subsec. (h)(1). Pub. L. 112–144, §1132(b)(2), inserted “and proposed modification to” after “under subsection (a) and each assessment of” and “, and, if necessary, promptly initiate discussions with the responsible person about such proposed strategy, assessment, or modification” after “subsection (g)”.
+
+Subsec. (h)(2). Pub. L. 112–144, §1132(b)(3), (4), redesignated par. (3) as (2) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: “The Secretary, in consultation with the offices described in subsection (c)(2), shall initiate discussions with the responsible person for purposes of this subsection to determine a strategy not later than 60 days after any such assessment is submitted or, in the case of an assessment submitted under subsection (g)(2)(D), not later than 30 days after such assessment is submitted.”
+
+Subsec. (h)(2)(A). Pub. L. 112–144, §1132(b)(5)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) related to Secretary's description of any required risk evaluation and mitigation strategy for a drug as part of the action letter on the application or in an order.
+
+Subsec. (h)(2)(C). Pub. L. 112–144, §1132(b)(5)(B), amended subpar. (C) generally. Prior to amendment, text read as follows: “Any action letter described in subparagraph (A)(i) or order described in subparagraph (A)(ii) shall be made publicly available.”
+
+Subsec. (h)(3), (4). Pub. L. 112–144, §1132(b)(4), redesignated pars. (4) and (5) as (3) and (4), respectively. Former par. (3) redesignated (2).
+
+Subsec. (h)(4)(A)(i). Pub. L. 112–144, §1132(b)(6)(A), substituted “The responsible” for “Not earlier than 15 days, and not later than 35 days, after discussions under paragraph (2) have begun, the responsible” and inserted “, after the sponsor is required to make a submission under subsection (a)(2) or (g),” before “request in writing”.
+
+Subsec. (h)(4)(I). Pub. L. 112–144, §1132(b)(6)(B), substituted “if the Secretary has complied with the timing requirements of scheduling review by the Drug Safety Oversight Board, providing a written recommendation, and issuing an action letter under subparagraphs (B), (F), and (G), respectively.” for “if the Secretary—” and struck out cls. (i) and (ii) which read as follows:
+
+“(i) has initiated the discussions described under paragraph (2) not less than 60 days before such action deadline; and
+
+“(ii) has complied with the timing requirements of scheduling review by the Drug Safety Oversight Board, providing a written recommendation, and issuing an action letter under subparagraphs (B), (F), and (G), respectively.”
+
+Subsec. (h)(5). Pub. L. 112–144, §1132(b)(4), (7), redesignated par. (6) as (5) and substituted “subparagraph (B) or (C)” for “any of subparagraphs (B) through (D)” in subpar. (A) and “paragraph (3) or (4)” for “paragraph (4) or (5)” in subpar. (C). Former par. (5) redesignated (4).
+
+Subsec. (h)(6), (7). Pub. L. 112–144, §1132(b)(4), redesignated pars. (7) and (8) as (6) and (7), respectively. Former par. (6) redesignated (5).
+
+Subsec. (h)(8), (9). Pub. L. 112–144, §1132(b)(4), (8), redesignated par. (9) as (8) and substituted “paragraphs (6) and (7).” for “paragraphs (7) and (8)”. Former par. (8) redesignated (7).
 
 #### Effective Date
 
 Section effective 180 days after Sept. 27, 2007, see section 909 of Pub. L. 110–85, set out as an Effective Date of 2007 Amendment note under section 331 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “single, shared system,”.</i>
+#### Guidance
+
+Pub. L. 112–144, title XI, §1132(c), July 9, 2012, 126 Stat. 1122, provided that: “Not later than 1 year after the date of enactment of this Act \[July 9, 2012\], the Secretary of Health and Human Services shall issue guidance that, for purposes of section 505–1(h)(2)(A) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355–1(h)(2)(A)), describes the types of modifications to approved risk evaluation and mitigation strategies that shall be considered to be minor modifications of such strategies.”
+
+<i><sup>1</sup></i><i> So in original. The period probably should not appear.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “single, shared system,”.</i>
 

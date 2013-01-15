@@ -12,13 +12,11 @@ There is hereby established an independent establishment in the executive branch
 
 (3) No member of the Board may be an employee of, or have any significant financial relationship with, the Department of Energy or any contractor of the Department of Energy.
 
-(4) Not later than 180 days after September 29, 1988, the President shall submit to the Senate nominations for appointment to the Board. In the event that the President is unable to submit the nominations within such 180-day period, the President shall submit to the Committees on Armed Services and on Appropriations of the Senate and to the Speaker of the House of Representatives a report describing the reasons for such inability and a plan for submitting the nominations within the next 90 days. If the President is unable to submit the nominations within that 90-day period, the President shall again submit to such committees and the Speaker such a report and plan. The President shall continue to submit to such committees and the Speaker such a report and plan every 90 days until the nominations are submitted.
-
-#### (c) Chairman and Vice Chairman
+#### (c) Chairman, Vice Chairman, and Members
 
 (1) The President shall designate a Chairman and Vice Chairman of the Board from among members of the Board.
 
-(2) The Chairman shall be the chief executive officer of the Board and, subject to such policies as the Board may establish, shall exercise the functions of the Board with respect to—
+(2) In accordance with paragraph (5), the Chairman shall be the chief executive officer of the Board and, subject to such policies as the Board may establish, shall exercise the functions of the Board with respect to—
 
 &emsp;(A) the appointment and supervision of employees of the Board;
 
@@ -29,6 +27,14 @@ There is hereby established an independent establishment in the executive branch
 (3) The Chairman may delegate any of the functions under this paragraph to any other member or to any appropriate officer of the Board.
 
 (4) The Vice Chairman shall act as Chairman in the event of the absence or incapacity of the Chairman or in case of a vacancy in the office of Chairman.
+
+(5) Each member of the Board, including the Chairman and Vice Chairman, shall—
+
+&emsp;(A) have equal responsibility and authority in establishing decisions and determining actions of the Board;
+
+&emsp;(B) have full access to all information relating to the performance of the Board's functions, powers, and mission; and
+
+&emsp;(C) have one vote.
 
 #### (d) Terms
 
@@ -54,7 +60,21 @@ There is hereby established an independent establishment in the executive branch
 
 Three members of the Board shall constitute a quorum, but a lesser number may hold hearings.
 
-(Aug. 1, 1946, ch. 724, title I, §311, as added Pub. L. 100–456, div. A, title XIV, §1441(a)(1), Sept. 29, 1988, 102 Stat. 2076; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
+(Aug. 1, 1946, ch. 724, title I, §311, as added Pub. L. 100–456, div. A, title XIV, §1441(a)(1), Sept. 29, 1988, 102 Stat. 2076; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; amended Pub. L. 112–239, div. C, title XXXII, §3202(a), Jan. 2, 2013, 126 Stat. 2217.)
+
+#### Amendments
+
+<b>2013</b>—Subsec. (b)(4). Pub. L. 112–239, §3202(a)(1), struck out par. (4) which read as follows: “Not later than 180 days after September 29, 1988, the President shall submit to the Senate nominations for appointment to the Board. In the event that the President is unable to submit the nominations within such 180-day period, the President shall submit to the Committees on Armed Services and on Appropriations of the Senate and to the Speaker of the House of Representatives a report describing the reasons for such inability and a plan for submitting the nominations within the next 90 days. If the President is unable to submit the nominations within that 90-day period, the President shall again submit to such committees and the Speaker such a report and plan. The President shall continue to submit to such committees and the Speaker such a report and plan every 90 days until the nominations are submitted.”
+
+Subsec. (c). Pub. L. 112–239, §3202(a)(2)(A), substituted “, Vice Chairman, and Members” for “and Vice Chairman” in heading.
+
+Subsec. (c)(2). Pub. L. 112–239, §3202(a)(2)(B), substituted “In accordance with paragraph (5), the Chairman” for “The Chairman”.
+
+Subsec. (c)(5). Pub. L. 112–239, §3202(a)(2)(C), added par. (5).
+
+#### Construction of Section 3202 of Pub. L. 112–239; Safety Standards
+
+Pub. L. 112–239, div. C, title XXXII, §3202(h), Jan. 2, 2013, 126 Stat. 2220, provided that: “Nothing in this section \[enacting section 2286k of this title and amendingthis section and sections 2286a, 2286b, 2286d, 2286e, and 2286h–1 of this title\] or in the amendments made by this section shall be construed to cause a reduction in nuclear safety standards.”
 
 #### Report on External Regulation of Defense Nuclear Facilities
 

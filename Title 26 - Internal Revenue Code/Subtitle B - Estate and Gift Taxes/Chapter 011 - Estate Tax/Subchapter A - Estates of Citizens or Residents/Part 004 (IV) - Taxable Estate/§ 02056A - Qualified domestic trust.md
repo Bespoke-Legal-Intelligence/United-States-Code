@@ -42,7 +42,7 @@ For purposes of this section and section 2056(d), the term “qualified domestic
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If the tax imposed on the estate of the decedent under section 2001 is not finallydetermined before the taxable event, the amount of the tax imposed by paragraph (1) on such event shall be determined by using the highest rate of tax in effect under section 2001 as of the date of the decedent's death.
+&emsp;&emsp;&emsp;If the tax imposed on the estate of the decedent under section 2001 is not finally determined before the taxable event, the amount of the tax imposed by paragraph (1) on such event shall be determined by using the highest rate of tax in effect under section 2001 as of the date of the decedent's death.
 
 #### (ii) Refund of excess when tax finally determined
 
@@ -174,17 +174,13 @@ An election under this section with respect to any trust shall be made by the ex
 
 #### (e) Regulations
 
-The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations under which there may be treated as a qualified domestic trust any annuity or other payment which is includible in the decedent's gross estate and is by its terms payable for life or a term of years.
+The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations under which there may be treated as aqualified domestic trust any annuity or other payment which is includible in the decedent's gross estate and is by its terms payable for life or a term of years.
 
 (Added Pub. L. 100–647, title V, §5033(a)(2), Nov. 10, 1988, 102 Stat. 3670; amended Pub. L. 101–239, title VII, §7815(d)(7), (9)–(13), (15), Dec. 19, 1989, 103 Stat. 2415–2418; Pub. L. 101–508, title XI, §§11702(g)(2)(A), (B), (3)(A), (4), 11704(a)(15), Nov. 5, 1990, 104 Stat. 1388–515, 1388–516, 1388–518; Pub. L. 105–34, title XIII, §§1312(a), 1314(a), Aug. 5, 1997, 111 Stat. 1044, 1045; Pub. L. 107–16, title V, §532(c)(6), June 7, 2001, 115 Stat. 74.)
 
-#### Amendment of Section
-
-<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
-
 #### Amendments
 
-<b>2001</b>—Subsec. (b)(10)(A). Pub. L. 107–16, §§532(c)(6), 901, temporarily struck out “2011,” before “2014,” and inserted “2058,” after “2056,”. See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Subsec. (b)(10)(A). Pub. L. 107–16 struck out “2011,” before “2014,” and inserted “2058,” after “2056,”.
 
 <b>1997</b>—Subsec. (a)(1)(A). Pub. L. 105–34, §1314(a), inserted “except as provided in regulations prescribed by the Secretary,” before “requires”.
 
@@ -200,7 +196,7 @@ Subsec. (b)(14), (15). Pub. L. 101–508, §11702(g)(2)(B), added pars. (14) and
 
 Subsec. (d). Pub. L. 101–508, §11702(g)(3)(A), inserted at end “No election may be made under this section on any return if such return is filed more than one year after the time prescribed by law (including extensions) for filing such return.”
 
-<b>1989</b>—Subsec. (a)(1). Pub. L. 101–239, §7815(d)(7)(A)(i), amended par. (1) generally. Prior to amendment, par.\(1) read as follows: “the trust instrument requires that all trustees of the trust be individual citizens of the United States or domestic corporations,”.
+<b>1989</b>—Subsec. (a)(1). Pub. L. 101–239, §7815(d)(7)(A)(i), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the trust instrument requires that all trustees of the trust be individual citizens of the United States or domestic corporations,”.
 
 Subsec. (a)(2) to (4). Pub. L. 101–239, §7815(d)(7)(A)(ii), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follows: “the surviving spouse of the decedent is entitled to all the income from the property in such trust, payable annually or at more frequent intervals,”.
 
@@ -228,23 +224,21 @@ Subsec. (c)(2). Pub. L. 101–239, §7815(d)(10), substituted “Except as provi
 
 Subsec. (e). Pub. L. 101–239, §7815(d)(13), added subsec. (e).
 
-#### Effective and Termination Dates of 2001 Amendment
+#### Effective Date of 2001 Amendment
 
 Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under section 2011 of this title.
 
-Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
-
 #### Effective Date of 1997 Amendment
 
-Section 1312(b) of Pub. L. 105–34 provided that: “The amendment made by this section \[amending this section\] shall apply to estates of decedents dying after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title XIII, §1312(b), Aug. 5, 1997, 111 Stat. 1045, provided that: “The amendment made by this section \[amending this section\] shall apply to estates of decedents dying after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
-Section 1314(b) of Pub. L. 105–34 provided that: “The amendment made by this section \[amending this section\] shall apply to estates of decedents dying after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title XIII, §1314(b), Aug. 5, 1997, 111 Stat. 1045, provided that: “The amendment made by this section \[amending this section\] shall apply to estates of decedents dying after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 #### Effective Date of 1990 Amendment
 
 Amendment by section 11702(g)(2), (4) of Pub. L. 101–508 effective as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 11702(j) of Pub. L. 101–508, set out as a note under section 59 of this title.
 
-Section 11702(g)(3)(B) of Pub. L. 101–508 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall not apply to any election made before the date 6 months after the date of the enactment of this Act \[Nov. 5, 1990\].”
+Pub. L. 101–508, title XI, §11702(g)(3)(B), Nov. 5, 1990, 104 Stat. 1388–516, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall not apply to any election made before the date 6 months after the date of the enactment of this Act \[Nov. 5, 1990\].”
 
 #### Effective Date of 1989 Amendment
 
@@ -256,7 +250,7 @@ Section applicable to estates of decedents dying after Nov. 10, 1988, see sectio
 
 #### Transitional Rule
 
-Section 1303 of Pub. L. 105–34 provided that:
+Pub. L. 105–34, title XIII, §1303, Aug. 5, 1997, 111 Stat. 1039, provided that:
 
 “(a)
 
@@ -268,5 +262,5 @@ Effective Date.—The provisions of subsection (a) shall take effect as if inclu
 
 #### Application of Amendments by Section 5033 of Pub. L. 100–647 to Estates of, or Gifts by, Noncitizen and Nonresident Individuals
 
-For provisions directing that in the case of the estate of, or gift by, an individual who was not a citizen or resident of the United States but was a resident of a foreign country with which the United States has a tax treaty with respect to estate, inheritance, or gift taxes, this section shall not apply to the extent such section would be inconsistent with the provisions of such treaty relating to estate, inheritance, or gift tax marital deductions, but that in the case of the estate of an individual dying before the date 3 years after Dec. 19, 1989, or a gift by an individual before the date 3 years after Dec. 19, 1989, the requirement of the preceding provision that the individual not be a citizen or resident of the United States shall not apply, see section 7815(d)(14) of Pub. L. 101–239, set out as a note under section 2056 of this title.
+For provisions directing that in the case of the estate of, or gift by, an individual who was not a citizen orresident of the United States but was a resident of a foreign country with which the United States has a tax treaty with respect to estate, inheritance, or gift taxes, this section shall not apply to the extent such section would be inconsistent with the provisions of such treaty relating to estate, inheritance, or gift tax marital deductions, but that in the case of the estate of an individual dying before the date 3 years after Dec. 19, 1989, or a gift by an individual before the date 3 years after Dec. 19, 1989, the requirement of the preceding provision that the individual not be a citizen or resident of the United States shall not apply, see section 7815(d)(14) of Pub. L. 101–239, set out as a note under section 2056 of this title.
 

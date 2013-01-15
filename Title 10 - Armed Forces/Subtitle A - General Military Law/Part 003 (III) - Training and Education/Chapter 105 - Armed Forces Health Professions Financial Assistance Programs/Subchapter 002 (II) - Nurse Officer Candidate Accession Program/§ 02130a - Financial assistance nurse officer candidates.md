@@ -2,7 +2,7 @@
 
 (a)
 
-Bonus Authorized.—(1) A person described in subsection (b) who, during the period beginning on November 29, 1989, and ending on December 31, 2012, executes a written agreement in accordance with subsection (c) to accept an appointment as a nurse officer may, upon the acceptance of the agreement by the Secretary concerned, be paid an accession bonus of not more than $20,000. The bonus shall be paid in periodic installments, as determined by the Secretary concerned at the time the agreement is accepted, except that the first installment may not exceed $10,000.
+Bonus Authorized.—(1) A person described in subsection (b) who, during the period beginning on November 29, 1989, and ending on December 31, 2013, executes a written agreement in accordance with subsection (c) to accept an appointment as a nurse officer may, upon the acceptance of the agreement by the Secretary concerned, be paid an accession bonus of not more than $20,000. The bonus shall be paid in periodic installments, as determined by the Secretary concerned at the time the agreement is accepted, except that the first installment may not exceed $10,000.
 
 (2) In addition to the accession bonus payable under paragraph (1), a person selected under such paragraph shall be entitled to a monthly stipend in an amount not to exceed the stipend rate in effect under section 2121(d) of this title for each month the individual is enrolled as a full-time student in an accredited baccalaureate degree program in nursing at a civilian educational institution by the Secretary selecting the person. The continuation bonus may be paid for not more than 24 months.
 
@@ -40,9 +40,11 @@ Repayment.—A person who does not complete a nursing degree program in which th
 
 Regulations.—The Secretaries concerned shall prescribe regulations to carry out this section.
 
-(Added Pub. L. 101–189, div. A, title VII, §707(a), Nov. 29, 1989, 103 Stat. 1474; amended Pub. L. 101–510, div. A, title VI, §613(c), title XIV, §1484(d)(1), Nov. 5, 1990, 104 Stat. 1577, 1716; Pub. L. 102–190, div. A, title VI, §612(c)(1), Dec. 5, 1991, 105 Stat. 1376; Pub. L. 102–484, div. A, title VI, §612(h), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §611(a), Nov. 30, 1993, 107 Stat. 1679; Pub. L. 103–337, div. A, title VI, §612(a), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, §612(a), title XV, §1501(c)(23), Feb. 10, 1996, 110 Stat. 359, 499; Pub. L. 104–201, div. A, title VI, §612(a), Sept. 23, 1996, 110 Stat. 2543; Pub. L. 105–85, div. A, title VI, §612(a), Nov. 18, 1997, 111 Stat. 1786; Pub. L. 105–261, div. A, title VI, §612(a), Oct. 17, 1998, 112 Stat. 2039; Pub. L. 106–65, div. A, title VI, §612(a), Oct. 5, 1999, 113 Stat. 650; Pub. L. 106–398, §1 \[\[div. A\], title VI, §622(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–151; Pub. L. 107–107, div. A, title V, §538, title VI, §612(a), Dec. 28, 2001, 115 Stat. 1107, 1135; Pub. L. 107–314, div. A, title VI, §§612(a), 615(h), Dec. 2, 2002, 116 Stat. 2567, 2569; Pub. L. 108–136, div. A, title VI, §612(a), Nov. 24, 2003, 117 Stat. 1501; Pub. L. 108–375, div. A, title VI, §612(a), Oct. 28, 2004, 118 Stat. 1947; Pub. L. 109–163, div. A, title VI, §§622(a), 687(c)(6), Jan. 6, 2006, 119 Stat. 3294, 3334; Pub. L. 109–364, div. A, title VI, §612(a), Oct. 17, 2006, 120 Stat. 2248; Pub. L. 110–181, div. A, title VI, §612(a), Jan. 28, 2008, 122 Stat. 148; Pub. L. 110–417, \[div. A\], title VI, §§612(a), 616(a), (b), Oct. 14, 2008, 122 Stat. 4484, 4486; Pub. L. 111–84, div. A, title VI, §612(a)(1), title X, §1073(c)(3), Oct. 28, 2009, 123 Stat. 2353, 2474; Pub. L. 111–383, div. A, title VI, §612(a)(1), title X, §1075(b)(28), Jan. 7, 2011, 124 Stat. 4236, 4370; Pub. L. 112–81, div. A, title VI, §612(a)(1), Dec. 31, 2011, 125 Stat. 1449.)
+(Added Pub. L. 101–189, div. A, title VII, §707(a), Nov. 29, 1989, 103 Stat. 1474; amended Pub. L. 101–510, div. A, title VI, §613(c), title XIV, §1484(d)(1), Nov. 5, 1990, 104 Stat. 1577, 1716; Pub. L. 102–190, div. A, title VI, §612(c)(1), Dec. 5, 1991, 105 Stat. 1376; Pub. L. 102–484, div. A, title VI, §612(h), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §611(a), Nov. 30, 1993, 107 Stat. 1679; Pub. L. 103–337, div. A, title VI, §612(a), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, §612(a), title XV, §1501(c)(23), Feb. 10, 1996, 110 Stat. 359, 499; Pub. L. 104–201, div. A, title VI, §612(a), Sept. 23, 1996, 110 Stat. 2543; Pub. L. 105–85, div. A, title VI, §612(a), Nov. 18, 1997, 111 Stat. 1786; Pub. L. 105–261, div. A, title VI, §612(a), Oct. 17, 1998, 112 Stat. 2039; Pub. L. 106–65, div. A, title VI, §612(a), Oct. 5, 1999, 113 Stat. 650; Pub. L. 106–398, §1 \[\[div. A\], title VI, §622(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–151; Pub. L. 107–107, div. A, title V, §538, title VI, §612(a), Dec. 28, 2001, 115 Stat. 1107, 1135; Pub. L. 107–314, div. A, title VI, §§612(a), 615(h), Dec. 2, 2002, 116 Stat. 2567, 2569; Pub. L. 108–136, div. A, title VI, §612(a), Nov. 24, 2003, 117 Stat. 1501; Pub. L. 108–375, div. A, title VI, §612(a), Oct. 28, 2004, 118 Stat. 1947; Pub. L. 109–163, div. A, title VI, §§622(a), 687(c)(6), Jan. 6, 2006, 119 Stat. 3294, 3334; Pub. L. 109–364, div. A, title VI, §612(a), Oct. 17, 2006, 120 Stat. 2248; Pub. L. 110–181, div. A, title VI, §612(a), Jan. 28, 2008, 122 Stat. 148; Pub. L. 110–417, \[div. A\], title VI, §§612(a), 616(a), (b), Oct. 14, 2008, 122 Stat. 4484, 4486; Pub. L. 111–84, div. A, title VI, §612(a)(1), title X, §1073(c)(3), Oct. 28, 2009, 123 Stat. 2353, 2474; Pub. L. 111–383, div. A, title VI, §612(a)(1), title X, §1075(b)(28), Jan. 7, 2011, 124 Stat. 4236, 4370; Pub. L. 112–81, div. A, title VI, §612(a)(1), Dec. 31, 2011, 125 Stat. 1449; Pub. L. 112–239, div. A, title VI, §612(a)(1), Jan. 2, 2013, 126 Stat. 1776.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (a)(1). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
 
 <b>2011</b>—Subsec. (a)(1). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
 
@@ -118,7 +120,7 @@ Pub. L. 111–84, div. A, title X, §1073(c), Oct. 28, 2009, 123 Stat. 2474, pro
 
 #### Effective Date of 1996 Amendment
 
-Section 1501(c) of Pub. L. 104–106 provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
+Pub. L. 104–106, div. A, title XV, §1501(c), Feb. 10, 1996, 110 Stat. 498, provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
 
 #### Savings Provision
 
@@ -130,7 +132,7 @@ Pub. L. 110–181, div. A, title VI, §610, Jan. 28, 2008, 122 Stat. 147, provid
 
 “(a)
 
-Retroactive Effective Date for Payment Authorities.—The amendments made by sections 611, 612, 613, and 614 \[amending this section and section 16302 of this title and sections 301b, 302d, 302e, 302g, 302h, 302j to 302<i>l</i>, 308, 308b, 308c, 308d, 308g to 308i, 309, 312, 312b, 312c, 323, 324, 326, 330, and 402 of Title 37, Pay and Allowances of the Uniformed Services\] shall take effect as of December 31, 2007.
+Retroactive Effective Date for Payment Authorities.—The amendments made by sections 611, 612, 613, and 614 \[amending this section and section 16302 of this title and sections 301b, 302d, 302e, 302g, 302h, 302j to 302l, 308, 308b, 308c, 308d, 308g to 308i, 309, 312, 312b, 312c, 323, 324, 326, 330, and 402 of Title 37, Pay and Allowances of the Uniformed Services\] shall take effect as of December 31, 2007.
 
 “(b)
 
@@ -166,7 +168,7 @@ In case of amendment by section 615(h) of Pub. L. 107–314 to increase maximum 
 
 #### Coverage of Period of Lapsed Authority
 
-Section 611(d) of Pub. L. 103–160 provided that:
+Pub. L. 103–160, div. A, title VI, §611(d), Nov. 30, 1993, 107 Stat. 1679, provided that:
 
 “(1) In the case of a person described in paragraph (2) who executes an agreement described in paragraph (3) during the 90-day period beginning on the date of the enactment of this Act \[Nov. 30, 1993\], the Secretary concerned may treat the agreement for purposes of the accession bonus, monthly stipend, or special pay authorized under the agreement as having been executed and accepted on the first date on which the person would have qualified for such an agreement had the amendments made by this section \[amending this section and sections 302d and 302e of Title 37, Pay and Allowances of the Uniformed Services\] taken effect on October 1, 1993.
 

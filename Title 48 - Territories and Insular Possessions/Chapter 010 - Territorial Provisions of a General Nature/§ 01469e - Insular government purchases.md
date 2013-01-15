@@ -6,7 +6,7 @@ The Governments of American Samoa, Guam, the Northern Mariana Islands, the Trust
 
 #### Prior Provisions
 
-Similar provisions relating to the Virgin Islands, Guam, American Samoa, and the Trust Territory of the Pacific Islands, were classified to sections 1401f, 1423<i>l</i>, 1665, and 1682, respectively, of this title.
+Similar provisions relating to the Virgin Islands, Guam, American Samoa, and the Trust Territory of the Pacific Islands, were classified to sections 1401f, 1423l, 1665, and 1682, respectively, of this title.
 
 #### Termination of Trust Territory of the Pacific Islands
 

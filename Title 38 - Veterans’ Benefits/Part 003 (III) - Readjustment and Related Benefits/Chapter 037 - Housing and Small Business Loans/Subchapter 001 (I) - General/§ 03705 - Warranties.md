@@ -22,7 +22,7 @@ Pub. L. 102–54, §15(a)(1)(A), as amended by Pub. L. 103–446, substituted �
 
 #### Effective Date of 1994 Amendment
 
-Section 1202(a) of Pub. L. 103–446 provided that the amendment made by that section is effective June 13, 1991, and as if included in the enactment of Pub. L. 102–54.
+Pub. L. 103–446, title XII, §1202(a), Nov. 2, 1994, 108 Stat. 4689, provided that the amendment made by that section is effective June 13, 1991, and as if included in the enactment of Pub. L. 102–54.
 
 #### Effective Date of 1976 Amendment
 

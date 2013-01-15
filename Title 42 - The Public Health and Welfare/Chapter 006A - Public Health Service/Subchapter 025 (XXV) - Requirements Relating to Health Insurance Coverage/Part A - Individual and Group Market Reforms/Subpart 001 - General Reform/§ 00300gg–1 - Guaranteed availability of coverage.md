@@ -58,7 +58,7 @@ Subject to subsections (b) through (e),<sup>1</sup> each health insurance issuer
 
 #### Codification
 
-The text of section 300gg–11 of this title, which was amended and transferred to subsecs. (c) and (d) of this section by Pub. L. 111–148, §1563(c)(8), formerly §1562(c)(8), as renumbered by Pub. L. 111–148, §10107(b)(1), was based on act July 1, 1944, ch. 373, title XXVII, §2731, formerly §2711, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1962; renumbered §2731, Pub. L. 111–148, title I, §1001(3), Mar. 23, 2010, 124 Stat. 130. For text of section 300gg–11 prior to amendment and transfer, see Prior Provisions note under section 300gg–11 of this title.
+The text of section 300gg–11 of this title, which was amended and transferred to subsecs. (c) and (d) of thissection by Pub. L. 111–148, §1563(c)(8), formerly §1562(c)(8), as renumbered by Pub. L. 111–148, §10107(b)(1), was based on act July 1, 1944, ch. 373, title XXVII, §2731, formerly §2711, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1962; renumbered §2731, Pub. L. 111–148, title I, §1001(3), Mar. 23, 2010, 124 Stat. 130. For text of section 300gg–11 prior to amendment and transfer, see Prior Provisions note under section 300gg–11 of this title.
 
 #### Prior Provisions
 

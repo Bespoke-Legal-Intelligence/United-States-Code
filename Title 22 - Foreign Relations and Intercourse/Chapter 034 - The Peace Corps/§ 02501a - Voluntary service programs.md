@@ -44,7 +44,7 @@ Subsec. (b). Pub. L. 91–99, §3(2), redesignated existing provisions as cl. (1
 
 #### Effective Date of 1978 Amendment
 
-Section 8(b) of Pub. L. 95–331 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1978.”
+Pub. L. 95–331, §8(b), Aug. 2, 1978, 92 Stat. 416, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1978.”
 
 #### Delegation of Functions
 

@@ -36,7 +36,7 @@ Comptroller General Authority.—(1) Except as provided in paragraph (2), each c
 
 &emsp;(B) where the head of the agency determines, after taking into account the price and availability of the property and services from United States sources, that the public interest would be best served by not applying paragraph (1).
 
-(3) Paragraph (1) may not be construed to require a contractor or subcontractor to create or maintain any record that the contractor or subcontractor does not maintain in the ordinary course of business or pursuant to another provision of law.
+(3) Paragraph (1) may not be construed to require a contractor or subcontractor to create ormaintain any record that the contractor or subcontractor does not maintain in the ordinary course of business or pursuant to another provision of law.
 
 (d)
 
@@ -60,7 +60,7 @@ Forms of Original Record Storage.—Nothing in this section shall be construed t
 
 (h)
 
-Use of Images of Original Records.—The head of an agency shall not require a contractoror subcontractor to provide original records in an audit carried out pursuant to this section if the contractor or subcontractor provides photographic or electronic images of the original records and meets the following requirements:
+Use of Images of Original Records.—The head of an agency shall not require a contractor or subcontractor to provide original records in an audit carried out pursuant to this section if the contractor or subcontractor provides photographic or electronic images of the original records and meets the following requirements:
 
 &emsp;(1) The contractor or subcontractor has established procedures to ensure that the imaging process preserves the integrity, reliability, and security of the original records.
 
@@ -134,6 +134,36 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 Amendment by Pub. L. 98–369 applicable with respect to any solicitation for bids or proposals issued after Mar. 31, 1985, see section 2751 of Pub. L. 98–369, set out as a note under section 2302 of this title.
 
+#### Department of Defense Access to, Use of, and Safeguards and Protections for Contractor Internal Audit Reports
+
+Pub. L. 112–239, div. A, title VIII, §832, Jan. 2, 2013, 126 Stat. 1844, provided that:
+
+“(a)
+
+Revised Guidance Required.—Not later than 180 days after the date of the enactment of this Act \[Jan. 2, 2013\], the Director of the Defense Contract Audit Agency shall revise guidance on access to defense contractor internal audit reports (including the Contract Audit Manual) to incorporate the requirements of this section.
+
+“(b)
+
+Documentation Requirements.—The revised guidance shall ensure that requests for access to defense contractor internal audit reports are appropriately documented. The required documentation shall include, at a minimum, the following:
+
+&emsp;“(1) Written determination that access to such reports is necessary to complete required evaluations of contractor business systems.
+
+&emsp;“(2) A copy of any request from the Defense Contract Audit Agency to a contractor for access to such reports.
+
+&emsp;“(3) A record of response received from the contractor, including the contractor's rationale or justification if access to requested reports was not granted.
+
+“(b) \[sic\]&nbsp;
+
+Safeguards and Protections.—The revised guidance shall include appropriate safeguards and protections to ensure that contractor internal audit reports cannot be used by the Defense Contract Audit Agency for any purpose other than evaluating and testing the efficacy of contractor internal controls and the reliability of associated contractor business systems.
+
+“(c)
+
+Risk-based Auditing.—A determination by the Defense Contract Audit Agency that a contractor has a sound system of internal controls shall provide the basis for increased reliance on contractor business systems or a reduced level of testing with regard to specific audits, as appropriate. Internal audit reports provided by a contractor pursuant to this section may be considered in determining whether or not a contractor has a sound system of internal controls, but shall not be the sole basis for such a determination.
+
+“(d)
+
+Comptroller General Review.—Not later than one year after the date of the enactment of this Act, the Comptroller General of the United States shall initiate a review of the documentation required by subsection (a). Not later than 90 days after completion of the review, the Comptroller General shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the results of the review, with findings and recommendations for improving the audit processes of the Defense Contract Audit Agency.”
+
 #### Additional Access to Contractor and Subcontractor Records in the United States Central Command Theater of Operations
 
 Pub. L. 112–81, div. A, title VIII, §842, Dec. 31, 2011, 125 Stat. 1513, provided that:
@@ -152,7 +182,7 @@ In general.—Not later than 30 days after the date of the enactment of this Act
 
 &emsp;“(2)
 
-Clause.—The clause described in this paragraph is a clause authorizing the Secretary, upon a written determination pursuant to paragraph (3), to examine any records of the contractor, the recipientof a grant or cooperative agreement, or any subcontractor or subgrantee under such contract, grant, or cooperative agreement to the extent necessary to ensure that funds available under the contract, grant, or cooperative agreement—
+Clause.—The clause described in this paragraph is a clause authorizing the Secretary, upon a written determination pursuant to paragraph (3), to examine any records of the contractor, the recipient of a grant or cooperative agreement, or any subcontractor or subgrantee under such contract, grant, or cooperative agreement to the extent necessary to ensure that funds available under the contract, grant, or cooperative agreement—
 
 &emsp;&emsp;“(A) are not subject to extortion or corruption; and
 

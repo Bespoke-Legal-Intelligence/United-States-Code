@@ -44,7 +44,7 @@ Amendment by Pub. L. 100–242 applicable only with respect to mortgages insured
 
 #### Study and Report Respecting Utilization of Factory-Built and Other Appropriate Types of Housing for Indian, Etc., Housing Programs
 
-Section 323 of Pub. L. 96–399 directed Secretary of Housing and Urban Development to study feasibility of utilizing factory-built and other appropriate types of housing (other than the traditional type of site-built housing), to the extent practicable, in carrying out housing programs for Indians and Alaskan Natives, and not later than eighteen months after Oct. 8, 1980, to transmit a report to Congress containing the findings and conclusions of such study, including a comparison of costs and benefits of utilizing the traditional type of site-built housing and of utilizing other types of housing in situations in which either type of housing could be used.
+Pub. L. 96–399, title III, §323, Oct. 8, 1980, 94 Stat. 1647, directed Secretary of Housing and Urban Development to study feasibility of utilizing factory-built and other appropriate types of housing (other than the traditional type of site-built housing), to the extent practicable, in carrying out housing programs for Indians and Alaskan Natives, and not later than eighteen months after Oct. 8, 1980, to transmit a report to Congress containing the findings and conclusions of such study, including a comparison of costs and benefits of utilizing the traditional type of site-built housing and of utilizing other types of housing in situations in which either type of housing could be used.
 
 #### Termination of Purchases of Obligations
 
@@ -52,7 +52,7 @@ No additional notes or obligations to be purchased after June 24, 1954, from fun
 
 #### Revolving Fund
 
-Establishment of revolving fund under which to account for assets and liabilities in connection with notes and other obligations purchased pursuant to the Alaska Housing Act, as amended, which is classified, in part, to this section, see section 1701g–5 of this title, and References in Text note thereunder.
+Establishment of revolving fund under which to account for assets and liabilities in connection with notesand other obligations purchased pursuant to the Alaska Housing Act, as amended, which is classified, in part, to this section, see section 1701g–5 of this title, and References in Text note thereunder.
 
 #### Admission of Alaska and Hawaii to Statehood
 

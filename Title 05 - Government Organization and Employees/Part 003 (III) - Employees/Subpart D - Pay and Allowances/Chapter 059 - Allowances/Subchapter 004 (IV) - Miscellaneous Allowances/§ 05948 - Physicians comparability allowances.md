@@ -22,7 +22,7 @@
 
 (d) Any agreement entered into by a physician under this section shall be for a period of one year of service in the agency involved unless the physician requests an agreement for a longer period of service.
 
-(e) Unless otherwise provided for in the agreement under subsection (f) of this section, an agreement under this section shall provide that the physician, in the event that such physician voluntarily, or because of misconduct, fails to complete at least one year of service pursuant to such agreement, shall be required to refund the total amount received under this section, unless the head of the agency, pursuant to such regulations as may be prescribed under this section by the President or his designee, determines that such failure is necessitated by circumstances beyond the control of the physician.
+(e) Unless otherwise provided for in the agreement under subsection (f) of this section, an agreement under this section shall provide that the physician, in the event that such physician voluntarily, or because of misconduct, fails to complete at least one year of service pursuant to such agreement, shall be required to refund the total amount received under this section, unless the head of the agency, pursuant to suchregulations as may be prescribed under this section by the President or his designee, determines that such failure is necessitated by circumstances beyond the control of the physician.
 
 (f) Any agreement under this section shall specify, subject to such regulations as the President or his designee may prescribe, the terms under which the head of the agency and the physician may elect to terminate such agreement, and the amounts, if any, required to be refunded by the physician for each reason for termination.
 
@@ -90,7 +90,7 @@ Section 2 of the Act of May 29, 1959 (Public Law 86–36, as amended, 50 U.S.C. 
 
 <b>2000</b>—Subsec. (d). Pub. L. 106–571, §2(a)(1), struck out second sentence which read as follows: “No agreement shall be entered into under this section later than September 30, 2005, nor shall any agreement cover a period of service extending beyond September 30, 2007.”
 
-Pub. L. 106–554 amended second sentence generally. Prior to amendment, second sentence read as follows: “No agreement shall be entered into under this section later than September 30, 2000, nor shall any agreement cover a period of service extending beyond September 30, 2002.”
+Pub. L. 106–554 amended second sentence generally. Prior to amendment, second sentence read as follows:“No agreement shall be entered into under this section later than September 30, 2000, nor shall any agreement cover a period of service extending beyond September 30, 2002.”
 
 Subsec. (h)(1). Pub. L. 106–571, §3(d), substituted “chapter 81 or 87” for “chapter 81, 83, or 87”.
 
@@ -166,19 +166,19 @@ Pub. L. 106–571, §1, Dec. 28, 2000, 114 Stat. 3054, provided that: “This Ac
 
 #### Short Title of 1983 Amendment
 
-Section 101 of title I of Pub. L. 98–168 provided that: “This title \[amending this section, enacting provisions set out below, and amending provisions set out as a note above\] may be cited as the ‘Federal Physicians Comparability Allowance Amendments of 1983’.”
+Pub. L. 98–168, title I, §101, Nov. 29, 1983, 97 Stat. 1105, provided that: “This title \[amending this section, enacting provisions set out below, and amending provisions set out as a note above\] may be cited as the ‘Federal Physicians Comparability Allowance Amendments of 1983’.”
 
 #### Short Title of 1981 Amendment
 
-Section 1 of Pub. L. 97–141 provided: “That this Act \[amending this section and section 8344 of this title and provisions set out below and enacting provisions set out as notes under this section and section 8344 of this title\] may be cited as the ‘Federal Physicians Comparability Allowance Amendments of 1981’.”
+Pub. L. 97–141, §1, Dec. 29, 1981, 95 Stat. 1719, provided: “That this Act \[amending this section and section 8344of this title and provisions set out below and enacting provisions set out as notes under this section and section 8344 of this title\] may be cited as the ‘Federal Physicians Comparability Allowance Amendments of 1981’.”
 
 #### Short Title of 1979 Amendment
 
-Section 1 of Pub. L. 96–166 provided: “That this Act \[amending this section and section 5383 of this title and provisions set out as a note under this section, and enacting provisions set out below\] may be cited as the ‘Federal Physicians Comparability Allowance Amendments of 1979’.”
+Pub. L. 96–166, §1, Dec. 29, 1979, 93 Stat. 1273, provided: “That this Act \[amending this section and section 5383 of this title and provisions set out as a note under this section, and enacting provisions set out below\] may be cited as the ‘Federal Physicians Comparability Allowance Amendments of 1979’.”
 
 #### Short Title
 
-Section 1 of Pub. L. 95–603 provided: “That this Act \[enacting this section and provisions set out as notes under this section\] may be cited as the ‘Federal Physicians Comparability Allowance Act of 1978’.”
+Pub. L. 95–603, §1, Nov. 6, 1978, 92 Stat. 3018, provided: “That this Act \[enacting this section and provisions set out as notes under this section\] may be cited as the ‘Federal Physicians Comparability Allowance Act of 1978’.”
 
 #### Construction of 1998 Amendment
 
@@ -186,9 +186,9 @@ Pub. L. 105–266, §7(c), Oct. 19, 1998, 112 Stat. 2370, provided that: “Noth
 
 #### Construction of 1993 Amendment
 
-Section 1(a)(4) of Pub. L. 103–114 provided that: “The amendments made by this subsection \[amending this section and provisions set out above\] shall not be construed to authorize additional or supplemental appropriations for the fiscal year ending September 30, 1993.”
+Pub. L. 103–114, §1(a)(4), Oct. 26, 1993, 107 Stat. 1115, provided that: “The amendments made by this subsection \[amending this section and provisions set out above\] shall not be construed to authorize additional or supplemental appropriations for the fiscal year ending September 30, 1993.”
 
-Section 1(c) of Pub. L. 103–114 provided that: “For purposes of applying the amendments made by this section \[amending this section and enacting and amending provisions set out as notes above\]—
+Pub. L. 103–114, §1(c), Oct. 26, 1993, 107 Stat. 1116, provided that: “For purposes of applying the amendments made by this section \[amending this section and enacting and amending provisions set out as notes above\]—
 
 &emsp;“(1) the provisions of subsection (b)(1) \[enacting and amending provisions set out as notes above\] shall be treated as having been enacted immediately before the provisions of subsection (b)(2) \[enacting and amending provisions set out as notes above\]; and
 
@@ -208,27 +208,27 @@ Limitation.—A modification taking effect under this subsection in any year sha
 
 #### Effectiveness of Service Agreements Limited by Appropriation Acts
 
-Section 1(a)(3) of Pub. L. 103–114 provided that: “Any service agreement entered into on or after the date of the enactment of this Act \[Oct. 26, 1993\] pursuant to section 5948 of title 5, United States Code, as amended by paragraph (1), shall be effective only to such extent or in such amounts as are provided in advance in appropriation Acts.”
+Pub. L. 103–114, §1(a)(3), Oct. 26, 1993, 107 Stat. 1115, provided that: “Any service agreement entered into on or after the date of the enactment of this Act \[Oct. 26, 1993\] pursuant to section 5948 of title 5, United States Code, as amended by paragraph (1), shall be effective only to such extent or in such amounts as are provided in advance in appropriation Acts.”
 
 #### Due Date for First Annual Report on Operation of Section
 
-Section 2(b) of Pub. L. 103–114 provided that: “The first report under section 5948(j) of title 5, UnitedStates Code, as amended by subsection (a), shall be due not later than June 30, 1994.”
+Pub. L. 103–114, §2(b), Oct. 26, 1993, 107 Stat. 1116, provided that: “The first report under section 5948(j) of title 5, United States Code, as amended by subsection (a), shall be due not later than June 30, 1994.”
 
 #### Pay of Certain Federal Physicians for Fiscal Year 1982
 
-Section 103 of Pub. L. 98–168 provided that any individual whose aggregate pay for fiscal year 1982 exceeded the limitation set forth in section 5383(b) of this title is relieved of all liability to the United States for any amounts paid to such individual in excess of such limitation if, and to the extent that, such liability takes into account any allowance paid under this section, provided for repayment to individuals relieved from liability of amounts already paid, and defined the terms “aggregate pay”, “appropriate agency head”, and “agency”.
+Pub. L. 98–168, title I, §103, Nov. 29, 1983, 97 Stat. 1105, provided that any individual whose aggregate pay for fiscal year 1982 exceeded the limitation set forth in section 5383(b) of this title is relieved of all liability to the United States for any amounts paid to such individual in excess of such limitation if, and to the extent that, such liability takes into account any allowance paid under this section, provided for repayment to individuals relieved from liability of amounts already paid, and defined the terms “aggregate pay”, “appropriate agency head”, and “agency”.
 
 #### Service Agreements Entered Into On or After December 29, 1981; Advance Authorization; Fiscal Year 1982
 
-Section 4 of Pub. L. 97–141 provided that any service agreement entered into on or after Dec. 29, 1981, pursuant to this section, as amended by section 2 of Pub. L. 97–141, shall be effective only to such extent or in such amounts as are provided in advance in appropriation Acts, and that the amendments made by Pub. L. 97–141 shall not be construed to authorize additional or supplemental appropriations for the fiscal year ending Sept. 30, 1982.
+Pub. L. 97–141, §4, Dec. 29, 1981, 95 Stat. 1719, provided that any service agreement entered into on or after Dec. 29, 1981, pursuant to this section, as amended by section 2 of Pub. L. 97–141, shall be effective only to such extent or in such amounts as are provided in advance in appropriation Acts, and that the amendments made by Pub. L. 97–141 shall not be construed to authorize additional or supplemental appropriations for the fiscal year ending Sept. 30, 1982.
 
 #### Service Agreements Entered Into On or After December 29, 1979; Advance Authorization
 
-Section 5 of Pub. L. 96–166 provided that any service agreement entered into on or after Dec. 29, 1979, pursuant to this section, as amended by section 2 of Pub. L. 96–166, shall be effective only to such extent or in such amounts as are provided in advance in appropriation Acts.
+Pub. L. 96–166, §5, Dec. 29, 1979, 93 Stat. 1273, provided that any service agreement entered into on or after Dec. 29, 1979, pursuant to this section, as amended by section 2 of Pub. L. 96–166, shall be effective only to such extent or in such amounts as are provided in advance in appropriation Acts.
 
 #### Time of Entry into Allowance Agreements and for Commencement of Allowance
 
-Section 2(c) of Pub. L. 95–603 provided that no agreement be entered into under this section before 60th day after Nov. 6, 1978, and that no agreement provide for payment of any allowance under such section for any pay period beginning before later of such 60th day, or Oct. 1, 1978.
+Pub. L. 95–603, §2(c), Nov. 6, 1978, 92 Stat. 3020, provided that no agreement be entered into under this section before 60th day after Nov. 6, 1978, and that no agreement provide for payment of any allowance under such section for any pay period beginning before later of such 60th day, or Oct. 1, 1978.
 
 #### Ex. Ord. No. 12109. Delegation of Authority to Director of Office of Personnel Management
 

@@ -122,7 +122,7 @@ The Secretary may make a grant under subsection (a) or (b) of this section only 
 
 #### (A) In general
 
-&emsp;&emsp;The Council shall submit a biennial report to the Secretary, as determined necessary by the Secretary, on the activities carried under this section. Each such report shall include the opinion of the Council on the extent to which its recommendations regarding the elimination of tuberculosis have been implemented, including with respect to—
+&emsp;&emsp;The Council shall submit a biennial report to the Secretary, as determined necessary by the Secretary, on the activities carriedunder this section. Each such report shall include the opinion of the Council on the extent to which its recommendations regarding the elimination of tuberculosis have been implemented, including with respect to—
 
 &emsp;&emsp;&emsp;(i) activities under subsection (b); and
 

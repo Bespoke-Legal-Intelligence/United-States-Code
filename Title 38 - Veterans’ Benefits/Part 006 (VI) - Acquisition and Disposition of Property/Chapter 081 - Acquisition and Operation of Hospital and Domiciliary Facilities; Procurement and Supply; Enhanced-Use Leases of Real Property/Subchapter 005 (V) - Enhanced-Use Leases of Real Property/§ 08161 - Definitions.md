@@ -6,7 +6,31 @@ For the purposes of this subchapter:
 
 &emsp;(2) The term “congressional veterans’ affairs committees” means the Committees on Veterans’ Affairs of the Senate and the House of Representatives.
 
-(Added Pub. L. 102–86, title IV, §401(a), Aug. 14, 1991, 105 Stat. 417.)
+&emsp;(3) The term “supportive housing” means housing that engages tenants in on-site and community-based support services for veterans or their families that are at risk of homelessness or are homeless. Such term may include the following:
+
+&emsp;&emsp;(A) Transitional housing.
+
+&emsp;&emsp;(B) Single-room occupancy.
+
+&emsp;&emsp;(C) Permanent housing.
+
+&emsp;&emsp;(D) Congregate living housing.
+
+&emsp;&emsp;(E) Independent living housing.
+
+&emsp;&emsp;(F) Assisted living housing.
+
+&emsp;&emsp;(G) Other modalities of housing.
+
+(Added Pub. L. 102–86, title IV, §401(a), Aug. 14, 1991, 105 Stat. 417; amended Pub. L. 112—154, title II, §211(a), Aug. 6, 2012, 126 Stat. 1179.)
+
+#### Amendments
+
+<b>2012</b>—Par. (3). Pub. L. 112–154 added par. (3).
+
+#### Effective Date of 2012 Amendment
+
+Pub. L. 112—154, title II, §211(k), Aug. 6, 2012, 126 Stat. 1182, provided that “Except as otherwise provided in this section \[enacting section 8168 of this title, amending this section and sections 8162, 8164 to 8167, and 8169 of this title, and enacting provisions set out as notes under sections 8162 and 8168 of this title\], the amendments made by this section shall take effect on the date of the enactment of this Act \[Aug. 6, 2012\].
 
 #### Training and Outreach Regarding Authority
 

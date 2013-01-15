@@ -24,7 +24,7 @@ Section 5091j, Pub. L. 93–113, title VII, §711, as added Pub. L. 101–610, t
 
 Section 5091k, Pub. L. 93–113, title VII, §712, as added Pub. L. 101–610, title II, §211, Nov. 16, 1990, 104 Stat. 3177, authorized management and technical assistance for projects.
 
-Section 5091<i>l</i>, Pub. L. 93–113, title VII, §713, as added Pub. L. 101–610, title II, §211, Nov. 16, 1990, 104 Stat. 3178, defined terms for purposes of this subchapter.
+Section 5091l, Pub. L. 93–113, title VII, §713, as added Pub. L. 101–610, title II, §211, Nov. 16, 1990, 104 Stat. 3178, defined terms for purposes of this subchapter.
 
 Section 5091m, Pub. L. 93–113, title VII, §715, as added Pub. L. 101–610, title II, §211, Nov. 16, 1990, 104 Stat. 3179; amended Pub. L. 102–10, §10, Mar. 12, 1991, 105 Stat. 32, directed issuance of necessary regulations.
 

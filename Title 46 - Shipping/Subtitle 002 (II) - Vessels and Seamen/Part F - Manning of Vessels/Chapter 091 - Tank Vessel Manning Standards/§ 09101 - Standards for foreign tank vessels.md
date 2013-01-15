@@ -20,7 +20,7 @@
 
 &emsp;(B) the entry is necessary for the safety of the vessel or individuals on the vessel.
 
-(b) A foreign vessel to which chapter 37 of this title applies that has on board oil or hazardousmaterial in bulk as cargo or cargo residue shall have a specified number of personnel certified as tankerman or equivalent, as required by the Secretary, when the vessel transfers oil or hazardous material in a port or place subject to the jurisdiction of the United States. The requirement of this subsection shall be noted in applicable terminal operating procedures. A transfer operation may take place only if the crewmember in charge is capable of clearly understanding instructions in English.
+(b) A foreign vessel to which chapter 37 of this title applies that has on board oil or hazardous material in bulk as cargo or cargo residue shall have a specified number of personnel certified as tankerman or equivalent, as required by the Secretary, when the vessel transfers oil or hazardous material in a port or place subject to the jurisdiction of the United States. The requirement of this subsection shall be noted in applicable terminal operating procedures. A transfer operation may take place only if the crewmember in charge is capable of clearly understanding instructions in English.
 
 (Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 556; Pub. L. 101–380, title IV, §4106(a), Aug. 18, 1990, 104 Stat. 513.)
 
@@ -38,7 +38,7 @@ Historical and Revision Notes
 
 46:391a(10)(B)
 
-Section 9101 requires monitoring of manning standards for foreign tank vessels operating on the navigable waters of the United States and transferring oil or hazardous material in the United States.
+Section 9101 requires monitoring of manning standards for foreign tank vessels operating on the navigablewaters of the United States and transferring oil or hazardous material in the United States.
 
 Subsection (a) requires the Secretary of Transportation to evaluate the manning, training, qualification, and watchkeeping standards of foreign countries whose tank vessels operate on United States waters, or use transfer facilities, and to decide if the standards are equivalent or more stringent than United States standards.
 

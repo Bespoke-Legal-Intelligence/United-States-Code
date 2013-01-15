@@ -22,7 +22,7 @@ Pub. L. 104–134, title I, §101(c) \[title III, §327\], Apr. 26, 1996, 110 St
 
 “(b)(1) From the funds deposited into the Agriculture Fund and into the Interior Fund pursuant to subsection (a)—
 
-&emsp;“(A) seventy-five percent shall be available, without fiscal year limitation or further appropriation,for preparation of timber sales, other than salvage sales as defined in section 2001(a)(3) of the fiscal year 1995 Supplemental Appropriations for Disaster Assistance and Rescissions Act \[probably means section 2001(a)(3) of Pub. L. 104–19, set out below\], which—
+&emsp;“(A) seventy-five percent shall be available, without fiscal year limitation or further appropriation, for preparation of timber sales, other than salvage sales as defined in section 2001(a)(3) of the fiscal year 1995 Supplemental Appropriations for Disaster Assistance and Rescissions Act \[probably means section 2001(a)(3) of Pub. L. 104–19, set out below\], which—
 
 &emsp;&emsp;“(i) are situated on lands within the National Forest System and lands administered by the Bureau of Land Management, respectively; and
 

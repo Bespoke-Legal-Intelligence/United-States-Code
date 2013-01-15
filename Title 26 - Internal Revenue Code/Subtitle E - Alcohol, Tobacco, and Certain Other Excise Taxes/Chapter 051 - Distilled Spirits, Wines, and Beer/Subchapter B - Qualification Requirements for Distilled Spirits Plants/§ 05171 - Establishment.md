@@ -16,7 +16,7 @@ A distilled spirits plant may be established only by a person who intends to con
 
 #### (2) Application required where new operations are added
 
-&emsp;No operation in addition to those set forth in the application made pursuant to paragraph\(1) may be conducted at a distilled spirits plant until the person has made application to the Secretary for, and received notice of, the registration of such additional operation.
+&emsp;No operation in addition to those set forth in the application made pursuant to paragraph (1) may be conducted at a distilled spirits plant until the person has made application to the Secretary for, and received notice of, the registration of such additional operation.
 
 #### (3) Secretary may establish minimum capacity and level of activity requirements
 
@@ -92,7 +92,7 @@ Section effective July 1, 1959, see section 210(a)(1) of Pub. L. 85–859, set o
 
 #### Transitional Rules Relating to All-In-Bond Method
 
-Section 809(a), (b) of Pub. L. 96–39, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 96–39, title VIII, §809(a), (b), July 26, 1979, 93 Stat. 292, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(a)
 
@@ -104,7 +104,7 @@ In general.—For purposes of section 5171 of the Internal Revenue Code of 1986 
 
 &emsp;“(2)
 
-Current registration to remain in effect.—Notwithstanding paragraph (1), the registration ofany person under section 5171 of the Internal Revenue Code of 1986 which is in effect on December 31, 1979, shall remain in effect until final action on the application required by paragraph (1).
+Current registration to remain in effect.—Notwithstanding paragraph (1), the registration of any person under section 5171 of the Internal Revenue Code of 1986 which is in effect on December 31, 1979, shall remain in effect until final action on the application required by paragraph (1).
 
 “(b)
 

@@ -28,7 +28,7 @@ Except as provided in subsection (b), no gain or loss shall be recognized to a c
 
 &emsp;If the property distributed consists of an interest in a partnership or trust, the Secretary may by regulations provide that the amount of the gain recognized under paragraph (1) shall be computed without regard to any loss attributable to property contributed to the partnership or trust for the principal purpose of recognizing such loss on the distribution.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 94; Pub. L. 91–172, title IX, §905(a), (b)(1), Dec. 30, 1969, 83 Stat. 713, 714; Pub. L. 94–452, §2(b), Oct. 2, 1976, 90 Stat. 1511; Pub. L. 94–455, title XIX, §1901(a)(42)(A), (B)(i), (C), Oct. 4, 1976, 90 Stat. 1771; Pub. L. 95–600, title VII, §703(j)(2)(A), (B), Nov. 6, 1978, 92 Stat. 2941; Pub. L. 96–471, §2(b)(1), Oct. 19, 1980, 94 Stat. 2253; Pub. L. 97–248, title II, §223(a), Sept. 3, 1982, 96 Stat. 483; Pub. L. 98–369, div. A, title I, §54(a), title VII, §712(j), July 18, 1984, 98 Stat. 568, 948; Pub. L. 99–514, title VI, §631(c), Oct. 22,1986, 100 Stat. 2272; Pub. L. 100–647, title I, §§1006(e)(8)(B), (21)(B), 1018(d)(5)(E), Nov. 10, 1988, 102 Stat. 3401, 3403, 3580.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 94; Pub. L. 91–172, title IX, §905(a), (b)(1), Dec. 30, 1969, 83 Stat. 713, 714; Pub. L. 94–452, §2(b), Oct. 2, 1976, 90 Stat. 1511; Pub. L. 94–455, title XIX, §1901(a)(42)(A), (B)(i), (C), Oct. 4, 1976, 90 Stat. 1771; Pub. L. 95–600, title VII, §703(j)(2)(A), (B), Nov. 6, 1978, 92 Stat. 2941; Pub. L. 96–471, §2(b)(1), Oct. 19, 1980, 94 Stat. 2253; Pub. L. 97–248, title II, §223(a), Sept. 3, 1982, 96 Stat. 483; Pub. L. 98–369, div. A, title I, §54(a), title VII, §712(j), July 18, 1984, 98 Stat. 568, 948; Pub. L. 99–514, title VI, §631(c), Oct. 22, 1986, 100 Stat. 2272; Pub. L. 100–647, title I, §§1006(e)(8)(B), (21)(B), 1018(d)(5)(E), Nov. 10, 1988, 102 Stat. 3401, 3403, 3580.)
 
 #### Amendments
 
@@ -46,7 +46,7 @@ Subsec. (d)(1). Pub. L. 98–369, §54(a)(1), substituted “This subsection sha
 
 Subsec. (d)(1)(A). Pub. L. 98–369, §54(a)(1), struck out “of part or all of his stock in such corporation” before “and”.
 
-Subsec. (d)(2)(A). Pub. L. 98–369, §54(a)(2)(A), substituted provisions relating to a distribution which is made with respect to qualified stock if section 302(b)(4) applies to such distribution or such distribution is a qualified distribution for provisions which had related to a distribution to a corporate shareholder if the basis of the property distributed was determined under section 301(d)(2).
+Subsec. (d)(2)(A). Pub. L. 98–369, §54(a)(2)(A), substituted provisions relating to a distribution which is made with respect to qualified stock if section 302(b)(4)applies to such distribution or such distribution is a qualified distribution for provisions which had related to a distribution to a corporate shareholder if the basis of the property distributed was determined under section 301(d)(2).
 
 Subsec. (d)(2)(B) to (F). Pub. L. 98–369, §54(a)(2)(A), (B), redesignated subpars. (C) to (F) as (B) to (E), respectively, and struck out former subpar. (B) which related to distributions to which section 302(b)(4) applied and which were made with respect to qualified stock.
 
@@ -86,7 +86,7 @@ Amendment by Pub. L. 99–514 applicable to any distribution in complete liquida
 
 #### Effective Date of 1984 Amendment
 
-Section 54(d) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, title XVIII, §1804(b)(3), Oct. 22, 1986, 100 Stat. 2095, 2799; Pub. L. 100–647, title I, §1018(d)(1)–(3), Nov. 10, 1988, 102 Stat. 3578, provided that:
+Pub. L. 98–369, div. A, title I, §54(d), July 18, 1984, 98 Stat. 569, as amended by Pub. L. 99–514, §2, title XVIII, §1804(b)(3), Oct. 22, 1986, 100 Stat. 2095, 2799; Pub. L. 100–647, title I, §1018(d)(1)–(3), Nov. 10, 1988, 102 Stat. 3578, provided that:
 
 “(1)
 
@@ -202,9 +202,9 @@ Exception for certain distribution of partnership interests.—The amendments ma
 
 Amendment by section 712(j) of Pub. L. 98–369 effective as if included in the provision of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section 715 of Pub. L. 98–369, set out as a note under section 31 of this title.
 
-#### Effective Date of 1982 Amendments; Exceptions
+#### Effective Date of 1982 Amendment; Exceptions
 
-Section 223(b) of Pub. L. 97–248, as amended by Pub. L. 97–448, title III, §306(a)(7), Jan. 12, 1983, 96 Stat. 2402; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 97–248, title II, §223(b), Sept. 3, 1982, 96 Stat. 484, as amended by Pub. L. 97–448, title III, §306(a)(7), Jan. 12, 1983, 96 Stat. 2402; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 
@@ -220,7 +220,7 @@ Distributions pursuant to ruling requests before july 23, 1982.—In the case of
 
 “(3)
 
-Distributions pursuant to final judgments of court.—In the case of a final judgment described in section 311(d)(2)(C) of such Code (as in effect before the amendments made by this section) rendered beforeJuly 23, 1982, the amendments made by this section \[amending this section\] shall not apply to distributions made before January 1, 1986, pursuant to such judgment.
+Distributions pursuant to final judgments of court.—In the case of a final judgment described in section 311(d)(2)(C) of such Code (as in effect before the amendments made by this section) rendered before July 23, 1982, the amendments made by this section \[amending this section\] shall not apply to distributions made before January 1, 1986, pursuant to such judgment.
 
 “(4)
 
@@ -250,19 +250,19 @@ For effective date of amendment by Pub. L. 96–471, see section 6(a)(1) of Pub.
 
 #### Effective Date of 1978 Amendment
 
-Section 703(j)(2)(C) of Pub. L. 95–600 provided that: “The amendments made by this paragraph \[amending this section\] shall take effect as if included in section 2(b) of the Bank Holding Company Tax Act of 1976 \[amending this section\].”
+Pub. L. 95–600, title VII, §703(j)(2)(C), Nov. 6, 1978, 92 Stat. 2941, provided that: “The amendments made by this paragraph \[amending this section\] shall take effect as if included in section 2(b) of the Bank Holding Company Tax Act of 1976 \[amending this section\].”
 
-#### Effective Date of 1976 Amendments
+#### Effective Date of 1976 Amendment
 
 Amendment by section 1901(a)(42)(A), (C) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
-Section 1901(a)(42)(B)(ii) of Pub. L. 94–455 provided that: “The amendments made by clause (i) \[amending this section\] shall apply only with respect to distributions after November 30, 1974.”
+Pub. L. 94–455, title XIX, §1901(a)(42)(B)(ii), Oct. 4, 1976, 90 Stat. 1771, provided that: “The amendments made by clause (i) \[amending this section\] shall apply only with respect to distributions after November 30, 1974.”
 
-Section 2(d)(4) of Pub. L. 94–452 provided that: “The amendment made by subsection (b) \[amending this section\] shall take effect on October 1, 1977, with respect to distributions after December 31, 1975, in taxable years ending after December 31, 1975.”
+Pub. L. 94–452, §2(d)(4), Oct. 2, 1976, 90 Stat. 1512, provided that: “The amendment made by subsection (b) \[amending this section\] shall take effect on October 1, 1977, with respect to distributions after December 31, 1975, in taxable years ending after December 31, 1975.”
 
 #### Effective Date of 1969 Amendment
 
-Section 905(c) of Pub. L. 91–172, as amended by Pub. L. 91–675, Jan. 12, 1971, 84 Stat. 2059, provided that:
+Pub. L. 91–172, title IX, §905(c), Dec. 30, 1969, 83 Stat. 714, as amended by Pub. L. 91–675, Jan. 12, 1971, 84 Stat. 2059, provided that:
 
 “(1) Except as provided in paragraphs (2), (3), (4), and (5), the amendments made by subsections (a) and (b) \[amending this section and sections 301 and 312 of this title\] shall apply with respect to distributions after November 30, 1969.
 

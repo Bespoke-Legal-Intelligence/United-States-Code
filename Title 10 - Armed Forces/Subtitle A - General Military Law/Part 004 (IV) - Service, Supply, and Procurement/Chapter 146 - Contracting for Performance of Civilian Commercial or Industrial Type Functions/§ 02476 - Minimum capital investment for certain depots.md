@@ -10,7 +10,7 @@ Capital Budget.—For purposes of this section, the capital budget of a depot in
 
 (c)
 
-Waiver.—The Secretary of Defense may waive the requirement under subsection (a) with respect to a military department for a fiscalyear if the Secretary determines that the waiver is necessary for reasons of national security. Whenever the Secretary makes such a waiver, the Secretary shall notify the congressional defense committees of the waiver and the reasons for the waiver.
+Waiver.—The Secretary of Defense may waive the requirement under subsection (a) with respect to a military department for a fiscal year if the Secretary determines that the waiver is necessary for reasons of national security. Whenever the Secretary makes such a waiver, the Secretary shall notify the congressional defense committees of the waiver and the reasons for the waiver.
 
 (d)
 

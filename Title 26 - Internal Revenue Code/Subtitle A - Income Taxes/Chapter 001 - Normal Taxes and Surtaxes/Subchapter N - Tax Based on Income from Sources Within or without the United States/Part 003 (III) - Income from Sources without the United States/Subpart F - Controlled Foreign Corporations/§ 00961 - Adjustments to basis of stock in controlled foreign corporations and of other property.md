@@ -40,7 +40,7 @@ Pub. L. 109–135, title IV, §409(d), Dec. 21, 2005, 119 Stat. 2636, provided t
 
 #### Effective Date of 1997 Amendment
 
-Section 1112(b)(2) of Pub. L. 105–34 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply for purposes of determining inclusions for taxable years of United States shareholders beginning after December 31, 1997.”
+Pub. L. 105–34, title XI, §1112(b)(2), Aug. 5, 1997, 111 Stat. 969, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply for purposes of determining inclusions for taxable years of United States shareholders beginning after December 31, 1997.”
 
 #### Dual Resident Companies
 

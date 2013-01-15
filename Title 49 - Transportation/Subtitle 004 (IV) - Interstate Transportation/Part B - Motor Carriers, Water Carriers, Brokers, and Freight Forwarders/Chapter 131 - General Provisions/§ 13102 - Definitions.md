@@ -168,7 +168,7 @@ Taxicab service.—The term “taxicab service” means passenger transportation
 
 Transportation.—The term “transportation” includes—
 
-&emsp;&emsp;(A) a motor vehicle, vessel, warehouse, wharf, pier, dock, yard, property, facility, instrumentality, or equipment of any kind related to the movement of passengers or property, or both, regardless of ownership or an agreement concerning use; and
+&emsp;&emsp;(A) a motor vehicle, vessel, warehouse, wharf, pier, dock, yard, property, facility, instrumentality, or equipment of any kindrelated to the movement of passengers or property, or both, regardless of ownership or an agreement concerning use; and
 
 &emsp;&emsp;(B) services related to that movement, including arranging for, receipt, delivery, elevation, transfer in transit, refrigeration, icing, ventilation, storage, handling, packing, unpacking, and interchange of passengers and property.
 

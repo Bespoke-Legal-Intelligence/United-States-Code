@@ -48,7 +48,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(ii) A child who is not insured.
 
-&emsp;&emsp;&emsp;(iii) A child who (I) is administered a qualified pediatric vaccine by a federally-qualified health center (as defined in section 1396d(<i>l</i>)(2)(B) of this title) or a rural health clinic (as defined in section 1396d(<i>l</i>)(1) of this title), and (II) is not insured with respect to the vaccine.
+&emsp;&emsp;&emsp;(iii) A child who (I) is administered a qualified pediatric vaccine by a federally-qualified health center (as defined in section 1396d(l)(2)(B) of this title) or a rural health clinic (as defined in section 1396d(l)(1) of this title), and (II) is not insured with respect to the vaccine.
 
 &emsp;&emsp;&emsp;(iv) A child who is an Indian (as defined in subsection (h)(3) of this section).
 
@@ -78,7 +78,7 @@ For purposes of this section:
 
 &emsp;&emsp;(B) submits to the State an executed provider agreement described in paragraph (2); and
 
-&emsp;&emsp;(C) has not been found, by the Secretary or the State, to have violated such agreement or other applicable requirements established by the Secretary or the State consistent with this section.
+&emsp;&emsp;(C) has not been found, by the Secretary or the State, to have violated such agreementor other applicable requirements established by the Secretary or the State consistent with this section.
 
 #### (2) Provider agreement
 
@@ -148,7 +148,7 @@ For purposes of this section:
 
 #### (5) Charges for shipping and handling
 
-&emsp;The Secretary may enter into a contract referred to in paragraph (1) only if the manufacturer involved agrees to submit to the Secretary such reports as the Secretary determines to be appropriate to assure compliance with the contract and if, with respect to a State program under this section that does not provide for the direct delivery of qualified pediatric vaccines, the manufacturer involved agrees that the manufacturer will provide for the delivery of the vaccines on behalf of the State in accordance with such program andwill not impose any charges for the costs of such delivery (except to the extent such costs are provided for in the price established under paragraph (3)).
+&emsp;The Secretary may enter into a contract referred to in paragraph (1) only if the manufacturer involved agrees to submit to the Secretary such reports as the Secretary determines to be appropriate to assure compliance with the contract and if, with respect to a State program under this section that does not provide for the direct delivery of qualified pediatric vaccines, the manufacturer involved agrees that the manufacturer will provide for the delivery of the vaccines on behalf of the State in accordance with such program and will not impose any charges for the costs of such delivery (except to the extent such costs are provided for in the price established under paragraph (3)).
 
 #### (6) Assuring adequate supply of vaccines
 

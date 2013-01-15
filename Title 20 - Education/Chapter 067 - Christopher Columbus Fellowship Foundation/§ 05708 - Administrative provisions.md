@@ -12,7 +12,7 @@
 
 &emsp;(5) accept and utilize the services of voluntary and uncompensated personnel and reimburse them for travel expenses, including per diem, as authorized by section 5703 of title 5;
 
-&emsp;(6) enter into contracts, grants, or other arrangements, or modifications thereof, to carry out the provisions of this chapter, and such contracts or modifications thereof may, with the concurrence of two-thirds of the members of the Board, be entered into without performance or other bonds, and without regard to section 6101 of title 41;
+&emsp;(6) enter into contracts, grants, or other arrangements, or modifications thereof, to carry out the provisions of this chapter,<sup>1</sup> and such contracts or modifications thereof may, with the concurrence of two-thirds of the members of the Board, be entered into without performance or other bonds, and without regard to section 6101 of title 41;
 
 &emsp;(7) make advances, progress, and other payments which the Board deems necessary under this chapter without regard to the provisions of section 3324(a) and (b) of title 31;
 
@@ -34,6 +34,8 @@ The General Schedule, referred to in subsec. (a)(1), is set out under section 53
 
 Executive Level V, referred to in subsec. (a)(2), probably means level V of the Executive Schedule, which is set out in section 5316 of Title 5.
 
+This chapter, referred to in subsec. (a)(6), was in the original “this chapter” and was translated as reading “this subtitle” meaning subtitle B (§§421–430) of title IV of Pub. L. 102–281 which enacted this chapter, to reflect the probable intent of Congress.
+
 #### Codification
 
 In subsec. (a)(6), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
@@ -43,4 +45,6 @@ In subsec. (a)(7), “section 3324(a) and (b) of title 31” substituted for ref
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions in subsec. (b) of this section relating to submitting an annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 156 of House Document No. 103–7.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

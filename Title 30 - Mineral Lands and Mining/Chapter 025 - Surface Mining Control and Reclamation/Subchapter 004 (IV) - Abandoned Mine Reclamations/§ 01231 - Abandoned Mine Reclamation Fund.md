@@ -66,7 +66,7 @@ The Secretary of the Interior shall notify the Secretary of the Treasury as to w
 
 #### (1) In general
 
-&emsp;From amounts deposited into the fund under subsection (b), the Secretary shall distribute during each fiscal year beginning after September 30, 2007, an amount determined under paragraph (2).
+&emsp;From amounts deposited into the fund under subsection (b), the Secretary shall distributeduring each fiscal year beginning after September 30, 2007, an amount determined under paragraph (2).
 
 #### (2) Amounts
 
@@ -156,11 +156,11 @@ Subsec. (e). Pub. L. 101–508, §6002(c), added subsec. (e).
 
 #### Effective Date of 1990 Amendment
 
-Section 6014 of Pub. L. 101–508 provided that: “The amendments made by this subtitle \[subtitle A (§§6001–6014) of title VI of Pub. L. 101–508, enacting section 1240a of this title and amending this section and sections 1232 to 1237, 1239, 1257, and 1302 of this title\] shall take effect at the beginning of the first fiscal year \[Oct. 1, 1991\] immediately following the fiscal year in which this subtitle is enacted.”
+Pub. L. 101–508, title VI, §6014, Nov. 5, 1990, 104 Stat. 1388–298, provided that: “The amendments made by this subtitle \[subtitle A (§§6001–6014) of title VI of Pub. L. 101–508, enacting section 1240a of this title and amending this section and sections 1232 to 1237, 1239, 1257, and 1302 of this title\] shall take effect at the beginning of the first fiscal year \[Oct. 1, 1991\] immediately following the fiscal year in which this subtitle is enacted.”
 
 #### Savings Provision
 
-Section 6013 of Pub. L. 101–508 provided that: “Nothing in this subtitle \[subtitle A (§§6001–6014) of title VI of Pub. L. 101–508, see Short Title of 1990 Amendment note set out under section 1201 of this title\] shall be construed to affect the certifications made by the State of Wyoming, the State of Montana, and the State of Louisiana to the Secretary of the Interior prior to the date of enactment of this subtitle \[Nov. 5, 1990\] that such State has completed the reclamation of eligible abandoned coal mine lands.”
+Pub. L. 101–508, title VI, §6013, Nov. 5, 1990, 104 Stat. 1388–298, provided that: “Nothing in this subtitle \[subtitle A (§§6001–6014) of title VI of Pub. L. 101–508, see Short Title of 1990 Amendment note set out under section 1201 of this title\] shall be construed to affect the certifications made by the State of Wyoming, the State of Montana, and the State of Louisiana to the Secretary of the Interior prior to the date of enactment of this subtitle \[Nov. 5, 1990\] that such State has completed the reclamation of eligible abandoned coal mine lands.”
 
 #### Abandoned Mine Reclamation Fund; Deposit and Expenditure of Certain Donations
 

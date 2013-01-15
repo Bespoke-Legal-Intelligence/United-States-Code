@@ -12,5 +12,5 @@ Officials performing functions pursuant to this chapter shall secure balanced, d
 
 #### Executive Order No. 11962
 
-Ex. Ord. No. 11962, Jan. 19, 1977, 42 F.R. 4323, which established the President's Advisory Board on International Investment, was revoked by Ex. Ord. No. 12007, Aug. 22, 1977, 42 F.R. 42839, set out as a note under section 14 of Appendix of Title 5, Government Organization and Employees.
+Ex. Ord. No. 11962, Jan. 19, 1977, 42 F.R. 4323, which established the President's Advisory Board on International Investment, was revoked by Ex. Ord. No. 12007, Aug. 22, 1977, 42 F.R. 42839, formerly set out as a note under section 14 of Appendix of Title 5, Government Organization and Employees.
 

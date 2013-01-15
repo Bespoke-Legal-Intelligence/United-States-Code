@@ -50,7 +50,7 @@ In the case of a farm for which a farm program payment yield is unavailable for 
 
 &emsp;&emsp;&emsp;(ii) 70 percent of the difference between—
 
-&emsp;&emsp;&emsp;&emsp;(I) the average yield per planted acre for the crop of the covered commodityon the farm for the 1998 through 2001 crop years, as determined by the Secretary, excluding any crop year in which the acreage planted to the crop of the covered commodity was zero; and
+&emsp;&emsp;&emsp;&emsp;(I) the average yield per planted acre for the crop of the covered commodity on the farm for the 1998 through 2001 crop years, as determined by the Secretary, excluding any crop year in which the acreage planted to the crop of the covered commodity was zero; and
 
 &emsp;&emsp;&emsp;&emsp;(II) the payment yield applicable for direct payments for the covered commodity on the farm.
 

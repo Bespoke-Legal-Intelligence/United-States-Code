@@ -24,7 +24,7 @@
 
 #### (c) Venue and consolidation
 
-(1)(A) An action under subsection (a) of this section against a person who manufactures,processes, or distributes a chemical substance or mixture or an article containing a chemical substance or mixture may be brought in the United States District Court for the District of Columbia, or for any judicial district in which any of the defendants is found, resides, or transacts business; and process in such an action may be served on a defendant in any other district in which such defendant resides or may be found. An action under subsection (a) of this section against a chemical substance, mixture, or article may be brought in any United States district court within the jurisdiction of which the substance, mixture, or article is found.
+(1)(A) An action under subsection (a) of this section against a person who manufactures, processes, or distributes a chemical substance or mixture or an article containing a chemical substance or mixture may be brought in the United States District Court for the District of Columbia or for any judicial district in which any of the defendants is found, resides, or transacts business; and process in such an action may be served on a defendant in any other district in which such defendant resides or may be found. An action under subsection (a) of this section against a chemical substance, mixture, or article may be brought in any United States district court within the jurisdiction of which the substance, mixture, or article is found.
 
 (B) In determining the judicial district in which an action may be brought under subsection (a) of this section in instances in which such action may be brought in more than one judicial district, the Administrator shall take into account the convenience of the parties.
 
@@ -42,7 +42,7 @@ Notwithstanding any other provision of law, in any action under subsection (a) o
 
 #### (f) “Imminently hazardous chemical substance or mixture” defined
 
-For the purposes of subsection (a) of this section, the term “imminently hazardous chemical substance or mixture” means a chemical substance or mixture which presents an imminent and unreasonable risk of serious or widespread injury to health or the environment. Such a risk to health or the environment shall be considered imminent if it is shown that the manufacture, processing, distribution in commerce, use, or disposal of the chemical substance or mixture, or that any combination of such activities, is likely to result in such injury to health or the environment before a final rule under section 2605 of this title can protect against such risk.
+For the purposes of subsection (a) of this section, the term “imminently hazardous chemicalsubstance or mixture” means a chemical substance or mixture which presents an imminent and unreasonable risk of serious or widespread injury to health or the environment. Such a risk to health or the environment shall be considered imminent if it is shown that the manufacture, processing, distribution in commerce, use, or disposal of the chemical substance or mixture, or that any combination of such activities, is likely to result in such injury to health or the environment before a final rule under section 2605 of this title can protect against such risk.
 
 (Pub. L. 94–469, title I, §7, Oct. 11, 1976, 90 Stat. 2026; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 102–550, title X, §1021(b)(1), Oct. 28, 1992, 106 Stat. 3923.)
 

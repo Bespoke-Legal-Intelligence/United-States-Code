@@ -30,7 +30,7 @@ Any regulation under subsection (a) of this section shall be issued, and shall b
 
 #### (2) Infants and toddlers with disabilities
 
-&emsp;The responsibility to provide comparable early intervention services to infants and toddlers with disabilities and their families in accordance with individualized family service plans described in section 636 of the Individuals with Disabilities Education Act \[20 U.S.C. 1436\] and to comply with the procedural safeguards set forth in part C of such Act \[20 U.S.C. 1431 et seq.\] shall apply with respect to all eligible dependents overseas.
+&emsp;The responsibility to provide comparable early intervention services to infants and toddlers with disabilities and their families in accordance with individualized family service plans described in section 636 of the Individuals with Disabilities Education Act \[20 U.S.C.1436\] and to comply with the procedural safeguards set forth in part C of such Act \[20 U.S.C. 1431 et seq.\] shall apply with respect to all eligible dependents overseas.
 
 #### (3) Implementation
 
@@ -56,7 +56,7 @@ Subsec. (c)(3). Pub. L. 106–65, §354(3)(C), substituted “Implementation” 
 
 #### Effective Date of 1991 Amendment
 
-Section 27 of Pub. L. 102–119 provided that:
+Pub. L. 102–119, §27, Oct. 7, 1991, 105 Stat. 608, provided that:
 
 “(a)
 

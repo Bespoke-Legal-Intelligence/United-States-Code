@@ -26,7 +26,7 @@ Congress finds the following:
 
 &emsp;(9) The Federal Government and State and local governments and agencies in other jurisdictions may benefit from such information.
 
-&emsp;(10) Federal, State, and local governments and intelligence, law enforcement, and other emergency preparation and response agencies must act in partnership to maximize the benefits of information gathering and analysis to prevent and respond to terrorist attacks.
+&emsp;(10) Federal, State, and local governments and intelligence, law enforcement, and otheremergency preparation and response agencies must act in partnership to maximize the benefits of information gathering and analysis to prevent and respond to terrorist attacks.
 
 &emsp;(11) Information systems, including the National Law Enforcement Telecommunications System and the Terrorist Threat Warning System, have been established for rapid sharing of classified and sensitive but unclassified information among Federal, State, and local entities.
 

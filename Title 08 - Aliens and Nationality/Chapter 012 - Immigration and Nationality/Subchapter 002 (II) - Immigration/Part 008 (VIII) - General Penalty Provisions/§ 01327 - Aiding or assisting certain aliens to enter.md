@@ -26,5 +26,5 @@ Amendment by section 603(a)(16) of Pub. L. 101–649 applicable to individuals e
 
 #### Effective Date of 1988 Amendment
 
-Section 7346(b) of Pub. L. 100–690 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to any aid or assistance which occurs on or after the date of the enactment of this Act \[Nov. 18, 1988\].”
+Pub. L. 100–690, title VII, §7346(b), Nov. 18, 1988, 102 Stat. 4471, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to any aid or assistance which occurs on or after the date of the enactment of this Act \[Nov. 18, 1988\].”
 

@@ -18,7 +18,7 @@
 
 &emsp;(1) The term “agency” does not include the government of the District of Columbia.
 
-&emsp;(2) The term “approved places of public accommodation” means hotels, motels, and other places of public accommodation that are listed by the Administrator of the Federal Emergency Management Agency as meeting the requirements of the fire prevention and control guidelines described in section 29 of the Federal Fire Prevention and Control Act of 1974 (15 U.S.C. 2225).
+&emsp;(2) The term “approved places of public accommodation” means hotels, motels, andother places of public accommodation that are listed by the Administrator of the Federal Emergency Management Agency as meeting the requirements of the fire prevention and control guidelines described in section 29 of the Federal Fire Prevention and Control Act of 1974 (15 U.S.C. 2225).
 
 &emsp;(3) The term “State” means any State, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the Trust Territory of the Pacific Islands, the Virgin Islands, Guam, American Samoa, or any other territory or possession of the United States.
 
@@ -38,7 +38,7 @@ Pub. L. 105–85, §1107(a)(1), redesignated subsec. (b) as (c). Former subsec. 
 
 Subsec. (d). Pub. L. 105–85, §1107(a)(1), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 105–85, §1107(c)(3), substituted “facilitate the ability of” for “encourage” and “approved places of public accommodation” for “places of publicaccommodation that meet the requirements of the fire prevention and control guidelines described in section 29 of the Federal Fire Prevention and Control Act of 1974”.
+Subsec. (e). Pub. L. 105–85, §1107(c)(3), substituted “facilitate the ability of” for “encourage” and “approved places of public accommodation” for “places of public accommodation that meet the requirements of the fire prevention and control guidelines described in section 29 of the Federal Fire Prevention and Control Act of 1974”.
 
 Pub. L. 105–85, §1107(a)(1), redesignated subsec. (d) as (e).
 
@@ -50,7 +50,7 @@ Subsec. (f). Pub. L. 105–85, §1107(b), added subsec. (f).
 
 #### Effective Date
 
-Section 4(c) of Pub. L. 101–391 provided that: “The amendments made by this section \[enacting this section\] shall take effect 60 days after the date of the publication in the Federal Register \[Nov. 24, 1992, 57 F.R. 55314\] of the master list of certified places of public accommodation maintained by the Director \[now Administrator\] of the Federal Emergency Management Agency pursuant to section 28(b) of the Federal Fire Prevention and Control Act of 1974 \[15 U.S.C. 2224(b)\] (as added by section 3 of this Act).”
+Pub. L. 101–391, §4(c), Sept. 25, 1990, 104 Stat. 750, provided that: “The amendments made by this section \[enacting this section\] shall take effect 60 days after the date of the publication in the Federal Register \[Nov. 24, 1992, 57 F.R. 55314\] of the master list of certified places of public accommodation maintained by the Director \[now Administrator\] of the Federal Emergency Management Agency pursuant to section 28(b) of the Federal Fire Prevention and Control Act of 1974 \[15 U.S.C. 2224(b)\] (as added by section 3 of this Act).”
 
 #### Termination of Trust Territory of the Pacific Islands
 

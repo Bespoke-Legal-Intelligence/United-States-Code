@@ -12,7 +12,7 @@
 
 #### (3) Evidence
 
-&emsp;If a local educational agency believes that the Secretary's determination under this subsection is in error for statistical or other substantive reasons, the local educational agency may provide supporting evidence to the Secretary, and the Secretary shall consider that evidence before making a final early termination determination.
+&emsp;If a local educational agency believes that the Secretary's determination under this subsection is in error for statistical or other substantive reasons, the local educational agency may provide supporting evidence to the Secretary, and the Secretary shall consider thatevidence before making a final early termination determination.
 
 #### (b) Final review
 

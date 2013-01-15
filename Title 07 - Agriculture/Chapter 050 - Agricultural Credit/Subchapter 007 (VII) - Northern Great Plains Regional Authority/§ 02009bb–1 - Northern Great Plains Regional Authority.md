@@ -236,7 +236,7 @@ A Federal agency shall—
 
 #### (A) In general
 
-&emsp;&emsp;A State shall compensate each member and alternate representing the State on the Authority at the rate established by State law.
+&emsp;&emsp;A State shall compensate each member and alternate representing the State on theAuthority at the rate established by State law.
 
 #### (B) No additional compensation
 

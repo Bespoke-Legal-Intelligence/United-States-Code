@@ -296,7 +296,7 @@ Amendment by Pub. L. 111–148 is based on section 104 of title I of S. 1790, On
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–148 substituted “In this chapter:” for “For purposes of this chapter—” in introductory provisions, redesignated pars. in subsecs. (c), (j), (k), and (<i>l</i>) as subpars. and realigned margins, redesignated subsecs. (a) to (q) as pars. (17), (18), (13), (14), (26), (28), (27), (29), (1), (20), (11), (7), (19), (10), (21), (8), and (9), respectively, and realigned margins, struck out former pars. (7), (9), (11), (20), and (26), as so redesignated, added pars. (2) to (7), (9), (11), (12), (15), (16), (20), and (22) to (26), arranged pars. in numerical order, and inserted heading and “The term” after each par. designation. Prior to amendment, pars. (7), (9), (11), (20), and (26), as so redesignated, defined disease prevention, FAS, health promotion, service unit, and tribal organization, respectively. Amendment directing redesignation of pars. contained in subsec. (c) as subpars. was executed by redesignating pars. (1) to (4) as subpars. (A) to (D), respectively, as the probable intent of Congress. Amendment directing the striking of paragraph “(12) (as redesignated by paragraph (3))” could not be executed because there was no par. (12) redesignated by par. (3).
+<b>2010</b>—Pub. L. 111–148 substituted “In this chapter:” for “For purposes of this chapter—” in introductory provisions, redesignated pars. in subsecs. (c), (j), (k), and (l) as subpars. and realigned margins, redesignated subsecs. (a) to (q) as pars. (17), (18), (13), (14), (26), (28), (27), (29), (1), (20), (11), (7), (19), (10), (21), (8), and (9), respectively, and realigned margins, struck out former pars. (7), (9), (11), (20), and (26), as so redesignated, added pars. (2) to (7), (9), (11), (12), (15), (16), (20), and (22) to (26), arranged pars. in numerical order, and inserted heading and “The term” after each par. designation. Prior to amendment, pars. (7), (9), (11), (20), and (26), as so redesignated, defined disease prevention, FAS, health promotion, service unit, and tribal organization, respectively. Amendment directing redesignation of pars. contained in subsec. (c) as subpars. was executed by redesignating pars. (1) to (4) as subpars. (A) to (D), respectively, as the probable intent of Congress. Amendment directing the striking of paragraph “(12) (as redesignated by paragraph (3))” could not be executed because there was no par. (12) redesignated by par. (3).
 
 <b>1996</b>—Subsec. (n). Pub. L. 104–313 inserted “allopathic medicine,” before “family medicine” and substituted “an allied health profession, or any other health profession” for “and allied health professions”.
 
@@ -312,7 +312,7 @@ Subsec. (j). Pub. L. 100–713, §201(b), added subsec. (j) and struck out forme
 
 Subsec. (k). Pub. L. 100–713, §§201(b), 203(b), added subsec. (k) and struck out former subsec. (k) which defined “rural Indian organization”.
 
-Subsec. (<i>l</i>). Pub. L. 100–713, §203(b), added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 100–713, §203(b), added subsec. (l).
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–537, §2(a), substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
 

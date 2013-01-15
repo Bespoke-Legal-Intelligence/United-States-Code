@@ -1,6 +1,4 @@
 
-38 U.S.C.<br>United States Code, 2011 Edition<br>Title 38 - VETERANS’ BENEFITS<br>From the U.S. Government Publishing Office, www.gpo.gov
-
 # TITLE 38—VETERANS’ BENEFITS
 
 <i>This title was enacted by Pub. L. 85–857, §1, Sept. 2, 1958, 72 Stat. 1105</i>

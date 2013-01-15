@@ -26,7 +26,7 @@ Any person who—
 
 #### (6) Distilling on prohibited premises
 
-&emsp;uses, or possesses with intent to use, any still, boiler, or other utensil for the purpose of producing distilled spirits, or aids or assists therein, or causes or procures the same to be done, in any dwelling house, or in any shed, yard, or inclosure connected with such dwelling house (except as authorized under section 5178(a)(1)(C)), or on board any vessel or boat, or on any premises where beer or wine is made or produced, or where liquors of any description are retailed, or on premises where any other business is carried on (except when authorized under section 5178(b)); or
+&emsp;uses, or possesses with intent to use, any still, boiler, or other utensil for the purpose of producing distilled spirits, or aids or assists therein, or causes or procures the same to be done, in any dwelling house, or in any shed,yard, or inclosure connected with such dwelling house (except as authorized under section 5178(a)(1)(C)), or on board any vessel or boat, or on any premises where beer or wine is made or produced, or where liquors of any description are retailed, or on premises where any other business is carried on (except when authorized under section 5178(b)); or
 
 #### (7) Unlawful production, removal, or use of material fit for production of distilled spirits
 
@@ -76,7 +76,7 @@ Any person who—
 
 #### (b) Presumptions
 
-Whenever on trial for violation of subsection (a)(4) the defendant is shown to have been at thesite or place where, and at the time when, the business of a distiller or processor was so engaged in or carried on, such presence of the defendant shall be deemed sufficient evidence to authorize conviction, unless the defendant explains such presence to the satisfaction of the jury (or of the court when tried without jury).
+Whenever on trial for violation of subsection (a)(4) the defendant is shown to have been at the site or place where, and at the time when, the business of a distiller or processor was so engaged in or carried on, such presence of the defendant shall be deemed sufficient evidence to authorize conviction, unless the defendant explains such presence to the satisfaction of the jury (or of the court when tried without jury).
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1398; amended Pub. L. 94–455, title XIX, §§1905(a)(22), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1820, 1834; Pub. L. 96–39, title VIII, §807(a)(52), July 26, 1979, 93 Stat. 288; Pub. L. 96–223, title II, §232(e)(2)(A), Apr. 2, 1980, 94 Stat. 280.)
 
@@ -146,7 +146,7 @@ Section effective July 1, 1959, see section 210(a)(1) of Pub. L. 85–859, set o
 
 #### Prosecution and Punishment of Offenses Committed and Penalties or Forfeitures Incurred; Savings Provision
 
-Section 210(c) of title II of Pub. L. 85–859 provided that: “All offenses committed, and all penalties or forfeitures incurred, under any provision of law amended by this title \[enacting sections 5849, 5854, 5855 and 7608 of this title, amending this chapter, chapter 52 of this title and sections 5801, 5811, 5814, 7272, 7301, 7224 to 7326, 7609, 7652 and 7655 of this title, and enacting notes set out under this section and sections 5001, 5006, 5025, 5064, 5175, and 5304 of this title\], may be prosecuted and punished in the same manner and with the same effect as if this title had not been enacted.”
+Pub. L. 85–859, title II, §210(c), Sept. 2, 1958, 72 Stat. 1435, provided that: “All offenses committed, and all penalties or forfeitures incurred, under any provision of law amended by this title \[enacting sections 5849, 5854, 5855 and 7608 of this title, amending this chapter, chapter 52 of this title and sections 5801, 5811, 5814, 7272, 7301, 7224 to 7326, 7609, 7652 and 7655 of this title, and enacting notes set out under this section and sections 5001, 5006, 5025, 5064, 5175, and 5304 of this title\], may be prosecuted and punished in the same manner and with the same effect as if this title had not been enacted.”
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

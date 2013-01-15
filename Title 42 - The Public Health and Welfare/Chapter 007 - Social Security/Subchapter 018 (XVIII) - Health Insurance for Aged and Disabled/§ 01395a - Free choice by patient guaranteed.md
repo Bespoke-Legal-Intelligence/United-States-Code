@@ -100,11 +100,11 @@ Any individual entitled to insurance benefits under this subchapter may obtain h
 
 #### Effective Date of 1997 Amendment
 
-Section 4507(c) of Pub. L. 105–33 provided that: “The amendment made by subsection (a) \[amending this section and section 1395y of this title\] shall apply with respect to contracts entered into on and after January 1, 1998.”
+Pub. L. 105–33, title IV, §4507(c), Aug. 5, 1997, 111 Stat. 442, provided that: “The amendment made by subsection (a) \[amending this section and section 1395y of this title\] shall apply with respect to contracts entered into on and after January 1, 1998.”
 
 #### Report to Congress on Effect of Private Contracts
 
-Section 4507(b) of title IV of Pub. L. 105–33 provided that: “Not later than October 1, 2001, the Secretary of Health and Human Services shall submit a report to Congress on the effect on the program under this title \[see Tables for classification\] of private contracts entered into under the amendment made by subsection (a) \[amending this section and section 1395y of this title\]. Such report shall include—
+Pub. L. 105–33, title IV, §4507(b), Aug. 5, 1997, 111 Stat. 441, provided that: “Not later than October 1, 2001, the Secretary of Health and Human Services shall submit a report to Congress on the effect on the program under this title \[see Tables for classification\] of private contracts entered into under the amendment made by subsection (a) \[amending this section and section 1395y of this title\]. Such report shall include—
 
 &emsp;“(1) analyses regarding—
 

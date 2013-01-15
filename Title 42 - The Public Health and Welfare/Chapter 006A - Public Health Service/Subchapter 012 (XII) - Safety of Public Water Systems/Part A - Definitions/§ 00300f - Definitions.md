@@ -28,7 +28,7 @@ Public water system.—
 
 &emsp;&emsp;(A)
 
-In general.—The term “public water system” means a system for the provision tothe public of water for human consumption through pipes or other constructed conveyances, if such system has at least fifteen service connections or regularly serves at least twenty-five individuals. Such term includes (i) any collection, treatment, storage, and distribution facilities under control of the operator of such system and used primarily in connection with such system, and (ii) any collection or pretreatment storage facilities not under such control which are used primarily in connection with such system.
+In general.—The term “public water system” means a system for the provision to the public of water for human consumption through pipes or other constructed conveyances, if such system has at least fifteen service connections or regularly serves at least twenty-five individuals. Such term includes (i) any collection, treatment, storage, and distribution facilities under control of the operator of such system and used primarily in connection with such system, and (ii) any collection or pretreatment storage facilities not under such control which are used primarily in connection with such system.
 
 &emsp;&emsp;(B)
 
@@ -50,7 +50,7 @@ Irrigation districts.—An irrigation district in existence prior to May 18, 199
 
 &emsp;&emsp;(C)
 
-Transition period.—A water supplier that would be a public water system only as a result of modifications made to this paragraph by the Safe Drinking Water Act Amendments of 1996 shall not be considered a public water system for purposes of the Act until the date that is two years after August 6, 1996. If a water supplier does not serve 15 service connections (as defined in subparagraphs (A) and (B)) or 25 people at any time after the conclusion of the 2-year period, the water supplier shall not be considered a public water system.
+Transition period.—A water supplier that would be a public water system only as a result of modifications made to this paragraph by the Safe Drinking Water Act Amendments of 1996 shall not be considered a public water system for purposes of the Act until the date that is two years after August 6, 1996. If a water supplier does not serve 15 service connections (as defined insubparagraphs (A) and (B)) or 25 people at any time after the conclusion of the 2-year period, the water supplier shall not be considered a public water system.
 
 &emsp;(5) The term “supplier of water” means any person who owns or operates a public water system.
 
@@ -94,7 +94,7 @@ The Safe Drinking Water Act Amendments of 1996, referred to in par. (4)(C), is P
 
 #### Amendments
 
-<b>1996</b>—Par. (1). Pub. L. 104–182, §101(a)(1)(B), inserted at end “At any time after promulgation of a regulationreferred to in this paragraph, the Administrator may add equally effective quality control and testing procedures by guidance published in the Federal Register. Such procedures shall be treated as an alternative for public water systems to the quality control and testing procedures listed in the regulation.”
+<b>1996</b>—Par. (1). Pub. L. 104–182, §101(a)(1)(B), inserted at end “At any time after promulgation of a regulation referred to in this paragraph, the Administrator may add equally effective quality control and testing procedures by guidance published in the Federal Register. Such procedures shall be treated as an alternative for public water systems to the quality control and testing procedures listed in the regulation.”
 
 Par. (1)(D). Pub. L. 104–182, §101(a)(1)(A), inserted “accepted methods for” before “quality control”.
 
@@ -130,7 +130,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Effect of Public Law 104–182 on Federal Water Pollution Control Act
 
-Section 2(c) of Pub. L. 104–182 provided that: “Except for the provisions of section 302 \[42 U.S.C. 300j–12 note\] (relating to transfers of funds), nothing in this Act \[see Effective Date of 1996 Amendment note above\] or in any amendments made by this Act to title XIV of the Public Health Service Act \[this subchapter\] (commonly known as the ‘Safe Drinking Water Act’) or any other law shall be construed by the Administrator of the Environmental Protection Agency or the courts as affecting, modifying, expanding, changing, or altering—
+Pub. L. 104–182, §2(c), Aug. 6, 1996, 110 Stat. 1614, provided that: “Except for the provisions of section 302 \[42U.S.C. 300j–12 note\] (relating to transfers of funds), nothing in this Act \[see Effective Date of 1996 Amendment note above\] or in any amendments made by this Act to title XIV of the Public Health Service Act \[this subchapter\] (commonly known as the ‘Safe Drinking Water Act’) or any other law shall be construed by the Administrator of the Environmental Protection Agency or the courts as affecting, modifying, expanding, changing, or altering—
 
 &emsp;“(1) the provisions of the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\];
 
@@ -142,7 +142,7 @@ Section 2(c) of Pub. L. 104–182 provided that: “Except for the provisions of
 
 #### Congressional Findings
 
-Section 3 of Pub. L. 104–182 provided that: “The Congress finds that—
+Pub. L. 104–182, §3, Aug. 6, 1996, 110 Stat. 1614, provided that: “The Congress finds that—
 
 &emsp;“(1) safe drinking water is essential to the protection of public health;
 
@@ -192,7 +192,7 @@ Pub. L. 95–190, §3(e)(2), Nov. 16, 1977, 91 Stat. 1394, provided that: “Not
 
 #### Rural Water Survey; Report to President and Congress; Authorization of Appropriations
 
-Section 3 of Pub. L. 93–523, as amended by Pub. L. 95–190, §§2(d), 3(d), Nov. 16, 1977, 91 Stat. 1393, 1394, directed Administrator of Environmental Protection Agency, after consultation with Secretary of Agriculture and the several States, to enter into arrangements with public or private entities to conduct a survey of quantity, quality, and availability of rural drinking water supplies, which survey was to include, but not be limited to, consideration of number of residents in each rural area who presently are being inadequately served by a public or private drinking water supply system, or by an individual home drinking water supply system, or who presently have limited or otherwise inadequate access to drinking water, or who, due to absence or inadequacy of a drinking water supply system, are exposed to an increased health hazard, and who have experienced incidents of chronic or acute illness, which may be attributed to inadequacy of a drinking water supply system. Survey to be completed within eighteen months of Dec. 16, 1974, and a final report thereon submitted, not later than six months after completion of survey, to President and to Congress.
+Pub. L. 93–523, §3, Dec. 16, 1974, 88 Stat. 1693, as amended by Pub. L. 95–190, §§2(d), 3(d), Nov. 16, 1977, 91 Stat. 1393, 1394, directed Administrator of Environmental Protection Agency, after consultation with Secretary of Agriculture and the several States, to enter into arrangements with public or private entities to conduct a survey of quantity, quality, and availability of rural drinking water supplies, which survey was to include, but not be limited to, consideration of number of residents in each rural area who presently are being inadequately served by a public or private drinking water supply system, or by an individual home drinking water supply system, or who presently have limited or otherwise inadequate access to drinking water, or who, due to absence or inadequacy of a drinking water supply system, are exposed to an increased health hazard, and who have experienced incidents of chronic or acute illness, which may be attributed to inadequacy of a drinking water supply system. Survey to be completed within eighteen months of Dec. 16, 1974, and a final report thereon submitted, not later than six months after completion of survey, to President and to Congress.
 
 #### Federal Compliance With Pollution Control Standards
 

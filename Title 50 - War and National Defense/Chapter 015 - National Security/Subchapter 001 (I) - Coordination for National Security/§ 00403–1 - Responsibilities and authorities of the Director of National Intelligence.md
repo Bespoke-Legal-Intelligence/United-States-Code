@@ -48,7 +48,7 @@ Unless otherwise directed by the President, the Director of National Intelligenc
 
 (7)(A) The Director of National Intelligence shall provide a semi-annual report, beginning April 1, 2005, and ending April 1, 2007, to the President and the Congress regarding implementation of this section.
 
-(B) The Director of National Intelligence shall report to the President and the Congress not later than 15 days after learning of any instancein which a departmental comptroller acts in a manner inconsistent with the law (including permanent statutes, authorization Acts, and appropriations Acts), or the direction of the Director of National Intelligence, in carrying out the National Intelligence Program.
+(B) The Director of National Intelligence shall report to the President and the Congress not later than 15 days after learning of any instance in which a departmental comptroller acts in a manner inconsistent with the law (including permanent statutes, authorization Acts, and appropriations Acts), or the direction of the Director of National Intelligence, in carrying out the National Intelligence Program.
 
 #### (d) Role of Director of National Intelligence in transfer and reprogramming of funds
 
@@ -88,7 +88,7 @@ Unless otherwise directed by the President, the Director of National Intelligenc
 
 &emsp;(v) the transfer or reprogramming does not terminate an acquisition program.
 
-(B) A transfer or reprogramming may be made without regard to a limitation set forth in clause (iv) or (v) of subparagraph (A) if the transfer has the concurrence of the head of the department involved or the Director of the Central Intelligence Agency (in the case of the Central Intelligence Agency). The authority to provide such concurrence may only be delegated by the head of the department involved or the Director of the Central Intelligence Agency (in the case of the Central Intelligence Agency) to the deputy of such officer.
+(B) A transfer or reprogramming may be made without regard to a limitation set forth inclause (iv) or (v) of subparagraph (A) if the transfer has the concurrence of the head of the department involved or the Director of the Central Intelligence Agency (in the case of the Central Intelligence Agency). The authority to provide such concurrence may only be delegated by the head of the department involved or the Director of the Central Intelligence Agency (in the case of the Central Intelligence Agency) to the deputy of such officer.
 
 (6) Funds transferred or reprogrammed under this subsection shall remain available for the same period as the appropriations account to which transferred or reprogrammed.
 
@@ -148,7 +148,7 @@ Unless otherwise directed by the President, the Director of National Intelligenc
 
 (4) It is the sense of Congress that—
 
-&emsp;(A) the nature of the national security threats facing the United States will continue to challenge the intelligence community to respond rapidly and flexibly to bring analytic resources to bear against emerging and unforeseen requirements;
+&emsp;(A) the nature of the national security threats facing the United States will continueto challenge the intelligence community to respond rapidly and flexibly to bring analytic resources to bear against emerging and unforeseen requirements;
 
 &emsp;(B) both the Office of the Director of National Intelligence and any analytic centers determined to be necessary should be fully and properly supported with appropriate levels of personnel resources and that the President's yearly budget requests adequately support those needs; and
 
@@ -270,7 +270,7 @@ To ensure the most accurate analysis of intelligence is derived from all sources
 
 &emsp;(B) Access to and dissemination of intelligence, both in final form and in the form when initially gathered.
 
-&emsp;(C) Preparation of intelligence products in such a way that source information is removed to allow for dissemination at the lowest level of classification possible or in unclassified form to the extent practicable.
+&emsp;(C) Preparation of intelligence products in such a way that source information is removedto allow for dissemination at the lowest level of classification possible or in unclassified form to the extent practicable.
 
 (3) The Director may only delegate a duty or authority given the Director under this subsection to the Principal Deputy Director of National Intelligence.
 
@@ -290,7 +290,7 @@ The Director of National Intelligence, subject to the direction of the President
 
 Under the direction of the President and in a manner consistent with section 3927 of title 22, the Director of National Intelligence shall oversee the coordination of the relationships between elements of the intelligence community and the intelligence or security services of foreign governments or international organizations on all matters involving intelligence related to the national security or involving intelligence acquired through clandestine means.
 
-#### (<i>l</i>) Enhanced personnel management
+#### (l) Enhanced personnel management
 
 (1)(A) The Director of National Intelligence shall, under regulations prescribed by the Director, provide incentives for personnel of elements of the intelligence community to serve—
 
@@ -302,7 +302,7 @@ Under the direction of the President and in a manner consistent with section 392
 
 &emsp;(iv) in other positions in support of the intelligence community management functions of the Director.
 
-(B) Incentives under subparagraph (A) may include financial incentives, bonuses, and suchother awards and incentives as the Director considers appropriate.
+(B) Incentives under subparagraph (A) may include financial incentives, bonuses, and such other awards and incentives as the Director considers appropriate.
 
 (2)(A) Notwithstanding any other provision of law, the personnel of an element of the intelligence community who are assigned or detailed under paragraph (1)(A) to service under the Director of National Intelligence shall be promoted at rates equivalent to or better than personnel of such element who are not so assigned or detailed.
 
@@ -330,7 +330,7 @@ Under the direction of the President and in a manner consistent with section 392
 
 #### (m) Additional authority with respect to personnel
 
-(1) In addition to the authorities under subsection (f)(3) of this section, the Director of National Intelligence may exercise with respect to the personnel of the Office of the Director of National Intelligence any authority of the Director of the Central Intelligence Agency with respect to the personnel of the Central Intelligence Agency under the Central Intelligence Agency Act of 1949 (50 U.S.C. 403a et seq.), and other applicable provisions of law, as of December 17, 2004, to the same extent, and subject to the same conditions and limitations, that the Director of the Central Intelligence Agency may exercise such authority with respect to personnel of the Central Intelligence Agency.
+(1) In addition to the authorities under subsection (f)(3) of this section, the Director of National Intelligence may exercise with respect to the personnel of the Office of the Director of National Intelligence any authority of the Directorof the Central Intelligence Agency with respect to the personnel of the Central Intelligence Agency under the Central Intelligence Agency Act of 1949 (50 U.S.C. 403a et seq.), and other applicable provisions of law, as of December 17, 2004, to the same extent, and subject to the same conditions and limitations, that the Director of the Central Intelligence Agency may exercise such authority with respect to personnel of the Central Intelligence Agency.
 
 (2) Employees and applicants for employment of the Office of the Director of National Intelligence shall have the same rights and protections under the Office of the Director of National Intelligence as employees of the Central Intelligence Agency have under the Central Intelligence Agency Act of 1949 \[50 U.S.C. 403a et seq.\], and other applicable provisions of law, as of December 17, 2004.
 
@@ -346,7 +346,7 @@ Under the direction of the President and in a manner consistent with section 392
 
 (C) The limitations and conditions set forth in section 3(d) of the Central Intelligence Agency Act of 1949 (50 U.S.C. 403c(d)) shall apply to the exercise by the Director of National Intelligence of an authority referred to in paragraph (1).
 
-(D) Each determination or decision required by an authority referred to in the second sentence of section 3(d) of the Central Intelligence Agency Act of 1949 \[50 U.S.C. 403c(d)\] shall be based upon written findings made by the official making such determination or decision, which findings shall be final and shall be availablewithin the Office of the Director of National Intelligence for a period of at least six years following the date of such determination or decision.
+(D) Each determination or decision required by an authority referred to in the second sentence of section 3(d) of the Central Intelligence Agency Act of 1949 \[50 U.S.C. 403c(d)\] shall be based upon written findings made by the official making such determination or decision, which findings shall be final and shall be available within the Office of the Director of National Intelligence for a period of at least six years following the date of such determination or decision.
 
 (4)(A) In addition to the authority referred to in paragraph (1), the Director of National Intelligence may authorize the head of an element of the intelligence community to exercise an acquisition authority referred to in section 3 or 8(a) of the Central Intelligence Agency Act of 1949 (50 U.S.C. 403c and 403j(a)) for an acquisition by such element that is more than 50 percent funded under the National Intelligence Program.
 
@@ -392,7 +392,7 @@ Under the direction of the President and in a manner consistent with section 392
 
 (I) Nothing in this paragraph may be construed to alter or otherwise limit the authority of the Central Intelligence Agency to independently exercise an authority under section 3 or 8(a) of the Central Intelligence Agency Act of 1949 (50 U.S.C. 403c and 403j(a)).
 
-#### (<i>o</i>) Consideration of views of elements of intelligence community
+#### (o) Consideration of views of elements of intelligence community
 
 In carrying out the duties and responsibilities under this section, the Director of National Intelligence shall take into account the views of a head of a department containing an element of the intelligence community and of the Director of the Central Intelligence Agency.
 
@@ -456,7 +456,7 @@ The Director of National Intelligence shall, in consultation with the heads of d
 
 (1) The President, based on the recommendation of the Director of National Intelligence, may award a rank to a member of the Senior National Intelligence Service or other intelligence community senior civilian officer not already covered by such a rank award program in the same manner in which a career appointee of an agency may be awarded a rank under section 4507 of title 5.
 
-(2) The President may establish procedures to award a rank under paragraph (1) to a member of the Senior National Intelligence Service or a senior civilian officer of the intelligence community whose identity as such a member or officer is classified information (as defined in section 426(1) of this title).
+(2) The President may establish procedures to award a rank under paragraph (1) to a member of the Senior National Intelligence Service or a senior civilian officer of the intelligence community whose identity as such a member or officer is classified information (as defined in section 426(1) <sup>1</sup> of this title).
 
 #### (u) Conflict of interest regulations
 
@@ -486,15 +486,17 @@ The Director of National Intelligence, in consultation with the heads of the app
 
 The Congressional Budget and Impoundment Control Act of 1974, referred to in subsec. (c)(6), is Pub. L. 93–344, July 12, 1974, 88 Stat. 297. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2, The Congress, and Tables.
 
-The Foreign Intelligence Surveillance Act of 1978, referred to in subsec. (f)(6), (9), is Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to chapter 36 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Foreign Intelligence Surveillance Act of 1978, referred to in subsec. (f)(6), (9), is Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally tochapter 36 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 This subchapter, referred to in subsec. (f)(9), was in the original “this title”, meaning title I of act July 26, 1947, ch. 343, 61 Stat. 496, which is classified generally to this subchapter. For complete classification of title I to the Code, see Tables.
 
 Executive Order No. 13526, referred to in subsec. (g)(1)(G), is set out as a note under section 435 of this title.
 
-The Goldwater-Nichols Department of Defense Reorganization Act of 1986, referred to in subsec. (<i>l</i>)(3)(C), is Pub. L. 99–433, Oct. 1, 1986, 100 Stat. 992, as amended. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under section 111 of Title 10, Armed Forces, and Tables.
+The Goldwater-Nichols Department of Defense Reorganization Act of 1986, referred to in subsec. (l)(3)(C), is Pub. L. 99–433, Oct. 1, 1986, 100 Stat. 992, as amended. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under section 111 of Title 10, Armed Forces, and Tables.
 
 The Central Intelligence Agency Act of 1949, referred to in subsecs. (m) and (n)(1), is act June 20, 1949, ch. 227, 63 Stat. 208, as amended, which is classified generally to section 403a et seq. of this title. For complete classification of this Act to the Code, see Short Title note set out under section 403a of this title and Tables.
+
+Section 426(1) of this title, referred to in subsec. (t)(2), was in the original “section 606(1)”, meaning section 606(1) of act July 26, 1947, which was translated as reading “section 605(1)”, to reflect the probable intent of Congress and the renumbering of section 606 as 605 by section 310(a)(4)(B) of Pub. L. 112–277.
 
 #### Codification
 
@@ -532,7 +534,7 @@ Subsec. (f)(7) to (9). Pub. L. 111–259, §401, added par. (7) and redesignated
 
 Subsec. (g)(1)(G). Pub. L. 111–258 added subpar. (G).
 
-Subsec. (<i>l</i>)(2)(B). Pub. L. 111–259, §804(2)(C), substituted “paragraph” for “section”.
+Subsec. (l)(2)(B). Pub. L. 111–259, §804(2)(C), substituted “paragraph” for “section”.
 
 Subsec. (n). Pub. L. 111–259, §804(2)(D), inserted “and other” after “Acquisition” in the heading.
 
@@ -548,15 +550,15 @@ Section effective not later than six months after Dec. 17, 2004, except as other
 
 #### Insider Threat Detection Program
 
-Pub. L. 112–18, title IV, §402, June 8, 2011, 125 Stat. 227, provided that:
+Pub. L. 112–18, title IV, §402, June 8, 2011, 125 Stat. 227, as amended by Pub. L. 112–277, title III, §304, Jan. 14, 2013, 126 Stat. 2471, provided that:
 
 “(a)
 
-Initial Operating Capability.—Not later than October 1, 2012, the Director of National Intelligence shall establish an initial operating capability for an effective automated insider threat detection program for the information resources in each element of the intelligence community in order to detect unauthorized access to, or use or transmission of, classified intelligence.
+Initial Operating Capability.—Not later than October 1, 2013, the Director of National Intelligence shall establish an initial operating capability for an effective automated insider threat detection program for the information resources in each element of the intelligence community in order to detect unauthorized access to, or use or transmission of, classified intelligence.
 
 “(b)
 
-Full Operating Capability.—Not later than October 1, 2013, the Director of National Intelligence shall ensure the program described in subsection (a) has reached full operating capability.
+Full Operating Capability.—Not later than October 1, 2014, the Director of National Intelligence shall ensure the program described in subsection (a) has reached full operating capability.
 
 “(c)
 
@@ -664,7 +666,7 @@ Commencement.—The Director shall commence the pilot program under subsection (
 
 “(e)
 
-Various Mechanisms Required.—In carrying out the pilot program under subsection (a), the Director shall develop and utilize various mechanisms to facilitate the access to, and the analysis of, intelligence in the databases of the intelligence community by intelligence analysts of other elements of the intelligence community, including the use of so-called ‘detailees in place’.
+Various Mechanisms Required.—In carrying out the pilot program under subsection (a), the Director shall develop and utilize various mechanisms to facilitate the access to, and the analysis of, intelligence inthe databases of the intelligence community by intelligence analysts of other elements of the intelligence community, including the use of so-called ‘detailees in place’.
 
 “(f)
 
@@ -724,7 +726,7 @@ Survey of Current Standards.—
 
 &emsp;“(1)
 
-Survey.—The Director of Central Intelligence shall carry out a survey of current standards for thespelling of foreign names and places, and the use of geographic coordinates for such places, among the elements of the intelligence community.
+Survey.—The Director of Central Intelligence shall carry out a survey of current standards for the spelling of foreign names and places, and the use of geographic coordinates for such places, among the elements of the intelligence community.
 
 &emsp;“(2)
 
@@ -766,7 +768,7 @@ Pub. L. 104–293, §807(c), Oct. 11, 1996, 110 Stat. 3480, provided that: “No
 
 Pub. L. 104–293, title VIII, §807(d), Oct. 11, 1996, 110 Stat. 3481, provided that: “Not later than January 1, 1999, the Director of Central Intelligence and the Secretary of Defense shall develop and implement a database to provide timely and accurate information on the amounts, purposes, and status of the resources, including periodic budget execution updates, for all national, defense-wide, and tactical intelligence activities.”
 
-\[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of this title.\]
+\[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in theDirector's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of this title.\]
 
 #### Identification of Constituent Components of Base Intelligence Budget
 
@@ -789,4 +791,6 @@ Congressional intelligence committees.—The term ‘congressional intelligence 
 &emsp;“(2)
 
 Intelligence community.—The term ‘intelligence community’ has the meaning given that term in section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4)).”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

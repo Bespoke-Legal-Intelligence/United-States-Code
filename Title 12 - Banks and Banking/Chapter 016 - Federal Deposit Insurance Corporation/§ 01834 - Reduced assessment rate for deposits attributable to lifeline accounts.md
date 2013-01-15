@@ -68,7 +68,7 @@ Section is comprised of section 232 of Pub. L. 102–242. Subsec. (b) of section
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–203, §353(1), struck out “by Federal Reserve Board” at end of heading.
 
-Subsec. (a)(1). Pub. L. 111–203, §353(2), substituted “The Comptroller of the Currency” for “The Board of Governors of the Federal Reserve System,” and “section 1817(b)(2)(E)” for “1817(b)(2)(H)”.
+Subsec. (a)(1). Pub. L. 111–203, §353(2), substituted “The Comptroller of the Currency” for “The Board of Governors of the Federal Reserve System,” and “section 1817(b)(2)(E)” for “section 1817(b)(2)(H)”.
 
 Subsec. (a)(2)(A). Pub. L. 111–203, §353(3), substituted “Comptroller” for “Board”.
 
@@ -106,7 +106,7 @@ Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository 
 
 #### Effective Date of 1992 Amendments
 
-Section 303(b)(4) of Pub. L. 102–558 provided that the amendment made by that section is effective on the effective date of the amendment made by section 302(a) of Pub. L. 102–242 \[see section 302(g) of Pub. L. 102–242, set out as a note under section 1817 of this title\].
+Pub. L. 102–558, title III, §303(b)(4), Oct. 28, 1992, 106 Stat. 4225, provided that the amendment made by that section is effective on the effective date of the amendment made by section 302(a) of Pub. L. 102–242 \[see section 302(g) of Pub. L. 102–242, set out as a note under section 1817 of this title\].
 
-Section 1605(a)(3) of Pub. L. 102–550, which provided effective date provisions for the amendment made by that section, was repealed, effective Oct. 28, 1992, by section 305 of Pub. L. 102–558, set out as a Repeal of Duplicative Provisions note under section 1815 of this title.
+Pub. L. 102–550, title XVI, §1605(a)(3), Oct. 28, 1992, 106 Stat. 4085, which provided effective date provisions for the amendment made by that section, was repealed, effective Oct. 28, 1992, by section 305 of Pub. L. 102–558, set out as a Repeal of Duplicative Provisions note under section 1815 of this title.
 

@@ -120,7 +120,7 @@
 
 &emsp;Asylum granted under subsection (b) of this section does not convey a right to remain permanently in the United States, and may be terminated if the Attorney General determines that—
 
-&emsp;&emsp;(A) the alien no longer meets the conditions described in subsection (b)(1) of this section owing to a fundamental change in circumstances;
+&emsp;&emsp;(A) the alien no longer meets the conditions described in subsection (b)(1) of thissection owing to a fundamental change in circumstances;
 
 &emsp;&emsp;(B) the alien meets a condition described in subsection (b)(2) of this section;
 
@@ -178,7 +178,7 @@
 
 #### (6) Frivolous applications
 
-&emsp;If the Attorney General determines that an alien has knowingly made a frivolous application for asylum and the alien has received the notice under paragraph (4)(A), the alien shall be permanently ineligible for any benefits under this chapter, effective as of the date of a final determination on such application.
+&emsp;If the Attorney General determines that an alien has knowingly made a frivolous application for asylum and the alien has received thenotice under paragraph (4)(A), the alien shall be permanently ineligible for any benefits under this chapter, effective as of the date of a final determination on such application.
 
 #### (7) No private right of action
 
@@ -242,13 +242,13 @@ Amendment by Pub. L. 107–56 effective Oct. 26, 2001, and applicable to actions
 
 #### Effective Date of 1996 Amendments
 
-Section 604(c) of div. C of Pub. L. 104–208 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to applications for asylum filed on or after the first day of the first month beginning more than 180 days after the date of the enactment of this Act \[Sept. 30, 1996\].
+Pub. L. 104–208, div. C, title VI, §604(c), Sept. 30, 1996, 110 Stat. 3009–694, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to applications for asylum filed on or after the first day of the first month beginning more than 180 days after the date of the enactment of this Act \[Sept. 30, 1996\].
 
-Section 421(b) of Pub. L. 104–132 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Apr. 24, 1996\] and apply to asylum determinations made on or after such date.”
+Pub. L. 104–132, title IV, §421(b), Apr. 24, 1996, 110 Stat. 1270, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Apr. 24, 1996\] and apply to asylum determinations made on or after such date.”
 
 #### Effective Date of 1990 Amendment
 
-Section 515(b) of Pub. L. 101–649, as amended by Pub. L. 102–232, title III, §306(a)(13), Dec. 12, 1991, 105 Stat. 1752, provided that:
+Pub. L. 101–649, title V, §515(b), Nov. 29, 1990, 104 Stat. 5053, as amended by Pub. L. 102–232, title III, §306(a)(13), Dec. 12, 1991, 105 Stat. 1752, provided that:
 
 “(1) The amendment made by subsection (a)(1) \[amending this section\] shall apply to convictions entered before, on, or after the date of the enactment of this Act \[Nov. 29, 1990\] and to applications for asylum made on or after such date.
 
@@ -276,7 +276,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 #### Expeditious Removal for Denied Asylum Applicants
 
-Section 130005 of Pub. L. 103–322, as amended by Pub. L. 104–208, div. C, title III, §308(e)(1)(P), (17), Sept. 30, 1996, 110 Stat. 3009–620, 3009–621, provided:
+Pub. L. 103–322, title XIII, §130005, Sept. 13, 1994, 108 Stat. 2028, as amended by Pub. L. 104–208, div. C, title III, §308(e)(1)(P), (17), Sept. 30, 1996, 110 Stat. 3009–620, 3009–621, provided:
 
 “(a)
 
@@ -300,7 +300,7 @@ Authorization of Appropriations.—There are authorized to be appropriated to ca
 
 #### Time for Establishment of Asylum Procedure by Attorney General
 
-Section 204(d)(2) of Pub. L. 96–212 provided that: “The Attorney General shall establish the asylum procedure referred to in section 208(a) of the Immigration and Nationality Act (as added by section 201(b) of this title) \[former subsec. (a) of this section\] not later than June 1, 1980.”
+Pub. L. 96–212, title II, §204(d)(2), Mar. 17, 1980, 94 Stat. 109, provided that: “The Attorney General shall establish the asylum procedure referred to in section 208(a) of the Immigration and Nationality Act (as added by section 201(b) of this title) \[former subsec. (a) of this section\] not later than June 1, 1980.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “sections”.</i>
 

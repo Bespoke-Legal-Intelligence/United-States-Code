@@ -26,13 +26,13 @@ Any Indian tribe that is not eligible to qualify for a grant under this subchapt
 
 &emsp;The Secretary may revoke the eligibility of an Indian tribe for a grant under this subchapter if such tribe—
 
-&emsp;&emsp;(A) fails to submit to the Bureau an annual financial statement that reports revenues and expenditures determined by use of an accounting system, established by the tribe, that complies with generally accepted accounting principles;
+&emsp;&emsp;(A) fails to submit to the Bureau an annual financial statement that reports revenues and expenditures determined by use ofan accounting system, established by the tribe, that complies with generally accepted accounting principles;
 
 &emsp;&emsp;(B) fails to submit to the Bureau an annual program description, stating the number of students served, and containing such information concerning such students, their educational programs and progress, and the financial assistance distributed to such students as the Secretary may require by regulation;
 
 &emsp;&emsp;(C) fails to submit to the Secretary a biennial financial audit conducted in accordance with chapter 75 of title 31; or
 
-&emsp;&emsp;(D) fails, in an evaluation of its financial assistance program conducted by an impartial third party entity, to comply withstandards under this subchapter relating to (i) eligible students, programs, or institutions of higher education, (ii) satisfactory progress, or (iii) allowable administrative costs; as determined under contracts applicable to programs to provide financial assistance to individual Indian students for the cost of attendance at institutions of higher education administered by Indian tribes under the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\] and in effect on January 20, 1991.
+&emsp;&emsp;(D) fails, in an evaluation of its financial assistance program conducted by an impartial third party entity, to comply with standards under this subchapter relating to (i) eligible students, programs, or institutions of higher education, (ii) satisfactory progress, or (iii) allowable administrative costs; as determined under contracts applicable to programs to provide financial assistance to individual Indian students for the cost of attendance at institutions of higher education administered by Indian tribes under the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\] and in effect on January 20, 1991.
 
 #### (3) Procedures for revocation of eligibility
 

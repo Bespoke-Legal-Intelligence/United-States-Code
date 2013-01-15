@@ -102,13 +102,11 @@ Amendment by Pub. L. 105–85 effective Jan. 1, 1998, see section 603(e) of Pub.
 
 #### Effective Date of 1993 Amendment
 
-Pub. L. 103–160, div. A, title VI, §622(b), Nov. 30, 1993, 107 Stat. 1683, as amended by Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to nonrecurring expenses and currency fluctuation gains described in \[former\] section 475(d) of title 37, United States Code, that are incurred by members of the uniformed services on or after October 1, 1993.”
-
-\[Amendment by Pub. L. 112–81 to section 622(b) of Pub. L. 103–160, set out above, was executed to reflect the probable intent of Congress, notwithstanding an error in the directory language.\]
+Pub. L. 103–160, div. A, title VI, §622(b), Nov. 30, 1993, 107 Stat. 1683, as amended by Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to nonrecurring expenses and currency fluctuation gains described in \[former\] section 475(d) of title 37, United States Code, that are incurred by members of the uniformed services on or after October 1, 1993.”
 
 #### Effective Date of 1989 Amendment
 
-Section 622(b) of Pub. L. 101–189 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to expenses incurred after August 31, 1990.”
+Pub. L. 101–189, div. A, title VI, §622(b), Nov. 29, 1989, 103 Stat. 1447, provided that: “The amendment made bysubsection (a) \[amending this section\] shall apply with respect to expenses incurred after August 31, 1990.”
 
 #### Effective Date of 1984 Amendment
 
@@ -116,5 +114,5 @@ Amendment by Pub. L. 98–525 effective Jan. 1, 1985, with exceptions, see secti
 
 #### Effective Date of 1979 Amendment
 
-Section 807(b) of Pub. L. 96–107 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1979.”
+Pub. L. 96–107, title VIII, §807(b), Nov. 9, 1979, 93 Stat. 814, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1979.”
 

@@ -12,7 +12,7 @@ A prior section 511 of act July 1, 1944, which was classified to section 290bb�
 
 Another prior section 511 of act July 1, 1944, which was classified to section 229 of this title, was successively renumbered by subsequent acts and transferred, see section 238h of this title.
 
-Section 290bb–5, act July 1, 1944, ch. 373, title V, §512, as added Pub. L. 102–321, title I, §111, July 10, 1992, 106Stat. 344, related to training in provision of treatment services.
+Section 290bb–5, act July 1, 1944, ch. 373, title V, §512, as added Pub. L. 102–321, title I, §111, July 10, 1992, 106 Stat. 344, related to training in provision of treatment services.
 
 A prior section 512 of act July 1, 1944, which was classified to section 290bb–1a of this title, was renumbered section 506 of act July 1, 1944, by Pub. L. 102–321 and transferred to section 290aa–5 of this title.
 

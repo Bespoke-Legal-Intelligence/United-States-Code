@@ -96,7 +96,7 @@ The general purpose of the Center is the conduct and support of research and res
 
 #### References in Text
 
-The Federal Advisory Committee Act, referred to in subsec. (c)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770,as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (c)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 The date of the enactment of the National Institutes of Health Revitalization Amendments of 1990, referred to in subsecs. (d)(3)(A) and (f)(1), probably means the date of enactment of the National Institutes of Health Amendments of 1990, Pub. L. 101–613, which was approved Nov. 16, 1990.
 
@@ -114,7 +114,7 @@ Amendment by Pub. L. 109–482 applicable only with respect to amounts appropria
 
 #### Preventing Duplicative Programs of Medical Rehabilitation Research
 
-Section 3(b) of Pub. L. 101–613 provided that:
+Pub. L. 101–613, §3(b), Nov. 16, 1990, 104 Stat. 3230, provided that:
 
 “(1)
 

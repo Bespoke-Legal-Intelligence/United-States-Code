@@ -13,3 +13,5 @@
 - [&sect; 01706 - Management of health care other requirements](%C2%A7%2001706%20-%20Management%20of%20health%20care%20other%20requirements.md)
 - [&sect; 01707 - Limitations](%C2%A7%2001707%20-%20Limitations.md)
 - [&sect; 01708 - Temporary lodging](%C2%A7%2001708%20-%20Temporary%20lodging.md)
+- [&sect; 01709 - Comprehensive policy on reporting and tracking sexual assault incidents and other safety incidents](%C2%A7%2001709%20-%20Comprehensive%20policy%20on%20reporting%20and%20tracking%20sexual%20assault%20incidents%20and%20other%20safety%20incidents.md)
+- [&sect; 01709A - Teleconsultation](%C2%A7%2001709A%20-%20Teleconsultation.md)

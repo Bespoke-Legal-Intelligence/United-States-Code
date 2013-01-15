@@ -6,7 +6,7 @@ The National Commission shall call general conferences for the discussion of mat
 
 #### Repeal of Reporting Requirements
 
-<i>Pub. L. 89–348, §1(21), Nov. 8, 1965, 79 Stat. 1311, repealed provisions of this section which required an annual report to the Congress by the National Commission on Educational, Scientific, and Cultural Cooperation and the Secretary of State of the receipts and expenditures of funds and bequests received and disbursed in connection with the United Nations Educational, Scientific, and Cultural Organization.</i>
+<i>Pub. L. 89–348, §1(21), Nov. 8, 1965, 79 Stat. 1311, repealed provisions of this section which required an annual report to the Congress by the National Commission on Educational, Sci</i><i>entific, and Cultural Cooperation and the Secretary of State of the receipts and expenditures of funds and bequests received and disbursed in connection with the United Nations Educational, Scientific, and Cultural Organization.</i>
 
 #### References in Text
 

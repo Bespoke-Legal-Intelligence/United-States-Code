@@ -18,7 +18,7 @@ Penalty.—(1) Subject to section 21304 of this title, a person violating a regu
 
 (b)
 
-Civil Actions To Collect.—The Attorney General shall bring a civil action in a district court of the United States to collect a civil penalty that is referred to the Attorney General for collection under subsection (a) of this section. The action may be brought in the judicial district in which the violation occurred or the defendant has its principal executive office. If the action is against an individual, the action also may be brought in the judicial district in which the individual resides.
+Civil Actions To Collect.—The Attorney General shall bring a civil action in a district court of the United States to collect a civil penalty that is referred to the Attorney General for collection under subsection (a) of this section.The action may be brought in the judicial district in which the violation occurred or the defendant has its principal executive office. If the action is against an individual, the action also may be brought in the judicial district in which the individual resides.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 892; Pub. L. 110–432, div. A, title III, §302(b), Oct. 16, 2008, 122 Stat. 4878.)
 

@@ -14,7 +14,7 @@ Amounts appropriated pursuant to paragraph (1) are authorized to remain availabl
 
 #### (3) Transfer of prior year funds
 
-Unobligated balances of funds made available for fiscal year 2001, 2002, or 2003 under section104(c) of the Foreign Assistance Act of 1961 (22 U.S.C. 2151b(c) <sup>1</sup> (as in effect immediately before May 27, 2003) and made available for the control of malaria shall be transferred to, merged with, and made available for the same purposes as funds made available for fiscal years 2009 through 2013 under paragraph (1).
+Unobligated balances of funds made available for fiscal year 2001, 2002, or 2003 under section 104(c) of the Foreign Assistance Act of 1961 (22 U.S.C. 2151b(c) <sup>1</sup> (as in effect immediately before May 27, 2003) and made available for the control of malaria shall be transferred to, merged with, and made available for the same purposes as funds made available for fiscal years 2009 through 2013 under paragraph (1).
 
 #### (c) Statement of policy
 

@@ -78,7 +78,7 @@ Subsec. (f)(1). Pub. L. 92–594, §2, substituted “Secretary of Commerce” f
 
 #### Effective Date of 1986 Amendment
 
-Section 408 of Pub. L. 99–659 provided that the amendment made by that section is effective Oct. 1, 1986.
+Pub. L. 99–659, title IV, §408, Nov. 14, 1986, 100 Stat. 3740, provided that the amendment made by that section is effective Oct. 1, 1986.
 
 #### Effective Date of 1972 Amendment
 

@@ -184,7 +184,7 @@ The Secretary may make grants to nonprofit organizations for the provision of re
 
 #### (9) Grants to defray administrative costs
 
-&emsp;The Secretary may make grants to defray not to exceed 75 percent of the costs incurred by organizations and public bodies to carryout projects for which grants or loans are made under this subsection. For purposes of determining the non-Federal share of the costs, the Secretary shall consider contributions in cash and in kind, fairly evaluated, including premises, equipment, and services.
+&emsp;The Secretary may make grants to defray not to exceed 75 percent of the costs incurred by organizations and public bodies to carry out projects for which grants or loans are made under this subsection. For purposes of determining the non-Federal share of the costs, the Secretary shall consider contributions in cash and in kind, fairly evaluated, including premises, equipment, and services.
 
 #### (10) Cooperative research program
 
@@ -356,7 +356,7 @@ The Secretary may make grants to nonprofit organizations for the provision of re
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary shall make or guarantee loans to individuals, cooperatives, cooperative organizations, businesses, and other entities to establish and facilitate enterprises that process, distribute, aggregate,store, and market locally or regionally produced agricultural food products to support community development and farm and ranch income.
+&emsp;&emsp;&emsp;The Secretary shall make or guarantee loans to individuals, cooperatives, cooperative organizations, businesses, and other entities to establish and facilitate enterprises that process, distribute, aggregate, store, and market locally or regionally produced agricultural food products to support community development and farm and ranch income.
 
 #### (ii) Requirement
 
@@ -420,7 +420,7 @@ The Secretary may guarantee loans made under subsection (a) of this section to f
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall carry out the program under this subsection by making a grant to, or offering to enter into a cooperative agreement with, a national nonprofit agricultural assistance institution.
+&emsp;&emsp;The Secretary shall carry out the program under this subsection by making a grant to,or offering to enter into a cooperative agreement with, a national nonprofit agricultural assistance institution.
 
 #### (B) Grant amount
 
@@ -434,7 +434,7 @@ The Secretary may guarantee loans made under subsection (a) of this section to f
 
 Effective beginning on the date of enactment of this subsection through September 30, 2012, the Secretary shall carry out those rural economic area partnership zones administratively in effect on the date of enactment of this subsection in accordance with the terms and conditions contained in the memorandums of agreement entered into by the Secretary for the rural economic area partnership zones, except as otherwise provided in this subsection.
 
-(Pub. L. 87–128, title III, §310B, as added Pub. L. 92–419, title I, §118(a), Aug. 30, 1972, 86 Stat. 663; amended Pub. L. 91–524, title VIII, §817, as added Pub. L. 93–86, §1(27)(B), Aug. 10, 1973, 87 Stat. 241; Pub. L. 95–113, title XV, §1503(b), Sept. 29, 1977, 91 Stat. 1021; Pub. L. 95–334, title I, §112, Aug. 4, 1978, 92 Stat. 424; Pub. L. 96–358, §5, Sept. 25, 1980, 94 Stat. 1187; Pub. L. 96–438, §1(2), Oct. 13, 1980, 94 Stat. 1871; Pub. L. 99–409, §2, Aug. 28, 1986, 100 Stat. 923; Pub. L. 100–203, title I, §1504, Dec. 22, 1987, 101 Stat. 1330–28; Pub. L. 101–624, title XXIII, §§2325, 2337, 2347, formerly 2347(a), 2386, 2388(b), (c), Nov. 28, 1990, 104 Stat. 4013, 4022, 4034, 4051, 4052; Pub. L. 102–237, title VII, §701(c), (h)(1)(C), (D), Dec. 13, 1991, 105 Stat. 1879, 1880; Pub. L. 102–552, title V, §516(d), Oct. 28, 1992, 106 Stat. 4137; Pub. L. 102–554, §6, Oct. 28, 1992, 106 Stat. 4144; Pub. L. 104–127, title VI, §§635(b), 661(d), title VII, §§705(1), 747(a), 759B, Apr. 4, 1996,110 Stat. 1093, 1107, 1112, 1125, 1138; Pub. L. 104–180, title VII, §731, Aug. 6, 1996, 110 Stat. 1600; Pub. L. 107–171, title VI, §§6007(b), 6013–6017, May 13, 2002, 116 Stat. 355, 358, 359; Pub. L. 110–234, title VI, §§6012(a), (b)(2), 6013–6017, May 22, 2008, 122 Stat. 1164–1169; Pub. L. 110–246, §4(a), title VI, §§6012(a), (b)(2), 6013–6017, June 18, 2008, 122 Stat. 1664, 1925, 1927–1931.)
+(Pub. L. 87–128, title III, §310B, as added Pub. L. 92–419, title I, §118(a), Aug. 30, 1972, 86 Stat. 663; amended Pub. L. 91–524, title VIII, §817, as added Pub. L. 93–86, §1(27)(B), Aug. 10, 1973, 87 Stat. 241; Pub. L. 95–113, title XV, §1503(b), Sept. 29, 1977, 91 Stat. 1021; Pub. L. 95–334, title I, §112, Aug. 4, 1978, 92 Stat. 424; Pub. L. 96–358, §5, Sept. 25, 1980, 94 Stat. 1187; Pub. L. 96–438, §1(2), Oct. 13, 1980, 94 Stat. 1871; Pub. L. 99–409, §2, Aug. 28, 1986, 100 Stat. 923; Pub. L. 100–203, title I, §1504, Dec. 22, 1987, 101 Stat. 1330–28; Pub. L. 101–624, title XXIII, §§2325, 2337, 2347, formerly 2347(a), 2386, 2388(b), (c), Nov. 28, 1990, 104 Stat. 4013, 4022, 4034, 4051, 4052; Pub. L. 102–237, title VII, §701(c), (h)(1)(C), (D), Dec. 13, 1991, 105 Stat. 1879, 1880; Pub. L. 102–552, title V, §516(d), Oct. 28, 1992, 106 Stat. 4137; Pub. L. 102–554, §6, Oct. 28, 1992, 106 Stat. 4144; Pub. L. 104–127, title VI, §§635(b), 661(d), title VII, §§705(1), 747(a), 759B, Apr. 4, 1996, 110 Stat. 1093, 1107, 1112, 1125, 1138; Pub. L. 104–180, title VII, §731, Aug. 6, 1996, 110 Stat. 1600; Pub. L. 107–171, title VI, §§6007(b), 6013–6017, May 13, 2002, 116 Stat. 355, 358, 359; Pub. L. 110–234, title VI, §§6012(a), (b)(2), 6013–6017, May 22, 2008, 122 Stat. 1164–1169; Pub. L. 110–246, §4(a), title VI, §§6012(a), (b)(2), 6013–6017, June 18, 2008, 122 Stat. 1664, 1925, 1927–1931.)
 
 #### References in Text
 
@@ -449,6 +449,8 @@ The date of enactment of this paragraph and the date of enactment of this subsec
 #### Codification
 
 In subsec. (d)(7), “chapter 11 of title 31” substituted for “the Budget and Accounting Act of 1921 \[31 U.S.C. 1 et seq.\]” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+
+The authorities provided by each provision of, and each amendment made by, Pub. L. 110–246, as in effect on Sept. 30, 2012, to continue, and the Secretary of Agriculture to carry out the authorities, until the later of Sept. 30, 2013, or the date specified in the provision of, or amendment made by, Pub. L. 110–246, see section 701(a) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under section 8701 of this title.
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
@@ -584,7 +586,7 @@ Subsecs. (g), (h). Pub. L. 101–624, §2347, formerly §2347(a), as renumbered 
 
 Subsec. (i). Pub. L. 101–624, §2337, added subsec. (i).
 
-<b>1987</b>—Subsec. (c). Pub. L. 100–203 inserted “and private nonprofit corporations” after “to public bodies”and substituted “to finance and facilitate development of small and emerging” for “to facilitate development of”.
+<b>1987</b>—Subsec. (c). Pub. L. 100–203 inserted “and private nonprofit corporations” after “to public bodies” and substituted “to finance and facilitate development of small and emerging” for “to facilitate development of”.
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–409, §2(1), inserted provision that no loan may be made, insured, or guaranteed under this subsection that exceeds $25,000,000 in principal amount.
 
@@ -608,7 +610,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 #### Effective Date of 1996 Amendment
 
-Section 731 of Pub. L. 104–180 provided in part: “That this section \[amending this section\] shall take effect upon enactment of this Act into law \[Aug. 6, 1996\].”
+Pub. L. 104–180, title VII, §731, Aug. 6, 1996, 110 Stat. 1600, provided in part: “That this section \[amending this section\] shall take effect upon enactment of this Act into law \[Aug. 6, 1996\].”
 
 #### Effective Date of 1991 Amendment
 
@@ -616,7 +618,7 @@ Amendment by section 701(c) of Pub. L. 102–237 effective as if included in the
 
 #### Effective Date of 1986 Amendment
 
-Section 2(2) of Pub. L. 99–409 provided that the amendment made by that section is effective Oct. 1, 1986.
+Pub. L. 99–409, §2(2), Aug. 28, 1986, 100 Stat. 923, provided that the amendment made by section 2(2) is effective Oct. 1, 1986.
 
 #### Effective Date of 1980 Amendment
 
@@ -632,7 +634,7 @@ Powers, duties, and assets of agencies, offices, and other entities within Depar
 
 #### Business Development
 
-Section 2336 of Pub. L. 101–624 provided that: “The purposes of this chapter \[chapter 2 (§§2336, 2337) of subtitle D of title XXIII of Pub. L. 101–624, amending this section\] are to—
+Pub. L. 101–624, title XXIII, §2336, Nov. 28, 1990, 104 Stat. 4022, provided that: “The purposes of this chapter \[chapter 2 (§§2336, 2337) of subtitle D of title XXIII of Pub. L. 101–624, amending this section\] are to—
 
 &emsp;“(1) provide funds to improve telecommunications service in rural areas; and
 
@@ -640,7 +642,7 @@ Section 2336 of Pub. L. 101–624 provided that: “The purposes of this chapter
 
 #### Guarantee by Secretary of Agriculture of Loans to Nonprofit National Rural Development and Finance Corporations
 
-Pub. L. 99–198, title XIII, §1323, Dec. 23, 1985, 99 Stat. 1534, as amended by Pub. L. 99–425, title IV, §407(c), Sept. 30, 1986, 100 Stat. 971; Pub. L. 99–500, §101(a) \[title VI, §641\], Oct. 18, 1986, 100 Stat. 1783, 1783–35, and Pub. L. 99–591, §101(a) \[title VI, §641\], Oct. 30, 1986, 100 Stat. 3341, 3341–35; Pub. L. 100–202, §101(k) \[title VI, §636\], Dec. 22, 1987, 101 Stat. 1329–322, 1329–357, provided that:
+Pub. L. 99–198, title XIII, §1323, Dec. 23, 1985, 99 Stat. 1534, as amended by Pub. L. 99–425, title IV, §407(c),Sept. 30, 1986, 100 Stat. 971; Pub. L. 99–500, §101(a) \[title VI, §641\], Oct. 18, 1986, 100 Stat. 1783, 1783–35, and Pub. L. 99–591, §101(a) \[title VI, §641\], Oct. 30, 1986, 100 Stat. 3341, 3341–35; Pub. L. 100–202, §101(k) \[title VI, §636\], Dec. 22, 1987, 101 Stat. 1329–322, 1329–357, provided that:
 
 “(a)(1) Prior to September 30, 1988, the Secretary of Agriculture (hereafter in this section referred to as the ‘Secretary’) shall guarantee loans made by public agencies or private organizations (including loans made by financial institutions such as insurance companies) to nonprofit national rural development and finance corporations that establish similar and affiliated statewide rural development and finance programs for the purpose of providing loans, guarantees, and other financial assistance to profit or nonprofit local businesses to improve business, industry, and employment opportunities in a rural area (as determined by the Secretary).
 

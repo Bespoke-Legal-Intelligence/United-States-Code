@@ -212,7 +212,7 @@
 
 #### (B) Suspension
 
-&emsp;&emsp;Pending the outcome of any hearing to withhold payments under subsection (b), theSecretary may suspend payments to a recipient, suspend the authority of the recipient to obligate funds under this subchapter, or both, after such recipient has been given reasonable notice and an opportunity to show cause why future payments or authority to obligate funds under this subchapter should not be suspended.
+&emsp;&emsp;Pending the outcome of any hearing to withhold payments under subsection (b), the Secretary may suspend payments to a recipient, suspend the authority of the recipient to obligate funds under this subchapter, or both, after such recipient has been given reasonable notice and an opportunity to show cause why future payments or authority to obligate funds under this subchapter should not be suspended.
 
 #### (5) Report to Congress
 
@@ -244,7 +244,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If any State is dissatisfied with the Secretary's action with respect to the eligibility of the State under section 1412 of this title, such State may, not later than 60 days after notice of such action, file with the United States court of appeals for the circuit in which such State is located a petition for review of that action. A copy of the petition shall be transmitted by the clerk of the court to the Secretary. The Secretary thereupon shall file in the court the record of the proceedings upon which the Secretary's action was based, as provided in section 2112 of title 28.
+&emsp;&emsp;If any State is dissatisfied with the Secretary's action with respect to the eligibility of the State under section 1412 of this title, such State may, not later than 60 days after notice of such action, file with the United States court of appeals for the circuit in which such State is located a petition for review of that action. A copy of the petition shall be transmitted by the clerk of the court to the Secretary. The Secretary thereupon shall file in the court the recordof the proceedings upon which the Secretary's action was based, as provided in section 2112 of title 28.
 
 #### (B) Jurisdiction; review by United States Supreme Court
 

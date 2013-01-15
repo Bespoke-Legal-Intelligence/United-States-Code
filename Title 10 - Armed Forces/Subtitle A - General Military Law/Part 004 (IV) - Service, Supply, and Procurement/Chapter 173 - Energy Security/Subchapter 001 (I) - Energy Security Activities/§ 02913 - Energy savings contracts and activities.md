@@ -14,7 +14,7 @@ Shared Energy Savings Contracts.—(1) The Secretary of Defense shall develop a 
 
 &emsp;(D) select from such firms the most qualified firm to provide shared energy savings services pursuant to a contractual arrangement that the Secretary determines is fair and reasonable, taking into account the estimated value of the services to be rendered and the scope and nature of the project.
 
-(3) In carrying out paragraph (1), the Secretary may also provide for the direct negotiation, by departments, agencies, and instrumentalities of the Department of Defense, of contracts with shared energy savings contractors that have been selected competitively and approved by any gas or electric utility serving the department, agency, or instrumentality concerned.
+(3) In carrying out paragraph (1), the Secretary may also provide for the direct negotiation, by departments, agencies, and instrumentalities of the Department of Defense, of contracts with shared energy savings contractors that have been selected competitively and approved by any gas or electric utility serving thedepartment, agency, or instrumentality concerned.
 
 (b)
 

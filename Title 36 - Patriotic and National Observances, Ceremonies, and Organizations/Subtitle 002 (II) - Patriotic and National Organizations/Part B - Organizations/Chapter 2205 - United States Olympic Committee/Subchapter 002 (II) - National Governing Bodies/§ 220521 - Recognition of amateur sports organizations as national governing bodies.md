@@ -16,7 +16,7 @@ Recommendation to International Sports Federation.—Within 61 days after recogn
 
 Review of Recognition.—The corporation may review all matters related to the continued recognition of an organization as a national governing body and may take action it considers appropriate, including placing conditions on the continued recognition.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1471; Pub. L. 105–277, div. C, title I, §142(<i>l</i>), 112 Stat. 2681–607; Pub. L. 109–284, §5(20), Sept. 27, 2006, 120 Stat. 1212.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1471; Pub. L. 105–277, div. C, title I, §142(l), 112 Stat. 2681–607; Pub. L. 109–284, §5(20), Sept. 27, 2006, 120 Stat. 1212.)
 
 Historical and Revision Notes
 
@@ -60,9 +60,9 @@ In subsection (c), the words “in accordance with subsection (a) of this sectio
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–284 substituted “subsection” for “subsections”.
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–277, §142(<i>l</i>)(1), inserted first sentence and struck out former first sentence which read as follows: “For any sport that is included on the program of the Olympic Games or the Pan-American Games, the corporation may recognize as a national governing body an amateur sports organization that files an application and is eligible under section 220522 of this title.”
+<b>1998</b>—Subsec. (a). Pub. L. 105–277, §142(l)(1), inserted first sentence and struck out former first sentence which read as follows: “For any sport that is included on the program of the Olympic Games or the Pan-American Games, the corporation may recognize as a national governing body an amateur sports organization that files an application and is eligible under section 220522 of this title.”
 
-Pub. L. 105–277, §142(<i>l</i>)(2), substituted “approved, except as provided in section 220522(b) with respect to a paralympic sports organization.” for “approved.”
+Pub. L. 105–277, §142(l)(2), substituted “approved, except as provided in section 220522(b) with respect to a paralympic sports organization.” for “approved.”
 
-Subsec. (b). Pub. L. 105–277, §142(<i>l</i>)(3)–(5), substituted “hold at least 2 public hearings” for “hold a public hearing”, substituted “hearings.” for “hearing.” in two places, and inserted at end “The corporation shall send written notice, which shall include a copy of the application, at least 30 days prior to the date of any such public hearing to all amateur sports organizations known to the corporation in that sport.”
+Subsec. (b). Pub. L. 105–277, §142(l)(3)–(5), substituted “hold at least 2 public hearings” for “hold a public hearing”, substituted “hearings.” for “hearing.” in two places, and inserted at end “The corporation shall send written notice, which shall include a copy of the application, at least 30 days prior to the date of any such public hearing to all amateur sports organizations known to the corporation in that sport.”
 

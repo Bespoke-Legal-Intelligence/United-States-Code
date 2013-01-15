@@ -28,13 +28,13 @@ In determining the amount of income of an alien during the period of 3 years aft
 
 #### (d) Information and documentation; agreements with Secretary of State and Attorney General
 
-(1) Any individual who is an alien shall, during the period of 3 years after entry into the United States, in order to be an eligible individual or eligible spouse for purposes of this subchapter, be required to provide to the Commissioner of Social Security such information and documentation with respect to his sponsor as may be necessary in order for the Commissioner of Social Security to make any determination required under this section, and to obtain any cooperation from such sponsor necessary for any such determination. Such alien shall also be required to provide to the Commissioner of Social Security such information and documentationas the Commissioner of Social Security may request and which such alien or his sponsor provided in support of such alien's immigration application.
+(1) Any individual who is an alien shall, during the period of 3 years after entry into the United States, in order to be an eligible individual or eligible spouse for purposes of this subchapter, be required to provide to the Commissioner of Social Security such information and documentation with respect to his sponsor as may be necessary in order for the Commissioner of Social Security to make any determination required under this section, and to obtain any cooperation from such sponsor necessary for any such determination. Such alien shall also be required to provide to the Commissioner of Social Security such information and documentation as the Commissioner of Social Security may request and which such alien or his sponsor provided in support of such alien's immigration application.
 
 (2) The Commissioner of Social Security shall enter into agreements with the Secretary of State and the Attorney General whereby any information available to such persons and required in order to make any determination under this section will be provided by such persons to the Commissioner of Social Security, and whereby such persons shall inform any sponsor of an alien, at the time such sponsor executes an affidavit of support or similar agreement, of the requirements imposed by this section.
 
 #### (e) Joint and several liability of alien and sponsor for overpayments
 
-Any sponsor of an alien, and such alien, shall be jointly and severally liable for an amount equal to any overpayment made to such alien during the period of 3 years after such alien's entry into the United States, on account of such sponsor's failure to provide correct information under the provisions of this section, except where such sponsor was without fault, or where good cause for such failure existed. Any such overpayment which is not repaid to the Commissioner of Social Security or recovered in accordance with section 1383(b) of this title shall be withheld from any subsequent payment to which such alien or such sponsor is entitled under any provision of this chapter.
+Any sponsor of an alien, and such alien, shall be jointly and severally liable for an amount equal to any overpayment made to such alien during the period of 3 years after such alien'sentry into the United States, on account of such sponsor's failure to provide correct information under the provisions of this section, except where such sponsor was without fault, or where good cause for such failure existed. Any such overpayment which is not repaid to the Commissioner of Social Security or recovered in accordance with section 1383(b) of this title shall be withheld from any subsequent payment to which such alien or such sponsor is entitled under any provision of this chapter.
 
 #### (f) Exemptions
 
@@ -74,9 +74,9 @@ Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pu
 
 #### Effective Date of 1993 Amendment
 
-Section 7(a)(2) of Pub. L. 103–152 provided that: “The amendments made by paragraph (1) \[amending this section\] shall take effect on January 1, 1994.”
+Pub. L. 103–152, §7(a)(2), Nov. 24, 1993, 107 Stat. 1519, provided that: “The amendments made by paragraph (1) \[amending this section\] shall take effect on January 1, 1994.”
 
-Section 7(b)(2) of Pub. L. 103–152 provided that: “The amendments made by paragraph (1) \[amending this section\] shall take effect on October 1, 1996.”
+Pub. L. 103–152, §7(b)(2), Nov. 24, 1993, 107 Stat. 1519, provided that: “The amendments made by paragraph (1) \[amending this section\] shall take effect on October 1, 1996.”
 
 #### Effective Date of 1984 Amendment
 
@@ -86,7 +86,7 @@ Amendment by section 2663(g)(10) of Pub. L. 98–369 effective July 18, 1984, bu
 
 #### Effective Date
 
-Section 504(c) of Pub. L. 96–265 provided that: “The amendments made by this section \[enacting this section and amending section 1382c of this title\] shall be effective with respect to individuals applying for supplemental security income benefits under title XVI of the Social Security Act \[this subchapter\] for the first time after September 30, 1980.”
+Pub. L. 96–265, title V, §504(c), June 9, 1980, 94 Stat. 473, provided that: “The amendments made by this section \[enacting this section and amending section 1382c of this title\] shall be effective with respect to individuals applying for supplemental security income benefits under title XVI of the Social Security Act \[this subchapter\] for the first time after September 30, 1980.”
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

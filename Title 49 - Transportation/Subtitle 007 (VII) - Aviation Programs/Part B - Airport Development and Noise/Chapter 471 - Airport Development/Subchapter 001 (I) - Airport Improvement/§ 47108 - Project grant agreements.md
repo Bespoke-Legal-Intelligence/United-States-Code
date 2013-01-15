@@ -40,17 +40,17 @@ Change in Airport Status.—
 
 &emsp;(1)
 
-Changes to nonprimary airport status.—If the status of a primary airport changes to a nonprimary airport at a time when a development project under a multiyear agreement under subsection (a) is not yet completed, the project shall remain eligible for funding from discretionary funds under section 47115 at the funding level and under the terms provided by the agreement, subject to the availability of funds.
+Changes to nonprimary airport status.—If the status of a primary airportchanges to a nonprimary airport at a time when a development project under a multiyear agreement under subsection (a) is not yet completed, the project shall remain eligible for funding from discretionary funds under section 47115 at the funding level and under the terms provided by the agreement, subject to the availability of funds.
 
 &emsp;(2)
 
-Changes to noncommercial service airport status.—If the status of a commercial service airport changes to a noncommercial service airport at a time when a terminal development project under a phased-funding arrangement is not yet completed, the project shall remain eligible for funding from discretionary funds under section 47115 at the funding level and under the terms provided by thearrangement subject to the availability of funds.
+Changes to noncommercial service airport status.—If the status of a commercial service airport changes to a noncommercial service airport at a time when a terminal development project under a phased-funding arrangement is not yet completed, the project shall remain eligible for funding from discretionary funds under section 47115 at the funding level and under the terms provided by the arrangement subject to the availability of funds.
 
 &emsp;(3)
 
-Changes to nonhub primary status.—If the status of a nonhub primary airport changes to a small hub primary airport at a time when the airport has received discretionary funds under this chapter for a terminal development project in accordance with section 47110(d)(2), and the project is not yet completed, the project shall remain eligible for funding from the discretionary fund and the small airport fund to pay costs allowable under section 47110(d). Such project shall remain eligible for such funds for three fiscal years after the start of construction of the project, or if the Secretary determines that a further extension of eligibility is justified, until the project is completed.
+Changes to nonhub primary status.—If the status of a nonhub primary airport changes to a small hub primary airport at a time when the airport has received discretionary funds under this chapter for a terminal development project in accordance with section 47119(a), and the project is not yet completed, the project shall remain eligible for funding from the discretionary fund and the small airport fund to pay costs allowable under section 47119(a). Such project shall remain eligible for such funds for three fiscal years after the start of construction of the project, or if the Secretary determines that a further extension of eligibility is justified, until the project is completed.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1262; Pub. L. 106–181, title I, §135(c), Apr. 5, 2000, 114 Stat. 84; Pub. L. 108–176, title I, §149(a), Dec. 12, 2003, 117 Stat. 2505; Pub. L. 109–115, div. A, title I, §176(a), Nov. 30, 2005, 119 Stat. 2427.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1262; Pub. L. 106–181, title I, §135(c), Apr. 5, 2000, 114 Stat. 84; Pub. L. 108–176, title I, §149(a), Dec. 12, 2003, 117 Stat. 2505; Pub. L. 109–115, div. A, title I, §176(a), Nov. 30, 2005, 119 Stat. 2427; Pub. L. 112–95, title I, §152(e)(2), Feb. 14, 2012, 126 Stat. 34.)
 
 Historical and Revision Notes
 
@@ -103,6 +103,8 @@ The Airport and Airway Improvement Act of 1982, referred to in subsec. (b)(2)(A)
 The Airport and Airway Development Act of 1970, referred to in subsec. (c), is title I of Pub. L. 91–258, May 21, 1970, 84 Stat. 219, as amended, which was classified principally to chapter 25 (§1701 et seq.) of former Title 49. Sections 1 through 30 of title I of Pub. L. 91–258, which enacted sections 1701 to 1703, 1711 to 1713, and 1714 to 1730 of former Title 49, and a provision set out as a note under section 1701 of former Title 49, were repealed by Pub. L. 97–248, title V, §523(a), Sept. 3, 1982, 96 Stat. 695. Sections 31, 51, 52(a), (b)(4), (6), (c), (d), and 53 of title I of Pub. L. 91–258 were repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation. For complete classification of this Act to the Code, see Tables. For disposition of sections of former Title 49, see table at the beginning of Title 49.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (e)(3). Pub. L. 112–95 substituted “accordance with section 47119(a)” for “accordance with section 47110(d)(2)” and “allowable under section 47119(a)” for “allowable under section 47110(d)”.
 
 <b>2005</b>—Subsec. (e)(3). Pub. L. 109–115 added par. (3).
 

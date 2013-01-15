@@ -36,7 +36,7 @@ Congress finds that—
 
 &emsp;&emsp;(B) promote consolidation of the ownership of public and private land in a manner that would allow for better overall resource management;
 
-&emsp;(13) in certain locations, the sale of public land that has been identified for disposal isthe best way for the public to receive fair market value for the land; and
+&emsp;(13) in certain locations, the sale of public land that has been identified for disposal is the best way for the public to receive fair market value for the land; and
 
 &emsp;(14) to allow for the least disruption of existing land and resource management programs, the Bureau of Land Management may use non-Federal entities to prepare appraisal documents for agency review and approval consistent with applicable provisions of the Uniform Standards for Federal Land Acquisition.
 

@@ -60,7 +60,7 @@ Term of Enrollment in Project.—(1) Subject to paragraphs (2) and (3), the peri
 
 (2) A beneficiary who elects to enroll in the project, and who subsequently discontinues enrollment in the project before the end of the period described in paragraph (1), shall not be eligible to reenroll in the project.
 
-(3) An eligible beneficiary enrolled in a Federal Employees Health Benefits plan under this section may change health benefits plans and coverage in the same manner as any other Federal Employees Health Benefits program beneficiary may change such plans.
+(3) An eligible beneficiary enrolled in a Federal Employees Health Benefits plan under thissection may change health benefits plans and coverage in the same manner as any other Federal Employees Health Benefits program beneficiary may change such plans.
 
 (g)
 
@@ -78,61 +78,25 @@ Government Contributions.—The Secretary of Defense shall be responsible for th
 
 (j)
 
-Report Requirements.—(1) The Secretary of Defense and the Director of the Office of Personnel Management shall jointly submit to Congress two reports containing the information described in paragraph (2). The first report shall be submitted not later than the date that is 15 months after the date that the Secretary begins to implement the demonstration project. The second report shall be submitted not later than December 31, 2002.
-
-(2) The reports required by paragraph (1) shall include the following:
-
-&emsp;(A) Information on the number of eligible beneficiaries who elect to participate in the demonstration project.
-
-&emsp;(B) An analysis of the percentage of eligible beneficiaries who participate in the demonstration project as compared to the percentage of covered beneficiaries under this chapter who elect to enroll in a health care plan under such chapter.
-
-&emsp;(C) Information on eligible beneficiaries who elect to participate in the demonstration project and did not have Medicare Part B coverage before electing to participate in the project.
-
-&emsp;(D) An analysis of the enrollment rates and cost of health services provided to eligible beneficiaries who elect to participate in the demonstration project as compared with similarly situated enrollees in the Federal Employees Health Benefits program under chapter 89 of title 5.
-
-&emsp;(E) An analysis of how the demonstration project affects the accessibility of health care in military medical treatment facilities, and a description of any unintended effects on the treatment priorities in those facilities in the demonstration area.
-
-&emsp;(F) An analysis of any problems experienced by the Department of Defense in managing the demonstration project.
-
-&emsp;(G) A description of the effects of the demonstration project on medical readiness and training of the Armed Forces at military medical treatment facilities located in the demonstration area, and a description of the probable effects that making the project permanent would have on the medical readiness and training.
-
-&emsp;(H) An examination of the effects that the demonstration project, if made permanent, would be expected to have on the overall budget of the Department of Defense, the budget of the Office of Personnel Management, and the budgets of individual military medical treatment facilities.
-
-&emsp;(I) An analysis of whether the demonstration project affects the cost to the Department of Defense of prescription drugs or the accessibility, availability, and cost of such drugs to eligible beneficiaries.
-
-&emsp;(J) Any additional information that the Secretary of Defense or the Director of the Office of Personnel Management considers appropriate to assist Congress in determining the viability of expanding the project to all Medicare-eligible members of the uniformed services and their dependents.
-
-&emsp;(K) Recommendations on whether eligible beneficiaries—
-
-&emsp;&emsp;(i) should be given more than one chance to enroll in the demonstration project under this section;
-
-&emsp;&emsp;(ii) should be eligible to enroll in the project only during the first year following the date that the eligible beneficiary becomes eligible to receive hospital insurance benefits under part A of title XVIII of the Social Security Act; or
-
-&emsp;&emsp;(iii) should be eligible to enroll in the project only during the 2-year period following the date on which the beneficiary first becomes eligible to enroll in the project.
-
-(k)
-
-Comptroller General Report.—Not later than December 31, 2002, the Comptroller General shall submit to Congress a report addressing the same matters required to be addressed under subsection (j)(2). The report shall describe any limitations with respect to the data contained in the report as a result of the size and design of the demonstration project.
-
-(<i>l</i>)
-
 Application of Medigap Protections to Demonstration Project Enrollees.—(1) Subject to paragraph (2), the provisions of section 1882(s)(3) (other than clauses (i) through (iv) of subparagraph (B)) and 1882(s)(4) of the Social Security Act shall apply to enrollment (and termination of enrollment) in the demonstration project under this section, in the same manner as they apply to enrollment (and termination of enrollment) with a Medicare+Choice <sup>2</sup> organization in a Medicare+Choice <sup>2</sup> plan.
 
 (2) In applying paragraph (1)—
 
 &emsp;(A) any reference in clause (v) or (vi) of section 1882(s)(3)(B) of such Act to 12 months is deemed a reference to 36 months; and
 
-&emsp;(B) the notification required under section 1882(s)(3)(D) of such Act shall be provided in a manner specified by the Secretary of Defensein consultation with the Director of the Office of Personnel Management.
+&emsp;(B) the notification required under section 1882(s)(3)(D) of such Act shall be provided in a manner specified by the Secretary of Defense in consultation with the Director of the Office of Personnel Management.
 
-(Added Pub. L. 105–261, div. A, title VII, §721(a)(1), Oct. 17, 1998, 112 Stat. 2061; amended Pub. L. 108–375, div. A, title X, §1084(d)(8), Oct. 28, 2004, 118 Stat. 2061.)
+(Added Pub. L. 105–261, div. A, title VII, §721(a)(1), Oct. 17, 1998, 112 Stat. 2061; amended Pub. L. 108–375, div. A, title X, §1084(d)(8), Oct. 28, 2004, 118 Stat. 2061; Pub. L. 112–239, div. A, title X, §1076(g)(1), Jan. 2, 2013, 126 Stat. 1955.)
 
 #### References in Text
 
-The Social Security Act, referred to in subsecs. (b)(1)(A), (D)(i), (j)(2)(K)(ii), and (<i>l</i>)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title XVIII of the Act is classified generally to Part A (§1395c et seq.) of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. Section 1882 of the Act is classified to section 1395ss of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (b)(1)(A), (D)(i), and (j)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title XVIII of the Act is classified generally to Part A (§1395c et seq.) of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. Section 1882 of the Act is classified to section 1395ss of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 Section 1896 of the Social Security Act, referred to in subsec. (c)(3), was classified to section 1395ggg of Title 42, The Public Health and Welfare, and was omitted from the Code.
 
 #### Amendments
+
+<b>2013</b>—Subsecs. (j) to (l). Pub. L. 112–239 redesignated subsec. (l) as (j) and struck out former subsecs. (j) and (k) which required reports regarding the demonstration project by the Secretary of Defense and the Director of the Office of Personnel Management and by the Comptroller General.
 
 <b>2004</b>—Subsec. (e). Pub. L. 108–375 substituted “health” for “heath”.
 

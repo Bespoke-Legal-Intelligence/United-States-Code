@@ -14,7 +14,7 @@ If SIPC determines that—
 
 &emsp;(5) the cost to SIPC of satisfying customer claims under this section will be less than the cost under a liquidation proceeding; and
 
-&emsp;(6) such member's registration as a broker-dealer under section 78<i>o</i>(b) of this title has been terminated, or such member has consented to the use of the direct payment procedure set forth in this section,
+&emsp;(6) such member's registration as a broker-dealer under section 78o(b) of this title has been terminated, or such member has consented to the use of the direct payment procedure set forth in this section,
 
 > SIPC may, in its discretion, use the direct payment procedure set forth in this section in lieu of instituting a liquidation proceeding with respect to such member.
 
@@ -36,11 +36,11 @@ After SIPC has published notice of the institution of a direct payment procedure
 
 #### (f) Discontinuance of direct payment procedures
 
-If, at any time after the institution of a direct payment procedure with respect to a member, SIPC determines, in its discretion, that continuation of such direct payment procedure is not appropriate, SIPC may cease such direct payment procedure and, upon so doing, may seek a protective decree pursuant to section 78eee of this title. To the extent payments of cash, distributions of securities, or determinations with respect to the validity of a customer's claim are made under this section, such payments, distributions, and determinations shall be recognized and given full effect in the event of any subsequent liquidation proceeding. Any action brought under subsection (e) of this section and pending at the time of the appointment of a trustee under section 78eee(b)(3) of this title shall be permanently stayed by the court at thetime of such appointment, and the court shall enter an order directing the transfer or removal to it of such suit. Upon such removal or transfer the complaint in such action shall constitute the plaintiff's claim in the liquidation proceeding, if appropriate, and shall be deemed received by the trustee on the date of his appointment regardless of the date of actual transfer or removal of such action.
+If, at any time after the institution of a direct payment procedure with respect to a member, SIPC determines, in its discretion, that continuation of such direct payment procedure is not appropriate, SIPC may cease such direct payment procedure and, upon so doing, may seek a protective decree pursuant to section 78eee ofthis title. To the extent payments of cash, distributions of securities, or determinations with respect to the validity of a customer's claim are made under this section, such payments, distributions, and determinations shall be recognized and given full effect in the event of any subsequent liquidation proceeding. Any action brought under subsection (e) of this section and pending at the time of the appointment of a trustee under section 78eee(b)(3) of this title shall be permanently stayed by the court at the time of such appointment, and the court shall enter an order directing the transfer or removal to it of such suit. Upon such removal or transfer the complaint in such action shall constitute the plaintiff's claim in the liquidation proceeding, if appropriate, and shall be deemed received by the trustee on the date of his appointment regardless of the date of actual transfer or removal of such action.
 
 #### (g) References
 
-For purposes of this section, any reference to the trustee in sections 78fff–1(b)(1), 78fff–2(d), 78fff–2(f), 78fff–3(a), 78<i>lll</i>(5) and 78<i>lll</i>(12) of this title shall be deemed a reference to SIPC, and any reference to the date of publication of notice under section 78fff–2(a) of this title shall be deemed a reference to the publication of notice under this section.
+For purposes of this section, any reference to the trustee in sections 78fff–1(b)(1), 78fff–2(d), 78fff–2(f), 78fff–3(a), 78lll(5) and 78lll(12) of this title shall be deemed a reference to SIPC, and any reference to the date of publication of notice under section 78fff–2(a) of this title shall be deemed a reference to the publication of notice under this section.
 
 (Pub. L. 91–598, §10, as added Pub. L. 95–283, §9, May 21, 1978, 92 Stat. 266; amended Pub. L. 95–598, title III, §308(n), Nov. 6, 1978, 92 Stat. 2675.)
 

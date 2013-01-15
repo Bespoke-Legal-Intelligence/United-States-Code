@@ -38,21 +38,21 @@ Pub. L. 104–58, title III, §301, Nov. 28, 1995, 109 Stat. 563, provided that:
 
 Pub. L. 99–367, §1, July 31, 1986, 100 Stat. 774, provided: “That this Act \[enacting section 1865 of this title, amending section 1343 of this title, and repealing section 1861 of this title\] may be referred to as the ‘OCS Paperwork and Reporting Act’.”
 
-Section 8001 of title VIII of Pub. L. 99–272 provided that: “This title \[amending this section and sections 1332 and 1337 of this title and enacting provisions set out as a note under section 1337 of this title\] may be referred to as the ‘Outer Continental Shelf Lands Act Amendments of 1985’.”
+Pub. L. 99–272, title VIII, §8001, Apr. 7, 1986, 100 Stat. 147, provided that: “This title \[amending this section and sections 1332 and 1337 of this title and enacting provisions set out as a note under section 1337 of this title\] may be referred to as the ‘Outer Continental Shelf Lands Act Amendments of 1985’.”
 
 #### Short Title
 
-Section 1 of act May 22, 1953, provided that: “This Act \[enacting subchapters I and II of this chapter\] may be cited as the ‘Submerged Lands Act’.”
+Act Aug. 7, 1953, ch. 345, §1, 67 Stat. 462, provided that: “This Act \[enacting subchapter III of this chapter\] may be cited as the ‘Outer Continental Shelf Lands Act’.”
 
-Section 1 of act Aug. 7, 1953, ch. 345, 67 Stat. 462, provided that: “This Act \[enacting subchapter III of this chapter\] may be cited as the ‘Outer Continental Shelf Lands Act’.”
+Act May 22, 1953, ch. 65, §1, 67 Stat. 29, provided that: “This Act \[enacting subchapters I and II of this chapter\] may be cited as the ‘Submerged Lands Act’.”
 
 #### Separability
 
-Section 11 of act May 22, 1953, provided that: “If any provision of this Act \[enacting subchapters I and II of this chapter\], or any section, subsection, sentence, clause, phrase or individual word, or the application thereof to any person or circumstance is held invalid, the validity of the remainder of the Act and of the application of any such provision, section, subsection, sentence, clause, phrase or individual word to other persons and circumstances shall not be affected thereby; without limiting the generality of the foregoing, if subsection 3(a)1, 3(a)2, 3(b)1, 3(b)2, 3(b)3, or 3(c) \[section 1311(a)(1), (a)(2), (b)(1), (b)(2), (b)(3), (c) of this title\] or any provision of any of those subsections is held invalid, such subsection or provision shall be held separable and the remaining subsections and provisions shall not be affected thereby.”
+Act May 22, 1953, ch. 65, title II, §11, 67 Stat. 33, provided that: “If any provision of this Act \[enacting subchapters I and II of this chapter\], or any section, subsection, sentence, clause, phrase or individual word, or the application thereof to any person or circumstance is held invalid, the validity of the remainder of the Act and of the application of any such provision, section, subsection, sentence, clause, phrase or individual word to other persons and circumstances shall not be affected thereby; without limiting the generality of the foregoing, if subsection 3(a)1, 3(a)2, 3(b)1, 3(b)2, 3(b)3, or 3(c) \[section 1311(a)(1), (a)(2), (b)(1), (b)(2), (b)(3), (c) of this title\] or any provision of any of those subsections is held invalid, such subsection or provision shall be held separable and the remaining subsections and provisions shall not be affected thereby.”
 
 #### Naval Petroleum Reserve
 
-Section 10 of act May 22, 1953, revoked Ex. Ord. No. 10426, Jan. 16, 1953, 18 F.R. 405, “insofar as it applies to any lands beneath navigable waters as defined in section 2 hereof \[this section\]”. Ex. Ord. 10426 set aside certain submerged lands as a naval petroleum reserve and transferred functions with respect thereto from the Secretary of the Interior to the Secretary of the Navy.
+Act May 22, 1953, ch. 65, title II, §10, 67 Stat. 33, revoked Ex. Ord. No. 10426, Jan. 16, 1953, 18 F.R. 405, “insofar as it applies to any lands beneath navigable waters as defined in section 2 hereof \[this section\]”. Ex. Ord. 10426 set aside certain submerged lands as a naval petroleum reserve and transferred functions with respect thereto from the Secretary of the Interior to the Secretary of the Navy.
 
 #### Application to State of Alaska
 

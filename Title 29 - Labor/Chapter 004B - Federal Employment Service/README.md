@@ -18,8 +18,8 @@
 | [49j.](%C2%A7%2000049j%20-%20Notice%20of%20strikes%20and%20lockouts%20to%20applicants.md) | Notice of strikes and lockouts to applicants. |
 | [49k.](%C2%A7%2000049k%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
 | 49<i>l.</i> | Miscellaneous operating authorities. |
-| 49<i>l</i>–1. | Authorization of appropriations. |
-| 49<i>l</i>–2. | Employment statistics. |
+| 49l–1. | Authorization of appropriations. |
+| 49l–2. | Employment statistics. |
 | 49m, 49n. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

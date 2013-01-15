@@ -58,7 +58,7 @@ Amendment by Pub. L. 104–188 applicable to articles entered on or after Oct. 1
 
 #### Effective Date
 
-Section 213 of Pub. L. 103–182 provided that:
+Pub. L. 103–182, title II, §213, Dec. 8, 1993, 107 Stat. 2099, provided that:
 
 “(a)
 

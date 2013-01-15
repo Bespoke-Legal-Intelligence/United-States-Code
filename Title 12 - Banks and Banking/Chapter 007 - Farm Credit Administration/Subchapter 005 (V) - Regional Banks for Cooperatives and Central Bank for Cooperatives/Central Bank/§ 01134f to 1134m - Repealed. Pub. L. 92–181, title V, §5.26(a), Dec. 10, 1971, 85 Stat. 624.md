@@ -12,7 +12,7 @@ Section 1134j, acts June 16, 1933, ch. 98, title III, §§34, 38, 48 Stat. 262, 
 
 Section 1134k, acts June 16, 1933, ch. 98, title III, §35, 48 Stat. 263; June 3, 1935, ch. 164, §15, 49 Stat. 318; Aug. 11, 1955, ch. 785, title I, §102, 69 Stat. 658, made regional bank stock provisions applicable to ownership of stock by central bank borrowers and provided for payments for such stock. See section 2130 of this title.
 
-Section 1134<i>l</i>, acts June 16, 1933, ch. 98, title III, §36, 48 Stat. 263; Aug. 6, 1953, ch. 335, §12, 67 Stat. 395; Aug. 11, 1955, ch. 785, title I, §103(a), 69 Stat. 658; Oct. 3, 1961, Pub. L. 87–343, §2(3), 75 Stat. 758; Aug. 31, 1964, Pub. L. 88–528, 78 Stat. 736, provided for disposition of earnings and maintenance of reserves of central bank. See section 2132 of this title.
+Section 1134l, acts June 16, 1933, ch. 98, title III, §36, 48 Stat. 263; Aug. 6, 1953, ch. 335, §12, 67 Stat. 395; Aug. 11, 1955, ch. 785, title I, §103(a), 69 Stat. 658; Oct. 3, 1961, Pub. L. 87–343, §2(3), 75 Stat. 758; Aug. 31, 1964, Pub. L. 88–528, 78 Stat. 736, provided for disposition of earnings and maintenance of reserves of central bank. See section 2132 of this title.
 
 Section 1134m, acts June 16, 1933, ch. 98, title III, §37, 48 Stat. 263; Aug. 23, 1954, ch. 834, §1, 68 Stat. 770, covered debentures, amount of such debentures, security, preparation, and issuance of such debentures, and consolidated debentures of central and regional banks for cooperatives. See section 2153 of this title.
 

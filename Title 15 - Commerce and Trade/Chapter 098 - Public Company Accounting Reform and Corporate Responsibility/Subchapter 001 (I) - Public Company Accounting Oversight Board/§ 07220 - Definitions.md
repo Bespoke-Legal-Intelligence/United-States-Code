@@ -32,7 +32,7 @@ For the purposes of this subchapter, the following definitions shall apply:
 
 &emsp;&emsp;(A) accounting principles that are—
 
-&emsp;&emsp;&emsp;(i) established by the standard setting body described in section 77s(b) of this title, as amended by this Act, or prescribedby the Commission under section 77s(a) of this title or section 78m(b) of this title; and
+&emsp;&emsp;&emsp;(i) established by the standard setting body described in section 77s(b) of this title, as amended by this Act, or prescribed by the Commission under section 77s(a) of this title or section 78m(b) of this title; and
 
 &emsp;&emsp;&emsp;(ii) relevant to audit reports for particular issuers, brokers, or dealers, or dealt with in the quality control system of a particular registered public accounting firm; and
 
@@ -52,7 +52,7 @@ For the purposes of this subchapter, the following definitions shall apply:
 
 Section 77s(b) of this title, as amended by this Act, referred to in par. (5)(A)(i), means section 77s(b) of this title, as amended by Pub. L. 107–204.
 
-Title II, referred to in par. (5)(B), means title II of Pub. L. 107–204, July 30, 2002, 116 Stat. 771, which enacted subchapter II of this chapter and amended sections 78c, 78j–1, 78<i>l</i> and 78q of this title. For complete classification of title II to the Code, see Tables.
+Title II, referred to in par. (5)(B), means title II of Pub. L. 107–204, July 30, 2002, 116 Stat. 771, which enacted subchapter II of this chapter and amended sections 78c, 78j–1, 78l and 78q of this title. For complete classification of title II to the Code, see Tables.
 
 #### Effective Date
 

@@ -86,7 +86,7 @@ Rule of Construction Related to Intelligence Activities.—Nothing in this secti
 
 #### Funds Made Available for Transportation of Medical Supplies to American Samoa and Indian Health Service
 
-Pub. L. 110–329, div. C, title VIII, §8058, Sept. 30, 2008, 122 Stat. 3634, provided that: “Notwithstanding anyother provision of law, funds available to the Department of Defense in this Act \[div. C of Pub. L. 110–329, see Tables for classification\], and hereafter, shall be made available to provide transportation of medical supplies and equipment, on a nonreimbursable basis, to American Samoa, and funds available to the Department of Defense shall be made available to provide transportation of medical supplies and equipment, on a nonreimbursable basis, to the Indian Health Service when it is in conjunction with a civil-military project.”
+Pub. L. 110–329, div. C, title VIII, §8058, Sept. 30, 2008, 122 Stat. 3634, provided that: “Notwithstanding any other provision of law, funds available to the Department of Defense in this Act \[div. C of Pub. L. 110–329, see Tables for classification\], and hereafter, shall be made available to provide transportation of medical supplies and equipment, on a nonreimbursable basis, to American Samoa, and funds available to the Department of Defense shall be made available to provide transportation of medical supplies and equipment, on a nonreimbursable basis, to the Indian Health Service when it is in conjunction with a civil-military project.”
 
 #### Obligation of Funds for Installation Support Functions
 
@@ -136,7 +136,7 @@ Limitation on Use of Funds for Research and Development on Total Information Awa
 
 &emsp;&emsp;“(A) the submittal of the report to Congress within 90 days after the date of the enactment of this Act is not practicable; and
 
-&emsp;&emsp;“(B) the cessation of research and development on the Total Information Awareness program would endanger the national security of the United States.
+&emsp;&emsp;“(B) the cessation of research and development on the Total Information Awareness program wouldendanger the national security of the United States.
 
 “(b)
 
@@ -174,7 +174,7 @@ Limitation on Deployment of Total Information Awareness Program.—(1) Notwithst
 
 &emsp;&emsp;“(ii) a specific appropriation by law of funds for the deployment or implementation of such program or component.
 
-“(2) The limitation in paragraph (1) shall not apply with respect to the deployment or implementation ofthe Total Information Awareness program, or a component of such program, in support of the following:
+“(2) The limitation in paragraph (1) shall not apply with respect to the deployment or implementation of the Total Information Awareness program, or a component of such program, in support of the following:
 
 &emsp;“(A) Lawful military operations of the United States conducted outside the United States.
 
@@ -272,7 +272,7 @@ Pub. L. 101–511, title VIII, §8080, Nov. 5, 1990, 104 Stat. 1893, provided th
 
 #### Availability of Appropriations
 
-The following general provisions, that had been repeated as fiscal year provisions in prior appropriation acts, were enacted as permanent law in the Department of Defense Appropriations Act, 1990, Pub. L. 101–165, title IX, §§9002, 9006, 9020, 9025, 9030, 9079, Nov. 21, 1989, 103 Stat. 1129, 1130, 1133–1135, 1147:
+The following general provisions, that had been repeated as fiscal year provisions in prior appropriation acts, were enacted as permanent law in the Departmentof Defense Appropriations Act, 1990, Pub. L. 101–165, title IX, §§9002, 9006, 9020, 9025, 9030, 9079, Nov. 21, 1989, 103 Stat. 1129, 1130, 1133–1135, 1147:
 
 “
 

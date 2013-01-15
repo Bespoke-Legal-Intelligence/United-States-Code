@@ -46,7 +46,7 @@ The President shall not designate any country a beneficiary country under this c
 
 &emsp;&emsp;&emsp;(i) prompt, adequate, and effective compensation has been or is being made to such citizen, corporation, partnership, or association,
 
-&emsp;&emsp;&emsp;(ii) good-faith negotiations to provide prompt, adequate, and effective compensation under the applicable provisions of international law are in progress, or such country is otherwise taking steps to discharge its obligations under international law with respect to such citizen, corporation, partnership, or association, or
+&emsp;&emsp;&emsp;(ii) good-faith negotiations to provide prompt, adequate, and effective compensation under the applicable provisions of international law are in progress, or such country is otherwise taking steps to discharge its obligations under internationallaw with respect to such citizen, corporation, partnership, or association, or
 
 &emsp;&emsp;&emsp;(iii) a dispute involving such citizen, corporation, partnership, or association, over compensation for such a seizure has been submitted to arbitration under the provisions of the Convention for the Settlement of Investment Disputes, or in another mutually agreed upon forum, and
 
@@ -194,7 +194,7 @@ In general.—Not later than 180 days after the date of the enactment of this Ac
 
 “(2)
 
-Content of regulations.—The regulations shall be similar to the regulations regarding eligibility under the generalized system of preferences under title V of the Trade Act of 1974 \[19 U.S.C. 2461 et seq.\] with respect to the timetable for reviews and content, and shall include procedures for requesting withdrawal, suspension, or limitations of preferential duty treatment under the Andean Trade Preference Act, conducting reviews of such requests, and implementing the results of the reviews.”
+Content of regulations.—The regulations shall be similar to the regulations regarding eligibilityunder the generalized system of preferences under title V of the Trade Act of 1974 \[19 U.S.C. 2461 et seq.\] with respect to the timetable for reviews and content, and shall include procedures for requesting withdrawal, suspension, or limitations of preferential duty treatment under the Andean Trade Preference Act, conducting reviews of such requests, and implementing the results of the reviews.”
 
 \[For delegation of functions of President under section 3103(d) of Pub. L. 107–210, set out above, see section 2(a) of Ex. Ord. No. 13277, Nov. 19, 2002, 67 F.R. 70305, set out as a note under section 3801 of this title.\]
 

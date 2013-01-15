@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(A) publish notice in the Federal Register that the petition has been received, and
 
-&emsp;&emsp;(B) provide opportunity for the presentation of views regarding the establishment of the requested product category, including a public hearing if requested by any interested person.
+&emsp;&emsp;(B) provide opportunity for the presentation of views regarding the establishmentof the requested product category, including a public hearing if requested by any interested person.
 
 #### (4) Determinations
 

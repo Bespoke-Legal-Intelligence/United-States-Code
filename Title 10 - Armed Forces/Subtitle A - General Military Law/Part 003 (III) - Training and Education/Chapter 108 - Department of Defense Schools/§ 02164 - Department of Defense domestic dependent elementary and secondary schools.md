@@ -26,7 +26,7 @@ Factors for Secretary To Consider.—(1) Factors to be considered by the Secreta
 
 &emsp;(B) The extent to which the local educational agency is able to provide an appropriate educational program for such dependents.
 
-(2) For purposes of paragraph (1)(B), an appropriate educational program is a program that,as determined by the Secretary, is comparable to a program of free public education provided for children by the following local educational agencies:
+(2) For purposes of paragraph (1)(B), an appropriate educational program is a program that, as determined by the Secretary, is comparable to a program of free public education provided for children by the following local educational agencies:
 
 &emsp;(A) In the case of a military installation located in a State (other than an installation referred to in subparagraph (B)), local educational agencies in the State that are similar to the local educational agency referred to in paragraph (1)(B).
 
@@ -138,7 +138,7 @@ Continuation of Enrollment Despite Change in Status.—(1) The Secretary of Defe
 
 (2) The Secretary may, for good cause, authorize a dependent of a member of the armed forces or a dependent of a Federal employee to continue enrollment in an educational program provided by the Secretary pursuant to subsection (a) notwithstanding a change in the status of the member or employee that, except for this paragraph, would otherwise terminate the eligibility of the dependent to be enrolled in the program. The enrollment may continue for as long as the Secretary considers appropriate.
 
-(3) Paragraphs (1) and (2) do not limit the authority of the Secretary to remove a dependent from enrollment in an educational program provided by the Secretary pursuant to subsection (a) at any time for good cause determined by the Secretary.
+(3) Paragraphs (1) and (2) do not limit the authority of the Secretary to remove a dependentfrom enrollment in an educational program provided by the Secretary pursuant to subsection (a) at any time for good cause determined by the Secretary.
 
 (i)
 
@@ -164,7 +164,29 @@ Tuition-free Enrollment of Dependents of Foreign Military Personnel Residing on 
 
 &emsp;(B) A deceased member of the armed forces who died in the line of duty in a combat-related operation, as designated by the Secretary.
 
-(Added Pub. L. 103–337, div. A, title III, §351(a), Oct. 5, 1994, 108 Stat. 2727; amended Pub. L. 104–106, div. A, title X, §1075, Feb. 10, 1996, 110 Stat. 450; Pub. L. 104–201, div. A, title XVI, §1608, Sept. 23, 1996, 110 Stat. 2737; Pub. L. 105–261, div. A, title III, §371(a)–(c)(2), Oct. 17, 1998, 112 Stat. 1988, 1989; Pub. L. 106–65, div. A, title III, §§352, 353, Oct. 5, 1999, 113 Stat. 572; Pub. L. 106–398, §1 \[\[div. A\], title III, §361\], Oct. 30, 2000, 114 Stat. 1654, 1654A–76; Pub. L. 108–446, title III, §305(a), Dec. 3, 2004, 118 Stat. 2804; Pub. L. 111–84, div. A, title V, §534, Oct. 28, 2009, 123 Stat. 2292; Pub. L. 111–383, div. A, title V, §561, Jan. 7, 2011, 124 Stat. 4221.)
+(k)
+
+Enrollment of Relocated Defense Dependents’ Education System Students.—(1) The Secretary of Defense may authorize the enrollment in a Department of Defense education program provided by the Secretary pursuant to subsection (a) of a dependent of a member of the armed forces or a dependent of a Federal employee who is enrolled in the defense dependents’ education system established under section 1402 of the Defense Dependents’ Education Act of 1978 (20 U.S.C. 921) if—
+
+&emsp;(A) the dependents departed the overseas location as a result of a evacuation order;
+
+&emsp;(B) the designated safe haven of the dependent is located within reasonable commuting distance of a school operated by the Department of Defense education program; and
+
+&emsp;(C) the school possesses the capacity and resources necessary to enable the student to attend the school.
+
+(2) Unless waived by the Secretary of Defense, a dependent described in paragraph (1) who is enrolled in a school operated by the Department of Defense education program pursuant to such paragraph may attend the school only through the end of the school year.
+
+(l)
+
+Enrollment in Virtual Elementary and Secondary Education Program.—(1) Under regulations prescribed by the Secretary of Defense, the Secretary may authorize the enrollment in the virtual elementary and secondary education program established as a component of the Department of Defense education program of a dependent of a member of the armed forces on active duty who—
+
+&emsp;(A) is enrolled in an elementary or secondary school operated by a local educational agency or another accredited educational program in the United States (other than a school operated by the Department of Defense education program); and
+
+&emsp;(B) immediately before such enrollment, was enrolled in the defense dependents’ education system established under section 1402 of the Defense Dependents’ Education Act of 1978 (20 U.S.C. 921).
+
+(2) Enrollment of a dependent described in paragraph (1) pursuant to such paragraph shall be on a tuition basis.
+
+(Added Pub. L. 103–337, div. A, title III, §351(a), Oct. 5, 1994, 108 Stat. 2727; amended Pub. L. 104–106, div. A, title X, §1075, Feb. 10, 1996, 110 Stat. 450; Pub. L. 104–201, div. A, title XVI, §1608, Sept. 23, 1996, 110 Stat. 2737; Pub. L. 105–261, div. A, title III, §371(a)–(c)(2), Oct. 17, 1998, 112 Stat. 1988, 1989; Pub. L. 106–65, div. A, title III, §§352, 353, Oct. 5, 1999, 113 Stat. 572; Pub. L. 106–398, §1 \[\[div. A\], title III, §361\], Oct. 30, 2000, 114 Stat. 1654, 1654A–76; Pub. L. 108–446, title III, §305(a), Dec. 3, 2004, 118 Stat. 2804; Pub. L. 111–84, div. A, title V, §534, Oct. 28, 2009, 123 Stat. 2292; Pub. L. 111–383, div. A, title V, §561, Jan. 7, 2011, 124 Stat. 4221; Pub. L. 112–239, div. A, title V, §565, Jan. 2, 2013, 126 Stat. 1749.)
 
 #### References in Text
 
@@ -177,6 +199,8 @@ The Individuals with Disabilities Education Act, referred to in subsec. (f)(1), 
 Section 6(a) of Public Law 81–874 (20 U.S.C. 241(a)), referred to in subsec. (f)(2), was repealed by Pub. L. 103–382, title III, §331(b), Oct. 20, 1994, 108 Stat. 3965.
 
 #### Amendments
+
+<b>2013</b>—Subsecs. (k), (l). Pub. L. 112–239 added subsecs. (k) and (l).
 
 <b>2011</b>—Subsec. (a)(3). Pub. L. 111–383 added par. (3).
 
@@ -220,7 +244,7 @@ Pub. L. 105–261, div. A, title III, §371(c)(3), Oct. 17, 1998, 112 Stat. 1989
 
 #### Savings Provision
 
-Section 351(c) of Pub. L. 103–337 provided that: “Nothing in section 2164 of title 10, United States Code, as added by subsection (a), shall be construed as affecting the rights in existence on the date of the enactment of this Act \[Oct. 5, 1994\] of an employee of any school established under such section (or any other provision of law enacted before the date of the enactment of this Act that established a similar school) to negotiate or bargain collectively with the Secretary with respect to wages, hours, and other terms and conditions of employment.”
+Pub. L. 103–337, div. A, title III, §351(c), Oct. 5, 1994, 108 Stat. 2730, provided that: “Nothing in section 2164 of title 10, United States Code, as added by subsection (a), shall be construed as affecting the rights in existence on the date of the enactment of this Act \[Oct. 5, 1994\] of an employee of any school established under such section (or any other provision of law enacted before the date of the enactment of this Act that established a similar school) to negotiate or bargain collectively with the Secretary with respect to wages, hours, and other terms and conditions of employment.”
 
 #### Transfer of Functions
 

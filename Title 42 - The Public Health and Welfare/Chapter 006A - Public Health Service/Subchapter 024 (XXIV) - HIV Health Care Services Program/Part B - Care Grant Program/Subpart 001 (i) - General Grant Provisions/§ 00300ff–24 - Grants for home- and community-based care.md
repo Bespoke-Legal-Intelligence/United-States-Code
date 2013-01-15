@@ -8,7 +8,7 @@ A State may use amounts provided under a grant awarded under section 300ff–21 
 
 &emsp;(2) provide outreach services to individuals with HIV/AIDS, including those individuals in rural areas; and
 
-&emsp;(3) provide for the coordination of the provision of services under this section with the provision of HIV-related health services, including specialty care and vaccinations for hepatitis co-infection, provided by public and private entities.
+&emsp;(3) provide for the coordination of the provision of services under this section with theprovision of HIV-related health services, including specialty care and vaccinations for hepatitis co-infection, provided by public and private entities.
 
 #### (b) Priority
 

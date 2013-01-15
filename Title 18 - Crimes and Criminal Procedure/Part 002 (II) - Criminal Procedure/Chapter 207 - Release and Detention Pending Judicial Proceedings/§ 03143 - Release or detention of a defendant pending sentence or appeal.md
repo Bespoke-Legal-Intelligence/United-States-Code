@@ -82,7 +82,7 @@ Amendment by Pub. L. 102–572 effective Jan. 1, 1993, see section 1101 of Pub. 
 
 #### Effective Date of 1986 Amendment
 
-Section 51(c) of Pub. L. 99–646 provided that: “The amendment made by subsection (a)(2) \[amending this section\] shall take effect on the date of the taking of effect of section 3742 of title 18, United States Code \[Nov. 1, 1987\].”
+Pub. L. 99–646, §51(c), Nov. 10, 1986, 100 Stat. 3606, provided that: “The amendment made by subsection (a)(2) \[amending this section\] shall take effect on the date of the taking of effect of section 3742 of title 18, United States Code \[Nov. 1, 1987\].”
 
 Amendment by section 55(a), (d) of Pub. L. 99–646 effective 30 days after Nov. 10, 1986, see section 55(j) of Pub. L. 99–646, set out as a note under section 3141 of this title.
 

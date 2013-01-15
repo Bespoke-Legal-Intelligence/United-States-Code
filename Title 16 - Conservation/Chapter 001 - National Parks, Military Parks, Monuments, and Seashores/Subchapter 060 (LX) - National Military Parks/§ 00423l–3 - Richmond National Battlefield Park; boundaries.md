@@ -6,7 +6,7 @@ For the purpose of protecting, managing, and interpreting the resources associat
 
 #### (b) Boundary adjustments
 
-The Secretary may make minor adjustments in the boundaries of the battlefield park consistent with section 460<i>l</i>–9(c) of this title.
+The Secretary may make minor adjustments in the boundaries of the battlefield park consistent with section 460l–9(c) of this title.
 
 (Pub. L. 106–511, title V, §503, Nov. 13, 2000, 114 Stat. 2374.)
 

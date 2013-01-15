@@ -24,7 +24,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary may make grants to, and enter into contracts with, schools of medicine,schools of osteopathic medicine, teaching hospitals, and graduate medical education programs, for the purpose of providing support (including residencies, traineeships, and fellowships) for geriatric training projects to train physicians, dentists and behavioral and mental health professionals who plan to teach geriatric medicine, geriatric behavioral or mental health, or geriatric dentistry.
+&emsp;The Secretary may make grants to, and enter into contracts with, schools of medicine, schools of osteopathic medicine, teaching hospitals, and graduate medical education programs, for the purpose of providing support (including residencies, traineeships, and fellowships) for geriatric training projects to train physicians, dentists and behavioral and mental health professionals who plan to teach geriatric medicine, geriatric behavioral or mental health, or geriatric dentistry.
 
 #### (2) Requirements
 
@@ -90,7 +90,7 @@
 
 &emsp;&emsp;(A) be board certified or board eligible in internal medicine, family practice, psychiatry, or licensed dentistry, or have completed any required training in a discipline and employed in an accredited health professions school that is approved by the Secretary;
 
-&emsp;&emsp;(B) have completed an approved fellowship program in geriatrics or have completed specialty training in geriatrics as required by the discipline and any addition <sup>2</sup> geriatrics training as required by the Secretary; and
+&emsp;&emsp;(B) have completed an approved fellowship program in geriatrics or have completed specialty training in geriatrics as required bythe discipline and any addition <sup>2</sup> geriatrics training as required by the Secretary; and
 
 &emsp;&emsp;(C) have a junior (non-tenured) faculty appointment at an accredited (as determined by the Secretary) school of medicine, osteopathic medicine, nursing, social work, psychology, dentistry, pharmacy, or other allied health disciplines in an accredited health professions school that is approved by the Secretary.
 
@@ -156,7 +156,7 @@
 
 #### (C) CME credit
 
-&emsp;&emsp;Participation in a fellowship under this paragraph shall be accepted with respect to complying with continuing health profession education requirements. As a condition of such acceptance, the recipient shall agree to subsequently provide a minimum of 18 hours of voluntary instructional support through a geriatric education center that is providing clinical training to students or trainees in long-term care settings.
+&emsp;&emsp;Participation in a fellowship under this paragraph shall be accepted with respect to complying with continuing health profession education requirements. As a condition of such acceptance, the recipient shall agree to subsequently provide a minimum of 18 hoursof voluntary instructional support through a geriatric education center that is providing clinical training to students or trainees in long-term care settings.
 
 #### (5) Additional required activities described
 
@@ -164,7 +164,7 @@
 
 #### (A) Family caregiver and direct care provider training
 
-&emsp;&emsp;A geriatric education center that receives an award under this subsection shall offer atleast 2 courses each year, at no charge or nominal cost, to family caregivers and direct care providers that are designed to provide practical training for supporting frail elders and individuals with disabilities. The Secretary shall require such Centers to work with appropriate community partners to develop training program content and to publicize the availability of training courses in their service areas. All family caregiver and direct care provider training programs shall include instruction on the management of psychological and behavioral aspects of dementia, communication techniques for working with individuals who have dementia, and the appropriate, safe, and effective use of medications for older adults.
+&emsp;&emsp;A geriatric education center that receives an award under this subsection shall offer at least 2 courses each year, at no charge or nominal cost, to family caregivers and direct care providers that are designed to provide practical training for supporting frail elders and individuals with disabilities. The Secretary shall require such Centers to work with appropriate community partners to develop training program content and to publicize the availability of training courses in their service areas. All family caregiver and direct care provider training programs shall include instruction on the management of psychological and behavioral aspects of dementia, communication techniques for working with individuals who have dementia, and the appropriate, safe, and effective use of medications for older adults.
 
 #### (B) Incorporation of best practices
 

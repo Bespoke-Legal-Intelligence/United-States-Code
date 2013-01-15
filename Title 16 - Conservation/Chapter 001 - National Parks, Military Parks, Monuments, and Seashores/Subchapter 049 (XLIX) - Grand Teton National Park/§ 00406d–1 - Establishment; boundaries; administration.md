@@ -1,6 +1,6 @@
 ### §406d–1. Establishment; boundaries; administration
 
-For the purpose of including in one national park, for public benefit and enjoyment, the lands within the present Grand Teton National Park and a portion of the lands within the Jackson Hole National Monument, there is established a new “Grand Teton National Park”. The park shall comprise, subject to valid existing rights, all of the present Grand Teton National Park and all lands of the Jackson Hole National Monument that are not otherwise expressly provided for in this subchapter and sections 431a, 451a, 482m, 673b, and 673c of this title, and an order setting forth the boundaries of the park shall be prepared by the Secretary of the Interior and published in the Federal Register. The national park so established shall, so far as consistent with the provisions of this subchapter and said sections, be administered in accordance with the general statutes governing national parks, and shall supersede the present Grand Teton National Park and the Jackson Hole National Monument.
+For the purpose of including in one national park, for public benefit and enjoyment, the lands within the present Grand Teton National Park and a portion of the lands within the Jackson Hole National Monument, there is established a new “Grand Teton National Park”. The park shall comprise, subject to valid existing rights, all of the present Grand Teton National Park and all lands of the Jackson Hole National Monument that are not otherwise expressly provided for in this subchapter and sections 431a, 451a, 482m, 673b, and 673c of this title, and an order setting forth the boundaries of the park shall be prepared by the Secretary of the Interior and published in the Federal Register. The national park so established shall, so far as consistent with the provisions of this subchapter and said sections, be administered in accordance with the general statutes governing national parks, and shall supersede the present GrandTeton National Park and the Jackson Hole National Monument.
 
 (Sept. 14, 1950, ch. 950, §1, 64 Stat. 849.)
 
@@ -138,7 +138,7 @@ Pub. L. 108–32, June 17, 2003, 117 Stat. 779, provided that:
 
 &emsp;“(3) exchange of Federal lands in the State of Wyoming that are identified for disposal under approved land use plans in effect on the date of enactment of this Act \[June 17, 2003\] under section 202 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1712) that are of equal value to the State lands acquired in the exchange.
 
-“(b) In the event that the Secretary or the Governor determines that the Federal lands eligible for exchange under subsection (a)(3) are not sufficient or acceptable for the acquisition of all the State lands identified insection 2(4), the Secretary shall identify other Federal lands or interests therein in the State of Wyoming for possible exchange and shall identify such lands or interests together with their estimated value in a report to the Committee on Energy and Natural Resources of the United States Senate and the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives. Such lands or interests shall not be available for exchange unless authorized by an Act of Congress enacted after the date of submission of the report.
+“(b) In the event that the Secretary or the Governor determines that the Federal lands eligible for exchange under subsection (a)(3) are not sufficient or acceptable for the acquisition of all the State lands identified in section 2(4), the Secretary shall identify other Federal lands or interests therein in the State of Wyoming for possible exchange and shall identify such lands or interests together with their estimated value in a report to the Committee on Energy and Natural Resources of the United States Senate and the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives. Such lands or interests shall not be available for exchange unless authorized by an Act of Congress enacted after the date of submission of the report.
 
 #### “SEC. 4. VALUATION OF STATE AND FEDERAL INTERESTS.
 
@@ -168,13 +168,13 @@ Act Aug. 9, 1955, ch. 635, 69 Stat. 555, provided: “That in order to facilitat
 
 #### Availability of Unexpended Appropriated Funds
 
-The third sentence of section 9 of act Sept. 14, 1950, provided that: “The remaining unexpended balance of any funds appropriated for the present Grand Teton National Park and the Jackson Hole National Monument shall be available for expenditure in connection with the administration of the Grand Teton National Park established by this Act \[this subchapter and sections 431a, 451a, 482m, 673b, and 673c of this title\]”.
+The third sentence of act Sept. 14, 1950, ch. 950, §9, 64 Stat. 853, provided that: “The remaining unexpended balance of any funds appropriated for the present Grand Teton National Park and the Jackson Hole National Monument shall be available for expenditure in connection with the administration of the Grand Teton National Park established by this Act \[this subchapter and sections 431a, 451a, 482m, 673b, and 673c of this title\]”.
 
 #### Revocation of Temporary Withdrawals of Public Lands
 
-Section 8 of act Sept. 14, 1950, provided that: “All temporary withdrawals of public lands made by Executive order in aid of legislation pertaining to parks, monuments, or recreational areas, adjacent to the Grand Teton National Park as established by this Act \[this subchapter and sections 431a, 451a, 482m, 673b, and 673c of this title\] are hereby revoked.”
+Act Sept. 14, 1950, ch. 950, §8, 64 Stat. 853, provided that: “All temporary withdrawals of public lands made by Executive order in aid of legislation pertaining to parks, monuments, or recreational areas, adjacent to the Grand Teton National Park as established by this Act \[this subchapter and sections 431a, 451a, 482m, 673b, and 673c of this title\] are hereby revoked.”
 
 #### Repeal of Inconsistent Laws
 
-The second sentence of section 9 of act Sept. 14, 1950, provided: “All provisions of law inconsistent with the provisions of this act \[this subchapter and sections 431a, 451a, 482m, 673b, and 673c of this title\] are hereby repealed to the extent of such inconsistency”.
+The second sentence of act Sept. 14, 1950, ch. 950, §9, 64 Stat. 853, provided: “All provisions of law inconsistent with the provisions of this act \[this subchapter and sections 431a, 451a, 482m, 673b, and 673c of this title\] are hereby repealed to the extent of such inconsistency”.
 

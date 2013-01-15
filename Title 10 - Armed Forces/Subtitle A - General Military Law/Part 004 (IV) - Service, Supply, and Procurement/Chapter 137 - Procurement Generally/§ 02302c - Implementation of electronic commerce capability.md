@@ -12,7 +12,7 @@ Implementation of Electronic Commerce Capability.—(1) The head of each agency 
 
 Designation of Agency Official.—The head of each agency named in paragraph (5) or (6) of section 2303(a) of this title shall designate a program manager to implement the electronic commerce capability for that agency. The program manager shall report directly to an official at a level not lower than the senior procurement executive designated for the agency under section 1702(c) of title 41.
 
-(Added Pub. L. 103–355, title IX, §9002(a), Oct. 13, 1994, 108 Stat. 3402; amended Pub. L. 105–85, div. A, title VIII, §850(f)(3)(A), Nov. 18, 1997, 111 Stat. 1850; Pub. L. 105–129, §1(a)(1), Dec. 1, 1997, 111 Stat. 2551; Pub. L. 106–65, div. A, title X, §1066(a)(18), Oct. 5, 1999, 113 Stat. 771; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 109–364, div. A, title X, §1071(a)(2), Oct. 17, 2006, 120 Stat. 2398; Pub. L. 111–350, §5(b)(11), Jan. 4, 2011, 124 Stat. 3843.)
+(Added Pub. L. 103–355, title IX, §9002(a), Oct. 13, 1994, 108 Stat. 3402; amended Pub. L. 105–85, div. A, title VIII, §850(f)(3)(A), Nov. 18, 1997, 111 Stat.1850; Pub. L. 105–129, §1(a)(1), Dec. 1, 1997, 111 Stat. 2551; Pub. L. 106–65, div. A, title X, §1066(a)(18), Oct. 5, 1999, 113 Stat. 771; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 109–364, div. A, title X, §1071(a)(2), Oct. 17, 2006, 120 Stat. 2398; Pub. L. 111–350, §5(b)(11), Jan. 4, 2011, 124 Stat. 3843.)
 
 #### Amendments
 
@@ -42,9 +42,9 @@ Subsec. (a)(1). Pub. L. 105–129 inserted “of section 2303(a) of this title�
 
 #### Effective Date of 1997 Amendments
 
-Section 1(a)(2) of Pub. L. 105–129 provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect as if included in the amendment to section 2302c of title 10, United States Code, made by section 850(f)(3)(A) of the National Defense Authorization Act for Fiscal Year 1998 \[Pub. L. 105–85\] to which the amendment made by paragraph (1) relates.”
+Pub. L. 105–129, §1(a)(2), Dec. 1, 1997, 111 Stat. 2551, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect as if included in the amendment to section 2302c of title 10, United States Code, made by section 850(f)(3)(A) of the National Defense Authorization Act for Fiscal Year 1998 \[Pub. L. 105–85\] to which the amendment made by paragraph (1) relates.”
 
-Section 850(g) of Pub. L. 105–85 provided that:
+Pub. L. 105–85, div. A, title VIII, §850(g), Nov. 18, 1997, 111 Stat. 1850, provided that:
 
 “(1) Except as provided in paragraph (2), the amendments made by this section \[amending this section, section 2304 of this title, section 637 of Title 15, Commerce and Trade, section 1501 of former Title 40, Public Buildings, Property, and Works, and sections 252c, 253, 416, 426, and 427 of Title 41, Public Contracts, repealing section 426a of Title 41, amending provisions set out as a note under section 413 of Title 41, and repealing provisions set out as a note under section 426a of Title 41\] shall take effect 180 days after the date of the enactment of this Act \[Nov. 18, 1997\].
 

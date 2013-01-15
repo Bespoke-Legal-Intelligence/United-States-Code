@@ -16,7 +16,7 @@ The purpose of this subchapter is to ensure that all children have a fair, equal
 
 &emsp;(7) providing greater decisionmaking authority and flexibility to schools and teachers in exchange for greater responsibility for student performance;
 
-&emsp;(8) providing children an enriched and accelerated educational program, including the use of schoolwide programs or additional services that increase the amount and quality of instructional time;
+&emsp;(8) providing children an enriched and accelerated educational program, including the useof schoolwide programs or additional services that increase the amount and quality of instructional time;
 
 &emsp;(9) promoting schoolwide reform and ensuring the access of children to effective, scientifically based instructional strategies and challenging academic content;
 
@@ -56,27 +56,31 @@ Competitive Programs.—With respect to programs that are conducted by the Secre
 
 Impact Aid.—With respect to title VIII (Impact Aid) \[probably means title VIII of Pub. L. 89–10, 20 U.S.C. 7701 et seq.\], this Act, and the amendments made by this Act, shall take effect with respect to appropriations for use under that title for fiscal year 2002.”
 
+#### Short Title of 2013 Amendment
+
+Pub. L. 112–239, div. A, title V, §563(a), Jan. 2, 2013, 126 Stat. 1744, provided that: “This section \[amending sections 7702, 7703, and 7710 of this title and enacting provisions set out as a note under section 7702 of this title\] may be cited as the ‘Impact Aid Improvement Act of 2012’.”
+
 #### Short Title of 2002 Amendment
 
 Pub. L. 107–110, §1, Jan. 8, 2002, 115 Stat. 1425, provided that: “This title \[probably means Pub. L. 107–110, see Tables for classification\] may be cited as the ‘No Child Left Behind Act of 2001’.”
 
-#### Short Title of 2000 Amendments
+#### Short Title of 2000 Amendment
 
 Pub. L. 106–554, §1(a)(4) \[div. B, title XVI, §1601\], Dec. 21, 2000, 114 Stat. 2763, 2763A–328, provided that: “This title \[amending sections 6302, 6311, 6361 to 6368, 6369b, 6394, 6661a, 6661i, and 8801 of this title and sections 2023 and 2026 of Title 25, Indians, and enacting provisions set out as a note under section 6361 of this title\] may be cited as the ‘Literacy Involves Families Together Act’.”
 
-Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1701\], Dec. 21, 2000, 114 Stat. 2763, 2763A–335, provided that: “This title \[enacting part F of subchapter III of this chapter, amending section 9134 of this title and section 254 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, and enacting provisions set out as notes under sections 7001 and 9134 of this title and sections 254, 609, and 902 of Title 47\] may be cited as the ‘Children's Internet Protection Act’.”
+Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1701\], Dec. 21, 2000, 114 Stat. 2763, 2763A–335, provided that: “This title \[enacting part F of subchapter III of this chapter, amending section 9134 of this title and section 254 of Title 47, Telecommunications, and enacting provisions set out as notes under sections 7001 and 9134 of this title and sections 254, 609, and 902 of Title 47\] may be cited as the ‘Children's Internet Protection Act’.”
 
 Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1801\], Oct. 30, 2000, 114 Stat. 1654, 1654A–368, provided that: “This title \[amending sections 1228, 7701 to 7703, 7705, 7707, 7709 to 7713, and 7714 of this title, repealing section 7706 of this title, and enacting provisions set out as notes under sections 7701, 7703, and 7711 of this title\] may be cited as the ‘Impact Aid Reauthorization Act of 2000’.”
 
-#### Short Title of 1998 Amendments
+#### Short Title of 1998 Amendment
 
 Pub. L. 105–278, §1, Oct. 22, 1998, 112 Stat. 2682, provided that: “This Act \[enacting sections 8065a to 8065d of this title and amending sections 7331, 7351, 8061 to 8065, 8066, 8067, and 8801 of this title\] may be cited as the ‘Charter School Expansion Act of 1998’.”
 
 Pub. L. 105–277, div. D, title I, §121, Oct. 21, 1998, 112 Stat. 2681–756, provided that: “This subtitle \[subtitle C (§§121, 122) of title I of Pub. L. 105–277, enacting section 7144 of this title\] may be cited as the ‘Drug-Free Schools Quality Assurance Act’.”
 
-#### Short Title of 1994 Amendments
+#### Short Title of 1994 Amendment
 
-Section 1 of Pub. L. 103–382 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Improving America's Schools Act of 1994’.”
+Pub. L. 103–382, §1, Oct. 20, 1994, 108 Stat. 3518, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Improving America's Schools Act of 1994’.”
 
 Pub. L. 103–227, title X, §1031, Mar. 31, 1994, 108 Stat. 270, provided that: “This part \[part B (§§1031, 1032) of title X of Pub. L. 103–227, enacting section 3351 of this title and amending sections 3381 to 3384 and 3386 of this title\] may be cited as the ‘Gun-Free Schools Act of 1994’.”
 
@@ -96,7 +100,7 @@ Pub. L. 101–600, §1, Nov. 16, 1990, 104 Stat. 3042, provided that: “This Ac
 
 Pub. L. 101–226, §1, Dec. 12, 1989, 103 Stat. 1928, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Drug-Free Schools and Communities Act Amendments of 1989’.”
 
-#### Short Title of 1988 Amendments
+#### Short Title of 1988 Amendment
 
 Pub. L. 100–569, title II, §201, Oct. 31, 1988, 102 Stat. 2862, provided that: “This title \[see Tables for classification\] may be cited as the ‘National Geography Studies Centers Act’.”
 
@@ -176,9 +180,9 @@ Planning and Transition.—Notwithstanding any other provision of law, a recipie
 
 “(c)
 
-Orderly Transition.—The Secretary shall take such steps as are necessary to provide for the orderlytransition to, and implementation of, programs authorized by this Act, and by the amendments made by this Act, from programs authorized by the Elementary and Secondary Education Act of 1965, as that Act was in effect prior to the date of enactment of this Act.”
+Orderly Transition.—The Secretary shall take such steps as are necessary to provide for the orderly transition to, and implementation of, programs authorized by this Act, and by the amendments made by this Act, from programs authorized by the Elementary and Secondary Education Act of 1965, as that Act was in effect prior to the date of enactment of this Act.”
 
-Pub. L. 103–382, §3(b), Oct. 20, 1994, 108 Stat. 3519, provided that: “Notwithstanding any other provision of law, a recipient of funds under the Elementary and Secondary Education Act of 1965 \[Pub. L. 89–10, formerly chapter 47 (§2701 et seq.) of this title, prior to general amendment by Pub. L. 103–382, §101\], as such Act was in effect on the day preceding the date of enactment of this Act \[Oct. 20, 1994\], may use funds available to such recipient under such predecessor authority to carry out necessary and reasonable planning and transition activities in order to ensure a smooth implementation of programs authorized by this Act \[see Tables for classification\].”
+Pub. L. 103–382, §3(b), Oct. 20, 1994, 108 Stat. 3519, provided that: “Notwithstanding any other provision oflaw, a recipient of funds under the Elementary and Secondary Education Act of 1965 \[Pub. L. 89–10, formerly chapter 47 (§2701 et seq.) of this title, prior to general amendment by Pub. L. 103–382, §101\], as such Act was in effect on the day preceding the date of enactment of this Act \[Oct. 20, 1994\], may use funds available to such recipient under such predecessor authority to carry out necessary and reasonable planning and transition activities in order to ensure a smooth implementation of programs authorized by this Act \[see Tables for classification\].”
 
 #### Budget Compliance
 
@@ -228,7 +232,7 @@ Sec. 3. <i>School Improvement Report</i>. To monitor the progress of LEAs and sc
 
 (b) identify best practices and significant research findings that can be used to help turn around low-performing LEAs and schools; and
 
-(c) document ongoing efforts as a result of this order and other Federal efforts to assist States and local school districts in intervening in low-performing schools, including improving teacher quality. This report shall be publicly accessible.
+(c) document ongoing efforts as a result of this order and other Federal efforts to assist States and localschool districts in intervening in low-performing schools, including improving teacher quality. This report shall be publicly accessible.
 
 Sec. 4. <i>Compliance Monitoring System</i>. Consistent with the implementation of the School Improvement Fund, the Secretary shall strengthen the Department's monitoring of ESEA requirements for identifying and turning around low-performing schools, as well as any new requirements established for the School Improvement Fund by Public Law 106–113. The Secretary shall give priority to provisions that have the greatest bearing on identifying and turning around low-performing schools, including sections 1116 and 1117 of the ESEA \[20 U.S.C. 6316, 6317\], and to developing an ongoing, focused, and systematic process for monitoring these provisions. This improved compliance monitoring shall be designed to:
 

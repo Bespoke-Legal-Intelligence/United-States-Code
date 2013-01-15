@@ -164,7 +164,7 @@ Sense of congress.—In light of the terrorist attacks perpetrated against the U
 
 &emsp;“(2)
 
-Authorization of appropriations.—There is authorized to be appropriated such sums as may be necessary to fully implement the system described in paragraph (1)(A).
+Authorization of appropriations.—There is authorized to be appropriated such sums as may benecessary to fully implement the system described in paragraph (1)(A).
 
 “(b)
 

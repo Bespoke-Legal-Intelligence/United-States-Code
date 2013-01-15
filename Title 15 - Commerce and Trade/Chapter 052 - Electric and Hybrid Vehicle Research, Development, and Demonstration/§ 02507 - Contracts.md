@@ -2,7 +2,7 @@
 
 #### (a) Research, development, and demonstration
 
-The Secretary of Energy shall provide funds, by contract, to initiate, continue, supplement, and maintain research, development, and demonstration activities which are necessary to carry out the purposes of the project. The Secretary of Energy may enter into such contracts with any Federal agency, laboratory, university, nonprofit organization, industrial organization, public or private agency, institution, organization, corporation, partnership, or individual.
+The Secretary of Energy shall provide funds, by contract, to initiate, continue, supplement, and maintain research, development, and demonstration activities which are necessary to carry out the purposes of the project. The Secretary of Energy may enter into such contractswith any Federal agency, laboratory, university, nonprofit organization, industrial organization, public or private agency, institution, organization, corporation, partnership, or individual.
 
 #### (b) Consultation
 

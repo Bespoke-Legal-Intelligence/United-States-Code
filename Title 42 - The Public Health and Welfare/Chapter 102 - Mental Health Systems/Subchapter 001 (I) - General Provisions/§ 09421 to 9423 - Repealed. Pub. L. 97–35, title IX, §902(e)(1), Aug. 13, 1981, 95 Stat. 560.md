@@ -8,5 +8,5 @@ Section 9423, Pub. L. 96–398, title I, §107(a)–(c), Oct. 7, 1980, 94 Stat. 
 
 #### Effective Date of Repeal
 
-Repeal effective Oct. 1, 1981, see section 902(h) of Pub. L. 97–35, set out as an Effective Date of 1981 Amendment note under section 238<i>l</i> of this title.
+Repeal effective Oct. 1, 1981, see section 902(h) of Pub. L. 97–35, set out as an Effective Date of 1981 Amendment note under section 238l of this title.
 

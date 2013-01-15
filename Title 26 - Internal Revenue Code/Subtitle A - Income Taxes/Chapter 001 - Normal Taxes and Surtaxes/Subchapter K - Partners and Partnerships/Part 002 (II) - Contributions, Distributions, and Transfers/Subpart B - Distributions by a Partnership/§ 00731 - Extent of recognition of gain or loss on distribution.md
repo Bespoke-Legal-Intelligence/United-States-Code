@@ -58,7 +58,7 @@ No gain or loss shall be recognized to a partnership on a distribution to a part
 
 #### (C) Financial instrument
 
-&emsp;&emsp;The term “financial instrument” includes stocks and other equity interests, evidencesof indebtedness, options, forward or futures contracts, notional principal contracts, and derivatives.
+&emsp;&emsp;The term “financial instrument” includes stocks and other equity interests, evidences of indebtedness, options, forward or futures contracts, notional principal contracts, and derivatives.
 
 #### (3) Exceptions
 
@@ -184,7 +184,7 @@ Amendment by Pub. L. 105–34 applicable to sales, exchanges, and distributions 
 
 #### Effective Date of 1994 Amendment
 
-Section 741(c) of Pub. L. 103–465 provided that:
+Pub. L. 103–465, title VII, §741(c), Dec. 8, 1994, 108 Stat. 5009, provided that:
 
 “(1)
 

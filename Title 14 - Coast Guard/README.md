@@ -1,6 +1,4 @@
 
-14 U.S.C.<br>United States Code, 2011 Edition<br>Title 14 - COAST GUARD<br>From the U.S. Government Publishing Office, www.gpo.gov
-
 # TITLE 14—COAST GUARD
 
 <i>This title was enacted by act Aug. 4, 1949, ch. 393, §1, 63 Stat. 495</i>

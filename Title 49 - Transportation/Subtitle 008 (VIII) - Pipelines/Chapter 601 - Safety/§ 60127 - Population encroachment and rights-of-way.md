@@ -44,7 +44,7 @@ Distribution of report.—The Secretary shall provide a copy of the report to—
 
 &emsp;(3)
 
-Adoption of practices, laws, and ordinances.—The Secretary shall encourage Federal agencies and State and local governments to adopt and implement appropriate practices, laws, and ordinances, as identified in the report, to address the risks and hazards associated with encroachment upon pipeline rights-of-way and to address the potential methods of preserving environmental resources while maintaining pipeline rights-of-way, consistent with pipeline safety.
+Adoption of practices, laws, and ordinances.—The Secretary shall encourage Federal agencies and State and local governmentsto adopt and implement appropriate practices, laws, and ordinances, as identified in the report, to address the risks and hazards associated with encroachment upon pipeline rights-of-way and to address the potential methods of preserving environmental resources while maintaining pipeline rights-of-way, consistent with pipeline safety.
 
 (Added Pub. L. 104–304, §16(a), Oct. 12, 1996, 110 Stat. 3803; amended Pub. L. 107–355, §11(a), Dec. 17, 2002, 116 Stat. 2996.)
 

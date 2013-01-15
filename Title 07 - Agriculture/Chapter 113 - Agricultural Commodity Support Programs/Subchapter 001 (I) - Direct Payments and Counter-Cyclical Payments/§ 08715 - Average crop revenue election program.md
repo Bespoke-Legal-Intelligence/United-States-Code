@@ -4,7 +4,7 @@
 
 #### (1) Availability of average crop revenue election payments
 
-&emsp;As an alternative to receiving counter-cyclical payments under section 8714 or 8754 of this title and in exchange for a 20-percent reduction in direct payments under section 8713 or8753 of this title and a 30-percent reduction in marketing assistance loan rates under section 8732 or 8757 of this title, with respect to all covered commodities and peanuts on a farm, during each of the 2009, 2010, 2011, and 2012 crop years, the Secretary shall give the producers on the farm an opportunity to make an irrevocable election to instead receive average crop revenue election (referred to in this section as “ACRE”) payments under this section for the initial crop year for which the election is made through the 2012 crop year.
+&emsp;As an alternative to receiving counter-cyclical payments under section 8714 or 8754 of this title and in exchange for a 20-percent reduction in direct payments under section 8713 or 8753 of this title and a 30-percent reduction in marketing assistance loan rates under section 8732 or 8757 of this title, with respect to all covered commodities and peanuts on a farm, during each of the 2009, 2010, 2011, and 2012 crop years, the Secretary shall give the producers on the farm an opportunity to make an irrevocable election to instead receive average crop revenue election (referred to in this section as “ACRE”) payments under this section for the initial crop year for which the election is made through the 2012 crop year.
 
 #### (2) Limitation
 
@@ -48,7 +48,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to paragraph (3), in the case of producers on a farm described in paragraph (1), the Secretary shall make ACRE payments available to the producers on a farm for each crop year if—
+&emsp;&emsp;Subject to paragraph (3), in the case of producers on a farm described in paragraph\(1), the Secretary shall make ACRE payments available to the producers on a farm for each crop year if—
 
 &emsp;&emsp;&emsp;(i) the actual State revenue for the crop year for the covered commodity or peanuts in the State determined under subsection (c); is less than
 
@@ -86,7 +86,7 @@
 
 #### (3) National average market price
 
-&emsp;For purposes of paragraph (1)(B), the national average market price for a crop year fora covered commodity or peanuts in a State shall equal the greater of—
+&emsp;For purposes of paragraph (1)(B), the national average market price for a crop year for a covered commodity or peanuts in a State shall equal the greater of—
 
 &emsp;&emsp;(A) the national average market price received by producers during the 12-month marketing year for the covered commodity or peanuts, as determined by the Secretary; or
 

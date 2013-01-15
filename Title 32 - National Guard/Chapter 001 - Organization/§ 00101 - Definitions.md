@@ -232,3 +232,43 @@ Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701(a) of Pu
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
+#### Official Designation of Salem, Massachusetts, as Birthplace of the National Guard of the United States
+
+Pub. L. 112–241, §1, Jan. 10, 2013, 126 Stat. 2372, provided that:
+
+“(a)
+
+Findings.—Congress makes the following findings:
+
+&emsp;“(1) In 1629, Captain John Endicott organized the first militia in the Massachusetts Bay Colony in Salem.
+
+&emsp;“(2) The colonists had adopted the English militia system, which required all males between the ages of 16 and 60 to possess arms and participate in the defense of the community.
+
+&emsp;“(3) In 1636, the Massachusetts General Court ordered the organization of three militia regiments, designated as the North, South, and East regiments.
+
+&emsp;“(4) These regiments drilled once a week and provided guard details each evening to sound the alarm in case of attack.
+
+&emsp;“(5) The East Regiment, the predecessor of the 101st Engineer Battalion, assembled as a regiment for the first time in 1637 on the Salem Common, marking the beginning of the Massachusetts National Guard and the National Guard of the United States.
+
+&emsp;“(6) Since 1785, Salem's own Second Corps of Cadets (101st and 102nd Field Artillery) has celebrated the anniversary of that first muster.
+
+&emsp;“(7) As the policy contained in section 102 of title 32, United States Code, clearly expresses, the National Guard continues its historic mission of providing units for the first line defense of the United States and current missions throughout the world.
+
+&emsp;“(8) The designation of the City of Salem, Massachusetts, as the Birthplace of the National Guard of the United States will contribute positively to tourism and economic development in the city, create jobs, and instill pride in both the local and State communities.
+
+“(b)
+
+Designation of Salem, Massachusetts, as National Guard Birthplace.—In light of the findings made in subsection (a), the City of Salem, Massachusetts, is hereby designated as the Birthplace of the National Guard of the United States.
+
+“(c)
+
+Responsibilities.—
+
+&emsp;“(1)
+
+Military ceremonial support.—The Chief of the National Guard Bureau, in conjunction with the Secretary of the Army, the Secretary of the Air Force, the Council of Governors, and the Adjutant General of the State of Massachusetts, shall provide military ceremonial support at the dedication of any monument, plaque, or other form of official recognition placed in Salem, Massachusetts, celebrating the designation of Salem, Massachusetts, as the Birthplace of the National Guard of the United States.
+
+&emsp;“(2)
+
+Funding source.—Federal funds may not be used to design, procure, prepare, install, or maintain any monument, plaque, or other form of official recognition placed in Salem, Massachusetts, celebrating the designation of Salem, Massachusetts, as the Birthplace of the National Guard of the United States, but the Adjutant General of the State of Massachusetts may accept and expend contributions of non-Federal funds for this purpose.”
+

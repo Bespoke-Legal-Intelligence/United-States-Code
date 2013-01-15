@@ -47,15 +47,19 @@ Any taxpayer who files a return under this section with respect to 25 or more ve
 
 #### (f) Period tax in effect
 
-The tax imposed by this section shall apply only to use before October 1, 2012.
+The tax imposed by this section shall apply only to use before October 1, 2017.
 
-(Added June 29, 1956, ch. 462, title II, §206(a), 70 Stat. 390; amended Pub. L. 87–61, title II, §203(a), (b)(1), (2)(A), (B), June 29, 1961, 75 Stat. 124; Pub. L. 91–605, title III, §303(a)(7), (8), Dec. 31, 1970, 84 Stat. 1744; Pub. L. 94–280, title III, §303(a)(7), (8), May 5, 1976, 90 Stat. 456; Pub. L. 95–599, title V, §502(a)(6), (7), Nov. 6, 1978, 92 Stat. 2756; Pub. L.97–424, title V, §§513(a), (d), 516(a)(4), Jan. 6, 1983, 96 Stat. 2177, 2179, 2182; Pub. L. 98–369, div. A, title VII, §734(f), title IX, §901(a), July 18, 1984, 98 Stat. 980, 1003; Pub. L. 100–17, title V, §§502(a)(5), 507(a), Apr. 2, 1987, 101 Stat. 256, 260; Pub. L. 101–508, title XI, §11211(c)(5), Nov. 5, 1990, 104 Stat. 1388–426; Pub. L. 102–240, title VIII, §8002(a)(5), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 104–188, title I, §1704(t)(57), Aug. 20, 1996, 110 Stat. 1890; Pub. L. 105–178, title IX, §9002(a)(1)(G), June 9, 1998, 112 Stat. 499; Pub. L. 108–357, title VIII, §867(a), (c), Oct. 22, 2004, 118 Stat. 1622; Pub. L. 109–14, §9(c)(1), May 31, 2005, 119 Stat. 336; Pub. L. 109–59, title XI, §11101(a)(2)(A), Aug. 10, 2005, 119 Stat. 1944; Pub. L. 112–30, title I, §142(b)(1), Sept. 16, 2011, 125 Stat. 356.)
+(Added June 29, 1956, ch. 462, title II, §206(a), 70 Stat. 390; amended Pub. L. 87–61, title II, §203(a), (b)(1), (2)(A), (B), June 29, 1961, 75 Stat. 124; Pub. L. 91–605, title III, §303(a)(7), (8), Dec. 31, 1970, 84 Stat. 1744; Pub. L. 94–280, title III, §303(a)(7), (8), May 5, 1976, 90 Stat. 456; Pub. L. 95–599, title V, §502(a)(6), (7), Nov. 6, 1978, 92 Stat. 2756; Pub. L. 97–424, title V, §§513(a), (d), 516(a)(4), Jan. 6, 1983, 96 Stat. 2177, 2179, 2182; Pub. L. 98–369, div. A, title VII, §734(f), title IX, §901(a), July 18, 1984, 98 Stat. 980, 1003; Pub. L. 100–17, title V, §§502(a)(5), 507(a), Apr. 2, 1987, 101 Stat. 256, 260; Pub. L. 101–508, title XI, §11211(c)(5), Nov. 5, 1990, 104 Stat. 1388–426; Pub. L. 102–240, title VIII, §8002(a)(5), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 104–188, title I, §1704(t)(57), Aug. 20, 1996, 110 Stat. 1890; Pub. L. 105–178, title IX, §9002(a)(1)(G), June 9, 1998, 112 Stat. 499; Pub. L. 108–357, title VIII, §867(a), (c), Oct. 22, 2004, 118 Stat. 1622; Pub. L. 109–14, §9(c)(1), May 31, 2005, 119 Stat. 336; Pub. L. 109–59, title XI, §11101(a)(2)(A), Aug. 10, 2005, 119 Stat. 1944; Pub. L. 112–30, title I, §142(b)(1), Sept. 16, 2011, 125 Stat. 356; Pub. L. 112–102, title IV, §402(b)(1), Mar. 30, 2012, 126 Stat. 282; Pub. L. 112–141, div. D, title I, §40102(b)(1)(A), July 6, 2012, 126 Stat. 844.)
 
 #### References in Text
 
 Section 6156, referred to in subsec. (d)(2), was repealed by Pub. L. 108–357, title VIII, §867(b)(1), Oct. 22, 2004, 118 Stat. 1622.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (f). Pub. L. 112–141 substituted “2017” for “2013”.
+
+Pub. L. 112–102 substituted “2013” for “2012”.
 
 <b>2011</b>—Subsec. (f). Pub. L. 112–30 substituted “2012” for “2011”.
 
@@ -122,9 +126,15 @@ Subsec. (d). Pub. L. 87–61, §203(b)(2)(B), made conforming changes to refer t
 
 Subsec. (e). Pub. L. 87–61, §203(b)(1), substituted “before October 1, 1972” for “after June 30, 1956, and before July 1, 1972”.
 
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective July 1, 2012, see section 40102(f) of Pub. L. 112–141, set out as a note under section 460l–11 of Title 16, Conservation.
+
+Amendment by Pub. L. 112–102 effective Apr. 1, 2012, see section 402(f) of Pub. L. 112–102, set out as an Effective and Termination Dates of 2012 Amendment note under section 460l–11 of Title 16, Conservation.
+
 #### Effective Date of 2011 Amendment
 
-Amendment by Pub. L. 112–30 effective Oct. 1, 2011, see section 142(f) of Pub. L. 112–30, set out as a note under section 460<i>l</i>–11 of Title 16, Conservation.
+Amendment by Pub. L. 112–30 effective Oct. 1, 2011, see section 142(f) of Pub. L. 112–30, set out as a note under section 460l–11 of Title 16, Conservation.
 
 #### Effective Date of 2005 Amendment
 
@@ -136,17 +146,17 @@ Pub. L. 108–357, title VIII, §867(e), Oct. 22, 2004, 118 Stat. 1622, provided
 
 #### Effective Date of 1987 Amendment
 
-Section 507(d) of Pub. L. 100–17 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 4483 of this title\] shall take effect on July 1, 1987.”
+Pub. L. 100–17, title V, §507(d), Apr. 2, 1987, 101 Stat. 260, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 4483 of this title\] shall take effect on July 1, 1987.”
 
 #### Effective Date of 1984 Amendment
 
 Amendment by section 734(f) of Pub. L. 98–369 effective, except as otherwise provided, as if included in the provisions of the Highway Revenue Act of 1982, title V of Pub. L. 97–424, to which such amendment relates, see section 736 of Pub. L. 98–369, set out as a note under section 4051 of this title.
 
-Section 901(c) of Pub. L. 98–369 provided that: “The amendment made by subsection (a) \[amending this section\] (and the provisions of subsection (b) \[set out below\]) shall take effect on July 1, 1984.”
+Pub. L. 98–369, div. A, title IX, §901(c), July 18, 1984, 98 Stat. 1004, provided that: “The amendment made by subsection (a) \[amending this section\] (and the provisions of subsection (b) \[set out below\]) shall take effect on July 1, 1984.”
 
 #### Effective Date of 1983 Amendment
 
-Section 513(f) of Pub. L. 97–424, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 97–424, title V, §513(f), Jan. 6, 1983, 96 Stat. 2179, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 
@@ -166,7 +176,7 @@ Special rule in the case of certain owner-operators.—
 
 &emsp;&emsp;“(i) any trade or business (whether or not incorporated) which is under common control with the taxpayer (within the meaning of section 52(b)), or
 
-&emsp;&emsp;“(ii) any member of any controlled groups of corporations of which the taxpayer is a member, for any taxable period shall be treated as being owned by the taxpayer during such period. The Secretary shall prescribe regulations which provide attribution rules that take into account, in addition to the persons and entities described in the preceding sentence, taxpayers who own highway motor vehicles through partnerships, joint ventures, and corporations.
+&emsp;&emsp;“(ii) any member of any controlled groups of corporations of which the taxpayer is a member, for any taxable period shall be treated as being owned by the taxpayer during such period. The Secretaryshall prescribe regulations which provide attribution rules that take into account, in addition to the persons and entities described in the preceding sentence, taxpayers who own highway motor vehicles through partnerships, joint ventures, and corporations.
 
 “(E) Controlled groups of corporations.—For purposes of this paragraph, the term ‘controlled group of corporations’ has the meaning given to such term by section 1563(a), except that—
 
@@ -186,11 +196,11 @@ Section effective June 29, 1956, see section 211 of act June 29, 1956, set out a
 
 #### Regulations
 
-Section 507(c) of Pub. L. 100–17 provided that: “The Secretary of the Treasury or the delegate of the Secretary shall within 120 days after the date of the enactment of this section \[Apr. 2, 1987\] prescribe regulations governing payment of the tax imposed by section 4481 of the Internal Revenue Code of 1986 on any highway motor vehicle operated by a motor carrier domiciled in any contiguous foreign country or owned or controlled by persons of any contiguous foreign country. Such regulations shall include a procedure by which the operator of such motor vehicle shall evidence that such operator has paid such tax at the time such motor vehicle enters the United States. In the event of the failure to provide evidence of payment, such regulations may provide for denial of entry of such motor vehicle into the United States.”
+Pub. L. 100–17, title V, §507(c), Apr. 2, 1987, 101 Stat. 260, provided that: “The Secretary of the Treasury or the delegate of the Secretary shall within 120 days after the date of the enactment of this section \[Apr. 2, 1987\] prescribe regulations governing payment of the tax imposed by section 4481 of the Internal Revenue Code of 1986 on any highway motor vehicle operated by a motor carrier domiciled in any contiguous foreign country or owned or controlled by persons of any contiguous foreign country. Such regulations shall include a procedure by which the operator of such motor vehicle shall evidence that such operator has paid such tax at the time such motor vehicle enters the United States. In the event of the failure to provide evidence of payment, such regulations may provide for denial of entry of such motor vehicle into the United States.”
 
 #### Special Rules in the Case of Certain Owner-Operators
 
-Section 901(b) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–369, div. A, title IX, §901(b), July 18, 1984, 98 Stat. 1003, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 
@@ -214,7 +224,7 @@ Taxable gross weight.—For purposes of this subsection, the term ‘taxable gro
 
 #### Studies Relating to Heavy Vehicle Use Tax
 
-Part I \[§§931–934\] of subtitle D of title IX of div. A of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–369, div. A, title IX, subtitle D, part I, July 18, 1984, 98 Stat. 1010, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 #### “SEC. 931. WHETHER HEAVY VEHICLES BEAR FAIR SHARE OF HIGHWAY COSTS.
 
@@ -240,7 +250,7 @@ Report.—Not later than October 1, 1987, the Secretary of Transportation shall 
 
 #### Study of Alternatives to Tax on Use of Heavy Trucks
 
-Section 513(g) of Pub. L. 97–424 provided that the Secretary of Transportation, in consultation with the Secretary of the Treasury, conduct a study of alternatives to the tax on heavy vehicles imposed by section 4481(a) of the Internal Revenue Code, and plans for improving the collecting and enforcement of such tax and alternatives to such tax, such alternatives to include taxes based either singly or in suitable combinations on vehicle size or configuration; vehicle weight, both registered and actual operating weight; and distance traveled, and such plans for improving tax collection and enforcement to provide for Federal and State co-operation in such activities. The study was to be conducted in consultation with State officials, motor carriers, and other affected parties, and the Secretary of Transportation was to submit a report and recommendations to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate not later than Jan. 1, 1985.
+Pub. L. 97–424, title V, §513(g), Jan. 6, 1983, 96 Stat. 2180, provided that the Secretary of Transportation, in consultation with the Secretary of the Treasury, conduct a study of alternatives to the tax on heavy vehicles imposed by section 4481(a) of the Internal Revenue Code, and plans for improving the collecting and enforcement of such tax and alternatives to such tax, such alternatives to include taxes based either singly or in suitable combinations on vehicle size or configuration; vehicle weight, both registered and actual operating weight; and distance traveled, and such plans for improving tax collection and enforcement to provide for Federal and State co-operation in such activities. The study was to be conducted in consultation with State officials, motor carriers, and other affected parties, and the Secretary of Transportation was to submit a report and recommendations to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate not later than Jan. 1, 1985.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

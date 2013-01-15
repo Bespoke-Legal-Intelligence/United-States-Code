@@ -26,7 +26,7 @@ Use of Personnel Performing Full-Time National Guard Duty.—(1) Under regulatio
 
 &emsp;(iii) The performance of the activities will not result in a significant increase in the cost of training.
 
-&emsp;(iv) In the case of drug interdiction and counter-drug activities performed by a unit organized to serve as a unit, the activities will support valid unit training requirements.
+&emsp;(iv) In the case of drug interdiction and counter-drug activities performed by a unitorganized to serve as a unit, the activities will support valid unit training requirements.
 
 (3) A unit or member of the National Guard of a State may be used, pursuant to a State drug interdiction and counter-drug activities plan approved by the Secretary of Defense under this section, to provide services or other assistance (other than air transportation) to an organization eligible to receive services under section 508 of this title if—
 
@@ -194,7 +194,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 #### National Guard Counterdrug Schools
 
-Pub. L. 109–469, title IX, §901, Dec. 29, 2006, 120 Stat. 3536, provided that:
+Pub. L. 109–469, title IX, §901, Dec. 29, 2006, 120 Stat. 3536, as amended by Pub. L. 112–239, div. A, title X, §1008, Jan. 2, 2013, 126 Stat. 1905, provided that:
 
 “(a)
 
@@ -216,15 +216,15 @@ Purpose.—The purpose of the National Guard counterdrug schools shall be the pr
 
 Counterdrug Schools Specified.—The National Guard counterdrug schools operated under the authority in subsection (a) are as follows:
 
-&emsp;“(1) The National Interagency Civil-Military Institute (NICI), San Luis Obispo, California.
+&emsp;“(1) The Multi-Jurisdictional Counterdrug Task Force Training (MCTFT), St. Petersburg, Florida.
 
-&emsp;“(2) The Multi-Jurisdictional Counterdrug Task Force Training (MCTFT), St. Petersburg, Florida.
+&emsp;“(2) The Midwest Counterdrug Training Center (MCTC), Johnston, Iowa.
 
-&emsp;“(3) The Midwest Counterdrug Training Center (MCTC), Johnston, Iowa.
+&emsp;“(3) The Regional Counterdrug Training Academy (RCTA), Meridian, Mississippi.
 
-&emsp;“(4) The Regional Counterdrug Training Academy (RCTA), Meridian, Mississippi.
+&emsp;“(4) The Northeast Regional Counterdrug Training Center (NCTC), Fort Indiantown Gap, Pennsylvania.
 
-&emsp;“(5) The Northeast Regional Counterdrug Training Center (NCTC), Fort Indiantown Gap, Pennsylvania.
+&emsp;“(5) The Western Regional Counterdrug Training Center, Camp Murray, Washington.
 
 “(d)
 
@@ -244,23 +244,19 @@ Treatment Under Authority To Provide Counterdrug Support.—The provisions of se
 
 “(f)
 
-Annual Reports on Activities.—
+Annual Report on Activities.—Not later than February 1 each year, the Secretary of Defense shall submit to Congress a report on the activities of the National Guard counterdrug schools during the preceding year. Each such report shall set forth a description of the activities of each National Guard counterdrug school for the fiscal year preceding the fiscal year during which the report is submitted, including—
 
-&emsp;“(1)
+&emsp;“(1) the amount of funding made available and the appropriation account for each National Guard counterdrug school during such fiscal year;
 
-In general.—Not later than February 1 each year, the Secretary of Defense shall submit to Congress a report on the activities of the National Guard counterdrug schools during the preceding year.
+&emsp;“(2) the cumulative amount of funding made available for each National Guard counterdrug school during five fiscal years preceding such fiscal year;
 
-&emsp;“(2)
+&emsp;“(3) a description of the curriculum and training used at each National Guard counterdrug school;
 
-Contents.—Each report under paragraph (1) shall set forth the following:
+&emsp;“(4) a description of how the activities conducted at each National Guard counterdrug school fulfilled Department of Defense counterdrug mission;
 
-&emsp;&emsp;“(A)
+&emsp;“(5) a list of the entities described in subsection (b) whose personnel received training at each National Guard counterdrug school; and
 
-Funding.—The amount made available for each National Guard counterdrug school during the fiscal year ending in the year preceding the year in which such report is submitted.
-
-&emsp;&emsp;“(B)
-
-Activities.—A description of the activities of each National Guard counterdrug school during the year preceding the year in which such report is submitted.
+&emsp;“(6) updates, if any, to the Department of Defense regulations prescribed under subsection (a).
 
 “(g)
 
@@ -268,11 +264,11 @@ Authorization of Appropriations.—
 
 &emsp;“(1)
 
-In general.—There is hereby authorized to be appropriated for the Department of Defense for the National Guard for each of fiscal years 2006 through 2010, $30,000,000 for purposes of the National Guard counterdrug schools in such fiscal year.
+In general.—Not more than $30,000,000 may be expended by the Secretary of Defense for purposes of the National Guard counterdrug schools in any fiscal year.
 
 &emsp;“(2)
 
-Construction.—The amount authorized to be appropriated by paragraph (1) for a fiscal year is in addition to any other amount authorized to be appropriated for the Department of Defense for the National Guard for such fiscal year.”
+Construction.—The amount expended pursuant to paragraph (1) for a fiscal year is in addition to any other amount authorized to be appropriated for the Department of Defense for the National Guard for such fiscal year.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

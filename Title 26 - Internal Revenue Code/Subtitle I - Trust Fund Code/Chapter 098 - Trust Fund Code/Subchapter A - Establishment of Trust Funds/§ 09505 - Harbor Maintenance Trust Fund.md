@@ -44,11 +44,11 @@ Section 210 of the Water Resources Development Act of 1986 (as in effect on the 
 
 #### Effective Date of 1993 Amendment
 
-Section 683(b) of Pub. L. 103–182 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to fiscal years beginning after the date of the enactment of this Act \[Dec. 8, 1993\].”
+Pub. L. 103–182, title VI, §683(b), Dec. 8, 1993, 107 Stat. 2218, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to fiscal years beginning after the date of the enactment of this Act \[Dec. 8, 1993\].”
 
 #### Effective Date
 
-Section 1403(d) of Pub. L. 99–662 provided that: “The amendments made by this section \[enacting this section\] shall take effect on April 1, 1987.”
+Pub. L. 99–662, title XIV, §1403(d), Nov. 17, 1986, 100 Stat. 4270, provided that: “The amendments made by this section \[enacting this section\] shall take effect on April 1, 1987.”
 
 #### Harbor Maintenance Trust Fund Deposits and Expenditures
 

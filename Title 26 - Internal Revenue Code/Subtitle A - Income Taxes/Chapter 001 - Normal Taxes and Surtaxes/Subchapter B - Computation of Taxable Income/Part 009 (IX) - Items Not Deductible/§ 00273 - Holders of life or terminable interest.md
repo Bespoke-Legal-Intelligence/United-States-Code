@@ -1,6 +1,6 @@
 ### §273. Holders of life or terminable interest
 
-Amounts paid under the laws of a State, the District of Columbia, a possession of the UnitedStates, or a foreign country as income to the holder of a life or terminable interest acquired by gift, bequest, or inheritance shall not be reduced or diminished by any deduction for shrinkage (by whatever name called) in the value of such interest due to the lapse of time.
+Amounts paid under the laws of a State, the District of Columbia, a possession of the United States, or a foreign country as income to the holder of a life or terminable interest acquired by gift, bequest, or inheritance shall not be reduced or diminished by any deduction for shrinkage (by whatever name called) in the value of such interest due to the lapse of time.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 83; Pub. L. 94–455, title XIX, §1901(c)(2), Oct. 4, 1976, 90 Stat. 1803.)
 

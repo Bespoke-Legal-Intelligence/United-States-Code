@@ -2,7 +2,7 @@
 
 #### (a) Voluntary liquidation; consent of Farm Credit Administration; rules and regulations; minimization of adverse effect; voluntary merger; mandatory merger on failure to comply or meet obligations
 
-No institution of the System shall go into voluntary liquidation without the consent of the Farm Credit Administration and with such consent may liquidate only in accordance with regulations prescribed by the Farm Credit Administration. In the case of a voluntary liquidation of an association, such regulations, among other things, shall direct the supervising bank to institute such measures as it deems appropriate to minimize the adverse effect of the liquidation on those borrowers whose loans are purchased by or otherwise transferred to another System institution. The Farm Credit Administration Board may require an association to merge with another association whenever it determines, with the concurrence of the board of the supervising bank, that an association has failed to meet its outstanding obligations or failed to conduct its operations in accordance with this chapter.
+No institution of the System shall go into voluntary liquidation without the consent of theFarm Credit Administration and with such consent may liquidate only in accordance with regulations prescribed by the Farm Credit Administration. In the case of a voluntary liquidation of an association, such regulations, among other things, shall direct the supervising bank to institute such measures as it deems appropriate to minimize the adverse effect of the liquidation on those borrowers whose loans are purchased by or otherwise transferred to another System institution. The Farm Credit Administration Board may require an association to merge with another association whenever it determines, with the concurrence of the board of the supervising bank, that an association has failed to meet its outstanding obligations or failed to conduct its operations in accordance with this chapter.
 
 #### (b) Appointment of conservator or receiver; grounds; action for removal; stay of actions or proceedings
 
@@ -12,7 +12,7 @@ The Farm Credit Administration Board may appoint a conservator or receiver for a
 
 In the case of an involuntary liquidation of an association, regulations of the Farm Credit Administration, among other things, shall direct the supervising bank to institute such measures as it deems appropriate to minimize the adverse effect of the liquidation on those borrowers whose loans are purchased by or otherwise transferred to another System institution.
 
-(Pub. L. 92–181, title IV, §4.12, Dec. 10, 1971, 85 Stat. 612; Pub. L. 99–205, title I, §102, title II,§205(f)(5), title III, §305, Dec. 23, 1985, 99 Stat. 1679, 1706, 1708; Pub. L. 100–233, title III, §306, title IV, §418(a)(4), formerly §415(a)(4), §431(g), title VIII, §805(r), Jan. 6, 1988, 101 Stat. 1622, 1653, 1660, 1716, renumbered §418(a)(4), Pub. L. 100–399, title IV, §409(a), Aug. 17, 1988, 102 Stat. 1003; Pub. L. 100–399, title IX, §901(f), Aug. 17, 1988, 102 Stat. 1007.)
+(Pub. L. 92–181, title IV, §4.12, Dec. 10, 1971, 85 Stat. 612; Pub. L. 99–205, title I, §102, title II, §205(f)(5), title III, §305, Dec. 23, 1985, 99 Stat. 1679, 1706, 1708; Pub. L. 100–233, title III, §306, title IV, §418(a)(4), formerly §415(a)(4), §431(g), title VIII, §805(r), Jan. 6, 1988, 101 Stat. 1622, 1653, 1660, 1716, renumbered §418(a)(4), Pub. L. 100–399, title IV, §409(a), Aug. 17, 1988, 102 Stat. 1003; Pub. L. 100–399, title IX, §901(f), Aug. 17, 1988, 102 Stat. 1007.)
 
 #### Amendments
 

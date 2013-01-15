@@ -132,7 +132,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term “liquidation, put, call, or conversion right” does not include any right which must be exercised at a specific time and at a specific amount.
+&emsp;&emsp;&emsp;The term “liquidation, put, call, or conversion right” does not include any rightwhich must be exercised at a specific time and at a specific amount.
 
 #### (ii) Treatment of certain rights
 
@@ -156,7 +156,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Except as otherwise provided in this paragraph, the term “qualified payment” meansany dividend payable on a periodic basis under any cumulative preferred stock (or a comparable payment under any partnership interest) to the extent that such dividend (or comparable payment) is determined at a fixed rate.
+&emsp;&emsp;Except as otherwise provided in this paragraph, the term “qualified payment” means any dividend payable on a periodic basis under any cumulative preferred stock (or a comparable payment under any partnership interest) to the extent that such dividend (or comparable payment) is determined at a fixed rate.
 
 #### (B) Treatment of variable rate payments
 
@@ -246,7 +246,7 @@ For purposes of this section—
 
 #### (i) Deathtime transfers
 
-&emsp;&emsp;&emsp;Subparagraph (A)(i) shall not apply to any interest includible in the gross estateof the transferor if a deduction with respect to such interest is allowable under section 2056 or 2106(a)(3).
+&emsp;&emsp;&emsp;Subparagraph (A)(i) shall not apply to any interest includible in the gross estate of the transferor if a deduction with respect to such interest is allowable under section 2056 or 2106(a)(3).
 
 #### (ii) Lifetime transfers
 
@@ -336,7 +336,7 @@ For purposes of this section—
 
 Subsec. (a)(3)(C). Pub. L. 104–188, §1702(f)(1)(A), added subpar. (C).
 
-Subsec. (a)(4)(B)(i). Pub. L. 104–188, §1702(f)(2), inserted “(or, to the extent provided in regulations, therights as to either income or capital)” after “income and capital”.
+Subsec. (a)(4)(B)(i). Pub. L. 104–188, §1702(f)(2), inserted “(or, to the extent provided in regulations, the rights as to either income or capital)” after “income and capital”.
 
 Subsec. (b)(2)(C). Pub. L. 104–188, §1702(f)(3)(A), added subpar. (C).
 
@@ -378,7 +378,7 @@ Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided
 
 #### Effective Date
 
-Section 11602(e)(1) of Pub. L. 101–508 provided that:
+Pub. L. 101–508, title XI, §11602(e)(1), Nov. 5, 1990, 104 Stat. 1388–500, provided that:
 
 “(A)
 
@@ -408,11 +408,11 @@ Exception.—For purposes of subparagraph (A)(i), with respect to property trans
 
 #### Time for Election Under Subsection (c)(3)(C)(i)
 
-Section 1702(f)(5)(C) of Pub. L. 104–188 provided that: “The time for making an election under the second sentence of section 2701(c)(3)(C)(i) of the Internal Revenue Code of 1986 (as amended by subparagraph (A)) shall not expire before the due date (including extensions) for filing the transferor's return of the tax imposed by section 2501 of such Code for the first calendar year ending after the date of enactment \[probably means the date of enactment of Pub. L. 104–188, Oct. 20, 1996\].”
+Pub. L. 104–188, title I, §1702(f)(5)(C), Aug. 20, 1996, 110 Stat. 1871, provided that: “The time for making an election under the second sentence of section 2701(c)(3)(C)(i) of the Internal Revenue Code of 1986 (as amended by subparagraph (A)) shall not expire before the due date (including extensions) for filing the transferor's return of the tax imposed by section 2501 of such Code for the first calendar year ending after the date of enactment \[probably means the date of enactment of Pub. L. 104–188, Oct. 20, 1996\].”
 
 #### Study of Methods Used To Distort Valuation of Property for Purposes of Estate and Gift Tax
 
-Section 11602(d) of Pub. L. 101–508 provided that: “The Secretary of the Treasury shall conduct a study of—
+Pub. L. 101–508, title XI, §11602(d), Nov. 5, 1990, 104 Stat. 1388–500, provided that: “The Secretary of the Treasury shall conduct a study of—
 
 &emsp;“(1) the prevalence and types of options and agreements used to distort the valuation of property for purposes of subtitle B of the Internal Revenue Code of 1986, and
 

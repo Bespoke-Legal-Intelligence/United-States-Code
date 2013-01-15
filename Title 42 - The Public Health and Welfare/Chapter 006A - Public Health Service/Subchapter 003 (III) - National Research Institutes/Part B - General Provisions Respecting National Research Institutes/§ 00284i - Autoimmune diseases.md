@@ -28,7 +28,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;With respect to autoimmune diseases, the Chair of the Committee shall serve as theprincipal advisor to the Secretary, the Assistant Secretary for Health, and the Director of NIH, and shall provide advice to the Director of the Centers for Disease Control and Prevention, the Commissioner of Food and Drugs, and other relevant agencies.
+&emsp;&emsp;With respect to autoimmune diseases, the Chair of the Committee shall serve as the principal advisor to the Secretary, the Assistant Secretary for Health, and the Director of NIH, and shall provide advice to the Director of the Centers for Disease Control and Prevention, the Commissioner of Food and Drugs, and other relevant agencies.
 
 #### (B) Director of NIH
 

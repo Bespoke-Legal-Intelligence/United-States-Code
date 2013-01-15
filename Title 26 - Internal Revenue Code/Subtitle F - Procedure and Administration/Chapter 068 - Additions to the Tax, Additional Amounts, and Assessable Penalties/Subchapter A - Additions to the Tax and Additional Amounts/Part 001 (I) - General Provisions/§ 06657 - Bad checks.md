@@ -26,5 +26,5 @@ Pub. L. 110–28, title VIII, §8245(b), May 25, 2007, 121 Stat. 200, provided t
 
 #### Effective Date of 1988 Amendment
 
-Section 5071(b) of Pub. L. 100–647 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to checks or money orders received after the date of the enactment of this Act \[Nov. 10, 1988\].”
+Pub. L. 100–647, title V, §5071(b), Nov. 10, 1988, 102 Stat. 3681, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to checks or money orders received after the date of the enactment of this Act \[Nov. 10, 1988\].”
 

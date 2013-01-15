@@ -24,11 +24,11 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 <b>1986</b>—Subsec. (b). Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661, as amended by Pub. L. 100–180, amended subsec. (b) identically, inserting “sponsor programs to” after first reference to “agree to”, “under such programs” after “such assistance”, and “with respect to such program” after “such cost” and substituting “a program sponsored by such an entity that provides services solely in a distressed area” for “an eligible entity that is a distressed entity”.
 
-<b>1985</b>—Pub. L. 99–145 amended section generally, substituting “, in accordance with the provisions of thischapter, may enter” for “may, in accordance with the provisions of this chapter, enter” in subsec. (a), adding subsec. (b), and redesignating former subsec. (b) as (c).
+<b>1985</b>—Pub. L. 99–145 amended section generally, substituting “, in accordance with the provisions of this chapter, may enter” for “may, in accordance with the provisions of this chapter, enter” in subsec. (a), adding subsec. (b), and redesignating former subsec. (b) as (c).
 
 #### Effective Date of 1987 Amendment
 
-Section 1233(c)(2) of Pub. L. 100–180 provided that: “The amendment made by subsection (b) \[amending Public Laws 99–500, 99–591, and 99–661 which amended this section\] shall apply as if included in the enactment of Public Laws 99–500, 99–591, and 99–661.”
+Pub. L. 100–180, div. A, title XII, §1233(c)(2), Dec. 4, 1987, 101 Stat. 1161, provided that: “The amendmentmade by subsection (b) \[amending Public Laws 99–500, 99–591, and 99–661 which amended this section\] shall apply as if included in the enactment of Public Laws 99–500, 99–591, and 99–661.”
 
 #### Effective Date of 1985 Amendment
 

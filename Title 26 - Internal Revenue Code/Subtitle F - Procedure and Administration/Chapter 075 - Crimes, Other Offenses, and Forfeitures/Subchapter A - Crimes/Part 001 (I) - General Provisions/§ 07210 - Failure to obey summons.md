@@ -44,7 +44,7 @@ Amendment by Pub. L. 98–369 effective Aug. 1, 1984, see section 911(e) of Pub.
 
 #### Effective Date of 1983 Amendment
 
-Amendment by Pub. L. 97–424 applicable with respect to articles sold after Jan. 6, 1983, see section 515(c) ofPub. L. 97–424, set out as a note under section 34 of this title.
+Amendment by Pub. L. 97–424 applicable with respect to articles sold after Jan. 6, 1983, see section 515(c) of Pub. L. 97–424, set out as a note under section 34 of this title.
 
 #### Effective Date of 1980 Amendment
 

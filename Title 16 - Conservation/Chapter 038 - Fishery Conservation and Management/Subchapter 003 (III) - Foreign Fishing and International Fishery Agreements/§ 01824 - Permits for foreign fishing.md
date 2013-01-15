@@ -8,7 +8,7 @@ After February 28, 1977, no foreign fishing vessel shall engage in fishing withi
 
 #### (1) Eligibility; duration
 
-&emsp;Each foreign nation with which the United States has entered into a governing international fishery agreement shall submit an application to the Secretary of State each year for a permit for each of its fishing vessels that wishes to engage in fishing described in subsection (a) of this section. No permit issuedunder this section may be valid for longer than a year; and section 558(c) of title 5 does not apply to the renewal of any such permit.
+&emsp;Each foreign nation with which the United States has entered into a governing international fishery agreement shall submit an application to the Secretary of State each year for a permit for each of its fishing vessels that wishes to engage in fishing described in subsection (a) of this section. No permit issued under this section may be valid for longer than a year; and section 558(c) of title 5 does not apply to the renewal of any such permit.
 
 #### (2) Forms
 
@@ -178,7 +178,7 @@ The Secretary of State, in cooperation with the Secretary, shall issue annually 
 
 #### (4) Marine conservation plans
 
-&emsp;(A) Prior to entering into a Pacific Insular Area fishery agreement, the Western Pacific Council and the appropriate Governor shall develop a 3-year marine conservation plan detailing uses for funds to be collected by the Secretary pursuant to such agreement. Such plan shall be consistent with any applicable fishery management plan, identify conservation and management objectives (including criteria for determining when such objectives have been met), and prioritize planned marine conservation projects. Conservation and management objectives shall include, but not be limited to—
+&emsp;(A) Prior to entering into a Pacific Insular Area fishery agreement, the Western Pacific Council and the appropriate Governor shall develop a 3-year marine conservation plan detailing uses for funds to be collected by the Secretary pursuant to such agreement. Suchplan shall be consistent with any applicable fishery management plan, identify conservation and management objectives (including criteria for determining when such objectives have been met), and prioritize planned marine conservation projects. Conservation and management objectives shall include, but not be limited to—
 
 &emsp;&emsp;(i) Pacific Insular Area observer programs, or other monitoring programs, that the Secretary determines are adequate to monitor the harvest, bycatch, and compliance with the laws of the United States by foreign fishing vessels that fish under Pacific Insular Area fishing agreements;
 
@@ -222,7 +222,7 @@ The Secretary of State, in cooperation with the Secretary, shall issue annually 
 
 #### (8) Use of fines and penalties
 
-&emsp;In the case of violations occurring within the exclusive economic zone off American Samoa, Guam, or the Northern Mariana Islands, amounts received by the Secretary which are attributable to fines or penalties imposed under this chapter, including such sums collected from the forfeiture and disposition or sale of property seized subject to its authority, after payment of direct costs of the enforcement action to all entities involved in such action, shall be deposited into the Treasury of the Pacific Insular Area adjacent to the exclusive economic zone in which the violation occurred, to be used for fisheries enforcement and for implementation of a marine conservation plan under paragraph (4). In the case of violations by foreign vessels occurring within the exclusive economic zones off Midway Atoll, Johnston Atoll, Kingman Reef, PalmyraAtoll, Jarvis, Howland, Baker, and Wake Islands, amounts received by the Secretary attributable to fines and penalties imposed under this chapter, shall be deposited into the Western Pacific Sustainable Fisheries Fund established under paragraph (7) of this subsection.
+&emsp;In the case of violations occurring within the exclusive economic zone off American Samoa, Guam, or the Northern Mariana Islands, amounts received by the Secretary which are attributable to fines or penalties imposed under this chapter, including such sums collected from the forfeiture and disposition or sale of property seized subject to its authority, after payment of direct costs of the enforcement action to all entities involved in such action, shall be deposited into the Treasury of the Pacific Insular Area adjacent to the exclusive economic zone in which the violation occurred, to be used for fisheries enforcement and for implementation of a marine conservation plan under paragraph (4). In the case of violations by foreign vessels occurring within the exclusive economic zones off Midway Atoll, Johnston Atoll, Kingman Reef, Palmyra Atoll, Jarvis, Howland, Baker, and Wake Islands, amounts received by the Secretary attributable to fines and penalties imposed under this chapter, shall be deposited into the Western Pacific Sustainable Fisheries Fund established under paragraph (7) of this subsection.
 
 (Pub. L. 94–265, title II, §204, Apr. 13, 1976, 90 Stat. 342; Pub. L. 95–354, §4(5)–(8), Aug. 28, 1978, 92 Stat. 520, 521; Pub. L. 96–470, title I, §111(b), title II, §208, Oct. 19, 1980, 94 Stat. 2239, 2245; Pub. L. 96–561, title II, §232, Dec. 22, 1980, 94 Stat. 3298; Pub. L. 97–453, §3, Jan. 12, 1983, 96 Stat. 2483; Pub. L. 99–272, title VI, §6021, Apr. 7, 1986, 100 Stat. 123; Pub. L. 99–659, title I, §§101(c)(2), 102, 103(b), Nov. 14, 1986, 100 Stat. 3707, 3709; Pub. L. 101–627, title I, §§106, 120(b), Nov. 28, 1990, 104 Stat. 4440, 4459; Pub. L. 102–251, title III, §301(f), Mar. 9, 1992, 106 Stat. 64; Pub. L. 104–297, title I, §105(d), Oct. 11, 1996, 110 Stat. 3564; Pub. L. 109–479, §6, title IV, §404(b), Jan. 12, 2007, 120 Stat. 3579, 3632.)
 
@@ -314,9 +314,9 @@ Amendment by Pub. L. 102–251 effective on date on which Agreement between Unit
 
 #### Effective Date of 1980 Amendment
 
-Section 232(a) of Pub. L. 96–561 provided that the amendment made by that section is effective with respect to permits issued under subsec. (b) of this section for 1981.
+Pub. L. 96–561, title II, §232(a), Dec. 22, 1980, 94 Stat. 3298, provided that the amendment made by that section is effective with respect to permits issued under subsec. (b) of this section for 1981.
 
-Section 232(b) of Pub. L. 96–561 provided that the amendment made by that section is effective with respect to permits issued under subsec. (b) of this section after 1981.
+Pub. L. 96–561, title II, §232(b), Dec. 22, 1980, 94 Stat. 3298, provided that the amendment made by that section is effective with respect to permits issued under subsec. (b) of this section after 1981.
 
 #### Transfer of Functions
 

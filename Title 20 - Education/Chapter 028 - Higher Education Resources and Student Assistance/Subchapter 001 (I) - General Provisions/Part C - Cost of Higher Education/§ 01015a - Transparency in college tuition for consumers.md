@@ -10,7 +10,7 @@ In this section:
 
 #### (2) Cost of attendance
 
-&emsp;The term “cost of attendance” means the average annual cost of tuition and fees, room and board, books, supplies, and transportation for an institution of higher education for afirst-time, full-time undergraduate student enrolled in the institution.
+&emsp;The term “cost of attendance” means the average annual cost of tuition and fees, room and board, books, supplies, and transportation for an institution of higher education for a first-time, full-time undergraduate student enrolled in the institution.
 
 #### (3) Net price
 
@@ -92,7 +92,7 @@ The lists described in subsection (c)(1) shall be compiled according to the foll
 
 &emsp;&emsp;(C) A description of the steps the institution will take toward the goal of reducing costs in the areas described in subparagraph (A).
 
-&emsp;&emsp;(D) In the case of an institution that is included on the same list under subparagraph (C) or (D) of subsection (c)(1) for two or moreconsecutive years, a description of the progress made on the steps described in subparagraph (C) of this paragraph that were included in the institution's report for the previous year.
+&emsp;&emsp;(D) In the case of an institution that is included on the same list under subparagraph (C) or (D) of subsection (c)(1) for two or more consecutive years, a description of the progress made on the steps described in subparagraph (C) of this paragraph that were included in the institution's report for the previous year.
 
 &emsp;&emsp;(E) If the determination of any cost increase described in subparagraph (A) is not within the exclusive control of the institution—
 
@@ -242,7 +242,7 @@ The Secretary shall annually report on the College Navigator website, in charts 
 
 &emsp;&emsp;&emsp;(iv) Policies of the institution related to transfer of credit from other institutions.
 
-&emsp;&emsp;(W) A link to the appropriate section of the Bureau of Labor Statistics website thatprovides information on regional data on starting salaries in all major occupations.
+&emsp;&emsp;(W) A link to the appropriate section of the Bureau of Labor Statistics website that provides information on regional data on starting salaries in all major occupations.
 
 &emsp;&emsp;(X) Information required to be submitted under paragraph (4) and a link to the institution pricing summary page described in paragraph (5).
 
@@ -322,7 +322,7 @@ The Secretary shall annually report on the College Navigator website, in charts 
 
 &emsp;&emsp;&emsp;(i) using the tuition and fees for such institution, as reported under subsection (i)(5)(A)(i), for the most recent academic year for which such data are reported; and
 
-&emsp;&emsp;&emsp;(ii) determining an estimated annual percentage change for each year for which the calculation is made, based on the annual percentage change in such institution's tuition and fees, as reported under subsection (i)(5)(A)(iv), for the most recentthree-year period for which such data are reported;
+&emsp;&emsp;&emsp;(ii) determining an estimated annual percentage change for each year for which the calculation is made, based on the annual percentage change in such institution's tuition and fees, as reported under subsection (i)(5)(A)(iv), for the most recent three-year period for which such data are reported;
 
 &emsp;&emsp;(C) calculate an estimate of the total amount of tuition and fees to complete a program of study at such institution, based on the normal duration of such program, using the estimate calculated under subparagraph (B) for each year of the program of study;
 
@@ -386,7 +386,7 @@ The Secretary shall annually report on the College Navigator website, in charts 
 
 &emsp;The Commissioner for Education Statistics shall disseminate to the public, in printed and electronic form, the information resulting from the survey.
 
-#### (<i>l</i>) Regulations
+#### (l) Regulations
 
 The Secretary is authorized to issue such regulations as may be necessary to carry out this section.
 

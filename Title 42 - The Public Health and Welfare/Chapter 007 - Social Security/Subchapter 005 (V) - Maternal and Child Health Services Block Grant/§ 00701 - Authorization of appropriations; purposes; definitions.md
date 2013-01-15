@@ -6,7 +6,7 @@
 
 &emsp;&emsp;(A) to provide and to assure mothers and children (in particular those with low income or with limited availability of health services) access to quality maternal and child health services;
 
-&emsp;&emsp;(B) to reduce infant mortality and the incidence of preventable diseases and handicapping conditions among children, to reduce the need for inpatient and long-term care services, to increase the number of children (especially preschool children) appropriately immunized against disease and the number of low income children receiving health assessments and follow-up diagnostic and treatment services, and otherwise to promote the health of mothers and infants by providing prenatal, delivery, and postpartum care for low income, at-risk pregnant women, and to promote the health of children by providing preventive and primary care services for low income children;
+&emsp;&emsp;(B) to reduce infant mortality and the incidence of preventable diseases and handicapping conditions among children, to reduce the need for inpatient and long-term care services, to increase the number of children (especially preschool children) appropriately immunized against disease and the number of low income children receiving health assessments and follow-up diagnostic and treatment services, and otherwise topromote the health of mothers and infants by providing prenatal, delivery, and postpartum care for low income, at-risk pregnant women, and to promote the health of children by providing preventive and primary care services for low income children;
 
 &emsp;&emsp;(C) to provide rehabilitation services for blind and disabled individuals under the age of 16 receiving benefits under subchapter XVI of this chapter, to the extent medical assistance for such services is not provided under subchapter XIX of this chapter; and
 
@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(B) projects designed to increase the participation of obstetricians and pediatricians under the program under this subchapter and under state <sup>1</sup> plans approved under subchapter XIX of this chapter,
 
-&emsp;&emsp;(C) integrated maternal and child health service delivery systems (of the type described in section 1320b–6 <sup>2</sup> of this title andusing, once developed, the model application form developed under section 6506(a) of the Omnibus Budget Reconciliation Act of 1989),
+&emsp;&emsp;(C) integrated maternal and child health service delivery systems (of the type described in section 1320b–6 <sup>2</sup> of this title and using, once developed, the model application form developed under section 6506(a) of the Omnibus Budget Reconciliation Act of 1989),
 
 &emsp;&emsp;(D) maternal and child health centers which (i) provide prenatal, delivery, and postpartum care for pregnant women and preventive and primary care services for infants up to age one, and (ii) operate under the direction of a not-for-profit hospital,
 
@@ -60,7 +60,7 @@
 
 &emsp;(ii) $4,000,000 for fiscal year 2008; and
 
-&emsp;(iii) $5,000,000 for each of fiscal years 2009 through 2012.
+&emsp;(iii) $5,000,000 for each of fiscal years 2009 through 2013.
 
 (B) Funds appropriated or authorized to be appropriated under subparagraph (A) shall—
 
@@ -100,7 +100,7 @@
 
 (5) For purposes of this subsection, the term “State” means each of the 50 States and the District of Columbia.
 
-(Aug. 14, 1935, ch. 531, title V, §501, as added Pub. L. 97–35, title XXI, §2192(a), Aug. 13, 1981, 95 Stat. 818; amended Pub. L. 97–248, title I, §137(b)(1), (2), Sept. 3, 1982, 96 Stat. 376; Pub. L. 98–369, div. B,title III, §2372(a), July 18, 1984, 98 Stat. 1110; Pub. L. 99–272, title IX, §9527(a)–(c), Apr. 7, 1986, 100 Stat. 219; Pub. L. 99–509, title IX, §9441(a), Oct. 21, 1986, 100 Stat. 2071; Pub. L. 100–203, title IV, §4118(p)(8), Dec. 22, 1987, 101 Stat. 1330–159; Pub. L. 101–239, title VI, §6501(a), Dec. 19, 1989, 103 Stat. 2273; Pub. L. 103–432, title II, §201, Oct. 31, 1994, 108 Stat. 4453; Pub. L. 105–12, §9(d), Apr. 30, 1997, 111 Stat. 27; Pub. L. 106–554, §1(a)(6) \[title IX, §921(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–584; Pub. L. 109–171, title VI, §6064, Feb. 8, 2006, 120 Stat. 100; Pub. L. 111–148, title V, §5507(b), Mar. 23, 2010, 124 Stat. 668.)
+(Aug. 14, 1935, ch. 531, title V, §501, as added Pub. L. 97–35, title XXI, §2192(a), Aug. 13, 1981, 95 Stat. 818; amended Pub. L. 97–248, title I, §137(b)(1), (2), Sept. 3, 1982, 96 Stat. 376; Pub. L. 98–369, div. B, title III, §2372(a), July 18, 1984, 98 Stat. 1110; Pub. L. 99–272, title IX, §9527(a)–(c), Apr. 7, 1986, 100 Stat. 219; Pub. L. 99–509, title IX, §9441(a), Oct. 21, 1986, 100 Stat. 2071; Pub. L. 100–203, title IV, §4118(p)(8), Dec. 22, 1987, 101 Stat. 1330–159; Pub. L. 101–239, title VI, §6501(a), Dec. 19, 1989, 103 Stat. 2273; Pub. L. 103–432, title II, §201, Oct. 31, 1994, 108 Stat. 4453; Pub. L. 105–12, §9(d), Apr. 30, 1997, 111 Stat. 27; Pub. L. 106–554, §1(a)(6) \[title IX, §921(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–584; Pub. L. 109–171, title VI, §6064, Feb. 8, 2006, 120 Stat. 100; Pub. L. 111–148, title V, §5507(b), Mar. 23, 2010, 124 Stat. 668; Pub. L. 112–240, title VI, §624, Jan. 2, 2013, 126 Stat. 2352.)
 
 #### References in Text
 
@@ -122,9 +122,11 @@ A prior section 701, act Aug. 14, 1935, ch. 531, title V, §501, as added Jan. 2
 
 Another prior section 701, acts Aug. 14, 1935, ch. 531, title V, §501, 49 Stat. 629; Aug. 10, 1939, ch. 666, title V, §501, 53 Stat. 1380; 1946 Reorg. Plan No. 2, §1, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; Aug. 10, 1946, ch. 951, title IV, §401(b)(1), 60 Stat. 986; Aug. 28, 1950, ch. 809, title III, pt. 3, §331(a), pt. 6, §361(e), 64 Stat. 551, 558; Aug. 28, 1958, Pub. L. 85–840, title VI, §602(a), 72 Stat. 1054; Sept. 13, 1960, Pub. L. 86–778, title VII, §707(a)(1)(A), 74 Stat. 995; Oct. 24, 1963, Pub. L. 88–156, §2(a), 77 Stat. 273; July 30, 1965, Pub. L. 89–97, title II, §201(a), 79 Stat. 353, authorized appropriations, for maternal and child health services, of $25,000,000; $30,000,000; $35,000,000; $45,000,000; $50,000,000; $55,000,000; $55,000,000; and $60,000,000 for fiscal years ending June 30, 1963, 1964, 1965, 1966, 1967, 1968, 1969, 1970 and each fiscal year thereafter, respectively, prior to the general amendment of title V of the Social Security Act by Pub. L. 90–248, §301.
 
-Provisions similar to those comprising former section 701 were contained in section 511 of act Aug. 14, 1935, ch. 531, title V, 49 Stat. 631, as amended (formerly classified to section 711 of this title, and sections 531(a), 532(a), and 533(a) (formerly 532(a)) of act Aug. 14, 1935, ch. 531, title V, as added Oct. 24, 1963, Pub. L. 88–156, §4, 77 Stat. 274; amended July 30, 1965, Pub. L. 89–97, title II, §205(3), 79 Stat. 354; Oct. 24, 1963, Pub. L. 88–156, §4, 77 Stat. 274; renumbered July 30, 1965, Pub. L. 89–97, title II, §205(2), 79 Stat. 354 (formerly classified to sections 729(a), 729–1(a), and 729a(a) of this title), prior to the general amendment and renumbering of title V of act Aug. 14, 1935, by Pub. L. 90–248, §301.
+Provisions similar to those comprising former section 701 were contained in section 511 of act Aug. 14, 1935, ch. 531, title V, 49 Stat. 631, as amended (formerly classified to section 711 of this title, and sections 531(a), 532(a), and 533(a) (formerly 532(a)) of act Aug. 14, 1935, ch. 531, title V, as added Oct. 24, 1963, Pub. L. 88–156, §4, 77 Stat. 274; amended July 30, 1965, Pub. L. 89–97, title II, §205(3), 79 Stat. 354; Oct. 24, 1963, Pub. L. 88–156, §4, 77 Stat. 274; renumbered July 30, 1965, Pub. L. 89–97,title II, §205(2), 79 Stat. 354 (formerly classified to sections 729(a), 729–1(a), and 729a(a) of this title), prior to the general amendment and renumbering of title V of act Aug. 14, 1935, by Pub. L. 90–248, §301.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (c)(1)(A)(iii). Pub. L. 112–240 substituted “2013” for “2012”.
 
 <b>2010</b>—Subsec. (c)(1)(A)(iii). Pub. L. 111–148 substituted “each of fiscal years 2009 through 2012” for “fiscal year 2009”.
 
@@ -166,11 +168,11 @@ Amendment by Pub. L. 105–12 effective Apr. 30, 1997, applicable to Federal pay
 
 #### Effective Date of 1989 Amendment
 
-Section 6510 of Pub. L. 101–239 provided that:
+Pub. L. 101–239, title VI, §6510, Dec. 19, 1989, 103 Stat. 2284, provided that:
 
 “(a)
 
-In General.—Except as provided in subsection (b), the amendments made by this subtitle \[subtitle C\(§§6501–6510) of title VI of Pub. L. 101–239, amending this section and sections 702 to 706, 708, and 709 of this title\] shall apply to appropriations for fiscal years beginning with fiscal year 1990.
+In General.—Except as provided in subsection (b), the amendments made by this subtitle \[subtitle C (§§6501–6510) of title VI of Pub. L. 101–239, amending this section and sections 702 to 706, 708, and 709 of this title\] shall apply to appropriations for fiscal years beginning with fiscal year 1990.
 
 “(b)
 
@@ -182,7 +184,7 @@ Application and Report.—The amendments made—
 
 #### Effective Date of 1984 Amendment
 
-Section 2372(b) of Pub. L. 98–369 provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective for fiscal years beginning on or after October 1, 1983.”
+Pub. L. 98–369, div. B, title III, §2372(b), July 18, 1984, 98 Stat. 1111, provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective for fiscal years beginning on or after October 1, 1983.”
 
 #### Effective Date of 1982 Amendment
 
@@ -190,7 +192,7 @@ Amendment by Pub. L. 97–248 effective as if originally included as part of thi
 
 #### Effective Date, Savings, and Transitional Provisions
 
-Section 2194 of Pub. L. 97–35 provided that:
+Pub. L. 97–35, title XXI, §2194, Aug. 13, 1981, 95 Stat. 828, provided that:
 
 “(a) Except as otherwise provided in this section, the amendments made by sections 2192 \[enacting this subchapter and enacting provisions set out as a note under section 706 of this title\] and 2193 \[amending this section and sections 247a, 300a–27, 300b, 300c–11, and 300c–21 of this title with respect to fiscal year ending Sept. 30, 1982, amending sections 300b–3, 300b–6, 1301, 1308, 1320a–1, 1320a–8, 1320b–2, 1320b–4, 1320c–21, 1382d, 1395b–1, 1395x, and 1396a of this title, repealing sections 236, 247a, 300a–21 to 300a–28, 300a–41, 300b, 300b–5, 300c–11, and 300c–21 of this title, enacting provisions set out as a note under section 1382d of this title, and amending provisions set out as notes under sections 1320a–8 and 1395b–1 of this title\] of this subtitle do not apply to any grant made, or contract entered into, or amounts payable to States under State plans before the earlier of—
 
@@ -238,15 +240,15 @@ Section 2194 of Pub. L. 97–35 provided that:
 
 &emsp;“(C) The term ‘consolidated State programs’ means the consolidated health programs, other than the consolidated Federal programs.
 
-“(d) The provisions of chapter 2 of subtitle C of title XVII of this Act \[sections 1741–1745 of Pub. L. 97–35, which were repealed and reenacted as section 7301–7305 of Title 31, Money and Finance, by Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 877\] shall not apply to this subtitle (or the programs under the amendments made by this title \[probably should be subtitle\]) and, specifically, section 1745 of this Act \[set out as a note under section 1243 ofTitle 31\] shall not apply to financial and compliance audits conducted under section 506(b) of the Social Security Act \[section 706(b) of this title\] (as amended by this subtitle).”
+“(d) The provisions of chapter 2 of subtitle C of title XVII of this Act \[sections 1741–1745 of Pub. L. 97–35, which were repealed and reenacted as section 7301–7305 of Title 31, Money and Finance, by Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 877\] shall not apply to this subtitle (or the programs under the amendments made by this title \[probably should be subtitle\]) and, specifically, section 1745 of this Act \[set out as a note under section 1243 of Title 31\] shall not apply to financial and compliance audits conducted under section 506(b) of the Social Security Act \[section 706(b) of this title\] (as amended by this subtitle).”
 
 #### Development of Model Applications for Maternal and Child Assistance Programs
 
-Section 6506(a) of Pub. L. 101–239 directed Secretary of Health and Human Services to develop, not later than one year after Dec. 19, 1989, a model application form for use in applying for assistance for pregnant women and for children less than 6 years old under maternal and child assistance programs and required publication of model form in Federal Register and dissemination of form to State agencies.
+Pub. L. 101–239, title VI, §6506(a), Dec. 19, 1989, 103 Stat. 2281, directed Secretary of Health and Human Services to develop, not later than one year after Dec. 19, 1989, a model application form for use in applying for assistance for pregnant women and for children less than 6 years old under maternal and child assistance programs and required publication of model form in Federal Register and dissemination of form to State agencies.
 
 #### Research on Infant Mortality and Medicaid Services
 
-Section 6507 of Pub. L. 101–239 provided that: “The Secretary of Health and Human Services shall develop a national data system for linking, for any infant up to age one—
+Pub. L. 101–239, title VI, §6507, Dec. 19, 1989, 103 Stat. 2282, provided that: “The Secretary of Health and Human Services shall develop a national data system for linking, for any infant up to age one—
 
 &emsp;“(1) the infant's birth record,
 
@@ -256,11 +258,11 @@ Section 6507 of Pub. L. 101–239 provided that: “The Secretary of Health and 
 
 #### Demonstration Project on Health Insurance for Medically Uninsurable Children
 
-Section 6508 of Pub. L. 101–239 authorized Secretary of Health and Human Services to conduct not more than 4 demonstration projects to provide health insurance coverage through eligible plans to medically uninsurable children under 19 years of age, further provided for definition of eligible plan, requirements for demonstration projects, including guarantee of insurance coverage for at least two years, provision of non-Federal funds, as well as further restrictions on insurance plans, and further provided for applications for projects, evaluation of projects by Secretary and report to Congress, and authorization of appropriations for each of fiscal years 1991, 1992, and 1993.
+Pub. L. 101–239, title VI, §6508, Dec. 19, 1989, 103 Stat. 2283, authorized Secretary of Health and Human Services to conduct not more than 4 demonstration projects to provide health insurance coverage through eligible plans to medically uninsurable children under 19 years of age, further provided for definition of eligible plan, requirements for demonstration projects, including guarantee of insurance coverage for at least two years, provision of non-Federal funds, as well as further restrictions on insurance plans, and further provided for applications for projects, evaluation of projects by Secretary and report to Congress, and authorization of appropriations for each of fiscal years 1991, 1992, and 1993.
 
 #### Maternal and Child Health Handbook
 
-Section 6509 of Pub. L. 101–239 provided that:
+Pub. L. 101–239, title VI, §6509, Dec. 19, 1989, 103 Stat. 2284, provided that:
 
 “(a)
 

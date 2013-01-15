@@ -26,7 +26,7 @@
 
 (d) Instead of, or in addition to, detailing officers and noncommissioned officers on active duty under subsection (c)(1), the Secretary of the military department concerned may authorize qualified institutions to employ, as administrators and instructors in the program, retired officers and noncommissioned officers who are in receipt of retired pay, and members of the Fleet Reserve and Fleet Marine Corps Reserve, whose qualifications are approved by the Secretary and the institution concerned and who request such employment, subject to the following:
 
-&emsp;(1) A retired member so employed is entitled to receive the member's retired or retainer pay without reduction by reason of any additional amount paid to the member by the institution concerned. In the case of payment of any such additional amount by the institution concerned, the Secretary of the military department concerned shall pay to that institution the amount equal to one-half of the amount paid to the retired member by the institution for any period, up to a maximum of one-half of the difference between the member's retired or retainer pay for that period and the active duty pay and allowances which the member would have received for that period if on active duty. Notwithstanding the limitation in the preceding sentence, the Secretary concerned may pay to the institution more than one-half of the additional amount paid to the retired member by the institution if (as determined by the Secretary) the institution is in an educationally and economically deprived area and the Secretary determines that such action is in the national interest. Payments by the Secretary concerned under this paragraph shall be made from funds appropriated for that purpose.
+&emsp;(1) A retired member so employed is entitled to receive the member's retired or retainer pay without reduction by reason of any additional amount paid to the member by the institution concerned. In the case of payment of any such additional amount by the institution concerned, the Secretary of the military department concerned shall pay to that institution the amount equal to one-half of the amount paid to the retired member by the institution for any period, up to a maximum of one-half of the difference between the member's retired or retainer pay for that period and the active duty pay and allowances which the member would have received for that period if on active duty. Notwithstanding the limitation in the preceding sentence, the Secretary concerned may pay to the institution more than one-half of the additional amount paid to the retired member by the institution if (as determined by the Secretary) the institution is in an educationally and economically deprived area and the Secretary determines that such action is in the national interest. Payments by the Secretary concerned underthis paragraph shall be made from funds appropriated for that purpose.
 
 &emsp;(2) Notwithstanding any other provision of law, such a retired member is not, while so employed, considered to be on active duty or inactive duty training for any purpose.
 
@@ -80,7 +80,7 @@ Subsec. (b)(1). Pub. L. 102–484, §533(c), substituted “in a grade above the
 
 Subsec. (c)(2). Pub. L. 102–484, §533(d), inserted before semicolon “and, to the extent considered appropriate by the Secretary concerned, such additional resources (including transportation and billeting) as may be available to support activities of the program”.
 
-Subsec. (d)(1). Pub. L. 102–484, §533(e)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Retired members so employed are entitled to receive their retired or retainer pay and an additional amount of not more than the difference between their retired pay and the active duty pay and allowances which they would receive if ordered to active duty, and one-half of that additional amount shall be paid to the institution concerned by the Secretary of the military department concerned from funds appropriated for that purpose.”
+Subsec. (d)(1). Pub. L. 102–484, §533(e)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Retired members so employed are entitled to receive their retired or retainer pay and an additional amount of not more than the difference between their retired pay and the active duty pay and allowanceswhich they would receive if ordered to active duty, and one-half of that additional amount shall be paid to the institution concerned by the Secretary of the military department concerned from funds appropriated for that purpose.”
 
 <b>1987</b>—Subsec. (a). Pub. L. 100–26 struck out “beginning with the calendar year 1966” after “each year” in second sentence.
 
@@ -102,35 +102,37 @@ Subsec. (b)(5). Pub. L. 98–525, §422(2)–(4), added par. (5).
 
 #### Effective Date of 1992 Amendment
 
-Section 533(e)(2) of Pub. L. 102–484 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to payments for periods of instructor service performed after September 30, 1992.”
+Pub. L. 102–484, div. A, title V, §533(e)(2), Oct. 23, 1992, 106 Stat. 2412, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to payments for periods of instructor service performed after September 30, 1992.”
 
 #### Short Title
 
-Section 1 of Pub. L. 88–647 provided: “That the Act \[enacting this chapter, and chapter 103 of this title, amending section 802 of former Title 5, sections 1475, 1478, 1481, 3201, 4348, 5404, 5504, 5652b, 6023, 6387, 6959, 8201, and 9348 of this title, and sections 205, 209, 415, 416 and 422 of Title 37, Pay and Allowances of the Uniformed Services, repealing sections 3355, 3540, 4381 to 4387, 6901 to 6906, 6908, 6910, 8355, 8540, and 9381 to 9387 of this title, and enacting provisions set out as notes under this section and section 2107 and former section 9385 of this title, may be cited as the ‘Reserve Officers’ Training Corps Vitalization Act of 1964’.”
+Pub. L. 88–647, §1, Oct. 13, 1964, 78 Stat. 1063, provided: “That the Act \[enacting this chapter, and chapter 103 of this title, amending section 802 of former Title 5, sections 1475, 1478, 1481, 3201, 4348, 5404, 5504, 5652b, 6023, 6387, 6959, 8201, and 9348 of this title, and sections 205, 209, 415, 416 and 422 of Title 37, Pay and Allowances of the Uniformed Services, repealing sections 3355, 3540, 4381 to 4387, 6901 to 6906, 6908, 6910, 8355, 8540, and 9381 to 9387 of this title, and enacting provisions set out as notes under this section and section 2107 and former section 9385 of this title, may be cited as the ‘Reserve Officers’ Training Corps Vitalization Act of 1964’.”
 
 #### Issuance of Regulations
 
-Section 102 of Pub. L. 88–647 directed that regulations implementing subsec. (a) of this section be issued by President and by Secretary of each military department not later than Jan. 1, 1966.
+Pub. L. 88–647, title I, §102, Oct. 13, 1964, 78 Stat. 1064, directed that regulations implementing subsec. (a) of this section be issued by President and by Secretary of each military department not later than Jan. 1, 1966.
 
 #### Savings Clause
 
-Section 402 of Pub. L. 88–647 provided that: “If a part of this Act \[see Short Title note above\] is invalid, all valid parts that are severable from the invalid part remains in effect. If a part of this Act is invalid in one or more of its applications, the part remains in effect in all valid applications that are severable from the invalid applications.”
+Pub. L. 88–647, title IV, §402, Oct. 13, 1964, 78 Stat. 1074, provided that: “If a part of this Act \[see Short Title note above\] is invalid, all valid parts that are severable from the invalid part remains in effect. If a part of this Act is invalid in one or more of its applications, the part remains in effect in all valid applications that are severable from the invalid applications.”
 
 #### Increase in Number of Units of Junior Reserve Officers’ Training Corps
 
-Pub. L. 110–417, \[div. A\], title V, §548, Oct. 14, 2008, 122 Stat. 4466, provided that:
+Pub. L. 110–417, \[div. A\], title V, §548, Oct. 14, 2008, 122 Stat. 4466, as amended by Pub. L. 112–239, div. A, title V, §553, Jan. 2, 2013, 126 Stat. 1742, provided that:
 
 “(a)
 
-Plan for Increase.—The Secretary of Defense, in consultation with the Secretaries of the military departments, shall develop and implement a plan to establish and support, not later than September 30, 2020, not less than 3,700 units of the Junior Reserve Officers’ Training Corps.
+Plan for Increase.—The Secretary of Defense, in consultation with the Secretaries of the military departments, shall develop and implement a plan to establish and support, not later than September 30, 2020, not less than 3,000, and not more than 3,700, units of the Junior Reserve Officers’ Training Corps.
 
 “(b)
 
 Exceptions.—The requirement imposed in subsection (a) shall not apply—
 
-&emsp;“(1) if the Secretary fails to receive an adequate number or requests for Junior Reserve Officers’ Training Corps units by public and private secondary educational institutions; or
+&emsp;“(1) if the Secretary fails to receive an adequate number or requests for Junior Reserve Officers’ Training Corps units by public and private secondary educational institutions;
 
-&emsp;“(2) during a time of national emergency when the Secretaries of the military departments determine that funding must be allocated elsewhere.
+&emsp;“(2) during a time of national emergency when the Secretaries of the military departments determine that funding must be allocated elsewhere; or
+
+&emsp;“(3) if the Secretaries of the military departments determine that the level of support of all kinds (including appropriated funds) provided to youth development programs within the Armed Forces is consistent with funding limitations and the achievement of the objectives of such programs.
 
 “(c)
 
@@ -154,7 +156,7 @@ Report on Plan.—Upon completion of the plan, the Secretary of Defense shall pr
 
 “(e)
 
-Time for Submission.—The plan required under subsection (a), along with the report required by subsection (d), shall be submitted to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] not later than March 31, 2009. The Secretary of Defense shall submit an up-dated \[sic\] report annually thereafter until the minimum number of units of the Junior Reserve Officers’ Training Corps specified in subsection (a) is achieved.”
+Time for Submission.—Not later than March 31, 2013, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a revised plan under subsection (a) to reflect amendments made to subsections (a) and (b) during fiscal year 2013 and a new report under subsection (d) to address the revised plan. The Secretary shall submit an updated report not later than March 31 of each of 2015, 2018, and 2020.”
 
 #### Expansion of Junior Reserve Officers’ Training Corps Program
 

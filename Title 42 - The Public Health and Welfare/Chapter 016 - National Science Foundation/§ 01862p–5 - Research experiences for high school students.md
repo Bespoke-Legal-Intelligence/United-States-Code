@@ -10,5 +10,5 @@ Section was enacted as part of the America COMPETES Reauthorization Act of 2010,
 
 #### Definitions
 
-For definitions of terms used in this section, see section 2 of Pub. L. 111–358, set out as a note under section 6621 of this title, and section 502 of Pub. L. 111–358, set out as a note under section 1862p of this title.
+For definitions of terms used in this section, see section 2 of Pub. L. 111–358, set out as a note under section6621 of this title, and section 502 of Pub. L. 111–358, set out as a note under section 1862p of this title.
 

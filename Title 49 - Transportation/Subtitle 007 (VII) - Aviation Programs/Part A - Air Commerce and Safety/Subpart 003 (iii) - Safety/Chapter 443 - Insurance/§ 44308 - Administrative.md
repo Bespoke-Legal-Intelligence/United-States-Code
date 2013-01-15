@@ -18,7 +18,7 @@ Issuance of Policies and Disposition of Claims.—(1) The Secretary may issue in
 
 (c)
 
-Underwriting Agent.—(1) The Secretary may, and when practical shall, employ an insurance carrier or group of insurance carriers to act as an underwriting agent. The Secretary may use the agent to adjust claims under this chapter, but claims may be paid only when approved by the Secretary.
+Underwriting Agent.—(1) The Secretary may, and when practical shall, employ an insurance carrier or group of insurance carriers to act as an underwriting agent. The Secretary may use the agent, or a claims adjuster who is independent of the underwriting agent, to adjust claims under this chapter, but claims may be paid only when approved by the Secretary.
 
 (2) The Secretary may pay reasonable compensation to an underwriting agent for servicing insurance the agent writes for the Secretary. Compensation may include payment for reasonable expenses incurred by the agent but may not include a payment by the agent for stimulation or solicitation of insurance business.
 
@@ -32,7 +32,7 @@ Budget.—The Secretary shall submit annually a budget program for carrying out 
 
 Accounts.—The Secretary shall maintain a set of accounts for audit under chapter 35 of title 31. Notwithstanding chapter 35, the Comptroller General shall allow credit for expenditures under this chapter made consistent with commercial practices in the aviation insurance business when shown to be necessary because of the business activities authorized by this chapter.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1171; Pub. L. 104–316, title I, §127(e), Oct. 19, 1996, 110 Stat. 3840; Pub. L. 105–137, §4, Dec. 2, 1997, 111 Stat. 2640.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1171; Pub. L. 104–316, title I, §127(e), Oct. 19, 1996, 110 Stat. 3840; Pub. L. 105–137, §4, Dec. 2, 1997, 111 Stat. 2640; Pub. L. 112–95, title VII, §704, Feb. 14, 2012, 126 Stat. 118.)
 
 Historical and Revision Notes
 
@@ -103,6 +103,8 @@ In subsection (d), the word “prepare” is omitted as being included in “sub
 In subsection (e), the words “under chapter 35 of title 31” are substituted for “in accordance with the provisions of the Accounting and Auditing Act of 1950” in section 1307(f) of the Act of August 23, 1958 (Public Law 85–726, 72 Stat. 804) because of section 4(b) of the Act of September 13, 1982 (Public Law 97–258, 96 Stat. 1067). The words “<i>Provided</i>, That . . . the Secretary may exercise the powers conferred in said subchapter, perform the duties and functions” are omitted as surplus. The words “Notwithstanding chapter 35” are added for clarity. The words “Comptroller General” are substituted for “General Accounting Office” because of 31:702.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (c)(1). Pub. L. 112–95 substituted “agent, or a claims adjuster who is independent of the underwriting agent,” for “agent” in second sentence.
 
 <b>1997</b>—Subsec. (b)(1). Pub. L. 105–137, §4(a), inserted after second sentence “Any such policy may authorize the binding arbitration of claims made thereunder in such manner as may be agreed to by the Secretary and any commercial insurer that may be responsible for any part of a loss to which such policy relates.”
 

@@ -24,7 +24,7 @@
 
 &emsp;&emsp;&emsp;(ii) an amount of stock in the controlled corporation constituting control within the meaning of section 368(c), and it is established to the satisfaction of the Secretary that the retention by the distributing corporation of stock (or stock and securities) in the controlled corporation was not in pursuance of a plan having as one of its principal purposes the avoidance of Federal income tax,
 
-> &emsp;then no gain or loss shall be recognized to (and no amount shall be includible in the incomeof) such shareholder or security holder on the receipt of such stock or securities.
+> &emsp;then no gain or loss shall be recognized to (and no amount shall be includible in the income of) such shareholder or security holder on the receipt of such stock or securities.
 
 #### (2) Non pro rata distributions, etc.
 
@@ -558,7 +558,7 @@ Subsec. (d). Pub. L. 101–508, §11321(a), added subsec. (d).
 
 Subsec. (c). Pub. L. 100–647, §1018(d)(5)(C), added subsec. (c).
 
-<b>1987</b>—Subsec. (b)(2)(D). Pub. L. 100–203, §10223(b)(3), inserted at end “For purposes of subparagraph (D), all distributee corporations which are members of the same affiliated group (as defined in section 1504(a)without regard to section 1504(b)) shall be treated as 1 distributee corporation.”
+<b>1987</b>—Subsec. (b)(2)(D). Pub. L. 100–203, §10223(b)(3), inserted at end “For purposes of subparagraph (D), all distributee corporations which are members of the same affiliated group (as defined in section 1504(a) without regard to section 1504(b)) shall be treated as 1 distributee corporation.”
 
 Subsec. (b)(2)(D)(i). Pub. L. 100–203, §10223(b)(1), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “was not acquired directly (or through one or more corporations) by another corporation within the period described in subparagraph (B), or”.
 
@@ -640,7 +640,7 @@ Amendment by section 1014(c), (e)(1), (2) of Pub. L. 105–34 applicable, with c
 
 #### Effective Date of 1990 Amendment
 
-Section 11321(c) of Pub. L. 101–508 provided that:
+Pub. L. 101–508, title XI, §11321(c), Nov. 5, 1990, 104 Stat. 1388–463, provided that:
 
 “(1)
 
@@ -670,7 +670,7 @@ Amendment by section 11702(e)(2) of Pub. L. 101–508 effective as if included i
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 1018(d)(5)(C) of Pub. L. 100–647 effective, except as otherwise provided, as if included inthe provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by section 1018(d)(5)(C) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 Amendment by section 2004(k)(1) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provisions of the Revenue Act of 1987, Pub. L. 100–203, title X, to which such amendment relates, see section 2004(u) of Pub. L. 100–647, set out as a note under section 56 of this title.
 

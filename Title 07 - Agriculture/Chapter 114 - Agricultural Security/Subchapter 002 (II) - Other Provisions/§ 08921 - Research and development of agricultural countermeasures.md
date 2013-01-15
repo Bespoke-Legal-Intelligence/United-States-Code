@@ -24,7 +24,7 @@ There is authorized to be appropriated to carry out this section $50,000,000 for
 
 The Plant Protection Act, referred to in subsec. (a)(2)(A), is title IV of Pub. L. 106–224, June 20, 2000, 114 Stat. 438, which is classified principally to chapter 104 (§7701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7701 of this title and Tables.
 
-The Animal Health Protection Act, referred to in subsec. (a)(2)(A), is subtitle E (§§10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to chapter 109 (§8301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of this title and Tables.
+The Animal Health Protection Act, referred to in subsec. (a)(2)(A), is subtitle E (§§10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to chapter 109 (§8301 et seq.) of this title. For complete classification of this Act to theCode, see Short Title note set out under section 8301 of this title and Tables.
 
 #### Codification
 

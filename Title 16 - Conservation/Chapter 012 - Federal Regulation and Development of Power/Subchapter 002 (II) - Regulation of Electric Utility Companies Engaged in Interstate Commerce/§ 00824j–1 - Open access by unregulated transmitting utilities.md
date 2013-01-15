@@ -32,7 +32,7 @@ The requirements of subsection (b) of this section shall not apply to facilities
 
 #### (e) Exemption termination
 
-If the Commission, after an evidentiary hearing held on a complaint and after giving consideration to reliability standards established under section 824<i>o</i> of this title, finds on the basis of a preponderance of the evidence that any exemption granted pursuant to subsection (c) of this section unreasonably impairs the continued reliability of an interconnected transmission system, the Commission shall revoke the exemption granted to the transmitting utility.
+If the Commission, after an evidentiary hearing held on a complaint and after giving consideration to reliability standards established under section 824o of this title, finds on the basis of a preponderance of the evidence that any exemption granted pursuant to subsection (c) of this section unreasonably impairs the continued reliability of an interconnected transmission system, the Commission shall revoke the exemption granted to the transmitting utility.
 
 #### (f) Application to unregulated transmitting utilities
 
@@ -44,7 +44,7 @@ In exercising authority under subsection (b)(1) of this section, the Commission 
 
 #### (h) Other requests
 
-The provision of transmission services under subsection (b) of this section does not precludea request for transmission services under section 824j of this title.
+The provision of transmission services under subsection (b) of this section does not preclude a request for transmission services under section 824j of this title.
 
 #### (i) Limitation
 

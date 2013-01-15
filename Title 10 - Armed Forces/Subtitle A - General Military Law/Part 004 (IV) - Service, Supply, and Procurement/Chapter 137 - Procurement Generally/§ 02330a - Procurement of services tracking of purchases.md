@@ -96,7 +96,7 @@ Review and Planning Requirements.—Within 90 days after the date on which an in
 
 (f)
 
-Development of Plan and Enforcement and Approval Mechanisms.—The Secretary ofthe military department or head of the Defense Agency responsible for activities in the inventory shall develop a plan, including an enforcement mechanism and approval process, to—
+Development of Plan and Enforcement and Approval Mechanisms.—The Secretary of the military department or head of the Defense Agency responsible for activities in the inventory shall develop a plan, including an enforcement mechanism and approval process, to—
 
 &emsp;(1) provide for the use of the inventory by the military department or Defense Agency to implement the requirements of section 129a of this title;
 
@@ -172,7 +172,7 @@ Guidance Required.—Not later than 270 days after the date of the enactment of 
 
 &emsp;“(1) require a clear distinction between employees of the Department of Defense and employees of Department of Defense contractors;
 
-&emsp;“(2) provide appropriate safeguards with respect to when, where, and to what extent the Secretary mayenter into a contract for the procurement of personal services; and
+&emsp;“(2) provide appropriate safeguards with respect to when, where, and to what extent the Secretary may enter into a contract for the procurement of personal services; and
 
 &emsp;“(3) assess and take steps to mitigate the risk that, as implemented and administered, non-personal services contracts may become personal services contracts.
 

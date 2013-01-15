@@ -92,7 +92,7 @@ Pub. L. 102–266 added Pub. L. 102–145, §118. See 1991 Amendment note below.
 
 #### Effective Date of 1996 Amendment
 
-Section 153(b) of Pub. L. 104–164 provided that: “The third sentence of section 61(a) of the Arms Export Control Act, as added by subsection (a)(2) \[22 U.S.C. 2796(a)\], shall apply only with respect to a defense article leased on or after the date of the enactment of this Act \[July 21, 1996\].”
+Pub. L. 104–164, title I, §153(b), July 21, 1996, 110 Stat. 1440, provided that: “The third sentence of section 61(a) of the Arms Export Control Act, as added by subsection (a)(2) \[22 U.S.C. 2796(a)\], shall apply only with respect to a defense article leased on or after the date of the enactment of this Act \[July 21, 1996\].”
 
 #### Delegation of Functions
 

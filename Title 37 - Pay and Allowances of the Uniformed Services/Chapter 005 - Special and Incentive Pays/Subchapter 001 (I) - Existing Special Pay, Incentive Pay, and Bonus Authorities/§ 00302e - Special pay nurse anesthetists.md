@@ -2,7 +2,7 @@
 
 (a)
 
-Special Pay Authorized.—(1) An officer described in subsection (b)(1) who, during the period beginning on November 29, 1989, and ending on December 31, 2012, executes a written agreement to remain on active duty for a period of one year or more may, upon the acceptance of the agreement by the Secretary concerned, be paid incentive special pay in an amount not to exceed $50,000 for any 12-month period.
+Special Pay Authorized.—(1) An officer described in subsection (b)(1) who, during the period beginning on November 29, 1989, and ending on December 31, 2013, executes a written agreement to remain on active duty for a period of one year or more may, upon the acceptance of the agreement by the Secretary concerned, be paid incentive special pay in an amount not to exceed $50,000 for any 12-month period.
 
 (2) The Secretary concerned shall determine the amount of incentive special pay to be paid to an officer under paragraph (1). In determining that amount, the Secretary concerned shall consider the period of obligated service provided for in the agreement under that paragraph.
 
@@ -24,7 +24,7 @@ Covered Officers.—(1) An officer referred to in subsection (a) is an officer o
 
 (c)
 
-Termination of Agreement.—Under regulations prescribed by the Secretary of Defense, with respect to the Army, Navy, and Air Force, and the Secretary of Health and Human Services, with respect to the Public Health Service, the Secretary concerned may terminate an agreement entered into under subsection (a). Upon termination of an agreement, the entitlement of the officer to special pay under this section and the agreed upon commitment to active duty of the officer shall end. If such entitlement is terminated, the officer concerned shall be subject to the repayment provisions of section 303a(e) of this title.
+Termination of Agreement.—Under regulations prescribed by the Secretary of Defense, with respect to the Army, Navy, and Air Force, and the Secretary of Health and Human Services, with respect to the Public Health Service, the Secretary concerned may terminate an agreement entered into under subsection (a). Upon termination of an agreement, the entitlement of the officer to special pay under this section and the agreed upon commitment to active duty of the officer shall end. If such entitlementis terminated, the officer concerned shall be subject to the repayment provisions of section 303a(e) of this title.
 
 (d)
 
@@ -34,9 +34,11 @@ Payment.—Special pay payable to an officer under subsection (a) shall be paid 
 
 Repayment.—An officer who does not complete the period of active duty specified in the agreement entered into under subsection (a) shall be subject to the repayment provisions of section 303a(e) of this title.
 
-(Added Pub. L. 101–189, div. A, title VII, §706(a)(1), Nov. 29, 1989, 103 Stat. 1472; amended Pub. L. 101–510, div. A, title VI, §§613(b), 614(a), (b), 618(c)(1), title XIV, §1484(d)(3), Nov. 5, 1990, 104 Stat. 1577, 1578, 1579, 1716; Pub. L. 102–25, title VII, §702(a)(2)(B), (b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §612(i), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §611(c), Nov. 30, 1993, 107 Stat. 1679; Pub. L. 103–337, div. A, title VI, §612(c), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, §612(c), Feb. 10, 1996, 110 Stat. 359; Pub. L. 104–201, div. A, title VI, §612(c), Sept. 23, 1996, 110 Stat. 2543; Pub. L. 105–85, div. A, title VI, §612(c), Nov. 18, 1997, 111 Stat. 1786; Pub. L. 105–261, div. A, title VI, §612(c), Oct. 17, 1998, 112 Stat. 2039; Pub. L. 106–65, div. A, title VI, §612(c), Oct. 5, 1999, 113 Stat. 650; Pub. L. 106–398, §1 \[\[div. A\], title VI, §§622(c), 626(b)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–151, 1654A–153; Pub. L. 107–107, div. A, title VI, §612(c), Dec. 28, 2001, 115 Stat. 1135; Pub. L. 107–314, div. A, title VI, §§612(d), 615(f), Dec. 2, 2002, 116 Stat. 2567, 2569; Pub. L. 108–136, div. A, title VI, §612(d), Nov. 24, 2003, 117 Stat. 1501; Pub. L. 108–375, div. A, title VI, §612(d), Oct. 28, 2004, 118 Stat. 1947; Pub. L. 109–163, div. A, title VI, §§622(d), 687(b)(8), Jan. 6, 2006, 119 Stat. 3294, 3328; Pub. L. 109–364, div. A, title VI, §612(d), Oct. 17, 2006, 120 Stat. 2248; Pub. L. 110–181, div. A, title VI, §612(d), Jan. 28, 2008, 122 Stat. 148; Pub. L. 110–417, \[div. A\], title VI, §612(d), Oct. 14, 2008, 122 Stat. 4484; Pub. L. 111–84, div. A, title VI, §612(b)(3), Oct. 28, 2009, 123 Stat. 2353; Pub. L. 111–383, div. A, title VI, §612(b)(3), Jan. 7, 2011, 124 Stat. 4236; Pub. L. 112–81, div. A, title VI, §612(b)(3), Dec. 31, 2011, 125 Stat. 1449.)
+(Added Pub. L. 101–189, div. A, title VII, §706(a)(1), Nov. 29, 1989, 103 Stat. 1472; amended Pub. L. 101–510, div. A, title VI, §§613(b), 614(a), (b), 618(c)(1), title XIV, §1484(d)(3), Nov. 5, 1990, 104 Stat. 1577, 1578, 1579, 1716; Pub. L. 102–25, title VII, §702(a)(2)(B), (b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §612(i), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §611(c), Nov. 30, 1993, 107 Stat. 1679; Pub. L. 103–337, div. A, title VI, §612(c), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, §612(c), Feb. 10, 1996, 110 Stat. 359; Pub. L. 104–201, div. A, title VI, §612(c), Sept. 23, 1996, 110 Stat. 2543; Pub. L. 105–85, div. A, title VI, §612(c), Nov. 18, 1997, 111 Stat. 1786; Pub. L. 105–261, div. A, title VI, §612(c), Oct. 17, 1998, 112 Stat. 2039; Pub. L. 106–65, div. A, title VI, §612(c), Oct. 5, 1999, 113 Stat. 650; Pub. L. 106–398, §1 \[\[div. A\], title VI, §§622(c), 626(b)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–151, 1654A–153; Pub. L. 107–107, div. A, title VI, §612(c), Dec. 28, 2001, 115 Stat. 1135; Pub. L. 107–314, div. A, title VI, §§612(d), 615(f), Dec. 2, 2002, 116 Stat. 2567, 2569; Pub. L. 108–136, div. A, title VI, §612(d), Nov. 24, 2003, 117 Stat. 1501; Pub. L. 108–375, div. A, title VI, §612(d), Oct. 28, 2004, 118 Stat. 1947; Pub. L. 109–163, div. A, title VI, §§622(d), 687(b)(8), Jan. 6, 2006, 119 Stat. 3294, 3328; Pub. L. 109–364, div. A, title VI, §612(d), Oct. 17, 2006, 120 Stat. 2248; Pub. L. 110–181, div. A, title VI, §612(d), Jan. 28, 2008, 122 Stat. 148; Pub. L. 110–417, \[div. A\], title VI, §612(d), Oct. 14, 2008, 122 Stat. 4484; Pub. L. 111–84, div. A, title VI, §612(b)(3), Oct. 28, 2009, 123 Stat. 2353; Pub. L. 111–383, div. A, title VI, §612(b)(3), Jan. 7, 2011, 124 Stat. 4236; Pub. L. 112–81, div. A, title VI, §612(b)(3), Dec. 31, 2011, 125 Stat. 1449; Pub. L. 112–239, div. A, title VI, §612(b)(3), Jan. 2, 2013, 126 Stat. 1776.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (a)(1). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
 
 <b>2011</b>—Subsec. (a)(1). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
 
@@ -108,7 +110,7 @@ Amendment by Pub. L. 110–181 effective as of Dec. 31, 2007, and subject to var
 
 #### Savings Provision
 
-For savings provision relating to payment or repayment of any bonus, incentive pay, special pay, or similar pay obligated to be paid before Apr. 1, 2006, under a provision of this section amended by section 687(b) of Pub. L. 109–163, see section 687(f) of Pub. L. 109–163, set out as a note under section 510 of Title 10, Armed Forces.
+For savings provision relating to payment or repayment of any bonus, incentive pay, special pay, or similar pay obligated to be paid before Apr. 1, 2006, under aprovision of this section amended by section 687(b) of Pub. L. 109–163, see section 687(f) of Pub. L. 109–163, set out as a note under section 510 of Title 10, Armed Forces.
 
 #### Application of Increase
 

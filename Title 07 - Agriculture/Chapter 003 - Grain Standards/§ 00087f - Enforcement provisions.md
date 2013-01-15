@@ -28,13 +28,13 @@ Any person who shall neglect or refuse to attend and testify, or to answer any l
 
 The United States district courts, the District Court of Guam, the District Court of the Virgin Islands, the highest court of American Samoa, and the United States courts of the other territories and possessions of the United States shall have jurisdiction in cases arising under this chapter.
 
-(Aug. 11, 1916, ch. 313, pt. B, §17, as added Pub. L. 90–487, §1, Aug. 15, 1968, 82 Stat. 768; amended Pub. L. 91–452, title II, §203, Oct. 15, 1970, 84 Stat. 928; Pub. L. 94–582, §19, Oct. 21, 1976, 90 Stat. 2885; Pub. L. 103–156, §§10, 12(<i>o</i>), Nov. 24, 1993, 107 Stat. 1528, 1529; Pub. L. 103–354, title II, §293(a)(7), Oct. 13, 1994, 108 Stat. 3237.)
+(Aug. 11, 1916, ch. 313, pt. B, §17, as added Pub. L. 90–487, §1, Aug. 15, 1968, 82 Stat. 768; amended Pub. L. 91–452, title II, §203, Oct. 15, 1970, 84 Stat. 928; Pub. L. 94–582, §19, Oct. 21, 1976, 90 Stat. 2885; Pub. L. 103–156, §§10, 12(o), Nov. 24, 1993, 107 Stat. 1528, 1529; Pub. L. 103–354, title II, §293(a)(7), Oct. 13, 1994, 108 Stat. 3237.)
 
 #### Amendments
 
 <b>1994</b>—Subsecs. (a) to (e). Pub. L. 103–354 substituted “Secretary” for “Administrator” wherever appearing.
 
-<b>1993</b>—Subsec. (e). Pub. L. 103–156, §12(<i>o</i>), which directed amendment of “Section 17(e)” by substituting “the power of the person” for “his power”, without specifying the name of the Act being amended, was executed to this section, which is section 17 of the UnitedStates Grain Standards Act, to reflect the probable intent of Congress.
+<b>1993</b>—Subsec. (e). Pub. L. 103–156, §12(o), which directed amendment of “Section 17(e)” by substituting “the power of the person” for “his power”, without specifying the name of the Act being amended, was executed to this section, which is section 17 of the United States Grain Standards Act, to reflect the probable intent of Congress.
 
 Pub. L. 103–156, §10, substituted “imprisonment for not more than 1 year or a fine of not more than $10,000 or both the imprisonment and fine” for “the penalties set forth in subsection (a) of section 87c of this title”.
 
@@ -54,7 +54,7 @@ Amendment by Pub. L. 94–582 effective 30 days after Oct. 21, 1976, see section
 
 #### Effective Date of 1970 Amendment
 
-For effective date of amendment by Pub. L. 91–452, and amendment not to affect any immunity to which any individual is entitled under this section by reason of any testimony given before sixtieth day following Oct. 15, 1970, see section 260 of Pub. L. 91–452, set out as an Effective Date; Savings Provision note under section 6001 of Title 18, Crimes and Criminal Procedure.
+For effective date of amendment by Pub. L. 91–452, and amendment not to affect any immunity to which any individual is entitled under this section by reason of any testimony given before sixtieth day following Oct. 15, 1970, see section 260 of Pub. L. 91–452, set out asan Effective Date; Savings Provision note under section 6001 of Title 18, Crimes and Criminal Procedure.
 
 #### Effective Date
 

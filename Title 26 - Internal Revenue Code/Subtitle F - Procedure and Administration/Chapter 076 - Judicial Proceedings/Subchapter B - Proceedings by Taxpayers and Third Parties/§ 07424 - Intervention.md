@@ -14,5 +14,5 @@ Amendment by Pub. L. 89–719 applicable after Nov. 2, 1966, regardless of when 
 
 #### Civil Actions To Clear Title to Property Commenced Before Nov. 2, 1966
 
-Section 114(d) of Pub. L. 89–719 provided that civil actions commenced before Nov. 2, 1966, to clear title to property pursuant to this section as in effect before Nov. 2, 1966, were to be determined in accord with this section as in effect before Nov. 2, 1966.
+Pub. L. 89–719, title I, §114(d), Nov. 2, 1966, 80 Stat. 1147, provided that civil actions commenced before Nov. 2, 1966, to clear title to property pursuant to this section as in effect before Nov. 2, 1966, were to be determined in accord with this section as in effect before Nov. 2, 1966.
 

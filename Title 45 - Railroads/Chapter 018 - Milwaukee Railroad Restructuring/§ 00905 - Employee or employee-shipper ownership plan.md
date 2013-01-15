@@ -34,7 +34,7 @@ Except as provided in this section, the findings of the Commission with respect 
 
 #### (e) Furnishing of reports and other information for preparation of plan
 
-(1) The trustee of the Milwaukee Railroad shall promptly provide to the person engaged in developing the employee or employee and shipper ownership plan under this section—
+(1) The trustee of the Milwaukee Railroad shall promptly provide to the person engaged indeveloping the employee or employee and shipper ownership plan under this section—
 
 &emsp;(A) its most recent reports on the physical condition of the railroad; and
 
@@ -46,5 +46,5 @@ Except as provided in this section, the findings of the Commission with respect 
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 
-Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer toSurface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
 

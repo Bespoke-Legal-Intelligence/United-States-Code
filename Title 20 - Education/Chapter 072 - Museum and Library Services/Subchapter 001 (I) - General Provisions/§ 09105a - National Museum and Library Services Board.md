@@ -16,9 +16,9 @@ There is established within the Institute a board to be known as the “National
 
 &emsp;&emsp;(C) The Deputy Director for the Office of Museum Services.
 
-&emsp;&emsp;(D) Ten members appointed by the President, by and with the advice and consent of the Senate, from among individuals who are citizens of the United States and who are specially qualified by virtue of their education, training, or experience in the area of library services, or their commitment to libraries.
+&emsp;&emsp;(D) Ten members appointed by the President, from among individuals who are citizens of the United States and who are specially qualified by virtue of their education, training, or experience in the area of library services, or their commitment to libraries.
 
-&emsp;&emsp;(E) Ten members appointed by the President, by and with the advice and consent of the Senate, from among individuals who are citizens of the United States and who are specially qualified by virtue of their education, training, or experience in the area of museum services, or their commitment to museums.
+&emsp;&emsp;(E) Ten members appointed by the President, from among individuals who are citizens of the United States and who are specially qualified by virtue of their education, training, or experience in the area of museum services, or their commitment to museums.
 
 #### (2) Special qualifications
 
@@ -42,7 +42,7 @@ There is established within the Institute a board to be known as the “National
 
 &emsp;&emsp;&emsp;&emsp;(I) resources that, collectively, are broadly representative of the curatorial, conservation, educational, and cultural resources of the United States; or
 
-&emsp;&emsp;&emsp;&emsp;(II) museums that, collectively, are broadly representative of various typesof museums, including museums relating to science, history, technology, art, zoos, botanical gardens, and museums designed for children; and
+&emsp;&emsp;&emsp;&emsp;(II) museums that, collectively, are broadly representative of various types of museums, including museums relating to science, history, technology, art, zoos, botanical gardens, and museums designed for children; and
 
 &emsp;&emsp;&emsp;(ii) the remainder shall be individuals recognized for their broad knowledge, expertise, or experience in museums or commitment to museums.
 
@@ -118,15 +118,17 @@ A majority of the voting members of the Museum and Library Services Board shall 
 
 The Director, with the advice of the Museum and Library Services Board, shall coordinate the development and implementation of policies and activities as described in subsections (f) and (g) of section 9103 of this title.
 
-(Pub. L. 94–462, title II, §207, as added Pub. L. 108–81, title I, §104(2), Sept. 25, 2003, 117 Stat. 993; amended Pub. L. 111–340, title I, §104, Dec. 22, 2010, 124 Stat. 3597.)
+(Pub. L. 94–462, title II, §207, as added Pub. L. 108–81, title I, §104(2), Sept. 25, 2003, 117 Stat. 993; amended Pub. L. 111–340, title I, §104, Dec. 22, 2010, 124 Stat. 3597; Pub. L. 112–166, §2(r), Aug. 10, 2012, 126 Stat. 1288.)
 
 #### Prior Provisions
 
 A prior section 207 of Pub. L. 94–462 was renumbered section 208 and is classified to section 9106 of this title.
 
-Another prior section 207 of Pub. L. 94–462 was classified to section 966 of this title prior to the generalamendment of title II of Pub. L. 94–462 by Pub. L. 104–208.
+Another prior section 207 of Pub. L. 94–462 was classified to section 966 of this title prior to the general amendment of title II of Pub. L. 94–462 by Pub. L. 104–208.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (b)(1)(D), (E). Pub. L. 112–166 struck out “, by and with the advice and consent of the Senate” after “President”.
 
 <b>2010</b>—Subsec. (b)(1)(D) to (F). Pub. L. 111–340, §104(1)(A), redesignated subpars. (E) and (F) as (D) and (E), respectively, and struck out former subpar. (D) which read as follows: “The Chairman of the National Commission on Libraries and Information Science.”
 
@@ -145,4 +147,8 @@ Subsec. (d)(1). Pub. L. 111–340, §104(3)(A), substituted “relating to museu
 Subsec. (d)(2). Pub. L. 111–340, §104(3)(B), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The Museum and Library Services Board shall advise the Director in making awards under section 9107 of this title.”
 
 Subsec. (i). Pub. L. 111–340, §104(4), substituted “coordinate the development and implementation of policies and activities as described in subsections (f) and (g) of section 9103 of this title” for “take steps to ensure that the policies and activities of the Institute are coordinated with other activities of the Federal Government”.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under section 113 of Title 6, Domestic Security.
 

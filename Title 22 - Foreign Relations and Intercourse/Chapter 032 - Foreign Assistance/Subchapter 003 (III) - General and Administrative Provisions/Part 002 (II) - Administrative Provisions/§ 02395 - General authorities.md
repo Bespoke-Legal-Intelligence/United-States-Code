@@ -18,7 +18,7 @@ The President may accept and use in furtherance of the purposes of this chapter,
 
 #### (e) Health and accident insurance for foreign participants and foreign employees
 
-(1) Any agency of the United States Government is authorized to pay the cost of health and accident insurance for foreign participants in any program of furnishing technical information and assistance administered by such agency while such participants are absent from theirhomes for the purpose of participation in such program.
+(1) Any agency of the United States Government is authorized to pay the cost of health and accident insurance for foreign participants in any program of furnishing technical information and assistance administered by such agency while such participants are absent from their homes for the purpose of participation in such program.
 
 (2) Any agency of the United States Government is authorized to pay the cost of health and accident insurance for foreign employees of that agency while those employees are absent from their place of employment abroad for purposes of training or other official duties.
 
@@ -56,9 +56,9 @@ The provisions of section 955 of title 18 shall not apply to prevent any person,
 
 Any cost-type contract or agreement (including grants) entered into with a university, college, or other educational institution for the purpose of carrying out programs authorized by subchapter I of this chapter may provide for the payment of the reimbursable indirect costs of said university, college, or other educational institution on the basis of predetermined fixed-percentage rates applied to the total, or an element thereof, of the reimbursable direct costs incurred.
 
-#### (<i>l</i>) Program oversight
+#### (l) Program oversight
 
-The Administrator of the agency primarily responsible for administering subchapter I of this chapter may use funds made available under that subchapter to provide program and management oversight for activities that are funded under that subchapter and that are conducted in countries in which the agency does not have a field mission or office.
+The Administrator of the agency primarily responsible for administering subchapter I of this chapter may use funds made available under that subchapter to provide program and management oversight for activities that are funded under that subchapter and that are conducted incountries in which the agency does not have a field mission or office.
 
 #### (m) Working capital fund
 
@@ -106,7 +106,7 @@ In subsec. (g)(5), “chapter 91 of title 31” substituted for “the Governmen
 
 <b>2004</b>—Subsec. (g)(5). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-<b>2000</b>—Subsec. (<i>l</i>). Pub. L. 106–264 added subsec. (<i>l</i>).
+<b>2000</b>—Subsec. (l). Pub. L. 106–264 added subsec. (l).
 
 Subsec. (m). Pub. L. 106–309 added subsec. (m).
 
@@ -136,7 +136,7 @@ Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L.
 
 #### Effective Date of 1967 Amendment
 
-Section 302(i)(2) of Pub. L. 90–137 provided in part that amendment of subsec. (g) by such section 302(i)(2) shall take effect on June 30, 1968.
+Pub. L. 90–137, pt. III, §302(i)(2), Nov. 14, 1967, 81 Stat. 461, provided in part that amendment of subsec. (g) by such section 302(i)(2) shall take effect on June 30, 1968.
 
 #### Delegation of Functions
 
@@ -144,7 +144,7 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### International Agreements
 
-The negotiation, conclusion, and termination of international agreements pursuant to this chapter shall be subject to requirements of section 112b of Title 1, General Provisions, and to applicable regulations and procedures, see section 1–604 of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56677, eff. Oct. 1, 1979, set out as a note under section 2381 of this title.
+The negotiation, conclusion, and termination of international agreements pursuant to this chaptershall be subject to requirements of section 112b of Title 1, General Provisions, and to applicable regulations and procedures, see section 1–604 of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56677, eff. Oct. 1, 1979, set out as a note under section 2381 of this title.
 
 #### Information to Congressional Committees on Negotiations Regarding Debts Owed United States by Foreign Governments; Transmittal to Congress of Debt Modification Proposals
 

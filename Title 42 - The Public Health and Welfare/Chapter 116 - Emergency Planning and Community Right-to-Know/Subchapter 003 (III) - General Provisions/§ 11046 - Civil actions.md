@@ -86,7 +86,7 @@ Nothing in this section shall restrict or expand any right which any person (or 
 
 #### (2) By persons
 
-&emsp;In any action under this section, any person may intervene as a matter of right when suchperson has a direct interest which is or may be adversely affected by the action and the disposition of the action may, as a practical matter, impair or impede the person's ability to protect that interest unless the Administrator or the State shows that the person's interest is adequately represented by existing parties in the action.
+&emsp;In any action under this section, any person may intervene as a matter of right when such person has a direct interest which is or may be adversely affected by the action and the disposition of the action may, as a practical matter, impair or impede the person's ability to protect that interest unless the Administrator or the State shows that the person's interest is adequately represented by existing parties in the action.
 
 (Pub. L. 99–499, title III, §326, Oct. 17, 1986, 100 Stat. 1755.)
 

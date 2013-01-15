@@ -12,7 +12,7 @@ The rate of compensation of each employee whose compensation is disbursed by the
 
 #### (c) Reference in other provisions to basic rates and additional compensation as reference to per annum gross rate
 
-In any case in which the rate of compensation of any employee or position, or class of employees or positions, the compensation for which is disbursed by the Secretary of the Senate, or any maximum or minimum rate with respect to any such employee, position, or class, is referred to in or provided by statute or Senate resolution, and the rate so referred to or provided is a basic rate with respect to which additional compensation is provided by law, such statutory provision or resolution shall be deemed to refer, in lieu of such basic rate, to the per annum gross rate which an employee receiving such basic rate immediately prior to August 1, 1967, would receive\(without regard to such statutory provision or resolution) under subsection (b) of this section on and after such date.
+In any case in which the rate of compensation of any employee or position, or class of employees or positions, the compensation for which is disbursed by the Secretary of the Senate, or any maximum or minimum rate with respect to any such employee, position, or class, is referred to in or provided by statute or Senate resolution, and the rate so referred to or provided is a basic rate with respect to which additional compensation is provided by law, such statutory provision or resolution shall be deemed to refer, in lieu of such basic rate, to the per annum gross rate which an employee receiving such basic rate immediately prior to August 1, 1967, would receive (without regard to such statutory provision or resolution) under subsection (b) of this section on and after such date.
 
 #### (d) Compensation of employees in office of Senator; limitation; titles of positions
 
@@ -130,7 +130,7 @@ In the event that the term of office of a Senator begins after the first month o
 
 No officer or employee whose compensation is disbursed by the Secretary of the Senate shall be paid gross compensation at a rate less than $2,677 or in excess of $169,459 unless expressly authorized by law. The limitation on the minimum rate of gross compensation under this subsection shall not apply to any member or civilian employee of the Capitol Police whose compensation is disbursed by the Secretary of the Senate.
 
-(Pub. L. 90–57, §105(a)–(f), (j), July 28, 1967, 81 Stat. 141–144; Pub. L. 90–206, title II, §214 (j)–(<i>l</i>), Dec. 16, 1967, 81 Stat. 637; Pub. L. 91–145, Dec. 12, 1969, 83 Stat. 340; Pub. L. 91–510, title III, §305, Oct. 26, 1970, 84 Stat. 1181; Pub. L. 91–656, §4, Jan. 8, 1971, 84 Stat. 1952; Pub. L. 92–184, ch. IV, Dec. 15, 1971, 85 Stat. 633; Pub. L. 92–607, ch. V, §505, Oct. 31, 1972, 86 Stat. 1505; Pub. L. 93–145, Nov. 1, 1973, 87 Stat. 532; Pub. L. 93–245, ch. VI, Jan. 3, 1974, 87 Stat. 1078; Pub. L. 93–255, §1, Mar. 27, 1974, 88 Stat. 52; Pub. L. 93–371, §6, Aug. 13, 1974, 88 Stat. 430; Pub. L. 94–59, title I, §102, July 25, 1975, 89 Stat. 274; Pub. L. 94–440, title I, §101(a), Oct. 1, 1976, 90 Stat. 1443; Pub. L. 95–94, title I, §111(d), Aug. 5, 1977, 91 Stat. 663; Pub. L. 95–391, title I, §104(b), Sept. 30, 1978, 92 Stat. 772; Pub. L. 95–482, §112, Oct. 18, 1978, 92 Stat. 1605; Pub. L. 96–304, title I, §§107(a), 112(b)(1), July 8, 1980, 94 Stat. 890, 892; Pub. L. 98–181, title I, §1203(a), Nov. 30, 1983, 97 Stat. 1289; Pub. L. 98–367, title I, §§3(a), 12(a), (b), July 17, 1984, 98 Stat. 475, 476; Pub. L. 100–71, title I, §3(a), July 11, 1987, 101 Stat. 423; Pub. L. 100–137, §1(c)(1), Oct. 21, 1987, 101 Stat. 818; Pub. L. 100–202, §101(i) \[title I, §1(a)\], Dec. 22, 1987, 101 Stat. 1329–290, 1329–293; Pub. L. 104–186, title II, §204(9), Aug. 20, 1996, 110 Stat. 1731; Pub. L. 105–18, title II, §7001, June 12, 1997, 111 Stat. 192; Pub. L. 105–55, title I, §5, Oct. 7, 1997, 111 Stat. 1181; Pub. L. 105–275, title I, §8, Oct. 21, 1998, 112 Stat. 2434; Pub. L. 106–57, title I, §2, Sept. 29, 1999, 113 Stat. 411; Pub. L. 107–68, title I, §106, Nov. 12, 2001, 115 Stat. 568; Pub. L. 108–7, div. H, title I, §3, Feb. 20, 2003, 117 Stat. 349; Pub. L. 108–83, title I, §1, Sept. 30, 2003, 117 Stat. 1010; Pub. L. 108–447, div. G, title I, §1, Dec. 8, 2004, 118 Stat. 3168; Pub. L. 109–55, title I, §1, Aug. 2, 2005, 119 Stat. 568; Pub. L. 110–161, div. H, title I, §§1, 4(a), Dec. 26, 2007, 121 Stat. 2220, 2221; Pub. L. 111–8, div. G, title I, §1, Mar. 11, 2009, 123 Stat. 814; Pub. L. 111–68, div. A, title I, §1, Oct. 1, 2009, 123 Stat. 2026.)
+(Pub. L. 90–57, §105(a)–(f), (j), July 28, 1967, 81 Stat. 141–144; Pub. L. 90–206, title II, §214 (j)–(l), Dec. 16, 1967, 81 Stat. 637; Pub. L. 91–145, Dec. 12, 1969, 83 Stat. 340; Pub. L. 91–510, title III, §305, Oct. 26, 1970, 84 Stat. 1181; Pub. L. 91–656, §4, Jan. 8, 1971, 84 Stat. 1952; Pub. L. 92–184, ch. IV, Dec. 15, 1971, 85 Stat. 633; Pub. L. 92–607, ch. V, §505, Oct. 31, 1972, 86 Stat. 1505; Pub. L. 93–145, Nov. 1, 1973, 87 Stat. 532; Pub. L. 93–245, ch. VI, Jan. 3, 1974, 87 Stat. 1078; Pub. L. 93–255, §1, Mar. 27, 1974, 88 Stat. 52; Pub. L. 93–371, §6, Aug. 13, 1974, 88 Stat. 430; Pub. L. 94–59, title I, §102, July 25, 1975, 89 Stat. 274; Pub. L. 94–440, title I, §101(a), Oct. 1, 1976, 90 Stat. 1443; Pub. L. 95–94, title I, §111(d), Aug. 5, 1977, 91 Stat. 663; Pub. L. 95–391, title I, §104(b), Sept. 30, 1978, 92 Stat. 772; Pub. L. 95–482, §112, Oct. 18, 1978, 92 Stat. 1605; Pub. L. 96–304, title I, §§107(a), 112(b)(1), July 8, 1980, 94 Stat. 890, 892; Pub. L. 98–181, title I, §1203(a), Nov. 30, 1983, 97 Stat. 1289; Pub. L. 98–367, title I, §§3(a), 12(a), (b), July 17, 1984, 98 Stat. 475, 476; Pub. L. 100–71, title I, §3(a), July 11, 1987, 101 Stat. 423; Pub. L. 100–137, §1(c)(1), Oct. 21, 1987, 101 Stat. 818; Pub. L. 100–202, §101(i) \[title I, §1(a)\], Dec. 22, 1987, 101 Stat. 1329–290, 1329–293; Pub. L. 104–186, title II, §204(9), Aug. 20, 1996, 110 Stat. 1731; Pub. L. 105–18, title II, §7001, June 12, 1997, 111 Stat. 192; Pub. L. 105–55, title I, §5, Oct. 7, 1997, 111 Stat. 1181; Pub. L. 105–275, title I, §8, Oct. 21, 1998, 112 Stat. 2434; Pub. L. 106–57, title I, §2, Sept. 29, 1999, 113 Stat. 411; Pub. L. 107–68, title I, §106, Nov. 12, 2001, 115 Stat. 568; Pub. L. 108–7, div. H, title I, §3, Feb. 20, 2003, 117 Stat. 349; Pub. L. 108–83, title I, §1, Sept. 30, 2003, 117 Stat. 1010; Pub. L. 108–447, div. G, title I, §1, Dec. 8, 2004, 118 Stat. 3168; Pub. L. 109–55, title I, §1, Aug. 2, 2005, 119 Stat. 568; Pub. L. 110–161, div. H, title I, §§1, 4(a), Dec. 26, 2007, 121 Stat. 2220, 2221; Pub. L. 111–8, div. G, title I, §1, Mar. 11, 2009, 123 Stat. 814; Pub. L. 111–68, div. A, title I, §1, Oct. 1, 2009, 123 Stat. 2026.)
 
 #### Increase in Aggregate Compensation of Employees in Offices of Senators
 
@@ -142,7 +142,7 @@ Section is comprised of subsecs. (a) to (f) and (j) of section 105 of Pub. L. 90
 
 #### Amendments
 
-<b>2010</b>—Subsec. (d)(1)(A). The table was revised upward, effective Jan. 1, 2010, by section 6(b) of Salary Directive of President pro tempore of the Senate, Jan. 5, 2010, set out as a note under section 60a–1 of this title, which deemed dollar amounts in table in effect on Dec. 31, 2009, to be increased by an additional 2.42 percent.
+<b>2010</b>—Subsec. (d)(1)(A). The table was revised upward, effective Jan. 1, 2010, by section 6(b) of Salary Directiveof President pro tempore of the Senate, Jan. 5, 2010, set out as a note under section 60a–1 of this title, which deemed dollar amounts in table in effect on Dec. 31, 2009, to be increased by an additional 2.42 percent.
 
 Subsec. (d)(2). Figures “$2,677” and “$169,459” to be deemed to refer, effective Jan. 1, 2010, to the figures “$2,742” and “$169,459”, respectively, see section 6(c) of Salary Directive of President pro tempore of the Senate, Jan. 5, 2010, set out as a note under section 60a–1 of this title.
 
@@ -198,13 +198,13 @@ Subsec. (f). Figures “$2,218” and “$153,559” to be deemed to refer, effe
 
 <b>2004</b>—Subsec. (d)(1)(A). Pub. L. 108–447 revised table upward, deeming dollar amounts in table to be increased by an additional $50,000 each.
 
-The table was revised upward, effective Jan. 1, 2004, by section 6(b) of Salary Directive of President pro tempore of the Senate, Mar. 5, 2004, formerly set out as a note under section 60a–1 of this title, which deemed dollar amounts in table in effect on Dec. 31, 2003, to be increased by an additional 4.42 percent.
+The table was revised upward, effective Jan. 1, 2004, by section 6(b) of Salary Directive of President pro tempore of the Senate, Mar. 5, 2004, formerly set out asa note under section 60a–1 of this title, which deemed dollar amounts in table in effect on Dec. 31, 2003, to be increased by an additional 4.42 percent.
 
 Subsec. (d)(2). Figures “$2,170” and “$152,459” to be deemed to refer, effective Jan. 1, 2004, to the figures “$2,218” and “$153,559”, respectively, see section 6(c) of Salary Directive of President pro tempore of the Senate, Mar. 5, 2004, formerly set out as a note under section 60a–1 of this title.
 
 Subsec. (e)(3). Figures “$151,964”, “$152,459”, and “$154,315” to be deemed to refer, effective Jan. 1, 2004, to the figures “$153,064”, “$153,559”, and “$155,415”, respectively, see section 5(b) of Salary Directive of President pro tempore of the Senate, Mar. 5, 2004, formerly set out as a note under section 60a–1 of this title.
 
-Subsec. (f). Figures “$2,170” and “$152,459” to be deemed to refer, effective Jan. 1, 2004, to the figures“$2,218” and “$153,559”, respectively, see section 7 of Salary Directive of President pro tempore of the Senate, Mar. 5, 2004, formerly set out as a note under section 60a–1 of this title.
+Subsec. (f). Figures “$2,170” and “$152,459” to be deemed to refer, effective Jan. 1, 2004, to the figures “$2,218” and “$153,559”, respectively, see section 7 of Salary Directive of President pro tempore of the Senate, Mar. 5, 2004, formerly set out as a note under section 60a–1 of this title.
 
 <b>2003</b>—Subsec. (d)(1)(A). Section 6(b) of Salary Directive of President pro tempore of the Senate dated Dec. 15, 2003, which deemed dollar amounts in table in effect on Dec. 31, 2003, to be increased by an additional 2.2 percent effective Jan. 1, 2004, was superseded by Salary Directive of President pro tempore of the Senate dated Mar. 5, 2004. See note above.
 
@@ -258,7 +258,7 @@ Subsec. (f). Figures “$1,823” and “$132,159” to be deemed to refer, effe
 
 Pub. L. 105–275 revised table upward, deeming dollar amounts in table to be increased by an additional $50,000 each.
 
-Subsec. (d)(2). Figure “$1,768” to be deemed to refer, effective Jan. 1, 1999, to the figure “$1,823”, see section 6(c) of Salary Directive of President pro tempore of the Senate, Dec. 16, 1998, formerly set out as a note under section 60a–1 of this title.
+Subsec. (d)(2). Figure “$1,768” to be deemed to refer, effective Jan. 1, 1999, to the figure “$1,823”, see section6(c) of Salary Directive of President pro tempore of the Senate, Dec. 16, 1998, formerly set out as a note under section 60a–1 of this title.
 
 Subsec. (f). Figure “$1,768” to be deemed to refer, effective Jan. 1, 1999, to the figure “$1,823”, see section 7(a) of Salary Directive of President pro tempore of the Senate, Dec. 16, 1998, formerly set out as a note under section 60a–1 of this title.
 
@@ -358,7 +358,7 @@ Subsec. (f). Figures “$1,251” and “$68,172” to be deemed to refer, effec
 
 Subsec. (d)(2). Pub. L. 98–367, §12(a), substituted “The salary of an employee in a Senator's office shall not be fixed under this paragraph at a rate less than $1,251 or in excess of $68,172 per annum” for “The salary of an employee in a Senator's office shall not be fixed under this paragraph at a rate less than $1,251 per annum or in excess of $40,721 per annum except that (i) the salaries of three employees may be fixed at rates of not more than $64,106 per annum, (ii) the salaries of five employees may be fixed at rates of not more than $64,704 per annum, and (iii) the salary of one employee may be fixed at a rate of not more than $68,172 per annum”.
 
-Subsec. (e)(3). Pub. L. 98–367, §12(b), substituted “No employee of a committee of the Senate shall be paid at a gross rate in excess of $67,694, in case of an employee of a joint committee the expenses of which are paid from the contingent fund of the Senate, $68,172, in case of an employee of a select committee (including the conference majority and conference minority of the Senate), or $69,966, in case of an employee of any standing committee (including the majority and minority policy committees) of the Senate” for “No employee of any standing or select committee of the Senate (including the majority and minority policy committees and the conference majority and conference minority of the Senate), or of any joint committee the expenses of which are paid from the contingent fund of the Senate, shall be paid at a gross rate in excess of $64,106 per annum, except that (A) two employees of any such committee (other than the Committee on Appropriations), who are otherwise authorized to be paid at such rate, may be paid at gross rates not in excess of $65,661 per annum, and four such employees may be paid at gross rates not in excess of $69,966 per annum; and (B) sixteen employees of the Committee on Appropriations who are otherwise authorized to be paid at such rate, may be paid at gross rates not in excess of $65,661 per annum, and five such employees may be paid at gross rates not in excess of $69,966 per annum”.
+Subsec. (e)(3). Pub. L. 98–367, §12(b), substituted “No employee of a committee of the Senate shall be paid at a gross rate in excess of $67,694, in case of an employee of a joint committee the expenses of which are paid from the contingent fund of the Senate, $68,172, in case of an employee of a select committee (including the conference majority and conference minority of the Senate), or $69,966, in case of an employee of any standing committee (including the majority and minority policy committees) of the Senate” for “No employee of any standing or select committee of the Senate (including the majority and minority policy committees and the conference majority and conference minority of the Senate), or of any joint committee the expenses of which are paid from the contingent fund of the Senate, shall be paid at a gross rate in excess of $64,106 per annum, except that (A) two employees of any such committee (other than the Committee on Appropriations), who are otherwise authorized to be paid at such rate, may be paid at gross rates not in excess of $65,661 per annum, and four such employees may be paid at gross rates not in excess of $69,966 per annum; and (B) sixteen employees of the Committee on Appropriations who are otherwise authorized to be paid at such rate, may be paid at gross rates not in excess of $65,661 perannum, and five such employees may be paid at gross rates not in excess of $69,966 per annum”.
 
 <b>1983</b>—Subsec. (a)(2). Pub. L. 98–181 amended par. (2) generally. Prior to amendment par. (2) read: “New or changed rates of compensation of any such employees shall be certified in writing to the disbursing office of the Senate on or before the day on which they are to become effective, except that in the case of any change, other than an appointment, to become effective on or after the first day and prior to the tenth day of any month, such certification may be made at any time not later than the tenth day of such month.”
 
@@ -408,13 +408,13 @@ Subsec. (d)(1)(A). The table was revised upward, effective Oct. 1, 1979, by sect
 
 Subsec. (d)(2). Figures “$1,134”, “$30,807”, “$54,243”, and “$56,700” increased, effective Oct. 1, 1979, to the figures “$1,010”, “$32,926”, “$57,974”, and “$60,600”, respectively, see section 6(c)(1) of Salary Directive of President pro tempore of the Senate, Oct. 13, 1979, formerly set out as a note under section 60a–1 of this title.
 
-Subsec. (e). Figures “$22,302”, “$33,642”, “$55,944”, “$58,212”, and “$61,425” to be deemed to refer, effective Oct. 1, 1979, to the figures “$23,836”, “$35,956”, “$59,792”, “$62,216”, and “$65,650”, respectively, see section 5(b)(1), (2), of Salary Directive of President pro tempore of the Senate, Oct. 13, 1979, formerly set out as a note under section 60a–1 of this title.
+Subsec. (e). Figures “$22,302”, “$33,642”, “$55,944”, “$58,212”, and “$61,425” to be deemed to refer, effective Oct. 1, 1979, to the figures “$23,836”, “$35,956”, “$59,792”, “$62,216”, and “$65,650”, respectively, see section 5(b)(1), (2), of Salary Directive of President pro temporeof the Senate, Oct. 13, 1979, formerly set out as a note under section 60a–1 of this title.
 
 Subsec. (f). Figures “$1,134” and “$61,425” to be deemed to refer, effective Oct. 1, 1979, to the figures “$1,010” and “$65,650”, respectively, see section 7(a), (b)(1) of Salary Directive of President pro tempore of the Senate, Oct. 13, 1979, formerly set out as a note under section 60a–1 of this title.
 
 <b>1978</b>—Subsec. (a)(1). Figure “189” was substituted for figure “179” to reflect the use of the figure “189” as the multiple used for determining the general upward revision of salaries by Salary Directive of President pro tempore of the Senate, Oct. 9, 1978, formerly set out as a note under section 60a–1 of this title.
 
-Subsec. (d)(1)(A). The table was revised upward, effective Oct. 1, 1978, by section 6(b) of Salary Directive ofPresident pro tempore of the Senate, Oct. 9, 1978, formerly set out as a note under section 60a–1 of this title.
+Subsec. (d)(1)(A). The table was revised upward, effective Oct. 1, 1978, by section 6(b) of Salary Directive of President pro tempore of the Senate, Oct. 9, 1978, formerly set out as a note under section 60a–1 of this title.
 
 Pub. L. 95–391 inserted item in the table added by section 6(b) of Salary Directive of President pro tempore of the Senate dated Sept. 29, 1977, providing that the aggregate of gross compensation paid employees in the office of a Senator not exceed $664,627 if the population of that Senator's State is 8,000,000 but less than 9,000,000.
 
@@ -526,7 +526,7 @@ Figures “$1,095”, “$17,520”, “$23,652”, “$28,689”, “$30,003”
 
 Subsec. (e). Figures “$8,118”, “$14,514”, “$14,022”, “$18,450”, “$21,402”, “$20,418”, “$32,712”, “$34,104”, and “$35,496” to be deemed to refer, effective Jan. 1, 1972, to the figures “$8,288”, “$15,281”, “$14,245”, “$18,648”, “$22,533”, “$20,461”, “$36,519”, “$38,073”, and “$39,627”, respectively, see section 5(b) of Salary Directive of President pro tempore of the Senate, Dec. 23, 1971, formerly set out as a note under section 60a–1 of this title.
 
-Figures “$7,888”, “$13,688”, “$13,920”, “$18,328”, “$20,184”, “$20,416”, “$32,712”, “$34,014”, and “$35,496” to be deemed to refer, effective Feb. 1, 1971, to the figures “$8,118”, “$14,514”, “$14,022”, “$18,450”, “$21,402”, “$30,418”, “$32,712”, “$34,014”, and “$35,496”, respectively, see section 5(b) of Salary Directive of President pro tempore of the Senate, Jan. 15, 1971, formerly set out as a note under section 60a–1 of this title.
+Figures “$7,888”, “$13,688”, “$13,920”, “$18,328”, “$20,184”, “$20,416”, “$32,712”, “$34,014”, and “$35,496”to be deemed to refer, effective Feb. 1, 1971, to the figures “$8,118”, “$14,514”, “$14,022”, “$18,450”, “$21,402”, “$30,418”, “$32,712”, “$34,014”, and “$35,496”, respectively, see section 5(b) of Salary Directive of President pro tempore of the Senate, Jan. 15, 1971, formerly set out as a note under section 60a–1 of this title.
 
 Subsec. (f). Figures “$1,230” and “$35,670” to be deemed to refer, effective Jan. 1, 1972, to the figures “$1,295” and “$39,627”, respectively, see section 7 of Salary Directive of President pro tempore of the Senate, Dec. 23, 1971, formerly set out as a note under section 60a–1 of this title.
 
@@ -566,7 +566,7 @@ Subsecs. (d)(2) to (f). Figures were increased, effective July 1, 1968, see sect
 
 Subsec. (d)(1). Pub. L. 90–206, §214(k), increased the aggregate amount of the per annum gross rates of compensation of employees in the office of a Senator.
 
-Subsecs. (d)(2) to (f). Pub. L. 90–206, §214(<i>l</i>), substituted “$1,128”, “$6,392”, “$11,092”, “$11,280”, “$14,852”, “$15,040”, “$16,356”, “$16,544”, “$18,988”, “$23,312”, “$24,440”, and “$25,568” for “$1,080”, “$6,120”, “$10,620”, “$10,800”, “$14,220”, “$14,400”, “$15,660”, “$15,840”, “$18,180”, “$22,320”, “$23,400”, and “$24,480”, respectively, wherever appearing.
+Subsecs. (d)(2) to (f). Pub. L. 90–206, §214(l), substituted “$1,128”, “$6,392”, “$11,092”, “$11,280”, “$14,852”, “$15,040”, “$16,356”, “$16,544”, “$18,988”, “$23,312”, “$24,440”, and “$25,568” for “$1,080”, “$6,120”, “$10,620”, “$10,800”, “$14,220”, “$14,400”, “$15,660”, “$15,840”, “$18,180”, “$22,320”, “$23,400”, and “$24,480”, respectively, wherever appearing.
 
 #### Effective Date of 2009 Amendment
 
@@ -608,31 +608,31 @@ Pub. L. 105–275, title I, §8, Oct. 21, 1998, 112 Stat. 2434, provided that th
 
 #### Effective Date of 1997 Amendment
 
-Section 5 of Pub. L. 105–55 provided that the amendment made by that section is effective on and after Oct. 1, 1997.
+Pub. L. 105–55, title I, §5, Oct. 7, 1997, 111 Stat. 1181, provided that the amendment made by section 5 is effective on and after Oct. 1, 1997.
 
 #### Effective Date of 1987 Amendments
 
-Section 101(i) \[title I, §1(b)\] of Pub. L. 100–202 provided that: “The amendment made by this section \[amending this section\] shall be effective in the case of fiscal years beginning after September 30, 1987.”
+Pub. L. 100–202, §101(i) \[title I, §1(b)\], Dec. 22, 1987, 101 Stat. 1329–290, 1329–294, provided that: “The amendment made by this section \[amending this section\] shall be effective in the case of fiscal years beginning after September 30, 1987.”
 
-Section 1(c)(1) of Pub. L. 100–137 provided that the amendment made by that section is effective Jan. 1, 1988.
+Pub. L. 100–137, §1(c)(1), Oct. 21, 1987, 101 Stat. 818, provided that the amendment made by section 1(c)(1) is effective Jan. 1, 1988.
 
-Section 3(a) of Pub. L. 100–71 provided that the amendment made by that section is effective July 1, 1987.
+Pub. L. 100–71, title I, §3(a), July 11, 1987, 101 Stat. 423, provided that the amendment made by section 3(a) is effective July 1, 1987.
 
 #### Effective Date of 1984 Amendment
 
-Section 3(b) of Pub. L. 98–367 provided that: “The amendments made by subsection (a) of this section \[amending this section\] shall be effective with respect to fiscal years beginning after September 30, 1984.”
+Pub. L. 98–367, title I, §3(b), July 17, 1984, 98 Stat. 475, provided that: “The amendments made by subsection (a) of this section \[amending this section\] shall be effective with respect to fiscal years beginning after September 30, 1984.”
 
-Section 12(c) of Pub. L. 98–367 provided that: “The amendments made by subsection (a) of this section \[amending this section\] shall take effect on October 1, 1984.”
+Pub. L. 98–367, title I, §12(c), July 17, 1984, 98 Stat. 477, provided that: “The amendments made by subsection (a) of this section \[amending this section\] shall take effect on October 1, 1984.”
 
 #### Effective Date of 1983 Amendment
 
-Section 1203(b) of Pub. L. 98–181 provided that: “The amendment made by subsection (a) \[amending this section\] shall be applicable in the case of new or changed rates of compensation which are certified to the Disbursing Office of the Senate on or after January 1, 1984.”
+Pub. L. 98–181, title I, §1203(b), Nov. 30, 1983, 97 Stat. 1290, provided that: “The amendment made by subsection (a) \[amending this section\] shall be applicable in the case of new or changed rates of compensation which are certified to the Disbursing Office of the Senate on or after January 1, 1984.”
 
 #### Effective Date of 1980 Amendment
 
 Amendment by section 107(a) of Pub. L. 96–304 effective Oct. 1, 1980, see section 107(d) of Pub. L. 96–304, set out as an Effective Date of 1980 Amendment note under section 60j of this title.
 
-Section 112(b) of Pub. L. 96–304 provided that the amendment made by that section is effective as of the close of Feb. 28, 1981.
+Pub. L. 96–304, title I, §112(b), July 8, 1980, 94 Stat. 892, provided that the amendment made by section 112(b) is effective as of the close of Feb. 28, 1981.
 
 #### Effective Date of 1977 Amendment
 
@@ -640,19 +640,19 @@ Amendment by Pub. L. 95–94 effective Oct. 1, 1977, see section 111(f) of Pub. 
 
 #### Effective Date of 1976 Amendment
 
-Section 101(a) of Pub. L. 94–440 provided that the amendment made by that section is effective Oct. 1, 1976.
+Pub. L. 94–440, title I, §101(a), Oct. 1, 1976, 90 Stat. 1443, provided that the amendment made by section 101(a) is effective Oct. 1, 1976.
 
 #### Effective Date of 1974 Amendment
 
-Section 6 of Pub. L. 93–371 provided that the amendment made by that section is effective July 1, 1974.
+Pub. L. 93–371, §6, Aug. 13, 1974, 88 Stat. 430, provided that the amendment made by section 6 is effective July 1, 1974.
 
 #### Effective Date of 1973 Amendment
 
-Section 101 of Pub. L. 93–145 provided that the upward revision of the table in subsec. (d)(1) and the amendment of subsec. (d)(2) of this section are effective July 1, 1973, but that the remaining amendments of subsec. (d)(1) by Pub. L. 93–145 \[designating the revised table as subpar. (A), adding provisions following the table in such redesignated subpar. (A), and adding subpar. (B)\] are effective Jan. 1, 1974.
+Pub. L. 93–145, Nov. 1, 1973, 87 Stat. 532, 533, provided in part that the upward revision of the table in subsec. (d)(1) and the amendment of subsec. (d)(2) of this section are effective July 1, 1973, but that the remaining amendments of subsec. (d)(1) by Pub. L. 93–145 \[designating the revised table as subpar. (A), adding provisions following the table in such redesignated subpar. (A), and adding subpar. (B)\] are effective Jan. 1, 1974.
 
 #### Effective Date of 1971 Amendment
 
-Section 401 of Pub. L. 92–184 provided that the amendment made by that section is effective Jan. 1, 1972.
+Pub. L. 92–184, ch. IV, Dec. 15, 1971, 85 Stat. 633, provided in part that the amendment made by ch. IV is effective Jan. 1, 1972.
 
 #### Effective Date of 1970 Amendment
 
@@ -660,7 +660,7 @@ Amendment by Pub. L. 91–510 effective Jan. 1, 1971, see section 601(6) of Pub.
 
 #### Effective Date of 1969 Amendment
 
-Section 101 of Pub. L. 91–145 provided that the amendment made by that section is effective Nov. 1, 1969.
+Pub. L. 91–145, Dec. 12, 1969, 83 Stat. 340, provided in part that the amendment made by Pub. L. 91–145 is effective Nov. 1, 1969.
 
 #### Effective Date of 1967 Amendment
 
@@ -668,7 +668,7 @@ Amendment by Pub. L. 90–206 effective at beginning of first pay period which b
 
 #### Effective Date
 
-Section 105(k) of Pub. L. 90–57 provided that: “This section \[enacting this section, amending section 60j of this title and section 5533 of Title 5, Government Organization and Employees, repealing sections 60f, 72a–1, 72a–1a, and 72a–4 of this title, and amending provisions set out as notes under section 60a–1 of this title\] shall be effective from and after August 1, 1967.”
+Pub. L. 90–57, §105(k), July 28, 1967, 81 Stat. 144, provided that: “This section \[enacting this section, amending section 60j of this title and section 5533 of Title 5, Government Organization and Employees, repealing sections 60f, 72a–1, 72a–1a, and 72a–4 of this title, and amending provisions set out as notes under section 60a–1 of this title\] shall be effective from and after August 1, 1967.”
 
 #### Transfer of Functions
 
@@ -708,9 +708,9 @@ Effective Date.—This section shall apply with respect to fiscal year 2004 and 
 
 #### 1975 Adjustments in Compensation in Maximum Annual Rates to Employees in Offices of Senators, Employees of Senators, Employees of Standing and Select Committees and Joint Committees the Expenses of Which are Paid From Senate Contingent Fund, and Officers or Employees Paid by Secretary of Senate
 
-Pub. L. 94–59, title I, §105, July 25, 1975, 89 Stat. 275, as amended by Pub. L. 94–157, title I, §111(a), Dec. 18, 1975, 89 Stat. 832, provided in part that, effective July 1, 1975: “The two committee employees referred to in clause (A), and the three committee employees referred to in clause (B), of section 105(e)(3) of the Legislative Branch Appropriations Act, 1968, as amended and modified \[subsec. (e)(3) of this section\], whose salaries are appropriated under the heading ‘Salaries, Officers and Employees’ for ‘Committee Employees’ for the Senate during any fiscal year, and the two employees referred to in such clause (A) who are employees of any joint committee having legislative authority, may each be paid at a maximum annual rate of compensation not to exceed $38,000, except that the Committee on Commerce is authorized to pay two employees, in addition to the two employees referred to in clause (A) of such section, at such maximum annual rate of compensation during the fiscal year ending June 30, 1976, and the transition period ending September 30, 1976. The two committee employees, other than joint committee employees, referred to in clause (A) of section 105(e)(3) of such Act \[subsec. (e)(3) of this section\] whose salaries are not appropriated under such heading may each bepaid at a maximum annual rate of compensation not to exceed $37,500, except, that the two employees of the majority policy committee and the two employees of the minority policy committee referred to in clause (A) of section 105(e)(3) of such Act \[subsec. (e)(3) of this section\] may each be paid at a maximum annual rate of compensation not to exceed $38,000. The one employee in a Senator's office referred to in section 105(d)(2)(ii) of such Act \[subsec. (d)(2)(ii) of this section\] may be paid at a maximum annual rate of compensation not to exceed $38,000. Any officer or employee whose pay is subject to the maximum limitation referred to in section 105(f) of such Act \[subsec. (f) of this section\] may be paid at a maximum annual rate of compensation not to exceed $38,000. This section does not supersede (1) any provision of an order of the President pro tempore of the Senate authorizing a higher rate of compensation, and (2) any authority of the President pro tempore to adjust rates of compensation or limitations referred to in this paragraph under section 4 of the Federal Pay Comparability Act of 1970 \[section 60a–1 of this title\].”
+Pub. L. 94–59, title I, §105, July 25, 1975, 89 Stat. 275, as amended by Pub. L. 94–157, title I, §111(a), Dec. 18,1975, 89 Stat. 832, provided in part that, effective July 1, 1975: “The two committee employees referred to in clause (A), and the three committee employees referred to in clause (B), of section 105(e)(3) of the Legislative Branch Appropriations Act, 1968, as amended and modified \[subsec. (e)(3) of this section\], whose salaries are appropriated under the heading ‘Salaries, Officers and Employees’ for ‘Committee Employees’ for the Senate during any fiscal year, and the two employees referred to in such clause (A) who are employees of any joint committee having legislative authority, may each be paid at a maximum annual rate of compensation not to exceed $38,000, except that the Committee on Commerce is authorized to pay two employees, in addition to the two employees referred to in clause (A) of such section, at such maximum annual rate of compensation during the fiscal year ending June 30, 1976, and the transition period ending September 30, 1976. The two committee employees, other than joint committee employees, referred to in clause (A) of section 105(e)(3) of such Act \[subsec. (e)(3) of this section\] whose salaries are not appropriated under such heading may each be paid at a maximum annual rate of compensation not to exceed $37,500, except, that the two employees of the majority policy committee and the two employees of the minority policy committee referred to in clause (A) of section 105(e)(3) of such Act \[subsec. (e)(3) of this section\] may each be paid at a maximum annual rate of compensation not to exceed $38,000. The one employee in a Senator's office referred to in section 105(d)(2)(ii) of such Act \[subsec. (d)(2)(ii) of this section\] may be paid at a maximum annual rate of compensation not to exceed $38,000. Any officer or employee whose pay is subject to the maximum limitation referred to in section 105(f) of such Act \[subsec. (f) of this section\] may be paid at a maximum annual rate of compensation not to exceed $38,000. This section does not supersede (1) any provision of an order of the President pro tempore of the Senate authorizing a higher rate of compensation, and (2) any authority of the President pro tempore to adjust rates of compensation or limitations referred to in this paragraph under section 4 of the Federal Pay Comparability Act of 1970 \[section 60a–1 of this title\].”
 
-Section 111(c) of Pub. L. 94–157 provided in part that amendment by section 111(a) of Pub. L. 94–157 inserting after “fiscal year” the words “, and the two employees referred to in such clause (A) who are employees of any joint committee having legislative authority,” shall become effective Jan. 1, 1976, and no increase in salary shall be payable for any period prior to such date by reason of the amendment.
+Pub. L. 94–157, title I, §111(c), Dec. 18, 1975, 89 Stat. 832, provided in part that amendment by section 111(a) of Pub. L. 94–157 inserting after “fiscal year” the words “, and the two employees referred to in such clause (A) who are employees of any joint committee having legislative authority,” shall become effective Jan. 1, 1976, and no increase in salary shall be payable for any period prior to such date by reason of the amendment.
 
 #### 1974 Adjustments in Compensation in Maximum Annual Rates to Employees in Offices of Senators, Professional Staff and Clerical Staff Members of Standing Committees, Employees of Standing and Select Committees and Joint Committees the Expenses of Which Are Paid From Senate Contingent Fund, and Officers or Employees Paid by Secretary of Senate
 
@@ -718,11 +718,11 @@ Pub. L. 93–371, §4, Aug. 13, 1974, 88 Stat. 429, as amended by Pub. L. 94–1
 
 For provisions that section 101(4) of Pub. L. 93–371 \[this note\] do not supersede (1) any provision of an order of the President pro tempore of the Senate authorizing a higher rate of compensation, and (2) any authority of the President pro tempore to adjust rates and compensation or limitations referred to in this note under section 4 of the Federal Pay Comparability Act of 1970 \[section 60a–1 of this title\] and that the provisions of this note are effective July 1, 1974, see note under section 61a of this title.
 
-Section 111(c) of Pub. L. 94–157 provided in part that amendment by section 111(b) of Pub. L. 94–157 inserting after “joint committee employees” the words “, who are not employees of a joint committee having legislative authority,” shall become effective Jan. 1, 1976, and no increase in salary shall be payable for any period prior to such date by reason of the amendment.
+Pub. L. 94–157, title I, §111(c), Dec. 18, 1975, 89 Stat. 832, provided in part that amendment by section 111(b) of Pub. L. 94–157 inserting after “joint committee employees” the words “, who are not employees of a joint committee having legislative authority,” shall become effective Jan. 1, 1976, and no increase in salary shall be payable for any period prior to such date by reason of the amendment.
 
 #### Aggregate of Gross Compensation for Employees in Office of Senator for Each Fiscal Year; Increase in Amount; Reduction in Amounts for Committee Chairmen, Ranking Minority Members, etc.
 
-Section 111(a), (b) of Pub. L. 95–94, as amended by Pub. L. 95–240, title II, §206, Mar. 7, 1978, 92 Stat. 117, eff. Oct. 1, 1977; Pub. L. 100–137, §3, Oct. 21, 1987, 101 Stat. 819; Pub. L. 102–392, title I, §1, Oct. 6, 1992, 106 Stat. 1706, eff. Oct. 1, 1992, provided that:
+Pub. L. 95–94, title I, §111(a), (b), Aug. 5, 1977, 91 Stat. 662, as amended by Pub. L. 95–240, title II, §206, Mar. 7, 1978, 92 Stat. 117, eff. Oct. 1, 1977; Pub. L. 100–137, §3, Oct. 21, 1987, 101 Stat. 819; Pub. L. 102–392, title I, §1, Oct. 6, 1992, 106 Stat. 1706, eff. Oct. 1, 1992, provided that:
 
 “(a) Except as provided in subsection (b), the aggregate of the gross compensation which may be paid to employees in the office of a Senator during each fiscal year under section 105(d) of the Legislative Branch Appropriation Act, 1968, as amended and modified (2 U.S.C. 61–1(d)), is increased by an amount equal to 3 times the maximum annual gross rate of compensation that may be paid to an employee of the office of a Senator.
 
@@ -732,7 +732,7 @@ Section 111(a), (b) of Pub. L. 95–94, as amended by Pub. L. 95–240, title II
 
 \[Prior increases in the amount of increase authorized by section 111(a) of Pub. L. 95–94, set out above, were contained in the following Salary Directives of President pro tempore of the Senate, formerly set out as notes under section 60a–1 of this title: Oct. 9, 1978, §6(d); Oct. 13, 1979, §6(d); Oct. 1, 1980, §6(d); Oct. 5, 1981, as amended Dec. 15, 1981, §6(d); Oct. 1, 1982, §6(d); Dec. 20, 1983, as amended May 2, 1984, §6(d); Jan. 4, 1985, §6(d); Dec. 19, 1986, §6(d); Jan. 4, 1988, §6(d); Dec. 9, 1988, §6(d); Dec. 21, 1989, §6(d); Dec. 20, 1990, §6(d); Dec. 18, 1991, §6(d); Dec. 17, 1992, §6(d); Dec. 28, 1994, §6(d); Dec. 18, 1996, §6(d); Dec. 19, 1997, §6(d); Dec. 16, 1998, §6(d); Dec. 12, 1999, §6(d); Dec. 20, 2000, §6(d); Dec. 20, 2001, §6(d); Dec. 19, 2002, §6(d); Dec. 15, 2003, §6(d); Mar. 5, 2004, §6(d); Jan. 3, 2005, §6(d); Jan. 4, 2006, §6(d); Feb. 16, 2007, §6(d); Jan. 7, 2008, §6(d); Mar. 12, 2009, §6(d).\]
 
-\[Section 3 of Pub. L. 100–137 provided that the repeal of section 111(b) of Pub. L. 95–94 is effective as of the first day of the 100th Congress \[Jan. 6, 1987\]\].
+\[Pub. L. 100–137, §3, Oct. 21, 1987, 101 Stat. 819, provided that the repeal of section 111(b) of Pub. L. 95–94 is effective as of the first day of the 100th Congress \[Jan. 6, 1987\]\].
 
 \[S.Res. 34, Jan. 6, 1987, provided: “That subsection (b) of section 111 of the Legislative Branch Appropriation Act, 1978 (P.L. 95–94) \[set out as a note above\] shall not be effective during the 100th Congress.” Similar provisions covering the 99th Congress were contained in S.Res. 85, §23, Feb. 28, 1985.\]
 
@@ -828,7 +828,7 @@ Section 7(b) of Salary Directive of President pro tempore of the Senate, Oct. 4,
 
 #### 1977 Addition of Employees in Office of Senator Not to Effect Section 6(c) of Order of President Pro Tempore Issued on October 8, 1976
 
-Section 111(d) of Pub. L. 95–94 provided in part that: “The amendments made by this subsection \[amending subsec. (d)(2) of this section\] shall have no effect on section 6(c) of the Order of the President pro tempore issued on October 8, 1976, under section 4 of the Federal Pay Comparability Act of 1970 \[set out as a note under section 60a–1 of this title\].”
+Pub. L. 95–94, title I, §111(d), Aug. 5, 1977, 91 Stat. 663, provided in part that: “The amendments made by this subsection \[amending subsec. (d)(2) of this section\] shall have no effect on section 6(c) of the Order of the President pro tempore issued on October 8, 1976, under section 4 of the Federal Pay Comparability Act of 1970 \[set out as a note under section 60a–1 of this title\].”
 
 #### Increase in Allowances for Administrative and Clerical Assistance to Senators—1987
 
@@ -844,7 +844,7 @@ Pub. L. 99–349, title I, §1, July 2, 1986, 100 Stat. 741, provided that:
 
 “(a) Effective October 1, 1985, the allowance for administrative and clerical assistance of each Senator from the State of Alabama is increased to that allowed Senators from States having a population of four million but less than five million, the population of said State having exceeded four million inhabitants.
 
-“(b) Effective October 1, 1985, the allowance for administrative and clerical assistance of each Senator from the State of Florida is increased to that allowed Senators from States having a population of eleven million but less than twelve million, the population ofsaid State having exceeded eleven million inhabitants.”
+“(b) Effective October 1, 1985, the allowance for administrative and clerical assistance of each Senator from the State of Florida is increased to that allowed Senators from States having a population of eleven million but less than twelve million, the population of said State having exceeded eleven million inhabitants.”
 
 #### Increase in Allowances for Administrative and Clerical Assistance to Senators—1985
 
@@ -852,7 +852,7 @@ Pub. L. 99–88, title I, §191, Aug. 15, 1985, 99 Stat. 348, provided that: “
 
 #### Increase in Allowances for Administrative and Clerical Assistance to Senators—1983
 
-Section 9 of Pub. L. 98–367 provided that: “Effective October 1, 1983, the allowance for administration and clerical assistance of each Senator from the State of Arizona is increased to that allowed to Senators from States having population of three million but less than four million, the population of such State having exceeded three million inhabitants.”
+Pub. L. 98–367, title I, §9, July 17, 1984, 98 Stat. 475, provided that: “Effective October 1, 1983, the allowance for administration and clerical assistance of each Senator from the State of Arizona is increased to that allowed to Senators from States having population of three million but less than four million, the population of such State having exceeded three million inhabitants.”
 
 #### Increase in Allowances for Administrative and Clerical Assistance to Senators—1982
 
@@ -876,7 +876,7 @@ Pub. L. 97–12, title I, §106, June 5, 1981, 95 Stat. 62, provided that:
 
 #### Increase in Allowances for Administrative and Clerical Assistance to Senators—1979
 
-Section 105 of Pub. L. 96–304 provided that: “Effective October 1, 1979, the allowance for administrative and clerical assistance of each Senator from the State of Louisiana is increased to that allowed Senators from States having a population of four million but less than five million, the population of said State having exceeded four million inhabitants.”
+Pub. L. 96–304, title I, §105, July 8, 1980, 94 Stat. 889, provided that: “Effective October 1, 1979, the allowance for administrative and clerical assistance of each Senator from the State of Louisiana is increased to that allowed Senators from States having a population of four million but less than five million, the population of said State having exceeded four million inhabitants.”
 
 Pub. L. 96–86, §111(a), (b), Oct. 12, 1979, 93 Stat. 660, 661, provided:
 
@@ -886,7 +886,7 @@ Pub. L. 96–86, §111(a), (b), Oct. 12, 1979, 93 Stat. 660, 661, provided:
 
 #### Increase in Allowances for Administrative and Clerical Assistance to Senators—1978
 
-Section 104(a) of Pub. L. 95–391 provided that: “Effective April 1, 1978, the clerk-hire allowance of each Senator from the State of Georgia is increased to that allowed Senators from States having a population of five million but less than seven million, the population of said State having exceeded five million inhabitants.”
+Pub. L. 95–391, title I, §104(a), Sept. 30, 1978, 92 Stat. 772, provided that: “Effective April 1, 1978, the clerk-hire allowance of each Senator from the State of Georgia is increased to that allowed Senators from States having a population of five million but less than seven million, the population of said State having exceeded five million inhabitants.”
 
 #### Increase in Allowances for Administrative and Clerical Assistants to Senators—1977
 
@@ -910,7 +910,7 @@ Pub. L. 91–145, Dec. 12, 1969, 83 Stat. 340, provided in part: “That the cle
 
 #### Increase in Allowances for Administrative and Clerical Assistance to Senators—1968
 
-Pub. L. 90–239, ch. IV, Jan. 2, 1968, 81 Stat. 774, provided in part that: “Effective January 1, 1968, the clerkhire allowance of each Senator from the State of Indiana shall be increased to that allowed Senators from States having a population of five million, the population of said State having exceeded five million inhabitants; and that the clerk hire allowance of each Senator from the State of New Jersey shall be increased to that allowed Senators from States having a population of seven million, the population of said State having exceeded seven million inhabitants.”
+Pub. L. 90–239, ch. IV, Jan. 2, 1968, 81 Stat. 774, provided in part that: “Effective January 1, 1968, the clerk hire allowance of each Senator from the State of Indiana shall be increased to that allowed Senators from States having a population of five million, the population of said State having exceeded five million inhabitants; and that the clerk hire allowance of each Senator from the State of New Jersey shall be increased to that allowed Senators from States having a population of seven million, the population of said State having exceeded seven million inhabitants.”
 
 #### Increase in Allowances for Administrative and Clerical Assistance to Senators—1966
 
@@ -962,7 +962,7 @@ Act Oct. 24, 1951, ch. 554, §2(c)(1), 65 Stat. 614, provided that: “The aggre
 
 #### 1966 Adjustment of Basic Compensation of Employees in Office of Senator
 
-Pub. L. 89–504, title III, §302(f), July 18, 1966, 80 Stat. 295, provided that: “The basic compensation of each employee in the office of a Senator is hereby adjusted, effective on the first day of the month following the date of enactment of this Act \[July 18, 1966\], to the lowest multiple of $60 which will provide a gross rate of compensation not less than the gross rate such employee was receiving immediately prior thereto, except that the foregoing provisions of this subsection shall not apply in the case of any employee if on or before the fifteenth day following the date of enactment of this Act \[July 18, 1966\], the Senator by whom such employee is employed notifies the disbursing office of the Senate in writing that he does not wish such provisions to apply to such employee. No employee whose basic compensation is adjusted under this subsection shall receive any additional compensation under subsection\(a) \[section 60e–13(a) of this title\] for any period prior to the effective date of such adjustment during which such employee was employed in the office of the Senator by whom he is employed on the first day of the month following the enactment of this Act \[July 18, 1966\]. No additional compensation shall be paid to any person under subsection (a) \[section 60e–13(a) of this title\] for any period prior to the first day of the month following the date of enactment of this Act \[July 18, 1966\] during which such person was employed in the office of a Senator (other than a Senator by whom he is employed on such day) unless on or before the fifteenth day following the date of enactment of this Act \[July 18, 1966\] such Senator notifies the disbursing office of the Senate in writing that he wishes such employee to receive such additional compensation for such period. In any case in which, at the expiration of the time within which a Senator may give notice under this subsection, such Senator is deceased, such notice shall be deemed to have been given.”
+Pub. L. 89–504, title III, §302(f), July 18, 1966, 80 Stat. 295, provided that: “The basic compensation of each employee in the office of a Senator is hereby adjusted, effective on the first day of the month following the date of enactment of this Act \[July 18, 1966\], to the lowest multiple of $60 which will provide a gross rate of compensation not less than the gross rate such employee was receiving immediately prior thereto, except that the foregoing provisions of this subsection shall not apply in the case of any employee if on or before the fifteenth day following the date of enactment of this Act \[July 18, 1966\], the Senator by whom such employee is employed notifies the disbursing office of the Senate in writing that he does not wish such provisions to apply to such employee. No employee whose basic compensation is adjusted under this subsection shall receive any additional compensation under subsection (a) \[section 60e–13(a) of this title\] for any period prior to the effective date of such adjustment during which such employee was employed in the office of the Senator by whom he is employed on the first day of the month following the enactment of this Act \[July 18, 1966\]. No additional compensation shall be paid to any person under subsection (a) \[section 60e–13(a) of this title\] for any period prior to the first day of the month following the date of enactment of this Act \[July 18, 1966\] during which such person was employed in the office of a Senator (other than a Senator by whom he is employed on such day) unless on or before the fifteenth day following the date of enactment of this Act \[July 18, 1966\] such Senator notifies the disbursing office of the Senate in writing that he wishes such employee to receive such additional compensation for such period. In any case in which, at the expiration of the time within which a Senator may give notice under this subsection, such Senator is deceased, such notice shall be deemed to have been given.”
 
 #### 1965 Adjustment of Basic Compensation of Employees in Office of Senator
 
@@ -1016,7 +1016,7 @@ This section deemed amended on and after July 1, 1969, see Salary Directives of 
 
 #### Rates of Pay for Employees of Senate Select Committee To Study Governmental Operations With Respect to Intelligence Activities
 
-Pub. L. 94–32, title I, §5, June 12, 1975, 89 Stat. 183, provided in part that: “Notwithstanding paragraph (3) of section 105(e) of the Legislative Branch Appropriations Act, 1968, as amended \[subsec. (e)(3) of this section\], two employees of the Senate Select Committee to Study Governmental Operations With Respect to Intelligence Activities may be paid at the highest gross rate provided in subparagraph (A) of such paragraph, and eleven employees of such committee may be paid at the next highest gross rate provided in such subparagraph.”
+Pub. L. 94–32, title I, §5, June 12, 1975, 89 Stat. 183, provided in part that: “Notwithstanding paragraph (3) of section 105(e) of the Legislative Branch Appropriations Act, 1968, as amended \[subsec. (e)(3) of this section\], two employees of the Senate Select Committee to Study Governmental Operations With Respect to Intelligence Activities may be paid at the highest grossrate provided in subparagraph (A) of such paragraph, and eleven employees of such committee may be paid at the next highest gross rate provided in such subparagraph.”
 
 #### Secretary of Senate To Fix Compensation of Legislative Clerk and Journal Clerk
 

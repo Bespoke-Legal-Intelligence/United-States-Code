@@ -102,7 +102,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;&emsp;(I) give notice of the election to participants and beneficiaries of the plan, and
 
-&emsp;&emsp;&emsp;&emsp;(II) inform the Pension Benefit Guaranty Corporation of such election insuch form and manner as the Director of the Pension Benefit Guaranty Corporation may prescribe.
+&emsp;&emsp;&emsp;&emsp;(II) inform the Pension Benefit Guaranty Corporation of such election in such form and manner as the Director of the Pension Benefit Guaranty Corporation may prescribe.
 
 #### (vii) Increases in required installments in certain cases
 
@@ -336,7 +336,7 @@ For purposes of this section:
 
 #### (iii) Elections for multiple plans
 
-&emsp;&emsp;&emsp;If a plan sponsor makes elections under paragraph (2)(D) with respect to 2 or more plans, the Secretary of the Treasury shall provide rules for the application of this paragraph to such plans, including rules for the ratable allocation of any installment acceleration amount among such plans on the basis of each plan's relativereduction in the plan's shortfall amortization installment for the first plan year in the amortization period described in subparagraph (A) (determined without regard to this paragraph).
+&emsp;&emsp;&emsp;If a plan sponsor makes elections under paragraph (2)(D) with respect to 2 or moreplans, the Secretary of the Treasury shall provide rules for the application of this paragraph to such plans, including rules for the ratable allocation of any installment acceleration amount among such plans on the basis of each plan's relative reduction in the plan's shortfall amortization installment for the first plan year in the amortization period described in subparagraph (A) (determined without regard to this paragraph).
 
 #### (iv) Mergers and acquisitions
 
@@ -424,7 +424,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraphs (B) and (C), in the case of any plan year in which the plan sponsor elects to credit against the minimum required contribution for the current plan year all or a portion of the prefunding balance or the funding standard carryover balance for the current plan year (not in excess of such minimum required contribution), the minimum required contribution for the plan year shall be reduced as of the first day of the plan year by the amount so credited by the plan sponsor. For purposes of the preceding sentence, the minimum required contribution shall be determined after taking into account any waiver under section 1082(c) of this title.
+&emsp;&emsp;Except as provided in subparagraphs (B) and (C), in the case of any plan year in which the plan sponsor elects to credit against the minimum required contribution for the current plan year all or a portion of the prefunding balance or the funding standardcarryover balance for the current plan year (not in excess of such minimum required contribution), the minimum required contribution for the plan year shall be reduced as of the first day of the plan year by the amount so credited by the plan sponsor. For purposes of the preceding sentence, the minimum required contribution shall be determined after taking into account any waiver under section 1082(c) of this title.
 
 #### (B) Coordination with funding standard carryover balance
 
@@ -568,7 +568,7 @@ For purposes of this section—
 
 #### (B) Exception for small plans
 
-&emsp;&emsp;If, on each day during the preceding plan year, a plan had 100 or fewer participants, the plan may designate any day during the plan year as its valuation date for such plan year and succeeding plan years. For purposes of this subparagraph, all defined benefit plans which are single-employer plans and are maintained by the same employer (or any member of such employer's controlled group) shall be treated as 1 plan, but only participants with respect to such employer or member shall be taken into account.
+&emsp;&emsp;If, on each day during the preceding plan year, a plan had 100 or fewer participants, the plan may designate any day during the plan year as its valuation date for such plan year and succeeding plan years. For purposes of this subparagraph, all defined benefit plans which are single-employer plans and are maintained by the same employer (orany member of such employer's controlled group) shall be treated as 1 plan, but only participants with respect to such employer or member shall be taken into account.
 
 #### (C) Application of certain rules in determination of plan size
 
@@ -576,7 +576,7 @@ For purposes of this section—
 
 #### (i) Plans not in existence in preceding year
 
-&emsp;&emsp;&emsp;In the case of the first plan year of any plan, subparagraph (B) shall apply to suchplan by taking into account the number of participants that the plan is reasonably expected to have on days during such first plan year.
+&emsp;&emsp;&emsp;In the case of the first plan year of any plan, subparagraph (B) shall apply to such plan by taking into account the number of participants that the plan is reasonably expected to have on days during such first plan year.
 
 #### (ii) Predecessors
 
@@ -660,11 +660,29 @@ For purposes of this section—
 
 #### (ii) Second segment rate
 
-&emsp;&emsp;&emsp;The term “second segment rate” means, with respect to any month, the single rateof interest which shall be determined by the Secretary of the Treasury for such month on the basis of the corporate bond yield curve for such month, taking into account only that portion of such yield curve which is based on bonds maturing during the 15-year period beginning at the end of the period described in clause (i).
+&emsp;&emsp;&emsp;The term “second segment rate” means, with respect to any month, the single rate of interest which shall be determined by the Secretary of the Treasury for such month on the basis of the corporate bond yield curve for such month, taking into account only that portion of such yield curve which is based on bonds maturing during the 15-year period beginning at the end of the period described in clause (i).
 
 #### (iii) Third segment rate
 
 &emsp;&emsp;&emsp;The term “third segment rate” means, with respect to any month, the single rate of interest which shall be determined by the Secretary of the Treasury for such month on the basis of the corporate bond yield curve for such month, taking into account only that portion of such yield curve which is based on bonds maturing during periods beginning after the period described in clause (ii).
+
+#### (iv) Segment rate stabilization
+
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;If a segment rate described in clause (i), (ii), or (iii) with respect to any applicable month (determined without regard to this clause) is less than the applicable minimum percentage, or more than the applicable maximum percentage, of the average of the segment rates described in such clause for years in the 25-year period ending with September 30 of the calendar year preceding the calendar year in which the plan year begins, then the segment rate described in such clause with respect to the applicable month shall be equal to the applicable minimum percentage or the applicable maximum percentage of such average, whichever is closest. The Secretary of the Treasury shall determine such average on an annual basis and may prescribe equivalent rates for years in any such 25-year period for which the rates described in any such clause are not available.
+
+#### (II) Applicable minimum percentage; applicable maximum percentage
+
+&emsp;&emsp;&emsp;&emsp;For purposes of subclause (I), the applicable minimum percentage and the applicable maximum percentage for a plan year beginning in a calendar year shall be determined in accordance with the following table:
+
+| If the calendar year is: | The applicable minimum percentage is: | The applicable maximum percentage is: |
+| :--- | :---: | ---: |
+| 2012 | 90% | 110% |
+| 2013 | 85% | 115% |
+| 2014 | 80% | 120% |
+| 2015 | 75% | 125% |
+| After 2015 | 70% | 130%.&nbsp;&nbsp; |
 
 #### (D) Corporate bond yield curve
 
@@ -684,7 +702,7 @@ For purposes of this section—
 
 #### (F) Publication requirements
 
-&emsp;&emsp;The Secretary of the Treasury shall publish for each month the corporate bond yield curve (and the corporate bond yield curve reflecting the modification described in section 1055(g)(3)(B)(iii)(I) of this title for such month) and each of the rates determined under subparagraph (C) for such month. The Secretary of the Treasury shall also publish a description of the methodology used to determine such yield curve and such rates which is sufficiently detailed to enable plans to make reasonable projections regarding the yield curve and such rates for future months based on the plan's projection of future interest rates.
+&emsp;&emsp;The Secretary of the Treasury shall publish for each month the corporate bond yield curve (and the corporate bond yield curve reflecting the modification described in section 1055(g)(3)(B)(iii)(I) of this title for such month) and each of the rates determined under subparagraph (C) and the averages determined under subparagraph (C)(iv) for such month. The Secretary of the Treasury shall also publish a description of the methodology used to determine such yield curve and such rates which is sufficiently detailed to enable plans to make reasonable projections regarding the yield curve and such rates for future months based on the plan's projection of future interest rates.
 
 #### (G) Transition rule
 
@@ -764,7 +782,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary of the Treasury shall establish mortality tables which may be used (in lieu of the tables under subparagraph (A)) under this subsection for individuals who are entitled to benefits under the plan on account of disability. The Secretary of the Treasury shall establish separate tables for individuals whose disabilities occur in plan years beginning before January 1, 1995, and for individuals whose disabilities occur in plan years beginning on or after such date.
+&emsp;&emsp;&emsp;The Secretary of the Treasury shall establish mortality tables which may beused (in lieu of the tables under subparagraph (A)) under this subsection for individuals who are entitled to benefits under the plan on account of disability. The Secretary of the Treasury shall establish separate tables for individuals whose disabilities occur in plan years beginning before January 1, 1995, and for individuals whose disabilities occur in plan years beginning on or after such date.
 
 #### (ii) Special rule for disabilities occurring after 1994
 
@@ -950,7 +968,7 @@ For purposes of this section—
 
 #### (6) Small plan exception
 
-&emsp;If, on each day during the preceding plan year, a plan had 500 or fewer participants, the plan shall not be treated as in at-risk status for the plan year. For purposes of this paragraph, all defined benefit plans (other than multiemployer plans) maintained by the same employer (or any member of such employer's controlled group) shall be treated as 1 plan, but only participants with respect to such employer or member shall be taken into account and the rules of subsection (g)(2)(C) shall apply.
+&emsp;If, on each day during the preceding plan year, a plan had 500 or fewer participants, the plan shall not be treated as in at-risk status for the plan year. For purposes of this paragraph, all defined benefit plans (other than multiemployer plans) maintained by the sameemployer (or any member of such employer's controlled group) shall be treated as 1 plan, but only participants with respect to such employer or member shall be taken into account and the rules of subsection (g)(2)(C) shall apply.
 
 #### (j) Payment of minimum required contributions
 
@@ -982,7 +1000,7 @@ For purposes of this section—
 
 #### (ii) Period of underpayment
 
-&emsp;&emsp;&emsp;The period for which any interest is charged under this paragraph with respectto any portion of the underpayment shall run from the due date for the installment to the date on which such portion is contributed to or under the plan.
+&emsp;&emsp;&emsp;The period for which any interest is charged under this paragraph with respect to any portion of the underpayment shall run from the due date for the installment to the date on which such portion is contributed to or under the plan.
 
 #### (iii) Order of crediting contributions
 
@@ -1050,7 +1068,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;A plan to which this paragraph applies shall be treated as failing to pay the full amount of any required installment under paragraph (3) to the extent that the value of the liquid assets paid in such installment is less than the liquidity shortfall (whether or not such liquidity shortfall exceeds the amount of such installment required to be paid but for this paragraph).
+&emsp;&emsp;A plan to which this paragraph applies shall be treated as failing to pay the fullamount of any required installment under paragraph (3) to the extent that the value of the liquid assets paid in such installment is less than the liquidity shortfall (whether or not such liquidity shortfall exceeds the amount of such installment required to be paid but for this paragraph).
 
 #### (B) Plans to which paragraph applies
 
@@ -1132,7 +1150,7 @@ For purposes of this section—
 
 #### (3) Amount of lien
 
-&emsp;For purposes of paragraph (1), the amount of the lien shall be equal to the aggregate unpaid balance of contribution payments required under this section and section 1082 of this title for which payment has not been made before the due date.
+&emsp;For purposes of paragraph (1), the amount of the lien shall be equal to the aggregate unpaid balance of contribution payments required under this section and section 1082 of this titlefor which payment has not been made before the due date.
 
 #### (4) Notice of failure; lien
 
@@ -1166,13 +1184,13 @@ For purposes of this section—
 
 #### (C) Controlled group
 
-&emsp;&emsp;The term “controlled group” means any group treated as a single employer under subsections (b), (c), (m), and (<i>o</i>) of section 414 of title 26.
+&emsp;&emsp;The term “controlled group” means any group treated as a single employer under subsections (b), (c), (m), and (o) of section 414 of title 26.
 
-#### (<i>l</i>) Qualified transfers to health benefit accounts
+#### (l) Qualified transfers to health benefit accounts
 
 In the case of a qualified transfer (as defined in section 420 of title 26), any assets so transferred shall not, for purposes of this section, be treated as assets in the plan.
 
-(Pub. L. 93–406, title I, §303, as added Pub. L. 109–280, title I, §102(a), Aug. 17, 2006, 120 Stat. 789; amended Pub. L. 110–458, title I, §§101(b)(1), 121(a), title II, §202(a), Dec. 23, 2008, 122 Stat. 5093, 5113, 5117; Pub. L. 111–192, title II, §§201(a), 204(a), June 25, 2010, 124 Stat. 1283, 1300.)
+(Pub. L. 93–406, title I, §303, as added Pub. L. 109–280, title I, §102(a), Aug. 17, 2006, 120 Stat. 789; amended Pub. L. 110–458, title I, §§101(b)(1), 121(a), title II, §202(a), Dec. 23, 2008, 122 Stat. 5093, 5113, 5117; Pub. L. 111–192, title II, §§201(a), 204(a), June 25, 2010, 124 Stat. 1283, 1300; Pub. L. 112–141, div. D, title II, §40211(b)(1), (3)(A), July 6, 2012, 126 Stat. 847, 849.)
 
 #### References in Text
 
@@ -1185,6 +1203,10 @@ The Social Security Act, referred to in subsec. (h)(3)(D)(ii), is act Aug. 14, 1
 A prior section 1083, Pub. L. 93–406, title I, §303, Sept. 2, 1974, 88 Stat. 872; Pub. L. 99–272, title XI, §§11015(b)(1)(A), 11016(c)(2), Apr. 7, 1986, 100 Stat. 267, 273; Pub. L. 100–203, title IX, §9306(a)(2), (b)(2), (c)(2)(A), (d)(2), Dec. 22, 1987, 101 Stat. 1330–353 to 1330–355; Pub. L. 101–239, title VII, §§7881(b)(6)(B)(ii), (7), (8), (c)(2), 7891(a)(1), Dec. 19, 1989, 103 Stat. 2438, 2439, 2445, related to variance from minimum funding standard, prior to repeal by Pub. L. 109–280, title I, §101(a), (d), Aug. 17, 2006, 120 Stat. 784, 789, applicable to plan years beginning after 2007.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (h)(2)(C)(iv). Pub. L. 112–141, §40211(b)(1), added cl. (iv).
+
+Subsec. (h)(2)(F). Pub. L. 112–141, §40211(b)(3)(A), inserted “and the averages determined under subparagraph (C)(iv)” after “subparagraph (C)”.
 
 <b>2010</b>—Subsec. (c)(1). Pub. L. 111–192, §201(a)(3)(A), substituted “any shortfall amortization base which has not been fully amortized under this subsection” for “the shortfall amortization bases for such plan year and each of the 6 preceding plan years”.
 
@@ -1226,6 +1248,10 @@ Subsec. (j)(3)(E). Pub. L. 110–458, §101(b)(1)(G)(ii), (iii), substituted “
 
 Subsec. (k)(6)(B). Pub. L. 110–458, §101(b)(1)(H), struck out “, except that in the case of a payment other than a required installment, the due date shall be the date such payment is required to be made under this section” after “subsection (j)”.
 
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 applicable with respect to plan years beginning after Dec. 31, 2011, except as otherwise provided, see section 40211(c) of Pub. L. 112–141, set out as a note under section 404 of Title 26, Internal Revenue Code.
+
 #### Effective Date of 2010 Amendment
 
 Amendment by section 201(a) of Pub. L. 111–192 applicable to plan years beginning after Dec. 31, 2007, see section 201(c) of Pub. L. 111–192, set out as a note under section 430 of Title 26, Internal Revenue Code.
@@ -1240,7 +1266,7 @@ Amendment by section 101(b)(1)(B)–(E), (F)(ii)–(H) of Pub. L. 110–458 effe
 
 Amendment by section 121(a) of Pub. L. 110–458 effective as if included in the provisions of Pub. L. 109–280 to which the amendment relates, see section 121(c) of Pub. L. 110–458, set out as a note under section 430 of Title 26, Internal Revenue Code.
 
-Amendment by section 202(a) of Pub. L. 110–458 applicable as if included in the enactment of this section,see section 202(c) of Pub. L. 110–458, set out as a note under section 430 of Title 26, Internal Revenue Code.
+Amendment by section 202(a) of Pub. L. 110–458 applicable as if included in the enactment of this section, see section 202(c) of Pub. L. 110–458, set out as a note under section 430 of Title 26, Internal Revenue Code.
 
 #### Effective Date
 

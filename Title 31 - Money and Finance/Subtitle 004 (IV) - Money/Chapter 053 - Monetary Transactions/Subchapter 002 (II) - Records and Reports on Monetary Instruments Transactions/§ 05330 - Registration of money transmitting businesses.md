@@ -108,7 +108,7 @@ Section 19(b)(1)(C) of the Federal Reserve Act, referred to in subsec. (b)(3), i
 
 #### Findings and Purposes
 
-Section 408(a) of Pub. L. 103–325 provided that:
+Pub. L. 103–325, title IV, §408(a), Sept. 23, 1994, 108 Stat. 2249, provided that:
 
 “(1)
 

@@ -20,7 +20,7 @@ A State shall use amounts received under a grant under section 18202 of this tit
 
 #### (4) Use of funds for assisting pregnant and parenting college students
 
-&emsp;An eligible institution of higher education that receives funding under this subsection shall use such funds to establish, maintain or operate pregnant and parenting student services and may use such funding for the following programs and activities:
+&emsp;An eligible institution of higher education that receives funding under this subsectionshall use such funds to establish, maintain or operate pregnant and parenting student services and may use such funding for the following programs and activities:
 
 &emsp;&emsp;(A) Conduct a needs assessment on campus and within the local community—
 
@@ -120,7 +120,7 @@ A State may use amounts received under a grant under section 18202 of this title
 
 &emsp;&emsp;(A) the identification of eligible pregnant women experiencing domestic violence, sexual violence, sexual assault, or stalking;
 
-&emsp;&emsp;(B) the assessment of the immediate and short-term safety of such a pregnant woman, the evaluation of the impact of the violence or stalking on the pregnant woman's health,and the assistance of the pregnant woman in developing a plan aimed at preventing further domestic violence, sexual violence, sexual assault, or stalking, as appropriate;
+&emsp;&emsp;(B) the assessment of the immediate and short-term safety of such a pregnant woman, the evaluation of the impact of the violence or stalking on the pregnant woman's health, and the assistance of the pregnant woman in developing a plan aimed at preventing further domestic violence, sexual violence, sexual assault, or stalking, as appropriate;
 
 &emsp;&emsp;(C) the maintenance of complete medical or forensic records that include the documentation of any examination, treatment given, and referrals made, recording the location and nature of the pregnant woman's injuries, and the establishment of mechanisms to ensure the privacy and confidentiality of those medical records; and
 

@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(iii) would be punishable under the laws of the United States by imprisonment for a term exceeding 1 year, if the act or activity constituting the offense had occurred within the jurisdiction of the United States.
 
-&emsp;(C) Any property, real or personal, which constitutes or is derived from proceeds traceable to a violation of section 215, 471, 472, 473, 474, 476, 477, 478, 479, 480, 481, 485, 486, 487, 488, 501, 502, 510, 542, 545, 656, 657, 842, 844, 1005, 1006, 1007, 1014, 1028, 1029, 1030, 1032, or 1344 of this title or any offense constituting “specified unlawful activity” (as defined in section 1956(c)(7) of this title), or a conspiracy to commit such offense.
+&emsp;(C) Any property, real or personal, which constitutes or is derived from proceeds traceable to a violation of section 215, 471, 472, 473, 474, 476, 477, 478, 479, 480, 481, 485, 486, 487, 488, 501, 502, 510, 542, 545, 656, 657, 670, 842, 844, 1005, 1006, 1007, 1014, 1028, 1029, 1030, 1032, or 1344 of this title or any offense constituting “specified unlawful activity” (as defined in section 1956(c)(7) of this title), or a conspiracy to commit such offense.
 
 &emsp;(D) Any property, real or personal, which represents or is traceable to the gross receipts obtained, directly or indirectly, from a violation of—
 
@@ -60,7 +60,7 @@
 
 &emsp;(A) In cases involving illegal goods, illegal services, unlawful activities, and telemarketing and health care fraud schemes, the term “proceeds” means property of any kind obtained directly or indirectly, as the result of the commission of the offense giving rise to forfeiture, and any property traceable thereto, and is not limited to the net gain or profit realized from the offense.
 
-&emsp;(B) In cases involving lawful goods or lawful services that are sold or provided in an illegal manner, the term “proceeds” means the amount of money acquired through the illegal transactions resulting in the forfeiture, less the direct costs incurred in providing the goods or services. The claimant shall have the burden of proof with respect to the issue of direct costs. The direct costs shall not include any part of the overhead expenses of the entity providing the goods or services, or any part of the income taxes paid by the entity.
+&emsp;(B) In cases involving lawful goods or lawful services that are sold or provided in an illegal manner, the term “proceeds” means theamount of money acquired through the illegal transactions resulting in the forfeiture, less the direct costs incurred in providing the goods or services. The claimant shall have the burden of proof with respect to the issue of direct costs. The direct costs shall not include any part of the overhead expenses of the entity providing the goods or services, or any part of the income taxes paid by the entity.
 
 &emsp;(C) In cases involving fraud in the process of obtaining a loan or extension of credit, the court shall allow the claimant a deduction from the forfeiture to the extent that the loan was repaid, or the debt was satisfied, without any financial loss to the victim.
 
@@ -92,7 +92,7 @@
 
 &emsp;(3) require that the General Services Administration take custody of the property and remove it, if practicable, to an appropriate location for disposition in accordance with law.
 
-(d) For purposes of this section, the provisions of the customs laws relating to the seizure, summary and judicial forfeiture, condemnation of property for violation of the customs laws, the disposition of such property or the proceeds from the sale of such property under this section, the remission or mitigation of such forfeitures, and the compromise of claims (19 U.S.C.1602 et seq.), insofar as they are applicable and not inconsistent with the provisions of this section, shall apply to seizures and forfeitures incurred, or alleged to have been incurred, under this section, except that such duties as are imposed upon the customs officer or any other person with respect to the seizure and forfeiture of property under the customs laws shall be performed with respect to seizures and forfeitures of property under this section by such officers, agents, or other persons as may be authorized or designated for that purpose by the Attorney General, the Secretary of the Treasury, or the Postal Service, as the case may be. The Attorney General shall have sole responsibility for disposing of petitions for remission or mitigation with respect to property involved in a judicial forfeiture proceeding.
+(d) For purposes of this section, the provisions of the customs laws relating to the seizure, summary and judicial forfeiture, condemnation of property for violation of the customs laws, the disposition of such property or the proceeds from the sale of such property under this section, the remission or mitigation of such forfeitures, and the compromise of claims (19 U.S.C. 1602 et seq.), insofar as they are applicable and not inconsistent with the provisions of this section, shall apply to seizures and forfeitures incurred, or alleged to have been incurred, under this section, except that such duties as are imposed upon the customs officer or any other person with respect to the seizure and forfeiture of property under the customs laws shall be performed with respect to seizures and forfeitures of property under this section by such officers, agents, or other persons as may be authorized or designated for that purpose by the Attorney General, the Secretary of the Treasury, or the Postal Service, as the case may be. The Attorney General shall have sole responsibility for disposing of petitions for remission or mitigation with respect to property involved in a judicial forfeiture proceeding.
 
 (e) Notwithstanding any other provision of the law, except section 3 of the Anti Drug Abuse Act of 1986, the Attorney General, the Secretary of the Treasury, or the Postal Service, as the case may be, is authorized to retain property forfeited pursuant to this section, or to transfer such property on such terms and conditions as he may determine—
 
@@ -128,7 +128,7 @@
 
 &emsp;(C) continuation of the forfeiture proceeding will burden the right of the claimant against self-incrimination in the related investigation or case.
 
-(3) With respect to the impact of civil discovery described in paragraphs (1) and (2), the court may determine that a stay is unnecessary if a protective order limiting discovery would protect the interest of one party without unfairly limiting the ability of the opposing party topursue the civil case. In no case, however, shall the court impose a protective order as an alternative to a stay if the effect of such protective order would be to allow one party to pursue discovery while the other party is substantially unable to do so.
+(3) With respect to the impact of civil discovery described in paragraphs (1) and (2), the court may determine that a stay is unnecessary if a protective order limiting discovery would protect the interest of one party without unfairly limiting the ability of the opposing party to pursue the civil case. In no case, however, shall the court impose a protective order as an alternative to a stay if the effect of such protective order would be to allow one party to pursue discovery while the other party is substantially unable to do so.
 
 (4) In this subsection, the terms “related criminal case” and “related criminal investigation” mean an actual prosecution or investigation in progress at the time at which the request for the stay, or any subsequent motion to lift the stay is made. In determining whether a criminal case or investigation is “related” to a civil forfeiture proceeding, the court shall consider the degree of similarity between the parties, witnesses, facts, and circumstances involved in the two proceedings, without requiring an identity with respect to any one or more factors.
 
@@ -174,7 +174,7 @@ In general.—
 
 &emsp;&emsp;(A)
 
-In general.—For the purpose of a forfeiture under this section or under the Controlled Substances Act (21 U.S.C. 801 et seq.), if funds are deposited into an account at a foreign financial institution (as defined in section 984(c)(2)(A) of this title), and that foreign financial institution (as defined insection 984(c)(2)(A) of this title) has an interbank account in the United States with a covered financial institution (as defined in section 5318(j)(1) of title 31), the funds shall be deemed to have been deposited into the interbank account in the United States, and any restraining order, seizure warrant, or arrest warrant in rem regarding the funds may be served on the covered financial institution, and funds in the interbank account, up to the value of the funds deposited into the account at the foreign financial institution (as defined in section 984(c)(2)(A) of this title), may be restrained, seized, or arrested.
+In general.—For the purpose of a forfeiture under this section or under the Controlled Substances Act (21 U.S.C. 801 et seq.), if funds are deposited into an account at a foreign financial institution (as defined in section 984(c)(2)(A) of this title), and that foreign financial institution (as defined in section 984(c)(2)(A) of this title) has an interbank account in the United States with a covered financial institution (as defined in section 5318(j)(1) of title 31), the funds shall be deemed to have been deposited into the interbank account in the United States, and any restraining order, seizure warrant, or arrest warrant in rem regarding the funds may be served on the covered financial institution, and funds in the interbank account, up to the value of the funds deposited into the account at the foreign financial institution (as defined in section 984(c)(2)(A) of this title), may be restrained, seized, or arrested.
 
 &emsp;&emsp;(B)
 
@@ -182,7 +182,7 @@ Authority to suspend.—The Attorney General, in consultation with the Secretary
 
 &emsp;(2)
 
-No requirement for government to trace funds.—If a forfeiture action is brought against funds that are restrained, seized, or arrested under paragraph (1), it shall not be necessary for the Government to establish that the funds are directly traceable to the funds that were deposited into the foreign financial institution (as defined in section 984(c)(2)(A) of this title), nor shall it be necessary for the Government to rely on the application of section 984.
+No requirement for government to trace funds.—If a forfeiture action is broughtagainst funds that are restrained, seized, or arrested under paragraph (1), it shall not be necessary for the Government to establish that the funds are directly traceable to the funds that were deposited into the foreign financial institution (as defined in section 984(c)(2)(A) of this title), nor shall it be necessary for the Government to rely on the application of section 984.
 
 &emsp;(3)
 
@@ -216,7 +216,7 @@ Exception.—The foreign financial institution (as defined in section 984(c)(2)(
 
 &emsp;&emsp;&emsp;&emsp;(II) the foreign financial institution (as defined in section 984(c)(2)(A) of this title) establishes, by a preponderance of the evidence, that prior to the restraint, seizure, or arrest of the funds, the foreign financial institution (as defined in section 984(c)(2)(A) of this title) had discharged all or part of its obligation to the prior owner of the funds, in which case the foreign financial institution (as defined in section 984(c)(2)(A) of this title) shall be deemed the owner of the funds to the extent of such discharged obligation.
 
-(Added Pub. L. 99–570, title I, §1366(a), Oct. 27, 1986, 100 Stat. 3207–35; amended Pub. L. 100–690, title VI, §§6463(a), (b), 6469(b), 6470(b), (e), (f), 6471(c), Nov. 18, 1988, 102 Stat. 4374, 4377, 4378; Pub. L. 101–73, title IX, §963(a), (b), Aug. 9, 1989, 103 Stat. 504; Pub. L. 101–647, title I, §103, title XXV, §§2508, 2524, 2525(a), title XXXV, §3531, Nov. 29, 1990, 104 Stat. 4791, 4862, 4873, 4874, 4924; Pub. L. 102–393, title VI, §638(d), Oct. 6, 1992, 106 Stat. 1788; Pub. L. 102–519, title I, §104(a), Oct. 25, 1992, 106 Stat. 3385; Pub. L. 102–550, title XV, §§1525(c)(1), 1533, Oct. 28, 1992, 106 Stat. 4065, 4066; Pub. L. 103–322, title XXXIII, §330011(s)(2), Sept. 13, 1994, 108 Stat. 2146; Pub. L. 103–447, title I, §102(b), Nov. 2, 1994, 108 Stat. 4693; Pub. L. 106–185, §§2(c)(1), 5(a), 6, 8(a), 20, Apr. 25, 2000, 114 Stat. 210, 213–215, 224; Pub. L. 107–56, title III, §§319(a), 320, 372(b)(1), 373(b), title VIII, §806, Oct. 26, 2001, 115 Stat. 311, 315, 339, 340, 378; Pub. L. 107–197, title III, §301(d), June 25, 2002, 116 Stat. 728; Pub. L. 107–273, div. B, title IV, §4002(a)(2), Nov. 2, 2002, 116 Stat. 1806; Pub. L. 109–177, title I, §§111, 120, title IV, §§404, 406(a)(3), Mar. 9, 2006, 120 Stat. 209, 221, 244; Pub. L. 111–203, title III, §377(3), July 21, 2010, 124 Stat. 1569.)
+(Added Pub. L. 99–570, title I, §1366(a), Oct. 27, 1986, 100 Stat. 3207–35; amended Pub. L. 100–690, title VI, §§6463(a), (b), 6469(b), 6470(b), (e), (f), 6471(c), Nov. 18, 1988, 102 Stat. 4374, 4377, 4378; Pub. L. 101–73, title IX, §963(a), (b), Aug. 9, 1989, 103 Stat. 504; Pub. L. 101–647, title I, §103, title XXV, §§2508, 2524, 2525(a), title XXXV, §3531, Nov. 29, 1990, 104 Stat. 4791, 4862, 4873, 4874, 4924; Pub. L. 102–393, title VI, §638(d), Oct. 6, 1992, 106 Stat. 1788; Pub. L. 102–519, title I, §104(a), Oct. 25, 1992, 106 Stat. 3385; Pub. L. 102–550, title XV, §§1525(c)(1), 1533, Oct. 28, 1992, 106 Stat. 4065, 4066; Pub. L. 103–322, title XXXIII, §330011(s)(2), Sept. 13, 1994, 108 Stat. 2146; Pub. L. 103–447, title I, §102(b), Nov. 2, 1994, 108 Stat. 4693; Pub. L. 106–185, §§2(c)(1), 5(a), 6, 8(a), 20, Apr. 25, 2000, 114 Stat. 210, 213–215, 224; Pub. L. 107–56, title III, §§319(a), 320, 372(b)(1), 373(b), title VIII, §806, Oct. 26, 2001, 115 Stat. 311, 315, 339, 340, 378; Pub. L. 107–197, title III, §301(d), June 25, 2002, 116 Stat. 728; Pub. L. 107–273, div. B, title IV, §4002(a)(2), Nov. 2, 2002, 116 Stat. 1806; Pub. L. 109–177, title I, §§111, 120, title IV, §§404, 406(a)(3), Mar. 9, 2006, 120 Stat. 209, 221, 244; Pub. L. 111–203, title III, §377(3), July 21, 2010, 124 Stat. 1569; Pub. L. 112–186, §3, Oct. 5, 2012, 126 Stat. 1428.)
 
 #### References in Text
 
@@ -236,13 +236,15 @@ Section 481(h) of the Foreign Assistance Act of 1961, referred to in subsec. (i)
 
 #### Amendments
 
+<b>2012</b>—Subsec. (a)(1)(C). Pub. L. 112–186 inserted “670,” after “657,”.
+
 <b>2010</b>—Subsec. (a)(1)(D). Pub. L. 111–203, in concluding provisions, struck out “Resolution Trust Corporation,” after “acquired or held by the” and “or the Office of Thrift Supervision” after “Office of the Comptroller of the Currency”.
 
 <b>2006</b>—Subsec. (a)(1)(B)(i). Pub. L. 109–177, §111, inserted “trafficking in nuclear, chemical, biological, or radiological weapons technology or material, or” after “involves”.
 
 Subsec. (a)(1)(G)(i). Pub. L. 109–177, §120(1), which directed amendment of cl. (i) by substituting “any Federal crime of terrorism (as defined in section 2332b(g)(5))” for “act of international or domestic terrorism (as defined in section 2331)”, was executed by making the substitution for “act of domestic or international terrorism (as defined in section 2331)”, to reflect the probable intent of Congress.
 
-Subsec. (a)(1)(G)(ii). Pub. L. 109–177, §120(2), which directed amendment of cl. (ii) by “striking ‘an act of international or domestic terrorism (as defined in section 2331)’ with ‘any Federal crime of terrorism (as defined in section 2332b(g)(5)’ ”, was executed by striking “an act of domestic or international terrorism (as defined in section 2331)” and inserting “any Federal crime of terrorism (as defined in section 2332b(g)(5)”, to reflect the probable intent of Congress.
+Subsec. (a)(1)(G)(ii). Pub. L. 109–177, §120(2), which directed amendment of cl. (ii) by “striking ‘an act ofinternational or domestic terrorism (as defined in section 2331)’ with ‘any Federal crime of terrorism (as defined in section 2332b(g)(5)’ ”, was executed by striking “an act of domestic or international terrorism (as defined in section 2331)” and inserting “any Federal crime of terrorism (as defined in section 2332b(g)(5)”, to reflect the probable intent of Congress.
 
 Subsec. (a)(i)(G)(iii). Pub. L. 109–177, §120(3), which directed amendment of cl. (iii) by substituting “Federal crime of terrorism (as defined in section 2332b(g)(5))” for “act of international or domestic terrorism (as defined in section 2331)”, was executed by making the substitution for “act of domestic or international terrorism (as defined in section 2331)”, to reflect the probable intent of Congress.
 
@@ -350,7 +352,7 @@ Subsec. (c). Pub. L. 100–690, §6469(b)(2), substituted “the Attorney Genera
 
 Subsec. (d). Pub. L. 100–690, §6469(b)(2), (3), substituted “the Attorney General, the Secretary of the Treasury, or the Postal Service” for “the Attorney General or the Secretary of the Treasury” and inserted provision that Attorney General have sole responsibility for disposing of petitions for remission or mitigation with respect to property involved in a judicial forfeiture proceeding.
 
-Subsec. (e). Pub. L. 100–690, §6469(b)(2), which directed the substitution of “the Attorney General, the Secretary of the Treasury, or the Postal Service” for “the Attorney General or the Secretary of the Treasury”was executed to reflect the probable intent of Congress by making the substitution in four places without regard as to whether or not the initial article “the” was capitalized.
+Subsec. (e). Pub. L. 100–690, §6469(b)(2), which directed the substitution of “the Attorney General, the Secretary of the Treasury, or the Postal Service” for “the Attorney General or the Secretary of the Treasury” was executed to reflect the probable intent of Congress by making the substitution in four places without regard as to whether or not the initial article “the” was capitalized.
 
 Pub. L. 100–690, §6469(b)(4), inserted provision that the authority granted to the Secretary of the Treasury and the Postal Service apply only to property that has been administratively forfeited.
 
@@ -368,7 +370,7 @@ Amendment by Pub. L. 106–185 applicable to any forfeiture proceeding commenced
 
 #### Effective Date of 1994 Amendment
 
-Section 330011(s)(2) of Pub. L. 103–322 provided that the amendment made by that section is effective as of the date on which section 2525(a)(2) of Pub. L. 101–647 took effect.
+Pub. L. 103–322, title XXXIII, §330011(s)(2), Sept. 13, 1994, 108 Stat. 2146, provided that the amendment madeby that section is effective as of the date on which section 2525(a)(2) of Pub. L. 101–647 took effect.
 
 #### Short Title of 2000 Amendment
 
@@ -376,15 +378,15 @@ Pub. L. 106–185, §1(a), Apr. 25, 2000, 114 Stat. 202, provided that: “This 
 
 #### Short Title of 1988 Amendment
 
-Section 6181 of Pub. L. 100–690 provided that: “This subtitle \[subtitle E (§§6181–6187) of title VI of Pub. L. 100–690, enacting sections 5325 and 5326 of Title 31, Money and Finance, amending sections 1956 and 1957 of this title, sections 1730d, 1829b, 1953, 1955, 3403, 3412, 3413, 3417, and 3420 of Title 12, Banks and Banking, and sections 5312, 5318, and 5321 of Title 31\] may be cited as the ‘Money Laundering Prosecution Improvements Act of 1988’.”
+Pub. L. 100–690, title VI, §6181, Nov. 18, 1988, 102 Stat. 4354, provided that: “This subtitle \[subtitle E (§§6181–6187) of title VI of Pub. L. 100–690, enacting sections 5325 and 5326 of Title 31, Money and Finance, amending sections 1956 and 1957 of this title, sections 1730d, 1829b, 1953, 1955, 3403, 3412, 3413, 3417, and 3420 of Title 12, Banks and Banking, and sections 5312, 5318, and 5321 of Title 31\] may be cited as the ‘Money Laundering Prosecution Improvements Act of 1988’.”
 
 #### Short Title of 1986 Amendment
 
-Section 1351 of Pub. L. 99–570 provided that: “This subtitle \[subtitle H (§§1351–1367) of title I of Pub. L. 99–570, enacting this section, sections 982, 1956, and 1957 of this title and section 5324 of Title 31, Money and Finance, amending sections 1952, 1961, and 2516 of this title, sections 1464, 1730, 1786, 1817, 1818, 3403, and 3413 of Title 12, Banks and Banking, and sections 5312, 5316 to 5318, 5321, and 5322 of Title 31, and enacting provisions set out as notes under this section, sections 1464 and 1730 of Title 12, and sections 5315 to 5317, 5321, and 5324 of Title 31\] may be cited as the ‘Money Laundering Control Act of 1986’.”
+Pub. L. 99–570, title I, §1351, Oct. 27, 1986, 100 Stat. 3207–18, provided that: “This subtitle \[subtitle H (§§1351–1367) of title I of Pub. L. 99–570, enacting this section, sections 982, 1956, and 1957 of this title and section 5324 of Title 31, Money and Finance, amending sections 1952, 1961, and 2516 of this title, sections 1464, 1730, 1786, 1817, 1818, 3403, and 3413 of Title 12, Banks and Banking, and sections 5312, 5316 to 5318, 5321, and 5322 of Title 31, and enacting provisions set out as notes under this section, sections 1464 and 1730 of Title 12, and sections 5315 to 5317, 5321, and 5324 of Title 31\] may be cited as the ‘Money Laundering Control Act of 1986’.”
 
 #### Severability
 
-Section 1367 of Pub. L. 99–570 provided that: “If any provision of this subtitle \[see Short Title of 1986 Amendment note above\] or any amendment made by this Act \[see Short Title of 1986 Amendment note set out under section 801 of Title 21, Food and Drugs\], or the application thereof to any person or circumstances is held invalid, the provisions of every other part, and their application, shall not be affected thereby.”
+Pub. L. 99–570, title I, §1367, Oct. 27, 1986, 100 Stat. 3207–39, provided that: “If any provision of this subtitle \[see Short Title of 1986 Amendment note above\] or any amendment made by this Act \[see Short Title of 1986 Amendment note set out under section 801 of Title 21, Food and Drugs\], or the application thereof to any person or circumstances is held invalid, the provisions of every other part, and their application, shall not be affected thereby.”
 
 <i><sup>1</sup></i><i> So in original.</i>
 
@@ -392,5 +394,5 @@ Section 1367 of Pub. L. 99–570 provided that: “If any provision of this subt
 
 <i><sup>3</sup></i><i> So in original. Probably should not be capitalized.</i>
 
-<i><sup>4</sup></i><i> See References in Text below.</i>
+<i><sup>4</sup></i><i> See References in Text note below.</i>
 

@@ -18,7 +18,7 @@
 
 (b) The Office of Personnel Management may authorize the head of an agency to pay a bonus under this section to an individual only if—
 
-&emsp;(1) the position to which such individual is appointed (as described in paragraph (2)(A)) or to which such individual moves or must relocate (as described in paragraph (2)(B)) is likely to be difficult to fill in the absence of such a bonus; and
+&emsp;(1) the position to which such individual is appointed (as described in paragraph (2)(A)) orto which such individual moves or must relocate (as described in paragraph (2)(B)) is likely to be difficult to fill in the absence of such a bonus; and
 
 &emsp;(2) the individual—
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Of funds of the Commodity Credit Corporation, the Secretary of Agriculture (acting through the Agricultural Marketing Service) shall use $22,000,000 for fiscal year 2008, to remain available until expended, to establish a national organic certification cost-share program to assist producers and handlers of agricultural products in obtaining certification under the national organic production program established under the Organic Foods Production Act of 1990 (7 U.S.C. 6501 et seq.).
+The Secretary of Agriculture (acting through the Agricultural Marketing Service) shall establish a national organic certification cost-share program to assist producers and handlers of agricultural products in obtaining certification under the national organic production program established under the Organic Foods Production Act of 1990 (7 U.S.C. 6501 et seq.).
 
 #### (b) Federal share
 
@@ -18,7 +18,17 @@ Of funds of the Commodity Credit Corporation, the Secretary of Agriculture (acti
 
 Not later than March 1 of each year, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the requests by, disbursements to, and expenditures for each State under the program during the current and previous fiscal year, including the number of producers and handlers served by the program in the previous fiscal year.
 
-(Pub. L. 107–171, title X, §10606, May 13, 2002, 116 Stat. 514; Pub. L. 110–234, title X, §10301, May 22, 2008, 122 Stat. 1346; Pub. L. 110–246, §4(a), title X, §10301, June 18, 2008, 122 Stat. 1664, 2108.)
+#### (d) Funding
+
+#### (1) Mandatory funding for fiscal years 2008 through 2012
+
+&emsp;Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section $22,000,000 for the period of fiscal years 2008 through 2012.
+
+#### (2) Fiscal year 2013
+
+&emsp;There is authorized to be appropriated to carry out this section $22,000,000 for fiscal year 2013, to remain available until expended.
+
+(Pub. L. 107–171, title X, §10606, May 13, 2002, 116 Stat. 514; Pub. L. 110–234, title X, §10301, May 22, 2008, 122 Stat. 1346; Pub. L. 110–246, §4(a), title X, §10301, June 18, 2008, 122 Stat. 1664, 2108; Pub. L. 112–240, title VII, §701(g)(3), Jan. 2, 2013, 126 Stat. 2366.)
 
 #### References in Text
 
@@ -32,11 +42,19 @@ Section was enacted as part of the Farm Security and Rural Investment Act of 200
 
 #### Amendments
 
+<b>2013</b>—Subsec. (a). Pub. L. 112–240, §701(g)(3)(A), substituted “The Secretary of Agriculture (acting through the Agricultural Marketing Service) shall” for “Of funds of the Commodity Credit Corporation, the Secretary of Agriculture (acting through the Agricultural Marketing Service) shall use $22,000,000 for fiscal year 2008, to remain available until expended, to”.
+
+Subsec. (d). Pub. L. 112–240, §701(g)(3)(B), added subsec. (d).
+
 <b>2008</b>—Subsec. (a). Pub. L. 110–246, §10301(1), substituted “$22,000,000 for fiscal year 2008” for “$5,000,000 for fiscal year 2002”.
 
 Subsec. (b)(2). Pub. L. 110–246, §10301(2), substituted “$750” for “$500”.
 
 Subsec. (c). Pub. L. 110–246, §10301(3), added subsec. (c).
+
+#### Effective Date of 2013 Amendment
+
+Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under section 8701 of this title.
 
 #### Effective Date of 2008 Amendment
 

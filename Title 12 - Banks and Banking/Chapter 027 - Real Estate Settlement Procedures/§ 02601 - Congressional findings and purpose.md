@@ -24,15 +24,15 @@ Reference to Administrator of Veterans’ Affairs deemed to refer to Secretary o
 
 #### Effective Date
 
-Section 20, formerly 19, of Pub. L. 93–533, as renumbered by Pub. L. 94–205, §10, Jan. 2, 1976, 89 Stat. 1159, provided that: “The provisions of this Act, and the amendments made thereby \[see Short Title note below\], shall become effective one hundred and eighty days after the date of the enactment of this Act \[Dec. 22, 1974\].”
+Pub. L. 93–533, §20, formerly §19, Dec. 22, 1974, 88 Stat. 1731, renumbered §20, Pub. L. 94–205, §10, Jan. 2, 1976, 89 Stat. 1159, provided that: “The provisions of this Act, and the amendments made thereby \[see Short Title note below\], shall become effective one hundred and eighty days after the date of the enactment of this Act \[Dec. 22, 1974\].”
 
 #### Short Title of 1976 Amendment
 
-Section 1 of Pub. L. 94–205, Jan. 2, 1976, 89 Stat. 1157, provided: “That this Act \[enacting section 2617 of this title, amending sections 2602, 2603, 2604, 2607, 2609 and 2616 of this title and section 1631 of Title 15, Commerce and Trade, repealing sections 2605 and 2606 of this title, enacting provisions set out as a note under section 2602 of this title and amending provisions set out as a note under this section\] may be cited as the ‘Real Estate Settlement Procedures Act Amendments of 1975’.”
+Pub. L. 94–205, §1, Jan. 2, 1976, 89 Stat. 1157, provided: “That this Act \[enacting section 2617 of this title, amending sections 2602, 2603, 2604, 2607, 2609 and 2616 of this title and section 1631 of Title 15, Commerce and Trade, repealing sections 2605 and 2606 of this title, enacting provisions set out as a note under section 2602 of this title and amending provisions set out as a note under this section\] may be cited as the ‘Real Estate Settlement Procedures Act Amendments of 1975’.”
 
 #### Short Title
 
-Section 1 of Pub. L. 93–533 provided that: “This Act \[enacting this chapter and sections 1730f and 1831b of this title and provisions set out as notes under this section and section 1730f of this title\] may be cited as the ‘Real Estate Settlement Procedures Act of 1974’.”
+Pub. L. 93–533, §1, Dec. 22, 1974, 88 Stat. 1724, provided that: “This Act \[enacting this chapter and sections 1730f and 1831b of this title and provisions set out as notes under this section and section 1730f of this title\] may be cited as the ‘Real Estate Settlement Procedures Act of 1974’.”
 
 #### Simplification and Unification of Disclosures Required Under RESPA and TILA for Mortgage Transactions
 

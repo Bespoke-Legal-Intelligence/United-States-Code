@@ -24,7 +24,7 @@ Changes were made in phraseology.
 
 <b>1980</b>—Subsec. (c). Pub. L. 96–417 added subsec. (c).
 
-<b>1978</b>—Pub. L. 95–486 designated existing provisions as subsec. (a), inserted proviso giving the district courtsoriginal jurisdiction of actions brought under sections 20(11) and 219 of the Interstate Commerce Act when the amounts in controversy for each receipt exceed $10,000, exclusive of interests and costs, and added subsec. (b).
+<b>1978</b>—Pub. L. 95–486 designated existing provisions as subsec. (a), inserted proviso giving the district courts original jurisdiction of actions brought under sections 20(11) and 219 of the Interstate Commerce Act when the amounts in controversy for each receipt exceed $10,000, exclusive of interests and costs, and added subsec. (b).
 
 #### Effective Date of 1995 Amendment
 

@@ -80,7 +80,7 @@ Neither the United States nor any of its agencies, officers, or employees shall 
 
 #### (f) Report on expenditures
 
-Each entity which receives assistance authorized under subsection (c) of this section shall submit an audited statement listing the expenditure of that assistance to the Committee on Appropriations and the Committee on Resources of the House of Representatives and the Committee on Appropriations and the Committee on Commerce, Science, and Transportation of the Senate, on the last day of fiscal years 2002, 2004, and 2006.
+Each entity which receives assistance authorized under subsection (c) of this section shall submit an audited statement listing the expenditure of that assistance to the Committee on Appropriations and the Committee on Resources of the House of Representatives and the Committee on Appropriations and the Committee onCommerce, Science, and Transportation of the Senate, on the last day of fiscal years 2002, 2004, and 2006.
 
 #### (g) Congressional intent
 

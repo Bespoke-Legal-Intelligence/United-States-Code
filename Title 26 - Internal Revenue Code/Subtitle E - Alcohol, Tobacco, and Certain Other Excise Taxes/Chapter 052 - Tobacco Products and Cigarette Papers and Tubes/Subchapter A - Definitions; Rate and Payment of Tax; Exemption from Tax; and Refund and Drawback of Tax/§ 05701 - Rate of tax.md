@@ -58,7 +58,7 @@ On roll-your-own tobacco, manufactured in or imported into the United States, th
 
 The taxes imposed by this section on tobacco products and cigarette papers and tubes imported into the United States shall be in addition to any import duties imposed on such articles, unless such import duties are imposed in lieu of internal revenue tax.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 705; Mar. 30, 1955, ch. 18, §3(a)(9), 69 Stat. 14; Mar. 29, 1956, ch. 115, §3(a)(9), 70 Stat. 66; Pub. L. 85–12, §3(a)(7), Mar. 29, 1957, 71 Stat. 9; Pub. L. 85–475, §3(a)(7), June 30, 1958, 72 Stat. 259; Pub. L. 85–859, title II, §202, Sept. 2, 1958, 72 Stat. 1414; Pub. L. 86–75, §3(a)(7), June 30, 1959, 73 Stat. 157; Pub. L. 86–564, title II, §202(a)(9), June 30, 1960, 74 Stat. 290; Pub. L. 86–779, §1, Sept. 14, 1960, 74 Stat. 998; Pub. L. 87–72, §3(a)(9), June 30, 1961, 75 Stat. 193; Pub. L. 87–508, §3(a)(8), June 28, 1962, 76 Stat. 114; Pub. L. 88–52, §3(a)(9), June 29, 1963, 77 Stat. 72; Pub. L. 88–348, §2(a)(9), June 30, 1964, 78 Stat. 237; Pub. L. 89–44, title V, §§501(f), 502(a), June 21, 1965, 79 Stat. 150; Pub. L. 90–240, §4(a), Jan. 2, 1968, 81 Stat. 776; Pub. L. 94–455, title XIX, §1905(a)(24), title XXI, §2128(a), Oct. 4, 1976, 90 Stat. 1821, 1921; Pub. L. 97–248, title II, §283(a), Sept. 3, 1982, 96 Stat. 568; Pub. L. 99–272, title XIII, §13202(a), Apr. 7, 1986, 100 Stat. 311; Pub. L. 100–647, title V, §5061(a), Nov. 10, 1988, 102 Stat. 3679; Pub. L. 101–508, title XI, §11202(a)–(f), Nov. 5, 1990, 104 Stat. 1388–419; Pub. L. 105–33, title IX, §9302(a)–(g)(1), (h)(3), Aug. 5, 1997, 111 Stat. 671, 672, 674; Pub. L. 111–3, title VII, §701(a)–(g), Feb. 4, 2009, 123 Stat. 106, 107.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 705; Mar. 30, 1955, ch. 18, §3(a)(9), 69 Stat. 14; Mar. 29, 1956, ch. 115, §3(a)(9), 70 Stat. 66; Pub. L. 85–12, §3(a)(7), Mar. 29, 1957, 71 Stat. 9; Pub. L. 85–475, §3(a)(7), June 30, 1958, 72 Stat. 259; Pub. L. 85–859, title II, §202, Sept. 2, 1958, 72 Stat. 1414; Pub. L. 86–75, §3(a)(7), June 30, 1959, 73 Stat. 157; Pub. L. 86–564, title II, §202(a)(9), June 30, 1960, 74 Stat. 290; Pub. L. 86–779, §1, Sept. 14, 1960, 74 Stat. 998; Pub. L. 87–72, §3(a)(9), June 30, 1961, 75 Stat. 193; Pub. L. 87–508, §3(a)(8), June 28, 1962, 76 Stat. 114; Pub. L. 88–52, §3(a)(9), June 29, 1963, 77 Stat. 72; Pub. L. 88–348, §2(a)(9), June 30, 1964, 78 Stat. 237; Pub. L. 89–44, title V, §§501(f), 502(a), June 21, 1965, 79 Stat. 150; Pub. L. 90–240, §4(a), Jan. 2, 1968, 81 Stat. 776; Pub. L. 94–455, title XIX, §1905(a)(24), title XXI, §2128(a), Oct. 4, 1976, 90 Stat. 1821, 1921; Pub. L. 97–248, title II, §283(a), Sept. 3, 1982, 96 Stat. 568; Pub. L. 99–272, title XIII, §13202(a), Apr. 7, 1986, 100 Stat. 311; Pub. L. 100–647, title V, §5061(a), Nov. 10, 1988, 102 Stat. 3679; Pub. L.101–508, title XI, §11202(a)–(f), Nov. 5, 1990, 104 Stat. 1388–419; Pub. L. 105–33, title IX, §9302(a)–(g)(1), (h)(3), Aug. 5, 1997, 111 Stat. 671, 672, 674; Pub. L. 111–3, title VII, §701(a)–(g), Feb. 4, 2009, 123 Stat. 106, 107.)
 
 #### Amendments
 
@@ -138,7 +138,7 @@ Subsec. (b)(2). Pub. L. 97–248, §283(a)(2), substituted “$16.80” for “$
 
 Subsec. (e). Pub. L. 94–455, §1905(a)(24), inserted “, unless such import duties are imposed in lieu of internal revenue tax” after “such articles”.
 
-<b>1968</b>—Subsec. (a). Pub. L. 90–240 provided that the amount of State and local tax excluded from the retail price be the actual tax imposed, except that, if the combined taxes result in a numerical figure ending in a fraction of a cent, the amount so excluded be rounded to the next highest full cent unless such rounding would result in a tax lower than the tax which would be imposed in the absence of State and local taxes.
+<b>1968</b>—Subsec. (a). Pub. L. 90–240 provided that the amount of State and local tax excluded from the retail price be the actual tax imposed, except that, if the combined taxes result in a numerical figure ending in a fraction of a cent, the amount so excluded be roundedto the next highest full cent unless such rounding would result in a tax lower than the tax which would be imposed in the absence of State and local taxes.
 
 <b>1965</b>—Pub. L. 89–44, §502(a), struck out subsec. (a) relating to tobacco and redesignated subsecs. (b) to (f) as subsecs. (a) to (e), respectively.
 
@@ -180,7 +180,7 @@ Pub. L. 111–3, title VII, §701(i), Feb. 4, 2009, 123 Stat. 108, provided that
 
 #### Effective Date of 1997 Amendment
 
-Section 9302(i) of Pub. L. 105–33 provided that:
+Pub. L. 105–33, title IX, §9302(i), Aug. 5, 1997, 111 Stat. 674, provided that:
 
 “(1)
 
@@ -198,11 +198,11 @@ Transitional rule.—Any person who—
 
 #### Effective Date of 1990 Amendment
 
-Section 11202(h) of Pub. L. 101–508 provided that: “The amendments made by this section \[amending this section and section 5702 of this title\] shall apply with respect to articles removed after December 31, 1990.”
+Pub. L. 101–508, title XI, §11202(h), Nov. 5, 1990, 104 Stat. 1388–420, provided that: “The amendments made by this section \[amending this section and section 5702 of this title\] shall apply with respect to articles removed after December 31, 1990.”
 
 #### Effective Date of 1988 Amendment
 
-Section 5061(d) of Pub. L. 100–647 provided that:
+Pub. L. 100–647, title V, §5061(d), Nov. 10, 1988, 102 Stat. 3680, provided that:
 
 “(1)
 
@@ -220,7 +220,7 @@ Transitional rule.—Any person who—
 
 #### Effective Date of 1986 Amendment
 
-Section 13202(c) of Pub. L. 99–272, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 99–272, title XIII, §13202(c), Apr. 7, 1986, 100 Stat. 312, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 
@@ -238,27 +238,27 @@ Transitional rule.—Any person who—
 
 #### Effective Date of 1982 Amendment
 
-Section 283(c) of Pub. L. 97–248, as amended by Pub. L. 99–107, §2, Sept. 30, 1985, 99 Stat. 479; Pub. L. 99–155, §2(a), Nov. 14, 1985, 99 Stat. 814; Pub. L. 99–181, §1, Dec. 13, 1985, 99 Stat. 1172; Pub. L. 99–189, §1, Dec. 18, 1985, 99 Stat. 1184; Pub. L. 99–201, §1, Dec. 23, 1985, 99 Stat. 1665; Pub. L. 99–272, title XIII, §13201(a), Apr. 7, 1986, 100 Stat. 311, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to cigarettes removed after December 31, 1982.”
+Pub. L. 97–248, title II, §283(c), Sept. 3, 1982, 96 Stat. 569, as amended by Pub. L. 99–107, §2, Sept. 30, 1985, 99 Stat. 479; Pub. L. 99–155, §2(a), Nov. 14, 1985, 99 Stat. 814; Pub. L. 99–181, §1, Dec. 13, 1985, 99 Stat. 1172; Pub. L. 99–189, §1, Dec. 18, 1985, 99 Stat. 1184; Pub. L. 99–201, §1, Dec. 23, 1985, 99 Stat. 1665; Pub. L. 99–272, title XIII, §13201(a), Apr. 7, 1986, 100 Stat. 311, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to cigarettes removed after December 31, 1982.”
 
-\[Pub. L. 99–272, title XIII, §13201(b), Apr. 7, 1986, 100 Stat. 311, provided that: “For purposes of all Federal and State laws, the amendment made by subsection (a) \[amending section 283(c) of Pub. L. 97–248, set out above\] shall be treated as having taken effect on March 14, 1986.”\]
+\[Pub. L. 99–272, title XIII, §13201(b), Apr. 7, 1986, 100 Stat. 311, provided that: “For purposes of all Federal and State laws, the amendment made by subsection (a)\[amending section 283(c) of Pub. L. 97–248, set out above\] shall be treated as having taken effect on March 14, 1986.”\]
 
 #### Effective Date of 1976 Amendment
 
 Amendment by section 1905(a)(24) of Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1905(d) of Pub. L. 94–455, set out as a note under section 5005 of this title.
 
-Section 2128(e) of Pub. L. 94–455 provided that: “The amendments made by this section \[amending this section and sections 5702 and 5741 of this title\] shall take effect on the first month which begins more than 90 days after the date of the enactment of this Act \[Oct. 4, 1976\].”
+Pub. L. 94–455, title XXI, §2128(e), Oct. 4, 1976, 90 Stat. 1921, provided that: “The amendments made by this section \[amending this section and sections 5702 and 5741 of this title\] shall take effect on the first month which begins more than 90 days after the date of the enactment of this Act \[Oct. 4, 1976\].”
 
 #### Effective Date of 1968 Amendment
 
-Section 4(b) of Pub. L. 90–240 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to the removal of cigars on or after the first day of the first calendar quarter which begins more than 30 days after the date of the enactment of this Act \[Jan. 2, 1968\].”
+Pub. L. 90–240, §4(b), Jan. 2, 1968, 81 Stat. 776, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to the removal of cigars on or after the first day of the first calendar quarter which begins more than 30 days after the date of the enactment of this Act \[Jan. 2, 1968\].”
 
 #### Effective Date of 1965 Amendment
 
-Section 701(d) of Pub. L. 89–44 provided that: “The amendments made by section 501 \[repealing sections 5063 and 5707 of this title and provisions formerly set out below and amending this section and sections 5001, 5022, 5041, and 5051 of this title\] shall apply on and after July 1, 1965. The amendments made by section 502 \[striking out subchapter D of chapter 52 of this title and redesignating subchapters E, F, and G as subchapters D, E, and F respectively, and amending this section and sections 5702, 5704, 5711, 5741, 5753, 5762, and 5763 of this title\] shall apply on and after January 1, 1966.”
+Pub. L. 89–44, title VII, §701(d), June 21, 1965, 79 Stat. 157, provided that: “The amendments made by section 501 \[repealing sections 5063 and 5707 of this title and provisions formerly set out below and amending this section and sections 5001, 5022, 5041, and 5051 of this title\] shall apply on and after July 1, 1965. The amendments made by section 502 \[striking out subchapter D of chapter 52 of this title and redesignating subchapters E, F, and G as subchapters D, E, and F respectively, and amending this section and sections 5702, 5704, 5711, 5741, 5753, 5762, and 5763 of this title\] shall apply on and after January 1, 1966.”
 
 #### Effective Date of 1960 Amendment
 
-Section 2 of Pub. L. 86–779 provided that: “The amendment made by the first section of this Act \[amending this section\] shall apply with respect to cigars removed on or after the ninth day of the first month which begins after the date of the enactment of this Act \[Sept. 14, 1960\].”
+Pub. L. 86–779, §2, Sept. 14, 1960, 74 Stat. 998, provided that: “The amendment made by the first section of this Act \[amending this section\] shall apply with respect to cigars removed on or after the ninth day of the first month which begins after the date of the enactment of this Act \[Sept. 14, 1960\].”
 
 #### Effective Date of 1958 Amendment
 
@@ -266,7 +266,7 @@ Amendment by Pub. L. 85–859 effective Sept. 3, 1958, see section 210(a)(1) of 
 
 #### Coordination With Tobacco Industry Settlement Agreement
 
-Section 9302(k) of Pub. L. 105–33, as added by Pub. L. 105–34, title XVI, §1604(f)(3), Aug. 5, 1997, 111 Stat. 1099, which provided that the increase in excise taxes collected as a result of the amendments made by subsections (a), (e), and (g) of section 9302 of Pub. L. 105–33 (amending this section and section 5702 of this title) were to be credited against the total payments made by parties pursuant to Federal legislation implementing the tobacco industry settlement agreement of June 20, 1997, was repealed by Pub. L. 105–78, title V, §519, Nov. 13, 1997, 111 Stat. 1519.
+Pub. L. 105–33, title IX, §9302(k), as added by Pub. L. 105–34, title XVI, §1604(f)(3), Aug. 5, 1997, 111 Stat. 1099, which provided that the increase in excise taxes collected as a result of the amendments made by subsections (a), (e), and (g) of section 9302 of Pub. L. 105–33 (amending this section and section 5702 of this title) were to be credited against the total payments made by parties pursuant to Federal legislation implementing the tobacco industry settlement agreement of June 20, 1997, was repealed by Pub. L. 105–78, title V, §519, Nov. 13, 1997, 111 Stat. 1519.
 
 #### Floor Stocks Taxes
 
@@ -328,7 +328,7 @@ Controlled groups.—Rules similar to the rules of section 5061(e)(3) of such Co
 
 Other laws applicable.—All provisions of law, including penalties, applicable with respect to the taxes imposed by section 5701 of such Code shall, insofar as applicable and not inconsistent with the provisions of this subsection, apply to the floor stocks taxes imposed by paragraph (1), to the same extent as if such taxes were imposed by such section 5701. The Secretary may treat any person who bore the ultimate burden of the tax imposed by paragraph (1) as the person to whom a credit or refund under such provisions may be allowed or made.”
 
-Section 9302(j) of Pub. L. 105–33, as amended by Pub. L. 106–554, §1(a)(7) \[title III, §315(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–643, provided that:
+Pub. L. 105–33, title IX, §9302(j), Aug. 5, 1997, 111 Stat. 675, as amended by Pub. L. 106–554, §1(a)(7) \[title III, §315(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–643, provided that:
 
 “(1)
 
@@ -344,7 +344,7 @@ Authority to exempt cigarettes held in vending machines.—To the extent provide
 
 “(3)
 
-Credit against tax.—Each person shall be allowed as a credit against the taxes imposed by paragraph (1) an amount equal to $500. Such credit shall not exceed the amount of taxes imposed by paragraph (1) on any tax increase date, for which such person is liable.
+Credit against tax.—Each person shall be allowed as a credit against the taxes imposed by paragraph (1) an amount equal to $500. Such credit shall notexceed the amount of taxes imposed by paragraph (1) on any tax increase date, for which such person is liable.
 
 “(4)
 
@@ -394,7 +394,7 @@ Controlled groups.—Rules similar to the rules of section 5061(e)(3) of such Co
 
 Other laws applicable.—All provisions of law, including penalties, applicable with respect to the taxes imposed by section 5701 of such Code shall, insofar as applicable and not inconsistent with the provisions of this subsection, apply to the floor stocks taxes imposed by paragraph (1), to the same extent as if such taxes were imposed by such section 5701. The Secretary may treat any person who bore the ultimate burden of the tax imposed by paragraph (1) as the person to whom a credit or refund under such provisions may be allowed or made.”
 
-Section 11202(i) of Pub. L. 101–508 provided that:
+Pub. L. 101–508, title XI, §11202(i), Nov. 5, 1990, 104 Stat. 1388–420, provided that:
 
 “(1)
 
@@ -470,7 +470,7 @@ Controlled groups.—Rules similar to the rules of section 11201(e)(6) \[Pub. L.
 
 Other laws applicable.—All provisions of law, including penalties, applicable with respect to the taxes imposed by section 5701 of such Code shall, insofar as applicable and not inconsistent with the provisions of this subsection, apply to the floor stocks taxes imposed by paragraph (1), to the same extent as if such taxes were imposed by such section 5701.”
 
-Section 5061(e) of Pub. L. 100–647 provided that:
+Pub. L. 100–647, title V, §5061(e), Nov. 10, 1988, 102 Stat. 3680, provided that:
 
 “(1)
 
@@ -500,13 +500,13 @@ Treatment of pipe tobacco in foreign trade zones.—Notwithstanding the Act of J
 
 “(3)
 
-Pipe tobacco.—For purposes of this subsection, the term ‘pipe tobacco’ shall have the meaning given to such term by subsection (<i>o</i>) \[now subsection (n)\] of section 5702 of the 1986 Code.
+Pipe tobacco.—For purposes of this subsection, the term ‘pipe tobacco’ shall have the meaning given to such term by subsection (o) \[now subsection (n)\] of section 5702 of the 1986 Code.
 
 “(4)
 
 Exception where liability does not exceed $1,000.—No tax shall be imposed by paragraph (1) on any person if the tax which would but for this paragraph be imposed on such person does not exceed $1,000. For purposes of the preceding sentence, all persons who are treated as a single taxpayer under section 5061(e)(3) of the 1986 Code shall be treated as 1 person.”
 
-Section 283(b) of Pub. L. 97–248, as amended by Pub. L. 97–448, title III, §306(a)(14), Jan. 12, 1983, 96 Stat. 2405; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 97–248, title II, §283(b), Sept. 3, 1982, 96 Stat. 568, as amended by Pub. L. 97–448, title III, §306(a)(14), Jan. 12, 1983, 96 Stat. 2405; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 

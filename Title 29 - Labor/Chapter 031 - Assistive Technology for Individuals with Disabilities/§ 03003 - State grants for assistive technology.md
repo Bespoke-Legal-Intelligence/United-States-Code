@@ -32,7 +32,7 @@ The Secretary shall award grants under subsection (b) to States to maintain comp
 
 &emsp;&emsp;&emsp;(i) make the allotments described in subparagraph (A);
 
-&emsp;&emsp;&emsp;(ii) from a portion of the remainder of the funds after the Secretary makes theallotments described in clause (i), the Secretary shall—
+&emsp;&emsp;&emsp;(ii) from a portion of the remainder of the funds after the Secretary makes the allotments described in clause (i), the Secretary shall—
 
 &emsp;&emsp;&emsp;&emsp;(I) from 50 percent of the portion, allot to each State or outlying area an equal amount; and
 
@@ -72,7 +72,7 @@ The Secretary shall award grants under subsection (b) to States to maintain comp
 
 &emsp;&emsp;&emsp;The duties of the lead agency shall include—
 
-&emsp;&emsp;&emsp;&emsp;(I) preparing the application described in subsection (d) and carrying out State activities described in that application, including making programmatic and resource allocation decisions necessary to implement the comprehensive statewide program of technology-related assistance;
+&emsp;&emsp;&emsp;&emsp;(I) preparing the application described in subsection (d) and carrying out State activities described in that application,including making programmatic and resource allocation decisions necessary to implement the comprehensive statewide program of technology-related assistance;
 
 &emsp;&emsp;&emsp;&emsp;(II) coordinating the activities of the comprehensive statewide program of technology-related assistance among public and private entities, including coordinating efforts related to entering into interagency agreements, and maintaining and evaluating the program; and
 
@@ -106,7 +106,7 @@ The Secretary shall award grants under subsection (b) to States to maintain comp
 
 &emsp;&emsp;&emsp;&emsp;(I) individuals with disabilities that use assistive technology or the family members or guardians of the individuals;
 
-&emsp;&emsp;&emsp;&emsp;(II) a representative of the designated State agency, as defined in section 7 ofthe Rehabilitation Act of 1973 (29 U.S.C. 705) and the State agency for individuals who are blind (within the meaning of section 101 of that Act (29 U.S.C. 721)), if such agency is separate;
+&emsp;&emsp;&emsp;&emsp;(II) a representative of the designated State agency, as defined in section 7 of the Rehabilitation Act of 1973 (29 U.S.C. 705) and the State agency for individuals who are blind (within the meaning of section 101 of that Act (29 U.S.C. 721)), if such agency is separate;
 
 &emsp;&emsp;&emsp;&emsp;(III) a representative of a State center for independent living described in part C of title VII of the Rehabilitation Act of 1973 (29 U.S.C. 796f et seq.);
 
@@ -294,7 +294,7 @@ The Secretary shall award grants under subsection (b) to States to maintain comp
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) skills-development training in assessing the need for assistive technology devices and assistive technology services;
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(cc) training to ensure the appropriate application and use of assistive technology devices, assistive technology services, and accessible technology for e-government functions;
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) training to ensure the appropriate application and use of assistivetechnology devices, assistive technology services, and accessible technology for e-government functions;
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(dd) training in the importance of multiple approaches to assessment and implementation necessary to meet the individualized needs of individuals with disabilities; and
 
@@ -322,7 +322,7 @@ The Secretary shall award grants under subsection (b) to States to maintain comp
 
 #### (II) Collaboration
 
-&emsp;&emsp;&emsp;&emsp;The State shall collaborate with entities that receive awards under paragraphs (1) and (3) of section 3005(b) of this title to carry out public-awareness activities focusing on infants, toddlers,children, transition-age youth, employment-age adults, seniors, and employers.
+&emsp;&emsp;&emsp;&emsp;The State shall collaborate with entities that receive awards under paragraphs (1) and (3) of section 3005(b) of this title to carry out public-awareness activities focusing on infants, toddlers, children, transition-age youth, employment-age adults, seniors, and employers.
 
 #### (III) Statewide information and referral system
 
@@ -358,7 +358,7 @@ The Secretary shall award grants under subsection (b) to States to maintain comp
 
 &emsp;&emsp;&emsp;(i) shall carry out each of the required activities described in paragraph (3)(B); and
 
-&emsp;&emsp;&emsp;(ii) shall use not more than 30 percent of the funds made available through the grant to carry out the activities described in paragraph (3)(B).
+&emsp;&emsp;&emsp;(ii) shall use not more than 30 percent of the funds made available through thegrant to carry out the activities described in paragraph (3)(B).
 
 #### (f) Annual progress reports
 
@@ -422,7 +422,7 @@ Subchapter III of this chapter, referred to in subsec. (b)(2)(D), which consiste
 
 The Rehabilitation Act of 1973, referred to in subsecs. (c)(2)(B)(i)(III) and (d)(3)(A)(ii), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended. Title I of the Act is classified generally to subchapter I (§720 et seq.) of chapter 16 of this title. Part C of title VII of the Act is classified generally to subpart 3 (§796f et seq.) of part A of subchapter VII of chapter 16 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
 
-The Individuals with Disabilities Education Act, referred to in subsecs. (d)(3)(A)(i) and (e)(2)(C), (3)(B)(i)(III)(aa), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+The Individuals with Disabilities Education Act, referred to in subsecs. (d)(3)(A)(i) and (e)(2)(C),\(3)(B)(i)(III)(aa), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
 The Americans with Disabilities Act of 1990, referred to in subsecs. (d)(6)(E) and (e)(2)(C), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 

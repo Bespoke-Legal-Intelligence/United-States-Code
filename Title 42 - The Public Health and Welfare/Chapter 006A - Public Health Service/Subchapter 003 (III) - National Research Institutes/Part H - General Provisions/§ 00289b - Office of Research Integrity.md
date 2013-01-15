@@ -82,7 +82,7 @@ Subsec. (e). Pub. L. 103–43, §163, added subsec. (e).
 
 #### Regulations
 
-Section 165 of Pub. L. 103–43 provided that:
+Pub. L. 103–43, title I, §165, June 10, 1993, 107 Stat. 143, provided that:
 
 “(a)
 

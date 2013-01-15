@@ -48,7 +48,7 @@ Act of July 2, 1890, as amended, referred to in par. (3), is act July 2, 1890, c
 
 Act of October 15, 1914, as amended, referred to in par. (3), is act Oct. 15, 1914, ch. 323, 78 Stat. 730, known as the Clayton Act, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of Title 15, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under section 12 of Title 15 and Tables.
 
-Sections 73 and 74 of the Act of August 27, 1894, as amended, referred to in par. (3), are sections 73 and 74 of act Aug. 27, 1894, ch. 349, 28 Stat. 570. Sections 73 to77 of such Act are known as the Wilson Tariff Act. Sections 73 to 76 enacted sections 8 to 11 of Title 15. Section 77 is not classified to the Code. For complete classification of this Act to the Code, see Short Title note under section 8 of Title 15 and Tables.
+Sections 73 and 74 of the Act of August 27, 1894, as amended, referred to in par. (3), are sections 73 and 74 of act Aug. 27, 1894, ch. 349, 28 Stat. 570. Sections 73 to 77 of such Act are known as the Wilson Tariff Act. Sections 73 to 76 enacted sections 8 to 11 of Title 15. Section 77 is not classified to the Code. For complete classification of this Act to the Code, see Short Title note under section 8 of Title 15 and Tables.
 
 #### Amendments
 

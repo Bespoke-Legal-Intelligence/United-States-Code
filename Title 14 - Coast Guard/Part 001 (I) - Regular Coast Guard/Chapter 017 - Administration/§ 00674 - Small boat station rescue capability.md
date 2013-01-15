@@ -1,14 +1,16 @@
 ### §674. Small boat station rescue capability
 
-The Secretary of Homeland Security shall ensure that each Coast Guard small boat station (including a seasonally operated station) maintains, within the area of responsibility for the station, at least 1 vessel that is fully capable of performing offshore rescue operations, taking into consideration prevailing weather, marine conditions, and depositional geologic features such as sand bars.
+The Secretary shall ensure that each Coast Guard small boat station (including a seasonally operated station) maintains, within the area of responsibility for the station, at least 1 vessel that is fully capable of performing offshore rescue operations, taking into consideration prevailing weather, marine conditions, and depositional geologic features such as sand bars.
 
-(Added Pub. L. 104–324, title III, §309(a), Oct. 19, 1996, 110 Stat. 3919, §673; renumbered §674, Pub. L. 107–295, title IV, §405(a)(1), Nov. 25, 2002, 116 Stat. 2115; amended Pub. L. 107–296, title XVII, §1704(a), (f)(1), Nov. 25, 2002, 116 Stat. 2314, 2316.)
+(Added Pub. L. 104–324, title III, §309(a), Oct. 19, 1996, 110 Stat. 3919, §673; renumbered §674, Pub. L. 107–295, title IV, §405(a)(1), Nov. 25, 2002, 116 Stat. 2115; amended Pub. L. 107–296, title XVII, §1704(a), (f)(1), Nov. 25, 2002, 116 Stat. 2314, 2316; Pub. L. 112–213, title II, §217(12), Dec. 20, 2012, 126 Stat. 1558.)
 
 #### Prior Provisions
 
 A prior section 674 was renumbered section 675 of this title.
 
 #### Amendments
+
+<b>2012</b>—Pub. L. 112–213 struck out “of Homeland Security” after “Secretary”.
 
 <b>2002</b>—Pub. L. 107–296, §1704(f)(1), which directed renumbering of the section 673 of this title that was added by Pub. L. 104–324, §309(a), as section 673a of this title, could not be executed because of the prior amendment by Pub. L. 107–295, see below.
 

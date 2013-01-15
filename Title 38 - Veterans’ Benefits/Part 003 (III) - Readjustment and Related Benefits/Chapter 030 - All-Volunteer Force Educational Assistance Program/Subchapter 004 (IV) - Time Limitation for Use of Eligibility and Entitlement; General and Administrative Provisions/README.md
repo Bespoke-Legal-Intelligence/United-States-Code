@@ -10,4 +10,4 @@
 - [&sect; 03033 - Bar to duplication of educational assistance benefits](%C2%A7%2003033%20-%20Bar%20to%20duplication%20of%20educational%20assistance%20benefits.md)
 - [&sect; 03034 - Program administration](%C2%A7%2003034%20-%20Program%20administration.md)
 - [&sect; 03035 - Allocation of administration and of program costs](%C2%A7%2003035%20-%20Allocation%20of%20administration%20and%20of%20program%20costs.md)
-- [&sect; 03036 - Reporting requirement](%C2%A7%2003036%20-%20Reporting%20requirement.md)
+- [&sect; 03036 - Repealed. Pub. L. 112&#8211;154, title IV, &sect;402(b)(1), Aug. 6, 2012, 126 Stat. 1189](%C2%A7%2003036%20-%20Repealed.%20Pub.%20L.%20112%E2%80%93154%2C%20title%20IV%2C%20%C2%A7402%28b%29%281%29%2C%20Aug.%206%2C%202012%2C%20126%20Stat.%201189.md)

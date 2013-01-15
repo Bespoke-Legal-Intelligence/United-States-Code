@@ -114,5 +114,5 @@ Another prior section 44 was renumbered section 37 of this title.
 
 #### Effective Date
 
-Section applicable to expenditures paid or incurred after Nov. 5, 1990, see section 11611(e)(1) of Pub. L.101–508, set out as an Effective Date of 1990 Amendment note under section 38 of this title.
+Section applicable to expenditures paid or incurred after Nov. 5, 1990, see section 11611(e)(1) of Pub. L. 101–508, set out as an Effective Date of 1990 Amendment note under section 38 of this title.
 

@@ -82,7 +82,7 @@ The Director shall require each enterprise to report the number of rental housin
 
 #### (4) HMDA information
 
-&emsp;The Director shall annually obtain information submitted in compliance with the Home Mortgage Disclosure Act of 1975 \[12 U.S.C. 2801 et seq.\] regarding conventional, conforming,single-family, owner-occupied, purchase money and refinance mortgages originated and purchased for the previous year.
+&emsp;The Director shall annually obtain information submitted in compliance with the Home Mortgage Disclosure Act of 1975 \[12 U.S.C. 2801 et seq.\] regarding conventional, conforming, single-family, owner-occupied, purchase money and refinance mortgages originated and purchased for the previous year.
 
 #### (5) Conforming mortgages
 
@@ -104,7 +104,7 @@ In monitoring the performance of each enterprise pursuant to the housing goals u
 
 #### (h) Consideration of properties with rental units
 
-Mortgages financing two- to four-unit owner-occupied properties shall count toward the achievement of the single-family housing goals under this section, if such properties otherwise meet the requirements under this section, notwithstanding the use of one or more units for rental purposes.
+Mortgages financing two- to four-unit owner-occupied properties shall count toward theachievement of the single-family housing goals under this section, if such properties otherwise meet the requirements under this section, notwithstanding the use of one or more units for rental purposes.
 
 #### (i) Goals credit
 

@@ -2,7 +2,7 @@
 
 #### (a) Immigrant visas
 
-Every alien applying for an immigrant visa and for alien registration shall make applicationtherefor in such form and manner and at such place as shall be by regulations prescribed. In the application the alien shall state his full and true name, and any other name which he has used or by which he has been known; age and sex; the date and place of his birth; and such additional information necessary to the identification of the applicant and the enforcement of the immigration and nationality laws as may be by regulations prescribed.
+Every alien applying for an immigrant visa and for alien registration shall make application therefor in such form and manner and at such place as shall be by regulations prescribed. In the application the alien shall state his full and true name, and any other name which he has used or by which he has been known; age and sex; the date and place of his birth; and such additional information necessary to the identification of the applicant and the enforcement of the immigration and nationality laws as may be by regulations prescribed.
 
 #### (b) Other documentary evidence for immigrant visa
 
@@ -136,7 +136,7 @@ Subsecs. (b), (e). Pub. L. 100–525, §8(e), made technical correction to Pub. 
 
 Subsec. (e). Pub. L. 99–653, §6(b), as amended by Pub. L. 100–525, §8(e)(2), substituted “each application” for “each copy of an application”, “The application for” for “One copy of the application for”, and “the immigrant visa” for “the immigrant visa, and the other copy shall be disposed of as may be by regulations prescribed”.
 
-<b>1965</b>—Subsec. (a). Pub L. 89–236 substituted “an immediate relative within the meaning of section 1151 (b) of this title or a preference or special immigrant”, for “preference quota or a nonquota immigrant”.
+<b>1965</b>—Subsec. (a). Pub. L. 89–236 substituted “an immediate relative within the meaning of section 1151 (b) of this title or a preference or special immigrant”, for “preference quota or a nonquota immigrant”.
 
 <b>1961</b>—Subsecs. (a), (c). Pub. L. 87–301 struck out requirement to state applicant's race and ethnic classification.
 
@@ -148,7 +148,7 @@ Pub. L. 108–458, title VII, §7219, Dec. 17, 2004, 118 Stat. 3835, provided th
 
 #### Effective Date of 1996 Amendment
 
-Section 632(b) of div. C of Pub. L. 104–208 provided that:
+Pub. L. 104–208, div. C, title VI, §632(b), Sept. 30, 1996, 110 Stat. 3009–701, provided that:
 
 “(1)
 
@@ -164,7 +164,7 @@ Aliens seeking readmission.—Section 222(g)(2) of the Immigration and Nationali
 
 #### Effective Date of 1994 Amendment
 
-Section 205(b) of Pub. L. 103–416 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to applications made on or after the date of the enactment of this Act \[Oct. 25, 1994\].”
+Pub. L. 103–416, title II, §205(b), Oct. 25, 1994, 108 Stat. 4311, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to applications made on or after the date of the enactment of this Act \[Oct. 25, 1994\].”
 
 #### Effective Date of 1988 Amendment
 

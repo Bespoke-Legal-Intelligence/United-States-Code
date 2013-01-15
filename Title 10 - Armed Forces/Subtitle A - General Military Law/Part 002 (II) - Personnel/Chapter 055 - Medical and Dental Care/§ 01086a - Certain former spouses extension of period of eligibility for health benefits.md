@@ -56,7 +56,7 @@ Section applicable to a person referred to in 10 U.S.C. 1072(2)(H) whose decree 
 
 #### Application of Amendments by Pub. L. 102–484 to Existing Contracts
 
-Section 4407(c) of Pub. L. 102–484 provided that: “In the case of conversion health policies provided under section 1145(b) or 1086a(a) of title 10, United States Code, and in effect on the date of the enactment of this Act \[Oct. 23, 1992\], the Secretary of Defense shall—
+Pub. L. 102–484, div. D, title XLIV, §4407(c), Oct. 23, 1992, 106 Stat. 2708, provided that: “In the case of conversion health policies provided under section 1145(b) or 1086a(a) of title 10, United States Code, and in effect on the date of the enactment of this Act \[Oct. 23, 1992\], the Secretary of Defense shall—
 
 &emsp;“(1) arrange with the private insurer providing these policies to extend the term of the policies (and coverage of preexisting conditions) as provided by the amendments made by this section \[amending this section and section 1145 of this title\]; or
 
@@ -64,7 +64,7 @@ Section 4407(c) of Pub. L. 102–484 provided that: “In the case of conversion
 
 #### Termination of Applicability of Other Conversion Health Policies
 
-Section 4408(c) of Pub. L. 102–484 provided that:
+Pub. L. 102–484, div. D, title XLIV, §4408(c), Oct. 23, 1992, 106 Stat. 2712, provided that:
 
 “(1) No person may purchase a conversion health policy under section 1145(b) or 1086a of title 10, United States Code, on or after October 1, 1994. A person covered by such a conversion health policy on that date may cancel that policy and enroll in a health benefits plan under section 1078a of such title.
 

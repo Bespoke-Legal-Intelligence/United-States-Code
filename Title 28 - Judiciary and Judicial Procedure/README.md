@@ -1,6 +1,4 @@
 
-28 U.S.C.<br>United States Code, 2011 Edition<br>Title 28 - JUDICIARY AND JUDICIAL PROCEDURE<br>From the U.S. Government Publishing Office, www.gpo.gov
-
 # TITLE 28—JUDICIARY AND JUDICIAL PROCEDURE
 
 <i>This title was enacted by act June 25, 1948, ch. 646, §1, 62 Stat. 869</i>
@@ -2828,7 +2826,7 @@ Section 38 of act June 25, 1948, ch. 646, 62 Stat. 992, provided that: “The pr
 
 #### Repeals; Rights and Liabilities Saved
 
-Section 39 of act June 25, 1948, ch. 646, 62 Stat. 992, repealed the sections or parts thereof of the Revised Statutes of the United States, Statutes at Large, or the Revised Statutes of the District of Columbia covering provisions codified in this title, but saved any rights or liabilities then existing under said sections or parts thereof.
+Act June 25, 1948, ch. 646, §39, 62 Stat. 992, repealed the sections or parts thereof of the Revised Statutes of the United States, Statutes at Large, or the Revised Statutes of the District of Columbia covering provisions codified in this title, but saved any rights or liabilities then existing under said sections or parts thereof.
 
 R.S. §1012 as affected by act Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167 \[section 880 of former Title 28, Judicial Code and Judiciary\], provided that appeals from district courts shall be subject to the same rules, regulations, and restrictions as are or may be prescribed in law in cases of writs of error. This provision was repealed by act June 25, 1948, ch. 646, §39, 62 Stat. 992. Section 2 of act Jan. 31, 1928, ch. 14, 45 Stat. 54, as amended Apr. 26, 1928, ch. 440, 45 Stat. 466; June 25, 1948, ch. 646, §23, 62 Stat. 990 \[section 861b of former Title 28, Judicial Code and Judiciary\], provided that: “All Acts of Congress referring to writs of error shall be construed as amended to the extent necessary to substitute appeal for writ of error.”
 
@@ -2838,7 +2836,7 @@ Act Jan. 31, 1928, ch. 14, §1, 45 Stat. 54 \[section 861a of former Title 28, J
 
 #### Title 28 as Continuation of Existing Law; Change of Name of Circuit Courts of Appeals
 
-Section 2(b) of act June 25, 1948, ch. 646, 62 Stat. 985, provided that: “The provisions of Title 28, Judiciary and Judicial Procedure, of the United States Code, set out in section 1 of this Act, with respect to the organization of each of the several courts therein provided for and of the Administrative Office of the United States Courts, shall be construed as continuations of existing law, and the tenure of the judges, officers, and employees thereof and of the United States attorneys and marshals and their deputies and assistants, in office on the effective date of this Act \[Sept. 1, 1948\], shall not be affected by its enactment, but each of them shall continue to serve in the same capacity under the appropriate provisions of title 28, as set out in section 1 of this Act, pursuant to his prior appointment: <i>Provided, however</i>, That each circuit court of appeals shall, as in said title 28 set out, hereafter be known as a United States court of appeals. No loss of rights, interruption of jurisdiction, or prejudice to matters pending in any of such courts on the effective date of this Act shall result from its enactment.”
+Act June 25, 1948, ch. 646, §2(b), 62 Stat. 985, provided that: “The provisions of Title 28, Judiciary and Judicial Procedure, of the United States Code, set out in section 1 of this Act, with respect to the organization of each of the several courts therein provided for and of the Administrative Office of the United States Courts, shall be construed as continuations of existing law, and the tenure of the judges, officers, and employees thereof and of the United States attorneys and marshals and their deputies and assistants, in office on the effective date of this Act \[Sept. 1, 1948\], shall not be affected by its enactment, but each of them shall continue to serve in the same capacity under the appropriate provisionsof title 28, as set out in section 1 of this Act, pursuant to his prior appointment: <i>Provided, however</i>, That each circuit court of appeals shall, as in said title 28 set out, hereafter be known as a United States court of appeals. No loss of rights, interruption of jurisdiction, or prejudice to matters pending in any of such courts on the effective date of this Act shall result from its enactment.”
 
 
 ---

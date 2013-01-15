@@ -26,7 +26,7 @@ The words “may appoint” are substituted for “is authorized to appoint”. 
 
 #### Prior Provisions
 
-A prior section 504, acts June 25, 1948, ch. 646, 62 Stat. 909; Mar. 18, 1959, Pub. L. 86–3, §11(b), 73 Stat. 9, relatedto tenure and oath of office of United States attorneys, prior to repeal by Pub. L. 89–554, §8(a), and reenactment in sections 541 and 544 of this title by section 4(c) of Pub. L. 89–554.
+A prior section 504, acts June 25, 1948, ch. 646, 62 Stat. 909; Mar. 18, 1959, Pub. L. 86–3, §11(b), 73 Stat. 9, related to tenure and oath of office of United States attorneys, prior to repeal by Pub. L. 89–554, §8(a), and reenactment in sections 541 and 544 of this title by section 4(c) of Pub. L. 89–554.
 
 #### Amendments
 

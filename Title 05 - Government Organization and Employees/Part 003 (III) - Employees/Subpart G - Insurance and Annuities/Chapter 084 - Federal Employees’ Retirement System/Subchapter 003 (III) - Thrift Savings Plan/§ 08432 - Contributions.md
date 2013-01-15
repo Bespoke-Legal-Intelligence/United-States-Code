@@ -1,6 +1,6 @@
 ### §8432. Contributions
 
-(a)(1) An employee or Member may contribute to the Thrift Savings Fund in any pay period, pursuant to an election under subsection (b), an amount not to exceed the maximum percentage of such employee's or Member's basic pay for such pay period allowable under paragraph (2). Contributions under this subsection pursuant to such an election shall, with respect to each pay period for which such election remains in effect, be made in accordance with a program of regular contributions provided in regulations prescribed by the Executive Director.
+(a)(1) An employee or Member may contribute to the Thrift Savings Fund in any pay period,pursuant to an election under subsection (b), an amount not to exceed the maximum percentage of such employee's or Member's basic pay for such pay period allowable under paragraph (2). Contributions under this subsection pursuant to such an election shall, with respect to each pay period for which such election remains in effect, be made in accordance with a program of regular contributions provided in regulations prescribed by the Executive Director.
 
 (2) The maximum percentage allowable under this paragraph shall be determined in accordance with the following table:
 
@@ -62,7 +62,7 @@
 
 &emsp;(ii) decline automatic enrollment altogether.
 
-(D)(i) Except as provided in clause (ii), for purposes of this paragraph, the term “eligible individual” means any individual who, after any regulations under subparagraph (A) first take effect, is appointed, transferred, or reappointed toa position in which that individual becomes eligible to contribute to the Thrift Savings Fund.
+(D)(i) Except as provided in clause (ii), for purposes of this paragraph, the term “eligible individual” means any individual who, after any regulations under subparagraph (A) first take effect, is appointed, transferred, or reappointed to a position in which that individual becomes eligible to contribute to the Thrift Savings Fund.
 
 (ii) Members of the uniformed services shall not be eligible individuals for purposes of this paragraph.
 
@@ -86,7 +86,7 @@
 
 (B) The amount contributed under subparagraph (A) by an employing agency with respect to a contribution of an employee or Member during any pay period shall be the amount equal to the sum of—
 
-&emsp;(i) such portion of the total amount of the employee's or Member's contribution as does not exceed 3 percent of such employee's or Member's basic pay for such period; and
+&emsp;(i) such portion of the total amount of the employee's or Member's contribution as doesnot exceed 3 percent of such employee's or Member's basic pay for such period; and
 
 &emsp;(ii) one-half of such portion of the amount of the employee's or Member's contribution as exceeds 3 percent, but does not exceed 5 percent, of such employee's or Member's basic pay for such pay period.
 
@@ -138,7 +138,7 @@
 
 (4) Nothing in paragraph (2) or (3) shall cause the forfeiture of any contributions made for the benefit of an employee, Member, or Congressional employee under subsection (c)(1), or any earnings attributable thereto, if such employee, Member, or Congressional employee is not separated from Government employment as of date of death.
 
-(5) Notwithstanding any other provision of law, contributions made by the Government for the benefit of an employee or Member under subsection (c), and all earnings attributable to such contributions, shall be forfeited if the annuity of the employee or Member, or that of a survivor or beneficiary, is forfeited under subchapter II of chapter 83.
+(5) Notwithstanding any other provision of law, contributions made by the Government for the benefit of an employee or Member under subsection (c), and all earnings attributable to such contributions, shall be forfeited if the annuity of the employee or Member, or that of asurvivor or beneficiary, is forfeited under subchapter II of chapter 83.
 
 (h) No transfers or contributions may be made to the Thrift Savings Fund except as provided in this chapter or section 8351 of this title.
 
@@ -170,7 +170,7 @@
 
 (3) For purposes of subsection (c), basic pay of an employee of the Central Intelligence Agency participating in the pilot project referred to in paragraph (1) shall include bonus pay received by the employee as part of the pilot project.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 541; amended Pub. L. 99–509, title VI, §6001(a)(1), (2), Oct. 21, 1986, 100 Stat. 1929, 1930; Pub. L. 100–20, §1(b), Apr. 7, 1987, 101 Stat. 265; Pub. L. 100–238, title I, §§114, 115, 121, Jan. 8,1988, 101 Stat. 1751, 1752; Pub. L. 103–353, §§4(c), 5(e)(3), Oct. 13, 1994, 108 Stat. 3172, 3174; Pub. L. 104–93, title III, §304(a), Jan. 6, 1996, 109 Stat. 965; Pub. L. 104–186, title II, §215(16), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 104–316, title I, §103(g), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 106–361, §§1(a), 2(a), (b)(1)–(3), Oct. 27, 2000, 114 Stat. 1400, 1401; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §138(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–233; Pub. L. 107–304, §1(b)(1), Nov. 27, 2002, 116 Stat. 2363; Pub. L. 108–177, title IV, §405(b)(2), Dec. 13, 2003, 117 Stat. 2632; Pub. L. 108–469, §1(b), (c), (d)(2), Dec. 21, 2004, 118 Stat. 3891; Pub. L. 111–31, div. B, title I, §102, June 22, 2009, 123 Stat. 1853.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 541; amended Pub. L. 99–509, title VI, §6001(a)(1), (2), Oct. 21, 1986, 100 Stat. 1929, 1930; Pub. L. 100–20, §1(b), Apr. 7, 1987, 101 Stat. 265; Pub. L. 100–238, title I, §§114, 115, 121, Jan. 8, 1988, 101 Stat. 1751, 1752; Pub. L. 103–353, §§4(c), 5(e)(3), Oct. 13, 1994, 108 Stat. 3172, 3174; Pub. L. 104–93, title III, §304(a), Jan. 6, 1996, 109 Stat. 965; Pub. L. 104–186, title II, §215(16), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 104–316, title I, §103(g), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 106–361, §§1(a), 2(a), (b)(1)–(3), Oct. 27, 2000, 114 Stat. 1400, 1401; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §138(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–233; Pub. L. 107–304, §1(b)(1), Nov. 27, 2002, 116 Stat. 2363; Pub. L. 108–177, title IV, §405(b)(2), Dec. 13, 2003, 117 Stat. 2632; Pub. L. 108–469, §1(b), (c), (d)(2), Dec. 21, 2004, 118 Stat. 3891; Pub. L. 111–31, div. B, title I, §102, June 22, 2009, 123 Stat. 1853.)
 
 #### References in Text
 
@@ -254,7 +254,7 @@ Pub. L. 106–361, §2(c)(1), Oct. 27, 2000, 114 Stat. 1401, provided that: “T
 
 #### Effective Date of 1996 Amendment
 
-Section 304(b) of Pub. L. 104–93 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to offenses upon which the requisite annuity forfeitures are based occurring on or after the date of the enactment of this Act \[Jan. 6, 1996\].”
+Pub. L. 104–93, title III, §304(b), Jan. 6, 1996, 109 Stat. 965, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to offenses upon which the requisite annuity forfeitures are based occurring on or after the date of the enactment of this Act \[Jan. 6, 1996\].”
 
 #### Effective Date of 1994 Amendment
 
@@ -264,15 +264,15 @@ Amendment by section 5(e)(3) of Pub. L. 103–353 effective with respect to reem
 
 #### Effective Date of 1986 Amendment
 
-Section 6001(f) of Pub. L. 99–509 provided that: “This section \[amending this section and section 8472 of this title, enacting provisions set out as notes under this section, and amending provisions set out as a note under section 8351 of this title\], other than subsection (d) \[set out below\], and the amendments made by this section shall take effect on January 1, 1987.”
+Pub. L. 99–509, title VI, §6001(f), Oct. 21, 1986, 100 Stat. 1931, provided that: “This section \[amending this section and section 8472 of this title, enacting provisions set out as notes under this section, and amending provisions set out as a note under section 8351 of this title\], other than subsection (d) \[set out below\], and the amendments made by this section shall take effect on January 1, 1987.”
 
 #### Regulations
 
-Section 6001(d) of Pub. L. 99–509 provided that: “The Executive Director of the Federal Retirement Thrift Investment Board may prescribe regulations to carry out subsections (a), (b), and (c) \[amending this section, enacting provisions set out as notes under this section, and amending provisions set out as a note under section 8351 of this title\] and the amendments made by subsections (a) and (b).”
+Pub. L. 99–509, title VI, §6001(d), Oct. 21, 1986, 100 Stat. 1931, provided that: “The Executive Director of the Federal Retirement Thrift Investment Board may prescribe regulations to carry out subsections (a), (b), and (c) \[amending this section, enacting provisions set out as notes under this section, and amending provisions set out as a note under section 8351 of this title\] and the amendments made by subsections (a) and (b).”
 
 #### Savings Provisions
 
-Pub. L. 106–361, §2(c)(2), Oct. 27, 2000, 114 Stat. 1401, provided that: “Notwithstanding any other provision of this section \[amending this section and sections 8439, 8440a, and 8440d of this title and enacting provisions set out as a note under this section\], until the amendments made by this section take effect \[see Effective Date of 2000 Amendment note above\], title 5, United States Code, shall be applied as if this section had not been enacted.”
+Pub. L. 106–361, §2(c)(2), Oct. 27, 2000, 114 Stat. 1401, provided that: “Notwithstanding any other provision ofthis section \[amending this section and sections 8439, 8440a, and 8440d of this title and enacting provisions set out as a note under this section\], until the amendments made by this section take effect \[see Effective Date of 2000 Amendment note above\], title 5, United States Code, shall be applied as if this section had not been enacted.”
 
 #### Eligibility of Certain Individuals To Participate in Thrift Savings Plan
 
@@ -316,7 +316,7 @@ Applicability.—This section applies with respect to—
 
 &emsp;&emsp;“(D) an individual assigned from a Federal agency to a private sector organization under chapter 37 of title 5, United States Code; and
 
-&emsp;“(2) any individual who is participating in the Civil Service Retirement System as a result of a provision of law described in section 8347(<i>o</i>).
+&emsp;“(2) any individual who is participating in the Civil Service Retirement System as a result of a provision of law described in section 8347(o).
 
 “(d)
 
@@ -328,11 +328,11 @@ In general.—Except as provided in paragraph (2), the regulations prescribed un
 
 &emsp;“(2)
 
-Exception.—The regulations prescribed under this section shall, with respect to individuals undersubsection (c)(1)(C), be effective as of January 1, 1987.”
+Exception.—The regulations prescribed under this section shall, with respect to individuals under subsection (c)(1)(C), be effective as of January 1, 1987.”
 
 #### Contributions to Thrift Savings Fund
 
-Section 6001(a)(3) of Pub. L. 99–509 directed that contributions made to Thrift Savings Fund under 5 U.S.C. 8432(c)(1)(B), (C) and (3) be made as soon as practicable during the 15-day period which began on Apr. 1, 1987.
+Pub. L. 99–509, title VI, §6001(a)(3), Oct. 21, 1986, 100 Stat. 1930, directed that contributions made to Thrift Savings Fund under 5 U.S.C. 8432(c)(1)(B), (C) and (3) be made as soon as practicable during the 15-day period which began on Apr. 1, 1987.
 
 #### Inapplicability of Limitation on Number of Elections Within a Six-Month Period
 
@@ -340,7 +340,7 @@ Pub. L. 99–509, title VI, §6001(c), Oct. 21, 1986, 100 Stat. 1931, provided t
 
 #### Plan for Delayed Contributions to Thrift Savings Fund
 
-Section 312 of Pub. L. 99–335 directed Executive Director of Federal Retirement Thrift Investment Board to transmit to Congress, not later than Jan. 1, 1988, a plan to afford Federal employees and Members of Congress who make less than maximum amount of authorized contributions to Thrift Savings Fund in any period an opportunity to contribute to such Fund, in a later period, the excess of such amount over the amount contributed during such period, with plan to include such recommendations for legislation as Executive Director considered appropriate.
+Pub. L. 99–335, title III, §312, June 6, 1986, 100 Stat. 608, directed Executive Director of Federal Retirement Thrift Investment Board to transmit to Congress, not later than Jan. 1, 1988, a plan to afford Federal employees and Members of Congress who make less than maximum amount of authorized contributions to Thrift Savings Fund in any period an opportunity to contribute to such Fund, in a later period, the excess of such amount over the amount contributed during such period, with plan to include such recommendations for legislation as Executive Director considered appropriate.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “8440e(b)(1)”.</i>
 

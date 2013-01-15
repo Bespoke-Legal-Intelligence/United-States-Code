@@ -24,7 +24,7 @@
 
 #### (3) Contract of sale
 
-&emsp;It shall be unlawful for any employee or agent of any department or agency of the Federal Government who, by virtue of the employment or position of the employee or agent, acquires information that may affect or tend to affect the price of any commodity in interstate commerce, or for future delivery, or any swap, and which information has not been disseminated by the department or agency of the Federal Government holding or creating the information in a manner which makes it generally available to the trading public, or disclosed in a criminal, civil, or administrative hearing, or in a congressional, administrative, or Government Accountability Office report, hearing, audit, or investigation, to use the information in his personal capacity and for personal gain to enter into, or offer to enter into—
+&emsp;It shall be unlawful for any employee or agent of any department or agency of the Federal Government or any Member of Congress or employee of Congress (as such terms are defined under section 2 of the STOCK Act) or any judicial officer or judicial employee (as such terms are defined, respectively, under section 2 of the STOCK Act) who, by virtue of the employment or position of the Member, officer, employee or agent, acquires information that may affect or tend to affect the price of any commodity in interstate commerce, or for future delivery, or any swap, and which information has not been disseminated by the department or agency of the Federal Government holding or creating the information or by Congress or by the judiciary in a manner which makes it generally available to the trading public, or disclosed in a criminal, civil, or administrative hearing, or in a congressional, administrative, or Government Accountability Office report, hearing, audit, or investigation, to use the information in his personal capacity and for personal gain to enter into, or offer to enter into—
 
 &emsp;&emsp;(A) a contract of sale of a commodity for future delivery (or option on such a contract);
 
@@ -36,7 +36,7 @@
 
 #### (A) Imparting of nonpublic information
 
-&emsp;&emsp;It shall be unlawful for any employee or agent of any department or agency of the Federal Government who, by virtue of the employment or position of the employee or agent, acquires information that may affect or tend to affect the price of any commodity in interstate commerce, or for future delivery, or any swap, and which information has not been disseminated by the department or agency of the Federal Government holding or creating the information in a manner which makes it generally available to the trading public, or disclosed in a criminal, civil, or administrative hearing, or in a congressional, administrative, or Government Accountability Office report, hearing, audit, or investigation, to impart the information in his personal capacity and for personal gain with intent to assist another person, directly or indirectly, to use the information to enter into, or offer to enter into—
+&emsp;&emsp;It shall be unlawful for any employee or agent of any department or agency of the Federal Government or any Member of Congress or employee of Congress or any judicial officer or judicial employee who, by virtue of the employment or position of the Member, officer, employee or agent, acquires information that may affect or tend to affect the price of any commodity in interstate commerce, or for future delivery, or any swap, and which information has not been disseminated by the department or agency of the Federal Government holding or creating the information or by Congress or by the judiciary in a manner which makes it generally available to the trading public, or disclosed in a criminal, civil, or administrative hearing, or in a congressional, administrative, or Government Accountability Office report, hearing, audit, or investigation, to impart the information in his personal capacity and for personal gain with intent to assist another person, directly or indirectly, to use the information to enter into, or offer to enter into—
 
 &emsp;&emsp;&emsp;(i) a contract of sale of a commodity for future delivery (or option on such a contract);
 
@@ -46,7 +46,7 @@
 
 #### (B) Knowing use
 
-&emsp;&emsp;It shall be unlawful for any person who receives information imparted by any employee or agent of any department or agency of the Federal Government as described in subparagraph (A) to knowingly use such information to enter into, or offer to enter into—
+&emsp;&emsp;It shall be unlawful for any person who receives information imparted by any employee or agent of any department or agency of the Federal Government or any Member of Congress or employee of Congress or anyjudicial officer or judicial employee as described in subparagraph (A) to knowingly use such information to enter into, or offer to enter into—
 
 &emsp;&emsp;&emsp;(i) a contract of sale of a commodity for future delivery (or option on such a contract);
 
@@ -56,13 +56,13 @@
 
 #### (C) Theft of nonpublic information
 
-&emsp;&emsp;It shall be unlawful for any person to steal, convert, or misappropriate, by any means whatsoever, information held or created by any department or agency of the Federal Government that may affect or tend to affect the price of any commodity ininterstate commerce, or for future delivery, or any swap, where such person knows, or acts in reckless disregard of the fact, that such information has not been disseminated by the department or agency of the Federal Government holding or creating the information in a manner which makes it generally available to the trading public, or disclosed in a criminal, civil, or administrative hearing, or in a congressional, administrative, or Government Accountability Office report, hearing, audit, or investigation, and to use such information, or to impart such information with the intent to assist another person, directly or indirectly, to use such information to enter into, or offer to enter into—
+&emsp;&emsp;It shall be unlawful for any person to steal, convert, or misappropriate, by any means whatsoever, information held or created by any department or agency of the Federal Government or by Congress or by the judiciary that may affect or tend to affect the price of any commodity in interstate commerce, or for future delivery, or any swap, where such person knows, or acts in reckless disregard of the fact, that such information has not been disseminated by the department or agency of the Federal Government holding or creating the information or by Congress or by the judiciary in a manner which makes it generally available to the trading public, or disclosed in a criminal, civil, or administrative hearing, or in a congressional, administrative, or Government Accountability Office report, hearing, audit, or investigation, and to use such information, or to impart such information with the intent to assist another person, directly or indirectly, to use such information to enter into, or offer to enter into—
 
 &emsp;&emsp;&emsp;(i) a contract of sale of a commodity for future delivery (or option on such a contract);
 
 &emsp;&emsp;&emsp;(ii) an option (other than an option executed or traded on a national securities exchange registered pursuant to section 78f(a) of title 15); or
 
-&emsp;&emsp;&emsp;(iii) a swap, provided, however, that nothing in this subparagraph shall preclude a person that has provided information concerning, or generated by, the person, its operations or activities, to any employee or agent of any department or agency of the Federal Government, voluntarily or as required by law, from using such information to enter into, or offer to enter into, a contract of sale, option, or swap described in clauses <sup>1</sup> (i), (ii), or (iii).
+&emsp;&emsp;&emsp;(iii) a swap, provided, however, that nothing in this subparagraph shall preclude a person that has provided information concerning, or generated by, the person, its operations or activities, to any employee or agent of any department or agency of the Federal Government, to Congress, any Member of Congress, any employee of Congress, any judicial officer, or any judicial employee, voluntarily or as required by law, from using such information to enter into, or offer to enter into, a contract of sale, option, or swap described in clauses <sup>1</sup> (i), (ii), or (iii).
 
 #### (5) Disruptive practices
 
@@ -108,7 +108,7 @@ Notwithstanding the provisions of subsection (c) of this section—
 
 &emsp;&emsp;&emsp;(ii) at all times has a net worth of at least $5,000,000 certified annually by an independent public accountant using generally accepted accounting principles;
 
-&emsp;&emsp;&emsp;(iii) notifies the Commission and every futures commission merchant offering thegrantor's option if the grantor knows or has reason to believe that the grantor's net worth has fallen below $5,000,000;
+&emsp;&emsp;&emsp;(iii) notifies the Commission and every futures commission merchant offering the grantor's option if the grantor knows or has reason to believe that the grantor's net worth has fallen below $5,000,000;
 
 &emsp;&emsp;&emsp;(iv) segregates daily, exclusively for the benefit of purchasers, money, exempted securities (within the meaning of section 78c(a)(12) of title 15), commercial paper, bankers’ acceptances, commercial bills, or unencumbered warehouse receipts, equal to an amount by which the value of each transaction exceeds the amount received or to be received by the grantor for such transaction;
 
@@ -142,9 +142,23 @@ Nothing in this chapter shall be deemed to govern or in any way be applicable to
 
 The Commission shall adopt rules requiring that a contemporaneous written record be made, as practicable, of all orders for execution on the floor or subject to the rules of each contract market or derivatives transaction execution facility placed by a member of the contract market or derivatives transaction execution facility who is present on the floor at the time such order is placed.
 
-(Sept. 21, 1922, ch. 369, §4c, as added June 15, 1936, ch. 545, §5, 49 Stat. 1494; amended Pub. L. 93–463, title I, §103(a), title IV, §402, Oct. 23, 1974, 88 Stat. 1392, 1412; Pub. L. 95–405, §3, Sept. 30, 1978, 92 Stat. 867; Pub. L. 97–444, title I, §102, title II, §206, Jan. 11, 1983, 96 Stat. 2296, 2301; Pub. L. 99–641, title I, §102, Nov. 10, 1986, 100 Stat. 3557; Pub. L. 102–546, title II, §203(a), title IV, §402(4), Oct. 28, 1992, 106 Stat. 3600, 3624; Pub. L. 106–554, §1(a)(5) \[title I, §§109, 123(a)(6)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–383, 2763A–407; Pub. L. 111–203, title VII, §§741(b)(2), 746, 747, July 21, 2010, 124 Stat. 1731, 1737, 1739.)
+(Sept. 21, 1922, ch. 369, §4c, as added June 15, 1936, ch. 545, §5, 49 Stat. 1494; amended Pub. L. 93–463, title I, §103(a), title IV, §402, Oct. 23, 1974, 88 Stat. 1392, 1412; Pub. L. 95–405, §3, Sept. 30, 1978, 92 Stat. 867; Pub. L. 97–444, title I, §102, title II, §206, Jan. 11, 1983, 96 Stat. 2296, 2301; Pub. L. 99–641, title I, §102, Nov. 10, 1986, 100 Stat. 3557; Pub. L. 102–546, title II, §203(a), title IV, §402(4), Oct. 28, 1992, 106 Stat. 3600, 3624; Pub. L. 106–554, §1(a)(5) \[title I, §§109, 123(a)(6)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–383, 2763A–407; Pub. L. 111–203, title VII, §§741(b)(2), 746, 747, July 21, 2010, 124 Stat. 1731, 1737, 1739; Pub. L. 112–105, §5, Apr. 4, 2012, 126 Stat. 293.)
+
+#### References in Text
+
+Section 2 of the STOCK Act, referred to in subsec. (a)(3), is section 2 of Pub. L. 112–105, which is set out as a note under section 101 of the Ethics in Government Act of 1978, Pub. L. 95–521, in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a)(3). Pub. L. 112–105, §5(1), inserted in introductory provisions “or any Member of Congress or employee of Congress (as such terms are defined undersection 2 of the STOCK Act) or any judicial officer or judicial employee (as such terms are defined, respectively, under section 2 of the STOCK Act)” after “any department or agency of the Federal Government”, “Member, officer,” after “position of the”, and “or by Congress or by the judiciary” after “creating the information”.
+
+Subsec. (a)(4)(A). Pub. L. 112–105, §5(2)(A), inserted in introductory provisions “or any Member of Congress or employee of Congress or any judicial officer or judicial employee” after “any department or agency of the Federal Government”, “Member, officer,” after “position of the”, and “or by Congress or by the judiciary” after “creating the information”.
+
+Subsec. (a)(4)(B). Pub. L. 112–105, §5(2)(B), inserted “or any Member of Congress or employee of Congress or any judicial officer or judicial employee” after “Federal Government” in introductory provisions.
+
+Subsec. (a)(4)(C). Pub. L. 112–105, §5(2)(C)(i), inserted “or by Congress or by the judiciary” in two places in introductory provisions.
+
+Subsec. (a)(4)(C)(iii). Pub. L. 112–105, §5(2)(C)(ii), inserted “to Congress, any Member of Congress, any employee of Congress, any judicial officer, or any judicial employee,” after “Federal Government,”.
 
 <b>2010</b>—Subsec. (a)(1). Pub. L. 111–203, §741(b)(2), inserted “or swap” before “if the transaction is used or may be used”.
 
@@ -200,7 +214,7 @@ Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21,
 
 #### Effective Date of 1992 Amendment
 
-Section 203(b) of Pub. L. 102–546 provided that: “The Commission shall adopt the rules required by the amendment made under subsection (a) \[amending this section\] within two hundred and seventy days after the date of enactment of this Act \[Oct. 28, 1992\].”
+Pub. L. 102–546, title II, §203(b), Oct. 28, 1992, 106 Stat. 3600, provided that: “The Commission shall adopt the rules required by the amendment made under subsection (a) \[amending this section\] within two hundred and seventy days after the date of enactment of this Act \[Oct. 28, 1992\].”
 
 #### Effective Date of 1983 Amendment
 

@@ -42,7 +42,7 @@ For purposes of applying any exemption from, or reduction of, any tax provided b
 
 #### Effective Date of 1997 Amendment
 
-Section 1054(b) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section\] shall apply upon the date of enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title X, §1054(b), Aug. 5, 1997, 111 Stat. 944, provided that: “The amendments made by this section \[amending this section\] shall apply upon the date of enactment of this Act \[Aug. 5, 1997\].”
 
 #### Effective Date of 1988 Amendment
 
@@ -50,5 +50,5 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1966 Amendment
 
-Section 105(d) of Pub. L. 89–809 provided that: “The amendments made by this section (other than subsections (d) and (f)) \[amending this section and enacting section 896 of this title\] shall apply with respect to taxable years beginning after December 31, 1966.”
+Pub. L. 89–809, title I, §105(d), Nov. 13, 1966, 80 Stat. 1565, provided that: “The amendments made by this section (other than subsections (d) and (f)) \[amending this section and enacting section 896 of this title\] shall apply with respect to taxable years beginning after December 31, 1966.”
 

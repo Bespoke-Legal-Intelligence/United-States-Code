@@ -24,7 +24,7 @@ In addition to the powers relative to prospectuses granted the Commission by sec
 
 #### (d) Application of other provisions to securities of investment companies, face-amount certificate companies, and open-end companies or unit investment trust
 
-The exemption provided by paragraph (8) of section 3(a) of the Securities Act of 1933 \[15 U.S.C. 77c(a)(8)\] shall not apply to any security of which an investment company is the issuer. The exemption provided by paragraph (11) of said section 3(a) \[15 U.S.C. 77c(a)(11)\] shall not apply to any security of which a registered investment company is the issuer. The exemption provided by section 4(3) of the Securities Act of 1933 \[15 U.S.C. 77d(3)\] shall not apply to any transaction in a security issued by a face-amount certificate company or in a redeemable security issued by an open-end management company or unit investment trust if any other security of the same class is currently being offered or sold by the issuer or by or through an underwriter in a distribution which is not exempted from section 5 of said Act \[15 U.S.C. 77e\], except to such extent and subject to such terms and conditions as the Commission, having due regard for the public interest and the protection of investors, may prescribe by rules or regulations with respect to any class of persons, securities, or transactions.
+The exemption provided by paragraph (8) of section 3(a) of the Securities Act of 1933 \[15 U.S.C. 77c(a)(8)\] shall not apply to any security of which an investment company is the issuer. The exemption provided by paragraph (11) of said section 3(a) \[15 U.S.C. 77c(a)(11)\] shall not apply to any security of which a registered investment company is the issuer. The exemption provided by section 4(3) <sup>1</sup> of the Securities Act of 1933 \[15 U.S.C. 77d(a)(3)\] shall not apply to any transaction in a security issued by a face-amount certificate company or in a redeemable security issued by an open-end management company or unit investment trust if any other security of the same class is currently being offered or sold by the issuer or by or through an underwriter in a distribution which is not exempted from section 5 of said Act \[15 U.S.C. 77e\], except to such extent and subject to such terms and conditions as the Commission, having due regard for the public interest and the protection of investors, may prescribe by rules or regulations with respect to any class of persons, securities, or transactions.
 
 #### (e) Amendment of registration statements relating to securities issued by face-amount certificate companies, open-end management companies or unit investment trusts
 
@@ -63,6 +63,8 @@ In addition to any prospectus permitted or required by section 10(a) of the Secu
 The Securities Act of 1933, referred to in subsecs. (a), (c), and (e), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
 For the effective date of this subchapter, referred to in subsec. (c), see section 80a–52 of this title.
+
+Section 4(3) of the Securities Act of 1933, referred to in subsec. (d), was redesignated section 4(a)(3) of that Act by Pub. L. 112–106, title II, §201(b)(1), (c)(1), Apr. 5, 2012, 126 Stat. 314, and is classified to section 77d(a)(3) of this title.
 
 #### Amendments
 
@@ -105,4 +107,6 @@ Amendment by act Aug. 10, 1954, effective sixty days after Aug. 10, 1954, see no
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

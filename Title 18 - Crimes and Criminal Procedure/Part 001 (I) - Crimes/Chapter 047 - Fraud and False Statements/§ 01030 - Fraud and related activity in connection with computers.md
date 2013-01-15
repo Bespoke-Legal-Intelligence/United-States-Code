@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(A) threat to cause damage to a protected computer;
 
-&emsp;&emsp;(B) threat to obtain information from a protected computer without authorization or in excess of authorization or to impair the confidentiality of information obtained from a protected computer without authorization or by exceeding authorized access; or
+&emsp;&emsp;(B) threat to obtain information from a protected computer without authorizationor in excess of authorization or to impair the confidentiality of information obtained from a protected computer without authorization or by exceeding authorized access; or
 
 &emsp;&emsp;(C) demand or request for money or other thing of value in relation to damage to a protected computer, where such damage was caused to facilitate the extortion;
 
@@ -156,7 +156,7 @@
 
 &emsp;(9) the term “government entity” includes the Government of the United States, any State or political subdivision of the United States, any foreign country, and any state, province, municipality, or other political subdivision of a foreign country;
 
-&emsp;(10) the term “conviction” shall include a conviction under the law of any State for a crime punishable by imprisonment for morethan 1 year, an element of which is unauthorized access, or exceeding authorized access, to a computer;
+&emsp;(10) the term “conviction” shall include a conviction under the law of any State for a crime punishable by imprisonment for more than 1 year, an element of which is unauthorized access, or exceeding authorized access, to a computer;
 
 &emsp;(11) the term “loss” means any reasonable cost to any victim, including the cost of responding to an offense, conducting a damage assessment, and restoring the data, program, system, or information to its condition prior to the offense, and any revenue lost, cost incurred, or other consequential damages incurred because of interruption of service; and
 
@@ -188,13 +188,13 @@
 
 Section 11 of the Atomic Energy Act of 1954, referred to in subsec. (a)(1), is classified to section 2014 of Title 42, The Public Health and Welfare.
 
-Section 1602(n) of title 15, referred to in subsec. (a)(2)(A), was redesignated section 1602(<i>o</i>) of title 15 by Pub. L. 111–203, title X, §1100A(1)(A), July 21, 2010, 124 Stat. 2107.
+Section 1602(n) of title 15, referred to in subsec. (a)(2)(A), was redesignated section 1602(o) of title 15 by Pub. L. 111–203, title X, §1100A(1)(A), July 21, 2010, 124 Stat. 2107.
 
 The Fair Credit Reporting Act, referred to in subsec. (a)(2)(A), is title VI of Pub. L. 90–321, as added by Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1127, as amended, which is classified generally to subchapter III (§1681 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
 The Farm Credit Act of 1971, referred to in subsec. (e)(4)(E), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, as amended, which is classified generally to chapter 23 (§2001 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 12 and Tables.
 
-Section 15 of the Securities Exchange Act of 1934, referred to in subsec. (e)(4)(F), is classified to section 78<i>o</i> of Title 15, Commerce and Trade.
+Section 15 of the Securities Exchange Act of 1934, referred to in subsec. (e)(4)(F), is classified to section 78o of Title 15, Commerce and Trade.
 
 Section 1(b) of the International Banking Act of 1978, referred to in subsec. (e)(4)(H), is classified to section 3101 of Title 12, Banks and Banking.
 
@@ -220,7 +220,7 @@ Subsec. (a)(5). Pub. L. 110–326, §204(a)(1), redesignated cls. (i) to (iii) o
 
 &emsp;“(v) damage affecting a computer system used by or for a government entity in furtherance of the administration of justice, national defense, or national security;”.
 
-Subsec. (a)(7). Pub. L. 110–326, §205, amended par. (7) generally. Prior to amendment, par. (7) read as follows: “with intent to extort from any person any money or other thing of value, transmits in interstate or foreign commerce any communication containing any threat to cause damage to a protected computer;”.
+Subsec. (a)(7). Pub. L. 110–326, §205, amended par. (7) generally. Prior to amendment, par. (7) read as follows: “with intent to extort from any person any money or other thing of value, transmits in interstate or foreigncommerce any communication containing any threat to cause damage to a protected computer;”.
 
 Subsec. (b). Pub. L. 110–326, §206, inserted “conspires to commit or” after “Whoever”.
 
@@ -302,7 +302,7 @@ Subsec. (a)(4). Pub. L. 104–294, §201(1)(D), substituted “protected compute
 
 Subsec. (a)(5). Pub. L. 104–294, §201(1)(E), inserted par. (5) and struck out former par. (5) which related to fraud in connection with computers in causing transmission of program, information, code, or command to a computer or computer system in interstate or foreign commerce which damages such system, program, information, or code, or causes a withholding or denial of use of hardware or software, or transmits viruses which causes damage in excess of $1,000 or more during any one-year period, or modifies or impairs medical examination, diagnosis, treatment or care of individuals.
 
-Subsec. (a)(5)(B)(ii)(II)(bb). Pub. L. 104–294, §604(b)(36)(A), which directed insertion of “or” at end of subsec., could not be executed because no subsec. (a)(5)(B)(ii)(II)(bb) existed subsequent to amendment by Pub. L. 104–294, §201(1)(E). See above.
+Subsec. (a)(5)(B)(ii)(II)(bb). Pub. L. 104–294, §604(b)(36)(A), which directed insertion of “or” at end ofsubsec., could not be executed because no subsec. (a)(5)(B)(ii)(II)(bb) existed subsequent to amendment by Pub. L. 104–294, §201(1)(E). See above.
 
 Subsec. (a)(7). Pub. L. 104–294, §201(1)(F), added par. (7).
 
@@ -388,7 +388,7 @@ Subsec. (c)(1)(A). Pub. L. 99–474, §2(f)(1), substituted “under this title�
 
 Subsec. (c)(1)(B). Pub. L. 99–474, §2(f)(2), substituted “under this title” for “of not more than the greater of $100,000 or twice the value obtained by the offense”.
 
-Subsec. (c)(2)(A). Pub. L. 99–474, §2(f)(3), (4), substituted “under this title” for “of not more than the greater of $5,000 or twice the value obtained or loss created by the offense” and inserted reference to subsec. (a)(6).
+Subsec. (c)(2)(A). Pub. L. 99–474, §2(f)(3), (4), substituted “under this title” for “of not more than thegreater of $5,000 or twice the value obtained or loss created by the offense” and inserted reference to subsec. (a)(6).
 
 Subsec. (c)(2)(B). Pub. L. 99–474, §2(f)(3), (5)–(7), substituted “under this title” for “of not more than the greater of $10,000 or twice the value obtained or loss created by the offense”, “not more than” for “not than”, inserted reference to subsec. (a)(6), and substituted “; and” for the period at end of subpar. (B).
 
@@ -408,7 +408,7 @@ For transfer of the functions, personnel, assets, and obligations of the United 
 
 #### Reports to Congress
 
-Section 2103 of Pub. L. 98–473 directed Attorney General to report to Congress annually, during first three years following Oct. 12, 1984, concerning prosecutions under this section.
+Pub. L. 98–473, title II, §2103, Oct. 12, 1984, 98 Stat. 2192, directed Attorney General to report to Congress annually, during first three years following Oct. 12, 1984, concerning prosecutions under this section.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

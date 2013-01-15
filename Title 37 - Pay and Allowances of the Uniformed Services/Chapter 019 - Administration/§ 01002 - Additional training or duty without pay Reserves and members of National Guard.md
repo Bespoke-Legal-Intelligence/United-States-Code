@@ -10,7 +10,7 @@
 
 (d) This section does not apply to a member who is entitled to basic pay under chapter 3 of this title.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 489; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 106–65, div. A, title VI, §672(a), Oct. 5, 1999, 113 Stat. 674; Pub. L. 112–81, div. A, title VI, §631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 489; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 106–65, div. A, title VI, §672(a), Oct. 5, 1999, 113 Stat. 674; Pub. L. 112–81, div. A, title VI, §631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
 
 Historical and Revision Notes
 
@@ -50,17 +50,19 @@ In subsection (b), the words “section 404(a)–(d), and (f), of this title” 
 
 Subsection (d) is substituted for section 301(e) of existing title 37.
 
-#### Codification
-
-Section 631(f)(4)(A) of Pub. L. 112–81, which directed that this title be amended by conforming any references to sections of this title which were transferred and redesignated by “subsection (c)” of section 631, was executed by conforming the references to those sections as transferred and redesignated by subsection (d) of section 631, to reflect the probable intent of Congress.
-
 #### Amendments
 
-<b>2011</b>—Subsec. (b)(1). Pub. L. 112–81 substituted “474” for “404”. See Codification note above.
+<b>2013</b>—Subsec. (b)(1). Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, §631(f)(4)(A). See 2011 Amendment note below.
+
+<b>2011</b>—Subsec. (b)(1). Pub. L. 112–81, §631(f)(4)(A), as amended by Pub. L. 112–239, §1076(a)(9), substituted “474” for “404”.
 
 <b>1999</b>—Subsec. (b). Pub. L. 106–65 designated existing provisions as par. (1) and added par. (2).
 
 <b>1991</b>—Subsec. (b). Pub. L. 102–25 struck out “of this section” after “subsection (a)”.
+
+#### Effective Date of 2013 Amendment
+
+Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
 
 #### Effective Date of 1999 Amendment
 

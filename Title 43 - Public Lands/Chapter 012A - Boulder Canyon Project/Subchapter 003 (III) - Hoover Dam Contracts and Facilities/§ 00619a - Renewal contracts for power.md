@@ -428,7 +428,7 @@ The Hoover Power Allocation Act of 2011, referred to in subsec. (a)(2)(A) and (4
 
 The Boulder Canyon Project Act, referred to in subsecs. (b) and (f)(1), is act Dec. 21, 1928, ch. 42, 45 Stat. 1057, which is classified generally to subchapter I (§617 et seq.) of this chapter. For complete classification of this Act to the Code, see section 617t of this title and Tables.
 
-The Boulder Canyon Project Adjustment Act, referred to in subsec. (f)(1), is act July 19, 1940, ch. 643, 54 Stat. 774, which is classified generally to subchapter II (§618 et seq.) of this chapter. For complete classification of this Act to the Code, see section 618<i>o</i> of this title and Tables.
+The Boulder Canyon Project Adjustment Act, referred to in subsec. (f)(1), is act July 19, 1940, ch. 643, 54 Stat. 774, which is classified generally to subchapter II (§618 et seq.) of this chapter. For complete classification of this Act to the Code, see section 618o of this title and Tables.
 
 Section 107 of this Act, referred to in subsec. (f)(2), is section 107 of Pub. L. 98–381, which is set out as a note under section 7133 of Title 42, The Public Health and Welfare.
 
@@ -460,7 +460,7 @@ Subsec. (c). Pub. L. 112–72, §2(i), amended subsec. (c) generally. Prior to a
 
 Subsec. (d). Pub. L. 112–72, §2(j), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The uprating program authorized under section 619(a) of this title shall be undertaken with funds advanced under contracts made with the Secretary of the Interior by non-Federal purchasers described in subsection (a)(1)(B) of this section. Funding provided by non-Federal purchasers shall be advanced to the Secretary of the Interior pursuant to the terms and conditions of such contracts.”
 
-Subsec. (e). Pub. L. 112–72, §2(<i>l</i>), struck out “the renewal of” before “contracts for electrical energy” in first sentence and substituted “October 1, 2017, and ending September 30, 2067” for “June 1, 1987, and ending September 30, 2017” in second sentence.
+Subsec. (e). Pub. L. 112–72, §2(l), struck out “the renewal of” before “contracts for electrical energy” in first sentence and substituted “October 1, 2017, and ending September 30, 2067” for “June 1, 1987, and ending September 30, 2017” in second sentence.
 
 Pub. L. 112–72, §2(k), redesignated subsec. (g) as (e) and struck out former subsec. (e) which read as follows: “Notwithstanding any other provisions of the law, funds advanced by non-Federal purchasers for use in the uprating program shall be deposited in the Colorado River Dam Fund and shall be available for the uprating program.”
 

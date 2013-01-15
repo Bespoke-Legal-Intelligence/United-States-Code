@@ -24,7 +24,7 @@ In General.—There is established in the Treasury of the United States a fund t
 
 &emsp;(E) Payment of amounts authorized by law with respect to remission and mitigation.
 
-&emsp;(F) Payment of claims of parties in interest to property disposed of under section 612(b) of the Tariff Act of 1930 (19 U.S.C. 1612(b)), in the amounts applicable to such claims at the time of seizure.
+&emsp;(F) Payment of claims of parties in interest to property disposed of under section 612(b) of the Tariff Act of 1930 (19 U.S.C. 1612(b)), in theamounts applicable to such claims at the time of seizure.
 
 &emsp;(G) Equitable sharing payments made to other Federal agencies, State and local law enforcement agencies, and foreign countries pursuant to section 616(c) of the Tariff Act of 1930 (19 U.S.C. 1616a(c)), section 981 of title 18, or subsection (h) of this section, and all costs related thereto.
 
@@ -114,7 +114,7 @@ Funds Available to United States Coast Guard.—
 
 &emsp;&emsp;(B) pay for equipment for any vessel, vehicle, equipment, or aircraft available for official use by a State or local law enforcement agency to enable the vessel, vehicle, or aircraft to assist in law enforcement functions if the vessel, vehicle, or aircraft will be used in joint law enforcement operations with the United States Coast Guard;
 
-&emsp;&emsp;(C) pay for overtime salaries, travel, fuel, training, equipment, and other similar costs of State and local law enforcement officersthat are incurred in joint law enforcement operations with the United States Coast Guard;
+&emsp;&emsp;(C) pay for overtime salaries, travel, fuel, training, equipment, and other similar costs of State and local law enforcement officers that are incurred in joint law enforcement operations with the United States Coast Guard;
 
 &emsp;&emsp;(D) pay for expenses incurred in bringing vessels into compliance with applicable environmental laws prior to disposal by sinking.
 
@@ -166,7 +166,7 @@ Reports to Congress.—The Secretary shall transmit to the Congress, not later t
 
 &emsp;&emsp;(D) any defendant's property, not forfeited at the end of the preceding fiscal year, if the equity in such property is valued at $1,000,000 or more;
 
-&emsp;&emsp;(E) the total dollar value of uncontested seizures of monetary instruments having a value of over $100,000 which, or the proceeds of which, have not been deposited into the Fund pursuant to subsection (d) within 120 days after seizure, as of the end of the preceding fiscal year;
+&emsp;&emsp;(E) the total dollar value of uncontested seizures of monetary instruments having avalue of over $100,000 which, or the proceeds of which, have not been deposited into the Fund pursuant to subsection (d) within 120 days after seizure, as of the end of the preceding fiscal year;
 
 &emsp;&emsp;(F) the balance of the Fund at the end of the preceding fiscal year;
 
@@ -196,7 +196,7 @@ Appropriations.—
 
 &emsp;(3)(A) Subject to subparagraphs (B) and (C), at the end of each of fiscal years 1994, 1995, 1996, and 1997, the Secretary shall transfer from the Fund not more than $100,000,000 to the Special Forfeiture Fund established by section 6073 of the Anti-Drug Abuse Act of 1988.<sup>7</sup>
 
-&emsp;(B) Transfers pursuant to subparagraph (A) shall be made only from excess unobligatedamounts and only to the extent that, as determined by the Secretary, such transfers will not impair the future availability of amounts for the purposes described in subsection (a). Further, transfers under subparagraph (A) may not exceed one-half of the excess unobligated balance for a year. In addition, transfers under subparagraph (A) may be made only to the extent that the sum of the transfers in a fiscal year and one-half of the unobligated balance at the beginning of that fiscal year for the Special Forfeiture Fund does not exceed $100,000,000.
+&emsp;(B) Transfers pursuant to subparagraph (A) shall be made only from excess unobligated amounts and only to the extent that, as determined by the Secretary, such transfers will not impair the future availability of amounts for the purposes described in subsection (a). Further, transfers under subparagraph (A) may not exceed one-half of the excess unobligated balance for a year. In addition, transfers under subparagraph (A) may be made only to the extent that the sum of the transfers in a fiscal year and one-half of the unobligated balance at the beginning of that fiscal year for the Special Forfeiture Fund does not exceed $100,000,000.
 
 &emsp;(C) The Secretary of the Treasury shall reserve an amount not to exceed $30,000,000 from the unobligated balances remaining in the Customs Forfeiture Fund on September 30, 1992, and such amount shall be transferred to the Fund on October 1, 1992, or, if later, the date that is 15 days after the date of the enactment of this section. Such amount shall be available for any expenses or activities authorized under this section. At the end of fiscal year <sup>8</sup> 1993, 1994, 1995, and 1996, the Secretary shall reserve in the Fund an amount not to exceed $50,000,000 of the unobligated balances in the Fund, or, if the Secretary determines that a greater amount is necessary for asset specific expenses, an amount equal to not more than 10 percent of the total obligations from the Fund in the preceding fiscal year. At the end of fiscal year 1997, and at the end of each fiscal year thereafter, the Secretary shall reserve any amounts that are required to be retained in the Fund to ensure the availability of amounts in the subsequent fiscal year for purposes authorized under subsection (a). Unobligated balances remaining pursuant to section 4(B) of 9703(g) <sup>9</sup> shall also be carried forward.
 
@@ -250,7 +250,7 @@ Customs Forfeiture Fund.—Notwithstanding any other provision of law—
 
 Limitation of Liability.—The United States shall not be liable in any action relating to property transferred under this section or under section 616 of the Tariff Act of 1930 (19 U.S.C. 1616a) if such action is based on an act or omission occurring after the transfer.
 
-(<i>l</i>)
+(l)
 
 Authority To Warrant Title.—Following the completion of procedures for the forfeiture of property pursuant to any law enforced or administered by the Department of the Treasury, the Secretary is authorized, at the Secretary's discretion, to warrant clear title to any subsequent purchaser or transferee of such forfeited property.
 
@@ -278,7 +278,7 @@ Transfers to Attorney General and Postmaster General.—
 
 &emsp;(2) The Secretary shall transfer from the Fund to the Postmaster General for deposit in the Postal Service Fund amounts appropriate to reflect the degree of participation of the United States Postal Service in the law enforcement effort resulting in the forfeiture pursuant to laws enforced or administered by a Department of the Treasury law enforcement organization.
 
-(<i>o</i>)
+(o)
 
 Definitions.—For purposes of this section—
 
@@ -294,7 +294,7 @@ Secretary.—The term “Secretary” means the Secretary of the Treasury.
 
 #### References in Text
 
-Sections 7301 and 7302 of the Internal Revenue Code of 1986, referred to in subsecs. (a), (d)(2)(A), (h)(1), and (j)(1), are classified to sections 7301 and 7302, respectively, of Title 26, Internal Revenue Code. Section 5872(b)(2) of the Internal Revenue Code of 1986, referred to in subsec. (<i>o</i>)(1), is classified to section 5872(b)(2) of Title 26.
+Sections 7301 and 7302 of the Internal Revenue Code of 1986, referred to in subsecs. (a), (d)(2)(A), (h)(1), and (j)(1), are classified to sections 7301 and 7302, respectively, of Title 26, Internal Revenue Code. Section 5872(b)(2) of the Internal Revenue Code of 1986, referred to in subsec. (o)(1), is classified to section 5872(b)(2) of Title 26.
 
 The Bank Secrecy Act, referred to in subsec. (a)(2)(B)(iv), is title I of Pub. L. 91–508, Oct. 26, 1970, 84 Stat. 1114, which is classified principally to chapter 21 (§1951 et seq.) of Title 12, Banks and Banking, and has also been the popular name of provisions reenacted as subchapter II of chapter 53 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1951 of Title 12 and Tables.
 
@@ -326,11 +326,11 @@ Section 524(c)(11) of title 28, referred to in subsec. (m), was redesignated sec
 
 &emsp;“(III) section 924(c) of title 18;”.
 
-Subsec. (<i>o</i>). Pub. L. 107–296, §1112(n)(2), (3), redesignated subsec. (p) as (<i>o</i>) and struck out former subsec. (<i>o</i>) which provided that provisions of law relating to the seizure, summary and judicial forfeiture, and condemnation of property for violation of Customs laws, the remission or mitigation of such forfeiture, and the compromise of claims, would apply to seizures and forfeitures incurred, or alleged to have been incurred, under any applicable law enforced or administered by the Bureau of Alcohol, Tobacco and Firearms, and that duties that were imposed upon a Customs officer or any other person with respect to the seizure and forfeiture of property under the Customs laws would be performed with respect to seizures and forfeitures of property under this section by such officers, agents, or any other person as had been authorized or designated for that purpose by the Secretary.
+Subsec. (o). Pub. L. 107–296, §1112(n)(2), (3), redesignated subsec. (p) as (o) and struck out former subsec. (o) which provided that provisions of law relating to the seizure, summary and judicial forfeiture, and condemnation of property for violation of Customs laws, the remission or mitigation of such forfeiture, and the compromise of claims, would apply to seizures and forfeitures incurred, or alleged to have been incurred, under any applicable law enforced or administered by the Bureau of Alcohol, Tobacco and Firearms, and that duties that were imposed upon a Customs officer or any other person with respect to the seizure and forfeiture of property under the Customs laws would be performed with respect to seizures and forfeitures of property under this section by such officers, agents, or any other person as had been authorized or designated for that purpose by the Secretary.
 
-Subsec. (<i>o</i>)(1). Pub. L. 107–296, §1112(n)(4), substituted “Tax and Trade Bureau” for “Bureau of Alcohol, Tobacco and Firearms”.
+Subsec. (o)(1). Pub. L. 107–296, §1112(n)(4), substituted “Tax and Trade Bureau” for “Bureau of Alcohol, Tobacco and Firearms”.
 
-Subsec. (p). Pub. L. 107–296, §1112(n)(3), redesignated subsec. (p) as (<i>o</i>).
+Subsec. (p). Pub. L. 107–296, §1112(n)(3), redesignated subsec. (p) as (o).
 
 <b>1997</b>—Subsec. (g)(3)(C). Pub. L. 105–61, §122(b), inserted at end “Unobligated balances remaining pursuant to section 4(B) of 9703(g) shall also be carried forward.”
 
@@ -366,7 +366,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Law
 
 #### Unavailable Collections
 
-Section 122(a) of Pub. L. 105–61 provided that: “The Secretary of the Treasury is authorized to receive all unavailable collections transferred from the Special Forfeiture Fund established by section 26073 \[6073\] of the Anti-Drug Abuse Act of 1988 (21 U.S.C. 1509) by the Director of the Office of Drug Control Policy as a deposit into the Treasury Forfeiture Fund (31 U.S.C. 9703(a)), to become available for obligation on October 1, 1998, as revenue available for purposes identified under 31 U.S.C. 9703(g)(4)(B).”
+Pub. L. 105–61, title I, §122(a), Oct. 10, 1997, 111 Stat. 1289, provided that: “The Secretary of the Treasury is authorized to receive all unavailable collections transferred from the Special Forfeiture Fund established by section 26073 \[6073\] of the Anti-Drug Abuse Act of 1988 (21 U.S.C. 1509) by the Director of the Office of Drug Control Policy as a deposit into the Treasury Forfeiture Fund (31 U.S.C. 9703(a)), to become available for obligation on October 1, 1998, as revenue available for purposes identified under 31 U.S.C. 9703(g)(4)(B).”
 
 <i><sup>1</sup></i><i> Another section 9703 is set out preceding section 9704 of this title.</i>
 

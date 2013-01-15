@@ -38,7 +38,7 @@
 
 <b>1992</b>—Pub. L. 102–572, title IX, §§902(a)(1), 910(b), Oct. 29, 1992, 106 Stat. 4516, 4520, substituted “UNITED STATES COURT OF FEDERAL CLAIMS” for “UNITED STATES CLAIMS COURT” in chapter heading and inserted “and incidental powers” in item 2521.
 
-<b>1982</b>—Pub. L. 97–164, title I, §139(b)(2), (i)(2), (<i>l</i>), (n)(4), (<i>o</i>)(2), (q)(2), Apr. 2, 1982, 96 Stat. 42–44, substituted “UNITED STATES CLAIMS COURT” for “COURT OF CLAIMS” in chapter heading, substituted “Proceedings generally” for “Proceedings before commissioners generally” in item 2503, substituted “Referral of cases by Comptroller General” for “Referral of cases by the Comptroller General or the head of an executive department or agency” in item 2510, struck out item 2518 “Certification of judgments for appropriation”, substituted “Fees” for “Fees; cost of printing record” in item 2520, and added item 2522.
+<b>1982</b>—Pub. L. 97–164, title I, §139(b)(2), (i)(2), (l), (n)(4), (o)(2), (q)(2), Apr. 2, 1982, 96 Stat. 42–44, substituted “UNITED STATES CLAIMS COURT” for “COURT OF CLAIMS” in chapter heading, substituted “Proceedings generally” for “Proceedings before commissioners generally” in item 2503, substituted “Referral of cases by Comptroller General” for “Referral of cases by the Comptroller General or the head of an executive department or agency” in item 2510, struck out item 2518 “Certification of judgments for appropriation”, substituted “Fees” for “Fees; cost of printing record” in item 2520, and added item 2522.
 
 <b>1978</b>—Pub. L. 95–563, §14(h)(2)(B), Nov. 1, 1978, 92 Stat. 2390, inserted “or the head of an executive department or agency” after “Comptroller General” in item 2510.
 

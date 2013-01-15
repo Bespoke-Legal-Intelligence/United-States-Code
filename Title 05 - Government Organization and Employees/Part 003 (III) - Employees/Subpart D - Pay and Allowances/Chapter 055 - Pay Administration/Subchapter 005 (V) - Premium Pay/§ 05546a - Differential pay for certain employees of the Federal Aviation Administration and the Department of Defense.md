@@ -1,6 +1,6 @@
 ### §5546a. Differential pay for certain employees of the Federal Aviation Administration and the Department of Defense
 
-(a) The Administrator of the Federal Aviation Administration (hereafter in this section referred to as the “Administrator”) and the Secretary of Defense (hereafter in this section referred to as the “Secretary”) may pay premiumpay at the rate of 5 per centum of the applicable rate of basic pay to—
+(a) The Administrator of the Federal Aviation Administration (hereafter in this section referred to as the “Administrator”) and the Secretary of Defense (hereafter in this section referred to as the “Secretary”) may pay premium pay at the rate of 5 per centum of the applicable rate of basic pay to—
 
 &emsp;(1) any employee of the Federal Aviation Administration or the Department of Defense who is—
 
@@ -64,11 +64,11 @@ Amendment by Pub. L. 98–525 effective Oct. 1, 1984, see section 1537(f) of Pub
 
 #### Effective Date of 1982 Amendment
 
-Section 145(b) of Pub. L. 97–377, as added by Pub. L. 98–78, title III, §320(2), Aug. 15, 1983, 97 Stat. 473, provided that: “The amendment made by subsection (a) of this section \[amending this section\] shall be effective as of 5 o'clock ante meridian eastern daylight time, August 3, 1981.”
+Pub. L. 97–377, title I, §145(b), as added by Pub. L. 98–78, title III, §320(2), Aug. 15, 1983, 97 Stat. 473, provided that: “The amendment made by subsection (a) of this section \[amending this section\] shall be effective as of 5 o'clock ante meridian eastern daylight time, August 3, 1981.”
 
 #### Effective Date
 
-Section 151(h)(1), (2) of Pub. L. 97–276 provided that:
+Pub. L. 97–276, §151(h)(1), Oct. 2, 1982, 96 Stat. 1202, provided that:
 
 “(1) The amendments made by subsections 152 \[151\] (b), (c), (e), and (g) of this joint resolution \[enacting subsecs. (a) and (b) of this section and amending sections 5532, 5547, and 8344 of this title\] shall take effect at 5 o'clock ante meridian eastern daylight time, August 3, 1981.
 

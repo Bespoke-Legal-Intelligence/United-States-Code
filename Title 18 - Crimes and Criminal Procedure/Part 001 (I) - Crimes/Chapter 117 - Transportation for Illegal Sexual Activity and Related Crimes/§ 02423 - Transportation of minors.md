@@ -28,7 +28,7 @@ Definition.—As used in this section, the term “illicit sexual conduct” mea
 
 Defense.—In a prosecution under this section based on illicit sexual conduct as defined in subsection (f)(2), it is a defense, which the defendant must establish by a preponderance of the evidence, that the defendant reasonably believed that the person with whom the defendant engaged in the commercial sex act had attained the age of 18 years.
 
-(June 25, 1948, ch. 645, 62 Stat. 812; Pub. L. 95–225, §3(a), Feb. 6, 1978, 92 Stat. 8; Pub. L. 99–628, §5(b)(1), Nov. 7, 1986, 100 Stat. 3511; Pub. L. 103–322, title XVI, §160001(g), Sept. 13, 1994, 108 Stat. 2037; Pub. L. 104–71, §5, Dec. 23, 1995, 109 Stat. 774; Pub. L. 104–294, title VI, §§601(b)(4), 604(b)(33), Oct. 11, 1996, 110 Stat. 3499, 3508; Pub. L. 105–314, title I, §103, Oct. 30, 1998, 112 Stat. 2976; Pub. L. 107–273, div. B, title IV, §4002(c)(1), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 108–21, title I,§§103(a)(2)(C), (b)(2)(B), 105, Apr. 30, 2003, 117 Stat. 652, 653; Pub. L. 109–248, title II, §204, July 27, 2006, 120 Stat. 613.)
+(June 25, 1948, ch. 645, 62 Stat. 812; Pub. L. 95–225, §3(a), Feb. 6, 1978, 92 Stat. 8; Pub. L. 99–628, §5(b)(1), Nov. 7, 1986, 100 Stat. 3511; Pub. L.103–322, title XVI, §160001(g), Sept. 13, 1994, 108 Stat. 2037; Pub. L. 104–71, §5, Dec. 23, 1995, 109 Stat. 774; Pub. L. 104–294, title VI, §§601(b)(4), 604(b)(33), Oct. 11, 1996, 110 Stat. 3499, 3508; Pub. L. 105–314, title I, §103, Oct. 30, 1998, 112 Stat. 2976; Pub. L. 107–273, div. B, title IV, §4002(c)(1), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 108–21, title I, §§103(a)(2)(C), (b)(2)(B), 105, Apr. 30, 2003, 117 Stat. 652, 653; Pub. L. 109–248, title II, §204, July 27, 2006, 120 Stat. 613.)
 
 #### Historical and Revision Notes
 

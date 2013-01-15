@@ -2,7 +2,7 @@
 
 (a) The Office of Personnel Management shall prescribe regulations to carry out the purpose of this subchapter.
 
-(b) Under such regulations, the Office may provide for the application of all or portions ofthe provisions of this subchapter (subject to any conditions or limitations the Office may establish)—
+(b) Under such regulations, the Office may provide for the application of all or portions of the provisions of this subchapter (subject to any conditions or limitations the Office may establish)—
 
 &emsp;(1) to any individual reduced to a grade of a covered pay schedule from a position not subject to this subchapter;
 

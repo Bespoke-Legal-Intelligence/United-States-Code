@@ -24,7 +24,7 @@
 
 Subject to subsection (c), projects carried out under subsection (a) may be carried out in any case in which the Secretary finds that—
 
-&emsp;(1) the environmental, economic, and social benefits of the project, both monetary and nonmonetary, justify the cost of the project; and
+&emsp;(1) the environmental, economic, and social benefits of the project, both monetary andnonmonetary, justify the cost of the project; and
 
 &emsp;(2) the project will not result in environmental degradation.
 

@@ -4,7 +4,7 @@
 
 In the performance of its functions, the Central Intelligence Agency is authorized to—
 
-&emsp;(1) Transfer to and receive from other Government agencies such sums as may be approved by the Office of Management and Budget, for the performance of any of the functions or activities authorized under section 403–4a of this title.,<sup>1</sup> and any other Government agency is authorized to transfer to or receive from the Agency such sums without regard to any provisions of law limiting or prohibiting transfers between appropriations. Sums transferred to the Agency in accordance with this paragraph may be expended for the purposes and under the authority of sections 403a to 403s of this title without regard to limitations of appropriations from which transferred;
+&emsp;(1) Transfer to and receive from other Government agencies such sums as may be approved by the Office of Management and Budget, for the performance of any of the functions or activities authorized under section 403–4a of this title.,<sup>1</sup> and any other Government agency is authorized to transfer to or receive from the Agency such sums without regard to any provisions of law limiting or prohibiting transfers between appropriations. Sums transferred to the Agency in accordance with this paragraphmay be expended for the purposes and under the authority of sections 403a to 403s of this title without regard to limitations of appropriations from which transferred;
 
 &emsp;(2) Exchange funds without regard to section 3651 of the Revised Statutes;
 

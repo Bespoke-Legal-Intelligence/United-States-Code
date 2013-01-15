@@ -62,7 +62,7 @@ In subsection (c), the words “After July 9, 1952” are omitted as executed. 5
 
 <b>1991</b>—Subsec. (a). Pub. L. 102–190 substituted “section 571(a)” for “section 555(a)”.
 
-<b>1985</b>—Subsec. (b). Pub. L. 99–145 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Reserve chief warrant officers of the Army and the Air Force shall be appointed in those grades, by warrant, by the Secretary concerned. Permanent reserve chief warrant officers of the Navy, Marine Corps, and Coast Guard shall be appointed in those grades, by commission, by the Secretary concerned. Permanent reserve warrant officers, W-1, shall be appointed in those grades, by warrant, by the Secretary concerned.”
+<b>1985</b>—Subsec. (b). Pub. L. 99–145 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Reserve chief warrant officers of the Army and the Air Force shall be appointed in those grades, bywarrant, by the Secretary concerned. Permanent reserve chief warrant officers of the Navy, Marine Corps, and Coast Guard shall be appointed in those grades, by commission, by the Secretary concerned. Permanent reserve warrant officers, W-1, shall be appointed in those grades, by warrant, by the Secretary concerned.”
 
 #### Effective Date of 1991 Amendment
 
@@ -70,11 +70,11 @@ Amendment by Pub. L. 102–190 effective Feb. 1, 1992, see section 1132 of Pub. 
 
 #### Effective Date of 1985 Amendment
 
-Section 531(d) of Pub. L. 99–145 provided that: “This section \[amending this section and section 555 of this title and enacting provisions set out below\] takes effect six months after the date of the enactment of this Act \[Nov. 8, 1985\].”
+Pub. L. 99–145, title V, §531(d), Nov. 8, 1985, 99 Stat. 633, provided that: “This section \[amending this section and section 555 of this title and enacting provisions set out below\] takes effect six months after the date of the enactment of this Act \[Nov. 8, 1985\].”
 
 #### Transition Provisions for 1985 Amendment
 
-Section 531(c) of Pub. L. 99–145 provided that:
+Pub. L. 99–145, title V, §531(c), Nov. 8, 1985, 99 Stat. 633, provided that:
 
 “(1) The amendments made by subsections (a) and (b) \[amending this section and section 555 of this title\] apply to any appointment of a warrant officer or chief warrant officer on or after the effective date of this section \[see Effective Date of 1985 Amendment note above\].
 

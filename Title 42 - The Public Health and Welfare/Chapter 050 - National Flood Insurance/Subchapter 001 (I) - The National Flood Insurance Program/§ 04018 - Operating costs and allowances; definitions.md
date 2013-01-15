@@ -1,6 +1,6 @@
 ### §4018. Operating costs and allowances; definitions
 
-(a) The Director shall from time to time negotiate with appropriate representatives of the insurance industry for the purpose of establishing—
+(a) The Administrator shall from time to time negotiate with appropriate representatives of the insurance industry for the purpose of establishing—
 
 &emsp;(1) a current schedule of operating costs applicable both to risk-sharing insurance companies and other insurers and to insurance companies and other insurers, insurance agents and brokers, and insurance adjustment organizations participating on other than a risk-sharing basis, and
 
@@ -18,17 +18,19 @@
 
 &emsp;&emsp;(C) loss adjustment expenses; and
 
-&emsp;&emsp;(D) other direct, actual, and necessary expenses which the Director finds are incurred in connection with selling or servicing flood insurance coverage; and
+&emsp;&emsp;(D) other direct, actual, and necessary expenses which the Administrator finds are incurred in connection with selling or servicing flood insurance coverage; and
 
-&emsp;(2) the term “operating allowances” shall (without limiting such term) include amounts for profit and contingencies which the Director finds reasonable and necessary to carry out the purposes of this chapter.
+&emsp;(2) the term “operating allowances” shall (without limiting such term) include amounts for profit and contingencies which the Administrator finds reasonable and necessary to carry out the purposes of this chapter.
 
-(Pub. L. 90–448, title XIII, §1311, Aug. 1, 1968, 82 Stat. 579; Pub. L. 98–181, title IV, §451(d)(1), Nov. 30, 1983, 97 Stat. 1229.)
+(Pub. L. 90–448, title XIII, §1311, Aug. 1, 1968, 82 Stat. 579; Pub. L. 98–181, title I \[title IV, §451(d)(1)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 112–141, div. F, title II, §100238(b)(1), July 6, 2012, 126 Stat. 958.)
 
 #### References in Text
 
 This chapter, referred to in subsec. (b)(2), was in the original a reference to “this title” meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
 #### Amendments
+
+<b>2012</b>—Subsecs. (a), (b)(1)(D), (2). Pub. L. 112–141 substituted “Administrator” for “Director”.
 
 <b>1983</b>—Subsecs. (a), (b)(1)(D), (2). Pub. L. 98–181 substituted “Director” for “Secretary” wherever appearing.
 

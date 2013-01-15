@@ -16,5 +16,5 @@ Section 2769f, Pub. L. 88–452, title I, §167, as added Pub. L. 91–177, titl
 
 #### Effective Date of Repeal
 
-Section 614 of Pub. L. 93–203 provided that the repeal by that section is effective with respect to fiscal years after June 30, 1974.
+Pub. L. 93–203, title VI, §614, Dec. 28, 1973, 87 Stat. 883, provided that the repeal by that section is effective with respect to fiscal years after June 30, 1974.
 

@@ -40,9 +40,9 @@ Paragraph (3) of subsection (c) of section 501 of the Internal Revenue Code of 1
 
 #### Congressional Statement of Findings
 
-Section 801 of title VIII of Pub. L. 91–452 provided that: “The Congress finds that illegal gambling involves widespread use of, and has an effect upon, interstate commerce and the facilities thereof.”
+Pub. L. 91–452, title VIII, §801, Oct. 15, 1970, 84 Stat. 936, provided that: “The Congress finds that illegal gambling involves widespread use of, and has an effect upon, interstate commerce and the facilities thereof.”
 
 #### Priority of State Laws
 
-Section 811 of title VIII of Pub. L. 91–452 provided that: “No provision of this title \[enacting this section and section 1955 of this title, amending section 2516 of this title, and enacting provisions set out as notes under this section and section 1955 of this title\] indicates an intent on the part of the Congress to occupy the field in which such provision operates to the exclusion of the law of a state or possession, or a political subdivision of a State or possession, on the same subject matter, or to relieve any person of any obligation imposed by any law of any State or possession, or political subdivision of a State or possession.”
+Pub. L. 91–452, title VIII, §811, Oct. 15, 1970, 84 Stat. 940, provided that: “No provision of this title \[enacting this section and section 1955 of this title, amending section 2516 of this title, and enacting provisions set out as notes under this section and section 1955 of this title\] indicates an intent on the part of the Congress to occupy the field in which such provision operates to the exclusion of the law of a state or possession, or a political subdivision of a State or possession, on the same subject matter, or to relieve any person of any obligation imposed by any law of any State or possession, or political subdivision of a State or possession.”
 

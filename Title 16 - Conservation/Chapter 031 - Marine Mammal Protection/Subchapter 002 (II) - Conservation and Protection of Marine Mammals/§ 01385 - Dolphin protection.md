@@ -30,7 +30,7 @@ For purposes of this section—
 
 #### (d) Labeling standard
 
-(1) It is a violation of section 45 of title 15 for any producer, importer, exporter, distributor, orseller of any tuna product that is exported from or offered for sale in the United States to include on the label of that product the term “dolphin safe” or any other term or symbol that falsely claims or suggests that the tuna contained in the product were harvested using a method of fishing that is not harmful to dolphins if the product contains tuna harvested—
+(1) It is a violation of section 45 of title 15 for any producer, importer, exporter, distributor, or seller of any tuna product that is exported from or offered for sale in the United States to include on the label of that product the term “dolphin safe” or any other term or symbol that falsely claims or suggests that the tuna contained in the product were harvested using a method of fishing that is not harmful to dolphins if the product contains tuna harvested—
 
 &emsp;(A) on the high seas by a vessel engaged in driftnet fishing;
 
@@ -82,7 +82,7 @@ For purposes of this section—
 
 #### (e) Enforcement
 
-Any person who knowingly and willfully makes a statement or endorsement described in subsection (d)(2)(B) of this section that is falseis liable for a civil penalty of not to exceed $100,000 assessed in an action brought in any appropriate district court of the United States on behalf of the Secretary.
+Any person who knowingly and willfully makes a statement or endorsement described in subsection (d)(2)(B) of this section that is false is liable for a civil penalty of not to exceed $100,000 assessed in an action brought in any appropriate district court of the United States on behalf of the Secretary.
 
 #### (f) Regulations
 
@@ -132,7 +132,7 @@ Section was not enacted as part of the Marine Mammal Protection Act of 1972 whic
 
 <b>1997</b>—Subsec. (d). Pub. L. 105–42, §5(a), amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows:
 
-“(1) It is a violation of section 45 of title 15 for any producer, importer, exporter, distributor, or seller ofany tuna product that is exported from or offered for sale in the United States to include on the label of that product the term ‘Dolphin Safe’ or any other term or symbol that falsely claims or suggests that the tuna contained in the product was harvested using a method of fishing that is not harmful to dolphins if the product contains—
+“(1) It is a violation of section 45 of title 15 for any producer, importer, exporter, distributor, or seller of any tuna product that is exported from or offered for sale in the United States to include on the label of that product the term ‘Dolphin Safe’ or any other term or symbol that falsely claims or suggests that the tuna contained in the product was harvested using a method of fishing that is not harmful to dolphins if the product contains—
 
 &emsp;“(A) tuna harvested on the high seas by a vessel engaged in driftnet fishing; or
 
@@ -150,7 +150,7 @@ Section was not enacted as part of the Marine Mammal Protection Act of 1972 whic
 
 &emsp;&emsp;“(II) a representative of the Inter-American Tropical Tuna Commission,
 
-> &emsp;which states that there was an approved observer on board the vessel during the entire trip and that purse seine nets were not intentionally deployed during the trip on or to encircle dolphin; and
+> &emsp;which states that there was an approved observer on board the vessel during the entire trip and that purseseine nets were not intentionally deployed during the trip on or to encircle dolphin; and
 
 &emsp;“(iii) the statements referred to in clauses (i) and (ii) are endorsed in writing by each exporter, importer, and processor of the product.”
 

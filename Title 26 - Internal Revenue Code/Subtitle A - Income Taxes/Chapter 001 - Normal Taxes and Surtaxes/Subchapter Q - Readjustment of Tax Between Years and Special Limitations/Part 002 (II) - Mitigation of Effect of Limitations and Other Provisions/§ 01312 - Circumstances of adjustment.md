@@ -66,5 +66,5 @@ The circumstances under which the adjustment provided in section 1311 is authori
 
 #### Effective Date of 1958 Amendment
 
-Section 59(c) of Pub. L. 85–866 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1314 of this title\] shall apply to determinations (as defined in section 1313(a)) made after November 14, 1954.”
+Pub. L. 85–866, title I, §59(c), Sept. 2, 1958, 72 Stat. 1647, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1314 of this title\] shall apply to determinations (as defined in section 1313(a)) made after November 14, 1954.”
 

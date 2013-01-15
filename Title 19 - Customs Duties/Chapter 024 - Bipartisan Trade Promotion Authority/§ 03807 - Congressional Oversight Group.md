@@ -10,7 +10,7 @@
 
 &emsp;In each Congress, the Congressional Oversight Group shall be comprised of the following Members of the House of Representatives:
 
-&emsp;&emsp;(A) The chairman and ranking member of the Committee on Ways and Means, and 3additional members of such Committee (not more than 2 of whom are members of the same political party).
+&emsp;&emsp;(A) The chairman and ranking member of the Committee on Ways and Means, and 3 additional members of such Committee (not more than 2 of whom are members of the same political party).
 
 &emsp;&emsp;(B) The chairman and ranking member, or their designees, of the committees of the House of Representatives which would have, under the Rules of the House of Representatives, jurisdiction over provisions of law affected by a trade agreement negotiations for which are conducted at any time during that Congress and to which this chapter would apply.
 

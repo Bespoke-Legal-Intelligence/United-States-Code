@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-A homeowners association (as defined in subsection (c)) shall be subject to taxation underthis subtitle only to the extent provided in this section. A homeowners association shall be considered an organization exempt from income taxes for the purpose of any law which refers to organizations exempt from income taxes.
+A homeowners association (as defined in subsection (c)) shall be subject to taxation under this subtitle only to the extent provided in this section. A homeowners association shall be considered an organization exempt from income taxes for the purpose of any law which refers to organizations exempt from income taxes.
 
 #### (b) Tax imposed
 
@@ -38,7 +38,7 @@ For purposes of this section—
 
 #### (3) Residential real estate management association
 
-&emsp;The term “residential real estate management association” means any organization meeting the requirements of subparagraph (A) of paragraph (1) with respect to a subdivision, development, or similar area substantially all the lots or buildings of which may only be used by individuals for residences.
+&emsp;The term “residential real estate management association” means any organizationmeeting the requirements of subparagraph (A) of paragraph (1) with respect to a subdivision, development, or similar area substantially all the lots or buildings of which may only be used by individuals for residences.
 
 #### (4) Timeshare association
 
@@ -118,21 +118,21 @@ Subsec. (c)(2). Pub. L. 95–600, §701(n)(1), substituted “by individuals for
 
 #### Effective Date of 1997 Amendment
 
-Section 966(e) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1996.”
+Pub. L. 105–34, title IX, §966(e), Aug. 5, 1997, 111 Stat. 895, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1996.”
 
 #### Effective Date of 1980 Amendment
 
-Section 105(b) of Pub. L. 96–605 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1980.”
+Pub. L. 96–605, title I, §105(b), Dec. 28, 1980, 94 Stat. 3523, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1980.”
 
 #### Effective Date of 1978 Amendment
 
-Amendment by section 301(b)(7) of Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, see section 301(c) of Pub. L. 95–600, set out as a note under section 11 of this title.
+Amendment by section 301(b)(7) of Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978,see section 301(c) of Pub. L. 95–600, set out as a note under section 11 of this title.
 
-Section 403(d)(3) of Pub. L. 95–600 provided that: “The amendments made by paragraphs (2), (3), and (4) of subsection (c) \[amending this section and sections 857 and 904 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 6, 1978\].”
+Pub. L. 95–600, title IV, §403(d)(3), Nov. 6, 1978, 92 Stat. 2869, provided that: “The amendments made by paragraphs (2), (3), and (4) of subsection (c) \[amending this section and sections 857 and 904 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 6, 1978\].”
 
-Section 701(n)(2) of Pub. L. 95–600 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to taxable years beginning after December 31, 1973.”
+Pub. L. 95–600, title VII, §701(n)(2), Nov. 6, 1978, 92 Stat. 2907, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to taxable years beginning after December 31, 1973.”
 
 #### Effective Date
 
-Section 2101(e) of Pub. L. 94–455 provided that: “Except as provided in subsection (f)(2) \[set out as a note under section 216 of this title\], the amendments made by this section \[enacting this section and amending sections 216 and 6012 of this title\] shall apply to taxable years beginning after December 31, 1973.”
+Pub. L. 94–455, title XXI, §2101(e), Oct. 4, 1976, 90 Stat. 1899, provided that: “Except as provided in subsection (f)(2) \[set out as a note under section 216 of this title\], the amendments made by this section \[enacting this section and amending sections 216 and 6012 of this title\] shall apply to taxable years beginning after December 31, 1973.”
 

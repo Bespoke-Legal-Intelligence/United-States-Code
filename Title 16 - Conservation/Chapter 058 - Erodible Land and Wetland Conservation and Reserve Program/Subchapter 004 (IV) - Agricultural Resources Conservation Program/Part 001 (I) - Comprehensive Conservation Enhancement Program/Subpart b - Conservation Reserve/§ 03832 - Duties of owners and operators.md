@@ -36,7 +36,7 @@ Under the terms of a contract entered into under this subpart, during the term o
 
 &emsp;&emsp;(B) to refund to the United States all rental payments and cost sharing payments received by the owner or operator, or accept such payment adjustments or make such refunds as the Secretary considers appropriate and consistent with the objectives of this subpart;
 
-> &emsp;unless the transferee of the land agrees with the Secretary to assume all obligations of the contract, except that no refund of rental payments and cost sharing payments shall be required if the land is purchased by or for the United States Fish and Wildlife Service, or the transferee and the Secretary agree to modifications to the contract, in a case in which the modifications are consistent with the objectives of the program, as determined by the Secretary;
+> &emsp;unless the transferee of the land agrees with the Secretary to assume all obligations of the contract, except that no refund of rental payments and cost sharing payments shall be required if the land is purchased by or for the United States Fish and Wildlife Service, or the transferee and the Secretary agree to modifications to the contract, in a case in whichthe modifications are consistent with the objectives of the program, as determined by the Secretary;
 
 &emsp;(8) not to conduct any harvesting or grazing, nor otherwise make commercial use of the forage, on land that is subject to the contract, nor adopt any similar practice specified in the contract by the Secretary as a practice that would tend to defeat the purposes of the contract, except that the Secretary may permit, consistent with the conservation of soil, water quality, and wildlife habitat (including habitat during nesting seasons for birds in the area)—
 
@@ -72,7 +72,7 @@ Under the terms of a contract entered into under this subpart, during the term o
 
 &emsp;(10) not to adopt any practice specified by the Secretary in the contract as a practice that would tend to defeat the purposes of this subpart; and
 
-&emsp;(11) to comply with such additional provisions as the Secretary determines are desirable and are included in the contract to carryout this subpart or to facilitate the practical administration of this subpart.
+&emsp;(11) to comply with such additional provisions as the Secretary determines are desirable and are included in the contract to carry out this subpart or to facilitate the practical administration of this subpart.
 
 #### (b) Conservation plans
 

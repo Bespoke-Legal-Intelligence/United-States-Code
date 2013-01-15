@@ -16,7 +16,7 @@ Congress makes the following findings:
 
 &emsp;(7) The Government of North Korea holds an estimated 200,000 political prisoners in camps that its State Security Agency manages through the use of forced labor, beatings, torture, and executions, and in which many prisoners also die from disease, starvation, and exposure.
 
-&emsp;(8) According to eyewitness testimony provided to the United States Congress by North Korean camp survivors, camp inmates have been used as sources of slave labor for the production of export goods, as targets for martial arts practice, and as experimental victims in the testing of chemical and biological poisons.
+&emsp;(8) According to eyewitness testimony provided to the United States Congress by NorthKorean camp survivors, camp inmates have been used as sources of slave labor for the production of export goods, as targets for martial arts practice, and as experimental victims in the testing of chemical and biological poisons.
 
 &emsp;(9) According to credible reports, including eyewitness testimony provided to the United States Congress, North Korean Government officials prohibit live births in prison camps, and forced abortion and the killing of newborn babies are standard prison practices.
 
@@ -54,6 +54,14 @@ Congress makes the following findings:
 
 (Pub. L. 108–333, §3, Oct. 18, 2004, 118 Stat. 1287.)
 
+#### Short Title of 2013 Amendment
+
+Pub. L. 112–264, §1, Jan. 14, 2013, 126 Stat. 2432, provided that: “This Act \[enacting section 7834 of this title and provisions set out as a note under section 7834 of this title\] may be cited as the ‘North Korean Child Welfare Act of 2012’.”
+
+#### Short Title of 2012 Amendment
+
+Pub. L. 112–172, §1, Aug. 16, 2012, 126 Stat. 1307, provided that: “This Act \[amending sections 7812, 7814, 7817, 7831, 7833, and 7845 of this title and enacting provisions set out as a note under this section\] may be cited as the ‘Ambassador James R. Lilley and Congressman Stephen J. Solarz North Korea Human Rights Reauthorization Act of 2012’.”
+
 #### Short Title of 2008 Amendment
 
 Pub. L. 110–346, §1, Oct. 7, 2008, 122 Stat. 3939, provided that: “This Act \[amending sections 7803, 7812, 7814, 7817, 7831, 7833, and 7845 of this title and enacting provisions set out as notes under this section\] may be cited as the ‘North Korean Human Rights Reauthorization Act of 2008’.”
@@ -63,6 +71,24 @@ Pub. L. 110–346, §1, Oct. 7, 2008, 122 Stat. 3939, provided that: “This Act
 Pub. L. 108–333, §1, Oct. 18, 2004, 118 Stat. 1287, provided that: “This Act \[enacting this chapter\] may be cited as the ‘North Korean Human Rights Act of 2004’.”
 
 #### Findings
+
+Pub. L. 112–172, §2, Aug. 16, 2012, 126 Stat. 1307, provided that: “Congress finds the following:
+
+&emsp;“(1) The North Korean Human Rights Act of 2004 (Public Law 108–333; 22 U.S.C. 7801 et seq.) and the North Korean Human Rights Reauthorization Act of 2008 (Public Law 110–346) \[see Short Title of 2008 Amendment note above\] were the product of broad, bipartisan consensus regarding the promotion of human rights, transparency in the delivery of humanitarian assistance, and the importance of refugee protection.
+
+&emsp;“(2) In addition to the longstanding commitment of the United States to refugee and human rights advocacy, the United States is home to the largest Korean population outside of northeast Asia, and many in the two-million strong Korean-American community have family ties to North Korea.
+
+&emsp;“(3) Although the transition to the leadership of Kim Jong-Un after the death of Kim Jong-Il has introduced new uncertainties and possibilities, the fundamental human rights and humanitarian conditions inside North Korea remain deplorable, North Korean refugees remain acutely vulnerable, and the findings in the 2004 Act and 2008 Reauthorization remain substantially accurate today.
+
+&emsp;“(4) Media and nongovernmental organizations have reported a crackdown on unauthorized border crossing during the North Korean leadership transition, including authorization for on-the-spot execution of attempted defectors, as well as an increase in punishments during the 100-day official mourning period after the death of Kim Jong-Il.
+
+&emsp;“(5) Notwithstanding high-level advocacy by the United States, the Republic of Korea, and the United Nations High Commissioner for Refugees, China has continued to forcibly repatriate North Koreans, including dozens of presumed refugees who were the subject of international humanitarian appeals during February and March of 2012.
+
+&emsp;“(6) The United States, which has the largest international refugee resettlement program in the world, has resettled 128 North Koreans since passage of the 2004 Act, including 23 North Koreans in fiscal year 2011.
+
+&emsp;“(7) In a career of Asia-focused public service that spanned more than half a century, including service as a senior United States diplomat in times and places where there were significant challenges to human rights, Ambassador James R. Lilley also served as a director of the Committee for Human Rights in North Korea until his death in 2009.
+
+&emsp;“(8) Following his 18 years of service in the House of Representatives, including as Chairman of the Foreign Affairs Subcommittee on East Asian and Pacific Affairs, Stephen J. Solarz committed himself to, in his words, highlighting ‘the plight of ordinary North Koreans who are denied even the most basic human rights, and the dramatic and heart-rending stories of those who risk their lives in the struggle to escape what is certainly the world's worst nightmare’, and served as co-chairman of the Committee for Human Rights in North Korea until his death in 2010.”
 
 Pub. L. 110–346, §2, Oct. 7, 2008, 122 Stat. 3939, provided that: “Congress finds the following:
 
@@ -80,7 +106,7 @@ Pub. L. 110–346, §2, Oct. 7, 2008, 122 Stat. 3939, provided that: “Congress
 
 &emsp;“(7) The Special Envoy appointed by the President has filled that position on a part-time basis only.
 
-&emsp;“(8) Since the passage of the North Korean Human Rights Act, Congress has on several occasions expressed interest in the status of North Korean refugees, and on February 21, 2006, a bipartisan group of senior Members of the House and Senate wrote Secretary of State Condoleezza Rice ‘to express \[their\] deep concern for the lack of progress in funding and implementing the key provisions of the North KoreanHuman Rights Act’, particularly the lack of North Korean refugee admissions to the United States.
+&emsp;“(8) Since the passage of the North Korean Human Rights Act, Congress has on several occasions expressed interest in the status of North Korean refugees, and on February 21, 2006, a bipartisan group of senior Members of the House and Senate wrote Secretary of State Condoleezza Rice ‘to express \[their\] deep concern for the lack of progress in funding and implementing the key provisions of the North Korean Human Rights Act’, particularly the lack of North Korean refugee admissions to the United States.
 
 &emsp;“(9) Although the United States refugee resettlement program remains the largest in the world by far, the United States has resettled only 37 North Koreans in the period from 2004 through 2007.
 

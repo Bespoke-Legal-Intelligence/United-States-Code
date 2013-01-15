@@ -2,7 +2,7 @@
 
 (a)
 
-Exchange Authorized.—(1) The Secretary concerned may enter into an agreement to convey real property, including any improvements thereon, described in paragraph (2) to any eligible entity who agrees, in exchange for the real property, to transfer to the United States all right, title, and interest of the entity in and to a parcel of real property, including any improvements thereon under their control, or to carry out a land acquisition, including the acquisition of all right, title, and interest or a lesser interest in real property under an agreement entered into under section 2684a of this title to limit encroachments and other constraints on military training, testing, and operations.
+Exchange Authorized.—(1) The Secretary concerned may enter into an agreement to convey real property, including any improvements thereon, described in paragraph (2) to any person who agrees, in exchange for the real property, to transfer to the United States all right, title, and interest of the person in and to a parcel of real property, including any improvements thereon under the person's control, or to carry out a land acquisition, including the acquisition of all right, title, and interest or a lesser interest in real property under an agreement entered into under section 2684a of this title to limit encroachments and other constraints on military training, testing, and operations.
 
 (2) Paragraph (1) applies with respect to real property under the jurisdiction of the Secretary concerned that—
 
@@ -38,7 +38,7 @@ Advance Notice of Use of Authority.—(1) Notice of the proposed use of the conv
 
 (e)
 
-Deposit and Use of Funds.—The Secretary concerned shall deposit funds received under subsection (b) in the appropriation “Foreign Currency Fluctuations, Construction, Defense”. The funds deposited shall be available, in such amounts as provided in appropriation Acts, for the purpose of paying increased costs of overseas military construction and family housing construction or improvement associated with unfavorable fluctuations in currency exchange rates. The use of such funds for this purpose does not relieve the Secretary concerned from the duty to provide advance notice to Congress under section 2853(c) of this title whenever the Secretary approves an increase in the cost of an overseas project under such section.
+Deposit and Use of Funds.—The Secretary concerned shall deposit funds received under subsection (b) in the appropriation “Foreign Currency Fluctuations, Construction, Defense”. The funds deposited shall be available, in such amounts as provided in appropriation Acts, for the purpose of paying increased costs of overseas military construction and family housing construction or improvement associated with unfavorable fluctuations in currency exchange rates. The use of such funds for this purpose does not relieve the Secretary concerned from the dutyto provide advance notice to Congress under section 2853(c) of this title whenever the Secretary approves an increase in the cost of an overseas project under such section.
 
 (f)
 
@@ -48,9 +48,11 @@ Description of Property.—The exact acreage and legal description of real prope
 
 Additional Terms and Conditions.—The Secretary concerned may require such additional terms and conditions in connection with a conveyance under subsection (a) as the Secretary considers appropriate to protect the interests of the United States.
 
-(Added Pub. L. 108–136, div. B, title XXVIII, §2805(a)(1), Nov. 24, 2003, 117 Stat. 1719; amended Pub. L. 109–364, div. B, title XXVIII, §2811(a)–(f)(1), Oct. 17, 2006, 120 Stat. 2471–2473; Pub. L. 111–84, div. B, title XXVIII, §2804(a)–(d)(1), Oct. 28, 2009, 123 Stat. 2661, 2662; Pub. L. 112–81, div. B, title XXVIII, §2815(a), (b), Dec. 31, 2011, 125 Stat. 1688, 1689.)
+(Added Pub. L. 108–136, div. B, title XXVIII, §2805(a)(1), Nov. 24, 2003, 117 Stat. 1719; amended Pub. L. 109–364, div. B, title XXVIII, §2811(a)–(f)(1), Oct. 17, 2006, 120 Stat. 2471–2473; Pub. L. 111–84, div. B, title XXVIII, §2804(a)–(d)(1), Oct. 28, 2009, 123 Stat. 2661, 2662; Pub. L. 112–81, div. B, title XXVIII, §2815(a), (b), Dec. 31, 2011, 125 Stat. 1688, 1689; Pub. L. 112–239, div. B, title XXVIII, §2811, Jan. 2, 2013, 126 Stat. 2150.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (a)(1). Pub. L. 112–239 substituted “any person” for “any eligible entity”, “the person” for “the entity”, and “the person's control” for “their control”.
 
 <b>2011</b>—Pub. L. 112–81, §2815(a)(1), substituted “Exchange of property at military installations” for “Conveyance of property at military installations to limit encroachment” in section catchline.
 

@@ -8,7 +8,7 @@ A State receiving a grant under this subchapter, through reports provided to the
 
 &emsp;(3) shall demonstrate that they will have addressed unmet needs identified by the inventory and description of current services required under section 5116d(3) of this title;
 
-&emsp;(4) shall describe the number of families served, including families with children with disabilities, and parents with disabilities, and the involvement of a diverse representation of families in the design, operation, and evaluation of community-based and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect, and in the design, operation, and evaluation of the networks of such community-based and prevention-focused programs;
+&emsp;(4) shall describe the number of families served, including families with children with disabilities, and parents with disabilities, andthe involvement of a diverse representation of families in the design, operation, and evaluation of community-based and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect, and in the design, operation, and evaluation of the networks of such community-based and prevention-focused programs;
 
 &emsp;(5) shall demonstrate a high level of satisfaction among families who have used the services of the community-based and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect;
 

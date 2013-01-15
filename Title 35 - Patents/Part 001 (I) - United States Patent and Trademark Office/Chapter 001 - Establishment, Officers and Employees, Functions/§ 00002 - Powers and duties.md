@@ -24,9 +24,11 @@ Specific Powers.—The Office—
 
 &emsp;&emsp;(D) may govern the recognition and conduct of agents, attorneys, or other persons representing applicants or other parties before the Office, and may require them, before being recognized as representatives of applicants or other persons, to show that they are of good moral character and reputation and are possessed of the necessary qualifications to render to applicants or other persons valuable service, advice, and assistance in the presentation or prosecution of their applications or other business before the Office;
 
-&emsp;&emsp;(E) shall recognize the public interest in continuing to safeguard broad access to the United States patent system through the reduced fee structure for small entities under section 41(h)(1) of this title; and
+&emsp;&emsp;(E) shall recognize the public interest in continuing to safeguard broad access to the United States patent system through the reduced fee structure for small entities under section 41(h)(1);
 
-&emsp;&emsp;(F) provide for the development of a performance-based process that includes quantitative and qualitative measures and standards for evaluating cost-effectiveness and is consistent with the principles of impartiality and competitiveness;
+&emsp;&emsp;(F) provide for the development of a performance-based process that includes quantitative and qualitative measures and standards for evaluating cost-effectiveness and is consistent with the principles of impartiality and competitiveness; and
+
+&emsp;&emsp;(G) may, subject to any conditions prescribed by the Director and at the request of the patent applicant, provide for prioritization of examination of applications for products, processes, or technologies that are important to the national economy or national competitiveness without recovering the aggregate extra cost of providing such prioritization, notwithstanding section 41 or any other provision of law;
 
 &emsp;(3) may acquire, construct, purchase, lease, hold, manage, operate, improve, alter, and renovate any real, personal, or mixed property, or any interest therein, as it considers necessary to carry out its functions;
 
@@ -36,7 +38,7 @@ Specific Powers.—The Office—
 
 &emsp;(5) may use, with their consent, services, equipment, personnel, and facilities of other departments, agencies, and instrumentalities of the Federal Government, on a reimbursable basis, and cooperate with such other departments, agencies, and instrumentalities in the establishment and use of services, equipment, and facilities of the Office;
 
-&emsp;(6) may, when the Director determines that it is practicable, efficient, and cost-effectiveto do so, use, with the consent of the United States and the agency, instrumentality, Patent and Trademark Office, or international organization concerned, the services, records, facilities, or personnel of any State or local government agency or instrumentality or foreign patent and trademark office or international organization to perform functions on its behalf;
+&emsp;(6) may, when the Director determines that it is practicable, efficient, and cost-effective to do so, use, with the consent of the United States and the agency, instrumentality, Patent and Trademark Office, or international organization concerned, the services, records, facilities, or personnel of any State or local government agency or instrumentality or foreign patent and trademark office or international organization to perform functions on its behalf;
 
 &emsp;(7) may retain and use all of its revenues and receipts, including revenues from the sale, lease, or disposal of any real, personal, or mixed property, or any interest therein, of the Office;
 
@@ -46,7 +48,7 @@ Specific Powers.—The Office—
 
 &emsp;(10) shall provide guidance, as appropriate, with respect to proposals by agencies to assist foreign governments and international intergovernmental organizations on matters of intellectual property protection;
 
-&emsp;(11) may conduct programs, studies, or exchanges of items or services regarding domestic and international intellectual property law and the effectiveness of intellectual property protection domestically and throughout the world;
+&emsp;(11) may conduct programs, studies, or exchanges of items or services regarding domestic and international intellectual property law and the effectiveness of intellectual property protection domestically and throughout the world, and the Office is authorized to expend funds to cover the subsistence expenses and travel-related expenses, including per diem, lodging costs, and transportation costs, of persons attending such programs who are not Federal employees;
 
 &emsp;(12)(A) shall advise the Secretary of Commerce on programs and studies relating to intellectual property policy that are conducted, or authorized to be conducted, cooperatively with foreign intellectual property offices and international intergovernmental organizations; and
 
@@ -74,18 +76,6 @@ Construction.—Nothing in this section shall be construed to nullify, void, can
 
 (July 19, 1952, ch. 950, 66 Stat. 792; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4712\], Nov. 29, 1999, 113 Stat. 1536, 1501A–572; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 107–273, div. C, title III, §13206(a)(1), Nov. 2, 2002, 116 Stat. 1904; Pub. L. 108–178, §4(g), Dec. 15, 2003, 117 Stat. 2641; Pub. L. 111–350, §5(i)(1), Jan. 4, 2011, 124 Stat. 3849; Pub. L. 112–29, §§20(j), 21(a), 25, Sept. 16, 2011, 125 Stat. 335, 337.)
 
-#### Amendment of Section
-
-<i>Pub. L. 112–29, §§25, 35, Sept. 16, 2011, 125 Stat. 337, 341, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to any patent issued on or after that effective date, subsection (b)(2) of this section is amended by striking “and” after the semicolon in subparagraph (E), inserting “and” after the semicolon in subparagraph (F), and adding at the end the following:</i>
-
-&emsp;&emsp;<i>“(G) may, subject to any conditions prescribed by the Director and at the request of the patent applicant, provide for prioritization of examination of applications for products, processes, or technologies that are important to the national economy or national competitiveness without recovering the aggregate extra cost of providing such prioritization, notwithstanding section 41 or any other provision of law;”.</i>
-
-<i>See 2011 Amendment note below.</i>
-
-<i>Pub. L. 112–29, §§21(a), 35, Sept. 16, 2011, 125 Stat. 335, 341, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to any patent issued on or after that effective date, subsection (b)(11) of this section is amended by inserting “, and the Office is authorized to expend funds to cover the subsistence expenses and travel-related expenses, including per diem, lodging costs, and transportation costs, of persons attending such programs who are not Federal employees” after “world”. See 2011 Amendment note below.</i>
-
-<i>Pub. L. 112–29, §20(j), (l), Sept. 16, 2011, 125 Stat. 335, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, this section is amended by striking “of this title” each place that term appears. See 2011 Amendment note below.</i>
-
 #### Historical and Revision Notes
 
 Based on Title 35, U.S.C., 1946 ed., §3 (R.S. 478).
@@ -102,7 +92,7 @@ The McKinney-Vento Homeless Assistance Act, referred to in subsec. (b)(4)(A), is
 
 Subsec. (b)(2)(G). Pub. L. 112–29, §25, added subpar. (G).
 
-Subsec. (b)(4)(A). Pub. L. 111–350 substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)”.
+Subsec. (b)(4)(A). Pub. L. 111–350 substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “title III of the FederalProperty and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)”.
 
 Subsec. (b)(11). Pub. L. 112–29, §21(a), inserted “, and the Office is authorized to expend funds to cover the subsistence expenses and travel-related expenses, including per diem, lodging costs, and transportation costs, of persons attending such programs who are not Federal employees” after “world”.
 
@@ -118,9 +108,11 @@ Subsec. (b)(11). Pub. L. 112–29, §21(a), inserted “, and the Office is aut
 
 #### Effective Date of 2011 Amendment
 
-Pub. L. 112–29, §20(<i>l</i>), Sept. 16, 2011, 125 Stat. 335, provided that: “The amendments made by this section \[amending this section and sections 3, 12, 32, 41, 103, 104, 111, 116, 119 to 123, 132, 135, 143, 145, 146, 154, 157, 162, 172, 182 to 186, 202, 207, 209, 210, 251, 253, 256, 257, 267, 282, 284, 287, 288, 291, 294, 302 to 307, 328, 363, 365, 368, and 371 to 375 of this title and repealing sections 155 and 155A of this title\] shall take effect upon the expiration of the 1-year period beginning on the date of the enactment of this Act \[Sept. 16, 2011\] and shall apply to proceedings commenced on or after that effective date.”
+Pub. L. 112–274, §1(g), Jan. 14, 2013, 126 Stat. 2457, provided that: “Notwithstanding section 35 of the Leahy-Smith America Invents Act (35 U.S.C. 1 note), the amendments made by section 21 of the Leahy-Smith America Invents Act (Public Law 112–29; 125 Stat. 335) \[amending this section and section 3 of this title\] shall be effective as of September 16, 2011.”
 
-Except as otherwise provided in Pub. L. 111–29, amendment by Pub. L. 111–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to any patent issued on or after that effective date, see section 35 of Pub. L. 112–29, set out as a note under section 1 of this title.
+Pub. L. 112–29, §20(l), Sept. 16, 2011, 125 Stat. 335, provided that: “The amendments made by this section \[amending this section and sections 3, 12, 32, 41, 103, 104, 111, 116, 119 to 123, 132, 135, 143, 145, 146, 154, 157, 162, 172, 182 to 186, 202, 207, 209, 210, 251, 253, 256, 257, 267, 282, 284, 287, 288, 291, 294, 302 to 307, 328, 363, 365, 368, and 371 to 375 of this title and repealing sections 155 and 155A of this title\] shall take effect upon the expiration of the 1-year period beginning on the date of the enactment of this Act \[Sept. 16, 2011\] and shall apply to proceedings commenced on or after that effective date.”
+
+Except as otherwise provided in Pub. L. 112–29, amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to any patent issued on or after that effective date, see section 35 of Pub. L. 112–29, set out as a note under section 1 of this title.
 
 #### Effective Date of 2003 Amendment
 

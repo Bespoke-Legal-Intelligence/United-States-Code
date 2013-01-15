@@ -48,7 +48,7 @@ In general.—The Director, in consultation with the advisory board established 
 
 &emsp;(2)
 
-Progress reports.—The Director shall submit an initial report on the plan to improve the national intermodal transportation system 2 years after the date of enactment of the Motor Carrier Safety Reauthorization Act of 2005, and a follow-up report 2 years after that, to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives. The progress report shall—
+Progress reports.—The Director shall submit an initial report on the plan to improve the national intermodal transportation system 2 years after the date of enactment of the Motor Carrier Safety Reauthorization Act of 2005, and a follow-up report 2 years after that, to the Committee on Commerce, Science, and Transportation of the Senate and theCommittee on Transportation and Infrastructure of the House of Representatives. The progress report shall—
 
 &emsp;&emsp;(A) describe progress made toward achieving the plan's goals;
 

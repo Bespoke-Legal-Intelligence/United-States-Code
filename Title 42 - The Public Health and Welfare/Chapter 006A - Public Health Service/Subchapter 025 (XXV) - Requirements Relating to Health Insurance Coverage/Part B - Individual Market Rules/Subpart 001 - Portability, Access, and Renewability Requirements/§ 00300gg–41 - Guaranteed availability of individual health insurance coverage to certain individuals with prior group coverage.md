@@ -48,7 +48,7 @@ In this part, the term “eligible individual” means an individual—
 
 #### (A) In general
 
-&emsp;&emsp;The requirement of this paragraph is met, for health insurance coverage policy forms offered by an issuer in the individual market, if the issuer offers a lower-level coverage policy form (as defined in subparagraph (B)) and a higher-level coverage policyform (as defined in subparagraph (C)) each of which includes benefits substantially similar to other individual health insurance coverage offered by the issuer in that State and each of which is covered under a method described in section 300gg–44(c)(3)(A) of this title (relating to risk adjustment, risk spreading, or financial subsidization).
+&emsp;&emsp;The requirement of this paragraph is met, for health insurance coverage policy formsoffered by an issuer in the individual market, if the issuer offers a lower-level coverage policy form (as defined in subparagraph (B)) and a higher-level coverage policy form (as defined in subparagraph (C)) each of which includes benefits substantially similar to other individual health insurance coverage offered by the issuer in that State and each of which is covered under a method described in section 300gg–44(c)(3)(A) of this title (relating to risk adjustment, risk spreading, or financial subsidization).
 
 #### (B) Lower-level of coverage described
 
@@ -114,7 +114,7 @@ In this part, the term “eligible individual” means an individual—
 
 #### (2) Conversion policies
 
-&emsp;A health insurance issuer offering health insurance coverage in connection with group health plans under this subchapter shall not be deemed to be a health insurance issuer offering individual health insurance coverage solely because such issuer offers a conversion policy.
+&emsp;A health insurance issuer offering health insurance coverage in connection with group health plans under this subchapter shall not be deemed to be a health insurance issuer offering individual health insurance coveragesolely because such issuer offers a conversion policy.
 
 #### (f) Construction
 

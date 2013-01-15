@@ -24,7 +24,7 @@ Disclosure of Presentence Reports.—The court shall assure that a report filed 
 
 <b>1986</b>—Subsec. (b). Pub. L. 99–646, §7(a)(1), (2), substituted “study shall be” for “study shall take” and inserted “, if the defendant is in custody,” after “United States marshal shall”.
 
-Subsec. (c). Pub. L. 99–646, §7(a)(3), substituted “the court may order the same psychiatric or psychological examination and report thereon as may be ordered under section 4244(b) of this title” for “it may order that the defendant undergo a psychiatric or psychological examination and that the court be provided with a written report of the results of the examination pursuant to the provisions of section 4247”.
+Subsec. (c). Pub. L. 99–646, §7(a)(3), substituted “the court may order the same psychiatric or psychological examination and report thereon as may be ordered under section 4244(b) of this title” for “it may orderthat the defendant undergo a psychiatric or psychological examination and that the court be provided with a written report of the results of the examination pursuant to the provisions of section 4247”.
 
 #### Effective Date of 1990 Amendment
 
@@ -32,7 +32,7 @@ Amendment by Pub. L. 101–647 effective 180 days after Nov. 29, 1990, see secti
 
 #### Effective Date of 1986 Amendment
 
-Section 7(b) of Pub. L. 99–646 provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of the taking effect of section 3552 of title 18, United States Code \[Nov. 1, 1987\].”
+Pub. L. 99–646, §7(b), Nov. 10, 1986, 100 Stat. 3593, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of the taking effect of section 3552 of title 18, United States Code \[Nov. 1, 1987\].”
 
 #### Effective Date
 

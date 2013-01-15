@@ -2,7 +2,7 @@
 
 #### (a) Designation of wilderness areas; filing of maps and descriptions with Congressional committees; correction of errors; public records; availability of records in regional offices
 
-All areas within the national forests classified at least 30 days before September 3, 1964 by the Secretary of Agriculture or the Chief of the Forest Service as “wilderness”, “wild”, or “canoe” are hereby designated as wilderness areas. The Secretary of Agriculture shall—
+All areas within the national forests classified at least 30 days before September 3, 1964 by theSecretary of Agriculture or the Chief of the Forest Service as “wilderness”, “wild”, or “canoe” are hereby designated as wilderness areas. The Secretary of Agriculture shall—
 
 &emsp;(1) Within one year after September 3, 1964, file a map and legal description of each wilderness area with the Interior and Insular Affairs Committees of the United States Senate and the House of Representatives, and such descriptions shall have the same force and effect as if included in this chapter: <i>Provided, however</i>, That correction of clerical and typographical errors in such legal descriptions and maps may be made.
 
@@ -14,7 +14,7 @@ The Secretary of Agriculture shall, within ten years after September 3, 1964, re
 
 #### (c) Review by Secretary of the Interior of roadless areas of national park system and national wildlife refuges and game ranges and suitability of areas for preservation as wilderness; authority of Secretary of the Interior to maintain roadless areas in national park system unaffected
 
-Within ten years after September 3, 1964 the Secretary of the Interior shall review every roadless area of five thousand contiguous acres or more in the national parks, monuments and other units of the national park system and every such area of, and every roadless island within the national wildlife refuges and game ranges, under his jurisdiction on September 3, 1964 and shall report to the President his recommendation as to the suitability or nonsuitability of each such area or island for preservation as wilderness. The President shall advise the President of the Senate and the Speaker of the House of Representatives of his recommendation with respect to the designation as wilderness of each such area or island on which review has been completed, together with a map thereof and a definition of its boundaries. Such advice shall be given with respect to not less than one-third of the areas and islands to be reviewed under this subsection within three years after September 3, 1964, not less than two-thirds within seven years of September 3, 1964 and the remainder within ten years of September 3, 1964.A recommendation of the President for designation as wilderness shall become effective only if so provided by an Act of Congress. Nothing contained herein shall, by implication or otherwise, be construed to lessen the present statutory authority of the Secretary of the Interior with respect to the maintenance of roadless areas within units of the national park system.
+Within ten years after September 3, 1964 the Secretary of the Interior shall review every roadless area of five thousand contiguous acres or more in the national parks, monuments and other units of the national park system and every such area of, and every roadless island within the national wildlife refuges and game ranges, under his jurisdiction on September 3, 1964 and shall report to the President his recommendation as to the suitability or nonsuitability of each such area or island for preservation as wilderness. The President shall advise the President of the Senate and the Speaker of the House of Representatives of his recommendation with respect to the designation as wilderness of each such area or island on which review has been completed, together with a map thereof and a definition of its boundaries. Such advice shall be given with respect to not less than one-third of the areas and islands to be reviewed under this subsection within three years after September 3, 1964, not less than two-thirds within seven years of September 3, 1964 and the remainder within ten years of September 3, 1964. A recommendation of the President for designation as wilderness shall become effective only if so provided by an Act of Congress. Nothing contained herein shall, by implication or otherwise, be construed to lessen the present statutory authority of the Secretary of the Interior with respect to the maintenance of roadless areas within units of the national park system.
 
 #### (d) Conditions precedent to administrative recommendations of suitability of areas for preservation as wilderness; publication in Federal Register; public hearings; views of State, county, and Federal officials; submission of views to Congress
 
@@ -580,7 +580,9 @@ Gulf Islands Wilderness, Gulf Islands National Seashore, Florida and Mississippi
 
 Gunnison Gorge Wilderness, Gunnison Gorge National Conservation Area, Colorado.—Pub. L. 106–76, §8, Oct. 21, 1999, 113 Stat. 1130.
 
-Haleakala�AE8 Wilderness, Haleakala�AE8 National Park, Hawaii.—Pub. L. 94–567, §1(e), Oct. 20, 1976, 90 Stat. 2692; Pub. L. 106–510, §4(b), Nov. 13, 2000, 114 Stat. 2364.
+Hain Wilderness (former Pinnacles Wilderness), Pinnacles National Park, California.—Pub. L. 94–567, §1(i), Oct. 20, 1976, 90 Stat. 2693; Pub. L. 107–370, §2(c), Dec. 19, 2002, 116 Stat. 3072; Pub. L. 112–245, §§3(c)(2), 4, Jan. 10, 2013, 126 Stat. 2386.
+
+Haleakalā Wilderness, Haleakalā National Park, Hawaii.—Pub. L. 94–567, §1(e), Oct. 20, 1976, 90 Stat. 2692; Pub. L. 106–510, §4(b), Nov. 13, 2000, 114 Stat. 2364.
 
 Harcuvar Mountains Wilderness, La Paz County, Arizona.—Pub. L. 101–628, title I, §101(a)(9), Nov. 28, 1990, 104 Stat. 4470.
 
@@ -1016,7 +1018,7 @@ Okefenokee Wilderness, Okefenokee National Wildlife Refuge, Georgia.—Pub. L. 9
 
 Old Woman Mountains Wilderness, California Desert Conservation Area, of Bureau of Land Management, California.—Pub. L. 103–433, title I, §102(43), Oct. 31, 1994, 108 Stat. 4478.
 
-Olympic Wilderness, Olympic National Park, Washington.—Pub. L. 100–668, title I, §101, Nov. 16, 1988, 102 Stat. 3961.
+Olympic Wilderness, Olympic National Park, Washington.—Pub. L. 100–668, title I, §101, Nov. 16, 1988, 102 Stat. 3961; Pub. L. 112–97, Feb. 27, 2012, 126 Stat. 257.
 
 Opal Creek Wilderness, Willamette National Forest, Oregon.—Pub. L. 104–208, div. B, title I, §104, Sept. 30, 1996, 110 Stat. 3009–523; Pub. L. 104–333, div. I, title X, §1023(c), Nov. 12, 1996, 110 Stat. 4215; Pub. L. 106–176, title I, §125, Mar. 10, 2000, 114 Stat. 30.
 
@@ -1089,8 +1091,6 @@ Pine Mountain Wilderness, Prescott and Tonto National Forests, Arizona.—Pub. L
 Pine Valley Mountain Wilderness, Dixie National Forest, Utah.—Pub. L. 98–428, title I, §102(a)(11), Sept. 28, 1984, 98 Stat. 1658.
 
 Piney Creek Wilderness, Mark Twain National Forest, Missouri.—Pub. L. 96–560, title II, §201(c), Dec. 22, 1980, 94 Stat. 3273.
-
-Pinnacles Wilderness, Pinnacles National Monument, California.—Pub. L. 94–567, §1(i), Oct. 20, 1976, 90 Stat. 2693; Pub. L. 107–370, §2(c), Dec. 19, 2002, 116 Stat. 3072.
 
 Pinto Mountains Wilderness, Riverside County, California.—Pub. L. 111–11, title I, §1851(b)(1)(I), Mar. 30, 2009, 123 Stat. 1063.
 

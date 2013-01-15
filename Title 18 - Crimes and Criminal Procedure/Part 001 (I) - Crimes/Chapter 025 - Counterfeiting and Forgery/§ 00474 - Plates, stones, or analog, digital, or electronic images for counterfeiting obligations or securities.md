@@ -44,5 +44,5 @@ Subsec. (b). Pub. L. 102–550, §1552(5), added subsec. (b).
 
 #### Effective Date of 1996 Amendment
 
-Section 101(f) \[title VI, §648(c)\] of div. A of Pub. L. 104–208 provided that: “This section \[enacting section 514 of this title and amending this section and section 474A of this title\] and the amendments made by this section shall become effective on the date of enactment of this Act \[Sept. 30, 1996\] and shall remain in effect during each fiscal year following that date of enactment.”
+Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §648(c)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–368, provided that: “This section \[enacting section 514 of this title and amending this section and section 474A of this title\] and the amendments made by this section shall become effective on the date of enactment of this Act \[Sept. 30, 1996\] and shall remain in effect during each fiscal year following that date of enactment.”
 

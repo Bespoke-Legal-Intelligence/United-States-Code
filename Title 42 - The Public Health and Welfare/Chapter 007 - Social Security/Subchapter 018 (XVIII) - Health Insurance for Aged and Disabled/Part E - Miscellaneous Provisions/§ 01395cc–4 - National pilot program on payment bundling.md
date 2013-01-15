@@ -158,7 +158,7 @@
 
 #### (ii) No additional program expenditures
 
-&emsp;&emsp;&emsp;Payments under this section for applicable items and services under this subchapter (including payment for services described in subparagraph (B)) for applicable beneficiaries for a year shall be established in a manner that does not result in spending more for such entity for suchbeneficiaries than would otherwise be expended for such entity for such beneficiaries for such year if the pilot program were not implemented, as estimated by the Secretary.
+&emsp;&emsp;&emsp;Payments under this section for applicable items and services under this subchapter (including payment for services described in subparagraph (B)) for applicable beneficiaries for a year shall be established in a manner that does not result in spending more for such entity for such beneficiaries than would otherwise be expended for such entity for such beneficiaries for such year if the pilot program were not implemented, as estimated by the Secretary.
 
 #### (B) Inclusion of certain services
 
@@ -238,7 +238,7 @@ The Secretary may waive such provisions of this subchapter and subchapter XI as 
 
 #### (A) Interim report
 
-&emsp;&emsp;Not later than 2 years after the implementation of the pilot program, the Secretary shall submit to Congress a report on the initial results of the independent evaluation conducted under paragraph (1).
+&emsp;&emsp;Not later than 2 years after the implementation of the pilot program, the Secretaryshall submit to Congress a report on the initial results of the independent evaluation conducted under paragraph (1).
 
 #### (B) Final report
 

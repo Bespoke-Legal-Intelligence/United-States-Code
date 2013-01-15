@@ -20,7 +20,7 @@ All functions and responsibilities placed in the Department of the Interior or a
 
 #### References in Text
 
-This Act, referred to in subsec. (d), is act Aug. 8, 1956, ch. 1036, 70 Stat. 1119, as amended, known as the Fish and Wildlife Act of 1956, which is classified generally to sections 742a to 742d and 742e to 742j–2 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 742a of this title and Tables.
+This Act, referred to in subsec. (d), is act Aug. 8, 1956, ch. 1036, 70 Stat. 1119, as amended, known as the Fishand Wildlife Act of 1956, which is classified generally to sections 742a to 742d and 742e to 742j–2 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 742a of this title and Tables.
 
 #### Amendments
 
@@ -40,7 +40,7 @@ Subsec. (f). Pub. L. 93–271, §1(3), struck out subsec. (f) which provided for
 
 #### Effective Date of 1974 Amendment
 
-Section 3 of Pub. L. 93–271 provided that: “The amendments made by this Act \[amending this section and section 5316 of Title 5, Government Organization and Employees\] shall take effect on July 1, 1974.”
+Pub. L. 93–271, §3, Apr. 22, 1974, 88 Stat. 92, provided that: “The amendments made by this Act \[amending this section and section 5316 of Title 5, Government Organization and Employees\] shall take effect on July 1, 1974.”
 
 #### Effective Date of 1962 Amendment
 

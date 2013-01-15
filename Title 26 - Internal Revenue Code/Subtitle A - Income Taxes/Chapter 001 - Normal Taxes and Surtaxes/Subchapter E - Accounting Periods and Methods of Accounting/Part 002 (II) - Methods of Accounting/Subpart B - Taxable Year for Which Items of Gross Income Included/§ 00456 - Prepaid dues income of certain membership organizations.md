@@ -56,7 +56,7 @@ For purposes of this section—
 
 #### (2) Liability
 
-&emsp;The term “liability” means a liability to render services or make available membership privileges over a period of time which does not exceed 36 months, which liability shall be deemed to exist ratably over the period oftime that such services are required to be rendered, or that such membership privileges are required to be made available.
+&emsp;The term “liability” means a liability to render services or make available membership privileges over a period of time which does not exceed 36 months, which liability shall be deemed to exist ratably over the period of time that such services are required to be rendered, or that such membership privileges are required to be made available.
 
 #### (3) Membership organization
 
@@ -84,5 +84,5 @@ Amendment by section 1901(a)(68) of Pub. L. 94–455 effective for taxable years
 
 #### Effective Date
 
-Section 2 of Pub. L. 87–109 provided that: “The amendments made by this Act \[enacting this section\] shall apply with respect to taxable years beginning after December 31, 1960.”
+Pub. L. 87–109, §2, July 26, 1961, 75 Stat. 224, provided that: “The amendments made by this Act \[enacting this section\] shall apply with respect to taxable years beginning after December 31, 1960.”
 

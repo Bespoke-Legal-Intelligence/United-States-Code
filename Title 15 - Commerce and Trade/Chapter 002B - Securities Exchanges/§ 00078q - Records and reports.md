@@ -4,7 +4,7 @@
 
 (1) Every national securities exchange, member thereof, broker or dealer who transacts a business in securities through the medium of any such member, registered securities association, registered broker or dealer, registered municipal securities dealer municipal advisor,,<sup>1</sup> registered securities information processor, registered transfer agent, nationally recognized statistical rating organization, and registered clearing agency and the Municipal Securities Rulemaking Board shall make and keep for prescribed periods such records, furnish such copies thereof, and make and disseminate such reports as the Commission, by rule, prescribes as necessary or appropriate in the public interest, for the protection of investors, or otherwise in furtherance of the purposes of this chapter. Any report that a nationally recognized statistical rating organization is required by Commission rules under this paragraph to make and disseminate to the Commission shall be deemed furnished to the Commission.
 
-(2) Every registered clearing agency shall also make and keep for prescribed periods such records, furnish such copies thereof, and make and disseminate such reports, as the appropriate regulatory agency for such clearing agency, by rule, prescribes as necessary or appropriate for the safeguarding of securities and funds in the custody or control of such clearing agency or for which it is responsible.
+(2) Every registered clearing agency shall also make and keep for prescribed periods such records, furnish such copies thereof, and make and disseminate such reports, as the appropriate regulatory agency for such clearing agency, by rule, prescribes as necessary or appropriate forthe safeguarding of securities and funds in the custody or control of such clearing agency or for which it is responsible.
 
 (3) Every registered transfer agent shall also make and keep for prescribed periods such records, furnish such copies thereof, and make such reports as the appropriate regulatory agency for such transfer agent, by rule, prescribes as necessary or appropriate in furtherance of the purposes of section 78q–1 of this title.
 
@@ -16,29 +16,29 @@
 
 &emsp;&emsp;(A) registered clearing agency, registered transfer agent, or registered municipal securities dealer for which it is not the appropriate regulatory agency, give notice to the appropriate regulatory agency for such clearing agency, transfer agent, or municipal securities dealer of such proposed examination and consult with such appropriate regulatory agency concerning the feasibility and desirability of coordinating such examination with examinations conducted by such appropriate regulatory agency with a view to avoiding unnecessary regulatory duplication or undue regulatory burdens for such clearing agency, transfer agent, or municipal securities dealer; or
 
-&emsp;&emsp;(B) broker or dealer registered pursuant to section 78<i>o</i>(b)(11) of this title, exchange registered pursuant to section 78f(g) of this title, or national securities association registered pursuant to section 78<i>o</i>–3(k) of this title, give notice to the Commodity Futures Trading Commission of such proposed examination and consults <sup>2</sup> with the Commodity Futures Trading Commission concerning the feasibility and desirability of coordinating such examination with examinations conducted by the Commodity Futures Trading Commission in order to avoid unnecessary regulatory duplication or undue regulatory burdens for such broker or dealer or exchange.
+&emsp;&emsp;(B) broker or dealer registered pursuant to section 78o(b)(11) of this title, exchange registered pursuant to section 78f(g) of this title, or national securities association registered pursuant to section 78o–3(k) of this title, give notice to the Commodity Futures Trading Commission of such proposed examination and consults <sup>2</sup> with the Commodity Futures Trading Commission concerning the feasibility and desirability of coordinating such examination with examinations conducted by the Commodity Futures Trading Commission in order to avoid unnecessary regulatory duplication or undue regulatory burdens for such broker or dealer or exchange.
 
 #### (2) Furnishing data and reports to CFTC
 
-&emsp;The Commission shall notify the Commodity Futures Trading Commission of any examination conducted of any broker or dealer registered pursuant to section 78<i>o</i>(b)(11) of this title, exchange registered pursuant to section 78f(g) of this title, or national securities association registered pursuant to section 78<i>o</i>–3(k) of this title and, upon request, furnish to the Commodity Futures Trading Commission any examination report and data supplied to, or prepared by, the Commission in connection with such examination.
+&emsp;The Commission shall notify the Commodity Futures Trading Commission of any examination conducted of any broker or dealer registered pursuant to section 78o(b)(11) of this title, exchange registered pursuant to section 78f(g) of this title, or national securities association registered pursuant to section 78o–3(k) of this title and, upon request, furnish to the Commodity Futures Trading Commission any examination report and data supplied to, or prepared by, the Commission in connection with such examination.
 
 #### (3) Use of CFTC reports
 
 &emsp;Prior to conducting an examination under paragraph (1), the Commission shall use the reports of examinations, if the information available therein is sufficient for the purposes of the examination, of—
 
-&emsp;&emsp;(A) any broker or dealer registered pursuant to section 78<i>o</i>(b)(11) of this title;
+&emsp;&emsp;(A) any broker or dealer registered pursuant to section 78o(b)(11) of this title;
 
 &emsp;&emsp;(B) exchange <sup>3</sup> registered pursuant to section 78f(g) of this title; or
 
-&emsp;&emsp;(C) national <sup>4</sup> securities association registered pursuant to section 78<i>o</i>–3(k) of this title;
+&emsp;&emsp;(C) national <sup>4</sup> securities association registered pursuant to section 78o–3(k) of this title;
 
-> &emsp;that is made by the Commodity Futures Trading Commission, a national securities association registered pursuant to section 78<i>o</i>–3(k) of this title, or an exchange registered pursuant to section 78f(g) of this title.
+> &emsp;that is made by the Commodity Futures Trading Commission, a national securities association registered pursuant to section 78o–3(k) of this title, or an exchange registered pursuant to section 78f(g) of this title.
 
 #### (4) Rules of construction
 
-&emsp;(A) Notwithstanding any other provision of this subsection, the records of a broker or dealer registered pursuant to section 78<i>o</i>(b)(11) of this title, an exchange registered pursuant to section 78f(g) of this title, or a national securities association registered pursuant to section 78<i>o</i>–3(k) of this title described in this subparagraph shall not be subject to routine periodic examinations by the Commission.
+&emsp;(A) Notwithstanding any other provision of this subsection, the records of a broker or dealer registered pursuant to section 78o(b)(11) of this title, an exchange registered pursuant to section 78f(g) of this title, or a national securities association registered pursuant to section 78o–3(k) of this title described in this subparagraph shall not be subject to routine periodic examinations by the Commission.
 
-&emsp;(B) Any recordkeeping rules adopted under this subsection for a broker or dealer registered pursuant to section 78<i>o</i>(b)(11) of this title, an exchange registered pursuant to section 78f(g) of this title, or a national securities association registered pursuant to section 78<i>o</i>–3(k) of this title shall be limited to records with respect to persons, accounts, agreements, contracts, and transactions involving security futures products.
+&emsp;(B) Any recordkeeping rules adopted under this subsection for a broker or dealer registered pursuant to section 78o(b)(11) of this title, an exchange registered pursuant to section 78f(g) of this title, or a national securities association registered pursuant to section 78o–3(k) of this title shall be limited to records with respect to persons, accounts, agreements, contracts, and transactions involving security futures products.
 
 &emsp;(C) Nothing in the proviso in paragraph (1) shall be construed to impair or limit (other than by the requirement of prior consultation) the power of the Commission under this subsection to examine any clearing agency, transfer agent, or municipal securities dealer or to affect in any way the power of the Commission under any other provision of this chapter or otherwise to inspect, examine, or investigate any such clearing agency, transfer agent, or municipal securities dealer.
 
@@ -106,7 +106,7 @@ Any broker, dealer, or other person extending credit who is subject to the rules
 
 #### (1) Obligations to obtain, maintain, and report information
 
-&emsp;Every person who is (A) a registered broker or dealer, or (B) a registered municipal securities dealer for which the Commission is the appropriate regulatory agency, shall obtain such information and make and keep such records as the Commission by rule prescribes concerning the registered person's policies, procedures, or systems for monitoring and controlling financial and operational risks to it resulting from the activities of any of its associated persons, other than a natural person. Such records shall describe, in the aggregate, each of the financial and securities activities conducted by, and the customary sources of capital and funding of, those of its associated persons whose business activities are reasonably likely to have a material impact on the financial or operational condition of such registered person, including its net capital, its liquidity, or its ability to conduct or finance its operations. The Commission, by rule, may require summary reports of such information to be filed with the Commission no more frequently than quarterly.
+&emsp;Every person who is (A) a registered broker or dealer, or (B) a registered municipal securities dealer for which the Commission is theappropriate regulatory agency, shall obtain such information and make and keep such records as the Commission by rule prescribes concerning the registered person's policies, procedures, or systems for monitoring and controlling financial and operational risks to it resulting from the activities of any of its associated persons, other than a natural person. Such records shall describe, in the aggregate, each of the financial and securities activities conducted by, and the customary sources of capital and funding of, those of its associated persons whose business activities are reasonably likely to have a material impact on the financial or operational condition of such registered person, including its net capital, its liquidity, or its ability to conduct or finance its operations. The Commission, by rule, may require summary reports of such information to be filed with the Commission no more frequently than quarterly.
 
 #### (2) Authority to require additional information
 
@@ -172,7 +172,7 @@ Notwithstanding any other provision of law, the Commission shall not be compelle
 
 #### (1) Elimination of duplication
 
-&emsp;The Commission and the examining authorities, through cooperation and coordination of examination and oversight activities, shall eliminate any unnecessary and burdensome duplication in the examination process.
+&emsp;The Commission and the examining authorities, through cooperation and coordination of examination and oversight activities, shalleliminate any unnecessary and burdensome duplication in the examination process.
 
 #### (2) Coordination of examinations
 
@@ -268,7 +268,7 @@ Subsecs. (b) to (g). Pub. L. 94–29 added subsecs. (b) to (f) and redesignated 
 
 <b>1938</b>—Subsec. (a). Act June 25, 1938, inserted “every registered securities association”.
 
-<b>1936</b>—Subsec. (a). Act May 27, 1936, substituted “every broker or dealer registered pursuant to section 78<i>o</i> of this title” for “every broker or dealer making or creating a market for both the purchase and sale of securities through the use of the mails or of any means or instrumentality of interstate commerce”.
+<b>1936</b>—Subsec. (a). Act May 27, 1936, substituted “every broker or dealer registered pursuant to section 78o of this title” for “every broker or dealer making or creating a market for both the purchase and sale of securities through the use of the mails or of any means or instrumentality of interstate commerce”.
 
 #### Effective Date of 2010 Amendment
 
@@ -278,7 +278,7 @@ Pub. L. 111–203, title VI, §617(b), July 21, 2010, 124 Stat. 1616, provided t
 
 \[For definition of “transfer date” as used in section 617(b) of Pub. L. 111–203, set out above, see section 5301 of Title 12, Banks and Banking.\]
 
-Amendment by section 975(h) of Pub. L. 111–203 effective Oct. 1, 2010, see section 975(i) of Pub. L. 111–203, set out as a note under section 78<i>o</i> of this title.
+Amendment by section 975(h) of Pub. L. 111–203 effective Oct. 1, 2010, see section 975(i) of Pub. L. 111–203, set out as a note under section 78o of this title.
 
 #### Effective Date of 2004 Amendment
 
@@ -286,7 +286,7 @@ Amendment by Pub. L. 108–386 effective Oct. 30, 2004, and, except as otherwise
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–571 effective 270 days after Oct. 28, 1986, see section 401 of Pub. L. 99–571, set out as an Effective Date note under section 78<i>o</i>–5 of this title.
+Amendment by Pub. L. 99–571 effective 270 days after Oct. 28, 1986, see section 401 of Pub. L. 99–571, set out as an Effective Date note under section 78o–5 of this title.
 
 #### Effective Date of 1975 Amendment
 

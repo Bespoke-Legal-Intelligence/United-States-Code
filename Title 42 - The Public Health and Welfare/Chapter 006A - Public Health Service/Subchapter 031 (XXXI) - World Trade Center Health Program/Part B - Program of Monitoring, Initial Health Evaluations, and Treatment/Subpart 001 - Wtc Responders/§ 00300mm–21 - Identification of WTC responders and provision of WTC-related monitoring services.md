@@ -60,7 +60,7 @@
 
 &emsp;&emsp;&emsp;(iv) was a worker in the Port Authority Trans-Hudson Corporation Tunnel for at least 24 hours during the period beginning on February 1, 2002, and ending on July 1, 2002; or
 
-&emsp;&emsp;&emsp;(v) was a vehicle-maintenance worker who was exposed to debris from the formerWorld Trade Center while retrieving, driving, cleaning, repairing, and maintaining vehicles contaminated by airborne toxins from the September 11, 2001, terrorist attacks during a duration and period described in subparagraph (A).
+&emsp;&emsp;&emsp;(v) was a vehicle-maintenance worker who was exposed to debris from the former World Trade Center while retrieving, driving, cleaning, repairing, and maintaining vehicles contaminated by airborne toxins from the September 11, 2001, terrorist attacks during a duration and period described in subparagraph (A).
 
 #### (C) Responders to the September 11 attacks at the Pentagon and Shanksville, Pennsylvania
 
@@ -126,7 +126,7 @@
 
 #### (1) In general
 
-&emsp;In the case of an enrolled WTC responder (other than one described in subsection\(a)(2)(A)(ii)), the WTC Program shall provide for monitoring benefits that include monitoring consistent with protocols approved by the WTC Program Administrator and including clinical examinations and long-term health monitoring and analysis. In the case of an enrolled WTC responder who is an active member of the Fire Department of New York City, the responder shall receive such benefits as part of the individual's periodic company medical exams.
+&emsp;In the case of an enrolled WTC responder (other than one described in subsection (a)(2)(A)(ii)), the WTC Program shall provide for monitoring benefits that include monitoring consistent with protocols approved by the WTC Program Administrator and including clinical examinations and long-term health monitoring and analysis. In the case of an enrolled WTC responder who is an active member of the Fire Department of New York City, the responder shall receive such benefits as part of the individual's periodic company medical exams.
 
 #### (2) Provision of monitoring benefits
 

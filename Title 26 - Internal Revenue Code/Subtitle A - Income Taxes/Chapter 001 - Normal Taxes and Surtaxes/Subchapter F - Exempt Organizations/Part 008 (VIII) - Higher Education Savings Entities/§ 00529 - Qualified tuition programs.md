@@ -228,13 +228,13 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In the case of an individual who is an eligible student (as defined in section 25A(b)(3)) for any academic period, such term shall also include reasonable costs for such period (as determined under the qualified tuition program) incurred by the designated beneficiary for room and board while attending such institution. For purposes of subsection (b)(6), a designated beneficiary shall be treated as meeting the requirements of this clause.
+&emsp;&emsp;&emsp;In the case of an individual who is an eligible student (as defined in section 25A(b)(3)) for any academic period, such term shall also include reasonable costs for such period (as determined under thequalified tuition program) incurred by the designated beneficiary for room and board while attending such institution. For purposes of subsection (b)(6), a designated beneficiary shall be treated as meeting the requirements of this clause.
 
 #### (ii) Limitation
 
 &emsp;&emsp;&emsp;The amount treated as qualified higher education expenses by reason of clause (i) shall not exceed—
 
-&emsp;&emsp;&emsp;&emsp;(I) the allowance (applicable to the student) for room and board included in the cost of attendance (as defined in section 472 of the Higher Education Act of 1965 (20 U.S.C. 1087<i>ll</i>), as in effect on the date of the enactment of the Economic Growth and Tax Relief Reconciliation Act of 2001) as determined by the eligible educational institution for such period, or
+&emsp;&emsp;&emsp;&emsp;(I) the allowance (applicable to the student) for room and board included in the cost of attendance (as defined in section 472 of the Higher Education Act of 1965 (20 U.S.C. 1087ll), as in effect on the date of the enactment of the Economic Growth and Tax Relief Reconciliation Act of 2001) as determined by the eligible educational institution for such period, or
 
 &emsp;&emsp;&emsp;&emsp;(II) if greater, the actual invoice amount the student residing in housing owned or operated by the eligible educational institution is charged by such institution for room and board costs for such period.
 
@@ -258,7 +258,7 @@ Notwithstanding any other provision of this section, the Secretary shall prescri
 
 #### References in Text
 
-The date of the enactment of the Economic Growth and Tax Relief Reconciliation Act of 2001, referred to insubsec. (e)(3)(B)(ii)(I), is the date of enactment of Pub. L. 107–16, which was approved June 7, 2001.
+The date of the enactment of the Economic Growth and Tax Relief Reconciliation Act of 2001, referred to in subsec. (e)(3)(B)(ii)(I), is the date of enactment of Pub. L. 107–16, which was approved June 7, 2001.
 
 The date of the enactment of this paragraph, referred to in subsec. (e)(5)(A), probably means the date of enactment of Pub. L. 105–34, which enacted subsec. (e)(5) and which was approved Aug. 5, 1997.
 
@@ -332,7 +332,7 @@ Subsec. (e)(3)(A). Pub. L. 107–16, §402(f), reenacted heading without change 
 
 Subsec. (e)(3)(B)(i). Pub. L. 107–16, §402(a)(4)(A), substituted “qualified tuition” for “qualified State tuition”.
 
-Subsec. (e)(3)(B)(ii). Pub. L. 107–16, §402(e), reenacted heading without change and amended text of cl. (ii) generally. Prior to amendment, text read as follows: “The amount treated as qualified higher education expenses by reason of the preceding sentence shall not exceed the minimum amount (applicable to the student) included for room and board for such period in the cost of attendance (as defined in section 472 of the Higher Education Act of 1965, 20 U.S.C. 1087<i>ll</i>, as in effect on the date of the enactment of this paragraph) for the eligible educational institution for such period.”
+Subsec. (e)(3)(B)(ii). Pub. L. 107–16, §402(e), reenacted heading without change and amended text of cl. (ii) generally. Prior to amendment, text read as follows: “The amount treated as qualified higher education expenses by reason of the preceding sentence shall not exceed the minimum amount (applicable to the student) included for room and board for such period in the cost of attendance (as defined in section 472 of the Higher Education Act of 1965, 20 U.S.C. 1087ll, as in effect on the date of the enactment of this paragraph) for the eligible educational institution for such period.”
 
 Subsec. (e)(4). Pub. L. 107–16, §402(a)(4)(A), substituted “qualified tuition” for “qualified State tuition”.
 
@@ -404,7 +404,7 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1997 Amendment
 
-Section 211(f) of Pub. L. 105–34 provided that:
+Pub. L. 105–34, title II, §211(f), Aug. 5, 1997, 111 Stat. 812, provided that:
 
 “(1)
 
@@ -442,7 +442,7 @@ Amendment by section 1601(h)(1)(A), (B) of Pub. L. 105–34 effective as if incl
 
 #### Effective Date
 
-Section 1806(c) of Pub. L. 104–188, as amended by Pub. L. 105–34, title XVI, §1601(h)(1)(C), Aug. 5, 1997, 111 Stat. 1092, provided that:
+Pub. L. 104–188, title I, §1806(c), Aug. 20, 1996, 110 Stat. 1898, as amended by Pub. L. 105–34, title XVI, §1601(h)(1)(C), Aug. 5, 1997, 111 Stat. 1092, provided that:
 
 “(1)
 

@@ -1,6 +1,4 @@
 
-48 U.S.C.<br>United States Code, 2011 Edition<br>Title 48 - TERRITORIES AND INSULAR POSSESSIONS<br>From the U.S. Government Publishing Office, www.gpo.gov
-
 # TITLE 48—TERRITORIES AND INSULAR POSSESSIONS
 
 | Chap. |  | Sec. |
@@ -17,7 +15,7 @@
 | [<b>9.</b>](Chapter%20009%20-%20Samoa%2C%20Tutuila%2C%20Manua%2C%20Swains%20Island%2C%20and%20Trust%20Territory%20of%20the%20Pacific%20Islands/README.md) | <b>Samoa, Tutuila, Manua, Swains Island, and Trust Territory of the Pacific Islands \[Transferred\]</b> | <b>1431</b> |
 | [<b>10.</b>](Chapter%20010%20-%20Territorial%20Provisions%20of%20a%20General%20Nature/README.md) | <b>Territorial Provisions of a General Nature</b> | <b>1451</b> |
 | [<b>11.</b>](Chapter%20011%20-%20Alien%20Owners%20of%20Land/README.md) | <b>Alien Owners of Land</b> | <b>1501</b> |
-| [<b>12.</b>](Chapter%20012%20-%20Virgin%20Islands/README.md) | <b>Virgin Islands</b> | <b>1541</b> |
+| [<b>12.</b>](Chapter%20012%20-%20Virgin%20Islands%20%5B1954/README.md) | <b>Virgin Islands \[1954\]</b> | <b>1541</b> |
 | [<b>13.</b>](Chapter%20013%20-%20Eastern%20Samoa/README.md) | <b>Eastern Samoa</b> | <b>1661</b> |
 | [<b>14.</b>](Chapter%20014%20-%20Trust%20Territory%20of%20the%20Pacific%20Islands/README.md) | <b>Trust Territory of the Pacific Islands</b> | <b>1681</b> |
 | [<b>15.</b>](Chapter%20015%20-%20Conveyance%20of%20Submerged%20Lands%20to%20Territories/README.md) | <b>Conveyance of Submerged Lands to Territories</b> | <b>1701</b> |
@@ -45,7 +43,7 @@
 - [Chapter 009 - Samoa, Tutuila, Manua, Swains Island, and Trust Territory of the Pacific Islands](Chapter%20009%20-%20Samoa%2C%20Tutuila%2C%20Manua%2C%20Swains%20Island%2C%20and%20Trust%20Territory%20of%20the%20Pacific%20Islands/README.md)
 - [Chapter 010 - Territorial Provisions of a General Nature](Chapter%20010%20-%20Territorial%20Provisions%20of%20a%20General%20Nature/README.md)
 - [Chapter 011 - Alien Owners of Land](Chapter%20011%20-%20Alien%20Owners%20of%20Land/README.md)
-- [Chapter 012 - Virgin Islands](Chapter%20012%20-%20Virgin%20Islands/README.md)
+- [Chapter 012 - Virgin Islands \[1954](Chapter%20012%20-%20Virgin%20Islands%20%5B1954/README.md)
 - [Chapter 013 - Eastern Samoa](Chapter%20013%20-%20Eastern%20Samoa/README.md)
 - [Chapter 014 - Trust Territory of the Pacific Islands](Chapter%20014%20-%20Trust%20Territory%20of%20the%20Pacific%20Islands/README.md)
 - [Chapter 015 - Conveyance of Submerged Lands to Territories](Chapter%20015%20-%20Conveyance%20of%20Submerged%20Lands%20to%20Territories/README.md)

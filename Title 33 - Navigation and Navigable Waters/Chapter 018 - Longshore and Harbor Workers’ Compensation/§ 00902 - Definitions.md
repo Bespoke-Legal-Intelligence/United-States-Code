@@ -124,9 +124,9 @@ Amendment by sections 2(a) and 5(a)(2) of Pub. L. 98–426 applicable with respe
 
 #### Effective Date of 1972 Amendment
 
-Section 20(c)(3) of Pub. L. 92–576 provided that: “The amendments made by this subsection \[amending this section and section 909 of this title\] shall apply only with respect to deaths or injuries occurring after the enactment of this Act, \[Oct. 27, 1972\].”
+Pub. L. 92–576, §20(c)(3), Oct. 27, 1972, 86 Stat. 1265, provided that: “The amendments made by this subsection \[amending this section and section 909 of this title\] shall apply only with respect to deaths or injuries occurring after the enactment of this Act, \[Oct. 27, 1972\].”
 
-Section 22 of Pub. L. 92–576 provided that: “The amendments made by this Act \[see Short Title note set out under section 901 of this title\] shall become effective thirty days after the date of enactment of this Act \[Oct. 27, 1972\].”
+Pub. L. 92–576, §22, Oct. 27, 1972, 86 Stat. 1265, provided that: “The amendments made by this Act \[see Short Title note set out under section 901 of this title\] shall become effective thirty days after the date of enactment of this Act \[Oct. 27, 1972\].”
 
 #### Transfer of Functions
 

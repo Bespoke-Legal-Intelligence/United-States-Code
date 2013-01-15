@@ -62,11 +62,11 @@ The Board of Governors may exempt a designated financial market utility from, or
 
 #### (H) Review extension for novel or complex issues
 
-&emsp;&emsp;The Supervisory Agency may, during the 60-day review period, extend the review period for an additional 60 days for proposed changes that raise novel or complex issues, subject to the Supervisory Agency providing the designated financial market utility withprompt written notice of the extension. Any extension under this subparagraph will extend the time periods under subparagraphs (E) and (G).
+&emsp;&emsp;The Supervisory Agency may, during the 60-day review period, extend the review period for an additional 60 days for proposed changes that raise novel or complex issues, subject to the Supervisory Agency providing the designated financial market utility with prompt written notice of the extension. Any extension under this subparagraph will extend the time periods under subparagraphs (E) and (G).
 
 #### (I) Change allowed earlier if notified of no objection
 
-&emsp;&emsp;A designated financial market utility may implement a change in less than 60 days from the date of receipt of the notice of proposed change by the Supervisory Agency, or the date the Supervisory Agency receives any further information it requested, if the Supervisory Agency notifies the designated financial market utility in writing that it does not object to the proposed change and authorizes the designated financial market utility to implement the change on an earlier date, subject to any conditions imposed by the Supervisory Agency.
+&emsp;&emsp;A designated financial market utility may implement a change in less than 60 days from the date of receipt of the notice of proposed change by the Supervisory Agency, or the date the Supervisory Agency receives any further information it requested, if the Supervisory Agency notifies the designated financial market utility in writing that itdoes not object to the proposed change and authorizes the designated financial market utility to implement the change on an earlier date, subject to any conditions imposed by the Supervisory Agency.
 
 #### (2) Emergency changes
 

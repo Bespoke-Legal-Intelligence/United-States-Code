@@ -4,7 +4,7 @@
 
 For purposes of this part, except as otherwise provided in this section, the term “qualified 501(c)(3) bond” means any private activity bond issued as part of an issue if—
 
-&emsp;(1) all property which is to be provided by the net proceeds of the issue is to be owned bya 501(c)(3) organization or a governmental unit, and
+&emsp;(1) all property which is to be provided by the net proceeds of the issue is to be owned by a 501(c)(3) organization or a governmental unit, and
 
 &emsp;(2) such bond would not be a private activity bond if—
 
@@ -16,7 +16,7 @@ For purposes of this part, except as otherwise provided in this section, the ter
 
 #### (1) In general
 
-&emsp;A bond (other than a qualified hospital bond) shall not be treated as a qualified 501(c)(3) bond if the aggregate authorized face amount of the issue (of which such bond is a part) allocated to any 501(c)(3) organization which is a test-period beneficiary (when increased by the outstanding tax-exempt nonhospital bonds of such organization) exceeds $150,000,000.
+&emsp;A bond (other than a qualified hospital bond) shall not be treated as a qualified 501(c)(3)bond if the aggregate authorized face amount of the issue (of which such bond is a part) allocated to any 501(c)(3) organization which is a test-period beneficiary (when increased by the outstanding tax-exempt nonhospital bonds of such organization) exceeds $150,000,000.
 
 #### (2) Outstanding tax-exempt nonhospital bonds
 
@@ -172,7 +172,7 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
 Amendment by section 1013(a)(6)–(8) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Section 5053(c) of Pub. L. 100–647 provided that:
+Pub. L. 100–647, title V, §5053(c), Nov. 10, 1988, 102 Stat. 3678, provided that:
 
 “(1)
 
@@ -198,7 +198,7 @@ Exception for construction or binding agreement.—
 
 Refundings.—The amendments made by this section shall not apply to any bond issued to refund (or which is part of a series of bonds issued to refund) a bond issued before July 15, 1988, if—
 
-&emsp;“(A) the average maturity date of the issue of which the refunding bond is a part is not later thanthe average maturity date of the bonds to be refunded by such issue,
+&emsp;“(A) the average maturity date of the issue of which the refunding bond is a part is not later than the average maturity date of the bonds to be refunded by such issue,
 
 &emsp;“(B) the amount of the refunding bond does not exceed the outstanding amount of the refunded bond, and
 
@@ -208,5 +208,5 @@ Refundings.—The amendments made by this section shall not apply to any bond is
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certaintransactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 

@@ -14,5 +14,5 @@ Section is based on section 8 of House Resolution No. 1238, Ninety-first Congres
 
 #### Effective Date
 
-Section 101A(b) of Pub. L. 103–69 provided that: “The amendment made by subsection (a) \[enacting this section\] shall take effect on October 1, 1993.”
+Pub. L. 103–69, title I, §101A(b), Aug. 11, 1993, 107 Stat. 699, provided that: “The amendment made by subsection (a) \[enacting this section\] shall take effect on October 1, 1993.”
 

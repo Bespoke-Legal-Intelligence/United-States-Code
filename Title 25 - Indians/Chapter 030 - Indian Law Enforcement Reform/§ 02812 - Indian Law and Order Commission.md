@@ -56,7 +56,7 @@ There is established a commission to be known as the Indian Law and Order Commis
 
 #### (1) Chairperson
 
-&emsp;Not later than 15 days after the date on which all members of the Commission havebeen appointed, the Commission shall select 1 member to serve as Chairperson of the Commission.
+&emsp;Not later than 15 days after the date on which all members of the Commission have been appointed, the Commission shall select 1 member to serve as Chairperson of the Commission.
 
 #### (2) Meetings
 
@@ -168,7 +168,7 @@ Not later than 2 years after the date of enactment of this Act, the Commission s
 
 #### (B) Tribal and State agencies
 
-&emsp;&emsp;The Commission may request the head of any tribal or State agency to provide to theCommission such information as the Commission considers to be necessary to carry out this section.
+&emsp;&emsp;The Commission may request the head of any tribal or State agency to provide to the Commission such information as the Commission considers to be necessary to carry out this section.
 
 #### (4) Postal services
 
@@ -242,7 +242,7 @@ Not later than 2 years after the date of enactment of this Act, the Commission s
 
 For the fiscal year after July 29, 2010, out of any unobligated amounts available to the Secretary of the Interior or the Attorney General, the Secretary or the Attorney General may use to carry out this section not more than $2,000,000.
 
-#### (<i>l</i>) Termination of Commission
+#### (l) Termination of Commission
 
 The Commission shall terminate 90 days after the date on which the Commission submits the report of the Commission under subsection (f).
 
@@ -260,7 +260,7 @@ The Indian Civil Rights Act of 1968, referred to in subsec. (d)(4), is title II 
 
 The Tribal Law and Order Act of 2010, referred to in subsec. (d)(5), is title II of Pub. L. 111–211, July 29, 2010, 124 Stat. 2261. For complete classification of this Act to the Code, see Short Title of 2010 Amendment note set out under section 2801 of this title and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (m), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (m), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770,which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection (d),”.</i>
 

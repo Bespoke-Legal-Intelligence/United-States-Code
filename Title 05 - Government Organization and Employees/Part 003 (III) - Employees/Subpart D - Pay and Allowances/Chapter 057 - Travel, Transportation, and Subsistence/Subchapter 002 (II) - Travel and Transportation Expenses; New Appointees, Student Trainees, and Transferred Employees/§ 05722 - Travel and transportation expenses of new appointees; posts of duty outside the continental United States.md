@@ -64,13 +64,13 @@ Subsec. (a)(3). Pub. L. 104–201, §1715(b)(1), added par. (3).
 
 #### Effective Date of 1996 Amendment
 
-Section 1725(a) of title XVII of div. A of Pub. L. 104–201 provided that: “The amendments made by this title \[enacting sections 5737, 5738, and 5756 of this title, amending this section, sections 3375, 5723 to 5724c, 5726 to 5729, and 5731 of this title, section 1348 of Title 31, Money and Finance, section 707 of Title 38, Veterans’ Benefits, and sections 290aa and 299c–4 of Title 42, The Public Health and Welfare\] shall take effect 180 days after the date of the enactment of this Act \[Sept. 23, 1996\].”
+Pub. L. 104–201, div. A, title XVII, §1725(a), Sept. 23, 1996, 110 Stat. 2760, provided that: “The amendments made by this title \[enacting sections 5737, 5738, and 5756 of this title, amending this section, sections 3375, 5723 to 5724c, 5726 to 5729, and 5731 of this title, section 1348 of Title 31, Money and Finance, section 707 of Title 38, Veterans’ Benefits, and sections 290aa and 299c–4 of Title 42, The Public Health and Welfare\] shall take effect 180 days after the date of the enactment of this Act \[Sept. 23, 1996\].”
 
 #### Regulations
 
-Section 1725(b) of title XVII of div. A of Pub. L. 104–201 provided that: “The Administrator of General Services shall, not later than the effective date set forth under subsection (a) \[set out above\], issue final regulations implementing the amendments made by this title \[see Effective Date of 1996 Amendment note above\].”
+Pub. L. 104–201, div. A, title XVII, §1725(b), Sept. 23, 1996, 110 Stat. 2760, provided that: “The Administrator of General Services shall, not later than the effective date set forth under subsection (a) \[set out above\], issue final regulations implementing the amendments made by this title \[see Effective Date of 1996 Amendment note above\].”
 
 #### Assessment of Cost Savings
 
-Section 1724 of title XVII of div. A of Pub. L. 104–201 directed Comptroller General, not later than one year after the effective date set forth in section 1725(a) of Pub. L. 104–201, to submit to Congress an assessment of costs of Federal travel administration that were saved as a result of the amendments made by title XVII of div. A of Pub. L. 104–201 and the regulations prescribed to carry out the amendments.
+Pub. L. 104–201, div. A, title XVII, §1724, Sept. 23, 1996, 110 Stat. 2759, directed Comptroller General, not later than one year after the effective date set forth in section 1725(a) of Pub. L. 104–201, to submit to Congress an assessment of costs of Federal travel administration that were saved as a result of the amendments made by title XVII of div. A of Pub. L. 104–201 and the regulations prescribed to carry out the amendments.
 

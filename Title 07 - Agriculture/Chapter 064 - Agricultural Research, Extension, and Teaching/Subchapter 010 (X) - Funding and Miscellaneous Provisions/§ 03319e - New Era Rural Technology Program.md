@@ -16,7 +16,7 @@ In this section, the term “community college” means an institution of higher
 
 &emsp;&emsp;(A) provides an educational program of not less than 2 years that is acceptable for full credit toward such a degree; or
 
-&emsp;&emsp;(B) offers a 2-year program in engineering, technology, mathematics, or the physical, chemical, or biological sciences, designed to prepare a student to work as a technician or at the semiprofessional level in engineering, scientific, or other technological fields requiring the understanding and application of basic engineering, scientific, or mathematical principles of knowledge.
+&emsp;&emsp;(B) offers a 2-year program in engineering, technology, mathematics, or the physical, chemical, or biological sciences, designed to prepare a student to work as a technician or at the semiprofessional level in engineering,scientific, or other technological fields requiring the understanding and application of basic engineering, scientific, or mathematical principles of knowledge.
 
 #### (b) Functions
 
@@ -70,7 +70,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 #### Prior Provisions
 
-A prior section 3319e, Pub. L. 95–113, title XIV, §1473E, as added Pub. L. 101–220, §5, Dec. 12, 1989, 103 Stat. 1878,related to research into new commercial products from natural plant materials, prior to repeal by Pub. L. 102–237, title IV, §402(14), Dec. 13, 1991, 105 Stat. 1863.
+A prior section 3319e, Pub. L. 95–113, title XIV, §1473E, as added Pub. L. 101–220, §5, Dec. 12, 1989, 103 Stat. 1878, related to research into new commercial products from natural plant materials, prior to repeal by Pub. L. 102–237, title IV, §402(14), Dec. 13, 1991, 105 Stat. 1863.
 
 #### Effective Date
 

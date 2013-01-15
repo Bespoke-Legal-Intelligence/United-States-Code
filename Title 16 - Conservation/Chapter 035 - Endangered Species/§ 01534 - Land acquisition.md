@@ -10,7 +10,7 @@ The Secretary, and the Secretary of Agriculture with respect to the National For
 
 #### (b) Availability of funds for acquisition of lands, waters, etc.
 
-Funds made available pursuant to the Land and Water Conservation Fund Act of 1965, as amended \[16 U.S.C. 460<i>l</i>–4 et seq.\], may be used for the purpose of acquiring lands, waters, or interests therein under subsection (a) of this section.
+Funds made available pursuant to the Land and Water Conservation Fund Act of 1965, as amended \[16 U.S.C. 460l–4 et seq.\], may be used for the purpose of acquiring lands, waters, or interests therein under subsection (a) of this section.
 
 (Pub. L. 93–205, §5, Dec. 28, 1973, 87 Stat. 889; Pub. L. 95–632, §12, Nov. 10, 1978, 92 Stat. 3766.)
 
@@ -22,7 +22,7 @@ The Fish and Wildlife Coordination Act, as amended, referred to in subsec. (a)(1
 
 The Migratory Bird Conservation Act, referred to in subsec. (a)(1), is act Feb. 18, 1929, ch. 257, 45 Stat. 1222, as amended, which is classified generally to subchapter III (§715 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 715 of this title and Tables.
 
-The Land and Water Conservation Fund Act of 1965, as amended, referred to in subsec. (b), is Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended, which is classified generally to part B (§460<i>l</i>–4 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460<i>l</i>–4 of this title and Tables.
+The Land and Water Conservation Fund Act of 1965, as amended, referred to in subsec. (b), is Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended, which is classified generally to part B (§460l–4 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460l–4 of this title and Tables.
 
 #### Amendments
 

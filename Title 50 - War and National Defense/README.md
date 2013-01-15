@@ -1,6 +1,4 @@
 
-50 U.S.C.<br>United States Code, 2011 Edition<br>Title 50 - WAR AND NATIONAL DEFENSE<br>From the U.S. Government Publishing Office, www.gpo.gov
-
 # TITLE 50—WAR AND NATIONAL DEFENSE
 
 | Chap. |  | Sec. |
@@ -28,7 +26,7 @@
 | [<b>18.</b>](Chapter%20018%20-%20Air-Warning%20Screen/README.md) | <b>Air-Warning Screen</b> | <b>491</b> |
 | [<b>19.</b>](Chapter%20019%20-%20Guided%20Missiles/README.md) | <b>Guided Missiles</b> | <b>501</b> |
 | [<b>20.</b>](Chapter%20020%20-%20Wind%20Tunnels/README.md) | <b>Wind Tunnels</b> | <b>511</b> |
-| [<b>21.</b>](Chapter%20021%20-%20Abaca%EF%BF%BDAE1%20Production/README.md) | <b>Abaca�AE1 Production \[Omitted\]</b> | <b>541</b> |
+| [<b>21.</b>](Chapter%20021%20-%20Abac%C3%81%20Production/README.md) | <b>Abacá Production \[Omitted\]</b> | <b>541</b> |
 | [<b>22.</b>](Chapter%20022%20-%20Uniform%20Code%20of%20Military%20Justice/README.md) | <b>Uniform Code of Military Justice \[Repealed or Omitted\]</b> | <b>551</b> |
 | [<b>22A.</b>](Chapter%20022A%20-%20Representation%20of%20Armed%20Forces%20Personnel%20Before%20Foreign%20Judicial%20Tribunals/README.md) | <b>Representation of Armed Forces Personnel Before Foreign Judicial Tribunals \[Repealed\]</b> | <b>751</b> |
 | [<b>23.</b>](Chapter%20023%20-%20Internal%20Security/README.md) | <b>Internal Security</b> | <b>781</b> |
@@ -87,7 +85,7 @@ The Treaty of Peace with Japan, signed at San Francisco on Sept. 8, 1951, was ra
 - [Chapter 018 - Air-Warning Screen](Chapter%20018%20-%20Air-Warning%20Screen/README.md)
 - [Chapter 019 - Guided Missiles](Chapter%20019%20-%20Guided%20Missiles/README.md)
 - [Chapter 020 - Wind Tunnels](Chapter%20020%20-%20Wind%20Tunnels/README.md)
-- [Chapter 021 - Abaca&#65533;AE1 Production](Chapter%20021%20-%20Abaca%EF%BF%BDAE1%20Production/README.md)
+- [Chapter 021 - Abac&#193; Production](Chapter%20021%20-%20Abac%C3%81%20Production/README.md)
 - [Chapter 022 - Uniform Code of Military Justice](Chapter%20022%20-%20Uniform%20Code%20of%20Military%20Justice/README.md)
 - [Chapter 022A - Representation of Armed Forces Personnel Before Foreign Judicial Tribunals](Chapter%20022A%20-%20Representation%20of%20Armed%20Forces%20Personnel%20Before%20Foreign%20Judicial%20Tribunals/README.md)
 - [Chapter 023 - Internal Security](Chapter%20023%20-%20Internal%20Security/README.md)

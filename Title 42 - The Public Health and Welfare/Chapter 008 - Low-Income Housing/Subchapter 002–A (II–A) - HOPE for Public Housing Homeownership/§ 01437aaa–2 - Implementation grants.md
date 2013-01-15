@@ -26,7 +26,7 @@ Implementation grants may be used for activities to carry out homeownership prog
 
 &emsp;(9) Any necessary temporary relocation of tenants during rehabilitation.
 
-&emsp;(10) Funding of operating expenses and replacement reserves of the project covered by the homeownership program, except that the amount of assistance for operating expenses shall not exceed the amount the project would have received if it had continued to receive such assistance from the Operating Fund, with adjustments comparable to those that wouldhave been made under section 1437g of this title, and except that implementation grants may not be used under this paragraph to fund operating expenses for scattered site public housing acquired under a homeownership program.
+&emsp;(10) Funding of operating expenses and replacement reserves of the project covered by the homeownership program, except that the amount of assistance for operating expenses shall not exceed the amount the project would have received if it had continued to receive such assistance from the Operating Fund, with adjustments comparable to those that would have been made under section 1437g of this title, and except that implementation grants may not be used under this paragraph to fund operating expenses for scattered site public housing acquired under a homeownership program.
 
 &emsp;(11) Implementation of a replacement housing plan.
 
@@ -112,7 +112,7 @@ The Secretary shall establish selection criteria for a national competition for 
 
 &emsp;(4) the quality and viability of the proposed homeownership program, including the viability of the economic self-sufficiency plan;
 
-&emsp;(5) the extent to which funds for activities that do not qualify as eligible activities will be provided in support of the homeownership program;
+&emsp;(5) the extent to which funds for activities that do not qualify as eligible activities willbe provided in support of the homeownership program;
 
 &emsp;(6) whether the approved comprehensive housing affordability strategy for the jurisdiction within which the public housing project is located includes the proposed homeownership program as one of the general priorities identified pursuant to section 105(b)(7) of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12705(b)(7)\];
 

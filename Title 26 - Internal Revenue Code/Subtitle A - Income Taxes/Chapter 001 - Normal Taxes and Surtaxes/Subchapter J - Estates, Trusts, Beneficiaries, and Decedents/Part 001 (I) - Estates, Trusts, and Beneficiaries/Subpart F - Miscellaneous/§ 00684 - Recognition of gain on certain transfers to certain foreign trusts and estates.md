@@ -18,19 +18,13 @@ If a trust which is not a foreign trust becomes a foreign trust, such trust shal
 
 (Added Pub. L. 105–34, title XI, §1131(b), Aug. 5, 1997, 111 Stat. 978; amended Pub. L. 107–16, title V, §542(e)(1)(A)–(C), June 7, 2001, 115 Stat. 84, 85; Pub. L. 111–312, title III, §301(a), Dec. 17, 2010, 124 Stat. 3300.)
 
-#### Amendment of Section
-
-<i>For termination of amendment by section 304 of Pub. L. 111–312, see Effective and Termination Dates of 2010 Amendment note below.</i>
-
-<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
-
 #### Codification
 
 Another section 1131(b) of Pub. L. 105–34 amended sections 367, 721, and 1035 of this title.
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–312, §§301(a), 304, temporarily amended catchline, introductory provisions of subsec.\(a), and subsec. (b) to read as if amendment by Pub. L. 107–16, §542(e)(1)(A)–(C), had never been enacted. See 2001 Amendment note and Effective and Termination Dates of 2010 Amendment note below. Prior to amendment, subsec. (b) read as follows: “
+<b>2010</b>—Pub. L. 111–312 amended catchline, introductory provisions of subsec. (a), and subsec. (b) to read as if amendment by Pub. L. 107–16, §542(e)(1)(A)–(C), had never been enacted. See 2001 Amendment note below. Prior to amendment, subsec. (b) read as follows: “
 
 Exceptions.—
 
@@ -42,17 +36,13 @@ Transfers to certain trusts.—Subsection (a) shall not apply to a transfer to a
 
 Lifetime transfers to nonresident aliens.—Subsection (a) shall not apply to a lifetime transfer to a nonresident alien.”
 
-<b>2001</b>—Pub. L. 107–16, §§542(e)(1)(A)–(C), 901, temporarily amended section by inserting “and nonresident aliens” after “estates” in section catchline and “or to a nonresident alien” after “or trust” in introductory provisions of subsec. (a) and amending subsec. (b) generally. Prior to amendment, text of subsec. (b) read as follows: “Subsection (a) shall not apply to a transfer to a trust by a United States person to the extent that any person is treated as the owner of such trust under section 671.” See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Pub. L. 107–16, §542(e)(1)(A)–(C), amended section by inserting “and nonresident aliens” after “estates” in section catchline and “or to a nonresident alien” after “or trust” in introductory provisions of subsec. (a) and amending subsec. (b) generally. Prior to amendment, text of subsec. (b) read as follows: “Subsection (a) shall not apply to a transfer to a trust by a United States person to the extent that any person is treated as the owner of such trust under section 671.”
 
-#### Effective and Termination Dates of 2010 Amendment
+#### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–312 applicable to estates of decedents dying, and transfers made after Dec. 31, 2009, except as otherwise provided, see section 301(e) of Pub. L. 111–312, set out as a note under section 121 of this title.
+Amendment by Pub. L. 111–312 applicable to estates of decedents dying, and transfers made after Dec. 31, 2009, except as otherwise provided, see section 301(e) of Pub. L. 111–312, set out as an Effective and Termination Dates of 2010 Amendment note under section 121 of this title.
 
-Section 901 of Pub. L. 107–16 applicable to amendments by section 301(a) of Pub. L. 111–312, see section 304 of Pub. L. 111–312, set out as a note under section 121 of this title.
-
-#### Effective and Termination Dates of 2001 Amendment
+#### Effective Date of 2001 Amendment
 
 Amendment by Pub. L. 107–16 applicable to transfers after Dec. 31, 2009, see section 542(f)(2) of Pub. L. 107–16, set out as a note under section 121 of this title.
-
-Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 

@@ -6,7 +6,7 @@ The Congress finds that the use of humane methods in the slaughter of livestock 
 
 #### Short Title of 1978 Amendment
 
-For citation of Pub. L. 95–445, Oct. 10, 1978, 92 Stat. 1069, as the “Humane Methods of Slaughter Act of1978”, see Short Title of 1978 Amendment note set out under section 601 of Title 21, Food and Drugs.
+For citation of Pub. L. 95–445, Oct. 10, 1978, 92 Stat. 1069, as the “Humane Methods of Slaughter Act of 1978”, see Short Title of 1978 Amendment note set out under section 601 of Title 21, Food and Drugs.
 
 #### Enforcement of Humane Methods of Slaughter Act of 1958
 

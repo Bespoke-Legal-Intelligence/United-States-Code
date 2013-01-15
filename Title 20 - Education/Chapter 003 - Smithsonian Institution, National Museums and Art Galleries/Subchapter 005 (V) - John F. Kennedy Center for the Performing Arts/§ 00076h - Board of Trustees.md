@@ -80,7 +80,7 @@ Subsec. (b). Pub. L. 88–100, §2, inserted provisions governing the terms of t
 
 #### Effective Date of 1994 Amendment
 
-Section 2(b)(2) of Pub. L. 103–279 provided that:
+Pub. L. 103–279, §2(b)(2), July 21, 1994, 108 Stat. 1410, provided that:
 
 “(A)
 
@@ -89,6 +89,10 @@ Superintendent of schools of the district of columbia.—The amendment made by p
 “(B)
 
 Members of congress.—The amendment made by paragraph (1)(C)(ii) \[amending this section\] shall take effect on the date of enactment of this Act.”
+
+#### Short Title of 2012 Amendment
+
+Pub. L. 112–131, §1, June 8, 2012, 126 Stat. 377, provided that: “This Act \[amending sections 76i and 76r of this title\] may be cited as the ‘John F. Kennedy Center Reauthorization Act of 2012’.”
 
 #### Short Title of 2008 Amendment
 
@@ -104,7 +108,7 @@ Pub. L. 107–224, §1, Sept. 18, 2002, 116 Stat. 1340, provided that: “This A
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–226, §1, Aug. 12, 1998, 112 Stat. 1513, provided that: “This Act \[amending sections 76j, 76<i>l</i>, and 76r of this title\] may be cited as the ‘John F. Kennedy Center for the Performing Arts Authorization Act of 1998’.”
+Pub. L. 105–226, §1, Aug. 12, 1998, 112 Stat. 1513, provided that: “This Act \[amending sections 76j, 76l, and 76r of this title\] may be cited as the ‘John F. Kennedy Center for the Performing Arts Authorization Act of 1998’.”
 
 #### Short Title of 1997 Amendment
 
@@ -112,15 +116,15 @@ Pub. L. 105–95, §1, Nov. 19, 1997, 111 Stat. 2148, provided that: “This Act
 
 #### Short Title of 1994 Amendment
 
-Section 1 of Pub. L. 103–279 provided that: “This Act \[enacting sections 76r and 76s of this title, amending this section, sections 76j, 76k, 76<i>l</i>, and 76p of this title, and sections 193r, 193u, and 193v of former Title 40, Public Buildings, Property, and Works, enacting provisions set out as notes under this section, and amending provisions set out as a note under this section\] may be cited as the ‘John F. Kennedy Center Act Amendments of 1994’.”
+Pub. L. 103–279, §1, July 21, 1994, 108 Stat. 1409, provided that: “This Act \[enacting sections 76r and 76s of this title, amending this section, sections 76j, 76k, 76l, and 76p of this title, and sections 193r, 193u, and 193v of former Title 40, Public Buildings, Property, and Works, enacting provisions set out as notes under this section, and amending provisions set out as a note under this section\] may be cited as the ‘John F. Kennedy Center Act Amendments of 1994’.”
 
 #### Short Title of 1984 Amendment
 
-Pub. L. 98–473, title I, §101(c), Oct. 12, 1984, 98 Stat. 1837, 1876, provided that: “The following \[amending section 76<i>o</i> of this title\] may be cited as ‘The John F. Kennedy Center Act Amendments of 1984’.”
+Pub. L. 98–473, title I, §101(c), Oct. 12, 1984, 98 Stat. 1837, 1876, provided that: “The following \[amending section 76o of this title\] may be cited as ‘The John F. Kennedy Center Act Amendments of 1984’.”
 
 #### Short Title of 1963 Amendment
 
-Section 5 of Pub. L. 88–100 provided that: “This Act \[amending this section and sections 76<i>l</i> and 76m of this title\] may be cited as the ‘National Cultural Center Amendments Act of 1963’.”
+Pub. L. 88–100, §5, Aug. 19, 1963, 77 Stat. 128, provided that: “This Act \[amending this section and sections 76l and 76m of this title\] may be cited as the ‘National Cultural Center Amendments Act of 1963’.”
 
 #### Short Title
 
@@ -140,7 +144,7 @@ Pub. L. 107–117, div. D, title II, §201(b), Jan. 10, 2002, 115 Stat. 2354, pr
 
 #### National Cultural Center; Designation or References
 
-Section 2 of Pub. L. 88–260 provided that: “In addition to the amendments made by the first section of this Act \[enacting sections 76n to 76q, and amending sections 76h to 76q of this title\], any designation or reference to the National Cultural Center in any other law, map, regulation, document, record, or other paper of the United States shall be held to designate or refer to such Center as the John F. Kennedy Center for the Performing Arts.”
+Pub. L. 88–260, §2, Jan. 23, 1964, 78 Stat. 5, provided that: “In addition to the amendments made by the first section of this Act \[enacting sections 76n to 76q, and amending sections 76h to 76q of this title\], any designation or reference to the National Cultural Center in any other law, map, regulation, document, record, or other paper of the United States shall be held to designate or refer to such Center as the John F. Kennedy Center for the Performing Arts.”
 
 #### Congressional Findings
 

@@ -14,5 +14,5 @@ R.S. §5590 derived from acts Aug. 10, 1846, ch. 178, §2, 9 Stat. 102; Feb. 5, 
 
 #### Effective Date of 1982 Amendment
 
-Section 2 of Pub. L. 97–199 provided that: “The amendment made by the first section \[amending this section\] shall apply with respect to fiscal years beginning after September 30, 1982.”
+Pub. L. 97–199, §2, June 22, 1982, 96 Stat. 121, provided that: “The amendment made by the first section \[amending this section\] shall apply with respect to fiscal years beginning after September 30, 1982.”
 

@@ -6,7 +6,7 @@ In providing assistance under this part for the government of any independent st
 
 &emsp;(1) make significant progress toward, and is committed to the comprehensive implementation of, a democratic system based on principles of the rule of law, individual freedoms, and representative government determined by free and fair elections;
 
-&emsp;(2) make significant progress in, and is committed to the comprehensive implementation of, economic reform based on market principles, private ownership, and integration into the world economy, including implementation of the legal and policy frameworks necessary for such reform (including protection of intellectual property and respect for contracts);
+&emsp;(2) make significant progress in, and is committed to the comprehensive implementation of, economic reform based on market principles, private ownership, and integration intothe world economy, including implementation of the legal and policy frameworks necessary for such reform (including protection of intellectual property and respect for contracts);
 
 &emsp;(3) respect internationally recognized human rights, including the rights of minorities and the rights to freedom of religion and emigration;
 
@@ -56,7 +56,7 @@ The President shall not provide assistance under this part—
 
 #### (c) Exceptions to ineligibility
 
-Assistance prohibited by subsection (b) of this section or any similar provision of law, otherthan assistance prohibited by the provisions referred to in subsection (b)(4) of this section, may be furnished under any of the following circumstances:
+Assistance prohibited by subsection (b) of this section or any similar provision of law, other than assistance prohibited by the provisions referred to in subsection (b)(4) of this section, may be furnished under any of the following circumstances:
 
 &emsp;(1) The President determines that furnishing such assistance is important to the national interest of the United States.
 
@@ -72,7 +72,7 @@ Assistance prohibited by subsection (b) of this section or any similar provision
 
 #### (1) Reduction in assistance
 
-&emsp;Notwithstanding any other provision of law, the President shall withhold from assistance provided, on or after March 12, 1996, for an independent state of the former Soviet Union under this chapter an amount equal to the sum of assistance and credits, if any, provided on or after March 12, 1996, by such state in support of intelligence facilities in Cuba, including the intelligence facility at Lourdes, Cuba.
+&emsp;Notwithstanding any other provision of law, the President shall withhold from assistance provided, on or after March 12, 1996, for anindependent state of the former Soviet Union under this chapter an amount equal to the sum of assistance and credits, if any, provided on or after March 12, 1996, by such state in support of intelligence facilities in Cuba, including the intelligence facility at Lourdes, Cuba.
 
 #### (2) Waiver
 
@@ -146,13 +146,13 @@ Functions of President under subsec. (c)(3) of this section and requirement to m
 
 #### Ineligibility for Assistance of Institutions Withholding Certain Documents of United States Nationals
 
-Section 202 of Pub. L. 102–511 provided that:
+Pub. L. 102–511, title II, §202, Oct. 24, 1992, 106 Stat. 3331, provided that:
 
 “(a)
 
 Prohibition.—Except as provided in subsections (b) and (c), an agency, instrumentality, or other governmental entity of an independent state of the former Soviet Union shall not be eligible to receive assistance under chapter 11 of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2295 et seq.\] if—
 
-&emsp;“(1) on the date of enactment of this Act \[Oct. 24, 1992\], there is outstanding a final judgment by a court of competent jurisdiction in that independent state that that governmental entity is withholding unlawfully books or other documents of religious or historical significance that are the property of United States persons; and
+&emsp;“(1) on the date of enactment of this Act \[Oct. 24, 1992\], there is outstanding a final judgment by acourt of competent jurisdiction in that independent state that that governmental entity is withholding unlawfully books or other documents of religious or historical significance that are the property of United States persons; and
 
 &emsp;“(2) within 90 days of a request by such United States persons, the Secretary of State determines that execution of the court's judgment is blocked as the result of extrajudicial causes such as any of the following:
 

@@ -12,7 +12,7 @@
 | [288\.](%C2%A7%2000288%20-%20Action%20for%20infringement%20of%20a%20patent%20containing%20an%20invalid%20claim.md) | Action for infringement of a patent containing an invalid claim. |
 | [289\.](%C2%A7%2000289%20-%20Additional%20remedy%20for%20infringement%20of%20design%20patent.md) | Additional remedy for infringement of design patent. |
 | [290\.](%C2%A7%2000290%20-%20Notice%20of%20patent%20suits.md) | Notice of patent suits. |
-| [291\.](%C2%A7%2000291%20-%20Interfering%20patents.md) | Interfering patents. |
+| [291\.](%C2%A7%2000291%20-%20Derived%20patents.md) | Derived patents. |
 | [292\.](%C2%A7%2000292%20-%20False%20marking.md) | False marking. |
 | [293\.](%C2%A7%2000293%20-%20Nonresident%20patentee%3B%20service%20and%20notice.md) | Nonresident patentee, service and notice.<sup>1</sup> |
 
@@ -28,10 +28,6 @@
 | [299\.](%C2%A7%2000299%20-%20Joinder%20of%20parties.md) | Joinder of parties. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Amendment of Analysis
-
-<i>Pub. L. 112–29, §3(h)(2), (n), Sept. 16, 2011, 125 Stat. 289, 293, provided that, effective upon the expiration of the 18-month period beginning on Sept. 16, 2011, and applicable to certain applications for patent and any patents issuing thereon, item 291 of this analysis is amended to read “Derived patents.”. See 2011 Amendment notes below.</i>
 
 #### Amendments
 
@@ -66,7 +62,7 @@ Pub. L. 112–29, §3(h)(2), Sept. 16, 2011, 125 Stat. 289, amended item 291 gen
 - [&sect; 00288 - Action for infringement of a patent containing an invalid claim](%C2%A7%2000288%20-%20Action%20for%20infringement%20of%20a%20patent%20containing%20an%20invalid%20claim.md)
 - [&sect; 00289 - Additional remedy for infringement of design patent](%C2%A7%2000289%20-%20Additional%20remedy%20for%20infringement%20of%20design%20patent.md)
 - [&sect; 00290 - Notice of patent suits](%C2%A7%2000290%20-%20Notice%20of%20patent%20suits.md)
-- [&sect; 00291 - Interfering patents](%C2%A7%2000291%20-%20Interfering%20patents.md)
+- [&sect; 00291 - Derived patents](%C2%A7%2000291%20-%20Derived%20patents.md)
 - [&sect; 00292 - False marking](%C2%A7%2000292%20-%20False%20marking.md)
 - [&sect; 00293 - Nonresident patentee; service and notice](%C2%A7%2000293%20-%20Nonresident%20patentee%3B%20service%20and%20notice.md)
 - [&sect; 00294 - Voluntary arbitration](%C2%A7%2000294%20-%20Voluntary%20arbitration.md)

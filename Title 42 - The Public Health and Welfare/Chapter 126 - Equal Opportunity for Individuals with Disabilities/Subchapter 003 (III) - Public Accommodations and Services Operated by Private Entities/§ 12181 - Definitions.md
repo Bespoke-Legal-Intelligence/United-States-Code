@@ -106,7 +106,7 @@ In par. (8), “section 20102(1) of title 49” substituted for “section 202(e
 
 #### Effective Date
 
-Section 310 of title III of Pub. L. 101–336 provided that:
+Pub. L. 101–336, title III, §310, July 26, 1990, 104 Stat. 365, provided that:
 
 “(a)
 

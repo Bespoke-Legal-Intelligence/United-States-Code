@@ -146,7 +146,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;Not later than January 1, 2003, and each January 1 thereafter, the Secretary shall prepare and submit to the Committee on Rules and Administration of the Senate and the Committee on Appropriations of the Senate, a report for the fiscal year preceding the fiscal year in which the report is submitted, that contains information specifying—
+&emsp;Not later than January 1, 2003, and each January 1 thereafter, the Secretary shall prepareand submit to the Committee on Rules and Administration of the Senate and the Committee on Appropriations of the Senate, a report for the fiscal year preceding the fiscal year in which the report is submitted, that contains information specifying—
 
 &emsp;&emsp;(A) the number of eligible employees that received student loan payments under this section; and
 
@@ -234,7 +234,7 @@ In this section:
 
 #### (2) Allocation
 
-&emsp;From the total amount made available to carry out this section for a fiscal year, thereshall be allocated to each employing office for that fiscal year—
+&emsp;From the total amount made available to carry out this section for a fiscal year, there shall be allocated to each employing office for that fiscal year—
 
 &emsp;&emsp;(A) the maximum amount for that employing office for that fiscal year; or
 

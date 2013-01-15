@@ -4,7 +4,7 @@
 
 Definitions.—In this section—
 
-&emsp;(1) “controlled substance” means any substance under section 102 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 802) whose use the Secretary of Transportation decides has a risk to transportation safety.
+&emsp;(1) “controlled substance” means any substance under section 102 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 802) whose use the Secretary decides has a risk to transportation safety.
 
 &emsp;(2) “person” includes any entity organized or existing under the laws of the United States, a State, territory, or possession of the United States, or a foreign country.
 
@@ -14,9 +14,9 @@ Definitions.—In this section—
 
 Testing Program for Public Transportation Employees.—(1)(A) In the interest of public transportation safety, the Secretary shall prescribe regulations that establish a program requiring public transportation operations that receive financial assistance under section 5307, 5309, or 5311 of this title to conduct preemployment, reasonable suspicion, random, and post-accident testing of public transportation employees responsible for safety-sensitive functions (as decided by the Secretary) for the use of a controlled substance in violation of law or a United States Government regulation, and to conduct reasonable suspicion, random, and post-accident testing of such employees for the use of alcohol in violation of law or a United States Government regulation. The regulations shall permit such operations to conduct preemployment testing of such employees for the use of alcohol.
 
-(B) When the Secretary of Transportation considers it appropriate in the interest of safety, the Secretary may prescribe regulations for conducting periodic recurring testing of public transportation employees responsible for safety-sensitive functions (as decided by the Secretary) for the use of alcohol or a controlled substance in violation of law or a Government regulation.
+(B) When the Secretary considers it appropriate in the interest of safety, the Secretary may prescribe regulations for conducting periodic recurring testing of public transportation employees responsible for safety-sensitive functions (as decided by the Secretary) for the use of alcohol or a controlled substance in violation of law or a Government regulation.
 
-(2) In prescribing regulations under this subsection, the Secretary of Transportation—
+(2) In prescribing regulations under this subsection, the Secretary—
 
 &emsp;(A) shall require that post-accident testing of such a public transportation employee be conducted when loss of human life occurs in an accident involving public transportation; and
 
@@ -24,7 +24,7 @@ Testing Program for Public Transportation Employees.—(1)(A) In the interest of
 
 (c)
 
-Disqualifications for Use.—(1) When the Secretary of Transportation considers it appropriate, the Secretary shall require disqualification for an established period of time or dismissal of any employee referred to in subsection (b)(1) of this section who is found—
+Disqualifications for Use.—(1) When the Secretary considers it appropriate, the Secretary shall require disqualification for an established period of time or dismissal of any employee referred to in subsection (b)(1) of this section who is found—
 
 &emsp;(A) to have used or been impaired by alcohol when on duty; or
 
@@ -34,7 +34,7 @@ Disqualifications for Use.—(1) When the Secretary of Transportation considers 
 
 (d)
 
-Testing and Laboratory Requirements.—In carrying out subsection (b) of this section, the Secretary of Transportation shall develop requirements that shall—
+Testing and Laboratory Requirements.—In carrying out subsection (b) of this section, the Secretary shall develop requirements that shall—
 
 &emsp;(1) promote, to the maximum extent practicable, individual privacy in the collection of specimens;
 
@@ -60,13 +60,13 @@ Testing and Laboratory Requirements.—In carrying out subsection (b) of this se
 
 (e)
 
-Rehabilitation.—The Secretary of Transportation shall prescribe regulations establishing requirements for rehabilitation programs that provide for the identification and opportunity for treatment of any public transportation employee referred to in subsection (b)(1) of this section who is found to have used alcohol or a controlled substance in violation of law or a Government regulation. The Secretary shall decide on the circumstances under which employees shall be required to participate in a program. This subsection does not prevent a public transportation operation from establishing a program under this section in cooperation with another public transportation operation.
+Rehabilitation.—The Secretary shall prescribe regulations establishing requirements for rehabilitation programs that provide for the identification and opportunity for treatment of any public transportation employee referred to in subsection (b)(1) of this section who is found to have used alcohol or a controlled substance in violation of law or a Government regulation. The Secretary shall decide on the circumstances under which employees shall be required to participate in a program. This subsection does not prevent a public transportation operation from establishing a program under this section in cooperation with another public transportation operation.
 
 (f)
 
 Relationship to Other Laws, Regulations, Standards, and Orders.—(1) A State or local government may not prescribe, issue, or continue in effect a law, regulation, standard, or order that is inconsistent with regulations prescribed under this section. However, a regulation prescribed under this section does not preempt a State criminal law that imposes sanctions for reckless conduct leading to loss of life, injury, or damage to property.
 
-(2) In prescribing regulations under this section, the Secretary of Transportation—
+(2) In prescribing regulations under this section, the Secretary—
 
 &emsp;(A) shall establish only requirements that are consistent with international obligations of the United States; and
 
@@ -74,9 +74,17 @@ Relationship to Other Laws, Regulations, Standards, and Orders.—(1) A State or
 
 (g)
 
-Ineligibility for Assistance.—A person is not eligible for financial assistance under section 5307, 5309, or 5311 of this title if the person is required, under regulations the Secretary of Transportation prescribes under this section, to establish a program of alcohol and controlled substances testing and does not establish the program.
+Conditions on Federal Assistance.—
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 832; Pub. L. 103–429, §6(13), Oct. 31, 1994, 108 Stat. 4379; Pub. L. 104–59, title III, §342(a), Nov. 28, 1995, 109 Stat. 608; Pub. L. 109–59, title III, §§3002(b)(3), (4), 3030, Aug. 10, 2005, 119 Stat. 1545, 1625.)
+&emsp;(1)
+
+Ineligibility for assistance.—A person that receives funds under this chapter is not eligible for financial assistance under section 5307, 5309, or 5311 of this title if the person is required, under regulations the Secretary prescribes under this section, to establish a program of alcohol and controlled substances testing and does not establish the program in accordance with this section.
+
+&emsp;(2)
+
+Additional remedies.—If the Secretary determines that a person that receives funds under this chapter is not in compliance with regulations prescribed under this section, the Secretary may bar the person from receiving Federal transit assistance in an amount the Secretary considers appropriate.
+
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 832; Pub. L. 103–429, §6(13), Oct. 31, 1994, 108 Stat. 4379; Pub. L. 104–59, title III, §342(a), Nov. 28, 1995, 109 Stat. 608; Pub. L. 109–59, title III, §§3002(b)(3), (4), 3030, Aug. 10, 2005, 119 Stat. 1545, 1625; Pub. L. 112–141, div. B, §§20022, 20030(f), July 6, 2012, 126 Stat. 717, 731.)
 
 Historical and Revision Notes
 
@@ -138,7 +146,7 @@ In subsection (d)(5), the word “tested” is substituted for “assayed” for
 
 In subsection (d)(6), the word “Secretary” is substituted for “Department” for consistency in the revised title and with other titles of the United States Code.
 
-In subsection (f)(1), the word “prescribe” is substituted for “adopt” for consistency in the revised title and with other titles of the Code. The word “rule” is omitted as being synonymous with “regulation”. The word “ordinance” is omitted as being included in “law” and “regulation”. The words “whether the provisionsapply specifically to mass transportation employees, or to the general public” are omitted as surplus.
+In subsection (f)(1), the word “prescribe” is substituted for “adopt” for consistency in the revised title and with other titles of the Code. The word “rule” is omitted as being synonymous with “regulation”. The word “ordinance” is omitted as being included in “law” and “regulation”. The words “whether the provisions apply specifically to mass transportation employees, or to the general public” are omitted as surplus.
 
 In subsection (f)(3), the word “prevent” is substituted for “restrict the discretion of” to eliminate unnecessary words.
 
@@ -149,6 +157,10 @@ In subsection (g) the words “in accordance with such regulations” are omitte
 This amends 49:5331(a)(3) to correct an erroneous cross-reference.
 
 #### Amendments
+
+<b>2012</b>—Pub. L. 112–141, §20030(f), substituted “Secretary” for “Secretary of Transportation” wherever appearing.
+
+Subsec. (g). Pub. L. 112–141, §20022, added subsec. (g) and struck out former subsec. (g). Prior to amendment, text read as follows: “A person is not eligible for financial assistance under section 5307, 5309, or 5311 of this title if the person is required, under regulations the Secretary of Transportation prescribes under this section, to establish a program of alcohol and controlled substances testing and does not establish the program.”
 
 <b>2005</b>—Subsec. (a)(3). Pub. L. 109–59, §3030(a), substituted “section 20140 or 31306 of this title or section 2303a, 7101(i), or 7302(e) of title 46” for “section 20140 or 31306 of this title” and inserted at end “The Secretary may also decide that a form of public transportation is covered adequately, for employee alcohol and controlled substances testing purposes, under the alcohol and controlled substance statutes or regulations of an agency within the Department of Transportation or the Coast Guard.”.
 
@@ -169,6 +181,10 @@ Subsec. (g). Pub. L. 109–59, §3030(b), struck out “or section 103(e)(4) of 
 <b>1995</b>—Subsec. (b)(1)(A). Pub. L. 104–59 added subpar. (A) and struck out former subpar. (A) which read as follows: “In the interest of mass transportation safety, the Secretary of Transportation shall prescribe regulations not later than October 28, 1992, that establish a program requiring mass transportation operations that receive financial assistance under section 5307, 5309, or 5311 of this title or section 103(e)(4) of title 23 to conduct preemployment, reasonable suspicion, random, and post-accident testing of mass transportation employees responsible for safety-sensitive functions (as decided by the Secretary) for the use of alcohol or a controlled substance in violation of law or a United States Government regulation.”
 
 <b>1994</b>—Subsec. (a)(3). Pub. L. 103–429 substituted “section 20140 or 31306” for “subchapter III of chapter 201 or section 31306”.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
 
 #### Effective Date of 1994 Amendment
 

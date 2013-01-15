@@ -50,7 +50,7 @@ In accepting contracts for the program, the Secretary, to the extent practicable
 
 #### (e) Contracts
 
-The Secretary shall enter into contracts with producers to enroll acreage in the program.Such contracts shall be for a period of not less than 3 years, but may, at the producer's option, be for a longer period of time (up to 5 years) and may be renewed upon mutual agreement between the Secretary and the producer.
+The Secretary shall enter into contracts with producers to enroll acreage in the program. Such contracts shall be for a period of not less than 3 years, but may, at the producer's option, be for a longer period of time (up to 5 years) and may be renewed upon mutual agreement between the Secretary and the producer.
 
 #### (f) Requirements of plans
 

@@ -124,7 +124,7 @@ The Board shall—
 
 &emsp;&emsp;(C) request information or assistance from any State, tribal, or local government; and
 
-&emsp;&emsp;(D) at the direction of a majority of the members of the Board, submit a written request to the Attorney General of the United States that the Attorney General require, by subpoena, persons (other than departments, agencies, and elements of the executive branch) to produce any relevant information, documents, reports, answers, records, accounts, papers, and other documentary or testimonial evidence.
+&emsp;&emsp;(D) at the direction of a majority of the members of the Board, submit a written request to the Attorney General of the United States that the Attorney General require, by subpoena, persons (other than departments, agencies, and elements of the executivebranch) to produce any relevant information, documents, reports, answers, records, accounts, papers, and other documentary or testimonial evidence.
 
 #### (2) Review of subpoena request
 
@@ -198,11 +198,11 @@ The Board shall—
 
 #### (1) Appointment and compensation
 
-&emsp;The chairman of the Board, in accordance with rules agreed upon by the Board, shall appoint and fix the compensation of a full-time executive director and such other personnel as may be necessary to enable the Board to carry out its functions, without regard to the provisions of title 5 governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that no rate of pay fixed under this subsection may exceed the equivalent of that payable for a position at level V of the Executive Schedule under section 5316 of title 5.
+&emsp;The chairman of the Board, in accordance with rules agreed upon by the Board, shall appoint and fix the compensation of a full-time executive director and such other personnel as may be necessary to enable the Board to carry out its functions, without regard to the provisions of title 5 governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that no rate of pay fixed under this subsectionmay exceed the equivalent of that payable for a position at level V of the Executive Schedule under section 5316 of title 5.
 
 #### (2) Detailees
 
-&emsp;Any Federal employee may be detailed to the Board without reimbursement from theBoard, and such detailee shall retain the rights, status, and privileges of the detailee's regular employment without interruption.
+&emsp;Any Federal employee may be detailed to the Board without reimbursement from the Board, and such detailee shall retain the rights, status, and privileges of the detailee's regular employment without interruption.
 
 #### (3) Consultant services
 
@@ -218,7 +218,7 @@ The Board shall—
 
 &emsp;After consultation with the Secretary of Defense, the Attorney General, and the Director of National Intelligence, the Board shall adopt rules and procedures of the Board for physical, communications, computer, document, personnel, and other security relating to carrying out the functions of the Board.
 
-#### (<i>l</i>) Treatment as agency, not as advisory committee
+#### (l) Treatment as agency, not as advisory committee
 
 The Board—
 
@@ -246,7 +246,7 @@ There are authorized to be appropriated to carry out this section amounts as fol
 
 Section 5703 of title 5, referred to in subsec. (i)(2), was amended generally by Pub. L. 94–22, §4, May 19, 1975, 89 Stat. 85, and, as so amended, does not contain a subsec. (b).
 
-Section 3(2) of the Federal Advisory Committee Act, referred to in subsec. (<i>l</i>)(2), is section 3(2) of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 3(2) of the Federal Advisory Committee Act, referred to in subsec. (l)(2), is section 3(2) of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
 
@@ -254,7 +254,7 @@ Section was formerly set out as a note under section 601 of Title 5, Government 
 
 #### Amendments
 
-<b>2007</b>—Pub. L. 110–53 amended section generally, substituting provisions relating to Privacy and Civil Liberties Oversight Board, consisting of subsecs. (a) to (m), for provisions relating to Privacy and Civil Liberties Oversight Board, consisting of subsecs. (a) to (<i>l</i>).
+<b>2007</b>—Pub. L. 110–53 amended section generally, substituting provisions relating to Privacy and Civil Liberties Oversight Board, consisting of subsecs. (a) to (m), for provisions relating to Privacy and Civil Liberties Oversight Board, consisting of subsecs. (a) to (l).
 
 #### Effective Date of 2007 Amendment
 

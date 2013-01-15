@@ -110,7 +110,7 @@
 
 #### (d) Data and information
 
-The Secretary shall obtain from each appropriate Federal agency, the most recent data and information necessary to determine the allotments provided for in subsection (b) of this section.
+The Secretary shall obtain from each appropriate Federal agency, the most recent data andinformation necessary to determine the allotments provided for in subsection (b) of this section.
 
 #### (e) Reallotments
 

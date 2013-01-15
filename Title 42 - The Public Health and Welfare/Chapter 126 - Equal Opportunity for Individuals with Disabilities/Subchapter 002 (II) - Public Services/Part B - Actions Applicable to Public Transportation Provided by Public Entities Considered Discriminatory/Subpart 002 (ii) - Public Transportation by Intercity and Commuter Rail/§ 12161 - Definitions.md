@@ -48,7 +48,7 @@ In pars. (1) and (2), “section 24102(4) of title 49” substituted for “sect
 
 #### Effective Date
 
-Section 246 of Pub. L. 101–336 provided that:
+Pub. L. 101–336, title II, §246, July 26, 1990, 104 Stat. 353, provided that:
 
 “(a)
 

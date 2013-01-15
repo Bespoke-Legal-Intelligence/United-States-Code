@@ -36,7 +36,7 @@ Section was enacted as part of the National Science Foundation Authorization Act
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a)(2). Pub. L. 111–358 substituted “To ensure transparency of the Board's entire decision-making process, including deliberations on Board business occurring within its various subdivisions, the Board” for “The Board” and inserted at end “The preceding requirement will apply to meetings of the fullBoard, whenever a quorum is present; and to meetings of its subdivisions, whenever a quorum of the subdivision is present.”
+<b>2011</b>—Subsec. (a)(2). Pub. L. 111–358 substituted “To ensure transparency of the Board's entire decision-making process, including deliberations on Board business occurring within its various subdivisions, the Board” for “The Board” and inserted at end “The preceding requirement will apply to meetings of the full Board, whenever a quorum is present; and to meetings of its subdivisions, whenever a quorum of the subdivision is present.”
 
 <b>2007</b>—Subsec. (a)(3). Pub. L. 110–69, §7015(a)(1), substituted “an audit every three years” for “an annual audit”.
 

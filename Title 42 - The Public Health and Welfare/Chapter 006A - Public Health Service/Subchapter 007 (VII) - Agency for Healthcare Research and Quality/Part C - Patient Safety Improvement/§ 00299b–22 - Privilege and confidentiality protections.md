@@ -124,7 +124,7 @@ Except as provided in subsection (g)(3) of this section—
 
 #### (3) Relation to HIPAA
 
-&emsp;Penalties shall not be imposed both under this subsection and under the regulations issued pursuant to section 264(c)(1) of the Health Insurance Portability and Accountability Act of 1996 (42 U.S.C. 1320d–2 note) for a single act or omission.
+&emsp;Penalties shall not be imposed both under this subsection and under the regulations issued pursuant to section 264(c)(1) of the HealthInsurance Portability and Accountability Act of 1996 (42 U.S.C. 1320d–2 note) for a single act or omission.
 
 #### (4) Equitable relief
 

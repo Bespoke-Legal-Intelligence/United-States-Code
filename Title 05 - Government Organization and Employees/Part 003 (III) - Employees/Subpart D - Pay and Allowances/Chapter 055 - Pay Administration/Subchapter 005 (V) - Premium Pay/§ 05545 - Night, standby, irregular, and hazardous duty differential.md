@@ -104,7 +104,7 @@ The Occupational Safety and Health Act of 1970, referred to in subsec. (d), is P
 
 Subsec. (d). Pub. L. 101–509, §529 \[title II, §203\], as amended by Pub. L. 102–378, struck out “irregular or intermittent” before “duty involving unusual” in first sentence and inserted “, except in such circumstances as the Office may by regulation prescribe” after “thereof” in par. (1).
 
-<b>1989</b>—Subsec. (c)(2). Pub. L. 101–173 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “an employee in a position in which the hours of duty cannot be controlled administratively, and which requires substantial amounts of irregular, unscheduled, overtime duty with the employee generally being responsible for recognizing, without supervision, circumstances which require him to remain on duty, shall receive premium pay for this duty on an annual basis instead of premium pay provided by other provisions of this subchapter, except for regularly scheduled overtime, night, and Sunday duty, and for holiday duty. Premium pay under this paragraph is determined as an appropriate percentage, not less than 10 percent nor more than 25 percent, of such part of the rate of basic pay for the position as does not exceed the minimum rate of basic pay for GS–10, by taking into consideration the frequency and duration of irregular unscheduled overtime duty required in the position.”
+<b>1989</b>—Subsec. (c)(2). Pub. L. 101–173 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “an employee in a position in which the hours of duty cannot be controlled administratively, and which requires substantial amounts of irregular, unscheduled,overtime duty with the employee generally being responsible for recognizing, without supervision, circumstances which require him to remain on duty, shall receive premium pay for this duty on an annual basis instead of premium pay provided by other provisions of this subchapter, except for regularly scheduled overtime, night, and Sunday duty, and for holiday duty. Premium pay under this paragraph is determined as an appropriate percentage, not less than 10 percent nor more than 25 percent, of such part of the rate of basic pay for the position as does not exceed the minimum rate of basic pay for GS–10, by taking into consideration the frequency and duration of irregular unscheduled overtime duty required in the position.”
 
 <b>1982</b>—Subsec. (a). Pub. L. 97–258 substituted “section 5141” for “section 180”.
 
@@ -114,7 +114,7 @@ Subsec. (d). Pub. L. 101–509, §529 \[title II, §203\], as amended by Pub. L.
 
 <b>1975</b>—Pub. L. 94–183 struck out “Sunday,” after “Night,” in section catchline.
 
-<b>1970</b>—Subsec. (c)(2). Pub. L. 91–231 corrected the system of premium compensation of employees whose work schedules cannot be administratively controlledby providing for separate treatment for irregular, unscheduled, and overtime duty on one hand and for duty at night, on Sundays, and on holidays on the other.
+<b>1970</b>—Subsec. (c)(2). Pub. L. 91–231 corrected the system of premium compensation of employees whose work schedules cannot be administratively controlled by providing for separate treatment for irregular, unscheduled, and overtime duty on one hand and for duty at night, on Sundays, and on holidays on the other.
 
 <b>1968</b>—Subsec. (c)(1). Pub. L. 90–556 inserted “(or, for a position described in section 5542(a)(3) of this title, of the basic pay of the position)” after “GS–10”.
 
@@ -130,7 +130,7 @@ Amendment by Pub. L. 101–509 effective on such date as the President shall det
 
 #### Effective Date of 1989 Amendment
 
-Section 1(b) of Pub. L. 101–173 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to overtime duty performed on or after the first day of the first applicable pay period beginning after September 30, 1990.”
+Pub. L. 101–173, §1(b), Nov. 27, 1989, 103 Stat. 1292, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to overtime duty performed on or after the first day of the first applicable pay period beginning after September 30, 1990.”
 
 #### Effective Date of 1979 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) General authority
 
-In order to provide health professionals to Indians, Indian tribes, tribal organizations, and urban Indian organizations, the Secretary, acting through the Service and in accordance with this section, shall make scholarship grants to Indians who are enrolled full or part time in appropriately accredited schools and pursuing courses of study in the health professions. Such scholarships shall be designated Indian Health Scholarships and shall be made in accordance with section 254<i>l</i> of title 42, except as provided in subsection (b) of this section.
+In order to provide health professionals to Indians, Indian tribes, tribal organizations, and urban Indian organizations, the Secretary, acting through the Service and in accordance with this section, shall make scholarship grants to Indians who are enrolled full or part time in appropriately accredited schools and pursuing courses of study in the health professions. Such scholarships shall be designated Indian Health Scholarships and shall be made in accordance with section 254l of title 42, except as provided in subsection (b) of this section.
 
 #### (b) Recipients; active duty service obligation
 
@@ -10,7 +10,7 @@ In order to provide health professionals to Indians, Indian tribes, tribal organ
 
 (2) An individual shall be eligible for a scholarship under subsection (a) of this section in any year in which such individual is enrolled full or part time in a course of study referred to in subsection (a) of this section.
 
-(3)(A) The active duty service obligation under a written contract with the Secretary under section 254<i>l</i> of title 42 that an individual has entered into under that section shall, if that individual is a recipient of an Indian Health Scholarship, be met in full-time practice, by service—
+(3)(A) The active duty service obligation under a written contract with the Secretary under section 254l of title 42 that an individual has entered into under that section shall, if that individual is a recipient of an Indian Health Scholarship, be met in full-time practice, by service—
 
 &emsp;(i) in the Indian Health Service;
 
@@ -46,7 +46,7 @@ In order to provide health professionals to Indians, Indian tribes, tribal organ
 
 &emsp;&emsp;(ii) two years; and
 
-&emsp;(C) the amount of the monthly stipend specified in section 254<i>l</i>(g)(1)(B) of title 42 shall be reduced pro rata (as determined by the Secretary) based on the number of hours such student is enrolled.
+&emsp;(C) the amount of the monthly stipend specified in section 254l(g)(1)(B) of title 42 shall be reduced pro rata (as determined by the Secretary) based on the number of hours such student is enrolled.
 
 (5)(A) An individual who has, on or after October 29, 1992, entered into a written contract with the Secretary under this section and who—
 
@@ -60,7 +60,7 @@ In order to provide health professionals to Indians, Indian tribes, tribal organ
 
 > in lieu of any service obligation arising under such contract, shall be liable to the United States for the amount which has been paid to him, or on his behalf, under the contract.
 
-(B) If for any reason not specified in subparagraph (A) an individual breaches his written contract by failing either to begin such individual's service obligation under this section or to complete such service obligation, the United States shall be entitled to recover from the individual an amount determined in accordance with the formula specified in subsection (<i>l</i>) of section 1616a of this title in the manner provided for in such subsection.
+(B) If for any reason not specified in subparagraph (A) an individual breaches his written contract by failing either to begin such individual's service obligation under this section or to complete such service obligation, the United States shall be entitled to recover from the individual an amount determined in accordance with the formula specified in subsection (l) of section 1616a of this title in the manner provided for in such subsection.
 
 (C) Upon the death of an individual who receives an Indian Health Scholarship, any obligation of that individual for service or payment that relates to that scholarship shall be canceled.
 
@@ -92,7 +92,7 @@ A prior section 104 of Pub. L. 94–437, title I, Sept. 30, 1976, 90 Stat. 1403,
 
 #### Amendments
 
-<b>1996</b>—Subsec. (b)(3)(A). Pub. L. 104–313, §2(b)(1)(A), substituted “The active duty service obligation under a written contract with the Secretary under section 254<i>l</i> of title 42 that an individual has entered into under that section shall, if that individual is a recipient of an Indian Health Scholarship, be met in full-time practice, by service—” for “The active duty service obligation prescribed under section 254m of title 42 shall be met by a  recipient  of  an  Indian  Health  Scholarship  by service—” in introductory provisions, struck out “or” at end of cl. (iii), and substituted “; or” for period at end of cl. (iv).
+<b>1996</b>—Subsec. (b)(3)(A). Pub. L. 104–313, §2(b)(1)(A), substituted “The active duty service obligation under a written contract with the Secretary under section 254l of title 42 that an individual has entered into under that section shall, if that individual is a recipient of an Indian Health Scholarship, be met in full-time practice, by service—” for “The active duty service obligation prescribed under section 254m of title 42 shall be met by a  recipient  of  an  Indian  Health  Scholarship  by service—” in introductory provisions, struck out “or” at end of cl. (iii), and substituted “; or” for period at end of cl. (iv).
 
 Subsec. (b)(3)(B). Pub. L. 104–313, §2(b)(1)(C), added subpar. (B). Former subpar. (B) redesignated (C).
 
@@ -104,9 +104,9 @@ Subsec. (b)(3)(D). Pub. L. 104–313, §2(b)(1)(E), substituted “Subject to su
 
 Pub. L. 104–313, §2(b)(1)(B), redesignated subpar. (C) as (D).
 
-Subsec. (b)(4)(B). Pub. L. 104–313, §2(b)(2)(A), substituted “the period of obligated service described in paragraph (3)(A) shall be equal to the greater of—” for “the period of obligated service specified in section 254<i>l</i>(f)(1)(B)(iv) of title 42 shall be equal to the greater of—” in introductory provisions.
+Subsec. (b)(4)(B). Pub. L. 104–313, §2(b)(2)(A), substituted “the period of obligated service described in paragraph (3)(A) shall be equal to the greater of—” for “the period of obligated service specified in section 254l(f)(1)(B)(iv) of title 42 shall be equal to the greater of—” in introductory provisions.
 
-Subsec. (b)(4)(C). Pub. L. 104–313, §2(b)(2)(B), made technical amendment to reference in original act which appears in text as reference to section 254<i>l</i>(g)(1)(B) of title 42.
+Subsec. (b)(4)(C). Pub. L. 104–313, §2(b)(2)(B), made technical amendment to reference in original act which appears in text as reference to section 254l(g)(1)(B) of title 42.
 
 Subsec. (b)(5)(C) to (F). Pub. L. 104–313, §2(b)(3), added subpars. (C) to (F).
 
@@ -128,7 +128,7 @@ Subsec. (d). Pub. L. 102–573, §102(c)(4), struck out subsec. (d) which author
 
 #### Effective Date of 1992 Amendment
 
-Section 102(d) of Pub. L. 102–573 provided that: “The amendments made by subsection (c)(1)(C) and subsection (c)(2)(B) \[amending this section\] shall apply with respect to scholarships granted under section 104 of the Indian Health Care Improvement Act \[this section\] after the date of the enactment of this Act \[Oct. 29, 1992\].”
+Pub. L. 102–573, title I, §102(d), Oct. 29, 1992, 106 Stat. 4532, provided that: “The amendments made by subsection (c)(1)(C) and subsection (c)(2)(B) \[amending this section\] shall apply with respect to scholarships granted under section 104 of the Indian Health Care Improvement Act \[this section\] after the date of the enactment of this Act \[Oct. 29, 1992\].”
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “or”.</i>
 

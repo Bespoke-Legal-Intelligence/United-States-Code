@@ -12,7 +12,7 @@
 
 (2) The Secretary, acting through the Commissioner of Reclamation, shall promulgate such regulations as the Secretary determines to be necessary—
 
-&emsp;(A) to carry out the provisions of this section and section 460<i>l</i>–34 of this title;
+&emsp;(A) to carry out the provisions of this section and section 460l–34 of this title;
 
 &emsp;(B) to ensure the protection, comfort, and well-being of the public (including the protection of public safety) with respect to the use of Reclamation lands; and
 
@@ -52,7 +52,7 @@ Funds expended by the Secretary in carrying out the provisions of this part shal
 
 #### References in Text
 
-This part, referred to in subsec. (d), was in the original “this title”, meaning title XXVIII of Pub. L. 102–575, Oct. 30, 1992, 106 Stat. 4690, which enacted sections 460<i>l</i>–31 to 460<i>l</i>–34 of this title and amended sections 460<i>l</i>–13 to 460<i>l</i>–15 and 460<i>l</i>–18 of this title.
+This part, referred to in subsec. (d), was in the original “this title”, meaning title XXVIII of Pub. L. 102–575, Oct. 30, 1992, 106 Stat. 4690, which enacted sections 460l–31 to 460l–34 of this title and amended sections 460l–13 to 460l–15 and 460l–18 of this title.
 
 Act of June 17, 1902, referred to in subsec. (d), is act June 17, 1902, ch. 1093, 32 Stat. 388, popularly known as the Reclamation Act, which is classified generally to chapter 12 (§371 et seq.) of Title 43, Public Lands. However, section 371 of Title 43 is act Dec. 5, 1924, ch. 4, §4, subsec. A, 43 Stat. 701. For complete classification of act June 17, 1902, to the Code, see Short Title note set out under section 371 of Title 43 and Tables.
 

@@ -28,7 +28,7 @@ Limitations.—
 
 &emsp;(1)
 
-In general.—The exemption authority under this section may not be used to relievea person from the application of, and compliance with, any law, rule, regulation, standard, or order pertaining to cargo loss and damage, insurance, safety fitness, or activities approved under section 13703 or 14302 or not terminated under section 13907(d)(2).
+In general.—The exemption authority under this section may not be used to relieve a person from the application of, and compliance with, any law, rule, regulation, standard, or order pertaining to cargo loss and damage, insurance, safety fitness, or activities approved under section 13703 or 14302 or not terminated under section 13907(d)(2).
 
 &emsp;(2)
 

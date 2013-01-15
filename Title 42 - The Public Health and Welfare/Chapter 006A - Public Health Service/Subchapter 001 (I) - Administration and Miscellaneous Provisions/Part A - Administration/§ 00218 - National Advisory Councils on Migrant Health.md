@@ -10,7 +10,7 @@ The Council shall consist of fifteen members, at least twelve of whom shall be m
 
 #### (c) Terms of office
 
-Each member of the Council shall hold office for a term of four years, except that (1) anymember appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term; and (2) the terms of the members first taking office after July 29, 1975, shall expire as follows: four shall expire four years after such date, four shall expire three years after such date, four shall expire two years after such date, and three shall expire one year after such date, as designated by the Secretary at the time of appointment.
+Each member of the Council shall hold office for a term of four years, except that (1) any member appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term; and (2) the terms of the members first taking office after July 29, 1975, shall expire as follows: four shall expire four years after such date, four shall expire three years after such date, four shall expire two years after such date, and three shall expire one year after such date, as designated by the Secretary at the time of appointment.
 
 #### (d) Applicability of section 14(a) of Federal Advisory Committee Act
 
@@ -110,7 +110,7 @@ Subsecs. (d), (e). Act July 3, 1946, added subsecs. (d) and (e).
 
 #### Effective Date of 1978 Amendment
 
-Section 302(b) of Pub. L. 95–622 provided that the amendment made by that section is effective Nov. 1, 1978.
+Pub. L. 95–622, title III, §302(b), Nov. 9, 1978, 92 Stat. 3442, provided that the amendment made by that section is effective Nov. 1, 1978.
 
 #### Effective Date of 1975 Amendment
 
@@ -118,25 +118,25 @@ Amendment by Pub. L. 94–63 effective July 1, 1975, see section 608 of Pub. L. 
 
 #### Effective Date of 1974 Amendment
 
-Section 211(b) of Pub. L. 93–348, as amended by Pub. L. 94–278, title III, §301(b), Apr. 22, 1976, 90 Stat. 407; Pub. L. 94–573, §18(b), Oct. 21, 1976, 90 Stat. 2720; Pub. L. 95–203, §5(b), Nov. 23, 1977, 91 Stat. 1454, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect November 1, 1978.”
+Pub. L. 93–348, title II, §211(b), July 12, 1974, 88 Stat. 352, as amended by Pub. L. 94–278, title III, §301(b), Apr. 22, 1976, 90 Stat. 407; Pub. L. 94–573, §18(b), Oct. 21, 1976, 90 Stat. 2720; Pub. L. 95–203, §5(b), Nov. 23, 1977, 91 Stat. 1454, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect November 1, 1978.”
 
 #### Effective Date of 1972 Amendment
 
-Section 9 of Pub. L. 92–423 provided that: “This Act and the amendments made by this Act \[see Short Title of 1972 Amendment note under section 201 of this title\] shall take effect sixty days after the date of enactment of this Act \[Sept. 19, 1972\] or on such prior date after the date of enactment of this Act as the President shall prescribe and publish in the Federal Register.”
+Pub. L. 92–423, §9, Sept. 19, 1972, 86 Stat. 687, provided that: “This Act and the amendments made by this Act \[see Short Title of 1972 Amendment note under section 201 of this title\] shall take effect sixty days after the date of enactment of this Act \[Sept. 19, 1972\] or on such prior date after the date of enactment of this Act as the President shall prescribe and publish in the Federal Register.”
 
 #### Effective Date of 1971 Amendment
 
-Section 7 of Pub. L. 92–218 provided that:
+Pub. L. 92–218, §7, Dec. 23, 1971, 85 Stat. 785, provided that:
 
-“(a) This Act and the amendments made by this Act \[enacting sections 286a to 286g and 289<i>l</i> of this title, amending this section and sections 241, 282, 283, and 284 of this title, and enacting provisions set out as notes under sections 281 and 286 of this title\] shall take effect sixty days after the date of enactment of this Act \[Dec. 23, 1971\] or on such prior date after the date of enactment of this Act as the President shall prescribe and publish in the Federal Register.
+“(a) This Act and the amendments made by this Act \[enacting sections 286a to 286g and 289l of this title, amending this section and sections 241, 282, 283, and 284 of this title, and enacting provisions set out as notes under sections 281 and 286 of this title\] shall take effect sixty days after the date of enactment of this Act \[Dec. 23, 1971\] or on such prior date after the date of enactment of this Act as the President shall prescribe and publish in the Federal Register.
 
-“(b) The first sentence of section 454 of the Public Health Service Act \[section 289<i>l</i> of this title\] (added by section 5 of this Act) shall apply only with respect to appointments made after the effective date of this Act (as prescribed by subsection (a)).
+“(b) The first sentence of section 454 of the Public Health Service Act \[section 289l of this title\] (added by section 5 of this Act) shall apply only with respect to appointments made after the effective date of this Act (as prescribed by subsection (a)).
 
 “(c) Notwithstanding the provisions of subsection (a), members of the National Cancer Advisory Board (authorized under section 410B of the Public Health Service Act, as added by this Act) \[section 286f of this title\] may be appointed, in the manner provided for in such section, at any time after the date of enactment of this Act \[Dec. 23, 1971\]. Such officers shall be compensated from the date they first take office, at the rates provided for in such section 410B \[section 286f of this title\].”
 
 #### Effective Date of 1950 Amendment
 
-Section 3(a), (c) of act Aug. 15, 1950, provided that the amendments and repeals made by that section are effective Oct. 1, 1950.
+Act Aug. 15, 1950, ch. 714, §3(a), (c), 64 Stat. 446, provided that the amendments and repeals made by section 3(a) and (c) are effective Oct. 1, 1950.
 
 #### Transfer of Functions
 
@@ -152,11 +152,11 @@ Reference to community health center, migrant health center, public housing heal
 
 #### Expiration of Terms of Office on September 30, 1950
 
-Section 3(c) of act Aug. 15, 1950, provided in part that terms of office as members of national advisory councils pursuant to this section subsisting on Sept. 30, 1950, shall expire at the close of business on such day.
+Act Aug. 15, 1950, ch. 714, §3(c), 64 Stat. 446, provided in part that terms of office as members of national advisory councils pursuant to this section subsisting on Sept. 30, 1950, shall expire at the close of business on such day.
 
 #### Termination of National Advisory Health Council
 
-Section 3(a)(1) of Pub. L. 99–158 provided that: “The National Advisory Health Council established under section 217 \[this section\] is terminated.”
+Pub. L. 99–158, §3(a)(1), Nov. 20, 1985, 99 Stat. 878, provided that: “The National Advisory Health Council established under section 217 \[this section\] is terminated.”
 
 #### Termination of Advisory Committees
 

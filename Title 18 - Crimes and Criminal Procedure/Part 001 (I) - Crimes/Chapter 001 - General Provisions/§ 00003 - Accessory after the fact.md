@@ -30,5 +30,5 @@ Pub. L. 103–322, §330011(h), amended directory language of Pub. L. 101–647,
 
 #### Effective Date of 1994 Amendment
 
-Section 330011(h) of Pub. L. 103–322 provided that the amendment made by that section is effective as of Nov. 29, 1990.
+Pub. L. 103–322, title XXXIII, §330011(h), Sept. 13, 1994, 108 Stat. 2145, provided that the amendment made by that section is effective as of Nov. 29, 1990.
 

@@ -8,7 +8,7 @@ The Secretary shall, in consultation with the Interagency Energy Management Task
 
 &emsp;(2) making recommendations for cost effective energy efficiency and renewable energy improvements in those buildings and in other similar Federal buildings; and
 
-&emsp;(3) identifying barriers which may prevent an agency's ability to comply with section 8253 of this title and other energy management goals.
+&emsp;(3) identifying barriers which may prevent an agency's ability to comply with section 8253of this title and other energy management goals.
 
 #### (b) Implementation
 

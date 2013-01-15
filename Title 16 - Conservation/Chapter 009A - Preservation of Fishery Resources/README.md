@@ -45,7 +45,7 @@
 | [760e.](%C2%A7%2000760e%20-%20Study%20of%20migratory%20game%20fish%3B%20waters%3B%20research%3B%20purpose.md) | Study of migratory game fish; waters; research; purpose. |
 | [760f.](%C2%A7%2000760f%20-%20Migratory%20game%20fish%20study%3B%20authorization%20to%20acquire%20facilities%2C%20employ%20officers%20and%20employees%2C%20cooperate%20with%20State%20and%20other%20agencies%E2%80%A6.md) | Migratory game fish study; authorization to acquire facilities, employ officers and employees, cooperate with State and other agencies, and to publish results. |
 | [760g.](%C2%A7%2000760g%20-%20Authorization%20of%20appropriations%20for%20migratory%20game%20fish%20study.md) | Authorization of appropriations for migratory game fish study. |
-| 760h to 760<i>l</i>. Omitted. |  |
+| 760h to 760l. Omitted. |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

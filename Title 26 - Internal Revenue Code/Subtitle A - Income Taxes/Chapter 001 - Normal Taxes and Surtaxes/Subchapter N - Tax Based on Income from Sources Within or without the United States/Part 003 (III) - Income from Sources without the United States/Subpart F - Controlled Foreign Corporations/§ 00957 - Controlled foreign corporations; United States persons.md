@@ -52,7 +52,7 @@ Subsec. (c). Pub. L. 99–514, §1273(a), added par. (2) and concluding provisio
 
 “(2) with respect to a corporation organized under the laws of the Virgin Islands, such term does not include an individual who is a bona fide resident of the Virgin Islands and whose income tax obligation under this subtitle for the taxable year is satisfied pursuant to section 28(a) of the Revised Organic Act of the Virgin Islands, approved July 22, 1954 (48 U.S.C. 1642), by paying tax on income derived from all sources both within and outside the Virgin Islands into the treasury of the Virgin Islands, and
 
-“(3) with respect to a corporation organized under the laws of any other possession of the United States, such term does not include an individual who is a bona fide resident of any such other possession and whose incomederived from sources within possessions of the United States is not, by reason of section 931(a), includible in gross income under this subtitle for the taxable year.”
+“(3) with respect to a corporation organized under the laws of any other possession of the United States, such term does not include an individual who is a bona fide resident of any such other possession and whose income derived from sources within possessions of the United States is not, by reason of section 931(a), includible in gross income under this subtitle for the taxable year.”
 
 Pub. L. 99–514, §1224(a), redesignated subsec. (d) as (c) and struck out former subsec. (c) which provided circumstances under which for purposes of this subpart, the term “controlled foreign corporation” would not include certain corporations created or organized in Puerto Rico or a possession of the United States or under the laws of Puerto Rico or a possession of the United States.
 
@@ -88,7 +88,7 @@ Special rule for beneficiary of trust.—In the case of an individual—
 
 > amounts which are included in the gross income of such beneficiary under section 951(a) of the Internal Revenue Code of 1986 with respect to stock held by the trust (and treated as distributed to the trust) shall be treated as the first amounts which are distributed by the trust to such beneficiary and as amounts to which section 959(a) of such Code applies.”
 
-Section 1224(b) of Pub. L. 99–514 provided that:
+Pub. L. 99–514, title XII, §1224(b), Oct. 22, 1986, 100 Stat. 2558, provided that:
 
 “(1)
 

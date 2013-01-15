@@ -2,11 +2,11 @@
 
 (a) The Congress finds that the natural resources of the United States in certain strategic and critical materials are deficient or insufficiently developed to supply the military, industrial, and essential civilian needs of the United States for national defense.
 
-(b) It is the purpose of this subchapter to provide for the acquisition and retention of stocks of certain strategic and critical materials and to encourage the conservation and development of sources of such materials within the United States and thereby to decrease and to preclude, when possible, a dangerous and costly dependence by the United States upon foreign sources for supplies of such materials in times of national emergency.
+(b) It is the purpose of this subchapter to provide for the acquisition and retention of stocks of certain strategic and critical materials and to encourage the conservation and development of sources of such materials within the United States and thereby to decrease and to preclude, when possible, a dangerous and costly dependence by the United States upon foreign sources or a single point of failure for supplies of such materials in times of national emergency.
 
 (c) The purpose of the National Defense Stockpile is to serve the interest of national defense only. The National Defense Stockpile is not to be used for economic or budgetary purposes.
 
-(June 7, 1939, ch. 190, §2, as added Pub. L. 96–41, §2(a), July 30, 1979, 93 Stat. 319; amended Pub. L. 100–180, div. C, title II, §3202(b), Dec. 4, 1987, 101 Stat. 1245; Pub. L. 103–160, div. C, title XXXIII, §3311, Nov. 30, 1993, 107 Stat. 1961; Pub. L. 104–201, div. C, title XXXIII, §3311(b), Sept. 23, 1996, 110 Stat. 2857.)
+(June 7, 1939, ch. 190, §2, as added Pub. L. 96–41, §2(a), July 30, 1979, 93 Stat. 319; amended Pub. L. 100–180, div. C, title II, §3202(b), Dec. 4, 1987, 101 Stat. 1245; Pub. L. 103–160, div. C, title XXXIII, §3311, Nov. 30, 1993, 107 Stat. 1961; Pub. L. 104–201, div. C, title XXXIII, §3311(b), Sept. 23, 1996, 110 Stat. 2857; Pub. L. 112–239, div. A, title XIV, §1412, Jan. 2, 2013, 126 Stat. 2048.)
 
 #### Prior Provisions
 
@@ -15,6 +15,8 @@ A prior section 98a, acts June 7, 1939, ch. 190, §2, 53 Stat. 811; July 23, 194
 Provisions similar to those in this section were contained in former section 98 of this title prior to repeal by Pub. L. 96–41.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (b). Pub. L. 112–239 inserted “or a single point of failure” after “foreign sources”.
 
 <b>1996</b>—Subsec. (c). Pub. L. 104–201 added subsec. (c) and struck out former subsec. (c) which read as follows: “In providing for the National Defense Stockpile under this subchapter, Congress establishes the following principles:
 
@@ -32,5 +34,5 @@ Subsec. (c)(3). Pub. L. 103–160, §3311(2), added par. (3).
 
 #### Effective Date of 1996 Amendment
 
-Section 3311(c) of Pub. L. 104–201 provided that: “The amendments made by this section \[amending this section and section 98h–5 of this title\] shall take effect on October 1, 1996.”
+Pub. L. 104–201, div. C, title XXXIII, §3311(c), Sept. 23, 1996, 110 Stat. 2857, provided that: “The amendments made by this section \[amending this section and section 98h–5 of this title\] shall take effect on October 1, 1996.”
 

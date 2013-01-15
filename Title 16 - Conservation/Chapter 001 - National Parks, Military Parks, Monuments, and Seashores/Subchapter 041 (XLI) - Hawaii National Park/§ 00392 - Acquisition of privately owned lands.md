@@ -20,9 +20,9 @@ Admission of Hawaii into the Union was accomplished Aug. 21, 1959, on issuance o
 
 Designation of portion of Hawaii National Park situated on island of Hawaii as Hawai‘i Volcanoes National Park, effective Sept. 22, 1961, see section 391d of this title.
 
-#### Haleakala�AE8 National Park
+#### Haleakalā National Park
 
-Establishment of detached portion of Hawaii National Park lying on island of Maui as Haleakala�AE8 National Park, effective July 1, 1961, see section 396b of this title.
+Establishment of detached portion of Hawaii National Park lying on island of Maui as Haleakalā National Park, effective July 1, 1961, see section 396b of this title.
 
 #### Extension of Application
 

@@ -22,7 +22,7 @@ It shall be unlawful for any person to make any false or misleading statement of
 
 #### (3) Other manipulation
 
-In addition to the prohibition in paragraph (1), it shall be unlawful for any person, directly orindirectly, to manipulate or attempt to manipulate the price of any swap, or of any commodity in interstate commerce, or for future delivery on or subject to the rules of any registered entity.
+In addition to the prohibition in paragraph (1), it shall be unlawful for any person, directly or indirectly, to manipulate or attempt to manipulate the price of any swap, or of any commodity in interstate commerce, or for future delivery on or subject to the rules of any registered entity.
 
 #### (4) Enforcement
 
@@ -62,7 +62,7 @@ In addition to the prohibition in paragraph (1), it shall be unlawful for any pe
 
 #### (5) Subpoena
 
-For the purpose of securing effective enforcement of the provisions of this chapter, for the purpose of any investigation or proceeding under this chapter, and for the purpose of any action taken under section 16(f) of this title, any member of the Commission or any Administrative Law Judge or other officer designated by the Commission (except as provided in paragraph (7)) may administer oaths and affirmations, subpoena witnesses, compel their attendance, take evidence, and require the production of any books, papers, correspondence, memoranda, or other records that the Commission deems relevant or material to the inquiry.
+For the purpose of securing effective enforcement of the provisions of this chapter, for thepurpose of any investigation or proceeding under this chapter, and for the purpose of any action taken under section 16(f) of this title, any member of the Commission or any Administrative Law Judge or other officer designated by the Commission (except as provided in paragraph (7)) may administer oaths and affirmations, subpoena witnesses, compel their attendance, take evidence, and require the production of any books, papers, correspondence, memoranda, or other records that the Commission deems relevant or material to the inquiry.
 
 #### (6) Witnesses
 

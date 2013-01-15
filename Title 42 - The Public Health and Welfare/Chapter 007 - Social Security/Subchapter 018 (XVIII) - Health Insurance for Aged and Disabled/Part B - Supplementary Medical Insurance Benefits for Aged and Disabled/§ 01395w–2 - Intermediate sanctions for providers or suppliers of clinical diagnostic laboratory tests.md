@@ -58,7 +58,7 @@ Subsec. (b)(3). Pub. L. 100–360, §411(g)(3)(G)(vii), substituted “any penal
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 effective as if included in the enactment of the Omnibus Budget Reconciliation Act of 1989, Pub. L. 101–239, see section 4154(e)(5) of Pub. L. 101–508, set out as a note under section 1395<i>l</i> of this title.
+Amendment by Pub. L. 101–508 effective as if included in the enactment of the Omnibus Budget Reconciliation Act of 1989, Pub. L. 101–239, see section 4154(e)(5) of Pub. L. 101–508, set out as a note under section 1395l of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -74,5 +74,5 @@ Except as specifically provided in section 411 of Pub. L. 100–360, amendment b
 
 #### Effective Date
 
-Section 4064(d)(2) of Pub. L. 100–203 provided that: “The amendment made by paragraph (1) \[enacting this section\] shall become effective on January 1, 1990.”
+Pub. L. 100–203, title IV, §4064(d)(2), Dec. 22, 1987, 101 Stat. 1330–111, provided that: “The amendment made by paragraph (1) \[enacting this section\] shall become effective on January 1, 1990.”
 

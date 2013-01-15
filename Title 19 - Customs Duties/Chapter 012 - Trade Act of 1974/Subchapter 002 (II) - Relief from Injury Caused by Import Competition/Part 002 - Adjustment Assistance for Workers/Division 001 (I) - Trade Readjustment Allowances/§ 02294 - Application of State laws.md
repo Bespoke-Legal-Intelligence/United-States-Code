@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Except where inconsistent with the provisions of this part and subject to such regulations as the Secretary may prescribe, the availability and disqualification provisions of the State law—
+Except where inconsistent with the provisions of this part and subject to such regulations asthe Secretary may prescribe, the availability and disqualification provisions of the State law—
 
 &emsp;(1) under which an adversely affected worker is entitled to unemployment insurance (whether or not he has filed a claim for such insurance), or
 

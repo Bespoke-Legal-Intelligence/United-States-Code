@@ -10,5 +10,5 @@ Section 1864, Pub. L. 93–380, title IV, §405, Aug. 21, 1974, 88 Stat. 549; Pu
 
 #### Effective Date of Repeal
 
-Section 301(b)(1) of Pub. L. 95–561 provided that the repeal is effective Sept. 30, 1979.
+Pub. L. 95–561, title III, §301(b)(1), Nov. 1, 1978, 92 Stat. 2228, provided that the repeal is effective Sept. 30, 1979.
 

@@ -20,7 +20,7 @@ There is appropriated annually, out of funds in the Treasury not otherwise appro
 
 #### Effective Date of 1988 Amendment
 
-Section 3 of Pub. L. 100–339 provided that: “This Act \[amending this section\] shall take effect on October 1, 1987.”
+Pub. L. 100–339, §3, June 17, 1988, 102 Stat. 621, provided that: “This Act \[amending this section\] shall take effect on October 1, 1987.”
 
 #### Effective Date of 1980 Amendment
 
@@ -28,9 +28,9 @@ Amendment by Pub. L. 96–374 effective Oct. 1, 1980, see section 1393(a) of Pub
 
 #### Effective Date
 
-Section 506(n) of Pub. L. 92–318 provided that: “The amendments made by this section \[enacting this section, amending sections 329, 331, 343, 349, 361a, 361c, and 1626 of this title and sections 582a–3 and 582a–7 of Title 16, and enacting provisions set out as notes under this section and section 301 of this title\] shall be effective after June 30, 1970.”
+Pub. L. 92–318, title V, §506(n), June 23, 1972, 86 Stat. 352, provided that: “The amendments made by this section \[enacting this section, amending sections 329, 331, 343, 349, 361a, 361c, and 1626 of this title and sections 582a–3 and 582a–7 of Title 16, and enacting provisions set out as notes under this section and section 301 of this title\] shall be effective after June 30, 1970.”
 
 #### State Consent
 
-Section 506(m) of Pub. L. 92–318 provided that: “With respect to the Virgin Islands and Guam, the enactment of this section \[see Effective Date note above\] shall be deemed to satisfy any requirement of State consent contained in laws or provisions of law referred to in this section.”
+Pub. L. 92–318, title V, §506(m), June 23, 1972, 86 Stat. 352, provided that: “With respect to the Virgin Islands and Guam, the enactment of this section \[see Effective Date note above\] shall be deemed to satisfy any requirement of State consent contained in laws or provisions of law referred to in this section.”
 

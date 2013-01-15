@@ -2,7 +2,7 @@
 
 #### (a) Joint projects; transfers of appropriations; contracts or grants; criteria
 
-(1) The Secretary is authorized to enter into arrangements with other Federal agencies to jointly carry out projects of common interest, to transfer to such agencies funds appropriated under any applicable program, and to receive and use funds from such agencies, for projects of common interest.
+(1) The Secretary is authorized to enter into arrangements with other Federal agencies to jointly carry out projects of common interest, to transfer to such agencies funds appropriatedunder any applicable program, and to receive and use funds from such agencies, for projects of common interest.
 
 (2) Funds transferred or received pursuant to paragraph (1) shall be used only in accordance with the statutes authorizing the appropriation of such funds, and shall be made available by contract or grant only to recipients eligible to receive such funds under such statutes.
 
@@ -50,5 +50,5 @@ Committee on Education and Labor of House of Representatives changed to Committe
 
 #### Effective Date of 1972 Amendment; Inconsistent Provisions Ineffective
 
-Section 302(c) of Pub. L. 92–318 provided that: “The provisions of section 421(c) \[now 430(c)\] of the General Education Provisions Act \[subsec. (c) of this section\] shall be effective upon the date of enactment of this Act \[June 23, 1972\]. No provision of any law which is inconsistent with such section 421(c) shall be effective nor shall any such provision control to the extent of such inconsistency, unless such a law is enacted after the date of enactment of this Act.”
+Pub. L. 92–318, title III, §302(c), June 23, 1972, 86 Stat. 333, provided that: “The provisions of section 421(c) \[now 430(c)\] of the General Education Provisions Act \[subsec. (c) of this section\] shall be effective upon the date of enactment of this Act \[June 23, 1972\]. No provision of any law which is inconsistent with such section 421(c) shall be effective nor shall any such provision control to the extent of such inconsistency, unless such a law is enacted after the date of enactment of this Act.”
 

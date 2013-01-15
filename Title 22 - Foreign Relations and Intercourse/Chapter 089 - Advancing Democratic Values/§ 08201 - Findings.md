@@ -12,7 +12,7 @@ Congress finds the following:
 
 &emsp;(5) United States efforts to promote democracy and protect human rights can be strengthened to improve assistance for such reformers, including through an enhanced role for United States diplomats when properly trained and given the right incentives.
 
-&emsp;(6) The promotion of democracy requires a broad-based effort with cooperation between all democratic countries, including through the Community of Democracies.
+&emsp;(6) The promotion of democracy requires a broad-based effort with cooperation betweenall democratic countries, including through the Community of Democracies.
 
 (Pub. L. 110–53, title XXI, §2102, Aug. 3, 2007, 121 Stat. 526.)
 

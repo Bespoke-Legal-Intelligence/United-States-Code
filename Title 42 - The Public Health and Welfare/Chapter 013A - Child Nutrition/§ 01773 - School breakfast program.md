@@ -36,7 +36,7 @@ Free and reduced price policy statement.—After the initial submission, a local
 
 (3) The Secretary shall increase by 6 cents the annually adjusted payment for each breakfast served under this chapter and section 1766 of this title. These funds shall be used to assist States, to the extent feasible, in improving the nutritional quality of the breakfasts.
 
-(4) Notwithstanding any other provision of law, whenever stocks of agricultural commodities are acquired by the Secretary or the Commodity Credit Corporation and are not likely to be sold by the Secretary or the Commodity Credit Corporation or otherwise used in programs of commodity sale or distribution, the Secretary shall make such commodities available to school food authorities and eligible institutions serving breakfasts under this chapter in a quantity equal in value to not less than 3 cents for each breakfast served under this chapter and section 1766 of this title.
+(4) Notwithstanding any other provision of law, whenever stocks of agricultural commodities are acquired by the Secretary or the Commodity Credit Corporation and are not likely to be sold by the Secretary or the Commodity Credit Corporation or otherwise used in programs of commodity sale or distribution, theSecretary shall make such commodities available to school food authorities and eligible institutions serving breakfasts under this chapter in a quantity equal in value to not less than 3 cents for each breakfast served under this chapter and section 1766 of this title.
 
 (5) Expenditures of funds from State and local sources for the maintenance of the breakfast program shall not be diminished as a result of funds or commodities received under paragraph (3) or (4).
 
@@ -188,7 +188,7 @@ Amendment by Pub. L. 105–336 effective Oct. 1, 1998, see section 401 of Pub. L
 
 #### Effective Date of 1996 Amendment
 
-Section 723(b)(2) of Pub. L. 104–193 provided that: “The amendments made by paragraph (1) \[amending this section\] shall become effective on October 1, 1996.”
+Pub. L. 104–193, title VII, §723(b)(2), Aug. 22, 1996, 110 Stat. 2302, provided that: “The amendments made by paragraph (1) \[amending this section\] shall become effective on October 1, 1996.”
 
 #### Effective Date of 1994 Amendment
 
@@ -196,7 +196,7 @@ Amendment by Pub. L. 103–448 effective Oct. 1, 1994, see section 401 of Pub. L
 
 #### Effective Date of 1989 Amendment
 
-Section 212(a)(2)(B) of Pub. L. 101–147 provided that: “The amendments made by subparagraph (A) \[amending this section\] shall take effect as if such amendments had been effective on July 1, 1989.”
+Pub. L. 101–147, title II, §212(a)(2)(B), Nov. 10, 1989, 103 Stat. 912, provided that: “The amendments made by subparagraph (A) \[amending this section\] shall take effect as if such amendments had been effective on July 1, 1989.”
 
 #### Effective Date of 1988 Amendment
 
@@ -204,9 +204,9 @@ Amendment by Pub. L. 100–435 to be effective and implemented on July 1, 1989, 
 
 #### Effective Date of 1986 Amendments
 
-Section 4210(a) of Pub. L. 99–661 provided that the amendment made by that section is effective Oct. 1, 1986.
+Pub. L. 99–661, div. D, title II, §4210(a), Nov. 14, 1986, 100 Stat. 4074, provided that the amendment made by that section is effective Oct. 1, 1986.
 
-Section 330(a) of Pub. L. 99–500 and Pub. L. 99–591 provided that the amendment made by that section is effective July 1, 1987.
+Pub. L. 99–500, title III, §330(a), Oct. 18, 1986, 100 Stat. 1783–363, and Pub. L. 99–591, title III, §330(a), Oct. 30, 1986, 100 Stat. 3341–366, provided that the amendment made by each such section is effective July 1, 1987.
 
 #### Effective Date of 1981 Amendment
 

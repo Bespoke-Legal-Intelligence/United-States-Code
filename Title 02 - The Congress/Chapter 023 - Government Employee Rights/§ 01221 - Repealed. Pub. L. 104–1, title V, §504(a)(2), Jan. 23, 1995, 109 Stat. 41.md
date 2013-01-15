@@ -4,5 +4,5 @@ Section, Pub. L. 102–166, title III, §322, Nov. 21, 1991, 105 Stat. 1098, rel
 
 #### Savings Provision
 
-Section 504(a)(2) of Pub. L. 104–1 provided in part that section 1221 of this title is repealed, except as provided in section 1435 of this title.
+Pub. L. 104–1, title V, §504(a)(2), Jan. 23, 1995, 109 Stat. 41, provided in part that section 1221 of this title is repealed, except as provided in section 1435 of this title.
 

@@ -20,11 +20,11 @@ The transferor of a facility which is sold or transferred as described in subsec
 
 (2)(A) After the expiration of—
 
-&emsp;(i) 180 days after the date of the sale, transfer, or change of use for which a notice is required by subsection (b) of this section, in the case of a facility which is sold or transferred or the use of which changes after July 18, 1984, or
+&emsp;(i) 180 days after the date of the sale, transfer, or change of use for which a notice is required by subsection (b) of this section, in thecase of a facility which is sold or transferred or the use of which changes after July 18, 1984, or
 
 &emsp;(ii) thirty days after July 18, 1984, or if later 180 days after the date of the sale, transfer, or change of use for which a notice is required by subsection (b) of this section, in the case of a facility which was sold or transferred or the use of which changed before July 18, 1984.<sup>1</sup>
 
-> the amount which the United States is entitled to recover under paragraph (1) with respect to afacility shall be the amount prescribed by paragraph (1) plus interest, during the period described in subparagraph (B), at a rate (determined by the Secretary) based on the average of the bond equivalent of the weekly ninety-day Treasury bill auction rate.
+> the amount which the United States is entitled to recover under paragraph (1) with respect to a facility shall be the amount prescribed by paragraph (1) plus interest, during the period described in subparagraph (B), at a rate (determined by the Secretary) based on the average of the bond equivalent of the weekly ninety-day Treasury bill auction rate.
 
 (B) The period referred to in subparagraph (A) is the period beginning—
 
@@ -80,7 +80,7 @@ Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, e
 
 #### Regulations and Personnel
 
-Section 2381(c) of Pub. L. 98–369 provided that: “Not later than the expiration of the one-hundred-and-eighty-day period beginning on the date of the enactment of this section \[July 18, 1984\], the Secretary shall have in effect regulations and personnel to place in effect the amendments made by this section \[amending sections 291i and 300s–1a of this title\].”
+Pub. L. 98–369, div. B, title III, §2381(c), July 18, 1984, 98 Stat. 1116, provided that: “Not later than the expiration of the one-hundred-and-eighty-day period beginning on the date of the enactment of this section \[July 18, 1984\], the Secretary shall have in effect regulations and personnel to place in effect the amendments made by this section \[amending sections 291i and 300s–1a of this title\].”
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a comma.</i>
 

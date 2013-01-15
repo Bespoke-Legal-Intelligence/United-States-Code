@@ -32,7 +32,7 @@ In the case of any open end consumer credit plan which provides for any extensio
 
 &emsp;&emsp;(D) a statement that the consumer should ask about the current index value and interest rate;
 
-&emsp;&emsp;(E) a statement of the maximum amount by which the annual percentage rate maychange in any 1-year period or a statement that no such limit exists;
+&emsp;&emsp;(E) a statement of the maximum amount by which the annual percentage rate may change in any 1-year period or a statement that no such limit exists;
 
 &emsp;&emsp;(F) a statement of the maximum annual percentage rate that may be imposed at any time under the plan;
 
@@ -120,7 +120,7 @@ In the case of any open end consumer credit plan which provides for any extensio
 
 #### (10) Statement concerning balloon payments
 
-&emsp;If, under any repayment option of the plan, the payment of not more than the minimumperiodic payments required under such option over the length of the repayment period—
+&emsp;If, under any repayment option of the plan, the payment of not more than the minimum periodic payments required under such option over the length of the repayment period—
 
 &emsp;&emsp;(A) would not repay any of the principal balance; or
 
@@ -172,7 +172,7 @@ In the case of any open end consumer credit plan which provides for any extensio
 
 #### (A) In general
 
-&emsp;&emsp;The disclosures required under subsection (a) of this section with respect to any open end consumer credit plan which provides for any extension of credit which is secured by the consumer's principal dwelling and the pamphlet required under subsection (e) of this section shall be provided to any consumer at the time the creditor distributes an application to establish an account under such plan to such consumer.
+&emsp;&emsp;The disclosures required under subsection (a) of this section with respect to any open end consumer credit plan which provides for any extension of credit which is secured by the consumer's principal dwelling and the pamphlet required under subsection (e) ofthis section shall be provided to any consumer at the time the creditor distributes an application to establish an account under such plan to such consumer.
 
 #### (B) Telephone, publications, and third party applications
 
@@ -206,7 +206,7 @@ In the case of an application to open an account under any open end consumer cre
 
 &emsp;(1) such person shall provide such consumer with—
 
-&emsp;&emsp;(A) the disclosures required under subsection (a) of this section with respect tosuch plan, in accordance with subsection (b) of this section; and
+&emsp;&emsp;(A) the disclosures required under subsection (a) of this section with respect to such plan, in accordance with subsection (b) of this section; and
 
 &emsp;&emsp;(B) the pamphlet required under subsection (e) of this section; or
 
@@ -220,7 +220,7 @@ For purposes of this section and sections 1647 and 1665b of this title, the term
 
 In addition to the disclosures required under subsection (a) of this section with respect to an application to open an account under any open end consumer credit plan described in such subsection, the creditor or other person providing such disclosures to the consumer shall provide—
 
-&emsp;(1) a pamphlet published by the Bureau pursuant to section 4 of the Home Equity Consumer Protection Act of 1988; or
+&emsp;(1) a pamphlet published by the Bureau pursuant to section 4 of the Home Equity <sup>1</sup> Consumer Protection Act of 1988; or
 
 &emsp;(2) any pamphlet which provides substantially similar information to the information described in such section, as determined by the Bureau.
 
@@ -228,7 +228,7 @@ In addition to the disclosures required under subsection (a) of this section wit
 
 #### References in Text
 
-Section 4 of the Home Equity Consumer Protection Act of 1988, referred to in subsec. (e)(1), is section 4 of Pub. L. 100–709, which is set out as a note below.
+Section 4 of the Home Equity Loan Consumer Protection Act of 1988, referred to in subsec. (e)(1), is section 4 of Pub. L. 100–709, which is set out as a note below.
 
 #### Amendments
 
@@ -266,7 +266,7 @@ Effective date.—Regulations issued under paragraph (1) shall not take effect u
 
 #### Regulations; Effective Date
 
-Section 7 of Pub. L. 100–709 provided that:
+Pub. L. 100–709, §7, Nov. 23, 1988, 102 Stat. 4734, provided that:
 
 “(a)
 
@@ -286,9 +286,11 @@ Voluntary Compliance.—Notwithstanding subsection (b), any creditor may comply 
 
 #### Consumer Education
 
-Section 4 of Pub. L. 100–709 provided that: “The Board of Governors of the Federal Reserve System shall develop and prepare a pamphlet for distribution to consumers which contains—
+Pub. L. 100–709, §4, Nov. 23, 1988, 102 Stat. 4733, provided that: “The Board of Governors of the Federal Reserve System shall develop and prepare a pamphlet for distribution to consumers which contains—
 
 &emsp;“(1) a general description of open end consumer credit plans secured by the consumer's principal dwelling and the terms and conditions under which such loans are generally extended; and
 
 &emsp;“(2) a discussion of the potential advantages and disadvantages of such plans, including how to compare among home equity plans and between home equity and closed end credit plans.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by “Loan”.</i>
 

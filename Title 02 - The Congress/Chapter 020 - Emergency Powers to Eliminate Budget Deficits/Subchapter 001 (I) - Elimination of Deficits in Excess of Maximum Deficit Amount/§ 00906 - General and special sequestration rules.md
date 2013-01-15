@@ -32,11 +32,11 @@ For all student loans under part B or D of title IV of the Higher Education Act 
 
 #### (B) Payment on the basis of cost reporting periods
 
-&emsp;&emsp;In the case in which payment for services of a provider of services is made under titleXVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] on a basis relating to the reasonable cost incurred for the services during a cost reporting period of the provider, if a reduction is made under paragraph (1) in payment amounts pursuant to a sequestration order, the reduction shall be applied to payment for costs for such services incurred at any time during each cost reporting period of the provider any part of which occurs during the effective period of the order, but only (for each such cost reporting period) in the same proportion as the fraction of the cost reporting period that occurs during the effective period of the order.
+&emsp;&emsp;In the case in which payment for services of a provider of services is made under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] on a basis relating to the reasonable cost incurred for the services during a cost reporting period of the provider, if a reduction is made under paragraph (1) in payment amounts pursuant to a sequestration order, the reduction shall be applied to payment for costs for such services incurred at any time during each cost reporting period of the provider any part of which occurs during the effective period of the order, but only (for each such cost reporting period) in the same proportion as the fraction of the cost reporting period that occurs during the effective period of the order.
 
 #### (4) Timing of subsequent sequestration order
 
-&emsp;A sequestration order required by section 902 or 903 of this title with respect to programs under such title XVIII \[42 U.S.C. 1395 et seq.\] shall not take effect until the first month beginning after the end of the effective period of any prior sequestration order with respect to such programs, as determined in accordance with paragraph (1).
+&emsp;A sequestration order required by section 902 or 903 of this title with respect to programsunder such title XVIII \[42 U.S.C. 1395 et seq.\] shall not take effect until the first month beginning after the end of the effective period of any prior sequestration order with respect to such programs, as determined in accordance with paragraph (1).
 
 #### (5) No increase in beneficiary charges in assignment-related cases
 
@@ -160,17 +160,17 @@ Notwithstanding any change in the display of budget accounts, any order issued b
 
 #### (1) Powers and authorities of the Commodity Credit Corporation
 
-&emsp;This title <sup>2</sup> shall not restrict the Commodity Credit Corporation in the discharge of its authority and responsibility as a corporation to buy and sell commodities in world trade, to use the proceeds as a revolving fund to meet other obligations and otherwise operate as a corporation, the purpose for which it was created.
+&emsp;This title <sup>1</sup> shall not restrict the Commodity Credit Corporation in the discharge of its authority and responsibility as a corporation to buy and sell commodities in world trade, to use the proceeds as a revolving fund to meet other obligations and otherwise operate as a corporation, the purpose for which it was created.
 
 #### (2) Reduction in payments made under contracts
 
 &emsp;(A) Loan eligibility under any contract entered into with a person by the Commodity Credit Corporation prior to the time an order has been issued under section 904 of this title shall not be reduced by an order subsequently issued. Subject to subparagraph (B), after an order is issued under such section for a fiscal year, any cash payments for loans or loan deficiencies made by the Commodity Credit Corporation shall be subject to reduction under the order.
 
-&emsp;(B) Each loan contract entered into with producers or producer cooperatives with respect to a particular crop of a commodity and subject to reduction under subparagraph (A)shall be reduced in accordance with the same terms and conditions. If some, but not all, contracts applicable to a crop of a commodity have been entered into prior to the issuance of an order under section 904 of this title, the order shall provide that the necessary reduction in payments under contracts applicable to the commodity be uniformly applied to all contracts for the next succeeding crop of the commodity, under the authority provided in paragraph (3).
+&emsp;(B) Each loan contract entered into with producers or producer cooperatives with respect to a particular crop of a commodity and subject to reduction under subparagraph (A) shall be reduced in accordance with the same terms and conditions. If some, but not all, contracts applicable to a crop of a commodity have been entered into prior to the issuance of an order under section 904 of this title, the order shall provide that the necessary reduction in payments under contracts applicable to the commodity be uniformly applied to all contracts for the next succeeding crop of the commodity, under the authority provided in paragraph (3).
 
 #### (3) Delayed reduction in outlays permissible
 
-&emsp;Notwithstanding any other provision of this title,<sup>2</sup> if an order under section 904 of this title is issued with respect to a fiscal year, any reduction under the order applicable to contracts described in paragraph (1) may provide for reductions in outlays for the account involved to occur in the fiscal year following the fiscal year to which the order applies.
+&emsp;Notwithstanding any other provision of this title,<sup>1</sup> if an order under section 904 of this title is issued with respect to a fiscal year, any reduction under the order applicable to contracts described in paragraph (1) may providefor reductions in outlays for the account involved to occur in the fiscal year following the fiscal year to which the order applies.
 
 #### (4) Uniform percentage rate of reduction and other limitations
 
@@ -200,7 +200,7 @@ The effects of sequestration shall be as follows:
 
 &emsp;(6) Budgetary resources sequestered in revolving, trust, and special fund accounts and offsetting collections sequestered in appropriation accounts shall not be available for obligation during the fiscal year in which the sequestration occurs, but shall be available in subsequent years to the extent otherwise provided in law.
 
-(Pub. L. 99–177, title II, §256, Dec. 12, 1985, 99 Stat. 1086; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–86, title V, §506(b), Aug. 10, 1987, 101 Stat. 634; Pub. L. 100–119, title I, §§102(b)(2), (3), (11), 104(a)(3), (4), Sept. 29, 1987, 101 Stat. 773, 775, 776; Pub. L. 101–73, title VII, §743(b), Aug. 9, 1989, 103 Stat. 437; Pub. L. 101–508, title XIII, §13101(d), Nov. 5, 1990, 104 Stat. 1388–589; Pub. L. 101–509, title V, §529 \[title I, §101(b)(2)(A), (4)(H)\], Nov. 5, 1990, 104 Stat. 1427, 1439, 1440; Pub. L. 104–193, title I, §110(r)(2), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 105–33, title X, §10208(a)(1), (b)–(g), Aug. 5, 1997, 111 Stat. 708–710; Pub. L. 111–139, title I, §§9(b), 10, Feb. 12, 2010, 124 Stat. 21; Pub. L. 111–203, title III, §352, July 21, 2010, 124 Stat. 1546; Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465.)
+(Pub. L. 99–177, title II, §256, Dec. 12, 1985, 99 Stat. 1086; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–86, title V, §506(b), Aug. 10, 1987, 101 Stat. 634; Pub. L. 100–119, title I, §§102(b)(2), (3), (11), 104(a)(3), (4), Sept. 29, 1987, 101 Stat. 773, 775, 776; Pub. L. 101–73, title VII, §743(b), Aug. 9, 1989, 103 Stat. 437; Pub. L. 101–508, title XIII, §13101(d), Nov. 5, 1990, 104 Stat. 1388–589; Pub. L. 101–509, title V, §529 \[title I, §101(b)(2)(A), (4)(H)\], Nov. 5, 1990, 104 Stat. 1427, 1439, 1440; Pub. L. 104–193, title I, §110(r)(2), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 105–33, title X, §10208(a)(1), (b)–(g), Aug. 5, 1997, 111 Stat. 708–710; Pub. L. 111–139, title I, §§9(b), 10, Feb. 12, 2010, 124 Stat. 21; Pub. L. 111–203, title III, §352, July 21, 2010, 124 Stat. 1546; Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
 
 #### References in Text
 
@@ -218,13 +218,11 @@ The Federal-State Extended Unemployment Compensation Act of 1970, referred to in
 
 This joint resolution, referred to in subsec. (j)(6), means Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1037, which enacted this chapter and sections 654 to 656 of this title, amended sections 602, 622, 631 to 642, and 651 to 653 of this title, sections 1104 to 1106, 1109, and 3101 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealed section 661 of this title, enacted provisions set out as notes under section 900 of this title and section 911 of Title 42, and amended provisions set out as a note under section 621 of this title. For complete classification of this Act to the Code, see Tables.
 
-#### Codification
-
-In subsec. (g)(2)(B)(ii), “475” substituted for “405” pursuant to section 631(f)(4)(B) of Pub. L. 112–81, which provided that any reference in a provision of law other than a section of title 10, 32, or 37, United States Code, to a section of title 37 that was transferred and redesignated by “subsection (c)” of section 631 was deemed to refer to the section as so redesignated, notwithstanding that sections of title 37 were transferred and redesignated by subsection (d) of section 631 rather than subsection (c), to reflect the probable intent of Congress.
-
 #### Amendments
 
-<b>2011</b>—Subsec. (g)(2)(B)(ii). Pub. L. 112–81 substituted “475” for “405”. See Codification note above.
+<b>2013</b>—Subsec. (g)(2)(B)(ii). Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, §631(f)(4)(B). See 2011 Amendment note below.
+
+<b>2011</b>—Subsec. (g)(2)(B)(ii). Pub. L. 112–81, §631(f)(4)(B), as amended by Pub. L. 112–239, §1076(a)(9), substituted “475” for “405”.
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–139, §10(a), struck out subsec. (a). Text read as follows: “Automatic spending increases are increases in outlays due to changes in indexes in the following programs:
 
@@ -280,7 +278,7 @@ Subsec. (k)(1). Pub. L. 105–33, §10208(g)(1), struck out “other than a trus
 
 Subsec. (k)(6). Pub. L. 105–33, §10208(g)(2), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “Except as otherwise provided, sequestration in trust and special fund accounts for which obligations are indefinite shall be taken in a manner to ensure that obligations in the fiscal year of a sequestration are reduced, from the level that would actually have occurred, by the applicable sequestration percentage.”
 
-<b>1996</b>—Subsecs. (k), (<i>l</i>). Pub. L. 104–193 redesignated subsec. (<i>l</i>) as (k) and struck out former subsec. (k) which related to special rules for JOBS portion of AFDC, providing that any order under section 904 accomplish full amount of any required sequestration of job opportunities and basic skills training program, and setting forth new allotment formula.
+<b>1996</b>—Subsecs. (k), (l). Pub. L. 104–193 redesignated subsec. (l) as (k) and struck out former subsec. (k) which related to special rules for JOBS portion of AFDC, providing that any order under section 904 accomplish full amount of any required sequestration of job opportunities and basic skills training program, and setting forth new allotment formula.
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–508, §13101(d)(1), amended subsec. (a) generally, substituting provisions relating to automatic spending increases for provisions relating to effect of reductions and sequestrations.
 
@@ -330,7 +328,7 @@ Subsec. (j). Pub. L. 101–508, §13101(d)(3), substituted “section 904 of thi
 
 Subsec. (k). Pub. L. 101–508, §13101(d)(2), added subsec. (k). Former subsec. (k) redesignated (e).
 
-Subsec. (<i>l</i>). Pub. L. 101–508, §13101(d)(2), added subsec. (<i>l</i>) and struck out former subsec. (<i>l</i>) which related to treatment of obligated balances.
+Subsec. (l). Pub. L. 101–508, §13101(d)(2), added subsec. (l) and struck out former subsec. (l) which related to treatment of obligated balances.
 
 <b>1989</b>—Subsec. (b)(4)(C). Pub. L. 101–73, §743(b)(1), substituted “Office of Thrift Supervision” for “Federal Home Loan Bank Board”.
 
@@ -348,9 +346,13 @@ Subsec. (d)(1)(B). Pub. L. 100–119, §102(b)(11), inserted “(or such higher 
 
 Subsec. (e). Pub. L. 100–119, §104(a)(4), substituted “Notwithstanding any change in the display of budget accounts, any order” for “Any order”.
 
-Subsec. (<i>l</i>). Pub. L. 100–119, §102(b)(3), amended subsec. (<i>l</i>) generally, striking out provisions which had created an “existing contract” exception to the rule of obligated balances not being subject to reduction under an order issued under section 902 of this title, under which existing contracts in major functional category 050 (other than (A) those contracts which included a specified penalty for cancellation or modification by the Government and which if so cancelled or modified would have resulted (due to such penalty) in a net loss to the Government for the fiscal year, and (B) those contracts the reduction of which would have violatedthe legal obligations of the Government) were subject to reduction, in accordance with section 901(d)(3) of this title, under an order issued under section 902 of this title.
+Subsec. (l). Pub. L. 100–119, §102(b)(3), amended subsec. (l) generally, striking out provisions which had created an “existing contract” exception to the rule of obligated balances not being subject to reduction under an order issued under section 902 of this title, under which existing contracts in major functional category 050 (other than (A) those contracts which included a specified penalty for cancellation or modification by the Government and which if so cancelled or modified would have resulted (due to such penalty) in a net loss to the Government for the fiscal year, and (B) those contracts the reduction of which would have violated the legal obligations of the Government) were subject to reduction, in accordance with section 901(d)(3) of this title, under an order issued under section 902 of this title.
 
 <b>1986</b>—Subsec. (h)(2)(B). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+
+#### Effective Date of 2013 Amendment
+
+Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
 
 #### Effective Date of 2010 Amendment
 
@@ -367,6 +369,4 @@ Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules rel
 Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of Title 5, Government Organization and Employees.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
 

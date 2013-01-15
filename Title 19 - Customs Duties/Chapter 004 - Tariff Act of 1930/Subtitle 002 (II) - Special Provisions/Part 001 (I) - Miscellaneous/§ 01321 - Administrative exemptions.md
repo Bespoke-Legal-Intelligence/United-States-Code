@@ -36,7 +36,7 @@ Subsec. (a)(2)(B). Pub. L. 104–295, §3(a)(8), inserted “, 9804.00.65,” a
 
 Subsec. (a)(3). Pub. L. 104–295, §3(a)(12)(B), substituted “taxes, and interest” for “and taxes” and “taxes, or interest” for “or taxes”.
 
-<b>1993</b>—Subsec. (a)(1). Pub. L. 103–182, §651(1), substituted “of an amount specified by the Secretary by regulation, but not less than $20,” for “of less than $10”, inserted “, fees,” after “duties” wherever appearing, and struck out “and” at end.
+<b>1993</b>—Subsec. (a)(1). Pub. L. 103–182, §651(1), substituted “of an amount specified by the Secretary by regulation, but not less than $20,” for “of less than$10”, inserted “, fees,” after “duties” wherever appearing, and struck out “and” at end.
 
 Subsec. (a)(2). Pub. L. 103–182, §651(2), substituted “shall not exceed an amount specified by the Secretary by regulation, but not less than—” for “shall not exceed—” in introductory provisions, substituted “$100” and “$200” for “$50” and “$100”, respectively, in subpar. (A), substituted “$200” for “$25” in subpar. (B), substituted “$200” for “$5” in subpar. (C), and substituted “; and” for period at end.
 
@@ -62,7 +62,7 @@ Subsec. (a)(2). Pub. L. 95–410, §205(b)(1)–(3), substituted in: subpar. (A)
 
 #### Effective Date of 1996 Amendment
 
-Section 3(b) of Pub. L. 104–295 provided that: “The amendments made by this section \[amending this section and sections 1401, 1431, 1504, 1508, 1509, 1515, 1592, and 1631 of this title and repealing section 1707 of this title\] shall apply as of December 8, 1993.”
+Pub. L. 104–295, §3(b), Oct. 11, 1996, 110 Stat. 3516, provided that: “The amendments made by this section \[amending this section and sections 1401, 1431, 1504, 1508, 1509, 1515, 1592, and 1631 of this title and repealing section 1707 of this title\] shall apply as of December 8, 1993.”
 
 #### Effective Date of 1988 Amendment
 
@@ -70,19 +70,19 @@ Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respe
 
 #### Effective Date of 1983 Amendment
 
-Section 115(c) of Pub. L. 97–446 provided that: “The amendments made by this section \[amending the Tariff Schedules and this section\] shall apply with respect to returning residents of the United States who arrive in the United States on or after the 15th day after the date of the enactment of this Act \[Jan. 12, 1983\].”
+Pub. L. 97–446, title I, §115(c), Jan. 12, 1983, 96 Stat. 2335, provided that: “The amendments made by this section \[amending the Tariff Schedules and this section\] shall apply with respect to returning residents of the United States who arrive in the United States on or after the 15th day after the date of the enactment of this Act \[Jan. 12, 1983\].”
 
 #### Effective Date of 1975 Amendment
 
-Section 610(b) of Pub. L. 93–618 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to articles entered, or withdrawn from warehouse, for consumption after the date of enactment of this Act \[Jan. 3, 1975\].”
+Pub. L. 93–618, title VI, §610(b), Jan. 3, 1975, 88 Stat. 2075, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to articles entered, or withdrawn from warehouse, for consumption after the date of enactment of this Act \[Jan. 3, 1975\].”
 
 #### Effective Date of 1965 Amendment
 
-Section 4 of Pub. L. 89–62 provided in part that: “The amendments made by section 2 \[amending this section\] shall apply with respect to articles arriving in the United States on or after October 1, 1965.”
+Pub. L. 89–62, §4, June 30, 1965, 79 Stat. 208, provided in part that: “The amendments made by section 2 \[amending this section\] shall apply with respect to articles arriving in the United States on or after October 1, 1965.”
 
 #### Effective Date of 1961 Amendment
 
-Section 2(d) of Pub. L. 87–261 provided that: “The amendments made by subsections (a), (b), and (c) \[amending this section and former section 1201 of this title\] shall apply with respect to persons arriving in the United States on or after the 30th day after the date of the enactment of this Act \[Sept. 21, 1961\].”
+Pub. L. 87–261, §2(d), Sept. 21, 1961, 75 Stat. 541, provided that: “The amendments made by subsections (a), (b), and (c) \[amending this section and former section 1201 of this title\] shall apply with respect to persons arriving in the United States on or after the 30th day after the date of the enactment of this Act \[Sept. 21, 1961\].”
 
 #### Effective Date of 1953 Amendment; Savings Provision
 

@@ -140,7 +140,7 @@ Subsec. (a)(2)(D). Pub. L. 100–647, §1006(t)(3)(C), struck out “described i
 
 Subsec. (a)(5). Pub. L. 100–647, §1006(t)(3)(B)(ii), added par. (5).
 
-Subsec. (b)(1)(A). Pub. L. 100–647, §1006(t)(4), substituted “the transfer of any property to a REMIC inexchange for regular or residual interests in such REMIC” for “the transfer of any property to a REMIC”.
+Subsec. (b)(1)(A). Pub. L. 100–647, §1006(t)(4), substituted “the transfer of any property to a REMIC in exchange for regular or residual interests in such REMIC” for “the transfer of any property to a REMIC”.
 
 Subsec. (b)(1)(C)(ii). Pub. L. 100–647, §1006(t)(22)(D), substituted “REMIC” for “real estate mortgage pool”.
 
@@ -150,7 +150,7 @@ Subsec. (e). Pub. L. 100–647, §1006(t)(18)(A), inserted at end “Such return
 
 #### Effective Date of 1988 Amendment
 
-Section 1006(t)(18)(B) of Pub. L. 100–647 provided that: “Unless the REMIC otherwise elects, the amendment made by subparagraph (A) \[amending this section\] shall not apply to any REMIC where the start-up day (as defined in section 860G(a)(9) of the 1986 Code as in effect on the day before the date of the enactment of this Act \[Nov. 10, 1988\]) is before the date of the enactment of this Act.”
+Pub. L. 100–647, title I, §1006(t)(18)(B), Nov. 10, 1988, 102 Stat. 3426, provided that: “Unless the REMIC otherwise elects, the amendment made by subparagraph (A) \[amending this section\] shall not apply to any REMIC where the start-up day (as defined in section 860G(a)(9) of the 1986 Code as in effect on the day before the date of the enactment of this Act \[Nov. 10, 1988\]) is before the date of the enactment of this Act.”
 
 Amendment by section 1006(t)(3), (4), (14), (22)(B)–(E) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 

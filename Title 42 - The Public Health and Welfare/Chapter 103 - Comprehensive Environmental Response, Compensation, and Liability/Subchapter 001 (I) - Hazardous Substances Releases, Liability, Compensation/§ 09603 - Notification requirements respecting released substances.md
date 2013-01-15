@@ -2,7 +2,7 @@
 
 #### (a) Notice to National Response Center upon release from vessel or offshore or onshore facility by person in charge; conveyance of notice by Center
 
-Any person in charge of a vessel or an offshore or an onshore facility shall, as soon as he has knowledge of any release (other than a federally permitted release) of a hazardous substance from such vessel or facility in quantities equal to or greater than those determined pursuant to section 9602 of this title, immediately notify the National Response Center established under the Clean Water Act \[33 U.S.C. 1251 et seq.\] of such release. The National Response Center shall convey the notification expeditiously to all appropriate Government agencies, including the Governor of any affected State.
+Any person in charge of a vessel or an offshore or an onshore facility shall, as soon as he hasknowledge of any release (other than a federally permitted release) of a hazardous substance from such vessel or facility in quantities equal to or greater than those determined pursuant to section 9602 of this title, immediately notify the National Response Center established under the Clean Water Act \[33 U.S.C. 1251 et seq.\] of such release. The National Response Center shall convey the notification expeditiously to all appropriate Government agencies, including the Governor of any affected State.
 
 #### (b) Penalties for failure to notify; use of notice or information pursuant to notice in criminal case
 
@@ -80,11 +80,11 @@ Subsec. (d)(2). Pub. L. 99–499, §109(a)(2), substituted “in accordance with
 
 #### Effective Date of 1996 Amendment
 
-Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
 #### Effective Date of 1980 Amendment
 
-Section 238(b) of Pub. L. 96–561 provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
+Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300, provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
 
 #### Contiguous Zone of United States
 

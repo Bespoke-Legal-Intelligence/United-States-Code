@@ -112,7 +112,7 @@
 
 #### (D) Limitation not to apply where aggregate amount of loans exceed $100,000
 
-&emsp;&emsp;This paragraph shall not apply to any loan made by a lender to a borrower for any day on which the aggregate outstanding amount of loans between the borrower and lender exceeds $100,000.
+&emsp;&emsp;This paragraph shall not apply to any loan made by a lender to a borrower for any dayon which the aggregate outstanding amount of loans between the borrower and lender exceeds $100,000.
 
 #### (E) Net investment income
 
@@ -220,7 +220,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any term loan made by an employer to an employee the proceeds of which are used by the employee to purchase a principal residence (within the meaning of section 121), the determination of the applicable Federal rate shall be made as of the date the written contract to purchase such residence was entered into.
+&emsp;&emsp;In the case of any term loan made by an employer to an employee the proceeds ofwhich are used by the employee to purchase a principal residence (within the meaning of section 121), the determination of the applicable Federal rate shall be made as of the date the written contract to purchase such residence was entered into.
 
 #### (B) Paragraph only to apply to cases to which section 217 applies
 
@@ -346,7 +346,7 @@ For purposes of this section—
 
 &emsp;Under regulations prescribed by the Secretary, any loan which is made with donative intent and which is a term loan shall be taken into account for purposes of chapter 11 in a manner consistent with the provisions of subsection (b).
 
-(Added Pub. L. 98–369, div. A, title I, §172(a), July 18, 1984, 98 Stat. 699; amended Pub. L. 99–121, title II, §§201, 202, Oct. 11, 1985, 99 Stat. 511–513; Pub. L. 99–514, title V, §511(d)(1), titleXVIII, §§1812(b)(2)–(4), 1854(c)(2)(B), Oct. 22, 1986, 100 Stat. 2248, 2834, 2879; Pub. L. 100–647, title I, §§1005(c)(15), 1018(u)(48), Nov. 10, 1988, 102 Stat. 3393, 3593; Pub. L. 104–188, title I, §§1602(b)(7), 1704(t)(58), 1906(c)(2), Aug. 20, 1996, 110 Stat. 1834, 1890, 1916; Pub. L. 105–34, title III, §312(d)(1), Aug. 5, 1997, 111 Stat. 839; Pub. L. 105–206, title VI, §6023(30), July 22, 1998, 112 Stat. 826; Pub. L. 106–554, §1(a)(7) \[title III, §319(30)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–648; Pub. L. 109–222, title II, §209(a), (b)(1), May 17, 2006, 120 Stat. 351, 352; Pub. L. 109–432, div. A, title IV, §425(a), Dec. 20, 2006, 120 Stat. 2974.)
+(Added Pub. L. 98–369, div. A, title I, §172(a), July 18, 1984, 98 Stat. 699; amended Pub. L. 99–121, title II, §§201, 202, Oct. 11, 1985, 99 Stat. 511–513; Pub. L. 99–514, title V, §511(d)(1), title XVIII, §§1812(b)(2)–(4), 1854(c)(2)(B), Oct. 22, 1986, 100 Stat. 2248, 2834, 2879; Pub. L. 100–647, title I, §§1005(c)(15), 1018(u)(48), Nov. 10, 1988, 102 Stat. 3393, 3593; Pub. L. 104–188, title I, §§1602(b)(7), 1704(t)(58), 1906(c)(2), Aug. 20, 1996, 110 Stat. 1834, 1890, 1916; Pub. L. 105–34, title III, §312(d)(1), Aug. 5, 1997, 111 Stat. 839; Pub. L. 105–206, title VI, §6023(30), July 22, 1998, 112 Stat. 826; Pub. L. 106–554, §1(a)(7) \[title III, §319(30)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–648; Pub. L. 109–222, title II, §209(a), (b)(1), May 17, 2006, 120 Stat. 351, 352; Pub. L. 109–432, div. A, title IV, §425(a), Dec. 20, 2006, 120 Stat. 2974.)
 
 #### Amendments
 
@@ -428,7 +428,7 @@ Amendment by sections 1812(b)(2)–(4) and 1854(c)(2)(B) of Pub. L. 99–514 eff
 
 #### Effective Date of 1985 Amendment
 
-Section 204(a), (b) of Pub. L. 99–121, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 99–121, title II, §204(a), (b), Oct. 11, 1985, 99 Stat. 514, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(a)
 
@@ -448,7 +448,7 @@ Section 202.—The amendment made by section 202 \[amending this section\] shall
 
 #### Effective Date
 
-Section 172(c) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–369, div. A, title I, §172(c), July 18, 1984, 98 Stat. 703, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 
@@ -488,11 +488,11 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Certain Israel or Polish Bonds Not Subject to Rules Relating to Below-Market Loans
 
-Section 1812(b)(5) of Pub. L. 99–514, as amended by Pub. L. 101–179, title III, §307(a), Nov. 28, 1989, 103 Stat. 1314, provided that: “Section 7872 of the Internal Revenue Code of 1954 \[now 1986\] (relating to treatment of loans with below-market interest rates) shall not apply to any obligation issued by Israel or Poland if—
+Pub. L. 99–514, title XVIII, §1812(b)(5), Oct. 22, 1986, 100 Stat. 2834, as amended by Pub. L. 101–179, title III, §307(a), Nov. 28, 1989, 103 Stat. 1314, provided that: “Section 7872 of the Internal Revenue Code of 1954 \[now 1986\] (relating to treatment of loans with below-market interest rates) shall not apply to any obligation issued by Israel or Poland if—
 
 &emsp;“(A) the obligation is payable in United States dollars, and
 
 &emsp;“(B) the obligation bears interest at an annual rate of not less than 4 percent.”
 
-\[Section 307(b) of Pub. L. 101–179 provided that: “The amendments made by this section \[amending section 1812(b)(5) of Pub. L. 99–514, set out above\] shall apply to obligations issued after the date of the enactment of this Act \[Nov. 28, 1989\].”\]
+\[Pub. L. 101–179, title III, §307(b), Nov. 28, 1989, 103 Stat. 1314, provided that: “The amendments made by this section \[amending section 1812(b)(5) of Pub. L. 99–514, set out above\] shall apply to obligations issued after the date of the enactment of this Act \[Nov. 28, 1989\].”\]
 

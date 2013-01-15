@@ -34,11 +34,11 @@ A prior section 3595, added Pub. L. 95–454, title IV, §404(b), Oct. 13, 1978,
 
 <b>1984</b>—Subsec. (b)(3)(B). Pub. L. 98–615, §303(c)(1), struck out the designation “(i)” before provisions relating to placement in any agency in any vacant Executive Service position, and struck out former cl. (ii), which had related to detailing by the Office of Personnel Management to any vacant Senior Executive Service position for which the Office deemed the employee to be qualified in any agency for a period not to exceed 60 days, and placement in such position by the Office after the period of such detail, unless the head of the agency determined that the career appointee was not qualified for such position.
 
-Subsec. (b)(4). Pub. L. 98–615, §303(c)(2), struck out “and the civil service” after “removed from the Senior Executive Service”, struck out the designation “(A)” before “the career appointee declines”, and substituted a period for the semicolon and “or” at the end thereof. Former subpar. (B) redesignated par. (5).
+Subsec. (b)(4). Pub. L. 98–615, §303(c)(2), struck out “and the civil service” after “removed from the Senior Executive Service”, struck out the designation “(A)” before “the career appointee declines”, and substituteda period for the semicolon and “or” at the end thereof. Former subpar. (B) redesignated par. (5).
 
 Subsec. (b)(5). Pub. L. 98–615, §303(c)(2), redesignated former par. (4)(B) as (5), substituted “A career appointee who is not assigned under paragraph (3)(A) may be removed from the Senior Executive Service due to a reduction in force if” for “subject to paragraph (5),”, substituted “45 days” for “120 days”, and struck out former par. (5), which had provided that persons who were career appointees as of May 31, 1981, could only be removed from the Senior Executive Service and the civil service due to a reduction in force after the 120-day period if the Director of the Office of Personnel Management certified to certain Congressional committees that the Office had taken all reasonable steps to place the appointee but had been unable to do so due to the appointee's highly specialized skills and experience.
 
-Subsec. (c). Pub. L. 98–615, §303(d), struck out the designation “(1)” before “whether the reduction”, and struck out pars. (2) and (3), which had provided, respectively, the right to appeal any removal under subsec. (b)(4)(A) and the right to appeal any nonappointmentunder subsec. (b)(3), and, in the event of such nonappointment, whether the Office of Personnel Management took all reasonable steps to achieve such placement and whether the agency correctly decided under subsec. (b)(3)(B) that the career appointee was not qualified for such placement.
+Subsec. (c). Pub. L. 98–615, §303(d), struck out the designation “(1)” before “whether the reduction”, and struck out pars. (2) and (3), which had provided, respectively, the right to appeal any removal under subsec. (b)(4)(A) and the right to appeal any nonappointment under subsec. (b)(3), and, in the event of such nonappointment, whether the Office of Personnel Management took all reasonable steps to achieve such placement and whether the agency correctly decided under subsec. (b)(3)(B) that the career appointee was not qualified for such placement.
 
 Subsec. (e). Pub. L. 98–615, §304(b), added subsec. (e).
 
@@ -52,7 +52,7 @@ Amendment by section 303(c), (d) of Pub. L. 98–615 effective following expirat
 
 #### Effective Date of 1982 Amendment
 
-Section 5(c) of Pub. L. 97–346 provided that:
+Pub. L. 97–346, §5(c), Oct. 15, 1982, 96 Stat. 1650, provided that:
 
 “(1) Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 15, 1982\].
 
@@ -60,7 +60,7 @@ Section 5(c) of Pub. L. 97–346 provided that:
 
 #### Effective Date
 
-Section 1704(e) of Pub. L. 97–35 provided that:
+Pub. L. 97–35, title XVII, §1704(e), Aug. 13, 1981, 95 Stat. 758, provided that:
 
 “(1) Subject to paragraph (2), the amendments made by this section \[enacting this section, redesignating former section 3595 as section 3596 of this title, and amending sections 3393, 3593, 7542, and 7543 of this title\] shall be effective as of June 1, 1981.
 

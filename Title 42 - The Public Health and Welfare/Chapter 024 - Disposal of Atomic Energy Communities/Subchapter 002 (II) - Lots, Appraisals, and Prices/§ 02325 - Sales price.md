@@ -20,5 +20,5 @@ The appraised value of the Government's interest in commercial property shall, i
 
 #### Report With Respect to Renegotiations, Reappraisals, and Sales Proceedings
 
-Atomic Energy Commission, Federal Housing Administration, and Housing and Home Finance Agency required to report to Joint Committee by Jan. 31, 1958, with respect to renegotiations, reappraisals, and sales proceedings authorized under subsec. (c) of this section, see section 203 of Pub. L. 85–162.
+Pub. L. 85–162, title II, §203, Aug. 21, 1957, 71 Stat. 410, required Atomic Energy Commission, Federal Housing Administration, and Housing and Home Finance Agency to report to Joint Committee by Jan. 31, 1958, with respect to renegotiations, reappraisals, and sales proceedings authorized under subsec. (c) of this section.
 

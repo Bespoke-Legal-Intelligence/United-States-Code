@@ -96,7 +96,7 @@
 
 > However, if an employee or Member retiring under section 8337 of this title is receiving retired pay or retainer pay for military service (except that specified in section 8332(c)(1) or (2) of this title) or pension or compensation from the Department of Veterans Affairs in lieu of such retired or retainer pay, the annuity of that employee or Member shall be computed under subsection (a), (b), (c), (n), (q), (r), or (s), as appropriate, excluding credit for military service from that computation. If the amount of the annuity so computed, plus the retired or retainer pay which is received, or which would be received but for the pension or compensation from the Department of Veterans Affairs in lieu of such retired or retainer pay, is less than the smaller of the annuity otherwise payable under paragraph (1) or (2) of this subsection, an amount equal to the difference shall be added to the annuity payable under subsection (a), (b), (c), (n), (q), (r), or (s), as appropriate.
 
-(h) The annuity computed under subsections (a), (b), (d)(5), and (f) of this section for an employee retiring under section 8336(d), (h), (j), or (<i>o</i>) of this title is reduced by 1/6 of 1 percent for each full month the employee is under 55 years of age at the date of separation. The annuity computed under subsections (c) and (f) of this section for a Member retiring under the second or third sentence of section 8336(g) of this title or the third sentence of section 8338(b) of this title is reduced by 1/12 of 1 percent for each full month not in excess of 60 months, and 1/6 of 1 percent for each full month in excess of 60 months, the Member is under 60 years of age at the date of separation. The annuity computed under subsections (a), (d)(6), and (f) of this section for a judge of the United States Court of Appeals for the Armed Forces retiring under the second sentence of section 8336(k) of this title or the third sentence of section 8338(c) of this title is reduced by 1/12 of 1 percent for each full month not in excess of 60 months, and 1/6 of 1 percent for each full month in excess of 60 months, the judge is under 60 years of age at the date of separation.
+(h) The annuity computed under subsections (a), (b), (d)(5), and (f) of this section for an employee retiring under section 8336(d), (h), (j), or (o) of this title is reduced by 1/6 of 1 percent for each full month the employee is under 55 years of age at the date of separation. The annuity computed under subsections (c) and (f) of this section for a Member retiring under the second or third sentence of section 8336(g) of this title or the third sentence of section 8338(b) of this title is reduced by 1/12 of 1 percent for each full month not in excess of 60 months, and 1/6 of 1 percent for each full month in excess of 60 months, the Member is under 60 years of age at the date of separation. The annuity computed under subsections (a), (d)(6), and (f) of this section for a judge of the United States Court of Appeals for the Armed Forces retiring under the second sentence of section 8336(k) of this title or the third sentence of section 8338(c) of this title is reduced by 1/12 of 1 percent for each full month not in excess of 60 months, and 1/6 of 1 percent for each full month in excess of 60 months, the judge is under 60 years of age at the date of separation.
 
 (i) For the purposes of subsections (a)–(h), (n), (q), (r), or (s), the total service of any employee or Member shall not include any period of civilian service after July 31, 1920, for which retirement deductions or deposits have not been made under section 8334(a) of this title unless—
 
@@ -178,7 +178,7 @@
 
 &emsp;(ii) the election under such paragraph (1) becomes void under subparagraph (B)(i) of this paragraph.
 
-(<i>l</i>) The annuity computed under subsections (a)–(k), (n), (q), (r), and (s) for an employee who is a citizen of the United States is increased by $36 for each year of service in the employ of—
+(l) The annuity computed under subsections (a)–(k), (n), (q), (r), and (s) for an employee who is a citizen of the United States is increased by $36 for each year of service in the employ of—
 
 &emsp;(1) the Alaska Engineering Commission, or The Alaska Railroad, in Alaska between March 12, 1914, and July 1, 1923; or
 
@@ -188,7 +188,7 @@
 
 (n) The annuity of an employee who is a Court of Federal Claims judge, bankruptcy judge, or United States magistrate judge is computed, with respect to service as a Court of Federal Claims judge, as a commissioner of the Court of Claims, as a referee in bankruptcy, as a bankruptcy judge, as a United States magistrate judge, and as a United States commissioner, and with respect to the military service of any such individual (not exceeding 5 years) creditable under section 8332 of this title, by multiplying 2½ percent of the individual's average pay by the years of that service.
 
-(<i>o</i>)(1)(A) An employee or Member—
+(o)(1)(A) An employee or Member—
 
 &emsp;(i) who, at the time of retirement, is married, and
 
@@ -382,13 +382,13 @@ Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(f)(4)\], struck out “the 
 
 Subsec. (g)(2). Pub. L. 106–553, §1(a)(2) \[title III, §308(h)(3)(A)\], substituted “subsections (a) through (c), (n), (q), (r), or (s)” for “subsections (a)–(c), (n), (q), or (r)”.
 
-Subsec. (h). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1152(c)(1)\], substituted “(j), or (<i>o</i>)” for “or (j)” in first sentence.
+Subsec. (h). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1152(c)(1)\], substituted “(j), or (o)” for “or (j)” in first sentence.
 
 Subsec. (i). Pub. L. 106–553, §1(a)(2) \[title III, §308(h)(4)\], substituted “(a)–(h), (n), (q), (r), or (s)” for “(a)–(h), (n), (q), and (r)” in introductory provisions.
 
 Subsecs. (j), (k)(1). Pub. L. 106–553, §1(a)(2) \[title III, §308(h)(5)\], substituted “(a)–(i), (n), (q), (r), and (s)” for “(a)–(i), (n), (q), and (r)” wherever appearing.
 
-Subsec. (<i>l</i>). Pub. L. 106–553, §1(a)(2) \[title III, §308(h)(6)\], substituted “(a)–(k), (n), (q), (r), and (s)” for “(a)–(k), (n), (q), and (r)” in introductory provisions.
+Subsec. (l). Pub. L. 106–553, §1(a)(2) \[title III, §308(h)(6)\], substituted “(a)–(k), (n), (q), (r), and (s)” for “(a)–(k), (n), (q), and (r)” in introductory provisions.
 
 Subsec. (m). Pub. L. 106–553, §1(a)(2) \[title III, §308(h)(2)\], substituted “subsections (a) through (e), (n), (q), (r), and (s)” for “subsections (a)–(e), (n), (q), and (r)”.
 
@@ -402,7 +402,7 @@ Pub. L. 106–553, §1(a)(2) \[title III, §308(b)(4)\], redesignated subsec. (r
 
 <b>1999</b>—Subsec. (h). Pub. L. 106–58 repealed Pub. L. 105–261, §1109(c)(1). See 1998 Amendment note below.
 
-<b>1998</b>—Subsec. (h). Pub. L. 105–261, §1109(c)(1), which directed substitution of “(j), or (<i>o</i>)” for “or (j)” in the first sentence, was repealed by Pub. L. 106–58.
+<b>1998</b>—Subsec. (h). Pub. L. 105–261, §1109(c)(1), which directed substitution of “(j), or (o)” for “or (j)” in the first sentence, was repealed by Pub. L. 106–58.
 
 <b>1997</b>—Subsec. (f). Pub. L. 105–61, §516(a)(3)(A), substituted “(q), and (r)” for “and (q) of this section”.
 
@@ -432,7 +432,7 @@ Subsec. (k)(2)(C). Pub. L. 103–66, §11004(a)(2)(B), amended subpar. (C) gener
 
 <b>1992</b>—Subsec. (n). Pub. L. 102–572 substituted “Court of Federal Claims” for “Claims Court” in two places.
 
-Subsecs. (<i>o</i>), (p). Pub. L. 102–378, §2(62), redesignated subsec. (<i>o</i>), relating to employee whose service includes service performed on part-time basis, as (p).
+Subsecs. (o), (p). Pub. L. 102–378, §2(62), redesignated subsec. (o), relating to employee whose service includes service performed on part-time basis, as (p).
 
 <b>1991</b>—Subsec. (g). Pub. L. 102–54 substituted “pension or compensation from the Department of Veterans Affairs” for “Veterans’ Administration pension or compensation” in second and third sentences.
 
@@ -456,7 +456,7 @@ Subsec. (j). Pub. L. 101–428, §2(d)(5), substituted “(a)–(i), (n), and (q
 
 Subsec. (k)(1). Pub. L. 101–428, §2(d)(5), substituted “(a)–(i), (n), and (q)” for “(a)–(i) and (n)”.
 
-Subsec. (<i>l</i>). Pub. L. 101–428, §2(d)(6), substituted “(a)–(k), (n), and (q)” for “(a)–(k) and (n)”.
+Subsec. (l). Pub. L. 101–428, §2(d)(6), substituted “(a)–(k), (n), and (q)” for “(a)–(k) and (n)”.
 
 Subsec. (m). Pub. L. 101–428, §2(d)(2), substituted “(a)–(e), (n), and (q)” for “(a)–(e) and (n)”.
 
@@ -492,17 +492,17 @@ Subsec. (k)(2)(B)(ii). Pub. L. 99–251, §203(c)(3)(B), struck out “(other th
 
 Subsec. (k)(2)(D). Pub. L. 99–251, §203(c)(3)(C), added subpar. (D).
 
-Subsec. (<i>o</i>). Pub. L. 99–272 added subsec. (<i>o</i>), set out second, relating to computation of annuities for part-time service.
+Subsec. (o). Pub. L. 99–272 added subsec. (o), set out second, relating to computation of annuities for part-time service.
 
-Pub. L. 99–251, §307(a), added subsec. (<i>o</i>), set out first, relating to 18-month period for election of survivor annuities.
+Pub. L. 99–251, §307(a), added subsec. (o), set out first, relating to 18-month period for election of survivor annuities.
 
-<b>1984</b>—Subsec. (f). Pub. L. 98–353, §112, substituted “and (n)” for “and (<i>o</i>)”.
+<b>1984</b>—Subsec. (f). Pub. L. 98–353, §112, substituted “and (n)” for “and (o)”.
 
 Subsec. (g). Pub. L. 98–353, §116(d)(1), (2), inserted “or (n)” after “(c)” in par. (2), and substituted “(c), or (n)” for “or (c)” in two places in provisions following par. (2).
 
 Subsec. (j)(1). Pub. L. 98–615, §2(3)(A), substituted provisions that at the time of retirement an employee's pension will be reduced to provide survivor benefits to the spouse unless the employee or Member and the spouse jointly waive the spouse's right to the survivor annuity in a written statement filed with the Office of Personnel Management which shall be made in accordance with such requirements as prescribed by the Office by regulation and which shall be irrevocable and that the Office, by regulation, must provide that an employee may waive the survivor annuity without the spouse's consent only when the spouse's whereabouts are unknown to the employee or, due to exceptional circumstances it would be inappropriate to require the employee to seek the spouse's consent for provisions that at the time of retirement an employee's pension would be reduced by 2½ percent of so much thereof as did not exceed $3,600 and by 10 percent of so much thereof as exceeded that amount, unless the employee or member notified the Office of Personnel Management in writing at the time of retirement that he did not desire any surviving spouse to receive an annuity under section 8341(b) of this title, and struck out provisions for the restoration to the employee or Member of his full pension, as if such reduction had not taken place, for each full month in which such employee or Member was not married, and providing the employee or Member a right of irrevocable election of reduction for the benefit of a subsequent spouse, in the event of remarriage, in an amount equal to the prior reduction, to take effect 1 year after remarriage.
 
-Pub. L. 98–353, §112, substituted “and (n)” for “and (<i>o</i>)”.
+Pub. L. 98–353, §112, substituted “and (n)” for “and (o)”.
 
 Subsec. (j)(2). Pub. L. 98–615, §2(3)(A), substituted provision that if an employee or Member has a former spouse who is entitled to a survivor annuity as provided in section 8341(h) of this title, the annuity of the employee or Member computed under subsecs. (a)–(i) and (n) (or any designated portion of the annuity, in the event that the former spouse is entitled to less than 55 percent of the employee or Member's annuity) is reduced as provided in par. (4) for provision that any written notification (or designation) by any employee or Member under the first sentence of par. (1) would not be considered valid unless the employee or Member established to the satisfaction of the Office that the spouse had been notified of the loss of or reduction in survivor benefits or that the employee or Member had complied with such notification requirements as the Office would, by regulation, prescribe.
 
@@ -510,13 +510,13 @@ Subsec. (j)(3) to (5). Pub. L. 98–615, §2(3)(A), added pars. (3) to (5).
 
 Subsec. (k)(1). Pub. L. 98–615, §2(3)(B), substituted “an employee or Member” for “an unmarried employee or Member”.
 
-Pub. L. 98–353, §112, substituted “and (n)” for “and (<i>o</i>)”.
+Pub. L. 98–353, §112, substituted “and (n)” for “and (o)”.
 
 Subsec. (k)(2). Pub. L. 98–615, §2(3)(C), designated existing provisions as subpar. (A), substituted “such employee or Member's spouse” for “his spouse” and “within 2 years after such employee or Member marries or, if later, within 2 years after the death or remarriage of any former spouse of such employee or Member who was entitled to a survivor annuity under section 8341(h)of this title (or of the last such surviving former spouse, if there was more than one), a reduction in the retired employee or Member's current annuity as provided in subsection (j) of this section” for “within 1 year after he marries, a reduction in his current annuity as provided in subsection (j) of this section. The reduced annuity shall be effective the first day of the first month beginning 1 year after the date of marriage. The election voids prospectively any election previously made under paragraph (1) of this subsection”, and added subpars. (B) and (C).
 
-Subsec. (<i>l</i>). Pub. L. 98–353, §112, substituted “and (n)” for “and (<i>o</i>)” in provisions preceding par. (1).
+Subsec. (l). Pub. L. 98–353, §112, substituted “and (n)” for “and (o)” in provisions preceding par. (1).
 
-Subsec. (m). Pub. L. 98–353, §112, substituted “and (n)” for “and (<i>o</i>)”.
+Subsec. (m). Pub. L. 98–353, §112, substituted “and (n)” for “and (o)”.
 
 Subsec. (n). Pub. L. 98–531 substituted “as a referee in bankruptcy and” for “March 31, 1979, and before the date of the enactment of the Bankruptcy Amendments and Federal Judgeship Act of 1984”.
 
@@ -530,7 +530,7 @@ Pub. L. 98–299 substituted “June 21, 1984” for “May 26, 1984”.
 
 Pub. L. 98–271 substituted “May 26, 1984” for “April 1, 1984”.
 
-Pub. L. 98–249 which purported to amend subsec. (<i>o</i>) by substituting “May 1, 1984” for “April 1, 1984” was probably intended as an amendment of subsec. (n). See amendment of subsec. (n) by Pub. L. 98–271.
+Pub. L. 98–249 which purported to amend subsec. (o) by substituting “May 1, 1984” for “April 1, 1984” was probably intended as an amendment of subsec. (n). See amendment of subsec. (n) by Pub. L. 98–271.
 
 <b>1983</b>—Subsec. (d)(6). Pub. L. 98–94, §1256(e)(1), added par. (6).
 
@@ -538,7 +538,7 @@ Subsec. (h). Pub. L. 98–94, §1256(e)(2), inserted provision that the annuity 
 
 <b>1982</b>—Subsec. (e). Pub. L. 97–276 inserted “unless such employee has received, pursuant to section 8342 of this title, payment of the lump-sum credit attributable to deductions under section 8334(a) of this title during any period of employment as an air traffic controller and such employee has not deposited in the Fund the amount received, with interest, pursuant to section 8334(d) of this title”.
 
-Subsec. (i). Pub. L. 97–253 redesignated former unnumbered subsection into provisions preceding par. (1) and par. (1) and (2) and completely revised such provisions as so redesignated. Prior to amendment subsec. (i) read as follows: “The annuity computed under subsections (a)–(h) and (<i>o</i>) of this section is reduced by 10 percent of a deposit described by section 8334(c) of this title remaining unpaid, unless the employee or Member elects to eliminate the service involved for the purpose of annuity computation.”
+Subsec. (i). Pub. L. 97–253 redesignated former unnumbered subsection into provisions preceding par. (1) and par. (1) and (2) and completely revised such provisions as so redesignated. Prior to amendment subsec. (i) read as follows: “The annuity computed under subsections (a)–(h) and (o) of this section is reduced by 10 percent of a deposit described by section 8334(c) of this title remaining unpaid, unless the employee or Member elects to eliminate the service involved for the purpose of annuity computation.”
 
 <b>1980</b>—Subsec. (g). Pub. L. 96–499 provided for a minimum disability retirement annuity where an employee or Member retiring under section 8337 of this title was receiving retired or retainer pay for military service or a Veterans’ Administration pension or compensation.
 
@@ -550,17 +550,17 @@ Subsec. (d)(5). Pub. L. 96–135, §1(b), added par. (5).
 
 Subsec. (h). Pub. L. 96–135, §1(c), inserted references to subsections (d)(5) and (j) of this section.
 
-Subsecs. (n), (<i>o</i>). Pub. L. 96–54 redesignated subsec. (<i>o</i>) as (n). Former subsec. (n) redesignated (m) by Pub. L. 94–126.
+Subsecs. (n), (o). Pub. L. 96–54 redesignated subsec. (o) as (n). Former subsec. (n) redesignated (m) by Pub. L. 94–126.
 
 <b>1978</b>—Subsec. (d). Pub. L. 95–256 substituted “(b)” for “(g)”.
 
-Subsec. (f). Pub. L. 95–598, §338(a)(1), inserted reference to subsec. (<i>o</i>) of this section.
+Subsec. (f). Pub. L. 95–598, §338(a)(1), inserted reference to subsec. (o) of this section.
 
 Subsec. (h). Pub. L. 95–454, §412(b), substituted “section 8336(d) or (h)” for “section 8336(d)”.
 
-Subsec. (i). Pub. L. 95–598, §338(a)(2), inserted reference to subsec. (<i>o</i>) of this section.
+Subsec. (i). Pub. L. 95–598, §338(a)(2), inserted reference to subsec. (o) of this section.
 
-Subsec. (j). Pub. L. 95–598, §338(a)(3), inserted reference to subsec. (<i>o</i>) of this section.
+Subsec. (j). Pub. L. 95–598, §338(a)(3), inserted reference to subsec. (o) of this section.
 
 Pub. L. 95–454, §906(a)(2), (3), substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively.
 
@@ -568,19 +568,19 @@ Pub. L. 95–317, §1(a), inserted “(or is remarried if there is no election i
 
 Subsec. (k). Pub. L. 95–454, §906(a)(3), substituted “Office” for “Commission” wherever appearing.
 
-Subsec. (k)(1). Pub. L. 95–598, §338(a)(3), inserted reference to subsec. (<i>o</i>) of this section.
+Subsec. (k)(1). Pub. L. 95–598, §338(a)(3), inserted reference to subsec. (o) of this section.
 
 Pub. L. 95–317, §2, inserted provisions relating to recomputation and payment of an annuity reduced under this par. or any similar prior provision of law.
 
 Subsec. (k)(2). Pub. L. 95–317, §1(c), substituted “The reduced annuity shall be effective the first day of the first month beginning 1 year after the date of marriage” for “His reduced annuity is effective the first day of the month after his election is received in the Commission”.
 
-Subsec. (<i>l</i>). Pub. L. 95–598, §338(a)(4), inserted reference to subsec. (<i>o</i>) of this section.
+Subsec. (l). Pub. L. 95–598, §338(a)(4), inserted reference to subsec. (o) of this section.
 
-Subsec. (m). Pub. L. 95–598, §338(a)(5), inserted reference to subsec. (<i>o</i>) of this section.
+Subsec. (m). Pub. L. 95–598, §338(a)(5), inserted reference to subsec. (o) of this section.
 
 Pub. L. 95–519 inserted provision relating to computation of days of unused sick leave for employees excepted from subchapter I of chapter 63 of this title.
 
-Subsec. (<i>o</i>). Pub. L. 95–598, §338(a)(6), added subsec. (<i>o</i>).
+Subsec. (o). Pub. L. 95–598, §338(a)(6), added subsec. (o).
 
 <b>1976</b>—Subsec. (f)(2)(C). Pub. L. 94–397 substituted “8344(d)(1)” for “8344(b)(1)”.
 
@@ -604,11 +604,11 @@ Subsec. (i). Pub. L. 92–297, §§6(1), 7(3)(C), redesignated former subsec. (h
 
 Subsec. (j). Pub. L. 92–297, §§6(1), 7(3)(D), redesignated former subsec. (i) as (j) and substituted reference to subsections (a) to (i) for reference to subsections (a) to (h). Former subsec. (j) redesignated (k).
 
-Subsec. (k). Pub. L. 92–297, §§6(1), 7(3)(E), redesignated former subsec. (j) as (k) and substituted “subsections (a)–(i)” and “subsection (j)” for “subsections (a)–(h)” and “subsection (i)”, respectively. Former subsec. (k) redesignated (<i>l</i>).
+Subsec. (k). Pub. L. 92–297, §§6(1), 7(3)(E), redesignated former subsec. (j) as (k) and substituted “subsections (a)–(i)” and “subsection (j)” for “subsections (a)–(h)” and “subsection (i)”, respectively. Former subsec. (k) redesignated (l).
 
-Subsec. (<i>l</i>). Pub. L. 92–297, §§6(1), 7(3)(F), redesignated former subsec. (k) as (<i>l</i>) and substituted “subsections (a)–(e)” for “subsections (a)–(j)”. Former subsec. (<i>l</i>) redesignated (m).
+Subsec. (l). Pub. L. 92–297, §§6(1), 7(3)(F), redesignated former subsec. (k) as (l) and substituted “subsections (a)–(e)” for “subsections (a)–(j)”. Former subsec. (l) redesignated (m).
 
-Subsec. (m). Pub. L. 92–297, §6(1) redesignated former subsec. (<i>l</i>) as (m). Former subsec. (m) redesignated (n).
+Subsec. (m). Pub. L. 92–297, §6(1) redesignated former subsec. (l) as (m). Former subsec. (m) redesignated (n).
 
 Subsec. (n). Pub. L. 92–297, §§6(1), 7(3)(G), redesignated former subsec. (m) as (n) and substituted “subsections (a)–(e)” and “subsection (f)” for “subsections (a)–(d)” and “subsection (e)”, respectively.
 
@@ -626,7 +626,7 @@ Subsec. (i). Pub. L. 91–93, §203(4), struck out “(excluding any increase be
 
 Subsec. (m). Pub. L. 91–93, §203(5), added subsec. (m).
 
-<b>1968</b>—Subsec. (<i>l</i>). Pub. L. 90–486 added subsec. (<i>l</i>).
+<b>1968</b>—Subsec. (l). Pub. L. 90–486 added subsec. (l).
 
 <b>1967</b>—Subsec. (e)(2). Pub. L. 90–206 inserted provision for the use of the final basic pay of the appointive position of a former Member who elects to have his annuity computed or recomputed under section 8344(b)(1) of this title inmaking the determination of the maximum allowable annuity.
 
@@ -702,11 +702,11 @@ Section 307(b) of Pub. L. 99–251 provided that:
 
 “(2)(A) Subject to subparagraph (B), the amendment made by subsection (a) shall apply with respect to employees and Members who retire before, on, or after such amendment first takes effect.
 
-“(B) For the purpose of applying the provisions of paragraph (1) of section 8339(<i>o</i>) of title 5, United States Code (as added by subsection (a) of this section) to employees and Members who retire before the date on which the amendment made by subsection (a) first takes effect—
+“(B) For the purpose of applying the provisions of paragraph (1) of section 8339(o) of title 5, United States Code (as added by subsection (a) of this section) to employees and Members who retire before the date on which the amendment made by subsection (a) first takes effect—
 
 &emsp;“(i) the period referred to in subparagraph (A) or (B) of such paragraph (as the case may be) shall be considered to begin on the date on which such amendment first becomes effective; and
 
-&emsp;“(ii) the amount referred to in paragraph (2) of such section 8339(<i>o</i>) shall be computed without regard to the provisions of subparagraph (B)(ii) of such paragraph (relating to interest).
+&emsp;“(ii) the amount referred to in paragraph (2) of such section 8339(o) shall be computed without regard to the provisions of subparagraph (B)(ii) of such paragraph (relating to interest).
 
 “(3) For purposes of this subsection, the terms ‘employee’ and ‘Member’ each has the meaning given that term in sections 8331(1) and 8331(2) of title 5, United States Code, respectively.”
 
@@ -881,13 +881,9 @@ Sec. 2. The unmarried widow or widower of an employee—
 
 &emsp;“(2) who (A) died February 29, 1948, or (B), if retired under the Alaska Railroad Retirement Act of June 29, 1936, as amended, or under sections 91 to 107, inclusive, of title 2 of the Canal Zone Code, approved June 19, 1934, as amended, died before April 1, 1948; and
 
-&emsp;“(3) who was at the time of his death
+&emsp;“(3) who was at the time of his death (A) subject to an Act under which annuities granted before February 20, 1948, were or are now payable from the civil service retirement and disability fund or (B) retired under such an Act,
 
-&emsp;&emsp;(A) subject to an Act under which annuities granted before February 20, 1948, were or are now payable from the civil service retirement and disability fund or (B) retired under such an Act,
-
-&emsp;&emsp;(B) etc.
-
-> &emsp;shall be entitled to receive an annuity. In order to qualify for such annuity, the widow or widower shall have been married to the employee for at least five years immediately prior to his death and must be not entitled to any other annuity from the civil service retirement and disability fund based on the service of such employee. Such annuity shall be equal to one-half of the annuity which the employee was receiving on the date of his death if retired, or would have been receiving if he had been retired for disability on the date of his death, but shall not exceed $750 per annum and shall not be increased by the provisions of this or any other prior law. Any annuity granted under this section shall cease upon the death or remarriage of the widow or widower.
+> shall be entitled to receive an annuity. In order to qualify for such annuity, the widow or widower shall have been married to the employee for at least five years immediately prior to his death and must be not entitled to any other annuity from the civil service retirement and disability fund based on the service of such employee. Such annuity shall be equal to one-half of the annuity which the employee was receiving on the date of his death if retired, or would have been receiving if he had been retired for disability on the date of his death, but shall not exceed $750 per annum and shall not be increased by the provisions of this or any other prior law. Any annuity granted under this section shall cease upon the death or remarriage of the widow or widower.
 
 “
 
@@ -895,11 +891,11 @@ Sec. 3. (a) An increase in annuity provided by subsection (a), or clause (1) of 
 
 “(b) An annuity provided by section 2 of this Act shall commence on August 1, 1958, or on the first day of the month in which application for such annuity is received in the Civil Service Commission, whichever occurs later.
 
+“(c) The monthly installment of each annuity increased or provided by this Act shall be fixed at the nearest dollar.
+
 “
 
 Sec. 4. Notwithstanding any other provision of law, the annuities and increases in annuities provided by the preceding sections of this Act shall be paid from the civil service retirement and disability fund.
-
-“(c) The monthly installment of each annuity increased or provided by this Act shall be fixed at the nearest dollar.
 
 “
 

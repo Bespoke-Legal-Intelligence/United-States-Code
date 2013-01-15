@@ -118,6 +118,10 @@ This Act, referred to in subsecs. (b), (c)(5), (6), (f), and (g)(1), (4), is Pub
 
 The District of Columbia Nonprofit Corporation Act, referred to in subsec. (b), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, as amended, which is not classified to the Code.
 
+#### Constitutionality
+
+For information regarding constitutionality of certain provisions of section 101 of Pub. L. 107–204, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+
 #### Amendments
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–203, §982(b)(2), substituted “companies that” for “public companies that” and struck out “for companies the securities of which are sold to, and held by and for, public investors” after “independent audit reports”.

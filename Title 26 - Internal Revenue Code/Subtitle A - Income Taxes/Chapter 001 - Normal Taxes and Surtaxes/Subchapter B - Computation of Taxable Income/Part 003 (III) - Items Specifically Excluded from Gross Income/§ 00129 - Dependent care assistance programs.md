@@ -40,7 +40,7 @@
 
 #### (c) Payments to related individuals
 
-No amount paid or incurred during the taxable year of an employee by an employer in providing dependent care assistance to such employeeshall be excluded under subsection (a) if such amount was paid or incurred to an individual—
+No amount paid or incurred during the taxable year of an employee by an employer in providing dependent care assistance to such employee shall be excluded under subsection (a) if such amount was paid or incurred to an individual—
 
 &emsp;(1) with respect to whom, for such taxable year, a deduction is allowable under section 151(c) (relating to personal exemptions for dependents) to such employee or the spouse of such employee, or
 
@@ -112,13 +112,13 @@ For purposes of this section—
 
 #### (4) Employer
 
-&emsp;An individual who owns the entire interest in an unincorporated trade or business shall be treated as his own employer. A partnership shall be treated as the employer of each partner who is an employee within the meaning of paragraph (3).
+&emsp;An individual who owns the entire interest in an unincorporated trade or business shall betreated as his own employer. A partnership shall be treated as the employer of each partner who is an employee within the meaning of paragraph (3).
 
 #### (5) Attribution rules
 
 #### (A) Ownership of stock
 
-&emsp;&emsp;Ownership of stock in a corporation shall be determined in accordance with the rulesprovided under subsections (d) and (e) of section 1563 (without regard to section 1563(e)(3)(C)).
+&emsp;&emsp;Ownership of stock in a corporation shall be determined in accordance with the rules provided under subsections (d) and (e) of section 1563 (without regard to section 1563(e)(3)(C)).
 
 #### (B) Interest in unincorporated trade or business
 
@@ -260,25 +260,25 @@ Amendment by Pub. L. 108–311 applicable to taxable years beginning after Dec. 
 
 Amendment by Pub. L. 104–188 applicable to years beginning after Dec. 31, 1996, except that in determining whether an employee is a highly compensated employee for years beginning in 1997, such amendment to be treated as having been in effect for years beginning in 1996, see section 1431(d)(1) of Pub. L. 104–188, set out as a note under section 414 of this title.
 
-#### Effective Date of 1989 Amendments
+#### Effective Date of 1989 Amendment
 
 Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
 Amendment by section 203(a)(1), (2) of Pub. L. 101–140 effective as if included in section 1151 of Pub. L. 99–514, see section 203(c) of Pub. L. 101–140, set out as a note under section 79 of this title.
 
-Section 204(a)(3)(D) of Pub. L. 101–140 provided that: “Section 129(d)(8) (as redesignated by subparagraph (A)) shall apply to plan years beginning after December 31, 1989.”
+Pub. L. 101–140, title II, §204(a)(3)(D), Nov. 8, 1989, 103 Stat. 833, provided that: “Section 129(d)(8) (as redesignated by subparagraph (A)) shall apply to plan years beginning after December 31, 1989.”
 
-Section 204(d)(1), (2) of Pub. L. 101–140 provided that:
+Pub. L. 101–140, title II, §204(d)(1), (2), Nov. 8, 1989, 103 Stat. 833, provided that:
 
-“(1) The amendments made by subsections (a)(1), (a)(2), and (b)(2) \[amending this section and section 414 of this title\] shall apply to years beginning after December 31, 1988.
+“(1) The amendments made by subsections (a)(1), (a)(2), and (b)(2) \[amending this section and section 414of this title\] shall apply to years beginning after December 31, 1988.
 
 “(2) The amendments made by subsection (a)(3) \[amending this section\] shall apply to plan years beginning after December 31, 1989.”
 
-#### Effective Date of 1988 Amendments
+#### Effective Date of 1988 Amendment
 
-Amendment by section 1011B(a)(14), (15), (18), (30), (31)(A), (c)(1) of Pub. L. 100–647 effective, except asotherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by section 1011B(a)(14), (15), (18), (30), (31)(A), (c)(1) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Section 1011B(c)(2)(C) of Pub. L. 100–647 provided that:
+Pub. L. 100–647, title I, §1011B(c)(2)(C), Nov. 10, 1988, 102 Stat. 3489, provided that:
 
 “(i) Except as provided in this subparagraph, the amendments made by this paragraph \[amending this section and section 6051 of this title\] shall apply to taxable years beginning after December 31, 1987.
 
@@ -286,7 +286,7 @@ Section 1011B(c)(2)(C) of Pub. L. 100–647 provided that:
 
 “(iii) In the case of a taxpayer not making an election under clause (ii), any dependent care assistance provided in a taxable year beginning in 1987 with respect to which reimbursement was not received in such taxable year shall be treated as provided in the taxpayer's first taxable year beginning after December 31, 1987.”
 
-Section 3021(d) of Pub. L. 100–647 provided that:
+Pub. L. 100–647, title III, §3021(d), Nov. 10, 1988, 102 Stat. 3634, provided that:
 
 “(1)
 
@@ -306,7 +306,7 @@ Amendment by section 1114(b)(4) of Pub. L. 99–514 applicable to years beginnin
 
 Amendment by section 1151(c)(5), (f), (g)(4) of Pub. L. 99–514 applicable, with certain qualifications and exceptions, to years beginning after Dec. 31, 1988, see section 1151(k) of Pub. L. 99–514, as amended, set out as a note under section 79 of this title.
 
-Section 1163(c) of Pub. L. 99–514 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1986.”
+Pub. L. 99–514, title XI, §1163(c), Oct. 22, 1986, 100 Stat. 2511, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1986.”
 
 #### Effective Date of 1984 Amendment
 

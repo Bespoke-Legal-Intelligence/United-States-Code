@@ -20,7 +20,7 @@ General Rule.—No person may use, in connection with, or as a part of, any adve
 
 (b)
 
-Treatment of Disclaimers.—Any determination of whether a person has violated theprovisions of subsection (a) shall be made without regard to any use of a disclaimer of affiliation with the United States Government or any particular agency or instrumentality thereof.
+Treatment of Disclaimers.—Any determination of whether a person has violated the provisions of subsection (a) shall be made without regard to any use of a disclaimer of affiliation with the United States Government or any particular agency or instrumentality thereof.
 
 (c)
 
@@ -66,11 +66,11 @@ Time limitations.—No person may be prosecuted, tried, or punished under paragr
 
 Coordination with subsection (c).—No criminal proceeding may be commenced under this subsection with respect to any violation if a civil penalty has previously been assessed under subsection (c) with respect to such violation.
 
-(Added Pub. L. 103–296, title III, §312(<i>l</i>)(1), Aug. 15, 1994, 108 Stat. 1528.)
+(Added Pub. L. 103–296, title III, §312(l)(1), Aug. 15, 1994, 108 Stat. 1528.)
 
 #### Effective Date
 
-Section 312(m) of Pub. L. 103–296 provided that:
+Pub. L. 103–296, title III, §312(m), Aug. 15, 1994, 108 Stat. 1530, provided that:
 
 “(1)
 
@@ -78,9 +78,9 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 “(2)
 
-Prohibition of misuse of department of the treasury names, symbols, etc.—Subsection (<i>l</i>)(3) \[enacting provisions set out below\] shall take effect on the date of the enactment of this Act \[Aug. 15, 1994\], and the amendments made by paragraphs (1) and (2) of subsection (<i>l</i>) \[enacting this section\] shall apply with respect to violations occurring after such date.”
+Prohibition of misuse of department of the treasury names, symbols, etc.—Subsection (l)(3) \[enacting provisions set out below\] shall take effect on the date of the enactment of this Act \[Aug. 15, 1994\], and the amendments made by paragraphs (1) and (2) of subsection (l) \[enacting this section\] shall apply with respect to violations occurring after such date.”
 
 #### Report on Implementation of Section
 
-Section 312(<i>l</i>)(3) of Pub. L. 103–296 provided that: “Not later than May 1, 1996, the Secretary of the Treasury shall submit a report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on the implementation of the amendments made by this section \[enacting this section and amending section 1320b–10 of Title 42, The Public Health and Welfare\]. Such report shall include the number of cases in which the Secretary has notified persons of violations of section 333 of title 31, United States Code (as added by subsection (a)\[(<i>l</i>)(1)\]), the number of prosecutions commenced under such section, and the total amount of the penalties collected in such prosecutions.”
+Pub. L. 103–296, title III, §312(l)(3), Aug. 15, 1994, 108 Stat. 1530, provided that: “Not later than May 1, 1996, the Secretary of the Treasury shall submit a report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on the implementation of the amendments made by this section \[enacting this section and amending section 1320b–10 of Title 42, The Public Health and Welfare\]. Such report shall include the number of cases in which the Secretary has notified persons of violations of section 333 of title 31, United States Code (as added by subsection (a)\[(l)(1)\]), the number of prosecutions commenced under such section, and the total amount of the penalties collected in such prosecutions.”
 

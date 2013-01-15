@@ -28,7 +28,7 @@
 
 #### References in Text
 
-Section 29(c) and (d) of the Act of August 10, 1956 (70A Stat. 632; 5 U.S.C. 30r(c) and (d)), referred to in subsec.\(a), was repealed and the provisions thereof were reenacted as sections 502, 2105(d), and 5534, of Title 5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 278.
+Section 29(c) and (d) of the Act of August 10, 1956 (70A Stat. 632; 5 U.S.C. 30r(c) and (d)), referred to in subsec. (a), was repealed and the provisions thereof were reenacted as sections 502, 2105(d), and 5534, of Title 5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 278.
 
 #### Prior Provisions
 

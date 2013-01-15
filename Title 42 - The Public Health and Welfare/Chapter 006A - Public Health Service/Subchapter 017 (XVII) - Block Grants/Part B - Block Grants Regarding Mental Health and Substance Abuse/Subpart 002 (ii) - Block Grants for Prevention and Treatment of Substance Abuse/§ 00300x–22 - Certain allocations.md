@@ -22,7 +22,7 @@ A funding agreement for a grant under section 300x–21 of this title is that, i
 
 &emsp;Subject to paragraph (2), a funding agreement for a grant under section 300x–21 of this title for a fiscal year is that—
 
-&emsp;&emsp;(A) in the case of a grant for fiscal year 1993, the State involved will expend not less than 5 percent of the grant to increase (relative to fiscal year 1992) the availability of treatment services designed for pregnant women and women with dependent children (either by establishing new programs or expanding the capacity of existing programs);
+&emsp;&emsp;(A) in the case of a grant for fiscal year 1993, the State involved will expend not lessthan 5 percent of the grant to increase (relative to fiscal year 1992) the availability of treatment services designed for pregnant women and women with dependent children (either by establishing new programs or expanding the capacity of existing programs);
 
 &emsp;&emsp;(B) in the case of a grant for fiscal year 1994, the State will expend not less than 5 percent of the grant to so increase (relative to fiscal year 1993) the availability of such services for such women; and
 

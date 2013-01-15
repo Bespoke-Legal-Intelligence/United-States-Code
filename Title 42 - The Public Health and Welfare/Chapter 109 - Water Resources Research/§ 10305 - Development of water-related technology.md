@@ -4,7 +4,7 @@
 
 (1) The Secretary shall make grants in addition to those authorized under sections 10303 and 10304 of this title for technology development concerning any aspect of water resources including water-related technology which the Secretary may deem to be of State, regional, or national importance. Activities funded under this section may be carried out by educational institutions, private firms, foundations, individuals, or agencies of State or local government. Care shall be taken to protect proprietary information of private individuals or firms associated with the technology.
 
-(2) The Secretary may establish any condition for the matching of funds by the recipient of any grant or contract under this section which the Secretary considers to be in the best interest ofthe Nation considering the information transfer and technology needs of the Nation. However, in the case of institutes established by section 10303 of this title no match greater than that required under section 10303 of this title may be required.
+(2) The Secretary may establish any condition for the matching of funds by the recipient of any grant or contract under this section which the Secretary considers to be in the best interest of the Nation considering the information transfer and technology needs of the Nation. However, in the case of institutes established by section 10303 of this title no match greater than that required under section 10303 of this title may be required.
 
 #### (b) Applications for grants
 
@@ -18,5 +18,5 @@ There is authorized to be appropriated to the Secretary the sum of $6,000,000 fo
 
 #### Amendments
 
-<b>1990</b>—Pub. L. 101–397, in amending section generally, in subsec. (a)(1) struck out provision directing that grant be made on basis of merit and feasibility of project, in subsec. (a)(2) inserted provisions relating to match in the case of institutes established by section 10303 of this title, and in subsec. (c) substituted provisions authorizing $6,000,000 appropriation for fiscal years 1990 through 1995, for provisions authorizing the same sum for fiscal years 1985 through 1989, and struck out provisions authorizing obligation of funds under this section and par. (1) and (2) designations.
+<b>1990</b>—Pub. L. 101–397, in amending section generally, in subsec. (a)(1) struck out provision directing thatgrant be made on basis of merit and feasibility of project, in subsec. (a)(2) inserted provisions relating to match in the case of institutes established by section 10303 of this title, and in subsec. (c) substituted provisions authorizing $6,000,000 appropriation for fiscal years 1990 through 1995, for provisions authorizing the same sum for fiscal years 1985 through 1989, and struck out provisions authorizing obligation of funds under this section and par. (1) and (2) designations.
 

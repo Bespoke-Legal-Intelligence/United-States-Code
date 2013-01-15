@@ -6,7 +6,7 @@ Enrollment.—(1) Except as provided in subsection (f), upon first becoming a me
 
 (2) Promptly after the insurance program is established, the Secretary shall offer to members of the reserve components who are then members of the Ready Reserve (other than members ineligible under subsection (f)) an opportunity to enroll for coverage under the insurance program. A member who fails to enroll within 60 days after being offered the opportunity shall be considered as having declined to be insured under the program.
 
-(3) A member of the Ready Reserve ineligible to enroll under subsection (f) shall be afforded an opportunity to enroll upon being released from active duty in accordance with regulations prescribed by the Secretary if the member has not previously had the opportunity to be enrolled under paragraph (1) or (2). A member who fails to enroll within 60 days after being afforded that opportunity shall be considered as having declined to be insured under the program.
+(3) A member of the Ready Reserve ineligible to enroll under subsection (f) shall be afforded an opportunity to enroll upon being releasedfrom active duty in accordance with regulations prescribed by the Secretary if the member has not previously had the opportunity to be enrolled under paragraph (1) or (2). A member who fails to enroll within 60 days after being afforded that opportunity shall be considered as having declined to be insured under the program.
 
 (b)
 
@@ -24,7 +24,7 @@ Election To Terminate.—A member may terminate an enrollment at any time.
 
 (e)
 
-Information To Be Furnished.—The Secretary shall ensure that members referred to in subsection (a) are given a written explanation of the insurance program and are advised that they have the right to decline to be insured and, if not declined, to elect coverage for a reducedbenefit or an enhanced benefit under subsection (b).
+Information To Be Furnished.—The Secretary shall ensure that members referred to in subsection (a) are given a written explanation of the insurance program and are advised that they have the right to decline to be insured and, if not declined, to elect coverage for a reduced benefit or an enhanced benefit under subsection (b).
 
 (f)
 

@@ -24,7 +24,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Short Title
 
-Section 1 of Pub. L. 92–426 provided: “That this Act \[enacting this chapter and chapter 105 of this title\] may be cited as the ‘Uniformed Services Health Professions Revitalization Act of 1972’.”
+Pub. L. 92–426, §1, Sept. 21, 1972, 86 Stat. 713, provided: “That this Act \[enacting this chapter and chapter 105 of this title\] may be cited as the ‘Uniformed Services Health Professions Revitalization Act of 1972’.”
 
 #### Transfer of Functions
 
@@ -32,7 +32,7 @@ For transfer of authority of Board of Regents of Uniformed Services University o
 
 #### Continuation of Uniformed Services University of the Health Sciences
 
-Section 1071 of Pub. L. 104–106, as amended by Pub. L. 104–201, div. A, title IX, §907(b)(2), Sept. 23, 1996, 110 Stat. 2620, provided that:
+Pub. L. 104–106, div. A, title X, §1071, Feb. 10, 1996, 110 Stat. 445, as amended by Pub. L. 104–201, div. A, title IX, §907(b)(2), Sept. 23, 1996, 110 Stat. 2620, provided that:
 
 “(a)
 
@@ -72,7 +72,7 @@ GAO Evaluation.—Not later than June 1, 1995, the Comptroller General of the Un
 
 &emsp;“(6) Such other recommendations as the Comptroller General considers appropriate.”
 
-#### F. Edward He�AE1bert School of Medicine
+#### F. Edward Hébert School of Medicine
 
-Pub. L. 98–94, title XII, §1265, Sept. 24, 1983, 97 Stat. 704, provided that: “The School of Medicine of the Uniformed Services University of the Health Sciences shall after the date of the enactment of this Act \[Sept. 24, 1983\] be known and designated as the ‘F. Edward He�AE1bert School of Medicine’. Any reference to such school of medicine in any law, regulation, map, document, or other record of the United States shall after such date be deemed to be a reference to such school of medicine as the F. Edward He�AE1bert School of Medicine.”
+Pub. L. 98–94, title XII, §1265, Sept. 24, 1983, 97 Stat. 704, provided that: “The School of Medicine of the Uniformed Services University of the Health Sciences shall after the date of the enactment of this Act \[Sept. 24, 1983\] be known and designated as the ‘F. Edward Hébert School of Medicine’. Any reference to such school of medicine in any law, regulation, map, document, or other record of the United States shall after such date be deemed to be a reference to such school of medicine as the F. Edward Hébert School of Medicine.”
 

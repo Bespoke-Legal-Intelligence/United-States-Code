@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;After December 31, 1971, no new flood insurance coverage shall be provided under this chapter in any area (or subdivision thereof) unless an appropriate public body shall have adopted adequate land use and control measures (with effective enforcement provisions) which the Director finds are consistent with the comprehensive criteria for land management and use under section 4102 of this title.
+&emsp;After December 31, 1971, no new flood insurance coverage shall be provided under this chapter in any area (or subdivision thereof) unless an appropriate public body shall have adopted adequate land use and control measures (with effective enforcement provisions) which the Administrator finds are consistent with the comprehensive criteria for land management and use under section 4102 of this title.
 
 #### (2) Agricultural structures
 
@@ -18,11 +18,11 @@
 
 #### (B) Premium rates and coverage
 
-&emsp;&emsp;To the extent applicable, an agricultural structure repaired or restored pursuant to subparagraph (A) shall pay chargeable premium rates established under section 4015 of this title at the estimated risk premium rates under section 4014(a)(1) of this title. If resources are available, the Director shall provide technical assistance and counseling, upon request of the owner of the structure, regarding wet flood-proofing and other flood damage reduction measures for agricultural structures. The Director shall not be required to make flood insurance coverage available for such an agricultural structure unless the structure is wet flood-proofedthrough permanent or contingent measures applied to the structure or its contents that prevent or provide resistance to damage from flooding by allowing flood waters to pass through the structure, as determined by the Director.
+&emsp;&emsp;To the extent applicable, an agricultural structure repaired or restored pursuant to subparagraph (A) shall pay chargeable premium rates established under section 4015 of this title at the estimated risk premium rates under section 4014(a)(1) of this title. If resources are available, the Administrator shall provide technical assistance and counseling, upon request of the owner of the structure, regarding wet flood-proofing and other flood damage reduction measures for agricultural structures. The Administrator shall not be required to make flood insurance coverage available for such an agricultural structure unless the structure is wet flood-proofed through permanent or contingent measures applied to the structure or its contents that prevent or provide resistance to damage from flooding by allowing flood waters to pass through the structure, as determined by the Administrator.
 
 #### (C) Prohibition on disaster relief
 
-&emsp;&emsp;Notwithstanding any other provision of law, any agricultural structure repaired or restored pursuant to subparagraph (A) shall not be eligible for disaster relief assistance under any program administered by the Director or any other Federal agency.
+&emsp;&emsp;Notwithstanding any other provision of law, any agricultural structure repaired or restored pursuant to subparagraph (A) shall not be eligible for disaster relief assistance under any program administered by the Administrator or any other Federal agency.
 
 #### (D) Definitions
 
@@ -36,7 +36,7 @@
 
 #### (1) Authority and goals
 
-&emsp;The Director shall carry out a community rating system program, under which communities participate voluntarily—
+&emsp;The Administrator shall carry out a community rating system program, under which communities participate voluntarily—
 
 &emsp;&emsp;(A) to provide incentives for measures that reduce the risk of flood or erosion damage that exceed the criteria set forth in section 4102 of this title and evaluate such measures;
 
@@ -48,15 +48,15 @@
 
 #### (2) Incentives
 
-&emsp;The program shall provide incentives in the form of credits on premium rates for flood insurance coverage in communities that the Director determines have adopted and enforced measures that reduce the risk of flood and erosion damage that exceed the criteria set forth in section 4102 of this title. In providing incentives under this paragraph, the Director may provide for credits to flood insurance premium rates in communities that the Director determines have implemented measures that protect natural and beneficial floodplain functions.
+&emsp;The program shall provide incentives in the form of credits on premium rates for flood insurance coverage in communities that the Administrator determines have adopted and enforced measures that reduce the risk of flood and erosion damage that exceed the criteria set forth in section 4102 of this title. In providing incentives under this paragraph, the Administrator may provide for credits to flood insurance premium rates in communities that the Administrator determines have implemented measures that protect natural and beneficial floodplain functions.
 
 #### (3) Credits
 
-&emsp;The credits on premium rates for flood insurance coverage shall be based on the estimated reduction in flood and erosion damage risks resulting from the measures adopted by the community under this program. If a community has received mitigation assistance under section 4104c of this title, the credits shall be phased in a manner, determined by the Director, to recover the amount of such assistance provided for the community.
+&emsp;The credits on premium rates for flood insurance coverage shall be based on the estimated reduction in flood and erosion damage risks resulting from the measures adopted by the community under this program. If a community has received mitigation assistance under section 4104c of this title, the credits shall be phased in a manner, determined by the Administrator, to recover the amount of such assistance provided for the community.
 
 #### (4) Reports
 
-&emsp;Not later than 2 years after September 23, 1994, and not less than every 2 years thereafter, the Director shall submit a report to the Congress regarding the program under this subsection. Each report shall include an analysis of the cost-effectiveness of the program, any other accomplishments or shortcomings of the program, and any recommendations of the Director for legislation regarding the program.
+&emsp;Not later than 2 years after September 23, 1994, and not less than every 2 years thereafter, the Administrator shall submit a report to the Congress regarding the program under this subsection. Each report shall include an analysis of the cost-effectiveness of the program, any other accomplishments or shortcomings of the program, and any recommendations of the Administrator for legislation regarding the program.
 
 #### (c) Replacement of mobile homes on original sites
 
@@ -74,7 +74,7 @@
 
 &emsp;For purposes of this subsection, the term “mobile home” has the meaning given such term in the law of the State in which the mobile home is located.
 
-(Pub. L. 90–448, title XIII, §1315, Aug. 1, 1968, 82 Stat. 580; Pub. L. 91–152, title IV, §410(b), Dec. 24, 1969, 83 Stat. 397; Pub. L. 98–181, title IV, §451(d)(1), Nov. 30, 1983, 97 Stat. 1229; Pub. L. 103–325, title V, §§541, 580, Sept. 23, 1994, 108 Stat. 2268, 2285; Pub. L. 108–264, title I, §108, June 30, 2004, 118 Stat. 724.)
+(Pub. L. 90–448, title XIII, §1315, Aug. 1, 1968, 82 Stat. 580; Pub. L. 91–152, title IV, §410(b), Dec. 24, 1969, 83 Stat. 397; Pub. L. 98–181, title I \[title IV, §451(d)(1)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 103–325, title V, §§541, 580, Sept. 23, 1994, 108 Stat. 2268, 2285; Pub. L. 108–264, title I, §108, June 30, 2004, 118 Stat. 724; Pub. L. 112–141, div. F, title II, §100238(b)(1), July 6, 2012, 126 Stat. 958.)
 
 #### References in Text
 
@@ -83,6 +83,8 @@ This chapter, referred to in subsecs. (a)(1) and (c)(1), was in the original a r
 The Flood Disaster Protection Act of 1973, referred to in subsec. (c)(1), is Pub. L. 93–234, Dec. 31, 1973, 87 Stat. 975, as amended. For complete classification of this Act to the Code, see Short Title of 1973 Amendment note set out under section 4001 of this title and Tables.
 
 #### Amendments
+
+<b>2012</b>—Subsecs. (a)(1), (2)(B), (C), (b). Pub. L. 112–141 substituted “Administrator” for “Director” wherever appearing.
 
 <b>2004</b>—Subsec. (c). Pub. L. 108–264 added subsec. (c).
 

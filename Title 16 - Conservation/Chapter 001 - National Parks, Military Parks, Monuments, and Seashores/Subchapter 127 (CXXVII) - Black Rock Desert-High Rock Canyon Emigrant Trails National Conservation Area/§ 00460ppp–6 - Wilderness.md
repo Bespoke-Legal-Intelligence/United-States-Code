@@ -30,11 +30,11 @@ Subject to valid existing rights, each wilderness area designated by this subcha
 
 #### (c) Maps and legal description
 
-As soon as practicable after December 21, 2000, the Secretary shall submit to Congress a map and legal description of the wilderness areas designated under this subchapter. The map and legal description shall have the same force and effect as if included in this subchapter, except the Secretary may correct clerical and typographical errors in such map and legal description. Copies of the map and legal description shall be on file and available for public inspection in the appropriate offices of the Bureau of Land Management.
+As soon as practicable after December 21, 2000, the Secretary shall submit to Congress a mapand legal description of the wilderness areas designated under this subchapter. The map and legal description shall have the same force and effect as if included in this subchapter, except the Secretary may correct clerical and typographical errors in such map and legal description. Copies of the map and legal description shall be on file and available for public inspection in the appropriate offices of the Bureau of Land Management.
 
 #### (d) Grazing
 
-Within the wilderness areas designated under subsection (a) of this section, the grazing of livestock, where established prior to December 21, 2000, shall be permitted to continue subject to such reasonable regulations, policies, and practices as the Secretary deems necessary, as longas such regulations, policies, and practices fully conform with and implement the intent of Congress regarding grazing in such areas as such intent is expressed in the Wilderness Act and section 101(f) of Public Law 101–628.
+Within the wilderness areas designated under subsection (a) of this section, the grazing of livestock, where established prior to December 21, 2000, shall be permitted to continue subject to such reasonable regulations, policies, and practices as the Secretary deems necessary, as long as such regulations, policies, and practices fully conform with and implement the intent of Congress regarding grazing in such areas as such intent is expressed in the Wilderness Act and section 101(f) of Public Law 101–628.
 
 #### (e) Hunting, trapping, and fishing
 

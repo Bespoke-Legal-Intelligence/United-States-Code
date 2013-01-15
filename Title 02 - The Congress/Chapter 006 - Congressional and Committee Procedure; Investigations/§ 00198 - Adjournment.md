@@ -16,9 +16,9 @@
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–510 effective immediately prior to noon on Jan. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as a note under section 72a of this title.
+Amendment by Pub. L. 91–510 effective immediately prior to noon on Jan. 3, 1971, see section 601(1) of Pub.L. 91–510, set out as a note under section 72a of this title.
 
 #### Effective Date
 
-Section effective Jan. 2, 1947, see section 142 of act Aug. 2, 1946.
+Section effective Jan. 2, 1947, see section 142 of act Aug. 2, 1946, ch. 753, title I, 60 Stat. 834.
 

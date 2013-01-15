@@ -1,6 +1,6 @@
 ### §9507. Streamlined demonstration project authority
 
-(a) The exercise of any of the flexibilities under sections 9502 through 9510 shall not affectthe authority of the Secretary of the Treasury to implement for the Internal Revenue Service a demonstration project subject to chapter 47, as provided in subsection (b).
+(a) The exercise of any of the flexibilities under sections 9502 through 9510 shall not affect the authority of the Secretary of the Treasury to implement for the Internal Revenue Service a demonstration project subject to chapter 47, as provided in subsection (b).
 
 (b) In applying section 4703 to a demonstration project described in section 4701(a)(4) which involves the Internal Revenue Service—
 

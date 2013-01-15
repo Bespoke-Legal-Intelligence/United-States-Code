@@ -6,7 +6,7 @@
 
 &emsp;(2) that requires a skill designated (under regulations prescribed by the Secretary of Defense for the armed forces, by the Secretary of Commerce for the National Oceanic and Atmospheric Administration, or by the Secretary of Health and Human Services for the Public Health Service) as critical and as a skill in which there is a critical shortage of officers in the uniformed service concerned.
 
-(b) Under regulations prescribed by the Secretary concerned, an officer of a <sup>1</sup> uniformed service who—
+(b) Under regulations prescribed by the Secretary concerned, an officer of a uniformed service who—
 
 &emsp;(1) is entitled to basic pay;
 
@@ -40,11 +40,9 @@ Subsec. (b). Pub. L. 99–145, §637(a)(2), in provision preceding par. (1), sub
 
 #### Effective Date of 1985 Amendment
 
-Section 637(b) of Pub. L. 99–145 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 1985.”
+Pub. L. 99–145, title VI, §637(b), Nov. 8, 1985, 99 Stat. 649, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 1985.”
 
 #### Savings Provision
 
 For savings provision relating to payment or repayment of any bonus, incentive pay, special pay, or similar pay obligated to be paid before Apr. 1, 2006, under a provision of this section amended by section 687(b) of Pub. L. 109–163, see section 687(f) of Pub. L. 109–163, set out as a note under section 510 of Title 10, Armed Forces.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “an”.</i>
 

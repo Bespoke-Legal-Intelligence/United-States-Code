@@ -140,6 +140,8 @@
 | [2167\.](Subchapter%20007%20%28VII%29%20-%20Other%20Entities%20and%20Services/%C2%A7%2002167%20-%20Congressional%20Award%20Youth%20Park.md) | Congressional Award Youth Park. |
 | [2168\.](Subchapter%20007%20%28VII%29%20-%20Other%20Entities%20and%20Services/%C2%A7%2002168%20-%20Memorandum%20of%20understanding%20for%20provision%20of%20services%20of%20the%20United%20States%20Capitol%20telephone%20exchange%20for%20the%20House.md) | Memorandum of understanding for provision of services of the United States Capitol telephone exchange for the House. |
 | [2169\.](Subchapter%20007%20%28VII%29%20-%20Other%20Entities%20and%20Services/%C2%A7%2002169%20-%20Capitol%20complex%20E%E2%80%9385%20refueling%20station.md) | Capitol complex E–85 refueling station. |
+| [2170\.](Subchapter%20007%20%28VII%29%20-%20Other%20Entities%20and%20Services/%C2%A7%2002170%20-%20Battery%20recharging%20stations%20for%20privately%20owned%20vehicles%20in%20parking%20areas%20under%20the%20jurisdiction%20of%20the%20Senate%20at%20no%20net%20cost%20to%20the%E2%80%A6.md) | Battery recharging stations for privately owned vehicles in parking areas under the jurisdiction of the Senate at no net cost to the Federal Government. |
+| [2171\.](Subchapter%20007%20%28VII%29%20-%20Other%20Entities%20and%20Services/%C2%A7%2002171%20-%20Battery%20recharging%20stations%20for%20privately%20owned%20vehicles%20in%20parking%20areas%20under%20the%20jurisdiction%20of%20the%20House%20of%20Representatives%20at%20no%20net%E2%80%A6.md) | Battery recharging stations for privately owned vehicles in parking areas under the jurisdiction of the House of Representatives at no net cost to the Federal Government. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

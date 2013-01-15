@@ -14,7 +14,7 @@ Except in the case of amounts attributable to (and not in excess of) deductions 
 
 &emsp;(5) amounts received by an individual as disability income attributable to injuries incurred as a direct result of a terroristic or military action (as defined in section 692(c)(2)).
 
-> For purposes of paragraph (3), in the case of an individual who is, or has been, an employee within the meaning of section 401(c)(1) (relating to self-employed individuals), contributions made on behalf of such individual while he was such an employee to a trust described in section 401(a) which is exempt from tax under section 501(a), or under a plan described in section 403(a), shall, to the extent allowed as deductions under section 404, be treated as contributions by the employer which were not includible in the gross income of the employee. For purposes of paragraph (2), emotional distress shall not be treated as a physical injury or physical sickness. The preceding sentence shall not apply to an amount of damages not in excess of the amount paid for medical care (described in subparagraph (A) or (B) of section 213(d)(1)) attributable to emotional distress.
+> For purposes of paragraph (3), in the case of an individual who is, or has been, an employee within the meaning of section 401(c)(1) (relating to self-employed individuals), contributions made on behalf of such individual while he was such an employee to a trust described in section 401(a) which is exempt from tax under section 501(a), or under a plan described in section 403(a), shall, to the extent allowed as deductions under section 404, be treated as contributions bythe employer which were not includible in the gross income of the employee. For purposes of paragraph (2), emotional distress shall not be treated as a physical injury or physical sickness. The preceding sentence shall not apply to an amount of damages not in excess of the amount paid for medical care (described in subparagraph (A) or (B) of section 213(d)(1)) attributable to emotional distress.
 
 #### (b) Termination of application of subsection (a)(4) in certain cases
 
@@ -114,11 +114,11 @@ Coast and Geodetic Survey consolidated with National Weather Bureau in 1965 to f
 
 Pub. L. 107–134, title I, §113(c), Jan. 23, 2002, 115 Stat. 2435, provided that: “The amendments made by this section \[amending this section and section 692 of this title\] shall apply to taxable years ending on or after September 11, 2001.”
 
-#### Effective Date of 1996 Amendments
+#### Effective Date of 1996 Amendment
 
-Section 311(c) of Pub. L. 104–191 provided that: “The amendments made by this section \[amending this section and section 162 of this title\] shall apply to taxable years beginning after December 31, 1996.”
+Pub. L. 104–191, title III, §311(c), Aug. 21, 1996, 110 Stat. 2053, provided that: “The amendments made by this section \[amending this section and section 162 of this title\] shall apply to taxable years beginning after December 31, 1996.”
 
-Section 1605(d) of Pub. L. 104–188 provided that:
+Pub. L. 104–188, title I, §1605(d), Aug. 20, 1996, 110 Stat. 1839, provided that:
 
 “(1)
 
@@ -130,7 +130,7 @@ Exception.—The amendments made by this section shall not apply to any amount r
 
 #### Effective Date of 1989 Amendment
 
-Section 7641(b) of Pub. L. 101–239 provided that:
+Pub. L. 101–239, title VII, §7641(b), Dec. 19, 1989, 103 Stat. 2379, provided that:
 
 “(1)
 
@@ -152,7 +152,7 @@ Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provi
 
 Amendment by section 505(b) of Pub. L. 94–455 applicable to taxable years beginning after Dec. 31, 1975, see section 508 of Pub. L. 94–455, set out as a note under section 3 of this title.
 
-Section 505(e)(2) of Pub. L. 94–455 provided that: “The amendments made by this subsection \[amending this section\] shall apply to taxable years beginning after December 31, 1976.”
+Pub. L. 94–455, title V, §505(e)(2), Oct. 4, 1976, 90 Stat. 1568, provided that: “The amendments made by this subsection \[amending this section\] shall apply to taxable years beginning after December 31, 1976.”
 
 Amendment by section 1901(a)(18)(A) of Pub. L. 94–455 applicable with respect to taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
@@ -162,7 +162,7 @@ Amendment by Pub. L. 87–792 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1960 Amendment
 
-Section 56(e) of Pub. L. 86–723 provided that: “The amendment made by section 51 of this Act \[amending this section\] shall be effective with respect to taxable years ending after the date of enactment of this Act \[Sept. 8, 1960\].”
+Pub. L. 86–723, §56(e), Sept. 8, 1960, 74 Stat. 848, provided that: “The amendment made by section 51 of this Act \[amending this section\] shall be effective with respect to taxable years ending after the date of enactment of this Act \[Sept. 8, 1960\].”
 
 #### Transfer of Functions
 

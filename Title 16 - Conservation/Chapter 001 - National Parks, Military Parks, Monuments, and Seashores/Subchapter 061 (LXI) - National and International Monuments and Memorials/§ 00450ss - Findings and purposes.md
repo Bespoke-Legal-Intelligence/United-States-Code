@@ -24,5 +24,5 @@ Pub. L. 108–199, div. F, title V, §544(a), Jan. 23, 2004, 118 Stat. 347, prov
 
 #### Short Title
 
-Section 1 of Pub. L. 105–58 provided that: “This Act \[enacting this section and sections 450ss–1 to 450ss–7 of this title\] may be cited as the ‘Oklahoma City National Memorial Act of 1997’.”
+Pub. L. 105–58, §1, Oct. 9, 1997, 111 Stat. 1261, provided that: “This Act \[enacting this section and sections 450ss–1 to 450ss–7 of this title\] may be cited as the ‘Oklahoma City National Memorial Act of 1997’.”
 

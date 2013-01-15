@@ -38,11 +38,13 @@ Congressional Committees.—The congressional committees referred to in subsecti
 
 &emsp;(1) The Committee on Armed Services and the Committee on Foreign Relations of the Senate.
 
-&emsp;(2) The Committee on Armed Services and the Committee on International Relations of the House of Representatives.
+&emsp;(2) The Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives.
 
-(Added Pub. L. 102–484, div. A, title III, §304(c)(1), Oct. 23, 1992, 106 Stat. 2361, §2551; amended Pub. L. 104–106, div. A, title XIII, §1312, Feb. 10, 1996, 110 Stat. 474; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; renumbered §2561 and amended Pub. L. 106–398, §1 \[\[div. A\], title X, §1033(b)(1), (c)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–260; Pub. L. 108–136, div. A, title III, §312(d), Nov. 24, 2003, 117 Stat. 1430.)
+(Added Pub. L. 102–484, div. A, title III, §304(c)(1), Oct. 23, 1992, 106 Stat. 2361, §2551; amended Pub. L. 104–106, div. A, title XIII, §1312, Feb. 10, 1996, 110 Stat. 474; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; renumbered §2561 and amended Pub. L. 106–398, §1 \[\[div. A\], title X, §1033(b)(1), (c)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–260; Pub. L. 108–136, div. A, title III, §312(d), Nov. 24, 2003, 117 Stat. 1430; Pub. L. 112–239, div. A, title X, §1076(f)(31), Jan. 2, 2013, 126 Stat. 1953.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (f)(2). Pub. L. 112–239 substituted “Committee on Foreign Affairs” for “Committee on International Relations”.
 
 <b>2003</b>—Subsec. (a). Pub. L. 108–136 designated existing provisions as par. (1) and added par. (2).
 
@@ -77,10 +79,6 @@ Subsec. (e). Pub. L. 104–106, §1312(3), (5), redesignated subsec. (g) as (e) 
 Subsec. (f). Pub. L. 104–106, §1312(6), added subsec. (f). Former subsec. (f) redesignated (d).
 
 Subsec. (g). Pub. L. 104–106, §1312(5), redesignated subsec. (g) as (e).
-
-#### Change of Name
-
-Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Notifications Regarding Humanitarian Relief
 

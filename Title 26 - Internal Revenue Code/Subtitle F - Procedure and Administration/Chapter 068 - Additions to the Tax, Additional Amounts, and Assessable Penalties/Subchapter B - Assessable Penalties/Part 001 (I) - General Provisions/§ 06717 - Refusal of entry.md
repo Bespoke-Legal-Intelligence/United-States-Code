@@ -8,7 +8,7 @@ In addition to any other penalty provided by law, any person who refuses to admi
 
 #### (1) In general
 
-&emsp;If a penalty is imposed under this section on any business entity, each officer, employee, or agent of such entity or other contracting party who willfully participated in any act giving rise to such penalty shall be jointly andseverally liable with such entity for such penalty.
+&emsp;If a penalty is imposed under this section on any business entity, each officer, employee, or agent of such entity or other contracting party who willfully participated in any act giving rise to such penalty shall be jointly and severally liable with such entity for such penalty.
 
 #### (2) Affiliated groups
 

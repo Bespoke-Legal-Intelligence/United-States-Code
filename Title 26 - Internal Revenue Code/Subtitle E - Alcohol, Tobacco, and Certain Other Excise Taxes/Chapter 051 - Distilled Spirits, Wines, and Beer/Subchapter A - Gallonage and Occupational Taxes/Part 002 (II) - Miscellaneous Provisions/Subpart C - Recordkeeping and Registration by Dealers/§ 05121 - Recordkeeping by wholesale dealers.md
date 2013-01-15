@@ -12,7 +12,7 @@
 
 #### (b) Exemption of States, political subdivisions, etc.
 
-The provision of subsection (a) shall not apply to a State, to a political subdivision of a State,to the District of Columbia, or to liquor stores operated by any of them, if they maintain and make available for inspection by internal revenue officers such records as will enable such officers to trace all distilled spirits, wines, and beer received, and all distilled spirits disposed of by them. Such States, subdivisions, District, or liquor stores shall, upon the request of the Secretary, furnish him such transcripts, summaries and copies of their records with respect to distilled spirits as he shall require.
+The provision of subsection (a) shall not apply to a State, to a political subdivision of a State, to the District of Columbia, or to liquor stores operated by any of them, if they maintain and make available for inspection by internal revenue officers such records as will enable such officers to trace all distilled spirits, wines, and beer received, and all distilled spirits disposed of by them. Such States, subdivisions, District, or liquor stores shall, upon the request of the Secretary, furnish him such transcripts, summaries and copies of their records with respect to distilled spirits as he shall require.
 
 #### (c) Wholesale dealers
 
@@ -32,7 +32,7 @@ For purposes of this part—
 
 #### (4) Presumption in case of sale of 20 wine gallons or more
 
-&emsp;The sale, or offer for sale, of distilled spirits, wines, or beer, in quantities of 20 wine gallons or more to the same person at the same time, shall be presumptive evidence that the person making such sale, or offer for sale, is engaged in or carrying on the business of a wholesale dealer in liquors or a wholesale dealer in beer, as the case may be. Such presumption may be overcome by evidence satisfactorily showing that such sale, or offer for sale, was made to a person other than a dealer.
+&emsp;The sale, or offer for sale, of distilled spirits, wines, or beer, in quantities of 20 wine gallons or more to the same person at the same time, shall be presumptive evidence that the person making such sale, or offer for sale, is engaged in or carrying on the business of a wholesaledealer in liquors or a wholesale dealer in beer, as the case may be. Such presumption may be overcome by evidence satisfactorily showing that such sale, or offer for sale, was made to a person other than a dealer.
 
 #### (d) Cross references
 

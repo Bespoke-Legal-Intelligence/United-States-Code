@@ -18,9 +18,25 @@ Availability of Amounts To Pay for Testing.—The Secretary shall enter into a c
 
 (e)
 
-Acquiring New Bus Models.—Amounts appropriated or made available under this chapter may be obligated or expended to acquire a new bus model only if a bus of that model has been tested at the facility maintained by the Secretary under subsection (a).
+Acquiring New Bus Models.—
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 817; Pub. L. 103–429, §6(8), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 105–178, title III, §§3018, 3029(b)(8), June 9, 1998, 112 Stat. 361, 372; Pub. L. 109–59, title III, §§3002(b)(4), 3020, Aug. 10, 2005, 119 Stat. 1545, 1608.)
+&emsp;(1)
+
+In general.—Amounts appropriated or otherwise made available under this chapter may be obligated or expended to acquire a new bus model only if—
+
+&emsp;&emsp;(A) a bus of that model has been tested at a facility authorized under subsection (a); and
+
+&emsp;&emsp;(B) the bus tested under subparagraph (A) met—
+
+&emsp;&emsp;&emsp;(i) performance standards for maintainability, reliability, performance (including braking performance), structural integrity, fuel economy, emissions, and noise, as established by the Secretary by rule; and
+
+&emsp;&emsp;&emsp;(ii) the minimum safety performance standards established by the Secretary pursuant to section 5329(b).
+
+&emsp;(2)
+
+Bus test “pass/fail” standard.—Not later than 2 years after the date of enactment of the Federal Public Transportation Act of 2012, the Secretary shall issue a final rule under subparagraph (B)(i). The final rule issued under paragraph <sup>1</sup> (B)(i) shall include a bus model scoring system that results in a weighted, aggregate score that uses the testing categories under subsection (a) and considers the relative importance of each such testing category. The final rule issued under subparagraph (B)(i) shall establish a “pass/fail” standard that uses the aggregate score described in the preceding sentence. Amounts appropriated or otherwise made available under this chapter may be obligated or expended to acquire a new bus model only if the new bus model has received a passing aggregate test score. The Secretary shall work with the bus testing facility, bus manufacturers, and transit agencies to develop the bus model scoring system under this paragraph. A passing aggregate test score under the rule issued under subparagraph (B)(i) indicates only that amounts appropriated or made available under this chapter may be obligated or expended to acquire a new bus model and shall not be interpreted as a warranty or guarantee that the new bus model will meet a purchaser's specific requirements.
+
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 817; Pub. L. 103–429, §6(8), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 105–178, title III, §§3018, 3029(b)(8), June 9, 1998, 112 Stat. 361, 372; Pub. L. 109–59, title III, §§3002(b)(4), 3020, Aug. 10, 2005, 119 Stat. 1545, 1608; Pub. L. 112–141, div. B, §20014, July 6, 2012, 126 Stat. 694.)
 
 Historical and Revision Notes
 
@@ -80,9 +96,15 @@ In subsection (e), the text of section 317(b)(5) of the Surface Transportation a
 
 This amends 49:5318(e) to correct an erroneous cross-reference.
 
+#### References in Text
+
+The date of enactment of the Federal Public Transportation Act of 2012, referred to in subsec. (e)(2), is deemed to be Oct. 1, 2012, see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways.
+
 #### Amendments
 
-<b>2005</b>—Subsec. (a). Pub. L. 109–59, §3020(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary of Transportation shall establish one facility for testing a new bus model for maintainability, reliability, safety, performance (including braking performance), structural integrity, fuel economy, emissions, and noise. The facility shall be established by renovating a facility built with assistance of the United States Government to train rail personnel.”
+<b>2012</b>—Pub. L. 112–141 added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “Amounts appropriated or made available under this chapter may be obligated or expended to acquire a new bus model only if a bus of that model has been tested at the facility maintained by the Secretary under subsection (a).”
+
+<b>2005</b>—Subsec. (a). Pub. L. 109–59, §3020(a), amended heading and text of subsec. (a) generally. Prior toamendment, text read as follows: “The Secretary of Transportation shall establish one facility for testing a new bus model for maintainability, reliability, safety, performance (including braking performance), structural integrity, fuel economy, emissions, and noise. The facility shall be established by renovating a facility built with assistance of the United States Government to train rail personnel.”
 
 Subsec. (b). Pub. L. 109–59, §3002(b)(4), substituted “public transportation” for “mass transportation”.
 
@@ -96,7 +118,13 @@ Subsec. (d). Pub. L. 105–178, §§3018(b), 3029(b)(8), substituted “enter in
 
 <b>1994</b>—Subsec. (e). Pub. L. 103–429 inserted “Uniform” before “Relocation”.
 
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “subparagraph”.</i>
 

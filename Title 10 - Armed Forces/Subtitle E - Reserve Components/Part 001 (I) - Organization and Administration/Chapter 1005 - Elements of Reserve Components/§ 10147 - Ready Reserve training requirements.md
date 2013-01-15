@@ -26,5 +26,5 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-Section 1661(a)(5)(A) of Pub. L. 103–337 provided that: “Section 10147(a) \[10 U.S.C. 10147(a)\], as added by paragraph (1), applies only to persons who were inducted, enlisted, or appointed in an armed force after August 9, 1955.”
+Pub. L. 103–337, div. A, title XVI, §1661(a)(5)(A), Oct. 5, 1994, 108 Stat. 2980, provided that: “Section 10147(a) \[10 U.S.C. 10147(a)\], as added by paragraph (1), applies only to persons who were inducted, enlisted, or appointed in an armed force after August 9, 1955.”
 

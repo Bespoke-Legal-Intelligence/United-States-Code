@@ -15,3 +15,4 @@
 - [&sect; 00513 - Contracts and personal services](%C2%A7%2000513%20-%20Contracts%20and%20personal%20services.md)
 - [&sect; 00515 - Administrative settlement of tort claims](%C2%A7%2000515%20-%20Administrative%20settlement%20of%20tort%20claims.md)
 - [&sect; 00516 - Equal employment responsibilities](%C2%A7%2000516%20-%20Equal%20employment%20responsibilities.md)
+- [&sect; 00517 - Quarterly reports to Congress on conferences sponsored by the Department](%C2%A7%2000517%20-%20Quarterly%20reports%20to%20Congress%20on%20conferences%20sponsored%20by%20the%20Department.md)

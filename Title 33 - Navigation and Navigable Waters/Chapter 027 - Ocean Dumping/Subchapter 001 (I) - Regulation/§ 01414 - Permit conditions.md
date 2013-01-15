@@ -6,11 +6,11 @@ Permits issued under this subchapter shall designate and include (1) the type of
 
 #### (b) Permit processing fees; reporting requirements
 
-The Administrator or the Secretary, as the case may be, may prescribe such processing feesfor permits and such reporting requirements for actions taken pursuant to permits issued by him under this subchapter as he deems appropriate.
+The Administrator or the Secretary, as the case may be, may prescribe such processing fees for permits and such reporting requirements for actions taken pursuant to permits issued by him under this subchapter as he deems appropriate.
 
 #### (c) General permits
 
-Consistent with the requirements of sections 1412 and 1413 of this title, but in lieu of a requirement for specific permits in such case, the Administrator or the Secretary, as the case may be, may issue general permits for the transportation for dumping, or dumping, or both, of specified materials or classes of materials for which he may issue permits, which he determines will have a minimal adverse environmental impact.
+Consistent with the requirements of sections 1412 and 1413 of this title, but in lieu of a requirement for specific permits in such case, theAdministrator or the Secretary, as the case may be, may issue general permits for the transportation for dumping, or dumping, or both, of specified materials or classes of materials for which he may issue permits, which he determines will have a minimal adverse environmental impact.
 
 #### (d) Review
 

@@ -38,7 +38,7 @@
 
 Pub. L. 106–391, title III, §322(d), Oct. 30, 2000, 114 Stat. 1598, added item 70109a.
 
-<b>1998</b>—Pub. L. 105–303, title I, §102(a)(1), Oct. 28, 1998, 112 Stat. 2846, substituted “launches, operations, and reentries” for “launches and operations” in item 70104, “launches, operation of launch sites and reentry sites,and reentries” for “launches and operation of launch sites” in item 70108, inserted “or reentries” after “scheduled launches” in item 70109, and added items 70120 and 70121.
+<b>1998</b>—Pub. L. 105–303, title I, §102(a)(1), Oct. 28, 1998, 112 Stat. 2846, substituted “launches, operations, and reentries” for “launches and operations” in item 70104, “launches, operation of launch sites and reentry sites, and reentries” for “launches and operation of launch sites” in item 70108, inserted “or reentries” after “scheduled launches” in item 70109, and added items 70120 and 70121.
 
 <b>1994</b>—Pub. L. 103–429, §6(78), Oct. 31, 1994, 108 Stat. 4388, made technical amendment to chapter heading.
 

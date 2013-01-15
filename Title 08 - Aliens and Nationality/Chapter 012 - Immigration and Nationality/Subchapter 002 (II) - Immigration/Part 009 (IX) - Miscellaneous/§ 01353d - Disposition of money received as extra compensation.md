@@ -8,7 +8,7 @@ Moneys collected on or after July 1, 1941, as extra compensation for overtime se
 
 Section was not enacted as part of the Immigration and Nationality Act which comprises this chapter.
 
-Section was formerly classified to section 342e of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, byPub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378. Prior thereto, section was classified to section 109d of this title.
+Section was formerly classified to section 342e of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378. Prior thereto, section was classified to section 109d of this title.
 
 #### Amendments
 

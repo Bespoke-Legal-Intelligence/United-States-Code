@@ -64,7 +64,7 @@ A stockholder vote in favor of—
 
 &emsp;&emsp;&emsp;(i) the loans of the members of the new association will be transferred from the current association to such new association;
 
-&emsp;&emsp;&emsp;(ii) the stock, participation certificates, and other similar equities of the currentassociation held by members of the new association will be retired at book value and the proceeds of such will be transferred to the new association, and an equivalent amount of stock, participation certificates, and other similar equities will be issued to the members by the new association; and
+&emsp;&emsp;&emsp;(ii) the stock, participation certificates, and other similar equities of the current association held by members of the new association will be retired at book value and the proceeds of such will be transferred to the new association, and an equivalent amount of stock, participation certificates, and other similar equities will be issued to the members by the new association; and
 
 &emsp;&emsp;&emsp;(iii) the other assets of the current association will be distributed equitably among the current association and any resulting new association.
 
@@ -90,7 +90,7 @@ A stockholder vote in favor of—
 
 #### (ii) Amending notification
 
-&emsp;&emsp;&emsp;The Farm Credit Administration Board shall require that, prior to the distribution of the notification to the stockholders, the notification be amended as determined necessary by the Board to provide accurate information to the stockholders that will enable such stockholders to make an informed decision as to the advisability of establishing a new association.
+&emsp;&emsp;&emsp;The Farm Credit Administration Board shall require that, prior to the distribution of the notification to the stockholders, the notification be amended as determined necessary by the Board to provide accurate information to the stockholders that willenable such stockholders to make an informed decision as to the advisability of establishing a new association.
 
 #### (D) Special stockholders’ meeting
 
@@ -102,7 +102,7 @@ A stockholder vote in favor of—
 
 &emsp;&emsp;&emsp;If, at the special stockholders’ meeting, a majority of the stockholders of the current association who would be served by the new association approve, by voting in person or by proxy, the establishment of the separate association, the Farm Credit Administration shall, within 30 days of such vote, issue a charter to the new association and amend the charter of the current association to reflect the territory to be served by the new association.
 
-(Pub. L. 92–181, title VII, §7.9, as added Pub. L. 100–233, title IV, §416, Jan. 6, 1988, 101 Stat. 1648; amended Pub. L. 100–399, title IV, §408(n), (<i>o</i>), Aug. 17, 1988, 102 Stat. 1002.)
+(Pub. L. 92–181, title VII, §7.9, as added Pub. L. 100–233, title IV, §416, Jan. 6, 1988, 101 Stat. 1648; amended Pub. L. 100–399, title IV, §408(n), (o), Aug. 17, 1988, 102 Stat. 1002.)
 
 #### Amendments
 
@@ -122,7 +122,7 @@ Pub. L. 100–399, §408(n)(4), substituted “section 2279f” for “section 2
 
 Subsec. (a)(7). Pub. L. 100–399, §408(n)(5), redesignated par. (7) as (6).
 
-Subsec. (b)(2). Pub. L. 100–399, §408(<i>o</i>), struck out comma before “shall not take effect” and substituted “such banks or” for “such”.
+Subsec. (b)(2). Pub. L. 100–399, §408(o), struck out comma before “shall not take effect” and substituted “such banks or” for “such”.
 
 #### Effective Date of 1988 Amendment
 

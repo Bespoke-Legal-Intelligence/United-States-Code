@@ -2,7 +2,7 @@
 
 The President is authorized, by order in writing, to transfer at any time the whole or any part of any office, bureau, division, or other branch of the public service engaged in statistical or scientific work, from the Department of State, the Department of the Treasury, the Department of Defense, the Department of Justice, the United States Postal Service, or the Department of the Interior, to the Department of Commerce; and in every such case the duties and authority performed by and conferred by law upon such office, bureau, division, or other branch of the public service, or the part thereof so transferred, shall be thereby transferred with such office, bureau, division, or other branch of the public service, or the part thereof which is so transferred. All power and authority conferred by law, both supervisory and appellate, upon the department from which such transfer is made, or the Secretary thereof, in relation to the said office, bureau, division, or other branch of the public service, or the part thereof so transferred, shall immediately, when such transfer is so ordered by the President, be fully conferred upon and vested in the Department of Commerce, or the Secretary thereof, as the case may be, as to the whole or part of such office, bureau, division, or other branch of the public service so transferred.
 
-(Feb. 14, 1903, ch. 552, §12, 32 Stat. 830; July 26, 1947, ch. 343, title II, §201(a), 61 Stat. 499; Aug. 10, 1949, ch. 412, §4, 63 Stat. 579; Pub. L. 91–375, §§4(a), 6(<i>o</i>), Aug. 12, 1970, 84 Stat. 773, 783.)
+(Feb. 14, 1903, ch. 552, §12, 32 Stat. 830; July 26, 1947, ch. 343, title II, §201(a), 61 Stat. 499; Aug. 10, 1949, ch. 412, §4, 63 Stat. 579; Pub. L. 91–375, §§4(a), 6(o), Aug. 12, 1970, 84 Stat. 773, 783.)
 
 #### Codification
 
@@ -10,11 +10,11 @@ Section was formerly classified to section 602 of Title 5 prior to the general r
 
 #### Change of Name
 
-“United States Postal Service” substituted for “Post Office Department” in text pursuant to Pub. L. 91–375, §§4(a), 6(<i>o</i>), Aug. 12, 1970, 84 Stat. 773, 783, which are set out as notes preceding section 101 of Title 39, Postal Service, and under section 201 of Title 39, respectively, which abolished Post Office Department, transferred its functions to United States Postal Service, and provided that references in other laws to Post Office Department shall be considered a reference to United States Postal Service.
+“United States Postal Service” substituted for “Post Office Department” in text pursuant to Pub. L. 91–375, §§4(a), 6(o), Aug. 12, 1970, 84 Stat. 773, 783, which are set out as notes preceding section 101 of Title 39, Postal Service, and under section 201 of Title 39, respectively, which abolished Post Office Department, transferred its functions to United States Postal Service, and provided that references in other laws to Post Office Department shall be considered a reference to United States Postal Service.
 
 Department of Defense substituted for Departments of the Army and Navy by act July 26, 1947, as amended Aug. 10, 1949.
 
-Act Mar. 4, 1913, ch. 141, 37 Stat. 736, provided that Department of Commerce and Labor and Secretary of Commerce and Labor were to be thereafter called Department of Commerce and Secretary of Commerce.
+Act Mar. 4, 1913, ch. 141, 37 Stat. 736, provided that Department of Commerce and Labor and Secretary ofCommerce and Labor were to be thereafter called Department of Commerce and Secretary of Commerce.
 
 #### Meteorological Satellite (METSAT) and Associated Ground Systems; Expenditure of Funds To Develop Proposals To Transfer Ownership to Private Entities Prohibited
 
@@ -74,7 +74,7 @@ Section 1. (a) The following programs and activities are hereby transferred to t
 
 (b) All of the power and authority of the transferor Departments conferred by law which is related to or incidental to, in support of, or necessary for, the operation of the programs and activities transferred by subsection (a) above, may be utilized by the Secretary of Commerce for the operation of those programs and activities.
 
-Sec. 2. (a) Such personnel and positions and so much of the property, records, and unexpended balances of appropriations, allocations, and other funds employed, used, held, authorized, affected, available, or to be made available in connection with the operation of the programs and activities transferred by section 1 hereof from the Department of Defense and the Department of Transportation as the Director of the Office of Management and Budget shall determine shall be transferred from those Departments to the Department of Commerce at such time or times as the Director shall direct.
+Sec. 2. (a) Such personnel and positions and so much of the property, records, and unexpended balances of appropriations, allocations, and other funds employed, used, held, authorized, affected, available, or to be made available in connection with the operation of the programs and activities transferred by section 1 hereoffrom the Department of Defense and the Department of Transportation as the Director of the Office of Management and Budget shall determine shall be transferred from those Departments to the Department of Commerce at such time or times as the Director shall direct.
 
 (b) Subject to the direction of the Director of the Office of Management and Budget, the appropriate officers of the Government shall make necessary administrative arrangements for the assumption by the Secretary of Commerce of the programs and activities so transferred.
 

@@ -20,7 +20,7 @@ The Secretary shall develop a future use plan for each of the following defense 
 
 (1) At each defense nuclear facility for which the Secretary of Energy intends or is required to develop a future use plan under this section and for which no citizen advisory board has been established, the Secretary shall establish a citizen advisory board.
 
-(2) The Secretary may authorize the manager of a defense nuclear facility for which a future use plan is developed under this section (or, if there is no such manager, an appropriate official of the Department of Energy designated by the Secretary) to pay routine administrative expenses of a citizen advisory board established forthat facility. Such payments shall be made from funds available to the Secretary for program direction in carrying out environmental restoration and waste management activities necessary for national security programs.
+(2) The Secretary may authorize the manager of a defense nuclear facility for which a future use plan is developed under this section (or, if there is no such manager, an appropriate official of the Department of Energy designated by the Secretary) to pay routine administrative expenses of a citizen advisory board established for that facility. Such payments shall be made from funds available to the Secretary for program direction in carrying out environmental restoration and waste management activities necessary for national security programs.
 
 #### (d) Requirement to consult with citizen advisory board
 
@@ -42,7 +42,7 @@ Not later than 60 days after completing development of a final plan for a site l
 
 (1) Nothing in this section, or in a future use plan developed under this section with respect to a defense nuclear facility, shall be construed as requiring any modification to a future use plan with respect to a defense nuclear facility that was developed before September 23, 1996.
 
-(2) Nothing in this section may be construed to affect statutory requirements for an environmental restoration or waste management activity or project or to modify or otherwise affect applicable statutory or regulatory environmental restoration and waste management requirements, including substantive standards intended to protect public health and the environment, nor shall anything in this section be construed to preempt or impair any local land use planning or zoning authority or State authority.
+(2) Nothing in this section may be construed to affect statutory requirements for an environmental restoration or waste management activity or project or to modify or otherwise affectapplicable statutory or regulatory environmental restoration and waste management requirements, including substantive standards intended to protect public health and the environment, nor shall anything in this section be construed to preempt or impair any local land use planning or zoning authority or State authority.
 
 (Pub. L. 107–314, div. D, title XLIV, §4402, formerly Pub. L. 104–201, div. C, title XXXI, §3153, Sept. 23, 1996, 110 Stat. 2839; renumbered Pub. L. 107–314, div. D, title XLIV, §4402, and amended Pub. L. 108–136, div. C, title XXXI, §3141(g)(3), Nov. 24, 2003, 117 Stat. 1764.)
 

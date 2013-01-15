@@ -6,7 +6,7 @@ In General.—
 
 &emsp;(1)
 
-Leases, covenants, agreements, and easements.—As provided in this section, the General Services Administration, the National Capital Planning Commission, and the National Park Service have the rights, title, andinterest of the Pennsylvania Avenue Development Corporation in and to all leases, covenants, agreements, and easements the Corporation executed before April 1, 1996, in carrying out its powers and duties under the Pennsylvania Avenue Development Corporation Act of 1972 (Public Law 92–578, 86 Stat. 1266) and the Federal Triangle Development Act (Public Law 100–113, 101 Stat. 735).
+Leases, covenants, agreements, and easements.—As provided in this section, the General Services Administration, the National Capital Planning Commission, and the National Park Service have the rights, title, and interest of the Pennsylvania Avenue Development Corporation in and to all leases, covenants, agreements, and easements the Corporation executed before April 1, 1996, in carrying out its powers and duties under the Pennsylvania Avenue Development Corporation Act of 1972 (Public Law 92–578, 86 Stat. 1266) and the Federal Triangle Development Act (Public Law 100–113, 101 Stat. 735).
 
 &emsp;(2)
 
@@ -52,7 +52,7 @@ Powers.—In carrying out the responsibilities of the Corporation transferred un
 
 &emsp;&emsp;(C) maintain any existing Corporation insurance programs;
 
-&emsp;&emsp;(D) make and perform transactions with an agency or instrumentality of the Federal Government, a State, the District of Columbia, or any person as necessary to carry out the responsibilities of the Corporation under subchapter III and the Federal Triangle Development Act (Public Law 100–113, 101 Stat. 735);
+&emsp;&emsp;(D) make and perform transactions with an agency or instrumentality of the FederalGovernment, a State, the District of Columbia, or any person as necessary to carry out the responsibilities of the Corporation under subchapter III and the Federal Triangle Development Act (Public Law 100–113, 101 Stat. 735);
 
 &emsp;&emsp;(E) request the Council of the District of Columbia to close any alleys necessary for the completion of development in Square 457; and
 
@@ -80,7 +80,7 @@ Special events, festivals, concerts, or programs.—The Service may—
 
 &emsp;(4)
 
-Jurisdiction of district of columbia.—Jurisdiction of Pennsylvania Avenue and all other roadways from curb to curb remainswith the District of Columbia but vendors are not permitted to occupy street space except during temporary special events.
+Jurisdiction of district of columbia.—Jurisdiction of Pennsylvania Avenue and all other roadways from curb to curb remains with the District of Columbia but vendors are not permitted to occupy street space except during temporary special events.
 
 (d)
 
@@ -138,5 +138,5 @@ The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 
 
 #### Change of Name
 
-Pub. L. 111–11, title VII, §7116(k)(2), Mar. 30, 2009, 123 Stat. 1204, provided that: “Any reference in a law, map, regulation, document, paper, or other record of the United States to the Pennsylvania Avenue National Historic Park shall be deemed to be a reference to the ‘Pennsylvania Avenue National Historic Site’.”
+Pub. L. 111–11, title VII, §7116(k)(2), Mar. 30, 2009, 123 Stat. 1204, provided that: “Any reference in a law, map,regulation, document, paper, or other record of the United States to the Pennsylvania Avenue National Historic Park shall be deemed to be a reference to the ‘Pennsylvania Avenue National Historic Site’.”
 

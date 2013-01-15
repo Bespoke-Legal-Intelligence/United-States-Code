@@ -6,7 +6,7 @@
 
 &emsp;(B) be evaluated for drug and alcohol dependency.
 
-(2) The Secretary concerned may provide that, in lieu of undergoing the testing and evaluation described in paragraph (1) before becoming a member of the armed forces, a member of the armed forces under the Secretary's jurisdiction may be administered that testing and evaluation after the member's initial entry on active duty. In any such case, the testing and evaluation shall be carried out within 72 hours of the member's initial entry on active duty.
+(2) The Secretary concerned may provide that, in lieu of undergoing the testing and evaluation described in paragraph (1) before becoming a member of the armed forces, a member of the armed forces under the Secretary's jurisdiction may be administered that testing and evaluation after the member's initial entry on activeduty. In any such case, the testing and evaluation shall be carried out within 72 hours of the member's initial entry on active duty.
 
 (3) The Secretary concerned shall require an applicant for appointment as a cadet or midshipman to undergo the testing and evaluation described in paragraph (1) within 72 hours of such appointment. The Secretary concerned shall require a person to whom a commission is offered under section 2106 of this title following completion of the program of advanced training under the Reserve Officers’ Training Corps program to undergo such testing and evaluation before such an appointment is executed.
 
@@ -96,11 +96,11 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 #### Effective Date of 1989 Amendment
 
-Section 513(d) of Pub. L. 101–189 provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall take effect as of October 1, 1989.”
+Pub. L. 101–189, div. A, title V, §513(d), Nov. 29, 1989, 103 Stat. 1441, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall take effect as of October 1, 1989.”
 
 #### Regulations; Implementation of Program
 
-Section 521(b), (c) of Pub. L. 100–456 provided that:
+Pub. L. 100–456, div. A, title V, §521(b), (c), Sept. 29, 1988, 102 Stat. 1973, provided that:
 
 “(b)
 
@@ -112,7 +112,7 @@ Effective Date.—The testing and evaluation program prescribed by that section 
 
 #### Implementation
 
-Section 513(b) of Pub. L. 100–180, as amended by Pub. L. 100–456, div. A, title V, §521(d), Sept. 29, 1988, 102 Stat. 1973, provided that:
+Pub. L. 100–180, div. A, title V, §513(b), Dec. 4, 1987, 101 Stat. 1091, as amended by Pub. L. 100–456, div. A, title V, §521(d), Sept. 29, 1988, 102 Stat. 1973, provided that:
 
 “(1) The Secretary of Defense shall prescribe regulations for the implementation of section 978 of title 10, United States Code, as amended by subsection (a), not later than 45 days after the date of the enactment of this Act \[Dec. 4, 1987\].
 

@@ -6,7 +6,7 @@ From the sums appropriated for any fiscal year for the purpose of the program au
 
 #### (b) Purpose of payments
 
-(1) The sums paid to institutions under this part are for the sole purpose of administeringthe programs described in subsection (a) of this section.
+(1) The sums paid to institutions under this part are for the sole purpose of administering the programs described in subsection (a) of this section.
 
 (2) If the institution enrolls a significant number of students who are (A) attending the institution less than full time, or (B) independent students, the institution shall use a reasonable proportion of the funds available under this section for financial aid services during times and in places that will most effectively accommodate the needs of such students.
 
@@ -14,7 +14,7 @@ From the sums appropriated for any fiscal year for the purpose of the program au
 
 #### Prior Provisions
 
-A prior section 1096, Pub. L. 89–329, title IV, §489, as added Pub. L. 96–374, title IV, §451(a), Oct. 3, 1980, 94 Stat. 1453; amended Pub. L. 97–35, title V, §537(a)(2), Aug. 13, 1981, 95 Stat. 456, related to administrative expenses, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1096, Pub. L. 89–329, title IV, §489, as added Pub. L. 96–374, title IV, §451(a), Oct. 3, 1980, 94Stat. 1453; amended Pub. L. 97–35, title V, §537(a)(2), Aug. 13, 1981, 95 Stat. 456, related to administrative expenses, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 

@@ -4,7 +4,7 @@
 
 #### (1) Authority for grants
 
-&emsp;Subject to subsections (b) and (c) of this section, the Commissioner may make grants to States for the purpose of providing the services described in subsection (d) of this section to older individuals who are blind.
+&emsp;Subject to subsections (b) and (c) of this section, the Commissioner may make grants toStates for the purpose of providing the services described in subsection (d) of this section to older individuals who are blind.
 
 #### (2) Designated State agency
 
@@ -12,7 +12,7 @@
 
 #### (b) Contingent competitive grants
 
-Beginning with fiscal year 1993, in the case of any fiscal year for which the amount appropriated under section 796<i>l</i> of this title is less than $13,000,000, grants made under subsection (a) of this section shall be—
+Beginning with fiscal year 1993, in the case of any fiscal year for which the amount appropriated under section 796l of this title is less than $13,000,000, grants made under subsection (a) of this section shall be—
 
 &emsp;(1) discretionary grants made on a competitive basis to States; or
 
@@ -26,7 +26,7 @@ Beginning with fiscal year 1993, in the case of any fiscal year for which the am
 
 #### (1) In general
 
-&emsp;In the case of any fiscal year for which the amount appropriated under section 796<i>l</i> of this title is equal to or greater than $13,000,000, grants under subsection (a) of this section shall be made only to States and shall be made only from allotments under paragraph (2).
+&emsp;In the case of any fiscal year for which the amount appropriated under section 796l of this title is equal to or greater than $13,000,000, grants under subsection (a) of this section shall be made only to States and shall be made only from allotments under paragraph (2).
 
 #### (2) Allotments
 
@@ -144,7 +144,7 @@ The Commissioner may not make a grant under subsection (a) of this section unles
 
 &emsp;&emsp;&emsp;(i) $225,000; or
 
-&emsp;&emsp;&emsp;(ii) an amount equal to 1/3 of 1 percent of the amount appropriated under section 796<i>l</i> of this title for the fiscal year and available for allotments under subsection (a) of this section.
+&emsp;&emsp;&emsp;(ii) an amount equal to 1/3 of 1 percent of the amount appropriated under section 796l of this title for the fiscal year and available for allotments under subsection (a) of this section.
 
 #### (B) Certain territories
 
@@ -154,7 +154,7 @@ The Commissioner may not make a grant under subsection (a) of this section unles
 
 &emsp;The amount referred to in subparagraph (B) of paragraph (1) for a State for a fiscal year is the product of—
 
-&emsp;&emsp;(A) the amount appropriated under section 796<i>l</i> of this title and available for allotments under subsection (a) of this section; and
+&emsp;&emsp;(A) the amount appropriated under section 796l of this title and available for allotments under subsection (a) of this section; and
 
 &emsp;&emsp;(B) a percentage equal to the quotient of—
 
@@ -190,5 +190,5 @@ Part C of this subchapter, as in effect on the day before October 29, 1992, refe
 
 #### Prior Provisions
 
-A prior section 796k, Pub. L. 93–112, title VII, §752, as added Pub. L. 102–569, title VII, §703(a), Oct. 29, 1992, 106 Stat. 4465; amended Pub. L. 103–73, title I, §114(m), Aug. 11, 1993, 107 Stat. 732, authorized grants to provide independent living services for older individuals who are blind, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 796k, Pub. L. 93–112, title VII, §752, as added Pub. L. 102–569, title VII, §703(a), Oct. 29, 1992, 106Stat. 4465; amended Pub. L. 103–73, title I, §114(m), Aug. 11, 1993, 107 Stat. 732, authorized grants to provide independent living services for older individuals who are blind, prior to the general amendment of this subchapter by Pub. L. 105–220.
 

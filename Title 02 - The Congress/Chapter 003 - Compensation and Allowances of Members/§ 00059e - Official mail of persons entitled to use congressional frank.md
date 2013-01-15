@@ -32,7 +32,7 @@ Expenses of official mail of the Senate and the House of Representatives may be 
 
 #### (d) Maintenance or use of unofficial office accounts or defrayal of official expenses from certain funds prohibited
 
-No Senator or Member of the House of Representatives may maintain or use, directly or indirectly, an unofficial office account or defray official expenses for franked mail, employee salaries, office space, furniture, or equipment and any associated information technology services\(excluding handheld communications devices) from—
+No Senator or Member of the House of Representatives may maintain or use, directly or indirectly, an unofficial office account or defray official expenses for franked mail, employee salaries, office space, furniture, or equipment and any associated information technology services (excluding handheld communications devices) from—
 
 &emsp;(1) funds received from a political committee or derived from a contribution or expenditure (as such terms are defined in section 431 of this title);
 
@@ -94,7 +94,7 @@ Subsec. (h) of this section made the amendments specified in the References in T
 
 Subsec. (b)(2). Pub. L. 106–19 substituted “any person with an allocation under subsection (a)(2)(A) as to the amount that has been used and any person with an allocation under subsection (a)(2)(B)” for “any person with an allocation under subsection (a)(2)”.
 
-Subsec. (e)(1). Pub. L. 106–57, §103(a)(1)(A), in introductory provisions, substituted “The use of funds of the House of Representatives which are made available for official mail of Members, officers, and employees of the House of Representatives who are persons entitled to use the congressional frank shall be governed by regulations promulgated—” for “There is established in the House of Representatives an Official Mail Allowance for Members, officers, and employees of the House of Representatives who are persons entitled to use thecongressional frank. Regulations for use of the Official Mail Allowance shall be prescribed—”.
+Subsec. (e)(1). Pub. L. 106–57, §103(a)(1)(A), in introductory provisions, substituted “The use of funds of the House of Representatives which are made available for official mail of Members, officers, and employees of the House of Representatives who are persons entitled to use the congressional frank shall be governed by regulations promulgated—” for “There is established in the House of Representatives an Official Mail Allowance for Members, officers, and employees of the House of Representatives who are persons entitled to use the congressional frank. Regulations for use of the Official Mail Allowance shall be prescribed—”.
 
 Subsec. (e)(1)(A). Pub. L. 106–57, §103(a)(1)(B), substituted “official mail (except as provided in subparagraph (B))” for “the Allowance”.
 

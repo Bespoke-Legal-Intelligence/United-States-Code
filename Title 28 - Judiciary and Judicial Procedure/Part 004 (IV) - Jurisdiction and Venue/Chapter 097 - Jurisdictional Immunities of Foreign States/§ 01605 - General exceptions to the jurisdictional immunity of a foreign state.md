@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(A) any claim based upon the exercise or performance or the failure to exercise or perform a discretionary function regardless of whether the discretion be abused, or
 
-&emsp;&emsp;(B) any claim arising out of malicious prosecution, abuse of process, libel, slander, misrepresentation, deceit, or interference with contract rights; or
+&emsp;&emsp;(B) any claim arising out of malicious prosecution, abuse of process, libel, slander,misrepresentation, deceit, or interference with contract rights; or
 
 &emsp;(6) in which the action is brought, either to enforce an agreement made by the foreign state with or for the benefit of a private party to submit to arbitration all or any differences which have arisen or which may arise between the parties with respect to a defined legal relationship, whether contractual or not, concerning a subject matter capable of settlement by arbitration under the laws of the United States, or to confirm an award made pursuant to such an agreement to arbitrate, if (A) the arbitration takes place or is intended to take place in the United States, (B) the agreement or award is or may be governed by a treaty or other international agreement in force for the United States calling for the recognition and enforcement of arbitral awards, (C) the underlying claim, save for the agreement to arbitrate, could have been brought in a United States court under this section or section 1607, or (D) paragraph (1) of this subsection is otherwise applicable.
 
@@ -38,7 +38,7 @@ Limitation on Discovery.—
 
 In general.—(A) Subject to paragraph (2), if an action is filed that would otherwise be barred by section 1604, but for section 1605A, the court, upon request of the Attorney General, shall stay any request, demand, or order for discovery on the United States that the Attorney General certifies would significantly interfere with a criminal investigation or prosecution, or a national security operation, related to the incident that gave rise to the cause of action, until such time as the Attorney General advises the court that such request, demand, or order will no longer so interfere.
 
-&emsp;(B) A stay under this paragraph shall be in effect during the 12-month period beginning on the date on which the court issues the order to stay discovery. The court shall renew theorder to stay discovery for additional 12-month periods upon motion by the United States if the Attorney General certifies that discovery would significantly interfere with a criminal investigation or prosecution, or a national security operation, related to the incident that gave rise to the cause of action.
+&emsp;(B) A stay under this paragraph shall be in effect during the 12-month period beginning on the date on which the court issues the order to stay discovery. The court shall renew the order to stay discovery for additional 12-month periods upon motion by the United States if the Attorney General certifies that discovery would significantly interfere with a criminal investigation or prosecution, or a national security operation, related to the incident that gave rise to the cause of action.
 
 &emsp;(2)
 
@@ -112,11 +112,11 @@ Pub. L. 105–11 provided that the amendment made by that Act was effective with
 
 #### Effective Date of 1996 Amendment
 
-Section 221(c) of title II of Pub. L. 104–132 provided that: “The amendments made by this subtitle \[subtitle B (§221) of title II of Pub. L. 104–132, amending this section and section 1610 of this title\] shall apply to any cause of action arising before, on, or after the date of the enactment of this Act \[Apr. 24, 1996\].”
+Pub. L. 104–132, title II, §221(c), Apr. 24, 1996, 110 Stat. 1243, provided that: “The amendments made by this subtitle \[subtitle B (§221) of title II of Pub. L. 104–132, amending this section and section 1610 of this title\] shall apply to any cause of action arising before, on, or after the date of the enactment of this Act \[Apr. 24, 1996\].”
 
 #### Effective Date of 1988 Amendment
 
-Section 3 of Pub. L. 100–640 provided that: “The amendments made by this Act \[amending this sectionand section 1610 of this title\] shall apply to actions commenced on or after the date of the enactment of this Act \[Nov. 9, 1988\].”
+Pub. L. 100–640, §3, Nov. 9, 1988, 102 Stat. 3334, provided that: “The amendments made by this Act \[amending this section and section 1610 of this title\] shall apply to actions commenced on or after the date of the enactment of this Act \[Nov. 9, 1988\].”
 
 #### Civil Liability for Acts of State Sponsored Terrorism
 

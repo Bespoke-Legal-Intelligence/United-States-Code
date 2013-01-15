@@ -10,7 +10,7 @@ Conditions.—
 
 &emsp;(1)
 
-In general.—The provision of benefits under subsection (a) shall be subject to the conditions applicable to an eligible veteran under section 3492.
+In general.—The provision of benefits under subsection (a) shall be subject to theconditions applicable to an eligible veteran under section 3492.
 
 &emsp;(2)
 

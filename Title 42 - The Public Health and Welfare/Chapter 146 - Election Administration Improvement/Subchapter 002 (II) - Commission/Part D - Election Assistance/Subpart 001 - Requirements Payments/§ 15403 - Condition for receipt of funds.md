@@ -16,7 +16,7 @@ The requirements referred to in this subsection are as follows:
 
 &emsp;&emsp;(C) meets the public notice and comment requirements of section 15406 of this title.
 
-&emsp;(2)(A) Subject to subparagraph (B), the State has filed with the Commission a plan for the implementation of the uniform, nondiscriminatory administrative complaint procedures required under section 15512 of this title (or has included such a plan in the State plan filed under paragraph (1)), and has such procedures in place for purposes of meeting the requirements of such section. If the State does not include such an implementation plan in the State plan filed under paragraph (1), the requirements of sections 15405(b) and 15406 of this title shall apply to the implementation plan in the same manner as such requirements apply to the State plan.
+&emsp;(2)(A) Subject to subparagraph (B), the State has filed with the Commission a plan for the implementation of the uniform, nondiscriminatory administrative complaint proceduresrequired under section 15512 of this title (or has included such a plan in the State plan filed under paragraph (1)), and has such procedures in place for purposes of meeting the requirements of such section. If the State does not include such an implementation plan in the State plan filed under paragraph (1), the requirements of sections 15405(b) and 15406 of this title shall apply to the implementation plan in the same manner as such requirements apply to the State plan.
 
 &emsp;(B) Subparagraph (A) shall not apply for purposes of determining the eligibility of a State to receive a requirements payment appropriated pursuant to the authorization provided under section 15407(a)(4) of this title.
 

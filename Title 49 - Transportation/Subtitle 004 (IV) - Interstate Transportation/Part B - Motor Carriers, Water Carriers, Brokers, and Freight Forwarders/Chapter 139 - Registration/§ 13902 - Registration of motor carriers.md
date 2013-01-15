@@ -6,19 +6,27 @@ Motor Carrier Generally.—
 
 &emsp;(1)
 
-In general.—Except as provided in this section, the Secretary shall register a person to provide transportation subject to jurisdiction under subchapter I of chapter 135 of this title as a motor carrier if the Secretary finds that the person is willing and able to comply with—
+In general.—Except as otherwise provided in this section, the Secretary of Transportation shall register a person to provide transportation subject to jurisdiction under subchapter I of chapter 135 as a motor carrier using self-propelled vehicles the motor carrier owns, rents, or leases only if the Secretary determines that the person—
 
-&emsp;&emsp;(A) this part and the applicable regulations of the Secretary and the Board;
+&emsp;&emsp;(A) is willing and able to comply with—
 
-&emsp;&emsp;(B)(i) any safety regulations imposed by the Secretary;
+&emsp;&emsp;&emsp;(i) this part and the applicable regulations of the Secretary and the Board;
 
-&emsp;&emsp;(ii) the duties of employers and employees established by the Secretary under section 31135; and
+&emsp;&emsp;&emsp;(ii) any safety regulations imposed by the Secretary;
 
-&emsp;&emsp;(iii) the safety fitness requirements established by the Secretary under section 31144;
+&emsp;&emsp;&emsp;(iii) the duties of employers and employees established by the Secretary under section 31135;
 
-&emsp;&emsp;(C) the accessibility requirements established by the Secretary under subpart H of part 37 of title 49, Code of Federal Regulations, or such successor regulations to those accessibility requirements as the Secretary may issue, for transportation provided by an over-the-road bus; and
+&emsp;&emsp;&emsp;(iv) the safety fitness requirements established by the Secretary under section 31144;
 
-&emsp;&emsp;(D) the minimum financial responsibility requirements established by the Secretary pursuant to sections 13906 and 31138.
+&emsp;&emsp;&emsp;(v) the accessibility requirements established by the Secretary under subpart H of part 37 of title 49, Code of Federal Regulations (or successor regulations), for transportation provided by an over-the-road bus; and
+
+&emsp;&emsp;&emsp;(vi) the minimum financial responsibility requirements established by the Secretary under sections 13906, 31138, and 31139;
+
+&emsp;&emsp;(B) has been issued a USDOT number under section 31134;
+
+&emsp;&emsp;(C) has disclosed any relationship involving common ownership, common management, common control, or common familial relationship between that person and anyother motor carrier, freight forwarder, or broker, or any other applicant for motor carrier, freight forwarder, or broker registration, if the relationship occurred in the 3-year period preceding the date of the filing of the application for registration; and
+
+&emsp;&emsp;(D) after the Secretary establishes a written proficiency examination pursuant to section 32101(b) of the Commercial Motor Vehicle Safety Enhancement Act of 2012, has passed the written proficiency examination.
 
 &emsp;(2)
 
@@ -43,6 +51,10 @@ Withholding.—If the Secretary determines that a registrant under this section 
 &emsp;(5)
 
 Limitation on complaints.—The Secretary may hear a complaint from any person concerning a registration under this subsection only on the ground that the registrant fails or will fail to comply with this part, the applicable regulations of the Secretary and the Board (including the accessibility requirements established by the Secretary under subpart H of part 37 of title 49, Code of Federal Regulations, or such successor regulations to those accessibility requirements as the Secretary may issue, for transportation provided by an over-the-road bus), the safety regulations of the Secretary, or the safety fitness or minimum financial responsibility requirements of paragraph (1) of this subsection. In the case of a registration for the transportation of household goods as a household goods motor carrier, the Secretary may also hear a complaint on the ground that the registrant fails or will fail to comply with the requirements of paragraph (2) of this subsection.
+
+&emsp;(6)
+
+Separate registration required.—A motor carrier may not broker transportation services unless the motor carrier has registered as a broker under this chapter.
 
 (b)
 
@@ -76,7 +88,7 @@ Treatment of certain public recipients.—Any public recipient of governmental a
 
 &emsp;(3)
 
-Intrastate transportation by interstate carriers.—A motor carrier of passengers that is registered by the Secretary under subsection (a) is authorized to provide regular-route transportation entirely in one State as a motor carrier of passengers if such intrastate transportation is to be provided on a route over which the carrier provides interstate transportation of passengers.
+Intrastate transportation by interstate carriers.—A motor carrier of passengers that is registered by the Secretaryunder subsection (a) is authorized to provide regular-route transportation entirely in one State as a motor carrier of passengers if such intrastate transportation is to be provided on a route over which the carrier provides interstate transportation of passengers.
 
 &emsp;(4)
 
@@ -152,7 +164,7 @@ Publication; comment.—Unless the President, or the delegate thereof, determine
 
 &emsp;(6)
 
-Delegation to secretary.—The President may delegate any or all authority under this subsection to the Secretary, who shall consult with other agencies as appropriate. In accordance with the directions of the President, the Secretary may issue regulations to enforce this subsection.
+Delegation to secretary.—The President may delegate any or all authority underthis subsection to the Secretary, who shall consult with other agencies as appropriate. In accordance with the directions of the President, the Secretary may issue regulations to enforce this subsection.
 
 &emsp;(7)
 
@@ -188,7 +200,7 @@ Penalties for Failure To Comply With Registration Requirements.—In addition to
 
 &emsp;(1)
 
-Out-of-service orders.—If, upon inspection or investigation, the Secretary determines that a motor vehicle providing transportation requiring registration under thissection is operating without a registration or beyond the scope of its registration, the Secretary may order the vehicle out-of-service. Subsequent to the issuance of the out-of-service order, the Secretary shall provide an opportunity for review in accordance with section 554 of title 5, United States Code; except that such review shall occur not later than 10 days after issuance of such order.
+Out-of-service orders.—If, upon inspection or investigation, the Secretary determines that a motor carrier providing transportation requiring registration under this section is operating without a registration or beyond the scope of its registration, the Secretary may order the motor carrier operations out-of-service. Subsequent to the issuance of the out-of-service order, the Secretary shall provide an opportunity for review in accordance with section 554 of title 5, United States Code; except that such review shall occur not later than 10 days after issuance of such order.
 
 &emsp;(2)
 
@@ -224,7 +236,47 @@ Transition termination date defined.—In this section, the term “transition t
 
 Motor Carrier Defined.—In this section and sections 13905 and 13906, the term “motor carrier” includes foreign motor private carriers.
 
-(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 880; amended Pub. L. 104–287, §5(32), Oct. 11, 1996, 110 Stat. 3391; Pub. L. 106–159, title II, §205, Dec. 9, 1999, 113 Stat. 1762; Pub. L. 109–59, title IV, §§4113(b), 4204, 4303(c), Aug. 10, 2005, 119 Stat. 1725, 1753, 1762; Pub. L. 110–291, §2, July 30, 2008, 122 Stat. 2915.)
+(h)
+
+Update of Registration.—
+
+&emsp;(1)
+
+In general.—The Secretary shall require a registrant to update its registration under this section not later than 30 days after a change in the registrant's address, other contact information, officers, process agent, or other essential information, as determined by the Secretary.
+
+&emsp;(2)
+
+Motor carriers of passengers.—In addition to the requirements of paragraph (1), the Secretary shall require a motor carrier of passengers to update its registration information, including numbers of vehicles, annual mileage, and individuals responsible for compliance with Federal safety regulations quarterly for the first 2 years after being issued a registration under this section.
+
+(i)
+
+Registration as Freight Forwarder or Broker Required.—A motor carrier registered under this chapter—
+
+&emsp;(1) may only provide transportation of property with—
+
+&emsp;&emsp;(A) self-propelled motor vehicles owned or leased by the motor carrier; or
+
+&emsp;&emsp;(B) interchanges under regulations issued by the Secretary if the originating carrier—
+
+&emsp;&emsp;&emsp;(i) physically transports the cargo at some point; and
+
+&emsp;&emsp;&emsp;(ii) retains liability for the cargo and for payment of interchanged carriers; and
+
+&emsp;(2) may not arrange transportation described in paragraph (1) unless the motor carrier has obtained a separate registration as a freight forwarder or broker for transportation under section 13903 or 13904, as applicable.
+
+(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 880; amended Pub. L. 104–287, §5(32), Oct. 11, 1996, 110 Stat. 3391; Pub. L. 106–159, title II, §205, Dec. 9, 1999, 113 Stat. 1762; Pub. L. 109–59, title IV, §§4113(b), 4204, 4303(c), Aug. 10, 2005, 119 Stat. 1725, 1753, 1762; Pub. L. 110–291, §2, July 30, 2008, 122 Stat. 2915; Pub. L. 112–141, div. C, title II, §§32101(a), 32107(a), 32111, 32915, 32921(a), July 6, 2012, 126 Stat. 777, 781, 783, 820, 827.)
+
+#### Amendment of Subsection (a)(2)
+
+<i>Pub. L. 112–141, §3, div. C, title II, §32921(a), (c), July 6, 2012, 126 Stat. 413, 827, 828, provided that, effective 2 years after the date of enactment of Pub. L. 112–141 (see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways), subsection (a)(2) of this section is amended:</i>
+
+<i>(1) in subparagraph (B), by striking “section 13702(c);” and inserting “section 13702(c); and”;</i>
+
+<i>(2) by amending subparagraph (C) to read “(C) demonstrates, before being registered, through successful completion of a proficiency examination established by the Secretary, knowledge and intent to comply with applicable Federal laws relating to consumer protection, estimating, consumers’ rights and responsibilities, and options for limitations of liability for loss and damage.”; and</i>
+
+<i>(3) by striking subparagraph (D).</i>
+
+<i>See 2012 Amendment notes below.</i>
 
 #### Historical and Revision Notes
 
@@ -242,6 +294,8 @@ This amends 49:13902(c)(4)(A) and (d)(1) and (2) for clarity and consistency.
 
 #### References in Text
 
+Section 32101(b) of the Commercial Motor Vehicle Safety Enhancement Act of 2012, referred to in subsec. (a)(1)(D), is section 32101(b) of Pub. L. 112–141, which is set out as a note below.
+
 Section 6 of the Bus Regulatory Reform Act of 1982, referred to in subsec. (c)(4)(B), is section 6 of Pub. L. 97–261, Sept. 20, 1982, 96 Stat. 1103, which amended former sections 10102, 10322, 10521, 10922, and 11711 of this title, section 250 of Title 26, Internal Revenue Code, and former section 5201 of Title 39, Postal Service.
 
 Section 4481 of the Internal Revenue Code of 1986, referred to in subsec. (c)(8), is classified to section 4481 of Title 26, Internal Revenue Code.
@@ -255,6 +309,36 @@ The date of enactment of the Unified Carrier Registration Act of 2005, referred 
 Provisions similar to those in this section were contained in section 10922 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a)(1). Pub. L. 112–141, §32915(1)(A), inserted “using self-propelled vehicles the motor carrier owns, rents, or leases” after “motor carrier” in introductory provisions.
+
+Pub. L. 112–141, §32101(a), amended par. (1) generally. Prior to amendment, text read as follows: “Except as provided in this section, the Secretary shall register a person to provide transportation subject to jurisdiction under subchapter I of chapter 135 of this title as a motor carrier if the Secretary finds that the person is willing and able to comply with—
+
+&emsp;“(A) this part and the applicable regulations of the Secretary and the Board;
+
+&emsp;“(B)(i) any safety regulations imposed by the Secretary;
+
+&emsp;“(ii) the duties of employers and employees established by the Secretary under section 31135; and
+
+&emsp;“(iii) the safety fitness requirements established by the Secretary under section 31144;
+
+&emsp;“(C) the accessibility requirements established by the Secretary under subpart H of part 37 of title 49, Code of Federal Regulations, or such successor regulations to those accessibility requirements as the Secretary may issue, for transportation provided by an over-the-road bus; and
+
+&emsp;“(D) the minimum financial responsibility requirements established by the Secretary pursuant to sections 13906 and 31138.”
+
+Subsec. (a)(2)(B). Pub. L. 112–141, §32921(a)(1), substituted “section 13702(c); and” for “section 13702(c);”.
+
+Subsec. (a)(2)(C). Pub. L. 112–141, §32921(a)(2), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “provides evidence that it has access to, has read, is familiar with, and will observe all applicable Federal laws relating to consumer protection, estimating, consumers’ rights and responsibilities, and options for limitations of liability for loss and damage; and”.
+
+Subsec. (a)(2)(D). Pub. L. 112–141, §32921(a)(3), struck out subpar. (D) which read as follows: “discloses any relationship involving common stock, common ownership, common management, or common familial relationships between that person and any other motor carrier, freight forwarder, or broker of household goods within 3 years of the proposed date of registration.”
+
+Subsec. (a)(6). Pub. L. 112–141, §32915(1)(B), added par. (6).
+
+Subsec. (e)(1). Pub. L. 112–141, §32111, substituted “a motor carrier” for “a motor vehicle” and “order the motor carrier operations” for “order the vehicle”.
+
+Subsec. (h). Pub. L. 112–141, §32107(a), added subsec. (h).
+
+Subsec. (i). Pub. L. 112–141, §32915(2), added subsec. (i).
 
 <b>2008</b>—Subsec. (a)(1)(C), (D). Pub. L. 110–291, §2(a), added subpar. (C) and redesignated former subpar. (C) as (D).
 
@@ -288,6 +372,12 @@ Subsec. (b)(8)(B). Pub. L. 104–287, §5(32)(B), substituted “January 1, 1996
 
 Subsecs. (c)(4)(A), (d)(1)(A), (2). Pub. L. 104–287, §5(32)(C), substituted “December 31, 1995” for “the day before the effective date of this section”.
 
+#### Effective Date of 2012 Amendment
+
+Amendment by sections 32101(a), 32107(a), 32111, and 32915 of Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
+
+Pub. L. 112–141, div. C, title II, §32921(c), July 6, 2012, 126 Stat. 828, provided that: “The amendments made by this section \[amending this section and section 31144 of this title\] shall take effect 2 years after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\].”
+
 #### Regulations
 
 Pub. L. 109–59, title IV, §4308, Aug. 10, 2005, 119 Stat. 1774, provided that: “The Secretary \[of Transportation\] may issue such regulations as the Secretary determines are necessary to carry out this subtitle \[subtitle C (§§4301–4308) of title IV of Pub. L. 109–59, see Short Title of 2005 Amendment note set out under section 10101 of this title\] and the amendments made by this subtitle.”
@@ -295,6 +385,10 @@ Pub. L. 109–59, title IV, §4308, Aug. 10, 2005, 119 Stat. 1774, provided that
 #### Deemed References to Chapters 509 and 511 of Title 51
 
 General references to “this title” deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
+
+#### Written Proficiency Examination
+
+Pub. L. 112–141, div. C, title II, §32101(b), July 6, 2012, 126 Stat. 777, provided that: “Not later than 18 months after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\], the Secretary \[of Transportation\] shall establish through a rulemaking a written proficiency examination for applicant motor carriers pursuant to section 13902(a)(1)(D) of title 49, United States Code. The written proficiency examination shall test a person's knowledge of applicable safety regulations, standards, and orders of the Federal government.”
 
 #### Deadline for Implementation of Registration Requirements
 
@@ -406,7 +500,7 @@ Pub. L. 107–87, title III, §350, Dec. 18, 2001, 115 Stat. 864, provided that:
 
 &emsp;&emsp;“(B) a Commercial Vehicle Safety Alliance decal to be affixed to each such commercial vehicle upon completion of the inspection required by clause (A) or a re-inspection if the vehicle has met the criteria for the Level I inspection; and
 
-&emsp;&emsp;“(C) that any such decal, when affixed, expire at the end of a period of not more than 90 days, butnothing in this paragraph shall be construed to preclude the Administration from requiring reinspection of a vehicle bearing a valid inspection decal or from requiring that such a decal be removed when a certified Federal or State inspector determines that such a vehicle has a safety violation subsequent to the inspection for which the decal was granted.
+&emsp;&emsp;“(C) that any such decal, when affixed, expire at the end of a period of not more than 90 days, but nothing in this paragraph shall be construed to preclude the Administration from requiring reinspection of a vehicle bearing a valid inspection decal or from requiring that such a decal be removed when a certified Federal or State inspector determines that such a vehicle has a safety violation subsequent to the inspection for which the decal was granted.
 
 &emsp;“(6) requires State inspectors who detect violations of Federal motor carrier safety laws or regulations to enforce them or notify Federal authorities of such violations;
 
@@ -438,7 +532,7 @@ Pub. L. 107–87, title III, §350, Dec. 18, 2001, 115 Stat. 864, provided that:
 
 &emsp;&emsp;“(A) all new inspector positions funded under this Act \[see Tables for classification\] have been filled and the inspectors have been fully trained;
 
-&emsp;&emsp;“(B) each inspector conducting on-site safety compliance reviews in Mexico consistent with the safety fitness evaluation procedures set forth in part 385 of title 49, Code of Federal Regulations, is fully trained as a safety specialist;
+&emsp;&emsp;“(B) each inspector conducting on-site safety compliance reviews in Mexico consistent with thesafety fitness evaluation procedures set forth in part 385 of title 49, Code of Federal Regulations, is fully trained as a safety specialist;
 
 &emsp;&emsp;“(C) the requirement of subparagraph (a)(2) has not been met by transferring experienced inspectors from other parts of the United States to the United States-Mexico border, undermining the level of inspection coverage and safety elsewhere in the United States;
 
@@ -470,7 +564,7 @@ Section 6 of the Bus Regulatory Reform Act of 1982 \[Pub. L. 97–261, see forme
 
 I am pleased that an agreement between the United States and Mexico has been concluded to ensure fair and reciprocal treatment for charter and tour bus interests on both sides of the border. The agreement reached, however, does not allow for full access to cross-border and domestic markets. Therefore, the moratorium must reflect the conditions under which operating authority may be issued to Mexican charter and tour companies under the agreement.
 
-Pursuant to section 6 of the Bus Regulatory Reform Act of 1982, 49 U.S.C. section 10922(<i>l</i>)(2)(A) \[see former 49 U.S.C. 10922(m)(2)(A)\], I hereby make a limited modification to the moratorium imposed by that section and all actions taken by my predecessors under that section on the issuance of certificates or permits to motor carriers domiciled in, or owned or controlled by persons of, a contiguous foreign country.
+Pursuant to section 6 of the Bus Regulatory Reform Act of 1982, 49 U.S.C. section 10922(l)(2)(A) \[see former 49 U.S.C. 10922(m)(2)(A)\], I hereby make a limited modification to the moratorium imposed by that section and all actions taken by my predecessors under that section on the issuance of certificates or permits to motor carriers domiciled in, or owned or controlled by persons of, a contiguous foreign country.
 
 The moratorium is modified only to authorize the Interstate Commerce Commission to grant Mexican motor carriers authority to transport passengers in charter or special operations, in foreign commerce, in round trip or one-way service between Mexico and the United States pursuant to the following restrictions:
 
@@ -492,11 +586,11 @@ Memorandum of President of the United States, Jan. 1, 1994, 59 F.R. 653, provide
 
 Memorandum for the Secretary of Transportation
 
-Section 6 of the Bus Regulatory Reform Act of 1982 \[Pub. L. 97–261, see former 49 U.S.C. 10922(m)(1), (2)\] imposed a moratorium on the issuance of certificates or permits to motor carriers domiciled in, or owned or controlled by, persons of a contiguous foreign country. The Act \[Pub. L. 97–261, see Tables for classification\] authorized the President to remove the moratorium in whole or in part for any country or political subdivision thereof upon determining that such action is in the national interest. Sixty days’ advance notice to the Congress is required whenever the removal or modification applies to a foreign contiguous country or political subdivision thereof that substantially prohibits the granting of motor carrier authority to persons from the United States.
+Section 6 of the Bus Regulatory Reform Act of 1982 \[Pub. L. 97–261, see former 49 U.S.C. 10922(m)(1), (2)\] imposed a moratorium on the issuance of certificates or permits to motor carriers domiciled in, or owned or controlled by, persons of a contiguous foreign country. The Act \[Pub. L. 97–261, see Tables for classification\] authorized the President to remove the moratorium inwhole or in part for any country or political subdivision thereof upon determining that such action is in the national interest. Sixty days’ advance notice to the Congress is required whenever the removal or modification applies to a foreign contiguous country or political subdivision thereof that substantially prohibits the granting of motor carrier authority to persons from the United States.
 
 As set forth in the Statement of Administrative Action regarding the North American Free Trade Agreement (NAFTA) that I submitted to the Congress on November 3, 1993, the moratorium with respect to Mexico will be lifted in phases to coincide with the schedule of liberalization in the relevant provisions of the NAFTA. The NAFTA specifically states that the moratorium will not apply to the provision of cross-border charter or tour bus services as of the date of entry into force of the Agreement.
 
-This is to give public notice that, pursuant to section 6 of the Bus Regulatory Reform Act of 1982, 49 U.S.C. section 10922(<i>l</i>)(2)(A) \[see former 49 U.S.C. 10922(m)(2)(A)\], on November 3, 1993, I gave the Congress notice of my intention to make a limited modification to the moratorium imposed by that section and all actions taken by my predecessors under that section on the issuance of certificates or permits to motor carriers domiciled in, or owned or controlled by, persons of Mexico. This modification will take effect on January 1, 1994, the 60th day after my notice to the Congress.
+This is to give public notice that, pursuant to section 6 of the Bus Regulatory Reform Act of 1982, 49 U.S.C. section 10922(l)(2)(A) \[see former 49 U.S.C. 10922(m)(2)(A)\], on November 3, 1993, I gave the Congress notice of my intention to make a limited modification to the moratorium imposed by that section and all actions taken by my predecessors under that section on the issuance of certificates or permits to motor carriers domiciled in, or owned or controlled by, persons of Mexico. This modification will take effect on January 1, 1994, the 60th day after my notice to the Congress.
 
 The moratorium is modified only to authorize the Interstate Commerce Commission to grant Mexican motor carriers authority to transport passengers in charter or tour bus operations, in foreign commerce, in round-trip or one-way service between Mexico and the United States.
 
@@ -516,7 +610,7 @@ Memorandum of President of the United States, Mar. 2, 1995, 60 F.R. 12393, provi
 
 Memorandum for the Secretary of Transportation \[and\] the United States Trade Representative
 
-Pursuant to section 6 of the Bus Regulatory Reform Act of 1982, 49 U.S.C. 10922(<i>l</i>)(1) and (2) \[Pub. L. 97–261, see former 49 U.S.C. 10922(m)(1), (2)\], I hereby extend for an additional 2 years both the moratorium imposed by that section and all actions taken by my predecessors under that section on the issuance of certificates or permits to motor carriers domiciled in, or owned or controlled by persons of, a contiguous foreign country. This action preserves the <i>status quo</i> and will maintain the moratorium through September 19, 1996, unless earlier revoked or modified.
+Pursuant to section 6 of the Bus Regulatory Reform Act of 1982, 49 U.S.C. 10922(l)(1) and (2) \[Pub. L. 97–261, see former 49 U.S.C. 10922(m)(1), (2)\], I hereby extend for an additional 2 years both the moratorium imposed by that section and all actions taken by my predecessors under that section on the issuance of certificates or permits to motor carriers domiciled in, or owned or controlled by persons of, a contiguous foreign country. This action preserves the <i>status quo</i> and will maintain the moratorium through September 19, 1996, unless earlier revoked or modified.
 
 This memorandum shall be published in the Federal Register.
 
@@ -552,7 +646,7 @@ Memorandum of President of the United States, Nov. 27, 2002, 67 F.R. 71795, prov
 
 Memorandum for the Secretary of Transportation
 
-Section 6 of the Bus Regulatory Reform Act of 1982, Public Law 97–261, 96 Stat. 1103 \[see former 49 U.S.C. 10922(m)(1), (2)\], imposed a moratorium on the issuance of certificates or permits to motor carriers domiciled in, or owned or controlled by persons of, a contiguous foreign country and authorized the President to modify the moratorium. The Interstate Commerce Commission Termination Act of 1995 (ICCTA), Public Law 104–88, 109 Stat. 803 \[ICC Termination Act of 1995, see Tables for classification\], maintained these restrictions, subject to modifications made prior to the enactment of the ICCTA \[Dec. 29, 1995\], and empowered the President to make further modifications to the moratorium.
+Section 6 of the Bus Regulatory Reform Act of 1982, Public Law 97–261, 96 Stat. 1103 \[see former 49 U.S.C. 10922(m)(1), (2)\], imposed a moratorium on the issuanceof certificates or permits to motor carriers domiciled in, or owned or controlled by persons of, a contiguous foreign country and authorized the President to modify the moratorium. The Interstate Commerce Commission Termination Act of 1995 (ICCTA), Public Law 104–88, 109 Stat. 803 \[ICC Termination Act of 1995, see Tables for classification\], maintained these restrictions, subject to modifications made prior to the enactment of the ICCTA \[Dec. 29, 1995\], and empowered the President to make further modifications to the moratorium.
 
 Pursuant to 49 U.S.C. 13902(c)(3), I modified the moratorium on June 5, 2001, to allow motor carriers domiciled in the United States that are owned or controlled by persons of Mexico to obtain operating authority to transport international cargo by truck between points in the United States and to provide bus services between points in the United States.
 

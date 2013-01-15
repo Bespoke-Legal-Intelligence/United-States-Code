@@ -36,7 +36,7 @@ Subsec. (b). Pub. L. 107–273, §11008(b)(2), substituted “20” for “ten�
 
 <b>1996</b>—Subsec. (b). Pub. L. 104–132 inserted “(including a weapon intended to cause death or danger but that fails to do so by reason of a defective component)” after “deadly or dangerous weapon”.
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–322, §320101(a)(1), inserted “, where the acts in violation of this sectionconstitute only simple assault, be fined under this title or imprisoned not more than one year, or both, and in all other cases,” after “shall” in concluding provisions.
+<b>1994</b>—Subsec. (a). Pub. L. 103–322, §320101(a)(1), inserted “, where the acts in violation of this section constitute only simple assault, be fined under this title or imprisoned not more than one year, or both, and in all other cases,” after “shall” in concluding provisions.
 
 Subsec. (b). Pub. L. 103–322, §320101(a)(2), inserted “or inflicts bodily injury” after “weapon”.
 

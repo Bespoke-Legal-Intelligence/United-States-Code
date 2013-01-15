@@ -32,7 +32,7 @@ Joint Duty Assignment.—(1) The Secretary of Defense shall by regulation define
 
 &emsp;(A) shall be limited to assignments in which the officer gains significant experience in joint matters; and
 
-&emsp;(B) shall exclude assignments for joint training and education, except an assignment as an instructor responsible for preparing and presenting courses in areas of the curricula designated in section 2155(c) of this title as part of a program designated by the Secretary ofDefense as joint professional military education Phase II.
+&emsp;(B) shall exclude student assignments for joint training and education.
 
 (2) The Secretary shall publish a joint duty assignment list showing—
 
@@ -50,9 +50,11 @@ Critical Occupational Specialty.—(1) In this chapter, the term “critical occ
 
 (2) At a minimum, the Secretary of Defense shall designate as a critical occupational specialty under paragraph (1) any military occupational specialty within a combat arms (or the equivalent) that is experiencing a severe shortage of trained officers in that specialty, as determined by the Secretary.
 
-(Added Pub. L. 99–433, title IV, §401(a), Oct. 1, 1986, 100 Stat. 1029; amended Pub. L. 100–180, div. A, title XIII, §§1302(c)(1), 1303(b), Dec. 4, 1987, 101 Stat. 1170, 1172; Pub. L. 100–456, div. A, title V, §519(b), Sept. 29, 1988, 102 Stat. 1972; Pub. L. 108–375, div. A, title V, §534(a), (b), Oct. 28, 2004, 118 Stat. 1901; Pub. L. 109–364, div. A, title V, §519(a)–(c), Oct. 17, 2006, 120 Stat. 2190, 2191; Pub. L. 111–383, div. A, title V, §521, Jan. 7, 2011, 124 Stat. 4214.)
+(Added Pub. L. 99–433, title IV, §401(a), Oct. 1, 1986, 100 Stat. 1029; amended Pub. L. 100–180, div. A, title XIII, §§1302(c)(1), 1303(b), Dec. 4, 1987, 101 Stat. 1170, 1172; Pub. L. 100–456, div. A, title V, §519(b), Sept. 29, 1988, 102 Stat. 1972; Pub. L. 108–375, div. A, title V, §534(a), (b), Oct. 28, 2004, 118 Stat. 1901; Pub. L. 109–364, div. A, title V, §519(a)–(c), Oct. 17, 2006, 120 Stat. 2190, 2191; Pub. L. 111–383, div. A, title V, §521, Jan. 7, 2011, 124 Stat. 4214; Pub. L. 112–239, div. A, title V, §503, Jan. 2, 2013, 126 Stat. 1715.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (b)(1)(B). Pub. L. 112–239 substituted “student assignments for joint training and education” for “assignments for joint training and education, except an assignment as an instructor responsible for preparing and presenting courses in areas of the curricula designated in section 2155(c) of this title as part of a program designated by the Secretary of Defense as joint professional military education Phase II”.
 
 <b>2011</b>—Subsec. (a)(1). Pub. L. 111–383, §521(1)(A), substituted “integrated” for “multiple” in introductory provisions.
 

@@ -24,7 +24,7 @@ It shall be unlawful for any person—
 
 &emsp;(k) to receive or possess a firearm which has been imported or brought into the United States in violation of section 5844; or
 
-&emsp;(<i>l</i>) to make, or cause the making of, a false entry on any application, return, or record required by this chapter, knowing such entry to be false.
+&emsp;(l) to make, or cause the making of, a false entry on any application, return, or record required by this chapter, knowing such entry to be false.
 
 (Added Pub. L. 90–618, title II, §201, Oct. 22, 1968, 82 Stat. 1234.)
 

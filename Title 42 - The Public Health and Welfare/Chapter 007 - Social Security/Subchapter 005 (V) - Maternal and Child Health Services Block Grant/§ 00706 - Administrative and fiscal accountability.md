@@ -162,7 +162,7 @@ The State shall make copies of the reports and audits required by this section a
 
 #### (d) Access to books, records, etc.; creation of new records
 
-(1) For the purpose of evaluating and reviewing the block grant established under this subchapter, the Secretary and the Comptroller General shall have access to any books, accounts, records, correspondence, or other documentsthat are related to such block grant, and that are in the possession, custody, or control of States, political subdivisions thereof, or any of their grantees.
+(1) For the purpose of evaluating and reviewing the block grant established under this subchapter, the Secretary and the Comptroller General shall have access to any books, accounts, records, correspondence, or other documents that are related to such block grant, and that are in the possession, custody, or control of States, political subdivisions thereof, or any of their grantees.
 
 (2) In conjunction with an evaluation or review under paragraph (1), no State or political subdivision thereof (or grantee of either) shall be required to create or prepare new records to comply with paragraph (1).
 
@@ -212,7 +212,7 @@ Amendment by section 6503(c)(3), (4) of Pub. L. 101–239 applicable to payments
 
 #### Reports to Congress; Activities of States Receiving Allotments and Study of Alternative Formulas for Allotment
 
-Section 2192(b) of Pub. L. 97–35 provided that:
+Pub. L. 97–35, title XXI, §2192(b), Aug. 13, 1981, 95 Stat. 826, provided that:
 
 “(1) The Secretary of Health and Human Services shall, no later than October 1, 1984, report to the Congress on the activities of States receiving allotments under title V of the Social Security Act \[this subchapter\] (as amended by this section) and include in such report any recommendations for appropriate changes in legislation.
 

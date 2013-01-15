@@ -62,27 +62,25 @@ In the case of any payments of wages for service performed in the employ of an i
 
 &emsp;(3) the tax imposed by section 3101 on such payments shall be paid by the employee.
 
+#### (f) Special rules for additional tax
+
+#### (1) In general
+
+&emsp;In the case of any tax imposed by section 3101(b)(2), subsection (a) shall only apply to the extent to which the taxpayer receives wages from the employer in excess of $200,000, and the employer may disregard the amount of wages received by such taxpayer's spouse.
+
+#### (2) Collection of amounts not withheld
+
+&emsp;To the extent that the amount of any tax imposed by section 3101(b)(2) is not collected by the employer, such tax shall be paid by the employee.
+
+#### (3) Tax paid by recipient
+
+&emsp;If an employer, in violation of this chapter, fails to deduct and withhold the tax imposed by section 3101(b)(2) and thereafter the tax is paid by the employee, the tax so required to be deducted and withheld shall not be collected from the employer, but this paragraph shall in no case relieve the employer from liability for any penalties or additions to tax otherwise applicable in respect of such failure to deduct and withhold.
+
 (Aug. 16, 1954, ch. 736, 68A Stat. 415; Sept. 1, 1954, ch. 1206, title II, §205A, 68 Stat. 1093; Aug. 1, 1956, ch. 836, title II, §201(h)(3), 70 Stat. 841; Pub. L. 89–97, title III, §313(c)(1), (2), July 30, 1965, 79 Stat. 382, 383; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–216, title III, §355(a), (b), Dec. 20, 1977, 91 Stat. 1555; Pub. L. 101–508, title V, §5124(a), Nov. 5, 1990, 104 Stat. 1388–284; Pub. L. 103–296, title III, §319(a)(3), Aug. 15, 1994, 108 Stat. 1534; Pub. L. 103–387, §2(a)(1)(D), Oct. 22, 1994, 108 Stat. 4072; Pub. L. 108–203, title IV, §424(b), Mar. 2, 2004, 118 Stat. 536; Pub. L. 111–148, title IX, §9015(a)(2), Mar. 23, 2010, 124 Stat. 871.)
 
-#### Amendment of Section
-
-<i>Pub. L. 111–148, title IX, §9015(a)(2), (c), Mar. 23, 2010, 124 Stat. 871, 872, provided that, applicable with respect to remuneration received, and taxable years beginning, after Dec. 31, 2012, this section is amended by adding at the end the following new subsection:</i>
-
-#### <i>(f) Special rules for additional tax</i>
-
-#### <i>(1) In general</i>
-
-&emsp;<i>In the case of any tax imposed by section 3101(b)(2), subsection (a) shall only apply to the extent to which the taxpayer receives wages from the employer in excess of $200,000, and the employer may disregard the amount of wages received by such taxpayer's spouse.</i>
-
-#### <i>(2) Collection of amounts not withheld</i>
-
-&emsp;<i>To the extent that the amount of any tax imposed by section 3101(b)(2) is not collected by the employer, such tax shall be paid by the employee.</i>
-
-#### <i>(3) Tax paid by recipient</i>
-
-&emsp;<i>If an employer, in violation of this chapter, fails to deduct and withhold the tax imposed by section 3101(b)(2) and thereafter the tax is paid by the employee, the tax so required to be deducted and withheld shall not be collected from the employer, but this paragraph shall in no case relieve the employer from liability for any penalties or additions to tax otherwise applicable in respect of such failure to deduct and withhold.</i>
-
 #### Amendments
+
+<b>2010</b>—Subsec. (f). Pub. L. 111–148 added subsec. (f).
 
 <b>2004</b>—Subsec. (a). Pub. L. 108–203 struck out “and the employee has not performed agricultural labor for the employer on 20 days or more in the calendar year for cash remuneration computed on a time basis” after “less than $150”.
 
@@ -116,7 +114,7 @@ Amendment by Pub. L. 111–148 applicable with respect to remuneration received,
 
 #### Effective Date of 1994 Amendments
 
-Section 2(a)(3) of Pub. L. 103–387 provided that:
+Pub. L. 103–387, §2(a)(3), Oct. 22, 1994, 108 Stat. 4072, provided that:
 
 “(A)
 
@@ -130,11 +128,11 @@ Amendment by Pub. L. 103–296 applicable with respect to service performed afte
 
 #### Effective Date of 1990 Amendment
 
-Section 5124(c) of Pub. L. 101–508 provided that: “The amendments made by this section \[amending this section and section 3202 of this title\] shall apply to coverage provided after December 31, 1990.”
+Pub. L. 101–508, title V, §5124(c), Nov. 5, 1990, 104 Stat. 1388–285, provided that: “The amendments made by this section \[amending this section and section 3202 of this title\] shall apply to coverage provided after December 31, 1990.”
 
 #### Effective Date of 1977 Amendment
 
-Section 355(c) of Pub. L. 95–216 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to remuneration paid and to tips received after December 31, 1977.”
+Pub. L. 95–216, title III, §355(c), Dec. 20, 1977, 91 Stat. 1555, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to remuneration paid and to tips received after December 31, 1977.”
 
 #### Effective Date of 1965 Amendment
 
@@ -142,7 +140,7 @@ Amendment by Pub. L. 89–97 applicable only with respect to tips received by em
 
 #### No Loss of Social Security Coverage for 1994; Continuation of W–2 Filing Requirement
 
-Section 2(a)(4) of Pub. L. 103–387 provided that: “Notwithstanding the amendments made by this subsection \[amending this section, section 3121 of this title, and sections 409 and 410 of Title 42, The Public Health and Welfare\], if the wages (as defined in section 3121(a) of the Internal Revenue Code of 1986) paid during 1994 to an employee for domestic service in a private home of the employer are less than $1,000—
+Pub. L. 103–387, §2(a)(4), Oct. 22, 1994, 108 Stat. 4072, provided that: “Notwithstanding the amendments made by this subsection \[amending this section, section 3121 of this title, and sections 409 and 410 of Title 42, The Public Health and Welfare\], if the wages (as defined in section 3121(a) of the Internal Revenue Code of 1986) paid during 1994 to an employee for domestic service in a private home of the employer are less than $1,000—
 
 &emsp;“(A) the employer shall file any return or statement required under section 6051 of such Code with respect to such wages (determined without regard to such amendments), and
 

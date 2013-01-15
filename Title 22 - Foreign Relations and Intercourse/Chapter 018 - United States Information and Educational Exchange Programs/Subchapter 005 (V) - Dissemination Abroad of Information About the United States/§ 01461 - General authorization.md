@@ -2,19 +2,47 @@
 
 #### (a) Dissemination of information abroad
 
-The Secretary is authorized, when he finds it appropriate, to provide for the preparation, and dissemination abroad, of information about the United States, its people, and its policies, through press, publications, radio, motion pictures, and other information media, and through information centers and instructors abroad. Subject to subsection (b) of this section, any such information (other than “Problems of Communism” and the “English Teaching Forum” which may be sold by the Government Printing Office) shall not be disseminated within the United States, its territories, or possessions, but, on request, shall be available in the English language at the Department of State, at all reasonable times following its release as information abroad, for examination only by representatives of United States press associations, newspapers, magazines, radio systems, and stations, and by research students and scholars, and, on request, shall be made available for examination only to Members of Congress.
+The Secretary and the Broadcasting Board of Governors are authorized to use funds appropriated or otherwise made available for public diplomacy information programs to provide for the preparation, dissemination, and use of information intended for foreign audiences abroad about the United States, its people, and its policies, through press, publications, radio, motion pictures, the Internet, and other information media, including social media, and through information centers, instructors, and other direct or indirect means of communication.
 
-#### (b) Dissemination of information within United States
+#### (b) Dissemination of information within the United States
 
-(1) The Director of the United States Information Agency shall make available to the Archivist of the United States, for domestic distribution, motion pictures, films, videotapes, and other material prepared for dissemination abroad 12 years after the initial dissemination of the material abroad or, in the case of such material not disseminated abroad, 12 years after the preparation of the material.
+(1) Except as provided in paragraph (2), the Secretary and the Broadcasting Board of Governors may, upon request and reimbursement of the reasonable costs incurred in fulfilling such a request, make available, in the United States, motion pictures, films, video, audio, and other materials disseminated abroad pursuant to this chapter, the United States International Broadcasting Act of 1994 (22 U.S.C. 6201 et seq.), the Radio Broadcasting to Cuba Act (22 U.S.C. 1465 et seq.), or the Television Broadcasting to Cuba Act (22 U.S.C. 1465aa et seq.). Any reimbursement pursuant to this paragraph shall be credited to the applicable appropriation account of the Department of State or the Broadcasting Board of Governors, as appropriate. The Secretary and the Broadcasting Board of Governors shall issue necessary regulations—
 
-(2) The Director of the United States Information Agency shall be reimbursed for any attendant expenses. Any reimbursement to the Director pursuant to this subsection shall be credited to the applicable appropriation of the United States Information Agency.
+&emsp;(A) to establish procedures to maintain such material;
 
-(3) The Archivist shall be the official custodian of the material and shall issue necessary regulations to ensure that persons seeking its release in the United States have secured and paid for necessary United States rights and licenses and that all costs associated with the provision of the material by the Archivist shall be paid by the persons seeking its release. The Archivist may charge fees to recover such costs, in accordance with section 2116(c) of title 44. Such fees shall be paid into, administered, and expended as part of the National Archives Trust Fund.
+&emsp;(B) for reimbursement of the reasonable costs incurred in fulfilling requests for such material; and
 
-(Jan. 27, 1948, ch. 36, title V, §501, 62 Stat. 9; Pub. L. 92–352, title II, §204, July 13, 1972, 86 Stat. 494; Pub. L. 96–60, title II, §208, Aug. 15, 1979, 93 Stat. 401; Pub. L. 101–246, title II, §202, Feb. 16, 1990, 104 Stat. 49.)
+&emsp;(C) to ensure that the persons seeking release of such material have secured and paid for necessary United States rights and licenses.
+
+(2) With respect to material disseminated abroad before the effective date of section 1078 of the National Defense Authorization Act for Fiscal Year 2013—
+
+&emsp;(A) the Secretary and the Broadcasting Board of Governors shall make available to the Archivist of the United States, for domestic distribution, motion pictures, films, videotapes, and other material 12 years after the initial dissemination of the material abroad; and
+
+&emsp;(B) the Archivist shall be the official custodian of the material and shall issue necessary regulations to ensure that persons seeking its release in the United States have secured and paid for necessary United States rights and licenses and that all costs associated with the provision of the material by the Archivist shall be paid by the persons seeking its release, in accordance with paragraph (4).
+
+(3) The Archivist may undertake the functions described in paragraph (1) on behalf of and at the request of the Secretary or the Broadcasting Board of Governors.
+
+(4) The Archivist may charge fees to recover the costs described in paragraphs (1) and (2), in accordance with section 2116(c) of title 44. Such fees shall be paid into, administered, and expended as part of the National Archives Trust Fund.
+
+#### (c) No requirement to provide material in different format
+
+Nothing in this section may be construed to require the Secretary or the Broadcasting Board of Governors to make material disseminated abroad available in any format other than in the format disseminated abroad.
+
+(Jan. 27, 1948, ch. 36, title V, §501, 62 Stat. 9; Pub. L. 92–352, title II, §204, July 13, 1972, 86 Stat. 494; Pub. L. 96–60, title II, §208, Aug. 15, 1979, 93 Stat. 401; Pub. L. 101–246, title II, §202, Feb. 16, 1990, 104 Stat. 49; Pub. L. 112–239, div. A, title X, §1078(a), Jan. 2, 2013, 126 Stat. 1957.)
+
+#### References in Text
+
+The United States International Broadcasting Act of 1994, referred to in subsec. (b)(1), is title III of Pub. L.103–236, Apr. 30, 1994, 108 Stat. 432, which is classified principally to chapter 71 (§6201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
+
+The Radio Broadcasting to Cuba Act, referred to in subsec. (b)(1), is Pub. L. 98–111, Oct. 4, 1983, 97 Stat. 749, which is classified generally to subchapter V–A (§1465 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1465 of this title and Tables.
+
+The Television Broadcasting to Cuba Act, referred to in subsec. (b)(1), is part D of title II of Pub. L. 101–246, Feb. 16, 1990, 104 Stat. 58, which is classified principally to subchapter V–B (§1465aa et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1465aa of this title and Tables.
+
+For the effective date of section 1078 of the National Defense Authorization Act for Fiscal Year 2013 \[Pub. L. 112–239\], referred to in subsec. (b)(2), see section 1078(e) of Pub. L. 112–239, set out as an Effective Date of 2013 Amendment note under section 1437 of this title.
 
 #### Amendments
+
+<b>2013</b>—Pub. L. 112–239 amended section generally. Prior to amendment, section provided general authorization to disseminate information about the United States abroad and domestically.
 
 <b>1990</b>—Pub. L. 101–246 designated existing provisions as subsec. (a), substituted “Subject to subsection (b) of this section, any such information” for “Any such information” in second sentence, and added subsec. (b).
 
@@ -22,13 +50,21 @@ The Secretary is authorized, when he finds it appropriate, to provide for the pr
 
 <b>1972</b>—Pub. L. 92–352 substituted provisions relating to the prohibition, except as otherwise provided, on the dissemination of information within the United States, its territories, or possessions, other than “Problems of Communism” which could continue to be sold at the Government Printing Office, for provisions relating to the availability of press release or radio scripts for examination by representatives of United States press associations, newspapers, magazines, radio systems, and stations, and, on request, Members of Congress.
 
+#### Effective Date of 2013 Amendment
+
+Amendment by Pub. L. 112–239 effective and applicable on the date that is 180 days after Jan. 2, 2013, see section 1078(e) of Pub. L. 112–239, set out as a note under section 1437 of this title.
+
+#### Rule of Construction
+
+Pub. L. 112–239, div. A, title X, §1078(b), Jan. 2, 2013, 126 Stat. 1958, provided that: “Nothing in this section \[amending this section and sections 1437, 1461–1a, and 1462 of this title and enacting provisions set out as a note under section 1437 of this title\], or in the United States Information and Educational Exchange Act of 1948 (22 U.S.C. 1431 et seq.), may be construed to affect the allocation of funds appropriated or otherwise made specifically available for public diplomacy or to authorize appropriations for Broadcasting Board of Governors programming other than for foreign audiences abroad.”
+
 #### Transfer of Functions
 
-United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
+United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), referred to in notes below, abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
 
 #### USIA Network for Dissemination of Information Concerning United States Programs To Combat Narcotics and Other Controlled Substances
 
-Section 210 of Pub. L. 101–246 provided that: “The United States Information Agency shall establish and maintain an international narcotics information network. The network shall disseminate prompt, accurate, and comprehensive information to foreign governments concerning programs and activities of the United States Government—
+Pub. L. 101–246, title II, §210, Feb. 16, 1990, 104 Stat. 54, provided that: “The United States Information Agency shall establish and maintain an international narcotics information network. The network shall disseminate prompt, accurate, and comprehensive information to foreign governments concerning programs and activities of the United States Government—
 
 &emsp;“(1) to eliminate the illicit production, trafficking, and abuse of narcotic and psychotropic drugs and other controlled substances within the United States; and
 
@@ -124,7 +160,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 #### Sec. 2. Director
 
-\[Repealed. Pub. L. 105–277, div. G, subdiv. A, title XIII, §1336(6), Oct. 21, 1998, 112 Stat. 2681–790. Section provided for appointment and responsibilities of Director of the Agency.\]
+\[Repealed. Pub. L. 105–277, div. G, subdiv. A, title XIII, §1336(6), Oct. 21, 1998, 112 Stat. 2681–790. Sectionprovided for appointment and responsibilities of Director of the Agency.\]
 
 #### Sec. 3. Deputy Director
 
@@ -194,13 +230,13 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 (b) The functions now vested in the United States Advisory Commission on Information and in the United States Advisory Commission on International Educational and Cultural Affairs under sections 601 through 603 and 801(6) of the United States Information and Educational Exchange Act of 1948, as amended (22 U.S.C. 1466–1468, 1471(6)), and under sections 106(b) and 107 of the Mutual Educational and Cultural Exchange Act of 1961, as amended (22 U.S.C. 2456(b), 2457), respectively, are hereby consolidated and vested in the Commission, as follows:
 
-The Commission shall formulate and recommend to the Director, the Secretary of State, and the President policies and programs to carry out the functions vested in the Director or the Agency, and shall appraise the effectiveness of policies and programs of the Agency. The Commission shall submit to the Congress, the President, the Secretary of State and the Director annual reports on programs and activities carried on by the Agency, including appraisals, where feasible, as to the effectiveness of the several programs. The Commission shall also include in such reports such recommendations as shall have been made by the Commission to the Director for effectuating the purposes of the Agency, and the action taken to carry out such recommendations. The Commission may also submit such other reports to the Congress as it deems appropriate, and shall make reports to the public in the United States and abroad to develop a better understanding of and support for the programs conducted by the Agency. The Commission's reports to the Congress shall include assessments of the degree to which the scholarly integrity and nonpolitical character of the educational and cultural exchange activities vested in the Director have been maintained, and assessments of the attitudes of foreign scholars and governments regarding such activities.
+The Commission shall formulate and recommend to the Director, the Secretary of State, and the President policies and programs to carry out the functions vested in the Director or the Agency, and shall appraise theeffectiveness of policies and programs of the Agency. The Commission shall submit to the Congress, the President, the Secretary of State and the Director annual reports on programs and activities carried on by the Agency, including appraisals, where feasible, as to the effectiveness of the several programs. The Commission shall also include in such reports such recommendations as shall have been made by the Commission to the Director for effectuating the purposes of the Agency, and the action taken to carry out such recommendations. The Commission may also submit such other reports to the Congress as it deems appropriate, and shall make reports to the public in the United States and abroad to develop a better understanding of and support for the programs conducted by the Agency. The Commission's reports to the Congress shall include assessments of the degree to which the scholarly integrity and nonpolitical character of the educational and cultural exchange activities vested in the Director have been maintained, and assessments of the attitudes of foreign scholars and governments regarding such activities.
 
 (c) The Commission shall have no authority with respect to the J. William Fulbright Foreign Scholarship Board or the United States National Commission for UNESCO. \[As amended Pub. L. 101–246, title II, §204(c), Feb. 16, 1990, 104 Stat. 50; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1334(b), Oct. 21, 1998, 112 Stat. 2681–786; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title IV, §404(a), (c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–446, 1501A–447; Pub. L. 107–77, title IV, §407(c), Nov. 28, 2001, 115 Stat. 790.\]
 
 \[Section 6553 of this title provided that the United States Advisory Commission on Public Diplomacy, established under section 8 of Reorganization Plan Numbered 2 of 1977, set out above, was to continue to exist and operate until Oct. 1, 2005.\]
 
-\[Any provisions of section 8 of Reorg. Plan No. 2 of 1977 inconsistent with 22 U.S.C. 1469 to no longer have legal effect on Jan. 20, 1989, and prohibition limiting membership of individuals from same political party is repealed, see 22 U.S.C. 1469(d).\]
+\[Any provisions of section 8 of Reorg. Plan No. 2 of 1977 inconsistent with 22 U.S.C. 1469 to no longer have legal effect on Jan. 20, 1989, and prohibition limiting membership of individuals from same political party is repealed, see \[former\] 22 U.S.C. 1469(d).\]
 
 \[United States Advisory Commission on International Communication, Cultural and Educational Affairs was redesignated the United States Advisory Commission on Public Diplomacy by 22 U.S.C. 1469.\]
 
@@ -226,7 +262,7 @@ The Commission shall formulate and recommend to the Director, the Secretary of S
 
 #### Sec. 10. Other Transfers
 
-So much of the personnel, property, records, and unexpended balances of appropriations, allocations and other funds employed, used, held, available, or to be made available in connection with the functions transferred or consolidated by this Reorganization Plan, as the Director of the Office of Management and Budget shall determine, shall be transferred to the appropriate department, agency, or commission at such time or times as the Director of the Office of Management andBudget shall provide, except that no such unexpended balances transferred shall be used for purposes other than those for which the appropriation was originally made. The Director of the Office of Management and Budget shall provide for terminating the affairs of all agencies, commissions, and offices abolished herein and for such further measures and dispositions as such Director deems necessary to effectuate the purposes of this Reorganization Plan.
+So much of the personnel, property, records, and unexpended balances of appropriations, allocations and other funds employed, used, held, available, or to be made available in connection with the functions transferred or consolidated by this Reorganization Plan, as the Director of the Office of Management and Budget shall determine, shall be transferred to the appropriate department, agency, or commission at such time or times as the Director of the Office of Management and Budget shall provide, except that no such unexpended balances transferred shall be used for purposes other than those for which the appropriation was originally made. The Director of the Office of Management and Budget shall provide for terminating the affairs of all agencies, commissions, and offices abolished herein and for such further measures and dispositions as such Director deems necessary to effectuate the purposes of this Reorganization Plan.
 
 #### Sec. 11. Effective Date
 
@@ -280,7 +316,7 @@ The Director of the new agency will assess and advise on the impact on worldwide
 
 It is not practicable to specify all of the expenditure reductions and other economies that will result from the proposed reorganization, and therefore I do not do so. The reorganization will result in greater efficiency by unifying in Washington the management of programs which are already administered in a consolidated manner in the field. For example, field officers will no longer report to two separate sets of supervisors and headquarters at home.
 
-This plan abolishes the functions of the Advisory Committee on the Arts authorized by section 106(c) ofthe Mutual Educational and Cultural Exchange Act of 1961, as amended (22 U.S.C. 2456(c)). Also abolished, as a result of the consolidation of certain functions of the United States Advisory Commission on Information and the United States Advisory Commission on International Educational and Cultural Affairs in the United States Advisory Commission on International Communication, Cultural and Educational Affairs, are the functions authorized by section 603 of the United States Information and Educational Exchange Act of 1948, as amended (22 U.S.C. 1468) (requiring submission by the United States Advisory Commission on Information of a quarterly report to the Director of USIA and a semiannual report to the Congress). The new commission will report annually and at such other times as it deems appropriate (as does the existing Advisory Commission on International Educational and Cultural Affairs). Since appointments of all members of the new commission will be on a nonpartisan basis, as has been the case with the Advisory Commission on International Educational and Cultural Affairs, the requirement of section 602(a) of the U.S. Information and Educational Exchange Act (22 U.S.C. 1467(a)) that not more than three members of the Advisory Commission on Information shall be of the same political party is abolished.
+This plan abolishes the functions of the Advisory Committee on the Arts authorized by section 106(c) of the Mutual Educational and Cultural Exchange Act of 1961, as amended (22 U.S.C. 2456(c)). Also abolished, as a result of the consolidation of certain functions of the United States Advisory Commission on Information and the United States Advisory Commission on International Educational and Cultural Affairs in the United States Advisory Commission on International Communication, Cultural and Educational Affairs, are the functions authorized by section 603 of the United States Information and Educational Exchange Act of 1948, as amended (22 U.S.C. 1468) (requiring submission by the United States Advisory Commission on Information of a quarterly report to the Director of USIA and a semiannual report to the Congress). The new commission will report annually and at such other times as it deems appropriate (as does the existing Advisory Commission on International Educational and Cultural Affairs). Since appointments of all members of the new commission will be on a nonpartisan basis, as has been the case with the Advisory Commission on International Educational and Cultural Affairs, the requirement of section 602(a) of the U.S. Information and Educational Exchange Act (22 U.S.C. 1467(a)) that not more than three members of the Advisory Commission on Information shall be of the same political party is abolished.
 
 Various obsolete or superseded functions under Reorganization Plan No. 8 of 1953 (22 U.S.C. 1461 note), which created the USIA, are superseded by this plan. Finally, the Plan abolishes a provision authorizing the Secretary of State to pay the expenses of transporting the bodies of participants in exchange programs who die away from home, since State no longer will conduct such programs (22 U.S.C. 2670(e)). All functions abolished by the reorganization are done so in compliance with section 903(b) of title 5 of the United States Code.
 
@@ -298,7 +334,7 @@ The White House, October 11, 1977.
 
 #### Ex. Ord. No. 12048. International Communication Agency
 
-Ex. Ord. No. 12048, Mar. 27, 1978, 43 F.R. 13361, as amended by Ex. Ord. No. 12388, Oct. 14, 1982, 47 F.R. 46245; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617, provided:
+Ex. Ord. No. 12048, Mar. 27, 1978, 43 F.R. 13361, as amended by Ex. Ord. No. 12388, Oct. 14, 1982, 47 F.R.46245; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617, provided:
 
 By virtue of the authority vested in me by the Constitution and laws of the United States of America, including Section 11 of Reorganization Plan No. 2 of 1977 (42 FR 62461 (December 13, 1977)) \[set out above\], Section 202 of the Budget and Accounting Procedures Act of 1950 (31 U.S.C. 581c) \[31 U.S.C. 1531\], and Section 301 of Title 3 of the United States Code, and as President of the United States of America, in order to provide for the establishment of the International Communication Agency, it is hereby ordered as follows:
 

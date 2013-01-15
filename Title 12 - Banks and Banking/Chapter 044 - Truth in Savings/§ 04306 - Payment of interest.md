@@ -20,5 +20,5 @@ Interest on accounts that are subject to this chapter shall begin to accrue not 
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–550 effective as if included in the Federal Deposit Insurance Corporation Improvement Act of 1991, Pub. L. 102–242, as of Dec. 19, 1991, see section 1609(a) of Pub. L. 102–550, set out as a note under section 191 of this title.
+Amendment by Pub. L. 102–550 effective as if included in the Federal Deposit Insurance Corporation Improvement Act of 1991, Pub. L. 102–242, as of Dec. 19, 1991, seesection 1609(a) of Pub. L. 102–550, set out as a note under section 191 of this title.
 

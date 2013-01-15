@@ -20,7 +20,7 @@ The Administrator is authorized to pay to each State and interstate agency each 
 
 &emsp;(1) the allotment of such State or agency for such fiscal year under subsection (b) of this section, or
 
-&emsp;(2) the reasonable costs as determined by the Administrator of developing and carrying outa pollution program by such State or agency during such fiscal year,
+&emsp;(2) the reasonable costs as determined by the Administrator of developing and carrying out a pollution program by such State or agency during such fiscal year,
 
 > which ever amount is the lesser.
 

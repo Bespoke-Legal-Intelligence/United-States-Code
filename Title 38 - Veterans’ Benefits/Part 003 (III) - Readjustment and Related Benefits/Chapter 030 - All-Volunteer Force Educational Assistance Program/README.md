@@ -49,11 +49,13 @@
 | [3033\.](Subchapter%20004%20%28IV%29%20-%20Time%20Limitation%20for%20Use%20of%20Eligibility%20and%20Entitlement%3B%20General%20and%20Administrative%20Provisions/%C2%A7%2003033%20-%20Bar%20to%20duplication%20of%20educational%20assistance%20benefits.md) | Bar to duplication of educational assistance benefits. |
 | [3034\.](Subchapter%20004%20%28IV%29%20-%20Time%20Limitation%20for%20Use%20of%20Eligibility%20and%20Entitlement%3B%20General%20and%20Administrative%20Provisions/%C2%A7%2003034%20-%20Program%20administration.md) | Program administration. |
 | [3035\.](Subchapter%20004%20%28IV%29%20-%20Time%20Limitation%20for%20Use%20of%20Eligibility%20and%20Entitlement%3B%20General%20and%20Administrative%20Provisions/%C2%A7%2003035%20-%20Allocation%20of%20administration%20and%20of%20program%20costs.md) | Allocation of administration and of program costs. |
-| [3036\.](Subchapter%20004%20%28IV%29%20-%20Time%20Limitation%20for%20Use%20of%20Eligibility%20and%20Entitlement%3B%20General%20and%20Administrative%20Provisions/%C2%A7%2003036%20-%20Reporting%20requirement.md) | Reporting requirement. |
+| \[3036. | Repealed.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2012</b>—Pub. L. 112–154, title IV, §402(b)(2), Aug. 6, 2012, 126 Stat. 1190, struck out item 3036 “Reporting requirement”.
 
 <b>2010</b>—Pub. L. 111–275, title X, §1001(f), Oct. 13, 2010, 124 Stat. 2896, added item 3020 and struck out former item 3020 “Authority to transfer unused education benefits to family members of career service members”.
 

@@ -22,7 +22,7 @@ Any revenues or other assets acquired by the Commission by donations, the lease 
 
 #### (f) Historical and cultural programs
 
-The Commission is authorized to carry out historical, educational, or cultural programswhich encourage or enhance appreciation of the historic resources in the Miami Valley associated with the Wright brothers, aviation, or the life and works of Paul Laurence Dunbar.
+The Commission is authorized to carry out historical, educational, or cultural programs which encourage or enhance appreciation of the historic resources in the Miami Valley associated with the Wright brothers, aviation, or the life and works of Paul Laurence Dunbar.
 
 #### (g) Technical and preservation assistance
 

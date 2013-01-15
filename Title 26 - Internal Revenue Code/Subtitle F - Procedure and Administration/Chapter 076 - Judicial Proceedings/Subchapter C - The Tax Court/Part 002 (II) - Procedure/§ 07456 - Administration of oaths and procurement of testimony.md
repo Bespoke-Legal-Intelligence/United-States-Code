@@ -10,7 +10,7 @@ For the efficient administration of the functions vested in the Tax Court or any
 
 #### (b) Production of records in the case of foreign corporations, foreign trusts or estates and nonresident alien individuals
 
-The Tax Court or any division thereof, upon motion and notice by the Secretary, and upon good cause shown therefor, shall order any foreign corporation, foreign trust or estate, or nonresident alien individual, who has filed a petition with the Tax Court, to produce, or, upon satisfactory proof to the Tax Court or any of its divisions, that the petitioner is unable to produce, to make available to the Secretary, and, in either case, to permit the inspection, copying, or photographing of, such books, records, documents, memoranda, correspondence and other papers, wherever situated, as the Tax Court or any division thereof, may deem relevant to the proceedings and which are in the possession, custody or control of the petitioner, or of any person directly or indirectly under hiscontrol or having control over him or subject to the same common control. If the petitioner fails or refuses to comply with any of the provisions of such order, after reasonable time for compliance has been afforded to him, the Tax Court or any division thereof, upon motion, shall make an order striking out pleadings or parts thereof, or dismissing the proceeding or any part thereof, or rendering a judgment by default against the petitioner. For the purpose of this subsection, the term “foreign trust or estate” includes an estate or trust, any fiduciary of which is a foreign corporation or nonresident alien individual; and the term “control” is not limited to legal control.
+The Tax Court or any division thereof, upon motion and notice by the Secretary, and upon good cause shown therefor, shall order any foreign corporation, foreign trust or estate, or nonresident alien individual, who has filed a petition with the Tax Court, to produce, or, upon satisfactory proof to the Tax Court or any of its divisions, that the petitioner is unable to produce, to make available to the Secretary, and, in either case, to permit the inspection, copying, or photographing of, such books, records, documents, memoranda, correspondence and other papers, wherever situated, as the Tax Court or any division thereof, may deem relevant to the proceedings and which are in the possession, custody or control of the petitioner, or of any person directly or indirectly under his control or having control over him or subject to the same common control. If the petitioner fails or refuses to comply with any of the provisions of such order, after reasonable time for compliance has been afforded to him, the Tax Court or any division thereof, upon motion, shall make an order striking out pleadings or parts thereof, or dismissing the proceeding or any part thereof, or rendering a judgment by default against the petitioner. For the purpose of this subsection, the term “foreign trust or estate” includes an estate or trust, any fiduciary of which is a foreign corporation or nonresident alien individual; and the term “control” is not limited to legal control.
 
 #### (c) Incidental powers
 
@@ -62,21 +62,21 @@ Subsec. (c). Pub. L. 95–600, §336(b)(1), inserted provision that the chief ju
 
 <b>1976</b>—Subsec. (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-<b>1969</b>—Subsec. (c). Pub. L. 91–172, §958, provided that commissioners be compensated at rates identical to those of commissioners of the United States Court of Claims, and substituted provisions authorizing the chief judge of the Tax Court to appoint Commissionersfor provisions authorizing attorneys from the legal staff of the Tax Court to act as Commissioners.
+<b>1969</b>—Subsec. (c). Pub. L. 91–172, §958, provided that commissioners be compensated at rates identical to those of commissioners of the United States Court of Claims, and substituted provisions authorizing the chief judge of the Tax Court to appoint Commissioners for provisions authorizing attorneys from the legal staff of the Tax Court to act as Commissioners.
 
 Subsec. (d). Pub. L. 91–172, §956, added subsec. (d).
 
 #### Effective Date of 1986 Amendment
 
-Section 1555(b) of Pub. L. 99–514 provided that: “The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 22, 1986\].”
+Pub. L. 99–514, title XV, §1555(b), Oct. 22, 1986, 100 Stat. 2754, provided that: “The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 22, 1986\].”
 
 Amendment by section 1556(b)(1) of Pub. L. 99–514 effective Oct. 22, 1986, except as otherwise provided, see section 1556(c) of Pub. L. 99–514, set out as an Effective Date note under section 7443A of this title.
 
 #### Effective Date of 1984 Amendment
 
-Section 463(b) of Pub. L. 98–369 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as if enacted as part of the Miscellaneous Revenue Act of 1982 \[Pub. L. 97–362\].”
+Pub. L. 98–369, div. A, title IV, §463(b), July 18, 1984, 98 Stat. 824, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as if enacted as part of the Miscellaneous Revenue Act of 1982 \[Pub. L. 97–362\].”
 
-Section 464(e)(1) of Pub. L. 98–369 provided that: “The amendments made by this section \[amending this section and section 7471 of this title and enacting provisions set out below\] shall take effect on the date of the enactment of this Act \[July 18, 1984\].”
+Pub. L. 98–369, div. A, title IV, §464(e)(1), July 18, 1984, 98 Stat. 825, provided that: “The amendments made by this section \[amending this section and section 7471 of this title and enacting provisions set out below\] shall take effect on the date of the enactment of this Act \[July 18, 1984\].”
 
 #### Effective Date of 1982 Amendments
 
@@ -86,7 +86,7 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 #### Effective Date of 1980 Amendment
 
-Section 105(b)(1) of Pub. L. 96–222 provided that: “The amendments made by subsection (a)(1) \[amending this section and section 7463 of this title\] shall take effect on the date of the enactment of this Act \[Apr. 1, 1980\].”
+Pub. L. 96–222, title I, §105(b)(1), Apr. 1, 1980, 94 Stat. 221, provided that: “The amendments made by subsection (a)(1) \[amending this section and section 7463 of this title\] shall take effect on the date of the enactment of this Act \[Apr. 1, 1980\].”
 
 #### Effective Date of 1978 Amendment
 
@@ -104,9 +104,9 @@ Pub. L. 110–177, title I, §102(c), Jan. 7, 2008, 121 Stat. 2535, provided tha
 
 #### References to Commissioners Deemed References to Special Trial Judges
 
-Section 464(e)(2) of Pub. L. 98–369 provided that: “Any reference in any law to a commissioner of the Tax Court shall be treated as a reference to a special trial judge of the Tax Court.”
+Pub. L. 98–369, div. A, title IV, §464(e)(2), July 18, 1984, 98 Stat. 825, provided that: “Any reference in any law to a commissioner of the Tax Court shall be treated as a reference to a special trial judge of the Tax Court.”
 
 #### Commissioners’ Salaries Pending Changes Under Federal Salary Act
 
-Section 153(b) of Pub. L. 97–164, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Notwithstanding the amendment made by subsection (a) \[amending this section\], until such time as a change in the salary rate of a commissioner of the United States Tax Court occurs in accordance with section 7456(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the salary of such commissioner shall be equal to the salary of a commissioner of the Court of Claims immediately prior to the effective date of this Act \[Oct. 1, 1982\].”
+Pub. L. 97–164, title I, §153(b), Apr. 2, 1982, 96 Stat. 47, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Notwithstanding the amendment made by subsection (a) \[amending this section\], until such time as a change in the salary rate of a commissioner of the United States Tax Court occurs in accordance with section 7456(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the salary of such commissioner shall be equal to the salary of a commissioner of the Court of Claims immediately prior to the effective date of this Act \[Oct. 1, 1982\].”
 

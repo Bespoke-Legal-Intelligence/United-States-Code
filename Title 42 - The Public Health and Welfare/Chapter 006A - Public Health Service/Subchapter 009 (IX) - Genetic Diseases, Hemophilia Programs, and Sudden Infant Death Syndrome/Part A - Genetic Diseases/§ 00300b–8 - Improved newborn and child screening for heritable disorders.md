@@ -2,7 +2,7 @@
 
 #### (a) Authorization of grant program
 
-From amounts appropriated under subsection (j), the Secretary, acting through the Administrator of the Health Resources and Services Administration (referred to in this section as the “Administrator”) and in consultation with the Advisory Committee on Heritable Disorders in Newborns and Children (referred to in this section as the “Advisory Committee”), shall award grants to eligible entities to enable such entities—
+From amounts appropriated under subsection (j), the Secretary, acting through the Administrator of the Health Resources and Services Administration (referred to in this section as the“Administrator”) and in consultation with the Advisory Committee on Heritable Disorders in Newborns and Children (referred to in this section as the “Advisory Committee”), shall award grants to eligible entities to enable such entities—
 
 &emsp;(1) to enhance, improve or expand the ability of State and local public health agencies to provide screening, counseling, or health care services to newborns and children having or at risk for heritable disorders;
 
@@ -84,7 +84,7 @@ Subsection (c)(2) of this section, referred to in subsec. (h)(1), (2), was struc
 
 #### Amendments
 
-<b>2008</b>—Subsecs. (a) to (c). Pub. L. 110–204, §2(1), added subsecs. (a) to (c) and struck out former subsecs. (a) to (c) which provided for grants to promote screening, counseling, or health care services to newborns and children having or at risk for heritable disorders, enumerated permissible uses of grants, and set out grant applicants’ eligibility requirements.
+<b>2008</b>—Subsecs. (a) to (c). Pub. L. 110–204, §2(1), added subsecs. (a) to (c) and struck out former subsecs. (a) to (c) which provided for grants to promote screening,counseling, or health care services to newborns and children having or at risk for heritable disorders, enumerated permissible uses of grants, and set out grant applicants’ eligibility requirements.
 
 Subsecs. (d) to (i). Pub. L. 110–204, §2(2), (3), added subsec. (d) and redesignated former subsecs. (d) to (h) as (e) to (i), respectively. Former subsec. (i) redesignated (j).
 

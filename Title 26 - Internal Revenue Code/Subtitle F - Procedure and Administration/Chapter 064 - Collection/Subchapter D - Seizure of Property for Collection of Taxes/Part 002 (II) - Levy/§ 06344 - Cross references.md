@@ -46,7 +46,7 @@ Amendment by Pub. L. 96–223 applicable to periods after Feb. 29, 1980, see sec
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1307(d)(2)(F)(v) of Pub. L. 94–455 effective on and after Oct. 4, 1976, see section1307(e) of Pub. L. 94–455, set out as a note under section 501 of this title.
+Amendment by section 1307(d)(2)(F)(v) of Pub. L. 94–455 effective on and after Oct. 4, 1976, see section 1307(e) of Pub. L. 94–455, set out as a note under section 501 of this title.
 
 #### Effective Date of 1974 Amendment
 

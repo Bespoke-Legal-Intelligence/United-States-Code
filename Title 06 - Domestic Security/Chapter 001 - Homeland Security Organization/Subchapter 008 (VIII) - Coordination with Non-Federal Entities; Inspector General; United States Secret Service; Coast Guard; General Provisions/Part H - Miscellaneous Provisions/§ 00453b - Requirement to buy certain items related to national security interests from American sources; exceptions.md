@@ -48,7 +48,7 @@ In this section, the term “United States” includes the possessions of the Un
 
 #### (i) Notification required within 7 days after contract award if certain exceptions applied
 
-In the case of any contract for the procurement of an item described in subsection (b)(1), if the Secretary of Homeland Security applies an exception set forth in subsection (c) with respectto that contract, the Secretary shall, not later than 7 days after the award of the contract, post a notification that the exception has been applied on the Internet site maintained by the General Services Administration known as FedBizOps.gov (or any successor site).
+In the case of any contract for the procurement of an item described in subsection (b)(1), if the Secretary of Homeland Security applies an exception set forth in subsection (c) with respect to that contract, the Secretary shall, not later than 7 days after the award of the contract, post a notification that the exception has been applied on the Internet site maintained by the General Services Administration known as FedBizOps.gov (or any successor site).
 
 #### (j) Training during fiscal year 2009
 
@@ -64,7 +64,7 @@ In the case of any contract for the procurement of an item described in subsecti
 
 This section shall be applied in a manner consistent with United States obligations under international agreements.
 
-#### (<i>l</i>) Effective date
+#### (l) Effective date
 
 This section applies with respect to contracts entered into by the Department of Homeland Security 180 days after February 17, 2009.
 

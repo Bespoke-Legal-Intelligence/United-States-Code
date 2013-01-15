@@ -32,25 +32,39 @@ Time for Notification.—Notification required under section 30118 of this title
 
 (d)
 
-Means of Providing Notification.—(1) Notification required under section 30118 of this title about a motor vehicle shall be sent by first class mail—
+Means of Providing Notification.—(1) Notification required under section 30118 of this title about a motor vehicle shall be sent in the manner prescribed by the Secretary, by regulation—
 
 &emsp;(A) to each person registered under State law as the owner and whose name and address are reasonably ascertainable by the manufacturer through State records or other available sources; or
 
 &emsp;(B) if a registered owner is not notified under clause (A) of this paragraph, to the most recent purchaser known to the manufacturer.
 
-(2) Notification required under section 30118 of this title about replacement equipment (except a tire) shall be sent by first class mail to the most recent purchaser known to the manufacturer. In addition, if the Secretary decides that public notice is required for motor vehicle safety, public notice shall be given in the way required by the Secretary after consulting with the manufacturer.
+(2) Notification required under section 30118 of this title about replacement equipment shall be sent in the manner prescribed by the Secretary, by regulation, to the most recent purchaser known to the manufacturer.
 
-(3) Notification required under section 30118 of this title about a tire shall be sent by first class mail (or, if the manufacturer prefers, by certified mail) to the most recent purchaser known to the manufacturer. In addition, if the Secretary decides that public notice is required for motor vehicle safety, public notice shall be given in the way required by the Secretary after consulting with the manufacturer. In deciding whether public notice is required, the Secretary shall consider—
+(3) In addition to the notification required under paragraphs (1) and (2), if the Secretary decides that public notice is required for motor vehicle safety, public notice shall be given by the manufacturer in the way required by the Secretary after consulting with the manufacturer. In deciding whether public notice is required, the Secretary shall consider—
 
 &emsp;(A) the magnitude of the risk to motor vehicle safety caused by the defect or noncompliance; and
 
 &emsp;(B) the cost of public notice compared to the additional number of owners the notice may reach.
 
-(4) A dealer to whom a motor vehicle or replacement equipment was delivered shall be notified by certified mail or quicker means if available.
+(4) A dealer to whom a motor vehicle or replacement equipment was delivered shall be notified in the manner prescribed by the Secretary, by regulation.
 
 (e)
 
-Second Notification.—If the Secretary decides that a notification sent by a manufacturer under this section has not resulted in an adequate number of motor vehicles or items of replacement equipment being returned for remedy, the Secretary may order the manufacturer to send a 2d notification in the way the Secretary prescribes by regulation.
+Additional Notification.—
+
+&emsp;(1)
+
+Second notification.—If the Secretary decides that a notification sent by a manufacturer under this section has not resulted in an adequate number of motor vehicles or items of replacement equipment being returned for remedy, the Secretary may order the manufacturer to send a 2d notification in the way the Secretary prescribes by regulation.
+
+&emsp;(2)
+
+Additional notifications.—If the Secretary determines, after taking into account the severity of the defect or noncompliance, that the second notification by a manufacturer does not result in an adequate number of motor vehicles or items of replacement equipment being returned for remedy, the Secretary may order the manufacturer—
+
+&emsp;&emsp;(A)(i) to send additional notifications in the manner prescribed by the Secretary, by regulation; or
+
+&emsp;&emsp;(ii) to take additional steps to locate and notify each person registered under State law as the owner or lessee or the most recent purchaser or lessee, as appropriate; and
+
+&emsp;&emsp;(B) to emphasize the magnitude of the safety risk caused by the defect or noncompliance in such notification.
 
 (f)
 
@@ -58,7 +72,7 @@ Notification by Lessor to Lessee.—(1) In this subsection, “leased motor vehi
 
 (2) A lessor that receives a notification required by section 30118 of this title about a leased motor vehicle shall provide a copy of the notification to the lessee in the way the Secretary prescribes by regulation.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 951.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 951; Pub. L. 112–141, div. C, title I, §31310, July 6, 2012, 126 Stat. 771.)
 
 Historical and Revision Notes
 
@@ -139,4 +153,20 @@ In subsection (d)(3), the words “(or, if the manufacturer prefers, by certifie
 In subsection (d)(4), the words “or dealers” are omitted because of 1:1. The words “of such manufacturer” are omitted as surplus.
 
 In subsection (e), the word “replacement” is added for clarity and consistency with the source provisions being restated in subsection (d) of this section.
+
+#### Amendments
+
+<b>2012</b>—Subsec. (d)(1). Pub. L. 112–141, §31310(a)(1), substituted “in the manner prescribed by the Secretary, by regulation” for “by first class mail” in introductory provisions.
+
+Subsec. (d)(2). Pub. L. 112–141, §31310(a)(2), substituted “shall be sent in the manner prescribed by the Secretary, by regulation,” for “(except a tire) shall be sent by first class mail” and struck out second sentence which read as follows: “In addition, if the Secretary decides that public notice is required for motor vehicle safety, public notice shall be given in the way required by the Secretary after consulting with the manufacturer.”
+
+Subsec. (d)(3). Pub. L. 112–141, §31310(a)(3), struck out first sentence which read “Notification required under section 30118 of this title about a tire shall be sent by first class mail (or, if the manufacturer prefers, by certified mail) to the most recent purchaser known to the manufacturer.” and inserted “to the notification required under paragraphs (1) and (2)” after “addition” and “by the manufacturer” after “given” in introductory provisions.
+
+Subsec. (d)(4). Pub. L. 112–141, §31310(a)(4), substituted “in the manner prescribed by the Secretary, by regulation” for “by certified mail or quicker means if available”.
+
+Subsec. (e). Pub. L. 112–141, §31310(b), substituted “Additional” for “Second” in subsec. heading, designated existing provisions as par. (1), inserted par. heading, and added par. (2).
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
 

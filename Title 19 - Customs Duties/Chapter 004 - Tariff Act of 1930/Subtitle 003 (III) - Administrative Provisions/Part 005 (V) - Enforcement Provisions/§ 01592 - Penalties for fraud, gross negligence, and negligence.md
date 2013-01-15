@@ -126,7 +126,7 @@
 
 #### (9) Prior disclosure regarding claims under the Dominican Republic-Central America-United States Free Trade Agreement
 
-&emsp;An importer shall not be subject to penalties under subsection (a) of this section for making an incorrect claim that a good qualifies as an originating good under section 4033 of this title if the importer, in accordance with regulations issued by the Secretary of the Treasury, promptly and voluntarily makes a corrected declaration and pays any duties owing.
+&emsp;An importer shall not be subject to penalties under subsection (a) of this section for making an incorrect claim that a good qualifies as anoriginating good under section 4033 of this title if the importer, in accordance with regulations issued by the Secretary of the Treasury, promptly and voluntarily makes a corrected declaration and pays any duties owing.
 
 #### (10) Prior disclosure regarding claims under the United States-Peru Trade Promotion Agreement
 
@@ -142,7 +142,7 @@
 
 #### (13) Prior disclosure regarding claims under the United States–Panama Trade Promotion Agreement
 
-&emsp;An importer shall not be subject to penalties under subsection (a) for making an incorrect claim that a good qualifies as an originatinggood under section 203 of the United States–Panama Trade Promotion Agreement Implementation Act if the importer, in accordance with regulations issued by the Secretary of the Treasury, promptly and voluntarily makes a corrected declaration and pays any duties owing with respect to that good.
+&emsp;An importer shall not be subject to penalties under subsection (a) for making an incorrect claim that a good qualifies as an originating good under section 203 of the United States–Panama Trade Promotion Agreement Implementation Act if the importer, in accordance with regulations issued by the Secretary of the Treasury, promptly and voluntarily makes a corrected declaration and pays any duties owing with respect to that good.
 
 #### (14) Seizure
 
@@ -176,7 +176,7 @@ Notwithstanding any other provision of law, in any proceeding commenced by the U
 
 &emsp;&emsp;(A) subsection (d) of this section does not apply, and
 
-&emsp;&emsp;(B) subsection (c)(5) of this section applies only if the person voluntarily and promptly provides, to all persons to whom the person provided the NAFTA Certificate of Origin, written notice of the falsity of the Certificate.
+&emsp;&emsp;(B) subsection (c)(5) of this section applies only if the person voluntarily and promptly provides, to all persons to whom the person provided the NAFTA Certificate of Origin,written notice of the falsity of the Certificate.
 
 #### (3) Exception
 
@@ -244,7 +244,7 @@ Notwithstanding any other provision of law, in any proceeding commenced by the U
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), it is unlawful for any person to certify falsely, by fraud, gross negligence, or negligence, in a KFTA certification of origin (as defined in section 1508 of this title) that a good exported from the United States qualifies as an originating good under the rules of origin provided for in section 202 of the United States–Korea Free Trade Agreement Implementation Act. The procedures and penalties of this section that apply to a violation of subsection (a) also apply to a violation of this subsection.
+&emsp;Subject to paragraph (2), it is unlawful for any person to certify falsely, by fraud, grossnegligence, or negligence, in a KFTA certification of origin (as defined in section 1508 of this title) that a good exported from the United States qualifies as an originating good under the rules of origin provided for in section 202 of the United States–Korea Free Trade Agreement Implementation Act. The procedures and penalties of this section that apply to a violation of subsection (a) also apply to a violation of this subsection.
 
 #### (2) Prompt and voluntary disclosure of incorrect information
 
@@ -276,7 +276,7 @@ Notwithstanding any other provision of law, in any proceeding commenced by the U
 
 &emsp;&emsp;(B) the person promptly and voluntarily provides written notice of the change in circumstances to all persons to whom the person provided the certification.
 
-#### (<i>l</i>) False certifications of origin under the United States–Panama Trade Promotion Agreement
+#### (l) False certifications of origin under the United States–Panama Trade Promotion Agreement
 
 #### (1) In general
 
@@ -328,7 +328,7 @@ Section 202 of the United States–Korea Free Trade Agreement Implementation Act
 
 Section 203 of the United States–Colombia Trade Promotion Agreement Implementation Act, referred to in subsecs. (c)(12) and (k)(1), is section 203 of Pub. L. 112–42, which is set out in a note under section 3805 of this title.
 
-Section 203 of the United States–Panama Trade Promotion Agreement Implementation Act, referred to in subsecs. (c)(13) and (<i>l</i>)(1), is section 203 of Pub. L. 112–43, which is set out in a note under section 3805 of this title.
+Section 203 of the United States–Panama Trade Promotion Agreement Implementation Act, referred to in subsecs. (c)(13) and (l)(1), is section 203 of Pub. L. 112–43, which is set out in a note under section 3805 of this title.
 
 #### Prior Provisions
 
@@ -360,7 +360,7 @@ Subsec. (j). Pub. L. 112–41, §§107(c), 204(a)(2), temporarily added subsec. 
 
 Subsec. (k). Pub. L. 112–42, §§107(c), 205(a)(2), temporarily added subsec. (k). See Effective and Termination Dates of 2011 Amendment note below.
 
-Subsec. (<i>l</i>). Pub. L. 112–43, §§107(c), 205(a)(2), temporarily added subsec. (<i>l</i>). See Effective and Termination Dates of 2011 Amendment note below.
+Subsec. (l). Pub. L. 112–43, §§107(c), 205(a)(2), temporarily added subsec. (l). See Effective and Termination Dates of 2011 Amendment note below.
 
 <b>2007</b>—Subsec. (c)(10), (11). Pub. L. 110–138, §§107(c), 205(a)(1), temporarily added par. (10) and redesignated former par. (10) as (11). See Effective and Termination Dates of 2007 Amendment note below.
 
@@ -426,9 +426,9 @@ Subsec. (f). Pub. L. 103–182, §205(c)(2), added subsec. (f).
 
 #### Effective and Termination Dates of 2011 Amendment
 
-Amendment by Pub. L. 112–43 effective Oct. 21, 2011, applicable with respect to Panama on the date the United States–Panama Trade Promotion Agreement enters into force, and to cease to be effective on the date the Agreement terminates, see section 107(b), (c) of Pub. L. 112–43, set out in a note under section 3805 of this title.
+Amendment by Pub. L. 112–43 effective Oct. 21, 2011, applicable with respect to Panama on the date the United States–Panama Trade Promotion Agreement enters into force (Oct. 31, 2012), and to cease to be effective on the date the Agreement terminates, see section 107(b), (c) of Pub. L. 112–43, set out in a note under section 3805 of this title.
 
-Amendment by Pub. L. 112–42 effective Oct. 21, 2011, applicable with respect to Colombia on the date the United States–Columbia Trade Promotion Agreement enters into force, and to cease to be effective on the date the Agreement terminates, see section 107(b), (c) of Pub. L. 112–42, set out in a note under section 3805 of this title.
+Amendment by Pub. L. 112–42 effective Oct. 21, 2011, applicable with respect to Colombia on the date the United States–Colombia Trade Promotion Agreement enters into force (May 15, 2012), and to cease to be effective on the date the Agreement terminates, see section 107(b), (c) of Pub. L. 112–42, set out in a note under section 3805 of this title.
 
 Amendment by Pub. L. 112–41 effective Oct. 21, 2011, applicable with respect to Korea on the date the United States–Korea Free Trade Agreement enters into force (Mar. 15, 2012), and to cease to be effective on the date the Agreement terminates, see section 107(b), (c) of Pub. L. 112–41, set out in a note under section 3805 of this title.
 
@@ -442,7 +442,7 @@ Amendment by Pub. L. 109–53 effective on the date the Dominican Republic-Centr
 
 #### Effective and Termination Dates of 2004 Amendment
 
-Amendment by Pub. L. 108–286 effective on the date on which the United States-Australia Free Trade Agreement enters into force (Jan. 1, 2005) and to cease to be effective on the date on which the Agreement terminates, see section 106(a), (c) of Pub. L. 108–286, set out in a note under section 3805 of this title.
+Amendment by Pub. L. 108–286 effective on the date on which the United States-Australia Free Trade Agreement enters into force (Jan. 1, 2005) and to ceaseto be effective on the date on which the Agreement terminates, see section 106(a), (c) of Pub. L. 108–286, set out in a note under section 3805 of this title.
 
 #### Effective and Termination Dates of 2003 Amendments
 
@@ -464,7 +464,7 @@ Amendment by Pub. L. 96–417 applicable with respect to civil actions commenced
 
 #### Effective Date of 1978 Amendment
 
-Section 110(f) of Pub. L. 95–410 provided that:
+Pub. L. 95–410, title I, §110(f), Oct. 3, 1978, 92 Stat. 897, provided that:
 
 “(1)(A) Except as provided in subparagraphs (B) and (C), subsections (a), (b), and (c) (other than new subsection (e) of section 592 of the Tariff Act of 1930 as added by subsection (a)) \[subsec. (a), (b), and (c), not including (e) of this section\] shall be effective with respect to proceedings commenced after the 89th day after the date of enactment of this Act \[Oct. 3, 1978\].
 

@@ -22,7 +22,7 @@ Consistent with subsection (a) of this section, coordination of activities relat
 
 #### (c) International economic activities
 
-Consistent with subsection (a) of this section, coordination of activities relating to United States participation in international financial institutions and relating to organization of multilateral efforts aimed at currency stabilization, currency convertibility, debt reduction, and comprehensive economic reform programs shall continue to be primarily the responsibility of the Secretary of the Treasury, in the Secretary's role as Chair of the National Advisory Council on International Monetary and Financial Policies and as the United States Governor of the international financial institutions.
+Consistent with subsection (a) of this section, coordination of activities relating to UnitedStates participation in international financial institutions and relating to organization of multilateral efforts aimed at currency stabilization, currency convertibility, debt reduction, and comprehensive economic reform programs shall continue to be primarily the responsibility of the Secretary of the Treasury, in the Secretary's role as Chair of the National Advisory Council on International Monetary and Financial Policies and as the United States Governor of the international financial institutions.
 
 #### (d) Accountability for funds
 
@@ -186,11 +186,11 @@ Pub. L. 107–115, title II \[(g)(2)–(6)\], Jan. 10, 2002, 115 Stat. 2129, pro
 
 \[Functions of President under subsecs. (g)(4) and (6) of title II of Pub. L. 107–115, set out above, delegated to Secretary of State by section 1–100(a)(13) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.\]
 
-Section 907 of Pub. L. 102–511 provided that: “United States assistance under this or any other Act (other than assistance under title V of this Act \[22 U.S.C. 5851 et seq.\]) may not be provided to the Government of Azerbaijan until the President determines, and so reports to the Congress, that the Government of Azerbaijan is taking demonstrable steps to cease all blockades and other offensive uses of force against Armenia and Nagorno-Karabakh.”
+Pub. L. 102–511, title IX, §907, Oct. 24, 1992, 106 Stat. 3357, provided that: “United States assistance under this or any other Act (other than assistance under title V of this Act \[22 U.S.C. 5851 et seq.\]) may not be provided to the Government of Azerbaijan until the President determines, and so reports to the Congress, that the Government of Azerbaijan is taking demonstrable steps to cease all blockades and other offensive uses of force against Armenia and Nagorno-Karabakh.”
 
 #### Support for Macroeconomic Stabilization in Independent States of Former Soviet Union
 
-Section 1004 of Pub. L. 102–511 provided that:
+Pub. L. 102–511, title X, §1004, Oct. 24, 1992, 106 Stat. 3360, provided that:
 
 “(a)
 
@@ -206,7 +206,7 @@ Study of the Need for and Feasibility of a Currency Stabilization Fund for Ukrai
 
 #### Report on Debt of Former Soviet Union Held by Commercial Financial Institutions
 
-Section 1007 of Pub. L. 102–511 directed Secretary of the Treasury, using information available from the International Monetary Fund, the International Bank for Reconstruction and Development, and other appropriate international financial institutions, to report to Congress, not later than one year after Oct. 24, 1992, on the debt incurred by the former Soviet Union that is held by commercial financial institutions outside the independent states of the former Soviet Union that are obligated on such debt.
+Pub. L. 102–511, title X, §1007, Oct. 24, 1992, 106 Stat. 3361, directed Secretary of the Treasury, using information available from the International Monetary Fund, the International Bank for Reconstruction and Development, and other appropriate international financial institutions, to report to Congress, not later than one year after Oct. 24, 1992, on the debt incurred by the former Soviet Union that is held by commercial financial institutions outside the independent states of the former Soviet Union that are obligated on such debt.
 
 #### Ex. Ord. No. 12884. Delegation of Functions Under Freedom Support Act and Related Provisions of Foreign Operations, Export Financing and Related Programs Appropriations Act
 

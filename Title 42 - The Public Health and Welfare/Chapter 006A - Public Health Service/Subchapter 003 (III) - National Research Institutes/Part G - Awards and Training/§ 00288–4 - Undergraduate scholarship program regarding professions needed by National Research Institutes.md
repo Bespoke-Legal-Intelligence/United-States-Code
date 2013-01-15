@@ -20,7 +20,7 @@
 
 #### (b) Facilitation of interest of students in careers at National Institutes of Health
 
-In providing employment to individuals pursuant to contracts under subsection (a)(1) of thissection, the Director of NIH shall carry out activities to facilitate the interest of the individuals in pursuing careers as employees of the National Institutes of Health.
+In providing employment to individuals pursuant to contracts under subsection (a)(1) of this section, the Director of NIH shall carry out activities to facilitate the interest of the individuals in pursuing careers as employees of the National Institutes of Health.
 
 #### (c) Period of obligated service
 
@@ -72,7 +72,7 @@ In providing employment to individuals pursuant to contracts under subsection (a
 
 #### (e) Penalties for breach of scholarship contract
 
-The provisions of section 254<i>o</i> of this title shall apply to the program established in subsection (a) of this section to the same extent and in the same manner as such provisions apply to the National Health Service Corps Loan Repayment Program established in section 254<i>l</i>–1 of this title.
+The provisions of section 254o of this title shall apply to the program established in subsection (a) of this section to the same extent and in the same manner as such provisions apply to the National Health Service Corps Loan Repayment Program established in section 254l–1 of this title.
 
 #### (f) Requirement of application
 

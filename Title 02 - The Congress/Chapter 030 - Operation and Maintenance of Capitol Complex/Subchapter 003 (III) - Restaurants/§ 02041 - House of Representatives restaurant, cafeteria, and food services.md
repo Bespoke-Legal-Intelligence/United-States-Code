@@ -14,7 +14,7 @@ All authority, responsibility, and functions vested in or imposed upon the Archi
 
 #### (d) Effective date
 
-The provisions of this section shall become effective on the first day of the first calendar month beginning after the date of adoption of this resolution, until otherwise provided by law.
+The provisions of this section shall become effective on the first day of the first calendarmonth beginning after the date of adoption of this resolution, until otherwise provided by law.
 
 (Pub. L. 92–51, July 9, 1971, 85 Stat. 133; Pub. L. 104–186, title II, §221(3)(A), Aug. 20, 1996, 110 Stat. 1748.)
 
@@ -46,7 +46,7 @@ Pub. L. 104–53, title I, §107A, Nov. 19, 1995, 109 Stat. 522, as amended by P
 
 “(b) The account referred to in subsection (a) is the special deposit account established for the House of Representatives Restaurant by section 208 of the First Supplemental Civil Functions Appropriation Act, 1941 (40 U.S.C. 174k note) \[former 40 U.S.C. 174k\].”
 
-\[Pub. L. 104–197, title I, §101(b), Sept. 16, 1996, 110 Stat. 2401, provided that: “The amendments made bysubsection (a) \[amending section 107A of Pub. L. 104–53, set out above\] shall apply with respect to fiscal years beginning after September 30, 1996.”\]
+\[Pub. L. 104–197, title I, §101(b), Sept. 16, 1996, 110 Stat. 2401, provided that: “The amendments made by subsection (a) \[amending section 107A of Pub. L. 104–53, set out above\] shall apply with respect to fiscal years beginning after September 30, 1996.”\]
 
 #### Transfer of Food Service Operations; Election by Certain Affected Employees; Disability and Retirement Benefits; Promulgation of Regulations
 

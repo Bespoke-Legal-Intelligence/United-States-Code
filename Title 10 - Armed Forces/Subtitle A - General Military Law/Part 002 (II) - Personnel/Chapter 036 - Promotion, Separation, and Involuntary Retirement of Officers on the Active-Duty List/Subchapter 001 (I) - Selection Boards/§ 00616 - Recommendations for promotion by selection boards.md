@@ -10,7 +10,7 @@
 
 &emsp;(2) a majority of the members of the board finds that the officer is fully qualified for promotion; and
 
-&emsp;(3) a majority of the members of the board, after consideration by all members of the board of any adverse information about the officer that is provided to the board under section 615 of this title, finds that the officer is among the officers best qualified for promotion to meet the needs of the armed force concerned consistent with the requirement of exemplary conduct set forth in section 3583, 5947, or 8583 of this title, as applicable.
+&emsp;(3) a majority of the members of the board, after consideration by all members of the board of any adverse information about the officer that is provided to the board under section 615 of this title, finds that the officer is among the officers best qualified for promotion to meet the needs of the armed force concerned consistent with the requirement ofexemplary conduct set forth in section 3583, 5947, or 8583 of this title, as applicable.
 
 (d) Except as otherwise provided by law, an officer on the active-duty list may not be promoted to a higher grade under this chapter unless he is considered and recommended for promotion to that grade by a selection board convened under this chapter.
 

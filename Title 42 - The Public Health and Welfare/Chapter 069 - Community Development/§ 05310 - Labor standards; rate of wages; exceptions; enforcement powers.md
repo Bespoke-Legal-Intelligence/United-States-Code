@@ -12,7 +12,7 @@
 
 &emsp;(3) is not otherwise employed at any time in the construction work.
 
-(Pub. L. 93–383, title I, §110, Aug. 22, 1974, 88 Stat. 649; Pub. L. 97–35, title III, §309(j), Aug. 13,1981, 95 Stat. 397; Pub. L. 100–242, title V, §523, Feb. 5, 1988, 101 Stat. 1939; Pub. L. 101–625, title IX, §955(a), Nov. 28, 1990, 104 Stat. 4420.)
+(Pub. L. 93–383, title I, §110, Aug. 22, 1974, 88 Stat. 649; Pub. L. 97–35, title III, §309(j), Aug. 13, 1981, 95 Stat. 397; Pub. L. 100–242, title V, §523, Feb. 5, 1988, 101 Stat. 1939; Pub. L. 101–625, title IX, §955(a), Nov. 28, 1990, 104 Stat. 4420.)
 
 #### References in Text
 

@@ -14,9 +14,9 @@ Membership.—(1) The Board shall consist of 3 members, to be appointed by the P
 
 (4) On January 1, 1996, the members of the Interstate Commerce Commission serving unexpired terms on December 29, 1995, shall become members of the Board, to serve for a period of time equal to the remainder of the term for which they were originally appointed to the Interstate Commerce Commission. Any member of the Interstate Commerce Commission whose term expires on December 31, 1995, shall become a member of the Board, subject to paragraph (3).
 
-(5) No individual may serve as a member of the Board for more than 2 terms. In the case of an individual who becomes a member of the Board pursuant to paragraph (4), or an individual appointed to fill a vacancy occurring before the expiration of the term for which the predecessor of that individual was appointed, such individual may not be appointed for more than one additional term.
+(5) No individual may serve as a member of the Board for more than 2 terms. In the case of an individual who becomes a member of the Board pursuant to paragraph (4), or an individual appointed to fill a vacancy occurring before the expiration of the term for which the predecessor of that individual was appointed, such individualmay not be appointed for more than one additional term.
 
-(6) A member of the Board may not have a pecuniary interest in, hold an official relation to,or own stock in or bonds of, a carrier providing transportation by any mode and may not engage in another business, vocation, or employment.
+(6) A member of the Board may not have a pecuniary interest in, hold an official relation to, or own stock in or bonds of, a carrier providing transportation by any mode and may not engage in another business, vocation, or employment.
 
 (7) A vacancy in the membership of the Board does not impair the right of the remaining members to exercise all of the powers of the Board. The Board may designate a member to act as Chairman during any period in which there is no Chairman designated by the President.
 
@@ -44,11 +44,11 @@ Chairman.—(1) There shall be at the head of the Board a Chairman, who shall be
 
 #### Effective Date
 
-Section 2 of Pub. L. 104–88 provided that: “Except as otherwise provided in this Act \[see Tables for classification\], this Act shall take effect on January 1, 1996.”
+Pub. L. 104–88, §2, Dec. 29, 1995, 109 Stat. 804, provided that: “Except as otherwise provided in this Act \[see Tables for classification\], this Act shall take effect on January 1, 1996.”
 
 #### Savings Provision
 
-Section 204 of Pub. L. 104–88 provided that:
+Pub. L. 104–88, title II, §204, Dec. 29, 1995, 109 Stat. 941, provided that:
 
 “(a)
 
@@ -84,7 +84,7 @@ Suits.—(1) This Act shall not affect suits commenced before the date of the en
 
 “(d)
 
-Continuance of Actions Against Officers.—No suit, action, or other proceeding commenced by or against any officer in his official capacity as an officer of the Interstate Commerce Commission shall abate byreason of the enactment of this Act. No cause of action by or against the Interstate Commerce Commission, or by or against any officer thereof in his official capacity, shall abate by reason of enactment of this Act.
+Continuance of Actions Against Officers.—No suit, action, or other proceeding commenced by or against any officer in his official capacity as an officer of the Interstate Commerce Commission shall abate by reason of the enactment of this Act. No cause of action by or against the Interstate Commerce Commission, or by or against any officer thereof in his official capacity, shall abate by reason of enactment of this Act.
 
 “(e)
 
@@ -92,15 +92,15 @@ Exercise of Authorities.—Except as otherwise provided by law, an officer or em
 
 #### Abolition of Interstate Commerce Commission
 
-Section 101 of Pub. L. 104–88 provided that: “The Interstate Commerce Commission is abolished.”
+Pub. L. 104–88, title I, §101, Dec. 29, 1995, 109 Stat. 804, provided that: “The Interstate Commerce Commission is abolished.”
 
 #### Organization of Functions of Surface Transportation Board
 
-Section 202 of title II of Pub. L. 104–88 provided that: “The Chairman of the Surface Transportation Board (in this Act \[see Tables for classification\] referred to as the ‘Board’) may allocate or reallocate any function of the Board, consistent with this title \[see Tables for classification\] and subchapter I of chapter 7 \[49 U.S.C. 701 et seq.\], as amended by section 201 of this title, among the members or employees of the Board, and may establish, consolidate, alter, or discontinue in the Board any organizational entities that were entities of the Interstate Commerce Commission, as the Chairman considers necessary or appropriate.”
+Pub. L. 104–88, title II, §202, Dec. 29, 1995, 109 Stat. 940, provided that: “The Chairman of the Surface Transportation Board (in this Act \[see Tables for classification\] referred to as the ‘Board’) may allocate or reallocate any function of the Board, consistent with this title \[see Tables for classification\] and subchapter I of chapter 7 \[49 U.S.C. 701 et seq.\], as amended by section 201 of this title, among the members or employees of the Board, and may establish, consolidate, alter, or discontinue in the Board any organizational entities that were entities of the Interstate Commerce Commission, as the Chairman considers necessary or appropriate.”
 
 #### Transfer of Assets and Personnel
 
-Section 203 of Pub. L. 104–88 provided that:
+Pub. L. 104–88, title II, §203, Dec. 29, 1995, 109 Stat. 941, provided that:
 
 “(a)
 
@@ -116,5 +116,5 @@ Separated Employees.—Notwithstanding all other laws and regulations, the Depar
 
 #### References to Interstate Commerce Commission Deemed To Be References to Surface Transportation Board
 
-Section 205 of Pub. L. 104–88 provided that: “Any reference to the Interstate Commerce Commission in any other Federal law, Executive order, rule, regulation, or delegation of authority, or any document of or pertaining to the Interstate Commerce Commission or an officer or employee of the Interstate Commerce Commission, is deemed to refer to the Board \[Surface Transportation Board\], a member or employee of the Board, or the Secretary, as appropriate.”
+Pub. L. 104–88, title II, §205, Dec. 29, 1995, 109 Stat. 943, provided that: “Any reference to the Interstate Commerce Commission in any other Federal law, Executive order, rule, regulation, or delegation of authority, or any document of or pertaining to the Interstate Commerce Commission or an officer or employee of the Interstate Commerce Commission, is deemed to refer to the Board \[Surface Transportation Board\], a member or employee of the Board, or the Secretary, as appropriate.”
 

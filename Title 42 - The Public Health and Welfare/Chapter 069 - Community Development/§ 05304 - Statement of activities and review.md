@@ -16,7 +16,7 @@
 
 &emsp;(E) provide citizens or, as appropriate, units of general local government with reasonable notice of, and opportunity to comment on, any substantial change proposed to be made in the use of funds received under section 5306 of this title from one eligible activity to another or in the method of distribution of such funds.
 
-> In preparing the final statement, the grantee shall consider any such comments and views and may, if deemed appropriate by the grantee, modify the proposed statement. The final statement shall be made available to the public, and a copy shall be furnished to the Secretary together with the certifications required under subsection (b) of this section and, where appropriate, subsection (c) of this section. Any final statement of activities may be modified or amended from time to time by the grantee in accordance with the same procedures required inthis paragraph for the preparation and submission of such statement.
+> In preparing the final statement, the grantee shall consider any such comments and views and may, if deemed appropriate by the grantee, modify the proposed statement. The final statement shall be made available to the public, and a copy shall be furnished to the Secretary together with the certifications required under subsection (b) of this section and, where appropriate, subsection (c) of this section. Any final statement of activities may be modified or amended from time to time by the grantee in accordance with the same procedures required in this paragraph for the preparation and submission of such statement.
 
 (3) A grant under section 5306 of this title may be made only if the grantee certifies that it is following a detailed citizen participation plan which—
 
@@ -46,7 +46,7 @@ Any grant under section 5306 of this title shall be made only if the grantee cer
 
 &emsp;(4) it has developed a community development plan pursuant to subsection (m) of this section, for the period specified by the grantee under paragraph (3), that identifies community development needs and specifies both short- and long-term community development objectives that have been developed in accordance with the primary objective and requirements of this chapter;
 
-&emsp;(5) the grantee will not attempt to recover any capital costs of public improvements assisted in whole or part under section 5306 of this title or with amounts resulting from a guarantee under section 5308 of this title by assessing any amount against properties owned and occupied by persons of low and moderate income, including any fee charged or assessment made as a condition of obtaining access to such public improvements, unless (A) funds received under section 5306 of this title are used to pay the proportion of such fee or assessment that relates to the capital costs of such public improvements that are financed from revenue sources other than under this chapter; or (B) for purposes of assessing any amount against properties owned and occupied by persons of moderate income, the grantee certifies to the Secretary that it lacks sufficient funds received under section 5306 of this title to comply with the requirements of subparagraph (A); and
+&emsp;(5) the grantee will not attempt to recover any capital costs of public improvements assisted in whole or part under section 5306 of this title or with amounts resulting from a guarantee under section 5308 of this title by assessing any amount against properties owned and occupied by persons of low and moderate income, including any fee charged orassessment made as a condition of obtaining access to such public improvements, unless (A) funds received under section 5306 of this title are used to pay the proportion of such fee or assessment that relates to the capital costs of such public improvements that are financed from revenue sources other than under this chapter; or (B) for purposes of assessing any amount against properties owned and occupied by persons of moderate income, the grantee certifies to the Secretary that it lacks sufficient funds received under section 5306 of this title to comply with the requirements of subparagraph (A); and
 
 &emsp;(6) the grantee will comply with the other provisions of this chapter and with other applicable laws.
 
@@ -94,7 +94,7 @@ A grant may be made under section 5306(b) of this title only if the unit of gene
 
 #### (e) Submission of performance and evaluation report by grantee to Secretary; contents; availability for citizen comment; annual review and audit by Secretary of program implementation; adjustments in amount of annual grants
 
-Each grantee shall submit to the Secretary, at a time determined by the Secretary, a performance and evaluation report concerning the use of funds made available under section 5306 of this title, together with an assessment by the grantee of the relationship of such use to the objectives identified in the grantee's statement under subsection (a) of this section and to the requirements of subsection (b)(3) of this section. Such report shall also be made available to the citizens in each grantee's jurisdiction in sufficient time to permit such citizens to comment on such report prior to its submission, and in such manner and at such times as the grantee may determine. The grantee's report shall indicate its programmatic accomplishments, the nature of and reasons for changes in the grantee's program objectives, indications of how the grantee would change its programs as a result of its experiences, and an evaluation of the extent to which its funds were used for activities that benefited low- and moderate-income persons. The report shall include a summary of any comments received by the grantee from citizens in its jurisdiction respecting its program. The Secretary shall encourage and assist national associations of grantees eligible under section 5306(d)(2)(B) of this title, national associations of States, and national associations of units of general local government in nonentitlement areas to develop and recommend to the Secretary, within one year after November 30, 1983,uniform recordkeeping, performance reporting, and evaluation reporting, and auditing requirements for such grantees, States, and units of general local government, respectively. Based on the Secretary's approval of these recommendations, the Secretary shall establish such requirements for use by such grantees, States, and units of general local government. The Secretary shall, at least on an annual basis, make such reviews and audits as may be necessary or appropriate to determine—
+Each grantee shall submit to the Secretary, at a time determined by the Secretary, a performance and evaluation report concerning the use of funds made available under section 5306 of this title, together with an assessment by the grantee of the relationship of such use to the objectives identified in the grantee's statement under subsection (a) of this section and to the requirements of subsection (b)(3) of this section. Such report shall also be made available to the citizens in each grantee's jurisdiction in sufficient time to permit such citizens to comment on such report prior to its submission, and in such manner and at such times as the grantee may determine. The grantee's report shall indicate its programmatic accomplishments, the nature of and reasons for changes in the grantee's program objectives, indications of how the grantee would change its programs as a result of its experiences, and an evaluation of the extent to which its funds were used for activities that benefited low- and moderate-income persons. The report shall include a summary of any comments received by the grantee from citizens in its jurisdiction respecting its program. The Secretary shall encourage and assist national associations of grantees eligible under section 5306(d)(2)(B) of this title, national associations of States, and national associations of units of general local government in nonentitlement areas to develop and recommend to the Secretary, within one year after November 30, 1983, uniform recordkeeping, performance reporting, and evaluation reporting, and auditing requirements for such grantees, States, and units of general local government, respectively. Based on the Secretary's approval of these recommendations, the Secretary shall establish such requirements for use by such grantees, States, and units of general local government. The Secretary shall, at least on an annual basis, make such reviews and audits as may be necessary or appropriate to determine—
 
 &emsp;(1) in the case of grants made under subsection (a)(3), (b), or (d)(2)(B) of section 5306 of this title, whether the grantee has carried out its activities and, where applicable, its housing assistance plan in a timely manner, whether the grantee has carried out those activities and its certifications in accordance with the requirements and the primary objectives of this chapter and with other applicable laws, and whether the grantee has a continuing capacity to carry out those activities in a timely manner; and
 
@@ -120,7 +120,7 @@ Insofar as they relate to funds provided under this chapter, the financial trans
 
 &emsp;(C) specify that the recipient of assistance under this chapter has fully carried out its responsibilities as described under paragraph (1) of this subsection, and
 
-&emsp;(D) specify that the certifying officer (i) consents to assume the status of a responsible Federal official under the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and each provision of law specified in regulations issued by the Secretary insofar as the provisions of such Act or other such provision of law apply pursuant to paragraph (1) of this subsection, and (ii) is authorized and consentson behalf of the recipient of assistance under this chapter and himself to accept the jurisdiction of the Federal courts for the purpose of enforcement of his responsibilities as such an official.
+&emsp;(D) specify that the certifying officer (i) consents to assume the status of a responsible Federal official under the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and each provision of law specified in regulations issued by the Secretary insofar as the provisions of such Act or other such provision of law apply pursuant to paragraph (1) of this subsection, and (ii) is authorized and consents on behalf of the recipient of assistance under this chapter and himself to accept the jurisdiction of the Federal courts for the purpose of enforcement of his responsibilities as such an official.
 
 (4) In the case of grants made to States pursuant to section 5306(d) of this title, the State shall perform those actions of the Secretary described in paragraph (2) and the performance of such actions shall be deemed to satisfy the Secretary's responsibilities referred to in the second sentence of such paragraph.
 
@@ -150,7 +150,7 @@ Notwithstanding any other provision of law, any unit of general local government
 
 Each grantee shall provide for reasonable benefits to any person involuntarily and permanently displaced as a result of the use of assistance received under this chapter to acquire or substantially rehabilitate property.
 
-#### (<i>l</i>) Protection of individuals engaging in nonviolent civil rights demonstrations
+#### (l) Protection of individuals engaging in nonviolent civil rights demonstrations
 
 No funds authorized to be appropriated under section 5303 of this title may be obligated or expended to any unit of general local government that—
 
@@ -184,7 +184,7 @@ No funds authorized to be appropriated under section 5303 of this title may be o
 
 &emsp;A submission under this subsection shall not be binding with respect to the use or distribution of amounts received under section 5306 of this title.
 
-(Pub. L. 93–383, title I, §104, Aug. 22, 1974, 88 Stat. 638; Pub. L. 95–128, title I, §§104, 110(a), Oct. 12, 1977, 91 Stat. 1114, 1125; Pub. L. 95–557, title I, §103(a)–(d), Oct. 31, 1978, 92 Stat. 2083; Pub. L. 96–153, title I, §§103(c), (g), 109(a), Dec. 21, 1979, 93 Stat. 1102, 1105; Pub. L. 96–399, title I, §§101(d), 104(b), 105(a), 109, 111(c), Oct. 8, 1980, 94 Stat. 1615, 1616, 1618, 1619, 1621; Pub. L. 97–35, title III, §§302(b), (c)(1), (d)–(f), 309(d), Aug. 13, 1981, 95 Stat. 384, 386, 387, 396; Pub. L. 98–181, title I, §§101(b), 104, Nov. 30, 1983, 97 Stat. 1159, 1161; Pub. L. 98–479, title I, §101(a)(5)–(7), Oct. 17, 1984, 98 Stat. 2219; Pub. L. 100–242, title V, §§502(c), 505–509(a), Feb. 5, 1988, 101 Stat. 1923, 1926, 1927; Pub. L. 100–628, title X, §1083, Nov. 7, 1988, 102 Stat. 3277; Pub. L. 101–625, title IX, §§902(b), 905, 906, 922, Nov. 28, 1990, 104 Stat. 4385, 4387, 4402; Pub. L. 102–550, title VIII, §§804, 808, 812, Oct. 28, 1992, 106 Stat. 3845, 3850; Pub. L. 103–233, title II, §232(a)(2)(B), Apr. 11, 1994, 108 Stat. 367; Pub. L. 108–186, title V, §501(c), Dec. 16, 2003, 117 Stat. 2697; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 93–383, title I, §104, Aug. 22, 1974, 88 Stat. 638; Pub. L. 95–128, title I, §§104, 110(a), Oct. 12, 1977, 91 Stat. 1114, 1125; Pub. L. 95–557, title I, §103(a)–(d), Oct. 31, 1978, 92 Stat. 2083; Pub. L. 96–153, title I, §§103(c), (g), 109(a), Dec. 21, 1979, 93 Stat. 1102, 1105; Pub. L. 96–399, title I, §§101(d), 104(b), 105(a), 109, 111(c), Oct. 8, 1980, 94 Stat. 1615, 1616, 1618, 1619, 1621; Pub. L. 97–35, title III, §§302(b), (c)(1), (d)–(f), 309(d), Aug. 13, 1981, 95 Stat. 384, 386, 387, 396; Pub. L. 98–181, title I \[title I, §§101(b)\], 104, Nov. 30, 1983, 97 Stat. 1159, 1161; Pub. L. 98–479, title I, §101(a)(5)–(7), Oct. 17, 1984, 98 Stat. 2219; Pub. L. 100–242, title V, §§502(c), 505–509(a), Feb. 5, 1988, 101 Stat. 1923, 1926, 1927; Pub. L. 100–628, title X, §1083, Nov. 7, 1988, 102 Stat. 3277; Pub. L. 101–625, title IX, §§902(b), 905, 906, 922, Nov. 28, 1990, 104 Stat. 4385, 4387, 4402; Pub. L. 102–550, title VIII, §§804, 808, 812, Oct. 28, 1992, 106 Stat. 3845, 3850; Pub. L. 103–233, title II, §232(a)(2)(B), Apr. 11, 1994, 108 Stat. 367; Pub. L. 108–186, title V, §501(c), Dec. 16, 2003, 117 Stat. 2697; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### References in Text
 
@@ -218,15 +218,15 @@ Subsec. (b)(4). Pub. L. 102–550, §812(b), inserted “pursuant to subsection 
 
 Subsec. (j). Pub. L. 102–550, §804, in first sentence, struck out “while the unit of general local government is participating in a community development program under this chapter” after “has agreed that” and inserted before period at end “; except that the Secretary may, by regulation, exclude from consideration as program income any amounts determined to be so small that compliance with this subsection creates an unreasonable administrative burden on the unit of general local government”.
 
-Subsecs. (<i>l</i>), (m). Pub. L. 102–550, §812(a), redesignated subsec. (<i>l</i>), relating to community development plans, as (m) and amended it generally, substituting present provisions for provisions requiring recipients to have submitted a description of its nonhousing community development needs and strategies for meeting those needs, providing for special requirements for such plans where the recipient was a State or a unit of general local government, and providing that a submission of a plan would not be binding with respect to the use or distribution of amounts received under section 5306 of this title.
+Subsecs. (l), (m). Pub. L. 102–550, §812(a), redesignated subsec. (l), relating to community development plans, as (m) and amended it generally, substituting present provisions for provisions requiring recipients to have submitted a description of its nonhousing community development needs and strategies for meeting those needs, providing for special requirements for such plans where the recipient was a State or a unit of generallocal government, and providing that a submission of a plan would not be binding with respect to the use or distribution of amounts received under section 5306 of this title.
 
 <b>1990</b>—Subsec. (b)(3). Pub. L. 101–625, §902(b), substituted “70 percent” for “60 percent”.
 
 Subsec. (c). Pub. L. 101–625, §905, amended subsec. (c) generally, substituting present provisions for provisions authorizing grants under section 5306(b) of this title only if the unit of local government certified that it followed a current housing assistance plan approved by the Secretary which (1) accurately surveyed the condition of the housing stock in the community, (2) specified a realistic annual goal for the number of dwelling units or persons of low and moderate income to be assisted, (3) indicated the general locations of proposed low and moderate income housing, and (4) specified activities that would be undertaken annually to minimize displacement and preserve or expand the availability of low and moderate income housing, and which required the establishment of dates and manner for the submission of housing assistance plans.
 
-Subsec. (<i>l</i>). Pub. L. 101–625, §922, added subsec. (<i>l</i>) relating to community development plans.
+Subsec. (l). Pub. L. 101–625, §922, added subsec. (l) relating to community development plans.
 
-Pub. L. 101–625, §906, added subsec. (<i>l</i>) relating to protection of individuals engaging in nonviolent civil rights demonstrations.
+Pub. L. 101–625, §906, added subsec. (l) relating to protection of individuals engaging in nonviolent civil rights demonstrations.
 
 <b>1988</b>—Subsec. (a)(1). Pub. L. 100–242, §505, struck out at end “In all cases, beginning in fiscal year 1984, the statement required in this subsection shall include a description of the use of funds made available under section 5306 of this title in fiscal year 1982 and thereafter (or, beginning in fiscal year 1985, such use since preparation of the last statement prepared pursuant to this subsection) together with an assessment of the relationship of such use to the community development objectives identified in the statement prepared pursuant to this subsection for such previous fiscal years and to the requirements of subsection (b)(3) of this section.”
 
@@ -286,11 +286,11 @@ Subsec. (b). Pub. L. 97–35, §302(b), substituted provisions relating to certi
 
 Subsec. (c). Pub. L. 97–35, §302(b), substituted provisions relating to certifications by the unit of general local government respecting enumerated grants for provisions relating to approval of applications.
 
-Subsec. (d). Pub. L. 97–35, §302(c)(1), substituted provisions relating to performance and assessment reports by grantee to the Secretary concerning use of funds under section 5306 of this title, and reviews, audits and adjustments by the Secretary, for provisions relating to performance and assessment reports by grantee to the Secretary concerning activities carried out under this chapter, and reviews, audits, and adjustments by Secretary.
+Subsec. (d). Pub. L. 97–35, §302(c)(1), substituted provisions relating to performance and assessment reportsby grantee to the Secretary concerning use of funds under section 5306 of this title, and reviews, audits and adjustments by the Secretary, for provisions relating to performance and assessment reports by grantee to the Secretary concerning activities carried out under this chapter, and reviews, audits, and adjustments by Secretary.
 
 Subsec. (e). Pub. L. 97–35, §302(d), redesignated subsec. (g) as (e). Former subsec. (e), which related to review and comment on application by areawide agency under procedures established by President, was struck out.
 
-Subsec. (f). Pub. L. 97–35, §302(d), (e), redesignated subsec. (h) as (f), in par. (1) substituted “recipients of assistance under this chapter” for “applicants”, in par. (2) “recipient of assistance under this chapter” for “applicant” and “the releases of funds” for “the applications and releases of funds” and in par. (3)(B) to (D)“recipient of assistance under this chapter” for “applicant”, and added par. (4). Former subsec. (f), which related to approval date of application and adjustment of grant subsequent to approval of application, was struck out.
+Subsec. (f). Pub. L. 97–35, §302(d), (e), redesignated subsec. (h) as (f), in par. (1) substituted “recipients of assistance under this chapter” for “applicants”, in par. (2) “recipient of assistance under this chapter” for “applicant” and “the releases of funds” for “the applications and releases of funds” and in par. (3)(B) to (D) “recipient of assistance under this chapter” for “applicant”, and added par. (4). Former subsec. (f), which related to approval date of application and adjustment of grant subsequent to approval of application, was struck out.
 
 Subsec. (g). Pub. L. 97–35, §302(d), (f), redesignated subsec. (i) as (g), in par. (1) substituted provision relating to units of general local government as recipients for provision relating to recipients of funds and in par. (2) struck out provision relating to review and approval of agreements. Former subsec. (g) redesignated (e).
 
@@ -342,7 +342,7 @@ Subsec. (a)(6). Pub. L. 95–128, §104(a)(5), added cl. (A), redesignated forme
 
 Subsec. (b)(2). Pub. L. 95–128, §104(b), substituted in first sentence “low- and moderate-income” for “low- or moderate-income” and in second sentence after “urgency” the clause “because existing conditions pose a serious and immediate threat to the health or welfare of the community, and other financial resources are not available” for “as specifically described in the application”.
 
-Subsec. (b)(3). Pub. L. 95–128, §104(c), added cl. (B), struck out former cl. “(B) the application relates to the first community development activity to be carried out by such locality with assistance under this chapter”, redesignated cl. (D) as (C) and struck out former cl. “(C) the assistance requested is for a single development activity under this chapter of a type eligible for assistance under title VII of the Housing Act of 1961 or title VII of the Housing and Urban Development Act of 1965”.
+Subsec. (b)(3). Pub. L. 95–128, §104(c), added cl. (B), struck out former cl. “(B) the application relates to thefirst community development activity to be carried out by such locality with assistance under this chapter”, redesignated cl. (D) as (C) and struck out former cl. “(C) the assistance requested is for a single development activity under this chapter of a type eligible for assistance under title VII of the Housing Act of 1961 or title VII of the Housing and Urban Development Act of 1965”.
 
 Subsec. (c)(3). Pub. L. 95–128, §104(d), inserted “, with specific regard to the primary purposes of principally benefiting persons of low- and moderate-income or aiding in the prevention or elimination of slums or blight or meeting other community development needs having a particular urgency,” before “or other applicable law”.
 
@@ -358,7 +358,7 @@ Amendment by Pub. L. 103–233 applicable with respect to any amounts made avail
 
 #### Effective Date of 1988 Amendment
 
-Section 509(b) of Pub. L. 100–242 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1988.”
+Pub. L. 100–242, title V, §509(b), Feb. 5, 1988, 101 Stat. 1929, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1988.”
 
 #### Effective Date of 1983 Amendment
 
@@ -368,7 +368,7 @@ Amendment by Pub. L. 98–181 applicable only to funds available for fiscal year
 
 Amendment by sections 302(b), (d)–(f) and 309(d) of Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 97–35, set out as an Effective Date note under section 3701 of Title 12, Banks and Banking.
 
-Section 302(c)(2) of Pub. L. 97–35 provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on October 1, 1982.”
+Pub. L. 97–35, title III, §302(c)(2), Aug. 13, 1981, 95 Stat. 386, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on October 1, 1982.”
 
 #### Effective Date of 1978 Amendment
 
@@ -380,7 +380,7 @@ Amendment by Pub. L. 95–128 effective Oct. 1, 1977, see section 114 of Pub. L.
 
 #### Computerized Database of Community Development Needs
 
-Section 852 of Pub. L. 102–550 provided that:
+Pub. L. 102–550, title VIII, §852, Oct. 28, 1992, 106 Stat. 3858, provided that:
 
 “(a)
 
@@ -432,7 +432,7 @@ State Coordination of Local Needs.—Each State that receives a grant under subs
 
 “(f)
 
-Reports by Secretary.—The Secretary shall annually submit to the Committees on Banking, Finance and Urban Affairs \[now Committee on Financial Services\] of the House of Representatives and Banking, Housing, and Urban Affairs of the Senate, a report containing a summary of the information submitted for the year by States pursuant to subsection (e), which shall describe the priority nonhousing community development needs within such States.
+Reports by Secretary.—The Secretary shall annually submit to the Committees on Banking, Finance and Urban Affairs \[now Committee on Financial Services\] of the House of Representatives and Banking, Housing, and Urban Affairs of the Senate, a report containing a summary of the information submitted forthe year by States pursuant to subsection (e), which shall describe the priority nonhousing community development needs within such States.
 
 “(g)
 
@@ -440,7 +440,7 @@ Authorization of Appropriations.—There are authorized to be appropriated for e
 
 #### Authority To Provide Lump-Sum Payments to Revolving Loan Funds
 
-Section 909 of Pub. L. 101–625 provided that:
+Pub. L. 101–625, title IX, §909, Nov. 28, 1990, 104 Stat. 4389, provided that:
 
 “(a)
 
@@ -448,7 +448,7 @@ In General.—Notwithstanding any other provision of law, units of general local
 
 “(b)
 
-Applicability.—This section shall apply to funds approved in appropriations Acts for use under title I ofthe Housing and Community Development Act of 1974 for fiscal year 1992 and any fiscal year thereafter.”
+Applicability.—This section shall apply to funds approved in appropriations Acts for use under title I of the Housing and Community Development Act of 1974 for fiscal year 1992 and any fiscal year thereafter.”
 
 #### Revolving Loan Funds
 
@@ -462,7 +462,7 @@ Pub. L. 101–144, title II, Nov. 9, 1989, 103 Stat. 850.
 
 #### Report to Congress Concerning Conversion of Rental Housing to Condominium or Cooperative Ownership
 
-Section 109(b) of Pub. L. 96–153 directed Secretary of Housing and Urban Development, not later than six months after Dec. 12, 1979, to submit a report to Congress concerning conversion of rental housing to condominium or cooperative ownership, which report was to include an estimate of number of such conversions which have occurred since 1970, a projection of number of such conversions estimated to occur during period 1980 through 1985, an assessment of impact that such conversions have had or are likely to have on availability of housing to lower income persons, an assessment of extent to which such conversions are concentrated in certain areas or types of areas of country, and an assessment of factors contributing to increase in such conversions, and which report was also to include recommendations concerning alternative means to minimize the adverse impact that such conversions may have on lower income persons.
+Pub. L. 96–153, title I, §109(b), Dec. 21, 1979, 93 Stat. 1105, directed Secretary of Housing and Urban Development, not later than six months after Dec. 12, 1979, to submit a report to Congress concerning conversion of rental housing to condominium or cooperative ownership, which report was to include an estimate of number of such conversions which have occurred since 1970, a projection of number of such conversions estimated to occur during period 1980 through 1985, an assessment of impact that such conversions have had or are likely to have on availability of housing to lower income persons, an assessment of extent to which such conversions are concentrated in certain areas or types of areas of country, and an assessment of factors contributing to increase in such conversions, and which report was also to include recommendations concerning alternative means to minimize the adverse impact that such conversions may have on lower income persons.
 
 #### Floodplain Management
 

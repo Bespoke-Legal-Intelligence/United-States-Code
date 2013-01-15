@@ -36,7 +36,7 @@ For purposes of this subchapter—
 
 #### (6) Friable asbestos-containing material
 
-&emsp;The term “friable asbestos-containing material” means any asbestos-containing materialapplied on ceilings, walls, structural members, piping, duct work, or any other part of a building which when dry may be crumbled, pulverized, or reduced to powder by hand pressure. The term includes non-friable asbestos-containing material after such previously non-friable material becomes damaged to the extent that when dry it may be crumbled, pulverized, or reduced to powder by hand pressure.
+&emsp;The term “friable asbestos-containing material” means any asbestos-containing material applied on ceilings, walls, structural members, piping, duct work, or any other part of a building which when dry may be crumbled, pulverized, or reduced to powder by hand pressure. The term includes non-friable asbestos-containing material after such previously non-friable material becomes damaged to the extent that when dry it may be crumbled, pulverized, or reduced to powder by hand pressure.
 
 #### (7) Local educational agency
 
@@ -62,7 +62,7 @@ For purposes of this subchapter—
 
 #### (11) Response action
 
-&emsp;The term “response action” means methods that protect human health and the environment from asbestos-containing material. Such methods include methods described in chapters 3 and 5 of the Environmental Protection Agency's “Guidance for Controlling Asbestos-Containing Materials in Buildings”.
+&emsp;The term “response action” means methods that protect human health and the environment from asbestos-containing material. Suchmethods include methods described in chapters 3 and 5 of the Environmental Protection Agency's “Guidance for Controlling Asbestos-Containing Materials in Buildings”.
 
 #### (12) School
 

@@ -100,7 +100,7 @@ In subsection (c)(1), the words “chief executive officers of the States” are
 
 #### References in Text
 
-The Demonstration Cities and Metropolitan Development Act of 1966, referred to in subsec. (c)(1), is Pub. L. 89–754, Nov. 3, 1966, 80 Stat. 1255, as amended. Title II ofthe Act is classified generally to subchapter II (§3331 et seq.) of chapter 41 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3331 of Title 42 and Tables.
+The Demonstration Cities and Metropolitan Development Act of 1966, referred to in subsec. (c)(1), is Pub. L. 89–754, Nov. 3, 1966, 80 Stat. 1255, as amended. Title II of the Act is classified generally to subchapter II (§3331 et seq.) of chapter 41 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3331 of Title 42 and Tables.
 
 #### Ex. Ord. No. 13006. Locating Federal Facilities on Historic Properties in Our Nation's Central Cities
 

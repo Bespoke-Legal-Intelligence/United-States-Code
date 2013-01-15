@@ -26,7 +26,7 @@ In providing for the effective management of this project, the Secretary of Ener
 
 #### References in Text
 
-Section 2513 of this title, referred to in subsec. (c)(5), was repealed by Pub. L. 104–66, title I, §1051(<i>o</i>), Dec. 21, 1995, 109 Stat. 717.
+Section 2513 of this title, referred to in subsec. (c)(5), was repealed by Pub. L. 104–66, title I, §1051(o), Dec. 21, 1995, 109 Stat. 717.
 
 #### Transfer of Functions
 

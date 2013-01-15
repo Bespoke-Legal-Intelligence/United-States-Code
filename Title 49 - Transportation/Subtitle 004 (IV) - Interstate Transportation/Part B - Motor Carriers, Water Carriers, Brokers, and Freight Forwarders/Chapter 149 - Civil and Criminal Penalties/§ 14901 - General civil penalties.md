@@ -14,11 +14,11 @@ Reporting and Recordkeeping.—A person required to make a report to the Secreta
 
 &emsp;(5) does not comply with section 13902(c);
 
-> is liable to the United States for a civil penalty of not less than $500 for each violation and for each additional day the violation continues; except that, in the case of a person who is not registered under this part to provide transportation of passengers, or an officer, agent, or employee of such person, that does not comply with section 13901 with respect to providing transportation of passengers, the amount of the civil penalty shall not be less than $2,000 for each violation and for each additional day the violation continues.
+> is liable to the United States for a civil penalty of not less than $1,000 for each violation and for each additional day the violation continues; except that, in the case of a person or an officer, agent, or employee of such person, that does not comply with section 13901 or section 13902(c) of this title, the amount of the civil penalty shall not be less than $10,000 for each violation, or $25,000 for each violation relating to providing transportation of passengers.
 
 (b)
 
-Transportation of Hazardous Wastes.—A person subject to jurisdiction under subchapter I of chapter 135, or an officer, agent, or employee of that person, and who is required to comply with section 13901 of this title but does not so comply with respect to the transportation of hazardous wastes as defined by the Environmental Protection Agency pursuant to section 3001 of the Solid Waste Disposal Act (but not including any waste the regulation of which under the Solid Waste Disposal Act has been suspended by Congress) shall be liable to the United States for a civil penalty not to exceed $20,000 for each violation.
+Transportation of Hazardous Wastes.—A person subject to jurisdiction under subchapter I of chapter 135, or an officer, agent, or employee of that person, and who is required to comply with section 13901 of this title but does not so comply with respect to the transportation of hazardous wastes as defined by the Environmental Protection Agency pursuant to section 3001 of the Solid Waste Disposal Act (but not including any waste the regulation of which under the Solid Waste Disposal Act has been suspended by Congress) shall be liable to the United States for a civil penalty not less than $20,000, but not to exceed $40,000 for each violation.
 
 (c)
 
@@ -76,11 +76,15 @@ In general.—Any business entertainment expense incurred by a water carrier pro
 
 Cost of service.—Any business entertainment expense subject to paragraph (1) that is paid or incurred by a water carrier providing transportation subject to this part shall not be taken into account in determining the cost of service or the rate base for purposes of section 13702.
 
-(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 913; amended Pub. L. 109–59, title IV, §4209, Aug. 10, 2005, 119 Stat. 1758.)
+(h)
+
+Settlement of Household Goods Civil Penalties.—Nothing in this section shall be construed to prohibit the Secretary from accepting partial payment of a civil penalty as part of a settlement agreement in the public interest, or from holding imposition of any part of a civil penalty in abeyance.
+
+(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 913; amended Pub. L. 109–59, title IV, §4209, Aug. 10, 2005, 119 Stat. 1758; Pub. L. 112–141, div. C, title II, §§32108, 32923(a), July 6, 2012, 126 Stat. 782, 828.)
 
 #### References in Text
 
-The Solid Waste Disposal Act, referred to in subsec. (b), is title II of Pub. L. 89–272, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of Title 42, The Public Health and Welfare. Section 3001 of the Act is classified to section 6921 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of Title 42 and Tables.
+The Solid Waste Disposal Act, referred to in subsec. (b), is title II of Pub. L. 89–272, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of Title 42, The Public Health and Welfare. Section 3001 of theAct is classified to section 6921 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of Title 42 and Tables.
 
 #### Prior Provisions
 
@@ -88,7 +92,19 @@ Provisions similar to those in this section were contained in sections 10751 and
 
 #### Amendments
 
+<b>2012</b>—Subsec. (a). Pub. L. 112–141, §32108(a)(4), which directed substitution of “$10,000 for each violation, or $25,000 for each violation relating to providing transportation of passengers” for “$2,000 for each violation and each additional day the violation continues”, was executed by making the substitution for “$2,000 for each violation and for each additional day the violation continues” in concluding provisions, to reflect the probable intent of Congress.
+
+Pub. L. 112–141, §32108(a)(1)–(3), substituted “$1,000” for “$500” and “or section 13902(c) of this title,” for “with respect to providing transportation of passengers,” and struck out “who is not registered under this part to provide transportation of passengers,” after “in the case of a person” in concluding provisions.
+
+Subsec. (b). Pub. L. 112–141, §32108(b), substituted “not less than $20,000, but not to exceed $40,000” for “not to exceed $20,000”.
+
+Subsec. (h). Pub. L. 112–141, §32923(a), added subsec. (h).
+
 <b>2005</b>—Subsec. (d). Pub. L. 109–59 designated existing provisions as par. (1), inserted heading, and added pars. (2) and (3).
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
 
 #### Effective Date
 

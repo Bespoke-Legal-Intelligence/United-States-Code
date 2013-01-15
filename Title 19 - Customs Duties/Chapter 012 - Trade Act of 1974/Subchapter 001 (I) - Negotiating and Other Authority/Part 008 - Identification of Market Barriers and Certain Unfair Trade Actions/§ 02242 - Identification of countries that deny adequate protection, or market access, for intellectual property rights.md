@@ -96,7 +96,7 @@ The Trade Representative shall publish in the Federal Register a list of foreign
 
 #### (2) Special rules for identifications
 
-&emsp;For purposes of section 2412(b)(2)(A) of this title, an act, policy, or practice identified under this subsection shall be treated as an act, policy, or practice that is the basis for identification of a country under subsection (a)(2) of this section, unless the United States has already taken action pursuant to article 2106 of the North American Free Trade Agreement in response to such act, policy, or practice. In deciding whether to identify an act, policy, or practice under paragraph (1), the Trade Representative shall—
+&emsp;For purposes of section 2412(b)(2)(A) of this title, an act, policy, or practice identified under this subsection shall be treated as an act, policy, or practice that is the basis for identification of a country under subsection\(a)(2) of this section, unless the United States has already taken action pursuant to article 2106 of the North American Free Trade Agreement in response to such act, policy, or practice. In deciding whether to identify an act, policy, or practice under paragraph (1), the Trade Representative shall—
 
 &emsp;&emsp;(A) consult with and take into account the views of representatives of the relevant domestic industries, appropriate committees established pursuant to section 2155 of this title, and appropriate officers of the Federal Government, and
 
@@ -154,7 +154,7 @@ Pub. L. 101–189, div. A, title VIII, §852, Nov. 29, 1989, 103 Stat. 1517, as 
 
 #### Identification of Countries That Deny Adequate and Effective Protection of Intellectual Property Rights
 
-Section 1303(a) of Pub. L. 100–418 provided that:
+Pub. L. 100–418, title I, §1303(a), Aug. 23, 1988, 102 Stat. 1179, provided that:
 
 “(1) The Congress finds that—
 

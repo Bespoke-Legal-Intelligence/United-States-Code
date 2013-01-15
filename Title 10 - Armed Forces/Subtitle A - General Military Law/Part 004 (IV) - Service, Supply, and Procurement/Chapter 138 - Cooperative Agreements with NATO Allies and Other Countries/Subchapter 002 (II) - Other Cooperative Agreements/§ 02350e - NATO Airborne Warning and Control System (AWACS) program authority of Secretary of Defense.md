@@ -48,7 +48,7 @@ Definition.—In this section, the term “AWACS memorandum of understanding” 
 
 &emsp;(4) any other follow-on support agreement for the NATO E–3A Cooperative Programme.
 
-(Added Pub. L. 101–189, div. A, title IX, §932(a)(1), Nov. 29, 1989, 103 Stat. 1536; amended Pub. L.102–190, div. A, title X, §1051, Dec. 5, 1991, 105 Stat. 1470; Pub. L. 103–160, div. A, title XIV, §1413, Nov. 30, 1993, 107 Stat. 1829.)
+(Added Pub. L. 101–189, div. A, title IX, §932(a)(1), Nov. 29, 1989, 103 Stat. 1536; amended Pub. L. 102–190, div. A, title X, §1051, Dec. 5, 1991, 105 Stat. 1470; Pub. L. 103–160, div. A, title XIV, §1413, Nov. 30, 1993, 107 Stat. 1829.)
 
 #### Prior Provisions
 

@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(B) in accordance with regulations prescribed by the Secretary—
 
-&emsp;&emsp;&emsp;(i) any category of accrued benefits is not reduced with respect to inactive participants to a greater extent proportionally that such category of accrued benefitsis reduced with respect to active participants,
+&emsp;&emsp;&emsp;(i) any category of accrued benefits is not reduced with respect to inactive participants to a greater extent proportionally that such category of accrued benefits is reduced with respect to active participants,
 
 &emsp;&emsp;&emsp;(ii) benefits attributable to employer contributions other than accrued benefits and the rate of future benefit accruals are reduced at least to an extent equal to the reduction in accrued benefits of inactive participants, and
 

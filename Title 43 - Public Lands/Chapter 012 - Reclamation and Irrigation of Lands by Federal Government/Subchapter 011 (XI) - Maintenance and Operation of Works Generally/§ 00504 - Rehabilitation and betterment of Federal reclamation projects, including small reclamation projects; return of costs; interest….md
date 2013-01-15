@@ -24,5 +24,5 @@ Act Oct. 7, 1949, ch. 650, 63 Stat. 724, which enacted this section and provisio
 
 #### Supplemental to Federal Reclamation Laws
 
-Section 2 of act Oct. 7, 1949, provided that: “This Act \[enacting this section\] shall be deemed a supplement to the Federal reclamation laws.”
+Act Oct. 7, 1949, ch. 650, §2, 63 Stat. 725, provided that: “This Act \[enacting this section\] shall be deemed a supplement to the Federal reclamation laws.”
 

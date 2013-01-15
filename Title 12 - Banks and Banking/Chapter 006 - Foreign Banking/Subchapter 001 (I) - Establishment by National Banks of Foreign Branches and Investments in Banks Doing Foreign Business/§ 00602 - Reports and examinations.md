@@ -1,6 +1,6 @@
 ### §602. Reports and examinations
 
-Every national banking association operating foreign branches shall be required to furnish information concerning the condition of such branches to the Comptroller of the Currency upon demand, and every member bank investing in the capital stock of banks or corporations described in section 601 of this title shall be required to furnish information concerning the condition of such banks or corporations to the Board of Governors of the Federal Reserve System upon demand, and the Board of Governors of the Federal Reserve System may order special examinations of the said branches, banks, or corporations at such time or times as it may deem best.
+Every national banking association operating foreign branches shall be required to furnish information concerning the condition of such branches to the Comptroller of the Currencyupon demand, and every member bank investing in the capital stock of banks or corporations described in section 601 of this title shall be required to furnish information concerning the condition of such banks or corporations to the Board of Governors of the Federal Reserve System upon demand, and the Board of Governors of the Federal Reserve System may order special examinations of the said branches, banks, or corporations at such time or times as it may deem best.
 
 (Dec. 23, 1913, ch. 6, §25 (par.), 38 Stat. 273; Sept. 7, 1916, ch. 461, 39 Stat. 755; Sept. 17, 1919, ch. 60, §3, 41 Stat. 286; Aug. 23, 1935, ch. 614, title II, §203(a), 49 Stat. 704.)
 

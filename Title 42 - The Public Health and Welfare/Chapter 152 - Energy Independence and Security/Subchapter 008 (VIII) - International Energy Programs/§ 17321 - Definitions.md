@@ -40,5 +40,5 @@ In this subchapter:
 
 #### References in Text
 
-This subchapter, referred to in text, was in the original “this title”, meaning title IX of Pub. L. 110–140,Dec. 19, 2007, 121 Stat. 1725, which enacted this subchapter and amended section 5314 of Title 5, Government Organization and Employees, section 9101 of Title 31, Money and Finance, and section 402 of Title 50, War and National Defense. For complete classification of title IX to the Code, see Tables.
+This subchapter, referred to in text, was in the original “this title”, meaning title IX of Pub. L. 110–140, Dec. 19, 2007, 121 Stat. 1725, which enacted this subchapter and amended section 5314 of Title 5, Government Organization and Employees, section 9101 of Title 31, Money and Finance, and section 402 of Title 50, War and National Defense. For complete classification of title IX to the Code, see Tables.
 

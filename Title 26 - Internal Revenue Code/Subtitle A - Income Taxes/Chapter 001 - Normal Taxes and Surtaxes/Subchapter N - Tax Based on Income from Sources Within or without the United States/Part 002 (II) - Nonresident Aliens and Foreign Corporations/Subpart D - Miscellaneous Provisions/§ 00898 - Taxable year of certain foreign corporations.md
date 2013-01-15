@@ -90,7 +90,7 @@ Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporatio
 
 #### Effective Date
 
-Section 7401(d) of Pub. L. 101–239 provided that:
+Pub. L. 101–239, title VII, §7401(d), Dec. 19, 1989, 103 Stat. 2357, provided that:
 
 “(1)
 

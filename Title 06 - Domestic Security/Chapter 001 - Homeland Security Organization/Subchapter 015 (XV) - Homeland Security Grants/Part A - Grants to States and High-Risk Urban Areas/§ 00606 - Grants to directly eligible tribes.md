@@ -16,7 +16,7 @@ A directly eligible tribe may apply for a grant under section 605 of this title 
 
 #### (2) Opportunity for comment
 
-&emsp;If the Governor of a State determines that the application of a directly eligible tribe isinconsistent with the State homeland security plan of that State, or otherwise does not support the application, not later than 30 days after the date of receipt of that application the Governor shall—
+&emsp;If the Governor of a State determines that the application of a directly eligible tribe is inconsistent with the State homeland security plan of that State, or otherwise does not support the application, not later than 30 days after the date of receipt of that application the Governor shall—
 
 &emsp;&emsp;(A) notify the Administrator, in writing, of that fact; and
 
@@ -60,7 +60,7 @@ A directly eligible tribe that receives a grant under section 605 of this title 
 
 #### (1) In general
 
-&emsp;States shall be responsible for allocating grant funds received under section 605 of this title to tribal governments in order to help those tribal communities achieve target capabilities not achieved through grants to directly eligible tribes.
+&emsp;States shall be responsible for allocating grant funds received under section 605 of thistitle to tribal governments in order to help those tribal communities achieve target capabilities not achieved through grants to directly eligible tribes.
 
 #### (2) Distribution of grant funds
 

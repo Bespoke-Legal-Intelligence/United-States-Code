@@ -32,7 +32,7 @@ For purposes of this section—
 
 #### (2) No prior criminal action
 
-&emsp;Nothing in this section requires a prior criminal complaint, prosecution, or conviction to establish the elements of a cause of action under subsection (c) of this section.
+&emsp;Nothing in this section requires a prior criminal complaint, prosecution, or convictionto establish the elements of a cause of action under subsection (c) of this section.
 
 #### (3) Concurrent jurisdiction
 
@@ -52,13 +52,13 @@ This part, referred to in subsecs. (a) and (e)(3), was in the original “this s
 
 Section is comprised of section 40302 of Pub. L. 103–322. Subsec. (e)(5) of section 40302 of Pub. L. 103–322 amended section 1445 of Title 28, Judiciary and Judicial Procedure.
 
+#### Constitutionality
+
+For constitutionality of section 40302 of Pub. L. 103–322, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+
 #### Short Title
 
 For short title of this part as the “Civil Rights Remedies for Gender-Motivated Violence Act”, see section 40301 of Pub. L. 103–322, set out as a note under section 13701 of this title.
-
-#### Constitutionality
-
-For decision holding this section unconstitutional, see <i>United States v. Morrison</i>, 529 U.S. 598, 120 S. Ct. 1740, 146 L. Ed. 2d 658 (2000).
 
 <i><sup>1</sup></i><i> So in original. The word “means” probably should appear after “(A)” below.</i>
 

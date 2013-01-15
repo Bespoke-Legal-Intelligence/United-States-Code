@@ -1,6 +1,6 @@
 ### §194. Enforcement provisions
 
-The President may employ such departments, agencies, officers, or instrumentalities of the United States as he may deem necessary to carry out the purpose of this title.<sup>1</sup>
+The President may employ such departments, agencies, officers, or instrumentalities of theUnited States as he may deem necessary to carry out the purpose of this title.<sup>1</sup>
 
 (June 15, 1917, ch. 30, title II, §4, 40 Stat. 220; Aug. 9, 1950, ch. 656, §2, 64 Stat. 428.)
 

@@ -36,7 +36,7 @@
 
 &emsp;&emsp;&emsp;(iii) the acquiring corporation acquires, solely for voting stock described in paragraph (1)(C), property of the other corporation having a fair market value which is at least 80 percent of the fair market value of all of the property of the other corporation,
 
-> &emsp;&emsp;then such acquisition shall (subject to subparagraph (A) of this paragraph) be treatedas qualifying under paragraph (1)(C). Solely for the purpose of determining whether clause (iii) of the preceding sentence applies, the amount of any liability assumed by the acquiring corporation shall be treated as money paid for the property.
+> &emsp;&emsp;then such acquisition shall (subject to subparagraph (A) of this paragraph) be treated as qualifying under paragraph (1)(C). Solely for the purpose of determining whether clause (iii) of the preceding sentence applies, the amount of any liability assumed by the acquiring corporation shall be treated as money paid for the property.
 
 #### (C) Transfers of assets or stock to subsidiaries in certain paragraph (1)(A), (1)(B), (1)(C), and (1)(G) cases
 
@@ -70,7 +70,7 @@
 
 &emsp;&emsp;&emsp;(v) This subparagraph shall not apply if the stock of each investment company is owned substantially by the same persons in the same proportions.
 
-&emsp;&emsp;&emsp;(vi) If an investment company which does not meet the requirements of clause (ii) acquires assets of another corporation, clause (i) shall be applied to such investment company and its shareholders and security holders as though its assets had been acquired by such other corporation. If such investment company acquires stock of another corporation in a reorganization described in section 368(a)(1)(B), clause (i) shall be applied to the shareholders of such investment company as though they had exchanged with such other corporation allof their stock in such company for stock having a fair market value equal to the fair market value of their stock of such investment company immediately after the exchange. For purposes of section 1001, the deemed acquisition or exchange referred to in the two preceding sentences shall be treated as a sale or exchange of property by the corporation and by the shareholders and security holders to which clause (i) is applied.
+&emsp;&emsp;&emsp;(vi) If an investment company which does not meet the requirements of clause (ii) acquires assets of another corporation, clause (i) shall be applied to such investment company and its shareholders and security holders as though its assets had been acquired by such other corporation. If such investment company acquires stock of another corporation in a reorganization described in section 368(a)(1)(B), clause (i) shall be applied to the shareholders of such investment company as though they had exchanged with such other corporation all of their stock in such company for stock having a fair market value equal to the fair market value of their stock of such investment company immediately after the exchange. For purposes of section 1001, the deemed acquisition or exchange referred to in the two preceding sentences shall be treated as a sale or exchange of property by the corporation and by the shareholders and security holders to which clause (i) is applied.
 
 &emsp;&emsp;&emsp;(vii) For purposes of clauses (ii) and (iii), the term “securities” includes obligations of State and local governments, commodity futures contracts, shares of regulated investment companies and real estate investment trusts, and other investments constituting a security within the meaning of the Investment Company Act of 1940 (15 U.S.C. 80a–2(36)).<sup>1</sup>
 
@@ -80,7 +80,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A transaction shall fail to meet the requirements of paragraph (1)(C) unless the acquired corporation distributes the stock, securities, and other properties it receives, as well as its other properties, in pursuance of the plan of reorganization. For purposes of the preceding sentence, if the acquired corporation is liquidated pursuant to the plan of reorganization, any distribution to its creditors in connection with such liquidation shall be treated as pursuant to the plan of reorganization.
+&emsp;&emsp;&emsp;A transaction shall fail to meet the requirements of paragraph (1)(C) unless the acquired corporation distributes the stock, securities, and other properties it receives, as well as its other properties, in pursuance of the plan of reorganization. For purposes of the preceding sentence, if the acquired corporation is liquidated pursuant to the plan of reorganization, any distribution to its creditors in connectionwith such liquidation shall be treated as pursuant to the plan of reorganization.
 
 #### (ii) Exception
 
@@ -142,13 +142,13 @@ For purposes of this part, the term “a party to a reorganization” includes�
 
 &emsp;(2) both corporations, in the case of a reorganization resulting from the acquisition by one corporation of stock or properties of another.
 
-> In the case of a reorganization qualifying under paragraph (1)(B) or (1)(C) of subsection (a), if the stock exchanged for the stock or properties isstock of a corporation which is in control of the acquiring corporation, the term “a party to a reorganization” includes the corporation so controlling the acquiring corporation. In the case of a reorganization qualifying under paragraph (1)(A), (1)(B), or (1)(C), or (1)(G) of subsection (a) by reason of paragraph (2)(C) of subsection (a), the term “a party to a reorganization” includes the corporation controlling the corporation to which the acquired assets or stock are transferred. In the case of a reorganization qualifying under paragraph (1)(A) or (1)(G) of subsection (a) by reason of paragraph (2)(D) of that subsection, the term “a party to a reorganization” includes the controlling corporation referred to in such paragraph (2)(D). In the case of a reorganization qualifying under subsection (a)(1)(A) by reason of subsection (a)(2)(E), the term “party to a reorganization” includes the controlling corporation referred to in subsection (a)(2)(E).
+> In the case of a reorganization qualifying under paragraph (1)(B) or (1)(C) of subsection (a), if the stock exchanged for the stock or properties is stock of a corporation which is in control of the acquiring corporation, the term “a party to a reorganization” includes the corporation so controlling the acquiring corporation. In the case of a reorganization qualifying under paragraph (1)(A), (1)(B), or (1)(C), or (1)(G) of subsection (a) by reason of paragraph (2)(C) of subsection (a), the term “a party to a reorganization” includes the corporation controlling the corporation to which the acquired assets or stock are transferred. In the case of a reorganization qualifying under paragraph (1)(A) or (1)(G) of subsection (a) by reason of paragraph (2)(D) of that subsection, the term “a party to a reorganization” includes the controlling corporation referred to in such paragraph (2)(D). In the case of a reorganization qualifying under subsection (a)(1)(A) by reason of subsection (a)(2)(E), the term “party to a reorganization” includes the controlling corporation referred to in subsection (a)(2)(E).
 
 #### (c) Control defined
 
 For purposes of part I (other than section 304), part II, this part, and part V, the term “control” means the ownership of stock possessing at least 80 percent of the total combined voting power of all classes of stock entitled to vote and at least 80 percent of the total number of shares of all other classes of stock of the corporation.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 120; Pub. L. 88–272, title II, §218(a), (b), Feb. 26, 1964, 78 Stat. 57; Pub. L. 90–621, §1(a), (b), Oct. 22, 1968, 82 Stat. 1310, 1311; Pub. L. 91–693, §1(a), (b), Jan. 12, 1971, 84 Stat. 2077; Pub. L. 94–455, title VIII, §806(f)(1), title XXI, §2131(a), Oct. 4, 1976, 90 Stat. 1605, 1922; Pub. L. 95–600, title VII, §701(j)(1), Nov. 6, 1978, 92 Stat. 2905; Pub. L. 96–589, §4(a)–(d), (h)(3), (4), Dec. 24, 1980, 94 Stat. 3401–3403, 3405; Pub. L. 97–34, title II, §241, Aug. 13, 1981, 95 Stat. 254; Pub. L. 97–248, title II, §225(a), Sept. 3, 1982, 96 Stat. 490; Pub. L. 97–448, title III, §304(b), (c), Jan. 12, 1983, 96 Stat. 2398; Pub. L. 98–369, div. A, title I, §§63(a), 64(a), 174(b)(5)(D), July 18, 1984, 98 Stat. 583, 584, 707; Pub. L. 99–514, title VI, §621(e)(1), title IX, §904(a), title XVIII, §§1804(g)(2), (h), 1879(<i>l</i>)(1), Oct. 22, 1986, 100 Stat. 2266, 2385, 2806, 2909; Pub. L. 100–647, title I, §1018(q)(5), title IV, §4012(b)(1)(A), Nov. 10, 1988, 102 Stat. 3586, 3656; Pub. L. 101–73, title XIV, §1401(a)(1), (b)(1), Aug. 9, 1989, 103 Stat. 548, 549; Pub. L. 105–34, title X, §1012(c)(2), Aug. 5, 1997, 111 Stat. 917; Pub. L. 105–206, title VI, §6010(c)(3)(B), July 22, 1998, 112 Stat. 813; Pub. L. 105–277, div. J, title IV, §4003(f)(2), Oct. 21, 1998, 112 Stat. 2681–910; Pub. L. 106–36, title III, §3001(a)(3), June 25, 1999, 113 Stat. 182.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 120; Pub. L. 88–272, title II, §218(a), (b), Feb. 26, 1964, 78 Stat. 57; Pub. L. 90–621, §1(a), (b), Oct. 22, 1968, 82 Stat. 1310, 1311; Pub. L. 91–693, §1(a), (b), Jan. 12, 1971, 84 Stat. 2077; Pub. L. 94–455, title VIII, §806(f)(1), title XXI, §2131(a), Oct. 4, 1976, 90 Stat. 1605, 1922; Pub. L. 95–600, title VII, §701(j)(1), Nov. 6, 1978, 92 Stat. 2905; Pub. L. 96–589, §4(a)–(d), (h)(3), (4), Dec. 24, 1980, 94 Stat. 3401–3403, 3405; Pub. L. 97–34, title II, §241, Aug. 13, 1981, 95 Stat. 254; Pub. L. 97–248, title II, §225(a), Sept. 3, 1982, 96 Stat. 490; Pub. L. 97–448, title III, §304(b), (c),Jan. 12, 1983, 96 Stat. 2398; Pub. L. 98–369, div. A, title I, §§63(a), 64(a), 174(b)(5)(D), July 18, 1984, 98 Stat. 583, 584, 707; Pub. L. 99–514, title VI, §621(e)(1), title IX, §904(a), title XVIII, §§1804(g)(2), (h), 1879(l)(1), Oct. 22, 1986, 100 Stat. 2266, 2385, 2806, 2909; Pub. L. 100–647, title I, §1018(q)(5), title IV, §4012(b)(1)(A), Nov. 10, 1988, 102 Stat. 3586, 3656; Pub. L. 101–73, title XIV, §1401(a)(1), (b)(1), Aug. 9, 1989, 103 Stat. 548, 549; Pub. L. 105–34, title X, §1012(c)(2), Aug. 5, 1997, 111 Stat. 917; Pub. L. 105–206, title VI, §6010(c)(3)(B), July 22, 1998, 112 Stat. 813; Pub. L. 105–277, div. J, title IV, §4003(f)(2), Oct. 21, 1998, 112 Stat. 2681–910; Pub. L. 106–36, title III, §3001(a)(3), June 25, 1999, 113 Stat. 182.)
 
 #### References in Text
 
@@ -180,7 +180,7 @@ Subsec. (a)(3)(D)(iv), (v). Pub. L. 100–647, §4012(b)(1)(A), amended subpar. 
 
 <b>1986</b>—Subsec. (a)(2)(A). Pub. L. 99–514, §1804(h)(3), inserted “(other than for purposes of subparagraph (C))” after “subchapter”.
 
-Subsec. (a)(2)(F)(ii). Pub. L. 99–514, §1879(<i>l</i>)(1), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “A corporation meets the requirements of this clause if not more than 25 percent of the value of its total assets is invested in the stock and securities of any one issuer, and not more than 50 percent of the value of its total assets is invested in the stock and securities of 5 or fewer issuers. For purposes of this clause, all members of a controlled group of corporations (within the meaning of section 1563(a)) shall be treated as one issuer.”
+Subsec. (a)(2)(F)(ii). Pub. L. 99–514, §1879(l)(1), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “A corporation meets the requirements of this clause if not more than 25 percent of the value of its total assets is invested in the stock and securities of any one issuer, and not more than 50 percent of the value of its total assets is invested in the stock and securities of 5 or fewer issuers. For purposes of this clause, all members of a controlled group of corporations (within the meaning of section 1563(a)) shall be treated as one issuer.”
 
 Subsec. (a)(2)(G)(i). Pub. L. 99–514, §1804(g)(2), inserted “For purposes of the preceding sentence, if the acquired corporation is liquidated pursuant to the plan of reorganization, any distribution to its creditors in connection with such liquidation shall be treated as pursuant to the plan of reorganization.”
 
@@ -240,9 +240,9 @@ Subsec. (b). Pub. L. 88–272, §218(b)(2), inserted references to par. (1)(B) w
 
 Amendment by Pub. L. 106–36 applicable to transfers after Oct. 18, 1998, see section 3001(e) of Pub. L. 106–36, set out as a note under section 351 of this title.
 
-#### Effective Date of 1998 Amendments
+#### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–277 effective as if included in the provision of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 4003(<i>l</i>) of Pub. L. 105–277, set out as a note under section 86 of this title.
+Amendment by Pub. L. 105–277 effective as if included in the provision of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 4003(l) of Pub. L. 105–277, set out as a note under section 86 of this title.
 
 Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 
@@ -250,45 +250,45 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 Amendment by Pub. L. 105–34 applicable, with certain exceptions, to transfers after Aug. 5, 1997, see section 1012(d) of Pub. L. 105–34, set out as a note under section 351 of this title.
 
-#### Effective Date of 1989 Amendments
+#### Effective Date of 1989 Amendment
 
 Repeal of amendment by section 904(a) of Pub. L. 99–514 effective Oct. 22, 1986, and I.R.C. of 1986 applicable as if the amendment had not been enacted, see section 1401(b)(1) of Pub. L. 101–73, set out as a Repeal of Provisions Relating to Repeal of Special Reorganization Rules for Financial Institutions note set out under section 597 of this title, and section 1401(c)(4) of Pub. L. 101–73, set out as Effective Date of 1989 Amendment note under section 597 of this title.
 
-Section 1401(c)(1) of Pub. L. 101–73 provided that: “The amendment made by subsection (a)(1) \[amending this section\] shall apply to acquisitions on or after May 10, 1989.”
+Pub. L. 101–73, title XIV, §1401(c)(1), Aug. 9, 1989, 103 Stat. 550, provided that: “The amendment made by subsection (a)(1) \[amending this section\] shall apply to acquisitions on or after May 10, 1989.”
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 1018(q)(5) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by section 1018(q)(5) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Section 4012(b)(1)(C)(i) of Pub. L. 100–647 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply to acquisitions after the date of the enactment of this Act \[Nov. 10, 1988\] and before January 1, 1990.”
+Pub. L. 100–647, title IV, §4012(b)(1)(C)(i), Nov. 10, 1988, 102 Stat. 3657, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply to acquisitions after the date of the enactment of this Act \[Nov. 10, 1988\] and before January 1, 1990.”
 
 #### Effective Date of 1986 Amendment
 
 Repeal of amendment by section 806(f)(1) of Pub. L. 94–455 effective Jan. 1, 1986, with certain exceptions, see section 621(f)(2) of Pub. L. 99–514, set out as a note under section 382 of this title.
 
-Section 904(c)(1) of Pub. L. 99–514, as amended by Pub. L. 100–647, title IV, §4012(a)(1), Nov. 10, 1988, 102 Stat. 3656, which provided that the amendments made by subsection (a), amending this section, were to apply to acquisitions after Dec. 31, 1989, in taxable years ending after such date, was repealed by Pub. L. 101–73, title XIV, §1401(b)(1), Aug. 9, 1989, 103 Stat. 549.
+Pub. L. 99–514, title IX, §904(c)(1), Oct. 22, 1986, 100 Stat. 2385, as amended by Pub. L. 100–647, title IV, §4012(a)(1), Nov. 10, 1988, 102 Stat. 3656, which provided that the amendments made by subsection (a), amending this section, were to apply to acquisitions after Dec. 31, 1989, in taxable years ending after such date, was repealed by Pub. L. 101–73, title XIV, §1401(b)(1), Aug. 9, 1989, 103 Stat. 549.
 
 Amendment by section 1804(g)(2) of Pub. L. 99–514 applicable to plans of reorganizations adopted after Oct. 22, 1986, see section 1804(g)(4) of Pub. L. 99–514, set out as a note under section 361 of this title.
 
 Amendment by section 1804(h) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
-Section 1879(<i>l</i>)(2) of Pub. L. 99–514 provided that: “The amendment made by this subsection \[amending this section\] shall apply as if included in section 2131 of the Tax Reform Act of 1976 \[Pub. L. 94–455\].”
+Pub. L. 99–514, title XVIII, §1879(l)(2), Oct. 22, 1986, 100 Stat. 2910, provided that: “The amendment made by this subsection \[amending this section\] shall apply as if included in section 2131 of the Tax Reform Act of 1976 \[Pub. L. 94–455\].”
 
 #### Effective Date of 1984 Amendment
 
 Amendment by section 63(a) of Pub. L. 98–369 applicable to transactions pursuant to plans adopted after July 18, 1984, see section 63(c) of Pub. L. 98–369, set out as a note under section 312 of this title.
 
-Section 64(b) of Pub. L. 98–369 provided that: “The amendments made by this section \[amending this section\] shall apply to transactions pursuant to plans adopted after the date of the enactment of this Act \[July 18, 1984\].”
+Pub. L. 98–369, div. A, title I, §64(b), July 18, 1984, 98 Stat. 584, provided that: “The amendments made by this section \[amending this section\] shall apply totransactions pursuant to plans adopted after the date of the enactment of this Act \[July 18, 1984\].”
 
 Amendment by section 174(b)(5)(D) of Pub. L. 98–369 applicable to transactions after Dec. 31, 1983, in taxable years ending after that date, see section 174(c)(2)(A) of Pub. L. 98–369, set out as a note under section 267 of this title.
 
 #### Effective Date of 1983 Amendment
 
-Section 311(b)(2) of Pub. L. 97–448 provided that: “The amendment made by subsection (b) of section 304 \[amending this section\] shall take effect as if included in the amendments made by section 4 of such Act \[Pub. L. 96–589, the Bankruptcy Tax Act of 1980, see 1980 Amendment notes above\].”
+Pub. L. 97–448, title III, §311(b)(2), Jan. 12, 1983, 96 Stat. 2411, provided that: “The amendment made by subsection (b) of section 304 \[amending this section\] shall take effect as if included in the amendments made by section 4 of such Act \[Pub. L. 96–589, the Bankruptcy Tax Act of 1980, see 1980 Amendment notes above\].”
 
 #### Effective Date of 1982 Amendment
 
-Section 225(b) of Pub. L. 97–248 provided that:
+Pub. L. 97–248, title II, §225(b), Sept. 3, 1982, 96 Stat. 490, provided that:
 
 “(1)
 
@@ -300,7 +300,7 @@ Plans adopted on or before august 31, 1982.—The amendment made by subsection (
 
 #### Effective Date of 1981 Amendment
 
-Section 246(a) of Pub. L. 97–34 provided that: “The amendment made by sections 241 and 242 \[amending this section and section 382 of this title\] shall apply to any transfer made on or after January 1, 1981.”
+Pub. L. 97–34, title II, §246(a), Aug. 13, 1981, 95 Stat. 256, provided that: “The amendment made by sections 241 and 242 \[amending this section and section 382 of this title\] shall apply to any transfer made on or after January 1, 1981.”
 
 #### Effective Date of 1980 Amendment
 
@@ -308,7 +308,7 @@ Amendment by Pub. L. 96–589 applicable to bankruptcy cases or similar judicial
 
 #### Effective Date of 1978 Amendment
 
-Section 701(j)(2) of Pub. L. 95–600, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 95–600, title VII, §701(j)(2), Nov. 6, 1978, 92 Stat. 2906, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(A) Except as provided in subparagraphs (B) and (C), the amendments made by paragraph (1) \[amending this section\] shall apply as if included in section 368(a)(2)(F) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] as added by section 2131(a) of the Tax Reform Act of 1976 \[Pub. L. 94–455, title XX, §2131(a), Oct. 4, 1976, 90 Stat. 1922\].
 
@@ -318,7 +318,7 @@ Section 701(j)(2) of Pub. L. 95–600, as amended by Pub. L. 99–514, §2, Oct.
 
 #### Effective Date of 1976 Amendment
 
-Section 2131(f)(1), (2) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 94–455, title XXI, §2131(f)(1), (2), Oct. 4, 1976, 90 Stat. 1924, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1) Except as provided in paragraph (2), the amendment made by subsection (a) \[amending this section\] shall apply to transfers made after February 17, 1976, in taxable years ending after such date.
 
@@ -328,15 +328,15 @@ For effective date of amendment by section 806(f)(1) of Pub. L. 94–455, see se
 
 #### Effective Date of 1971 Amendment
 
-Section 1(c) of Pub. L. 91–693 provided that: “The amendments made by this section \[amending this section\] shall apply to statutory mergers occurring after December 31, 1970.”
+Pub. L. 91–693, §1(c), Jan. 12, 1971, 84 Stat. 2077, provided that: “The amendments made by this section \[amending this section\] shall apply to statutory mergers occurring after December 31, 1970.”
 
 #### Effective Date of 1968 Amendment
 
-Section 1(c) of Pub. L. 90–621 provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply to statutory mergers occurring after the date of the enactment of this Act \[Oct. 22, 1968\].”
+Pub. L. 90–621, §1(c), Oct. 22, 1968, 82 Stat. 1311, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply to statutory mergers occurring after the date of the enactment of this Act \[Oct. 22, 1968\].”
 
 #### Effective Date of 1964 Amendment
 
-Section 218(c) of Pub. L. 88–272 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to transactions after December 31, 1963, in taxable years ending after such date.”
+Pub. L. 88–272, title II, §218(c), Feb. 26, 1964, 78 Stat. 57, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to transactions after December 31, 1963, in taxable years ending after such date.”
 
 #### Plan Amendments Not Required Until January 1, 1989
 

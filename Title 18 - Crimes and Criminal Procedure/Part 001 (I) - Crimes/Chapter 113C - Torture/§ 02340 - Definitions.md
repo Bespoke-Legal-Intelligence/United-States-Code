@@ -14,9 +14,9 @@ As used in this chapter—
 
 &emsp;&emsp;(D) the threat that another person will imminently be subjected to death, severe physical pain or suffering, or the administration or application of mind-altering substances or other procedures calculated to disrupt profoundly the senses or personality; and
 
-&emsp;(3) “United States” means the several States of the United States, the District of Columbia, and the commonwealths, territories, and possessions of the United States.
+&emsp;(3) “United States” means the several States of the United States, the District of Columbia,and the commonwealths, territories, and possessions of the United States.
 
-(Added Pub. L. 103–236, title V, §506(a), Apr. 30, 1994, 108 Stat. 463; amended Pub. L. 103–415, §1(k), Oct. 25, 1994, 108 Stat. 4301; Pub. L. 103–429,§2(2), Oct. 31, 1994, 108 Stat. 4377; Pub. L. 108–375, div. A, title X, §1089, Oct. 28, 2004, 118 Stat. 2067.)
+(Added Pub. L. 103–236, title V, §506(a), Apr. 30, 1994, 108 Stat. 463; amended Pub. L. 103–415, §1(k), Oct. 25, 1994, 108 Stat. 4301; Pub. L. 103–429, §2(2), Oct. 31, 1994, 108 Stat. 4377; Pub. L. 108–375, div. A, title X, §1089, Oct. 28, 2004, 118 Stat. 2067.)
 
 #### Amendments
 
@@ -28,7 +28,7 @@ Par. (3). Pub. L. 103–429 substituted “section 46501(2) of title 49” for �
 
 #### Effective Date
 
-Section 506(c) of Pub. L. 103–236 provided that: “The amendments made by this section \[enacting this chapter\] shall take effect on the later of—
+Pub. L. 103–236, title V, §506(c), Apr. 30, 1994, 108 Stat. 464, provided that: “The amendments made by this section \[enacting this chapter\] shall take effect on the later of—
 
 &emsp;“(1) the date of enactment of this Act \[Apr. 30, 1994\]; or
 

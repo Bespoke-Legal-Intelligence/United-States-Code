@@ -180,7 +180,7 @@ Subsecs. (d) to (k). Pub. L. 109–162, §1163(a)(4), redesignated subsecs. (f) 
 
 #### Purposes of 1994 Amendments
 
-Section 10002 of title I of Pub. L. 103–322 provided that: “The purposes of this title \[see Short Title of 1994 Amendment note set out under section 3711 of this title\] are to—
+Pub. L. 103–322, title I, §10002, Sept. 13, 1994, 108 Stat. 1807, provided that: “The purposes of this title \[see Short Title of 1994 Amendment note set out under section 3711 of this title\] are to—
 
 &emsp;“(1) substantially increase the number of law enforcement officers interacting directly with members of the community (‘cops on the beat’);
 
@@ -218,7 +218,7 @@ Village public safety officer.—The term ‘village public safety officer’ me
 
 &emsp;“(3)
 
-Tribal organization.—The term ‘tribal organization’ has the meaning given that term in section 4 of the Indian Self-Determination and Educational \[Education\] Assistance Act (25 U.S.C. 450b(<i>l</i>)).
+Tribal organization.—The term ‘tribal organization’ has the meaning given that term in section 4 of the Indian Self-Determination and Educational \[Education\] Assistance Act (25 U.S.C. 450b(l)).
 
 “(b)
 

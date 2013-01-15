@@ -12,9 +12,29 @@
 
 (b) A personal action commenced in any State court by an alien against any citizen of a State who is, or at the time the alleged action accrued was, a civil officer of the United States and is a nonresident of such State, wherein jurisdiction is obtained by the State court by personal service of process, may be removed by the defendant to the district court of the United States for the district and division in which the defendant was served with process.
 
-(c) As used in subsection (a), the terms “civil action” and “criminal prosecution” include any proceeding (whether or not ancillary to another proceeding) to the extent that in such proceeding a judicial order, including a subpoena fortestimony or documents, is sought or issued. If removal is sought for a proceeding described in the previous sentence, and there is no other basis for removal, only that proceeding may be removed to the district court.
+(c) Solely for purposes of determining the propriety of removal under subsection (a), a law enforcement officer, who is the defendant in a criminal prosecution, shall be deemed to have been acting under the color of his office if the officer—
 
-(June 25, 1948, ch. 646, 62 Stat. 938; Pub. L. 104–317, title II, §206(a), Oct. 19, 1996, 110 Stat. 3850; Pub. L. 112–51, §2(a), (b), Nov. 9, 2011, 125 Stat. 545.)
+&emsp;(1) protected an individual in the presence of the officer from a crime of violence;
+
+&emsp;(2) provided immediate assistance to an individual who suffered, or who was threatened with, bodily harm; or
+
+&emsp;(3) prevented the escape of any individual who the officer reasonably believed to have committed, or was about to commit, in the presence of the officer, a crime of violence that resulted in, or was likely to result in, death or serious bodily injury.
+
+(d) In this section, the following definitions apply:
+
+&emsp;(1) The terms “civil action” and “criminal prosecution” include any proceeding (whether or not ancillary to another proceeding) to the extent that in such proceeding a judicial order, including a subpoena for testimony or documents, is sought or issued. If removal is sought for a proceeding described in the previous sentence, and there is no other basis for removal, only that proceeding may be removed to the district court.
+
+&emsp;(2) The term “crime of violence” has the meaning given that term in section 16 of title 18.
+
+&emsp;(3) The term “law enforcement officer” means any employee described in subparagraph (A), (B), or (C) of section 8401(17) of title 5 and any special agent in the Diplomatic Security Service of the Department of State.
+
+&emsp;(4) The term “serious bodily injury” has the meaning given that term in section 1365 of title 18.
+
+&emsp;(5) The term “State” includes the District of Columbia, United States territories and insular possessions, and Indian country (as defined in section 1151 of title 18).
+
+&emsp;(6) The term “State court” includes the Superior Court of the District of Columbia, a court of a United States territory or insular possession, and a tribal court.
+
+(June 25, 1948, ch. 646, 62 Stat. 938; Pub. L. 104–317, title II, §206(a), Oct. 19, 1996, 110 Stat. 3850; Pub. L. 112–51, §2(a), (b), Nov. 9, 2011, 125 Stat. 545; Pub. L. 112–239, div. A, title X, §1087, Jan. 2, 2013, 126 Stat. 1969.)
 
 #### Historical and Revision Notes
 
@@ -29,6 +49,8 @@ The procedural provisions of section 76 of title 28, U.S.C., 1940 ed., are incor
 Changes were made in phraseology.
 
 #### Amendments
+
+<b>2013</b>—Subsecs. (c), (d). Pub. L. 112–239 added subsecs. (c) and (d) and struck out former subsec. (c) which read as follows: “As used in subsection (a), the terms ‘civil action’ and ‘criminal prosecution’ include any proceeding (whether or not ancillary to another proceeding) to the extent that in such proceeding a judicial order, including a subpoena for testimony or documents, is sought or issued. If removal is sought for a proceeding described in the previous sentence, and there is no other basis for removal, only that proceeding may be removed to the district court.”
 
 <b>2011</b>—Subsec. (a). Pub. L. 112–51, §2(a)(1), inserted “that is” after “or criminal prosecution”, “and that is” after “in a State court”, and “or directed to” after “against” in introductory provisions.
 

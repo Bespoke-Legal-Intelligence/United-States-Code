@@ -6,7 +6,7 @@ A person who, having devised or intending to devise a scheme or artifice to defr
 
 &emsp;(2) files a document in a proceeding under title 11; or
 
-&emsp;(3) makes a false or fraudulent representation, claim, or promise concerning or in relation to a proceeding under title 11, at any time before or after the filing of the petition, or inrelation to a proceeding falsely asserted to be pending under such title,
+&emsp;(3) makes a false or fraudulent representation, claim, or promise concerning or in relation to a proceeding under title 11, at any time before or after the filing of the petition, or in relation to a proceeding falsely asserted to be pending under such title,
 
 > shall be fined under this title, imprisoned not more than 5 years, or both.
 

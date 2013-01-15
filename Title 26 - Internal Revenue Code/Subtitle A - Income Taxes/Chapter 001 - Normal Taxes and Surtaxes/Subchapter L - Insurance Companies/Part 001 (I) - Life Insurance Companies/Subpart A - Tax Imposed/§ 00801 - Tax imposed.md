@@ -36,11 +36,11 @@ For purposes of this part, the term “life insurance company taxable income” 
 
 &emsp;&emsp;<b>For provision taxing distributions to shareholders from pre-1984 policyholders surplus account, see section 815.</b>
 
-(Added Pub. L. 98–369, div. A, title II, §211(a), July 18, 1984, 98 Stat. 720; amended Pub. L. 99–514, title X, §1011(b)(3), Oct. 22, 1986, 100 Stat. 2389.)
+(Added Pub. L. 98–369, div. A, title II, §211(a), July 18, 1984, 98 Stat. 720; amended Pub. L.99–514, title X, §1011(b)(3), Oct. 22, 1986, 100 Stat. 2389.)
 
 #### Prior Provisions
 
-A prior section 801, added Pub. L. 86–69, §2(a), June 25, 1959, 73 Stat. 112; amended Pub. L. 87–858, §3(a), Oct. 23, 1962, 76 Stat. 1134; Pub. L. 91–172, title I, §121(b)(5)(B), Dec. 30, 1969, 83 Stat. 541; Pub. L. 93–406, title II, §2002(g)(11), Sept. 2, 1974, 88 Stat. 970; Pub. L. 94–455, title XV, §1505(a), title XIX, §§1901(c)(6), 1906(b)(13)(A),Oct. 4, 1976, 90 Stat. 1738, 1803, 1834; Pub. L. 95–600, title VII, §703(j)(4), Nov. 6, 1978, 92 Stat. 2941, defined “life insurance company” and related terms, prior to the general revision of this part by Pub. L. 98–369, §211(a). See section 816 of this title.
+A prior section 801, added Pub. L. 86–69, §2(a), June 25, 1959, 73 Stat. 112; amended Pub. L. 87–858, §3(a), Oct. 23, 1962, 76 Stat. 1134; Pub. L. 91–172, title I, §121(b)(5)(B), Dec. 30, 1969, 83 Stat. 541; Pub. L. 93–406, title II, §2002(g)(11), Sept. 2, 1974, 88 Stat. 970; Pub. L. 94–455, title XV, §1505(a), title XIX, §§1901(c)(6), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1738, 1803, 1834; Pub. L. 95–600, title VII, §703(j)(4), Nov. 6, 1978, 92 Stat. 2941, defined “life insurance company” and related terms, prior to the general revision of this part by Pub. L. 98–369, §211(a). See section 816 of this title.
 
 Another prior section 801, acts Aug. 16, 1954, ch. 736, 68A Stat. 255; Mar. 13, 1956, ch. 83, §2, 70 Stat. 36, contained provisions similar to this section, prior to the the general revision of this part by Pub. L. 86–69, §2(a).
 
@@ -58,7 +58,7 @@ Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date
 
-Section 215 of Pub. L. 98–369 provided that: “The amendments made by this subtitle \[subtitle A (§§211–219) of title II of div. A of Pub. L. 98–369, amending this part, enacting section 845 of this title, amending sections 72, 80, 243, 381, 401, 453B, 542, 594, 832, 841, 844, 891, 953, 1016, 1035, 1201, 1232A, 1351, 1503, 1504, 1561, 1563, 4371, 6501, 6511, 6601, and 6611 of this title, and enacting provisions set out as notes under this section and sections 453B, 806, 807, 809, 814, 816, 845, and 6655 of this title\] shall apply to taxable years beginning after December 31, 1983.”
+Pub. L. 98–369, div. A, title II, §215, July 18, 1984, 98 Stat. 758, provided that: “The amendments made by this subtitle \[subtitle A (§§211–219) of title II of div. A of Pub. L. 98–369, amending this part, enacting section 845 of this title, amending sections 72, 80, 243, 381, 401, 453B, 542, 594, 832, 841, 844, 891, 953, 1016, 1035, 1201, 1232A, 1351, 1503, 1504, 1561, 1563, 4371, 6501, 6511, 6601, and 6611 of this title, and enacting provisions set out as notes under this section and sections 453B, 806, 807, 809, 814, 816, 845, and 6655 of this title\] shall apply to taxable years beginning after December 31, 1983.”
 
 #### Treatment of Certain Workers’ Compensation Funds
 
@@ -88,7 +88,7 @@ Qualified Group Self-Insurers’ Fund.—For purposes of this section, the term 
 
 #### Treatment of Certain Market Discount Bonds
 
-Section 1011(d) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1010(a)(2), (3), Nov. 10, 1988, 102 Stat. 3450, 3451, provided that:
+Pub. L. 99–514, title X, §1011(d), Oct. 22, 1986, 100 Stat. 2390, as amended by Pub. L. 100–647, title I, §1010(a)(2), (3), Nov. 10, 1988, 102 Stat. 3450, 3451, provided that:
 
 “(1)
 
@@ -100,15 +100,15 @@ Qualified life insurance company.—For purposes of paragraph (1), the term ‘q
 
 #### Waiver of Interest on Certain Underpayments of Tax
 
-Section 1829 of Pub. L. 99–514 provided that: “No interest shall be payable for any period before July 19, 1984, on any underpayment of a tax imposed by the Internal Revenue Code of 1954 \[now 1986\], to the extent such underpayment was created or increased by any provision of subtitle A of title II of the Tax Reform Act of 1984 \[see Effective Date note above\] (relating to taxation of life insurance companies).”
+Pub. L. 99–514, title XVIII, §1829, Oct. 22, 1986, 100 Stat. 2851, provided that: “No interest shall be payable for any period before July 19, 1984, on any underpayment of a tax imposed by the Internal Revenue Code of 1954 \[now 1986\], to the extent such underpayment was created or increased by any provision of subtitle A of title II of the Tax Reform Act of 1984 \[see Effective Date note above\] (relating to taxation of life insurance companies).”
 
 #### Scope of Section 255 of the Tax Equity and Fiscal Responsibility Act of 1982
 
-Section 1830 of Pub. L. 99–514 provided that: “In the case of any taxable year beginning before January 1, 1982, in applying the provisions of section 255(c)(2) of the Tax Equity and Fiscal Responsibility Act of 1982 \[section 255(c)(2) of Pub. L. 97–248, 96 Stat. 534, formerlyset out as a note under section 809 of this title\], the Internal Revenue Service shall give full and complete effect to the terms of any modified coinsurance contract. The terms to be given effect within the meaning of this provision shall include, but are not limited to, the effective date and investment income rate as stated in such contract.”
+Pub. L. 99–514, title XVIII, §1830, Oct. 22, 1986, 100 Stat. 2851, provided that: “In the case of any taxable year beginning before January 1, 1982, in applying the provisions of section 255(c)(2) of the Tax Equity and Fiscal Responsibility Act of 1982 \[section 255(c)(2) of Pub. L. 97–248, 96 Stat. 534, formerly set out as a note under section 809 of this title\], the Internal Revenue Service shall give full and complete effect to the terms of any modified coinsurance contract. The terms to be given effect within the meaning of this provision shall include, but are not limited to, the effective date and investment income rate as stated in such contract.”
 
 #### Treatment of Certain Self-Insured Workers’ Compensation Funds
 
-Section 1879(q) of Pub. L. 99–514 provided that:
+Pub. L. 99–514, title XVIII, §1879(q), Oct. 22, 1986, 100 Stat. 2911, provided that:
 
 “(1)
 
@@ -336,15 +336,15 @@ Elections.—Any election under paragraph (1) or (2)—
 
 #### Treatment of Certain Companies Operating Both as Stock and Mutual Company
 
-Section 217(e) of Pub. L. 98–369 provided that: “If, during the 10-year period ending on December 31, 1983, a company has, as authorized by the law of the State in which the company is domiciled, been operating as a mutual life insurance company with shareholders, such company shall be treated as a stock life insurance company.”
+Pub. L. 98–369, div. A, title II, §217(e), July 18, 1984, 98 Stat. 762, provided that: “If, during the 10-year period ending on December 31, 1983, a company has, as authorized by the law of the State in which the company is domiciled, been operating as a mutual life insurance company with shareholders, such company shall be treated as a stock life insurance company.”
 
 #### Treatment of Reinsurance Agreements Required by National Association of Insurance Commissioners
 
-Section 217(g) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Effective for taxable years beginning after December 31, 1981, and before January 1, 1984, subsections (c)(1)(F) and (d)(12) of section 809 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as in effect on the day before the date of the enactment of this Act \[July 18, 1984\]) shall not apply to dividends to policyholders reimbursed to the taxpayer by a reinsurer in respect of accident and health policies reinsured under a reinsurance agreement entered into before June 30, 1955, pursuant to the direction of the National Association of Insurance Commissioners and approved by the State insurance commissioner of the taxpayer's State of domicile. For purposes of subchapter L of chapter 1 of such Code (as in effect on the day before the date of the enactment of this Act) any such dividends shall be treated as dividends of the reinsurer and not the taxpayer.”
+Pub. L. 98–369, div. A, title II, §217(g), July 18, 1984, 98 Stat. 763, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Effective for taxable years beginning after December 31, 1981, and before January 1, 1984, subsections (c)(1)(F) and (d)(12) of section 809 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as in effect on the day before the date of the enactment of this Act \[July 18, 1984\]) shall not apply to dividends to policyholders reimbursed to the taxpayer by a reinsurer in respect of accident and health policies reinsured under a reinsurance agreement entered into before June 30, 1955, pursuant to the direction of the National Association of Insurance Commissioners and approved by the State insurance commissioner of the taxpayer's State of domicile. For purposes of subchapter L of chapter 1 of such Code (as in effect on the day before the date of the enactment of this Act) any such dividends shall be treated as dividends of the reinsurer and not the taxpayer.”
 
 #### Reports to Congress on Revenue, Segment Balance, Etc.
 
-Section 231 of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–369, div. A, title II, §231, July 18, 1984, 98 Stat. 776, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(a)
 

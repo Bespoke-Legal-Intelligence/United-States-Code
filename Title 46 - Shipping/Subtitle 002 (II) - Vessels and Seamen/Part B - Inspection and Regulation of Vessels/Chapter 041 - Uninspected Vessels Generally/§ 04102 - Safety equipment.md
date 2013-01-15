@@ -14,7 +14,7 @@
 
 (2) The Secretary shall require under paragraph (1) the use of a fire suppression system or other measures to provide adequate assurance that a fire on board a towing vessel that is towing a non-self-propelled tank vessel can be suppressed under reasonably foreseeable circumstances.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 528; Pub. L. 99–640, §16, Nov. 10, 1986, 100 Stat. 3552; Pub. L. 100–424, §2(c), Sept. 9, 1988, 102 Stat. 1590; Pub. L. 100–540, §1(a), Oct. 28, 1988, 102 Stat. 2719; Pub. L. 104–324, title IX, §902(a), Oct. 19, 1996, 110 Stat. 3947; Pub. L. 105–383, title III, §301(b)(3), Nov. 13, 1998, 112 Stat. 3417; Pub. L. 111–281, title VI, §619, Oct. 15, 2010, 124 Stat. 2975.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 528; Pub. L. 99–640, §16, Nov. 10, 1986, 100 Stat. 3552; Pub. L. 100–424, §2(c), Sept. 9, 1988, 102 Stat. 1590; Pub. L. 100–540, §1(a), Oct. 28, 1988, 102 Stat. 2719; Pub. L. 104–324, title IX, §902(a), Oct. 19, 1996, 110 Stat.3947; Pub. L. 105–383, title III, §301(b)(3), Nov. 13, 1998, 112 Stat. 3417; Pub. L. 111–281, title VI, §619, Oct. 15, 2010, 124 Stat. 2975.)
 
 Historical and Revision Notes
 
@@ -44,7 +44,7 @@ Section 4102 requires uninspected vessels to comply with certain provisions that
 
 <b>2010</b>—Subsec. (b). Pub. L. 111–281 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Each uninspected vessel propelled by machinery shall carry at least one readily accessible life preserver or other lifesaving device, of the type prescribed by regulation, for each individual on board.”
 
-<b>1998</b>—Subsec. (e). Pub. L. 105–383 substituted “owned in the United States and operating beyond 3 nautical miles from the baselines from which the territorial seaof the United States is measured” for “operating on the high seas”.
+<b>1998</b>—Subsec. (e). Pub. L. 105–383 substituted “owned in the United States and operating beyond 3 nautical miles from the baselines from which the territorial sea of the United States is measured” for “operating on the high seas”.
 
 <b>1996</b>—Subsec. (f). Pub. L. 104–324 added subsec. (f).
 

@@ -50,7 +50,7 @@ Filing of Requests.—Except as provided under subsection (d), an application fo
 
 (d)
 
-Search Warrant Limitation.—An application for execution of a request for a search warrant from a foreign authority under this section, other than an application for a warrant issued as provided under section 2703 of this title, shallbe filed in the district in which the place or person to be searched is located.
+Search Warrant Limitation.—An application for execution of a request for a search warrant from a foreign authority under this section, other than an application for a warrant issued as provided under section 2703 of this title, shall be filed in the district in which the place or person to be searched is located.
 
 (e)
 

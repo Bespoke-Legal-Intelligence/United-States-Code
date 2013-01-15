@@ -2,7 +2,7 @@
 
 (a)
 
-Travel and Transportation Authorized.—(1) Under uniform regulations prescribed by the Secretaries concerned, travel and transportation described in subsection (c) may be provided for not more than three individuals who, with respect to a member described in paragraph (2), are designated individuals for that memberif the attending physician or surgeon and the commander or head of the military medical facility exercising control over the member determine, with respect to any such individual, that the presence of such individual may contribute to the member's health and welfare. In circumstances determined to be appropriate by the Secretary concerned, the Secretary may waive the limitation on the number of designated individuals provided travel and transportation under this section.
+Travel and Transportation Authorized.—(1) Under uniform regulations prescribed by the Secretaries concerned, travel and transportation described in subsection (c) may be provided for not more than three individuals who, with respect to a member described in paragraph (2), are designated individuals for that member if the attending physician or surgeon and the commander or head of the military medical facility exercising control over the member determine, with respect to any such individual, that the presence of such individual may contribute to the member's health and welfare. In circumstances determined to be appropriate by the Secretary concerned, the Secretary may waive the limitation on the number of designated individuals provided travel and transportation under this section.
 
 (2) A member referred to in paragraph (1) is a member of the uniformed services who—
 
@@ -14,7 +14,7 @@ Travel and Transportation Authorized.—(1) Under uniform regulations prescribed
 
 &emsp;&emsp;(ii) is not described in clause (i), but has a wound or an injury incurred in an operation or area designated as a combat operation or combat zone, respectively, by the Secretary of Defense and is hospitalized in a medical facility for treatment of that wound or injury.
 
-(3) Not more than a total of three roundtrips may be provided under paragraph (1) in any 60-day period at Government expense to the individuals who, with respect to a member, are the designated individuals of that member in effect during that period. However, if the Secretary concerned has granted a waiver under the second sentence of paragraph (1) with respect to a member, then for any 60-day period in which the waiver is in effect the limitation in the preceding sentence shall be adjusted accordingly. In addition, during any period during which there is in effect a non-medical attendant designation for a member under section 481k of this title, not more than a total of two roundtrips may be provided under paragraph (1) in any 60-day period at Government expense until there no longer is a designation of a non-medical attendant or that designation transfers to another individual, in which case during the transfer period three roundtrips may be provided.
+(3) Not more than a total of three roundtrips may be provided under paragraph (1) in any 60-day period at Government expense to the individuals who, with respect to a member, are the designated individuals of that member in effect during that period. However, if the Secretary concerned has granted a waiver under the second sentence of paragraph (1) with respect to a member, then for any 60-day period in which the waiver is in effect the limitation in the preceding sentence shall be adjusted accordingly. In addition, during any period during which there is in effect a non-medical attendant designation for a member under section 481k of this title, not more than a total of two roundtrips may be provided under paragraph (1) in any 60-day period at Government expense until there nolonger is a designation of a non-medical attendant or that designation transfers to another individual, in which case during the transfer period three roundtrips may be provided.
 
 (4) In the case of a designated individual who is also a member of the uniformed services, that member may be provided travel and transportation under this section in the same manner as a designated individual who is not a member.
 
@@ -56,7 +56,7 @@ Definitions.—(1) In this section, the term “designated individual”, with r
 
 Round Trip Transportation and Per Diem Allowance.—(1) The transportation authorized by subsection (a) is round-trip transportation between the home of the designated individual and the location of the medical facility in which the member is hospitalized.
 
-(2) In addition to the transportation authorized by subsection (a), the Secretary concernedmay provide a per diem allowance or reimbursement for the actual and necessary expenses of the travel, or a combination thereof, but not to exceed the rates established under section 474(d) of this title.
+(2) In addition to the transportation authorized by subsection (a), the Secretary concerned may provide a per diem allowance or reimbursement for the actual and necessary expenses of the travel, or a combination thereof, but not to exceed the rates established under section 474(d) of this title.
 
 (d)
 
@@ -76,15 +76,13 @@ Method of Transportation Authorized.—(1) The transportation authorized by subs
 
 Termination.—No transportation, allowance, reimbursement, or per diem may be provided under this section for travel that begins after the travel authorities transition expiration date.
 
-(Added Pub. L. 100–180, div. A, title VI, §615(a)(1), Dec. 4, 1987, 101 Stat. 1095, §411h; amended Pub. L. 100–456, div. A, title VI, §632(a), Sept. 29, 1988, 102 Stat. 1985; Pub. L. 103–337, div. A, title VI, §624, Oct. 5, 1994, 108 Stat. 2785; Pub. L. 108–136, div. A, title VI, §632, Nov. 24, 2003, 117 Stat. 1508; Pub. L. 108–375, div. A, title VI, §632(a), (b), Oct. 28, 2004, 118 Stat. 1956; Pub. L. 109–13, div. A, title I, §1026(a), (b)(1), May 11, 2005, 119 Stat. 254; Pub. L. 109–163, div. A, title VI, §655(b), Jan. 6, 2006, 119 Stat. 3314; Pub. L. 109–364, div. A, title VI, §631, Oct. 17, 2006, 120 Stat. 2258; Pub. L. 111–84, div. A, title VI, §632(a)–(g)(1), Oct. 28, 2009, 123 Stat. 2359–2362; renumbered §481h and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(21), (f)(4)(A), Dec. 31, 2011, 125 Stat. 1460, 1463, 1465.)
-
-#### Codification
-
-Section 631(f)(4)(A) of Pub. L. 112–81, which directed that this title be amended by conforming any references to sections of this title which were transferred and redesignated by “subsection (c)” of section 631, was executed by conforming the references to those sections as transferred and redesignated by subsection (d) of section 631, to reflect the probable intent of Congress.
+(Added Pub. L. 100–180, div. A, title VI, §615(a)(1), Dec. 4, 1987, 101 Stat. 1095, §411h; amended Pub. L. 100–456, div. A, title VI, §632(a), Sept. 29, 1988, 102 Stat. 1985; Pub. L. 103–337, div. A, title VI, §624, Oct. 5, 1994, 108 Stat. 2785; Pub. L. 108–136, div. A, title VI, §632, Nov. 24, 2003, 117 Stat. 1508; Pub. L. 108–375, div. A, title VI, §632(a), (b), Oct. 28, 2004, 118 Stat. 1956; Pub. L. 109–13, div. A, title I, §1026(a), (b)(1), May 11, 2005, 119 Stat. 254; Pub. L. 109–163, div. A, title VI, §655(b), Jan. 6, 2006, 119 Stat. 3314; Pub. L. 109–364, div. A, title VI, §631, Oct. 17, 2006, 120 Stat. 2258; Pub. L. 111–84, div. A, title VI, §632(a)–(g)(1), Oct. 28, 2009, 123 Stat. 2359–2362; renumbered §481h and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(21), (f)(4)(A), Dec. 31, 2011, 125 Stat. 1460, 1463, 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 112–81, §631(f)(4)(A), substituted “481k” for “411k” in subsec. (a)(3) and “474” for “404” in subsec. (c)(2). See Codification note above.
+<b>2013</b>—Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, §631(f)(4)(A). See 2011 Amendment note below.
+
+<b>2011</b>—Pub. L. 112–81, §631(f)(4)(A), as amended by Pub. L. 112–239, §1076(a)(9), substituted “481k” for “411k” in subsec. (a)(3) and “474” for “404” in subsec. (c)(2).
 
 Pub. L. 112–81, §631(d)(2), renumbered section 411h of this title as this section.
 
@@ -150,11 +148,13 @@ Subsec. (b)(3). Pub. L. 103–337, §624(b), added par. (3).
 
 <b>1988</b>—Subsec. (a)(2). Pub. L. 100–456 amended par. (2) generally, inserting “or is entitled to pay and allowances under section 204(g) of this title (or would be so entitled were it not for offsetting earned income described in that section)” in subpar. (A).
 
+#### Effective Date of 2013 Amendment
+
+Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
+
 #### Effective Date of 2009 Amendment
 
-Pub. L. 111–84, div. A, title VI, §632(i), Oct. 28, 2009, 123 Stat. 2362, as amended by Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465, provided that: “No reimbursement may be provided under section 481h of title 37, United States Code, by reason of the amendments made by this section \[amending this section and provisions set out as a note under section 1071 of Title 10, Armed Forces\] for travel and transportation costs incurred before the date of the enactment of this Act \[Oct. 28, 2009\].”
-
-\[Amendment by Pub. L. 112–81 to section 632(i) of Pub. L. 111–84, set out above, was executed to reflect the probable intent of Congress, notwithstanding an error in the directory language.\]
+Pub. L. 111–84, div. A, title VI, §632(i), Oct. 28, 2009, 123 Stat. 2362, as amended by Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that: “No reimbursement may be provided under section 481h of title 37, United States Code, by reason of the amendments made by this section \[amending this section and provisions set out as a note under section 1071 of Title 10, Armed Forces\] for travel and transportation costs incurred before the date of the enactment of this Act \[Oct. 28, 2009\].”
 
 #### Effective Date of 2006 Amendment
 
@@ -168,13 +168,11 @@ Pub. L. 109–163, div. A, title VI, §655(c), Jan. 6, 2006, 119 Stat. 3314, pro
 
 Pub. L. 109–77, §115, Sept. 30, 2005, 119 Stat. 2040, provided that: “The provisions of, and amendments made by, sections 1011, 1012, 1013, 1023, and 1026 of Public Law 109–13 \[amending this section, section 1478 of Title 10, Armed Forces, and sections 1967, 1969, 1970, and 1977 of Title 38, Veterans’ Benefits, and enacting provisions set out as notes under this section, section 1478 of Title 10, and section 1967 of Title 38\] shall continue in effect, notwithstanding the fiscal year limitation in section 1011 \[119 Stat. 244\] and the provisions of sections 1012(i), 1013(e), 1023(c), and 1026(e) of that Public Law \[enacting provisions set out as notes under this section, section 1478 of Title 10, and section 1967 of Title 38\], through the earlier of: (1) the date specified in section 106(3) of this joint resolution \[Dec. 31, 2005\]; or (2) with respect to any such section of Public Law 109–13, the date of the enactment into law of legislation that supersedes the provisions of, or the amendments made by, that section.”
 
-Pub. L. 109–13, div. A, title I, §1026(e), May 11, 2005, 119 Stat. 255, which provided that the amendments made by section 1026 of Pub. L. 109–13 (amending this section) were to terminate Sept. 30, 2005, and that effective Oct. 1, 2005, the provisions of section 411h of title 37 as in effect on the date before the date of the enactment of this Act (May 11, 2005) were to be revived, was repealed by Pub. L. 109–163, div. A, title VI, §655(a), Jan. 6, 2006, 119 Stat. 3314. See Effective Date of 2006 Amendment note and section 115 of Pub. L. 109–77 set out above.
+Pub. L. 109–13, div. A, title I, §1026(e), May 11, 2005, 119 Stat. 255, which provided that the amendments made by section 1026 of Pub. L. 109–13 (amending this section) were to terminate Sept. 30, 2005, and that effective Oct. 1, 2005, the provisions of section 411h of title 37 as in effect on the date before the date of the enactment of this Act (May 11, 2005) were to be revived, was repealedby Pub. L. 109–163, div. A, title VI, §655(a), Jan. 6, 2006, 119 Stat. 3314. See Effective Date of 2006 Amendment note and section 115 of Pub. L. 109–77 set out above.
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–375, div. A, title VI, §632(c), Oct. 28, 2004, 118 Stat. 1956, as amended by Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465, provided that: “Section 481h of title 37, United States Code, as amended by this section, shall apply to travel and transportation authorized under such section that is provided on or after October 1, 2004, to family members of a member of the Armed Forces who is ill or injured as described in such section.”
-
-\[Amendment by Pub. L. 112–81 to section 632(c) of Pub. L. 108–375, set out above, was executed to reflect the probable intent of Congress, notwithstanding an error in the directory language.\]
+Pub. L. 108–375, div. A, title VI, §632(c), Oct. 28, 2004, 118 Stat. 1956, as amended by Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that: “Section 481h of title 37, United States Code, as amended by this section, shall apply to travel and transportation authorized under such section that is provided on or after October 1, 2004, to family members of a member of the Armed Forces who is ill or injured as described in such section.”
 
 #### Effective Date of 1988 Amendment
 
@@ -182,9 +180,7 @@ Amendment by Pub. L. 100–456 effective Oct. 1, 1988, see section 632(c) of Pub
 
 #### Effective Date
 
-Pub. L. 100–180, div. A, title VI, §615(b), Dec. 4, 1987, 101 Stat. 1096, as amended by Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465, provided that: “The authority to provide transportation or to pay transportation expenses under section 481h of title 37, United States Code, as added by subsection (a), shall be effective only with respect to travel that occurs on or after the effective date of regulations prescribed under such section.”
-
-\[Amendment by Pub. L. 112–81 to section 615(b) of Pub. L. 100–180, set out above, was executed to reflect the probable intent of Congress, notwithstanding an error in the directory language.\]
+Pub. L. 100–180, div. A, title VI, §615(b), Dec. 4, 1987, 101 Stat. 1096, as amended by Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that: “The authority to provide transportation or to pay transportation expenses under section 481h of title 37, United States Code, as added by subsection (a), shall be effective only with respect to travel that occurs on or after the effective date of regulations prescribed under such section.”
 
 #### Report on Travel in Excess of Certain Limit
 

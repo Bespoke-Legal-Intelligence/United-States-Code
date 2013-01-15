@@ -66,7 +66,7 @@ The eligible agency shall provide at such time and in such manner as the Commiss
 
 &emsp;&emsp;(B) the number and types of individuals with significant disabilities receiving services through the center;
 
-&emsp;&emsp;(C) the types of services provided through the center and the number of individuals with significant disabilities receiving each type of service;
+&emsp;&emsp;(C) the types of services provided through the center and the number of individualswith significant disabilities receiving each type of service;
 
 &emsp;&emsp;(D) the sources and amounts of funding for the operation of the center;
 
@@ -90,7 +90,7 @@ The eligible agency shall provide at such time and in such manner as the Commiss
 
 #### Prior Provisions
 
-A prior section 796f–4, Pub. L. 93–112, title VII, §725, as added Pub. L. 102–569, title VII, §701(2), Oct. 29, 1992, 106 Stat. 4462; amended Pub. L. 103–73, title I, §114(<i>l</i>),Aug. 11, 1993, 107 Stat. 731, related to standards and assurances for centers for independent living, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 796f–4, Pub. L. 93–112, title VII, §725, as added Pub. L. 102–569, title VII, §701(2), Oct. 29, 1992, 106 Stat. 4462; amended Pub. L. 103–73, title I, §114(l), Aug. 11, 1993, 107 Stat. 731, related to standards and assurances for centers for independent living, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
 #### Amendments
 

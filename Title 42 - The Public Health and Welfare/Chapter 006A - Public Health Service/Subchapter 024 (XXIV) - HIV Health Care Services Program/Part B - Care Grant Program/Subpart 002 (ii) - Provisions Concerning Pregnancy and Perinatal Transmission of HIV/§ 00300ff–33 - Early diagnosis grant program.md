@@ -84,7 +84,7 @@ Section effective Oct. 1, 1996, see section 13 of Pub. L. 104–146, set out as 
 
 #### Perinatal Transmission of HIV Disease; Congressional Findings
 
-Section 7(a) of Pub. L. 104–146 provided that: “The Congress finds as follows:
+Pub. L. 104–146, §7(a), May 20, 1996, 110 Stat. 1368, provided that: “The Congress finds as follows:
 
 &emsp;“(1) Research studies and statewide clinical experiences have demonstrated that administration of anti-retroviral medication during pregnancy can significantly reduce the transmission of the human immunodeficiency virus (commonly known as HIV) from an infected mother to her baby.
 

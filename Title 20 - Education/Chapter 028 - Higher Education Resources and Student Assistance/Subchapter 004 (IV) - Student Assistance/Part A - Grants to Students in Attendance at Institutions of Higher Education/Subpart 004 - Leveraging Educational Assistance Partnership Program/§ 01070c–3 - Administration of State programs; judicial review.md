@@ -10,7 +10,7 @@
 
 &emsp;(B) that in the administration of the program there is a failure to comply substantially with any such provisions,
 
-> the Secretary shall notify such State agency that the State will not be regarded as eligible toparticipate in the program under this subpart until he is satisfied that there is no longer any such failure to comply.
+> the Secretary shall notify such State agency that the State will not be regarded as eligible to participate in the program under this subpart until he is satisfied that there is no longer any such failure to comply.
 
 #### (b) Review of decisions
 

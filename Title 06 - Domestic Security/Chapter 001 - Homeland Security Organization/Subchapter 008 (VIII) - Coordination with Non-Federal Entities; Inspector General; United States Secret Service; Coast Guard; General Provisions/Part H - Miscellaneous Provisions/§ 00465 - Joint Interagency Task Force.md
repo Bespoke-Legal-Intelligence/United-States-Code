@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary may establish and operate a permanent Joint Interagency Homeland Security Task Force composed of representatives from military and civilian agencies of theUnited States Government for the purposes of anticipating terrorist threats against the United States and taking appropriate actions to prevent harm to the United States.
+The Secretary may establish and operate a permanent Joint Interagency Homeland Security Task Force composed of representatives from military and civilian agencies of the United States Government for the purposes of anticipating terrorist threats against the United States and taking appropriate actions to prevent harm to the United States.
 
 #### (b) Structure
 

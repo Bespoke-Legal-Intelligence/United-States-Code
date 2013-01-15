@@ -46,7 +46,7 @@ For purposes of this section, the term “plan” means—
 
 &emsp;Any amount distributed as provided in paragraph (1) shall be treated as earned and received by the recipient in the recipient's taxable year in which such distributions were made.
 
-(Added Pub. L. 99–514, title XI, §1117(b)(1), Oct. 22, 1986, 100 Stat. 2461; amended Pub. L. 100–647, title I, §1011(<i>l</i>)(8)–(11), Nov. 10, 1988, 102 Stat. 3470, 3471; Pub. L. 109–280, title IX, §902(e)(1)–(3)(A), Aug. 17, 2006, 120 Stat. 1038.)
+(Added Pub. L. 99–514, title XI, §1117(b)(1), Oct. 22, 1986, 100 Stat. 2461; amended Pub. L. 100–647, title I, §1011(l)(8)–(11), Nov. 10, 1988, 102 Stat. 3470, 3471; Pub. L. 109–280, title IX, §902(e)(1)–(3)(A), Aug. 17, 2006, 120 Stat. 1038.)
 
 #### Amendments
 
@@ -64,13 +64,13 @@ In general.—Except as provided in subparagraph (B), any amount distributed as 
 
 De minimis distributions.—If the total excess contributions and excess aggregate contributions distributed to a recipient under a plan for any plan year are less than $100, such distributions (and any income allocable thereto) shall be treated as earned and received by the recipient in his taxable year in which such distributions were made.”
 
-<b>1988</b>—Subsec. (a)(1). Pub. L. 100–647, §1011(<i>l</i>)(8), struck out “a cash or deferred arrangement which is part of” after “contributions under”.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–647, §1011(l)(8), struck out “a cash or deferred arrangement which is part of” after “contributions under”.
 
-Subsec. (c). Pub. L. 100–647, §1011(<i>l</i>)(9), struck out “403(b),” and substituted “408(k)(6)(C)” for “408(k)(8)(B)”.
+Subsec. (c). Pub. L. 100–647, §1011(l)(9), struck out “403(b),” and substituted “408(k)(6)(C)” for “408(k)(8)(B)”.
 
-Subsec. (d). Pub. L. 100–647, §1011(<i>l</i>)(10), inserted sentence at end relating to determination of excess aggregate contributions under certain annuity contracts.
+Subsec. (d). Pub. L. 100–647, §1011(l)(10), inserted sentence at end relating to determination of excess aggregate contributions under certain annuity contracts.
 
-Subsec. (f)(2). Pub. L. 100–647, §1011(<i>l</i>)(11), substituted “Year of inclusion” for “Included in prior year” as heading, and amended text generally. Prior to amendment, text read as follows: “Any amount distributed as provided in paragraph (1) shall be treated as received and earned by the recipient in his taxable year for which such contribution was made.”
+Subsec. (f)(2). Pub. L. 100–647, §1011(l)(11), substituted “Year of inclusion” for “Included in prior year” as heading, and amended text generally. Prior to amendment, text read as follows: “Any amount distributed as provided in paragraph (1) shall be treated as received and earned by the recipient in his taxable year for which such contribution was made.”
 
 #### Effective Date of 2006 Amendment
 

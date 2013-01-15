@@ -10,5 +10,5 @@ Regular sessions of the legislature shall be held annually, commencing on the se
 
 #### Effective Date of 1968 Amendment
 
-Section 6(a) of Pub. L. 90–497 provided that the amendment made by that section is effective on date of enactment of Pub. L. 90–497, which was approved Sept. 11, 1968.
+Pub. L. 90–497, §6(a), Sept. 11, 1968, 82 Stat. 846, provided that the amendment made by that section is effective on date of enactment of Pub. L. 90–497, which was approved Sept. 11, 1968.
 

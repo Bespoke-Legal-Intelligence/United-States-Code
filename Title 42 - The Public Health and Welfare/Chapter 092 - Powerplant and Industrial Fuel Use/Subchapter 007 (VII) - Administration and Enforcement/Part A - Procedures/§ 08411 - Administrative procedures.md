@@ -14,7 +14,7 @@ Before the Secretary prescribes any rule or issues any order imposing a prohibit
 
 (2) The Secretary, upon receipt of such petition, shall notify the appropriate State agencies having primary authority to permit or regulate the construction or operation of the electric powerplant which is the subject of such petition, and, to the maximum extent practicable, consult with such agencies.
 
-(3) The Secretary, within 6 months after the period for public comment and hearing applicable to any petition for an exemption, shall issue a final order granting or denying the petition for such exemption, except that the Secretary may extend such period to a specified date if he publishes notice thereof in the Federal Register and includes with such notice a statement of the reasons for such extension.
+(3) The Secretary, within 6 months after the period for public comment and hearing applicable to any petition for an exemption, shall issuea final order granting or denying the petition for such exemption, except that the Secretary may extend such period to a specified date if he publishes notice thereof in the Federal Register and includes with such notice a statement of the reasons for such extension.
 
 #### (d) Public comment on prohibitions and exemptions
 

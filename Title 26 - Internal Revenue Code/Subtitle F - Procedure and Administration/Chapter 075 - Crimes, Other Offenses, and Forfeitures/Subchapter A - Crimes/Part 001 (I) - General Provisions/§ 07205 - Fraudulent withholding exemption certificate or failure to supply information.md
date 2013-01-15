@@ -18,7 +18,7 @@ If any individual willfully makes a false certification under paragraph (1) or (
 
 &emsp;“(2) a false certification under paragraph (1) or (2)(C) of section 3406(d),
 
-> then such individual shall, in addition to any other penalty provided by law, upon conviction thereof, befined not more than $1,000, or imprisoned not more than 1 year, or both.”
+> then such individual shall, in addition to any other penalty provided by law, upon conviction thereof, be fined not more than $1,000, or imprisoned not more than 1 year, or both.”
 
 <b>1984</b>—Pub. L. 98–369 in subsecs. (a) and (b) substituted “in addition to” for “in lieu of” and struck out reference to penalty under section 6682 after “penalty provided by law”.
 
@@ -46,7 +46,7 @@ Amendment by Pub. L. 101–239 applicable to returns and statements the due date
 
 #### Effective Date of 1984 Amendment
 
-Section 159(b) of Pub. L. 98–369 provided that: “The amendments made by this section \[amending this section\] shall apply to actions and failures to act occurring after the date of the enactment of this Act \[July 18, 1984\].”
+Pub. L. 98–369, div. A, title I, §159(b), July 18, 1984, 98 Stat. 696, provided that: “The amendments made by this section \[amending this section\] shall apply to actions and failures to act occurring after the date of the enactment of this Act \[July 18, 1984\].”
 
 #### Effective Date of 1983 Amendment
 

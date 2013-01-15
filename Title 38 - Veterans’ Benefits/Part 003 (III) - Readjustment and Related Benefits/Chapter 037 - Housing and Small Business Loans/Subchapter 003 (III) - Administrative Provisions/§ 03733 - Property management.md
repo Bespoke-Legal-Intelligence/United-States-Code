@@ -16,7 +16,7 @@
 
 (ii) A loan described in subparagraph (A) may, to the extent the Secretary determines to be necessary in order to market competitively the property involved, exceed 95 percent of the purchase price.
 
-(5) The Secretary may include, as part of a loan to finance a purchase of real property fromthe Secretary described in paragraph (1), an amount to be used only for the purpose of rehabilitating such property. Such amount may not exceed the amount necessary to rehabilitate the property to a habitable state, and payments shall be made available periodically as such rehabilitation is completed.
+(5) The Secretary may include, as part of a loan to finance a purchase of real property from the Secretary described in paragraph (1), an amount to be used only for the purpose of rehabilitating such property. Such amount may not exceed the amount necessary to rehabilitate the property to a habitable state, and payments shall be made available periodically as such rehabilitation is completed.
 
 (6) The Secretary shall make a loan to finance the sale of real property described in paragraph (1) at an interest rate that is lower than the prevailing mortgage market interest rate in areas where, and to the extent, the Secretary determines, in light of prevailing conditions in the real estate market involved, that such lower interest rate is necessary in order to market the property competitively and is in the interest of the long-term stability and solvency of the Veterans Housing Benefit Program Fund established by section 3722(a) of this title.
 
@@ -28,7 +28,7 @@
 
 &emsp;(C) the reference in paragraph (2) to “September 30, 1990,” were a reference to “September 30, 2013,”.
 
-(b) The Secretary may not make a loan to finance a purchase of property acquired by the Secretary as a result of a default on a loan guaranteed under this chapter unless the purchaser meets the credit underwriting standards established under section 3710(g)(2)(A) of this title.
+(b) The Secretary may not make a loan to finance a purchase of property acquired by the Secretary as a result of a default on a loan guaranteed under this chapter unless the purchasermeets the credit underwriting standards established under section 3710(g)(2)(A) of this title.
 
 (c)(1) The Secretary shall identify and compile information on common factors which the Secretary finds contribute to foreclosures on loans guaranteed under this chapter.
 
@@ -142,23 +142,23 @@ Amendment by Pub. L. 105–368 effective Oct. 1, 1998, see section 602(f) of Pub
 
 #### Effective Date of 1991 Amendment
 
-Section 14(g)(1) of Pub. L. 102–54 provided that the amendment made by that section is effective as of May 20, 1988.
+Pub. L. 102–54, §14(g)(1), June 13, 1991, 105 Stat. 288, provided that the amendment made by that section is effective as of May 20, 1988.
 
 #### Effective Date of 1989 Amendments
 
-Section 5003(b) of Pub. L. 101–239 provided that: “Subsection (e) of section 1833 \[now 3733\] of title 38, United States Code, as added by subsection (a), shall apply with respect to amounts referred to in such subsection (e) received on or after October 1, 1989.”
+Pub. L. 101–239, title V, §5003(b), Dec. 19, 1989, 103 Stat. 2137, provided that: “Subsection (e) of section 1833 \[now 3733\] of title 38, United States Code, as added by subsection (a), shall apply with respect to amounts referred to in such subsection (e) received on or after October 1, 1989.”
 
-Section 305(b)(1) of Pub. L. 101–237, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that: “If, before the date and time of the enactment of this Act \[Dec. 18, 1989\], no provision of law has been enacted amending section 1833 \[now 3733\] of title 38, United States Code, by adding a new subsection (e) with a text substantively identical to the text of the new subsection (e) added to such section 1833 \[now 3733\] by subsection (a)(3) of this section, the provisions of subsection (a)(1) of this section amending subsection (a)(3) of such section 1833 \[now 3733\] shall not take effect.”
+Pub. L. 101–237, title III, §305(b)(1), Dec. 18, 1989, 103 Stat. 2074, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that: “If, before the date and time of the enactment of this Act \[Dec. 18, 1989\], no provision of law has been enacted amending section 1833 \[now 3733\] of title 38, United States Code, by adding a new subsection (e) with a text substantively identical to the text of the new subsection (e) added to such section 1833 \[now 3733\] by subsection (a)(3) of this section, the provisions of subsection (a)(1) of this section amending subsection (a)(3) of such section 1833 \[now 3733\] shall not take effect.”
 
-Section 305(b)(2) of Pub. L. 101–237, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that: “Subsection (e) of section 1833 \[now 3733\] of such title 38, as added by subsection (a)(3), shall apply with respect to amounts referred to in such subsection (e) received after September 30, 1989.”
+Pub. L. 101–237, title III, §305(b)(2), Dec. 18, 1989, 103 Stat. 2074, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that: “Subsection (e) of section 1833 \[now 3733\] of such title 38, as added by subsection (a)(3), shall apply with respect to amounts referred to in such subsection (e) received after September 30, 1989.”
 
 #### Effective Date of 1987 Amendments
 
-Section 7003(b) of Pub. L. 100–203 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as of October 1, 1987.”
+Pub. L. 100–203, title VII, §7003(b), Dec. 22, 1987, 101 Stat. 1330–279, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as of October 1, 1987.”
 
-Section 6(a)(2) of Pub. L. 100–198 provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect as of October 1, 1987.”
+Pub. L. 100–198, §6(a)(2), Dec. 21, 1987, 101 Stat. 1318, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect as of October 1, 1987.”
 
-Section 6(b)(2) of Pub. L. 100–198 provided that: “The amendment made by this subsection \[amending thissection\] shall apply to loans made more than 30 days after the date of the enactment of this Act \[Dec. 21, 1987\].”
+Pub. L. 100–198, §6(b)(2), Dec. 21, 1987, 101 Stat. 1318, provided that: “The amendment made by this subsection \[amending this section\] shall apply to loans made more than 30 days after the date of the enactment of this Act \[Dec. 21, 1987\].”
 
 #### Effective Date of 1984 Amendment
 
@@ -166,7 +166,7 @@ Amendment by Pub. L. 98–369 effective Oct. 1, 1984, see section 2512(c) of Pub
 
 #### Rule for Construction of Duplicate Provisions
 
-Section 7004(b) of title VII of Pub. L. 100–203 provided that: “In applying the provisions of this title \[title VII of Pub. L. 100–203\] and the provisions of the Veterans’ Home Loan Program Improvements and Property Rehabilitation Act of 1987 \[Pub. L. 100–198\] which make the same amendments as the provisions of this title \[amending sections 1816 \[now 3733\] and 1829 \[now 3729\] of this title\]—
+Pub. L. 100–203, title VII, §7004(b), Dec. 22, 1987, 101 Stat. 1330–280, provided that: “In applying the provisions of this title \[title VII of Pub. L. 100–203\] and the provisions of the Veterans’ Home Loan Program Improvements and Property Rehabilitation Act of 1987 \[Pub. L. 100–198\] which make the same amendments as the provisions of this title \[amending sections 1816 \[now 3733\] and 1829 \[now 3729\] of this title\]—
 
 &emsp;“(1) the identical provisions of title 38, United States Code, amended by the provisions of this title and the provisions of such Act shall be treated as having been amended only once; and
 
@@ -174,5 +174,5 @@ Section 7004(b) of title VII of Pub. L. 100–203 provided that: “In applying 
 
 #### Report to Congress
 
-Section 6(c) of Pub. L. 100–198 directed Administrator of Veterans’ Affairs, by Mar. 1, 1990, to transmit to Congress a report of activities carried out, through Dec. 31, 1989, under paragraphs (4) and (5) of section 1816(d) of this title \[which became pars. (4) and (5) of subsec. (a) of this section\].
+Pub. L. 100–198, §6(c), Dec. 21, 1987, 101 Stat. 1318, directed Administrator of Veterans’ Affairs, by Mar. 1, 1990, to transmit to Congress a report of activities carried out, through Dec. 31, 1989, under paragraphs (4) and (5) of section 1816(d) of this title \[which became pars. (4) and (5) of subsec. (a) of this section\].
 

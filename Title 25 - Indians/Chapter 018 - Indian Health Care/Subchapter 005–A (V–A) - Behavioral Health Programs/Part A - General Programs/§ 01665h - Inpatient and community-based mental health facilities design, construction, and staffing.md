@@ -1,6 +1,6 @@
 ### §1665h. Inpatient and community-based mental health facilities design, construction, and staffing
 
-Not later than 1 year after March 23, 2010, the Secretary, acting through the Service, may provide, in each area of the Service, not less than 1 inpatient mental health care facility, or the equivalent, for Indians with behavioral health problems. For the purposes of this subsection,<sup>1</sup> California shall be considered to be 2 area offices, 1 office whose location shall be considered to encompass the northern area of the State of California and 1 office whose jurisdiction shall be considered to encompass the remainder of the State of California. The Secretary shall consider the possible conversion of existing, underused Service hospital beds into psychiatric units to meet such need.
+Not later than 1 year after March 23, 2010, the Secretary, acting through the Service, may provide, in each area of the Service, not less than 1 inpatient mental health care facility, or the equivalent, for Indians with behavioral health problems. For the purposes of this subsection,<sup>1</sup> California shall be considered to be 2 area offices, 1 office whose location shall be considered to encompass the northern area of the State of California and 1 office whose jurisdiction shall be considered to encompass the remainder of the State of California. The Secretary shall considerthe possible conversion of existing, underused Service hospital beds into psychiatric units to meet such need.
 
 (Pub. L. 94–437, title VII, §709, as added Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
@@ -10,7 +10,7 @@ Section 709 of Pub. L. 94–437 is based on section 181 of title I of S. 1790, O
 
 #### Prior Provisions
 
-A prior section 1665h, Pub. L. 94–437, title VII, §709, as added Pub. L. 102–573, title VII, §702(a), Oct. 29, 1992, 106Stat. 4579, related to the Pueblo substance abuse treatment project for San Juan Pueblo, New Mexico, prior to the general amendment of this subchapter by Pub. L. 111–148.
+A prior section 1665h, Pub. L. 94–437, title VII, §709, as added Pub. L. 102–573, title VII, §702(a), Oct. 29, 1992, 106 Stat. 4579, related to the Pueblo substance abuse treatment project for San Juan Pueblo, New Mexico, prior to the general amendment of this subchapter by Pub. L. 111–148.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section,”.</i>
 

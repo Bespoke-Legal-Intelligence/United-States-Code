@@ -54,11 +54,11 @@ A loan by an eligible lender shall be insurable by the Secretary under the provi
 
 &emsp;&emsp;(D) provides for interest on the unpaid principal balance of the loan at a yearly rate, not exceeding the applicable maximum rate prescribed and defined by the Secretary (within the limits set forth in subsection (b) of this section) on a national, regional, or other appropriate basis, which interest shall be compounded not more frequently than annually and payable in installments over the period of the loan except as provided in subparagraph (C), except that the note or other written agreement may provide that payment of any interest may be deferred until not later than the date upon which repayment of the first installment of principal falls due or the date repayment of principal is required to resume (whichever is applicable) and may further provide that, on such date, the amount of the interest which has so accrued may be added to the principal for the purposes of calculating a repayment schedule;
 
-&emsp;&emsp;(E) offers, in accordance with criteria prescribed by regulation by the Secretary, a schedule for repayment of principal and interest under which payment of a portion of the principal and interest otherwise payable at the beginning of the repayment period (as defined in such regulations) is deferred until a later time in the period;
+&emsp;&emsp;(E) offers, in accordance with criteria prescribed by regulation by the Secretary, aschedule for repayment of principal and interest under which payment of a portion of the principal and interest otherwise payable at the beginning of the repayment period (as defined in such regulations) is deferred until a later time in the period;
 
 &emsp;&emsp;(F) entitles the borrower to accelerate without penalty repayment of the whole or any part of the loan;
 
-&emsp;&emsp;(G) provides that the check for the proceeds of the loan shall be made payablejointly to the borrower and the eligible institution in which the borrower is enrolled; and
+&emsp;&emsp;(G) provides that the check for the proceeds of the loan shall be made payable jointly to the borrower and the eligible institution in which the borrower is enrolled; and
 
 &emsp;&emsp;(H) contains such other terms and conditions consistent with the provisions of this subpart and with the regulations issued by the Secretary pursuant to this subpart, as may be agreed upon by the parties to such loan, including, if agreed upon, a provision requiring the borrower to pay to the lender, in addition to principal and interest, amounts equal to the insurance premiums payable by the lender to the Secretary with respect to such loan; and
 
@@ -118,7 +118,7 @@ A prior section 705 of act July 1, 1944, was classified to section 292e of this 
 
 Pub. L. 105–244 substituted “section 1002(a)” for “section 1088(a)” in cl. (i).
 
-<b>1993</b>—Subsec. (a)(2)(H), (I). Pub. L. 103–43 redesignated subpar. (I) as (H) and struck out former subpar. (H) which read as follows: “notwithstanding the provisions of the Fair Debt Collection Practices Act, authorizesan institution or postgraduate training program attended by the borrower to assist in the collection of any loan that becomes delinquent, including providing information concerning the borrower to the Secretary and to past and present lenders and holders of the borrower's loans; and”.
+<b>1993</b>—Subsec. (a)(2)(H), (I). Pub. L. 103–43 redesignated subpar. (I) as (H) and struck out former subpar. (H) which read as follows: “notwithstanding the provisions of the Fair Debt Collection Practices Act, authorizes an institution or postgraduate training program attended by the borrower to assist in the collection of any loan that becomes delinquent, including providing information concerning the borrower to the Secretary and to past and present lenders and holders of the borrower's loans; and”.
 
 #### Effective Date of 1998 Amendments
 

@@ -10,7 +10,7 @@ The Administrator shall be paid compensation in an amount, established by the Bo
 
 #### (c) Authority for dual role
 
-The Congress consents, for purposes of the 8th clause of article I, section 9 of the Constitution of the United States, to the acceptance by the individual serving as Administrator of the Commission of appointment by the Republic of Panama to the position of Administrator of thePanama Canal Authority. Such consent is effective only if that individual, while serving in both such positions, serves as Administrator of the Panama Canal Authority without compensation, except for payments by the Republic of Panama of travel and entertainment expenses, including per diem payments.
+The Congress consents, for purposes of the 8th clause of article I, section 9 of the Constitutionof the United States, to the acceptance by the individual serving as Administrator of the Commission of appointment by the Republic of Panama to the position of Administrator of the Panama Canal Authority. Such consent is effective only if that individual, while serving in both such positions, serves as Administrator of the Panama Canal Authority without compensation, except for payments by the Republic of Panama of travel and entertainment expenses, including per diem payments.
 
 #### (d) Waiver of ethics and reporting requirements
 
@@ -46,7 +46,7 @@ Sections 501(a) and 502(a)(4) of the Ethics in Government Act of 1978, referred 
 
 #### Savings Provision
 
-Section 3523(b) of Pub. L. 104–201 provided that: “Nothing in this section \[amending this section\] (or section 3549(3) \[section 3549 of Pub. L. 104–201 did not contain a par. (3) and is not classified to the Code\]) shall be considered to affect—
+Pub. L. 104–201, div. C, title XXXV, §3523(b), Sept. 23, 1996, 110 Stat. 2860, provided that: “Nothing in this section \[amending this section\] (or section 3549(3) \[section 3549 of Pub. L. 104–201 did not contain a par. (3) and is not classified to the Code\]) shall be considered to affect—
 
 &emsp;“(1) the tenure of the individual serving as Administrator of the Commission on the day before subsection (a) takes effect \[section 3523(a) of Pub. L. 104–201, effective Sept. 23, 1996\]; or
 

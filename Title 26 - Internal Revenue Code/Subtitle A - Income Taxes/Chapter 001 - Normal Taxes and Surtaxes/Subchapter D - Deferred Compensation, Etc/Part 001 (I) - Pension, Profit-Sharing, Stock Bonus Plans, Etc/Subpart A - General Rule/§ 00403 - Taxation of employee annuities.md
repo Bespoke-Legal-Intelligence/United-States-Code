@@ -8,7 +8,7 @@
 
 #### (2) Special rule for health and long-term care insurance
 
-&emsp;To the extent provided in section 402(<i>l</i>), paragraph (1) shall not apply to the amount distributed under the contract which is otherwise includible in gross income under this subsection.
+&emsp;To the extent provided in section 402(l), paragraph (1) shall not apply to the amount distributed under the contract which is otherwise includible in gross income under this subsection.
 
 #### (3) Self-employed individuals
 
@@ -62,7 +62,7 @@
 
 #### (2) Special rule for health and long-term care insurance
 
-&emsp;To the extent provided in section 402(<i>l</i>), paragraph (1) shall not apply to the amount distributed under the contract which is otherwise includible in gross income under this subsection.
+&emsp;To the extent provided in section 402(l), paragraph (1) shall not apply to the amount distributed under the contract which is otherwise includible in gross income under this subsection.
 
 #### (3) Includible compensation
 
@@ -96,7 +96,7 @@
 
 &emsp;&emsp;&emsp;(i) the amounts are to be invested in regulated investment company stock to be held in that custodial account, and
 
-&emsp;&emsp;&emsp;(ii) under the custodial account no such amounts may be paid or made available to any distributee (unless such amount is a distribution to which section 72(t)(2)(G) applies) before the employee dies, attains age 59½, has a severance from employment, becomes disabled (within the meaning of section 72(m)(7)), or in the case of contributions made pursuant to a salary reduction agreement (within the meaningof section 3121(a)(5)(D)), encounters financial hardship.
+&emsp;&emsp;&emsp;(ii) under the custodial account no such amounts may be paid or made available to any distributee (unless such amount is a distribution to which section 72(t)(2)(G) applies) before the employee dies, attains age 59½, has a severance from employment, becomes disabled (within the meaning of section 72(m)(7)), or in the case of contributions made pursuant to a salary reduction agreement (within the meaning of section 3121(a)(5)(D)), encounters financial hardship.
 
 #### (B) Account treated as plan
 
@@ -188,7 +188,7 @@
 
 #### (c) Taxability of beneficiary under nonqualified annuities or under annuities purchased by exempt organizations
 
-Premiums paid by an employer for an annuity contract which is not subject to subsection (a) shall be included in the gross income of the employee in accordance with section 83 (relating to property transferred in connection with performance of services), except that the value of such contract shall be substituted for the fair market value of the property for purposes of applying such section. The preceding sentence shall not apply to that portion of the premiums paid which is excluded from gross income under subsection (b). In the case of any portion of any contract which is attributable to premiums to which this subsection applies, the amount actually paid or made available under such contract to any beneficiary which is attributable to such premiums shall be taxable to the beneficiary (in the year in which so paid or made available) under section 72 (relating to annuities).
+Premiums paid by an employer for an annuity contract which is not subject to subsection (a) shall be included in the gross income of the employee in accordance with section 83 (relating to property transferred in connection with performance of services), except that the value of such contract shall be substituted for the fair market value of the property for purposes of applying such section. The preceding sentenceshall not apply to that portion of the premiums paid which is excluded from gross income under subsection (b). In the case of any portion of any contract which is attributable to premiums to which this subsection applies, the amount actually paid or made available under such contract to any beneficiary which is attributable to such premiums shall be taxable to the beneficiary (in the year in which so paid or made available) under section 72 (relating to annuities).
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 137; Pub. L. 85–866, title I, §23(a)–(c), Sept. 2, 1958, 72 Stat. 1620–1622; Pub. L. 87–370, §3(a), Oct. 4, 1961, 75 Stat. 801; Pub. L. 87–792, §4(d), Oct. 10, 1962, 76 Stat. 825; Pub. L. 88–272, title II, §232(e)(4)–(6), Feb. 26, 1964, 78 Stat. 111; Pub. L. 91–172, title III, §321(b)(2), title V, §515(a)(2), Dec. 30, 1969, 83 Stat. 591, 644; Pub. L. 93–406, title II, §§1022(e), 2002(g)(6), 2004(c)(4), 2005(b)(2), Sept. 2, 1974, 88 Stat. 940, 969, 986, 991; Pub. L. 94–267, §1(b), Apr. 15, 1976, 90 Stat. 366; Pub. L. 94–455, title XIV, §1402(b)(1)(D), (2), title XV, §1504(a), title XIX, §§1901(a)(58), (b)(8)(A), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1731, 1732, 1738, 1774, 1794, 1834; Pub. L. 95–458, §4(b), Oct. 14, 1978, 92 Stat. 1259; Pub. L. 95–600, title I, §§154(a), 156(a), (b), 157(g)(2), Nov. 6, 1978, 92 Stat. 2801, 2802, 2808; Pub. L. 96–222, title I, §101(a)(12), (13)(C), Apr. 1, 1980, 94 Stat. 204; Pub. L. 97–34, title III, §311(b)(3)(B), Aug. 13, 1981, 95 Stat. 280; Pub. L. 97–248, title II, §251(a), (b), (c)(3), Sept. 3, 1982, 96 Stat. 529–531; Pub. L. 97–448, title I, §103(c)(8)(B), Jan. 12, 1983, 96 Stat. 2377; Pub. L. 98–21, title I, §122(c)(4), Apr. 20, 1983, 97 Stat. 87; Pub. L. 98–369, div. A, title IV, §491(d)(12), title V, §§521(c), 522(a)(2), (3), (d)(9)–(11), title X, §1001(b)(4), (e), July 18, 1984, 98 Stat. 849, 867, 869–871, 1011, 1012; Pub. L. 99–514, title XI, §§1120(a), (b), 1122(b)(1)(B), (d), 1123(c), title XVIII, §1852(a)(3)(A), (B), (5)(B), (b)(10), Oct. 22, 1986, 100 Stat. 2463, 2466, 2469, 2474, 2865, 2867; Pub. L. 100–647, title I, §1011(c)(7)(B), (12), (m)(1), (2), title VI, §6052(a)(1), Nov. 10, 1988, 102 Stat. 3458, 3459, 3471, 3696; Pub. L. 101–508, title XI, §11701(k), Nov. 5, 1990, 104 Stat. 1388–513; Pub. L. 102–318, title V, §§521(b)(12), (13), 522(a)(3), (c)(2), (3), July 3, 1992, 106 Stat. 311, 314, 315; Pub. L. 104–188, title I, §§1450(c)(1), 1704(t)(69), Aug. 20, 1996, 110 Stat. 1815, 1891; Pub. L. 105–34, title XV, §§1504(a)(1), 1505(c), title XVI, §1601(d)(6)(B), Aug. 5, 1997, 111 Stat. 1063, 1064, 1090; Pub. L. 105–206, title VI, §6005(c)(2)(B), July 22, 1998, 112 Stat. 800; Pub. L. 106–554, §1(a)(7) \[title III, §314(e)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–643; Pub. L. 107–16, title VI, §§632(a)(2), 641(b)(1), (e)(7), 642(b)(1), 646(a)(2), 647(a), June 7, 2001, 115 Stat. 113, 120, 121, 126, 127; Pub. L. 107–147, title IV, §411(p)(1)–(3), Mar. 9, 2002, 116 Stat. 49, 50; Pub. L. 108–311, title IV, §§404(e), 408(a)(11), Oct. 4, 2004, 118 Stat. 1188, 1191; Pub. L. 109–135, title IV, §412(w), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 109–280, title VIII, §§827(b)(2), (3), 829(a)(2), (3), 845(b)(1), (2), Aug. 17, 2006, 120 Stat. 1000, 1002, 1015; Pub. L. 110–245, title I, §104(c)(2), June 17, 2008, 122 Stat. 1627.)
 
@@ -230,7 +230,7 @@ Subsec. (b)(3). Pub. L. 107–16, §632(a)(2)(C), inserted “or any amount rece
 
 Subsec. (b)(7)(A)(ii). Pub. L. 107–16, §646(a)(2)(A), substituted “has a severance from employment” for “separates from service”.
 
-Subsec. (b)(8)(A)(ii). Pub. L. 107–16, §641(b)(1), substituted “such distribution to an eligible retirement plan described in section 402(c)(8)(B), and” for “such distribution to an individual retirement plan or to an annuity contract described in paragraph (1), and”.
+Subsec. (b)(8)(A)(ii). Pub. L. 107–16, §641(b)(1), substituted “such distribution to an eligible retirementplan described in section 402(c)(8)(B), and” for “such distribution to an individual retirement plan or to an annuity contract described in paragraph (1), and”.
 
 Subsec. (b)(8)(B). Pub. L. 107–16, §641(e)(7), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Rules similar to the rules of paragraphs (2) through (7) of section 402(c) (including paragraph (4)(C) thereof) shall apply for purposes of subparagraph (A).”
 
@@ -350,7 +350,7 @@ Subsec. (b)(2)(C), (D). Pub. L. 97–248, §251(a)(2), added subpars. (C) and (D
 
 Subsec. (b)(9). Pub. L. 97–248, §251(b), added par. (9).
 
-<b>1981</b>—Subsec. (b)(8)(B)(i). Pub. L. 97–34 inserted “, or 1 or more distributions of accumulated deductible employee contributions (within the meaning of section 72(<i>o</i>)(5))” after “subsection (a)”.
+<b>1981</b>—Subsec. (b)(8)(B)(i). Pub. L. 97–34 inserted “, or 1 or more distributions of accumulated deductible employee contributions (within the meaning of section 72(o)(5))” after “subsection (a)”.
 
 <b>1980</b>—Subsec. (b). Pub. L. 96–222 substituted in par. (1) “409(b)(3)(C)” for “409(d)(3)(C)”, and in par. (7)(A) “which satisfies” for “which satisfied”.
 
@@ -396,7 +396,7 @@ Subsec. (b)(7). Pub. L. 93–406, §1022(e), added par. (7).
 
 <b>1969</b>—Subsec. (a)(2)(C). Pub. L. 91–172, §515(a)(2), added subpar. (C).
 
-Subsec. (c). Pub. L. 91–172, §321(b)(2), consolidated provisions of subsec. (c) providing for taxability of beneficiary under a nonqualified annuity, the employees gross income to include amount contributed by employer for annuity contract in the year in which amount is contributed, the amount to be included as provided in section 72 of this title and of subsec. (d) providing for taxability of beneficiary under certain forfeitable contracts purchased by exempt organizations, including farmers’ cooperatives, the gross income to include amount contributed by employer after Dec. 31, 1957, in the year of change from forfeitable to nonforfeitable rights, the new provisions including premiums paid by an employer in accordance with section 83, except that value of the contract shall be substituted for fair market value of the property for purposes of applying such section 83, such provision not to be applicable to that portion of premiums paid which is excluded from gross income under subsec. (b) of this section.
+Subsec. (c). Pub. L. 91–172, §321(b)(2), consolidated provisions of subsec. (c) providing for taxability of beneficiary under a nonqualified annuity, the employees gross income to include amount contributed by employer for annuity contract in the year in whichamount is contributed, the amount to be included as provided in section 72 of this title and of subsec. (d) providing for taxability of beneficiary under certain forfeitable contracts purchased by exempt organizations, including farmers’ cooperatives, the gross income to include amount contributed by employer after Dec. 31, 1957, in the year of change from forfeitable to nonforfeitable rights, the new provisions including premiums paid by an employer in accordance with section 83, except that value of the contract shall be substituted for fair market value of the property for purposes of applying such section 83, such provision not to be applicable to that portion of premiums paid which is excluded from gross income under subsec. (b) of this section.
 
 Subsec. (d). Pub. L. 91–172, §321(b)(2), struck out subsec. (d) providing for taxability of beneficiary under certain forfeitable contracts purchased by exempt organizations, including farmers’ cooperatives, gross income of the employee to include (amount contributed by employer after Dec. 31, 1957), in year of change from forfeitable to nonforfeitable rights. See subsec. (c) of this section.
 
@@ -458,7 +458,7 @@ Amendment by section 6005 of Pub. L. 105–206 applicable to distributions after
 
 #### Effective Date of 1997 Amendment
 
-Section 1504(a)(2) of Pub. L. 105–34 provided that: “The amendment made by this subsection \[amending this section\] shall apply to years beginning after December 31, 1997.”
+Pub. L. 105–34, title XV, §1504(a)(2), Aug. 5, 1997, 111 Stat. 1063, provided that: “The amendment made by this subsection \[amending this section\] shall apply to years beginning after December 31, 1997.”
 
 Amendment by section 1505(c) of Pub. L. 105–34 applicable to taxable years beginning on or after Aug. 5, 1997, with certain governmental plans treated as satisfying requirements for all taxable years beginning before Aug. 5, 1997, see section 1505(d) of Pub. L. 105–34, set out as a note under section 401 of this title.
 
@@ -466,7 +466,7 @@ Amendment by section 1601(d)(6)(B) of Pub. L. 105–34 effective as if included 
 
 #### Effective Date of 1996 Amendment
 
-Section 1450(c)(2) of Pub. L. 104–188 provided that: “The amendment made by this subsection \[amending this section\] shall apply to years beginning after December 31, 1995, except a contract shall not be required to meet any change in any requirement by reason of such amendment before the 90th day after the date of the enactment of this Act \[Aug. 20, 1996\].”
+Pub. L. 104–188, title I, §1450(c)(2), Aug. 20, 1996, 110 Stat. 1815, provided that: “The amendment made by this subsection \[amending this section\] shall apply to years beginning after December 31, 1995, except a contract shall not be required to meet any change in any requirement by reason of such amendment before the 90th day after the date of the enactment of this Act \[Aug. 20, 1996\].”
 
 #### Effective Date of 1992 Amendment
 
@@ -484,11 +484,11 @@ Amendment by section 1011(c)(7)(B) of Pub. L. 100–647 applicable to plan years
 
 Amendment by section 1011(c)(12), (m)(1), (2) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Section 6052(a)(2) of Pub. L. 100–647 provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect as if included in the amendment made by section 1120(b) of the Reform Act \[Pub. L. 99–514\].”
+Pub. L. 100–647, title VI, §6052(a)(2), Nov. 10, 1988, 102 Stat. 3696, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect as if included in the amendment made by section 1120(b) of the Reform Act \[Pub. L. 99–514\].”
 
 #### Effective Date of 1986 Amendment
 
-Section 1120(c) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1011(m)(3), Nov. 10, 1988, 102 Stat. 3471, provided that:
+Pub. L. 99–514, title XI, §1120(c), Oct. 22, 1986, 100 Stat. 2464, as amended by Pub. L. 100–647, title I, §1011(m)(3), Nov. 10, 1988, 102 Stat. 3471, provided that:
 
 “(1)
 
@@ -510,7 +510,7 @@ Amendment by section 1122(b)(1)(B), (d) of Pub. L. 99–514 applicable, except a
 
 Amendment by section 1123(c) of Pub. L. 99–514 applicable to years beginning after Dec. 31, 1988, but only with respect to distributions from contracts described in subsec. (b) of this section which are attributable to assets other than assets held as of the close of the last year beginning before Jan. 1, 1989, with certain exceptions and transition rule, see section 1123(e) of Pub. L. 99–514, as amended, set out as a note under section 72 of this title.
 
-Section 1852(a)(3)(C) of Pub. L. 99–514 provided that: “The amendments made by this paragraph \[amending this section\] shall apply to benefits accruing after December 31, 1986, in taxable years ending after such date.”
+Pub. L. 99–514, title XVIII, §1852(a)(3)(C), Oct. 22, 1986, 100 Stat. 2865, provided that: “The amendments made by this paragraph \[amending this section\] shall apply to benefits accruing after December 31, 1986, in taxable years ending after such date.”
 
 Amendment by section 1852(a)(5)(B), (b)(10) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
@@ -518,13 +518,13 @@ Amendment by section 1852(a)(5)(B), (b)(10) of Pub. L. 99–514 effective, excep
 
 Amendment by section 491(d)(12) of Pub. L. 98–369 applicable to obligations issued after Dec. 31, 1983, see section 491(f)(1) of Pub. L. 98–369, set out as a note under section 62 of this title.
 
-Amendment by section 521(c) of Pub. L. 98–369 applicable to years beginning after Dec. 31, 1984, see section521(e) of Pub. L. 98–369, set out as a note under section 401 of this title.
+Amendment by section 521(c) of Pub. L. 98–369 applicable to years beginning after Dec. 31, 1984, see section 521(e) of Pub. L. 98–369, set out as a note under section 401 of this title.
 
 Amendment by section 522 of Pub. L. 98–369 applicable to distributions made after July 18, 1984, in taxable years ending after that date, see section 522(e) of Pub. L. 98–369, set out as a note under section 402 of this title.
 
 Amendment by section 1001(b)(4) of Pub. L. 98–369 applicable to property acquired after June 22, 1984, and before Jan. 1, 1988, see section 1001(e) of Pub. L. 98–369, set out as a note under section 166 of this title.
 
-#### Effective Date of 1983 Amendments
+#### Effective Date of 1983 Amendment
 
 Amendment by Pub. L. 98–21 applicable to taxable years beginning after Dec. 31, 1983, except that if an individual's annuity starting date was deferred under section 105(d)(6) of this title as in effect on the day before Apr. 20, 1983, such deferral shall end on the first day of such individual's first taxable year beginning after Dec. 31, 1983, see section 122(d) of Pub. L. 98–21, set out as a note under section 22 of this title.
 
@@ -532,7 +532,7 @@ Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it 
 
 #### Effective Date of 1982 Amendment
 
-Section 251(e) of Pub. L. 97–248, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 97–248, title II, §251(e), Sept. 3, 1982, 96 Stat. 531, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 
@@ -556,29 +556,29 @@ Special rule for existing defined benefit arrangements.—Any defined benefit ar
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–34 applicable to taxable years beginning after Dec. 31, 1981, see section 311(i)(1) of Pub. L. 97–34, set out as a note under section 219 of this title.
+Amendment by Pub. L. 97–34 applicable to taxable years beginning after Dec. 31, 1981, see section 311(i)(1)of Pub. L. 97–34, set out as a note under section 219 of this title.
 
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it had been included in the provisions of the Revenue Act of 1978, Pub. L. 95–600, to which such amendment relates, see section 201 of Pub. L. 96–222, set out as a note under section 32 of this title.
 
-#### Effective Date of 1978 Amendments
+#### Effective Date of 1978 Amendment
 
-Section 154(b) of Pub. L. 95–600 provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1978.”
+Pub. L. 95–600, title I, §154(b), Nov. 6, 1978, 92 Stat. 2801, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1978.”
 
-Section 156(d) of Pub. L. 95–600, as amended by Pub. L. 96–222, title I, §101(a)(13)(A), Apr. 1, 1980, 94 Stat. 204, provided that: “The amendments made by this section \[amending this section and sections 219, 220, 408, 409, 2039, and 4973\] shall apply to distributions or transfers made after December 31, 1977, in taxable years beginning after such date.”
+Pub. L. 95–600, title I, §156(d), Nov. 6, 1978, 92 Stat. 2803, as amended by Pub. L. 96–222, title I, §101(a)(13)(A), Apr. 1, 1980, 94 Stat. 204, provided that: “The amendments made by this section \[amending this section and sections 219, 220, 408, 409, 2039, and 4973\] shall apply to distributions or transfers made after December 31, 1977, in taxable years beginning after such date.”
 
 Amendment by section 157(g)(2) of Pub. L. 95–600 applicable to lump-sum distributions completed after Dec. 31, 1978, in taxable years ending after such date, see section 157(g)(4) of Pub. L. 95–600, set out as a note under section 402 of this title.
 
 Amendment by Pub. L. 95–458 applicable with respect to taxable years beginning after Dec. 31, 1974, see section 4(d) of Pub. L. 95–458, set out as a note under section 402 of this title.
 
-#### Effective Date of 1976 Amendments
+#### Effective Date of 1976 Amendment
 
-Section 1402(b)(1) of Pub. L. 94–455 provided that the amendment made by that section is effective with respect to taxable years beginning in 1977.
+Pub. L. 94–455, title XIV, §1402(b)(1), Oct. 4, 1976, 90 Stat. 1731, provided that the amendment made by that section is effective with respect to taxable years beginning in 1977.
 
-Section 1402(b)(2) of Pub. L. 94–455 provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1977.
+Pub. L. 94–455, title XIV, §1402(b)(2), Oct. 4, 1976, 90 Stat. 1732, provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1977.
 
-Section 1504(b) of Pub. L. 94–455 provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1975.”
+Pub. L. 94–455, title XIV, §1504(b), Oct. 4, 1976, 90 Stat. 1738, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1975.”
 
 Amendment by section 1901(a)(58), (b)(8)(A) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
@@ -586,7 +586,7 @@ Amendment by Pub. L. 94–267 applicable with respect to payments made to an emp
 
 #### Effective Date of 1974 Amendment
 
-Section 1022(e) of Pub. L. 93–406 provided that the amendment made by that section is effective Jan. 1, 1974.
+Pub. L. 93–406, title II, §1022(e), Sept. 2, 1974, 88 Stat. 940, provided that the amendment made by that section is effective Jan. 1, 1974.
 
 Amendment by section 2002(g)(6) of Pub. L. 93–406 applicable on and after Sept. 2, 1974, with respect to contributions to an employees’ trust described in section 401(a) which is exempt from tax under section 501(a) or an annuity plan described in section 403(a), see section 2002(i)(3) of Pub. L. 93–406, set out as a note under section 402 of this title.
 
@@ -610,11 +610,11 @@ Amendment by Pub. L. 87–792 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1961 Amendment
 
-Section 3(b) of Pub. L. 87–370 provided that: “The amendments made by subsection (a) \[amending thissection\] shall apply with respect to taxable years beginning after December 31, 1957.”
+Pub. L. 87–370, §3(b), Oct. 4, 1961, 75 Stat. 801, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1957.”
 
 #### Effective Dates of 1958 Amendment
 
-Section 23(g) of Pub. L. 85–866 provided that: “The amendments made by subsections (a), (b), (c), and (d) \[amending this section and section 101 of this title\] shall apply with respect to taxable years beginning after December 31, 1957. The amendments made by subsection (e) \[amending section 2039 of this title\] shall apply with respect to estates of decedents dying after December 31, 1957. The amendments made by subsection (f) \[amending section 2517 of this title\] shall apply with respect to calendar years after 1957.”
+Pub. L. 85–866, §23(g), Sept. 2, 1958, 72 Stat. 1623, provided that: “The amendments made by subsections (a), (b), (c), and (d) \[amending this section and section 101 of this title\] shall apply with respect to taxable years beginning after December 31, 1957. The amendments made by subsection (e) \[amending section 2039 of this title\] shall apply with respect to estates of decedents dying after December 31, 1957. The amendments made by subsection (f) \[amending section 2517 of this title\] shall apply with respect to calendar years after 1957.”
 
 #### Regulations
 
@@ -626,7 +626,7 @@ Pub. L. 107–16, title VI, §632(b)(3), June 7, 2001, 115 Stat. 115, provided t
 
 #### Modifications of Subsection (b) of This Section
 
-Section 1601(d)(4) of Pub. L. 105–34, as amended by Pub. L. 105–206, title VI, §6016(a)(2), July 22, 1998, 112 Stat. 822, provided that:
+Pub. L. 105–34, title XVI, §1601(d)(4), Aug. 5, 1997, 111 Stat. 1089, as amended by Pub. L. 105–206, title VI, §6016(a)(2), July 22, 1998, 112 Stat. 822, provided that:
 
 “(A) Paragraphs (7)(A)(ii) and (11) of section 403(b) of the Internal Revenue Code of 1986 shall not apply with respect to a distribution from a contract described in section 1450(b)(1) of such Act \[Pub. L. 104–188, set out below\] to the extent that such distribution is not includible in income by reason of—
 
@@ -636,7 +636,7 @@ Section 1601(d)(4) of Pub. L. 105–34, as amended by Pub. L. 105–206, title V
 
 “(B) This paragraph shall apply as if included in section 1450 of the Small Business Job Protection Act of 1996 \[Pub. L. 104–188, set out below\].”
 
-Section 1450(a), (b) of Pub. L. 104–188 provided that:
+Pub. L. 104–188, title I, §1450(a), (b), Aug. 20, 1996, 110 Stat. 1814, provided that:
 
 “(a)
 
@@ -668,7 +668,7 @@ Rollovers.—Solely for purposes of applying section 403(b)(8) of such Code to a
 
 #### Sampling To Determine Whether Plan Meets Subsection (b)(12) Requirements
 
-Section 6052(b) of Pub. L. 100–647 provided that: “In the case of plan years beginning in 1989, 1990, or 1991, determinations as to whether a plan meets the requirements of section 403(b)(12) of the 1986 Code may be made on the basis of a statistically valid random sample. The preceding sentence shall apply only if—
+Pub. L. 100–647, title VI, §6052(b), Nov. 10, 1988, 102 Stat. 3696, provided that: “In the case of plan years beginning in 1989, 1990, or 1991, determinations as to whether a plan meets the requirements of section 403(b)(12) of the 1986 Code may be made on the basis of a statistically valid random sample. The preceding sentence shall apply only if—
 
 &emsp;“(1) the sampling is conducted by an independent person in a manner not inconsistent with regulations prescribed by the Secretary, and
 
@@ -688,7 +688,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Correction Period for Church Plans
 
-Section 251(d) of Pub. L. 97–248, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “A church plan (within the meaning of section 414(e) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) shall not be treated as not meeting the requirements of section 401 or 403 of such Code if—
+Pub. L. 97–248, title II, §251(d), Sept. 3, 1982, 96 Stat. 531, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “A church plan (within the meaning of section 414(e) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) shall not be treated as not meeting the requirements of section 401 or 403 of such Code if—
 
 &emsp;“(1) by reason of any change in any law, regulation, ruling, or otherwise such plan is required to be amended to meet such requirements, and
 
@@ -696,7 +696,7 @@ Section 251(d) of Pub. L. 97–248, as amended by Pub. L. 99–514, §2, Oct. 22
 
 #### Transitional Rule for Making Section 403(b)(8) Rollover in the Case of Payments During 1978
 
-Section 101(a)(13)(B) of Pub. L. 96–222, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “In the case of any payment made during 1978 ina qualifying distribution described in section 403(b)(8) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the applicable period specified in section 402(a)(5)(C) of such Code shall not expire before the close of December 31, 1980.”
+Pub. L. 96–222, title I, §101(a)(13)(B), Apr. 1, 1980, 94 Stat. 204, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “In the case of any payment made during 1978 in a qualifying distribution described in section 403(b)(8) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the applicable period specified in section 402(a)(5)(C) of such Code shall not expire before the close of December 31, 1980.”
 
 #### Transitional Rule in Case of Rollover Contributions to Employee Trusts or Annuities
 

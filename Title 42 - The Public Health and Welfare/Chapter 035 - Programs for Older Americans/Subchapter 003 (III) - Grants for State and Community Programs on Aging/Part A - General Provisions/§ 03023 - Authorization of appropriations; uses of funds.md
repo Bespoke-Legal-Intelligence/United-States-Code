@@ -64,7 +64,7 @@ Subsec. (a)(2). Pub. L. 102–375, §303(a)(2), amended par. (2) generally. Prio
 
 Subsec. (a)(3). Pub. L. 102–375, §303(a)(3), struck out par. (3) which read as follows: “Subject to subsection (h) of this section, there are authorized to be appropriated $10,000,000 for fiscal year 1989, $10,000,000 for fiscal year 1990, and such sums as may be necessary for fiscal year 1991 to carry out section 3026(a)(6)(P) of this title. Amounts appropriated under this subsection shall remain available until expended.”
 
-Subsec. (b)(1). Pub. L. 102–375, §303(b)(1), substituted “$505,000,000 for fiscal year 1992 and such sums as may be necessary for fiscal years 1993, 1994, and 1995” for “$414,750,000 for the fiscal year 1988, $435,488,000 for the fiscal year 1989, $457,262,000 for the fiscal year 1990, and $480,125,000 for the fiscal year 1991”.
+Subsec. (b)(1). Pub. L. 102–375, §303(b)(1), substituted “$505,000,000 for fiscal year 1992 and such sums as may be necessary for fiscal years 1993, 1994, and 1995” for“$414,750,000 for the fiscal year 1988, $435,488,000 for the fiscal year 1989, $457,262,000 for the fiscal year 1990, and $480,125,000 for the fiscal year 1991”.
 
 Subsec. (b)(2). Pub. L. 102–375, §303(b)(2), substituted “$120,000,000 for fiscal year 1992 and such sums as may be necessary for fiscal years 1993, 1994, and 1995” for “$79,380,000 for the fiscal year 1988, $83,349,000 for the fiscal year 1989, $87,516,000 for the fiscal year 1990, and $91,892,000 for the fiscal year 1991”.
 

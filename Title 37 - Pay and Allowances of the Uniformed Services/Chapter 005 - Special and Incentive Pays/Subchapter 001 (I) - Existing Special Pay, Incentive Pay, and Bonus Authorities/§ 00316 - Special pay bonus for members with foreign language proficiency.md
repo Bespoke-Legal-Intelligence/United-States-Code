@@ -2,7 +2,7 @@
 
 (a)
 
-Availability of Bonus.—Subject to subsection (c), the Secretary concerned may pay a bonus under this section to a member of the uniformed services who—
+Availability of Bonus.—Subject to subsection (c), the Secretary concerned may pay abonus under this section to a member of the uniformed services who—
 
 &emsp;(1) is qualified in a uniformed services specialty requiring proficiency in a foreign language identified by the Secretary concerned as a foreign language in which it is necessary to have personnel proficient because of national defense or public health considerations;
 
@@ -124,11 +124,11 @@ Pub. L. 106–65, div. A, title VI, §625(b), Oct. 5, 1999, 113 Stat. 654, provi
 
 #### Effective Date of 1996 Amendment
 
-Section 616(c) of Pub. L. 104–201 provided that: “The amendments made by this section \[amending this section\] shall take effect on October 1, 1996, and apply with respect to months beginning on or after such date.”
+Pub. L. 104–201, div. A, title VI, §616(c), Sept. 23, 1996, 110 Stat. 2547, provided that: “The amendments made by this section \[amending this section\] shall take effect on October 1, 1996, and apply with respect to months beginning on or after such date.”
 
 #### Effective Date
 
-Section 634(b) of Pub. L. 99–661 provided that: “Section 316 of title 37, United States Code, as added by subsection (a), shall take effect on the date of the enactment of this Act \[Nov. 14, 1986\], and shall apply with respect to pay periods beginning on or after that date.”
+Pub. L. 99–661, div. A, title VI, §634(b), Nov. 14, 1986, 100 Stat. 3885, provided that: “Section 316 of title 37, United States Code, as added by subsection (a), shall take effect on the date of the enactment of this Act \[Nov. 14, 1986\], and shall apply with respect to pay periods beginning on or after that date.”
 
 #### Savings Provision
 

@@ -2,7 +2,7 @@
 
 Section 8891, Pub. L. 89–10, title XIV, §14501, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3901, related to maintenance of effort. See section 7901 of this title.
 
-Section 8892, Pub. L. 89–10, title XIV, §14502, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3902, related to prohibition regarding State aid. See section 7902 of this title.
+Section 8892, Pub. L. 89–10, title XIV, §14502, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3902,related to prohibition regarding State aid. See section 7902 of this title.
 
 Section 8893, Pub. L. 89–10, title XIV, §14503, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3902; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §101(b)(6)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–407, related to participation by private school children and teachers. See section 7881 of this title.
 

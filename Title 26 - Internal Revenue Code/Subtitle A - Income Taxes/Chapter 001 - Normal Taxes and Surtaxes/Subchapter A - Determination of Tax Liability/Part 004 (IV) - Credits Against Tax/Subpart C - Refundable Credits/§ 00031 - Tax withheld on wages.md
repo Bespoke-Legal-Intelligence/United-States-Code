@@ -14,7 +14,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary may prescribe regulations providing for the crediting against the tax imposed by this subtitle of the amount determined by the taxpayer or the Secretary to be allowable under section 6413(c) as a special refund of tax imposed on wages. The amount allowed as a credit under such regulations shall, for purposes of this subtitle, be considered anamount withheld at source as tax under section 3402.
+&emsp;The Secretary may prescribe regulations providing for the crediting against the tax imposed by this subtitle of the amount determined by the taxpayer or the Secretary to be allowable under section 6413(c) as a special refund of tax imposed on wages. The amount allowed as a credit under such regulations shall, for purposes of this subtitle, be considered an amount withheld at source as tax under section 3402.
 
 #### (2) Year of credit
 
@@ -40,11 +40,11 @@ Pub. L. 97–448 amended subsec. (d) generally. See 1982 Amendment note below.
 
 #### Effective Date of 1984 Amendment
 
-Section 715 of Pub. L. 98–369 provided that: “Any amendment made by this subtitle \[subtitle A (§§711–715) of title VII of Pub. L. 98–369, see Tables for classification\] shall take effect as if included in the provision of the Tax Equity and Fiscal Responsibility Act of 1982 \[Pub. L. 97–248\] to which such amendment relates.”
+Pub. L. 98–369, div. A, title VII, §715, July 18, 1984, 98 Stat. 966, provided that: “Any amendment made by this subtitle \[subtitle A (§§711–715) of title VII of Pub. L. 98–369, see Tables for classification\] shall take effect as if included in the provision of the Tax Equity and Fiscal Responsibility Act of 1982 \[Pub. L. 97–248\] to which such amendment relates.”
 
-#### Effective Date of 1983 Amendments
+#### Effective Date of 1983 Amendment
 
-Section 110 of title I of Pub. L. 98–67 provided that:
+Pub. L. 98–67, title I, §110, Aug. 5, 1983, 97 Stat. 384, provided that:
 
 “(a)
 
@@ -60,9 +60,9 @@ Sections 104(b)
 
 and 107.—The amendments made by sections 104(b) and 107 \[amending sections 6682, 7205, and 7431 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 5, 1983\].”
 
-Section 311(d) of Pub. L. 97–448 provided that: “The amendments made by section 306 \[amending this section and sections 48, 55, 263, 291, 312, 338, 401, 501, 1232, 6038A, 6226, 6228, 6679, and 7701 of this title, enacting provisions set out as notes under sections 338 and 1232 of this title, and amending provisions set out as notes under sections 56, 72, 101, 103, 168, 302, 311, 338, 415, 907, and 5701 of this title\] shall take effect as if included in the provisions of the Tax Equity and Fiscal Responsibility Act of 1982 \[Pub. L. 97–248\] to which such amendments relate.”
+Pub. L. 97–448, title III, §311(d), Jan. 12, 1983, 96 Stat. 2412, provided that: “The amendments made by section 306 \[amending this section and sections 48, 55, 263, 291, 312, 338, 401, 501, 1232, 6038A, 6226, 6228, 6679, and 7701 of this title, enacting provisions set out as notes under sections 338 and 1232 of this title, and amending provisions set out as notes under sections 56, 72, 101, 103, 168, 302, 311, 338, 415, 907, and 5701 of this title\] shall take effect as if included in the provisions of the Tax Equity and Fiscal Responsibility Act of 1982 \[Pub. L. 97–248\] to which such amendments relate.”
 
 #### Construction of Amendment by Title VII of Division A of Pub. L. 98–369
 
-Section 701 of title VII of div. A of Pub. L. 98–369 provided that: “For purposes of applying the amendments made by any title of this Act \[see Tables for classification\] other than this title, the provisions of this title shall be treated as having been enacted immediately before the provisions of such other titles.”
+Pub. L. 98–369, div. A, title VII, §701, July 18, 1984, 98 Stat. 942, provided that: “For purposes of applying the amendments made by any title of this Act \[see Tables for classification\] other than this title, the provisions of this title shall be treated as having been enacted immediately before the provisions of such other titles.”
 

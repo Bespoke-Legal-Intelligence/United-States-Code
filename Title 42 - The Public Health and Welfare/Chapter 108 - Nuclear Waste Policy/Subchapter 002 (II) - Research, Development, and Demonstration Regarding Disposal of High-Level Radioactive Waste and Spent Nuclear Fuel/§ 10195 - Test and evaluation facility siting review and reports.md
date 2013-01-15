@@ -6,7 +6,7 @@ The Governor of a State, or the governing body of an affected Indian tribe, noti
 
 &emsp;(1) by which the Secretary—
 
-&emsp;&emsp;(A) keeps the Governor or governing body involved fully and currently informed aboutany potential economic or public health and safety impacts in all stages of the siting, development, construction, and operation of a test and evaluation facility;
+&emsp;&emsp;(A) keeps the Governor or governing body involved fully and currently informed about any potential economic or public health and safety impacts in all stages of the siting, development, construction, and operation of a test and evaluation facility;
 
 &emsp;&emsp;(B) solicits, receives, and evaluates concerns and objections of such Governor or governing body with regard to such test and evaluation facility on an ongoing basis; and
 
@@ -22,7 +22,7 @@ The Secretary shall enter into written agreements with the Governor of the State
 
 &emsp;(2) procedures by which the Secretary shall consider and respond to comments and recommendations made by such Governor or governing body, including the period in which the Secretary shall so respond;
 
-&emsp;(3) the documents the Department is to submit to such Governor or governing body, the timing for such submissions, the timing for such Governor or governing body to identify public health and safety concerns and the process to be followed to try to eliminate those concerns;
+&emsp;(3) the documents the Department is to submit to such Governor or governing body, thetiming for such submissions, the timing for such Governor or governing body to identify public health and safety concerns and the process to be followed to try to eliminate those concerns;
 
 &emsp;(4) procedures by which the Secretary and either such Governor or governing body may review or modify the agreement periodically; and
 

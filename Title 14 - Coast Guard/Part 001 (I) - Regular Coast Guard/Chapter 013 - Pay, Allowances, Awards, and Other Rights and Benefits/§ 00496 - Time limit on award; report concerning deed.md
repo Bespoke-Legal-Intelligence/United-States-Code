@@ -10,7 +10,7 @@
 
 &emsp;(1) a statement setting forth the deed or distinguished service and recommending official recognition of it was made by the person's superior through official channels within three years from the date of that deed or termination of the service and was supported by sufficient evidence within that time; and
 
-&emsp;(2) no award was made, because the statement was lost or through inadvertence therecommendation was not acted upon; a medal of honor, Coast Guard cross, distinguished service medal, silver star medal, distinguished flying cross, Coast Guard medal, or bar, emblem, or insignia in lieu thereof, as the case may be, may be awarded to the person within two years after the date of that determination.
+&emsp;(2) no award was made, because the statement was lost or through inadvertence the recommendation was not acted upon; a medal of honor, Coast Guard cross, distinguished service medal, silver star medal, distinguished flying cross, Coast Guard medal, or bar, emblem, or insignia in lieu thereof, as the case may be, may be awarded to the person within two years after the date of that determination.
 
 (Aug. 4, 1949, ch. 393, 63 Stat. 536; Pub. L. 87–526, §1(5), July 10, 1962, 76 Stat. 141; Pub. L. 111–281, title II, §224(c)(2), Oct. 15, 2010, 124 Stat. 2922.)
 

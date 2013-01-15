@@ -14,7 +14,7 @@ The provisions of section 1712 and section 1782 of title 43 shall not be applica
 
 #### (d) First lease sale
 
-The; <sup>1</sup> first lease sale shall be conducted within twenty months of December 12, 1980: <i>Provided</i>,That the first lease sale shall be conducted only after publication of a final environmental impact statement if such is deemed necessary under the provisions of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
+The; <sup>1</sup> first lease sale shall be conducted within twenty months of December 12, 1980: <i>Provided</i>, That the first lease sale shall be conducted only after publication of a final environmental impact statement if such is deemed necessary under the provisions of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
 
 #### (e) Withdrawals
 
@@ -74,7 +74,7 @@ The size of lease tracts may be up to sixty thousand acres, as determined by the
 
 #### (2) Consultation
 
-&emsp;In making a determination under paragraph (1), the Secretary shall consult with and provide opportunities for participation by the State of Alaska or a Regional Corporation (as defined in section 1602 of title 43) with respect to the creation or expansion of units that include acreage in which the State of Alaska or the Regional Corporation has an interest in the mineral estate.
+&emsp;In making a determination under paragraph (1), the Secretary shall consult with and provide opportunities for participation by the State of Alaska or a Regional Corporation (as defined in section 1602 of title 43) with respect to the creation or expansion of units that include acreage in which the State of Alaska orthe Regional Corporation has an interest in the mineral estate.
 
 #### (3) Production allocation methodology
 
@@ -84,7 +84,7 @@ The size of lease tracts may be up to sixty thousand acres, as determined by the
 
 #### (4) Benefit of operations
 
-&emsp;Drilling, production, and well reworking operations performed in accordance with a unitagreement shall be deemed to be performed for the benefit of all leases that are subject in whole or in part to such unit agreement.
+&emsp;Drilling, production, and well reworking operations performed in accordance with a unit agreement shall be deemed to be performed for the benefit of all leases that are subject in whole or in part to such unit agreement.
 
 #### (5) Pooling
 
@@ -96,7 +96,7 @@ The size of lease tracts may be up to sixty thousand acres, as determined by the
 
 #### (A) Waiver, suspension, or reduction
 
-&emsp;&emsp;To encourage the greatest ultimate recovery of oil or gas or in the interest of conservation, the Secretary may waive, suspend, or reduce the rental fees or minimum royalty, or reduce the royalty on an entire leasehold (including on any lease operated pursuant to a unit agreement), whenever (after consultation with the State of Alaska and the North Slope Borough of Alaska and the concurrence of any Regional Corporation for leases that include land that was made available for acquisition by the Regional Corporation under the provisions of section 1431(<i>o</i>) of the Alaska National Interest Lands Conservation Act) in the judgment of the Secretary it is necessary to do so to promote development, or whenever in the judgment of the Secretary the leases cannot be successfully operated under the terms provided therein.
+&emsp;&emsp;To encourage the greatest ultimate recovery of oil or gas or in the interest of conservation, the Secretary may waive, suspend, or reduce the rental fees or minimum royalty, or reduce the royalty on an entire leasehold (including on any lease operated pursuant to a unit agreement), whenever (after consultation with the State of Alaska and the North Slope Borough of Alaska and the concurrence of any Regional Corporation for leases that include land that was made available for acquisition by the Regional Corporation under the provisions of section 1431(o) of the Alaska National Interest Lands Conservation Act) in the judgment of the Secretary it is necessary to do so to promote development, or whenever in the judgment of the Secretary the leases cannot be successfully operated under the terms provided therein.
 
 #### (B) Applicability
 
@@ -110,7 +110,7 @@ The size of lease tracts may be up to sixty thousand acres, as determined by the
 
 &emsp;If the Secretary, in the interest of conservation, shall direct or assent to the suspension of operations and production on any lease or unit, any payment of acreage rental or minimum royalty prescribed by such lease or unit likewise shall be suspended during the period of suspension of operations and production, and the term of such lease shall be extended by adding any such suspension period to the lease.
 
-#### (<i>l</i>) Receipts
+#### (l) Receipts
 
 All receipts from sales, rentals, bonuses, and royalties on leases issued pursuant to this section shall be paid into the Treasury of the United States: <i>Provided</i>, That 50 percent thereof shall be paid by the Secretary of the Treasury semiannually, as soon thereafter as practicable after March 30 and September 30 each year, to the State of Alaska for: (1) planning; (2) construction, maintenance, and operation of essential public facilities; and (3) other necessary provisions of public service: <i>Provided further</i>, That in the allocation of such funds, the State shall give priority to use by subdivisions of the State most directly or severely impacted by development of oil and gas leased under this Act.
 
@@ -126,9 +126,9 @@ Any agency of the United States and any person authorized by the Secretary may c
 
 #### (2) Initial lease sales
 
-&emsp;The detailed environmental studies and assessments that have been conducted on the exploration program and the comprehensive land-use studies carried out in response to sections <sup>3</sup> 6505(b) and (c) of this title shall be deemed to have fulfilled the requirements of section 102(2)(c) <sup>4</sup> of the National Environmental Policy Act (Public Law 91–190) \[42 U.S.C. 4332(2)(C)\], with regard to the first two oil and gas lease sales in the National Petroleum Reserve-Alaska: <i>Provided</i>, That not more than a total of 2,000,000 acres may be leased in these two sales: <i>Provided further</i>, That any exploration or production undertaken pursuant to this section shall be in accordance with section 6504(a) of this title.
+&emsp;The detailed environmental studies and assessments that have been conducted on the exploration program and the comprehensive land-use studies carried out in response to sections <sup>3</sup> 6505(b) and (c) of this title shall be deemed to have fulfilled the requirements of section 102(2)(c) <sup>4</sup> of the National Environmental Policy Act (Public Law 91–190) \[42 U.S.C. 4332(2)(C)\], with regard to the first two oil and gas lease sales in the National Petroleum Reserve-Alaska: <i>Provided</i>, That not morethan a total of 2,000,000 acres may be leased in these two sales: <i>Provided further</i>, That any exploration or production undertaken pursuant to this section shall be in accordance with section 6504(a) of this title.
 
-#### (<i>o</i>) Regulations
+#### (o) Regulations
 
 As soon as practicable after August 8, 2005, the Secretary shall issue regulations to implement this section.
 
@@ -156,7 +156,7 @@ As soon as practicable after August 8, 2005, the Secretary shall issue regulatio
 
 #### References in Text
 
-This Act, referred to in subsecs. (a), (b), (i)(5), and (<i>l</i>) is Pub. L. 94–258, Apr. 5, 1976, 90 Stat. 303, known as the Naval Petroleum Reserves Production Act of 1976, which enacted this chapter and section 7420 of Title 10, Armed Forces, and amended section 6244 of this title and sections 7421 to 7436 and 7438 of Title 10. For complete classification of this Act to the Code, see Short Title note set out under section 6501 of this title and Tables.
+This Act, referred to in subsecs. (a), (b), (i)(5), and (l) is Pub. L. 94–258, Apr. 5, 1976, 90 Stat. 303, known as the Naval Petroleum Reserves Production Act of 1976, which enacted this chapter and section 7420 of Title 10, Armed Forces, and amended section 6244 of this title and sections 7421 to 7436 and 7438 of Title 10. For complete classification of this Act to the Code, see Short Title note set out under section 6501 of this title and Tables.
 
 December 12, 1980, referred to in subsec. (d), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 96–514, which enacted this section, to reflect the probable intent of Congress.
 
@@ -164,7 +164,7 @@ The National Environmental Policy Act of 1969, referred to in subsec. (d), is Pu
 
 Section 205(a)(1)(A) through (H) of the Outer Continental Shelf Lands Act Amendments of 1978, referred to in subsec. (f), probably should have been a reference to section 8(a)(1)(A) through (H) of the Outer Continental Shelf Lands Act (act Aug. 7, 1953, ch. 345), as amended by section 205(a) of the Outer Continental Shelf Lands Act Amendments of 1978 (Pub. L. 95–372), which is classified to section 1337(a)(1)(A)–(H) of Title 43, Public Lands. Subpar. (H) of section 8(a)(1) of act Aug. 7, 1953, was redesignated subpar. (I) and a new subpar. (H) was added by Pub. L. 104–58, title III, §303, Nov. 28, 1995, 109 Stat. 565.
 
-Section 1431(<i>o</i>) of the Alaska National Interest Lands Conservation Act, referred to in subsec. (k)(1)(A), is section 1431(<i>o</i>) of title XIV of Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2542, which was not classified to the Code.
+Section 1431(o) of the Alaska National Interest Lands Conservation Act, referred to in subsec. (k)(1)(A), is section 1431(o) of title XIV of Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2542, which was not classified to the Code.
 
 #### Codification
 

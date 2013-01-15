@@ -6,7 +6,7 @@ It is the policy of the United States to fulfill the Federal Government's unique
 
 #### Prior Provisions
 
-A prior section 7401, Pub. L. 89–10, title VII, §7101, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3716, set forth short title of Bilingual Education Act, prior to the general amendment of this subchapter by Pub. L. 107–110.
+A prior section 7401, Pub. L. 89–10, title VII, §7101, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat.3716, set forth short title of Bilingual Education Act, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 #### Savings Provisions
 
@@ -14,7 +14,7 @@ Pub. L. 107–110, title VII, §703, Jan. 8, 2002, 115 Stat. 1947, provided that
 
 #### Executive Order No. 13096
 
-Ex. Ord. No. 13096, Aug. 6, 1998, 63 F.R. 42681, which related to American Indian and Alaska Native education,was revoked by Ex. Ord. No. 13336, §9(b), Apr. 30, 2004, 69 F.R. 25297, formerly set out below.
+Ex. Ord. No. 13096, Aug. 6, 1998, 63 F.R. 42681, which related to American Indian and Alaska Native education, was revoked by Ex. Ord. No. 13336, §9(b), Apr. 30, 2004, 69 F.R. 25297, formerly set out below.
 
 #### Executive Order No. 13336
 

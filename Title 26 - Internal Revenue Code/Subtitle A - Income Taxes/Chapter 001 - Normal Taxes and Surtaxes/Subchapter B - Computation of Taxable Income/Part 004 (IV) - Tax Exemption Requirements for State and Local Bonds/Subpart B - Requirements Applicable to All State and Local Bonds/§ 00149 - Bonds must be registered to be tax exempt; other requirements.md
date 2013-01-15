@@ -22,7 +22,7 @@
 
 #### (B) Nominees
 
-&emsp;&emsp;The Secretary shall prescribe such regulations as may be necessary to carry out the purpose of paragraph (1) where there is a nominee or chain of nominees.
+&emsp;&emsp;The Secretary shall prescribe such regulations as may be necessary to carry out thepurpose of paragraph (1) where there is a nominee or chain of nominees.
 
 #### (b) Federally guaranteed bond is not tax exempt
 
@@ -94,7 +94,7 @@
 
 #### (E) Safety and soundness requirements for Federal home loan banks
 
-&emsp;&emsp;Clause (iv) of subparagraph (A) shall not apply to any guarantee by a Federal home loan bank unless such bank meets safety and soundness collateral requirements for such guarantees which are at least as stringent assuch requirements which apply under regulations applicable to such guarantees by Federal home loan banks as in effect on April 9, 2008.
+&emsp;&emsp;Clause (iv) of subparagraph (A) shall not apply to any guarantee by a Federal home loan bank unless such bank meets safety and soundness collateral requirements for such guarantees which are at least as stringent as such requirements which apply under regulations applicable to such guarantees by Federal home loan banks as in effect on April 9, 2008.
 
 #### (4) Definitions
 
@@ -106,7 +106,7 @@
 
 #### (B) Federally insured deposit or account
 
-&emsp;&emsp;The term “federally insured deposit or account” means any deposit or account in a financial institution to the extent such deposit or account is insured under Federal law by the Federal Deposit Insurance Corporation, the Federal Savings and Loan Insurance Corporation, the National Credit Union Administration, or any similar federally chartered corporation.
+&emsp;&emsp;The term “federally insured deposit or account” means any deposit or account in a financial institution to the extent such deposit or account is insured under Federal law by the Federal Deposit Insurance Corporation, the Federal Savings and Loan Insurance Corporation, the National CreditUnion Administration, or any similar federally chartered corporation.
 
 #### (c) Tax exemption must be derived from this title
 
@@ -312,7 +312,7 @@
 
 &emsp;&emsp;&emsp;(i) section 146 applies to the issue of which such bond is a part (other than by reason of section 141(b)(5)) or would apply but for section 146(i), or
 
-&emsp;&emsp;&emsp;(ii) section 143(<i>l</i>)(3) applies to such issue.
+&emsp;&emsp;&emsp;(ii) section 143(l)(3) applies to such issue.
 
 #### (7) Definition of loan; treatment of mixed use issues
 
@@ -348,7 +348,7 @@
 
 &emsp;&emsp;(C) 60 percent of the spendable proceeds of the issue will be spent for such purposes within the 3-year period beginning on such date, and
 
-&emsp;&emsp;(D) 85 percent of the spendable proceeds of the issue will be spent for such purposeswithin the 5-year period beginning on such date.
+&emsp;&emsp;(D) 85 percent of the spendable proceeds of the issue will be spent for such purposes within the 5-year period beginning on such date.
 
 #### (3) Hedge bond
 
@@ -430,7 +430,7 @@ The date of the enactment of the Tax Reform Act of 1984, referred to in subsec. 
 
 The date of the enactment of this clause, referred to in subsec. (b)(3)(A)(iv), is the date of enactment of Pub. L. 110–289, which was approved July 30, 2008.
 
-Section 11(b) of the United States Housing Act of 1937, referred to in subsecs. (b)(3)(C)(i)(I) and\(c)(2)(C)(iii), is classified to section 1473i(b) of Title 42, The Public Health and Welfare.
+Section 11(b) of the United States Housing Act of 1937, referred to in subsecs. (b)(3)(C)(i)(I) and (c)(2)(C)(iii), is classified to section 1473i(b) of Title 42, The Public Health and Welfare.
 
 Section 608(a)(6)(A) of Pub. L. 97–468, referred to in subsec. (c)(2)(C)(ii), is classified to section 1207(a)(6)(A) of Title 45, Railroads.
 
@@ -448,7 +448,7 @@ Subsec. (b)(3)(E). Pub. L. 110–289, §3023(b), added subpar. (E).
 
 <b>2006</b>—Subsec. (f)(1). Pub. L. 109–222, §508(d)(1), substituted “paragraphs (2), (3), (4), and (5)” for “paragraphs (2) and (3)”.
 
-Subsec. (f)(2)(A). Pub. L. 109–222, §508(a), amended subpar. (A) generally. Prior to amendment, text read as follows: “The requirements of this paragraph are met with respect to an issue if the issuer reasonably expects that as of the close of the 3-year period beginning on the date of issuance of the issue, at least 95 percent of the net proceeds of the issue (as of the close of such period) will have been used directly or indirectly to make or finance loans to ultimate borrowers.”
+Subsec. (f)(2)(A). Pub. L. 109–222, §508(a), amended subpar. (A) generally. Prior to amendment, text read as follows: “The requirements of this paragraph are met with respect to an issue if the issuer reasonably expects that as of the close of the 3-year period beginning on the date of issuance of the issue, at least 95 percent ofthe net proceeds of the issue (as of the close of such period) will have been used directly or indirectly to make or finance loans to ultimate borrowers.”
 
 Subsec. (f)(4) to (6). Pub. L. 109–222, §508(b), added pars. (4) and (5) and redesignated former par. (4) as (6). Former par. (5) redesignated (7).
 
@@ -488,11 +488,11 @@ Amendment by Pub. L. 109–222 applicable to bonds issued after May 17, 2006, se
 
 #### Effective Date of 1996 Amendment
 
-Section 1704(b)(2) of Pub. L. 104–188 provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect as if included in the amendments made by section 7651 of the Omnibus Budget Reconciliation Act of 1989 \[Pub. L. 101–239\].”
+Pub. L. 104–188, title I, §1704(b)(2), Aug. 20, 1996, 110 Stat. 1878, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect as if included in the amendments made by section 7651 of the Omnibus Budget Reconciliation Act of 1989 \[Pub. L. 101–239\].”
 
 #### Effective Date of 1989 Amendment
 
-Section 7651(b) of Pub. L. 101–239 provided that:
+Pub. L. 101–239, title VII, §7651(b), Dec. 19, 1989, 103 Stat. 2385, provided that:
 
 “(1)
 
@@ -518,7 +518,7 @@ Bonds issued to finance self-insurance funds.—The amendment made by subsection
 
 Amendment by section 1013(a)(20)–(22) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Section 5051(b) of Pub. L. 100–647 provided that:
+Pub. L. 100–647, title V, §5051(b), Nov. 10, 1988, 102 Stat. 3677, provided that:
 
 “(1)
 
@@ -530,7 +530,7 @@ Special rule for refunding bonds.—In the case of a bond issued to refund a bon
 
 &emsp;“(A) if the 3-year period described in section 149(f)(2)(A) of the 1986 Code would (but for this paragraph) expire on or before October 22, 1989, such period shall expire on October 21, 1990, and
 
-&emsp;“(B) if such period expires after October 22, 1989, the portion of the proceeds of the issue of which the refunded bond is a part which is available (on the date of issuance of the refunding issue) to provide loansshall be treated as proceeds of a separate issue (issued after October 21, 1988) for purposes of applying section 149(f) of the 1986 Code.”
+&emsp;“(B) if such period expires after October 22, 1989, the portion of the proceeds of the issue of which the refunded bond is a part which is available (on the date of issuance of the refunding issue) to provide loans shall be treated as proceeds of a separate issue (issued after October 21, 1988) for purposes of applying section 149(f) of the 1986 Code.”
 
 #### Effective Date
 

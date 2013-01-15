@@ -90,7 +90,7 @@ The Attorney General shall award grants for contracts and cooperative agreements
 
 #### References in Text
 
-Section 3796gg–2 of this title, referred to in subsec. (b)(2), was subsequently repealed and a new section3796gg–2 enacted which does not define “underserved populations”. However, such term is defined in section 13925 of this title.
+Section 3796gg–2 of this title, referred to in subsec. (b)(2), was subsequently repealed and a new section 3796gg–2 enacted which does not define “underserved populations”. However, such term is defined in section 13925 of this title.
 
 #### Codification
 
@@ -108,7 +108,7 @@ Pub. L. 109–162, §306(2)(A), (B), inserted “, through the Director of the 
 
 Subsec. (d)(1). Pub. L. 109–162, §1135(b), which directed an amendment identical to that made by Pub. L. 109–162, §3(b)(2), was repealed by Pub. L. 109–271, §§2(d) and 8(b).
 
-Pub. L. 109–162, §3(b)(2), substituted “Not later than 1 month after the end of each even-numbered fiscal year,” for “Not later than 1 year after the last day of the first fiscal year commencing on or after October 28, 2000, and not later than 180 days after the last day of each fiscal year thereafter,” in introductory provisions.
+Pub. L. 109–162, §3(b)(2), substituted “Not later than 1 month after the end of each even-numbered fiscal year,” for “Not later than 1 year after the last day ofthe first fiscal year commencing on or after October 28, 2000, and not later than 180 days after the last day of each fiscal year thereafter,” in introductory provisions.
 
 Subsec. (e). Pub. L. 109–162, §306(3), added subsec. (e) and struck out former subsec. (e). Text read as follows: “There is authorized to be appropriated to carry out this section $15,000,000 for each of fiscal years 2001 and 2002.”
 

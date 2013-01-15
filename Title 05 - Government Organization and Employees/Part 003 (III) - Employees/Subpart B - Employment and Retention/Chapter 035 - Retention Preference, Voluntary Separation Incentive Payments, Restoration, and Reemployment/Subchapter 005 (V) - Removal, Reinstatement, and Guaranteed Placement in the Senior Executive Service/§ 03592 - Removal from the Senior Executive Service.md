@@ -6,7 +6,7 @@
 
 &emsp;(2) at any time for less than fully successful executive performance as determined under subchapter II of chapter 43 of this title,
 
-> except that in the case of a removal under paragraph (2) of this subsection the career appointeeshall, at least 15 days before the removal, be entitled, upon request, to an informal hearing before an official designated by the Merit Systems Protection Board at which the career appointee may appear and present arguments, but such hearing shall not give the career appointee the right to initiate an action with the Board under section 7701 of this title, nor need the removal action be delayed as a result of the granting of such hearing.
+> except that in the case of a removal under paragraph (2) of this subsection the career appointee shall, at least 15 days before the removal, be entitled, upon request, to an informal hearing before an official designated by the Merit Systems Protection Board at which the career appointee may appear and present arguments, but such hearing shall not give the career appointee the right to initiate an action with the Board under section 7701 of this title, nor need the removal action be delayed as a result of the granting of such hearing.
 
 (b)(1) Except as provided in paragraph (2) of this subsection, a career appointee in an agency may not be involuntarily removed—
 

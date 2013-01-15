@@ -48,7 +48,7 @@ The compensation provided under this section, when authorized or approved by the
 
 (3) For purposes of this subsection—
 
-&emsp;(A) the “spouse” of an individual is a wife or husband of that individual who was married tothat individual for at least one year immediately before the death of that individual;
+&emsp;(A) the “spouse” of an individual is a wife or husband of that individual who was married to that individual for at least one year immediately before the death of that individual;
 
 &emsp;(B) a “child” includes a recognized natural child, a stepchild who lived with an individual in a regular parent-child relationship, and an adopted child;
 
@@ -74,5 +74,5 @@ This section shall take effect on July 31, 2001, unless Congress otherwise provi
 
 #### Effective Date of 2001 Amendment
 
-Amendment by Pub. L. 107–107 effective July 1, 2001, see section 3151(a)(4)(D) of Pub. L. 107–107, set out as a note under section 7384<i>l</i> of this title.
+Amendment by Pub. L. 107–107 effective July 1, 2001, see section 3151(a)(4)(D) of Pub. L. 107–107, set out as a note under section 7384l of this title.
 

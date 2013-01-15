@@ -134,7 +134,7 @@ If in a criminal proceeding a taxpayer is convicted of a violation of the antitr
 
 &emsp;(2) in settlement of any action brought under such section 4 on account of such violation or related violation.
 
-> The preceding sentence shall not apply with respect to any conviction or plea before January 1, 1970, or to any conviction or plea on or after such date in a new trial following an appeal of a conviction before such date.
+> The preceding sentence shall not apply with respect to any conviction or plea before January 1,1970, or to any conviction or plea on or after such date in a new trial following an appeal of a conviction before such date.
 
 #### (h) State legislators’ travel expenses away from home
 
@@ -174,7 +174,7 @@ If in a criminal proceeding a taxpayer is convicted of a violation of the antitr
 
 #### (1) In general
 
-&emsp;No deduction shall be allowed under subsection (a) for any expenses of an advertisement carried by a foreign broadcast undertaking and directed primarily to a market inthe United States. This paragraph shall apply only to foreign broadcast undertakings located in a country which denies a similar deduction for the cost of advertising directed primarily to a market in the foreign country when placed with a United States broadcast undertaking.
+&emsp;No deduction shall be allowed under subsection (a) for any expenses of an advertisement carried by a foreign broadcast undertaking and directed primarily to a market in the United States. This paragraph shall apply only to foreign broadcast undertakings located in a country which denies a similar deduction for the cost of advertising directed primarily to a market in the foreign country when placed with a United States broadcast undertaking.
 
 #### (2) Broadcast undertaking
 
@@ -204,7 +204,7 @@ If in a criminal proceeding a taxpayer is convicted of a violation of the antitr
 
 &emsp;&emsp;Any amount paid or incurred in connection with the redemption of any stock in a regulated investment company which issues only stock which is redeemable upon the demand of the shareholder.
 
-#### (<i>l</i>) Special rules for health insurance costs of self-employed individuals
+#### (l) Special rules for health insurance costs of self-employed individuals
 
 #### (1) Allowance of deduction
 
@@ -298,7 +298,7 @@ If in a criminal proceeding a taxpayer is convicted of a violation of the antitr
 
 #### (E) Remuneration
 
-&emsp;&emsp;For purposes of this paragraph, the term “remuneration” includes any remuneration (including benefits) in any medium other than cash, but shall not include—
+&emsp;&emsp;For purposes of this paragraph, the term “remuneration” includes any remuneration\(including benefits) in any medium other than cash, but shall not include—
 
 &emsp;&emsp;&emsp;(i) any payment referred to in so much of section 3121(a)(5) as precedes subparagraph (E) thereof, and
 
@@ -334,7 +334,7 @@ If in a criminal proceeding a taxpayer is convicted of a violation of the antitr
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), the term “applicable employer” means any employer from whom 1 or more troubledassets are acquired under a program established by the Secretary under section 101(a) of the Emergency Economic Stabilization Act of 2008 if the aggregate amount of the assets so acquired for all taxable years exceeds $300,000,000.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), the term “applicable employer” means any employer from whom 1 or more troubled assets are acquired under a program established by the Secretary under section 101(a) of the Emergency Economic Stabilization Act of 2008 if the aggregate amount of the assets so acquired for all taxable years exceeds $300,000,000.
 
 #### (ii) Disregard of certain assets sold through direct purchase
 
@@ -402,7 +402,7 @@ If in a criminal proceeding a taxpayer is convicted of a violation of the antitr
 
 &emsp;&emsp;No deduction shall be allowed under this chapter—
 
-&emsp;&emsp;&emsp;(i) in the case of applicable individual remuneration which is for any disqualified taxable year beginning after December 31,2012, and which is attributable to services performed by an applicable individual during such taxable year, to the extent that the amount of such remuneration exceeds $500,000, or
+&emsp;&emsp;&emsp;(i) in the case of applicable individual remuneration which is for any disqualified taxable year beginning after December 31, 2012, and which is attributable to services performed by an applicable individual during such taxable year, to the extent that the amount of such remuneration exceeds $500,000, or
 
 &emsp;&emsp;&emsp;(ii) in the case of deferred deduction remuneration for any taxable year beginning after December 31, 2012, which is attributable to services performed by an applicable individual during any disqualified taxable year beginning after December 31, 2009, to the extent that the amount of such remuneration exceeds $500,000 reduced (but not below zero) by the sum of—
 
@@ -428,7 +428,7 @@ If in a criminal proceeding a taxpayer is convicted of a violation of the antitr
 
 #### (ii) Aggregation rules
 
-&emsp;&emsp;&emsp;Two or more persons who are treated as a single employer under subsection (b), (c), (m), or (<i>o</i>) of section 414 shall be treated as a single employer, except that in applying section 1563(a) for purposes of any such subsection, paragraphs (2) and (3) thereof shall be disregarded.
+&emsp;&emsp;&emsp;Two or more persons who are treated as a single employer under subsection (b), (c), (m), or (o) of section 414 shall be treated as a single employer, except that in applying section 1563(a) for purposes of any such subsection, paragraphs (2) and (3) thereof shall be disregarded.
 
 #### (D) Applicable individual remuneration
 
@@ -464,7 +464,7 @@ If in a criminal proceeding a taxpayer is convicted of a violation of the antitr
 
 &emsp;&emsp;(B) in the case of any reimbursement through a health maintenance organization, at the same rate as health maintenance organizations are required to reimburse hospitals for such services for individuals not covered by such a plan (determined without regard to any government-supported individuals exempt from such rate), or
 
-&emsp;&emsp;(C) in the case of any reimbursement through any corporation organized under Article 43 of the New York State Insurance Law, at the same rate as any such corporation is required to reimburse hospitals forsuch services for individuals not covered by such a plan.
+&emsp;&emsp;(C) in the case of any reimbursement through any corporation organized under Article 43 of the New York State Insurance Law, at the same rate as any such corporation is required to reimburse hospitals for such services for individuals not covered by such a plan.
 
 #### (2) State law exception
 
@@ -474,7 +474,7 @@ If in a criminal proceeding a taxpayer is convicted of a violation of the antitr
 
 &emsp;For purposes of this subsection, the term “group health plan” means a plan of, or contributed to by, an employer or employee organization (including a self-insured plan) to provide health care (directly or otherwise) to any employee, any former employee, the employer, or any other individual associated or formerly associated with the employer in a business relationship, or any member of their family.
 
-#### (<i>o</i>) Treatment of certain expenses of rural mail carriers
+#### (o) Treatment of certain expenses of rural mail carriers
 
 #### (1) General rule
 
@@ -508,7 +508,7 @@ For purposes of subsection (a)(2), in the case of an individual who performs ser
 
 &emsp;&emsp;&emsp;<b>(B) deferred compensation and other deferred benefits, see section 404.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 45; Pub. L. 85–866, title I, §5(a), Sept. 2, 1958, 72 Stat. 1608; Pub. L. 86–779, §§7(b), 8(a), Sept. 14, 1960, 74 Stat. 1002, 1003; Pub. L. 87–834, §§3(a), 4(b), Oct. 16, 1962, 76 Stat. 973, 976; Pub. L. 91–172, title V, §516(c)(2)(A), title IX, §902(a), (b), Dec. 30, 1969, 83 Stat. 648, 710; Pub. L. 92–178, title III, §310(a), Dec. 10, 1971, 85 Stat. 525; Pub. L. 94–455, title XIX, §§1901(c)(4), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1803, 1834; Pub. L. 97–34, title I, §127(a), Aug. 13, 1981, 95 Stat. 202; Pub. L. 97–35, title XXI, §2146(b), Aug. 13, 1981, 95 Stat. 801; Pub. L. 97–51, §139(b)(1), Oct. 1, 1981, 95 Stat. 967; Pub. L. 97–216, title II, §215(a), July 18, 1982, 96 Stat. 194; Pub. L. 97–248, title I, §128(b), title II, §288(a), Sept. 3, 1982, 96 Stat. 366, 571; Pub. L. 98–369, div. A, title V, §512(b), div. B, title III, §2354(d), July 18, 1984, 98 Stat. 863, 1102; Pub. L. 98–573, title II, §232(a), Oct. 30, 1984, 98 Stat. 2991; Pub. L. 99–272, title X, §10001(a), (c), (d), Apr. 7, 1986, 100 Stat. 222, 223, 227; Pub. L. 99–509, title IX, §§9307(c)(2)(B), 9501(a)(1), (b)(1)(A), (2)(A), (c)(1), (d)(1), Oct. 21, 1986, 100 Stat. 1995, 2075–2077; Pub. L. 99–514, title VI, §613(a), title XI, §1161(a), title XVIII, §1895(d)(1)(A), (2)(A), (3)(A), (4)(A), (5)(A), (6)(A), (7), Oct. 22, 1986, 100 Stat. 2251, 2509, 2936–2940; Pub. L. 100–647, title I, §§1011B(b)(1)–(3), 1018(t)(7)(B), title III, §3011(b)(2), (3), Nov. 10, 1988, 102 Stat. 3488, 3589, 3624, 3625; Pub. L. 101–140, title II, §203(a)(4), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title VI, §6202(b)(3)(A), title VII, §§7107(a)(1), (b), 7862(c)(3)(A), Dec. 19, 1989, 103 Stat. 2233, 2306, 2432; Pub. L. 101–508, title XI, §§11111(d)(2), 11410(a), Nov. 5, 1990, 104 Stat. 1388–413, 1388–479; Pub. L. 102–227, title I, §110(a)(1), Dec. 11, 1991, 105 Stat. 1688; Pub. L. 102–486, title XIX, §1938(a), Oct. 24, 1992, 106 Stat. 3033; Pub. L. 103–66, title XIII, §§13131(d)(2), 13174(a)(1), (b)(1), 13211(a), 13222(a), 13442(a), Aug. 10, 1993, 107 Stat. 435, 457, 469, 477, 568; Pub. L. 104–7, §1(a), (b), Apr. 11, 1995, 109 Stat. 93; Pub. L. 104–188, title I, §1704(p)(1)–(3), Aug. 20, 1996, 110 Stat. 1886; Pub. L. 104–191, title III, §§311(a), 322(b)(2)(B), Aug. 21, 1996, 110 Stat. 2053, 2060; Pub. L. 105–34, title IX, §934(a), title XII, §§1203(a), 1204(a), title XVI, §1602(c), Aug. 5, 1997, 111 Stat. 882, 994, 995, 1094;Pub. L. 105–206, title VI, §6012(a), July 22, 1998, 112 Stat. 818; Pub. L. 105–277, div. J, title II, §2002(a), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 108–121, title I, §109(a), Nov. 11, 2003, 117 Stat. 1341; Pub. L. 108–357, title III, §318(a), (b), title VIII, §802(b)(2), Oct. 22, 2004, 118 Stat. 1470, 1568; Pub. L. 110–343, div. A, title III, §302(a), Oct. 3, 2008, 122 Stat. 3803; Pub. L. 111–148, title IX, §9014(a), title X, §10108(g)(1), Mar. 23, 2010, 124 Stat. 868, 913; Pub. L. 111–152, title I, §1004(d)(2), (3), Mar. 30, 2010, 124 Stat. 1035; Pub. L. 111–240, title II, §2042(a), Sept. 27, 2010, 124 Stat. 2560; Pub. L. 112–10, div. B, title VIII, §1858(b)(3), Apr. 15, 2011, 125 Stat. 169.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 45; Pub. L. 85–866, title I, §5(a), Sept. 2, 1958, 72 Stat. 1608; Pub. L. 86–779, §§7(b), 8(a), Sept. 14, 1960, 74 Stat. 1002, 1003; Pub. L. 87–834, §§3(a), 4(b), Oct. 16, 1962, 76 Stat. 973, 976; Pub. L. 91–172, title V, §516(c)(2)(A), title IX, §902(a), (b), Dec. 30, 1969, 83 Stat. 648, 710; Pub. L. 92–178, title III, §310(a), Dec. 10, 1971, 85 Stat. 525; Pub. L. 94–455, title XIX, §§1901(c)(4), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1803, 1834; Pub. L. 97–34, title I, §127(a), Aug. 13, 1981, 95 Stat. 202; Pub. L. 97–35, title XXI, §2146(b), Aug. 13, 1981, 95 Stat. 801; Pub. L. 97–51, §139(b)(1), Oct. 1, 1981, 95 Stat. 967; Pub. L. 97–216, title II, §215(a), July 18, 1982, 96 Stat. 194; Pub. L. 97–248, title I, §128(b), title II, §288(a), Sept. 3, 1982, 96 Stat. 366, 571; Pub. L. 98–369, div. A, title V, §512(b), div. B, title III, §2354(d), July 18, 1984, 98 Stat. 863, 1102; Pub. L. 98–573, title II, §232(a), Oct. 30, 1984, 98 Stat. 2991; Pub. L. 99–272, title X, §10001(a), (c), (d), Apr. 7, 1986, 100 Stat. 222, 223, 227; Pub. L. 99–509, title IX, §§9307(c)(2)(B), 9501(a)(1), (b)(1)(A), (2)(A), (c)(1), (d)(1), Oct. 21, 1986, 100 Stat. 1995, 2075–2077; Pub. L. 99–514, title VI, §613(a), title XI, §1161(a), title XVIII, §1895(d)(1)(A), (2)(A), (3)(A), (4)(A), (5)(A), (6)(A), (7), Oct. 22, 1986, 100 Stat. 2251, 2509, 2936–2940; Pub. L. 100–647, title I, §§1011B(b)(1)–(3), 1018(t)(7)(B), title III, §3011(b)(2), (3), Nov. 10, 1988, 102 Stat. 3488, 3589, 3624, 3625; Pub. L. 101–140, title II, §203(a)(4), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title VI, §6202(b)(3)(A), title VII, §§7107(a)(1), (b), 7862(c)(3)(A), Dec. 19, 1989, 103 Stat. 2233, 2306, 2432; Pub. L. 101–508, title XI, §§11111(d)(2), 11410(a), Nov. 5, 1990, 104 Stat. 1388–413, 1388–479; Pub. L. 102–227, title I, §110(a)(1), Dec. 11, 1991, 105 Stat. 1688; Pub. L. 102–486, title XIX, §1938(a), Oct. 24, 1992, 106 Stat. 3033; Pub. L. 103–66, title XIII, §§13131(d)(2), 13174(a)(1), (b)(1), 13211(a), 13222(a), 13442(a), Aug. 10, 1993, 107 Stat. 435, 457, 469, 477, 568; Pub. L. 104–7, §1(a), (b), Apr. 11, 1995, 109 Stat. 93; Pub. L. 104–188, title I, §1704(p)(1)–(3), Aug. 20, 1996, 110 Stat. 1886; Pub. L. 104–191, title III, §§311(a), 322(b)(2)(B), Aug. 21, 1996, 110 Stat. 2053, 2060; Pub. L. 105–34, title IX, §934(a), title XII, §§1203(a), 1204(a), title XVI, §1602(c), Aug. 5, 1997, 111 Stat. 882, 994, 995, 1094; Pub. L. 105–206, title VI, §6012(a), July 22, 1998, 112 Stat. 818; Pub. L. 105–277, div. J, title II, §2002(a), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 108–121, title I, §109(a), Nov. 11, 2003, 117 Stat. 1341; Pub. L. 108–357, title III, §318(a), (b), title VIII, §802(b)(2), Oct. 22, 2004, 118 Stat. 1470, 1568; Pub. L. 110–343, div. A, title III, §302(a), Oct. 3, 2008, 122 Stat. 3803; Pub. L. 111–148, title IX, §9014(a), title X, §10108(g)(1), Mar. 23, 2010, 124 Stat. 868, 913; Pub. L. 111–152, title I, §1004(d)(2), (3), Mar. 30, 2010, 124 Stat. 1035; Pub. L. 111–240, title II, §2042(a), Sept. 27, 2010, 124 Stat. 2560; Pub. L. 112–10, div. B, title VIII, §1858(b)(3), Apr. 15, 2011, 125 Stat. 169.)
 
 #### References in Text
 
@@ -518,7 +518,7 @@ The Social Security Act, referred to in subsec. (c)(3), is act Aug. 14, 1935, ch
 
 Section 4 of the Clayton Act, referred to in subsec. (g)(1), is classified to section 15 of Title 15, Commerce and Trade.
 
-The Securities Exchange Act of 1934, referred to in subsec. (m)(2), (3)(B), (5)(D)(ii)(I), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. Section 12 of the Act is classified to section 78<i>l</i> of Title 15. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (m)(2), (3)(B), (5)(D)(ii)(I), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. Section 12 of the Act is classified to section 78l of Title 15. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
 The Emergency Economic Stabilization Act of 2008, referred to in subsec. (m)(5), is div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, which is classified principally to chapter 52 (§5201 et seq.) of Title 12, Banks and Banking. Section 101(a) of the Act enacted section 5211(a) of Title 12 and amended section 5315 of Title 5, Government Organization and Employees, and section 301 of Title 31, Money and Finance. Section 113(c) of the Act is classified to section 5223(c) of Title 12. Section 120 of the Act is classified to section 5230 of Title 12. For complete classification of this Act to the Code, see Short Title note set out under section 5201 of Title 12 and Tables.
 
@@ -528,11 +528,11 @@ The Emergency Economic Stabilization Act of 2008, referred to in subsec. (m)(5),
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–148, §10108(g)(1), inserted at end of concluding provisions “For purposes of paragraph (1), the amount of a free choice voucher provided under section 10108 of the Patient Protection and Affordable Care Act shall be treated as an amount for compensation for personal services actually rendered.”
 
-Subsec. (<i>l</i>)(1). Pub. L. 111–152, §1004(d)(2), amended par. (1) generally. Prior to amendment, par. (1) authorized a deduction in an amount equal to the applicable percentage of the amount paid during the taxable year for insurance which constitutes medical care for the taxpayer, his spouse, and dependents.
+Subsec. (l)(1). Pub. L. 111–152, §1004(d)(2), amended par. (1) generally. Prior to amendment, par. (1) authorized a deduction in an amount equal to the applicable percentage of the amount paid during the taxable year for insurance which constitutes medical care for the taxpayer, his spouse, and dependents.
 
-Subsec. (<i>l</i>)(2)(B). Pub. L. 111–152, §1004(d)(3), inserted “, or any dependent, or individual described in subparagraph (D) of paragraph (1) with respect to,” after “spouse of” in introductory provisions.
+Subsec. (l)(2)(B). Pub. L. 111–152, §1004(d)(3), inserted “, or any dependent, or individual described in subparagraph (D) of paragraph (1) with respect to,” after “spouse of” in introductory provisions.
 
-Subsec. (<i>l</i>)(4). Pub. L. 111–240 inserted “for taxable years beginning before January 1, 2010, or after December 31, 2010” before period at end.
+Subsec. (l)(4). Pub. L. 111–240 inserted “for taxable years beginning before January 1, 2010, or after December 31, 2010” before period at end.
 
 Subsec. (m)(6). Pub. L. 111–148, §9014(a), added par. (6).
 
@@ -540,15 +540,15 @@ Subsec. (m)(6). Pub. L. 111–148, §9014(a), added par. (6).
 
 <b>2004</b>—Subsec. (m)(4)(G). Pub. L. 108–357, §802(b)(2), added subpar. (G).
 
-Subsec. (<i>o</i>). Pub. L. 108–357, §318(b), struck out “reimbursed” before “expenses” in heading.
+Subsec. (o). Pub. L. 108–357, §318(b), struck out “reimbursed” before “expenses” in heading.
 
-Subsec. (<i>o</i>)(2), (3). Pub. L. 108–357, §318(a), added par. (2) and redesignated former par. (2) as (3).
+Subsec. (o)(2), (3). Pub. L. 108–357, §318(a), added par. (2) and redesignated former par. (2) as (3).
 
 <b>2003</b>—Subsecs. (p), (q). Pub. L. 108–121 added subsec. (p) and redesignated former subsec. (p) as (q).
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–206, in last sentence, substituted “investigate or prosecute, or provide support services for the investigation or prosecution of, a Federal crime.” for “investigate, or provide support services for the investigation of, a Federal crime.”
 
-Subsec. (<i>l</i>)(1)(B). Pub. L. 105–277 amended table in subpar. (B) generally. Prior to amendment, table read as follows:
+Subsec. (l)(1)(B). Pub. L. 105–277 amended table in subpar. (B) generally. Prior to amendment, table read as follows:
 
 &nbsp;
 
@@ -564,7 +564,7 @@ Subsec. (<i>l</i>)(1)(B). Pub. L. 105–277 amended table in subpar. (B) general
 
 <b>1997</b>—Subsec. (a). Pub. L. 105–34, §1204(a), inserted at end of concluding provisions “The preceding sentence shall not apply to any Federal employee during any period for which such employee is certified by the Attorney General (or the designee thereof) as traveling on behalf of the United States in temporary duty status to investigate, or provide support services for the investigation of, a Federal crime.”
 
-Subsec. (<i>l</i>)(1)(B). Pub. L. 105–34, §934(a), amended table generally. Prior to amendment, table read as follows:
+Subsec. (l)(1)(B). Pub. L. 105–34, §934(a), amended table generally. Prior to amendment, table read as follows:
 
 &nbsp;
 
@@ -577,9 +577,9 @@ Subsec. (<i>l</i>)(1)(B). Pub. L. 105–34, §934(a), amended table generally. P
 | &nbsp;&nbsp;&nbsp;2005 | 70 percent&nbsp; |
 | &nbsp;&nbsp;&nbsp;2006 or thereafter | 80 percent.” |
 
-Subsec. (<i>l</i>)(2)(B). Pub. L. 105–34, §1602(c), inserted “The preceding sentence shall be applied separately with respect to—” at end and added cls. (i) and (ii).
+Subsec. (l)(2)(B). Pub. L. 105–34, §1602(c), inserted “The preceding sentence shall be applied separately with respect to—” at end and added cls. (i) and (ii).
 
-Subsecs. (<i>o</i>), (p). Pub. L. 105–34, §1203(a), added subsec. (<i>o</i>) and redesignated former subsec. (<i>o</i>) as (p).
+Subsecs. (o), (p). Pub. L. 105–34, §1203(a), added subsec. (o) and redesignated former subsec. (o) as (p).
 
 <b>1996</b>—Subsec. (k). Pub. L. 104–188, §1704(p)(3), substituted “reaquisition” for “redemption” in heading.
 
@@ -587,23 +587,23 @@ Subsec. (k)(1). Pub. L. 104–188, §1704(p)(1), substituted “the reacquisitio
 
 Subsec. (k)(2)(A). Pub. L. 104–188, §1704(p)(2), struck out “or” at end of cl. (i), added cl. (ii), and redesignated former cl. (ii) as (iii).
 
-Subsec. (<i>l</i>)(1). Pub. L. 104–191, §311(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows:
+Subsec. (l)(1). Pub. L. 104–191, §311(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows:
 
 “(1)
 
 In general.—In the case of an individual who is an employee within the meaning of section 401(c)(1), there shall be allowed as a deduction under this section an amount equal to 30 percent of the amount paid during the taxable year for insurance which constitutes medical care for the taxpayer, his spouse, and dependents.”
 
-Subsec. (<i>l</i>)(2)(C). Pub. L. 104–191, §322(b)(2)(B), added subpar. (C).
+Subsec. (l)(2)(C). Pub. L. 104–191, §322(b)(2)(B), added subpar. (C).
 
-<b>1995</b>—Subsec. (<i>l</i>)(1). Pub. L. 104–7, §1(b), substituted “30 percent” for “25 percent”.
+<b>1995</b>—Subsec. (l)(1). Pub. L. 104–7, §1(b), substituted “30 percent” for “25 percent”.
 
-Subsec. (<i>l</i>)(6). Pub. L. 104–7, §1(a), struck out par. (6) “Termination” which read as follows: “This subsection shall not apply to any taxable year beginning after December 31, 1993.”
+Subsec. (l)(6). Pub. L. 104–7, §1(a), struck out par. (6) “Termination” which read as follows: “This subsection shall not apply to any taxable year beginning after December 31, 1993.”
 
 <b>1993</b>—Subsec. (e). Pub. L. 103–66, §13222(a), amended heading and text generally. Prior to amendment, text consisted of pars. (1) and (2) relating to deduction of ordinary and necessary expenses paid or incurred in connection with certain activities relating to congressional, State, and local legislation.
 
-Subsec. (<i>l</i>)(2)(B). Pub. L. 103–66, §13174(b)(1), amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “Paragraph (1) shall not apply to any taxpayer who is eligible to participate in any subsidized health plan maintained by any employer of the taxpayer or of the spouse of the taxpayer.”
+Subsec. (l)(2)(B). Pub. L. 103–66, §13174(b)(1), amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “Paragraph (1) shall not apply to any taxpayer who is eligible to participate in any subsidized health plan maintained by any employer of the taxpayer or of the spouse of the taxpayer.”
 
-Subsec. (<i>l</i>)(3). Pub. L. 103–66, §13131(d)(2), amended heading and text of par. (3) generally. Prior to amendment, text read as follows:
+Subsec. (l)(3). Pub. L. 103–66, §13131(d)(2), amended heading and text of par. (3) generally. Prior to amendment, text read as follows:
 
 “(A)
 
@@ -613,23 +613,23 @@ Medical deduction.—Any amount paid by a taxpayer for insurance to which paragr
 
 Health insurance credit.—The amount otherwise taken into account under paragraph (1) as paid for insurance which constitutes medical care shall be reduced by the amount (if any) of the health insurance credit allowable to the taxpayer for the taxable year under section 32.”
 
-Subsec. (<i>l</i>)(6). Pub. L. 103–66, §13174(a)(1), substituted “December 31, 1993” for “June 30, 1992”.
+Subsec. (l)(6). Pub. L. 103–66, §13174(a)(1), substituted “December 31, 1993” for “June 30, 1992”.
 
 Subsec. (m). Pub. L. 103–66, §13211(a), added subsec. (m). Former subsec. (m) redesignated (n).
 
-Subsec. (n). Pub. L. 103–66, §13442(a), added subsec. (n). Former subsec. (n) redesignated (<i>o</i>).
+Subsec. (n). Pub. L. 103–66, §13442(a), added subsec. (n). Former subsec. (n) redesignated (o).
 
 Pub. L. 103–66, §13211(a), redesignated subsec. (m) as (n).
 
-Subsec. (<i>o</i>). Pub. L. 103–66, §13442(a), redesignated subsec. (n) as (<i>o</i>).
+Subsec. (o). Pub. L. 103–66, §13442(a), redesignated subsec. (n) as (o).
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–486 inserted at end “For purposes of paragraph (2), the taxpayer shall not be treated as being temporarily away from home during any period of employment if such period exceeds 1 year.”
 
-<b>1991</b>—Subsec. (<i>l</i>)(6). Pub. L. 102–227 substituted “June 30, 1992” for “December 31, 1991”.
+<b>1991</b>—Subsec. (l)(6). Pub. L. 102–227 substituted “June 30, 1992” for “December 31, 1991”.
 
-<b>1990</b>—Subsec. (<i>l</i>)(3). Pub. L. 101–508, §11111(d)(2), substituted heading for one which read: “Coordination with medical deduction” and amended text generally. Prior to amendment, text read as follows: “Any amount paid by a taxpayer for insurance to which paragraph (1) applies shall not be taken into account in computing the amount allowable to the taxpayer as a deduction under section 213(a).”
+<b>1990</b>—Subsec. (l)(3). Pub. L. 101–508, §11111(d)(2), substituted heading for one which read: “Coordination with medical deduction” and amended text generally. Prior to amendment, text read as follows: “Any amount paid by a taxpayer for insurance to which paragraph (1) applies shall not be taken into account in computing the amount allowable to the taxpayer as a deduction under section 213(a).”
 
-Subsec. (<i>l</i>)(6). Pub. L. 101–508, §11410(a), substituted “December 31, 1991” for “September 30, 1990”.
+Subsec. (l)(6). Pub. L. 101–508, §11410(a), substituted “December 31, 1991” for “September 30, 1990”.
 
 <b>1989</b>—Subsec. (i). Pub. L. 101–239, §6202(b)(3)(A), struck out subsec. (i) which read as follows:
 
@@ -641,27 +641,27 @@ Coverage relating to end stage renal disease.—The expenses paid or incurred by
 
 Group health plan.—For purposes of this subsection the term ‘group health plan’ means any plan of, or contributed to by, an employer to provide medical care (as defined in section 213(d) to his employees, former employees, or the families of such employees or former employees, directly or through insurance, reimbursement, or otherwise.”
 
-Subsec. (k)(2)(B)(iv). Pub. L. 101–239, §7862(c)(3)(A), amended cl. (iv) as it existed prior to repeal of subsec. (k) by Pub. L. 100–647, by substituting “entitlement” for “eligibility” in heading and inserting “which does not contain any exclusion or limitation with respect to any preexisting condition of such beneficiary” after “or otherwise)” in subclause (I).
+Subsec. (k)(2)(B)(iv). Pub. L. 101–239, §7862(c)(3)(A), amended cl. (iv) as it existed prior to repeal of subsec. (k) by Pub. L. 100–647, by substituting “entitlement” for “eligibility” in heading and inserting “which doesnot contain any exclusion or limitation with respect to any preexisting condition of such beneficiary” after “or otherwise)” in subclause (I).
 
-Subsec. (<i>l</i>)(2). Pub. L. 101–140 redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “
+Subsec. (l)(2). Pub. L. 101–140 redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “
 
 Required coverage.—Paragraph (1) shall not apply to any taxpayer for any taxable year unless coverage is provided under 1 or more plans meeting the requirements of section 89, treating such coverage as an employer-provided benefit.”
 
-Subsec. (<i>l</i>)(5). Pub. L. 101–239, §7107(b), added par. (5). Former par. (5) redesignated (6).
+Subsec. (l)(5). Pub. L. 101–239, §7107(b), added par. (5). Former par. (5) redesignated (6).
 
 Pub. L. 101–239, §7107(a)(1), substituted “September 30, 1990” for “December 31, 1989”.
 
-Subsec. (<i>l</i>)(6). Pub. L. 101–239, §7107(b), redesignated former par. (5) as (6).
+Subsec. (l)(6). Pub. L. 101–239, §7107(b), redesignated former par. (5) as (6).
 
 <b>1988</b>—Subsec. (i)(2), (3). Pub. L. 100–647, §3011(b)(2), redesignated par. (3) as (2) and struck out former par. (2) which required plans to provide continuation coverage to certain individuals.
 
-Subsec. (k). Pub. L. 100–647, §3011(b)(3), redesignated subsec. (<i>l</i>), relating to stock redemption expenses, as (k) and struck out former subsec. (k) which related to continuation coverage requirements of group health plans.
+Subsec. (k). Pub. L. 100–647, §3011(b)(3), redesignated subsec. (l), relating to stock redemption expenses, as (k) and struck out former subsec. (k) which related to continuation coverage requirements of group health plans.
 
 Subsec. (k)(5)(B). Pub. L. 100–647, §1018(t)(7)(B), made amendment identical to Pub. L. 99–509, §9307(c)(2)(B), which amended directory language of Pub. L. 99–514, §1895(d)(5)(A), by substituting “section 162(k)(5)” for “section 162(k)(2)”. See 1986 Amendment note below.
 
-Subsec . (<i>l</i>). Pub. L. 100–647, §3011(b)(3)(A), (B), redesignated subsec. (m), relating to special rules for health insurance costs of self-employed individuals, as (<i>l</i>). Former subsec. (<i>l</i>), relating to stock redemption expenses, redesignated (k).
+Subsec . (l). Pub. L. 100–647, §3011(b)(3)(A), (B), redesignated subsec. (m), relating to special rules for health insurance costs of self-employed individuals, as (l). Former subsec. (l), relating to stock redemption expenses, redesignated (k).
 
-Subsec. (m). Pub. L. 100–647, §3011(b)(3)(B), (C), redesignated subsec. (n), relating to cross references, as (m). Former subsec. (m), relating to special rules for health insurance costs of self-employed individuals, redesignated (<i>l</i>).
+Subsec. (m). Pub. L. 100–647, §3011(b)(3)(B), (C), redesignated subsec. (n), relating to cross references, as (m). Former subsec. (m), relating to special rules for health insurance costs of self-employed individuals, redesignated (l).
 
 Pub. L. 100–647, §1011B(b)(2), redesignated subsec. (m), relating to cross references, as (n).
 
@@ -677,7 +677,7 @@ Pub. L. 100–647, §1011B(b)(2), redesignated subsec. (m), relating to cross re
 
 Subsec. (i)(2), (3). Pub. L. 99–272, §10001(a), added par. (2) and redesignated former par. (2) as (3).
 
-Subsec. (k). Pub. L. 99–272, §10001(c), added subsec. (k). Former subsec. (k) redesignated (<i>l</i>).
+Subsec. (k). Pub. L. 99–272, §10001(c), added subsec. (k). Former subsec. (k) redesignated (l).
 
 Subsec. (k)(2)(A). Pub. L. 99–514, §1895(d)(1)(A), inserted “If coverage under the plan is modified for any group of similarly situated beneficiaries, the coverage shall also be modified in the same manner for all individuals who are qualified beneficiaries under the plan pursuant to this subsection in connection with such group.”
 
@@ -715,13 +715,13 @@ Subsec. (k)(7)(B)(iii). Pub. L. 99–514, §1895(d)(7), added cl. (iii).
 
 Subsec. (k)(7)(B)(iv). Pub. L. 99–509, §9501(c)(1), added cl. (iv).
 
-Subsec. (<i>l</i>). Pub. L. 99–514, §613(a), added subsec. (<i>l</i>). Former subsec. (<i>l</i>) redesignated (m).
+Subsec. (l). Pub. L. 99–514, §613(a), added subsec. (l). Former subsec. (l) redesignated (m).
 
-Pub. L. 99–272, §10001(c), redesignated former subsec. (k), relating to cross references, as (<i>l</i>).
+Pub. L. 99–272, §10001(c), redesignated former subsec. (k), relating to cross references, as (l).
 
 Subsec. (m). Pub. L. 99–514, §1161(a), added subsec. (m) relating to special rules for health insurance costs of self-employed individuals, and further directed that this section be amended “by redesignating subsection (n) as subsection (m)”, which directory language could not be executed because this section does not contain a subsec. (n).
 
-Pub. L. 99–514, §613(a), redesignated subsec. (<i>l</i>), relating to cross references, as (m).
+Pub. L. 99–514, §613(a), redesignated subsec. (l), relating to cross references, as (m).
 
 <b>1984</b>—Subsec. (i)(2). Pub. L. 98–369, §2354(d), substituted “section 213(d)” for “section 213(e)”.
 
@@ -811,21 +811,21 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1997 Amendment
 
-Section 934(b) of Pub. L. 105–34 provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1996.”
+Pub. L. 105–34, title IX, §934(b), Aug. 5, 1997, 111 Stat. 882, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1996.”
 
-Section 1203(c) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section and repealing provisions set out as a note below\] shall apply to taxable years beginning after December 31, 1997.”
+Pub. L. 105–34, title XII, §1203(c), Aug. 5, 1997, 111 Stat. 995, provided that: “The amendments made by this section \[amending this section and repealing provisions set out as a note below\] shall apply to taxable years beginning after December 31, 1997.”
 
-Section 1204(b) of Pub. L. 105–34 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to amounts paid or incurred with respect to taxable years ending after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title XII, §1204(b), Aug. 5, 1997, 111 Stat. 995, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to amounts paid or incurred with respect to taxable years ending after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 Amendment by section 1602(c) of Pub. L. 105–34 effective as if included in the provisions of the Health Insurance Portability and Accountability Act of 1996, Pub. L. 104–191, to which such amendment relates, see section 1602(i) of Pub. L. 105–34, set out as a note under section 26 of this title.
 
-#### Effective Date of 1996 Amendments
+#### Effective Date of 1996 Amendment
 
 Amendment by section 311(a) of Pub. L. 104–191 applicable to taxable years beginning after Dec. 31, 1996, see section 311(c) of Pub. L. 104–191, set out as a note under section 104 of this title.
 
-Section 322(c) of Pub. L. 104–191 provided that: “The amendments made by this section \[amending this section and section 213 of this title\] shall apply to taxable years beginning after December 31, 1996.”
+Pub. L. 104–191, title III, §322(c), Aug. 21, 1996, 110 Stat. 2062, provided that: “The amendments made by this section \[amending this section and section 213 of this title\] shall apply to taxable years beginning after December 31, 1996.”
 
-Section 1704(p)(4) of Pub. L. 104–188 provided that:
+Pub. L. 104–188, title I, §1704(p)(4), Aug. 20, 1996, 110 Stat. 1886, provided that:
 
 “(A)
 
@@ -837,7 +837,7 @@ Paragraph (2).—The amendment made by paragraph (2) \[amending this section\] s
 
 #### Effective Date of 1995 Amendment
 
-Section 1(c) of Pub. L. 104–7 provided that:
+Pub. L. 104–7, §1(c), Apr. 11, 1995, 109 Stat. 93, provided that:
 
 “(1)
 
@@ -851,37 +851,37 @@ Increase.—The amendment made by subsection (b) \[amending this section\] shall
 
 Amendment by section 13131(d)(2) of Pub. L. 103–66 applicable to taxable years beginning after Dec. 31, 1993, see section 13131(e) of Pub. L. 103–66, set out as a note under section 32 of this title.
 
-Section 13174(a)(3) of Pub. L. 103–66 provided that: “The amendments made by this subsection \[amending this section and repealing provisions set out below\] shall apply to taxable years ending after June 30, 1992.”
+Pub. L. 103–66, title XIII, §13174(a)(3), Aug. 10, 1993, 107 Stat. 457, provided that: “The amendments made by this subsection \[amending this section and repealing provisions set out below\] shall apply to taxable years ending after June 30, 1992.”
 
-Section 13174(b)(2) of Pub. L. 103–66 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to taxable years beginning after December 31, 1992.”
+Pub. L. 103–66, title XIII, §13174(b)(2), Aug. 10, 1993, 107 Stat. 457, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to taxable years beginning after December 31, 1992.”
 
-Section 13211(b) of Pub. L. 103–66 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to amounts which would otherwise be deductible for taxable years beginning on or after January 1, 1994.”
+Pub. L. 103–66, title XIII, §13211(b), Aug. 10, 1993, 107 Stat. 471, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to amounts which would otherwise be deductible for taxable years beginning on or after January 1, 1994.”
 
-Section 13222(e) of Pub. L. 103–66 provided that: “The amendments made by this section \[amending this section and sections 170, 6033, and 7871 of this title\] shall apply to amounts paid or incurred after December 31, 1993.”
+Pub. L. 103–66, title XIII, §13222(e), Aug. 10, 1993, 107 Stat. 481, provided that: “The amendments made by this section \[amending this section and sections 170, 6033, and 7871 of this title\] shall apply to amounts paid or incurred after December 31, 1993.”
 
-Section 13442(b) of Pub. L. 103–66, as amended by Pub. L. 104–7, §5, Apr. 11, 1995, 109 Stat. 96, provided that: “The provisions of this section \[amending this section\] shall apply to services provided after February 2, 1993, and on or before December 31, 1995.”
+Pub. L. 103–66, title XIII, §13442(b), Aug. 10, 1993, 107 Stat. 568, as amended by Pub. L. 104–7, §5, Apr. 11, 1995, 109 Stat. 96, provided that: “The provisions of this section \[amending this section\] shall apply to services provided after February 2, 1993, and on or before December 31, 1995.”
 
 #### Effective Date of 1992 Amendment
 
-Section 1938(b) of Pub. L. 102–486 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to costs paid or incurred after December 31, 1992.”
+Pub. L. 102–486, title XIX, §1938(b), Oct. 24, 1992, 106 Stat. 3033, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to costs paid or incurred after December 31, 1992.”
 
 #### Effective Date of 1991 Amendment
 
-Section 110(b) of Pub. L. 102–227 provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1991.”
+Pub. L. 102–227, title I, §110(b), Dec. 11, 1991, 105 Stat. 1688, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1991.”
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 11111(d)(2) of Pub. L. 101–508 applicable to taxable years beginning after Dec. 31,1990, see section 11111(f) of Pub. L. 101–508, set out as a note under section 32 of this title.
+Amendment by section 11111(d)(2) of Pub. L. 101–508 applicable to taxable years beginning after Dec. 31, 1990, see section 11111(f) of Pub. L. 101–508, set out as a note under section 32 of this title.
 
-Section 11410(c) of Pub. L. 101–508 provided that: “The amendments made by this section \[amending this section and repealing provisions set out below\] shall apply to taxable years beginning after December 31, 1989.”
+Pub. L. 101–508, title XI, §11410(c), Nov. 5, 1990, 104 Stat. 1388–479, provided that: “The amendments made by this section \[amending this section and repealing provisions set out below\] shall apply to taxable years beginning after December 31, 1989.”
 
-#### Effective Date of 1989 Amendments
+#### Effective Date of 1989 Amendment
 
-Section 6202(b)(5) of Pub. L. 101–239 provided that: “The amendments made by this subsection \[amending this section, sections 4980B and 5000 of this title, sections 623 and 631 of Title 29, Labor, and sections 1395p, 1395r, and 1395y of Title 42, The Public Health and Welfare\] shall apply to items and services furnished after the date of the enactment of this Act \[Dec. 19, 1989\].”
+Pub. L. 101–239, title VI, §6202(b)(5), Dec. 19, 1989, 103 Stat. 2233, provided that: “The amendments made by this subsection \[amending this section, sections 4980B and 5000 of this title, sections 623 and 631 of Title 29, Labor, and sections 1395p, 1395r, and 1395y of Title 42, The Public Health and Welfare\] shall apply to items and services furnished after the date of the enactment of this Act \[Dec. 19, 1989\].”
 
-Section 7107(c) of Pub. L. 101–239 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1989.”
+Pub. L. 101–239, title VII, §7107(c), Dec. 19, 1989, 103 Stat. 2306, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1989.”
 
-Section 7862(c)(3)(D) of Pub. L. 101–239 provided that: “The amendments made by this paragraph \[amending this section, section 4980B of this title, and section 1162 of Title 29, Labor\] shall apply to—
+Pub. L. 101–239, title VII, §7862(c)(3)(D), Dec. 19, 1989, 103 Stat. 2432, provided that: “The amendments made by this paragraph \[amending this section, section 4980B of this title, and section 1162 of Title 29, Labor\] shall apply to—
 
 &emsp;“(i) qualifying events occurring after December 31, 1989, and
 
@@ -893,13 +893,13 @@ Amendment by Pub. L. 101–140 effective as if included in section 1151 of Pub. 
 
 Amendment by sections 1011B(b)(1)–(3) and 1018(t)(7)(B) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Section 3011(d) of Pub. L. 100–647 provided that: “The amendments made by this section \[enacting section 4980B of this title, and amending this section, sections 106 and 414 of this title, section 1167 of Title 29, Labor, and section 300bb–8 of Title 42, The Public Health and Welfare\] shall apply to taxable years beginning after December 31, 1988, but shall not apply to any plan for any plan year to which section 162(k) of the Internal Revenue Code of 1986 (as in effect on the day before the date of the enactment of this Act \[Nov. 10, 1988\]) did not apply by reason of section 10001(e)(2) of the Consolidated Omnibus Budget Reconciliation Act of 1985 \[section 10001(e)(2) of Pub. L. 99–272, set out as an Effective Date of 1986 Amendment note under section 106 of this title\].”
+Pub. L. 100–647, title III, §3011(d), Nov. 10, 1988, 102 Stat. 3625, provided that: “The amendments made by this section \[enacting section 4980B of this title, and amending this section, sections 106 and 414 of this title, section 1167 of Title 29, Labor, and section 300bb–8 of Title 42, The Public Health and Welfare\] shall apply to taxable years beginning after December 31, 1988, but shall not apply to any plan for any plan year to which section 162(k) of the Internal Revenue Code of 1986 (as in effect on the day before the date of the enactment of this Act \[Nov. 10, 1988\]) did not apply by reason of section 10001(e)(2) of the Consolidated Omnibus Budget Reconciliation Act of 1985 \[section 10001(e)(2) of Pub. L. 99–272, set out as an Effective Date of 1986 Amendment note under section 106 of this title\].”
 
-#### Effective Date of 1986 Amendments
+#### Effective Date of 1986 Amendment
 
-Section 613(b) of Pub. L. 99–514 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to any amount paid or incurred after February 28, 1986, in taxable years ending after such date.”
+Pub. L. 99–514, title VI, §613(b), Oct. 22, 1986, 100 Stat. 2251, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to any amount paid or incurred after February 28, 1986, in taxable years ending after such date.”
 
-Section 1161(b) of Pub. L. 99–514 provided that:
+Pub. L. 99–514, title XI, §1161(b), Oct. 22, 1986, 100 Stat. 2509, provided that:
 
 “(1)
 
@@ -907,19 +907,19 @@ In general.—The amendment made by this section \[amending this section\] shall
 
 “(2)
 
-Transitional rule.—In the case of any year to which section 89 of the Internal Revenue Code of 1986 does not apply, \[former\] section 162(m)(2)(B) of such Code shall be applied by substituting any nondiscrimination requirements otherwise applicable for the requirements of section 89 of such Code.
+Transitional rule.—In the case of any year to which section 89 of the Internal Revenue Code of 1986does not apply, \[former\] section 162(m)(2)(B) of such Code shall be applied by substituting any nondiscrimination requirements otherwise applicable for the requirements of section 89 of such Code.
 
 “(3)
 
 Assistance.—The Secretary of the Treasury or his delegate shall provide guidance to self-employed individuals to assist them in meeting the requirements of section 89 of the Internal Revenue Code of 1986 with respect to coverage required by the amendments made by this section \[amending this section\].”
 
-Section 1895(d)(6)(D) of Pub. L. 99–514 provided that: “The amendments made by this paragraph \[amending this section, section 1166 of Title 29, Labor, and section 300bb–6 of Title 42, The Public Health and Welfare\] shall only apply with respect to qualifying events occurring after the date of the enactment of this Act \[Oct. 22, 1986\].”
+Pub. L. 99–514, title XVIII, §1895(d)(6)(D), Oct. 22, 1986, 100 Stat. 2939, provided that: “The amendments made by this paragraph \[amending this section, section 1166 of Title 29, Labor, and section 300bb–6 of Title 42, The Public Health and Welfare\] shall only apply with respect to qualifying events occurring after the date of the enactment of this Act \[Oct. 22, 1986\].”
 
-Section 1895(e) of Pub. L. 99–514 provided that: “Except as otherwise provided in this section, the amendments made by this section \[amending this section, section 3121 of this title, sections 1162 and 1165 to 1167 of Title 29, sections 300bb–2, 300bb–5, 300bb–6, 410, 1301, 1320c–13, 1395p, 1395u, 1395cc, 1395dd, 1395mm, 1395ww, 1395yy, 1396a, 1396b, 1396d, and 1396s of Title 42, enacting provisions set out as notes under this section, section 3121 of this title, section 1167 of Title 29, and sections 1395u, 1395y, 1395ww, and 1395yy of Title 42, and amending provisions set out as notes under sections 403, 1395u, 1395cc, 1395mm, 1395ww, 1395yy, and 1396b of Title 42\] shall be effective as if included in the enactment of the Consolidated Omnibus Budget Reconciliation Act of 1985 \[Pub. L. 99–272\].”
+Pub. L. 99–514, title XVIII, §1895(e), Oct. 22, 1986, 100 Stat. 2940, provided that: “Except as otherwise provided in this section, the amendments made by this section \[amending this section, section 3121 of this title, sections 1162 and 1165 to 1167 of Title 29, sections 300bb–2, 300bb–5, 300bb–6, 410, 1301, 1320c–13, 1395p, 1395u, 1395cc, 1395dd, 1395mm, 1395ww, 1395yy, 1396a, 1396b, 1396d, and 1396s of Title 42, enacting provisions set out as notes under this section, section 3121 of this title, section 1167 of Title 29, and sections 1395u, 1395y, 1395ww, and 1395yy of Title 42, and amending provisions set out as notes under sections 403, 1395u, 1395cc, 1395mm, 1395ww, 1395yy, and 1396b of Title 42\] shall be effective as if included in the enactment of the Consolidated Omnibus Budget Reconciliation Act of 1985 \[Pub. L. 99–272\].”
 
 Amendment by section 9307(c)(2)(B) of Pub. L. 99–509 effective as if included in the enactment of Tax Reform Act of 1986, Pub. L. 99–514, see section 9307(c)(2) of Pub. L. 99–509, set out as a note under section 1395u of Title 42.
 
-Section 9501(e) of Pub. L. 99–509 provided that:
+Pub. L. 99–509, title IX, §9501(e), Oct. 21, 1986, 100 Stat. 2078, provided that:
 
 “(1)
 
@@ -943,29 +943,29 @@ Notice.—In the case of a qualifying event described in section 603(6) of the E
 
 Amendment by Pub. L. 99–272 applicable to plan years beginning on or after July 1, 1986, with special rule for collective bargaining agreements, see section 10001(e) of Pub. L. 99–272, set out as a note under section 106 of this title.
 
-#### Effective Date of 1984 Amendments
+#### Effective Date of 1984 Amendment
 
-Section 232(b) of Pub. L. 98–573 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Oct. 30, 1984\].”
+Pub. L. 98–573, title II, §232(b), Oct. 30, 1984, 98 Stat. 2991, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Oct. 30, 1984\].”
 
 Amendment by section 512(b) of Pub. L. 98–369 applicable to amounts paid or incurred after July 18, 1984, in taxable years ending after such date, subject to an exception for certain extended vacation pay plans, see section 512(c) of Pub. L. 98–369, set out as a note under section 404 of this title.
 
 Amendment by section 2354(d) of Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2354(e) of Pub. L. 98–369, set out as a note under section 1320a–1 of Title 42, The Public Health and Welfare.
 
-#### Effective Date of 1982 Amendments
+#### Effective Date of 1982 Amendment
 
-Section 288(c) of Pub. L. 97–248 provided that: “The amendments made by this section \[amending this section and sections 952 and 964 of this title\] shall apply to payments made after the date of the enactment of this Act \[Sept. 3, 1982\].”
+Pub. L. 97–248, title II, §288(c), Sept. 3, 1982, 96 Stat. 571, provided that: “The amendments made by this section \[amending this section and sections 952 and 964 of this title\] shall apply to payments made after the date of the enactment of this Act \[Sept. 3, 1982\].”
 
 Amendment by section 128(b) of Pub. L. 97–248 effective as if such amendment had been originally included as part of this section as this section was amended by the Omnibus Budget Reconciliation Act of 1981, Pub. L. 97–35, see section 128(e)(2) of Pub. L. 97–248, set out as a note under section 1395x of Title 42, The Public Health and Welfare.
 
-Section 215(d) of Pub. L. 97–216 provided that: “The amendments made by this section \[amending this section and section 280A of this title and repealing provisions set out as a note under this section\] shall apply to taxable years beginning after December 31, 1981.”
+Pub. L. 97–216, title II, §215(d), July 18, 1982, 96 Stat. 194, provided that: “The amendments made by this section \[amending this section and section 280A of this title and repealing provisions set out as a note under this section\] shall apply to taxable years beginning after December 31, 1981.”
 
-#### Effective Date of 1981 Amendments
+#### Effective Date of 1981 Amendment
 
-Section 139(b)(3) of Pub. L. 97–51, as amended by Pub. L. 97–92, §133a, Dec. 15, 1981, 95 Stat. 1199, provided that: “The amendments made by this subsection \[amending this section and repealing section 31c of Title 2, The Congress\] shall apply to taxable years beginning after December 31, 1980.”
+Pub. L. 97–51, §139(b)(3), Oct. 1, 1981, 95 Stat. 967, as amended by Pub. L. 97–92, §133a, Dec. 15, 1981, 95 Stat. 1199, provided that: “The amendments made by this subsection \[amending this section and repealing section 31c of Title 2, The Congress\] shall apply to taxable years beginning after December 31, 1980.”
 
-Section 2146(c)(2) of Pub. L. 97–35 provided that: “The amendments made by subsection (b) \[amending this section\] shall be effective with respect to taxable years beginning on or after January 1, 1982.”
+Pub. L. 97–35, title XXI, §2146(c)(2), Aug. 13, 1981, 95 Stat. 801, provided that: “The amendments made by subsection (b) \[amending this section\] shall be effective with respect to taxable years beginning on or after January 1, 1982.”
 
-Section 127(b) of Pub. L. 97–34 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning on or after January 1, 1976.”
+Pub. L. 97–34, title I, §127(b), Aug. 13, 1981, 95 Stat. 203, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning on or after January 1, 1976.”
 
 #### Effective Date of 1976 Amendment
 
@@ -973,43 +973,43 @@ Amendment by section 1901(c)(4) of Pub. L. 94–455 applicable with respect to t
 
 #### Effective Date of 1971 Amendment
 
-Section 310(b) of Pub. L. 92–178 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to payments after December 30, 1969, except that section 162(c)(3) of the Internal Revenue Act of 1954 (as added by subsection (a)) shall apply only with respect to kickbacks, rebates, and bribes payment of which is made on or after the date of the enactment of this Act \[Dec. 10, 1971\].”
+Pub. L. 92–178, title III, §310(b), Dec. 10, 1971, 85 Stat. 525, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to payments after December 30, 1969, except that section 162(c)(3) of the Internal Revenue Act of 1954 (as added by subsection (a)) shall apply only with respect to kickbacks, rebates, and bribes payment of which is made on or after the date of the enactment of this Act \[Dec. 10, 1971\].”
 
 #### Effective Date of 1969 Amendment
 
-Section 902(c) of Pub. L. 91–172, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Section 162(f) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (a)) shall apply to all taxable years to which such Code applies. Section 162(g) of such Code (as added by subsection (a)) shall apply with respect to amounts paid or incurred after December 31, 1969. Section 162(c)(1) of such Code (as amended by subsection (b)) shall apply to all taxable years to which such Code applies. Sections 162(c)(2) and (3) of such Code (as amended by subsection (b)) shall apply with respect to payments made after the date of the enactment of this Act \[Dec. 30, 1969\].”
+Pub. L. 91–172, title IX, §902(c), Dec. 30, 1969, 83 Stat. 711, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Section 162(f) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (a)) shall apply to all taxable years to which such Code applies. Section 162(g) of such Code (as added by subsection (a)) shall apply with respect to amounts paid or incurred after December 31, 1969. Section 162(c)(1) of such Code (as amended by subsection (b)) shall apply to all taxable years to which such Code applies. Sections 162(c)(2) and (3) of such Code (as amended by subsection (b)) shall apply with respect to payments made after the date of the enactment of this Act \[Dec. 30, 1969\].”
 
 Amendment by section 516(c)(2)(A) of Pub. L. 91–172 applicable to transfers after Dec. 31, 1969, see section 516(d)(3) of Pub. L. 91–172, set out as a note under section 1001 of this title.
 
 #### Effective Date of 1962 Amendment
 
-Section 4(c) of Pub. L. 87–834 provided that: “The amendments made by this section \[amending this section and enacting section 274 of this title\] shall apply with respect to taxable years ending after December 31, 1962, but only in respect of periods after such date.”
+Pub. L. 87–834, §4(c), Oct. 16, 1962, 76 Stat. 977, provided that: “The amendments made by this section \[amending this section and enacting section 274 of this title\] shall apply with respect to taxable years ending after December 31, 1962, but only in respect of periods after such date.”
 
-Section 3(b) of Pub. L. 87–834 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1962.”
+Pub. L. 87–834, §3(b), Oct. 16, 1962, 76 Stat. 973, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1962.”
 
 #### Effective Date of 1960 Amendment
 
-Section 7(c) of Pub. L. 86–779 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 170 of this title\] shall apply with respect to taxable years beginning after December 31, 1959.”
+Pub. L. 86–779, §7(c), Sept. 14, 1960, 74 Stat. 1002, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 170 of this title\] shall apply with respect to taxable years beginning after December 31, 1959.”
 
-Section 8(d) of Pub. L. 86–779 provided that: “The amendments made by subsections (a), (b), and (c) \[amending this section and section 1054 of this title and amending table of sections for Part IV by adding item 1054 and numbering former item 1054 as 1055\] shall apply with respect to taxable years beginning after December 31, 1959.”
+Pub. L. 86–779, §8(d), Sept. 14, 1960, 74 Stat. 1003, provided that: “The amendments made by subsections (a), (b), and (c) \[amending this section and section 1054 of this title and amending table of sections for Part IV by adding item 1054 and numbering former item 1054 as 1055\] shall apply with respect to taxable years beginning after December 31, 1959.”
 
 #### Effective Date of 1958 Amendment
 
-Section 5(b) of Pub. L. 85–866 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply only with respect to expenses paid or incurred after the date of the enactment of this Act \[Sept. 2, 1958\]. The determination as to whether any expense paid or incurred on or before the date of the enactment of this Act shall be allowed as a deduction shall be made as if this section had not been enacted and without inference drawn from the fact that this section is not made applicable with respect to expenses paid or incurred on or before the date of the enactment of this Act.”
+Pub. L. 85–866, title I, §5(b), Sept. 2, 1958, 72 Stat. 1608, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply only with respect to expenses paid or incurred after the date of the enactment of this Act \[Sept. 2, 1958\]. The determination as to whether any expense paid or incurred on or before the date of the enactment of this Act shall be allowed as a deduction shall be made as if this section had not been enacted and without inference drawn from the fact that this section is not made applicable with respect to expenses paid or incurred on or before the date of the enactment of this Act.”
 
 #### Deduction for Special Assessments
 
 Pub. L. 104–208, div. A, title II, §2711, Sept. 30, 1996, 110 Stat. 3009–498, provided that, for purposes of subtitle A of this title, the amount allowed as a deduction under this section for a taxable year would include any amount paid during that year by reason of an assessment under section 2702 of Pub. L. 104–208, formerly set out as a note under section 1817 of Title 12, Banks and Banking, and that section 172(f) of this title would not apply to that deduction.
 
-#### Special Rule for Deductions Under Subsection (<i>l</i>) for Certain Taxable Years
+#### Special Rule for Deductions Under Subsection (l) for Certain Taxable Years
 
-Section 110(a)(2) of Pub. L. 102–227 provided that, in the case of any taxable year beginning in 1992 only amounts paid before July 1, 1992, by the individual for insurance coverage for periods before July 1, 1992, would be taken into account in determining the amount deductible under subsec. (<i>l</i>) of this section with respect to such individual for such taxable year, and that for purposes of subparagraph (A) of subsec. (<i>l</i>)(2) of this section, the amount of the earned income described in such subparagraph taken into account for such taxable year would be the amount which bears the same ratio to the total amount of such earned income as the number of months in such taxable year ending before July 1, 1992, bears to the number of months in such taxable year, prior to repeal by Pub. L. 103–66, title XIII, §13174(a)(2), Aug. 10, 1993, 107 Stat. 457.
+Pub. L. 102–227, title I, §110(a)(2), Dec. 11, 1991, 105 Stat. 1688, provided that, in the case of any taxable year beginning in 1992 only amounts paid before July 1, 1992, by the individual for insurance coverage for periods before July 1, 1992, would be taken into account in determining the amount deductible under subsec. (l) of this section with respect to such individual for such taxable year, and that for purposes of subparagraph (A) of subsec. (l)(2) of this section, the amount of the earned income described in such subparagraph taken into account for such taxable year would be the amount which bears the same ratio to the total amount of such earned income as the number of months in such taxable year ending before July 1, 1992, bears to the number of months in such taxable year, prior to repeal by Pub. L. 103–66, title XIII, §13174(a)(2), Aug. 10, 1993, 107 Stat. 457.
 
-Section 7107(a)(2) of Pub. L. 101–239 provided that, in the case of any taxable year beginning in 1990 only amounts paid before Oct. 1, 1990, by the individual for insurance coverage for periods before Oct. 1, 1990, would be taken into account in determining the amount deductible under subsec. (<i>l</i>) of this section with respect to such individual for such taxable year, and that for purposes of subsec. (<i>l</i>)(2)(A) of this section, the amount of the earned income described in such paragraph taken into account for such taxable year would be the amount which bears the same ratio to the total amount of such earned income as the number of months in such taxable year ending before Oct. 1, 1990, bears to the number of months in such taxable year, prior to repeal by Pub. L. 101–508, title XI, §11410(b), Nov. 5, 1990, 104 Stat. 1388–479.
+Pub. L. 101–239, title VII, §7107(a)(2), Dec. 19, 1989, 103 Stat. 2306, provided that, in the case of any taxable year beginning in 1990 only amounts paid before Oct. 1, 1990, by the individual for insurance coverage for periods before Oct. 1, 1990, would be taken into account in determining the amount deductible under subsec. (l) of this section with respect to such individual for such taxable year, and that for purposes of subsec. (l)(2)(A) of this section, the amount of the earned income described in such paragraph taken into account for such taxable year would be the amount which bears the same ratio to the total amount of such earned income as the number of months in such taxable year ending before Oct. 1, 1990, bears to the number of months in such taxable year, prior to repeal by Pub. L. 101–508, title XI, §11410(b), Nov. 5, 1990, 104 Stat. 1388–479.
 
 #### Business Use of Automobiles by Rural Mail Carriers
 
-Section 6008 of Pub. L. 100–647 provided that in the case of any employee of the United States Postal Service who performed services involving the collection and delivery of mail on a rural route, such employee was permitted to compute the amount allowable as a deduction under this chapter for the use of an automobile in performing such services by using a standard mileage rate for all miles of such use equal to 150 percent of the basic standard rate, prior to repeal by Pub. L. 105–34, title XII, §1203(b), Aug. 5, 1997, 111 Stat. 995. See subsec. (<i>o</i>) of this section.
+Pub. L. 100–647, title VI, §6008, Nov. 10, 1988, 102 Stat. 3687, provided that in the case of any employee of the United States Postal Service who performed services involving the collection and delivery of mail on a rural route, such employee was permitted to compute the amount allowable as a deduction under this chapter for the use of an automobile in performing such services by using a standard mileage rate for all miles of such use equal to 150 percent of the basic standard rate, prior to repeal by Pub. L. 105–34, title XII, §1203(b), Aug. 5, 1997, 111 Stat. 995. See subsec. (o) of this section.
 
 #### Plan Amendments Not Required Until January 1, 1989
 
@@ -1017,11 +1017,11 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Living Expenses of Members of Congress While Away From Home; Sense of Congress
 
-Section 139(a) of Pub. L. 97–51, which expressed the sense of Congress that the dollar limits on tax deductions for living expenses of Members of Congress while away from home be the same as such limits for businessmen and other private citizens, was repealed by Pub. L. 97–216, title II, §215(c), July 18, 1982, 96 Stat. 194.
+Pub. L. 97–51, §139(a), Oct. 1, 1981, 95 Stat. 967, which expressed the sense of Congress that the dollar limits on tax deductions for living expenses of Members of Congress while away from home be the same as such limits for businessmen and other private citizens, was repealed by Pub. L. 97–216, title II, §215(c), July 18, 1982, 96 Stat. 194.
 
 #### State Legislators’ Travel Expenses Away From Home
 
-Section 604 of Pub. L. 94–455, as amended by Pub. L. 95–30, title III, §307, May 23, 1977, 91 Stat. 153; Pub. L. 95–258, §2, Apr. 7, 1978, 92 Stat. 195; Pub. L. 96–167, §3, Dec. 29, 1979, 93 Stat. 1275; Pub. L. 96–178, §1, Jan. 2, 1980, 93 Stat. 1295; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 94–455, title VI, §604, Oct. 4, 1976, 90 Stat. 1575, as amended by Pub. L. 95–30, title III, §307, May 23, 1977, 91 Stat. 153; Pub. L. 95–258, §2, Apr. 7, 1978, 92 Stat. 195; Pub. L. 96–167, §3, Dec. 29, 1979, 93 Stat. 1275; Pub. L. 96–178, §1, Jan. 2, 1980, 93 Stat. 1295; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(a) In
 
@@ -1051,7 +1051,7 @@ No deductions to be allowed in computing taxable income for two-thirds of any am
 
 #### Deductibility of Accrued Vacation Pay
 
-Section 97 of Pub. L. 85–866, as amended by Pub. L. 86–496, §2, June 8, 1960, 74 Stat. 164; Pub. L. 88–153, Oct. 17, 1963, 77 Stat. 272; Pub. L. 88–554, §1, Aug. 31, 1964, 78 Stat. 761; Pub. L. 89–692, Oct. 15, 1966, 80 Stat. 1025; Pub. L. 91–172, title IX, §903, Dec. 30, 1969, 83 Stat. 711; Pub. L. 92–580, §3, Oct. 27, 1972, 86 Stat. 1276, provided that deductions for accrued vacation pay under this section would not be denied for any taxable year ending before Jan. 1, 1973, so long as the employee at the time of accrual of pay has performed the necessary qualifying service under an appropriate plan.
+Pub. L. 85–866, title I, §97, Sept. 2, 1958, 72 Stat. 1672, as amended by Pub. L. 86–496, §2, June 8, 1960, 74 Stat. 164; Pub. L. 88–153, Oct. 17, 1963, 77 Stat. 272; Pub. L. 88–554, §1, Aug. 31, 1964, 78 Stat. 761; Pub. L. 89–692, Oct. 15, 1966, 80 Stat. 1025; Pub. L. 91–172, title IX, §903, Dec. 30, 1969, 83 Stat. 711; Pub. L. 92–580, §3, Oct. 27, 1972, 86 Stat. 1276, provided that deductions for accrued vacation pay under this section would not be denied for any taxable year ending before Jan. 1, 1973, so long as the employee at the time of accrual of pay has performed the necessary qualifying service under an appropriate plan.
 
 #### Investigation of, and Reports on, Treatment of Entertainment and Certain Other Expenses
 

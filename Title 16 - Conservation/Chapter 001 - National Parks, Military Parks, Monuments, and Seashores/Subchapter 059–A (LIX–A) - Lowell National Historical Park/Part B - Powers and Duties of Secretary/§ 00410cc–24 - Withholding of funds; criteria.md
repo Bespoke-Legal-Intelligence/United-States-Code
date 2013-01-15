@@ -2,7 +2,7 @@
 
 The Secretary may refuse to obligate or expend any money appropriated for the purposes described in section 410cc–13(a)(1) or section 410cc–13(a)(2) of this title if the Secretary determines that—
 
-&emsp;(a) the city of Lowell has failed to establish regulations or laws consistent with the standards and criteria established pursuant to section 410cc–32(e) of this title within one yearafter the date such standards and criteria have been established, except that the Secretary may extend such one-year period for not more than six months if the Secretary determines that the city has made a good faith effort to establish such regulations or laws;
+&emsp;(a) the city of Lowell has failed to establish regulations or laws consistent with the standards and criteria established pursuant to section 410cc–32(e) of this title within one year after the date such standards and criteria have been established, except that the Secretary may extend such one-year period for not more than six months if the Secretary determines that the city has made a good faith effort to establish such regulations or laws;
 
 &emsp;(b) the city of Lowell has failed to notify the Commission of (1) applications for building permits or zoning variances respecting any property which is included in the index established pursuant to section 410cc–32(d) of this title, or (2) any proposals of the city of Lowell to change the regulations or laws described in paragraph (c)(1) of this subsection;
 

@@ -24,7 +24,7 @@ To be eligible to participate in the Scholarship Program, an individual must—
 
 (1) In disseminating application forms and contract forms to individuals desiring to participate in the Scholarship Program, the Secretary shall include with such forms—
 
-&emsp;(A) a fair summary of the rights and liabilities of an individual whose application is approved (and whose contract is accepted) by the Secretary, including in the summary a clear explanation of the damages to which the United States is entitled under section 254<i>o</i> of this title in the case of the individual's breach of the contract; and
+&emsp;(A) a fair summary of the rights and liabilities of an individual whose application is approved (and whose contract is accepted) by the Secretary, including in the summary a clear explanation of the damages to which the United States is entitled under section 254o of this title in the case of the individual's breach of the contract; and
 
 &emsp;(B) information respecting meeting a service obligation through private practice under an agreement under section 254n of this title and such other information as may be necessary for the individual to understand the individual's prospective participation in the Scholarship Program and service in the Corps, including a statement of all factors considered in approving applications for participation in the Program and in making assignments for participants in the Program.
 
@@ -36,7 +36,7 @@ To be eligible to participate in the Scholarship Program, an individual must—
 
 (ii) During the period in which a health professional is planning and making the transition to private practice from obligated service under the Scholarship Program, the Secretary may provide assistance to the professional regarding such transition if the professional is remaining in a health professional shortage area and is continuing to provide primary health services.
 
-(C) In the case of entities to which participants in the Scholarship Program are assigned under section 254f of this title, the Secretary shall encourage the entities to provide options with respect to assisting the participants in remaining in the health professional shortage areas involved, and in continuing to provide primary health services, after the period of obligated service under the Scholarship Program iscompleted. The options with respect to which the Secretary provides such encouragement may include options regarding the sharing of a single employment position in the health professions by 2 or more health professionals, and options regarding the recruitment of couples where both of the individuals are health professionals.
+(C) In the case of entities to which participants in the Scholarship Program are assigned under section 254f of this title, the Secretary shall encourage the entities to provide options with respect to assisting the participants in remaining in the health professional shortage areas involved, and in continuing to provide primary health services, after the period of obligated service under the Scholarship Program is completed. The options with respect to which the Secretary provides such encouragement may include options regarding the sharing of a single employment position in the health professions by 2 or more health professionals, and options regarding the recruitment of couples where both of the individuals are health professionals.
 
 #### (d) Factors considered in providing contracts; priorities
 
@@ -90,7 +90,7 @@ The written contract (referred to in this subpart) between the Secretary and an 
 
 &emsp;(2) a provision that any financial obligation of the United States arising out of a contract entered into under this subpart and any obligation of the individual which is conditioned thereon, is contingent upon funds being appropriated for scholarships under this subpart and to carry out the purposes of sections 254d through 254h and sections 254j and 254k of this title;
 
-&emsp;(3) a statement of the damages to which the United States is entitled, under section 254<i>o</i> of this title, for the individual's breach of the contract; and
+&emsp;(3) a statement of the damages to which the United States is entitled, under section 254o of this title, for the individual's breach of the contract; and
 
 &emsp;(4) such other statements of the rights and liabilities of the Secretary and of the individual, not inconsistent with the provisions of this subpart.
 
@@ -98,11 +98,11 @@ The written contract (referred to in this subpart) between the Secretary and an 
 
 (1) A scholarship provided to a student for a school year under a written contract under the Scholarship Program shall consist of—
 
-&emsp;(A) payment to, or (in accordance with paragraph (2)) on behalf of, the student of theamount (except as provided in section 292k <sup>2</sup> of this title) of—
+&emsp;(A) payment to, or (in accordance with paragraph (2)) on behalf of, the student of the amount (except as provided in section 292k <sup>2</sup> of this title) of—
 
 &emsp;&emsp;(i) the tuition of the student in such school year; and
 
-&emsp;&emsp;(ii) all other reasonable educational expenses, including fees, books, and laboratory expenses, incurred by the student in such school year; and
+&emsp;&emsp;(ii) all other reasonable educational expenses, including fees, books, and laboratoryexpenses, incurred by the student in such school year; and
 
 &emsp;(B) payment to the student of a stipend of $400 per month (adjusted in accordance with paragraph (3)) for each of the 12 consecutive months beginning with the first month of such school year.
 
@@ -136,13 +136,13 @@ Section was formerly classified to section 294t of this title prior to its renum
 
 Subsec. (b)(1)(B). Pub. L. 107–251, §309(2), inserted “, or an appropriate degree from a graduate program of behavioral and mental health” after “other health profession”.
 
-Subsec. (c)(1). Pub. L. 107–251, §309(3), made technical amendment to references in original act which appear in subpar. (A) as reference to section 254<i>o</i> of this title and in subpar. (B) as reference to section 254n of this title.
+Subsec. (c)(1). Pub. L. 107–251, §309(3), made technical amendment to references in original act which appear in subpar. (A) as reference to section 254o of this title and in subpar. (B) as reference to section 254n of this title.
 
 Subsec. (d)(1)(B), (C). Pub. L. 107–251, §309(4), added subpar. (B) and redesignated former subpar. (B) as (C).
 
 Subsec. (f)(1)(B)(iv), (v). Pub. L. 107–251, §309(5)(A), added cl. (iv) and redesignated former cl. (iv) as (v).
 
-Subsec. (f)(3). Pub. L. 107–251, §309(5)(B), made technical amendment to reference in original act which appears in text as reference to section 254<i>o</i> of this title.
+Subsec. (f)(3). Pub. L. 107–251, §309(5)(B), made technical amendment to reference in original act which appears in text as reference to section 254o of this title.
 
 Subsec. (i). Pub. L. 107–251, §309(6), struck out subsec. (i), which required an annual report to Congress on the Scholarship Program.
 
@@ -188,9 +188,9 @@ Pub. L. 101–597, §201(d)(2)(C), added par. (6).
 
 <b>1981</b>—Subsec. (a). Pub. L. 97–35, §2709(b)(1), inserted reference to clinical psychologists.
 
-Subsec. (c). Pub. L. 97–35, §2709(b)(2), (3), substituted “254<i>o</i>” for “294w” in par. (1), and inserted provisions relating to information concerning meeting the service obligation in par. (2).
+Subsec. (c). Pub. L. 97–35, §2709(b)(2), (3), substituted “254o” for “294w” in par. (1), and inserted provisions relating to information concerning meeting the service obligation in par. (2).
 
-Subsec. (f). Pub. L. 97–35, §2709(b)(4)–(6), in par. (1) substituted reference to sections 254d to 254h and 254j of this title, for reference to subpart II of part D of subchapter II of this chapter, in par. (2) substituted reference to sections 254d to 254h, 254j and 254k of this title, for reference to subpart II of part D of subchapter II of this chapter, and in par. (3) substituted “254<i>o</i>” for “294w”.
+Subsec. (f). Pub. L. 97–35, §2709(b)(4)–(6), in par. (1) substituted reference to sections 254d to 254h and 254j of this title, for reference to subpart II of part D of subchapter II of this chapter, in par. (2) substituted reference to sections 254d to 254h, 254j and 254k of this title, for reference to subpart II of part D of subchapter II of this chapter, and in par. (3) substituted “254o” for “294w”.
 
 Subsec. (j). Pub. L. 97–35, §2709(b)(7), struck out subsec. (j) which related to consultation and participation of schools.
 
@@ -214,7 +214,7 @@ Amendment by Pub. L. 101–509 effective on such date as the President shall det
 
 Section 228 of Pub. L. 99–129 provided that:
 
-“(a) Except as provided in subsection (b), this Act and the amendments and repeals made by this Act \[enacting sections 294q–1 to 294q–3 of this title, amending this section and sections 292a, 292b, 292h, 292j, 293c, 294a, 294b, 294d, 294e, 294g, 294j, 294m to 294p, 294z, 295f to 295f–2, 295g, 295g–1, 295g–3, 295g–4, 295g–6 to 295g–8, 295g–8b, 295h, 295h–1a to 295h–1c, 296k, 296<i>l</i>, 296m, 297a, 298b–5, and 300aa–14 of this title, repealing sections 292c, 295 to 295e–5, 295g–2, 295g–5, 295g–8a, and 295g–9 of this title, enacting provisions set out as notes under sections 201, 292h, 293c, 294d, 294n, and 300aa–14 of this title and section 462 of the Appendix to Title 50, War and National Defense, and amending provisions set out as a note under section 298b–5 of this title\] shall take effect on the date of enactment of this Act \[Oct. 22, 1985\].
+“(a) Except as provided in subsection (b), this Act and the amendments and repeals made by this Act \[enacting sections 294q–1 to 294q–3 of this title, amending this section and sections 292a, 292b, 292h, 292j, 293c, 294a, 294b, 294d, 294e, 294g, 294j, 294m to 294p, 294z, 295f to 295f–2, 295g, 295g–1, 295g–3, 295g–4, 295g–6 to 295g–8, 295g–8b, 295h, 295h–1a to 295h–1c, 296k, 296l, 296m, 297a, 298b–5, and 300aa–14 of this title, repealing sections 292c, 295 to 295e–5, 295g–2, 295g–5, 295g–8a, and 295g–9 of this title, enacting provisions set out as notes under sections 201, 292h, 293c, 294d, 294n, and 300aa–14 of this title and section 462 of the Appendix to Title 50, War and National Defense, and amending provisions set out as a note under section 298b–5 of this title\] shall take effect on the date of enactment of this Act \[Oct. 22, 1985\].
 
 “(b)(1) The amendments made by section 101(a) of this Act \[amending section 294a of this title\] shall take effect as of October 1, 1985.
 
@@ -230,17 +230,17 @@ Section 228 of Pub. L. 99–129 provided that:
 
 #### Effective Date of 1977 Amendment
 
-Section 5 of Pub. L. 95–215 provided that the amendment made by that section is effective Oct. 1, 1977.
+Pub. L. 95–215, §5, Dec. 19, 1977, 91 Stat. 1506, provided that the amendment made by that section is effective Oct. 1, 1977.
 
 #### Effective Date
 
-Section 408(b)(1) of Pub. L. 94–484 provided that the enactment of sections 254<i>l</i> to 254r of this title and repeal of section 234 of this title by Pub. L. 94–484 is effective Oct. 1, 1977.
+Pub. L. 94–484, title IV, §408(b)(1), Oct. 12, 1976, 90 Stat. 2281, provided that the enactment of sections 254l to 254r of this title and repeal of section 234 of this title by Pub. L. 94–484 is effective Oct. 1, 1977.
 
 #### Effective Date; Savings Provision; Credit for Period of Internship or Residency Before September 30, 1977, Towards Service Obligation
 
-Section 408(b)(2) of Pub. L. 94–484, as amended, eff. Oct. 12, 1976, by Pub. L. 95–83, title III, §307(p), Aug. 1, 1977, 91 Stat. 394, provided that:
+Pub. L. 94–484, title IV, §408(b)(2), Oct. 12, 1976, 90 Stat. 2288, as amended, eff. Oct. 12, 1976, by Pub. L. 95–83, title III, §307(p), Aug. 1, 1977, 91 Stat. 394, provided that:
 
-“(A) Except as provided in subparagraphs (B) and (C), the amendment made by paragraph (1) of this subsection \[enacting this section and sections 254<i>l</i>–1 to 254r of this title and repealing section 234 of this title\] shall apply with respect to scholarships awarded under the National Health Service Corps Scholarship Program from appropriations for such Program for fiscal years beginning after September 30, 1977.
+“(A) Except as provided in subparagraphs (B) and (C), the amendment made by paragraph (1) of this subsection \[enacting this section and sections 254l–1 to 254r of this title and repealing section 234 of this title\] shall apply with respect to scholarships awarded under the National Health Service Corps Scholarship Program from appropriations for such Program for fiscal years beginning after September 30, 1977.
 
 “(B) The provisions of section 225(f)(1) of the Public Health Service Act (as in effect on September 30, 1977) \[former section 234(f)(1) of this title\] prescribing the financial obligation of a participant in the Public Health and National Health Service Corps Scholarship Program who fails to complete an active duty service obligation incurred under that Program shall apply to any individual who received a scholarship under such Program from appropriations for such Program for any fiscal year ending before October 1, 1977.
 
@@ -248,7 +248,7 @@ Section 408(b)(2) of Pub. L. 94–484, as amended, eff. Oct. 12, 1976, by Pub. L
 
 #### Scholarship and Loan Repayment Programs
 
-Pub. L. 107–251, title III, §302(c), Oct. 26, 2002, 116 Stat. 1644, provided that: “The Secretary of Health and Human Services, in consultation with organizations representing individuals in the dental field and organizations representing publicly funded health care providers, shall develop and implement a plan for increasing the participation of dentists and dental hygienists in the National Health Service Corps Scholarship Program under section 338A of the Public Health Service Act (42 U.S.C. 254<i>l</i>) and the Loan Repayment Program under section 338B of such Act (42 U.S.C. 254<i>l</i>–1).”
+Pub. L. 107–251, title III, §302(c), Oct. 26, 2002, 116 Stat. 1644, provided that: “The Secretary of Health and Human Services, in consultation with organizations representing individuals in the dental field and organizations representing publicly funded health care providers, shall develop and implement a plan for increasing the participation of dentists and dental hygienists in the National Health Service Corps Scholarship Program under section 338A of the Public Health Service Act (42 U.S.C. 254l) and the Loan Repayment Program under section 338B of such Act (42 U.S.C. 254l–1).”
 
 <i><sup>1</sup></i><i> So in original.</i>
 

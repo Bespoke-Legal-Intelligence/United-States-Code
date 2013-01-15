@@ -136,7 +136,7 @@
 
 #### (B) Number of terms
 
-&emsp;&emsp;No member of the Council, other than a representative described in clause (iii) or (ix)of paragraph (1)(A), or clause (iii) or (x) of paragraph (1)(B), may serve more than two consecutive full terms.
+&emsp;&emsp;No member of the Council, other than a representative described in clause (iii) or (ix) of paragraph (1)(A), or clause (iii) or (x) of paragraph (1)(B), may serve more than two consecutive full terms.
 
 #### (7) Vacancies
 
@@ -208,7 +208,7 @@ No member of the Council shall cast a vote on any matter that would provide dire
 
 #### (f) Meetings
 
-The Council shall convene at least four meetings a year in such places as it determines to benecessary to conduct Council business and conduct such forums or hearings as the Council considers appropriate. The meetings, hearings, and forums shall be publicly announced. The meetings shall be open and accessible to the general public unless there is a valid reason for an executive session.
+The Council shall convene at least four meetings a year in such places as it determines to be necessary to conduct Council business and conduct such forums or hearings as the Council considers appropriate. The meetings, hearings, and forums shall be publicly announced. The meetings shall be open and accessible to the general public unless there is a valid reason for an executive session.
 
 #### (g) Compensation and expenses
 
@@ -236,7 +236,7 @@ Subsec. (c)(6). Pub. L. 108–446, §305(h)(3), substituted “section 612(a)(20
 
 <b>2000</b>—Subsec. (c)(6). Pub. L. 106–402 substituted “the State Council on Developmental Disabilities established under section 15025 of title 42” for “the State Developmental Disabilities Council described in section 6024 of title 42”.
 
-<b>1998</b>—Subsec. (b)(3). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(6)(A)\], substituted “Governor or, in the case of a State that, under State law, vests authority for the administration of the activities carried out under this chapter in an entity other than the Governor (such as one or more houses of the State legislature or an independent board), the chief officer of that entity” for “Governor” in first sentence and “appointing authority” for “Governor” in second and third sentences.
+<b>1998</b>—Subsec. (b)(3). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(6)(A)\], substituted “Governor or, in the case ofa State that, under State law, vests authority for the administration of the activities carried out under this chapter in an entity other than the Governor (such as one or more houses of the State legislature or an independent board), the chief officer of that entity” for “Governor” in first sentence and “appointing authority” for “Governor” in second and third sentences.
 
 Subsec. (b)(4)(A)(i). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(6)(B)\], substituted “section 705(20)(B)” for “section 705(20)(A)”.
 

@@ -1,6 +1,6 @@
 ### §2031. General treatment
 
-(a) In providing care and services under section 1710 of this title to veterans suffering from serious mental illness, including veterans who are homeless, the Secretary may provide (directly or in conjunction with a governmental or other entity)—
+(a) In providing care and services under section 1710 of this title to veterans suffering from serious mental illness and to veterans who are homeless, the Secretary may provide (directly or in conjunction with a governmental or other entity)—
 
 &emsp;(1) outreach services;
 
@@ -8,11 +8,15 @@
 
 &emsp;(3) therapeutic transitional housing assistance under section 2032 of this title, in conjunction with work therapy under subsection (a) or (b) of section 1718 of this title and outpatient care.
 
-(b) The authority of the Secretary under subsection (a) expires on December 31, 2012.
+(b) The authority of the Secretary under subsection (a) expires on December 31, 2013.
 
-(Added Pub. L. 105–114, title II, §202(a), Nov. 21, 1997, 111 Stat. 2284, §1771; renumbered §2031 and amended Pub. L. 107–95, §5(b), (f), Dec. 21, 2001, 115 Stat. 918; Pub. L. 109–444, §2(c), Dec. 21, 2006, 120 Stat. 3304; Pub. L. 109–461, title VII, §704(a), title X, §1006(b), Dec. 22, 2006, 120 Stat. 3440, 3468; Pub. L. 112–37, §10(c), Oct. 5, 2011, 125 Stat. 397.)
+(Added Pub. L. 105–114, title II, §202(a), Nov. 21, 1997, 111 Stat. 2284, §1771; renumbered §2031 and amended Pub. L. 107–95, §5(b), (f), Dec. 21, 2001, 115 Stat. 918; Pub. L. 109–444, §2(c), Dec. 21, 2006, 120 Stat. 3304; Pub. L. 109–461, title VII, §704(a), title X, §1006(b), Dec. 22, 2006, 120 Stat. 3440, 3468; Pub. L. 112–37, §10(c), Oct. 5, 2011, 125 Stat. 397; Pub. L. 112–154, title III, §302, Aug. 6, 2012, 126 Stat. 1184; Pub. L. 112–191, title II, §203, Oct. 5, 2012, 126 Stat. 1439.)
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a). Pub. L. 112–154 substituted “and to” for “, including” in introductory provisions.
+
+Subsec. (b). Pub. L. 112–191 substituted “December 31, 2013” for “December 31, 2012”.
 
 <b>2011</b>—Subsec. (b). Pub. L. 112–37 substituted “December 31, 2012” for “December 31, 2011”.
 

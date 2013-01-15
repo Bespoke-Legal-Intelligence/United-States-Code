@@ -186,7 +186,7 @@ This section shall not be construed to prevent any qualified lender from enforci
 
 The time limitation prescribed in subsection (b)(2) of this section, and the requirements of subsection (c) of this section, shall not apply to a loan that became a distressed loan before January 6, 1988, if the borrower and lender of the loan are in the process of negotiating loan restructuring with respect to the loan.
 
-#### (<i>l</i>) Assistance in restructuring
+#### (l) Assistance in restructuring
 
 Each Farm Credit Bank, on request of any production credit association, may assist the association in restructuring loans under this section.
 
@@ -206,7 +206,7 @@ Subsec. (g)(1). Pub. L. 100–399, §102(d), substituted “bank” for “farm 
 
 Subsec. (g)(3). Pub. L. 100–399, §102(e), substituted “bank board” for “district board”.
 
-Subsec. (<i>l</i>). Pub. L. 100–399, §102(f), substituted “Farm Credit Bank” for “Federal intermediate credit bank”.
+Subsec. (l). Pub. L. 100–399, §102(f), substituted “Farm Credit Bank” for “Federal intermediate credit bank”.
 
 #### Effective Date of 1988 Amendment
 
@@ -214,5 +214,5 @@ Amendment by section 102(b), (f) of Pub. L. 100–399 effective immediately afte
 
 #### Sense of Congress
 
-Section 102(b) of Pub. L. 100–233 provided that: “It is the sense of Congress that the banks and associations (except banks for cooperatives) operating under the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.) should administer distressed loans to farmers with the objective of using the loan guarantee programs of the Farmers Home Administration and other loan restructuring measures, including participation in interest rate buy-down programs that are Federally or State funded, and other Federal and State sponsored financial assistance programs that offer relief to financially distressed farmers, as alternatives to foreclosure, considering the availability and appropriateness of such programs on a case-by-case basis.”
+Pub. L. 100–233, title I, §102(b), Jan. 6, 1988, 101 Stat. 1579, provided that: “It is the sense of Congress that the banks and associations (except banks for cooperatives) operating under the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.) should administer distressed loans to farmers with the objective of using the loan guarantee programs of the Farmers Home Administration and other loan restructuring measures, including participation in interest rate buy-down programs that are Federally or State funded, and other Federal and State sponsored financial assistance programs that offer relief to financially distressed farmers, as alternatives to foreclosure, considering the availability and appropriateness of such programs on a case-by-case basis.”
 

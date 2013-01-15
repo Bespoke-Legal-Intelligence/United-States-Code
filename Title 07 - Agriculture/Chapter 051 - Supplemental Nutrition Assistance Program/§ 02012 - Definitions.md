@@ -18,7 +18,7 @@ Benefit.—The term “benefit” means the value of supplemental nutrition assi
 
 (e)
 
-Benefit Issuer.—The term “benefit issuer” means any office of the State agency orany person, partnership, corporation, organization, political subdivision, or other entity with which a State agency has contracted for, or to which it has delegated functional responsibility in connection with, the issuance of benefits to households.
+Benefit Issuer.—The term “benefit issuer” means any office of the State agency or any person, partnership, corporation, organization, political subdivision, or other entity with which a State agency has contracted for, or to which it has delegated functional responsibility in connection with, the issuance of benefits to households.
 
 (f) “Certification period” means the period for which households shall be eligible to receive benefits. The certification period shall not exceed 12 months, except that the certification period may be up to 24 months if all adult household members are elderly or disabled. A State agency shall have at least 1 contact with each certified household every 12 months. The limits specified in this subsection may be extended until the end of any transitional benefit period established under section 2020(s) of this title.
 
@@ -60,9 +60,9 @@ Card.—The term “EBT card” means an electronic benefit transfer card issued
 
 &emsp;(7) is an individual receiving an annuity under section 2(a)(1)(iv) or 2(a)(1)(v) of the Railroad Retirement Act of 1974 (45 U.S.C. 231a(a)(1)(iv) or 231a(a)(1)(v)), if the individual's service as an employee under the Railroad Retirement Act of 1974 \[45 U.S.C. 231 et seq.\], after December 31, 1936, had been included in the term “employment” as defined in the Social Security Act \[42 U.S.C. 301 et seq.\], and if an application for disability benefits had been filed.
 
-(k) “Food” means (1) any food or food product for home consumption except alcoholic beverages, tobacco, and hot foods or hot food products ready for immediate consumption other than those authorized pursuant to clauses (3), (4), (5), (7), (8), and (9) of this subsection, (2) seeds and plants for use in gardens to produce food for the personal consumption of the eligible household, (3) in the case of those persons who are sixty years of age or over or who receive supplemental security income benefits or disability or blindness payments under title I, II, X, XIV, or XVI of the Social Security Act \[42 U.S.C. 301 et seq., 401 et seq., 1201 et seq., 1351 et seq., 1381 et seq.\], and their spouses, meals prepared by and served in senior citizens’ centers, apartment buildings occupied primarily by such persons, public or private nonprofit establishments (eating or otherwise) that feed such persons, private establishments that contract with the appropriate agency of the State to offer meals for such persons at concessional prices, and meals prepared for and served to residents of federally subsidized housing for the elderly, (4) in the case of persons sixty years of age or over and persons who are physically or mentally handicapped or otherwise so disabled that they are unable adequately to prepare all of their meals, meals prepared for and delivered to them (and their spouses) at their home by a public or private nonprofit organization or by a private establishment that contracts with the appropriate State agency to perform such services at concessional prices, (5) in the case of narcotics addicts or alcoholics, and their children, served by drug addiction or alcoholic treatment and rehabilitation programs, meals prepared and served under such programs, (6) in the case of certain eligible households living in Alaska, equipment for procuring food by hunting andfishing, such as nets, hooks, rods, harpoons, and knives (but not equipment for purposes of transportation, clothing, or shelter, and not firearms, ammunition, and explosives) if the Secretary determines that such households are located in an area of the State where it is extremely difficult to reach stores selling food and that such households depend to a substantial extent upon hunting and fishing for subsistence, (7) in the case of disabled or blind recipients of benefits under title I, II, X, XIV, or XVI of the Social Security Act \[42 U.S.C. 301 et seq., 401 et seq., 1201 et seq., 1351 et seq., 1381 et seq.\], or are <sup>3</sup> individuals described in paragraphs (2) through (7) of subsection (j) of this section, who are residents in a public or private nonprofit group living arrangement that serves no more than sixteen residents and is certified by the appropriate State agency or agencies under regulations issued under section 1616(e) of the Social Security Act \[42 U.S.C. 1382e(e)\] or under standards determined by the Secretary to be comparable to standards implemented by appropriate State agencies under such section, meals prepared and served under such arrangement, (8) in the case of women and children temporarily residing in public or private nonprofit shelters for battered women and children, meals prepared and served, by such shelters, and (9) in the case of households that do not reside in permanent dwellings and households that have no fixed mailing addresses, meals prepared for and served by a public or private nonprofit establishment (approved by an appropriate State or local agency) that feeds such individuals and by private establishments that contract with the appropriate agency of the State to offer meals for such individuals at concessional prices.
+(k) “Food” means (1) any food or food product for home consumption except alcoholic beverages, tobacco, and hot foods or hot food products ready for immediate consumption other than those authorized pursuant to clauses (3), (4), (5), (7), (8), and (9) of this subsection, (2) seeds and plants for use in gardens to produce food for the personal consumption of the eligible household, (3) in the case of those persons who are sixty years of age or over or who receive supplemental security income benefits or disability or blindness payments under title I, II, X, XIV, or XVI of the Social Security Act \[42 U.S.C. 301 et seq., 401 et seq., 1201 et seq., 1351 et seq., 1381 et seq.\], and their spouses, meals prepared by and served in senior citizens’ centers, apartment buildings occupied primarily by such persons, public or private nonprofit establishments (eating or otherwise) that feed such persons, private establishments that contract with the appropriate agency of the State to offer meals for such persons at concessional prices, and meals prepared for and served to residents of federally subsidized housing for the elderly, (4) in the case of persons sixty years of age or over and persons who are physically or mentally handicapped or otherwise so disabled that they are unable adequately to prepare all of their meals, meals prepared for and delivered to them (and their spouses) at their home by a public or private nonprofit organization or by a private establishment that contracts with the appropriate State agency to perform such services at concessional prices, (5) in the case of narcotics addicts or alcoholics, and their children, served by drug addiction or alcoholic treatment and rehabilitation programs, meals prepared and served under such programs, (6) in the case of certain eligible households living in Alaska, equipment for procuring food by hunting and fishing, such as nets, hooks, rods, harpoons, and knives (but not equipment for purposes of transportation, clothing, or shelter, and not firearms, ammunition, and explosives) if the Secretary determines that such households are located in an area of the State where it is extremely difficult to reach stores selling food and that such households depend to a substantial extent upon hunting and fishing for subsistence, (7) in the case of disabled or blind recipients of benefits under title I, II, X, XIV, or XVI of the Social Security Act \[42 U.S.C. 301 et seq., 401 et seq., 1201 et seq., 1351 et seq., 1381 et seq.\], or are <sup>3</sup> individuals described in paragraphs (2) through (7) of subsection (j) of this section, who are residents in a public or private nonprofit group living arrangement that serves no more than sixteen residents and is certified by the appropriate State agency or agencies under regulations issued under section 1616(e) of the Social Security Act \[42 U.S.C. 1382e(e)\] or under standards determined by the Secretary to be comparable to standards implemented by appropriate State agencies under such section, meals prepared and served under such arrangement, (8) in the case of women and children temporarily residing in public or private nonprofit shelters for battered women and children, meals prepared and served, by such shelters, and (9) in the case of households that do not reside in permanent dwellings and households that have no fixed mailing addresses, meals prepared for and served by a public or private nonprofit establishment (approved by an appropriate State or local agency) that feeds such individuals and by private establishments that contract with the appropriate agency of the State to offer meals for such individuals at concessional prices.
 
-(<i>l</i>) “Supplemental nutrition assistance program” means the program operated pursuant to the provisions of this chapter.
+(l) “Supplemental nutrition assistance program” means the program operated pursuant to the provisions of this chapter.
 
 (m) “Homeless individual” means—
 
@@ -102,7 +102,7 @@ Card.—The term “EBT card” means an electronic benefit transfer card issued
 
 &emsp;(E) Narcotics addicts or alcoholics, together with their children, who live under the supervision of a private nonprofit institution, or a publicly operated community mental health center, for the purpose of regular participation in a drug or alcoholic treatment program.
 
-(<i>o</i>) “Reservation” means the geographically defined area or areas over which a tribal organization exercises governmental jurisdiction.
+(o) “Reservation” means the geographically defined area or areas over which a tribal organization exercises governmental jurisdiction.
 
 (p) “Retail food store” means—
 
@@ -150,7 +150,7 @@ Card.—The term “EBT card” means an electronic benefit transfer card issued
 
 (v) “Tribal organization” means the recognized governing body of an Indian tribe (including the tribally recognized intertribal organization of such tribes), as the term “Indian tribe” is defined in the Indian Self-Determination Act (25 U.S.C. 450b(b)), as well as any Indian tribe, band, or community holding a treaty with a State government.
 
-(Pub. L. 88–525, §3, Aug. 31, 1964, 78 Stat. 703; Pub. L. 91–671, §2, Jan. 11, 1971, 84 Stat. 2048; Pub. L. 92–603, title IV, §411(a), (b), Oct. 30, 1972, 86 Stat. 1491; Pub. L. 93–86, §3(a)–(c), (<i>l</i>), (<i>o</i>), (p), Aug. 10, 1973, 87 Stat. 246, 248, 249; Pub. L. 93–125, §1(h), Oct. 18, 1973, 87 Stat. 450; Pub. L. 94–339, §4, July 5, 1976, 90 Stat. 801; Pub. L. 95–113, title XIII, §§1301, 1302(a)(1), Sept. 29, 1977, 91 Stat. 958, 979; Pub. L. 96–58, §§3, 7, Aug. 14, 1979, 93 Stat. 390, 392; Pub. L. 96–181, §15(b), Jan. 2, 1980, 93 Stat. 1316; Pub. L. 96–249, title I, §§101(a), 111, 135, May 26, 1980, 94 Stat. 357, 360, 369; Pub. L. 97–35, title I, §§101–103, 108(a), 116(a)(1), Aug. 13, 1981, 95 Stat. 358, 361, 364; Pub. L. 97–98, title XII, §§1302–1304, Dec. 22, 1981, 95 Stat. 1282; Pub. L. 97–253, title I, §§142, 143(a), 144, 145(a), (b), Sept. 8, 1982, 96 Stat. 772–774; Pub. L. 98–204, §3, Dec. 2, 1983, 97 Stat. 1385; Pub. L. 99–198, title XV, §§1501(a), 1502–1504, Dec. 23, 1985, 99 Stat. 1566; Pub. L. 99–570, title XI, §11002(a)–(c), Oct. 27, 1986, 100 Stat. 3207–167, 3207–168; Pub. L. 100–77, title VIII, §§801, 802(a), July 22, 1987, 101 Stat. 533, 534; Pub. L. 100–435, title I, §120, title III, §350, Sept. 19, 1988, 102 Stat. 1655, 1664; Pub. L. 101–624, title XVII, §§1712, 1713(a), 1747(b), Nov. 28, 1990, 104 Stat. 3783, 3796; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–237, title IX, §§901, 941(1), Dec. 13, 1991, 105 Stat. 1884, 1891; Pub. L. 102–351, §1, Aug. 26, 1992, 106 Stat. 937; Pub. L. 103–66, title XIII, §§13931, 13932, Aug. 10, 1993, 107 Stat. 676; Pub. L. 103–225, title I, §101(b)(1), title II, §201, Mar. 25, 1994, 108 Stat. 107, 108; Pub. L. 103–354, title III, §303(a), Oct. 13, 1994, 108 Stat. 3239; Pub. L. 104–193, title VIII, §§801–805, Aug. 22, 1996, 110 Stat. 2308, 2309; Pub. L. 107–171, title IV, §§4112(b)(1), 4115(b)(1), May 13, 2002, 116 Stat. 312, 315; Pub. L. 108–199,div. A, title VII, §771(a), Jan. 23, 2004, 118 Stat. 40; Pub. L. 110–234, title IV, §§4001(b), 4115(b)(1), May 22, 2008, 122 Stat. 1092, 1105; Pub. L. 110–246, §4(a), title IV, §§4001(b), 4115(b)(1), June 18, 2008, 122 Stat. 1664, 1853, 1866.)
+(Pub. L. 88–525, §3, Aug. 31, 1964, 78 Stat. 703; Pub. L. 91–671, §2, Jan. 11, 1971, 84 Stat. 2048; Pub. L. 92–603, title IV, §411(a), (b), Oct. 30, 1972, 86 Stat. 1491; Pub. L. 93–86, §3(a)–(c), (l), (o), (p), Aug. 10, 1973, 87 Stat. 246, 248, 249; Pub. L. 93–125, §1(h), Oct. 18, 1973, 87 Stat. 450; Pub. L. 94–339, §4, July 5, 1976, 90 Stat. 801; Pub. L. 95–113, title XIII, §§1301, 1302(a)(1), Sept. 29, 1977, 91 Stat. 958, 979; Pub. L. 96–58, §§3, 7, Aug. 14, 1979, 93 Stat. 390, 392; Pub. L. 96–181, §15(b), Jan. 2, 1980, 93 Stat. 1316; Pub. L. 96–249, title I, §§101(a), 111, 135, May 26, 1980, 94 Stat. 357, 360, 369; Pub. L. 97–35, title I, §§101–103, 108(a), 116(a)(1), Aug. 13, 1981, 95 Stat. 358, 361, 364; Pub. L. 97–98, title XII, §§1302–1304, Dec. 22, 1981, 95 Stat. 1282; Pub. L. 97–253, title I, §§142, 143(a), 144, 145(a), (b), Sept. 8, 1982, 96 Stat. 772–774; Pub. L. 98–204, §3, Dec. 2, 1983, 97 Stat. 1385; Pub. L. 99–198, title XV, §§1501(a), 1502–1504, Dec. 23, 1985, 99 Stat. 1566; Pub. L. 99–570, title XI, §11002(a)–(c), Oct. 27, 1986, 100 Stat. 3207–167, 3207–168; Pub. L. 100–77, title VIII, §§801, 802(a), July 22, 1987, 101 Stat. 533, 534; Pub. L. 100–435, title I, §120, title III, §350, Sept. 19, 1988, 102 Stat. 1655, 1664; Pub. L. 101–624, title XVII, §§1712, 1713(a), 1747(b), Nov. 28, 1990, 104 Stat. 3783, 3796; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–237, title IX, §§901, 941(1), Dec. 13, 1991, 105 Stat. 1884, 1891; Pub. L. 102–351, §1, Aug. 26, 1992, 106 Stat. 937; Pub. L. 103–66, title XIII, §§13931, 13932, Aug. 10, 1993, 107 Stat. 676; Pub. L. 103–225, title I, §101(b)(1), title II, §201, Mar. 25, 1994, 108 Stat. 107, 108; Pub. L. 103–354, title III, §303(a), Oct. 13, 1994, 108 Stat. 3239; Pub. L. 104–193, title VIII, §§801–805, Aug. 22, 1996, 110 Stat. 2308, 2309; Pub. L. 107–171, title IV, §§4112(b)(1), 4115(b)(1), May 13, 2002, 116 Stat. 312, 315; Pub. L. 108–199, div. A, title VII, §771(a), Jan. 23, 2004, 118 Stat. 40; Pub. L. 110–234, title IV, §§4001(b), 4115(b)(1), May 22, 2008, 122 Stat. 1092, 1105; Pub. L. 110–246, §4(a), title IV, §§4001(b), 4115(b)(1), June 18, 2008, 122 Stat. 1664, 1853, 1866.)
 
 #### References in Text
 
@@ -168,7 +168,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–246, §4115(b)(1)(M), redesignated subsecs. (a) to (v) as (b), (d), (f), (g), (e), (h), (k), (<i>l</i>), (n), (<i>o</i>), (p), (q), (s), (t), (u), (v), (c), (j), (m), (a), (r), and (i), respectively.
+<b>2008</b>—Pub. L. 110–246, §4115(b)(1)(M), redesignated subsecs. (a) to (v) as (b), (d), (f), (g), (e), (h), (k), (l), (n), (o), (p), (q), (s), (t), (u), (v), (c), (j), (m), (a), (r), and (i), respectively.
 
 Subsec. (a). Pub. L. 110–246, §4115(b)(1)(A), substituted “benefits” for “coupons”.
 
@@ -204,7 +204,7 @@ Subsec. (u)(1). Pub. L. 110–246, §4115(b)(1)(K), struck out “(as defined in
 
 Subsec. (v). Pub. L. 110–246, §4115(b)(1)(L), added subsec. (v).
 
-<b>2004</b>—Subsec. (<i>o</i>)(4). Pub. L. 108–199 inserted before period at end “, and except that on October 1, 2003, in the case of households residing in Alaska and Hawaii the Secretary may not reduce the cost of such diet in effect on September 30, 2002”.
+<b>2004</b>—Subsec. (o)(4). Pub. L. 108–199 inserted before period at end “, and except that on October 1, 2003, in the case of households residing in Alaska and Hawaii the Secretary may not reduce the cost of such diet in effect on September 30, 2002”.
 
 <b>2002</b>—Subsec. (c). Pub. L. 107–171, §4115(b)(1), inserted at end “The limits specified in this subsection may be extended until the end of any transitional benefit period established under section 2020(s) of this title.”
 
@@ -224,7 +224,7 @@ Subsec. (d). Pub. L. 104–193, §802, substituted “type of certificate, autho
 
 Subsec. (i). Pub. L. 104–193, §803, in second sentence, struck out “(who are not themselves parents living with their children or married and living with their spouses)” after “age or younger”.
 
-Subsec. (<i>o</i>). Pub. L. 104–193, §804, in second sentence, substituted “the Secretary shall—” for “the Secretary shall”, realigned margins of pars. (1) to (3), substituted semicolon for comma at end of pars. (1) and (2) and “; and” for comma at end of par. (3), added par. (4), and struck out former pars. (4) to (11) which authorized adjustment of cost of thrifty food plan diet to reflect changes in cost of food constituting diet for period from Jan. 1, 1980, to Oct. 1, 1990, and each Oct. 1 thereafter, and prohibited Secretary from reducing cost of such diet on Oct. 1, 1992, and, in case of households residing in Alaska, on Oct. 1, 1994.
+Subsec. (o). Pub. L. 104–193, §804, in second sentence, substituted “the Secretary shall—” for “the Secretary shall”, realigned margins of pars. (1) to (3), substituted semicolon for comma at end of pars. (1) and (2) and “; and” for comma at end of par. (3), added par. (4), and struck out former pars. (4) to (11) which authorized adjustment of cost of thrifty food plan diet to reflect changes in cost of food constituting diet for period from Jan. 1, 1980, to Oct. 1, 1990, and each Oct. 1 thereafter, and prohibited Secretary from reducing cost of such diet on Oct. 1, 1992, and, in case of households residing in Alaska, on Oct. 1, 1994.
 
 Subsec. (s)(2)(C). Pub. L. 104–193, §805, inserted “for not more than 90 days” after “temporary accommodation”.
 
@@ -232,7 +232,7 @@ Subsec. (s)(2)(C). Pub. L. 104–193, §805, inserted “for not more than 90 da
 
 Subsec. (k). Pub. L. 103–225, §201(1), realigned margins of pars. (1) to (4), substituted semicolon for comma at end of pars. (2) and (3), and substituted “means—” for “means” and par. (1) for former par. (1) which read as follows: “an establishment or recognized department thereof or house-to-house trade route, over 50 per centum of whose food sales volume, as determined by visual inspection, sales records, purchase records, or other inventory or accounting recordkeeping methods that are customary or reasonable in the retail food industry, consists of staple food items for home preparation and consumption, such as meat, poultry, fish, bread, cereals, vegetables, fruits, dairy products, and the like, but not including accessory food items, such as coffee, tea, cocoa, carbonated and uncarbonated drinks, candy, condiments, and spices,”.
 
-Subsec. (<i>o</i>)(11). Pub. L. 103–354 inserted “and (in the case of households residing in Alaska) on October 1, 1994,” after “1992,”.
+Subsec. (o)(11). Pub. L. 103–354 inserted “and (in the case of households residing in Alaska) on October 1, 1994,” after “1992,”.
 
 Subsec. (u). Pub. L. 103–225, §201(2), added subsec. (u).
 
@@ -242,13 +242,13 @@ Subsec. (i). Pub. L. 103–66, §13932(1), in last sentence inserted “, toget
 
 Pub. L. 103–66, §13931, in first sentence, substituted “or (2) a group of individuals” for “(2) a group of individuals” and substituted a period for “, ” after end of cl. (2), inserted “Spouses who live together, parents and their children 21 years of age or younger (who are not themselves parents living with their children or married and living with their spouses) who live together, and children (excluding foster children) under 18 years of age who live with and are under the parental control of a person other than their parent together with the person exercising parental control” before “shall be treated as a group of individuals” to create new second sentence and struck out “, unless one of the parents, or siblings, is an elderly or disabled member” after “if they do not do so”, and in next sentence substituted “Notwithstanding the preceding sentences” for “Notwithstanding clause (1) of the preceding sentence”.
 
-<b>1992</b>—Subsec. (<i>o</i>)(11). Pub. L. 102–351 inserted before period at end “, except that on October 1, 1992, the Secretary may not reduce the cost of such diet”.
+<b>1992</b>—Subsec. (o)(11). Pub. L. 102–351 inserted before period at end “, except that on October 1, 1992, the Secretary may not reduce the cost of such diet”.
 
 <b>1991</b>—Subsecs. (g)(7), (i). Pub. L. 102–237, §901, inserted “, or are individuals described in paragraphs (2) through (7) of subsection (r) of this section,” after “title I, II, X, XIV, or XVI of the Social Security Act”.
 
 Subsec. (j). Pub. L. 102–237, §941(1)(A), made technical amendment to reference to subsection (p) of this section involving corresponding provision of original act.
 
-Subsec. (<i>o</i>)(6). Pub. L. 102–237, §941(1)(B), substituted “percent” for “per centun” \[sic\].
+Subsec. (o)(6). Pub. L. 102–237, §941(1)(B), substituted “percent” for “per centun” \[sic\].
 
 Subsec. (r)(6)(A). Pub. L. 102–83 substituted “section 1314 of title 38” for “section 414 of title 38”.
 
@@ -264,7 +264,7 @@ Subsec. (i). Pub. L. 101–624, §1712(b), substituted “title I, II, X, XIV, o
 
 Subsec. (u). Pub. L. 101–624, §1747(b), added subsec. (u).
 
-<b>1988</b>—Subsec. (<i>o</i>). Pub. L. 100–435, §120, inserted “through October 1, 1987” in cl. (8) and substituted cls. (9) to (11) for proviso that periods upon which adjustments are based would be subject to revision by Act of Congress.
+<b>1988</b>—Subsec. (o). Pub. L. 100–435, §120, inserted “through October 1, 1987” in cl. (8) and substituted cls. (9) to (11) for proviso that periods upon which adjustments are based would be subject to revision by Act of Congress.
 
 Subsec. (r)(2). Pub. L. 100–435, §350, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “receives supplemental security income benefits under title XVI of the Social Security Act (42 U.S.C. 1381 et seq.), federally or State administered supplemental benefits of the type described in section 1616(a) of the Social Security Act if the Secretary determines that such benefits are conditioned on meeting the disability or blindness criteria used under title XVI of the Social Security Act, or federally or State administered supplemental benefits of the type described in section 212(a) of Public Law 93–66 (42 U.S.C. 1382 note);”.
 
@@ -284,7 +284,7 @@ Subsec. (i). Pub. L. 99–198, §1501(a)(2), inserted “, or a publicly operat
 
 Subsec. (k). Pub. L. 99–198, §1502, inserted “, as determined by visual inspection, sales records, purchase records, or other inventory or accounting recordkeeping methods that are customary or reasonable in the retail food industry,” in cl. (1).
 
-Subsec. (<i>o</i>). Pub. L. 99–198, §1503, substituted “fifty” for “fifty-four”.
+Subsec. (o). Pub. L. 99–198, §1503, substituted “fifty” for “fifty-four”.
 
 Subsec. (r)(2). Pub. L. 99–198, §1504(1), inserted “, federally or State administered supplemental benefits of the type described in section 1616(a) of the Social Security Act \[42 U.S.C. 1382e(a)\] if the Secretary determines that such benefits are conditioned on meeting the disability or blindness criteria used under title XVI of the Social Security Act, or federally or State administered supplemental benefits of the type described in section 212(a) of Public Law 93–66 (42 U.S.C. 1382 note)”.
 
@@ -300,13 +300,13 @@ Subsec. (c)(2). Pub. L. 98–204, §3(2), inserted provision that “The maximum
 
 <b>1982</b>—Subsec. (i). Pub. L. 97–253, §§142, 145(b), substituted “except that parents and children, or siblings, who live together shall be treated as a group of individuals who customarily purchase and prepare meals together for home consumption even if they do not do so, unless one of the parents, or siblings, is an elderly or disabled member” for “except that parents and children who live together shall be treated as a group of individuals who customarily purchase and prepare meals together for home consumption even if they do not do so, unless one of the parents is sixty years of age or older, or receives supplemental security income benefits under title XVI of the Social Security Act or disability or blindness payments under title I, II, X, XIV, or XVI of the Social Security Act”, and inserted provision that notwithstanding cl. (1) of the preceding sentence, an individual who lives with others, who is sixty years of age or older, and who is unable to purchase food and prepare meals because such individual suffers, as certified by a licensed physician, from a disability which would be considered a permanent disability under section 221(i) of the Social Security Act (42 U.S.C. 421(i)) or from a severe, permanent, and disabling physical or mental infirmity which is not symptomatic of a disease shall be considered, together with any of the others who is the spouse of such individual, an individual household, without regard to the purchase of food and preparation of meals, if the income (as determined under section 2014(d) of this title) of the others, excluding the spouse, does not exceed the poverty line, as described in section 2014(c)(1) of this title, by more than 65 per centum.
 
-Subsec. (<i>o</i>)(1). Pub. L. 97–253, §143(a)(1), substituted “adjustments (based on the unrounded cost of such diet)” for “adjustments”.
+Subsec. (o)(1). Pub. L. 97–253, §143(a)(1), substituted “adjustments (based on the unrounded cost of such diet)” for “adjustments”.
 
-Subsec. (<i>o</i>)(6). Pub. L. 97–253, §§143(a)(2), 144, substituted provisions requiring the Secretary, on Oct. 1, 1982, to adjust the cost of the diet to reflect changes in the cost of the thrifty food plan for the twenty-one months ending June 30, 1982, reduce the cost of such diet by one per centum, and round the result to the nearest lower dollar increment for each household size for former provision requiring the Secretary, on Oct. 1, 1982, to adjust the cost of such diet to the nearest dollar increment to reflect the changes in the cost of the thrifty food plan for the twenty-one months ending on June 30, 1982.
+Subsec. (o)(6). Pub. L. 97–253, §§143(a)(2), 144, substituted provisions requiring the Secretary, on Oct. 1, 1982, to adjust the cost of the diet to reflect changes in the cost of the thrifty food plan for the twenty-one months ending June 30, 1982, reduce the cost of such diet by one per centum, and round the result to the nearest lower dollar increment for each household size for former provision requiring the Secretary, on Oct. 1, 1982, to adjust the cost of such diet to the nearest dollar increment to reflect the changes in the cost of the thrifty food plan for the twenty-one months ending on June 30, 1982.
 
-Subsec. (<i>o</i>)(7). Pub. L. 97–253, §§143(a)(2), 144, substituted provisions requiring the Secretary, on Oct. 1, 1983, and Oct. 1, 1984, to adjust the cost of the diet to reflect changes in the cost of the thrifty food plan for the twelve months ending the preceding June 30, reduce the cost of such diet by one per centum, and round the result to the nearest lower dollar increment for each household size for former provision requiring the Secretary, on Oct. 1, 1983, and each Oct. 1 thereafter, to adjust the cost of such diet to the nearest dollar increment to reflect changes in the cost of the thrifty food plan for the twelve months ending the preceding June 30.
+Subsec. (o)(7). Pub. L. 97–253, §§143(a)(2), 144, substituted provisions requiring the Secretary, on Oct. 1,1983, and Oct. 1, 1984, to adjust the cost of the diet to reflect changes in the cost of the thrifty food plan for the twelve months ending the preceding June 30, reduce the cost of such diet by one per centum, and round the result to the nearest lower dollar increment for each household size for former provision requiring the Secretary, on Oct. 1, 1983, and each Oct. 1 thereafter, to adjust the cost of such diet to the nearest dollar increment to reflect changes in the cost of the thrifty food plan for the twelve months ending the preceding June 30.
 
-Subsec. (<i>o</i>)(8). Pub. L. 97–253, §§143(a)(2), 144, added and amended par. (8).
+Subsec. (o)(8). Pub. L. 97–253, §§143(a)(2), 144, added and amended par. (8).
 
 Subsec. (r). Pub. L. 97–253, §145(a), added subsec. (r).
 
@@ -318,7 +318,7 @@ Pub. L. 97–35, §§101, 102, inserted provisions relating to treatment as a gr
 
 Subsec. (m). Pub. L. 97–35, §116(a)(1), struck out reference to Puerto Rico.
 
-Subsec. (<i>o</i>). Pub. L. 97–98, §§1303, 1304, substituted in cl. (2) “Hawaii and the urban and rural parts of Alaska to reflect the cost of food in Hawaii and urban and rural Alaska” for “Alaska and Hawaii to reflect the cost of food in those States”, in cl. (6) provision that on Oct. 1, 1982, the Secretary adjust the cost of such diet to reflect changes for the twenty-one months ending the preceding June 30, 1982, for provision that on Apr. 1, 1982, the Secretary adjust the cost of such diet to reflect changes for the fifteen months ending the preceding Dec. 31, in cl. (7) provision that on Oct. 1, 1983, and each Oct. 1 thereafter, the Secretary adjust the cost of such diet to reflect changes for the twelve months ending the preceding June 30, for provision that on July 1, 1983, the Secretary adjust the cost of such diet to reflect changes for the fifteen months ending the preceding Mar. 31, struck out cl. (8) which provided that on Oct. 1, 1984, the Secretary adjust the cost of such diet to reflect changes for the fifteen months ending the preceding June 30, and struck out cl. (9) which provided that on Oct. 1, 1985, and each Oct. 1 thereafter, the Secretary adjust the cost of such diet to reflect changes for the twelve months ending the preceding June 30, and, as of every Jan. 1 thereafter, for the nine months ending the preceding Sept. 30 and the subsequent three months ending Dec. 31 as projected by the Secretary in light of the best available data, and inserted provision that the periods upon which adjustments are based be subject to revision by Act of Congress.
+Subsec. (o). Pub. L. 97–98, §§1303, 1304, substituted in cl. (2) “Hawaii and the urban and rural parts of Alaska to reflect the cost of food in Hawaii and urban and rural Alaska” for “Alaska and Hawaii to reflect the cost of food in those States”, in cl. (6) provision that on Oct. 1, 1982, the Secretary adjust the cost of such diet to reflect changes for the twenty-one months ending the preceding June 30, 1982, for provision that on Apr. 1, 1982, the Secretary adjust the cost of such diet to reflect changes for the fifteen months ending the preceding Dec. 31, in cl. (7) provision that on Oct. 1, 1983, and each Oct. 1 thereafter, the Secretary adjust the cost of such diet to reflect changes for the twelve months ending the preceding June 30, for provision that on July 1, 1983, the Secretary adjust the cost of such diet to reflect changes for the fifteen months ending the preceding Mar. 31, struck out cl. (8) which provided that on Oct. 1, 1984, the Secretary adjust the cost of such diet to reflect changes for the fifteen months ending the preceding June 30, and struck out cl. (9) which provided that on Oct. 1, 1985, and each Oct. 1 thereafter, the Secretary adjust the cost of such diet to reflect changes for the twelve months ending the preceding June 30, and, as of every Jan. 1 thereafter, for the nine months ending the preceding Sept. 30 and the subsequent three months ending Dec. 31 as projected by the Secretary in light of the best available data, and inserted provision that the periods upon which adjustments are based be subject to revision by Act of Congress.
 
 Pub. L. 97–35, §§103, 116(a)(1) struck out applicability to Puerto Rico in clause (3), substituted provisions respecting adjustments on Apr. 1, 1982, for provisions respecting adjustments on Jan. 1, 1982, in cl. (6), and added cls. (7) to (9).
 
@@ -332,7 +332,7 @@ Subsec. (i). Pub. L. 96–249, §101(a)(4), inserted “temporary residents of p
 
 Subsec. (k)(2). Pub. L. 96–249, §101(a)(5), substituted “(7), and (8)” for “and (7)”.
 
-Subsec. (<i>o</i>). Pub. L. 96–249, §135, inserted “through January 1, 1980,” before “adjust the cost” in cl. (4) and added cls. (5) and (6).
+Subsec. (o). Pub. L. 96–249, §135, inserted “through January 1, 1980,” before “adjust the cost” in cl. (4) and added cls. (5) and (6).
 
 <b>1979</b>—Subsec. (g). Pub. L. 96–58, §7(1)–(3), substituted “clauses (3), (4), (5), and (7)” for “clauses (3), (4), and (5)” and added cl. (7) relating to disabled or blind recipients of benefits who are residents in certain public or private nonprofit group living arrangements.
 
@@ -342,17 +342,17 @@ Subsec. (k). Pub. L. 96–58, §7(6), inserted reference to group living arrange
 
 Subsec. (q). Pub. L. 96–58, §3, added subsec. (q).
 
-<b>1977</b>—Pub. L. 95–113 redefined terms “Secretary”, “food”, “coupon”, “household”, “retail food store”, “State agency”, “State”, “food stamp program”, and “drug addiction or alcoholic treatment and rehabilitation program” and changed designations of those terms, as thus redefined, from subsecs. (a), (b), (c), (e), (f), (h), (j), (k), and (n), respectively, to (<i>l</i>), (g), (d), (i), (k), (n), (m), (h), and (f), substituted definitions of “allotment”, “authorization card”, and “coupon issuer” for “coupon allotment”, “authorization to purchase card”, and “coupon vendor”, respectively, and changed designations of those terms as thus substituted from subsecs. (d), (m), and (<i>o</i>), respectively, to (a), (b), and (e), struck out definitions of “wholesale food concern”, “bank”, and “elderly person” which had been set out, respectively, in subsecs. (g), (i), and (<i>l</i>), and inserted definitions of “certification period”, “reservation”, “thrifty food plan”, and “tribal organization” in subsecs. (c), (j), (<i>o</i>), and (p), respectively.
+<b>1977</b>—Pub. L. 95–113 redefined terms “Secretary”, “food”, “coupon”, “household”, “retail food store”, “State agency”, “State”, “food stamp program”, and “drug addiction or alcoholic treatment and rehabilitation program” and changed designations of those terms, as thus redefined, from subsecs. (a), (b), (c), (e), (f), (h), (j), (k), and (n), respectively, to (l), (g), (d), (i), (k), (n), (m), (h), and (f), substituted definitions of “allotment”, “authorization card”, and “coupon issuer” for “coupon allotment”, “authorization to purchase card”, and “coupon vendor”, respectively, and changed designations of those terms as thus substituted from subsecs. (d), (m), and (o), respectively, to (a), (b), and (e), struck out definitions of “wholesale food concern”, “bank”, and “elderly person” which had been set out, respectively, in subsecs. (g), (i), and (l), and inserted definitions of “certification period”, “reservation”, “thrifty food plan”, and “tribal organization” in subsecs. (c), (j), (o), and (p), respectively.
 
-<b>1976</b>—Subsec. (<i>o</i>). Pub. L. 94–339 added subsec. (<i>o</i>).
+<b>1976</b>—Subsec. (o). Pub. L. 94–339 added subsec. (o).
 
-<b>1973</b>—Subsec. (b). Pub. L. 93–86, §3(<i>l</i>), substituted “home” for “human” and substituted provisions including in definition of “food” seeds and plants for use in gardens to produce food for the personal consumption of the eligible household, for provisions excluding from such definition foods identified on the package as imported and imported meat and meat products.
+<b>1973</b>—Subsec. (b). Pub. L. 93–86, §3(l), substituted “home” for “human” and substituted provisions including in definition of “food” seeds and plants for use in gardens to produce food for the personal consumption of the eligible household, for provisions excluding from such definition foods identified on the package as imported and imported meat and meat products.
 
 Subsec. (e). Pub. L. 93–125 substituted “foregoing” for “foreoging”.
 
 Pub. L. 93–86, §3(a), (b), (p), inserted provision of cl. (3) relating to inclusion of narcotic addict or alcoholic within definition of “household” and provision relating to residents of federally subsidized housing for the elderly, and substituted provisions relating to the treatment of individuals receiving supplemental security income benefits under subchapter XVI of chapter 7 of title 42, for provisions relating to the treatment of persons eligible to receive supplemental security income benefits under subchapter XVI of chapter 7 of title 42.
 
-Subsec. (f). Pub. L. 93–86, §3(<i>o</i>), inserted references to nonprofit institution and section 2019(i) of this title.
+Subsec. (f). Pub. L. 93–86, §3(o), inserted references to nonprofit institution and section 2019(i) of this title.
 
 Subsec. (n). Pub. L. 93–86, §3(c), added subsec. (n).
 
@@ -366,7 +366,7 @@ Subsec. (f). Pub. L. 91–671, §2(b), included in definition of “retail food 
 
 Subsec. (j). Pub. L. 91–671, §2(c), included in definition of “State” Guam, Puerto Rico, and the Virgin Islands.
 
-Subsec. (<i>l</i>). Pub. L. 91–671, §2(d), added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 91–671, §2(d), added subsec. (l).
 
 Subsec. (m). Pub. L. 91–671, §2(e), added subsec. (m).
 
@@ -396,7 +396,7 @@ Amendment by Pub. L. 107–171 effective Oct. 1, 2002, except as otherwise provi
 
 #### Effective Date of 1994 Amendment
 
-Section 303(b) of Pub. L. 103–354 provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective beginning on September 30, 1994.”
+Pub. L. 103–354, title III, §303(b), Oct. 13, 1994, 108 Stat. 3239, provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective beginning on September 30, 1994.”
 
 #### Effective Date of 1993 Amendment
 
@@ -408,7 +408,7 @@ Amendment by Pub. L. 102–237 effective and to be implemented no later than Feb
 
 #### Effective Date of 1990 Amendment
 
-Section 1781 of title XVII of Pub. L. 101–624 provided that:
+Pub. L. 101–624, title XVII, §1781, Nov. 28, 1990, 104 Stat. 3817, provided that:
 
 “(a)
 
@@ -482,7 +482,7 @@ Sequestration.—
 
 &emsp;“(1)
 
-In general.—Notwithstanding any other provision of law, if a final order is issued for fiscal year 1989 under section 252(b) of the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 902(b)), the amount made available to carry out the supplemental nutrition assistance program under section 18 of the Food and Nutrition Act of 2008 (7 U.S.C. 2027) shall be reduced by an amount equal to $110,000,000 multiplied by the amount of the percentage reduction for domestic programs required under such order. The reduction required by the preceding sentence shall be achieved by reducing the amount of the adjustment to the cost of the thrifty food plan for fiscal year 1989 under section 3(<i>o</i>)(9) of the Food and Nutrition Act of 2008 (as added by section 120 of this Act) \[section 2012(<i>o</i>)(9) of this title\].
+In general.—Notwithstanding any other provision of law, if a final order is issued for fiscal year 1989 under section 252(b) of the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 902(b)), the amount made available to carry out the supplemental nutrition assistance program under section 18 of the Food and Nutrition Act of 2008 (7 U.S.C. 2027) shall be reduced by an amount equal to $110,000,000 multiplied by the amount of the percentage reduction for domestic programs required under such order. The reduction required by the preceding sentence shall be achieved by reducing the amount of the adjustment to the cost of the thrifty food plan for fiscal year 1989 under section 3(o)(9) of the Food and Nutrition Act of 2008 (as added by section 120 of this Act) \[section 2012(o)(9) of this title\].
 
 &emsp;“(2)
 
@@ -490,11 +490,11 @@ Effective dates if sequestration occurs.—Notwithstanding subsections (a) and (
 
 #### Effective Date of 1987 Amendment
 
-Section 802(b) of Pub. L. 100–77 provided that: “The amendments made by this section \[amending this section\] shall become effective on October 1, 1987.”
+Pub. L. 100–77, title VIII, §802(b), July 22, 1987, 101 Stat. 534, provided that: “The amendments made by this section \[amending this section\] shall become effective on October 1, 1987.”
 
 #### Effective and Termination Dates of 1986 Amendment
 
-Section 11002(f) of Pub. L. 99–570, as amended by Pub. L. 100–435, title II, §205, Sept. 19, 1988, 102 Stat. 1657; Pub. L. 101–624, title XVII, §1713(b), Nov. 28, 1990, 104 Stat. 3783; Pub. L. 102–237, title IX, §913, Dec. 13, 1991, 105 Stat. 1887, provided that:
+Pub. L. 99–570, title XI, §11002(f), Oct. 27, 1986, 100 Stat. 3207–168, as amended by Pub. L. 100–435, title II, §205, Sept. 19, 1988, 102 Stat. 1657; Pub. L. 101–624, title XVII, §1713(b), Nov. 28, 1990, 104 Stat. 3783; Pub. L. 102–237, title IX, §913, Dec. 13, 1991, 105 Stat. 1887, provided that:
 
 “(1) The amendments made by this section \[amending this section and sections 2018 and 2019 of this title\] shall become effective, and be implemented by issuance of final regulations, not later than April 1, 1987.
 
@@ -504,29 +504,29 @@ Section 11002(f) of Pub. L. 99–570, as amended by Pub. L. 100–435, title II,
 
 \[Amendment by Pub. L. 102–237 to section 11002(f) of Pub. L. 99–570, set out above, effective Oct. 1, 1990, and not applicable with respect to any period occurring before such date, see section 1101(d)(5) of Pub. L. 102–237, set out as an Effective Date of 1991 Amendment note under section 1421 of this title.\]
 
-\[Section 1713(b) of Pub. L. 101–624 provided that the amendment made by that section is effective Sept. 29, 1990.\]
+\[Pub. L. 101–624, title XVII, §1713(b), Nov. 28, 1990, 104 Stat. 3783, provided that the amendment made by section 1713(b) to section 11002(f) of Pub. L. 99–570, set out above, is effective Sept. 29, 1990.\]
 
 #### Effective Date of 1982 Amendment
 
-Section 193 of subtitle E (§§140–193) of title I of Pub. L. 97–253 provided that:
+Pub. L. 97–253, title I, §193, Sept. 8, 1982, 96 Stat. 789, provided that:
 
-“(a) Except as provided in subsection (b), this subtitle \[amending this section and sections 2014, 2015, 2016, 2017, 2018, 2020, 2021, 2022, 2023, 2025, 2026, 2027, 2028, and 2029 of this title and enacting provisions set out as notes under this section and sections 1624, 2011, and 2028 of this title\] and the amendments made by this subtitle shall take effect on the date of the enactment of this subtitle \[Sept. 8, 1982\].
+“(a) Except as provided in subsection (b), this subtitle \[subtitle E (§§140–193) of title I of Pub. L. 97–253, amending this section and sections 2014, 2015, 2016, 2017, 2018, 2020, 2021, 2022, 2023, 2025, 2026, 2027, 2028, and 2029 of this title and enacting provisions set out as notes under this section and sections 1624, 2011, and 2028 of this title\] and the amendments made by this subtitle shall take effect on the date of the enactment of this subtitle \[Sept. 8, 1982\].
 
 “(b) Sections 180 and 188 \[amending sections 2020, 2025, 2027, and 2029 of this title\] shall take effect on October 1, 1982.”
 
 #### Effective Date of 1981 Amendments
 
-Section 192 of Pub. L. 97–253 provided that:
+Pub. L. 97–253, title I, §192, Sept. 8, 1982, 96 Stat. 788, provided that:
 
 “(a) Notwithstanding section 117 of the Omnibus Budget Reconciliation Act of 1981 (7 U.S.C. 2012 note) \[section 117 of Pub. L. 97–35, set out below\], the amendments made by sections 101 through 114 of such Act \[amending this section and sections 2014, 2015, 2017, 2020, 2022, and 2025 of this title\], other than sections 107(b) and 108(c) of such Act \[amending sections 2014 and 2015 of this title\], shall take effect on the earlier of the date of the enactment of this subtitle \[Sept. 8, 1982\] or the date on which such amendments became effective pursuant to section 117 of such Act.
 
 “(b) Notwithstanding section 1338 of the Agriculture and Food Act of 1981 (7 U.S.C. 2012 note) \[section 1338 of Pub. L. 97–98, set out below\], the amendments made by sections 1302 through 1333 of such Act \[enacting section 2029 of this title and amending this section and sections 2014 to 2016, 2018 to 2020, and 2023 to 2027 of this title\] shall take effect on the earlier of the date of the enactment of this subtitle \[Sept. 8, 1982\] or the date on which such amendments became effective pursuant to section 1338 of such Act.”
 
-Section 1338 of title XIII of Pub. L. 97–98 provided that: “Except as otherwise specifically provided, the amendments made by this title \[enacting sections 2029 and 2270 of this title, amending this section and sections 2014 to 2016, 2018 to 2020, and 2023 to 2027 of this title, and enacting provisions set out as a note under section 2011 of this title\] shall be effective upon such dates as the Secretary of Agriculture may prescribe, taking into account the need for orderly implementation.”
+Pub. L. 97–98, title XIII, §1338, Dec. 22, 1981, 95 Stat. 1294, provided that: “Except as otherwise specifically provided, the amendments made by this title \[enacting sections 2029 and 2270 of this title, amending this section and sections 2014 to 2016, 2018 to 2020, and 2023 to 2027 of this title, and enacting provisions set out as a note under section 2011 of this title\] shall be effective upon such dates as the Secretary of Agriculture may prescribe, taking into account the need for orderly implementation.”
 
-Section 116(a) of Pub. L. 97–35 provided that the amendment made by that section is effective July 1, 1982.
+Pub. L. 97–35, title I, §116(a), Aug. 13, 1981, 95 Stat. 364, provided that the amendment made by section 116(a) is effective July 1, 1982.
 
-Section 117 of Pub. L. 97–35 provided that: “Except as otherwise specifically provided, the amendments made by sections 101 through 116 of this Act \[amending this section and sections 2014, 2015, 2017, 2020, 2022, and 2025 of this title\] shall be effective and implemented upon such dates as the Secretary of Agriculture may prescribe, taking into account the need for orderly implementation.”
+Pub. L. 97–35, title I, §117, Aug. 13, 1981, 95 Stat. 366, provided that: “Except as otherwise specifically provided, the amendments made by sections 101 through 116 of this Act \[amending this section and sections 2014, 2015, 2017, 2020, 2022, and 2025 of this title\] shall be effective and implemented upon such dates as the Secretary of Agriculture may prescribe, taking into account the need for orderly implementation.”
 
 #### Effective Date of 1979 Amendment
 
@@ -540,9 +540,9 @@ Pub. L. 96–58, §10, Aug. 14, 1979, 93 Stat. 392, provided that:
 
 #### Effective Date of 1977 Amendment
 
-Section 1301 of Pub. L. 95–113 provided that the amendment made by that section is effective Oct. 1, 1977.
+Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 958, provided that the amendment made by that section is effective Oct. 1, 1977.
 
-Section 1302(b) of Pub. L. 95–113 provided that: “The amendments made by this section \[repealing section 3(b) of Pub. L. 93–86 as described in the Repeals note below and amending section 1431 of this title and provisions set out as notes under sections 612c of this title and 1382e of Title 42, The Public Health and Welfare\] shall be effective October 1, 1977.”
+Pub. L. 95–113, title XIII, §1302(b), Sept. 29, 1977, 91 Stat. 979, provided that: “The amendments made by this section \[repealing section 3(b) of Pub. L. 93–86 as described in the Repeals note below and amending section 1431 of this title and provisions set out as notes under sections 612c of this title and 1382e of Title 42, The Public Health and Welfare\] shall be effective October 1, 1977.”
 
 #### Effective Date of 1974 Amendment
 
@@ -550,9 +550,9 @@ Amendment of section 8(a) of Pub. L. 93–233 by section 1(a), (b) of Pub. L. 93
 
 #### Effective Date of 1972 Amendment
 
-Section 411(a) of Pub. L. 92–603 provided that the amendment made by that section is effective January 1, 1974.
+Pub. L. 92–603, title IV, §411(a), Oct. 30, 1972, 86 Stat. 1491, provided that the amendment made by section 411(a) is effective January 1, 1974.
 
-Section 411(h) of Pub. L. 92–603 provided that: “Except as otherwise provided in this section, the amendments made by this section \[amending this section andsections 2019 and 2023 of this title\] shall take effect on January 1, 1973”.
+Pub. L. 92–603, title IV, §411(h), Oct. 30, 1972, 86 Stat. 1492, provided that: “Except as otherwise provided in this section, the amendments made by this section \[amending this section and sections 2019 and 2023 of this title\] shall take effect on January 1, 1973.”
 
 #### Repeals
 
@@ -574,7 +574,7 @@ Pub. L. 103–225, title II, §206, Mar. 25, 1994, 108 Stat. 109, as amended by 
 
 &emsp;“(2) the numbers and types of stores that were withdrawn from the supplemental nutrition assistance program after implementation of the amendments;
 
-&emsp;“(3) the procedures used by the Secretary, and the adequacy of the procedures used, to determine the eligibility of stores to participate in the supplemental nutrition assistance program and to authorize and reauthorize the stores to participate in the supplemental nutrition assistance program;
+&emsp;“(3) the procedures used by the Secretary, and the adequacy of the procedures used, to determine theeligibility of stores to participate in the supplemental nutrition assistance program and to authorize and reauthorize the stores to participate in the supplemental nutrition assistance program;
 
 &emsp;“(4) the adequacy of the guidance provided by the Secretary to retail food stores concerning—
 

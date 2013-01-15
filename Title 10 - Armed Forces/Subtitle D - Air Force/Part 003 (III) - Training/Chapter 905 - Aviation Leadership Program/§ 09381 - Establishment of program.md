@@ -10,7 +10,7 @@ A prior section 9381, act Aug. 10, 1956, ch. 1041, 70A Stat. 568, defined “adv
 
 #### Congressional Findings
 
-Section 1178(a) of Pub. L. 103–160 provided that: “The Congress finds the following:
+Pub. L. 103–160, div. A, title XI, §1178(a), Nov. 30, 1993, 107 Stat. 1768, provided that: “The Congress finds the following:
 
 &emsp;“(1) The training in the United States of pilots from the air forces of friendly foreign nations furthers the interests of the United States, promotes closer relations with such nations, and advances the national security.
 

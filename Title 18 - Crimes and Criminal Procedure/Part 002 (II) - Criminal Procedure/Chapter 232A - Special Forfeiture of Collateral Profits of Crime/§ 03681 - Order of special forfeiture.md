@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(ii) pay for legal representation of the defendant in matters arising from the offense for which such defendant has been convicted, but no more than 20 percent of the total proceeds may be so used.
 
-(2) The court shall direct the disposition of all such proceeds in the possession of the AttorneyGeneral at the end of such five years and may require that all or any part of such proceeds be released from escrow and paid into the Crime Victims Fund in the Treasury.
+(2) The court shall direct the disposition of all such proceeds in the possession of the Attorney General at the end of such five years and may require that all or any part of such proceeds be released from escrow and paid into the Crime Victims Fund in the Treasury.
 
 (d) As used in this section, the term “interested party” includes the defendant and any transferee of proceeds due the defendant under the contract, the person with whom the defendant has contracted, and any person physically harmed as a result of the offense for which the defendant has been convicted.
 

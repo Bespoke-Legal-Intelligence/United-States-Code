@@ -118,7 +118,7 @@ Rule of Construction.—Nothing in this section shall be construed as authorizin
 
 #### Inpatient Mental Health Service
 
-Pub. L. 110–329, div. C, title VIII, §8095, Sept. 30, 2008, 122 Stat. 3642, provided that: “None of the funds appropriated by this Act \[div. C of Pub. L. 110–329, see Tables for classification\], and hereafter, available for the Civilian Health and Medical Program of the Uniformed Services (CHAMPUS) or TRICARE shall be available for the reimbursement of any health care provider for inpatient mental health service for care received when a patient is referred to a provider of inpatient mental health care or residential treatment care by a medical or health care professional having an economic interest in the facility to which the patient is referred: <i>Provided,</i> That this limitation does not apply in the case of inpatient mental health services provided under the program for persons with disabilities under subsection (d) of section 1079 of title 10, United States Code, provided as partial hospital care, or provided pursuant to a waiver authorized by the Secretary of Defense because of medical or psychological circumstances of the patient that are confirmed by a health professional who is not a Federal employee after a review, pursuant to rules prescribed by the Secretary, which takes into account the appropriate level of care for the patient, the intensity of services required by the patient, and the availability of that care.”
+Pub. L. 110–329, div. C, title VIII, §8095, Sept. 30, 2008, 122 Stat. 3642, provided that: “None of the funds appropriated by this Act \[div. C of Pub. L. 110–329, see Tables for classification\], and hereafter, available for the Civilian Health and Medical Program of the Uniformed Services (CHAMPUS) or TRICARE shall be available for the reimbursement of any health care provider for inpatient mental health service for care received when a patient is referred to a provider of inpatient mental health care or residential treatment care by a medical or health care professional having an economic interest in the facility to which the patient is referred: <i>Provided,</i> That this limitation does not apply in the case of inpatient mental health services provided under theprogram for persons with disabilities under subsection (d) of section 1079 of title 10, United States Code, provided as partial hospital care, or provided pursuant to a waiver authorized by the Secretary of Defense because of medical or psychological circumstances of the patient that are confirmed by a health professional who is not a Federal employee after a review, pursuant to rules prescribed by the Secretary, which takes into account the appropriate level of care for the patient, the intensity of services required by the patient, and the availability of that care.”
 
 #### Surveys on Continued Viability of TRICARE Standard and TRICARE Extra
 
@@ -238,7 +238,7 @@ Definitions.—In this section:
 
 &emsp;“(6) The term ‘member of the Selected Reserve’ means a member of the Selected Reserve of the Ready Reserve of a reserve component of the Armed Forces.
 
-&emsp;“(7) The term ‘United States’ means the United States (as defined in section 101(a) of title 10, UnitedStates Code), its possessions (as defined in such section), and the Commonwealth of Puerto Rico.”
+&emsp;“(7) The term ‘United States’ means the United States (as defined in section 101(a) of title 10, United States Code), its possessions (as defined in such section), and the Commonwealth of Puerto Rico.”
 
 #### Regulations To Establish Criteria for Licensed or Certified Mental Health Counselors Under TRICARE
 
@@ -322,7 +322,7 @@ Purposes.—The purposes of the requirements established under subsection (a) sh
 
 &emsp;“(1) To ensure consistent standards of quality in the support of military treatment facilities by contract civilian health care personnel under the TRICARE program.
 
-&emsp;“(2) To identify targeted, actionable opportunities throughout each region of the TRICARE program for the most efficient and cost effective delivery of health care and support of military treatment facilities.
+&emsp;“(2) To identify targeted, actionable opportunities throughout each region of the TRICARE program forthe most efficient and cost effective delivery of health care and support of military treatment facilities.
 
 &emsp;“(3) To ensure the most effective use of various available contracting methods in securing support of military treatment facilities by civilian health care personnel under the TRICARE program, including resource-sharing and clinical support agreements, direct contracting, and venture capital investments.
 
@@ -470,7 +470,7 @@ Elements.—The report under paragraph (1) shall include—
 
 #### Surveys on Continued Viability of TRICARE Standard
 
-Pub. L. 108–136, div. A, title VII, §723, Nov. 24, 2003, 117 Stat. 1532, as amended by Pub. L. 109–163, div. A, title VII, §711, Jan. 6, 2006, 119 Stat. 3343, required the Secretary of Defense to conduct surveys in the TRICARE market areas in the United States to determine how many health care providers were accepting new patients under TRICARE Standard in each such market area, and required the Comptroller General to review the processes, procedures, and analysis used by the Department of Defense to determine the adequacy of the number of health care providers and the actions takenby the Department of Defense to ensure ready access of TRICARE Standard beneficiaries to health care under TRICARE Standard in each TRICARE market area, prior to repeal by Pub. L. 110–181, div. A, title VII, §711(d), Jan. 28, 2008, 122 Stat. 193, eff. Oct. 1, 2007.
+Pub. L. 108–136, div. A, title VII, §723, Nov. 24, 2003, 117 Stat. 1532, as amended by Pub. L. 109–163, div. A, title VII, §711, Jan. 6, 2006, 119 Stat. 3343, required the Secretary of Defense to conduct surveys in the TRICARE market areas in the United States to determine how many health care providers were accepting new patients under TRICARE Standard in each such market area, and required the Comptroller General to review the processes, procedures, and analysis used by the Department of Defense to determine the adequacy of the number of health care providers and the actions taken by the Department of Defense to ensure ready access of TRICARE Standard beneficiaries to health care under TRICARE Standard in each TRICARE market area, prior to repeal by Pub. L. 110–181, div. A, title VII, §711(d), Jan. 28, 2008, 122 Stat. 193, eff. Oct. 1, 2007.
 
 #### Modernization of TRICARE Business Practices and Increase of Use of Military Treatment Facilities
 
@@ -664,7 +664,7 @@ Reports.—The Secretary shall submit two reports on the results of the evaluati
 
 “(e)
 
-Eligible Individuals.—(1) An individual is eligible to participate under this section if the individual is a member or former member of the uniformed services described in section 1074(b) of title 10, United States Code, a dependent of the member described in section 1076(a)(2)(B) or 1076(b) of that title, or a dependent of a member of the uniformed services who died while on active duty for a period of more than 30 days, who—
+Eligible Individuals.—(1) An individual is eligible to participate under this section if the individual is a member or former member of the uniformed services described in section 1074(b) of title 10, United States Code, a dependent of the member described in section 1076(a)(2)(B) or 1076(b) of that title, or a dependent of amember of the uniformed services who died while on active duty for a period of more than 30 days, who—
 
 &emsp;“(A) is 65 years of age or older;
 
@@ -686,7 +686,7 @@ Requirement To Establish System.—(1) The Secretary of Defense shall establish 
 
 &emsp;“(B) to measure performance in increasing such access against the primary care access standards established by the Secretary under the TRICARE program.
 
-“(2) In implementing the system described in paragraph (1), the Secretary shall collect data on the timeliness of appointments and precise waiting times for appointments in order to measure performance inmeeting the primary care access standards established under the TRICARE program.
+“(2) In implementing the system described in paragraph (1), the Secretary shall collect data on the timeliness of appointments and precise waiting times for appointments in order to measure performance in meeting the primary care access standards established under the TRICARE program.
 
 “(b)
 
@@ -772,7 +772,7 @@ Pub. L. 105–85, div. A, title VII, §745, Nov. 18, 1997, 111 Stat. 1820, provi
 
 “(a)
 
-Competitive Procurement Required.—Beginning not later than October 1, 1998, the Secretary of Defense shall competitively procure from private-sector sources, or other sources outside of the Department of Defense, all ophthalmic services related to the provision of single vision and multivision eyeware \[sic\] for members of the Armed Forces, retired members, and certain covered beneficiaries under chapter 55 of title 10, United States Code, who would otherwise receive such ophthalmic services through the Department of Defense.
+Competitive Procurement Required.—Beginning not later than October 1, 1998, the Secretary of Defense shall competitively procure from private-sector sources, or other sources outside of the Department of Defense, all ophthalmic services related to the provision of single vision and multivision eyeware \[sic\] for members of the Armed Forces, retired members, andcertain covered beneficiaries under chapter 55 of title 10, United States Code, who would otherwise receive such ophthalmic services through the Department of Defense.
 
 “(b)
 
@@ -794,7 +794,7 @@ Pub. L. 104–201, div. A, title VII, subtitle C, Sept. 23, 1996, 110 Stat. 2592
 
 “In this subtitle:
 
-&emsp;“(1) The term ‘administering Secretaries’ means the Secretary of Defense, the Secretary of HomelandSecurity, and the Secretary of Health and Human Services.
+&emsp;“(1) The term ‘administering Secretaries’ means the Secretary of Defense, the Secretary of Homeland Security, and the Secretary of Health and Human Services.
 
 &emsp;“(2) The term ‘agreement’ means the agreement required under section 722(b) between the Secretary of Defense and a designated provider.
 
@@ -880,7 +880,7 @@ Fiscal Year 1997
 
 Limitation.—(1) During fiscal year 1997, the number of covered beneficiaries who are enrolled in managed care plans offered by designated providers may not exceed the number of such enrollees as of October 1, 1995.
 
-“(2) The Secretary may waive the limitation under paragraph (1) if the Secretary determines that additional enrollment authority for a designated provider is required to accommodate covered beneficiaries who aredependents of members of the uniformed services entitled to health care under section 1074(a) of title 10, United States Code.
+“(2) The Secretary may waive the limitation under paragraph (1) if the Secretary determines that additional enrollment authority for a designated provider is required to accommodate covered beneficiaries who are dependents of members of the uniformed services entitled to health care under section 1074(a) of title 10, United States Code.
 
 “(b)
 
@@ -1042,13 +1042,13 @@ Report.—Not later than March 1, 1998, the Secretary of Defense shall submit to
 
 #### Evaluation and Report on TRICARE Program Effectiveness
 
-Pub. L. 104–106, div. A, title VII, §717, Feb. 10, 1996, 110 Stat. 376, provided that:
+Pub. L. 104–106, div. A, title VII, §717, Feb. 10, 1996, 110 Stat. 376, as amended by Pub. L. 112–239, div. A, title VII, §714, Jan. 2, 2013, 126 Stat. 1803, provided that:
 
 “(a)
 
 Evaluation Required.—The Secretary of Defense shall arrange for an on-going evaluation of the effectiveness of the TRICARE program in meeting the goals of increasing the access of covered beneficiaries under chapter 55 of title 10, United States Code, to health care and improving the quality of health care provided to covered beneficiaries, without increasing the costs incurred by the Government or covered beneficiaries. The evaluation shall specifically address—
 
-&emsp;“(1) the impact of the TRICARE program on military retirees with regard to access, costs, and quality of health care services; and
+&emsp;“(1) the impact of the TRICARE program on members of the Armed Forces (whether in the regular or reserve components) and their dependents, military retirees and their dependents, and dependents of members on active duty with severe disabilities and chronic health care needs with regard to access, costs, and quality of health care services; and
 
 &emsp;“(2) identify noncatchment areas in which the health maintenance organization option of the TRICARE program is available or is proposed to become available.
 
@@ -1104,7 +1104,7 @@ Pub. L. 102–484, div. A, title VII, §712, Oct. 23, 1992, 106 Stat. 2435, as a
 
 “(a)
 
-Condition.—(1) Except as provided in subsection (b), the Secretary of Defense may not expand theCHAMPUS reform initiative underway in the States of California and Hawaii to another location until not less than 90 days after the date on which the Secretary certifies to Congress that expansion of the initiative to that location is the most efficient method of providing health care to covered beneficiaries in that location. In determining whether the expansion of the CHAMPUS reform initiative to a location is the most efficient method of providing health care to covered beneficiaries in that location, the Secretary shall consider the cost-effectiveness of the initiative (while assuring that the combined cost of care in military treatment facilities and under the Civilian Health and Medical Program of the Uniformed Services will not be increased as a result of the expansion) and the effect of the expansion of the initiative on the access of covered beneficiaries to health care and on the quality of health care received by covered beneficiaries.
+Condition.—(1) Except as provided in subsection (b), the Secretary of Defense may not expand the CHAMPUS reform initiative underway in the States of California and Hawaii to another location until not less than 90 days after the date on which the Secretary certifies to Congress that expansion of the initiative to that location is the most efficient method of providing health care to covered beneficiaries in that location. In determining whether the expansion of the CHAMPUS reform initiative to a location is the most efficient method of providing health care to covered beneficiaries in that location, the Secretary shall consider the cost-effectiveness of the initiative (while assuring that the combined cost of care in military treatment facilities and under the Civilian Health and Medical Program of the Uniformed Services will not be increased as a result of the expansion) and the effect of the expansion of the initiative on the access of covered beneficiaries to health care and on the quality of health care received by covered beneficiaries.
 
 “(2) To the extent any revision of the CHAMPUS reform initiative is necessary in order to make the certification required by this subsection, the Secretary shall assure that enrolled covered beneficiaries may obtain health care services with reduced out-of-pocket costs, as compared to standard CHAMPUS.
 
@@ -1242,7 +1242,7 @@ Requirement for Availability of Additional Insurance Coverage.—(1) The Secreta
 
 “(3) The insurance plan requirements referred to in paragraphs (1) and (2) are the following:
 
-&emsp;“(A) At the election of the individual, the plan shall be available to an individual losing eligibility (by reason of discharge, release from active duty, a change in family status (including divorce or annulment, or, in the case of a child, reaching age 22), or other similar reason) to be a covered beneficiary under chapter 55 of title 10, United States Code.
+&emsp;“(A) At the election of the individual, the plan shall be available to an individual losing eligibility\(by reason of discharge, release from active duty, a change in family status (including divorce or annulment, or, in the case of a child, reaching age 22), or other similar reason) to be a covered beneficiary under chapter 55 of title 10, United States Code.
 
 &emsp;“(B) The plan shall provide for coverage of benefits similar to the coverage of benefits available to the individual under CHAMPUS, regardless of any pre-existing condition.
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Administrator of the National Oceanic and Atmospheric Administration shall appoint an Ocean Exploration Advisory Board composed of experts in relevant fields—
+The Administrator of the National Oceanic and Atmospheric Administration shall appointan Ocean Exploration Advisory Board composed of experts in relevant fields—
 
 &emsp;(1) to advise the Administrator on priority areas for survey and discovery;
 

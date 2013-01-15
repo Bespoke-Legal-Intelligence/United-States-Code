@@ -14,7 +14,7 @@
 
 &emsp;(B) transfers by the United States to such country under this subchapter of any logistic support, supply, or service that is not governed by such reciprocal pricing principles shall be subject to the pricing provisions of the Arms Export Control Act (22 U.S.C. 2751 et seq.).
 
-(3) To the extent that indirect costs (including charges for plant and production equipment), administrative surcharges, and contract administration costs with respect to any North Atlantic Treaty Organization country or other foreign country are not waived by operation of the reciprocal pricing principles of paragraph (1), the Secretary of Defense may, on a reciprocal basis, agree to waive such costs.
+(3) To the extent that indirect costs (including charges for plant and production equipment),administrative surcharges, and contract administration costs with respect to any North Atlantic Treaty Organization country or other foreign country are not waived by operation of the reciprocal pricing principles of paragraph (1), the Secretary of Defense may, on a reciprocal basis, agree to waive such costs.
 
 (4) The pricing principles set forth in paragraph (2) and the waiver authority provided in paragraph (3) shall also apply to agreements with North Atlantic Treaty Organization subsidiary bodies and the United Nations Organization or any regional international organization under this subchapter.
 

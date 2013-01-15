@@ -2,7 +2,7 @@
 
 #### (a) Addition to the tax
 
-Except as otherwise provided in this section, in the case of any underpayment of estimated tax by an individual, there shall be added to the tax under chapter 1 and the tax under chapter 2 for the taxable year an amount determined by applying—
+Except as otherwise provided in this section, in the case of any underpayment of estimated tax by an individual, there shall be added to the tax under chapter 1 <sup>1</sup> the tax under chapter 2, and the tax under chapter 2A for the taxable year an amount determined by applying—
 
 &emsp;(1) the underpayment rate established under section 6621,
 
@@ -207,7 +207,7 @@ For purposes of this section—
 
 #### (iii) Adjusted self-employment income
 
-&emsp;&emsp;&emsp;The term “adjusted self-employment income” means self-employment income (as defined in section 1402(b)); except that section 1402(b) shall be applied by placing wages (within the meaning of section 1402(b)) for months in the taxable year ending before the due date for the installment on an annualized basis consistent with clause (i).
+&emsp;&emsp;&emsp;The term “adjusted self-employment income” means self-employment income (as defined in section 1402(b)); except that section 1402(b) shall be applied by placing wages (within the meaning of section1402(b)) for months in the taxable year ending before the due date for the installment on an annualized basis consistent with clause (i).
 
 #### (D) Treatment of subpart F and section 936 income
 
@@ -265,15 +265,17 @@ For purposes of this section, the term “tax” means—
 
 &emsp;(1) the tax imposed by chapter 1 (other than any increase in such tax by reason of section 143(m)), plus
 
-&emsp;(2) the tax imposed by chapter 2, minus
+&emsp;(2) the tax imposed by chapter 2, plus
 
-&emsp;(3) the credits against tax provided by part IV of subchapter A of chapter 1, other than the credit against tax provided by section 31 (relating to tax withheld on wages).
+&emsp;(3) the taxes imposed by chapter 2A, minus
+
+&emsp;(4) the credits against tax provided by part IV of subchapter A of chapter 1, other than the credit against tax provided by section 31 (relating to tax withheld on wages).
 
 #### (g) Application of section in case of tax withheld on wages
 
 #### (1) In general
 
-&emsp;For purposes of applying this section, the amount of the credit allowed under section 31 for the taxable year shall be deemed a payment of estimated tax, and an equal part of such amount shall be deemed paid on each due date for such taxable year, unless the taxpayerestablishes the dates on which all amounts were actually withheld, in which case the amounts so withheld shall be deemed payments of estimated tax on the dates on which such amounts were actually withheld.
+&emsp;For purposes of applying this section, the amount of the credit allowed under section 31 for the taxable year shall be deemed a payment of estimated tax, and an equal part of such amount shall be deemed paid on each due date for such taxable year, unless the taxpayer establishes the dates on which all amounts were actually withheld, in which case the amounts so withheld shall be deemed payments of estimated tax on the dates on which such amounts were actually withheld.
 
 #### (2) Separate application
 
@@ -377,7 +379,7 @@ In the case of a nonresident alien described in section 6072(c):
 
 &emsp;This section shall be applied to taxable years of less than 12 months in accordance with regulations prescribed by the Secretary.
 
-#### (<i>l</i>) Estates and trusts
+#### (l) Estates and trusts
 
 #### (1) In general
 
@@ -403,31 +405,25 @@ In the case of a nonresident alien described in section 6072(c):
 
 &emsp;In the case of any estate or trust to which this section applies, subsection (d)(2)(B)(i) shall be applied by substituting “ending before the date 1 month before the due date for the installment” for “ending before the due date for the installment”.
 
-#### (m) Regulations
+#### (m) Special rule for Medicare tax
+
+For purposes of this section, the tax imposed under section 3101(b)(2) (to the extent not withheld) shall be treated as a tax imposed under chapter 2.
+
+#### (n) Regulations
 
 The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 823; Pub. L. 87–682, §1(a)(4), Sept. 25, 1962, 76 Stat. 575; Pub. L. 89–368, title I, §§102(b)(1)–(3), 103(a), Mar. 15, 1966, 80 Stat. 62–64; Pub. L. 91–172, title III, §301(b)(13), Dec. 30, 1969, 83 Stat. 586; Pub. L. 92–5, title II, §203(b)(7), Mar. 17, 1971, 85 Stat. 11; Pub. L. 92–336, title II, §203(b)(7), July 1, 1972, 86 Stat. 420; Pub. L. 93–66, title II, §203(b)(7), (d), July 9, 1973, 87 Stat. 153; Pub. L. 93–233, §5(b)(7), (d), Dec. 31, 1973, 87 Stat. 954; Pub. L. 93–625, §7(c), Jan. 3, 1975, 88 Stat. 2115; Pub. L. 94–455, title XIX, §1906(a)(35), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1829, 1834; Pub. L. 95–30, title I, §102(b)(16), May 23, 1977, 91 Stat. 139; Pub. L. 95–600, title IV, §421(e)(9), Nov. 6, 1978, 92 Stat. 2877; Pub. L. 97–34, title VI, §601(a)(6)(A), title VII, §725(b), (c)(5), Aug. 13, 1981, 95 Stat. 336, 346; Pub. L. 97–248, title II, §207(d)(7), formerly §207(c)(7), title III, §§307(a)(14), 308(a), 328(a), Sept. 3, 1982, 96 Stat. 420, 590, 591, 618, renumbered §207(d)(7), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 97–448, title I, §§106(a)(4)(C), 107(c)(1), title II, §201(j)(3), Jan. 12, 1983, 96 Stat. 2390, 2391, 2396; Pub. L. 98–67, title I, §102(a), Aug. 5, 1983, 97 Stat. 369; Pub. L. 98–369, div. A, title IV, §411, July 18, 1984, 98 Stat. 788; Pub. L. 99–514, title XIV, §1404(a), title XV, §§1511(c)(14), 1541(a), (b), title XVIII, §1841, Oct. 22, 1986, 100 Stat. 2713, 2745, 2751, 2852; Pub. L. 100–418, title I, §1941(b)(6)(A), Aug. 23, 1988, 102 Stat. 1324; Pub. L. 100–647, title I, §1014(d)(1), (2), title IV, §4005(g)(5), Nov. 10, 1988, 102 Stat. 3560, 3651; Pub. L. 101–239, title VII, §7811(j)(5), (6), Dec. 19, 1989, 103 Stat. 2411, 2412; Pub. L. 102–164, title IV, §403(a), (b), Nov. 15, 1991, 105 Stat. 1062, 1064; Pub. L. 103–66, title XIII, §13214(a), (b), Aug. 10, 1993, 107 Stat. 475; Pub. L. 103–465, title VII, §711(b), Dec. 8, 1994, 108 Stat. 4998; Pub. L. 105–34, title X, §1091(a), title XII, §1202(a), Aug. 5, 1997, 111 Stat. 962, 994; Pub. L. 105–277, div. J, title II, §2003(a), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 106–170, title V, §531(a), Dec. 17, 1999, 113 Stat. 1928; Pub. L. 111–5, div. B, title I, §1212, Feb. 17, 2009, 123 Stat. 336; Pub. L. 111–152, title I, §1402(a)(2), (b)(2), Mar. 30, 2010, 124 Stat. 1062, 1063.)
-
-#### Amendment of Section
-
-<i>Pub. L. 111–152, title I, §1402(a)(2), (4), Mar. 30, 2010, 124 Stat. 1062, 1063, provided that, applicable to taxable years beginning after Dec. 31, 2012, this section is amended:</i>
-
-<i>(1) in subsection (a), by striking “and the tax under chapter 2” and inserting “the tax under chapter 2, and the tax under chapter 2A”; and</i>
-
-<i>(2) in subsection (f)—</i>
-
-<i>(A) by striking “minus” at the end of paragraph (2) and inserting “plus”; and</i>
-
-<i>(B) by redesignating paragraph (3) as (4) and adding after paragraph (2) the following new paragraph: “(3) the taxes imposed by chapter 2A, minus”.</i>
-
-<i>Pub. L. 111–152, title I, §1402(b)(2), (3), Mar. 30, 2010, 124 Stat. 1063, provided that, applicable with respect to remuneration received, and taxable years beginning after, Dec. 31, 2012, this section is amended by redesignating subsection (m) as (n) and by adding after subsection (l) the following new subsection:</i>
-
-#### <i>(m) Special rule for Medicare tax</i>
-
-<i>For purposes of this section, the tax imposed under section 3101(b)(2) (to the extent not withheld) shall be treated as a tax imposed under chapter 2.</i>
+(Aug. 16, 1954, ch. 736, 68A Stat. 823; Pub. L. 87–682, §1(a)(4), Sept. 25, 1962, 76 Stat. 575; Pub. L. 89–368, title I, §§102(b)(1)–(3), 103(a), Mar. 15, 1966, 80 Stat. 62–64; Pub. L. 91–172, title III, §301(b)(13), Dec. 30, 1969, 83 Stat. 586; Pub. L. 92–5, title II, §203(b)(7), Mar. 17, 1971, 85 Stat. 11; Pub. L. 92–336, title II, §203(b)(7), July 1, 1972, 86 Stat. 420; Pub. L. 93–66, title II, §203(b)(7), (d), July 9, 1973, 87 Stat. 153; Pub. L. 93–233, §5(b)(7), (d), Dec. 31, 1973, 87 Stat. 954; Pub. L. 93–625, §7(c), Jan. 3, 1975, 88 Stat. 2115; Pub. L. 94–455, title XIX, §1906(a)(35), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1829, 1834; Pub. L. 95–30, title I, §102(b)(16), May 23, 1977, 91 Stat. 139; Pub. L. 95–600, title IV, §421(e)(9), Nov. 6, 1978, 92 Stat. 2877; Pub. L. 97–34, title VI, §601(a)(6)(A), title VII, §725(b), (c)(5), Aug. 13, 1981, 95 Stat. 336, 346; Pub. L. 97–248, title II, §207(d)(7), formerly §207(c)(7), title III, §§307(a)(14), 308(a), 328(a), Sept. 3, 1982, 96 Stat. 420, 590, 591, 618, renumbered §207(d)(7), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 97–448, title I, §§106(a)(4)(C), 107(c)(1), title II, §201(j)(3), Jan. 12, 1983, 96 Stat. 2390, 2391, 2396; Pub. L. 98–67, title I, §102(a), Aug. 5, 1983, 97 Stat. 369; Pub. L. 98–369, div. A, title IV, §411, July 18, 1984, 98 Stat. 788; Pub. L. 99–514, title XIV, §1404(a), title XV, §§1511(c)(14), 1541(a), (b), title XVIII, §1841, Oct. 22, 1986, 100 Stat. 2713, 2745, 2751, 2852; Pub. L. 100–418, title I, §1941(b)(6)(A), Aug. 23, 1988, 102 Stat. 1324; Pub. L. 100–647, title I, §1014(d)(1), (2), title IV, §4005(g)(5), Nov. 10, 1988, 102 Stat. 3560,3651; Pub. L. 101–239, title VII, §7811(j)(5), (6), Dec. 19, 1989, 103 Stat. 2411, 2412; Pub. L. 102–164, title IV, §403(a), (b), Nov. 15, 1991, 105 Stat. 1062, 1064; Pub. L. 103–66, title XIII, §13214(a), (b), Aug. 10, 1993, 107 Stat. 475; Pub. L. 103–465, title VII, §711(b), Dec. 8, 1994, 108 Stat. 4998; Pub. L. 105–34, title X, §1091(a), title XII, §1202(a), Aug. 5, 1997, 111 Stat. 962, 994; Pub. L. 105–277, div. J, title II, §2003(a), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 106–170, title V, §531(a), Dec. 17, 1999, 113 Stat. 1928; Pub. L. 111–5, div. B, title I, §1212, Feb. 17, 2009, 123 Stat. 336; Pub. L. 111–152, title I, §1402(a)(2), (b)(2), Mar. 30, 2010, 124 Stat. 1062, 1063.)
 
 #### Amendments
+
+<b>2010</b>—Subsec. (a). Pub. L. 111–152, §1402(a)(2)(A), substituted “the tax under chapter 2, and the tax under chapter 2A” for “and the tax under chapter 2” in introductory provisions.
+
+Subsec. (f)(2). Pub. L. 111–152, §1402(a)(2)(B)(i), substituted “plus” for “minus”.
+
+Subsec. (f)(3), (4). Pub. L. 111–152, §1402(a)(2)(B)(ii), added par. (3) and redesignated former par. (3) as (4).
+
+Subsecs. (m), (n). Pub. L. 111–152, §1402(b)(2), added subsec. (m) and redesignated former subsec. (m) as (n).
 
 <b>2009</b>—Subsec. (d)(1)(D). Pub. L. 111–5 added subpar. (D).
 
@@ -445,7 +441,7 @@ Subsec. (e)(1). Pub. L. 105–34, §1202(a), substituted “$1,000” for “$50
 
 Subsec. (j)(3)(A). Pub. L. 103–66, §13214(b)(1), struck out before period at end “and subsection (d)(1)(C)(iii) shall not apply”.
 
-Subsec. (<i>l</i>)(4). Pub. L. 103–66, §13214(b)(2), substituted “subsection (d)(2)(B)(i)” for “paragraphs (1)(C)(iv) and (2)(B)(i) of subsection (d)”.
+Subsec. (l)(4). Pub. L. 103–66, §13214(b)(2), substituted “subsection (d)(2)(B)(i)” for “paragraphs (1)(C)(iv) and (2)(B)(i) of subsection (d)”.
 
 <b>1991</b>—Subsec. (d)(1)(C) to (F). Pub. L. 102–164, §403(a), added subpars. (C) to (F).
 
@@ -453,11 +449,11 @@ Subsec. (i)(1)(C). Pub. L. 102–164, §403(b)(1), amended subpar. (C) generally
 
 Subsec. (j)(3)(A). Pub. L. 102–164, §403(b)(2), inserted before period at end “and subsection (d)(1)(C)(iii) shall not apply”.
 
-Subsec. (<i>l</i>)(4). Pub. L. 102–164, §403(b)(3), substituted “paragraphs (<i>l</i>)(C)(iv) and (2)(B)(i) of subsection (d)” for “subsection (d)(2)(B)(i)”.
+Subsec. (l)(4). Pub. L. 102–164, §403(b)(3), substituted “paragraphs (l)(C)(iv) and (2)(B)(i) of subsection (d)” for “subsection (d)(2)(B)(i)”.
 
-<b>1989</b>—Subsec. (<i>l</i>)(1). Pub. L. 101–239, §7811(j)(5), substituted “this section shall” for “this subsection shall”.
+<b>1989</b>—Subsec. (l)(1). Pub. L. 101–239, §7811(j)(5), substituted “this section shall” for “this subsection shall”.
 
-Subsec. (<i>l</i>)(2)(B)(ii). Pub. L. 101–239, §7811(j)(6), inserted before period at end “(or, if no will is admitted to probate, which is the trust primarily responsible for paying debts, taxes, and expenses of administration)”.
+Subsec. (l)(2)(B)(ii). Pub. L. 101–239, §7811(j)(6), inserted before period at end “(or, if no will is admitted to probate, which is the trust primarily responsible for paying debts, taxes, and expenses of administration)”.
 
 <b>1988</b>—Subsec. (f)(1). Pub. L. 100–647, §4005(g)(5), inserted “(other than any increase in such tax by reason of section 143(m))” after “chapter 1”.
 
@@ -467,13 +463,13 @@ Subsec. (f)(3). Pub. L. 100–418 amended par. (3) generally. Prior to amendment
 
 &emsp;“(B) to the extent allowed under regulations prescribed by the Secretary, any overpayment of the tax imposed by section 4986 (determined without regard to section 4995(a)(4)(B)).”
 
-Subsec. (<i>l</i>). Pub. L. 100–647, §1014(d)(2), substituted “Estates and trusts” for “Trusts and certain estates” in heading and amended text generally. Prior to amendment, text read as follows: “This section shall apply to—
+Subsec. (l). Pub. L. 100–647, §1014(d)(2), substituted “Estates and trusts” for “Trusts and certain estates” in heading and amended text generally. Prior to amendment, text read as follows: “This section shall apply to—
 
 &emsp;“(1) any trust, and
 
 &emsp;“(2) any estate with respect to any taxable year ending 2 or more years after the date of the death of the decedent's death.”
 
-Pub. L. 100–647, §1014(d)(1), made clarifying amendment to directory language of Pub. L. 99–514, §1404(a), to reflect prior redesignation of subsec. (k) as (<i>l</i>) by section 1841 of Pub. L. 99–514, see 1986 Amendment note below.
+Pub. L. 100–647, §1014(d)(1), made clarifying amendment to directory language of Pub. L. 99–514, §1404(a), to reflect prior redesignation of subsec. (k) as (l) by section 1841 of Pub. L. 99–514, see 1986 Amendment note below.
 
 <b>1986</b>—Subsec. (a)(1). Pub. L. 99–514, §1511(c)(14), substituted “the underpayment rate established under section 6621” for “the applicable annual rate established under section 6621”.
 
@@ -487,13 +483,13 @@ Subsec. (j). Pub. L. 99–514, §1841, added subsec. (j). Former subsec. (j) red
 
 Subsec. (j)(3)(B). Pub. L. 99–514, §1541(b)(3), which directed the amendment of the table in subpar. (B) by substituting “45” for “40”, “65.5” for “60”, and “90” for “80”, could not be executed because the higher figures appear in the text as enacted by section 1841 of Pub. L. 99–514.
 
-Subsec. (k). Pub. L. 99–514, §1841, redesignated former subsec. (j) as (k). Former subsec. (k) redesignated (<i>l</i>).
+Subsec. (k). Pub. L. 99–514, §1841, redesignated former subsec. (j) as (k). Former subsec. (k) redesignated (l).
 
-Subsec. (<i>l</i>). Pub. L. 99–514, §1404(a), as amended by Pub. L. 100–647, §1014(d)(1), amended subsec. (<i>l</i>) generally. Prior to amendment, subsec. (<i>l</i>) read as follows: “This section shall not apply to any estate or trust.”
+Subsec. (l). Pub. L. 99–514, §1404(a), as amended by Pub. L. 100–647, §1014(d)(1), amended subsec. (l) generally. Prior to amendment, subsec. (l) read as follows: “This section shall not apply to any estate or trust.”
 
-Pub. L. 99–514, §1841, redesignated subsec. (k) as (<i>l</i>). Former subsec. (<i>l</i>) redesignated (m).
+Pub. L. 99–514, §1841, redesignated subsec. (k) as (l). Former subsec. (l) redesignated (m).
 
-Subsec. (m). Pub. L. 99–514, §1841, redesignated former subsec. (<i>l</i>) as (m).
+Subsec. (m). Pub. L. 99–514, §1841, redesignated former subsec. (l) as (m).
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–369 amended subsec. (a) generally, setting out the exception provision as initial phrase, previously set out as second phrase, substituting “subsection (d)” for “this section”; and substituting “determined by applying—” and provisions designated cls. (1) to (3) for provisions reading “determined at an annual rate established under section 6621 upon the amount of the underpayment (determined under subsection (b)) for the period of the underpayment (determined under subsection (c)))”.
 
@@ -513,7 +509,7 @@ Subsec. (h). Pub. L. 98–369 amended subsec. (h) generally, substituting provis
 
 Subsec. (i). Pub. L. 98–369 amended subsec. (i) generally, substituting provisions relating to special rules for farmers and fishermen for provisions relating to short taxable year. See subsec. (j)(2) of this section.
 
-Subsecs. (j) to (<i>l</i>). Pub. L. 98–369, in amending section generally, added subsecs. (j) to (<i>l</i>).
+Subsecs. (j) to (l). Pub. L. 98–369, in amending section generally, added subsecs. (j) to (l).
 
 <b>1983</b>—Subsec. (e)(1). Pub. L. 98–67 repealed amendments made by Pub. L. 97–248. See 1982 Amendment note below.
 
@@ -545,7 +541,7 @@ Subsecs. (g), (h). Pub. L. 97–34, §§601(a)(6)(A), 725(b), (c)(5), redesignat
 
 <b>1976</b>—Subsec. (g). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (h). Pub. L. 94–455, §1906(a)(35), struck out subsec. (h) which provided that this section shall apply to taxable years beginning after Dec. 31, 1954 and thatsection 294(d) of the Internal Revenue Code of 1939 shall continue in force with respect to taxable years beginning before Jan. 1, 1955.
+Subsec. (h). Pub. L. 94–455, §1906(a)(35), struck out subsec. (h) which provided that this section shall apply to taxable years beginning after Dec. 31, 1954 and that section 294(d) of the Internal Revenue Code of 1939 shall continue in force with respect to taxable years beginning before Jan. 1, 1955.
 
 <b>1975</b>—Subsec. (a). Pub. L. 93–625 substituted “an annual rate established under section 6621” for “the rate of 6 percent per annum”.
 
@@ -571,7 +567,7 @@ Pub. L. 92–336, §203(b)(7)(C), effective with respect to taxable years beginn
 
 Subsec. (b). Pub. L. 89–368, §103(a), substituted “80 percent” for “70 percent” whenever appearing.
 
-Subsec. (d). Pub. L. 89–368, §§102(b)(2), 103(a), inserted requirement that, for purposes of applying the annualization exception, the tax on adjusted self-employment income be included in determining if the net earnings from self-employment for the taxable year equal or exceed $400, inserted definition of “adjusted self-employment income”, inserted a requirement that, for purposes of determining the applicability of the 90 percent exception, the tax on actual self-employment income be included, and substituted “80 percent” for “70 percent” wherever appearing.
+Subsec. (d). Pub. L. 89–368, §§102(b)(2), 103(a), inserted requirement that, for purposes of applying the annualization exception, the tax on adjusted self-employment income be included in determining if the net earnings from self-employment for the taxable year equal or exceed $400, inserted definition of “adjusted self-employment income”, inserted a requirement that, for purposes of determining the applicability of the 90 percent exception, the tax on actual self-employment incomebe included, and substituted “80 percent” for “70 percent” wherever appearing.
 
 Subsec. (f). Pub. L. 89–368, §102(b)(3), inserted tax imposed by chapter 2 to definition of “tax”.
 
@@ -593,21 +589,21 @@ Pub. L. 105–277, div. J, title II, §2003(b), Oct. 21, 1998, 112 Stat. 2681–
 
 #### Effective Date of 1997 Amendment
 
-Section 1091(b) of Pub. L. 105–34 provided that: “The amendment made by this section \[amending this section\] shall apply with respect to any installment payment for taxable years beginning after December 31, 1997.”
+Pub. L. 105–34, title X, §1091(b), Aug. 5, 1997, 111 Stat. 962, provided that: “The amendment made by this section \[amending this section\] shall apply with respect to any installment payment for taxable years beginning after December 31, 1997.”
 
-Section 1202(b) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1997.”
+Pub. L. 105–34, title XII, §1202(b), Aug. 5, 1997, 111 Stat. 994, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1997.”
 
 #### Effective Date of 1994 Amendment
 
-Section 711(c) of Pub. L. 103–465 provided that: “The amendments made by this section \[amending this section and section 6655 of this title\] shall apply for purposes of determining underpayments of estimated tax for taxable years beginning after December 31, 1994.”
+Pub. L. 103–465, title VII, §711(c), Dec. 8, 1994, 108 Stat. 4999, provided that: “The amendments made by this section \[amending this section and section 6655 of this title\] shall apply for purposes of determining underpayments of estimated tax for taxable years beginning after December 31, 1994.”
 
 #### Effective Date of 1993 Amendment
 
-Section 13214(c) of Pub. L. 103–66 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1993.”
+Pub. L. 103–66, title XIII, §13214(c), Aug. 10, 1993, 107 Stat. 475, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1993.”
 
 #### Effective Date of 1991 Amendment
 
-Section 403(c) of Pub. L. 102–164 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1991.”
+Pub. L. 102–164, title IV, §403(c), Nov. 15, 1991, 105 Stat. 1064, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1991.”
 
 #### Effective Date of 1989 Amendment
 
@@ -629,13 +625,13 @@ Amendment by section 1404(a) of Pub. L. 99–514 applicable to taxable years beg
 
 Amendment by section 1511(c)(14) of Pub. L. 99–514 applicable for purposes of determining interest for periods after Dec. 31, 1986, see section 1511(d) of Pub. L. 99–514, set out as a note under section 47 of this title.
 
-Section 1541(c) of Pub. L. 99–514 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1986.” \[See section 10303(a) of Pub. L. 100–203, set out above.\]
+Pub. L. 99–514, title XV, §1541(c), Oct. 22, 1986, 100 Stat. 2751, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1986.” \[See section 10303(a) of Pub. L. 100–203, set out above.\]
 
 Amendment by section 1841 of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date of 1984 Amendment
 
-Section 414(a) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–369, div. A, title IV, §414(a), July 18, 1984, 98 Stat. 793, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 
@@ -657,11 +653,11 @@ Amendment by title II of Pub. L. 97–448 effective, except as otherwise provide
 
 Amendment by section 201(d)(7) of Pub. L. 97–248 applicable to taxable years beginning after Dec. 31, 1982, see section 201(e)(1) of Pub. L. 97–248, set out as a note under section 5 of this title.
 
-Section 328(c) of Pub. L. 97–248 provided that: “The amendments made by this section \[amending this section and sections 6015, 6073, and 6153 of this title\] shall apply to taxable years beginning after December 31, 1982.”
+Pub. L. 97–248, title III, §328(c), Sept. 3, 1982, 96 Stat. 618, provided that: “The amendments made by this section \[amending this section and sections 6015, 6073, and 6153 of this title\] shall apply to taxable years beginning after December 31, 1982.”
 
 #### Effective Date of 1981 Amendment
 
-Section 601(c)(1), (2) of Pub. L. 97–34 provided that:
+Pub. L. 97–34, title VI, §601(c)(1), (2), Aug. 13, 1981, 95 Stat. 337, provided that:
 
 “(1) Except as provided in paragraph (2), subsection (a) \[amending this section and sections 6429 and 6655 of this title\] shall take effect on January 1, 1981.
 
@@ -705,19 +701,19 @@ Amendment by Pub. L. 91–172 applicable to taxable years ending after Dec. 31, 
 
 #### Effective Date of 1966 Amendment
 
-Section 102(d) of Pub. L. 89–368 provided that: “The amendments made by subsections (a) amending section 6015 of this title\], (b) \[amending this section and sections 1403, 6211, and 7701 of this title\], and (c) \[amending section 1402 of this title\] shall apply with respect to taxable years beginning after December 31, 1966.”
+Pub. L. 89–368, title I, §102(d), Mar. 15, 1966, 80 Stat. 64, provided that: “The amendments made by subsections (a) amending section 6015 of this title\], (b) \[amending this section and sections 1403, 6211, and 7701 of this title\], and (c) \[amending section 1402 of this title\] shall apply with respect to taxable years beginning after December 31, 1966.”
 
-Section 103(b) of Pub. L. 89–368 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1966.”
+Pub. L. 89–368, title I, §103(b), Mar. 15, 1966, 80 Stat. 64, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1966.”
 
 #### Effective Date of 1962 Amendment
 
-Section 2 of Pub. L. 87–682 provided that: “The amendments made by the first section of this Act \[amending this section and sections 6015, 6073, and 6153 of this title\] shall apply only with respect to taxable years beginning after December 31, 1962.”
+Pub. L. 87–682, §2, Sept. 25, 1962, 76 Stat. 575, provided that: “The amendments made by the first section of this Act \[amending this section and sections 6015, 6073, and 6153 of this title\] shall apply only with respect to taxable years beginning after December 31, 1962.”
 
 #### Waiver of Estimated Tax Penalties for 1998 Underpayments
 
 Pub. L. 105–206, §1(c), July 22, 1998, 112 Stat. 685, provided that: “No addition to tax shall be made under section 6654 or 6655 of the Internal Revenue Code of 1986 with respect to any underpayment of an installment required to be paid on or before the 30th day after the date of the enactment of this Act \[July 22, 1998\] to the extent such underpayment was created or increased by any provision of this Act \[see Tables for classification\].”
 
-Section 1(d) of Pub. L. 105–34 provided that: “No addition to tax shall be made under section 6654 or 6655 of the Internal Revenue Code of 1986 for any period beforeJanuary 1, 1998, for any payment the due date of which is before January 16, 1998, with respect to any underpayment attributable to such period to the extent such underpayment was created or increased by any provision of this Act \[see Tables for classification\].”
+Pub. L. 105–34, §1(d), Aug. 5, 1997, 111 Stat. 788, provided that: “No addition to tax shall be made under section 6654 or 6655 of the Internal Revenue Code of 1986 for any period before January 1, 1998, for any payment the due date of which is before January 16, 1998, with respect to any underpayment attributable to such period to the extent such underpayment was created or increased by any provision of this Act \[see Tables for classification\].”
 
 #### Underpayments of Estimated Tax for 1996
 
@@ -725,15 +721,15 @@ Pub. L. 104–188, title I, §1102, Aug. 20, 1996, 110 Stat. 1758, provided that
 
 #### Waiver of Estimated Penalties for 1993 Underpayments Attributable to Revenue Reconciliation Act of 1993
 
-Section 13001(d) of Pub. L. 103–66 provided that: “No addition to tax shall be made under section 6654 or 6655 of the Internal Revenue Code of 1986 for any period before April 16, 1994 (March 16, 1994, in the case of a corporation), with respect to any underpayment to the extent such underpayment was created or increased by any provision of this chapter \[chapter 1 (§§13001–13444) of title XIII of Pub. L. 103–66, see Tables for classification\].”
+Pub. L. 103–66, title XIII, §13001(d), Aug. 10, 1993, 107 Stat. 416, provided that: “No addition to tax shall be made under section 6654 or 6655 of the Internal Revenue Code of 1986 for any period before April 16, 1994 (March 16, 1994, in the case of a corporation), with respect to any underpayment to the extent such underpayment was created or increased by any provision of this chapter \[chapter 1 (§§13001–13444) of title XIII of Pub. L. 103–66, see Tables for classification\].”
 
 #### Waiver of Estimated Tax Penalties for Underpayments Attributable to Section 420(b)(4)(B) of This Title
 
-No addition to tax to be made under this section for taxable year preceding taxpayer's first taxable year beginning after Dec. 31, 1990, with respect to any underpayment to the extent such underpayment was created or increased by reason of section 420(b)(4)(B) of this title, see section 12011(c)(2) of Pub. L. 101–508, set out as an Effective Date note under section 420 of this title.
+No addition to tax to be made under this section for taxable year preceding taxpayer's first taxable year beginning after Dec. 31, 1990, with respect to any underpayment to the extent such underpayment was created or increased by reason of former section 420(b)(4)(B) of this title, see section 12011(c)(2) of Pub. L. 101–508, set out as an Effective Date note under section 420 of this title.
 
 #### Waiver of Estimated Penalties for 1988 Underpayments Attributable to Technical and Miscellaneous Revenue Act of 1988
 
-No addition to tax to be made under this section for any period before Apr. 16, 1989, with respect to any underpayment to the extent that such underpayment was created or increased by any provision of title I (§§1001–1019) or II (§§2001–2006) of Pub. L. 100–647, see section 1019(b) of Pub. L. 100–647, set out as an Effective Date of 1988 Amendment note under section 1 of this title.
+No addition to tax to be made under this section for any period before Apr. 16, 1989, with respect to anyunderpayment to the extent that such underpayment was created or increased by any provision of title I (§§1001–1019) or II (§§2001–2006) of Pub. L. 100–647, see section 1019(b) of Pub. L. 100–647, set out as an Effective Date of 1988 Amendment note under section 1 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 
@@ -741,7 +737,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Waiver of Estimated Penalties for 1986 Underpayments Attributable to Tax Reform Act of 1986
 
-Section 1543 of Pub. L. 99–514 provided that: “No addition to tax shall be made under section 6654 or 6655 of the Internal Revenue Code of 1986 (relating to failure to pay estimated tax) for any period before April 16, 1987 (March 16, 1987, in the case of a taxpayer subject to section 6655 of such Code), with respect to any underpayment, to the extent such underpayment was created or increased by any provision of this Act \[Pub. L. 99–514, see Tables for classification\].”
+Pub. L. 99–514, title XV, §1543, Oct. 22, 1986, 100 Stat. 2751, provided that: “No addition to tax shall be made under section 6654 or 6655 of the Internal Revenue Code of 1986 (relating to failure to pay estimated tax) for any period before April 16, 1987 (March 16, 1987, in the case of a taxpayer subject to section 6655 of such Code), with respect to any underpayment, to the extent such underpayment was created or increased by any provision of this Act \[Pub. L. 99–514, see Tables for classification\].”
 
 #### Waiver of Estimated Tax Penalties
 
@@ -753,7 +749,7 @@ For purposes of determining the amount of any addition to tax under this section
 
 #### Estimated Tax Underpayments Created or Increased by Tax Reform Act of 1976
 
-Section 303 of Pub. L. 95–30, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “No addition to the tax shall be made under section 6654 or 6655 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to failure to pay estimated income tax) for any period before April 16, 1977 (March 16, 1977, in the case of a taxpayer subject to section 6655), with respect to any underpayment, to the extent that such underpayment was created or increased by any provision of the Tax Reform Act of 1976 \[Pub. L. 94–455\].”
+Pub. L. 95–30, title III, §303, May 23, 1977, 91 Stat. 152, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “No addition to the tax shall be made under section 6654 or 6655 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to failure to pay estimated income tax) for any period before April 16, 1977 (March 16, 1977, in the case of a taxpayer subject to section 6655), with respect to any underpayment, to the extent that such underpayment was created or increased by any provision of the Tax Reform Act of 1976 \[Pub. L. 94–455\].”
 
 #### Waiver of Penalty for Underpayment of 1971 Estimated Income Tax
 
@@ -765,5 +761,7 @@ With respect to taxable years beginning before Dec. 30, 1969, if a taxpayer is r
 
 #### Tax Surcharge Extension; Declarations of Estimated Tax
 
-Requirement of making a declaration or amended declaration or amended declaration of estimated tax or of payment of any amount or additional amount of estimated tax by reason of amendment of sections 51(a)(1)(A), (B), (2)(A) and 963(b) of this title as calling for payment of such amount or additional amount ratably on or before each of remaining installment dates for taxable year beginning with first installment date on or after the 30th day after Aug. 7, 1969; applicationof this section without regard to such amendment with respect to any declaration or payment of estimated tax before such first installment date; and definition of “installment date”, see Pub. L. 91–53, §5(c), Aug. 7, 1969, 83 Stat. 95.
+Requirement of making a declaration or amended declaration or amended declaration of estimated tax or of payment of any amount or additional amount of estimated tax by reason of amendment of sections 51(a)(1)(A), (B), (2)(A) and 963(b) of this title as calling for payment of such amount or additional amount ratably on or before each of remaining installment dates for taxable year beginning with first installment date on or after the 30th day after Aug. 7, 1969; application of this section without regard to such amendment with respect to any declaration or payment of estimated tax before such first installment date; and definition of “installment date”, see Pub. L. 91–53, §5(c), Aug. 7, 1969, 83 Stat. 95.
+
+<i><sup>1</sup></i><i> So in original. A comma probably should appear.</i>
 

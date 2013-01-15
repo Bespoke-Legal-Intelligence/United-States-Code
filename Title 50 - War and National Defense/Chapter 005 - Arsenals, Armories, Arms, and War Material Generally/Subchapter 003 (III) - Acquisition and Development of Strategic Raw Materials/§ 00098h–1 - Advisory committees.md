@@ -52,7 +52,7 @@ Advisory committees established after Jan. 5, 1973, to terminate not later than 
 
 #### Advisory Committee Regarding Operation and Modernization of Stockpile
 
-Section 3306 of Pub. L. 102–484 provided that:
+Pub. L. 102–484, div. C, title XXXIII, §3306, Oct. 23, 1992, 106 Stat. 2652, provided that:
 
 “(a)
 

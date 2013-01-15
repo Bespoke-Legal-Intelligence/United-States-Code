@@ -46,7 +46,7 @@ Not later than March 31 of each year, the Bank shall submit to the Committee on 
 
 &emsp;(3) the specific measures the Bank will take in the upcoming year to achieve the small business objectives of the Bank, including expanded outreach, product improvements, and related actions;
 
-&emsp;(4) the progress made by the Bank in supporting exports by socially and economically disadvantaged small business concerns (defined in section 637(a)(4) of title 15) and smallbusiness concerns (as defined in section 632(a) of title 15) owned by women, including estimates of the amounts made available to finance exports directly by such small business concerns, a comparison of these amounts with the amounts made available to all small business concerns, and a comparison of such amounts with the amounts so made available during the 2 preceding years;
+&emsp;(4) the progress made by the Bank in supporting exports by socially and economically disadvantaged small business concerns (defined in section 637(a)(4) of title 15) and small business concerns (as defined in section 632(a) of title 15) owned by women, including estimates of the amounts made available to finance exports directly by such small businessconcerns, a comparison of these amounts with the amounts made available to all small business concerns, and a comparison of such amounts with the amounts so made available during the 2 preceding years;
 
 &emsp;(5) with respect to each type of transaction, the interest and fees charged by the Bank to exporters (including a description of fees and interest, if any, charged to small business concerns), buyers, and other applicants in connection with each financing program of the Bank, and the highest, lowest, and average fees charged by the Bank for short term insurance transactions;
 
@@ -62,13 +62,95 @@ Not later than March 31 of each year, the Bank shall submit to the Committee on 
 
 &emsp;&emsp;(ii) what the Bank is doing to achieve, and the date by which the Bank expects to have achieved, such compliance.
 
-(July 31, 1945, ch. 341, §8, formerly §9, 59 Stat. 529; Pub. L. 90–267, §1(a), Mar. 13, 1968, 82 Stat. 47; Pub. L. 93–646, §10, Jan. 4, 1975, 88 Stat. 2336; Pub. L. 95–630, title XIX, §1907(b), Nov. 10, 1978, 92 Stat. 3725; Pub. L. 98–181, title VI, §§618(b), 623, Nov. 30, 1983, 97 Stat. 1259, 1262; Pub. L. 99–472, §20(b), (c), Oct. 15, 1986, 100 Stat. 1209, 1210; renumbered §8, Pub. L. 102–429, title I, §121(c)(2), Oct. 21, 1992, 106 Stat. 2199; Pub. L. 106–569, title XI, §1104(a)(4), Dec. 27, 2000, 114 Stat. 3032; Pub. L. 107–189, §12, June 14, 2002, 116 Stat. 704; Pub. L. 109–438, §20, Dec. 20, 2006, 120 Stat. 3282.)
+#### (g) Monitoring of default rates on bank financing; reports on default rates; safety and soundness review
+
+#### (1) Monitoring of default rates
+
+&emsp;Not less frequently than quarterly, the Bank shall calculate the rate at which the entities to which the Bank has provided short-, medium-, or long-term financing are in default on a payment obligation under the financing, by dividing the total amount of the required payments that are overdue by the total amount of the financing involved.
+
+#### (2) Additional calculation by type of product, by key market, and by industry sector; report to Congress
+
+&emsp;In addition, the Bank shall, not less frequently than quarterly—
+
+&emsp;&emsp;(A) calculate the rate of default—
+
+&emsp;&emsp;&emsp;(i) with respect to whether the products involved are short-term loans, medium-term loans, long-term loans, insurance, medium-term guarantees, or long-term guarantees;
+
+&emsp;&emsp;&emsp;(ii) with respect to each key market involved; and
+
+&emsp;&emsp;&emsp;(iii) with respect to each industry sector involved; and
+
+&emsp;&emsp;(B) submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report on each such rate and any information the Bank deems relevant.
+
+#### (3) Report on causes of default rate; plan to reduce default rate
+
+&emsp;Within 45 days after a rate calculated under paragraph (1) equals or exceeds 2 percent, the Bank shall submit to the Congress a written report that explains the circumstances that have caused the default rate to be at least 2 percent, and includes a plan to reduce the default rate to less than 2 percent.
+
+#### (4) Plan contents
+
+&emsp;The plan referred to in paragraph (3) shall—
+
+&emsp;&emsp;(A) provide a detailed explanation of the processes and controls by which the Bank monitors and tracks outstanding loans;
+
+&emsp;&emsp;(B) detail specific planned actions, including a time frame for completing the actions, to reduce the default rate described in paragraph (1) to less than 2 percent.
+
+#### (5) Monthly reports required while default rate is at least 2 percent
+
+&emsp;For so long as the default rate calculated under paragraph (1) is at least 2 percent, the Bank shall submit monthly reports to the Congress describing the specific actions taken during such period to reduce the default rate.
+
+#### (6) Safety and soundness review
+
+&emsp;If the default rate calculated under paragraph (1) remains above 2 percent for a period of 6 months, the Secretary of the Treasury shall provide for an independent third party to—
+
+&emsp;&emsp;(A) conduct a review of the loan programs and funds of the Bank, which shall determine—
+
+&emsp;&emsp;&emsp;(i) the financial safety and soundness of the programs and funds; and
+
+&emsp;&emsp;&emsp;(ii) the extent of loan loss reserves and capital adequacy of the programs and funds; and
+
+&emsp;&emsp;(B) submit to the Secretary, within 60 days after the end of the 6-month period, a report that—
+
+&emsp;&emsp;&emsp;(i) describes the methodology and standards used to conduct the review required by subparagraph (A);
+
+&emsp;&emsp;&emsp;(ii) sets forth the results and findings of the review, including the extent of loan loss reserves and capital adequacy of the programs and funds of the Bank; and
+
+&emsp;&emsp;&emsp;(iii) includes recommendations regarding restoring the reserves and capital to maintain the programs and funds in a safe and sound condition.
+
+#### (h) Categorization of purpose of loans and long-term guarantees
+
+In the annual report of the Bank under subsection (a), the Bank shall categorize each loan and long-term guarantee made by the Bank in the fiscal year covered by the report, and according to the following purposes:
+
+&emsp;(1) “To assume commercial or political risk that exporter or private financial institutions are unwilling or unable to undertake”.
+
+&emsp;(2) “To overcome maturity or other limitations in private sector export financing”.
+
+&emsp;(3) “To meet competition from a foreign, officially sponsored, export credit competition”.
+
+&emsp;(4) “Not identified”, and the reason why the purpose is not identified.
+
+#### (i) Access to Bank products by the textile industry
+
+The Bank shall include in its annual report to the Congress under subsection (a) of this sectiona report on the determinations made by the Advisory Committee under section 635a(d)(5) of this title in the year covered by the report.
+
+#### (j) Textile and apparel supply chain financing
+
+The Bank shall include in its annual report to the Congress under subsection (a) of this section a description of the success of the Bank in providing effective and reasonably priced financing to the United States textile and apparel industry for exports of goods manufactured in the United States that are used as components in global textile and apparel supply chains in the year covered by the report, and steps the Bank has taken to increase the use of Bank products by such firms.
+
+(July 31, 1945, ch. 341, §8, formerly §9, 59 Stat. 529; Pub. L. 90–267, §1(a), Mar. 13, 1968, 82 Stat. 47; Pub. L. 93–646, §10, Jan. 4, 1975, 88 Stat. 2336; Pub. L. 95–630, title XIX, §1907(b), Nov. 10, 1978, 92 Stat. 3725; Pub. L. 98–181, title I \[title VI, §§618(b), 623\], Nov. 30, 1983, 97 Stat. 1259, 1262; Pub. L. 99–472, §20(b), (c), Oct. 15, 1986, 100 Stat. 1209, 1210; renumbered §8, Pub. L. 102–429, title I, §121(c)(2), Oct. 21, 1992, 106 Stat. 2199; Pub. L. 106–569, title XI, §1104(a)(4), Dec. 27, 2000, 114 Stat. 3032; Pub. L. 107–189, §12, June 14, 2002, 116 Stat. 704; Pub. L. 109–438, §20, Dec. 20, 2006, 120 Stat. 3282; Pub. L. 112–122, §§6, 10, 20(b)(2), 21(c), May 30, 2012, 126 Stat. 353, 356, 362, 363.)
 
 #### Prior Provisions
 
 A prior section 8 of act July 31, 1945, ch. 341, was renumbered section 7 and is classified to section 635f of this title.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (g). Pub. L. 112–122, §6, added subsec. (g).
+
+Subsec. (h). Pub. L. 112–122, §10, added subsec. (h).
+
+Subsec. (i). Pub. L. 112–122, §20(b)(2), added subsec. (i).
+
+Subsec. (j). Pub. L. 112–122, §21(c), added subsec. (j).
 
 <b>2006</b>—Subsec. (f). Pub. L. 109–438 added subsec. (f).
 
@@ -102,7 +184,7 @@ Committee on Small Business of Senate changed to Committee on Small Business and
 
 #### Termination Date of 1986 Amendment
 
-Section 20(c) of Pub. L. 99–472 provided that: “Effective March 2, 1988, the amendment made by subsection (b) \[amending this section\] is repealed.”
+Pub. L. 99–472, §20(c), Oct. 15, 1986, 100 Stat. 1210, provided that: “Effective March 2, 1988, the amendment made by subsection (b) \[amending this section\] is repealed.”
 
 #### Effective Date of 1978 Amendment
 
@@ -124,5 +206,5 @@ Pub. L. 101–167, title V, §534(d), Nov. 21, 1989, 103 Stat. 1231, provided th
 
 #### Submission of Annual Report
 
-Pub. L. 89–348, §2(9), Nov. 8, 1965, 79 Stat. 1312, modified requirement relating to submission of reports toCongress by providing for annual reports instead of semiannual reports.
+Pub. L. 89–348, §2(9), Nov. 8, 1965, 79 Stat. 1312, modified requirement relating to submission of reports to Congress by providing for annual reports instead of semiannual reports.
 

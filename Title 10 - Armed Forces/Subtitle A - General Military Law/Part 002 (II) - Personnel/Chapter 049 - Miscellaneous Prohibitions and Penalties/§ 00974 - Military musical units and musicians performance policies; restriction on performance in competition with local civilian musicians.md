@@ -66,7 +66,7 @@ Performances at Foreign Locations.—Subsection (a) does not apply to a performa
 
 Military Musical Unit Defined.—In this section, the term “military musical unit” means a band, ensemble, chorus, or similar musical unit of the armed forces.
 
-(Added Pub. L. 110–181, div. A, title V, §590(a)(1), Jan. 28, 2008, 122 Stat. 136; amended Pub. L. 111–84, div. A, title V, §591(a), Oct. 28, 2009, 123 Stat. 2335.)
+(Added Pub. L. 110–181, div. A, title V, §590(a)(1), Jan. 28, 2008, 122 Stat. 136; amended Pub. L.111–84, div. A, title V, §591(a), Oct. 28, 2009, 123 Stat. 2335.)
 
 #### Prior Provisions
 

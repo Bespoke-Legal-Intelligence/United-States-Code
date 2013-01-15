@@ -34,13 +34,33 @@
 
 (3) The Secretary shall establish a residential home cost-of-construction index for the purposes of this subsection. The index shall reflect a uniform, national average change in the cost of residential home construction, determined on a calendar year basis. The Secretary may use an index developed in the private sector that the Secretary determines is appropriate for purposes of this subsection.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1168, §802; Pub. L. 91–22, §2, June 6, 1969, 83 Stat. 32; Pub. L. 91–506, §6, Oct. 23, 1970, 84 Stat. 1113; Pub. L. 92–341, July 10, 1972, 86 Stat. 432; Pub. L. 93–569, §9, Dec. 31, 1974, 88 Stat. 1867; Pub. L. 95–476, title I, §101, Oct. 18, 1978, 92 Stat. 1497; Pub. L. 96–385, title III, §301(b), Oct. 7, 1980, 94 Stat. 1531; Pub. L. 97–66, title V, §502, Oct. 17, 1981, 95 Stat. 1032; Pub. L. 97–295, §4(33), Oct. 12, 1982, 96 Stat. 1307; Pub. L. 98–543, title III, §304(a), Oct. 24, 1984, 98 Stat. 2748; Pub. L. 99–576, title IV, §401(b), Oct. 28, 1986, 100 Stat. 3280; Pub. L. 100–322, title III, §301, May 20, 1988, 102 Stat. 534; renumbered §2102 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 105–178, title VIII, §8204(a), June 9, 1998, 112 Stat. 494; Pub. L. 106–419, title III, §321, Nov. 1, 2000, 114 Stat. 1855; Pub. L. 107–103, title IV, §404, Dec. 27, 2001, 115 Stat. 993; Pub. L. 108–183, title IV, §402(a), Dec. 16, 2003, 117 Stat. 2664; Pub. L. 109–233, title I, §101(b), June 15, 2006, 120 Stat. 398; Pub. L. 110–289, div. B, title VI, §§2602(b)(2), 2605(a), July 30, 2008, 122 Stat. 2859, 2861.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1168, §802; Pub. L. 91–22, §2, June 6, 1969, 83 Stat. 32; Pub. L. 91–506, §6, Oct. 23, 1970, 84 Stat. 1113; Pub. L. 92–341, July 10, 1972, 86 Stat. 432; Pub. L. 93–569, §9, Dec. 31, 1974, 88 Stat. 1867; Pub. L. 95–476, title I, §101, Oct. 18, 1978, 92 Stat. 1497; Pub. L. 96–385, title III, §301(b), Oct. 7, 1980, 94 Stat. 1531; Pub. L. 97–66, title V, §502, Oct. 17, 1981, 95 Stat. 1032; Pub. L. 97–295, §4(33), Oct. 12, 1982, 96 Stat. 1307; Pub. L. 98–543, title III, §304(a), Oct. 24, 1984, 98 Stat. 2748; Pub. L. 99–576, title IV, §401(b), Oct. 28, 1986, 100 Stat. 3280; Pub. L. 100–322, title III, §301, May 20, 1988, 102 Stat. 534; renumbered §2102 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 105–178, title VIII, §8204(a), June 9, 1998, 112 Stat. 494; Pub. L. 106–419, title III, §321, Nov. 1, 2000, 114 Stat. 1855; Pub. L. 107–103, title IV, §404, Dec. 27, 2001, 115 Stat. 993; Pub. L. 108–183, title IV, §402(a), Dec. 16, 2003, 117 Stat. 2664; Pub. L. 109–233, title I, §101(b), June 15, 2006, 120 Stat. 398; Pub. L. 110–289, div. B, title VI, §§2602(b)(2), 2605(a), July 30, 2008, 122 Stat. 2859, 2861; Pub. L. 112–154, title II, §204(a), Aug. 6, 2012, 126 Stat. 1177.)
+
+#### Amendment of Subsection (d)
+
+<i>Pub. L. 112–154, title II, §204(a), (b), Aug. 6, 2012, 126 Stat. 1177, provided that, effective one year after Aug. 6, 2012, and applicable to assistance provided under sections 2101(a), 2101(b), and 2102A of this title after that date, subsection (d) of this section is amended to read as follows:</i>
+
+<i>(d)(1) The aggregate amount of assistance available to an individual under section 2101(a) of this title shall be limited to $63,780.</i>
+
+<i>(2) The aggregate amount of assistance available to an individual under section 2101(b) of this title shall be limited to $12,756.</i>
+
+<i>(3) No veteran may receive more than three grants of assistance under this chapter.</i>
+
+<i>See 2012 Amendment note below.</i>
 
 #### Prior Provisions
 
 Prior section 2102, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1223, related to determination of amount of mustering-out payments, prior to repeal by Pub. L. 89–50, §1(a), June 24, 1965, 79 Stat. 173, effective July 1, 1966.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (d). Pub. L. 112–154 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
+
+“(d)(1) The aggregate amount of assistance available to an individual under sections 2101(a) and 2102A of this title shall be limited to $60,000.
+
+“(2) The aggregate amount of assistance available to an individual under sections 2101(b) and 2102A of this title shall be limited to $12,000.
+
+“(3) No veteran may receive more than three grants of assistance under this chapter.”
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–289, §2602(b)(2)(A)(i), substituted “individual” for “veteran” wherever appearing.
 
@@ -118,6 +138,10 @@ Subsec. (b). Pub. L. 96–385, §301(b)(3), added subsec. (b).
 
 <b>1969</b>—Pub. L. 91–22 substituted “$12,500” for “$10,000”.
 
+#### Effective Date of 2012 Amendment
+
+Pub. L. 112–154, title II, §204(b), Aug. 6, 2012, 126 Stat. 1177, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the date that is one year after the date of the enactment of this Act \[Aug. 6, 2012\] and shall apply with respect to assistance provided under sections 2101(a), 2101(b), and 2102A of title 38, United States Code, after such date.”
+
 #### Effective Date of 2008 Amendment
 
 Pub. L. 110–289, div. B, title VI, §2605(b), July 30, 2008, 122 Stat. 2861, provided that: “The amendments made by this section \[amending this section\] shall take effect on July 1, 2008, and shall apply with respect to payments made in accordance with section 2102 of title 38, United States Code, on or after that date.”
@@ -132,11 +156,11 @@ Pub. L. 105–178, title VIII, §8204(b), June 9, 1998, 112 Stat. 494, provided 
 
 #### Effective Date of 1988 Amendment
 
-Section 304 of Pub. L. 100–322 provided that: “The amendments made by sections 301, 302, and 303 \[amending this section and sections 907 and 1902 \[now 2307 and 3902\] of this title\] shall take effect on April 1, 1988.”
+Pub. L. 100–322, title III, §304, May 20, 1988, 102 Stat. 534, provided that: “The amendments made by sections 301, 302, and 303 \[amending this section and sections 907 and 1902 \[now 2307 and 3902\] of this title\] shall take effect on April 1, 1988.”
 
 #### Effective Date of 1984 Amendment
 
-Section 304(b) of Pub. L. 98–543 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on January 1, 1985.”
+Pub. L. 98–543, title III, §304(b), Oct. 24, 1984, 98 Stat. 2748, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on January 1, 1985.”
 
 #### Effective Date of 1981 Amendment
 
@@ -153,4 +177,8 @@ Amendment by Pub. L. 95–476 effective Oct. 1, 1978, see section 108(a) of Pub.
 #### Effective Date of 1974 Amendment
 
 Amendment by Pub. L. 93–569 effective Dec. 31, 1974, see section 10 of Pub. L. 93–569, set out as a note under section 3702 of this title.
+
+#### Maintenance of Higher Rates
+
+Pub. L. 112–154, title II, §204(c), Aug. 6, 2012, 126 Stat. 1177, provided that: “The amendment made by subsection (a) \[amending this section\] shall not be construed to decrease the aggregate amount of assistance available to an individual under the sections described in subsection (b) \[set out as an Effective Date of 2012 Amendment note above\], as most recently increased by the Secretary pursuant to section 2102(e) of such title \[38 U.S.C. 2102(e)\].”
 

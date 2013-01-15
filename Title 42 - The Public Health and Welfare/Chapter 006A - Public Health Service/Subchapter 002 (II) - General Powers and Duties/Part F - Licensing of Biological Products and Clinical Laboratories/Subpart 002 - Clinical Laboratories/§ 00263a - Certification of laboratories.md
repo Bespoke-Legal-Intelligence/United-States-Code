@@ -50,7 +50,7 @@ No person may solicit or accept materials derived from the human body for labora
 
 &emsp;&emsp;(D) the laboratory agrees to make records available and submit reports to the Secretary as the Secretary may reasonably require, and
 
-&emsp;&emsp;(E) the laboratory agrees to treat proficiency testing samples in the same manner as it treats materials derived from the human body referred to it for laboratory examinations or other procedures in the ordinary course of business.
+&emsp;&emsp;(E) the laboratory agrees to treat proficiency testing samples in the same manner as it treats materials derived from the human body referred to it for laboratory examinations or other procedures in the ordinary course of business, except that no proficiency testing sample shall be referred to another laboratory for analysis as prohibited under subsection (i)(4).
 
 #### (2) Requirements for certificates of waiver
 
@@ -176,7 +176,7 @@ No person may solicit or accept materials derived from the human body for labora
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall establish standards for the proficiency testing programs for laboratories issued a certificate under this section which are conducted by the Secretary, conducted by an organization approved under subparagraph (C), or conducted by an approved accrediting body. The standards shall require that a laboratory issued a certificate under this section be tested for each examination and procedure conducted within a category of examinations or procedures for which it has received a certificate, except for examinations and procedures for which the Secretary has determined that a proficiency test cannot reasonably be developed. The testing shall be conducted on a quarterly basis, except where the Secretary determines for technical and scientific reasons that a particular examination or procedure may be tested less frequently (but not less often than twice per year).
+&emsp;&emsp;The Secretary shall establish standards for the proficiency testing programs for laboratories issued a certificate under this section which are conducted by the Secretary, conducted by an organization approved under subparagraph (C), or conducted by an approved accrediting body. The standards shall require that a laboratory issued a certificateunder this section be tested for each examination and procedure conducted within a category of examinations or procedures for which it has received a certificate, except for examinations and procedures for which the Secretary has determined that a proficiency test cannot reasonably be developed. The testing shall be conducted on a quarterly basis, except where the Secretary determines for technical and scientific reasons that a particular examination or procedure may be tested less frequently (but not less often than twice per year).
 
 #### (B) Criteria
 
@@ -228,7 +228,7 @@ No person may solicit or accept materials derived from the human body for labora
 
 &emsp;&emsp;&emsp;(vii) requirements for the retention of cytology slides by laboratories for such periods of time as the Secretary considers appropriate, and
 
-&emsp;&emsp;&emsp;(viii) standards requiring periodic inspection of cytology services by personscapable of evaluating the quality of cytology services.
+&emsp;&emsp;&emsp;(viii) standards requiring periodic inspection of cytology services by persons capable of evaluating the quality of cytology services.
 
 #### (g) Inspections
 
@@ -300,11 +300,11 @@ No person may solicit or accept materials derived from the human body for labora
 
 #### (3) Ineligibility to own or operate laboratories after revocation
 
-&emsp;No person who has owned or operated a laboratory which has had its certificate revoked may, within 2 years of the revocation of the certificate, own or operate a laboratory for which a certificate has been issued under this section. The certificate of a laboratory which has been excluded from participation under the medicare program under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] because of actions relating to the quality of the laboratory shall be suspended for the period the laboratory is so excluded.
+&emsp;No person who has owned or operated a laboratory which has had its certificate revoked may, within 2 years of the revocation of the certificate, own or operate a laboratory for which a certificate has been issued under this section, except that if the revocation occurs pursuant to paragraph (4) the Secretary may substitute intermediate sanctions under subsection (h) instead of the 2-year prohibition against ownership or operation which would otherwise apply under this paragraph. The certificate of a laboratory which has been excluded from participation under the medicare program under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] because of actions relating to the quality of the laboratory shall be suspended for the period the laboratory is so excluded.
 
 #### (4) Improper referrals
 
-&emsp;Any laboratory that the Secretary determines intentionally refers its proficiency testing samples to another laboratory for analysis shall have its certificate revoked for at least one year and shall be subject to appropriate fines and penalties as provided for in subsection (h) of this section.
+&emsp;Any laboratory that the Secretary determines intentionally refers its proficiency testing samples to another laboratory for analysis may have its certificate revoked for at least one year and shall be subject to appropriate fines and penalties as provided for in subsection (h) of this section.
 
 #### (j) Injunctions
 
@@ -328,7 +328,7 @@ Whenever the Secretary has reason to believe that continuation of any activity b
 
 &emsp;The judgment of the court affirming or setting aside, in whole or in part, any such action of the Secretary shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28.
 
-#### (<i>l</i>) Sanctions
+#### (l) Sanctions
 
 Any person who intentionally violates any requirement of this section or any regulation promulgated thereunder shall be imprisoned for not more than one year or fined under title 18, or both, except that if the conviction is for a second or subsequent violation of such a requirement such person shall be imprisoned for not more than 3 years or fined in accordance with title 18, or both.
 
@@ -366,7 +366,7 @@ On April 1, 1990 and annually thereafter, the Secretary shall compile and make a
 
 &emsp;&emsp;(A) which have had their certificates revoked, suspended, or limited under subsection (i) of this section, or
 
-&emsp;&emsp;(B) which have been the subject of a sanction under subsection (<i>l</i>) of this section,
+&emsp;&emsp;(B) which have been the subject of a sanction under subsection (l) of this section,
 
 > &emsp;together with a statement of the reasons for the revocation, suspension, limitation, or sanction,
 
@@ -380,7 +380,7 @@ On April 1, 1990 and annually thereafter, the Secretary shall compile and make a
 
 > The information to be compiled under paragraphs (1) through (6) shall be information for the calendar year preceding the date the information is to be made available to the public and shall be accompanied by such explanatory information as may be appropriate to assist in the interpretation of the information compiled under such paragraphs.
 
-#### (<i>o</i>) Delegation
+#### (o) Delegation
 
 In carrying out this section, the Secretary may, pursuant to agreement, use the services or facilities of any Federal or State or local public agency or nonprofit private organization, and may pay therefor in advance or by way of reimbursement, and in such installments, as the Secretary may determine.
 
@@ -394,7 +394,7 @@ In carrying out this section, the Secretary may, pursuant to agreement, use the 
 
 In carrying out this section, the Secretary shall consult with appropriate private organizations and public agencies.
 
-(July 1, 1944, ch. 373, title III, §353, as added Pub. L. 90–174, §5(a), Dec. 5, 1967, 81 Stat. 536; amended Pub. L. 100–578, §2, Oct. 31, 1988, 102 Stat. 2903; Pub. L. 105–115, title I, §123(h), Nov. 21, 1997, 111 Stat. 2324.)
+(July 1, 1944, ch. 373, title III, §353, as added Pub. L. 90–174, §5(a), Dec. 5, 1967, 81 Stat. 536; amended Pub. L. 100–578, §2, Oct. 31, 1988, 102 Stat. 2903; Pub. L. 105–115, title I, §123(h), Nov. 21, 1997, 111 Stat. 2324; Pub. L. 112–202, §2, Dec. 4, 2012, 126 Stat. 1483.)
 
 #### References in Text
 
@@ -406,6 +406,12 @@ Subsec. (e)(3) of this section, which required the Secretary to annually prepare
 
 #### Amendments
 
+<b>2012</b>—Subsec. (d)(1)(E). Pub. L. 112–202, §2(1), inserted “, except that no proficiency testing sample shall be referred to another laboratory for analysis as prohibited under subsection (i)(4)” before period at end.
+
+Subsec. (i)(3). Pub. L. 112–202, §2(2)(A), inserted “, except that if the revocation occurs pursuant to paragraph (4) the Secretary may substitute intermediate sanctions under subsection (h) instead of the 2-year prohibition against ownership or operation which would otherwise apply under this paragraph” after “issued under this section”.
+
+Subsec. (i)(4). Pub. L. 112–202, §2(2)(B), substituted “may have its certificate revoked” for “shall have its certificate revoked”.
+
 <b>1997</b>—Subsec. (d)(3). Pub. L. 105–115 amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “The examinations and procedures identified in paragraph (2) are simple laboratory examinations and procedures which, as determined by the Secretary, have an insignificant risk of an erroneous result, including those which—
 
 &emsp;“(A) have been approved by the Food and Drug Administration for home use,
@@ -414,7 +420,7 @@ Subsec. (e)(3) of this section, which required the Secretary to annually prepare
 
 &emsp;“(C) the Secretary has determined pose no reasonable risk of harm to the patient if performed incorrectly.”
 
-<b>1988</b>—Pub. L. 100–578 substituted “Certification of laboratories” for “Licensing of laboratories” in section catchline, and amended text generally, revising and restating as subsecs. (a) to (q) provisions of former subsecs. (a) to (<i>l</i>).
+<b>1988</b>—Pub. L. 100–578 substituted “Certification of laboratories” for “Licensing of laboratories” in section catchline, and amended text generally, revising and restating as subsecs. (a) to (q) provisions of former subsecs. (a) to (l).
 
 #### Effective Date of 1997 Amendment
 
@@ -422,15 +428,15 @@ Amendment by Pub. L. 105–115 effective 90 days after Nov. 21, 1997, except as 
 
 #### Effective Date of 1988 Amendment; Exceptions; Continuing Applicability
 
-Section 3 of Pub. L. 100–578 provided that: “Subsections (g)(1), (h), (i), (j), (k), (<i>l</i>), and (m) of section 353 of the Public Health Service Act \[this section\], as amended by section 101 \[probably means section 2 of Pub. L. 100–578\], shall take effect January 1, 1989, except that any reference in such subsections to the standards established under subsection (f) shall be considered a reference to the standards established under subsection (d) of such section 353, as in effect on December 31, 1988. During the period beginning January 1, 1989, and ending December 31, 1989, subsections (a) through (d) and subsection (i) through (<i>l</i>) of such section 353 as in effect on December 31, 1988, shall continueto apply to clinical laboratories. The remaining subsections of such section 353, as so amended, shall take effect January 1, 1990, except that subsections (f)(1)(C) and (g)(2) shall take effect July 1, 1991, with respect to laboratories which were not subject to the requirements of such section 353 as in effect on December 31, 1988.”
+Pub. L. 100–578, §3, Oct. 31, 1988, 102 Stat. 2914, provided that: “Subsections (g)(1), (h), (i), (j), (k), (l), and (m) of section 353 of the Public Health Service Act \[this section\], as amended by section 101 \[probably means section 2 of Pub. L. 100–578\], shall take effect January 1, 1989, except that any reference in such subsections to the standards established under subsection (f) shall be considered a reference to the standards established under subsection (d) of such section 353, as in effect on December 31, 1988. During the period beginning January 1, 1989, and ending December 31, 1989, subsections (a) through (d) and subsection (i) through (l) of such section 353 as in effect on December 31, 1988, shall continue to apply to clinical laboratories. The remaining subsections of such section 353, as so amended, shall take effect January 1, 1990, except that subsections (f)(1)(C) and (g)(2) shall take effect July 1, 1991, with respect to laboratories which were not subject to the requirements of such section 353 as in effect on December 31, 1988.”
 
 #### Effective Date
 
-Section 5(b) of Pub. L. 90–174 provided that: “The amendment made by subsection (a) \[enacting this section\] shall become effective on the first day of the thirteenth month after the month \[December 1967\] in which it is enacted, except that the Secretary of Health, Education, and Welfare may postpone such effective date for such additional period as he finds necessary, but not beyond the first day of the 19th month after such month \[December 1967\] in which the amendment is enacted.”
+Pub. L. 90–174, §5(b), Dec. 5, 1967, 81 Stat. 539, provided that: “The amendment made by subsection (a) \[enacting this section\] shall become effective on the first day of the thirteenth month after the month \[December 1967\] in which it is enacted, except that the Secretary of Health, Education, and Welfare may postpone such effective date for such additional period as he finds necessary, but not beyond the first day of the 19th month after such month \[December 1967\] in which the amendment is enacted.”
 
 #### Studies
 
-Section 4 of Pub. L. 100–578 directed Secretary to conduct studies and submit report to Congress, not later than May 1, 1990, relating to the reliability and quality control procedures of clinical laboratory testing programs and the effect of errors in the testing procedures and results on the diagnosis and treatment of patients.
+Pub. L. 100–578, §4, Oct. 31, 1988, 102 Stat. 2914, directed Secretary to conduct studies and submit report to Congress, not later than May 1, 1990, relating to the reliability and quality control procedures of clinical laboratory testing programs and the effect of errors in the testing procedures and results on the diagnosis and treatment of patients.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “by the”.</i>
 

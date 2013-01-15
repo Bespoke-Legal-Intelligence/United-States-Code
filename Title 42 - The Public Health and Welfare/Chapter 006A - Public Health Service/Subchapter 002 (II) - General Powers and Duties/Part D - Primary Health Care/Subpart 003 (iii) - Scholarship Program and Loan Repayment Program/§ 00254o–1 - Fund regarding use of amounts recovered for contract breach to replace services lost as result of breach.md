@@ -8,7 +8,7 @@ There is established in the Treasury of the United States a fund to be known as 
 
 For each fiscal year, there is authorized to be appropriated to the Fund an amount equal to the sum of—
 
-&emsp;(1) the amount collected during the preceding fiscal year by the Federal Government pursuant to the liability of individuals under section 254<i>o</i> of this title for the breach of contracts entered into under section 254<i>l</i> or 254<i>l</i>–1 of this title;
+&emsp;(1) the amount collected during the preceding fiscal year by the Federal Government pursuant to the liability of individuals under section 254o of this title for the breach of contracts entered into under section 254l or 254l–1 of this title;
 
 &emsp;(2) the amount by which grants under section 254q–1 of this title have, for such preceding fiscal year, been reduced under subsection (g)(2)(B) of such section; and
 
@@ -22,7 +22,7 @@ For each fiscal year, there is authorized to be appropriated to the Fund an amou
 
 &emsp;&emsp;(A) to which a Corps member has been assigned under section 254f of this title; and
 
-&emsp;&emsp;(B) that has a need for a health professional to provide primary health services as a result of the Corps member having breached the contract entered into under section 254<i>l</i> or 254<i>l</i>–1 of this title by the individual.
+&emsp;&emsp;(B) that has a need for a health professional to provide primary health services as a result of the Corps member having breached the contract entered into under section 254l or 254l–1 of this title by the individual.
 
 #### (2) Purpose of payments
 

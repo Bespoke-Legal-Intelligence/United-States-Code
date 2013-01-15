@@ -154,13 +154,13 @@ Subsec. (a)(2)(A)(i), (ii). Pub. L. 111–5, §§1841(a)(2)(B)(i)(II), 1893, tem
 
 > See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (a)(2)(B). Pub. L. 111–5, §§1841(a)(2)(B)(ii), 1893, temporarily substituted “for the eligibility period under subparagraph (A) or (B) of paragraph (4) (as the case may be)” for “for a period not to exceed 2 years” and struck out “, as added by section 201 of the Trade Act of 2002” before period. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (a)(2)(B). Pub. L. 111–5, §§1841(a)(2)(B)(ii), 1893, temporarily substituted “for the eligibility period under subparagraph (A) or (B) of paragraph (4) (as thecase may be)” for “for a period not to exceed 2 years” and struck out “, as added by section 201 of the Trade Act of 2002” before period. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
 Subsec. (a)(2)(C). Pub. L. 111–5, §§1841(a)(2)(B)(iii), 1893, temporarily added subpar. (C). See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
 Subsec. (a)(3) to (7). Pub. L. 111–5, §§1841(a)(2)(C), 1893, temporarily added pars. (3) to (7) and struck out former pars. (3) to (5) which related to eligibility, total amount of payments, and limitation on other benefits, respectively. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (b)(1). Pub. L. 111–5, §§1841(b), 1893, temporarily substituted “December 31, 2010.” for “the date that is 5 years after the date on which such program is implemented by the State.” See Codification noteabove and Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (b)(1). Pub. L. 111–5, §§1841(b), 1893, temporarily substituted “December 31, 2010.” for “the date that is 5 years after the date on which such program is implemented by the State.” See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
 Subsec. (b)(2). Pub. L. 111–5, §§1841(a)(3), 1893, temporarily substituted “subsection (a)(3)” for “subsection (a)(3)(B)”. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 

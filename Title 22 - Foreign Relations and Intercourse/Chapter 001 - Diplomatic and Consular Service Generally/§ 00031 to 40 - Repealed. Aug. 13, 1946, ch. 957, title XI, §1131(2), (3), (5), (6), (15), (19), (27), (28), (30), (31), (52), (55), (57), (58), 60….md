@@ -30,5 +30,5 @@ Section 40, R.S. §1674; acts Feb. 5, 1915, ch. 23, §6, 38 Stat. 806; July 1, 1
 
 #### Effective Date of Repeal
 
-Repeal effective three months after Aug. 13, 1946, see section 1141 of act Aug. 13, 1946.
+Repeal effective three months after Aug. 13, 1946, see act Aug. 13, 1946, ch. 957, title XI, §1141, 60 Stat. 1040.
 

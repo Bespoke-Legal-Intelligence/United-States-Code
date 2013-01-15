@@ -92,7 +92,7 @@ Payments under this section—
 
 #### (f) Reconciliation
 
-The Secretary shall determine any changes to the number of residents reported by a hospital in the application of the hospital for the current fiscal year to determine the final amount payable to the hospital for the current fiscal year for both direct expense and indirect expense amounts. Based on such determination, the Secretary shall recoup any overpayments made to pay any balance due to the extent possible. The final amount so determined shall be considered a final intermediary determination for the purposes of section 1395<i>oo</i> of this title and shall be subject to administrative and judicial review under that section in the same manner as the amount of payment under section 1395ww(d) <sup>2</sup> of this title is subject to review under such section.
+The Secretary shall determine any changes to the number of residents reported by a hospital in the application of the hospital for the current fiscal year to determine the final amount payable to the hospital for the current fiscal year for both direct expense and indirect expense amounts. Based on such determination, the Secretary shall recoup any overpayments made to pay any balance due to the extent possible. The final amount so determined shall be considered a final intermediary determination for the purposes of section 1395oo of this title and shall be subject to administrative and judicial review under that section in the same manner as the amount of payment under section 1395ww(d) <sup>2</sup> of this title is subject to review under such section.
 
 #### (g) Funding
 
@@ -158,11 +158,11 @@ In this section:
 
 #### (2) Primary care residency program
 
-&emsp;The term “primary care residency program” has the meaning given that term in section 293<i>l</i>–1 of this title.
+&emsp;The term “primary care residency program” has the meaning given that term in section 293l–1 of this title.
 
 #### (3) Qualified teaching health center
 
-&emsp;The term “qualified teaching health center” has the meaning given the term “teaching health center” in section 293<i>l</i>–1 of this title.
+&emsp;The term “qualified teaching health center” has the meaning given the term “teaching health center” in section 293l–1 of this title.
 
 (July 1, 1944, ch. 373, title III, §340H, as added Pub. L. 111–148, title V, §5508(c), Mar. 23, 2010, 124 Stat. 670.)
 

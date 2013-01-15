@@ -2,7 +2,7 @@
 
 (a) Except as specifically authorized by law, the Postal Service may not—
 
-&emsp;(1) establish any rule or regulation (including any standard) the effect of which is to preclude competition or establish the terms of competition unless the Postal Service demonstrates that the regulation does not create an unfair competitive advantage for itself orany entity funded (in whole or in part) by the Postal Service;
+&emsp;(1) establish any rule or regulation (including any standard) the effect of which is to preclude competition or establish the terms of competition unless the Postal Service demonstrates that the regulation does not create an unfair competitive advantage for itself or any entity funded (in whole or in part) by the Postal Service;
 
 &emsp;(2) compel the disclosure, transfer, or licensing of intellectual property to any third party (such as patents, copyrights, trademarks, trade secrets, and proprietary information); or
 

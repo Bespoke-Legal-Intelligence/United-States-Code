@@ -10,7 +10,7 @@ The Commission shall be composed of thirteen members, each appointed for a term 
 
 #### (c) Chairman; vacancies
 
-The Secretary shall designate one member to be Chairman. Any vacancy in the Commissionshall be filled in the same manner in which the original appointment was made.
+The Secretary shall designate one member to be Chairman. Any vacancy in the Commission shall be filled in the same manner in which the original appointment was made.
 
 #### (d) Compensation and expenses; vouchers
 

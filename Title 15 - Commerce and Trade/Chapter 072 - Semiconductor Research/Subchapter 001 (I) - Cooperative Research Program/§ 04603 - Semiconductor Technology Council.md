@@ -124,13 +124,13 @@ Subsec. (j). Pub. L. 103–160, §263(e), added subsec. (j).
 
 #### Termination of Advisory Council on Federal Participation in Sematech
 
-Section 263(a) of Pub. L. 103–160 provided that: “The advisory council known as the Advisory Council on Federal Participation in Sematech, established by section 273 of the National Defense Authorization Act for Fiscal Years 1988 and 1989 (15 U.S.C. 4603), is hereby terminated.”
+Pub. L. 103–160, div. A, title II, §263(a), Nov. 30, 1993, 107 Stat. 1608, provided that: “The advisory council known as the Advisory Council on Federal Participation in Sematech, established by section 273 of the National Defense Authorization Act for Fiscal Years 1988 and 1989 (15 U.S.C. 4603), is hereby terminated.”
 
 #### First Meeting of Semiconductor Technology Council
 
-Section 263(f) of Pub. L. 103–160 provided that: “The first meeting of the Semiconductor Technology Council shall be held not later than 45 days after the date of the enactment of this Act \[Nov. 30, 1993\].”
+Pub. L. 103–160, div. A, title II, §263(f), Nov. 30, 1993, 107 Stat. 1610, provided that: “The first meeting of the Semiconductor Technology Council shall be held not later than 45 days after the date of the enactment of this Act \[Nov. 30, 1993\].”
 
 #### References to Terminated Council
 
-Section 263(g) of Pub. L. 103–160 provided that: “A reference in any provision of law to the Advisory Council on Federal Participation in Sematech shall be deemed to refer to the Semiconductor Technology Council established by section 273 of the National Defense Authorization Act for Fiscal Years 1988 and 1989 \[15 U.S.C. 4603\], as amended by subsection (b).”
+Pub. L. 103–160, div. A, title II, §263(g), Nov. 30, 1993, 107 Stat. 1610, provided that: “A reference in any provision of law to the Advisory Council on Federal Participation in Sematech shall be deemed to refer to the Semiconductor Technology Council established by section 273 of the National Defense Authorization Act for Fiscal Years 1988 and 1989 \[15 U.S.C. 4603\], as amended by subsection (b).”
 

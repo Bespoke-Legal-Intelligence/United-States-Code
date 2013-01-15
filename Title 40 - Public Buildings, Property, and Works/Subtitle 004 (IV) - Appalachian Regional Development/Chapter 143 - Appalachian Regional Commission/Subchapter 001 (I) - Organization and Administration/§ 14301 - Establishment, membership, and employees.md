@@ -14,7 +14,7 @@ Federal and state members.—The Commission is composed of the Federal Cochairma
 
 &emsp;(2)
 
-Alternate members.—Each state member may have a single alternate, appointed by the Governor from among the members of the Governor's cabinet or the Governor's personal staff. The President, by and with the advice and consent of the Senate, shall appoint an alternate for the Federal Cochairman. An alternate shall vote in the event of the absence, death, disability, removal, or resignation of the member for whom the individual is an alternate. A state alternate shall not be counted toward the establishment of a quorum of the Commission when a quorum of the state members is required.
+Alternate members.—Each state member may have a single alternate, appointed by the Governor from among the members of the Governor's cabinet or the Governor's personal staff. The President,,<sup>1</sup> shall appoint an alternate for the Federal Cochairman. An alternate shall vote in the event of the absence, death, disability, removal, or resignation of the member for whom the individual is an alternate. A state alternate shall not be counted toward the establishment of a quorum of the Commission when a quorum of the state members is required.
 
 &emsp;(3)
 
@@ -44,7 +44,7 @@ Executive Director.—The Commission has an executive director. The executive di
 
 Status of Personnel.—Members, alternates, officers, and employees of the Commission are not federal employees for any purpose, except the Federal Cochairman, the alternate to the Federal Cochairman, the staff of the Federal Cochairman, and federal employees detailed to the Commission under section 14306(a)(3) of this title.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1256.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1256; Pub. L. 112–166, §2(n), Aug. 10, 2012, 126 Stat. 1287.)
 
 Historical and Revision Notes
 
@@ -93,4 +93,14 @@ Pub. L. 89–4, title I, §106(2) (2d, last sentences), Mar. 9, 1965, 79 Stat. 8
 40 App.:106(2) (last sentence).
 
 In subsection (e), the words “The Commission has an executive director” are added for clarity.
+
+#### Amendments
+
+<b>2012</b>—Subsec. (b)(2). Pub. L. 112–166 struck out “by and with the advice and consent of the Senate” after “The President,”.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under section 113 of Title 6, Domestic Security.
+
+<i><sup>1</sup></i><i> So in original.</i>
 

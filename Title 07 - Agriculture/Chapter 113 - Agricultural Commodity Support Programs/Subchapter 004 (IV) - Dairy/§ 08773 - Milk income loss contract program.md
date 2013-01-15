@@ -46,19 +46,19 @@ Payments to a producer under this section shall be calculated by multiplying (as
 
 &emsp;(3)(A) for the period beginning October 1, 2007, and ending September 30, 2008, 34 percent;
 
-&emsp;(B) for the period beginning October 1, 2008, and ending August 31, 2012, 45 percent; and
+&emsp;(B) for the period beginning October 1, 2008, and ending August 31, 2013, 45 percent; and
 
-&emsp;(C) for the period beginning September 1, 2012, and thereafter, 34 percent.
+&emsp;(C) for the period beginning September 1, 2013, and thereafter, 34 percent.
 
 #### (d) Payment rate adjustment for feed prices
 
 #### (1) Initial adjustment authority
 
-&emsp;During the period beginning on January 1, 2008, and ending on August 31, 2012, if the National Average Dairy Feed Ration Cost for a month during that period is greater than $7.35 per hundredweight, the amount specified in subsection (c)(2)(A) used to determine the payment rate for that month shall be increased by 45 percent of the percentage by which the National Average Dairy Feed Ration Cost exceeds $7.35 per hundredweight.
+&emsp;During the period beginning on January 1, 2008, and ending on August 31, 2013, if the National Average Dairy Feed Ration Cost for a month during that period is greater than $7.35 per hundredweight, the amount specified in subsection (c)(2)(A) used to determine the payment rate for that month shall be increased by 45 percent of the percentage by which the National Average Dairy Feed Ration Cost exceeds $7.35 per hundredweight.
 
 #### (2) Subsequent adjustment authority
 
-&emsp;For any month beginning on or after September 1, 2012, if the National Average Dairy Feed Ration Cost for the month is greater than $9.50 per hundredweight, the amount specified in subsection (c)(2)(A) used to determine the payment rate for that month shall be increased by 45 percent of the percentage by which the National Average Dairy Feed Ration Cost exceeds $9.50 per hundredweight.
+&emsp;For any month beginning on or after September 1, 2013, if the National Average Dairy Feed Ration Cost for the month is greater than $9.50 per hundredweight, the amount specified in subsection (c)(2)(A) used to determine the payment rate for that month shall be increased by 45 percent of the percentage by which the National Average Dairy Feed Ration Cost exceeds $9.50 per hundredweight.
 
 #### (3) National average dairy feed ration cost
 
@@ -78,9 +78,9 @@ Payments to a producer under this section shall be calculated by multiplying (as
 
 &emsp;&emsp;&emsp;(i) for the period beginning October 1, 2007, and ending September 30, 2008, 2,400,000 pounds;
 
-&emsp;&emsp;&emsp;(ii) for the period beginning October 1, 2008, and ending August 31, 2012, 2,985,000 pounds for each fiscal year; and
+&emsp;&emsp;&emsp;(ii) for the period beginning October 1, 2008, and ending August 31, 2013, 2,985,000 pounds for each fiscal year; and
 
-&emsp;&emsp;&emsp;(iii) effective beginning September 1, 2012, 2,400,000 pounds per fiscal year.
+&emsp;&emsp;&emsp;(iii) effective beginning September 1, 2013, 2,400,000 pounds per fiscal year.
 
 #### (B) Standards
 
@@ -96,13 +96,13 @@ A payment under a contract under this section shall be made on a monthly basis n
 
 #### (g) Signup
 
-The Secretary shall offer to enter into contracts under this section during the period beginning on the date that is 90 days after the date of enactment of this Act and ending on September 30, 2012.
+The Secretary shall offer to enter into contracts under this section during the period beginning on the date that is 90 days after the date of enactment of this Act and ending on September 30, 2013.
 
 #### (h) Duration of contract
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), any contract entered into by producers on a dairy farm under this section shall cover eligible production marketed by the producers on the dairy farm during the period starting with the first day of month the producers on the dairy farm enter into the contract and ending on September 30, 2012.
+&emsp;Except as provided in paragraph (2), any contract entered into by producers on a dairy farm under this section shall cover eligible production marketed by the producers on the dairy farm during the period starting with the first day of month the producers on the dairy farm enter into the contract and ending on September 30, 2013.
 
 #### (2) Violations
 
@@ -112,7 +112,7 @@ The Secretary shall offer to enter into contracts under this section during the 
 
 &emsp;&emsp;(B) allow the contract to remain in effect and require the producer to repay a portion of the payments received under the contract based on the severity of the violation.
 
-(Pub. L. 110–234, title I, §1506, May 22, 2008, 122 Stat. 994; Pub. L. 110–246, §4(a), title I, §1506, June 18, 2008, 122 Stat. 1664, 1723.)
+(Pub. L. 110–234, title I, §1506, May 22, 2008, 122 Stat. 994; Pub. L. 110–246, §4(a), title I, §1506, June 18, 2008, 122 Stat. 1664, 1723; Pub. L. 112–240, title VII, §701(b)(2)(B), Jan. 2, 2013, 126 Stat. 2363.)
 
 #### References in Text
 
@@ -123,4 +123,12 @@ The date of enactment of this Act, referred to in subsec. (g), is the date of en
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Amendments
+
+<b>2013</b>—Pub. L. 112–240 substituted “2013” for “2012” wherever appearing.
+
+#### Effective Date of 2013 Amendment
+
+Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under section 8701 of this title.
 

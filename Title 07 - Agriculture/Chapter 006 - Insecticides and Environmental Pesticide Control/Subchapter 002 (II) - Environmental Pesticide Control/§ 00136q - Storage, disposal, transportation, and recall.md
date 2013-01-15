@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) the registrant or applicant for registration of a pesticide submit or cite data or information regarding methods for the safe storage and disposal of excess quantities of the pesticide to support the registration or continued registration of a pesticide;
 
-&emsp;&emsp;(B) the labeling of a pesticide contain requirements and procedures for the transportation, storage, and disposal of the pesticide,any container of the pesticide, any rinsate containing the pesticide, or any other material used to contain or collect excess or spilled quantities of the pesticide; and
+&emsp;&emsp;(B) the labeling of a pesticide contain requirements and procedures for the transportation, storage, and disposal of the pesticide, any container of the pesticide, any rinsate containing the pesticide, or any other material used to contain or collect excess or spilled quantities of the pesticide; and
 
 &emsp;&emsp;(C) the registrant of a pesticide provide evidence of sufficient financial and other resources to carry out a recall plan under subsection (b) of this section, and provide for the disposition of the pesticide, in the event of suspension and cancellation of the pesticide.
 
@@ -72,7 +72,7 @@
 
 #### (6) Requirements or procedures
 
-&emsp;No requirement or procedure imposed in accordance with paragraph (2) of subsection (a)of this section may require the recall of existing stocks of the pesticide except as provided by this subsection.
+&emsp;No requirement or procedure imposed in accordance with paragraph (2) of subsection (a) of this section may require the recall of existing stocks of the pesticide except as provided by this subsection.
 
 #### (c) Storage costs
 
@@ -110,7 +110,7 @@
 
 #### (4) Seizure and penalties
 
-&emsp;If the Administrator finds that a person who is subject to a regulation or order under subsection (a)(2) or (b) of this section has failed substantially to comply with that regulation or order, the Administrator may take action under section 136k or 136<i>l</i> of this title or obtain injunctive relief under section 136n(c) of this title against such person or any successor in interest of any such person.
+&emsp;If the Administrator finds that a person who is subject to a regulation or order under subsection (a)(2) or (b) of this section has failed substantially to comply with that regulation or order, the Administrator may take action under section 136k or 136l of this title or obtain injunctive relief under section 136n(c) of this title against such person or any successor in interest of any such person.
 
 #### (e) Container design
 
@@ -178,7 +178,7 @@
 
 #### (2) Report
 
-&emsp;Not later than 2 years after the effective date of this subsection, the Administrator shall submit to Congress a report describing the results of the study required under paragraph (1).
+&emsp;Not later than 2 years after the effective date of this subsection, the Administratorshall submit to Congress a report describing the results of the study required under paragraph (1).
 
 #### (h) Relationship to Solid Waste Disposal Act
 

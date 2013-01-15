@@ -50,7 +50,7 @@ Subsec. (a)(1)(D), (E). Pub. L. 110–394, §3(a)(1), added subpars. (D) and (E)
 
 Subsec. (a)(2). Pub. L. 110–394, §3(a)(2), substituted “program of integrated research, education, extension,” for “program of research, education,”.
 
-Subsec. (a)(6). Pub. L. 110–394, §3(a)(3), added par. (6) and struck out former par. (6) which read as follows: “The National Oceanic and Atmospheric Administration, through the national sea grant college program, offers the most suitable locus and means for such commitment and involvement through the promotion of activities that will result in greater such understanding, assessment, development, utilization, and conservation. The most cost-effective way to promote such activities is through continued and increased Federal support of the establishment, development, and operation of programs and projects by sea grant colleges, sea grant institutes, and other institutions, includingstrong collaborations between Administration scientists and scientists at academic institutions.”
+Subsec. (a)(6). Pub. L. 110–394, §3(a)(3), added par. (6) and struck out former par. (6) which read as follows: “The National Oceanic and Atmospheric Administration, through the national sea grant college program, offers the most suitable locus and means for such commitment and involvement through the promotion of activities that will result in greater such understanding, assessment, development, utilization, and conservation. The most cost-effective way to promote such activities is through continued and increased Federal support of the establishment, development, and operation of programs and projects by sea grant colleges, sea grant institutes, and other institutions, including strong collaborations between Administration scientists and scientists at academic institutions.”
 
 Subsec. (b). Pub. L. 110–394, §3(c), inserted “management,” after “development,”.
 
@@ -90,17 +90,17 @@ Pub. L. 102–186, §1, Dec. 4, 1991, 105 Stat. 1282, provided that: “This Act
 
 #### Short Title of 1987 Amendment
 
-Section 3001 of title III of Pub. L. 100–220 provided that: “This title \[amending this section and sections 1122 to 1131 of this title and enacting provisions set out as notes under this section and sections 883a and 1125 of this title\] may be cited as the ‘Marine Science, Technology, and Policy Development Act of 1987’.”
+Pub. L. 100–220, title III, §3001, Dec. 29, 1987, 101 Stat. 1469, provided that: “This title \[amending this section and sections 1122 to 1131 of this title and enacting provisions set out as notes under this section and sections 883a and 1125 of this title\] may be cited as the ‘Marine Science, Technology, and Policy Development Act of 1987’.”
 
 Section 3101 of subtitle A (§§3101–3111) of title III of Pub. L. 100–220 provided that: “This subtitle \[amending this section and sections 1122 to 1131 of this title and enacting provisions set out as a note under section 1125 of this title\] may be cited as the ‘National Sea Grant College Program Authorization Act of 1987’.”
 
 #### Short Title of 1976 Amendment
 
-Section 1 of Pub. L. 94–461 provided: “That this Act \[enacting sections 1124a, 1125, 1126, 1127, 1128, 1129, 1130, and 1131 of this title and amending this section, sections 1122, 1123, and 1124 of this title, sections 5314 and 5315 of Title 5, Government Organization and Employees, and provisions set out as notes under this section, section 1511 of Title 15, Commerce and Trade, and in the Appendix to Title 5, Government Organization and Employees\] may be cited as the ‘Sea Grant Program Improvement Act of 1976’.”
+Pub. L. 94–461, §1, Oct. 8, 1976, 90 Stat. 1961, provided: “That this Act \[enacting sections 1124a, 1125, 1126, 1127, 1128, 1129, 1130, and 1131 of this title and amending this section, sections 1122, 1123, and 1124 of this title, sections 5314 and 5315 of Title 5, Government Organization and Employees, and provisions set out as notes under this section, section 1511 of Title 15, Commerce and Trade, and in the Appendix to Title 5, Government Organization and Employees\] may be cited as the ‘Sea Grant Program Improvement Act of 1976’.”
 
 #### Short Title
 
-Section 201 of title II of Pub. L. 89–454, as added by section 1 of Pub. L. 89–688, and amended by Pub. L. 94–461, §2, Oct. 8, 1976, 90 Stat. 1961; Pub. L. 95–428, §2(a), Oct. 7, 1978, 92 Stat. 999, provided that: “This title \[enacting this subchapter\] may be cited as the ‘National Sea Grant College Program Act’.”
+Pub. L. 89–454, title II, §201, as added by Pub. L. 89–688, §1, Oct. 15, 1966, 80 Stat. 998, and amended by Pub. L. 94–461, §2, Oct. 8, 1976, 90 Stat. 1961; Pub. L. 95–428, §2(a), Oct. 7, 1978, 92 Stat. 999, provided that: “This title \[enacting this subchapter\] may be cited as the ‘National Sea Grant College Program Act’.”
 
 <i><sup>1</sup></i><i> So in original.</i>
 

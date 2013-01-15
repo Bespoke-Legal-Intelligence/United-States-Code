@@ -10,7 +10,7 @@ The National Science Foundation is authorized to make available nonrenewable pla
 
 #### (c) Terms and conditions
 
-Grants, contracts, and cooperative agreements entered into by the National Science Foundation in execution of the powers and duties of the National Science Foundation under this chaptershall be governed by the National Science Foundation Act of 1950 \[42 U.S.C. 1861 et seq.\] and other pertinent Acts.
+Grants, contracts, and cooperative agreements entered into by the National Science Foundation in execution of the powers and duties of the National Science Foundation under this chapter shall be governed by the National Science Foundation Act of 1950 \[42 U.S.C. 1861 et seq.\] and other pertinent Acts.
 
 (Pub. L. 96–480, §9, formerly §8, Oct. 21, 1980, 94 Stat. 2316; Pub. L. 99–502, §9(b)(11), (12), (e)(2)(B), Oct. 20, 1986, 100 Stat. 1796, 1797; renumbered §9, Pub. L. 100–418, title V, §5122(a)(1), Aug. 23, 1988, 102 Stat. 1438; Pub. L. 106–404, §7(4), Nov. 1, 2000, 114 Stat. 1745.)
 

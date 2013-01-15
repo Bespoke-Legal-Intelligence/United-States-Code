@@ -54,7 +54,7 @@ The principal functions of the administrator of the Office shall be—
 
 #### Termination of Section
 
-<i>For termination of section beginning on Jan. 1, 2014, with certain exceptions and subject to section 233(b) of Pub. L. 112–40, see Codification and Effective and Termination Dates notes below.</i>
+<i>For termination of section beginning on Jan. 1, 2014, with certain exceptions and subject to</i><i>section 233(b) of Pub. L. 112–40, see Codification and Effective and Termination Dates notes below.</i>
 
 #### Codification
 

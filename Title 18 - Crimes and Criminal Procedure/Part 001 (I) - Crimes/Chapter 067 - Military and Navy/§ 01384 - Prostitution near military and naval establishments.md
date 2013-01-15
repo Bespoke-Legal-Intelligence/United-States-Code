@@ -30,7 +30,7 @@ Changes were made in phraseology.
 
 This section \[section 35\] makes the following changes in section 1384 of title 18, U.S.C.:
 
-1\. In the first paragraph, substitutes “Secretary of the Army, the Secretary of the Navy, the Secretary of the Air Force, and any two or all of them” for “Secretary of the Army or the Secretary of the Navy, or both”, and substitutes “Army, the Navy, or the Air Force,” for “Army or the Navy, or both,”, in view ofthe establishment in 1947 of the Department of the Air Force, headed by a Secretary.
+1\. In the first paragraph, substitutes “Secretary of the Army, the Secretary of the Navy, the Secretary of the Air Force, and any two or all of them” for “Secretary of the Army or the Secretary of the Navy, or both”, and substitutes “Army, the Navy, or the Air Force,” for “Army or the Navy, or both,”, in view of the establishment in 1947 of the Department of the Air Force, headed by a Secretary.
 
 2\. In the second paragraph, substitutes “The Secretaries of the Army, Navy, and Air Force” for “The Secretaries of the Army, and Navy”, for the same reason given in item 1 above.
 

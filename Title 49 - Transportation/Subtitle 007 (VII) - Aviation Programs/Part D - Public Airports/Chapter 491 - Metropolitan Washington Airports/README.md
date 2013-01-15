@@ -9,13 +9,17 @@
 | [49105\.](%C2%A7%2049105%20-%20Capital%20improvements%2C%20construction%2C%20and%20rehabilitation.md) | Capital improvements, construction, and rehabilitation. |
 | [49106\.](%C2%A7%2049106%20-%20Metropolitan%20Washington%20Airports%20Authority.md) | Metropolitan Washington Airports Authority. |
 | [49107\.](%C2%A7%2049107%20-%20Federal%20employees%20at%20Metropolitan%20Washington%20Airports.md) | Federal employees at Metropolitan Washington Airports. |
-| [49108\.](%C2%A7%2049108%20-%20Limitations.md) | Limitations. |
+| \[49108. | Repealed.\] |
 | [49109\.](%C2%A7%2049109%20-%20Nonstop%20flights.md) | Nonstop flights. |
 | [49110\.](%C2%A7%2049110%20-%20Use%20of%20Dulles%20Airport%20Access%20Highway.md) | Use of Dulles Airport Access Highway. |
 | [49111\.](%C2%A7%2049111%20-%20Relationship%20to%20and%20effect%20of%20other%20laws.md) | Relationship to and effect of other laws. |
 | [49112\.](%C2%A7%2049112%20-%20Separability%20and%20effect%20of%20judicial%20order.md) | Separability and effect of judicial order. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+<b>2012</b>—Pub. L. 112–95, title I, §150, Feb. 14, 2012, 126 Stat. 32, struck out item 49108 “Limitations”.
 
 
 ---
@@ -29,7 +33,7 @@
 - [&sect; 49105 - Capital improvements, construction, and rehabilitation](%C2%A7%2049105%20-%20Capital%20improvements%2C%20construction%2C%20and%20rehabilitation.md)
 - [&sect; 49106 - Metropolitan Washington Airports Authority](%C2%A7%2049106%20-%20Metropolitan%20Washington%20Airports%20Authority.md)
 - [&sect; 49107 - Federal employees at Metropolitan Washington Airports](%C2%A7%2049107%20-%20Federal%20employees%20at%20Metropolitan%20Washington%20Airports.md)
-- [&sect; 49108 - Limitations](%C2%A7%2049108%20-%20Limitations.md)
+- [&sect; 49108 - Repealed. Pub. L. 112&#8211;95, title I, &sect;150, Feb. 14, 2012, 126 Stat. 32](%C2%A7%2049108%20-%20Repealed.%20Pub.%20L.%20112%E2%80%9395%2C%20title%20I%2C%20%C2%A7150%2C%20Feb.%2014%2C%202012%2C%20126%20Stat.%2032.md)
 - [&sect; 49109 - Nonstop flights](%C2%A7%2049109%20-%20Nonstop%20flights.md)
 - [&sect; 49110 - Use of Dulles Airport Access Highway](%C2%A7%2049110%20-%20Use%20of%20Dulles%20Airport%20Access%20Highway.md)
 - [&sect; 49111 - Relationship to and effect of other laws](%C2%A7%2049111%20-%20Relationship%20to%20and%20effect%20of%20other%20laws.md)

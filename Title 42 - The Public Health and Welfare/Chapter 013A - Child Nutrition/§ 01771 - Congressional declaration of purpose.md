@@ -20,5 +20,5 @@ Pub. L. 102–314, §1, July 2, 1992, 106 Stat. 280, provided that: “This Act 
 
 #### Short Title
 
-Section 1 of Pub. L. 89–642 provided: “That this Act \[enacting this chapter\] may be cited as the ‘Child Nutrition Act of 1966’.”
+Pub. L. 89–642, §1, Oct. 11, 1966, 80 Stat. 885, provided: “That this Act \[enacting this chapter\] may be cited as the ‘Child Nutrition Act of 1966’.”
 

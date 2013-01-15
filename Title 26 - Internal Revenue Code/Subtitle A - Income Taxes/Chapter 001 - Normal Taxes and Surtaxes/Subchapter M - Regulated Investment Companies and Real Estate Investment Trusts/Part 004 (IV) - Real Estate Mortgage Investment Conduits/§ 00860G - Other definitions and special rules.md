@@ -44,7 +44,7 @@ For purposes of this part—
 
 &emsp;&emsp;(C) any regular interest in another REMIC transferred to the REMIC on the startup day in exchange for regular or residual interests in the REMIC.
 
-> &emsp;For purposes of subparagraph (A), any obligation secured by stock held by a person as a tenant-stockholder (as defined in section 216) in a cooperative housing corporation (as so defined) shall be treated as secured by an interest in real property. For purposes of subparagraph (A), any obligation originated by the United States or any State (or any political subdivision, agency, or instrumentality of the United States or any State) shall be treated as principally secured by an interest in real property if more than 50 percent of such obligations which are transferred to, or purchased by, the REMIC are principally secured by an interest in real property (determined without regard to this sentence).
+> &emsp;For purposes of subparagraph (A), any obligation secured by stock held by a person as a tenant-stockholder (as defined in section 216) in a cooperative housing corporation (as so defined) shall be treated as secured by an interest in real property. For purposes of subparagraph (A), any obligation originated by the United States or any State (or any political subdivision, agency, or instrumentality of the United States or any State) shall be treated as principally secured by an interest in real property if more than 50 percent of such obligations which are transferred to, or purchasedby, the REMIC are principally secured by an interest in real property (determined without regard to this sentence).
 
 #### (4) Qualified replacement mortgage
 
@@ -128,7 +128,7 @@ If the holder of a residual interest in a REMIC is a nonresident alien individua
 
 #### (2) Net income from foreclosure property
 
-&emsp;For purposes of this part, the term “net income from foreclosure property” means the amount which would be the REMIC's net income from foreclosure property under section 857(b)(4)(B) if the REMIC were a real estate investment trust.
+&emsp;For purposes of this part, the term “net income from foreclosure property” means theamount which would be the REMIC's net income from foreclosure property under section 857(b)(4)(B) if the REMIC were a real estate investment trust.
 
 #### (d) Tax on contributions after startup date
 
@@ -190,7 +190,7 @@ Subsec. (a)(7)(B). Pub. L. 108–357, §835(b)(8)(B), reenacted heading without 
 
 <b>1989</b>—Subsec. (a)(3). Pub. L. 101–239 substituted “subparagraph (A)” for “this subparagraph” in last sentence.
 
-<b>1988</b>—Subsec. (a)(1). Pub. L. 100–647, §1006(t)(5)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘regular interest’ means an interest in a REMIC the terms of which are fixed on the startup day, and which—
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–647, §1006(t)(5)(A), amended par. (1) generally. Prior to amendment, par.\(1) read as follows: “The term ‘regular interest’ means an interest in a REMIC the terms of which are fixed on the startup day, and which—
 
 &emsp;“(A) unconditionally entitles the holder to receive a specified principal amount (or other similar amount), and
 
@@ -246,9 +246,9 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1988 Amendment
 
-Section 1006(t)(5)(F) of Pub. L. 100–647 provided that: “The amendments made by this paragraph \[amending this section\] shall not apply to any REMIC where the startup day (as defined in section 860G(a)(9) of the 1986 Code as in effect on the day before the date of the enactment of this Act \[Nov. 10, 1988\]) is before July 1, 1987.”
+Pub. L. 100–647, title I, §1006(t)(5)(F), Nov. 10, 1988, 102 Stat. 3421, provided that: “The amendments made by this paragraph \[amending this section\] shall not apply to any REMIC where the startup day (as defined in section 860G(a)(9) of the 1986 Code as in effect on the day before the date of the enactment of this Act \[Nov. 10, 1988\]) is before July 1, 1987.”
 
-Section 1006(t)(9)(B) of Pub. L. 100–647 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall not apply to any REMIC where the startup day (as defined in section 860G(a)(9) of the 1986 Code as in effect on the day before the date of the enactment of this Act \[Nov. 10, 1988\]) is before July 1, 1987.”
+Pub. L. 100–647, title I, §1006(t)(9)(B), Nov. 10, 1988, 102 Stat. 3422, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall not apply to any REMIC where the startup day (as defined in section 860G(a)(9) of the 1986 Code as in effect on the day before the date of the enactment of this Act \[Nov. 10, 1988\]) is before July 1, 1987.”
 
 Amendment by section 1006(t)(6)–(8)(B), (10) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 

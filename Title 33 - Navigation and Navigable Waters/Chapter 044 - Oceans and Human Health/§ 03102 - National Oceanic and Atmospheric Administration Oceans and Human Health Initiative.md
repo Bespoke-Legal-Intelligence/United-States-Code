@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-As part of the interagency oceans and human health research program, the Secretary of Commerce is authorized to establish an Oceans and Human Health Initiative to coordinate and implement research and activities of the NationalOceanic and Atmospheric Administration related to the role of the oceans, the coasts, and the Great Lakes in human health. In carrying out this section, the Secretary shall consult with other Federal agencies conducting integrated oceans and human health research and research in related areas, including the National Science Foundation. The Oceans and Human Health Initiative is authorized to provide support for—
+As part of the interagency oceans and human health research program, the Secretary of Commerce is authorized to establish an Oceans and Human Health Initiative to coordinate and implement research and activities of the National Oceanic and Atmospheric Administration related to the role of the oceans, the coasts, and the Great Lakes in human health. In carrying out this section, the Secretary shall consult with other Federal agencies conducting integrated oceans and human health research and research in related areas, including the National Science Foundation. The Oceans and Human Health Initiative is authorized to provide support for—
 
 &emsp;(1) centralized program and research coordination;
 

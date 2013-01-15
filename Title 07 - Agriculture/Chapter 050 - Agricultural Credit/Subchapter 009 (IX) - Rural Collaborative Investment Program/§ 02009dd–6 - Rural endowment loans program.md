@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary may provide long-term loans to eligible community foundations to assist in theimplementation of regional investment strategies.
+The Secretary may provide long-term loans to eligible community foundations to assist in the implementation of regional investment strategies.
 
 #### (b) Eligible community foundations
 

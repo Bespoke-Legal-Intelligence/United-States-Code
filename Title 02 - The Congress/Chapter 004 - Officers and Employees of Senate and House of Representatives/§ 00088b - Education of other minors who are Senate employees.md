@@ -1,6 +1,6 @@
 ### §88b. Education of other minors who are Senate employees
 
-The facilities provided for the education of Congressional and Supreme Court pages shall be available from and after January 2, 1947, also for the education of such other minors who are Senate employees as may be certified by the Secretary of the Senate to receive such education.
+The facilities provided for the education of Congressional and Supreme Court pages shall beavailable from and after January 2, 1947, also for the education of such other minors who are Senate employees as may be certified by the Secretary of the Senate to receive such education.
 
 (Mar. 22, 1947, ch. 20, title I, 61 Stat. 16; Pub. L. 98–367, title I, §103, July 17, 1984, 98 Stat. 479; Pub. L. 104–186, title II, §204(35), Aug. 20, 1996, 110 Stat. 1735.)
 

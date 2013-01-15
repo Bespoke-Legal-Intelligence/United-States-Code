@@ -78,19 +78,19 @@ Subsec. (b). Pub. L. 100–180 substituted “$200,000” for “$100,000”.
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
+Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L.103–337, set out as an Effective Date note under section 10001 of this title.
 
 #### Effective Date of 1987 Amendment
 
-Section 2304(b) of Pub. L. 100–180 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to projects authorized under section 2233(a) \[now 18233(a)\] of title 10, United States Code, for which contracts are entered into on or after the date of the enactment of this Act \[Dec. 4, 1987\].”
+Pub. L. 100–180, div. B, subdiv. 3, title I, §2304(b), Dec. 4, 1987, 101 Stat. 1215, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to projects authorized under section 2233(a) \[now 18233(a)\] of title 10, United States Code, for which contracts are entered into on or after the date of the enactment of this Act \[Dec. 4, 1987\].”
 
 #### Effective Date of 1984 Amendment
 
-Section 702 of Pub. L. 98–407 provided that the amendment made by that section is effective Oct. 1, 1984.
+Pub. L. 98–407, title VII, §702, Aug. 28, 1984, 98 Stat. 1517, provided that the amendment made by that section is effective Oct. 1, 1984.
 
 #### Effective Date of 1983 Amendment
 
-Section 702 of Pub. L. 98–115 provided that the amendment made by that section is effective Oct. 1, 1983.
+Pub. L. 98–115, title VII, §702, Oct. 11, 1983, 97 Stat. 782, provided that the amendment made by that section is effective Oct. 1, 1983.
 
 #### Effective Date of 1982 Amendment
 

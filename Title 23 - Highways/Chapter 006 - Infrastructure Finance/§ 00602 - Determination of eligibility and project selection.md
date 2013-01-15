@@ -2,17 +2,45 @@
 
 (a)
 
-Eligibility.—To be eligible to receive financial assistance under this chapter, a project shall meet the following criteria:
+Eligibility.—
 
 &emsp;(1)
 
-Inclusion in transportation plans and programs.—The project shall satisfy the applicable planning and programming requirements of sections 134 and 135 at such time as an agreement to make available a Federal credit instrument is entered into under this chapter.
+In general.—A project shall be eligible to receive credit assistance under this chapter if—
+
+&emsp;&emsp;(A) the entity proposing to carry out the project submits a letter of interest prior to submission of a formal application for the project; and
+
+&emsp;&emsp;(B) the project meets the criteria described in this subsection.
 
 &emsp;(2)
 
-Application.—A State, local government, public authority, public-private partnership, or any other legal entity undertaking the project and authorized by the Secretary, shall submit a project application to the Secretary.
+Creditworthiness.—
+
+&emsp;&emsp;(A)
+
+In general.—To be eligible for assistance under this chapter, a project shall satisfy applicable creditworthiness standards, which, at a minimum, shall include—
+
+&emsp;&emsp;&emsp;(i) a rate covenant, if applicable;
+
+&emsp;&emsp;&emsp;(ii) adequate coverage requirements to ensure repayment;
+
+&emsp;&emsp;&emsp;(iii) an investment grade rating from at least 2 rating agencies on debt senior to the Federal credit instrument; and
+
+&emsp;&emsp;&emsp;(iv) a rating from at least 2 rating agencies on the Federal credit instrument, subject to the condition that, with respect to clause (iii), if the total amount of the senior debt and the Federal credit instrument is less than $75,000,000, 1 rating agency opinion for each of the senior debt and Federal credit instrument shall be sufficient.
+
+&emsp;&emsp;(B)
+
+Senior debt.—Notwithstanding subparagraph (A), in a case in which the Federal credit instrument is the senior debt, the Federal credit instrument shall be required to receive an investment grade rating from at least 2 rating agencies, unless the credit instrument is for an amount less than $75,000,000, in which case 1 rating agency opinion shall be sufficient.
 
 &emsp;(3)
+
+Inclusion in transportation plans and programs.—A project shall satisfy the applicable planning and programming requirements of sections 134 and 135 at such time as an agreement to make available a Federal credit instrument is entered into under this chapter.
+
+&emsp;(4)
+
+Application.—A State, local government, public authority, public-private partnership, or any other legal entity undertaking the project and authorized by the Secretary shall submit a project application that is acceptable to the Secretary.
+
+&emsp;(5)
 
 Eligible project costs.—
 
@@ -20,7 +48,9 @@ Eligible project costs.—
 
 In general.—Except as provided in subparagraph (B), to be eligible for assistance under this chapter, a project shall have eligible project costs that are reasonably anticipated to equal or exceed the lesser of—
 
-&emsp;&emsp;&emsp;(i) $50,000,000; or
+&emsp;&emsp;&emsp;(i)(I) $50,000,000; or
+
+&emsp;&emsp;&emsp;(II) in the case of a rural infrastructure project, $25,000,000; and
 
 &emsp;&emsp;&emsp;(ii) 331/3 percent of the amount of Federal highway assistance funds apportioned for the most recently completed fiscal year to the State in which the project is located.
 
@@ -28,13 +58,43 @@ In general.—Except as provided in subparagraph (B), to be eligible for assista
 
 Intelligent transportation system projects.—In the case of a project principally involving the installation of an intelligent transportation system, eligible project costs shall be reasonably anticipated to equal or exceed $15,000,000.
 
-&emsp;(4)
+&emsp;(6)
 
-Dedicated revenue sources.—The Federal credit instrument shall be repayable, in whole or in part, from tolls, user fees, or other dedicated revenue sources that also secure the project obligations.
+Dedicated revenue sources.—The applicable Federal credit instrument shall be repayable, in whole or in part, from—
 
-&emsp;(5)
+&emsp;&emsp;(A) tolls;
 
-Public sponsorship of private entities.—In the case of a project that is undertaken by an entity that is not a State or local government or an agency or instrumentality of a State or local government, the project that the entity is undertaking shall be publicly sponsored as provided in paragraphs (1) and (2).
+&emsp;&emsp;(B) user fees;
+
+&emsp;&emsp;(C) payments owing to the obligor under a public-private partnership; or
+
+&emsp;&emsp;(D) other dedicated revenue sources that also secure or fund the project obligations.
+
+&emsp;(7)
+
+Public sponsorship of private entities.—In the case of a project that is undertaken by an entity that is not a State or local government or an agency or instrumentality of a State or local government, the projectthat the entity is undertaking shall be publicly sponsored as provided in paragraph (3).
+
+&emsp;(8)
+
+Applications where obligor will be identified later.—A State, local government, agency or instrumentality of a State or local government, or public authority may submit to the Secretary an application under paragraph (4), under which a private party to a public-private partnership will be—
+
+&emsp;&emsp;(A) the obligor; and
+
+&emsp;&emsp;(B) identified later through completion of a procurement and selection of the private party.
+
+&emsp;(9)
+
+Beneficial effects.—The Secretary shall determine that financial assistance for the project under this chapter will—
+
+&emsp;&emsp;(A) foster, if appropriate, partnerships that attract public and private investment for the project;
+
+&emsp;&emsp;(B) enable the project to proceed at an earlier date than the project would otherwise be able to proceed or reduce the lifecycle costs (including debt service costs) of the project; and
+
+&emsp;&emsp;(C) reduce the contribution of Federal grant assistance for the project.
+
+&emsp;(10)
+
+Project readiness.—To be eligible for assistance under this chapter, the applicant shall demonstrate a reasonable expectation that the contracting process for construction of the project can commence by not later than 90 days after the date on which a Federal credit instrument is obligated for the project under this chapter.
 
 (b)
 
@@ -42,57 +102,75 @@ Selection Among Eligible Projects.—
 
 &emsp;(1)
 
-Establishment.—The Secretary shall establish criteria for selecting among projects that meet the eligibility requirements specified in subsection (a).
+Establishment.—The Secretary shall establish a rolling application process under which projects that are eligible to receive credit assistance under subsection (a) shall receive credit assistance on terms acceptable to the Secretary, if adequate funds are available to cover the subsidy costs associated with the Federal credit instrument.
 
 &emsp;(2)
 
-Selection criteria.—
+Adequate funding not available.—If the Secretary fully obligates funding to eligible projects in a fiscal year, and adequate funding is not available to fund a credit instrument, a project sponsor of an eligible project may elect to enter into a master credit agreement and wait until the earlier of—
 
-&emsp;&emsp;(A)
+&emsp;&emsp;(A) the following fiscal year; and
 
-In general.—The selection criteria shall include the following:
+&emsp;&emsp;(B) the fiscal year during which additional funds are available to receive credit assistance.
 
-&emsp;&emsp;&emsp;(i) The extent to which the project is nationally or regionally significant, in terms of generating economic benefits, supporting international commerce, or otherwise enhancing the national transportation system.
+&emsp;(3)
 
-&emsp;&emsp;&emsp;(ii) The creditworthiness of the project, including a determination by the Secretary that any financing for the project has appropriate security features, such as a rate covenant, to ensure repayment.
+Preliminary rating opinion letter.—The Secretary shall require each project applicant to provide a preliminary rating opinion letter from at least 1 rating agency—
 
-&emsp;&emsp;&emsp;(iii) The extent to which assistance under this chapter would foster innovative public-private partnerships and attract private debt or equity investment.
+&emsp;&emsp;(A) indicating that the senior obligations of the project, which may be the Federal credit instrument, have the potential to achieve an investment-grade rating; and
 
-&emsp;&emsp;&emsp;(iv) The likelihood that assistance under this chapter would enable the project to proceed at an earlier date than the project would otherwise be able to proceed.
-
-&emsp;&emsp;&emsp;(v) The extent to which the project uses new technologies, including intelligent transportation systems, that enhance the efficiency of the project.
-
-&emsp;&emsp;&emsp;(vi) The amount of budget authority required to fund the Federal credit instrument made available under this chapter.
-
-&emsp;&emsp;&emsp;(vii) The extent to which the project helps maintain or protect the environment.
-
-&emsp;&emsp;&emsp;(viii) The extent to which assistance under this chapter and chapter 1 would reduce the contribution of Federal grant assistance to the project.
-
-&emsp;&emsp;(B)
-
-Preliminary rating opinion letter.—For purposes of subparagraph (A)(ii), the Secretary shall require each project applicant to provide a preliminary rating opinion letter from at least 1 rating agency indicating that the project's senior obligations, which may be the Federal credit instrument, have the potential to achieve an investment-grade rating.
+&emsp;&emsp;(B) including a preliminary rating opinion on the Federal credit instrument.
 
 (c)
 
-Federal Requirements.—In addition to the requirements of this title for highway projects, chapter 53 of title 49 for transit projects, and section 5333(a) of title 49 for rail projects, the following provisions of law shall apply to funds made available under this chapter and projects assisted with the funds:
+Federal Requirements.—
 
-&emsp;(1) Title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d et seq.).
+&emsp;(1)
 
-&emsp;(2) The National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
+In general.—In addition to the requirements of this title for highway projects, the requirements of chapter 53 of title 49 for transit projects, and the requirements of section 5333(a) of title 49 for rail projects, the following provisions of law shall apply to funds made available under this chapter and projects assisted with those funds:
 
-&emsp;(3) The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970 (42 U.S.C. 4601 et seq.).
+&emsp;&emsp;(A) Title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d et seq.).
 
-(Added Pub. L. 105–178, title I, §1503(a), June 9, 1998, 112 Stat. 243, §182; renumbered §602 and amended Pub. L. 109–59, title I, §§1601(b), (c), 1602(b)(2), (5), (d), Aug. 10, 2005, 119 Stat. 1240, 1247.)
+&emsp;&emsp;(B) The National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
+
+&emsp;&emsp;(C) The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970 (42 U.S.C. 4601 et seq.).
+
+&emsp;(2)
+
+NEPA.—No funding shall be obligated for a project that has not received an environmental categorical exclusion, a finding of no significant impact, or a record of decision under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
+
+(d)
+
+Application Processing Procedures.—
+
+&emsp;(1)
+
+Notice of complete application.—Not later than 30 days after the date of receipt of an application under this section, the Secretary shall provide to the applicant a written notice to inform the applicant whether—
+
+&emsp;&emsp;(A) the application is complete; or
+
+&emsp;&emsp;(B) additional information or materials are needed to complete the application.
+
+&emsp;(2)
+
+Approval or denial of application.—Not later than 60 days after the date of issuance of the written notice under paragraph (1), the Secretary shall provide to the applicant a written notice informing the applicant whether the Secretary has approved or disapproved the application.
+
+(e)
+
+Development Phase Activities.—Any credit instrument secured under this chapter may be used to finance up to 100 percent of the cost of development phase activities as described in section 601(a)(1)(A).
+
+(Added Pub. L. 105–178, title I, §1503(a), June 9, 1998, 112 Stat. 243, §182; renumbered §602 and amended Pub. L. 109–59, title I, §§1601(b), (c), 1602(b)(2), (5), (d), Aug. 10, 2005, 119 Stat. 1240, 1247; Pub. L. 112–141, div. A, title II, §2002, July 6, 2012, 126 Stat. 611.)
 
 #### References in Text
 
-The Civil Rights Act of 1964, referred to in subsec. (c)(1), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (c)(1)(A), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (c)(2), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (c)(1)(B), (2), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in subsec. (c)(3), is act Jan. 2, 1971, Pub. L. 91–646, 84 Stat. 1894, as amended, and which is classified principally to chapter 61 (§4601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of Title 42 and Tables.
+The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in subsec. (c)(1)(C), is act Jan. 2, 1971, Pub. L. 91–646, 84 Stat. 1894, and which is classified principally to chapter 61 (§4601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2012</b>—Pub. L. 112–141 amended section generally. Prior to amendment, section related to determination of eligibility and project selection, consisting of subsecs. (a) to (c).
 
 <b>2005</b>—Pub. L. 109–59, §1602(d), renumbered section 182 of this title as this section.
 
@@ -127,4 +205,8 @@ Subsec. (b)(2)(A)(viii). Pub. L. 109–59, §1602(b)(2), inserted “and chapter
 Subsec. (b)(2)(B). Pub. L. 109–59, §1601(c)(2), inserted “, which may be the Federal credit instrument,” after “obligations”.
 
 Subsec. (c). Pub. L. 109–59, §1602(b)(5), substituted “this chapter” for “this subchapter” in introductory provisions.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
 

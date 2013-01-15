@@ -12,7 +12,7 @@ Section 15ee, act Aug. 1, 1946, ch. 725, title II, §205, as added Aug. 2, 1956,
 
 Section 15ff, act Aug. 1, 1946, ch. 725, title II, §206, as added Aug. 2, 1956, ch. 871, title III, §301, 70 Stat. 928, authorized appointment of advisory committees by Commissioner.
 
-Section 15gg, act Aug. 1, 1946, ch. 725, title II, §207, as added Aug. 2, 1956, ch. 871, title III, §301, 70 Stat. 928, provided that amounts paid under sections 15aa to 15jj of this title should in no way affect the availability of funds for practical nurse training under sections 11 to 15, 16, and 18 to 28 and sections 15i to 15m and 15<i>o</i> to 15q of this title.
+Section 15gg, act Aug. 1, 1946, ch. 725, title II, §207, as added Aug. 2, 1956, ch. 871, title III, §301, 70 Stat. 928, provided that amounts paid under sections 15aa to 15jj of this title should in no way affect the availability of funds for practical nurse training under sections 11 to 15, 16, and 18 to 28 and sections 15i to 15m and 15o to 15q of this title.
 
 Section 15hh, act Aug. 1, 1946, ch. 725, title II, §208, as added Aug. 2, 1956, ch. 871, title III, §301, 70 Stat. 928, required Commissioner to submit an annual report on administration of sections 15aa to 15jj of this title.
 
@@ -24,5 +24,5 @@ For general subject matter of sections 15aa to 15jj, see section 1241 et seq. of
 
 #### Effective Date of Repeal
 
-Section 103 of Pub. L. 90–576 provided that the repeal is effective July 1, 1969.
+Pub. L. 90–576, title I, §103, Oct. 16, 1968, 82 Stat. 1091, provided that the repeal is effective July 1, 1969.
 

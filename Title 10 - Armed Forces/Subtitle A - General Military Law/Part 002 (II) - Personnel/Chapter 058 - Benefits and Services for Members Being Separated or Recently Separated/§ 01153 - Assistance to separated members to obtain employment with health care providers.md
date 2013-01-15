@@ -20,7 +20,7 @@ Eligible Members.—(1) Except as provided in paragraph (2), a member shall be e
 
 (c)
 
-Selection of Participants.—(1) The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard, shall select members to participate in the program established under subsection (a) on the basis of applications submitted to the Secretary concerned not later than one year after the date of the discharge or release of the members from active duty or, in the case of an applicant becoming educationally qualified for teacher placement assistance in accordance with subsection (b)(2), not later than one year after the date on which the applicant becomes educationally qualified. An application shall be in such form and contain such information as the Secretaries may require.
+Selection of Participants.—(1) The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard, shall select members to participate in the program established under subsection (a) on the basis of applications submitted to the Secretaryconcerned not later than one year after the date of the discharge or release of the members from active duty or, in the case of an applicant becoming educationally qualified for teacher placement assistance in accordance with subsection (b)(2), not later than one year after the date on which the applicant becomes educationally qualified. An application shall be in such form and contain such information as the Secretaries may require.
 
 (2) The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard, may not select a member to participate in the program unless the Secretary concerned has sufficient appropriations for the placement program available at the time of the selection to satisfy the obligations to be incurred by the United States under subsection (d) with respect to that member.
 
@@ -44,7 +44,7 @@ Grants to Facilitate Employment.—(1) The Secretary of Defense and the Secretar
 
 &emsp;(E) For the fifth year of employment, 10 percent of the basic salary, except that the payment may not exceed $2,500.
 
-(3) Payments required under paragraph (2) may be made by the Secretary concerned insuch installments as the Secretary concerned may determine.
+(3) Payments required under paragraph (2) may be made by the Secretary concerned in such installments as the Secretary concerned may determine.
 
 (4) If a participant who is placed under this program leaves the employment of the health care provider before the end of the five years of required employment service, the provider shall reimburse the Secretary concerned in an amount that bears the same ratio to the total amount already paid under the agreement as the unserved portion bears to the five years of required service.
 

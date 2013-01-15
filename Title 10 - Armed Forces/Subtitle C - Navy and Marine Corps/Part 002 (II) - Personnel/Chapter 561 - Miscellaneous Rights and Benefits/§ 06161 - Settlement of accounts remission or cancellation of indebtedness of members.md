@@ -22,7 +22,7 @@ Regulations.—This section shall be administered under regulations prescribed b
 
 Subsec. (a). Pub. L. 109–364, §673(e)(2), substituted “The Secretary of the Navy” for “If the Secretary of the Navy considers it to be in the best interest of the United States, the Secretary” and inserted “, but only if the Secretary considers such action to be in the best interest of the United States” before period at end.
 
-Pub. L. 109–364, §673(b)(1), as amended by Pub. L. 110–181, substituted “of a person to the United States or any instrumentality of the United States incurred while the person was serving on active duty as a member of the naval service” for “of a member of the Navy on active duty, or a member of a reserve component of the Navy in an active status, to the United States or any instrumentality of the United States incurred while the member was serving on active duty”.
+Pub. L. 109–364, §673(b)(1), as amended by Pub. L. 110–181, substituted “of a person to the United States or any instrumentality of the United States incurred while the person was serving on active duty as a member of the naval service” for “of a member of the Navy on active duty, or a member of a reserve component ofthe Navy in an active status, to the United States or any instrumentality of the United States incurred while the member was serving on active duty”.
 
 Subsecs. (b) to (d). Pub. L. 109–364, §673(b)(2), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out heading and text of former subsec. (b). Text read as follows: “The Secretary of the Navy may exercise the authority in subsection (a) with respect to a member—
 

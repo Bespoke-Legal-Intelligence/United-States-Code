@@ -16,7 +16,7 @@ Pub. L. 109–125, §1, Dec. 7, 2005, 119 Stat. 2544, provided that: “This Act
 
 #### Transfer of Functions
 
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2,eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out below.
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out below.
 
 #### Stewart Lee Udall Department of the Interior Building
 
@@ -42,7 +42,7 @@ Compensation of Secretary, see section 5312 of Title 5, Government Organization 
 
 #### Order of Succession
 
-For order of succession during any period when both Secretary and Deputy Secretary of the Interior are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13244, Dec. 18, 2001, 66 F.R. 66267, set out as a note under section 3345 of Title 5, Government Organization and Employees.
+For order of succession during any period when both Secretary and Deputy Secretary of the Interior are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13244, Dec. 18, 2001, 66 F.R. 66267, listed in a table under section 3345 of Title 5, Government Organization and Employees.
 
 #### Executive Order No. 9432
 
@@ -50,7 +50,7 @@ Ex. Ord. No. 9432, eff. Mar. 28, 1944, 9 F.R. 3411, which related to designation
 
 #### Executive Order No. 9866
 
-Ex. Ord. No. 9866, eff. June 14, 1947, 12 F.R. 3909, which related to designation of officers to act as Secretary of the Interior, was superseded by Ex. Ord. No. 10156, eff. Aug. 26, 1950, 15 F.R. 5789, formerly out below.
+Ex. Ord. No. 9866, eff. June 14, 1947, 12 F.R. 3909, which related to designation of officers to act as Secretary of the Interior, was superseded by Ex. Ord. No. 10156, eff. Aug. 26, 1950, 15 F.R. 5789, formerly set out below.
 
 #### Executive Order No. 10156
 
@@ -58,7 +58,7 @@ Ex. Ord. No. 10156, eff. Aug. 26, 1950, 15 F.R. 5789, which related to designati
 
 #### Executive Order No. 10753
 
-Ex. Ord. No. 10753, eff. Feb. 15, 1958, 23 F.R. 1107, which provided for succession to office of Secretary of the Interior, was superseded by Ex. Ord. No. 11487, eff. Oct. 6, 1969, 34 F.R. 15593, formerly set out as a note under section 3345 of Title 5, Government Organization and Employees.
+Ex. Ord. No. 10753, eff. Feb. 15, 1958, 23 F.R. 1107, which provided for succession to office of Secretary of the Interior, was superseded by Ex. Ord. No. 11487, eff. Oct. 6, 1969, 34 F.R. 15593, listed in a table under section 3345 of Title 5, Government Organization and Employees.
 
 #### <b>REORGANIZATION PLAN NO. 3 OF 1950</b>
 

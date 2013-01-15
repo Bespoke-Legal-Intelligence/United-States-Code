@@ -54,7 +54,7 @@ Any—
 
 &emsp;&emsp;&emsp;&emsp;(II) a credit against a bond under section 1312(d) of this title; or
 
-&emsp;&emsp;&emsp;&emsp;(III) a refund, waiver, or reduction of duty under section 1313(n)(2) or (<i>o</i>)(1) of this title;
+&emsp;&emsp;&emsp;&emsp;(III) a refund, waiver, or reduction of duty under section 1313(n)(2) or (o)(1) of this title;
 
 &emsp;&emsp;&nbsp;must disclose to the Customs Service the information described in clause (ii).
 
@@ -278,7 +278,7 @@ For the purposes of this section and section 1509 of this title, a person orderi
 
 &emsp;The person who issues a Panama TPA certification of origin shall keep the records and supporting documents relating to that certification of origin for a period of at least 5 years after the date on which the certification is issued.
 
-#### (<i>l</i>) Penalties
+#### (l) Penalties
 
 Any person who fails to retain records and supporting documents required by subsection (f), (g), (h), (i), (j), or (k) of this section or the regulations issued to implement any such subsection shall be liable for the greater of—
 
@@ -286,7 +286,7 @@ Any person who fails to retain records and supporting documents required by subs
 
 &emsp;(2) the general record keeping penalty that applies under the customs laws of the United States.
 
-(June 17, 1930, ch. 497, title IV, §508, as added Pub. L. 95–410, title I, §104, Oct. 3, 1978, 92 Stat. 889; amended Pub. L. 100–449, title II, §205(b), Sept. 28, 1988, 102 Stat. 1864; Pub. L. 103–182, title II, §205(a), title VI, §614, Dec. 8, 1993, 107 Stat. 2093, 2174; Pub. L. 104–295, §3(a)(6)(B), Oct. 11, 1996, 110 Stat. 3515; Pub. L. 108–77, title II, §§207, 209, Sept. 3, 2003, 117 Stat. 931, 933; Pub. L. 109–53, title II, §208, Aug. 2, 2005, 119 Stat. 485; Pub. L. 110–138, title II, §207, Dec. 14, 2007, 121 Stat. 1476; Pub. L. 112–41, title II, §206, Oct. 21, 2011, 125 Stat. 449; Pub. L. 112–42, title II, §207, Oct. 21, 2011, 125 Stat. 484; Pub. L. 112–43, title II, §207, Oct. 21, 2011, 125 Stat. 520.)
+(June 17, 1930, ch. 497, title IV, §508, as added Pub. L. 95–410, title I, §104, Oct. 3, 1978, 92 Stat.889; amended Pub. L. 100–449, title II, §205(b), Sept. 28, 1988, 102 Stat. 1864; Pub. L. 103–182, title II, §205(a), title VI, §614, Dec. 8, 1993, 107 Stat. 2093, 2174; Pub. L. 104–295, §3(a)(6)(B), Oct. 11, 1996, 110 Stat. 3515; Pub. L. 108–77, title II, §§207, 209, Sept. 3, 2003, 117 Stat. 931, 933; Pub. L. 109–53, title II, §208, Aug. 2, 2005, 119 Stat. 485; Pub. L. 110–138, title II, §207, Dec. 14, 2007, 121 Stat. 1476; Pub. L. 112–41, title II, §206, Oct. 21, 2011, 125 Stat. 449; Pub. L. 112–42, title II, §207, Oct. 21, 2011, 125 Stat. 484; Pub. L. 112–43, title II, §207, Oct. 21, 2011, 125 Stat. 520.)
 
 #### Amendment of Section
 
@@ -302,6 +302,8 @@ Any person who fails to retain records and supporting documents required by subs
 
 <i>For termination of amendment by section 107(c) of Pub. L. 108–77, see Effective and Termination Dates of 2003 Amendment note below.</i>
 
+<i>For termination of amendment by section 501(c) of Pub. L. 100–449, see Effective and Termination Dates of 1988 Amendment note below.</i>
+
 #### Prior Provisions
 
 A prior section 1508, acts June 17, 1930, ch. 497, title IV, §508, 46 Stat. 732; Aug. 8, 1953, ch. 397, §19, 67 Stat. 518, related to commingling of goods, prior to repeal by Pub. L. 87–456, title III, §301(a), May 24, 1962, 76 Stat. 75, effective, pursuant to section 501(a) of Pub. L. 87–456, with respect to articles entered, or withdrawn from warehouse, for consumption on or after Aug. 31, 1963.
@@ -314,11 +316,11 @@ Subsec. (j). Pub. L. 112–42, §§107(c), 207(2), temporarily added subsec. (j)
 
 Pub. L. 112–41, §§107(c), 206(1), (3), temporarily redesignated subsec. (i) as (j) and, in introductory provisions, substituted “(g), (h), or (i)” for “(g), or (h)”. See Effective and Termination Dates of 2011 Amendment note below.
 
-Subsec. (k). Pub. L. 112–43, §§107(c), 207(2), temporarily added subsec. (k). Former subsec. (k) redesignated (<i>l</i>). See Effective and Termination Dates of 2011 Amendment note below.
+Subsec. (k). Pub. L. 112–43, §§107(c), 207(2), temporarily added subsec. (k). Former subsec. (k) redesignated (l). See Effective and Termination Dates of 2011 Amendment note below.
 
 Pub. L. 112–42, §§107(c), 207(1), (3), temporarily redesignated former subsec. (j) as (k) and, in introductory provisions, substituted “(h), (i), or (j)” for “(h), or (i)”. See Effective and Termination Dates of 2011 Amendment note below.
 
-Subsec. (<i>l</i>). Pub. L. 112–43, §§107(c), 207(1), (3), temporarily redesignated subsec. (k) as (<i>l</i>), and, in introductory provisions, substituted “(i), (j), or (k)” for “(i), or (j)”. See Effective and Termination Dates of 2011 Amendment note below.
+Subsec. (l). Pub. L. 112–43, §§107(c), 207(1), (3), temporarily redesignated subsec. (k) as (l), and, in introductory provisions, substituted “(i), (j), or (k)” for “(i), or (j)”. See Effective and Termination Dates of 2011 Amendment note below.
 
 <b>2007</b>—Subsec. (h). Pub. L. 110–138, §§107(c), 207(2), temporarily added subsec. (h). Former subsec. (h) redesignated (i). See Effective and Termination Dates of 2007 Amendment note below.
 
@@ -350,13 +352,13 @@ Pub. L. 103–182, §614(2), amended subsec. (c) generally. Prior to amendment, 
 
 Subsec. (e). Pub. L. 103–182, §205(a)(3), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Any person who fails to retain records required by subsection (b) of this section or the regulations issued to implement that subsection shall be liable to a civil penalty not to exceed $10,000.”
 
-<b>1988</b>—Subsecs. (b) to (e). Pub. L. 100–449 added subsec. (b), redesignated former subsec. (b) as (c) and inserted “and (b)” after “subsection (a)”, redesignated former subsec. (c) as (d), and added subsec. (e).
+<b>1988</b>—Subsecs. (b) to (e). Pub. L. 100–449 temporarily added subsec. (b), redesignated former subsec. (b) as (c) and inserted “and (b)” after “subsection (a)”, redesignated former subsec. (c) as (d), and added subsec. (e). See Effective and Termination Dates of 1988 Amendment note below.
 
 #### Effective and Termination Dates of 2011 Amendment
 
-Amendment by Pub. L. 112–43 effective Oct. 21, 2011, applicable with respect to Panama on the date the United States–Panama Trade Promotion Agreement enters into force, and to cease to be effective on the date the Agreement terminates, see section 107(b), (c) of Pub. L. 112–43, set out in a note under section 3805 of this title.
+Amendment by Pub. L. 112–43 effective Oct. 21, 2011, applicable with respect to Panama on the date the United States–Panama Trade Promotion Agreement enters into force (Oct. 31, 2012), and to cease to be effective on the date the Agreement terminates, see section 107(b), (c) of Pub. L. 112–43, set out in a note under section 3805 of this title.
 
-Amendment by Pub. L. 112–42 effective Oct. 21, 2011, applicable with respect to Colombia on the date the United States–Columbia Trade Promotion Agreement enters into force, and to cease to be effective on the date the Agreement terminates, see section 107(b), (c) of Pub. L. 112–42, set out in a note under section 3805 of this title.
+Amendment by Pub. L. 112–42 effective Oct. 21, 2011, applicable with respect to Colombia on the date the United States–Colombia Trade Promotion Agreement enters into force (May 15, 2012), and to cease to be effective on the date the Agreement terminates, see section 107(b), (c) of Pub. L. 112–42, set out in a note under section 3805 of this title.
 
 Amendment by Pub. L. 112–41 effective Oct. 21, 2011, applicable with respect to Korea on the date the United States–Korea Free Trade Agreement enters into force (Mar. 15, 2012), and to cease to be effective on the date the Agreement terminates, see section 107(b), (c) of Pub. L. 112–41, set out in a note under section 3805 of this title.
 

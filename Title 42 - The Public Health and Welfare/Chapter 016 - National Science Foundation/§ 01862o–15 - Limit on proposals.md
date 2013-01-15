@@ -20,5 +20,5 @@ Committee on Science and Technology of House of Representatives changed to Commi
 
 #### Definitions
 
-For definitions of terms used in this section, see section 7001 of Pub. L. 110–69, set out as a note under section 1862<i>o</i> of this title.
+For definitions of terms used in this section, see section 7001 of Pub. L. 110–69, set out as a note under section 1862o of this title.
 

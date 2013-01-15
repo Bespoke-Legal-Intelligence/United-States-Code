@@ -84,13 +84,13 @@ For purposes of this section, the term “qualified long-term care insurance con
 
 #### (f) Coordination with State requirements
 
-If a State imposes any requirement which is more stringent than the analogous requirement imposed by this section or section 7702B(g), the requirement imposed by this section or section 7702B(g) shall be treated as met if the more stringent State requirement is met.
+If a State imposes any requirement which is more stringent than the analogous requirementimposed by this section or section 7702B(g), the requirement imposed by this section or section 7702B(g) shall be treated as met if the more stringent State requirement is met.
 
 (Added Pub. L. 104–191, title III, §326(a), Aug. 21, 1996, 110 Stat. 2065.)
 
 #### Effective Date
 
-Section 327 of title III of Pub. L. 104–191 provided that:
+Pub. L. 104–191, title III, §327, Aug. 21, 1996, 110 Stat. 2066, provided that:
 
 “(a)
 

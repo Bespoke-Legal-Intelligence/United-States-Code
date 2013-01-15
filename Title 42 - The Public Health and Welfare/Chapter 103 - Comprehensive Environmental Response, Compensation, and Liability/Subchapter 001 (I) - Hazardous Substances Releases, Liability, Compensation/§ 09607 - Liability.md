@@ -42,7 +42,7 @@ There shall be no liability under subsection (a) of this section for a person ot
 
 &emsp;(B) for any other vessel, other than an incineration vessel, $300 per gross ton, or $500,000, whichever is greater;
 
-&emsp;(C) for any motor vehicle, aircraft, hazardous liquid pipeline facility (as defined in section 60101(a) of title 49), or rolling stock, $50,000,000 or such lesser amount as the President shall establish by regulation, but in no event less than $5,000,000 (or, for releases of hazardous substances as defined in section 9601(14)(A) of this title into the navigable waters, $8,000,000). Such regulations shall take into account the size, type, location, storage, and handling capacity and other matters relating to the likelihood of release in each such class and to the economic impact of such limits on each such class; or
+&emsp;(C) for any motor vehicle, aircraft, hazardous liquid pipeline facility (as defined in section 60101(a) of title 49), or rolling stock, $50,000,000 or such lesser amount as the President shall establish by regulation, but in no event less than $5,000,000 (or, for releases ofhazardous substances as defined in section 9601(14)(A) of this title into the navigable waters, $8,000,000). Such regulations shall take into account the size, type, location, storage, and handling capacity and other matters relating to the likelihood of release in each such class and to the economic impact of such limits on each such class; or
 
 &emsp;(D) for any incineration vessel or any facility other than those specified in subparagraph (C) of this paragraph, the total of all costs of response plus $50,000,000 for any damages under this subchapter.
 
@@ -74,7 +74,7 @@ There shall be no liability under subsection (a) of this section for a person ot
 
 #### (1) Natural resources liability
 
-&emsp;In the case of an injury to, destruction of, or loss of natural resources under subparagraph (C) of subsection (a) of this section liability shall be to the United States Government and to any State for natural resources within the State or belonging to, managed by, controlled by, or appertaining to such State and to any Indian tribe for natural resources belonging to, managed by, controlled by, or appertaining to such tribe, or held in trust for the benefit of such tribe, or belonging to a member of such tribe if such resources are subject to a trust restriction on alienation: <i>Provided, however</i>, That no liability to the United States or State or Indian tribe shall be imposed under subparagraph (C) of subsection (a) of this section, where the party sought to be charged has demonstrated that the damages to natural resources complained of were specifically identified as an irreversible and irretrievable commitment of natural resources in an environmental impact statement, or other comparable environment analysis, and the decision to grant a permit or license authorizes such commitment of natural resources, and the facility or project was otherwise operating within the terms of its permit or license, so long as, in the case of damages to an Indian tribe occurring pursuant to a Federal permit or license, the issuance of that permit or license was not inconsistent with the fiduciary duty of the United States with respect to such Indian tribe. The President, or the authorized representative of any State, shall act on behalf of the public as trustee of such natural resources to recover for such damages. Sums recovered by the United States Government as trustee under this subsection shall be retained by the trustee, without further appropriation, for use only to restore, replace, or acquire the equivalent of such natural resources. Sums recovered by a State as trustee under this subsection shall be available for use only to restore, replace, or acquire the equivalent of such natural resources by the State. The measure of damages in any action under subparagraph (C) of subsection (a) of this section shall not be limited by the sums which can be used to restore or replace such resources. There shall be no double recovery under this chapter for natural resource damages, including the costs of damage assessment or restoration, rehabilitation, or acquisition for the same release and natural resource. There shall be no recovery under the authority of subparagraph (C) of subsection (a) of this section where such damages and the release of a hazardous substance from which such damages resulted have occurred wholly before December 11, 1980.
+&emsp;In the case of an injury to, destruction of, or loss of natural resources under subparagraph (C) of subsection (a) of this section liability shall be to the United States Government and to any State for natural resources within the State or belonging to, managed by, controlled by, or appertaining to such State and to any Indian tribe for natural resources belonging to, managed by, controlled by, or appertaining to such tribe, or held in trust for the benefit of such tribe, or belonging to a member of such tribe if such resources are subject to a trust restriction on alienation: <i>Provided, however</i>, That no liability to the United States or State or Indian tribe shall be imposed under subparagraph (C) of subsection (a) of this section, where the party sought to be charged has demonstrated that the damages to natural resources complained of were specifically identified as an irreversible and irretrievable commitment of natural resources in an environmental impact statement, or other comparable environment analysis, and the decision to grant a permit or license authorizes such commitment of natural resources, and the facility or project was otherwise operatingwithin the terms of its permit or license, so long as, in the case of damages to an Indian tribe occurring pursuant to a Federal permit or license, the issuance of that permit or license was not inconsistent with the fiduciary duty of the United States with respect to such Indian tribe. The President, or the authorized representative of any State, shall act on behalf of the public as trustee of such natural resources to recover for such damages. Sums recovered by the United States Government as trustee under this subsection shall be retained by the trustee, without further appropriation, for use only to restore, replace, or acquire the equivalent of such natural resources. Sums recovered by a State as trustee under this subsection shall be available for use only to restore, replace, or acquire the equivalent of such natural resources by the State. The measure of damages in any action under subparagraph (C) of subsection (a) of this section shall not be limited by the sums which can be used to restore or replace such resources. There shall be no double recovery under this chapter for natural resource damages, including the costs of damage assessment or restoration, rehabilitation, or acquisition for the same release and natural resource. There shall be no recovery under the authority of subparagraph (C) of subsection (a) of this section where such damages and the release of a hazardous substance from which such damages resulted have occurred wholly before December 11, 1980.
 
 #### (2) Designation of Federal and State officials
 
@@ -88,7 +88,7 @@ There shall be no liability under subsection (a) of this section for a person ot
 
 #### (C) Rebuttable presumption
 
-&emsp;&emsp;Any determination or assessment of damages to natural resources for the purposes of this chapter and section 1321 of title 33 made by a Federal or State trustee in accordance with the regulations promulgated under section 9651(c) of this title shall have the forceand effect of a rebuttable presumption on behalf of the trustee in any administrative or judicial proceeding under this chapter or section 1321 of title 33.
+&emsp;&emsp;Any determination or assessment of damages to natural resources for the purposes of this chapter and section 1321 of title 33 made by a Federal or State trustee in accordance with the regulations promulgated under section 9651(c) of this title shall have the force and effect of a rebuttable presumption on behalf of the trustee in any administrative or judicial proceeding under this chapter or section 1321 of title 33.
 
 #### (g) Federal agencies
 
@@ -110,7 +110,7 @@ Recovery by any person (including the United States or any State or Indian tribe
 
 (1) The liability established by this section or any other law for the owner or operator of a hazardous waste disposal facility which has received a permit under subtitle C of the Solid Waste Disposal Act \[42 U.S.C. 6921 et seq.\], shall be transferred to and assumed by the Post-closure Liability Fund established by section 9641 <sup>1</sup> of this title when—
 
-&emsp;(A) such facility and the owner and operator thereof has complied with the requirements of subtitle C of the Solid Waste Disposal Act \[42 U.S.C. 6921 et seq.\] and regulations issued thereunder, which may affect the performance of such facility after closure; and
+&emsp;(A) such facility and the owner and operator thereof has complied with the requirements of subtitle C of the Solid Waste Disposal Act \[42U.S.C. 6921 et seq.\] and regulations issued thereunder, which may affect the performance of such facility after closure; and
 
 &emsp;(B) such facility has been closed in accordance with such regulations and the conditions of such permit, and such facility and the surrounding area have been monitored as required by such regulations and permit conditions for a period not to exceed five years after closure to demonstrate that there is no substantial likelihood that any migration offsite or release from confinement of any hazardous substance or other risk to public health or welfare will occur.
 
@@ -118,7 +118,7 @@ Recovery by any person (including the United States or any State or Indian tribe
 
 (3) In addition to the assumption of liability of owners and operators under paragraph (1) of this subsection, the Post-closure Liability Fund established by section 9641 <sup>1</sup> of this title may be used to pay costs of monitoring and care and maintenance of a site incurred by other persons after the period of monitoring required by regulations under subtitle C of the Solid Waste Disposal Act \[42 U.S.C. 6921 et seq.\] for hazardous waste disposal facilities meeting the conditions of paragraph (1) of this subsection.
 
-(4)(A) Not later than one year after December 11, 1980, the Secretary of the Treasury shall conduct a study and shall submit a report thereon to the Congress on the feasibility of establishing or qualifying an optional system of private insurance for postclosure financial responsibility for hazardous waste disposal facilities to which this subsection applies. Such study shall include a specification of adequate and realistic minimum standards to assure that any such privately placed insurance will carry out the purposes of this subsection in a reliable, enforceable, and practical manner. Such a study shall include an examination of the public and privateincentives, programs, and actions necessary to make privately placed insurance a practical and effective option to the financing system for the Post-closure Liability Fund provided in subchapter II <sup>1</sup> of this chapter.
+(4)(A) Not later than one year after December 11, 1980, the Secretary of the Treasury shall conduct a study and shall submit a report thereon to the Congress on the feasibility of establishing or qualifying an optional system of private insurance for postclosure financial responsibility for hazardous waste disposal facilities to which this subsection applies. Such study shall include a specification of adequate and realistic minimum standards to assure that any such privately placed insurance will carry out the purposes of this subsection in a reliable, enforceable, and practical manner. Such a study shall include an examination of the public and private incentives, programs, and actions necessary to make privately placed insurance a practical and effective option to the financing system for the Post-closure Liability Fund provided in subchapter II <sup>1</sup> of this chapter.
 
 (B) Not later than eighteen months after December 11, 1980, and after a public hearing, the President shall by rule determine whether or not it is feasible to establish or qualify an optional system of private insurance for postclosure financial responsibility for hazardous waste disposal facilities to which this subsection applies. If the President determines the establishment or qualification of such a system would be infeasible, he shall promptly publish an explanation of the reasons for such a determination. If the President determines the establishment or qualification of such a system would be feasible, he shall promptly publish notice of such determination. Not later than six months after an affirmative determination under the preceding sentence and after a public hearing, the President shall by rule promulgate adequate and realistic minimum standards which must be met by any such privately placed insurance, taking into account the purposes of this chapter and this subsection. Such rules shall also specify reasonably expeditious procedures by which privately placed insurance plans can qualify as meeting such minimum standards.
 
@@ -172,7 +172,7 @@ Consideration of options.—In conducting the study under this paragraph, the Co
 
 &emsp;&emsp;(iii) legislation to require risk pooling by owners and operators;
 
-&emsp;&emsp;(iv) modification of the Post-Closure Liability Trust Fund previously established by section 9641 <sup>1</sup> of this title, and the conditionsfor transfer of liability under this subsection, including limiting the transfer of some or all liability under this subsection only in the case of insolvency of owners and operators;
+&emsp;&emsp;(iv) modification of the Post-Closure Liability Trust Fund previously established by section 9641 <sup>1</sup> of this title, and the conditions for transfer of liability under this subsection, including limiting the transfer of some or all liability under this subsection only in the case of insolvency of owners and operators;
 
 &emsp;&emsp;(v) private insurance;
 
@@ -186,7 +186,7 @@ Consideration of options.—In conducting the study under this paragraph, the Co
 
 Recommendations.—The Comptroller General shall consider options for funding any program under this section and shall, to the extent necessary, make recommendations to the appropriate committees of Congress for additional authority to implement such program.
 
-#### (<i>l</i>) Federal lien
+#### (l) Federal lien
 
 #### (1) In general
 
@@ -208,7 +208,7 @@ Recommendations.—The Comptroller General shall consider options for funding an
 
 #### (3) Notice and validity
 
-&emsp;The lien imposed by this subsection shall be subject to the rights of any purchaser, holder of a security interest, or judgment lien creditor whose interest is perfected under applicable State law before notice of the lien has been filed in the appropriate office within the State (or county or other governmental subdivision), as designated by State law, in which the real property subject to the lien is located. Any such purchaser, holder of a security interest, or judgment lien creditor shall be afforded the same protections against the lien imposed by this subsection as are afforded under State law against a judgment lien which arises out of an unsecured obligation and which arises as of the time of the filing of the notice of the lien imposed by this subsection. If the State has not by law designated one office for the receipt of such notices of liens, the notice shall be filed in the office of the clerk of the United States district court for the district in which the real property is located. For purposes of this subsection, the terms “purchaser” and “security interest” shall have the definitions provided under section 6323(h) of title 26.
+&emsp;The lien imposed by this subsection shall be subject to the rights of any purchaser, holder of a security interest, or judgment lien creditor whose interest is perfected under applicable State law before notice of the lien has been filed in the appropriate office within the State (or county or other governmental subdivision), as designated by State law, in which the real property subject to the lien is located. Any such purchaser, holder of a security interest, or judgment lien creditor shall be afforded the same protections against the lien imposed by this subsection as are afforded under State law against a judgment lien which arises out of an unsecured obligation and which arises as of the time of the filing of the notice of the lienimposed by this subsection. If the State has not by law designated one office for the receipt of such notices of liens, the notice shall be filed in the office of the clerk of the United States district court for the district in which the real property is located. For purposes of this subsection, the terms “purchaser” and “security interest” shall have the definitions provided under section 6323(h) of title 26.
 
 #### (4) Action in rem
 
@@ -294,7 +294,7 @@ All costs and damages for which the owner or operator of a vessel is liable unde
 
 #### (B) Fiduciary capacity
 
-&emsp;&emsp;The term “fiduciary capacity” means the capacity of a person in holding title to a vessel or facility, or otherwise having control of or an interest in the vessel or facility, pursuant to the exercise of the responsibilities of the person as a fiduciary.
+&emsp;&emsp;The term “fiduciary capacity” means the capacity of a person in holding title to a vessel or facility, or otherwise having control ofor an interest in the vessel or facility, pursuant to the exercise of the responsibilities of the person as a fiduciary.
 
 #### (6) Savings clause
 
@@ -324,7 +324,7 @@ All costs and damages for which the owner or operator of a vessel is liable unde
 
 &emsp;&emsp;(B) a nonemployee agent or independent contractor retained by a fiduciary.
 
-#### (<i>o</i>) De micromis exemption
+#### (o) De micromis exemption
 
 #### (1) In general
 
@@ -366,7 +366,7 @@ All costs and damages for which the owner or operator of a vessel is liable unde
 
 &emsp;&emsp;(C) an organization described in section 501(c)(3) of title 26 and exempt from tax under section 501(a) of such title that, during its taxable year preceding the date of transmittal of written notification from the President of its potential liability under this section, employed not more than 100 paid individuals at the location from which was generated all of the municipal solid waste attributable to the organization with respect to the facility.
 
-> &emsp;For purposes of this subsection, the term “affiliate” has the meaning of that term provided in the definition of “small business concern” in regulations promulgated by the Small Business Administration in accordance with the Small Business Act (15 U.S.C. 631 et seq.).
+> &emsp;For purposes of this subsection, the term “affiliate” has the meaning of that term providedin the definition of “small business concern” in regulations promulgated by the Small Business Administration in accordance with the Small Business Act (15 U.S.C. 631 et seq.).
 
 #### (2) Exception
 
@@ -424,7 +424,7 @@ All costs and damages for which the owner or operator of a vessel is liable unde
 
 #### (7) Costs and fees
 
-&emsp;A nongovernmental entity that commences, after January 11, 2002, a contribution action under this chapter shall be liable to the defendant for all reasonable costs of defending the action, including all reasonable attorney's fees and expert witness fees, if the defendant is not liable for contribution based on an exemption under this subsection or subsection (<i>o</i>) of this section.
+&emsp;A nongovernmental entity that commences, after January 11, 2002, a contribution action under this chapter shall be liable to the defendant for all reasonable costs of defending the action, including all reasonable attorney's fees and expert witness fees, if the defendant is not liable for contribution based on an exemption under this subsection or subsection (o) of this section.
 
 #### (q) Contiguous properties
 
@@ -478,7 +478,7 @@ All costs and damages for which the owner or operator of a vessel is liable unde
 
 #### (D) Ground water
 
-&emsp;&emsp;With respect to a hazardous substance from one or more sources that are not on the property of a person that is a contiguous property owner that enters ground water beneath the property of the person solely as a result of subsurface migration in an aquifer, subparagraph (A)(iii) shall not require theperson to conduct ground water investigations or to install ground water remediation systems, except in accordance with the policy of the Environmental Protection Agency concerning owners of property containing contaminated aquifers, dated May 24, 1995.
+&emsp;&emsp;With respect to a hazardous substance from one or more sources that are not on the property of a person that is a contiguous property owner that enters ground water beneath the property of the person solely as a result of subsurface migration in an aquifer, subparagraph (A)(iii) shall not require the person to conduct ground water investigations or to install ground water remediation systems, except in accordance with the policy of the Environmental Protection Agency concerning owners of property containing contaminated aquifers, dated May 24, 1995.
 
 #### (2) Effect of law
 
@@ -522,11 +522,11 @@ All costs and damages for which the owner or operator of a vessel is liable unde
 
 &emsp;A lien under paragraph (2)—
 
-&emsp;&emsp;(A) shall be in an amount not to exceed the increase in fair market value of the property attributable to the response action at the time of a sale or other disposition of the property;
+&emsp;&emsp;(A) shall be in an amount not to exceed the increase in fair market value of the property attributable to the response action at thetime of a sale or other disposition of the property;
 
 &emsp;&emsp;(B) shall arise at the time at which costs are first incurred by the United States with respect to a response action at the facility;
 
-&emsp;&emsp;(C) shall be subject to the requirements of subsection (<i>l</i>)(3) of this section; and
+&emsp;&emsp;(C) shall be subject to the requirements of subsection (l)(3) of this section; and
 
 &emsp;&emsp;(D) shall continue until the earlier of—
 
@@ -550,7 +550,7 @@ The Solid Waste Disposal Act, referred to in subsec. (k)(1), (3), (6)(E)(i), is 
 
 Section 9641 of this title, referred to in subsec. (k), was repealed by Pub. L. 99–499, title V, §514(b), Oct. 17, 1986, 100 Stat. 1767.
 
-Subchapter II of this chapter, referred to in subsec. (k)(4)(A) and (C), was in the original “title II of this Act”, meaning title II of Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2796, known as the Hazardous Substance ResponseRevenue Act of 1980, which enacted subchapter II of this chapter and sections 4611, 4612, 4661, 4662, 4681, and 4682 of Title 26, Internal Revenue Code. Sections 221 to 223 and 232 of Pub. L. 96–510, which were classified to sections 9631 to 9633 and 9641 of this title, comprising subchapter II of this chapter, were repealed by Pub. L. 99–499, title V, §§514(b), 517(c)(1), Oct. 17, 1986, 100 Stat. 1767, 1774. For complete classification of title II to the Code, see Short Title of 1980 Amendment note set out under section 1 of Title 26 and Tables.
+Subchapter II of this chapter, referred to in subsec. (k)(4)(A) and (C), was in the original “title II of this Act”, meaning title II of Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2796, known as the Hazardous Substance Response Revenue Act of 1980, which enacted subchapter II of this chapter and sections 4611, 4612, 4661, 4662, 4681, and 4682 of Title 26, Internal Revenue Code. Sections 221 to 223 and 232 of Pub. L. 96–510, which were classified to sections 9631 to 9633 and 9641 of this title, comprising subchapter II of this chapter, were repealed by Pub. L. 99–499, title V, §§514(b), 517(c)(1), Oct. 17, 1986, 100 Stat. 1767, 1774. For complete classification of title II to the Code, see Short Title of 1980 Amendment note set out under section 1 of Title 26 and Tables.
 
 The Hazardous and Solid Waste Amendments of 1984, referred to in subsec. (k)(6)(A), (E), is Pub. L. 98–616, Nov. 8, 1984, 98 Stat. 3221. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under section 6901 of this title and Tables.
 
@@ -558,7 +558,7 @@ The Small Business Act, referred to in subsec. (p)(1), is Pub. L. 85–536, §2(
 
 #### Amendments
 
-<b>2002</b>—Subsecs. (<i>o</i>), (p). Pub. L. 107–118, §102(a), added subsecs. (<i>o</i>) and (p).
+<b>2002</b>—Subsecs. (o), (p). Pub. L. 107–118, §102(a), added subsecs. (o) and (p).
 
 Subsec. (q). Pub. L. 107–118, §221, added subsec. (q).
 
@@ -590,7 +590,7 @@ Subsec. (d). Pub. L. 99–499, §107(c), amended subsec. (d) generally. Prior to
 
 Subsec. (f)(1). Pub. L. 99–499, §107(d)(1), designated existing provisions as par. (1) and added heading.
 
-Pub. L. 99–499, §207(c)(2)(A), inserted “and to any Indian tribe for natural resources belonging to, managed by, controlled by, or appertaining to such tribe, or held in trust for the benefit of such tribe, or belonging to a member of such tribe if such resources are subject to a trust restriction on alienation” after third reference to “State”.
+Pub. L. 99–499, §207(c)(2)(A), inserted “and to any Indian tribe for natural resources belonging to, managed by, controlled by, or appertaining to such tribe, or heldin trust for the benefit of such tribe, or belonging to a member of such tribe if such resources are subject to a trust restriction on alienation” after third reference to “State”.
 
 Pub. L. 99–499, §207(c)(2)(B), inserted “or Indian tribe” after fourth reference to “State”.
 
@@ -612,9 +612,9 @@ Subsec. (j). Pub. L. 99–499, §207(c)(4), inserted “or Indian tribe” after
 
 Subsec. (k)(5), (6). Pub. L. 99–499, §201, added pars. (5) and (6).
 
-Subsec. (<i>l</i>). Pub. L. 99–499, §107(f), added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 99–499, §107(f), added subsec. (l).
 
-Subsec. (<i>l</i>)(3). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+Subsec. (l)(3). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 Subsec. (m). Pub. L. 99–499, §107(f), added subsec. (m).
 

@@ -62,11 +62,11 @@ Subsec. (e). Pub. L. 104–106, §1040(b), inserted before period at end of seco
 
 #### Effective Date
 
-Section 1253(b) of Pub. L. 98–94 provided that: “Section 1587 of such title \[this section\], as added by subsection (a), shall apply with respect to any conduct prohibited by subsection (b) of such section which occursafter the date of the enactment of this Act \[Sept. 24, 1983\].”
+Pub. L. 98–94, title XII, §1253(b), Sept. 24, 1983, 97 Stat. 700, provided that: “Section 1587 of such title \[this section\], as added by subsection (a), shall apply with respect to any conduct prohibited by subsection (b) of such section which occurs after the date of the enactment of this Act \[Sept. 24, 1983\].”
 
 #### Limitation on Provision of Overseas Living Quarters Allowances for Nonappropriated Fund Instrumentality Employees
 
-Section 1042 of Pub. L. 104–106 provided that:
+Pub. L. 104–106, div. A, title X, §1042, Feb. 10, 1996, 110 Stat. 434, provided that:
 
 “(a)
 

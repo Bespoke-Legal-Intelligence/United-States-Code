@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(A) the penalty imposed by subsection (a) shall be $30 in lieu of $100, and
 
-&emsp;&emsp;(B) the total amount imposed on the person for all such failures during any calendar year which are so corrected shall not exceed $250,000.
+&emsp;&emsp;(B) the total amount imposed on the person for all such failures during any calendaryear which are so corrected shall not exceed $250,000.
 
 #### (2) Failures corrected on or before August 1
 
@@ -116,7 +116,7 @@ If 1 or more failures described in subsection (a)(2) are due to intentional disr
 
 &emsp;&emsp;(B) is not described in subparagraph (A) and is not a multiple of $10, such amount shall be rounded to the next lowest multiple of $10.
 
-(Added Pub. L. 99–514, title XV, §1501(a), Oct. 22, 1986, 100 Stat. 2732; amended Pub. L. 100–690, title VII, §7601(a)(2)(A), Nov. 18, 1988, 102 Stat. 4503; Pub. L. 101–239, title VII, §7711(a), Dec. 19, 1989, 103 Stat. 2388; Pub. L. 101–508, title XI, §11318(b), Nov. 5, 1990, 104 Stat. 1388–459; Pub. L. 109–280, title XII, §1211(b)(2), Aug. 17, 2006, 120 Stat. 1073; Pub. L. 111–240, title II, §2102(a)–(f), Sept. 27, 2010, 124 Stat. 2561, 2562.)
+(Added Pub. L. 99–514, title XV, §1501(a), Oct. 22, 1986, 100 Stat. 2732; amended Pub. L. 100–690, title VII, §7601(a)(2)(A), Nov. 18, 1988, 102 Stat. 4503; Pub. L. 101–239, title VII, §7711(a), Dec. 19, 1989, 103 Stat. 2388; Pub. L. 101–508, title XI, §11318(b), Nov. 5, 1990, 104 Stat. 1388–459; Pub. L. 109–280, title XII, §1211(b)(2), Aug. 17, 2006, 120 Stat. 1073;Pub. L. 111–240, title II, §2102(a)–(f), Sept. 27, 2010, 124 Stat. 2561, 2562.)
 
 #### Amendments
 
@@ -166,7 +166,7 @@ Amendment by Pub. L. 101–508 applicable to amounts received after Nov. 5, 1990
 
 #### Effective Date of 1989 Amendment
 
-Section 7711(c) of Pub. L. 101–239 provided that: “The amendments made by this section \[amending this section and sections 6722 to 6724 and 7205 of this title and repealing sections 6017A, 6676, and 6687 of this title\] shall apply to returns and statements the due date for which (determined without regard to extensions) is after December 31, 1989.”
+Pub. L. 101–239, title VII, §7711(c), Dec. 19, 1989, 103 Stat. 2393, provided that: “The amendments made by this section \[amending this section and sections 6722 to 6724 and 7205 of this title and repealing sections 6017A, 6676, and 6687 of this title\] shall apply to returns and statements the due date for which (determined without regard to extensions) is after December 31, 1989.”
 
 #### Effective Date of 1988 Amendment
 
@@ -174,5 +174,5 @@ Amendment by Pub. L. 100–690 applicable to actions after Nov. 18, 1988, see se
 
 #### Effective Date
 
-Section 1501(e) of Pub. L. 99–514 provided that: “The amendments made by this section \[enacting this section and sections 6722 to 6724 of this title, amending sections 219, 6031, 6033 to 6034A, 6041, 6042 to 6045, 6047, 6049, 6050A to 6050C, 6050E to 6050I, 6050K, 6052, 6057, 6058, 6652, and 6676 of this title, and repealing section 6678 of this title\] shall apply to returns the due date for which (determined without regard to extensions) is after December 31, 1986, except that the amendments made by subsections (c)(2), (c)(3), and (c)(5) \[amending sections 6042, 6044, and 6049 of this title\] shall apply to returns the due \[date\] for which (determined without regard to extensions) is after the date of the enactment of this Act \[Oct. 22, 1986\].”
+Pub. L. 99–514, title XV, §1501(e), Oct. 22, 1986, 100 Stat. 2741, provided that: “The amendments made by this section \[enacting this section and sections 6722 to 6724 of this title, amending sections 219, 6031, 6033 to 6034A, 6041, 6042 to 6045, 6047, 6049, 6050A to 6050C, 6050E to 6050I, 6050K, 6052, 6057, 6058, 6652, and 6676 of this title, and repealing section 6678 of this title\] shall apply to returns the due date for which (determined without regard to extensions) is after December 31, 1986, except that the amendments made by subsections (c)(2), (c)(3), and (c)(5) \[amending sections 6042, 6044, and 6049 of this title\] shall apply to returns the due \[date\] for which (determined without regard to extensions) is after the date of the enactment of this Act \[Oct. 22, 1986\].”
 

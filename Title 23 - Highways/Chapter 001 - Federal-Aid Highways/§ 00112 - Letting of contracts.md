@@ -70,7 +70,77 @@ Regulatory process.—Not later than 90 days after the date of enactment of the 
 
 &emsp;&emsp;(E)
 
-Design-build contract defined.—In this paragraph, the term “design-build contract” means an agreement that provides for design and construction of a project by acontractor, regardless of whether the agreement is in the form of a design-build contract, a franchise agreement, or any other form of contract approved by the Secretary.
+Design-build contract defined.—In this paragraph, the term “design-build contract” means an agreement that provides for design and construction of a project by a contractor, regardless of whether the agreement is in the form of a design-build contract, a franchise agreement, or any other form of contract approved by the Secretary.
+
+&emsp;(4)
+
+Method of contracting.—
+
+&emsp;&emsp;(A)
+
+In general.—
+
+&emsp;&emsp;&emsp;(i) 2-
+
+phase contract.—A contracting agency may award a 2-phase contract to a construction manager or general contractor for preconstruction and construction services.
+
+&emsp;&emsp;&emsp;(ii)
+
+Preconstruction services phase.—In the preconstruction services phase of a contract under this paragraph, the contractor shall provide the contracting agency with advice for scheduling, work sequencing, cost engineering, constructability, cost estimating, and risk identification.
+
+&emsp;&emsp;&emsp;(iii)
+
+Agreement.—Prior to the start of the construction services phase, the contracting agency and the contractor may agree to a price and other factors specified in regulation for the construction of the project or a portion of the project.
+
+&emsp;&emsp;&emsp;(iv)
+
+Construction phase.—If an agreement is reached under clause (iii), the contractor shall be responsible for the construction of the project or portion of the project at the negotiated price and in compliance with the other factors specified in the agreement.
+
+&emsp;&emsp;(B)
+
+Selection.—A contract shall be awarded to a contractor under this paragraph using a competitive selection process based on qualifications, experience, best value, or any other combination of factors considered appropriate by the contracting agency.
+
+&emsp;&emsp;(C)
+
+Timing.—
+
+&emsp;&emsp;&emsp;(i)
+
+Relationship to nepa process.—Prior to the completion of the environmental review process required under section 102 of the National Environmental Policy Act of 1969 (42 U.S.C. 4332), a contracting agency may—
+
+&emsp;&emsp;&emsp;&emsp;(I) issue requests for proposals;
+
+&emsp;&emsp;&emsp;&emsp;(II) proceed with the award of a contract for preconstruction services under subparagraph (A)(ii); and
+
+&emsp;&emsp;&emsp;&emsp;(III) issue notices to proceed with a preliminary design and any work related to preliminary design, to the extent that those actions do not limit any reasonable range of alternatives.
+
+&emsp;&emsp;&emsp;(ii)
+
+Construction services phase.—A contracting agency shall not proceed with the award of the construction services phase of a contract under subparagraph (A)(iv) and shall not proceed, or permit any consultant or contractor to proceed, with final design or construction until completion of the environmental review process required under section 102 of the National Environmental Policy Act of 1969 (42 U.S.C. 4332).
+
+&emsp;&emsp;&emsp;(iii)
+
+Approval requirement.—Prior to authorizing construction activities, the Secretary shall approve—
+
+&emsp;&emsp;&emsp;&emsp;(I) the price estimate of the contracting agency for the entire project; and
+
+&emsp;&emsp;&emsp;&emsp;(II) any price agreement with the general contractor for the project or a portion of the project.
+
+&emsp;&emsp;&emsp;(iv)
+
+Design activities.—
+
+&emsp;&emsp;&emsp;&emsp;(I)
+
+In general.—A contracting agency may proceed, at the expense of the contracting agency, with design activities at any level of detail for a project before completion of the review process required for the project under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) without affecting subsequent approvals required for the project.
+
+&emsp;&emsp;&emsp;&emsp;(II)
+
+Reimbursement.—Design activities carried out under subclause (I) shall be eligible for Federal reimbursement as a project expense in accordance with the requirements under section 109(r).
+
+&emsp;&emsp;&emsp;(v)
+
+Termination provision.—The Secretary shall require a contract to include an appropriate termination provision in the event that a no-build alternative is selected.
 
 (c) The Secretary shall require as a condition precedent to his approval of each contract awarded by competitive bidding pursuant to subsection (b) of this section, and subject to the provisions of this section, a sworn statement, executed by, or on behalf of, the person, firm, association, or corporation to whom such contract is to be awarded, certifying that such person, firm, association, or corporation has not, either directly or indirectly, entered into any agreement, participated in any collusion, or otherwise taken any action in restraint of free competitive bidding in connection with such contract.
 
@@ -132,7 +202,7 @@ Limitation.—Nothing in the regulations shall prohibit a State from implementin
 
 Positive protective measures defined.—In this subsection, the term “positive protective measures” means temporary traffic barriers, crash cushions, and other strategies to avoid traffic accidents in work zones, including full road closures.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 895; Pub. L. 90–495, §22(c), Aug. 23, 1968, 82 Stat. 827; Pub. L. 96–470, title I, §112(b)(1), Oct. 19, 1980, 94 Stat. 2239; Pub. L. 97–424, title I, §112, Jan. 6, 1983, 96 Stat. 2106; Pub. L. 100–17, title I, §111, Apr. 2, 1987, 101 Stat. 147; Pub. L. 104–59, title III, §307(a), Nov. 28, 1995, 109 Stat. 581; Pub. L. 105–178, title I, §§1205, 1212(a)(2)(A)(i), 1307(a), (b), June 9, 1998, 112 Stat. 184, 193, 229, 230; Pub. L. 107–217, §3(e)(1), Aug. 21, 2002, 116 Stat. 1299; Pub. L. 109–59, title I, §§1110(b), 1503, Aug. 10, 2005, 119 Stat. 1170, 1238; Pub. L. 109–115, div. A, title I, §174, Nov. 30, 2005, 119 Stat. 2426.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 895; Pub. L. 90–495, §22(c), Aug. 23, 1968, 82 Stat. 827; Pub. L. 96–470, title I, §112(b)(1), Oct. 19, 1980, 94 Stat. 2239; Pub. L. 97–424, title I, §112, Jan. 6, 1983, 96 Stat. 2106; Pub. L. 100–17, title I, §111, Apr. 2, 1987, 101 Stat. 147; Pub. L. 104–59, title III, §307(a), Nov. 28, 1995, 109 Stat. 581; Pub. L. 105–178, title I, §§1205, 1212(a)(2)(A)(i), 1307(a), (b), June 9, 1998, 112 Stat. 184, 193, 229, 230; Pub. L. 107–217, §3(e)(1), Aug. 21, 2002, 116 Stat. 1299; Pub. L. 109–59, title I, §§1110(b), 1503, Aug. 10, 2005, 119 Stat. 1170, 1238; Pub. L. 109–115, div. A, title I, §174, Nov. 30, 2005, 119 Stat. 2426; Pub. L. 112–141, div. A, title I, §1303(a), July 6, 2012, 126 Stat. 531.)
 
 #### References in Text
 
@@ -140,7 +210,11 @@ The date of enactment of the SAFETEA–LU, referred to in subsec. (b)(3)(D), is 
 
 Section 1307(c) of the Transportation Equity Act for 21st Century, referred to in subsec. (b)(3)(D), is section 1307(c) of Pub. L. 105–178, which is set out as a note below.
 
+The National Environmental Policy Act of 1969, referred to in subsec. (b)(4)(C)(iv)(I), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+
 #### Amendments
+
+<b>2012</b>—Subsec. (b)(4). Pub. L. 112–141 added par. (4).
 
 <b>2005</b>—Subsec. (b)(2)(A). Pub. L. 109–115, §174(1), substituted “title 40” for “title 40 or equivalent State qualifications-based requirements”.
 
@@ -152,7 +226,7 @@ In a complying state.—If, on the date of the enactment of this paragraph, the 
 
 “(ii)
 
-In a noncomplying state.—In the case of any other State, subparagraph (A) shall apply in such Statebeginning on the earlier of (I) August 1, 1989, or (II) the 10th day following the close of the 1st regular session of the legislature of a State which begins after the date of the enactment of this paragraph.”
+In a noncomplying state.—In the case of any other State, subparagraph (A) shall apply in such State beginning on the earlier of (I) August 1, 1989, or (II) the 10th day following the close of the 1st regular session of the legislature of a State which begins after the date of the enactment of this paragraph.”
 
 Subsec. (b)(2)(E). Pub. L. 109–115, §174(3), (4), redesignated subpar. (F) as (E) and substituted “subparagraph (D)” for “subparagraph (E)”. Former subpar. (E) redesignated (D).
 
@@ -204,6 +278,10 @@ Subsec. (e). Pub. L. 97–424, §112(2), inserted exception relating to a situat
 
 <b>1968</b>—Subsec. (b). Pub. L. 90–495 required that contracts for the construction of each project be awarded only on the basis of the lowest responsive bid by a bidder meeting established criteria of responsibility and required that, to be imposed as a condition precedent, requirements and obligations have been specifically set forth in the advertised specifications.
 
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
+
 #### Effective Date of 1998 Amendment
 
 Pub. L. 105–178, title I, §1307(e), June 9, 1998, 112 Stat. 231, provided that:
@@ -234,6 +312,8 @@ Amendment by Pub. L. 90–495 effective Aug. 23, 1968, see section 37 of Pub. L.
 
 #### Regulations
 
+Pub. L. 112–141, div. A, title I, §1303(b), July 6, 2012, 126 Stat. 532, provided that: “The Secretary \[of Transportation\] shall promulgate such regulations as are necessary to carry out the amendment made by subsection (a) \[amending this section\].”
+
 Pub. L. 105–178, title I, §1307(c), June 9, 1998, 112 Stat. 230, provided that:
 
 “(1)
@@ -249,6 +329,8 @@ Contents.—The regulations shall—
 &emsp;“(B) establish the procedures to be followed by a State transportation department or local transportation agency for obtaining the Secretary's approval of the use of design-build contracting by the department or agency.”
 
 #### Effect on Experimental Program
+
+Pub. L. 112–141, div. A, title I, §1303(c), July 6, 2012, 126 Stat. 532, provided that: “Nothing in this section \[amending this section and enacting provisions set out as a note under this section\] or the amendment made by this section affects the authority to carry out, or any project carried out under, any experimental program concerning construction manager risk that is being carried out by the Secretary \[of Transportation\] as of the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of this title\].
 
 Pub. L. 105–178, title I, §1307(d), June 9, 1998, 112 Stat. 231, provided that: “Nothing in this section \[amending this section and enacting provisions set out as notes under this section\] or the amendments made by this section affects the authority to carry out, or any project carried out under, any experimental program concerning design-build contracting that is being carried out by the Secretary as of the date of enactment of this Act \[June 9, 1998\].”
 

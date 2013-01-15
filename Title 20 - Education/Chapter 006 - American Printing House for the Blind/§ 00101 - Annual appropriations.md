@@ -26,29 +26,29 @@ Pub. L. 100–630, §403, struck out “In addition to the permanent appropriati
 
 #### Effective Date of 1988 Amendment
 
-Section 402(b) of Pub. L. 100–630 provided that: “This section \[amending this section\] shall take effect on October 1, 1989.”
+Pub. L. 100–630, title IV, §402(b), Nov. 7, 1988, 102 Stat. 3316, provided that: “This section \[amending this section\] shall take effect on October 1, 1989.”
 
 #### Effective Date of 1961 Amendment
 
-Section 5 of Pub. L. 87–294 provided that: “The amendments made by this Act \[amending this section and section 102 of this title\] shall be effective immediately after the date of its enactment \[Sept. 22, 1961\].”
+Pub. L. 87–294, §5, Sept. 22, 1961, 75 Stat. 627, provided that: “The amendments made by this Act \[amending this section and section 102 of this title\] shall be effective immediately after the date of its enactment \[Sept. 22, 1961\].”
 
 #### Short Title of 1988 Amendment
 
-Section 401 of title IV of Pub. L. 100–630 provided that: “This title \[amending this section and enacting provisions set out as notes under this section\] may be cited as the ‘American Printing House for the Blind Amendments of 1988’.”
+Pub. L. 100–630, title IV, §401, Nov. 7, 1988, 102 Stat. 3316, provided that: “This title \[amending this section and enacting provisions set out as notes under this section\] may be cited as the ‘American Printing House for the Blind Amendments of 1988’.”
 
 #### Transfer of Functions
 
 “Secretary of Education” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to sections 301(a)(2)(M) and 507 of Pub. L. 96–88, which are classified to sections 3441(a)(2)(M) and 3507 of this title and which transferred functions of Secretary of Health, Education, and Welfare under this chapter to Secretary of Education.
 
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfareand all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631, set out in the Appendix to Title 5, Government Organization and Employees. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631, set out in the Appendix to Title 5, Government Organization and Employees. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 
 Functions of Secretary of the Treasury over administration of appropriations for American Printing House for Blind (except function relating to administration of perpetual trust fund) transferred to Federal Security Agency, and annual report and vouchers of trustees directed to be furnished to Federal Security Administrator by Reorg. Plan No. II of 1939, §201(b), eff. July 1, 1939, 4 F.R. 2732, 53 Stat. 1434, set out in the Appendix to Title 5.
 
 #### Compensation to American Printing House for the Blind for Vested Rights
 
-Section 404 of Pub. L. 100–630 provided that: “Any and all rights of the American Printing House for the Blind determined to have vested in the perpetual trust fund established by the Act of March 3, 1879 \[see Codification note above\], shall be deemed to be compensated by the appropriation to the American Printing House for the Blind for fiscal year 1990.”
+Pub. L. 100–630, title IV, §404, Nov. 7, 1988, 102 Stat. 3316, provided that: “Any and all rights of the American Printing House for the Blind determined to have vested in the perpetual trust fund established by the Act of March 3, 1879 \[see Codification note above\], shall be deemed to be compensated by the appropriation to the American Printing House for the Blind for fiscal year 1990.”
 
 #### Ineffectiveness of References to Perpetual Trust Fund and Annual Appropriations
 
-Section 405 of Pub. L. 100–630 provided that: “Notwithstanding any Federal law, reference to the perpetual trust fund and permanent annual appropriations thereof established by the Act of March 3, 1879 \[see Codification note above\], shall not be given any effect.”
+Pub. L. 100–630, title IV, §405, Nov. 7, 1988, 102 Stat. 3317, provided that: “Notwithstanding any Federal law, reference to the perpetual trust fund and permanent annual appropriations thereof established by the Act of March 3, 1879 \[see Codification note above\], shall not be given any effect.”
 

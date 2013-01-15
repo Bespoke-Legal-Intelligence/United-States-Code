@@ -20,7 +20,7 @@
 
 (h) For the purposes of this section, a member of the Commissioned Corps of the National Oceanic and Atmospheric Administration or of the Public Health Service who is serving with an armed force shall be treated as if he were a member of that armed force.
 
-(Added Pub. L. 89–198, §1(1), Sept. 22, 1965, 79 Stat. 830; amended Pub. L. 89–718, §10, Nov. 2, 1966, 80 Stat. 1117; Pub. L. 90–623, §2(1), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 96–470, title I, §112(c), Oct. 19, 1980, 94 Stat. 2240; Pub. L. 96–513, title V,§511(40), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 96–527, title VII, §772, Dec. 15, 1980, 94 Stat. 3093; Pub. L. 99–145, title XII, §1225(a)(1), (2)(A), Nov. 8, 1985, 99 Stat. 730; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
+(Added Pub. L. 89–198, §1(1), Sept. 22, 1965, 79 Stat. 830; amended Pub. L. 89–718, §10, Nov. 2, 1966, 80 Stat. 1117; Pub. L. 90–623, §2(1), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 96–470, title I, §112(c), Oct. 19, 1980, 94 Stat. 2240; Pub. L. 96–513, title V, §511(40), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 96–527, title VII, §772, Dec. 15, 1980, 94 Stat. 3093; Pub. L. 99–145, title XII, §1225(a)(1), (2)(A), Nov. 8, 1985, 99 Stat. 730; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 #### Codification
 
@@ -48,7 +48,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 #### Effective Date of 1985 Amendment
 
-Section 1225(a)(3) of Pub. L. 99–145 provided that: “The amendments made by this subsection \[amending this section\] shall take effect on October 1, 1985.”
+Pub. L. 99–145, title XII, §1225(a)(3), Nov. 8, 1985, 99 Stat. 730, provided that: “The amendments made by this subsection \[amending this section\] shall take effect on October 1, 1985.”
 
 #### Effective Date of 1980 Amendment
 

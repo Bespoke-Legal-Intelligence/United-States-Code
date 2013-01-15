@@ -4,7 +4,7 @@
 
 The Architect of the Capitol, subject to the direction of the Joint Committee on the Library, is authorized to—
 
-&emsp;(1) construct a National Garden demonstrating the diversity of plants, including the rose, our national flower, to be located between Maryland and Independence Avenues, S.W., and extending from the Botanic Garden Conservatory to Third Streets, S.W., in the District of Columbia; and
+&emsp;(1) construct a National Garden demonstrating the diversity of plants, including the rose, our national flower, to be located betweenMaryland and Independence Avenues, S.W., and extending from the Botanic Garden Conservatory to Third Streets, S.W., in the District of Columbia; and
 
 &emsp;(2) solicit, receive, accept, and hold gifts, including money, plant material, and other property, on behalf of the Botanic Garden, and to dispose of, utilize, obligate, expend, disburse, and administer such gifts for the benefit of the Botanic Garden, including among other things, the carrying out of any programs, duties, or functions of the Botanic Garden, and for constructing, equipping, and maintaining the National Garden referred to in paragraph (1).
 
@@ -36,7 +36,7 @@ Any gift accepted by the Architect of the Capitol under this section shall be co
 
 In subsec. (b)(3), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-Section was classified to section 216c of former Title 40, prior to the enactment of Title 40, Public Buildings,Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 216c of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
 
 #### Amendments
 
@@ -60,5 +60,5 @@ Pub. L. 102–392, title II, §201, Oct. 6, 1992, 106 Stat. 1716, as amended by 
 
 #### Renovation of Conservatory of Botanic Garden
 
-Section 209(b) of Pub. L. 102–229 provided that: “Pursuant to section 307E of the Legislative Branch Appropriations Act, 1989 \[2 U.S.C. 2146\], not more than $2,000,000 shall be accepted and not more than $2,000,000 of the amounts accepted shall be available for obligation by the Architect for preparation of working drawings, specifications, and cost estimates for renovation of the Conservatory of the Botanic Garden.”
+Pub. L. 102–229, title II, §209(b), Dec. 12, 1991, 105 Stat. 1717, provided that: “Pursuant to section 307E of the Legislative Branch Appropriations Act, 1989 \[2 U.S.C. 2146\], not more than $2,000,000 shall be accepted and not more than $2,000,000 of the amounts accepted shall be available for obligation by the Architect for preparation of working drawings, specifications, and cost estimates for renovation of the Conservatory of the Botanic Garden.”
 

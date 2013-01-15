@@ -22,7 +22,7 @@ Test Guidelines.—(1) Survivability and lethality tests required under subsecti
 
 (c)
 
-Waiver Authority.—(1) The Secretary of Defense may waive the application of the survivability and lethality tests of this section to a covered system, munitions program, missile program, or covered product improvement program if the Secretary determines that live-fire testing of such system or program would be unreasonably expensive and impractical and submits a certification of that determination to Congress—
+Waiver Authority.—(1) The Secretary of Defense may waive the application of the survivability and lethality tests of this section to a covered system, munitions program, missile program, or covered product improvement program if the Secretary determines that live-fire testingof such system or program would be unreasonably expensive and impractical and submits a certification of that determination to Congress—
 
 &emsp;(A) before Milestone B approval for the system or program; or
 
@@ -84,7 +84,7 @@ Definitions.—In this section:
 
 &emsp;(8) The term “Milestone C approval” means a decision to enter into production and deployment pursuant to guidance prescribed by the Secretary of Defense for the management of Department of Defense acquisition programs.
 
-(Added Pub. L. 99–500, §101(c) \[title X, §910(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–143, and Pub. L. 99–591, §101(c) \[title X, §910(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–143; Pub. L. 99–661, div. A, title IX, formerly title IV, §910(a)(1), Nov. 14, 1986, 100 Stat. 3923, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–180, div. A, title VIII, §802, title XII, §1231(11), Dec. 4, 1987, 101 Stat. 1123, 1160; Pub. L. 100–456, div. A, title XII, §1233(<i>l</i>)(3), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 101–189, div. A, title VIII, §§802(c)(1)–(4)(A), 804, Nov. 29, 1989, 103 Stat. 1486, 1488; Pub. L. 101–510, div. A, title XIV, §1484(h)(7), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 103–160, div. A, title VIII, §828(d)(2), Nov. 30, 1993, 107 Stat. 1715; Pub. L. 103–355, title III, §3014, Oct. 13, 1994, 108 Stat. 3332; Pub. L. 104–106, div. A, title XV, §1502(a)(18), Feb. 10, 1996, 110 Stat. 504; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–107, div. A, title VIII, §821(a), Dec. 28, 2001, 115 Stat. 1181; Pub. L. 107–314, div. A, title VIII, §818, Dec. 2, 2002, 116 Stat. 2611; Pub. L. 108–136, div. A, title X, §1043(b)(13), Nov. 24, 2003, 117 Stat. 1611; Pub. L. 110–417, \[div. A\], title II, §251(a), (b), Oct. 14, 2008, 122 Stat. 4400.)
+(Added Pub. L. 99–500, §101(c) \[title X, §910(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–143, and Pub. L. 99–591, §101(c) \[title X, §910(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–143; Pub. L. 99–661, div. A, title IX, formerly title IV, §910(a)(1), Nov. 14, 1986, 100 Stat. 3923, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–180, div. A, title VIII, §802, title XII,§1231(11), Dec. 4, 1987, 101 Stat. 1123, 1160; Pub. L. 100–456, div. A, title XII, §1233(l)(3), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 101–189, div. A, title VIII, §§802(c)(1)–(4)(A), 804, Nov. 29, 1989, 103 Stat. 1486, 1488; Pub. L. 101–510, div. A, title XIV, §1484(h)(7), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 103–160, div. A, title VIII, §828(d)(2), Nov. 30, 1993, 107 Stat. 1715; Pub. L. 103–355, title III, §3014, Oct. 13, 1994, 108 Stat. 3332; Pub. L. 104–106, div. A, title XV, §1502(a)(18), Feb. 10, 1996, 110 Stat. 504; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–107, div. A, title VIII, §821(a), Dec. 28, 2001, 115 Stat. 1181; Pub. L. 107–314, div. A, title VIII, §818, Dec. 2, 2002, 116 Stat. 2611; Pub. L. 108–136, div. A, title X, §1043(b)(13), Nov. 24, 2003, 117 Stat. 1611; Pub. L. 110–417, \[div. A\], title II, §251(a), (b), Oct. 14, 2008, 122 Stat. 4400.)
 
 #### Codification
 
@@ -154,7 +154,7 @@ Subsec. (b)(1). Pub. L. 100–180, §802(a)(2), inserted “(including a covered
 
 Subsec. (b)(2). Pub. L. 100–180, §802(b), inserted at end “The limitation in the preceding sentence does not apply to the extent that the Secretary of Defense plans for persons employed by that contractor to be involved in the operation, maintenance, and support of the system being tested when the system is deployed in combat.”
 
-Subsec. (c). Pub. L. 100–180, §802(a)(3), (c), (d)(1), designated existing provisions as par. (1), substituted “missile program, or covered product improvement program” for “or missile program”, and inserted at end “The Secretary shall include with any such certification a report explaining how the Secretary plans to evaluate the survivability or the lethality of the system or program and assessing possible alternatives to realistic survivability testing of the system or program.”
+Subsec. (c). Pub. L. 100–180, §802(a)(3), (c), (d)(1), designated existing provisions as par. (1), substituted “missile program, or covered product improvement program” for “or missile program”, and inserted at end “The Secretary shall include with any such certification a report explaining how the Secretary plans to evaluate the survivability or the lethality of the system or program and assessing possible alternatives torealistic survivability testing of the system or program.”
 
 Pub. L. 100–180, §802(d)(2), designated existing provisions of former subsec. (d) as par. (2) of subsec. (c) and struck out heading of former subsec. (d) “Waiver in time of war or mobilization”.
 
@@ -170,11 +170,11 @@ Subsec. (e)(8). Pub. L. 100–180, §802(a)(4)(C), added par. (8).
 
 #### Effective Date of 1988 Amendment
 
-Section 1233(<i>l</i>)(5) of Pub. L. 100–456 provided that: “The amendments made by this subsection \[amending this section and sections 2435 and 8855 of this title and section 301c of Title 37, Pay and Allowances of the Uniformed Services\] shall apply as if included in the enactment of Public Law 100–180.”
+Pub. L. 100–456, div. A, title XII, §1233(l)(5), Sept. 29, 1988, 102 Stat. 2058, provided that: “The amendments made by this subsection \[amending this section and sections 2435 and 8855 of this title and section 301c of Title 37, Pay and Allowances of the Uniformed Services\] shall apply as if included in the enactment of Public Law 100–180.”
 
 #### Effective Date
 
-Section 101(c) \[title X, §910(b)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 910(b) of title IX, formerly title IV, of Pub. L. 99–661, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “Section 2366 of title 10, United States Code (as added by subsection (a)), shall apply with respect to any decision to proceed with a program beyond low-rate initial production that is made—
+Pub. L. 99–500, §101(c) \[title X, §910(b)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–145, Pub. L. 99–591, §101(c) \[title X, §910(b)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–145, and Pub. L. 99–661, div. A, title IX, formerly title IV, §910(b), Nov. 14, 1986, 100 Stat. 3924, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “Section 2366 of title 10, United States Code (as added by subsection (a)), shall apply with respect to any decision to proceed with a program beyond low-rate initial production that is made—
 
 &emsp;“(1) after May 31, 1987, in the case of a decision referred to in subsection (a)(1) or (a)(2) of such section; or
 

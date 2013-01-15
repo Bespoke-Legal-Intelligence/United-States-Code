@@ -64,7 +64,7 @@ Any permit issued under this section shall—
 
 (E) No marine mammal held pursuant to a permit issued under subparagraph (A), or by a person exercising rights under subparagraph (C), may be sold, purchased, exported, or transported unless the Secretary is notified of such action no later than 15 days before such action, and such action is for purposes of public display, scientific research, or enhancing the survival or recovery of a species or stock. The Secretary may only require the notification to include the information required for the inventory established under paragraph (10).
 
-(3)(A) The Secretary may issue a permit under this paragraph for scientific research purposes to an applicant which submits with its permit application information indicating that the taking is required to further a bona fide scientific purpose. The Secretary may issue a permit under this paragraph before the end of the public review and comment period required under subsection (d)(2) of this section if delaying issuance of the permit could result in injury to a species, stock, or individual, or in loss of unique research opportunities.
+(3)(A) The Secretary may issue a permit under this paragraph for scientific research purposes to an applicant which submits with its permit application information indicating that the taking is required to further a bona fide scientificpurpose. The Secretary may issue a permit under this paragraph before the end of the public review and comment period required under subsection (d)(2) of this section if delaying issuance of the permit could result in injury to a species, stock, or individual, or in loss of unique research opportunities.
 
 (B) No permit issued for purposes of scientific research shall authorize the lethal taking of a marine mammal unless the applicant demonstrates that a nonlethal method of conducting the research is not feasible. The Secretary shall not issue a permit for research which involves the lethal taking of a marine mammal from a species or stock that is depleted, unless the Secretary determines that the results of such research will directly benefit that species or stock, or that such research fulfills a critically important research need.
 
@@ -98,7 +98,7 @@ Any permit issued under this section shall—
 
 > The Secretary may allow the public display of such a marine mammal only if the Secretary determines that such display is incidental to the authorized maintenance and will not interfere with the attainment of the survival or recovery objectives.
 
-(5)(A) The Secretary may issue a permit for the importation of polar bear parts (other than internal organs) taken in sport hunts in Canada to an applicant which submits with its permit application proof that the polar bear was legallyharvested in Canada by the applicant. Such a permit shall be issued if the Secretary, in consultation with the Marine Mammal Commission and after notice and opportunity for public comment, finds that—
+(5)(A) The Secretary may issue a permit for the importation of polar bear parts (other than internal organs) taken in sport hunts in Canada to an applicant which submits with its permit application proof that the polar bear was legally harvested in Canada by the applicant. Such a permit shall be issued if the Secretary, in consultation with the Marine Mammal Commission and after notice and opportunity for public comment, finds that—
 
 &emsp;(i) Canada has a monitored and enforced sport hunting program consistent with the purposes of the Agreement on the Conservation of Polar Bears;
 
@@ -110,7 +110,7 @@ Any permit issued under this section shall—
 
 (B) The Secretary shall establish and charge a reasonable fee for permits issued under this paragraph. All fees collected under this paragraph shall be available to the Secretary until expended for use in developing and implementing cooperative research and management programs for the conservation of polar bears in Alaska and Russia pursuant to section 1383(d) of this title.
 
-(C)(i) The Secretary shall undertake a scientific review of the impact of permits issued under this paragraph on the polar bear population stocks in Canada within 2 years after April 30, 1994. The Secretary shall provide an opportunity for public comment during the course of such review, and shall include a response to such public comment in the final report on such review.
+(C)(i) The Secretary shall undertake a scientific review of the impact of permits issued under this paragraph on the polar bear population stocks in Canada within 2 years after April 30, 1994. The Secretary shall provide an opportunity for public comment during the course of such review, and shall include a response tosuch public comment in the final report on such review.
 
 (ii) The Secretary shall not issue permits under this paragraph after September 30, 1996, if the Secretary determines, based on the scientific review, that the issuance of permits under this paragraph is having a significant adverse impact on the polar bear population stocks in Canada. The Secretary may review such determination annually thereafter, in light of the best scientific information available, and shall complete the review not later than January 31 in any year a review is undertaken. The Secretary may issue permits under this paragraph whenever the Secretary determines, on the basis of such annual review, that the issuance of permits under this paragraph is not having a significant adverse impact on the polar bear population stocks in Canada.
 
@@ -168,7 +168,7 @@ Any permit issued under this section shall—
 
 (1) The Secretary shall prescribe such procedures as are necessary to carry out this section, including the form and manner in which application for permits may be made.
 
-(2) The Secretary shall publish notice in the Federal Register of each application made for a permit under this section. Such notice shall invite the submission from interested parties, within thirty days after the date of the notice, of written data or views, with respect to the taking or importation proposed in such application.
+(2) The Secretary shall publish notice in the Federal Register of each application made for a permit under this section. Such notice shall invite the submission from interested parties, within thirty days after the date of the notice, of written data or views, with respect to thetaking or importation proposed in such application.
 
 (3) The applicant for any permit under this section must demonstrate to the Secretary that the taking or importation of any marine mammal under such permit will be consistent with the purposes of this chapter and the applicable regulations established under section 1373 of this title.
 
@@ -258,7 +258,7 @@ For effective date of amendment by Pub. L. 105–42, see section 8 of Pub. L. 10
 
 #### Modification of Permits Existing Prior to April 30, 1994
 
-Section 5(c) of Pub. L. 103–238 provided that: “Any permit issued under section 104(c)(2) of the Marine Mammal Protection Act of 1972 (16 U.S.C. 1374(c)(2)) before the date of the enactment of this Act \[Apr. 30, 1994\] is hereby modified to be consistent with that section as amended by this Act.”
+Pub. L. 103–238, §5(c), Apr. 30, 1994, 108 Stat. 541, provided that: “Any permit issued under section 104(c)(2) of the Marine Mammal Protection Act of 1972 (16 U.S.C. 1374(c)(2)) before the date of the enactment of this Act \[Apr. 30, 1994\] is hereby modified to be consistent with that section as amended by this Act.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

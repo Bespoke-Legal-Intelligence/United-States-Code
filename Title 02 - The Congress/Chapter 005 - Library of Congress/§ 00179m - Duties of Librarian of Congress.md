@@ -16,7 +16,7 @@
 
 &emsp;&emsp;&emsp;(iv) undertake studies and investigations of film preservation activities as needed, including the efficacy of new technologies, and recommend solutions to improve these practices;
 
-&emsp;&emsp;(B) establish criteria and procedures under which films may be included in the NationalFilm Registry, except that no film shall be eligible for inclusion in the National Film Registry until 10 years after such film's first publication;
+&emsp;&emsp;(B) establish criteria and procedures under which films may be included in the National Film Registry, except that no film shall be eligible for inclusion in the National Film Registry until 10 years after such film's first publication;
 
 &emsp;&emsp;(C) establish procedures under which the general public may make recommendations to the Board regarding the inclusion of films in the National Film Registry; and
 

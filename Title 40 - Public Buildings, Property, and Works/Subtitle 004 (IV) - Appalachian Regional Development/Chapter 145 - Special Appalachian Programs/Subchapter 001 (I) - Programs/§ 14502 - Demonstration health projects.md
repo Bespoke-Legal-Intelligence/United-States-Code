@@ -42,7 +42,7 @@ Additional uses for construction grants.—Grants under this section for constru
 
 &emsp;(2)
 
-Standards for making grants.—Grants under this section for construction shall be made in accordance with section 14523 of this title and shall not be incompatible with the applicable provisions of title VI of the Public Health Service Act (42 U.S.C. 291 et seq.), the Developmental Disabilities Assistance and Bill of Rights Act of 2000 (42 U.S.C. 15001 et seq.), and other laws authorizing grants for the construction of health-related facilities, without regard to any provisions in those laws relating to appropriation authorization ceilings or to allotments among the States.
+Standards for making grants.—Grants under this section for construction shall be made in accordance with section 14523 of thistitle and shall not be incompatible with the applicable provisions of title VI of the Public Health Service Act (42 U.S.C. 291 et seq.), the Developmental Disabilities Assistance and Bill of Rights Act of 2000 (42 U.S.C. 15001 et seq.), and other laws authorizing grants for the construction of health-related facilities, without regard to any provisions in those laws relating to appropriation authorization ceilings or to allotments among the States.
 
 &emsp;(3)
 

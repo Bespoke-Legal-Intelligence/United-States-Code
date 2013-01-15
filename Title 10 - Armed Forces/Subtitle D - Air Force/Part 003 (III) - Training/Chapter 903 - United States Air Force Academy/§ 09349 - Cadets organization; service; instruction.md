@@ -46,5 +46,5 @@ In subsection (a), the word “commissioned” is inserted for clarity. 10:1105 
 
 In subsection (b), the word “perform” is substituted for the words “be subject at all times to do”. The words “of such type” are substituted for the words “on such service”.
 
-In subsection (e), the words “members of the Air Force” are substituted for the words “private soldier, noncommissioned officer, and officer”. The words“taught and” are omitted as surplusage. 10:1105 (less 1st 18 words of last sentence) is omitted as inapplicable to the Air Force.
+In subsection (e), the words “members of the Air Force” are substituted for the words “private soldier, noncommissioned officer, and officer”. The words “taught and” are omitted as surplusage. 10:1105 (less 1st 18 words of last sentence) is omitted as inapplicable to the Air Force.
 

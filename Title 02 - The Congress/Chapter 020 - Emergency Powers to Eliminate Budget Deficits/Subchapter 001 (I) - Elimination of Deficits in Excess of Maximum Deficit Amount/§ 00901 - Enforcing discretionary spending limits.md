@@ -28,7 +28,7 @@
 
 #### (6) Within-session sequestration
 
-&emsp;If an appropriation for a fiscal year in progress is enacted (after Congress adjourns to end the session for that budget year and before July 1 of that fiscal year) that causes a breach within a category for that year (after taking into account any prior sequestration of amounts within that category), 15 days later there shall be a sequestration to eliminate that breach within that category following the procedures set forth in paragraphs (2) through (4).
+&emsp;If an appropriation for a fiscal year in progress is enacted (after Congress adjourns to end the session for that budget year and before July 1 of that fiscal year) that causes a breach within a category for that year (after taking into account any prior sequestration of amounts within that category), 15 days laterthere shall be a sequestration to eliminate that breach within that category following the procedures set forth in paragraphs (2) through (4).
 
 #### (7) Estimates
 
@@ -150,13 +150,17 @@ As used in this subchapter, the term “discretionary spending limit” means—
 
 &emsp;&emsp;(B) for the nonsecurity category, $359,000,000,000 in new budget authority;
 
-&emsp;(2) with respect to fiscal year 2013—
+&emsp;(2) for fiscal year 2013—
 
-&emsp;&emsp;(A) for the security category, $686,000,000,000 in new budget authority; and
+&emsp;&emsp;(A) for the security category, as defined in section 900(c)(4)(B) of this title, $684,000,000,000 in budget authority; and
 
-&emsp;&emsp;(B) for the nonsecurity category, $361,000,000,000 in new budget authority;
+&emsp;&emsp;(B) for the nonsecurity category, as defined in section 900(c)(4)(A) of this title, $359,000,000,000 in budget authority;
 
-&emsp;(3) with respect to fiscal year 2014, for the discretionary category, $1,066,000,000,000 in new budget authority;
+&emsp;(3) for fiscal year 2014—
+
+&emsp;&emsp;(A) for the security category, $552,000,000,000 in budget authority; and
+
+&emsp;&emsp;(B) for the nonsecurity category, $506,000,000,000 in budget authority;
 
 &emsp;(4) with respect to fiscal year 2015, for the discretionary category, $1,086,000,000,000 in new budget authority;
 
@@ -174,7 +178,7 @@ As used in this subchapter, the term “discretionary spending limit” means—
 
 > as adjusted in strict conformance with subsection (b).
 
-(Pub. L. 99–177, title II, §251, Dec. 12, 1985, 99 Stat. 1063; Pub. L. 100–119, title I, §102(a), Sept. 29, 1987, 101 Stat. 754; Pub. L. 100–203, title VIII, §8003(f), Dec. 22, 1987, 101 Stat. 1330–282; Pub. L. 101–508, title XIII, §13101(a), (e)(2), Nov. 5, 1990, 104 Stat. 1388–577, 1388–593; Pub. L. 103–66, title XIV, §14002(c)(1), Aug. 10, 1993, 107 Stat. 683; Pub. L. 103–87, title V, §571, Sept. 30, 1993, 107 Stat. 971; Pub. L. 103–306, title V, §562, Aug. 23, 1994, 108 Stat. 1649; Pub. L. 103–354, title I, §119(d)(1), Oct. 13, 1994, 108 Stat. 3208; Pub. L. 104–121, title I, §103(b), Mar. 29, 1996, 110 Stat. 848; Pub. L. 104–193, title II, §211(d)(5)(B), Aug. 22, 1996, 110 Stat. 2191; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §577\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–169; Pub. L. 105–33, title X, §10203(a), (b), Aug. 5, 1997, 111 Stat. 698, 701; Pub. L. 105–89, title II, §201(b)(1), Nov. 19, 1997, 111 Stat. 2125; Pub. L. 105–178, title VIII, §8101(a), (d), June 9, 1998, 112 Stat. 488, 490; Pub. L. 106–291, title VIII, §801(a), (b), Oct. 11, 2000, 114 Stat. 1026, 1027; Pub. L. 106–429, §101(a) \[title VII, §701(a)\], Nov. 6, 2000, 114 Stat. 1900, 1900A–64; Pub. L. 107–117, div. C, §101(a), Jan. 10, 2002, 115 Stat. 2341; Pub. L. 108–88, §10(a), (b), Sept. 30, 2003, 117 Stat. 1127; Pub. L. 108–310, §10(a), (b), Sept. 30, 2004, 118 Stat. 1160; Pub. L. 109–59, title VIII, §§8001(a), 8002, Aug. 10, 2005, 119 Stat. 1915, 1916; Pub. L. 112–25, title I, §101, Aug. 2, 2011, 125 Stat. 241.)
+(Pub. L. 99–177, title II, §251, Dec. 12, 1985, 99 Stat. 1063; Pub. L. 100–119, title I, §102(a), Sept. 29, 1987, 101 Stat. 754; Pub. L. 100–203, title VIII, §8003(f), Dec. 22, 1987, 101 Stat. 1330–282; Pub. L. 101–508, title XIII, §13101(a), (e)(2), Nov. 5, 1990, 104 Stat. 1388–577, 1388–593; Pub. L. 103–66, title XIV, §14002(c)(1), Aug. 10, 1993, 107 Stat. 683; Pub. L. 103–87, title V, §571, Sept. 30, 1993, 107 Stat. 971; Pub. L. 103–306, title V, §562, Aug. 23, 1994, 108 Stat. 1649; Pub. L. 103–354, title I, §119(d)(1), Oct. 13, 1994, 108 Stat. 3208; Pub. L. 104–121, title I, §103(b), Mar. 29, 1996, 110 Stat. 848; Pub. L. 104–193, title II, §211(d)(5)(B), Aug. 22, 1996, 110 Stat. 2191; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §577\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–169; Pub. L. 105–33, title X, §10203(a), (b), Aug. 5, 1997, 111 Stat. 698, 701; Pub. L. 105–89, title II, §201(b)(1), Nov. 19, 1997, 111 Stat. 2125; Pub. L. 105–178, title VIII, §8101(a), (d), June 9, 1998, 112 Stat. 488, 490; Pub. L. 106–291, title VIII, §801(a), (b), Oct. 11, 2000, 114 Stat. 1026, 1027; Pub. L. 106–429, §101(a) \[title VII, §701(a)\], Nov. 6, 2000, 114 Stat. 1900, 1900A–64; Pub. L. 107–117, div. C, §101(a), Jan. 10, 2002, 115 Stat. 2341; Pub. L. 108–88, §10(a), (b), Sept. 30, 2003, 117 Stat. 1127; Pub. L. 108–310, §10(a), (b), Sept. 30, 2004, 118 Stat. 1160; Pub. L. 109–59, title VIII, §§8001(a), 8002, Aug. 10, 2005, 119 Stat. 1915, 1916; Pub. L. 112–25, title I, §101, Aug. 2, 2011, 125 Stat. 241; Pub. L. 112–240, title IX, §901(d)(1), Jan. 2, 2013, 126 Stat. 2370.)
 
 #### References in Text
 
@@ -185,6 +189,16 @@ The Social Security Act, referred to in subsec. (b)(2)(B)(i), is act Aug. 14, 19
 Pub. L. 101–508, §13101(e)(2), redesignated former subsec. (a)(6)(I) of this section as section 257(e) of Pub. L. 99–177, which is classified to section 907(e) of this title.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (c)(2), (3). Pub. L. 112–240 amended pars. (2) and (3) generally. Prior to amendment, pars. (2) and (3) read as follows:
+
+“(2) with respect to fiscal year 2013—
+
+&emsp;“(A) for the security category, $686,000,000,000 in new budget authority; and
+
+&emsp;“(B) for the nonsecurity category, $361,000,000,000 in new budget authority;
+
+“(3) with respect to fiscal year 2014, for the discretionary category, $1,066,000,000,000 in new budget authority;”.
 
 <b>2011</b>—Pub. L. 112–25 amended section generally. Prior to amendment, section related to enforcing discretionary spending limits.
 
@@ -198,7 +212,7 @@ Subsec. (c). Pub. L. 109–59, §8001(a), added pars. (1) to (5), redesignated f
 
 &emsp;“(C) for the conservation spending category: $2,080,000,000, in new budget authority and $2,032,000,000 in outlays;”.
 
-<b>2004</b>—Subsec. (b)(2). Pub. L. 108–310, §10(a), which directed amendment of par. (2) by striking out “through2002” in introductory provisions, could not be executed because the phrase “through 2002” did not appear subsequent to amendment by Pub. L. 108–88, §10(a). See 2003 Amendment note below.
+<b>2004</b>—Subsec. (b)(2). Pub. L. 108–310, §10(a), which directed amendment of par. (2) by striking out “through 2002” in introductory provisions, could not be executed because the phrase “through 2002” did not appear subsequent to amendment by Pub. L. 108–88, §10(a). See 2003 Amendment note below.
 
 Subsec. (c). Pub. L. 108–310, §10(b), which directed the amendment of subsec. (c) by redesignating par. (8) as par. (1), substituting “with respect to fiscal year 2005—” for “with respect to fiscal year 2005” and adding subpars. (A) and (B) in par. (1), redesignating remaining provisions of par. (1) as subpar. (C), redesignating pars. (9) to (16) as (2) to (9), respectively, and striking out former pars. (1) to (7), which defined “discretionary spending limit” with respect to fiscal years 2002 to 2006, either could not be executed or could not be executed as intended because of prior amendments by Pub. L. 108–88, §10(b). See 2003 Amendment notes below.
 
@@ -290,7 +304,7 @@ Amendment by Pub. L. 105–89 effective Nov. 19, 1997, except as otherwise provi
 
 #### Effective Date of 1994 Amendment
 
-Section 119(d)(1) of Pub. L. 103–354 provided that the amendment made by that section is effective Jan. 1, 1995.
+Pub. L. 103–354, title I, §119(d)(1), Oct. 13, 1994, 108 Stat. 3208, provided that the amendment made by that section is effective Jan. 1, 1995.
 
 #### Adjustment for Rounding
 
@@ -308,7 +322,7 @@ Pub. L. 109–59, title VIII, §8003, Aug. 10, 2005, 119 Stat. 1917, as amended 
 
 “(a)
 
-Highway Category.—For the purposes of \[former\] section 251(b) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[former 2 U.S.C. 901(b)\], the level of obligation limitations for the highway category is—
+Highway Category.—For the purposes of \[former\] section 251(b) of the Balanced Budget andEmergency Deficit Control Act of 1985 \[former 2 U.S.C. 901(b)\], the level of obligation limitations for the highway category is—
 
 &emsp;“(1) for fiscal year 2005, $35,164,292,000;
 

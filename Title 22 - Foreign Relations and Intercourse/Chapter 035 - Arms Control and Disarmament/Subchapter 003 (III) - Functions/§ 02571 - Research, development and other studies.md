@@ -46,9 +46,9 @@ the national security and foreign policy implications of arms control, nonprolif
 
 methods for the maintenance of peace and security during different stages of arms control, nonproliferation, and disarmament;
 
-#### (<i>l</i>) War prevention factors
+#### (l) War prevention factors
 
-the scientific, economic, political, legal, social, psychological, military, and technological factors related to the prevention of war with aview to a better understanding of how the basic structure of a lasting peace may be established; and
+the scientific, economic, political, legal, social, psychological, military, and technological factors related to the prevention of war with a view to a better understanding of how the basic structure of a lasting peace may be established; and
 
 #### (m) Other related problems
 
@@ -60,7 +60,7 @@ such related problems as the Secretary of State may determine to be in need of r
 
 <b>1998</b>—Pub. L. 105–277, §1223(6)(A)–(E), in introductory provisions, inserted “this subchapter in” after “powers in”, substituted “Secretary of State” for “Director” wherever appearing and “ensure” for “insure” in two places, struck out “in accordance with procedures established under section 2575 of this title” after “other Government agencies”, and substituted “The authority of the Secretary under this chapter with respect to research, development, and other studies concerning arms control, nonproliferation, and disarmament shall be limited to participation in the following:” for “The authority of the Director with respect to research, development, and other studies shall be limited to participation in the following insofar as they relate to arms control, nonproliferation, and disarmament:”.
 
-Subsec. (<i>l</i>). Pub. L. 105–277, §1223(6)(F), inserted “and” at end.
+Subsec. (l). Pub. L. 105–277, §1223(6)(F), inserted “and” at end.
 
 Subsec. (m). Pub. L. 105–277, §1223(6)(B), substituted “Secretary of State” for “Director”.
 

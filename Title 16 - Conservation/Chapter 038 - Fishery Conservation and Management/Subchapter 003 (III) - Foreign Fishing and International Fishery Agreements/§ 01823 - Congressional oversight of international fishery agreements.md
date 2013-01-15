@@ -46,9 +46,9 @@ Any document described in subsection (a) of this section shall be immediately re
 
 &emsp;(A) A motion in the Senate to proceed to the consideration of any fishery agreement resolution shall be privileged and not debatable. An amendment to the motion shall not be in order, nor shall it be in order to move to reconsider the vote by which the motion is agreed to or disagreed to.
 
-&emsp;(B) Debate in the Senate on any fishery agreement resolution and on all debatable motions and appeals in connection therewith shall be limited to not more than 10 hours. The time shall be equally divided between, and controlled by, the majority leader and the minority leader or their designees.
+&emsp;(B) Debate in the Senate on any fishery agreement resolution and on all debatable motions and appeals in connection therewith shall be limited to not more than 10 hours.The time shall be equally divided between, and controlled by, the majority leader and the minority leader or their designees.
 
-&emsp;(C) Debate in the Senate on any debatable motion or appeal in connection with any fishery agreement resolution shall be limited to not more than 1 hour, to be equally divided between, and controlled by, the mover of the motion or appeal and the manager of the resolution, except that if the manager of the resolution is in favor of any such motion or appeal,the time in opposition thereto shall be controlled by the minority leader or his designee. The majority leader and the minority leader, or either of them, may allot additional time to any Senator during the consideration of any debatable motion or appeal, from time under their control with respect to the applicable fishery agreement resolution.
+&emsp;(C) Debate in the Senate on any debatable motion or appeal in connection with any fishery agreement resolution shall be limited to not more than 1 hour, to be equally divided between, and controlled by, the mover of the motion or appeal and the manager of the resolution, except that if the manager of the resolution is in favor of any such motion or appeal, the time in opposition thereto shall be controlled by the minority leader or his designee. The majority leader and the minority leader, or either of them, may allot additional time to any Senator during the consideration of any debatable motion or appeal, from time under their control with respect to the applicable fishery agreement resolution.
 
 &emsp;(D) A motion in the Senate to further limit debate is not debatable. A motion to recommit any fishery agreement resolution is not in order.
 
@@ -170,7 +170,7 @@ Pub. L. 97–389, title IV, §402, Dec. 29, 1982, 96 Stat. 1954, provided for ap
 
 #### Governing International Fishery Agreement With Portugal
 
-Pub. L. 96–561, title I, §145, title II, §238(b), Dec. 22, 1980, 94 Stat. 3287, 3300, provided that the governing international fishery agreement between the Government of the United States of America and the Government of Portugal Concerning Fisheries Off the Coasts of the United States was approved by Congress as a governing international fishery agreement for the purposes of this chapter, and was to enter into force and effect with respect to the United States on Dec. 22, 1980.
+Pub. L. 96–561, title I, §145, title II, §238(b), Dec. 22, 1980, 94 Stat. 3287, 3300, provided that the governinginternational fishery agreement between the Government of the United States of America and the Government of Portugal Concerning Fisheries Off the Coasts of the United States was approved by Congress as a governing international fishery agreement for the purposes of this chapter, and was to enter into force and effect with respect to the United States on Dec. 22, 1980.
 
 #### Extension of International Fishery Agreements
 

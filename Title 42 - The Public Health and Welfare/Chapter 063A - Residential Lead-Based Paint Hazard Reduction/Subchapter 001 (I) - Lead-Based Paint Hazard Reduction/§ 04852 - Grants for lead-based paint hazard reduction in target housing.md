@@ -24,7 +24,7 @@ To receive a grant under this section, a State or unit of local government shall
 
 &emsp;(3) a description of the planned activities to be undertaken with grants under this section, including an estimate of the amount to be allocated to each activity;
 
-&emsp;(4) a description of the forms of financial assistance to owners and occupants of housing that will be provided through grants under this section; and
+&emsp;(4) a description of the forms of financial assistance to owners and occupants of housingthat will be provided through grants under this section; and
 
 &emsp;(5) such assurances as the Secretary may require regarding the applicant's capacity to carry out the activities.
 
@@ -78,7 +78,7 @@ The applicant may provide the services described in this section through a varie
 
 #### (2) Set-aside
 
-&emsp;Of the total amount approved in appropriation Acts under subsection (<i>o</i>) of this section, there shall be set aside to carry out this subsection $3,000,000 for fiscal year 1993 and $3,000,000 for fiscal year 1994.
+&emsp;Of the total amount approved in appropriation Acts under subsection (o) of this section, there shall be set aside to carry out this subsection $3,000,000 for fiscal year 1993 and $3,000,000 for fiscal year 1994.
 
 #### (h) Matching requirement
 
@@ -96,7 +96,7 @@ An applicant shall ensure that not more than 10 percent of the grant will be use
 
 An applicant shall maintain and provide the Secretary with financial records sufficient, in the determination of the Secretary, to ensure proper accounting and disbursing of amounts received from a grant under this section.
 
-#### (<i>l</i>) Report
+#### (l) Report
 
 An applicant under this section shall submit to the Secretary, for any fiscal year in which the applicant expends grant funds under this section, a report that—
 
@@ -116,9 +116,9 @@ The Secretary shall publish a Notice of Funding Availability pursuant to this se
 
 #### (n) Relationship to other law
 
-Effective 2 years after the date of promulgation of regulations under section 2682 of title 15, no grants for lead-based paint hazard evaluation or reduction may be awarded to a State under this section unless such State has an authorized program under section 2684 of title 15.
+Effective 2 years after the date of promulgation of regulations under section 2682 of title 15,no grants for lead-based paint hazard evaluation or reduction may be awarded to a State under this section unless such State has an authorized program under section 2684 of title 15.
 
-#### (<i>o</i>) Environmental review
+#### (o) Environmental review
 
 #### (1) In general
 
@@ -140,17 +140,17 @@ For the purposes of carrying out this chapter, there are authorized to be approp
 
 #### References in Text
 
-Section 12705(b)(16) of this title, referred to in subsecs. (c)(1) and (g)(1), probably means section12705(b)(16) relating to housing units that contain lead-based paint hazards which was redesignated section 12705(b)(17) by Pub. L. 105–276, title V, §583(5)(B), Oct. 21, 1998, 112 Stat. 2644.
+Section 12705(b)(16) of this title, referred to in subsecs. (c)(1) and (g)(1), probably means section 12705(b)(16) relating to housing units that contain lead-based paint hazards which was redesignated section 12705(b)(17) by Pub. L. 105–276, title V, §583(5)(B), Oct. 21, 1998, 112 Stat. 2644.
 
 This chapter, referred to in subsecs. (d)(5), (e)(10), and (p), was in the original “this Act”, meaning title X of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3897, known as the Residential Lead-Based Paint Hazard Reduction Act of 1992. For complete classification of this Act to the Code, see Short Title note set out under section 4851 of this title and Tables.
 
-This subchapter, referred to in subsec. (i), was in the original “this subtitle”, meaning subtitle A of title X of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3901, which enacted this subchapter and amended sections 1437f, 1437aaa–1, 1437aaa–2, 1471, 4822, 5305, 12705, 12742, 12872, 12873, 12892, and 12893 of this title and sections 1703, 1709, and 1715<i>l</i> of Title 12, Banks and Banking.
+This subchapter, referred to in subsec. (i), was in the original “this subtitle”, meaning subtitle A of title X of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3901, which enacted this subchapter and amended sections 1437f, 1437aaa–1, 1437aaa–2, 1471, 4822, 5305, 12705, 12742, 12872, 12873, 12892, and 12893 of this title and sections 1703, 1709, and 1715l of Title 12, Banks and Banking.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (<i>o</i>)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of this title and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (o)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of this title and Tables.
 
-The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (<i>o</i>)(1), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079, as amended. Title II of the Act, known as the HOME Investment Partnerships Act, is classified principally to subchapter II (§12721 et seq.) of chapter 130 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
+The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (o)(1), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079, as amended. Title II of the Act, known as the HOME Investment Partnerships Act, is classified principally to subchapter II (§12721 et seq.) of chapter 130 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
 
-The Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1992, referred to in subsec. (<i>o</i>)(2)(B), is Pub. L. 102–139, Oct. 28, 1991, 105 Stat. 736. Title II of the Act relates to appropriations for the Department of Housing and Urban Development. For complete classification of this Act to the Code, see Tables.
+The Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1992, referred to in subsec. (o)(2)(B), is Pub. L. 102–139, Oct. 28, 1991, 105 Stat. 736. Title II of the Act relates to appropriations for the Department of Housing and Urban Development. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
@@ -158,7 +158,7 @@ The Departments of Veterans Affairs and Housing and Urban Development, and Indep
 
 Subsecs. (c)(4), (d)(1), (e)(1) to (3), (7), (9). Pub. L. 104–134, §101(e) \[title II, §217(a)\], substituted “housing” for “priority housing”.
 
-<b>1994</b>—Subsecs. (<i>o</i>), (p). Pub. L. 103–233 added subsec. (<i>o</i>) and redesignated former subsec. (<i>o</i>) as (p).
+<b>1994</b>—Subsecs. (o), (p). Pub. L. 103–233 added subsec. (o) and redesignated former subsec. (o) as (p).
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

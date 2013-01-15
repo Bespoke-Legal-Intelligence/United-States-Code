@@ -148,11 +148,11 @@ The Internal Revenue Code of 1986, referred to in subsec. (a)(3), (9), is classi
 
 #### Effective Date
 
-Section 6104 of subtitle B (§§6101–6104) of title VI of Pub. L. 99–509 provided that: “This subtitle and the amendments made by this subtitle \[see Short Title note below\] shall take effect on the date of enactment of this Act \[Oct. 21, 1986\], and shall apply to any claim or statement made, presented, or submitted on or after such date.”
+Pub. L. 99–509, title VI, subtitle B (§§6101–6104), §6104, Oct. 21, 1986, 100 Stat. 1948, provided that: “This subtitle and the amendments made by this subtitle \[see Short Title note below\] shall take effect on the date of enactment of this Act \[Oct. 21, 1986\], and shall apply to any claim or statement made, presented, or submitted on or after such date.”
 
 #### Short Title
 
-Section 6101 of subtitle B (§§6101–6104) of title VI of Pub. L. 99–509 provided that: “This subtitle \[enacting this chapter, amending section 504 of Title 5, Government Organization and Employees, and enacting provisions set out as notes under this section\] may be cited as the ‘Program Fraud Civil Remedies Act of 1986’.”
+Pub. L. 99–509, title VI, subtitle B (§§6101–6104), §6101, Oct. 21, 1986, 100 Stat. 1934, provided that: “This subtitle \[enacting this chapter, amending section 504 of Title 5, Government Organization and Employees, and enacting provisions set out as notes under this section\] may be cited as the ‘Program Fraud Civil Remedies Act of 1986’.”
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
@@ -160,7 +160,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### Congressional Findings and Purposes
 
-Section 6102 of subtitle B (§§6101–6104) of title VI of Pub. L. 99–509 provided that:
+Pub. L. 99–509, title VI, subtitle B (§§6101–6104), §6102, Oct. 21, 1986, 100 Stat. 1934, provided that:
 
 “(a)
 

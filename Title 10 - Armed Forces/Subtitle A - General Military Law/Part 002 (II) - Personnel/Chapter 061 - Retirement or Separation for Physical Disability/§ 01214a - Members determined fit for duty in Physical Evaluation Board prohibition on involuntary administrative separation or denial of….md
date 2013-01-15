@@ -18,6 +18,8 @@ Reevaluation.—(1) The Secretary of the military department concerned may direc
 
 (Added Pub. L. 111–383, div. A, title V, §534(a)(1), Jan. 7, 2011, 124 Stat. 4216; amended Pub. L. 112–81, div. A, title V, §527(a)–(c)(1), Dec. 31, 2011, 125 Stat. 1401, 1402.)
 
+#### Amendments
+
 <b>2011</b>—Pub. L. 112–81, §527(c)(1), substituted “Members determined fit for duty in Physical Evaluation Board: prohibition on involuntary administrative separation or denial of reenlistment due to unsuitability based on medical conditions considered in evaluation” for “Members determined fit for duty in Physical Evaluation Board evaluation: prohibition on involuntary administrative separation due to unsuitability based on medical conditions considered in evaluation” in section catchline.
 
 Subsec. (a). Pub. L. 112–81, §527(a), inserted “, or deny reenlistment of the member,” after “a member described in subsection (b)”.

@@ -50,5 +50,5 @@ Subsec. (a). Pub. L. 103–355, §3022, as amended by Pub. L. 104–106, §4321(
 
 #### Effective Date of 1996 Amendment
 
-Section 4321(a) of Pub. L. 104–106 provided that the amendment made by that section is effective as of Oct. 13, 1994, and as if included in Pub. L. 103–355 as enacted.
+Pub. L. 104–106, div. D, title XLIII, §4321(a), Feb. 10, 1996, 110 Stat. 671, provided that the amendment made by that section is effective as of Oct. 13, 1994, and as if included in Pub. L. 103–355 as enacted.
 

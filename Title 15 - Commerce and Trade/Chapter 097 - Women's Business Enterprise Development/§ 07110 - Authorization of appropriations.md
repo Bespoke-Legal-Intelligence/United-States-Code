@@ -6,7 +6,7 @@ There is authorized to be appropriated to carry out this chapter $1,000,000, for
 
 #### (b) Budget review
 
-No amount made available under this section for any fiscal year may be obligated or expendedby the Council before the date on which the Council reviews and approves the operating budget of the Council to carry out the responsibilities of the Council for that fiscal year.
+No amount made available under this section for any fiscal year may be obligated or expended by the Council before the date on which the Council reviews and approves the operating budget of the Council to carry out the responsibilities of the Council for that fiscal year.
 
 (Pub. L. 100–533, title IV, §410, formerly §409, as added Pub. L. 103–403, title IV, §413, Oct. 22, 1994, 108 Stat. 4197; renumbered §411 and amended Pub. L. 105–135, title III, §305, Dec. 2, 1997, 111 Stat. 2610; renumbered §410 and amended Pub. L. 106–554, §1(a)(9) \[title VII, §705\], Dec. 21, 2000, 114 Stat. 2763, 2763A–702.)
 

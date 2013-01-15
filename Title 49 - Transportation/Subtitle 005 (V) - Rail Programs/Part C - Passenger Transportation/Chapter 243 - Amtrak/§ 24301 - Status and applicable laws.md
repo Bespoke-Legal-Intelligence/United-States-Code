@@ -60,7 +60,7 @@ Exemption From Additional Taxes.—(1) In this subsection—
 
 (2) Amtrak is not required to pay an additional tax because of an expenditure to acquire or improve real property, equipment, a facility, or right-of-way material or structures used in providing rail passenger transportation, even if that use is indirect.
 
-(<i>l</i>)
+(l)
 
 Exemption From Taxes Levied After September 30, 1981.—(1)
 
@@ -82,7 +82,7 @@ Waste Disposal.—(1) An intercity rail passenger car manufactured after October
 
 Rail Transportation Treated Equally.—When authorizing transportation in the continental United States for an officer, employee, or member of the uniformed services of a department, agency, or instrumentality of the Government, the head of that department, agency, or instrumentality shall consider rail transportation (including transportation by extra-fare trains) the same as transportation by another authorized mode. The Administrator of General Services shall include Amtrak in the contract air program of the Administrator in markets in which transportation provided by Amtrak is competitive with other carriers on fares and total trip times.
 
-(<i>o</i>)
+(o)
 
 Applicability of District of Columbia Law.—Any lease or contract entered into between Amtrak and the State of Maryland, or any department or agency of the State of Maryland, after the date of the enactment of this subsection shall be governed by the laws of the District of Columbia.
 
@@ -236,9 +236,9 @@ In subsection (j), the words “existing”, “including the antitrust laws of 
 
 In subsection (k)(2), the words “of funds” are omitted as surplus.
 
-In subsection (<i>l</i>)(1), the words “Notwithstanding any other provision of law”, “other”, “including such taxes and fees levied after September 30, 1982”, and “notwithstanding any provision of law” are omitted as surplus. The text of 45:546b (2d sentence) is omitted as executed.
+In subsection (l)(1), the words “Notwithstanding any other provision of law”, “other”, “including such taxes and fees levied after September 30, 1982”, and “notwithstanding any provision of law” are omitted as surplus. The text of 45:546b (2d sentence) is omitted as executed.
 
-In subsection (<i>l</i>)(2), the words “Notwithstanding the provision of section 1341 of title 28” are omitted as surplus.
+In subsection (l)(2), the words “Notwithstanding the provision of section 1341 of title 28” are omitted as surplus.
 
 In subsection (m)(1), before clause (A), the word “New” is omitted as surplus.
 
@@ -258,11 +258,11 @@ The Railroad Retirement Tax Act, referred to in subsec. (c), is act Aug. 16, 195
 
 The District of Columbia Business Corporation Act, referred to in subsec. (e), is act June 8, 1954, ch. 269, 68 Stat. 179, as amended, which is not classified to the Code.
 
-The date of the enactment of this subsection, referred to in subsec. (<i>o</i>), is the date of enactment of Pub. L. 110–53, which was approved Aug. 3, 2007.
+The date of the enactment of this subsection, referred to in subsec. (o), is the date of enactment of Pub. L. 110–53, which was approved Aug. 3, 2007.
 
 #### Amendments
 
-<b>2007</b>—Subsec. (<i>o</i>). Pub. L. 110–53 added subsec. (<i>o</i>).
+<b>2007</b>—Subsec. (o). Pub. L. 110–53 added subsec. (o).
 
 <b>2004</b>—Subsec. (c). Pub. L. 108–199 inserted “11123,” after “except for sections”.
 
@@ -294,7 +294,7 @@ Subsec. (e). Pub. L. 105–134, §110(a), inserted at end “Section 552 of titl
 
 Subsec. (f). Pub. L. 105–134, §106(b), amended heading and text of subsec. (f) generally. Prior to amendment,text read as follows: “The laws of the District of Columbia govern leases and contracts of Amtrak, regardless of where they are executed.”
 
-Subsec. (<i>l</i>)(1). Pub. L. 105–134, §208, inserted heading and substituted in text “Amtrak, a rail carrier subsidiary of Amtrak, and any passenger or other customer of Amtrak or such subsidiary, are” for “Amtrak or a rail carrier subsidiary of Amtrak is”, “tax, fee, head charge, or other charge, imposed or levied by a State, political subdivision, or local taxing authority on Amtrak, a rail carrier subsidiary of Amtrak, or on persons traveling in intercity rail passenger transportation or on mail or express transportation provided by Amtrak or such a subsidiary, or on the carriage of such persons, mail, or express, or on the sale of any such transportation, or on the gross receipts derived therefrom” for “tax or fee imposed by a State, a political subdivision of a State, or a local taxing authority and levied on it”, and “In the case of a tax or fee that Amtrak was required to pay as of September 10, 1982, Amtrak is not exempt from such tax or fee if it was assessed before April 1, 1997.” for “However, Amtrak is not exempt under this subsection from a tax or fee that it was required to pay as of September 10, 1982.”
+Subsec. (l)(1). Pub. L. 105–134, §208, inserted heading and substituted in text “Amtrak, a rail carrier subsidiary of Amtrak, and any passenger or other customer of Amtrak or such subsidiary, are” for “Amtrak or a rail carrier subsidiary of Amtrak is”, “tax, fee, head charge, or other charge, imposed or levied by a State, political subdivision, or local taxing authority on Amtrak, a rail carrier subsidiary of Amtrak, or on persons traveling in intercity rail passenger transportation or on mail or express transportation provided by Amtrak or such a subsidiary, or on the carriage of such persons, mail, or express, or on the sale of any such transportation, or on the gross receipts derived therefrom” for “tax or fee imposed by a State, a political subdivision of a State, or a local taxing authority and levied on it”, and “In the case of a tax or fee that Amtrak was required to pay as of September 10, 1982, Amtrak is not exempt from such tax or fee if it was assessed before April 1, 1997.” for “However, Amtrak is not exempt under this subsection from a tax or fee that it was required to pay as of September 10, 1982.”
 
 Subsec. (m)(1)(A). Pub. L. 105–134, §402, substituted “2001” for “1996”.
 

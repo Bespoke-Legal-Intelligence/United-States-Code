@@ -44,7 +44,7 @@ The Secretary shall, with respect to the financial operations arising by reason 
 
 #### (3) Institutional, public, or nonprofit lenders
 
-&emsp;For purposes of clarity in communications, the Secretary shall separately identify loans made by the lenders referred to in clause (i) and loans made by the lenders referred to in clause (ii) of paragraph (1)(B) of this subsection.
+&emsp;For purposes of clarity in communications, the Secretary shall separately identify loansmade by the lenders referred to in clause (i) and loans made by the lenders referred to in clause (ii) of paragraph (1)(B) of this subsection.
 
 #### (d) Delegation
 
@@ -80,7 +80,7 @@ Notwithstanding any other provision of law, the Secretary may provide to eligibl
 
 #### (2) Access to records
 
-&emsp;For the purpose of carrying out this subsection, the records of any entity described in subparagraph (A), (B), (C), or (D) <sup>1</sup> of paragraph (1) shall be available to the Comptroller General and the Inspector General of the Department of Education. For the purpose of section 716(c) of title 31, such records shall be considered to be records to which the Comptroller General has access by law, and for the purposeof section 6(a)(4) of the Inspector General Act of 1978, such records shall be considered to be records necessary in the performance of functions assigned by that Act to the Inspector General.
+&emsp;For the purpose of carrying out this subsection, the records of any entity described in subparagraph (A), (B), (C), or (D) <sup>1</sup> of paragraph (1) shall be available to the Comptroller General and the Inspector General of the Department of Education. For the purpose of section 716(c) of title 31, such records shall be considered to be records to which the Comptroller General has access by law, and for the purpose of section 6(a)(4) of the Inspector General Act of 1978, such records shall be considered to be records necessary in the performance of functions assigned by that Act to the Inspector General.
 
 #### (3) “Record” defined
 
@@ -112,7 +112,7 @@ Notwithstanding any other provision of law, the Secretary may provide to eligibl
 
 #### (3) Correction of failure
 
-&emsp;A lender or guaranty agency has no liability under paragraph (1) of this subsection if, prior to notification by the Secretary under that paragraph, the lender or guaranty agency cures or corrects the violation or failure or notifies the person who received the substantial misrepresentation of the actual nature of the financial charges involved.
+&emsp;A lender or guaranty agency has no liability under paragraph (1) of this subsection if, prior to notification by the Secretary under that paragraph, the lender or guaranty agency cures or corrects the violation or failure or notifies the person who received the substantialmisrepresentation of the actual nature of the financial charges involved.
 
 #### (4) Consideration as single violation
 
@@ -206,7 +206,7 @@ In the event that all other collection efforts have failed, the Secretary is aut
 
 &emsp;&emsp;(C) determines that the likelihood of loss outweighs the importance of following the limitation, suspension, or termination procedures authorized in subsection (h) of this section;
 
-> &emsp;the Secretary shall, effective on the date on which a notice and statement of the basis ofthe action is mailed to the lender (by registered mail, return receipt requested), take emergency action to stop the issuance of guarantee commitments and the payment of interest benefits and special allowance to the lender.
+> &emsp;the Secretary shall, effective on the date on which a notice and statement of the basis of the action is mailed to the lender (by registered mail, return receipt requested), take emergency action to stop the issuance of guarantee commitments and the payment of interest benefits and special allowance to the lender.
 
 #### (2) Length of emergency action
 
@@ -230,7 +230,7 @@ In the event that all other collection efforts have failed, the Secretary is aut
 
 &emsp;The Secretary shall recommend to the appropriate committees in the Senate and House of Representatives changes to statutes that could be made in order to further encourage such efforts.
 
-#### (<i>l</i>) Uniform administrative and claims procedures
+#### (l) Uniform administrative and claims procedures
 
 #### (1) In general
 
@@ -344,7 +344,7 @@ In the event that all other collection efforts have failed, the Secretary is aut
 
 #### (2) Allowable activities
 
-&emsp;Allowable activities for which such funds shall be expended by the Secretary shall include the following: (A) program reviews; (B)audits; (C) debt management programs; (D) training activities; and (E) such other management improvement activities approved by the Secretary.
+&emsp;Allowable activities for which such funds shall be expended by the Secretary shall include the following: (A) program reviews; (B) audits; (C) debt management programs; (D) training activities; and (E) such other management improvement activities approved by the Secretary.
 
 #### (3) Plan for use required
 
@@ -360,13 +360,13 @@ In the event that all other collection efforts have failed, the Secretary is aut
 
 > &emsp;This report shall be submitted to the Appropriations Committees of the House of Representatives and the Senate and to the authorizing committees.
 
-#### (<i>o</i>) Consequences of guaranty agency insolvency
+#### (o) Consequences of guaranty agency insolvency
 
 In the event that the Secretary has determined that a guaranty agency is unable to meet its insurance obligations under this part, the holder of loans insured by the guaranty agency may submit insurance claims directly to the Secretary and the Secretary shall pay to the holder the full insurance obligation of the guaranty agency, in accordance with insurance requirements no more stringent than those of the guaranty agency. Such arrangements shall continue until the Secretary is satisfied that the insurance obligations have been transferred to another guarantor who can meet those obligations or a successor will assume the outstanding insurance obligations.
 
 #### (p) Reporting requirement
 
-All officers and directors, and those employees and paid consultants of eligible institutions, eligible lenders, guaranty agencies, loan servicing agencies, accrediting agencies or associations, State licensing agencies or boards, and entities acting as secondary markets (including the Student Loan Marketing Association), who are engaged in making decisions as to the administration of any program or funds under this subchapter and part C of subchapter I of chapter 34 of title 42 or as to the eligibility of any entity or individual to participate under this subchapter and part C of subchapter I of chapter 34 of title 42, shall report to the Secretary, in such manner and at such time as the Secretary shall require, on any financial interest which such individual may hold in any other entity participating in any program assisted under this subchapter and part C of subchapter I of chapter 34 of title 42.
+All officers and directors, and those employees and paid consultants of eligible institutions, eligible lenders, guaranty agencies, loan servicing agencies, accrediting agencies or associations, State licensing agencies or boards, and entities acting as secondary markets (including the Student Loan Marketing Association), who are engaged in making decisions as to the administration of any program or funds under this subchapter and part C of subchapter I of chapter 34of title 42 or as to the eligibility of any entity or individual to participate under this subchapter and part C of subchapter I of chapter 34 of title 42, shall report to the Secretary, in such manner and at such time as the Secretary shall require, on any financial interest which such individual may hold in any other entity participating in any program assisted under this subchapter and part C of subchapter I of chapter 34 of title 42.
 
 (Pub. L. 89–329, title IV, §432, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1401; amended Pub. L. 100–50, §10(x), (y), June 3, 1987, 101 Stat. 346; Pub. L. 101–239, title II, §2006(a), Dec. 19, 1989, 103 Stat. 2118; Pub. L. 102–325, title IV, §425, July 23, 1992, 106 Stat. 543; Pub. L. 103–208, §2(k)(2), (3), Dec. 20, 1993, 107 Stat. 2485; Pub. L. 104–66, title I, §1042(e), Dec. 21, 1995, 109 Stat. 716; Pub. L. 105–244, title IV, §427, Oct. 7, 1998, 112 Stat. 1702; Pub. L. 106–554, §1(a)(1) \[title III, §311\], Dec. 21, 2000, 114 Stat. 2763, 2763A–46; Pub. L. 109–171, title VIII, §8014(j), Feb. 8, 2006, 120 Stat. 171; Pub. L. 110–315, title I, §103(b)(6), title IV, §433, Aug. 14, 2008, 122 Stat. 3089, 3247; Pub. L. 111–39, title IV, §402(f)(9), July 1, 2009, 123 Stat. 1944.)
 
@@ -394,9 +394,9 @@ Subsec. (m)(1)(D)(i). Pub. L. 110–315, §433(b), inserted at end “Unless oth
 
 Subsec. (n)(3). Pub. L. 110–315, §103(b)(6)(B), substituted “authorizing committees” for “Committee on Education and the Workforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate” in concluding provisions.
 
-<b>2006</b>—Subsec. (<i>l</i>)(1)(H). Pub. L. 109–171 inserted “and anticipated graduation date” after “status change”.
+<b>2006</b>—Subsec. (l)(1)(H). Pub. L. 109–171 inserted “and anticipated graduation date” after “status change”.
 
-<b>2000</b>—Subsec. (m)(1)(D)(iv). Pub. L. 106–554, §1(a)(1) \[title III, §311(1)\], struck out heading and text of cl. (iv). Text read as follows: “Notwithstanding the provisions of any State law to the contrary, including the Uniform Commercial Code as in effect in any State, a security interest in loans made under this part created on behalf of any eligible lender as defined in section 1085(d) of this title may be perfected either through thetaking of possession of such loans (which can be through taking possession of an original or copy of the master promissory note) or by the filing of notice of such security interest in such loans in the manner provided by such State law for perfection of security interests in accounts.”
+<b>2000</b>—Subsec. (m)(1)(D)(iv). Pub. L. 106–554, §1(a)(1) \[title III, §311(1)\], struck out heading and text of cl. (iv). Text read as follows: “Notwithstanding the provisions of any State law to the contrary, including the Uniform Commercial Code as in effect in any State, a security interest in loans made under this part created on behalf of any eligible lender as defined in section 1085(d) of this title may be perfected either through the taking of possession of such loans (which can be through taking possession of an original or copy of the master promissory note) or by the filing of notice of such security interest in such loans in the manner provided by such State law for perfection of security interests in accounts.”
 
 Subsec. (m)(1)(E). Pub. L. 106–554, §1(a)(1) \[title III, §311(2)\], added subpar. (E).
 

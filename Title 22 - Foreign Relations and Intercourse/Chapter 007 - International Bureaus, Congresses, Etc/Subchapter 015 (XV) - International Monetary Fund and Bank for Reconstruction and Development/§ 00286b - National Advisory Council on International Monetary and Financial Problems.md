@@ -2,7 +2,7 @@
 
 #### (a) Establishment and composition
 
-In order to coordinate the policies and operations of the representatives of the United States on the Fund and the Bank and of all agencies of the Government which make or participate in making foreign loans or which engage in foreign financial, exchange or monetary transactions, there is hereby established the National Advisory Council on International Monetary and Financial Problems (hereinafter referred to as the “Council”), consisting of the Secretary of the Treasury, as Chairman, the Secretary of State, the Secretary of Commerce, the Chairman of the Board of Governors of the Federal Reserve System, the President of the Export-Import Bank of the United States, and during such period as the Foreign Operations Administration shall continue to exist, the Director of the Foreign Operations Administration.
+In order to coordinate the policies and operations of the representatives of the United States on the Fund and the Bank and of all agencies of the Government which make or participate in making foreign loans or which engage in foreign financial, exchange or monetary transactions, there is hereby established the National Advisory Council on International Monetary and Financial Problems (hereinafter referred to as the “Council”), consisting of the Secretary of the Treasury, as Chairman, the Secretary of State, the Secretary of Commerce, the Chairman of the Board of Governors of the Federal Reserve System, the President of theExport-Import Bank of the United States, and during such period as the Foreign Operations Administration shall continue to exist, the Director of the Foreign Operations Administration.
 
 #### (b) Duties and functions; reports by Council
 
@@ -24,9 +24,9 @@ In order to coordinate the policies and operations of the representatives of the
 
 #### (c) Reports to Council
 
-The representatives of the United States on the Fund and the Bank, and the Export-Import Bank of the United States (and all other agencies of the Government to the extent that they make or participate in the making of foreign loans or engage in foreign financial, exchange ormonetary transactions) shall keep the Council fully informed of their activities and shall provide the Council with such further information or data in their possession as the Council may deem necessary to the appropriate discharge of its responsibilities under this subchapter.
+The representatives of the United States on the Fund and the Bank, and the Export-Import Bank of the United States (and all other agencies of the Government to the extent that they make or participate in the making of foreign loans or engage in foreign financial, exchange or monetary transactions) shall keep the Council fully informed of their activities and shall provide the Council with such further information or data in their possession as the Council may deem necessary to the appropriate discharge of its responsibilities under this subchapter.
 
-(July 31, 1945, ch. 339, §4, 59 Stat. 512; Apr. 3, 1948, ch. 169, title I, §106, 62 Stat. 141; Oct. 10, 1951, ch. 479, title V, §501(e)(2), 65 Stat. 378; 1953 Reorg. Plan No. 5, eff. June 30, 1953, 18 F.R. 3741, 67 Stat. 637; 1953 Reorg. Plan No. 7, eff. Aug. 1, 1953, 18 F.R. 4541, 67 Stat. 639; Aug. 9, 1954, ch. 660, §2, 68 Stat. 678; Pub. L. 89–126, §1(1), Aug. 14, 1965, 79 Stat. 519; Pub. L. 90–267, §1(a), Mar. 13, 1968, 82 Stat. 47; Pub. L. 98–181, title VIII, §808(a), Nov. 30, 1983, 97 Stat. 1273; Pub. L. 101–240, title V, §541(d)(1), (f)(1), Dec. 19, 1989, 103 Stat. 2518, 2519.)
+(July 31, 1945, ch. 339, §4, 59 Stat. 512; Apr. 3, 1948, ch. 169, title I, §106, 62 Stat. 141; Oct. 10, 1951, ch. 479, title V, §501(e)(2), 65 Stat. 378; 1953 Reorg. Plan No. 5, eff. June 30, 1953, 18 F.R. 3741, 67 Stat. 637; 1953 Reorg. Plan No. 7, eff. Aug. 1, 1953, 18 F.R. 4541, 67 Stat. 639; Aug. 9, 1954, ch. 660, §2, 68 Stat. 678; Pub. L. 89–126, §1(1), Aug. 14, 1965, 79 Stat. 519; Pub. L. 90–267, §1(a), Mar. 13, 1968, 82 Stat. 47; Pub. L. 98–181, title I \[title VIII, §808(a)\], Nov. 30, 1983, 97 Stat. 1273; Pub. L. 101–240, title V, §541(d)(1), (f)(1), Dec. 19, 1989, 103 Stat. 2518, 2519.)
 
 #### Amendments
 
@@ -84,7 +84,7 @@ Section 1. <i>Establishment of Council</i>. (a) There is hereby established the 
 
 Sec. 2. <i>Functions of the Council</i>. (a) Exclusive of the functions delegated by the provisions of Section 3, below, and subject to the limitations contained in subsection (b) of this Section, all of the functions which are now vested in the President in consequence of their transfer to him effected by the provisions of Section 1(b) of Reorganization Plan No. 4 of 1965 are hereby delegated to the Council.
 
-(b) The functions under Sections 4(a) and 4(b)(3) of the Bretton Woods Agreements Act, including thosemade applicable to the International Finance Corporation, the Inter-American Development Bank, and the International Development Association (22 U.S.C. 286b(a) and (b)(3); 282b; 283b; 284b), to the extent that such functions consist of coordination of policies, are hereby delegated to the Council. The functions so delegated shall be deemed to include the authority to review proposed individual loan, financial, exchange, or monetary transactions to the extent necessary or desirable to effectuate the coordination of policies.
+(b) The functions under Sections 4(a) and 4(b)(3) of the Bretton Woods Agreements Act, including those made applicable to the International Finance Corporation, the Inter-American Development Bank, and the International Development Association (22 U.S.C. 286b(a) and (b)(3); 282b; 283b; 284b), to the extent that such functions consist of coordination of policies, are hereby delegated to the Council. The functions so delegated shall be deemed to include the authority to review proposed individual loan, financial, exchange, or monetary transactions to the extent necessary or desirable to effectuate the coordination of policies.
 
 (c) The Council shall perform with respect to the Asian Development Bank, African Development Fund,, \[sic\] African Development Bank, Inter-American Investment Corporation, Multilateral Investment Guarantee Agency, and European Bank for Reconstruction and Development, the same functions as those delegated to it by subsections (a) and (b) of this section with respect to other international financial institutions.
 
@@ -106,7 +106,7 @@ Sec. 4. <i>Information</i>. (a) All agencies and officers of the Government, inc
 
 (b) The Council shall from time to time transmit to all appropriate agencies and officers of the Government statements of the policies of the Council under this order and such other information relating to the above-mentioned transactions or to the functions of the Council hereunder as the Council shall deem desirable.
 
-Sec. 5. <i>Executive Order No. 10033</i>. Section 2(a) of Executive Order No. 10033 of February 8, 1949 \[set out as a note under section 286f of this title\], is hereby amended by substituting for the name “National Advisory Council on International Monetary and Financial Problems” the following: “National Advisory Council on International Monetary and Financial Policies.”
+Sec. 5. <i>Executive Order No. 10033</i>. Section 2(a) of Executive Order No. 10033 of February 8, 1949 \[set out as a note under section 286f of this title\], is hereby amendedby substituting for the name “National Advisory Council on International Monetary and Financial Problems” the following: “National Advisory Council on International Monetary and Financial Policies.”
 
 Sec. 6. <i>Effective date</i>. The provisions of this order shall be effective as of January 1, 1966.
 

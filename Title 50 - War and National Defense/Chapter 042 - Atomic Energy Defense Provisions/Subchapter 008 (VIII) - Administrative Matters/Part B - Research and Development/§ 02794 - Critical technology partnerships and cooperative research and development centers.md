@@ -54,9 +54,7 @@ In this section:
 
 &emsp;(4) The term “atomic energy defense activities” does not include activities covered by Executive Order No. 12344, dated February 1, 1982, pertaining to the Naval nuclear propulsion program.
 
-&emsp;(5) The term “national security laboratory” has the meaning given that term in section 2471 of this title.
-
-(Pub. L. 107–314, div. D, title XLVIII, §4813, formerly Pub. L. 102–190, div. C, title XXXI, §3136, Dec. 5, 1991, 105 Stat. 1577; Pub. L. 103–35, title II, §203(b)(3), May 31, 1993, 107 Stat. 102; renumbered Pub. L. 107–314, div. D, title XLVIII, §4813, by Pub. L. 108–136, div. C, title XXXI, §3141(k)(8), Nov. 24, 2003, 117 Stat. 1785; Pub. L. 111–383, div. C, title XXXI, §3115(a), Jan. 7, 2011, 124 Stat. 4511.)
+(Pub. L. 107–314, div. D, title XLVIII, §4813, formerly Pub. L. 102–190, div. C, title XXXI, §3136, Dec. 5, 1991, 105 Stat. 1577; Pub. L. 103–35, title II, §203(b)(3), May 31, 1993, 107 Stat. 102; renumbered Pub. L. 107–314, div. D, title XLVIII, §4813, by Pub. L. 108–136, div. C, title XXXI, §3141(k)(8), Nov. 24, 2003, 117 Stat. 1785; Pub. L. 111–383, div. C, title XXXI, §3115(a), Jan. 7, 2011, 124 Stat. 4511; Pub. L. 112–239, div. C, title XXXI, §3131(x), Jan. 2, 2013, 126 Stat. 2184.)
 
 #### References in Text
 
@@ -72,6 +70,8 @@ Section was formerly classified to section 2123 of Title 42, The Public Health a
 
 #### Amendments
 
+<b>2013</b>—Subsec. (c)(5). Pub. L. 112–239 struck out par. (5) which read as follows: “The term ‘national security laboratory’ has the meaning given that term in section 2471 of this title.”
+
 <b>2011</b>—Pub. L. 111–383, §3115(a)(3), inserted “and cooperative research and development centers” after “partnerships” in section catchline.
 
 Subsecs. (b), (c). Pub. L. 111–383, §3115(a)(1), added subsec. (b) and redesignated former subsec. (b) as (c).
@@ -79,6 +79,50 @@ Subsecs. (b), (c). Pub. L. 111–383, §3115(a)(1), added subsec. (b) and redesi
 Subsec. (c)(5). Pub. L. 111–383, §3115(a)(2), added par. (5).
 
 <b>1993</b>—Subsec. (b)(1)(C)(ii)(I). Pub. L. 103–35 substituted “section 2506 of title 10” for “section 2522 of title 10”.
+
+#### Pilot Program on Technology Commercialization
+
+Pub. L. 112–239, div. C, title XXXI, §3165, Jan. 2, 2013, 126 Stat. 2207, provided that:
+
+“(a)
+
+Pilot Program.—The Secretary of Energy, in consultation with the Technology Transfer Coordinatorappointed under section 1001(a) of the Energy Policy Act of 2005 (42 U.S.C. 16391(a)), may carry out a pilot program at a national security laboratory for the purpose of accelerating technology transfer from such laboratories to the marketplace with respect to technologies that directly advance the mission of the National Nuclear Security Administration.
+
+“(b)
+
+Termination.—The authority to carry out the pilot program under subsection (a) shall terminate on the date that is two years after the date of the enactment of this Act \[Jan. 2, 2013\].
+
+“(c)
+
+Reports.—
+
+&emsp;“(1)
+
+In general.—Not later than one year after the date of the enactment of this Act, the Secretary shall submit to the appropriate congressional committees a report on the pilot program under subsection (a).
+
+&emsp;“(2)
+
+Elements.—The report under paragraph (1) shall include the following:
+
+&emsp;&emsp;“(A) An identification of opportunities for accelerating technology transfer from national security laboratories to the marketplace.
+
+&emsp;&emsp;“(B) If the Secretary chooses to carry out the pilot program under subsection (a), a description of the plan to carry out such program.
+
+&emsp;&emsp;“(C) If the Secretary chooses not to carry out the pilot program under subsection (a), a description of why the program will not be carried out.
+
+“(d)
+
+Definitions.—In this section:
+
+&emsp;“(1) The term ‘appropriate congressional committees’ means the following:
+
+&emsp;&emsp;“(A) The Committees on Armed Services of the Senate and House of Representatives.
+
+&emsp;&emsp;“(B) The Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives.
+
+&emsp;&emsp;“(C) The Committee on Energy and Natural Resources of the Senate and the Committee on Energy and Commerce of the House of Representatives.
+
+&emsp;“(2) The term ‘national security laboratory’ has the meaning given that term in section 3281 of the National Nuclear Security Administration Act (50 U.S.C. 2471).”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

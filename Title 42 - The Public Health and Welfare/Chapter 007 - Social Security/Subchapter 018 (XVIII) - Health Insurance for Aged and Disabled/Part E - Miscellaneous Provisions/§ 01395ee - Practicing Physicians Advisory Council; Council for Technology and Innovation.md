@@ -14,7 +14,7 @@
 
 #### (3) Duties
 
-&emsp;The Council shall coordinate the activities of coverage, coding, and payment processesunder this subchapter with respect to new technologies and procedures, including new drug therapies, and shall coordinate the exchange of information on new technologies between CMS and other entities that make similar decisions.
+&emsp;The Council shall coordinate the activities of coverage, coding, and payment processes under this subchapter with respect to new technologies and procedures, including new drug therapies, and shall coordinate the exchange of information on new technologies between CMS and other entities that make similar decisions.
 
 #### (4) Executive Coordinator for Technology and Innovation
 

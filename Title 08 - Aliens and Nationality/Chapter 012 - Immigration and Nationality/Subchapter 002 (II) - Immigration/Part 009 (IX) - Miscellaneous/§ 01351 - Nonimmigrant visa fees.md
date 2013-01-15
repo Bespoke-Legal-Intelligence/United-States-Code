@@ -22,7 +22,7 @@ Subsec. (c). Pub. L. 89–236, §14(d), designated closing provision consisting 
 
 #### Effective Date of 1997 Amendment
 
-Section 2(b) of Pub. L. 105–54 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 6, 1997\].”
+Pub. L. 105–54, §2(b), Oct. 6, 1997, 111 Stat. 1175, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 6, 1997\].”
 
 #### Effective Date of 1965 Amendment
 
@@ -104,7 +104,7 @@ Pub. L. 103–236, title I, §140(a), Apr. 30, 1994, 108 Stat. 399, as amended b
 
 “(1) Notwithstanding any other provision of law, the Secretary of State is authorized to charge a fee or surcharge for processing machine readable nonimmigrant visas and machine readable combined border crossing identification cards and nonimmigrant visas.
 
-“(2) Fees collected under the authority of paragraph (1) shall be deposited as an offsetting collection to anyDepartment of State appropriation, to recover the costs of providing consular services. Such fees shall remain available for obligation until expended.
+“(2) Fees collected under the authority of paragraph (1) shall be deposited as an offsetting collection to any Department of State appropriation, to recover the costs of providing consular services. Such fees shall remain available for obligation until expended.
 
 “(3) For the fiscal year 2003, any amount that exceeds $460,000,000 may be made available only if a notification is submitted to Congress in accordance with the procedures applicable to reprogramming notifications under section 34 of the State Department Basic Authorities Act of 1956 \[22 U.S.C. 2706\].”
 

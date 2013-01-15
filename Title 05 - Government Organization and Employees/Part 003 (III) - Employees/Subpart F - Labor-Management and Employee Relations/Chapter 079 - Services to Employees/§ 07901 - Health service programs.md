@@ -76,7 +76,7 @@ Secretary of Health, Education, and Welfare redesignated Secretary of Health and
 
 #### Short Title of 1993 Amendment
 
-Pub. L. 103–172, §1(a), Dec. 2, 1993, 107 Stat. 1995, provided that: “This Act \[enacting section 7905 of this title and provisions set out as notes under section 7905 ofthis title\] may be cited as the ‘Federal Employees Clean Air Incentives Act’.”
+Pub. L. 103–172, §1(a), Dec. 2, 1993, 107 Stat. 1995, provided that: “This Act \[enacting section 7905 of this title and provisions set out as notes under section 7905 of this title\] may be cited as the ‘Federal Employees Clean Air Incentives Act’.”
 
 #### Demonstration Project: Health Protection; Health Promotion; Disease Prevention; and Secondary Prevention
 

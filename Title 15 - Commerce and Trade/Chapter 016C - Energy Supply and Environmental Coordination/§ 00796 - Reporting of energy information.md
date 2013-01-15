@@ -42,7 +42,7 @@ For the purpose of assuring that the Federal Energy Administrator, the Congress,
 
 &emsp;(B) Domestic reserves and production of crude oil, natural gas, and coal.
 
-&emsp;(C) Refinery activities, showing for each refinery within the United States (i) the amounts of crude oil run by such refinery, (ii) amounts of crude oil allocated to such refinery pursuant to regulations and orders of the Federal Energy Administrator, his delegate pursuant to the Emergency Petroleum Allocation Act of 1973 \[15 U.S.C. 751 et seq.\],<sup>3</sup> or any other person authorized by law to issue regulations and orders with respect to the allocation of crude oil, (iii) percentage of refinery capacity utilized, and (iv) amounts of products refined from such crude oil.
+&emsp;(C) Refinery activities, showing for each refinery within the United States (i) the amounts of crude oil run by such refinery, (ii) amounts of crude oil allocated to such refinery pursuant to regulations and orders of the Federal Energy Administrator, his delegate pursuant to the Emergency Petroleum Allocation Act of 1973 \[15 U.S.C. 751 et seq.\],<sup>1</sup> or any other person authorized by law to issue regulations and orders with respect to the allocation of crude oil, (iii) percentage of refinery capacity utilized, and (iv) amounts of products refined from such crude oil.
 
 &emsp;(D) Report of inventories, on a national, regional, and State-by-State basis—
 
@@ -54,7 +54,7 @@ For the purpose of assuring that the Federal Energy Administrator, the Congress,
 
 &emsp;&emsp;(iv) of LPG by State and owner: quantities stored, and existing capacities, and previous priorities on types, inventories of suppliers, and changes in supplier inventories.
 
-(3) In order to carry out his responsibilities under subsection (a) of this section, the Federal Energy Administrator shall require, pursuant to subsection (b)(1)(A) of this section, that persons engaged, in whole or in part, in the production of crude oil or natural gas—
+(3) In order to carry out his responsibilities under subsection (a) of this section, the FederalEnergy Administrator shall require, pursuant to subsection (b)(1)(A) of this section, that persons engaged, in whole or in part, in the production of crude oil or natural gas—
 
 &emsp;(A) keep energy information in accordance with the accounting practices developed pursuant to section 503 of the Energy Policy and Conservation Act \[42 U.S.C. 6383\], and
 
@@ -64,7 +64,7 @@ For the purpose of assuring that the Federal Energy Administrator, the Congress,
 
 #### (d) Confidential information
 
-Upon a showing satisfactory to the Federal Energy Administrator by any person that any energy information obtained under this section from such person would, if made public, divulge methods or processes entitled to protection as trade secrets or other proprietary information of such person, such information, or portion thereof, shall be confidential in accordance with the provisions of section 1905 of title 18; except that such information, or part thereof, shall not be deemed confidential for purposes of disclosure, upon request, to (1) any delegate of the Federal Energy Administrator for the purpose of carrying out this chapter and the Emergency Petroleum Allocation Act of 1973 \[15 U.S.C. 751 et seq.\],<sup>4</sup> (2) the Attorney General, the Secretary of the Interior, the Federal Trade Commission, the Federal Power Commission, or the Government Accountability Office, when necessary to carry out those agencies’ duties and responsibilities under this and other statutes, and (3) the Congress, or any committee of Congress upon request of the Chairman.
+Upon a showing satisfactory to the Federal Energy Administrator by any person that any energy information obtained under this section from such person would, if made public, divulge methods or processes entitled to protection as trade secrets or other proprietary information of such person, such information, or portion thereof, shall be confidential in accordance with the provisions of section 1905 of title 18; except that such information, or part thereof, shall not be deemed confidential for purposes of disclosure, upon request, to (1) any delegate of the Federal Energy Administrator for the purpose of carrying out this chapter and the Emergency Petroleum Allocation Act of 1973 \[15 U.S.C. 751 et seq.\],<sup>1</sup> (2) the Attorney General, the Secretary of the Interior, the Federal Trade Commission, the Federal Power Commission, or the Government Accountability Office, when necessary to carry out those agencies’ duties and responsibilities under this and other statutes, and (3) the Congress, or any committee of Congress upon request of the Chairman.
 
 #### (e) Definitions
 
@@ -72,7 +72,7 @@ As used in this section:
 
 &emsp;(1) The term “energy information” includes (A) all information in whatever form on (i) fuel reserves, exploration, extraction, and energy resources (including petrochemical feedstocks) wherever located; (ii) production, distribution, and consumption of energy and fuels wherever carried on; and (B) matters relating to energy and fuels, such as corporate structure and proprietary relationships, costs, prices, capital investment, and assets, and other matters directly related thereto, wherever they exist.
 
-&emsp;(2) The term “person” means any natural person, corporation, partnership, association, consortium, or any entity organized for a common business purpose, wherever situated,domiciled, or doing business, who directly or through other persons subject to their control does business in any part of the United States.
+&emsp;(2) The term “person” means any natural person, corporation, partnership, association, consortium, or any entity organized for a common business purpose, wherever situated, domiciled, or doing business, who directly or through other persons subject to their control does business in any part of the United States.
 
 &emsp;(3) The term “United States” when used in the geographical sense means the States, the District of Columbia, Puerto Rico, and the territories and possessions of the United States.
 
@@ -108,19 +108,15 @@ Amendment by Pub. L. 95–620 effective 180 days after Nov. 9, 1978, see section
 
 #### Effective Date of 1975 Amendment
 
-Section 505(b) of Pub. L. 94–163 provided that: “The amendment made by subsection (a) to section 11(c) of the Energy Supply and Environmental Coordination Act of 1974 \[subsec. (c) of this section\] shall take effect on the first day of the first accounting quarter to which such practices apply.”
+Pub. L. 94–163, title V, §505(b), Dec. 22, 1975, 89 Stat. 960, provided that: “The amendment made by subsection (a) to section 11(c) of the Energy Supply and Environmental Coordination Act of 1974 \[subsec. (c) of this section\] shall take effect on the first day of the first accounting quarter to which such practices apply.”
 
 #### Transfer of Functions
 
 Federal Energy Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of Title 42, The Public Health and Welfare.
 
-Federal Power Commission terminated and functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a)(1), 7291, and 7293 of Title 42.
+Federal Power Commission terminated and functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) bysections 7151(b), 7171(a), 7172(a)(1), 7291, and 7293 of Title 42.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be “employee”.</i>
-
-<i><sup>3</sup></i><i> See References in Text note below.</i>
-
-<i><sup>4</sup></i><i> See References in Text note below.</i>
 

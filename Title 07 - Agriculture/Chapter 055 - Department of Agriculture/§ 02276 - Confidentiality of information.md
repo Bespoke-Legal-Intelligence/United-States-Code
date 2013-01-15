@@ -6,7 +6,7 @@ In the case of information furnished under a provision of law referred to in sub
 
 &emsp;(1) use such information for a purpose other than the development or reporting of aggregate data in a manner such that the identity of the person who supplied such information is not discernible and is not material to the intended uses of such information;
 
-&emsp;(2) disclose such information to the public, unless such information has been transformed into a statistical or aggregate form that doesnot allow the identification of the person who supplied particular information; or
+&emsp;(2) disclose such information to the public, unless such information has been transformed into a statistical or aggregate form that does not allow the identification of the person who supplied particular information; or
 
 &emsp;(3) in the case of information collected under the authority described in subsection (d)(12) of this section, disclose the information to any person or any Federal, State, local, or tribal agency outside the Department of Agriculture, unless the information has been converted into a statistical or aggregate form that does not allow the identification of the person that supplied particular information.
 

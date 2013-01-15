@@ -2,7 +2,7 @@
 
 (a) The Secretary of Defense may pay an allowance under this section to any civilian employee of the Defense Intelligence Agency who—
 
-&emsp;(1) is assigned to a Defense Attache�AE1 Office outside the United States; and
+&emsp;(1) is assigned to a Defense Attaché Office outside the United States; and
 
 &emsp;(2) is required by regulation to wear a prescribed uniform in performance of official duties.
 

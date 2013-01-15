@@ -22,7 +22,7 @@ In carrying out the program under this section, the Director shall focus on the 
 
 #### (c) Procedures and selection criteria
 
-The Director shall develop and issue procedures and selection criteria for participants inthe program. The Director shall give special consideration to an application from a teacher from a high-need school, as defined in section 1021 of title 20.
+The Director shall develop and issue procedures and selection criteria for participants in the program. The Director shall give special consideration to an application from a teacher from a high-need school, as defined in section 1021 of title 20.
 
 #### (d) Scheduling
 

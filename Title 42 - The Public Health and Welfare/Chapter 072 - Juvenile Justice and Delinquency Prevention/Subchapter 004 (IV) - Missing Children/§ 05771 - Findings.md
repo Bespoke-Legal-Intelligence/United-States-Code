@@ -34,7 +34,7 @@ This chapter, referred to in par. (8), was in the original “this Act”, meani
 
 #### Prior Provisions
 
-A prior section 402 of Pub. L. 93–415 amended section 3888 of this title and repealed section 3889 of this title, and was repealed by Pub. L. 95–115, §10, Oct. 3, 1977, 91 Stat. 1061, and Pub. L. 107–273, div. C, title II, §12221(a)(4), Nov. 2, 2002, 116 Stat. 1894.
+A prior section 402 of Pub. L. 93–415 amended section 3888 of this title and repealed section 3889 of this title,and was repealed by Pub. L. 95–115, §10, Oct. 3, 1977, 91 Stat. 1061, and Pub. L. 107–273, div. C, title II, §12221(a)(4), Nov. 2, 2002, 116 Stat. 1894.
 
 #### Amendments
 

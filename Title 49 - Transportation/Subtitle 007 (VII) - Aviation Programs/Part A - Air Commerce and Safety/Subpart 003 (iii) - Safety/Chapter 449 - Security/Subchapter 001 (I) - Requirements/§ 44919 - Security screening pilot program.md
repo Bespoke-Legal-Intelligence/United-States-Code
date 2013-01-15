@@ -22,7 +22,7 @@ Supervision of Screened Personnel.—The Under Secretary shall provide Federal G
 
 (f)
 
-Qualified Private Screening Company.—A private screening company is qualified to provide screening services at an airport participating in the pilot program under this section if the company will only employ individuals to provide such services who meet all the requirements of this chapter applicable to Federal Government personnel who perform screening services at airports under this chapter and will provide compensation and other benefits to such individuals that are not less than the level of compensation and other benefits provided to such Federal Government personnel in accordance with this chapter.
+Qualified Private Screening Company.—A private screening company is qualified to provide screening services at an airport participating in the pilot program under this section if the company will only employ individuals to provide such services who meet all the requirements ofthis chapter applicable to Federal Government personnel who perform screening services at airports under this chapter and will provide compensation and other benefits to such individuals that are not less than the level of compensation and other benefits provided to such Federal Government personnel in accordance with this chapter.
 
 (g)
 

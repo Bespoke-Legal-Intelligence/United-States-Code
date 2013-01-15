@@ -40,7 +40,7 @@ A certifying agent that is a private person that violates the provisions of this
 
 #### (f) Effect of other laws
 
-Nothing in this chapter shall alter the authority of the Secretary under the Federal Meat Inspection Act (21 U.S.C. 601 et seq.), the Poultry Products Inspection Act (21 U.S.C. 451 et seq.), and the Egg Products Inspection Act (21 U.S.C. 1031 et seq.) concerning meat, poultry and egg products, nor any of the authorities of the Secretary of Health and Human Services under the Federal Food, Drug <sup>1</sup> and Cosmetic Act (21 U.S.C. 301 et seq.), nor the authority of the Administrator of the Environmental Protection Agency under the Federal Insecticide, Fungicide <sup>1</sup> and Rodenticide Act (7 U.S.C. 136 et seq.).
+Nothing in this chapter shall alter the authority of the Secretary under the Federal Meat Inspection Act (21 U.S.C. 601 et seq.), the Poultry Products Inspection Act (21 U.S.C. 451 et seq.), and the Egg Products Inspection Act (21 U.S.C. 1031 et seq.) concerning meat, poultry and egg products, nor any of the authorities of the Secretary of Health and Human Services under the Federal Food, Drug <sup>1</sup> and Cosmetic Act (21 U.S.C. 301 et seq.), nor the authority of the Administrator of the Environmental Protection Agencyunder the Federal Insecticide, Fungicide <sup>1</sup> and Rodenticide Act (7 U.S.C. 136 et seq.).
 
 (Pub. L. 101–624, title XXI, §2120, Nov. 28, 1990, 104 Stat. 3949; Pub. L. 102–237, title X, §1001(8), Dec. 13, 1991, 105 Stat. 1893.)
 
@@ -50,7 +50,7 @@ The Federal Meat Inspection Act, referred to in subsec. (f), is titles I to IV o
 
 The Poultry Products Inspection Act, referred to in subsec. (f), is Pub. L. 85–172, Aug. 28, 1957, 71 Stat. 441, which is classified generally to chapter 10 (§451 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 451 of Title 21 and Tables.
 
-The Egg Products Inspection Act, referred to in subsec. (f), is Pub. L. 91–597, Dec. 29, 1970, 84 Stat. 1620, which is classified principally to chapter 15 (§1031 etseq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 1031 of Title 21 and Tables.
+The Egg Products Inspection Act, referred to in subsec. (f), is Pub. L. 91–597, Dec. 29, 1970, 84 Stat. 1620, which is classified principally to chapter 15 (§1031 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 1031 of Title 21 and Tables.
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (f), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 

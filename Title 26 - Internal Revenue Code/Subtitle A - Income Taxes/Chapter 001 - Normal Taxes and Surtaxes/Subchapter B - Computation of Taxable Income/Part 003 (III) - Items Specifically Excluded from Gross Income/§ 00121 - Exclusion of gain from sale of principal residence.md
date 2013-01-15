@@ -68,7 +68,7 @@ Gross income shall not include gain from the sale or exchange of property if, du
 
 &emsp;&emsp;&emsp;The term “period of nonqualified use” does not include—
 
-&emsp;&emsp;&emsp;&emsp;(I) any portion of the 5-year period described in subsection (a) which is after the last date that such property is used as the principal residence of the taxpayer or the taxpayer's spouse,
+&emsp;&emsp;&emsp;&emsp;(I) any portion of the 5-year period described in subsection (a) which is after the last date that such property is usedas the principal residence of the taxpayer or the taxpayer's spouse,
 
 &emsp;&emsp;&emsp;&emsp;(II) any period (not to exceed an aggregate period of 10 years) during which the taxpayer or the taxpayer's spouse is serving on qualified official extended duty (as defined in subsection (d)(9)(C)) described in clause (i), (ii), or (iii) of subsection (d)(9)(A), and
 
@@ -152,7 +152,7 @@ Gross income shall not include gain from the sale or exchange of property if, du
 
 #### (C) Property acquired after involuntary conversion
 
-&emsp;&emsp;If the basis of the property sold or exchanged is determined (in whole or in part) under section 1033(b) (relating to basis of property acquired through involuntary conversion), then the holding and use by the taxpayer of the converted property shall be treated as holding and use by the taxpayer of the property sold or exchanged.
+&emsp;&emsp;If the basis of the property sold or exchanged is determined (in whole or in part) under section 1033(b) (relating to basis of property acquired through involuntary conversion), then the holding and use by thetaxpayer of the converted property shall be treated as holding and use by the taxpayer of the property sold or exchanged.
 
 #### (6) Recognition of gain attributable to depreciation
 
@@ -284,12 +284,6 @@ For purposes of this section, in the case of property the acquisition of which b
 
 (Added Pub. L. 88–272, title II, §206(a), Feb. 26, 1964, 78 Stat. 38; amended Pub. L. 94–455, title XIV, §1404(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1733, 1834; Pub. L. 95–600, title IV, §404(a)–(c)(2), Nov. 6, 1978, 92 Stat. 2869, 2870; Pub. L. 97–34, title I, §123(a), Aug. 13, 1981, 95 Stat. 197; Pub. L. 100–647, title VI, §6011(a), Nov. 10, 1988, 102 Stat. 3691; Pub. L. 105–34, title III, §312(a), Aug. 5, 1997, 111 Stat. 836; Pub. L. 105–206, title VI, §6005(e)(1), (2), July 22, 1998, 112 Stat. 805; Pub. L. 107–16, title V, §542(c), June 7, 2001, 115 Stat. 84; Pub. L. 108–121, title I, §101(a), Nov. 11, 2003, 117 Stat. 1336; Pub. L. 108–357, title VIII, §840(a), Oct. 22, 2004, 118 Stat. 1597; Pub. L. 109–135, title IV, §§402(a)(3), 403(ee), Dec. 21, 2005, 119 Stat. 2610, 2631; Pub. L. 109–432, div. A, title IV, §417(a)–(d), Dec. 20, 2006, 120 Stat. 2965, 2966; Pub. L. 110–142, §7(a), Dec. 20, 2007, 121 Stat. 1806; Pub. L. 110–172, §11(a)(11)(A), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 110–245, title I, §§110(a), 113(a), (b), June 17, 2008, 122 Stat. 1633, 1635; Pub. L. 110–289, div. C, title III, §3092(a), July 30, 2008, 122 Stat. 2911; Pub. L. 111–312, title III, §301(a), Dec. 17, 2010, 124 Stat. 3300.)
 
-#### Amendment of Section
-
-<i>For termination of amendment by section 304 of Pub. L. 111–312, see Effective and Termination Dates of 2010 Amendment note below.</i>
-
-<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
-
 #### References in Text
 
 The date of the enactment of this paragraph, referred to in subsec. (d)(9)(C)(ii), (iii), is the date of enactment of Pub. L. 108–121, which was approved Nov. 11, 2003.
@@ -310,7 +304,7 @@ A prior section 121 was renumbered section 140 of this title.
 
 #### Amendments
 
-<b>2010</b>—Subsec. (d)(11). Pub. L. 111–312, §§301(a), 304, temporarily amended subsec. (d) to read as if amendment by Pub. L. 107–16, §542(c), which originally added par. (9), had never been enacted. See Codification notes above and 2001 Amendment note and Effective and Termination Dates of 2010 Amendment note below. Prior to amendment, par. (11) read as follows: “
+<b>2010</b>—Subsec. (d)(11). Pub. L. 111–312 amended subsec. (d) to read as if amendment by Pub. L. 107–16, §542(c), which originally added par. (9), had never been enacted. See Codification notes above and 2001 Amendment note and Effective Date of 2010 Amendment note below. Prior to amendment, par. (11) read as follows: “
 
 Property acquired from a decedent.—The exclusion under this section shall apply to property sold by—
 
@@ -352,15 +346,15 @@ Subsec. (d)(9)(C)(vi). Pub. L. 109–432, §417(c), added cl. (vi).
 
 <b>2005</b>—Subsec. (d)(10). Pub. L. 109–135, §403(ee)(2), amended heading and text of par. (10) relating to property acquired in like-kind exchange generally. Prior to amendment, text read as follows: “If a taxpayer acquired property in an exchange to which section 1031 applied, subsection (a) shall not apply to the sale or exchange of such property if it occurs during the 5-year period beginning with the date of the acquisition of such property.”
 
-Subsec. (d)(11). Pub. L. 109–135, §403(ee)(1), redesignated par. (10), formerly par. (9), as temporarily added by Pub. L. 107–16, as (11). See Codification notes above and 2001 and 2003 Amendment notes and Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (d)(11). Pub. L. 109–135, §403(ee)(1), redesignated par. (10), formerly par. (9), as added by Pub. L. 107–16, as (11). See Codification notes above and 2001 and 2003 Amendment notes and Effective Date of 2001 Amendment note below.
 
 Subsec. (g). Pub. L. 109–135, §402(a)(3), substituted “section 1223(6)” for “section 1223(7)”.
 
 <b>2004</b>—Subsec. (d)(10). Pub. L. 108–357 added par. (10) relating to property acquired in like-kind exchange.
 
-<b>2003</b>—Subsec. (d)(9), (10). Pub. L. 108–121 added par. (9) and redesignated former par. (9), as temporarily added by Pub. L. 107–16, as (10). See Codification notes above and 2001 Amendment note and Effective and Termination Dates of 2001 Amendment note below.
+<b>2003</b>—Subsec. (d)(9), (10). Pub. L. 108–121 added par. (9) and redesignated former par. (9), as added by Pub. L. 107–16, as (10). See Codification notes above and 2001 Amendment note and Effective Date of 2001 Amendment note below.
 
-<b>2001</b>—Subsec. (d)(9). Pub. L. 107–16, §§542(c), 901, temporarily added par. (9). See Codification notes above and Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Subsec. (d)(9). Pub. L. 107–16, §542(c), added par. (9). See Codification notes above and Effective Date of 2001 Amendment note below.
 
 <b>1998</b>—Subsec. (b)(2). Pub. L. 105–206, §6005(e)(1), substituted “Special rules for joint returns” for “$500,000 limitation for certain joint returns” in heading and amended text generally. Prior to amendment, text read as follows: “Paragraph (1) shall be applied by substituting ‘$500,000’ for ‘$250,000’ if—
 
@@ -410,7 +404,9 @@ Subsecs. (c), (d)(5). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his d
 
 Pub. L. 111–312, title III, §301(e), Dec. 17, 2010, 124 Stat. 3301, provided that: “Except as otherwise provided in this section, the amendments made by this section \[amending this section and sections 170, 684, 1014, 1040, 1221, 1246, 1291, 1296, 2505, 4947, 6018, 6019, 6075, and 7701 of this title and repealing sections 1022, 2210, 2664, and 6716 of this title\] shall apply to estates of decedents dying, and transfers made, after December 31, 2009.”
 
-Pub. L. 111–312, title III, §304, Dec. 17, 2010, 124 Stat. 3304, provided that: “Section 901 of the Economic Growth and Tax Relief Reconciliation Act of 2001 \[Pub. L. 107–16, set out as a note under section 1 of this title\] shall apply to the amendments made by this title \[amending this section and sections 170, 684, 1014, 1040, 1221, 1246, 1291, 1296, 2001, 2010, 2502, 2505, 2511, 2631, 4947, 6018, 6019, 6075, and 7701 of this title and repealing sections 1022, 2210, 2664, and 6716 of this title\].”
+Pub. L. 111–312, title III, §304, Dec. 17, 2010, 124 Stat. 3304, which provided that section 901 of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, would apply to the amendments made by title III of Pub. L. 111–312, was repealed by Pub. L. 112–240, title I, §101(a)(2), Jan. 2, 2013, 126 Stat. 2315.
+
+\[Amendment by Pub. L. 112–240 (repealing section 304 of Pub. L. 111–312, formerly set out above) applicable to taxable, plan, or limitation years beginning after Dec. 31, 2012, and estates of decedents dying, gifts made, orgeneration skipping transfers after Dec. 31, 2012, see section 101(a)(3) of Pub. L. 112–240, set out as a note following former section 901 of Pub. L. 107–16 which was set out as an Effective and Termination Dates of 2001 Amendment note under section 1 of this title.\]
 
 #### Effective Date of 2008 Amendment
 
@@ -426,7 +422,7 @@ Pub. L. 110–142, §7(b), Dec. 20, 2007, 121 Stat. 1806, provided that: “The 
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–432, div. A, title IV, §417(e), Dec. 20, 2006, 120 Stat. 2966, as amended by Pub. L. 110–172,§11(a)(11)(B), Dec. 29, 2007, 121 Stat. 2485, provided that: “The amendments made by this section \[amending this section\] shall apply to sales or exchanges after the date of the enactment of this Act \[Dec. 20, 2006\].”
+Pub. L. 109–432, div. A, title IV, §417(e), Dec. 20, 2006, 120 Stat. 2966, as amended by Pub. L. 110–172, §11(a)(11)(B), Dec. 29, 2007, 121 Stat. 2485, provided that: “The amendments made by this section \[amending this section\] shall apply to sales or exchanges after the date of the enactment of this Act \[Dec. 20, 2006\].”
 
 #### Effective Date of 2005 Amendment
 
@@ -450,7 +446,7 @@ Effective date.—The amendments made by this section \[amending this section\] 
 
 Waiver of limitations.—If refund or credit of any overpayment of tax resulting from the amendments made by this section \[amending this section\] is prevented at any time before the close of the 1-year period beginning on the date of the enactment of this Act \[Nov. 11, 2003\] by the operation of any law or rule of law (including res judicata), such refund or credit may nevertheless be made or allowed if claim therefor is filed before the close of such period.”
 
-#### Effective and Termination Dates of 2001 Amendment
+#### Effective Date of 2001 Amendment
 
 Pub. L. 107–16, title V, §542(f), June 7, 2001, 115 Stat. 86, provided that:
 
@@ -466,15 +462,13 @@ Transfers to nonresidents.—The amendments made by subsection (e)(1) \[amending
 
 Section 4947.—The amendment made by subsection (e)(4) \[amending section 4947 of this title\] shall apply to deductions for taxable years beginning after December 31, 2009.”
 
-Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
-
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 
-Section 312(d) of Pub. L. 105–34, as amended by Pub. L. 105–206, title VI, §6005(e)(3), July 22, 1998, 112 Stat. 806, provided that:
+Pub. L. 105–34, title III, §312(d), Aug. 5, 1997, 111 Stat. 841, as amended by Pub. L. 105–206, title VI, §6005(e)(3), July 22, 1998, 112 Stat. 806, provided that:
 
 “(1)
 
@@ -500,31 +494,31 @@ Binding contracts.—At the election of the taxpayer, the amendments made by thi
 
 #### Effective Date of 1988 Amendment
 
-Section 6011(b) of Pub. L. 100–647 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to any sale or exchange after September 30, 1988, in taxable years ending after such date.”
+Pub. L. 100–647, title VI, §6011(b), Nov. 10, 1988, 102 Stat. 3691, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to any sale or exchange after September 30, 1988, in taxable years ending after such date.”
 
 #### Effective Date of 1981 Amendment
 
-Section 123(b) of Pub. L. 97–34 provided that: “The amendment made by this section \[amending this section\] shall apply to residences sold or exchanged after July 20, 1981.”
+Pub. L. 97–34, title I, §123(b), Aug. 13, 1981, 95 Stat. 197, provided that: “The amendment made by this section \[amending this section\] shall apply to residences sold or exchanged after July 20, 1981.”
 
 #### Effective Date of 1978 Amendment
 
-Section 404(d)(1) of Pub. L. 95–600 provided that: “The amendments made by this section \[amending this section and sections 1033, 1034, 1038, 1250, and 6012 of this title\] shall apply to sales or exchanges after July 26, 1978, in taxable years ending after such date.”
+Pub. L. 95–600, title IV, §404(d)(1), Nov. 6, 1978, 92 Stat. 2870, provided that: “The amendments made by thissection \[amending this section and sections 1033, 1034, 1038, 1250, and 6012 of this title\] shall apply to sales or exchanges after July 26, 1978, in taxable years ending after such date.”
 
 #### Effective Date of 1976 Amendment
 
-Section 1404(b) of Pub. L. 94–455 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1976.”
+Pub. L. 94–455, title XIV, §1404(b), Oct. 4, 1976, 90 Stat. 1733, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1976.”
 
 #### Effective Date
 
-Section 206(c) of Pub. L. 88–272 provided that: “The amendments made by this section \[enacting this section, redesignating former section 121 as 122, and amending sections 1033, 1034, and 6012 of this title\] shall apply to dispositions after Dec. 31, 1963, in taxable years ending after such date.”
+Pub. L. 88–272, title II, §206(c), Feb. 26, 1964, 78 Stat. 40, provided that: “The amendments made by this section \[enacting this section, redesignating former section 121 as 122, and amending sections 1033, 1034, and 6012 of this title\] shall apply to dispositions after Dec. 31, 1963, in taxable years ending after such date.”
 
 #### Sense of Congress Concerning Tax Treatment of Principal Residence of Members of Armed Forces While Away From Home on Active Duty
 
-Pub. L. 105–261, div. A, title X, §1074, Oct. 17, 1998, 112 Stat. 2138, provided that: “It is the sense of Congressthat a member of the Armed Forces should be treated for purposes of section 121 of the Internal Revenue Code of 1986 as using property as a principal residence during any continuous period that the member is serving on active duty for 180 days or more with the Armed Forces, but only if the member used the property as a principal residence for any period during or immediately before that period of active duty.”
+Pub. L. 105–261, div. A, title X, §1074, Oct. 17, 1998, 112 Stat. 2138, provided that: “It is the sense of Congress that a member of the Armed Forces should be treated for purposes of section 121 of the Internal Revenue Code of 1986 as using property as a principal residence during any continuous period that the member is serving on active duty for 180 days or more with the Armed Forces, but only if the member used the property as a principal residence for any period during or immediately before that period of active duty.”
 
 #### Transitional Rule in Case of Sale or Exchange of Residence Before July 26, 1981
 
-Section 404(d)(2) of Pub. L. 95–600, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “In the case of a sale or exchange of a residence before July 26, 1981, a taxpayer who has attained age 65 on the date of such sale or exchange may elect to have section 121 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] applied by substituting ‘8-year period’ for ‘5-year period’ and ‘5 years’ for ‘3 years’ in subsections (a), (d)(2), and (d)(5) of such section.”
+Pub. L. 95–600, title IV, §404(d)(2), Nov. 6, 1978, 92 Stat. 2870, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “In the case of a sale or exchange of a residence before July 26, 1981, a taxpayer who has attained age 65 on the date of such sale or exchange may elect to have section 121 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] applied by substituting ‘8-year period’ for ‘5-year period’ and ‘5 years’ for ‘3 years’ in subsections (a), (d)(2), and (d)(5) of such section.”
 
 <i><sup>1</sup></i><i> So in original. Two pars. (4) have been enacted.</i>
 

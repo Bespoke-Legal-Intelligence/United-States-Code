@@ -228,7 +228,7 @@ In carrying out subsection (e)(2) of this section, the Director shall carry out 
 
 &emsp;The functions referred to in paragraph (1) for the Committee are as follows:
 
-&emsp;&emsp;(A) To carry out such activities as may be necessary to incorporate the Foundation under the laws of the State involved, including serving as incorporators for the Foundation. Such activities shall include ensuring that the articles of incorporation for the Foundation require that the Foundation be established and operated in accordance with the applicable provisions of this part (or any successor to this part), including such provisions as may be in effect pursuant to amendments enacted after October 27, 1992.
+&emsp;&emsp;(A) To carry out such activities as may be necessary to incorporate the Foundation under the laws of the State involved, including serving as incorporators for the Foundation. Such activities shall include ensuringthat the articles of incorporation for the Foundation require that the Foundation be established and operated in accordance with the applicable provisions of this part (or any successor to this part), including such provisions as may be in effect pursuant to amendments enacted after October 27, 1992.
 
 &emsp;&emsp;(B) To ensure that the Foundation qualifies for and maintains the status described in subsection (e)(3) of this section (regarding taxation).
 
@@ -292,7 +292,7 @@ In carrying out subsection (e)(2) of this section, the Director shall carry out 
 
 The Ethics in Government Act, referred to in subsec. (h)(4)(A), probably means the Ethics in Government Act of 1978, Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5, Government Organization and Employees, and Tables.
 
-The Technology Transfer Act, referred to in subsec. (h)(4)(A), may mean the Federal Technology Transfer Act of 1986, Pub. L. 99–502, Oct. 20, 1986, 100 Stat. 1785, as amended, or the National Competitiveness Technology Transfer Act of 1989, part C (§§3131–3133) of title XXXI of div. C of Pub. L. 101–189, Nov. 29, 1989, 103 Stat. 1674. For complete classification of these Acts to the Code, see Short Title of 1986 Amendment note and Short Title of 1989 Amendment note both set out under section 3701 of Title 15, Commerce and Trade, and Tables.
+The Technology Transfer Act, referred to in subsec. (h)(4)(A), may mean the Federal Technology TransferAct of 1986, Pub. L. 99–502, Oct. 20, 1986, 100 Stat. 1785, as amended, or the National Competitiveness Technology Transfer Act of 1989, part C (§§3131–3133) of title XXXI of div. C of Pub. L. 101–189, Nov. 29, 1989, 103 Stat. 1674. For complete classification of these Acts to the Code, see Short Title of 1986 Amendment note and Short Title of 1989 Amendment note both set out under section 3701 of Title 15, Commerce and Trade, and Tables.
 
 #### Codification
 

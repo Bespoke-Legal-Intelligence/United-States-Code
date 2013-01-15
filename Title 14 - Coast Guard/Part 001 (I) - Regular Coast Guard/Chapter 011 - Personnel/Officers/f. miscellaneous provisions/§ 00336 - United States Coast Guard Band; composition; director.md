@@ -32,5 +32,5 @@ Subsec. (e). Pub. L. 109–241, §204(a)(4), substituted “When an individual's
 
 #### Current Director
 
-Pub. L. 109–241, title II, §204(b), July 11, 2006, 120 Stat. 520, provided that: “The individual serving as Coast Guard band director on the date of enactment of this Act \[July 11, 2006\] may be immediately promoted to a commissioned grade, not to exceed captain, determined by the Secretary of the department in which the CoastGuard is operating to be most appropriate to the qualifications and experience of that individual.”
+Pub. L. 109–241, title II, §204(b), July 11, 2006, 120 Stat. 520, provided that: “The individual serving as Coast Guard band director on the date of enactment of this Act \[July 11, 2006\] may be immediately promoted to a commissioned grade, not to exceed captain, determined by the Secretary of the department in which the Coast Guard is operating to be most appropriate to the qualifications and experience of that individual.”
 

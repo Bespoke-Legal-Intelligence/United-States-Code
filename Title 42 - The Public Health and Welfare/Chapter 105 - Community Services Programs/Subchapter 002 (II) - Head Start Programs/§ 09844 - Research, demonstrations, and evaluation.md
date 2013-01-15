@@ -12,7 +12,7 @@
 
 #### (2) Plan
 
-&emsp;The Secretary shall develop, and periodically update, a plan governing the research,demonstration, and evaluation activities under this section.
+&emsp;The Secretary shall develop, and periodically update, a plan governing the research, demonstration, and evaluation activities under this section.
 
 #### (b) Conduct of research, demonstration, and evaluation activities
 
@@ -44,7 +44,7 @@ In carrying out activities under this section, the Secretary shall—
 
 &emsp;(2) whenever feasible and appropriate, obtain the views of persons participating in and served by programs and projects assisted under this subchapter with respect to activities under this section; and
 
-&emsp;(3) establish, to the extent appropriate, working relationships with the faculties of institutions of higher education, as defined in section 1001 of title 20, located in the area in which any evaluation under this section is being conducted, unless there is no such institution of higher education willing and able to participate in such evaluation.
+&emsp;(3) establish, to the extent appropriate, working relationships with the faculties of institutions of higher education, as defined insection 1001 of title 20, located in the area in which any evaluation under this section is being conducted, unless there is no such institution of higher education willing and able to participate in such evaluation.
 
 #### (d) Specific objectives
 
@@ -80,7 +80,7 @@ In developing priorities for research, demonstration, and evaluation activities 
 
 &emsp;(1) examine the developmental progress of children and their families both during and following participation in a Head Start program, including the examination of factors that contribute to or detract from such progress;
 
-&emsp;(2) examine factors related to improving the quality of the Head Start programs and the preparation the programs provide for childrenand their families to function effectively in schools and other settings in the years following participation in such a program; and
+&emsp;(2) examine factors related to improving the quality of the Head Start programs and the preparation the programs provide for children and their families to function effectively in schools and other settings in the years following participation in such a program; and
 
 &emsp;(3) as appropriate, permit comparison of children and families participating in Head Start programs with children and families receiving other early childhood education and development services or programs, and with other appropriate control groups.
 
@@ -218,7 +218,7 @@ The Secretary shall take necessary steps to ensure that all studies, reports, pr
 
 #### (i) Research and evaluation activities relevant to diverse communities
 
-For purposes of conducting the study described in subsection (h), activities described in section 9835(<i>l</i>)(5)(A) of this title, and other research and evaluation activities relevant to limited English proficient children and their families, migrant and seasonal farmworker families,and other families from diverse populations served by Head Start programs, the Secretary shall award, on a competitive basis, funds from amounts made available under section 9835(a)(2)(D) of this title to 1 or more organizations with a demonstrated capacity for serving and studying the populations involved.
+For purposes of conducting the study described in subsection (h), activities described in section 9835(l)(5)(A) of this title, and other research and evaluation activities relevant to limited English proficient children and their families, migrant and seasonal farmworker families, and other families from diverse populations served by Head Start programs, the Secretary shall award, on a competitive basis, funds from amounts made available under section 9835(a)(2)(D) of this title to 1 or more organizations with a demonstrated capacity for serving and studying the populations involved.
 
 #### (j) Review of assessments
 
@@ -288,13 +288,13 @@ The Secretary shall—
 
 &emsp;(3) not later than 9 months after the effective date of this subsection, publish in the Federal Register a notice of how the Secretary plans to carry out paragraph (1) and shall provide a period for public comment. To the extent practicable, the Secretary shall consider comments received before submitting a report to the Congress;
 
-&emsp;(4) not later than 1 year after the effective date of this subsection, submit a report to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate, detailing how the Department ofHealth and Human Services plans to carry out paragraph (1);
+&emsp;(4) not later than 1 year after the effective date of this subsection, submit a report to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate, detailing how the Department of Health and Human Services plans to carry out paragraph (1);
 
 &emsp;(5) through regulation, ensure the confidentiality of any personally identifiable data, information, and records collected or maintained by the Secretary, by Head Start agencies that carry out Indian Head Start programs, and by State Directors of Head Start Collaboration, by the Indian Head Start Collaboration Project Director and by other appropriate entities pursuant to this subsection (such regulations shall provide the policies, protections, and rights equivalent to those provided a parent, student, or educational agency or institution under section 1232g of title 20); and
 
 &emsp;(6) ensure that nothing in this subsection shall be construed to authorize the development of a nationwide database of personally identifiable information on individuals involved in studies or other collections of data under this subsection.
 
-#### (<i>l</i>) Migrant and seasonal Head Start program study
+#### (l) Migrant and seasonal Head Start program study
 
 #### (1) Data
 
@@ -306,7 +306,7 @@ The Secretary shall—
 
 #### (2) Publication of plan
 
-&emsp;Not later than 1 year after December 12, 2007, the Secretary shall publish in the Federal Register a notice about how the Secretary plans to implement the activities identified in paragraph (1) and shall provide a period for public comment. To the extent practicable, the Secretary shall consider comments received before implementing any of the activities identified in paragraph (1).
+&emsp;Not later than 1 year after December 12, 2007, the Secretary shall publish in the Federal Register a notice about how the Secretaryplans to implement the activities identified in paragraph (1) and shall provide a period for public comment. To the extent practicable, the Secretary shall consider comments received before implementing any of the activities identified in paragraph (1).
 
 #### (3) Report
 
@@ -336,7 +336,7 @@ The Secretary shall—
 
 &emsp;&emsp;(A) recommendations for improvements to Federal, State, and local preparedness and response capabilities to large-scale emergencies, including those that were developed in response to hurricanes Katrina, Rita, and Wilma, as they relate to Head Start programs, including Early Head Start programs, and the Secretary's plan to implement such recommendations;
 
-&emsp;&emsp;(B) an evaluation of the procedures for informing families of children in Head Startprograms about the program protocols for response to a large-scale emergency, including procedures for communicating with such families in the event of a large-scale emergency;
+&emsp;&emsp;(B) an evaluation of the procedures for informing families of children in Head Start programs about the program protocols for response to a large-scale emergency, including procedures for communicating with such families in the event of a large-scale emergency;
 
 &emsp;&emsp;(C) an evaluation of such procedures for staff training on State and local evacuation and emergency protocols; and
 
@@ -424,7 +424,7 @@ Amendment by Pub. L. 101–501 effective Oct. 1, 1990, see section 1001(a) of Pu
 
 #### Study of Full-Day and Full-Year Head Start Programs
 
-Section 126 of Pub. L. 103–252 directed Secretary of Health and Human Services to conduct a study of extent to which Head Start programs address the need for Head Start services during a full working day or full calendar year among eligible low-income families with preschool children and to submit a report to Congress not later than Jan. 31, 1997.
+Pub. L. 103–252, title I, §126, May 18, 1994, 108 Stat. 650, directed Secretary of Health and Human Services to conduct a study of extent to which Head Start programs address the need for Head Start services during a full working day or full calendar year among eligible low-income families with preschool children and to submit a report to Congress not later than Jan. 31, 1997.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “services or”.</i>
 

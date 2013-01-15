@@ -132,13 +132,41 @@ Pub. L. 86–142, §1(2), Aug. 7, 1959, 73 Stat. 289, added item 1038.
 
 <b>1958</b>—Pub. L. 85–861, §1(24)(B), Sept. 2, 1958, 72 Stat. 1445, added item 1037.
 
+#### Protection of Rights of Conscience of Members of the Armed Forces and Chaplains of Such Members
+
+Pub. L. 112–239, div. A, title V, §533, Jan. 2, 2013, 126 Stat. 1727, provided that:
+
+“(a)
+
+Protection of Rights of Conscience.—
+
+&emsp;“(1)
+
+Accommodation.—The Armed Forces shall accommodate the beliefs of a member of the armed forces reflecting the conscience, moral principles, or religious beliefs of the member and, in so far as practicable, may not use such beliefs as the basis of any adverse personnel action, discrimination, or denial of promotion, schooling, training, or assignment.
+
+&emsp;“(2)
+
+Disciplinary or administrative action.—Nothing in paragraph (1) precludes disciplinary or administrative action for conduct that is proscribed by chapter 47 of title 10, United States Code (the Uniform Code of Military Justice), including actions and speech that threaten good order and discipline.
+
+“(b)
+
+Protection of Chaplain Decisions Relating to Conscience, Moral Principles, or Religious Beliefs.—No member of the Armed Forces may—
+
+&emsp;“(1) require a chaplain to perform any rite, ritual, or ceremony that is contrary to the conscience, moral principles, or religious beliefs of the chaplain; or
+
+&emsp;“(2) discriminate or take any adverse personnel action against a chaplain, including denial of promotion, schooling, training, or assignment, on the basis of the refusal by the chaplain to comply with a requirement prohibited by paragraph (1).
+
+“(c)
+
+Regulations.—The Secretary of Defense shall issue regulations implementing the protections afforded by this section.”
+
 #### Freedom of Conscience of Military Chaplains With Respect to the Performance of Marriages
 
 Pub. L. 112–81, div. A, title V, §544, Dec. 31, 2011, 125 Stat. 1412, provided that: “A military chaplain who, as a matter of conscience or moral principle, does not wish to perform a marriage may not be required to do so.”
 
 #### Prohibition on Infringing on the Individual Right to Lawfully Acquire, Possess, Own, Carry, and Otherwise Use Privately Owned Firearms, Ammunition, and Other Weapons
 
-Pub. L. 111–383, div. A, title X, §1062, Jan. 7, 2011, 124 Stat. 4363, provided that:
+Pub. L. 111–383, div. A, title X, §1062, Jan. 7, 2011, 124 Stat. 4363, as amended by Pub. L. 112–239, div. A, title X, §1057, Jan. 2, 2013, 126 Stat. 1938, provided that:
 
 “(a)
 
@@ -168,9 +196,11 @@ Rule of Construction.—Subsection (a) shall not be construed to limit the autho
 
 &emsp;&emsp;“(A) engaged in official duties on behalf of the Department of Defense; or
 
-&emsp;&emsp;“(B) wearing the uniform of an Armed Force; or
+&emsp;&emsp;“(B) wearing the uniform of an Armed Force;
 
-&emsp;“(2) create or maintain records relating to an investigation, prosecution, or adjudication of an alleged violation of law (including regulations not prohibited under subsection (a)), including matters related to whether a member of the Armed Forces constitutes a threat to the member or others.
+&emsp;“(2) create or maintain records relating to an investigation, prosecution, or adjudication of an alleged violation of law (including regulations not prohibited under subsection (a)), including matters related to whether a member of the Armed Forces constitutes a threat to the member or others; or
+
+&emsp;“(3) authorize a health professional that is a member of the Armed Forces or a civilian employee of the Department of Defense or a commanding officer to inquire if a member of the Armed Forces plans to acquire, or already possesses or owns, a privately-owned firearm, ammunition, or other weapon, if such health professional or such commanding officer has reasonable grounds to believe such member is at risk for suicide or causing harm to others.
 
 “(d)
 
@@ -182,7 +212,7 @@ Review.—Not later than 180 days after the date of enactment of this Act, the S
 
 “(e)
 
-Military Installation Defined.—In this section, the term ‘military installation’ has the meaning given that term under section 2687(e)(1) of title 10, United States Code.”
+Military Installation Defined.—In this section, the term ‘military installation’ has the meaning given that term under section 2687(e)(1) \[now 2687(g)(1)\] of title 10, United States Code.”
 
 #### Department of Defense Telecommunications Benefit
 
@@ -192,7 +222,7 @@ Pub. L. 108–136, div. A, title III, §344, Nov. 24, 2003, 117 Stat. 1448, as a
 
 Provision of Benefit.—(1) The Secretary of Defense shall provide, wherever practicable, prepaid phone cards, packet based telephony service, or an equivalent telecommunications benefit which includes access to telephone service, to members of the Armed Forces stationed outside the United States who (as determined by the Secretary) are eligible for combat zone tax exclusion benefits due to their service in direct support of a contingency operation to enable those members to make telephone calls without cost to the member.
 
-“(2) As soon as possible after the date of the enactment of the John Warner National Defense Authorization Act for Fiscal Year 2007 \[Oct. 17, 2006\], the Secretary shall provide, wherever practicable, prepaid phone cards, packet based telephony service, or an equivalent telecommunications benefit which includes access to telephone service to members of the Armed Forces who, although are no longer directly supporting a contingency operation, are hospitalized as a result ofwounds or other injuries incurred while serving in direct support of a contingency operation.
+“(2) As soon as possible after the date of the enactment of the John Warner National Defense Authorization Act for Fiscal Year 2007 \[Oct. 17, 2006\], the Secretary shall provide, wherever practicable, prepaid phone cards, packet based telephony service, or an equivalent telecommunications benefit which includes access to telephone service to members of the Armed Forces who, although are no longer directly supporting a contingency operation, are hospitalized as a result of wounds or other injuries incurred while serving in direct support of a contingency operation.
 
 “(b)
 
@@ -204,7 +234,7 @@ Monthly Benefit.—The value of the benefit provided under subsection (a) to any
 
 “(c)
 
-Termination of Benefit.—The authority to provide a benefit under subsection (a)(1) to a member directly supporting a contingency operation shall terminate on the date that is 60 days after the date on which the Secretary determines that the contingency operation has ended.
+Termination of Benefit.—The authority to provide a benefit under subsection (a)(1) to a member directly supporting a contingency operation shall terminate on the date that is 60 days after the date on whichthe Secretary determines that the contingency operation has ended.
 
 “(d)
 

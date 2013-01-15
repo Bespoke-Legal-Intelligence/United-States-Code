@@ -28,7 +28,7 @@ Driveaway saddlemount vehicle transporter combination.—The term “driveaway s
 
 General Limitations.—(1) Except as provided in this section, a State may not prescribe or enforce a regulation of commerce that—
 
-&emsp;(A) imposes a vehicle length limitation of less than 45 feet on a bus, of less than 48 feet on a semitrailer operating in a truck tractor-semitrailer combination, or of less than 28 feet on a semitrailer or trailer operating in a truck tractor-semitrailer-trailer combination, on any segment of the Dwight D. Eisenhower System of Interstate and Defense Highways (except a segment exempted under subsection (f) of this section) and those classes of qualifying Federal-aid Primary System highways designated by the Secretary of Transportation under subsection (e) of this section;
+&emsp;(A) imposes a vehicle length limitation of less than 45 feet on a bus, of less than 48 feet on a semitrailer operating in a truck tractor-semitrailer combination, or of less than 28 feet on a semitrailer or trailer operating in a truck tractor-semitrailer-trailer combination, onany segment of the Dwight D. Eisenhower System of Interstate and Defense Highways (except a segment exempted under subsection (f) of this section) and those classes of qualifying Federal-aid Primary System highways designated by the Secretary of Transportation under subsection (e) of this section;
 
 &emsp;(B) imposes an overall length limitation on a commercial motor vehicle operating in a truck tractor-semitrailer or truck tractor-semitrailer-trailer combination;
 
@@ -48,7 +48,7 @@ Maxi-Cube and Vehicle Combination Limitations.—A State may not prohibit a maxi
 
 (d)
 
-Exclusion of Safety and Energy Conservation Devices.—Length calculated underthis section does not include a safety or energy conservation device the Secretary decides is necessary for safe and efficient operation of a commercial motor vehicle. However, such a device may not have by its design or use the ability to carry cargo.
+Exclusion of Safety and Energy Conservation Devices.—Length calculated under this section does not include a safety or energy conservation device the Secretary decides is necessary for safe and efficient operation of a commercial motor vehicle. However, such a device may not have by its design or use the ability to carry cargo.
 
 (e)
 
@@ -72,7 +72,7 @@ Exemptions.—(1) If the chief executive officer of a State, after consulting un
 
 Accommodating Specialized Equipment.—In prescribing regulations to carry out this section, the Secretary may make decisions necessary to accommodate specialized equipment, including automobile and vessel transporters and maxi-cube vehicles.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 993; Pub. L. 104–88, title I, §104(b), Dec. 29, 1995, 109 Stat. 919; Pub. L. 105–178, title IV, §4005, June 9, 1998, 112 Stat. 400; Pub. L. 109–59, title IV, §4141, Aug. 10, 2005, 119 Stat. 1746; Pub. L. 110–244, title III, §301(r), June 6, 2008, 122 Stat. 1617.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 993; Pub. L. 104–88, title I, §104(b), Dec. 29, 1995, 109 Stat. 919; Pub. L. 105–178, title IV, §4005, June 9, 1998, 112 Stat. 400; Pub. L. 109–59, title IV, §4141,Aug. 10, 2005, 119 Stat. 1746; Pub. L. 110–244, title III, §301(r), June 6, 2008, 122 Stat. 1617.)
 
 Historical and Revision Notes
 

@@ -6,5 +6,5 @@ The Secretary of State, acting through the United States Commissioner, Internati
 
 #### Short Title
 
-Section 1 of act Sept. 13, 1950, provided that: “This Act \[enacting this section and sections 277d–2 to 277d–9 of this title\] may be cited as the ‘American-Mexican Treaty Act of 1950’.”
+Act Sept. 13, 1950, ch. 948, §1, 64 Stat. 846, provided that: “This Act \[enacting this section and sections 277d–2 to 277d–9 of this title\] may be cited as the ‘American-Mexican Treaty Act of 1950’.”
 

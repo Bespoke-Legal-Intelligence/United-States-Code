@@ -10,7 +10,7 @@ Reorganization Plan No. 4 of 1970, referred to in text, is set out under section
 
 #### Service by Incumbent Administrator and Deputy Administrator of the National Oceanic and Atmospheric Administration
 
-Section 407(c) of Pub. L. 99–659 provided that: “The individual serving on the date of enactment of this Act \[Nov. 14, 1986\]—
+Pub. L. 99–659, title IV, §407(c), Nov. 14, 1986, 100 Stat. 3739, provided that: “The individual serving on the date of enactment of this Act \[Nov. 14, 1986\]—
 
 &emsp;“(A) as the Administrator of the National Oceanic and Atmospheric Administration shall also serve as the Under Secretary of Commerce for Oceans and Atmosphere until such time as a successor is appointed under subsection (a) of this section \[enacting this section\]; and
 

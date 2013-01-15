@@ -6,7 +6,7 @@ No part of the appropriations made under the heading “Contingent Expenses of t
 
 #### Amendments
 
-<b>1980</b>—Pub. L. 96–304 substituted “prescribed by the Committee on Rules and Administration” for “in effect under section 5702 of title 5, for employees of agencies” in two places.
+<b>1980</b>—Pub. L. 96–304 substituted “prescribed by the Committee on Rules and Administration” for “in effectunder section 5702 of title 5, for employees of agencies” in two places.
 
 <b>1978</b>—Pub. L. 95–355 substituted provisions relating to applicability of rates under section 5702 of title 5, for employees of agencies, for provisions setting forth specific rates of $35 and $50 per day, respectively, for travel expenses.
 

@@ -46,7 +46,7 @@ Grants under this section shall be made pursuant to a grant agreement requiring 
 
 The Democracy Corps shall be required to—
 
-&emsp;(1) coordinate its activities pursuant to this section with the programs and activities ofother entities operating in or providing assistance to the independent states of the former Soviet Union in support of the development of democratic institutions, a market-oriented economy, and a civil society; and
+&emsp;(1) coordinate its activities pursuant to this section with the programs and activities of other entities operating in or providing assistance to the independent states of the former Soviet Union in support of the development of democratic institutions, a market-oriented economy, and a civil society; and
 
 &emsp;(2) ensure that its activities pursuant to this section are designed to avoid duplication with activities carried out under other United States Government foreign assistance and international information, educational, cultural, and exchange programs.
 
@@ -80,7 +80,7 @@ Of the amount authorized to be appropriated to carry out chapter 11 of part I of
 
 Grants may not be made to the Democracy Corps under this section after the end of fiscal year 1997.
 
-#### (<i>l</i>) Definitions
+#### (l) Definitions
 
 As used in this section—
 

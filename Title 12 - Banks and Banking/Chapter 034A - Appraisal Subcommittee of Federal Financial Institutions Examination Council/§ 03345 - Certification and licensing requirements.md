@@ -10,33 +10,23 @@ No individual shall be a State certified real estate appraiser under this sectio
 
 #### (c) “State licensed appraiser” defined
 
-As used in this section, the term “State licensed appraiser” means an individual who has satisfied the requirements for State licensing in a State or territory.
+As used in this section, the term “State licensed appraiser” means an individual who has satisfied the requirements for State licensing in a State or territory whose criteria for the licensing of a real estate appraiser currently meet or exceed the minimum criteria issued by the Appraisal Qualifications Board of The Appraisal Foundation for the licensing of real estate appraisers.
 
 #### (d) Additional qualification criteria
 
 Nothing in this chapter shall be construed to prevent any Federal agency or instrumentality under this chapter from establishing such additional qualification criteria as may be necessary or appropriate to carry out the statutory responsibilities of such department, agency, or instrumentality.
 
-#### (e) Authority of Appraisal Subcommittee
+#### (e) Minimum qualification requirements
 
-The Appraisal Subcommittee shall not set qualifications or experience requirements for the States in licensing real estate appraisers, including a de minimus <sup>1</sup> standard. Recommendations of the Subcommittee shall be nonbinding on the States.
+Any requirements established for individuals in the position of “Trainee Appraiser” and “Supervisory Appraiser” shall meet or exceed the minimum qualification requirements of the Appraiser Qualifications Board of The Appraisal Foundation. The Appraisal Subcommittee shall have the authority to enforce these requirements.
 
 (Pub. L. 101–73, title XI, §1116, Aug. 9, 1989, 103 Stat. 515; Pub. L. 102–233, title VII, §701(a), Dec. 12, 1991, 105 Stat. 1792; Pub. L. 102–242, title IV, §472(a), Dec. 19, 1991, 105 Stat. 2386; Pub. L. 102–550, title XVI, §1617(a), Oct. 28, 1992, 106 Stat. 4096; Pub. L. 111–203, title XIV, §1473(j), July 21, 2010, 124 Stat. 2195.)
 
-#### Amendment of Section
-
-<i>Pub. L. 111–203, title XIV, §§1400(c), 1473(j), July 21, 2010, 124 Stat. 2136, 2195, provided that this section is amended, effective on the date on which final regulations implementing such amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date:</i>
-
-<i>(1) in subsection (c), by inserting “whose criteria for the licensing of a real estate appraiser currently meet or exceed the minimum criteria issued by the Appraisal Qualifications Board of The Appraisal Foundation for the licensing of real estate appraisers” before the period at the end; and</i>
-
-<i>(2) by striking out subsection (e) and adding the following:</i>
-
-#### <i>“(e) Minimum qualification requirements</i>
-
-<i>“Any requirements established for individuals in the position of ‘Trainee Appraiser’ and ‘Supervisory Appraiser’ shall meet or exceed the minimum qualification requirements of the Appraiser Qualifications Board of The Appraisal Foundation. The Appraisal Subcommittee shall have the authority to enforce these requirements.”</i>
-
-<i>See Effective Date of 2010 Amendment note below.</i>
-
 #### Amendments
+
+<b>2010</b>—Subsec. (c). Pub. L. 111–203, §1473(j)(1), inserted “whose criteria for the licensing of a real estate appraiser currently meet or exceed the minimum criteria issued by the Appraisal Qualifications Board of The Appraisal Foundation for the licensing of real estate appraisers” before the period at end.
+
+Subsec. (e). Pub. L. 111–203, §1473(j)(2), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “The Appraisal Subcommittee shall not set qualifications or experience requirements for the States in licensing real estate appraisers, including a de minimus standard. Recommendations of the Subcommittee shall be nonbinding on the States.”
 
 <b>1992</b>—Subsec. (e). Pub. L. 102–550, §1617(a), repealed Pub. L. 102–233, §701(a). See 1991 Amendment note below.
 
@@ -50,7 +40,5 @@ Amendment by Pub. L. 111–203 effective on the date on which final regulations 
 
 #### Construction of 1991 Amendment
 
-Section 1617(b) of Pub. L. 102–550 provided that: “No amendments made by title VII of the Resolution Trust Corporation Refinancing, Restructuring, and Improvement Act of 1991 \[amending this section and section 3348 of this title\] shall be deemed to have taken effect before the date of the enactment of this Act \[Oct. 28, 1992\] and the provisions of law amended by title VII shall continue in effect as if no such amendments had been made by such title.”
-
-<i><sup>1</sup></i><i> So in original. Probably should be “de minimis”.</i>
+Pub. L. 102–550, title XVI, §1617(b), Oct. 28, 1992, 106 Stat. 4096, provided that: “No amendments made by title VII of the Resolution Trust Corporation Refinancing, Restructuring, and Improvement Act of 1991 \[amending this section and section 3348 of this title\] shall be deemed to have taken effect before the date of the enactment of this Act \[Oct. 28, 1992\] and the provisions of law amended by title VII shall continue in effect as if no such amendments had been made by such title.”
 

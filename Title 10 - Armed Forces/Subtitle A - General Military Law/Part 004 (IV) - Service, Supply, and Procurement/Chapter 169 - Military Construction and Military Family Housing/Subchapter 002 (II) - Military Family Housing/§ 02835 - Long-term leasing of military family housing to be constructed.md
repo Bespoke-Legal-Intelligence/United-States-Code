@@ -2,7 +2,7 @@
 
 (a)
 
-Build and Lease Authorized.—Subject to subsection (b), the Secretary of a military department, or the Secretary of Homeland Security with respect to the Coast Guard, may enter into a contract for the lease of family housing units to be constructed or rehabilitated to residential use near a military installation within the United States under the Secretary's jurisdiction at which there is a shortage of family housing. Housing units leased under this section shall be assigned, without rental charge, as family housing to members of the armed forces who are eligible for assignment to military family housing.
+Build and Lease Authorized.—Subject to subsection (b), the Secretary of a military department, or the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, may enter into a contract for the lease of family housing units to be constructed or rehabilitated to residential use near a military installation within the United States under the Secretary's jurisdiction at which there is a shortage of family housing. Housing units leased under this section shall be assigned, without rental charge, as family housing to members of the armed forces who are eligible for assignment to military family housing.
 
 (b)
 
@@ -42,7 +42,7 @@ Right of First Refusal to Acquire.—A contract under this section shall provide
 
 Notice and Wait Requirements.—A contract may not be entered into for the lease of housing facilities under this section until—
 
-&emsp;(1) the Secretary of Defense, or the Secretary of Homeland Security with respect to the Coast Guard, submits to the appropriate committees of Congress, in writing, an economic analysis (based upon accepted life cycle costing procedures) which demonstrates that the proposed contract is cost-effective when compared with alternative means of furnishing the same housing facilities; and
+&emsp;(1) the Secretary of Defense, or the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, submits to the appropriate committees of Congress, in writing, an economic analysis (based upon accepted life cycle costing procedures) which demonstrates that the proposed contract is cost-effective when compared with alternative means of furnishing the same housing facilities; and
 
 &emsp;(2) a period of 21 days has expired following the date on which the economic analysis is received by those committees or, if earlier, a period of 14 days has elapsed from the date on which a copy of the analysis is provided in an electronic medium pursuant to section 480 of this title.
 
@@ -50,7 +50,7 @@ Notice and Wait Requirements.—A contract may not be entered into for the lease
 
 Support Buildings.—A contract for the lease of family housing under this section may include provision for the lease of a child care center, civic center building, and similar type buildings constructed for the support of family housing.
 
-(Added Pub. L. 102–190, div. B, title XXVIII, §2806(a)(1), Dec. 5, 1991, 105 Stat. 1539; amended Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 111–383, div. B, title XXVIII, §2803(e), Jan. 7, 2011, 124 Stat. 4459.)
+(Added Pub. L. 102–190, div. B, title XXVIII, §2806(a)(1), Dec. 5, 1991, 105 Stat. 1539; amended Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 111–383, div. B, title XXVIII, §2803(e), Jan. 7, 2011, 124 Stat. 4459; Pub. L. 112–239, div. A, title X, §1076(f)(35), Jan. 2, 2013, 126 Stat. 1954.)
 
 #### Prior Provisions
 
@@ -58,13 +58,15 @@ Provisions similar to those in this section were contained in subsec. (g) of sec
 
 #### Amendments
 
+<b>2013</b>—Subsec. (a), (g)(1). Pub. L. 112–239 inserted “when it is not operating as a service in the Navy” after “Coast Guard”.
+
 <b>2011</b>—Subsec. (g)(2). Pub. L. 111–383 struck out “calendar” after “21” and inserted before period at end “or, if earlier, a period of 14 days has elapsed from the date on which a copy of the analysis is provided in an electronic medium pursuant to section 480 of this title”.
 
 <b>2002</b>—Subsecs. (a) to (c), (d)(4)(B), (g)(1). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation” wherever appearing.
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department ofHomeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
 #### Effective Date
 

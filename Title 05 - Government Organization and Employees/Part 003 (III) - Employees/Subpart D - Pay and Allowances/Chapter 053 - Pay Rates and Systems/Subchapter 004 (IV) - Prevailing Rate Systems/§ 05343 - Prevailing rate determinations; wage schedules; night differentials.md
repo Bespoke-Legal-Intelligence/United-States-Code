@@ -46,7 +46,7 @@
 
 &emsp;(6) for a continuing program of maintenance and improvement designed to keep the prevailing rate system fully abreast of changing conditions, practices, and techniques both in and out of the Government of the United States.
 
-(d)(1) A lead agency, in making a wage survey, shall determine whether there exists in the local wage area a number of comparable positions in private industry sufficient to establish wage schedules and rates for the principal types of positions for which the survey is made. The determination shall be in writing and shall take intoconsideration all relevant evidence, including evidence submitted by employee organizations recognized as representative of prevailing rate employees in that area.
+(d)(1) A lead agency, in making a wage survey, shall determine whether there exists in the local wage area a number of comparable positions in private industry sufficient to establish wage schedules and rates for the principal types of positions for which the survey is made. The determination shall be in writing and shall take into consideration all relevant evidence, including evidence submitted by employee organizations recognized as representative of prevailing rate employees in that area.
 
 (2) When the lead agency determines that there is a number of comparable positions in private industry insufficient to establish the wage schedules and rates, such agency shall establish the wage schedules and rates on the basis of—
 
@@ -118,7 +118,7 @@ Provisions similar to those comprising part of first sentence of subsec. (c) and
 
 <b>1979</b>—Subsec. (a)(5). Pub. L. 96–70 substituted “areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements (as described in section 3(a) of the Panama Canal Act of 1979)” for “Canal Zone”.
 
-<b>1978</b>—Subsecs. (a) to (c), (e)(3). Pub. L. 95–454 substituted “Office of Personnel Management” for “CivilService Commission” and “Office” for “Commission” wherever appearing.
+<b>1978</b>—Subsecs. (a) to (c), (e)(3). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission” wherever appearing.
 
 #### Effective Date of 2003 Amendment
 
@@ -274,7 +274,7 @@ Pub. L. 97–257, title I, §100, Sept. 10, 1982, 96 Stat. 832, provided in part
 
 #### Negotiating Requirements for Labor Contracts, Etc., On and After October 13, 1978, and Negotiated Under Prevailing Rates and Practices Prior to August 19, 1972
 
-Section 704 of Pub. L. 95–454 provided that:
+Pub. L. 95–454, title VII, §704, Oct. 13, 1978, 92 Stat. 1218, provided that:
 
 “(a) Those terms and conditions of employment and other employment benefits with respect to Government prevailing rate employees to whom section 9(b) of Public Law 92–392 \[set out as a note under this section\] applies which were the subject of negotiation in accordance with prevailing rates and practices prior to August 19, 1972, shall be negotiated on and after the date of the enactment of this Act \[Oct. 13, 1978\] in accordance with the provisions of section 9(b) of Public Law 92–392 without regard to any provision of chapter 71 of title 5, United States Code (as amended by this title \[title VII of Pub. L. 95–454\]), to the extent that any such provision is inconsistent with this paragraph.
 
@@ -288,15 +288,15 @@ Section 704 of Pub. L. 95–454 provided that:
 
 #### Conversion Rules for Wage Schedule; Service for One Step Increase; Prohibition of Decrease in Basic Pay Rate; Retained Pay Continued
 
-Section 9(a) of Pub. L. 92–392 provided that:
+Pub. L. 92–392, §9(a), Aug. 19, 1972, 86 Stat. 573, provided that:
 
 “(1) Except as provided by this subsection, an employee's initial rate of pay on conversion to a wage schedule established pursuant to the amendments made by this Act \[see Effective Date note under section 5341 of this title\] shall be determined under conversion rules prescribed by the Civil Service Commission. Service by an employee in a grade of a wage schedule performed before the effective date of the conversion of the employee to a wage schedule established pursuant to the amendments made by this Act shall be counted toward not to exceed one step increase under the time in step provisions of section 5343(e)(2) of title 5, United States Code, as amended by the first section of this Act \[subsec. (e)(2) of this section\].
 
-“(2) In the case of any employee described in section 2105(c), 5102(c)(7), (8), or (14) of title 5, United StatesCode, who is in the service as such an employee immediately before the effective date, with respect to him, of the amendments made by this Act \[see Effective Date note under section 5341 of this title\], such amendments shall not be construed to decrease his rate of basic pay in effect immediately before the date \[see Effective Date note under section 5341 of this title\] on which such amendments become effective with respect to him. In addition, if an employee is receiving retained pay by virtue of law or agency policy immediately before the date on which the first wage schedule applicable to him under this Act is effective, he shall continue to retain that pay in accordance with the specific instructions under which the retained pay was granted until he leaves his position or until he becomes entitled to a higher rate.”
+“(2) In the case of any employee described in section 2105(c), 5102(c)(7), (8), or (14) of title 5, United States Code, who is in the service as such an employee immediately before the effective date, with respect to him, of the amendments made by this Act \[see Effective Date note under section 5341 of this title\], such amendments shall not be construed to decrease his rate of basic pay in effect immediately before the date \[see Effective Date note under section 5341 of this title\] on which such amendments become effective with respect to him. In addition, if an employee is receiving retained pay by virtue of law or agency policy immediately before the date on which the first wage schedule applicable to him under this Act is effective, he shall continue to retain that pay in accordance with the specific instructions under which the retained pay was granted until he leaves his position or until he becomes entitled to a higher rate.”
 
 #### Labor Contracts Pertaining to Wages, Terms and Conditions of Employment, and Other Employment Benefits
 
-Section 9(b) of Pub. L. 92–392 provided that: “The amendments made by this Act \[enacting this subchapter and section 5550 of this title, amending sections 2105(c)(1), 5337, 5541(2)(xi), 5544(a), 5548, 6101(a)(1), 7154(b), and 8704(d)(2) of this title, repealing section 6102 of this title, and enacting provisions set out as notes under sections 5341 and 5343 of this title and section 60a of Title 2, The Congress\] shall not be construed to—
+Pub. L. 92–392, §9(b), Aug. 19, 1972, 86 Stat. 574, provided that: “The amendments made by this Act \[enacting this subchapter and section 5550 of this title, amending sections 2105(c)(1), 5337, 5541(2)(xi), 5544(a), 5548, 6101(a)(1), 7154(b), and 8704(d)(2) of this title, repealing section 6102 of this title, and enacting provisions set out as notes under sections 5341 and 5343 of this title and section 60a of Title 2, The Congress\] shall not be construed to—
 
 &emsp;“(1) abrogate, modify, or otherwise affect in any way the provisions of any contract in effect on the date of enactment of this Act \[Aug. 19, 1972\] pertaining to the wages, the terms and conditions of employment, and other employment benefits, or any of the foregoing matters, for Government prevailing rate employees and resulting from negotiations between Government agencies and organizations of Government employees;
 
@@ -306,7 +306,7 @@ Section 9(b) of Pub. L. 92–392 provided that: “The amendments made by this A
 
 #### Wage Survey
 
-Section 15(b) of Pub. L. 92–392 provided that: “A wage survey conducted by an agency before the effective date (with respect to employees covered by that wage survey) of this Act \[see note under section 5341 of this title\], for a wage schedule which becomes effective after that effective date \[Aug. 19, 1972\], is deemed to meet the requirement in this Act for a survey by a lead agency.”
+Pub. L. 92–392, §15(b), Aug. 19, 1972, 86 Stat. 575, provided that: “A wage survey conducted by an agency before the effective date (with respect to employees covered by that wage survey) of this Act \[see note under section 5341 of this title\], for a wage schedule which becomes effective after that effective date \[Aug. 19, 1972\], is deemed to meet the requirement in this Act for a survey by a lead agency.”
 
 #### Equitable Wage Adjustments for Certain Prevailing Rate Employees
 

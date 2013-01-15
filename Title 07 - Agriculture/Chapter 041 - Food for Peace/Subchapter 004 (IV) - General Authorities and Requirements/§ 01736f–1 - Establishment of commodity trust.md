@@ -106,7 +106,7 @@ To provide for a trust solely to meet emergency humanitarian food needs in devel
 
 #### (D) Waiver relating to minimum tonnage requirements
 
-&emsp;&emsp;Nothing in this paragraph requires a waiver by the Administrator of the Agency forInternational Development under section 204(a)(3) of the Food for Peace Act (7 U.S.C. 1724(a)(3)) as a condition for a release of funds or commodities under subparagraph (B).
+&emsp;&emsp;Nothing in this paragraph requires a waiver by the Administrator of the Agency for International Development under section 204(a)(3) of the Food for Peace Act (7 U.S.C. 1724(a)(3)) as a condition for a release of funds or commodities under subparagraph (B).
 
 #### (2) Processing of eligible commodities
 
@@ -192,15 +192,17 @@ Any determination by the Secretary under this section shall be final.
 
 &emsp;Eligible commodities remaining in the trust after September 30, 2012, shall be disposed of by release for use in providing for emergency humanitarian food needs in developing countries as provided in this section.
 
-(Pub. L. 96–494, title III, §302, as added Pub. L. 104–127, title II, §225(a), Apr. 4, 1996, 110 Stat. 959; amended Pub. L. 105–385, title II, §212(a), (b)(3), Nov. 13, 1998, 112 Stat. 3465, 3467; Pub. L. 107–171, title III, §3202, May 13, 2002, 116 Stat. 300; Pub. L.110–246, title III, §§3001(b)(1)(A), (2)(E), 3201, June 18, 2008, 122 Stat. 1820, 1834.)
+(Pub. L. 96–494, title III, §302, as added Pub. L. 104–127, title II, §225(a), Apr. 4, 1996, 110 Stat. 959; amended Pub. L. 105–385, title II, §212(a), (b)(3), Nov. 13, 1998, 112 Stat. 3465, 3467; Pub. L. 107–171, title III, §3202, May 13, 2002, 116 Stat. 300; Pub. L. 110–246, title III, §§3001(b)(1)(A), (2)(E), 3201, June 18, 2008, 122 Stat. 1820, 1834.)
 
 #### References in Text
 
 The Food Security Wheat Reserve Act of 1980, referred to in subsec. (b)(1)(A), (B), is title III of the Agricultural Act of 1980, Pub. L. 96–494, Dec. 3, 1980, 94 Stat. 2578, which enacted former section 1736f–1 of this title and provisions set out as notes under that section, prior to the general amendment of title III by Pub. L. 104–127, title II, §225(a), Apr. 4, 1996, 110 Stat. 959.
 
-The Food for Peace Act, referred to in subsecs. (b)(2)(B)(i), (c)(1)(B), (C), (e)(1), and (f)(2)(A), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified generally to this chapter (§1691 et seq.). Title II of the Act is classified to subchapter III (§1721 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of this title and Tables.
+The Food for Peace Act, referred to in subsecs. (b)(2)(B)(i), (c)(1)(B), (C), (e)(1), and (f)(2)(A), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified generally to this chapter (§1691 et seq.). Title II of the Act is classified to subchapter III (§1721 et seq.) of this chapter. For complete classification of this Act to theCode, see Short Title note set out under section 1691 of this title and Tables.
 
 #### Codification
+
+The authorities provided by each provision of, and each amendment made by, Pub. L. 110–246, as in effect on Sept. 30, 2012, to continue, and the Secretary of Agriculture to carry out the authorities, until the later of Sept. 30, 2013, or the date specified in the provision of, or amendment made by, Pub. L. 110–246, see section 701(a) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under section 8701 of this title.
 
 Section was enacted as part of the Bill Emerson Humanitarian Trust Act which is title III of the Agricultural Act of 1980, and not as part of the Food for Peace Act which comprises this chapter.
 
@@ -274,11 +276,11 @@ Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. 
 
 #### Effective Date
 
-Section 303 of title III of Pub. L. 96–494 provided that former section 1736f–1 of this title and provisions set out as a note under that section became effective on Dec. 3, 1980, prior to the general amendment of title III of Pub. L. 96–494 by Pub. L. 104–127, §225(a).
+Pub. L. 96–494, title III, §303, Dec. 3, 1980, 94 Stat. 2580, provided that title III of Pub. L. 96–494 (enacting former section 1736f–1 of this title and provisions formerly set out as a note under that section) became effective on Dec. 3, 1980, prior to the general amendment of title III of Pub. L. 96–494 by Pub. L. 104–127, §225(a).
 
 #### Short Title
 
-Section 301 of title III of Pub. L. 96–494, as added by Pub. L. 104–127, title II, §225(a), Apr. 4, 1996, 110 Stat. 959, and amended by Pub. L. 105–385, title II, §212(b)(2), Nov. 13, 1998, 112 Stat. 3466, provided that: “This title \[enacting this section\] may be cited as the ‘Bill Emerson Humanitarian Trust Act’.”
+Pub. L. 96–494, title III, §301, as added by Pub. L. 104–127, title II, §225(a), Apr. 4, 1996, 110 Stat. 959, and amended by Pub. L. 105–385, title II, §212(b)(2), Nov. 13, 1998, 112 Stat. 3466, provided that: “This title \[enacting this section\] may be cited as the ‘Bill Emerson Humanitarian Trust Act’.”
 
 A prior section 301 of title III of Pub. L. 96–494 provided that title III (enacting former section 1736f–1 of this title and provisions set out as a note under that section) could be cited as the “Food Security Wheat Reserve Act of 1980”, prior to the general amendment of title III of Pub. L. 96–494 by Pub. L. 104–127, §225(a).
 

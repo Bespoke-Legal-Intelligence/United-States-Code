@@ -6,7 +6,7 @@ Concurrent with privatization, the Corporation shall transfer to the private cor
 
 #### (b) Renewal
 
-The private corporation shall have the exclusive option to lease the gaseous diffusion plants and related property for additional periods following the expiration of the initial term of the lease.
+The private corporation shall have the exclusive option to lease the gaseous diffusion plantsand related property for additional periods following the expiration of the initial term of the lease.
 
 #### (c) Exclusion of facilities for production of highly enriched uranium
 
@@ -42,7 +42,7 @@ The execution or transfer of the lease between the Secretary and the Corporation
 
 &emsp;&emsp;(ii) the private entity leasing the gaseous diffusion plant shall pay the percentage of the costs equal to the percentage of the total number of employees at the gaseous diffusion plant who are employees of the private entity (including employees of a contractor or subcontractor) other than those employees who perform work for the Department.
 
-&emsp;(B) Neither the private entity leasing the gaseous diffusion plant nor the Department shall reduce its payments under any contractor lease or take other action to offset its share of the costs referred to in subparagraph (A), and the Department shall not reimburse the private entity for the entity's share of these costs.
+&emsp;(B) Neither the private entity leasing the gaseous diffusion plant nor the Department shall reduce its payments under any contract or lease or take other action to offset its share of the costs referred to in subparagraph (A), and the Department shall not reimburse the private entity for the entity's share of these costs.
 
 &emsp;(C) Nothing in this subsection shall alter the Department's responsibilities to pay the safety, safeguards and security costs associated with the Department's highly enriched uranium activities.
 

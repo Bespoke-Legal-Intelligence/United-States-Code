@@ -46,7 +46,7 @@ Not later than December 31, 1988, the Director shall—
 
 #### (g) Funds limitation; reduction of allotments
 
-The Director is authorized to use such sums as are required, but not to exceed 1 per centum ofthe funds appropriated under this chapter, to conduct program and project evaluations (directly, or by grants or contracts) as required by this chapter. In the case of allotments from such an appropriation, the amount available for such allotments (and the amount deemed appropriate therefor) shall be reduced accordingly.
+The Director is authorized to use such sums as are required, but not to exceed 1 per centum of the funds appropriated under this chapter, to conduct program and project evaluations (directly, or by grants or contracts) as required by this chapter. In the case of allotments from such an appropriation, the amount available for such allotments (and the amount deemed appropriate therefor) shall be reduced accordingly.
 
 (Pub. L. 93–113, title IV, §416, Oct. 1, 1973, 87 Stat. 412; Pub. L. 98–288, §23, May 21, 1984, 98 Stat. 195; Pub. L. 99–551, §8, Oct. 27, 1986, 100 Stat. 3075; Pub. L. 101–204, title IV, §402, Dec. 7, 1989, 103 Stat. 1815; Pub. L. 103–82, title IV, §405(a)(9), Sept. 21, 1993, 107 Stat. 920; Pub. L. 111–13, title II, §2153, Apr. 21, 2009, 123 Stat. 1591.)
 

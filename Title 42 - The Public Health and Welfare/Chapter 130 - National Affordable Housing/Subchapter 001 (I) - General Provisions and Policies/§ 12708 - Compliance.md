@@ -22,7 +22,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall ensure that activities of each jurisdiction required to submit a housingstrategy under section 12705 of this title are reviewed not less frequently than annually. Such review shall include, insofar as practicable, on-site visits by employees of the Department of Housing and Urban Development and shall include an assessment of the jurisdiction's—
+&emsp;The Secretary shall ensure that activities of each jurisdiction required to submit a housing strategy under section 12705 of this title are reviewed not less frequently than annually. Such review shall include, insofar as practicable, on-site visits by employees of the Department of Housing and Urban Development and shall include an assessment of the jurisdiction's—
 
 &emsp;&emsp;(A) management of funds made available under programs administered by the Secretary;
 
@@ -44,7 +44,7 @@ The adequacy of information submitted under section 12705(b)(4) of this title sh
 
 #### References in Text
 
-Section 12705(b)(15) of this title, referred to in subsec. (a)(1), was redesignated section 12705(b)(16) of this title by Pub. L. 102–550, title II, §220(c)(1), Oct. 28, 1992, 106 Stat. 3762, and was subsequently redesignated section 12705(b)(18) of this title by Pub. L. 105–276, title V, §583(4)(A), Oct. 21, 1998, 112 Stat. 2644.
+Section 12705(b)(15) of this title, referred to in subsec. (a)(1), was redesignated section 12705(b)(16) of this titleby Pub. L. 102–550, title II, §220(c)(1), Oct. 28, 1992, 106 Stat. 3762, and was subsequently redesignated section 12705(b)(18) of this title by Pub. L. 105–276, title V, §583(4)(A), Oct. 21, 1998, 112 Stat. 2644.
 
 This Act, referred to in subsecs. (a)(2) and (c), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079, known as the Cranston-Gonzalez National Affordable Housing Act. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
 

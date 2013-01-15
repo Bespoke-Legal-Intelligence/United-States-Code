@@ -2,7 +2,7 @@
 
 (a) Under regulations prescribed by the President pursuant to the provisions of this section, the Secretary may pay the actual necessary expense of travel (including lodging and subsistence), or in lieu thereof an allowance based upon mileage (at a rate of 41.5 cents per mile), of any person to or from a Department facility or other place in connection with vocational rehabilitation, counseling required by the Secretary pursuant to chapter 34 or 35 of this title, or for the purpose of examination, treatment, or care. Actual necessary expense of travel includes the reasonable costs of airfare if travel by air is the only practical way to reach a Department facility. In addition to the mileage allowance authorized by this section, there may be allowed reimbursement for the actual cost of ferry fares, and bridge, road, and tunnel tolls.
 
-(b)(1) Except as provided in subsection (c) of this section and notwithstanding subsection (g)(2)(A) <sup>1</sup> of this section or any other provision of law, if, with respect to any fiscal year, the Secretary exercises the authority under this section to make any payments, the Secretary shall make the payments provided for in this section to or for the following persons for travel during such fiscal year for examination, treatment, or care for which the person is eligible:
+(b)(1) Except as provided in subsection (c) of this section and notwithstanding subsection (g)(2)(A) <sup>1</sup> of this section or any other provision of law, if, with respect to any fiscal year, the Secretary exercises the authority under this section to make any payments, the Secretary shall make the payments provided for in thissection to or for the following persons for travel during such fiscal year for examination, treatment, or care for which the person is eligible:
 
 &emsp;(A) A veteran or other person whose travel is in connection with treatment or care for a service-connected disability.
 
@@ -22,7 +22,7 @@
 
 (B) In the case of travel by a person to or from a Department facility by special mode of travel, the Secretary may provide payment under this section to the provider of the transportation by special mode before determining the eligibility of such person for such payment if the Secretary determines that providing such payment is in the best interest of furnishing care and services. Such a payment shall be made subject to subsequently recovering from such person the amount of the payment if such person is determined to have been ineligible for payment for such travel.
 
-(C) In the case of transportation of a person under subparagraph (B) by ambulance, the Secretary may pay the provider of the transportation the lesser of the actual charge for thetransportation or the amount determined by the fee schedule established under section 1834(<i>l</i>) of the Social Security Act (42 U.S.C. 1395(<i>l</i>)) <sup>2</sup> unless the Secretary has entered into a contract for that transportation with the provider.
+(C) In the case of transportation of a person to or from a Department facility by ambulance, the Secretary may pay the provider of the transportation the lesser of the actual charge for the transportation or the amount determined by the fee schedule established under section 1834(l) of the Social Security Act (42 U.S.C. 1395(l)) <sup>2</sup> unless the Secretary has entered into a contract for that transportation with the provider.
 
 (4) In determining for purposes of subsection (a) whether travel by air is the only practical way for a veteran to reach a Department facility, the Secretary shall consider the medical condition of the veteran and any other impediments to the use of ground transportation by the veteran.
 
@@ -66,9 +66,7 @@
 
 (2) If an adjustment in the mileage rate under paragraph (1) results in a lower mileage rate than the mileage rate otherwise specified in subsection (a), the Secretary shall, not later than 60 days before the date of the implementation of the mileage rate as so adjusted, submit to Congress a written report setting forth the adjustment in the mileage rate under this subsection, together with a justification for the decision to make the adjustment in the mileage rate under this subsection.
 
-(h) The Secretary, in consultation and coordination with the Secretary of Transportation and appropriate representatives of veterans’ service organizations, shall take all appropriate steps to facilitate the establishment and maintenance of a program under which such organizations, or individuals who are volunteering their services to the Department, would take responsibility for the transportation, without reimbursement from the Department, to Department facilities of veterans (primarily those residing in areas which are geographically accessible to such facilities) who seek services or benefits from theDepartment under chapter 17 or other provisions of this title.
-
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1113; Pub. L. 86–590, July 5, 1960, 74 Stat. 329; Pub. L. 89–358, §4(g), Mar. 3, 1966, 80 Stat. 24; Pub. L. 89–455, June 18, 1966, 80 Stat. 208; Pub. L. 94–581, title I, §101, Oct. 21, 1976, 90 Stat. 2842; Pub. L. 96–151, title II, §201(a), Dec. 20, 1979, 93 Stat. 1093; Pub. L. 97–295, §4(5), Oct. 12, 1982, 96 Stat. 1305; Pub. L. 100–322, title I, §108(a), (b)(1), (c)–(e)(1), May 20, 1988, 102 Stat. 496–498; Pub. L. 102–83, §§4(a)(3), (4), (6), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–446, title XII, §1201(e)(1), Nov. 2, 1994, 108 Stat. 4685; Pub. L. 110–387, title IV, §401(a)(1), (b), Oct. 10, 2008, 122 Stat. 4122; Pub. L. 111–163, title I, §104, title III, §305(a)–(d), May 5, 2010, 124 Stat. 1140, 1151, 1152; Pub. L. 112–56, title II, §263, Nov. 21, 2011, 125 Stat. 732.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1113; Pub. L. 86–590, July 5, 1960, 74 Stat. 329; Pub. L. 89–358, §4(g), Mar. 3, 1966, 80 Stat. 24; Pub. L. 89–455, June 18, 1966, 80 Stat. 208; Pub. L. 94–581, title I, §101, Oct. 21, 1976, 90 Stat. 2842; Pub. L. 96–151, title II, §201(a), Dec. 20, 1979, 93 Stat. 1093; Pub. L. 97–295, §4(5), Oct. 12, 1982, 96 Stat. 1305; Pub. L. 100–322, title I, §108(a), (b)(1), (c)–(e)(1), May 20, 1988, 102 Stat. 496–498; Pub. L. 102–83, §§4(a)(3), (4), (6), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–446, title XII, §1201(e)(1), Nov. 2, 1994, 108 Stat. 4685; Pub. L. 110–387, title IV, §401(a)(1), (b), Oct. 10, 2008, 122 Stat. 4122; Pub. L. 111–163, title I, §104, title III, §305(a)–(d), May 5, 2010, 124 Stat. 1140, 1151, 1152; Pub. L. 112–56, title II, §263, Nov. 21, 2011, 125 Stat. 732; Pub. L. 112–154, title VII, §704, Aug. 6, 2012, 126 Stat. 1206; Pub. L. 112–260, title II, §202(b)(1)–(3), Jan. 10, 2013, 126 Stat. 2424.)
 
 #### References in Text
 
@@ -77,6 +75,10 @@ Subsection (g)(2) of this section, referred to in subsec. (b)(1), was amended ge
 The date of the enactment of the Caregivers and Veterans Omnibus Health Services Act of 2010, referred to in subsec. (g)(1), is the date of enactment of Pub. L. 111–163, which was approved May 5, 2010.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (h). Pub. L. 112–260 transferred subsec. (h), relating to transportation of veterans to Department facilities by third parties, to section 111A(b) of this title.
+
+<b>2012</b>—Subsec. (b)(3)(C). Pub. L. 112–154 substituted “to or from a Department facility” for “under subparagraph (B)”.
 
 <b>2011</b>—Subsec. (b)(3)(C). Pub. L. 112–56 added subpar. (C).
 
@@ -144,7 +146,7 @@ Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans�
 
 Subsecs. (b), (c). Pub. L. 100–322, §108(a)(2), added subsecs. (b) and (c). Former subsecs. (b) and (c) redesignated (d) and (e), respectively.
 
-Subsec. (d). Pub. L. 100–322, §108(a)(1), (d), redesignated subsec. (b) as (d), and in par. (1) substituted “Themileage” for “the mileage” and “of this section.” for “hereof;”, in par. (2) substituted “Actual” for “actual” and a period for a semicolon, and in par. (3) substituted “The expense” for “the expense”. Former subsec. (d) redesignated (f).
+Subsec. (d). Pub. L. 100–322, §108(a)(1), (d), redesignated subsec. (b) as (d), and in par. (1) substituted “The mileage” for “the mileage” and “of this section.” for “hereof;”, in par. (2) substituted “Actual” for “actual” and a period for a semicolon, and in par. (3) substituted “The expense” for “the expense”. Former subsec. (d) redesignated (f).
 
 Subsecs. (e), (f). Pub. L. 100–322, §108(a)(1), redesignated subsecs. (c) and (d) as (e) and (f), respectively. Former subsec. (e) redesignated (g).
 
@@ -172,23 +174,23 @@ Pub. L. 110–387, title IV, §401(d), Oct. 10, 2008, 122 Stat. 4123, provided t
 
 #### Effective Date of 1988 Amendment
 
-Section 108(g) of Pub. L. 100–322 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect with respect to travel performed after June 30, 1988.”
+Pub. L. 100–322, title I, §108(g), May 20, 1988, 102 Stat. 499, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect with respect to travel performed after June 30, 1988.”
 
 #### Effective Date of 1979 Amendment
 
-Section 206 of title II of Pub. L. 96–151 provided that: “Except as otherwise provided in section 205(b), the amendments made by this title \[amending this section and sections 601, 614, and 628 \[now 1701, 1714, and 1728\] of this title\] shall take effect on January 1, 1980.”
+Pub. L. 96–151, title II, §206, Dec. 20, 1979, 93 Stat. 1095, provided that: “Except as otherwise provided in section 205(b), the amendments made by this title \[amending this section and sections 601, 614, and 628 \[now 1701, 1714, and 1728\] of this title\] shall take effect on January 1, 1980.”
 
 #### Effective Date of 1976 Amendment
 
-Section 211 of Pub. L. 94–581 provided that: “Except as otherwise provided in this Act, the amendments made by this Act \[see Tables for classification\] to title 38, United States Code, shall take effect on October 1, 1976, or on the date of enactment \[Oct. 21, 1976\], whichever is later.”
+Pub. L. 94–581, title II, §211, Oct. 21, 1976, 90 Stat. 2866, provided that: “Except as otherwise provided in this Act, the amendments made by this Act \[see Tables for classification\] to title 38, United States Code, shall take effect on October 1, 1976, or on the date of enactment \[Oct. 21, 1976\], whichever is later.”
 
 #### Transition Provision for 1988 Amendment
 
-Section 108(f) of Pub. L. 100–322 provided that: “In determining for the purposes of subsection (b)(1) of section 111 of title 38, United States Code, as amended by subsection (a), whether during fiscal year 1988 the Administrator has exercised the authority under that section to make payments there shall be disregarded any exercise of authority under that section before the date of the enactment of this Act \[May 20, 1988\].”
+Pub. L. 100–322, title I, §108(f), May 20, 1988, 102 Stat. 498, provided that: “In determining for the purposes of subsection (b)(1) of section 111 of title 38, United States Code, as amended by subsection (a), whether during fiscal year 1988 the Administrator has exercised the authority under that section to make payments there shall be disregarded any exercise of authority under that section before the date of the enactment of this Act \[May 20, 1988\].”
 
 #### Construction of 2010 Amendment
 
-Pub. L. 111–163, title III, §305(e), May 5, 2010, 124 Stat. 1152, provided that: “The amendments made by subsections (b) and (d) of this section \[amending this section\] may not be construed as expanding or otherwise modifying eligibility for payments or allowances for beneficiary travel under section 111 of title 38, United States Code, as in effect on the day before the date of the enactment of this Act \[May 5, 2010\].”
+Pub. L. 111–163, title III, §305(e), May 5, 2010, 124 Stat. 1152, provided that: “The amendments made by subsections (b) and (d) of this section \[amending this section\] may not be construed as expanding or otherwise modifying eligibility for payments or allowances for beneficiary travel under section 111 of title 38, UnitedStates Code, as in effect on the day before the date of the enactment of this Act \[May 5, 2010\].”
 
 #### Clarification of Relation to Public Transportation in Veterans Health Administration Handbook
 

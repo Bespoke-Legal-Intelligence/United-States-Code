@@ -180,17 +180,17 @@ Subsec. (e). Pub. L. 94–106, §801(a)(2), added subsec. (e).
 
 #### Effective Date of 1996 Amendment
 
-Section 1501(c) of Pub. L. 104–106 provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
+Pub. L. 104–106, div. A, title XV, §1501(c), Feb. 10, 1996, 110 Stat. 498, provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
 
 #### Effective Date of 1982 Amendments
 
-Section 402(b) of Pub. L. 97–252 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to end strengths for active-duty personnel authorized for fiscal years beginning after September 30, 1981.”
+Pub. L. 97–252, title IV, §402(b), Sept. 8, 1982, 96 Stat. 725, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to end strengths for active-duty personnel authorized for fiscal years beginning after September 30, 1981.”
 
 Amendment by Pub. L. 97–214 applicable with respect to funds appropriated for fiscal years beginning after Sept. 30, 1983, see section 12(b) of Pub. L. 97–214, set out as a note under section 2801 of this title.
 
 #### Effective Date of 1981 Amendment
 
-Section 901(b) of Pub. L. 97–86 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to funds appropriated for fiscal years beginning after September 30, 1982.”
+Pub. L. 97–86, title IX, §901(b), Dec. 1, 1981, 95 Stat. 1113, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to funds appropriated for fiscal years beginning after September 30, 1982.”
 
 #### Effective Date of 1980 Amendments
 
@@ -198,11 +198,11 @@ Amendment by section 102 of Pub. L. 96–513 effective Sept. 15, 1981, but the a
 
 Amendment by section 511(4) of Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513.
 
-Section 1001(a)(2) of Pub. L. 96–342 provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply with respect to funds appropriated for fiscal years beginning after September 30, 1981.”
+Pub. L. 96–342, title X, §1001(a)(2), Sept. 8, 1980, 94 Stat. 1118, provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply with respect to funds appropriated for fiscal years beginning after September 30, 1981.”
 
 #### Applicability of Provisions Relating to Funds Not Heretofore Required To Be Authorized
 
-Section 801(b) of Pub. L. 94–106 provided that: “The amendment provided by paragraph (2) of subsection (a) above \[enacting subsec. (e) of this section\] with respect to funds not heretofore required to be authorized shall only apply to funds authorized for appropriation for fiscal year 1977 and thereafter.”
+Pub. L. 94–106, title VIII, §801(b), Oct. 7, 1975, 89 Stat. 537, provided that: “The amendment provided by paragraph (2) of subsection (a) above \[enacting subsec. (e) of this section\] with respect to funds not heretofore required to be authorized shall only apply to funds authorized for appropriation for fiscal year 1977 and thereafter.”
 
 #### Availability of Appropriations
 
@@ -212,7 +212,7 @@ The following general provisions, which had been repeated as fiscal year provisi
 
 “
 
-Sec. 8005. \[Authorized use of appropriated funds for expenses in connection with administration of occupied areas; payment of rewards for information leading to discovery of missing naval property or recovery thereof; payment of deficiency judgments and interests thereon arising out of condemnation proceedings; leasing of buildings and facilities; payments under contracts for maintenance of tools and facilities for twelve months; maintenance of defense access roads; purchase of milk for enlisted personnel; payments under leases for real or personal property, including maintenance; purchase of right-hand-drive vehicles not to exceed $12,000 per vehicle; payment of unusual cost overrunsincident to ship overhaul, maintenance, and repair; payments from annual appropriations to industrial fund activities and/or under contract for changes in scope of ship overhaul, maintenance, and repair after expiration of such appropriations; and payments for depot maintenance contracts for twelve months; and was repealed and (except for section 8005(e)) restated in sections 2242(2), 2252, 2253(a)(2), 2389(b), 2410a, 2661(b), and 7313 of this title by Pub. L. 100–370, §1(e)(1), (h)(1), (2), (<i>l</i>)(3), (n)(1), (p)(3), July 19, 1988, 102 Stat. 844, 847, 849–851. Section 8005(c) was not restated in view of section 2676(e) \[now 2664(e)\] of this title.\]
+Sec. 8005. \[Authorized use of appropriated funds for expenses in connection with administration of occupied areas; payment of rewards for information leading to discovery of missing naval property or recovery thereof; payment of deficiency judgments and interests thereon arising out of condemnation proceedings; leasing of buildings and facilities; payments under contracts for maintenance of tools and facilities for twelve months; maintenance of defense access roads; purchaseof milk for enlisted personnel; payments under leases for real or personal property, including maintenance; purchase of right-hand-drive vehicles not to exceed $12,000 per vehicle; payment of unusual cost overruns incident to ship overhaul, maintenance, and repair; payments from annual appropriations to industrial fund activities and/or under contract for changes in scope of ship overhaul, maintenance, and repair after expiration of such appropriations; and payments for depot maintenance contracts for twelve months; and was repealed and (except for section 8005(e)) restated in sections 2242(2), 2252, 2253(a)(2), 2389(b), 2410a, 2661(b), and 7313 of this title by Pub. L. 100–370, §1(e)(1), (h)(1), (2), (l)(3), (n)(1), (p)(3), July 19, 1988, 102 Stat. 844, 847, 849–851. Section 8005(c) was not restated in view of section 2676(e) \[now 2664(e)\] of this title.\]
 
 “
 
@@ -228,13 +228,13 @@ The following general provisions, that had been repeated as fiscal year provisio
 
 “Sec. 706. \[Authorized use of appropriated funds for expenses incident to maintenance, pay, and allowances of prisoners of war, other persons in Army, Navy, or Air Force custody whose status was determined by Secretary concerned to be similar to prisoners of war, and persons detained in such custody pursuant to Presidential proclamation, and was repealed by Pub. L. 98–525, title XIV, §§1403(a)(1), 1404, Oct. 19, 1984, 98 Stat. 2621, effective Oct. 1, 1985. See section 956(5) of this title.\]
 
-“Sec. 707. \[Authorized use of appropriated funds for acquisition of certain interests in land, and was repealed and restated in sections 2673 and 2828(h) of this title by Pub. L. 100–370, §1(<i>l</i>)(1), (2), (p)(1), July 19, 1988, 102 Stat. 849, 851.\]
+“Sec. 707. \[Authorized use of appropriated funds for acquisition of certain interests in land, and was repealed and restated in sections 2673 and 2828(h) of this title by Pub. L. 100–370, §1(l)(1), (2), (p)(1), July 19, 1988, 102 Stat. 849, 851.\]
 
 “Sec. 723. \[Authorized use of appropriated funds for purchase of household furnishings, and automobiles from military and civilian personnel on duty outside continental United States, for purpose of resale at cost to incoming personnel, and for providing furnishings, without charge, in other than public quarters occupied by military or civilian personnel of Department of Defense on duty outside continental United States or in Alaska, and was repealed and restated in section 2251 of this title by Pub. L. 100–370, §1(e)(1), (p)(1), July 19, 1988, 102 Stat. 844, 851.\]
 
 “Sec. 728. \[Prohibited use of appropriated funds for payment of costs of advertising by any defense contractor, except advertising for which payment is made from profits, provided exemptions for advertising for personnel recruitment, procurement of scarce required items, and disposal of scrap or surplus materials, and was repealed by Pub. L. 100–370, §1(p)(1), July 19, 1988, 102 Stat. 851. See section 2324(e)(1)(H) of this title.\]
 
-“Sec. 735. \[Authorized use of appropriated funds for operation and maintenance of the active forces for welfare and recreation; hire of passenger motor vehicles; repair of facilities; modification of personal property; design of vessels; industrial mobilization; installation of equipment in public and private plants; military communications facilities on merchant vessels; acquisition of services, special clothing, supplies, and equipment; and expenses for the Reserve Officers’ Training Corps and other units at educational institutions was amended by Pub. L. 98–525, title XIV, §§1403(a)(2), 1404, Oct. 19, 1984, 98 Stat. 2621, eff. Oct. 1, 1985, and was repealed and restated in sections 2241(a) and 2661(a) of this title by Pub. L. 100–370, §1(e)(1), (<i>l</i>)(3), (p)(1), July 19, 1988, 102 Stat. 844, 849, 851.\]
+“Sec. 735. \[Authorized use of appropriated funds for operation and maintenance of the active forces for welfare and recreation; hire of passenger motor vehicles; repair of facilities; modification of personal property; design of vessels; industrial mobilization; installation of equipment in public and private plants; military communications facilities on merchant vessels; acquisition of services, special clothing, supplies, and equipment; and expenses for the Reserve Officers’ Training Corps and other units at educational institutions was amended by Pub. L. 98–525, title XIV, §§1403(a)(2), 1404, Oct. 19, 1984, 98 Stat. 2621, eff. Oct. 1, 1985, and was repealed and restated in sections 2241(a) and 2661(a) of this title by Pub. L. 100–370, §1(e)(1), (l)(3), (p)(1), July 19, 1988, 102 Stat. 844, 849, 851.\]
 
 “Sec. 774. During the current fiscal year and subsequent fiscal years, for the purposes of the appropriation ‘Foreign Currency Fluctuations, Defense’ the foreign currency exchange rates used in preparing budget submissions shall be the foreign currency exchange rates as adjusted or modified, as reflected in applicable Committee reports on this Act.”
 
@@ -376,15 +376,15 @@ Pub. L. 101–510, div. A, title XIV, §1409, Nov. 5, 1990, 104 Stat. 1681.
 
 #### Budget Act Limitation
 
-Section 1304(b) of Pub. L. 99–661 provided that: “New spending authority (as defined in section 401(c)(2) of the Congressional Budget Act of 1974 \[2 U.S.C. 651(c)(2)\]) provided by the amendment made by subsection (a) \[amending this section\] shall be effective for any fiscal year only to the extent or in such amounts as are provided in appropriation Acts.”
+Pub. L. 99–661, div. A, title XIII, §1304(b), Nov. 14, 1986, 100 Stat. 3979, provided that: “New spending authority (as defined in section 401(c)(2) of the Congressional Budget Act of 1974 \[2 U.S.C. 651(c)(2)\]) provided by the amendment made by subsection (a) \[amending this section\] shall be effective for any fiscal year only to the extent or in such amounts as are provided in appropriation Acts.”
 
 #### Limitation on Source of Funds for Nicaraguan Democratic Resistance
 
-Section 1351 of Pub. L. 99–661, as amended by Pub. L. 104–106, div. A, title X, §1063(a), Feb. 10, 1996, 110 Stat. 444, provided that: “Notwithstanding title II of the Military Construction Appropriations Act, 1987 \[Pub. L. 99–500, §101(k) \[title II\], Oct. 18, 1986, 100 Stat. 1783–287, 1783–295, and Pub. L. 99–591, §101(k) \[title II\], Oct. 30, 1986, 100 Stat. 3341–287, 3341–295\], or any other provision of law, funds appropriated or otherwise made available to the Department of Defense for any fiscal year for operation and maintenance may not be used to provide assistance for the democratic resistance forces in Nicaragua. If funds appropriated or otherwise made available to the Department of Defense for any fiscal year are authorized by law to be used for such assistance, funds for such purpose may only be derived from amounts appropriated or otherwise made available to the Department for procurement (other than ammunition).”
+Pub. L. 99–661, div. A, title XIII, §1351, Nov. 14, 1986, 100 Stat. 3995, as amended by Pub. L. 104–106, div. A, title X, §1063(a), Feb. 10, 1996, 110 Stat. 444, provided that: “Notwithstanding title II of the Military Construction Appropriations Act, 1987 \[Pub. L. 99–500, §101(k) \[title II\], Oct. 18, 1986, 100 Stat. 1783–287, 1783–295, and Pub. L. 99–591, §101(k) \[title II\], Oct. 30, 1986, 100 Stat. 3341–287, 3341–295\], or any other provision of law, funds appropriated or otherwise made available to the Department of Defense for any fiscal year for operation and maintenance may not be used to provide assistance for the democratic resistance forces in Nicaragua. If funds appropriated or otherwise made available to the Department of Defense for any fiscal year are authorized by law to be used for such assistance, funds for such purpose may only be derived from amounts appropriated or otherwise made available to the Department for procurement (other than ammunition).”
 
 #### Use of Appropriated Funds To Support Revenue Generating Activities in Large Metropolitan Areas Prohibited
 
-Pub. L. 99–500, §101(c) \[title IX, §9102\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–118, and Pub. L. 99–591, §101(c) \[title IX, §9102\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–118, which provided that after Sept. 30, 1987, no appropriated funds could be used to support revenue generating morale, welfare, and recreation activities in large metropolitan areas, was repealed by Pub. L. 100–202, §101(b) \[title VIII, §8099\], Dec. 22, 1987, 101 Stat. 1329–43, 1329–78.
+Pub. L. 99–500, §101(c) \[title IX, §9102\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–118, and Pub. L. 99–591, §101(c)\[title IX, §9102\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–118, which provided that after Sept. 30, 1987, no appropriated funds could be used to support revenue generating morale, welfare, and recreation activities in large metropolitan areas, was repealed by Pub. L. 100–202, §101(b) \[title VIII, §8099\], Dec. 22, 1987, 101 Stat. 1329–43, 1329–78.
 
 #### Transfer of Operation and Maintenance Appropriations Unobligated Balances to Foreign Currency Fluctuations, Defense, Appropriation
 
@@ -392,7 +392,7 @@ Pub. L. 97–377, title I, §101(c) \[title VII, §791\], Dec. 21, 1982, 96 Stat
 
 #### Waiver of Applicability of OMB Circular A–76 to Contracting Out of Certain Research and Development Activities
 
-Section 802 of Pub. L. 96–107 provided that:
+Pub. L. 96–107, title VIII, §802, Nov. 9, 1979, 93 Stat. 811, provided that:
 
 “(a) Except as provided in subsection (b), neither the implementing instructions for, nor the provisions of, Office of Management and Budget Circular A–76 (issued on August 30, 1967, and reissued on October 18, 1976, June 13, 1977, and March 29, 1979) shall control or be used for policy guidance for the obligation or expenditure of any funds which under section 138(a)(2) \[now 114(a)(2)\] of title 10, United States Code, are required to be specifically authorized by law.
 

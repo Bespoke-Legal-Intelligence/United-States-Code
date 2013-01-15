@@ -24,7 +24,7 @@ Not later than 180 days after July 30, 2002, the Commission shall issue final ru
 
 &emsp;Not later than 6 months after the date of completion of the study required by paragraph (1), the Commission shall submit a report to the President, the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Committee on Financial Services of the House of Representatives, setting forth—
 
-&emsp;&emsp;(A) the amount or an estimate of the amount of off-balance sheet transactions, including assets, liabilities, leases, and losses of, and the use of special purpose entities by, issuers filing periodic reports pursuant to section 78m or 78<i>o</i> of this title;
+&emsp;&emsp;(A) the amount or an estimate of the amount of off-balance sheet transactions, including assets, liabilities, leases, and losses of, and the use of special purpose entities by, issuers filing periodic reports pursuant to section 78m or 78o of this title;
 
 &emsp;&emsp;(B) the extent to which special purpose entities are used to facilitate off-balance sheet transactions;
 

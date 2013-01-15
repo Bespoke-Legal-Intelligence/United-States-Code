@@ -56,7 +56,7 @@ Uniform Categorization of Data.—The Secretary shall coordinate with the Secret
 
 &emsp;(2) the Secretary, the Secretary of Defense, the Attorney General, and the Special Counsel each have electronic access to the case files reviewed under this chapter by the Secretary, the Secretary of Defense, the Attorney General, and the Special Counsel with due regard for the provisions of section 552a of title 5.
 
-(Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3168; amended Pub. L. 108–454, title II, §202, Dec. 10, 2004, 118 Stat. 3606; Pub. L. 110–181, div. A, title V, §595, Jan. 28, 2008, 122 Stat. 139; Pub. L. 110–389, title III, §312(a)–(d), Oct. 10, 2008, 122 Stat. 4164, 4165.)
+(Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3168; amended Pub. L. 108–454, title II, §202, Dec. 10, 2004, 118 Stat. 3606; Pub. L. 110–181, div. A, title V, §595, Jan. 28, 2008, 122 Stat. 139; Pub.L. 110–389, title III, §312(a)–(d), Oct. 10, 2008, 122 Stat. 4164, 4165.)
 
 #### Prior Provisions
 

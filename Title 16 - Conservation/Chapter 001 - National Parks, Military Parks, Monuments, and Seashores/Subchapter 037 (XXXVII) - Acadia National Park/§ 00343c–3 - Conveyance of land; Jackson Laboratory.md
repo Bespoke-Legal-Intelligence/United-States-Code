@@ -28,13 +28,13 @@ Beginning at a stone bound set in the ground in the southeasterly side line of S
 
 &emsp;thence south 20 degrees 31 minutes west across the land of the United States of America, 1,164 feet to a point in said line, said last described line being 100 feet distant from and parallel with the southeasterly line of land of the Jackson Laboratory;
 
-&emsp;thence following the same course; namely, south 20 degrees 31 minutes west across the land belonging to the United States of America, 137.3 feet to a stone bound set in the ground;
+&emsp;thence following the same course; namely, south 20 degrees 31 minutes west across theland belonging to the United States of America, 137.3 feet to a stone bound set in the ground;
 
 &emsp;thence south 61 degrees 56 minutes west across the land belonging to the United States of America, 617.6 feet to an iron pipe driven in the ground, said iron pipe being in a southeasterly line of land formerly belonging to the trustees of Louise D. Morrell and now belonging to the Jackson Laboratory;
 
 &emsp;thence north 24 degrees 30 minutes east and following a southeasterly line of last mentioned land, 277 feet to an iron pipe driven in the ground;
 
-&emsp;thence following an easterly line of land belonging to the Jackson Laboratory along acurve to the left, 111 feet, the radius of said curve being 373 feet;
+&emsp;thence following an easterly line of land belonging to the Jackson Laboratory along a curve to the left, 111 feet, the radius of said curve being 373 feet;
 
 &emsp;thence north 23 degrees 40 minutes west and always following a northeasterly line of land belonging to the Jackson Laboratory, said land belonging formerly to the trustees of Louise D. Morrell, 492 feet to the point of beginning, and containing 4.632 acres.
 

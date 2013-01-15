@@ -184,7 +184,7 @@ Applicability of FACA.—The provisions of the Federal Advisory Committee Act (5
 
 Funding.—Of the amounts authorized to be appropriated pursuant to section 3101 \[110 Stat. 2820\], not more than $1,000,000 shall be available for the activities of the Commission under this section. Funds made available to the Commission under this section shall remain available until expended.”
 
-\[Section 3163(a) of Pub. L. 105–85 provided that the amendment made by that section to section 3162(b)(1) of Pub. L. 104–201, set out above, is effective Jan. 1, 1998.\]
+\[Pub. L. 105–85, div. C, title XXXI, §3163(a), Nov. 18, 1997, 111 Stat. 2049, provided that the amendment made by that section to section 3162(b)(1) of Pub. L. 104–201, set out above, is effective Jan. 1, 1998.\]
 
 #### Tritium Production Program
 
@@ -192,7 +192,7 @@ Pub. L. 104–106, div. C, title XXXI, §3133, Feb. 10, 1996, 110 Stat. 618, whi
 
 #### Manufacturing Infrastructure for Refabrication and Certification of Nuclear Weapons Stockpile
 
-Pub. L. 104–106, div. C, title XXXI, §3137, Feb. 10, 1996, 110 Stat. 620, as amended by Pub. L. 104–201, div. C, title XXXI, §3132(a), (b), Sept. 23, 1996, 110 Stat. 2829, which was formerly set out as a note under this section, was renumbered section 4212 of Pub. L. 107–314, the BobStump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(13)(A)–(C), Nov. 24, 2003, 117 Stat. 1760, and is classified to section 2532 of Title 50, War and National Defense.
+Pub. L. 104–106, div. C, title XXXI, §3137, Feb. 10, 1996, 110 Stat. 620, as amended by Pub. L. 104–201, div. C, title XXXI, §3132(a), (b), Sept. 23, 1996, 110 Stat. 2829, which was formerly set out as a note under this section, was renumbered section 4212 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(13)(A)–(C), Nov. 24, 2003, 117 Stat. 1760, and is classified to section 2532 of Title 50, War and National Defense.
 
 #### Fellowship Program for Development of Skills Critical to Department of Energy Nuclear Weapons Complex
 
@@ -200,7 +200,7 @@ Pub. L. 104–106, div. C, title XXXI, §3140, Feb. 10, 1996, 110 Stat. 621, as 
 
 #### Study on Nuclear Test Readiness Postures
 
-Pub. L. 104–106, div. C, title XXXI, §3152, Feb. 10, 1996, 110 Stat. 623, as amended by Pub. L. 106–398, §1 \[div. C, title XXXI, §3192\], Oct. 30, 2000, 114 Stat. 1654, 1654A–480, which was formerly set out as a note under this section, was renumbered section 4208 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(9), Nov. 24, 2003, 117 Stat. 1759, and is classified to section 2528 of Title 50, War and National Defense.
+Pub. L. 104–106, div. C, title XXXI, §3152, Feb. 10, 1996, 110 Stat. 623, as amended by Pub. L. 106–398, §1 \[div. C, title XXXI, §3192\], Oct. 30, 2000, 114 Stat. 1654, 1654A–480, which was formerly set out as a note under this section, was renumbered section 4208 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(9), Nov. 24, 2003, 117 Stat. 1759, and was classified to section 2528 of Title 50, War and National Defense, prior to repeal by Pub. L. 112–239, div. C, title XXXI, §3133(e)(1)(A), (2), Jan. 2, 2013, 126 Stat. 2192, 2193.
 
 #### Plan for Stewardship, Management, and Certification of Warheads in the Nuclear Weapons Stockpile
 
@@ -242,7 +242,7 @@ Certain Actions Not Prohibited.—Subsection (a) does not preclude the Secretary
 
 Funding.—Of the funds authorized to be appropriated pursuant to section 201 \[107 Stat. 1583\] for Defense-wide activities, not more than $38,000,000 may be used for activities described in subsection (b).”
 
-Pub. L. 103–160, div. C, title XXXI, §3137, Nov. 30, 1993, 107 Stat. 1946, which was formerly set out as a note under this section, was renumbered section 4211 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(12)(A)–(C), Nov. 24, 2003, 117 Stat. 1760, and is classified to section 2531 of Title 50, War and National Defense.
+Pub. L. 103–160, div. C, title XXXI, §3137, Nov. 30, 1993, 107 Stat. 1946, which was formerly set out as a note under this section, was renumbered section 4211 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(12)(A)–(C), Nov. 24, 2003, 117 Stat. 1760, and was classified to section 2531 of Title 50, War and National Defense, prior to repeal by Pub. L. 112–239, div. C, title XXXI, §3131(d)(3), Jan. 2, 2013, 126 Stat. 2181.
 
 Pub. L. 102–377, title V, §507, Oct. 2, 1992, 106 Stat. 1343, as amended by Pub. L. 108–136, div. C, title XXXI, §3141(e)(11), Nov. 24, 2003, 117 Stat. 1760, provided that:
 

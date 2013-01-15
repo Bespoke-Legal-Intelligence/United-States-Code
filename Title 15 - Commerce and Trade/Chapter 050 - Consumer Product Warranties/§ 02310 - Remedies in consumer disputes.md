@@ -32,7 +32,7 @@ It shall be a violation of section 45(a)(1) of this title for any person to fail
 
 #### (d) Civil action by consumer for damages, etc.; jurisdiction; recovery of costs and expenses; cognizable claims
 
-(1) Subject to subsections (a)(3) and (e) of this section, a consumer who is damaged by the failure of a supplier, warrantor, or service contractor to comply with any obligation under thischapter, or under a written warranty, implied warranty, or service contract, may bring suit for damages and other legal and equitable relief—
+(1) Subject to subsections (a)(3) and (e) of this section, a consumer who is damaged by the failure of a supplier, warrantor, or service contractor to comply with any obligation under this chapter, or under a written warranty, implied warranty, or service contract, may bring suit for damages and other legal and equitable relief—
 
 &emsp;(A) in any court of competent jurisdiction in any State or the District of Columbia; or
 

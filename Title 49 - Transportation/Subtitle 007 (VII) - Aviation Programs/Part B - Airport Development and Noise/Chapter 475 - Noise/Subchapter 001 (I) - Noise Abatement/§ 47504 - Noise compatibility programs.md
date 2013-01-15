@@ -92,7 +92,33 @@ Aircraft noise primarily caused by military aircraft.—The Secretary may make a
 
 Government Relief From Liability.—The Government is not liable for damages from aviation noise because of action taken under this section.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1285; Pub. L. 103–305, title I, §119, Aug. 23, 1994, 108 Stat. 1580; Pub. L. 103–429, §6(71), Oct. 31, 1994, 108 Stat. 4387; Pub. L. 106–181, title I, §154, Apr. 5, 2000, 114 Stat. 88; Pub. L. 108–176, title I, §189, title III, §306, Dec. 12, 2003, 117 Stat. 2519, 2539.)
+(e)
+
+Grants for Assessment of Flight Procedures.—
+
+&emsp;(1)
+
+In general.—In accordance with subsection (c)(1), the Secretary may make a grant to an airport operator to assist in completing environmental review and assessment activities for proposals to implement flight procedures at such airport that have been approved as part of an airport noise compatibility program under subsection (b).
+
+&emsp;(2)
+
+Additional staff.—The Administrator may accept funds from an airport operator, including funds provided to the operator under paragraph (1), to hire additional staff or obtain the services of consultants in order to facilitate the timely processing, review, and completion of environmental activities associated with proposals to implement flight procedures at such airport that have been approved as part of an airport noise compatibility program under subsection (b).
+
+&emsp;(3)
+
+Receipts credited as offsetting collections.—Notwithstanding section 3302 of title 31, any funds accepted under this section—
+
+&emsp;&emsp;(A) shall be credited as offsetting collections to the account that finances the activities and services for which the funds are accepted;
+
+&emsp;&emsp;(B) shall be available for expenditure only to pay the costs of activities and services for which the funds are accepted; and
+
+&emsp;&emsp;(C) shall remain available until expended.
+
+(f)
+
+Determination of Fair Market Value of Residential Properties.—In approving a project to acquire residential real property using financial assistance made available under this section or chapter 471, the Secretary shall ensure that the appraisal of the property to be acquired disregards any decrease or increase in the fair market value of the real property caused by the project for which the property is to be acquired, or by the likelihood that the property would be acquired for the project, other than that due to physical deterioration within the reasonable control of the owner.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1285; Pub. L. 103–305, title I, §119, Aug. 23, 1994, 108 Stat. 1580; Pub. L. 103–429, §6(71), Oct. 31, 1994, 108 Stat. 4387; Pub. L. 106–181, title I, §154, Apr.5, 2000, 114 Stat. 88; Pub. L. 108–176, title I, §189, title III, §306, Dec. 12, 2003, 117 Stat. 2519, 2539; Pub. L. 112–95, title V, §§504, 505, Feb. 14, 2012, 126 Stat. 104.)
 
 Historical and Revision Notes
 
@@ -157,6 +183,10 @@ This redesignates 49:47504(c)(1)(C) and (D) as 49:47504(c)(2)(C) and (D) because
 Section 301(d)(4)(B) of the Airport and Airway Safety and Capacity Expansion Act of 1987, referred to in subsec. (c)(2)(A)(i), is section 301(d)(4)(B) of Pub. L. 100–223, which was set out as a note under section 2104 of former Title 49, Transportation, prior to repeal by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (e). Pub. L. 112–95, §504, added subsec. (e).
+
+Subsec. (f). Pub. L. 112–95, §505, added subsec. (f).
 
 <b>2003</b>—Subsec. (b)(4). Pub. L. 108–176, §189, added par. (4).
 

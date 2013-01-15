@@ -6,7 +6,7 @@ Tobacco products may be furnished by a manufacturer of such products, without pa
 
 #### (b) Tobacco products and cigarette papers and tubes transferred or removed in bond from domestic factories and export warehouses
 
-A manufacturer or export warehouse proprietor may transfer tobacco products and cigarette papers and tubes, without payment of tax, to the bonded premises of another manufacturer or export warehouse proprietor, or remove such articles, without payment of tax, for shipment to a foreign country, Puerto Rico, the Virgin Islands, or a possession of the United States, or for consumption beyond the jurisdiction of the internal revenue laws of the United States; and manufacturers may similarly remove such articles for use of the United States; in accordance with such regulations and under such bonds as the Secretary shall prescribe. Tobacco products and cigarette papers and tubes may not be transferred or removed under this subsection unless such products or papers and tubes bear such marks, labels, or notices as the Secretary shall by regulations prescribe.
+A manufacturer or export warehouse proprietor may transfer tobacco products and cigarette papers and tubes, without payment of tax, to the bonded premises of another manufacturer or export warehouse proprietor, or remove such articles, without payment of tax, for shipment to a foreign country, Puerto Rico, the Virgin Islands, or a possession of the United States, or for consumption beyond the jurisdiction of the internal revenue laws of the United States; andmanufacturers may similarly remove such articles for use of the United States; in accordance with such regulations and under such bonds as the Secretary shall prescribe. Tobacco products and cigarette papers and tubes may not be transferred or removed under this subsection unless such products or papers and tubes bear such marks, labels, or notices as the Secretary shall by regulations prescribe.
 
 #### (c) Tobacco products and cigarette papers and tubes released in bond from customs custody
 
@@ -58,11 +58,11 @@ Amendment by Pub. L. 105–33 applicable to articles removed, as defined in sect
 
 #### Effective Date of 1989 Amendment
 
-Section 7508(b) of Pub. L. 101–239 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to articles imported or brought into the United States after the date of the enactment of this Act \[Dec. 19, 1989\].”
+Pub. L. 101–239, title VII, §7508(b), Dec. 19, 1989, 103 Stat. 2370, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to articles imported or brought into the United States after the date of the enactment of this Act \[Dec. 19, 1989\].”
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–509 applicable to articles imported, entered for warehousing, or brought into theUnited States or a foreign trade zone after Dec. 15, 1986, see section 8011(c) of Pub. L. 99–509, set out as a note under section 5061 of this title.
+Amendment by Pub. L. 99–509 applicable to articles imported, entered for warehousing, or brought into the United States or a foreign trade zone after Dec. 15, 1986, see section 8011(c) of Pub. L. 99–509, set out as a note under section 5061 of this title.
 
 #### Effective Date of 1976 Amendment
 
@@ -74,7 +74,7 @@ Amendment by Pub. L. 89–44 applicable on and after January 1, 1966, see sectio
 
 #### Effective Date of 1964 Amendment
 
-Section 2 of Pub. L. 88–342 provided that the amendment made by section 2 of Pub. L. 88–342 shall apply with respect to articles entered, or withdrawn from warehouse, for consumption after June 30, 1964.
+Pub. L. 88–342, §2, June 30, 1964, 78 Stat. 234, provided that the amendment made by section 2 of Pub. L. 88–342 shall apply with respect to articles entered, or withdrawn from warehouse, for consumption after June 30, 1964.
 
 #### Effective Date of 1958 Amendment
 

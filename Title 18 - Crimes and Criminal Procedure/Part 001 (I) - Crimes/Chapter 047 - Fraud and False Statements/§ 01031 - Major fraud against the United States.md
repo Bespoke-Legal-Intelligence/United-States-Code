@@ -68,5 +68,5 @@ Subsec. (h). Pub. L. 103–322, §330002(f), redesignated second subsec. (g) as 
 
 #### Effective Date of 1989 Amendment
 
-Section 2(b) of Pub. L. 101–123 provided that: “The amendment made by this section \[amending this section\] shall apply to contracts entered into on or after the date of the enactment of this Act \[Oct. 23, 1989\].”
+Pub. L. 101–123, §2(b), Oct. 23, 1989, 103 Stat. 759, provided that: “The amendment made by this section \[amending this section\] shall apply to contracts entered into on or after the date of the enactment of this Act \[Oct. 23, 1989\].”
 

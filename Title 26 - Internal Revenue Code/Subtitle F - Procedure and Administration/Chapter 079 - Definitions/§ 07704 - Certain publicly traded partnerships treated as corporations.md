@@ -42,7 +42,7 @@ For purposes of this section—
 
 &emsp;&emsp;(D) gain from the sale or other disposition of real property (including property described in section 1221(a)(1)),
 
-&emsp;&emsp;(E) income and gains derived from the exploration, development, mining or production, processing, refining, transportation (including pipelines transporting gas, oil, or products thereof), or the marketing of any mineral or natural resource (including fertilizer, geothermal energy, and timber), industrial source carbon dioxide, or the transportation or storage of any fuel described in subsection (b), (c), (d), or (e) of section 6426, or any alcohol fuel defined in section 6426(b)(4)(A) or any biodiesel fuel as defined in section 40A(d)(1),
+&emsp;&emsp;(E) income and gains derived from the exploration, development, mining or production, processing, refining, transportation (including pipelines transporting gas, oil, or products thereof), or the marketing of anymineral or natural resource (including fertilizer, geothermal energy, and timber), industrial source carbon dioxide, or the transportation or storage of any fuel described in subsection (b), (c), (d), or (e) of section 6426, or any alcohol fuel defined in section 6426(b)(4)(A) or any biodiesel fuel as defined in section 40A(d)(1),
 
 &emsp;&emsp;(F) any gain from the sale or disposition of a capital asset (or property described in section 1231(b)) held for the production of income described in any of the foregoing subparagraphs of this paragraph, and
 
@@ -122,7 +122,7 @@ As of the 1st day that a partnership is treated as a corporation under this sect
 
 #### (B) Adjustments in the case of tiered partnerships
 
-&emsp;&emsp;For purposes of this paragraph, in the case of a partnership which is a partner in another partnership, the gross income referred to in subparagraph (A) shall include the partnership's distributive share of the gross income of such other partnership from the active conduct of trades and businesses of such other partnership. A similar rule shall apply in the case of lower-tiered partnerships.
+&emsp;&emsp;For purposes of this paragraph, in the case of a partnership which is a partner in another partnership, the gross income referred to in subparagraph (A) shall include the partnership's distributive share of the grossincome of such other partnership from the active conduct of trades and businesses of such other partnership. A similar rule shall apply in the case of lower-tiered partnerships.
 
 #### (C) Treatment of tax
 
@@ -152,7 +152,7 @@ Pub. L. 110–343, §116(a), inserted “or industrial source carbon dioxide” 
 
 <b>1997</b>—Subsec. (g). Pub. L. 105–34 added subsec. (g).
 
-<b>1988</b>—Subsec. (c)(1). Pub. L. 100–647, §2004(f)(3), inserted at end “For purposes of the preceding sentence,a partnership shall not be treated as being in existence during any period before the 1st taxable year in which such partnership (or a predecessor) was a publicly traded partnership.”
+<b>1988</b>—Subsec. (c)(1). Pub. L. 100–647, §2004(f)(3), inserted at end “For purposes of the preceding sentence, a partnership shall not be treated as being in existence during any period before the 1st taxable year in which such partnership (or a predecessor) was a publicly traded partnership.”
 
 Subsec. (d)(1). Pub. L. 100–647, §2004(f)(4), inserted at end “For purposes of subparagraph (E), the term ‘mineral or natural resource’ means any product of a character with respect to which a deduction for depletion is allowable under section 611; except that such term shall not include any product described in subparagraph (A) or (B) of section 613(b)(7).”
 
@@ -180,7 +180,7 @@ Pub. L. 105–206, title VI, §6009(b)(2), July 22, 1998, 112 Stat. 812, provide
 
 #### Effective Date of 1997 Amendment
 
-Section 964(b) of Pub. L. 105–34 provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1997.”
+Pub. L. 105–34, title IX, §964(b), Aug. 5, 1997, 111 Stat. 893, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1997.”
 
 #### Effective Date of 1988 Amendment
 
@@ -188,7 +188,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date
 
-Section 10211(c) of Pub. L. 100–203, as amended by Pub. L. 100–647, title II, §2004(f)(2), Nov. 10, 1988, 102 Stat. 3602, provided that:
+Pub. L. 100–203, title X, §10211(c), Dec. 22, 1987, 101 Stat. 1330–405, as amended by Pub. L. 100–647, title II, §2004(f)(2), Nov. 10, 1988, 102 Stat. 3602, provided that:
 
 “(1)
 

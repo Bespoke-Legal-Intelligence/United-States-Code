@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(C) any participant;
 
-&emsp;&emsp;(D) any person providing services to the Board and, with respect to the actions of theExecutive Director as a fiduciary any person providing services to the Executive Director;
+&emsp;&emsp;(D) any person providing services to the Board and, with respect to the actions of the Executive Director as a fiduciary any person providing services to the Executive Director;
 
 &emsp;&emsp;(E) a labor organization, the members of which are participants;
 
@@ -168,7 +168,7 @@
 
 &emsp;(C) by any participant or beneficiary—
 
-&emsp;&emsp;(i) to recover benefits of such participant or beneficiary under the provisions of subchapter III of this chapter, to enforce any right of such participant or beneficiary under such provisions, or to clarify any suchright to future benefits under such provisions; or
+&emsp;&emsp;(i) to recover benefits of such participant or beneficiary under the provisions of subchapter III of this chapter, to enforce any right of such participant or beneficiary under such provisions, or to clarify any such right to future benefits under such provisions; or
 
 &emsp;&emsp;(ii) to enforce any claim otherwise cognizable under sections 1346(b) and 2671 through 2680 of title 28, provided that the remedy against the United States provided by sections 1346(b) and 2672 of title 28 for damages for injury or loss of property caused by the negligent or wrongful act or omission of any fiduciary while acting within the scope of his duties or employment shall be exclusive of any other civil action or proceeding by the participant or beneficiary for recovery of money by reason of the same subject matter against the fiduciary (or the estate of such fiduciary) whose act or omission gave rise to such action or proceeding, whether or not such action or proceeding is based on an alleged violation of subsection (b) or (c).
 
@@ -210,7 +210,7 @@
 
 (g)(1) The Secretary of Labor shall establish a program to carry out audits to determine the level of compliance with the requirements of this section relating to fiduciary responsibilities and prohibited activities of fiduciaries.
 
-(2) An audit under this subsection may be conducted by the Secretary of Labor, by contract with a qualified non-governmental organization, or in cooperation with the Comptroller Generalof the United States, as the Secretary considers appropriate.
+(2) An audit under this subsection may be conducted by the Secretary of Labor, by contract with a qualified non-governmental organization, or in cooperation with the Comptroller General of the United States, as the Secretary considers appropriate.
 
 (Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 582; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–556, title I, §§112, 114(b), Oct. 27, 1986, 100 Stat. 3133; Pub. L. 100–238, title I, §133(a), (c), Jan. 8, 1988, 101 Stat. 1760, 1762; Pub. L. 100–366, §3(a), July 13, 1988, 102 Stat. 826; Pub. L. 101–335, §8, July 17, 1990, 104 Stat. 325; Pub. L. 111–31, div. B, title I, §106(b), June 22, 2009, 123 Stat. 1855.)
 
@@ -276,15 +276,15 @@ Subsec. (e)(1)(E)(i). Pub. L. 99–556, §114(b), substituted “Secretary of La
 
 #### Effective Date of 1988 Amendments
 
-Section 3(b) of Pub. L. 100–366 provided that: “Section 8477(e) of title 5, United States Code, as amended by subsection (a), shall apply to any civil action or proceeding arising from any act or omission occurring on or after October 1, 1986.”
+Pub. L. 100–366, §3(b), July 13, 1988, 102 Stat. 826, provided that: “Section 8477(e) of title 5, United States Code, as amended by subsection (a), shall apply to any civil action or proceeding arising from any act or omission occurring on or after October 1, 1986.”
 
-Section 133(b) of Pub. L. 100–238 provided that: “The provisions of section 8477(e)(1), (2), (3), (4), (5), and (6) of title 5, United States Code (as amended by subsection (a) of this section), shall apply to any civil action or proceeding arising from any act or omission occurring on or after October 1, 1986.”
+Pub. L. 100–238, title I, §133(b), Jan. 8, 1988, 101 Stat. 1762, provided that: “The provisions of section 8477(e)(1), (2), (3), (4), (5), and (6) of title 5, United States Code (as amended by subsection (a) of this section), shall apply to any civil action or proceeding arising from any act or omission occurring on or after October 1, 1986.”
 
-Section 133(c) of Pub. L. 100–238, which provided that the provisions of subsection (a) (and the amendments to section 8477(e) of title 5 contained therein) and subsection (b) of this section were to be repealed effective on Dec. 31, 1990, and that on and after Dec. 31, 1990, the provisions of section 8477(e) of title 5 were to be in effect as such provisions were in effect on Jan. 7, 1988, was repealed by Pub. L. 101–335, §8, July 17, 1990, 104 Stat. 325.
+Pub. L. 100–238, title I, §133(c), Jan. 8, 1988, 101 Stat. 1762, which provided that the provisions of subsection (a) (and the amendments to section 8477(e) of title 5 contained therein) and subsection (b) of this section were to be repealed effective on Dec. 31, 1990, and that on and after Dec. 31, 1990, the provisions of section 8477(e) of title 5 were to be in effect as such provisions were in effect on Jan. 7, 1988, was repealed by Pub. L. 101–335, §8, July 17, 1990, 104 Stat. 325.
 
 #### Interim Exemption Procedures
 
-Section 111 of Pub. L. 99–556 provided that:
+Pub. L. 99–556, title I, §111, Oct. 27, 1986, 100 Stat. 3133, provided that:
 
 “(a)
 
@@ -296,7 +296,7 @@ Termination of Interim Authority.—The authority to grant an exemption under se
 
 #### Allocation of Fiduciary Responsibilities
 
-Section 114(a) of Pub. L. 99–556 provided that:
+Pub. L. 99–556, title I, §114(a), Oct. 27, 1986, 100 Stat. 3133, provided that:
 
 “(1) Subject to paragraph (2), until such time as final regulations under subparagraph (E) of section 8477(e)(1) of title 5, United States Code, become effective, a fiduciary (as defined by section 8477(a)(3) of title 5, United States Code) may, in accordance with procedures established by the Federal Retirement Thrift Investment Board, make any allocation of fiduciary responsibilities.
 

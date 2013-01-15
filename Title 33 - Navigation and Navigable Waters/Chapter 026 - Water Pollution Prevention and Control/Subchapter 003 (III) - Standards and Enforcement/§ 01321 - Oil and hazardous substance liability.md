@@ -60,7 +60,7 @@ For the purpose of this section, the term—
 
 &emsp;&emsp;(A) the costs of removal of oil or a hazardous substance that are incurred after it is discharged; and
 
-&emsp;&emsp;(B) in any case in which there is a substantial threat of a discharge of oil or a hazardous substance, the costs to prevent, minimize, or mitigate that threat; and
+&emsp;&emsp;(B) in any case in which there is a substantial threat of a discharge of oil or a hazardous substance, the costs to prevent, minimize, or mitigate that threat;
 
 &emsp;(26) “nontank vessel” means a self-propelled vessel that—
 
@@ -70,7 +70,37 @@ For the purpose of this section, the term—
 
 &emsp;&emsp;(C) carries oil of any kind as fuel for main propulsion; and
 
-&emsp;&emsp;(D) operates on the navigable waters of the United States, as defined in section 2101(17a) of that title.
+&emsp;&emsp;(D) operates on the navigable waters of the United States, as defined in section 2101(17a) of that title;
+
+&emsp;(27) the term “best available science” means science that—
+
+&emsp;&emsp;(A) maximizes the quality, objectivity, and integrity of information, including statistical information;
+
+&emsp;&emsp;(B) uses peer-reviewed and publicly available data; and
+
+&emsp;&emsp;(C) clearly documents and communicates risks and uncertainties in the scientific basis for such projects;
+
+&emsp;(28) the term “Chairperson” means the Chairperson of the Council;
+
+&emsp;(29) the term “coastal political subdivision” means any local political jurisdiction that is immediately below the State level of government, including a county, parish, or borough, with a coastline that is contiguous with any portion of the United States Gulf of Mexico;
+
+&emsp;(30) the term “Comprehensive Plan” means the comprehensive plan developed by the Council pursuant to subsection (t);
+
+&emsp;(31) the term “Council” means the Gulf Coast Ecosystem Restoration Council established pursuant to subsection (t);
+
+&emsp;(32) the term “Deepwater Horizon oil spill” means the blowout and explosion of the mobile offshore drilling unit <i>Deepwater Horizon</i> that occurred on April 20, 2010, and resulting hydrocarbon releases into the environment;
+
+&emsp;(33) the term “Gulf Coast region” means—
+
+&emsp;&emsp;(A) in the Gulf Coast States, the coastal zones (as that term is defined in section 1453 of title 16),<sup>1</sup> except that, in this section, the term “coastal zones” includes land within the coastal zones that is held in trust by, or the use of which is by law subject solely to the discretion of, the Federal Government or officers or agents of the Federal Government)) <sup>1</sup> that border the Gulf of Mexico;
+
+&emsp;&emsp;(B) any adjacent land, water, and watersheds, that are within 25 miles of the coastal zones described in subparagraph (A) of the Gulf Coast States; and
+
+&emsp;&emsp;(C) all Federal waters in the Gulf of Mexico;
+
+&emsp;(34) the term “Gulf Coast State” means any of the States of Alabama, Florida, Louisiana, Mississippi, and Texas; and
+
+&emsp;(35) the term “Trust Fund” means the Gulf Coast Restoration Trust Fund established pursuant to section 1602 of the Resources and Ecosystems Sustainability, Tourist Opportunities, and Revived Economies of the Gulf Coast States Act of 2012.
 
 #### (b) Congressional declaration of policy against discharges of oil or hazardous substances; designation of hazardous substances; study of higher standard of care incentives and report to Congress; liability; penalties; civil actions: penalty limitations, separate offenses, jurisdiction, mitigation of damages and costs, recovery of removal costs, alternative remedies, and withholding clearance of vessels
 
@@ -80,7 +110,7 @@ For the purpose of this section, the term—
 
 (B) The Administrator shall within 18 months after the date of enactment of this paragraph, conduct a study and report to the Congress on methods, mechanisms, and procedures to create incentives to achieve a higher standard of care in all aspects of the management and movement of hazardous substances on the part of owners, operators, or persons in charge of onshore facilities, offshore facilities, or vessels. The Administrator shall include in such study (1) limits of liability, (2) liability for third party damages, (3) penalties and fees, (4) spill prevention plans, (5) current practices in the insurance and banking industries, and (6) whether the penalty enacted in subclause (bb) of clause (iii) of subparagraph (B) of subsection (b)(2) of section 311 of Public Law 92–500 should be enacted.
 
-(3) The discharge of oil or hazardous substances (i) into or upon the navigable waters of the United States, adjoining shorelines, or into or upon the waters of the contiguous zone, or (ii) in connection with activities under the Outer Continental Shelf Lands Act \[43 U.S.C. 1331 et seq.\] or the Deepwater Port Act of 1974 \[33 U.S.C. 1501 et seq.\], or which may affect natural resources belonging to, appertaining to, or underthe exclusive management authority of the United States (including resources under the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1801 et seq.\]), in such quantities as may be harmful as determined by the President under paragraph (4) of this subsection, is prohibited, except (A) in the case of such discharges into the waters of the contiguous zone or which may affect natural resources belonging to, appertaining to, or under the exclusive management authority of the United States (including resources under the Magnuson-Stevens Fishery Conservation and Management Act), where permitted under the Protocol of 1978 Relating to the International Convention for the Prevention of Pollution from Ships, 1973, and (B) where permitted in quantities and at times and locations or under such circumstances or conditions as the President may, by regulation, determine not to be harmful. Any regulations issued under this subsection shall be consistent with maritime safety and with marine and navigation laws and regulations and applicable water quality standards.
+(3) The discharge of oil or hazardous substances (i) into or upon the navigable waters of the United States, adjoining shorelines, or into or upon the waters of the contiguous zone, or (ii)in connection with activities under the Outer Continental Shelf Lands Act \[43 U.S.C. 1331 et seq.\] or the Deepwater Port Act of 1974 \[33 U.S.C. 1501 et seq.\], or which may affect natural resources belonging to, appertaining to, or under the exclusive management authority of the United States (including resources under the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1801 et seq.\]), in such quantities as may be harmful as determined by the President under paragraph (4) of this subsection, is prohibited, except (A) in the case of such discharges into the waters of the contiguous zone or which may affect natural resources belonging to, appertaining to, or under the exclusive management authority of the United States (including resources under the Magnuson-Stevens Fishery Conservation and Management Act), where permitted under the Protocol of 1978 Relating to the International Convention for the Prevention of Pollution from Ships, 1973, and (B) where permitted in quantities and at times and locations or under such circumstances or conditions as the President may, by regulation, determine not to be harmful. Any regulations issued under this subsection shall be consistent with maritime safety and with marine and navigation laws and regulations and applicable water quality standards.
 
 (4) The President shall by regulation determine for the purposes of this section those quantities of oil and any hazardous substances the discharge of which may be harmful to the public health or welfare or the environment of the United States, including but not limited to fish, shellfish, wildlife, and public and private property, shorelines, and beaches.
 
@@ -126,7 +156,7 @@ Presentation of evidence.—Any person who comments on a proposed assessment of 
 
 &emsp;&emsp;(iii)
 
-Rights of interested persons to a hearing.—If no hearing is held under subparagraph (B) before issuance of an order assessing a class II civil penalty under this paragraph, any person who commented on the proposed assessment may petition, within 30 days after the issuance of such order, the Administrator or Secretary, as the case may be, to set aside such order and to provide a hearing on the penalty. If the evidence presented by the petitioner in support of the petition is material and was not considered in the issuance of the order, the Administrator or Secretary shall immediately set aside such order and provide a hearing inaccordance with subparagraph (B)(ii). If the Administrator or Secretary denies a hearing under this clause, the Administrator or Secretary shall provide to the petitioner, and publish in the Federal Register, notice of and the reasons for such denial.
+Rights of interested persons to a hearing.—If no hearing is held under subparagraph (B) before issuance of an order assessing a class II civil penalty under this paragraph, any person who commented on the proposed assessment may petition, within 30 days after the issuance of such order, the Administrator or Secretary, as the case may be, to set aside such order and to provide a hearing on the penalty. If the evidence presented by the petitioner in support of the petition is material and was not considered in the issuance of the order, the Administrator or Secretary shall immediately set aside such order and provide a hearing in accordance with subparagraph (B)(ii). If the Administrator or Secretary denies a hearing under this clause, the Administrator or Secretary shall provide to the petitioner, and publish in the Federal Register, notice of and the reasons for such denial.
 
 &emsp;(D)
 
@@ -334,9 +364,9 @@ Withholding clearance.—If any owner, operator, or person in charge of a vessel
 
 &emsp;&emsp;&emsp;(iii) the quantities of such dispersant, other chemicals, or other spill mitigating device or substance which can be used safely in such waters,
 
-> &emsp;&emsp;which schedule shall provide in the case of any dispersant, chemical, spill mitigating device or substance, or waters not specifically identified in such schedule that the President, or his delegate, may, on a case-by-case basis, identify the dispersants, other chemicals, and other spill mitigating devices and substances which may be used, the waters in which they may be used, and the quantities which can be used safely in such waters.
+> &emsp;&emsp;which schedule shall provide in the case of any dispersant, chemical, spill mitigating device or substance, or waters not specifically identified in such schedule that the President, or his delegate, may, on a case-by-case basis, identify the dispersants, otherchemicals, and other spill mitigating devices and substances which may be used, the waters in which they may be used, and the quantities which can be used safely in such waters.
 
-&emsp;&emsp;(H) A system whereby the State or States affected by a discharge of oil or hazardoussubstance may act where necessary to remove such discharge and such State or States may be reimbursed in accordance with the Oil Pollution Act of 1990 \[33 U.S.C. 2701 et seq.\], in the case of any discharge of oil from a vessel or facility, for the reasonable costs incurred for that removal, from the Oil Spill Liability Trust Fund.
+&emsp;&emsp;(H) A system whereby the State or States affected by a discharge of oil or hazardous substance may act where necessary to remove such discharge and such State or States may be reimbursed in accordance with the Oil Pollution Act of 1990 \[33 U.S.C. 2701 et seq.\], in the case of any discharge of oil from a vessel or facility, for the reasonable costs incurred for that removal, from the Oil Spill Liability Trust Fund.
 
 &emsp;&emsp;(I) Establishment of criteria and procedures to ensure immediate and effective Federal identification of, and response to, a discharge, or the threat of a discharge, that results in a substantial threat to the public health or welfare of the United States, as required under subsection (c)(2) of this section.
 
@@ -382,7 +412,7 @@ Withholding clearance.—If any owner, operator, or person in charge of a vessel
 
 (1) Except where an owner or operator can prove that a discharge was caused solely by (A) an act of God, (B) an act of war, (C) negligence on the part of the United States Government, or (D) an act or omission of a third party without regard to whether any such act or omission was or was not negligent, or any combination of the foregoing clauses, such owner or operator of any vessel from which oil or a hazardous substance is discharged in violation of subsection (b)(3) of this section shall, notwithstanding any other provision of law, be liable to the United States Government for the actual costs incurred under subsection (c) of this section for the removal of such oil or substance by the United States Government in an amount not to exceed, in the case of an inland oil barge $125 per gross ton of such barge, or $125,000, whichever is greater, and in the case of any other vessel, $150 per gross ton of such vessel (or, for a vessel carrying oil or hazardous substances as cargo, $250,000), whichever is greater, except that where the United States can show that such discharge was the result of willful negligence or willful misconduct within the privity and knowledge of the owner, such owner or operator shall be liable to the United States Government for the full amount of such costs. Such costs shall constitute a maritime lien on such vessel which may be recovered in an action in rem in the district court of the United States for any district within which any vessel may be found. The United States may also bring an action against the owner or operator of such vessel in any court of competent jurisdiction to recover such costs.
 
-(2) Except where an owner or operator of an onshore facility can prove that a discharge was caused solely by (A) an act of God, (B) an act of war, (C) negligence on the part of the United States Government, or (D) an act or omission of a third party without regard to whether any such act or omission was or was not negligent, or any combination of the foregoing clauses, such owner or operator of any such facility from which oil or a hazardous substance is discharged in violation of subsection (b)(3) of this section shall be liable to the United States Government for the actual costs incurred under subsection\(c) of this section for the removal of such oil or substance by the United States Government in an amount not to exceed $50,000,000, except that where the United States can show that such discharge was the result of willful negligence or willful misconduct within the privity and knowledge of the owner, such owner or operator shall be liable to the United States Government for the full amount of such costs. The United States may bring an action against the owner or operator of such facility in any court of competent jurisdiction to recover such costs. The Administrator is authorized, by regulation, after consultation with the Secretary of Commerce and the Small Business Administration, to establish reasonable and equitable classifications of those onshore facilities having a total fixed storage capacity of 1,000 barrels or less which he determines because of size, type, and location do not present a substantial risk of the discharge of oil or a hazardous substance in violation of subsection (b)(3) of this section, and apply with respect to such classifications differing limits of liability which may be less than the amount contained in this paragraph.
+(2) Except where an owner or operator of an onshore facility can prove that a discharge was caused solely by (A) an act of God, (B) an act of war, (C) negligence on the part of the United States Government, or (D) an act or omission of a third party without regard to whether any such act or omission was or was not negligent, or any combination of the foregoing clauses,such owner or operator of any such facility from which oil or a hazardous substance is discharged in violation of subsection (b)(3) of this section shall be liable to the United States Government for the actual costs incurred under subsection (c) of this section for the removal of such oil or substance by the United States Government in an amount not to exceed $50,000,000, except that where the United States can show that such discharge was the result of willful negligence or willful misconduct within the privity and knowledge of the owner, such owner or operator shall be liable to the United States Government for the full amount of such costs. The United States may bring an action against the owner or operator of such facility in any court of competent jurisdiction to recover such costs. The Administrator is authorized, by regulation, after consultation with the Secretary of Commerce and the Small Business Administration, to establish reasonable and equitable classifications of those onshore facilities having a total fixed storage capacity of 1,000 barrels or less which he determines because of size, type, and location do not present a substantial risk of the discharge of oil or a hazardous substance in violation of subsection (b)(3) of this section, and apply with respect to such classifications differing limits of liability which may be less than the amount contained in this paragraph.
 
 (3) Except where an owner or operator of an offshore facility can prove that a discharge was caused solely by (A) an act of God, (B) an act of war, (C) negligence on the part of the United States Government, or (D) an act or omission of a third party without regard to whether any such act or omission was or was not negligent, or any combination of the foregoing clauses, such owner or operator of any such facility from which oil or a hazardous substance is discharged in violation of subsection (b)(3) of this section shall, notwithstanding any other provision of law, be liable to the United States Government for the actual costs incurred under subsection (c) of this section for the removal of such oil or substance by the United States Government in an amount not to exceed $50,000,000, except that where the United States can show that such discharge was the result of willful negligence or willful misconduct within the privity and knowledge of the owner, such owner or operator shall be liable to the United States Government for the full amount of such costs. The United States may bring an action against the owner or operator of such a facility in any court of competent jurisdiction to recover such costs.
 
@@ -396,7 +426,7 @@ Where the owner or operator of a vessel (other than an inland oil barge) carryin
 
 #### (h) Rights against third parties who caused or contributed to discharge
 
-The liabilities established by this section shall in no way affect any rights which (1) the owneror operator of a vessel or of an onshore facility or an offshore facility may have against any third party whose acts may in any way have caused or contributed to such discharge, or (2) the United States Government may have against any third party whose actions may in any way have caused or contributed to the discharge of oil or hazardous substance.
+The liabilities established by this section shall in no way affect any rights which (1) the owner or operator of a vessel or of an onshore facility or an offshore facility may have against any third party whose acts may in any way have caused or contributed to such discharge, or (2) the United States Government may have against any third party whose actions may in any way have caused or contributed to the discharge of oil or hazardous substance.
 
 #### (i) Recovery of removal costs
 
@@ -558,7 +588,7 @@ In any case where an owner or operator of a vessel or an onshore facility or an 
 
 #### (k) Repealed. Pub. L. 101–380, title II, §2002(b)(2), Aug. 18, 1990, 104 Stat. 507
 
-#### (<i>l</i>) Administration
+#### (l) Administration
 
 The President is authorized to delegate the administration of this section to the heads of those Federal departments, agencies, and instrumentalities which he determines to be appropriate. Each such department, agency, and instrumentality, in order to avoid duplication of effort, shall, whenever appropriate, utilize the personnel, services, and facilities of other Federal departments, agencies, and instrumentalities.
 
@@ -604,7 +634,7 @@ The President is authorized to delegate the administration of this section to th
 
 The several district courts of the United States are invested with jurisdiction for any actions, other than actions pursuant to subsection (i)(1) of this section, arising under this section. In the case of Guam and the Trust Territory of the Pacific Islands, such actions may be brought in the district court of Guam, and in the case of the Virgin Islands such actions may be brought in the district court of the Virgin Islands. In the case of American Samoa and the Trust Territory of the Pacific Islands, such actions may be brought in the District Court of the United States for the District of Hawaii and such court shall have jurisdiction of such actions. In the case of the Canal Zone, such actions may be brought in the United States District Court for the District of the Canal Zone.
 
-#### (<i>o</i>) Obligation for damages unaffected; local authority not preempted; existing Federal authority not modified or affected
+#### (o) Obligation for damages unaffected; local authority not preempted; existing Federal authority not modified or affected
 
 (1) Nothing in this section shall affect or modify in any way the obligations of any owner or operator of any vessel, or of any owner or operator of any onshore facility or offshore facility to any person or agency under any provision of law for damages to any publicly owned or privately owned property resulting from a discharge of any oil or hazardous substance or from the removal of any such oil or hazardous substance.
 
@@ -624,13 +654,585 @@ Nothing in this section shall be construed to impose, or authorize the impositio
 
 #### (s) Oil Spill Liability Trust Fund
 
-The Oil Spill Liability Trust Fund established under section 9509 of title 26 shall be available to carry out subsections (b), (c), (d), (j), and (<i>l</i>) of this section as those subsections apply to discharges, and substantial threats of discharges, of oil. Any amounts received by the United States under this section shall be deposited in the Oil Spill Liability Trust Fund.
+The Oil Spill Liability Trust Fund established under section 9509 of title 26 shall be available to carry out subsections (b), (c), (d), (j), and (l) of this section as those subsections apply to discharges, and substantial threats of discharges, of oil. Any amounts received by the United States under this section shall be deposited in the Oil Spill Liability Trust Fund except as provided in subsection (t).
 
-(June 30, 1948, ch. 758, title III, §311, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 862; amended Pub. L. 93–207, §1(4), Dec. 28, 1973, 87 Stat. 906; Pub. L. 95–217, §§57, 58(a)–(g), (i), (k)–(m), Dec. 27, 1977, 91 Stat. 1593–1596; Pub. L. 95–576, §1(b), Nov. 2, 1978, 92 Stat. 2467; Pub. L. 96–478, §13(b), Oct. 21, 1980, 94 Stat. 2303; Pub. L. 96–483, §8, Oct. 21, 1980, 94 Stat. 2362; Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300; Pub. L. 97–164, title I, §161(5), Apr. 2, 1982, 96 Stat. 49; Pub. L. 100–4, title V, §502(b), Feb. 4, 1987, 101 Stat. 75; Pub. L. 101–380, title II, §2002(b), title IV, §§4201(a), (b), (b)\[(c)\], 4202(a), (c), 4204, 4301(a), (b), 4305, 4306, Aug. 18, 1990, 104 Stat. 507, 523–527, 532, 533, 540, 541; Pub. L. 102–388, title III, §349, Oct. 6, 1992, 106 Stat. 1554; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 104–324, title XI, §§1143, 1144, Oct. 19, 1996, 110 Stat. 3992; Pub. L. 105–383, title IV, §411, Nov. 13, 1998, 112 Stat. 3432; Pub. L. 108–293, title VII, §701(a), (b), (d), Aug. 9, 2004, 118 Stat. 1067, 1068; Pub. L. 109–241, title VI, §608, title IX, §901(i), July 11, 2006, 120 Stat. 558, 564; Pub. L. 112–90, §10, Jan. 3, 2012, 125 Stat. 1912.)
+#### (t) Gulf Coast restoration and recovery
+
+#### (1) State allocation and expenditures
+
+#### (A) In general
+
+&emsp;&emsp;Of the total amounts made available in any fiscal year from the Trust Fund, 35 percent shall be available, in accordance with the requirements of this section, to the Gulf Coast States in equal shares for expenditure for ecological and economic restoration of the Gulf Coast region in accordance with this subsection.
+
+#### (B) Use of funds
+
+#### (i) Eligible activities in the Gulf Coast region
+
+&emsp;&emsp;&emsp;Subject to clause (iii), amounts provided to the Gulf Coast States under this subsection may only be used to carry out 1 or more of the following activities in the Gulf Coast region:
+
+&emsp;&emsp;&emsp;&emsp;(I) Restoration and protection of the natural resources, ecosystems, fisheries,marine and wildlife habitats, beaches, and coastal wetlands of the Gulf Coast region.
+
+&emsp;&emsp;&emsp;&emsp;(II) Mitigation of damage to fish, wildlife, and natural resources.
+
+&emsp;&emsp;&emsp;&emsp;(III) Implementation of a federally approved marine, coastal, or comprehensive conservation management plan, including fisheries monitoring.
+
+&emsp;&emsp;&emsp;&emsp;(IV) Workforce development and job creation.
+
+&emsp;&emsp;&emsp;&emsp;(V) Improvements to or on State parks located in coastal areas affected by the Deepwater Horizon oil spill.
+
+&emsp;&emsp;&emsp;&emsp;(VI) Infrastructure projects benefitting the economy or ecological resources, including port infrastructure.
+
+&emsp;&emsp;&emsp;&emsp;(VII) Coastal flood protection and related infrastructure.
+
+&emsp;&emsp;&emsp;&emsp;(VIII) Planning assistance.
+
+&emsp;&emsp;&emsp;&emsp;(IX) Administrative costs of complying with this subsection.
+
+#### (ii) Activities to promote tourism and seafood in the Gulf Coast region
+
+&emsp;&emsp;&emsp;Amounts provided to the Gulf Coast States under this subsection may be used to carry out 1 or more of the following activities:
+
+&emsp;&emsp;&emsp;&emsp;(I) Promotion of tourism in the Gulf Coast Region, including recreational fishing.
+
+&emsp;&emsp;&emsp;&emsp;(II) Promotion of the consumption of seafood harvested from the Gulf Coast Region.
+
+#### (iii) Limitation
+
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;Of the amounts received by a Gulf Coast State under this subsection, not more than 3 percent may be used for administrative costs eligible under clause (i)(IX).
+
+#### (II) Claims for compensation
+
+&emsp;&emsp;&emsp;&emsp;Activities funded under this subsection may not be included in any claim for compensation paid out by the Oil Spill Liability Trust Fund after July 6, 2012.
+
+#### (C) Coastal political subdivisions
+
+#### (i) Distribution
+
+&emsp;&emsp;&emsp;In the case of a State where the coastal zone includes the entire State—
+
+&emsp;&emsp;&emsp;&emsp;(I) 75 percent of funding shall be provided directly to the 8 disproportionately affected counties impacted by the Deepwater Horizon oil spill; and
+
+&emsp;&emsp;&emsp;&emsp;(II) 25 percent shall be provided directly to nondisproportionately impacted counties within the State.
+
+#### (ii) Nondisproportionately impacted counties
+
+&emsp;&emsp;&emsp;The total amounts made available to coastal political subdivisions in the State of Florida under clause (i)(II) shall be distributed according to the following weighted formula:
+
+&emsp;&emsp;&emsp;&emsp;(I) 34 percent based on the weighted average of the population of the county.
+
+&emsp;&emsp;&emsp;&emsp;(II) 33 percent based on the weighted average of the county per capita sales tax collections estimated for fiscal year 2012.
+
+&emsp;&emsp;&emsp;&emsp;(III) 33 percent based on the inverse proportion of the weighted average distance from the Deepwater Horizon oil rig to each of the nearest and farthest points of the shoreline.
+
+#### (D) Louisiana
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Of the total amounts made available to the State of Louisiana under this paragraph:
+
+&emsp;&emsp;&emsp;&emsp;(I) 70 percent shall be provided directly to the State in accordance with this subsection.
+
+&emsp;&emsp;&emsp;&emsp;(II) 30 percent shall be provided directly to parishes in the coastal zone (as defined in section 1453 of title 16) of the State of Louisiana according to the following weighted formula:
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) 40 percent based on the weighted average of miles of the parish shoreline oiled.
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) 40 percent based on the weighted average of the population of the parish.
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) 20 percent based on the weighted average of the land mass of the parish.
+
+#### (ii) Conditions
+
+#### (I) Land use plan
+
+&emsp;&emsp;&emsp;&emsp;As a condition of receiving amounts allocated under this paragraph, the chief executive of the eligible parish shall certify to the Governor of the State that the parish has completed a comprehensive land use plan.
+
+#### (II) Other conditions
+
+&emsp;&emsp;&emsp;&emsp;A coastal political subdivision receiving funding under this paragraph shall meet all of the conditions in subparagraph (E).
+
+#### (E) Conditions
+
+&emsp;&emsp;As a condition of receiving amounts from the Trust Fund, a Gulf Coast State, including the entities described in subparagraph (F), or a coastal political subdivision shall—
+
+&emsp;&emsp;&emsp;(i) agree to meet such conditions, including audit requirements, as the Secretary of the Treasury determines necessary to ensure that amounts disbursed from the Trust Fund will be used in accordance with this subsection;
+
+&emsp;&emsp;&emsp;(ii) certify in such form and in such manner as the Secretary of the Treasury determines necessary that the project or program for which the Gulf Coast State or coastal political subdivision is requesting amounts—
+
+&emsp;&emsp;&emsp;&emsp;(I) is designed to restore and protect the natural resources, ecosystems, fisheries, marine and wildlife habitats, beaches, coastal wetlands, or economy of the Gulf Coast;
+
+&emsp;&emsp;&emsp;&emsp;(II) carries out 1 or more of the activities described in clauses (i) and (ii) of subparagraph (B);
+
+&emsp;&emsp;&emsp;&emsp;(III) was selected based on meaningful input from the public, including broad-based participation from individuals,businesses, and nonprofit organizations; and
+
+&emsp;&emsp;&emsp;&emsp;(IV) in the case of a natural resource protection or restoration project, is based on the best available science;
+
+&emsp;&emsp;&emsp;(iii) certify that the project or program and the awarding of a contract for the expenditure of amounts received under this paragraph are consistent with the standard procurement rules and regulations governing a comparable project or program in that State, including all applicable competitive bidding and audit requirements; and
+
+&emsp;&emsp;&emsp;(iv) develop and submit a multiyear implementation plan for the use of such amounts, which may include milestones, projected completion of each activity, and a mechanism to evaluate the success of each activity in helping to restore and protect the Gulf Coast region impacted by the Deepwater Horizon oil spill.
+
+#### (F) Approval by State entity, task force, or agency
+
+&emsp;&emsp;The following Gulf Coast State entities, task forces, or agencies shall carry out the duties of a Gulf Coast State pursuant to this paragraph:
+
+#### (i) Alabama
+
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;In the State of Alabama, the Alabama Gulf Coast Recovery Council, which shall be comprised of only the following:
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) The Governor of Alabama, who shall also serve as Chairperson and preside over the meetings of the Alabama Gulf Coast Recovery Council.
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) The Director of the Alabama State Port Authority, who shall also serve as Vice Chairperson and preside over the meetings of the Alabama Gulf Coast Recovery Council in the absence of the Chairperson.
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) The Chairman of the Baldwin County Commission.
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(dd) The President of the Mobile County Commission.
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(ee) The Mayor of the city of Bayou La Batre.
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(ff) The Mayor of the town of Dauphin Island.
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(gg) The Mayor of the city of Fairhope.
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(hh) The Mayor of the city of Gulf Shores.
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(ii) The Mayor of the city of Mobile.
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(jj) The Mayor of the city of Orange Beach.
+
+#### (II) Vote
+
+&emsp;&emsp;&emsp;&emsp;Each member of the Alabama Gulf Coast Recovery Council shall be entitled to 1 vote.
+
+#### (III) Majority vote
+
+&emsp;&emsp;&emsp;&emsp;All decisions of the Alabama Gulf Coast Recovery Council shall be made by majority vote.
+
+#### (IV) Limitation on administrative expenses
+
+&emsp;&emsp;&emsp;&emsp;Administrative duties for the Alabama Gulf Coast Recovery Council may only be performed by public officials and employees that are subject to the ethics laws of the State of Alabama.
+
+#### (ii) Louisiana
+
+&emsp;&emsp;&emsp;In the State of Louisiana, the Coastal Protection and Restoration Authority of Louisiana.
+
+#### (iii) Mississippi
+
+&emsp;&emsp;&emsp;In the State of Mississippi, the Mississippi Department of Environmental Quality.
+
+#### (iv) Texas
+
+&emsp;&emsp;&emsp;In the State of Texas, the Office of the Governor or an appointee of the Office of the Governor.
+
+#### (G) Compliance with eligible activities
+
+&emsp;&emsp;If the Secretary of the Treasury determines that an expenditure by a Gulf Coast State or coastal political subdivision of amounts made available under this subsection does not meet one of the activities described in clauses (i) and (ii) of subparagraph (B), the Secretary shall make no additional amounts from the Trust Fund available to that Gulf Coast State or coastal political subdivision until such time as an amount equal to the amount expended for the unauthorized use—
+
+&emsp;&emsp;&emsp;(i) has been deposited by the Gulf Coast State or coastal political subdivision in the Trust Fund; or
+
+&emsp;&emsp;&emsp;(ii) has been authorized by the Secretary of the Treasury for expenditure by the Gulf Coast State or coastal political subdivision for a project or program that meets the requirements of this subsection.
+
+#### (H) Compliance with conditions
+
+&emsp;&emsp;If the Secretary of the Treasury determines that a Gulf Coast State or coastal political subdivision does not meet the requirements of this paragraph, including the conditions of subparagraph (E), where applicable, the Secretary of the Treasury shall make no amounts from the Trust Fund available to that Gulf Coast State or coastal political subdivision until all conditions of this paragraph are met.
+
+#### (I) Public input
+
+&emsp;&emsp;In meeting any condition of this paragraph, a Gulf Coast State may use an appropriate procedure for public consultation in that Gulf Coast State, including consulting with one or more established task forces or other entities, to develop recommendations for proposed projects and programs that would restore and protect the natural resources, ecosystems, fisheries, marine and wildlife habitats, beaches, coastal wetlands, and economy of the Gulf Coast.
+
+#### (J) Previously approved projects and programs
+
+&emsp;&emsp;A Gulf Coast State or coastal political subdivision shall be considered to have metthe conditions of subparagraph (E) for a specific project or program if, before July 6, 2012—
+
+&emsp;&emsp;&emsp;(i) the Gulf Coast State or coastal political subdivision has established conditions for carrying out projects and programs that are substantively the same as the conditions described in subparagraph (E); and
+
+&emsp;&emsp;&emsp;(ii) the applicable project or program carries out 1 or more of the activities described in clauses (i) and (ii) of subparagraph (B).
+
+#### (K) Local preference
+
+&emsp;&emsp;In awarding contracts to carry out a project or program under this paragraph, a Gulf Coast State or coastal political subdivision may give a preference to individuals and companies that reside in, are headquartered in, or are principally engaged in business in the State of project execution.
+
+#### (L) Unused funds
+
+&emsp;&emsp;Funds allocated to a State or coastal political subdivision under this paragraph shall remain in the Trust Fund until such time as the State or coastal political subdivision develops and submits a plan identifying uses for those funds in accordance with subparagraph (E)(iv).
+
+#### (M) Judicial review
+
+&emsp;&emsp;If the Secretary of the Treasury determines that a Gulf Coast State or coastal political subdivision does not meet the requirements of this paragraph, including the conditions of subparagraph (E), the Gulf Coast State or coastal political subdivision may obtain expedited judicial review within 90 days after that decision in a district court of the United States, of appropriate jurisdiction and venue, that is located within the State seeking the review.
+
+#### (N) Cost-sharing
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;A Gulf Coast State or coastal political subdivision may use, in whole or in part, amounts made available under this paragraph to that Gulf Coast State or coastal political subdivision to satisfy the non-Federal share of the cost of any project or program authorized by Federal law that is an eligible activity described in clauses (i) and (ii) of subparagraph (B).
+
+#### (ii) Effect on other funds
+
+&emsp;&emsp;&emsp;The use of funds made available from the Trust Fund to satisfy the non-Federal share of the cost of a project or program that meets the requirements of clause (i) shall not affect the priority in which other Federal funds are allocated or awarded.
+
+#### (2) Council establishment and allocation
+
+#### (A) In general
+
+&emsp;&emsp;Of the total amount made available in any fiscal year from the Trust Fund, 30 percent shall be disbursed to the Council to carry out the Comprehensive Plan.
+
+#### (B) Council expenditures
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;In accordance with this paragraph, the Council shall expend funds made available from the Trust Fund to undertake projects and programs, using the best available science, that would restore and protect the natural resources, ecosystems, fisheries, marine and wildlife habitats, beaches, coastal wetlands, and economy of the Gulf Coast.
+
+#### (ii) Allocation and expenditure procedures
+
+&emsp;&emsp;&emsp;The Secretary of the Treasury shall develop such conditions, including audit requirements, as the Secretary of the Treasury determines necessary to ensure that amounts disbursed from the Trust Fund to the Council to implement the Comprehensive Plan will be used in accordance with this paragraph.
+
+#### (iii) Administrative expenses
+
+&emsp;&emsp;&emsp;Of the amounts received by the Council under this paragraph, not more than 3 percent may be used for administrative expenses, including staff.
+
+#### (C) Gulf Coast Ecosystem Restoration Council
+
+#### (i) Establishment
+
+&emsp;&emsp;&emsp;There is established as an independent entity in the Federal Government a council to be known as the “Gulf Coast Ecosystem Restoration Council”.
+
+#### (ii) Membership
+
+&emsp;&emsp;&emsp;The Council shall consist of the following members, or in the case of a Federal agency, a designee at the level of the Assistant Secretary or the equivalent:
+
+&emsp;&emsp;&emsp;&emsp;(I) The Secretary of the Interior.
+
+&emsp;&emsp;&emsp;&emsp;(II) The Secretary of the Army.
+
+&emsp;&emsp;&emsp;&emsp;(III) The Secretary of Commerce.
+
+&emsp;&emsp;&emsp;&emsp;(IV) The Administrator of the Environmental Protection Agency.
+
+&emsp;&emsp;&emsp;&emsp;(V) The Secretary of Agriculture.
+
+&emsp;&emsp;&emsp;&emsp;(VI) The head of the department in which the Coast Guard is operating.
+
+&emsp;&emsp;&emsp;&emsp;(VII) The Governor of the State of Alabama.
+
+&emsp;&emsp;&emsp;&emsp;(VIII) The Governor of the State of Florida.
+
+&emsp;&emsp;&emsp;&emsp;(IX) The Governor of the State of Louisiana.
+
+&emsp;&emsp;&emsp;&emsp;(X) The Governor of the State of Mississippi.
+
+&emsp;&emsp;&emsp;&emsp;(XI) The Governor of the State of Texas.
+
+#### (iii) Alternate
+
+&emsp;&emsp;&emsp;A Governor appointed to the Council by the President may designate an alternate to represent the Governor on the Council and vote on behalf of the Governor.
+
+#### (iv) Chairperson
+
+&emsp;&emsp;&emsp;From among the Federal agency members of the Council, the representatives of States on the Council shall select, and the President shall appoint, 1 Federal member to serve as Chairperson of the Council.
+
+#### (v) Presidential appointment
+
+&emsp;&emsp;&emsp;All Council members shall be appointed by the President.
+
+#### (vi) Council actions
+
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;The following actions by the Council shall require the affirmative vote of the Chairperson and a majority of the State members to be effective:
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) Approval of a Comprehensive Plan and future revisions to a Comprehensive Plan.
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) Approval of State plans pursuant to paragraph (3)(B)(iv).
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) Approval of reports to Congress pursuant to clause (vii)(VII).
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(dd) Approval of transfers pursuant to subparagraph (E)(ii)(I).
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(ee) Other significant actions determined by the Council.
+
+#### (II) Quorum
+
+&emsp;&emsp;&emsp;&emsp;A majority of State members shall be required to be present for the Council to take any significant action.
+
+#### (III) Affirmative vote requirement considered met
+
+&emsp;&emsp;&emsp;&emsp;For approval of State plans pursuant to paragraph (3)(B)(iv), the certification by a State member of the Council that the plan satisfies all requirements of clauses (i) and (ii) of paragraph (3)(B), when joined by an affirmative vote of the Federal Chairperson of the Council, shall be considered to satisfy the requirements for affirmative votes under subclause (I).
+
+#### (IV) Public transparency
+
+&emsp;&emsp;&emsp;&emsp;Appropriate actions of the Council, including significant actions and associated deliberations, shall be made available to the public via electronic means prior to any vote.
+
+#### (vii) Duties of Council
+
+&emsp;&emsp;&emsp;The Council shall—
+
+&emsp;&emsp;&emsp;&emsp;(I) develop the Comprehensive Plan and future revisions to the Comprehensive Plan;
+
+&emsp;&emsp;&emsp;&emsp;(II) identify as soon as practicable the projects that—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) have been authorized prior to July 6, 2012, but not yet commenced; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) if implemented quickly, would restore and protect the natural resources, ecosystems, fisheries, marine and wildlife habitats, beaches, barrier islands, dunes, and coastal wetlands of the Gulf Coast region;
+
+&emsp;&emsp;&emsp;&emsp;(III) establish such other 1 or more advisory committees as may be necessary to assist the Council, including a scientific advisory committee and a committee to advise the Council on public policy issues;
+
+&emsp;&emsp;&emsp;&emsp;(IV) collect and consider scientific and other research associated with restoration of the Gulf Coast ecosystem, including research, observation, and monitoring carried out pursuant to sections 1604 and 1605 of the Resources and Ecosystems Sustainability, Tourist Opportunities, and Revived Economies of the Gulf Coast States Act of 2012;
+
+&emsp;&emsp;&emsp;&emsp;(V) develop standard terms to include in contracts for projects and programs awarded pursuant to the Comprehensive Plan that provide a preference to individuals and companies that reside in, are headquartered in, or are principally engaged in business in a Gulf Coast State;
+
+&emsp;&emsp;&emsp;&emsp;(VI) prepare an integrated financial plan and recommendations for coordinated budget requests for the amounts proposed to be expended by the Federal agencies represented on the Council for projects and programs in the Gulf Coast States; and
+
+&emsp;&emsp;&emsp;&emsp;(VII) submit to Congress an annual report that—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) summarizes the policies, strategies, plans, and activities for addressing the restoration and protection of the Gulf Coast region;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) describes the projects and programs being implemented to restore and protect the Gulf Coast region, including—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(AA) a list of each project and program;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(BB) an identification of the funding provided to projects and programs identified in subitem (AA);
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(CC) an identification of each recipient for funding identified in subitem (BB); and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(DD) a description of the length of time and funding needed to complete the objectives of each project and program identified in subitem (AA);
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) makes such recommendations to Congress for modifications of existing laws as the Council determines necessary to implement the Comprehensive Plan;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(dd) reports on the progress on implementation of each project or program—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(AA) after 3 years of ongoing activity of the project or program, if applicable; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(BB) on completion of the project or program;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(ee) includes the information required to be submitted under section 1605(c)(4) of the Resources and Ecosystems Sustainability, Tourist Opportunities, and Revived Economies of the Gulf Coast States Act of 2012; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(ff) submits the reports required under item (dd) to—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(AA) the Committee on Science, Space, and Technology, the Committee on Natural Resources, the Committee on Transportation and Infrastructure, and the Committee on Appropriations of the House of Representatives; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(BB) the Committee on Environment and Public Works, the Committee on Commerce, Science, and Transportation, the Committee on Energy and Natural Resources, and the Committee on Appropriations of the Senate.
+
+#### (viii) Application of Federal Advisory Committee Act
+
+&emsp;&emsp;&emsp;The Council, or any other advisory committee established under this subparagraph, shall not be considered an advisory committee under the Federal Advisory Committee Act (5 U.S.C. App.).
+
+#### (ix) Sunset
+
+&emsp;&emsp;&emsp;The authority for the Council, and any other advisory committee established under this subparagraph, shall terminate on the date all funds in the Trust Fund have been expended.
+
+#### (D) Comprehensive plan
+
+#### (i) Proposed plan
+
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;Not later than 180 days after July 6, 2012, the Chairperson, on behalf of the Council and after appropriate public input, review, and comment, shall publish a proposed plan to restore and protect the natural resources, ecosystems, fisheries, marine and wildlife habitats, beaches, and coastal wetlands of the Gulf Coast region.
+
+#### (II) Inclusions
+
+&emsp;&emsp;&emsp;&emsp;The proposed plan described in subclause (I) shall include and incorporate the findings and information prepared by the President's Gulf Coast Restoration Task Force.
+
+#### (ii) Publication
+
+#### (I) Initial plan
+
+&emsp;&emsp;&emsp;&emsp;Not later than 1 year after July 6, 2012, and after notice and opportunity for public comment, the Chairperson, on behalf of the Council and after approval by the Council, shall publish in the Federal Register the initial Comprehensive Plan to restore and protect the natural resources, ecosystems, fisheries, marine and wildlife habitats, beaches, and coastal wetlands of the Gulf Coast region.
+
+#### (II) Cooperation with Gulf Coast Restoration Task Force
+
+&emsp;&emsp;&emsp;&emsp;The Council shall develop the initial Comprehensive Plan in close coordination with the President's Gulf Coast Restoration Task Force.
+
+#### (III) Considerations
+
+&emsp;&emsp;&emsp;&emsp;In developing the initial Comprehensive Plan and subsequent updates, the Council shall consider all relevant findings, reports, or research prepared or funded under section 1604 or 1605 of the Resources and Ecosystems Sustainability, Tourist Opportunities, and Revived Economies of the Gulf Coast States Act of 2012.
+
+#### (IV) Contents
+
+&emsp;&emsp;&emsp;&emsp;The initial Comprehensive Plan shall include—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) such provisions as are necessary to fully incorporate in the Comprehensive Plan the strategy, projects, and programs recommended by the President's Gulf Coast Restoration Task Force;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) a list of any project or program authorized prior to July 6, 2012, but not yet commenced, the completion of which would further the purposes and goals of this subsection and of the Resources and Ecosystems Sustainability, Tourist Opportunities, and Revived Economies of the Gulf Coast States Act of 2012;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) a description of the manner in which amounts from the Trust Fund projected to be made available to the Council for the succeeding 10 years will be allocated; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(dd) subject to available funding in accordance with clause (iii), a prioritized list of specific projects and programs to be funded and carried out during the 3-year period immediately following the date of publication of the initial Comprehensive Plan, including a table that illustrates the distribution of projects and programs by the Gulf Coast State.
+
+#### (V) Plan updates
+
+&emsp;&emsp;&emsp;&emsp;The Council shall update—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the Comprehensive Plan every 5 years in a manner comparable to the manner established in this subparagraph for each 5-year period for which amounts are expected to be made available to the Gulf Coast States from the Trust Fund; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the 3-year list of projects and programs described in subclause (IV)(dd) annually.
+
+#### (iii) Restoration priorities
+
+&emsp;&emsp;&emsp;Except for projects and programs described in clause (ii)(IV)(bb), in selecting projects and programs to include on the 3-year list described in clause (ii)(IV)(dd), based on the best available science, the Council shall give highest priority to projects that address 1 or more of the following criteria:
+
+&emsp;&emsp;&emsp;&emsp;(I) Projects that are projected to make the greatest contribution to restoring and protecting the natural resources, ecosystems, fisheries, marine and wildlife habitats, beaches, and coastal wetlands of the Gulf Coast region, without regard to geographic location within the Gulf Coast region.
+
+&emsp;&emsp;&emsp;&emsp;(II) Large-scale projects and programs that are projected to substantially contribute to restoring and protecting the natural resources, ecosystems, fisheries, marine and wildlife habitats, beaches, and coastal wetlands of the Gulf Coast ecosystem.
+
+&emsp;&emsp;&emsp;&emsp;(III) Projects contained in existing Gulf Coast State comprehensive plans for the restoration and protection of natural resources, ecosystems, fisheries, marine and wildlife habitats, beaches, and coastal wetlands of the Gulf Coast region.
+
+&emsp;&emsp;&emsp;&emsp;(IV) Projects that restore long-term resiliency of the natural resources, ecosystems, fisheries, marine and wildlife habitats, beaches, and coastal wetlands most impacted by the Deepwater Horizon oil spill.
+
+#### (E) Implementation
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The Council, acting through the Federal agencies represented on the Council and Gulf Coast States, shall expend funds made available from the Trust Fund to carry out projects and programs adopted in the Comprehensive Plan.
+
+#### (ii) Administrative responsibility
+
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;Primary authority and responsibility for each project and program included in the Comprehensive Plan shall be assigned by the Council to a Gulf Coast State represented on the Council or a Federal agency.
+
+#### (II) Transfer of amounts
+
+&emsp;&emsp;&emsp;&emsp;Amounts necessary to carry out each project or program included in the Comprehensive Plan shall be transferred by the Secretary of the Treasury from the Trust Fund to that Federal agency or Gulf Coast State as the project or program is implemented, subject to such conditions as the Secretary of the Treasury, in consultation with the Secretary of the Interior and the Secretary of Commerce, established pursuant to section 1602 of the Resources and Ecosystems Sustainability, Tourist Opportunities, and Revived Economies of the Gulf Coast States Act of 2012.
+
+#### (III) Limitation on transfers
+
+#### (aa) Grants to nongovernmental entities
+
+&emsp;&emsp;&emsp;&emsp;&emsp;In the case of funds transferred to a Federal or State agency under subclause (II), the agency shall not make 1 or more grants or cooperative agreements to a nongovernmental entity if the total amount provided to the entity would equal or exceed 10 percent of the total amount provided to the agency for that particular project or program, unless the 1 or more grants have been reported in accordance with item (bb).
+
+#### (bb) Reporting of grantees
+
+&emsp;&emsp;&emsp;&emsp;&emsp;At least 30 days prior to making a grant or entering into a cooperative agreement described in item (aa), the name of each grantee, including the amount and purpose of each grant or cooperative agreement, shall be published in the Federal Register and delivered to the congressional committees listed in subparagraph (C)(vii)(VII)(ff).
+
+#### (cc) Annual reporting of grantees
+
+&emsp;&emsp;&emsp;&emsp;&emsp;Annually, the name of each grantee, including the amount and purposes of each grant or cooperative agreement, shall be published in the Federal Register and delivered to Congress as part of the report submitted pursuant to subparagraph (C)(vii)(VII).
+
+#### (IV) Project and program limitation
+
+&emsp;&emsp;&emsp;&emsp;The Council, a Federal agency, or a State may not carry out a project or program funded under this paragraph outside of the Gulf Coast region.
+
+#### (F) Coordination
+
+&emsp;&emsp;The Council and the Federal members of the Council may develop memoranda of understanding establishing integrated funding and implementation plans among the member agencies and authorities.
+
+#### (3) Oil spill restoration impact allocation
+
+#### (A) In general
+
+#### (i) Disbursement
+
+&emsp;&emsp;&emsp;Of the total amount made available from the Trust Fund, 30 percent shall be disbursed pursuant to the formula in clause (ii) to the Gulf Coast States on the approval of the plan described in subparagraph (B)(i).
+
+#### (ii) Formula
+
+&emsp;&emsp;&emsp;Subject to subparagraph (B), for each Gulf Coast State, the amount disbursed under this paragraph shall be based on a formula established by the Council by regulation that is based on a weighted average of the following criteria:
+
+&emsp;&emsp;&emsp;&emsp;(I) 40 percent based on the proportionate number of miles of shoreline in each Gulf Coast State that experienced oiling on or before April 10, 2011, compared to the total number of miles of shoreline that experienced oiling as a result of the Deepwater Horizon oil spill.
+
+&emsp;&emsp;&emsp;&emsp;(II) 40 percent based on the inverse proportion of the average distance from the mobile offshore drilling unit <i>Deepwater Horizon</i> at the time of the explosion to the nearest and farthest point of the shoreline that experienced oiling of each Gulf Coast State.
+
+&emsp;&emsp;&emsp;&emsp;(III) 20 percent based on the average population in the 2010 decennial census of coastal counties bordering the Gulf of Mexico within each Gulf Coast State.
+
+#### (iii) Minimum allocation
+
+&emsp;&emsp;&emsp;The amount disbursed to a Gulf Coast State for each fiscal year under clause (ii) shall be at least 5 percent of the total amounts made available under this paragraph.
+
+#### (B) Disbursement of funds
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The Council shall disburse amounts to the respective Gulf Coast States in accordance with the formula developed under subparagraph (A) for projects, programs, and activities that will improve the ecosystems or economy of the Gulf Coast region, subject to the condition that each Gulf Coast State submits a plan for the expenditure of amounts disbursed under this paragraph that meets the following criteria:
+
+&emsp;&emsp;&emsp;&emsp;(I) All projects, programs, and activities included in the plan are eligible activities pursuant to clauses (i) and (ii) of paragraph (1)(B).
+
+&emsp;&emsp;&emsp;&emsp;(II) The projects, programs, and activities included in the plan contribute to the overall economic and ecological recovery of the Gulf Coast.
+
+&emsp;&emsp;&emsp;&emsp;(III) The plan takes into consideration the Comprehensive Plan and is consistent with the goals and objectives of the Plan, as described in paragraph (2)(B)(i).
+
+#### (ii) Funding
+
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;Except as provided in subclause (II), the plan described in clause (i) may use not more than 25 percent of the funding made available for infrastructure projects eligible under subclauses (VI) and (VII) of paragraph (1)(B)(i).
+
+#### (II) Exception
+
+&emsp;&emsp;&emsp;&emsp;The plan described in clause (i) may propose to use more than 25 percent of the funding made available for infrastructure projects eligible under subclauses (VI) and (VII) of paragraph (1)(B)(i) if the plan certifies that—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) ecosystem restoration needs in the State will be addressed by the projects in the proposed plan; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) additional investment in infrastructure is required to mitigate the impacts of the Deepwater Horizon Oil Spill to the ecosystem or economy.
+
+#### (iii) Development
+
+&emsp;&emsp;&emsp;The plan described in clause (i) shall be developed by—
+
+&emsp;&emsp;&emsp;&emsp;(I) in the State of Alabama, the Alabama Gulf Coast Recovery Council established under paragraph (1)(F)(i);
+
+&emsp;&emsp;&emsp;&emsp;(II) in the State of Florida, a consortia <sup>3</sup> of local political subdivisions that includes at a minimum 1 representative of each affected county;
+
+&emsp;&emsp;&emsp;&emsp;(III) in the State of Louisiana, the Coastal Protection and Restoration Authority of Louisiana;
+
+&emsp;&emsp;&emsp;&emsp;(IV) in the State of Mississippi, the Office of the Governor or an appointee of the Office of the Governor; and
+
+&emsp;&emsp;&emsp;&emsp;(V) in the State of Texas, the Office of the Governor or an appointee of the Office of the Governor.
+
+#### (iv) Approval
+
+&emsp;&emsp;&emsp;Not later than 60 days after the date on which a plan is submitted under clause (i), the Council shall approve or disapprove the plan based on the conditions of clause (i).
+
+#### (C) Disapproval
+
+&emsp;&emsp;If the Council disapproves a plan pursuant to subparagraph (B)(iv), the Council shall—
+
+&emsp;&emsp;&emsp;(i) provide the reasons for disapproval in writing; and
+
+&emsp;&emsp;&emsp;(ii) consult with the State to address any identified deficiencies with the State plan.
+
+#### (D) Failure to submit adequate plan
+
+&emsp;&emsp;If a State fails to submit an adequate plan under this paragraph, any funds made available under this paragraph shall remain in the Trust Fund until such date as a plan is submitted and approved pursuant to this paragraph.
+
+#### (E) Judicial review
+
+&emsp;&emsp;If the Council fails to approve or take action within 60 days on a plan, as described in subparagraph (B)(iv), the State may obtain expedited judicial review within 90 days of that decision in a district court of the United States, of appropriate jurisdiction and venue, that is located within the State seeking the review.
+
+#### (F) Cost-sharing
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;A Gulf Coast State or coastal political subdivision may use, in whole or in part, amounts made available to that Gulf Coast State or coastal political subdivision under this paragraph to satisfy the non-Federal share of any project or program that—
+
+&emsp;&emsp;&emsp;&emsp;(I) is authorized by other Federal law; and
+
+&emsp;&emsp;&emsp;&emsp;(II) is an eligible activity described in clause (i) or (ii) of paragraph (1)(B).
+
+#### (ii) Effect on other funds
+
+&emsp;&emsp;&emsp;The use of funds made available from the Trust Fund under this paragraph to satisfy the non-Federal share of the cost of a project or program described in clause (i) shall not affect the priority in which other Federal funds are allocated or awarded.
+
+#### (4) Authorization of interest transfers
+
+&emsp;Of the total amount made available for any fiscal year from the Trust Fund that is equal to the interest earned by the Trust Fund and proceeds from investments made by the Trust Fund in the preceding fiscal year—
+
+&emsp;&emsp;(A) 50 percent shall be divided equally between—
+
+&emsp;&emsp;&emsp;(i) the Gulf Coast Ecosystem Restoration Science, Observation, Monitoring, and Technology program authorized in section 1604 of the Resources and Ecosystems Sustainability, Tourist Opportunities, and Revived Economies of the Gulf Coast States Act of 2012; and
+
+&emsp;&emsp;&emsp;(ii) the centers of excellence research grants authorized in section 1605 of that Act; and
+
+&emsp;&emsp;(B) 50 percent shall be made available to the Gulf Coast Ecosystem Restoration Council to carry out the Comprehensive Plan pursuant to paragraph (2).
+
+(June 30, 1948, ch. 758, title III, §311, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 862; amended Pub. L. 93–207, §1(4), Dec. 28, 1973, 87 Stat. 906; Pub. L. 95–217, §§57, 58(a)–(g), (i), (k)–(m), Dec. 27, 1977, 91 Stat. 1593–1596; Pub. L. 95–576, §1(b), Nov. 2, 1978, 92 Stat. 2467; Pub. L. 96–478, §13(b), Oct. 21, 1980, 94 Stat. 2303; Pub. L. 96–483, §8, Oct. 21, 1980, 94 Stat. 2362; Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300; Pub. L. 97–164, title I, §161(5), Apr. 2, 1982, 96 Stat. 49; Pub. L. 100–4, title V, §502(b), Feb. 4, 1987, 101 Stat. 75; Pub. L. 101–380, title II, §2002(b), title IV, §§4201(a), (b), (b)\[(c)\], 4202(a), (c), 4204, 4301(a), (b), 4305, 4306, Aug. 18, 1990, 104 Stat. 507, 523–527, 532, 533, 540, 541; Pub. L. 102–388, title III, §349, Oct. 6, 1992, 106 Stat. 1554; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 104–324, title XI, §§1143, 1144, Oct. 19, 1996, 110 Stat. 3992; Pub. L. 105–383, title IV, §411, Nov. 13, 1998, 112 Stat. 3432; Pub. L. 108–293, title VII, §701(a), (b), (d), Aug. 9, 2004, 118 Stat. 1067, 1068; Pub. L. 109–241, title VI, §608, title IX, §901(i), July 11, 2006, 120 Stat. 558, 564; Pub. L. 112–90, §10, Jan. 3, 2012, 125 Stat. 1912; Pub. L. 112–141, div. A, title I, §1603, July 6, 2012, 126 Stat. 589.)
 
 #### References in Text
 
-The Outer Continental Shelf Lands Act, referred to in subsecs. (b)(1), (2)(A), (3) and (r), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification ofthis Act to the Code, see Short Title note set out under section 1331 of Title 43 and Tables.
+The Resources and Ecosystems Sustainability, Tourist Opportunities, and Revived Economies of the Gulf Coast States Act of 2012, referred to in subsecs. (a)(35) and (t)(2)(C)(vii)(IV), (VII)(ee), (D)(ii)(III), (IV)(bb), (E)(ii)(II), (4)(A), is subtitle F (§§1601–1608) of title I of div. A of Pub. L. 112–141, July 6, 2012, 126 Stat. 588, which is set out as a note below.
+
+The Outer Continental Shelf Lands Act, referred to in subsecs. (b)(1), (2)(A), (3) and (r), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1331 of Title 43 and Tables.
 
 The Deepwater Port Act of 1974, referred to in subsecs. (b)(1), (2)(A), (3) and (r), is Pub. L. 93–627, Jan. 3, 1975, 88 Stat. 2126, as amended, which is classified generally to chapter 29 (§1501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of this title and Tables.
 
@@ -650,15 +1252,23 @@ The Oil Pollution Act of 1990, referred to in subsecs. (c)(5)(B), (d)(2)(H), and
 
 Par. (3) of section 1901(a) of this title, referred to in subsec. (j)(5)(B), was redesignated par. (4) by Pub. L. 110–280, §3(1), July 21, 2008, 122 Stat. 2611.
 
+The Federal Advisory Committee Act, referred to in subsec. (t)(2)(C)(viii), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
 #### Codification
 
 In subsec. (b)(12)(A), “section 60105 of title 46” substituted for “section 4197 of the Revised Statutes of the United States (46 App. U.S.C. 91)” on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 60105 of Title 46, Shipping.
 
 #### Amendments
 
-<b>2012</b>—Subsec. (b)(6)(A). Pub. L. 112–90, §10(b), substituted “operating, the Secretary of Transportation, or” for “operating or” in concluding provisions.
+<b>2012</b>—Subsec. (a)(27) to (35). Pub. L. 112–141, §1603(1), added pars. (27) to (35).
+
+Subsec. (b)(6)(A). Pub. L. 112–90, §10(b), substituted “operating, the Secretary of Transportation, or” for “operating or” in concluding provisions.
 
 Subsec. (m)(2)(A), (B). Pub. L. 112–90, §10(a), which directed amendment of subpars. (A) and (B) by substituting “Administrator, the Secretary of Transportation, or” for “Administrator or” was executed by making the substitution the first place appearing in each subpar., to reflect the probable intent of Congress.
+
+Subsec. (s). Pub. L. 112–141, §1603(2), inserted “except as provided in subsection (t)” before period at end.
+
+Subsec. (t). Pub. L. 112–141, §1603(3), added subsec. (t).
 
 <b>2006</b>—Subsec. (a)(26). Pub. L. 109–241, §608, amended par. (26) generally. Prior to amendment, par. (26) read as follows: “ ‘nontank vessel’ means a self-propelled vessel of 400 gross tons as measured under section 14302 of title 46 or greater, other than a tank vessel, that carries oil of any kind as fuel for main propulsion and that—
 
@@ -678,7 +1288,7 @@ Subsec. (j)(5)(A). Pub. L. 108–293, §701(b)(2), (d)(3), designated existing t
 
 Subsec. (j)(5)(B). Pub. L. 108–293, §701(d)(2), added subpar. (B). Former subpar. (B) redesignated (C).
 
-Pub. L. 108–293, §701(b)(3), (4), inserted “, nontank vessels,” after “vessels” in introductory provisions, added cl. (ii), and redesignated former cls. (ii) and (iii) as (iii) and (iv), respectively.
+Pub. L. 108–293, §701(b)(3), (4), inserted “, nontank vessels,” after “vessels” in introductory provisions,added cl. (ii), and redesignated former cls. (ii) and (iii) as (iii) and (iv), respectively.
 
 Subsec. (j)(5)(C). Pub. L. 108–293, §701(d)(1), (4), redesignated subpar. (B) as (C) and substituted “subparagraphs (A) and (B)” for “subparagraph (A)” in introductory provisions. Former subpar. (C) redesignated (D).
 
@@ -748,7 +1358,7 @@ Subsec. (c). Pub. L. 101–380, §4201(a), amended subsec. (c) generally, substi
 
 Subsec. (d). Pub. L. 101–380, §4201(b), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Whenever a marine disaster in or upon the navigable waters of the United States has created a substantial threat of a pollution hazard to the public health or welfare of the United States, including, but not limited to, fish, shellfish, and wildlife and the public and private shorelines and beaches of the United States, because of a discharge, or an imminent discharge, of large quantities of oil, or of a hazardous substance from a vessel the United States may (A) coordinate and direct all public and private efforts directed at the removal or elimination of such threat; and (B) summarily remove, and, if necessary, destroy such vessel by whatever means are available without regard to any provisions of law governing the employment of personnel or the expenditure of appropriated funds. Any expense incurred under this subsection or under the Intervention on the High Seas Act (or the convention defined in section 2(3) thereof) shall be a cost incurred by the United States Government for the purposes of subsection (f) of this section in the removal of oil or hazardous substance.”
 
-Subsec. (e). Pub. L. 101–380, §4306, amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “In addition to any other action taken by a State or local government, when the President determines there is an imminent and substantial threat to the public health or welfare of the United States, including, but not limited to, fish, shellfish, and wildlife and public and private property, shorelines, and beaches within the United States, because of an actual or threatened discharge of oil or hazardous substance into or upon the navigable waters of the United States from an onshore or offshore facility, the President may require the United States attorney of the district in which the threat occurs to secure such relief as may be necessary to abate such threat, and the district courts of the United States shall have jurisdiction to grant such relief as the public interest and the equities of the case may require.”
+Subsec. (e). Pub. L. 101–380, §4306, amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “In addition to any other action taken by a State or local government, when the President determines there is an imminent and substantial threat to the public health or welfare of the United States, including, but not limited to, fish, shellfish, and wildlife and public and private property, shorelines, and beaches within the United States, because of an actual or threatened discharge of oil or hazardous substance into or uponthe navigable waters of the United States from an onshore or offshore facility, the President may require the United States attorney of the district in which the threat occurs to secure such relief as may be necessary to abate such threat, and the district courts of the United States shall have jurisdiction to grant such relief as the public interest and the equities of the case may require.”
 
 Subsec. (i). Pub. L. 101–380, §2002(b)(1), struck out par. (1) designation before “In any case” and struck out pars. (2) and (3) which read as follows:
 
@@ -758,13 +1368,13 @@ Subsec. (i). Pub. L. 101–380, §2002(b)(1), struck out par. (1) designation be
 
 Subsec. (j). Pub. L. 101–380, §4202(a), amended heading, inserted heading for par. (1) and realigned its margin, added pars. (2) to (8), and struck out former par. (2) which read as follows: “Any owner or operator of a vessel or an onshore facility or an offshore facility and any other person subject to any regulation issued under paragraph (1) of this subsection who fails or refuses to comply with the provisions of any such regulations, shall be liable to a civil penalty of not more than $5,000 for each such violation. This paragraph shall not apply to any owner or operator of any vessel from which oil or a hazardous substance is discharged in violation of paragraph (3)(ii) of subsection (b) of this section unless such owner, operator, or person in charge is otherwise subject to the jurisdiction of the United States. Each violation shall be a separate offense. The President may assess and compromise such penalty. No penalty shall be assessed until the owner, operator, or other person charged shall have been given notice and an opportunity for a hearing on such charge. In determining the amount of the penalty, or the amount agreed upon in compromise, the gravity of the violation, and the demonstrated good faith of the owner, operator, or other person charged in attempting to achieve rapid compliance, after notification of a violation, shall be considered by the President.”
 
-Subsec. (k). Pub. L. 101–380, §2002(b)(2), struck out subsec. (k) which authorized appropriations and supplemental appropriations to create and maintain a revolving fund to carry out subsecs. (c), (d), (i), and (<i>l</i>) of this section.
+Subsec. (k). Pub. L. 101–380, §2002(b)(2), struck out subsec. (k) which authorized appropriations and supplemental appropriations to create and maintain a revolving fund to carry out subsecs. (c), (d), (i), and (l) of this section.
 
-Subsec. (<i>l</i>). Pub. L. 101–380, §2002(b)(3), struck out after first sentence “Any moneys in the fund established by subsection (k) of this section shall be available to such Federal departments, agencies, and instrumentalities to carry out the provisions of subsections (c) and (i) of this section.”
+Subsec. (l). Pub. L. 101–380, §2002(b)(3), struck out after first sentence “Any moneys in the fund established by subsection (k) of this section shall be available to such Federal departments, agencies, and instrumentalities to carry out the provisions of subsections (c) and (i) of this section.”
 
 Subsec. (m). Pub. L. 101–380, §4305, amended subsec. (m) generally. Prior to amendment, subsec. (m) read as follows: “Anyone authorized by the President to enforce the provisions of this section may, except as to public vessels, (A) board and inspect any vessel upon the navigable waters of the United States or the waters of the contiguous zone, (B) with or without a warrant arrest any person who violates the provisions of this section or any regulation issued thereunder in his presence or view, and (C) execute any warrant or other process issued by an officer or court of competent jurisdiction.”
 
-Subsec. (<i>o</i>)(2). Pub. L. 101–380, §4202(c), inserted “, or with respect to any removal activities related to such discharge” after “within such State”.
+Subsec. (o)(2). Pub. L. 101–380, §4202(c), inserted “, or with respect to any removal activities related to such discharge” after “within such State”.
 
 Subsec. (p). Pub. L. 101–380, §2002(b)(4), struck out subsec. (p) which provided for establishment and maintenance of evidence of financial responsibility by vessels over 300 gross tons carrying oil or hazardous substances.
 
@@ -832,7 +1442,7 @@ Subsec. (i)(2). Pub. L. 95–217, §58(m), inserted reference to the Deepwater P
 
 Subsec. (j)(2). Pub. L. 95–217, §58(c)(3), inserted provision that subsec. (j)(2) shall not apply to any owner or operator of any vessel from which oil or a hazardous substance is discharged in violation of subsec. (b)(3)(ii) of this section unless the owner, operator, or person in charge is otherwise subject to the jurisdiction of the United States.
 
-Subsec. (k). Pub. L. 95–217, §58(<i>l</i>), substituted “such sums as may be necessary to maintain such fund at a level of $35,000,000” for “not to exceed $35,000,000”.
+Subsec. (k). Pub. L. 95–217, §58(l), substituted “such sums as may be necessary to maintain such fund at a level of $35,000,000” for “not to exceed $35,000,000”.
 
 Subsec. (p)(1). Pub. L. 95–217, §58(d)(4), substituted “, in the case of an inland oil barge $125 per gross ton of such barge, or $125,000, whichever is greater, and in the case of any other vessel, $150 per gross ton of such vessel (or, for a vessel carrying oil or hazardous substances as cargo, $250,000), whichever is greater,” for “$100 per gross ton, or $14,000,000 whichever is the lesser,”.
 
@@ -842,13 +1452,17 @@ Subsecs. (q), (r). Pub. L. 95–217, §58(i), added subsecs. (q) and (r).
 
 Subsecs. (g), (i). Pub. L. 93–207, §1(4)(C), substituted “(b)(3)” for “(b)(2)” wherever appearing.
 
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
+
 #### Effective Date of 2006 Amendment
 
 Pub. L. 109–241, title IX, §901(i)(2), July 11, 2006, 120 Stat. 564, provided in part that the amendment made by section 901(i)(2) is effective Aug. 9, 2004.
 
 #### Effective Date of 1996 Amendment
 
-Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
 #### Effective Date of 1992 Amendment
 
@@ -864,13 +1478,13 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 #### Effective Date of 1980 Amendments
 
-Section 238(b) of Pub. L. 96–561 provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
+Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300, provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
 
 Amendment by Pub. L. 96–478 effective Oct. 2, 1983, see section 14(a) of Pub. L. 96–478, set out as an Effective Date note under section 1901 of this title.
 
 #### Effective Date of 1977 Amendment
 
-Section 58(h) of Pub. L. 95–217 provided that: “The amendments made by paragraphs (5) and (6) of subsection (d) of this section \[amending this section\] shall take effect 180 days after the date of enactment of the Clean Water Act of 1977 \[Dec. 27, 1977\].”
+Pub. L. 95–217, §58(h), Dec. 27, 1977, 91 Stat. 1596, provided that: “The amendments made by paragraphs (5) and (6) of subsection (d) of this section \[amending this section\] shall take effect 180 days after the date of enactment of the Clean Water Act of 1977 \[Dec. 27, 1977\].”
 
 #### Transfer of Functions
 
@@ -889,6 +1503,244 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 #### Termination of United States District Court for the District of the Canal Zone
 
 For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
+
+#### Resources and Ecosystems Sustainability, Tourist Opportunities, and Revived Economies of the Gulf Coast States
+
+Pub. L. 112–141, div. A, title I, subtitle F, July 6, 2012, 126 Stat. 588, provided that:
+
+#### “SEC. 1601. SHORT TITLE.
+
+“This subtitle may be cited as the ‘Resources and Ecosystems Sustainability, Tourist Opportunities, and Revived Economies of the Gulf Coast States Act of 2012’.
+
+#### “SEC. 1602. GULF COAST RESTORATION TRUST FUND.
+
+“(a)
+
+Establishment.—There is established in the Treasury of the United States a trust fund to be known as the ‘Gulf Coast Restoration Trust Fund’ (referred to in this section as the ‘Trust Fund’), consisting of such amounts as are deposited in the Trust Fund under this Act \[probably means this subtitle\] or any other provision of law.
+
+“(b)
+
+Transfers.—The Secretary of the Treasury shall deposit in the Trust Fund an amount equal to 80 percent of all administrative and civil penalties paid by responsible parties after the date of enactment of this Act \[July 6, 2012\] in connection with the explosion on, and sinking of, the mobile offshore drilling unit <i>Deepwater Horizon</i> pursuant to a court order, negotiated settlement, or other instrument in accordance with section 311 of the Federal Water Pollution Control Act (33 U.S.C. 1321).
+
+“(c)
+
+Expenditures.—Amounts in the Trust Fund, including interest earned on advances to the Trust Fund and proceeds from investment under subsection (d), shall—
+
+&emsp;“(1) be available for expenditure, without further appropriation, solely for the purpose and eligible activities of this subtitle and the amendments made by this subtitle \[amending this section\]; and
+
+&emsp;“(2) remain available until expended, without fiscal year limitation.
+
+“(d)
+
+Investment.—Amounts in the Trust Fund shall be invested in accordance with section 9702 of title 31, United States Code, and any interest on, and proceeds from, any such investment shall be available for expenditure in accordance with this subtitle and the amendments made by this subtitle.
+
+“(e)
+
+Administration.—Not later than 180 days after the date of enactment of this Act, after providing notice and an opportunity for public comment, the Secretary of the Treasury, in consultation with the Secretary of the Interior and the Secretary of Commerce, shall establish such procedures as the Secretary determines to be necessary to deposit amounts in, and expend amounts from, the Trust Fund pursuant to this subtitle, including—
+
+&emsp;“(1) procedures to assess whether the programs and activities carried out under this subtitle and the amendments made by this subtitle achieve compliance with applicable requirements, including procedures by which the Secretary of the Treasury may determine whether an expenditure by a Gulf Coast State or coastal political subdivision (as those terms are defined in section 311 of the Federal Water Pollution Control Act (33 U.S.C. 1321)) pursuant to such a program or activity achieves compliance;
+
+&emsp;“(2) auditing requirements to ensure that amounts in the Trust Fund are expended as intended; and
+
+&emsp;“(3) procedures for identification and allocation of funds available to the Secretary under other provisions of law that may be necessary to pay the administrative expenses directly attributable to the management of the Trust Fund.
+
+“(f)
+
+Sunset.—The authority for the Trust Fund shall terminate on the date all funds in the Trust Fund have been expended.
+
+#### “SEC. 1603. GULF COAST NATURAL RESOURCES RESTORATION AND ECONOMIC RECOVERY.
+
+“\[Amended this section.\]
+
+#### “SEC. 1604. GULF COAST ECOSYSTEM RESTORATION SCIENCE, OBSERVATION, MONITORING, AND TECHNOLOGY PROGRAM.
+
+“(a)
+
+Definitions.—In this section:
+
+&emsp;“(1)
+
+Administrator.—The term ‘Administrator’ means the Administrator of the National Oceanic and Atmospheric Administration.
+
+&emsp;“(2)
+
+Commission.—The term ‘Commission’ means the Gulf States Marine Fisheries Commission.
+
+&emsp;“(3)
+
+Director.—The term ‘Director’ means the Director of the United States Fish and Wildlife Service.
+
+&emsp;“(4)
+
+Program.—The term ‘program’ means the Gulf Coast Ecosystem Restoration Science, Observation, Monitoring, and Technology program established under this section.
+
+“(b)
+
+Establishment of Program.—
+
+&emsp;“(1)
+
+In general.—Not later than 180 days after the date of enactment of this Act \[July 6, 2012\], the Administrator, in consultation with the Director, shall establish the Gulf Coast Ecosystem Restoration Science, Observation, Monitoring, and Technology program to carry out research, observation, and monitoring to support, to the maximum extent practicable, the long-term sustainability of the ecosystem, fish stocks, fish habitat, and the recreational, commercial, and charter fishing industry in the Gulf of Mexico.
+
+&emsp;“(2)
+
+Expenditure of funds.—For each fiscal year, amounts made available to carry out this subsection may be expended for, with respect to the Gulf of Mexico—
+
+&emsp;&emsp;“(A) marine and estuarine research;
+
+&emsp;&emsp;“(B) marine and estuarine ecosystem monitoring and ocean observation;
+
+&emsp;&emsp;“(C) data collection and stock assessments;
+
+&emsp;&emsp;“(D) pilot programs for—
+
+&emsp;&emsp;&emsp;“(i) fishery independent data; and
+
+&emsp;&emsp;&emsp;“(ii) reduction of exploitation of spawning aggregations; and
+
+&emsp;&emsp;“(E) cooperative research.
+
+&emsp;“(3)
+
+Cooperation with the commission.—For each fiscal year, amounts made available to carry out this subsection may be transferred to the Commission to establish a fisheries monitoring and research program, with respect to the Gulf of Mexico.
+
+&emsp;“(4)
+
+Consultation.—The Administrator and the Director shall consult with the Regional Gulf of Mexico Fishery Management Council and the Commission in carrying out the program.
+
+“(c)
+
+Species Included.—The research, monitoring, assessment, and programs eligible for amounts made available under the program shall include all marine, estuarine, aquaculture, and fish species in State and Federal waters of the Gulf of Mexico.
+
+“(d)
+
+Research Priorities.—In distributing funding under this subsection, priority shall be given to integrated, long-term projects that—
+
+&emsp;“(1) build on, or are coordinated with, related research activities; and
+
+&emsp;“(2) address current or anticipated marine ecosystem, fishery, or wildlife management information needs.
+
+“(e)
+
+Duplication.—In carrying out this section, the Administrator, in consultation with the Director, shall seek to avoid duplication of other research and monitoring activities.
+
+“(f)
+
+Coordination With Other Programs.—The Administrator, in consultation with the Director, shall develop a plan for the coordination of projects and activities between the program and other existing Federal and State science and technology programs in the States of Alabama, Florida, Louisiana, Mississippi, and Texas, as well as between the centers of excellence.
+
+“(g)
+
+Limitation on Expenditures.—
+
+&emsp;“(1)
+
+In general.—Not more than 3 percent of funds provided in subsection (h) shall be used for administrative expenses.
+
+&emsp;“(2)
+
+NOAA.—The funds provided in subsection (h) may not be used—
+
+&emsp;&emsp;“(A) for any existing or planned research led by the National Oceanic and Atmospheric Administration, unless agreed to in writing by the grant recipient;
+
+&emsp;&emsp;“(B) to implement existing regulations or initiate new regulations promulgated or proposed by the National Oceanic and Atmospheric Administration; or
+
+&emsp;&emsp;“(C) to develop or approve a new limited access privilege program (as that term is used in section 303A of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1853a)) for any fishery under the jurisdiction of the South Atlantic, Mid-Atlantic, New England, or Gulf of Mexico Fishery Management Councils.
+
+“(h)
+
+Funding.—Of the total amount made available for each fiscal year for the Gulf Coast Restoration Trust Fund established under section 1602, 2.5 percent shall be available to carry out the program.
+
+“(i)
+
+Sunset.—The program shall cease operations when all funds in the Gulf Coast Restoration Trust Fund established under section 1602 have been expended.
+
+#### “SEC. 1605. CENTERS OF EXCELLENCE RESEARCH GRANTS.
+
+“(a)
+
+In General.—Of the total amount made available for each fiscal year from the Gulf Coast Restoration Trust Fund established under section 1602, 2.5 percent shall be made available to the Gulf Coast States (as defined in section 311(a) of the Federal Water Pollution Control Act \[33 U.S.C. 1321(a)\] (as added by section 1603 of the Resources and Ecosystems Sustainability, Tourist Opportunities, and Revived Economies of the Gulf Coast States Act of 2012)), in equal shares, exclusively for grants in accordance with subsection (c) to establish centers of excellence to conduct research only on the Gulf Coast Region (as defined in section 311 of the Federal Water Pollution Control Act (33. \[sic\] U.S.C. 1321)).
+
+“(b)
+
+Approval by State Entity, Task Force, or Agency.—The duties of a Gulf Coast State under this section shall be carried out by the applicable Gulf Coast State entities, task forces, or agencies listed in section 311(t)(1)(F) of the Federal Water Pollution Control Act (as added by section 1603 of the Resources and Ecosystems Sustainability, Tourist Opportunities, and Revived Economies of the Gulf Coast States Act of 2012), and for the State of Florida, a consortium of public and private research institutions within the State, which shall include the Florida Department of Environmental Protection and the Florida Fish and Wildlife Conservation Commission, for that Gulf Coast State.
+
+“(c)
+
+Grants.—
+
+&emsp;“(1)
+
+In general.—A Gulf Coast State shall use the amounts made available to carry out this section to award competitive grants to nongovernmental entities and consortia in the Gulf Coast region (including public and private institutions of higher education) for the establishment of centers of excellence as described in subsection (d).
+
+&emsp;“(2)
+
+Application.—To be eligible to receive a grant under this subsection, an entity or consortium described in paragraph (1) shall submit to a Gulf Coast State an application at such time, in such manner, and containing such information as the Gulf Coast State determines to be appropriate.
+
+&emsp;“(3)
+
+Priority.—In awarding grants under this subsection, a Gulf Coast State shall give priority to entities and consortia that demonstrate the ability to establish the broadest cross-section of participants with interest and expertise in any discipline described in subsection (d) on which the proposal of the center of excellence will be focused.
+
+&emsp;“(4)
+
+Reporting.—
+
+&emsp;&emsp;“(A)
+
+In general.—Each Gulf Coast State shall provide annually to the Gulf Coast Ecosystem Restoration Council established under section 311(t)(2)(C) of the Federal Water Pollution Control Act \[31 U.S.C. 1321(t)(2)(C)\] (as added by section 1603 of the Resources and Ecosystems Sustainability, Tourist Opportunities, and Revived Economies of the Gulf Coast States Act of 2012) information regarding all grants, including the amount, discipline or disciplines, and recipients of the grants, and in the case of any grant awarded to a consortium, the membership of the consortium.
+
+&emsp;&emsp;“(B)
+
+Inclusion.—The Gulf Coast Ecosystem Restoration Council shall include the information received under subparagraph (A) in the annual report to Congress of the Council required under section 311(t)(2)(C)(vii)(VII) of the Federal Water PollutionControl Act (as added by section 1603 of the Resources and Ecosystems Sustainability, Tourist Opportunities, and Revived Economies of the Gulf Coast States Act of 2012).
+
+“(d)
+
+Disciplines.—Each center of excellence shall focus on science, technology, and monitoring in at least 1 of the following disciplines:
+
+&emsp;“(1) Coastal and deltaic sustainability, restoration and protection, including solutions and technology that allow citizens to live in a safe and sustainable manner in a coastal delta in the Gulf Coast Region.
+
+&emsp;“(2) Coastal fisheries and wildlife ecosystem research and monitoring in the Gulf Coast Region.
+
+&emsp;“(3) Offshore energy development, including research and technology to improve the sustainable and safe development of energy resources in the Gulf of Mexico.
+
+&emsp;“(4) Sustainable and resilient growth, economic and commercial development in the Gulf Coast Region.
+
+&emsp;“(5) Comprehensive observation, monitoring, and mapping of the Gulf of Mexico.
+
+#### “SEC. 1606. EFFECT.
+
+“(a)
+
+Definition of Deepwater Horizon Oil Spill.—In this section, the term ‘Deepwater Horizon oil spill’ has the meaning given the term in section 311(a) of the Federal Water Pollution Control Act (33 U.S.C. 1321(a)).
+
+“(b)
+
+Effect and Application.—Nothing in this subtitle or any amendment made by this subtitle—
+
+&emsp;“(1) supersedes or otherwise affects any other provision of Federal law, including, in particular, laws providing recovery for injury to natural resources under the Oil Pollution Act of 1990 (33 U.S.C. 2701 et seq.) and laws for the protection of public health and the environment; or
+
+&emsp;“(2) applies to any fine collected under section 311 of the Federal Water Pollution Control Act (33 U.S.C. 1321) for any incident other than the Deepwater Horizon oil spill.
+
+“(c)
+
+Use of Funds.—Funds made available under this subtitle may be used only for eligible activities specifically authorized by this subtitle and the amendments made by this subtitle.
+
+#### “SEC. 1607. RESTORATION AND PROTECTION ACTIVITY LIMITATIONS.
+
+“(a)
+
+Willing Seller.—Funds made available under this subtitle may only be used to acquire land or interests in land by purchase, exchange, or donation from a willing seller.
+
+“(b)
+
+Acquisition of Federal Land.—None of the funds made available under this subtitle may be used to acquire land in fee title by the Federal Government unless—
+
+&emsp;“(1) the land is acquired by exchange or donation; or
+
+&emsp;“(2) the acquisition is necessary for the restoration and protection of the natural resources, ecosystems, fisheries, marine and wildlife habitats, beaches, and coastal wetlands of the Gulf Coast region and has the concurrence of the Governor of the State in which the acquisition will take place.
+
+#### “SEC. 1608. INSPECTOR GENERAL.
+
+“The Office of the Inspector General of the Department of the Treasury shall have authority to conduct, supervise, and coordinate audits and investigations of projects, programs, and activities funded under this subtitle and the amendments made by this subtitle.”
 
 #### Rulemakings
 
@@ -948,21 +1800,21 @@ Definitions.—In this section—
 
 #### Oil Spill Liability Under Oil Pollution Act of 1990
 
-Section 2002(a) of Pub. L. 101–380 provided that: “Subsections (f), (g), (h), and (i) of section 311 of the Federal Water Pollution Control Act (33 U.S.C. 1321) shall not apply with respect to any incident for which liability is established under section 1002 of this Act \[33 U.S.C. 2702\].”
+Pub. L. 101–380, title II, §2002(a), Aug. 18, 1990, 104 Stat. 507, provided that: “Subsections (f), (g), (h), and (i) of section 311 of the Federal Water Pollution Control Act (33 U.S.C. 1321) shall not apply with respect to any incident for which liability is established under section 1002 of this Act \[33 U.S.C. 2702\].”
 
 #### Transfer of Moneys to Oil Spill Liability Trust Fund
 
-Section 2002(b)(2) of Pub. L. 101–380 provided that: “Subsection (k) \[of this section\] is repealed. Any amounts remaining in the revolving fund established under that subsection shall be deposited in the \[Oil Spill Liability Trust\] Fund. The Fund shall assume all liability incurred by the revolving fund established under that subsection.”
+Pub. L. 101–380, title II, §2002(b)(2), Aug. 18, 1990, 104 Stat. 507, provided that: “Subsection (k) \[of this section\] is repealed. Any amounts remaining in the revolving fund established under that subsection shall be deposited in the \[Oil Spill Liability Trust\] Fund. The Fund shall assume all liability incurred by the revolving fund established under that subsection.”
 
 #### Revision of National Contingency Plan
 
-Section 4201(c)\[(d)\] of Pub. L. 101–380 provided that: “Not later than one year after the date of the enactment of this Act \[Aug. 18, 1990\], the President shall revise and republish the National Contingency Plan prepared under section 311(c)(2) of the Federal Water Pollution Control Act \[33 U.S.C. 1321(c)(2)\] (as in effect immediately before the date of the enactment of this Act) to implement the amendments made by this section and section 4202 \[amending this section\].”
+Pub. L. 101–380, title IV, §4201(c)\[(d)\], Aug. 18, 1990, 104 Stat. 527, provided that: “Not later than one year after the date of the enactment of this Act \[Aug. 18, 1990\], the President shall revise and republish the National Contingency Plan prepared under section 311(c)(2) of the Federal Water Pollution Control Act \[33 U.S.C. 1321(c)(2)\] (as in effect immediately before the date of the enactment of this Act) to implement the amendments made by this section and section 4202 \[amending this section\].”
 
 \[For delegation of functions of President under section 4201(c) of Pub. L. 101–380, set out above, see Ex. Ord. No. 12580, Jan. 23, 1987, 52 F.R. 2923, as amended, set out as a note under section 9615 of Title 42, The Public Health and Welfare.\]
 
 #### Implementation of National Planning and Response System
 
-Section 4202(b) of Pub. L. 101–380 provided that:
+Pub. L. 101–380, title IV, §4202(b), Aug. 18, 1990, 104 Stat. 531, provided that:
 
 “(1)
 
@@ -980,7 +1832,7 @@ Area committees and contingency plans.—(A) Not later than 6 months after the d
 
 “(2)
 
-National response unit.—Not later than one year after the date of the enactment of this Act, theSecretary of the department in which the Coast Guard is operating shall establish a National Response Unit in accordance with section 311(j)(2) of the Federal Water Pollution Control Act, as amended by this Act.
+National response unit.—Not later than one year after the date of the enactment of this Act, the Secretary of the department in which the Coast Guard is operating shall establish a National Response Unit in accordance with section 311(j)(2) of the Federal Water Pollution Control Act, as amended by this Act.
 
 “(3)
 
@@ -1000,7 +1852,7 @@ Penalties paid pursuant to this section and sections 1319(c) and 1501 et seq. of
 
 #### Allowable Delay in Establishing Financial Responsibility for Increase in Amounts Under 1977 Amendment
 
-Section 58(j) of Pub. L. 95–217 provided that: “No vessel subject to the increased amounts which result from the amendments made by subsections (d)(2), (d)(3), and (d)(4) of this section \[amending this section\] shall be required to establish any evidence of financial responsibility under section 311(p) of the Federal Water Pollution Control Act \[subsec. (p) of this section\] for such increased amounts before October 1, 1978.”
+Pub. L. 95–217, §58(j), Dec. 27, 1977, 91 Stat. 1596, provided that: “No vessel subject to the increased amounts which result from the amendments made by subsections (d)(2), (d)(3), and (d)(4) of this section \[amending this section\] shall be required to establish any evidence of financial responsibility under section 311(p) of the Federal Water Pollution Control Act \[subsec. (p) of this section\] for such increased amounts before October 1, 1978.”
 
 #### Territorial Sea and Contiguous Zone of United States
 
@@ -1086,7 +1938,7 @@ Sec. 2. <i>National Response System</i>. (a) The functions vested in the Preside
 
 (i) The functions vested in the President by Section 311(j) of FWPCA or Section 4202(b)(4) of OPA which have been delegated or assigned by Section 2 of this order may be redelegated to the head of any Executive department or agency with his or her consent.
 
-Sec. 3. <i>Removal</i>. The functions vested in the President by Section 311(c) of FWPCA and Section 1011 of OPA \[33U.S.C. 2711\], respecting an effective and immediate removal or arrangement for removal of a discharge and mitigation or prevention of a substantial threat of a discharge of oil or a hazardous substance, the direction and monitoring of all Federal, State and private actions, the removal and destruction of a vessel, the issuance of directions, consulting with affected trustees, and removal completion determinations, are delegated to the Administrator for the inland zone and to the Secretary of the Department in which the Coast Guard is operating for the coastal zone.
+Sec. 3. <i>Removal</i>. The functions vested in the President by Section 311(c) of FWPCA and Section 1011 of OPA \[33 U.S.C. 2711\], respecting an effective and immediate removal or arrangement for removal of a discharge and mitigation or prevention of a substantial threat of a discharge of oil or a hazardous substance, the direction and monitoring of all Federal, State and private actions, the removal and destruction of a vessel, the issuance of directions, consulting with affected trustees, and removal completion determinations, are delegated to the Administrator for the inland zone and to the Secretary of the Department in which the Coast Guard is operating for the coastal zone.
 
 Sec. 4. <i>Liability Limit Adjustment</i>. (a) The functions vested in the President by Section 1004(d) of OPA \[33 U.S.C. 2704(d)\], respecting the establishment of limits of liability, with respect to classes or categories of non-transportation-related onshore facilities, the reporting to Congress on the desirability of adjusting limits of liability with respect to non-transportation-related onshore facilities, and the adjustment of limits of liability to reflect significant increases in the Consumer Price Index with respect to non-transportation-related onshore facilities, are delegated to the Administrator, acting in consultation with the Secretary of Transportation, the Secretary of Energy, and the Attorney General.
 
@@ -1104,7 +1956,7 @@ Sec. 5. <i>Financial Responsibility</i>. (a)(1) The functions vested in the Pres
 
 (3) The functions vested in the President by Section 4303 of OPA, respecting (in cases involving deepwater ports) the assessment of civil penalties, the compromising, modification or remission, with or without condition, and the referral for collection of such imposed penalties, and requests to the Attorney General to secure necessary judicial relief, are delegated to the Secretary of the Department in which the Coast Guard is operating.
 
-Sec. 6. <i>Enforcement</i>. (a) The functions vested in the President by Section 311(m)(1) of FWPCA, respecting the enforcement of Section 311 with respect to vessels, are delegated to the Secretary of the Department in which the Coast Guard is operating.
+Sec. 6. <i>Enforcement</i>. (a) The functions vested in the President by Section 311(m)(1) of FWPCA, respectingthe enforcement of Section 311 with respect to vessels, are delegated to the Secretary of the Department in which the Coast Guard is operating.
 
 (b) The functions vested in the President by Section 311(e) of FWPCA, respecting determinations of imminent and substantial threat, requesting the Attorney General to secure judicial relief, and other action including issuing administrative orders, are delegated to the Administrator for the inland zone and to the Secretary of the Department in which the Coast Guard is operating for the coastal zone.
 
@@ -1114,13 +1966,13 @@ Sec. 7. <i>Management of the Oil Spill Liability Trust Fund and Claims</i>. (a)(
 
 (2) The functions vested in the President by Section 1012(a)(2) of OPA \[33 U.S.C. 2712(a)(2)\], respecting the payment of costs and determining consistency with the NCP, are delegated to the Federal trustees designated in the NCP.
 
-(3) The functions vested in the President by Section 1012(a)(5) of OPA, respecting the payment of costs and expenses of departments and agencies having responsibility for the implementation, administration, and enforcement of the Oil Pollution Act of 1990 and subsections (b), (c), (d), (j) and (<i>l</i>) of Section 311 of FWPCA, are delegated to each head of such department and agency.
+(3) The functions vested in the President by Section 1012(a)(5) of OPA, respecting the payment of costs and expenses of departments and agencies having responsibility for the implementation, administration, and enforcement of the Oil Pollution Act of 1990 and subsections (b), (c), (d), (j) and (l) of Section 311 of FWPCA, are delegated to each head of such department and agency.
 
 (b) The functions vested in the President by Section 1012(c) of OPA, respecting designation of Federal officials who may obligate money, are delegated to each head of the departments and agencies to whom functions have been delegated under section 7(a) of this order for the purpose of carrying out such functions.
 
 (c)(1) The functions vested in the President by Section 1012(d) and (e) of OPA, respecting the obligation of the Trust Fund on the request of a Governor or pursuant to an agreement with a State, entrance into agreements with States, agreement upon terms and conditions, and the promulgation of regulations concerning such obligation and entrance into such agreement, are delegated to the Secretary of the Department in which the Coast Guard is operating, in consultation with the Administrator.
 
-(2) The functions vested in the President by Section 1013(e) of OPA \[33 U.S.C. 2713(e)\], respecting the promulgation and amendment of regulations for the presentation, filing, processing, settlement, and adjudication of claims under OPA against the Trust Fund, are delegated to the Secretary of the Department in which theCoast Guard is operating, in consultation with the Attorney General.
+(2) The functions vested in the President by Section 1013(e) of OPA \[33 U.S.C. 2713(e)\], respecting the promulgation and amendment of regulations for the presentation, filing, processing, settlement, and adjudication of claims under OPA against the Trust Fund, are delegated to the Secretary of the Department in which the Coast Guard is operating, in consultation with the Attorney General.
 
 (3) The functions vested in the President by Section 1012(a) of OPA, respecting the payment of costs, damages, and claims, delegated herein to the Secretary of the Department in which the Coast Guard is operating, include, <i>inter alia</i>, the authority to process, settle, and administratively adjudicate such costs, damages, and claims, regardless of amount.
 
@@ -1140,7 +1992,7 @@ Sec. 8. <i>Miscellaneous</i>. (a) The functions vested in the President by Secti
 
 (f) The function vested in the President by Section 5002(c)(2)(D) of OPA \[33 U.S.C. 2732(c)(2)(D)\], respecting the designating of an employee of the Federal Government who shall represent the Federal Government on the Oil Terminal Facilities and Oil Tanker Operations Associations, is delegated to the Secretary of the Department in which the Coast Guard is operating.
 
-(g) The functions vested in the President by Section 5002(<i>o</i>) of OPA, respecting the annual certification of alternative voluntary advisory groups, are delegated to the Secretary of the Department in which the Coast Guard is operating.
+(g) The functions vested in the President by Section 5002(o) of OPA, respecting the annual certification of alternative voluntary advisory groups, are delegated to the Secretary of the Department in which the Coast Guard is operating.
 
 (h) The function vested in the President by Section 7001(a)(3) of OPA \[33 U.S.C. 2761(a)(3)\], respecting the appointment of Federal agencies to membership on the Interagency Coordinating Committee on Oil Pollution Research, is delegated to the Secretary of the Department in which the Coast Guard is operating.
 
@@ -1156,7 +2008,51 @@ Sec. 10. <i>Litigation</i>. (a) Notwithstanding any other provision of this orde
 
 (d) The Attorney General, in his discretion, is authorized to require that, with respect to a particular oil spill, an agency refrain from taking administrative enforcement action without first consulting with the Attorney General.
 
+#### Ex. Ord. No. 13626. Gulf Coast Ecosystem Restoration
+
+Ex. Ord. No. 13626, Sept. 10, 2012, 77 F.R. 56749, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 311 of the Federal Water Pollution Control Act (FWPCA) (33 U.S.C. 1321), section 1006 of the Oil Pollution Act of 1990 (33 U.S.C. 2706), and section 301 of title 3, United States Code, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. Executive Order 13554 of October 5, 2010, was issued after the blowout and explosion of the mobile offshore drilling unit Deepwater Horizon that occurred on April 20, 2010, and resulted in the largest oil spill in U.S. history (Deepwater Horizon Oil Spill). Executive Order 13554 recognized the Gulf Coast as a national treasure and addressed the longstanding ecological decline of that region, which was compounded by the Deepwater Horizon Oil Spill. In doing so, Executive Order 13554 established a Gulf Coast Ecosystem Restoration Task Force (Task Force) to coordinate intergovernmental efforts, planning, and the exchange of information in order to better implement Gulf Coast ecosystem restoration and facilitate appropriate accountability and support throughout the restoration process.
+
+Since the implementation of Executive Order 13554, the Federal Government's Gulf Coast ecosystem restoration planning efforts have advanced significantly. The Task Force's Gulf of Mexico Regional Ecosystem Restoration Strategy (Strategy), created with input from Federal, State, tribal, and local governments, and thousands of involved citizens and organizations across the region, serves as a comprehensive restoration plan for addressing ecological concerns in the Gulf of Mexico. In light of the release of the Strategy, the ongoing work of the Natural Resource Damage Trustee Council (Trustee Council) under the Oil Pollution Act, and the recent passage of the Resources and Ecosystems Sustainability, Tourist Opportunities, and Revived Economies of the Gulf Coast States Act of 2012 (RESTORE Act) (title I, subtitle F of Public Law 112–141), this order affirms the Federal Government's Gulf Coast ecosystem restoration efforts and realigns responsibilities to ensure the most effective governmental planning and coordination to reach these goals.
+
+Sec. 2. <i>Termination of the Gulf Coast Ecosystem Restoration Task Force</i>. The progress of the Task Force is noteworthy. It has completed the Strategy and the preliminary planning and coordination tasks that it was intended to produce and has significantly advanced important ecosystem restoration goals for the Gulf of Mexico. In light of the recent creation, described below, of the Gulf Coast Ecosystem Restoration Council (Gulf Restoration Council), which will build upon the Task Force's already successful collaboration between Federal, State, and tribal governments and, as directed by statute, include and incorporate in its proposed comprehensive plan the findings and information prepared by the Task Force, the Task Force shall terminate no later than 60 days after the Gulf Restoration Council commences its work. The functions of the Task Force will be performed by the Gulf Restoration Council and the Trustee Council to the extent practicable, as set forth in this order. Prior to its termination, the Task Force will provide such assistance as is appropriate to the Gulf Restoration Council.
+
+Sec. 3. <i>The Gulf Coast Restoration Trust Fund and the Gulf Coast Ecosystem Restoration Council</i>.
+
+(a) <i>Gulf Coast Restoration Trust Fund</i>. The RESTORE Act, which was signed into law as part of the Moving Ahead for Progress in the 21st Century Act (Public Law 112–141), established a mechanism for providing funding to the Gulf region to restore ecosystems and rebuild local economies damaged by the Deepwater Horizon Oil Spill. The RESTORE Act established in the Treasury of the United States the Gulf Coast Restoration Trust Fund (Trust Fund), consisting of 80 percent of an amount equal to any administrative and civil penalties paid after the date of the RESTORE Act by the responsible parties in connection with the Deepwater Horizon Oil Spill to the United States pursuant to a court order, negotiated settlement, or other instrument in accordance with section 311 of the FWPCA (33 U.S.C. 1321).
+
+(b) <i>Gulf Coast Ecosystem Restoration Council</i>. The RESTORE Act established the Gulf Restoration Council, an independent entity charged with developing a comprehensive plan for ecosystem restoration in the Gulf Coast (Comprehensive Plan), as well as any future revisions to the Comprehensive Plan. Among its other duties, the Gulf Restoration Council is tasked with identifying projects and programs aimed at restoring and protecting the natural resources and ecosystems of the Gulf Coast region, to be funded from a portion of the Trust Fund; establishing such other advisory committees as may be necessary to assist the Gulf Restoration Council, including a scientific advisory committee and a committee to advise the Gulf Restoration Council on public policy issues; gathering information relevant to Gulf Coast restoration, including through research, modeling, and monitoring; and providing an annual report to the Congress on implementation progress. Consistent with the RESTORE Act, the Comprehensive Plan developed by the Gulf Restoration Council will include provisions necessary to fully incorporate the Strategy, projects, and programs recommended by the Task Force.
+
+(c) Federal members of the Gulf Restoration Council and Trustee Council, as well as all Federal entities involved in Gulf Coast restoration, shall work closely with one another to advance their common goals, reduce duplication, and maximize consistency among their efforts. All Federal members are directed to consult with each other and with all non-federal members in carrying out their duties on the Gulf Restoration Council.
+
+Sec. 4. <i>Ongoing Role of the Natural Resource Damage Assessment Trustee Council</i>. (a) Executive Order 13554 recognized the role of the Trustee Council, and designated trustees as provided in 33 U.S.C. 2706, with trusteeship over natural resources injured, lost, or destroyed as a result of the Deepwater Horizon Oil Spill. Specifically, Executive Order 13554 recognized the importance of carefully coordinating the work of the Task Force with the Trustee Council, whose members have statutory responsibility to assess natural resources damages from the Deepwater Horizon Oil Spill, to restore trust resources, and seek compensation for lost use of those trust resources. Section 3(b) of Executive Order 13554 instructed the Task Force to “support the Natural Resource Damage Assessment process by referring potential ecosystem restoration actions to the \* \* \* Trustee Council for consideration and facilitating coordination among the relevant departments, agencies, and offices, as appropriate, subject to the independent statutory responsibilities of the trustees.” The Department of Commerce (through the National Oceanic and Atmospheric Administration), the Department of the Interior (through the Fish and Wildlife Service and the National Park Service), and the Department ofJustice have worked to identify linkages and opportunities for the Task Force to complement the restoration progress of the Trustee Council.
+
+(b) Section 7(e) of Executive Order 13554 provides that nothing in that order shall interfere with the statutory responsibilities and authority of the Trustee Council or the individual trustees to carry out their statutory responsibilities to assess natural resource damages and implement restoration actions under 33 U.S.C. 2706 and other applicable law. Agencies that were members of the Task Force shall continue to comply with these requirements.
+
+Sec. 5. <i>Designating Trustees for Natural Resource Damage Assessment</i>. Given their authorities, programs, and expertise, the Environmental Protection Agency (EPA) and the Department of Agriculture (USDA) have institutional capacities that can contribute significantly to the Natural Resource Damage Assessment and restoration efforts, including scientific and policy expertise as well as experience gained in the Task Force process and other planning efforts in the Gulf area. In addition, EPA's and USDA's relevant authorities cover a range of natural resources and their supporting ecosystems, including waters, sediments, barrier islands, wetlands, soils, land management, air resources, and drinking water supplies. The inclusion of EPA and USDA as trustees participating in the Natural Resource Damage Assessment and restoration efforts will maximize coordination across the Federal Government and enhance overall efficiencies regarding Gulf Coast ecosystem restoration. Accordingly, without limiting the designations in Executive Order 12777 of October 18, 1991, or any other existing designations, and pursuant to section 2706(b)(2) of title 33, United States Code, I hereby designate the Administrator of EPA and the Secretary of Agriculture as additional trustees for Natural Resource Damage Assessment and restoration solely in connection with injury to, destruction of, loss of, or loss of use of natural resources, including their supporting ecosystems, resulting from the Deepwater Horizon Oil Spill. The addition of these Federal trustees does not, in and of itself, alter any existing agreements among or between the trustees and any other entity. All Federal trustees are directed to consult, coordinate, and cooperate with each other in carrying out all of their trustee duties and responsibilities.
+
+The Administrator of EPA is hereby directed to revise Subpart G of the National Oil and Hazardous Substances Pollution Contingency Plan to reflect the designations for the Deepwater Horizon Oil Spill discussed in this section.
+
+Sec. 6. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to a department or agency, or the head thereof; or
+
+(ii) the functions of the Trustee Council, or those of the Director of the Office of Management and Budget, relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(d) Executive Order 13554 of October 5, 2010, is hereby revoked concurrent with the termination of the Task Force under the terms described in section 2 of this order.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <i><sup>1</sup></i><i> So in original.</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be “consortium”.</i>
 

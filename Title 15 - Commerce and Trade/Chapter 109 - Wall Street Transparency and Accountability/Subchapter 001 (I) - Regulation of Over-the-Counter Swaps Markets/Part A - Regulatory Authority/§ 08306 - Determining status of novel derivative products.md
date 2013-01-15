@@ -34,7 +34,7 @@
 
 &emsp;&emsp;&emsp;(ii) the Securities and Exchange Commission from requesting that the Commodity Futures Trading Commission grant an exemption pursuant to section 6(c)(1) of title 7 with respect to a product that is the subject of a filing under paragraph (1),
 
-> &emsp;&emsp;<i>Provided</i>, however, that nothing in this subparagraph shall be construed to require the Commodity Futures Trading Commission or the Securities and Exchange Commission to issue an exemption requested pursuant to this subparagraph; <i>provided further</i>, That anorder granting or denying an exemption described in this subparagraph and issued under paragraph (3)(B) shall not be subject to judicial review pursuant to subsection (b).
+> &emsp;&emsp;<i>Provided</i>, however, that nothing in this subparagraph shall be construed to require the Commodity Futures Trading Commission or the Securities and Exchange Commission toissue an exemption requested pursuant to this subparagraph; <i>provided further</i>, That an order granting or denying an exemption described in this subparagraph and issued under paragraph (3)(B) shall not be subject to judicial review pursuant to subsection (b).
 
 #### (E) Withdrawal of request
 

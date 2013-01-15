@@ -16,7 +16,7 @@ Subject to the provisions of this chapter—
 
 The aggregate payments to which the eligible candidates of a political party shall be entitled under subsections (a)(2) and (3) with respect to a presidential election shall not exceed an amount equal to the lower of—
 
-&emsp;(1) the amount of qualified campaign expenses incurred by such eligible candidates and their authorized committees, reduced bythe amount of contributions to defray qualified campaign expenses received and expended or retained by such eligible candidates and such committees, or
+&emsp;(1) the amount of qualified campaign expenses incurred by such eligible candidates and their authorized committees, reduced by the amount of contributions to defray qualified campaign expenses received and expended or retained by such eligible candidates and such committees, or
 
 &emsp;(2) the aggregate payments to which the eligible candidates of a major party are entitled under subsection (a)(1), reduced by the amount of contributions described in paragraph (1) of this subsection.
 
@@ -58,7 +58,7 @@ Subsec. (a)(3). Pub. L. 93–443, §404(b)(2), substituted “allowed” for “
 
 #### Effective Date of 1976 Amendment
 
-Section 301(b) of Pub. L. 94–283, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “For purposes of applying section 9004(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as added by subsection (a), expenditures made by an individual after January 29, 1976, and before the date of the enactment of this Act \[May 11, 1976\] shall not be taken into account.”
+Pub. L. 94–283, title III, §301(b), May 11, 1976, 90 Stat. 498, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “For purposes of applying section 9004(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as added by subsection (a), expenditures made by an individual after January 29, 1976, and before the date of the enactment of this Act \[May 11, 1976\] shall not be taken into account.”
 
 #### Effective Date of 1974 Amendment
 

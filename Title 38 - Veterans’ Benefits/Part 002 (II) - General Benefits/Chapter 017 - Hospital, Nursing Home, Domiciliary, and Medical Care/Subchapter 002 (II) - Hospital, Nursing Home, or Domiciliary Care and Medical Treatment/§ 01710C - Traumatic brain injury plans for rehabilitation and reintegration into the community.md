@@ -4,7 +4,7 @@
 
 Plan Required.—The Secretary shall, for each individual who is a veteran or member of the Armed Forces who receives inpatient or outpatient rehabilitative hospital care or medical services provided by the Department for a traumatic brain injury—
 
-&emsp;(1) develop an individualized plan for the rehabilitation and reintegration of the individual into the community; and
+&emsp;(1) develop an individualized plan for the rehabilitation and reintegration of the individual into the community with the goal of maximizing the individual's independence; and
 
 &emsp;(2) provide such plan in writing to the individual—
 
@@ -16,11 +16,11 @@ Plan Required.—The Secretary shall, for each individual who is a veteran or me
 
 Contents of Plan.—Each plan developed under subsection (a) shall include, for the individual covered by such plan, the following:
 
-&emsp;(1) Rehabilitation objectives for improving the physical, cognitive, and vocational functioning of the individual with the goal of maximizing the independence and reintegration of such individual into the community.
+&emsp;(1) Rehabilitation objectives for improving (and sustaining improvement in) the physical, cognitive, behavioral, and vocational functioning of the individual with the goal of maximizing the independence and reintegration of such individual into the community.
 
-&emsp;(2) Access, as warranted, to all appropriate rehabilitative components of the traumatic brain injury continuum of care, and where appropriate, to long-term care services.
+&emsp;(2) Access, as warranted, to all appropriate rehabilitative services and rehabilitative components of the traumatic brain injury continuum of care, and where appropriate, to long-term care services.
 
-&emsp;(3) A description of specific rehabilitative treatments and other services to achieve the objectives described in paragraph (1), which shall set forth the type, frequency, duration, and location of such treatments and services.
+&emsp;(3) A description of specific rehabilitative services and other services to achieve the objectives described in paragraph (1), which shall set forth the type, frequency, duration, and location of such services.
 
 &emsp;(4) The name of the case manager designated in accordance with subsection (d) to be responsible for the implementation of such plan.
 
@@ -72,7 +72,7 @@ Comprehensive Assessment.—(1) Each plan developed under subsection (a) shall b
 
 &emsp;(R) A dietician.
 
-&emsp;(S) An opthamologist.<sup>1</sup>
+&emsp;(S) An ophthalmologist.
 
 &emsp;(T) A psychiatrist.
 
@@ -112,11 +112,35 @@ Request for review by veterans.—In addition to the periodic review required by
 
 State Designated Protection and Advocacy System Defined.—In this section, the term “State protection and advocacy system” means a system established in a State under subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 (42 U.S.C. 15041 et seq.) to protect and advocate for the rights of persons with development disabilities.
 
-(Added Pub. L. 110–181, div. A, title XVII, §1702(a), Jan. 28, 2008, 122 Stat. 486.)
+(h)
+
+Rehabilitative Services Defined.—For purposes of this section, and sections 1710D and 1710E of this title, the term “rehabilitative services” includes—
+
+&emsp;(1) rehabilitative services, as defined in section 1701 of this title;
+
+&emsp;(2) treatment and services (which may be of ongoing duration) to sustain, and prevent loss of, functional gains that have been achieved; and
+
+&emsp;(3) any other rehabilitative services or supports that may contribute to maximizing an individual's independence.
+
+(Added Pub. L. 110–181, div. A, title XVII, §1702(a), Jan. 28, 2008, 122 Stat. 486; amended Pub. L. 112–154, title I, §107(a), (d), Aug. 6, 2012, 126 Stat. 1173.)
 
 #### References in Text
 
 The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (g), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677. Subtitle C of the Act probably means subtitle C of title I of the Act, which is classified generally to part C (§15041 et seq.) of subchapter I of chapter 144 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of Title 42 and Tables.
+
+#### Amendments
+
+<b>2012</b>—Subsec. (a)(1). Pub. L. 112–154, §107(a)(1), inserted “with the goal of maximizing the individual's independence” before semicolon.
+
+Subsec. (b)(1). Pub. L. 112–154, §107(a)(2)(A), inserted “(and sustaining improvement in)” after “improving” and “behavioral,” after “cognitive,”.
+
+Subsec. (b)(2). Pub. L. 112–154, §107(a)(2)(B), inserted “rehabilitative services and” before “rehabilitative components”.
+
+Subsec. (b)(3). Pub. L. 112–154, §107(a)(2)(C), substituted “rehabilitative services” for “rehabilitative treatments” and struck out “treatments and” after “location of such”.
+
+Subsec. (c)(2)(S). Pub. L. 112–154, §107(d), substituted “ophthalmologist” for “opthamologist”.
+
+Subsec. (h). Pub. L. 112–154, §107(a)(3), added subsec. (h).
 
 #### Research, Education, and Clinical Care Program on Traumatic Brain Injury
 
@@ -240,7 +264,7 @@ Report.—
 
 &emsp;“(1)
 
-In general.—Not later than 60 days after the completion of the pilot program, the Secretary shallsubmit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the pilot program.
+In general.—Not later than 60 days after the completion of the pilot program, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the pilot program.
 
 &emsp;“(2)
 
@@ -269,6 +293,4 @@ Definitions.—In this section:
 &emsp;&emsp;“(C) is unable to manage routine activities of daily living without supervision and assistance, as determined by the Secretary; and
 
 &emsp;&emsp;“(D) could reasonably be expected to receive ongoing services after the end of the pilot program under this section under another program of the Federal Government or through other means, as determined by the Secretary.”
-
-<i><sup>1</sup></i><i> So in original.</i>
 

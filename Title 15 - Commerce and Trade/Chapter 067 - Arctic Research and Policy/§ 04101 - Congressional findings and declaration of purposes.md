@@ -44,7 +44,7 @@
 
 &emsp;(3) to designate the National Science Foundation as the lead agency responsible for implementing Arctic research policy; and
 
-&emsp;(4) to establish an Interagency Arctic Research Policy Committee to develop a nationalArctic research policy and a five year plan to implement that policy.
+&emsp;(4) to establish an Interagency Arctic Research Policy Committee to develop a national Arctic research policy and a five year plan to implement that policy.
 
 (Pub. L. 98–373, title I, §102, July 31, 1984, 98 Stat. 1242; Pub. L. 103–199, title VI, §601, Dec. 17, 1993, 107 Stat. 2327.)
 
@@ -56,7 +56,7 @@ Subsec. (a)(10). Pub. L. 103–199, §601(2), struck out “, particularly the 
 
 #### Short Title
 
-Section 101 of title I of Pub. L. 98–373 provided that: “This title \[enacting this chapter\] may be cited as the ‘Arctic Research and Policy Act of 1984’.”
+Pub. L. 98–373, title I, §102, July 31, 1984, 98 Stat. 1242, provided that: “This title \[enacting this chapter\] may be cited as the ‘Arctic Research and Policy Act of 1984’.”
 
 #### Ex. Ord. No. 12501. Arctic Research
 
@@ -76,7 +76,7 @@ Sec. 2. <i>Membership of the Commission</i>. (a) The Commission shall be compose
 
 The Director of the National Science Foundation shall serve as a nonvoting <i>ex officio</i> member of the Commission. The President shall designate a Chairperson from among the five voting members of the Commission.
 
-(b) In making initial appointments to the Commission, the President shall designate one member to serve for a term of two years, two members to serve for terms of three years, and two members to serve for terms of four years as provided by Section 103(c) of the Act \[15 U.S.C. 4102(c)\]. Upon the expiration of these initial terms of office, the term of office of each member of the Commission shall be four years.
+(b) In making initial appointments to the Commission, the President shall designate one member to serve for a term of two years, two members to serve for terms of three years, and two members to serve forterms of four years as provided by Section 103(c) of the Act \[15 U.S.C. 4102(c)\]. Upon the expiration of these initial terms of office, the term of office of each member of the Commission shall be four years.
 
 (c) Each of the Federal agencies represented on the Interagency Committee established by Section 7 of this Order may designate a representative to participate as an observer with the Commission. These representatives shall report to and advise the Commission on the activities of their agencies relating to Arctic research.
 
@@ -140,7 +140,7 @@ Sec. 8. <i>Membership of the Interagency Committee</i>. The Interagency Committe
 
 (k) Environmental Protection Agency;
 
-(<i>l</i>) Office of Science and Technology Policy; and
+(l) Office of Science and Technology Policy; and
 
 (m) any other Executive agency that the Director of the National Science Foundation shall deem appropriate. The Director of the National Science Foundation or his designee shall serve as Chairperson of the Interagency Committee.
 

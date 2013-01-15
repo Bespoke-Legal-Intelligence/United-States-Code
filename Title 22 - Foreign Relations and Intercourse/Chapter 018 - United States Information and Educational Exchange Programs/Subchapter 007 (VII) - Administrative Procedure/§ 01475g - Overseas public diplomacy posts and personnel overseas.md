@@ -38,5 +38,5 @@ Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. 
 
 #### Reductions in American Employees
 
-Section 206(b) of Pub. L. 102–138, which provided that reductions could not be made in number of American employees of United States Information Agency stationed abroad until number of such employees was same percentage of total number of American employees of Agency as number of American employees of Agency stationed abroad in 1981 was to total number of American employees at Agency at same time in 1981, was repealed by Pub. L. 105–277, div. G, subdiv. A, title XIII, §1336(4), Oct. 21, 1998, 112 Stat. 2681–790.
+Pub. L. 102–138, title II, §206(b), Oct. 28, 1991, 105 Stat. 693, which provided that reductions could not be made in number of American employees of United States Information Agency stationed abroad until number of such employees was same percentage of total number of American employees of Agency as number of American employees of Agency stationed abroad in 1981 was to total number of American employees at Agency at same time in 1981, was repealed by Pub. L. 105–277, div. G, subdiv. A, title XIII, §1336(4), Oct. 21, 1998, 112 Stat. 2681–790.
 

@@ -54,7 +54,7 @@ Ex. Ord. No. 11864, June 13, 1975, 40 F.R. 25579, which placed the position of A
 
 #### Executive Order No. 11995
 
-Ex. Ord. No. 11995, June 8, 1977, 42 F.R. 29841, which placed the position of Executive Director, Federal Personnel Management Systems Study, United StatesCivil Service Commission, in level V of the Executive Schedule, was revoked by Ex. Ord. No. 12060, May 15, 1978, 43 F.R. 21315.
+Ex. Ord. No. 11995, June 8, 1977, 42 F.R. 29841, which placed the position of Executive Director, Federal Personnel Management Systems Study, United States Civil Service Commission, in level V of the Executive Schedule, was revoked by Ex. Ord. No. 12060, May 15, 1978, 43 F.R. 21315.
 
 #### Executive Order No. 12076
 

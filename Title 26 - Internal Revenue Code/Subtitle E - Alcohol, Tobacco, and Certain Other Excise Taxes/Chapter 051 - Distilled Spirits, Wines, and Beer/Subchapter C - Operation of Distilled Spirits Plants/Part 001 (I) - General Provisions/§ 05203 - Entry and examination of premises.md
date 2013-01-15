@@ -10,7 +10,7 @@ It shall be lawful for any internal revenue officer at all times, as well by nig
 
 #### (c) Furnishing facilities and assistance
 
-On the demand of any internal revenue officer or agent, every proprietor of a distilled spirits plant shall furnish the necessary facilities and assistance to enable the officer or agent to gauge the spirits in any container or to examine any apparatus, equipment, containers, or materials on such premises. Such proprietor shall also, on demand of such officer or agent, open all doors, and open for examination all boxes, packages, and all casks, barrels, and other vessels on such premises.
+On the demand of any internal revenue officer or agent, every proprietor of a distilled spiritsplant shall furnish the necessary facilities and assistance to enable the officer or agent to gauge the spirits in any container or to examine any apparatus, equipment, containers, or materials on such premises. Such proprietor shall also, on demand of such officer or agent, open all doors, and open for examination all boxes, packages, and all casks, barrels, and other vessels on such premises.
 
 #### (d) Authority to break up grounds or walls
 

@@ -1,6 +1,6 @@
 ### §3573. Petition of the Government for modification or remission
 
-Upon petition of the Government showing that reasonable efforts to collect a fine or assessment are not likely to be effective, the court may, in the interest of justice—
+Upon petition of the Government showing that reasonable efforts to collect a fine or assessmentare not likely to be effective, the court may, in the interest of justice—
 
 &emsp;(1) remit all or part of the unpaid portion of the fine or special assessment, including interest and penalties;
 

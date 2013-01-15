@@ -2,7 +2,7 @@
 
 An employee shall be a “qualified employee” if the Board finds that his compensation with respect to the base year will have been not less than 2.5 times the monthly compensation base for months in such base year as computed under section 351(i) of this title, and, if such employee has had no compensation prior to such year, that he will have had compensation with respect to each of not less than five months in such year.
 
-(June 25, 1938, ch. 680, §3, 52 Stat. 1097; June 20, 1939, ch. 227, §10, 53 Stat. 845; Oct. 10, 1940, ch.842, §13, 54 Stat. 1097; July 31, 1946, ch. 709, §308, 60 Stat. 737; May 15, 1952, ch. 290, §2, 66 Stat. 73; Aug. 31, 1954, ch. 1164, pt. III, §303, 68 Stat. 1041; Pub. L. 86–28, pt. III, §304, May 19, 1959, 73 Stat. 31; Pub. L. 88–133, title III, §301(a), Oct. 5, 1963, 77 Stat. 222; Pub. L. 90–257, title II, §203, Feb. 15, 1968, 82 Stat. 24; Pub. L. 94–92, title I, §1(f), Aug. 9, 1975, 89 Stat. 463; Pub. L. 98–76, title IV, §411(a)(2), Aug. 12, 1983, 97 Stat. 436; Pub. L. 100–647, title VII, §7202(a), Nov. 10, 1988, 102 Stat. 3776.)
+(June 25, 1938, ch. 680, §3, 52 Stat. 1097; June 20, 1939, ch. 227, §10, 53 Stat. 845; Oct. 10, 1940, ch. 842, §13, 54 Stat. 1097; July 31, 1946, ch. 709, §308, 60 Stat. 737; May 15, 1952, ch. 290, §2, 66 Stat. 73; Aug. 31, 1954, ch. 1164, pt. III, §303, 68 Stat. 1041; Pub. L. 86–28, pt. III, §304, May 19, 1959, 73 Stat. 31; Pub. L. 88–133, title III, §301(a), Oct. 5, 1963, 77 Stat. 222; Pub. L. 90–257, title II, §203, Feb. 15, 1968, 82 Stat. 24; Pub. L. 94–92, title I, §1(f), Aug. 9, 1975, 89 Stat. 463; Pub. L. 98–76, title IV, §411(a)(2), Aug. 12, 1983, 97 Stat. 436; Pub. L. 100–647, title VII, §7202(a), Nov. 10, 1988, 102 Stat. 3776.)
 
 #### Amendments
 
@@ -30,7 +30,7 @@ An employee shall be a “qualified employee” if the Board finds that his comp
 
 #### Effective Date of 1988 Amendment
 
-Section 7202(b) of Pub. L. 100–647 provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 10, 1988\].”
+Pub. L. 100–647, title VII, §7202(b), Nov. 10, 1988, 102 Stat. 3776, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 10, 1988\].”
 
 #### Effective Date of 1983 Amendment
 
@@ -46,7 +46,7 @@ Amendment by Pub. L. 90–257 effective with respect to base years beginning in 
 
 #### Effective Date of 1963 Amendment
 
-Section 301(b) of Pub. L. 88–133 provided that: “The amendment made by subsection (a) \[amending this section\] shall be fully effective with respect to base years after 1963. With respect to the base year 1963, they shall be applicable only to an employee concerning whom the Railroad Retirement Board finds that his compensation in that portion of the calendar year 1963 preceding the first day of the calendar month next following the month of enactment of this Act \[October 1963\] will have been less than $500.”
+Pub. L. 88–133, title III, §301(b), Oct. 5, 1963, 77 Stat. 222, provided that: “The amendment made by subsection (a) \[amending this section\] shall be fully effective with respect to base years after 1963. With respect to the base year 1963, they shall be applicable only to an employee concerning whom the Railroad Retirement Board finds that his compensation in that portion of the calendar year 1963 preceding the first day of the calendar month next following the month of enactment of this Act \[October 1963\] will have been less than $500.”
 
 #### Effective Date of 1959 Amendment
 

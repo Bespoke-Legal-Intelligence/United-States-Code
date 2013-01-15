@@ -16,7 +16,7 @@ Personnel From Other Agencies.—Notwithstanding section 973 of title 10 or any 
 
 Detail of Field Personnel to District of Columbia.—The Administrator, in the Administrator's discretion, may detail field personnel of the Administration to the District of Columbia for temporary duty for a period of not more than 30 days in any one case. Subsistence or similar expenses may not be allowed for an employee on temporary duty in the District of Columbia under this paragraph.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1072; Pub. L. 111–350, §5(<i>l</i>)(5), Jan. 4, 2011, 124 Stat. 3851.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1072; Pub. L. 111–350, §5(l)(5), Jan. 4, 2011, 124 Stat. 3851.)
 
 Historical and Revision Notes
 

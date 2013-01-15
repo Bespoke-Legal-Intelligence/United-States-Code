@@ -4,7 +4,7 @@ Section, added June 29, 1956, ch. 464, §4(a), 70 Stat. 406; amended Oct. 4, 197
 
 #### Effective Date of Repeal
 
-Section 241(c) of Pub. L. 99–514 provided that:
+Pub. L. 99–514, title II, §241(c), Oct. 22, 1986, 100 Stat. 2181, provided that:
 
 “(1)
 
@@ -16,7 +16,7 @@ Transitional rule.—The amendments made by this section shall not apply to any 
 
 &emsp;“(A) pursuant to a binding contract entered into before March 2, 1986, or
 
-&emsp;“(B) with respect to the development, protection, expansion, registration, or defense of a trademark ortrade name commenced before March 2, 1986, but only if not less than the lesser of $1,000,000 or 5 percent of the aggregate cost of such development, protection, expansion, registration, or defense has been incurred or committed before such date.
+&emsp;“(B) with respect to the development, protection, expansion, registration, or defense of a trademark or trade name commenced before March 2, 1986, but only if not less than the lesser of $1,000,000 or 5 percent of the aggregate cost of such development, protection, expansion, registration, or defense has been incurred or committed before such date.
 
 > The preceding sentence shall not apply to any expenditure with respect to a trademark or trade name placed in service after December 31, 1987.”
 

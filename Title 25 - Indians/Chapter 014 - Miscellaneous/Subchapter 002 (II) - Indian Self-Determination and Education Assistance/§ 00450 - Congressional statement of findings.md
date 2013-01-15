@@ -22,7 +22,7 @@ The Congress further finds that—
 
 #### Short Title of 2000 Amendments
 
-Pub. L. 106–568, title VIII, §801, Dec. 27, 2000, 114 Stat. 2916, provided that: “This title \[amending sections 450<i>l</i>, 458cc, 1407, and 3207 of this title and sections 5604, 5608, and 5609 of Title 20, Education, and repealing section 84 of this title and sections 438 and 439 of Title 18, Crimes and Criminal Procedure\] may be cited as the ‘Native American Laws Technical Corrections Act of 2000’.”
+Pub. L. 106–568, title VIII, §801, Dec. 27, 2000, 114 Stat. 2916, provided that: “This title \[amending sections 450l, 458cc, 1407, and 3207 of this title and sections 5604, 5608, and 5609 of Title 20, Education, and repealing section 84 of this title and sections 438 and 439 of Title 18, Crimes and Criminal Procedure\] may be cited as the ‘Native American Laws Technical Corrections Act of 2000’.”
 
 Pub. L. 106–568, title XIII, §1301, Dec. 27, 2000, 114 Stat. 2936, provided that: “This title \[enacting part F (§458bbb et seq.) of this subchapter\] may be cited as the ‘American Indian Education Foundation Act of 2000’.”
 
@@ -30,9 +30,9 @@ Pub. L. 106–260, §1, Aug. 18, 2000, 114 Stat. 711, provided that: “This Act
 
 #### Short Title of 1994 Amendment
 
-Pub. L. 103–413, §1, Oct. 25, 1994, 108 Stat. 4250, provided that: “This Act \[enacting part D (§458aa et seq.) of this subchapter and section 450<i>l</i> of this title, amending sections 450b, 450c, 450e, 450f, 450j to 450k, 450m, and 450m–1 of this title, and enacting provisions set out as notes under this section and section 458aa of this title\] may be cited as the ‘Indian Self-Determination Act Amendments of 1994’.”
+Pub. L. 103–413, §1, Oct. 25, 1994, 108 Stat. 4250, provided that: “This Act \[enacting part D (§458aa et seq.) of this subchapter and section 450l of this title, amending sections 450b, 450c, 450e, 450f, 450j to 450k, 450m, and 450m–1 of this title, and enacting provisions set out as notes under this section and section 458aa of this title\] may be cited as the ‘Indian Self-Determination Act Amendments of 1994’.”
 
-Pub. L. 103–413, title I, §101, Oct. 25, 1994, 108 Stat. 4250, provided that: “This title \[enacting section 450<i>l</i> of this title and amending sections 450b, 450c, 450e, 450f, 450j to 450k, 450m, and 450m–1 of this title\] may be cited as the ‘Indian Self-Determination Contract Reform Act of 1994’.”
+Pub. L. 103–413, title I, §101, Oct. 25, 1994, 108 Stat. 4250, provided that: “This title \[enacting section 450l of this title and amending sections 450b, 450c, 450e, 450f, 450j to 450k, 450m, and 450m–1 of this title\] may be cited as the ‘Indian Self-Determination Contract Reform Act of 1994’.”
 
 Pub. L. 103–413, title II, §201, Oct. 25, 1994, 108 Stat. 4270, provided that: “This title \[enacting part D (§458aa et seq.) of this subchapter and provisions set out as notes under section 458aa of this title\] may be cited as the ‘Tribal Self-Governance Act of 1994’.”
 
@@ -42,15 +42,15 @@ Pub. L. 101–644, title II, §201, Nov. 29, 1990, 104 Stat. 4665, provided that
 
 #### Short Title of 1988 Amendment
 
-Pub. L. 100–472, title I, §101, Oct. 5, 1988, 102 Stat. 2285, provided that: “This Act \[enacting sections 450j–1 and 450m–1 of this title, amending sections 13a, 450a to 450c, 450f to 450j, 450k, and 450n of this title, sections 3371 and 3372 of Title 5, Government Organization and Employees, sections 2004b and 4762 of Title 42, The Public Health and Welfare, and section 456 of the Appendix to Title 50, War and National Defense, transferring section 450<i>l</i> of this title to section 450c(f) of this title, and enacting provisions set out as notes under this section and section 450f of this title\] may be cited as the ‘Indian Self-Determination and Education Assistance Act Amendments of 1988’.”
+Pub. L. 100–472, title I, §101, Oct. 5, 1988, 102 Stat. 2285, provided that: “This Act \[enacting sections 450j–1 and 450m–1 of this title, amending sections 13a, 450a to 450c, 450f to 450j, 450k, and 450n of this title, sections 3371 and 3372 of Title 5, Government Organization and Employees, sections 2004b and 4762 of Title 42, The Public Health and Welfare, and section 456 of the Appendix to Title 50, War and National Defense, transferring section 450l of this title to section 450c(f) of this title, and enacting provisions set out as notes under this section and section 450f of this title\] may be cited as the ‘Indian Self-Determination and Education Assistance Act Amendments of 1988’.”
 
 #### Short Title
 
-Section 1 of Pub. L. 93–638 provided: “That this Act \[enacting this subchapter, section 13a of this title, and section 2004b of Title 42, The Public Health and Welfare, amending section 3371 of Title 5, Government Organization and Employees, section 4762 of Title 42, and section 456 of Title 50, Appendix, War and National Defense, and enacting provisions set out as notes under sections 450f, 455, and 457 of this title\] may be cited as the ‘Indian Self-Determination and Education Assistance Act’.”
+Pub. L. 93–638, §1, Jan. 4, 1975, 88 Stat. 2203, provided: “That this Act \[enacting this subchapter, section 13a of this title, and section 2004b of Title 42, The Public Health and Welfare, amending section 3371 of Title 5, Government Organization and Employees, section 4762 of Title 42, and section 456 of Title 50, Appendix, War and National Defense, and enacting provisions set out as notes under sections 450f, 455, and 457 of this title\] may be cited as the ‘Indian Self-Determination and Education Assistance Act’.”
 
-Section 101 of title I of Pub. L. 93–638 provided that: “This title \[enacting part A (§450f et seq.) of this subchapter and section 2004b of Title 42, The Public Health and Welfare, and amending section 3371 of Title 5, Government Organization and Employees, section 4762 of Title 42, and section 456 of the Appendix to Title 50, War and National Defense\] may be cited as the ‘Indian Self-Determination Act’.”
+Pub. L. 93–638, title I, §101, Jan. 4, 1975, 88 Stat. 2206, provided that: “This title \[enacting part A (§450f et seq.) of this subchapter and section 2004b of Title 42, The Public Health and Welfare, and amending section 3371 of Title 5, Government Organization and Employees, section 4762 of Title 42, and section 456 of the Appendix to Title 50, War and National Defense\] may be cited as the ‘Indian Self-Determination Act’.”
 
-Section 201 of title II of Pub. L. 93–638 provided that: “This title \[enacting part C (§458 et seq.) of this subchapter, sections 455 to 457 of this title, and provisions set out as a note under section 457 of this title\] may be cited as the ‘Indian Education Assistance Act’.”
+Pub. L. 93–638, title II, §201, Jan. 4, 1975, 88 Stat. 2213, provided that: “This title \[enacting part C (§458 et seq.) of this subchapter, sections 455 to 457 of this title, and provisions set out as a note under section 457 of this title\] may be cited as the ‘Indian Education Assistance Act’.”
 
 #### Savings Provisions
 

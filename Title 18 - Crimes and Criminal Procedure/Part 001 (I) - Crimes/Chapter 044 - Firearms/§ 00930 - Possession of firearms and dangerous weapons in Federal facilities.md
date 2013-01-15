@@ -64,5 +64,5 @@ Pub. L. 101–647, §2205(a)(2), redesignated subsec. (f) as (g).
 
 #### Effective Date of 1990 Amendment
 
-Section 2205(b) of Pub. L. 101–647 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to conduct engaged in after the date of the enactment of this Act \[Nov. 29, 1990\].”
+Pub. L. 101–647, title XXII, §2205(b), Nov. 29, 1990, 104 Stat. 4858, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to conduct engaged in after the date of the enactment of this Act \[Nov. 29, 1990\].”
 

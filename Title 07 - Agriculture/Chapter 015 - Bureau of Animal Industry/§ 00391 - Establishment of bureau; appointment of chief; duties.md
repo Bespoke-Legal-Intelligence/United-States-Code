@@ -1,6 +1,6 @@
 ### §391. Establishment of bureau; appointment of chief; duties
 
-There shall be in the Department of Agriculture a Bureau of Animal Industry. The Secretary of Agriculture is authorized to appoint a chief thereof, who shall be a competent veterinary surgeon, and whose duty it shall be to investigate and report upon the condition of the domestic animals and live poultry of the United States, their protection and use, and also inquire into and report the causes of contagious,infectious, and communicable diseases among them, and the means for the prevention and cure of the same, and to collect such information on these subjects as shall be valuable to the agricultural and commercial interests of the country.
+There shall be in the Department of Agriculture a Bureau of Animal Industry. The Secretary of Agriculture is authorized to appoint a chief thereof, who shall be a competent veterinary surgeon, and whose duty it shall be to investigate and report upon the condition of the domestic animals and live poultry of the United States, their protection and use, and also inquire into and report the causes of contagious, infectious, and communicable diseases among them, and the means for the prevention and cure of the same, and to collect such information on these subjects as shall be valuable to the agricultural and commercial interests of the country.
 
 (May 29, 1884, ch. 60, §1, 23 Stat. 31; July 14, 1890, ch. 707, 26 Stat. 288; Feb. 7, 1928, ch. 30, 45 Stat. 59.)
 
@@ -24,7 +24,7 @@ The President's message, set out in the Appendix to Title 5, Government Organiza
 
 Functions of Bureau of Animal Industry which were transferred to Secretary of Agriculture were transferred to Agricultural Research Service under Secretary's memorandum 1320, supp. 4, of Nov. 2, 1953.
 
-As of July 1, 1927, by order of the Secretary of Agriculture, the Packers and Stockyards administration was abolished, and the enforcement of the Packers and Stockyards Act of 1921, sections 181 to 229 of this title, put under the control of the chief of the Bureau of Animal Industry.
+As of July 1, 1927, by order of the Secretary of Agriculture, the Packers and Stockyards administration was abolished, and the enforcement of the Packers and Stockyards Act of 1921, section 181 et seq. of this title, put under the control of the chief of the Bureau of Animal Industry.
 
 Authority formerly granted to Commissioner of Agriculture by section 1 of act of May 29, 1884, vested in Secretary of Agriculture by act July 14, 1890. See also sections 2202 and 2205 of this title.
 

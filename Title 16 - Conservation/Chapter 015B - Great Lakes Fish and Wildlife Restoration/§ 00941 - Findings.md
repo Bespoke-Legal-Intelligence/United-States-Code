@@ -32,7 +32,7 @@ Pub. L. 109–326, §1, Oct. 11, 2006, 120 Stat. 1761, provided that: “This Ac
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–265, §1, Oct. 19, 1998, 112 Stat. 2358, provided that: “This Act \[amending this section and sections 941 to 941g of this title and enacting provisions set out as a note under this section\] may be cited as the ‘Great Lakes Fish and Wildlife Restoration Act of 1998’.”
+Pub. L. 105–265, §1, Oct. 19, 1998, 112 Stat. 2358, provided that: “This Act \[amending this section and sections 941 to 941g of this title and enacting provisions set out as a note under this section\] may be cited asthe ‘Great Lakes Fish and Wildlife Restoration Act of 1998’.”
 
 #### Short Title
 

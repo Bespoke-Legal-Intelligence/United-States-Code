@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall develop and use an easily identifiable simplified application sectionas part of the common financial reporting form prescribed under section 1090(a) of this title for families described in subsections (b) and (c) of this section.
+&emsp;The Secretary shall develop and use an easily identifiable simplified application section as part of the common financial reporting form prescribed under section 1090(a) of this title for families described in subsections (b) and (c) of this section.
 
 #### (2) Reduced data requirements
 
@@ -62,7 +62,7 @@
 
 &emsp;&emsp;(E) the number of family members in postsecondary education, and
 
-&emsp;&emsp;(F) an allowance (A) for State and other taxes, as defined in section 1087<i>oo</i>(c)(2) of this title for dependent students and in section 1087qq(b)(2) of this title for independent students with dependents other than a spouse, or (B) for State and other income taxes, as defined in section 1087pp(b)(2) of this title for independent students without dependents other than a spouse.
+&emsp;&emsp;(F) an allowance (A) for State and other taxes, as defined in section 1087oo(c)(2) of this title for dependent students and in section 1087qq(b)(2) of this title for independent students with dependents other than a spouse, or (B) for State and other income taxes, as defined in section 1087pp(b)(2) of this title for independent students without dependents other than a spouse.
 
 #### (3) Qualifying forms
 
@@ -174,7 +174,7 @@ Subsec. (c)(2)(A). Pub. L. 110–84, §602(a)(2)(B)(i), added cl. (iii), redesig
 
 Subsec. (c)(2)(B). Pub. L. 110–84, §602(a)(2)(B)(ii), substituted “$30,000” for “$20,000”.
 
-Subsec. (d). Pub. L. 110–84, §602(a)(3), substituted “Definitions” for “Definition of means-tested Federal benefit program” in heading, added par. (1), designatedexisting provisions as par. (2) and substituted “The term” for “In this section, the term” in introductory provisions, redesignated former pars. (1) to (6) as subpars. (A) to (F), respectively, of par. (2), and realigned margins.
+Subsec. (d). Pub. L. 110–84, §602(a)(3), substituted “Definitions” for “Definition of means-tested Federal benefit program” in heading, added par. (1), designated existing provisions as par. (2) and substituted “The term” for “In this section, the term” in introductory provisions, redesignated former pars. (1) to (6) as subpars. (A) to (F), respectively, of par. (2), and realigned margins.
 
 <b>2006</b>—Subsec. (b)(1)(A)(i). Pub. L. 109–171, §8018(a)(1)(A)(i), added cl. (i) and struck out former cl. (i) which read as follows: “the student's parents file or are eligible to file a form described in paragraph (3) or certify that they are not required to file an income tax return and the student files or is eligible to file such a form or certifies that the student is not required to file an income tax return; and”.
 
@@ -236,7 +236,7 @@ Subsec. (c). Pub. L. 100–50, §14(25), added subsec. (c).
 
 #### Effective Date of 2011 Amendment
 
-Amendment by of Pub. L. 112–74 effective July 1, 2012, see section 309(g) of Pub. L. 112–74, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 112–74 effective July 1, 2012, see section 309(g) of Pub. L. 112–74, set out as a note under section 1001 of this title.
 
 #### Effective Date of 2009 Amendment
 

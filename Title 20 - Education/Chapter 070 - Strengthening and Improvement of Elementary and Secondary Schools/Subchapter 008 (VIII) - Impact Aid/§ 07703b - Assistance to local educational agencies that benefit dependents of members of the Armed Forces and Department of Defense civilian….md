@@ -24,9 +24,9 @@
 
 &emsp;A local educational agency is eligible for assistance under this subsection for a fiscal year if—
 
-&emsp;&emsp;(A) the local educational agency is eligible for assistance under subsection (a) of thissection for the same fiscal year, or would have been eligible for such assistance if not for the reduction in military dependent students in schools of the local educational agency; and
+&emsp;&emsp;(A) the local educational agency is eligible for assistance under subsection (a) of this section for the same fiscal year, or would have been eligible for such assistance if not for the reduction in military dependent students in schools of the local educational agency; and
 
-&emsp;&emsp;(B) the overall increase or reduction in military dependent students in schools of the local educational agency is the result of one or more of the following:
+&emsp;&emsp;(B) the overall increase or reduction in military dependent students in schools ofthe local educational agency is the result of one or more of the following:
 
 &emsp;&emsp;&emsp;(i) The global rebasing plan of the Department of Defense.
 
@@ -60,7 +60,7 @@
 
 #### (4) Duration
 
-&emsp;Assistance may not be provided under this subsection after September 30, 2012.
+&emsp;Assistance may not be provided under this subsection after September 30, 2014.
 
 #### (c) Notification
 
@@ -74,15 +74,7 @@ Not later than June 30, 2006, and June 30 of each fiscal year thereafter for whi
 
 The Secretary of Defense shall disburse assistance made available under this section for a fiscal year not later than 30 days after the date on which notification to the eligible local educational agencies is provided pursuant to subsection (c) of this section for that fiscal year.
 
-#### (e) Funding for fiscal year 2006
-
-Of the amount authorized to be appropriated pursuant to section 301(5) <sup>1</sup> for operation and maintenance for Defense-wide activities—
-
-&emsp;(1) $30,000,000 shall be available only for the purpose of providing assistance to local educational agencies under subsection (a) of this section; and
-
-&emsp;(2) $10,000,000 shall be available only for the purpose of providing assistance to local educational agencies under subsection (b) of this section.
-
-#### (f) Definitions
+#### (e) Definitions
 
 In this section:
 
@@ -98,13 +90,11 @@ In this section:
 
 &emsp;(4) The term “State” means each of the 50 States and the District of Columbia.
 
-(Pub. L. 109–163, div. A, title V, §572, Jan. 6, 2006, 119 Stat. 3271; Pub. L. 111–84, div. A, title V, §533, Oct. 28, 2009, 123 Stat. 2292.)
+(Pub. L. 109–163, div. A, title V, §572, Jan. 6, 2006, 119 Stat. 3271; Pub. L. 111–84, div. A, title V, §533, Oct. 28, 2009, 123 Stat. 2292; Pub. L. 112–239, div. A, title V, §561(b)(1), (c), Jan. 2, 2013, 126 Stat. 1743, 1744.)
 
 #### References in Text
 
-Section 301(5), referred to in subsec. (e), is section 301(5) of Pub. L. 109–163, div. A, title III, 119 Stat. 3188, which is not classified to the Code.
-
-The Defense Base Closure and Realignment Act of 1990, referred to in subsec. (f)(1), is part A of title XXIX of div. B of Pub. L. 101–510, Nov. 5, 1990, 104 Stat. 1808, as amended, which is set out as a note under section 2687 of Title 10, Armed Forces. For complete classification of this Act to the Code, see Tables.
+The Defense Base Closure and Realignment Act of 1990, referred to in subsec. (e)(1), is part A of title XXIX of div. B of Pub. L. 101–510, Nov. 5, 1990, 104 Stat. 1808, as amended, which is set out as a note under section 2687 of Title 10, Armed Forces. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 
@@ -113,6 +103,14 @@ Section is comprised of section 572 of Pub. L. 109–163. Subsec. (g) of section
 Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2006, and not as part of the Elementary and Secondary Education Act of 1965 which comprises this chapter.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (b)(4). Pub. L. 112–239, §561(b)(1), substituted “September 30, 2014” for “September 30, 2012”.
+
+Subsecs. (e), (f). Pub. L. 112–239, §561(c), redesignated subsec. (f) as (e) and struck out former subsec. (e) which read as follows: “Of the amount authorized to be appropriated pursuant to section 301(5) for operation and maintenance for Defense-wide activities—
+
+&emsp;“(1) $30,000,000 shall be available only for the purpose of providing assistance to local educational agencies under subsection (a) of this section; and
+
+&emsp;“(2) $10,000,000 shall be available only for the purpose of providing assistance to local educational agencies under subsection (b) of this section.”
 
 <b>2009</b>—Subsec. (b)(4). Pub. L. 111–84 substituted “September 30, 2012” for “September 30, 2010”.
 
@@ -189,6 +187,4 @@ Definitions.—In this section:
 &emsp;&emsp;“(B) elementary and secondary school students who are dependents of civilian employees of the Department of Defense; and
 
 &emsp;&emsp;“(C) elementary and secondary school students who are dependents of personnel who are not members of the Armed Forces or civilian employees of the Department of Defense but who are employed on Federal property.”
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

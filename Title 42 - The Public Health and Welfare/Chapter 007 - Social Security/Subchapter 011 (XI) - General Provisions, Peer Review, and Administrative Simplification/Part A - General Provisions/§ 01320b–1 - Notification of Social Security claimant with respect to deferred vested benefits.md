@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(B) in the case of the death of the individual referred to in subparagraph (A), by the individual who would be entitled to payment under section 404(d) of this title,
 
-> the Commissioner of Social Security shall transmit to the individual referred to in paragraph (1) or (2) or the individual making the request under paragraph (3) any information, as reported by the employer, regarding any deferred vested benefit transmitted to the Commissioner of Social Security pursuant to such section 6057 with respect to the individual referred to in paragraph (1), (2), or (3)(A) or the person on whose wages and self-employment income entitlement (or claim of entitlement) is based.
+> the Commissioner of Social Security shall transmit to the individual referred to in paragraph (1)or (2) or the individual making the request under paragraph (3) any information, as reported by the employer, regarding any deferred vested benefit transmitted to the Commissioner of Social Security pursuant to such section 6057 with respect to the individual referred to in paragraph (1), (2), or (3)(A) or the person on whose wages and self-employment income entitlement (or claim of entitlement) is based.
 
 (b)(1) For purposes of section 401(g)(1) of this title, expenses incurred in the administration of subsection (a) of this section shall be deemed to be expenses incurred for the administration of subchapter II of this chapter.
 
@@ -52,7 +52,7 @@ Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pu
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed\(under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
+Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
 
 #### Effective Date
 

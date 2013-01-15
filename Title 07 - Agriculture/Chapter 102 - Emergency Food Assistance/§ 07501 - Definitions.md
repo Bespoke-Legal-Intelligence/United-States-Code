@@ -56,7 +56,7 @@ In this chapter:
 
 #### (10) Value of additional commodities allocated to each State
 
-&emsp;The term “value of additional commodities allocated to each State” means the actual cost of additional commodities allocated to each State that are paid by the Secretary (including the distribution and processing costs incurred by the Secretary).
+&emsp;The term “value of additional commodities allocated to each State” means the actualcost of additional commodities allocated to each State that are paid by the Secretary (including the distribution and processing costs incurred by the Secretary).
 
 (Pub. L. 98–8, title II, §201A, as added Pub. L. 98–92, §2(2), Sept. 2, 1983, 97 Stat. 608; amended Pub. L. 99–198, title XV, §1563, Dec. 23, 1985, 99 Stat. 1590; Pub. L. 104–193, title VIII, §871(a), Aug. 22, 1996, 110 Stat. 2343.)
 
@@ -74,9 +74,9 @@ The Older Americans Act of 1965, referred to in par. (3)(A)(iv), is Pub. L. 89�
 
 #### Effective Date
 
-Section 2 of Pub. L. 98–92 provided in part that the amendments made by that section \[enacting this section and sections 7504 to 7506 and 7513 of this title and amending sections 7502, 7508, 7509, and 7512\] are effective Oct. 1, 1983.
+Pub. L. 98–92, §2, Sept. 2, 1983, 97 Stat. 608, provided in part that the amendments made by section 2 are effective Oct. 1, 1983.
 
 #### Short Title
 
-Section 201 of title II of Pub. L. 98–8, as amended by Pub. L. 98–92, §2(1), Sept. 2, 1983, 97 Stat. 608; Pub. L. 101–624, title XVII, §1772(a)(2), Nov. 28, 1990, 104 Stat. 3808, provided that: “This title \[enacting this chapter and amending provisions set out as a note under section 612c of this title\] may be cited as the ‘Emergency Food Assistance Act of 1983’, and is hereinafter in this title referred to as ‘this Act’.”
+Pub. L. 98–8, title II, §201, Mar. 24, 1983, 97 Stat. 35, as amended by Pub. L. 98–92, §2(1), Sept. 2, 1983, 97 Stat. 608; Pub. L. 101–624, title XVII, §1772(a)(2), Nov. 28, 1990, 104 Stat. 3808, provided that: “This title \[enacting this chapter and amending provisions set out as a note under section 612c of this title\] may be cited as the ‘Emergency Food Assistance Act of 1983’, and is hereinafter in this title referred to as ‘this Act’.”
 

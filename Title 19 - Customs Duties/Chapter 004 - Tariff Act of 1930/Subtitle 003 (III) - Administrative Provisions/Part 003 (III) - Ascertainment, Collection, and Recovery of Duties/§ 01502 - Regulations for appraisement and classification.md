@@ -8,7 +8,11 @@ The Secretary of the Treasury shall establish and promulgate such rules and regu
 
 It shall be the duty of all officers of the customs to execute and carry into effect all instructions of the Secretary of the Treasury relative to the execution of the revenue laws; and in case any difficulty arises as to the true construction or meaning of any part of the revenue laws, the decision of the Secretary shall be binding upon all officers of the customs.
 
-(June 17, 1930, ch. 497, title IV, §502, 46 Stat. 731; Pub. L. 91–271, title III, §301(<i>l</i>), June 2, 1970, 84 Stat. 289; Pub. L. 96–417, title VI, §601(3), Oct. 10, 1980, 94 Stat. 1744; Pub. L. 100–449, title IV, §403(a), Sept. 28, 1988, 102 Stat. 1884; Pub. L. 103–182, title IV, §412(a), title VI, §640, Dec. 8, 1993, 107 Stat. 2146, 2203.)
+(June 17, 1930, ch. 497, title IV, §502, 46 Stat. 731; Pub. L. 91–271, title III, §301(l), June 2, 1970, 84 Stat. 289; Pub. L. 96–417, title VI, §601(3), Oct. 10, 1980, 94 Stat. 1744; Pub. L. 100–449, title IV, §403(a), Sept. 28, 1988, 102 Stat. 1884; Pub. L. 103–182, title IV, §412(a), title VI, §640, Dec. 8, 1993, 107 Stat. 2146, 2203.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 501(c) of Pub. L. 100–449, see Effective and Termination Dates of 1988 Amendment note below.</i>
 
 #### Prior Provisions
 
@@ -22,7 +26,7 @@ Provisions almost identical with those in subsec. (c) of this section were conta
 
 #### Amendments
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–182, §640(1), inserted “(including regulations establishing procedures for theissuance of binding rulings prior to the entry of the merchandise concerned)” after “law”, substituted “ports of entry. The Secretary” for “ports of entry, and”, inserted “or classifying” after “appraising” in two places, and substituted “any port, and may direct any customs officer at any port to review entries of merchandise filed at any other port” for “such port”.
+<b>1993</b>—Subsec. (a). Pub. L. 103–182, §640(1), inserted “(including regulations establishing procedures for the issuance of binding rulings prior to the entry of the merchandise concerned)” after “law”, substituted “ports of entry. The Secretary” for “ports of entry, and”, inserted “or classifying” after “appraising” in two places, and substituted “any port, and may direct any customs officer at any port to review entries of merchandise filed at any other port” for “such port”.
 
 Subsec. (b). Pub. L. 103–182, §640(2), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “No ruling or decision once made by the Secretary of the Treasury, giving construction to any law imposing customs duties, shall be reversed or modified adversely to the United States, by the same or a succeeding Secretary, except in concurrence with an opinion of the Attorney General recommending the same, a final decision of the United States Court of International Trade, or a final decision of a binational panel pursuant to article 1904 of the United States-Canada Free-Trade Agreement.”
 
@@ -30,7 +34,7 @@ Pub. L. 103–182, §412(a), which directed the insertion of “the North Americ
 
 Subsec. (c). Pub. L. 103–182, §640(2), redesignated subsec. (c) as (b).
 
-<b>1988</b>—Subsec. (b). Pub. L. 100–449 substituted “a final decision of the United States Court of International Trade, or a final decision of a binational panel pursuant to article 1904 of the United States-Canada Free-Trade Agreement” for “or a final decision of the United States Court of International Trade”.
+<b>1988</b>—Subsec. (b). Pub. L. 100–449 temporarily substituted “a final decision of the United States Court of International Trade, or a final decision of a binational panel pursuant to article 1904 of the United States-Canada Free-Trade Agreement” for “or a final decision of the United States Court of International Trade”. See Effective and Termination Dates of 1988 Amendment note below.
 
 <b>1980</b>—Subsec. (b). Pub. L. 96–417 redesignated the United States Customs Court as the United States Court of International Trade.
 
@@ -60,7 +64,7 @@ Functions of Secretary of the Treasury under subsec. (a) of this section, insofa
 
 Functions of Secretary of the Treasury under subsec. (b) of this section, with respect to functions transferred to Secretary of Commerce in section 1303 and 1671 et seq. of this title by section 5(a)(1)(C) of Reorg. Plan No. 3 of 1979, transferred to Secretary of Commerce pursuant to section 5(a)(1)(F) of Reorg. Plan No. 3 of 1979.
 
-Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees.
+Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him toauthorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Effect of Termination of NAFTA Country Status
 

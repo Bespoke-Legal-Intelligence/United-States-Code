@@ -106,7 +106,7 @@ Whenever the PBO anticipates that commercial items will be offered for a procure
 
 #### (1) In general
 
-&emsp;The PBO may satisfy the requirements of the PBO for a system incrementally by carrying out successive procurements of modules of the system. In doing so, the PBO may use procedures authorized under this subsection to procure any such module after the first module.
+&emsp;The PBO may satisfy the requirements of the PBO for a system incrementally by carrying out successive procurements of modules of the system. In doing so, the PBO may use procedures authorized under this subsection toprocure any such module after the first module.
 
 #### (2) Utility requirement
 
@@ -192,7 +192,7 @@ Whenever the PBO anticipates that commercial items will be offered for a procure
 
 #### (1) Issuance by PBO
 
-&emsp;The Chief Operating Officer of the PBO, in consultation with the Administrator for Federal Procurement Policy, shall issue guidance for the use by PBO personnel of the authority provided in this section.
+&emsp;The Chief Operating Officer of the PBO, in consultation with the Administrator for Federal Procurement Policy, shall issue guidancefor the use by PBO personnel of the authority provided in this section.
 
 #### (2) Guidance from OFPP
 
@@ -210,7 +210,7 @@ No department or agency of the Federal Government may purchase property or servi
 
 Nothing in this section shall be construed to waive laws for the enforcement of civil rights or for the establishment and enforcement of labor standards that are applicable to contracts of the Federal Government.
 
-#### (<i>l</i>) Definitions
+#### (l) Definitions
 
 In this section:
 
@@ -252,13 +252,13 @@ In subsec. (g)(5)(C), “section 1708(c) of title 41” substituted for “secti
 
 In subsec. (g)(6), “section 3304(e) of title 41” substituted for “section 303(f) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(f))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (<i>l</i>)(1), “section 103 of title 41” substituted for “section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (l)(1), “section 103 of title 41” substituted for “section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (<i>l</i>)(2), “section 152 of title 41” substituted for “section 309(b) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 259(b))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (l)(2), “section 152 of title 41” substituted for “section 309(b) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 259(b))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (<i>l</i>)(4), “sections 1901 and 3305(a) of title 41” substituted for “section 303(g)(1) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(g)(1)) and section 31 of the Office of Federal Procurement Policy Act (41 U.S.C. 427)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (l)(4), “sections 1901 and 3305(a) of title 41” substituted for “section 303(g)(1) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(g)(1)) and section 31 of the Office of Federal Procurement Policy Act (41 U.S.C. 427)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (<i>l</i>)(5), “sections 1901(a)(1) and 3305(a)(1) of title 41” substituted for “section 303(g)(1)(B) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(g)(1)(A)) and section 31(a)(1) of the Office of Federal Procurement Policy Act (41 U.S.C. 427(a)(1))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (l)(5), “sections 1901(a)(1) and 3305(a)(1) of title 41” substituted for “section 303(g)(1)(B) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(g)(1)(A)) and section 31(a)(1) of the Office of Federal Procurement Policy Act (41 U.S.C. 427(a)(1))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Prior Provisions
 
@@ -280,5 +280,5 @@ Subsec. (g)(7). Pub. L. 110–315, §118(4)(B), substituted “single-source” 
 
 Subsec. (h)(2)(A). Pub. L. 110–315, §118(5), substituted “single-source” for “sole-source”.
 
-Subsec. (<i>l</i>)(3). Pub. L. 110–315, §118(6), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “The term ‘sole-source basis’, with respect to an award of a contract, means that the contract is awarded to a source after soliciting an offer or offers from, and negotiating with, only that source.”
+Subsec. (l)(3). Pub. L. 110–315, §118(6), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “The term ‘sole-source basis’, with respect to an award of a contract, means that the contract is awarded to a source after soliciting an offer or offers from, and negotiating with, only that source.”
 

@@ -32,7 +32,7 @@ The Board shall have the following authorities:
 
 &emsp;(14) The Board may provide for the use of United States Government transmitter capacity for relay of Radio Free Asia.
 
-&emsp;(15)(A) To procure temporary and intermittent personal services to the same extent as is authorized by section 3109 of title 5, at rates not to exceed the daily equivalent of the rate provided for positions classified above grade GS–15 of the General Schedule under section 5108 of title 5.
+&emsp;(15)(A) To procure temporary and intermittent personal services to the same extent as isauthorized by section 3109 of title 5, at rates not to exceed the daily equivalent of the rate provided for positions classified above grade GS–15 of the General Schedule under section 5108 of title 5.
 
 &emsp;(B) To allow those providing such services, while away from their homes or their regular places of business, travel expenses (including per diem in lieu of subsistence) as authorized by section 5703 of title 5 for persons in the Government service employed intermittently, while so employed.
 

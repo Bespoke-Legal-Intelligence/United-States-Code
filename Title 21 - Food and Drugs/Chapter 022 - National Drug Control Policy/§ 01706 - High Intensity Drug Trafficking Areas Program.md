@@ -22,7 +22,7 @@
 
 #### (1) In general
 
-&emsp;The Director, in consultation with the Attorney General, the Secretary of the Treasury, the Secretary of Homeland Security, heads of the National Drug Control Program agencies, and the Governor of each applicable State, may designate any specified area of the United States as a high intensity drug trafficking area.
+&emsp;The Director, in consultation with the Attorney General, the Secretary of the Treasury,the Secretary of Homeland Security, heads of the National Drug Control Program agencies, and the Governor of each applicable State, may designate any specified area of the United States as a high intensity drug trafficking area.
 
 #### (2) Activities
 
@@ -156,7 +156,7 @@ As part of the documentation that supports the President's annual budget request
 
 &emsp;&emsp;(B) includes an evaluation of the performance of the high intensity drug trafficking area in accomplishing the specific long-term and short-term goals and objectives identified under paragraph (1)(B).
 
-#### (<i>l</i>) Assessment of drug enforcement task forces in high intensity drug trafficking areas
+#### (l) Assessment of drug enforcement task forces in high intensity drug trafficking areas
 
 Not later than 1 year after December 29, 2006, and as part of each subsequent annual National Drug Control Strategy report, the Director shall submit to Congress a report—
 
@@ -192,7 +192,7 @@ Not later than 180 days after December 29, 2006, and as part of each subsequent 
 
 The Director, in consultation with the Attorney General, shall ensure that any drug enforcement intelligence obtained by the Intelligence Support Center for each high intensity drug trafficking area is shared, on a timely basis, with the drug intelligence fusion center operated by the Organized Crime Drug Enforcement Task Force of the Department of Justice.
 
-#### (<i>o</i>) Use of funds to combat methamphetamine trafficking
+#### (o) Use of funds to combat methamphetamine trafficking
 
 #### (1) Requirement
 
@@ -248,7 +248,7 @@ There is authorized to be appropriated to the Office of National Drug Control Po
 
 #### References in Text
 
-December 29, 2006, referred to in subsecs. (k)(1), (<i>l</i>), and (m) was in the original “the date of the enactment of this section”, which was translated as meaning the date of enactment of Pub. L. 109–469, which amended this section generally, to reflect the probable intent of Congress.
+December 29, 2006, referred to in subsecs. (k)(1), (l), and (m) was in the original “the date of the enactment of this section”, which was translated as meaning the date of enactment of Pub. L. 109–469, which amended this section generally, to reflect the probable intent of Congress.
 
 #### Amendments
 

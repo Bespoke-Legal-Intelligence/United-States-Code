@@ -138,11 +138,17 @@ Slot.—The term “slot” means a reservation for an instrument flight rule ta
 
 Limited incumbent air carrier.—The term “limited incumbent air carrier” has the meaning given that term in subpart S of part 93 of title 14, Code of Federal Regulations; except that—
 
-&emsp;&emsp;(A) “20” shall be substituted for “12” in sections 93.213(a)(5), 93.223(c)(3), and 93.225(h);
+&emsp;&emsp;(A) “40” shall be substituted for “12” in sections 93.213(a)(5), 93.223(c)(3), and 93.225(h);
 
-&emsp;&emsp;(B) for purposes of such sections, the term “slot” shall include “slot exemptions”; and
+&emsp;&emsp;(B) for purposes of such sections, the term “slot” shall not include—
 
-&emsp;&emsp;(C) for Ronald Reagan Washington National Airport, the Administrator shall not count, for the purposes of section 93.213(a)(5), slots currently held by an air carrier but leased out on a long-term basis by that carrier for use in foreign air transportation and renounced by the carrier for return to the Department of Transportation or the Federal Aviation Administration.
+&emsp;&emsp;&emsp;(i) “slot exemptions”;
+
+&emsp;&emsp;&emsp;(ii) slots operated by an air carrier under a fee-for-service arrangement for another air carrier, if the air carrier operating such slots does not sell flights in its own name, and is under common ownership with an air carrier that seeks to qualify as a limited incumbent and that sells flights in its own name; or
+
+&emsp;&emsp;&emsp;(iii) slots held under a sale and license-back financing arrangement with another air carrier, where the slots are under the marketing control of the other air carrier; and
+
+&emsp;&emsp;(C) for Ronald Reagan Washington National Airport, the Administrator shall not count, for the purposes of section 93.213(a)(5), slots currently held by an air carrier butleased out on a long-term basis by that carrier for use in foreign air transportation and renounced by the carrier for return to the Department of Transportation or the Federal Aviation Administration.
 
 &emsp;(6)
 
@@ -194,13 +200,13 @@ Failure to determine deemed approval.—If the Secretary neither approves the re
 
 (j)
 
-Exemptions May Not Be Transferred.—No exemption from the requirements of subparts K and S of part 93 of title 14, Code of Federal Regulations, granted under this section or section 41716, 41717, or 41718 may be bought, sold, leased, or otherwise transferred by the carrier to which it is granted.
+Exemptions May Not Be Transferred.—No exemption from the requirements of subparts K and S of part 93 of title 14, Code of Federal Regulations, granted under this section or section 41716, 41717, or 41718 may be bought, sold, leased, or otherwise transferred by the carrier to which it is granted, except through an air carrier merger or acquisition.
 
 (k)
 
 Affiliated Carriers.—For purposes of this section and sections 41716, 41717, and 41718, an air carrier that operates under the same designator code, or has or enters into a code-share agreement, with any other air carrier shall not qualify for a new slot or slot exemption as a new entrant or limited incumbent air carrier at an airport if the total number of slots and slot exemptions held by the two carriers at the airport exceed 20 slots and slot exemptions.
 
-(Added Pub. L. 103–305, title II, §206(a)(1), Aug. 23, 1994, 108 Stat. 1584; amended Pub. L. 104–287, §5(9), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 105–66, title III, §345, Oct. 27, 1997, 111 Stat. 1449; Pub. L. 105–102, §2(24), Nov. 20, 1997, 111 Stat. 2205; Pub. L. 105–154, §2(a)(1)(C), (2), Feb. 6, 1998, 112 Stat. 3; Pub. L. 106–181, title II, §231(a), (d)(2)–(4), Apr. 5, 2000, 114 Stat. 106, 112.)
+(Added Pub. L. 103–305, title II, §206(a)(1), Aug. 23, 1994, 108 Stat. 1584; amended Pub. L. 104–287, §5(9), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 105–66, title III, §345, Oct. 27, 1997, 111 Stat. 1449; Pub. L. 105–102, §2(24), Nov. 20, 1997, 111 Stat. 2205; Pub. L. 105–154, §2(a)(1)(C), (2), Feb. 6, 1998, 112 Stat. 3; Pub. L. 106–181, title II, §231(a), (d)(2)–(4), Apr. 5, 2000, 114 Stat. 106, 112; Pub. L. 112–95, title IV, §414(c), (d), Feb. 14, 2012, 126 Stat. 92.)
 
 #### Historical and Revision Notes
 
@@ -210,6 +216,12 @@ This amends 49:41714(d)(1) to make a conforming cross-reference necessary becaus
 
 #### Amendments
 
+<b>2012</b>—Subsec. (h)(5)(A). Pub. L. 112–95, §414(c)(1), substituted “40” for “20”.
+
+Subsec. (h)(5)(B). Pub. L. 112–95, §414(c)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “for purposes of such sections, the term ‘slot’ shall include ‘slot exemptions’; and”.
+
+Subsec. (j). Pub. L. 112–95, §414(d), substituted “, except through an air carrier merger or acquisition.” for period at end.
+
 <b>2000</b>—Subsec. (a)(3). Pub. L. 106–181, §231(d)(2), struck out before period at end “; except that the Secretary shall not be required to make slots available at O'Hare International Airport in Chicago, Illinois, if the number of slots available for basic essential air service (including slots specifically designated as essential air service slots and slots used for such purposes) to and from such airport is at least 132 slots”.
 
 Subsec. (b)(2). Pub. L. 106–181, §231(d)(3), inserted “at Chicago O'Hare International Airport” after “a slot” and struck out before period at end “if the withdrawal of that slot would result in the withdrawal of slots from an air carrier at O'Hare International Airport under section 93.223 of title 14, Code of Federal Regulations, in excess of the total withdrawn from that air carrier as of October 31, 1993”.
@@ -218,7 +230,7 @@ Subsec. (b)(4). Pub. L. 106–181, §231(d)(4), amended heading and text of par.
 
 Subsec. (c). Pub. L. 106–181, §231(a)(4), reenacted subsec. heading and struck out “(1)
 
-In general.—” before “If the Secretary finds”, “and the circumstances to be exceptional” before “, the Secretary may by”, and par. (2) heading and text. Text of par. (2) read as follows: “Exemptions issued under this subsection shall cease to be in effect on or after the date on which the final rules issued under subsection (f) become effective.”
+In general.—” before “If the Secretary finds”, “and the circumstances to be exceptional” before “, the Secretary may by”, and par. (2) heading and text. Text of par. (2) read as follows: “Exemptions issued under this subsection shall ceaseto be in effect on or after the date on which the final rules issued under subsection (f) become effective.”
 
 Subsec. (h). Pub. L. 106–181, §231(a)(5)(A), in introductory provisions, substituted “and sections 41715–41718 and 41734(h)” for “and section 41734(h)”.
 
@@ -232,7 +244,7 @@ Subsecs. (j), (k). Pub. L. 106–181, §231(a)(2), (3), added subsecs. (j) and (
 
 <b>1998</b>—Subsecs. (a)(1), (b)(1), (c)(1), (d). Pub. L. 105–154 substituted “Ronald Reagan Washington National Airport” for “Washington National Airport” wherever appearing in text and in subsec. (d) heading.
 
-<b>1997</b>—Subsec. (d)(1). Pub. L. 105–102 substituted “sections 49104(a)(5) and 49111(e) of this title” for “sections6005(c)(5) and 6009(e) of the Metropolitan Washington Airports Act of 1986”.
+<b>1997</b>—Subsec. (d)(1). Pub. L. 105–102 substituted “sections 49104(a)(5) and 49111(e) of this title” for “sections 6005(c)(5) and 6009(e) of the Metropolitan Washington Airports Act of 1986”.
 
 Subsec. (i). Pub. L. 105–66 added subsec. (i).
 

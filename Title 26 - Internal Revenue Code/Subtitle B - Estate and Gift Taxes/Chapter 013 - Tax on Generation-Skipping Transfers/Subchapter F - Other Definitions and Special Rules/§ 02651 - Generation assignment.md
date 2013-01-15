@@ -38,7 +38,7 @@ For purposes of this chapter, the generation to which any person (other than the
 
 #### (d) Persons who are not lineal descendants
 
-An individual who is not assigned to a generation by reason of the foregoing provisions of thissection shall be assigned to a generation on the basis of the date of such individual's birth with—
+An individual who is not assigned to a generation by reason of the foregoing provisions of this section shall be assigned to a generation on the basis of the date of such individual's birth with—
 
 &emsp;(1) an individual born not more than 12½ years after the date of the birth of the transferor assigned to the transferor's generation,
 

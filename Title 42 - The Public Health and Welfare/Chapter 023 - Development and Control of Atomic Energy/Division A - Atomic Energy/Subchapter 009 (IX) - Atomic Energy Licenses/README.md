@@ -17,3 +17,4 @@
 - [&sect; 02139a - Regulations implementing requirements relating to licensing for components and other parts of facilities](%C2%A7%2002139a%20-%20Regulations%20implementing%20requirements%20relating%20to%20licensing%20for%20components%20and%20other%20parts%20of%20facilities.md)
 - [&sect; 02140 - Exclusions from license requirement](%C2%A7%2002140%20-%20Exclusions%20from%20license%20requirement.md)
 - [&sect; 02141 - Licensing by Nuclear Regulatory Commission of distribution of special nuclear material, source material, and byproduct material by&#8230;](%C2%A7%2002141%20-%20Licensing%20by%20Nuclear%20Regulatory%20Commission%20of%20distribution%20of%20special%20nuclear%20material%2C%20source%20material%2C%20and%20byproduct%20material%20by%E2%80%A6.md)
+- [&sect; 02142 - Domestic medical isotope production](%C2%A7%2002142%20-%20Domestic%20medical%20isotope%20production.md)

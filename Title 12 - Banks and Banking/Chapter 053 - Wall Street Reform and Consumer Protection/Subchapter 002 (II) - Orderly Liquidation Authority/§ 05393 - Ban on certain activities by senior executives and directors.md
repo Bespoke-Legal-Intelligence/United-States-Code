@@ -44,7 +44,7 @@ The appropriate agency described in subsection (a) may take any action authorize
 
 #### (d) Regulations
 
-The Corporation and the Board of Governors, in consultation with the Council, shall jointly prescribe rules or regulations to administer and carry out this section, including rules, regulations, or guidelines to further define the term senior executive for the purposes of this section.
+The Corporation and the Board of Governors, in consultation with the Council, shall jointlyprescribe rules or regulations to administer and carry out this section, including rules, regulations, or guidelines to further define the term senior executive for the purposes of this section.
 
 (Pub. L. 111–203, title II, §213, July 21, 2010, 124 Stat. 1517.)
 

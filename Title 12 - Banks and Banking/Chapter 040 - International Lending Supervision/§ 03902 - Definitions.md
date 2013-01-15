@@ -20,7 +20,7 @@ For purposes of this chapter—
 
 &emsp;&emsp;(B) to the extent determined by the appropriate Federal banking agency, any agency or branch of a foreign bank, and any commercial lending company owned or controlled by one or more foreign banks or companies that control a foreign bank as those terms are defined in the International Banking Act of 1978 \[12 U.S.C. 3101 et seq.\]. The term “banking institution” shall not include a foreign bank.
 
-(Pub. L. 98–181, title IX, §903, Nov. 30, 1983, 97 Stat. 1278.)
+(Pub. L. 98–181, title I \[title IX, §903\], Nov. 30, 1983, 97 Stat. 1278.)
 
 #### References in Text
 

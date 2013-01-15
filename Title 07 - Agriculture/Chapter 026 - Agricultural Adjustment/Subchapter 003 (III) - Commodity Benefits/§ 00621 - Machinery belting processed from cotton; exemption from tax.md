@@ -8,3 +8,7 @@ The provisions of section 616 of this title, shall not apply to articles of mach
 
 Section was not enacted as part of the Agricultural Adjustment Act which comprises this chapter.
 
+#### Constitutionality
+
+Unconstitutionality of processing and floor stock taxes, see note set out under section 616 of this title.
+

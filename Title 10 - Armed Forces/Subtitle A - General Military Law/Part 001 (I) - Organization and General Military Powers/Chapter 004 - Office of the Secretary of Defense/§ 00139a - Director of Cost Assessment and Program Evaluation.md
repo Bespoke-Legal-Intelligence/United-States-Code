@@ -12,7 +12,7 @@ Independent Advice to Secretary of Defense.—(1) The Director of Cost Assessmen
 
 &emsp;(B) Matters assigned to the Director by the Secretary pursuant to section 113 of this title.
 
-(2) The Director may communicate views on matters within the responsibility of the Director directly to the Secretary of Defense and the Deputy Secretary of Defense without obtaining the approval or concurrence of any other official within the Department of Defense.
+(2) The Director may communicate views on matters within the responsibility of the Director directly to the Secretary of Defense and the Deputy Secretary of Defense without obtainingthe approval or concurrence of any other official within the Department of Defense.
 
 (c)
 
@@ -42,7 +42,7 @@ Responsibilities.—The Director of Cost Assessment and Program Evaluation shall
 
 &emsp;(8) Leading the development of improved analytical skills and competencies within the cost assessment and program evaluation workforce of the Department of Defense and improved tools, data, and methods to promote performance, economy, and efficiency in analyzing national security planning and the allocation of defense resources.
 
-(Added Pub. L. 111–23, title I, §101(a)(1), May 22, 2009, 123 Stat. 1705, §139c; renumbered §139a and amended Pub. L. 111–383, div. A, title IX, §901(f), title X, §1075(b)(5), Jan. 7, 2011, 124 Stat. 4322, 4369.)
+(Added Pub. L. 111–23, title I, §101(a)(1), May 22, 2009, 123 Stat. 1705, §139c; renumbered §139a and amended Pub. L. 111–383, div. A, title IX, §901(f), title X, §1075(b)(5), Jan. 7, 2011, 124 Stat. 4322, 4369; Pub. L. 112–239, div. A, title X, §1076(f)(4), Jan. 2, 2013, 126 Stat. 1952.)
 
 #### Prior Provisions
 
@@ -51,6 +51,8 @@ A prior section 139a was renumbered section 138b of this title.
 Another prior section 139a was renumbered section 2432 of this title.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (d)(4). Pub. L. 112–239, which directed amendment of par. (4) by inserting a period at end, was not executed to reflect the probable intent of Congress and the prior amendment by Pub. L. 111–383, §1075(b)(5). See 2011 Amendment note below.
 
 <b>2011</b>—Pub. L. 111–383, §901(f), renumbered section 139c of this title as this section.
 

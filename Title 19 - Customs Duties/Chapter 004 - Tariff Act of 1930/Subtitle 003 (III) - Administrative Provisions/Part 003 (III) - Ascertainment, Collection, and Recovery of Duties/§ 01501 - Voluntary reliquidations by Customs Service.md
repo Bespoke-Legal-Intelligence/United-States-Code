@@ -2,7 +2,7 @@
 
 A liquidation made in accordance with section 1500 or 1504 of this title or any reliquidation thereof made in accordance with this section may be reliquidated in any respect by the Customs Service, notwithstanding the filing of a protest, within ninety days from the date on which notice of the original liquidation is given or transmitted to the importer, his consignee or agent. Notice of such reliquidation shall be given or transmitted in the manner prescribed with respect to original liquidations under section 1500(e) of this title.
 
-(June 17, 1930, ch. 497, title IV, §501, 46 Stat. 730; June 25, 1938, ch. 679, §16(b), 52 Stat. 1084; June 25, 1948, ch. 646, §§25, 39, 62 Stat. 990, 992; Aug. 8, 1953, ch. 397, §18(c), 67 Stat. 517; Pub. L. 91–271, title II, §205, June 2, 1970, 84 Stat. 283; Pub. L. 103–182, title VI, §639, Dec. 8, 1993, 107 Stat. 2203; Pub. L. 108–429, title II, §2107, Dec. 3, 2004, 118 Stat. 2598.)
+(June 17, 1930, ch. 497, title IV, §501, 46 Stat. 730; June 25, 1938, ch. 679, §16(b), 52 Stat. 1084; June25, 1948, ch. 646, §§25, 39, 62 Stat. 990, 992; Aug. 8, 1953, ch. 397, §18(c), 67 Stat. 517; Pub. L. 91–271, title II, §205, June 2, 1970, 84 Stat. 283; Pub. L. 103–182, title VI, §639, Dec. 8, 1993, 107 Stat. 2203; Pub. L. 108–429, title II, §2107, Dec. 3, 2004, 118 Stat. 2598.)
 
 #### Prior Provisions
 
@@ -20,7 +20,7 @@ R.S. §2950 provided that the certificate of the appraiser should be deemed to b
 
 <b>2004</b>—Pub. L. 108–429 inserted “or 1504” after “section 1500” in first sentence.
 
-<b>1993</b>—Pub. L. 103–182 amended section catchline generally, substituting “Customs Service” for “appropriate customs officer; notice”, and in text substituted“the Customs Service” for “the appropriate customs officer on his own initiative” and inserted “or transmitted” after “given” in two places.
+<b>1993</b>—Pub. L. 103–182 amended section catchline generally, substituting “Customs Service” for “appropriate customs officer; notice”, and in text substituted “the Customs Service” for “the appropriate customs officer on his own initiative” and inserted “or transmitted” after “given” in two places.
 
 <b>1970</b>—Pub. L. 91–271 struck out “(a)” preceding first sentence and, in such provisions, as so redesignated, substituted provisions authorizing a reliquidation in any respect by the appropriate customs officer on his own initiative for a liquidation made in accordance with section 1500 of this title or any reliquidation thereof made in accordance with this section for provisions setting forth the procedure for an appeal for a reappraisement by the collector or the consignee.
 
@@ -46,7 +46,7 @@ Amendment by act Aug. 8, 1953, effective on and after thirtieth day following Au
 
 #### Effective Date of 1948 Amendment
 
-Section 38 of act June 25, 1948, provided that the amendment made by that act is effective Sept. 1, 1948.
+Act June 25, 1948, ch. 646, §38, 62 Stat. 992, provided that the amendment made by that act is effective Sept. 1, 1948.
 
 #### Effective Date of 1938 Amendment
 

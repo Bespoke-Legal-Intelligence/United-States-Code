@@ -70,7 +70,7 @@ Pub. L. 108–81, title V, §506, Sept. 25, 2003, 117 Stat. 1005, provided that:
 
 #### Short Title of 2010 Amendment
 
-Pub. L. 111–340, §1(a), Dec. 22, 2010, 124 Stat. 3594, provided that: “This Act \[enacting part 4 of subchapter IIof this chapter and sections 9110 and 9111 of this title, amending this section and sections 953, 958, 9103, 9105, 9105a, 9107, 9108, 9121, 9123, 9131, 9134, 9141, 9162, 9171 to 9173, and 9176 of this title, repealing chapter 34 of this title, and enacting provisions set out as notes under section 9102 of this title\] may be cited as the ‘Museum and Library Services Act of 2010’.”
+Pub. L. 111–340, §1(a), Dec. 22, 2010, 124 Stat. 3594, provided that: “This Act \[enacting part 4 of subchapter II of this chapter and sections 9110 and 9111 of this title, amending this section and sections 953, 958, 9103, 9105, 9105a, 9107, 9108, 9121, 9123, 9131, 9134, 9141, 9162, 9171 to 9173, and 9176 of this title, repealing chapter 34 of this title, and enacting provisions set out as notes under section 9102 of this title\] may be cited as the ‘Museum and Library Services Act of 2010’.”
 
 #### Short Title of 2003 Amendment
 
@@ -82,7 +82,7 @@ Pub. L. 105–128, §1, Dec. 1, 1997, 111 Stat. 2548, provided that: “This Act
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §701\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–293, provided that: “This title \[enacting this chapter, amending sections 1069b, 1504, 1505, 3441, 3473, 3489, 6621, 6645, 6648, 6649, 6813, 8091, 8102, and 8104 of this title, section 5315 of Title 5, Government Organization and Employees, section 276d–3 of former Title 40, Public Buildings, Property, and Works, section 214 of former Title 40, Appendix, section 3338 of Title 42, The Public Health and Welfare, section 254 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, and section 1666 of Title 48, Territories and Insular Possessions, repealing sections 351 to 386g, 1021 to 1047, 1221i, and 7001 to 7005 of this title, enacting provisions set out under this section and sections 9102, 9103, and 9105 of this title, and repealing provisions set out as notes under sections 351 and 1029 of this title\] may be cited as the ‘Museum and Library Services Act of 1996’.”
+Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §701\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–293, provided that: “This title \[enacting this chapter, amending sections 1069b, 1504, 1505, 3441, 3473, 3489, 6621, 6645, 6648, 6649, 6813, 8091, 8102, and 8104 of this title, section 5315 of Title 5, Government Organization and Employees, section 276d–3 of former Title 40, Public Buildings, Property, and Works, section 214 of former Title 40, Appendix, section 3338 of Title 42, The Public Health and Welfare, section 254 of Title 47, Telecommunications, and section 1666 of Title 48, Territories and Insular Possessions, repealing sections 351 to 386g, 1021 to 1047, 1221i, and 7001 to 7005 of this title, enacting provisions set out under this section and sections 9102, 9103, and 9105 of this title, and repealing provisions set out as notes under sections 351 and 1029 of this title\] may be cited as the ‘Museum and Library Services Act of 1996’.”
 
 #### Short Title
 

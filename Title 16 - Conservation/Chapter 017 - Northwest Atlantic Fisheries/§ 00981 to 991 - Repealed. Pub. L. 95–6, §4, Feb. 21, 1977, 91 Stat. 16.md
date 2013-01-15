@@ -24,5 +24,5 @@ Section 991, acts Sept. 27, 1950, ch. 1054, §12, 64 Stat. 1071; Aug. 11, 1971, 
 
 #### Effective Date of Repeal
 
-Section 4 of Pub. L. 95–6 provided that repeal of sections 981 to 991 of this title is effective Mar. 1, 1977.
+Pub. L. 95–6, §4, Feb. 21, 1977, 91 Stat. 16, provided that repeal of sections 981 to 991 of this title is effective Mar. 1, 1977.
 

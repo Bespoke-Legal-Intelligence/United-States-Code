@@ -74,7 +74,7 @@ In subsection (b)(1), the words “Each of these components” are omitted as su
 
 In subsection (b)(2), the words “In addition to the Administrator of the Federal Highway Administration authorized by section 3(e) of the Department of Transportation Act” in 23:303(a)(1) (1st sentence) are omitted as surplus.
 
-In subsection (b)(3), the words “in the competitive service” are substituted for “under the classified civilservice” to conform to 5:2102. The text of 23:303(b), (c) is omitted as unnecessary because sections 322 and 323 of the revised title restate the authority of the Secretary of Transportation.
+In subsection (b)(3), the words “in the competitive service” are substituted for “under the classified civil service” to conform to 5:2102. The text of 23:303(b), (c) is omitted as unnecessary because sections 322 and 323 of the revised title restate the authority of the Secretary of Transportation.
 
 In subsection (c), the source provisions are consolidated. The words “The Administrator shall carry out duties and powers” are substituted for “The Secretary shall carry out through the Federal Highway Administration those provisions of the Highway Safety Act of 1966 . . . for” in 23:401 (note) and “carry out the functions, powers, and duties of the Secretary” in 49:1655(f)(3)(B) as being more precise, to eliminate unnecessary words, and for consistency. The words “vested in the Secretary” are substituted for “as set forth in the statutes transferred to the Secretary” in 49:1655(f)(3)(B) for clarity and consistency.
 

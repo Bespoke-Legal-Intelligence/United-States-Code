@@ -52,5 +52,5 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 #### Applicability of Numerical Limitations
 
-Section 203(c) of Pub. L. 99–603 provided that: “The numerical limitations of sections 201 and 202 of the Immigration and Nationality Act \[8 U.S.C. 1151, 1152\] shall not apply to aliens provided lawful permanent resident status under section 249 of that Act \[8 U.S.C. 1259\].”
+Pub. L. 99–603, title II, §203(c), Nov. 6, 1986, 100 Stat. 3405, provided that: “The numerical limitations of sections 201 and 202 of the Immigration and Nationality Act \[8 U.S.C. 1151, 1152\] shall not apply to aliens provided lawful permanent resident status under section 249 of that Act \[8 U.S.C. 1259\].”
 

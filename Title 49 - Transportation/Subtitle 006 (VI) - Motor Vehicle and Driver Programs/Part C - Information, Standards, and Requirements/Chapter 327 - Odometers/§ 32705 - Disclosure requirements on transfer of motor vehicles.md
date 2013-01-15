@@ -12,11 +12,11 @@ Disclosure Requirements.—Under regulations prescribed by the Secretary of Tran
 
 (3) A person acquiring a motor vehicle for resale may not accept a written disclosure under this section unless it is complete.
 
-(4)(A) This subsection shall apply to all transfers of motor vehicles (unless otherwise exempted by the Secretary by regulation), except in the case of transfers of new motor vehicles from a vehicle manufacturer jointly to a dealer and a person engaged in the business of renting or leasing vehicles for a period of 30 days or less.
+(4)(A) This subsection shall apply to all transfers of motor vehicles (unless otherwise exempted by the Secretary by regulation), except in the case of transfers of new motor vehicles from a vehicle manufacturer jointly to a dealer and aperson engaged in the business of renting or leasing vehicles for a period of 30 days or less.
 
 (B) For purposes of subparagraph (A), the term “new motor vehicle” means any motor vehicle driven with no more than the limited use necessary in moving, transporting, or road testing such vehicle prior to delivery from the vehicle manufacturer to a dealer, but in no event shall the odometer reading of such vehicle exceed 300 miles.
 
-(5) The Secretary may exempt such classes or categories of vehicles as the Secretary deems appropriate from these requirements. Until suchtime as the Secretary amends or modifies the regulations set forth in 49 CFR 580.6, such regulations shall have full force and effect.
+(5) The Secretary may exempt such classes or categories of vehicles as the Secretary deems appropriate from these requirements. Until such time as the Secretary amends or modifies the regulations set forth in 49 CFR 580.6, such regulations shall have full force and effect.
 
 (b)
 
@@ -88,9 +88,13 @@ Auction Sales.—If a motor vehicle is sold at an auction, the auction company c
 
 Application and Revision of State Law.—(1) Except as provided in paragraph (2) of this subsection, subsections (b)–(e) of this section apply to the transfer of a motor vehicle after April 28, 1989.
 
-(2) If a State requests, the Secretary shall assist the State in revising its laws to comply with subsection (b) of this section. If a State requires time beyond April 28, 1989, to revise its laws to achieve compliance, the Secretary, onrequest of the State, may grant additional time that the Secretary considers reasonable by publishing a notice in the Federal Register. The notice shall include the reasons for granting the additional time. In granting additional time, the Secretary shall ensure that the State is making reasonable efforts to achieve compliance.
+(2) If a State requests, the Secretary shall assist the State in revising its laws to comply with subsection (b) of this section. If a State requires time beyond April 28, 1989, to revise its laws to achieve compliance, the Secretary, on request of the State, may grant additional time that the Secretary considers reasonable by publishing a notice in the Federal Register. The notice shall include the reasons for granting the additional time. In granting additional time, the Secretary shall ensure that the State is making reasonable efforts to achieve compliance.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1049; Pub. L. 103–429, §6(34), Oct. 31, 1994, 108 Stat. 4380; Pub. L. 104–287, §5(62), Oct. 11, 1996, 110 Stat. 3394; Pub. L. 105–178, title VII, §7105, June 9, 1998, 112 Stat. 467.)
+(g)
+
+Electronic Disclosures.—Not later than 18 months after the date of enactment of the Motor Vehicle and Highway Safety Improvement Act of 2012, in carrying out this section, the Secretary shall prescribe regulations permitting any written disclosures or notices and related matters to be provided electronically.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1049; Pub. L. 103–429, §6(34), Oct. 31, 1994, 108 Stat. 4380; Pub. L. 104–287, §5(62), Oct. 11, 1996, 110 Stat. 3394; Pub. L. 105–178, title VII, §7105, June 9, 1998, 112 Stat. 467; Pub. L. 112–141, div. C, title I, §31205(b), July 6, 2012, 126 Stat. 761.)
 
 Historical and Revision Notes
 
@@ -182,7 +186,13 @@ This amends 49:32705(c)(2)(A) to clarify the restatement of 15:1988(e)(2)(A) by 
 
 This amends 49:32702(8) and 32705 to clarify the restatement of 15:1982(5) and 1988 by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 1049).
 
+#### References in Text
+
+The date of enactment of the Motor Vehicle and Highway Safety Improvement Act of 2012, referred to in subsec. (g), is the date of enactment of title I of div. C of Pub. L. 112–141, which was approved July 6, 2012.
+
 #### Amendments
+
+<b>2012</b>—Subsec. (g). Pub. L. 112–141 added subsec. (g).
 
 <b>1998</b>—Subsec. (a)(4), (5). Pub. L. 105–178 added pars. (4) and (5).
 
@@ -204,6 +214,10 @@ Subsec. (b)(3)(A). Pub. L. 104–287, §5(62)(B), substituted “may not be lice
 
 <b>1994</b>—Subsec. (c)(2)(A). Pub. L. 103–429 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the mileage disclosure requirements of subsection (a) of this section; and”.
 
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
+
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–287 effective July 5, 1994, see section 8(1) of Pub. L. 104–287, set out as a note under section 5303 of this title.
@@ -214,5 +228,5 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 
 #### Regulations
 
-Section 4(q) of Pub. L. 103–272 provided that: “The revision of regulations, referred to in section 32705(b)(2)(A) of title 49, United States Code, as enacted by section 1 of this Act, that is required by section 7 of the Independent Safety Board Act Amendments of 1990 (Public Law 101–641, 104 Stat. 4657) \[former 15 U.S.C.1988(d)(1)(C), 1988 note\] shall be prescribed not later than May 28, 1991.”
+Pub. L. 103–272, §4(q), July 5, 1994, 108 Stat. 1371, provided that: “The revision of regulations, referred to in section 32705(b)(2)(A) of title 49, United States Code, as enacted by section 1 of this Act, that is required by section 7 of the Independent Safety Board Act Amendments of 1990 (Public Law 101–641, 104 Stat. 4657) \[former 15 U.S.C. 1988(d)(1)(C), 1988 note\] shall be prescribed not later than May 28, 1991.”
 

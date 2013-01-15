@@ -20,7 +20,7 @@
 
 &emsp;(1) is not entitled to pay from the agency, except to the extent that the pay received from the State or local government is less than the appropriate rate of pay which the duties would warrant under the applicable pay provisions of this title or other applicable authority;
 
-&emsp;(2) is deemed an employee of the agency for the purpose of chapter 73 of this title, the Ethics in Government Act of 1978, chapter 21 of title 41, sections 203, 205, 207, 208, 209, 602, 603, 606, 607, 643, 654, 1905, and 1913 of title 18, sections 1343, 1344, and 1349(b) of title 31, and the Federal Tort Claims Act and any other Federal tort liability statute; and
+&emsp;(2) is deemed an employee of the agency for the purpose of chapter 73 of this title, the Ethics in Government Act of 1978, chapter 21 oftitle 41, sections 203, 205, 207, 208, 209, 602, 603, 606, 607, 643, 654, 1905, and 1913 of title 18, sections 1343, 1344, and 1349(b) of title 31, and the Federal Tort Claims Act and any other Federal tort liability statute; and
 
 &emsp;(3) is subject to such regulations as the President may prescribe.
 

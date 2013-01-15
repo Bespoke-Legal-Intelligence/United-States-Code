@@ -2,7 +2,7 @@
 
 (a)(1) A civilian officer or employee of the Department of Defense who, in accordance with law or regulation, participates in a program for the automatic deposit of pay to a financial institution may be reimbursed for a covered late-deposit charge.
 
-(2) A covered late-deposit charge for purposes of paragraph (1) is a charge (including an overdraft charge or a minimum balance charge) that is levied by a financial institution and that results from an administrative or mechanical error on the part of the Government that causesthe pay of the officer or employee concerned to be deposited late or in an incorrect manner or amount.
+(2) A covered late-deposit charge for purposes of paragraph (1) is a charge (including an overdraft charge or a minimum balance charge) that is levied by a financial institution and that results from an administrative or mechanical error on the part of the Government that causes the pay of the officer or employee concerned to be deposited late or in an incorrect manner or amount.
 
 (b) Reimbursements under this section shall be made from appropriations available for the pay of the officer or employee concerned.
 
@@ -26,5 +26,5 @@
 
 #### Effective Date
 
-Section applicable with respect to pay and allowances deposited (or scheduled to be deposited) on or after first day of first month beginning after Nov. 29, 1989, see section 664(c) of Pub. L. 101–189, set out as an Effective Date of 1989 Amendment note under section 1053 of this title.
+Section applicable with respect to pay and allowances deposited (or scheduled to be deposited) on orafter first day of first month beginning after Nov. 29, 1989, see section 664(c) of Pub. L. 101–189, set out as an Effective Date of 1989 Amendment note under section 1053 of this title.
 

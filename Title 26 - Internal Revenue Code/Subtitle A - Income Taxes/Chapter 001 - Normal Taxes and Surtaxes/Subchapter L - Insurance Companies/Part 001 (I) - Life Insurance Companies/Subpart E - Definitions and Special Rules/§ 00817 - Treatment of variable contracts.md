@@ -22,7 +22,7 @@ In the case of variable contracts, the basis of each asset in a segregated asset
 
 #### (c) Separate accounting
 
-For purposes of this part, a life insurance company which issues variable contracts shall separately account for the various income, exclusion, deduction, asset, reserve, and other liability items properly attributable to such variable contracts. For such items as are not accounted for directly, separate accounting shall be made—
+For purposes of this part, a life insurance company which issues variable contracts shall separately account for the various income, exclusion, deduction, asset, reserve, and other liability items properly attributable to such variablecontracts. For such items as are not accounted for directly, separate accounting shall be made—
 
 &emsp;(1) in accordance with the method regularly employed by such company, if such method is reasonable, and
 
@@ -148,19 +148,19 @@ Amendment by Pub. L. 108–218 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 1997 Amendment
 
-Section 1271(c) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section and sections 851 and 1092 of this title\] shall apply to taxable years beginning after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title XII, §1271(c), Aug. 5, 1997, 111 Stat. 1037, provided that: “The amendments made by this section \[amending this section and sections 851 and 1092 of this title\] shall apply to taxable years beginning after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 #### Effective Date of 1996 Amendment
 
-Section 1611(b) of Pub. L. 104–188 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1995.”
+Pub. L. 104–188, title I, §1611(b), Aug. 20, 1996, 110 Stat. 1846, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1995.”
 
 #### Effective Date of 1988 Amendment
 
-Section 6080(b) of Pub. L. 100–647 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1987.”
+Pub. L. 100–647, title VI, §6080(b), Nov. 10, 1988, 102 Stat. 3710, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1987.”
 
 #### Effective Date of 1986 Amendment
 
-Section 1821(t)(2) of Pub. L. 99–514 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply—
+Pub. L. 99–514, title XVIII, §1821(t)(2), Oct. 22, 1986, 100 Stat. 2844, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply—
 
 &emsp;“(A) to contracts issued after December 31, 1986, and
 
@@ -174,7 +174,7 @@ Section applicable to taxable years beginning after Dec. 31, 1983, see section 2
 
 #### Delay in Effective Date for Diversification Requirements With Respect to Accounts for Certain Immediate Annuities
 
-Section 1010(i) of Pub. L. 100–647 provided that: “Section 817(h) of the 1986 Code shall not apply until January 1, 1989, with respect to a variable contract (as defined in section 817(d) of the 1986 Code) if—
+Pub. L. 100–647, title I, §1010(i), Nov. 10, 1988, 102 Stat. 3455, provided that: “Section 817(h) of the 1986 Code shall not apply until January 1, 1989, with respect to a variable contract (as defined in section 817(d) of the 1986 Code) if—
 
 &emsp;“(1) such contract provides for the payment of an immediate annuity (as defined in section 72(u)(4) of the 1986 Code),
 

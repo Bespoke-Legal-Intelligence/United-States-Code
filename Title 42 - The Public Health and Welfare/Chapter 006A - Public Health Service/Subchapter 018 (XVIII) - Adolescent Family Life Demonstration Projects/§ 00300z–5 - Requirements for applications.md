@@ -16,7 +16,7 @@ An application for a grant for a demonstration project for services under this s
 
 &emsp;(B) in the case of an applicant who will provide prevention services, a description of the necessary services to be provided and how the applicant will provide such services;
 
-&emsp;(6) a description of the manner in which adolescents needing services other than the services provided directly by the applicant will beidentified and how access and appropriate referral to such other services (such as medicaid; licensed adoption agencies; maternity home services; public assistance; employment services; child care services for adolescent parents; and other city, county, and State programs related to adolescent pregnancy) will be provided, including a description of a plan to coordinate such other services with the services supported under this subchapter;
+&emsp;(6) a description of the manner in which adolescents needing services other than the services provided directly by the applicant will be identified and how access and appropriate referral to such other services (such as medicaid; licensed adoption agencies; maternity home services; public assistance; employment services; child care services for adolescent parents; and other city, county, and State programs related to adolescent pregnancy) will be provided, including a description of a plan to coordinate such other services with the services supported under this subchapter;
 
 &emsp;(7) a description of the applicant's capacity to continue services as Federal funds decrease and in the absence of Federal assistance;
 

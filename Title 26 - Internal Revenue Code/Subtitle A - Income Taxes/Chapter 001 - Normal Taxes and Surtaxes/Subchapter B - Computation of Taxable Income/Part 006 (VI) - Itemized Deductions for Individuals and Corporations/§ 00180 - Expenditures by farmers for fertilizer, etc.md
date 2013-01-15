@@ -20,5 +20,5 @@ The election under subsection (a) for any taxable year shall be made within the 
 
 #### Effective Date
 
-Section 6(d) of Pub. L. 86–779 provided that: “The amendments made by subsections (a), (b), and (c) \[enacting this section and amending section 263 of this title\] shall apply to taxable years beginning after December 31, 1959.”
+Pub. L. 86–779, §6(d), Sept. 14, 1960, 74 Stat. 1001, provided that: “The amendments made by subsections (a), (b), and (c) \[enacting this section and amending section 263 of this title\] shall apply to taxable years beginning after December 31, 1959.”
 

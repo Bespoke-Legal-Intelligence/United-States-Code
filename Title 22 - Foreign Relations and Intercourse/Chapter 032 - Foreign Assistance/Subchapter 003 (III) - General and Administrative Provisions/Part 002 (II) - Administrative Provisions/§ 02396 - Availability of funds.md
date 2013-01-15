@@ -10,7 +10,7 @@ Appropriations for the purposes of or pursuant to this chapter (except for subch
 
 &emsp;(3) contracting with individuals for personal services abroad: <i>Provided</i>, That such individuals shall not be regarded as employees of the United States Government for the purpose of any law administered by the Civil Service Commission;
 
-&emsp;(4) purchase, maintenance, operation, and hire of aircraft: <i>Provided</i>, That aircraft for administrative purposes may be purchased only as specifically provided for in an appropriation or other Act;
+&emsp;(4) purchase, maintenance, operation, and hire of aircraft: <i>Provided</i>, That aircraft for administrative purposes may be purchased onlyas specifically provided for in an appropriation or other Act;
 
 &emsp;(5) purchase and hire of passenger motor vehicles: <i>Provided</i>, That, except as may otherwise be provided in an appropriation or other Act, passenger motor vehicles for administrative purposes outside the United States may be purchased for replacement only, and such vehicles may be exchanged or sold and replaced by an equal number of such vehicles, and the cost, including exchange allowance, of each such replacement shall not exceed the current market price in the United States of a mid-sized sedan or station wagon meeting the requirements established by the General Services Administration for a Class III vehicle of United States manufacture (or, if the replacement vehicle is a right-hand drive vehicle, 120 percent of that price) in the case of an automobile for the chief of any special mission or staff outside the United States established under section 2391 of this title: <i>Provided further</i>, That passenger motor vehicles, other than one for the official use of the head of the agency primarily responsible for administering subchapter I of this chapter, may be purchased for use in the United States only as may be specifically provided in an appropriation or other Act;
 
@@ -46,7 +46,7 @@ Notwithstanding any other law, not to exceed $6,000,000 of the funds available f
 
 #### (d) Education of dependents
 
-Not to exceed $2,500,000 of the funds available for assistance under this chapter may be used in any fiscal year to provide assistance, on such terms and conditions as are deemed appropriate, to schools established, or to be established, outside the United States whenever it is determined that such action would be more economical or would best serve the interests of the United States in providing for the education of dependents of personnel carrying out activities authorized by this chapter and dependents of United States Government personnel, in lieu of acquisition or construction pursuant to subsection (c) of this section.
+Not to exceed $2,500,000 of the funds available for assistance under this chapter may be used in any fiscal year to provide assistance, on such terms and conditions as are deemed appropriate,to schools established, or to be established, outside the United States whenever it is determined that such action would be more economical or would best serve the interests of the United States in providing for the education of dependents of personnel carrying out activities authorized by this chapter and dependents of United States Government personnel, in lieu of acquisition or construction pursuant to subsection (c) of this section.
 
 #### (e) Training costs
 
@@ -74,11 +74,11 @@ In carrying out programs under this chapter, the President shall take all approp
 
 Notwithstanding section 2399a <sup>4</sup> of this title or any other provision of this chapter, none of the funds made available to carry out this chapter shall be used to finance the purchase, sale, long-term lease, exchange, or guaranty of a sale of motor vehicles unless such motor vehicles are manufactured in the United States: <i>Provided</i>, That where special circumstances exist the President is authorized to waive the provisions of this section in order to carry out the purposes of this chapter.
 
-(Pub. L. 87–195, pt. III, §636, Sept. 4, 1961, 75 Stat. 457; Pub. L. 88–205, pt. III, §302(f), Dec. 16, 1963, 77 Stat. 389; Pub. L. 89–171, pt. III, §302(h), Sept. 6, 1965, 79 Stat. 660; Pub. L. 90–137, pt. III, §302(j)–(<i>o</i>), Nov. 14, 1967, 81 Stat. 461, 462; Pub. L. 90–554, pt. III, §302(d), Oct. 8, 1968, 82 Stat. 965; Pub. L. 91–175, pt. III, §306, Dec. 30, 1969, 83 Stat. 821; Pub. L. 94–329, title I, §106(b)(5), June 30, 1976, 90 Stat. 733; Pub. L. 95–424, title I, §102(g)(2)(H)–(J), title V, §505, Oct. 6, 1978, 92 Stat. 943, 960; Pub. L. 99–83, title XII, §1211(b)(1), Aug. 8, 1985, 99 Stat. 279; Pub. L. 99–234, title I, §107(b), Jan. 2, 1986, 99 Stat. 1759; Pub. L. 99–550, §2(b), Oct. 27, 1986, 100 Stat. 3070; Pub. L. 100–202, §101(e) \[title II, §201\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–141; Pub. L. 101–167, title III, Nov. 21, 1989, 103 Stat. 1214; Pub. L. 107–372, title II, §271(7), Dec. 19, 2002, 116 Stat. 3094; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(Q), June 18, 2008, 122 Stat. 1820.)
+(Pub. L. 87–195, pt. III, §636, Sept. 4, 1961, 75 Stat. 457; Pub. L. 88–205, pt. III, §302(f), Dec. 16, 1963, 77 Stat. 389; Pub. L. 89–171, pt. III, §302(h), Sept. 6, 1965, 79 Stat. 660; Pub. L. 90–137, pt. III, §302(j)–(o), Nov. 14, 1967, 81 Stat. 461, 462; Pub. L. 90–554, pt. III, §302(d), Oct. 8, 1968, 82 Stat. 965; Pub. L. 91–175, pt. III, §306, Dec. 30, 1969, 83 Stat. 821; Pub. L. 94–329, title I, §106(b)(5), June 30, 1976, 90 Stat. 733; Pub. L. 95–424, title I, §102(g)(2)(H)–(J), title V, §505, Oct. 6, 1978, 92 Stat. 943, 960; Pub. L. 99–83, title XII, §1211(b)(1), Aug. 8, 1985, 99 Stat. 279; Pub. L. 99–234, title I, §107(b), Jan. 2, 1986, 99 Stat. 1759; Pub. L. 99–550, §2(b), Oct. 27, 1986, 100 Stat. 3070; Pub. L. 100–202, §101(e) \[title II, §201\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–141; Pub. L. 101–167, title III, Nov. 21, 1989, 103 Stat. 1214; Pub. L. 107–372, title II, §271(7), Dec. 19, 2002, 116 Stat. 3094; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(Q), June 18, 2008, 122 Stat. 1820.)
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) to (e), (h), and (i), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in subsecs. (a) to (e), (h), and (i), was in the original “this Act”, meaning Pub. L.87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 Section 3651 of the Revised Statutes (31 U.S.C. 543), referred to in subsec. (a)(7), was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, the first section of which enacted Title 31, Money and Finance.
 
@@ -90,7 +90,7 @@ Sections 1881 to 1888 of title 7, referred to in subsec. (e), which related to t
 
 The Food for Peace Act, as amended, referred to in subsec. (f), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified principally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7, and Tables.
 
-The Latin American Development Act, as amended, referred to in subsec. (f), is Pub. L. 86–735, Sept. 8, 1960, 74 Stat. 869, as amended, which enacted sections 1942 to 1945 of this title and amended section 1753a of this title. For complete classification of this Act to the Code, seeShort Title note set out under section 1942 of this title and Tables.
+The Latin American Development Act, as amended, referred to in subsec. (f), is Pub. L. 86–735, Sept. 8, 1960, 74 Stat. 869, as amended, which enacted sections 1942 to 1945 of this title and amended section 1753a of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1942 of this title and Tables.
 
 The Arms Export Control Act, referred to in subsec. (g), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
@@ -146,15 +146,15 @@ Subsec. (g)(2), (3). Pub. L. 94–329, §106(b)(5)(B), substituted “and relate
 
 Subsec. (a)(16). Pub. L. 90–137, §302(k), substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey” in two places.
 
-Subsec. (d). Pub. L. 90–137, §302(<i>l</i>), increased limitation on funds available for education of dependents from $1,500,000 to $2,500,000.
+Subsec. (d). Pub. L. 90–137, §302(l), increased limitation on funds available for education of dependents from $1,500,000 to $2,500,000.
 
 Subsec. (e). Pub. L. 90–137, §302(m), substituted reference to section 5533 of title 5 for section 301 of the Dual Compensation Act (5 U.S.C. 3105).
 
 Subsec. (g)(2). Pub. L. 90–137, §302(n), substituted reference to section 5702(c) of title 5 for former section 836 of title 5.
 
-Subsec. (i). Pub. L. 90–137, §302(<i>o</i>), added subsec. (i).
+Subsec. (i). Pub. L. 90–137, §302(o), added subsec. (i).
 
-<b>1965</b>—Subsec. (e). Pub. L. 89–171, §302(h)(1), substituted “section 301 of the Dual Compensation Act (5 U.S.C. 3105)” for “section 2 of the Act of July 31, 1894, as amended (5 U.S.C. 62)”.
+<b>1965</b>—Subsec. (e). Pub. L. 89–171, §302(h)(1), substituted “section 301 of the Dual Compensation Act (5U.S.C. 3105)” for “section 2 of the Act of July 31, 1894, as amended (5 U.S.C. 62)”.
 
 Subsec. (f). Pub. L. 89–171, §302(h)(2), substituted “Latin American Development Act, as amended” for “Act to provide for assistance in the development of Latin America and in the reconstruction of Chile, and for other purposes”.
 

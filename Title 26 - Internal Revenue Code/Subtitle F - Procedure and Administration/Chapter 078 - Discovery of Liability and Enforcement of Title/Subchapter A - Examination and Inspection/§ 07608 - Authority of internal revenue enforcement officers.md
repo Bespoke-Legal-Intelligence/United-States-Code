@@ -182,15 +182,15 @@ Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L.
 
 #### Effective Date of 1996 Amendment
 
-Section 1205(c)(3) of Pub. L. 104–168 provided that: “The amendments made by this subsection \[amending this section\] shall take effect on the date of the enactment of this Act \[July 30, 1996\].”
+Pub. L. 104–168, title XII, §1205(c)(3), July 30, 1996, 110 Stat. 1472, provided that: “The amendments made by this subsection \[amending this section\] shall take effect on the date of the enactment of this Act \[July 30, 1996\].”
 
 #### Effective Date of 1988 Amendment
 
-Section 7601(c)(3) of Pub. L. 100–690, as amended by Pub. L. 101–647, title XXXIII, §3301(a), Nov. 29, 1990, 104 Stat. 4917; Pub. L. 104–168, title XII, §1205(a), July 30, 1996, 110 Stat. 1471, provided that: “The amendments made by this subsection \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 18, 1988\].”
+Pub. L. 100–690, title VII, §7601(c)(3), Nov. 18, 1988, 102 Stat. 4507, as amended by Pub. L. 101–647, title XXXIII, §3301(a), Nov. 29, 1990, 104 Stat. 4917; Pub. L. 104–168, title XII, §1205(a), July 30, 1996, 110 Stat. 1471, provided that: “The amendments made by this subsection \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 18, 1988\].”
 
 #### Effective Date of 1962 Amendment
 
-Section 6(b) of Pub. L. 87–863 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the day after the date of enactment of this Act \[Oct. 23, 1962\].”
+Pub. L. 87–863, §6(b), Oct. 23, 1962, 76 Stat. 1143, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the day after the date of enactment of this Act \[Oct. 23, 1962\].”
 
 #### Effective Date
 

@@ -34,7 +34,7 @@
 
 #### (1) Establishment
 
-&emsp;To be eligible for assistance under this subpart, the chief elected official described in subsection (a)(1) of this section shall establish or designate an HIV health services planning council that shall reflect in its composition the demographics of the population of individuals with HIV/AIDS in the eligible area involved, with particular consideration given to disproportionately affected and historically underserved groups and subpopulations. Nominations for membership on the council shall be identified through an open process and candidates shall be selected based on locally delineated and publicized criteria. Such criteria shall include a conflict-of-interest standard that is in accordance with paragraph (5).
+&emsp;To be eligible for assistance under this subpart, the chief elected official described in subsection (a)(1) of this section shall establish or designate an HIV health services planning council that shall reflect in its composition the demographics of the population of individuals with HIV/AIDS in the eligible area involved, with particular consideration given to disproportionately affected and historically underserved groups and subpopulations. Nominations for membership on the council shall be identified through an open process and candidates shall be selected based on locally delineated and publicized criteria. Such criteriashall include a conflict-of-interest standard that is in accordance with paragraph (5).
 
 #### (2) Representation
 
@@ -106,7 +106,7 @@
 
 &emsp;&emsp;(D) develop a comprehensive plan for the organization and delivery of health and support services described in section 300ff–14 of this title that—
 
-&emsp;&emsp;&emsp;(i) includes a strategy for identifying individuals who know their HIV status and are not receiving such services and for informing the individuals of and enabling the individuals to utilize the services, giving particular attention to eliminating disparities in access and services among affected subpopulations and historically underserved communities, and including discrete goals, a timetable, and an appropriate allocation of funds;
+&emsp;&emsp;&emsp;(i) includes a strategy for identifying individuals who know their HIV status and are not receiving such services and for informing the individuals of and enabling the individuals to utilize the services, giving particular attention to eliminatingdisparities in access and services among affected subpopulations and historically underserved communities, and including discrete goals, a timetable, and an appropriate allocation of funds;
 
 &emsp;&emsp;&emsp;(ii) includes a strategy to coordinate the provision of such services with programs for HIV prevention (including outreach and early intervention) and for the prevention and treatment of substance abuse (including programs that provide comprehensive treatment services for such abuse);
 
@@ -158,7 +158,7 @@
 
 &emsp;&emsp;&emsp;(iii) Detailed minutes of each meeting of the council shall be kept. The accuracy of all minutes shall be certified to by the chair of the council.
 
-&emsp;&emsp;&emsp;(iv) This subparagraph does not apply to any disclosure of information of a personal nature that would constitute a clearly unwarranted invasion of personal privacy, including any disclosure of medical information or personnel matters.
+&emsp;&emsp;&emsp;(iv) This subparagraph does not apply to any disclosure of information of a personalnature that would constitute a clearly unwarranted invasion of personal privacy, including any disclosure of medical information or personnel matters.
 
 #### (c) Grievance procedures
 

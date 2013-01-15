@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) the limit under subsection (a)(1)(A) <sup>1</sup> with respect to the candidate shall be tripled;
 
-&emsp;&emsp;(B) the limit under subsection (a)(3) <sup>1</sup> shall not apply with respect to any contribution made with respect to the candidate if the contribution is made under the increased limit allowed under subparagraph (A) during a period in which the candidate may accept such a contribution; and
+&emsp;&emsp;(B) the limit under subsection (a)(3) <sup>1</sup> shall not apply with respect to any contribution made with respect to the candidate if thecontribution is made under the increased limit allowed under subparagraph (A) during a period in which the candidate may accept such a contribution; and
 
 &emsp;&emsp;(C) the limits under subsection (d) <sup>1</sup> with respect to any expenditure by a State or national committee of a political party on behalf of the candidate shall not apply.
 
@@ -48,7 +48,7 @@
 
 #### (B) Effect of withdrawal of an opposing candidate
 
-&emsp;&emsp;A candidate and a candidate's authorized committee shall not accept any contributionand a party shall not make any expenditure under the increased limit after the date on which an opposing candidate ceases to be a candidate to the extent that the amount of such increased limit is attributable to such an opposing candidate.
+&emsp;&emsp;A candidate and a candidate's authorized committee shall not accept any contribution and a party shall not make any expenditure under the increased limit after the date on which an opposing candidate ceases to be a candidate to the extent that the amount of such increased limit is attributable to such an opposing candidate.
 
 #### (4) Disposal of excess contributions
 
@@ -82,7 +82,7 @@
 
 #### (D) Additional notification
 
-&emsp;&emsp;After a candidate files an initial notification under subparagraph (C), the candidate shall file an additional notification each time expenditures from personal funds are made or obligated to be made in an aggregate amount that exceeds $10,000. Such notification shall be filed not later than 24 hours after the expenditure is made.
+&emsp;&emsp;After a candidate files an initial notification under subparagraph (C), the candidateshall file an additional notification each time expenditures from personal funds are made or obligated to be made in an aggregate amount that exceeds $10,000. Such notification shall be filed not later than 24 hours after the expenditure is made.
 
 #### (E) Contents
 
@@ -115,6 +115,10 @@
 #### References in Text
 
 Subsections (a)(1)(A), (3), and (d), referred to in subsec. (a)(1), probably mean subsections (a)(1)(A), (3), and (d) of section 441a of this title.
+
+#### Constitutionality
+
+See Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
 
 #### Effective Date
 

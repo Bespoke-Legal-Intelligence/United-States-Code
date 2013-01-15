@@ -1,12 +1,12 @@
 ### §280. Representation in South Pacific Commission; appointment of commissioners and alternates
 
-The President is hereby authorized to accept membership for the United States in the South Pacific Commission, created by the Agreement Establishing the South Pacific Commission, signed on February 6, 1947, at Canberra, Australia, by delegates representing the Governments of Australia, the French Republic, the Kingdom of the Netherlands, New Zealand, the United Kingdom of Great Britain and Northern Ireland, and the United States of America, andto appoint the United States Commissioners, and their alternates, thereto.
+The President is hereby authorized to accept membership for the United States in the South Pacific Commission, created by the Agreement Establishing the South Pacific Commission, signed on February 6, 1947, at Canberra, Australia, by delegates representing the Governments of Australia, the French Republic, the Kingdom of the Netherlands, New Zealand, the United Kingdom of Great Britain and Northern Ireland, and the United States of America, and to appoint the United States Commissioners, and their alternates, thereto.
 
 (Jan. 28, 1948, ch. 38, §1, 62 Stat. 15.)
 
 #### Purpose of Commission
 
-In defining the purposes of act Jan. 28, 1948, Congress stated that:
+Act Jan. 28, 1948, ch. 38, 62 Stat. 15, provided that:
 
 “Whereas delegates representing the Governments of Australia, the French Republic, the Kingdom of the Netherlands, New Zealand, the United Kingdom of Great Britain and Northern Ireland, and the United States of America attended the South Seas Conference held at Canberra, Australia, and signed an ‘Agreement Establishing the South Pacific Commission’ on February 6, 1947; and
 

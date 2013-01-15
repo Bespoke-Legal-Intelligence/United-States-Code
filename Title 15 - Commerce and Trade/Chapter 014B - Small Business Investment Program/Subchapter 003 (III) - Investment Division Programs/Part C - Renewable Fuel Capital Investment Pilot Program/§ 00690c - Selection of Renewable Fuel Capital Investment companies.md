@@ -86,11 +86,11 @@ A company desiring to be designated as a Renewable Fuel Capital Investment compa
 
 &emsp;&emsp;&emsp;(i) a viable plan that reasonably projects the capacity of the applicant to raise the amount (in cash or in-kind) required under subparagraph (A); and
 
-&emsp;&emsp;&emsp;(ii) binding commitments in an amount equal to not less than 20 percent of the total amount required under paragraph (A).
+&emsp;&emsp;&emsp;(ii) binding commitments in an amount equal to not less than 20 percent of the total amount required under paragraph <sup>1</sup> (A).
 
 #### (C) Limitation
 
-&emsp;&emsp;The total amount of a <sup>1</sup> in-kind contributions by a company shall be not more than 50 percent of the total contributions by a company.
+&emsp;&emsp;The total amount of a <sup>2</sup> in-kind contributions by a company shall be not more than 50 percent of the total contributions by a company.
 
 #### (e) Final approval; designation
 
@@ -106,5 +106,7 @@ The Administrator shall, with respect to each applicant conditionally approved u
 
 (Pub. L. 85–699, title III, §384, as added Pub. L. 110–140, title XII, §1207, Dec. 19, 2007, 121 Stat. 1776.)
 
-<i><sup>1</sup></i><i> So in original. The article probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “subparagraph”.</i>
+
+<i><sup>2</sup></i><i> So in original. The article probably should not appear.</i>
 

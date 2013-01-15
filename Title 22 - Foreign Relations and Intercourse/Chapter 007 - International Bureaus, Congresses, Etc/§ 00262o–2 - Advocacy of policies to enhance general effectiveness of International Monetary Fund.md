@@ -22,7 +22,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 &emsp;(3) Vigorously promote policies to increase the effectiveness of the International Monetary Fund, in concert with appropriate international authorities and other international financial institutions (as defined in section 262r(c)(2) of this title), in strengthening financial systems in developing countries, and encouraging the adoption of sound banking principles and practices, including the development of laws and regulations that will help to ensure that domestic financial institutions meet strong standards regarding capital reserves, regulatory oversight, and transparency.
 
-&emsp;(4) Vigorously promote policies to increase the effectiveness of the International Monetary Fund, in concert with appropriate international authorities and other international financial institutions (as defined in section 262r(c)(2) of this title), in facilitating the development and implementation of internationally acceptable domestic bankruptcy laws and regulations in developing countries, including the provision of technical assistance as appropriate.
+&emsp;(4) Vigorously promote policies to increase the effectiveness of the International Monetary Fund, in concert with appropriate international authorities and other international financial institutions (as defined in section 262r(c)(2) of this title), in facilitating the development and implementation of internationally acceptable domestic bankruptcy laws andregulations in developing countries, including the provision of technical assistance as appropriate.
 
 &emsp;(5) Vigorously promote policies that aim at appropriate burden-sharing by the private sector so that investors and creditors bear more fully the consequences of their decisions, and accordingly advocate policies which include—
 
@@ -64,7 +64,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 &emsp;(13) Facilitate greater International Monetary Fund accountability and enhance International Monetary Fund self-evaluation by vigorously promoting review of the effectiveness of the Office of Internal Audit and Inspection and the Executive Board's external evaluation pilot program and, if necessary, the establishment of an operations evaluation department modeled on the experience of the International Bank for Reconstruction and Development, guided by such key principles as usefulness, credibility, transparency, and independence.
 
-&emsp;(14) Vigorously promote coordination with the International Bank for Reconstruction and Development and other international financial institutions (as defined in section 262r(c)(2) of this title) in promoting structural reforms which facilitate the provision of credit to small businesses, including microenterpriselending, especially in the world's poorest, heavily indebted countries.
+&emsp;(14) Vigorously promote coordination with the International Bank for Reconstruction and Development and other international financial institutions (as defined in section 262r(c)(2) of this title) in promoting structural reforms which facilitate the provision of credit to small businesses, including microenterprise lending, especially in the world's poorest, heavily indebted countries.
 
 &emsp;(15) Work with the International Monetary Fund to—
 

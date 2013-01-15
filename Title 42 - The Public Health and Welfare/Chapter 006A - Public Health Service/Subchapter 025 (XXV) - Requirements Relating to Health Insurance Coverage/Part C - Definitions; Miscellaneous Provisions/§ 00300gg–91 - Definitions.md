@@ -286,7 +286,7 @@ For purposes of this subchapter:
 
 #### (A) Application of aggregation rule for employers
 
-&emsp;&emsp;all <sup>4</sup> persons treated as a single employer under subsection (b), (c), (m), or (<i>o</i>) of section 414 of title 26 shall be treated as 1 employer.
+&emsp;&emsp;all <sup>4</sup> persons treated as a single employer under subsection (b), (c), (m), or (o) of section 414 of title 26 shall be treated as 1 employer.
 
 #### (B) Employers not in existence in preceding year
 

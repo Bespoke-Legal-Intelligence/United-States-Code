@@ -28,11 +28,11 @@ The penalties set forth in this section shall be in addition to any other availa
 
 &emsp;&emsp;(D) Remodeling, adding to, reconstructing, or demolishing any part of the mortgaged property or subtracting from any real or personal property of the project, without the prior written approval of the Secretary.
 
-&emsp;&emsp;(E) Requiring, as a condition of the occupancy or leasing of any unit in the project, any consideration or deposit other than the prepayment of the first month's rent, plus a security deposit in an amount not in excess of 1 month's rent, to guarantee the performance of the covenants of the lease.
+&emsp;&emsp;(E) Requiring, as a condition of the occupancy or leasing of any unit in the project,any consideration or deposit other than the prepayment of the first month's rent, plus a security deposit in an amount not in excess of 1 month's rent, to guarantee the performance of the covenants of the lease.
 
 &emsp;&emsp;(F) Not holding any funds collected as security deposits separate and apart from all other funds of the project in a trust account, the amount of which at all times equals or exceeds the aggregate of all outstanding obligations under the account.
 
-&emsp;&emsp;(G) Payment for services, supplies, or materials which exceeds $500 and substantially exceeds the amount ordinarily paid for suchservices, supplies, or materials in the area where the services are rendered or the supplies or materials furnished.
+&emsp;&emsp;(G) Payment for services, supplies, or materials which exceeds $500 and substantially exceeds the amount ordinarily paid for such services, supplies, or materials in the area where the services are rendered or the supplies or materials furnished.
 
 &emsp;&emsp;(H) Failure to maintain at any time the mortgaged property, equipment, buildings, plans, offices, apparatus, devices, books, contracts, records, documents, and other related papers (including failure to keep copies of all written contracts or other instruments which affect the mortgaged property) in reasonable condition for proper audit and for examination and inspection at any reasonable time by the Secretary or any duly authorized agents of the Secretary.
 
@@ -78,11 +78,11 @@ The penalties set forth in this section shall be in addition to any other availa
 
 #### (1) In general
 
-&emsp;After exhausting all administrative remedies established by the Secretary under subsection (d)(1) of this section, a mortgagor against whom the Secretary has imposed a civil money penalty under subsection (b) or (c) of this section may obtain a review of the penalty and such ancillary issues as may be addressed in the notice of determination to impose a penalty under subsection (d)(1)(A) of this section in the appropriate court of appeals of the United States, by filing in such court, within 20 days after the entry of such order or determination, a written petition praying that the Secretary's order or determination be modified or be set aside in whole or in part.
+&emsp;After exhausting all administrative remedies established by the Secretary under subsection (d)(1) of this section, a mortgagor against whom the Secretary has imposed a civil money penalty under subsection (b) or (c) of this section may obtain a review of the penalty and such ancillary issues as may be addressed in the notice of determination to impose a penalty under subsection (d)(1)(A) of this section in the appropriate court of appeals of the United States, by filing in such court, within 20 days after the entry of such order or determination, a written petitionpraying that the Secretary's order or determination be modified or be set aside in whole or in part.
 
 #### (2) Objections not raised in hearing
 
-&emsp;The court shall not consider any objection that was not raised in the hearing conducted pursuant to subsection (d)(1) of this section unless a demonstration is made of extraordinary circumstances causing the failure to raise the objection. If any party demonstrates to the satisfaction of the court that additional evidence not presented at such hearing is material and that there were reasonable grounds for the failure to present such evidence at thehearing, the court shall remand the matter to the Secretary for consideration of such additional evidence.
+&emsp;The court shall not consider any objection that was not raised in the hearing conducted pursuant to subsection (d)(1) of this section unless a demonstration is made of extraordinary circumstances causing the failure to raise the objection. If any party demonstrates to the satisfaction of the court that additional evidence not presented at such hearing is material and that there were reasonable grounds for the failure to present such evidence at the hearing, the court shall remand the matter to the Secretary for consideration of such additional evidence.
 
 #### (3) Scope of review
 
@@ -120,5 +120,5 @@ Section was enacted as part of the Housing Act of 1959, and not as part of the N
 
 #### Effective Date
 
-Section 109(b) of Pub. L. 101–235 provided that: “The amendment made by subsection (a) \[enacting this section\] shall apply only with respect to violations referred to in the amendment that occur on or after the effective date of this section \[Dec. 15, 1989\].”
+Pub. L. 101–235, title I, §109(b), Dec. 15, 1989, 103 Stat. 2011, provided that: “The amendment made by subsection (a) \[enacting this section\] shall apply only with respect to violations referred to in the amendment that occur on or after the effective date of this section \[Dec. 15, 1989\].”
 

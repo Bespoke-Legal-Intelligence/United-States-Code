@@ -22,7 +22,7 @@ In this section, the term “eligible partnership” means a partnership that—
 
 #### (c) Program authorized
 
-From amounts appropriated under section 1140<i>o</i> of this title, the Secretary shall award grants or contracts, on a competitive basis, to not less than one eligible partnership to enable the eligible partnership to support the activities described in subsection (f) and, as applicable, subsection (g).
+From amounts appropriated under section 1140o of this title, the Secretary shall award grants or contracts, on a competitive basis, to not less than one eligible partnership to enable the eligible partnership to support the activities described in subsection (f) and, as applicable, subsection (g).
 
 #### (d) Application
 
@@ -84,7 +84,7 @@ Not later than three years after the date of the first grant or contract awarded
 
 #### (i) Model expansion
 
-The Secretary may, on the basis of the reports under subsection (h) and section 1140<i>l</i>(b)(2) of this title and any evaluations of the projects funded under this section, expand the program under this section to additional grant or contract recipients that use other programmatic approaches and serve different geographic regions, if the Secretary finds that the models used under this section—
+The Secretary may, on the basis of the reports under subsection (h) and section 1140l(b)(2) of this title and any evaluations of the projects funded under this section, expand the program under this section to additional grant or contract recipients that use other programmatic approaches and serve different geographic regions, if the Secretary finds that the models used under this section—
 
 &emsp;(1) are effective in improving the timely delivery and quality of materials in specialized formats; and
 

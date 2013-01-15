@@ -12,7 +12,7 @@ In addition to the duties conferred on the Chief Executive Officer under any oth
 
 &emsp;(2)(A) prepare and submit to the Board a proposal with respect to such grants and allotments, contracts, other financial assistance, and designation of positions as approved national service positions, as are necessary or appropriate to carry out the national service laws; and
 
-&emsp;(B) after receiving and reviewing an approved proposal under section 12651b(g)(2) ofthis title, make such grants and allotments, enter into such contracts, award such other financial assistance, make such payments (in lump sum or installments, and in advance or by way of reimbursement, and in the case of financial assistance otherwise authorized under the national service laws, with necessary adjustments on account of overpayments and underpayments), and designate such positions as approved national service positions, approved summer of service positions, and approved silver scholar positions as are necessary or appropriate to carry out the national service laws;
+&emsp;(B) after receiving and reviewing an approved proposal under section 12651b(g)(2) of this title, make such grants and allotments, enter into such contracts, award such other financial assistance, make such payments (in lump sum or installments, and in advance or by way of reimbursement, and in the case of financial assistance otherwise authorized under the national service laws, with necessary adjustments on account of overpayments and underpayments), and designate such positions as approved national service positions, approved summer of service positions, and approved silver scholar positions as are necessary or appropriate to carry out the national service laws;
 
 &emsp;(3)(A) prepare and submit to the Board a proposal regarding, the regulations established under section 12651f(b)(3)(A) of this title, and such other standards, policies, procedures, programs, and initiatives as are necessary or appropriate to carry out the national service laws; and
 
@@ -76,7 +76,7 @@ In addition to the duties conferred on the Chief Executive Officer under any oth
 
 &emsp;&emsp;&emsp;(vi) the implications of the results from such studies and demonstrations for authorized funding levels for the service programs; and
 
-&emsp;&emsp;&emsp;(vii) other issues that the Director determines to be relevant to the administrationand organization of the service programs; and
+&emsp;&emsp;&emsp;(vii) other issues that the Director determines to be relevant to the administration and organization of the service programs; and
 
 &emsp;&emsp;(B) the number, potential consolidation, and future organization of national service or domestic volunteer service programs that are authorized under Federal law, including VISTA, service corps assisted under division C of this subchapter and other programs authorized by this chapter, programs administered by the Public Health Service, the Department of Defense, or other Federal agencies, programs regarding teacher corps, and programs regarding work-study and higher education loan forgiveness or forbearance programs authorized by the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.) \[and 42 U.S.C. 2751 et seq.\] related to community service;
 
@@ -116,7 +116,7 @@ In addition to the duties conferred on the Chief Executive Officer under any oth
 
 &emsp;(20) collaborate with the training and technical assistance programs described in division K with respect to the activities described in section 12657(b) of this title); <sup>2</sup>
 
-&emsp;(21) coordinate the clearinghouses described in section 12653<i>o</i> of this title;
+&emsp;(21) coordinate the clearinghouses described in section 12653o of this title;
 
 &emsp;(22) coordinate with entities receiving funds under division C in establishing the National Service Reserve Corps under section 12653h of this title, through which alumni of the national service programs and veterans can serve in disasters and emergencies (as such terms are defined in section 12653h(a) of this title); <sup>1</sup>
 
@@ -196,7 +196,7 @@ In an action described in subsection (c)(7) of this section—
 
 #### (C) Income levels of participants
 
-&emsp;&emsp;The evaluating entity shall determine the total income of each participant who serves,during the period covered by the evaluation, in a national service program carried out or supported using assistance provided under section 12571 of this title or in an approved national service position. The total income of the participant shall be determined as of the date the participant was first selected to participate in such a program and shall include family total income unless the evaluating entity determines that the participant was independent at the time of selection.
+&emsp;&emsp;The evaluating entity shall determine the total income of each participant who serves, during the period covered by the evaluation, in a national service program carried out or supported using assistance provided under section 12571 of this title or in an approved national service position. The total income of the participant shall be determined as of the date the participant was first selected to participate in such a program and shall include family total income unless the evaluating entity determines that the participant was independent at the time of selection.
 
 #### (D) Assistance for distressed areas
 
@@ -222,7 +222,7 @@ In an action described in subsection (c)(7) of this section—
 
 #### (2) Personnel
 
-&emsp;The Chief Executive Officer shall assign or hire, as necessary, such additional national, regional, and State personnel to carry out such recruiting and public awareness functions as may be necessary to ensure that such functions are carried out in a timely and effective manner. The Chief Executive Officer shall give priority in the hiring of such additional personnel to individuals who have formerly served as volunteers in the programs carried out under the Domestic Volunteer Service Act of 1973 \[42 U.S.C. 4950 et seq.\] or similar programs, and to individuals who have specialized experience in the recruitment of volunteers.
+&emsp;The Chief Executive Officer shall assign or hire, as necessary, such additional national,regional, and State personnel to carry out such recruiting and public awareness functions as may be necessary to ensure that such functions are carried out in a timely and effective manner. The Chief Executive Officer shall give priority in the hiring of such additional personnel to individuals who have formerly served as volunteers in the programs carried out under the Domestic Volunteer Service Act of 1973 \[42 U.S.C. 4950 et seq.\] or similar programs, and to individuals who have specialized experience in the recruitment of volunteers.
 
 #### (3) Funds
 

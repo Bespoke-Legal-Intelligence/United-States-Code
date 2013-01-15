@@ -120,7 +120,7 @@ Mental Health Professionals in Critical Wartime Specialties.—(1) Under the sti
 
 &emsp;&emsp;(i) complete the educational phase of the program;
 
-&emsp;&emsp;(ii) accept a reappointment or redesignation within the person's reserve component, if tendered, based upon the person's healthprofession, following satisfactory completion of the educational and intern programs; and
+&emsp;&emsp;(ii) accept a reappointment or redesignation within the person's reserve component, if tendered, based upon the person's health profession, following satisfactory completion of the educational and intern programs; and
 
 &emsp;&emsp;(iii) participate in a residency program if required for clinical licensure in a mental health profession skill; and
 
@@ -206,5 +206,5 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 #### Payments for Period Prior to December 4, 1987
 
-Section 711(e)(2) of Pub. L. 100–180 provided that: “An agreement entered into by the Secretary of a military department under section 2128 \[now 16201\] of title 10, United States Code, as added by subsection (a), may not obligate the United States to make a payment for any period before the date of the enactment of this Act \[Dec. 4, 1987\].”
+Pub. L. 100–180, div. A, title VII, §711(e)(2), Dec. 4, 1987, 101 Stat. 1111, provided that: “An agreement entered into by the Secretary of a military department under section 2128 \[now 16201\] of title 10, United States Code, as added by subsection (a), may not obligate the United States to make a payment for any period before the date of the enactment of this Act \[Dec. 4, 1987\].”
 

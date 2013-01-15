@@ -166,7 +166,7 @@ Report.—The action plan required under subsection (b) shall be submitted to—
 
 &emsp;“(5) the Governor of Hawaii.
 
-“(<i>l</i>)
+“(l)
 
 Nonapplicability of Certain Provisions of Law.—Sections 7(d), 10(f), and 14 of the Federal Advisory Committee Act (5 U.S.C. App. 2 \[sic\]) \[5 U.S.C. App.\] shall not apply to the Task Force.
 

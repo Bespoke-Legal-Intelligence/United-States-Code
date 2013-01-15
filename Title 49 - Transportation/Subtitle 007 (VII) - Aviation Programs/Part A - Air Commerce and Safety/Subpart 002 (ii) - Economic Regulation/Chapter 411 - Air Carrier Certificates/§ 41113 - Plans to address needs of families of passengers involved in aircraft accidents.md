@@ -8,7 +8,7 @@ Submission of Plans.—Each air carrier holding a certificate of public convenie
 
 Contents of Plans.—A plan to be submitted by an air carrier under subsection (a) shall include, at a minimum, the following:
 
-&emsp;(1) A plan for publicizing a reliable, toll-free telephone number, and for providing staff, tohandle calls from the families of the passengers.
+&emsp;(1) A plan for publicizing a reliable, toll-free telephone number, and for providing staff, to handle calls from the families of the passengers.
 
 &emsp;(2) A process for notifying the families of the passengers, before providing any public notice of the names of the passengers, either by utilizing the services of the organization designated for the accident under section 1136(a)(2) of this title or the services of other suitably trained individuals.
 
@@ -100,7 +100,7 @@ Pub. L. 108–176, title VIII, §809(c), Dec. 12, 2003, 117 Stat. 2589, provided
 
 #### Establishment of Task Force
 
-Section 704 of Pub. L. 104–264 provided that:
+Pub. L. 104–264, title VII, §704, Oct. 9, 1996, 110 Stat. 3268, provided that:
 
 “(a)
 
@@ -136,5 +136,5 @@ Report.—Not later than 1 year after the date of the enactment of this Act \[Oc
 
 #### Limitation on Statutory Construction
 
-Section 705 of title VII of Pub. L. 104–264 provided that: “Nothing in this title \[enacting this section and section 1136 of this title, amending section 1155 of this title, and enacting provisions set out as notes under this section and section 40101 of this title\] or any amendment made by this title may be construed as limiting the actions that an air carrier may take, or the obligations that an air carrier may have, in providing assistance to the families of passengers involved in an aircraft accident.”
+Pub. L. 104–264, title VII, §705, Oct. 9, 1996, 110 Stat. 3269, provided that: “Nothing in this title \[enacting this section and section 1136 of this title, amending section 1155 of this title, and enacting provisions set out as notes under this section and section 40101 of this title\] or any amendment made by this title may be construed as limiting the actions that an air carrier may take, or the obligations that an air carrier may have, in providing assistance to the families of passengers involved in an aircraft accident.”
 

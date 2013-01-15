@@ -30,7 +30,7 @@
 
 #### (B) Rights, powers, and duties
 
-&emsp;&emsp;When acting as conservator or receiver with respect to any depository institution described in subparagraph (A), the Corporation shall have all rights, powers, and duties that the Corporation otherwise has as conservator or receiver under this chapter.
+&emsp;&emsp;When acting as conservator or receiver with respect to any depository institutiondescribed in subparagraph (A), the Corporation shall have all rights, powers, and duties that the Corporation otherwise has as conservator or receiver under this chapter.
 
 #### (b) Source of funds
 
@@ -114,7 +114,7 @@ Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository 
 
 #### Payment of Judgments and Settlements of Claims Against United States
 
-Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §110\], Nov. 29, 1999, 113 Stat. 1535, 1501A–20, provided that: “Hereafter, for payments of judgments against the United States and compromise settlements of claims in suits against the United States arising from the Financial Institutions Reform, Recovery and Enforcement Act \[Pub. L. 101–73, see Tables for classification\] and its implementation, such sums as may be necessary, to remain available until expended: <i>Provided</i>, That the foregoing authority is available solely for payment of judgments and compromise settlements: <i>Provided further</i>, That payment of litigation expenses is available under existing authority and will continue to be made available as set forth in the Memorandum of Understandingbetween the Federal Deposit Insurance Corporation and the Department of Justice, dated October 2, 1998.”
+Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §110\], Nov. 29, 1999, 113 Stat. 1535, 1501A–20, provided that: “Hereafter, for payments of judgments against the United States and compromise settlements of claims in suits against the United States arising from the Financial Institutions Reform, Recovery and Enforcement Act \[Pub. L. 101–73, see Tables for classification\] and its implementation, such sums as may be necessary, to remain available until expended: <i>Provided</i>, That the foregoing authority is available solely for payment of judgments and compromise settlements: <i>Provided further</i>, That payment of litigation expenses is available under existing authority and will continue to be made available as set forth in the Memorandum of Understanding between the Federal Deposit Insurance Corporation and the Department of Justice, dated October 2, 1998.”
 
 Similar provisions were contained in Pub. L. 105–277, div. A, §101(b) \[title I, §130\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–77.
 

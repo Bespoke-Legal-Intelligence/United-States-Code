@@ -12,7 +12,7 @@ In authorizing the operation of vending facilities on Federal property, priority
 
 &emsp;(2) wherever feasible, one or more vending facilities are established on all Federal property to the extent that any such facility or facilities would not adversely affect the interests of the United States.
 
-> Any limitation on the placement or operation of a vending facility based on a finding that suchplacement or operation would adversely affect the interests of the United States shall be fully justified in writing to the Secretary, who shall determine whether such limitation is justified. A determination made by the Secretary pursuant to this provision shall be binding on any department, agency, or instrumentality of the United States affected by such determination. The Secretary shall publish such determination, along with supporting documentation, in the Federal Register.
+> Any limitation on the placement or operation of a vending facility based on a finding that such placement or operation would adversely affect the interests of the United States shall be fully justified in writing to the Secretary, who shall determine whether such limitation is justified. A determination made by the Secretary pursuant to this provision shall be binding on any department, agency, or instrumentality of the United States affected by such determination. The Secretary shall publish such determination, along with supporting documentation, in the Federal Register.
 
 (June 20, 1936, ch. 638, §1, 49 Stat. 1559; Aug. 3, 1954, ch. 655, §4(a), 68 Stat. 663; Pub. L. 93–516, title II, §202, Dec. 7, 1974, 88 Stat. 1623; Pub. L. 93–651, title II, §202, Nov. 21, 1974, 89 Stat. 2–8.)
 
@@ -24,7 +24,7 @@ Pursuant to an order of the United States District Court for the District of Col
 
 #### Amendments
 
-<b>1974</b>—Subsec. (a). Pub. L. 93–516 designated first sentence of existing provisions as subsec. (a), substituted “purposes” for “purpose”, “vending facilities” for “vending stands”, and struck out “where such vending stands may be properly and satisfactorily operated by blind persons”. An identical amendment was made by Pub. L. 93–651. See Codification note above.
+<b>1974</b>—Subsec. (a). Pub. L. 93–516 designated first sentence of existing provisions as subsec. (a), substituted“purposes” for “purpose”, “vending facilities” for “vending stands”, and struck out “where such vending stands may be properly and satisfactorily operated by blind persons”. An identical amendment was made by Pub. L. 93–651. See Codification note above.
 
 Subsec. (b). Pub. L. 93–516 designated second sentence of existing provisions as subsec. (b), in the provisions preceding par. (1) of subsec. (b) as so designated, substituted reference to vending facilities for reference to vending stands, substituted provisions requiring that priority be given to blind persons for provisions requiring that preference be given so far as feasible to blind persons, substituted provisions authorizing the Secretary after consultation with the Administrator of General Services, and other heads of departments, agencies, or instrumentalities of the United States in control of maintenance, operation, and protection of Federal property to prescribe regulations for provisions authorizing the head of each department or agency in control of the maintenance, operation, and protection of Federal property after consultation with the Secretary and with the approval of the President to prescribe regulations, struck out provisions that such regulations assure such preference including assignment of vending machine income to achieve and protect such preference for such blind persons without unduly inconveniencing such departments and agencies or adversely affecting the interests of the United States, and added pars. (1) and (2) and provisions following par. (2). An identical amendment was made by Pub. L. 93–651. See Codification note above.
 
@@ -32,17 +32,17 @@ Subsec. (b). Pub. L. 93–516 designated second sentence of existing provisions 
 
 #### Effective Date of 1954 Amendment
 
-Amendment by act Aug. 3, 1954, effective July 1, 1954, see section 8 of act Aug. 3, 1954.
+Amendment by act Aug. 3, 1954, effective July 1, 1954, see section 8 of act Aug. 3, 1954, set out as a note under section 49b of Title 29, Labor.
 
 #### Short Title of 1974 Amendment
 
-Section 200 of title II of Pub. L. 93–516 provided that: “This title \[enacting sections 107b–1 to 107b–3 and 107d–1 to 107d–4 of this title, amending this section, sections 107a, 107b, 107d, 107e of this title, and section 5108 of Title 5, Government Organization and Employees, repealing sections 107c and 107e–1 of this title, and enacting provisions set out as notes under this section and section 702 of Title 29, Labor\] may be cited as the ‘Randolph-Sheppard Act Amendments of 1974’.”
+Pub. L. 93–516, title II, §200, Dec. 7, 1974, 88 Stat. 1622, provided that: “This title \[enacting sections 107b–1 to 107b–3 and 107d–1 to 107d–4 of this title, amending this section, sections 107a, 107b, 107d, 107e of this title, and section 5108 of Title 5, Government Organization and Employees, repealing sections 107c and 107e–1 of this title, and enacting provisions set out as notes under this section and section 702 of Title 29, Labor\] may be cited as the ‘Randolph-Sheppard Act Amendments of 1974’.”
 
 An identical provision is in section 200 of Pub. L. 93–651. See Codification note above.
 
 #### Short Title of 1954 Amendment
 
-Section 1 of act Aug. 3, 1954, provided that: “This Act \[enacting section 107e–1 of this title and amending this section and sections 107a, 107b, 107e, and 107f of this title and sections 31 to 41, 42, 49b, and 49g of Title 29, Labor\] may be cited as the ‘Vocational Rehabilitation Amendments of 1954’.”
+Act Aug. 3, 1954, ch. 655, §1, 68 Stat. 652, provided that: “This Act \[enacting section 107e–1 of this title and amending this section and sections 107a, 107b, 107e, and 107f of this title and sections 31 to 41, 42, 49b, and 49g of Title 29, Labor\] may be cited as the ‘Vocational Rehabilitation Amendments of 1954’.”
 
 #### Short Title
 
@@ -52,7 +52,7 @@ The act June 20, 1936 is also popularly known as the “Randolph-Sheppard Vendin
 
 #### Congressional Findings
 
-Section 201 of Pub. L. 93–516 provided that: “The Congress finds—
+Pub. L. 93–516, title II, §201, Dec. 7, 1974, 88 Stat. 1622, provided that: “The Congress finds—
 
 &emsp;“(1) after review of the operation of the blind vending stand program authorized under the Randolph-Sheppard Act of June 20, 1936 \[this chapter\], that the program has not developed, and has not been sustained, in the manner and spirit in which the Congress intended at the time of its enactment, and that, in fact, the growth of the program has been inhibited by a number of external forces;
 

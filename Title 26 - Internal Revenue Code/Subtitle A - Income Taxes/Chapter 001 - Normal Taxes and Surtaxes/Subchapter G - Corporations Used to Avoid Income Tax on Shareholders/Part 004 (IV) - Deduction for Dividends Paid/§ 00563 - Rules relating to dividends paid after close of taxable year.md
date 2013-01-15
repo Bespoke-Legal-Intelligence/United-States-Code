@@ -40,5 +40,5 @@ Amendment by Pub. L. 101–239 applicable to taxable years of foreign corporatio
 
 #### Effective Date of 1969 Amendment
 
-Section 914(b) of Pub. L. 91–172 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1969.”
+Pub. L. 91–172, title IX, §914(b), Dec. 30, 1969, 83 Stat. 723, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1969.”
 

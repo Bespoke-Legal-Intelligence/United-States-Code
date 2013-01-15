@@ -48,10 +48,6 @@ To the extent funds are available therefor, the Secretary shall provide technica
 
 (Aug. 14, 1935, ch. 531, title IV, §435, as added Pub. L. 103–66, title XIII, §13711(a)(2), Aug. 10, 1993, 107 Stat. 654; amended Pub. L. 107–133, title I, §105, Jan. 17, 2002, 115 Stat. 2415; Pub. L. 109–288, §§4(c), 5(b)(3)(C), Sept. 28, 2006, 120 Stat. 1242, 1243.)
 
-#### References in Text
-
-The enactment of the Adoption and Safe Families Act of 1997, referred to in subsec. (c)(4), is the enactment of Pub. L. 105–89, which was approved Nov. 19, 1997.
-
 #### Prior Provisions
 
 A prior section 435 of act Aug. 14, 1935, was classified to section 635 of this title prior to repeal by Pub. L. 100–485.

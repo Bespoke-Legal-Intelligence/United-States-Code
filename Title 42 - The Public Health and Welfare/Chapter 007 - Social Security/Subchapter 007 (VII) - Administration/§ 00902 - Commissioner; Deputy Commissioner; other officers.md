@@ -6,7 +6,7 @@
 
 (2) The Commissioner shall be compensated at the rate provided for level I of the Executive Schedule.
 
-(3) The Commissioner shall be appointed for a term of 6 years, except that the initial term of office for Commissioner shall terminate January 19, 2001. In any case in which a successor does not take office at the end of a Commissioner's term of office, such Commissioner may continue in office until the entry upon office of such a successor. A Commissioner appointed to a term of office after the commencement of such term may serve under such appointment only for the remainder of such term. An individual serving in the office of Commissioner may be removed from office only pursuant to a finding by the President of neglect of duty or malfeasance in office.
+(3) The Commissioner shall be appointed for a term of 6 years, except that the initial term of office for Commissioner shall terminate January 19, 2001. In any case in which a successor doesnot take office at the end of a Commissioner's term of office, such Commissioner may continue in office until the entry upon office of such a successor. A Commissioner appointed to a term of office after the commencement of such term may serve under such appointment only for the remainder of such term. An individual serving in the office of Commissioner may be removed from office only pursuant to a finding by the President of neglect of duty or malfeasance in office.
 
 (4) The Commissioner shall be responsible for the exercise of all powers and the discharge of all duties of the Administration, and shall have authority and control over all personnel and activities thereof.
 
@@ -46,7 +46,7 @@ There shall be in the Administration a Chief Financial Officer appointed by the 
 
 There shall be in the Administration an Inspector General appointed by the President, by and with the advice and consent of the Senate, in accordance with section 3(a) of the Inspector General Act of 1978.
 
-(Aug. 14, 1935, ch. 531, title VII, §702, 49 Stat. 636; Aug. 28, 1950, ch. 809, title III, pt. 6, §361(c), (d), 64 Stat. 558; Pub. L. 98–369, div. B, title VI, §2663(j)(2)(C)(i), (<i>l</i>)(1), July 18, 1984, 98 Stat. 1170, 1171; Pub. L. 103–296, title I, §102, Aug. 15, 1994, 108 Stat. 1465; Pub. L. 104–121, title I, §103(e)(1), Mar. 29, 1996, 110 Stat. 851.)
+(Aug. 14, 1935, ch. 531, title VII, §702, 49 Stat. 636; Aug. 28, 1950, ch. 809, title III, pt. 6, §361(c), (d), 64 Stat. 558; Pub. L. 98–369, div. B, title VI, §2663(j)(2)(C)(i), (l)(1), July 18, 1984, 98 Stat. 1170, 1171; Pub. L. 103–296, title I, §102, Aug. 15, 1994, 108 Stat. 1465; Pub. L. 104–121, title I, §103(e)(1), Mar. 29, 1996, 110 Stat. 851.)
 
 #### References in Text
 
@@ -60,7 +60,7 @@ Section 3(a) of the Inspector General Act of 1978, referred to in subsec. (e), i
 
 <b>1994</b>—Pub. L. 103–296 amended section generally. Prior to amendment, section read as follows: “The Secretary shall perform the duties imposed upon him by this chapter and shall also have the duty of studying and making recommendations as to the most effective methods of providing economic security through social insurance, and as to legislation and matters of administrative policy concerning old-age pensions, unemployment compensation, accident compensation, and related subjects.”
 
-<b>1984</b>—Pub. L. 98–369, §2663(<i>l</i>)(1), substituted “Secretary” for “Administrator”.
+<b>1984</b>—Pub. L. 98–369, §2663(l)(1), substituted “Secretary” for “Administrator”.
 
 Pub. L. 98–369, §2663(j)(2)(C)(i), which directed the substitution of “Health and Human Services” for “Health, Education, and Welfare”, could not be executed because “Health, Education, and Welfare” did not appear in text.
 
@@ -68,7 +68,7 @@ Pub. L. 98–369, §2663(j)(2)(C)(i), which directed the substitution of “Heal
 
 #### Effective Date of 1996 Amendment
 
-Section 103(e)(2) of Pub. L. 104–121 provided that: “The amendments made by this subsection \[amending this section\] shall take effect on the date of the enactment of this Act \[Mar. 29, 1996\].”
+Pub. L. 104–121, title I, §103(e)(2), Mar. 29, 1996, 110 Stat. 851, provided that: “The amendments made by this subsection \[amending this section\] shall take effect on the date of the enactment of this Act \[Mar. 29, 1996\].”
 
 #### Effective Date of 1994 Amendment
 
@@ -88,7 +88,7 @@ Pub. L. 101–508, title V, §5108, Nov. 5, 1990, 104 Stat. 1388–269, directed
 
 #### Telephone Access to Social Security Administration
 
-Section 302 of Pub. L. 103–296 directed Comptroller General of the United States to submit to Congress, not later than Jan. 31, 1996, report and study of telephone access to local offices of the Social Security Administration, based on independent assessment of Social Security Administration's use of innovative technology (including attendant call and voice mail) to increase public telephone access to local offices of the Administration.
+Pub. L. 103–296, title III, §302, Aug. 15, 1994, 108 Stat. 1518, directed Comptroller General of the United States to submit to Congress, not later than Jan. 31, 1996, report and study of telephone access to local offices of the Social Security Administration, based on independent assessment of Social Security Administration's use of innovative technology (including attendant call and voice mail) to increase public telephone access to local offices of the Administration.
 
 Pub. L. 101–508, title V, §5110, Nov. 5, 1990, 104 Stat. 1388–272, provided that:
 
@@ -98,7 +98,7 @@ Required Minimum Level of Access to Local Offices.—In addition to such other a
 
 “(b)
 
-Telephone Listings.—The Secretary shall make such requests of local telephone utilities in the United States as are necessary to ensure that the listings subsequently maintained and published by such utilitiesfor each locality include the address and telephone number for each local office of the Social Security Administration to which direct telephone access is maintained under subsection (a) in such locality. Such listing may also include information concerning the availability of a toll-free number which may be called for general information.
+Telephone Listings.—The Secretary shall make such requests of local telephone utilities in the United States as are necessary to ensure that the listings subsequently maintained and published by such utilities for each locality include the address and telephone number for each local office of the Social Security Administration to which direct telephone access is maintained under subsection (a) in such locality. Such listing may also include information concerning the availability of a toll-free number which may be called for general information.
 
 “(c)
 

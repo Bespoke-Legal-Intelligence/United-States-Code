@@ -62,7 +62,7 @@
 
 &emsp;(9) if such individual is a child, one-third of any payment for his support received from an absent parent;
 
-&emsp;(10) any amounts received for the foster care of a child who is not an eligible individual butwho is living in the same home as such individual and was placed in such home by a public or nonprofit private child-placement or child-care agency;
+&emsp;(10) any amounts received for the foster care of a child who is not an eligible individual but who is living in the same home as such individual and was placed in such home by a public or nonprofit private child-placement or child-care agency;
 
 &emsp;(11) assistance received under the Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5121 et seq.\] or other assistance provided pursuant to a Federal statute on account of a catastrophe which is declared to be a major disaster by the President;
 
@@ -112,7 +112,7 @@
 
 &emsp;&emsp;(B) meets the standards for protection of human subjects as provided under part 46 of title 45, Code of Federal Regulations.
 
-(Aug. 14, 1935, ch. 531, title XVI, §1612, as added Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1468; amended Pub. L. 93–484, §4, Oct. 26, 1974, 88 Stat. 1460; Pub. L. 94–202, §9, Jan. 2, 1976, 89 Stat. 1140; Pub. L. 94–331, §§2(a), 4(a), June 30, 1976, 90 Stat. 781, 782; Pub. L. 94–455, title XXI, §2125, Oct. 4, 1976, 90 Stat. 1920; Pub. L. 94–566,title V, §505(b), Oct. 20, 1976, 90 Stat. 2686; Pub. L. 95–171, §8(a), Nov. 12, 1977, 91 Stat. 1355; Pub. L. 96–222, title I, §101(a)(2)(B), Apr. 1, 1980, 94 Stat. 195; Pub. L. 96–265, title II, §202(a), title III, §302(b), June 9, 1980, 94 Stat. 449, 451; Pub. L. 96–473, §6(g), Oct. 19, 1980, 94 Stat. 2266; Pub. L. 97–35, title XXIII, §2341(b), Aug. 13, 1981, 95 Stat. 865; Pub. L. 97–424, title V, §545(a), Jan. 6, 1983, 96 Stat. 2198; Pub. L. 98–21, title IV, §404(a), Apr. 20, 1983, 97 Stat. 140; Pub. L. 98–369, div. B, title VI, §§2616(a), 2639(b), (c), 2663(g)(3), (4), July 18, 1984, 98 Stat. 1133, 1144, 1145, 1168; Pub. L. 99–514, §2, title XVIII, §1883(d)(2), (3), Oct. 22, 1986, 100 Stat. 2095, 2918; Pub. L. 100–203, title IX, §9120(a), Dec. 22, 1987, 101 Stat. 1330–309; Pub. L. 100–647, title VIII, §8103(a), Nov. 10, 1988, 102 Stat. 3795; Pub. L. 100–707, title I, §109(p), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 101–239, title VIII, §§8011(a), 8013(a), Dec. 19, 1989, 103 Stat. 2464; Pub. L. 101–508, title V, §§5031(a), 5033(a), 5034(a), 5035(a), title XI, §11115(b)(1), Nov. 5, 1990, 104 Stat. 1388–224, 1388–225, 1388–414; Pub. L. 103–66, title XIII, §13733(b), Aug. 10, 1993, 107 Stat. 662; Pub. L. 103–296, title I, §107(a)(4), Aug. 15, 1994, 108 Stat. 1478; Pub. L. 103–432, title II, §§264(a), 267(a), Oct. 31, 1994, 108 Stat. 4467, 4469; Pub. L. 104–193, title II, §213(c), Aug. 22, 1996, 110 Stat. 2195; Pub. L. 105–306, §7(a), Oct. 28, 1998, 112 Stat. 2928; Pub. L. 106–169, title II, §205(b), Dec. 14, 1999, 113 Stat. 1834; Pub. L. 106–554, §1(a)(1) \[title V, §519\], Dec. 21, 2000, 114 Stat. 2763, 2763A–74; Pub. L. 108–203, title IV, §§430(a), (b), 432(a), 435(a), Mar. 2, 2004, 118 Stat. 538–540; Pub. L. 110–245, title II, §§201, 202(a), 203, June 17, 2008, 122 Stat. 1637, 1638; Pub. L. 111–255, §3(a), Oct. 5, 2010, 124 Stat. 2641.)
+(Aug. 14, 1935, ch. 531, title XVI, §1612, as added Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1468; amended Pub. L. 93–484, §4, Oct. 26, 1974, 88 Stat. 1460; Pub. L. 94–202, §9, Jan. 2, 1976, 89 Stat. 1140; Pub. L. 94–331, §§2(a), 4(a), June 30, 1976, 90 Stat. 781, 782; Pub. L. 94–455, title XXI, §2125, Oct. 4, 1976, 90 Stat. 1920; Pub. L. 94–566, title V, §505(b), Oct. 20, 1976, 90 Stat. 2686; Pub. L. 95–171, §8(a), Nov. 12, 1977, 91 Stat. 1355; Pub. L. 96–222, title I, §101(a)(2)(B), Apr. 1, 1980, 94 Stat. 195; Pub. L. 96–265, title II, §202(a), title III, §302(b), June 9, 1980, 94 Stat. 449, 451; Pub. L. 96–473, §6(g), Oct. 19, 1980, 94 Stat. 2266; Pub. L. 97–35, title XXIII, §2341(b), Aug. 13, 1981, 95 Stat. 865; Pub. L. 97–424, title V, §545(a), Jan. 6, 1983, 96 Stat. 2198; Pub. L. 98–21, title IV, §404(a), Apr. 20, 1983, 97 Stat. 140; Pub. L. 98–369, div. B, title VI, §§2616(a), 2639(b), (c), 2663(g)(3), (4), July 18, 1984, 98 Stat. 1133, 1144, 1145, 1168; Pub. L. 99–514, §2, title XVIII, §1883(d)(2), (3), Oct. 22, 1986, 100 Stat. 2095, 2918; Pub. L. 100–203, title IX, §9120(a), Dec. 22, 1987, 101 Stat. 1330–309; Pub. L. 100–647, title VIII, §8103(a), Nov. 10, 1988, 102 Stat. 3795; Pub. L. 100–707, title I, §109(p), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 101–239, title VIII, §§8011(a), 8013(a), Dec. 19, 1989, 103 Stat. 2464; Pub. L. 101–508, title V, §§5031(a), 5033(a), 5034(a), 5035(a), title XI, §11115(b)(1), Nov. 5, 1990, 104 Stat. 1388–224, 1388–225, 1388–414; Pub. L. 103–66, title XIII, §13733(b), Aug. 10, 1993, 107 Stat. 662; Pub. L. 103–296, title I, §107(a)(4), Aug. 15, 1994, 108 Stat. 1478; Pub. L. 103–432, title II, §§264(a), 267(a), Oct. 31, 1994, 108 Stat. 4467, 4469; Pub. L. 104–193, title II, §213(c), Aug. 22, 1996, 110 Stat. 2195; Pub. L. 105–306, §7(a), Oct. 28, 1998, 112 Stat. 2928; Pub. L. 106–169, title II, §205(b), Dec. 14, 1999, 113 Stat. 1834; Pub. L. 106–554, §1(a)(1) \[title V, §519\], Dec. 21, 2000, 114 Stat. 2763, 2763A–74; Pub. L. 108–203, title IV, §§430(a), (b), 432(a), 435(a), Mar. 2, 2004, 118 Stat. 538–540; Pub. L. 110–245, title II, §§201, 202(a), 203, June 17, 2008, 122 Stat. 1637, 1638; Pub. L. 111–255, §3(a), Oct. 5, 2010, 124 Stat. 2641.)
 
 #### Amendment of Section
 
@@ -124,7 +124,7 @@ The Internal Revenue Code of 1986, referred to in subsec. (b)(19), (22), is clas
 
 The Disaster Relief and Emergency Assistance Act, referred to in subsecs. (a)(2)(A) and (b)(11), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, known as the Robert T. Stafford Disaster Relief and Emergency Assistance Act, which is classified principally to chapter 68 (§5121 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
 
-Section 1382 of this title, referred to in subsec. (b)(4)(A), (B), is a reference to section 1382 of this title as it existed prior to the general revision of this subchapter by Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1465, eff. Jan. 1, 1974. The prior section (which is set out as a note under section 1382 of this title) continues in effect for Puerto Rico, Guam, and the Virgin Islands.
+Section 1382 of this title, referred to in subsec. (b)(4)(A), (B), is a reference to section 1382 of this titleas it existed prior to the general revision of this subchapter by Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1465, eff. Jan. 1, 1974. The prior section (which is set out as a note under section 1382 of this title) continues in effect for Puerto Rico, Guam, and the Virgin Islands.
 
 The United States Housing Act of 1937, referred to in subsec. (b)(14), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, and amended, which is classified generally to chapter 8 (§1437 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of this title and Tables.
 
@@ -214,7 +214,7 @@ Subsec. (b)(11) to (13). Pub. L. 99–514, §1883(d)(3)(C), provided for technic
 
 <b>1984</b>—Subsec. (b)(2)(B). Pub. L. 98–369, §2663(g)(3), realigned margin of subpar. (B).
 
-Pub. L. 98–369, §2616(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “monthly (or other periodic) payments received by any individual, under a program established prior to July 1, 1973, if such payments are made by the State of which the individual receiving such payments is a resident, and if eligibility of any individual for such payments is not based on need and is based solely on attainment of age 65 and duration of residence in such State by such individual;”.
+Pub. L. 98–369, §2616(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “monthly (or other periodic) payments received by any individual, under a program established prior to July 1,1973, if such payments are made by the State of which the individual receiving such payments is a resident, and if eligibility of any individual for such payments is not based on need and is based solely on attainment of age 65 and duration of residence in such State by such individual;”.
 
 Subsec. (b)(9). Pub. L. 98–369, §2663(g)(4), inserted a comma after “child”.
 
@@ -284,7 +284,7 @@ Pub. L. 105–306, §7(c), Oct. 28, 1998, 112 Stat. 2928, provided that: “The 
 
 #### Effective Date of 1996 Amendment
 
-Section 213(d) of Pub. L. 104–193 provided that: “The amendments made by this section \[amending this section and sections 1382b and 1383 of this title\] shall apply to payments made after the date of the enactment of this Act \[Aug. 22, 1996\].”
+Pub. L. 104–193, title II, §213(d), Aug. 22, 1996, 110 Stat. 2195, provided that: “The amendments made by this section \[amending this section and sections 1382b and 1383 of this title\] shall apply to payments made after the date of the enactment of this Act \[Aug. 22, 1996\].”
 
 #### Effective Date of 1994 Amendments
 
@@ -294,79 +294,79 @@ Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pu
 
 #### Effective Date of 1993 Amendment
 
-Section 13733(c) of Pub. L. 103–66 provided that: “The amendments made by this section \[amending this section and section 1382c of this title\] shall take effect on the 1st day of the 2nd month that begins after the date of the enactment of this Act \[Aug. 10, 1993\].”
+Pub. L. 103–66, title XIII, §13733(c), Aug. 10, 1993, 107 Stat. 662, provided that: “The amendments made by this section \[amending this section and section 1382c of this title\] shall take effect on the 1st day of the 2nd month that begins after the date of the enactment of this Act \[Aug. 10, 1993\].”
 
 #### Effective Date of 1990 Amendment
 
-Section 5031(d) of Pub. L. 101–508 provided that: “The amendments made by this section \[amending this section and sections 1382b and 1383 of this title\] shall apply with respect to benefits for months beginning on or after the first day of the 6th calendar month following the month in which this Act is enacted \[November 1990\].”
+Pub. L. 101–508, title V, §5031(d), Nov. 5, 1990, 104 Stat. 1388–224, provided that: “The amendments made by thissection \[amending this section and sections 1382b and 1383 of this title\] shall apply with respect to benefits for months beginning on or after the first day of the 6th calendar month following the month in which this Act is enacted \[November 1990\].”
 
-Section 5033(b) of Pub. L. 101–508 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to benefits payable for calendar months beginning after the date of the enactment of this Act \[Nov. 5, 1990\].”
+Pub. L. 101–508, title V, §5033(b), Nov. 5, 1990, 104 Stat. 1388–224, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to benefits payable for calendar months beginning after the date of the enactment of this Act \[Nov. 5, 1990\].”
 
-Section 5034(b) of Pub. L. 101–508 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to benefits for months beginning on or after the first day of the 13th calendar month following the month in which this Act is enacted \[November 1990\].”
+Pub. L. 101–508, title V, §5034(b), Nov. 5, 1990, 104 Stat. 1388–225, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to benefits for months beginning on or after the first day of the 13th calendar month following the month in which this Act is enacted \[November 1990\].”
 
-Section 5035(c) of Pub. L. 101–508, as amended by Pub. L. 103–66, title XIII, §13732, Aug. 10, 1993, 107 Stat. 662, provided that: “The amendments made by this section \[amending this section and section 1382b of this title\] shall apply with respect to benefits for calendar months beginning on or after the first day of the 6th calendar month following the month in which this Act is enacted \[November 1990\].”
+Pub. L. 101–508, title V, §5035(c), Nov. 5, 1990, 104 Stat. 1388–225, as amended by Pub. L. 103–66, title XIII, §13732, Aug. 10, 1993, 107 Stat. 662, provided that: “The amendments made by this section \[amending this section and section 1382b of this title\] shall apply with respect to benefits for calendar months beginning on or after the first day of the 6th calendar month following the month in which this Act is enacted \[November 1990\].”
 
-Section 11115(e) of Pub. L. 101–508 provided that: “The amendments made by subsections (a) though \[sic\] (c) \[amending this section and sections 602 and 1382b of this title\] shall apply to determinations of income or resources made for any period after December 31, 1990.”
+Pub. L. 101–508, title XI, §11115(e), Nov. 5, 1990, 104 Stat. 1388–415, provided that: “The amendments made by subsections (a) though \[sic\] (c) \[amending this section and sections 602 and 1382b of this title\] shall apply to determinations of income or resources made for any period after December 31, 1990.”
 
 #### Effective Date of 1989 Amendment
 
-Section 8011(b) of Pub. L. 101–239 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the 1st day of the 3rd calendar month beginning after the date of the enactment of this Act \[Dec. 19, 1989\].”
+Pub. L. 101–239, title VIII, §8011(b), Dec. 19, 1989, 103 Stat. 2464, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the 1st day of the 3rd calendar month beginning after the date of the enactment of this Act \[Dec. 19, 1989\].”
 
-Section 8013(c) of Pub. L. 101–239 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1382b of this title\] shall take effect on the 1st day of the 4th month beginning after the date of the enactment of this Act \[Dec. 19, 1989\].”
+Pub. L. 101–239, title VIII, §8013(c), Dec. 19, 1989, 103 Stat. 2465, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1382b of this title\] shall take effect on the 1st day of the 4th month beginning after the date of the enactment of this Act \[Dec. 19, 1989\].”
 
 #### Effective Date of 1988 Amendment
 
-Section 8103(c) of Pub. L. 100–647 provided that: “The amendments made by this section \[amending this section and section 1382b of this title\] shall be effective as though they had been included in section 162 of the Housing and Community Development Act of 1987 \[Pub. L. 100–242, see Effective Date of 1988 Amendment note set out under 12 U.S.C. 1701q\] at the time of its enactment \[Feb. 5, 1988\].”
+Pub. L. 100–647, title VIII, §8103(c), Nov. 10, 1988, 102 Stat. 3796, provided that: “The amendments made by this section \[amending this section and section 1382b of this title\] shall be effective as though they had been included in section 162 of the Housing and Community Development Act of 1987 \[Pub. L. 100–242, see Effective Date of 1988 Amendment note set out under 12 U.S.C. 1701q\] at the time of its enactment \[Feb. 5, 1988\].”
 
 #### Effective Date of 1987 Amendment
 
-Section 9120(b) of Pub. L. 100–203 provided that: “The amendments made by subsection (a) \[amending this section\] shall become effective April 1, 1988.”
+Pub. L. 100–203, title IX, §9120(b), Dec. 22, 1987, 101 Stat. 1330–310, provided that: “The amendments made by subsection (a) \[amending this section\] shall become effective April 1, 1988.”
 
 #### Effective Date of 1984 Amendment
 
-Section 2616(b) of Pub. L. 98–369 provided that: “The amendment made by subsection (a) \[amending this section\] shall become effective on the date of the enactment of this Act \[July 18, 1984\].”
+Pub. L. 98–369, div. B, title VI, §2616(b), July 18, 1984, 98 Stat. 1133, provided that: “The amendment made by subsection (a) \[amending this section\] shall become effective on the date of the enactment of this Act \[July 18, 1984\].”
 
-Section 2639(d) of Pub. L. 98–369, as amended by Pub. L. 100–203, title IX, §9101, Dec. 22, 1987, 101 Stat. 1330–299, provided that: “The amendments made by this section \[amending this section and section 602 of this title and repealing section 545(a)–(c) of Pub. L. 97–424 and section 404 of Pub. L. 98–21, which had previously amended this section and section 602 of this title and had provided effective dates for those prior amendments\] shall be effective with respect to months which begin after September 30, 1984.”
+Pub. L. 98–369, div. B, title VI, §2639(d), July 18, 1984, 98 Stat. 1145, as amended by Pub. L. 100–203, title IX, §9101, Dec. 22, 1987, 101 Stat. 1330–299, provided that: “The amendments made by this section \[amending this section and section 602 of this title and repealing section 545(a)–(c) of Pub. L. 97–424 and section 404 of Pub. L. 98–21, which had previously amended this section and section 602 of this title and had provided effective dates for those prior amendments\] shall be effective with respect to months which begin after September 30, 1984.”
 
-\[Section 9101 of Pub. L. 100–203 provided that the amendment made by that section to section 2639(d) of Pub. L. 98–369, set out as a note above, is effective as of Oct. 1, 1987.\]
+\[Pub. L. 100–203, title IX, §9101, Dec. 22, 1987, 101 Stat. 1330–299, provided that the amendment made by that section to section 2639(d) of Pub. L. 98–369, set out as a note above, is effective as of Oct. 1, 1987.\]
 
 Amendment by section 2663(g)(3), (4) of Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
 
-#### Effective and Termination Dates of 1983 Amendments
+#### Effective and Termination Dates of 1983 Amendment
 
-Section 545(c) of Pub. L. 97–424 and section 404(c) of Pub. L. 98–21, which had provided for the effective and termination dates covering the enactment and subsequent amendment of subsec. (b)(13) of this section by section 545(a) of Pub. L. 97–424 and section 404(a) of Pub. L. 98–21, were repealed by section 2639(c), (d) of Pub. L. 98–369, effective with respect to months beginning after Sept. 30, 1984.
+Pub. L. 97–424, title V, §545(c), Jan. 6, 1983, 96 Stat. 2198, and Pub. L. 98–21, title IV, §404(c), Apr. 20, 1983, 97 Stat. 140, which had provided for the effective and termination dates covering the enactment and subsequent amendment of subsec. (b)(13) of this section by section 545(a) of Pub. L. 97–424 and section 404(a) of Pub. L. 98–21, were repealed by Pub. L. 98–369, div. B, title VI, §2639(c), (d), July 18, 1984, 98 Stat. 1145, effective with respect to months beginning after Sept. 30, 1984.
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–35 effective with respect to months after first calendar quarter which ends more than five months after August 1981, with provision fortransitional payments, see section 2341(c) of Pub. L. 97–35, set out as an Effective Date of 1981 Amendment and Transitional Provisions note under section 1382 of this title.
+Amendment by Pub. L. 97–35 effective with respect to months after first calendar quarter which ends more than five months after August 1981, with provision for transitional payments, see section 2341(c) of Pub. L. 97–35, set out as an Effective Date of 1981 Amendment and Transitional Provisions note under section 1382 of this title.
 
-#### Effective Date of 1980 Amendments
+#### Effective Date of 1980 Amendment
 
-Section 202(b) of Pub. L. 96–265 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply only with respect to remuneration received in months after September 1980.”
+Pub. L. 96–265, title II, §202(b), June 9, 1980, 94 Stat. 449, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply only with respect to remuneration received in months after September 1980.”
 
 Amendment by section 302(b) of Pub. L. 96–265 applicable with respect to expenses incurred on or after first day of sixth month which begins after June 9, 1980, see section 302(c) of Pub. L. 96–265, set out as a note under section 423 of this title.
 
-Section 101(b)(1)(B) of Pub. L. 96–222 provided that: “The amendments made by subparagraphs (A) and (B) of subsection (a)(2) \[amending this section and section 602 of this title\] shall apply to payments for months beginning after December 31, 1979.”
+Pub. L. 96–222, title I, §101(b)(1)(B), Apr. 1, 1980, 94 Stat. 205, provided that: “The amendments made by subparagraphs (A) and (B) of subsection (a)(2) \[amending this section and section 602 of this title\] shall apply to payments for months beginning after December 31, 1979.”
 
 #### Effective Date of 1977 Amendment
 
-Section 8(b) of Pub. L. 95–171 provided that: “The amendment made by this section \[amending this section\] shall be effective July 1, 1976, with respect to catastrophes which occurred on or after June 1, 1976, and before December 31, 1976. With respect to catastrophes which occurred on or after December 31, 1976, the amendment made by this section shall be effective the first day of the calendar quarter following enactment of this Act \[Nov. 12, 1977\].”
+Pub. L. 95–171, §8(b), Nov. 12, 1977, 91 Stat. 1355, provided that: “The amendment made by this section \[amending this section\] shall be effective July 1, 1976, with respect to catastrophes which occurred on or after June 1, 1976, and before December 31, 1976. With respect to catastrophes which occurred on or after December 31, 1976, the amendment made by this section shall be effective the first day of the calendar quarter following enactment of this Act \[Nov. 12, 1977\].”
 
-#### Effective Date of 1976 Amendments
+#### Effective Date of 1976 Amendment
 
 Amendment by Pub. L. 94–566 effective Oct. 1, 1976, see section 505(e) of Pub. L. 94–566, set out as a note under section 1382 of this title.
 
-Section 2(b) of Pub. L. 94–331, as amended by Pub. L. 95–171, §6(a), Nov. 12, 1977, 91 Stat. 1355, effective the first day of calendar quarter following Nov. 12, 1977, provided that: “The amendments made by this Act \[amending this section and sections 815, 3402, 6153, and 6154 of Title 26, Internal Revenue Code, and enacting provisions set out as notes under sections 815 and 3402 of Title 26\] shall be applicable only in the case of catastrophes which occur on or after June 1, 1976.”
+Pub. L. 94–331, §2(b), June 30, 1976, 90 Stat. 782, as amended by Pub. L. 95–171, §6(a), Nov. 12, 1977, 91 Stat. 1355, effective the first day of calendar quarter following Nov. 12, 1977, provided that: “The amendments made by this Act \[amending this section and sections 815, 3402, 6153, and 6154 of Title 26, Internal Revenue Code, and enacting provisions set out as notes under sections 815 and 3402 of Title 26\] shall be applicable only in the case of catastrophes which occur on or after June 1, 1976.”
 
-Section 4(b) of Pub. L. 94–331, as amended by Pub. L. 95–171, §7(a), Nov. 12, 1977, 91 Stat. 1355, effective the first day of calendar quarter following Nov. 12, 1977, provided that: “The amendments made by this Act \[see section 2(b) of Pub. L. 94–331, set out above\] shall be applicable only in the case of catastrophes which occur on or after June 1, 1976.”
+Pub. L. 94–331, §4(b), June 30, 1976, 90 Stat. 783, as amended by Pub. L. 95–171, §7(a), Nov. 12, 1977, 91 Stat. 1355, effective the first day of calendar quarter following Nov. 12, 1977, provided that: “The amendments made by this Act \[see section 2(b) of Pub. L. 94–331, set out above\] shall be applicable only in the case of catastrophes which occur on or after June 1, 1976.”
 
 #### Effective Date of 1974 Amendment
 
-Section 4 of Pub. L. 93–484 provided that the amendment made by that section is effective Jan. 1, 1974.
+Pub. L. 93–484, §4, Oct. 26, 1974, 88 Stat. 1460, provided that the amendment made by that section is effective Jan. 1, 1974.
 
 #### Effective Date
 
-Section 301 of Pub. L. 92–603 provided that this section is effective Jan. 1, 1974.
+Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1465, provided that this section is effective Jan. 1, 1974.
 
 #### Findings
 

@@ -2,7 +2,7 @@
 
 #### (a) Obligation by end of grant year
 
-Effective for fiscal year 2007 and subsequent fiscal years, funds from a grant award made toa State for a fiscal year pursuant to section 300ff–28(a)(1) or 300ff–28(a)(2)(F) of this title, or under section 300ff–29a or 300ff–30 of this title, are available for obligation by the State through the end of the one-year period beginning on the date in such fiscal year on which funds from the award first become available to the State (referred to in this section as the “grant year for the award”), except as provided in subsection (c)(1).
+Effective for fiscal year 2007 and subsequent fiscal years, funds from a grant award made to a State for a fiscal year pursuant to section 300ff–28(a)(1) or 300ff–28(a)(2)(F) of this title, or under section 300ff–29a or 300ff–30 of this title, are available for obligation by the State through the end of the one-year period beginning on the date in such fiscal year on which funds from the award first become available to the State (referred to in this section as the “grant year for the award”), except as provided in subsection (c)(1).
 
 #### (b) Supplemental grants; cancellation of unobligated balance of grant award
 
@@ -40,7 +40,7 @@ Effective for fiscal year 2007 and subsequent fiscal years, if a grant award mad
 
 &emsp;&emsp;In the case of a State for which a balance from a grant award made pursuant to section 300ff–28(a)(1) or 300ff–28(a)(2)(F)(i) of this title is unobligated as of the end of the grant year for the award—
 
-&emsp;&emsp;&emsp;(i) the Secretary shall reduce, by the same amount as such unobligated balance (less any amount of such balance that is the subject of a waiver of cancellation under paragraph (1)), the amount of the grant under such section for the first fiscal year beginning after the fiscal year in which the Secretary obtains the information necessary for determining that such balance was unobligated as of the end of the grant year (which requirement for a reduction applies without regard to whether a waiver under paragraph (1) has been approved with respect to such balance); and
+&emsp;&emsp;&emsp;(i) the Secretary shall reduce, by the same amount as such unobligated balance (less any amount of such balance that is the subject of a waiver of cancellation under paragraph (1)), the amount of the grant under such section for the first fiscal year beginning after the fiscal year in which the Secretary obtains the information necessary for determining that such balance was unobligated as of the end ofthe grant year (which requirement for a reduction applies without regard to whether a waiver under paragraph (1) has been approved with respect to such balance); and
 
 &emsp;&emsp;&emsp;(ii) the grant funds involved in such reduction shall be made available by the Secretary as additional funds for grants under section 300ff–29a of this title for such first fiscal year, subject to section 300ff–28(a)(2)(H) of this title;
 

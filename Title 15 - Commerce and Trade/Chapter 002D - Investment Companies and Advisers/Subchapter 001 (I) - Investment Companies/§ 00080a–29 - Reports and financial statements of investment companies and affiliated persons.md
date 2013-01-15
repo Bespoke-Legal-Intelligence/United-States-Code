@@ -30,7 +30,7 @@ Every registered investment company shall file with the Commission—
 
 #### (d) Reports under this section in lieu of reports under other provisions of law
 
-The Commission shall issue rules and regulations permitting the filing with the Commission, and with any national securities exchange concerned, of copies of periodic reports, or of extracts therefrom, filed by any registered investment company pursuant to subsections (a) and (b) of this section, in lieu of any reports and documents required of such company under section 13 or 15(d) of the Securities Exchange Act of 1934 \[15 U.S.C. 78m or 78<i>o</i>(d)\].
+The Commission shall issue rules and regulations permitting the filing with the Commission, and with any national securities exchange concerned, of copies of periodic reports, or of extracts therefrom, filed by any registered investment company pursuant to subsections (a) and (b) of this section, in lieu of any reports and documents required of such company under section 13 or 15(d) of the Securities Exchange Act of 1934 \[15 U.S.C. 78m or 78o(d)\].
 
 #### (e) Semiannual reports to stockholders
 
@@ -72,9 +72,9 @@ A person that maintains a church plan that is excluded from the definition of an
 
 #### (j) Notice to Commission
 
-The Commission may issue rules and regulations to require any person that maintains a church plan that is excluded from the definition of an investment company solely by reason of section 80a–3(c)(14) of this title to file a notice with the Commission containing such information and in such form as the Commission may prescribe as necessary or appropriate in the public interest or consistent with the protection of investors.
+The Commission may issue rules and regulations to require any person that maintains achurch plan that is excluded from the definition of an investment company solely by reason of section 80a–3(c)(14) of this title to file a notice with the Commission containing such information and in such form as the Commission may prescribe as necessary or appropriate in the public interest or consistent with the protection of investors.
 
-(Aug. 22, 1940, ch. 686, title I, §30, 54 Stat. 836; Pub. L. 104–290, title II, §206, title V, §508(g),Oct. 11, 1996, 110 Stat. 3430, 3449; Pub. L. 105–353, title III, §301(c)(5), Nov. 3, 1998, 112 Stat. 3237.)
+(Aug. 22, 1940, ch. 686, title I, §30, 54 Stat. 836; Pub. L. 104–290, title II, §206, title V, §508(g), Oct. 11, 1996, 110 Stat. 3430, 3449; Pub. L. 105–353, title III, §301(c)(5), Nov. 3, 1998, 112 Stat. 3237.)
 
 #### References in Text
 

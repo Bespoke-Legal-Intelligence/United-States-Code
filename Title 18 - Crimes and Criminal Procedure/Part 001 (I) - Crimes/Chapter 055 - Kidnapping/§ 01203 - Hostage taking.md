@@ -26,7 +26,7 @@
 
 #### Effective Date
 
-Section 2003 of part A (§§2001–2003) of chapter XX of title II of Pub. L. 98–473 provided that: “This part and the amendments made by this part \[enacting this section and provisions set out as a note under section 1201 of this title\] shall take effect on the later of—
+Pub. L. 98–473, title II, §2003, Oct. 12, 1984, 98 Stat. 2186, provided that: “This part \[part A (§§2001–2003) of chapter XX of title II of Pub. L. 98–473, enacting this section and provisions set out as a note under section 1201 of this title\] and the amendments made by this part shall take effect on the later of—
 
 &emsp;“(1) the date of the enactment of this joint resolution \[Oct. 12, 1984\]; or
 

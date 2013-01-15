@@ -26,7 +26,7 @@ In general.—A recipient of funds from a Commission under this subtitle shall m
 
 &emsp;(2)
 
-Availability.—All records required under paragraph (1) shall be available for audit by the Commission and the Inspector General\(including authorized representatives of the Commission and the Inspector General).
+Availability.—All records required under paragraph (1) shall be available for audit by the Commission and the Inspector General (including authorized representatives of the Commission and the Inspector General).
 
 (d)
 

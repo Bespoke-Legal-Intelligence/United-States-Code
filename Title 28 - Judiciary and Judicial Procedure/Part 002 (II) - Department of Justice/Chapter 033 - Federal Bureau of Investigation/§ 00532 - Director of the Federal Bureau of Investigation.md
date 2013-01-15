@@ -92,7 +92,7 @@ Reports.—(1) Not later than 180 days after the date of the enactment of this A
 
 “(3) Not later than 180 days after the date of the enactment of this Act, and every 12 months thereafter, the Director shall submit to Congress a report assessing the qualifications, status, and roles of analysts at Bureau headquarters and in the field offices of the Bureau.
 
-“(4) Not later than 180 days after the date of the enactment of this Act, and every 12 months thereafter, the Director shall submit to Congress a report on theprogress of the Bureau in implementing information-sharing principles.
+“(4) Not later than 180 days after the date of the enactment of this Act, and every 12 months thereafter, the Director shall submit to Congress a report on the progress of the Bureau in implementing information-sharing principles.
 
 #### “SEC. 2002. DIRECTORATE OF INTELLIGENCE OF THE FEDERAL BUREAU OF INVESTIGATION.
 
@@ -218,7 +218,7 @@ Study.—The Director of the Federal Bureau of Investigation shall conduct a stu
 
 “(b)
 
-Implementation.—Any program proposed under subsection (a) may be implemented only after the Department of Justice and the Office of Management andBudget review and approve the implementation of such program.
+Implementation.—Any program proposed under subsection (a) may be implemented only after the Department of Justice and the Office of Management and Budget review and approve the implementation of such program.
 
 “(c)
 

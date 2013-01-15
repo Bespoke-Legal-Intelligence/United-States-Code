@@ -172,7 +172,7 @@ Subsec. (h). Pub. L. 90–525, §4, added subsec. (h).
 
 <b>1966</b>—Subsec. (f). Pub. L. 89–718 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey”.
 
-<b>1958</b>—Subsec. (a). Pub. L. 85–729, §1(1)(A), substituted “the Judge Advocate General of an armed force underhis jurisdiction, if designated by him, may settle, and pay in an amount not more than $5,000” for “any officer designated by him may settle, and pay in an amount not more than $1,000”.
+<b>1958</b>—Subsec. (a). Pub. L. 85–729, §1(1)(A), substituted “the Judge Advocate General of an armed force under his jurisdiction, if designated by him, may settle, and pay in an amount not more than $5,000” for “any officer designated by him may settle, and pay in an amount not more than $1,000”.
 
 Subsec. (b). Pub. L. 85–861, §1(54)(A), (B), in cl. (1), substituted “two years” for “one year” in three places and included claims accruing in time of armed conflict, and inserted sentence providing for the determination of dates of the beginning and ending of an armed conflict.
 
@@ -200,5 +200,5 @@ For transfer of functions of Public Health Service, see note set out under secti
 
 #### Claims for Injury or Death Accrued Before March 30, 1956
 
-Section 17 of Pub. L. 85–861 disallowed claims for personal injury or death under section 2733 of this title, for more than the cost of reasonable medical, hospital, and burial expenses actually incurred if the claim accrued before March 30, 1956.
+Pub. L. 85–861, §17, Sept. 2, 1958, 72 Stat. 1558, disallowed claims for personal injury or death under section 2733 of this title, for more than the cost of reasonable medical, hospital, and burial expenses actually incurred if the claim accrued before March 30, 1956.
 

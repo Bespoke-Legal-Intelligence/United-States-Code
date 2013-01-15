@@ -14,19 +14,31 @@ In the case of transportation by air all of which is taxable transportation (as 
 
 &emsp;(1) state such cost as the total of (A) the amount to be paid for such transportation, and (B) the taxes imposed by sections 4261(a), (b), and (c), and
 
-&emsp;(2) if any such advertising states separately the amount to be paid for such transportation or the amount of such taxes, shall state such total at least as prominently as the more prominently stated of the amount to be paid for such transportation or the amount of such taxes and shall describe such taxes substantially as: “user taxes to pay for airport construction and airway safety and operations.”
+&emsp;(2) if any such advertising states separately the amount to be paid for such transportation or the amount of such taxes, shall <sup>1</sup> state such total at least as prominently as the more prominently stated of the amount to be paid for such transportation or the amount of such taxes and shall describe such taxes substantially as: “user taxes to pay for airport construction and airway safety and operations.”
 
-#### (c) Penalty
+#### (c) Non-tax charges
 
-Any person who violates any provision of subsection (a) or (b) is, for each violation, guilty of a misdemeanor, and upon conviction thereof shall be fined not more than $100.
+#### (1) In general
 
-(Added Pub. L. 91–258, title II, §203(c)(1), May 21, 1970, 84 Stat. 239; amended Pub. L. 91–680, §3, Jan. 12, 1971, 84 Stat. 2064; Pub. L. 97–248, title II, §281A(b)(1), Sept. 3, 1982, 96 Stat. 567.)
+&emsp;In the case of transportation by air for which disclosure on the ticket or advertising for such transportation of the amounts paid for passenger taxes is required by subsection (a)(2) or (b)(1)(B), if such amounts are separately disclosed, it shall be unlawful for the disclosure of such amounts to include any amounts not attributable to such taxes.
+
+#### (2) Inclusion in transportation cost
+
+&emsp;Nothing in this subsection shall prohibit the inclusion of amounts not attributable to the taxes imposed by subsection (a), (b), or (c) of section 4261 in the disclosure of the amount paid for transportation as required by subsection (a)(1) or (b)(1)(A), or in a separate disclosure of amounts not attributable to such taxes.
+
+#### (d) Penalty
+
+Any person who violates any provision of subsection (a), (b), or (c) is, for each violation, guilty of a misdemeanor, and upon conviction thereof shall be fined not more than $100.
+
+(Added Pub. L. 91–258, title II, §203(c)(1), May 21, 1970, 84 Stat. 239; amended Pub. L. 91–680, §3, Jan. 12, 1971, 84 Stat. 2064; Pub. L. 97–248, title II, §281A(b)(1), Sept. 3, 1982, 96 Stat. 567; Pub. L. 112–95, title XI, §1104(a), Feb. 14, 2012, 126 Stat. 151.)
 
 #### Prior Provisions
 
 A prior section 7275, act Aug. 16, 1954, ch. 736, 68 Stat. 866, related to cross references, prior to repeal by Pub. L. 89–44, title VI, §601(i), June 21, 1965, 79 Stat. 155.
 
 #### Amendments
+
+<b>2012</b>—Subsecs. (c), (d). Pub. L. 112–95 added subsec. (c), redesignated former subsec. (c) as (d), and, in subsec. (d), substituted “subsection (a), (b), or (c)” for “subsection (a) or (b)”.
 
 <b>1982</b>—Subsec. (a). Pub. L. 97–248 redesignated former par. (1) as pars. (1) and (2) and struck out former par. (2) which provided that a ticket for transportation, if it showed amounts paid with respect to any segment of such transportation, had to comply with former par. (1) with respect to such segments as well as with respect to the sum of the segments.
 
@@ -38,15 +50,21 @@ Subsec. (b)(1). Pub. L. 91–680, §3(b), struck out “only” after “state s
 
 Subsec. (b)(2). Pub. L. 91–680, §3(b), substituted provisions authorizing advertising to separately state in the prescribed manner the amount paid for the air transportation and the amount paid for taxes, for provisions prohibiting advertising from separately stating the amount paid for the air transportation and the amount paid for taxes.
 
+#### Effective Date of 2012 Amendment
+
+Pub. L. 112–95, title XI, §1104(b), Feb. 14, 2012, 126 Stat. 151, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable transportation provided after March 31, 2012.”
+
 #### Effective Date of 1982 Amendment
 
-Section 281A(b)(2) of Pub. L. 97–248, as amended by Pub. L. 98–369, div. A, title VII, §714(b), July 18, 1984, 98 Stat. 961, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to transportation beginning after the date of the enactment of this Act \[Sept. 3, 1982\].”
+Pub. L. 97–248, title II, §281A(b)(2), Sept. 3, 1982, 96 Stat. 568, as amended by Pub. L. 98–369, div. A, title VII, §714(b), July 18, 1984, 98 Stat. 961, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to transportation beginning after the date of the enactment of this Act \[Sept. 3, 1982\].”
 
 #### Effective Date of 1971 Amendment
 
-Section 4 of Pub. L. 91–680 provided that: “The amendments made by the third section of this Act \[amending this section\] shall apply to transportation beginning after June 30, 1970.”
+Pub. L. 91–680, §4, Jan. 12, 1971, 84 Stat. 2065, provided that: “The amendments made by the third section of this Act \[amending this section\] shall apply to transportation beginning after June 30, 1970.”
 
 #### Effective Date
 
 Section applicable to transportation beginning after June 30, 1970, see section 211(b) of Pub. L. 91–258, set out as Effective Date of 1970 Amendment note under section 4041 of this title.
+
+<i><sup>1</sup></i><i> So in original. The word “shall” probably should not appear.</i>
 

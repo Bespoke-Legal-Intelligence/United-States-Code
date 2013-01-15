@@ -52,11 +52,11 @@
 
 &emsp;(C) unsupported by substantial evidence on the record.
 
-> The Commission may affirm the determination of the Postal Service or order that the entire matter be returned for further consideration, but the Commission may not modify the determination of the Postal Service. The Commission may suspend the effectiveness of the determination of the Postal Service until the final disposition of the appeal. The provisions of section 556, section 557, and chapter 7 of title 5 shall not apply to any review carried out by the Commission under this paragraph.
+> The Commission may affirm the determination of the Postal Service or order that the entire matter be returned for further consideration, but the Commission may not modify the determination of the Postal Service. The Commissionmay suspend the effectiveness of the determination of the Postal Service until the final disposition of the appeal. The provisions of section 556, section 557, and chapter 7 of title 5 shall not apply to any review carried out by the Commission under this paragraph.
 
 (6) For purposes of paragraph (5), any appeal received by the Commission shall—
 
-&emsp;(A) if sent to the Commission through the mails, be considered to have been received onthe date of the Postal Service postmark on the envelope or other cover in which such appeal is mailed; or
+&emsp;(A) if sent to the Commission through the mails, be considered to have been received on the date of the Postal Service postmark on the envelope or other cover in which such appeal is mailed; or
 
 &emsp;(B) if otherwise lawfully delivered to the Commission, be considered to have been received on the date determined based on any appropriate documentation or other indicia (as determined under regulations of the Commission).
 
@@ -120,7 +120,7 @@ Pub. L. 109–435, title X, §1006(b), Dec. 20, 2006, 120 Stat. 3258, provided t
 
 #### Effective Date of 1976 Amendment
 
-Section 9(b) of Pub. L. 94–421 provided that: “The amendments made by subsection (a) of this section \[amending this section\] shall take effect on the day after the date on which the Commission on Postal Service transmits its final report under section 7(f)(1) of this Act \[set out as a note under section 3661 of this title\].”
+Pub. L. 94–421, §9(b), Sept. 24, 1976, 90 Stat. 1311, provided that: “The amendments made by subsection (a) of this section \[amending this section\] shall take effect on the day after the date on which the Commission on Postal Service transmits its final report under section 7(f)(1) of this Act \[set out as a note under section 3661 of this title\].”
 
 #### Effective Date
 

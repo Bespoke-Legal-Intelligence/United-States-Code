@@ -16,7 +16,7 @@ As used in this subpart—
 
 #### Amendments
 
-<b>1996</b>—Par. (1)(B). Pub. L. 104–201, §3548(b)(1), which directed substitution of “section 3652(b)” for “section 3652(B)(2)” could not be executed because the phrase “section 3652(B)(2)” did not appear after amendment by Pub. L. 104–201, §3529. See below.
+<b>1996</b>—Par. (1)(B). Pub. L. 104–201, §3548(b)(1), which directed substitution of “section 3652(b)” for “section3652(B)(2)” could not be executed because the phrase “section 3652(B)(2)” did not appear after amendment by Pub. L. 104–201, §3529. See below.
 
 Pub. L. 104–201, §3529, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “an Executive agency or the Smithsonian Institution, to the extent of any election in effect under section 3652(b)(2) of this title;”.
 

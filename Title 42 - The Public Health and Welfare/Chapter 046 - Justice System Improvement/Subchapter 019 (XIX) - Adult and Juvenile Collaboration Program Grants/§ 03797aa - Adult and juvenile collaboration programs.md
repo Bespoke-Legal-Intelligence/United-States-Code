@@ -78,7 +78,7 @@ In this section, the following definitions shall apply:
 
 #### (1) In general
 
-&emsp;The Attorney General, in consultation with the Secretary, may award nonrenewablegrants to eligible applicants to prepare a comprehensive plan for and implement an adult or juvenile collaboration program, which targets preliminarily qualified offenders in order to promote public safety and public health.
+&emsp;The Attorney General, in consultation with the Secretary, may award nonrenewable grants to eligible applicants to prepare a comprehensive plan for and implement an adult or juvenile collaboration program, which targets preliminarily qualified offenders in order to promote public safety and public health.
 
 #### (2) Purposes
 
@@ -118,7 +118,7 @@ In this section, the following definitions shall apply:
 
 #### (C) Period of grant
 
-&emsp;&emsp;A planning grant shall be effective for a period of 1 year, beginning on the first day of the month in which the planning grant is made. Applicants may not receive more than 1 such planning grant.
+&emsp;&emsp;A planning grant shall be effective for a period of 1 year, beginning on the first day of the month in which the planning grant ismade. Applicants may not receive more than 1 such planning grant.
 
 #### (D) Amount
 
@@ -196,7 +196,7 @@ In this section, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(i) explain the applicant's inability to fund the collaboration program adequately without Federal assistance;
 
-&emsp;&emsp;&emsp;(ii) specify how the Federal support provided will be used to supplement, and not supplant, State, local, Indian tribe, or tribal organization sources of funding that would otherwise be available, including billing third-party resources for services already covered under programs (such as Medicaid, Medicare, and the State Children's Insurance Program); and
+&emsp;&emsp;&emsp;(ii) specify how the Federal support provided will be used to supplement, and not supplant, State, local, Indian tribe, or tribal organization sources of funding thatwould otherwise be available, including billing third-party resources for services already covered under programs (such as Medicaid, Medicare, and the State Children's Insurance Program); and
 
 &emsp;&emsp;&emsp;(iii) outline plans for obtaining necessary support and continuing the proposed collaboration program following the conclusion of Federal support.
 
@@ -224,7 +224,7 @@ In this section, the following definitions shall apply:
 
 #### (ii) Training
 
-&emsp;&emsp;&emsp;Funds may be used to create or expand programs, such as crisis interventiontraining, which offer specialized training to—
+&emsp;&emsp;&emsp;Funds may be used to create or expand programs, such as crisis intervention training, which offer specialized training to—
 
 &emsp;&emsp;&emsp;&emsp;(I) criminal justice system personnel to identify and respond appropriately to the unique needs of preliminarily qualified offenders; or
 
@@ -278,7 +278,7 @@ The Attorney General, in awarding funds under this section, shall give priority 
 
 #### (e) Federal use of funds
 
-The Attorney General, in consultation with the Secretary, in administering grants under this section, may use up to 3 percent of funds appropriated to—
+The Attorney General, in consultation with the Secretary, in administering grants underthis section, may use up to 3 percent of funds appropriated to—
 
 &emsp;(1) research the use of alternatives to prosecution through pretrial diversion in appropriate cases involving individuals with mental illness;
 

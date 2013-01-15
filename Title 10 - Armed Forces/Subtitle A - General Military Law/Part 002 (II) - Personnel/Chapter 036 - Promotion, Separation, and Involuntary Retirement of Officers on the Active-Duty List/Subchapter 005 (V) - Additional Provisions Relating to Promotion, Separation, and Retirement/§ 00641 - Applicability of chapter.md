@@ -10,7 +10,7 @@ Officers in the following categories are not subject to this chapter (other than
 
 &emsp;&emsp;(C) on full-time National Guard duty.
 
-&emsp;(2) The director of admissions, dean, and permanent professors at the United States Military Academy, the registrar, dean, and permanent professors at the United States Air ForceAcademy, and permanent professors of the Navy (as defined in regulations prescribed by the Secretary of the Navy).
+&emsp;(2) The director of admissions, dean, and permanent professors at the United States Military Academy, the registrar, dean, and permanent professors at the United States Air Force Academy, and permanent professors of the Navy (as defined in regulations prescribed by the Secretary of the Navy).
 
 &emsp;(3) Warrant officers.
 
@@ -82,7 +82,7 @@ Amendment by section 501(d) of Pub. L. 108–375 effective on the first day of t
 
 #### Effective Date of 1996 Amendment
 
-Section 1501(c) of Pub. L. 104–106 provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
+Pub. L. 104–106, div. A, title XV, §1501(c), Feb. 10, 1996, 110 Stat. 498, provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
 
 #### Effective Date of 1994 Amendment
 
@@ -98,7 +98,7 @@ Pub. L. 107–107, div. A, title V, §511(b), Dec. 28, 2001, 115 Stat. 1092, pro
 
 “(1) The Secretary of the military department concerned may provide that an officer who was excluded from the active-duty list under section 641(1)(D) of title 10, United States Code, as amended by section 521 of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by Public Law 106–398; 114 Stat. 1654A–108), shall be considered to have been on the active-duty list during the period beginning on the date on which the officer was so excluded and ending on the date of the enactment of this Act \[Dec. 28, 2001\].
 
-“(2) The Secretary of the military department concerned may provide that a Reserve officer who was placed on the active-duty list on or after October 30, 1997, shall be placed on the reserve active-status list if the officer otherwise meets the conditions specified insection 641(1)(D) of title 10, United States Code, as amended by subsection (a).”
+“(2) The Secretary of the military department concerned may provide that a Reserve officer who was placed on the active-duty list on or after October 30, 1997, shall be placed on the reserve active-status list if the officer otherwise meets the conditions specified in section 641(1)(D) of title 10, United States Code, as amended by subsection (a).”
 
 #### Transition Provisions Under Defense Officer Personnel Management Act
 

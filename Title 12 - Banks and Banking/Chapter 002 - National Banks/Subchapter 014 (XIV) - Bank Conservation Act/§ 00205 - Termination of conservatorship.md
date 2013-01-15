@@ -36,7 +36,7 @@ The Federal Deposit Insurance Act, referred to in subsec. (c), is act Sept. 21, 
 
 #### Amendments
 
-<b>1989</b>—Pub. L. 101–73 amended section generally. Prior to amendment, section read as follows: “If the Comptroller of the Currency becomes satisfied that it may safely be done and that it would be in the public interest, he may, in his discretion, terminate the conservatorship and permit such bank to resume the transaction of its business subject to such terms, conditions, restrictions and limitations as he may prescribe.”
+<b>1989</b>—Pub. L. 101–73 amended section generally. Prior to amendment, section read as follows: “If the Comptroller of the Currency becomes satisfied that it maysafely be done and that it would be in the public interest, he may, in his discretion, terminate the conservatorship and permit such bank to resume the transaction of its business subject to such terms, conditions, restrictions and limitations as he may prescribe.”
 
 #### Exception as to Transfer of Functions
 

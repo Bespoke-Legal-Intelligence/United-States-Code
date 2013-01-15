@@ -14,7 +14,7 @@ Duties.—
 
 &emsp;&emsp;(A)
 
-In general.—The Director shall be responsible for providing policy direction and management supervision for the Office andfor the issuance of patents and the registration of trademarks. The Director shall perform these duties in a fair, impartial, and equitable manner.
+In general.—The Director shall be responsible for providing policy direction and management supervision for the Office and for the issuance of patents and the registration of trademarks. The Director shall perform these duties in a fair, impartial, and equitable manner.
 
 &emsp;&emsp;(B)
 
@@ -68,7 +68,11 @@ Training of examiners.—The Office shall submit to the Congress a proposal to p
 
 &emsp;(5)
 
-National security positions.—The Director, in consultation with the Director ofthe Office of Personnel Management, shall maintain a program for identifying national security positions and providing for appropriate security clearances, in order to maintain the secrecy of certain inventions, as described in section 181, and to prevent disclosure of sensitive and strategic information in the interest of national security.
+National security positions.—The Director, in consultation with the Director of the Office of Personnel Management, shall maintain a program for identifying national security positions and providing for appropriate security clearances, in order to maintain the secrecy of certain inventions, as described in section 181, and to prevent disclosure of sensitive and strategic information in the interest of national security.
+
+&emsp;(6)
+
+Administrative patent judges and administrative trademark judges.—The Director may fix the rate of basic pay for the administrative patent judges appointed pursuantto section 6 and the administrative trademark judges appointed pursuant to section 17 of the Trademark Act of 1946 (15 U.S.C. 1067) at not greater than the rate of basic pay payable for level III of the Executive Schedule under section 5314 of title 5. The payment of a rate of basic pay under this paragraph shall not be subject to the pay limitation under section 5306(e) or 5373 of title 5.
 
 (c)
 
@@ -88,7 +92,7 @@ From pto.—Effective as of the effective date of the Patent and Trademark Offic
 
 &emsp;(2)
 
-Other personnel.—Any individual who, on the day before the effective date of the Patent and Trademark Office Efficiency Act, is an officer or employee of the Department of Commerce (other than an officer or employee under paragraph (1)) shall be transferred to the Office, as necessary to carry out the purposes of this Act,<sup>1</sup> if—
+Other personnel.—Any individual who, on the day before the effective date of the Patent and Trademark Office Efficiency Act, is an officer or employee of the Department of Commerce (other than an officer or employee under paragraph (1)) shall be transferred to the Office, as necessary to carry out the purposes of that Act, if—
 
 &emsp;&emsp;(A) such individual serves in a position for which a major function is the performance of work reimbursed by the Patent and Trademark Office, as determined by the Secretary of Commerce;
 
@@ -114,20 +118,6 @@ Continuation in office of certain officers.—(A) The individual serving as the 
 
 (July 19, 1952, ch. 950, 66 Stat. 792; Pub. L. 85–933, §1, Sept. 6, 1958, 72 Stat. 1793; Pub. L. 86–370, §1(a), Sept. 23, 1959, 73 Stat. 650; Pub. L. 88–426, title III, §305(26), Aug. 14, 1964, 78 Stat. 425; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 93–601, §1, Jan. 2, 1975, 88 Stat. 1956; Pub. L. 97–247, §4, Aug. 27, 1982, 96 Stat. 319; Pub. L. 97–366, §4, Oct. 25, 1982, 96 Stat. 1760; Pub. L. 98–622, title IV, §405, Nov. 8, 1984, 98 Stat. 3392; Pub. L. 105–304, title IV, §401(a)(1), Oct. 28, 1998, 112 Stat. 2887; Pub. L. 106–44, §2(c), Aug. 5, 1999, 113 Stat. 223; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4713\], Nov. 29, 1999, 113 Stat. 1536, 1501A–575; Pub. L. 107–273, div. C, title III, §13206(a)(2), Nov. 2, 2002, 116 Stat. 1904; Pub. L. 112–29, §§20(i)(1), 21(b), Sept. 16, 2011, 125 Stat. 334, 336.)
 
-#### Amendment of Subsection (b)
-
-<i>Pub. L. 112–29, §§21(b), 35, Sept. 16, 2011, 125 Stat. 336, 341, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to any patent issued on or after that effective date, subsection (b) of this section is amended by adding at the end the following:</i>
-
-&emsp;<i>“(6)</i>
-
-<i>Administrative patent judges and administrative trademark judges.—The Director may fix the rate of basic pay for the administrative patent judges appointed pursuant to section 6 and the administrative trademark judges appointed pursuant to section 17 of the Trademark Act of 1946 (15 U.S.C. 1067) at not greater than the rate of basic pay payable for level III of the Executive Schedule under section 5314 of title 5. The payment of a rate of basic pay under this paragraph shall not be subject to the pay limitation under section 5306(e) or 5373 of title 5.”.</i>
-
-<i>See 2011 Amendment note below.</i>
-
-#### Amendment of Subsection (e)(2)
-
-<i>Pub. L. 112–29, §20(i)(1), (l), Sept. 16, 2011, 125 Stat. 334, 335, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, subsection (e)(2) of this section is amended by striking “this Act,” and inserting “that Act,”. See 2011 Amendment note below.</i>
-
 #### Historical and Revision Notes
 
 Based on Title 35, U.S.C., 1946 ed., §2 (R.S. 476, amended (1) Feb. 15, 1916, ch. 22, §1, 39 Stat. 8, (2) Feb. 14, 1927, ch. 139, §1, 44 Stat. 1098, (3) Apr. 11, 1930, ch. 132, §1, 46 Stat. 155).
@@ -136,7 +126,7 @@ The temporary designation of the assistant commissioner as Commissioner in case 
 
 Changes in language are made. “Assistant commissioners” is used in the second sentence (and elsewhere in the bill) as referring to all three assistants.
 
-This entire title is subject to Reorganization Plan No. 5 of 1950 (64 Stat. 1263) which vests all functions ofthe Patent Office in the Secretary of Commerce and authorizes delegation by him. It has been found impractical to so word the various sections of the title, and a general provision has been inserted as the second paragraph of this section of the bill, leaving the wording of various sections of the title in terms of officers previously specified and to whom the functions presently stand delegated.
+This entire title is subject to Reorganization Plan No. 5 of 1950 (64 Stat. 1263) which vests all functions of the Patent Office in the Secretary of Commerce and authorizes delegation by him. It has been found impractical to so word the various sections of the title, and a general provision has been inserted as the second paragraph of this section of the bill, leaving the wording of various sections of the title in terms of officers previously specified and to whom the functions presently stand delegated.
 
 #### References in Text
 
@@ -152,7 +142,7 @@ Subsec. (e)(2). Pub. L. 112–29, §20(i)(1), substituted “that Act,” for �
 
 Subsec. (b)(2)(A). Pub. L. 107–273, §13206(a)(2)(B)(i), struck out “, United States Code” after “title 5”.
 
-Subsec. (b)(2)(B). Pub. L. 107–273, §13206(a)(2)(B)(ii)–(iv), in first sentence, struck out “United States Code,” after “section 5382 of title 5,” and “, United States Code” after “section 5304(h)(2)(C) of title 5”, in second sentence, struck out “United States Code,” after “for purposes of section 207(c)(2)(A) of title 18,” and “, United States Code” after “clause (ii) of section 207(c)(2)(A) of title 18”, and in last sentence, struck out “, United States Code” after “title 3”.
+Subsec. (b)(2)(B). Pub. L. 107–273, §13206(a)(2)(B)(ii)–(iv), in first sentence, struck out “United States Code,” after “section 5382 of title 5,” and “, United States Code” after “section 5304(h)(2)(C) of title 5”, in second sentence, struck out “UnitedStates Code,” after “for purposes of section 207(c)(2)(A) of title 18,” and “, United States Code” after “clause (ii) of section 207(c)(2)(A) of title 18”, and in last sentence, struck out “, United States Code” after “title 3”.
 
 Subsec. (b)(2)(C). Pub. L. 107–273, §13206(a)(2)(B)(v), struck out “, United States Code” after “title 5”.
 
@@ -194,9 +184,9 @@ Subsecs. (b), (c). Pub. L. 93–601 designated second and third pars. as subsecs
 
 #### Effective Date of 2011 Amendment
 
-Amendment by section 20(i)(1) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(<i>l</i>) of Pub. L. 112–29, set out as a note under section 2 of this title.
+Notwithstanding section 35 of Pub. L. 112–29 (set out as a note under section 1 of this title), amendment by section 21 of Pub. L. 112–29 effective as of Sept. 16, 2011, see section 1(g) of Pub. L. 112–274, set out as a note under section 2 of this title.
 
-Except as otherwise provided in Pub. L. 111–29, amendment by Pub. L. 111–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to any patent issued on or after that effective date, see section 35 of Pub. L. 112–29, set out as a note under section 1 of this title.
+Amendment by section 20(i)(1) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(l) of Pub. L. 112–29, set out as a note under section 2 of this title.
 
 #### Effective Date of 1999 Amendment
 
@@ -204,15 +194,15 @@ Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see secti
 
 #### Effective Date of 1984 Amendment
 
-Section 406(b) of Pub. L. 98–622 provided that: “The amendments made by sections 401, 402, and 405 of this Act \[amending this section and sections 361, 366, 371, 372, and 376 of this title\] shall take effect six months after the date of the enactment of this Act \[Nov. 8, 1984\].”
+Pub. L. 98–622, title IV, §406(b), Nov. 8, 1984, 98 Stat. 3393, provided that: “The amendments made by sections 401, 402, and 405 of this Act \[amending this section and sections 361, 366, 371, 372, and 376 of this title\] shall take effect six months after the date of the enactment of this Act \[Nov. 8, 1984\].”
 
 #### Effective Date of 1982 Amendment
 
 Amendment by Pub. L. 97–247 effective Aug. 27, 1982, see section 17(a) of Pub. L. 97–247, set out as a note under section 41 of this title.
 
-#### Effective Date of 1975 Amendments
+#### Effective Date of 1975 Amendment
 
-Section 4(b) of Pub. L. 93–601 provided that: “This Act \[amending this section and sections 7 and 151 of this title and enacting provisions set out as a note under section 151 of this title\] shall be effective upon enactment \[Jan. 2, 1975\]. Examiners-in-chief in office on thedate of enactment shall continue in office under and in accordance with their then existing appointments.”
+Pub. L. 93–601, §4(b), Jan. 2, 1975, 88 Stat. 1957, provided that: “This Act \[amending this section and sections 7 and 151 of this title and enacting provisions set out as a note under section 151 of this title\] shall be effective upon enactment \[Jan. 2, 1975\]. Examiners-in-chief in office on the date of enactment shall continue in office under and in accordance with their then existing appointments.”
 
 Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 93–596, set out as a note under section 1111 of Title 15, Commerce and Trade.
 
@@ -222,17 +212,15 @@ Amendment by Pub. L. 88–426 effective on first day of first pay period which b
 
 #### Effective Date of 1959 Amendment
 
-Section 7(b) of Pub. L. 86–370 provided that: “Sections 1 \[amending this section, section 7 of this title, and provisions set out as a note below\], 3 \[amending sections 2205 and 2208 of former Title 5, Executive Departments and Government Officers and Employees\], and 6 \[amending section 1082 of former Title 5 and section 903 of Title 20, Education\] of this Act shall become effective on the first day of the first pay period which begins after the date of enactment of this Act \[Sept. 23, 1959\].” Such section 7(b) was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 660.
+Pub. L. 86–370, §7(b), Sept. 23, 1959, 73 Stat. 653, provided that: “Sections 1 \[amending this section, section 7 of this title, and provisions set out as a note below\], 3 \[amending sections 2205 and 2208 of former Title 5, Executive Departments and Government Officers and Employees\], and 6 \[amending section 1082 of former Title 5 and section 903 of Title 20, Education\] of this Act shall become effective on the first day of the first pay period which begins after the date of enactment of this Act \[Sept. 23, 1959\].” Such section 7(b) was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 660.
 
 #### Existing Positions, Compensation, and Appointments Unaffected by Pub. L. 86–370 Until Action Taken Under Amendments
 
-Section 1(c) of Pub. L. 86–370 provided that: “The amendments made by this section \[amending sections 1 and 7 of this title\] shall not affect—
+Pub. L. 86–370, §1(c), Sept. 23, 1959, 73 Stat. 650, provided that: “The amendments made by this section \[amending sections 1 and 7 of this title\] shall not affect—
 
 &emsp;“(1) any position of examiner-in-chief or designated examiner-in-chief existing immediately prior to the effective date of this section \[see Effective Date of 1959 Amendment note set out above\], or
 
 &emsp;“(2) any incumbent of any such position, his appointment thereto, his rate of compensation, or his right to receive such compensation,
 
 > until appropriate action is taken under authority of such amendments.”
-
-<i><sup>1</sup></i><i> So in original.</i>
 

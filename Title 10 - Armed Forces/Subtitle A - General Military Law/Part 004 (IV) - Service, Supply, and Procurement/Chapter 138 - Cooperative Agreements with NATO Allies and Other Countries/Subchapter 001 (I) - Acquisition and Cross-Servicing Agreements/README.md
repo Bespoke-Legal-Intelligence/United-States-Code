@@ -11,12 +11,14 @@
 | [2347\.](%C2%A7%2002347%20-%20Limitation%20on%20amounts%20that%20may%20be%20obligated%20or%20accrued%20by%20the%20United%20States.md) | Limitation on amounts that may be obligated or accrued by the United States. |
 | [2348\.](%C2%A7%2002348%20-%20Inventories%20of%20supplies%20not%20to%20be%20increased.md) | Inventories of supplies not to be increased. |
 | [2349\.](%C2%A7%2002349%20-%20Overseas%20Workload%20Program.md) | Overseas Workload Program. |
-| [2349a.](%C2%A7%2002349a%20-%20Annual%20report%20on%20non-NATO%20agreements.md) | Annual report on non-NATO agreements. |
+| \[2349a. | Repealed.\] |
 | [2350\.](%C2%A7%2002350%20-%20Definitions.md) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2013</b>—Pub. L. 112–239, div. A, title X, §1076(g)(3), Jan. 2, 2013, 126 Stat. 1955, struck out item 2349a “Annual report on non-NATO agreements”.
 
 <b>1994</b>—Pub. L. 103–337, div. A, title XIII, §1317(c)(2)(B), (i)(2), Oct. 5, 1994, 108 Stat. 2900, 2902, substituted “Waiver of applicability of certain laws” for “Law applicable to acquisition and cross-servicing agreements” in item 2343 and added item 2349a.
 
@@ -44,5 +46,5 @@
 - [&sect; 02347 - Limitation on amounts that may be obligated or accrued by the United States](%C2%A7%2002347%20-%20Limitation%20on%20amounts%20that%20may%20be%20obligated%20or%20accrued%20by%20the%20United%20States.md)
 - [&sect; 02348 - Inventories of supplies not to be increased](%C2%A7%2002348%20-%20Inventories%20of%20supplies%20not%20to%20be%20increased.md)
 - [&sect; 02349 - Overseas Workload Program](%C2%A7%2002349%20-%20Overseas%20Workload%20Program.md)
-- [&sect; 02349a - Annual report on non-NATO agreements](%C2%A7%2002349a%20-%20Annual%20report%20on%20non-NATO%20agreements.md)
+- [&sect; 02349a - Repealed. Pub. L. 112&#8211;239, div. A, title X, &sect;1076(g)(3), Jan. 2, 2013, 126 Stat. 1955](%C2%A7%2002349a%20-%20Repealed.%20Pub.%20L.%20112%E2%80%93239%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71076%28g%29%283%29%2C%20Jan.%202%2C%202013%2C%20126%20Stat.%201955.md)
 - [&sect; 02350 - Definitions](%C2%A7%2002350%20-%20Definitions.md)

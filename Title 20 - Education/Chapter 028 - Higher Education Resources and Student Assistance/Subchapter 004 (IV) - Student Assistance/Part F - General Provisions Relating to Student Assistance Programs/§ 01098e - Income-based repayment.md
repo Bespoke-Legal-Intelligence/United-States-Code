@@ -34,7 +34,7 @@ Notwithstanding any other provision of this chapter and part C of subchapter I o
 
 &emsp;(3) any interest due and not paid under paragraph (2)—
 
-&emsp;&emsp;(A) shall, on subsidized loans, be paid by the Secretary for a period of not more than 3 years after the date of the borrower's election under paragraph (1), except that such period shall not include any period during which the borrower is in deferment due to an economic hardship described in section 1085(<i>o</i>) of this title; and
+&emsp;&emsp;(A) shall, on subsidized loans, be paid by the Secretary for a period of not more than 3 years after the date of the borrower's election under paragraph (1), except that such period shall not include any period during which the borrower is in deferment due to an economic hardship described in section 1085(o) of this title; and
 
 &emsp;&emsp;(B) be capitalized—
 
@@ -74,7 +74,7 @@ Notwithstanding any other provision of this chapter and part C of subchapter I o
 
 &emsp;&emsp;&emsp;(iv) has made payments under an income-contingent repayment plan under section 1087e(d)(1)(D) of this title; or
 
-&emsp;&emsp;&emsp;(v) has been in deferment due to an economic hardship described in section 1085(<i>o</i>) of this title;
+&emsp;&emsp;&emsp;(v) has been in deferment due to an economic hardship described in section 1085(o) of this title;
 
 &emsp;(8) a borrower who is repaying a loan made under part B or C pursuant to income-based repayment may elect, at any time, to terminate repayment pursuant to income-based repayment and repay such loan under the standard repayment plan; and
 

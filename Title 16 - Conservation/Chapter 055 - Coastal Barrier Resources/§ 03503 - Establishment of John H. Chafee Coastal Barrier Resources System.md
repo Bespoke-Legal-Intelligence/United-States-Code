@@ -504,7 +504,7 @@ Pub. L. 101–591, §8, Nov. 16, 1990, 104 Stat. 2937, which established the Coa
 
 #### Definitions
 
-Section 12 of Pub. L. 101–591, as amended by Pub. L. 106–167, §3(c)(6), Dec. 9, 1999, 113 Stat. 1804, provided that: “For purposes of this Act \[see Short Title of 1990 Amendment note set out under section 3501 of this title\]—
+Pub. L. 101–591, §12, Nov. 16, 1990, 104 Stat. 2940, as amended by Pub. L. 106–167, §3(c)(6), Dec. 9, 1999, 113 Stat. 1804, provided that: “For purposes of this Act \[see Short Title of 1990 Amendment note set out under section 3501 of this title\]—
 
 &emsp;“(1) the term ‘undeveloped coastal barrier’ means—
 

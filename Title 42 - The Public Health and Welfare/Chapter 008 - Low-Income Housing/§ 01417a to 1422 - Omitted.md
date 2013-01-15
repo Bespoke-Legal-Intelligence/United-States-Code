@@ -10,7 +10,7 @@ Section 1418, act Sept. 1, 1937, ch. 896, §18, 50 Stat. 897, authorized all ass
 
 Section 1419, act Sept. 1, 1937, ch. 896, §19, 50 Stat. 897, authorized the allocation of funds available for similar purposes to the Authority.
 
-Section 1420, acts Sept. 1, 1937, ch. 896, §20, 50 Stat. 898; June 21, 1938, ch. 554, title VI, §602, 52 Stat. 820; Oct. 30, 1941, ch. 467, 55 Stat. 759; July 15, 1949, ch. 338, title III, §304(h), 63 Stat. 427; Aug. 1, 1968, Pub. L. 90–448, title II, §203(b), 82 Stat. 503, authorized the Authority to issue obligations for purchase and sale by the Secretary of the Treasury. See section 1437b of this title.
+Section 1420, acts Sept. 1, 1937, ch. 896, §20, 50 Stat. 898; June 21, 1938, ch. 554, title VI, §602, 52 Stat. 820; Oct. 30, 1941, ch. 467, 55 Stat. 759; July 15, 1949, ch. 338, title III, §304(h), 63 Stat. 427; Aug. 1, 1968, Pub. L. 90–448, titleII, §203(b), 82 Stat. 503, authorized the Authority to issue obligations for purchase and sale by the Secretary of the Treasury. See section 1437b of this title.
 
 Section 1421, acts Sept. 1, 1937, ch. 896, §21, 50 Stat. 898; July 15, 1949, ch. 338, title III, §307(g), 63 Stat. 431; Aug. 7, 1956, ch. 1029, title IV, §403, 70 Stat. 1103; June 30, 1961, Pub. L. 87–70, title II, §204(c), 75 Stat. 164, set forth depository and other banking requirements applicable to the Authority. See section 1437h of this title.
 

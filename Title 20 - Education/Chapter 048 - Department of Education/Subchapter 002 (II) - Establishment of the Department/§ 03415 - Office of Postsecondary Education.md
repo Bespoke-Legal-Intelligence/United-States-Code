@@ -6,7 +6,7 @@
 
 &emsp;(1) be an individual with extensive background and experience in international and foreign language education;
 
-&emsp;(2) have responsibility for encouraging and promoting the study of foreign languages andthe study of the cultures of other countries at the elementary, secondary, and postsecondary levels in the United States; and
+&emsp;(2) have responsibility for encouraging and promoting the study of foreign languages and the study of the cultures of other countries at the elementary, secondary, and postsecondary levels in the United States; and
 
 &emsp;(3) coordinate with related international and foreign language education programs of other Federal agencies.
 

@@ -14,5 +14,5 @@
 
 #### Effective Date
 
-Section 1(c)(1) of Pub. L. 105–111 provided that: “Sections 5109A and 7111 of title 38, United States Code, as added by this section, apply to any determination made before, on, or after the date of the enactment of this Act \[Nov. 21, 1997\].”
+Pub. L. 105–111, §1(c)(1), Nov. 21, 1997, 111 Stat. 2272, provided that: “Sections 5109A and 7111 of title 38, United States Code, as added by this section, apply to any determination made before, on, or after the date of the enactment of this Act \[Nov. 21, 1997\].”
 

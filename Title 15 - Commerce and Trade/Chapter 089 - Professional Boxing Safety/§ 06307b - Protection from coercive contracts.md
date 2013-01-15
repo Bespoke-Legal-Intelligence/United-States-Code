@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-(1)(A) A contract provision shall be considered to be in restraint of trade, contrary to public policy, and unenforceable against any boxer to the extent that it—
+(1)(A) A contract provision shall be considered to be in restraint of trade, contrary to publicpolicy, and unenforceable against any boxer to the extent that it—
 
 &emsp;(i) is a coercive provision described in subparagraph (B) and is for a period greater than 12 months; or
 

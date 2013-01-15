@@ -64,7 +64,7 @@ There is hereby imposed a tax on the failure of a group health plan to meet the 
 
 #### (B) Special rule where more than 1 qualified beneficiary
 
-&emsp;&emsp;If there is more than 1 qualified beneficiary with respect to the same qualifyingevent, the maximum amount of tax imposed by subsection (a) on all failures on any day during the noncompliance period with respect to such qualified beneficiaries shall be $200.
+&emsp;&emsp;If there is more than 1 qualified beneficiary with respect to the same qualifying event, the maximum amount of tax imposed by subsection (a) on all failures on any day during the noncompliance period with respect to such qualified beneficiaries shall be $200.
 
 #### (4) Overall limitation for unintentional failures
 
@@ -188,7 +188,7 @@ This section shall not apply to—
 
 #### (V) Special rule for PBGC recipients
 
-&emsp;&emsp;&emsp;&emsp;In the case of a qualifying event described in paragraph (3)(B) with respect to a covered employee who (as of such qualifying event) has a nonforfeitable right to a benefit any portion of which is to be paid by the Pension Benefit Guaranty Corporation under title IV of the Employee Retirement Income Security Act of 1974, notwithstanding subclause (I) or (II), the date of the death of the covered employee, or in the case of the surviving spouse or dependent children of the covered employee, 24 months after the date of the death of the covered employee. The preceding sentence shall not require any period of coverage to extend beyond January 1, 2014.
+&emsp;&emsp;&emsp;&emsp;In the case of a qualifying event described in paragraph (3)(B) with respectto a covered employee who (as of such qualifying event) has a nonforfeitable right to a benefit any portion of which is to be paid by the Pension Benefit Guaranty Corporation under title IV of the Employee Retirement Income Security Act of 1974, notwithstanding subclause (I) or (II), the date of the death of the covered employee, or in the case of the surviving spouse or dependent children of the covered employee, 24 months after the date of the death of the covered employee. The preceding sentence shall not require any period of coverage to extend beyond January 1, 2014.
 
 #### (VI) Special rule for TAA-eligible individuals
 
@@ -200,7 +200,7 @@ This section shall not apply to—
 
 #### (VIII) Special rule for disability
 
-&emsp;&emsp;&emsp;&emsp;In the case of a qualified beneficiary who is determined, under title II or XVI of the Social Security Act, to have been disabled at any time during the first 60 days of continuation coverage under this section, any reference in subclause (I) or (II) to 18 months is deemed a reference to 29 months (with respect to all qualified beneficiaries), but only if the qualified beneficiary has provided notice of suchdetermination under paragraph (6)(C) before the end of such 18 months.
+&emsp;&emsp;&emsp;&emsp;In the case of a qualified beneficiary who is determined, under title II or XVI of the Social Security Act, to have been disabled at any time during the first 60 days of continuation coverage under this section, any reference in subclause (I) or (II) to 18 months is deemed a reference to 29 months (with respect to all qualified beneficiaries), but only if the qualified beneficiary has provided notice of such determination under paragraph (6)(C) before the end of such 18 months.
 
 #### (ii) End of plan
 
@@ -238,7 +238,7 @@ This section shall not apply to—
 
 #### (E) Conversion option
 
-&emsp;&emsp;In the case of a qualified beneficiary whose period of continuation coverage expires under subparagraph (B)(i), the plan must, during the 180-day period ending on such expiration date, provide to the qualified beneficiary the option of enrollment under a conversion health plan otherwise generally available under the plan.
+&emsp;&emsp;In the case of a qualified beneficiary whose period of continuation coverage expiresunder subparagraph (B)(i), the plan must, during the 180-day period ending on such expiration date, provide to the qualified beneficiary the option of enrollment under a conversion health plan otherwise generally available under the plan.
 
 #### (3) Qualifying event
 
@@ -378,7 +378,7 @@ This section shall not apply to—
 
 #### (7) Covered employee
 
-&emsp;For purposes of this subsection, the term “covered employee” means an individual who is (or was) provided coverage under a group health plan by virtue of the performance of services by the individual for 1 or more persons maintaining the plan (including as an employee defined in section 401(c)(1)).
+&emsp;For purposes of this subsection, the term “covered employee” means an individual who is (or was) provided coverage under a group health plan by virtue of the performance ofservices by the individual for 1 or more persons maintaining the plan (including as an employee defined in section 401(c)(1)).
 
 #### (8) Optional extension of required periods
 
@@ -476,7 +476,7 @@ Pub. L. 104–188, §1704(t)(21), made technical amendment to directory language
 
 Subsec. (f)(2)(B)(i)(V). Pub. L. 104–188, §1704(g)(1)(A), substituted “Medicare entitlement followed by qualifying event” for “Qualifying event involving medicare entitlement” in heading and amended text generally. Prior to amendment, text read as follows: “In the case of an event described in paragraph (3)(D) (without regard to whether such event is a qualifying event), the period of coverage for qualified beneficiaries other than the covered employee for such event or any subsequent qualifying event shall not terminate before the close of the 36-month period beginning on the date the covered employee becomes entitled to benefits under title XVIII of the Social Security Act.”
 
-Subsec. (f)(2)(B)(iv)(I). Pub. L. 104–191, §421(c)(1)(B), inserted “(other than such an exclusion or limitationwhich does not apply to (or is satisfied by) such beneficiary by reason of chapter 100 of this title, part 7 of subtitle B of title I of the Employee Retirement Income Security Act of 1974, or title XXVII of the Public Health Service Act)” before “, or”.
+Subsec. (f)(2)(B)(iv)(I). Pub. L. 104–191, §421(c)(1)(B), inserted “(other than such an exclusion or limitation which does not apply to (or is satisfied by) such beneficiary by reason of chapter 100 of this title, part 7 of subtitle B of title I of the Employee Retirement Income Security Act of 1974, or title XXVII of the Public Health Service Act)” before “, or”.
 
 Subsec. (f)(2)(B)(v). Pub. L. 104–191, §421(c)(1)(C), substituted “at any time during the first 60 days of continuation coverage under this section” for “at the time of a qualifying event described in paragraph (3)(B)”.
 
@@ -538,13 +538,13 @@ Amendment by Pub. L. 107–210 applicable to petitions for certification filed u
 
 Amendment by section 321(d)(1) of Pub. L. 104–191 applicable to contracts issued after Dec. 31, 1996, see section 321(f) of Pub. L. 104–191, set out as an Effective Date note under section 7702B of this title.
 
-Section 421(d) of Pub. L. 104–191 provided that: “The amendments made by this section \[amending this section, sections 1162, 1166, and 1167 of Title 29, Labor, and sections 300bb–2, 300bb–6, and 300bb–8 of Title 42, The Public Health and Welfare\] shall become effective on January 1, 1997, regardless of whether the qualifying event occurred before, on, or after such date.”
+Pub. L. 104–191, title IV, §421(d), Aug. 21, 1996, 110 Stat. 2089, provided that: “The amendments made by this section \[amending this section, sections 1162, 1166, and 1167 of Title 29, Labor, and sections 300bb–2, 300bb–6, and 300bb–8 of Title 42, The Public Health and Welfare\] shall become effective on January 1, 1997, regardless of whether the qualifying event occurred before, on, or after such date.”
 
-Section 1704(g)(2) of Pub. L. 104–188 provided that: “The amendments made by this subsection \[amending this section, section 1162 of Title 29, Labor, and section 300bb–2 of Title 42, The Public Health and Welfare\] shall apply to plan years beginning after December 31, 1989.”
+Pub. L. 104–188, title I, §1704(g)(2), Aug. 20, 1996, 110 Stat. 1881, provided that: “The amendments made by this subsection \[amending this section, section 1162 of Title 29, Labor, and section 300bb–2 of Title 42, The Public Health and Welfare\] shall apply to plan years beginning after December 31, 1989.”
 
 #### Effective Date of 1993 Amendment
 
-Section 13422(b) of Pub. L. 103–66 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to plan years beginning after the date of the enactment of this Act \[Aug. 10, 1993\].”
+Pub. L. 103–66, title XIII, §13422(b), Aug. 10, 1993, 107 Stat. 566, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to plan years beginning after the date of the enactment of this Act \[Aug. 10, 1993\].”
 
 #### Effective Date of 1990 Amendment
 
@@ -554,19 +554,19 @@ Amendment by Pub. L. 101–508 effective as if included in the provision of the 
 
 Amendment by section 6202(b)(3)(B) of Pub. L. 101–239 applicable to items and services furnished after Dec. 19, 1989, see section 6202(b)(5) of Pub. L. 101–239, set out as a note under section 162 of this title.
 
-Section 6701(d) of Pub. L. 101–239 provided that: “The amendments made by this section \[amending this section\] shall apply to plan years beginning on or after the date of the enactment of this Act \[Dec. 19, 1989\], regardless of whether the qualifying event occurred before, on, or after such date.”
+Pub. L. 101–239, title VI, §6701(d), Dec. 19, 1989, 103 Stat. 2295, provided that: “The amendments made by this section \[amending this section\] shall apply to plan years beginning on or after the date of the enactment of this Act \[Dec. 19, 1989\], regardless of whether the qualifying event occurred before, on, or after such date.”
 
-Section 7862(c)(2)(C) of Pub. L. 101–239 provided that: “The amendments made by this paragraph \[amending this section and section 1167 of Title 29, Labor\] shall apply to plan years beginning after December 31, 1989.”
+Pub. L. 101–239, title VII, §7862(c)(2)(C), Dec. 19, 1989, 103 Stat. 2432, provided that: “The amendments made by this paragraph \[amending this section and section 1167 of Title 29, Labor\] shall apply to plan years beginning after December 31, 1989.”
 
 Amendment by section 7862(c)(3)(C) of Pub. L. 101–239 applicable to (i) qualifying events occurring after Dec. 31, 1989, and (ii) in the case of qualified beneficiaries who elected continuation coverage after Dec. 31, 1988, the period for which the required premium was paid (or was attempted to be paid but was rejected as such), see section 7862(c)(3)(D) of Pub. L. 101–239, set out as a note under section 162 of this title.
 
-Section 7862(c)(4)(C) of Pub. L. 101–239 provided that: “The amendments made by this paragraph \[amending this section and section 1162 of Title 29, Labor\] shall apply to plan years beginning after December 31, 1989.”
+Pub. L. 101–239, title VII, §7862(c)(4)(C), Dec. 19, 1989, 103 Stat. 2433, provided that: “The amendments made by this paragraph \[amending this section and section 1162 of Title 29, Labor\] shall apply to plan years beginning after December 31, 1989.”
 
-Section 7862(c)(5)(C) of Pub. L. 101–239 provided that: “The amendments made by this paragraph \[amending this section and section 1162 of Title 29\] shall apply to plan years beginning after December 31, 1989.”
+Pub. L. 101–239, title VII, §7862(c)(5)(C), Dec. 19, 1989, 103 Stat. 2433, provided that: “The amendments made by this paragraph \[amending this section and section 1162 of Title 29\] shall apply to plan years beginning after December 31, 1989.”
 
-Section 7891(d)(1)(C) of Pub. L. 101–239 provided that: “The amendments made by this paragraph \[amending this section and section 1166 of Title 29\] shall apply with respect to plan years beginning on or after January 1, 1990.”
+Pub. L. 101–239, title VII, §7891(d)(1)(C), Dec. 19, 1989, 103 Stat. 2446, provided that: “The amendments made by this paragraph \[amending this section and section 1166 of Title 29\] shall apply with respect to plan years beginning on or after January 1, 1990.”
 
-Section 7891(d)(2)(C) of Pub. L. 101–239 provided that: “The amendments made by this paragraph \[amending this section and section 1167 of Title 29\] shall apply with respect to plan years beginning on or after January 1, 1990.”
+Pub. L. 101–239, title VII, §7891(d)(2)(C), Dec. 19, 1989, 103 Stat. 2447, provided that: “The amendments made by this paragraph \[amending this section and section 1167 of Title 29\] shall apply with respect to plan years beginning on or after January 1, 1990.”
 
 #### Effective Date
 
@@ -574,11 +574,11 @@ Section applicable to taxable years beginning after Dec. 31, 1988, but not appli
 
 #### Construction of 2002 Amendment
 
-Nothing in amendment by Pub. L. 107–210, other than provisions relating to COBRA continuation coverage and reporting requirements, to be construed as creating new mandate on any party regarding health insurance coverage, see section 203(f) of Pub. L. 107–210, set out as a note under section 2918 of Title 29, Labor.
+Nothing in amendment by Pub. L. 107–210, other than provisions relating to COBRA continuation coverage and reporting requirements, to be construed as creating new mandate on any party regarding health insurancecoverage, see section 203(f) of Pub. L. 107–210, set out as a note under section 2918 of Title 29, Labor.
 
 #### Notification of Changes in Continuation Coverage
 
-Section 421(e) of Pub. L. 104–191 provided that: “Not later than November 1, 1996, each group health plan (covered under title XXII of the Public Health Service Act \[42 U.S.C. 300bb–1 et seq.\], part 6 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1161 et seq.\], and section 4980B(f) of the Internal Revenue Code of 1986) shall notify each qualified beneficiary who has elected continuation coverage under such title, part or section of the amendments made by this section \[amending this section, sections 1162, 1166, and 1167 of Title 29, Labor, and sections 300bb–2, 300bb–6, and 300bb–8 of Title 42, The Public Health and Welfare\].”
+Pub. L. 104–191, title IV, §421(e), Aug. 21, 1996, 110 Stat. 2089, provided that: “Not later than November 1, 1996, each group health plan (covered under title XXII of the Public Health Service Act \[42 U.S.C. 300bb–1 et seq.\], part 6 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1161 et seq.\], and section 4980B(f) of the Internal Revenue Code of 1986) shall notify each qualified beneficiary who has elected continuation coverage under such title, part or section of the amendments made by this section \[amending this section, sections 1162, 1166, and 1167 of Title 29, Labor, and sections 300bb–2, 300bb–6, and 300bb–8 of Title 42, The Public Health and Welfare\].”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

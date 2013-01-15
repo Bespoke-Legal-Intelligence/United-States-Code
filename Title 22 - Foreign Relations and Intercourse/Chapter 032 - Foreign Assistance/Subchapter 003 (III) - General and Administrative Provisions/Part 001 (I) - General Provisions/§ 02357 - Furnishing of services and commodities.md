@@ -14,13 +14,13 @@ When any agency of the United States Government provides services on an advance-
 
 #### (c) Excess property
 
-(1) Except as provided in subsection (d) of this section, no Government-owned excess property shall be made available under this section, section 2358 of this title, or otherwise in furtherance of the purposes of subchapter I of thischapter, unless, before the shipment of such property for use in a specified country (or transfer, if the property is already in such country), the agency administering such subchapter I has approved such shipment (or transfer) and made a written determination—
+(1) Except as provided in subsection (d) of this section, no Government-owned excess property shall be made available under this section, section 2358 of this title, or otherwise in furtherance of the purposes of subchapter I of this chapter, unless, before the shipment of such property for use in a specified country (or transfer, if the property is already in such country), the agency administering such subchapter I has approved such shipment (or transfer) and made a written determination—
 
 &emsp;(A) that there is a need for such property in the quantity requested and that such property is suitable for the purpose requested;
 
 &emsp;(B) as to the status and responsibility of the designated end-user and his ability effectively to use and maintain such property; and
 
-&emsp;(C) that the residual value, serviceability, and appearance of such property would not reflect unfavorably on the image of the United States and would justify the costs of packing, crating, handling, transportation, and other accessorial costs, and that the residual value at least equals the total of these costs.
+&emsp;(C) that the residual value, serviceability, and appearance of such property would not reflect unfavorably on the image of the United States and would justify the costs of packing,crating, handling, transportation, and other accessorial costs, and that the residual value at least equals the total of these costs.
 
 (2) For purposes of transferring property described in this subsection in furtherance of the provisions of part VIII of subchapter I of this chapter, the phrase “the agency administering such subchapter I” shall be considered to refer to the Department of State.
 
@@ -76,7 +76,7 @@ Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L.
 
 #### Regulations
 
-Section 122(b) of Pub. L. 95–88 provided that: “For purposes of implementing the amendment made by subsection (a) \[amending this section\], the President shall issue regulations governing registration with and approval by the Advisory Committee on Voluntary Foreign Aid of foreign voluntary nonprofit agencies.”
+Pub. L. 95–88, title I, §122(b), Aug. 3, 1977, 91 Stat. 541, provided that: “For purposes of implementing the amendment made by subsection (a) \[amending this section\], the President shall issue regulations governing registration with and approval by the Advisory Committee on Voluntary Foreign Aid of foreign voluntary nonprofit agencies.”
 
 #### Transfer of Functions
 

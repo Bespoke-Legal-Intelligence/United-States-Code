@@ -41,7 +41,7 @@
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 09771 - Acceptance of donations land for mobilization, training, supply base, or aviation field](%C2%A7%2009771%20-%20Acceptance%20of%20donations%20land%20for%20mobilization%2C%20training%2C%20supply%20base%2C%20or%20aviation%20field.md)
-- [&sect; 09772 - Repealed. Pub. L. 94&#8211;579, title VII, &sect;704(a), Oct 21, 1976, 90 Stat. 2792](%C2%A7%2009772%20-%20Repealed.%20Pub.%20L.%2094%E2%80%93579%2C%20title%20VII%2C%20%C2%A7704%28a%29%2C%20Oct%2021%2C%201976%2C%2090%20Stat.%202792.md)
+- [&sect; 09772 - Repealed. Pub. L. 94&#8211;579, title VII, &sect;704(a), Oct. 21, 1976, 90 Stat. 2792](%C2%A7%2009772%20-%20Repealed.%20Pub.%20L.%2094%E2%80%93579%2C%20title%20VII%2C%20%C2%A7704%28a%29%2C%20Oct.%2021%2C%201976%2C%2090%20Stat.%202792.md)
 - [&sect; 09773 - Acquisition and construction air bases and depots](%C2%A7%2009773%20-%20Acquisition%20and%20construction%20air%20bases%20and%20depots.md)
 - [&sect; 09774 - Repealed. Pub. L. 97&#8211;214, &sect;7(1), July 12, 1982, 96 Stat. 173](%C2%A7%2009774%20-%20Repealed.%20Pub.%20L.%2097%E2%80%93214%2C%20%C2%A77%281%29%2C%20July%2012%2C%201982%2C%2096%20Stat.%20173.md)
 - [&sect; 09775 - Repealed. Pub. L. 92&#8211;145, title V, &sect;509(b), Oct. 27, 1971, 85 Stat. 408](%C2%A7%2009775%20-%20Repealed.%20Pub.%20L.%2092%E2%80%93145%2C%20title%20V%2C%20%C2%A7509%28b%29%2C%20Oct.%2027%2C%201971%2C%2085%20Stat.%20408.md)

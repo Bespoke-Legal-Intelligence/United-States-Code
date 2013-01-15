@@ -10,5 +10,5 @@ The Department of Commerce, the Department of Labor, the Department of Health an
 
 #### Development of Program for the Collection, Analysis and Publication of Data
 
-Section 3 of Pub. L. 94–311 provided that: “The Director of the Office of Management and Budget, in cooperation with the Secretary of Commerce and with the heads of other data-gathering Federal agencies, shall develop a Government-wide program for the collection, analysis, and publication of data with respect to Americans of Spanish origin or descent.”
+Pub. L. 94–311, §3, June 16, 1976, 90 Stat. 688, provided that: “The Director of the Office of Management and Budget, in cooperation with the Secretary of Commerce and with the heads of other data-gathering Federal agencies, shall develop a Government-wide program for the collection, analysis, and publication of data with respect to Americans of Spanish origin or descent.”
 

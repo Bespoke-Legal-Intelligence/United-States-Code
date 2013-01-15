@@ -34,7 +34,7 @@ The Secretary of Defense may not initiate destruction of the chemical munitions 
 
 (3)(A) Facilities constructed to carry out this section may not be used for a purpose other than the destruction of the stockpile of lethal chemical agents and munitions that exists on November 8, 1985.
 
-(B) The prohibition in subparagraph (A) shall not apply with respect to items designated by the Secretary of Defense as lethal chemical agents, munitions, or related materials after November 8, 1985, if the State in which a destruction facility is located issues the appropriate permit or permits for the destruction of such items at the facility.
+(B) The prohibition in subparagraph (A) shall not apply with respect to items designated bythe Secretary of Defense as lethal chemical agents, munitions, or related materials after November 8, 1985, if the State in which a destruction facility is located issues the appropriate permit or permits for the destruction of such items at the facility.
 
 #### (e) Grants and cooperative agreements
 
@@ -44,7 +44,7 @@ The Secretary of Defense may not initiate destruction of the chemical munitions 
 
 (C) In this paragraph, the term “tribal organization” has the meaning given that term in section 450b(l) of title 25.
 
-(2)(A) In coordination with the Secretary of the Army and in accordance with agreements between the Secretary of the Army and the Administrator of the Federal Emergency Management Agency, the Administrator shall carry out a program to provide assistance to State andlocal governments in developing capabilities to respond to emergencies involving risks to the public health or safety within their jurisdictions that are identified by the Secretary as being risks resulting from—
+(2)(A) In coordination with the Secretary of the Army and in accordance with agreements between the Secretary of the Army and the Administrator of the Federal Emergency Management Agency, the Administrator shall carry out a program to provide assistance to State and local governments in developing capabilities to respond to emergencies involving risks to the public health or safety within their jurisdictions that are identified by the Secretary as being risks resulting from—
 
 &emsp;(i) the storage of lethal chemical agents and munitions referred to in subsection (a) at military installations in the continental United States; or
 
@@ -100,7 +100,7 @@ The Secretary of Defense may not initiate destruction of the chemical munitions 
 
 &emsp;(B) A site-by-site description of actions taken to assist State and local governments (either directly or through the Federal Emergency Management Agency) in carrying out functions relating to emergency preparedness and response in accordance with subsection (e).
 
-&emsp;(C) An accounting of all funds expended (during such fiscal year) for activities carried outunder this section, with a separate accounting for amounts expended for—
+&emsp;(C) An accounting of all funds expended (during such fiscal year) for activities carried out under this section, with a separate accounting for amounts expended for—
 
 &emsp;&emsp;(i) the construction of and equipment for facilities used for the destruction of agents and munitions;
 
@@ -124,6 +124,8 @@ The Secretary of Defense may not initiate destruction of the chemical munitions 
 
 &emsp;&emsp;(iii) a description of the steps taken (to the date of the report) to monitor the safety status of the stockpile and to mitigate any further deterioration of that status.
 
+&emsp;(E) A description of any supplemental chemical agent and munitions destruction technologies used at Pueblo Chemical Depot, Colorado, and Blue Grass Army Depot, Kentucky, during the period covered by the report, including explosive destruction technologies and any technologies developed for the treatment and disposal of energetic or agent hydrolystates.
+
 (3) The Secretary shall transmit the final report under paragraph (1) not later than 120 days following the completion of activities under this section.
 
 #### (j) Semiannual reports
@@ -140,6 +142,16 @@ The Secretary of Defense may not initiate destruction of the chemical munitions 
 
 &emsp;(D) A description of all actions being taken by the United States to accelerate the destruction of its entire stockpile of chemical weapons, agents, and materiel in order to meet the current stockpile elimination deadline under the Chemical Weapons Convention of April 29, 2012, or as soon thereafter as possible.
 
+&emsp;(E) A description and justification for the use of any supplemental chemical agent and munitions destruction technologies used at Pueblo Chemical Depot, Colorado, and Blue Grass Army Depot, Kentucky, during the period covered by the report, including explosive destruction technologies and any technologies developed for the treatment and disposal of energetic or agent hydrolysates. Such description and justification shall outline—
+
+&emsp;&emsp;(i) the need for the use of supplemental destruction technologies and technologies developed for the treatment and disposal of energetic or agent hydrolystates;
+
+&emsp;&emsp;(ii) site-by-site descriptions of the problematic aspects of the stockpile requiring the use of supplemental technologies;
+
+&emsp;&emsp;(iii) the type of supplemental destruction technologies used at each site; and
+
+&emsp;&emsp;(iv) any planned future use of other supplemental destruction technologies for each site.
+
 (3) The members and committees of Congress referred to in this paragraph are—
 
 &emsp;(A) the majority leader and the minority leader of the Senate and the Committee on Armed Services and the Committee on Appropriations of the Senate; and
@@ -150,7 +162,7 @@ The Secretary of Defense may not initiate destruction of the chemical munitions 
 
 Consistent with United States obligations under the Chemical Weapons Convention, the Secretary of Defense may develop, produce, otherwise acquire, retain, transfer, and use toxic chemicals and their precursors for purposes not prohibited by the Chemical Weapons Convention if the types and quantities of such chemicals and precursors are consistent with such purposes, including for protective purposes such as protection against toxic chemicals and protection against chemical weapons.
 
-#### (<i>l</i>) Surveillance and assessment program
+#### (l) Surveillance and assessment program
 
 The Secretary of Defense shall conduct an ongoing comprehensive program of—
 
@@ -170,7 +182,7 @@ The Secretary of Defense shall conduct an ongoing comprehensive program of—
 
 (B) The Secretary of the Army shall provide for a representative from the Office of the Assistant Secretary of the Army (Acquisition, Logistics, and Technology) to meet with each commission under Army management.
 
-(C) The Department of Defense shall provide for a representative from the Office of the Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs to meetwith the commissions in Colorado and Kentucky.
+(C) The Department of Defense shall provide for a representative from the Office of the Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs to meet with the commissions in Colorado and Kentucky.
 
 (3)(A) Each commission under this subsection shall be composed of nine members appointed by the Governor of the State. Seven of such members shall be citizens from the local affected areas in the State. The other two shall be representatives of State government who have direct responsibilities related to the chemical demilitarization program.
 
@@ -194,7 +206,7 @@ The Secretary of Defense shall conduct an ongoing comprehensive program of—
 
 (1)(A) The Secretary of Defense may, for the purpose specified in paragraph (B), authorize the inclusion of an incentives clause in any contract for the destruction of the United States stockpile of lethal chemical agents and munitions carried out pursuant to subsection (a).
 
-(B) The purpose of a clause referred to in subparagraph (A) is to provide the contractor for a chemical demilitarization facility an incentive to accelerate the safe elimination of the United States chemical weapons stockpile and to reduce the total cost of the Chemical Demilitarization Program by providing incentive payments for the early completion of destruction operations and the closure of such facility.
+(B) The purpose of a clause referred to in subparagraph (A) is to provide the contractor for a chemical demilitarization facility an incentive to accelerate the safe elimination of the UnitedStates chemical weapons stockpile and to reduce the total cost of the Chemical Demilitarization Program by providing incentive payments for the early completion of destruction operations and the closure of such facility.
 
 (2)(A) An incentives clause under this subsection shall permit the contractor for the chemical demilitarization facility concerned the opportunity to earn incentive payments for the completion of destruction operations and facility closure activities within target incentive ranges specified in such clause.
 
@@ -214,9 +226,17 @@ The Secretary of Defense shall conduct an ongoing comprehensive program of—
 
 (3)(A) No payment may be made under an incentives clause under this subsection unless the Secretary determines that the contractor concerned has satisfactorily performed its duties under such incentives clause.
 
-(B) An incentives clause under this subsection shall specify that the obligation of the Government to make payment under such incentives clause is subject to the availability of appropriations for that purpose. Amounts appropriated for Chemical Agents and Munitions Destruction,Defense, shall be available for payments under incentives clauses under this subsection.
+(B) An incentives clause under this subsection shall specify that the obligation of the Government to make payment under such incentives clause is subject to the availability of appropriations for that purpose. Amounts appropriated for Chemical Agents and Munitions Destruction, Defense, shall be available for payments under incentives clauses under this subsection.
 
-#### (<i>o</i>) Definitions
+#### (o) Supplemental destruction technologies
+
+In determining the technologies to supplement the neutralization destruction of the stockpile of lethal chemical agents and munitions at Pueblo Chemical Depot, Colorado, and Blue Grass Army Depot, Kentucky, the Secretary of Defense may consider the following:
+
+&emsp;(1) Explosive Destruction Technologies.
+
+&emsp;(2) Any technologies developed for the treatment and disposal of energetic or agent hydrolysates, if problems with the current on-site treatment of hydrolysates are encountered.
+
+#### (p) Definitions
 
 In this section:
 
@@ -232,7 +252,7 @@ In this section:
 
 &emsp;&emsp;(B) the dismantling or other disposal of such munitions or agents so as to make them useless for military purposes and harmless to human beings under normal circumstances.
 
-(Pub. L. 99–145, title XIV, §1412, Nov. 8, 1985, 99 Stat. 747; Pub. L. 100–456, div. A, title I, §118, Sept. 29, 1988, 102 Stat. 1934; Pub. L. 101–510, div. A, title I, §§171, 172, Nov. 5, 1990, 104 Stat. 1507; Pub. L. 102–190, div. A, title I, §151, Dec. 5, 1991, 105 Stat. 1313; Pub. L. 102–484, div. A, title I, §§171, 179, Oct. 23, 1992, 106 Stat. 2341, 2347; Pub. L. 103–160, div. A, title I, §107(c), Nov. 30, 1993, 107 Stat. 1564; Pub. L. 103–337, div. A, title I, §142, Oct. 5, 1994, 108 Stat. 2689; Pub. L. 104–106, div. A, title I, §153(b), (c), title XV, §1502(c)(6), Feb. 10, 1996, 110 Stat. 216, 508; Pub. L. 104–201, div. A, title X, §1074(d)(2), Sept. 23, 1996, 110 Stat. 2661; Pub. L. 105–85, div. A, title X, §1041(d), Nov. 18, 1997, 111 Stat. 1885; Pub. L. 105–261, div. A, title I, §141, Oct. 17, 1998, 112 Stat. 1942; Pub. L. 106–65, div. A, title I, §141(b), title X, §1067(11), Oct. 5, 1999, 113 Stat. 537, 775; Pub. L. 107–107, div. A, title X, §1048(i)(4), Dec. 28, 2001, 115 Stat. 1229; Pub. L. 108–375, div. A, title IX, §931, Oct. 28, 2004, 118 Stat. 2031; Pub. L. 109–163, div. A, title IX, §921(a), Jan. 6, 2006, 119 Stat. 3410; Pub. L. 110–181, div. A, title IX, §§923, 924, Jan. 28, 2008, 122 Stat. 284; Pub. L. 111–383, div. A, title XIV, §1421(a), Jan. 7, 2011, 124 Stat. 4412.)
+(Pub. L. 99–145, title XIV, §1412, Nov. 8, 1985, 99 Stat. 747; Pub. L. 100–456, div. A, title I, §118, Sept. 29, 1988, 102 Stat. 1934; Pub. L. 101–510, div. A, title I, §§171, 172, Nov. 5, 1990, 104 Stat. 1507; Pub. L. 102–190, div. A, title I, §151, Dec. 5, 1991, 105 Stat. 1313; Pub. L. 102–484, div. A, title I, §§171, 179, Oct. 23, 1992, 106 Stat. 2341, 2347; Pub. L. 103–160, div. A, title I, §107(c), Nov. 30, 1993, 107 Stat. 1564; Pub. L. 103–337, div. A, title I, §142, Oct. 5, 1994, 108 Stat. 2689; Pub. L. 104–106, div. A, title I, §153(b), (c), title XV, §1502(c)(6), Feb. 10, 1996, 110 Stat. 216, 508; Pub. L. 104–201, div. A, title X, §1074(d)(2), Sept. 23, 1996, 110 Stat. 2661; Pub. L. 105–85, div. A, title X, §1041(d), Nov. 18, 1997, 111 Stat. 1885; Pub. L. 105–261, div. A, title I, §141, Oct. 17, 1998, 112 Stat. 1942; Pub. L. 106–65, div. A, title I, §141(b), title X, §1067(11), Oct. 5, 1999, 113 Stat. 537, 775; Pub. L. 107–107, div. A, title X, §1048(i)(4), Dec. 28, 2001, 115 Stat. 1229; Pub. L. 108–375, div. A, title IX, §931, Oct. 28, 2004, 118 Stat. 2031; Pub. L. 109–163, div. A, title IX, §921(a), Jan. 6, 2006, 119 Stat. 3410; Pub. L. 110–181, div. A, title IX, §§923, 924, Jan. 28, 2008, 122 Stat. 284; Pub. L. 111–383, div. A, title XIV, §1421(a), Jan. 7, 2011, 124 Stat. 4412; Pub. L. 112–239, div. A, title XIV, §1421(a), Jan. 2, 2013, 126 Stat. 2049.)
 
 #### References in Text
 
@@ -247,6 +267,12 @@ Pub. L. 109–163, §921, which directed amendment of subsec. (c)(4) of this sec
 Section was enacted as part of the Department of Defense Authorization Act, 1986, and not as part of Pub. L. 91–121, title IV, §409, Nov. 19, 1969, 83 Stat. 209, which comprises this chapter.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (i)(2)(E). Pub. L. 112–239, §1421(a)(1), added subpar. (E).
+
+Subsec. (j)(2)(E). Pub. L. 112–239, §1421(a)(2), added subpar. (E).
+
+Subsecs. (o), (p). Pub. L. 112–239, §1421(a)(3), (4), added subsec. (o) and redesignated former subsec. (o) as (p).
 
 <b>2011</b>—Pub. L. 111–383, §1421(a), which directed the general amendment of section 1412 of the “National Defense Authorization Act, 1986 (50 U.S.C. 1521)”, was executed by making the amendment to this section, which is section 1412 of the Department of Defense Authorization Act, 1986, to reflect the probable intent of Congress. Prior to amendment, section related to destruction of existing stockpile of lethal chemical agents and munitions by Dec. 31, 2004.
 
@@ -392,7 +418,7 @@ Sense of Congress.—It is the sense of Congress that—
 
 &emsp;“(1) the United States is, and must remain, committed to making every effort to safely dispose of its entire chemical weapons stockpile by April 2012, the current destruction deadline provided under the Chemical Weapons Convention, or as soon thereafter as possible, and must carry out all of its other obligations under the Convention; and
 
-&emsp;“(2) the Secretary of Defense should make every effort to plan for, and to request in the annual budget of the President submitted to Congress adequate funding to complete, the elimination of the United States chemical weapons stockpile in accordance with United States obligations under the Chemical Weapons Convention and in a manner that will protect public health, safety, and the environment, as required by law.
+&emsp;“(2) the Secretary of Defense should make every effort to plan for, and to request in the annual budgetof the President submitted to Congress adequate funding to complete, the elimination of the United States chemical weapons stockpile in accordance with United States obligations under the Chemical Weapons Convention and in a manner that will protect public health, safety, and the environment, as required by law.
 
 “\[(c) Repealed. Pub. L. 111–383, div. A, title XIV, §1421(b)(10), Jan. 7, 2011, 124 Stat. 4420.\]”
 

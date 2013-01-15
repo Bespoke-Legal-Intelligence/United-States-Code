@@ -54,7 +54,7 @@ The membership of the National Counterintelligence Policy Board shall consist of
 
 &emsp;(B) following a report made pursuant to subparagraph (A), the Federal Bureau of Investigation is consulted with respect to all subsequent actions which may be undertaken by the department or agency concerned to determine the source of such loss or compromise; and
 
-&emsp;(C) where, after appropriate consultation with the department or agency concerned, the Federal Bureau of Investigation undertakes investigative activities to determine the source of the loss or compromise, the Federal Bureau of Investigation is given complete and timely access to the employees and records ofthe department or agency concerned for purposes of such investigative activities.
+&emsp;(C) where, after appropriate consultation with the department or agency concerned, the Federal Bureau of Investigation undertakes investigative activities to determine the source of the loss or compromise, the Federal Bureau of Investigation is given complete and timely access to the employees and records of the department or agency concerned for purposes of such investigative activities.
 
 (2) Except as provided in paragraph (5), the Director of the Federal Bureau of Investigation shall ensure that espionage information obtained by the Federal Bureau of Investigation pertaining to the personnel, operations, or information of departments or agencies of the executive branch, is provided through appropriate channels in a timely manner to the department or agency concerned, and that such departments or agencies are consulted in a timely manner with respect to espionage investigations undertaken by the Federal Bureau of Investigation which involve the personnel, operations, or information of such department or agency.
 
@@ -76,7 +76,7 @@ The membership of the National Counterintelligence Policy Board shall consist of
 
 (6) Nothing in this section may be construed to alter the existing jurisdictional arrangements between the Federal Bureau of Investigation and the Department of Defense with respect to investigations of persons subject to the Uniform Code of Military Justice, nor to impose additional reporting requirements upon the Department of Defense with respect to such investigations beyond those required by existing law and executive branch policy.
 
-(7) As used in this section, the terms “foreign power” and “agent of a foreign power” have the same meanings as set forth in sections <sup>1</sup> 1801(a) and (b), respectively, of this title.
+(7) As used in this section, the terms “foreign power” and “agent of a foreign power” have thesame meanings as set forth in sections <sup>2</sup> 1801(a) and (b), respectively, of this title.
 
 (Pub. L. 103–359, title VIII, §811, Oct. 14, 1994, 108 Stat. 3455; Pub. L. 106–120, title VI, §602, Dec. 3, 1999, 113 Stat. 1620; Pub. L. 106–567, title VI, §605, Dec. 27, 2000, 114 Stat. 2853; Pub. L. 107–306, title VIII, §811(b)(5)(B), title IX, §903, Nov. 27, 2002, 116 Stat. 2424, 2433; Pub. L. 108–177, title III, §361(g), Dec. 13, 2003, 117 Stat. 2625; Pub. L. 108–458, title I, §1071(g)(1), Dec. 17, 2004, 118 Stat. 3691.)
 
@@ -96,7 +96,7 @@ Section was enacted as part of the Counterintelligence and Security Enhancements
 
 “(6)(A) Not later each year than the date provided in section 415b of this title, the Director of the Federal Bureau of Investigation shall submit to the congressional intelligence committees (as defined in section 401a of this title) a report with respect to compliance with paragraphs (1) and (2) during the previous calendar year.
 
-“(B) Not later than February 1 each year, the Director shall, in accordance with applicable security procedures, submit to the Committees on the Judiciary of the Senate and House of Representatives a report withrespect to compliance with paragraphs (1) and (2) during the previous calendar year.
+“(B) Not later than February 1 each year, the Director shall, in accordance with applicable security procedures, submit to the Committees on the Judiciary of the Senate and House of Representatives a report with respect to compliance with paragraphs (1) and (2) during the previous calendar year.
 
 “(C) The Director of the Federal Bureau of Investigation shall submit each report under this paragraph in consultation with the Director of Central Intelligence and the Secretary of Defense.”
 
@@ -144,5 +144,5 @@ Pub. L. 105–107, title III, §308, Nov. 20, 1997, 111 Stat. 2253, as amended b
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be “section”.</i>
 

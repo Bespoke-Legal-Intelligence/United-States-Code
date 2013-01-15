@@ -12,5 +12,5 @@ A decision regarding an appeal under subsection (a) of this section shall be ren
 
 The President shall issue rules which provide for the fair and impartial consideration of appeals under this section.
 
-(Pub. L. 93–288, title IV, §423, as added Pub. L. 100–707, title I, §106(<i>l</i>), Nov. 23, 1988, 102 Stat. 4705.)
+(Pub. L. 93–288, title IV, §423, as added Pub. L. 100–707, title I, §106(l), Nov. 23, 1988, 102 Stat. 4705.)
 

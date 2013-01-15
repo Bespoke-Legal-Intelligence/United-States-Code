@@ -64,7 +64,7 @@ Notwithstanding any other provision of law, the Crow Tribe may, subject to appro
 
 #### (f) Limitation
 
-Notwithstanding any other provision of law, no portion of the principal of the Crow Tribal Trust Fund shall be available for withdrawal or disbursement or used for any purpose other than the purposes specified in this section and section 1776h of this title.
+Notwithstanding any other provision of law, no portion of the principal of the Crow Tribal Trust Fund shall be available for withdrawal or disbursement or used for any purpose other thanthe purposes specified in this section and section 1776h of this title.
 
 (Pub. L. 103–444, §6, Nov. 2, 1994, 108 Stat. 4638; amended Pub. L. 103–435, §23, Nov. 2, 1994, 108 Stat. 4575.)
 

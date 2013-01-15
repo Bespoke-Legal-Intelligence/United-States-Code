@@ -12,6 +12,84 @@
 
 Provisions similar to those in this section were contained in section 219 of this title prior to repeal by Pub. L. 102–83, §2(a).
 
+#### Establishment of Open Burn Pit Registry
+
+Pub. L. 112–260, title II, §201, Jan. 10, 2013, 126 Stat. 2422, provided that:
+
+“(a)
+
+Establishment of Registry.—
+
+&emsp;“(1)
+
+In general.—Not later than one year after the date of the enactment of this Act \[Jan. 10, 2013\], the Secretary of Veterans Affairs shall—
+
+&emsp;&emsp;“(A) establish and maintain an open burn pit registry for eligible individuals who may have been exposed to toxic airborne chemicals and fumes caused by open burn pits;
+
+&emsp;&emsp;“(B) include any information in such registry that the Secretary of Veterans Affairs determines necessary to ascertain and monitor the health effects of the exposure of members of the Armed Forces to toxic airborne chemicals and fumes caused by open burn pits;
+
+&emsp;&emsp;“(C) develop a public information campaign to inform eligible individuals about the open burn pit registry, including how to register and the benefits of registering; and
+
+&emsp;&emsp;“(D) periodically notify eligible individuals of significant developments in the study and treatment of conditions associated with exposure to toxic airborne chemicals and fumes caused by open burn pits.
+
+&emsp;“(2)
+
+Coordination.—The Secretary of Veterans Affairs shall coordinate with the Secretary of Defense in carrying out paragraph (1).
+
+“(b)
+
+Report to Congress.—
+
+&emsp;“(1)
+
+Reports by independent scientific organization.—The Secretary of Veterans Affairs shall enter into an agreement with an independent scientific organization to prepare reports as follows:
+
+&emsp;&emsp;“(A) Not later than two years after the date on which the registry under subsection (a) is established, an initial report containing the following:
+
+&emsp;&emsp;&emsp;“(i) An assessment of the effectiveness of actions taken by the Secretaries to collect and maintain information on the health effects of exposure to toxic airborne chemicals and fumes caused by open burn pits.
+
+&emsp;&emsp;&emsp;“(ii) Recommendations to improve the collection and maintenance of such information.
+
+&emsp;&emsp;&emsp;“(iii) Using established and previously published epidemiological studies, recommendations regarding the most effective and prudent means of addressing the medical needs of eligible individuals with respect to conditions that are likely to result from exposure to open burn pits.
+
+&emsp;&emsp;“(B) Not later than five years after completing the initial report described in subparagraph (A), a follow-up report containing the following:
+
+&emsp;&emsp;&emsp;“(i) An update to the initial report described in subparagraph (A).
+
+&emsp;&emsp;&emsp;“(ii) An assessment of whether and to what degree the content of the registry established under subsection (a) is current and scientifically up-to-date.
+
+&emsp;“(2)
+
+Submittal to congress.—
+
+&emsp;&emsp;“(A)
+
+Initial report.—Not later than two years after the date on which the registry under subsection (a) is established, the Secretary of Veterans Affairs shall submit to Congress the initial report prepared under paragraph (1)(A).
+
+&emsp;&emsp;“(B)
+
+Follow-up report.—Not later than five years after submitting the report under subparagraph (A), the Secretary of Veterans Affairs shall submit to Congress the follow-up report prepared under paragraph (1)(B).
+
+“(c)
+
+Definitions.—In this section:
+
+&emsp;“(1)
+
+Eligible individual.—The term ‘eligible individual’ means any individual who, on or after September 11, 2001—
+
+&emsp;&emsp;“(A) was deployed in support of a contingency operation while serving in the Armed Forces; and
+
+&emsp;&emsp;“(B) during such deployment, was based or stationed at a location where an open burn pit was used.
+
+&emsp;“(2)
+
+Open burn pit.—The term ‘open burn pit’ means an area of land located in Afghanistan or Iraq that—
+
+&emsp;&emsp;“(A) is designated by the Secretary of Defense to be used for disposing solid waste by burning in the outdoor air; and
+
+&emsp;&emsp;“(B) does not contain a commercially manufactured incinerator or other equipment specifically designed and manufactured for the burning of solid waste.”
+
 #### Persian Gulf War Veterans’ Health Status
 
 Pub. L. 102–585, title VII, Nov. 4, 1992, 106 Stat. 4975, as amended by Pub. L. 103–446, title I, §108, Nov. 2, 1994, 108 Stat. 4653; Pub. L. 105–368, title I, §§104, 106, Nov. 11, 1998, 112 Stat. 3323, 3325; Pub. L. 111–163, title V, §502, May 5, 2010, 124 Stat. 1157, provided that:
@@ -54,11 +132,11 @@ Individuals Submitting Claims or Making Requests Before Date of Enactment.—If 
 
 “(d)
 
-Department of Defense Information.—The Secretary of Defense shall furnish to the Secretary of Veterans Affairs such information maintained by the Department of Defense as the Secretary of Veterans Affairs considers necessary to establish and maintain the Registry.
+Department of Defense Information.—The Secretary of Defense shall furnish to the Secretary of Veterans Affairs such information maintained by theDepartment of Defense as the Secretary of Veterans Affairs considers necessary to establish and maintain the Registry.
 
 “(e)
 
-Relation to Department of Defense Registry.—The Secretary of Veterans Affairs, in consultation with the Secretary of Defense, shall ensure that information is collected and maintained in the Registry in a manner that permits effective and efficient cross-reference between the Registry and the registry established under section 734 of the National Defense Authorization Act for Fiscal Years 1992 and 1993 (PublicLaw 102–190; 105 Stat. 1411; 10 U.S.C. 1074 note), as amended by section 704.
+Relation to Department of Defense Registry.—The Secretary of Veterans Affairs, in consultation with the Secretary of Defense, shall ensure that information is collected and maintained in the Registry in a manner that permits effective and efficient cross-reference between the Registry and the registry established under section 734 of the National Defense Authorization Act for Fiscal Years 1992 and 1993 (Public Law 102–190; 105 Stat. 1411; 10 U.S.C. 1074 note), as amended by section 704.
 
 “(f)
 
@@ -210,7 +288,7 @@ Public Availability of Research Findings.—The head of the department or agency
 
 “(e)
 
-Outreach.—The head of the department or agency designated under subsection (a) shall ensure that the appropriate departments consult and coordinate in carrying out an ongoing program to provide information to those who served in the Southwest Asia theater of operations during the Persian Gulf War relating to: (1) the health risks, if any, resulting from any risk factors associated with such service; and (2) any services or benefits available with respect to such health risks.
+Outreach.—The head of the department or agency designated under subsection (a) shall ensure that the appropriate departments consult and coordinate in carrying out an ongoing program to provide information to those who served in the Southwest Asia theater of operations during the Persian Gulf War relating to: (1) the health risks, if any, resulting from any risk factorsassociated with such service; and (2) any services or benefits available with respect to such health risks.
 
 #### “SEC. 708. DEFINITION.
 

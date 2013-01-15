@@ -36,7 +36,7 @@ The Secretary shall not permit any filming, still photography or other related a
 
 (1) All fees collected under this section shall be available for expenditure by the Secretary, without further appropriation, in accordance with the formula and purposes established for the Recreational Fee Demonstration Program (Public Law 104–134). All fees collected shall remain available until expended.
 
-(2) All costs recovered under this section shall be available for expenditure by the Secretary,without further appropriation, at the site where collected. All costs recovered shall remain available until expended.
+(2) All costs recovered under this section shall be available for expenditure by the Secretary, without further appropriation, at the site where collected. All costs recovered shall remain available until expended.
 
 #### (f) Processing of permit applications
 
@@ -46,7 +46,7 @@ The Secretary shall establish a process to ensure that permit applicants for com
 
 #### References in Text
 
-Public Law 104–134, referred to in subsec. (e)(1), is Pub. L. 104–134, Apr. 26, 1996, 110 Stat. 1321, known as the Omnibus Consolidated Rescissions and Appropriations Act of 1996. The Recreational Fee Demonstration Program was authorized by Pub. L. 104–134, title I, §101(c) \[title III, §315\], Apr. 26, 1996, 110 Stat. 1321–156, 1321–200, as amended, which was set out as a note under section 460<i>l</i>–6a of this title, prior to repeal by Pub. L. 108–447, div. J, title VIII, §813(b), Dec. 8, 2004, 118 Stat. 3390. For complete classification of Pub. L. 104–134 to the Code, see Tables.
+Public Law 104–134, referred to in subsec. (e)(1), is Pub. L. 104–134, Apr. 26, 1996, 110 Stat. 1321, known as the Omnibus Consolidated Rescissions and Appropriations Act of 1996. The Recreational Fee Demonstration Program was authorized by Pub. L. 104–134, title I, §101(c) \[title III, §315\], Apr. 26, 1996, 110 Stat. 1321–156, 1321–200, as amended, which was set out as a note under section 460l–6a of this title, prior to repeal by Pub. L. 108–447, div. J, title VIII, §813(b), Dec. 8, 2004, 118 Stat. 3390. For complete classification of Pub. L. 104–134 to the Code, see Tables.
 
 #### Codification
 

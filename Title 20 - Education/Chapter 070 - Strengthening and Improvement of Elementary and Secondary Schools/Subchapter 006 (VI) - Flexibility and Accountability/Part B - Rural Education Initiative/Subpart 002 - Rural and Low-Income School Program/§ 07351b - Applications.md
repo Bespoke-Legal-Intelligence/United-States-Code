@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Each State educational agency or specially qualified agency desiring to receive a grant under this subpart shall submit an application to the Secretary at such time, in such manner, and accompanied by such information as the Secretary may require.
+Each State educational agency or specially qualified agency desiring to receive a grantunder this subpart shall submit an application to the Secretary at such time, in such manner, and accompanied by such information as the Secretary may require.
 
 #### (b) Contents
 

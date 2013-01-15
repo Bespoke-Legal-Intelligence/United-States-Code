@@ -1,4 +1,4 @@
-### \[§§303 to 305. Repealed. May 29, 1954, ch. 249, §20(<i>o</i>), 68 Stat. 167\]
+### \[§§303 to 305. Repealed. May 29, 1954, ch. 249, §20(o), 68 Stat. 167\]
 
 Section 303, act Aug. 4, 1949, ch. 393, 63 Stat. 518, required compulsory retirement of warrant officers reaching age of sixty-two years, with retired pay of grade with which retired.
 

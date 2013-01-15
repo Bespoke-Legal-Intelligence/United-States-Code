@@ -104,13 +104,13 @@ Pub. L. 108–121, title I, §106(c), Nov. 11, 2003, 117 Stat. 1339, provided th
 
 #### Effective Date of 1988 Amendment
 
-Section 1011B(f)(2)(B) of Pub. L. 100–647 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply to taxable years beginning after December 31, 1986.”
+Pub. L. 100–647, title I, §1011B(f)(2)(B), Nov. 10, 1988, 102 Stat. 3490, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply to taxable years beginning after December 31, 1986.”
 
 Amendment by section 1011B(f)(1), (3) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date
 
-Section 1168(c) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1011B(f)(4), Nov. 10, 1988, 102 Stat. 3490, provided that: “The amendments made by this section \[enacting this section\] shall apply to taxable years beginning after December 31, 1984.”
+Pub. L. 99–514, title XI, §1168(c), Oct. 22, 1986, 100 Stat. 2513, as amended by Pub. L. 100–647, title I, §1011B(f)(4), Nov. 10, 1988, 102 Stat. 3490, provided that: “The amendments made by this section \[enacting this section\] shall apply to taxable years beginning after December 31, 1984.”
 
 #### No Inference To Be Drawn From Amendment by Pub. L. 108–121
 

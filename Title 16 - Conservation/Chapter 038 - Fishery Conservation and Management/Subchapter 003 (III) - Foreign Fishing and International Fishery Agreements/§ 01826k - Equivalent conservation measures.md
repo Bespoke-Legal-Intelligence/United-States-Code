@@ -42,7 +42,7 @@ The Secretary, acting through the Secretary of State, shall—
 
 &emsp;&emsp;(A) has provided documentary evidence of the adoption of a regulatory program governing the conservation of the protected living marine resource that is comparable to that of the United States, taking into account different conditions, and which, in the case of pelagic longline fishing, includes mandatory use of circle hooks, careful handling and release equipment, and training and observer programs; and
 
-&emsp;&emsp;(B) has established a management plan containing requirements that will assist in gathering species-specific data to support international stock assessments and conservation enforcement efforts for protected living marine resources.
+&emsp;&emsp;(B) has established a management plan containing requirements that will assist ingathering species-specific data to support international stock assessments and conservation enforcement efforts for protected living marine resources.
 
 #### (2) Procedural requirement
 

@@ -140,7 +140,7 @@ Except as provided under section 2283(c) of this title, the non-Federal interest
 
 Except as otherwise provided in this section, the Secretary may permit the full non-Federal contribution to be made without interest during construction of the project or separable element, or with interest at a rate determined pursuant to section 2216 of this title over a period of not more than thirty years from the date of completion of the project or separable element. Repayment contracts shall provide for recalculation of the interest rate at five-year intervals.
 
-#### (<i>l</i>) Delay of initial payment
+#### (l) Delay of initial payment
 
 At the request of any non-Federal interest the Secretary may permit such non-Federal interest to delay the initial payment of any non-Federal contribution under this section or section 2211 of this title for up to one year after the date when construction is begun on the project for which such contribution is to be made. Any such delay in initial payment shall be subject to interest charges for up to six months at a rate determined pursuant to section 2216 of this title.
 
@@ -256,9 +256,9 @@ Regulations.—Not later than 1 year after November 28, 1990, the Secretary shal
 
 #### Effective Date of 1996 Amendment
 
-Section 202(a)(1)(B) of Pub. L. 104–303 provided that: “The amendments made by subparagraph (A) \[amending this section\] shall apply to any project authorized after the date of the enactment of this Act \[Oct. 12, 1996\] and to any flood control project that is not specifically authorized by Congress for which a DetailedProject Report is approved after such date of enactment or, in the case of a project for which no Detailed Project Report is prepared, construction is initiated after such date of enactment.”
+Pub. L. 104–303, title II, §202(a)(1)(B), Oct. 12, 1996, 110 Stat. 3673, provided that: “The amendments made by subparagraph (A) \[amending this section\] shall apply to any project authorized after the date of the enactment of this Act \[Oct. 12, 1996\] and to any flood control project that is not specifically authorized by Congress for which a Detailed Project Report is approved after such date of enactment or, in the case of a project for which no Detailed Project Report is prepared, construction is initiated after such date of enactment.”
 
-Section 202(b)(2) of Pub. L. 104–303 provided that:
+Pub. L. 104–303, title II, §202(b)(2), Oct. 12, 1996, 110 Stat. 3674, provided that:
 
 “(A)
 
@@ -274,11 +274,11 @@ Non-federal option.—If requested by the non-Federal interest, the Secretary sh
 
 \[Reference to “project cooperation agreement” deemed to be reference to “project partnership agreement”, see section 2003(f)(2) of Pub. L. 110–114, set out as a note under section 1962d–5b of Title 42, The Public Health and Welfare.\]
 
-Section 210(b) of Pub. L. 104–303 provided that: “The amendments made by subsection (a) \[amending this section\] apply only to projects authorized after the date of the enactment of this Act \[Oct. 12, 1996\].”
+Pub. L. 104–303, title II, §210(b), Oct. 12, 1996, 110 Stat. 3681, provided that: “The amendments made by subsection (a) \[amending this section\] apply only to projects authorized after the date of the enactment of this Act \[Oct. 12, 1996\].”
 
 #### Continuation of Existing Regulations
 
-Section 305(b) of Pub. L. 101–640 provided that: “Regulations issued to carry out section 103(m) of the Water Resources Development Act of 1986 \[33 U.S.C. 2213(m)\] before the date of the enactment of this Act \[Nov. 28, 1990\] and in effect on such date shall continue in effect until regulations are issued pursuant to paragraph (2)(C) of such section, as added by subsection (a) of this section.”
+Pub. L. 101–640, title III, §305(b), Nov. 28, 1990, 104 Stat. 4635, provided that: “Regulations issued to carry out section 103(m) of the Water Resources Development Act of 1986 \[33 U.S.C. 2213(m)\] before the date of the enactment of this Act \[Nov. 28, 1990\] and in effect on such date shall continue in effect until regulations are issued pursuant to paragraph (2)(C) of such section, as added by subsection (a) of this section.”
 
 #### Reports to Congress
 

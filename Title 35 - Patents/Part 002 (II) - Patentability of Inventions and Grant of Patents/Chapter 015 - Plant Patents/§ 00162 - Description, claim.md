@@ -1,14 +1,10 @@
 ### §162. Description, claim
 
-No plant patent shall be declared invalid for noncompliance with section 112 of this title if the description is as complete as is reasonably possible.
+No plant patent shall be declared invalid for noncompliance with section 112 if the description is as complete as is reasonably possible.
 
 The claim in the specification shall be in formal terms to the plant shown and described.
 
 (July 19, 1952, ch. 950, 66 Stat. 804; Pub. L. 112–29, §20(j), Sept. 16, 2011, 125 Stat. 335.)
-
-#### Amendment of Section
-
-<i>Pub. L. 112–29, §20(j), (l), Sept. 16, 2011, 125 Stat. 335, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, this section is amended by striking “of this title” each place that term appears. See 2011 Amendment note below.</i>
 
 #### Historical and Revision Notes
 
@@ -22,5 +18,5 @@ The first paragraph is the provision in R.S. 4888 (see section 112). The second 
 
 #### Effective Date of 2011 Amendment
 
-Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(<i>l</i>) of Pub. L. 112–29, set out as a note under section 2 of this title.
+Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(l) of Pub. L. 112–29, set out as a note under section 2 of this title.
 

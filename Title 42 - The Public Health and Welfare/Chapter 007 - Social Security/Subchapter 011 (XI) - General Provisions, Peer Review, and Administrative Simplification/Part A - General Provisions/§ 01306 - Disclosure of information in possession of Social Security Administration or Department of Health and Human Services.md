@@ -42,13 +42,13 @@ Notwithstanding any other provision of this section the Secretary shall make ava
 
 No report described in subsection (e) of this section shall be made public by the Secretary or the State subchapter XIX agency until the contractor or provider of services whose performance is being evaluated has had a reasonable opportunity (not exceeding 60 days) to review such report and to offer comments pertinent parts of which may be incorporated in the public report; nor shall the Secretary be required to include in any such report information with respect to any deficiency (or improper practice or procedures) which is known by the Secretary to have been fully corrected, within 60 days of the date such deficiency was first brought to the attention of such contractor or provider of services, as the case may be.
 
-(Aug. 14, 1935, ch. 531, title XI, §1106, as added Aug. 10, 1939, ch. 666, title VIII, §802, 53 Stat. 1398; amended Aug. 28, 1950, ch. 809, title IV, §403(d), 64 Stat. 559; Pub. L. 85–840, title VII, §701, Aug. 28, 1958, 72 Stat. 1055; Pub. L. 89–97, title I, §108(c), title III, §340, July 30, 1965, 79 Stat. 339, 411; Pub. L. 90–248, title I, §168, title II, §241(c)(1), Jan. 2, 1968, 81 Stat. 875, 917; Pub. L. 92–603, title II, §249C(a), Oct. 30, 1972, 86 Stat. 1428; Pub. L. 93–647, §101(d), Jan. 4, 1975, 88 Stat. 2360; Pub. L. 97–35, title XXII, §2207, Aug. 13, 1981, 95 Stat. 838; Pub. L. 98–369, div. B, title VI, §2663(j)(2)(D)(ii), (<i>l</i>), July 18, 1984, 98 Stat. 1170, 1171; Pub. L. 103–296, title I, §108(b)(2)–(5), title III, §§311(a), 313(a), Aug. 15, 1994, 108 Stat. 1481, 1482, 1525, 1530.)
+(Aug. 14, 1935, ch. 531, title XI, §1106, as added Aug. 10, 1939, ch. 666, title VIII, §802, 53 Stat. 1398; amended Aug. 28, 1950, ch. 809, title IV, §403(d), 64 Stat. 559; Pub. L. 85–840, title VII, §701, Aug. 28, 1958, 72 Stat. 1055; Pub. L. 89–97, title I, §108(c), title III, §340, July 30, 1965, 79 Stat. 339, 411; Pub. L. 90–248, title I, §168, title II, §241(c)(1), Jan. 2, 1968, 81 Stat. 875, 917; Pub. L. 92–603, title II, §249C(a), Oct. 30, 1972, 86 Stat. 1428; Pub. L. 93–647, §101(d), Jan. 4, 1975, 88 Stat. 2360; Pub. L. 97–35, title XXII, §2207, Aug. 13, 1981, 95 Stat. 838; Pub. L. 98–369, div. B, title VI, §2663(j)(2)(D)(ii), (l), July 18, 1984, 98 Stat. 1170, 1171; Pub. L. 103–296, title I, §108(b)(2)–(5), title III, §§311(a), 313(a), Aug. 15, 1994, 108 Stat. 1481, 1482, 1525, 1530.)
 
 #### References in Text
 
 Title VIII of the Social Security Act, referred to in subsec. (a)(1), probably refers to former title VIII of the Act, which was classified to subchapter VIII (§1001 et seq.) of this chapter prior to its omission from the Code as superseded by the provisions of the Internal Revenue Code of 1939 and the Internal Revenue Code of 1986.
 
-Subchapter E of chapter 1 and subchapter A of chapter 9 of the Internal Revenue Code of 1939, referred to in subsec. (a), were comprised of sections 480 to 482 and 1400 to 1432, respectively, and were repealed (subject to certain exceptions) by section 7851(a)(1)(A), (3) of Title 26, Internal Revenue Code of 1954 (act Aug. 16, 1954, ch.736, 68A Stat. 3). The I.R.C. 1954 was redesignated I.R.C. 1986 by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.
+Subchapter E of chapter 1 and subchapter A of chapter 9 of the Internal Revenue Code of 1939, referred to in subsec. (a), were comprised of sections 480 to 482 and 1400 to 1432, respectively, and were repealed (subject to certain exceptions) by section 7851(a)(1)(A), (3) of Title 26, Internal Revenue Code of 1954 (act Aug. 16, 1954, ch. 736, 68A Stat. 3). The I.R.C. 1954 was redesignated I.R.C. 1986 by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.
 
 For provision deeming a reference in other laws to a provision of the 1939 Code as a reference to the corresponding provisions of the 1986 Code, see section 7852(b) of the 1986 Code. For table of comparisons of the 1939 Code to the 1986 Code, see table preceding section 1 of Title 26, Internal Revenue Code. The Internal Revenue Code of 1986 is classified generally to Title 26.
 
@@ -70,7 +70,7 @@ Subsec. (e). Pub. L. 103–296, §311(a)(1), redesignated subsec. (d) as (e). Fo
 
 Subsec. (f). Pub. L. 103–296, §311(a)(1), (2), redesignated subsec. (e) as (f) and substituted “subsection (e)” for “subsection (d)”.
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–369, §2663(<i>l</i>), substituted “Secretary” and “Department of Health and Human Services” for “Administrator” and “Federal Security Agency”, respectively, wherever appearing.
+<b>1984</b>—Subsec. (a). Pub. L. 98–369, §2663(l), substituted “Secretary” and “Department of Health and Human Services” for “Administrator” and “Federal Security Agency”, respectively, wherever appearing.
 
 Subsec. (b). Pub. L. 98–369, §2663(j)(2)(D)(ii), substituted “Health and Human Services” for “Health, Education, and Welfare”.
 
@@ -94,7 +94,7 @@ Subsec. (c)(2). Pub. L. 90–248, §168(b)(1), substituted “(and, in the case 
 
 Subsec. (c)(3). Pub. L. 90–248, §168(b)(2), substituted “authorized by subparagraph (A)(iv) or (B)” for “authorized by subparagraph (D)”.
 
-<b>1965</b>—Subsec. (b). Pub. L. 89–97, §108(c), provided for use of special deposit in the Treasury (made up of payments for information and services furnished) to reimburse authorizations to make expenditures from the Federal Hospital Insurance Trust Fund and the Supplementary Medical Insurance Trust Fund.
+<b>1965</b>—Subsec. (b). Pub. L. 89–97, §108(c), provided for use of special deposit in the Treasury (made up of payments for information and services furnished) to reimburse authorizations to make expenditures from theFederal Hospital Insurance Trust Fund and the Supplementary Medical Insurance Trust Fund.
 
 Subsec. (c). Pub. L. 89–97, §340, added subsec. (c).
 
@@ -108,7 +108,7 @@ Amendment by section 108(b)(2)–(5) of Pub. L. 103–296 effective Mar. 31, 199
 
 Amendment by section 311(a) of Pub. L. 103–296, applicable with respect to requests for information made after Aug. 15, 1994, see section 311(c) of Pub. L. 103–296, set out as a note under section 6103 of Title 26, Internal Revenue Code.
 
-Section 313(c) of Pub. L. 103–296 provided that: “The amendments made by this section \[amending this section and section 1307 of this title\] shall apply to violations occurring on or after the date of the enactment of this Act \[Aug. 15, 1994\].”
+Pub. L. 103–296, title III, §313(c), Aug. 15, 1994, 108 Stat. 1530, provided that: “The amendments made by this section \[amending this section and section 1307 of this title\] shall apply to violations occurring on or after the date of the enactment of this Act \[Aug. 15, 1994\].”
 
 #### Effective Date of 1984 Amendment
 
@@ -120,7 +120,7 @@ Amendment by Pub. L. 93–647 effective Aug. 1, 1975, see section 101(f) of Pub.
 
 #### Effective Date of 1972 Amendment
 
-Section 249C(b) of Pub. L. 92–603 provided that: “The provisions of subsection (a) \[amending this section\] shall apply with respect to reports which are completed by the Secretary after the third calendar month following the enactment of this Act \[Oct. 30, 1972\].”
+Pub. L. 92–603, title II, §249C(b), Oct. 30, 1972, 86 Stat. 1428, provided that: “The provisions of subsection (a) \[amending this section\] shall apply with respect to reports which are completed by the Secretary after the third calendar month following the enactment of this Act \[Oct. 30, 1972\].”
 
 <i><sup>1</sup></i><i> So in original. Probably should be subsection “(f)”.</i>
 

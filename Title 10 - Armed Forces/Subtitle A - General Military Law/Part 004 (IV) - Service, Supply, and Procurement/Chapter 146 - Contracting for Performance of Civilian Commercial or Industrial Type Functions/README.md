@@ -7,7 +7,7 @@
 | [2461a.](%C2%A7%2002461a%20-%20Development%20and%20implementation%20of%20system%20for%20monitoring%20cost%20saving%20resulting%20from%20public-private%20competitions.md) | Development and implementation of system for monitoring cost saving resulting from public-private competitions. |
 | [2462\.](%C2%A7%2002462%20-%20Reports%20on%20public-private%20competition.md) | Reports on public-private competition. |
 | [2463\.](%C2%A7%2002463%20-%20Guidelines%20and%20procedures%20for%20use%20of%20civilian%20employees%20to%20perform%20Department%20of%20Defense%20functions.md) | Guidelines and procedures for use of civilian employees to perform Department of Defense functions. |
-| [2464\.](%C2%A7%2002464%20-%20Core%20depot-level%20maintenance%20and%20repair%20capabilities.md) | Core depot-level maintenance and repair capabilities. |
+| [2464\.](%C2%A7%2002464%20-%20Core%20logistics%20capabilities.md) | Core logistics capabilities. |
 | [2465\.](%C2%A7%2002465%20-%20Prohibition%20on%20contracts%20for%20performance%20of%20firefighting%20or%20security-guard%20functions.md) | Prohibition on contracts for performance of firefighting or security-guard functions. |
 | [2466\.](%C2%A7%2002466%20-%20Limitations%20on%20the%20performance%20of%20depot-level%20maintenance%20of%20materiel.md) | Limitations on the performance of depot-level maintenance of materiel. |
 | \[2467, 2468. Repealed.\] |  |
@@ -24,6 +24,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2013</b>—Pub. L. 112–239, div. A, title III, §322(b)(2)(B), Jan. 2, 2013, 126 Stat. 1695, substituted “Core logistics capabilities” for “Core depot-level maintenance and repair capabilities” in item 2464.
 
 <b>2011</b>—Pub. L. 112–81, div. A, title III, §327(b), Dec. 31, 2011, 125 Stat. 1368, substituted “Core depot-level maintenance and repair capabilities” for “Core logistics capabilities” in item 2464.
 
@@ -73,7 +75,7 @@ Pub. L. 104–106, div. A, title III, §311(f)(2), Feb. 10, 1996, 110 Stat. 248,
 - [&sect; 02461a - Development and implementation of system for monitoring cost saving resulting from public-private competitions](%C2%A7%2002461a%20-%20Development%20and%20implementation%20of%20system%20for%20monitoring%20cost%20saving%20resulting%20from%20public-private%20competitions.md)
 - [&sect; 02462 - Reports on public-private competition](%C2%A7%2002462%20-%20Reports%20on%20public-private%20competition.md)
 - [&sect; 02463 - Guidelines and procedures for use of civilian employees to perform Department of Defense functions](%C2%A7%2002463%20-%20Guidelines%20and%20procedures%20for%20use%20of%20civilian%20employees%20to%20perform%20Department%20of%20Defense%20functions.md)
-- [&sect; 02464 - Core depot-level maintenance and repair capabilities](%C2%A7%2002464%20-%20Core%20depot-level%20maintenance%20and%20repair%20capabilities.md)
+- [&sect; 02464 - Core logistics capabilities](%C2%A7%2002464%20-%20Core%20logistics%20capabilities.md)
 - [&sect; 02465 - Prohibition on contracts for performance of firefighting or security-guard functions](%C2%A7%2002465%20-%20Prohibition%20on%20contracts%20for%20performance%20of%20firefighting%20or%20security-guard%20functions.md)
 - [&sect; 02466 - Limitations on the performance of depot-level maintenance of materiel](%C2%A7%2002466%20-%20Limitations%20on%20the%20performance%20of%20depot-level%20maintenance%20of%20materiel.md)
 - [&sect; 02467 - Repealed. Pub. L. 110&#8211;181, div. A, title III, &sect;322(b)(1), Jan. 28, 2008, 122 Stat. 59](%C2%A7%2002467%20-%20Repealed.%20Pub.%20L.%20110%E2%80%93181%2C%20div.%20A%2C%20title%20III%2C%20%C2%A7322%28b%29%281%29%2C%20Jan.%2028%2C%202008%2C%20122%20Stat.%2059.md)

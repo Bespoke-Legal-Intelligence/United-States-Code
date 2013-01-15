@@ -26,7 +26,7 @@ Subsec. (c). Pub. L. 110–246, §3005(2), struck out subsec. (c) which related 
 
 <b>1977</b>—Pub. L. 95–113 inserted provisions authorizing the Corporation, when requested by the purchaser of commodities, to serve as the purchasing or shipping agent, or both, in arranging the purchasing or shipping of the commodities.
 
-Pub. L. 95–88 struck out proviso prohibiting the financing by the Commodity Credit Corporation of the sale and export of agricultural commodities where the exporter had engaged in any sales, trade, or commercewith North Vietnam, or with any resident thereof, or which owned or controlled any company so engaged either directly or indirectly, and struck out an additional proviso requiring that financing applications be accompanied by statements in which were listed the branches, etc., in which the applicant had a controlling interest and the companies which had a controlling interest in the applicant company.
+Pub. L. 95–88 struck out proviso prohibiting the financing by the Commodity Credit Corporation of the sale and export of agricultural commodities where the exporter had engaged in any sales, trade, or commerce with North Vietnam, or with any resident thereof, or which owned or controlled any company so engaged either directly or indirectly, and struck out an additional proviso requiring that financing applications be accompanied by statements in which were listed the branches, etc., in which the applicant had a controlling interest and the companies which had a controlling interest in the applicant company.
 
 <b>1968</b>—Pub. L. 90–436 inserted proviso that the Commodity Credit Corporation should not finance the sale and export of any agricultural commodities where the exporter has engaged in any sales, trade or commerce with North Vietnam, or with any resident thereof, or which owns or controls any company so engaged, or which is owned or controlled by any company or person so engaged either directly or indirectly, and the further proviso that the financing application be accompanied by a statement in which are listed the branches, etc., in which the applicant has a controlling interest and the companies which have a controlling interest in the applicant company.
 
@@ -48,7 +48,7 @@ Amendment by Pub. L. 101–624 effective Jan. 1, 1991, see section 1513 of Pub. 
 
 Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under section 1307 of this title.
 
-Section 215 of Pub. L. 95–88 provided that: “The provisions of this title \[enacting sections 1712 to 1714 and 1727 to 1727f of this title, amending this section and sections 1427, 1431, 1692, 1703, 1706, 1711, 1721, 1722, 1723, 1726, 1731, and 1736b of this title, and enacting provisions set out as notes under sections 1708 and 1722 of this title\] shall become effective October 1, 1977.”
+Pub. L. 95–88, title II, §215, Aug. 3, 1977, 91 Stat. 552, provided that: “The provisions of this title \[enacting sections 1712 to 1714 and 1727 to 1727f of this title, amending this section and sections 1427, 1431, 1692, 1703, 1706, 1711, 1721, 1722, 1723, 1726, 1731, and 1736b of this title, and enacting provisions set out as notes under sections 1708 and 1722 of this title\] shall become effective October 1, 1977.”
 
 #### Effective Date of 1966 Amendment
 

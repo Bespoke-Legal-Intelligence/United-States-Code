@@ -42,5 +42,5 @@ Amendment by Pub. L. 94–455 effective on first day of first month which begins
 
 #### Effective Date of 1974 Amendment
 
-Amendment by Pub. L. 93–490 applicable to filled cheese manufactured, imported, or sold after Oct. 26,1974, see section 3(c) of Pub. L. 93–490, set out as an Effective Date of Repeal note under sections 4831 to 4834 of this title.
+Amendment by Pub. L. 93–490 applicable to filled cheese manufactured, imported, or sold after Oct. 26, 1974, see section 3(c) of Pub. L. 93–490, set out as an Effective Date of Repeal note under sections 4831 to 4834 of this title.
 

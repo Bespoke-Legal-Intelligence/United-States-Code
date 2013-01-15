@@ -64,7 +64,7 @@ Annual Report.—Not later than March 1 each year, the Secretary of Defense, act
 
 #### Implementation of Relocation Assistance Programs
 
-Section 1481(c)(4) of Pub. L. 101–510 provided that: “The program required to be carried out by section 1056 of title 10, United States Code, as added by paragraph (1), shall be established by the Secretary of Defense not later than October 1, 1990. The Secretary shall prescribe regulations to implement that section not later than July 1, 1990.”
+Pub. L. 101–510, div. A, title XIV, §1481(c)(4), Nov. 5, 1990, 104 Stat. 1705, provided that: “The program required to be carried out by section 1056 of title 10, United States Code, as added by paragraph (1), shall be established by the Secretary of Defense not later than October 1, 1990. The Secretary shall prescribe regulations to implement that section not later than July 1, 1990.”
 
 #### Transfer of Functions
 

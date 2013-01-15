@@ -26,7 +26,7 @@
 
 &emsp;(2) The term “North Atlantic Treaty Organization subsidiary bodies” has the meaning given to it by section 2350 of this title.
 
-(Added Pub. L. 97–252, title XI, §1125(a), Sept. 8, 1982, 96 Stat. 757, §2213; amended Pub. L. 99–145, title XIII, §1304(b), Nov. 8, 1985, 99 Stat. 742; Pub. L. 100–26, §7(k)(2), Apr. 21, 1987, 101 Stat. 284; renumbered §2350c and amended Pub. L. 101–189, div. A, title IX, §931(b)(2), (e)(4), Nov. 29, 1989, 103 Stat. 1534, 1535; Pub. L. 102–484, div. A, title XIII,§1311, Oct. 23, 1992, 106 Stat. 2547; Pub. L. 106–398, §1 \[\[div. A\], title XII, §1222\], Oct. 30, 2000, 114 Stat. 1654, 1654A–328.)
+(Added Pub. L. 97–252, title XI, §1125(a), Sept. 8, 1982, 96 Stat. 757, §2213; amended Pub. L. 99–145, title XIII, §1304(b), Nov. 8, 1985, 99 Stat. 742; Pub. L. 100–26, §7(k)(2), Apr. 21, 1987, 101 Stat. 284; renumbered §2350c and amended Pub. L. 101–189, div. A, title IX, §931(b)(2), (e)(4), Nov. 29, 1989, 103 Stat. 1534, 1535; Pub. L. 102–484, div. A, title XIII, §1311, Oct. 23, 1992, 106 Stat. 2547; Pub. L. 106–398, §1 \[\[div. A\], title XII, §1222\], Oct. 30, 2000, 114 Stat. 1654, 1654A–328.)
 
 #### References in Text
 
@@ -47,6 +47,80 @@ Subsec. (d). Pub. L. 101–189, §931(b)(2), substituted “subchapter I” for 
 <b>1987</b>—Subsec. (e). Pub. L. 100–26 inserted “The term” after each par. designation and substituted “allied” for “Allied” in par. (1).
 
 <b>1985</b>—Subsec. (e)(2). Pub. L. 99–145 substituted “section 2350” for “section 2331”.
+
+#### Department of Defense Participation in European Program on Multilateral Exchange of Air Transportation and Air Refueling Services
+
+Pub. L. 112–239, div. A, title XII, §1276, Jan. 2, 2013, 126 Stat. 2029, provided that:
+
+“(a)
+
+Participation Authorized.—
+
+&emsp;“(1)
+
+In general.—The Secretary of Defense may, with the concurrence of the Secretary of State, authorize the participation of the United States in the Air Transport, Air-to-Air Refueling and other Exchanges of Services program (in this section referred to as the ‘ATARES program’) of the Movement Coordination Centre Europe.
+
+&emsp;“(2)
+
+Scope of participation.—Participation in the ATARES program under paragraph (1) shall be limited to the reciprocal exchange or transfer of air transportation and air refueling services on a reimbursable basis or by replacement-in-kind or the exchange of air transportation or air refueling services of an equal value.
+
+&emsp;“(3)
+
+Limitations.—The United States’ balance of executed flight hours, whether as credits or debits, in participation in the ATARES program under paragraph (1) may not exceed 500 hours. The United States’ balance of executed flight hours for air refueling in the ATARES program under paragraph (1) may not exceed 200 hours.
+
+“(b)
+
+Written Arrangement or Agreement.—
+
+&emsp;“(1)
+
+Arrangement or agreement required.—The participation of the United States in the ATARES program under subsection (a) shall be in accordance with a written arrangement or agreement entered into by the Secretary of Defense, with the concurrence of the Secretary of State, and the Movement Coordination Centre Europe.
+
+&emsp;“(2)
+
+Funding arrangements.—If Department of Defense facilities, equipment, or funds are used to support the ATARES program, the written arrangement or agreement under paragraph (1) shall specify the details of any equitable cost sharing or other funding arrangement.
+
+&emsp;“(3)
+
+Other elements.—Any written arrangement or agreement entered into under paragraph (1) shall require that any accrued credits and liabilities resulting from an unequal exchange or transfer of air transportation or air refueling services shall be liquidated, not less than once every five years, through the ATARES program.
+
+“(c)
+
+Implementation.—In carrying out any written arrangement or agreement entered into under subsection (b), the Secretary of Defense may—
+
+&emsp;“(1) pay the United States’ equitable share of the operating expenses of the Movement Coordination Centre Europe and the ATARES consortium from funds available to the Department of Defense for operation and maintenance; and
+
+&emsp;“(2) assign members of the Armed Forces or Department of Defense civilian personnel, from among members and personnel within billets authorized for the United States European Command, to duty at the Movement Coordination Centre Europe as necessary to fulfill the United States’ obligations under that arrangement or agreement.
+
+“(d)
+
+Crediting of Receipts.—Any amount received by the United States in carrying out a written arrangement or agreement entered into under subsection (b) shall be credited, as elected by the Secretary of Defense, to the following:
+
+&emsp;“(1) The appropriation, fund, or account used in incurring the obligation for which such amount is received.
+
+&emsp;“(2) An appropriation, fund, or account currently available for the purposes for which such obligation was made.
+
+“(e)
+
+Annual Secretary of Defense Reports.—Not later than 30 days after the end of each fiscal year in which the authority provided by this section is in effect, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on United States participation in the ATARES program during such fiscal year. Each report shall include the following:
+
+&emsp;“(1) The United States balance of executed flight hours at the end of the fiscal year covered by such report.
+
+&emsp;“(2) The types of services exchanged or transferred during the fiscal year covered by such report.
+
+&emsp;“(3) A description of any United States costs under the written arrangement or agreement under subsection (b)(1) in connection with the use of Department of Defense facilities, equipment, or funds to support the ATARES program under that subsection as provided by subsection (b)(2).
+
+&emsp;“(4) A description of the United States’ equitable share of the operating expenses of the Movement Coordination Centre Europe and the ATARES consortium paid under subsection (c)(1).
+
+&emsp;“(5) A description of any amounts received by the United States in carrying out a written arrangement or agreement entered into under subsection (b).
+
+“(f)
+
+Comptroller General of United States Report.—Not later than one year after the date of the enactment of this Act \[Jan. 2, 2013\], the Comptroller General of the United States shall submit to the congressional defense committees a report on the ATARES program. The report shall set forth the assessment of the Comptroller General of the program, including the types of services available under the program, whether the program is achieving its intended purposes, and, on the basis of actual cost data from the performance of the program, the cost-effectiveness of the program.
+
+“(g)
+
+Expiration.—The authority provided by this section to participate in the ATARES program shall expire five years after the date on which the Secretary of Defense first enters into a written arrangement or agreement under subsection (b). The Secretary shall publish notice of such date on a public website of the Department of Defense.”
 
 #### Department of Defense Participation in Strategic Airlift Capability Partnership
 

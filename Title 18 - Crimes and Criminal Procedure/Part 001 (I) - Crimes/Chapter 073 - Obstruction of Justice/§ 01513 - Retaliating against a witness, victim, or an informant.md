@@ -18,7 +18,7 @@
 
 &emsp;(1) the attendance of a witness or party at an official proceeding, or any testimony given or any record, document, or other object produced by a witness in an official proceeding; or
 
-&emsp;(2) any information relating to the commission or possible commission of a Federal offense or a violation of conditions of probation, supervised release, parole, or release pending judicial proceedings given by a person to a law enforcement officer;
+&emsp;(2) any information relating to the commission or possible commission of a Federal offense or a violation of conditions of probation,supervised release, parole, or release pending judicial proceedings given by a person to a law enforcement officer;
 
 > or attempts to do so, shall be fined under this title or imprisoned not more than 20 years, or both.
 

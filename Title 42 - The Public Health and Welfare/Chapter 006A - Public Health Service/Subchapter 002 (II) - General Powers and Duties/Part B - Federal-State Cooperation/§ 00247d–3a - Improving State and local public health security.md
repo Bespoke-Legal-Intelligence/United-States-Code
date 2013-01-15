@@ -28,7 +28,7 @@ To be eligible to receive an award under subsection (a), an entity shall—
 
 &emsp;&emsp;&emsp;(v) a description of how the entity will include the State Unit on Aging in public health emergency preparedness;
 
-&emsp;&emsp;(B) an assurance that the entity will report to the Secretary on an annual basis (or more frequently as determined by the Secretary) on the evidence-based benchmarks and objective standards established by theSecretary to evaluate the preparedness and response capabilities of such entity under subsection (g);
+&emsp;&emsp;(B) an assurance that the entity will report to the Secretary on an annual basis (or more frequently as determined by the Secretary) on the evidence-based benchmarks and objective standards established by the Secretary to evaluate the preparedness and response capabilities of such entity under subsection (g);
 
 &emsp;&emsp;(C) an assurance that the entity will conduct, on at least an annual basis, an exercise or drill that meets any criteria established by the Secretary to test the preparedness and response capabilities of such entity, and that the entity will report back to the Secretary within the application of the following year on the strengths and weaknesses identified through such exercise or drill, and corrective actions taken to address material weaknesses;
 
@@ -162,7 +162,7 @@ In making awards under subsection (a), the Secretary shall consult with the Secr
 
 #### (3) Application
 
-&emsp;Each eligible entity desiring a grant under this subsection shall submit to the Secretaryan application at such time, in such manner, and containing such information as the Secretary may require.
+&emsp;Each eligible entity desiring a grant under this subsection shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
 
 #### (4) Use of funds
 
@@ -172,7 +172,7 @@ In making awards under subsection (a), the Secretary shall consult with the Secr
 
 #### (B) Other entities
 
-&emsp;&emsp;An eligible entity described in paragraph (2)(A)(ii) that receives a grant under this section shall use the funds awarded pursuant to such grant to—
+&emsp;&emsp;An eligible entity described in paragraph (2)(A)(ii) that receives a grant under thissection shall use the funds awarded pursuant to such grant to—
 
 &emsp;&emsp;&emsp;(i) improve the early detection, surveillance, and investigative capabilities of poison control centers for chemical, biological, radiological, and nuclear events by training poison information personnel to improve the accuracy of surveillance data, improving the definitions used by the poison control centers for surveillance, and enhancing timely and efficient investigation of data anomalies;
 
@@ -222,7 +222,7 @@ In making awards under subsection (a), the Secretary shall consult with the Secr
 
 #### (B) Base amount
 
-&emsp;&emsp;In determining the amount of an award pursuant to subparagraph (A) for a State, the Secretary shall first determine anamount the Secretary considers appropriate for the State (referred to in this paragraph as the “base amount”), except that such amount may not be greater than the minimum amount determined under subparagraph (D).
+&emsp;&emsp;In determining the amount of an award pursuant to subparagraph (A) for a State, the Secretary shall first determine an amount the Secretary considers appropriate for the State (referred to in this paragraph as the “base amount”), except that such amount may not be greater than the minimum amount determined under subparagraph (D).
 
 #### (C) Increase on basis of population
 
@@ -230,7 +230,7 @@ In making awards under subsection (a), the Secretary shall consult with the Secr
 
 &emsp;&emsp;&emsp;(i) the amount appropriated under paragraph (1)(A)(i)(I) <sup>5</sup> for the fiscal year, less an amount equal to the sum of all base amounts determined for the States under subparagraph (B), and less the amount, if any, reserved by the Secretary under paragraphs (4) and (5); and
 
-&emsp;&emsp;&emsp;(ii) subject to paragraph (4)(C), the percentage constituted by the ratio of an amount equal to the population of the State over an amount equal to the total population of the States (as indicated by the most recent data collected by the Bureau of the Census).
+&emsp;&emsp;&emsp;(ii) subject to paragraph (4)(C), the percentage constituted by the ratio of anamount equal to the population of the State over an amount equal to the total population of the States (as indicated by the most recent data collected by the Bureau of the Census).
 
 #### (D) Minimum amount
 
@@ -282,7 +282,7 @@ In making awards under subsection (a), the Secretary shall consult with the Secr
 
 #### (6) Funding of local entities
 
-&emsp;The Secretary shall, in making awards under this section, ensure that with respect to the cooperative agreement awarded, the entity make available appropriate portions of suchaward to political subdivisions and local departments of public health through a process involving the consensus, approval or concurrence with such local entities.
+&emsp;The Secretary shall, in making awards under this section, ensure that with respect to the cooperative agreement awarded, the entity make available appropriate portions of such award to political subdivisions and local departments of public health through a process involving the consensus, approval or concurrence with such local entities.
 
 #### (j) Administrative and fiscal responsibility
 
@@ -338,7 +338,7 @@ In making awards under subsection (a), the Secretary shall consult with the Secr
 
 #### (k) Compilation and availability of data
 
-The Secretary shall compile the data submitted under this section and make such data available in a timely manner on an appropriate Internet website in a format that is useful to the public and to other entities and that provides information on what activities are best contributingto the achievement of the outcome goals described in subsection (g).
+The Secretary shall compile the data submitted under this section and make such data available in a timely manner on an appropriate Internet website in a format that is useful to the public and to other entities and that provides information on what activities are best contributing to the achievement of the outcome goals described in subsection (g).
 
 (July 1, 1944, ch. 373, title III, §319C–1, as added Pub. L. 107–188, title I, §131(a), June 12, 2002, 116 Stat. 617; amended Pub. L. 109–417, title II, §201, Dec. 19, 2006, 120 Stat. 2837.)
 
@@ -354,7 +354,7 @@ December 19, 2006, referred to in subsec. (g)(2)(B), was in the original “the 
 
 <b>2006</b>—Pub. L. 109–417, §201(1), substituted “Improving State and local public health security” for “Grants to improve State, local, and hospital preparedness for and response to bioterrorism and other public health emergencies” in section catchline.
 
-Subsecs. (a) to (h). Pub. L. 109–417, §201(2), added subsecs. (a) to (h) and struck out former subsecs. (a) to (h) which related to grants to improve State, local, and hospital preparedness for and response to bioterrorism and other public health emergencies.
+Subsecs. (a) to (h). Pub. L. 109–417, §201(2), added subsecs. (a) to (h) and struck out former subsecs. (a) to (h)which related to grants to improve State, local, and hospital preparedness for and response to bioterrorism and other public health emergencies.
 
 Subsec. (i). Pub. L. 109–417, §201(3), redesignated subsec. (j) as (i).
 

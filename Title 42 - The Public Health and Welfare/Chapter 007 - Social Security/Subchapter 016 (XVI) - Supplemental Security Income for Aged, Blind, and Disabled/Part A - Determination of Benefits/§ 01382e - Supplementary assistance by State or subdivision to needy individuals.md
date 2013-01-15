@@ -2,7 +2,7 @@
 
 #### (a) Exclusion of cash payments in determination of income of individuals for purposes of eligibility for benefits; agreement by Commissioner and State for Commissioner to make supplementary payments on behalf of State or subdivision
 
-Any cash payments which are made by a State (or political subdivision thereof) on a regular basis to individuals who are receiving benefits under this subchapter or who would but for their income be eligible to receive benefits under this subchapter, as assistance based on need in supplementation of such benefits (as determined by the Commissioner of Social Security), shall be excluded under section 1382a(b)(6) of this title in determining the income of such individuals for purposes of this subchapter and the Commissioner of Social Security and such State may enter into an agreement which satisfies subsection (b) of this section under which the Commissioner of Social Security will, on behalf of such State (or subdivision) make such supplementary payments to all such individuals.
+Any cash payments which are made by a State (or political subdivision thereof) on a regular basis to individuals who are receiving benefits under this subchapter or who would but for theirincome be eligible to receive benefits under this subchapter, as assistance based on need in supplementation of such benefits (as determined by the Commissioner of Social Security), shall be excluded under section 1382a(b)(6) of this title in determining the income of such individuals for purposes of this subchapter and the Commissioner of Social Security and such State may enter into an agreement which satisfies subsection (b) of this section under which the Commissioner of Social Security will, on behalf of such State (or subdivision) make such supplementary payments to all such individuals.
 
 #### (b) Agreement between Commissioner and State; contents
 
@@ -28,7 +28,7 @@ Any agreement between the Commissioner of Social Security and a State entered in
 
 (2)(A) The Commissioner of Social Security shall assess each State an administration fee in an amount equal to—
 
-&emsp;(i) the number of supplementary payments made by the Commissioner of Social Securityon behalf of the State under this section for any month in a fiscal year; multiplied by
+&emsp;(i) the number of supplementary payments made by the Commissioner of Social Security on behalf of the State under this section for any month in a fiscal year; multiplied by
 
 &emsp;(ii) the applicable rate for the fiscal year.
 
@@ -60,7 +60,7 @@ Any agreement between the Commissioner of Social Security and a State entered in
 
 (C) Upon making a determination under subparagraph (B)(x)(II), the Commissioner of Social Security shall promulgate the determination in regulations, which may take into account the complexity of administering the State's supplementary payment program.
 
-(D) All fees assessed pursuant to this paragraph shall be transferred to the Commissioner of Social Security at the same time that amounts for such supplementary payments are required to be so transferred.
+(D) All fees assessed pursuant to this paragraph shall be transferred to the Commissionerof Social Security at the same time that amounts for such supplementary payments are required to be so transferred.
 
 (3)(A) The Commissioner of Social Security may charge a State an additional services fee if, at the request of the State, the Commissioner of Social Security provides additional services beyond the level customarily provided, in the administration of State supplementary payments pursuant to this section.
 
@@ -90,7 +90,7 @@ Any agreement between the Commissioner of Social Security and a State entered in
 
 (3) Each State shall certify annually to the Commissioner of Social Security that it is in compliance with the requirements of this subsection.
 
-(4) Payments made under this subchapter with respect to an individual shall be reduced by an amount equal to the amount of any supplementary payment (as described in subsection (a) of this section) or other payment made by a State (or political subdivision thereof) which is made for or on account of any medical or anyother type of remedial care provided by an institution of the type described in paragraph (1) to such individual as a resident or an inpatient of such institution if such institution is not approved as meeting the standards described in such paragraph by the appropriate State or local authorities.
+(4) Payments made under this subchapter with respect to an individual shall be reduced by an amount equal to the amount of any supplementary payment (as described in subsection (a) of this section) or other payment made by a State (or political subdivision thereof) which is made for or on account of any medical or any other type of remedial care provided by an institution of the type described in paragraph (1) to such individual as a resident or an inpatient of such institution if such institution is not approved as meeting the standards described in such paragraph by the appropriate State or local authorities.
 
 (Aug. 14, 1935, ch. 531, title XVI, §1616, as added Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1474; amended Pub. L. 93–233, §14, Dec. 31, 1973, 87 Stat. 965; Pub. L. 94–566, title V, §505(c), (d), Oct. 20, 1976, 90 Stat. 2687; Pub. L. 96–265, title II, §201(b)(1), June 9, 1980, 94 Stat. 446; Pub. L. 97–35, title XXIII, §2353(n), Aug. 13, 1981, 95 Stat. 873; Pub. L. 99–272, title XII, §12201(b), Apr. 7, 1986, 100 Stat. 290; Pub. L. 103–66, title XIII, §13731(a)(1), Aug. 10, 1993, 107 Stat. 660; Pub. L. 103–296, title I, §107(a)(4), Aug. 15, 1994, 108 Stat. 1478; Pub. L. 105–33, title V, §5102(a)(1), (b)(1)(A), Aug. 5, 1997, 111 Stat. 595, 596; Pub. L. 105–78, title V, §516(a)(1), (b)(1)(A), Nov. 13, 1997, 111 Stat. 1517, 1518; Pub. L. 106–170, title IV, §410(a)(1), Dec. 17, 1999, 113 Stat. 1916.)
 
@@ -100,7 +100,7 @@ The Cash Management Improvement Act of 1990, referred to in subsec. (d)(5)(B), i
 
 #### Amendments
 
-<b>1999</b>—Subsec. (d)(1). Pub. L. 106–170, §410(a)(1)(A), substituted “in accordance with paragraph (5)” for “at such times and in such installments as may be agreed upon between the Commissioner of Social Security and such State”.
+<b>1999</b>—Subsec. (d)(1). Pub. L. 106–170, §410(a)(1)(A), substituted “in accordance with paragraph (5)” for “atsuch times and in such installments as may be agreed upon between the Commissioner of Social Security and such State”.
 
 Subsec. (d)(5). Pub. L. 106–170, §410(a)(1)(B), added par. (5).
 
@@ -140,7 +140,7 @@ Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pu
 
 #### Effective Date of 1993 Amendment
 
-Section 13731(b) of Pub. L. 103–66 provided that: “The amendments made by this section \[amending this section and provisions set out as a note under section 1382 of this title\] shall apply to supplementary payments made pursuant to section 1616(a) of the Social Security Act \[subsec. (a) of this section\] or section 212(a) of Public Law 93–66 \[set out as a note under section 1382 of this title\] for any calendar month beginning after September 30, 1993, and to services furnished after such date, regardless of whether regulations to implement such amendments have been promulgated by such date, or whether any agreement entered into under such section 1616(a) or such section 212(a) has been modified.”
+Pub. L. 103–66, title XIII, §13731(b), Aug. 10, 1993, 107 Stat. 661, provided that: “The amendments made by this section \[amending this section and provisions set out as a note under section 1382 of this title\] shall apply to supplementary payments made pursuant to section 1616(a) of the Social Security Act \[subsec. (a) of this section\] or section 212(a) of Public Law 93–66 \[set out as a note under section 1382 of this title\] for any calendar month beginning after September 30, 1993, and to services furnished after such date, regardless of whether regulations to implement such amendments have been promulgated by such date, or whether any agreement entered into under such section 1616(a) or such section 212(a) has been modified.”
 
 #### Effective Date of 1981 Amendment
 
@@ -154,17 +154,17 @@ Amendment by Pub. L. 96–265 effective Jan. 1, 1981, see section 201(d) of Pub.
 
 Amendment by section 505(c) of Pub. L. 94–566 effective Oct. 1, 1976, see section 505(e) of Pub. L. 94–566, set out as a note under section 1382 of this title.
 
-Section 505(d) of Pub. L. 94–566 provided that the amendment made by that section is effective Oct. 1, 1977.
+Pub. L. 94–566, title V, §505(d), Oct. 20, 1976, 90 Stat. 2687, provided that the amendment made by that section is effective Oct. 1, 1977.
 
 #### Effective Date
 
-Section 301 of Pub. L. 92–603 provided that this section is effective Jan. 1, 1974.
+Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1465, provided that this section is effective Jan. 1, 1974.
 
 #### Limitations on Authorization of Appropriations
 
-Section 516(b)(2) of Pub. L. 105–78 provided that: “From amounts credited pursuant to section 1616(d)(4)(B) of the Social Security Act \[subsec. (d)(4)(B) of this section\] and section 212(b)(3)(D)(ii) of Public Law 93–66 \[set out as a note under section 1382 of this title\] to the special fund established in the Treasury of the United States for State supplementary payment fees, there is authorized to be appropriated an amount not to exceed $35,000,000 for fiscal year 1998, and such sums as may be necessary for each fiscal year thereafter, for administrative expenses in carrying out the supplemental security income program under title XVI of the Social Security Act \[this subchapter\] and related laws.”
+Pub. L. 105–78, title V, §516(b)(2), Nov. 13, 1997, 111 Stat. 1519, provided that: “From amounts credited pursuant to section 1616(d)(4)(B) of the Social Security Act \[subsec. (d)(4)(B) of this section\] and section 212(b)(3)(D)(ii) of Public Law 93–66 \[set out as a note under section 1382 of this title\] to the special fund established in the Treasury of the United States for State supplementary payment fees, there is authorized to be appropriated an amount not to exceed $35,000,000 for fiscal year 1998, and such sums as may be necessary for each fiscal year thereafter, for administrative expenses in carrying out the supplemental security income program under title XVI of the Social Security Act \[this subchapter\] and related laws.”
 
-Section 5102(b)(2) of Pub. L. 105–33 provided that: “From amounts credited pursuant to section 1616(d)(4)(B) of the Social Security Act \[subsec. (d)(4)(B) of this section\] and section 212(b)(3)(D)(ii) of Public Law 93–66 \[set out as a note under section 1382 of this title\] to the special fund established in the Treasury of the United States for State supplementary payment fees, there is authorized to be appropriated an amount not to exceed $35,000,000 for fiscal year 1998, and such sums as may be necessary for each fiscal year thereafter.”
+Pub. L. 105–33, title V, §5102(b)(2), Aug. 5, 1997, 111 Stat. 597, provided that: “From amounts credited pursuant to section 1616(d)(4)(B) of the Social Security Act \[subsec. (d)(4)(B) of this section\] and section 212(b)(3)(D)(ii) of Public Law 93–66 \[set out as a note under section 1382 of this title\] to the special fund established in the Treasury of the United States for State supplementary payment fees, there is authorized to be appropriated an amount not to exceed $35,000,000 for fiscal year 1998, and such sums as may be necessary for each fiscal year thereafter.”
 
 #### Period Within Which California May Make Cash Payments in Lieu of Food Stamps to Recipients of Supplemental Security Income Benefits
 
@@ -172,33 +172,33 @@ Pub. L. 95–458, §5(b), Oct. 14, 1978, 92 Stat. 1261, provided that: “No add
 
 #### Eligibility of Supplemental Security Income Recipients for Food Stamps
 
-Section 8(c) of Pub. L. 93–233, as amended by Pub. L. 95–113, title XIII, §1302(a)(3), Sept. 29, 1977, 91 Stat. 979, provided that: “For purposes of section 6(g) of the Food Stamp Act of 1977 \[now the Food and Nutrition Act of 2008\] \[section 2015(g) of Title 7, Agriculture\] and subsections (b)(3) \[set out as a note under section 612c of Title 7\] and (f) \[set out below\] of this section, the level of State supplementary payment under section 1616(a) \[subsec. (a) of this section\] shall be found by the Secretary to have been specifically increased so as to include the bonus value of food stamps (1) only if, prior to October 1, 1973, the State has entered into an agreement with the Secretary or taken other positive steps which demonstrate its intention to provide supplementary payments under section 1616(a) \[subsec. (a) of this section\] at a level which is at least equal to the maximum level which can be determined under section 401(b)(1) of the Social Security Amendments of 1972 \[set out as a note under this section\] and which is such that the limitation on State fiscal liability under section 401 \[set out as a note under this section\] does result in a reduction in the amount which would otherwise be payable to the Secretary by the State, and (2) only with respect to such months as the State may, at its option, elect.”
+Pub. L. 93–233, §8(c), Dec. 31, 1973, 87 Stat. 957, as amended by Pub. L. 95–113, title XIII, §1302(a)(3), Sept. 29, 1977, 91 Stat. 979, provided that: “For purposes of section 6(g) of the Food Stamp Act of 1977 \[now the Food and Nutrition Act of 2008\] \[section 2015(g) of Title 7, Agriculture\] and subsections (b)(3) \[set out as a note under section 612c of Title 7\] and (f) \[set out below\] of this section, the level of State supplementary payment under section 1616(a) \[subsec. (a) of this section\] shall be found by the Secretary to have been specifically increased so as to include the bonus value of food stamps (1) only if, prior to October 1, 1973, the State has entered into an agreement with the Secretary or taken other positive steps which demonstrate its intention to provide supplementary payments under section 1616(a) \[subsec. (a) of this section\] at a level which is at least equal to the maximum level which can be determined under section 401(b)(1) of the Social Security Amendments of 1972 \[set out as a note under this section\] and which is such that the limitation on State fiscal liability under section 401 \[set out as a note under this section\] does result in a reduction in the amount which would otherwise be payable to the Secretary by the State, and (2) only with respect to such months as the State may, at its option, elect.”
 
-\[Section 1302(b) of Pub. L. 95–113 provided that the amendment of section 8(c) of Pub. L. 93–233 by section 1302(a)(3) of Pub. L. 95–113 is effective Oct. 1, 1977.\]
+\[Pub. L. 95–113, title XIII, §1302(b), Sept. 29, 1977, 91 Stat. 979, provided that the amendment of section 8(c) of Pub. L. 93–233 by section 1302(a)(3) of Pub. L. 95–113 is effective Oct. 1, 1977.\]
 
-Section 8(d) of Pub. L. 93–233, as added by Pub. L. 94–379, §1(a), Aug. 10, 1976, 90 Stat. 1111, and amended by Pub. L. 95–458, §5(a), Oct. 14, 1978, 92 Stat. 1260; Pub. L. 97–18, §2, June 30, 1981, 95 Stat. 102; Pub. L. 97–35, title XXIII, §2342(a), Aug. 13, 1981, 95 Stat. 866, provided that: “Upon the request of a State, the Secretary shall find, for purposes of the provisions specified in subsection (c) \[set out above\], that the level of such State's supplementary payments of the type described in section 1616(a) of the Social Security Act \[subsec. (a) of this section\] has been specifically increased for any month so as to include the bonus value of food stamps (and that such State meets the applicable requirements of subsection (c)(1)) if—
+Pub. L. 93–233, §8(d), Dec. 31, 1973, 87 Stat. 957, as added by Pub. L. 94–379, §1(a), Aug. 10, 1976, 90 Stat. 1111, and amended by Pub. L. 95–458, §5(a), Oct. 14, 1978, 92 Stat. 1260; Pub. L. 97–18, §2, June 30, 1981, 95 Stat. 102; Pub. L. 97–35, title XXIII, §2342(a), Aug. 13, 1981, 95 Stat. 866, provided that: “Upon the request of a State, the Secretary shall find, for purposes of the provisions specified in subsection (c) \[set out above\], that the level of such State's supplementary payments of the type described in section 1616(a) of the Social Security Act \[subsec. (a) of this section\] has been specifically increased for any month so as to include the bonus value of food stamps (and that such State meets the applicable requirements of subsection (c)(1)) if—
 
 &emsp;“(1) the Secretary has found (under this subsection or subsection (c), as in effect in December 1980) that such State's supplementary payments in December 1980 were increased to include the bonus value of food stamps; and
 
 &emsp;“(2) such State continues without interruption to meet the requirements of section 1618 of such Act \[section 1382g of this title\] for each month after the month referred to in paragraph (1) and up to and including the month for which the Secretary is making the determination.”
 
-\[Section 2 of Pub. L. 97–18 provided that the amendment of section 8(d) of Pub. L. 93–233, set out above, by Pub. L. 97–18 is effective for the period July 1, 1981, to Aug. 31, 1981.\]
+\[Pub. L. 97–18, §2, June 30, 1981, 95 Stat. 102, provided that the amendment of section 8(d) of Pub. L. 93–233, set out above, by Pub. L. 97–18 is effective for the period July 1, 1981, to Aug. 31, 1981.\]
 
-\[Section 2342(b) of Pub. L. 97–35 provided that the amendment of section 8(d) of Pub. L. 93–233, set out above, by section 2342(a) of Pub. L. 97–35 is effective July 1, 1981.\]
+\[Pub. L. 97–35, title XXIII, §2342(b), Aug. 13, 1981, 95 Stat. 866, provided that the amendment of section 8(d) of Pub. L. 93–233, set out above, by section 2342(a) of Pub. L. 97–35 is effective July 1, 1981.\]
 
 #### Adjusted Payment Level; Payment Level Modification
 
-Section 8(e), formerly §8(d) of Pub. L. 93–233, as renumbered §8(e) by Pub. L. 94–379, §1(a), Aug. 10, 1976, 90 Stat. 1111, provided that: “Section 401(b)(1) of the Social Security Amendments of 1972 \[set out below\] is amended by striking out everything after the word ‘exceed’ and inserting in lieu thereof: ‘a payment level modification (as defined in paragraph (2) of this subsection) with respect to such plans’.”
+Pub. L. 93–233, §8(e), formerly §8(d), Dec. 31, 1973, 87 Stat. 957, as renumbered §8(e) by Pub. L. 94–379, §1(a), Aug. 10, 1976, 90 Stat. 1111, provided that: “Section 401(b)(1) of the Social Security Amendments of 1972 \[set out below\] is amended by striking out everything after the word ‘exceed’ and inserting in lieu thereof: ‘a payment level modification (as defined in paragraph (2) of this subsection) with respect to such plans’.”
 
-Section 8(f), formerly §8(e), of Pub. L. 93–233, as amended by Pub. L. 93–335, §1(b), July 8, 1974, 88 Stat. 291; Pub. L. 94–44, §3(b), June 28, 1975, 89 Stat. 235; Pub. L. 94–365, §2(2), July 14, 1976, 90 Stat. 990, and renumbered §8(f) and amended by Pub. L. 94–379, §1(a), (b), Aug. 10, 1976, 90 Stat. 1111; Pub. L. 95–59, §3(2), June 30, 1977, 91 Stat. 255; Pub. L. 95–113, title XIII, §1302(a)(4), Sept. 29, 1977, 91 Stat. 979, provided that: “The amendment made by subsection (e) \[set out above\] shall not be effective in any State which provides supplementary payments of the type described in section 1616(a) of the Social Security Act \[subsec. (a) of this section\] the level of which has been found by the Secretary to have been specifically increased so as to include the bonus value of food stamps.”
+Pub. L. 93–233, §8(f), formerly §8(e), Dec. 31, 1973, 87 Stat. 957, as amended by Pub. L. 93–335, §1(b), July 8, 1974, 88 Stat. 291; Pub. L. 94–44, §3(b), June 28, 1975, 89 Stat. 235; Pub. L. 94–365, §2(2), July 14, 1976, 90 Stat. 990, and renumbered §8(f) and amended by Pub. L. 94–379, §1(a), (b), Aug. 10, 1976, 90 Stat. 1111; Pub. L. 95–59, §3(2), June 30, 1977, 91 Stat. 255; Pub. L. 95–113, title XIII, §1302(a)(4), Sept. 29, 1977, 91 Stat. 979, provided that: “The amendment made by subsection (e) \[set out above\] shall not be effective in any State which provides supplementary payments of the type described in section 1616(a) of the Social Security Act \[subsec. (a) of this section\] the level of which has been found by the Secretary to have been specifically increased so as to include the bonus value of food stamps.”
 
 \[Amendment of section 8(e) \[now §8(f)\] of Pub. L. 93–233 by section 1(b) of Pub. L. 93–335, effective July 1, 1974, see section 1(c) of Pub. L. 93–335, set out as a note below.\]
 
-\[Section 1(c) of Pub. L. 93–335, July 8, 1974, 88 Stat. 291, provided that amendments by section 1(a), (b) of Pub. L. 93–335 to section 8(a)(1), (2), (b)(1)–(3), and (e) of Pub. L. 93–233, Dec. 31, 1973, 87 Stat. 956, set out as notes under this section and sections 612c, 1431 and 2012 of Title 7, Agriculture, is effective as of July 1, 1974.\]
+\[Pub. L. 93–335, §1(c), July 8, 1974, 88 Stat. 291, provided that amendments by section 1(a), (b) of Pub. L. 93–335 to section 8(a)(1), (2), (b)(1)–(3), and (e) of Pub. L. 93–233, Dec. 31, 1973, 87 Stat. 956, set out as notes under this section and sections 612c, 1431 and 2012 of Title 7, Agriculture, is effective as of July 1, 1974.\]
 
-\[Section 3 of Pub. L. 95–59 provided that the amendment of section 8(f) of Pub. L. 93–233, set out above, by section 3(2) of Pub. L. 95–59 is effective July 1, 1977.\]
+\[Pub. L. 95–59, §3, June 30, 1977, 91 Stat. 255, provided that the amendment of section 8(f) of Pub. L. 93–233, set out above, by section 3(2) of Pub. L. 95–59 is effective July 1, 1977.\]
 
-\[Section 1302(b) of Pub. L. 95–113 provided that the amendment of section 8(f) of Pub. L. 93–233, set out above, by section 1302(a)(4) of Pub. L. 95–113 is effective Oct. 1, 1977.\]
+\[Pub. L. 95–113, title XIII, §1302(b), Sept. 29, 1977, 91 Stat. 979, provided that the amendment of section 8(f) of Pub. L. 93–233, set out above, by section 1302(a)(4) of Pub. L. 95–113 is effective Oct. 1, 1977.\]
 
 #### Commodity Distribution Program: Individual Receiving Supplemental Security Income Benefits as Member of Household for any Purpose of Program
 
@@ -256,11 +256,11 @@ Pub. L. 92–603, title IV, §401, Oct. 30, 1972, 86 Stat. 1485, as amended by P
 
 \[Amendment of section 401 of Pub. L. 92–603, set out above, by section 18(h) of Pub. L. 93–233 effective Jan. 1, 1974, see section 18(z–3)(1) of Pub. L. 93–233.\]
 
-\[Section 184(b) of Pub. L. 97–248 provided that: “The amendment made by subsection (a) \[amending section 401 of Pub. L. 92–603, set out above\] shall become effective on the date of the enactment of this Act \[Sept. 3, 1982\].”\]
+\[Pub. L. 97–248, title I, §184(b), Sept. 3, 1982, 96 Stat. 406, provided that: “The amendment made by subsection (a) \[amending section 401 of Pub. L. 92–603, set out above\] shall become effective on the date of the enactment of this Act \[Sept. 3, 1982\].”\]
 
 #### Transitional Administration of Programs by State Pursuant to Agreement Between State and Secretary
 
-Section 402 of Pub. L. 92–603, as amended by Pub. L. 93–233, §18(i), Dec. 31, 1973, 87 Stat. 970, provided that: “In order for a State to be eligible for any payments pursuant to title IV, V, XVI, or XIX of the Social Security Act \[subchapter IV, V, XVI, or XIX of this chapter\] with respect to expenditures for the third and fourth quarters in the fiscal year ending June 30, 1974, and any quarter in the fiscal year ending June 30, 1975, and for the purpose of providing an orderly transition from State to Federal administration of the Supplemental Security Income Program, such State shall enter into an agreement with the Secretary of Health, Education, and Welfare under which the State agencies responsible for administering or for supervising the administration of the plans approved under titles I, X, XIV, and XVI of the Social Security Act \[subchapters I, X, XIV, and XVI of this chapter\] will, on behalf of the Secretary, administer all or such part or parts of the program established by section 301 of this Act \[enacting this subchapter\], during such portion of the third and fourth quarters of the fiscal year ending June 30, 1974, and any quarter of the fiscal year ending June 30, 1975, as may be provided in such agreement.”
+Pub. L. 92–603, title IV, §402, Oct. 30, 1972, 86 Stat. 1487, as amended by Pub. L. 93–233, §18(i), Dec. 31, 1973, 87 Stat. 970, provided that: “In order for a State to be eligible for any payments pursuant to title IV, V, XVI, or XIX of the Social Security Act \[subchapter IV, V, XVI, or XIX of this chapter\] with respect to expenditures for the third and fourth quarters in the fiscal year ending June 30, 1974, and any quarter in the fiscal year ending June 30, 1975, and for the purpose of providing an orderly transition from State to Federal administration of the Supplemental Security Income Program, such State shall enter into an agreement with the Secretary of Health, Education, and Welfare under which the State agencies responsible for administering or for supervising the administration of the plans approved under titles I, X, XIV, and XVI of the Social Security Act \[subchapters I, X, XIV, and XVI of this chapter\] will, on behalf of the Secretary, administer all or such part or parts of the program established by section 301 of this Act \[enacting this subchapter\], during such portion of the third and fourth quarters of the fiscal year ending June 30, 1974, and any quarter of the fiscal year ending June 30, 1975, as may be provided in such agreement.”
 
 #### Election of Payments Under Combined State Plan Rather Than Separate Plans
 
@@ -268,5 +268,5 @@ Pub. L. 87–543, §141(b), July 25, 1962, 76 Stat. 205, provided that: “No pa
 
 #### Overpayment or Underpayment Adjustments
 
-Pub. L. 87–543, §141(f), July 25, 1962, 76 Stat. 205, provided that: “In the case of any State which has a State plan approved under title XVI of the Social Security Act \[this subchapter\], any overpayment or underpayment which the Secretary determines was made to such State under section 3, 1003, or 1403 of such Act \[section 303, 1203, or 1353 of this title\] with respect to a period before the approval of the plan under such title XVI, and with respect to which adjustment has not been already made under subsection (b) of such section 3, 1003, or 1403 \[section 303(b), 1203, or 1353 of this title\], shall, for purposes of section 1603(b) of such Act \[section 1383(b) of this title prior to its omission on Oct. 30, 1972\], be considered an overpayment or underpayment (as the case may be) made under section 1603 of such Act \[section 1383 of this title as it existed prior to Oct. 30, 1972\].”
+Pub. L. 87–543, §141(f), July 25, 1962, 76 Stat. 205, provided that: “In the case of any State which has a State plan approved under title XVI of the Social Security Act \[this subchapter\], any overpayment or underpayment which the Secretary determines was made to such State under section 3, 1003, or 1403 of such Act \[section 303, 1203, or 1353 of this title\] with respect to a period before the approval of the plan under such title XVI, and with respect to which adjustment has not been already made under subsection (b) of such section 3, 1003, or 1403, shall, for purposes of section 1603(b) of such Act \[section 1383(b) of this title prior to its omission on Oct. 30, 1972\], be considered an overpayment or underpayment (as the case may be) made under section 1603 of such Act \[section 1383 of this title as it existed prior to Oct. 30, 1972\].”
 

@@ -48,7 +48,7 @@ For purposes of the tax imposed by section 2001, the value of the taxable estate
 
 &emsp;&emsp;(B) no part of the interest so passing shall, for purposes of paragraph (1)(A), be considered as passing to any person other than the surviving spouse.
 
-> &emsp;This paragraph shall apply only if such power in the surviving spouse to appoint the entireinterest, or such specific portion thereof, whether exercisable by will or during life, is exercisable by such spouse alone and in all events.
+> &emsp;This paragraph shall apply only if such power in the surviving spouse to appoint the entire interest, or such specific portion thereof, whether exercisable by will or during life, is exercisable by such spouse alone and in all events.
 
 #### (6) Life insurance or annuity payments with power of appointment in surviving spouse
 
@@ -108,7 +108,7 @@ For purposes of the tax imposed by section 2001, the value of the taxable estate
 
 #### (C) Treatment of survivor annuities
 
-&emsp;&emsp;In the case of an annuity included in the gross estate of the decedent under section 2039 (or, in the case of an interest in an annuity arising under the community property laws of a State, included in the gross estate of the decedent under section 2033) where only the surviving spouse has the right to receive payments before the death of such surviving spouse—
+&emsp;&emsp;In the case of an annuity included in the gross estate of the decedent under section2039 (or, in the case of an interest in an annuity arising under the community property laws of a State, included in the gross estate of the decedent under section 2033) where only the surviving spouse has the right to receive payments before the death of such surviving spouse—
 
 &emsp;&emsp;&emsp;(i) the interest of such surviving spouse shall be treated as a qualifying income interest for life, and
 
@@ -132,7 +132,7 @@ For purposes of the tax imposed by section 2001, the value of the taxable estate
 
 #### (ii) ESOP beneficiary
 
-&emsp;&emsp;&emsp;The term “ESOP beneficiary” means any beneficiary which is an employeestock ownership plan (as defined in section 4975(e)(7)) that holds a remainder interest in qualified employer securities (as defined in section 664(g)(4)) to be transferred to such plan in a qualified gratuitous transfer (as defined in section 664(g)(1)).
+&emsp;&emsp;&emsp;The term “ESOP beneficiary” means any beneficiary which is an employee stock ownership plan (as defined in section 4975(e)(7)) that holds a remainder interest in qualified employer securities (as defined in section 664(g)(4)) to be transferred to such plan in a qualified gratuitous transfer (as defined in section 664(g)(1)).
 
 #### (iii) Qualified charitable remainder trust
 
@@ -224,7 +224,7 @@ For purposes of this section, an interest in property shall be considered as pas
 
 &emsp;&emsp;If a judicial proceeding described in subparagraph (A)(ii) is commenced with respect to any trust, the period for assessing any deficiency of tax attributable to any failure of such trust to be a qualified domestic trust shall not expire before the date 1 year after the date on which the Secretary is notified that the trust has been changed pursuant to such judicial proceeding or that such proceeding has been terminated.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 392; Pub. L. 89–621, §1(a), Oct. 4, 1966, 80 Stat. 872; Pub. L. 94–455, title XIX, §1902(a)(12)(A), title XX, §§2002(a), 2009(b)(4)(D), (E), Oct. 4, 1976, 90 Stat. 1805, 1854, 1894; Pub. L. 95–600, title VII, §702(g)(1), (2), Nov. 6, 1978, 92 Stat. 2930; Pub. L. 97–34, title IV, §403(a)(1), (d)(1), Aug. 13, 1981, 95 Stat. 301, 302; Pub. L. 97–448, title I, §104(a)(2)(A), (8), Jan. 12, 1983, 96 Stat. 2380, 2381; Pub. L. 98–369, div. A, title X, §1027(a), July 18, 1984, 98 Stat. 1031; Pub. L. 100–647, title V, §5033(a)(1), title VI, §6152(a), Nov. 10, 1988, 102 Stat. 3670, 3725; Pub. L. 101–239, title VII, §7815(d)(4)(A), (5), (6), (8), 7816(q), Dec. 19, 1989, 103 Stat. 2415, 2416, 2423; Pub. L. 101–508, title XI, §§11701(<i>l</i>)(1), 11702(g)(5), Nov. 5, 1990, 104 Stat. 1388–513, 1388–516; Pub. L. 102–486, title XIX, §1941(a), Oct. 24, 1992, 106 Stat. 3036; Pub. L. 105–34, title XIII, §1311(a), title XV, §1530(c)(8), Aug. 5, 1997, 111 Stat. 1044, 1078.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 392; Pub. L. 89–621, §1(a), Oct. 4, 1966, 80 Stat. 872; Pub. L. 94–455, title XIX, §1902(a)(12)(A), title XX, §§2002(a), 2009(b)(4)(D), (E), Oct. 4, 1976, 90 Stat. 1805, 1854, 1894; Pub. L. 95–600, title VII, §702(g)(1), (2), Nov. 6, 1978, 92 Stat. 2930; Pub. L. 97–34, title IV, §403(a)(1), (d)(1), Aug. 13, 1981, 95 Stat. 301, 302; Pub. L. 97–448, title I, §104(a)(2)(A), (8), Jan. 12, 1983, 96 Stat. 2380, 2381; Pub. L. 98–369, div. A, title X, §1027(a), July 18, 1984, 98 Stat. 1031; Pub. L. 100–647, title V, §5033(a)(1), title VI, §6152(a), Nov. 10, 1988, 102 Stat. 3670, 3725; Pub. L. 101–239, title VII, §7815(d)(4)(A), (5), (6), (8), 7816(q), Dec. 19, 1989, 103 Stat. 2415, 2416, 2423; Pub. L. 101–508, title XI, §§11701(l)(1), 11702(g)(5), Nov. 5, 1990, 104 Stat. 1388–513, 1388–516; Pub. L. 102–486, title XIX, §1941(a), Oct. 24, 1992, 106 Stat. 3036; Pub. L. 105–34, title XIII, §1311(a), title XV, §1530(c)(8), Aug. 5, 1997, 111 Stat. 1044, 1078.)
 
 #### Amendments
 
@@ -256,7 +256,7 @@ Qualified charitable remainder trust.—The term ‘qualified charitable remaind
 
 <b>1990</b>—Subsec. (d)(3). Pub. L. 101–508, §11702(g)(5), substituted “section 2056A(b)(7)” for “section 2056A(b)(6)”.
 
-Subsec. (d)(4), (5). Pub. L. 101–508, §11701(<i>l</i>)(1), redesignated par. (4) relating to reformations permitted as par. (5).
+Subsec. (d)(4), (5). Pub. L. 101–508, §11701(l)(1), redesignated par. (4) relating to reformations permitted as par. (5).
 
 <b>1989</b>—Subsec. (b)(7)(C). Pub. L. 101–239, §7816(q), inserted “included in the gross estate of the decedent under section 2039” after “an annuity”.
 
@@ -284,7 +284,7 @@ Subsec. (b)(7), (8). Pub. L. 97–34, §403(d)(1), added pars. (7) and (8).
 
 Subsecs. (c), (d). Pub. L. 97–34, §403(a)(1)(A), redesignated subsec. (d) as (c) and struck out former subsec. (c) relating to limitation on aggregate of deductions.
 
-<b>1978</b>—Subsec. (c)(1)(B). Pub. L. 95–600 inserted in cl. (ii) “required to be included in a gift tax return” after “with respect to any gift” and inserted following cl. (ii) “For purposes of this subparagraph, a gift which is includible in the gross estate of the donor by reason of section 2035 shall not be taken into account”.
+<b>1978</b>—Subsec. (c)(1)(B). Pub. L. 95–600 inserted in cl. (ii) “required to be included in a gift tax return” after“with respect to any gift” and inserted following cl. (ii) “For purposes of this subparagraph, a gift which is includible in the gross estate of the donor by reason of section 2035 shall not be taken into account”.
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–455, §2009(b)(4)(E), substituted “subsections (b) and (c)” for “subsections (b), (c), and (d)”.
 
@@ -298,13 +298,13 @@ Subsecs. (d), (e). Pub. L. 94–455, §2009(b)(4)(D), redesignated subsec. (e) a
 
 #### Effective Date of 1997 Amendment
 
-Section 1311(b) of Pub. L. 105–34 provided that: “The amendment made by this section \[amending this section\] shall apply to estates of decedents dying after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title XIII, §1311(b), Aug. 5, 1997, 111 Stat. 1044, provided that: “The amendment made by this section \[amending this section\] shall apply to estates of decedents dying after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 Amendment by section 1530(c)(8) of Pub. L. 105–34 applicable to transfers made by trusts to, or for the use of, an employee stock ownership plan after Aug. 5, 1997, see section 1530(d) of Pub. L. 105–34, set out as a note under section 401 of this title.
 
 #### Effective Date of 1992 Amendment
 
-Section 1941(c) of Pub. L. 102–486 provided that:
+Pub. L. 102–486, title XIX, §1941(c), Oct. 24, 1992, 106 Stat. 3036, provided that:
 
 “(1)
 
@@ -330,21 +330,21 @@ Subsection (b).—The amendments made by subsection (b) \[amending section 2523 
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 11701(<i>l</i>)(1) of Pub. L. 101–508 effective, except as otherwise provided, as if included in the provision of the Revenue Reconciliation Act of 1989, Pub. L. 101–239, title VII, to which such amendment relates, see section 11701(n) of Pub. L. 101–508, set out as a note under section 42 of this title.
+Amendment by section 11701(l)(1) of Pub. L. 101–508 effective, except as otherwise provided, as if included in the provision of the Revenue Reconciliation Act of 1989, Pub. L. 101–239, title VII, to which such amendment relates, see section 11701(n) of Pub. L. 101–508, set out as a note under section 42 of this title.
 
 Amendment by section 11702(g)(5) of Pub. L. 101–508 effective as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 11702(j) of Pub. L. 101–508, set out as a note under section 59 of this title.
 
 #### Effective Date of 1989 Amendment
 
-Section 7815(d)(4)(B) of Pub. L. 101–239 provided that: “In the case of the estate of a decedent dying before the date of the enactment of this Act \[Dec. 19, 1989\], the period during which the transfer (or irrevocable assignment) referred to in section 2056(d)(2)(B) of the Internal Revenue Code of 1986 (as amended by subparagraph (A)) may be made shall not expire before the date 1 year after such date of enactment.”
+Pub. L. 101–239, title VII, §7815(d)(4)(B), Dec. 19, 1989, 103 Stat. 2415, provided that: “In the case of the estate of a decedent dying before the date of the enactment of this Act \[Dec. 19, 1989\], the period during which the transfer (or irrevocable assignment) referred to in section 2056(d)(2)(B) of the Internal Revenue Code of 1986 (as amended by subparagraph (A)) may be made shall not expire before the date 1 year after such date of enactment.”
 
 Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment
 
-Section 5033(d)(1) of Pub. L. 100–647 provided that: “The amendments made by subsections (a) and (c) \[enacting section 2056A of this title and amending this section and section 2106 of this title\] shall apply to estates of the decedents dying after the date of the enactment of this Act \[Nov. 10, 1988\].”
+Pub. L. 100–647, title V, §5033(d)(1), Nov. 10, 1988, 102 Stat. 3673, provided that: “The amendments made by subsections (a) and (c) \[enacting section 2056A of this title and amending this section and section 2106 of this title\] shall apply to estates of the decedents dying after the date of the enactment of this Act \[Nov. 10, 1988\].”
 
-Section 6152(c) of Pub. L. 100–647 provided that:
+Pub. L. 100–647, title VI, §6152(c), Nov. 10, 1988, 102 Stat. 3725, provided that:
 
 “(1)
 
@@ -372,7 +372,7 @@ Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it 
 
 #### Effective Date of 1981 Amendment
 
-Section 403(e) of Pub. L. 97–34, as amended by Pub. L. 97–448, title I, §104(a)(10), Jan. 12, 1983, 96 Stat. 2381; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 97–34, title IV, §403(e), Aug. 13, 1981, 95 Stat. 305, as amended by Pub. L. 97–448, title I, §104(a)(10), Jan. 12, 1983, 96 Stat. 2381; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1) Except as otherwise provided in this subsection, the amendments made by this section \[enacting sections 2044 and 2207A of this title, amending this section and sections 691, 2012, 2035, 2040, 2045, 2046, 2519, 2523, 2602, and 6019 of this title, and repealing sections 2515 and 2515A of this title\] shall apply to the estates of decedents dying after December 31, 1981.
 
@@ -392,11 +392,11 @@ Section 403(e) of Pub. L. 97–34, as amended by Pub. L. 97–448, title I, §10
 
 #### Effective Date of 1978 Amendment
 
-Section 702(g)(3) of Pub. L. 95–600 provided that: “The amendment made by this subsection \[amending this section\] shall apply to the estates of decedents dying after December 31, 1976.”
+Pub. L. 95–600, title VII, §702(g)(3), Nov. 6, 1978, 92 Stat. 2930, provided that: “The amendment made by this subsection \[amending this section\] shall apply to the estates of decedents dying after December 31, 1976.”
 
 #### Effective Date of 1976 Amendment
 
-Section 2002(d)(1) of Pub. L. 94–455 provided that:
+Pub. L. 94–455, title XX, §2002(d)(1), Oct. 4, 1976, 90 Stat. 1856, provided that:
 
 “(1)(A) Except as provided in subparagraph (B), the amendment made by subsection (a) \[amending this section\] shall apply with respect to the estates of decedents dying after December 31, 1976.
 
@@ -416,17 +416,17 @@ Amendment by section 2009(b)(4)(D), (E) of Pub. L. 94–455 applicable with resp
 
 #### Effective Date of 1966 Amendment
 
-Section 1(b) of Pub. L. 89–621 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to estates of decedents dying on or after the date of the enactment of this Act \[Oct. 4, 1966\].”
+Pub. L. 89–621, §1(b), Oct. 4, 1966, 80 Stat. 872, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to estates of decedents dying on or after the date of the enactment of this Act \[Oct. 4, 1966\].”
 
 #### Commencement of Judicial Proceeding To Reform Trust
 
-Section 11701(<i>l</i>)(2) of Pub. L. 101–508 provided that: “The period during which a proceeding may be commenced under section 2056(d)(5)(A)(ii) of the Internal Revenue Code of 1986 (as redesignated by paragraph (1)) shall not expire before the date 6 months after the date of the enactment of this Act \[Nov. 5, 1990\].”
+Pub. L. 101–508, title XI, §11701(l)(2), Nov. 5, 1990, 104 Stat. 1388–513, provided that: “The period during which a proceeding may be commenced under section 2056(d)(5)(A)(ii) of the Internal Revenue Code of 1986 (as redesignated by paragraph (1)) shall not expire before the date 6 months after the date of the enactment of this Act \[Nov. 5, 1990\].”
 
 #### Application of Amendments by Section 5033 of Pub. L. 100–647 to Estates of, or Gifts by, Noncitizen and Nonresident Individuals
 
-Section 7815(d)(14) of Pub. L. 101–239 provided that: “In the case of the estate of, or gift by, an individual who was not a citizen or resident of the United States but was a resident of a foreign country with which the United States has a tax treaty with respect to estate, inheritance, or gift taxes, the amendments made by section 5033 of the 1988 Act \[Pub. L. 100–647, enacting section 2056A of this title and amending this section and sections 2106 and 2523 of this title\] shall not apply to the extent such amendments would be inconsistent with the provisions of such treaty relating to estate, inheritance, or gift tax marital deductions. In the case of the estate of an individual dying before the date 3 years after the date of the enactment of this Act \[Dec. 19, 1989\], or a gift by an individual before the date 3 years after the date of the enactment of this Act, the requirement of the preceding sentence that the individual not be a citizen or resident of the United States shall not apply.”
+Pub. L. 101–239, title VII, §7815(d)(14), Dec. 19, 1989, 103 Stat. 2418, provided that: “In the case of the estate of, or gift by, an individual who was not a citizen or resident of the United States but was a resident of a foreign country with which the United States has a tax treaty with respect to estate, inheritance, or gift taxes, the amendments made by section 5033 of the 1988 Act \[Pub. L. 100–647, enacting section 2056A of this title and amending this section and sections 2106 and 2523 of this title\] shall not apply to the extent such amendments would be inconsistent with the provisions of such treaty relating to estate, inheritance, or gift tax marital deductions. In the case of the estate of an individual dying before the date 3 years after the date of the enactment of this Act \[Dec. 19, 1989\], or a gift by an individual before the date 3 years after the date of the enactment of this Act, the requirement of the preceding sentence that the individual not be a citizen or resident of the United States shall not apply.”
 
 #### Disclaimer of Interest Arising From Estates of Persons Dying Before Oct. 4, 1966, Having Estate Tax Return Filing Date On or After Jan. 1, 1965
 
-Section 1(c) of Pub. L. 89–621 provided that in the case of a decedent dying before Oct. 4, 1966, for which the date prescribed for filing estate tax return was on or after Jan. 1, 1965, and as a result of a disclaimer, the surviving spouse became entitled to receive such interest, then such interest was to be considered as having passed from the decedent to the surviving spouse under certain conditions, with a limit on the amount of deductions allowed.
+Pub. L. 89–621, §1(c), Oct. 4, 1966, 80 Stat. 872, provided that in the case of a decedent dying before Oct. 4, 1966, for which the date prescribed for filing estate tax return was on or after Jan. 1, 1965, and as a result of a disclaimer, the surviving spouse became entitled to receive such interest, then such interest was to be considered as having passed from the decedent to the surviving spouse under certain conditions, with a limit on the amount of deductions allowed.
 

@@ -1,6 +1,6 @@
 ### §§9863 to 9865. Repealed. Pub. L. 103–382, title III, §391(w), Oct. 20, 1994, 108 Stat. 4025
 
-Section 9863, Pub. L. 97–35, title VI, §664, as added Pub. L. 101–501, title II, §204(a), Nov. 3, 1990, 104 Stat.1245, authorized financial assistance for research regarding Follow Through programs and approaches.
+Section 9863, Pub. L. 97–35, title VI, §664, as added Pub. L. 101–501, title II, §204(a), Nov. 3, 1990, 104 Stat. 1245, authorized financial assistance for research regarding Follow Through programs and approaches.
 
 A prior section 9863, Pub. L. 97–35, title VI, §664, Aug. 13, 1981, 95 Stat. 509, related to grants or contracts for research, demonstration, and pilot projects, prior to repeal by Pub. L. 101–501, title II, §204(a), Nov. 3, 1990, 104 Stat. 1245.
 

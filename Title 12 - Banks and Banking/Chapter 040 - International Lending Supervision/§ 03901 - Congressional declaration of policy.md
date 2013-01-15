@@ -6,7 +6,7 @@
 
 (b) The Federal banking agencies shall consult with the banking supervisory authorities of other countries to reach understandings aimed at achieving the adoption of effective and consistent supervisory policies and practices with respect to international lending.
 
-(Pub. L. 98–181, title IX, §902, Nov. 30, 1983, 97 Stat. 1278.)
+(Pub. L. 98–181, title I \[title IX, §902\], Nov. 30, 1983, 97 Stat. 1278.)
 
 #### Short Title of 1989 Amendment
 
@@ -14,7 +14,7 @@ Pub. L. 101–240, title IV, §401, Dec. 19, 1989, 103 Stat. 2501, provided that
 
 #### Short Title
 
-Section 901 of title IX of Pub. L. 98–181 provided that: “This title \[enacting this chapter\] may be cited as the ‘International Lending Supervision Act of 1983’.”
+Pub. L. 98–181, title I \[title IX, §901\], Nov. 30, 1983, 97 Stat. 1278, provided that: “This title \[enacting this chapter\] may be cited as the ‘International Lending Supervision Act of 1983’.”
 
 #### Encouragement of Debt-for-Development Swaps Through Local Currency Repayment
 

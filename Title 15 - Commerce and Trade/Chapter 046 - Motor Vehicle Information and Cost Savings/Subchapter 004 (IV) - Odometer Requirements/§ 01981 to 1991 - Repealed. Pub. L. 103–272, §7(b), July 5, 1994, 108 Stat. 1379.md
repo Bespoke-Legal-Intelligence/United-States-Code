@@ -22,7 +22,7 @@ Section 1990, Pub. L. 92–513, title IV, §410, Oct. 20, 1972, 86 Stat. 963; Pu
 
 Section 1990a, Pub. L. 92–513, title IV, §411, as added Pub. L. 94–364, title IV, §408(2), July 14, 1976, 90 Stat. 984, related to State action to restrain violation of this subchapter or recover damages therefor. See section 32709 of Title 49.
 
-Section 1990b, Pub. L. 92–513, title IV, §412, as added Pub. L. 94–364, title IV, §408(2), July 14, 1976, 90 Stat. 984; amended Pub. L. 99–579, §3(a), Oct. 28, 1986, 100 Stat. 3311, related to civil penalty for violation of this subchapter. See section 32709 of Title 49.
+Section 1990b, Pub. L. 92–513, title IV, §412, as added Pub. L. 94–364, title IV, §408(2), July 14, 1976, 90 Stat.984; amended Pub. L. 99–579, §3(a), Oct. 28, 1986, 100 Stat. 3311, related to civil penalty for violation of this subchapter. See section 32709 of Title 49.
 
 Section 1990c, Pub. L. 92–513, title IV, §413, as added Pub. L. 94–364, title IV, §408(2), July 14, 1976, 90 Stat. 985; amended Pub. L. 99–579, §3(b), Oct. 28, 1986, 100 Stat. 3311, related to criminal penalties for violations of this subchapter. See section 32709 of Title 49.
 

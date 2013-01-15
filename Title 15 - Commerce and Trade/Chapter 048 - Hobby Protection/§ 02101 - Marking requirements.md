@@ -24,9 +24,9 @@ The Federal Trade Commission Act, referred to in subsecs. (a) and (b), is act Se
 
 #### Effective Date
 
-Section 8 of Pub. L. 93–167 provided that: “This Act \[enacting this chapter\] shall apply only to imitation political items and imitation numismatic items manufactured after the date of enactment of this Act \[Nov. 29, 1973\].”
+Pub. L. 93–167, §8, Nov. 29, 1973, 87 Stat. 687, provided that: “This Act \[enacting this chapter\] shall apply only to imitation political items and imitation numismatic items manufactured after the date of enactment of this Act \[Nov. 29, 1973\].”
 
 #### Short Title
 
-Section 1 of Pub. L. 93–167 provided: “That this Act \[enacting this chapter\] may be cited as the ‘Hobby Protection Act’.”
+Pub. L. 93–167, §1, Nov. 29, 1973, 87 Stat. 686, provided: “That this Act \[enacting this chapter\] may be cited as the ‘Hobby Protection Act’.”
 

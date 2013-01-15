@@ -110,15 +110,15 @@ The words “lawful”, “at all times and in all places”, “except as herei
 
 <b>1973</b>—Cl. (2). Pub. L. 93–64, §103(1), in revising cl. (1) of first sentence, substituted “unmarried child” for “unmarried legitimate child” and defined dependent to include an illegitimate child whose alleged member-father has been judicially decreed to be the father of the child or judicially ordered to contribute to the child's support, or whose parentage has been admitted in writing by the member.
 
-Cl. (3). Pub. L. 93–64, §104, in revising cl. (3) of first sentence, substituted “five years before the member became 21 years” for “five years before he became 21 years”, struck out requirement of actual residence of parent in the member's household, and inserted provision respecting determination of dependency of parent, including items (A) and (B), formerly contained in former section 2201 of Appendix to Title 50, War and National Defense.
+Cl. (3). Pub. L. 93–64, §104, in revising cl. (3) of first sentence, substituted “five years before the member became 21 years” for “five years before he became 21 years”, struck out requirement of actual residence of parent in the member's household, and inserted provision respecting determination of dependency of parent, including items (A) and (B), formerly contained informer section 2201 of Appendix to Title 50, War and National Defense.
 
 Closing text. Pub. L. 93–64, §103(2), struck out second sentence, following cl. (3) of first sentence, stating that a person is not a dependent of a female member unless he is in fact dependent on her for over one-half of his support.
 
 #### Effective Date of 1993 Amendment
 
-Section 631(b) of Pub. L. 103–160 provided that: “Section 401(a)(4) of title 37, United States Code, as added by subsection (a), shall apply with respect to determinations of dependency made on or after July 1, 1994.”
+Pub. L. 103–160, div. A, title VI, §631(b), Nov. 30, 1993, 107 Stat. 1684, provided that: “Section 401(a)(4) of title 37, United States Code, as added by subsection (a), shall apply with respect to determinations of dependency made on or after July 1, 1994.”
 
 #### Effective Date of 1973 Amendment
 
-Section 206 of Pub. L. 93–64 provided that: “This Act \[enacting section 1173 of Title 10, Armed Forces, amending this section and sections 302, 302a, 303, 308a, and 403 of this title, and repealing sections 2210 to 2212 of Title 50, Appendix, War and National Defense\] shall become effective July 1, 1973.”
+Pub. L. 93–64, title II, §206, July 9, 1973, 87 Stat. 149, provided that: “This Act \[enacting section 1173 of Title 10, Armed Forces, amending this section and sections 302, 302a, 303, 308a, and 403 of this title, and repealing sections 2210 to 2212 of Title 50, Appendix, War and National Defense\] shall become effective July 1, 1973.”
 

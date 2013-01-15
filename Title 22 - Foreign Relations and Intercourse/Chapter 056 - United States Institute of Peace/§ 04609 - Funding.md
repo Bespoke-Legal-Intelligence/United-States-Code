@@ -42,7 +42,7 @@ Subsec. (d). Pub. L. 110–315, §921(c)(2), added subsec. (d).
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–569 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “For the purpose of carrying out this chapter (except for paragraph (9) of section 4604(b) of this title), there are authorized to be appropriated $6,000,000 for the fiscal year 1987 and $10,000,000 for the fiscal year 1988. Amounts appropriated under this section are authorized to remain available to the Institute until expended.”
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–498 substituted “fiscal year 1987” for “fiscal year 1985”, “fiscal year 1988” for “fiscal year 1986”, and “Amounts appropriated under this section are authorized to remain available to the Institute until expended” for “Moneys appropriated forthe fiscal year 1985 shall remain available to the Institute through the fiscal year 1986”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–498 substituted “fiscal year 1987” for “fiscal year 1985”, “fiscal year 1988” for “fiscal year 1986”, and “Amounts appropriated under this section are authorized to remain available to the Institute until expended” for “Moneys appropriated for the fiscal year 1985 shall remain available to the Institute through the fiscal year 1986”.
 
 #### Effective Date of 1998 Amendment
 
@@ -58,5 +58,5 @@ Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 
 
 #### Effective Date of 1986 Amendment
 
-Section 1601(a)(2) of Pub. L. 99–498 provided that: “The amendments made by paragraph (1) \[amending this section\] shall take effect on October 1, 1986.”
+Pub. L. 99–498, title XVI, §1601(a)(2), Oct. 17, 1986, 100 Stat. 1612, provided that: “The amendments made byparagraph (1) \[amending this section\] shall take effect on October 1, 1986.”
 

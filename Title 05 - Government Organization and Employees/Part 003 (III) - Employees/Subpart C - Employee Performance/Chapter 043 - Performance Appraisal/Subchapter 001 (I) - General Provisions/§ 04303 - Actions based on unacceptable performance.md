@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(B) for which the notice and other requirements of this section are complied with.
 
-(d) If, because of performance improvement by the employee during the notice period, the employee is not reduced in grade or removed, and the employee's performance continues to be acceptable for 1 year from the date of the advancewritten notice provided under subsection (b)(1)(A) of this section, any entry or other notation of the unacceptable performance for which the action was proposed under this section shall be removed from any agency record relating to the employee.
+(d) If, because of performance improvement by the employee during the notice period, the employee is not reduced in grade or removed, and the employee's performance continues to be acceptable for 1 year from the date of the advance written notice provided under subsection (b)(1)(A) of this section, any entry or other notation of the unacceptable performance for which the action was proposed under this section shall be removed from any agency record relating to the employee.
 
 (e) Any employee who is—
 
@@ -80,9 +80,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Effective Date of 1990 Amendment
 
-Section 2(c) of Pub. L. 101–376 provided that: “The amendments made by this section \[amending this section and section 7511 of this title\] shall apply with respect to any personnel action taking effect on or after the effective date of this Act \[see below\].”
+Pub. L. 101–376, §2(c), Aug. 17, 1990, 104 Stat. 462, provided that: “The amendments made by this section \[amending this section and section 7511 of this title\] shall apply with respect to any personnel action taking effect on or after the effective date of this Act \[see below\].”
 
-Section 4 of Pub. L. 101–376 provided that: “This Act and the amendments made by this Act \[amending this section, sections 7511 and 7701 of this title, and enacting provisions set out as notes under this section and section 7501 of this title\] shall become effective on the date of the enactment of this Act \[Aug. 17, 1990\], and, except as provided in section 2(c) \[set out above\], shall apply with respect to any appeal or other proceeding brought on or after such date.”
+Pub. L. 101–376, §4, Aug. 17, 1990, 104 Stat. 463, provided that: “This Act and the amendments made by this Act \[amending this section, sections 7511 and 7701 of this title, and enacting provisions set out as notes under this section and section 7501 of this title\] shall become effective on the date of the enactment of this Act \[Aug. 17, 1990\], and, except as provided in section 2(c) \[set out above\], shall apply with respect to any appeal or other proceeding brought on or after such date.”
 
 #### Effective Date of 1978 Amendment
 

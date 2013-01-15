@@ -10,7 +10,7 @@ Upon receipt of the report of said commission, the Secretary of the Interior is 
 
 #### Change of Name
 
-“National battlefield” and “battlefield” substituted in text for “national military park” and “park”, respectively, in view of redesignation of Stones River National Military Park as Stones River National Battlefield by Pub. L. 86–443. See section 426<i>l</i> of this title.
+“National battlefield” and “battlefield” substituted in text for “national military park” and “park”, respectively, in view of redesignation of Stones River National Military Park as Stones River National Battlefield by Pub. L. 86–443. See section 426l of this title.
 
 #### Transfer of Functions
 

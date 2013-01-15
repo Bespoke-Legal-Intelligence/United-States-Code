@@ -56,7 +56,7 @@ General Requirements of Study.—The study shall identify any problems associate
 
 “(c)
 
-Specific Requirements.—The study under this section shall include research at the following units of the National Park System: Cumberland Island National Seashore, Yosemite National Park, Hawai‘i Volcanoes National Park, Haleakala�AE8 National Park, Glacier National Park, and Mount Rushmore National Memorial, and at no less than four additional units of the National Park System, excluding all National Park System units in the State of Alaska. The research at each such unit shall provide information and an evaluation regarding each of the following:
+Specific Requirements.—The study under this section shall include research at the following units of the National Park System: Cumberland Island National Seashore, Yosemite National Park, Hawai‘i Volcanoes National Park, Haleakalā National Park, Glacier National Park, and Mount Rushmore National Memorial, and at no less than four additional units of the National Park System, excluding all National Park System units in the State of Alaska. The research at each such unit shall provide information and an evaluation regarding each of the following:
 
 &emsp;“(1) the impacts of aircraft noise on the safety of the park system users, including hikers, rock-climbers, and boaters;
 
@@ -80,7 +80,7 @@ FAA Review of Rules.—The Administrator shall review current rules and regulati
 
 Authorization.—There are authorized to be appropriated such sums as may be necessary to carry out the studies and review under this section.
 
-#### “SEC. 2. FLIGHTS OVER YOSEMITE AND HALEAKALA�AE8 DURING STUDY AND REVIEW.
+#### “SEC. 2. FLIGHTS OVER YOSEMITE AND HALEAKALĀ DURING STUDY AND REVIEW.
 
 “(a)
 
@@ -88,7 +88,7 @@ Yosemite National Park.—During the study and review periods provided in subsec
 
 “(b)
 
-Haleakala�AE8 National Park.—During the study and review periods provided in subsection (c), it shall be unlawful for any fixed wing aircraft or helicopter flying under visual flight rules to fly at an altitude below 9,500 feet above mean sea level over the surface of any of the following areas in Haleakala�AE8 National Park: Haleakala Crater, Crater Cabins, the Scientific Research Reserve, Halemauu Trail, Kaupo Gap Trail, or any designated tourist viewpoint.
+Haleakalā National Park.—During the study and review periods provided in subsection (c), it shall be unlawful for any fixed wing aircraft or helicopter flying under visual flight rules to fly at an altitude below 9,500 feet above mean sea level over the surface of any of the following areas in Haleakalā National Park: Haleakala Crater, Crater Cabins, the Scientific Research Reserve, Halemauu Trail, Kaupo Gap Trail, or any designated tourist viewpoint.
 
 “(c)
 

@@ -120,7 +120,7 @@
 
 &emsp;&emsp;(I) be based on the best scientific information available;
 
-&emsp;&emsp;(J) not affect or supersede any requirements or prohibitions pertaining to the discharge of ballast water into waters of the United States under the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.); and
+&emsp;&emsp;(J) not affect or supersede any requirements or prohibitions pertaining to the discharge of ballast water into waters of theUnited States under the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.); and
 
 &emsp;&emsp;(K) provide an exemption from ballast water exchange requirements to passenger vessels with operating ballast water systems that are equipped with treatment systems designed to kill aquatic organisms in ballast water, unless the Secretary determines that such treatment systems are less effective than ballast water exchange at reducing the risk of transfers of invasive species in the ballast water of passenger vessels; and
 
@@ -200,13 +200,13 @@ Not sooner than 24 months after the date of issuance of guidelines pursuant to s
 
 #### (3) International regulations
 
-&emsp;The Secretary shall revise regulations promulgated under this subsection to the extent required to make such regulations consistent with the treatment of a particular matter in any international agreement, agreed to by the United States, governing management of thetransfer of nonindigenous aquatic species by vessel.
+&emsp;The Secretary shall revise regulations promulgated under this subsection to the extent required to make such regulations consistent with the treatment of a particular matter in any international agreement, agreed to by the United States, governing management of the transfer of nonindigenous aquatic species by vessel.
 
 #### (g) Sanctions
 
 #### (1) Civil penalties
 
-&emsp;Any person who violates a regulation promulgated under subsection (b) or (f) of this section shall be liable for a civil penalty in an amount not to exceed $25,000. Each day of a continuing violation constitutes a separate violation. A vessel operated in violation of the regulations is liable in rem for any civil penalty assessed under this subsection for that violation.
+&emsp;Any person who violates a regulation promulgated under subsection (b) or (f) of this section shall be liable for a civil penalty in an amount not to exceed $25,000. Each day of a continuing violation constitutes a separateviolation. A vessel operated in violation of the regulations is liable in rem for any civil penalty assessed under this subsection for that violation.
 
 #### (2) Criminal penalties
 
@@ -258,7 +258,7 @@ The Secretary, in cooperation with the International Maritime Organization of th
 
 &emsp;(B) The study required under subparagraph (A) shall be submitted to the Congress by no later than October 1, 1997.
 
-#### (<i>l</i>) Non-discrimination
+#### (l) Non-discrimination
 
 The Secretary shall ensure that vessels registered outside of the United States do not receive more favorable treatment than vessels registered in the United States when the Secretary performs studies, reviews compliance, determines effectiveness, establishes requirements, or performs any other responsibilities under this chapter.
 
@@ -268,17 +268,17 @@ The Secretary shall ensure that vessels registered outside of the United States 
 
 The Federal Water Pollution Control Act, referred to in subsecs. (b)(2)(C) and (c)(2)(J), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
-This chapter, referred to in subsecs. (e)(1)(A), (g)(4)(B), and (<i>l</i>), was in the original “this Act” or “the Act”, which, to reflect the probable intent of Congress, was translated as reading “this title” meaning title I of Pub. L. 101–646, Nov. 29, 1990, 104 Stat. 4761, known as the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsecs. (e)(1)(A), (g)(4)(B), and (l), was in the original “this Act” or “the Act”, which, to reflect the probable intent of Congress, was translated as reading “this title” meaning title I of Pub. L. 101–646, Nov. 29, 1990, 104 Stat. 4761, known as the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out below and Tables.
 
 #### Codification
 
-In subsec. (g)(3), “section 60105 of title 46” substituted for “section 4197 of the Revised Statutes (46 U.S.C. App. 91)” on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 60105 of Title 46, Shipping.
+In subsec. (g)(3), “section 60105 of title 46” substituted for “section 4197 of the Revised Statutes (46 U.S.C. App.91)” on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 60105 of Title 46, Shipping.
 
 October 26, 1996, referred to in subsec. (k)(3), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 104–332, which amended this section generally, to reflect the probable intent of Congress.
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–332 amended section generally, substituting subsecs. (a) to (<i>l</i>) relating to aquatic nuisance species in waters of the United States for former subsecs. (a) to (e) relating to aquatic nuisance species in the Great Lakes.
+<b>1996</b>—Pub. L. 104–332 amended section generally, substituting subsecs. (a) to (l) relating to aquatic nuisance species in waters of the United States for former subsecs. (a) to (e) relating to aquatic nuisance species in the Great Lakes.
 
 <b>1992</b>—Subsec. (b)(3). Pub. L. 102–580 and Pub. L. 102–587 made substantively identical amendments, adding par. (3). Par. (3) is based on text of Pub. L. 102–587.
 

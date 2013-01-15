@@ -1,22 +1,6 @@
 ### §404i. Additional annual reports from the Director of National Intelligence
 
-#### (a) Annual report on the safety and security of Russian nuclear facilities and nuclear military forces
-
-(1) The Director of National Intelligence shall submit to the congressional leadership on an annual basis, and to the congressional intelligence committees on the date each year provided in section 415b of this title, an intelligence report assessing the safety and security of the nuclear facilities and nuclear military forces in Russia.
-
-(2) Each such report shall include a discussion of the following:
-
-&emsp;(A) The ability of the Government of Russia to maintain its nuclear military forces.
-
-&emsp;(B) The security arrangements at civilian and military nuclear facilities in Russia.
-
-&emsp;(C) The reliability of controls and safety systems at civilian nuclear facilities in Russia.
-
-&emsp;(D) The reliability of command and control systems and procedures of the nuclear military forces in Russia.
-
-(3) Each such report shall be submitted in unclassified form, but may contain a classified annex.
-
-#### (b) Annual report on hiring and retention of minority employees
+#### (a) Annual report on hiring and retention of minority employees
 
 (1) The Director of National Intelligence shall, on an annual basis, submit to Congress a report on the employment of covered persons within each element of the intelligence community for the preceding fiscal year.
 
@@ -44,7 +28,7 @@
 
 &emsp;(C) individuals with disabilities.
 
-#### (c) Annual report on threat of attack on the United States using weapons of mass destruction
+#### (b) Annual report on threat of attack on the United States using weapons of mass destruction
 
 (1) Not later each year than the date provided in section 415b of this title, the Director of National Intelligence shall submit to the congressional committees specified in paragraph (3) a report assessing the following:
 
@@ -62,17 +46,15 @@
 
 &emsp;(C) The Committees on International Relations and Armed Services of the House of Representatives.
 
-#### (d) Congressional leadership defined
-
-In this section, the term “congressional leadership” means the Speaker and the minority leader of the House of Representatives and the majority leader and the minority leader of the Senate.
-
-(July 26, 1947, ch. 343, title I, §114, as added Pub. L. 105–272, title III, §307(a), Oct. 20, 1998, 112 Stat. 2401; amended Pub. L. 107–306, title III, §§324, 353(b)(6), title VIII, §§811(b)(1)(D), 821, 822, Nov. 27, 2002, 116 Stat. 2393, 2402, 2422, 2426, 2427; Pub. L. 108–177, title III, §361(c), (d), Dec. 13, 2003, 117 Stat. 2625; Pub. L. 108–458, title I, §1071(a)(1)(N), (O), (3)(A), (7), Dec. 17, 2004, 118 Stat. 3689, 3690.)
+(July 26, 1947, ch. 343, title I, §114, as added Pub. L. 105–272, title III, §307(a), Oct. 20, 1998, 112 Stat. 2401; amended Pub. L. 107–306, title III, §§324, 353(b)(6), title VIII, §§811(b)(1)(D), 821, 822, Nov. 27, 2002, 116 Stat. 2393, 2402, 2422, 2426, 2427; Pub. L. 108–177, title III, §361(c), (d), Dec. 13, 2003, 117 Stat. 2625; Pub. L. 108–458, title I, §1071(a)(1)(N), (O), (3)(A), (7), Dec. 17, 2004, 118 Stat. 3689, 3690; Pub. L. 112–277, title III, §310(a)(2), Jan. 14, 2013, 126 Stat. 2474.)
 
 #### References in Text
 
-The General Schedule, referred to in subsec. (b)(2)(B), is set out under section 5332 of Title 5, Government Organization and Employees.
+The General Schedule, referred to in subsec. (a)(2)(B), is set out under section 5332 of Title 5, Government Organization and Employees.
 
 #### Amendments
+
+<b>2013</b>—Pub. L. 112–277 redesignated subsecs. (b) and (c) as (a) and (b), respectively, struck out former subsec. (a) which required annual reports on the safety and security of Russian nuclear facilities and nuclear military forces, and struck out subsec. (d) which defined the term “congressional leadership”.
 
 <b>2004</b>—Pub. L. 108–458, §1071(a)(7), substituted “Additional annual reports from the Director of National Intelligence” for “Additional annual reports from the Director of Central Intelligence” in section catchline.
 
@@ -100,7 +82,7 @@ Subsec. (f). Pub. L. 108–177, §361(c)(2), redesignated subsec. (f) as (e).
 
 Subsec. (a)(2) to (4). Pub. L. 107–306, §811(b)(1)(D)(i)(II), (III), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
-Subsec. (b)(1). Pub. L. 107–306, §811(b)(1)(D)(ii), substituted “submit to the congressional leadership on an annual basis, and to the congressional intelligencecommittees on the date each year provided in section 415b of this title,” for “, on an annual basis, submit to the congressional intelligence committees and the congressional leadership”.
+Subsec. (b)(1). Pub. L. 107–306, §811(b)(1)(D)(ii), substituted “submit to the congressional leadership on an annual basis, and to the congressional intelligence committees on the date each year provided in section 415b of this title,” for “, on an annual basis, submit to the congressional intelligence committees and the congressional leadership”.
 
 Subsec. (c). Pub. L. 107–306, §324(2), added subsec. (c). Former subsec. (c) redesignated (d).
 

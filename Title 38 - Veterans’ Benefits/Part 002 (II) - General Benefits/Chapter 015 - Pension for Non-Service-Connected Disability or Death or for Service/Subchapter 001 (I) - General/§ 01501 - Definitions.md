@@ -34,11 +34,11 @@ Amendment by Pub. L. 95–588 effective Jan. 1, 1979, see section 401 of Pub. L.
 
 #### Effective Date of 1975 Amendment
 
-Section 106 of Pub. L. 94–169 provided that the amendment made by that section is effective Jan. 1, 1976.
+Pub. L. 94–169, title I, §106, Dec. 23, 1975, 89 Stat. 1017, provided that the amendment made by that section is effective Jan. 1, 1976.
 
 #### Pension Program for Nonservice-Connected Disability or Death; Report by Administrator
 
-Pub. L. 94–432, title IV, §404, Sept. 30, 1976, 90 Stat. 1372, provided that, due to certain insufficiencies in pension program for nonservice-connected disability or death authorized by this chapter, and lack of sufficient long-range information as to actual and anticipated financial characteristics of potential pensioners and their families upon which to estimate costs of existing alternative pension programs, it was necessary for Administrator of Veterans’ Affairs to study existing and alternative nonservice-connected pension programs and to submit a report to Congress and the President not later than Oct. 1, 1977, on alternative courses of legislative and administrative action and long-range cost estimates therefor.
+Pub. L. 94–432, title IV, §404, Sept. 30, 1976, 90 Stat. 1372, provided that, due to certain insufficiencies inpension program for nonservice-connected disability or death authorized by this chapter, and lack of sufficient long-range information as to actual and anticipated financial characteristics of potential pensioners and their families upon which to estimate costs of existing alternative pension programs, it was necessary for Administrator of Veterans’ Affairs to study existing and alternative nonservice-connected pension programs and to submit a report to Congress and the President not later than Oct. 1, 1977, on alternative courses of legislative and administrative action and long-range cost estimates therefor.
 
 #### Study of Needs and Problems of Veterans and Their Widows Seventy-Two Years of Age or Older; Report by Administrator
 

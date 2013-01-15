@@ -76,5 +76,5 @@ Pub. L. 107–14, §7(d)(2), June 5, 2001, 115 Stat. 33, provided that: “The a
 
 #### Effective Date
 
-Section 101(c) of Pub. L. 100–689 provided that: “The amendments made by this section \[enacting this section\] shall take effect as of July 1, 1985.”
+Pub. L. 100–689, title I, §101(c), Nov. 18, 1988, 102 Stat. 4162, provided that: “The amendments made by this section \[enacting this section\] shall take effect as of July 1, 1985.”
 

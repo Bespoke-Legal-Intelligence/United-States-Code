@@ -54,7 +54,7 @@ In this division:
 
 #### Codification
 
-Section was formerly classified to section 12653<i>o</i> of this title prior to renumbering by Pub. L. 103–82, §104(b).
+Section was formerly classified to section 12653o of this title prior to renumbering by Pub. L. 103–82, §104(b).
 
 #### Prior Provisions
 

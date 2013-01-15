@@ -92,15 +92,17 @@ Relationship to Other Pays and Allowances.—A member may not be paid more than 
 
 (i)
 
-Termination of Authority.—No agreement may be entered into under this section after December 31, 2012.
+Termination of Authority.—No agreement may be entered into under this section after December 31, 2013.
 
-(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 175; amended Pub. L. 110–417, \[div. A\], title VI, §619(a), Oct. 14, 2008, 122 Stat. 4487; Pub. L. 111–84, div. A, title VI, §§614(8), 618(d), Oct. 28, 2009, 123 Stat. 2354, 2356; Pub. L. 111–383, div. A, title VI, §614(8), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §614(8), Dec. 31, 2011, 125 Stat. 1450.)
+(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 175; amended Pub. L. 110–417, \[div. A\], title VI, §619(a), Oct. 14, 2008, 122 Stat. 4487; Pub. L. 111–84, div. A, title VI, §§614(8), 618(d), Oct. 28, 2009, 123 Stat. 2354, 2356; Pub. L. 111–383, div. A, title VI, §614(8), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §614(8), Dec. 31, 2011, 125 Stat. 1450; Pub. L. 112–239, div. A, title VI, §614(8), Jan. 2, 2013, 126 Stat. 1777.)
 
 #### References in Text
 
 Subsection (g)(2), referred to in subsec. (b)(2), was redesignated subsec. (f)(2) by Pub. L. 111–84, div. A, title VI, §618(d)(1), Oct. 28, 2009, 123 Stat. 2356.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (i). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
 
 <b>2011</b>—Subsec. (i). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
 
@@ -128,7 +130,7 @@ Pub. L. 110–417, \[div. A\], title VI, §619(c), Oct. 14, 2008, 122 Stat. 4489
 
 “(1)
 
-Pilot program required.—The Secretary of Defense shall conduct a pilot program to provide a skill proficiency bonus under section 353(b) of title 37,United States Code, to a member of a reserve component of the uniformed services who is entitled to compensation under section 206 of such title while the member participates in an education or training program to acquire proficiency in a critical foreign language or expertise in foreign cultural studies or a related skill designated as critical under such section 353.
+Pilot program required.—The Secretary of Defense shall conduct a pilot program to provide a skill proficiency bonus under section 353(b) of title 37, United States Code, to a member of a reserve component of the uniformed services who is entitled to compensation under section 206 of such title while the member participates in an education or training program to acquire proficiency in a critical foreign language or expertise in foreign cultural studies or a related skill designated as critical under such section 353.
 
 “(2)
 

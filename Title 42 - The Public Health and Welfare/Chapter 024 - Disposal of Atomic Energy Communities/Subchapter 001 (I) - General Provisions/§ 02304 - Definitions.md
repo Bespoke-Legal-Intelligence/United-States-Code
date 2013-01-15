@@ -42,7 +42,7 @@ The intent of Congress in the definitions as given in this section should be con
 
 &emsp;(2) a project-connected person who is entitled, in accordance with a lease or similar agreement, to residential occupancy of privately owned rental housing in the community.
 
-(<i>l</i>) The term “utility” means any electrical distribution system, any natural gas distribution system, any public transportation system, or any public communication system, and any fixtures, equipment, or other property appropriate to the operation, maintenance or repair of the foregoing.
+(l) The term “utility” means any electrical distribution system, any natural gas distribution system, any public transportation system, or any public communication system, and any fixtures, equipment, or other property appropriate to the operation, maintenance or repair of the foregoing.
 
 (m) The terms “single” and “single family” when used in connection with “house” or “residential property” shall include each separate unit of a residential structure which the Commission has classified as a residential structure containing two or more separate single family units pursuant to section 2331(c) of this title.
 
@@ -54,11 +54,11 @@ The intent of Congress in the definitions as given in this section should be con
 
 Subsec. (i). Pub. L. 87–719, §2, included in definition of “project area” the County of Los Alamos, New Mexico, excluding land under administrative control of the National Park Service.
 
-Subsec. (<i>l</i>). Pub. L. 87–719, §3, included in definition of “utility” any natural gas distribution system.
+Subsec. (l). Pub. L. 87–719, §3, included in definition of “utility” any natural gas distribution system.
 
 Subsec. (m). Pub. L. 87–719, §4, added subsec. (m).
 
 #### Transfer of Functions
 
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. Seealso Transfer of Functions notes set out under those sections.
+Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
 

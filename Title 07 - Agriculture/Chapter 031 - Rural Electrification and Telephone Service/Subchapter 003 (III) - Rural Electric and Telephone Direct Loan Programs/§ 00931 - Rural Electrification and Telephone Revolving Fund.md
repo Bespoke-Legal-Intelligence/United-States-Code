@@ -8,7 +8,7 @@ There is hereby established in the Treasury of the United States a fund, to be k
 
 &emsp;(3) all collections of principal and interest received on and after July 1, 1972, on notes, bonds, judgments, or other obligations made or held under subchapters I and II of this chapter and under this subchapter, except for net collection proceeds previously appropriated for the purchase of class A stock in the Rural Telephone Bank, which shall be paid into and be assets of the fund;
 
-&emsp;(4) all appropriations for interest subsidies and losses required under this subchapter which may hereafter be made by the Congress and the unobligated balances of any funds made available for loans under the item “Rural Electrification Administration” in the Department of Agriculture and Agriculture-Environmental and Consumer Protection Appropriations Acts;
+&emsp;(4) all appropriations for interest subsidies and losses required under this subchapter which may hereafter be made by the Congress and the unobligated balances of any funds made available for loans under the item “Rural Electrification Administration” in theDepartment of Agriculture and Agriculture-Environmental and Consumer Protection Appropriations Acts;
 
 &emsp;(5) moneys borrowed from the Secretary of the Treasury pursuant to section 934(a) of this title; and
 
@@ -28,7 +28,7 @@ Section 905 of this title, referred to in pars. (1) and (2), was repealed by Pub
 
 <b>1976</b>—Subsec. (a)(4). Pub. L. 94–570 provided for inclusion in the fund the unobligated balances of any funds made available for loans under item “Rural Electrification Administration” in the Department of Agriculture and Agriculture-Environmental and Consumer Protection Appropriation Acts.
 
-<b>1973</b>—Pub. L. 93–32 substituted provisions establishing the Rural Electrification and Telephone RevolvingFund and enumerating its constituent parts, for provisions establishing a rural telephone account in the United States Treasury.
+<b>1973</b>—Pub. L. 93–32 substituted provisions establishing the Rural Electrification and Telephone Revolving Fund and enumerating its constituent parts, for provisions establishing a rural telephone account in the United States Treasury.
 
 #### Effective Date of 1976 Amendment
 

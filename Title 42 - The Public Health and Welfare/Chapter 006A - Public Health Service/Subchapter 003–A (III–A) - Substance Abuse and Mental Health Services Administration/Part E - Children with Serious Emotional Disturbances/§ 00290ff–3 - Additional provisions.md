@@ -10,7 +10,7 @@ In addition to services described in subsection (c) of section 290ff–1 of this
 
 &emsp;&emsp;(A) the administration of the system;
 
-&emsp;&emsp;(B) the provision of intensive home-based services under paragraph (4) of section290ff–1(c) of this title, intensive day treatment under paragraph (5) of such section, and foster care or group homes under paragraph (7) of such section; and
+&emsp;&emsp;(B) the provision of intensive home-based services under paragraph (4) of section 290ff–1(c) of this title, intensive day treatment under paragraph (5) of such section, and foster care or group homes under paragraph (7) of such section; and
 
 &emsp;&emsp;(C) the development of individualized plans for purposes of section 290ff–2 of this title;
 

@@ -168,7 +168,7 @@ Not later than 60 days after the date of receipt by Congress and the President o
 
 &emsp;(2) ensure that States that have entered into agreements with the Commission under section 2021(b) of this title take similar action in a timely manner.
 
-(Aug. 1, 1946, ch. 724, title I, §170H, as added Pub. L. 109–58, title VI, §651(d)(1), Aug. 8, 2005, 119Stat. 802; amended Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410.)
+(Aug. 1, 1946, ch. 724, title I, §170H, as added Pub. L. 109–58, title VI, §651(d)(1), Aug. 8, 2005, 119 Stat. 802; amended Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410.)
 
 #### Change of Name
 

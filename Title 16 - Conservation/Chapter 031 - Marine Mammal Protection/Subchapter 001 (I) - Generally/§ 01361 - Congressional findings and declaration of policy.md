@@ -4,7 +4,7 @@ The Congress finds that—
 
 &emsp;(1) certain species and population stocks of marine mammals are, or may be, in danger of extinction or depletion as a result of man's activities;
 
-&emsp;(2) such species and population stocks should not be permitted to diminish beyond the point at which they cease to be a significant functioning element in the ecosystem of which they are a part, and, consistent with thismajor objective, they should not be permitted to diminish below their optimum sustainable population. Further measures should be immediately taken to replenish any species or population stock which has already diminished below that population. In particular, efforts should be made to protect essential habitats, including the rookeries, mating grounds, and areas of similar significance for each species of marine mammal from the adverse effect of man's actions;
+&emsp;(2) such species and population stocks should not be permitted to diminish beyond the point at which they cease to be a significant functioning element in the ecosystem of which they are a part, and, consistent with this major objective, they should not be permitted to diminish below their optimum sustainable population. Further measures should be immediately taken to replenish any species or population stock which has already diminished below that population. In particular, efforts should be made to protect essential habitats, including the rookeries, mating grounds, and areas of similar significance for each species of marine mammal from the adverse effect of man's actions;
 
 &emsp;(3) there is inadequate knowledge of the ecology and population dynamics of such marine mammals and of the factors which bear upon their ability to reproduce themselves successfully;
 
@@ -32,7 +32,7 @@ Par. (5). Pub. L. 103–238, §3(2), inserted “and their habitats” before �
 
 #### Effective Date
 
-Section 4 of Pub. L. 92–522 provided that: “The provisions of this Act \[enacting this chapter\] shall take effect upon the expiration of the sixty-day period following the date of its enactment \[Oct. 21, 1972\].”
+Pub. L. 92–522, §4, Oct. 21, 1972, 86 Stat. 1029, provided that: “The provisions of this Act \[enacting this chapter\] shall take effect upon the expiration of the sixty-day period following the date of its enactment \[Oct. 21, 1972\].”
 
 #### Short Title of 2007 Amendment
 
@@ -50,7 +50,7 @@ Pub. L. 105–42, §1(a), Aug. 15, 1997, 111 Stat. 1122, provided that: “This 
 
 #### Short Title of 1994 Amendment
 
-Section 1 of Pub. L. 103–238 provided that: “This Act \[enacting sections 1386 to 1389 of this title, amending this section and sections 1362, 1371, 1372, 1374, 1375, 1379, 1380, 1382 to 1384, 1407, 1421 to 1421h, and 4107 of this title, repealing sections 1384 and 1407 of this title, and enacting provisions set out as notes under this section and sections 1362, 1374, 1538, and 1539 of this title\] may be cited as the ‘Marine Mammal Protection Act Amendments of 1994’.”
+Pub. L. 103–238, §1, Apr. 30, 1994, 108 Stat. 532, provided that: “This Act \[enacting sections 1386 to 1389 of this title, amending this section and sections 1362, 1371, 1372, 1374, 1375, 1379, 1380, 1382 to 1384, 1407, 1421 to 1421h, and 4107 of this title, repealing sections 1384 and 1407 of this title, and enacting provisions set out as notes under this section and sections 1362, 1374, 1538, and 1539 of this title\] may be cited as the ‘Marine Mammal Protection Act Amendments of 1994’.”
 
 #### Short Title of 1992 Amendments
 
@@ -64,11 +64,11 @@ Pub. L. 100–711, §1, Nov. 23, 1988, 102 Stat. 4755, provided: “That this Ac
 
 #### Short Title
 
-Section 1 of Pub. L. 92–522 provided in part that: “This Act \[enacting this chapter\] may be cited as the ‘Marine Mammal Protection Act of 1972’.”
+Pub. L. 92–522, §1, Oct. 21, 1972, 86 Stat. 1027, provided in part that: “This Act \[enacting this chapter\] may be cited as the ‘Marine Mammal Protection Act of 1972’.”
 
 #### Regulations
 
-Section 15(b) of Pub. L. 103–238 provided that: “Except as provided otherwise in this Act \[see Short Title of 1994 Amendment note above\], or the amendments to the Marine Mammal Protection Act of 1972 (16 U.S.C. 1361et seq.) made by this Act, the Secretary of Commerce or the Secretary of the Interior, as appropriate, shall, after notice and opportunity for public comment, promulgate regulations to implement this Act and the amendments made by this Act by January 1, 1995.”
+Pub. L. 103–238, §15(b), Apr. 30, 1994, 108 Stat. 559, provided that: “Except as provided otherwise in this Act \[see Short Title of 1994 Amendment note above\], or the amendments to the Marine Mammal Protection Act of 1972 (16 U.S.C. 1361 et seq.) made by this Act, the Secretary of Commerce or the Secretary of the Interior, as appropriate, shall, after notice and opportunity for public comment, promulgate regulations to implement this Act and the amendments made by this Act by January 1, 1995.”
 
 #### Purposes and Findings
 
@@ -98,11 +98,11 @@ Findings.—The Congress finds that—
 
 #### Relationship of Marine Mammal Protection Act Amendments of 1994 to Other Law
 
-Section 2(b) of Pub. L. 103–238 provided that: “Except as otherwise expressly provided, nothing in this Act \[see Short Title of 1994 Amendment note above\] is intended to amend, repeal, or otherwise affect any other provision of law.”
+Pub. L. 103–238, §2(b), Apr. 30, 1994, 108 Stat. 532, provided that: “Except as otherwise expressly provided, nothing in this Act \[see Short Title of 1994 Amendmentnote above\] is intended to amend, repeal, or otherwise affect any other provision of law.”
 
 #### Indian Treaty Rights; Alaska Native Subsistence
 
-Section 14 of Pub. L. 103–238 provided that: “Nothing in this Act \[see Short Title of 1994 Amendment note above\], including any amendments to the Marine Mammal Protection Act of 1972 \[16 U.S.C. 1361 et seq.\] made by this Act—
+Pub. L. 103–238, §14, Apr. 30, 1994, 108 Stat. 558, provided that: “Nothing in this Act \[see Short Title of 1994 Amendment note above\], including any amendments to the Marine Mammal Protection Act of 1972 \[16 U.S.C. 1361 et seq.\] made by this Act—
 
 &emsp;“(1) alters or is intended to alter any treaty between the United States and one or more Indian tribes; or
 

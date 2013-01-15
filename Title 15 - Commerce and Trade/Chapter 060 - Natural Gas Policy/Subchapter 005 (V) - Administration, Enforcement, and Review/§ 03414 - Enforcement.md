@@ -18,7 +18,7 @@ It shall be unlawful for any person to violate any provision of this chapter or 
 
 #### (4) Relief available
 
-&emsp;In any action under paragraph (1) or (2), the court shall, upon a proper showing, issue atemporary restraining order or preliminary or permanent injunction without bond. In any such action, the court may also issue a mandatory injunction commanding any person to comply with any applicable provision of law, rule, or order, or ordering such other legal or equitable relief as the court determines appropriate, including refund or restitution.
+&emsp;In any action under paragraph (1) or (2), the court shall, upon a proper showing, issue a temporary restraining order or preliminary or permanent injunction without bond. In any such action, the court may also issue a mandatory injunction commanding any person to comply with any applicable provision of law, rule, or order, or ordering such other legal or equitable relief as the court determines appropriate, including refund or restitution.
 
 #### (5) Criminal referral
 
@@ -48,7 +48,7 @@ It shall be unlawful for any person to violate any provision of this chapter or 
 
 #### (D) Statute of limitations
 
-&emsp;&emsp;No person shall be subject to any civil penalty under this paragraph with respect to any violation occurring more than 3 years before the date on which such person is provided notice of the proposed penalty under subparagraph (E). The preceding sentence shall not apply in any case in which an untrue statement of material fact was made to the Commission or a State or Federal agency by, or acquiesced to by, the violator with respect to the acts or omissions constituting such violation, or if there was omitted a material fact necessary in order to make any statement made by, or acquiesced to by, the violator with respect to such acts or omissions not misleading in light of circumstances under such statement was made.
+&emsp;&emsp;No person shall be subject to any civil penalty under this paragraph with respect to any violation occurring more than 3 yearsbefore the date on which such person is provided notice of the proposed penalty under subparagraph (E). The preceding sentence shall not apply in any case in which an untrue statement of material fact was made to the Commission or a State or Federal agency by, or acquiesced to by, the violator with respect to the acts or omissions constituting such violation, or if there was omitted a material fact necessary in order to make any statement made by, or acquiesced to by, the violator with respect to such acts or omissions not misleading in light of circumstances under such statement was made.
 
 #### (E) Assessed by Commission
 

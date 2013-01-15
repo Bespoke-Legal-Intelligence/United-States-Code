@@ -16,9 +16,9 @@ With respect to the additional amounts authorized to be appropriated by section 
 
 &emsp;(2) Costs allocated to irrigation water service and capable of being repaid by the irrigation water users shall be reimbursed within 50 years of the year in which the work undertaken pursuant to this subchapter is substantially complete. Costs allocated to irrigation water service which are beyond the water users’ ability to pay shall be reimbursed in accordance with existing law.
 
-&emsp;(3) Costs allocated to recreation or fish and wildlife enhancement shall be reimbursed in accordance with the Federal Water Project Recreation Act (79 Stat. 213), as amended \[16 U.S.C. 460<i>l</i>–12 et seq.\].
+&emsp;(3) Costs allocated to recreation or fish and wildlife enhancement shall be reimbursed in accordance with the Federal Water Project Recreation Act (79 Stat. 213), as amended \[16 U.S.C. 460l–12 et seq.\].
 
-&emsp;(4) Costs allocated to the purpose of municipal, industrial, and miscellaneous water service, commercial power, and the portion of recreation and fish and wildlife enhancement costs reimbursable under the Federal Water Project Recreation Act \[16 U.S.C. 460<i>l</i>–12 et seq.\], shall be repaid within 50 years with interest. The interest rate used shall be determined by the Secretary of the Treasury, taking into consideration average market yields on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the applicable reimbursement period during the month preceding the fiscal year in which the costs are incurred. To the extent that more than one interest rate is determined pursuant to the preceding sentence, the Secretary of the Treasury shall establish an interest rate at the weighted average of the rates so determined.
+&emsp;(4) Costs allocated to the purpose of municipal, industrial, and miscellaneous water service, commercial power, and the portion of recreation and fish and wildlife enhancement costs reimbursable under the Federal Water Project Recreation Act \[16 U.S.C. 460l–12 et seq.\], shall be repaid within 50 years with interest. The interest rate used shall be determined by the Secretary of the Treasury, taking into consideration average market yields on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the applicable reimbursement period during the month preceding the fiscal year in which the costs are incurred. To the extent that more than one interest rate is determined pursuant to the preceding sentence, the Secretary of the Treasury shall establish an interest rate at the weighted average of the rates so determined.
 
 #### (d) Contracts for return of costs
 
@@ -38,7 +38,7 @@ The $100,000,000 authorized to be appropriated in the Reclamation Safety of Dams
 
 The Federal Reclamation law, referred to in subsec. (b), probably means act June 17, 1902, ch. 1093, 32 Stat. 388, and Acts amendatory thereof and supplementary thereto. See section 506 of this title. Act June 17, 1902, popularly known as the Reclamation Act, is classified generally to this chapter. For complete classification of act June 17, 1902, to the Code, see Short Title note set out under section 371 of this title and Tables.
 
-The Federal Water Project Recreation Act, referred to in subsec. (c)(3), (4), is Pub. L. 89–72, July 9, 1965, 79 Stat. 213, as amended, which is classified principally to part C (§460<i>l</i>–12 et seq.) of subchapter LXIX of chapter 1 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 460<i>l</i>–12 of Title 16 and Tables.
+The Federal Water Project Recreation Act, referred to in subsec. (c)(3), (4), is Pub. L. 89–72, July 9, 1965, 79 Stat. 213, as amended, which is classified principally to part C (§460l–12 et seq.) of subchapter LXIX of chapter 1 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 460l–12 of Title 16 and Tables.
 
 #### Amendments
 

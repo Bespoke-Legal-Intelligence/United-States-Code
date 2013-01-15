@@ -34,7 +34,7 @@ For purposes of this section, the term “owner” includes any charterer of a v
 
 #### Congressional Findings
 
-Section 401 of Pub. L. 104–43 provided that: “The Congress finds that—
+Pub. L. 104–43, title IV, §401, Nov. 3, 1995, 109 Stat. 388, provided that: “The Congress finds that—
 
 &emsp;“(1) customary international law and the United Nations Convention on the Law of the Sea guarantee the right of passage, including innocent passage, to vessels through the waters commonly referred to as the ‘Inside Passage’ off the Pacific Coast of Canada;
 

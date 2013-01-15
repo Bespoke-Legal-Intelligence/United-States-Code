@@ -62,7 +62,7 @@ To the maximum extent feasible, activities undertaken to achieve the objectives 
 
 #### (g) Assistance for development of compact
 
-Notwithstanding subsection (a), the Chief Executive Officer may enter into contracts ormake grants for any eligible country for the purpose of facilitating the development and implementation of the Compact between the United States and the country.
+Notwithstanding subsection (a), the Chief Executive Officer may enter into contracts or make grants for any eligible country for the purpose of facilitating the development and implementation of the Compact between the United States and the country.
 
 #### (h) Requirement for approval by the Board
 

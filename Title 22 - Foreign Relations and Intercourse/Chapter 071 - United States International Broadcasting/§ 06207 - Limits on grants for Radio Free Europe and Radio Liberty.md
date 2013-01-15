@@ -50,7 +50,7 @@ No grant funds provided under this section may be used for the following purpose
 
 &emsp;(1)(A) Except as provided in subparagraph (B) or (C), to pay any salary or other compensation, or enter into any contract providing for the payment of salary or compensation in excess of the rates established for comparable positions under title 5 or the foreign relations laws of the United States, except that no employee may be paid a salary or other compensation in excess of the rate of pay payable for level IV of the Executive Schedule under section 5315 of title 5.
 
-&emsp;(B) Salary and other compensation limitations under subparagraph (A) shall not apply prior to October 1, 1995, with respect to any employee covered by a union agreement requiring a salary or other compensation in excess of such limitations.
+&emsp;(B) Salary and other compensation limitations under subparagraph (A) shall not apply prior to October 1, 1995, with respect to anyemployee covered by a union agreement requiring a salary or other compensation in excess of such limitations.
 
 &emsp;(C) Notwithstanding the limitations under subparagraph (A), grant funds provided under this section may be used by RFE/RL, Incorporated, to pay up to three employees employed in Washington, D.C., salary or other compensation not to exceed the rate of pay payable for level III of the Executive Schedule under section 5314 of title 5.
 
@@ -74,7 +74,7 @@ No grant funds provided under this section may be used for the following purpose
 
 (3) Notwithstanding any other provision of law and upon repeal of the Board for International Broadcasting Act \[22 U.S.C. 2871 et seq.\], the Inspector General of the Department of State and the Foreign Service is authorized to exercise the authorities of the Inspector General Act of 1978 with respect to RFE/RL, Incorporated.
 
-(Pub. L. 103–236, title III, §308, Apr. 30, 1994, 108 Stat. 437; Pub. L. 105–277, div. G, subdiv. A, title XIII, §§1314(d), 1323(<i>l</i>)(1), Oct. 21, 1998, 112 Stat. 2681–777, 2681–780; Pub. L. 107–228, div. A, title V, §§501, 502, Sept. 30, 2002, 116 Stat. 1392; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 103–236, title III, §308, Apr. 30, 1994, 108 Stat. 437; Pub. L. 105–277, div. G, subdiv. A, title XIII, §§1314(d), 1323(l)(1), Oct. 21, 1998, 112 Stat. 2681–777, 2681–780; Pub. L. 107–228, div. A, title V, §§501, 502, Sept. 30, 2002, 116 Stat. 1392; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### References in Text
 
@@ -98,7 +98,7 @@ Subsec. (h)(1)(C). Pub. L. 107–228, §502(1), added subpar. (C).
 
 Subsec. (j)(3). Pub. L. 105–277, §1314(d)(1), substituted “Inspector General of the Department of State and the Foreign Service” for “Inspector General of the United States Information Agency”.
 
-Subsecs. (k), (<i>l</i>). Pub. L. 105–277, §1323(<i>l</i>)(1), struck out subsecs. (k) and (<i>l</i>), which listed conditions placed uponplan for relocation of offices or operations of RFE/RL, Incorporated from Munich, Germany, and required report to Congress on classification of personnel not later than 90 days after confirmation of all members of Board, respectively.
+Subsecs. (k), (l). Pub. L. 105–277, §1323(l)(1), struck out subsecs. (k) and (l), which listed conditions placed upon plan for relocation of offices or operations of RFE/RL, Incorporated from Munich, Germany, and required report to Congress on classification of personnel not later than 90 days after confirmation of all members of Board, respectively.
 
 #### Effective Date of 1998 Amendment
 
@@ -106,7 +106,7 @@ Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. 
 
 #### Liaison With RFE/RL, Incorporated; Representation at Board Meetings
 
-Section 305(b) of Pub. L. 99–93 provided that: “The Secretary of State shall—
+Pub. L. 99–93, title III, §305(b), Aug. 16, 1985, 99 Stat. 436, provided that: “The Secretary of State shall—
 
 &emsp;“(1) establish an office within the United States Consulate in Munich, Federal Republic of Germany, which shall be responsible for the daily liaison operations of the Department of State with RFE/RL, Incorporated; and
 

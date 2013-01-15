@@ -6,7 +6,7 @@ Definition.—In this section, the term “proposal” means a proposal, includi
 
 (b)
 
-Prohibition.—A proposal in the possession or control of an executive agency may not bemade available to any person under section 552 of title 5.
+Prohibition.—A proposal in the possession or control of an executive agency may not be made available to any person under section 552 of title 5.
 
 (c)
 

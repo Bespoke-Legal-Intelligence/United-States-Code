@@ -12,7 +12,7 @@
 
 (5) If the Commission determines that a document marked as confidential by a manufacturer or private labeler to be barred from disclosure under paragraph (2) may be disclosed because it is not confidential information as provided in paragraph (2), the Commission shall notify such person in writing that the Commission intends to disclose such document at a date not less than 10 days after the date of receipt of notification.
 
-(6) Any person receiving such notification may, if he believes such disclosure is barred by paragraph (2), before the date set for release of the document, bring an action in the district court of the United States in the district in which the complainant resides, or has his principal place or business, or in which the documents are located, or in the United States District Court for the District of Columbia to restrain disclosure of the document. Any person receiving such notification may file with the appropriate district court or court of appeals of the United States, as appropriate, an application for a stay of disclosure. The documentsshall not be disclosed until the court has ruled on the application for a stay.
+(6) Any person receiving such notification may, if he believes such disclosure is barred by paragraph (2), before the date set for release of the document, bring an action in the district court of the United States in the district in which the complainant resides, or has his principal place or business, or in which the documents are located, or in the United States District Court for the District of Columbia to restrain disclosure of the document. Any person receiving such notification may file with the appropriate district court or court of appeals of the United States, as appropriate, an application for a stay of disclosure. The documents shall not be disclosed until the court has ruled on the application for a stay.
 
 (7) Nothing in this Act shall authorize the withholding of information by the Commission or any officer or employee under its control from the duly authorized committees or subcommittees of the Congress, and the provisions of paragraphs (2) through (6) shall not apply to such disclosures, except that the Commission shall immediately notify the manufacturer or private labeler of any such request for information designated as confidential by the manufacturer or private labeler.
 
@@ -94,7 +94,7 @@ The Commission shall communicate to each manufacturer of a consumer product, ins
 
 #### References in Text
 
-The Consumer Product Safety Act, referred to in subsec. (d)(1), is Pub. L. 92–573, Oct. 27, 1972, 86 Stat. 1207, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code,see Short Title note set out under section 2051 of this title and Tables.
+The Consumer Product Safety Act, referred to in subsec. (d)(1), is Pub. L. 92–573, Oct. 27, 1972, 86 Stat. 1207, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2051 of this title and Tables.
 
 The Flammable Fabrics Act, referred to in subsec. (d)(1), is act June 30, 1953, ch. 164, 67 Stat. 111, as amended, which is classified generally to chapter 25 (§1191 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1191 of this title and Tables.
 

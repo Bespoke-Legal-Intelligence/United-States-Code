@@ -154,7 +154,7 @@ Pub. L. 109–432, div. C, title II, §211(e), Dec. 20, 2006, 120 Stat. 3023, pr
 
 #### Findings and Declaration of Policy
 
-Section 19142 of Pub. L. 102–486 provided that:
+Pub. L. 102–486, title XIX, §19142, Oct. 24, 1992, 106 Stat. 3037, provided that:
 
 “(a)
 
@@ -166,7 +166,7 @@ Findings.—The Congress finds that—
 
 “(b)
 
-Statement of Policy.—It is the policy of this subtitle \[subtitle C (§§19141–19143) of title XIX of Pub. L. 102–486, enacting this subtitle, amending sections 1231 and 1232 of Title 30, Mineral Lands and Mining, and enacting provisions set out as a note under section 1 of this title\]—
+Statement of Policy.—It is the policy of this subtitle \[subtitle C (§§19141–19143) of title XIX of Pub. L. 102–486, enacting this subtitle, amending sections1231 and 1232 of Title 30, Mineral Lands and Mining, and enacting provisions set out as a note under section 1 of this title\]—
 
 &emsp;“(1) to remedy problems with the provision and funding of health care benefits with respect to the beneficiaries of multiemployer benefit plans that provide health care benefits to retirees in the coal industry;
 

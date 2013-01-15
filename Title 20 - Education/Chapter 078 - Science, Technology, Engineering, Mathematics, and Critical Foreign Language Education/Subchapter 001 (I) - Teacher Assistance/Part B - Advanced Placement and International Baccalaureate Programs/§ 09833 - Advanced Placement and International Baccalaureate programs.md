@@ -2,7 +2,7 @@
 
 #### (a) Program authorized
 
-From the amounts appropriated under subsection (<i>l</i>), the Secretary is authorized to award grants, on a competitive basis, to eligible entities to enable the eligible entities to carry out the authorized activities described in subsection (g).
+From the amounts appropriated under subsection (l), the Secretary is authorized to award grants, on a competitive basis, to eligible entities to enable the eligible entities to carry out the authorized activities described in subsection (g).
 
 #### (b) Duration of grants
 
@@ -106,7 +106,7 @@ The Secretary, to the extent practicable, shall—
 
 #### (2) Waiver
 
-&emsp;The Secretary may waive all or part of the matching requirement described in paragraph (1) for any fiscal year for an eligible entity described in subparagraph (A) or (B) of section9832(2) of this title, if the Secretary determines that applying the matching requirement to such eligible entity would result in serious hardship or an inability to carry out the authorized activities described in subsection (g).
+&emsp;The Secretary may waive all or part of the matching requirement described in paragraph (1) for any fiscal year for an eligible entity described in subparagraph (A) or (B) of section 9832(2) of this title, if the Secretary determines that applying the matching requirement to such eligible entity would result in serious hardship or an inability to carry out the authorized activities described in subsection (g).
 
 #### (i) Supplement not supplant
 
@@ -140,13 +140,13 @@ Grant funds provided under this section shall be used to supplement, not supplan
 
 #### (k) Evaluation and report
 
-From the amount made available for any fiscal year under subsection (<i>l</i>), the Secretary shall reserve such sums as may be necessary—
+From the amount made available for any fiscal year under subsection (l), the Secretary shall reserve such sums as may be necessary—
 
 &emsp;(1) to conduct an annual independent evaluation, by grant or by contract, of the program carried out under this section, which shall include an assessment of the impact of the program on student academic achievement; and
 
 &emsp;(2) to prepare and submit an annual report on the results of the evaluation described in paragraph (1) to the Committee on Health, Education, Labor, and Pensions of the Senate, the Committee on Education and Labor of the House of Representatives, and the Committees on Appropriations of the Senate and House of Representatives.
 
-#### (<i>l</i>) Authorization of appropriations
+#### (l) Authorization of appropriations
 
 There are authorized to be appropriated to carry out this section $75,000,000 for each of fiscal years 2011 through 2013.
 
@@ -156,7 +156,7 @@ There are authorized to be appropriated to carry out this section $75,000,000 fo
 
 <b>2011</b>—Subsec. (h)(1). Pub. L. 111–358, §1003(b)(1), substituted “50” for “100” and “100” for “200”.
 
-Subsec. (<i>l</i>). Pub. L. 111–358, §1003(b)(2), added subsec. (<i>l</i>) and struck out former subsec. (<i>l</i>). Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this section $75,000,000 for fiscal year 2008, and such sums as may be necessary for each of the 2 succeeding fiscal years.”
+Subsec. (l). Pub. L. 111–358, §1003(b)(2), added subsec. (l) and struck out former subsec. (l). Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this section $75,000,000 for fiscal year 2008, and such sums as may be necessary for each of the 2 succeeding fiscal years.”
 
 #### Change of Name
 

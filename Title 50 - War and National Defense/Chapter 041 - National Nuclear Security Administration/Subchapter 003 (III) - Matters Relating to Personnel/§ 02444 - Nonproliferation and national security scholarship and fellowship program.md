@@ -50,7 +50,7 @@ An individual seeking a scholarship or fellowship under the program established 
 
 #### (2) Failure to repay
 
-&emsp;If an individual who received a scholarship or fellowship under the program established under this section is required to repay, pursuant to an agreement under paragraph (1), the total amount of educational assistance provided to such individual under such program, plus interest at the rate prescribed by paragraph (4), and fails to repay such amount, asum equal to such amount (plus such interest) is recoverable by the United States Government from such individual or the estate of such individual by—
+&emsp;If an individual who received a scholarship or fellowship under the program established under this section is required to repay, pursuant to an agreement under paragraph (1), the total amount of educational assistance provided to such individual under such program, plus interest at the rate prescribed by paragraph (4), and fails to repay such amount, a sum equal to such amount (plus such interest) is recoverable by the United States Government from such individual or the estate of such individual by—
 
 &emsp;&emsp;(A) in the case of an individual who is an employee of the United States Government, setoff against accrued pay, compensation, amount of retirement credit, or other amount due the employee from the Government; or
 
@@ -66,7 +66,7 @@ An individual seeking a scholarship or fellowship under the program established 
 
 #### (e) Preference for cooperative education students
 
-In evaluating individuals for the award of a scholarship or fellowship under the program established under this section, the Administrator may give a preference to an individual who is enrolled in, or accepted for enrollment in, an institution of higher education that has a cooperative education program with the Department of Energy.
+In evaluating individuals for the award of a scholarship or fellowship under the program established under this section, the Administrator may give a preference to an individual who isenrolled in, or accepted for enrollment in, an institution of higher education that has a cooperative education program with the Department of Energy.
 
 #### (f) Coordination of benefits
 

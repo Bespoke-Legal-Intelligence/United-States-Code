@@ -30,7 +30,7 @@ Beginning in fiscal year 2008, the Secretary shall assess and collect fees in ac
 
 #### (iii) Notice regarding carryover submissions
 
-&emsp;&emsp;&emsp;In making a notification under subparagraph (C), the person involved shall in addition notify the Secretary if under subparagraph (F)(i) the person intends to submit a DTC advertisement for which the advisory review fee has already been paid. If the person does not so notify the Secretary, each DTC advertisement submitted by the person for advisory review in the fiscal year involved shall be subject to the advisory review fee.
+&emsp;&emsp;&emsp;In making a notification under subparagraph (C), the person involved shall in addition notify the Secretary if under subparagraph (F)(i) the person intends to submit a DTC advertisement for which the advisory review fee has already been paid. Ifthe person does not so notify the Secretary, each DTC advertisement submitted by the person for advisory review in the fiscal year involved shall be subject to the advisory review fee.
 
 #### (E) Modification of advisory review fee
 
@@ -40,7 +40,7 @@ Beginning in fiscal year 2008, the Secretary shall assess and collect fees in ac
 
 #### (ii) Exceeding identified number of submissions
 
-&emsp;&emsp;&emsp;If a person submits a number of DTC advertisements for advisory review in a fiscal year that exceeds the number identified by the person under subparagraph (C), an increase in the amount of fees applies under this clause for each submission in excess of such number, notwithstandingany other provision of this section. For each such DTC advertisement, the advisory review fee shall be due and payable 20 days before the advertisement is submitted to the Secretary, and the fee shall be equal to 150 percent of the fee that otherwise would have applied pursuant to subsection (c)(3).
+&emsp;&emsp;&emsp;If a person submits a number of DTC advertisements for advisory review in a fiscal year that exceeds the number identified by the person under subparagraph (C), an increase in the amount of fees applies under this clause for each submission in excess of such number, notwithstanding any other provision of this section. For each such DTC advertisement, the advisory review fee shall be due and payable 20 days before the advertisement is submitted to the Secretary, and the fee shall be equal to 150 percent of the fee that otherwise would have applied pursuant to subsection (c)(3).
 
 #### (F) Limits
 
@@ -94,7 +94,7 @@ Beginning in fiscal year 2008, the Secretary shall assess and collect fees in ac
 
 #### (iii) Amount
 
-&emsp;&emsp;&emsp;Notwithstanding any other provision of this section, an operating reserve fee that is regarded as late under this subparagraph shall be equal to 150 percent of the operating reserve fee that otherwise would have applied pursuant to subsection (d).
+&emsp;&emsp;&emsp;Notwithstanding any other provision of this section, an operating reserve fee thatis regarded as late under this subparagraph shall be equal to 150 percent of the operating reserve fee that otherwise would have applied pursuant to subsection (d).
 
 #### (b) Advisory review fee revenue amounts
 
@@ -224,7 +224,7 @@ For purposes of this section:
 
 &emsp;(8) The term “process for the advisory review of prescription drug advertising” means the activities necessary to review and provide advisory comments on DTC advertisements prior to public dissemination and, to the extent the Secretary has additional staff resources available under the program under this section that are not necessary for the advisory review of DTC advertisements, the activities necessary to review and provide advisory comments on other proposed advertisements and promotional material prior to public dissemination.
 
-&emsp;(9) The term “resources allocated for the process for the advisory review of prescriptiondrug advertising” means the expenses incurred in connection with the process for the advisory review of prescription drug advertising for—
+&emsp;(9) The term “resources allocated for the process for the advisory review of prescription drug advertising” means the expenses incurred in connection with the process for the advisory review of prescription drug advertising for—
 
 &emsp;&emsp;(A) officers and employees of the Food and Drug Administration, contractors of the Food and Drug Administration, advisory committees, and costs related to such officers, employees, and committees, and to contracts with such contractors;
 
@@ -242,13 +242,9 @@ For purposes of this section:
 
 (June 25, 1938, ch. 675, §736A, as added Pub. L. 110–85, title I, §104, Sept. 27, 2007, 121 Stat. 832.)
 
-#### Termination of Section
+#### Effective Date
 
-<i>For termination of section by section 106(a) of Pub. L. 110–85, see Effective and Termination Dates note below.</i>
-
-#### Effective and Termination Dates
-
-Section effective Oct. 1, 2007, with fees under this subpart to be assessed for all human drug applications received on or after Oct. 1, 2007, and ceases to be effective Oct. 1, 2012, see sections 106(a) and 107 of Pub. L. 110–85, set out as Effective and Termination Dates of 2007 Amendment notes under section 379g of this title.
+Section effective Oct. 1, 2007, with fees under this subpart to be assessed for all human drug applications received on or after Oct. 1, 2007, see section 107 of Pub. L. 110–85, set out as an Effective and Termination Dates of 2007 Amendment note under section 379g of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “the fee”.</i>
 

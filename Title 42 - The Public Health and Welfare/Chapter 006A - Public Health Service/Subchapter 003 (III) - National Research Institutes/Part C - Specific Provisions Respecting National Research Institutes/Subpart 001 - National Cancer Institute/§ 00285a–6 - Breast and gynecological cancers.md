@@ -18,7 +18,7 @@ The Director of the Institute shall coordinate the activities of the Director un
 
 &emsp;&emsp;(B) clinical research and related activities concerning the causes, prevention, detection and treatment of breast cancer;
 
-&emsp;&emsp;(C) control programs with respect to breast cancer in accordance with section 285a–1 of this title, including community-based programs designed to assist women who are members of medically underservedpopulations, low-income populations, or minority groups;
+&emsp;&emsp;(C) control programs with respect to breast cancer in accordance with section 285a–1 of this title, including community-based programs designed to assist women who are members of medically underserved populations, low-income populations, or minority groups;
 
 &emsp;&emsp;(D) information and education programs with respect to breast cancer in accordance with section 285a–2 of this title; and
 

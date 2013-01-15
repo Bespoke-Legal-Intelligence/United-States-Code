@@ -46,7 +46,7 @@ Regulations under subsection (a) of this section shall—
 
 &emsp;&emsp;(A) the State does not have a delegation of authority in effect under subsection (a)(1)(B)(i) of this section, or
 
-&emsp;&emsp;(B) the State has such a delegation in effect but fails with respect to any particular person or source to assess or collect the penalty in accordance with the requirements of this section;
+&emsp;&emsp;(B) the State has such a delegation in effect but fails with respect to any particularperson or source to assess or collect the penalty in accordance with the requirements of this section;
 
 &emsp;(3) require the States, or in the event the States fail to do so, the Administrator, to give a brief but reasonably specific notice of noncompliance under this section to each person referred to in subsection (a)(2)(A) of this section with respect to each source owned or operated by such person which is not in compliance as provided in such subsection, not later than July 1, 1979, or thirty days after the discovery of such noncompliance, whichever is later;
 
@@ -86,13 +86,13 @@ If the owner or operator of any stationary source to whom a notice is issued und
 
 &emsp;(A) the amount determined in accordance with regulations promulgated by the Administrator under subsection (a) of this section, which is no less than the economic value which a delay in compliance beyond July 1, 1979, may have for the owner of such source, including the quarterly equivalent of the capital costs of compliance and debt service over a normal amortization period, not to exceed ten years, operation and maintenance costs foregone as a result of noncompliance, and any additional economic value which such a delay may have for the owner or operator of such source, minus
 
-&emsp;(B) the amount of any expenditure made by the owner or operator of that source during any such quarter for the purpose of bringing that source into, and maintaining compliance with, such requirement, to the extent that such expenditures have not been taken into account in the calculation of the penalty under subparagraph (A).
+&emsp;(B) the amount of any expenditure made by the owner or operator of that source duringany such quarter for the purpose of bringing that source into, and maintaining compliance with, such requirement, to the extent that such expenditures have not been taken into account in the calculation of the penalty under subparagraph (A).
 
 > To the extent that any expenditure under subparagraph (B) made during any quarter is not subtracted for such quarter from the costs under subparagraph (A), such expenditure may be subtracted for any subsequent quarter from such costs. In no event shall the amount paid be less than the quarterly payment minus the amount attributed to actual cost of construction.
 
 (3)(A) The assessed penalty required under this section shall be paid in quarterly installments for the period of covered noncompliance. All quarterly payments (determined without regard to any adjustment or any subtraction under paragraph (2)(B)) after the first payment shall be equal.
 
-(B) The first payment shall be due on the date six months after the date of issuance of the notice of noncompliance under subsection (b)(3) of this section with respect to any source or on January 1, 1980, whichever is later. Such firstpayment shall be in the amount of the quarterly installment for the upcoming quarter, plus the amount owed for any preceding period within the period of covered noncompliance for such source.
+(B) The first payment shall be due on the date six months after the date of issuance of the notice of noncompliance under subsection (b)(3) of this section with respect to any source or on January 1, 1980, whichever is later. Such first payment shall be in the amount of the quarterly installment for the upcoming quarter, plus the amount owed for any preceding period within the period of covered noncompliance for such source.
 
 (C) For the purpose of this section, the term “period of covered noncompliance” means the period which begins—
 
@@ -140,7 +140,7 @@ Section 1857c–10(c)(1) of this title (as in effect before August 7, 1977), ref
 
 Subsec. (a)(2)(B). Pub. L. 95–190, §14(a)(30), (31), in cl. (i) inserted reference to section 7413(d)(5) of this title, and in cls. (i) and (ii) inserted provision relating to orders in effect under section 1857c–10 of this title before Aug. 7, 1977, wherever appearing.
 
-Subsec. (b). Pub. L. 95–190, §14(a)(34)–(36), in closing provisions inserted provisions relating to notice to the Administrator when a noncompliance penalty is established by a State, and substituted references to noncompliance for references to delayed compliance in twoplaces, “source” for “facility”, and “receipt of notice of the State penalty assessment” for “publication of the proposed penalty”.
+Subsec. (b). Pub. L. 95–190, §14(a)(34)–(36), in closing provisions inserted provisions relating to notice to the Administrator when a noncompliance penalty is established by a State, and substituted references to noncompliance for references to delayed compliance in two places, “source” for “facility”, and “receipt of notice of the State penalty assessment” for “publication of the proposed penalty”.
 
 Subsec. (b)(2)(A). Pub. L. 95–190, §14(a)(33), substituted “(a)(1)(B)(i)” for “(e)”.
 

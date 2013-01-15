@@ -16,7 +16,7 @@
 
 &emsp;(F) the impact of the taxes imposed by subchapter II <sup>1</sup> of this chapter on the Nation's balance of trade with other countries;
 
-&emsp;(G) an assessment of the feasibility and desirability of a schedule of taxes which would take into account one or more of the following: the likelihood of a release of a hazardous substance, the degree of hazard and risk of harm to public health, welfare, and the environment resulting from any such release, incentives to proper handling, recycling, incineration, and neutralization of hazardous wastes, and disincentives to improper or illegal handling or disposal of hazardous materials, administrative and reporting burdens on Government and industry, and the extent to which the tax burden falls on the substances and parties which create the problems addressed by this chapter. In preparing the report, the President shall consult with appropriate Federal, State, and local agencies, affected industries and claimants, and such other interested parties as he may find useful. Based upon the analyses and consultation required by this subsection, the President shall also include in the report any recommendations for legislative changes he may deem necessary for the better effectuation of the purposes of this chapter, including but not limited to recommendations concerning authorization levels, taxes, State participation, liability and liability limits, and financial responsibility provisions for the Response Trust Fund and the Post-closure Liability Trust Fund;
+&emsp;(G) an assessment of the feasibility and desirability of a schedule of taxes which would take into account one or more of the following: the likelihood of a release of a hazardous substance, the degree of hazard and risk of harm to public health, welfare, and the environment resulting from any such release, incentives to proper handling, recycling, incineration, and neutralization of hazardous wastes, and disincentives to improper or illegal handling or disposal of hazardous materials, administrative and reporting burdens onGovernment and industry, and the extent to which the tax burden falls on the substances and parties which create the problems addressed by this chapter. In preparing the report, the President shall consult with appropriate Federal, State, and local agencies, affected industries and claimants, and such other interested parties as he may find useful. Based upon the analyses and consultation required by this subsection, the President shall also include in the report any recommendations for legislative changes he may deem necessary for the better effectuation of the purposes of this chapter, including but not limited to recommendations concerning authorization levels, taxes, State participation, liability and liability limits, and financial responsibility provisions for the Response Trust Fund and the Post-closure Liability Trust Fund;
 
 &emsp;(H) an exemption from or an increase in the substances or the amount of taxes imposed by section 4661 of title 26 for copper, lead, and zinc oxide, and for feedstocks when used in the manufacture and production of fertilizers, based upon the expenditure experience of the Response Trust Fund;
 
@@ -80,7 +80,7 @@ The Administrator of the Environmental Protection Agency shall, in consultation 
 
 &emsp;(A) the need for revisions in existing statutory or common law, and
 
-&emsp;(B) whether such revisions should take the form of Federal statutes or the development ofa model code which is recommended for adoption by the States.
+&emsp;(B) whether such revisions should take the form of Federal statutes or the development of a model code which is recommended for adoption by the States.
 
 (5) The Fund shall pay administrative expenses incurred for the study. No expenses shall be available to pay compensation, except expenses on a per diem basis for the one reporter, but in no case shall the total expenses of the study exceed $300,000.
 
@@ -150,7 +150,7 @@ Subchapter II of this chapter, referred to in subsec. (a)(1)(F), was in the orig
 
 For effective date of this chapter, referred to in subsec. (a)(2), see section 9652 of this title.
 
-Subsection 3001(b)(2)(B) and subsection 3001(b)(3)(A) of the Solid Waste Disposal Act of 1980, referred to in subsec. (a)(2), probably mean section 3001(b)(2)(B) and\(3)(A) of the Solid Waste Disposal Act, as amended by the Solid Waste Disposal Act Amendments of 1980, which enacted section 6921(b)(2)(B) and (3)(A) of this title.
+Subsection 3001(b)(2)(B) and subsection 3001(b)(3)(A) of the Solid Waste Disposal Act of 1980, referred to in subsec. (a)(2), probably mean section 3001(b)(2)(B) and (3)(A) of the Solid Waste Disposal Act, as amended by the Solid Waste Disposal Act Amendments of 1980, which enacted section 6921(b)(2)(B) and (3)(A) of this title.
 
 The Solid Waste Disposal Act, referred to in subsecs. (a)(2) and (d)(C), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795. Subtitle C of the Solid Waste Disposal Act is classified generally to subchapter III (§6921 et seq.) of chapter 82 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
 

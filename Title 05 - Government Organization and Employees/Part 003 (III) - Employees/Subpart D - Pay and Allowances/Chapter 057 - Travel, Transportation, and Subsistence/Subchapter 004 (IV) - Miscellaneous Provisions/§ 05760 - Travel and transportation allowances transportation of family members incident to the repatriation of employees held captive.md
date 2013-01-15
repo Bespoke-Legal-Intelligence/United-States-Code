@@ -28,7 +28,7 @@ Eligible Family Members.—In this section, the term “family member” has the
 
 Travel and Transportation Authorized.—(1) The transportation authorized by subsection (a) is round-trip transportation between the home of the family member (or home of the attendant or person provided transportation under paragraph (2) or (3) of subsection (a), as the case may be) and the location of the repatriation site at which the employee is located.
 
-(2) In addition to the transportation authorized by subsection (a), the head of an agency may provide a per diem allowance or reimbursement for the actual and necessary expenses ofthe travel, or a combination thereof, but not to exceed the rates established for such allowances and expenses under section 474(d) of title 37.
+(2) In addition to the transportation authorized by subsection (a), the head of an agency may provide a per diem allowance or reimbursement for the actual and necessary expenses of the travel, or a combination thereof, but not to exceed the rates established for such allowances and expenses under section 474(d) of title 37.
 
 (3) The transportation authorized by subsection (a) may be provided by any of the means described in section 481h(d)(1) of title 37.
 
@@ -36,13 +36,15 @@ Travel and Transportation Authorized.—(1) The transportation authorized by sub
 
 (5) Reimbursement payable under this subsection may not exceed the cost of government-procured round-trip air travel.
 
-(Added Pub. L. 109–163, div. A, title XI, §1121(a), Jan. 6, 2006, 119 Stat. 3451; amended Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465.)
-
-#### Codification
-
-In subsecs. (c) and (d)(2), (3), “481h(b)”, “474(d)”, and “481h(d)(1)” substituted for “411h(b)”, “404(d)”, and “411h(d)(1)”, respectively, pursuant to section 631(f)(4)(B) of Pub. L. 112–81, which provided that any reference in a provision of law other than a section of title 10, 32, or 37, United States Code, to a section of title 37 that was transferred and redesignated by “subsection (c)” of section 631 was deemed to refer to the section as so redesignated, notwithstanding that sections of title 37 were transferred and redesignated by subsection (d) of section 631 rather than subsection (c), to reflect the probable intent of Congress.
+(Added Pub. L. 109–163, div. A, title XI, §1121(a), Jan. 6, 2006, 119 Stat. 3451; amended Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
 
 #### Amendments
 
-<b>2011</b>—Subsecs. (c), (d)(2), (3). Pub. L. 112–81 substituted “481h(b)” for “411h(b)” in subsec. (c), “474(d)” for “404(d)” in subsec. (d)(2), and “481h(d)(1)” for “411h(d)(1)” in subsec. (d)(3). See Codification note above.
+<b>2013</b>—Subsecs. (c), (d)(2), (3). Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, §631(f)(4)(B). See 2011 Amendment note below.
+
+<b>2011</b>—Subsecs. (c), (d)(2), (3). Pub. L. 112–81, §631(f)(4)(B), as amended by Pub. L. 112–239, §1076(a)(9), substituted “481h(b)” for “411h(b)” in subsec. (c), “474(d)” for “404(d)” in subsec. (d)(2), and “481h(d)(1)” for “411h(d)(1)” in subsec. (d)(3).
+
+#### Effective Date of 2013 Amendment
+
+Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
 

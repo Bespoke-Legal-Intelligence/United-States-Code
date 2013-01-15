@@ -120,7 +120,7 @@ For purposes of this subchapter—
 
 #### (7) Special rule for xylene
 
-&emsp;Except in the case of any substance imported into the United States or exported fromthe United States, the term “xylene” does not include any separated isomer of xylene.
+&emsp;Except in the case of any substance imported into the United States or exported from the United States, the term “xylene” does not include any separated isomer of xylene.
 
 #### (8) Recycled chromium, cobalt, and nickel
 
@@ -184,7 +184,7 @@ For purposes of this subchapter—
 
 #### (D) Taxation of nonqualified sale or use
 
-&emsp;&emsp;For purposes of section 4661(a), if no tax was imposed by such section on the sale or use of any chemical by reason of subparagraph (A), the 1st person who sells or uses such chemical other than in a sale or use described in subparagraph (A) shall be treated as the manufacturer of such chemical.
+&emsp;&emsp;For purposes of section 4661(a), if no tax was imposed by such section on the sale oruse of any chemical by reason of subparagraph (A), the 1st person who sells or uses such chemical other than in a sale or use described in subparagraph (A) shall be treated as the manufacturer of such chemical.
 
 #### (10) Hydrocarbon streams containing mixtures of organic taxable chemicals
 
@@ -218,7 +218,7 @@ For purposes of this subchapter—
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in this paragraph, in any case in which a manufacturer, producer,or importer of a taxable chemical exchanges such chemical as part of an inventory exchange with another person—
+&emsp;&emsp;Except as provided in this paragraph, in any case in which a manufacturer, producer, or importer of a taxable chemical exchanges such chemical as part of an inventory exchange with another person—
 
 &emsp;&emsp;&emsp;(i) such exchange shall not be treated as a sale, and
 
@@ -370,7 +370,7 @@ Subsec. (b)(5), (6). Pub. L. 98–369, §1019(a)(1), added pars. (5) and (6).
 
 Subsec. (c). Pub. L. 98–369, §1019(c), substituted “Except as provided in subsection (b), if” for “If”.
 
-Subsec. (d)(2)(B). Pub. L. 98–369, §1019(b)(2)(B), inserted “fertilizer” after “qualified” and struck out “, or sells such substance for use,” after “such substance”.
+Subsec. (d)(2)(B). Pub. L. 98–369, §1019(b)(2)(B), inserted “fertilizer” after “qualified” and struck out“, or sells such substance for use,” after “such substance”.
 
 Subsec. (d)(3). Pub. L. 98–369, §1019(a)(2), added par. (3).
 
@@ -388,7 +388,7 @@ Amendment by Pub. L. 99–499 effective Jan. 1, 1987, except as otherwise provid
 
 #### Effective Date of 1984 Amendment
 
-Section 1019(d) of Pub. L. 98–369 provided that:
+Pub. L. 98–369, div. A, title X, §1019(d), July 18, 1984, 98 Stat. 1024, provided that:
 
 “(1)
 

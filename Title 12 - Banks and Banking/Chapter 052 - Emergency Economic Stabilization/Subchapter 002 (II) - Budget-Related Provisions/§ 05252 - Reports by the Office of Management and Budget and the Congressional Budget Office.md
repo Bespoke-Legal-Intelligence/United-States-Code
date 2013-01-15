@@ -2,7 +2,7 @@
 
 #### (a) Reports by the Office of Management and Budget
 
-Within 60 days of the first exercise of the authority granted in section 5211(a) of this title, but in no case later than December 31, 2008, and semiannually thereafter, the Office of Management and Budget shall report to the President and the Congress—
+Within 60 days of the first exercise of the authority granted in section 5211(a) of this title, but in no case later than December 31, 2008, and annually thereafter, the Office of Management and Budget shall report to the President and the Congress—
 
 &emsp;(1) the estimate, notwithstanding section 661a(5)(F) of title 2, as of the first business day that is at least 30 days prior to the issuance of the report, of the cost of the troubled assets, and guarantees of the troubled assets, determined in accordance with section 5232 of this title;
 
@@ -30,11 +30,25 @@ In carrying out the duties in this subsection <sup>1</sup> or performing analys
 
 There are authorized to be appropriated such sums as may be necessary to produce reports required by this section.
 
-(Pub. L. 110–343, div. A, title II, §202, Oct. 3, 2008, 122 Stat. 3800.)
+#### (e) Sunset
+
+Notwithstanding the previous provisions of this section, the reporting and comment requirements under this section shall terminate with the annual period on the last day of which all troubled assets acquired by the Secretary under section 5211 of this title have been sold or transferred out of the ownership or control of the Federal Government.
+
+(Pub. L. 110–343, div. A, title II, §202, Oct. 3, 2008, 122 Stat. 3800; Pub. L. 112–204, §1(b)(1), Dec. 4, 2012, 126 Stat. 1485.)
 
 #### References in Text
 
 This chapter, referred to in subsec. (c), was in the original “this Act” and was translated as reading “this division”, meaning div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, known as the Emergency Economic Stabilization Act of 2008, to reflect the probable intent of Congress. For complete classification of division A to the Code, see Short Title note set out under section 5201 of this title and Tables.
+
+#### Amendments
+
+<b>2012</b>—Subsec. (a). Pub. L. 112–204, §1(b)(1)(A), substituted “annually” for “semiannually”.
+
+Subsec. (e). Pub. L. 112–204, §1(b)(1)(B), added subsec. (e).
+
+#### Effective Date of 2012 Amendment
+
+Pub. L. 112–204, §1(b)(2), Dec. 4, 2012, 126 Stat. 1486, provided that: “The amendments made by this subsection \[amending this section\] shall take effect the first day after the date of enactment of this Act \[Dec. 4, 2012\].”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

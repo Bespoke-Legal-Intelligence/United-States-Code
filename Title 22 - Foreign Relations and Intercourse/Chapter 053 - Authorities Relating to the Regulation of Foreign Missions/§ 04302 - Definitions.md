@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(A) a foreign government, or
 
-&emsp;&emsp;(B) an organization (other than an international organization, as defined in section 4309(b) of this title) representing a territory or political entity which has been granted diplomatic or other official privileges and immunities under the laws of the United States or which engages in some aspect of the conduct of the international affairs of such territory or political entity,
+&emsp;&emsp;(B) an organization (other than an international organization, as defined in section 4309(b) of this title) representing a territoryor political entity which has been granted diplomatic or other official privileges and immunities under the laws of the United States or which engages in some aspect of the conduct of the international affairs of such territory or political entity,
 
 > &emsp;including any real property of such a mission and including the personnel of such a mission;
 
@@ -40,7 +40,7 @@
 
 (b) Determinations with respect to the meaning and applicability of the terms used in subsection (a) of this section shall be committed to the discretion of the Secretary.
 
-(Aug. 1, 1956, ch. 841, title II, §202, as added Pub. L. 97–241, title II, §202(b), Aug. 24, 1982, 96 Stat. 283; amended Pub. L. 99–93, title I, §127(b), Aug. 16, 1985, 99 Stat. 418; Pub. L. 99–569, title VII, §701, Oct. 27, 1986, 100 Stat. 3204; Pub. L. 100–204, title I, §153(e), Dec. 22, 1987, 101 Stat. 1353; Pub. L. 103–236, title I, §162(<i>o</i>)(1), Apr. 30, 1994, 108 Stat. 409.)
+(Aug. 1, 1956, ch. 841, title II, §202, as added Pub. L. 97–241, title II, §202(b), Aug. 24, 1982, 96 Stat. 283; amended Pub. L. 99–93, title I, §127(b), Aug. 16, 1985, 99 Stat. 418; Pub. L. 99–569, title VII, §701, Oct. 27, 1986, 100 Stat. 3204; Pub. L. 100–204, title I, §153(e), Dec. 22, 1987, 101 Stat. 1353; Pub. L. 103–236, title I, §162(o)(1), Apr. 30, 1994, 108 Stat. 409.)
 
 #### References in Text
 

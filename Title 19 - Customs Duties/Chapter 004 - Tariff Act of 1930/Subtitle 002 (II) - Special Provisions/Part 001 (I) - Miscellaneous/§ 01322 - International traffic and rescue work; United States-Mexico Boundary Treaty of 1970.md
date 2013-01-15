@@ -14,7 +14,7 @@ The Secretary of the Treasury may provide by regulation or instruction for the a
 
 &emsp;(3) rescue and relief equipment and supplies for emergent temporary use in connection with floods and other disasters; and
 
-&emsp;(4) personal property related to the use and enjoyment of a separated tract of land as described in article III of the Treaty To Resolve Pending Boundary Differences and Maintain the Rio Grande and Colorado Rivers as the International Boundary between the United States of America and the United Mexican States signed on November 23, 1970.
+&emsp;(4) personal property related to the use and enjoyment of a separated tract of land as described in article III of the Treaty To Resolve Pending Boundary Differences and Maintainthe Rio Grande and Colorado Rivers as the International Boundary between the United States of America and the United Mexican States signed on November 23, 1970.
 
 > Any articles admitted under the authority of this subsection and used otherwise than for a purpose herein expressed, or not exported in such time and manner as may be prescribed in the regulations or instructions herein authorized, shall be forfeited to the United States.
 
@@ -32,9 +32,9 @@ Subsec. (b)(4). Pub. L. 92–549, §107(b), added cl. (4).
 
 #### Effective Date of 1984 Amendment
 
-Section 195(a), (b), (d) of Pub. L. 98–573 provided that:
+Pub. L. 98–573, title I, §195(a), (b), (d), Oct. 30, 1984, 98 Stat. 2972, provided that:
 
-“(a) Except as provided in section 126 and in subsections (b) and (c), the amendments made by subtitlesB, C, and D \[amending this section and sections 1202 and 1504 of this title\] shall apply with respect to articles entered on or after the 15th day after the date of the enactment of this Act \[Oct. 30, 1984\].
+“(a) Except as provided in section 126 and in subsections (b) and (c), the amendments made by subtitles B, C, and D \[amending this section and sections 1202 and 1504 of this title\] shall apply with respect to articles entered on or after the 15th day after the date of the enactment of this Act \[Oct. 30, 1984\].
 
 “(b)(1) The amendment made by sections 117 and 124 \[amending this section\] shall apply with respect to articles entered on or after January 1, 1985.
 

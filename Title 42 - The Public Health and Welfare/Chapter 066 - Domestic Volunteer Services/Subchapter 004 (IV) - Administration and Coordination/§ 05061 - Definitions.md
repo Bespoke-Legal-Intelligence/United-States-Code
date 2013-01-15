@@ -46,7 +46,7 @@ For the purposes of this chapter—
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, known as the Domestic Volunteer Service Act of 1973, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 93–113, Oct. 1, 1973, 87 Stat.394, known as the Domestic Volunteer Service Act of 1973, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
 
 Section 625 of the Economic Opportunity Act of 1964, as amended by Public Law 92–424 (42 U.S.C. 2971d), referred to in par. (4), was repealed by Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519. Section 9924 of this title provides that any reference in any provision of law to the poverty line set forth in section 625 of the Economic Opportunity Act of 1964 is to be construed to be a reference to the poverty line defined in section 9902 of this title.
 
@@ -98,7 +98,7 @@ Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub
 
 Amendment by sections 404 and 405(a)(10) of Pub. L. 103–82 effective Apr. 4, 1994, see section 406(b) of Pub. L. 103–82, set out as a note under section 8332 of Title 5, Government Organization and Employees.
 
-Section 406(a) of Pub. L. 103–82 provided that: “The amendments made by sections 401 through 402 \[amending this section, sections 12612, 12617, 12619, 12622 to 12626, 12632, 12636, 12637, 12639, and 12662 of this title, and provisions set out as notes under section 12612 of this title\] will take effect on October 1, 1993.”
+Pub. L. 103–82, title IV, §406(a), Sept. 21, 1993, 107 Stat. 922, provided that: “The amendments made by sections 401 through 402 \[amending this section, sections 12612, 12617, 12619, 12622 to 12626, 12632, 12636, 12637, 12639, and 12662 of this title, and provisions set out as notes under section 12612 of this title\] will take effect on October 1, 1993.”
 
 #### Effective Date of 1986 Amendment
 

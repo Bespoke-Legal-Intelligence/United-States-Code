@@ -4,7 +4,7 @@ For purposes of this chapter:
 
 #### (1) Affiliate
 
-&emsp;Except as provided by the Director, the term “affiliate” means any entity that controls, is controlled by, or is under common control with, an enterprise.
+&emsp;Except as provided by the Director, the term “affiliate” means any entity that controls, iscontrolled by, or is under common control with, an enterprise.
 
 #### (2) Agency
 
@@ -114,7 +114,7 @@ For purposes of this chapter:
 
 #### (12) Executive officer
 
-&emsp;The term “executive officer” means, with respect to an enterprise, the chairman of the board of directors, chief executive officer, chief financial officer, president, vice chairman, any executive vice president, and any senior vice president in charge of a principal business unit, division, or function.
+&emsp;The term “executive officer” means, with respect to an enterprise, the chairman of the board of directors, chief executive officer,chief financial officer, president, vice chairman, any executive vice president, and any senior vice president in charge of a principal business unit, division, or function.
 
 #### (13) Limited-life regulated entity
 

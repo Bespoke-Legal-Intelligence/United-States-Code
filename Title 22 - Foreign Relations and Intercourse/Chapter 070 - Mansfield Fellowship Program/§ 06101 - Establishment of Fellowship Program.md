@@ -6,7 +6,7 @@
 
 &emsp;(A) During the first year each fellowship recipient will study the Japanese language as well as Japan's political economy.
 
-&emsp;(B) During the second year each fellowship recipient will serve as a fellow in a parliamentary office, ministry, or other agency of the Government of Japan or, subject to the approval of the Center, a nongovernmental Japanese institution associated with the interests of the fellowship recipient, and the agency of the United States Government from which the fellow originated, consistent with the purposes of this chapter.
+&emsp;(B) During the second year each fellowship recipient will serve as a fellow in a parliamentary office, ministry, or other agency of the Government of Japan or, subject to the approval of the Center, a nongovernmental Japanese institution associated with the interests of the fellowship recipient, and the agency ofthe United States Government from which the fellow originated, consistent with the purposes of this chapter.
 
 (2) Fellowships under this chapter may be known as “Mansfield Fellowships”, and individuals awarded such fellowships may be known as “Mansfield Fellows”.
 
@@ -34,7 +34,7 @@ The George P. Shultz National Foreign Affairs Training Center is authorized and 
 
 #### Short Title
 
-Section 251 of Pub. L. 103–236 provided that: “This part \[part C (§§251–257) of title II of Pub. L. 103–236, enacting this chapter\] may be cited as the ‘Mike Mansfield Fellowship Act’.”
+Pub. L. 103–236, title II, §251, Apr. 30, 1994, 108 Stat. 428, provided that: “This part \[part C (§§251–257) of title II of Pub. L. 103–236, enacting this chapter\] may be cited as the ‘Mike Mansfield Fellowship Act’.”
 
 #### Transfer of Functions
 

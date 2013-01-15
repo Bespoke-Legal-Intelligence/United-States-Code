@@ -42,7 +42,7 @@ Subsec. (e). Pub. L. 92–226, §402(3), added subsec. (e).
 
 #### Effective Date of 1976 Amendment
 
-Section 210(c)(2) of Pub. L. 94–329 provided in part that the amendment of subsecs. (a) to (c) and (e) by Pub. L. 94–329 is effective July 1, 1976.
+Pub. L. 94–329, title II, §210(c)(2), June 30, 1976, 90 Stat. 740, provided in part that the amendment of subsecs. (a) to (c) and (e) by Pub. L. 94–329 is effective July 1, 1976.
 
 #### Delegation of Functions
 
@@ -50,5 +50,5 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### Transfer of Suspense Account Funds to General Fund of Treasury
 
-Section 210(c)(2) of Pub. L. 94–329 provided in part that all funds in the suspense account referred to in former subsec. (a) of this section on July 1, 1976, shall be transferred to the general fund of the Treasury.
+Pub. L. 94–329, title II, §210(c)(2), June 30, 1976, 90 Stat. 740, provided in part that all funds in the suspense account referred to in former subsec. (a) of this section on July 1, 1976, shall be transferred to the general fund of the Treasury.
 

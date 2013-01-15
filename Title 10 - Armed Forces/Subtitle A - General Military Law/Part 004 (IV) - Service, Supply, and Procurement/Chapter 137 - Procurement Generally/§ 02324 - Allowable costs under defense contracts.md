@@ -70,7 +70,7 @@ Specific Costs Not Allowable.—(1) The following costs are not allowable under 
 
 &emsp;(M) Costs of severance pay paid by the contractor to foreign nationals employed by the contractor under a service contract performed outside the United States, to the extent that the amount of severance pay paid in any case exceeds the amount paid in the industry involved under the customary or prevailing practice for firms in that industry providing similar services in the United States, as determined under the Federal Acquisition Regulation.
 
-&emsp;(N) Costs of severance pay paid by the contractor to a foreign national employed by the contractor under a service contract performedin a foreign country if the termination of the employment of the foreign national is the result of the closing of, or the curtailment of activities at, a United States military facility in that country at the request of the government of that country.
+&emsp;(N) Costs of severance pay paid by the contractor to a foreign national employed by the contractor under a service contract performed in a foreign country if the termination of the employment of the foreign national is the result of the closing of, or the curtailment of activities at, a United States military facility in that country at the request of the government of that country.
 
 &emsp;(O) Costs incurred by a contractor in connection with any criminal, civil, or administrative proceeding commenced by the United States or a State, to the extent provided in subsection (k).
 
@@ -160,7 +160,7 @@ Applicability of Regulations to Subcontractors.—The regulations referred to in
 
 Contractor Certification Required.—(1) A proposal for settlement of indirect costs applicable to a covered contract shall include a certification by an official of the contractor that, to the best of the certifying official's knowledge and belief, all indirect costs included in the proposal are allowable. Any such certification shall be in a form prescribed in the Federal Acquisition Regulation.
 
-(2) The head of the agency or the Secretary of the military department concerned may, in an exceptional case, waive the requirement for certification under paragraph (1) in the case of any contract if the head of the agency or the Secretary—
+(2) The head of the agency or the Secretary of the military department concerned may, in anexceptional case, waive the requirement for certification under paragraph (1) in the case of any contract if the head of the agency or the Secretary—
 
 &emsp;(A) determines in such case that it would be in the interest of the United States to waive such certification; and
 
@@ -176,7 +176,7 @@ Contractor To Have Burden of Proof.—In a proceeding before the Armed Services 
 
 (k)
 
-Proceeding Costs Not Allowable.—(1) Except as otherwise provided in this subsection, costs incurred by a contractor in connection with any criminal, civil, or administrative proceeding commenced by the United States or a State are not allowable as reimbursable costs under a covered contract if the proceeding (A) relates to a violation of, or failure to comply with, a Federal or State statute or regulation, and (B) results in a disposition described in paragraph (2).
+Proceeding Costs Not Allowable.—(1) Except as otherwise provided in this subsection, costs incurred by a contractor in connection with any criminal, civil, or administrative proceeding commenced by the United States, by a State, or by a contractor employee submitting a complaint under section 2409 of this title are not allowable as reimbursable costs under a covered contract if the proceeding (A) relates to a violation of, or failure to comply with, a Federal or State statute or regulation, and (B) results in a disposition described in paragraph (2).
 
 (2) A disposition referred to in paragraph (1)(B) is any of the following:
 
@@ -184,7 +184,7 @@ Proceeding Costs Not Allowable.—(1) Except as otherwise provided in this subse
 
 &emsp;(B) In the case of a civil or administrative proceeding involving an allegation of fraud or similar misconduct, a determination of contractor liability on the basis of the violation or failure referred to in paragraph (1).
 
-&emsp;(C) In the case of any civil or administrative proceeding, the imposition of a monetary penalty by reason of the violation or failure referred to in paragraph (1).
+&emsp;(C) In the case of any civil or administrative proceeding, the imposition of a monetary penalty or an order to take corrective action under section 2409 of this title by reason of the violation or failure referred to in paragraph (1).
 
 &emsp;(D) A final decision—
 
@@ -230,7 +230,7 @@ Proceeding Costs Not Allowable.—(1) Except as otherwise provided in this subse
 
 &emsp;(C) The term “penalty” does not include restitution, reimbursement, or compensatory damages.
 
-(<i>l</i>)
+(l)
 
 Definitions.—In this section:
 
@@ -248,7 +248,7 @@ Definitions.—In this section:
 
 &emsp;(6) The term “fiscal year” means a fiscal year established by a contractor for accounting purposes.
 
-(Added Pub. L. 99–145, title IX, §911(a)(1), Nov. 8, 1985, 99 Stat. 682; amended Pub. L. 99–190, §101(b) \[title VIII, §8112(a)\], Dec. 19, 1985, 99 Stat. 1185, 1223; Pub. L. 100–26, §7(k)(3), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–180, div. A, title VIII, §805(a), Dec. 4, 1987, 101 Stat. 1126; Pub. L. 100–370, §1(f)(2)(A), (3)(A), July 19, 1988, 102 Stat. 846; Pub. L. 100–456, div. A, title III, §322(a), title VIII, §§826(a), 832(a), Sept. 29, 1988, 102 Stat. 1952, 2022, 2023; Pub. L. 100–463, title VIII, §8105(a), Oct. 1, 1988, 102 Stat. 2270–36; Pub. L. 100–526, title I, §106(a)(2), Oct. 24, 1988, 102 Stat. 2625; Pub. L. 100–700, §8(b), Nov. 19, 1988, 102 Stat. 4636; Pub. L. 101–189, div. A, title III, §311(a)(1), title VIII, §853(a)(1), (b)(3), Nov. 29, 1989, 103 Stat. 1411, 1518; Pub. L. 101–510, div. A, title XIII, §1301(10), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 102–190, div. A, title III, §346(a), Dec. 5, 1991, 105 Stat. 1346; Pub. L. 102–484, div. A, title VIII, §818(a), title X, §1052(26), title XIII, §1352(b), Oct. 23, 1992, 106 Stat. 2457, 2500, 2559; Pub. L. 103–355, title II, §2101(a)–(d), Oct. 13, 1994, 108 Stat. 3306–3308; Pub. L. 104–106, div. D, title XLIII, §4321(a)(5), (b)(9), Feb. 10, 1996, 110 Stat. 671, 672; Pub. L. 105–85, div. A, title VIII, §808(a), Nov. 18, 1997, 111 Stat. 1836; Pub. L. 105–261, div. A, title VIII, §804(a), Oct. 17, 1998, 112 Stat. 2083; Pub. L. 111–350, §5(b)(19), Jan. 4, 2011, 124 Stat. 3844; Pub. L. 112–81, div. A, title VIII, §803(a), (b), Dec. 31, 2011, 125 Stat. 1485.)
+(Added Pub. L. 99–145, title IX, §911(a)(1), Nov. 8, 1985, 99 Stat. 682; amended Pub. L. 99–190, §101(b) \[title VIII, §8112(a)\], Dec. 19, 1985, 99 Stat. 1185, 1223; Pub. L. 100–26, §7(k)(3), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–180, div. A, title VIII, §805(a), Dec. 4, 1987, 101 Stat. 1126; Pub. L. 100–370, §1(f)(2)(A), (3)(A), July 19, 1988, 102 Stat. 846; Pub. L. 100–456, div. A, title III, §322(a), title VIII, §§826(a), 832(a), Sept. 29, 1988, 102 Stat. 1952, 2022, 2023; Pub. L. 100–463, title VIII, §8105(a), Oct. 1, 1988, 102 Stat. 2270–36; Pub. L. 100–526, title I, §106(a)(2), Oct. 24, 1988, 102 Stat. 2625; Pub. L. 100–700, §8(b), Nov. 19, 1988, 102 Stat. 4636; Pub. L. 101–189, div. A, title III, §311(a)(1), title VIII, §853(a)(1), (b)(3), Nov. 29, 1989, 103 Stat. 1411, 1518; Pub. L. 101–510, div. A, title XIII, §1301(10), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 102–190, div. A, title III, §346(a), Dec. 5, 1991, 105 Stat. 1346; Pub. L. 102–484, div. A, title VIII, §818(a), title X, §1052(26), title XIII, §1352(b), Oct. 23, 1992, 106 Stat. 2457, 2500, 2559; Pub. L. 103–355, title II, §2101(a)–(d), Oct. 13, 1994, 108 Stat. 3306–3308; Pub. L. 104–106, div. D, title XLIII, §4321(a)(5), (b)(9), Feb. 10, 1996, 110 Stat. 671, 672; Pub. L. 105–85, div. A, title VIII, §808(a), Nov. 18, 1997, 111 Stat. 1836; Pub. L. 105–261, div. A, title VIII, §804(a), Oct. 17, 1998, 112 Stat. 2083; Pub. L. 111–350, §5(b)(19), Jan. 4, 2011, 124 Stat. 3844; Pub. L. 112–81, div. A, title VIII, §803(a), (b), Dec. 31, 2011, 125 Stat. 1485; Pub. L. 112–239, div. A, title VIII, §827(g), Jan. 2, 2013, 126 Stat. 1836.)
 
 #### Historical and Revision Notes
 
@@ -268,6 +268,10 @@ Another section 2324 of this title was contained in chapter 138 and was renumber
 
 #### Amendments
 
+<b>2013</b>—Subsec. (k)(1). Pub. L. 112–239, §827(g)(1), substituted “commenced by the United States, by a State, or by a contractor employee submitting a complaint under section 2409 of this title” for “commenced by the United States or a State”.
+
+Subsec. (k)(2)(C). Pub. L. 112–239, §827(g)(2), substituted “the imposition of a monetary penalty or an order to take corrective action under section 2409 of this title” for “the imposition of a monetary penalty”.
+
 <b>2011</b>—Subsec. (d)(1). Pub. L. 111–350, §5(b)(19)(A), substituted “section 7103 of title 41” for “section 6 of the Contract Disputes Act of 1978 (41 U.S.C. 605)”.
 
 Subsec. (d)(2). Pub. L. 111–350, §5(b)(19)(B), substituted “section 7104(a) of title 41” for “section 7 of such Act (41 U.S.C. 606)”.
@@ -278,9 +282,9 @@ Pub. L. 111–350, §5(b)(19)(C), substituted “section 1127 of title 41” for
 
 Subsec. (e)(2)(C). Pub. L. 111–350, §5(b)(19)(D), substituted “(as added by section 7002(2) of the Omnibus Trade and Competitiveness Act of 1988)” for “(41 U.S.C. 10b–1)”.
 
-Subsec. (<i>l</i>)(5). Pub. L. 112–81, §803(b), struck out par. (5) which read as follows: “The term ‘senior executives’, with respect to a contractor, means the five most highly compensated employees in management positions at each home office and each segment of the contractor.”
+Subsec. (l)(5). Pub. L. 112–81, §803(b), struck out par. (5) which read as follows: “The term ‘senior executives’, with respect to a contractor, means the five most highly compensated employees in management positions at each home office and each segment of the contractor.”
 
-<b>1998</b>—Subsec. (<i>l</i>)(5). Pub. L. 105–261 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The term ‘senior executive’, with respect to a contractor, means—
+<b>1998</b>—Subsec. (l)(5). Pub. L. 105–261 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The term ‘senior executive’, with respect to a contractor, means—
 
 &emsp;“(A) the chief executive officer of the contractor or any individual acting in a similar capacity for the contractor;
 
@@ -290,7 +294,7 @@ Subsec. (<i>l</i>)(5). Pub. L. 112–81, §803(b), struck out par. (5) which rea
 
 <b>1997</b>—Subsec. (e)(1)(P). Pub. L. 105–85, §808(a)(1), added subpar. (P).
 
-Subsec. (<i>l</i>)(4) to (6). Pub. L. 105–85, §808(a)(2), added pars. (4) to (6).
+Subsec. (l)(4) to (6). Pub. L. 105–85, §808(a)(2), added pars. (4) to (6).
 
 <b>1996</b>—Subsec. (e)(2)(C). Pub. L. 104–106, §4321(b)(9)(A), struck out “awarding the contract” after “Secretary of Defense” and substituted “the Buy American Act (41 U.S.C. 10b–1)” for “title III of the Act of March 3, 1933 (41 U.S.C. 10b–1) (commonly referred to as the Buy American Act)”.
 
@@ -344,7 +348,7 @@ Subsec. (f)(4). Pub. L. 103–355, §2101(a)(6)(B)(ii), as amended by Pub. L. 10
 
 Pub. L. 103–355, §2101(a)(6)(B)(i), struck out “defense” before “contract auditor”.
 
-Subsec. (g). Pub. L. 103–355, §2101(a)(7), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “The regulations of the Secretary required to be prescribed under subsections (e) and (f)(1) shall require, to the maximum extent practicable, that suchregulations apply to all subcontractors of a covered contract.”
+Subsec. (g). Pub. L. 103–355, §2101(a)(7), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “The regulations of the Secretary required to be prescribed under subsections (e) and (f)(1) shall require, to the maximum extent practicable, that such regulations apply to all subcontractors of a covered contract.”
 
 Subsec. (h). Pub. L. 103–355, §2101(a)(8), inserted heading and substituted “in the Federal Acquisition Regulation” for “by the Secretary” in par. (1) and “head of the agency” for “Secretary of Defense” in introductory provisions of par. (2).
 
@@ -358,13 +362,13 @@ Subsec. (k)(2)(D). Pub. L. 103–355, §2101(a)(11)(B), struck out “by the Dep
 
 Subsec. (k)(4). Pub. L. 103–355, §2101(a)(11)(C), inserted “or Secretary of the military department concerned” after “head of the agency”, “or Secretary” after “agency head”, and “or military department” before period at end and substituted “in accordance with the Federal Acquisition Regulation” for “under regulations prescribed by such agency head”.
 
-Subsec. (<i>l</i>). Pub. L. 103–355, §2101(d), added subsec. (<i>l</i>) and struck out former subsec. (<i>l</i>) which related to periodic evaluation by Comptroller General of implementation of this section by Secretary of Defense.
+Subsec. (l). Pub. L. 103–355, §2101(d), added subsec. (l) and struck out former subsec. (l) which related to periodic evaluation by Comptroller General of implementation of this section by Secretary of Defense.
 
 Subsec. (m). Pub. L. 103–355, §2101(d), struck out subsec. (m) which read as follows: “In this section, the term ‘covered contract’ means a contract for an amount more than $100,000 entered into by the Department of Defense other than a fixed-price contract without cost incentives.”
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–484, §818(a)(1)(A), redesignated subsec. (a)(1) as entire subsection. Former subsec. (a)(2) redesignated subsec. (b)(1).
 
-Subsec. (b)(1). Pub. L. 102–484, §818(a)(1)(B), redesignated subsec. (a)(2) as subsec. (b)(1), in introductory provisions struck out “by clear and convincing evidence” after “Secretary determines” and substituted “expressly unallowable under a cost principle referred to in subsection (a) that defines the allowability of specific selected costs” for “unallowable under paragraph (1)”, and in subpar. (A), substituted “cost allocated to covered contracts for which a proposal for settlement of indirect costs has been submitted” for “costs”. Former subsec. (b) redesignated subsec. (b)(2).
+Subsec. (b)(1). Pub. L. 102–484, §818(a)(1)(B), redesignated subsec. (a)(2) as subsec. (b)(1), in introductoryprovisions struck out “by clear and convincing evidence” after “Secretary determines” and substituted “expressly unallowable under a cost principle referred to in subsection (a) that defines the allowability of specific selected costs” for “unallowable under paragraph (1)”, and in subpar. (A), substituted “cost allocated to covered contracts for which a proposal for settlement of indirect costs has been submitted” for “costs”. Former subsec. (b) redesignated subsec. (b)(2).
 
 Subsec. (b)(2). Pub. L. 102–484, §818(a)(2), redesignated subsec. (b) as subsec. (b)(2), struck out “, in addition to the penalty assessed under subsection (a),” after “against the contractor”, and substituted “the amount of the disallowed cost allocated to covered contracts for which a proposal for settlement of indirect costs has been submitted” for “the amount of such cost”.
 
@@ -382,9 +386,9 @@ Subsec. (f)(5). Pub. L. 102–484, §1052(26)(A), struck out par. (5) which read
 
 &emsp;“(C) with respect to a business segment which allocates to Department of Defense contracts $2,500,000 or more of such costs in any fiscal year of such business segment, are not in excess of the amount equal to 110 percent of such costs incurred by such business segment in the previous fiscal year.”
 
-Subsec. (<i>l</i>)(2). Pub. L. 102–484, §1052(26)(B)(i), substituted “paragraph (3)” for “subsection (e)(2)(C)”.
+Subsec. (l)(2). Pub. L. 102–484, §1052(26)(B)(i), substituted “paragraph (3)” for “subsection (e)(2)(C)”.
 
-Subsec. (<i>l</i>)(3). Pub. L. 102–484, §1052(26)(B)(ii), added par. (3).
+Subsec. (l)(3). Pub. L. 102–484, §1052(26)(B)(ii), added par. (3).
 
 <b>1991</b>—Subsec. (e)(2), (3). Pub. L. 102–190 added par. (2) and redesignated former par. (2) as (3).
 
@@ -402,11 +406,11 @@ Subsec. (<i>l</i>)(3). Pub. L. 102–484, §1052(26)(B)(ii), added par. (3).
 
 Subsec. (k)(5)(B)(i). Pub. L. 101–189, §853(b)(3), substituted “the Federal Acquisition Regulation” for “the single Government-wide procurement regulation issued pursuant to section 4(4)(A) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(4)(A))”.
 
-Subsec. (k)(6). Pub. L. 101–189, §853(a)(1)(A), designated par. (2) of subsec. (<i>l</i>), set out first, as subsec. (k)(6) and substituted “In this subsection:” for “In subsection (k):” in introductory provisions.
+Subsec. (k)(6). Pub. L. 101–189, §853(a)(1)(A), designated par. (2) of subsec. (l), set out first, as subsec. (k)(6) and substituted “In this subsection:” for “In subsection (k):” in introductory provisions.
 
-Subsec. (<i>l</i>). Pub. L. 101–189, §853(a)(1)(A), (C), restored the text of subsec. (k) as in effect prior to being struck out by Pub. L. 100–700, §8(b)(2) (see 1988 Amendment note below), designated such text as subsec. (<i>l</i>), and struck out former subsec. (<i>l</i>)(1), set out first, which defined “covered contract”. Former subsec. (<i>l</i>)(2), set out first, was redesignated subsec. (k)(6). Former subsec. (<i>l</i>), set out second, was redesignated (m).
+Subsec. (l). Pub. L. 101–189, §853(a)(1)(A), (C), restored the text of subsec. (k) as in effect prior to being struck out by Pub. L. 100–700, §8(b)(2) (see 1988 Amendment note below), designated such text as subsec. (l), and struck out former subsec. (l)(1), set out first, which defined “covered contract”. Former subsec. (l)(2), set out first, was redesignated subsec. (k)(6). Former subsec. (l), set out second, was redesignated (m).
 
-Subsec. (m). Pub. L. 101–189, §853(a)(1)(B), redesignated subsec. (<i>l</i>), set out second, as (m).
+Subsec. (m). Pub. L. 101–189, §853(a)(1)(B), redesignated subsec. (l), set out second, as (m).
 
 <b>1988</b>—Subsec. (e)(1)(L). Pub. L. 100–370, §1(f)(2)(A), added subpar. (L).
 
@@ -430,13 +434,13 @@ Subsec. (f)(5). Pub. L. 100–463, §8105(a), and Pub. L. 100–456, §826(a), a
 
 Subsec. (j). Pub. L. 100–370, §1(f)(3)(A)(ii), added subsec. (j). Former subsec. (j) redesignated (k).
 
-Subsec. (k). Pub. L. 100–700, §8(b)(2), added subsec. (k), and struck out former subsec. (k), the text of which was restored and redesignated subsec. (<i>l</i>) by Pub. L. 101–189, §853(a)(1)(C). See 1989 Amendment note above.
+Subsec. (k). Pub. L. 100–700, §8(b)(2), added subsec. (k), and struck out former subsec. (k), the text of which was restored and redesignated subsec. (l) by Pub. L. 101–189, §853(a)(1)(C). See 1989 Amendment note above.
 
-Pub. L. 100–370, §1(f)(3)(A)(i), redesignated subsec. (j) as (k). Former subsec. (k) redesignated (<i>l</i>).
+Pub. L. 100–370, §1(f)(3)(A)(i), redesignated subsec. (j) as (k). Former subsec. (k) redesignated (l).
 
-Subsec. (<i>l</i>). Pub. L. 100–700, §8(b)(2), added subsec. (<i>l</i>) defining terms “covered contract”, “proceeding”, “costs”, and “penalty”.
+Subsec. (l). Pub. L. 100–700, §8(b)(2), added subsec. (l) defining terms “covered contract”, “proceeding”, “costs”, and “penalty”.
 
-Pub. L. 100–370, §1(f)(3)(A)(i), redesignated subsec. (k) as (<i>l</i>).
+Pub. L. 100–370, §1(f)(3)(A)(i), redesignated subsec. (k) as (l).
 
 <b>1987</b>—Subsec. (e)(1)(K). Pub. L. 100–180 added subpar. (K).
 
@@ -448,6 +452,28 @@ Subsec. (h)(2). Pub. L. 99–190, §101(b) \[§8112(a)(2)\], inserted “, in a
 
 Subsecs. (j), (k). Pub. L. 99–190, §101(b) \[§8112(a)(3)\], added subsec. (j) and redesignated former subsec. (j) as (k).
 
+#### Effective Date of 2013 Amendment
+
+Pub. L. 112–239, div. A, title VIII, §827(i), Jan. 2, 2013, 126 Stat. 1836, provided that:
+
+“(1)
+
+In general.—The amendments made by this section \[amending this section and section 2409 of this title\] shall take effect on the date that is 180 days after the date of the enactment of this Act \[Jan. 2, 2013\], and shall apply to—
+
+&emsp;“(A) all contracts awarded on or after such date;
+
+&emsp;“(B) all task orders entered on or after such date pursuant to contracts awarded before, on, or after such date; and
+
+&emsp;“(C) all contracts awarded before such date that are modified to include a contract clause providing for the applicability of such amendments.
+
+“(2)
+
+Revision of supplements to the far.—Not later than 180 days after the date of the enactment of this Act, the Department of Defense Supplement to the Federal Acquisition Regulation and the National Aeronautics and Space Administration Supplement to the Federal Acquisition Regulation shall each be revised to implement the requirements arising under the amendments made by this section.
+
+“(3)
+
+Inclusion of contract clause in contracts awarded before effective date.—At the time of any major modification to a contract that was awarded before the date that is 180 days after the date of the enactment of this Act, the head of the contracting agency shall make best efforts to include in the contract a contract clause providing for the applicability of the amendments made by this section to the contract.”
+
 #### Effective Date of 2011 Amendment
 
 Pub. L. 112–81, div. A, title VIII, §803(c), Dec. 31, 2011, 125 Stat. 1485, provided that: “The amendments made by this section \[amending this section\]—
@@ -458,7 +484,7 @@ Pub. L. 112–81, div. A, title VIII, §803(c), Dec. 31, 2011, 125 Stat. 1485, p
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–261, div. A, title VIII, §804(d), Oct. 17, 1998, 112 Stat. 2083, provided that: “The amendments made by this section \[amending this section, sections 256 and 435 of Title 41, Public Contracts, and provisions set out as a note under section 435 of Title 41\] shall apply with respect to costs of compensation of senior executives incurred after January 1, 1999, under covered contracts (as defined in section 2324(<i>l</i>) of title 10, United States Code, and section 306(<i>l</i>) of the Federal Property and Administrative Services Act of 1949 (\[former\] 41 U.S.C.256(<i>l</i>))\[)\] \[now 41 U.S.C. 4301(2), 4302\] entered into before, on, or after the date of the enactment of this Act \[Oct. 17, 1998\].”
+Pub. L. 105–261, div. A, title VIII, §804(d), Oct. 17, 1998, 112 Stat. 2083, provided that: “The amendments made by this section \[amending this section, sections 256 and 435 of Title 41, Public Contracts, and provisions set out as a note under section 435 of Title 41\] shall apply with respect to costs of compensation of senior executives incurred after January 1, 1999, under covered contracts (as defined in section 2324(l) of title 10, United States Code, and section 306(l) of the Federal Property and Administrative Services Act of 1949 (\[former\] 41 U.S.C.256(l))\[)\] \[now 41 U.S.C. 4301(2), 4302\] entered into before, on, or after the date of the enactment of this Act \[Oct. 17, 1998\].”
 
 #### Effective Date of 1997 Amendment
 
@@ -470,7 +496,7 @@ Pub. L. 105–85, div. A, title VIII, §808(e), Nov. 18, 1997, 111 Stat. 1838, p
 
 #### Effective Date of 1996 Amendment
 
-Section 4321(a) of Pub. L. 104–106 provided that the amendment made by that section is effective as of Oct. 13, 1994, and as if included in Pub. L. 103–355 as enacted.
+Pub. L. 104–106, div. D, title XLIII, §4321(a), Feb. 10, 1996, 110 Stat. 671, provided that the amendment made by that section is effective as of Oct. 13, 1994, and as if included in Pub. L. 103–355 as enacted.
 
 For effective date and applicability of amendment by section 4321(b)(9) of Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 2302 of this title.
 
@@ -482,41 +508,41 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
 
-Section 818(b) of Pub. L. 102–484 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 23, 1992\] and shall apply, as provided in regulations prescribed by the Secretary of Defense, with respect to proposals for settlement of indirect costs for which the Federal Government has not formally initiated an audit before that date.”
+Pub. L. 102–484, div. A, title VIII, §818(b), Oct. 23, 1992, 106 Stat. 2458, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 23, 1992\] and shall apply, as provided in regulations prescribed by the Secretary of Defense, with respect to proposals for settlement of indirect costs for which the Federal Government has not formally initiated an audit before that date.”
 
-Section 1352(c) of Pub. L. 102–484 provided that: “The amendments made by subsection (b) \[amending this section\] apply to covered contracts (as defined in section 2324 of title 10, United States Code) that are in effect or are entered into on or after October 1, 1991, for costs incurred on or after October 1, 1991.”
+Pub. L. 102–484, div. A, title XIII, §1352(c), Oct. 23, 1992, 106 Stat. 2559, provided that: “The amendments made by subsection (b) \[amending this section\] apply to covered contracts (as defined in section 2324 of title 10, United States Code) that are in effect or are entered into on or after October 1, 1991, for costs incurred on or after October 1, 1991.”
 
 #### Effective Date of 1991 Amendment
 
-Section 346(b) of Pub. L. 102–190 provided that: “The amendments made by subsection (a) \[amending this section\] shall not apply with respect to a foreign national whose employment under a military banking contract (defined in section 2324(e)(2)(B) of title 10, United States Code, as added by subsection (a)) was terminated before the date of the enactment of this Act \[Dec. 5, 1991\].”
+Pub. L. 102–190, div. A, title III, §346(b), Dec. 5, 1991, 105 Stat. 1347, provided that: “The amendments made by subsection (a) \[amending this section\] shall not apply with respect to a foreign national whose employment under a military banking contract (defined in section 2324(e)(2)(B) of title 10, United States Code, as added by subsection (a)) was terminated before the date of the enactment of this Act \[Dec. 5, 1991\].”
 
 #### Effective Date of 1989 Amendment
 
-Section 311(a)(2) of Pub. L. 101–189 provided that: “Subparagraph (N) of such subsection \[10 U.S.C. 2324(e)(1)(N)\], as added by paragraph (1), shall not apply with respect to the termination of the employment of a foreign national employed under any covered contract (as defined in subsection (<i>l</i>) of such section \[10 U.S.C. 2324(<i>l</i>)\]) if such termination is the result of the closing of, or the curtailment of activities at, a United States military facility in a foreign country pursuant to an agreement entered into with the government of that country before the date of the enactment of this Act \[Nov. 29, 1989\].”
+Pub. L. 101–189, div. A, title III, §311(a)(2), Nov. 29, 1989, 103 Stat. 1411, provided that: “Subparagraph (N) of such subsection \[10 U.S.C. 2324(e)(1)(N)\], as added by paragraph (1), shall not apply with respect to the termination of the employment of a foreign national employed under any covered contract (as defined in subsection (l) of such section \[10 U.S.C. 2324(l)\]) if such termination is the result of the closing of, or the curtailment of activities at, a United States military facility in a foreign country pursuant to an agreement entered into with the government of that country before the date of the enactment of this Act \[Nov. 29, 1989\].”
 
-Section 853(a)(3) of Pub. L. 101–189 provided that: “The amendments made by this subsection \[amending this section and provisions set out as a note below\] shall take effect as of November 19, 1988.”
+Pub. L. 101–189, div. A, title III, §853(a)(3), Nov. 29, 1989, 103 Stat. 1518, provided that: “The amendments made by this subsection \[amending this section and provisions set out as a note below\] shall take effect as of November 19, 1988.”
 
 #### Effective and Termination Dates of 1988 Amendments
 
-Section 8(e) of Pub. L. 100–700 provided that: “The amendments made by subsections (a) and (b) \[enacting section 256 of Title 41, Public Contracts, and amending this section\] shall take effect with respect to contracts awarded after the date of the enactment of this Act \[Nov. 19, 1988\].”
+Pub. L. 100–700, §8(e), Nov. 19, 1988, 102 Stat. 4638, provided that: “The amendments made by subsections (a) and (b) \[enacting section 256 of Title 41, Public Contracts, and amending this section\] shall take effect with respect to contracts awarded after the date of the enactment of this Act \[Nov. 19, 1988\].”
 
-Section 8105(d) of Pub. L. 100–463 provided that subsec. (f)(5) of this section, as enacted by section 8105(a) of Pub. L. 100–463, would cease to be effective three years after Oct. 1, 1988. Section 106(a)(2) of Pub. L. 100–526 provided that section 8105 of Pub. L. 100–463“and the amendment made by that section shall cease to be effective”.
+Pub. L. 100–463, title VIII, §8105(d), Oct. 1, 1988, 102 Stat. 2270–37, provided that subsec. (f)(5) of this section, as enacted by section 8105(a) of Pub. L. 100–463, would cease to be effective three years after Oct. 1, 1988. Section 106(a)(2) of Pub. L. 100–526 provided that section 8105 of Pub. L. 100–463 “and the amendment made by that section shall cease to be effective”.
 
-Section 322(b) of Pub. L. 100–456 provided that: “Subparagraph (M) of section 2324(e)(1) of title 10, United States Code, as added by subsection (a), shall apply with respect to any contract entered into after the end of the 180-day period beginning on the date of the enactment of this Act \[Sept. 29, 1988\].”
+Pub. L. 100–456, div. A, title III, §322(b), Sept. 29, 1988, 102 Stat. 1953, provided that: “Subparagraph (M) of section 2324(e)(1) of title 10, United States Code, as addedby subsection (a), shall apply with respect to any contract entered into after the end of the 180-day period beginning on the date of the enactment of this Act \[Sept. 29, 1988\].”
 
-Section 826(d) of Pub. L. 100–456, as amended by Pub. L. 100–526, title I, §106(a)(1)(B), Oct. 24, 1988, 102 Stat. 2625, provided that: “Section 2324(f)(5) of title 10, United States Code (as added by subsection (a)), shall cease to be effective on September 30, 1991.”
+Pub. L. 100–456, div. A, title VIII, §826(d), Sept. 29, 1988, 102 Stat. 2023, as amended by Pub. L. 100–526, title I, §106(a)(1)(B), Oct. 24, 1988, 102 Stat. 2625, provided that: “Section 2324(f)(5) of title 10, United States Code (as added by subsection (a)), shall cease to be effective on September 30, 1991.”
 
 #### Effective Date of 1987 Amendment
 
-Section 805(b) of Pub. L. 100–180 provided that: “Subparagraph (K) of section 2324(e)(1) of title 10, United States Code, as added by subsection (a), shall apply to any contract entered into after the end of the 120-day period beginning on the date of the enactment of this Act \[Dec. 4, 1987\].”
+Pub. L. 100–180, div. A, title VIII, §805(b), Dec. 4, 1987, 101 Stat. 1126, provided that: “Subparagraph (K) of section 2324(e)(1) of title 10, United States Code, as added by subsection (a), shall apply to any contract entered into after the end of the 120-day period beginning on the date of the enactment of this Act \[Dec. 4, 1987\].”
 
 #### Effective Date
 
-Section 911(c) of Pub. L. 99–145 provided that: “Section 2324 of title 10, United States Code, as added by subsection (a), shall apply only to contracts for which solicitations are issued on or after the date on which such regulations are prescribed.”
+Pub. L. 99–145, title IX, §911(c), Nov. 8, 1985, 99 Stat. 685, provided that: “Section 2324 of title 10, United States Code, as added by subsection (a), shall apply only to contracts for which solicitations are issued on or after the date on which such regulations are prescribed.”
 
 #### Regulations
 
-Section 2101(e) of Pub. L. 103–355 provided that: “The regulations of the Secretary of Defense implementing section 2324 of title 10, United States Code, shall remain in effect until the Federal Acquisition Regulation is revised to implement the amendments made by this section \[amending this section\].”
+Pub. L. 103–355, title II, §2101(e), Oct. 13, 1994, 108 Stat. 3309, provided that: “The regulations of the Secretary of Defense implementing section 2324 of title 10, United States Code, shall remain in effect until the Federal Acquisition Regulation is revised to implement the amendments made by this section \[amending this section\].”
 
 Pub. L. 100–700, §8(d), Nov. 19, 1988, 102 Stat. 4638, provided that: “The regulations necessary for the implementation of section 306(e) of the Federal Property and Administrative Services Act of 1949 \[now 41 U.S.C. 4304\] (as added by subsection (a)) and section 2324(k)(5) of title 10, United States Code (as added by subsection (b))—
 
@@ -524,11 +550,11 @@ Pub. L. 100–700, §8(d), Nov. 19, 1988, 102 Stat. 4638, provided that: “The 
 
 &emsp;“(2) shall apply to contracts entered into more than 30 days after the date on which such regulations are issued.”
 
-Section 8105(b), (c) of Pub. L. 100–463 provided for the promulgation of regulations and the preparation of a report in connection with the operation of subsec. (f)(5), as enacted by section 8105(a) of Pub. L. 100–463. Section 106(a)(2) of Pub. L. 100–526 provided that section 8105 of Pub. L. 100–463 “and the amendment made by that section shall cease to be effective”.
+Pub. L. 100–463, title VIII, §8105(b), (c), Oct. 1, 1988, 102 Stat. 2270–37, provided for the promulgation of regulations and the preparation of a report in connection with the operation of subsec. (f)(5), as enacted by section 8105(a) of Pub. L. 100–463. Section 106(a)(2) of Pub. L. 100–526 provided that section 8105 of Pub. L. 100–463 “and the amendment made by that section shall cease to be effective”.
 
-Section 826(b) of Pub. L. 100–456 provided that: “The Secretary of Defense shall prescribe final regulations under paragraph (5) of section 2324(f) of title 10, United States Code (as added by subsection (a)), not later than 90 days after the date of the enactment of this Act \[Sept. 29, 1988\]. Such regulations shall apply with respect to costs referred to in such paragraph that are incurred by a Department of Defense contractor (or a subcontractor of such a contractor) on or after the first day of the contractor's (or subcontractor's) first fiscal year that begins on or after the date on which such final regulations are prescribed.”
+Pub. L. 100–456, div. A, title VIII, §826(b), Sept. 29, 1988, 102 Stat. 2022, provided that: “The Secretary of Defense shall prescribe final regulations under paragraph (5) of section 2324(f) of title 10, United States Code (as added by subsection (a)), not later than 90 days after the date of the enactment of this Act \[Sept. 29, 1988\]. Such regulations shall apply with respect to costs referred to in such paragraph that are incurred by a Department of Defense contractor (or a subcontractor of such a contractor) on or after the first day of the contractor's (or subcontractor's) first fiscal year that begins on or after the date on which such final regulations are prescribed.”
 
-Section 832(b) of Pub. L. 100–456 related to regulations for the implementation of subsec. (e)(1)(N) of this section, prior to repeal by Pub. L. 100–700, §8(c), Nov. 19, 1988, 102 Stat. 4638.
+Pub. L. 100–456, div. A, title VIII, §832(b), Sept. 29, 1988, 102 Stat. 2024, related to regulations for the implementation of subsec. (e)(1)(N) of this section, prior to repeal by Pub. L. 100–700, §8(c), Nov. 19, 1988, 102 Stat. 4638.
 
 Pub. L. 99–190, 101(b) \[title VIII, §8112(b), (c)\], Dec. 19, 1985, 99 Stat. 1185, 1223, required the regulations required under section 911(b) of Pub. L. 99–145, set out below, to be submitted to Congress before the publication of such regulations in accordance with former 41 U.S.C. 418b (now 41 U.S.C. 1707) and directed the Comptroller General, within 180 days of publication of the regulations, to submit to Congress a report on the Comptroller General's initial evaluation under subsection (j)(1) of this section.
 
@@ -601,6 +627,10 @@ Report.—Not later than one year after the date of the enactment of this Act \[
 &emsp;“(5)
 
 Effective date.—The regulations prescribed under this subsection shall apply to contracts awarded for or on behalf of the Department of Defense on or after May 1, 2007.”
+
+#### Construction
+
+Pub. L. 112–239, div. A, title VIII, §827(h), Jan. 2, 2013, 126 Stat. 1836, provided that: “Nothing in this section, or the amendments made by this section \[amending this section and section 2409 of this title and enacting provisions set out as a note under this section\], shall be construed to provide any rights to disclose classified information not otherwise provided by law.”
 
 #### Payment of Restructuring Costs Under Defense Contracts
 
@@ -680,13 +710,13 @@ Definitions.—In this section:
 
 #### Assessment of Regulations Relating to Allowability of Costs To Promote Export of Defense Products; Report to Congress
 
-Section 826(c) of Pub. L. 100–456, as amended by Pub. L. 100–526, title I, §106(a)(1)(A), Oct. 24, 1988, 102 Stat. 2625, directed Comptroller General of United States and Inspector General of Department of Defense, not later than 2 years after Sept. 29, 1988, to submit to Congress a report including an assessment of whether the regulations required by subsec. (f)(5) of this section provide the appropriate incentives to stimulate exports by the United States defense industry and provide cost savings to the United States and whether such regulations provide appropriate criteria to ensure that costs allowed are reasonably likely to provide future cost savings to the United States.
+Pub. L. 100–456, div. A, title VIII, §826(c), Sept. 29, 1988, 102 Stat. 2022, as amended by Pub. L. 100–526, titleI, §106(a)(1)(A), Oct. 24, 1988, 102 Stat. 2625, directed Comptroller General of United States and Inspector General of Department of Defense, not later than 2 years after Sept. 29, 1988, to submit to Congress a report including an assessment of whether the regulations required by subsec. (f)(5) of this section provide the appropriate incentives to stimulate exports by the United States defense industry and provide cost savings to the United States and whether such regulations provide appropriate criteria to ensure that costs allowed are reasonably likely to provide future cost savings to the United States.
 
 #### Air Travel Expenses of Defense Contractor Personnel
 
-Pub. L. 100–456, div. A, title VIII, §833, Sept. 29, 1988, 102 Stat. 2024, as amended by Pub. L. 101–189, div. A,title VIII, §853(a)(2), Nov. 29, 1989, 103 Stat. 1518, directed the Administrator of General Services to enter into negotiations with commercial air carriers for agreements that would permit personnel of contractors who were traveling solely in the performance of covered contracts to be transported by such carriers at the same discount rates as such carriers charged for travel by Federal Government employees traveling at Government expense, directed the Secretary of Defense, not later than 120 days after the first such agreement would go into effect, to prescribe regulations that would provide that costs in excess of the rates established under the agreement were not allowable if the rate had been available and travel could have reasonably been performed under the conditions required by the air carrier to qualify for such rate, and provided that section 833 of Pub. L. 100–456 would cease to be effective three years after Sept. 29, 1988.
+Pub. L. 100–456, div. A, title VIII, §833, Sept. 29, 1988, 102 Stat. 2024, as amended by Pub. L. 101–189, div. A, title VIII, §853(a)(2), Nov. 29, 1989, 103 Stat. 1518, directed the Administrator of General Services to enter into negotiations with commercial air carriers for agreements that would permit personnel of contractors who were traveling solely in the performance of covered contracts to be transported by such carriers at the same discount rates as such carriers charged for travel by Federal Government employees traveling at Government expense, directed the Secretary of Defense, not later than 120 days after the first such agreement would go into effect, to prescribe regulations that would provide that costs in excess of the rates established under the agreement were not allowable if the rate had been available and travel could have reasonably been performed under the conditions required by the air carrier to qualify for such rate, and provided that section 833 of Pub. L. 100–456 would cease to be effective three years after Sept. 29, 1988.
 
 #### Burden of Proof in Government Contract Dispute Resolution
 
-Section 933 of Pub. L. 99–145, which provided that in proceeding before the Armed Services Board of Contract Appeals, United States Claims Court, or any other Federal court in which reasonableness of indirect costs for which a contractor seeks reimbursement from Department of Defense is in issue, the burden of proof is upon the contractor to establish that such costs are reasonable, was repealed and restated in subsec. (j) of this section by Pub. L. 100–370, §1(f)(3)(A)(ii), (B), July 19, 1988, 102 Stat. 846.
+Pub. L. 99–145, title IX, §933, Nov. 8, 1985, 99 Stat. 700, which provided that in proceeding before the Armed Services Board of Contract Appeals, United States Claims Court, or any other Federal court in which reasonableness of indirect costs for which a contractor seeks reimbursement from Department of Defense is in issue, the burden of proof is upon the contractor to establish that such costs are reasonable, was repealed and restated in subsec. (j) of this section by Pub. L. 100–370, §1(f)(3)(A)(ii), (B), July 19, 1988, 102 Stat. 846.
 

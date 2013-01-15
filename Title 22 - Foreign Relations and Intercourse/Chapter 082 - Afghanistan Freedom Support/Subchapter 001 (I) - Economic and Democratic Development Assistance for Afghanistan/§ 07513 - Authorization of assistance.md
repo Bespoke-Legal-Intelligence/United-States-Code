@@ -50,7 +50,7 @@ Notwithstanding any other provision of law, the President is authorized to provi
 
 #### (4) Reestablishment of food security, rehabilitation of the agriculture sector, improvement in health conditions, and the reconstruction of basic infrastructure
 
-&emsp;To assist in expanding access to markets in Afghanistan, to increase the availability of food in markets in Afghanistan, to rehabilitate the agriculture sector in Afghanistan by creating jobs for former combatants, returning refugees, and internally displaced persons, to improve health conditions, and assist in the rebuilding of basic infrastructure in Afghanistan, including assistance such as—
+&emsp;To assist in expanding access to markets in Afghanistan, to increase the availability of food in markets in Afghanistan, to rehabilitate the agriculture sector in Afghanistan by creating jobs for former combatants, returning refugees, and internally displaced persons,to improve health conditions, and assist in the rebuilding of basic infrastructure in Afghanistan, including assistance such as—
 
 &emsp;&emsp;(A) rehabilitation of the agricultural infrastructure, including irrigation systems and rural roads;
 
@@ -100,7 +100,7 @@ Notwithstanding any other provision of law, the President is authorized to provi
 
 &emsp;&emsp;&emsp;(i) support for the activities of the Government of Afghanistan to implement its constitution, to develop modern legal codes and court rules, to provide for the creation of legal assistance programs, and other initiatives to promote the rule of law in Afghanistan;
 
-&emsp;&emsp;&emsp;(ii) support for improvements in the capacity and physical infrastructure of the justice system in Afghanistan, such as for professional training (including for women) to improve the administration ofjustice, for programs to enhance prosecutorial and judicial capabilities and to protect participants in judicial cases, for improvements in the instruction of law enforcement personnel (including human rights training), and for the promotion of civilian police roles that support democracy;
+&emsp;&emsp;&emsp;(ii) support for improvements in the capacity and physical infrastructure of the justice system in Afghanistan, such as for professional training (including for women) to improve the administration of justice, for programs to enhance prosecutorial and judicial capabilities and to protect participants in judicial cases, for improvements in the instruction of law enforcement personnel (including human rights training), and for the promotion of civilian police roles that support democracy;
 
 &emsp;&emsp;&emsp;(iii) support for rehabilitation and rebuilding of courthouses and detention facilities;
 
@@ -242,13 +242,17 @@ Notwithstanding any other provision of law, the President is authorized to provi
 
 #### (C) Additional requirements
 
-&emsp;&emsp;The first report submitted under this paragraph shall include a cumulative account of information described in subparagraph (B) from all prior periods beginning with fiscal year 2001. The first report under this paragraph shall be submitted not later than March 15, 2005. Subsequent reports shall be submitted every 12 months thereafter and may be included in the report required under section 7536(c)(2) of this title.
+&emsp;&emsp;The first report submitted under this paragraph shall include a cumulative account of information described in subparagraph (B) from all prior periods beginning with fiscal year 2001. The first report under this paragraph shall be submitted not later than March 15, 2005. Subsequent reports shall be submitted every 12 months thereafter and may be included in the report required under section 7536(c)(2) <sup>2</sup> of this title.
 
 #### (2) Submission of information for report
 
 &emsp;The head of each United States Government agency referred to in paragraph (1) shall provide on a timely basis to the Secretary of State such information as the Secretary may reasonably require to allow the Secretary to prepare and submit the report required under paragraph (1).
 
 (Pub. L. 107–327, title I, §103, Dec. 4, 2002, 116 Stat. 2799; Pub. L. 108–458, title VII, §7104(e)(1)(B), (f)(2)–(g), (j)(1), (k)(2), Dec. 17, 2004, 118 Stat. 3782, 3783, 3785, 3787, 3788.)
+
+#### References in Text
+
+Section 7536 of this title, referred to in subsec. (d)(1)(C), was omitted from the Code.
 
 #### Amendments
 
@@ -276,7 +280,7 @@ Committee on International Relations of House of Representatives changed to Comm
 
 #### Authority To Establish a Program To Develop and Carry Out Infrastructure Projects in Afghanistan
 
-Pub. L. 111–383, div. A, title XII, §1217, Jan. 7, 2011, 124 Stat. 4393, as amended by Pub. L. 112–81, div. A, title XII, §1217, Dec. 31, 2011, 125 Stat. 1632, provided that:
+Pub. L. 111–383, div. A, title XII, §1217, Jan. 7, 2011, 124 Stat. 4393, as amended by Pub. L. 112–81, div. A, title XII, §1217, Dec. 31, 2011, 125 Stat. 1632; Pub. L. 112–239, div. A, title XII, §1219, Jan. 2, 2013, 126 Stat. 1991, provided that:
 
 “(a)
 
@@ -324,11 +328,21 @@ Funding.—
 
 &emsp;“(1)
 
-In general.—Subject to paragraph (2), the Secretary of Defense may use up to $400,000,000 of funds made available to the Department of Defense for operation and maintenance for fiscal year 2012 to carry out the program authorized under subsection (a).
+In general.—Subject to paragraph (2), to carry out the program authorized under subsection (a), the Secretary of Defense may use amounts as follows:
+
+&emsp;&emsp;“(A) Up to $400,000,000 made available to the Department of Defense for operation and maintenance for fiscal year 2012.
+
+&emsp;&emsp;“(B) Up to $350,000,000 made available to the Department of Defense for operation and maintenance for fiscal year 2013.
 
 &emsp;“(2)
 
-Limitation.—The Secretary of Defense may use not more than 85 percent of the amount specified in paragraph (1) to carry out the program authorized under subsection (a) until the Secretary of Defense, in consultation with the Secretary of State, submits to the appropriate congressional committees a plan for the allocation and use of funds under the program for fiscal year 2012.
+Limitation.—The Secretary of Defense may use not more than 50 percent of the amount specified in paragraph (1) for a fiscal year after fiscal year 2011 to carry out the program authorized under subsection (a) until the Secretary of Defense, in consultation with the Secretary of State, submits to the appropriate congressional committees a plan for the allocation and use of funds under the program for such fiscal year, including for each project to be initiated during such fiscal year the following:
+
+&emsp;&emsp;“(A) An estimate of the financial and other requirements necessary to sustain such project on an annual basis after the completion of such project.
+
+&emsp;&emsp;“(B) An assessment whether the Government of Afghanistan is committed to and has the capacity to maintain and use such project after its completion.
+
+&emsp;&emsp;“(C) A description of any arrangements for the sustainment of such project following its completion if the Government of Afghanistan lacks the capacity (in either financial or human resources) to maintain such project.
 
 &emsp;“(3)
 
@@ -337,6 +351,8 @@ Availability.—Funds made available by paragraph (1) are authorized to remain a
 &emsp;&emsp;“(A) In the case of funds for fiscal year 2011, until September 30, 2012.
 
 &emsp;&emsp;“(B) In the case of funds for fiscal year 2012, until September 30, 2013.
+
+&emsp;&emsp;“(C) In the case of funds for fiscal year 2013, until September 30, 2014.
 
 “(g)
 
@@ -466,7 +482,9 @@ Implementation.—(1) In providing assistance under subsection (a), the Presiden
 
 “(c)
 
-Availability of Funds.—Funds made available under the 2001 Emergency Supplemental Appropriations Act for Recovery from and Response to TerroristAttacks on the United States (Public Law 107–38) \[115 Stat. 220\], shall be available to carry out this Act.”
+Availability of Funds.—Funds made available under the 2001 Emergency Supplemental Appropriations Act for Recovery from and Response to Terrorist Attacks on the United States (Public Law 107–38) \[115 Stat. 220\], shall be available to carry out this Act.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “ordnance.”</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

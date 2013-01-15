@@ -10,7 +10,7 @@ There is established in the general fund of the Treasury a separate account whic
 
 &emsp;(C) Fees charged by the Drug Enforcement Administration under its diversion control program shall be set at a level that ensures the recovery of the full costs of operating the various aspects of that program.
 
-&emsp;(D) The amount required to be refunded from the Diversion Control Fee Account for fiscalyear 1994 and thereafter shall be refunded in accordance with estimates made in the budget request of the Attorney General for those fiscal years. Any proposed changes in the amounts designated in said budget requests shall only be made after notification to the Committees on Appropriations of the House of Representatives and the Senate fifteen days in advance.
+&emsp;(D) The amount required to be refunded from the Diversion Control Fee Account for fiscal year 1994 and thereafter shall be refunded in accordance with estimates made in the budget request of the Attorney General for those fiscal years. Any proposed changes in the amounts designated in said budget requests shall only be made after notification to the Committees on Appropriations of the House of Representatives and the Senate fifteen days in advance.
 
 #### (2) Definitions
 

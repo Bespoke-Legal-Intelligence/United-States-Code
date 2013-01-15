@@ -14,7 +14,7 @@ The Secretary shall establish a program of swine price information reporting tha
 
 #### (1) In general
 
-&emsp;The Secretary shall establish and implement a price reporting program in accordance withthis section that includes the reporting and publication of information required under this section.
+&emsp;The Secretary shall establish and implement a price reporting program in accordance with this section that includes the reporting and publication of information required under this section.
 
 #### (2) Packer-owned swine
 
@@ -114,7 +114,7 @@ The Secretary shall establish a program of swine price information reporting tha
 
 &emsp;&emsp;&emsp;&emsp;(VI) the average sort loss, which shall be equal to the average discount (in dollars per hundred pounds carcass weight) for barrows and gilts slaughtered during the applicable reporting period, resulting from the fact that the barrows and gilts did not fall within the individual packer's established carcass weight or lot variation range;
 
-&emsp;&emsp;&emsp;&emsp;(VII) the average backfat, which shall be equal to the average of the backfat thickness (in inches) measured between the third and fourth from the last ribs, 7 centimeters from the carcass split (or adjusted from the individual packer's measurement to that reference point using an adjustment made by the Secretary) of the barrows and gilts slaughtered during the applicable reporting period;
+&emsp;&emsp;&emsp;&emsp;(VII) the average backfat, which shall be equal to the average of the backfat thickness (in inches) measured between the third and fourth from the last ribs, 7 centimeters from the carcass split (or adjusted from the individual packer's measurement to that reference pointusing an adjustment made by the Secretary) of the barrows and gilts slaughtered during the applicable reporting period;
 
 &emsp;&emsp;&emsp;&emsp;(VIII) the average lean percentage, which shall be equal to the average percentage of the carcass weight comprised of lean meat for the barrows and gilts slaughtered during the applicable reporting period, except that when a packer is required to report the average lean percentage under this subclause, the packer shall make available to the Secretary the underlying data, applicable methodology and formulae, and supporting materials used to determine the average lean percentage, which the Secretary may convert to the carcass measurements or lean percentage of the barrows and gilts of the individual packer to correlate to a common percent lean measurement; and
 
@@ -178,7 +178,7 @@ The Secretary shall establish a program of swine price information reporting tha
 
 #### (1) Prior day report
 
-&emsp;The corporate officers or officially designated representatives of each packer of sows and boars shall report to the Secretary, for each business day of the packer, such information reported by hog class as the Secretary determines necessary and appropriate to—
+&emsp;The corporate officers or officially designated representatives of each packer of sows and boars shall report to the Secretary, foreach business day of the packer, such information reported by hog class as the Secretary determines necessary and appropriate to—
 
 &emsp;&emsp;(A) comply with the publication requirements of this section; and
 

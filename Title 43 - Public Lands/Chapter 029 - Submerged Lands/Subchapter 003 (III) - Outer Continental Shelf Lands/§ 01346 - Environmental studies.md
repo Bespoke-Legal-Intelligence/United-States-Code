@@ -6,7 +6,7 @@
 
 (2) Each study required by paragraph (1) of this subsection shall be commenced not later than six months after September 18, 1978, with respect to any area or region where a lease sale has been held or announced by publication of a notice of proposed lease sale before September 18, 1978, and not later than six months prior to the holding of a lease sale with respect to any area or region where no lease sale has been held or scheduled before September 18, 1978. In the case of an agreement under section 1337(k)(2) of this title, each study required by paragraph (1) of this subsection shall be commenced not later than 6 months prior to commencing negotiations for such agreement or the entering into the memorandum of agreement as the case may be. The Secretary may utilize information collected in any study prior to September 18, 1978.
 
-(3) In addition to developing environmental information, any study of an area or region, to the extent practicable, shall be designed to predictimpacts on the marine biota which may result from chronic low level pollution or large spills associated with outer Continental Shelf production, from the introduction of drill cuttings and drilling muds in the area, and from the laying of pipe to serve the offshore production area, and the impacts of development offshore on the affected and coastal areas.
+(3) In addition to developing environmental information, any study of an area or region, to the extent practicable, shall be designed to predict impacts on the marine biota which may result from chronic low level pollution or large spills associated with outer Continental Shelf production, from the introduction of drill cuttings and drilling muds in the area, and from the laying of pipe to serve the offshore production area, and the impacts of development offshore on the affected and coastal areas.
 
 #### (b) Additional studies subsequent to leasing and development of area
 
@@ -40,5 +40,5 @@ Subsec. (a)(2). Pub. L. 103–426, §1(b)(2), inserted before last sentence “I
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the 15th item on page 111 identifies a reporting provision which, as subsequently amended, is contained in subsec. (e) of this section), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual,semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the 15th item on page 111 identifies a reporting provision which, as subsequently amended, is contained in subsec. (e) of this section), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 

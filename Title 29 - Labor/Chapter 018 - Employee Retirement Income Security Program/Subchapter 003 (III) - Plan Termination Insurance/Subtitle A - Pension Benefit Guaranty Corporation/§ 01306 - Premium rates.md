@@ -20,7 +20,13 @@
 
 (3)(A) Except as provided in subparagraph (C), the annual premium rate payable to the corporation by all plans for basic benefits guaranteed under this subchapter is—
 
-&emsp;(i) in the case of a single-employer plan, for plan years beginning after December 31, 2005, an amount equal to the sum of $30 plus the additional premium (if any) determined under subparagraph (E) for each individual who is a participant in such plan during the plan year; <sup>1</sup>
+&emsp;(i) in the case of a single-employer plan, an amount for each individual who is a participant in such plan during the plan year equal to the sum of the additional premium (if any) determined under subparagraph (E) and—
+
+&emsp;&emsp;(I) for plan years beginning after December 31, 2005, and before January 1, 2013, $30;
+
+&emsp;&emsp;(II) for plan years beginning after December 31, 2012, and before January 1, 2014, $42; and
+
+&emsp;&emsp;(III) for plan years beginning after December 31, 2013, $49.<sup>1</sup>
 
 &emsp;(ii) in the case of a multiemployer plan, for the plan year within which the date of enactment of the Multiemployer Pension Plan Amendments Act of 1980 falls, an amount for each individual who is a participant in such plan for such plan year equal to the sum of—
 
@@ -36,9 +42,11 @@
 
 &emsp;&emsp;(III) $2.20 for each participant, for the seventh and eighth plan years, and
 
-&emsp;&emsp;(IV) $2.60 for each participant, for the ninth plan year, and for each succeeding plan year, or
+&emsp;&emsp;(IV) $2.60 for each participant, for the ninth plan year, and for each succeeding plan year,
 
-&emsp;(iv) in the case of a multiemployer plan, for plan years beginning after December 31, 2005, $8.00 for each individual who is a participant in such plan during the applicable plan year.
+&emsp;(iv) in the case of a multiemployer plan, for plan years beginning after December 31, 2005, and before January 1, 2013, $8.00 for each individual who is a participant in such plan during the applicable plan year, or
+
+&emsp;(v) in the case of a multiemployer plan, for plan years beginning after December 31, 2012, $12.00 for each individual who is a participant in such plan during the applicable plan year.
 
 (B) The corporation may prescribe by regulation the extent to which the rate described in subparagraph (A)(i) applies more than once for any plan year to an individual participating in more than one plan maintained by the same employer, and the corporation may prescribe regulations under which the rate described in clause (iii) or (iv) of subparagraph (A) will not apply to the same participant in any multiemployer plan more than once for any plan year.
 
@@ -56,13 +64,17 @@
 
 (iv) The provisions of this subparagraph shall not apply if the annual premium rate is increased to a level in excess of $2.60 per participant under any other provisions of this subchapter.
 
-(D)(i) Not later than 120 days before the date on which an increase under subparagraph (C)(ii)is to become effective, the corporation shall publish in the Federal Register a notice of the determination described in subparagraph (C)(ii), the basis for the determination, the amount of the increase in the premium, and the anticipated increase in premium income that would result from the increase in the premium rate. The notice shall invite public comment, and shall provide for a public hearing if one is requested. Any such hearing shall be commenced not later than 60 days before the date on which the increase is to become effective.
+(D)(i) Not later than 120 days before the date on which an increase under subparagraph (C)(ii) is to become effective, the corporation shall publish in the Federal Register a notice of the determination described in subparagraph (C)(ii), the basis for the determination, the amount of the increase in the premium, and the anticipated increase in premium income that would result from the increase in the premium rate. The notice shall invite public comment, and shall provide for a public hearing if one is requested. Any such hearing shall be commenced not later than 60 days before the date on which the increase is to become effective.
 
 (ii) The board of directors shall review the hearing record established under clause (i) and shall, not later than 30 days before the date on which the increase is to become effective, determine (after consideration of the comments received) whether the amount of the increase should be changed and shall publish its determination in the Federal Register.
 
-(E)(i) Except as provided in subparagraph (H), the additional premium determined under this subparagraph with respect to any plan for any plan year shall be an amount equal to the amount determined under clause (ii) divided by the number of participants in such plan as of the close of the preceding plan year.
+(E)(i) Except as provided in subparagraph (H), the additional premium determined under this subparagraph with respect to any plan for any plan year—
 
-(ii) The amount determined under this clause for any plan year shall be an amount equal to $9.00 for each $1,000 (or fraction thereof) of unfunded vested benefits under the plan as of the close of the preceding plan year.
+&emsp;(I) shall be an amount equal to the amount determined under clause (ii) divided by the number of participants in such plan as of the close of the preceding plan year; and
+
+&emsp;(II) in the case of plan years beginning in a calendar year after 2012, shall not exceed $400.
+
+(ii) The amount determined under this clause for any plan year shall be an amount equal to the applicable dollar amount under paragraph (8) for each $1,000 (or fraction thereof) of unfunded vested benefits under the plan as of the close of the preceding plan year.
 
 (iii) For purposes of clause (ii), the term “unfunded vested benefits” means, for a plan year, the excess (if any) of—
 
@@ -70,7 +82,7 @@
 
 &emsp;(II) the fair market value of plan assets for the plan year which are held by the plan on the valuation date.
 
-(iv) The interest rate used in valuing benefits for purposes of subclause (I) of clause (iii) shall be equal to the first, second, or third segment rate for the month preceding the month in which the plan year begins, which would be determined under section 1083(h)(2)(C) of this title if section 1083(h)(2)(D) of this title were applied by using the monthly yields for the month preceding the month in which the plan year begins on investment grade corporate bonds with varying maturities and in the top 3 quality levels rather than the average of such yields for a 24-month period.
+(iv) The interest rate used in valuing benefits for purposes of subclause (I) of clause (iii) shall be equal to the first, second, or third segment rate for the month preceding the month in which the plan year begins, which would be determined under section 1083(h)(2)(C) of this title (notwithstanding any regulations issued by the corporation, determined by not taking into account any adjustment under clause (iv) thereof) if section 1083(h)(2)(D) of this title were applied by using the monthly yields for the month preceding the month in which the plan year begins on investment grade corporate bonds with varying maturities and in the top 3 quality levels rather than the average of such yields for a 24-month period.
 
 (F) For each plan year beginning in a calendar year after 2006, there shall be substituted for the premium rate specified in clause (i) of subparagraph (A) an amount equal to the greater of—
 
@@ -78,11 +90,11 @@
 
 &emsp;&emsp;(I) the national average wage index (as defined in section 409(k)(1) of title 42) for the first of the 2 calendar years preceding the calendar year in which such plan year begins, to
 
-&emsp;&emsp;(II) the national average wage index (as so defined) for 2004; and
+&emsp;&emsp;(II) the national average wage index (as so defined) for 2004 (2012 in the case of plan years beginning after calendar year 2014); and
 
 &emsp;(ii) the premium rate in effect under clause (i) of subparagraph (A) for plan years beginning in the preceding calendar year.
 
-> If the amount determined under this subparagraph is not a multiple of $1, such product shall be rounded to the nearest multiple of $1.
+> If the amount determined under this subparagraph is not a multiple of $1, such product shall be rounded to the nearest multiple of $1. This subparagraph shall not apply to plan years beginning in 2013 or 2014.
 
 (G) For each plan year beginning in a calendar year after 2006, there shall be substituted for the premium rate specified in clause (iv) of subparagraph (A) an amount equal to the greater of—
 
@@ -100,6 +112,30 @@
 
 (ii) For purposes of clause (i), whether an employer has 25 or fewer employees on the first day of the plan year is determined by taking into consideration all of the employees of all members of the contributing sponsor's controlled group. In the case of a plan maintained by two or more contributing sponsors, the employees of all contributing sponsors and their controlled groups shall be aggregated for purposes of determining whether the 25-or-fewer-employees limitation has been satisfied.
 
+(I) For each plan year beginning in a calendar year after 2013, there shall be substituted for the premium rate specified in clause (v) of subparagraph (A) an amount equal to the greater of—
+
+&emsp;(i) the product derived by multiplying the premium rate specified in clause (v) of subparagraph (A) by the ratio of—
+
+&emsp;&emsp;(I) the national average wage index (as defined in section 409(k)(1) of title 42) for the first of the 2 calendar years preceding the calendar year in which such plan year begins, to
+
+&emsp;&emsp;(II) the national average wage index (as so defined) for 2011; and
+
+&emsp;(ii) the premium rate in effect under clause (v) of subparagraph (A) for plan years beginning in the preceding calendar year.
+
+> If the amount determined under this subparagraph is not a multiple of $1, such product shall be rounded to the nearest multiple of $1.
+
+(J) For each plan year beginning in a calendar year after 2013, there shall be substituted for the dollar amount specified in subclause (II) of subparagraph (E)(i) an amount equal to the greater of—
+
+&emsp;(i) the product derived by multiplying such dollar amount by the ratio of—
+
+&emsp;&emsp;(I) the national average wage index (as defined in section 409(k)(1) of title 42) for the first of the 2 calendar years preceding the calendar year in which such plan year begins, to
+
+&emsp;&emsp;(II) the national average wage index (as so defined) for 2011; and
+
+&emsp;(ii) such dollar amount for plan years beginning in the preceding calendar year.
+
+> If the amount determined under this subparagraph is not a multiple of $1, such product shall be rounded to the nearest multiple of $1.
+
 (4) The corporation may prescribe, subject to the enactment of a joint resolution in accordance with this section or section 1322a(f) of this title, alternative schedules of premium rates, and bases for the application of those rates, for basic benefits guaranteed by it under sections 1322 and 1322a of this title based, in whole or in part, on the risks insured by the corporation in each plan.
 
 (5)(A) In carrying out its authority under paragraph (1) to establish schedules of premium rates, and bases for the application of those rates, for nonbasic benefits guaranteed under sections 1322 and 1322a of this title the premium rates charged by the corporation for any period for nonbasic benefits guaranteed shall—
@@ -110,7 +146,7 @@
 
 &emsp;(iii) reflect the experience of the corporation (including experience which may be reasonably anticipated) in guaranteeing such benefits.
 
-(B) Notwithstanding subparagraph (A), premium rates charged to any multiemployer planby the corporation for any period for supplemental guarantees under section 1322a(g)(2) of this title may reflect any reasonable considerations which the corporation determines to be appropriate.
+(B) Notwithstanding subparagraph (A), premium rates charged to any multiemployer plan by the corporation for any period for supplemental guarantees under section 1322a(g)(2) of this title may reflect any reasonable considerations which the corporation determines to be appropriate.
 
 (6)(A) In carrying out its authority under paragraph (1) to establish premium rates and bases for basic benefits guaranteed under section 1322 of this title with respect to single-employer plans, the corporation shall establish such rates and bases in coverage schedules in accordance with the provisions of this paragraph.
 
@@ -174,11 +210,57 @@ Coordination with section 1307.—
 
 &emsp;&emsp;(ii) The fifth sentence of section 1307(a) of this title shall not apply in connection with premiums determined under this paragraph.
 
+(8)
+
+Applicable dollar amount for variable rate premium.—For purposes of paragraph (3)(E)(ii)—
+
+&emsp;(A)
+
+In general.—Except as provided in subparagraphs (B) and (C), the applicable dollar amount shall be—
+
+&emsp;&emsp;(i) $9 for plan years beginning in a calendar year before 2015;
+
+&emsp;&emsp;(ii) for plan years beginning in calendar year 2015, the amount in effect for plan years beginning in 2014 (determined after application of subparagraph (C)); and
+
+&emsp;&emsp;(iii) for plan years beginning after calendar year 2015, the amount in effect for plan years beginning in 2015 (determined after application of subparagraph (C)).
+
+&emsp;(B)
+
+Adjustment for inflation.—For each plan year beginning in a calendar year after 2012, there shall be substituted for the applicable dollar amount specified under subparagraph (A) an amount equal to the greater of—
+
+&emsp;&emsp;(i) the product derived by multiplying such applicable dollar amount for plan years beginning in that calendar year by the ratio of—
+
+&emsp;&emsp;&emsp;(I) the national average wage index (as defined in section 409(k)(1) of title 42) for the first of the 2 calendar years preceding the calendar year in which such plan year begins, to
+
+&emsp;&emsp;&emsp;(II) the national average wage index (as so defined) for the base year; and
+
+&emsp;&emsp;(ii) such applicable dollar amount in effect for plan years beginning in the preceding calendar year.
+
+> &emsp;If the amount determined under this subparagraph is not a multiple of $1, such product shall be rounded to the nearest multiple of $1.
+
+&emsp;(C)
+
+Additional increase in 2014 and 2015.—The applicable dollar amount determined under subparagraph (A) (after the application of subparagraph (B)) shall be increased—
+
+&emsp;&emsp;(i) in the case of plan years beginning in calendar year 2014, by $4; and
+
+&emsp;&emsp;(ii) in the case of plan years beginning in calendar year 2015, by $5.
+
+&emsp;(D)
+
+Base year.—For purposes of subparagraph (B), the base year is—
+
+&emsp;&emsp;(i) 2010, in the case of plan years beginning in calendar year 2013 or 2014;
+
+&emsp;&emsp;(ii) 2012, in the case of plan years beginning in calendar year 2015; and
+
+&emsp;&emsp;(iii) 2013, in the case of plan years beginning after calendar year 2015.
+
 #### (b) Revised schedule; Congressional procedures applicable
 
 (1) In order to place a revised schedule (other than a schedule described in subsection (a)(2)(C), (D), or (E) of this section) in effect, the corporation shall transmit the proposed schedule, its proposed effective date, and the reasons for its proposal to the Committee on Ways and Means and the Committee on Education and Labor of the House of Representatives, and to the Committee on Finance and the Committee on Labor and Human Resources of the Senate.
 
-(2) The succeeding paragraphs of this subsection are enacted by Congress as an exercise of the rulemaking power of the Senate and the House of Representatives, respectively, and as such they shall be deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of resolutions described in paragraph (3). They shall supersede otherrules only to the extent that they are inconsistent therewith. They are enacted with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner and to the same extent as in the case of any rule of that House.
+(2) The succeeding paragraphs of this subsection are enacted by Congress as an exercise of the rulemaking power of the Senate and the House of Representatives, respectively, and as such they shall be deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of resolutions described in paragraph (3). They shall supersede other rules only to the extent that they are inconsistent therewith. They are enacted with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner and to the same extent as in the case of any rule of that House.
 
 (3) For the purpose of the succeeding paragraphs of this subsection, “resolution” means only a joint resolution, the matter after the resolving clause of which is as follows: “The proposed revised schedule transmitted to Congress by the Pension Benefit Guaranty Corporation on \_\_\_\_ is hereby approved.”, the blank space therein being filled with the date on which the corporation's message proposing the rate was delivered.
 
@@ -216,13 +298,35 @@ Coordination with section 1307.—
 
 &emsp;&emsp;(ii) the denominator of which is 12.
 
-(Pub. L. 93–406, title IV, §4006, Sept. 2, 1974, 88 Stat. 1010; Pub. L. 96–364, title I, §105, Sept. 26, 1980, 94 Stat. 1264; Pub. L. 99–272, title XI, §11005(a)–(c)(3), Apr. 7, 1986, 100 Stat. 240–242; Pub. L. 100–203, title IX, §9331(a), (b), (e), Dec. 22, 1987, 101 Stat. 1330–367, 1330–368; Pub. L. 101–239, title VII, §7881(h), Dec. 19, 1989, 103 Stat. 2442; Pub. L. 101–508, title XII, §12021(a), (b), Nov. 5, 1990, 104 Stat. 1388–573; Pub. L. 103–465, title VII, §774(a)(1), (b)(1), (2), Dec. 8, 1994, 108 Stat. 5045, 5046; Pub. L. 107–147, title IV, §405(c), Mar. 9, 2002, 116 Stat. 43; Pub. L. 108–218, title I, §101(a)(4), Apr. 10, 2004, 118 Stat. 597; Pub. L. 108–311, title IV, §403(d), Oct. 4, 2004, 118 Stat. 1187; Pub. L. 109–171, title VIII, §8101(a)–(c), Feb. 8, 2006, 120 Stat. 180–182; Pub. L. 109–280, title III, §301(a)(3), title IV, §§401(a)(1), (b)(1), (2)(A),405(a), Aug. 17, 2006, 120 Stat. 919, 922, 928; Pub. L. 110–458, title I, §104(a), Dec. 23, 2008, 122 Stat. 5104.)
+(Pub. L. 93–406, title IV, §4006, Sept. 2, 1974, 88 Stat. 1010; Pub. L. 96–364, title I, §105, Sept. 26, 1980, 94 Stat. 1264; Pub. L. 99–272, title XI, §11005(a)–(c)(3), Apr. 7, 1986, 100 Stat. 240–242; Pub. L. 100–203, title IX, §9331(a), (b), (e), Dec. 22, 1987, 101 Stat. 1330–367, 1330–368; Pub. L. 101–239, title VII, §7881(h), Dec. 19, 1989, 103 Stat. 2442; Pub. L. 101–508, title XII, §12021(a), (b), Nov. 5, 1990, 104 Stat. 1388–573; Pub. L. 103–465, title VII, §774(a)(1), (b)(1), (2), Dec. 8, 1994, 108 Stat. 5045, 5046; Pub. L. 107–147, title IV, §405(c), Mar. 9, 2002, 116 Stat. 43; Pub. L. 108–218, title I, §101(a)(4), Apr. 10, 2004, 118 Stat. 597; Pub. L. 108–311, title IV, §403(d), Oct. 4, 2004, 118 Stat. 1187; Pub. L. 109–171, title VIII, §8101(a)–(c), Feb. 8, 2006, 120 Stat. 180–182; Pub. L. 109–280, title III, §301(a)(3), title IV, §§401(a)(1), (b)(1), (2)(A), 405(a), Aug. 17, 2006, 120 Stat. 919, 922, 928; Pub. L. 110–458, title I, §104(a), Dec. 23, 2008, 122 Stat. 5104; Pub. L. 112–141, div. D, title II, §§40211(b)(3)(C), 40221, 40222, July 6, 2012, 126 Stat. 849–852.)
 
 #### References in Text
 
 The plan year within which the date of enactment of the Multiemployer Pension Plan Amendments Act of 1980 falls, referred to in subsec. (a)(3)(A)(ii), refers to the plan year within which the date of the enactment of Pub. L. 96–364 falls, such enactment being approved Sept. 26, 1980.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a)(3)(A)(i). Pub. L. 112–141, §40221(a)(1), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “in the case of a single-employer plan, for plan years beginning after December 31, 2005, an amount equal to the sum of $30 plus the additional premium (if any) determined under subparagraph (E) for each individual who is a participant in such plan during the plan year;”.
+
+Subsec. (a)(3)(A)(iv). Pub. L. 112–141, §40222(a)(1), inserted “and before January 1, 2013,” after “December 31, 2005,”.
+
+Subsec. (a)(3)(A)(v). Pub. L. 112–141, §40222(a)(2)–(4), added cl. (v).
+
+Subsec. (a)(3)(E)(i). Pub. L. 112–141, §40221(b)(3)(A), substituted “for any plan year—” for “for any plan year shall be an amount equal to the amount determined under clause (ii) divided by the number of participants in such plan as of the close of the preceding plan year.” and added subcls. (I) and (II).
+
+Subsec. (a)(3)(E)(ii). Pub. L. 112–141, §40221(b)(1), substituted “the applicable dollar amount under paragraph (8)” for “$9.00”.
+
+Subsec. (a)(3)(E)(iv). Pub. L. 112–141, §40211(b)(3)(C), substituted “section 1083(h)(2)(C) of this title (notwithstanding any regulations issued by the corporation, determined by not taking into account any adjustment under clause (iv) thereof)” for “section 1083(h)(2)(C) of this title”.
+
+Subsec. (a)(3)(F). Pub. L. 112–141, §40221(a)(2)(B), added at end of concluding provisions “This subparagraph shall not apply to plan years beginning in 2013 or 2014.”
+
+Subsec. (a)(3)(F)(i)(II). Pub. L. 112–141, §40221(a)(2)(A), inserted “(2012 in the case of plan years beginning after calendar year 2014)” after “2004”.
+
+Subsec. (a)(3)(I). Pub. L. 112–141, §40222(b), added subpar. (I).
+
+Subsec. (a)(3)(J). Pub. L. 112–141, §40221(b)(3)(B), added subpar. (J).
+
+Subsec. (a)(8). Pub. L. 112–141, §40221(b)(2), added par. (8).
 
 <b>2008</b>—Subsec. (a)(3)(A)(i). Pub. L. 110–458 substituted “2005” for “1990”.
 
@@ -300,7 +404,7 @@ Subsec. (b)(3). Pub. L. 99–272, §11005(c)(3), substituted “joint” for “
 
 Subsec. (c)(1)(A). Pub. L. 99–272, §11005(a)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “in the case of each plan which was not a multiemployer plan in a plan year, an amount equal to $1 for each individual who was a participant in such plan during the plan year, and”.
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–364, §105(a), substituted provisions setting forth authority of corporation to prescribe schedules of premium rates and bases for the application of such rates and provisions respecting contents, coverages, alternate schedules, etc., of schedulesand application bases, for provisions setting forth authority of corporation to prescribe insurance premium rates and coverage schedules for the application of such rates and provisions respecting contents, coverages, rates, etc., of schedules and premium rates.
+<b>1980</b>—Subsec. (a). Pub. L. 96–364, §105(a), substituted provisions setting forth authority of corporation to prescribe schedules of premium rates and bases for the application of such rates and provisions respecting contents, coverages, alternate schedules, etc., of schedules and application bases, for provisions setting forth authority of corporation to prescribe insurance premium rates and coverage schedules for the application of such rates and provisions respecting contents, coverages, rates, etc., of schedules and premium rates.
 
 Subsec. (b). Pub. L. 96–364, §105(b), in par. (1) substituted “(C), (D), or (E)” for “(B) or (C)”, “revised schedule” for “revised coverage schedule”, and “Human Resources” for “Public Welfare”, in par. (3) substituted “revised schedule” for “revised coverage schedule”, and in par. (4) substituted “Human Resources” for “Public Welfare”.
 
@@ -311,6 +415,10 @@ Subsec. (c). Pub. L. 96–364, §105(c), added subsec. (c).
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by section 40211(b)(3)(C) of Pub. L. 112–141 applicable with respect to plan years beginning afterDec. 31, 2011, except as otherwise provided, see section 40211(c) of Pub. L. 112–141, set out as a note under section 404 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 2008 Amendment
 
@@ -350,7 +458,7 @@ Amendment by Pub. L. 108–218 applicable, except as otherwise provided, to plan
 
 #### Effective Date of 1994 Amendment
 
-Section 774(a)(2) of Pub. L. 103–465 provided that:
+Pub. L. 103–465, title VII, §774(a)(2), Dec. 8, 1994, 108 Stat. 5045, provided that:
 
 “(A)
 
@@ -378,11 +486,11 @@ Transition rule.—In the case of plan years beginning on or after July 1, 1994,
 | July 1, 1994 | July 1, 1995 | 20 percent&nbsp;&nbsp; |
 | July 1, 1995 | July 1, 1996 | 60 percent.” |
 
-Section 774(b)(3) of Pub. L. 103–465 provided that: “The amendments made by this subsection \[amending this section\] shall apply to plan years beginning after the date of the enactment of this Act \[Dec. 8, 1994\].
+Pub. L. 103–465, title VII, §774(b)(3), Dec. 8, 1994, 108 Stat. 5046, provided that: “The amendments made by this subsection \[amending this section\] shall apply to plan years beginning after the date of the enactment of this Act \[Dec. 8, 1994\].
 
 #### Effective Date of 1990 Amendment
 
-Section 12021(c) of Pub. L. 101–508 provided that: “The amendments made by this section \[amending this section\] shall apply to plan years beginning after December 31, 1990.”
+Pub. L. 101–508, title XII, §12021(c), Nov. 5, 1990, 104 Stat. 1388–573, provided that: “The amendments made by this section \[amending this section\] shall apply to plan years beginning after December 31, 1990.”
 
 #### Effective Date of 1989 Amendment
 
@@ -394,7 +502,7 @@ Amendment by Pub. L. 100–203 applicable to plan years beginning after Dec. 31,
 
 #### Effective Date of 1986 Amendment
 
-Section 11005(d) of Pub. L. 99–272 provided that:
+Pub. L. 99–272, title XI, §11005(d), Apr. 7, 1986, 100 Stat. 242, provided that:
 
 “(1)
 
@@ -410,7 +518,7 @@ Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically p
 
 #### Modification of Transition Rule to Pension Funding Requirements
 
-For modification of transition rule to pension funding requirements in the case of a plan that was not required to pay a variable rate premium for the plan year beginning in 1996, has not, in any plan year beginning after 1995, merged with another plan (other than a plan sponsored by an employer that was in 1996 within the controlled group of the plan sponsor), and is sponsoredby a company that is engaged primarily in the interurban or interstate passenger bus service, see section 115(a)–(c) of Pub. L. 109–280, set out as a note under section 430 of Title 26, Internal Revenue Code.
+For modification of transition rule to pension funding requirements in the case of a plan that was not required to pay a variable rate premium for the plan year beginning in 1996, has not, in any plan year beginning after 1995, merged with another plan (other than a plan sponsored by an employer that was in 1996 within the controlled group of the plan sponsor), and is sponsored by a company that is engaged primarily in the interurban or interstate passenger bus service, see section 115(a)–(c) of Pub. L. 109–280, set out as a note under section 430 of Title 26, Internal Revenue Code.
 
 #### Applicability of This Section to Certain Plans Maintained by Commercial Airlines
 
@@ -418,13 +526,13 @@ For special rules on applicability of this section to certain plans maintained b
 
 #### Transitional Rule
 
-Section 774(c) of Pub. L. 103–465 provided that: “In the case of a regulated public utility described in section 7701(a)(33)(A)(i) of the Internal Revenue Code of 1986 \[26 U.S.C. 7701(a)(33)(A)(i)\], the amendments made by this section \[amending this section\] shall not apply to plan years beginning before the earlier of—
+Pub. L. 103–465, title VII, §774(c), Dec. 8, 1994, 108 Stat. 5046, provided that: “In the case of a regulated public utility described in section 7701(a)(33)(A)(i) of the Internal Revenue Code of 1986 \[26 U.S.C. 7701(a)(33)(A)(i)\], the amendments made by this section \[amending this section\] shall not apply to plan years beginning before the earlier of—
 
 &emsp;“(1) January 1, 1998, or
 
 &emsp;“(2) the date the regulated public utility begins to collect from utility customers rates that reflect the costs incurred or projected to be incurred for additional premiums under section 4006(a)(3)(E) of the Employee Retirement Income Security Act of 1974 \[subsec. (a)(3)(E) of this section\] pursuant to final and nonappealable determinations by all public utility commissions (or other authorities having jurisdiction over the rates and terms of service by the regulated public utility) that the costs are just and reasonable and recoverable from customers of the regulated public utility.”
 
-Section 11005(e) of Pub. L. 99–272 provided that:
+Pub. L. 99–272, title XI, §11005(e), Apr. 7, 1986, 100 Stat. 243, provided that:
 
 “(1)
 
@@ -440,13 +548,13 @@ Enforcement.—For purposes of enforcement, the requirements of paragraphs (1) a
 
 #### Single-Employer Pension Plan Termination Insurance Premium Study
 
-Section 11017(a) of Pub. L. 99–272 directed Pension Benefit Guaranty Corporation to conduct a study of, and submit to an advisory council not later than one year after Apr. 7, 1986, a report on the premiums established under the single-employer pension plan termination insurance program under this subchapter, including (1) the long-term stability of the program, (2) alternatives with respect to proposals for changes in the premium levels under such program, (3) methods currently used in projecting future costs, (4) alternative methods of projecting such future costs, (5) methods currently used in determining premiums needed to allocate and adequately fund such future costs, along with any alternative methods of making such premium determinations, and (6) alternative premium bases upon which some or all of such projected future costs would be allocated on an exposure-related or risk-related computation; and further provided for submission of the advisory council's report to Congress 180 days after submission of the Corporation's report to the advisory council, as well as the cooperation and consultation with other Federal agencies in compilation of reports.
+Pub. L. 99–272, title XI, §11017(a), Apr. 7, 1986, 100 Stat. 276, directed Pension Benefit Guaranty Corporation to conduct a study of, and submit to an advisory council not later than one year after Apr. 7, 1986, a report on the premiums established under the single-employer pension plan termination insurance program under this subchapter, including (1) the long-term stability of the program, (2) alternatives with respect to proposals for changes in the premium levels under such program, (3) methods currently used in projecting future costs, (4) alternative methods of projecting such future costs, (5) methods currently used in determining premiums needed to allocate and adequately fund such future costs, along with any alternative methods of making such premium determinations, and (6) alternative premium bases upon which some or all of such projected future costs would be allocated on an exposure-related or risk-related computation; and further provided for submission of the advisory council's report to Congress 180 days after submission of the Corporation's report to the advisory council, as well as the cooperation and consultation with other Federal agencies in compilation of reports.
 
 #### Studies and Reports Respecting Graduated Premium Rate Schedules and Union Mandated Withdrawals From Multiemployer Pension Plans
 
-Section 412(a) of Pub. L. 96–364 directed Pension Benefit Guaranty Corporation to conduct a separate study with respect to advantages and disadvantages of establishing a graduated premium rate schedule under this section which is based on risk, and necessity of adopting special rules in cases of union-mandated withdrawal from multiemployer pension plans, and to report to Congress the results of the studies conducted, including its recommendations with respect thereto.
+Pub. L. 96–364, title IV, §412(a), Sept. 26, 1980, 94 Stat. 1309, directed Pension Benefit Guaranty Corporation to conduct a separate study with respect to advantages and disadvantages of establishing a graduated premium rate schedule under this section which is based on risk, and necessity of adopting special rules in cases of union-mandated withdrawal from multiemployer pension plans, and to report to Congress the results of the studies conducted, including its recommendations with respect thereto.
 
-<i><sup>1</sup></i><i> So in original. The semicolon probably should be a comma.</i>
+<i><sup>1</sup></i><i> So in original. The period probably should be a comma.</i>
 
 <i><sup>2</sup></i><i> So in original. The word “and” probably should not appear.</i>
 

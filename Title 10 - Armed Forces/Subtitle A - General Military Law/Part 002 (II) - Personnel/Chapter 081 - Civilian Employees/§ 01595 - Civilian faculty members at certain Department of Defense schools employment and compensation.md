@@ -70,5 +70,5 @@ Subsec. (d). Pub. L. 102–190 inserted “the Institute for National Strategic 
 
 #### Effect of 1992 Amendments on Current Employees
 
-Section 923(b) of Pub. L. 102–484 provided that: “In the case of a person who, on the day before the date of the enactment of this Act \[Oct. 23, 1992\], is employed as a professor, instructor, or lecturer at the Foreign Language Center of the Defense Language Institute, the Secretary of Defense shall afford the person an opportunity to elect to be paid under the compensation plan authorized by section 1595(b) of title 10, United States Code, or to continue to be paid under the General Schedule (with no reduction in pay) under section 5332 of title 5, United States Code.”
+Pub. L. 102–484, div. A, title IX, §923(b), Oct. 23, 1992, 106 Stat. 2474, provided that: “In the case of a person who, on the day before the date of the enactment of this Act \[Oct. 23, 1992\], is employed as a professor, instructor, or lecturer at the Foreign Language Center of the Defense Language Institute, the Secretary of Defense shall afford the person an opportunity to elect to be paid under the compensation plan authorized by section 1595(b) of title 10, United States Code, or to continue to be paid under the General Schedule (with no reduction in pay) under section 5332 of title 5, United States Code.”
 

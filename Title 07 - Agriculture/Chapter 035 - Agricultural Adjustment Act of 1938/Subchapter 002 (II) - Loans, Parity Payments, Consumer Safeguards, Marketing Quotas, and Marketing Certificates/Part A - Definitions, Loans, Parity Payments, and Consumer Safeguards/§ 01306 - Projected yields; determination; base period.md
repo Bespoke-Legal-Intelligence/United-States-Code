@@ -14,5 +14,5 @@ Section was enacted as part of the Food and Agriculture Act of 1965, and not as 
 
 #### Effective and Termination Dates of 1973 Amendment
 
-Section 405(b) of Pub. L. 91–524, as added by section 1(12) of Pub. L. 93–86, provided that the amendment made by that section is effective with respect to 1974 through 1977 crops.
+Pub. L. 91–524, title IV, §405(b), as added by Pub. L. 93–86, §1(12)(a), Aug. 10, 1973, 87 Stat. 229, provided thatthe amendment made by Pub. L. 91–524 is effective with respect to the 1974 through 1977 crops.
 

@@ -16,11 +16,11 @@ The constitutional powers of the President as Commander-in-Chief to introduce Un
 
 #### Effective Date
 
-Section 10 of Pub. L. 93–148 provided that: “This joint resolution \[enacting this chapter\] shall take effect on the date of its enactment \[Nov. 7, 1973\].”
+Pub. L. 93–148, §10, Nov. 7, 1973, 87 Stat. 559, provided that: “This joint resolution \[enacting this chapter\] shall take effect on the date of its enactment \[Nov. 7, 1973\].”
 
 #### Short Title
 
-Section 1 of Pub. L. 93–148 provided that: “This joint resolution \[enacting this chapter\] may be cited as the ‘War Powers Resolution’.”
+Pub. L. 93–148, §1, Nov. 7, 1973, 87 Stat. 555, provided that: “This joint resolution \[enacting this chapter\] may be cited as the ‘War Powers Resolution’.”
 
 #### Report on Responsible Redeployment of United States Armed Forces From Iraq
 
@@ -42,7 +42,7 @@ Elements.—The report required under subsection (a) shall include the following
 
 &emsp;“(4) An assessment of United States detainee operations and releases. Such assessment should include the total number of detainees held by the United States in Iraq, the number of detainees in each threat level category, the number of detainees who are not nationals of Iraq, the number of detainees transferred to Iraqi authorities, the number of detainees who were released from United States custody and the reasons for their release, and the number of detainees who having been released in the past were recaptured or had their remains identified planning or after carrying out attacks on United States or Coalition forces.
 
-&emsp;“(5) A listing of the objective and subjective factors utilized by the commander of United States Forces–Iraq, including any changes to that list in the case of an update to the report, to determine risk levels associated with the drawdown of United States Armed Forces, and the process and timing that will be utilized by the commander of United States Forces–Iraq and the Secretary of Defense to assess risk and make recommendations to the President about either continuing the redeployment of United States Armed Forces from Iraq in accordance with the schedule announced by the President or modifying the pace or timing of that redeployment.
+&emsp;“(5) A listing of the objective and subjective factors utilized by the commander of United States Forces–Iraq, including any changes to that list in the case of an update to the report, to determine risk levels associated with the drawdown of United States Armed Forces, and the process and timing that will be utilized by the commander of United States Forces–Iraq and the Secretary of Defense to assessrisk and make recommendations to the President about either continuing the redeployment of United States Armed Forces from Iraq in accordance with the schedule announced by the President or modifying the pace or timing of that redeployment.
 
 &emsp;“(6) An assessment of progress to transfer responsibility of programs, projects, and activities carried out in Iraq by the Department of Defense to other United States Government departments and agencies, international or nongovernmental entities, or the Government of Iraq. The assessment should include a description of the numbers and categories of programs, projects, and activities for which such other entities have taken responsibility or which have been discontinued by the Department of Defense. The assessment should also include a discussion of any difficulties or barriers in transitioning such programs, projects, and activities and what, if any, solutions have been developed to address such difficulties or barriers.
 
@@ -88,7 +88,7 @@ Pub. L. 107–243, Oct. 16, 2002, 116 Stat. 1498, provided that:
 
 “Whereas in 1990 in response to Iraq's war of aggression against and illegal occupation of Kuwait, the United States forged a coalition of nations to liberate Kuwait and its people in order to defend the national security of the United States and enforce United Nations Security Council resolutions relating to Iraq;
 
-“Whereas after the liberation of Kuwait in 1991, Iraq entered into a United Nations sponsored cease-fireagreement pursuant to which Iraq unequivocally agreed, among other things, to eliminate its nuclear, biological, and chemical weapons programs and the means to deliver and develop them, and to end its support for international terrorism;
+“Whereas after the liberation of Kuwait in 1991, Iraq entered into a United Nations sponsored cease-fire agreement pursuant to which Iraq unequivocally agreed, among other things, to eliminate its nuclear, biological, and chemical weapons programs and the means to deliver and develop them, and to end its support for international terrorism;
 
 “Whereas the efforts of international weapons inspectors, United States intelligence agencies, and Iraqi defectors led to the discovery that Iraq had large stockpiles of chemical weapons and a large scale biological weapons program, and that Iraq had an advanced nuclear weapons development program that was much closer to producing a nuclear weapon than intelligence reporting had previously indicated;
 
@@ -162,7 +162,7 @@ Presidential Determination.—In connection with the exercise of the authority g
 
 &emsp;“(1) reliance by the United States on further diplomatic or other peaceful means alone either (A) will not adequately protect the national security of the United States against the continuing threat posed by Iraq or (B) is not likely to lead to enforcement of all relevant United Nations Security Council resolutions regarding Iraq; and
 
-&emsp;“(2) acting pursuant to this joint resolution is consistent with the United States and other countries continuing to take the necessary actions against international terrorist and terrorist organizations, including those nations, organizations, or persons who planned, authorized, committed or aided the terrorist attacks that occurred on September 11, 2001.
+&emsp;“(2) acting pursuant to this joint resolution is consistent with the United States and other countries continuing to take the necessary actions against international terrorist and terrorist organizations, including those nations, organizations, or personswho planned, authorized, committed or aided the terrorist attacks that occurred on September 11, 2001.
 
 “(c)
 
@@ -510,7 +510,7 @@ Sec. 2. (a) The Congress finds that—
 
 “
 
-Sec. 3. The President is authorized, for purposes of section 5(b) of the War Powers Resolution \[50 U.S.C. 1544(b)\], to continue participation by United States Armed Forces in the Multinational Force in Lebanon,subject to the provisions of section 6 of this joint resolution. Such participation shall be limited to performance of the functions, and shall be subject to the limitations, specified in the agreement establishing the Multinational Force in Lebanon as set forth in the exchange of letters between the Governments of the United States and Lebanon dated September 25, 1982, except that this shall not preclude such protective measures as may be necessary to ensure the safety of the Multinational Force in Lebanon.
+Sec. 3. The President is authorized, for purposes of section 5(b) of the War Powers Resolution \[50 U.S.C. 1544(b)\], to continue participation by United States Armed Forces in the Multinational Force in Lebanon, subject to the provisions of section 6 of this joint resolution. Such participation shall be limited to performance of the functions, and shall be subject to the limitations, specified in the agreement establishing the Multinational Force in Lebanon as set forth in the exchange of letters between the Governments of the United States and Lebanon dated September 25, 1982, except that this shall not preclude such protective measures as may be necessary to ensure the safety of the Multinational Force in Lebanon.
 
 #### “reports to the congress
 
@@ -536,7 +536,7 @@ Sec. 5. (a) The Congress declares that the participation of the armed forces of 
 
 “(b) The Congress believes that it should continue to be the policy of the United States to promote continuing discussions with Israel, Syria, and Lebanon with the objective of bringing about the withdrawal of all foreign troops from Lebanon and establishing an environment which will permit the Lebanese Armed Forces to carry out their responsibilities in the Beirut area.
 
-“(c) It is the sense of the Congress that, not later than one year after the date of enactment of this joint resolution \[Oct. 12, 1983\] and at least once a year thereafter, the United States should discuss with the other members of the Security Council of the United Nations the establishment of a United Nations peacekeeping force to assume the responsibilities of the Multinational Force in Lebanon. An analysis of the implications of the response to such discussions for the continuation of the Multinational Force in Lebanon shall be included in the reports required under paragraph (3) of section 4 of this resolution.
+“(c) It is the sense of the Congress that, not later than one year after the date of enactment of this jointresolution \[Oct. 12, 1983\] and at least once a year thereafter, the United States should discuss with the other members of the Security Council of the United Nations the establishment of a United Nations peacekeeping force to assume the responsibilities of the Multinational Force in Lebanon. An analysis of the implications of the response to such discussions for the continuation of the Multinational Force in Lebanon shall be included in the reports required under paragraph (3) of section 4 of this resolution.
 
 #### “duration of authorization for united states participation in the multinational force in lebanon
 
@@ -574,7 +574,7 @@ Sec. 8. (a) Any joint resolution or bill introduced to amend or repeal this Act 
 
 #### Adherence to War Powers Resolution
 
-Pub. L. 96–342, title X, §1008, Sept. 8, 1980, 94 Stat. 1122, provided that: “Whereas, the National Command Authority must have the capacity to carry out any military mission which is essential to the national security of the United States having in its hands in the Rapid Deployment Force an increased capability to extend the reach of our military power in an expedited manner; and whereas, without the significant safeguard of the War Powers Resolution (Public Law 93–148) \[this chapter\], United States foreign and defense policies could be subject to misinterpretation; it is thereforethe sense of the Congress that the provisions of the War Powers Resolution be strictly adhered to and that the congressional consultation process specified by such Resolution be utilized strictly according to the terms of the War Powers Resolution.”
+Pub. L. 96–342, title X, §1008, Sept. 8, 1980, 94 Stat. 1122, provided that: “Whereas, the National Command Authority must have the capacity to carry out any military mission which is essential to the national security of the United States having in its hands in the Rapid Deployment Force an increased capability to extend the reach of our military power in an expedited manner; and whereas, without the significant safeguard of the War Powers Resolution (Public Law 93–148) \[this chapter\], United States foreign and defense policies could be subject to misinterpretation; it is therefore the sense of the Congress that the provisions of the War Powers Resolution be strictly adhered to and that the congressional consultation process specified by such Resolution be utilized strictly according to the terms of the War Powers Resolution.”
 
 #### Delegation of Certain Reporting Authority
 

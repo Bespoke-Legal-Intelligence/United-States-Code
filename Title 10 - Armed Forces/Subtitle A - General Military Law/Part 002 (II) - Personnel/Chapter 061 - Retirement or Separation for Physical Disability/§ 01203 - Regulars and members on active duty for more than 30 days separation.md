@@ -84,7 +84,7 @@ The changes correct typographical errors.
 
 Pub. L. 111–383, §1075(b)(19), substituted “determination,” for “determination,,”.
 
-<b>2008</b>—Subsec. (b)(4)(B). Pub. L. 110–417, §727(b)(2), as amended by Pub. L. 111–383, §1075(e)(12), substituted “(unless clear and unmistakable evidence demonstrates that the disability existed before the member's entrance on active duty and was not aggravated by active military service)” for “(unless evidence or medical judgment is such to warrant a finding that the disability existed before the member's entrance on active duty)”.
+<b>2008</b>—Subsec. (b)(4)(B). Pub. L. 110–417, §727(b)(2), as amended by Pub. L. 111–383, §1075(e)(12), substituted “(unless clear and unmistakable evidence demonstrates that the disability existed before the member's entrance on active duty and was not aggravated by active military service)” for “(unless evidence or medicaljudgment is such to warrant a finding that the disability existed before the member's entrance on active duty)”.
 
 Pub. L. 110–417, §727(b)(1), struck out “the member has six months or more of active military service, and” before “the disability was not noted”.
 
@@ -130,7 +130,7 @@ Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to pre
 
 #### Effective and Termination Dates of 1978 Amendment
 
-Section 3 of Pub. L. 95–377 provided that the amendment made by that section is effective only for the period beginning Sept. 15, 1978, and ending Sept. 30, 1979.
+Pub. L. 95–377, §3, Sept. 19, 1978, 92 Stat. 719, provided that the amendment made by that section is effective only for the period beginning Sept. 15, 1978, and ending Sept. 30, 1979.
 
 #### Suspension of Certain Promotion and Disability Separation Limitations
 

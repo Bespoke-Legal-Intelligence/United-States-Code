@@ -143,7 +143,6 @@ Asset Protection Allowances for Families and Students
 | &nbsp; |  |  |
 | (1)then the allowance is— |  |  |
 |  |  |  |
-|  |  |  |
 | 25 or less | &nbsp;$  0 | &nbsp;&nbsp;&nbsp;$0 |
 | 26 | &nbsp;2,200 | &nbsp;1,600 |
 | 27 | &nbsp;4,300 | &nbsp;3,200 |
@@ -258,7 +257,7 @@ Pub. L. 100–50, §14(1), substituted “section 1087rr of this title” for �
 
 #### Effective Date of 2007 Amendment
 
-Amendment by Pub. L. 110–84 effective July 1, 2009, see section 601(e) of Pub. L. 110–84, set out as a note under section 1087<i>oo</i> of this title.
+Amendment by Pub. L. 110–84 effective July 1, 2009, see section 601(e) of Pub. L. 110–84, set out as a note under section 1087oo of this title.
 
 #### Effective Date of 2006 Amendment
 
@@ -272,7 +271,7 @@ Amendment by Pub. L. 105–244, effective Oct. 7, 1998, and applicable with resp
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) ofPub. L. 103–208, set out as a note under section 1051 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 
 #### Effective Date of 1992 Amendment
 

@@ -4,7 +4,7 @@
 
 The total of the amounts which are treated under section 666 as having been distributed by a trust in a preceding taxable year shall be included in the income of a beneficiary of the trust when paid, credited, or required to be distributed to the extent that such total would have been included in the income of such beneficiary under section 662(a)(2) (and, with respect to any tax-exempt interest to which section 103 applies, under section 662(b)) if such total had been paid to such beneficiary on the last day of such preceding taxable year. The tax imposed by this subtitle on a beneficiary for a taxable year in which any such amount is included in his income shall be determined only as provided in this section and shall consist of the sum of—
 
-&emsp;(1) a partial tax computed on the taxable income reduced by an amount equal to the total of such amounts, at the rate and in the manner as if this section had not been enacted,
+&emsp;(1) a partial tax computed on the taxable income reduced by an amount equal to the totalof such amounts, at the rate and in the manner as if this section had not been enacted,
 
 &emsp;(2) a partial tax determined as provided in subsection (b) of this section, and
 
@@ -68,7 +68,7 @@ The total of the amounts which are treated under section 666 as having been dist
 
 #### (2) Accumulation distributions from trust not taken into account unless they equal or exceed $1,000
 
-&emsp;For purposes of paragraph (1), an accumulation distribution from a trust to a beneficiary shall be taken into account only if such distribution, when added to any prior accumulation distributions from such trust which are deemed under section 666(a) to have been distributed to such beneficiary for the same prior taxable year of the beneficiary, equals or exceeds $1,000.
+&emsp;For purposes of paragraph (1), an accumulation distribution from a trust to a beneficiary shall be taken into account only if such distribution, when added to any prior accumulation distributions from such trust which are deemed under section 666(a) to have been distributed to such beneficiary for the same priortaxable year of the beneficiary, equals or exceeds $1,000.
 
 #### (d) Special rules for foreign trust
 
@@ -86,7 +86,7 @@ The total of the amounts which are treated under section 666 as having been dist
 
 #### (i) Limitation on credit
 
-&emsp;&emsp;&emsp;For purposes of determining under subparagraph (A) the amount treated as acredit for any computation year, the limitations under subpart A of part III of subchapter N shall be applied separately with respect to amounts added under subsection (b)(1)(C) to the taxable income of the beneficiary for such computation year. For purposes of computing the increase in tax under subsection (b)(1)(D) for any computation year for which the beneficiary did not choose the benefits of subpart A of part III of subchapter N, the beneficiary shall be treated as having chosen such benefits for such computation year.
+&emsp;&emsp;&emsp;For purposes of determining under subparagraph (A) the amount treated as a credit for any computation year, the limitations under subpart A of part III of subchapter N shall be applied separately with respect to amounts added under subsection (b)(1)(C) to the taxable income of the beneficiary for such computation year. For purposes of computing the increase in tax under subsection (b)(1)(D) for any computation year for which the beneficiary did not choose the benefits of subpart A of part III of subchapter N, the beneficiary shall be treated as having chosen such benefits for such computation year.
 
 #### (ii) Retention of character
 
@@ -100,7 +100,7 @@ The total of the amounts which are treated under section 666 as having been dist
 
 In the case of a distribution from a trust to a nonresident alien individual or to a foreign corporation, the first sentence of subsection (a) shall be applied as if the reference to the determination of character under section 662(b) applied to all amounts instead of just to tax-exempt interest.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 225; Pub. L. 91–172, title III, §331(a), Dec. 30, 1969, 83 Stat. 594; Pub. L. 94–455, title VII, §701(a)(1), title X, §1014(a), Oct. 4, 1976, 90 Stat. 1575, 1617; Pub. L. 95–30, title I, §102(b)(8), May 23, 1977, 91 Stat. 138; Pub. L. 95–600, title VII, §§701(q)(1)(B), (C), (r)(1), 702(<i>o</i>)(1), Nov. 6, 1978, 92 Stat. 2909, 2910, 2936; Pub. L. 99–514, title I, §104(b)(10), Oct. 22, 1986, 100 Stat. 2105.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 225; Pub. L. 91–172, title III, §331(a), Dec. 30, 1969, 83 Stat. 594; Pub. L. 94–455, title VII, §701(a)(1), title X, §1014(a), Oct. 4, 1976, 90 Stat. 1575, 1617; Pub. L. 95–30, title I, §102(b)(8), May 23, 1977, 91 Stat. 138; Pub. L. 95–600, title VII, §§701(q)(1)(B), (C), (r)(1), 702(o)(1), Nov. 6, 1978, 92 Stat. 2909, 2910, 2936; Pub. L. 99–514, title I, §104(b)(10), Oct. 22, 1986, 100 Stat. 2105.)
 
 #### Amendments
 
@@ -112,7 +112,7 @@ In the case of a distribution from a trust to a nonresident alien individual or 
 
 <b>1978</b>—Subsec. (b)(1). Pub. L. 95–600, §701(q)(1)(C), inserted in last sentence “(other than the amount of taxes described in section 665(d)(2))” after “taxes”.
 
-Subsec. (b)(6). Pub. L. 95–600, §702(<i>o</i>)(1), added par. (6).
+Subsec. (b)(6). Pub. L. 95–600, §702(o)(1), added par. (6).
 
 Subsec. (d). Pub. L. 95–600, §701(q)(1)(B), added subsec. (d).
 
@@ -134,13 +134,13 @@ Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 3
 
 Amendment by section 701(q)(1)(B), (C) of Pub. L. 95–600 applicable to distributions made in taxable years beginning after Dec. 31, 1975, see section 701(q)(3)(A) of Pub. L. 95–600, set out as a note under section 665 of this title.
 
-Section 702(<i>o</i>)(2) of Pub. L. 95–600, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply—
+Pub. L. 95–600, title VII, §702(o)(2), Nov. 6, 1978, 92 Stat. 2937, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply—
 
 &emsp;“(A) in the case of the tax imposed by chapter 11 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954, section 2001 et seq. of this title\], to the estates of decedents dying after December 31, 1979, and
 
 &emsp;“(B) in the case of the tax imposed by chapter 13 \[section 2601 et seq. of this title\], to any generation-skipping transfer (within the meaning of section 2611(a) of such Code) made after June 11, 1976.”
 
-Section 701(r)(2) of Pub. L. 95–600 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to distributions made in taxable years beginning after December 31, 1975.”
+Pub. L. 95–600, title VII, §701(r)(2), Nov. 6, 1978, 92 Stat. 2911, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to distributions made in taxable years beginning after December 31, 1975.”
 
 #### Effective Date of 1977 Amendment
 
@@ -148,7 +148,7 @@ Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31
 
 #### Effective Date of 1976 Amendment
 
-Section 701(h) of Pub. L. 94–455 provided that: “The amendments made by subsections (a), (b), (c), (d), and (f) of this section \[amending this section and sections 665, 666, 1302, and 6401 of this title and repealing sections 668 and 669 of this title\] shall apply to distributions made in taxable years beginning after December31, 1975. The amendments made by subsection (e) of this section \[enacting section 644 of this title and amending section 641 of this title\] shall apply to transfers in trust made after May 21, 1976.”
+Pub. L. 94–455, title VII, §701(h), Oct. 4, 1976, 90 Stat. 1580, provided that: “The amendments made by subsections (a), (b), (c), (d), and (f) of this section \[amending this section and sections 665, 666, 1302, and 6401 of this title and repealing sections 668 and 669 of this title\] shall apply to distributions made in taxable years beginning after December 31, 1975. The amendments made by subsection (e) of this section \[enacting section 644 of this title and amending section 641 of this title\] shall apply to transfers in trust made after May 21, 1976.”
 
 #### Effective Date of 1969 Amendment
 

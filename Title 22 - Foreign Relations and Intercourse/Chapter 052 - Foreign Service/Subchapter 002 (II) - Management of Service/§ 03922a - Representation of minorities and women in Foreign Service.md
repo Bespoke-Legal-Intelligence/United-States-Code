@@ -52,7 +52,7 @@ Report.—Not later than 180 days after the date of enactment of this Act \[Apr.
 
 #### Women and Minorities in Foreign Service
 
-Section 183 of Pub. L. 100–204 provided that:
+Pub. L. 100–204, title I, §183, Dec. 22, 1987, 101 Stat. 1364, provided that:
 
 “(a)
 
@@ -66,7 +66,7 @@ Findings.—The Congress finds that the Department of State and other Foreign Se
 
 A More Representative Foreign Service.—The Secretary of State and the head of each of the other agencies utilizing the Foreign Service personnel system—
 
-&emsp;“(1) shall substantially increase their efforts to implement effectively the plans required by section 152(a) of the Foreign Relations Authorization Act, Fiscal Years 1986 and 1987 \[22 U.S.C. 3922a(a)\], so that the Foreign Service becomes truly representative of the American people throughout all levels of the Foreign Service; and
+&emsp;“(1) shall substantially increase their efforts to implement effectively the plans required by section 152(a) of the Foreign Relations Authorization Act, Fiscal Years 1986 and 1987 \[22 U.S.C. 3922a(a)\], so thatthe Foreign Service becomes truly representative of the American people throughout all levels of the Foreign Service; and
 
 &emsp;“(2) shall ensure that those plans effectively address the need to promote increased numbers of qualified women and members of minority groups into the senior levels of the Foreign Service.
 

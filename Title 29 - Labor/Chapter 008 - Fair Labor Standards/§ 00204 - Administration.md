@@ -46,7 +46,7 @@ In subsec. (b), “chapter 51 and subchapter III of chapter 53 of title 5” sub
 
 <b>1995</b>—Subsec. (d)(1). Pub. L. 104–66 in first sentence substituted “biennially” and “preceding two years” for “annually” and “preceding year”, respectively.
 
-<b>1974</b>—Subsec. (d)(1). Pub. L. 93–259, §§24(c), 27(1), (2), inserted provision at end of subsec. (d) requiring the report to Congress to include a summary of the special certificates issued under section 214(b) of this title, designated subsec. (d) provisions as subsec. (d)(1), and required the report to contain an evaluation and appraisal of overtime coverage established by this chapter, respectively.
+<b>1974</b>—Subsec. (d)(1). Pub. L. 93–259, §§24(c), 27(1), (2), inserted provision at end of subsec. (d) requiring the report to Congress to include a summary of the specialcertificates issued under section 214(b) of this title, designated subsec. (d) provisions as subsec. (d)(1), and required the report to contain an evaluation and appraisal of overtime coverage established by this chapter, respectively.
 
 Subsec. (d)(2), (3). Pub. L. 93–259, §27(3), added pars. (2) and (3).
 
@@ -94,5 +94,5 @@ Pub. L. 95–151, §2(e), Nov. 1, 1977, 91 Stat. 1246, provided for the establis
 
 #### Definition of “Secretary”
 
-Section 6 of act Aug. 12, 1955, provided that: “The term ‘Secretary’ as used in this Act and in amendments made by this Act \[amending this section and sections 205, 206, 208, and 210 of this title\] means the Secretary of Labor.”
+Act Aug. 12, 1955, ch. 867, §6, 69 Stat. 712, provided that: “The term ‘Secretary’ as used in this Act and in amendments made by this Act \[amending this section and sections 205, 206, 208, and 210 of this title\] means the Secretary of Labor.”
 

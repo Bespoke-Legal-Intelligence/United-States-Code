@@ -46,11 +46,11 @@ Amendment by Pub. L. 105–368 effective on first day of first month beginning m
 
 #### Effective Date of 1989 Amendment
 
-Section 204(c) of Pub. L. 101–94 provided that: “Notwithstanding section 401 of the Veterans’ Judicial Review Act \[Pub. L. 100–687, set out as an Effective Date note under section 7251 of this title\], the authority provided by section 4081 \[now 7281\] of title 38, United States Code, as amended by subsection (a), shall take effect on the date of the enactment of this Act \[Aug. 16, 1989\].”
+Pub. L. 101–94, title II, §204(c), Aug. 16, 1989, 103 Stat. 627, provided that: “Notwithstanding section 401 of the Veterans’ Judicial Review Act \[Pub. L. 100–687, set out as an Effective Date note under section 7251 of this title\], the authority provided by section 4081 \[now 7281\] of title 38, United States Code, as amended by subsection (a), shall take effect on the date of the enactment of this Act \[Aug. 16, 1989\].”
 
 #### Limitation on Conversion of Employees to Competitive Service
 
-Section 204(b) of Pub. L. 101–94, as amended by Pub. L. 105–368, title V, §512(c), Nov. 11, 1998, 112 Stat. 3342, provided that: “Notwithstanding clause (1)(A) of the proviso under the heading ‘Court of Veterans Appeals’ in chapter XI of \[title I of\] Public Law 101–45 \[formerly set out below\], no employee of the United States Court of Appeals for Veterans Claims may be converted to the competitive service without the approval of the Court.”
+Pub. L. 101–94, title II, §204(b), Aug. 16, 1989, 103 Stat. 627, as amended by Pub. L. 105–368, title V, §512(c), Nov. 11, 1998, 112 Stat. 3342, provided that: “Notwithstanding clause (1)(A) of the proviso under the heading ‘Court of Veterans Appeals’ in chapter XI of \[title I of\] Public Law 101–45 \[formerly set out below\], no employee of the United States Court of Appeals for Veterans Claims may be converted to the competitive service without the approval of the Court.”
 
 #### Appointment of Employees Eligible for Noncompetitive Conversion to Position in Competitive Service; Procurement of Experts and Consultants
 

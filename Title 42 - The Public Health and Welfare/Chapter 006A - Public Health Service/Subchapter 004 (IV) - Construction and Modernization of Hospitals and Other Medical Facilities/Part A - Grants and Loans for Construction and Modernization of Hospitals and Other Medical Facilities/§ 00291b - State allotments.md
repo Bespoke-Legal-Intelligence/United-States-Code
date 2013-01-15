@@ -54,7 +54,7 @@ For the purposes of this part—
 
 &emsp;(A) it has afforded a reasonable opportunity to make applications for the portion so specified and there have been no approvable applications for such portion, or
 
-&emsp;(B) in the case of a request to transfer a portion of an allotment for grants for the construction of public or other nonprofit hospitals and public health centers, use of suchportion as requested by such State agency will better carry out the purposes of this subchapter,
+&emsp;(B) in the case of a request to transfer a portion of an allotment for grants for the construction of public or other nonprofit hospitals and public health centers, use of such portion as requested by such State agency will better carry out the purposes of this subchapter,
 
 > the Secretary shall promptly (but after application of subsection (b) of this section) adjust the allotments of such State in accordance with such request and shall notify the State agency.
 
@@ -102,7 +102,7 @@ Subsec. (b)(1)(D). Pub. L. 91–296, §103(b)(4), added subpar. (D).
 
 Subsecs. (b)(2), (c)(1). Pub. L. 91–296, §119(a)(2), (b), inserted reference to Trust Territory of the Pacific Islands.
 
-Subsec. (d)(1). Pub. L. 91–296, §§119(c), 122, inserted reference to Trust Territory of the Pacific Islands andsubstituted two years for one year as the time span following a year in which allotted sums remaining unobligated at the end thereof during which such unobligated funds remain available.
+Subsec. (d)(1). Pub. L. 91–296, §§119(c), 122, inserted reference to Trust Territory of the Pacific Islands and substituted two years for one year as the time span following a year in which allotted sums remaining unobligated at the end thereof during which such unobligated funds remain available.
 
 Subsec. (d)(2). Pub. L. 91–296, §119(c), inserted references to Trust Territory of the Pacific Islands.
 
@@ -114,15 +114,15 @@ Subsec. (e)(2)(E). Pub. L. 90–574, §402(b)(2), added subpar. (E).
 
 #### Effective Date of 1970 Amendment
 
-Section 103(a) of Pub. L. 91–296 provided that the amendment made by that section is effective with respect to appropriations made pursuant to section 291a of this title for fiscal years beginning after June 30, 1970.
+Pub. L. 91–296, title I, §103(a), June 30, 1970, 84 Stat. 338, provided that the amendment made by that section is effective with respect to appropriations made pursuant to section 291a of this title for fiscal years beginning after June 30, 1970.
 
-Section 103(b) of Pub. L. 91–296 provided that the amendment made by that section is effective with respect to allotments from appropriations made pursuant to section 291a of this title for fiscal years beginning after June 30, 1970.
+Pub. L. 91–296, title I, §103(b), June 30, 1970, 84 Stat. 338, provided that the amendment made by that section is effective with respect to allotments from appropriations made pursuant to section 291a of this title for fiscal years beginning after June 30, 1970.
 
-Section 104 of Pub. L. 91–296 provided that the amendment made by that section is effective with respect to allotments made pursuant to section 291a of this title for fiscal years beginning after June 30, 1970.
+Pub. L. 91–296, title I, §104, June 30, 1970, 84 Stat. 338, provided that the amendment made by that section is effective with respect to allotments made pursuant to section 291a of this title for fiscal years beginning after June 30, 1970.
 
-Section 119(e) of Pub. L. 91–296 provided that: “The amendments made by this section \[amending this section and section 291<i>o</i> of this title\] shall apply with respect to allotments (and grants therefrom) under part A of title VI of the Public Health Service Act \[this part\] for fiscal years ending after June 30, 1970, and with respect to loan guarantees and loans under part B of such title \[part B of this subchapter\] made after June 30, 1970.”
+Pub. L. 91–296, title I, §119(e), June 30, 1970, 84 Stat. 343, provided that: “The amendments made by this section \[amending this section and section 291o of this title\] shall apply with respect to allotments (and grants therefrom) under part A of title VI of the Public Health Service Act \[this part\] for fiscal years ending after June 30, 1970, and with respect to loan guarantees and loans under part B of such title \[part B of this subchapter\] made after June 30, 1970.”
 
-Section 122 of Pub. L. 91–296 provided that the amendment made by that section is effective with respect to allotments made from appropriations under section 291a of this title for fiscal years beginning after June 30, 1970.
+Pub. L. 91–296, title I, §122, June 30, 1970, 84 Stat. 344, provided that the amendment made by that section is effective with respect to allotments made from appropriations under section 291a of this title for fiscal years beginning after June 30, 1970.
 
 #### Transfer of Functions
 
@@ -138,9 +138,9 @@ Pub. L. 93–641, §5(b), Jan. 4, 1975, 88 Stat. 2274, provided that any State h
 
 #### Allotment Study; Report to Congress
 
-Section 103(c) of Pub. L. 91–296 directed Secretary to study effects of the formula specified in subsec. (a)(1) of this section for allotment among the States for construction of health facilities, with results of such study together with recommendations for change to be reported to Congress on May 15, 1972.
+Pub. L. 91–296, title I, §103(c), June 30, 1970, 84 Stat. 338, directed Secretary to study effects of the formula specified in subsec. (a)(1) of this section for allotment among the States for construction of health facilities, with results of such study together with recommendations for change to be reported to Congress on May 15, 1972.
 
 #### Approval of Application for Modernization Prior to July 1, 1965, or Before Approval of a State Plan
 
-Section 3(b)(5) of Pub. L. 88–443, providing that no application for modernization of any facility may be approved for purposes of receiving funds before the approval of a State plan, as well as other requirements, is set out as an Effective Date note under section 291 of this title.
+Pub. L. 88–443, §3(b)(5), Aug. 18, 1964, 78 Stat. 462, providing that no application for modernization of any facility may be approved for purposes of receiving funds before the approval of a State plan, as well as other requirements, is set out as an Effective Date note under section 291 of this title.
 

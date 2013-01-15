@@ -98,7 +98,7 @@ In general.—Subject to subparagraphs (B) through (G), the terms “rural” an
 
 &emsp;&emsp;(B)
 
-Water and waste disposal grants and direct and guaranteed loans.—For thepurpose of water and waste disposal grants and direct and guaranteed loans provided under paragraphs (1), (2), and (24) of section 1926(a) of this title, the terms “rural” and “rural area” mean a city, town, or unincorporated area that has a population of no more than 10,000 inhabitants.
+Water and waste disposal grants and direct and guaranteed loans.—For the purpose of water and waste disposal grants and direct and guaranteed loans provided under paragraphs (1), (2), and (24) of section 1926(a) of this title, the terms “rural” and “rural area” mean a city, town, or unincorporated area that has a population of no more than 10,000 inhabitants.
 
 &emsp;&emsp;(C)
 
@@ -138,7 +138,7 @@ Administration.—In carrying out this subparagraph, the Under Secretary for Rur
 
 &emsp;&emsp;&emsp;&emsp;(V) make a determination under this subparagraph not less than 15 days, and not more than 60 days, after the release of the notice under subclause (IV);
 
-&emsp;&emsp;&emsp;&emsp;(VI) submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate an annual report on actions taken to carry out this subparagraph; and
+&emsp;&emsp;&emsp;&emsp;(VI) submit to the Committee on Agriculture of the House of Representativesand the Committee on Agriculture, Nutrition, and Forestry of the Senate an annual report on actions taken to carry out this subparagraph; and
 
 &emsp;&emsp;&emsp;&emsp;(VII) terminate a determination under this subparagraph that part of an area is a rural area on the date that data is available for the next decennial census conducted under section 141(a) of title 13.
 
@@ -184,7 +184,7 @@ Hawaii and puerto rico.—Notwithstanding any other provision of this paragraph,
 
 &emsp;(1) The term “borrower” means any farm borrower who has outstanding obligations to the Secretary under any farmer program loan, without regard to whether the loan has been accelerated, but does not include any farm borrower all of whose loans and accounts have been foreclosed on or liquidated, voluntarily or otherwise.
 
-&emsp;(2) The term “loan service program” means, with respect to a farmer program borrower, aprimary loan service program or a preservation loan service program.
+&emsp;(2) The term “loan service program” means, with respect to a farmer program borrower, a primary loan service program or a preservation loan service program.
 
 &emsp;(3) The term “primary loan service program” means—
 
@@ -274,7 +274,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 #### Effective Date of 1997 Amendment
 
-Section 3(d) of Pub. L. 104–113 provided that: “This section \[amending this section and repealing section 142 of Title 13, Census\] and the amendments made by this section shall take effect October 1, 1998.”
+Pub. L. 105–113, §3(d), Nov. 21, 1997, 111 Stat. 2276, provided that: “This section \[amending this section and repealing section 142 of Title 13, Census\] and the amendments made by this section shall take effect October 1, 1998.”
 
 #### Effective Date of 1996 Amendment
 
@@ -286,11 +286,11 @@ Amendment by Pub. L. 102–237 effective as if included in the provision of the 
 
 #### Effective and Termination Date of 1966 Amendment
 
-Pub. L. 89–586, as amended by Pub. L. 90–426, July 26, 1968, 82 Stat. 445, provided in part that the amendment made by Pub. L. 89–586 is effective only for the period of time commencing with Sept. 19, 1966, and ending on June 30, 1970.
+Pub. L. 89–586, Sept. 19, 1966, 80 Stat. 809, as amended by Pub. L. 90–426, July 26, 1968, 82 Stat. 445, provided in part that the amendment made by Pub. L. 89–586 is effective only for the period of time commencing with Sept. 19, 1966, and ending on June 30, 1970.
 
 #### Construction of 1990 Amendment
 
-Section 702(h)(2) of Pub. L. 102–237, as amended by Pub. L. 102–552, title V, §516(k), Oct. 28, 1992, 106 Stat. 4139, provided that: “The Consolidated Farm and Rural Development Act \[see Short Title note set out under section 1921 of this title\] shall be applied and administered as if the amendment made by section 2388(h)(3) of the Food, Agriculture, Conservation, and Trade Act of 1990 \[Pub. L. 101–624, amending this section\] had never been enacted.”
+Pub. L. 102–237, title VII, §702(h)(2), Dec. 13, 1991, 105 Stat. 1881, as amended by Pub. L. 102–552, title V, §516(k), Oct. 28, 1992, 106 Stat. 4139, provided that: “The Consolidated Farm and Rural Development Act \[title III of Pub. L. 87–128, see Short Title note set out under section 1921 of this title\] shall be applied and administered as if the amendment made by section 2388(h)(3) of the Food, Agriculture, Conservation, and Trade Act of 1990 \[Pub. L. 101–624, amending this section\] had never been enacted.”
 
 #### Termination of Trust Territory of the Pacific Islands
 

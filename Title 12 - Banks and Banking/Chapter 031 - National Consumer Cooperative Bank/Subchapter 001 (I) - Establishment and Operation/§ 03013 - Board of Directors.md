@@ -2,7 +2,7 @@
 
 #### (a) Composition; term of office; removal by President
 
-The Bank shall be governed by a Board of Directors (hereinafter in this chapter referred to as the “Board”) which shall consist of 15 members. All members shall serve for a term of 3 years. After the expiration of the term of any member, such member may continue to serve until his successor has been elected or has been appointed and qualified. Any member appointed by the President may be removed for cause by the President.
+The Bank shall be governed by a Board of Directors (hereinafter in this chapter referred to as the “Board”) which shall consist of 15 members. All members shall serve for a term of 3years. After the expiration of the term of any member, such member may continue to serve until his successor has been elected or has been appointed and qualified. Any member appointed by the President may be removed for cause by the President.
 
 #### (b) Appointment by President; election by stockholders
 
@@ -14,7 +14,7 @@ The Bank shall be governed by a Board of Directors (hereinafter in this chapter 
 
 &emsp;(C) one member who shall be selected from among persons having extensive experience in the cooperative field representing low-income cooperatives eligible to borrow from the Bank.
 
-(2) Twelve members of the Board shall be elected by the holders of class B stock and classC stock in accordance with the provisions of subsection (d) of this section and the bylaws of the Bank.
+(2) Twelve members of the Board shall be elected by the holders of class B stock and class C stock in accordance with the provisions of subsection (d) of this section and the bylaws of the Bank.
 
 #### (c) Resignations; continuances; completion of term; committee representation
 
@@ -56,7 +56,7 @@ The Board shall meet at least quarterly. Its meeting shall be open to members or
 
 Members of the Board appointed by the President from among the officers of the agencies and departments of the United States Government shall not receive any additional compensation by virtue of their service on the Board. The member of the Board appointed from among proprietors of small business and the member of the Board appointed pursuant to subsection (b)(1)(C) of this section shall (1) receive compensation at a rate equal to the daily equivalent of the rate prescribed for grade GS–18 under section 5332 of title 5 for each day that they are engaged in the performance of their duties on the Board, and (2) be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703(b) <sup>1</sup> of title 5 for each day that they are away from their homes or regular places of business in the performance of their duties on the Board. The members of the Board who are elected by the holders of class B stock and class C stock shall be compensated in accordance with the bylaws of the Bank. All compensation and expenses paid to the members of the Board of Directors shall be paid by the Bank.
 
-(Pub. L. 95–351, title I, §103, Aug. 20, 1978, 92 Stat. 502; Pub. L. 96–149, Dec. 16, 1979, 93 Stat.1089; Pub. L. 97–35, title III, §393(a), (b), Aug. 13, 1981, 95 Stat. 435, 436.)
+(Pub. L. 95–351, title I, §103, Aug. 20, 1978, 92 Stat. 502; Pub. L. 96–149, Dec. 16, 1979, 93 Stat. 1089; Pub. L. 97–35, title III, §393(a), (b), Aug. 13, 1981, 95 Stat. 435, 436.)
 
 #### References in Text
 
@@ -84,7 +84,7 @@ Subsec. (h). Pub. L. 96–149, §1(d), inserted provisions relating to Board mem
 
 #### Effective Date of 1981 Amendment
 
-Section 393(c) of Pub. L. 97–35 provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall take effect on the day after the Final Government Equity Redemption Date \[Dec. 31, 1981\].” For definition of “Final Government Equity Redemption Date”, see section 396(a) of Pub. L. 97–35, set out as a note under section 3012 of this title.
+Pub. L. 97–35, title III, §393(c), Aug. 13, 1981, 95 Stat. 436, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall take effect on the day after the Final Government Equity Redemption Date \[Dec. 31, 1981\].” For definition of “Final Government Equity Redemption Date”, see section 396(a) of Pub. L. 97–35, set out as a note under section 3012 of this title.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

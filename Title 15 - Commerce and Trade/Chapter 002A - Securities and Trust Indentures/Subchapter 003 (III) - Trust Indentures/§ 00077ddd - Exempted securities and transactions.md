@@ -4,7 +4,7 @@
 
 The provisions of this subchapter shall not apply to any of the following securities:
 
-&emsp;(1) any security other than (A) a note, bond, debenture, or evidence of indebtedness, whether or not secured, or (B) a certificate of interest or participation in any such note, bond, debenture, or evidence of indebtedness, or (C) atemporary certificate for, or guarantee of, any such note, bond, debenture, evidence of indebtedness, or certificate;
+&emsp;(1) any security other than (A) a note, bond, debenture, or evidence of indebtedness, whether or not secured, or (B) a certificate of interest or participation in any such note, bond, debenture, or evidence of indebtedness, or (C) a temporary certificate for, or guarantee of, any such note, bond, debenture, evidence of indebtedness, or certificate;
 
 &emsp;(2) any certificate of interest or participation in two or more securities having substantially different rights and privileges, or a temporary certificate for any such certificate;
 
@@ -72,7 +72,7 @@ Subsec. (a)(4)(A). Pub. L. 101–550, §403(1)(B), struck out “, as heretofor
 
 Subsec. (d). Pub. L. 101–550, §403(2), added subsec. (d) and struck out former subsec. (d) which read as follows: “The Commission may, on application by the issuer and after opportunity for hearing thereon, by order exempt from any one or more of the provisions of this subchapter any security issued or proposed to be issued by a person organized and existing under the laws of a foreign government or a political subdivision thereof, if and to the extent that the Commission finds that compliance with such provision or provisions is not necessary in the public interest and for the protection of investors.”
 
-<b>1980</b>—Subsec. (a)(8). Pub. L. 96–477, §302(a), substituted “an aggregate principal amount of securities of the same issuer greater than the figure stated in section 3(b) of the Securities Act of 1933 limiting exemptions thereunder, or such lesser amount as the Commission may establish by its rules and regulations” for “more than $250,000 aggregate principal amount of any securities of the same issuer”.
+<b>1980</b>—Subsec. (a)(8). Pub. L. 96–477, §302(a), substituted “an aggregate principal amount of securitiesof the same issuer greater than the figure stated in section 3(b) of the Securities Act of 1933 limiting exemptions thereunder, or such lesser amount as the Commission may establish by its rules and regulations” for “more than $250,000 aggregate principal amount of any securities of the same issuer”.
 
 Subsec. (a)(9). Pub. L. 96–477, §302(b), substituted “$10,000,000, or such lesser amount as the Commission may establish by its rules and regulations” for “$1,000,000 or less”, “more than $10,000,000” for “more than $1,000,000”, and inserted “, or such lesser amount as the Commission may establish by its rules and regulations” after “same issuer”.
 

@@ -230,7 +230,7 @@ To be considered for designation renewal, an entity shall submit an application 
 
 #### (2) Exception
 
-&emsp;In a community in which there is no Indian Head Start agency available for designation to carry out an Indian Head Start program, anon-Indian Head Start agency may receive a grant to carry out an Indian Head Start program but only until such time as an Indian Head Start agency in such community becomes available and is designated pursuant to this section.
+&emsp;In a community in which there is no Indian Head Start agency available for designation to carry out an Indian Head Start program, a non-Indian Head Start agency may receive a grant to carry out an Indian Head Start program but only until such time as an Indian Head Start agency in such community becomes available and is designated pursuant to this section.
 
 #### (f) Interim provider
 
@@ -244,7 +244,7 @@ The Secretary shall require that the practice of significantly involving parents
 
 For purposes of this subchapter, a community may be a city, county, or multicity or multicounty unit within a State, an Indian reservation (including Indians in any off-reservation area designated by an appropriate tribal government in consultation with the Secretary), or a neighborhood or other area (irrespective of boundaries or political subdivisions) that provides a suitable organizational base and possesses the commonality of interest needed to operate a Head Start program.
 
-(Pub. L. 97–35, title VI, §641, Aug. 13, 1981, 95 Stat. 501; Pub. L. 98–558, title I, §104, Oct. 30, 1984, 98 Stat. 2878; Pub. L. 101–501, title I, §§107, 108, Nov. 3, 1990, 104 Stat. 1229, 1230; Pub. L. 102–401, §2(e)(1), (f)–(h), Oct. 7, 1992, 106 Stat. 1957; Pub. L. 103–252, title I, §107, May 18, 1994, 108 Stat. 629; Pub. L. 105–285, title I, §107, Oct. 27, 1998, 112 Stat. 2712; Pub. L. 108–446, title III, §305(<i>l</i>)(3), Dec. 3, 2004, 118 Stat. 2806; Pub. L. 110–134, §7, Dec. 12, 2007, 121 Stat. 1378.)
+(Pub. L. 97–35, title VI, §641, Aug. 13, 1981, 95 Stat. 501; Pub. L. 98–558, title I, §104, Oct. 30, 1984, 98 Stat. 2878; Pub. L. 101–501, title I, §§107, 108, Nov. 3, 1990, 104 Stat. 1229, 1230; Pub. L. 102–401, §2(e)(1), (f)–(h), Oct. 7, 1992, 106 Stat. 1957; Pub. L. 103–252, title I, §107, May 18, 1994, 108 Stat. 629; Pub. L. 105–285, title I, §107, Oct. 27, 1998, 112 Stat. 2712; Pub. L. 108–446, title III, §305(l)(3), Dec. 3, 2004, 118 Stat. 2806; Pub. L. 110–134, §7, Dec. 12, 2007, 121 Stat. 1378.)
 
 #### References in Text
 
@@ -290,7 +290,7 @@ Subsec. (d)(7). Pub. L. 105–285, §107(4)(D), amended par. (7) generally. Prio
 
 Subsec. (d)(8) to (10). Pub. L. 105–285, §107(4)(E)–(G), added pars. (8) and (10) and redesignated former par. (8) as (9).
 
-Subsec. (e). Pub. L. 105–285, §107(5), added subsec. (e) and struck out former subsec. (e) which read as follows: “If, in a community served by a Head Start program,there is no applicant qualified for designation as a Head Start agency to carry out such program, the Secretary may appoint an interim grantee to carry out such program until a qualified applicant is so designated.”
+Subsec. (e). Pub. L. 105–285, §107(5), added subsec. (e) and struck out former subsec. (e) which read as follows: “If, in a community served by a Head Start program, there is no applicant qualified for designation as a Head Start agency to carry out such program, the Secretary may appoint an interim grantee to carry out such program until a qualified applicant is so designated.”
 
 Subsec. (g). Pub. L. 105–285, §107(6), added subsec. (g).
 
@@ -318,7 +318,7 @@ Subsec. (c)(3). Pub. L. 103–252, §107(b)(1), (5), redesignated concluding pro
 
 Subsec. (c)(4). Pub. L. 103–252, §107(b)(1), struck out par. (4) which read as follows: “The results of a review conducted under this subsection shall not be sufficient alone for the purpose of determining whether to continue, or to discontinue, providing funds to a particular Head Start agency.”
 
-Subsec. (d). Pub. L. 103–252, §107(c)(1)–(3)(A), in introductory provisions substituted “If no entity in a community is entitled to the priority specified in subsection (c) of this section,” for “If there is no Head Start agency as described in subsection (c)(2) of this section, and no existing Head Start program serving a community,” and struck out “Any such designation shall be governed by the program and fiscal requirements, criteria, and standards applicable on September 1, 1983, to then existing Head Start agencies.” after first sentence and “subject to the preceding sentence” after “as a Head Start agency”.
+Subsec. (d). Pub. L. 103–252, §107(c)(1)–(3)(A), in introductory provisions substituted “If no entity in a community is entitled to the priority specified in subsection (c) of this section,” for “If there is no Head Start agency as described in subsection (c)(2) of this section, and no existing Head Start program serving a community,” and struck out “Any such designationshall be governed by the program and fiscal requirements, criteria, and standards applicable on September 1, 1983, to then existing Head Start agencies.” after first sentence and “subject to the preceding sentence” after “as a Head Start agency”.
 
 Subsec. (d)(3). Pub. L. 103–252, §107(c)(3)(B), inserted “, including Even Start programs under part B of chapter 1 of title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 2741 et seq.),” after “preschool programs”.
 
@@ -370,7 +370,7 @@ Amendment by Pub. L. 103–252 effective May 18, 1994, but not applicable to Hea
 
 #### Effective Date of 1992 Amendment
 
-Section 2(e)(2) of Pub. L. 102–401 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply only with respect to terminations of financial assistance, and denials of refunding, occurring after July 29, 1992.”
+Pub. L. 102–401, §2(e)(2), Oct. 7, 1992, 106 Stat. 1957, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply only with respect to terminations of financial assistance, and denials of refunding, occurring after July 29, 1992.”
 
 Amendment by section 2(f)–(h) of Pub. L. 102–401 effective Oct. 7, 1992, but not applicable with respect to fiscal years beginning before Oct. 1, 1992, and amendment by section 2(e)(1) of Pub. L. 102–401 effective July 30, 1992, see section 4 of Pub. L. 102–401, set out as a note under section 9835 of this title.
 

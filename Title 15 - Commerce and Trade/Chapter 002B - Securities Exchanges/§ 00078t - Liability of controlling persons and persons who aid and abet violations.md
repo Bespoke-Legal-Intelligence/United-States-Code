@@ -18,11 +18,11 @@ Wherever communicating, or purchasing or selling a security while in possession 
 
 #### (e) Prosecution of persons who aid and abet violations
 
-For purposes of any action brought by the Commission under paragraph (1) or (3) of section78u(d) of this title, any person that knowingly or recklessly provides substantial assistance to another person in violation of a provision of this chapter, or of any rule or regulation issued under this chapter, shall be deemed to be in violation of such provision to the same extent as the person to whom such assistance is provided.
+For purposes of any action brought by the Commission under paragraph (1) or (3) of section 78u(d) of this title, any person that knowingly or recklessly provides substantial assistance to another person in violation of a provision of this chapter, or of any rule or regulation issued under this chapter, shall be deemed to be in violation of such provision to the same extent as the person to whom such assistance is provided.
 
 #### (f) Limitation on Commission authority
 
-The authority of the Commission under this section with respect to security-based swap agreements shall be subject to the restrictions and limitations of section 78c–1(b) of this title.
+The authority of the Commission under this section with respect to security-based swapagreements shall be subject to the restrictions and limitations of section 78c–1(b) of this title.
 
 (June 6, 1934, ch. 404, title I, §20, 48 Stat. 899; May 27, 1936, ch. 462, §6, 49 Stat. 1379; Pub. L. 88–467, §9, Aug. 20, 1964, 78 Stat. 579; Pub. L. 98–376, §5, Aug. 10, 1984, 98 Stat. 1265; Pub. L. 104–67, title I, §104, Dec. 22, 1995, 109 Stat. 757; Pub. L. 105–353, title III, §301(b)(12), Nov. 3, 1998, 112 Stat. 3236; Pub. L. 106–554, §1(a)(5) \[title II, §205(a)(3), title III, §303(i), (j)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–426, 2763A–456; Pub. L. 111–203, title VII, §762(d)(6), title IX, §§929O, 929P(c), July 21, 2010, 124 Stat. 1761, 1862, 1865.)
 
@@ -58,9 +58,9 @@ Subsec. (f). Pub. L. 104–67, §104(2), added subsec. (f).
 
 <b>1984</b>—Subsec. (d). Pub. L. 98–376 added subsec. (d).
 
-<b>1964</b>—Subsec. (c). Pub. L. 88–467 extended application of provisions of subsec. (c) by substituting the prohibition against any officer or director of, or an owner of securities issued by, a company from hindering, delaying, or obstructing the preparation or filing of any report, document, or information required to be filed under this chapter for existing provisions applicable only to filings by companies with securities registered on a national securities exchange or subject to the provisions of section 78<i>o</i>(d) of this title.
+<b>1964</b>—Subsec. (c). Pub. L. 88–467 extended application of provisions of subsec. (c) by substituting the prohibition against any officer or director of, or an owner of securities issued by, a company from hindering, delaying, or obstructing the preparation or filing of any report, document, or information required to be filed under this chapter for existing provisions applicable only to filings by companies with securities registered on a national securities exchange or subject to the provisions of section 78o(d) of this title.
 
-<b>1936</b>—Subsec. (c). Act May 27, 1936, inserted “or any undertaking contained in a registration statement as provided in subsection (d) of section 78<i>o</i> of this title”.
+<b>1936</b>—Subsec. (c). Act May 27, 1936, inserted “or any undertaking contained in a registration statement as provided in subsection (d) of section 78o of this title”.
 
 #### Effective Date of 2010 Amendment
 
@@ -70,7 +70,7 @@ Amendment by section 762(d)(6) of Pub. L. 111–203 effective on the later of 36
 
 #### Effective Date of 1995 Amendment
 
-Amendment by Pub. L. 104–67 not to affect or apply to any private action arising under this chapter or title I of the Securities Act of 1933 (15 U.S.C. 77a et seq.), commenced before and pending on Dec. 22, 1995, see section 108 of Pub. L. 104–67, set out as a note under section 77<i>l</i> of this title.
+Amendment by Pub. L. 104–67 not to affect or apply to any private action arising under this chapter or title I of the Securities Act of 1933 (15 U.S.C. 77a et seq.), commenced before and pending on Dec. 22, 1995, see section 108 of Pub. L. 104–67, set out as a note under section 77l of this title.
 
 #### Effective Date of 1984 Amendment
 

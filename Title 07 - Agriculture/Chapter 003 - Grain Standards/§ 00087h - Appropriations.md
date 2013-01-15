@@ -36,11 +36,11 @@ That part of section 2 of Pub. L. 100–518 which provided that amendment made b
 
 #### Effective and Termination Dates of 1984 Amendment
 
-Section 2 of Pub. L. 98–469 provided that the amendment made by Pub. L. 98–469 is effective for period beginning Oct. 11, 1984, and ending Sept. 30, 1988.
+Pub. L. 98–469, §2, Oct. 11, 1984, 98 Stat. 1831, provided that the amendment made by Pub. L. 98–469 is effective for period beginning Oct. 11, 1984, and ending Sept. 30, 1988.
 
 #### Effective and Termination Dates of 1981 Amendment
 
-Section 155 of Pub. L. 97–35, as amended by Pub. L. 98–469, §1, Oct. 11, 1984, 98 Stat. 1831, provided that the amendment made by Pub. L. 97–35 is effective for period beginning Oct. 1, 1981, and ending Sept. 30, 1988.
+Pub. L. 97–35, title I, §155, Aug. 13, 1981, 95 Stat. 371, as amended by Pub. L. 98–469, §1, Oct. 11, 1984, 98 Stat. 1831, provided that the amendment made by Pub. L. 97–35 is effective for period beginning Oct. 1, 1981, and ending Sept. 30, 1988.
 
 #### Effective Date of 1977 Amendment
 

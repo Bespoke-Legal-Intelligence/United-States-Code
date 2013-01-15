@@ -1,6 +1,6 @@
 ### §872. Criers, bailiffs, and messengers
 
-The Court of International Trade may appoint such criers as it may require for said court, which criers shall also perform the duties of bailiffs and messengers and such other duties as the court directs and shall be subject to removal by the court.
+The Court of International Trade may appoint such criers as it may require for said court,which criers shall also perform the duties of bailiffs and messengers and such other duties as the court directs and shall be subject to removal by the court.
 
 (Added Pub. L. 86–243, §1, Sept. 9, 1959, 73 Stat. 474, §873; amended Pub. L. 96–417, title V, §501(19), Oct. 10, 1980, 94 Stat. 1742; renumbered §872, Pub. L. 99–466, §3(b)(2), Oct. 14, 1986, 100 Stat. 1191.)
 
@@ -16,7 +16,7 @@ A prior section 872, acts June 25, 1948, ch. 646, 62 Stat. 925; May 24, 1949, ch
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respect to civil actions pending on or commenced on or after such date, see section 701(a)of Pub. L. 96–417, set out as a note under section 251 of this title.
+Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respect to civil actions pending on or commenced on or after such date, see section 701(a) of Pub. L. 96–417, set out as a note under section 251 of this title.
 
 #### Savings Provision
 

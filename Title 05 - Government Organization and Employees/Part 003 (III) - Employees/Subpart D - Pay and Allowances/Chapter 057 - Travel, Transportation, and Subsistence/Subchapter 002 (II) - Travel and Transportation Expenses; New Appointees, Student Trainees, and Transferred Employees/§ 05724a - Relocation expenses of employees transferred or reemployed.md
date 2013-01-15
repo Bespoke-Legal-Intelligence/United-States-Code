@@ -24,7 +24,7 @@
 
 (3) The regulations implementing paragraph (1)(A) shall prescribe daily rates and amounts for subsistence expenses per individual.
 
-(d)(1) Under regulations prescribed under section 5738, an agency shall pay to or on behalf of an employee who transfers in the interest of the Government, expenses of the sale of the residence (or the settlement of an unexpired lease) of the employee at the old official station and purchase of a residence at the new official station that are required to be paid by the employee, when the old and new official stations are located within the United States.
+(d)(1) Under regulations prescribed under section 5738, an agency shall pay to or on behalf of an employee who transfers in the interest of the Government, expenses of the sale of the residence (or the settlement of an unexpired lease) of the employee at the old official station andpurchase of a residence at the new official station that are required to be paid by the employee, when the old and new official stations are located within the United States.
 
 (2) Under regulations prescribed under section 5738, an agency shall pay to or on behalf of an employee who transfers in the interest of the Government from a post of duty located outside the United States to an official station within the United States (other than the official station within the United States from which the employee was transferred when assigned to the foreign tour of duty)—
 
@@ -94,7 +94,7 @@ July 21, 1966, Pub. L. 89–516, §2 “Sec. 24”, 80 Stat. 324.
 
 July 21, 1966, Pub. L. 89–516, §2 “Sec. 27”, 80 Stat. 325.
 
-In subsection (a), the word “agency” is substituted for “department” to conform to the definition in 5 U.S.C. 5721(1). The word “employee” is substituted for “officers or employees” and “officer or employee” to conform to the definitions in 5 U.S.C. 5721(2) and 2105. The words “section 5724(a) of this title” and “section 5702 of this title” are substituted for “subsection (a) of section 1 of this Act” and “section 3 of the Travel Expense Act of 1949 (63 Stat. 166, as amended; 5 U.S.C. 836)” to reflect the codification of the cited acts in 5 U.S.C. In subsection (a)(2), the words “within the continental United States” are coextensive with and substituted for “within the continental United States, excluding Alaska” on authority of the definition of “continental United States” in 5 U.S.C. 5721(3).
+In subsection (a), the word “agency” is substituted for “department” to conform to the definition in 5 U.S.C. 5721(1). The word “employee” is substituted for “officers or employees” and “officer or employee” to conform to the definitions in 5 U.S.C. 5721(2) and 2105. The words “section 5724(a) of this title” and “section5702 of this title” are substituted for “subsection (a) of section 1 of this Act” and “section 3 of the Travel Expense Act of 1949 (63 Stat. 166, as amended; 5 U.S.C. 836)” to reflect the codification of the cited acts in 5 U.S.C. In subsection (a)(2), the words “within the continental United States” are coextensive with and substituted for “within the continental United States, excluding Alaska” on authority of the definition of “continental United States” in 5 U.S.C. 5721(3).
 
 In subsection (b), the words “this subchapter” and “subsection (a) of this section or section 5724(a) of this title” are substituted for “this Act” and “section 1(a) or section 23 of this Act”, respectively, to reflect the codification of the act in 5 U.S.C. The word “officer” is omitted as included in “employee”. The words “in the General Schedule of the Classification Act of 1949, as amended” are omitted as unnecessary.
 
@@ -162,7 +162,7 @@ Pub. L. 98–151, §118(a)(5)(B), substituted provisions authorizing extension f
 
 Subsec. (a)(4). Pub. L. 98–151, §118(a)(6), redesignated existing provisions as subpar. (A) and added subpar. (B).
 
-<b>1979</b>—Subsec. (a)(3), (4). Pub. L. 96–70 substituted in pars. (3) and (4) “areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements (as described in section 3(a) of the Panama Canal Act of 1979)” for “Canal Zone” wherever appearing.
+<b>1979</b>—Subsec. (a)(3), (4). Pub. L. 96–70 substituted in pars. (3) and (4) “areas and installations in the Republicof Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements (as described in section 3(a) of the Panama Canal Act of 1979)” for “Canal Zone” wherever appearing.
 
 #### Effective Date of 1997 Amendment
 
@@ -174,7 +174,7 @@ Amendment by Pub. L. 104–201 effective 180 days after Sept. 23, 1996, see sect
 
 #### Effective Date of 1987 Amendment
 
-Section 101(m) \[title VI, §628(a)(2)\] of Pub. L. 100–202 provided that: “The amendments made by paragraph (2) \[probably means par. (1) which amended this section\] shall be applicable with respect to any employee transferred to or from a post of duty on or after 60 days after the date of enactment of this section \[Dec. 22, 1987\].”
+Pub. L. 100–202, §101(m) \[title VI, §628(a)(2)\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–431, provided that: “The amendments made by paragraph (2) \[probably means par. (1) which amended this section\] shall be applicable with respect to any employee transferred to or from a post of duty on or after 60 days after the date of enactment of this section \[Dec. 22, 1987\].”
 
 #### Effective Date of 1986 Amendment
 
@@ -194,5 +194,5 @@ Pub. L. 105–277, div. A, §101(b) \[title I, §125\], Oct. 21, 1998, 112 Stat.
 
 #### Funding of Amendments by Pub. L. 98–151
 
-Amendments by Pub. L. 98–151 to be carried out be agencies by use of funds appropriated or otherwiseavailable for administrative expenses of such agencies, and do not authorize appropriation of funds in amounts exceeding sums already authorized to be appropriated for such agencies, see section 118(b) of Pub. L. 98–151, set out as a note under section 5724 of this title.
+Amendments by Pub. L. 98–151 to be carried out be agencies by use of funds appropriated or otherwise available for administrative expenses of such agencies, and do not authorize appropriation of funds in amounts exceeding sums already authorized to be appropriated for such agencies, see section 118(b) of Pub. L. 98–151, set out as a note under section 5724 of this title.
 

@@ -18,13 +18,13 @@ Pub. L. 101–239, §7891(a)(1), substituted “Internal Revenue Code of 1986”
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 7862(c)(1)(B) of Pub. L. 101–239 applicable to years beginning after Dec. 31, 1986, seesection 7862(c)(1)(C) of Pub. L. 101–239, set out as a note under section 106 of Title 26, Internal Revenue Code.
+Amendment by section 7862(c)(1)(B) of Pub. L. 101–239 applicable to years beginning after Dec. 31, 1986, see section 7862(c)(1)(C) of Pub. L. 101–239, set out as a note under section 106 of Title 26, Internal Revenue Code.
 
 Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 
 #### Effective Date
 
-Section 10002(d) of Pub. L. 99–272 provided that:
+Pub. L. 99–272, title X, §10002(d), Apr. 7, 1986, 100 Stat. 231, provided that:
 
 “(1)
 

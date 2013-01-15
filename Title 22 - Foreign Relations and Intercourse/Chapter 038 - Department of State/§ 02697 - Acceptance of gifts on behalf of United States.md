@@ -26,13 +26,13 @@ For the purpose of Federal income, estate, and gift taxes, any gift, devise, or 
 
 The authorities available to the Secretary of State under this section with respect to the Department of State shall be available to the Broadcasting Board of Governors and the Administrator of the Agency for International Development with respect to the Board and the Agency.
 
-(Aug. 1, 1956, ch. 841, title I, §25, as added Pub. L. 96–465, title II, §2201(a), Oct. 17, 1980, 94 Stat. 2153; renumbered title I and amended Pub. L. 97–241, title II, §202(a), title III, §303(b), Aug. 24, 1982, 96 Stat. 282, 291; Pub. L. 100–204, title I, §125, Dec. 22, 1987, 101 Stat. 1341; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1335(<i>l</i>)(2), title XIV, §1422(b)(3)(A), Oct. 21, 1998, 112 Stat. 2681–789, 2681–792.)
+(Aug. 1, 1956, ch. 841, title I, §25, as added Pub. L. 96–465, title II, §2201(a), Oct. 17, 1980, 94 Stat. 2153; renumbered title I and amended Pub. L. 97–241, title II, §202(a), title III, §303(b), Aug. 24, 1982, 96 Stat. 282, 291; Pub. L. 100–204, title I, §125, Dec. 22, 1987, 101 Stat. 1341; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1335(l)(2), title XIV, §1422(b)(3)(A), Oct. 21, 1998, 112 Stat. 2681–789, 2681–792.)
 
 #### Amendments
 
 <b>1998</b>—Subsec. (f). Pub. L. 105–277, §1422(b)(3)(A), substituted “Administrator of the Agency for International Development” for “Director of the United States International Development Cooperation Agency”.
 
-Pub. L. 105–277, §1335(<i>l</i>)(2), substituted “Broadcasting Board of Governors” for “Director of the United States Information Agency” and “with respect to the Board and the Agency” for “with respect to their respective agencies”.
+Pub. L. 105–277, §1335(l)(2), substituted “Broadcasting Board of Governors” for “Director of the United States Information Agency” and “with respect to the Board and the Agency” for “with respect to their respective agencies”.
 
 <b>1987</b>—Subsec. (b). Pub. L. 100–204 inserted “, but shall not be expended for representational purposes at United States missions except in accordance with the conditions that apply to appropriated funds” before period at end of last sentence.
 
@@ -42,7 +42,7 @@ Pub. L. 105–277, §1335(<i>l</i>)(2), substituted “Broadcasting Board of Gov
 
 #### Effective Date of 1998 Amendment
 
-Amendment by section 1335(<i>l</i>)(2) of Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
+Amendment by section 1335(l)(2) of Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
 
 Amendment by section 1422(b)(3)(A) of Pub. L. 105–277 effective Apr. 1, 1999, see section 1401 of Pub. L. 105–277, set out as an Effective Date note under section 6561 of this title.
 
@@ -52,7 +52,7 @@ Section effective Feb. 15, 1981, except as otherwise provided, see section 2403 
 
 #### Official Residence of Secretary of State
 
-Section 132 of Pub. L. 100–204 provided that: “The Department of State shall not solicit or receive funds for the construction, purchase, lease or rental of, nor any gift or bequest of real property or any other property for the purpose of providing living quarters for the Secretary of State.”
+Pub. L. 100–204, title I, §132, Dec. 22, 1987, 101 Stat. 1344, provided that: “The Department of State shall not solicit or receive funds for the construction, purchase, lease or rental of, nor any gift or bequest of real property or any other property for the purpose of providing living quarters for the Secretary of State.”
 
 Pub. L. 99–93, title I, §130, Aug. 16, 1985, 99 Stat. 420, provided that:
 
@@ -62,5 +62,5 @@ Congressional Review.—It is the sense of the Congress that the United States s
 
 “(b)
 
-Study and Report.—The Secretary of State shall conduct a study of any offer of a gift for the purpose of providing a place of official residence for the Secretary of State. Such study shall include an examination of the costs to the United States associated with accepting such gift, including the costs of acquisition, maintenance, security, and daily operation of aresidence. The Secretary shall report the results of any study conducted under this section to the Committee on Foreign Affairs and the Committee on Public Works and Transportation \[now Committee on Transportation and Infrastructure\] of the House of Representatives and to the Committee on Foreign Relations and the Committee on Environment and Public Works of the Senate.”
+Study and Report.—The Secretary of State shall conduct a study of any offer of a gift for the purpose of providing a place of official residence for the Secretary of State. Such study shall include an examination of the costs to the United States associated with accepting such gift, including the costs of acquisition, maintenance, security, and daily operation of a residence. The Secretary shall report the results of any study conducted under this section to the Committee on Foreign Affairs and the Committee on Public Works and Transportation \[now Committee on Transportation and Infrastructure\] of the House of Representatives and to the Committee on Foreign Relations and the Committee on Environment and Public Works of the Senate.”
 

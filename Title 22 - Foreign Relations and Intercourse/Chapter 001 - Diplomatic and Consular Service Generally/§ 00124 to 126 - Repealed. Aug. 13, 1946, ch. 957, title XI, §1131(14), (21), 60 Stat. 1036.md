@@ -8,5 +8,5 @@ Section 126, R.S. §1751; act June 17, 1874, ch. 294, 18 Stat. 77, related to pr
 
 #### Effective Date of Repeal
 
-Repeal effective three months after Aug. 13, 1946, see section 1141 of act Aug. 13, 1946.
+Repeal effective three months after Aug. 13, 1946, see act Aug. 13, 1946, ch. 957, title XI, §1141, 60 Stat. 1040.
 

@@ -14,7 +14,7 @@ The Secretary is directed to study existing road access to the park and to repor
 
 #### (d) Statutory ceilings respecting appropriations
 
-For purposes of section 460<i>l</i>–9(a)(3) of this title, the statutory ceilings on appropriations established by this section shall be deemed to be statutory ceilings contained in a provision of law enacted prior to the convening of the Ninety-fifth Congress.
+For purposes of section 460l–9(a)(3) of this title, the statutory ceilings on appropriations established by this section shall be deemed to be statutory ceilings contained in a provision of law enacted prior to the convening of the Ninety-fifth Congress.
 
 (Pub. L. 91–661, §401, Jan. 8, 1971, 84 Stat. 1973; Pub. L. 97–405, §1(4), Jan. 3, 1983, 96 Stat. 2029.)
 

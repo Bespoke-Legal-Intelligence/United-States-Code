@@ -54,7 +54,7 @@ Chief Financial Officer.—The Chairman shall designate an officer or employee o
 
 &emsp;(2) direct, manage, and provide policy guidance and oversight on financial management and property and inventory control; and
 
-&emsp;(3) review the fees, rents, and other charges imposed by the Board for services and thingsof value it provides, and suggest appropriate revisions to those charges to reflect costs incurred by the Board in providing those services and things of value.
+&emsp;(3) review the fees, rents, and other charges imposed by the Board for services and things of value it provides, and suggest appropriate revisions to those charges to reflect costs incurred by the Board in providing those services and things of value.
 
 (i)
 
@@ -164,7 +164,7 @@ Plan development considerations.—The Board shall—
 
 “(C)
 
-Report.—Within 180 days after the date of enactment of this Act \[Dec. 21, 2006\], the National Transportation Safety Board shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives that includes—
+Report.—Within 180 days after the date of enactment of this Act \[Dec. 21, 2006\], the National Transportation Safety Board shall submit a report to the Committee on Commerce, Science, and Transportation ofthe Senate and the Committee on Transportation and Infrastructure of the House of Representatives that includes—
 
 &emsp;“(i) an updated copy of the plan developed pursuant to subparagraph (A)(i);
 

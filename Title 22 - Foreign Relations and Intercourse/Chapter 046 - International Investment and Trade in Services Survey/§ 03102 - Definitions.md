@@ -2,11 +2,11 @@
 
 As used in this chapter, the term—
 
-&emsp;(1) “United States”, when used in a geographic sense, means the several States, the District of Columbia, the Commonwealth ofPuerto Rico, the Canal Zone, and all territories and possessions of the United States;
+&emsp;(1) “United States”, when used in a geographic sense, means the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Canal Zone, and all territories and possessions of the United States;
 
 &emsp;(2) “foreign”, when used in a geographic sense, means that which is situated outside the United States or which belongs to or is characteristic of a country other than the United States;
 
-&emsp;(3) “person” means any individual, branch, partnership, associated group, association, estate, trust, corporation, or other organization (whether or not organized under the laws of any State), and any government (including a foreign government, the United States Government, a State or local government, and any agency, corporation, financial institution, or other entity or instrumentality thereof, including a government-sponsored agency);
+&emsp;(3) “person” means any individual, branch, partnership, associated group, association, estate, trust, corporation, or other organization (whether or not organized under the laws of any State), and any government (including a foreign government, the United States Government, a State or local government, and anyagency, corporation, financial institution, or other entity or instrumentality thereof, including a government-sponsored agency);
 
 &emsp;(4) “United States person” means any person resident in the United States or subject to the jurisdiction of the United States;
 

@@ -82,15 +82,13 @@ The penalty imposed by this section shall be in addition to any other penalty im
 
 #### References in Text
 
-Sections 13 and 15(d) of the Securities Exchange Act of 1934, referred to in subsec. (e)(1), are classified to sections 78m and 78<i>o</i>(d), respectively, of Title 15, Commerce and Trade.
+Sections 13 and 15(d) of the Securities Exchange Act of 1934, referred to in subsec. (e)(1), are classified to sections 78m and 78o(d), respectively, of Title 15, Commerce and Trade.
 
 #### Amendments
 
 <b>2010</b>—Subsec. (b). Pub. L. 111–240 amended subsec. (b) generally. Prior to amendment, subsec. (b) specified the amount of the penalty under subsec. (a), both in general and with respect to a listed transaction, in the case of a natural person or in any other case.
 
-<b>2007</b>—Subsec. (e)(2)(C). Pub. L. 110–172 substituted “section 6662A(e)(2)(B)” for “section 6662A(e)(2)(C)”.Effective Date of 2010 Amendment
-
-Pub. L. 111–240, title II, §2041(b), Sept. 27, 2010, 124 Stat. 2560, provided that: “The amendment made by this section \[amending this section\] shall apply to penalties assessed after December 31, 2006.”
+<b>2007</b>—Subsec. (e)(2)(C). Pub. L. 110–172 substituted “section 6662A(e)(2)(B)” for “section 6662A(e)(2)(C)”.
 
 #### Effective Date of 2010 Amendment
 

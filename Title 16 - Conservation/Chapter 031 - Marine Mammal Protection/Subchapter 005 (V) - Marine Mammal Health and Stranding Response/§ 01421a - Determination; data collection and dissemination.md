@@ -28,7 +28,7 @@ The Secretary shall make information collected under this section available to s
 
 #### Implementation
 
-Section 3003(b) of Pub. L. 102–587 provided that: “The Secretary of Commerce shall—
+Pub. L. 102–587, title III, §3003(b), Nov. 4, 1992, 106 Stat. 5066, provided that: “The Secretary of Commerce shall—
 
 &emsp;“(1) in accordance with section 302(a) and (b) \[now 402(a), (b)\] of the Marine Mammal Protection Act of 1972 \[16 U.S.C. 1421a(a), (b)\], as amended by this Act, and not later than 24 months after the date of enactment of this Act \[Nov. 4, 1992\]—
 

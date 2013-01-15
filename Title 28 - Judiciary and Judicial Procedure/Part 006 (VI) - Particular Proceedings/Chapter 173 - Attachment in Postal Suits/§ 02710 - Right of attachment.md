@@ -16,7 +16,7 @@ Section was derived from R.S. §924, which was originally classified to section 
 
 #### Change of Name
 
-References to Post Office Department, Postal Service, Postal Field Service, Field Postal Service, or Departmental Service or Departmental Headquarters of Post Office Department to be considered references to United States Postal Service pursuant to Pub. L. 91–375, §6(<i>o</i>), Aug. 12, 1970, 84 Stat. 783, set out as a Cross Reference note preceding section 101 of Title 39, Postal Service.
+References to Post Office Department, Postal Service, Postal Field Service, Field Postal Service, or Departmental Service or Departmental Headquarters of Post Office Department to be considered references to United States Postal Service pursuant to Pub. L. 91–375, §6(o), Aug. 12, 1970, 84 Stat. 783, set out as a Cross Reference note preceding section 101 of Title 39, Postal Service.
 
 #### Effective Date
 

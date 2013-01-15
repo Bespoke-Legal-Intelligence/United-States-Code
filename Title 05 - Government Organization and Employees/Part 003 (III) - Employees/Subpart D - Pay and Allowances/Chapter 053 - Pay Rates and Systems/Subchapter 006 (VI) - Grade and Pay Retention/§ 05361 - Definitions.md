@@ -60,11 +60,11 @@ Amendment by Pub. L. 101–509 effective on such date as the President shall det
 
 #### Effective Date of 1984 Amendment
 
-Section 205 of Pub. L. 98–615 provided that amendment by Pub. L. 98–615 was effective Oct. 1, 1984, and applicable with respect to pay periods commencing on or after that date, with certain exceptions and qualifications.
+Pub. L. 98–615, title II, §205, Nov. 8, 1984, 98 Stat. 3217, provided that amendment by Pub. L. 98–615 was effective Oct. 1, 1984, and applicable with respect to pay periods commencing on or after that date, with certain exceptions and qualifications.
 
 #### Effective Date
 
-Section 801(a)(4) of Pub. L. 95–454 provided that:
+Pub. L. 95–454, title VIII, §801(a)(4), Oct. 13, 1978, 92 Stat. 1222, provided that:
 
 “(A) The amendments made by this subsection \[enacting sections 5361 to 5366 of this title and redesignating former sections 5361 to 5366 as sections 5371 to 5375 of this title, amending sections 559, 1305, 3104, 5102, 5107, 5334, 5349, and 8704 of this title, sections 4540, 7212, and 9540 of Title 10, Armed Forces, section 1715 of Title 15, Commerce and Trade, and section 3608 of Title 42, The Public Health and Welfare, and repealing sections 5337 and 5345 of this title\] shall take effect on the first day of the first applicable pay period beginning on or after the 90th day after the date of the enactment of this Act \[Oct. 13, 1978\].
 

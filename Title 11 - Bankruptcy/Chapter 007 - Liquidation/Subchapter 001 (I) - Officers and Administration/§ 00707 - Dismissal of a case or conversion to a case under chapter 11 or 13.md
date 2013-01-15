@@ -24,7 +24,7 @@
 
 (IV) In addition, the debtor's monthly expenses may include the actual expenses for each dependent child less than 18 years of age, not to exceed $1,500 per year per child, to attend a private or public elementary or secondary school if the debtor provides documentation of such expenses and a detailed explanation of why such expenses are reasonable and necessary, and why such expenses are not already accounted for in the National Standards, Local Standards, or Other Necessary Expenses referred to in subclause (I).
 
-(V) In addition, the debtor's monthly expenses may include an allowance for housing and utilities, in excess of the allowance specified by theLocal Standards for housing and utilities issued by the Internal Revenue Service, based on the actual expenses for home energy costs if the debtor provides documentation of such actual expenses and demonstrates that such actual expenses are reasonable and necessary.
+(V) In addition, the debtor's monthly expenses may include an allowance for housing and utilities, in excess of the allowance specified by the Local Standards for housing and utilities issued by the Internal Revenue Service, based on the actual expenses for home energy costs if the debtor provides documentation of such actual expenses and demonstrates that such actual expenses are reasonable and necessary.
 
 (iii) The debtor's average monthly payments on account of secured debts shall be calculated as the sum of—
 
@@ -168,7 +168,7 @@
 
 (3) The court may not dismiss a case under paragraph (2) if the debtor establishes by a preponderance of the evidence that the filing of a case under this chapter is necessary to satisfy a claim for a domestic support obligation.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2606; Pub. L. 98–353, title III, §§312, 475, July 10, 1984, 98 Stat. 355, 381; Pub. L. 99–554, title II, §219, Oct. 27, 1986,100 Stat. 3100; Pub. L. 105–183, §4(b), June 19, 1998, 112 Stat. 518; Pub. L. 109–8, title I, §102(a), (f), Apr. 20, 2005, 119 Stat. 27, 33; Pub. L. 110–438, §2, Oct. 20, 2008, 122 Stat. 5000; Pub. L. 111–320, title II, §202(a), Dec. 20, 2010, 124 Stat. 3509; Pub. L. 111–327, §2(a)(25), Dec. 22, 2010, 124 Stat. 3560.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2606; Pub. L. 98–353, title III, §§312, 475, July 10, 1984, 98 Stat. 355, 381; Pub. L. 99–554, title II, §219, Oct. 27, 1986, 100 Stat. 3100; Pub. L. 105–183, §4(b), June 19, 1998, 112 Stat. 518; Pub. L. 109–8, title I, §102(a), (f), Apr. 20, 2005, 119 Stat. 27, 33; Pub. L. 110–438, §2, Oct. 20, 2008, 122 Stat. 5000; Pub. L. 111–320, title II, §202(a), Dec. 20, 2010, 124 Stat. 3509; Pub. L. 111–327, §2(a)(25), Dec. 22, 2010, 124 Stat. 3560.)
 
 #### Adjustment of Dollar Amounts
 
@@ -226,7 +226,7 @@ Effective Date.—Except as provided in subsection (b), this Act \[amending this
 
 “(b)
 
-Application of Amendments.—The amendments made by this Act \[amending this section\] shall apply only with respect to cases commenced under title 11 of the United States Code in the 7-year period beginning on the effective date of this Act.”
+Application of Amendments.—The amendments made by this Act \[amending this section\] shall applyonly with respect to cases commenced under title 11 of the United States Code in the 7-year period beginning on the effective date of this Act.”
 
 #### Effective Date of 2005 Amendment
 
@@ -252,7 +252,9 @@ Pub. L. 109–8, title I, §107, Apr. 20, 2005, 119 Stat. 42, provided that: “
 
 The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to section 104 of this title as follows:
 
-By notice dated Feb. 19, 2010, 75 F.R. 8747, effective Apr. 1, 2010, in subsec. (b)(2)(A)(i)(I), dollar amount “6,575” was adjusted to “7,025”; in subsec. (b)(2)(A)(i)(II), dollar amount “10,950” was adjusted to “11,725”; in subsec. (b)(2)(A)(ii)(IV), dollar amount “1,650” was adjusted to “1,775”; in subsec.\(b)(2)(B)(iv)(I), dollar amount “6,575” was adjusted to “7,025”; in subsec. (b)(2)(B)(iv)(II), dollar amount “10,950” was adjusted to “11,725”; in subsec. (b)(5)(B), dollar amount “1,100” was adjusted to “1,175”; in subsec. (b)(6)(C), dollar amount “575” was adjusted to “625”; and, in subsec. (b)(7)(A)(iii), dollar amount “575” was adjusted to “625”. See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
+By notice dated Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013, in subsec. (b)(2)(A)(i)(I), dollar amount “7,025” was adjusted to “7,475”; in subsec. (b)(2)(A)(i)(II), dollar amount “11,725” was adjusted to “12,475”; in subsec. (b)(2)(A)(ii)(IV), dollar amount “1,775” was adjusted to “1,875”; in subsec. (b)(2)(B)(iv)(I), dollar amount “7,025” was adjusted to “7,475”; in subsec. (b)(2)(B)(iv)(II), dollar amount “11,725” was adjusted to “12,475”; in subsec. (b)(5)(B), dollar amount “1,175” was adjusted to “1,250”; in subsec. (b)(6)(C), dollar amount “625” was adjusted to “675”; and, in subsec. (b)(7)(A)(iii), dollar amount “625” was adjusted to “675”. See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
+
+By notice dated Feb. 19, 2010, 75 F.R. 8747, effective Apr. 1, 2010, in subsec. (b)(2)(A)(i)(I), dollar amount “6,575” was adjusted to “7,025”; in subsec. (b)(2)(A)(i)(II), dollar amount “10,950” was adjusted to “11,725”; in subsec. (b)(2)(A)(ii)(IV), dollar amount “1,650” was adjusted to “1,775”; in subsec. (b)(2)(B)(iv)(I), dollar amount “6,575” was adjusted to “7,025”; in subsec. (b)(2)(B)(iv)(II), dollar amount “10,950” was adjusted to “11,725”; in subsec. (b)(5)(B), dollar amount “1,100” was adjusted to “1,175”; in subsec. (b)(6)(C), dollar amount “575” was adjusted to “625”; and, in subsec. (b)(7)(A)(iii), dollar amount “575” was adjusted to “625”.
 
 By notice dated Feb. 7, 2007, 72 F.R. 7082, effective Apr. 1, 2007, in subsec. (b)(2)(A)(i)(I), dollar amount “6,000” was adjusted to “6,575”; in subsec. (b)(2)(A)(i)(II), dollar amount “10,000” was adjusted to “10,950”; in subsec. (b)(2)(A)(ii)(IV), dollar amount “1,500” was adjusted to “1,650”; in subsec. (b)(5)(B), dollar amount “1,000” was adjusted to “1,100”; in subsec. (b)(6)(C), dollar amount “525” was adjusted to “575”; and, in subsec. (b)(7)(A), dollar amount “525” was adjusted to “575”.
 

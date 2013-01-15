@@ -10,7 +10,7 @@ Designation.—(1) The Secretary concerned, or the Secretary of Defense in the c
 
 (b)
 
-Public-Private Partnerships.—(1) To achieve one or more objectives set forth in paragraph (2), the Secretary designating a Center of Industrial and Technical Excellence under subsection (a) may authorize and encourage the head of the Center to enter into public-private cooperative arrangements (in this section referred to as a “public-private partnership”) to provide for any of the following:
+Public-Private Partnerships.—(1) To achieve one or more objectives set forth in paragraph (2), the Secretary designating a Center ofIndustrial and Technical Excellence under subsection (a) may authorize and encourage the head of the Center to enter into public-private cooperative arrangements (in this section referred to as a “public-private partnership”) to provide for any of the following:
 
 &emsp;(A) For employees of the Center, private industry, or other entities outside the Department of Defense to perform (under contract, subcontract, or otherwise) work related to the core competencies of the Center, including any depot-level maintenance and repair work that involves one or more core competencies of the Center.
 
@@ -40,7 +40,7 @@ Private Sector Use of Excess Capacity.—Any facilities or equipment of a Center
 
 (d)
 
-Crediting of Amounts for Performance.—Amounts received by a Center for work performed under a public-private partnership shall be credited to the appropriation or fund, including a working-capital fund, that incurs the cost of performing the work. Consideration in the form of rental payments or (notwithstanding section 3302(b) of title 31) in other forms may be accepted for a use of property accountable under a contract performed pursuant to this section. Notwithstanding section 2667(d) <sup>1</sup> of this title, revenues generated pursuant to this section shall be available for facility operations, maintenance, and environmental restoration at the Center where the leased property is located.
+Crediting of Amounts for Performance.—Amounts received by a Center for work performed under a public-private partnership shall be credited to the appropriation or fund, including a working-capital fund, that incurs the cost of performing the work. Consideration in the form of rental payments or (notwithstanding section 3302(b) of title 31) in other forms may be accepted for a use of property accountable under a contract performed pursuant to this section. Notwithstanding section 2667(e) of this title, revenues generated pursuant to this section shall be available for facility operations, maintenance, and environmental restoration at the Center where the leased property is located.
 
 (e)
 
@@ -66,13 +66,11 @@ Exclusion of Certain Expenditures From Percentage Limitation.—Amounts expended
 
 Construction of Provision.—Nothing in this section may be construed to authorize a change, otherwise prohibited by law, from the performance of work at a Center of Industrial and Technical Excellence by Department of Defense personnel to performance by a contractor.
 
-(Added Pub. L. 105–85, div. A, title III, §361(a)(1), Nov. 18, 1997, 111 Stat. 1700; amended Pub. L. 106–398, §1 \[\[div. A\], title III, §341(a)–(e)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–61 to 1654A–63; Pub. L. 107–107, div. A, title III, §§342, 343(b), Dec. 28, 2001, 115 Stat. 1060, 1061; Pub. L. 107–314, div. A, title III, §334, Dec. 2, 2002, 116 Stat. 2514; Pub. L. 108–375, div. A, title III, §323, title X, §1084(d)(20), Oct. 28, 2004, 118 Stat. 1846, 2062; Pub. L. 109–364, div. A, title III, §331(a), Oct. 17, 2006, 120 Stat. 2149; Pub. L. 112–81, div. A, title III, §322, Dec. 31, 2011, 125 Stat. 1362.)
-
-#### References in Text
-
-Subsection (d) of section 2667 of this title, referred to in subsec. (d), was redesignated subsec. (e) and a new subsec. (d) was added by Pub. L. 109–364, div. A, title VI, §662(b), Oct. 17, 2006, 120 Stat. 2263.
+(Added Pub. L. 105–85, div. A, title III, §361(a)(1), Nov. 18, 1997, 111 Stat. 1700; amended Pub. L. 106–398, §1 \[\[div. A\], title III, §341(a)–(e)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–61 to 1654A–63; Pub. L. 107–107, div. A, title III, §§342, 343(b), Dec. 28, 2001, 115 Stat. 1060, 1061; Pub. L. 107–314, div. A, title III, §334, Dec. 2, 2002, 116 Stat. 2514; Pub. L. 108–375, div. A, title III, §323, title X, §1084(d)(20), Oct. 28, 2004, 118 Stat. 1846, 2062; Pub. L. 109–364, div. A, title III, §331(a), Oct. 17, 2006, 120 Stat. 2149; Pub. L. 112–81, div. A, title III, §322, Dec. 31,2011, 125 Stat. 1362; Pub. L. 112–239, div. A, title X, §1076(d)(4), Jan. 2, 2013, 126 Stat. 1951.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (d). Pub. L. 112–239 substituted “section 2667(e)” for “section 2667(d)”.
 
 <b>2011</b>—Subsec. (a)(1). Pub. L. 112–81 inserted “or military arsenal facility” after “depot-level activity”.
 
@@ -109,6 +107,4 @@ Subsecs. (e), (f). Pub. L. 106–398, §1 \[\[div. A\], title III, §341(e)\], a
 #### Reporting Requirement
 
 Pub. L. 105–85, div. A, title III, §361(c), Nov. 18, 1997, 111 Stat. 1701, provided that, not later than Mar. 1, 1999, the Secretary of Defense was to submit to Congress a report on the policies established by the Secretary pursuant to this section to implement the requirements of this section.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

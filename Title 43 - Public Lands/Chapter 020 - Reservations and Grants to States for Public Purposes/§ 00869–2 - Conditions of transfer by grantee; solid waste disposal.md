@@ -52,11 +52,11 @@ Prior provisions on the subject of reverter were formerly contained in section 8
 
 #### Savings Provisions
 
-Section 3 of Pub. L. 100–648 provided that: “Nothing in this Act \[amending section 869–2 of this title and enacting provisions set out as notes under sections 869 and 869–2 of this title\] or the amendments made thereby shall be construed to affect the applicability and operation of the Comprehensive Environmental Response, Compensation\[,\] and Liability Act \[of 1980\] (42 U.S.C. 9601 et seq.) as amended, and the Resource Conservation and Recovery Act of 1976 (42 U.S.C. 6901 et seq.), as amended.”
+Pub. L. 100–648, §3, Nov. 10, 1988, 102 Stat. 3815, provided that: “Nothing in this Act \[amending section 869–2 of this title and enacting provisions set out as notes under sections 869 and 869–2 of this title\] or the amendments made thereby shall be construed to affect the applicability and operation of the Comprehensive Environmental Response, Compensation\[,\] and Liability Act \[of 1980\] (42 U.S.C. 9601 et seq.) as amended, and the Resource Conservation and Recovery Act of 1976 (42 U.S.C. 6901 et seq.), as amended.”
 
 #### Congressional Review of Conveyance of Land or Renunciation of Reversionary Interests
 
-Section 4 of Pub. L. 100–648 provided that:
+Pub. L. 100–648, §4, Nov. 10, 1988, 102 Stat. 3815, provided that:
 
 “(a) The Secretary shall not make any conveyance of land or renunciation of reversionary interests under this Act \[amending section 869–2 of this title and enacting provisions set out as notes under sections 869 and 869–2 of this title\] until he has published in the Federal Register regulations implementing this Act and until sixty days (not counting days on which the House of Representatives or the Senate has adjourned for more than three days) after these regulations have been submitted to the Committee on Energy and Natural Resources of the Senate and the Committee on Interior and Insular Affairs of the House of Representatives. \[Implementing regulations were published in the Federal Register July 23, 1992, 57 F.R. 32730.\]
 

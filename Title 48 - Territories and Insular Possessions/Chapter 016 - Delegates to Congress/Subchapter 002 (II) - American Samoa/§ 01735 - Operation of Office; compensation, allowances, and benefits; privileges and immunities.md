@@ -10,5 +10,5 @@ Until the Rules of the House of Representatives are amended to provide otherwise
 
 #### Effective Date of 1982 Amendment
 
-Section 401 of Pub. L. 97–357 provided that amendment made by that section is effective Jan. 1, 1983.
+Pub. L. 97–357, title IV, §401, Oct. 19, 1982, 96 Stat. 1711, provided that the amendment made by section 401 is effective Jan. 1, 1983.
 

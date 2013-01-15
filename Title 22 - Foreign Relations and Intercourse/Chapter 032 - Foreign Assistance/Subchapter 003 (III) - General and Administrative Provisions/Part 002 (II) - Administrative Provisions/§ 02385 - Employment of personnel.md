@@ -6,7 +6,7 @@ Any agency or officer of the United States Government carrying out functions und
 
 #### (b) Appointments excepted from civil-service laws; supergrade positions; reinstatement
 
-Of the personnel employed in the United States to carry out subchapter I of this chapter or coordinate subchapter I and subchapter II of this chapter, not to exceed one hundred and ten may be appointed, compensated, or removed without regard to the provisions of any law, of whom not to exceed fifty-one may be compensated at rates higher than those provided for grade 15 of the general schedule established by section 5332 of title 5, but not in excess of the highest rate of grade 18 of such general schedule: <i>Provided</i>, That, under such regulations as the President shall prescribe, officers and employees of the United States Government who are appointed to any of the above positions may be entitled, upon removal from such position, to reinstatement to the position occupied at the time of appointment or to a position of comparable grade and salary. Such positions shall be in addition to those authorized by law to be filled by Presidential appointment, and in addition to the number authorized by section 5108 of title 5.
+Of the personnel employed in the United States to carry out subchapter I of this chapter or coordinate subchapter I and subchapter II of this chapter, not to exceed one hundred and ten may be appointed, compensated, or removed without regard to the provisions of any law, of whom not to exceed fifty-one may be compensated at rates higher than those provided for grade 15 of the general schedule established bysection 5332 of title 5, but not in excess of the highest rate of grade 18 of such general schedule: <i>Provided</i>, That, under such regulations as the President shall prescribe, officers and employees of the United States Government who are appointed to any of the above positions may be entitled, upon removal from such position, to reinstatement to the position occupied at the time of appointment or to a position of comparable grade and salary. Such positions shall be in addition to those authorized by law to be filled by Presidential appointment, and in addition to the number authorized by section 5108 of title 5.
 
 #### (c) Additional supergrade positions
 
@@ -14,7 +14,7 @@ Of the personnel employed in the United States to carry out subchapter II of thi
 
 #### (d) Employment or assignment of officers and employees to perform functions outside United States
 
-For the purpose of performing functions under this chapter outside the United States, the President may employ or assign individuals, or may authorize the employment or assignment ofofficers or employees by agencies of the United States Government which are not authorized to utilize the Foreign Service personnel system, who shall receive compensation at any of the rates provided for under section 402 or section 403 of the Foreign Service Act of 1980 \[22 U.S.C. 3962, 3963\], or under chapter 53 of title 5, or at any other rate authorized by law, together with allowances and benefits under the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\]. Individuals so employed or assigned shall be entitled, except to the extent that the President may specify otherwise in cases in which the period of employment or assignment exceeds thirty months, to the same benefits as are provided by section 310 of that Act \[22 U.S.C. 3950\] for individuals appointed to the Foreign Service.
+For the purpose of performing functions under this chapter outside the United States, the President may employ or assign individuals, or may authorize the employment or assignment of officers or employees by agencies of the United States Government which are not authorized to utilize the Foreign Service personnel system, who shall receive compensation at any of the rates provided for under section 402 or section 403 of the Foreign Service Act of 1980 \[22 U.S.C. 3962, 3963\], or under chapter 53 of title 5, or at any other rate authorized by law, together with allowances and benefits under the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\]. Individuals so employed or assigned shall be entitled, except to the extent that the President may specify otherwise in cases in which the period of employment or assignment exceeds thirty months, to the same benefits as are provided by section 310 of that Act \[22 U.S.C. 3950\] for individuals appointed to the Foreign Service.
 
 #### (e) Repealed. Pub. L. 96–465, title II, §2205(8), Oct. 17, 1980, 94 Stat. 2160
 
@@ -42,13 +42,13 @@ To the maximum extent practicable officers and employees performing functions un
 
 (3) An employee for whom a waiver under this section is in effect shall not be considered an employee for purposes of subchapter III of chapter 83, or chapter 84 of title 5.
 
-(Pub. L. 87–195, pt. III, §625, Sept. 4, 1961, 75 Stat. 449; Pub. L. 87–565, pt. III, §302(c), Aug. 1, 1962, 76 Stat. 262; Pub. L. 87–793, §1001(k), Oct. 11, 1962, 76 Stat. 865; Pub. L. 88–663, pt. III, §302(a), Oct. 7, 1964, 78 Stat. 1014; Pub. L. 89–171, pt. III, §302(c), Sept. 6, 1965, 79 Stat. 660; Pub. L. 90–137, pt. III, §302(b)–(d), Nov. 14, 1967, 81 Stat. 460; Pub. L. 90–554, title III, §302(c), Oct. 8, 1968, 82 Stat. 965; Pub. L. 93–189, §16, Dec. 17, 1973, 87 Stat. 722; Pub. L. 95–88, title I, §125, Aug. 3, 1977, 91 Stat. 542; Pub. L. 96–465, title II, §§2203(a), 2205(8), Oct. 17, 1980, 94 Stat. 2158, 2160; Pub. L. 97–113, title VII, §703, Dec. 29, 1981, 95 Stat. 1544; Pub. L. 109–234, title I, §1602(b)(2), June 15, 2006, 120 Stat. 442; Pub. L. 111–32, title XI, §1115(c)(3), June 24, 2009, 123 Stat. 1905.)
+(Pub. L. 87–195, pt. III, §625, Sept. 4, 1961, 75 Stat. 449; Pub. L. 87–565, pt. III, §302(c), Aug. 1, 1962, 76 Stat. 262; Pub. L. 87–793, pt. II, §1001(k), Oct. 11, 1962, 76 Stat. 865; Pub. L. 88–663, pt. III, §302(a), Oct. 7, 1964, 78 Stat. 1014; Pub. L. 89–171, pt. III, §302(c), Sept. 6, 1965, 79 Stat. 660; Pub. L. 90–137, pt. III, §302(b)–(d), Nov. 14, 1967, 81 Stat. 460; Pub. L. 90–554, title III, §302(c), Oct. 8, 1968, 82 Stat. 965; Pub. L. 93–189, §16, Dec. 17, 1973, 87 Stat. 722; Pub. L. 95–88, title I, §125, Aug. 3, 1977, 91 Stat. 542; Pub. L. 96–465, title II, §§2203(a), 2205(8), Oct. 17, 1980, 94 Stat. 2158, 2160; Pub. L. 97–113, title VII, §703, Dec. 29, 1981, 95 Stat. 1544; Pub. L. 109–234, title I, §1602(b)(2), June 15, 2006, 120 Stat. 442; Pub. L. 111–32, title XI, §1115(c)(3), June 24, 2009, 123 Stat. 1905.)
 
 #### References in Text
 
 This chapter, referred to in subsecs. (a), (d), (f), (h), and (i), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-The Foreign Service Act of 1980, referred to in subsec. (d), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
+The Foreign Service Act of 1980, referred to in subsec. (d), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, whichis classified principally to chapter 52 (§3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II, and References to Subchapter II Deemed To Exclude Such Parts
 
@@ -66,7 +66,7 @@ Subsec. (j)(1)(B). Pub. L. 111–32 substituted “2010” for “2008”.
 
 <b>1980</b>—Subsec. (d). Pub. L. 96–465, §2203(a), substituted references to the Foreign Service Act of 1980, for references to the Foreign Service Act of 1946, and struck out provisions relating to the applicability of section 1005 of the Foreign Service Act of 1946 and relating to the utilization of Presidential authority under the Foreign Service Act of 1946 to carry out the functions of this chapter.
 
-Subsec. (e). Pub. L. 96–465, §2205(8), struck out subsec. (e) which set forth requirement of standards or othercriteria for maintenance of adequate performance levels for personnel. See sections 4007 and 4008 of this title.
+Subsec. (e). Pub. L. 96–465, §2205(8), struck out subsec. (e) which set forth requirement of standards or other criteria for maintenance of adequate performance levels for personnel. See sections 4007 and 4008 of this title.
 
 Subsec. (g). Pub. L. 96–465, §2205(8), struck out subsec. (g) which related to competency in foreign languages. See section 4022 of this title.
 
@@ -104,11 +104,11 @@ Subsec. (f). Pub. L. 87–565, §302(c)(3), inserted “with respect to specific
 
 Amendment of subsec. (d) and repeal of subsecs. (e), (g), and (j) by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of this title.
 
-Repeal of subsec. (k) by Pub. L. 96–465 effective Oct. 17, 1980, see section 2403(d)(1) of Pub. L. 96–465.
+Repeal of subsec. (k) by Pub. L. 96–465 effective Oct. 17, 1980, see Pub. L. 96–465, title II, §2403(d)(1), Oct. 17, 1980, 94 Stat. 2169.
 
 #### Effective Date of 1962 Amendment
 
-Amendment by Pub. L. 87–793 effective on first day of first pay period which begins on or after Oct. 11, 1962, see section 1008 of Pub. L. 87–793.
+Amendment by Pub. L. 87–793 effective on first day of first pay period which begins on or after Oct. 11, 1962, see Pub. L. 87–793, pt. II, §1008, Oct. 11, 1962, 76 Stat. 868.
 
 #### Delegation of Functions
 

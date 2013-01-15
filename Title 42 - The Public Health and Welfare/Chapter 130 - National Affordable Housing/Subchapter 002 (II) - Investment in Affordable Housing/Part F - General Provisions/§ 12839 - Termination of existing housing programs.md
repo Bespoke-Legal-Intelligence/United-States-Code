@@ -4,7 +4,7 @@
 
 Except with respect to projects and programs for which binding commitments have been entered into prior to October 1, 1991, no new grants or loans shall be made after October 1, 1991, under—
 
-&emsp;(1) section 17 of the United States Housing Act of 1937 \[42 U.S.C. 1437<i>o</i>\];
+&emsp;(1) section 17 of the United States Housing Act of 1937 \[42 U.S.C. 1437o\];
 
 &emsp;(2) section 312 of the Housing Act of 1964 \[42 U.S.C. 1452b\];
 
@@ -32,7 +32,7 @@ Any amounts received on or after October 1, 1991, as repayments or recaptures in
 
 #### References in Text
 
-Title VI of the Housing and Community Development Act of 1987 \[Pub. L. 100–242\], referred to in subsec. (a)(3), is set out as a note under section 1715<i>l</i> of Title 12, Banks and Banking.
+Title VI of the Housing and Community Development Act of 1987 \[Pub. L. 100–242\], referred to in subsec. (a)(3), is set out as a note under section 1715l of Title 12, Banks and Banking.
 
 The McKinney-Vento Homeless Assistance Act, referred to in subsecs. (a)(4) and (b)(2), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482. Title IV of the Act is classified generally to subchapter IV (§11360 et seq.) of chapter 119 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
 

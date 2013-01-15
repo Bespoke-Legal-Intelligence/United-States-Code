@@ -72,9 +72,9 @@ Subsec. (d). Pub. L. 103–412, §101, added subsec. (d).
 
 #### Repeal of Inconsistent Provisions and Construction With Other Laws
 
-Section 2 of act June 24, 1938, repealed act May 25, 1918, ch. 86, §28, 40 Stat. 591, which was contained in former section 162 of this title, and all other inconsistent acts.
+Act June 24, 1938, ch. 648, §2, 52 Stat. 1037, repealed act May 25, 1918, ch. 86, §28, 40 Stat. 591, which was contained in former section 162 of this title, and all other inconsistent acts.
 
-Section 3 of act June 24, 1938, provided: “Nothing contained in this act shall be construed as affecting the provisions of the Federal Reserve Act or regulations issued thereunder relating to the payment of interest on deposits.”
+Act June 24, 1938, ch. 648, §3, 52 Stat. 1038, provided: “Nothing contained in this act shall be construed as affecting the provisions of the Federal Reserve Act or regulations issued thereunder relating to the payment of interest on deposits.”
 
 #### Transfer of Functions
 

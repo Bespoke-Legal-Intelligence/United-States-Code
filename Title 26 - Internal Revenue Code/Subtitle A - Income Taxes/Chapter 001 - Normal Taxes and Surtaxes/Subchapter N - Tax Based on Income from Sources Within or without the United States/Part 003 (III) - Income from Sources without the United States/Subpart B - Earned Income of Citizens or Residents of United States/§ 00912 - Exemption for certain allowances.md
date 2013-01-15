@@ -54,21 +54,21 @@ The Peace Corps Act, referred to in par. (3), is Pub. L. 87–293, Sept. 22, 196
 
 #### Effective Date of 1988 Amendment
 
-Section 6137(b) of Pub. L. 100–647 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to allowances received after October 12, 1987, in taxable years ending after such date.”
+Pub. L. 100–647, title VI, §6137(b), Nov. 10, 1988, 102 Stat. 3723, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to allowances received after October 12, 1987, in taxable years ending after such date.”
 
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of Title 22, Foreign Relations and Intercourse.
 
-#### Effective Date of 1961 Amendments
+#### Effective Date of 1961 Amendment
 
-Section 201(d) of Pub. L. 87–293 provided that: “The amendments made by subsections (a) and (b) of this section \[amending this section and section 1303 of this title\] shall apply with respect to taxable years ending after March 1, 1961. The amendment made by subsection (c) \[amending section 3401 of this title\] shall apply with respect to remuneration paid after the date of the enactment of this Act \[Sept. 22, 1961\].”
+Pub. L. 87–293, title II, §201(d), Sept. 22, 1961, 75 Stat. 625, provided that: “The amendments made by subsections (a) and (b) of this section \[amending this section and section 1303 of this title\] shall apply with respect to taxable years ending after March 1, 1961. The amendment made by subsection (c) \[amending section 3401 of this title\] shall apply with respect to remuneration paid after the date of the enactment of this Act \[Sept. 22, 1961\].”
 
 \[Section 201(d) of Pub. L. 87–293 was repealed by Pub. L. 89–572, §5(a), Sept. 13, 1966, 80 Stat. 765. Such repeal not deemed to affect amendments contained in such provisions, see sections 5(b) of Pub. L. 89–572, set out as a note under former section 2515 of Title 22, Foreign Relations and Intercourse.\]
 
 #### Effective Date of 1960 Amendment
 
-Section 523(b) of Pub. L. 86–707, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Paragraphs (1) and (2) of section 912 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as amended by subsection (a) of this section, shall apply only with respect to amounts received on or after the date of the enactment of this Act \[Sept. 6, 1960\] in taxable years ending on or after such date.”
+Pub. L. 86–707, title V, §523(b), Sept. 6, 1960, 74 Stat. 802, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Paragraphs (1) and (2) of section 912 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as amended by subsection (a) of this section, shall apply only with respect to amounts received on or after the date of the enactment of this Act \[Sept. 6, 1960\] in taxable years ending on or after such date.”
 
 #### Repeals; Amendments and Application of Amendments Unaffected
 

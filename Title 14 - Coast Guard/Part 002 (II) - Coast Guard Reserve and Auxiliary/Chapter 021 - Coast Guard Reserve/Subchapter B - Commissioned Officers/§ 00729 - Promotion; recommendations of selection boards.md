@@ -12,7 +12,7 @@
 
 (d)(1) Before convening a selection board to recommend Reserve officers for promotion, the Secretary shall establish a promotion zone for officers serving in each grade to be considered by the board. The Secretary shall determine the number of officers in the promotion zone for officers serving in any grade from among officers who are eligible for promotion in that grade.
 
-(2)(A) Before convening a selection board to recommend Reserve officers for promotion to agrade (other than the grade of lieutenant (junior grade)), the Secretary shall determine the maximum number of officers in that grade that the board may recommend for promotion.
+(2)(A) Before convening a selection board to recommend Reserve officers for promotion to a grade (other than the grade of lieutenant (junior grade)), the Secretary shall determine the maximum number of officers in that grade that the board may recommend for promotion.
 
 (B) The Secretary shall make the determination under subparagraph (A) of the maximum number that may be recommended with a view to having in an active status a sufficient number of Reserve officers in each grade to meet the needs of the Coast Guard for Reserve officers in an active status.
 

@@ -2,9 +2,9 @@
 
 #### (a) Time; basis; amounts
 
-(1) Subject to paragraph (2) and in accordance with regulations promulgated under this part,funds shall be allocated annually among the States on the basis of relative population of people under age eighteen.
+(1) Subject to paragraph (2) and in accordance with regulations promulgated under this part, funds shall be allocated annually among the States on the basis of relative population of people under age eighteen.
 
-(2)(A) Subject to paragraph (3), if the aggregate amount appropriated for a fiscal year to carry out this subchapter is less than $75,000,000, then the amount allocated to each State for such fiscal year shall be not less than $325,000, or such greater amount up to $400,000 as is available to be allocated without reducing the amount of any State or territory's allocation below the amount allocated for fiscal year 2000, except that the amount allocated to the Virgin Islands of the United States, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands shall be not less than $75,000, or such greater amount up to $100,000 as is available to be allocated without reducing the amount of any State or territory's allocation below the amount allocated for fiscal year 2000, each.
+(2)(A) Subject to paragraph (3), if the aggregate amount appropriated for a fiscal year to carry out this subchapter is less than $75,000,000, then the amount allocated to each State for such fiscal year shall be not less than $325,000, or such greater amount up to $400,000 as is available to be allocated without reducing the amount of any State or territory's allocation below the amount allocated for fiscal year 2000, except that the amount allocated to the Virgin Islands of the United States, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands shall be not less than $75,000, or such greater amount up to $100,000 as is available to be allocated without reducing theamount of any State or territory's allocation below the amount allocated for fiscal year 2000, each.
 
 (B) Subject to paragraph (3), if the aggregate amount appropriated for a fiscal year to carry out this subchapter equals or exceeds $75,000,000, then the amount allocated to each State for such fiscal year shall be not less than $600,000, except that the amount allocated to the Virgin Islands of the United States, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands shall be not less than $100,000, or such greater amount up to $100,000 as is available to be allocated without reducing the amount of any State or territory's allocation below the amount allocated for fiscal year 2000, each.
 
@@ -38,7 +38,7 @@ Subsec. (b). Pub. L. 107–273, §12208(2), struck out “the Trust Territory of
 
 <b>1992</b>—Subsec. (a)(2)(A). Pub. L. 102–586, §2(f)(2)(A), (B)(i), substituted “parts D and E” for “part D”, substituted “allocated” for “allotted” in two places, and inserted “or such greater amount, up to $400,000, as is available to be allocated without reducing the amount of any State or territory's allocation below the amount allocated for fiscal year 1992” and “, or such greater amount, up to $100,000, as is available to be allocated without reducing the amount of any State or territory's allocation below the amount allocated for fiscal year 1992,”.
 
-Subsec. (a)(2)(B). Pub. L. 102–586, §2(f)(2)(A), (B)(ii), substituted “allocated” for “allotted” in two places and inserted “or such greater amount, up to $600,000, as is available to be allocated if appropriations have been enacted and made available to carry out parts D and E of this subchapter in the full amounts authorized bysection 5671(a)(1) and (3) of this title” and “, or such greater amount, up to $100,000, as is available to be allocated without reducing the amount of any State or territory's allocation below the amount allocated for fiscal year 1992”.
+Subsec. (a)(2)(B). Pub. L. 102–586, §2(f)(2)(A), (B)(ii), substituted “allocated” for “allotted” in two places and inserted “or such greater amount, up to $600,000, as is available to be allocated if appropriations have been enacted and made available to carry out parts D and E of this subchapter in the full amounts authorized by section 5671(a)(1) and (3) of this title” and “, or such greater amount, up to $100,000, as is available to be allocated without reducing the amount of any State or territory's allocation below the amount allocated for fiscal year 1992”.
 
 Subsec. (a)(3). Pub. L. 102–586, §2(f)(2)(A), (B)(iii), substituted “allocated” for “allotted” wherever appearing and “1992” for “1988” in two places.
 
@@ -48,7 +48,7 @@ Subsec. (c). Pub. L. 102–586, §2(f)(2)(A), (C), substituted “allocation” 
 
 Subsec. (d). Pub. L. 102–586, §2(f)(2)(A), substituted “allocation” for “allotment”.
 
-<b>1988</b>—Subsec. (a)(1). Pub. L. 100–690, §7257(a)(1), (2), designated existing provisions as par. (1), substituted “Subject to paragraph (2) and in” for “In”, and struck out at end “No such allotment to any State shall be less than $225,000, except that for the Virgin Islands, Guam, American Samoa, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands no allotment shall be less than $56,250.”
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–690, §7257(a)(1), (2), designated existing provisions as par. (1), substituted “Subject to paragraph (2) and in” for “In”, and struck out at end “No such allotment to any State shall beless than $225,000, except that for the Virgin Islands, Guam, American Samoa, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands no allotment shall be less than $56,250.”
 
 Subsec. (a)(2), (3). Pub. L. 100–690, §7257(a)(3), added pars. (2) and (3).
 
@@ -82,7 +82,7 @@ Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 670(a) of Pub
 
 Amendment by section 4(b)(1), (3) of Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115, set out as a note under section 5601 of this title.
 
-Section 4(b)(2)(D) of Pub. L. 95–115 provided that: “The amendments made by this paragraph \[amending this section\] shall take effect on October 1, 1978.”
+Pub. L. 95–115, §4(b)(2)(D), Oct. 3, 1977, 91 Stat. 1051, provided that: “The amendments made by this paragraph \[amending this section\] shall take effect on October 1, 1978.”
 
-Section 4(b)(4)(B) of Pub. L. 95–115 provided that the amendment made by such section 4(b)(4)(B) is effective Oct. 1, 1978.
+Pub. L. 95–115, §4(b)(4)(B), Oct. 3, 1977, 91 Stat. 1051, provided that the amendment made by such section 4(b)(4)(B) is effective Oct. 1, 1978.
 

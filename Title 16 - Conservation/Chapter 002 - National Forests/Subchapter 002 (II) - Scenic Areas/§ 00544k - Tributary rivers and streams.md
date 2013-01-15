@@ -2,7 +2,7 @@
 
 #### (a) Water resources projects
 
-The following rivers and streams shall be subject to the same restrictions on the licensing, permitting, and exempting from licensing and the construction of water resource projects as provided for components of the National Wild and Scenic Rivers System pursuant to section 7(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1278(a)):
+The following rivers and streams shall be subject to the same restrictions on the licensing,permitting, and exempting from licensing and the construction of water resource projects as provided for components of the National Wild and Scenic Rivers System pursuant to section 7(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1278(a)):
 
 &emsp;(1) any tributary river or stream to the Columbia River not designated in subsections <sup>1</sup> (c) or (d) of this section or otherwise specified in this subsection which flows in whole or in part through a special management area, unless the construction of a water resources project would not have a direct and adverse effect on the scenic, cultural, recreation, and natural resources of the scenic area;
 

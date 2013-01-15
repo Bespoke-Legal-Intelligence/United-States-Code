@@ -146,11 +146,11 @@ Subsec. (i). Pub. L. 103–18, §1(a)(4), added subsec. (i).
 
 #### Effective Date of 1996 Amendment
 
-Section 737(b) of Pub. L. 104–106 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of section 603 of the Veterans Health Care Act of 1992 (Public Law 102–585; 106 Stat. 4971).”
+Pub. L. 104–106, div. A, title VII, §737(b), Feb. 10, 1996, 110 Stat. 383, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of section 603 of the Veterans Health Care Act of 1992 (Public Law 102–585; 106 Stat. 4971).”
 
 #### Effective Date of 1993 Amendment
 
-Section 1(b) of Pub. L. 103–18 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of section 603 of the Veterans Health Care Act of 1992 \[Pub. L. 102–585\].”
+Pub. L. 103–18, §1(b), Apr. 12, 1993, 107 Stat. 54, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of section 603 of the Veterans Health Care Act of 1992 \[Pub. L. 102–585\].”
 
 #### Transfer of Functions
 

@@ -138,7 +138,7 @@ The Secretary shall establish a Medicare coverage gap discount program (in this 
 
 #### (4) Performance requirements
 
-&emsp;The Secretary shall establish performance requirements for a third party with a contractunder paragraph (3) and safeguards to protect the independence and integrity of the activities carried out by the third party under the program under this section.
+&emsp;The Secretary shall establish performance requirements for a third party with a contract under paragraph (3) and safeguards to protect the independence and integrity of the activities carried out by the third party under the program under this section.
 
 #### (5) Implementation
 
@@ -228,7 +228,7 @@ In this section:
 
 #### (5) Manufacturer
 
-&emsp;The term “manufacturer” means any entity which is engaged in the production, preparation, propagation, compounding, conversion, or processing of prescription drug products, either directly or indirectly by extraction fromsubstances of natural origin, or independently by means of chemical synthesis, or by a combination of extraction and chemical synthesis. Such term does not include a wholesale distributor of drugs or a retail pharmacy licensed under State law.
+&emsp;The term “manufacturer” means any entity which is engaged in the production, preparation, propagation, compounding, conversion, or processing of prescription drug products, either directly or indirectly by extraction from substances of natural origin, or independently by means of chemical synthesis, or by a combination of extraction and chemical synthesis. Such term does not include a wholesale distributor of drugs or a retail pharmacy licensed under State law.
 
 #### (6) Negotiated price
 

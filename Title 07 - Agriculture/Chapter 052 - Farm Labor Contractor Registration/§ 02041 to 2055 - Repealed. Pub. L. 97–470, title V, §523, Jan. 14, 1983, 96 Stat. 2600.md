@@ -110,7 +110,7 @@ Section 2051, Pub. L. 88–582, §15, formerly §12, Sept. 7, 1964, 78 Stat. 924
 
 Section 2052, Pub. L. 88–582, §16, formerly §13, Sept. 7, 1964, 78 Stat. 924, renumbered Pub. L. 93–518, §14(a), Dec. 7, 1974, 88 Stat. 1657, provided for separability of provisions.
 
-Section 2053, Pub. L. 88–582, §17, formerly §14, Sept. 7, 1964, 78 Stat. 924, renumbered and amended Pub. L.93–518, §§14(a), 16, Dec. 7, 1974, 88 Stat. 1657, 1659, authorized issuance of rules and regulations.
+Section 2053, Pub. L. 88–582, §17, formerly §14, Sept. 7, 1964, 78 Stat. 924, renumbered and amended Pub. L. 93–518, §§14(a), 16, Dec. 7, 1974, 88 Stat. 1657, 1659, authorized issuance of rules and regulations.
 
 Section 2054, Pub. L. 88–582, §18, as added Pub. L. 93–518, §15, Dec. 7, 1974, 88 Stat. 1658, related to waiver of rights.
 
@@ -122,13 +122,13 @@ Repeal effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–470
 
 #### Effective Date
 
-Section 523 of Pub. L. 97–470 repealed section 15 of Pub. L. 88–582, Sept. 7, 1964, 78 Stat. 924, which had prescribed Jan. 1, 1965, as the effective date for this chapter.
+Pub. L. 97–470, title V, §523, Jan. 14, 1983, 96 Stat. 2600, repealed Pub. L. 88–582, §15, Sept. 7, 1964, 78 Stat. 924, which had prescribed Jan. 1, 1965, as the effective date for this chapter.
 
 #### Short Title of 1974 Amendment
 
-Section 1(a) of Pub. L. 93–518, Dec. 7, 1974, 88 Stat. 1652, which had enacted sections 2050a to 2050c, 2054, and 2055 and amended sections 2041 to 2046, 2048, and 2053 of this title, had provided for citation of such amendments as the “Farm Labor Contractor Registration Act Amendments of 1974”.
+Pub. L. 93–518, §1(a), Dec. 7, 1974, 88 Stat. 1652, which had enacted sections 2050a to 2050c, 2054, and 2055 andamended sections 2041 to 2046, 2048, and 2053 of this title, had provided for citation of such amendments as the “Farm Labor Contractor Registration Act Amendments of 1974”.
 
 #### Short Title
 
-Section 523 of Pub. L. 97–470 repealed section 1 of Pub. L. 88–582, Sept. 7, 1964, 78 Stat. 920, which had provided for citation of this chapter as the “Farm Labor Contractor Registration Act of 1963”.
+Pub. L. 97–470, title V, §523, Jan. 14, 1983, 96 Stat. 2600, repealed Pub. L. 88–582, §1, Sept. 7, 1964, 78 Stat. 920, which had provided for citation of this chapter as the “Farm Labor Contractor Registration Act of 1963”.
 

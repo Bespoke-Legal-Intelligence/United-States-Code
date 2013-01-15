@@ -8,7 +8,7 @@ The Secretary may award grants to eligible institutions of higher education to s
 
 &emsp;(2) accredited master's, doctoral, internship, and post-doctoral residency programs of psychology for the development and implementation of interdisciplinary training of psychology graduate students for providing behavioral and mental health services, including substance abuse prevention and treatment services;
 
-&emsp;(3) accredited institutions of higher education or accredited professional training programs that are establishing or expanding internships or other field placement programs inchild and adolescent mental health in psychiatry, psychology, school psychology, behavioral pediatrics, psychiatric nursing, social work, school social work, substance abuse prevention and treatment, marriage and family therapy, school counseling, or professional counseling; and
+&emsp;(3) accredited institutions of higher education or accredited professional training programs that are establishing or expanding internships or other field placement programs in child and adolescent mental health in psychiatry, psychology, school psychology, behavioral pediatrics, psychiatric nursing, social work, school social work, substance abuse prevention and treatment, marriage and family therapy, school counseling, or professional counseling; and
 
 &emsp;(4) State-licensed mental health nonprofit and for-profit organizations to enable such organizations to pay for programs for preservice or in-service training of paraprofessional child and adolescent mental health workers.
 

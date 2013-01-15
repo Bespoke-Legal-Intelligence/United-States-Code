@@ -86,7 +86,7 @@ For purposes of this section—
 
 #### (e) Application of section
 
-The credit under this section shall apply with respect to qualified carbon dioxide before the end of the calendar year in which the Secretary, in consultation with the Administrator of the Environmental Protection Agency, certifies that 75,000,000 metric tons of qualified carbon dioxide have been taken into account in accordance with subsection (a).
+The credit under this section shall apply with respect to qualified carbon dioxide before theend of the calendar year in which the Secretary, in consultation with the Administrator of the Environmental Protection Agency, certifies that 75,000,000 metric tons of qualified carbon dioxide have been taken into account in accordance with subsection (a).
 
 (Added Pub. L. 110–343, div. B, title I, §115(a), Oct. 3, 2008, 122 Stat. 3829; amended Pub. L. 111–5, div. B, title I, §1131(a), (b), Feb. 17, 2009, 123 Stat. 325.)
 
@@ -106,7 +106,7 @@ Subsec. (e). Pub. L. 111–5, §1131(b)(3), substituted “taken into account in
 
 #### Effective Date of 2009 Amendment
 
-Pub. L. 111–5, div. B, title I, §1131(c), Feb. 17, 2009, 123 Stat. 325, provided that: “The amendments made bythis section \[amending this section\] shall apply to carbon dioxide captured after the date of the enactment of this Act \[Feb. 17, 2009\].”
+Pub. L. 111–5, div. B, title I, §1131(c), Feb. 17, 2009, 123 Stat. 325, provided that: “The amendments made by this section \[amending this section\] shall apply to carbon dioxide captured after the date of the enactment of this Act \[Feb. 17, 2009\].”
 
 #### Effective Date
 
@@ -115,6 +115,8 @@ Section applicable to carbon dioxide captured after Oct. 3, 2008, see section 11
 #### Inflation Adjusted Items for Certain Tax Years
 
 Provisions relating to inflation adjustment of items in this section for certain tax years were contained in the following:
+
+<b>2012</b>—Internal Revenue Notice 2012—42.
 
 <b>2011</b>—Internal Revenue Notice 2011–50.
 

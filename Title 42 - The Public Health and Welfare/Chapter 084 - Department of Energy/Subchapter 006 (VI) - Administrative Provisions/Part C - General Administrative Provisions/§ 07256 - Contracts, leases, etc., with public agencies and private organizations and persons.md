@@ -26,7 +26,7 @@ The Secretary may lease, upon terms and conditions the Secretary considers appro
 
 #### (e) Environmental concerns
 
-(1) Before entering into a lease under subsection (c) of this section, the Secretary shall consult with the Administrator of the Environmental Protection Agency (with respect to property located on a site on the National Priorities List) or the appropriate State official (with respect to property located on a site that is notlisted on the National Priorities List) to determine whether the environmental conditions of the property are such that leasing the property, and the terms and conditions of the lease agreement, are consistent with safety and the protection of public health and the environment.
+(1) Before entering into a lease under subsection (c) of this section, the Secretary shall consult with the Administrator of the Environmental Protection Agency (with respect to property located on a site on the National Priorities List) or the appropriate State official (with respect to property located on a site that is not listed on the National Priorities List) to determine whether the environmental conditions of the property are such that leasing the property, and the terms and conditions of the lease agreement, are consistent with safety and the protection of public health and the environment.
 
 (2) Before entering into a lease under subsection (c) of this section, the Secretary shall obtain the concurrence of the Administrator of the Environmental Protection Agency or the appropriate State official, as the case may be, in the determination required under paragraph (1). The Secretary may enter into a lease under subsection (c) of this section without obtaining such concurrence if, within 60 days after the Secretary requests the concurrence, the Administrator or appropriate State official, as the case may be, fails to submit to the Secretary a notice of such individual's concurrence with, or rejection of, the determination.
 
@@ -78,7 +78,7 @@ To the extent provided in advance in appropriations Acts, the Secretary may reta
 
 (10) Notwithstanding any other provision of law, the authority to enter into transactions under paragraph (1) shall terminate on September 30, 2015.
 
-(Pub. L. 95–91, title VI, §646, Aug. 4, 1977, 91 Stat. 599; Pub. L. 103–160, div. C, title XXXI, §3154, Nov. 30, 1993, 107 Stat. 1952; Pub. L. 109–58, title X, §1007, Aug. 8, 2005, 119 Stat. 932; Pub. L. 111–383, div. C, title XXXI, §3118, Jan. 7, 2011, 124 Stat. 4514.)
+(Pub. L. 95–91, title VI, §646, Aug. 4, 1977, 91 Stat. 599; Pub. L. 103–160, div. C, title XXXI, §3154, Nov. 30, 1993, 107 Stat. 1952; Pub. L. 109–58, title X, §1007, Aug. 8, 2005, 119 Stat. 932; Pub. L.111–383, div. C, title XXXI, §3118, Jan. 7, 2011, 124 Stat. 4514.)
 
 #### Amendments
 
@@ -110,7 +110,7 @@ Pub. L. 105–85, div. C, title XXXI, §3138, Nov. 18, 1997, 111 Stat. 2039, whi
 
 #### Contract Goal for Small Disadvantaged Businesses and Certain Institutions of Higher Education
 
-Section 3159 of Pub. L. 103–160, as amended by Pub. L. 103–337, div. A, title X, §1070(b)(16), Oct. 5, 1994, 108 Stat. 2857, provided that:
+Pub. L. 103–160, div. C, title XXXI, §3159, Nov. 30, 1993, 107 Stat. 1956, as amended by Pub. L. 103–337, div. A, title X, §1070(b)(16), Oct. 5, 1994, 108 Stat. 2857, provided that:
 
 “(a)
 

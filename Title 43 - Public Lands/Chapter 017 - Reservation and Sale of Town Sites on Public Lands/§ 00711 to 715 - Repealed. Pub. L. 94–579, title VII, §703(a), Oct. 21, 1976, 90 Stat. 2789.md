@@ -12,7 +12,7 @@ Section 715, R.S. §2384; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 
 
 #### Effective Date of Repeal
 
-Section 703(a) of Pub. L. 94–579 provided that the repeal made by that section is effective on and after Oct. 21, 1976.
+Pub. L. 94–579, title VII, §703(a), Oct. 21, 1976, 90 Stat. 2789, provided that the repeal made by section 703(a) is effective on and after Oct. 21, 1976.
 
 #### Savings Provision
 

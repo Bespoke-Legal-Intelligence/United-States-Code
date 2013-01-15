@@ -14,7 +14,7 @@ The provisions of subsections (a) and (b) of this section shall not apply to any
 
 #### (d) Suits for damages
 
-The penalties provided in subsections (a) and (b) of this section for the breaking or injury of any submarine electric transmission cable or equipment shall not be a bar to a suit for damages on account of such breaking or injury.
+The penalties provided in subsections (a) and (b) of this section for the breaking or injury ofany submarine electric transmission cable or equipment shall not be a bar to a suit for damages on account of such breaking or injury.
 
 #### (e) Indemnity
 

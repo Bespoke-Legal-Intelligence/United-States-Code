@@ -4,7 +4,7 @@ The Administrator shall prepare and submit to the President and the Congress on 
 
 &emsp;(1) a list of the testing required under section 2603 of this title during the year for which the report is made and an estimate of the costs incurred during such year by the persons required to perform such tests;
 
-&emsp;(2) the number of notices received during such year under section 2604 of this title, the number of such notices received during such year under such section for chemical substances subject to a rule, and a summary of any action taken during such year under section 2604(g) of this title;
+&emsp;(2) the number of notices received during such year under section 2604 of this title, the number of such notices received during such year under such section for chemical substances subject to a section 2603 rule, and a summary of any action taken during such year under section 2604(g) of this title;
 
 &emsp;(3) a list of rules issued during such year under section 2605 of this title;
 

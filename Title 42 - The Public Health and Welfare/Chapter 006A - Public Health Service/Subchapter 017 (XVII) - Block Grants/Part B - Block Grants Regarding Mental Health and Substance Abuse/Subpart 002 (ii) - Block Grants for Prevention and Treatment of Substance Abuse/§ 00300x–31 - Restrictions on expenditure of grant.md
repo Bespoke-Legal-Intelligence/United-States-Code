@@ -34,7 +34,7 @@
 
 #### (2) Rate of payment
 
-&emsp;In the case of an individual for whom a grant under section 300x–21 of this title is expendedto provide inpatient hospital services described in paragraph (1), a funding agreement for the grant for the State involved is that the daily rate of payment provided to the hospital for providing the services to the individual will not exceed the comparable daily rate provided for community-based, nonhospital, residential programs of treatment for substance abuse.
+&emsp;In the case of an individual for whom a grant under section 300x–21 of this title is expended to provide inpatient hospital services described in paragraph (1), a funding agreement for the grant for the State involved is that the daily rate of payment provided to the hospital for providing the services to the individual will not exceed the comparable daily rate provided for community-based, nonhospital, residential programs of treatment for substance abuse.
 
 #### (c) Waiver regarding construction of facilities
 
@@ -48,7 +48,7 @@
 
 #### (3) Amount
 
-&emsp;In granting a waiver under paragraph (1), the Secretary shall allow the use of a specified amount of funds to construct or rehabilitate a specified number of beds for residential treatment and a specified number of slots for outpatient treatment, based on reasonable estimates by the State of the costs of construction or rehabilitation. In considering waiver applications, the Secretary shall ensure that the State has carefully designed a program that will minimize the costs of additional beds.
+&emsp;In granting a waiver under paragraph (1), the Secretary shall allow the use of a specifiedamount of funds to construct or rehabilitate a specified number of beds for residential treatment and a specified number of slots for outpatient treatment, based on reasonable estimates by the State of the costs of construction or rehabilitation. In considering waiver applications, the Secretary shall ensure that the State has carefully designed a program that will minimize the costs of additional beds.
 
 #### (4) Matching funds
 

@@ -6,15 +6,15 @@ Except as otherwise provided in this section, any creditor who fails to comply w
 
 &emsp;(1) any actual damage sustained by such person as a result of the failure;
 
-&emsp;(2)(A)(i) in the case of an individual action twice the amount of any finance charge in connection with the transaction, (ii) in the case of an individual action relating to a consumer lease under part E of this subchapter, 25 per centum of the total amount of monthly payments under the lease, except that the liability under this subparagraph shall not be less than $100 nor greater than $1,000, (iii) in the case of an individual action relating to an open end consumer credit plan that is not secured by real property or a dwelling, twice the amount of any finance charge in connection with the transaction, with a minimum of $500 and a maximum of $5,000, or such higher amount as may be appropriate in the case of an established pattern or practice of such failures; <sup>1</sup> or (iv) in the case of an individual action relating to a credit transaction not under an open end credit plan that is secured by real property or a dwelling, not less than $400 or greater than $4,000; or
+&emsp;(2)(A)(i) in the case of an individual action twice the amount of any finance charge in connection with the transaction, (ii) in the case of an individual action relating to a consumer lease under part E of this subchapter, 25 per centum of the total amount of monthly payments under the lease, except that the liability under this subparagraph shall not be less than $200 nor greater than $2,000, (iii) in the case of an individual action relating to an open end consumer credit plan that is not secured by real property or a dwelling, twice the amount of any finance charge in connection with the transaction, with a minimum of $500 and a maximum of $5,000, or such higher amount as may be appropriate in the case of an established pattern or practice of such failures; <sup>1</sup> or (iv) in the case of an individual action relating to a credit transaction not under an open end credit plan that is secured by real property or a dwelling, not less than $400 or greater than $4,000; or
 
-&emsp;(B) in the case of a class action, such amount as the court may allow, except that as to each member of the class no minimum recovery shall be applicable, and the total recovery under this subparagraph in any class action or series of class actions arising out of the same failure to comply by the same creditor shall not be more than the lesser of $500,000 or 1 per centum of the net worth of the creditor;
+&emsp;(B) in the case of a class action, such amount as the court may allow, except that as to each member of the class no minimum recovery shall be applicable, and the total recovery under this subparagraph in any class action or series of class actions arising out of the same failure to comply by the same creditor shall not be more than the lesser of $1,000,000 or 1 per centum of the net worth of the creditor;
 
 &emsp;(3) in the case of any successful action to enforce the foregoing liability or in any action in which a person is determined to have a right of rescission under section 1635 or 1638(e)(7) of this title, the costs of the action, together with a reasonable attorney's fee as determined by the court; and
 
-&emsp;(4) in the case of a failure to comply with any requirement under section 1639 of this title, an amount equal to the sum of all finance charges and fees paid by the consumer, unless the creditor demonstrates that the failure to comply is not material.
+&emsp;(4) in the case of a failure to comply with any requirement under section 1639 of this title, paragraph (1) or (2) of section 1639b(c) of this title, or section 1639c(a) of this title, an amount equal to the sum of all finance charges and fees paid by the consumer, unless the creditor demonstrates that the failure to comply is not material.
 
-> In determining the amount of award in any class action, the court shall consider, among other relevant factors, the amount of any actual damages awarded, the frequency and persistence of failures of compliance by the creditor, the resources of the creditor, the number of persons adversely affected, and the extent to which the creditor's failure of compliance was intentional. In connection with the disclosures referred to in subsections (a) and (b) of section 1637 of this title, a creditor shall have a liability determined under paragraph (2) only for failing to comply with the requirements of section 1635 of this title, 1637(a) <sup>2</sup> of this title, or any of paragraphs (4) through (13) of section 1637(b) of this title, or for failing to comply with disclosure requirements under State law for any term or item that the Bureau has determined to be substantially the same in meaning under section 1610(a)(2) of this title as any of the terms or items referred to in section 1637(a) of this title, or any of paragraphs (4) through (13) of section 1637(b) of this title. In connection with the disclosures referred to in subsection (c) or (d) of section 1637 of this title, a card issuer shall have a liability under this section only to a cardholder who pays a fee described in section 1637(c)(1)(A)(ii)(I) or section 1637(c)(4)(A)(i) of this title or who uses the credit card or charge card. In connection with the disclosures referred to in section 1638 of this title, a creditor shall have a liability determined under paragraph (2) only for failing to comply with the requirements of section 1635 of this title, of paragraph (2) (insofar as it requires a disclosure of the “amount financed”), (3), (4), (5), (6), or (9) of section 1638(a) of this title, or section 1638(b)(2)(C)(ii) of this title, of subparagraphs (A), (B), (D), (F), or (J) of section 1638(e)(2) of this title (for purposes of paragraph (2) or (4) of section 1638(e) of this title), or paragraph (4)(C), (6), (7), or (8) of section 1638(e) of this title, or for failing to comply with disclosure requirements under State law for any term which the Bureau has determined to be substantially the same in meaning under section 1610(a)(2) of this title as any of the terms referred to in any of those paragraphs of section1638(a) of this title or section 1638(b)(2)(C)(ii) of this title. With respect to any failure to make disclosures required under this part or part D or E of this subchapter, liability shall be imposed only upon the creditor required to make disclosure, except as provided in section 1641 of this title.
+> In determining the amount of award in any class action, the court shall consider, among other relevant factors, the amount of any actual damages awarded, the frequency and persistence of failures of compliance by the creditor, the resources of the creditor, the number of persons adversely affected, and the extent to which the creditor's failure of compliance was intentional. In connection with the disclosures referred to in subsections (a) and (b) of section 1637 of this title, a creditor shall have a liability determined under paragraph (2) only for failing to comply with the requirements of section 1635 of this title, 1637(a) <sup>2</sup> of this title, or any of paragraphs (4) through (13) of section 1637(b) of this title, or for failing to comply with disclosure requirements under State law for any term or item that the Bureau has determined to be substantially the same in meaning under section 1610(a)(2) of this title as any of the terms or items referred to in section 1637(a) of this title, or any of paragraphs (4) through (13) of section 1637(b) of this title. In connection with the disclosures referred to in subsection (c) or (d) of section 1637 of this title, a card issuer shall have a liability under this section only to a cardholder who pays a fee described in section 1637(c)(1)(A)(ii)(I) or section 1637(c)(4)(A)(i) of this title or who uses the credit card or charge card. In connection with the disclosures referred to in section 1638 of this title, a creditor shall have a liability determined under paragraph (2) only for failing to comply with the requirements of section 1635 of this title, of paragraph (2) (insofar as it requires a disclosure of the “amount financed”), (3), (4), (5), (6), or (9) of section 1638(a) of this title, or section 1638(b)(2)(C)(ii) of this title, of subparagraphs (A), (B), (D), (F), or (J) of section 1638(e)(2) of this title (for purposes of paragraph (2) or (4) of section 1638(e) of this title), or paragraph (4)(C), (6), (7), or (8) of section 1638(e) of this title, or for failing to comply with disclosure requirements under State law for any term which the Bureau has determined to be substantially the same in meaning under section1610(a)(2) of this title as any of the terms referred to in any of those paragraphs of section 1638(a) of this title or section 1638(b)(2)(C)(ii) of this title. With respect to any failure to make disclosures required under this part or part D or E of this subchapter, liability shall be imposed only upon the creditor required to make disclosure, except as provided in section 1641 of this title.
 
 #### (b) Correction of errors
 
@@ -30,7 +30,7 @@ When there are multiple obligors in a consumer credit transaction or consumer le
 
 #### (e) Jurisdiction of courts; limitations on actions; State attorney general enforcement
 
-Any action under this section may be brought in any United States district court, or in any other court of competent jurisdiction, within one year from the date of the occurrence of the violation or, in the case of a violation involving a private education loan (as that term is defined in section 1650(a) of this title), 1 year from the date on which the first regular payment of principal is due under the loan. This subsection does not bar a person from asserting a violation of this subchapter in an action to collect the debt which was brought more than one year from the date of the occurrence of the violation as a matter of defense by recoupment or set-off in such action, except as otherwise provided by State law. An action to enforce a violation of section 1639 of this title may also be brought by the appropriate State attorney general in any appropriate United States district court, or any other court of competent jurisdiction, not later than 3 years after the date on which the violation occurs. The State attorney general shall provide prior written notice of any such civil action to the Federal agency responsible for enforcement under section 1607 of this title and shall provide the agency with a copy of the complaint. If prior notice is not feasible, the State attorney general shall provide notice to such agency immediately upon instituting the action. The Federal agency may—
+Except as provided in the subsequent sentence, any action under this section may be brought in any United States district court, or in any other court of competent jurisdiction, within one year from the date of the occurrence of the violation or, in the case of a violation involving a private education loan (as that term is defined in section 1650(a) of this title), 1 year from the date on which the first regular payment of principal is due under the loan. Any action under this section with respect to any violation of section 1639, 1639b, or 1639c of this title may be brought in any United States district court, or in any other court of competent jurisdiction, before the end of the 3-year period beginning on the date of the occurrence of the violation. This subsection does not bar a person from asserting a violation of this subchapter in an action to collect the debt which was brought more than one year from the date of the occurrence of the violation as a matter of defense by recoupment or set-off in such action, except as otherwise provided by State law. An action to enforce a violation of section 1639, 1639b, 1639c, 1639d, 1639e, 1639f, 1639g, or 1639h of this title may also be brought by the appropriate State attorney general in any appropriate United States district court, or any other court of competent jurisdiction, not later than 3 years after the date on which the violation occurs. The State attorney general shall provide prior written notice of any such civil action to the Federal agency responsible for enforcement under section 1607 of this title and shall provide the agency with a copy of the complaint. If prior notice is not feasible, the State attorney general shall provide notice to such agency immediately upon instituting the action. The Federal agency may—
 
 &emsp;(1) intervene in the action;
 
@@ -52,7 +52,7 @@ The multiple failure to disclose to any person any information required under th
 
 #### (h) Offset from amount owed to creditor or assignee; rights of defaulting consumer
 
-A person may not take any action to offset any amount for which a creditor or assignee is potentially liable to such person under subsection (a)(2) of this section against any amount owed by such person, unless the amount of the creditor's or assignee's liability under this subchapter has been determined by judgment of a court of competent jurisdiction in an action of which such person was a party. This subsection does not bar a consumer then in default on theobligation from asserting a violation of this subchapter as an original action, or as a defense or counterclaim to an action to collect amounts owed by the consumer brought by a person liable under this subchapter.
+A person may not take any action to offset any amount for which a creditor or assignee is potentially liable to such person under subsection (a)(2) of this section against any amount owed by such person, unless the amount of the creditor's or assignee's liability under this subchapter has been determined by judgment of a court of competent jurisdiction in an action of which such person was a party. This subsection does not bar a consumer then in default on the obligation from asserting a violation of this subchapter as an original action, or as a defense or counterclaim to an action to collect amounts owed by the consumer brought by a person liable under this subchapter.
 
 #### (i) Class action moratorium
 
@@ -86,55 +86,45 @@ A person may not take any action to offset any amount for which a creditor or as
 
 A private educational lender (as that term is defined in section 1650(a) of this title) has no liability under this section for failure to comply with section 1638(e)(3) of this title).<sup>3</sup>
 
+#### (k) Defense to foreclosure
+
+#### (1) In general
+
+&emsp;Notwithstanding any other provision of law, when a creditor, assignee, or other holder of a residential mortgage loan or anyone acting on behalf of such creditor, assignee, or holder, initiates a judicial or nonjudicial foreclosure of the residential mortgage loan, or any other action to collect the debt in connection with such loan, a consumer may assert a violation by a creditor of paragraph (1) or (2) of section 1639b(c) of this title, or of section 1639c(a) of this title, as a matter of defense by recoupment or set off without regard for the time limit on a private action for damages under subsection (e).
+
+#### (2) Amount of recoupment or setoff
+
+#### (A) In general
+
+&emsp;&emsp;The amount of recoupment or set-off under paragraph (1) shall equal the amount to which the consumer would be entitled under subsection (a) for damages for a valid claim brought in an original action against the creditor, plus the costs to the consumer of the action, including a reasonable attorney's fee.
+
+#### (B) Special rule
+
+&emsp;&emsp;Where such judgment is rendered after the expiration of the applicable time limit on a private action for damages under subsection (e), the amount of recoupment or set-off under paragraph (1) derived from damages under subsection (a)(4) shall not exceed the amount to which the consumer would have been entitled under subsection (a)(4) for damages computed up to the day preceding the expiration of the applicable time limit.
+
+#### (l) Exemption from liability and rescission in case of borrower fraud or deception
+
+In addition to any other remedy available by law or contract, no creditor or assignee shall be liable to an obligor under this section, if such obligor, or co-obligor has been convicted of obtaining by actual fraud such residential mortgage loan.
+
 (Pub. L. 90–321, title I, §130, May 29, 1968, 82 Stat. 157; Pub. L. 93–495, title IV, §§406, 407, 408(a)–(d), Oct. 28, 1974, 88 Stat. 1518; Pub. L. 94–222, §3(b), Feb. 27, 1976, 90 Stat. 197; Pub. L. 94–240, §4, Mar. 23, 1976, 90 Stat. 260; Pub. L. 96–221, title VI, §615, Mar. 31, 1980, 94 Stat. 180; Pub. L. 100–583, §3, Nov. 3, 1988, 102 Stat. 2966; Pub. L. 103–325, title I, §153(a), (b), Sept. 23, 1994, 108 Stat. 2195; Pub. L. 104–12, §2, May 18, 1995, 109 Stat. 161; Pub. L. 104–29, §6, Sept. 30, 1995, 109 Stat. 274; Pub. L. 110–289, div. B, title V, §2502(b), July 30, 2008, 122 Stat. 2857; Pub. L. 110–315, title X, §1012(a), Aug. 14, 2008, 122 Stat. 3482; Pub. L. 111–22, div. A, title IV, §404(b), May 20, 2009, 123 Stat. 1658; Pub. L. 111–24, title I, §107, title II, §201(b), May 22, 2009, 123 Stat. 1743, 1745; Pub. L. 111–203, title X, §1100A(2), title XIV, §§1413, 1416, 1417, 1422, July 21, 2010, 124 Stat. 2107, 2148, 2153, 2157.)
-
-#### Amendment of Section
-
-<i>Pub. L. 111–203, title XIV, §§1400(c), 1413, 1416, 1417, 1422, July 21, 2010, 124 Stat. 2107, 2148, 2153, 2157, provided that, effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, this section is amended as follows:</i>
-
-<i>(1) in subsection (a)—</i>
-
-<i>(A) in paragraph (2)(A)(ii) by striking “$100” and inserting “$200” and by striking “$1,000” and inserting “$2,000”;</i>
-
-<i>(B) in paragraph (2)(B), by striking “$500,000” and inserting “$1,000,000”; and</i>
-
-<i>(C) in paragraph (4), by inserting “, paragraph (1) or (2) of section 1639b(c) of this title, or section 1639c(a) of this title” after “section 1639 of this title”;</i>
-
-<i>(2) in subsection (e)—</i>
-
-<i>(A) in the first sentence, by striking “Any action” and inserting “Except as provided in the subsequent sentence, any action”;</i>
-
-<i>(B) by inserting after the first sentence: “Any action under this section with respect to any violation of section 1639, 1639b, or 1639c of this title may be brought in any United States district court, or in any other court of competent jurisdiction, before the end of the 3-year period beginning on the date of the occurrence of the violation.”; and</i>
-
-<i>(C) by striking “section 1639 of this title may also” and inserting “section 1639, 1639b, 1639c, 1639d, 1639e, 1639f, 1639g, or 1639h of this title may also”; and</i>
-
-<i>(3) by adding at the end the following new subsections:</i>
-
-#### <i>“(k) Defense to foreclosure</i>
-
-#### <i>“(1) In general</i>
-
-&emsp;<i>“Notwithstanding any other provision of law, when a creditor, assignee, or other holder of a residential mortgage loan or anyone acting on behalf of such creditor, assignee, or holder, initiates a judicial or nonjudicial foreclosure of the residential mortgage loan, or any other action to collect the debt in connection with such loan, a consumer may assert a violation by a creditor of paragraph (1) or (2) of section 1639b(c) of this title, or of section 1639c(a) of this title, as a matter of defense by recoupment or set off without regard for the time limit on a private action for damages under subsection (e).</i>
-
-#### <i>“(2) Amount of recoupment or setoff</i>
-
-#### <i>“(A) In general</i>
-
-&emsp;&emsp;<i>“The amount of recoupment or set-off under paragraph (1) shall equal the amount to which the consumer would be entitled under subsection (a) for damages for a valid claim brought in an original action against the creditor, plus the costs to the consumer of the action, including a reasonable attorney's fee.</i>
-
-#### <i>“(B) Special rule</i>
-
-&emsp;&emsp;<i>“Where such judgment is rendered after the expiration of the applicable time limit on a pri</i><i>vate action for damages under subsection (e), the amount of recoupment or set-off under paragraph (1) derived from damages under subsection (a)(4) shall not exceed the amount to which the consumer would have been entitled under subsection (a)(4) for damages computed up to the day preceding the expiration of the applicable time limit.</i>
-
-#### <i>“(l) Exemption from liability and rescission in case of borrower fraud or deception</i>
-
-<i>“In addition to any other remedy available by law or contract, no creditor or assignee shall be liable to an obligor under this section, if such obligor, or co-obligor has been convicted of obtaining by actual fraud such residential mortgage loan.”</i>
-
-<i>See Effective Date of 2010 Amendment notes below.</i>
 
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–203, §1100A(2), substituted “Bureau” for “Board” wherever appearing.
+
+Subsec. (a)(2)(A)(ii). Pub. L. 111–203, §1416(a)(1), substituted “$200” for “$100” and “$2,000” for “$1,000”.
+
+Subsec. (a)(2)(B). Pub. L. 111–203, §1416(a)(2), substituted “$1,000,000” for “$500,000”.
+
+Subsec. (a)(4). Pub. L. 111–203, §1416(a)(3), inserted “, paragraph (1) or (2) of section 1639b(c) of this title, or section 1639c(a) of this title” after “section 1639 of this title”.
+
+Subsec. (e). Pub. L. 111–203, §1422, substituted “section 1639, 1639b, 1639c, 1639d, 1639e, 1639f, 1639g, or 1639h of this title may also” for “section 1639 of this title may also”.
+
+Pub. L. 111–203, §1416(b), in first sentence substituted “Except as provided in the subsequent sentence, any action” for “Any action” and inserted after first sentence “Any action under this section with respect to any violation of section 1639, 1639b, or 1639c of this title may be brought in any United States district court, or in any other court of competent jurisdiction, before the end of the 3-year period beginning on the date of the occurrence of the violation.”
+
+Subsec. (k). Pub. L. 111–203, §1413, added subsec. (k).
+
+Subsec. (l). Pub. L. 111–203, §1417, added subsec. (l).
 
 <b>2009</b>—Subsec. (a). Pub. L. 111–24, §201(b), in concluding provisions, substituted “In connection with the disclosures referred to in subsections (a) and (b) of section 1637 of this title, a creditor shall have a liability determined under paragraph (2) only for failing to comply with the requirements of section 1635 of this title, 1637(a) of this title, or any of paragraphs (4) through (13) of section 1637(b) of this title, or for failing to comply with disclosure requirements under State law for any term or item that the Board has determined to be substantially the same in meaning under section 1610(a)(2) of this title as any of the terms or items referred to in section 1637(a) of this title, or any of paragraphs (4) through (13) of section 1637(b) of this title.” for “In connection with the disclosures referred to in subsections (a) and (b) of section 1637 of this title, a creditor shall have a liability determined under paragraph (2) only for failing to comply with the requirements of section 1635 of this title, section 1637(a) of this title, or of paragraph (4), (5), (6), (7), (8), (9), or (10) of section 1637(b) of this title or for failing to comply with disclosure requirements under State law for any term or item which the Board has determined to be substantially the same in meaning under section 1610(a)(2) of this title as any of the terms or items referred to in section 1637(a) of this title or any of those paragraphs of section 1637(b) of this title.”
 
@@ -246,7 +236,7 @@ Amendment by Pub. L. 93–495 effective Oct. 28, 1974, see section 416 of Pub. L
 
 #### Determination of Liability Prior to October 28, 1974
 
-Section 408(e) of Pub. L. 93–495 provided that: “The amendments made by sections 406, 407, and 408 \[amending this section\] shall apply in determining the liability of any person under chapter 2 or 4 of the Truth in Lending Act \[this part or part D of this subchapter\], unless prior to the date of enactment of this Act \[Oct. 28, 1974\] such liability has been determined by final judgment of a court of competent jurisdiction and no further review of such judgment may be had by appeal or otherwise.”
+Pub. L. 93–495, title IV, §408(e), Oct. 28, 1974, 88 Stat. 1519, provided that: “The amendments made by sections 406, 407, and 408 \[amending this section\] shall apply in determining the liability of any person under chapter 2 or 4 of the Truth in Lending Act \[this part or part D of this subchapter\], unless prior to the date of enactment of this Act \[Oct. 28, 1974\] such liability has been determined by final judgment of a court of competent jurisdiction and no further review of such judgment may be had by appeal or otherwise.”
 
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a comma.</i>
 

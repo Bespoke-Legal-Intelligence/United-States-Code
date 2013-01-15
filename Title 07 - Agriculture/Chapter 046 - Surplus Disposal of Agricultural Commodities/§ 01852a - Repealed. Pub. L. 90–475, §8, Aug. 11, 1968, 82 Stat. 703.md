@@ -4,5 +4,5 @@ Section, Pub. L. 88–638, §3, Oct. 8, 1964, 78 Stat. 1038, authorized Commodit
 
 #### Effective Date of Repeal
 
-Section 8 of Pub. L. 90–475 provided that the repeal is effective Aug. 1, 1968.
+Pub. L. 90–475, §8, Aug. 11, 1968, 82 Stat. 703, provided that the repeal of this section is effective Aug. 1, 1968.
 

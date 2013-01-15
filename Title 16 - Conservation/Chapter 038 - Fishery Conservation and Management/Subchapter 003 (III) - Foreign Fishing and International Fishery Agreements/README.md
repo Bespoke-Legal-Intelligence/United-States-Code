@@ -23,5 +23,6 @@
 - [&sect; 01826j - Illegal, unreported, or unregulated fishing](%C2%A7%2001826j%20-%20Illegal%2C%20unreported%2C%20or%20unregulated%20fishing.md)
 - [&sect; 01826k - Equivalent conservation measures](%C2%A7%2001826k%20-%20Equivalent%20conservation%20measures.md)
 - [&sect; 01827 - Observer program regarding certain foreign fishing](%C2%A7%2001827%20-%20Observer%20program%20regarding%20certain%20foreign%20fishing.md)
+- [&sect; 01827a - Prohibition on sale of billfish](%C2%A7%2001827a%20-%20Prohibition%20on%20sale%20of%20billfish.md)
 - [&sect; 01828 - Foreign fishing incursions](%C2%A7%2001828%20-%20Foreign%20fishing%20incursions.md)
 - [&sect; 01829 - International monitoring and compliance](%C2%A7%2001829%20-%20International%20monitoring%20and%20compliance.md)

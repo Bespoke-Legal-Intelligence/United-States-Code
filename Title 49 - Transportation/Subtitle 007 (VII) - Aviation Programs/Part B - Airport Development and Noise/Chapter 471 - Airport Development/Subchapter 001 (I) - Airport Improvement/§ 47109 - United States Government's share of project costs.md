@@ -2,7 +2,7 @@
 
 (a)
 
-General.—Except as provided in subsection (b) or subsection (c) of this section, the United States Government's share of allowable project costs is—
+General.—Except as otherwise provided in this section, the United States Government's share of allowable project costs is—
 
 &emsp;(1) 75 percent for a project at a primary airport having at least .25 percent of the total number of passenger boardings each year at all commercial service airports;
 
@@ -44,7 +44,19 @@ Limitation.—The Government's share of allowable project costs determined under
 
 Special Rule for Privately Owned Reliever Airports.—If a privately owned reliever airport contributes any lands, easements, or rights-of-way to carry out a project under this subchapter, the current fair market value of such lands, easements, or rights-of-way shall be credited toward the non-Federal share of allowable project costs.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1264; Pub. L. 103–305, title I, §114, Aug. 23, 1994, 108 Stat. 1579; Pub. L. 104–264, title I, §149(c), title XII, §1211, Oct. 9, 1996, 110 Stat. 3227, 3282; Pub. L. 106–181, title I, §126, Apr. 5, 2000, 114 Stat. 76; Pub. L. 107–71, title I, §119(a)(4), Nov. 19, 2001, 115 Stat. 629; Pub. L. 108–176, title I, §§162, 163, Dec. 12, 2003, 117 Stat. 2513.)
+(e)
+
+Special Rule for Transition From Small Hub to Medium Hub Status.—If the status of a small hub airport changes to a medium hub airport, the Government's share of allowable project costs for the airport may not exceed 90 percent for the first 2 fiscal years after such change in hub status.
+
+(f)
+
+Special Rule for Economically Distressed Communities.—The Government's share of allowable project costs shall be 95 percent for a project at an airport that—
+
+&emsp;(1) is receiving essential air service for which compensation was provided to an air carrier under subchapter II of chapter 417; and
+
+&emsp;(2) is located in an area that meets one or more of the criteria established in section 301(a) of the Public Works and Economic Development Act of 1965 (42 U.S.C. 3161(a)), as determined by the Secretary of Commerce.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1264; Pub. L. 103–305, title I, §114, Aug. 23, 1994, 108 Stat. 1579; Pub. L. 104–264, title I, §149(c), title XII, §1211, Oct. 9, 1996, 110 Stat. 3227, 3282; Pub. L. 106–181, title I, §126, Apr. 5, 2000, 114 Stat. 76; Pub. L. 107–71, title I, §119(a)(4), Nov. 19, 2001, 115 Stat. 629; Pub. L. 108–176, title I, §§162, 163, Dec. 12, 2003, 117 Stat. 2513; Pub. L. 112–95, title I, §137, Feb. 14, 2012, 126 Stat. 24.)
 
 Historical and Revision Notes
 
@@ -72,7 +84,7 @@ Sept. 3, 1982, Pub. L. 97–248, §510, 96 Stat. 685.
 
 Sept. 3, 1982, Pub. L. 97–248, §513(b)(5), 96 Stat. 691; Dec. 30, 1987, Pub. L. 100–223, §111(a)(2), 101 Stat. 1503; Oct. 31, 1992, Pub. L. 102–581, §110(b), 106 Stat. 4880.
 
-In subsection (a), before clause (1), the words “Except as provided in subsections (b) and (c) of this section” are substituted for “Except as otherwise provided in this chapter” because subsections (b) and (c) restate the only parts of the chapter that provide exceptions to the general rule stated in subsection (a). In clauses (1) and (2), the words “for a project” are substituted for “payable on account of any project contained in an approved project grant application submitted in accordance with this chapter” in 49 App.:2209(a) and “payable on account of any project contained in an approved project grant application” in 49 App.:2209(b) for consistency in this chapter and to eliminate unnecessary words. A project cost is allowable only if it is incurred under a grant agreement made under the chapter, and a grant agreement may be made only if the project grant application is approved. In clause (1), the words “number of passenger boardings” are substituted for “enplaning . . . of the . . . passengers enplaned” because of the definition of “passenger boardings” in section 47102 of the revised title.
+In subsection (a), before clause (1), the words “Except as provided in subsections (b) and (c) of this section” are substituted for “Except as otherwise provided inthis chapter” because subsections (b) and (c) restate the only parts of the chapter that provide exceptions to the general rule stated in subsection (a). In clauses (1) and (2), the words “for a project” are substituted for “payable on account of any project contained in an approved project grant application submitted in accordance with this chapter” in 49 App.:2209(a) and “payable on account of any project contained in an approved project grant application” in 49 App.:2209(b) for consistency in this chapter and to eliminate unnecessary words. A project cost is allowable only if it is incurred under a grant agreement made under the chapter, and a grant agreement may be made only if the project grant application is approved. In clause (1), the words “number of passenger boardings” are substituted for “enplaning . . . of the . . . passengers enplaned” because of the definition of “passenger boardings” in section 47102 of the revised title.
 
 In subsection (b), the words “If, under subsection (a) of this section, the Government's share of allowable costs . . . is less than the share applied on June 30, 1975, under section 17(b) of the Airport and Airway Development Act of 1970” and “(3) the percentage necessary to increase the Government's share to the percentage that applied on June 30, 1975, under section 17(b) of the Act” are substituted for 49 App.:2209(c) (last sentence) for clarity. The words “of the total of all lands therein” are omitted as surplus.
 
@@ -85,6 +97,10 @@ Subpars. (J), (K), and (L) of section 47102(3), referred to in subsec. (a)(5), w
 Section 17(b) of the Airport and Airway Development Act of 1970, referred to in subsec. (b), is section 17(b) of Pub. L. 91–258, which was classified to section 1717(b) of former Title 49, Transportation, prior to repeal by Pub. L. 97–248, title V, §523(a), Sept. 3, 1982, 96 Stat. 695.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a). Pub. L. 112–95, §137(1), substituted “otherwise provided in this section” for “provided in subsection (b) or subsection (c) of this section” in introductory provisions.
+
+Subsecs. (e), (f). Pub. L. 112–95, §137(2), added subsecs. (e) and (f).
 
 <b>2003</b>—Subsec. (a). Pub. L. 108–176, §162(b), substituted “Except as provided in subsection (b) or subsection (c)” for “Except as provided in subsection (b)” in introductory provisions.
 
@@ -120,7 +136,7 @@ Except as otherwise specifically provided, amendment by Pub. L. 104–264 applic
 
 #### Temporary Increase in Government Share of Certain AIP Project Costs
 
-Pub. L. 108–176, title I, §161, Dec. 12, 2003, 117 Stat. 2513, as amended by Pub. L. 110–190, §4(c), Feb. 28, 2008, 122 Stat. 644; Pub. L. 110–253, §3(c)(3), June 30, 2008, 122 Stat. 2418; Pub. L. 110–330, §5(i), Sept. 30, 2008, 122 Stat. 3718; Pub. L. 111–12, §5(h), Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §5(i), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–116, §5(h), Dec. 16, 2009, 123 Stat. 3032; Pub. L. 111–153, §5(h), Mar. 31, 2010, 124 Stat. 1085; Pub. L. 111–161, §5(h), Apr. 30, 2010, 124 Stat. 1127; Pub. L. 111–197, §5(h), July 2, 2010, 124 Stat. 1354; Pub. L. 111–216, title I, §104(h), Aug. 1, 2010, 124 Stat. 2350; Pub. L. 111–249, §5(i), Sept. 30, 2010, 124 Stat. 2628; Pub. L. 111–329, §5(h), Dec. 22, 2010, 124 Stat. 3567; Pub. L. 112–7, §5(h), Mar. 31, 2011, 125 Stat. 32; Pub. L. 112–16, §5(h), May 31, 2011, 125 Stat. 219; Pub. L. 112–21, §5(h), June 29, 2011, 125 Stat. 234; Pub. L. 112–27, §5(h), Aug. 5, 2011, 125 Stat. 271; Pub. L. 112–30, title II, §205(i), Sept. 16, 2011, 125 Stat. 358, provided that: “Notwithstanding section 47109(a) of title 49, United States Code, the Government's share of allowable project costs for a grant made in any of fiscal years 2009 through 2011, or in the portion of fiscal year 2012 ending before February 1, 2012, under chapter 471 of that title for a project described in paragraph (2) or (3) of that section shall be 95 percent.”
+Pub. L. 108–176, title I, §161, Dec. 12, 2003, 117 Stat. 2513, as amended by Pub. L. 110–190, §4(c), Feb. 28, 2008, 122 Stat. 644; Pub. L. 110–253, §3(c)(3), June 30, 2008, 122 Stat. 2418; Pub. L. 110–330, §5(i), Sept. 30, 2008, 122 Stat. 3718; Pub. L. 111–12, §5(h), Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §5(i), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–116, §5(h), Dec. 16, 2009, 123 Stat. 3032; Pub. L. 111–153, §5(h), Mar. 31, 2010, 124 Stat. 1085; Pub. L. 111–161, §5(h), Apr. 30, 2010, 124 Stat. 1127; Pub. L. 111–197, §5(h), July 2, 2010, 124 Stat. 1354; Pub. L. 111–216, title I, §104(h), Aug. 1, 2010, 124 Stat. 2350; Pub. L. 111–249, §5(i), Sept. 30, 2010, 124 Stat. 2628; Pub. L. 111–329, §5(h), Dec. 22, 2010, 124 Stat. 3567; Pub. L. 112–7, §5(h), Mar. 31, 2011, 125 Stat. 32; Pub. L. 112–16, §5(h), May 31, 2011, 125 Stat. 219; Pub. L. 112–21, §5(h), June 29, 2011, 125 Stat. 234; Pub. L. 112–27, §5(h), Aug. 5, 2011, 125 Stat. 271; Pub. L. 112–30, title II, §205(i), Sept. 16, 2011, 125 Stat. 358; Pub. L. 112–91, §5(i), Jan. 31, 2012, 126 Stat. 4, provided that: “Notwithstanding section 47109(a) of title 49, United States Code, the Government's share of allowable project costs for a grant made in any of fiscal years 2009 through 2011, or in the portion of fiscal year 2012 ending before February 18, 2012, under chapter 471 of that title for a project described in paragraph (2) or (3) of that section shall be 95 percent.”
 
 \[Pub. L. 110–253, §3(c)(3), which directed amendment of section 161 of Pub. L. 108–176, set out above, by substituting “fiscal year 2008.” for “fiscal year 2008 before July 1, 2008.”, was executed by substituting “fiscal year 2008,” for “fiscal year 2008 before July 1, 2008,” to reflect the probable intent of Congress.\]
 

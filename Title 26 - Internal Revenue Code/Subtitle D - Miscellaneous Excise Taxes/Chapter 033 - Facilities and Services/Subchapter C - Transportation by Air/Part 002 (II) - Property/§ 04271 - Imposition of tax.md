@@ -32,7 +32,7 @@ For purposes of this section, in any case in which a person engaged in the busin
 
 &emsp;&emsp;&emsp;(i) beginning on the 7th day after the date of the enactment of the Airport and Airway Trust Fund Tax Reinstatement Act of 1997, and
 
-&emsp;&emsp;&emsp;(ii) ending on January 31, 2012, and
+&emsp;&emsp;&emsp;(ii) ending on September 30, 2015, and
 
 &emsp;&emsp;(B) amounts paid during such period for transportation beginning after such period.
 
@@ -40,7 +40,7 @@ For purposes of this section, in any case in which a person engaged in the busin
 
 &emsp;If, as of the date any transportation begins, the taxes imposed by this section would not have applied to such transportation if paid for on such date, any tax paid under paragraph (1)(B) with respect to such transportation shall be treated as an overpayment.
 
-(Added Pub. L. 91–258, title II, §204, May 21, 1970, 84 Stat. 239; amended Pub. L. 94–455, title XIX, §1904(a)(8), Oct. 4, 1976, 90 Stat. 1812; Pub. L. 96–298, §1(b), July 1, 1980, 94 Stat. 829; Pub. L. 97–248, title II, §280(b), Sept. 3, 1982, 96 Stat. 564;Pub. L. 100–223, title IV, §402(a)(2), Dec. 30, 1987, 101 Stat. 1532; Pub. L. 101–508, title XI, §11213(a)(2), (d)(1), Nov. 5, 1990, 104 Stat. 1388–432, 1388–435; Pub. L. 104–188, title I, §1609(b), Aug. 20, 1996, 110 Stat. 1841; Pub. L. 105–2, §2(b)(2), Feb. 28, 1997, 111 Stat. 5; Pub. L. 105–34, title X, §1031(b)(2), Aug. 5, 1997, 111 Stat. 929; Pub. L. 110–161, div. K, title I, §116(b)(2), Dec. 26, 2007, 121 Stat. 2381; Pub. L. 110–190, §2(b)(2), Feb. 28, 2008, 122 Stat. 643; Pub. L. 110–253, §2(b)(2), June 30, 2008, 122 Stat. 2417; Pub. L. 110–330, §2(b)(2), Sept. 30, 2008, 122 Stat. 3717; Pub. L. 111–12, §2(b)(2), Mar. 30, 2009, 123 Stat. 1457; Pub. L. 111–69, §2(b)(2), Oct. 1, 2009, 123 Stat. 2054; Pub. L. 111–116, §2(b)(2), Dec. 16, 2009, 123 Stat. 3031; Pub. L. 111–153, §2(b)(2), Mar. 31, 2010, 124 Stat. 1084; Pub. L. 111–161, §2(b)(2), Apr. 30, 2010, 124 Stat. 1126; Pub. L. 111–197, §2(b)(2), July 2, 2010, 124 Stat. 1353; Pub. L. 111–216, title I, §101(b)(2), Aug. 1, 2010, 124 Stat. 2349; Pub. L. 111–249, §2(b)(2), Sept. 30, 2010, 124 Stat. 2627; Pub. L. 111–329, §2(b)(2), Dec. 22, 2010, 124 Stat. 3566; Pub. L. 112–7, §2(b)(2), Mar. 31, 2011, 125 Stat. 31; Pub. L. 112–16, §2(b)(2), May 31, 2011, 125 Stat. 218; Pub. L. 112–21, §2(b)(2), June 29, 2011, 125 Stat. 233; Pub. L. 112–27, §2(b)(2), Aug. 5, 2011, 125 Stat. 270; Pub. L. 112–30, title II, §202(b)(2), Sept. 16, 2011, 125 Stat. 357.)
+(Added Pub. L. 91–258, title II, §204, May 21, 1970, 84 Stat. 239; amended Pub. L. 94–455, title XIX, §1904(a)(8), Oct. 4, 1976, 90 Stat. 1812; Pub. L. 96–298, §1(b), July 1, 1980, 94 Stat. 829; Pub. L. 97–248, title II, §280(b), Sept. 3, 1982, 96 Stat. 564; Pub. L. 100–223, title IV, §402(a)(2), Dec. 30, 1987, 101 Stat. 1532; Pub. L. 101–508, title XI, §11213(a)(2), (d)(1), Nov. 5, 1990, 104 Stat. 1388–432, 1388–435; Pub. L. 104–188, title I, §1609(b), Aug. 20, 1996, 110 Stat. 1841; Pub. L. 105–2, §2(b)(2), Feb. 28, 1997, 111 Stat. 5; Pub. L. 105–34, title X, §1031(b)(2), Aug. 5, 1997, 111 Stat. 929; Pub. L. 110–161, div. K, title I, §116(b)(2), Dec. 26, 2007, 121 Stat. 2381; Pub. L. 110–190, §2(b)(2), Feb. 28, 2008, 122 Stat. 643; Pub. L. 110–253, §2(b)(2), June 30, 2008, 122 Stat. 2417; Pub. L. 110–330, §2(b)(2), Sept. 30, 2008, 122 Stat. 3717; Pub. L. 111–12, §2(b)(2), Mar. 30, 2009, 123 Stat. 1457; Pub. L. 111–69, §2(b)(2), Oct. 1, 2009, 123 Stat. 2054; Pub. L. 111–116, §2(b)(2), Dec. 16, 2009, 123 Stat. 3031; Pub. L. 111–153, §2(b)(2), Mar. 31, 2010, 124 Stat. 1084; Pub. L. 111–161, §2(b)(2), Apr. 30, 2010, 124 Stat. 1126; Pub. L. 111–197, §2(b)(2), July 2, 2010, 124 Stat. 1353; Pub. L. 111–216, title I, §101(b)(2), Aug. 1, 2010, 124 Stat. 2349; Pub. L. 111–249, §2(b)(2), Sept. 30, 2010, 124 Stat. 2627; Pub. L. 111–329, §2(b)(2), Dec. 22, 2010, 124 Stat. 3566; Pub. L. 112–7, §2(b)(2), Mar. 31, 2011, 125 Stat. 31; Pub. L. 112–16, §2(b)(2), May 31, 2011, 125 Stat. 218; Pub. L. 112–21, §2(b)(2), June 29, 2011, 125 Stat. 233; Pub. L. 112–27, §2(b)(2), Aug. 5, 2011, 125 Stat. 270; Pub. L. 112–30, title II, §202(b)(2), Sept. 16, 2011, 125 Stat. 357; Pub. L. 112–91, §2(b)(2), Jan. 31, 2012, 126 Stat. 3; Pub. L. 112–95, title XI, §1101(b)(2), Feb. 14, 2012, 126 Stat. 148.)
 
 #### References in Text
 
@@ -51,6 +51,10 @@ The date of the enactment of the Airport and Airway Trust Fund Tax Reinstatement
 A prior section 4271, act Aug. 16, 1954, ch. 736, 68A Stat. 507, 508, related to tax for the transportation of property, prior to repeal by Pub. L. 85–475, §4(a), June 30, 1958, 72 Stat. 260. For effective date of repeal, see section 4(c) of Pub. L. 85–475, set out as an Effective Date of 1958 Amendment note under section 6415 of this title.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (d)(1)(A)(ii). Pub. L. 112–95 substituted “September 30, 2015” for “February 17, 2012”.
+
+Pub. L. 112–91 substituted “February 17, 2012” for “January 31, 2012”.
 
 <b>2011</b>—Subsec. (d)(1)(A)(ii). Pub. L. 112–30 substituted “January 31, 2012” for “September 16, 2011”.
 
@@ -105,6 +109,12 @@ Subsec. (d). Pub. L. 101–508, §11213(d)(1), substituted “January 1, 1996”
 <b>1980</b>—Subsec. (d). Pub. L. 96–298 substituted “September 30, 1980” for “June 30, 1980”.
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–455 struck out “which begins after June 30, 1970” after “of property”.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–95 effective Feb. 18, 2012, see section 1101(c) of Pub. L. 112–95, set out as an Effective and Termination Dates of 2012 Amendment note under section 4081 of this title.
+
+Amendment by Pub. L. 112–91 effective Feb. 1, 2012, see section 2(c) of Pub. L. 112–91, set out as an Effective and Termination Dates of 2012 Amendment note under section 4081 of this title.
 
 #### Effective Date of 2011 Amendment
 

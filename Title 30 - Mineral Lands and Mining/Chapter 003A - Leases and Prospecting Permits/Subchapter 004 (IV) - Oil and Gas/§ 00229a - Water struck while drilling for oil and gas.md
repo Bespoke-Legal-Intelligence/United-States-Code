@@ -6,11 +6,11 @@ All prospecting permits and leases for oil or gas made or issued under the provi
 
 #### (b) Prior leases
 
-In cases where water wells producing such water have heretofore been or may hereafter be drilled upon lands embraced in any prospecting permit or lease heretofore issued under this chapter, the Secretary may in like manner purchase the casing in such wells.
+In cases where water wells producing such water have heretofore been or may hereafter bedrilled upon lands embraced in any prospecting permit or lease heretofore issued under this chapter, the Secretary may in like manner purchase the casing in such wells.
 
 #### (c) Disposition
 
-The Secretary may make such purchase and may lease or operate such wells for the purpose of producing water and of using the same on thepublic lands or of disposing of such water for beneficial use on other lands, and where such wells have heretofore been plugged or abandoned or where such wells have been drilled prior to the issuance of any permit or lease by persons not in privity with the permittee or lessee, the Secretary may develop the same for the purposes of this section: <i>Provided</i>, That owners or occupants of lands adjacent to those upon which such water wells may be developed shall have a preference right to make beneficial use of such water.
+The Secretary may make such purchase and may lease or operate such wells for the purpose of producing water and of using the same on the public lands or of disposing of such water for beneficial use on other lands, and where such wells have heretofore been plugged or abandoned or where such wells have been drilled prior to the issuance of any permit or lease by persons not in privity with the permittee or lessee, the Secretary may develop the same for the purposes of this section: <i>Provided</i>, That owners or occupants of lands adjacent to those upon which such water wells may be developed shall have a preference right to make beneficial use of such water.
 
 #### (d) Revolving fund
 
@@ -28,7 +28,7 @@ Nothing in this section shall be construed to restrict operations under any oil 
 
 #### Effective Date of 1976 Amendment
 
-Section 704(a) of Pub. L. 94–579 provided that the amendment made by that section is effective on and after Oct. 21, 1976.
+Pub. L. 94–579, title VII, §704(a), Oct. 21, 1976, 90 Stat. 2792, provided that the amendment made by section 704(a) is effective on and after Oct. 21, 1976.
 
 #### Savings Provision
 

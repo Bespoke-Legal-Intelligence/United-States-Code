@@ -16,7 +16,7 @@ Within one hundred and eighty days after December 11, 1980, the President shall,
 
 &emsp;(6) a method for and assignment of responsibility for reporting the existence of such facilities which may be located on federally owned or controlled properties and any releases of hazardous substances from such facilities;
 
-&emsp;(7) means of assuring that remedial action measures are cost-effective over the period ofpotential exposure to the hazardous substances or contaminated materials;
+&emsp;(7) means of assuring that remedial action measures are cost-effective over the period of potential exposure to the hazardous substances or contaminated materials;
 
 &emsp;(8)(A) criteria for determining priorities among releases or threatened releases throughout the United States for the purpose of taking remedial action and, to the extent practicable taking into account the potential urgency of such action, for the purpose of taking removal action. Criteria and priorities under this paragraph shall be based upon relative risk or danger to public health or welfare or the environment, in the judgment of the President, taking into account to the extent possible the population at risk, the hazard potential of the hazardous substances at such facilities, the potential for contamination of drinking water supplies, the potential for direct human contact, the potential for destruction of sensitive ecosystems, the damage to natural resources which may affect the human food chain and which is associated with any release or threatened release, the contamination or potential contamination of the ambient air which is associated with the release or threatened release, State preparedness to assume State costs and responsibilities, and other appropriate factors;
 
@@ -44,7 +44,7 @@ Not later than 18 months after the enactment of the Superfund Amendments and Rea
 
 #### (3) Reevaluation not required
 
-&emsp;The President shall not be required to reevaluate, after October 17, 1986, the hazardranking of any facility which was evaluated in accordance with the criteria under this section before the effective date of the amendments to the hazard ranking system under this subsection and which was assigned a national priority under the National Contingency Plan.
+&emsp;The President shall not be required to reevaluate, after October 17, 1986, the hazard ranking of any facility which was evaluated in accordance with the criteria under this section before the effective date of the amendments to the hazard ranking system under this subsection and which was assigned a national priority under the National Contingency Plan.
 
 #### (4) New information
 

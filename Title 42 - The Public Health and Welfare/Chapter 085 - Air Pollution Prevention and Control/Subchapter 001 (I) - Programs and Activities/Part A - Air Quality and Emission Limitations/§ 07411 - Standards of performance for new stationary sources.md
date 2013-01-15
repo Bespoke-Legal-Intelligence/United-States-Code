@@ -10,7 +10,7 @@ For purposes of this section:
 
 &emsp;(3) The term “stationary source” means any building, structure, facility, or installation which emits or may emit any air pollutant. Nothing in subchapter II of this chapter relating to nonroad engines shall be construed to apply to stationary internal combustion engines.
 
-&emsp;(4) The term “modification” means any physical change in, or change in the method ofoperation of, a stationary source which increases the amount of any air pollutant emitted by such source or which results in the emission of any air pollutant not previously emitted.
+&emsp;(4) The term “modification” means any physical change in, or change in the method of operation of, a stationary source which increases the amount of any air pollutant emitted by such source or which results in the emission of any air pollutant not previously emitted.
 
 &emsp;(5) The term “owner or operator” means any person who owns, leases, operates, controls, or supervises a stationary source.
 
@@ -42,7 +42,7 @@ For purposes of this section:
 
 #### (c) State implementation and enforcement of standards of performance
 
-(1) Each State may develop and submit to the Administrator a procedure for implementing and enforcing standards of performance for new sources located in such State. If the Administrator finds the State procedure is adequate, he shall delegate to such State any authority he has under this chapter to implement and enforce such standards.
+(1) Each State may develop and submit to the Administrator a procedure for implementingand enforcing standards of performance for new sources located in such State. If the Administrator finds the State procedure is adequate, he shall delegate to such State any authority he has under this chapter to implement and enforce such standards.
 
 (2) Nothing in this subsection shall prohibit the Administrator from enforcing any applicable standard of performance under this section.
 
@@ -134,7 +134,7 @@ Any regulations promulgated by the Administrator under this section applicable t
 
 &emsp;(iv) the granting of such waiver is consistent with the requirements of subparagraph (C).
 
-> In making any determination under clause (ii), the Administrator shall take into account any previous failure of such system or systems to operate effectively or to meet any requirement of the new source performance standards. In determining whether an unreasonable risk exists under clause (iii), the Administrator shall consider, among other factors, whether and to what extent the use of the proposed technological system will cause, increase, reduce, or eliminate emissions of any unregulated pollutants; available methods for reducing or eliminating any risk to public health, welfare, or safety which may be associated with the use of such system; and the availability of other technological systems which may be used to conform to standards under this section without causing or contributing to such unreasonable risk. The Administrator may conduct such tests and may require the owner or operator of the proposed source to conduct such tests and provide such information as is necessary to carry out clause (iii) of this subparagraph. Such requirements shall include a requirement for prompt reporting of the emission of any unregulated pollutant from a system if such pollutant was not emitted, or was emitted in significantly lesser amounts without use of such system.
+> In making any determination under clause (ii), the Administrator shall take into account any previous failure of such system or systems to operate effectively or to meet any requirement of the new source performance standards. In determining whether an unreasonable risk exists under clause (iii), the Administrator shall consider, among other factors, whether and to what extent the use of the proposed technological system will cause, increase, reduce, or eliminate emissions of any unregulated pollutants; available methods for reducing or eliminating any risk to public health, welfare, or safety which may be associated with the use of such system; and the availability of other technological systems which may be used to conform to standards under this section without causing or contributing to such unreasonable risk. The Administrator may conduct such tests and may require the owner or operator of the proposed source to conduct such tests and provide such information as is necessary to carry out clause (iii) of this subparagraph. Such requirements shall include arequirement for prompt reporting of the emission of any unregulated pollutant from a system if such pollutant was not emitted, or was emitted in significantly lesser amounts without use of such system.
 
 (B) A waiver under this paragraph shall be granted on such terms and conditions as the Administrator determines to be necessary to assure—
 
@@ -250,7 +250,7 @@ Amendment by Pub. L. 95–95 effective Aug. 7, 1977, except as otherwise express
 
 #### Regulations
 
-Section 403(b), (c) of Pub. L. 101–549 provided that:
+Pub. L. 101–549, title IV, §403(b), (c), Nov. 15, 1990, 104 Stat. 2631, provided that:
 
 “(b)
 
@@ -262,7 +262,7 @@ Applicability.—The provisions of subsections (a) \[amending this section\] and
 
 #### Transfer of Functions
 
-Enforcement functions of Administrator or other official in Environmental Protection Agency related to compliance with new source performance standards under this section with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, eff. July 1, 1979, §§102(a), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
+Enforcement functions of Administrator or other official in Environmental Protection Agency related to compliance with new source performance standards under this section with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, eff. July 1, 1979, §§102(a), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerceand Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
 
 #### Pending Actions and Proceedings
 

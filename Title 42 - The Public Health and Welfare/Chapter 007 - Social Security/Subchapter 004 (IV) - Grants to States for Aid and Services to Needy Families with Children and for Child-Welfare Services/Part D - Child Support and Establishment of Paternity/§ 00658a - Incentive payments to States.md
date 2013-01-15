@@ -38,7 +38,7 @@ In addition to any other payment under this part, the Secretary shall, subject t
 
 #### (B) CPI
 
-&emsp;&emsp;For purposes of subparagraph (A), the CPI for a fiscal year is the average of the Consumer Price Index for the 12-month period ending on September 30 of the fiscal year. Asused in the preceding sentence, the term “Consumer Price Index” means the last Consumer Price Index for all-urban consumers published by the Department of Labor.
+&emsp;&emsp;For purposes of subparagraph (A), the CPI for a fiscal year is the average of the Consumer Price Index for the 12-month period ending on September 30 of the fiscal year. As used in the preceding sentence, the term “Consumer Price Index” means the last Consumer Price Index for all-urban consumers published by the Department of Labor.
 
 #### (3) State incentive payment share
 
@@ -254,7 +254,7 @@ In addition to any other payment under this part, the Secretary shall, subject t
 
 #### (i) Determination of arrearage payment performance level
 
-&emsp;&emsp;&emsp;The arrearage payment performance level for a State for a fiscal year is equal to the total number of cases under the State plan approved under this part in which payments of past-due child support were received during the fiscal year andpart or all of the payments were distributed to the family to whom the past-due child support was owed (or, if all past-due child support owed to the family was, at the time of receipt, subject to an assignment to the State, part or all of the payments were retained by the State) divided by the total number of cases under the State plan in which there is past-due child support, expressed as a percentage.
+&emsp;&emsp;&emsp;The arrearage payment performance level for a State for a fiscal year is equal to the total number of cases under the State plan approved under this part in which payments of past-due child support were received during the fiscal year and part or all of the payments were distributed to the family to whom the past-due child support was owed (or, if all past-due child support owed to the family was, at the time of receipt, subject to an assignment to the State, part or all of the payments were retained by the State) divided by the total number of cases under the State plan in which there is past-due child support, expressed as a percentage.
 
 #### (ii) Determination of applicable percentage
 
@@ -406,5 +406,5 @@ In general.—The Secretary of Health and Human Services, in consultation with S
 
 &emsp;“(B)
 
-Report.—Not later than October 1, 1999, the Secretary shall submit to the Congress a report that describes the performance measure and contains the recommendations required by subparagraph (A).”
+Report.—Not later than October 1, 1999, the Secretary shall submit to the Congress a report thatdescribes the performance measure and contains the recommendations required by subparagraph (A).”
 

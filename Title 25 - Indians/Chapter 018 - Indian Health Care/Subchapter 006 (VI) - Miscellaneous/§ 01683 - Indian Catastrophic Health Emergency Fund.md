@@ -14,7 +14,7 @@ The Federal Medical Care Recovery Act (42 U.S.C. 2651 et seq.), referred to in t
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
-Section was enacted as part of the Department of the Interior and Related Agencies Appropriations Act, 1987, as enacted by Pub. L. 99–500 and Pub. L. 99–591, and not as part of the Indian Health Care Improvement Act which comprises this chapter.
+Section was enacted as part of the Department of the Interior and Related Agencies Appropriations Act, 1987,as enacted by Pub. L. 99–500 and Pub. L. 99–591, and not as part of the Indian Health Care Improvement Act which comprises this chapter.
 
 &nbsp;
 

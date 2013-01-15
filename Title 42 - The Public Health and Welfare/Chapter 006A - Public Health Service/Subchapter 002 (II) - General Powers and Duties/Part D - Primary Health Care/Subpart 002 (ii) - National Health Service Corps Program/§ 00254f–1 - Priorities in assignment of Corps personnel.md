@@ -72,7 +72,7 @@ In approving applications made under section 254f of this title for the assignme
 
 #### (1) Determination of available Corps members
 
-&emsp;By April 1 of each calendar year, the Secretary shall determine the number of participants in the Scholarship Program who will be available for assignments under section 254f ofthis title during the program year beginning on July 1 of that calendar year.
+&emsp;By April 1 of each calendar year, the Secretary shall determine the number of participants in the Scholarship Program who will be available for assignments under section 254f of this title during the program year beginning on July 1 of that calendar year.
 
 #### (2) Determination of number of entities
 

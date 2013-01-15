@@ -14,7 +14,7 @@ No registered investment company organized after August 22, 1940, and no princip
 
 #### (b) Study on effects of size
 
-The Commission is authorized, at such times as it deems that any substantial further increase in size of investment companies creates any problem involving the protection of investors or the public interest, to make a study and investigation of the effects of size on the investment policy of investment companies and on security markets, on concentration of control of wealth and industry, and on companies in which investment companies are interested, and from time to time to report the results of its studies and investigations and its recommendations to the Congress.
+The Commission is authorized, at such times as it deems that any substantial further increase in size of investment companies creates any problem involving the protection of investors or the public interest, to make a study and investigation of the effects of size on the investment policy of investment companies and on security markets, on concentration of control of wealth and industry, and on companies in which investment companies are interested, and fromtime to time to report the results of its studies and investigations and its recommendations to the Congress.
 
 (Aug. 22, 1940, ch. 686, title I, §14, 54 Stat. 811.)
 

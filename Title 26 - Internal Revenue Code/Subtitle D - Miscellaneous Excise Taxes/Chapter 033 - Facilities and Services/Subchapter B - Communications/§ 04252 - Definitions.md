@@ -14,7 +14,7 @@ For purposes of this subchapter, the term “local telephone service” means—
 
 For purposes of this subchapter, the term “toll telephone service” means—
 
-&emsp;(1) a telephonic quality communication for which (A) there is a toll charge which varies in amount with the distance and elapsed transmission time of each individual communication and (B) the charge is paid within the United States, and
+&emsp;(1) a telephonic quality communication for which (A) there is a toll charge which varies inamount with the distance and elapsed transmission time of each individual communication and (B) the charge is paid within the United States, and
 
 &emsp;(2) a service which entitles the subscriber, upon payment of a periodic charge (determined as a flat amount or upon the basis of total elapsed transmission time), to the privilege of an unlimited number of telephonic communications to or from all or a substantial portion of the persons having telephone or radio telephone stations in a specified area which is outside the local telephone system area in which the station provided with this service is located.
 
@@ -60,7 +60,7 @@ Subsecs. (e), (f). Pub. L. 89–44 struck out subsecs. (e) and (f) which defined
 
 <b>1962</b>—Subsec. (e)(1), (2). Pub. L. 87–508 limited wire mileage service to service not used in the conduct of a trade or business.
 
-<b>1958</b>—Subsec. (a). Pub. L. 85–859 substituted definition of “general telephone service” for provisions which defined “local telephone service” as any telephone service not taxable as long distance telephone service; leased wire; teletypewriter or talking circuit special service; or wire and equipment service, and providedthat amounts paid for the installation of instruments, wires, poles, switchboards, apparatus, and equipment shall not be considered amounts paid for service, and that amounts paid for services and facilities which are exempted from other communication taxes by section 4253(b) should not be deemed to be within the definition of local telephone service.
+<b>1958</b>—Subsec. (a). Pub. L. 85–859 substituted definition of “general telephone service” for provisions which defined “local telephone service” as any telephone service not taxable as long distance telephone service; leased wire; teletypewriter or talking circuit special service; or wire and equipment service, and provided that amounts paid for the installation of instruments, wires, poles, switchboards, apparatus, and equipment shall not be considered amounts paid for service, and that amounts paid for services and facilities which are exempted from other communication taxes by section 4253(b) should not be deemed to be within the definition of local telephone service.
 
 Subsec. (b). Pub. L. 85–859 substituted “toll telephone service” for “long distance telephone service” and struck out provisions which defined “long distance telephone service” as a telephone or radio telephone message or conversation for which the toll charge is more than 24 cents.
 
@@ -78,7 +78,7 @@ Amendment by Pub. L. 89–44 applicable to amounts paid pursuant to bills render
 
 #### Effective Date of 1962 Amendment
 
-Section 4(c) of Pub. L. 87–508 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 4253 of this title\] shall apply with respect to services furnished on or after January 1, 1963.”
+Pub. L. 87–508, §4(c), June 28, 1962, 76 Stat. 115, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 4253 of this title\] shall apply with respect to services furnished on or after January 1, 1963.”
 
 #### Effective Date of 1958 Amendment
 

@@ -92,11 +92,11 @@ Subsec. (c). Pub. L. 106–390, §204, added subsec. (c).
 
 #### Effective Date of 1993 Amendment
 
-Section 2(b) of Pub. L. 103–181 provided that: “The amendments made by this section \[amending this section\] shall apply to any major disaster declared by the President pursuant to The \[the\] Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.) on or after June 10, 1993.”
+Pub. L. 103–181, §2(b), Dec. 3, 1993, 107 Stat. 2054, provided that: “The amendments made by this section \[amending this section\] shall apply to any major disaster declared by the President pursuant to The \[the\] Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.) on or after June 10, 1993.”
 
 #### Transfer of Functions
 
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) andsections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

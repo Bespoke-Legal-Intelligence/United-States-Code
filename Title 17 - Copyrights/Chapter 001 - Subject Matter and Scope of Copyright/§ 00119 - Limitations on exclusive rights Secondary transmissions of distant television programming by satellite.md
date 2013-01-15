@@ -720,7 +720,7 @@ The date of the enactment of the Satellite Home Viewer Extension and Reauthoriza
 
 The date of the enactment of the Satellite Television Extension and Localism Act of 2010, referred to in subsecs. (a)(3)(B), (C) and (d)(10)(B), is the date of enactment of Pub. L. 111–175, which shall be deemed to refer to Feb. 27, 2010, see section 307(a) of Pub. L. 111–175, set out as an Effective Date of 2010 Amendment note under section 111 of this title.
 
-The Communications Act of 1934, referred to in subsec. (d)(6), is act June 19, 1934, ch. 652, 48 Stat. 1064, which is classified principally to chapter 5 (§151 et seq.) of Title 47, Telegraphs, Telephones, and Radiotelegraphs. Sections 338, 339, 342, and 397 of the Act are classified to sections 338, 339, 342, and 397, respectively, of Title 47. For complete classification of this Act to the Code, see section 609 of Title 47 and Tables.
+The Communications Act of 1934, referred to in subsec. (d)(6), is act June 19, 1934, ch. 652, 48 Stat. 1064, which is classified principally to chapter 5 (§151 et seq.) of Title 47, Telecommunications. Sections 338, 339, 342, and 397 of the Act are classified to sections 338, 339, 342, and 397, respectively, of Title 47. For complete classification of this Act to the Code, see section 609 of Title 47 and Tables.
 
 The date of the enactment of this subsection, referred to in subsec. (g)(1), (2)(A), (E), is the date of enactment of Pub. L. 111–175, which shall be deemed to refer to Feb. 27, 2010. See section 307(a) of Pub. L. 111–175, set out as an Effective Date of 2010 Amendment note under section 111 of this title.
 
@@ -1158,7 +1158,7 @@ Amendment by section 1000(a)(9) \[title I, §§1004, 1006\] of Pub. L. 106–113
 
 #### Effective Date of 1997 Amendment
 
-Section 13 of Pub. L. 105–80 provided that:
+Pub. L. 105–80, §13, Nov. 13, 1997, 111 Stat. 1536, provided that:
 
 “(a)
 
@@ -1198,9 +1198,9 @@ Local Service Area of a Primary Transmitter.—The amendment made by section 3(b
 
 #### Effective Date
 
-Section 206 of title II of Pub. L. 100–667 provided that: “This title and the amendments made by this title \[enacting this section and sections 612 and 613 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, amending sections 111, 501, 801, and 804 of this title and section 605 of Title 47, and enacting provisions set out as notes under this section and section 101 of this title\] take effect on January 1, 1989, except that the authority of the Register of Copyrights to issue regulations pursuant to section 119(b)(1) of title 17, United States Code, as added by section 202 of this Act, takes effect on the date of the enactment of this Act \[Nov. 16, 1988\].”
+Pub. L. 100–667, title II, §206, Nov. 16, 1988, 102 Stat. 3960, provided that: “This title and the amendments made by this title \[enacting this section and sections 612 and 613 of Title 47, Telecommunications, amending sections 111, 501, 801, and 804 of this title and section 605 of Title 47, and enacting provisions set out as notes under this section and section 101 of this title\] take effect on January 1, 1989, except that the authority of the Register of Copyrights to issue regulations pursuant to section 119(b)(1) of title 17, United States Code, as added by section 202 of this Act, takes effect on the date of the enactment of this Act \[Nov. 16, 1988\].”
 
-Section 207 of title II of Pub. L. 100–667 provided that this title and the amendments made by this title (other than the amendments made by section 205 \[amending section 605 of Title 47\]) cease to be effective on Dec. 31, 1994, prior to repeal by Pub. L. 103–369, §4(b), Oct. 18, 1994, 108 Stat. 3481.
+Pub. L. 100–667, title II, §207, Nov. 16, 1988, 102 Stat. 3960, provided that this title and the amendments made by this title (other than the amendments made by section 205 \[amending section 605 of Title 47\]) cease to be effective on Dec. 31, 1994, prior to repeal by Pub. L. 103–369, §4(b), Oct. 18, 1994, 108 Stat. 3481.
 
 #### Termination of Section
 
@@ -1220,7 +1220,7 @@ Pub. L. 108–447, div. J, title IX \[title I, §106\], Dec. 8, 2004, 118 Stat. 
 
 #### Applicability of 1994 Amendment
 
-Section 5 of Pub. L. 103–369 provided that: “The amendments made by this section apply only to section 119 of title 17, United States Code.”
+Pub. L. 103–369, §5, Oct. 14, 1994, 108 Stat. 3481, provided that: “The amendments made by this section apply only to section 119 of title 17, United States Code.”
 
 <i><sup>1</sup></i><i> So in original. Probably means subpar. (B)(i).</i>
 

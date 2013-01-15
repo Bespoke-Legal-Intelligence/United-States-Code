@@ -14,7 +14,7 @@
 
 #### (1) In general
 
-&emsp;In carrying out the program established under subsection (a) of this section, the Secretary shall provide economic and financial technical assistance to foreign governments and foreign central banks of developing and transitional countries by providing advisers with appropriate expertise to advance the enactment of laws and establishment of administrative procedures and institutions in such countries to promote macroeconomic and fiscal stability, efficient resource allocation, transparent and market-oriented processes and sustainable private sector growth.
+&emsp;In carrying out the program established under subsection (a) of this section, the Secretary shall provide economic and financial technical assistance to foreign governments and foreign central banks of developing and transitional countries by providing advisers with appropriate expertise to advance the enactment of laws and establishment of administrative procedures and institutions in suchcountries to promote macroeconomic and fiscal stability, efficient resource allocation, transparent and market-oriented processes and sustainable private sector growth.
 
 #### (2) Additional requirements
 

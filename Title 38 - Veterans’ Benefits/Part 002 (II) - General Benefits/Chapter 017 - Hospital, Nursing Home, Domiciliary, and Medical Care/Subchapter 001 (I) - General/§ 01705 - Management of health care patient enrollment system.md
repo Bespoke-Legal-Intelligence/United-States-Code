@@ -48,7 +48,7 @@ Pub. L. 107–135, title II, §202(c), Jan. 23, 2002, 115 Stat. 2457, provided t
 
 #### Assessment of Implementation and Operation of Amendments by Pub. L. 104–262
 
-Section 106 of title I of Pub. L. 104–262 provided that:
+Pub. L. 104–262, title I, §106, Oct. 9, 1996, 110 Stat. 3184, provided that:
 
 “(a)
 
@@ -82,7 +82,7 @@ Matters To Be Included.—The report under subsection (b) shall include detailed
 
 &emsp;&emsp;“(C) the number who were denied care which was considered to be medically necessary but not of an emergency nature (shown in total and separately by facility).
 
-&emsp;“(4) The numbers and characteristics of, and the type and extent of health care furnished to, veterans enrolled for care (shown in total and separately by facility).
+&emsp;“(4) The numbers and characteristics of, and the type and extent of health care furnished to, veteransenrolled for care (shown in total and separately by facility).
 
 &emsp;“(5) The numbers and characteristics of, and the type and extent of health care furnished to, veterans not enrolled for care (shown separately by reference to each class of eligibility, both in total and separately by facility).
 

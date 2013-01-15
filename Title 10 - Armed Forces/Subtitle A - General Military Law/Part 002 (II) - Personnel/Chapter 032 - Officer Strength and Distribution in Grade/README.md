@@ -17,7 +17,7 @@
 
 <b>2011</b>—Pub. L. 112–81, div. A, title V, §502(d)(2)(B), 125 Stat. 1388, added item 528 and struck out former item 528 “Officers serving in certain intelligence positions: military status; exclusion from distribution and strength limitations; pay and allowances.”
 
-<b>2006</b>—Pub. L. 109–364, div. A, title V, §501(b)(2), Oct. 17, 2006, 120 Stat. 2176, substituted “Officers serving incertain intelligence positions: military status; exclusion from distribution and strength limitations; pay and allowances” for “Exclusion: officers serving in certain intelligence positions” in item 528.
+<b>2006</b>—Pub. L. 109–364, div. A, title V, §501(b)(2), Oct. 17, 2006, 120 Stat. 2176, substituted “Officers serving in certain intelligence positions: military status; exclusion from distribution and strength limitations; pay and allowances” for “Exclusion: officers serving in certain intelligence positions” in item 528.
 
 Pub. L. 109–163, div. A, title V, §507(b), Jan. 6, 2006, 119 Stat. 3228, substituted “Exclusion: officers serving in certain intelligence positions” for “Exclusion: Associate Director of Central Intelligence for Military Support” in item 528.
 

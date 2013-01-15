@@ -6,7 +6,7 @@
 
 &emsp;(1) discharge the debt if the plaintiff agrees to the setoff and discharges a part of the judgment equal to the debt; or
 
-&emsp;(2)(A) withhold payment of an additional amount the Secretary decides will cover legal costs of bringing a civil action for the debt if the plaintiff denies the debt or does not agree to the setoff; and
+&emsp;(2)(A) withhold payment of an additional amount the Secretary decides will cover legalcosts of bringing a civil action for the debt if the plaintiff denies the debt or does not agree to the setoff; and
 
 &emsp;(B) have a civil action brought if one has not already been brought.
 

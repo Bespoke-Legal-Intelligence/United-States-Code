@@ -90,5 +90,5 @@ This chapter, referred to in subsecs. (a)(3) and (j), was in the original “thi
 
 #### Effective Date of 1992 Amendment
 
-Section 804 of title VIII of Pub. L. 102–572 provided that: “The provisions of this title \[amending this section and sections 10705 and 10713 of this title\] shall take effect on the date of the enactment of this Act \[Oct. 29, 1992\].”
+Pub. L. 102–572, title VIII, §804, Oct. 29, 1992, 106 Stat. 4516, provided that: “The provisions of this title \[amending this section and sections 10705 and 10713 of this title\] shall take effect on the date of the enactment of this Act \[Oct. 29, 1992\].”
 

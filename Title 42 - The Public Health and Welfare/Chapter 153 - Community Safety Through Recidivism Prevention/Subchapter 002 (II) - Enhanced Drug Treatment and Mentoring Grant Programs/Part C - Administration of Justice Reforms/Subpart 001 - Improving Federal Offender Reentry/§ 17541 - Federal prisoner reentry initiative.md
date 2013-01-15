@@ -34,7 +34,7 @@ The Attorney General, in coordination with the Director of the Bureau of Prisons
 
 #### (2) Assistance developing release plan
 
-&emsp;At the request of a direct-release prisoner, a representative of the United States Probation System shall, prior to the release of that prisoner, help that prisoner develop a release plan.
+&emsp;At the request of a direct-release prisoner, a representative of the United States ProbationSystem shall, prior to the release of that prisoner, help that prisoner develop a release plan.
 
 #### (3) Direct-release prisoner defined
 
@@ -112,7 +112,7 @@ The Attorney General shall take such steps as are necessary to modify the proced
 
 #### (5) Medical care
 
-&emsp;The Bureau of Prisons shall provide the United States Probation and Pretrial Services System with relevant information on the medical care needs and the mental health treatment needs of inmates scheduled for release from custody. The United States Probation and Pretrial Services System shall take this information into account when developing supervision plans in an effort to address the medical care and mental health care needs of such individuals. The Bureau of Prisons shall provide inmates with a sufficient amount of all necessary medications (which will normally consist of, at a minimum, a 2-week supply of such medications) upon release from custody.
+&emsp;The Bureau of Prisons shall provide the United States Probation and Pretrial Services System with relevant information on the medical care needs and the mental health treatment needs of inmates scheduled for release from custody. The United States Probation and Pretrial Services System shall take this information into account when developing supervision plans in an effort to address the medical care and mental health care needs of such individuals. The Bureau of Prisons shallprovide inmates with a sufficient amount of all necessary medications (which will normally consist of, at a minimum, a 2-week supply of such medications) upon release from custody.
 
 #### (e) Encouragement of employment of former prisoners
 

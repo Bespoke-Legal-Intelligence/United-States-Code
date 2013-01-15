@@ -72,7 +72,7 @@ Amendment by section 1901(a)(138) of Pub. L. 94–455 applicable with respect to
 
 #### Effective Date of 1971 Amendment
 
-Section 2(b) of Pub. L. 91–686 provided that: “The amendments made by subsection (a) \[amending this section\] shall be effective for taxable years beginning after the date of enactment of this Act \[Jan. 12, 1971\].”
+Pub. L. 91–686, §2(b), Jan. 12, 1971, 84 Stat. 2071, provided that: “The amendments made by subsection (a) \[amending this section\] shall be effective for taxable years beginning after the date of enactment of this Act \[Jan. 12, 1971\].”
 
 #### Effective Date of 1958 Amendment
 
@@ -80,15 +80,15 @@ Amendment by Pub. L. 85–866 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1956 Amendment
 
-Section 3 of act Apr. 27, 1956, provided that: “This Act \[amending this section\] shall apply to all taxable years beginning after Dec. 31, 1954.”
+Act Apr. 27, 1956, ch. 214, §3, 70 Stat. 119, provided that: “This Act \[amending this section\] shall apply to all taxable years beginning after Dec. 31, 1954.”
 
 #### Sales or Exchanges by Corporations of Real Property Held More Than 25 Years
 
-Section 1 of Pub. L. 91–686, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided: “That (a) for purposes of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] any lot or parcel of real property sold or exchanged by a corporation which would, but for this Act, be treated as property held primarily for sale to customers in the ordinary course of trade or business shall not, except to the extent provided in (b), be so treated if—
+Pub. L. 91–686, §1, Jan. 12, 1971, 84 Stat. 2070, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat.2095, provided: “That (a) for purposes of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] any lot or parcel of real property sold or exchanged by a corporation which would, but for this Act, be treated as property held primarily for sale to customers in the ordinary course of trade or business shall not, except to the extent provided in (b), be so treated if—
 
 &emsp;“(1) no shareholder of the corporation directly or indirectly holds real property primarily for sale to customers in the ordinary course of trade or business; and
 
-&emsp;“(2)(A) such lot or parcel is a part of real property (i) held for more than twenty-five years at the time of sale or exchange, and (ii) acquired before January 1, 1934, by the corporation as a result of the foreclosure of a lien (or liens) thereon which secured thepayment of indebtedness held by one or more creditors who transferred one or more foreclosure bids to the corporation in exchange for all its stock (with or without other consideration), or
+&emsp;“(2)(A) such lot or parcel is a part of real property (i) held for more than twenty-five years at the time of sale or exchange, and (ii) acquired before January 1, 1934, by the corporation as a result of the foreclosure of a lien (or liens) thereon which secured the payment of indebtedness held by one or more creditors who transferred one or more foreclosure bids to the corporation in exchange for all its stock (with or without other consideration), or
 
 &emsp;“(B)(i) such lot or parcel is a part of additional real property acquired before January 1, 1957, by the corporation in the near vicinity of any real property to which subparagraph (A) applies, or
 

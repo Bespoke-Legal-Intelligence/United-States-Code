@@ -2,7 +2,7 @@
 
 Except as provided in section 300t–12(e) of this title, for purposes of this subchapter—
 
-(1) The term “hospital” includes general, tuberculosis, and other types of hospitals, and related facilities, such as laboratories, outpatient departments, nurses’ home facilities, extended care facilities, facilities related to programs for home health services, self-care units, and central service facilities, operated in connection with hospitals, and also includes education or training facilities for health professonal <sup>1</sup> personnel operated as an integral part of a hospital, but does not include any hospital furnishing primarily domiciliary care.
+(1) The term “hospital” includes general, tuberculosis, and other types of hospitals, and related facilities, such as laboratories, outpatient departments, nurses’ home facilities, extended care facilities, facilities related to programs for home health services, self-care units, and central service facilities, operated in connection with hospitals, and also includes education ortraining facilities for health professonal <sup>1</sup> personnel operated as an integral part of a hospital, but does not include any hospital furnishing primarily domiciliary care.
 
 (2) The term “public health center” means a publicly owned facility for the provision of public health services, including related publicly owned facilities such as laboratories, clinics, and administrative offices operated in connection with such a facility.
 
@@ -30,7 +30,7 @@ Except as provided in section 300t–12(e) of this title, for purposes of this s
 
 &emsp;(B) in which such care and medical services are prescribed by, or are performed under the general direction of, persons licensed to practice medicine or surgery in the State.
 
-(7) The term “construction” means construction of new buildings and initial equipment of such buildings and, in any case in which it will help to provide a service not previously providedin the community, equipment of any buildings; including architects’ fees, but excluding the cost of off-site improvements and, except with respect to public health centers, the cost of the acquisition of land.
+(7) The term “construction” means construction of new buildings and initial equipment of such buildings and, in any case in which it will help to provide a service not previously provided in the community, equipment of any buildings; including architects’ fees, but excluding the cost of off-site improvements and, except with respect to public health centers, the cost of the acquisition of land.
 
 (8) The term “cost” as applied to construction, modernization, or conversion means the amount found by the Secretary to be necessary for construction, modernization, or conversion, respectively, under a project, except that, in the case of a modernization project or a project assisted under part B of this subchapter, such term does not include any amount found by the Secretary to be attributable to expansion of the bed capacity of any facility.
 
@@ -48,7 +48,7 @@ Except as provided in section 300t–12(e) of this title, for purposes of this s
 
 &emsp;(B) not less than such percentage minus five per centum.
 
-(14) The term “medically underserved population” means the population of an urban or rural area designated by the Secretary as an area with a shortage of health facilities or a population group designated by the Secretary as having a shortage of such facilities.
+(14) The term “medically underserved population” means the population of an urban orrural area designated by the Secretary as an area with a shortage of health facilities or a population group designated by the Secretary as having a shortage of such facilities.
 
 (July 1, 1944, ch. 373, title XVI, §1624, formerly §1633, as added Pub. L. 93–641, §4, Jan. 4, 1975, 88 Stat. 2270; amended Pub. L. 94–484, title IX, §905(b)(1), Oct. 12, 1976, 90 Stat. 2325; Pub. L. 95–83, title I, §106(z), Aug. 1, 1977, 91 Stat. 386; renumbered §1624 and amended Pub. L. 96–79, title II, §§202(b), 203(e)(1), title III, §301(b), Oct. 4, 1979, 93 Stat. 632, 635, 640.)
 

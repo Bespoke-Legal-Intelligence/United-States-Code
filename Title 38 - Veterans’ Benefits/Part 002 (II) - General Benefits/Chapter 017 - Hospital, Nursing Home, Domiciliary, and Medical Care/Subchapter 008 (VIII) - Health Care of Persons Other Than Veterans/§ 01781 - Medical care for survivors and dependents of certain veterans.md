@@ -12,7 +12,7 @@
 
 > who are not otherwise eligible for medical care under chapter 55 of title 10 (CHAMPUS).
 
-(b) In order to accomplish the purposes of subsection (a) of this section, the Secretary shall provide for medical care in the same or similar manner and subject to the same or similar limitations as medical care is furnished to certain dependents and survivors of active duty and retired members of the Armed Forces under chapter 55 of title 10 (CHAMPUS), by—
+(b) In order to accomplish the purposes of subsection (a) of this section, the Secretary shallprovide for medical care in the same or similar manner and subject to the same or similar limitations as medical care is furnished to certain dependents and survivors of active duty and retired members of the Armed Forces under chapter 55 of title 10 (CHAMPUS), by—
 
 &emsp;(1) entering into an agreement with the Secretary of Defense under which that Secretary shall include coverage for such medical care under the contract, or contracts, that Secretary enters into to carry out such chapter 55, and under which the Secretary of Veterans Affairs shall fully reimburse the Secretary of Defense for all costs and expenditures made for the purposes of affording the medical care authorized pursuant to this section; or
 
@@ -100,11 +100,11 @@ Subsec. (b)(2). Pub. L. 94–581, §210(a)(4)(B), substituted “the Administrat
 
 #### Effective Date of 1982 Amendment
 
-Section 5(b) of Pub. L. 97–251 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1982.”
+Pub. L. 97–251, §5(b), Sept. 8, 1982, 96 Stat. 716, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1982.”
 
 #### Effective Date of 1979 Amendment
 
-Section 205(b) of Pub. L. 96–151 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect with respect to fiscal year 1980 only to such extent and for such amounts as may be specifically provided for such purpose in appropriation Acts.”
+Pub. L. 96–151, title II, §205(b), Dec. 20, 1979, 93 Stat. 1095, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect with respect to fiscal year 1980 only to such extent and for such amounts as may be specifically provided for such purpose in appropriation Acts.”
 
 #### Effective Date of 1976 Amendment
 

@@ -42,7 +42,7 @@
 
 &emsp;(D) The Secretary shall publish a notice in the Federal Register at least annually informing the public of the allocation of assistance under section 1439(d)(1)(A) of this title.
 
-&emsp;(E) The Secretary shall ensure that each application and all related documentation and other information referred to in subparagraph (B), including each letter of support, is readily available for public inspection for a period of not less than 5 years, beginning not less than 30 days following the date on which the award or allocation is made.
+&emsp;(E) The Secretary shall ensure that each application and all related documentation andother information referred to in subparagraph (B), including each letter of support, is readily available for public inspection for a period of not less than 5 years, beginning not less than 30 days following the date on which the award or allocation is made.
 
 #### (5) Emergency exception
 
@@ -132,7 +132,7 @@ If the Secretary receives or obtains information providing a reasonable basis to
 
 #### (2) Objections not raised in hearing
 
-&emsp;The court shall not consider any objection that was not raised in the hearing conductedpursuant to subsection (g)(1) of this section unless a demonstration is made of extraordinary circumstances causing the failure to raise the objection. If any party demonstrates to the satisfaction of the court that additional evidence not presented at the hearing is material and that there were reasonable grounds for the failure to present such evidence at the hearing, the court shall remand the matter to the Secretary for consideration of such additional evidence.
+&emsp;The court shall not consider any objection that was not raised in the hearing conducted pursuant to subsection (g)(1) of this section unless a demonstration is made of extraordinary circumstances causing the failure to raise the objection. If any party demonstrates to the satisfaction of the court that additional evidence not presented at the hearing is material and that there were reasonable grounds for the failure to present such evidence at the hearing, the court shall remand the matter to the Secretary for consideration of such additional evidence.
 
 #### (3) Scope of review
 
@@ -154,7 +154,7 @@ The Secretary may compromise, modify, or remit any civil money penalty which may
 
 The Secretary shall issue such regulations as the Secretary deems appropriate to implement this section.
 
-#### (<i>l</i>) Deposit of penalties
+#### (l) Deposit of penalties
 
 The Secretary shall deposit all civil money penalties collected under this section into miscellaneous receipts of the Treasury.
 

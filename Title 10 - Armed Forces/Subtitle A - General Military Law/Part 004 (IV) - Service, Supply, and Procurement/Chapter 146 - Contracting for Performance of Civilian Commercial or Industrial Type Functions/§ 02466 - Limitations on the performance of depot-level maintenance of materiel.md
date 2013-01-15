@@ -2,7 +2,7 @@
 
 (a)
 
-Percentage Limitation.—Not more than 50 percent of the funds made available in a fiscal year to a military department or a Defense Agency for depot-level maintenance and repair workload may be used to contract for the performance by non-Federal Government personnel of such workload for the military department or the Defense Agency. Any such funds that are not used for such a contract shall be used for the performance of depot-level maintenance and repair workload by employees of the Department of Defense.
+Percentage Limitation.—Not more than 50 percent of the funds made available in a fiscal year to a military department or a Defense Agency for depot-level maintenance and repair workload may be used to contract for the performance by non-Federal Government personnel of such workload for the military department or the Defense Agency. Any such funds that are not used for such a contract shall be used for theperformance of depot-level maintenance and repair workload by employees of the Department of Defense.
 
 (b)
 
@@ -22,7 +22,7 @@ Annual Report.—(1) Not later than 90 days after the date on which the budget o
 
 (2) Each report required under paragraph (1) shall include as a separate item any expenditure covered by section 2474(f) of this title that was made during the fiscal year covered by the report and shall specify the amount and nature of each such expenditure.
 
-(Added Pub. L. 100–456, div. A, title III, §326(a), Sept. 29, 1988, 102 Stat. 1955; amended Pub. L.101–189, div. A, title III, §313, Nov. 29, 1989, 103 Stat. 1412; Pub. L. 102–190, div. A, title III, §314(a)(1), Dec. 5, 1991, 105 Stat. 1336; Pub. L. 102–484, div. A, title III, §352(a)–(c), Oct. 23, 1992, 106 Stat. 2378; Pub. L. 103–337, div. A, title III, §332, Oct. 5, 1994, 108 Stat. 2715; Pub. L. 104–106, div. A, title III, §§311(f)(1), 312(b), Feb. 10, 1996, 110 Stat. 248, 250; Pub. L. 105–85, div. A, title III, §§357, 358, 363, Nov. 18, 1997, 111 Stat. 1695, 1702; Pub. L. 106–65, div. A, title III, §333, Oct. 5, 1999, 113 Stat. 567; Pub. L. 107–107, div. A, title III, §341, Dec. 28, 2001, 115 Stat. 1060; Pub. L. 108–136, div. A, title III, §332, Nov. 24, 2003, 117 Stat. 1442; Pub. L. 108–375, div. A, title III, §321, Oct. 28, 2004, 118 Stat. 1845; Pub. L. 109–364, div. A, title III, §331(b), Oct. 17, 2006, 120 Stat. 2149; Pub. L. 111–84, div. A, title III, §329, Oct. 28, 2009, 123 Stat. 2256.)
+(Added Pub. L. 100–456, div. A, title III, §326(a), Sept. 29, 1988, 102 Stat. 1955; amended Pub. L. 101–189, div. A, title III, §313, Nov. 29, 1989, 103 Stat. 1412; Pub. L. 102–190, div. A, title III, §314(a)(1), Dec. 5, 1991, 105 Stat. 1336; Pub. L. 102–484, div. A, title III, §352(a)–(c), Oct. 23, 1992, 106 Stat. 2378; Pub. L. 103–337, div. A, title III, §332, Oct. 5, 1994, 108 Stat. 2715; Pub. L. 104–106, div. A, title III, §§311(f)(1), 312(b), Feb. 10, 1996, 110 Stat. 248, 250; Pub. L. 105–85, div. A, title III, §§357, 358, 363, Nov. 18, 1997, 111 Stat. 1695, 1702; Pub. L. 106–65, div. A, title III, §333, Oct. 5, 1999, 113 Stat. 567; Pub. L. 107–107, div. A, title III, §341, Dec. 28, 2001, 115 Stat. 1060; Pub. L. 108–136, div. A, title III, §332, Nov. 24, 2003, 117 Stat. 1442; Pub. L. 108–375, div. A, title III, §321, Oct. 28, 2004, 118 Stat. 1845; Pub. L. 109–364, div. A, title III, §331(b), Oct. 17, 2006, 120 Stat. 2149; Pub. L. 111–84, div. A, title III, §329, Oct. 28, 2009, 123 Stat. 2256.)
 
 #### Amendments
 
@@ -90,7 +90,7 @@ Subsec. (e). Pub. L. 103–337, §332(c), amended heading and text of subsec. (e
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–484, §352(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “
 
-Percentage Limitation.—Not less than 60 percent of the funds available for each fiscalyear for depot-level maintenance of materiel managed for the Department of the Army and the Department of the Air Force shall be used for the performance of such depot-level maintenance by employees of the Department of Defense.”
+Percentage Limitation.—Not less than 60 percent of the funds available for each fiscal year for depot-level maintenance of materiel managed for the Department of the Army and the Department of the Air Force shall be used for the performance of such depot-level maintenance by employees of the Department of Defense.”
 
 Subsec. (c). Pub. L. 102–484, §352(b), substituted “The Secretary of the military department concerned and, with respect to a Defense Agency, the Secretary of Defense” for “The Secretary of the Army, with respect to the Department of the Army, and the Secretary of the Air Force, with respect to the Department of the Air Force,”.
 
@@ -106,7 +106,7 @@ Subsec. (e). Pub. L. 102–484, §352(c), designated existing provisions as par.
 
 #### Congressional Findings
 
-Section 331 of Pub. L. 103–337 provided that: “Congress makes the following findings:
+Pub. L. 103–337, div. A, title III, §331, Oct. 5, 1994, 108 Stat. 2715, provided that: “Congress makes the following findings:
 
 &emsp;“(1) By providing the Armed Forces with a critical capacity to respond to the needs of the Armed Forces for depot-level maintenance and repair of weapon systems and equipment, the depot-level maintenance and repair activities of the Department of Defense play an essential role in maintaining the readiness of the Armed Forces.
 
@@ -116,7 +116,7 @@ Section 331 of Pub. L. 103–337 provided that: “Congress makes the following 
 
 #### Reutilization Initiative for Depot-Level Activities
 
-Section 337 of Pub. L. 103–337 provided that:
+Pub. L. 103–337, div. A, title III, §337, Oct. 5, 1994, 108 Stat. 2717, provided that:
 
 “(a)
 
@@ -142,11 +142,11 @@ Pub. L. 103–160, div. A, title III, §343, Nov. 30, 1993, 107 Stat. 1624, prov
 
 #### Effect of 1992 Amendments on Existing Contracts
 
-Section 352(d) of Pub. L. 102–484 provided that: “The Secretary of a military department and the Secretary of Defense, with respect to the Defense Agencies, may not cancel a depot-level maintenance contract in effect on the date of the enactment of this Act \[Oct. 23, 1992\] in order to comply with the requirements of section 2466(a) of title 10, United States Code, as amended by subsection (a).”
+Pub. L. 102–484, div. A, title III, §352(d), Oct. 23, 1992, 106 Stat. 2378, provided that: “The Secretary of a military department and the Secretary of Defense, with respect to the Defense Agencies, may not cancel a depot-level maintenance contract in effect on the date of the enactment of this Act \[Oct. 23, 1992\] in order to comply with the requirements of section 2466(a) of title 10, United States Code, as amended by subsection (a).”
 
 #### Prohibition on Cancellation of Contracts in Effect on December 5, 1991
 
-Section 314(a)(3) of Pub. L. 102–190 provided that: “The Secretary of the Army and the Secretary of the Air Force may not cancel a depot-level maintenance contract in effect on the date of the enactment of this Act \[Dec. 5, 1991\] in order to comply with the requirements of section 2466(a) of such title, as amended by subsection (a).”
+Pub. L. 102–190, div. A, title III, §314(a)(3), Dec. 5, 1991, 105 Stat. 1337, provided that: “The Secretary of the Army and the Secretary of the Air Force may not cancel a depot-level maintenance contract in effect on the date of the enactment of this Act \[Dec. 5, 1991\] in order to comply with the requirements of section 2466(a) of such title, as amended by subsection (a).”
 
 #### Competition Pilot Program; Review and Report
 

@@ -208,13 +208,13 @@ For purposes of this section—
 
 &emsp;(i) The term “applicable mortality table” means a mortality table, modified as appropriate by the Secretary of the Treasury, based on the mortality table specified for the plan year under subparagraph (A) of section 1083(h)(3) of this title (without regard to subparagraph (C) or (D) of such section).
 
-&emsp;(ii) The term “applicable interest rate” means the adjusted first, second, and third segment rates applied under rules similar to the rules of section 1083(h)(2)(C) of this title for the month before the date of the distribution or such other time as the Secretary of the Treasury may by regulations prescribe.
+&emsp;(ii) The term “applicable interest rate” means the adjusted first, second, and third segment rates applied under rules similar to the rules of section 1083(h)(2)(C) of this title (determined by not taking into account any adjustment under clause (iv) thereof) for the month before the date of the distribution or such other time as the Secretary of the Treasury may by regulations prescribe.
 
-&emsp;(iii) For purposes of clause (ii), the adjusted first, second, and third segment rates are the first, second, and third segment rates which would be determined under section 1083(h)(2)(C) of this title if—
+&emsp;(iii) For purposes of clause (ii), the adjusted first, second, and third segment rates are the first, second, and third segment rates which would be determined under section 1083(h)(2)(C) of this title (determined by not taking into account any adjustment under clause (iv) thereof) if—
 
 &emsp;&emsp;(I) section 1083(h)(2)(D) of this title were applied by substituting the average yields for the month described in clause (ii) for the average yields for the 24-month period described in such section,
 
-&emsp;&emsp;(II) section 1083(h)(2)(G)(i)(II) of this title were applied by substituting “section1055(g)(3)(A)(ii)(II) of this title” for “section 1082(b)(5)(B)(ii)(II) of this title”, and
+&emsp;&emsp;(II) section 1083(h)(2)(G)(i)(II) of this title were applied by substituting “section 1055(g)(3)(A)(ii)(II) of this title” for “section 1082(b)(5)(B)(ii)(II) of this title”, and
 
 &emsp;&emsp;(III) the applicable percentage under section 1083(h)(2)(G) of this title were determined in accordance with the following table:
 
@@ -256,13 +256,15 @@ If the use of any participant's accrued benefit (or any portion thereof) as secu
 
 No consent of a spouse shall be effective for purposes of subsection (g)(1) or (g)(2) of this section (as the case may be) unless requirements comparable to the requirements for spousal consent to an election under subsection (c)(1)(A) of this section are met.
 
-#### (<i>l</i>) Regulations; consultation of Secretary of the Treasury with Secretary of Labor
+#### (l) Regulations; consultation of Secretary of the Treasury with Secretary of Labor
 
 In prescribing regulations under this section, the Secretary of the Treasury shall consult with the Secretary of Labor.
 
-(Pub. L. 93–406, title I, §205, Sept. 2, 1974, 88 Stat. 862; Pub. L. 98–397, title I, §103(a), Aug. 23, 1984, 98 Stat. 1429; Pub. L. 99–514, title XI, §§1139(c)(2), 1145(b), title XVIII, §1898(b)(1)(B), (2)(B), (3)(B), (4)(B), (5)(B), (6)(B), (7)(B), (8)(B), (9)(B), (10)(B), (11)(B), (12)(B), (13)(B), (14)(B), Oct. 22, 1986, 100 Stat. 2488, 2491, 2945–2951; Pub. L. 101–239, title VII, §§7861(d)(2), 7862(d)(1)(B), (3), (6)–(9), 7891(a)(1), (b)(3), (c), (e), 7894(c)(7)(A), Dec. 19, 1989, 103 Stat. 2431, 2434, 2445, 2447, 2449; Pub. L. 103–465, title VII, §767(c)(2), Dec. 8, 1994, 108 Stat. 5039; Pub. L. 104–188, title I, §1451(b), Aug. 20, 1996, 110 Stat. 1815; Pub. L. 105–34, title X, §1071(b)(2), title XVI, §1601(d)(5), Aug. 5, 1997, 111 Stat. 948, 1089; Pub. L. 107–147, title IV, §411(r)(2), Mar. 9, 2002, 116 Stat. 51; Pub. L. 109–280, title III, §302(a), title X, §1004(b), title XI, §1102(a)(2)(A), Aug. 17, 2006, 120 Stat. 920, 1054, 1056; Pub. L. 110–458, title I, §103(b)(1), Dec. 23, 2008, 122 Stat. 5103.)
+(Pub. L. 93–406, title I, §205, Sept. 2, 1974, 88 Stat. 862; Pub. L. 98–397, title I, §103(a), Aug. 23, 1984, 98 Stat. 1429; Pub. L. 99–514, title XI, §§1139(c)(2), 1145(b), title XVIII, §1898(b)(1)(B), (2)(B), (3)(B), (4)(B), (5)(B), (6)(B), (7)(B), (8)(B), (9)(B), (10)(B), (11)(B), (12)(B), (13)(B), (14)(B), Oct. 22, 1986, 100 Stat. 2488, 2491, 2945–2951; Pub. L. 101–239, title VII, §§7861(d)(2), 7862(d)(1)(B), (3), (6)–(9), 7891(a)(1), (b)(3), (c), (e), 7894(c)(7)(A), Dec. 19, 1989, 103 Stat. 2431, 2434, 2445, 2447, 2449; Pub. L. 103–465, title VII, §767(c)(2), Dec. 8, 1994, 108 Stat. 5039; Pub. L. 104–188, title I, §1451(b), Aug. 20, 1996, 110 Stat. 1815; Pub. L. 105–34, title X, §1071(b)(2), title XVI, §1601(d)(5), Aug. 5, 1997, 111 Stat. 948, 1089; Pub. L. 107–147, title IV, §411(r)(2), Mar. 9, 2002, 116 Stat. 51; Pub. L. 109–280, title III, §302(a), title X, §1004(b), title XI, §1102(a)(2)(A), Aug. 17, 2006, 120 Stat. 920, 1054, 1056; Pub. L. 110–458, title I, §103(b)(1), Dec. 23, 2008, 122 Stat. 5103; Pub. L. 112–141, div. D, title II, §40211(b)(3)(B), July 6, 2012, 126 Stat. 849.)
 
 #### Amendments
+
+<b>2012</b>—Subsec. (g)(3)(B)(ii), (iii). Pub. L. 112–141 substituted “section 1083(h)(2)(C) of this title (determined by not taking into account any adjustment under clause (iv) thereof)” for “section 1083(h)(2)(C) of this title”.
 
 <b>2008</b>—Subsec. (g)(3)(B)(iii)(II). Pub. L. 110–458 substituted “section 1055(g)(3)(A)(ii)(II)” for “section 1055(g)(3)(B)(iii)(II)”.
 
@@ -298,7 +300,7 @@ Subsec. (g)(1), (2)(A). Pub. L. 105–34, §1071(b)(2), substituted “the dolla
 
 “(B) For purposes of subparagraph (A), the term ‘applicable interest rate’ means the interest rate which would be used (as of the date of the distribution) by the Pension Benefit Guaranty Corporation for purposes of determining the present value of a lump sum distribution on plan termination.”
 
-<b>1989</b>—Subsec. (b)(1)(C)(i). Pub. L. 101–239, §7862(d)(7), made technical correction to directory language ofPub. L. 99–514, §1898(b)(7)(B), see 1986 Amendment note below.
+<b>1989</b>—Subsec. (b)(1)(C)(i). Pub. L. 101–239, §7862(d)(7), made technical correction to directory language of Pub. L. 99–514, §1898(b)(7)(B), see 1986 Amendment note below.
 
 Subsec. (b)(2)(A)(i). Pub. L. 101–239, §7891(a)(1), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
@@ -364,11 +366,11 @@ Subsec. (h)(2). Pub. L. 99–514, §1898(b)(12)(B), amended par. (2) generally. 
 
 Subsec. (j). Pub. L. 99–514, §1898(b)(4)(B)(iii), added subsec. (j). Former subsec. (j) redesignated (k).
 
-Subsec. (k). Pub. L. 99–514, §1898(b)(10)(B), added subsec. (k). Former subsec. (k) redesignated (<i>l</i>).
+Subsec. (k). Pub. L. 99–514, §1898(b)(10)(B), added subsec. (k). Former subsec. (k) redesignated (l).
 
 Pub. L. 99–514, §1898(b)(4)(B)(iii), redesignated subsec. (j) as (k).
 
-Subsec. (<i>l</i>). Pub. L. 99–514, §1898(b)(10)(B), redesignated subsec. (k) as (<i>l</i>).
+Subsec. (l). Pub. L. 99–514, §1898(b)(10)(B), redesignated subsec. (k) as (l).
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–397 substituted provisions relating to provisions to be included in applicable plans for former provisions relating to form of payment of annuity benefits.
 
@@ -389,6 +391,10 @@ Subsec. (h). Pub. L. 98–397 substituted provisions setting forth definitions f
 Subsec. (i). Pub. L. 98–397 substituted provisions relating to increased costs resulting from providing annuities under applicable plans for former provisions setting forth the effective date of this section.
 
 Subsec. (j). Pub. L. 98–397 added subsec. (j).
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 applicable with respect to plan years beginning after Dec. 31, 2011, except as otherwise provided, see section 40211(c) of Pub. L. 112–141, set out as a note under section 404 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 2008 Amendment
 
@@ -440,7 +446,7 @@ Amendment by section 1898(b)(6)(B) of Pub. L. 99–514 applicable to plan years 
 
 Amendment by section 1898(b)(8)(B) of Pub. L. 99–514 applicable to distributions after Oct. 22, 1986, see section 1898(b)(8)(C) of Pub. L. 99–514, as added, set out as a note under section 417 of Title 26.
 
-Amendment by section 1898(b)(1)(B), (2)(B), (3)(B), (5)(B), (7)(B), (9)(B), (10)(B), (11)(B), (12)(B), (13)(B), (14)(B) of Pub. L. 99–514 effective as if included in the provision of the Retirement Equity Act of 1984, Pub. L. 98–397, to which such amendment relates, except as otherwise provided, see section 1898(j) of Pub. L. 99–514, set out as a note under section 401 of Title 26.
+Amendment by section 1898(b)(1)(B), (2)(B), (3)(B), (5)(B), (7)(B), (9)(B), (10)(B), (11)(B), (12)(B), (13)(B), (14)(B) of Pub. L. 99–514 effective as if included in the provision of the Retirement Equity Act of 1984, Pub. L.98–397, to which such amendment relates, except as otherwise provided, see section 1898(j) of Pub. L. 99–514, set out as a note under section 401 of Title 26.
 
 #### Effective Date of 1984 Amendment
 
@@ -450,7 +456,7 @@ Nothing in amendment by Pub. L. 98–397 to prevent any distribution required by
 
 #### Plan Amendments Not Required Until January 1, 1998
 
-For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L.104–188, set out as a note under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

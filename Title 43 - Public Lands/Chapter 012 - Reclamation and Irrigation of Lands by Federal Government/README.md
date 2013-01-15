@@ -78,7 +78,7 @@
 | 390h–12j. | Orange County Regional Water Reclamation Project. |
 | 390h–12k. | City of West Jordan Water Reuse Project. |
 | 390h–12<i>l.</i> | Hi-Desert Water District in Yucca Valley, California wastewater collection and reuse facility. |
-| 390h–12m. Mission Basin Brackish Groundwater Desalting Demonstration Project. |  |
+| 390h–12m. | &nbsp;&nbsp;Mission Basin Brackish Groundwater Desalting Demonstration Project. |
 | 390h–12n. | Treatment of effluent from sanitation districts of Los Angeles County through city of Long Beach. |
 | 390h–12<i>o.</i> | San Joaquin Area Water Recycling and Reuse Project. |
 | 390h–12p. | Tooele Wastewater Treatment and Reuse Project. |
@@ -577,7 +577,7 @@
 
 |  |
 | :--- |
-| 615<i>o</i> to 615r. Omitted. |
+| 615o to 615r. Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -625,7 +625,7 @@
 
 |  |
 | :--- |
-| 615jjj to 615<i>ooo</i>. Omitted. |
+| 615jjj to 615ooo. Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -4,5 +4,5 @@ Section, R.S. §2074, related to holding of two offices. See section 5533 of Tit
 
 #### Effective Date of Repeal
 
-Repeal effective on first day of first month which begins later than the 90th day following Aug. 19, 1964, see section 403 of Pub. L. 88–448.
+Repeal effective on first day of first month which begins later than the 90th day following Aug. 19, 1964, see Pub. L. 88–448, title IV, §403, Aug. 19, 1964, 78 Stat. 496.
 

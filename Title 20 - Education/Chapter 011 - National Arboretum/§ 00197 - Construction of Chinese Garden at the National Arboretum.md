@@ -8,7 +8,7 @@ A Chinese Garden may be constructed at the National Arboretum established under 
 
 &emsp;(3) appropriations provided for this purpose.
 
-(Mar. 4, 1927, ch. 505, §7, as added Pub. L. 110–234, title VII, §7415, May 22, 2008, 122 Stat. 1256, and Pub. L. 110–246, §4(a), title VII, §7415, June 18, 2008, 122 Stat. 1664, 2017.)
+(Mar. 4, 1927, ch. 505, §7, as added Pub. L. 110–234, title VII, §7415, May 22, 2008, 122 Stat. 1256, andPub. L. 110–246, §4(a), title VII, §7415, June 18, 2008, 122 Stat. 1664, 2017.)
 
 #### Codification
 

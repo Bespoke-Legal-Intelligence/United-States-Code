@@ -12,7 +12,7 @@ The Administrator may promulgate such rules, regulations, and procedures as may 
 
 #### (b) Adjustments; procedures respecting application and operation; judicial review
 
-Any officer or agency authorized to issue any rule or regulation, or any order having the applicability and effect of a rule as defined in section 551(4) of title 5, pursuant to this chapter shall provide for the making of such adjustments, consistent with the other purposes of this chapter, as may be necessary to preventspecial hardship, inequity, or unfair distribution of burdens and shall, by rule, establish procedures which are available to any person for the purpose of seeking an interpretation, modification, rescission of, exception to, or exemption from, such rules, regulations, and orders. Such officer or agency shall, within ninety days after August 14, 1976, establish criteria and guidelines by which such special hardship, inequity, or unfair distribution of burdens shall be evaluated. Such officer or agency shall additionally insure that each decision on any application or petition requesting an adjustment shall specify the standards of hardship, inequity, or unfair distribution of burden by which any disposition was made, and the specific application of such standards to the facts contained in any such application or petition. If any person is aggrieved or adversely affected by a denial of a request for adjustment under the preceding sentences, he may request a review of such denial by the agency and may obtain judicial review in accordance with subsection (c) of this section when such a denial becomes final. The agency shall, by rule, establish appropriate procedures, including a hearing when requested, for review of a denial, and where deemed advisable by the agency, for considering other requests for action under this paragraph, except that no review of a denial under this subparagraph shall be controlled by the same officer denying the adjustment pursuant to this subparagraph.
+Any officer or agency authorized to issue any rule or regulation, or any order having the applicability and effect of a rule as defined in section 551(4) of title 5, pursuant to this chapter shall provide for the making of such adjustments, consistent with the other purposes of this chapter, as may be necessary to prevent special hardship, inequity, or unfair distribution of burdens and shall, by rule, establish procedures which are available to any person for the purpose of seeking an interpretation, modification, rescission of, exception to, or exemption from, such rules, regulations, and orders. Such officer or agency shall, within ninety days after August 14, 1976, establish criteria and guidelines by which such special hardship, inequity, or unfair distribution of burdens shall be evaluated. Such officer or agency shall additionally insure that each decision on any application or petition requesting an adjustment shall specify the standards of hardship, inequity, or unfair distribution of burden by which any disposition was made, and the specific application of such standards to the facts contained in any such application or petition. If any person is aggrieved or adversely affected by a denial of a request for adjustment under the preceding sentences, he may request a review of such denial by the agency and may obtain judicial review in accordance with subsection (c) of this section when such a denial becomes final. The agency shall, by rule, establish appropriate procedures, including a hearing when requested, for review of a denial, and where deemed advisable by the agency, for considering other requests for action under this paragraph, except that no review of a denial under this subparagraph shall be controlled by the same officer denying the adjustment pursuant to this subparagraph.
 
 #### (c) Judicial review of administrative rulemaking; filing of petition in United States Court of Appeals
 
@@ -20,7 +20,7 @@ Judicial review of administrative rulemaking of general and national applicabili
 
 #### (d) to (k) Repealed or Redesignated. Pub. L. 95–91, title VII, §709(a)(2)(B), (C), (F), (G), Aug. 4, 1977, 91 Stat. 608
 
-#### (<i>l</i>) Authority and responsibility of General Counsel
+#### (l) Authority and responsibility of General Counsel
 
 Effective beginning July 1, 1977, amounts authorized to be appropriated under this chapter or any other Act shall not be available for the payment of salaries and other expenses with respect to any office of regional counsel of the Administration unless such office is under the direct supervision and control of the General Counsel of the Administration.
 
@@ -48,11 +48,11 @@ Subsec. (i)(E), (F). Pub. L. 95–91, §709(a)(2)(C), struck out provisions of s
 
 Subsec. (i)(2)(A). Pub. L. 95–91, §709(a)(2)(F), redesignated subpar. (A) as subsec. (c).
 
-Subsec. (i)(2)(B), (3). Pub. L. 95–91, §709(a)(2)(F), (G), struck out par. (2)(B) provisions relating to jurisdictionof federal district courts, power of courts of competent jurisdiction to consider defenses, removal of cases raising constitutional defenses, and concurrent jurisdiction of cases or controversies arising under rules, regulations, or orders of State or local government agencies; and par. (3) provisions relating to procedures for State or local government agencies.
+Subsec. (i)(2)(B), (3). Pub. L. 95–91, §709(a)(2)(F), (G), struck out par. (2)(B) provisions relating to jurisdiction of federal district courts, power of courts of competent jurisdiction to consider defenses, removal of cases raising constitutional defenses, and concurrent jurisdiction of cases or controversies arising under rules, regulations, or orders of State or local government agencies; and par. (3) provisions relating to procedures for State or local government agencies.
 
 Subsecs. (j), (k). Pub. L. 95–91, §709(a)(2)(G), struck out subsecs. (j) and (k) relating to information for independent regulatory agencies and limitation on enforcement authority of the Administrator.
 
-Subsec. (<i>l</i>). Pub. L. 95–70 added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 95–70 added subsec. (l).
 
 <b>1976</b>—Subsec. (c). Pub. L. 94–385, §103, struck out provisions relating to review of rules, regulations and procedures by the Cost of Living Council and redistributed remaining provisions as pars. (1) and (2).
 

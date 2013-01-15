@@ -6,15 +6,15 @@
 
 #### (A) In general
 
-&emsp;&emsp;Each eligible State shall be entitled to receive from the Secretary, for each of fiscal years 1996, 1997, 1998, 1999, 2000, 2001, 2002, and 2003, a grant in an amount equal to the State family assistance grant.
+&emsp;&emsp;Each eligible State shall be entitled to receive from the Secretary, for fiscal year 2012, a grant in an amount equal to the State family assistance grant.
 
 #### (B) State family assistance grant
 
-&emsp;&emsp;The State family assistance grant payable to a State for a fiscal year shall be the amount that bears the same ratio to the amount specified in subparagraph (C) of this paragraph as the amount required to be paid to the State under this paragraph for fiscal year 2002 (determined without regard to any reduction pursuant to section 609 or 612(a)(1) of this title) bears to the total amount required to be paid under this paragraph for fiscal year 2002 (as so determined).
+&emsp;&emsp;The State family assistance grant payable to a State for a fiscal year shall be the amount that bears the same ratio to the amount specified in subparagraph (C) of this paragraph (as in effect just before February 22, 2012) as the amount required to be paid to the State under this paragraph (as so in effect) for fiscal year 2002 (determined without regard to any reduction pursuant to section 609 or 612(a)(1) of this title) bears to the totalamount required to be paid under this paragraph for fiscal year 2002 (as so determined).
 
 #### (C) Appropriation
 
-&emsp;&emsp;Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated for fiscal year 2003 $16,566,542,000 for grants under this paragraph.
+&emsp;&emsp;Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated for fiscal year 2012 $16,566,542,000 for grants under this paragraph.
 
 #### (2) Healthy marriage promotion and responsible fatherhood grants
 
@@ -96,17 +96,17 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) Activities to foster economic stability by helping fathers improve their economic status by providing activities such as work first services, job search, job training, subsidized employment, job retention, job enhancement, and encouraging education, including career-advancing education, dissemination of employment materials, coordination with existing employment services such as welfare-to-work programs, referrals to local employment training initiatives, and other methods.
 
-&emsp;&emsp;&emsp;&emsp;(IV) Activities to promote responsible fatherhood that are conducted through a contract with a nationally recognized,nonprofit fatherhood promotion organization, such as the development, promotion, and distribution of a media campaign to encourage the appropriate involvement of parents in the life of any child and specifically the issue of responsible fatherhood, and the development of a national clearinghouse to assist States and communities in efforts to promote and support marriage and responsible fatherhood.
+&emsp;&emsp;&emsp;&emsp;(IV) Activities to promote responsible fatherhood that are conducted through a contract with a nationally recognized, nonprofit fatherhood promotion organization, such as the development, promotion, and distribution of a media campaign to encourage the appropriate involvement of parents in the life of any child and specifically the issue of responsible fatherhood, and the development of a national clearinghouse to assist States and communities in efforts to promote and support marriage and responsible fatherhood.
 
 #### (D) Appropriation
 
-&emsp;&emsp;Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated for fiscal year 2011 for expenditure in accordance with this paragraph—
+&emsp;&emsp;Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated for fiscal year 2012 for expenditure in accordance with this paragraph—
 
 &emsp;&emsp;&emsp;(i) $75,000,000 for awarding funds for the purpose of carrying out healthy marriage promotion activities; and
 
 &emsp;&emsp;&emsp;(ii) $75,000,000 for awarding funds for the purpose of carrying out activities promoting responsible fatherhood.
 
-> &emsp;&emsp;If the Secretary makes an award under subparagraph (B)(i) for fiscal year 2011, the funds for such award shall be taken in equal portion from the amounts appropriated under clauses (i) and (ii).
+> &emsp;&emsp;If the Secretary makes an award under subparagraph (B)(i) for fiscal year 2012, the funds for such award shall be taken in equal portion from the amounts appropriated under clauses (i) and (ii).
 
 #### (E) Preference
 
@@ -132,7 +132,7 @@
 
 #### (B) Preservation of grant without increases for States failing to remain qualifying States
 
-&emsp;&emsp;Each State that is not a qualifying State for a fiscal year specified in subparagraph (A)(ii) but was a qualifying State for a prior fiscal year shall, subject to subparagraph (F), be entitled to receive from the Secretary for the specified fiscal year, a grant in an amount equal to the amount required to be paid to the State under this paragraph for the most recent fiscal year for which the State was a qualifying State.
+&emsp;&emsp;Each State that is not a qualifying State for a fiscal year specified in subparagraph (A)(ii) but was a qualifying State for a prior fiscal year shall, subject to subparagraph (F), be entitled to receive from the Secretary for the specified fiscal year, a grant in an amount equal to the amount requiredto be paid to the State under this paragraph for the most recent fiscal year for which the State was a qualifying State.
 
 #### (C) Qualifying State
 
@@ -252,7 +252,7 @@
 
 #### (F) Appropriation
 
-&emsp;&emsp;Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated for fiscal years 1999through 2003 $1,000,000,000 for grants under this paragraph.
+&emsp;&emsp;Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated for fiscal years 1999 through 2003 $1,000,000,000 for grants under this paragraph.
 
 #### (5) Welfare-to-work grants
 
@@ -282,7 +282,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(ee) if the Governor of the State desires to have an agency other than a private industry council administer the funds provided under this subparagraph for the benefit of 1 or more service delivery areas in the State, contains an application to the Secretary of Labor for a waiver of clause (vii)(I) with respect to the area or areas in order to permit an alternate agency designated by the Governor to so administer the funds; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(ff) describes how the State will ensure that a private industry council to which information is disclosed pursuant to section 603(a)(5)(K) <sup>3</sup> or 654A(f)(5) of this title has procedures for safeguarding the information and for ensuring that the information is used solely for the purpose described in that section.
+&emsp;&emsp;&emsp;&emsp;&emsp;(ff) describes how the State will ensure that a private industry council towhich information is disclosed pursuant to section 603(a)(5)(K) <sup>3</sup> or 654A(f)(5) of this title has procedures for safeguarding the information and for ensuring that the information is used solely for the purpose described in that section.
 
 &emsp;&emsp;&emsp;&emsp;(II) The State has provided to the Secretary of Labor an estimate of the amount that the State intends to expend during the period permitted under subparagraph (C)(vii) of this paragraph for the expenditure of funds under the grant (excluding expenditures described in section 609(a)(7)(B)(iv) of this title (other than subclause (III) thereof)) pursuant to this paragraph.
 
@@ -364,7 +364,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) the private industry council (or such alternate agency) shall remit the funds to the Governor; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the Governor shall apply to the Secretary of Labor for a waiver of subclause (I) of this clause with respect to the service delivery area or areas involved in order to permit an alternateagency designated by the Governor to administer the funds in accordance with the assurances.
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the Governor shall apply to the Secretary of Labor for a waiver of subclause (I) of this clause with respect to the service delivery area or areas involved in order to permit an alternate agency designated by the Governor to administer the funds in accordance with the assurances.
 
 #### (III) Authority to permit use of alternate administering agency
 
@@ -464,7 +464,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) The noncustodial parent is unemployed, underemployed, or having difficulty in paying child support obligations.
 
-&emsp;&emsp;&emsp;&emsp;(II) At least 1 of the following applies to a minor child of the noncustodial parent (with preference in the determination of the noncustodial parents to be provided services under this paragraph to be provided by the entity to those noncustodial parents with minor children who meet, or who have custodial parents who meet, the requirements of item (aa)):
+&emsp;&emsp;&emsp;&emsp;(II) At least 1 of the following applies to a minor child of the noncustodial parent (with preference in the determination of the noncustodial parents to be provided services under this paragraph to be provided by the entity to thosenoncustodial parents with minor children who meet, or who have custodial parents who meet, the requirements of item (aa)):
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) The minor child or the custodial parent of the minor child meets the requirements of subclause (I) or (II) of clause (ii).
 
@@ -480,7 +480,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) A commitment by the noncustodial parent to cooperate in the payment of child support for the minor child, which may include a modification of an existing support order to take into account the ability of the noncustodial parent to pay such support and the participation of such parent in the project.
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(cc) A commitment by the noncustodial parent to participate in employment or related activities that will enable the noncustodial parent to makeregular child support payments, and if the noncustodial parent has not attained 20 years of age, such related activities may include completion of high school, a general equivalency degree, or other education directly related to employment.
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) A commitment by the noncustodial parent to participate in employment or related activities that will enable the noncustodial parent to make regular child support payments, and if the noncustodial parent has not attained 20 years of age, such related activities may include completion of high school, a general equivalency degree, or other education directly related to employment.
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(dd) A description of the services to be provided under this paragraph, and a commitment by the noncustodial parent to participate in such services, that are designed to assist the noncustodial parent obtain and retain employment, increase earnings, and enhance the financial and emotional contributions to the well-being of the minor child.
 
@@ -498,7 +498,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) who, before attaining 18 years of age, were recipients of foster care maintenance payments (as defined in section 675(4) of this title) under part E of this subchapter or were in foster care under the responsibility of a State;
 
-&emsp;&emsp;&emsp;&emsp;(III) to recipients of assistance under the State program funded under this part, determined to have significant barriers to self-sufficiency, pursuant to criteria established by the local private industry council; or
+&emsp;&emsp;&emsp;&emsp;(III) to recipients of assistance under the State program funded under thispart, determined to have significant barriers to self-sufficiency, pursuant to criteria established by the local private industry council; or
 
 &emsp;&emsp;&emsp;&emsp;(IV) to custodial parents with incomes below 100 percent of the poverty line (as defined in section 9902(2) of this title, including any revision required by such section, applicable to a family of the size involved).
 
@@ -678,7 +678,7 @@
 
 #### (2) Deposits into Fund
 
-&emsp;Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated for fiscal years 2011 and 2012 such sums as are necessary for payment to the Fund in a total amount not to exceed, in the case of fiscal year 2011, such sums as are necessary for amounts obligated on or after October 1, 2010, and before December 8, 2010, and in the case of fiscal year 2012, $612,000,000.
+&emsp;Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated for fiscal years 2013 and 2014 such sums as are necessary for payment to the Fund in a total amount not to exceed $612,000,000 for each fiscal year, of which $2,000,000 shall be reserved for carrying out the activities of the commission established by the Protect our Kids Act of 2012 to reduce fatalities resulting from child abuse and neglect.
 
 #### (3) Grants
 
@@ -760,7 +760,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The amount otherwise required by subparagraph (A) to be remitted by a State fora fiscal year shall be increased by the lesser of—
+&emsp;&emsp;&emsp;The amount otherwise required by subparagraph (A) to be remitted by a State for a fiscal year shall be increased by the lesser of—
 
 &emsp;&emsp;&emsp;&emsp;(I) the total adjustment for the fiscal year, multiplied by the adjustment percentage for the State for the fiscal year; or
 
@@ -802,7 +802,7 @@
 
 &emsp;The Secretary shall annually report to the Congress on the status of the Fund.
 
-(Aug. 14, 1935, ch. 531, title IV, §403, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2115; amended Pub. L. 104–327, §1(b), Oct. 19, 1996, 110 Stat. 4002; Pub. L. 105–33, title V, §§5001(a)(1), 5502, 5514(c), Aug. 5, 1997, 111 Stat. 577, 606, 620; Pub. L. 105–78, title VI, §608, Nov. 13, 1997, 111 Stat. 1522; Pub. L. 105–89, title IV, §404(a), (b), Nov. 19, 1997, 111 Stat. 2134; Pub. L. 105–200, title IV, §408, July 16, 1998, 112 Stat. 672; Pub. L. 105–277, div. A, §101(f) \[title I, §102, title VIII, §405(d)(30), (f)(22)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–346, 2681–425, 2681–432; Pub. L. 105–306, §6(a), Oct. 28, 1998, 112 Stat. 2928; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §§801(a), (b)(1), (c), 802, 803, 804(b), 805(a)(2), (b), 806\], Nov. 29, 1999, 113 Stat. 1535, 1501A–280, 1501A–281, 1501A–283 to 1501A–286; Pub. L. 106–246, div. B, title II, §2402, July 13, 2000, 114 Stat. 555; Pub. L. 106–554, §1(a)(1) \[title I, §§103, 107(a)–(b)(4), (c), title V, §513\], Dec. 21, 2000, 114 Stat. 2763, 2763A–11, 2763A–12, 2763A–71; Pub. L. 107–147, title VI, §§616, 617, Mar. 9, 2002, 116 Stat. 62; Pub. L. 108–40, §3(a), (c)–(e), June 30, 2003, 117 Stat. 836, 837; Pub. L. 108–89, title I, §101(b)(1), (2), Oct. 1, 2003, 117 Stat. 1131; Pub. L. 108–210, §2(b), Mar. 31, 2004, 118 Stat. 564; Pub. L. 108–262, §2(b), June 30, 2004, 118 Stat. 696; Pub. L. 108–308, §2(b)(1), (2), Sept. 30, 2004, 118 Stat. 1135; Pub. L. 109–4, §2(b), Mar. 25, 2005, 119 Stat. 17; Pub. L. 109–19, §2(b), July 1, 2005, 119 Stat. 344; Pub. L. 109–68, §2(b)(2)(A), (B), Sept. 21, 2005, 119 Stat. 2003; Pub. L. 109–161, §2(b), Dec. 30, 2005, 119 Stat. 2958; Pub. L. 109–171, title VII, §§7101(b)(1), (2), 7103(a), Feb. 8, 2006, 120 Stat. 135, 138; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(V), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 110–275, title III, §301(b), July 15, 2008, 122 Stat. 2594; Pub. L. 111–5, div. B, title II, §§2101(a), 2102(b), Feb. 17, 2009, 123 Stat. 446, 449; Pub. L. 111–242, §131(b)(1), (2), Sept. 30, 2010, 124 Stat. 2612; Pub. L. 111–291, title VIII, §811(b)–(d), Dec. 8, 2010, 124 Stat. 3159.)
+(Aug. 14, 1935, ch. 531, title IV, §403, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2115; amended Pub. L. 104–327, §1(b), Oct. 19, 1996, 110 Stat. 4002; Pub. L. 105–33, title V, §§5001(a)(1), 5502, 5514(c), Aug. 5, 1997, 111 Stat. 577, 606, 620; Pub. L. 105–78, title VI, §608, Nov. 13, 1997, 111 Stat. 1522; Pub. L. 105–89, title IV, §404(a), (b), Nov. 19, 1997, 111 Stat. 2134; Pub. L. 105–200, title IV, §408, July 16, 1998, 112 Stat. 672; Pub. L. 105–277, div. A, §101(f) \[title I, §102, title VIII, §405(d)(30), (f)(22)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–346, 2681–425, 2681–432; Pub. L. 105–306, §6(a), Oct. 28, 1998, 112 Stat. 2928; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §§801(a), (b)(1), (c), 802, 803, 804(b), 805(a)(2), (b), 806\], Nov. 29, 1999, 113 Stat. 1535, 1501A–280, 1501A–281, 1501A–283 to 1501A–286; Pub. L. 106–246, div. B, title II, §2402, July 13, 2000, 114 Stat. 555; Pub. L. 106–554, §1(a)(1) \[title I, §§103, 107(a)–(b)(4), (c), title V, §513\], Dec. 21, 2000, 114 Stat. 2763, 2763A–11, 2763A–12, 2763A–71; Pub. L. 107–147, titleVI, §§616, 617, Mar. 9, 2002, 116 Stat. 62; Pub. L. 108–40, §3(a), (c)–(e), June 30, 2003, 117 Stat. 836, 837; Pub. L. 108–89, title I, §101(b)(1), (2), Oct. 1, 2003, 117 Stat. 1131; Pub. L. 108–210, §2(b), Mar. 31, 2004, 118 Stat. 564; Pub. L. 108–262, §2(b), June 30, 2004, 118 Stat. 696; Pub. L. 108–308, §2(b)(1), (2), Sept. 30, 2004, 118 Stat. 1135; Pub. L. 109–4, §2(b), Mar. 25, 2005, 119 Stat. 17; Pub. L. 109–19, §2(b), July 1, 2005, 119 Stat. 344; Pub. L. 109–68, §2(b)(2)(A), (B), Sept. 21, 2005, 119 Stat. 2003; Pub. L. 109–161, §2(b), Dec. 30, 2005, 119 Stat. 2958; Pub. L. 109–171, title VII, §§7101(b)(1), (2), 7103(a), Feb. 8, 2006, 120 Stat. 135, 138; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(V), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 110–275, title III, §301(b), July 15, 2008, 122 Stat. 2594; Pub. L. 111–5, div. B, title II, §§2101(a), 2102(b), Feb. 17, 2009, 123 Stat. 446, 449; Pub. L. 111–242, §131(b)(1), (2), Sept. 30, 2010, 124 Stat. 2612; Pub. L. 111–291, title VIII, §811(b)–(d), Dec. 8, 2010, 124 Stat. 3159; Pub. L. 112–96, title IV, §4002(a), (b), Feb. 22, 2012, 126 Stat. 194, 195; Pub. L. 112–275, §9(a), Jan. 14, 2013, 126 Stat. 2465.)
 
 #### References in Text
 
@@ -816,6 +816,8 @@ The Job Training Partnership Act, referred to in subsec. (a)(5)(D)(iii), is Pub.
 
 The Workforce Investment Act of 1998, referred to in subsec. (a)(5)(D)(ii), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
+The Protect our Kids Act of 2012, referred to in subsec. (b)(2), is Pub. L. 112–275, Jan. 14, 2013, 126 Stat. 2460. Section 3 of the Act, which established the Commission to Eliminate Child Abuse and Neglect Fatalities, is not classified to the Code. For complete classification of this Act to the Code, see Short Title of 2013 Amendment note set out under section 1305 of this title and Tables.
+
 The Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in subsec. (b)(5)(B), is Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2105. Title IV of the Act is classified principally to chapter 14 (§1601 et seq.) of Title 8, Aliens and Nationality. For complete classification of titles IV and VIII of the Act to the Code, see Tables.
 
 #### Codification
@@ -824,9 +826,19 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Prior Provisions
 
-A prior section 603, acts Aug. 14, 1935, ch. 531, title IV, §403, 49 Stat. 628; Aug. 10, 1939, ch. 666, title IV, §402, 53 Stat. 1380; Aug. 10, 1946, ch. 951, title V, §502, 60 Stat. 992; June 14, 1948, ch. 468, §3(b), 62 Stat. 439; Aug. 28, 1950, ch. 809, title III, pt. 2, §322(a), pt. 6, §361(c), (d), 64Stat. 550, 558; July 18, 1952, ch. 945, §8(b), 66 Stat. 778; Sept. 1, 1954, ch. 1206, title III, §303(a), 68 Stat. 1097; Aug. 1, 1956, ch. 836, title III, §§302, 312(c), 342, 351(a), 70 Stat. 847, 849, 852, 854; Aug. 28, 1958, Pub. L. 85–840, title V, §502, 72 Stat. 1048; July 25, 1962, Pub. L. 87–543, title I, §§101(a)(2), (b)(2)(A)–(C), 104(a)(3)(C), 108(b), (c), 76 Stat. 174, 180, 185, 190; July 30, 1965, Pub. L. 89–97, title I, §122, title IV, §401(c), 79 Stat. 353, 415; Jan. 2, 1968, Pub. L. 90–248, title II, §§201(c)–(e)(3), 205(b), 206(a), 207(b), 208, 241(b)(2), (3), 81 Stat. 879, 880, 892–894, 916; June 28, 1968, Pub. L. 90–364, title III, §301, 82 Stat. 273; July 9, 1969, Pub. L. 91–41, §3, 83 Stat. 45; Dec. 28, 1971, Pub. L. 92–223, §3(a)(8), (9), 85 Stat. 805; Oct. 20, 1972, Pub. L. 92–512, title III, §301(b)–(d), 86 Stat. 946, 947; Oct. 30, 1972, Pub. L. 92–603, title II, §§299E(d), 299F, 86 Stat. 1462, 1463; Jan. 4, 1975, Pub. L. 93–647, §§3(a)(3), (4), (e)(2), 5(b), 101(c)(6)(A), 88 Stat. 2348–2350, 2360; Aug. 9, 1975, Pub. L. 94–88, title II, §204, 89 Stat. 435; Nov. 12, 1977, Pub. L. 95–171, §3(a)(1), 91 Stat. 1354; Dec. 20, 1977, Pub. L. 95–216, title IV, §§401, 402(a), 91 Stat. 1559, 1560; June 9, 1980, Pub. L. 96–265, title IV, §§401(g), (h), 406(a), 407(c), 94 Stat. 462, 465, 467; Aug. 13, 1981, Pub. L. 97–35, title XXI, §§2181(a)(1), 2184(b)(1), title XXIII, §§2307(b), 2315(b), 2317(a), 2319(a)–(c), 2353(b)(1), (d), 95 Stat. 815, 817, 848, 855–857, 872; Sept. 3, 1982, Pub. L. 97–248, title I, §§154(b), 156(a)–(c), 157(a), 96 Stat. 397–399; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(c)(2), (j)(2)(B)(i), (3)(B)(i), 98 Stat. 1166, 1170, 1171; Aug. 16, 1984, Pub. L. 98–378, §9(b), 98 Stat. 1316; Nov. 6, 1986, Pub. L. 99–603, title I, §121(b)(1), 100 Stat. 3390; Dec. 22, 1987, Pub. L. 100–203, title IX, §9102(c), 101 Stat. 1330–300; Oct. 13, 1988, Pub. L. 100–485, title II, §§201(c), (d), 202(b)(4)–(6), 204(b)(2), title III, §§302(b)(2), 304(b)(2), title VI, §§601(c)(1), 606, 609(a), 102 Stat. 2372, 2377, 2381, 2384, 2393, 2407, 2410, 2424; Dec. 19, 1989, Pub. L. 101–239, title VIII, §8004(b), 103 Stat. 2460; Nov. 5, 1990, Pub. L. 101–508, title V, §5081(b), 104 Stat. 1388–235; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13741(a), 107 Stat. 663; July 27, 1995, Pub. L. 104–19, title I, 109 Stat. 215; Apr. 26, 1996, Pub. L. 104–134, title III, 110 Stat. 1321–355; Aug. 22, 1996, Pub. L. 104–193, title I, §103(c)(2)(B), 110 Stat. 2161; June 12, 1997, Pub. L. 105–18, title II, 111 Stat. 204, related to payments to States with approved plans for aid and services to needy families with children, prior to repeal by Pub. L. 104–193, §103(a)(1), as amended by Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620, effective July 1, 1997.
+A prior section 603, acts Aug. 14, 1935, ch. 531, title IV, §403, 49 Stat. 628; Aug. 10, 1939, ch. 666, title IV, §402, 53 Stat. 1380; Aug. 10, 1946, ch. 951, title V, §502, 60 Stat. 992; June 14, 1948, ch. 468, §3(b), 62 Stat. 439; Aug. 28, 1950, ch. 809, title III, pt. 2, §322(a), pt. 6, §361(c), (d), 64 Stat. 550, 558; July 18, 1952, ch. 945, §8(b), 66 Stat. 778; Sept. 1, 1954, ch. 1206, title III, §303(a), 68 Stat. 1097; Aug. 1, 1956, ch. 836, title III, §§302, 312(c), 342, 351(a), 70 Stat. 847, 849, 852, 854; Aug. 28, 1958, Pub. L. 85–840, title V, §502, 72 Stat. 1048; July 25, 1962, Pub. L. 87–543, title I, §§101(a)(2), (b)(2)(A)–(C), 104(a)(3)(C), 108(b), (c), 76 Stat. 174, 180, 185, 190; July 30, 1965, Pub. L. 89–97, title I, §122, title IV, §401(c), 79 Stat. 353, 415; Jan. 2, 1968, Pub. L. 90–248, title II, §§201(c)–(e)(3), 205(b), 206(a), 207(b), 208, 241(b)(2), (3), 81 Stat. 879, 880, 892–894, 916; June 28, 1968, Pub. L. 90–364, title III, §301, 82 Stat. 273; July 9, 1969, Pub. L. 91–41, §3, 83 Stat. 45; Dec. 28, 1971, Pub. L. 92–223, §3(a)(8), (9), 85 Stat. 805; Oct. 20, 1972, Pub. L. 92–512, title III, §301(b)–(d), 86 Stat. 946, 947; Oct. 30, 1972, Pub. L. 92–603, title II, §§299E(d), 299F, 86 Stat. 1462, 1463; Jan. 4, 1975, Pub. L. 93–647, §§3(a)(3), (4), (e)(2), 5(b), 101(c)(6)(A), 88 Stat. 2348–2350, 2360; Aug. 9, 1975, Pub. L. 94–88, title II, §204, 89 Stat. 435; Nov. 12, 1977, Pub. L. 95–171, §3(a)(1), 91 Stat. 1354; Dec. 20, 1977, Pub. L. 95–216, title IV, §§401, 402(a), 91 Stat. 1559, 1560; June 9, 1980, Pub. L. 96–265, title IV, §§401(g), (h), 406(a), 407(c), 94 Stat. 462, 465, 467; Aug. 13, 1981, Pub. L. 97–35, title XXI, §§2181(a)(1), 2184(b)(1), title XXIII, §§2307(b), 2315(b), 2317(a), 2319(a)–(c), 2353(b)(1), (d), 95 Stat. 815, 817, 848, 855–857, 872; Sept. 3, 1982, Pub. L. 97–248, title I, §§154(b), 156(a)–(c), 157(a), 96 Stat. 397–399; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(c)(2), (j)(2)(B)(i), (3)(B)(i), 98 Stat. 1166, 1170, 1171; Aug. 16, 1984, Pub. L. 98–378, §9(b), 98 Stat. 1316; Nov. 6, 1986, Pub. L. 99–603, title I, §121(b)(1), 100 Stat. 3390; Dec. 22, 1987, Pub. L. 100–203, title IX, §9102(c), 101 Stat. 1330–300; Oct. 13, 1988, Pub. L. 100–485, title II, §§201(c), (d), 202(b)(4)–(6), 204(b)(2), title III, §§302(b)(2), 304(b)(2), title VI, §§601(c)(1), 606, 609(a), 102 Stat. 2372, 2377, 2381, 2384, 2393, 2407, 2410, 2424; Dec. 19, 1989, Pub. L. 101–239, title VIII, §8004(b), 103 Stat. 2460; Nov. 5, 1990, Pub. L. 101–508, title V, §5081(b), 104 Stat. 1388–235; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13741(a), 107 Stat. 663; July 27, 1995, Pub. L. 104–19, title I, 109 Stat. 215; Apr. 26, 1996, Pub. L. 104–134, title III, 110 Stat. 1321–355; Aug. 22, 1996, Pub. L. 104–193, title I, §103(c)(2)(B), 110 Stat. 2161; June 12, 1997, Pub. L. 105–18, title II, 111 Stat. 204, related to payments to States with approved plans for aid and services to needy families with children, prior to repeal by Pub. L. 104–193, §103(a)(1), as amended by Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620, effective July 1, 1997.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (b)(2). Pub. L. 112–275 substituted “for fiscal years 2013 and 2014 such sums as are necessary for payment to the Fund in a total amount not to exceed $612,000,000 for each fiscal year, of which $2,000,000 shall be reserved for carrying out the activities of the commission established by the Protect our Kids Act of 2012 to reduce fatalities resulting from child abuse and neglect.” for “for fiscal years 2011 and 2012 such sums as are necessary for payment to the Fund in a total amount not to exceed, in the case of fiscal year 2011, such sums as are necessary for amounts obligated on or after October 1, 2010, and before December 8, 2010, and in the case of fiscal year 2012, $612,000,000.”
+
+<b>2012</b>—Subsec. (a)(1)(A). Pub. L. 112–96, §4002(a)(1), substituted “fiscal year 2012” for “each of fiscal years 1996, 1997, 1998, 1999, 2000, 2001, 2002, and 2003”.
+
+Subsec. (a)(1)(B). Pub. L. 112–96, §4002(a)(2), inserted “(as in effect just before February 22, 2012)” after “subparagraph (C) of this paragraph” and “(as so in effect)” after “State under this paragraph”.
+
+Subsec. (a)(1)(C). Pub. L. 112–96, §4002(a)(3), substituted “2012” for “2003”.
+
+Subsec. (a)(2)(D). Pub. L. 112–96, §4002(b), substituted “2012” for “2011” in two places.
 
 <b>2010</b>—Subsec. (a)(2)(A)(i). Pub. L. 111–291, §811(b)(1)(A), substituted “, (C), and (E)” for “and (C)”.
 
@@ -1068,6 +1080,10 @@ Secretary.—The term ‘Secretary’ means the Secretary of the Treasury.”
 
 Subsec. (b)(4)(A)(ii)(I). Pub. L. 104–327, §1(b)(2), inserted “the sum of” before “the expenditures” and “, and any additional qualified State expenditures, as defined in section 609(a)(7)(B)(i) of this title, for child care assistance made under the Child Care and Development Block Grant Act of 1990” before “; exceeds”.
 
+#### Effective Date of 2012 Amendment
+
+Pub. L. 112–96, title IV, §4002(j), Feb. 22, 2012, 126 Stat. 195, provided that: “This section \[amending this section and sections 609, 612 to 614, 618, and 1308 of this title\] and the amendments made by this section shall take effect on the date of the enactment of this Act \[Feb. 22, 2012\].”
+
 #### Effective Date of 2009 Amendment; Savings Provision
 
 Pub. L. 111–5, div. B, title II, §2101(a)(2), Feb. 17, 2009, 123 Stat. 448, provided that: “Effective October 1, 2010, subsection (c) of section 403 of the Social Security Act (42 U.S.C. 603) (as added by paragraph (1)) is repealed, except that paragraph (9) of such subsection shall remain in effect until October 1, 2011, but only with respect to section 407(b)(3)(A)(i) of such Act \[42 U.S.C. 607(b)(3)(A)(i)\].”
@@ -1080,7 +1096,7 @@ Amendment by section 4002(b)(1)(A), (B), (2)(V) of Pub. L. 110–246 effective O
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–171, title VII, §7701, Feb. 8, 2006, 120 Stat. 155, provided that: “Except as otherwise provided in this title \[amending this section and sections 607, 608,609, 611, 618, 622, 629f, 629h, 652, 653, 654, 655, 657, 664, 666, 671 to 673, 674, 1383, and 1383b of this title and section 6402 of Title 26, Internal Revenue Code, repealing section 1675c of Title 19, Customs Duties, enacting provisions set out as notes under sections 607, 608, 652, 654, 655, 657, 664, 666, and 1383 of this title and section 1675c of Title 19, and amending provisions set out as a note under section 1169 of Title 29, Labor\], this title and the amendments made by this title shall take effect as if enacted on October 1, 2005.”
+Pub. L. 109–171, title VII, §7701, Feb. 8, 2006, 120 Stat. 155, provided that: “Except as otherwise provided in this title \[amending this section and sections 607, 608, 609, 611, 618, 622, 629f, 629h, 652, 653, 654, 655, 657, 664, 666, 671 to 673, 674, 1383, and 1383b of this title and section 6402 of Title 26, Internal Revenue Code, repealing section 1675c of Title 19, Customs Duties, enacting provisions set out as notes under sections 607, 608, 652, 654, 655, 657, 664, 666, and 1383 of this title and section 1675c of Title 19, and amending provisions set out as a note under section 1169 of Title 29, Labor\], this title and the amendments made by this title shall take effect as if enacted on October 1, 2005.”
 
 #### Effective Date of 2003 Amendment
 
@@ -1098,7 +1114,7 @@ Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §801(e)\], Nov. 29, 1999,
 
 &emsp;“(2) shall be effective July 1, 2000, except that expenditures from allotments to the States shall not be made before October 1, 2000—
 
-&emsp;&emsp;“(A) with respect to the determination of eligible individuals for purposes of section 403(a)(5)(A) of the Social Security Act \[subsec. (a)(5)(A) of this section\] (relating to formula grants) in the case of those individuals who may be determined to be so eligible, but would not have been eligible before July 1, 2000; or
+&emsp;&emsp;“(A) with respect to the determination of eligible individuals for purposes of section 403(a)(5)(A) of the Social Security Act \[subsec. (a)(5)(A) of this section\] (relating to formula grants) in the case of those individuals who may be determined to be soeligible, but would not have been eligible before July 1, 2000; or
 
 &emsp;&emsp;“(B) for allowable activities described in section 403(a)(5)(C)(i)(VII) of the Social Security Act \[subsec. (a)(5)(C)(i)(VII) of this section\] (as added by section 802 of this title) provided to any individuals determined to be eligible for purposes of section 403(a)(5)(A) of the Social Security Act (relating to formula grants).”
 
@@ -1118,7 +1134,7 @@ Amendment by section 5514(c) of Pub. L. 105–33 effective as if included in the
 
 #### Effective Date of 1996 Amendment
 
-Section 1(d) of Pub. L. 104–327 provided that: “The amendments made by this section \[amending this section and provisions set out as a note under section 601 of this title\] shall take effect as if included in the provisions of and the amendments made by the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\].”
+Pub. L. 104–327, §1(d), Oct. 19, 1996, 110 Stat. 4003, provided that: “The amendments made by this section \[amending this section and provisions set out as a note under section 601 of this title\] shall take effect as if included in the provisions of and the amendments made by the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\].”
 
 #### Effective Date
 

@@ -64,7 +64,7 @@ For purposes of this subtitle, the term “fiscal year” means a period of 12 m
 
 #### (3) Special rule for partnerships, S corporations, and personal service corporations
 
-&emsp;The Secretary may by regulation provide terms and conditions for the application of this subsection to a partnership, S corporation, or personal service corporation (within the meaning of section 441(i)(2)).
+&emsp;The Secretary may by regulation provide terms and conditions for the application ofthis subsection to a partnership, S corporation, or personal service corporation (within the meaning of section 441(i)(2)).
 
 #### (4) Regulations
 
@@ -148,7 +148,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 104(b)(6) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 151(a) of Pub. L. 99–514, set out as a note under section 1 of this title.
+Amendment by section 104(b)(6) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986,see section 151(a) of Pub. L. 99–514, set out as a note under section 1 of this title.
 
 Amendment by section 806(c)(1), (d) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with special provisions applicable to taxpayers who are required to change their accounting periods, see section 806(e) of Pub. L. 99–514, set out as a note under section 1378 of this title.
 

@@ -8,7 +8,7 @@
 
 #### (2) Extension of time
 
-&emsp;The 2-year period prescribed in paragraph (1) shall be extended for such period as may beagreed upon in writing between the taxpayer and the Secretary.
+&emsp;The 2-year period prescribed in paragraph (1) shall be extended for such period as may be agreed upon in writing between the taxpayer and the Secretary.
 
 #### (3) Waiver of notice of disallowance
 

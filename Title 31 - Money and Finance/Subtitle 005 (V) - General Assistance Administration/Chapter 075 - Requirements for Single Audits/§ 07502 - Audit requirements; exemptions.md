@@ -6,7 +6,7 @@
 
 (C) Each such non-Federal entity that expends awards under only one Federal program and is not subject to laws, regulations, or Federal award agreements that require a financial statement audit of the non-Federal entity, may elect to have a program-specific audit conducted in accordance with applicable provisions of this section and guidance issued by the Director under section 7505.
 
-(2)(A) Each non-Federal entity that expends a total amount of Federal awards of less than $300,000 or such other amount specified by theDirector under subsection (a)(3) in any fiscal year of such entity, shall be exempt for such fiscal year from compliance with—
+(2)(A) Each non-Federal entity that expends a total amount of Federal awards of less than $300,000 or such other amount specified by the Director under subsection (a)(3) in any fiscal year of such entity, shall be exempt for such fiscal year from compliance with—
 
 &emsp;(i) the audit requirements of this chapter; and
 
@@ -98,5 +98,5 @@ Subsec. (g). Pub. L. 103–272, §4(f)(1)(W)(iv), substituted “section 3512(c)
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress,Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

@@ -32,7 +32,7 @@ In administering funds made available to carry out this Act within and outside t
 
 &emsp;&emsp;(A) establish performance goals for the assistance described in paragraph (1), expressed in an objective and quantifiable form, to the extent practicable;
 
-&emsp;&emsp;(B) ensure that performance indicators are used for programs authorized under this Actto measure and assess the achievement of the performance goals described in subparagraph (A);
+&emsp;&emsp;(B) ensure that performance indicators are used for programs authorized under this Act to measure and assess the achievement of the performance goals described in subparagraph (A);
 
 &emsp;&emsp;(C) provide a basis for recommendations for adjustments to the assistance described in paragraph (1) to enhance the impact of such assistance; and
 

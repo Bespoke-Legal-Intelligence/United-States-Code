@@ -10,7 +10,7 @@ The Merit Systems Protection Board is composed of 3 members appointed by the Pre
 
 #### Effective Date of 1989 Amendment
 
-Section 11 of Pub. L. 101–12 provided that: “This Act and the amendments made by this Act \[see Short Title of 1989 Amendment note below\] shall take effect 90 days following the date of enactment of this Act \[Apr. 10, 1989\].”
+Pub. L. 101–12, §11, Apr. 10, 1989, 103 Stat. 35, provided that: “This Act and the amendments made by this Act \[see Short Title of 1989 Amendment note below\] shall take effect 90 days following the date of enactment of this Act \[Apr. 10, 1989\].”
 
 #### Effective Date
 
@@ -18,11 +18,11 @@ Subchapter effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95�
 
 #### Short Title of 1989 Amendment
 
-Section 1 of Pub. L. 101–12 provided that: “This Act \[enacting subchapters II and III of this chapter and section 3352 of this title, amending this section and sections 1202 to 1206, 1209, 1211, 2302, 2303, 3393, 7502, 7512, 7521, 7542, 7701, and 7703 of this title and section 4139 of Title 22, Foreign Relations and Intercourse, repealing sections 1207 and 1208 of this title, and enacting provisions set out as notes under this section and sections 1211 and 5509 of this title\] may be cited as the ‘Whistleblower Protection Act of 1989’.”
+Pub. L. 101–12, §1, Apr. 10, 1989, 103 Stat. 16, provided that: “This Act \[enacting subchapters II and III of this chapter and section 3352 of this title, amending this section and sections 1202 to 1206, 1209, 1211, 2302, 2303, 3393, 7502, 7512, 7521, 7542, 7701, and 7703 of this title and section 4139 of Title 22, Foreign Relations and Intercourse, repealing sections 1207 and 1208 of this title, and enacting provisions set out as notes under this section and sections 1211 and 5509 of this title\] may be cited as the ‘Whistleblower Protection Act of 1989’.”
 
 #### Savings Provision
 
-Section 7 of Pub. L. 101–12 provided that:
+Pub. L. 101–12, §7, Apr. 10, 1989, 103 Stat. 34, provided that:
 
 “(a)
 
@@ -38,7 +38,7 @@ Suits and Other Proceedings.—No suit, action, or other proceeding lawfully com
 
 #### Whistleblower Protection; Congressional Statement of Findings and Purpose
 
-Section 2 of Pub. L. 101–12 provided that:
+Pub. L. 101–12, §2, Apr. 10, 1989, 103 Stat. 16, provided that:
 
 “(a)
 
@@ -66,5 +66,5 @@ Purpose.—The purpose of this Act \[see Short Title of 1989 Amendment note abov
 
 #### Terms of Office of Members
 
-Section 202(b) of Pub. L. 95–454 provided that: “Any term of office of any member of the Merit Systems Protection Board serving on the effective date of this Act \[see Effective Date of 1978 Amendment note set out under section 1101 of this title\] shall continue in effect until the term would expire under section 1102 of title 5, United States Code, as in effect immediately before the effective date of this Act, and upon expiration of the term, appointments to such office shall be made under sections 1201 and 1202 of title 5, United States Code (as added by this section).”
+Pub. L. 95–454, title II, §202(b), Oct. 13, 1978, 92 Stat. 1131, provided that: “Any term of office of any member of the Merit Systems Protection Board serving on the effective date of this Act \[see Effective Date of 1978 Amendment note set out under section 1101 of this title\] shall continue in effect until the term would expire under section 1102 of title 5, United States Code, as in effect immediately before the effective date of this Act, and upon expiration of the term, appointments to such office shall be made under sections 1201 and 1202 of title 5, United States Code (as added by this section).”
 

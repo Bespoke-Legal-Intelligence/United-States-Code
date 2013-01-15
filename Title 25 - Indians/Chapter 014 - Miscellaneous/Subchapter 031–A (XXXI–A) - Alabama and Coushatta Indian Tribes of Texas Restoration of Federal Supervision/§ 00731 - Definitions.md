@@ -24,9 +24,9 @@ For purposes of this subchapter—
 
 #### Short Title
 
-Section 1 of Pub. L. 100–89 provided that: “This Act \[enacting this subchapter and subchapter LXXVIII (§1300g et seq.) of this chapter and provisions set out below\] may be cited as the ‘Ysleta del Sur Pueblo and Alabama and Coushatta Indian Tribes of Texas Restoration Act’.”
+Pub. L. 100–89, §1, Aug. 18, 1987, 101 Stat. 666, provided that: “This Act \[enacting this subchapter and subchapter LXXVIII (§1300g et seq.) of this chapter and provisions set out below\] may be cited as the ‘Ysleta del Sur Pueblo and Alabama and Coushatta Indian Tribes of Texas Restoration Act’.”
 
 #### Regulations
 
-Section 2 of Pub. L. 100–89 provided that: “The Secretary of the Interior or his designated representative may promulgate such regulations as may be necessary to carry out the provisions of this Act \[see Short Title note above\].”
+Pub. L. 100–89, §2, Aug. 18, 1987, 101 Stat. 666, provided that: “The Secretary of the Interior or his designated representative may promulgate such regulations as may be necessary to carry out the provisions of this Act \[see Short Title note above\].”
 

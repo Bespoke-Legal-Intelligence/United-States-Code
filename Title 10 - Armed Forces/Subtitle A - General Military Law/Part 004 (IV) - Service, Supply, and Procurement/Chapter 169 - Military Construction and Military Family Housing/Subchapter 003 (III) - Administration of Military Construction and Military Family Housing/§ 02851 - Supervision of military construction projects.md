@@ -40,7 +40,7 @@ Maintenance of Military Construction Information on Internet; Access.—(1) The 
 
 (3) The information required to be provided for each project described in paragraph (1) shall be made available on the Internet site required by such paragraph not later than 90 days after the award of a contract or delivery order for the project. The Secretary of Defense shall update the required information as promptly as practicable, but not less frequently than once a month, to ensure that the information is available in a timely manner.
 
-(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 163; amended Pub. L. 109–163, div. B, title XXVIII, §2803(a), (c), Jan. 6, 2006, 119 Stat. 3505,3506; Pub. L. 111–383, div. B, title XXVIII, §2801, Jan. 7, 2011, 124 Stat. 4458.)
+(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 163; amended Pub. L. 109–163, div. B, title XXVIII, §2803(a), (c), Jan. 6, 2006, 119 Stat. 3505, 3506; Pub. L. 111–383, div. B, title XXVIII, §2801, Jan. 7, 2011, 124 Stat. 4458.)
 
 #### Amendments
 

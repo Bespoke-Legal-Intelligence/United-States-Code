@@ -12,7 +12,7 @@
 
 > shall be punished as provided under subsection (d).
 
-(b) Whoever knowingly benefits, financially or by receiving anything of value, from participation in a venture which has engaged in the providing or obtaining of labor or services by any of the means described in subsection (a), knowingor in reckless disregard of the fact that the venture has engaged in the providing or obtaining of labor or services by any of such means, shall be punished as provided in subsection (d).
+(b) Whoever knowingly benefits, financially or by receiving anything of value, from participation in a venture which has engaged in the providing or obtaining of labor or services by any of the means described in subsection (a), knowing or in reckless disregard of the fact that the venture has engaged in the providing or obtaining of labor or services by any of such means, shall be punished as provided in subsection (d).
 
 (c) In this section:
 

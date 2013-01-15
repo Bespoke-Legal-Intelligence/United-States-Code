@@ -72,7 +72,7 @@ The purposes of this section are—
 
 &emsp;(B) On acquiring all or substantially all of the land located in section 36, township 8 south, range 4 east, of the Willamette Meridian, Marion County, Oregon, commonly known as the Rosboro section by exchange, purchase from a willing seller, or by donation, the Secretary shall expand the boundary of the Scenic Recreation Area to include such land.
 
-&emsp;(C) On acquiring all or substantially all of the land located in section 18, township 8 south, range 5 east, Marion County, Oregon, commonly known as the Time Mirror property, by exchange, purchase from a willing seller, or by donation, such land shall be included in and become a part of the Opal Creek Wilderness.
+&emsp;(C) On acquiring all or substantially all of the land located in section 18, township 8south, range 5 east, Marion County, Oregon, commonly known as the Time Mirror property, by exchange, purchase from a willing seller, or by donation, such land shall be included in and become a part of the Opal Creek Wilderness.
 
 #### (d) Administration
 
@@ -248,7 +248,7 @@ The purposes of this section are—
 
 &emsp;&emsp;(D) 1 member from a city within a 25-mile radius of the Opal Creek Scenic Recreation Area, to be designated by the Governor of the State of Oregon from a list of candidates provided by the mayors of the cities located within a 25-mile radius of the Opal Creek Scenic Recreation Area; and
 
-&emsp;&emsp;(E) not more than 9 members shall be appointed by the Secretary from among persons who, individually or through association with a national or local organization, have an interest in the administration of the Scenic Recreation Area, including, but not limited to, representatives of the timber industry, environmental organizations, the mining industry, inholders in the Opal CreekWilderness and Scenic Recreation Area, economic development interests and Indian tribes.
+&emsp;&emsp;(E) not more than 9 members shall be appointed by the Secretary from among persons who, individually or through association with a national or local organization, have an interest in the administration of the Scenic Recreation Area, including, but not limited to, representatives of the timber industry, environmental organizations, the mining industry, inholders in the Opal Creek Wilderness and Scenic Recreation Area, economic development interests and Indian tribes.
 
 #### (3) Staggered terms
 
@@ -344,7 +344,7 @@ The purposes of this section are—
 
 &emsp;&emsp;(F) Section 8, Township 17 South, Range 4 East, SE¼SW¼ (40 acres);
 
-&emsp;&emsp;(G) Section 11, Township 17 South, Range 4 East, W½NW¼ (80 acres);<sup>5</sup>
+&emsp;&emsp;(G) Section 11, Township 17 South, Range 4 East, W½NW¼ (80 acres); <sup>5</sup>
 
 #### (4) Equal value
 
@@ -394,9 +394,9 @@ The Wilderness Act, referred to in subsec. (c)(1)(A), is Pub. L. 88–577, Sept.
 
 The Endangered Species Act, referred to in subsec. (d)(2)(B), probably means the Endangered Species Act of 1973, Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
-The National Forest Management Act, referred to in subsec. (d)(2)(B), probably means the National Forest Management Act of 1976, Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2949, which enacted sections 472a, 521b, 1600, and 1611 to 1614 of this title, amended sections 500, 515, 516, 518, 576b, and 1601 to 1610 of this title, repealed sections 476, 513, and 514 of this title, and enacted provisions set out as notes under sections 476, 513, 528, 594–2, and 1600 of this title. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under section 1600 of this title and Tables.
+The National Forest Management Act, referred to in subsec. (d)(2)(B), probably means the National ForestManagement Act of 1976, Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2949, which enacted sections 472a, 521b, 1600, and 1611 to 1614 of this title, amended sections 500, 515, 516, 518, 576b, and 1601 to 1610 of this title, repealed sections 476, 513, and 514 of this title, and enacted provisions set out as notes under sections 476, 513, 528, 594–2, and 1600 of this title. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under section 1600 of this title and Tables.
 
-The Oregon Wilderness Act of 1984, referred to in subsec. (d)(3)(A), is Pub. L. 98–328, June 26, 1984, 98 Stat. 272, which enacted subchapter C (§460<i>oo</i>) of chapter 1 of this title and provisions listed in a table of Wilderness Areas set out under section 1132 of this title. For complete classification of this Act to the Code, see Tables.
+The Oregon Wilderness Act of 1984, referred to in subsec. (d)(3)(A), is Pub. L. 98–328, June 26, 1984, 98 Stat. 272, which enacted subchapter C (§460oo) of chapter 1 of this title and provisions listed in a table of Wilderness Areas set out under section 1132 of this title. For complete classification of this Act to the Code, see Tables.
 
 The Federal Power Act, referred to in subsec. (d)(9), is act June 10, 1920, ch. 285, 41 Stat. 1063, which is classified generally to chapter 12 (§791a et seq.) of this title. For complete classification of this Act to the Code, see section 791a of this title and Tables.
 
@@ -404,7 +404,7 @@ The Comprehensive Environmental Response, Compensation, and Liability Act of 198
 
 #### Codification
 
-Section is comprised of section 1023 of Pub. L. 104–333. Subsec. (c)(1)(A) of section 1023 of Pub. L. 104–333 alsoenacted provisions listed in a table of Wilderness Areas set out under section 1132 of this title. Subsec. (h) of section 1023 of Pub. L. 104–333 amended section 1274 of this title.
+Section is comprised of section 1023 of Pub. L. 104–333. Subsec. (c)(1)(A) of section 1023 of Pub. L. 104–333 also enacted provisions listed in a table of Wilderness Areas set out under section 1132 of this title. Subsec. (h) of section 1023 of Pub. L. 104–333 amended section 1274 of this title.
 
 Provisions substantially identical to the text of this section were enacted by title I of div. B of Pub. L. 104–208, Sept. 30, 1996, 110 Stat. 3009–523, known as the Opal Creek Wilderness and Opal Creek Scenic Recreation Area Act of 1996.
 

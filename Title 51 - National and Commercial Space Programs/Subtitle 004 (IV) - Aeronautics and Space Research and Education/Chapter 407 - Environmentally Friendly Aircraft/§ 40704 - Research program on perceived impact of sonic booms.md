@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment.—The Administrator shall establish a cooperative research program with industry, including the conduct of flight demonstrations in a relevant environment, to collect data on the perceived impact of sonicbooms. The data could enable the promulgation of appropriate standards for overland commercial supersonic flight operations.
+Establishment.—The Administrator shall establish a cooperative research program with industry, including the conduct of flight demonstrations in a relevant environment, to collect data on the perceived impact of sonic booms. The data could enable the promulgation of appropriate standards for overland commercial supersonic flight operations.
 
 (b)
 

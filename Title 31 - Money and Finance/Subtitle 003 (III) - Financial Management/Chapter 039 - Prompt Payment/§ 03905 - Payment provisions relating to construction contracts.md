@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(B) computed at the rate specified by section 3902(a) of this title.
 
-(c) The construction contract awarded by the agency shall further require the prime contractor to include in each of its subcontracts (for the purpose of performance of such construction contract) a provision requiring the subcontractor to include a payment clause and an interest penalty clause conforming to the standards ofsubsection (b) of this section in each of its subcontracts and to require each of its subcontractors to include such clauses in their subcontracts with each lower-tier subcontractor or supplier.
+(c) The construction contract awarded by the agency shall further require the prime contractor to include in each of its subcontracts (for the purpose of performance of such construction contract) a provision requiring the subcontractor to include a payment clause and an interest penalty clause conforming to the standards of subsection (b) of this section in each of its subcontracts and to require each of its subcontractors to include such clauses in their subcontracts with each lower-tier subcontractor or supplier.
 
 (d) The clauses required by subsections (b) and (c) of this section shall not be construed to impair the right of a prime contractor or a subcontractor at any tier to negotiate, and to include in their subcontract, provisions which—
 

@@ -298,11 +298,11 @@ Subsec. (k). Pub. L. 105–61, §518(a)(1), added subsec. (k).
 
 <b>1996</b>—Subsec. (e)(4). Pub. L. 104–208 added par. (4).
 
-<b>1992</b>—Subsecs. (b)(1), (d). Pub. L. 102–378 substituted “(p),” for “(<i>o</i>),”.
+<b>1992</b>—Subsecs. (b)(1), (d). Pub. L. 102–378 substituted “(p),” for “(o),”.
 
-<b>1990</b>—Subsecs. (b)(1), (d). Pub. L. 101–428 substituted “(n), (<i>o</i>), and (q)” for “(n), and (<i>o</i>)”.
+<b>1990</b>—Subsecs. (b)(1), (d). Pub. L. 101–428 substituted “(n), (o), and (q)” for “(n), and (o)”.
 
-<b>1986</b>—Subsecs. (b)(1), (d). Pub. L. 99–272 substituted “, (n) and (<i>o</i>)” for “and (n)” in subsec. (b)(1), and “(n), and (<i>o</i>)” for “and (n)” in subsec. (d).
+<b>1986</b>—Subsecs. (b)(1), (d). Pub. L. 99–272 substituted “, (n) and (o)” for “and (n)” in subsec. (b)(1), and “(n), and (o)” for “and (n)” in subsec. (d).
 
 Subsec. (e). Pub. L. 99–251, §205, added par. (1), redesignated existing pars. (1) and (2) as (2) and (3), respectively, and in par. (2) as redesignated substituted “that surviving child” for “each surviving child” in two places.
 
@@ -314,7 +314,7 @@ Subsec. (h)(4)(A). Pub. L. 99–251, §207, inserted “or death” after “ret
 
 Subsec. (b)(1). Pub. L. 98–615, §2(4)(B)(i), substituted “by a widow or widower, the widow or widower is entitled to an annuity equal to 55 percent (or 50 percent ifretired before October 11, 1962)” for “by a spouse to whom he was married at the time of retirement, or by a widow or widower whom he married after retirement, the spouse, widow, or widower is entitled to an annuity equal to 55 percent, or 50 percent if retired before October 11, 1962” and “section 8339(j)(1) of this title, unless the right to a survivor annuity was waived under such section 8339(j)(1) or, in the case of remarriage, the employee or Member did not file an election under section 8339(j)(5)(C) or section 8339(k)(2) of this title, as the case may be” for “section 8339(j) of this title, unless the employee or Member has notified the Office in writing at the time of retirement that he does not desire any spouse surviving him to receive his annuity, or in the case of remarriage, he did not file an election under the third sentence of section 8339(j) of this title”.
 
-Pub. L. 98–353 substituted “and (n)” for “and (<i>o</i>)”.
+Pub. L. 98–353 substituted “and (n)” for “and (o)”.
 
 Subsec. (b)(3). Pub. L. 98–615, §2(4)(B)(ii), substituted “widow or widower” for “spouse, widow, or widower” wherever appearing in provisions preceding subpar. (A).
 
@@ -324,7 +324,7 @@ Subsec. (b)(4). Pub. L. 98–615, §2(4)(B)(iv), added par. (4).
 
 Subsec. (d). Pub. L. 98–615, §2(4)(C)(i), inserted provision that the annuity payable under this subsection to the widow or widower of an employee or Member may not exceed the difference between the amount which would otherwise be payable to such widow or widower under this subsection and the amount of the survivor annuity payable to any former spouse of such employee or Member under subsec. (h).
 
-Pub. L. 98–353 substituted “and (n)” for “and (<i>o</i>)”.
+Pub. L. 98–353 substituted “and (n)” for “and (o)”.
 
 Subsec. (d)(i). Pub. L. 98–615, §2(4)(C)(ii), redesignated subpar. (A) as cl. (i).
 
@@ -348,13 +348,13 @@ Subsec. (a)(4). Pub. L. 96–179, §1(3), redesignated former par. (3) as (4), s
 
 <b>1978</b>—Subsec. (a)(3). Pub. L. 95–454, §906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
 
-Subsec. (b)(1). Pub. L. 95–598, §338(c)(1), inserted reference to subsec. (<i>o</i>) of section 8339 of this title.
+Subsec. (b)(1). Pub. L. 95–598, §338(c)(1), inserted reference to subsec. (o) of section 8339 of this title.
 
 Pub. L. 95–454, §906(a)(3), substituted “Office” for “Commission”.
 
 Pub. L. 95–317 inserted provisions relating to failure to file an election under section 8339(j) of this title in the case of remarriage.
 
-Subsec. (d). Pub. L. 95–598, §338(c)(2), inserted reference to subsec. (<i>o</i>) of section 8339 of this title.
+Subsec. (d). Pub. L. 95–598, §338(c)(2), inserted reference to subsec. (o) of section 8339 of this title.
 
 Subsec. (f)(2). Pub. L. 95–454, §906(a)(3), substituted “Office” for “Commission”.
 

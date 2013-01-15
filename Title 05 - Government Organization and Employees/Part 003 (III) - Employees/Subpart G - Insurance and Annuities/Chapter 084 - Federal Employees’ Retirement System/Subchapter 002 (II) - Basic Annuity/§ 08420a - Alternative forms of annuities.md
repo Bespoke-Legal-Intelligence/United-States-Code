@@ -1,6 +1,6 @@
 ### §8420a. Alternative forms of annuities
 
-(a) The Office shall prescribe regulations under which any employee or Member who has a life-threatening affliction or other critical medical condition may, at the time of retiring under this subchapter, elect annuity benefits under this section instead of any other benefits under this subchapter, and any benefits under subchapter IV of this chapter, based on the service of the employee or Member.
+(a) The Office shall prescribe regulations under which any employee or Member who has a life-threatening affliction or other critical medical condition may, at the time of retiring under this subchapter, elect annuity benefits under this section instead of any other benefits underthis subchapter, and any benefits under subchapter IV of this chapter, based on the service of the employee or Member.
 
 (b) Subject to subsection (c), the Office shall by regulation provide for such alternative forms of annuities as the Office considers appropriate, except that among the alternatives offered shall be—
 

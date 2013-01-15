@@ -192,7 +192,7 @@ Shortage category positions.—For purposes of sections 3304, 5333, and 5753 of 
 
 &emsp;(2)
 
-Termination of authority.—The head of a department or agency may not appoint an individual to a position of employment under this subsection after September 30, 2012.
+Termination of authority.—The head of a department or agency may not appoint an individual to a position of employment under this subsection after September 30, 2017.
 
 (k)
 
@@ -224,11 +224,11 @@ Reporting requirement.—The Administrator shall submit annually to the Committe
 
 Sunset provision.—The authority under this subsection expires on December 31, 2011.
 
-(<i>l</i>)
+(l)
 
 Acquisition Internship and Training Programs.—All Federal civilian agency acquisition internship or acquisition training programs shall follow guidelines provided by the Office of Federal Procurement Policy to ensure consistent training standards necessary to develop uniform core competencies throughout the Federal Government.
 
-(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3702; Pub. L. 112–74, div. C, title V, §526, Dec. 23, 2011, 125 Stat. 914; Pub. L. 112–81, div. A, title VIII, §864(c), (d), Dec. 31, 2011, 125 Stat. 1525.)
+(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3702; Pub. L. 112–74, div. C, title V, §526, Dec. 23, 2011, 125 Stat. 914; Pub. L. 112–81, div. A, title VIII, §864(c), (d), Dec. 31, 2011, 125 Stat. 1525; Pub. L. 112–239, div. A, title X, §1076(a)(15), title XI, §1103, Jan. 2, 2013, 126 Stat. 1948, 1973.)
 
 Historical and Revision Notes
 
@@ -326,15 +326,23 @@ Section 5051(c) of the Federal Acquisition Streamlining Act of 1994, referred to
 
 #### Amendments
 
+<b>2013</b>—Subsec. (i)(6). Pub. L. 112–239, §1076(a)(15), amended Pub. L. 112–81, §864(d)(2). See 2011 Amendment note below.
+
+Subsec. (j)(2). Pub. L. 112–239, §1103, substituted “September 30, 2017” for “September 30, 2012”.
+
 <b>2011</b>—Subsec. (c)(2). Pub. L. 112–81, §864(c)(1), designated existing provisions as subpar. (A), inserted subpar. heading, and added subpar. (B).
 
-Subsec. (i)(2). Pub. L. 112–81, §864(d)(1), substituted “to support the activities set forth in section 1201(a) of this title” for “to support the training of the acquisition workforce of the executive agencies”.
+Subsec. (i)(2). Pub. L. 112–81, §864(d)(1), substituted “to support the activities set forth in section 1201(a) ofthis title” for “to support the training of the acquisition workforce of the executive agencies”.
 
-Subsec. (i)(6). Pub. L. 112–81, §864(d)(2), substituted “ensure that amounts collected under this section are not used for a purpose other than the activities set forth in section 1201(a) of this title” for “ensure that amounts collected for training under this subsection are not used for a purpose other than the purpose specified in paragraph (2)”.
+Subsec. (i)(6). Pub. L. 112–81, §864(d)(2), as amended by Pub. L. 112–239, §1076(a)(15), substituted “ensure that amounts collected under this section are not used for a purpose other than the activities set forth in section 1201(a) of this title.” for “ensure that amounts collected under this subsection are not used for a purpose other than the purpose specified in subparagraphs (A) and (C) to (J) of section 1122(a)(5) of this title.”
 
-Pub. L. 112–74, which directed amendment of par. (6) by striking out “for training” after “amounts collected” and substituting “subparagraphs (A) and (C) to (J) of section 1122(a)(5) of this title” for “paragraph (2)”, was not executed to reflect the probable intent of Congress and the subsequent amendment by Pub. L. 112–81, §864(d)(2). See above.
+Pub. L. 112–74 struck out “for training” after “amounts collected” and substituted “subparagraphs (A) and (C) to (J) of section 1122(a)(5) of this title” for “paragraph (2)”.
 
-Subsec. (<i>l</i>). Pub. L. 112–81, §864(c)(2), added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 112–81, §864(c)(2), added subsec. (l).
+
+#### Effective Date of 2013 Amendment
+
+Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(15) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
 
 #### Training for Contracting and Enforcement Personnel
 

@@ -20,7 +20,13 @@ There are hereby appropriated to the Leaking Underground Storage Tank Trust Fund
 
 #### (c) Expenditures
 
-Amounts in the Leaking Underground Storage Tank Trust Fund shall be available, as provided in appropriation Acts, only for purposes of making expenditures to carry out sections 9003(h), 9003(i), 9003(j), 9004(f), 9005(c), 9010, 9011, 9012, and 9013 of the Solid Waste Disposal Act as in effect on the date of the enactment of the <sup>1</sup> Public Law 109–168.
+#### (1) In general
+
+&emsp;Except as provided in paragraph (2), amounts in the Leaking Underground Storage Tank Trust Fund shall be available, as provided in appropriation Acts, only for purposes of making expenditures to carry out sections 9003(h), 9003(i), 9003(j), 9004(f), 9005(c), 9010, 9011, 9012, and 9013 of the Solid Waste Disposal Act as in effect on the date of the enactment of the <sup>1</sup> Public Law 109–168.
+
+#### (2) Transfer to Highway Trust Fund
+
+&emsp;Out of amounts in the Leaking Underground Storage Tank Trust Fund there is hereby appropriated $2,400,000,000 to be transferred under section 9503(f)(3) to the Highway Account (as defined in section 9503(e)(5)(B)) in the Highway Trust Fund.
 
 #### (d) Liability of the United States limited to amount in Trust Fund
 
@@ -44,17 +50,17 @@ Amounts in the Leaking Underground Storage Tank Trust Fund shall be available, a
 
 &emsp;&emsp;(A) any provision of law which is not contained or referenced in this title or in a revenue Act, and
 
-&emsp;&emsp;(B) whether such provision of law is a subsequently enacted provision or directly or indirectly seeks to waive the application of this paragraph.
+&emsp;&emsp;(B) whether such provision of law is a subsequently enacted provision or directly orindirectly seeks to waive the application of this paragraph.
 
 #### (2) Exception for prior obligations
 
-&emsp;Paragraph (1) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before April 1, 2012, in accordance with the provisions of this section.
+&emsp;Paragraph (1) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before October 1, 2014, in accordance with the provisions of this section.
 
-(Added Pub. L. 99–499, title V, §522(a), Oct. 17, 1986, 100 Stat. 1780; amended Pub. L. 100–203, title X, §10502(d)(16), (17), Dec. 22, 1987, 101 Stat. 1330–445; Pub. L. 101–239, title VII, §7822(b)(7), Dec. 19, 1989, 103 Stat. 2425; Pub. L. 103–66, title XIII, §§13163(c), 13242(d)(42), Aug. 10, 1993, 107 Stat. 454, 528; Pub. L. 105–34, title X, §1032(e)(13), Aug. 5, 1997, 111 Stat. 935; Pub. L. 108–357, title VIII, §853(d)(2)(P), (Q), Oct. 22, 2004, 118 Stat. 1614; Pub. L. 109–58, title XIII, §1362(c), Aug. 8, 2005, 119 Stat. 1059; Pub. L. 109–59, title XI, §11147(a), Aug. 10, 2005, 119 Stat. 1967; Pub. L. 109–432, div. A, title II, §210(a), Dec. 20, 2006, 120 Stat. 2947; Pub. L. 109–433, §1(a), Dec. 20, 2006, 120 Stat. 3196; Pub. L. 112–30, title I, §141(c), Sept. 16, 2011, 125 Stat. 355.)
+(Added Pub. L. 99–499, title V, §522(a), Oct. 17, 1986, 100 Stat. 1780; amended Pub. L. 100–203, title X, §10502(d)(16), (17), Dec. 22, 1987, 101 Stat. 1330–445; Pub. L. 101–239, title VII, §7822(b)(7), Dec. 19, 1989, 103 Stat. 2425; Pub. L. 103–66, title XIII, §§13163(c), 13242(d)(42), Aug. 10, 1993, 107 Stat. 454, 528; Pub. L. 105–34, title X, §1032(e)(13), Aug. 5, 1997, 111 Stat. 935; Pub. L. 108–357, title VIII, §853(d)(2)(P), (Q), Oct. 22, 2004, 118 Stat. 1614; Pub. L. 109–58, title XIII, §1362(c), Aug. 8, 2005, 119 Stat. 1059; Pub. L. 109–59, title XI, §11147(a), Aug. 10, 2005, 119 Stat. 1967; Pub. L. 109–432, div. A, title II, §210(a), Dec. 20, 2006, 120 Stat. 2947; Pub. L. 109–433, §1(a), Dec. 20, 2006, 120 Stat. 3196; Pub. L. 112–30, title I, §141(c), Sept. 16, 2011, 125 Stat. 355; Pub. L. 112–102, title IV, §401(c), Mar. 30, 2012, 126 Stat. 281; Pub. L. 112–140, title IV, §401(c), June 29, 2012, 126 Stat. 402; Pub. L. 112–141, div. D, title I, §40101(c), title II, §40201(a), July 6, 2012, 126 Stat. 844, 846.)
 
 #### References in Text
 
-Sections 9003 to 9005 and 9010 to 9013 of the Solid Waste Disposal Act, referred to in subsecs. (b)(4) and (c), are classified to sections 6991b to 6991d and 6991i to 6991<i>l</i>, respectively, of Title 42, The Public Health and Welfare.
+Sections 9003 to 9005 and 9010 to 9013 of the Solid Waste Disposal Act, referred to in subsecs. (b)(4) and (c), are classified to sections 6991b to 6991d and 6991i to 6991l, respectively, of Title 42, The Public Health and Welfare.
 
 The date of the enactment of Public Law 109–168, referred to in subsec. (c), is Jan. 10, 2006.
 
@@ -63,6 +69,14 @@ The Comprehensive Environmental Response, Compensation, and Liability Act of 198
 The Superfund Amendments and Reauthorization Act of 1986, referred to in subsec. (d)(2), is Pub. L. 99–499, Oct. 17, 1986, 100 Stat. 1613. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under section 9601 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (c). Pub. L. 112–141, §40201(a), inserted par. (1) designation and heading, substituted “Except as provided in paragraph (2), amounts” for “Amounts”, and added par. (2).
+
+Subsec. (e)(2). Pub. L. 112–141, §40101(c), substituted “October 1, 2014” for “July 1, 2012”.
+
+Pub. L. 112–140, §§1(c), 401(c), temporarily substituted “July 7, 2012” for “July 1, 2012”. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102 substituted “July 1, 2012” for “April 1, 2012”.
 
 <b>2011</b>—Subsec. (e)(2). Pub. L. 112–30 substituted “April 1, 2012” for “October 1, 2011”.
 
@@ -94,6 +108,16 @@ Subsec. (b)(3). Pub. L. 103–66, §13242(d)(42)(B), struck out “diesel fuel a
 
 Subsec. (c)(2)(A). Pub. L. 100–203, §10502(d)(17), added cl. (ii) and closing provisions, and struck out former cl. (ii) which read as follows: “credits allowed under section 34, with respect to the taxes imposed by sections 4041(d) and 4081 (to the extent attributable to the Leaking Underground Storage Tank Trust Fund financing rate under section 4081).”
 
+#### Effective and Termination Dates of 2012 Amendment
+
+Amendment by section 40101(c) of Pub. L. 112–141 effective July 1, 2012, see section 40101(d) of Pub. L. 112–141, set out as a note under section 9503 of this title.
+
+Amendment by Pub. L. 112–140 to cease to be effective on July 6, 2012, with text as amended by Pub. L. 112–140 to revert back to read as it did on the day before June 29, 2012, and amendments by Pub. L. 112–141 to be executed as if Pub. L. 112–140 had not been enacted, see section 1(c) of Pub. L. 112–140, set out as a note under section 101 of Title 23, Highways.
+
+Amendment by Pub. L. 112–140 effective July 1, 2012, see section 401(d) of Pub. L. 112–140, set out as a note under section 9503 of this title.
+
+Amendment by Pub. L. 112–102 effective Apr. 1, 2012, see section 401(d) of Pub. L. 112–102, set out as a note under section 9503 of this title.
+
 #### Effective Date of 2011 Amendment
 
 Amendment by Pub. L. 112–30 effective Oct. 1, 2011, see section 141(d) of Pub. L. 112–30, set out as a note under section 9503 of this title.
@@ -102,7 +126,7 @@ Amendment by Pub. L. 112–30 effective Oct. 1, 2011, see section 141(d) of Pub.
 
 Pub. L. 109–433, §1(c), Dec. 20, 2006, 120 Stat. 3196, provided that: “The amendments made by this section \[amending this section and section 6991m of Title 42, The Public Health and Welfare\] shall take effect on the date of the enactment of this Act \[Dec. 20, 2006\].”
 
-Pub. L. 109–432, div. A, title II, §210(c), Dec. 20, 2006, 120 Stat. 2947, provided that: “The amendments made by this section \[amending this section and section 6991m of Title 42, The Public Health and Welfare\] shall take effect on the date of the enactment of this Act \[Dec. 20, 2006\].”
+Pub. L. 109–432, div. A, title II, §210(c), Dec. 20, 2006, 120 Stat. 2947, provided that: “The amendments made by this section \[amending this section and section6991m of Title 42, The Public Health and Welfare\] shall take effect on the date of the enactment of this Act \[Dec. 20, 2006\].”
 
 #### Effective Date of 2005 Amendments
 
@@ -134,7 +158,7 @@ Amendment by section 10502(d)(17) of Pub. L. 100–203 treated as if included in
 
 #### Effective Date
 
-Section 522(c) of Pub. L. 99–499 provided that: “The amendments made by this section \[enacting this section\] shall take effect on January 1, 1987.”
+Pub. L. 99–499, title V, §522(c), Oct. 17, 1986, 100 Stat. 1781, provided that: “The amendments made by this section \[enacting this section\] shall take effect on January 1, 1987.”
 
 #### Construction of Amendment by Pub. L. 109–433
 

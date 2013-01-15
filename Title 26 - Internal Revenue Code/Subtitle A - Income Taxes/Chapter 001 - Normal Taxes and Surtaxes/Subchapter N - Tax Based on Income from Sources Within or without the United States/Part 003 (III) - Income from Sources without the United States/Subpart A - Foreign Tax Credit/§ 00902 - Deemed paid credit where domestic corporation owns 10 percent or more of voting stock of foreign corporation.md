@@ -138,7 +138,7 @@ Subsec. (c)(3)(B). Pub. L. 105–34, §1113(a)(2)(A), inserted “or” at end o
 
 “(ii) the requirements of subsection (b)(3)(A) are met with respect to such foreign corporation and 10 percent or more of the voting stock of such foreign corporation is owned by another foreign corporation described in clause (i), or
 
-“(iii) the requirements of subsection (b)(3)(B) are met with respect to such foreign corporation and 10 percentor more of the voting stock of such foreign corporation is owned by another foreign corporation described in clause (ii).”
+“(iii) the requirements of subsection (b)(3)(B) are met with respect to such foreign corporation and 10 percent or more of the voting stock of such foreign corporation is owned by another foreign corporation described in clause (ii).”
 
 Subsec. (c)(4)(B). Pub. L. 105–34, §1113(a)(2)(B), substituted “sixth tier foreign corporation” for “3rd foreign corporation”.
 
@@ -150,7 +150,7 @@ Subsec. (c)(7). Pub. L. 100–647, §1012(b)(1), substituted “section 960” f
 
 <b>1976</b>—Pub. L. 94–455, §1033(a), struck out provisions by which dividends from less developed country corporations are not grossed-up by the amount of foreign taxes paid on the underlying income and the deemed-paid foreign tax credits attributable to those dividends are reduced proportionately, struck out subsec. (d) which defined less developed country corporations, and redesignated subsec. (e) as (d).
 
-<b>1975</b>—Subsec. (d). Pub. L. 94–12 substituted “paragraph (3) or (4)”, “paragraph (3)”, “paragraph (3)(A)”, and “paragraph (3)(B)” for “section 955(c)(1) or (2)”, “section 955(c)(1)”, “section 955(c)(1)(A)”, and “section 955(c)(1)(B)”, respectively, in existing provisions and added pars. (3), (4), and (5) and provisions following par. (5).
+<b>1975</b>—Subsec. (d). Pub. L. 94–12 substituted “paragraph (3) or (4)”, “paragraph (3)”, “paragraph (3)(A)”, and “paragraph (3)(B)” for “section 955(c)(1) or (2)”, “section 955(c)(1)”, “section 955(c)(1)(A)”, and “section955(c)(1)(B)”, respectively, in existing provisions and added pars. (3), (4), and (5) and provisions following par. (5).
 
 <b>1971</b>—Subsec. (b). Pub. L. 91–684, §1, substituted “Foreign subsidiary of first and second foreign corporation” for “Foreign subsidiary of foreign corporation” in heading, designated existing provisions as par. (1) and inserted terminology denominating corporations involved as first foreign corporation and second foreign corporation, and reduced the ownership percentage requirement in voting stock from 50 percent to 10 percent between the first and second foreign corporations, and added pars. (2) and (3).
 
@@ -182,7 +182,7 @@ Amendment by Pub. L. 108–357 applicable to taxes of foreign corporations for t
 
 #### Effective Date of 1997 Amendment
 
-Section 1113(c) of Pub. L. 105–34 provided that:
+Pub. L. 105–34, title XI, §1113(c), Aug. 5, 1997, 111 Stat. 971, provided that:
 
 “(1)
 
@@ -192,7 +192,7 @@ In general.—The amendments made by this section \[amending this section and se
 
 Special rule.—In the case of any chain of foreign corporations described in clauses (i) and (ii) of section 902(b)(2)(B) of the Internal Revenue Code of 1986 (as amended by this section), no liquidation, reorganization, or similar transaction in a taxable year beginning after the date of the enactment of this Act shall have the effect of permitting taxes to be taken into account under section 902 of the Internal Revenue Code of 1986 which could not have been taken into account under such section but for such transaction.”
 
-Section 1163(c) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section and section 904 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title XI, §1163(c), Aug. 5, 1997, 111 Stat. 987, provided that: “The amendments made by this section \[amending this section and section 904 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 #### Effective Date of 1988 Amendment
 
@@ -200,11 +200,11 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Section 1202(e) of Pub. L. 99–514 provided that: “The amendments made by this section \[amending this section and sections 960 and 6038 of this title\] shall apply to distributions by foreign corporations out of, and to inclusions under section 951(a) of the Internal Revenue Code of 1986 attributable to, earnings and profits for taxable years beginning after December 31, 1986.”
+Pub. L. 99–514, title XII, §1202(e), Oct. 22, 1986, 100 Stat. 2531, provided that: “The amendments made by this section \[amending this section and sections 960 and 6038 of this title\] shall apply to distributions by foreign corporations out of, and to inclusions under section 951(a) of the Internal Revenue Code of 1986 attributable to, earnings and profits for taxable years beginning after December 31, 1986.”
 
 #### Effective Date of 1976 Amendment
 
-Section 1033(c) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[amending this section and sections 78, 535, 545, and 960 of this title\] shall apply—
+Pub. L. 94–455, title X, §1033(c), Oct. 4, 1976, 90 Stat. 1628, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[amending this section and sections 78, 535, 545, and 960 of this title\] shall apply—
 
 &emsp;“(1) in respect of any distribution received by a domestic corporation after December 31, 1977, and
 
@@ -214,15 +214,15 @@ Section 1033(c) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 2
 
 #### Effective Date of 1975 Amendment
 
-Amendment by Pub. L. 94–12 applicable to taxable years of foreign corporations beginning after Dec. 31, 1975, and to taxable years of United States shareholders (within the meaning of section 951(b) of this title) within which or with which such taxable years of such foreign corporations end, see section 602(f) of Pub. L. 94–12, set out as an Effective Date note under section 955 of this title.
+Amendment by Pub. L. 94–12 applicable to taxable years of foreign corporations beginning after Dec. 31,1975, and to taxable years of United States shareholders (within the meaning of section 951(b) of this title) within which or with which such taxable years of such foreign corporations end, see section 602(f) of Pub. L. 94–12, set out as an Effective Date note under section 955 of this title.
 
 #### Effective Date of 1971 Amendment
 
-Section 3 of Pub. L. 91–684 provided that: “The amendments made by this Act \[amending this section\] shall apply with respect to all taxable years of domestic corporations, ending after the date of enactment of this Act \[Jan. 12, 1971\], but only in respect of dividends paid by one corporation to another corporation after the date of the enactment of this Act.”
+Pub. L. 91–684, §3, Jan. 12, 1971, 84 Stat. 2069, provided that: “The amendments made by this Act \[amending this section\] shall apply with respect to all taxable years of domestic corporations, ending after the date of enactment of this Act \[Jan. 12, 1971\], but only in respect of dividends paid by one corporation to another corporation after the date of the enactment of this Act.”
 
 #### Effective Date of 1962 Amendment
 
-Section 9(e) of Pub. L. 87–834 provided that: “The amendments made by this section \[enacting section 78 of this title and amending this section and sections 535, 545, 861, and 901 of this title\] shall apply—
+Pub. L. 87–834, §9(e), Oct. 16, 1962, 76 Stat. 1001, provided that: “The amendments made by this section \[enacting section 78 of this title and amending this section and sections 535, 545, 861, and 901 of this title\] shall apply—
 
 &emsp;“(1) in respect of any distribution received by a domestic corporation after December 31, 1964, and
 
@@ -236,5 +236,5 @@ Amendment by Pub. L. 86–780 applicable to taxable years beginning after Dec. 3
 
 #### Increase in Earnings and Profits of Foreign Corporations Under Section 1023(e)(3)(C) of Pub. L. 99–514
 
-Section 1012(b)(3) of Pub. L. 100–647 provided that: “For purposes of sections 902 and 960 of the 1986 Code, the increase in earnings and profits of any foreign corporation under section 1023(e)(3)(C) of the Reform Act \[Pub. L. 99–514, set out as an Effective Date note under section 846 of this title\] shall be taken into account ratably over the 10-year period beginning with the corporation's first taxable year beginning after December 31, 1986.”
+Pub. L. 100–647, title I, §1012(b)(3), Nov. 10, 1988, 102 Stat. 3496, provided that: “For purposes of sections 902 and 960 of the 1986 Code, the increase in earnings and profits of any foreign corporation under section 1023(e)(3)(C) of the Reform Act \[Pub. L. 99–514, set out as an Effective Date note under section 846 of this title\] shall be taken into account ratably over the 10-year period beginning with the corporation's first taxable year beginning after December 31, 1986.”
 

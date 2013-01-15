@@ -28,7 +28,7 @@ Except as authorized by the Secretary by regulations, no fiduciary may maintain 
 
 &emsp;(i) such participant or beneficiary shall not be deemed to be a fiduciary by reason of such exercise, and
 
-&emsp;(ii) no person who is otherwise a fiduciary shall be liable under this part for any loss, or by reason of any breach, which results from such participant's or beneficiary's exercise of control, except that this clause shall not apply in connection with such participant or beneficiary for any blackout period during which the ability of such participant or beneficiary to direct the investment of the assets in his orher account is suspended by a plan sponsor or fiduciary.
+&emsp;(ii) no person who is otherwise a fiduciary shall be liable under this part for any loss, or by reason of any breach, which results from such participant's or beneficiary's exercise of control, except that this clause shall not apply in connection with such participant or beneficiary for any blackout period during which the ability of such participant or beneficiary to direct the investment of the assets in his or her account is suspended by a plan sponsor or fiduciary.
 
 (B) If a person referred to in subparagraph (A)(ii) meets the requirements of this subchapter in connection with authorizing and implementing the blackout period, any person who is otherwise a fiduciary shall not be liable under this subchapter for any loss occurring during such period.
 
@@ -96,7 +96,7 @@ Form of notice.—The requirements of clauses (i) and (ii) of section 401(k)(12)
 
 #### (d) Plan terminations
 
-(1) If, in connection with the termination of a pension plan which is a single-employer plan,there is an election to establish or maintain a qualified replacement plan, or to increase benefits, as provided under section 4980(d) of title 26, a fiduciary shall discharge the fiduciary's duties under this subchapter and subchapter III of this chapter in accordance with the following requirements:
+(1) If, in connection with the termination of a pension plan which is a single-employer plan, there is an election to establish or maintain a qualified replacement plan, or to increase benefits, as provided under section 4980(d) of title 26, a fiduciary shall discharge the fiduciary's duties under this subchapter and subchapter III of this chapter in accordance with the following requirements:
 
 &emsp;(A) In the case of a fiduciary of the terminated plan, any requirement—
 
@@ -196,7 +196,7 @@ Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 applicable to reversions occurring after Sept. 30, 1990, but not applicableto any reversion after Sept. 30, 1990, if (1) in the case of plans subject to subchapter III of this chapter, notice of intent to terminate under such subchapter was provided to participants (or if no participants, to Pension Benefit Guaranty Corporation) before Oct. 1, 1990, (2) in the case of plans subject to subchapter I of this chapter (and not subchapter III), notice of intent to reduce future accruals under section 1054(h) of this title was provided to participants in connection with termination before Oct. 1, 1990, (3) in the case of plans not subject to subchapter I or III of this chapter, a request for a determination letter with respect to termination was filed with Secretary of the Treasury or Secretary's delegate before Oct. 1, 1990, or (4) in the case of plans not subject to subchapter I or III of this chapter and having only one participant, a resolution terminating the plan was adopted by employer before Oct. 1, 1990, see section 12003 of Pub. L. 101–508, set out as a note under section 4980 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 101–508 applicable to reversions occurring after Sept. 30, 1990, but not applicable to any reversion after Sept. 30, 1990, if (1) in the case of plans subject to subchapter III of this chapter, notice of intent to terminate under such subchapter was provided to participants (or if no participants, to Pension Benefit Guaranty Corporation) before Oct. 1, 1990, (2) in the case of plans subject to subchapter I of this chapter (and not subchapter III), notice of intent to reduce future accruals under section 1054(h) of this title was provided to participants in connection with termination before Oct. 1, 1990, (3) in the case of plans not subject to subchapter I or III of this chapter, a request for a determination letter with respect to termination was filed with Secretary of the Treasury or Secretary's delegate before Oct. 1, 1990, or (4) in the case of plans not subject to subchapter I or III of this chapter and having only one participant, a resolution terminating the plan was adopted by employer before Oct. 1, 1990, see section 12003 of Pub. L. 101–508, set out as a note under section 4980 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1980 Amendment
 

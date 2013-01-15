@@ -10,7 +10,7 @@ The Under Secretary for Science and Technology, acting through the Director of t
 
 &emsp;&emsp;(A) supporting research on a competitive basis, including through the Directorate of Science and Technology and Homeland Security Advanced Research Projects Agency; and
 
-&emsp;&emsp;(B) considering the establishment of a Center of Excellence under the Department ofHomeland Security Centers of Excellence Program focused on improving emergency response providers’ communication capabilities.
+&emsp;&emsp;(B) considering the establishment of a Center of Excellence under the Department of Homeland Security Centers of Excellence Program focused on improving emergency response providers’ communication capabilities.
 
 #### (b) Purposes
 

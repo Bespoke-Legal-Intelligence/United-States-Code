@@ -8,5 +8,5 @@ Section 1853, act July 26, 1954, ch. 576, §4, as added Aug. 21, 1974, Pub. L. 9
 
 #### Effective Date of Repeal
 
-Section 301(b)(2) of Pub. L. 95–561 provided that the repeal is effective Sept. 30, 1979.
+Pub. L. 95–561, title III, §301(b)(2), Nov. 1, 1978, 92 Stat. 2228, provided that the repeal is effective Sept. 30, 1979.
 

@@ -22,7 +22,7 @@ In support of its responsibilities under subsection (b) of this section, the Off
 
 #### (d) Outreach
 
-The Office of Pest Management Policy shall consult with agricultural producers that may beaffected by pest management or pesticide-related activities or actions of the Department or other agencies as necessary in carrying out the Office's responsibilities under this section.
+The Office of Pest Management Policy shall consult with agricultural producers that may be affected by pest management or pesticide-related activities or actions of the Department or other agencies as necessary in carrying out the Office's responsibilities under this section.
 
 #### (e) Director
 

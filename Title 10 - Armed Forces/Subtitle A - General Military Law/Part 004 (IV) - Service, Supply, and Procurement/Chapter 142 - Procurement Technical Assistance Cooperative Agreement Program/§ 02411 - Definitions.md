@@ -10,7 +10,7 @@ In this chapter:
 
 &emsp;&emsp;(C) A private, nonprofit organization.
 
-&emsp;&emsp;(D) A tribal organization, as defined in section 4(<i>l</i>) of the Indian Self-Determination and Education Assistance Act (Public Law 93–638; 25 U.S.C. 450b(<i>l</i>)), or an economic enterprise, as defined in section 3(e) of the Indian Financing Act of 1974 (Public Law 93–262; 25 U.S.C. 1452(e)), whether or not such economic enterprise is organized for profit purposes or nonprofit purposes.
+&emsp;&emsp;(D) A tribal organization, as defined in section 4(l) of the Indian Self-Determination and Education Assistance Act (Public Law 93–638; 25 U.S.C. 450b(l)), or an economic enterprise, as defined in section 3(e) of the Indian Financing Act of 1974 (Public Law 93–262; 25 U.S.C. 1452(e)), whether or not such economic enterprise is organized for profit purposes or nonprofit purposes.
 
 &emsp;(2) The term “distressed area” means—
 
@@ -36,9 +36,9 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 <b>1992</b>—Par. (1)(D). Pub. L. 102–484 substituted “organized for profit purposes or nonprofit purposes” for “organized for-profit, or nonprofit purposes”.
 
-<b>1991</b>—Par. (1)(D). Pub. L. 102–25, which directed the substitution of “for profit purposes or nonprofit” for “for-profit and nonprofit”, could not be executed because the words “for-profit and nonprofit” did not appear.
+<b>1991</b>—Par. (1)(D). Pub. L. 102–25, which directed the substitution of “for profit purposes or nonprofit” for“for-profit and nonprofit”, could not be executed because the words “for-profit and nonprofit” did not appear.
 
-<b>1989</b>—Par. (1)(D). Pub. L. 101–189 substituted “section 4(<i>l</i>)” for “section 4(c)” and “25 U.S.C. 450b(<i>l</i>)” for “25 U.S.C. 450(c)”.
+<b>1989</b>—Par. (1)(D). Pub. L. 101–189 substituted “section 4(l)” for “section 4(c)” and “25 U.S.C. 450b(l)” for “25 U.S.C. 450(c)”.
 
 <b>1988</b>—Par. (1)(D). Pub. L. 100–456 inserted “, whether or not such economic enterprise is organized for-profit, or nonprofit purposes” before period at end.
 
@@ -56,5 +56,5 @@ Par. (2). Pub. L. 100–180, §807(b)(2), substituted “means—” for “mean
 
 #### Effective Date of 1985 Amendment
 
-Section 919(d) of Pub. L. 99–145 provided that: “The amendments made by subsections (a) and (b) \[amending this section and sections 2412 to 2415 of this title\] shall take effect on October 1, 1985.”
+Pub. L. 99–145, title IX, §919(d), Nov. 8, 1985, 99 Stat. 693, provided that: “The amendments made by subsections (a) and (b) \[amending this section and sections 2412 to 2415 of this title\] shall take effect on October 1, 1985.”
 

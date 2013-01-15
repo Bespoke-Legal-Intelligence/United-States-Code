@@ -15,13 +15,9 @@ Subpart C—Refundable Credits
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Amendment of Analysis
-
-<i>For termination of amendment by section 10909(c) of Pub. L. 111–148, see Effective and Termination Dates of 2010 Amendment note under section 1 of this title.</i>
-
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–148, title X, §10909(b)(2)(Q), (c), Mar. 23, 2010, 124 Stat. 1023, as amended by Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298, temporarily added item 36C “Adoption expenses”.
+<b>2010</b>—Pub. L. 111–148, title X, §10909(b)(2)(Q), (c), Mar. 23, 2010, 124 Stat. 1023, as amended by Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298, temporarily added item 36C “Adoption expenses”. See Effective and Termination Dates of 2010 Amendment note set out under section 1 of this title.
 
 Pub. L. 111–148, title I, §1401(d)(2), Mar. 23, 2010, 124 Stat. 220, added item 36B.
 

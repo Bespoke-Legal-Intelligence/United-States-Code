@@ -54,7 +54,7 @@ Subsec. (b)(2). Pub. L. 109–162, §106(a)(2), substituted “State, tribal, or
 
 Subsec. (c). Pub. L. 109–162, §106(a)(2), substituted “State, tribal, or territorial” for “State or tribal” in introductory provisions.
 
-Subsec. (d)(1). Pub. L. 109–162, §106(a), substituted “, Indian tribe, or territory” for “or Indian tribe” in two places and “State, tribal, or territorial” for “State or tribal”.
+Subsec. (d)(1). Pub. L. 109–162, §106(a), substituted “, Indian tribe, or territory” for “or Indian tribe” intwo places and “State, tribal, or territorial” for “State or tribal”.
 
 Subsec. (d)(2). Pub. L. 109–162, §106(a)(2), substituted “State, tribal, or territorial” for “State or tribal”.
 

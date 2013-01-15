@@ -76,7 +76,7 @@ The State educational agency may approve an application under this part for a pr
 
 #### (e) Peer review
 
-In reviewing local applications under this section, a State educational agency shall use a peerreview process or other methods of assuring the quality of such applications.
+In reviewing local applications under this section, a State educational agency shall use a peer review process or other methods of assuring the quality of such applications.
 
 #### (f) Geographic diversity
 

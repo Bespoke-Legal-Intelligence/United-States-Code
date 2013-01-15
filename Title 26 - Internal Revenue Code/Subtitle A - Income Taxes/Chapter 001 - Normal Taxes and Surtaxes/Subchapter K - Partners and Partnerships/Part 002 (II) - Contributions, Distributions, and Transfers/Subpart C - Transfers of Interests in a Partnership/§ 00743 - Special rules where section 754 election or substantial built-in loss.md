@@ -56,7 +56,7 @@ The allocation of basis among partnership properties where subsection (b) is app
 
 &emsp;&emsp;(A) the partnership makes an election to have this subsection apply,
 
-&emsp;&emsp;(B) the partnership would be an investment company under section 3(a)(1)(A) of the Investment Company Act of 1940 but for an exemption under paragraph (1) or (7) of section 3(c) of such Act,
+&emsp;&emsp;(B) the partnership would be an investment company under section 3(a)(1)(A) of theInvestment Company Act of 1940 but for an exemption under paragraph (1) or (7) of section 3(c) of such Act,
 
 &emsp;&emsp;(C) such partnership has never been engaged in a trade or business,
 

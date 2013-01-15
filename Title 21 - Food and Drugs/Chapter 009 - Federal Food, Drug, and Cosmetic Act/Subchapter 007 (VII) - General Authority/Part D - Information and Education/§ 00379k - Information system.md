@@ -18,5 +18,5 @@ Section effective 90 days after Nov. 21, 1997, except as otherwise provided, see
 
 #### Report on Status of System
 
-Section 407(b) of Pub. L. 105–115 provided that not later than 1 year after Nov. 21, 1997, Secretary of Health and Human Services was to submit report to Congress on status of system to be established under this section, including projected costs of system and concerns about confidentiality.
+Pub. L. 105–115, title IV, §407(b), Nov. 21, 1997, 111 Stat. 2370, provided that not later than 1 year after Nov. 21, 1997, Secretary of Health and Human Services was to submit report to Congress on status of system to be established under this section, including projected costs of system and concerns about confidentiality.
 

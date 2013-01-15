@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(ii) shall prescribe mileage reimbursement rates which reflect the current costs as determined by the Administrator of operating privately owned airplanes and motorcycles.
 
-&emsp;(B) At least once each year after the issuance of the regulations described in subparagraph (A) of this paragraph, the Administrator shall determine, based upon the results of the cost investigation, specific figures, each rounded to the nearest half cent, of the average, actual cost per mile during the period for the use of a privately owned airplane, automobile, and motorcycle.
+&emsp;(B) At least once each year after the issuance of the regulations described in subparagraph (A) of this paragraph, the Administrator shall determine, based upon the results of thecost investigation, specific figures, each rounded to the nearest half cent, of the average, actual cost per mile during the period for the use of a privately owned airplane, automobile, and motorcycle.
 
 &emsp;(C) The Administrator shall report the specific figures to Congress not later than five working days after the Administrator makes the cost determination. Each such report shall be printed in the Federal Register.
 
@@ -78,7 +78,7 @@ Amendment by Pub. L. 99–234 effective (1) on effective date of regulations to 
 
 #### Regulations; Time for Issuance
 
-Section 6(b) of Pub. L. 94–22 provided that regulations required under the first sentence of subsec. (b)(2) of this section, as amended by subsec. (a) of section 6 of Pub. L. 94–22, were to be issued no later than 30 days after May 19, 1975.
+Pub. L. 94–22, §6(b), May 19, 1975, 89 Stat. 86, provided that regulations required under the first sentence of subsec. (b)(2) of this section, as amended by subsec. (a) of section 6 of Pub. L. 94–22, were to be issued no later than 30 days after May 19, 1975.
 
 #### Termination of Reporting Requirements
 
@@ -148,7 +148,7 @@ Executive branch agency.—The terms ‘Executive branch agency’ and ‘Execut
 
 &emsp;“(3)
 
-International conference.—The term ‘international conference’ means any meeting held underthe auspices of an international organization or foreign government, at which representatives of more than two foreign governments are expected to be in attendance, and to which United States Executive branch agencies will send a total of ten or more representatives.
+International conference.—The term ‘international conference’ means any meeting held under the auspices of an international organization or foreign government, at which representatives of more than two foreign governments are expected to be in attendance, and to which United States Executive branch agencies will send a total of ten or more representatives.
 
 “(g)
 
@@ -164,5 +164,5 @@ Pub. L. 105–61, title VI, §635, Oct. 10, 1997, 111 Stat. 1316, provided that:
 
 #### GAO Audit of Agency Compliance
 
-Section 5(b) of Pub. L. 101–391, which provided that not later than 6 months after the last day of the first fiscal year during which lodging expenses were subject to the requirements of former subsec. (d) of this section, and not later than 6 months after the last day of every fiscal year thereafter, the Comptroller General was to conduct an audit of the compliance of agencies with the requirements of such subsection, and was to submit a report to Congress describing the results of such audit, was repealed by Pub. L. 104–201, div. A, title XVI, §1614(a)(2), Sept. 23, 1996, 110 Stat. 2739, and Pub. L. 104–316, title I, §103(f), Oct. 19, 1996, 110 Stat. 3829.
+Pub. L. 101–391, §5(b), Sept. 25, 1990, 104 Stat. 751, which provided that not later than 6 months after the last day of the first fiscal year during which lodging expenses were subject to the requirements of former subsec. (d) of this section, and not later than 6 months after the last day of every fiscal year thereafter, the Comptroller General was to conduct an audit of the compliance of agencies with the requirements of such subsection, and was to submit a report to Congress describing the results of such audit, was repealed by Pub. L. 104–201, div. A, title XVI, §1614(a)(2), Sept. 23, 1996, 110 Stat. 2739, and Pub. L. 104–316, title I, §103(f), Oct. 19, 1996, 110 Stat. 3829.
 

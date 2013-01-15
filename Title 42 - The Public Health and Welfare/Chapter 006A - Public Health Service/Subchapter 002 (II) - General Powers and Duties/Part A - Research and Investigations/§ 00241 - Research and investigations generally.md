@@ -136,7 +136,7 @@ Sections 261 and 262 of Pub. L. 95–622 provided that the amendments made by th
 
 #### Effective Date of 1974 Amendment
 
-Section 104(b) of Pub. L. 93–348 provided that: “The amendments made by subsection (a) \[amending this section and sections 242a, 282, 286a, 286b, 287a, 287b, 287d, 288a, 289c, 289c–1, 289g, 289k, and heading preceding section 289<i>l</i> of this title\] shall not apply with respect to commitments made before the date of the enactment of this Act \[July 12, 1974\] by the Secretary of Health, Education, and Welfare for research training under the provisions of the Public Health Service Act amended or repealed by subsection (a).”
+Section 104(b) of Pub. L. 93–348 provided that: “The amendments made by subsection (a) \[amending this section and sections 242a, 282, 286a, 286b, 287a, 287b, 287d, 288a, 289c, 289c–1, 289g, 289k, and heading preceding section 289l of this title\] shall not apply with respect to commitments made before the date of the enactment of this Act \[July 12, 1974\] by the Secretary of Health, Education, and Welfare for research training under the provisions of the Public Health Service Act amended or repealed by subsection (a).”
 
 #### Effective Date of 1972 Amendment
 
@@ -148,7 +148,7 @@ Amendment by Pub. L. 92–218 effective 60 days after Dec. 23, 1971, or on such 
 
 #### Coordination of Data Surveys and Reports
 
-Pub. L. 106–113, div. B, §1000(a)(6) \[title VII, §703(e)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–402, provided that: “The Secretary of Health and Human Services, through the Assistant Secretary for Planning and Evaluation,shall establish a clearinghouse for the consolidation and coordination of all Federal databases and reports regarding children's health.”
+Pub. L. 106–113, div. B, §1000(a)(6) \[title VII, §703(e)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–402, provided that: “The Secretary of Health and Human Services, through the Assistant Secretary for Planning and Evaluation, shall establish a clearinghouse for the consolidation and coordination of all Federal databases and reports regarding children's health.”
 
 #### Female Genital Mutilation
 
@@ -174,19 +174,19 @@ Pub. L. 104–134, title I, §101(d) \[title V, §520\], Apr. 26, 1996, 110 Stat
 
 #### Sentinel Disease Concept Study
 
-Section 1910 of Pub. L. 103–43 directed Secretary of Health and Human Services, in cooperation with Agency for Toxic Substances and Disease Registry and Centers for Disease Control and Prevention, to design and implement a pilot sentinel disease surveillance system for identifying relationship between occupation of household members and incidence of subsequent conditions or diseases in other members of household, and required Director of the National Institutes of Health to prepare and submit to Congress, not later than 4 years after June 10, 1993, a report concerning this project.
+Pub. L. 103–43, title XIX, §1910, June 10, 1993, 107 Stat. 205, directed Secretary of Health and Human Services, in cooperation with Agency for Toxic Substances andDisease Registry and Centers for Disease Control and Prevention, to design and implement a pilot sentinel disease surveillance system for identifying relationship between occupation of household members and incidence of subsequent conditions or diseases in other members of household, and required Director of the National Institutes of Health to prepare and submit to Congress, not later than 4 years after June 10, 1993, a report concerning this project.
 
 #### Study of Thyroid Morbidity for Hanford, Washington
 
-Section 161 of Pub. L. 100–607, as amended by Pub. L. 102–531, title III, §312(e)(1), Oct. 27, 1992, 106 Stat. 3506, directed Secretary of Health and Human Services, acting through Director of Centers for Disease Control and Prevention, to conduct a study of thyroid morbidity of the population, including Indian tribes and tribal organizations, in vicinity of Hanford, in State of Washington, authorized Director to contract out portions of study, and required Director, not later than 42 months after Nov. 4, 1988, to transmit a report, including such study, to Congress, chief executive officers of States of Oregon and Washington, and governing officials of Indian tribes in vicinity of Hanford, Washington.
+Pub. L. 100–607, title I, §161, Nov. 4, 1988, 102 Stat. 3059, as amended by Pub. L. 102–531, title III, §312(e)(1), Oct. 27, 1992, 106 Stat. 3506, directed Secretary of Health and Human Services, acting through Director of Centers for Disease Control and Prevention, to conduct a study of thyroid morbidity of the population, including Indian tribes and tribal organizations, in vicinity of Hanford, in State of Washington, authorized Director to contract out portions of study, and required Director, not later than 42 months after Nov. 4, 1988, to transmit a report, including such study, to Congress, chief executive officers of States of Oregon and Washington, and governing officials of Indian tribes in vicinity of Hanford, Washington.
 
 #### National Commission on Sleep Disorders Research
 
-Section 162 of Pub. L. 100–607 directed Secretary of Health and Human Services, after consultation with Director of National Institutes of Health, to establish a National Commission on Sleep Disorders Research to conduct a comprehensive study of present state of knowledge of incidence, prevalence, morbidity, and mortality resulting from sleep disorders, and of social and economic impact of such disorders, evaluate public and private facilities and resources (including trained personnel and research activities) available for diagnosis, prevention, and treatment of, and research into, such disorders, and identify programs (including biological, physiological, behavioral, environmental, and social programs) by which improvement in management and research into sleep disorders could be accomplished and, not later than 18 months after initial meeting of Commission, to submit to appropriate Committees of Congress a final report, and provided for termination of the Commission 30 days after submission of final report.
+Pub. L. 100–607,title I, §162, Nov. 4, 1988, 102 Stat. 3060, directed Secretary of Health and Human Services, after consultation with Director of National Institutes of Health, to establish a National Commission on Sleep Disorders Research to conduct a comprehensive study of present state of knowledge of incidence, prevalence, morbidity, and mortality resulting from sleep disorders, and of social and economic impact of such disorders, evaluate public and private facilities and resources (including trained personnel and research activities) available for diagnosis, prevention, and treatment of, and research into, such disorders, and identify programs (including biological, physiological, behavioral, environmental, and social programs) by which improvement in management and research into sleep disorders could be accomplished and, not later than 18 months after initial meeting of Commission, to submit to appropriate Committees of Congress a final report, and provided for termination of the Commission 30 days after submission of final report.
 
 #### Research With Respect to Health Resources and Services Administration
 
-Section 632 of Pub. L. 100–607 provided that with respect to any program of research pursuant to this chapter, any such program carried out in fiscal year 1987 by an agency other than Health Resources and Services Administration (or appropriate to be carried out by such an agency) could not, for each of fiscal years 1989 through 1991, be carried out by such Administration.
+Pub. L. 100–607, title VI, §632, Nov. 4, 1988, 102 Stat. 3147, provided that with respect to any program of research pursuant to this chapter, any such program carried out in fiscal year 1987 by an agency other than Health Resources and Services Administration (or appropriate to be carried out by such an agency) could not, for each of fiscal years 1989 through 1991, be carried out by such Administration.
 
 #### Continuing Care for Psychiatric Patients in Former Clinical Research Center at National Institute on Drug Abuse
 
@@ -204,7 +204,7 @@ Pub. L. 97–414, §7, Jan. 4, 1983, 96 Stat. 2059, as amended by Pub. L. 109–
 
 &emsp;“(3) conduct scientific research and prepare analyses necessary to develop valid and credible assessments of the exposure to Iodine 131 that the American people received from the Nevada atmospheric nuclear bomb tests.
 
-“(b)(1) Within one year after the date of enactment of this Act \[Jan. 4, 1983\], the Secretary of Health and Human Services shall devise and publish radioepidemiological tables that estimate the likelihood that persons who have or have had any of the radiation related cancers and who have received specific doses prior to the onset of such disease developed cancer as a result of these doses. These tables shall show a probability of causation of developing each radiation related cancer associated with receipt of doses ranging from 1 millirad to 1,000 rads in terms of sex, age at time of exposure, time from exposure to the onset of the cancer in question, and such other categories as the Secretary,after consulting with appropriate scientific experts, determines to be relevant. Each probability of causation shall be calculated and displayed as a single percentage figure.
+“(b)(1) Within one year after the date of enactment of this Act \[Jan. 4, 1983\], the Secretary of Health and Human Services shall devise and publish radioepidemiological tables that estimate the likelihood that persons who have or have had any of the radiation related cancers and who have received specific doses prior to the onset of such disease developed cancer as a result of these doses. These tables shall show a probability of causation of developing each radiation related cancer associated with receipt of doses ranging from 1 millirad to 1,000 rads in terms of sex, age at time of exposure, time from exposure to the onset of the cancer in question, and such other categories as the Secretary, after consulting with appropriate scientific experts, determines to be relevant. Each probability of causation shall be calculated and displayed as a single percentage figure.
 
 “(2) At the time the Secretary of Health and Human Services publishes the tables pursuant to paragraph (1), such Secretary shall also publish—
 
@@ -228,7 +228,7 @@ Ex. Ord. No. 13505, Mar. 9, 2009, 74 F.R. 10667, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. Research involving human embryonic stem cells and human non-embryonic stem cells has the potential to lead to better understanding and treatment of many disabling diseases and conditions. Advances over the past decade in this promising scientific field have been encouraging, leading to broad agreement in the scientific community that the research should be supported by Federal funds.
+Section 1. <i>Policy</i>. Research involving human embryonic stem cells and human non-embryonic stem cells has the potential to lead to better understanding and treatment of many disabling diseases and conditions.Advances over the past decade in this promising scientific field have been encouraging, leading to broad agreement in the scientific community that the research should be supported by Federal funds.
 
 For the past 8 years, the authority of the Department of Health and Human Services, including the National Institutes of Health (NIH), to fund and conduct human embryonic stem cell research has been limited by Presidential actions. The purpose of this order is to remove these limitations on scientific inquiry, to expand NIH support for the exploration of human stem cell research, and in so doing to enhance the contribution of America's scientists to important new discoveries and new therapies for the benefit of humankind.
 

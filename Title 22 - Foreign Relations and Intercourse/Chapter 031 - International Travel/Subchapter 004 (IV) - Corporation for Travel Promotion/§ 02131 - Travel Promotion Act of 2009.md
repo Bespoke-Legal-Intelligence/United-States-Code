@@ -68,7 +68,7 @@ This section may be cited as the “Travel Promotion Act of 2009”.
 
 #### (H) Compensation; expenses
 
-&emsp;&emsp;No member shall receive any compensation from the Federal government for serving on the Board. Each member of the Board shall be paid actual travel expenses and per diem in lieu of subsistence expenses when away from his or her usual place of residence, in accordance with section 5703 of title 5.
+&emsp;&emsp;No member shall receive any compensation from the Federal government for serving on the Board. Each member of the Boardshall be paid actual travel expenses and per diem in lieu of subsistence expenses when away from his or her usual place of residence, in accordance with section 5703 of title 5.
 
 #### (3) Officers and employees
 
@@ -134,7 +134,7 @@ This section may be cited as the “Travel Promotion Act of 2009”.
 
 #### (7) Major campaigns
 
-&emsp;The board may not authorize the Corporation to obligate or expend more than $25,000,000 on any advertising campaign, promotion, or related effort unless—
+&emsp;The board may not authorize the Corporation to obligate or expend more than$25,000,000 on any advertising campaign, promotion, or related effort unless—
 
 &emsp;&emsp;(A) the obligation or expenditure is approved by an affirmative vote of at least 2/3 of the members of the board present at the meeting;
 
@@ -206,7 +206,7 @@ This section may be cited as the “Travel Promotion Act of 2009”.
 
 #### (B) Subsequent years
 
-&emsp;&emsp;For each of fiscal years 2012 through 2015, from amounts deposited in the general fund of the Treasury during the preceding fiscal year from fees under section 1187(h)(3)(B)(i)(I) of title 8, the Secretary of the Treasury shall transfer not more than $100,000,000 to the Fund, which shall be made available to the Corporation, subject to paragraph (3) of this subsection, to carry out its functions under this section. Transfers shall be made at least quarterly on the basis of estimates by the Secretary, and proper adjustments shall be made in amounts subsequently transferred to the extent prior estimates were in excess or less than the amounts required to be transferred.
+&emsp;&emsp;For each of fiscal years 2012 through 2015, from amounts deposited in the general fund of the Treasury during the preceding fiscalyear from fees under section 1187(h)(3)(B)(i)(I) of title 8, the Secretary of the Treasury shall transfer not more than $100,000,000 to the Fund, which shall be made available to the Corporation, subject to paragraph (3) of this subsection, to carry out its functions under this section. Transfers shall be made at least quarterly on the basis of estimates by the Secretary, and proper adjustments shall be made in amounts subsequently transferred to the extent prior estimates were in excess or less than the amounts required to be transferred.
 
 #### (3) Matching requirement
 
@@ -216,7 +216,7 @@ This section may be cited as the “Travel Promotion Act of 2009”.
 
 &emsp;&emsp;&emsp;(i) for fiscal year 2012, the Corporation provides matching amounts from non-Federal sources equal in the aggregate to 50 percent or more of the amount transferred to the Fund under paragraph (2); and
 
-&emsp;&emsp;&emsp;(ii) for any fiscal year after fiscal year 2012, the Corporation provides matchingamounts from non-Federal sources equal in the aggregate to 100 percent of the amount transferred to the Fund under paragraph (2) for the fiscal year.
+&emsp;&emsp;&emsp;(ii) for any fiscal year after fiscal year 2012, the Corporation provides matching amounts from non-Federal sources equal in the aggregate to 100 percent of the amount transferred to the Fund under paragraph (2) for the fiscal year.
 
 #### (B) Goods and services
 
@@ -288,7 +288,7 @@ This section may be cited as the “Travel Promotion Act of 2009”.
 
 #### (5) Investment of funds
 
-&emsp;Pending disbursement pursuant to a program, plan, or project, the Corporation may invest funds collected through assessments, and any other funds received by the Corporation, only in obligations of the United States or any agency thereof, in general obligations of any State or any political subdivision thereof, in any interest-bearing account or certificate of deposit of a bank that is a member of the Federal Reserve System, or in obligations fully guaranteed as to principal and interest by the United States.
+&emsp;Pending disbursement pursuant to a program, plan, or project, the Corporation mayinvest funds collected through assessments, and any other funds received by the Corporation, only in obligations of the United States or any agency thereof, in general obligations of any State or any political subdivision thereof, in any interest-bearing account or certificate of deposit of a bank that is a member of the Federal Reserve System, or in obligations fully guaranteed as to principal and interest by the United States.
 
 #### (g), (h) Omitted
 
@@ -302,7 +302,7 @@ The District of Columbia Nonprofit Corporation Act, referred to in subsec. (b)(1
 
 Section is comprised of section 9 of Pub. L. 111–145. Subsec. (e) of section 9 of Pub. L. 111–145 amended section 1187 of Title 8, Aliens and Nationality. Subsecs. (g) and (h) of section 9 of Pub. L. 111–145 enacted sections 2123 and 2123a of this title, respectively.
 
-Section was enacted as part of the United States Capitol Police Administrative Technical Corrections Act of2009, and not as part of the International Travel Act of 1961 which comprises this chapter.
+Section was enacted as part of the United States Capitol Police Administrative Technical Corrections Act of 2009, and not as part of the International Travel Act of 1961 which comprises this chapter.
 
 #### Amendments
 

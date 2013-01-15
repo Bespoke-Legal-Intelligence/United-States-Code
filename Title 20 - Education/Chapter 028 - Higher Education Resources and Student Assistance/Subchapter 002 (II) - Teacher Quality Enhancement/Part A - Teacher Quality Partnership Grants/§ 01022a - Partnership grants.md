@@ -2,7 +2,7 @@
 
 #### (a) Program authorized
 
-From amounts made available under section 1022h of this title, the Secretary is authorized to award grants, on a competitive basis, to eligible partnerships, to enable the eligible partnerships to carry out the activities described in subsection (c).
+From amounts made available under section 1022h of this title, the Secretary is authorized toaward grants, on a competitive basis, to eligible partnerships, to enable the eligible partnerships to carry out the activities described in subsection (c).
 
 #### (b) Application
 
@@ -64,7 +64,7 @@ Each eligible partnership desiring a grant under this section shall submit an ap
 
 &emsp;&emsp;(A) a demonstration that the schools and departments within the institution of higher education that are part of the induction program will effectively prepare teachers, including providing content expertise and expertise in teaching, as appropriate;
 
-&emsp;&emsp;(B) a demonstration of the eligible partnership's capability and commitment to, and the accessibility to and involvement of faculty in, the use of empirically-based practice and scientifically valid research on teaching and learning;
+&emsp;&emsp;(B) a demonstration of the eligible partnership's capability and commitment to, and the accessibility to and involvement of faculty in, the use of empirically-based practiceand scientifically valid research on teaching and learning;
 
 &emsp;&emsp;(C) a description of how the teacher preparation program will design and implement an induction program to support, through not less than the first two years of teaching, all new teachers who are prepared by the teacher preparation program in the partnership and who teach in the high-need local educational agency in the partnership, and, to the extent practicable, all new teachers who teach in such high-need local educational agency, in the further development of the new teachers’ teaching skills, including the use of mentors who are trained and compensated by such program for the mentors’ work with new teachers; and
 
@@ -222,7 +222,7 @@ An eligible partnership that receives a grant to carry out a program for the pre
 
 &emsp;&emsp;&emsp;(iii) Experience and learning opportunities alongside a trained and experienced mentor teacher—
 
-&emsp;&emsp;&emsp;&emsp;(I) whose teaching shall complement the residency program so that classroomclinical practice is tightly aligned with coursework;
+&emsp;&emsp;&emsp;&emsp;(I) whose teaching shall complement the residency program so that classroom clinical practice is tightly aligned with coursework;
 
 &emsp;&emsp;&emsp;&emsp;(II) who shall have extra responsibilities as a teacher leader of the teaching residency program, as a mentor for residents, and as a teacher coach during the induction program for new teachers, and for establishing, within the program, a learning community in which all individuals are expected to continually improve their capacity to advance student learning; and
 
@@ -262,7 +262,7 @@ An eligible partnership that receives a grant to carry out a program for the pre
 
 #### (ii) Selection criteria
 
-&emsp;&emsp;&emsp;An eligible partnership carrying out a teaching residency program under this subsection shall establish criteria for the selection of eligible individuals to participate in the teaching residency program based on the following characteristics:
+&emsp;&emsp;&emsp;An eligible partnership carrying out a teaching residency program under thissubsection shall establish criteria for the selection of eligible individuals to participate in the teaching residency program based on the following characteristics:
 
 &emsp;&emsp;&emsp;&emsp;(I) Strong content knowledge or record of accomplishment in the field or subject area to be taught.
 
@@ -286,7 +286,7 @@ An eligible partnership that receives a grant to carry out a program for the pre
 
 &emsp;&emsp;&emsp;&emsp;(I) serve as a full-time teacher for a total of not less than three academic years immediately after successfully completing the teaching residency program;
 
-&emsp;&emsp;&emsp;&emsp;(II) fulfill the requirement under subclause (I) by teaching in a high-need school served by the high-need local educational agency in the eligible partnership and teach a subject or area that isdesignated as high need by the partnership;
+&emsp;&emsp;&emsp;&emsp;(II) fulfill the requirement under subclause (I) by teaching in a high-need school served by the high-need local educational agency in the eligible partnership and teach a subject or area that is designated as high need by the partnership;
 
 &emsp;&emsp;&emsp;&emsp;(III) provide to the eligible partnership a certificate, from the chief administrative officer of the local educational agency in which the resident is employed, of the employment required in subclauses (I) and (II) at the beginning of, and upon completion of, each year or partial year of service;
 
@@ -322,7 +322,7 @@ An eligible partnership that receives a grant to carry out a program for the pre
 
 &emsp;&emsp;&emsp;(ii) provide a climate conducive to the professional development of teachers, with a focus on improving student academic achievement and the development of effective instructional leadership skills;
 
-&emsp;&emsp;&emsp;(iii) understand the teaching and assessment skills needed to support successful classroom instruction and to use data to evaluate teacher instruction and drive teacher and student learning;
+&emsp;&emsp;&emsp;(iii) understand the teaching and assessment skills needed to support successfulclassroom instruction and to use data to evaluate teacher instruction and drive teacher and student learning;
 
 &emsp;&emsp;&emsp;(iv) manage resources and school time to improve student academic achievement and ensure the school environment is safe;
 
@@ -404,7 +404,7 @@ The Secretary shall—
 
 #### (j) Construction
 
-Nothing in this section shall be construed to prohibit an eligible partnership from using grant funds to coordinate with the activities of eligible partnerships in other States or on a regional basis through Governors, State boards of education, State educational agencies, State agencies responsible for early childhood education, local educational agencies, or State agencies for higher education.
+Nothing in this section shall be construed to prohibit an eligible partnership from usinggrant funds to coordinate with the activities of eligible partnerships in other States or on a regional basis through Governors, State boards of education, State educational agencies, State agencies responsible for early childhood education, local educational agencies, or State agencies for higher education.
 
 #### (k) Supplement, not supplant
 
@@ -432,7 +432,7 @@ Another prior section 202 of Pub. L. 89–329 was classified to section 1022 of 
 
 Subsec. (c)(1). Pub. L. 111–39, §201(2)(B), struck out “pre-baccalaureate” before “preparation”.
 
-Subsec. (d). Pub. L. 111–39, §201(2)(C), substituted “the preparation” for “pre-baccalaureate preparation” inheading, added introductory provisions, and struck out former introductory provisions which read as follows: “An eligible partnership that receives a grant to carry out an effective program for the pre-baccalaureate preparation of teachers shall carry out a program that includes all of the following:”.
+Subsec. (d). Pub. L. 111–39, §201(2)(C), substituted “the preparation” for “pre-baccalaureate preparation” in heading, added introductory provisions, and struck out former introductory provisions which read as follows: “An eligible partnership that receives a grant to carry out an effective program for the pre-baccalaureate preparation of teachers shall carry out a program that includes all of the following:”.
 
 Subsec. (e)(2). Pub. L. 111–39, §201(2)(D), in subpar. (A)(ii), substituted “leading to” for “to earn” and, in subpar. (C), struck out “one-year” before “teaching residency program” in cls. (i) and (iii)(I).
 

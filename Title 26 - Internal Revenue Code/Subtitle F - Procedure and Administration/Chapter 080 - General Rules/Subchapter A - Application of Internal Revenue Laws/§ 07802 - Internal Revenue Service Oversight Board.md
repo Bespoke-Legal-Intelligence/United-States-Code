@@ -56,7 +56,7 @@ There is established within the Department of the Treasury the Internal Revenue 
 
 #### (D) Vacancy
 
-&emsp;&emsp;Any vacancy on the Oversight Board shall be filled in the same manner as the original appointment. Any member appointed to fill a vacancy occurring before the expiration of the term for which the member's predecessor was appointed shall be appointed for the remainder of that term.
+&emsp;&emsp;Any vacancy on the Oversight Board shall be filled in the same manner as the original appointment. Any member appointed to fill a vacancy occurring before the expiration ofthe term for which the member's predecessor was appointed shall be appointed for the remainder of that term.
 
 #### (3) Ethical considerations
 
@@ -248,7 +248,7 @@ The Oversight Board shall have the following specific responsibilities:
 
 #### (A) Term
 
-&emsp;&emsp;The members of the Oversight Board shall elect for a 2-year term a chairperson from among the members appointed under subsection (b)(1)(A).
+&emsp;&emsp;The members of the Oversight Board shall elect for a 2-year term a chairperson fromamong the members appointed under subsection (b)(1)(A).
 
 #### (B) Powers
 
@@ -326,13 +326,13 @@ Effect on actions prior to appointment of oversight board.—Nothing in this sec
 
 #### Effective Date of 1996 Amendment
 
-Section 101(c) of Pub. L. 104–168 provided that: “The amendments made by this section \[amending this section and section 7811 of this title\] shall take effect on the date of the enactment of this Act \[July 30, 1996\].”
+Pub. L. 104–168, title I, §101(c), July 30, 1996, 110 Stat. 1456, provided that: “The amendments made by this section \[amending this section and section 7811 of this title\] shall take effect on the date of the enactment of this Act \[July 30, 1996\].”
 
 #### Effective Date of 1988 Amendment
 
-Section 6235(c) of Pub. L. 100–647 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date 180 days after the date of the enactment of this Act \[Nov. 10, 1988\].”
+Pub. L. 100–647, title VI, §6235(c), Nov. 10, 1988, 102 Stat. 3737, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date 180 days after the date of the enactment of this Act \[Nov. 10, 1988\].”
 
 #### Effective Date of 1974 Amendment
 
-Section 1051(d) of Pub. L. 93–406 provided that: “The amendments made by this section \[amending this section and sections 5108 and 5109 of Title 5, Government Organization and Employees\] shall take effect on the 90th day after the date of the enactment of this Act \[Sept. 2, 1974\].”
+Pub. L. 93–406, title II, §1051(d), Sept. 2, 1974, 88 Stat. 951, provided that: “The amendments made by this section \[amending this section and sections 5108 and 5109 of Title 5, Government Organization and Employees\] shall take effect on the 90th day after the date of the enactment of this Act \[Sept. 2, 1974\].”
 

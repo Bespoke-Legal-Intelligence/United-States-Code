@@ -2,7 +2,7 @@
 
 (a)
 
-VBA Staffing at Regional Offices.—The Secretary shall ensure that there is at least one full-time employee assigned to oversee and coordinate homeless veterans programs at each of the 20 Veterans Benefits Administration regional offices that the Secretary determines have the largest homeless veteran populations within the regions of the Administration. The programs covered by such oversight and coordination include the following:
+VBA Staffing at Regional Offices.—The Secretary shall ensure that there is at least one full-time employee assigned to oversee and coordinate homeless veterans programs at each ofthe 20 Veterans Benefits Administration regional offices that the Secretary determines have the largest homeless veteran populations within the regions of the Administration. The programs covered by such oversight and coordination include the following:
 
 &emsp;(1) Housing programs administered by the Secretary under this title or any other provision of law.
 
@@ -20,7 +20,7 @@ VBA Staffing at Regional Offices.—The Secretary shall ensure that there is at 
 
 (b)
 
-VHA Case Managers.—The Secretary shall ensure that the number of case managers in the Veterans Health Administration is sufficient to assure that every veteran who is provided a housing voucher through section 8(<i>o</i>) of the United States Housing Act of 1937 (42 U.S.C. 1437f(<i>o</i>)) is assigned to, and is seen as needed by, a case manager.
+VHA Case Managers.—The Secretary shall ensure that the number of case managers in the Veterans Health Administration is sufficient to assure that every veteran who is provided a housing voucher through section 8(o) of the United States Housing Act of 1937 (42 U.S.C. 1437f(o)) is assigned to, and is seen as needed by, a case manager.
 
 (Added Pub. L. 107–95, §5(a)(1), Dec. 21, 2001, 115 Stat. 905.)
 

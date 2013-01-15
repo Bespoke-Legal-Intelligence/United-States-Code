@@ -22,7 +22,7 @@ Section 175, R.S. §2296; Apr. 28, 1922, ch. 155, 42 Stat. 502, related to exemp
 
 #### Effective Date of Repeal
 
-Section 702 of Pub. L. 94–579 provided that the repeal made by that section is effective on and after Oct. 21, 1976, except such effective date to be on and after tenth anniversary of date of approval of this Act, Oct. 21, 1976, insofar as homestead laws apply to public lands in Alaska.
+Pub. L. 94–579, title VII, §702, Oct. 21, 1976, 90 Stat. 2787, provided that the repeal made by section 702 is effective on and after Oct. 21, 1976, except such effective date to be on and after tenth anniversary of date of approval of this Act, Oct. 21, 1976, insofar as homestead laws apply to public lands in Alaska.
 
 #### Savings Provision
 

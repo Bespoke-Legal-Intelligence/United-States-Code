@@ -16,7 +16,7 @@ Class counsel.—The term “class counsel” means the persons who serve as the
 
 &emsp;(4)
 
-Class members.—The term “class members” means the persons (named or unnamed) who fall within the definition of the proposed or certified class in a class action.
+Class members.—The term “class members” means the persons (named or unnamed)who fall within the definition of the proposed or certified class in a class action.
 
 &emsp;(5)
 

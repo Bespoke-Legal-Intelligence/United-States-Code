@@ -46,7 +46,7 @@ Subsec. (a). Pub. L. 103–160, §826(a)(1), (d)(1)(A), inserted heading, insert
 
 Subsec. (b). Pub. L. 103–160, §826(a)(2), (d)(1)(B), inserted heading and inserted “or natural gas” after “petroleum” in second sentence.
 
-Subsec. (c). Pub. L. 103–160, §826(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Secretary of Defense may acquire petroleum by exchange of petroleum or petroleum derivatives.”
+Subsec. (c). Pub. L. 103–160, §826(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read asfollows: “The Secretary of Defense may acquire petroleum by exchange of petroleum or petroleum derivatives.”
 
 Subsec. (d). Pub. L. 103–160, §826(c)(2), added subsec. (d). Former subsec. (d) redesignated (e).
 

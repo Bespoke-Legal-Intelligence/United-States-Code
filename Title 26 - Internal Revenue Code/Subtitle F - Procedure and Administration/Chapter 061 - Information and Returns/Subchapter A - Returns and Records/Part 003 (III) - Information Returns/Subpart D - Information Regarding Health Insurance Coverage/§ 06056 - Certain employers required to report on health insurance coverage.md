@@ -28,7 +28,7 @@ A return is described in this subsection if such return—
 
 &emsp;&emsp;(D) the number of full-time employees for each month during the calendar year,
 
-&emsp;&emsp;(E) the name, address, and TIN of each full-time employee during the calendar year and the months (if any) during which such employee (and any dependents) were covered under any such health benefits plans, and
+&emsp;&emsp;(E) the name, address, and TIN of each full-time employee during the calendar yearand the months (if any) during which such employee (and any dependents) were covered under any such health benefits plans, and
 
 &emsp;&emsp;(F) such other information as the Secretary may require.
 
@@ -106,7 +106,7 @@ Subsec. (f). Pub. L. 111–148, §10108(j)(2), amended subsec. (f) generally. Pr
 
 #### Effective Date of 2011 Amendment
 
-Amendment by Pub. L. 112–10 effective as if included in the provisions of, and the amendments made by, the provisions of Pub. L. 111–148 to which it relates, see section 1858(d) of Pub. L. 112–10, set out as a note under section 36B of this title.
+Amendment by Pub. L. 112–10 effective as if included in the provisions of, and the amendments made by, theprovisions of Pub. L. 111–148 to which it relates, see section 1858(d) of Pub. L. 112–10, set out as a note under section 36B of this title.
 
 #### Effective Date of 2010 Amendment
 

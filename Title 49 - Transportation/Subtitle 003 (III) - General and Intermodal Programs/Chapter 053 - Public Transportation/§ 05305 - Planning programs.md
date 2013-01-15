@@ -88,7 +88,7 @@ Apportionment to states.—
 
 &emsp;&emsp;(A)
 
-In general.—The Secretary shall apportion the amounts made available under subsection (g)(2) among the States for grants and contracts to carry out this section and sections 5304, 5306, 5315, and 5322 in the ratio that—
+In general.—The Secretary shall apportion the amounts made available under subsection (g)(2) among the States for grants and contracts to carry out this section and section <sup>1</sup> 5304 and 5306 in the ratio that—
 
 &emsp;&emsp;&emsp;(i) the population of urbanized areas in each State, as shown by the latest available decennial census; bears to
 
@@ -104,11 +104,11 @@ Supplemental amounts.—A State, as the State considers appropriate, may authori
 
 (f)
 
-Government's Share of Costs.—The Government's share of the cost of an activity funded using amounts made available under this section may not exceed 80 percent of the cost of the activity unless the Secretary determines that it is in the interests of the Government not to require a State or local match.
+Government Share of Costs.—The Government share of the cost of an activity funded using amounts made available under this section may not exceed 80 percent of the cost of the activity unless the Secretary determines that it is in the interests of the Government not to require a State or local match.
 
 (g)
 
-Allocation of Funds.—Of the funds made available by or appropriated to carry out this section under section 5338(c) for fiscal years 2005 through 2011 and for the period beginning on October 1, 2011, and ending on March 31, 2012—
+Allocation of Funds.—Of the funds made available by or appropriated to carry out this section under section 5338(a)(2)(A) for a fiscal year—
 
 &emsp;(1) 82.72 percent shall be available for the metropolitan planning program under subsection (d); and
 
@@ -118,7 +118,7 @@ Allocation of Funds.—Of the funds made available by or appropriated to carry o
 
 Availability of Funds.—Funds apportioned under this section to a State that have not been obligated in the 3-year period beginning after the last day of the fiscal year for which the funds are authorized shall be reapportioned among the States.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 794; Pub. L. 105–178, title III, §3006, June 9, 1998, 112 Stat. 346; Pub. L. 105–206, title IX, §9009(d), July 22, 1998, 112 Stat. 854; Pub. L. 109–59, title III, §3007(a), Aug. 10, 2005, 119 Stat. 1566; Pub. L. 111–147, title IV, §431, Mar. 18, 2010, 124 Stat. 88; Pub. L. 111–322, title II, §2301, Dec. 22, 2010, 124 Stat. 3526; Pub. L. 112–5, title III, §301, Mar. 4, 2011, 125 Stat. 18; Pub. L. 112–30, title I, §131, Sept. 16, 2011, 125 Stat. 350.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 794; Pub. L. 105–178, title III, §3006, June 9, 1998, 112 Stat. 346; Pub. L. 105–206, title IX, §9009(d), July 22, 1998, 112 Stat. 854; Pub. L. 109–59, title III, §3007(a), Aug. 10, 2005, 119 Stat. 1566; Pub. L. 111–147, title IV, §431, Mar. 18, 2010, 124 Stat. 88; Pub. L. 111–322, title II, §2301, Dec. 22, 2010, 124 Stat. 3526; Pub. L. 112–5, title III, §301, Mar. 4, 2011, 125 Stat. 18; Pub. L. 112–30, title I, §131, Sept. 16, 2011, 125 Stat. 350; Pub. L. 112–102, title III, §301, Mar. 30, 2012, 126 Stat. 275; Pub. L. 112–140, title III, §301, June 29, 2012, 126 Stat. 396; Pub. L. 112–141, div. B, §20030(a), div. G, title III, §113001, July 6, 2012, 126 Stat. 730, 983.)
 
 Historical and Revision Notes
 
@@ -156,6 +156,22 @@ In subsection (f), the words “Notwithstanding any other provisions of this cha
 
 #### Amendments
 
+<b>2012</b>—Subsec. (e)(1)(A). Pub. L. 112–141, §20030(a)(1), substituted “section 5304 and 5306” for “sections 5304, 5306, 5315, and 5322” in introductory provisions.
+
+Subsec. (f). Pub. L. 112–141, §20030(a)(2), substituted “
+
+Government” for “
+
+Government's” in heading and “Government” for “Government's” in text.
+
+Subsec. (g). Pub. L. 112–141, §113001, substituted “2012” for “2011 and for the period beginning on October 1, 2011, and ending on June 30, 2012” in introductory provisions.
+
+Pub. L. 112–141, §20030(a)(3), substituted “section 5338(a)(2)(A) for a fiscal year” for “section 5338(c) for fiscal years 2005 through 2012” in introductory provisions.
+
+Pub. L. 112–140, §§1(c), 301, temporarily substituted “ending on July 6, 2012” for “ending on June 30, 2012” in introductory provisions. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102 substituted “2011 and for the period beginning on October 1, 2011, and ending on June 30, 2012” for “2011 and for the period beginning on October 1, 2011, and ending on March 31, 2012” in introductory provisions.
+
 <b>2011</b>—Subsec. (g). Pub. L. 112–30 substituted “2011 and for the period beginning on October 1, 2011, and ending on March 31, 2012” for “2011”.
 
 Pub. L. 112–5 substituted “2011” for “2010, and for the period beginning October 1, 2010, and ending March 4, 2011,”.
@@ -184,7 +200,17 @@ Subsec. (e)(4). Pub. L. 105–178, §3006(e)(2), added par. (4).
 
 Subsec. (h). Pub. L. 105–178, §3006(f), added subsec. (h).
 
+#### Effective and Termination Dates of 2012 Amendment
+
+Amendment by section 20030(a) of Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as a note under section 101 of Title 23, Highways.
+
+Pub. L. 112–141, div. G, title IV, §114001, July 6, 2012, 126 Stat. 988, provided that: “This division \[amending this section and sections 5307, 5309, 5311, 5337, 5338, 31104, and 31144 of this title, enacting provisions set out as a note under section 101 of Title 23, Highways, and amending provisions set out as notes under sections 5309, 5310, 5338, 14710, and 31100 of this title\] and the amendments made by this division shall take effect on July 1, 2012.”
+
+Amendment by Pub. L. 112–140 to cease to be effective on July 6, 2012, with text as amended by Pub. L. 112–140 to revert back to read as it did on the day before June 29, 2012, and amendments by Pub. L. 112–141 to be executed as if Pub. L. 112–140 had not been enacted, see section 1(c) of Pub. L. 112–140, set out as a note under section 101 of Title 23, Highways.
+
 #### Effective Date of 1998 Amendment
 
 Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of Title 23, Highways.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “sections”.</i>
 

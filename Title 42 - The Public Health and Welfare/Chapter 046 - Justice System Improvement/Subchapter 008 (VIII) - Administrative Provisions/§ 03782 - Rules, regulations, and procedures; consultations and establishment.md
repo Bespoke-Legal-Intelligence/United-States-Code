@@ -26,11 +26,13 @@ The procedures established to implement the provisions of this chapter shall min
 
 (Pub. L. 90–351, title I, §801, formerly §802, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1201; renumbered §801 and amended Pub. L. 98–473, title II, §609B(b), Oct. 12, 1984, 98 Stat. 2091; Pub. L. 99–570, title I, §1552(b)(2), Oct. 27, 1986, 100 Stat. 3207–46; Pub. L. 101–647, title II, §241(b)(2), title VIII, §801(c)(1), Nov. 29, 1990, 104 Stat. 4813, 4826; Pub. L. 103–322, title IV, §40231(d)(1), title XXXIII, §330001(h)(7), Sept. 13, 1994, 108 Stat. 1934, 2139; Pub. L. 109–162, title XI, §1111(c)(2)(D), Jan. 5, 2006, 119 Stat. 3102.)
 
+#### Codification
+
+Another section 801 of Pub. L. 90–351, title III, June 19, 1968, 82 Stat. 211, is set out as a note under section 2510 of Title 18, Crimes and Criminal Procedure.
+
 #### Prior Provisions
 
 A prior section 801 of Pub. L. 90–351 was classified to section 3781 of this title prior to repeal by section 609B(a) of Pub. L. 98–473.
-
-Another prior section 801 of Pub. L. 90–351, title III, June 19, 1968, 82 Stat. 211, is set out as a note under section 2510 of Title 18, Crimes and Criminal Procedure.
 
 #### Amendments
 
@@ -44,7 +46,7 @@ Pub. L. 101–647, §241(b)(2), substituted “XII–A, and XII–B” for “an
 
 <b>1986</b>—Subsec. (b). Pub. L. 99–570 inserted reference to subchapter XII–A of this chapter in introductory provisions.
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–473 in amending subsec. (a) generally, substituted “Office of Justice Programs” for “Office of Justice Assistance, Research, and Statistics” and “Bureau of Justice Assistance” for “Law Enforcement Assistance Administration” and also included authority for the Office of Juvenile Justice and Delinquency Prevention to establish rules, regulations, and procedures for exercise of its functions.
+<b>1984</b>—Subsec. (a). Pub. L. 98–473 in amending subsec. (a) generally, substituted “Office of Justice Programs”for “Office of Justice Assistance, Research, and Statistics” and “Bureau of Justice Assistance” for “Law Enforcement Assistance Administration” and also included authority for the Office of Juvenile Justice and Delinquency Prevention to establish rules, regulations, and procedures for exercise of its functions.
 
 Subsec. (b). Pub. L. 98–473 in amending subsec. (b) generally, substituted “Bureau of Justice Assistance” for “Law Enforcement Assistance Administration” wherever appearing; provided for consultations with the Office of Juvenile Justice and Delinquency Prevention; and struck out provisions respecting: rules, regulations, and procedures affecting national priority grant programs or projects; evaluations in addition to the requirements of former sections 3743 and 3744 of this title; and requirement for comparison of effectiveness of formula grant programs or projects of States or local units of government with similar national priority and discretionary grant programs or projects.
 

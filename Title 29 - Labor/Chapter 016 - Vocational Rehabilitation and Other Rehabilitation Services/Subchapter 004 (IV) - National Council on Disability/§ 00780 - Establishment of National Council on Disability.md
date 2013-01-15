@@ -2,7 +2,7 @@
 
 #### (a) Membership; purpose
 
-(1)(A) There is established within the Federal Government a National Council on Disability (hereinafter in this subchapter referred to as the “National Council”), which shall be composed of fifteen members appointed by the President, by and with the advice and consent of the Senate.
+(1)(A) There is established within the Federal Government a National Council on Disability (hereinafter in this subchapter referred to as the “National Council”), which shall be composed of fifteen members appointed by the President.
 
 (B) The President shall select members of the National Council after soliciting recommendations from representatives of—
 
@@ -20,7 +20,7 @@
 
 #### (b) Term of office
 
-(1) Each member of the National Council shall serve for a term of 3 years, except that the terms of service of the members initially appointed after November 6, 1978, shall be (as specified by the President) for such fewer number of years as will provide for the expiration of terms on a staggered basis.
+(1) Each member of the National Council shall serve for a term of 3 years, except that the terms of service of the members initially appointed after November 6, 1978, shall be (as specified by the President) for such fewer number ofyears as will provide for the expiration of terms on a staggered basis.
 
 (2)(A) No member of the National Council may serve more than two consecutive full terms beginning on the date of commencement of the first full term on the Council. Members may serve after the expiration of their terms until their successors have taken office.
 
@@ -36,11 +36,19 @@ The President shall designate the Chairperson from among the members appointed t
 
 Eight members of the National Council shall constitute a quorum and any vacancy in the National Council shall not affect its power to function.
 
-(Pub. L. 93–112, title IV, §400, as added Pub. L. 105–220, title IV, §407, Aug. 7, 1998, 112 Stat. 1198.)
+(Pub. L. 93–112, title IV, §400, as added Pub. L. 105–220, title IV, §407, Aug. 7, 1998, 112 Stat. 1198; amended Pub. L. 112–166, §2(q), Aug. 10, 2012, 126 Stat. 1288.)
 
 #### Prior Provisions
 
 A prior section 780, Pub. L. 93–112, title IV, §400, as added Pub. L. 95–602, title I, §117, Nov. 6, 1978, 92 Stat. 2977; amended Pub. L. 98–221, title I, §141(a), Feb. 22, 1984, 98 Stat. 26; Pub. L. 99–506, title I, §103(d)(2)(C), title V, §501, title X, §1001(e), Oct. 21, 1986, 100 Stat. 1810, 1828, 1843; Pub. L. 100–630, title II, §205(b), Nov. 7, 1988, 102 Stat. 3310; Pub. L. 102–569, title I, §102(p)(26), title IV, §401, Oct. 29, 1992, 106 Stat. 4360, 4421, related to establishment of the National Council on Disability, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
 Another prior section 780, Pub. L. 93–112, title IV, §400, Sept. 26, 1973, 87 Stat. 385, related to general administrative powers of Secretary under this chapter, prior to repeal by Pub. L. 95–602, §117.
+
+#### Amendments
+
+<b>2012</b>—Subsec. (a)(1)(A). Pub. L. 112–166 struck out “, by and with the advice and consent of the Senate” before period at end.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under section 113 of Title 6, Domestic Security.
 

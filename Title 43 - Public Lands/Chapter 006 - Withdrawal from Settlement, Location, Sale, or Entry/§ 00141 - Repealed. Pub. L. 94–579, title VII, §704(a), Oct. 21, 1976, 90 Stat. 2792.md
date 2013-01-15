@@ -4,7 +4,7 @@ Section, act June 25, 1910, ch. 421, §1, 36 Stat. 847, authorized the withdrawa
 
 #### Effective Date of Repeal
 
-Section 704(a) of Pub. L. 94–579 provided that this section is repealed effective on and after Oct. 21, 1976.
+Pub. L. 94–579, title VII, §704(a), Oct. 21, 1976, 90 Stat. 2792, provided that this section is repealed effective on and after Oct. 21, 1976.
 
 #### Savings Provision
 

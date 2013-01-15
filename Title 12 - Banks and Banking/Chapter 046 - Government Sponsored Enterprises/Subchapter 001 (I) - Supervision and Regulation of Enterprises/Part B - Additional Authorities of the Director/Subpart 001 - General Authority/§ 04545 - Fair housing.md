@@ -8,7 +8,7 @@ The Secretary of Housing and Urban Development shall—
 
 &emsp;(3) by regulation, require each enterprise to submit data to the Secretary to assist in investigating whether a mortgage lender with which the enterprise does business has failed to comply with the Equal Credit Opportunity Act \[15 U.S.C. 1691 et seq.\], and shall submit any such information received to the appropriate Federal agencies, as provided in section 704 of the Equal Credit Opportunity Act \[15 U.S.C. 1691c\], for appropriate action;
 
-&emsp;(4) obtain information from other regulatory and enforcement agencies of the Federal Government and State and local governments regarding violations by lenders of the Fair Housing Act and the Equal Credit Opportunity Act and make such information available to the enterprises;
+&emsp;(4) obtain information from other regulatory and enforcement agencies of the Federal Government and State and local governments regarding violations by lenders of the Fair Housing Act and the Equal Credit Opportunity Actand make such information available to the enterprises;
 
 &emsp;(5) direct the enterprises to undertake various remedial actions, including suspension, probation, reprimand, or settlement, against lenders that have been found to have engaged in discriminatory lending practices in violation of the Fair Housing Act or the Equal Credit Opportunity Act, pursuant to a final adjudication on the record, and after opportunity for an administrative hearing, in accordance with subchapter II of chapter 5 of title 5; and
 

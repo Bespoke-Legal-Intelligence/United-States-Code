@@ -30,7 +30,7 @@ Subsec. (b). Pub. L. 86–368, §2(b)(2), substituted “, the office of the Ch
 
 #### Effective Date of 1976 Amendment
 
-Section 1210(d)(2) of Pub. L. 94–455 provided that: “The amendment made by subsection (c) \[amending this section\] shall take effect on January 1, 1977.”
+Pub. L. 94–455, title XII, §1210(d)(2), Oct. 4, 1976, 90 Stat. 1711, provided that: “The amendment made by subsection (c) \[amending this section\] shall take effect on January 1, 1977.”
 
 Amendment by section 1907(a)(4) of Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1907(c) of Pub. L. 94–455, set out as a note under section 8001 of this title.
 

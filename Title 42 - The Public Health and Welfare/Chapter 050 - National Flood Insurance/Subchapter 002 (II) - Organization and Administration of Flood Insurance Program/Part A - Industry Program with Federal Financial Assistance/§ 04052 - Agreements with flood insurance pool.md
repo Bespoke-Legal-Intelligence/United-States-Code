@@ -2,7 +2,7 @@
 
 #### (a) Authorization
 
-The Director is authorized to enter into such agreements with the pool formed or otherwise created under this part as he deems necessary to carry out the purposes of this chapter.
+The Administrator is authorized to enter into such agreements with the pool formed or otherwise created under this part as he deems necessary to carry out the purposes of this chapter.
 
 #### (b) Terms and conditions
 
@@ -12,7 +12,7 @@ Such agreements shall specify—
 
 &emsp;(2) the terms and conditions under which the pool (and the companies and other insurers participating therein) shall participate in premiums received and profits or losses realized or sustained,
 
-&emsp;(3) the maximum amount of profit, established by the Director and set forth in the schedules prescribed under section 4018 of this title, which may be realized by such pool (and the companies and other insurers participating therein),
+&emsp;(3) the maximum amount of profit, established by the Administrator and set forth in the schedules prescribed under section 4018 of this title, which may be realized by such pool (and the companies and other insurers participating therein),
 
 &emsp;(4) the terms and conditions under which operating costs and allowances set forth in the schedules prescribed under section 4018 of this title may be paid, and
 
@@ -20,15 +20,15 @@ Such agreements shall specify—
 
 #### (c) Additional provisions
 
-In addition, such agreements shall contain such provisions as the Director finds necessary to assure that—
+In addition, such agreements shall contain such provisions as the Administrator finds necessary to assure that—
 
 &emsp;(1) no insurance company or other insurer which meets the requirements prescribed under section 4051(b) of this title, and which has indicated an intention to participate in the flood insurance program on a risk-sharing basis, will be excluded from participating in the pool,
 
-&emsp;(2) the insurance companies and other insurers participating in the pool will take whatever action may be necessary to provide continuity of flood insurance coverage by the pool, and
+&emsp;(2) the insurance companies and other insurers participating in the pool will take whatever action may be necessary to provide continuity of flood insurance coverage or reinsurance by the pool, and
 
 &emsp;(3) any insurance companies and other insurers, insurance agents and brokers, and insurance adjustment organizations will be permitted to cooperate with the pool as fiscal agents or otherwise, on other than a risk-sharing basis, to the maximum extent practicable.
 
-(Pub. L. 90–448, title XIII, §1332, Aug. 1, 1968, 82 Stat. 582; Pub. L. 98–181, title IV, §451(d)(1), Nov. 30, 1983, 97 Stat. 1229.)
+(Pub. L. 90–448, title XIII, §1332, Aug. 1, 1968, 82 Stat. 582; Pub. L. 98–181, title I \[title IV, §451(d)(1)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 112–141, div. F, title II, §§100232(d)(2), 100238(b)(1), July 6, 2012, 126 Stat. 954, 958.)
 
 #### References in Text
 
@@ -36,11 +36,15 @@ This chapter, referred to in subsec. (a), was in the original a reference to “
 
 #### Amendments
 
-<b>1983</b>—Subsecs. (a), (b)(3), (c). Pub. L. 98–181 substituted “Director” for “Secretary” wherever appearing.
+<b>2012</b>—Subsecs. (a), (b)(3), (c). Pub. L. 112–141, §100238(b)(1), substituted “Administrator” for “Director”.
+
+Subsec. (c)(2). Pub. L. 112–141, §100232(d)(2), inserted “or reinsurance” after “flood insurance coverage”.
+
+<b>1983</b>—Subsecs. (a), (b)(3), (c). Pub. L. 98–181 substituted “Director” for “Secretary”.
 
 #### Transfer of Functions
 
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) andsections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

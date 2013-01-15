@@ -16,7 +16,7 @@ Whenever a registration, or a cancellation or suspension of the registration of 
 
 #### (c) Importation of pesticides and devices
 
-The Secretary of the Treasury shall notify the Administrator of the arrival of pesticides and devices and shall deliver to the Administrator, upon the Administrator's request, samples of pesticides or devices which are being imported into the United States, giving notice to the owner or consignee, who may appear before the Administrator and have the right to introduce testimony. If it appears from the examination of a sample that it is adulterated, or misbranded or otherwise violates the provisions set forth in this subchapter, or is otherwise injurious to health or the environment, the pesticide or device may be refused admission, and the Secretary of the Treasury shall refuse delivery to the consignee and shall cause the destruction of any pesticide or device refused delivery which shall not be exported by the consignee within 90 days from the date of notice of such refusal under such regulations as the Secretary of the Treasury may prescribe. The Secretary of the Treasury may deliver to the consignee such pesticide or device pending examination and decision in the matter on execution of bond for the amount of the full invoice value of such pesticide or device, together with the duty thereon, and on refusal to return such pesticide or device for any cause to the custody of the Secretary of the Treasury, when demanded, for the purpose of excluding them from the country, or for anyother purpose, said consignee shall forfeit the full amount of said bond. All charges for storage, cartage, and labor on pesticides or devices which are refused admission or delivery shall be paid by the owner or consignee, and in default of such payment shall constitute a lien against any future importation made by such owner or consignee.
+The Secretary of the Treasury shall notify the Administrator of the arrival of pesticides and devices and shall deliver to the Administrator, upon the Administrator's request, samples of pesticides or devices which are being imported into the United States, giving notice to the owner or consignee, who may appear before the Administrator and have the right to introduce testimony. If it appears from the examination of a sample that it is adulterated, or misbranded or otherwise violates the provisions set forth in this subchapter, or is otherwise injurious to health or the environment, the pesticide or device may be refused admission, and the Secretary of the Treasury shall refuse delivery to the consignee and shall cause the destruction of any pesticide or device refused delivery which shall not be exported by the consignee within 90 days from the date of notice of such refusal under such regulations as the Secretary of the Treasury may prescribe. The Secretary of the Treasury may deliver to the consignee such pesticide or device pending examination and decision in the matter on execution of bond for the amount of the full invoice value of such pesticide or device, together with the duty thereon, and on refusal to return such pesticide or device for any cause to the custody of the Secretary of the Treasury, when demanded, for the purpose of excluding them from the country, or for any other purpose, said consignee shall forfeit the full amount of said bond. All charges for storage, cartage, and labor on pesticides or devices which are refused admission or delivery shall be paid by the owner or consignee, and in default of such payment shall constitute a lien against any future importation made by such owner or consignee.
 
 #### (d) Cooperation in international efforts
 
@@ -36,7 +36,7 @@ The Secretary of the Treasury, in consultation with the Administrator, shall pre
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 
@@ -62,7 +62,7 @@ Amendment by Pub. L. 100–532 effective on expiration of 60 days after Oct. 25,
 
 #### Effective Date of 1978 Amendment
 
-Section 18(b) of Pub. L. 95–396 provided that: “The amendment made by subsection (a)(1) of this section \[amending this section\] shall become effective one hundred and eighty days after the date of enactment of this Act \[Sept. 30, 1978\].”
+Pub. L. 95–396, §18(b), Sept. 30, 1978, 92 Stat. 833, provided that: “The amendment made by subsection (a)(1) of this section \[amending this section\] shall become effective one hundred and eighty days after the date of enactment of this Act \[Sept. 30, 1978\].”
 
 #### Effective Date
 

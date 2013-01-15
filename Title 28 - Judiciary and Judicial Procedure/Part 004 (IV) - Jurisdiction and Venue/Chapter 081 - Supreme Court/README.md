@@ -10,10 +10,13 @@
 | [1257\.](%C2%A7%2001257%20-%20State%20courts%3B%20certiorari.md) | State courts; certiorari. |
 | [1258\.](%C2%A7%2001258%20-%20Supreme%20Court%20of%20Puerto%20Rico%3B%20certiorari.md) | Supreme Court of Puerto Rico; certiorari. |
 | [1259\.](%C2%A7%2001259%20-%20Court%20of%20Appeals%20for%20the%20Armed%20Forces%3B%20certiorari.md) | Court of Appeals for the Armed Forces; certiorari. |
+| [1260\.](%C2%A7%2001260%20-%20Supreme%20Court%20of%20the%20Virgin%20Islands%3B%20certiorari.md) | Supreme Court of the Virgin Islands; certiorari. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2012</b>—Pub. L. 112–226, §2(b), Dec. 28, 2012, 126 Stat. 1606, added item 1260.
 
 <b>1994</b>—Pub. L. 103–337, div. A, title IX, §924(d)(2)(B), Oct. 5, 1994, 108 Stat. 2832, substituted “Court of Appeals for the Armed Forces” for “Court of Military Appeals” in item 1259.
 
@@ -27,7 +30,7 @@
 
 #### Definitions of Courts and Judges
 
-Section 32 of act June 25, 1948, as amended by act May 24, 1949, ch. 139, §127, 63 Stat. 107, provided:
+Act June 25, 1948, ch. 646, §32, 62 Stat. 991, as amended by act May 24, 1949, ch. 139, §127, 63 Stat. 107, provided:
 
 “(a) All laws of the United States in force on September 1, 1948, in which reference is made to a ‘circuit court of appeals’; ‘senior circuit judge’; ‘senior district judge’; ‘presiding judge’; ‘chief justice’, except when reference to the Chief Justice of the United States is intended; or ‘justice’, except when used with respect to a justice of the Supreme Court of the United States in his capacity as such or as a circuit justice, are hereby amended by substituting ‘court of appeals’ for ‘circuit court of appeals’; ‘chief judge of the circuit’ for ‘senior circuit judge’; ‘chief judge of the district court’ for ‘senior district judge’; ‘chief judge’ for ‘presiding judge’; ‘chief judge’ for ‘chief justice’, except when reference to the Chief Justice of the United States is intended; and ‘judge’ for ‘justice’, except when the latter term is used with respect to a justice of the Supreme Court of the United States in his capacity as such or as a circuit justice.
 
@@ -50,3 +53,4 @@ Section 32 of act June 25, 1948, as amended by act May 24, 1949, ch. 139, §127,
 - [&sect; 01257 - State courts; certiorari](%C2%A7%2001257%20-%20State%20courts%3B%20certiorari.md)
 - [&sect; 01258 - Supreme Court of Puerto Rico; certiorari](%C2%A7%2001258%20-%20Supreme%20Court%20of%20Puerto%20Rico%3B%20certiorari.md)
 - [&sect; 01259 - Court of Appeals for the Armed Forces; certiorari](%C2%A7%2001259%20-%20Court%20of%20Appeals%20for%20the%20Armed%20Forces%3B%20certiorari.md)
+- [&sect; 01260 - Supreme Court of the Virgin Islands; certiorari](%C2%A7%2001260%20-%20Supreme%20Court%20of%20the%20Virgin%20Islands%3B%20certiorari.md)

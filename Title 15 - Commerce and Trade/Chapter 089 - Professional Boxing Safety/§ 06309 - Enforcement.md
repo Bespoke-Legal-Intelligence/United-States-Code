@@ -8,7 +8,7 @@ Whenever the Attorney General of the United States has reasonable cause to belie
 
 #### (1) Managers, promoters, matchmakers, and licensees
 
-&emsp;Any manager, promoter, matchmaker, and licensee who knowingly violates, or coerces orcauses any other person to violate, any provision of this chapter, other than section 6307a(b),<sup>1</sup> 6307b, 6307c, 6307d, 6307e, 6307f, or 6307h of this title, shall, upon conviction, be imprisoned for not more than 1 year or fined not more than $20,000, or both.
+&emsp;Any manager, promoter, matchmaker, and licensee who knowingly violates, or coerces or causes any other person to violate, any provision of this chapter, other than section 6307a(b),<sup>1</sup> 6307b, 6307c, 6307d, 6307e, 6307f, or 6307h of this title, shall, upon conviction, be imprisoned for not more than 1 year or fined not more than $20,000, or both.
 
 #### (2) Violation of antiexploitation, sanctioning organization, or disclosure provisions
 

@@ -42,5 +42,5 @@ Amendment by Pub. L. 100–352 effective ninety days after June 27, 1988, except
 
 #### Effective Date of 1970 Amendment
 
-Section 199(a) of title I of Pub. L. 91–358 provided that: “The effective date of this title (and the amendments made by this title) \[enacting sections 1363, 1451, and 2113 of this title and amending this section, sections 292 and 1869 of this title, section 5102 of Title 5, Government Organization and Employees, and section 260a of Title 42, The Public Health and Welfare\] shall be the first day of the seventh calendar month which begins after the date of the enactment of this Act \[July 29, 1970\].”
+Pub. L. 91–358, title I, §199(a), July 29, 1970, 84 Stat. 597, provided that: “The effective date of this title (and the amendments made by this title) \[enacting sections 1363, 1451, and 2113 of this title and amending this section, sections 292 and 1869 of this title, section 5102 of Title 5, Government Organization and Employees, and section 260a of Title 42, The Public Health and Welfare\] shall be the first day of the seventh calendar month which begins after the date of the enactment of this Act \[July 29, 1970\].”
 

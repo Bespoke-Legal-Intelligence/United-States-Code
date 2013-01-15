@@ -44,7 +44,7 @@ Assistance may be provided under this section without regard to section 2354(a) 
 
 #### (1) In general
 
-&emsp;Of the amounts authorized to be available to carry out subchapter I of this chapter, there are authorized to be available such sums as may be necessary for each of the fiscal years 2005 through 2009 to carry out this section.
+&emsp;Of the amounts authorized to be available to carry out subchapter I of this chapter, thereare authorized to be available such sums as may be necessary for each of the fiscal years 2005 through 2009 to carry out this section.
 
 #### (2) Coverage of subsidy costs
 
@@ -124,7 +124,7 @@ Pub. L. 106–309, title I, §102, Oct. 17, 2000, 114 Stat. 1079, provided that:
 
 &emsp;“(4)(A) The poor in the developing world, particularly women, generally lack stable employment and social safety nets.
 
-&emsp;“(B) Many turn to self-employment to generate a substantial portion of their livelihood. In Africa, over 80 percent of employment is generated in the informal sector of the self-employed poor.
+&emsp;“(B) Many turn to self-employment to generate a substantial portion of their livelihood. In Africa, over80 percent of employment is generated in the informal sector of the self-employed poor.
 
 &emsp;“(C) These poor entrepreneurs are often trapped in poverty because they cannot obtain credit at reasonable rates to build their asset base or expand their otherwise viable self-employment activities.
 

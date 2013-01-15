@@ -2,7 +2,7 @@
 
 #### (a) Mandatory authorization order
 
-After six months from June 21, 1938, no person shall export any natural gas from the United States to a foreign country or import any natural gas from a foreign country without first having secured an order of the Commission authorizing it to do so. The Commission shall issue such order upon application, unless, after opportunity for hearing, it finds that the proposed exportation or importation will not be consistent with the public interest. The Commission may by its order grant such application, in whole or in part, with such modification and upon such terms and conditions as the Commission may find necessary or appropriate, and may from time to time, after opportunity for hearing, and for good cause shown, make such supplemental order in the premises as it may find necessary or appropriate.
+After six months from June 21, 1938, no person shall export any natural gas from the United States to a foreign country or import any natural gas from a foreign country without first having secured an order of the Commission authorizing it to do so. The Commission shall issue such order upon application, unless, after opportunity for hearing, it finds that the proposed exportation or importation will not be consistentwith the public interest. The Commission may by its order grant such application, in whole or in part, with such modification and upon such terms and conditions as the Commission may find necessary or appropriate, and may from time to time, after opportunity for hearing, and for good cause shown, make such supplemental order in the premises as it may find necessary or appropriate.
 
 #### (b) Free trade agreements
 
@@ -106,7 +106,7 @@ Section 1. (a) The Secretary of Energy is hereby designated and empowered to per
 
 (2) To receive all applications for permits for the construction, operation, maintenance, or connection, at the borders of the United States, of facilities for the exportation or importation of natural gas to or from a foreign country.
 
-(3) Upon finding the issuance of the permit to be consistent with the public interest, and, after obtaining the favorable recommendations of the Secretary of State and the Secretary of Defense thereon, to issue to the applicant, as appropriate, a permit for such construction, operation, maintenance, or connection. The Secretary of Energy shall have the power to attach tothe issuance of the permit and to the exercise of the rights granted thereunder such conditions as the public interest may in its judgment require.
+(3) Upon finding the issuance of the permit to be consistent with the public interest, and, after obtaining the favorable recommendations of the Secretary of State and the Secretary of Defense thereon, to issue to the applicant, as appropriate, a permit for such construction, operation, maintenance, or connection. The Secretary of Energy shall have the power to attach to the issuance of the permit and to the exercise of the rights granted thereunder such conditions as the public interest may in its judgment require.
 
 (b) In any case wherein the Secretary of Energy, the Secretary of State, and the Secretary of Defense cannot agree as to whether or not a permit should be issued, the Secretary of Energy shall submit to the President for approval or disapproval the application for a permit with the respective views of the Secretary of Energy, the Secretary of State and the Secretary of Defense.
 

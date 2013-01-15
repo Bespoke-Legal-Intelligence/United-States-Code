@@ -24,7 +24,7 @@
 
 (d) Transportation and travel expenses authorized by this section shall be furnished in accordance with joint regulations to be prescribed by the Secretary of Transportation, the Secretary of Defense, the Secretary of Commerce, and the Secretary of Health and Human Services, which shall require the use of transportation facilities of the United States insofar as practicable.
 
-(Added Pub. L. 89–140, §1(1), Aug. 28, 1965, 79 Stat. 579; amended Pub. L. 96–513, title V, §511(32), Dec. 12, 1980, 94 Stat. 2922; Pub. L. 98–94, title IX, §913(b), Sept. 24, 1983, 97 Stat. 640; Pub. L. 98–525, title VI, §611, title XIV, §1405(21), Oct. 19, 1984, 98 Stat. 2538, 2623; Pub. L. 99–348, title III, §304(a)(2), July 1, 1986, 100 Stat. 703; Pub. L. 99–661, div. A, title VI, §616(a), Nov. 14, 1986, 100 Stat. 3880; Pub. L. 112–81, div. A, title VII, §705, Dec. 31, 2011, 125 Stat. 1473.)
+(Added Pub. L. 89–140, §1(1), Aug. 28, 1965, 79 Stat. 579; amended Pub. L. 96–513, title V, §511(32), Dec. 12, 1980, 94 Stat. 2922; Pub. L. 98–94, title IX, §913(b), Sept. 24, 1983, 97 Stat. 640; Pub. L. 98–525, title VI, §611, title XIV, §1405(21), Oct. 19, 1984, 98 Stat. 2538, 2623; Pub. L. 99–348, title III, §304(a)(2), July 1, 1986, 100 Stat. 703; Pub. L. 99–661, div. A, title VI, §616(a), Nov. 14, 1986, 100Stat. 3880; Pub. L. 112–81, div. A, title VII, §705, Dec. 31, 2011, 125 Stat. 1473.)
 
 #### Codification
 
@@ -50,11 +50,11 @@ Pub. L. 98–525, §611, made provisions of section applicable to a dependent ac
 
 #### Effective Date of 1986 Amendment
 
-Section 616(b) of Pub. L. 99–661 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply only to travel performed on or after the date of the enactment of this Act \[Nov. 14, 1986\].”
+Pub. L. 99–661, div. A, title VI, §616(b), Nov. 14, 1986, 100 Stat. 3880, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply only to travel performed on or after the date of the enactment of this Act \[Nov. 14, 1986\].”
 
 #### Effective Date of 1984 Amendment
 
-Section 611 of Pub. L. 98–525 provided that the amendment made by that section is effective Oct. 1, 1984.
+Pub. L. 98–525, title VI, §611, Oct. 19, 1984, 98 Stat. 2538, provided that the amendment made by that section is effective Oct. 1, 1984.
 
 #### Effective Date of 1983 Amendment
 

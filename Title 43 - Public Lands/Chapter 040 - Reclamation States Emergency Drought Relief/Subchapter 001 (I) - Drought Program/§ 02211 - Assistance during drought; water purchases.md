@@ -30,7 +30,7 @@ For provisions directing that authorities established under this subchapter shal
 
 Pub. L. 107–206, title I, §103, Aug. 2, 2002, 116 Stat. 823, provided that: “Not later than 14 days after the date of enactment of this Act \[Aug. 2, 2002\], the Secretary of Agriculture shall carry out the transfer of funds under section 2507(a) of the Food Security and Rural Investment Act of 2002 (Public Law 107–171) \[set out below\].”
 
-Pub. L. 107–171, title II, §2507, May 13, 2002, 116 Stat. 275, as amended by Pub. L. 110–234, title II, §2807, May 22, 2008, 122 Stat. 1090; Pub. L. 110–246, §4(a), title II, §2807, June 18, 2008, 122 Stat. 1664, 1818; Pub. L. 111–85, title II, §207, Oct. 28, 2009, 123 Stat. 2858; Pub. L. 112–74,div. B, title II, §208(a), Dec. 23, 2011, 125 Stat. 866, provided that:
+Pub. L. 107–171, title II, §2507, May 13, 2002, 116 Stat. 275, as amended by Pub. L. 110–234, title II, §2807, May 22, 2008, 122 Stat. 1090; Pub. L. 110–246, §4(a), title II, §2807, June 18, 2008, 122 Stat. 1664, 1818; Pub. L. 111–85, title II, §207, Oct. 28, 2009, 123 Stat. 2858; Pub. L. 112–74, div. B, title II, §208(a), Dec. 23, 2011, 125 Stat. 866, provided that:
 
 “(a)
 

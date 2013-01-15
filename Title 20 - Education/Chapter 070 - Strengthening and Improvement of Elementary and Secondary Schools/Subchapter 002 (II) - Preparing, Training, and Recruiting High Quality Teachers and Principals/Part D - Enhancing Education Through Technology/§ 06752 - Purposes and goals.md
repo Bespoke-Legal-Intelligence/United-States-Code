@@ -14,7 +14,7 @@ The purposes of this part are the following:
 
 &emsp;(5) To enhance the ongoing professional development of teachers, principals, and administrators by providing constant access to training and updated research in teaching and learning through electronic means.
 
-&emsp;(6) To support the development and utilization of electronic networks and other innovative methods, such as distance learning, of delivering specialized or rigorous academic courses and curricula for students in areas that would not otherwise have access to such courses and curricula, particularly in geographically isolated regions.
+&emsp;(6) To support the development and utilization of electronic networks and other innovative methods, such as distance learning, of delivering specialized or rigorous academiccourses and curricula for students in areas that would not otherwise have access to such courses and curricula, particularly in geographically isolated regions.
 
 &emsp;(7) To support the rigorous evaluation of programs funded under this part, particularly regarding the impact of such programs on student academic achievement, and ensure that timely information on the results of such evaluations is widely accessible through electronic means.
 

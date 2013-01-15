@@ -2,7 +2,7 @@
 
 #### (a) Payments
 
-Subject to appropriations provided pursuant to section 9123 of this title, the Director shall pay to each State library administrative agency having a State plan approved under section 9134 of this title the Federal share of the cost of the activities described in the State plan.
+Subject to appropriations provided pursuant to section 9123 of this title, the Director shallpay to each State library administrative agency having a State plan approved under section 9134 of this title the Federal share of the cost of the activities described in the State plan.
 
 #### (b) Federal share
 
@@ -34,7 +34,7 @@ Subject to appropriations provided pursuant to section 9123 of this title, the D
 
 #### (B) Decrease in Federal support
 
-&emsp;&emsp;If the amount made available under this subchapter for a fiscal year is less than the amount made available under this subchapter for the preceding fiscal year, thenthe expenditures required by subparagraph (A) for such preceding fiscal year shall be decreased by the same percentage as the percentage decrease in the amount so made available.
+&emsp;&emsp;If the amount made available under this subchapter for a fiscal year is less than the amount made available under this subchapter for the preceding fiscal year, then the expenditures required by subparagraph (A) for such preceding fiscal year shall be decreased by the same percentage as the percentage decrease in the amount so made available.
 
 #### (2) Level of State expenditures
 

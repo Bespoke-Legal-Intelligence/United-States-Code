@@ -28,7 +28,7 @@ Act of July 28, 1866; 14 Stat. 339, referred to in par. (2), is predecessor of R
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–289, §1, Oct. 11, 1996, 110 Stat. 3411, provided that: “This Act \[enacting section 205<i>l</i> of this title, amending sections 205c and 205<i>l</i> of this title, and enacting provisions set out as notes under this section and section 205c of this title\] may be cited as the ‘Savings in Construction Act of 1996’.”
+Pub. L. 104–289, §1, Oct. 11, 1996, 110 Stat. 3411, provided that: “This Act \[enacting section 205l of this title, amending sections 205c and 205l of this title, and enacting provisions set out as notes under this section and section 205c of this title\] may be cited as the ‘Savings in Construction Act of 1996’.”
 
 #### Short Title
 

@@ -10,7 +10,7 @@
 
 #### (B) Recreation programs
 
-&emsp;&emsp;The recreation programs that may be funded using assistance provided under a grant under this section may include vocational skills development, leisure education, leisure networking, leisure resource development, physical education and sports, scouting and camping, 4–H activities, construction of facilities for aquatic rehabilitation therapy, music, dancing, handicrafts, art, and homemaking. When possible and appropriate, such programs and activities should be provided in settings with peers who are not individuals with disabilities.
+&emsp;&emsp;The recreation programs that may be funded using assistance provided under a grant under this section may include vocational skills development, leisure education, leisure networking, leisure resource development, physical education and sports, scouting and camping, 4–H activities, construction of facilities for aquatic rehabilitation therapy, music, dancing, handicrafts, art, and homemaking. When possible and appropriate, such programs and activities shouldbe provided in settings with peers who are not individuals with disabilities.
 
 #### (C) Design of program
 
@@ -56,7 +56,7 @@
 
 #### (B) Limitation
 
-&emsp;&emsp;The Commissioner may not make financial assistance available to a grant recipient for a subsequent year until the Commissionerhas received and evaluated the annual report of the recipient under subparagraph (A) for the current year.
+&emsp;&emsp;The Commissioner may not make financial assistance available to a grant recipient for a subsequent year until the Commissioner has received and evaluated the annual report of the recipient under subparagraph (A) for the current year.
 
 #### (b) Authorization of appropriations
 

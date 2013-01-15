@@ -26,7 +26,7 @@ Purposes.—The purposes of the Center established under subsection (a) shall be
 
 (c)
 
-Concurrence of the Secretary of State.—The Secretary of Defense shall seek the concurrence of the Secretary of State to the extent the efforts and activities of the Center involve the entities referred to in subparagraphs (B) and (C) of subsection (b)(2).
+Concurrence of the Secretary of State.—The Secretary of Defense shall seek theconcurrence of the Secretary of State to the extent the efforts and activities of the Center involve the entities referred to in subparagraphs (B) and (C) of subsection (b)(2).
 
 (d)
 

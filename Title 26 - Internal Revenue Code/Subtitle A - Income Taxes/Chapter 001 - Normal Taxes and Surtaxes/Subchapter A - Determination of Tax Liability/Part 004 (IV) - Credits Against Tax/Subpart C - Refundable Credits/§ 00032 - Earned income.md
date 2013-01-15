@@ -82,9 +82,9 @@ For purposes of subsection (a)—
 
 &emsp;&emsp;&emsp;(iii) $3,000 in the case of taxable years beginning after 2007.
 
-#### (3) Special rules for 2009, 2010, 2011, and 2012
+#### (3) Special rules for for <sup>1</sup> certain years
 
-&emsp;In the case of any taxable year beginning in 2009, 2010, 2011, or 2012—
+&emsp;In the case of any taxable year beginning after 2008 and before 2018—
 
 #### (A) Increased credit percentage for 3 or more qualifying children
 
@@ -144,7 +144,7 @@ For purposes of this section—
 
 #### (E) Identification number requirement
 
-&emsp;&emsp;No credit shall be allowed under this section to an eligible individual who does not include on the return of tax for the taxable year—
+&emsp;&emsp;No credit shall be allowed under this section to an eligible individual who does notinclude on the return of tax for the taxable year—
 
 &emsp;&emsp;&emsp;(i) such individual's taxpayer identification number, and
 
@@ -152,7 +152,7 @@ For purposes of this section—
 
 #### (F) Individuals who do not include TIN, etc., of any qualifying child
 
-&emsp;&emsp;No credit shall be allowed under this section to any eligible individual who has oneor more qualifying children if no qualifying child of such individual is taken into account under subsection (b) by reason of paragraph (3)(D).
+&emsp;&emsp;No credit shall be allowed under this section to any eligible individual who has one or more qualifying children if no qualifying child of such individual is taken into account under subsection (b) by reason of paragraph (3)(D).
 
 #### (2) Earned income
 
@@ -308,7 +308,7 @@ Except in the case of a taxable year closed by reason of the death of the taxpay
 
 &emsp;In the case of a taxpayer who is denied credit under this section for any taxable year as a result of the deficiency procedures under subchapter B of chapter 63, no credit shall be allowed under this section for any subsequent taxable year unless the taxpayer provides such information as the Secretary may require to demonstrate eligibility for such credit.
 
-#### (<i>l</i>) Coordination with certain means-tested programs
+#### (l) Coordination with certain means-tested programs
 
 For purposes of—
 
@@ -322,37 +322,33 @@ For purposes of—
 
 &emsp;(5) the Food and Nutrition Act of 2008,
 
-> any refund made to an individual (or the spouse of an individual) by reason of this section, and any payment made to such individual (or such spouse) by an employer under section 3507,<sup>1</sup> shall not be treated as income (and shall not be taken into account in determining resources for the month of its receipt and the following month).
+> any refund made to an individual (or the spouse of an individual) by reason of this section, and any payment made to such individual (or such spouse) by an employer under section 3507,<sup>2</sup> shall not be treated as income (and shall not be taken into account in determining resources for the month of its receipt and the following month).
 
 #### (m) Identification numbers
 
-Solely for purposes of subsections (c)(1)(E) and (c)(3)(D), a taxpayer identification number means a social security number issued to an individual by the Social Security Administration (other than a social security number issued pursuant to clause (II) (or that portion of clause (III) that relates to clause (II)) of section 205(c)(2)(B)(i) of the Social Security Act).
+Solely for purposes of subsections (c)(1)(E) and (c)(3)(D), a taxpayer identification numbermeans a social security number issued to an individual by the Social Security Administration (other than a social security number issued pursuant to clause (II) (or that portion of clause (III) that relates to clause (II)) of section 205(c)(2)(B)(i) of the Social Security Act).
 
-(Added Pub. L. 94–12, title II, §204(a), Mar. 29, 1975, 89 Stat. 30, §43; amended Pub. L. 94–164, §2(c), Dec. 23, 1975, 89 Stat. 971; Pub. L. 94–455, title IV, §401(c)(1)(B), (2), Oct. 4, 1976, 90 Stat. 1557; Pub. L. 95–600, title I, §§104(a)–(e), 105(a), Nov. 6, 1978, 92 Stat. 2772, 2773; Pub. L. 95–615,§202(g)(5), formerly §202(f)(5), Nov. 8, 1978, 92 Stat. 3100, renumbered §202(g)(5) and amended Pub. L. 96–222, title I, §§101(a)(1), (2)(E), 108(a)(1)(A), Apr. 1, 1980, 94 Stat. 194, 195, 223; Pub. L. 97–34, title I, §§111(b)(2), 112(b)(3), Aug. 13, 1981, 95 Stat. 194, 195; Pub. L. 98–21, title I, §124(c)(4)(B), Apr. 20, 1983, 97 Stat. 91; renumbered §32 and amended Pub. L. 98–369, div. A, title IV, §§423(c)(3), 471(c), title X, §1042(a)–(d)(2), July 18, 1984, 98 Stat. 801, 826, 1043; Pub. L. 99–514, title I, §§104(b)(1)(B), 111(a)–(d)(1), title XII, §1272(d)(4), title XIII, §1301(j)(8), Oct. 22, 1986, 100 Stat. 2104, 2107, 2594, 2658; Pub. L. 100–647, title I, §§1001(c), 1007(g)(12), Nov. 10, 1988, 102 Stat. 3350, 3436; Pub. L. 101–508, title XI, §§11101(d)(1)(B), 11111(a), (b), (e), Nov. 5, 1990, 104 Stat. 1388–405, 1388–408, 1388–412, 1388–413; Pub. L. 103–66, title XIII, §13131(a)–(d)(1), Aug. 10, 1993, 107 Stat. 433–435; Pub. L. 103–465, title VII, §§721(a), 722(a), 723(a), 742(a), Dec. 8, 1994, 108 Stat. 5002, 5003, 5010; Pub. L. 104–7, §4(a), Apr. 11, 1995, 109 Stat. 95; Pub. L. 104–193, title IV, §451(a), (b), title IX, §§909(a), (b), 910(a), (b), Aug. 22, 1996, 110 Stat. 2276, 2277, 2351, 2352; Pub. L. 105–34, title I, §101(b), title III, §312(d)(2), title X, §1085(a)(1), (b)–(d), Aug. 5, 1997, 111 Stat. 798, 840, 955, 956; Pub. L. 105–206, title VI, §§6003(b), 6010(p)(1), (2), 6021(a), (b), July 22, 1998, 112 Stat. 791, 816, 817, 823, 824; Pub. L. 106–170, title IV, §412(a), Dec. 17, 1999, 113 Stat. 1917; Pub. L. 107–16, title II, §201(c)(3), title III, §303(a)–(f), (h), June 7, 2001, 115 Stat. 47, 55–57; Pub. L. 107–147, title IV, §416(a)(1), Mar. 9, 2002, 116 Stat. 55; Pub. L. 108–311, title I, §104(b), title II, §205, Oct. 4, 2004, 118 Stat. 1169, 1176; Pub. L. 109–135, title III, §302(a), Dec. 21, 2005, 119 Stat. 2608; Pub. L. 109–432, div. A, title I, §106(a), Dec. 20, 2006, 120 Stat. 2938; Pub. L. 110–234, title IV, §4002(b)(1)(B), (2)(O), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–245, title I, §102(a), June 17, 2008, 122 Stat. 1625; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(O), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 111–5, div. B, title I, §1002(a), Feb. 17, 2009, 123 Stat. 312; Pub. L. 111–226, title II, §219(a)(2), Aug. 10, 2010, 124 Stat. 2403; Pub. L. 111–312, title I, §103(c), Dec. 17, 2010, 124 Stat. 3299.)
+(Added Pub. L. 94–12, title II, §204(a), Mar. 29, 1975, 89 Stat. 30, §43; amended Pub. L. 94–164, §2(c), Dec. 23, 1975, 89 Stat. 971; Pub. L. 94–455, title IV, §401(c)(1)(B), (2), Oct. 4, 1976, 90 Stat. 1557; Pub. L. 95–600, title I, §§104(a)–(e), 105(a), Nov. 6, 1978, 92 Stat. 2772, 2773; Pub. L. 95–615, §202(g)(5), formerly §202(f)(5), Nov. 8, 1978, 92 Stat. 3100, renumbered §202(g)(5) and amended Pub. L. 96–222, title I, §§101(a)(1), (2)(E), 108(a)(1)(A), Apr. 1, 1980, 94 Stat. 194, 195, 223; Pub. L. 97–34, title I, §§111(b)(2), 112(b)(3), Aug. 13, 1981, 95 Stat. 194, 195; Pub. L. 98–21, title I, §124(c)(4)(B), Apr. 20, 1983, 97 Stat. 91; renumbered §32 and amended Pub. L. 98–369, div. A, title IV, §§423(c)(3), 471(c), title X, §1042(a)–(d)(2), July 18, 1984, 98 Stat. 801, 826, 1043; Pub. L. 99–514, title I, §§104(b)(1)(B), 111(a)–(d)(1), title XII, §1272(d)(4), title XIII, §1301(j)(8), Oct. 22, 1986, 100 Stat. 2104, 2107, 2594, 2658; Pub. L. 100–647, title I, §§1001(c), 1007(g)(12), Nov. 10, 1988, 102 Stat. 3350, 3436; Pub. L. 101–508, title XI, §§11101(d)(1)(B), 11111(a), (b), (e), Nov. 5, 1990, 104 Stat. 1388–405, 1388–408, 1388–412, 1388–413; Pub. L. 103–66, title XIII, §13131(a)–(d)(1), Aug. 10, 1993, 107 Stat. 433–435; Pub. L. 103–465, title VII, §§721(a), 722(a), 723(a), 742(a), Dec. 8, 1994, 108 Stat. 5002, 5003, 5010; Pub. L. 104–7, §4(a), Apr. 11, 1995, 109 Stat. 95; Pub. L. 104–193, title IV, §451(a), (b), title IX, §§909(a), (b), 910(a), (b), Aug. 22, 1996, 110 Stat. 2276, 2277, 2351, 2352; Pub. L. 105–34, title I, §101(b), title III, §312(d)(2), title X, §1085(a)(1), (b)–(d), Aug. 5, 1997, 111 Stat. 798, 840, 955, 956; Pub. L. 105–206, title VI, §§6003(b), 6010(p)(1), (2), 6021(a), (b), July 22, 1998, 112 Stat. 791, 816, 817, 823, 824; Pub. L. 106–170, title IV, §412(a), Dec. 17, 1999, 113 Stat. 1917; Pub. L. 107–16, title II, §201(c)(3), title III, §303(a)–(f), (h), June 7, 2001, 115 Stat. 47, 55–57; Pub. L. 107–147, title IV, §416(a)(1), Mar. 9, 2002, 116 Stat. 55; Pub. L. 108–311, title I, §104(b), title II, §205, Oct. 4, 2004, 118 Stat. 1169, 1176; Pub. L. 109–135, title III, §302(a), Dec. 21, 2005, 119 Stat. 2608; Pub. L. 109–432, div. A, title I, §106(a), Dec. 20, 2006, 120 Stat. 2938; Pub. L. 110–234, title IV, §4002(b)(1)(B), (2)(O), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–245, title I, §102(a), June 17, 2008, 122 Stat. 1625; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(O), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 111–5, div. B, title I, §1002(a), Feb. 17, 2009, 123 Stat. 312; Pub. L. 111–226, title II, §219(a)(2), Aug. 10, 2010, 124 Stat. 2403; Pub. L. 111–312, title I, §103(c), Dec. 17, 2010, 124 Stat. 3299; Pub. L. 112–240, title I, §103(c), Jan. 2, 2013, 126 Stat. 2319.)
 
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
-#### Amendment of Section
-
-<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
-
 #### References in Text
 
 The Social Security Act, referred to in subsecs. (c)(2)(B)(v) and (m), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Sections 205(c)(2)(B)(i) and 407(d)(4), (7) of the Act are classified to sections 405(c)(2)(B)(i) and 607(d)(4), (7), respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-Section 3507, referred to in subsec. (<i>l</i>), was repealed by Pub. L. 111–226, title II, §219(a)(1), Aug. 10, 2010, 124 Stat. 2403.
+Section 3507, referred to in subsec. (l), was repealed by Pub. L. 111–226, title II, §219(a)(1), Aug. 10, 2010, 124 Stat. 2403.
 
-The United States Housing Act of 1937, referred to in subsec. (<i>l</i>)(1), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note under section 1437 of Title 42 and Tables.
+The United States Housing Act of 1937, referred to in subsec. (l)(1), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note under section 1437 of Title 42 and Tables.
 
-The Housing Act of 1949, referred to in subsec. (<i>l</i>)(2), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended. Title V of the Act is classified generally to subchapter III (§1471 et seq.) of chapter 8A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
+The Housing Act of 1949, referred to in subsec. (l)(2), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended. Title V of the Act is classified generally to subchapter III (§1471 et seq.) of chapter 8A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
 
-Section 101 of the Housing and Urban Development Act of 1965, referred to in subsec. (<i>l</i>)(3), is section 101 of Pub. L. 89–117, title I, Aug. 10, 1965, 79 Stat. 451, which enacted section 1701s of Title 12, Banks and Banking, and amended sections 1451 and 1465 of Title 42.
+Section 101 of the Housing and Urban Development Act of 1965, referred to in subsec. (l)(3), is section 101 of Pub. L. 89–117, title I, Aug. 10, 1965, 79 Stat. 451, which enacted section 1701s of Title 12, Banks and Banking, and amended sections 1451 and 1465 of Title 42.
 
-Sections 221(d)(3), 235, and 236 of the National Housing Act, referred to in subsec. (<i>l</i>)(4), are classified to sections 1715<i>l</i>(d)(3), 1715z, and 1715z–1, respectively, of Title 12.
+Sections 221(d)(3), 235, and 236 of the National Housing Act, referred to in subsec. (l)(4), are classified to sections 1715l(d)(3), 1715z, and 1715z–1, respectively, of Title 12.
 
-The Food and Nutrition Act of 2008, referred to in subsec. (<i>l</i>)(5), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food and Nutrition Act of 2008, referred to in subsec. (l)(5), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 #### Codification
 
@@ -363,6 +359,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 A prior section 32 was renumbered section 33 of this title.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (b)(3). Pub. L. 112–240 substituted “for certain years” for “2009, 2010, 2011, and 2012” in heading and “after 2008 and before 2018” for “in 2009, 2010, 2011, or 2012” in introductory provisions.
 
 <b>2010</b>—Subsec. (b)(3). Pub. L. 111–312 substituted “2009, 2010, 2011, and 2012” for “2009 and 2010” in heading and “, 2010, 2011, or 2012” for “or 2010” in introductory provisions.
 
@@ -386,7 +384,7 @@ Reconciliation of payments advanced and credit allowed.—Any increase in tax un
 
 > a taxpayer may elect to treat amounts excluded from gross income by reason of section 112 as earned income.”
 
-Subsec. (<i>l</i>)(5). Pub. L. 110–246, §4002(b)(1)(B), (2)(O), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
+Subsec. (l)(5). Pub. L. 110–246, §4002(b)(1)(B), (2)(O), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
 
 <b>2006</b>—Subsec. (c)(2)(B)(vi)(II). Pub. L. 109–432 substituted “2008” for “2007”.
 
@@ -404,25 +402,23 @@ Subsec. (m). Pub. L. 108–311, §205(b)(3), substituted “(c)(1)(E)” for “
 
 <b>2002</b>—Subsec. (g)(2). Pub. L. 107–147 substituted “part” for “subpart”.
 
-<b>2001</b>—Subsec. (a)(2)(B). Pub. L. 107–16, §§303(d)(1), 901, temporarily struck out “modified” before “adjusted gross income”. See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Subsec. (a)(2)(B). Pub. L. 107–16, §303(d)(1), struck out “modified” before “adjusted gross income”.
 
-Subsec. (b)(2). Pub. L. 107–16, §§303(a)(1), 901, temporarily reenacted par. heading without change, designated existing provisions as subpar. (A), inserted subpar. heading, substituted “Subject to subparagraph (B), the earned” for “The earned”, and added subpar. (B). See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (b)(2). Pub. L. 107–16, §303(a)(1), reenacted par. heading without change, designated existing provisions as subpar. (A), inserted subpar. heading, substituted “Subject to subparagraph (B), the earned” for “The earned”, and added subpar. (B).
 
-Subsec. (c)(1)(C). Pub. L. 107–16, §§303(f), 901, temporarily amended heading and text of subpar. (C) generally. Prior to amendment, text read as follows: “If 2 or more individuals would (but for this subparagraph and after application of subparagraph (B)) be treated as eligible individuals with respect to the same qualifying child for taxable years beginning in the same calendar year, only the individual with the highest modified adjusted gross income for such taxable years shall be treated as an eligible individual with respect to such qualifying child.” See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (c)(1)(C). Pub. L. 107–16, §303(f), amended heading and text of subpar. (C) generally. Prior to amendment, text read as follows: “If 2 or more individuals would (but for this subparagraph and after application of subparagraph (B)) be treated as eligible individuals with respect to the same qualifying child for taxable years beginning in the same calendar year, only the individual with the highest modified adjusted gross income for such taxable years shall be treated as an eligible individual with respect to such qualifying child.”
 
-Subsec. (c)(2)(A)(i). Pub. L. 107–16, §§303(b), 901, temporarily inserted “, but only if such amounts are includible in gross income for the taxable year” after “other employee compensation”. See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (c)(2)(A)(i). Pub. L. 107–16, §303(b), inserted “, but only if such amounts are includible in gross income for the taxable year” after “other employee compensation”.
 
-Subsec. (c)(3)(A)(ii). Pub. L. 107–16, §§303(e)(2)(B), 901, temporarily struck out “except as provided in subparagraph (B)(iii),” before “who has”. See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (c)(3)(A)(ii). Pub. L. 107–16, §303(e)(2)(B), struck out “except as provided in subparagraph (B)(iii),” before “who has”.
 
-Subsec. (c)(3)(B)(i). Pub. L. 107–16, §§303(e)(1), 901, temporarily reenacted heading, introductory provisions, and subcl. (III) of cl. (i) without change and amended subcls. (I) and (II) generally. Prior to amendment, subcls. (I) and (II) read as follows:
+Subsec. (c)(3)(B)(i). Pub. L. 107–16, §303(e)(1), reenacted heading, introductory provisions, and subcl. (III) of cl. (i) without change and amended subcls. (I) and (II) generally. Prior to amendment, subcls. (I) and (II) read as follows:
 
 “(I) a son or daughter of the taxpayer, or a descendant of either,
 
 “(II) a stepson or stepdaughter of the taxpayer, or.”
 
-> See Effective and Termination Dates of 2001 Amendment note below.
-
-Subsec. (c)(3)(B)(iii). Pub. L. 107–16, §§303(e)(2)(A), 901, temporarily reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “For purposes of clause (i)(III), the term ‘eligible foster child’ means an individual not described in clause (i)(I) or (II) who—
+Subsec. (c)(3)(B)(iii). Pub. L. 107–16, §303(e)(2)(A), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “For purposes of clause (i)(III), the term ‘eligible foster child’ means an individual not described in clause (i)(I) or (II) who—
 
 &emsp;“(I) is a brother, sister, stepbrother, or stepsister of the taxpayer (or a descendant of any such relative) or is placed with the taxpayer by an authorized placement agency,
 
@@ -430,21 +426,19 @@ Subsec. (c)(3)(B)(iii). Pub. L. 107–16, §§303(e)(2)(A), 901, temporarily ree
 
 &emsp;“(III) has the same principal place of abode as the taxpayer for the taxpayer's entire taxable year.”
 
-> See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (c)(3)(E). Pub. L. 107–16, §303(h), substituted “subparagraph (A)(ii)” for “subparagraphs (A)(ii) and (B)(iii)(II)”.
 
-Subsec. (c)(3)(E). Pub. L. 107–16, §§303(h), 901, temporarily substituted “subparagraph (A)(ii)” for “subparagraphs (A)(ii) and (B)(iii)(II)”. See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (c)(5). Pub. L. 107–16, §303(d)(2)(A), struck out heading and text of par. (5), which defined “modified adjusted gross income” as meaning adjusted gross income without regard to certain described amounts and increased by certain described amounts.
 
-Subsec. (c)(5). Pub. L. 107–16, §§303(d)(2)(A), 901, temporarily struck out heading and text of par. (5), which defined “modified adjusted gross income” as meaning adjusted gross income without regard to certain described amounts and increased by certain described amounts. See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (f)(2)(B). Pub. L. 107–16, §303(d)(2)(B), struck out “modified” before “adjusted gross income” in two places.
 
-Subsec. (f)(2)(B). Pub. L. 107–16, §§303(d)(2)(B), 901, temporarily struck out “modified” before “adjusted gross income” in two places. See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (h). Pub. L. 107–16, §303(c), struck out heading and text of subsec. (h). Text read as follows: “The credit allowed under this section for the taxable year shall be reduced by the amount of tax imposed by section 55 (relating to alternative minimum tax) with respect to such taxpayer for such taxable year.”
 
-Subsec. (h). Pub. L. 107–16, §§303(c), 901, temporarily struck out heading and text of subsec. (h). Text read as follows: “The credit allowed under this section for the taxable year shall be reduced by the amount of tax imposed by section 55 (relating to alternative minimum tax) with respect to such taxpayer for such taxable year.” See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (j)(1)(B). Pub. L. 107–16, §303(a)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting ‘calendar year 1995’ for ‘calendar year 1992’ in subparagraph (B) thereof.”
 
-Subsec. (j)(1)(B). Pub. L. 107–16, §§303(a)(2), 901, temporarily amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting ‘calendar year 1995’ for ‘calendar year 1992’ in subparagraph (B) thereof.” See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (j)(2)(A). Pub. L. 107–16, §303(a)(3), substituted “subsection (b)(2)(A) (after being increased under subparagraph (B) thereof)” for “subsection (b)(2)”.
 
-Subsec. (j)(2)(A). Pub. L. 107–16, §§303(a)(3), 901, temporarily substituted “subsection (b)(2)(A) (after being increased under subparagraph (B) thereof)” for “subsection (b)(2)”. See Effective and Termination Dates of 2001 Amendment note below.
-
-Subsec. (n). Pub. L. 107–16, §§201(c)(3), 901, temporarily struck out heading and text of subsec. (n), which had increased credit allowable under this section in the case of a taxpayer with respect to whom a child tax credit is allowed under section 24(a), described amount of increase, and set forth provisions relating to coordination with other credits allowable under this part. See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (n). Pub. L. 107–16, §201(c)(3), struck out heading and text of subsec. (n), which had increased credit allowable under this section in the case of a taxpayer with respect to whom a child tax credit is allowed under section 24(a), described amount of increase, and set forth provisions relating to coordination with other credits allowable under this part.
 
 <b>1999</b>—Subsec. (c)(3)(B)(iii). Pub. L. 106–170 added subcl. (I) and redesignated former subcls. (I) and (II) as (II) and (III), respectively.
 
@@ -468,7 +462,7 @@ Subsec. (c)(5)(B). Pub. L. 105–206, §6010(p)(1)(B), (C), inserted “or” at
 
 &emsp;“(vi) amounts received as a pension or annuity, and any distributions or payments received from an individual retirement plan, by the taxpayer during the taxable year to the extent not included in gross income.
 
-> For purposes of clause (iv), there shall not be taken into account items which are attributable to a trade orbusiness which consists of the performance of services by the taxpayer as an employee. Clause (vi) shall not include any amount which is not includible in gross income by reason of section 402(c), 403(a)(4), 403(b), 408(d)(3), (4), or (5), or 457(e)(10).”
+> For purposes of clause (iv), there shall not be taken into account items which are attributable to a trade or business which consists of the performance of services by the taxpayer as an employee. Clause (vi) shall not include any amount which is not includible in gross income by reason of section 402(c), 403(a)(4), 403(b), 408(d)(3), (4), or (5), or 457(e)(10).”
 
 Subsec. (c)(5)(C). Pub. L. 105–206, §6010(p)(1)(C), added subpar. (C).
 
@@ -502,11 +496,11 @@ Subsec. (c)(5)(B)(iv). Pub. L. 105–34, §1085(b), substituted “75 percent”
 
 Subsec. (c)(5)(B)(v), (vi). Pub. L. 105–34, §1085(d)(1)–(3), added cls. (v) and (vi).
 
-Subsec. (k). Pub. L. 105–34, §1085(a)(1), added subsec. (k). Former subsec. (k) redesignated (<i>l</i>).
+Subsec. (k). Pub. L. 105–34, §1085(a)(1), added subsec. (k). Former subsec. (k) redesignated (l).
 
-Subsec. (<i>l</i>). Pub. L. 105–34, §1085(a)(1), redesignated subsec. (k) as (<i>l</i>). Former subsec. (<i>l</i>) redesignated (m).
+Subsec. (l). Pub. L. 105–34, §1085(a)(1), redesignated subsec. (k) as (l). Former subsec. (l) redesignated (m).
 
-Subsec. (m). Pub. L. 105–34, §1085(a)(1), redesignated subsec. (<i>l</i>) as (m) relating to identification numbers.
+Subsec. (m). Pub. L. 105–34, §1085(a)(1), redesignated subsec. (l) as (m) relating to identification numbers.
 
 Pub. L. 105–34, §101(b), added subsec. (m) relating to supplemental child credit.
 
@@ -540,7 +534,7 @@ In general.—In the case of any taxable year beginning after 1994, each dollar 
 
 Rounding.—If any dollar amount after being increased under paragraph (1) is not a multiple of $10, such dollar amount shall be rounded to the nearest multiple of $10 (or, if such dollar amount is a multiple of $5, such dollar amount shall be increased to the next higher multiple of $10).”
 
-Subsec. (<i>l</i>). Pub. L. 104–193, §451(b), added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 104–193, §451(b), added subsec. (l).
 
 <b>1995</b>—Subsecs. (i) to (k). Pub. L. 104–7 added subsec. (i) and redesignated former subsecs. (i) and (j) as (j) and (k), respectively.
 
@@ -684,6 +678,10 @@ Subsec. (c)(1)(A). Pub. L. 94–455, §401(c)(2), among other changes, substitut
 
 Subsec. (b). Pub. L. 94–164 designated existing provisions as par. (1) and added par. (2).
 
+#### Effective Date of 2013 Amendment
+
+Amendment by Pub. L. 112–240 applicable to taxable years beginning after Dec. 31, 2012, see section 103(e)(1) of Pub. L. 112–240, set out as a note under section 24 of this title.
+
 #### Effective Date of 2010 Amendment
 
 Amendment by Pub. L. 111–312 applicable to taxable years beginning after Dec. 31, 2010, see section 103(d) of Pub. L. 111–312, set out as an Effective and Termination Dates of 2010 Amendment note under section 24 of this title.
@@ -722,7 +720,7 @@ Amendment by section 205 of Pub. L. 108–311 applicable to taxable years beginn
 
 Pub. L. 107–147, title IV, §416(a)(2), Mar. 9, 2002, 116 Stat. 55, provided that: “The amendment made by this subsection \[amending this section\] shall take effect as if included in section 474 of the Tax Reform Act of 1984 \[Pub. L. 98–369\].”
 
-#### Effective and Termination Dates of 2001 Amendment
+#### Effective Date of 2001 Amendment
 
 Amendment by section 201(c)(3) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2000, see section 201(e)(1) of Pub. L. 107–16, set out as a note under section 24 of this title.
 
@@ -735,8 +733,6 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 “(2)
 
 Subsection (g).—The amendment made by subsection (g) \[amending section 6213 of this title\] shall take effect on January 1, 2004.”
-
-Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1999 Amendment
 
@@ -762,7 +758,7 @@ Amendment by section 101(b) of Pub. L. 105–34 applicable to taxable years begi
 
 Amendment by section 312(d)(2) of Pub. L. 105–34 applicable to sales and exchanges after May 6, 1997, with certain exceptions, see section 312(d) of Pub. L. 105–34, set out as a note under section 121 of this title.
 
-Section 1085(e) of Pub. L. 105–34 provided that:
+Pub. L. 105–34, title X, §1085(e), Aug. 5, 1997, 111 Stat. 957, provided that:
 
 “(1) The amendments made by subsection (a) \[amending this section and sections 6213 and 6695 of this title\] shall apply to taxable years beginning after December 31, 1996.
 
@@ -770,9 +766,9 @@ Section 1085(e) of Pub. L. 105–34 provided that:
 
 #### Effective Date of 1996 Amendment
 
-Section 451(d) of Pub. L. 104–193 provided that: “The amendments made by this section \[amending this section and section 6213 of this title\] shall apply with respect to returns the due date for which (without regard to extensions) is more than 30 days after the date of the enactment of this Act \[Aug. 22, 1996\].”
+Pub. L. 104–193, title IV, §451(d), Aug. 22, 1996, 110 Stat. 2277, provided that: “The amendments made by this section \[amending this section and section 6213 of this title\] shall apply with respect to returns the due date for which (without regard to extensions) is more than 30 days after the date of the enactment of this Act \[Aug. 22, 1996\].”
 
-Section 909(c) of Pub. L. 104–193 provided that:
+Pub. L. 104–193, title IX, §909(c), Aug. 22, 1996, 110 Stat. 2352, provided that:
 
 “(1)
 
@@ -782,7 +778,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 Advance payment individuals.—In the case of any individual who on or before June 26, 1996, has in effect an earned income eligibility certificate for the individual's taxable year beginning in 1996, the amendments made by this section shall apply to taxable years beginning after December 31, 1996.”
 
-Section 910(c) of Pub. L. 104–193 provided that:
+Pub. L. 104–193, title IX, §910(c), Aug. 22, 1996, 110 Stat. 2353, provided that:
 
 “(1)
 
@@ -794,17 +790,17 @@ Advance payment individuals.—In the case of any individual who on or before Ju
 
 #### Effective Date of 1995 Amendment
 
-Section 4(b) of Pub. L. 104–7 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1995.”
+Pub. L. 104–7, §4(b), Apr. 11, 1995, 109 Stat. 96, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1995.”
 
 #### Effective Date of 1994 Amendment
 
-Section 721(d)(1) of Pub. L. 103–465 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1994.”
+Pub. L. 103–465, title VII, §721(d)(1), Dec. 8, 1994, 108 Stat. 5002, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1994.”
 
-Section 722(b) of Pub. L. 103–465 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1994.”
+Pub. L. 103–465, title VII, §722(b), Dec. 8, 1994, 108 Stat. 5003, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1994.”
 
-Section 723(b) of Pub. L. 103–465 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1993.”
+Pub. L. 103–465, title VII, §723(b), Dec. 8, 1994, 108 Stat. 5003, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1993.”
 
-Section 742(c) of Pub. L. 103–465 provided that:
+Pub. L. 103–465, title VII, §742(c), Dec. 8, 1994, 108 Stat. 5010, provided that:
 
 “(1)
 
@@ -820,13 +816,13 @@ Exception.—The amendments made by this section shall not apply to—
 
 #### Effective Date of 1993 Amendment
 
-Section 13131(e) of Pub. L. 103–66 provided that: “The amendments made by this section \[amending this section and sections 162, 213, and 3507 of this title\] shall apply to taxable years beginning after December 31, 1993.”
+Pub. L. 103–66, title XIII, §13131(e), Aug. 10, 1993, 107 Stat. 435, provided that: “The amendments made by this section \[amending this section and sections 162, 213, and 3507 of this title\] shall apply to taxable years beginning after December 31, 1993.”
 
 #### Effective Date of 1990 Amendment
 
 Amendment by section 11101(d)(1)(B) of Pub. L. 101–508 applicable to taxable years beginning after Dec. 31, 1990, see section 11101(e) of Pub. L. 101–508, set out as a note under section 1 of this title.
 
-Section 11111(f) of Pub. L. 101–508 provided that: “The amendments made by this section \[amending this section and sections 162, 213, and 3507 of this title\] shall apply to taxable years beginning after December 31, 1990.”
+Pub. L. 101–508, title XI, §11111(f), Nov. 5, 1990, 104 Stat. 1388–413, provided that: “The amendments made by this section \[amending this section and sections 162, 213, and 3507 of this title\] shall apply to taxable years beginning after December 31, 1990.”
 
 #### Effective Date of 1988 Amendment
 
@@ -844,7 +840,7 @@ Amendment by section 1301(j)(8) of Pub. L. 99–514 applicable to bonds issued a
 
 Amendment by section 423(c)(3) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1984, see section 423(d) of Pub. L. 98–369, set out as a note under section 2 of this title.
 
-Section 1042(e) of Pub. L. 98–369 provided that: “The amendments made by this section \[amending sections 32 and 3507 of this title\] shall apply to taxable years beginning after December 31, 1984.”
+Pub. L. 98–369, div. A, title X, §1042(e), July 18, 1984, 98 Stat. 1044, provided that: “The amendments made by this section \[amending sections 32 and 3507 of this title\] shall apply to taxable years beginning after December 31, 1984.”
 
 #### Effective Date of 1983 Amendment
 
@@ -856,15 +852,15 @@ Amendment by Pub. L. 97–34 applicable with respect to taxable years beginning 
 
 #### Effective Date of 1980 Amendment
 
-Section 101(b)(1)(A) of Pub. L. 96–222 provided that: “The amendment made by subsection (a)(1) \[amending this section\] shall apply to taxable years beginning after December 31, 1977.”
+Pub. L. 96–222, title I, §101(b)(1)(A), Apr. 1, 1980, 94 Stat. 205, provided that: “The amendment made by subsection (a)(1) \[amending this section\] shall apply to taxable years beginning after December 31, 1977.”
 
-Section 201 of Pub. L. 96–222 provided that: “Except as otherwise provided in title I, any amendment made by title I \[see Tables for classification\] shall take effect as if it had been included in the provision of the Revenue Act of 1978 \[Pub. L. 95–600, see Tables for classification\] to which such amendment relates.”
+Pub. L. 96–222, title II, §201, Apr. 1, 1980, 94 Stat. 228, provided that: “Except as otherwise provided in title I, any amendment made by title I \[see Tables for classification\] shall take effect as if it had been included in the provision of the Revenue Act of 1978 \[Pub. L. 95–600, see Tables for classification\] to which such amendment relates.”
 
 #### Effective Date of 1978 Amendment
 
-Section 104(f) of Pub. L. 95–600 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1978.”
+Pub. L. 95–600, title I, §104(f), Nov. 6, 1978, 92 Stat. 2773, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1978.”
 
-Section 105(g)(1) of Pub. L. 95–600 provided that: “The amendments made by subsections (a) and (d) \[amending this section and section 6012 of this title\] shall apply to taxable years beginning after December 31, 1978.”
+Pub. L. 95–600, title I, §105(g)(1), Nov. 6, 1978, 92 Stat. 2776, provided that: “The amendments made by subsections (a) and (d) \[amending this section and section 6012 of this title\] shall apply to taxable years beginning after December 31, 1978.”
 
 #### Effective Date of 1978 Amendment; Election of Prior Law
 
@@ -872,13 +868,13 @@ Amendment by Pub. L. 95–615 applicable to taxable years beginning after Dec. 3
 
 #### Effective and Termination Dates of 1976 Amendment
 
-Section 401(e) of Pub. L. 94–455, as amended by Pub. L. 95–30, title I, §103(c), May 23, 1977, 91 Stat. 139; Pub. L. 95–600, title I, §103(b), Nov. 6, 1978, 92 Stat. 2771, provided that: “The amendments made by subsection (a) \[amending sections 43 \[now 32\] and 6096 of this title\] shall apply to taxable years ending after December 31, 1975, and shall cease to apply to taxable years ending after December 31, 1978. The amendments made by subsection (c) \[amending this section\] shall apply to taxable years ending after December 31, 1975. The amendments made by subsection (b) \[amending sections 141 and 6012 of this title\] shall apply to taxable years ending after December 31, 1975. The amendments made by subsection (d) \[amending section 3402 of this title\] shall apply to wages paid after September 14, 1976.”
+Pub. L. 94–455, title IV, §401(e), Oct. 4, 1976, 90 Stat. 1558, as amended by Pub. L. 95–30, title I, §103(c), May 23, 1977, 91 Stat. 139; Pub. L. 95–600, title I, §103(b), Nov. 6, 1978, 92 Stat. 2771, provided that: “The amendments made by subsection (a) \[amending sections 43 \[now 32\] and 6096 of this title\] shall apply to taxable years ending after December 31, 1975, and shall cease to apply to taxable years ending after December 31, 1978. The amendments made by subsection (c) \[amending this section\] shall apply to taxable years ending after December 31, 1975. The amendments made by subsection (b) \[amending sections 141 and 6012 of this title\] shall apply to taxable years ending after December 31, 1975. The amendments made by subsection (d) \[amending section 3402 of this title\] shall apply to wages paid after September 14, 1976.”
 
-#### Effective and Termination Dates of 1975 Amendments
+#### Effective and Termination Dates of 1975 Amendment
 
-Section 2(g) of Pub. L. 94–164, as amended by Pub. L. 94–455, §402(b), provided that: “The amendments made by this section \[amending sections 43 \[now 32\], 141, 3402, and 6012 of this title and provisions set out as notes under sections 42 and 43 \[now 32\] of this title\] (other than by subsection (d) \[enacting provisions set out as a note under this section\]) apply to taxable years ending after December 31, 1975, and before January 1, 1978. Subsection (d) applies to taxable years ending after December 31, 1975.”
+Pub. L. 94–164, §2(g), Dec. 23, 1975, 89 Stat. 972, as amended by Pub. L. 94–455, §402(b), provided that: “The amendments made by this section \[amending sections 43 \[now 32\], 141, 3402, and 6012 of this title and provisions set out as notes under sections 42 and 43 \[now 32\] of this title\] (other than by subsection (d) \[enacting provisions set out as a note under this section\]) apply to taxable years ending after December 31, 1975, and before January 1, 1978. Subsection (d) applies to taxable years ending after December 31, 1975.”
 
-Section 209(b) of Pub. L. 94–12, as amended by Pub. L. 94–164, §2(f), Dec. 23, 1975, 89 Stat. 972; Pub. L. 94–455, title IV, §401(c)(1)(A), Oct. 4, 1976, 90 Stat. 1557; Pub. L. 95–30, title I, §103(b), May 23, 1977, 91 Stat. 139; Pub. L. 95–600, title I, §103(a), Nov. 6, 1978, 92 Stat. 2771, provided that: “The amendments made by section 204 \[enacting this section and amending sections 6201 and 6401 of this title\] shall apply to taxable years beginning after December 31, 1974.”
+Pub. L. 94–12, title II, §209(b), Mar. 29, 1975, 89 Stat. 35, as amended by Pub. L. 94–164, §2(f), Dec. 23, 1975, 89 Stat. 972; Pub. L. 94–455, title IV, §401(c)(1)(A), Oct. 4, 1976, 90 Stat. 1557; Pub. L. 95–30, title I, §103(b), May 23, 1977, 91 Stat. 139; Pub. L. 95–600, title I, §103(a), Nov. 6, 1978, 92 Stat. 2771, provided that: “The amendments made by section 204 \[enacting this section and amending sections 6201 and 6401 of this title\] shall apply to taxable years beginning after December 31, 1974.”
 
 #### Study on Earned Income Tax Credit Certification Program
 
@@ -944,13 +940,15 @@ Secretary of the Treasury, or Secretary's delegate, to establish taxpayer awaren
 
 #### Employee Notification
 
-Section 111(e) of Pub. L. 99–514 provided that: “The Secretary of the Treasury is directed to require, under regulations, employers to notify any employee who has not had any tax withheld from wages (other than an employee whose wages are exempt from withholding pursuant to section 3402(n) of the Internal Revenue Code of 1986) that such employee may be eligible for a refund because of the earned income credit.”
+Pub. L. 99–514, title I, §111(e), Oct. 22, 1986, 100 Stat. 2108, provided that: “The Secretary of the Treasury is directed to require, under regulations, employers to notify any employee who has not had any tax withheld from wages (other than an employee whose wages are exempt from withholding pursuant to section 3402(n) of the Internal Revenue Code of 1986) that such employee may be eligible for a refund because of the earned income credit.”
 
 #### Disregard of Refund for Determination of Eligibility for Federal Benefits or Assistance
 
-Section 2(d) of Pub. L. 94–164, as amended by Pub. L. 94–455, title IV, §402(a), Oct. 4, 1976, 90 Stat. 1558; Pub. L. 95–600, title I, §105(f), Nov. 6, 1978, 92 Stat. 2776; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Any refund of Federal income taxes made to any individual by reason of section 43 \[now 32\] of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to earned income credit), and any payment made by an employer under \[former\] section 3507 of such Code (relating to advance payment of earned income credit) shall not be taken into account in any year ending before 1980 as income or receipts for purposes of determining the eligibility, for the month in which such refund is made or any month thereafter of such individual or any other individual for benefits or assistance, or the amount or extent of benefits or assistance, under any Federal program or under any State or local program financed in whole or in part with Federal funds, but only if such individual (or the family unit of which he is a member) is a recipient of benefits or assistance under such a program for the month before the month in which such refund is made.”
+Pub. L. 94–164, §2(d), Dec. 23, 1975, 89 Stat. 972, as amended by Pub. L. 94–455, title IV, §402(a), Oct. 4, 1976, 90 Stat. 1558; Pub. L. 95–600, title I, §105(f), Nov. 6, 1978, 92 Stat. 2776; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Any refund of Federal income taxes made to any individual by reason of section 43 \[now 32\] of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to earned income credit), and any payment made by an employer under \[former\] section 3507 of such Code (relating to advance payment of earned income credit) shall not be taken into account in any year ending before 1980 as income or receipts for purposes of determining the eligibility, for the month in which such refund is made or any month thereafter of such individual or any other individual for benefits or assistance, or the amount or extent of benefits or assistance, under any Federal program or under any State or local program financed in whole or in part with Federal funds, but only if such individual (or the family unit of which he is a member) is a recipient of benefits or assistance under such a program for the month before the month in which such refund is made.”
 
-\[Section 105(g)(3) of Pub. L. 95–600 provided that: “Subsection (f) \[amending section 2(d) of Pub. L. 94–164, set out above\] shall take effect on the date of enactment of this Act \[Nov. 6, 1978\].”\]
+\[Pub. L. 95–600, title I, §105(g)(3), Nov. 6, 1978, 92 Stat. 2776, provided that: “Subsection (f) \[amending section 2(d) of Pub. L. 94–164, set out above\] shall take effect on the date of enactment of this Act \[Nov. 6, 1978\].”\]
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

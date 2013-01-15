@@ -2,7 +2,7 @@
 
 (a) All orders, determinations, rules, regulations, permits, contracts, agreements, certificates, licenses, and privileges—
 
-&emsp;(1) which have been issued, made, granted, or allowed to become effective in the exercise of functions which are the subject of this Act, by (i) any agency or officer, or part thereof, in exercising the functions which are affected by this Act, or (ii) any court of competent jurisdiction, and
+&emsp;(1) which have been issued, made, granted, or allowed to become effective in the exercise offunctions which are the subject of this Act, by (i) any agency or officer, or part thereof, in exercising the functions which are affected by this Act, or (ii) any court of competent jurisdiction, and
 
 &emsp;(2) which are in effect at the time this Act takes effect,
 

@@ -106,7 +106,7 @@ The General Schedule, the symbol for which is “GS”, is the basic pay schedul
 
 &emsp;&emsp;(B) with considerable latitude for the exercise of independent judgment, to perform moderately difficult and responsible work, requiring—
 
-&emsp;&emsp;&emsp;(i) professional, scientific, or technical training equivalent to that represented by graduation from a college or university of recognized standing; and
+&emsp;&emsp;&emsp;(i) professional, scientific, or technical training equivalent to that represented bygraduation from a college or university of recognized standing; and
 
 &emsp;&emsp;&emsp;(ii) considerable additional professional, scientific, or technical training or experience which has demonstrated capacity for sound independent work; or
 
@@ -166,7 +166,7 @@ The General Schedule, the symbol for which is “GS”, is the basic pay schedul
 
 &emsp;&emsp;(C) to plan and direct or to plan and execute major professional, scientific, technical, administrative, fiscal, or other specialized programs, requiring extended training and experience which has demonstrated leadership and unusual attainments in professional, scientific, or technical research, practice, or administration, or in administrative, fiscal, or other specialized activities; or
 
-&emsp;&emsp;(D) to perform consulting or other professional, scientific, technical, administrative, fiscal, or other specialized work of equal importance, difficulty, and responsibility, and requiring comparable qualifications.
+&emsp;&emsp;(D) to perform consulting or other professional, scientific, technical, administrative,fiscal, or other specialized work of equal importance, difficulty, and responsibility, and requiring comparable qualifications.
 
 &emsp;(15) Grade GS–15 includes those classes of positions the duties of which are—
 

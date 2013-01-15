@@ -18,7 +18,7 @@ The Secretary may retain, for the administration of community food projects unde
 
 #### (c) Peer panel expenses
 
-Notwithstanding any other provision of law regarding a competitive research, education, or extension grant program of the Department of Agriculture, the Secretary may use grant program funds, as necessary, to supplement funds otherwise available for program administration, to pay for the costs associated with peer review of grant proposals under the program.
+Notwithstanding any other provision of law regarding a competitive research, education, or extension grant program of the Department of Agriculture, the Secretary may use grant program funds, as necessary, to supplement funds otherwise available for program administration,to pay for the costs associated with peer review of grant proposals under the program.
 
 #### (d) “In-kind support” defined
 

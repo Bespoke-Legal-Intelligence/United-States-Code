@@ -12,7 +12,7 @@ Notwithstanding any other provision of law, for each of the 2008 through 2011 cr
 
 For each of the 2012 and subsequent crop years, the Commodity Credit Corporation shall establish rates for the storage of forfeited sugar in the same manner as was used on the day before the date of enactment of this section.
 
-(Pub. L. 104–127, title I, §167, as added Pub. L. 110–234, title I, §1405, May 22, 2008, 122 Stat. 990,and Pub. L. 110–246, §4(a), title I, §1405, June 18, 2008, 122 Stat. 1664, 1718.)
+(Pub. L. 104–127, title I, §167, as added Pub. L. 110–234, title I, §1405, May 22, 2008, 122 Stat. 990, and Pub. L. 110–246, §4(a), title I, §1405, June 18, 2008, 122 Stat. 1664, 1718.)
 
 #### References in Text
 

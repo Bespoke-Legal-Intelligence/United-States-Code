@@ -2,27 +2,33 @@
 
 #### (a) Deputy Secretary; Under Secretaries
 
-There are the following officers, appointed by the President, by and with the advice and consent of the Senate:
+#### (1) In general
 
-&emsp;(1) A Deputy Secretary of Homeland Security, who shall be the Secretary's first assistant for purposes of subchapter III of chapter 33 of title 5.
+&emsp;Except as provided under paragraph (2), there are the following officers, appointed by the President, by and with the advice and consent of the Senate:
 
-&emsp;(2) An Under Secretary for Science and Technology.
+&emsp;&emsp;(A) A Deputy Secretary of Homeland Security, who shall be the Secretary's first assistant for purposes of subchapter III of chapter 33 of title 5.
 
-&emsp;(3) An Under Secretary for Border and Transportation Security.
+&emsp;&emsp;(B) An Under Secretary for Science and Technology.
 
-&emsp;(4) An Administrator of the Federal Emergency Management Agency.
+&emsp;&emsp;(C) An Under Secretary for Border and Transportation Security.
 
-&emsp;(5) A Director of the Bureau of Citizenship and Immigration Services.
+&emsp;&emsp;(D) An Administrator of the Federal Emergency Management Agency.
 
-&emsp;(6) An Under Secretary for Management.
+&emsp;&emsp;(E) A Director of the Bureau of Citizenship and Immigration Services.
 
-&emsp;(7) A Director of the Office of Counternarcotics Enforcement.
+&emsp;&emsp;(F) An Under Secretary for Management.
 
-&emsp;(8) An Under Secretary responsible for overseeing critical infrastructure protection, cybersecurity, and other related programs of the Department.
+&emsp;&emsp;(G) A Director of the Office of Counternarcotics Enforcement.
 
-&emsp;(9) Not more than 12 Assistant Secretaries.
+&emsp;&emsp;(H) An Under Secretary responsible for overseeing critical infrastructure protection, cybersecurity, and other related programs of the Department.
 
-&emsp;(10) A General Counsel, who shall be the chief legal officer of the Department.
+&emsp;&emsp;(I) Not more than 12 Assistant Secretaries.
+
+&emsp;&emsp;(J) A General Counsel, who shall be the chief legal officer of the Department.
+
+#### (2) Assistant Secretaries
+
+&emsp;If any of the Assistant Secretaries referred to under paragraph (1)(I) is designated to be the Assistant Secretary for Health Affairs, the Assistant Secretary for Legislative Affairs, or the Assistant Secretary for Public Affairs, that Assistant Secretary shall be appointed by the President without the advice and consent of the Senate.
 
 #### (b) Inspector General
 
@@ -52,7 +58,7 @@ There shall be in the Department a Chief Financial Officer, as provided in chapt
 
 Subject to the provisions of this chapter, every officer of the Department shall perform the functions specified by law for the official's office or prescribed by the Secretary.
 
-(Pub. L. 107–296, title I, §103, Nov. 25, 2002, 116 Stat. 2144; Pub. L. 108–7, div. L, §104(a), Feb. 20, 2003, 117 Stat. 529; Pub. L. 108–330, §3(d)(1)(A), Oct. 16, 2004, 118 Stat. 1276; Pub. L. 108–458, title VII, §7407(b), Dec. 17, 2004, 118 Stat. 3853; Pub. L. 109–295, title VI, §612(b), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 109–347, title V, §501(b)(1), Oct. 13, 2006, 120 Stat. 1935; Pub. L. 110–53, title V, §531(b)(2), Aug. 3, 2007, 121 Stat. 334; Pub. L. 110–388, §1, Oct. 10, 2008, 122 Stat. 4144.)
+(Pub. L. 107–296, title I, §103, Nov. 25, 2002, 116 Stat. 2144; Pub. L. 108–7, div. L, §104(a), Feb. 20, 2003, 117 Stat. 529; Pub. L. 108–330, §3(d)(1)(A), Oct. 16, 2004, 118 Stat. 1276; Pub. L. 108–458, title VII, §7407(b), Dec. 17, 2004, 118 Stat. 3853; Pub. L. 109–295, title VI, §612(b), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 109–347, title V, §501(b)(1), Oct. 13, 2006, 120 Stat. 1935; Pub. L. 110–53, title V, §531(b)(2), Aug. 3, 2007, 121 Stat. 334; Pub. L. 110–388, §1, Oct. 10, 2008, 122 Stat. 4144; Pub. L. 112–166, §2(f)(5), Aug. 10, 2012, 126 Stat. 1285.)
 
 #### References in Text
 
@@ -61,6 +67,8 @@ The Inspector General Act of 1978, referred to in subsec. (b), is Pub. L. 95–4
 This chapter, referred to in subsecs. (c) and (f), was in the original “this Act”, meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a). Pub. L. 112–166 redesignated introductory provisions as introductory provisions of par. (1), inserted par. (1) heading, substituted “Except as provided under paragraph (2), there” for “There”, redesignated pars. (1) to (10) as subpars. (A) to (J), respectively, of par. (1), and added par. (2).
 
 <b>2008</b>—Subsec. (d)(3) to (5). Pub. L. 110–388 redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which read as follows: “A Chief Human Capital Officer.”
 
@@ -87,4 +95,8 @@ Subsecs. (e), (f). Pub. L. 108–330, §3(d)(1)(A)(ii), (iii), added subsec. (e)
 #### Change of Name
 
 Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of this title.
+
+#### Effective Date of 2012 Amendment
+
+Pub. L. 112–166, §6(a), Aug. 10, 2012, 126 Stat. 1295, provided that: “The amendments made by section 2 \[see Tables for classification\] shall take effect 60 days after the date of enactment of this Act \[Aug. 10, 2012\] and apply to appointments made on and after that effective date, including any nomination pending in the Senate on that date.”
 

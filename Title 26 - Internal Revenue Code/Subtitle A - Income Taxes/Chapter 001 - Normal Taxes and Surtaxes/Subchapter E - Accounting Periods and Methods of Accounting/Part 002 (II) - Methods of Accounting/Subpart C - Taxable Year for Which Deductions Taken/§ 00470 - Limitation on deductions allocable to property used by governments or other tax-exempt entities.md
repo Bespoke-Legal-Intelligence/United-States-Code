@@ -70,7 +70,7 @@ This section shall not apply to any lease of property which meets the requiremen
 
 #### (ii) Higher amount permitted in certain cases
 
-&emsp;&emsp;&emsp;To the extent provided in regulations, a higher percentage shall be permitted under clause (i) where necessary because of the credit-worthiness of the lessee. In no event may such regulations permit a percentage of more than 50 percent.
+&emsp;&emsp;&emsp;To the extent provided in regulations, a higher percentage shall be permitted underclause (i) where necessary because of the credit-worthiness of the lessee. In no event may such regulations permit a percentage of more than 50 percent.
 
 #### (iii) Option to purchase
 
@@ -160,7 +160,7 @@ This section shall not apply to any lease of property which meets the requiremen
 
 #### (2) Disposition of entire interest in property
 
-&emsp;If during the taxable year a taxpayer disposes of the taxpayer's entire interest in tax-exempt use property (or former tax-exempt use property), rules similar to the rules of section 469(g) shall apply for purposes of this section.
+&emsp;If during the taxable year a taxpayer disposes of the taxpayer's entire interest in tax-exempt use property (or former tax-exemptuse property), rules similar to the rules of section 469(g) shall apply for purposes of this section.
 
 #### (3) Coordination with section 469
 

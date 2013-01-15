@@ -28,7 +28,7 @@
 
 &emsp;(C) A person or entity files a protest with the Secretary stating that the applicant is not entitled to the land described in the allotment application and that said land is the situs of improvements claimed by the person or entity.
 
-(6) Paragraph (1) of this subsection and subsection (d) of this section shall not apply to any application pending before the Department of the Interior on or before December 18, 1971, which was knowingly and voluntarily relinquished by the applicant thereafter.
+(6) Paragraph (1) of this subsection and subsection (d) of this section shall not apply to anyapplication pending before the Department of the Interior on or before December 18, 1971, which was knowingly and voluntarily relinquished by the applicant thereafter.
 
 (7) Paragraph (1) of this subsection and subsection (d) of this section shall apply, and paragraph (5) of this subsection shall cease to apply, to an application—
 
@@ -82,7 +82,7 @@ Prior to issuing a certificate for an allotment subject to this section, the Sec
 
 (C) If a Village Corporation or Regional Corporation reconveys lands (or any interest in the lands) to the United States under subparagraph (A) or (B), the Secretary shall reduce the acreage charged against the entitlement of the Village Corporation or Regional Corporation.
 
-(D) The authority of the Secretary to accept the reconveyance or relinquishment of lands (orany interest in the lands) under this paragraph shall terminate on the date that is 6 years after October 14, 1992.
+(D) The authority of the Secretary to accept the reconveyance or relinquishment of lands (or any interest in the lands) under this paragraph shall terminate on the date that is 6 years after October 14, 1992.
 
 (3)(A) Subject to any valid existing rights, to the extent that the application describes lands that are authorized to be reconveyed or relinquished to the United States under paragraph (2), the Village Corporation shall file with the Secretary, not later than 3 years after October 14, 1992, the name of the applicant and the land description of each allotment proposed to be reconveyed or relinquished.
 

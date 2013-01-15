@@ -94,7 +94,7 @@ For purposes of this section:
 
 &emsp;&emsp;(B) any corporation, partnership, association, joint-stock company, business trust, unincorporated organization, or sole proprietorship which has its principal place of business in the United States, or which is organized under the laws of a State of the United States or a territory, possession, or commonwealth of the United States.
 
-&emsp;(2)(A) The term “foreign official” means any officer or employee of a foreign government or any department, agency, or instrumentality thereof, or of a public international organization, or any person acting in an official capacity for or on behalf of any such government or department, agency, or instrumentality, or foror on behalf of any such public international organization.
+&emsp;(2)(A) The term “foreign official” means any officer or employee of a foreign government or any department, agency, or instrumentality thereof, or of a public international organization, or any person acting in an official capacity for or on behalf of any such government or department, agency, or instrumentality, or for or on behalf of any such public international organization.
 
 &emsp;(B) For purposes of subparagraph (A), the term “public international organization” means—
 
@@ -166,7 +166,7 @@ Subsec. (g)(1). Pub. L. 105–366, §3(b)(1), amended par. (1) generally. Prior 
 
 “(1)(A) Any domestic concern that violates subsection (a) of this section shall be fined not more than $2,000,000.
 
-“(B) Any domestic concern that violates subsection (a) of this section shall be subject to a civil penalty ofnot more than $10,000 imposed in an action brought by the Attorney General.”
+“(B) Any domestic concern that violates subsection (a) of this section shall be subject to a civil penalty of not more than $10,000 imposed in an action brought by the Attorney General.”
 
 Subsec. (g)(2). Pub. L. 105–366, §3(b)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows:
 

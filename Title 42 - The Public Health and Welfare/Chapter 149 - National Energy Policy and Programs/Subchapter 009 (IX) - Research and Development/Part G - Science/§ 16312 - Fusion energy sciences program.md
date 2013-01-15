@@ -18,7 +18,7 @@ It shall be the policy of the United States to conduct research, development, de
 
 &emsp;&emsp;(D) facilities that are selected are funded at a cost-effective rate;
 
-&emsp;&emsp;(E) communication of scientific results and methods between the fusion energy science community and the broader scientific and technology communities is improved;
+&emsp;&emsp;(E) communication of scientific results and methods between the fusion energyscience community and the broader scientific and technology communities is improved;
 
 &emsp;&emsp;(F) inertial confinement fusion facilities are used to the extent practicable for the purpose of inertial fusion energy research and development;
 

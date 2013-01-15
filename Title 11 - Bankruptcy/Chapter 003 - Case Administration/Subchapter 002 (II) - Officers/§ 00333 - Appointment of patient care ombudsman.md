@@ -18,7 +18,7 @@
 
 (c)(1) An ombudsman appointed under subsection (a) shall maintain any information obtained by such ombudsman under this section that relates to patients (including information relating to patient records) as confidential information. Such ombudsman may not review confidential patient records unless the court approves such review in advance and imposes restrictions on such ombudsman to protect the confidentiality of such records.
 
-(2) An ombudsman appointed under subsection (a)(2)(B) shall have access to patient recordsconsistent with authority of such ombudsman under the Older Americans Act of 1965 and under non-Federal laws governing the State Long-Term Care Ombudsman program.
+(2) An ombudsman appointed under subsection (a)(2)(B) shall have access to patient records consistent with authority of such ombudsman under the Older Americans Act of 1965 and under non-Federal laws governing the State Long-Term Care Ombudsman program.
 
 (Added Pub. L. 109–8, title XI, §1104(a)(1), Apr. 20, 2005, 119 Stat. 191.)
 

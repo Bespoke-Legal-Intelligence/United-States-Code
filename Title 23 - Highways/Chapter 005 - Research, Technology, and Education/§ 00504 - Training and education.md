@@ -12,7 +12,7 @@ In general.—The Secretary shall operate in the Federal Highway Administration 
 
 Duties of the institute.—In cooperation with State transportation departments, United States industry, and any national or international entity, the Institute shall develop and administer education and training programs of instruction for—
 
-&emsp;&emsp;(A) Federal Highway Administration, State, and local transportation agency employees;
+&emsp;&emsp;(A) Federal Highway Administration, State, and local transportation agency employees and the employees of any other applicable Federal agency;
 
 &emsp;&emsp;(B) regional, State, and metropolitan planning organizations;
 
@@ -48,13 +48,13 @@ In general.—The Institute shall—
 
 &emsp;&emsp;&emsp;&emsp;(IV) the collection and archiving of data;
 
-&emsp;&emsp;&emsp;&emsp;(V) expediting the planning and development of transportation projects; and
+&emsp;&emsp;&emsp;&emsp;(V) reducing the amount of time required for the planning and development of transportation projects; and
 
 &emsp;&emsp;&emsp;&emsp;(VI) the intermodal movement of individuals and freight.
 
 &emsp;&emsp;(B)
 
-Additional courses.—In addition to the courses developed under subparagraph (A), the Institute, in consultation with State transportation departments, metropolitan planning organizations, and the American Association of State Highway and Transportation Officials, may develop courses relating to technology, methods, techniques, engineering, construction, safety, maintenance, environmental mitigation and compliance, regulations, management, inspection, and finance.
+Additional courses.—In addition to the courses developed under subparagraph\(A), the Institute, in consultation with State transportation departments, metropolitan planning organizations, and the American Association of State Highway and Transportation Officials, may develop courses relating to technology, methods, techniques, engineering, construction, safety, maintenance, environmental mitigation and compliance, regulations, management, inspection, and finance.
 
 &emsp;&emsp;(C)
 
@@ -66,7 +66,7 @@ Revision of courses offered.—The Institute shall periodically—
 
 &emsp;(4)
 
-Set-aside; federal share.—Not to exceed ½ of 1 percent of the funds apportioned to a State under section 104(b)(3) for the surface transportation program shall be available for expenditure by the State transportation department for the payment of not to exceed 80 percent of the cost of tuition and direct educational expenses (excluding salaries) in connection with the education and training of employees of State and local transportation agencies in accordance with this subsection.
+Set-aside; federal share.—Not to exceed ½ of 1 percent of the funds apportioned to a State under section 104(b)(3) <sup>1</sup> for the surface transportation program shall be available for expenditure by the State transportation department for the payment of not to exceed 80 percent of the cost of tuition and direct educational expenses (excluding salaries) in connection with the education and training of employees of State and local transportation agencies in accordance with this subsection.
 
 &emsp;(5)
 
@@ -154,7 +154,7 @@ Grants, cooperative agreements, and contracts.—The Secretary may make grants a
 
 &emsp;&emsp;&emsp;&emsp;(II) intergovernmental transportation planning and project selection; and
 
-&emsp;&emsp;&emsp;(iv) deal effectively with special transportation-related problems by preparing and providing training packages, manuals, guidelines, and technical resource materials;
+&emsp;&emsp;&emsp;(iv) deal effectively with special transportation-related problems by preparing and providing training packages, manuals,guidelines, and technical resource materials;
 
 &emsp;&emsp;(B) develop technical assistance for tourism and recreational travel;
 
@@ -170,7 +170,23 @@ Grants, cooperative agreements, and contracts.—The Secretary may make grants a
 
 &emsp;(3)
 
-Federal share.—The Federal share of the cost of activities carried out by the tribal technical assistance centers under paragraph (2)(D)(ii) shall be 100 percent.
+Federal share.—
+
+&emsp;&emsp;(A)
+
+Local technical assistance centers.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—Subject to subparagraph (B), the Federal share of the cost of an activity carried out by a local technical assistance center under paragraphs (1) and (2) shall be 50 percent.
+
+&emsp;&emsp;&emsp;(ii)
+
+Non-federal share.—The non-Federal share of the cost of an activity described in clause (i) may consist of amounts provided to a recipient under subsection (e) or section 505, up to 100 percent of the non-Federal share.
+
+&emsp;&emsp;(B)
+
+Tribal technical assistance centers.—The Federal share of the cost of an activity carried out by a tribal technical assistance center under paragraph (2)(D)(ii) shall be 100 percent.
 
 (c)
 
@@ -182,7 +198,15 @@ General authority.—The Secretary, acting either independently or in cooperatio
 
 &emsp;(2)
 
-Dwight david eisenhower transportation fellowship program.—The Secretary shall establish and implement a transportation research fellowship program for the purpose of attracting qualified students to the field of transportation. The program shall be known as the “Dwight David Eisenhower Transportation Fellowship Program”.
+Dwight david eisenhower transportation fellowship program.—
+
+&emsp;&emsp;(A)
+
+In general.—The Secretary shall establish and implement a transportation research fellowship program for the purpose of attracting qualified students to the field of transportation, which program shall be known as the “Dwight David Eisenhower Transportation Fellowship Program”.
+
+&emsp;&emsp;(B)
+
+Use of amounts.—Amounts provided to institutions of higher education to carry out this paragraph shall be used to provide direct support of student expenses.
 
 (d)
 
@@ -190,7 +214,7 @@ Garrett A. Morgan Technology and Transportation Education Program.—
 
 &emsp;(1)
 
-In general.—The Secretary shall establish the Garrett A. Morgan Technology and Transportation Education Program to improve the preparation of students, particularlywomen and minorities, in science, technology, engineering, and mathematics through curriculum development and other activities related to transportation.
+In general.—The Secretary shall establish the Garrett A. Morgan Technology and Transportation Education Program to improve the preparation of students, particularly women and minorities, in science, technology, engineering, and mathematics through curriculum development and other activities related to transportation.
 
 &emsp;(2)
 
@@ -240,21 +264,25 @@ Surface Transportation Workforce Development, Training, and Education.—
 
 &emsp;(1)
 
-Funding.—Subject to project approval by the Secretary, a State may obligate funds apportioned to the State under sections 104(b)(1), 104(b)(2), 104(b)(3), 104(b)(4), and 144(e) for surface transportation workforce development, training, and education, including—
+Funding.—Subject to project approval by the Secretary, a State may obligate funds apportioned to the State under paragraphs (1) through (4) of section 104(b) for surface transportation workforce development, training, and education, including—
 
-&emsp;&emsp;(A) tuition and direct educational expenses, excluding salaries, in connection with the education and training of employees of State and local transportation agencies;
+&emsp;&emsp;(A) tuition and direct educational expenses, excluding salaries, in connectionwith the education and training of employees of State and local transportation agencies;
 
 &emsp;&emsp;(B) employee professional development;
 
 &emsp;&emsp;(C) student internships;
 
-&emsp;&emsp;(D) university or community college support; and
+&emsp;&emsp;(D) university or community college support;
 
-&emsp;&emsp;(E) education activities, including outreach, to develop interest and promote participation in surface transportation careers.
+&emsp;&emsp;(E) education activities, including outreach, to develop interest and promote participation in surface transportation careers;
+
+&emsp;&emsp;(F) activities carried out by the National Highway Institute under subsection (a); and
+
+&emsp;&emsp;(G) local technical assistance programs under subsection (b).
 
 &emsp;(2)
 
-Federal share.—The Federal share of the cost of activities carried out in accordance with this subsection shall be 100 percent.
+Federal share.—The Federal share of the cost of activities carried out in accordance with this subsection shall be 100 percent, except for activities carried out under paragraph (1)(G), for which the Federal share shall be 50 percent.
 
 &emsp;(3)
 
@@ -262,7 +290,7 @@ Surface transportation workforce development, training, and education defined.�
 
 (f)
 
-Transportation Education Development Pilot Program.—
+Transportation Education Development Program.—
 
 &emsp;(1)
 
@@ -322,7 +350,7 @@ Eligible activities.—The freight planning capacity building initiative shall i
 
 &emsp;&emsp;(E) Facilitating relationship building between governmental and private entities involved in freight transportation.
 
-&emsp;&emsp;(F) Identifying ways to target the capacity of State transportation departments and local transportation agencies to address freight considerations in operations, security, asset management, and environmental excellence in connection with long-range multimodal transportation planning and project implementation.
+&emsp;&emsp;(F) Identifying ways to target the capacity of State transportation departments and local transportation agencies to address freight considerations in operations, security, asset management, and environmental stewardship in connection with long-range multimodal transportation planning and project implementation.
 
 &emsp;(5)
 
@@ -330,15 +358,79 @@ Federal share.—The Federal share of the cost of an activity carried out under 
 
 &emsp;(6)
 
-Use of funds.—Funds made available for the program established under this subsection may be used for research, program development, information collection and dissemination, and technical assistance. The Secretary may use such funds independently or make grants or to <sup>1</sup> and enter into contracts and cooperative agreements with a Federal agency, State agency, local agency, federally recognized Indian tribal government or tribal consortium, authority, association, nonprofit or for-profit corporation, or institution of higher education, to carry out the purposes of this subsection.
+Use of funds.—Funds made available for the program established under this subsection may be used for research, program development, information collection and dissemination, and technical assistance. The Secretary may use such funds independently or make grants or to <sup>2</sup> and enter into contracts and cooperative agreements with a Federal agency,State agency, local agency, federally recognized Indian tribal government or tribal consortium, authority, association, nonprofit or for-profit corporation, or institution of higher education, to carry out the purposes of this subsection.
 
-(Added Pub. L. 105–178, title V, §5104, June 9, 1998, 112 Stat. 429; amended Pub. L. 109–59, title V, §5204(a)(1), (b), (d)(1), (e), (h)(1), Aug. 10, 2005, 119 Stat. 1790, 1792–1794.)
+(h)
+
+Centers for Surface Transportation Excellence.—
+
+&emsp;(1)
+
+In general.—The Secretary shall make grants under this section to establish and maintain centers for surface transportation excellence.
+
+&emsp;(2)
+
+Goals.—The goals of a center referred to in paragraph (1) shall be to promote and support strategic national surface transportation programs and activities relating to the work of State departments of transportation in the areas of environment, surface transportation safety, rural safety, and project finance.
+
+&emsp;(3)
+
+Role of the centers.—To achieve the goals set forth in paragraph (2), any centers established under paragraph (1) shall provide technical assistance, information sharing of best practices, and training in the use of tools and decisionmaking processes that can assist States in effectively implementing surface transportation programs, projects, and policies.
+
+&emsp;(4)
+
+Program administration.—
+
+&emsp;&emsp;(A)
+
+Competition.—A party entering into a contract, cooperative agreement, or other transaction with the Secretary under this subsection, or receiving a grant to perform research or provide technical assistance under this subsection, shall be selected on a competitive basis.
+
+&emsp;&emsp;(B)
+
+Strategic plan.—The Secretary shall require each center to develop a multiyear strategic plan, that—
+
+&emsp;&emsp;&emsp;(i) is submitted to the Secretary at such time as the Secretary requires; and
+
+&emsp;&emsp;&emsp;(ii) describes—
+
+&emsp;&emsp;&emsp;&emsp;(I) the activities to be undertaken by the center; and
+
+&emsp;&emsp;&emsp;&emsp;(II) how the work of the center will be coordinated with the activities of the Federal Highway Administration and the various other research, development, and technology transfer activities authorized under this chapter.
+
+(Added Pub. L. 105–178, title V, §5104, June 9, 1998, 112 Stat. 429; amended Pub. L. 109–59, title V, §5204(a)(1), (b), (d)(1), (e), (h)(1), Aug. 10, 2005, 119 Stat. 1790, 1792–1794; Pub. L. 112–141, div. E, title II, §52004, July 6, 2012, 126 Stat. 880.)
+
+#### References in Text
+
+Section 104(b)(3), referred to in subsec. (a)(4), means section 104(b)(3) prior to the general amendment of section 104 by Pub. L. 112–141, div. A, title I, §1105(a), July 6, 2012, 126 Stat. 427.
 
 #### Prior Provisions
 
 A prior section 504, added Pub. L. 90–495, §30, Aug. 23, 1968, 82 Stat. 831, related to Federal reimbursement for highway relocation assistance, prior to repeal by Pub. L. 91–646, title II, §220(a)(10), Jan. 2, 1971, 84 Stat. 1903.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a)(2)(A). Pub. L. 112–141, §52004(1)(A), inserted “and the employees of any other applicable Federal agency” before the semicolon at end.
+
+Subsec. (a)(3)(A)(ii)(V). Pub. L. 112–141, §52004(1)(B), substituted “reducing the amount of time required for” for “expediting”.
+
+Subsec. (b)(3). Pub. L. 112–141, §52004(2), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “The Federal share of the cost of activities carried out by the tribal technical assistance centers under paragraph (2)(D)(ii) shall be 100 percent.”
+
+Subsec. (c)(2). Pub. L. 112–141, §52004(3), designated existing provisions as subpar. (A), inserted subpar. heading, substituted “, which program” for “. The program”, and added subpar. (B).
+
+Subsec. (e)(1). Pub. L. 112–141, §52004(4)(A)(i), substituted “paragraphs (1) through (4) of section 104(b)” for “sections 104(b)(1), 104(b)(2), 104(b)(3), 104(b)(4), and 144(e)” in introductory provisions.
+
+Subsec. (e)(1)(F), (G). Pub. L. 112–141, §52004(4)(A)(ii)–(iv), added subpars. (F) and (G).
+
+Subsec. (e)(2). Pub. L. 112–141, §52004(4)(B), inserted “, except for activities carried out under paragraph (1)(G), for which the Federal share shall be 50 percent” before the period at end.
+
+Subsec. (f). Pub. L. 112–141, §52004(5), struck out “
+
+Pilot” before “
+
+Program” in heading.
+
+Subsec. (g)(4)(F). Pub. L. 112–141, §52004(6), substituted “stewardship” for “excellence”.
+
+Subsec. (h). Pub. L. 112–141, §52004(7), added subsec. (h).
 
 <b>2005</b>—Subsec. (a)(3). Pub. L. 109–59, §5204(a)(1), reenacted heading without change and amended text of par. (3) generally. Prior to amendment, text read as follows: “The Institute may develop and administer courses in modern developments, techniques, methods, regulations, management, and procedures relating to surface transportation, environmental mitigation and compliance, acquisition of rights-of-way, relocation assistance, engineering, safety, construction, maintenance and operations, contract administration, motor carrier safety activities, inspection, and highway finance.”
 
@@ -349,6 +441,10 @@ Subsec. (d). Pub. L. 109–59, §5204(d)(1), added subsec. (d).
 Subsecs. (e), (f). Pub. L. 109–59, §5204(e), added subsecs. (e) and (f).
 
 Subsec. (g). Pub. L. 109–59, §5204(h)(1), added subsec. (g).
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
 
 #### Center for Transportation Advancement and Regional Development
 
@@ -362,7 +458,7 @@ Establishment.—The Secretary \[of Transportation\] shall establish a Center fo
 
 Activities.—In carrying out this section, the Center shall—
 
-&emsp;“(1) provide training, information, and professional resources for small metropolitan and rural regions to pursue innovative strategies to expand the capabilities, capacity, and effectiveness of a region's transportation network, including activities related to freight projects, transit system upgrades, roadways and bridges, and intermodal transfer facilities and operations;
+&emsp;“(1) provide training, information, and professional resources for small metropolitan and rural regions topursue innovative strategies to expand the capabilities, capacity, and effectiveness of a region's transportation network, including activities related to freight projects, transit system upgrades, roadways and bridges, and intermodal transfer facilities and operations;
 
 &emsp;“(2) assist local officials, rural transportation and economic development planners, officials from State departments of transportation and economic development, business leaders, and other stakeholders in developing public-private partnerships to enhance their transportation systems; and
 
@@ -408,5 +504,7 @@ Participation.—An operating administration of the Department and the Office of
 
 Funding.—Notwithstanding any other provision of law, the Secretary \[of Transportation\] may use funds available to an operating administration or from the Office of Inspector General of the Department for the purpose of carrying out this section.”
 
-<i><sup>1</sup></i><i> So in original.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original.</i>
 

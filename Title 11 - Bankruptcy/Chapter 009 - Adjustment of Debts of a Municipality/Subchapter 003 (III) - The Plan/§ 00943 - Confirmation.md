@@ -28,7 +28,7 @@ Section 943(a) of the House amendment makes clear that a special taxpayer may ob
 
 #### senate report no. 95–989
 
-Section 946 \[enacted as section 943\] is adopted from current section 94 \[section 414 of former title 11\]. The test for confirmation is whether or not the plan is fair and equitable and feasible. The fair and equitable test tracts current chapter X \[chapter 10 of former title 11\] and is known as the strict priority rule. Creditors must be provided, under the plan, the going concern value of their claims. The going concern value contemplates a “comparison of revenues and expenditures taking into account the taxing power and the extent to which tax increases are both necessary and feasible” Municipal Insolvency, supra, at p. 64, and is intended to provide more of a return to creditors than the liquidation value if the city's assets could be liquidated like those of a private corporation.
+Section 946 \[enacted as section 943\] is adopted from current section 94 \[section 414 of former title 11\]. The test for confirmation is whether or not the plan is fair and equitable and feasible. The fair and equitable test tracts current chapter X \[chapter 10 of former title 11\] and is known as the strict priority rule. Creditors must be provided, under the plan, the going concern value oftheir claims. The going concern value contemplates a “comparison of revenues and expenditures taking into account the taxing power and the extent to which tax increases are both necessary and feasible” Municipal Insolvency, supra, at p. 64, and is intended to provide more of a return to creditors than the liquidation value if the city's assets could be liquidated like those of a private corporation.
 
 #### house report no. 95–595
 
@@ -46,7 +46,7 @@ Section 103(e) of this title, referred to in subsec. (b)(1), was redesignated se
 
 <b>1984</b>—Subsec. (b)(4). Pub. L. 98–353, §497(1), struck out “to be taken” after “necessary”.
 
-Subsec. (b)(5). Pub. L. 98–353, §497(2), substituted provisions requiring the plan to provide payment of cash in an amount equal to the allowed amount of a claim except to the extent that the holder of a particular claim has agreed to different treatment of such claim, for provisions which required the plan to provide forpayment of property of a value equal to the allowed amount of such claim except to the extent that the holder of a particular claim has waived such payment on such claim.
+Subsec. (b)(5). Pub. L. 98–353, §497(2), substituted provisions requiring the plan to provide payment of cash in an amount equal to the allowed amount of a claim except to the extent that the holder of a particular claim has agreed to different treatment of such claim, for provisions which required the plan to provide for payment of property of a value equal to the allowed amount of such claim except to the extent that the holder of a particular claim has waived such payment on such claim.
 
 #### Effective Date of 2005 Amendment
 

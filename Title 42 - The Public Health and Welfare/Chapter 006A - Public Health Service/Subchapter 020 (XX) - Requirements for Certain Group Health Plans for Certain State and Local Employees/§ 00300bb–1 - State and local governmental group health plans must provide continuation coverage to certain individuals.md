@@ -20,11 +20,11 @@ Subsection (a) of this section shall not apply to—
 
 #### Effective Date of 1989 Amendment
 
-Section 6801(a)(2) of Pub. L. 101–239 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to years beginning after December 31, 1986.”
+Pub. L. 101–239, title VI, §6801(a)(2), Dec. 19, 1989, 103 Stat. 2297, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to years beginning after December 31, 1986.”
 
 #### Effective Date
 
-Section 10003(b) of Pub. L. 99–272 provided that:
+Pub. L. 99–272, title X, §10003(b), Apr. 7, 1986, 100 Stat. 236, provided that:
 
 “(1)
 

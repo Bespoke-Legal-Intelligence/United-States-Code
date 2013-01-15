@@ -40,5 +40,5 @@ Subsec. (f). Pub. L. 100–442, §4(b), added subsec. (f).
 
 #### Limitation on New Credit Authority
 
-Section 4(c) of Pub. L. 100–442 provided that: “Any new credit authority (as defined in section 3 of the Congressional Budget and Impoundment Control Act of 1974 \[2 U.S.C. 622\]) which is provided by amendments made by this Act \[enacting sections 1497a, 1499, and 1544 of this title and amending this section and sections 1452, 1484, 1485, 1496, and 1498 of this title\] shall be effective only to such extent and in such amounts as may be approved in advance in appropriation Acts.”
+Pub. L. 100–442, §4(c), Sept. 22, 1988, 102 Stat. 1763, provided that: “Any new credit authority (as defined in section 3 of the Congressional Budget and Impoundment Control Act of 1974 \[2 U.S.C. 622\]) which is provided by amendments made by this Act \[enacting sections 1497a, 1499, and 1544 of this title and amending this section and sections 1452, 1484, 1485, 1496, and 1498 of this title\] shall be effective only to such extent and in such amounts as may be approved in advance in appropriation Acts.”
 

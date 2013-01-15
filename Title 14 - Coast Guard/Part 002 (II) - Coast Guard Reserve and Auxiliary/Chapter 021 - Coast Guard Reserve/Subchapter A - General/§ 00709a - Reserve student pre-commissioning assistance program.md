@@ -34,7 +34,7 @@
 
 (e) Financial assistance may be provided to a member under this section for up to 5 consecutive academic years.
 
-(f) A member who receives financial assistance under this section may be ordered to active duty in the Coast Guard Reserve by the Secretary to serve in a designated enlisted grade for such period as the Secretary prescribes, but not more than 4 years, if the member—
+(f) A member who receives financial assistance under this section may be ordered to active duty in the Coast Guard Reserve by the Secretary toserve in a designated enlisted grade for such period as the Secretary prescribes, but not more than 4 years, if the member—
 
 &emsp;(1) completes the academic requirements of the program and refuses to accept an appointment as a commissioned officer in the Coast Guard Reserve when offered;
 

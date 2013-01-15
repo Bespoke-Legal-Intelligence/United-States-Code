@@ -10,7 +10,7 @@
 
 &emsp;(4) in the case of an officer or an enlisted member of a reserve component who is not serving on active duty, separation or release from the reserve component under honorable conditions, or death; and
 
-&emsp;(5) in the case of an enlisted member of a reserve a <sup>1</sup> component who is not serving on active duty, termination of enlistment in conjunction with the commencement of a successive enlistment, or appointment as an officer.
+&emsp;(5) in the case of an enlisted member of a reserve component who is not serving on active duty, termination of enlistment in conjunction with the commencement of a successive enlistment, or appointment as an officer.
 
 (b)(1) A member of the Army, Navy, Air Force, Marine Corps, Coast Guard, or National Oceanic and Atmospheric Administration, who has accrued leave to his credit at the time of his discharge, is entitled to be paid in cash or by a check on the Treasurer of the United States for such leave on the basis of the basic pay to which he was entitled on the date of discharge.
 
@@ -54,9 +54,9 @@
 
 > In this subsection, the term “accumulated annual leave” means unused accrued annual leave carried forward from one leave year into the next leave year, and the term “accrued annual leave” means the annual leave accruing to an officer during one leave year.
 
-(h) Payment shall be made for all leave accumulated under section 701(g) of title 10 as soonas possible after the name of the person concerned is removed from a missing status, as defined in section 551(2) of this title.
+(h) Payment shall be made for all leave accumulated under section 701(g) of title 10 as soon as possible after the name of the person concerned is removed from a missing status, as defined in section 551(2) of this title.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 480; Pub. L. 89–151, §§1, 2, Aug. 28, 1965, 79 Stat. 586; Pub. L. 89–718, §§49(a)(1), 65, Nov. 2, 1966, 80 Stat. 1121, 1123; Pub. L. 92–596, §2, Oct. 27, 1972, 86 Stat. 1318; Pub. L. 94–361, title III, §304(a)–(g), July 14, 1976, 90 Stat. 925, 926; Pub. L. 96–513, title V, §516(14), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 98–525, title VI, §606(a), Oct. 19, 1984, 98 Stat. 2537; Pub. L. 99–145, title VI, §682, Nov. 8, 1985, 99 Stat. 665; Pub. L. 100–26, §8(e)(6), (9), Apr. 21, 1987, 101 Stat. 286, 287; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title VI, §637, Dec. 5, 1991, 105 Stat. 1383; Pub. L. 104–106, div. A, title VI, §641, Feb. 10, 1996, 110 Stat. 368; Pub. L. 106–65, div. A, title VI, §671, Oct. 5, 1999, 113 Stat. 674; Pub. L. 107–107, div. A, title VI, §651(a), Dec. 28, 2001, 115 Stat. 1152; Pub. L. 110–181, div. A, title V, §551(d), Jan. 28, 2008, 122 Stat. 117; Pub. L. 111–383, div. A, title V, §516(b), Jan. 7, 2011, 124 Stat. 4213.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 480; Pub. L. 89–151, §§1, 2, Aug. 28, 1965, 79 Stat. 586; Pub. L. 89–718, §§49(a)(1), 65, Nov. 2, 1966, 80 Stat. 1121, 1123; Pub. L. 92–596, §2, Oct. 27, 1972, 86 Stat. 1318; Pub. L. 94–361, title III, §304(a)–(g), July 14, 1976, 90 Stat. 925, 926; Pub. L. 96–513, title V, §516(14), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 98–525, title VI, §606(a), Oct. 19, 1984, 98 Stat. 2537; Pub. L. 99–145, title VI, §682, Nov. 8, 1985, 99 Stat. 665; Pub. L. 100–26, §8(e)(6), (9), Apr. 21, 1987, 101 Stat. 286, 287; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title VI, §637, Dec. 5, 1991, 105 Stat. 1383; Pub. L. 104–106, div. A, title VI, §641, Feb. 10, 1996, 110 Stat. 368; Pub. L. 106–65, div. A, title VI, §671, Oct. 5, 1999, 113 Stat. 674; Pub. L. 107–107, div. A, title VI, §651(a), Dec. 28, 2001, 115 Stat. 1152; Pub. L. 110–181, div. A, title V, §551(d), Jan. 28, 2008, 122 Stat. 117; Pub. L. 111–383, div. A, title V, §516(b), Jan. 7, 2011, 124 Stat. 4213; Pub. L. 112–239, div. A, title X, §1076(h)(3), Jan. 2, 2013, 126 Stat. 1955.)
 
 Historical and Revision Notes
 
@@ -127,6 +127,8 @@ In subsection (f), the words “cash” and “unused or accumulated” are omit
 In subsection (g), the word “retirement” is omitted as covered by the words “separation or release from active duty”. The words “under this subsection” are substituted for the words “for such unused leave”. The word “appointment” is substituted for the word “commission”.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (a)(5). Pub. L. 112–239 substituted “a reserve component” for “a reserve a component”.
 
 <b>2011</b>—Subsec. (a)(4), (5). Pub. L. 111–383 added pars. (4) and (5).
 
@@ -200,7 +202,7 @@ Pub. L. 107–107, div. A, title VI, §651(b), Dec. 28, 2001, 115 Stat. 1153, pr
 
 #### Effective Date of 1984 Amendment
 
-Section 606(b) of Pub. L. 98–525 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply in the case of members of the uniformed service (as defined in section 101(3) of title 37, United States Code) who enlist or are commissioned on or after the date of the enactment of this Act \[Oct. 19, 1984\].”
+Pub. L. 98–525, title VI, §606(b), Oct. 19, 1984, 98 Stat. 2538, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply in the case of members of the uniformed service (as defined in section 101(3) of title 37, United States Code) who enlist or are commissioned on or after the date of the enactment of this Act \[Oct. 19, 1984\].”
 
 #### Effective Date of 1980 Amendment
 
@@ -212,7 +214,7 @@ Amendment by Pub. L. 92–596 effective Feb. 28, 1961, see section 3 of Pub. L. 
 
 #### Effective Date of 1965 Amendment
 
-Section 4 of Pub. L. 89–151 provided that: “This Act \[amending this section and section 701 of Title 10, Armed Forces\] applies only in the case of members who die on or after the date of enactment \[Aug. 28, 1965\].”
+Pub. L. 89–151, §4, Aug. 28, 1965, 79 Stat. 586, provided that: “This Act \[amending this section and section 701 of Title 10, Armed Forces\] applies only in the case of members who die on or after the date of enactment \[Aug. 28, 1965\].”
 
 #### Transfer of Functions
 
@@ -220,7 +222,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Treatment of Accumulated Leave in Connection With Active Duty During Persian Gulf Conflict
 
-Section 309(a) of Pub. L. 102–25 provided that: “In the case of a member of the uniformed services who dies as a result of an injury or illness incurred while serving on active duty during the Persian Gulf conflict, the limitation in the second sentence of subsection (b)(3) of section 501 of title 37, United States Code, and in subsection (f) of that section shall not apply with respect to a payment made pursuant to subsection (d) of that section for leave accrued during fiscal year 1990 or 1991.”
+Pub. L. 102–25, title III, §309(a), Apr. 6, 1991, 105 Stat. 83, provided that: “In the case of a member of the uniformed services who dies as a result of an injury or illness incurred while serving on active duty during the Persian Gulf conflict, the limitation in the second sentence of subsection (b)(3) of section 501 of title 37, United States Code, and in subsection (f) of that section shall not apply with respect to a payment made pursuant to subsection (d) of that section for leave accrued during fiscal year 1990 or 1991.”
 
 Pub. L. 101–510, div. A, title XI, §1115, Nov. 5, 1990, 104 Stat. 1636, as amended by Pub. L. 102–25, title III, §§309(b), 314(1), (3), Apr. 6, 1991, 105 Stat. 83, 86, provided that:
 
@@ -250,11 +252,9 @@ Saving Provision for Certain Accrued Leave.—(1) Subject to paragraph (2), a me
 
 Regulations.—The Secretary of Defense shall prescribe regulations establishing standards and procedures for the administration of this section.”
 
-\[Section 309(c) of Pub. L. 102–25 provided that: “The amendment made by subsection (b) \[amending section 1115(a) of Pub. L. 101–510, set out above\] shall take effect as of November 5, 1990.”\]
+\[Pub. L. 102–25, title III, §309(c), Apr. 6, 1991, 105 Stat. 83, provided that: “The amendment made by subsection (b) \[amending section 1115(a) of Pub. L. 101–510, set out above\] shall take effect as of November 5, 1990.”\]
 
 #### Options of Members as to Basis of Payment for Accrued Leave
 
-Section 304(h) of Pub. L. 94–361 provided that: “Notwithstanding the provisions of section 501(b)(1) of title 37, United States Code, as amended by subsection (c), and subject to the limitations prescribed in section 501(b)(3) of such title, as amended by subsection (c), any leave accrued by any member of the Army, Navy, Air Force, Marine Corps, Coast Guard, or National Oceanic and Atmospheric Administration prior to the first day of the second calendar month following the month \[July, 1976\] in which this section is enacted shall, at the option of such member, be paid for on the same basis such leave would have been paid for under the provisions of section 501(b) of title 37, United States Code, on the day prior to the first day of the second calendar month following the month in which this section is enacted”.
-
-<i><sup>1</sup></i><i> So in original. The word “a” probably should not appear.</i>
+Pub. L. 94–361, title III, §304(h), July 14, 1976, 90 Stat. 926, provided that: “Notwithstanding the provisions of section 501(b)(1) of title 37, United States Code, as amended by subsection (c), and subject to the limitations prescribed in section 501(b)(3) of such title, as amended by subsection (c), any leave accrued by any member of the Army, Navy, Air Force, Marine Corps, Coast Guard, or National Oceanic and Atmospheric Administration prior to the first day of the second calendar month following the month \[July, 1976\] in which this section is enacted shall, at the option of such member, be paid for on the same basis such leave would have been paid for under the provisions of section 501(b) of title 37, United States Code, on the day prior to the first day of the second calendar month following the month in which this section is enacted”.
 

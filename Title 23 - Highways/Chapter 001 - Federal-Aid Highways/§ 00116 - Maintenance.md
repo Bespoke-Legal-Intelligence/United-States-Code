@@ -1,18 +1,44 @@
 ### §116. Maintenance
 
-(a) It shall be the duty of the State transportation department to maintain, or cause to be maintained, any project constructed under the provisions of this chapter or constructed under the provisions of prior Acts. The State's obligation to the United States to maintain any such project shall cease when it no longer constitutes a part of a Federal-aid system.
+(a)
 
-(b) In any State wherein the State transportation department is without legal authority to maintain a project constructed on the Federal-aid secondary system, or within a municipality, such transportation department shall enter into a formal agreement for its maintenance with the appropriate officials of the county or municipality in which such project is located.
+Definitions.—In this section, the following definitions apply:
 
-(c) If at any time the Secretary shall find that any project constructed under the provisions of this chapter, or constructed under the provisions of prior Acts, is not being properly maintained, he shall call such fact to the attention of the State transportation department. If, within ninety days after receipt of such notice, such project has not been put in proper condition of maintenance, the Secretary shall withhold approval of further projects of all types in the State highway district, municipality, county, other political or administrative subdivision of the State, or the entire State in which such project is located, whichever the Secretary deems most appropriate, until such project shall have been put in proper condition of maintenance.
+&emsp;(1)
 
-(d)
+Preventive maintenance.—The term “preventive maintenance” includes pavement preservation programs and activities.
+
+&emsp;(2)
+
+Pavement preservation programs and activities.—The term “pavement preservation programs and activities” means programs and activities employing a network level, long-term strategy that enhances pavement performance by using an integrated, cost-effective set of practices that extend pavement life, improve safety, and meet road user expectations.
+
+(b) It shall be the duty of the State transportation department or other direct recipient to maintain, or cause to be maintained, any project constructed under the provisions of this chapter or constructed under the provisions of prior Acts.
+
+(c)
+
+Agreement.—In any State in which the State transportation department or other direct recipient is without legal authority to maintain a project described in subsection (b), the transportation department or direct recipient shall enter into a formal agreement with the appropriate officials of the county or municipality in which the project is located to provide for the maintenance of the project.
+
+(d) If at any time the Secretary shall find that any project constructed under the provisions of this chapter, or constructed under the provisions of prior Acts, is not being properly maintained, he shall call such fact to the attention of the State transportation department or other direct recipient. If, within ninety days after receipt of such notice, such project has not been put in proper condition of maintenance, the Secretary shall withhold approval of further projects of all types in the State highway district, municipality, county, other political or administrative subdivision of the State, or the entire State in which such project is located, whichever the Secretary deems most appropriate, until such project shall have been put in proper condition of maintenance.
+
+(e)
 
 Preventive Maintenance.—A preventive maintenance activity shall be eligible for Federal assistance under this title if the State demonstrates to the satisfaction of the Secretary that the activity is a cost-effective means of extending the useful life of a Federal-aid highway.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 896; Pub. L. 86–70, §21(d)(2), (e)(3), June 25, 1959, 73 Stat. 145, 146; Pub. L. 90–495, §26, Aug. 23, 1968, 82 Stat. 829; Pub. L. 95–599, title I, §124(d), Nov. 6, 1978, 92 Stat. 2705; Pub. L. 97–424, title I, §114, Jan. 6, 1983, 96 Stat. 2107; Pub. L. 100–17, title I, §125(b)(2), Apr. 2, 1987, 101 Stat. 167; Pub. L. 104–59, title III, §309, Nov. 28, 1995, 109 Stat. 582; Pub. L. 105–178, title I, §1212(a)(2)(A)(i), June 9, 1998, 112 Stat. 193; Pub. L. 109–59, title I, §1111(b)(1), Aug. 10, 2005, 119 Stat. 1171.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 896; Pub. L. 86–70, §21(d)(2), (e)(3), June 25, 1959, 73 Stat. 145, 146; Pub. L. 90–495, §26, Aug. 23, 1968, 82 Stat. 829; Pub. L. 95–599, title I, §124(d), Nov. 6, 1978, 92 Stat. 2705; Pub. L. 97–424, title I, §114, Jan. 6, 1983, 96 Stat. 2107; Pub. L. 100–17, title I, §125(b)(2), Apr. 2, 1987, 101 Stat. 167; Pub. L. 104–59, title III, §309, Nov. 28, 1995, 109 Stat. 582; Pub. L. 105–178, title I, §1212(a)(2)(A)(i), June 9, 1998, 112 Stat. 193; Pub. L. 109–59, title I, §1111(b)(1), Aug. 10, 2005, 119 Stat. 1171; Pub. L. 112–141, div. A, title I, §1507, July 6, 2012, 126 Stat. 565.)
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a). Pub. L. 112–141, §1507(2), added subsec. (a). Former subsec. (a) redesignated (b).
+
+Subsec. (b). Pub. L. 112–141, §1507(1), (3), redesignated subsec. (a) as (b), inserted “or other direct recipient” before “to maintain”, and struck out at end “The State's obligation to the United States to maintain any such project shall cease when it no longer constitutes a part of a Federal-aid system.” Former subsec. (b) redesignated (c).
+
+Subsec. (c). Pub. L. 112–141, §1507(4), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “In any State wherein the State transportation department is without legal authority to maintain a project constructed on the Federal-aid secondary system, or within a municipality, such transportation department shall enter into a formal agreement for its maintenance with the appropriate officials of the county or municipality in which such project is located.”
+
+Pub. L. 112–141, §1507(1), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
+
+Subsec. (d). Pub. L. 112–141, §1507(1), (5), redesignated subsec. (c) as (d) and inserted “or other direct recipient” after “State transportation department”. Former subsec. (d) redesignated (e).
+
+Subsec. (e). Pub. L. 112–141, §1507(1), redesignated subsec. (d) as (e).
 
 <b>2005</b>—Subsec. (b). Pub. L. 109–59 substituted “such transportation department” for “such highway department”.
 
@@ -36,6 +62,10 @@ Preventive Maintenance.—A preventive maintenance activity shall be eligible fo
 
 Subsec. (d). Pub. L. 86–70, §21(d)(2), repealed subsec. (d) which related to expenditure of funds apportioned to the Territory of Alaska and contributed by the Territory for the maintenance of roads.
 
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
+
 #### Effective Date of 1968 Amendment
 
 Amendment by Pub. L. 90–495 effective Aug. 23, 1968, see section 37 of Pub. L. 90–495, set out as a note under section 101 of this title.
@@ -48,5 +78,5 @@ Amendment by section 21(e)(3) of Pub. L. 86–70 effective July 1, 1959, see sec
 
 #### Establishment of Minimum Federal Guidelines for Maintenance; Study by National Academy of Sciences and Report
 
-Section 163 of Pub. L. 100–17 directed Secretary to enter into appropriate arrangements with the National Academy of Sciences to conduct a complete investigation of the appropriateness of establishing minimum Federal guidelines for maintenance of the Federal-aid primary, secondary, and urban systems and, not later than 18 months after entering into appropriate arrangements, the National Academy of Sciences was to submit to Secretary and Congress a report on the results of the investigation and study together with recommendations (including legislative and administrative recommendations) concerning establishment of minimum Federal guidelines for maintenance of the Federal-aid primary, secondary, and urban systems.
+Pub. L. 100–17, title I, §163, Apr. 2, 1987, 101 Stat. 213, directed Secretary to enter into appropriate arrangements with the National Academy of Sciences to conduct a complete investigation of the appropriateness of establishing minimum Federal guidelines for maintenance of the Federal-aid primary, secondary, and urban systems and, not later than 18 months after entering into appropriate arrangements, the National Academy of Sciences was to submit to Secretary and Congress a report on the results of the investigation and study together with recommendations (including legislative and administrative recommendations) concerning establishment of minimum Federal guidelines for maintenance of the Federal-aid primary, secondary, and urban systems.
 

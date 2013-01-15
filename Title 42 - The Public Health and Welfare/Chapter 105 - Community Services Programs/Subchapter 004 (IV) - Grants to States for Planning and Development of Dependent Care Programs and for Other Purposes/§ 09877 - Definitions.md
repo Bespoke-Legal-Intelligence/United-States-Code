@@ -30,7 +30,7 @@ For purposes of this subchapter—
 
 &emsp;(11) the term “State educational agency” has the meaning given that term under section 7801 of title 20.
 
-(Pub. L. 97–35, title VI, §670G, as added Pub. L. 98–558, title I, §109, Oct. 30, 1984, 98 Stat. 2883; amended Pub. L. 99–425, title III, §303, Sept. 30, 1986, 100 Stat. 967; Pub. L. 101–501, title III, §305(c), Nov. 3, 1990, 104 Stat. 1250; Pub. L. 103–382, title III, §394(<i>l</i>), Oct. 20, 1994, 108 Stat. 4029; Pub. L. 105–244, title I, §102(a)(13)(H), Oct. 7, 1998, 112 Stat. 1621; Pub. L. 106–402, title IV, §401(b)(12), Oct. 30, 2000, 114 Stat. 1739; Pub. L. 107–110, title X, §1076(dd), Jan. 8, 2002, 115 Stat. 2093.)
+(Pub. L. 97–35, title VI, §670G, as added Pub. L. 98–558, title I, §109, Oct. 30, 1984, 98 Stat. 2883; amended Pub. L. 99–425, title III, §303, Sept. 30, 1986, 100 Stat. 967; Pub. L. 101–501, title III, §305(c), Nov. 3, 1990, 104 Stat. 1250; Pub. L. 103–382, title III, §394(l), Oct. 20, 1994, 108 Stat. 4029; Pub. L. 105–244, title I, §102(a)(13)(H), Oct. 7, 1998, 112 Stat. 1621; Pub. L. 106–402, title IV, §401(b)(12), Oct. 30, 2000, 114 Stat. 1739; Pub. L. 107–110, title X, §1076(dd), Jan. 8, 2002, 115 Stat. 2093.)
 
 #### References in Text
 
@@ -44,9 +44,9 @@ Section 198 of the Elementary and Secondary Education Act of 1965, referred to i
 
 <b>1998</b>—Par. (5). Pub. L. 105–244, which directed amendment of section 670G(5) of the Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9877(5)) by substituting “section 1001” for “section 1141(a)”, was executed to this section, which is section 670G(5) of subchapter E of chapter 8 of subtitle A of title VI of Pub. L. 97–35, known as the State Dependent Care Development Grants Act, to reflect the probable intent of Congress.
 
-<b>1994</b>—Par. (6). Pub. L. 103–382, §394(<i>l</i>)(1), substituted “section 8801 of title 20” for “section 198(a)(10) of the Elementary and Secondary Education Act of 1965”.
+<b>1994</b>—Par. (6). Pub. L. 103–382, §394(l)(1), substituted “section 8801 of title 20” for “section 198(a)(10) of the Elementary and Secondary Education Act of 1965”.
 
-Par. (11). Pub. L. 103–382, §394(<i>l</i>)(2), substituted “section 8801 of title 20” for “section 198(a)(17) of the Elementary and Secondary Education Act of 1965”.
+Par. (11). Pub. L. 103–382, §394(l)(2), substituted “section 8801 of title 20” for “section 198(a)(17) of the Elementary and Secondary Education Act of 1965”.
 
 <b>1990</b>—Par. (2)(C). Pub. L. 101–501, §305(c)(1), substituted “an individual” for “a person”.
 

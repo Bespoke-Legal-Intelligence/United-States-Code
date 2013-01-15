@@ -6,7 +6,7 @@ The Director of the Institute shall conduct and support research into spinal cor
 
 #### Interagency Committee on Spinal Cord Injury
 
-Section 7 of Pub. L. 99–158 provided that:
+Pub. L. 99–158, §7, Nov. 20, 1985, 99 Stat. 881, provided that:
 
 “(a)
 

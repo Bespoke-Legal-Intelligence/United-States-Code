@@ -60,7 +60,7 @@ Allotment of Clothing, Funds, and Transportation.—Upon the release of a prison
 
 (e)
 
-Supervision After Release.—A prisoner whose sentence includes a term of supervised release after imprisonment shall be released by the Bureau of Prisons to the supervision of a probation officer who shall, during the term imposed, supervise the person released to the degree warranted by the conditions specified bythe sentencing court. The term of supervised release commences on the day the person is released from imprisonment and runs concurrently with any Federal, State, or local term of probation or supervised release or parole for another offense to which the person is subject or becomes subject during the term of supervised release. A term of supervised release does not run during any period in which the person is imprisoned in connection with a conviction for a Federal, State, or local crime unless the imprisonment is for a period of less than 30 consecutive days. Upon the release of a prisoner by the Bureau of Prisons to supervised release, the Bureau of Prisons shall notify such prisoner, verbally and in writing, of the requirement that the prisoner adhere to an installment schedule, not to exceed 2 years except in special circumstances, to pay for any fine imposed for the offense committed by such prisoner, and of the consequences of failure to pay such fines under sections 3611 through 3614 of this title.
+Supervision After Release.—A prisoner whose sentence includes a term of supervised release after imprisonment shall be released by the Bureau of Prisons to the supervision of a probation officer who shall, during the term imposed, supervise the person released to the degree warranted by the conditions specified by the sentencing court. The term of supervised release commences on the day the person is released from imprisonment and runs concurrently with any Federal, State, or local term of probation or supervised release or parole for another offense to which the person is subject or becomes subject during the term of supervised release. A term of supervised release does not run during any period in which the person is imprisoned in connection with a conviction for a Federal, State, or local crime unless the imprisonment is for a period of less than 30 consecutive days. Upon the release of a prisoner by the Bureau of Prisons to supervised release, the Bureau of Prisons shall notify such prisoner, verbally and in writing, of the requirement that theprisoner adhere to an installment schedule, not to exceed 2 years except in special circumstances, to pay for any fine imposed for the offense committed by such prisoner, and of the consequences of failure to pay such fines under sections 3611 through 3614 of this title.
 
 (f)
 
@@ -108,13 +108,13 @@ Pub. L. 104–134, §101\[(a)\] \[title VIII, §809(c)(1)(B)\], in second senten
 
 Pub. L. 104–134, §101\[(a)\] \[title VIII, §809(c)(1)(C)\], in third sentence substituted “Subject to paragraph (2), if the Bureau” for “If the Bureau”.
 
-Pub. L. 104–134, §101\[(a)\] \[title VIII, §809(c)(1)(D)\], in fourth sentence substituted “In awarding credit under this section, the Bureau shall consider whether the prisoner, during the relevant period, has earned, or is making satisfactory progress toward earning, a highschool diploma or an equivalent degree.” for “The Bureau's determination shall be made within fifteen days after the end of each year of the sentence.”
+Pub. L. 104–134, §101\[(a)\] \[title VIII, §809(c)(1)(D)\], in fourth sentence substituted “In awarding credit under this section, the Bureau shall consider whether the prisoner, during the relevant period, has earned, or is making satisfactory progress toward earning, a high school diploma or an equivalent degree.” for “The Bureau's determination shall be made within fifteen days after the end of each year of the sentence.”
 
 Pub. L. 104–134, §101\[(a)\] \[title VIII, §809(c)(1)(E)\], in sixth sentence substituted “Subject to paragraph (2), credit for the last” for “Credit for the last”.
 
 Subsec. (b)(2). Pub. L. 104–134, §101\[(a)\] \[title VIII, §809(c)(2)\], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Credit toward a prisoner's service of sentence shall not be vested unless the prisoner has earned or is making satisfactory progress toward a high school diploma or an equivalent degree.”
 
-<b>1995</b>—Subsec. (f)(6). Pub. L. 104–66 struck out par. (6) which read as follows: “A report shall be provided to Congress on an annual basis summarizing the results of this program, including the number of inmate participants, the number successfully completing the program, the number who do not successfully complete the program, and the reasons for failure to successfully complete the program.”
+<b>1995</b>—Subsec. (f)(6). Pub. L. 104–66 struck out par. (6) which read as follows: “A report shall be provided to Congress on an annual basis summarizing the results of this program, including the number of inmate participants, the number successfully completing the program, the number who do not successfully complete theprogram, and the reasons for failure to successfully complete the program.”
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–322, §20405(2), substituted “the prisoner's” for “his” after “the expiration of” and “toward the service of”.
 
@@ -136,13 +136,13 @@ Subsec. (e). Pub. L. 99–646, §17(a), substituted “imprisonment and runs con
 
 #### Effective Date of 1990 Amendment
 
-Section 2902(b) of Pub. L. 101–647 provided that: “Section 3624(c) of title 18, United States Code, as amended by this section, shall apply with respect to all inmates, regardless of the date of their offense.”
+Pub. L. 101–647, title XXIX, §2902(b), Nov. 29, 1990, 104 Stat. 4913, provided that: “Section 3624(c) of title 18, United States Code, as amended by this section, shall apply with respect to all inmates, regardless of the date of their offense.”
 
 #### Effective Date of 1986 Amendment
 
-Section 16(b) of Pub. L. 99–646 provided that: “The amendment made by this section \[amending this section\] shall take effect on the date of the taking effect of such section 3624 \[Nov. 1, 1987\].”
+Pub. L. 99–646, §16(b), Nov. 10, 1986, 100 Stat. 3595, provided that: “The amendment made by this section \[amending this section\] shall take effect on the date of the taking effect of such section 3624 \[Nov. 1, 1987\].”
 
-Section 17(b) of Pub. L. 99–646 provided that: “The amendment made by this section \[amending this section\] shall take effect on the date of the taking effect of such section 3624 \[Nov. 1, 1987\].”
+Pub. L. 99–646, §17(b), Nov. 10, 1986, 100 Stat. 3595, provided that: “The amendment made by this section \[amending this section\] shall take effect on the date of the taking effect of such section 3624 \[Nov. 1, 1987\].”
 
 #### Effective Date
 

@@ -74,9 +74,9 @@ Subsec. (b). Pub. L. 97–35, §813(c)(2), added subsec. (b).
 
 #### Effective Date of 1986 Amendments
 
-Section 4209 of Pub. L. 99–661 provided that the amendment made by that section is effective Oct. 1, 1986.
+Pub. L. 99–661, div. D, title II, §4209, Nov. 14, 1986, 100 Stat. 4073, provided that the amendment made by that section is effective Oct. 1, 1986.
 
-Section 329 of Pub. L. 99–500 and Pub. L. 99–591 provided that the amendment made by that section is effective July 1, 1987.
+Pub. L. 99–500, title III, §329, Oct. 18, 1986, 100 Stat. 1783–362, and Pub. L. 99–591, title III, §329, Oct. 30, 1986, 100 Stat. 3341–365, provided that the amendment made by each such section is effective July 1, 1987.
 
 #### Effective Date of 1981 Amendment
 
@@ -88,5 +88,5 @@ Amendment by Pub. L. 95–627 effective July 1, 1979, except as specifically pro
 
 #### Effective Date of 1977 Amendment
 
-Section 20 of Pub. L. 95–166 provided that the amendment made by that section is effective July 1, 1977.
+Pub. L. 95–166, §20, Nov. 10, 1977, 91 Stat. 1346, provided that the amendment made by that section is effective July 1, 1977.
 

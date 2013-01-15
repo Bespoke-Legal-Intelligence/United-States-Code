@@ -10,7 +10,7 @@ Nebraska constitutes one judicial district.
 
 Based on title 28, U.S.C., 1940 ed., §173 (Mar. 3, 1911, ch. 231, §93, 36 Stat. 1118).
 
-Provisions for furnishing rooms and accommodations at the various places for holding court were omitted asobsolete upon advice of Director of the Administrative Office of the United States Courts that Federal accommodations are now available at such places.
+Provisions for furnishing rooms and accommodations at the various places for holding court were omitted as obsolete upon advice of Director of the Administrative Office of the United States Courts that Federal accommodations are now available at such places.
 
 A provision relating to the appointment and residence of deputy clerks and the places for keeping offices was omitted as covered by section 751 of this title.
 
@@ -24,5 +24,5 @@ Changes in arrangement and phraseology were made.
 
 #### Effective Date of 1955 Amendment
 
-Section 2 of act Aug. 9, 1955, provided that: “The amendment made by the first section of this Act \[amending this section\] shall take effect on September 1, 1955.”
+Act Aug. 9, 1955, ch. 627, §2, 69 Stat. 546, provided that: “The amendment made by the first section of this Act \[amending this section\] shall take effect on September 1, 1955.”
 

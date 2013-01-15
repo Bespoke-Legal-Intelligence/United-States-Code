@@ -24,7 +24,7 @@
 
 &emsp;(B) no metropolitan planning organization or other recipient of funds under title 23 or chapter 53 of title 49 shall adopt or approve a transportation improvement program of projects until it determines that such program provides for timely implementation of transportation control measures consistent with schedules included in the applicable implementation plan;
 
-&emsp;(C) a transportation project may be adopted or approved by a metropolitan planning organization or any recipient of funds designatedunder title 23 or chapter 53 of title 49, or found in conformity by a metropolitan planning organization or approved, accepted, or funded by the Department of Transportation only if it meets either the requirements of subparagraph (D) or the following requirements—
+&emsp;(C) a transportation project may be adopted or approved by a metropolitan planning organization or any recipient of funds designated under title 23 or chapter 53 of title 49, or found in conformity by a metropolitan planning organization or approved, accepted, or funded by the Department of Transportation only if it meets either the requirements of subparagraph (D) or the following requirements—
 
 &emsp;&emsp;(i) such a project comes from a conforming plan and program;
 
@@ -150,7 +150,7 @@ In general.—Transportation control measures that are specified in an implement
 
 &emsp;&emsp;&emsp;(II) if the implementation plan date for implementation of the control measure to be replaced has passed, as soon as practicable after the implementation plan date but not later than the date on which emission reductions are necessary to achieve the purpose of the implementation plan;
 
-&emsp;&emsp;(iii) if the substitute and additional control measures are accompanied with evidence of adequate personnel and funding andauthority under State or local law to implement, monitor, and enforce the control measures;
+&emsp;&emsp;(iii) if the substitute and additional control measures are accompanied with evidence of adequate personnel and funding and authority under State or local law to implement, monitor, and enforce the control measures;
 
 &emsp;&emsp;(iv) if the substitute and additional control measures were developed through a collaborative process that included—
 
@@ -200,7 +200,7 @@ Lapse.—In this subsection, the term “lapse” means that the conformity dete
 
 #### (d) Priority of achieving and maintaining national primary ambient air quality standards
 
-Each department, agency, or instrumentality of the Federal Government having authority to conduct or support any program with air-quality related transportation consequences shall give priority in the exercise of such authority, consistent with statutory requirements for allocation among States or other jurisdictions, to the implementation of those portions of plans prepared under this section to achieve and maintain the national primary ambient air-quality standard. This paragraph extends to, but is not limited to, authority exercised under chapter 53 of title 49, title 23, and the Housing and Urban Development Act.
+Each department, agency, or instrumentality of the Federal Government having authority to conduct or support any program with air-quality related transportation consequences shall give priority in the exercise of such authority, consistent with statutory requirements for allocation among States or other jurisdictions, to the implementation of those portions of plans prepared under this section to achieve and maintain the national primary ambient air-qualitystandard. This paragraph extends to, but is not limited to, authority exercised under chapter 53 of title 49, title 23, and the Housing and Urban Development Act.
 
 (July 14, 1955, ch. 360, title I, §176, as added Pub. L. 95–95, title I, §129(b), Aug. 7, 1977, 91 Stat. 749; amended Pub. L. 95–190, §14(a)(59), Nov. 16, 1977, 91 Stat. 1403; Pub. L. 101–549, title I, §§101(f), 110(4), Nov. 15, 1990, 104 Stat. 2409, 2470; Pub. L. 104–59, title III, §305(b), Nov. 28, 1995, 109 Stat. 580; Pub. L. 104–260, §1, Oct. 9, 1996, 110 Stat. 3175; Pub. L. 106–377, §1(a)(1) \[title III\], Oct. 27, 2000, 114 Stat. 1441, 1441A–44; Pub. L. 109–59, title VI, §6011(a)–(f), Aug. 10, 2005, 119 Stat. 1878–1881.)
 
@@ -214,7 +214,7 @@ The Housing and Urban Development Act, referred to in subsec. (d), may be the na
 
 #### Codification
 
-In subsecs. (c)(2) and (d), “chapter 53 of title 49” substituted for “the Urban Mass Transportation Act \[49 App. U.S.C. 1601 et seq.\]” and in subsec. (c)(4)(F) substituted for “Federal Transit Act” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378 (the first section of which enacted subtitles II, III, and V to X ofTitle 49, Transportation), and of Pub. L. 102–240, title III, §3003(b), Dec. 18, 1991, 105 Stat. 2088, which provided that references in laws to the Urban Mass Transportation Act of 1964 be deemed to be references to the Federal Transit Act.
+In subsecs. (c)(2) and (d), “chapter 53 of title 49” substituted for “the Urban Mass Transportation Act \[49 App. U.S.C. 1601 et seq.\]” and in subsec. (c)(4)(F) substituted for “Federal Transit Act” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378 (the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation), and of Pub. L. 102–240, title III, §3003(b), Dec. 18, 1991, 105 Stat. 2088, which provided that references in laws to the Urban Mass Transportation Act of 1964 be deemed to be references to the Federal Transit Act.
 
 #### Amendments
 

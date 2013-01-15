@@ -76,7 +76,7 @@ In subsection (d), the words “House Administration” are substituted for “H
 
 #### Amendments
 
-<b>2009</b>—Subsec. (d). Pub. L. 111–11, which directed insertion of “Natural” before “Resources”, was executed by making the insertion before “Resources of the House”, to reflect the probable intent of Congress.
+<b>2009</b>—Subsec. (d). Pub. L. 111–11, which directed insertion of “Natural” before “Resources”, was executed bymaking the insertion before “Resources of the House”, to reflect the probable intent of Congress.
 
 <b>2003</b>—Subsec. (b). Pub. L. 108–126, §203(c)(1), substituted “work solely commemorating a limited military engagement” for “work commemorating a lesser conflict” and “such war or conflict” for “the event”.
 
@@ -102,7 +102,7 @@ American Armored Force Memorial.—Pub. L. 99–620, Nov. 6, 1986, 100 Stat. 349
 
 Benjamin Banneker Memorial.—Pub. L. 105–355, title V, §512, Nov. 6, 1998, 112 Stat. 3266.
 
-Black Revolutionary War Patriots Memorial.—Pub. L. 99–500, §101(h) \[title I, §118\], Oct. 18, 1986, 100 Stat. 1783–242, 1783–266, and Pub. L. 99–591, §101(h) \[title I, §118\], Oct. 30, 1986, 100 Stat. 3341–242, 3341–266; Pub. L. 99–558, Oct. 27, 1986, 100 Stat. 3144; Pub. L. 99–590, title VIII, §§801, 802, Oct. 30, 1986, 100 Stat. 3339; Pub. L. 100–265, Mar. 25, 1988, 102 Stat. 39; Pub. L. 103–321, §1(a)(1), Aug. 26, 1994, 108 Stat. 1793; Pub. L. 104–333, div. I, title V, §506, Nov. 12, 1996, 110 Stat. 4155; Pub. L. 105–345, §1, Nov. 2, 1998, 112 Stat. 3205; Pub. L. 106–442, Nov. 6, 2000, 114 Stat. 1926.
+Black Revolutionary War Patriots Memorial.—Pub. L. 99–500, §101(h) \[title I, §118\], Oct. 18, 1986, 100 Stat. 1783–242, 1783–266, and Pub. L. 99–591, §101(h) \[title I, §118\], Oct. 30, 1986, 100 Stat. 3341–242, 3341–266; Pub. L. 99–558, Oct. 27, 1986, 100 Stat. 3144, repealed by Pub. L. 112–239, div. B, title XXVIII, §2860(f), Jan. 2, 2013, 126 Stat. 2165; Pub. L. 99–590, title VIII, §§801, 802, Oct. 30, 1986, 100 Stat. 3339; Pub. L. 100–265, Mar. 25, 1988, 102 Stat. 39, repealed by Pub. L. 112–239, div. B, title XXVIII, §2860(f), Jan. 2, 2013, 126 Stat. 2165; Pub. L. 103–321, §1(a)(1), Aug. 26, 1994, 108 Stat. 1793; Pub. L. 104–333, div. I, title V, §506, Nov. 12, 1996, 110 Stat. 4155; Pub. L. 105–345, §1, Nov. 2, 1998, 112 Stat. 3205; Pub. L. 106–442, Nov. 6, 2000, 114 Stat. 1926; Pub. L. 112–239, div. B, title XXVIII, §2860, Jan. 2, 2013, 126 Stat. 2164.
 
 Brigadier General Francis Marion Commemorative Work.—Pub. L. 110–229, title III, §331, May 8, 2008, 122 Stat. 781.
 
@@ -115,6 +115,8 @@ Francis Scott Key Memorial.—Pub. L. 99–531, Oct. 27, 1986, 100 Stat. 3022.
 Frederick Douglass Memorial and Gardens.—Pub. L. 106–479, Nov. 9, 2000, 114 Stat. 2184.
 
 George Mason Memorial.—Pub. L. 101–358, Aug. 10, 1990, 104 Stat. 419; Pub. L. 102–277, Apr. 28, 1992, 106 Stat. 127; Pub. L. 105–182, §1, June 19, 1998, 112 Stat. 516.
+
+Gold Star Mothers Commemorative Work.—Pub. L. 112–239, div. B, title XXVIII, §2859, Jan. 2, 2013, 126 Stat. 2164.
 
 Japanese American Patriotism in World War II Memorial.—Pub. L. 102–502, Oct. 24, 1992, 106 Stat. 3273; Pub. L. 104–333, div. I, title V, §514, Nov. 12, 1996, 110 Stat. 4165.
 

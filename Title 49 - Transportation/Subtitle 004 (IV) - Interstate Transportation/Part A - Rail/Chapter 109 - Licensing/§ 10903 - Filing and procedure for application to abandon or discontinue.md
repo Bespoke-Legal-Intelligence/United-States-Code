@@ -30,7 +30,7 @@
 
 (b)(1) Except as provided in subsection (d), abandonment and discontinuance may occur as provided in section 10904.
 
-(2) The Board shall require as a condition of any abandonment or discontinuance under this section provisions to protect the interests of employees. The provisions shall be at least as beneficial to those interests as the provisions established under sections 11326(a) and 24706(c) <sup>1</sup> of this title.
+(2) The Board shall require as a condition of any abandonment or discontinuance under this section provisions to protect the interests of employees. The provisions shall be at least as beneficial to those interests as the provisions established under sections 11326(a) and 24706(c) <sup>1</sup> of this title before May 31, 1998.
 
 (c)(1) In this subsection, the term “potentially subject to abandonment” has the meaning given the term in regulations of the Board. The regulations may include standards that vary by region of the United States and by railroad or group of railroads.
 
@@ -58,15 +58,23 @@
 
 &emsp;(2) fails to find public convenience and necessity, it shall deny the application.
 
-(Added Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 823.)
+(Added Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 823; amended Pub. L. 112–141, div. C, title II, §32932(b), July 6, 2012, 126 Stat. 829.)
 
 #### References in Text
 
-Section 24706(c) of this title, referred to in subsec. (b)(2), was repealed by Pub. L. 105–134, title I, §142(a), Dec. 2, 1997, 111 Stat. 2576.
+Section 24706(c) of this title, referred to in subsec. (b)(2), was repealed by Pub. L. 105–134, title I, §142(a), Dec. 2, 1997, 111 Stat. 2576, effective 180 days after Dec. 2, 1997.
 
 #### Prior Provisions
 
 A prior section 10903, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1403; Pub. L. 96–448, title IV, §402(a), Oct. 14, 1980, 94 Stat. 1941; Pub. L. 98–216, §2(14), Feb. 14, 1984, 98 Stat. 5; Pub. L. 103–272, §5(m)(24), July 5, 1994, 108 Stat. 1378, related to authorizing abandonment and discontinuance of railroad lines and rail transportation.
+
+#### Amendments
+
+<b>2012</b>—Subsec. (b)(2). Pub. L. 112–141 substituted “24706(c) of this title before May 31, 1998” for “24706(c) of this title”.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
 
 #### Railroad Branchline Abandonments by Burlington Northern Railroad in North Dakota
 

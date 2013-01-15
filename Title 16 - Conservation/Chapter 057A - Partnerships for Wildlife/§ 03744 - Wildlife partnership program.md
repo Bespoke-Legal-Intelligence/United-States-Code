@@ -44,7 +44,7 @@ The amount of appropriated Federal funds provided from the Fund by the Secretary
 
 &emsp;(2) may not exceed one third of the total project cost for that fiscal year;
 
-&emsp;(3) may not exceed 40 percent of the total project cost for that fiscal year if designated State agencies from two or more States cooperate in implementing such a project; and
+&emsp;(3) may not exceed 40 percent of the total project cost for that fiscal year if designatedState agencies from two or more States cooperate in implementing such a project; and
 
 &emsp;(4) may not be used to defray the administrative cost of State programs.
 

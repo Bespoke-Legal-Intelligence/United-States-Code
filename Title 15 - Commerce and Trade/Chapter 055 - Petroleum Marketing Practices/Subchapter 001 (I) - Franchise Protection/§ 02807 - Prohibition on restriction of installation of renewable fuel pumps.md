@@ -10,7 +10,7 @@ In this section:
 
 &emsp;&emsp;(A) at least 85 percent of the volume of which consists of ethanol; or
 
-&emsp;&emsp;(B) any mixture of biodiesel and diesel or renewable diesel (as defined in regulations adopted pursuant to section 7545(<i>o</i>) of title 42 (40 CFR, part 80)), determined without regard to any use of kerosene and containing at least 20 percent biodiesel or renewable diesel.
+&emsp;&emsp;(B) any mixture of biodiesel and diesel or renewable diesel (as defined in regulations adopted pursuant to section 7545(o) of title 42 (40 CFR, part 80)), determined without regard to any use of kerosene and containing at least 20 percent biodiesel or renewable diesel.
 
 #### (2) Franchise-related document
 

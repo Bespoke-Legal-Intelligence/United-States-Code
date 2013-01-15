@@ -88,7 +88,7 @@
 
 The amounts of any State's allotment under subsection (b) of this section for any fiscal year which the Assistant Secretary determines will not be required for that year for the purposes described in subsection (a)(1) of this section shall be available to provide services under part B of this subchapter or part C of this subchapter, or both, in the State.
 
-(Pub. L. 89–73, title III, §308, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1530; amended Pub. L. 97–115, §§3(d), 8, Dec. 29, 1981, 95 Stat. 1597, 1600; Pub. L. 98–459, title III, §308, Oct. 9, 1984, 98 Stat. 1777; Pub. L. 100–175, title I, §§129(c)(2), 182(<i>l</i>), Nov. 29, 1987, 101 Stat. 935, 966; Pub. L. 102–375, title I, §102(b)(9)(C), (10)(A), title III, §308, title IX, §904(a)(14), Sept. 30, 1992, 106 Stat. 1202, 1234, 1308; Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 106–501, title III, §307, Nov. 13, 2000, 114 Stat. 2245.)
+(Pub. L. 89–73, title III, §308, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1530; amended Pub. L. 97–115, §§3(d), 8, Dec. 29, 1981, 95 Stat. 1597, 1600; Pub. L. 98–459, title III, §308, Oct. 9, 1984, 98 Stat. 1777; Pub. L. 100–175, title I, §§129(c)(2), 182(l), Nov. 29, 1987, 101 Stat. 935, 966; Pub. L. 102–375, title I, §102(b)(9)(C), (10)(A), title III, §308, title IX, §904(a)(14), Sept. 30, 1992, 106 Stat. 1202, 1234, 1308; Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 106–501, title III, §307, Nov. 13, 2000, 114 Stat. 2245.)
 
 #### Prior Provisions
 
@@ -130,19 +130,19 @@ Subsec. (b)(5) to (7). Pub. L. 102–375, §308(2)(B), added pars. (5) to (7) an
 
 “(B) Of the funds received under subsections (a)(1) and (b) of section 3023 of this title, a State may elect to transfer under subparagraph (A) not more than 30 percent of the funds allotted for any fiscal year.”
 
-<b>1987</b>—Subsec. (b)(1). Pub. L. 100–175, §182(<i>l</i>)(1), (2), struck designation “(A)” after “(1)” and redesignated former cls. (i) and (ii) as subpars. (A) and (B), respectively.
+<b>1987</b>—Subsec. (b)(1). Pub. L. 100–175, §182(l)(1), (2), struck designation “(A)” after “(1)” and redesignated former cls. (i) and (ii) as subpars. (A) and (B), respectively.
 
-Subsec. (b)(2). Pub. L. 100–175, §182(<i>l</i>)(3), struck designation “(A)” after “(1)” and redesignated former cls. (i) and (ii) as subpars. (A) and (B), respectively.
+Subsec. (b)(2). Pub. L. 100–175, §182(l)(3), struck designation “(A)” after “(1)” and redesignated former cls. (i) and (ii) as subpars. (A) and (B), respectively.
 
-Subsec. (b)(3)(C). Pub. L. 100–175, §182(<i>l</i>)(4), substituted “the Commissioner” for “he”.
+Subsec. (b)(3)(C). Pub. L. 100–175, §182(l)(4), substituted “the Commissioner” for “he”.
 
-Subsec. (b)(5)(A). Pub. L. 100–175, §182(<i>l</i>)(5), substituted “allotted” for “appropriated”.
+Subsec. (b)(5)(A). Pub. L. 100–175, §182(l)(5), substituted “allotted” for “appropriated”.
 
 Pub. L. 100–175, §129(c)(2)(A), substituted “received under subsection (a)(1)” for “received under subsection (a)”.
 
-Subsec. (b)(5)(B). Pub. L. 100–175, §182(<i>l</i>)(6), substituted provision that State may elect to transfer not more than 30 percent of funds allotted for any fiscal year for provision that State may elect to transfer not more than 27 percent of funds allotted for fiscal year 1985, not more than 29 percent of funds allotted for fiscal year 1986, and not more than 30 percent of funds allotted for fiscal year 1987.
+Subsec. (b)(5)(B). Pub. L. 100–175, §182(l)(6), substituted provision that State may elect to transfer not more than 30 percent of funds allotted for any fiscal year for provision that State may elect to transfer not more than 27 percent of funds allotted for fiscal year 1985, not more than 29 percent of funds allotted for fiscal year 1986, and not more than 30 percent of funds allotted for fiscal year 1987.
 
-Pub. L. 100–175, §182(<i>l</i>)(5), substituted “allotted” for “appropriated”.
+Pub. L. 100–175, §182(l)(5), substituted “allotted” for “appropriated”.
 
 Pub. L. 100–175, §129(c)(2)(B), inserted “subsections (a)(1) and (b) of” after first reference to “under”.
 

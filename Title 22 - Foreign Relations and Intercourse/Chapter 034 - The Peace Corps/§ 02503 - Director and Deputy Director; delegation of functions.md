@@ -38,7 +38,7 @@ This chapter, referred to in subsecs. (b) and (c), was in the original “this A
 
 #### Effective Date of 1964 Amendment
 
-Amendment by Pub. L. 88–426 effective on first day of first pay period which begins on or after July 1, 1964, except to extent provided in section 501(c) of Pub. L. 88–426, see section 501 of Pub. L. 88–426.
+Amendment by Pub. L. 88–426 effective on first day of first pay period which begins on or after July 1, 1964, except to extent provided in section 501(c) of Pub. L. 88–426, see Pub. L. 88–426, title V, §501(a), Aug. 14, 1964, 78 Stat. 435.
 
 #### Transfer of Functions
 
@@ -82,5 +82,5 @@ Committees of congress specified.—The committees of Congress specified in this
 
 #### Continuing Functions of Director of Peace Corps From December 14, 1981
 
-Section 601(d)(2) of Pub. L. 97–113 provided: “The Director of the Peace Corps shall continue to exercise all the functions under the Peace Corps Act \[this chapter\] or any other law or authority which the Director was performing on December 14, 1981.”
+Pub. L. 97–113, title VI, §601(d)(2), Dec. 29, 1981, 95 Stat. 1542, provided: “The Director of the Peace Corpsshall continue to exercise all the functions under the Peace Corps Act \[this chapter\] or any other law or authority which the Director was performing on December 14, 1981.”
 

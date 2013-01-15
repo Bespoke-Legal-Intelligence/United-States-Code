@@ -82,5 +82,5 @@ In general.—Except as provided in this subsection, the amendments made by this
 
 “(2)
 
-Gifts and bequests.—Chapter 15 of the Internal Revenue Code of 1986 (as added by subsection (b)) shall apply to covered gifts and bequests (as defined in section 2801 of such Code, as so added) received on or after the date of the enactment of this Act from transferors (or from the estates of transferors) whose expatriation date is on or after such date of enactment.”
+Gifts and bequests.—Chapter 15 of the Internal Revenue Code of 1986 (as added by subsection (b)) shall apply to covered gifts and bequests (as defined in section 2801 of such Code, as so added) received on or after the date of the enactment of this Act from transferors\(or from the estates of transferors) whose expatriation date is on or after such date of enactment.”
 

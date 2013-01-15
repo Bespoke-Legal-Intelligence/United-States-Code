@@ -46,7 +46,7 @@ The Job Training Partnership Act, referred to in subsecs. (a) and (d), is Pub. L
 
 This Act, referred to in subsecs. (a) and (c) to (e), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended, known as the Workforce Investment Act of 1998. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of this title and Tables.
 
-The Adult Education Act, referred to in subsec. (b)(1), is title III of Pub. L. 89–750, Nov. 3, 1966, 80 Stat. 1216, as amended, which was classified generally to chapter 30 (§1201 et seq.) of this title, prior to repeal by Pub. L. 105–220, title II, §251(a)(1), Aug. 7, 1998, 112 Stat. 1079. For complete classification of this Act to the Code, see Tables.
+The Adult Education Act, referred to in subsec. (b)(1), is title III of Pub. L. 89–750, Nov. 3, 1966, 80 Stat. 1216, as amended, which was classified generally to chapter30 (§1201 et seq.) of this title, prior to repeal by Pub. L. 105–220, title II, §251(a)(1), Aug. 7, 1998, 112 Stat. 1079. For complete classification of this Act to the Code, see Tables.
 
 The Adult Education and Family Literacy Act, referred to in subsec. (b)(1), is title II of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 1059, as amended, which is classified principally to subchapter I (§9201 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of this title and Tables.
 

@@ -26,7 +26,7 @@ On and after January 1, 1974, any claim for benefits for death or total disabili
 
 #### (c) Publication in Federal Register; review of listings
 
-Final regulations required for implementation of any amendments to this part shall be promulgated and published in the Federal Register at the earliest practicable date after the date of enactment of such amendments, and in no event later than the end of the sixth month following the month in which such amendments are enacted.
+Final regulations required for implementation of any amendments to this part shall be promulgated and published in the Federal Register atthe earliest practicable date after the date of enactment of such amendments, and in no event later than the end of the sixth month following the month in which such amendments are enacted.
 
 (Pub. L. 91–173, title IV, §421, Dec. 30, 1969, 83 Stat. 795; Pub. L. 92–303, §§1(c)(1), 4(e), 5(3), (5), May 19, 1972, 86 Stat. 151, 154, 155; Pub. L. 95–239, §§3(b)(3), 6, Mar. 1, 1978, 92 Stat. 97, 98.)
 

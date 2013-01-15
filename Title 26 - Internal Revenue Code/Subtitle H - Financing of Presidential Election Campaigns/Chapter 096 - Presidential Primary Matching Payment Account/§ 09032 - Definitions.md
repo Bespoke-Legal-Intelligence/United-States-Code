@@ -30,7 +30,7 @@ For the purposes of this chapter—
 
 &emsp;(7) The term “primary election” means an election, including a runoff election or a nominating convention or caucus held by a political party, for the selection of delegates to a national nominating convention of a political party, or for the expression of a preference for the nomination of persons for election to the office of President of the United States.
 
-&emsp;(8) The term “political committee” means any individual, committee, association, or organization (whether or not incorporated)which accepts contributions or incurs qualified campaign expenses for the purpose of influencing, or attempting to influence, the nomination of any person for election to the office of President of the United States.
+&emsp;(8) The term “political committee” means any individual, committee, association, or organization (whether or not incorporated) which accepts contributions or incurs qualified campaign expenses for the purpose of influencing, or attempting to influence, the nomination of any person for election to the office of President of the United States.
 
 &emsp;(9) The term “qualified campaign expense” means a purchase, payment, distribution, loan, advance, deposit, or gift of money or of anything of value—
 

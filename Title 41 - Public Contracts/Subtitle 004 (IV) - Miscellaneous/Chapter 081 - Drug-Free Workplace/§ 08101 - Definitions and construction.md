@@ -10,7 +10,7 @@ Contractor.—The term “contractor” means the department, division, or other
 
 &emsp;(2)
 
-Controlled substance.—The term “controlled substance” means a controlled substance in schedules I through V of section 202of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 812).
+Controlled substance.—The term “controlled substance” means a controlled substance in schedules I through V of section 202 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 812).
 
 &emsp;(3)
 

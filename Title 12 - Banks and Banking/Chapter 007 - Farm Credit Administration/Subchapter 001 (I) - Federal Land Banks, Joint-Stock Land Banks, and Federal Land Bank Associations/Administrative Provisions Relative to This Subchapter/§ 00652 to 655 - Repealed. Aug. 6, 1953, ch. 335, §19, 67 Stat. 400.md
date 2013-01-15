@@ -8,5 +8,5 @@ Sections 653, 654, and 655 were each amended by Ex. Ord. No. 6084, Mar. 27, 1933
 
 #### Effective Date of Repeal
 
-Repeal effective 120 days after Aug. 6, 1953, see section 17 of act Aug. 6, 1953.
+Repeal effective 120 days after Aug. 6, 1953, see act Aug. 6, 1953, ch. 335, §18, 67 Stat. 399.
 

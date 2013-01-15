@@ -28,5 +28,5 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 
 #### Short Title
 
-Section 1 of Pub. L. 91–663 provided: “That this Act \[enacting this chapter\] may be cited as the ‘Emergency Rail Services Act of 1970’.”
+Pub. L. 91–663, §1, Jan. 8, 1971, 84 Stat. 1975, provided: “That this Act \[enacting this chapter\] may be cited as the ‘Emergency Rail Services Act of 1970’.”
 

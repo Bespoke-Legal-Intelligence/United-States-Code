@@ -12,7 +12,7 @@ Where—
 
 #### (b) Knowledge of person or provider that payment could not be made; indemnification of individual
 
-In any case in which the provisions of paragraphs (1) and (2) of subsection (a) of this section are met, except that such provider or such other person, as the case may be, knew, or could be expected to know, that payment for such services or items could not be made under such part A or part B of this subchapter, then the Secretary shall, upon proper application filed within such time as may be prescribed in regulations, indemnify the individual (referred to in such paragraphs) for any payments received from such individual by such provider or such other person, as the case may be, for such items or services. Any payments made by the Secretary as indemnification shall be deemed to have been made to such provider or such other person, as the case may be, and shall be treated as overpayments, recoverable from such provider or such other person, as the case may be, under applicable provisions of law. In each such case the Secretary shall notify such individual of the conditions under which indemnification is made and in the case of comparable situations arising thereafter with respect to such individual, he shall, by reason of such notice (or similar notices provided before the enactment of this section), be deemed to have knowledge that payment cannot be made for such items or services. No item or service for which an individual is indemnified under this subsection shall be taken into account in applying any limitation on the amount of items and services for which payment may be made to or on behalf of the individual under this subchapter.
+In any case in which the provisions of paragraphs (1) and (2) of subsection (a) of this section are met, except that such provider or such other person, as the case may be, knew, or could be expected to know, that payment for such services or items could not be made under such part A or part B of this subchapter, then the Secretary shall, upon proper application filed within such time as may be prescribed in regulations, indemnify the individual (referred to in such paragraphs) for any payments received from such individual by such provider or such other person, as the case may be, for such items or services. Any payments made by the Secretary as indemnification shall be deemed to have been made to such provider or such other person, as the case may be, and shall be treated as overpayments, recoverable from such provider or such other person, as the case may be, under applicable provisions of law. In each such case the Secretary shall notify such individual of the conditions under which indemnification is made and in the case of comparable situations arising thereafterwith respect to such individual, he shall, by reason of such notice (or similar notices provided before the enactment of this section), be deemed to have knowledge that payment cannot be made for such items or services. No item or service for which an individual is indemnified under this subsection shall be taken into account in applying any limitation on the amount of items and services for which payment may be made to or on behalf of the individual under this subchapter.
 
 #### (c) Knowledge of both provider and individual to whom items or services were furnished that payment could not be made
 
@@ -24,7 +24,7 @@ In any case arising under subsection (b) of this section (but without regard to 
 
 #### (e) Payment where beneficiary not at fault
 
-Where payment for inpatient hospital services or extended care services may not be made under part A of this subchapter on behalf of an individual entitled to benefits under such part solely because of an unintentional, inadvertent, or erroneous action with respect to the transfer of such individual from a hospital or skilled nursing facility that meets the requirements of section 1395x(e) or (j) of this title by such a provider of services acting in good faith in accordance with the advice of a utilization review committee, quality improvement organization, or fiscal intermediary, or on the basis of a clearly erroneous administrative decision by a provider of services, the Secretary shall take such action with respect to the payment of such benefits ashe determines may be necessary to correct the effects of such unintentional, inadvertent, or erroneous action.
+Where payment for inpatient hospital services or extended care services may not be made under part A of this subchapter on behalf of an individual entitled to benefits under such part solely because of an unintentional, inadvertent, or erroneous action with respect to the transfer of such individual from a hospital or skilled nursing facility that meets the requirements of section 1395x(e) or (j) of this title by such a provider of services acting in good faith in accordance with the advice of a utilization review committee, quality improvement organization, or fiscal intermediary, or on the basis of a clearly erroneous administrative decision by a provider of services, the Secretary shall take such action with respect to the payment of such benefits as he determines may be necessary to correct the effects of such unintentional, inadvertent, or erroneous action.
 
 #### (f) Presumption with respect to coverage denial; rebuttal; requirements; “fiscal intermediary” defined
 
@@ -92,7 +92,7 @@ Subsec. (f)(4). Pub. L. 101–239, §6214(a)(2), designated existing provisions 
 
 Subsec. (f)(6). Pub. L. 101–239, §6214(b), added par. (6).
 
-<b>1987</b>—Subsec. (b). Pub. L. 100–203 struck out “, subject to the deductible and coinsurance provisions of this subchapter,” after “(referred to in such paragraphs)”and inserted at end “No item or service for which an individual is indemnified under this subsection shall be taken into account in applying any limitation on the amount of items and services for which payment may be made to or on behalf of the individual under this subchapter.”
+<b>1987</b>—Subsec. (b). Pub. L. 100–203 struck out “, subject to the deductible and coinsurance provisions of this subchapter,” after “(referred to in such paragraphs)” and inserted at end “No item or service for which an individual is indemnified under this subsection shall be taken into account in applying any limitation on the amount of items and services for which payment may be made to or on behalf of the individual under this subchapter.”
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–509, §9305(g)(1)(A)–(C), inserted in par. (1) “or by reason of a coverage denial described in subsection (g) of this section”, and in concluding provisions inserted “and as though the coverage denial described in subsection (g) of this section had not occurred” and “or by reason of a coverage denial described in subsection (g) of this section”.
 
@@ -122,7 +122,7 @@ Amendment by Pub. L. 103–432 applicable to items or services furnished on or a
 
 #### Effective Date of 1989 Amendment
 
-Section 6214(c) of Pub. L. 101–239 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to determinations for quarters beginning on or after the date of the enactment of this Act \[Dec. 19, 1989\].”
+Pub. L. 101–239, title VI, §6214(c), Dec. 19, 1989, 103 Stat. 2252, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to determinations for quarters beginning on or after the date of the enactment of this Act \[Dec. 19, 1989\].”
 
 #### Effective Date of 1987 Amendment
 
@@ -130,21 +130,21 @@ Amendment by Pub. L. 100–203 applicable to services furnished on or after Jan.
 
 #### Effective Date of 1986 Amendment
 
-Section 9305(g)(3) of Pub. L. 99–509, as amended by Pub. L. 100–360, title IV, §426(c), July 1, 1988, 102 Stat. 814; Pub. L. 101–508, title IV, §4207(b)(3), formerly §4027(b)(3), Nov. 5, 1990, 104 Stat. 1388–118, renumbered Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444, provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply to coverage denials occurring on or after July 1, 1987, and before December 31, 1995.”
+Pub. L. 99–509, title IX, §9305(g)(3), Oct. 21, 1986, 100 Stat. 1993, as amended by Pub. L. 100–360, title IV, §426(c), July 1, 1988, 102 Stat. 814; Pub. L. 101–508, title IV, §4207(b)(3), formerly §4027(b)(3), Nov. 5, 1990, 104 Stat. 1388–118, renumbered Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444, provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply to coverage denials occurring on or after July 1, 1987, and before December 31, 1995.”
 
 Amendment by section 9341(a)(3) of Pub. L. 99–509 applicable to items and services furnished on or after Jan. 1, 1987, see section 9341(b) of Pub. L. 99–509, set out as a note under section 1395ff of this title.
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–248 effective with respect to contracts entered into or renewed on or after Sept. 3, 1982, see section 149 of Pub. L. 97–248, set out as an Effective Date note under section 1320c of this title.
+Amendment by Pub. L. 97–248 effective with respect to contracts entered into or renewed on or after Sept.3, 1982, see section 149 of Pub. L. 97–248, set out as an Effective Date note under section 1320c of this title.
 
 #### Effective Date of 1980 Amendment
 
-Section 956(b) of Pub. L. 96–499 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 1981.”
+Pub. L. 96–499, title IX, §956(b), Dec. 5, 1980, 94 Stat. 2648, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 1981.”
 
 #### Effective Date
 
-Section 213(b) of Pub. L. 92–603 provided that: “The amendments made by this section \[enacting this section\] shall be effective with respect to claims under part A or part B of title XVIII of the Social Security Act \[part A or part B of this subchapter\], filed with respect to items or services furnished after the date of the enactment of this Act \[Oct. 30, 1972\].”
+Pub. L. 92–603, title II, §213(b), Oct. 30, 1972, 86 Stat. 1386, provided that: “The amendments made by this section \[enacting this section\] shall be effective with respect to claims under part A or part B of title XVIII of the Social Security Act \[part A or part B of this subchapter\], filed with respect to items or services furnished after the date of the enactment of this Act \[Oct. 30, 1972\].”
 
 #### Provisions Relating to Advance Beneficiary Notices; Report on Prior Determination Process
 
@@ -184,9 +184,9 @@ report on use of prior determination process.—Not later than 36 months after t
 
 “(5)
 
-Advance beneficiary notice defined.—In this subsection, the term ‘advance beneficiary notice’means a written notice provided under section 1879(a) of the Social Security Act (42 U.S.C. 1395pp(a)) to an individual entitled to benefits under part A or enrolled under part B of title XVIII of such Act \[part A and part B of this subchapter\] before items or services are furnished under such part in cases where a provider of services or other person that would furnish the item or service believes that payment will not be made for some or all of such items or services under such title \[this subchapter\].”
+Advance beneficiary notice defined.—In this subsection, the term ‘advance beneficiary notice’ means a written notice provided under section 1879(a) of the Social Security Act (42 U.S.C. 1395pp(a)) to an individual entitled to benefits under part A or enrolled under part B of title XVIII of such Act \[part A and part B of this subchapter\] before items or services are furnished under such part in cases where a provider of services or other person that would furnish the item or service believes that payment will not be made for some or all of such items or services under such title \[this subchapter\].”
 
 #### Reports to Congress on Denials of Bills for Payment
 
-Section 9305(g)(2) of Pub. L. 99–509 directed Secretary of Health and Human Services to report to Congress annually in March of 1987 and 1988 information on frequency and distribution (by type of provider) of denials of bills for payment under this subchapter for extended care services, home health services, and hospice care, by reason of section 1395y(a)(1) or (9) of this title, and coverage denials described in subsec. (g) of this section, and such other information as appropriate to evaluate the appropriateness of any percentage standards established for the granting of favorable presumptions with respect to such denials.
+Pub. L. 99–509, title IX, §9305(g)(2), Oct. 21, 1986, 100 Stat. 1992, directed Secretary of Health and Human Services to report to Congress annually in March of 1987 and 1988 information on frequency and distribution (by type of provider) of denials of bills for payment under this subchapter for extended care services, home health services, and hospice care, by reason of section 1395y(a)(1) or (9) of this title, and coverage denials described in subsec. (g) of this section, and such other information as appropriate to evaluate the appropriateness of any percentage standards established for the granting of favorable presumptions with respect to such denials.
 

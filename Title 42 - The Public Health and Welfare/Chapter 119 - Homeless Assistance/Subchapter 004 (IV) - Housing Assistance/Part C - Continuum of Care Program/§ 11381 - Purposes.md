@@ -24,9 +24,13 @@ Section effective on the earlier of 18 months after May 20, 2009, or 3 months af
 
 #### Transitional Provision
 
-Section 1403(b) of Pub. L. 102–550, as amended by Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675, provided that: “Notwithstanding the amendment made by subsection (a) \[adding part C and repealing former parts C and D of this subchapter\], before the date of the effectiveness of the regulations issued under section 427 of the McKinney-Vento Homeless Assistance Act \[42 U.S.C. 11387\] (as amended by subsection (a) of this section) the Secretary may make grants under the provisions of subtitles C and D of \[title IV of\] the McKinney-Vento Homeless Assistance Act \[former parts C and D of this subchapter\], as in effect immediately before the enactment of this Act \[Oct. 28, 1992\]. Any grants made before such effective date shall be subject to the provisions of such subtitles.”
+Pub. L. 102–550, title XIV, §1403(b), Oct. 28, 1992, 106 Stat. 4021, as amended by Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675, provided that: “Notwithstanding the amendment made by subsection (a) \[adding part C and repealing former parts C and D of this subchapter\], before the date of the effectiveness of the regulations issued under section 427 of the McKinney-Vento Homeless Assistance Act \[42 U.S.C. 11387\] (as amended by subsection (a) of this section) the Secretary may make grants under the provisions of subtitles C and D of \[title IV of\] the McKinney-Vento Homeless Assistance Act \[former parts C and D of this subchapter\], as in effect immediately before the enactment of this Act \[Oct. 28, 1992\]. Any grants made before such effective date shall be subject to the provisions of such subtitles.”
 
 #### Demonstration Projects To Reduce Number of Homeless Families in Welfare Hotels
 
 Pub. L. 100–628, title IX, §903, Nov. 7, 1988, 102 Stat. 3258, as amended by Pub. L. 104–193, title I, §110(g), Aug. 22, 1996, 110 Stat. 2171, authorized Secretary of Health and Human Services to carry out 2 or 3 demonstration projects to provide housing in transitional facilities for homeless families who are recipients of assistance under a State program funded by part A of subchapter IV of chapter 7 of this title and who reside in commercial or similar transient facilities and authorized appropriations of not more than $20,000,000 for the grants for fiscal year 1990.
+
+#### Definition
+
+For provisions relating to definition of “local government” as used in this section, see section 100261 of Pub. L. 112–141, set out as a HEARTH Act Technical Corrections note under section 11360 of this title.
 

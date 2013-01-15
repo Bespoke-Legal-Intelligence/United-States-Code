@@ -80,7 +80,7 @@ Richard Nixon.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Display in Federal Buildings of Code of Ethics for Government Service
 
-Pub. L. 96–303, July 3, 1980, 94 Stat. 855, which provided that each agency, under regulations prescribed by Administrator of General Services Administration, display in appropriate areas of Federal buildings copies of the Code of Ethics for Government Service, authorized publication and distribution of such Code, and set forth text of the Code of Ethics for Government Service, was repealed by Pub. L. 104–179, §4(a), Aug. 6, 1996, 110 Stat. 1566.
+Pub. L. 96–303, July 3, 1980, 94 Stat. 855, which provided that each agency, under regulations prescribed byAdministrator of General Services Administration, display in appropriate areas of Federal buildings copies of the Code of Ethics for Government Service, authorized publication and distribution of such Code, and set forth text of the Code of Ethics for Government Service, was repealed by Pub. L. 104–179, §4(a), Aug. 6, 1996, 110 Stat. 1566.
 
 #### Agency Acceptance of Donations for Federal Employees
 
@@ -216,7 +216,7 @@ Drug use is having serious adverse effects upon a significant proportion of the 
 
 The Federal government, as an employer, is concerned with the well-being of its employees, the successful accomplishment of agency missions, and the need to maintain employee productivity;
 
-The Federal government, as the largest employer in the Nation, can and should show the way towardsachieving drug-free workplaces through a program designed to offer drug users a helping hand and, at the same time, demonstrating to drug users and potential drug users that drugs will not be tolerated in the Federal workplace;
+The Federal government, as the largest employer in the Nation, can and should show the way towards achieving drug-free workplaces through a program designed to offer drug users a helping hand and, at the same time, demonstrating to drug users and potential drug users that drugs will not be tolerated in the Federal workplace;
 
 The profits from illegal drugs provide the single greatest source of income for organized crime, fuel violent street crime, and otherwise contribute to the breakdown of our society;
 
@@ -314,7 +314,7 @@ Sec. 6. <i>Coordination of Agency Programs</i>. (a) The Director of the Office o
 
 (b) The Attorney General shall render legal advice regarding the implementation of this Order and shall be consulted with regard to all guidelines, regulations, and policies proposed to be adopted pursuant to this Order.
 
-(c) Nothing in this Order shall be deemed to limit the authorities of the Director of Central Intelligence under the National Security Act of 1947, as amended \[50 U.S.C. 401 et seq.\], or the statutory authorities of the National Security Agency or the Defense Intelligence Agency. Implementation of this Order within the Intelligence Community, as defined in Executive Order No. 12333 \[50 U.S.C. 401 note\], shall be subject to the approval of the head of the affected agency.
+(c) Nothing in this Order shall be deemed to limit the authorities of the Director of Central Intelligenceunder the National Security Act of 1947, as amended \[50 U.S.C. 401 et seq.\], or the statutory authorities of the National Security Agency or the Defense Intelligence Agency. Implementation of this Order within the Intelligence Community, as defined in Executive Order No. 12333 \[50 U.S.C. 401 note\], shall be subject to the approval of the head of the affected agency.
 
 Sec. 7. <i>Definitions</i>. (a) This Order applies to all agencies of the Executive Branch.
 
@@ -352,7 +352,7 @@ By virtue of the authority vested in me as President by the Constitution and the
 
 #### Part I—Principles of Ethical Conduct
 
-Section 101. <i>Principles of Ethical Conduct</i>. To ensure that every citizen can have complete confidence in the integrity of the Federal Government, each Federal employee shall respect and adhere to the fundamentalprinciples of ethical service as implemented in regulations promulgated under sections 201 and 301 of this order:
+Section 101. <i>Principles of Ethical Conduct</i>. To ensure that every citizen can have complete confidence in the integrity of the Federal Government, each Federal employee shall respect and adhere to the fundamental principles of ethical service as implemented in regulations promulgated under sections 201 and 301 of this order:
 
 (a) Public service is a public trust, requiring employees to place loyalty to the Constitution, the laws, and ethical principles above private gain.
 
@@ -376,7 +376,7 @@ Section 101. <i>Principles of Ethical Conduct</i>. To ensure that every citizen 
 
 (k) Employees shall disclose waste, fraud, abuse, and corruption to appropriate authorities.
 
-(<i>l</i>) Employees shall satisfy in good faith their obligations as citizens, including all just financial obligations, especially those—such as Federal, State, or local taxes—that are imposed by law.
+(l) Employees shall satisfy in good faith their obligations as citizens, including all just financial obligations, especially those—such as Federal, State, or local taxes—that are imposed by law.
 
 (m) Employees shall adhere to all laws and regulations that provide equal opportunity for all Americans regardless of race, color, religion, sex, national origin, age, or handicap.
 
@@ -386,7 +386,7 @@ Sec. 102. <i>Limitations on Outside Earned Income.</i>
 
 (a) No employee who is appointed by the President to a full-time noncareer position in the executive branch (including full-time noncareer employees in the White House Office, the Office of Policy Development, and the Office of Cabinet Affairs), shall receive any earned income for any outside employment or activity performed during that Presidential appointment.
 
-(b) The prohibition set forth in subsection (a) shall not apply to any full-time noncareer employees employed pursuant to 3 U.S.C. 105 and 3 U.S.C. 107(a) at salaries below the minimum rate of basic pay then paid for GS–9 of the General Schedule. Any outside employment must comply with relevant agency standards of conduct, including any requirements for approval of outside employment.
+(b) The prohibition set forth in subsection (a) shall not apply to any full-time noncareer employees employed pursuant to 3 U.S.C. 105 and 3 U.S.C. 107(a) at salaries below the minimum rate of basic pay then paidfor GS–9 of the General Schedule. Any outside employment must comply with relevant agency standards of conduct, including any requirements for approval of outside employment.
 
 #### Part II—Office of Government Ethics Authority
 
@@ -456,7 +456,7 @@ Sec. 503. <i>Definitions</i>. For purposes of this order, the term:
 
 (e) “Special Government employee” means a special Government employee as defined in 18 U.S.C. 202(a).
 
-Sec. 504. <i>Judicial Review</i>. This order is intended only to improve the internal management of the executive branch and is not intended to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.
+Sec. 504. <i>Judicial Review</i>. This order is intended only to improve the internal management of the executivebranch and is not intended to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.
 
 #### Executive Order No. 12820
 
@@ -564,7 +564,7 @@ Sec. 2. <i>Definitions</i>. For the purposes of this order:
 
 (a) “Agency” means an executive agency as defined in section 105 of title 5, United States Code, but does not include the Government Accountability Office.
 
-(b) “Contractor employee” means an individual who performs work for or on behalf of any agency under acontract and who, in order to perform the work specified under the contract, will require access to space, information, information technology systems, staff, or other assets of the Federal Government. Such contracts, include, but are not limited to:
+(b) “Contractor employee” means an individual who performs work for or on behalf of any agency under a contract and who, in order to perform the work specified under the contract, will require access to space, information, information technology systems, staff, or other assets of the Federal Government. Such contracts, include, but are not limited to:
 
 &emsp;(i) personal services contracts;
 
@@ -773,6 +773,46 @@ Memorandum for the Director of the Office of Personnel Management
 By the authority vested in me as President by the Constitution and the laws of the United States, including section 301 of title 3, United States Code, I hereby delegate to you the functions and authority conferred upon the President by section 7301 of title 5, United States Code, with respect to providing appropriate workplace accommodations for executive branch civilian employees who are nursing mothers.
 
 You are authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Establishing Policies for Addressing Domestic Violence in the Federal Workforce
+
+Memorandum of President of the United States, Apr. 18, 2012, 77 F.R. 24339, provided:
+
+Memorandum for the Heads of Executive Departments and Agencies
+
+Despite the considerable progress made since the initial passage of the Violence Against Women Act in 1994 (\[title IV of\] Public Law 103–322), domestic violence remains a significant problem facing individuals, families, and communities. Domestic violence causes two million injuries each year, and an average of three women in the United States die each day as a result of domestic violence. While a disproportionate number of victims are women, domestic violence can affect anyone.
+
+The effects of domestic violence spill over into the workplace. The Centers for Disease Control and Prevention estimate that domestic violence costs our Nation $8 billion a year in lost productivity and health care costs alone, and other studies have suggested that the full economic impact is even higher. Moreover, many victims of domestic violence report being harassed in the workplace or experiencing other employment-related effects.
+
+As the Nation's largest employer, the Federal Government should act as a model in responding to the effects of domestic violence on its workforce. Executive departments and agencies (agencies) have taken steps to address this issue, including by enhancing the quality and effectiveness of security in Federal facilities and by linking victims of domestic violence with Employee Assistance Programs. By building on these important efforts and existing policies, the Federal Government can further address the effects of domestic violence on its workforce.
+
+It is the policy of the Federal Government to promote the health and safety of its employees by acting to prevent domestic violence within the workplace and by providing support and assistance to Federal employees whose working lives are affected by such violence. Therefore, by the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby direct the following:
+
+Section 1. <i>Government-wide Guidance to Address the Effects of Domestic Violence on the Federal Workforce</i>. Within 240 days of the date of this memorandum, the Director of the Office of Personnel Management (OPM) shall, in consultation with the Attorney General, the Secretary of Health and Human Services, the Secretary of Labor, the Secretary of Homeland Security, and other interested heads of agencies:
+
+(a) issue guidance to agencies on the content of agency-specific policies, as required by section 2 of this memorandum, to prevent domestic violence and address its effects on the Federal workforce. The guidance shall include recommended steps agencies can take as employers for early intervention in and prevention of domestic violence committed against or by employees, guidelines for assisting employee victims,leave policies relating to domestic violence situations, general guidelines on when it may be appropriate to take disciplinary action against employees who commit or threaten acts of domestic violence, measures to improve workplace safety related to domestic violence, and resources for identifying relevant best practices related to domestic violence;
+
+(b) establish a process for providing technical assistance to agencies in developing agency-specific policies, consistent with the guidance created pursuant to subsection (a) of this section, that meet the needs of their workforce; and
+
+(c) consider whether issuing further guidance is warranted with respect to sexual assault and stalking and, if so, issue such guidance.
+
+Sec. 2. <i>Agency-Specific Actions and Policies</i>. (a) Within 90 days from the date of this memorandum, each agency shall make available to the Director of OPM any existing agency-specific policies and practices for addressing the effects of domestic violence on its workforce.
+
+(b) Within 120 days from the issuance of the guidance created pursuant to section 1 of this memorandum, each agency shall develop or modify, as appropriate, agency-specific polices for addressing the effects of domestic violence on its workforce, consistent with OPM guidance. Each agency shall submit for review and comment to the Director of OPM, a draft new or modified agency-specific policy. In reviewing the draft agency-specific policies, the Director of OPM shall consult with the Attorney General, the Secretary of Health and Human Services, the Secretary of Labor, the Secretary of Homeland Security, and other interested agency heads. Each agency shall issue a final agency-specific policy within 180 days after submission of its draft policy to the Director of OPM.
+
+Sec. 3. <i>General Provisions</i>. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+The Director of OPM is hereby authorized and directed to publish this memorandum in the Federal Register.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

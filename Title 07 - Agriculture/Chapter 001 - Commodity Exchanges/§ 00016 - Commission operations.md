@@ -80,7 +80,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2010</b>—Subsec. (e)(2)(B). Pub. L. 111–203, §749(f), substituted “section 2(c) or 2(f) of this title” for “section 2(c), 2(d), 2(f), or 2(g) of this title” and struck out “2(h) or” before “6(c)”.
+<b>2010</b>—Subsec. (e)(2)(B). Pub. L. 111–203, §749(f), substituted “section 2(c) or 2(f) of this title” for “section2(c), 2(d), 2(f), or 2(g) of this title” and struck out “2(h) or” before “6(c)”.
 
 Subsec. (h). Pub. L. 111–203, §722(b), added subsec. (h).
 

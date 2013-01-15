@@ -80,7 +80,7 @@ In this chapter—
 
 &emsp;&emsp;(E) crew or space flight participants.
 
-&emsp;(22) “United States” means the States of the United States, the District of Columbia, and the territories and possessions of the United States.
+&emsp;(22) “United States” means the States of the United States, the District of Columbia, andthe territories and possessions of the United States.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1331, §70102 of title 49; Pub. L. 104–287, §5(92), Oct. 11, 1996, 110 Stat. 3398; Pub. L. 105–303, title I, §102(a)(3), Oct. 28, 1998, 112 Stat. 2846; Pub. L. 106–391, title III, §322(a), Oct. 30, 2000, 114 Stat. 1598; Pub. L. 108–492, §2(b), Dec. 23, 2004, 118 Stat. 3975; renumbered §70102 then §50902 of title 51 and amended Pub. L. 111–314, §4(d)(2), (3)(B), (5)(A), (B), Dec. 18, 2010, 124 Stat. 3440, 3441.)
 

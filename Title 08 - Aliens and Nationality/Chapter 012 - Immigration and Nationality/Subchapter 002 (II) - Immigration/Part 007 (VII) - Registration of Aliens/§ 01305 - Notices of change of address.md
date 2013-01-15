@@ -12,7 +12,7 @@ The Attorney General may in his discretion, upon ten days notice, require the na
 
 In the case of an alien for whom a parent or legal guardian is required to apply for registration, the notice required by this section shall be given to such parent or legal guardian.
 
-(June 27, 1952, ch. 477, title II, ch. 7, §265, 66 Stat. 225; Pub. L. 97–116, §11, Dec. 29, 1981, 95 Stat. 1617; Pub. L. 100–525, §9(<i>o</i>), Oct. 24, 1988, 102 Stat. 2620.)
+(June 27, 1952, ch. 477, title II, ch. 7, §265, 66 Stat. 225; Pub. L. 97–116, §11, Dec. 29, 1981, 95 Stat. 1617; Pub. L. 100–525, §9(o), Oct. 24, 1988, 102 Stat. 2620.)
 
 #### Amendments
 

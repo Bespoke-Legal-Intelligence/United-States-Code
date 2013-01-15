@@ -12,6 +12,8 @@
 | [1706\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001706%20-%20Management%20of%20health%20care%20other%20requirements.md) | Management of health care: other requirements. |
 | [1707\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001707%20-%20Limitations.md) | Limitations. |
 | [1708\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001708%20-%20Temporary%20lodging.md) | Temporary lodging. |
+| [1709\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001709%20-%20Comprehensive%20policy%20on%20reporting%20and%20tracking%20sexual%20assault%20incidents%20and%20other%20safety%20incidents.md) | Comprehensive policy on reporting and tracking sexual assault incidents and other safety incidents. |
+| [1709A.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001709A%20-%20Teleconsultation.md) | Teleconsultation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -59,6 +61,7 @@
 | [1721\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001721%20-%20Power%20to%20make%20rules%20and%20regulations.md) | Power to make rules and regulations. |
 | [1722\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001722%20-%20Determination%20of%20inability%20to%20defray%20necessary%20expenses%3B%20income%20thresholds.md) | Determination of inability to defray necessary expenses; income thresholds. |
 | [1722A.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001722A%20-%20Copayment%20for%20medications.md) | Copayment for medications. |
+| [1722B.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001722B%20-%20Copayments%20waiver%20of%20collection%20of%20copayments%20for%20telehealth%20and%20telemedicine%20visits%20of%20veterans.md) | Copayments: waiver of collection of copayments for telehealth and telemedicine visits of veterans. |
 | [1723\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001723%20-%20Furnishing%20of%20clothing.md) | Furnishing of clothing. |
 | [1724\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001724%20-%20Hospital%20care%2C%20medical%20services%2C%20and%20nursing%20home%20care%20abroad.md) | Hospital care, medical services, and nursing home care abroad. |
 | [1725\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001725%20-%20Reimbursement%20for%20emergency%20treatment.md) | Reimbursement for emergency treatment. |
@@ -127,10 +130,13 @@
 | [1784\.](Subchapter%20008%20%28VIII%29%20-%20Health%20Care%20of%20Persons%20Other%20Than%20Veterans/%C2%A7%2001784%20-%20Humanitarian%20care.md) | Humanitarian care. |
 | [1785\.](Subchapter%20008%20%28VIII%29%20-%20Health%20Care%20of%20Persons%20Other%20Than%20Veterans/%C2%A7%2001785%20-%20Care%20and%20services%20during%20certain%20disasters%20and%20emergencies.md) | Care and services during certain disasters and emergencies. |
 | [1786\.](Subchapter%20008%20%28VIII%29%20-%20Health%20Care%20of%20Persons%20Other%20Than%20Veterans/%C2%A7%2001786%20-%20Care%20for%20newborn%20children%20of%20women%20veterans%20receiving%20maternity%20care.md) | Care for newborn children of women veterans receiving maternity care. |
+| [1787\.](Subchapter%20008%20%28VIII%29%20-%20Health%20Care%20of%20Persons%20Other%20Than%20Veterans/%C2%A7%2001787%20-%20Health%20care%20of%20family%20members%20of%20veterans%20stationed%20at%20Camp%20Lejeune%2C%20North%20Carolina.md) | Health care of family members of veterans stationed at Camp Lejeune, North Carolina. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2012</b>—Pub. L. 112–154, title I, §§102(b)(2), 103(b), 106(b), 108(a)(2), Aug. 6, 2012, 126 Stat. 1168, 1169, 1173, 1174, added items 1709, 1709A, 1722B, and 1787.
 
 <b>2010</b>—Pub. L. 111–163, title I, §§101(a)(2), 103(c), title II, §206(b), title V, §511(b), May 5, 2010, 124 Stat. 1137, 1140, 1146, 1164, added items 1720G, 1730A, 1782, and 1786 and struck out former item 1782 “Counseling, training, and mental health services for immediate family members”.
 
@@ -200,7 +206,7 @@ Pub. L. 99–272, title XIX, §§19011(c)(2), 19012(b)(2), Apr. 7, 1986, 100 Sta
 
 <b>1977</b>—Pub. L. 95–62, §4(b), July 5, 1977, 91 Stat. 263, struck out item 644 “Authorization of appropriations”.
 
-<b>1976</b>—Pub. L. 94–581, title II, §§202(a), 203(b), Oct. 21, 1976, 90 Stat. 2855, 2856, inserted “NURSING HOME,” inchapter heading, and, in analysis of subchapter headings and section catchlines, inserted “, NURSING HOME” in item for subchapter II, inserted “, nursing home” in item 610, substituted “Care” for “Hospitalization” in item 611, and inserted “AND NURSING HOME” in item for subchapter III.
+<b>1976</b>—Pub. L. 94–581, title II, §§202(a), 203(b), Oct. 21, 1976, 90 Stat. 2855, 2856, inserted “NURSING HOME,” in chapter heading, and, in analysis of subchapter headings and section catchlines, inserted “, NURSING HOME” in item for subchapter II, inserted “, nursing home” in item 610, substituted “Care” for “Hospitalization” in item 611, and inserted “AND NURSING HOME” in item for subchapter III.
 
 <b>1973</b>—Pub. L. 93–82, title I, §§103(c), 106(b), 107(b), 109(b), Aug. 2, 1973, 87 Stat. 182, 184, 186, 187, substituted “Medical care for survivors and dependents of certain veterans” and “Fitting and training in use of prosthetic appliances; seeing-eye dogs” for “Fitting and training in use of prosthetic appliances” and “Seeing-eye dogs” in items 613 and 614 respectively, substituted “natural disaster” for “fire” in item 626, added item 628, substituted “Assistance to the Republic of the Philippines” and “Contracts and grants to provide hospital care, medical services and nursing home care” for “Grants to the Republic of the Philippines” and “Modification of agreement with the Republic of the Philippines effectuating the Act of July 1, 1948” in items 631 and 632, respectively, and added “SUBCHAPTER VI—SICKLE CELL ANEMIA” comprising items 651 to 654.
 

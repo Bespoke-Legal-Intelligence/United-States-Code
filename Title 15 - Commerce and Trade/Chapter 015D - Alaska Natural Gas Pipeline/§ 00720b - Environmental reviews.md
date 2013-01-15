@@ -36,7 +36,7 @@ The issuance of a certificate of public convenience and necessity authorizing th
 
 The Commission shall—
 
-&emsp;(1) not later than 1 year after the Commission determines that the application undersection 720a of this title with respect to an Alaska natural gas transportation project is complete, issue a draft environmental impact statement under this section; and
+&emsp;(1) not later than 1 year after the Commission determines that the application under section 720a of this title with respect to an Alaska natural gas transportation project is complete, issue a draft environmental impact statement under this section; and
 
 &emsp;(2) not later than 180 days after the date of issuance of the draft environmental impact statement, issue a final environmental impact statement, unless the Commission for good cause determines that additional time is needed.
 

@@ -74,11 +74,11 @@ Subsec. (f). Pub. L. 104–49, §3, added subsec. (f).
 
 #### Effective Date of 1995 Amendment
 
-Section 1(b) of Pub. L. 104–49 provided that: “The amendment made by subsection (a)(2) \[amending this section\] shall apply to all cases in which a final judgment has not been entered.”
+Pub. L. 104–49, §1(b), Nov. 15, 1995, 109 Stat. 432, provided that: “The amendment made by subsection (a)(2) \[amending this section\] shall apply to all cases in which a final judgment has not been entered.”
 
-Section 2(b) of Pub. L. 104–49 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to all cases in which a final judgment has not been entered.”
+Pub. L. 104–49, §2(b), Nov. 15, 1995, 109 Stat. 433, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to all cases in which a final judgment has not been entered.”
 
 #### Effective Date of 1992 Amendment
 
-Section 325(c) of Pub. L. 102–392 provided that the amendment of this section by section 325(a) of Pub. L. 102–392 would apply to actions commenced after Oct. 6, 1992, but not after the expiration of 9 months after such date, with waiver and extension provisions for certain actions, prior to repeal by Pub. L. 104–49, §1(a)(1), Nov. 15, 1995, 109 Stat. 432.
+Pub. L. 102–392, title III, §325(c), Oct. 6, 1992, 106 Stat. 1728, provided that the amendment of this section by section 325(a) of Pub. L. 102–392 would apply to actions commenced after Oct. 6, 1992, but not after the expiration of 9 months after such date, with waiver and extension provisions for certain actions, prior to repeal by Pub. L. 104–49, §1(a)(1), Nov. 15, 1995, 109 Stat. 432.
 

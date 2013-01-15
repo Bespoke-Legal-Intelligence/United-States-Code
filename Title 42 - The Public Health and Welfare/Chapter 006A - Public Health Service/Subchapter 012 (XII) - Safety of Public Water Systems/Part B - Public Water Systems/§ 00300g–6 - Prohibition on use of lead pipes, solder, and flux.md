@@ -48,7 +48,7 @@
 
 &emsp;Effective 2 years after August 6, 1996, it shall be unlawful—
 
-&emsp;&emsp;(A) for any person to introduce into commerce any pipe, or any pipe or plumbing fitting or fixture, that is not lead free, except for a pipe that is used in manufacturing or industrial processing;
+&emsp;&emsp;(A) for any person to introduce into commerce any pipe, or any pipe or plumbing fitting or fixture, that is not lead free, exceptfor a pipe that is used in manufacturing or industrial processing;
 
 &emsp;&emsp;(B) for any person engaged in the business of selling plumbing supplies, except manufacturers, to sell solder or flux that is not lead free; or
 
@@ -88,7 +88,7 @@ For purposes of this section, the term “lead free”—
 
 #### (A) In general
 
-&emsp;&emsp;If a voluntary standard for the leaching of lead is not established by the date that is 1 year after August 6, 1996, the Administrator shall, not later than 2 years after August 6, 1996, promulgate regulations setting a health-effects-based performance standard establishing maximum leaching levels from new plumbing fittings and fixtures that are intended by the manufacturer to dispense water for human ingestion. The standardshall become effective on the date that is 5 years after the date of promulgation of the standard.
+&emsp;&emsp;If a voluntary standard for the leaching of lead is not established by the date that is 1 year after August 6, 1996, the Administrator shall, not later than 2 years after August 6, 1996, promulgate regulations setting a health-effects-based performance standard establishing maximum leaching levels from new plumbing fittings and fixtures that are intended by the manufacturer to dispense water for human ingestion. The standard shall become effective on the date that is 5 years after the date of promulgation of the standard.
 
 #### (B) Alternative requirement
 
@@ -124,7 +124,7 @@ For purposes of this section, the term “lead free”—
 
 #### <i>(2) Calculation</i>
 
-&emsp;<i>The weighted average lead content of a pipe, pipe fitting, plumbing fitting, or fixture shall be calculated by using the following formula: For each wetted component, the percentage of lead in the component shall be multiplied by the ratio of the wetted surface area of that component to the total wetted surface area of the entire product to arrive at the weighted percentage of lead of the component. The weighted percentage of lead of each wetted component shall be added together, and the sum of these weighted percentages shall constitute the weighted average lead content of the product. The lead content of the material used to produce wetted components shall be used to determine compliance with paragraph (1)(B). For lead content of materials that are provided as a range, the maximum content of the range shall be used.</i>
+&emsp;<i>The weighted average lead content of a pipe, pipe fitting, plumbing fitting, or fixture shall be calculated by using the following formula: For each wetted component, the percentage of lead in the component shall be multiplied by the ratio of the wetted surface area of that component to the total wetted surface area of the entire product to arrive at the weighted percentage of lead of the component. The weighted percentage of lead of each wetted component shall be added together,</i><i>and the sum of these weighted percentages shall constitute the weighted average lead content of the product. The lead content of the material used to produce wetted components shall be used to determine compliance with paragraph (1)(B). For lead content of materials that are provided as a range, the maximum content of the range shall be used.</i>
 
 #### Amendments
 
@@ -152,11 +152,11 @@ Pub. L. 111–380, §2(b), Jan. 4, 2011, 124 Stat. 4132, provided that: “The p
 
 #### Notification to States
 
-Section 109(b) of Pub. L. 99–339 provided that: “The Administrator of the Environmental Protection Agency shall notify all States with respect to the requirements of section 1417 of the Public Health Service Act \[this section\] within 90 days after the enactment of this Act \[June 19, 1986\].”
+Pub. L. 99–339, title I, §109(b), June 19, 1986, 100 Stat. 652, provided that: “The Administrator of the Environmental Protection Agency shall notify all States with respect to the requirements of section 1417 of the Public Health Service Act \[this section\] within 90 days after the enactment of this Act \[June 19, 1986\].”
 
 #### Ban on Lead Water Pipes, Solder, and Flux in VA and HUD Insured or Assisted Property
 
-Section 109(c) of Pub. L. 99–339, as amended by Pub. L. 102–54, §13(q)(2), June 13, 1991, 105 Stat. 279, provided that:
+Pub. L. 99–339, title I, §109(c), June 19, 1986, 100 Stat. 652, as amended by Pub. L. 102–54, §13(q)(2), June 13, 1991, 105 Stat. 279, provided that:
 
 “(1)
 

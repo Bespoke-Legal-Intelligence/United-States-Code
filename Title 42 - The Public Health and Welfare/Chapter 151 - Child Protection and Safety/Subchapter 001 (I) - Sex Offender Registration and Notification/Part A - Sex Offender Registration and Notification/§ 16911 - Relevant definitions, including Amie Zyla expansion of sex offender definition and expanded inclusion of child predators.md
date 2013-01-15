@@ -12,7 +12,7 @@ In this subchapter the following definitions apply:
 
 #### (3) Tier II sex offender
 
-&emsp;The term “tier II sex offender” means a sex offender other than a tier III sex offender whose offense is punishable by imprisonment for more than 1 year and—
+&emsp;The term “tier II sex offender” means a sex offender other than a tier III sex offenderwhose offense is punishable by imprisonment for more than 1 year and—
 
 &emsp;&emsp;(A) is comparable to or more severe than the following offenses, when committed against a minor, or an attempt or conspiracy to commit such an offense against a minor:
 

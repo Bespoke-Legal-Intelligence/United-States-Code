@@ -70,7 +70,7 @@ In the case of each State educational agency having a plan approved by the Secre
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), from the amount appropriated under section 6801(a) of this title for each fiscal year that remains after making the reservations underparagraph (1), the Secretary shall allot to each State educational agency having a plan approved under section 6823(c) of this title—
+&emsp;&emsp;Except as provided in subparagraph (B), from the amount appropriated under section 6801(a) of this title for each fiscal year that remains after making the reservations under paragraph (1), the Secretary shall allot to each State educational agency having a plan approved under section 6823(c) of this title—
 
 &emsp;&emsp;&emsp;(i) an amount that bears the same relationship to 80 percent of the remainder as the number of limited English proficient children in the State bears to the number of such children in all States; and
 

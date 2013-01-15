@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall establish a National Training Program in Sustainable Agriculture to provide education and training for Cooperative Extension Service agents and other professionals involved in the education and transfer of technical information concerning sustainable agriculture in order to develop their understanding, competence, and ability to teach and communicate the concepts of sustainable agriculture to Cooperative Extension Service agents and to farmers and urban residents who need information on sustainable agriculture.
+The Secretary shall establish a National Training Program in Sustainable Agriculture toprovide education and training for Cooperative Extension Service agents and other professionals involved in the education and transfer of technical information concerning sustainable agriculture in order to develop their understanding, competence, and ability to teach and communicate the concepts of sustainable agriculture to Cooperative Extension Service agents and to farmers and urban residents who need information on sustainable agriculture.
 
 #### (b) Administration
 
@@ -66,7 +66,7 @@ The Cooperative Extension Service within each State shall transfer information d
 
 &emsp;(4) provide technical assistance to individual farmers in the design and implementation of farm management plans and strategies for making a transition to more sustainable agricultural systems;
 
-&emsp;(5) consult and work closely with the Soil Conservation Service and the Agricultural Stabilization and Conservation Service in carrying out the information, technical assistance, and related programs;
+&emsp;(5) consult and work closely with the Soil Conservation Service and the AgriculturalStabilization and Conservation Service in carrying out the information, technical assistance, and related programs;
 
 &emsp;(6) develop, coordinate, and direct special education and outreach programs in areas highly susceptible to groundwater contamination, linking sustainable agriculture information with water quality improvement information;
 

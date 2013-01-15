@@ -6,7 +6,7 @@ In the case of an electing large partnership, except as provided in subsection (
 
 &emsp;(1) the allowance for depletion under section 611 with respect to any partnership oil or gas property shall be computed at the partnership level without regard to any provision of section 613A requiring such allowance to be computed separately by each partner,
 
-&emsp;(2) such allowance shall be determined without regard to the provisions of section 613A(c) limiting the amount of production for which percentage depletion is allowable and without regard to paragraph (1) of section 613A(d), and
+&emsp;(2) such allowance shall be determined without regard to the provisions of section 613A(c)limiting the amount of production for which percentage depletion is allowable and without regard to paragraph (1) of section 613A(d), and
 
 &emsp;(3) paragraph (3) of section 705(a) shall not apply.
 
@@ -14,7 +14,7 @@ In the case of an electing large partnership, except as provided in subsection (
 
 #### (1) In general
 
-&emsp;In the case of a disqualified person, the treatment under this chapter of such person's distributive share of any item of income, gain,loss, deduction, or credit attributable to any partnership oil or gas property shall be determined without regard to this part. Such person's distributive share of any such items shall be excluded for purposes of making determinations under sections 772 and 773.
+&emsp;In the case of a disqualified person, the treatment under this chapter of such person's distributive share of any item of income, gain, loss, deduction, or credit attributable to any partnership oil or gas property shall be determined without regard to this part. Such person's distributive share of any such items shall be excluded for purposes of making determinations under sections 772 and 773.
 
 #### (2) Disqualified person
 

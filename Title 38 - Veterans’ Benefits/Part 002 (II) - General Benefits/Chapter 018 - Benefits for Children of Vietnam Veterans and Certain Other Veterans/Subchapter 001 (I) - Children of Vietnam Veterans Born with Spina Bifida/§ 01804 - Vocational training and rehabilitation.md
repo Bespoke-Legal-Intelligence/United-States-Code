@@ -16,7 +16,7 @@
 
 &emsp;(B) may include a program of education at an institution of higher learning if the Secretary determines that the program of education is predominantly vocational in content.
 
-(2) A vocational training program under this section may not include the provision of anyloan or subsistence allowance or any automobile adaptive equipment.
+(2) A vocational training program under this section may not include the provision of any loan or subsistence allowance or any automobile adaptive equipment.
 
 (d)(1) Except as provided in paragraph (2) and subject to subsection (e)(2), a vocational training program under this section may not exceed 24 months.
 
@@ -46,5 +46,5 @@ Subsec. (d)(3). Pub. L. 105–114, §404(c)(3), added par. (3).
 
 #### Effective Date of 1997 Amendment
 
-Section 404(d) of Pub. L. 105–114 provided that: “The amendments made by this section \[amending this section and sections 1801 and 1806 of this title\] shall take effect as of October 1, 1997.”
+Pub. L. 105–114, title IV, §404(d), Nov. 21, 1997, 111 Stat. 2295, provided that: “The amendments made by this section \[amending this section and sections 1801 and 1806 of this title\] shall take effect as of October 1, 1997.”
 

@@ -58,7 +58,7 @@ In the case of an eligible woman, the services referred to in subsection (a)(3) 
 
 &emsp;(9) Reasonable efforts to preserve and support the family units of the women, including promoting the appropriate involvement of parents and others, and counseling the children of the women.
 
-&emsp;(10) Planning for and counseling to assist reentry into society, both before and after discharge, including referrals to any public or nonprofit private entities in the communityinvolved that provide services appropriate for the women and the children of the women.
+&emsp;(10) Planning for and counseling to assist reentry into society, both before and after discharge, including referrals to any public or nonprofit private entities in the community involved that provide services appropriate for the women and the children of the women.
 
 &emsp;(11) Case management services, including—
 
@@ -124,7 +124,7 @@ A funding agreement for an award under subsection (a) of this section for an app
 
 #### (i) Continuing education
 
-A funding agreement for an award under subsection (a) of this section is that the applicantinvolved will provide for continuing education in treatment services for the individuals who will provide treatment in the program to be operated by the applicant pursuant to such subsection.
+A funding agreement for an award under subsection (a) of this section is that the applicant involved will provide for continuing education in treatment services for the individuals whowill provide treatment in the program to be operated by the applicant pursuant to such subsection.
 
 #### (j) Imposition of charges
 
@@ -146,7 +146,7 @@ A funding agreement for an award under subsection (a) of this section is that th
 
 &emsp;(3) providing such other information as the Director determines to be appropriate.
 
-#### (<i>l</i>) Requirement of application
+#### (l) Requirement of application
 
 The Director may make an award under subsection (a) of this section only if an application for the award is submitted to the Director containing such agreements, and the application is in such form, is made in such manner, and contains such other agreements and such assurances and information as the Director determines to be necessary to carry out this section.
 
@@ -158,7 +158,7 @@ In making awards under subsection (a) of this section, the Director shall ensure
 
 The period during which payments are made to an entity from an award under subsection (a) of this section may not exceed 5 years. The provision of such payments shall be subject to annual approval by the Director of the payments and subject to the availability of appropriations for the fiscal year involved to make the payments. This subsection may not be construed to establish a limitation on the number of awards under such subsection that may be made to an entity.
 
-#### (<i>o</i>) Evaluations; dissemination of findings
+#### (o) Evaluations; dissemination of findings
 
 The Director shall, directly or through contract, provide for the conduct of evaluations of programs carried out pursuant to subsection (a) of this section. The Director shall disseminate to the States the findings made as a result of the evaluations.
 
@@ -212,7 +212,7 @@ Section effective Oct. 1, 1992, with provision for programs providing financial 
 
 #### Transitional and Savings Provisions
 
-Section 108(b) of Pub. L. 102–321 provided that:
+Pub. L. 102–321, title I, §108(b), July 10, 1992, 106 Stat. 341, provided that:
 
 “(1)
 

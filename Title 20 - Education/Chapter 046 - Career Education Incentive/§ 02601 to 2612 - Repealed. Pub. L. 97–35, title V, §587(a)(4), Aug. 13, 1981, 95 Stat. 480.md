@@ -26,5 +26,5 @@ Section 2612, Pub. L. 95–207, §13(a)–(d), Dec. 13, 1977, 91 Stat. 1471; Pub
 
 #### Short Title
 
-Section 1 of Pub. L. 95–207 which provided for short title of this chapter as the Career Education Incentive Act, was repealed by Pub. L. 97–35, title V, §587(a)(4), Aug. 13, 1981, 95 Stat. 480.
+Pub. L. 95–207, §1, Dec. 13, 1977, 91 Stat. 1464, which provided for short title of this chapter as the Career Education Incentive Act, was repealed by Pub. L. 97–35, title V, §587(a)(4), Aug. 13, 1981, 95 Stat. 480.
 

@@ -42,7 +42,7 @@ Limitation of Period of Recall Service.—(1) A member ordered to active duty un
 
 &emsp;(C) An officer assigned to duty with the American Battle Monuments Commission for the period of active duty to which ordered.
 
-&emsp;(D) An officer who is assigned to duty as a defense attache�AE1 or service attache�AE1 for the period of active duty to which ordered.
+&emsp;(D) An officer who is assigned to duty as a defense attaché or service attaché for the period of active duty to which ordered.
 
 (f)
 
@@ -62,9 +62,9 @@ A prior section 688, added Pub. L. 96–513, title I, §106, Dec. 12, 1980, 94 S
 
 #### Effective Date of 2001 Amendment
 
-Pub. L. 107–107, div. A, title V, §509(c), Dec. 28, 2001, 115 Stat. 1091, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 690 of this title\] shall apply with respect to officers serving on active duty as a defense attache�AE1 or service attache�AE1 on or after the date of the enactment of this Act \[Dec. 28, 2001\].”
+Pub. L. 107–107, div. A, title V, §509(c), Dec. 28, 2001, 115 Stat. 1091, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 690 of this title\] shall apply with respect to officers serving on active duty as a defense attaché or service attaché on or after the date of the enactment of this Act \[Dec. 28, 2001\].”
 
 #### Effective Date
 
-Section 521(b) of Pub. L. 104–201 provided that: “The amendments made by this section \[enacting this section and sections 689 and 690 of this title, amending section 6151 of this title, and repealing former section 688 of this title\] shall take effect on September 30, 1997.”
+Pub. L. 104–201, div. A, title V, §521(b), Sept. 23, 1996, 110 Stat. 2517, provided that: “The amendments made by this section \[enacting this section and sections 689 and 690 of this title, amending section 6151 of this title, and repealing former section 688 of this title\] shall take effect on September 30, 1997.”
 

@@ -28,7 +28,7 @@ In furtherance of the objectives of this chapter, the Secretary may—
 
 #### (c) Orientation and training for family members
 
-The Secretary may provide to family members of members of the Service or of employees of the Department or other agencies, in anticipation of their assignment abroad or while abroad—
+The Secretary may provide to family members of members of the Service or of employees of theDepartment or other agencies, in anticipation of their assignment abroad or while abroad—
 
 &emsp;(1) appropriate orientation and language training; and
 

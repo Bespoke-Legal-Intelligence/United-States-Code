@@ -6,11 +6,13 @@ Offenses.—Whoever intentionally—
 
 &emsp;(1) traffics in goods or services and knowingly uses a counterfeit mark on or in connection with such goods or services,
 
-&emsp;(2) traffics in labels, patches, stickers, wrappers, badges, emblems, medallions, charms, boxes, containers, cans, cases, hangtags, documentation, or packaging of any type or nature, knowing that a counterfeit mark has been applied thereto, the use of which is likely to cause confusion, to cause mistake, or to deceive, or
+&emsp;(2) traffics in labels, patches, stickers, wrappers, badges, emblems, medallions, charms, boxes, containers, cans, cases, hangtags, documentation, or packaging of any type or nature, knowing that a counterfeit mark has been applied thereto, the use of which is likely to cause confusion, to cause mistake, or to deceive,
 
-&emsp;(3) traffics in goods or services knowing that such good or service is a counterfeit military good or service the use, malfunction, or failure of which is likely to cause serious bodily injury or death, the disclosure of classified information, impairment of combat operations, or other significant harm to a combat operation, a member of the Armed Forces, or to national security,
+&emsp;(3) traffics in goods or services knowing that such good or service is a counterfeit military good or service the use, malfunction, or failure of which is likely to cause serious bodily injury or death, the disclosure of classified information, impairment of combat operations, or other significant harm to a combat operation, a member of the Armed Forces, or to national security, or
 
-> or attempts or conspires to violate any of paragraphs (1) through (3) shall be punished as provided in subsection (b).
+&emsp;(4) traffics in a counterfeit drug,
+
+> or attempts or conspires to violate any of paragraphs (1) through (4) shall be punished as provided in subsection (b).
 
 (b)
 
@@ -38,7 +40,7 @@ Death.—Whoever knowingly or recklessly causes or attempts to cause death from 
 
 &emsp;(3)
 
-Counterfeit military goods or services.—Whoever commits an offense under subsection (a) involving a counterfeit military good or service—
+Counterfeit military goods or services and counterfeit drugs.—Whoever commits an offense under subsection (a) involving a counterfeit military good or service or counterfeit drug—
 
 &emsp;&emsp;(A) if an individual, shall be fined not more than $5,000,000, imprisoned not more than 20 years, or both, and if other than an individual, be fined not more than $15,000,000; and
 
@@ -76,7 +78,7 @@ Definitions.—For the purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) that is identical with, or substantially indistinguishable from, a mark registered on the principal register in the United States Patent and Trademark Office and in use, whether or not the defendant knew such mark was so registered;
 
-&emsp;&emsp;&emsp;(iii) that is applied to or used in connection with the goods or services for which the mark is registered with the United States Patent and Trademark Office, or is applied to or consists of a label, patch, sticker, wrapper, badge, emblem, medallion, charm, box, container, can, case, hangtag, documentation, or packaging of any type or nature that is designed, marketed, or otherwise intended to be used on or in connection with the goods or servicesfor which the mark is registered in the United States Patent and Trademark Office; and
+&emsp;&emsp;&emsp;(iii) that is applied to or used in connection with the goods or services for which the mark is registered with the United States Patent and Trademark Office, or is applied to or consists of a label, patch, sticker, wrapper, badge, emblem, medallion, charm, box, container, can, case, hangtag, documentation, or packaging of any type or nature that is designed, marketed, or otherwise intended to be used on or in connection with the goods or services for which the mark is registered in the United States Patent and Trademark Office; and
 
 &emsp;&emsp;&emsp;(iv) the use of which is likely to cause confusion, to cause mistake, or to deceive; or
 
@@ -92,9 +94,11 @@ Definitions.—For the purposes of this section—
 
 &emsp;&emsp;(A) is falsely identified or labeled as meeting military specifications, or
 
-&emsp;&emsp;(B) is intended for use in a military or national security application; and
+&emsp;&emsp;(B) is intended for use in a military or national security application;
 
-&emsp;(5) the term “traffic” means to transport, transfer, or otherwise dispose of, to another, for purposes of commercial advantage or private financial gain, or to make, import, export, obtain control of, or possess, with intent to so transport, transfer, or otherwise dispose of.
+&emsp;(5) the term “traffic” means to transport, transfer, or otherwise dispose of, to another, for purposes of commercial advantage or private financial gain, or to make, import, export, obtain control of, or possess, with intent to so transport, transfer, or otherwise dispose of; and
+
+&emsp;(6) the term “counterfeit drug” means a drug, as defined by section 201 of the Federal Food, Drug, and Cosmetic Act, that uses a counterfeit mark on or in connection with the drug.
 
 (g)
 
@@ -134,13 +138,15 @@ Report to Congress.—(1) Beginning with the first year after the date of enactm
 
 Transshipment and Exportation.—No goods or services, the trafficking in of which is prohibited by this section, shall be transshipped through or exported from the United States. Any such transshipment or exportation shall be deemed a violation of section 42 of an Act to provide for the registration of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes, approved July 5, 1946 (commonly referred to as the “Trademark Act of 1946” or the “Lanham Act”).
 
-(Added Pub. L. 98–473, title II, §1502(a), Oct. 12, 1984, 98 Stat. 2178; amended Pub. L. 103–322, title XXXII, §320104(a), title XXXIII, §330016(1)(U), Sept. 13, 1994, 108 Stat. 2110, 2148; Pub. L. 104–153, §5, July 2, 1996, 110 Stat. 1387; Pub. L. 105–147, §2(f), Dec. 16, 1997, 111 Stat. 2679; Pub. L. 105–225, §4(b), Aug. 12, 1998, 112 Stat. 1499; Pub. L. 105–354, §2(c)(1), Nov. 3, 1998, 112 Stat. 3244; Pub. L. 107–140, §1, Feb. 8, 2002, 116 Stat. 12; Pub. L. 107–273, div. A, title II, §205(e), Nov. 2, 2002, 116 Stat. 1778; Pub. L. 109–181, §§1(b), 2(b), Mar. 16, 2006, 120 Stat. 285, 288; Pub. L. 110–403, title II,§205, Oct. 13, 2008, 122 Stat. 4261; Pub. L. 112–81, div. A, title VIII, §818(h), Dec. 31, 2011, 125 Stat. 1497.)
+(Added Pub. L. 98–473, title II, §1502(a), Oct. 12, 1984, 98 Stat. 2178; amended Pub. L. 103–322, title XXXII, §320104(a), title XXXIII, §330016(1)(U), Sept. 13, 1994, 108 Stat. 2110, 2148; Pub. L. 104–153, §5, July 2, 1996, 110 Stat. 1387; Pub. L. 105–147, §2(f), Dec. 16, 1997, 111 Stat. 2679; Pub. L. 105–225, §4(b), Aug. 12, 1998, 112 Stat. 1499; Pub. L. 105–354, §2(c)(1), Nov. 3, 1998, 112 Stat. 3244; Pub. L. 107–140, §1, Feb. 8, 2002, 116 Stat. 12; Pub. L. 107–273, div. A, title II, §205(e), Nov. 2, 2002, 116 Stat. 1778; Pub. L. 109–181, §§1(b), 2(b), Mar. 16, 2006, 120 Stat. 285, 288; Pub. L. 110–403, title II, §205, Oct. 13, 2008, 122 Stat. 4261; Pub. L. 112–81, div. A, title VIII, §818(h), Dec. 31, 2011, 125 Stat. 1497; Pub. L. 112–144, title VII, §717(a)(1)–(3), July 9, 2012, 126 Stat. 1076.)
 
 #### References in Text
 
 The Lanham Act, referred to in subsecs. (d), (f)(1)(B), (3), and (i), also known as the Trademark Act of 1946, is act July 5, 1946, ch. 540, 60 Stat. 427, which is classified generally to chapter 22 (§1051 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1051 of Title 15 and Tables.
 
 The Federal Rules of Criminal Procedure, referred to in subsec. (e)(1), are set out in the Appendix to this title.
+
+Section 201 of the Federal Food, Drug, and Cosmetic Act, referred to in subsec. (f)(6), is classified to section 321 of Title 21, Food and Drugs.
 
 The date of enactment of this subsection, referred to in subsec. (h)(1), is the date of enactment of Pub. L. 112–81, which was approved Dec. 31, 2011.
 
@@ -149,6 +155,12 @@ The date of enactment of this subsection, referred to in subsec. (h)(1), is the 
 Another section 2320 was renumbered section 2321 of this title.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a). Pub. L. 112–144, §717(a)(1), added par. (4) and substituted “through (4)” for “through (3)” in concluding provisions.
+
+Subsec. (b)(3). Pub. L. 112–144, §717(a)(2), inserted “and counterfeit drugs” after “services” in heading and “or counterfeit drug” after “service” in introductory provisions.
+
+Subsec. (f)(6). Pub. L. 112–144, §717(a)(3), added par. (6).
 
 <b>2011</b>—Pub. L. 112–81 amended section generally, adding provisions relating to counterfeit military goods and services.
 
@@ -205,6 +217,10 @@ Pub. L. 105–354, §2(c), Nov. 3, 1998, 112 Stat. 3244, provided that the amend
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Priority Given to Certain Investigations and Prosecutions
+
+Pub. L. 112–144, title VII, §717(a)(4), July 9, 2012, 126 Stat. 1076, provided that: “The Attorney General shall give increased priority to efforts to investigate and prosecute offenses under section 2320 of title 18, United States Code, that involve counterfeit drugs.”
 
 #### Findings
 

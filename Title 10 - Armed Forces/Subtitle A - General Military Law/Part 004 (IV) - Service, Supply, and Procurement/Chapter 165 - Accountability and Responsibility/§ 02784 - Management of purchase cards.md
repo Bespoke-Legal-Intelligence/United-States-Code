@@ -10,23 +10,43 @@ Required Safeguards and Internal Controls.—Regulations under subsection (a) sh
 
 &emsp;(1) That there is a record in the Department of Defense of each holder of a purchase card issued by the Department of Defense for official use, annotated with the limitations on amounts that are applicable to the use of each such card by that purchase card holder.
 
-&emsp;(2) That the holder of a purchase card and each official with authority to authorize expenditures charged to the purchase card are responsible for—
+&emsp;(2) That each purchase card holder and individual issued a convenience check is assigned an approving official other than the card holder with the authority to approve or disapprove transactions.
+
+&emsp;(3) That the holder of a purchase card and each official with authority to authorize expenditures charged to the purchase card are responsible for—
 
 &emsp;&emsp;(A) reconciling the charges appearing on each statement of account for that purchase card with receipts and other supporting documentation; and
 
 &emsp;&emsp;(B) forwarding that statement after being so reconciled to the designated disbursing office in a timely manner.
 
-&emsp;(3) That any disputed purchase card charge, and any discrepancy between a receipt and other supporting documentation and the purchase card statement of account, is resolved in the manner prescribed in the applicable Government-wide purchase card contract entered into by the Administrator of General Services.
+&emsp;(4) That any disputed purchase card charge, and any discrepancy between a receipt and other supporting documentation and the purchase card statement of account, is resolved in the manner prescribed in the applicable Government-wide purchase card contract entered into by the Administrator of General Services.
 
-&emsp;(4) That payments on purchase card accounts are made promptly within prescribed deadlines to avoid interest penalties.
+&emsp;(5) That payments on purchase card accounts are made promptly within prescribed deadlines to avoid interest penalties.
 
-&emsp;(5) That rebates and refunds based on prompt payment on purchase card accounts are properly recorded.
+&emsp;(6) That rebates and refunds based on prompt payment on purchase card accounts are properly recorded.
 
-&emsp;(6) That records of each purchase card transaction (including records on associated contracts, reports, accounts, and invoices) are retained in accordance with standard Government policies on the disposition of records.
+&emsp;(7) That records of each purchase card transaction (including records on associated contracts, reports, accounts, and invoices) are retained in accordance with standard Government policies on the disposition of records.
 
-&emsp;(7) That periodic reviews are performed to determine whether each purchase card holder has a need for the purchase card.
+&emsp;(8) That periodic reviews are performed to determine whether each purchase card holder has a need for the purchase card.
 
-&emsp;(8) That the Inspector General of the Department of Defense, the Inspector General of the Army, the Naval Inspector General, and the Inspector General of the Air Force perform periodic audits to identify—
+&emsp;(9) That appropriate training is provided to each purchase card holder and each official with responsibility for overseeing the use of purchase cards issued by the Department of Defense.
+
+&emsp;(10) That the Department of Defense has specific policies regarding the number of purchase cards issued by various organizations and categories of organizations, the credit limits authorized for various categories of card holders, and categories of employees eligible to be issued purchase cards, and that those policies are designed to minimize the financial risk to the Federal Government of the issuance of the purchase cards and to ensure the integrity of purchase card holders.
+
+&emsp;(11) That the Department of Defense uses effective systems, techniques, and technologies to prevent or identify potential fraudulent purchases.
+
+&emsp;(12) That the Department of Defense takes appropriate steps to invalidate the purchase card of each card holder who—
+
+&emsp;&emsp;(A) in the case of an employee of the Department—
+
+&emsp;&emsp;&emsp;(i) ceases to be employed by the Department, immediately upon termination of the employment of the employee; or
+
+&emsp;&emsp;&emsp;(ii) transfers to another unit of the Department, immediately upon the transfer of the employee unless the Secretary of Defense determines that the units are covered by the same purchase card authority; and
+
+&emsp;&emsp;(B) in the case of a member of the armed forces, is separated or released from active duty or full-time National Guard duty.
+
+&emsp;(13) That the Department of Defense takes steps to recover the cost of any illegal, improper, or erroneous purchase made with a purchase card or convenience check by an employee or member of the armed forces, including, as necessary, through salary offsets.
+
+&emsp;(14) That the Inspector General of the Department of Defense, the Inspector General of the Army, the Naval Inspector General, and the Inspector General of the Air Force perform periodic audits to identify—
 
 &emsp;&emsp;(A) potentially fraudulent, improper, and abusive uses of purchase cards;
 
@@ -34,9 +54,7 @@ Required Safeguards and Internal Controls.—Regulations under subsection (a) sh
 
 &emsp;&emsp;(C) categories of purchases that should be made by means other than purchase cards in order to better aggregate purchases and obtain lower prices.
 
-&emsp;(9) That appropriate training is provided to each purchase card holder and each official with responsibility for overseeing the use of purchase cards issued by the Department of Defense.
-
-&emsp;(10) That the Department of Defense has specific policies regarding the number of purchase cards issued by various organizations and categories of organizations, the credit limits authorized for various categories of card holders, and categories of employees eligible to be issued purchase cards, and that those policies are designed to minimize the financial risk to the Federal Government of the issuance of the purchase cards and to ensure the integrity of purchase card holders.
+&emsp;(15) That the Inspector General of the Department of Defense conducts periodic audits or reviews of purchase card or convenience check programs to identify and analyze risks of illegal, improper, or erroneous purchases and payments and that the findings of such audits or reviews, along with recommendations to prevent abuse of purchase cards or convenience checks, are reported to the Director of the Office of Management and Budget and Congress.
 
 (c)
 
@@ -50,9 +68,11 @@ Penalties for Violations.—The regulations prescribed under subsection (a) shal
 
 &emsp;(2) provide that a violation of such regulations by a person subject to chapter 47 of this title (the Uniform Code of Military Justice) is punishable as a violation of section 892 of this title (article 92 of the Uniform Code of Military Justice).
 
-(Added Pub. L. 106–65, div. A, title IX, §933(a)(1), Oct. 5, 1999, 113 Stat. 728; amended Pub. L. 107–314, div. A, title X, §1007(a), (b)(1), Dec. 2, 2002, 116 Stat. 2633, 2634; Pub. L. 110–417, \[div. A\], title X, §1003(a), Oct. 14, 2008, 122 Stat. 4582.)
+(Added Pub. L. 106–65, div. A, title IX, §933(a)(1), Oct. 5, 1999, 113 Stat. 728; amended Pub. L. 107–314, div. A, title X, §1007(a), (b)(1), Dec. 2, 2002, 116 Stat. 2633, 2634; Pub. L. 110–417, \[div. A\], title X, §1003(a), Oct. 14, 2008, 122 Stat. 4582; Pub. L. 112–194, §2(b), Oct. 5, 2012, 126 Stat. 1447.)
 
 #### Amendments
+
+<b>2012</b>—Subsec. (b)(2) to (15). Pub. L. 112–194 added pars. (2), (11) to (13), and (15) and redesignated former pars. (2) to (7) and (8) as (3) to (8) and (14), respectively.
 
 <b>2008</b>—Subsec. (c)(1). Pub. L. 110–417 substituted “provide—” for “provide”, added subpar. (A), and substituted “(B) for” for “for”.
 

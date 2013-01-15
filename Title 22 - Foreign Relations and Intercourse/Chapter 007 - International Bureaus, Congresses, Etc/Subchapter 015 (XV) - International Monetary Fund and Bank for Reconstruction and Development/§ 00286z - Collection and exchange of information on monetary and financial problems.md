@@ -34,5 +34,5 @@ For purposes of this section, the term “credit” includes—
 
 The President is authorized to use the authority provided under section 286f of this title to require any person (as defined in such section) subject to the jurisdiction of the United States to provide such information as the Fund determines to be necessary in order to carry out the provisions of this section.
 
-(July 31, 1945, ch. 339, §42, as added Pub. L. 98–181, title VIII, §802(a)(4), Nov. 30, 1983, 97 Stat. 1269.)
+(July 31, 1945, ch. 339, §42, as added Pub. L. 98–181, title I \[title VIII, §802(a)(4)\], Nov. 30, 1983, 97 Stat. 1269.)
 

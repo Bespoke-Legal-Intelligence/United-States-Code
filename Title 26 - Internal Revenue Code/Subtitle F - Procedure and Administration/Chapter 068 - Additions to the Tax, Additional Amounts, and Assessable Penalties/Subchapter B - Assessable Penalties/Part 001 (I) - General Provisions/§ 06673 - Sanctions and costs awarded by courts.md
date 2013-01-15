@@ -44,7 +44,7 @@
 
 <b>1988</b>—Pub. L. 100–647 struck out “Tax” after “before the” in section catchline, designated existing provisions as subsec. (a), and added subsec. (b).
 
-<b>1986</b>—Pub. L. 99–514 substituted “, that the taxpayer's position in such proceeding is frivolous or groundless, or that the taxpayer unreasonably failed to pursue available administrative remedies” for “or that the taxpayer's position in such proceedings is frivolous or groundless”.
+<b>1986</b>—Pub. L. 99–514 substituted “, that the taxpayer's position in such proceeding is frivolous or groundless, or that the taxpayer unreasonably failed to pursue available administrative remedies” for “or that thetaxpayer's position in such proceedings is frivolous or groundless”.
 
 <b>1982</b>—Pub. L. 97–248, §292(d)(2)(A), substituted “primarily for delay, etc.” for “merely for delay” after “Tax Court” in section catchline.
 
@@ -54,15 +54,15 @@ Subsec. (a). Pub. L. 97–248, §292(b), substituted “or maintained by the tax
 
 #### Effective Date of 1989 Amendment
 
-Section 7731(d) of Pub. L. 101–239 provided that: “The amendments made by this section \[amending this section and section 7482 of this title\] shall apply to positions taken after December 31, 1989, in proceedings which are pending on, or commenced after such date.”
+Pub. L. 101–239, title VII, §7731(d), Dec. 19, 1989, 103 Stat. 2402, provided that: “The amendments made by this section \[amending this section and section 7482 of this title\] shall apply to positions taken after December 31, 1989, in proceedings which are pending on, or commenced after such date.”
 
 #### Effective Date of 1988 Amendment
 
-Section 6241(d) of Pub. L. 100–647 provided that: “The amendments made by this section \[enacting section 7433 of this title and amending this section\] shall apply to actions by officers or employees of the Internal Revenue Service after the date of the enactment of this Act \[Nov. 10, 1988\].”
+Pub. L. 100–647, title VI, §6241(d), Nov. 10, 1988, 102 Stat. 3749, provided that: “The amendments made by this section \[enacting section 7433 of this title and amending this section\] shall apply to actions by officers or employees of the Internal Revenue Service after the date of the enactment of this Act \[Nov. 10, 1988\].”
 
 #### Effective Date of 1986 Amendment
 
-Section 1552(b) of Pub. L. 99–514 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to proceedings commenced after the date of the enactment of this Act \[Oct. 22, 1986\].”
+Pub. L. 99–514, title XV, §1552(b), Oct. 22, 1986, 100 Stat. 2753, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to proceedings commenced after the date of the enactment of this Act \[Oct. 22, 1986\].”
 
 #### Effective Date of 1982 Amendment
 

@@ -180,7 +180,7 @@ Subsec. (c)(5). Pub. L. 96–222 added par. (5).
 
 Subsec. (c)(2)(A). Pub. L. 94–455, §2005(a)(4)(A), substituted “Federal and State estate taxes (within the meaning of section 1023(f)(3))” for “the tax imposed on the estate of the decedent or any prior decedent under section 2001 or 2101, reduced by the credits against such tax”. See Repeals note below.
 
-Subsec. (c)(2)(C). Pub. L. 94–455, §2005(a)(4)(B), substituted “which bears the same ratio to the estate taxas such net value bears to the value of the gross estate” for “equal to the excess of the estate tax over the estate tax computed without including in the gross estate such net value”. See Repeals note below.
+Subsec. (c)(2)(C). Pub. L. 94–455, §2005(a)(4)(B), substituted “which bears the same ratio to the estate tax as such net value bears to the value of the gross estate” for “equal to the excess of the estate tax over the estate tax computed without including in the gross estate such net value”. See Repeals note below.
 
 Subsec. (c)(3). Pub. L. 94–455, §2006(b)(3), added par. (3).
 
@@ -242,15 +242,15 @@ Amendment by Pub. L. 97–34 applicable to estates of decedents dying after Dec.
 
 For effective date of amendment by section 2(b)(5) of Pub. L. 96–471, see section 6(a)(1) of Pub. L. 96–471, set out as an Effective Date note under section 453 of this title.
 
-Section 6(b) of Pub. L. 96–471 provided: “The amendment made by section 3 \[amending this section\] shall apply in the case of decedents dying after the date of the enactment of this Act \[Oct. 19, 1980\].”
+Pub. L. 96–471, §6(b), Oct. 19, 1980, 94 Stat. 2256, provided: “The amendment made by section 3 \[amending this section\] shall apply in the case of decedents dying after the date of the enactment of this Act \[Oct. 19, 1980\].”
 
 Amendment by Pub. L. 96–223 (repealing section 2005(a)(4) of Pub. L. 94–455 and the amendments made thereby, which had amended this section) applicable in respect of decedents dying after Dec. 31, 1976, and except for certain elections, this title to be applied and administered as if those repealed provisions had not been enacted, see section 401(b), (e) of Pub. L. 96–223, set out as a note under section 1023 of this title.
 
-Section 101(b)(1)(D) of Pub. L. 96–222 provided that: “The amendment made by subsection (a)(7) \[probably means subsection (a)(8), which amended this section and section 2039 of this title\] shall apply with respect to the estates of decedents dying after the date of the enactment of this Act \[Apr. 1, 1980\].”
+Pub. L. 96–222, title I, §101(b)(1)(D), Apr. 1, 1980, 94 Stat. 205, provided that: “The amendment made by subsection (a)(7) \[probably means subsection (a)(8), which amended this section and section 2039 of this title\] shall apply with respect to the estates of decedents dying after the date of the enactment of this Act \[Apr. 1, 1980\].”
 
 #### Effective Date of 1978 Amendment
 
-Section 702(b)(2) of Pub. L. 95–600 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to decedents dying after the date of the enactment of this Act \[Nov. 6, 1978\].”
+Pub. L. 95–600, title VII, §702(b)(2), Nov. 6, 1978, 92 Stat. 2925, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to decedents dying after the date of the enactment of this Act \[Nov. 6, 1978\].”
 
 #### Effective Date of 1976 Amendment
 
@@ -268,11 +268,11 @@ Amendment by Pub. L. 88–272 applicable to taxable years ending after Dec. 31, 
 
 #### Repeals
 
-Pub. L. 94–455, §2005(a)(4), cited as a credit to this section, and the amendments made thereby, were repealed by Pub. L. 96–223, title IV, §401(a), 94 Stat. 299, resultingin the text of this section reading as it read prior to enactment of section 2005(a)(4). See Effective Date of 1980 Amendments and Revival of Prior Law note above.
+Pub. L. 94–455, §2005(a)(4), cited as a credit to this section, and the amendments made thereby, were repealed by Pub. L. 96–223, title IV, §401(a), 94 Stat. 299, resulting in the text of this section reading as it read prior to enactment of section 2005(a)(4). See Effective Date of 1980 Amendments and Revival of Prior Law note above.
 
 #### Savings Provision
 
-Section 1951(b)(10)(B) of Pub. L. 94–455 provided that: “Notwithstanding subparagraph (A) \[amending this section\], any election made under section 691(e) to have subsection (a)(4) of such section apply in the case of an installment obligation shall continue to be effective with respect to taxable years beginning after December 31, 1976. Section 691(c) shall not apply in respect of any amount included in gross income by reason of the preceding sentence. The liability under bond filed under section 44(d) of the Internal Revenue Code of 1939 (or corresponding provisions of prior law) in respect of which such an election applies is hereby released with respect to taxable years to which such election applies.”
+Pub. L. 94–455, title XIX, §1951(b)(10)(B), Oct. 4, 1976, 90 Stat. 1839, provided that: “Notwithstanding subparagraph (A) \[amending this section\], any election made under section 691(e) to have subsection (a)(4) of such section apply in the case of an installment obligation shall continue to be effective with respect to taxable years beginning after December 31, 1976. Section 691(c) shall not apply in respect of any amount included in gross income by reason of the preceding sentence. The liability under bond filed under section 44(d) of the Internal Revenue Code of 1939 (or corresponding provisions of prior law) in respect of which such an election applies is hereby released with respect to taxable years to which such election applies.”
 
 #### Plan Amendments Not Required Until January 1, 1998
 

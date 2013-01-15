@@ -12,7 +12,7 @@ Salvage Services Defined.—In this section, the term “salvage services” inc
 
 #### Prior Provisions
 
-A prior section 7363, act Aug. 10, 1956, ch. 1041, 70A Stat. 455, related to contract provisions for transfer ofNavy equipment to private parties, prior to the general amendment of this chapter by Pub. L. 104–106.
+A prior section 7363, act Aug. 10, 1956, ch. 1041, 70A Stat. 455, related to contract provisions for transfer of Navy equipment to private parties, prior to the general amendment of this chapter by Pub. L. 104–106.
 
 #### Amendments
 

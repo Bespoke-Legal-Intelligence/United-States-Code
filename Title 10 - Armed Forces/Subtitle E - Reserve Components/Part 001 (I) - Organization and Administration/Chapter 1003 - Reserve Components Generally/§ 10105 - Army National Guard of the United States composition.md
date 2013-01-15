@@ -94,7 +94,7 @@ Availability of Training Positions.—The Secretary of the Army shall ensure tha
 
 “(a)
 
-Establishment of Personnel Account.—The Secretary of the Army shall establish a personnel accounting category for members of the Army Selected Reserve to be used for categorizing members of the Selected Reserve who have not completed the minimum training required for deployment or who are otherwise not available for deployment. The account shall be designed so that it is compatible with the decentralized personnel systems of the Army Guard and Reserve. The account shall be used for the reporting of personnelreadiness and may not be used as a factor in establishing the level of Army Guard and Reserve force structure.
+Establishment of Personnel Account.—The Secretary of the Army shall establish a personnel accounting category for members of the Army Selected Reserve to be used for categorizing members of the Selected Reserve who have not completed the minimum training required for deployment or who are otherwise not available for deployment. The account shall be designed so that it is compatible with the decentralized personnel systems of the Army Guard and Reserve. The account shall be used for the reporting of personnel readiness and may not be used as a factor in establishing the level of Army Guard and Reserve force structure.
 
 “(b)
 

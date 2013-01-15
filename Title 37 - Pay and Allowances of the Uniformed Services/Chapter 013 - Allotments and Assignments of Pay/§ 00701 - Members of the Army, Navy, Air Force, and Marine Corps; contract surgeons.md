@@ -98,5 +98,5 @@ Subsec. (d)(2). Pub. L. 99–145, §683(a)(1)(B), inserted reference to Navy.
 
 #### Regulations
 
-Section 651(b) of Pub. L. 104–201 provided that: “The Secretaries of the military departments shall prescribe regulations under subsection (d) of section 701 of title 37, United States Code, as added by subsection (a), not later than October 1, 1997.”
+Pub. L. 104–201, div. A, title VI, §651(b), Sept. 23, 1996, 110 Stat. 2582, provided that: “The Secretaries of the military departments shall prescribe regulations under subsection (d) of section 701 of title 37, United States Code, as added by subsection (a), not later than October 1, 1997.”
 

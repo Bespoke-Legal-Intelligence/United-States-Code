@@ -98,7 +98,7 @@
 
 #### (d) Termination of sanctions
 
-The sanctions imposed pursuant to this section shall apply for a period of at least 12months following the imposition of sanctions and shall cease to apply thereafter only if the President determines and certifies to the Congress that reliable information indicates that the foreign person with respect to which the determination was made under subsection (a)(1) of this section has ceased to aid or abet any foreign government, project, or entity in its efforts to acquire chemical or biological weapons capability as described in that subsection.
+The sanctions imposed pursuant to this section shall apply for a period of at least 12 months following the imposition of sanctions and shall cease to apply thereafter only if the President determines and certifies to the Congress that reliable information indicates that the foreign person with respect to which the determination was made under subsection (a)(1) of this section has ceased to aid or abet any foreign government, project, or entity in its efforts to acquire chemical or biological weapons capability as described in that subsection.
 
 #### (e) Waiver
 
@@ -108,7 +108,7 @@ The sanctions imposed pursuant to this section shall apply for a period of at le
 
 #### (2) Notification of and report to Congress
 
-&emsp;If the President decides to exercise the waiver authority provided in paragraph (1), the President shall so notify the Congress not less than 20 days before the waiver takes effect. Such notification shall include a report fully articulating the rationale and circumstances which led the President to exercise the waiver authority.
+&emsp;If the President decides to exercise the waiver authority provided in paragraph (1), the President shall so notify the Congress not lessthan 20 days before the waiver takes effect. Such notification shall include a report fully articulating the rationale and circumstances which led the President to exercise the waiver authority.
 
 #### (f) “Foreign person” defined
 

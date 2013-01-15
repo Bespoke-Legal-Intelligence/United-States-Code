@@ -2,7 +2,7 @@
 
 (a) The economic and social development of the United States and the achievement of satisfactory levels of living depend on the sound and orderly development of urban and rural areas. When urbanization proceeds rapidly, the sound and orderly development of urban communities depends to a large degree on the social and economic health and the sound development of smaller communities and rural areas.
 
-(b) The President shall prescribe regulations governing the formulation, evaluation, and review of United States Government programs and projects having a significant impact on area and community development (including programs and projects providing assistance to States and localities) to serve most effectively the basic objectives of subsection (a) of this section. The regulations shall provide for the considerationof concurrently achieving the following specific objectives and, to the extent authorized by law, reasoned choices shall be made between the objectives when they conflict:
+(b) The President shall prescribe regulations governing the formulation, evaluation, and review of United States Government programs and projects having a significant impact on area and community development (including programs and projects providing assistance to States and localities) to serve most effectively the basic objectives of subsection (a) of this section. The regulations shall provide for the consideration of concurrently achieving the following specific objectives and, to the extent authorized by law, reasoned choices shall be made between the objectives when they conflict:
 
 &emsp;(1) appropriate land uses for housing, commercial, industrial, governmental, institutional, and other purposes.
 

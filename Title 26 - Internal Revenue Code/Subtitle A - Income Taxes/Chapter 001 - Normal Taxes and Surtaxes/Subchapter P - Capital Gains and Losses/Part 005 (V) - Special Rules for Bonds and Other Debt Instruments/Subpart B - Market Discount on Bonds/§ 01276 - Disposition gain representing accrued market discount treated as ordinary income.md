@@ -124,7 +124,7 @@ Subsec. (e). Pub. L. 99–514, §1899A(28), substituted “July 18, 1984” for 
 
 #### Effective Date of 1993 Amendment
 
-Section 13206(b)(3) of Pub. L. 103–66 provided that: “The amendments made by this section \[probably should be “subsection”, which amended this section and sections 1277 and 1278 of this title\] shall apply to obligations purchased (within the meaning of section 1272(d)(1) of the Internal Revenue Code of 1986) after April 30, 1993.”
+Pub. L. 103–66, title XIII, §13206(b)(3), Aug. 10, 1993, 107 Stat. 465, provided that: “The amendments made by this section \[probably should be “subsection”, which amended this section and sections 1277 and 1278 of this title\] shall apply to obligations purchased (within the meaning of section 1272(d)(1) of the Internal Revenue Code of 1986) after April 30, 1993.”
 
 #### Effective Date of 1988 Amendment
 
@@ -136,7 +136,7 @@ Amendment by section 631(e)(15) of Pub. L. 99–514 applicable to any distributi
 
 Amendment by section 1803(a)(5) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
-Section 1803(a)(13)(C) of Pub. L. 99–514 provided that: “The amendments made by this paragraph \[amending this section and section 1286 of this title\] shall apply to obligations acquired after the date of the enactment of this Act \[Oct. 22, 1986\].”
+Pub. L. 99–514, title XVIII, §1803(a)(13)(C), Oct. 22, 1986, 100 Stat. 2797, provided that: “The amendments made by this paragraph \[amending this section and section 1286 of this title\] shall apply to obligations acquired after the date of the enactment of this Act \[Oct. 22, 1986\].”
 
 #### Effective Date
 

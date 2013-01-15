@@ -12,7 +12,7 @@ Definitions.—In this section—
 
 &emsp;(2) “socially and economically disadvantaged individual” has the same meaning given that term in section 8(d) of the Act (15 U.S.C. 637(d)) and relevant subcontracting regulations prescribed under section 8(d), except that women are presumed to be socially and economically disadvantaged; and
 
-&emsp;(3) the term “qualified HUBZone small business concern” has the meaning given that term in section 3(p) of the Small Business Act (15 U.S.C. 632(<i>o</i>) <sup>1</sup>).
+&emsp;(3) the term “qualified HUBZone small business concern” has the meaning given that term in section 3(p) of the Small Business Act (15 U.S.C. 632(o) <sup>1</sup>).
 
 (b)
 
@@ -26,7 +26,27 @@ Uniform Criteria.—The Secretary shall establish minimum uniform criteria for S
 
 Surveys and Lists.—Each State or airport sponsor annually shall survey and compile a list of small business concerns referred to in subsection (b) of this section and the location of each concern in the State.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1268; Pub. L. 103–429, §6(65), Oct. 31, 1994, 108 Stat. 4386; Pub. L. 105–135, title VI, §604(h)(2), Dec. 2, 1997, 111 Stat. 2635.)
+(e)
+
+Mandatory Training Program.—
+
+&emsp;(1)
+
+In general.—Not later than 1 year after the date of enactment of this subsection, the Secretary shall establish a mandatory training program for persons described in paragraph (3) to provide streamlined training on certifying whether a small business concern qualifies as a small business concern owned and controlled by socially and economically disadvantaged individuals under this section and section 47107(e).
+
+&emsp;(2)
+
+Implementation.—The training program may be implemented by one or more private entities approved by the Secretary.
+
+&emsp;(3)
+
+Participants.—A person referred to in paragraph (1) is an official or agent of an airport sponsor—
+
+&emsp;&emsp;(A) who is required to provide a written assurance under this section or section 47107(e) that the airport owner or operator will meet the percentage goal of subsection (b) of this section or section 47107(e)(1), as the case may be; or
+
+&emsp;&emsp;(B) who is responsible for determining whether or not a small business concern qualifies as a small business concern owned and controlled by socially and economically disadvantaged individuals under this section or section 47107(e).
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1268; Pub. L. 103–429, §6(65), Oct. 31, 1994, 108 Stat. 4386; Pub. L. 105–135, title VI, §604(h)(2), Dec. 2, 1997, 111 Stat. 2635; Pub. L. 112–95, title I, §140(b), Feb. 14, 2012, 126 Stat. 27.)
 
 Historical and Revision Notes
 
@@ -68,7 +88,13 @@ In subsection (b), the words “beginning after September 30, 1987” are omitte
 
 This amends 49:47113(a)(2) to correct erroneous cross-references.
 
+#### References in Text
+
+The date of enactment of this subsection, referred to in subsec. (e)(1), is the date of enactment of Pub. L. 112–95, which was approved Feb. 14, 2012.
+
 #### Amendments
+
+<b>2012</b>—Subsec. (e). Pub. L. 112–95 added subsec. (e).
 
 <b>1997</b>—Subsec. (a). Pub. L. 105–135, §604(h)(2)(A), substituted semicolon for period at end of par. (1), substituted “; and” for period at end of par. (2), and added par. (3).
 
@@ -83,6 +109,18 @@ Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
+
+#### Findings Regarding Disadvantaged Business Enterprise Programs
+
+Pub. L. 112–95, title I, §140(a), Feb. 14, 2012, 126 Stat. 27, provided that: “Congress finds the following:
+
+&emsp;“(1) While significant progress has occurred due to the establishment of the airport disadvantaged business enterprise program (49 U.S.C. 47107(e) and 47113), discrimination and related barriers continue to pose significant obstacles for minority- and women-owned businesses seeking to do business in airport-related markets across the Nation. These continuing barriers merit the continuation of the airport disadvantaged business enterprise program.
+
+&emsp;“(2) Congress has received and reviewed testimony and documentation of race and gender discrimination from numerous sources, including congressional hearings and roundtables, scientific reports, reports issued by public and private agencies, news stories, reports of discrimination by organizations and individuals, and discrimination lawsuits. This testimony and documentation shows that race- and gender-neutral efforts alone are insufficient to address the problem.
+
+&emsp;“(3) This testimony and documentation demonstrates that discrimination across the Nation poses a barrier to full and fair participation in airport-related businesses of women business owners and minority business owners in the racial groups detailed in parts 23 and 26 of title 49, Code of Federal Regulations, and has impacted firm development and many aspects of airport-related business in the public and private markets.
+
+&emsp;“(4) This testimony and documentation provides a strong basis that there is a compelling need for the continuation of the airport disadvantaged business enterprise program and the airport concessions disadvantaged business enterprise program to address race and gender discrimination in airport-related business.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “632(p)”.</i>
 

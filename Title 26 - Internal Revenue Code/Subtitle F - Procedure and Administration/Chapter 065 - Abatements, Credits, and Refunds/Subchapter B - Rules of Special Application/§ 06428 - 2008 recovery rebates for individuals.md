@@ -128,10 +128,6 @@ For purposes of this section—
 
 (Added Pub. L. 107–16, title I, §101(b)(1), June 7, 2001, 115 Stat. 42; amended Pub. L. 107–147, title IV, §411(a), Mar. 9, 2002, 116 Stat. 44; Pub. L. 110–185, title I, §101(a), Feb. 13, 2008, 122 Stat. 613; Pub. L. 110–245, title I, §§101(a), 102(b), June 17, 2008, 122 Stat. 1625.)
 
-#### Termination of Section
-
-<i>For termination of section by section 901 of Pub. L. 107–16, see Effective and Termination Dates note below.</i>
-
 #### Prior Provisions
 
 A prior section 6428, added Pub. L. 94–12, title I, §101(a), Mar. 29, 1975, 89 Stat. 27; amended Pub. L. 97–34, title I, §101(b)(1), Aug. 13, 1981, 95 Stat. 182; Pub. L. 97–448, title I, §101(a)(2), Jan. 12, 1983, 96 Stat. 2365, related to the 1981 rate reduction tax credit, prior to repeal by Pub. L. 101–508, title XI, §11801(a)(47), Nov. 5, 1990, 104 Stat. 1388–522.
@@ -168,7 +164,7 @@ Joint returns.—In the case of a refund or credit made or allowed under subsect
 
 Coordination with estimated tax.—The credit under this section shall be treated for purposes of section 6654(f) in the same manner as a credit under subpart A of part IV of subchapter A of chapter 1.”
 
-Subsec. (e)(2). Pub. L. 107–147, §411(a)(2)(B), reenacted heading without change and amended text of par. (2)generally. Prior to amendment, text read as follows: “For purposes of paragraph (1), the advance refund amount is the amount that would have been allowed as a credit under this section for such first taxable year if this section (other than subsection (d) and this subsection) had applied to such taxable year.”
+Subsec. (e)(2). Pub. L. 107–147, §411(a)(2)(B), reenacted heading without change and amended text of par. (2) generally. Prior to amendment, text read as follows: “For purposes of paragraph (1), the advance refund amount is the amount that would have been allowed as a credit under this section for such first taxable year if this section (other than subsection (d) and this subsection) had applied to such taxable year.”
 
 #### Effective Date of 2008 Amendment
 
@@ -180,11 +176,9 @@ Amendment by section 102(b) of Pub. L. 110–245 applicable to taxable years end
 
 Amendment by Pub. L. 107–147 effective as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, to which such amendment relates, see section 411(x) of Pub. L. 107–147, set out as a note under section 25B of this title.
 
-#### Effective and Termination Dates
+#### Effective Date
 
 Section applicable to taxable years beginning after Dec. 31, 2000, see section 101(d)(1) of Pub. L. 107–16, set out as an Effective and Termination Dates of 2001 Amendment note under section 1 of this title.
-
-Section inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if it had never been enacted, see section 901 of Pub. L. 107–16, set out as an Effective and Termination Dates of 2001 Amendment note under section 1 of this title.
 
 #### Economic Recovery Payment to Recipients of Social Security, Supplemental Security Income, Railroad Retirement Benefits, and Veterans Disability Compensation or Pension Benefits
 
@@ -344,7 +338,7 @@ Payment on the basis of a title ii or ssi benefit.—Section 1129(a)(3) of the S
 
 &emsp;&emsp;“(B)
 
-Payment on the basis of a railroad retirement benefit.—Section 13 of the Railroad Retirement Act \[of 1974\] (45 U.S.C. 231<i>l</i>) shall apply to any payment made on the basis of an entitlement to a benefit specified in paragraph (1)(B)(ii) of subsection (a) in the same manner as such section applies to a payment under such Act \[45 U.S.C. 231 et seq.\].
+Payment on the basis of a railroad retirement benefit.—Section 13 of the Railroad Retirement Act \[of 1974\] (45 U.S.C. 231l) shall apply to any payment made on the basis of an entitlement to a benefit specified in paragraph (1)(B)(ii) of subsection (a) in the same manner as such section applies to a payment under such Act \[45 U.S.C. 231 et seq.\].
 
 &emsp;&emsp;“(C)
 

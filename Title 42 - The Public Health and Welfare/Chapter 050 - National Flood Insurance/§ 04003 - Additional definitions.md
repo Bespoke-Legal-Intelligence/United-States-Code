@@ -12,7 +12,7 @@
 
 &emsp;(5) “Federal entity for lending regulation” means the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, the Comptroller of the Currency, the National Credit Union Administration, and the Farm Credit Administration, and with respect to a particular regulated lending institution means the entity primarily responsible for the supervision of the institution;
 
-&emsp;(6) “Director” means the Administrator of the Federal Emergency Management Agency;
+&emsp;(6) “Administrator” means the Administrator of the Federal Emergency Management Agency;
 
 &emsp;(7) “Federal agency lender” means a Federal agency that makes direct loans secured by improved real estate or a mobile home, to the extent such agency acts in such capacity;
 
@@ -24,9 +24,9 @@
 
 &emsp;(11) “servicer” means the person responsible for receiving any scheduled periodic payments from a borrower pursuant to the terms of a loan, including amounts for taxes, insurance premiums, and other charges with respect to the property securing the loan, and making the payments of principal and interest and such other payments with respect to the amounts received from the borrower as may be required pursuant to the terms of the loan.
 
-(b) The Director is authorized to define or redefine, by rules and regulations, any scientific or technical term used in this Act, insofar as such definition is not inconsistent with the purposes of this Act.
+(b) The Administrator is authorized to define or redefine, by rules and regulations, any scientific or technical term used in this Act, insofar as such definition is not inconsistent with the purposes of this Act.
 
-(Pub. L. 93–234, §3, Dec. 31, 1973, 87 Stat. 976; Pub. L. 95–128, title VII, §703(b), Oct. 12, 1977, 91 Stat. 1145; Pub. L. 98–181, title IV, §451(e), Nov. 30, 1983, 97 Stat. 1229; Pub. L. 100–707, title I, §109(t), Nov. 23, 1988, 102 Stat. 4710; Pub. L. 103–325, title V, §511(a), Sept. 23, 1994, 108 Stat. 2255; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 111–203, title III, §368, July 21, 2010, 124 Stat. 1557.)
+(Pub. L. 93–234, §3, Dec. 31, 1973, 87 Stat. 976; Pub. L. 95–128, title VII, §703(b), Oct. 12, 1977, 91 Stat. 1145; Pub. L. 98–181, title I \[title IV, §451(e)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 100–707, title I, §109(t), Nov. 23, 1988, 102 Stat. 4710; Pub. L. 103–325, title V, §511(a), Sept. 23, 1994, 108 Stat. 2255; Pub. L. 111–203, title III, §368, July 21, 2010, 124 Stat. 1557; Pub. L. 112–141, div. F, title II, §100238(a)(1), July 6, 2012, 126 Stat. 958.)
 
 #### References in Text
 
@@ -36,9 +36,13 @@ The Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(4),
 
 #### Codification
 
-Section was enacted as part of Flood Disaster Protection Act of 1973, and not as part of National Flood Insurance Act of 1968 which comprises this chapter.
+Section was enacted as part of the Flood Disaster Protection Act of 1973, and not as part of the National Flood Insurance Act of 1968 which comprises this chapter.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a)(6). Pub. L. 112–141 substituted “ ‘Administrator’ ” for “ ‘Director’ ” and “Administrator of” for “Director of”.
+
+Subsec. (b). Pub. L. 112–141 substituted “Administrator” for “Director”.
 
 <b>2010</b>—Subsec. (a)(5). Pub. L. 111–203 struck out “, the Office of Thrift Supervision” after “the Comptroller of the Currency”.
 
@@ -53,10 +57,6 @@ Subsec. (a)(7) to (11). Pub. L. 103–325, §511(a)(2), (3), added pars. (7) to 
 Subsec. (b). Pub. L. 98–181, §451(e)(1), substituted “Director” for “Secretary”.
 
 <b>1977</b>—Subsec. (a)(4). Pub. L. 95–128 substituted “assistance pursuant to the Disaster Relief Act of 1974 (other than assistance under such Act in connection with a flood)” for “assistance for emergency work essential for the protection and preservation of life and property performed pursuant to the Disaster Relief Act of 1970 or any subsequent Act of Congress which supersedes or modifies the Disaster Relief Act of 1970”.
-
-#### Change of Name
-
-“Administrator of the Federal Emergency Management Agency” substituted for “Director of the Federal Emergency Management Agency” in subsec. (a)(6) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
 
 #### Effective Date of 2010 Amendment
 

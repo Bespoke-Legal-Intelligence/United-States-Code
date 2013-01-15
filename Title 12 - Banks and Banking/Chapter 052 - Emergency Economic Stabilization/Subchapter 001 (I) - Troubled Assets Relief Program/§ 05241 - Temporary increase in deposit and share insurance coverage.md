@@ -8,7 +8,7 @@
 
 #### (2) Borrowing limits temporarily lifted
 
-&emsp;During the period beginning on October 3, 2008, and ending on December 31, 2013, the Board of Directors of the Corporation may request from the Secretary, and the Secretary shall approve, a loan or loans in an amount or amounts necessary to carry out this subsection, without regard to the limitations on such borrowing under section 14(a) and 15(c) of the Federal Deposit Insurance Act (12 U.S.C. 1824(a), 1825(c)).
+&emsp;During the period beginning on October 3, 2008, and ending on December 31, 2013, theBoard of Directors of the Corporation may request from the Secretary, and the Secretary shall approve, a loan or loans in an amount or amounts necessary to carry out this subsection, without regard to the limitations on such borrowing under section 14(a) and 15(c) of the Federal Deposit Insurance Act (12 U.S.C. 1824(a), 1825(c)).
 
 #### (b) Federal Credit Union Act; temporary increase in share insurance
 

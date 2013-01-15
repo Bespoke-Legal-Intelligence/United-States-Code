@@ -6,7 +6,7 @@ This part shall not apply to any provision in a bill, joint resolution, amendmen
 
 &emsp;(2) establishes or enforces any statutory rights that prohibit discrimination on the basis of race, color, religion, sex, national origin, age, handicap, or disability;
 
-&emsp;(3) requires compliance with accounting and auditing procedures with respect to grants orother money or property provided by the Federal Government;
+&emsp;(3) requires compliance with accounting and auditing procedures with respect to grants or other money or property provided by the Federal Government;
 
 &emsp;(4) provides for emergency assistance or relief at the request of any State, local, or tribal government or any official of a State, local, or tribal government;
 

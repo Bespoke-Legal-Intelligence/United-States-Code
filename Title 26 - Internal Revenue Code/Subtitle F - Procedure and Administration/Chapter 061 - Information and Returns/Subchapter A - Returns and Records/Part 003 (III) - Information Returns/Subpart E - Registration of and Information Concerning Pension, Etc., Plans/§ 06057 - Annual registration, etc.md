@@ -72,7 +72,7 @@ Each plan administrator required to file a registration statement under subsecti
 
 &emsp;&emsp;<b>For provisions relating to penalties for failure to register or furnish statements required by this section, see section 6652(d) and section 6690.</b>
 
-&emsp;&emsp;<b>For coordination between Department of the Treasury and the Department of Labor with regard to administration of this section, see section 3004 of the Employee Retirement Income Security Act of 1974.</b>
+&emsp;&emsp;<b>For coordination between Department of the Treasury and the Department of Labor with regard to administration of this section, see section 3004 of</b><b>the Employee Retirement Income Security Act of 1974.</b>
 
 (Added Pub. L. 93–406, title II, §1031(a), Sept. 2, 1974, 88 Stat. 943; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. B. title VI, §2663(j)(5)(D), July 18, 1984, 98 Stat. 1171; Pub. L. 98–397, title II, §206, Aug. 23, 1984, 98 Stat. 1449; Pub. L. 99–514, title XV, §1501(d)(1)(F), Oct. 22, 1986, 100 Stat. 2740; Pub. L. 103–296, title I, §108(h)(5), Aug. 15, 1994, 108 Stat. 1487.)
 
@@ -110,13 +110,13 @@ Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed a
 
 #### Effective Date
 
-Section 1034 of Pub. L. 93–406, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “This part \[part 3 (§§1031–1034) of subtitle A of title II of Pub. L. 93–406, enacting this section, sections 6058, 6059, 6690, and 6692 of this title and section 1320b–1 of Title 42, The Public Health and Welfare, and amending sections 6033, 6047, and 6652 of this title\] shall take effect upon the date of the enactment of this Act \[Sept. 2, 1974\]; except that—
+Pub. L. 93–406, title X, §1034, Sept. 2, 1974, 88 Stat. 948, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “This part \[part 3 (§§1031–1034) of subtitle A of title II of Pub. L. 93–406, enacting this section, sections 6058, 6059, 6690, and 6692 of this title and section 1320b–1 of Title 42, The Public Health and Welfare, and amending sections 6033, 6047, and 6652 of this title\] shall take effect upon the date of the enactment of this Act \[Sept. 2, 1974\]; except that—
 
 &emsp;“(1) the requirements of section 6059 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall apply only with respect to plan years to which part I of this title applies. \[For description of plan years to which part I applies, see section 1017 of Pub. L. 93–406, set out as an Effective Date; Transitional Rules note under section 410 of this title\].
 
 &emsp;“(2) the requirements of section 6057 of such Code shall apply only with respect to plan years beginning after December 31, 1975,
 
-&emsp;“(3) the requirements of section 6058(a) of such Code shall apply only with respect to plan years beginningafter the date of the enactment of this Act \[Sept. 2, 1974\], and
+&emsp;“(3) the requirements of section 6058(a) of such Code shall apply only with respect to plan years beginning after the date of the enactment of this Act \[Sept. 2, 1974\], and
 
 &emsp;“(4) the amendments made by section 1032 \[enacting section 1320b–1 of Title 42\] shall take effect on January 1, 1978.”
 

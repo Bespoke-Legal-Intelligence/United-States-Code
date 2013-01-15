@@ -6,7 +6,7 @@ In exercising his functions under this chapter, the Director shall—
 
 &emsp;(1) work in close consultation and cooperation with the Domestic Council, the National Security Council, the Office of Homeland Security, the Council on Environmental Quality, the Council of Economic Advisers, the Office of Management and Budget, the National Science Board, and the Federal departments and agencies;
 
-&emsp;(2) utilize the services of consultants, establish such advisory panels, and, to the extentpracticable, consult with State and local governmental agencies, with appropriate professional groups, and with such representatives of industry, the universities, agriculture, labor, consumers, conservation organizations, and such other public interest groups, organizations, and individuals as he deems advisable;
+&emsp;(2) utilize the services of consultants, establish such advisory panels, and, to the extent practicable, consult with State and local governmental agencies, with appropriate professional groups, and with such representatives of industry, the universities, agriculture, labor, consumers, conservation organizations, and such other public interest groups, organizations, and individuals as he deems advisable;
 
 &emsp;(3) hold such hearings in various parts of the Nation as he deems necessary, to determine the views of the agencies, groups, and organizations referred to in paragraph (2) of this subsection and of the general public, concerning national needs and trends in science and technology; and
 

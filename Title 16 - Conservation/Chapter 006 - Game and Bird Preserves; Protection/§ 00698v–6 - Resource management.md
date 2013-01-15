@@ -10,7 +10,7 @@ The Trust shall assume all authority provided by sections 698v to 698v–10 of t
 
 #### (b) Management responsibilities
 
-Upon assumption of management of the Preserve under subsection (a) of this section, the Trust shall manage the land and resources of the Preserve and the use thereof including, but not limited to such activities as—
+Upon assumption of management of the Preserve under subsection (a) of this section, the Trust shall manage the land and resources of thePreserve and the use thereof including, but not limited to such activities as—
 
 &emsp;(1) administration of the operations of the Preserve;
 
@@ -116,7 +116,7 @@ Within two years after assumption of management responsibilities for the Preserv
 
 #### (5) Consultation with tribes and Pueblos
 
-&emsp;The Trust is authorized and directed to cooperate and consult with Indian tribes andPueblos on management policies and practices for the Preserve which may affect them. The Trust is authorized to allow the use of lands within the Preserve for religious and cultural uses by Native Americans and, in so doing, may set aside places and times of exclusive use consistent with the American Indian Religious Freedom Act \[42 U.S.C. 1996, 1996a\] and other applicable statutes.
+&emsp;The Trust is authorized and directed to cooperate and consult with Indian tribes and Pueblos on management policies and practices for the Preserve which may affect them. The Trust is authorized to allow the use of lands within the Preserve for religious and cultural uses by Native Americans and, in so doing, may set aside places and times of exclusive use consistent with the American Indian Religious Freedom Act \[42 U.S.C. 1996, 1996a\] and other applicable statutes.
 
 #### (6) No administrative appeal
 
@@ -172,7 +172,7 @@ Within two years after assumption of management responsibilities for the Preserv
 
 #### (B) Reimbursable services
 
-&emsp;&emsp;To the extent generally authorized at other units of the National Forest System and subject to the availability of appropriations under section 698v–9(a) of this title, the Secretary shall provide presuppression and nonemergency rehabilitation and restoration services for the Trust at any time on a reimbursable basis.
+&emsp;&emsp;To the extent generally authorized at other units of the National Forest Systemand subject to the availability of appropriations under section 698v–9(a) of this title, the Secretary shall provide presuppression and nonemergency rehabilitation and restoration services for the Trust at any time on a reimbursable basis.
 
 (Pub. L. 106–248, title I, §108, July 25, 2000, 114 Stat. 607; Pub. L. 109–54, title IV, §432(a), Aug. 2, 2005, 119 Stat. 556; Pub. L. 109–132, §4, Dec. 20, 2005, 119 Stat. 2571.)
 

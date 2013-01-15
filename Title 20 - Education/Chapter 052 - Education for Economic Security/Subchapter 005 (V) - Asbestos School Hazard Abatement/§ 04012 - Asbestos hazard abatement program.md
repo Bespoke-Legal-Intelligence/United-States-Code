@@ -2,7 +2,7 @@
 
 #### (a) Abatement program
 
-There is hereby established a program within the Environmental Protection Agency to be known as the Asbestos Hazards Abatement Program (hereinafter in this subchapter referred to as “Program”).
+There is hereby established a program within the Environmental Protection Agency to beknown as the Asbestos Hazards Abatement Program (hereinafter in this subchapter referred to as “Program”).
 
 #### (b) Duties
 

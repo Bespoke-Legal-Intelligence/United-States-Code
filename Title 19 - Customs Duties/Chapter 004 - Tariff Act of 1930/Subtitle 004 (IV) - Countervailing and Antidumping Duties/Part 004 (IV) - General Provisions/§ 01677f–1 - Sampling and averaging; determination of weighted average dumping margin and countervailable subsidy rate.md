@@ -10,7 +10,7 @@ For purposes of determining the export price (or constructed export price) under
 
 #### (b) Selection of averages and samples
 
-The authority to select averages and statistically valid samples shall rest exclusively withthe administering authority. The administering authority shall, to the greatest extent possible, consult with the exporters and producers regarding the method to be used to select exporters, producers, or types of products under this section.
+The authority to select averages and statistically valid samples shall rest exclusively with the administering authority. The administering authority shall, to the greatest extent possible, consult with the exporters and producers regarding the method to be used to select exporters, producers, or types of products under this section.
 
 #### (c) Determination of dumping margin
 
@@ -32,7 +32,7 @@ The authority to select averages and statistically valid samples shall rest excl
 
 #### (A) In general
 
-&emsp;&emsp;In an investigation under part II of this subtitle, the administering authority shall determine whether the subject merchandise is being sold in the United States at less than fair value—
+&emsp;&emsp;In an investigation under part II of this subtitle, the administering authority shalldetermine whether the subject merchandise is being sold in the United States at less than fair value—
 
 &emsp;&emsp;&emsp;(i) by comparing the weighted average of the normal values to the weighted average of the export prices (and constructed export prices) for comparable merchandise, or
 
@@ -70,15 +70,43 @@ The authority to select averages and statistically valid samples shall rest excl
 
 > &emsp;The individual countervailable subsidy rates determined under subparagraph (A) shall be used to determine the all-others rate under section 1671d(c)(5) of this title.
 
-(June 17, 1930, ch. 497, title VII, §777A, as added Pub. L. 98–573, title VI, §620(a), Oct. 30, 1984, 98 Stat. 3039; amended Pub. L. 103–465, title II, §§229(a), 269(a), (b)(1), Dec. 8, 1994, 108 Stat. 4889, 4916.)
+#### (f) Adjustment of antidumping duty in certain proceedings relating to imports from nonmarket economy countries
+
+#### (1) In general
+
+&emsp;If the administering authority determines, with respect to a class or kind of merchandise from a nonmarket economy country for which an antidumping duty is determined using normal value pursuant to section 1677b(c) of this title, that—
+
+&emsp;&emsp;(A) pursuant to section 1671(a)(1) of this title, a countervailable subsidy (other than an export subsidy referred to in section 1677a(c)(1)(C) of this title) has been provided with respect to the class or kind of merchandise,
+
+&emsp;&emsp;(B) such countervailable subsidy has been demonstrated to have reduced the average price of imports of the class or kind of merchandise during the relevant period, and
+
+&emsp;&emsp;(C) the administering authority can reasonably estimate the extent to which the countervailable subsidy referred to in subparagraph (B), in combination with the use of normal value determined pursuant to section 1677b(c) of this title, has increased the weighted average dumping margin for the class or kind of merchandise,
+
+> &emsp;the administering authority shall, except as provided in paragraph (2), reduce the antidumping duty by the amount of the increase in the weighted average dumping margin estimated by the administering authority under subparagraph (C).
+
+#### (2) Maximum reduction in antidumping duty
+
+&emsp;The administering authority may not reduce the antidumping duty applicable to a class or kind of merchandise from a nonmarket economy country under this subsection by more than the portion of the countervailing duty rate attributable to a countervailable subsidy that is provided with respect to the class or kind of merchandise and that meets the conditions described in subparagraphs (A), (B), and (C) of paragraph (1).
+
+(June 17, 1930, ch. 497, title VII, §777A, as added Pub. L. 98–573, title VI, §620(a), Oct. 30, 1984, 98 Stat. 3039; amended Pub. L. 103–465, title II, §§229(a), 269(a), (b)(1), Dec. 8, 1994, 108 Stat. 4889, 4916; Pub. L. 112–99, §2(a), Mar. 13, 2012, 126 Stat. 265.)
 
 #### Amendments
+
+<b>2012</b>—Subsec. (f). Pub. L. 112–99 added subsec. (f).
 
 <b>1994</b>—Pub. L. 103–465, §269(b)(1), inserted “and countervailable subsidy rate” after “margin” in section catchline.
 
 Pub. L. 103–465, §269(a), added subsec. (e).
 
 Pub. L. 103–465, §229(a), amended section generally, substituting present provisions for provisions authorizing use of averaging or generally recognized sampling techniques for purposes of determining United States price or foreign market value and for purposes of annual reviews under section 1675 of this title, and providing for selection of samples and averages by administering authority.
+
+#### Effective Date of 2012 Amendment
+
+Pub. L. 112–99, §2(b), Mar. 13, 2012, 126 Stat. 266, provided that: “Subsection (f) of section 777A of the Tariff Act of 1930 \[19 U.S.C. 1677f–1(f)\], as added by subsection (a) of this section, applies to—
+
+&emsp;“(1) all investigations and reviews initiated pursuant to title VII of that Act (19 U.S.C. 1671 et seq.) on or after the date of the enactment of this Act \[Mar. 13, 2012\]; and
+
+&emsp;“(2) subject to subsection (c) of section 129 of the Uruguay Round Agreements Act (19 U.S.C. 3538), all determinations issued under subsection (b)(2) of that section on or after the date of the enactment of this Act.”
 
 #### Effective Date of 1994 Amendment
 

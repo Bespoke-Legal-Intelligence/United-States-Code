@@ -1,6 +1,6 @@
 ### §131. Office of the Secretary of Defense
 
-(a) There is in the Department of Defense an Office of the Secretary of Defense. The functionof the Office is to assist the Secretary of Defense in carrying out the Secretary's duties and responsibilities and to carry out such other duties as may be prescribed by law.
+(a) There is in the Department of Defense an Office of the Secretary of Defense. The function of the Office is to assist the Secretary of Defense in carrying out the Secretary's duties and responsibilities and to carry out such other duties as may be prescribed by law.
 
 (b) The Office of the Secretary of Defense is composed of the following:
 
@@ -58,7 +58,7 @@
 
 (d) The Secretary of each military department, and the civilian employees and members of the armed forces under the jurisdiction of the Secretary, shall cooperate fully with personnel of the Office of the Secretary of Defense to achieve efficient administration of the Department of Defense and to carry out effectively the authority, direction, and control of the Secretary of Defense.
 
-(Added Pub. L. 99–433, title I, §104, Oct. 1, 1986, 100 Stat. 996; amended Pub. L. 103–160, div. A, title IX, §906(a), Nov. 30, 1993, 107 Stat. 1729; Pub. L. 103–337, div. A, title IX, §903(b)(1), Oct. 5, 1994, 108 Stat. 2823; Pub. L. 104–106, div. A, title IX, §903(e)(1), Feb. 10, 1996, 110 Stat. 402; Pub. L. 104–201, div. A, title IX, §901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 106–65, div. A, title IX, §911(d)(1), Oct. 5, 1999, 113 Stat. 719; Pub. L. 107–314, div. A, title IX, §901(b)(1), Dec. 2, 2002, 116 Stat. 2619; Pub. L. 110–181, div. A, title IX, §904(a)(4), Jan. 28, 2008, 122 Stat. 274; Pub. L. 110–417, \[div. A\], title X, §1061(b)(7), Oct. 14, 2008, 122 Stat. 4613; Pub. L. 111–383, div. A, title IX, §901(b)(2), (m)(1), Jan. 7, 2011, 124 Stat. 4317, 4326.)
+(Added Pub. L. 99–433, title I, §104, Oct. 1, 1986, 100 Stat. 996; amended Pub. L. 103–160, div. A, title IX, §906(a), Nov. 30, 1993, 107 Stat. 1729; Pub. L. 103–337, div. A, title IX, §903(b)(1), Oct. 5, 1994, 108 Stat. 2823; Pub. L. 104–106, div. A, title IX, §903(e)(1), Feb. 10, 1996, 110 Stat. 402; Pub. L. 104–201, div. A, title IX, §901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 106–65, div. A, title IX,§911(d)(1), Oct. 5, 1999, 113 Stat. 719; Pub. L. 107–314, div. A, title IX, §901(b)(1), Dec. 2, 2002, 116 Stat. 2619; Pub. L. 110–181, div. A, title IX, §904(a)(4), Jan. 28, 2008, 122 Stat. 274; Pub. L. 110–417, \[div. A\], title X, §1061(b)(7), Oct. 14, 2008, 122 Stat. 4613; Pub. L. 111–383, div. A, title IX, §901(b)(2), (m)(1), Jan. 7, 2011, 124 Stat. 4317, 4326.)
 
 #### Prior Provisions
 
@@ -120,7 +120,7 @@ In general.—Except as provided in paragraph (2), this section \[see Tables for
 
 “(2)
 
-Certain matters.—Subsection (i) \[enacting and amending provisions set out as notes under section 137a of this title\] and the amendments made by that subsection, and subsection (<i>o</i>) \[enacting provisions set out as a note under this section\], shall take effect on the date of the enactment of this Act \[Jan. 7, 2011\].”
+Certain matters.—Subsection (i) \[enacting and amending provisions set out as notes under section 137a of this title\] and the amendments made by that subsection, and subsection (o) \[enacting provisions set out as a note under this section\], shall take effect on the date of the enactment of this Act \[Jan. 7, 2011\].”
 
 #### Effective Date of 2008 Amendment
 
@@ -128,7 +128,7 @@ Amendment by Pub. L. 110–417 effective Jan. 28, 2008, and as if included in Pu
 
 #### Effective Date of 1996 Amendment
 
-Section 903(a) of Pub. L. 104–106, which provided that the amendments made by section 903 of Pub. L. 104–106 (amending this section and sections 138, 176, 1056, 1216, 1587, and 10201 of this title, repealing sections 133a, 134a, 137, and 142 of this title, and amending provisions set out as a note under section 167 of this title) were to take effect on Jan. 31, 1997, was repealed by Pub. L. 104–201, div. A, title IX, §901, Sept. 23, 1996, 110 Stat. 2617.
+Pub. L. 104–106, div. A, title IX, §903(a), Feb. 10, 1996, 110 Stat. 401, which provided that the amendments made by section 903 of Pub. L. 104–106 (amending this section and sections 138, 176, 1056, 1216, 1587, and 10201 of this title, repealing sections 133a, 134a, 137, and 142 of this title, and amending provisions set out as a note under section 167 of this title) were to take effect on Jan. 31, 1997, was repealed by Pub. L. 104–201, div. A, title IX, §901, Sept. 23, 1996, 110 Stat. 2617.
 
 #### Redesignation of Certain Positions in Office of Secretary of Defense
 
@@ -150,7 +150,7 @@ References.—Any reference in any law, rule, regulation, paper, or other record
 
 #### Inapplicability of Appointment Requirement to Certain Individuals Serving on Effective Date
 
-Pub. L. 111–383, div. A, title IX, §901(<i>o</i>), Jan. 7, 2011, 124 Stat. 4327, provided that:
+Pub. L. 111–383, div. A, title IX, §901(o), Jan. 7, 2011, 124 Stat. 4327, provided that:
 
 “(1)
 
@@ -172,7 +172,7 @@ Pub. L. 105–85, div. A, title IX, §912(a)–(e), Nov. 18, 1997, 111 Stat. 186
 
 #### Reduction of Personnel Assigned to Office of the Secretary of Defense
 
-Section 903 of Pub. L. 104–201, which provided for phased reduction of number of personnel assigned to or employed in functions in Office of the Secretary of Defense, was repealed and restated in section 143 of this title by Pub. L. 105–85, div. A, title IX, §911(d)(1), (3), Nov. 18, 1997, 111 Stat. 1859, 1860.
+Pub. L. 104–201, div. A, title IX, §903, Sept. 23, 1996, 110 Stat. 2617, which provided for phased reduction of number of personnel assigned to or employed in functions in Office of the Secretary of Defense, was repealed and restated in section 143 of this title by Pub. L. 105–85, div. A, title IX, §911(d)(1), (3), Nov. 18, 1997, 111 Stat. 1859, 1860.
 
 #### Organization of Office of the Secretary of Defense
 

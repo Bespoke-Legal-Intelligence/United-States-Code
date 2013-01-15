@@ -40,13 +40,13 @@ The Administration shall develop an expedited procedure for processing a loan ap
 
 #### (e) “Qualified State or local development company” defined
 
-For purposes of this section, the term “qualified State or local development company” has the same meaning as in section 697(e) of this title.
+For purposes of this section, the term “qualified State or local development company” hasthe same meaning as in section 697(e) of this title.
 
 (Pub. L. 85–699, title V, §507, as added Pub. L. 103–403, title II, §212(a), Oct. 22, 1994, 108 Stat. 4183.)
 
 #### Regulations
 
-Section 212(b) of Pub. L. 103–403 provided that: “Not later than 120 days after the date of enactment of this Act \[Oct. 22, 1994\], the Administration shall promulgate final regulations to carry out this section \[enacting this section and provisions set out below\].”
+Pub. L. 103–403, title II, §212(b), Oct. 22, 1994, 108 Stat. 4184, provided that: “Not later than 120 days after the date of enactment of this Act \[Oct. 22, 1994\], the Administration shall promulgate final regulations to carry out this section \[enacting this section and provisions set out below\].”
 
 #### Report on Implementation of Program
 

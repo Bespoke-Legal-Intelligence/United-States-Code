@@ -6,7 +6,7 @@
 
 #### Annual Report to Congress on Employees or Members of Armed Services Detailed to Executive Agencies; Exemptions
 
-Pub. L. 103–329, title VI, §619, Sept. 30, 1993, 108 Stat. 2420, which directed each Executive agency detailing personnel submit an annual report to Senate and House Committees on Appropriations on all employees or members of armed services detailed to Executive agencies, listing grade, position, and offices of each person detailed and agency to which each such person was detailed, with exemptions for certain intelligence agencies, terminated, effective May 15, 2000, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 151 of House Document No. 103–7. Similar provisions were contained in the following prior appropriations acts:
+Pub. L. 103–329, title VI, §619, Sept. 30, 1993, 108 Stat. 2420, which directed each Executive agency detailing personnel submit an annual report to Senate and House Committees on Appropriations on all employees or members of armed services detailed to Executive agencies, listing grade, position, and offices of each person detailed and agency to which each such person was detailed, with exemptions for certain intelligence agencies, terminated, effective May 15, 2000, see section 3003 of Pub. L. 104–66, as amended, set out as a note undersection 1113 of Title 31, Money and Finance, and page 151 of House Document No. 103–7. Similar provisions were contained in the following prior appropriations acts:
 
 Pub. L. 103–123, title VI, §617, Oct. 28, 1993, 107 Stat. 1263.
 

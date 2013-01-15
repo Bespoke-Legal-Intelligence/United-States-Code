@@ -18,7 +18,7 @@ The Secretary of Commerce (hereinafter referred to as the “Secretary”) is au
 
 &emsp;(E) the ability to provide market analysis of the export potential of small business concerns; and
 
-&emsp;(F) the capability for developing contacts with potential foreign customers and distributors for  small  business  and  their  products, including arrangements and sponsorship of foreign trade missions for small business concerns to meet with identified potential customers, distributors, sales representatives, and organizations interested in licensing or joint ventures: <i>Provided, however</i>, That no portion of any Federal funds may be used to directly underwrite any small business participation in foreign trade missions abroad.
+&emsp;(F) the capability for developing contacts with potential foreign customers and distributors for  small  business  and  their  products,including arrangements and sponsorship of foreign trade missions for small business concerns to meet with identified potential customers, distributors, sales representatives, and organizations interested in licensing or joint ventures: <i>Provided, however</i>, That no portion of any Federal funds may be used to directly underwrite any small business participation in foreign trade missions abroad.
 
 (2) Program services shall be provided to small business concerns through outreach services at the most local level practicable.
 
@@ -68,7 +68,7 @@ Advisory boards established after Jan. 5, 1973, to terminate not later than the 
 
 #### State Trade and Export Promotion Grant Program
 
-Pub. L. 111–240, title I, §1207, Sept. 27, 2010, 124 Stat. 2532, provided that:
+Pub. L. 111–240, title I, §1207, Sept. 27, 2010, 124 Stat. 2532, as amended by Pub. L. 112–239, div. A, title XVI, §1699a, Jan. 2, 2013, 126 Stat. 2092, provided that:
 
 “(a)
 
@@ -90,11 +90,11 @@ Definitions.—In this section—
 
 &emsp;“(4) the term ‘socially and economically disadvantaged small business concern’ has the meaning given that term in section 8(a)(4)(A) of the Small Business Act (15 U.S.C. 6537(a)(4)(A) \[637(a)(4)(A)\]); and
 
-&emsp;“(5) the term ‘State’ means each of the several States, the District of Columbia, the Commonwealthof Puerto Rico, the Virgin Islands, Guam, and American Samoa.
+&emsp;“(5) the term ‘State’ means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, the Commonwealth of the Northern Mariana Islands, and American Samoa.
 
 “(b)
 
-Establishment of Program.—The Associate Administrator shall establish a 3-year trade and export promotion pilot program to be known as the State Trade and Export Promotion Grant Program, to make grants to States to carry out export programs that assist eligible small business concerns in—
+Establishment of Program.—The Associate Administrator shall establish a 3-year trade and export promotion pilot program to be known as the State Trade and Export Promotion Grant Program, to makegrants to States to carry out export programs that assist eligible small business concerns in—
 
 &emsp;“(1) participation in a foreign trade mission;
 

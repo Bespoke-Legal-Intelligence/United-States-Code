@@ -54,7 +54,7 @@ Return of possessions.—An assurance that, if requested by the family of a pass
 
 &emsp;(7)
 
-Unclaimed possessions retained.—An assurance that any unclaimed possession of a passenger within the control of the foreign aircarrier will be retained by the foreign air carrier for not less than 18 months after the date of the accident.
+Unclaimed possessions retained.—An assurance that any unclaimed possession of a passenger within the control of the foreign air carrier will be retained by the foreign air carrier for not less than 18 months after the date of the accident.
 
 &emsp;(8)
 
@@ -110,7 +110,7 @@ Simultaneous electronic transmission of ntsb hearing.—An assurance that, in th
 
 (d)
 
-Permit and Exemption Requirement.—The Secretary shall not approve an application for a permit under section 41302 unless the applicant has included as part of the application or request for exemption a plan that meets the requirements of subsection (c).
+Permit and Exemption Requirement.—The Secretary shall not approve an application for apermit under section 41302 unless the applicant has included as part of the application or request for exemption a plan that meets the requirements of subsection (c).
 
 (e)
 

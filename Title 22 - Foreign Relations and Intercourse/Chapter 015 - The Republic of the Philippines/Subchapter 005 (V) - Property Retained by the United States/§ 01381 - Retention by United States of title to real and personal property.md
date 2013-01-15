@@ -6,5 +6,5 @@ There shall remain vested in the Government of the United States or its agencies
 
 #### Short Title
 
-Section 1 of act July 3, 1946, provided that: “This Act \[enacting this subchapter\] may be cited as the ‘Philippine Property Act of 1946’.”
+Act July 3, 1946, ch. 536, §1, 60 Stat. 418, provided that: “This Act \[enacting this subchapter\] may be cited as the ‘Philippine Property Act of 1946’.”
 

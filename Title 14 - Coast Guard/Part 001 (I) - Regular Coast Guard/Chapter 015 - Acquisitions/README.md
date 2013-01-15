@@ -13,6 +13,7 @@
 | [567\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000567%20-%20Undefinitized%20contractual%20actions.md) | Undefinitized contractual actions. |
 | [568\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000568%20-%20Guidance%20on%20excessive%20pass-through%20charges.md) | Guidance on excessive pass-through charges. |
 | [569\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000569%20-%20Report%20on%20former%20Coast%20Guard%20officials%20employed%20by%20contractors%20to%20the%20agency.md) | Report on former Coast Guard officials employed by contractors to the agency. |
+| [569a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000569a%20-%20Major%20acquisitions.md) | Major acquisitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -31,6 +32,7 @@
 | [574\.](Subchapter%20002%20%28II%29%20-%20Improved%20Acquisition%20Process%20and%20Procedures/%C2%A7%2000574%20-%20Acquisition%2C%20production%2C%20deployment%2C%20and%20support.md) | Acquisition, production, deployment, and support. |
 | [575\.](Subchapter%20002%20%28II%29%20-%20Improved%20Acquisition%20Process%20and%20Procedures/%C2%A7%2000575%20-%20Acquisition%20program%20baseline%20breach.md) | Acquisition program baseline breach. |
 | [576\.](Subchapter%20002%20%28II%29%20-%20Improved%20Acquisition%20Process%20and%20Procedures/%C2%A7%2000576%20-%20Acquisition%20approval%20authority.md) | Acquisition approval authority. |
+| [577\.](Subchapter%20002%20%28II%29%20-%20Improved%20Acquisition%20Process%20and%20Procedures/%C2%A7%2000577%20-%20Advance%20procurement%20funding.md) | Advance procurement funding. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -45,6 +47,10 @@
 #### Prior Provisions
 
 A prior chapter 15 of this title, consisting of sections 561 to 576 and relating to Coast Guard discipline, was repealed by act May 5, 1950, ch. 169, §14(v), 64 Stat. 148.
+
+#### Amendments
+
+<b>2012</b>—Pub. L. 112–213, title II, §§210(b), 211(b), Dec. 20, 2012, 126 Stat. 1551, 1552, added items 569a and 577.
 
 <i><sup>1</sup></i><i> So in original. “Sec.” probably should not appear.</i>
 

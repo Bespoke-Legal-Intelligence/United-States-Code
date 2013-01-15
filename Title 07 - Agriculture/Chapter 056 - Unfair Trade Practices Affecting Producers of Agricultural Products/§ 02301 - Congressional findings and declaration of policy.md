@@ -8,5 +8,5 @@ It is, therefore, declared to be the policy of Congress and the purpose of this 
 
 #### Short Title
 
-Section 1 of Pub. L. 90–288 provided that: “This Act \[enacting this chapter\] shall be known as the ‘Agricultural Fair Practices Act of 1967’.”
+Pub. L. 90–288, §1, Apr. 16, 1968, 82 Stat. 93, provided: “That this Act \[enacting this chapter\] shall be known as the Agricultural Fair Practices Act of 1967.”
 

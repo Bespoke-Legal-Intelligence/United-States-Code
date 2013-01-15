@@ -18,7 +18,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 #### Effective Date
 
-Section 6 of Pub. L. 85–623 provided that: “This Act \[enacting this chapter and amending section 1716 of Title 18, Crimes and Criminal Procedure\] shall take effect on the sixtieth day after the date of its enactment \[Aug. 12, 1958\].”
+Pub. L. 85–623, §6, Aug. 12, 1958, 72 Stat. 563, provided that: “This Act \[enacting this chapter and amending section 1716 of Title 18, Crimes and Criminal Procedure\] shall take effect on the sixtieth day after the date of its enactment \[Aug. 12, 1958\].”
 
 #### Short Title of 1986 Amendment
 

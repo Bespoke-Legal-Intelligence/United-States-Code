@@ -16,9 +16,9 @@
 
 &emsp;(ii) may not include the provision of any loan or subsistence allowance or any automobile adaptive equipment of the kind provided under chapter 39 of this title; and
 
-&emsp;(iii) may include a program of education at an institution of higher learning (as defined insections 3452(b) and 3452(f), respectively, of this title) only in a case in which the Secretary determines that the program involved is predominantly vocational in content.
+&emsp;(iii) may include a program of education at an institution of higher learning (as defined in sections 3452(b) and 3452(f), respectively, of this title) only in a case in which the Secretary determines that the program involved is predominantly vocational in content.
 
-(3) When a veteran completes a vocational training program under this subsection, the Secretary may provide the veteran with counseling of the kind described in section 3104(a)(2) of this title, placement and postplacement services of the kind described in section 3104(a)(5) of this title, and training of the kind described in section 3104(a)(6) of this title during a period not to exceed 18 months beginning on the date of such completion.
+(3) When a veteran completes a vocational training program under this subsection, the Secretary may provide the veteran with counseling of the kind described in section 3104(a)(2) of this title, placement and postplacement services ofthe kind described in section 3104(a)(5) of this title, and training of the kind described in section 3104(a)(6) of this title during a period not to exceed 18 months beginning on the date of such completion.
 
 (4) A veteran may not begin pursuit of a vocational training program under this subsection after the later of (A) December 31, 1995, or (B) the end of a reasonable period of time, as determined by the Secretary, following either the evaluation of the veteran under subsection (a) of this section or the award of pension to the veteran as described in subsection (a)(2) of this section. Any determination by the Secretary of such a reasonable period of time shall be made pursuant to regulations which the Secretary shall prescribe.
 

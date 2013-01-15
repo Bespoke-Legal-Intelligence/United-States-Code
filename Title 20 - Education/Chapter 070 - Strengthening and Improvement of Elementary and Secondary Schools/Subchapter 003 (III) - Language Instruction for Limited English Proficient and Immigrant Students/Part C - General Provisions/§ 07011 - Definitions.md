@@ -16,7 +16,7 @@ Except as otherwise provided, in this subchapter:
 
 #### (4) Director
 
-&emsp;The term “Director” means the Director of the Office of English Language Acquisition, Language Enhancement, and AcademicAchievement for Limited English Proficient Students established under section 3420 of this title.
+&emsp;The term “Director” means the Director of the Office of English Language Acquisition, Language Enhancement, and Academic Achievement for Limited English Proficient Students established under section 3420 of this title.
 
 #### (5) Family education program
 

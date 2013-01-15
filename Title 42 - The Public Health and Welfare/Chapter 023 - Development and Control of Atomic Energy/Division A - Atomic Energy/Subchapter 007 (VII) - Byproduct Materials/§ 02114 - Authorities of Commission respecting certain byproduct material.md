@@ -32,7 +32,7 @@ The Solid Waste Disposal Act, as amended, referred to in subsec. (a)(3), is titl
 
 #### Amendments
 
-<b>1983</b>—Subsec. (a)(1). Pub. L. 97–415, §22(a), inserted provision that the Commission is to take into account the risk to the public health, safety, and the environment, with due consideration of the economic costs and such other factors as the Commission determines to be appropriate.
+<b>1983</b>—Subsec. (a)(1). Pub. L. 97–415, §22(a), inserted provision that the Commission is to take into accountthe risk to the public health, safety, and the environment, with due consideration of the economic costs and such other factors as the Commission determines to be appropriate.
 
 Subsec. (c). Pub. L. 97–415, §20, added subsec. (c).
 

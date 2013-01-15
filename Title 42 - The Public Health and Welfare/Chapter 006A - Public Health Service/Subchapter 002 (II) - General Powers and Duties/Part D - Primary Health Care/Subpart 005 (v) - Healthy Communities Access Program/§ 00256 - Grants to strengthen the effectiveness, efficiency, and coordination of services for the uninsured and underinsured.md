@@ -36,7 +36,7 @@ To be eligible to receive a grant under this section, an entity shall be an enti
 
 &emsp;&emsp;(C) describes the activities that the applicant and the consortium propose to perform under the grant to further the objectives of this section;
 
-&emsp;&emsp;(D) demonstrates the consortium's ability to build on the current system (as of the date of submission of the application) forserving a community or geographic area of uninsured and underinsured individuals by involving providers who have traditionally provided a significant volume of care for that community;
+&emsp;&emsp;(D) demonstrates the consortium's ability to build on the current system (as of the date of submission of the application) for serving a community or geographic area of uninsured and underinsured individuals by involving providers who have traditionallyprovided a significant volume of care for that community;
 
 &emsp;&emsp;(E) demonstrates the consortium's ability to develop coordinated systems of care that either directly provide or ensure the prompt provision of a broad range of high-quality, accessible services, including, as appropriate, primary, secondary, and tertiary services, as well as substance abuse treatment and mental health services in a manner that assures continuity of care in the community or geographic area;
 
@@ -208,7 +208,7 @@ The Secretary may make demonstration awards under this section to historically b
 
 There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 2002 through 2006.
 
-#### (<i>l</i>) Date certain for termination of program
+#### (l) Date certain for termination of program
 
 Funds may not be appropriated to carry out this section after September 30, 2006.
 

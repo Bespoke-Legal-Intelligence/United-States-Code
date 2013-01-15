@@ -6,15 +6,51 @@ Funding.—
 
 &emsp;(1)
 
-In general.—There is authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) to carry out this chapter $122,000,000 for each of fiscal years 2005 through 2009.
+Spending and borrowing authority.—Spending and borrowing authority for a fiscal year to enter into Federal credit instruments shall be promptly apportioned to the Secretary on a fiscal-year basis.
 
 &emsp;(2)
 
-Availability.—Amounts made available to carry out this chapter shall remain available until expended.
+Reestimates.—If the subsidy cost of a Federal credit instrument is reestimated, the cost increase or decrease of the reestimate shall be borne by, or benefit, the general fund of the Treasury, consistent with section 504(f) the Congressional Budget Act of 1974 (2 U.S.C. 661c(f)).
 
 &emsp;(3)
 
-Administrative costs.—From funds made available to carry out this chapter, the Secretary may use, for the administration of this chapter, not more than $2,200,000 for each of fiscal years 2005 through 2009.
+Rural set-aside.—
+
+&emsp;&emsp;(A)
+
+In general.—Of the total amount of funds made available to carry out this chapter for each fiscal year, not more than 10 percent shall be set aside for rural infrastructure projects.
+
+&emsp;&emsp;(B)
+
+Reobligation.—Any amounts set aside under subparagraph (A) that remain unobligated by June 1 of the fiscal year for which the amounts were set aside shall be available for obligation by the Secretary onprojects other than rural infrastructure projects.
+
+&emsp;(4)
+
+Redistribution of authorized funding.—
+
+&emsp;&emsp;(A)
+
+In general.—Beginning in fiscal year 2014, on April 1 of each fiscal year, if the cumulative unobligated and uncommitted balance of funding available exceeds 75 percent of the amount made available to carry out this chapter for that fiscal year, the Secretary shall distribute to the States the amount of funds and associated obligation authority in excess of that amount.
+
+&emsp;&emsp;(B)
+
+Distribution.—The amounts and obligation authority distributed under this paragraph shall be distributed, in the same manner as obligation authority is distributed to the States for the fiscal year, based on the proportion that—
+
+&emsp;&emsp;&emsp;(i) the relative share of each State of obligation authority for the fiscal year; bears to
+
+&emsp;&emsp;&emsp;(ii) the total amount of obligation authority distributed to all States for the fiscal year.
+
+&emsp;&emsp;(C)
+
+Purpose.—Funds distributed under subparagraph (B) shall be available for any purpose described in section 133(b).
+
+&emsp;(5)
+
+Availability.—Amounts made available to carry out this chapter shall remain available until expended.
+
+&emsp;(6)
+
+Administrative costs.—Of the amounts made available to carry out this chapter, the Secretary may use not more than 0.50 percent for each fiscal year for the administration of this chapter.
 
 (b)
 
@@ -22,15 +58,17 @@ Contract Authority.—
 
 &emsp;(1)
 
-In general.—Notwithstanding any other provision of law, approval by the Secretary of a Federal credit instrument that uses funds made available under this chapter shall impose upon the United States a contractual obligation to fund the Federal credit investment.
+In general.—Notwithstanding any other provision of law, execution of a term sheet by the Secretary of a Federal credit instrument that uses amounts made available under this chapter shall impose on the United States a contractual obligation to fund the Federal credit investment.
 
 &emsp;(2)
 
-Availability.—Amounts authorized under this section for a fiscal year shall be available for obligation on October 1 of the fiscal year.
+Availability.—Amounts made available to carry out this chapter for a fiscal year shall be available for obligation on October 1 of the fiscal year.
 
-(Added and amended Pub. L. 105–178, title I, §1503(a), (c), June 9, 1998, 112 Stat. 249, §188; Pub. L. 105–206, title IX, §9007(a), July 22, 1998, 112 Stat. 849; Pub. L. 108–88, §5(a)(10), Sept. 30, 2003, 117 Stat. 1115; Pub. L. 108–202, §5(a)(10), Feb. 29, 2004, 118 Stat. 481; Pub. L. 108–224, §4(a)(10), Apr. 30, 2004, 118 Stat. 629; Pub. L. 108–263, §4(a)(10), June 30, 2004, 118 Stat. 700; Pub. L. 108–280, §4(a)(10), July 30, 2004, 118 Stat. 879; Pub. L. 108–310, §5(a)(10), Sept. 30, 2004, 118 Stat. 1149; Pub. L. 109–14, §4(a)(10), May 31, 2005, 119 Stat. 327; Pub. L. 109–20, §4(a)(10), July 1, 2005, 119 Stat. 348; Pub. L. 109–35, §4(a)(10), July 20, 2005, 119 Stat. 381; Pub. L. 109–37, §4(a)(10), July 22, 2005, 119 Stat. 396; Pub. L. 109–40, §4(a)(10), July 28, 2005, 119 Stat. 413; renumbered §608 and amended Pub. L. 109–59, title I, §§1601(g), 1602(b)(5), (d), Aug. 10, 2005, 119 Stat. 1242, 1247.)
+(Added and amended Pub. L. 105–178, title I, §1503(a), (c), June 9, 1998, 112 Stat. 249, §188; Pub. L. 105–206, title IX, §9007(a), July 22, 1998, 112 Stat. 849; Pub. L. 108–88, §5(a)(10), Sept. 30, 2003, 117 Stat. 1115; Pub. L. 108–202, §5(a)(10), Feb. 29, 2004, 118 Stat. 481; Pub. L. 108–224, §4(a)(10), Apr. 30, 2004, 118 Stat. 629; Pub. L. 108–263, §4(a)(10), June 30, 2004, 118 Stat. 700; Pub. L. 108–280, §4(a)(10), July 30, 2004, 118 Stat. 879; Pub. L. 108–310, §5(a)(10), Sept. 30, 2004, 118 Stat. 1149; Pub. L. 109–14, §4(a)(10), May 31, 2005, 119 Stat. 327; Pub. L. 109–20, §4(a)(10), July 1, 2005, 119 Stat. 348; Pub. L. 109–35, §4(a)(10), July 20, 2005, 119 Stat. 381; Pub. L. 109–37, §4(a)(10), July 22, 2005, 119 Stat. 396; Pub. L. 109–40, §4(a)(10), July 28, 2005, 119 Stat. 413; renumbered §608 and amended Pub. L. 109–59, title I, §§1601(g), 1602(b)(5), (d), Aug. 10, 2005, 119 Stat. 1242, 1247; Pub. L. 112–141, div. A, title II, §2002, July 6, 2012, 126 Stat. 620.)
 
 #### Amendments
+
+<b>2012</b>—Pub. L. 112–141 amended section generally. Prior to amendment, section related to funding for fiscal years 2005 through 2009 and contract authority.
 
 <b>2005</b>—Pub. L. 109–59, §1602(d), renumbered section 188 of this title as this section.
 
@@ -72,7 +110,7 @@ Pub. L. 109–20, §4(a)(10)(C), substituted “$2,080,000,000” for “$1,950,
 
 Pub. L. 109–14, §4(a)(10)(C), substituted “$1,950,000,000” for “$1,733,333,333” in item relating to fiscal year 2005 in table.
 
-<b>2004</b>—Subsec. (a)(1)(F). Pub. L. 108–280, §4(a)(10)(A), added subpar. (F) and struck out former subpar. (F) which read as follows: “$116,666,667 for the period of October 1, 2003, through July 31, 2004.”
+<b>2004</b>—Subsec. (a)(1)(F). Pub. L. 108–280, §4(a)(10)(A), added subpar. (F) and struck out former subpar. (F)which read as follows: “$116,666,667 for the period of October 1, 2003, through July 31, 2004.”
 
 Pub. L. 108–263, §4(a)(10)(A), added subpar. (F) and struck out former subpar. (F) which read as follows: “$105,000,000 for the period of October 1, 2003, through June 30, 2004.”
 
@@ -122,6 +160,10 @@ Subsec. (c). Pub. L. 105–178, §1503(c)(2), as added by Pub. L. 105–206, §9
 | &nbsp;2001 | $1,800,000,000&nbsp; |
 | &nbsp;2002 | $2,300,000,000&nbsp; |
 | &nbsp;2003 | $2,300,000,000.” |
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
 
 #### Effective Date of 1998 Amendment
 

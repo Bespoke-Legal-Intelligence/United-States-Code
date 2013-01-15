@@ -22,7 +22,7 @@ Scope of Program.—(1) To the extent practicable, the program shall provide bot
 
 (d)
 
-Duration.—The authority of the Secretaries to provide referral and counseling services under the demonstration program shall cease on September 30, 2012.
+Duration.—The authority of the Secretaries to provide referral and counseling services under the demonstration program shall cease on September 30, 2013.
 
 (e)
 
@@ -32,7 +32,7 @@ Definition.—In this section, the term “eligible veteran” means a veteran w
 
 &emsp;(2) is at risk for homelessness absent referral and counseling services provided under the demonstration program (as determined under guidelines established by the Secretaries).
 
-(Added Pub. L. 107–95, §5(a)(1), Dec. 21, 2001, 115 Stat. 912; amended Pub. L. 110–28, title V, §5705, May 25, 2007, 121 Stat. 170; Pub. L. 110–387, title VI, §602(a)–(d)(2), Oct. 10, 2008, 122 Stat. 4132.)
+(Added Pub. L. 107–95, §5(a)(1), Dec. 21, 2001, 115 Stat. 912; amended Pub. L. 110–28, title V, §5705, May 25, 2007, 121 Stat. 170; Pub. L. 110–387, title VI, §602(a)–(d)(2), Oct. 10, 2008, 122 Stat. 4132; Pub. L. 112–239, div. A, title V, §590, Jan. 2, 2013, 126 Stat. 1769.)
 
 #### Prior Provisions
 
@@ -40,7 +40,9 @@ Prior sections 2023 to 2027 were renumbered sections 4303 to 4307 of this title,
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–387, §602(d)(2), amended section catchline generally. Prior to amendment, catchlineread as follows: “Demonstration program of referral and counseling for veterans transitioning from certain institutions who are at risk for homelessness”.
+<b>2013</b>—Subsec. (d). Pub. L. 112–239 substituted “September 30, 2013” for “September 30, 2012”.
+
+<b>2008</b>—Pub. L. 110–387, §602(d)(2), amended section catchline generally. Prior to amendment, catchline read as follows: “Demonstration program of referral and counseling for veterans transitioning from certain institutions who are at risk for homelessness”.
 
 Subsec. (a). Pub. L. 110–387, §602(a), substituted “a program of” for “a demonstration program for the purpose of determining the costs and benefits of providing”.
 

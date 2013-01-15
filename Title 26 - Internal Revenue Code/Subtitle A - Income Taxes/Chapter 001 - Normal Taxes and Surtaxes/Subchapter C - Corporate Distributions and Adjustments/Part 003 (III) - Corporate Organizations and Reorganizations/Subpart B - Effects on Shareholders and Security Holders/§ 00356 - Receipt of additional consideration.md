@@ -106,7 +106,7 @@ Amendment by Pub. L. 105–34 applicable, with certain exceptions, to transactio
 
 #### Effective Date of 1982 Amendment
 
-Section 227(c)(2) of Pub. L. 97–248 provided that: “The amendment made by subsection (b) \[amending this section\] shall apply to distributions after August 31, 1982, in taxable years ending after such date.”
+Pub. L. 97–248, title II, §227(c)(2), Sept. 3, 1982, 96 Stat. 492, provided that: “The amendment made by subsection (b) \[amending this section\] shall apply to distributions after August 31, 1982, in taxable years ending after such date.”
 
 #### Effective Date of 1976 Amendment
 

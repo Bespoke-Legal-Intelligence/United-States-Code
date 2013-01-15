@@ -74,5 +74,5 @@ Title 51, National and Commercial Space Programs—Pub. L. 111–314, §3, Dec. 
 
 #### Title 26, Internal Revenue Code
 
-The Internal Revenue Code of 1954 was enacted in the form of a separate code by act Aug. 16, 1954, ch. 736, 68A Stat. 1. Pub. L. 99–514, §2(a), Oct. 22, 1986, 100 Stat. 2095, provided that the Internal Revenue Title enacted Aug. 16, 1954, as heretofore, hereby, or hereafter amended, may be cited as the “Internal Revenue Code of 1986”.The sections of Title 26, United States Code, are identical to the sections of the Internal Revenue Code.
+The Internal Revenue Code of 1954 was enacted in the form of a separate code by act Aug. 16, 1954, ch. 736, 68A Stat. 1. Pub. L. 99–514, §2(a), Oct. 22, 1986, 100 Stat. 2095, provided that the Internal Revenue Title enacted Aug. 16, 1954, as heretofore, hereby, or hereafter amended, may be cited as the “Internal Revenue Code of 1986”. The sections of Title 26, United States Code, are identical to the sections of the Internal Revenue Code.
 

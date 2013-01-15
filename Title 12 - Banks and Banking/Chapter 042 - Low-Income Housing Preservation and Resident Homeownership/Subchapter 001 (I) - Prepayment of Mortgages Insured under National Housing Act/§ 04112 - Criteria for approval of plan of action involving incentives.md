@@ -32,7 +32,7 @@ The Secretary may approve a plan of action for extension of the low-income affor
 
 &emsp;&emsp;&emsp;(i) made by applying an annual factor (to be determined by the Secretary) to the portion of rent attributable to operating expenses for the housing and, where the owner is a priority purchaser, to the portion of rent attributable to project oversight costs; and
 
-&emsp;&emsp;&emsp;(ii) subject to a procedure, established by the Secretary, for owners to apply for rent increases not adequately compensated by annual adjustment under clause (i), under which the Secretary may increase rents in excess of the amount determined under clause (i) only if the Secretary determines such increases are necessary to reflect extraordinary necessary expenses of owning and maintaining the housing; and
+&emsp;&emsp;&emsp;(ii) subject to a procedure, established by the Secretary, for owners to apply for rent increases not adequately compensated byannual adjustment under clause (i), under which the Secretary may increase rents in excess of the amount determined under clause (i) only if the Secretary determines such increases are necessary to reflect extraordinary necessary expenses of owning and maintaining the housing; and
 
 &emsp;&emsp;(H) any savings from reductions in operating expenses due to management efficiencies shall be deposited in project reserves for replacement and the owner shall have periodic access to such reserves, to the extent the Secretary determines that the level of reserves is adequate and that the housing is maintained in accordance with the standards established under subsection (d) of this section; and
 
@@ -54,7 +54,7 @@ Any agreement to maintain the low-income affordability restrictions for the rema
 
 #### (3) Owner petition
 
-&emsp;The Secretary shall establish a procedure under which owners of eligible low-income housing may petition the Secretary for a determination that the useful life of such housing has expired. The procedure shall not permit such a petition before the expiration of the 50-year period beginning upon the approval of a plan of action under this subchapter with respect to such housing. In making a determination pursuant to a petition under this paragraph, the Secretary shall presume that the useful life of the housing has not expired, and the owner shall have the burden of proof in establishing such expiration. The Secretarymay not determine that the useful life of any housing has expired if such determination results primarily from failure to make regular and reasonable repairs and replacement, as became necessary.
+&emsp;The Secretary shall establish a procedure under which owners of eligible low-income housing may petition the Secretary for a determination that the useful life of such housing has expired. The procedure shall not permit such a petition before the expiration of the 50-year period beginning upon the approval of a plan of action under this subchapter with respect to such housing. In making a determination pursuant to a petition under this paragraph, the Secretary shall presume that the useful life of the housing has not expired, and the owner shall have the burden of proof in establishing such expiration. The Secretary may not determine that the useful life of any housing has expired if such determination results primarily from failure to make regular and reasonable repairs and replacement, as became necessary.
 
 #### (4) Tenant and community comment and appeal
 
@@ -84,7 +84,7 @@ Any agreement to maintain the low-income affordability restrictions for the rema
 
 &emsp;&emsp;If, upon inspection, the Secretary determines that any eligible low income housing project has failed to comply with the standards established under this subsection for 2 consecutive years, the Secretary may take 1 or more of the following actions:
 
-&emsp;&emsp;&emsp;(i) Subject to availability of amounts provided in appropriations Acts, provide assistance under sections 1437f(b) and 1437f(<i>o</i>) of title 42 (other than project-based assistance attached to the housing) for any tenant eligible for such assistance who desires to terminate occupancy in the housing. For each unit in the housing vacated pursuant to the provision of assistance under this clause, the Secretary may, notwithstanding any other law or contract for assistance, cancel the provision of project-based assistance attached to the housing for 1 dwelling unit, if the housing is receiving such assistance.
+&emsp;&emsp;&emsp;(i) Subject to availability of amounts provided in appropriations Acts, provideassistance under sections 1437f(b) and 1437f(o) of title 42 (other than project-based assistance attached to the housing) for any tenant eligible for such assistance who desires to terminate occupancy in the housing. For each unit in the housing vacated pursuant to the provision of assistance under this clause, the Secretary may, notwithstanding any other law or contract for assistance, cancel the provision of project-based assistance attached to the housing for 1 dwelling unit, if the housing is receiving such assistance.
 
 &emsp;&emsp;&emsp;(ii) In the case of housing for which an equity take-out loan has been made under section 1715z–6(f) <sup>4</sup> of this title, declare such loan to be in default and accelerate the maturity date of the loan.
 
@@ -148,9 +148,9 @@ Windfall Profits.—The Secretary shall submit a report to the Congress not late
 
 #### Effective and Termination Dates of 1994 Amendment
 
-Title II of Pub. L. 103–327, Sept. 28, 1994, 108 Stat. 2316, provided in part that: “Section 601 \[amending this section and section 4119 of this title and enacting provisions set out below\] of title VI of S. 2281 (103d Cong., 2d Sess\[.\]), as reported to the Senate on July 13 (legislative day, July 11), 1994 (S. Rep. 103–307), is hereby incorporated into this Act \[Pub. L. 103–327\], and such section 601 is deemed enacted into law upon enactment of this Act \[Sept. 28, 1994\]: <i>Provided</i>, That the provisions of such section 601 shall be effective only during fiscal year 1995.”
+Pub. L. 103–327, title II, Sept. 28, 1994, 108 Stat. 2316, provided in part that: “Section 601 \[amending this section and section 4119 of this title and enacting provisions set out below\] of title VI of S. 2281 (103d Cong., 2d Sess\[.\]), as reported to the Senate on July 13 (legislative day, July 11), 1994 (S. Rep. 103–307), is hereby incorporated into this Act \[Pub. L. 103–327\], and such section 601 is deemed enacted into law upon enactment of this Act \[Sept. 28, 1994\]: <i>Provided</i>, That the provisions of such section 601 shall be effective only during fiscal year 1995.”
 
-Section 601(f) of title VI of S. 2281, One-Hundred Third Congress, as reported July 13, 1994, which was enacted into law by title II of Pub. L. 103–327, Sept. 28, 1994, 108 Stat. 2316, provided in part, that:
+Section 601(f) of title VI of S. 2281, One-Hundred Third Congress, as reported July 13, 1994, which was enacted into law by Pub. L. 103–327, title II \[title VI, §601(f)\], Sept. 28, 1994, 108 Stat. 2316, provided in part, that:
 
 “(1)
 
@@ -162,7 +162,7 @@ Exception.—If an owner of eligible low-income housing has a plan of action tha
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Word “and” probably should not appear.</i>
+<i><sup>2</sup></i><i> So in original. The word “and” probably should not appear.</i>
 
 <i><sup>3</sup></i><i> See References in Text note below.</i>
 

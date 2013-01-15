@@ -78,15 +78,13 @@ Geographic Coverage.—In this section, the term “United States” includes th
 
 Notification Required Within 7
 
-Days After Contract Award If Certain Exceptions Applied.—In the case of any contract for the procurement of an item described in subparagraph (B), (C), (D), or (E) of subsection (b)(1), if the Secretary of Defense or of the military department concerned applies an exception set forth in subsection (c) or (e) with respect to that contract, the Secretary shall, not later than 7 days after the award of the contract, post a notification that the exception has been applied on the Internet site maintained by the GeneralServices Administration known as FedBizOps.gov <sup>1</sup> (or any successor site).
+Days After Contract Award If Certain Exceptions Applied.—In the case of any contract for the procurement of an item described in subparagraph (B), (C), (D), or (E) of subsection (b)(1), if the Secretary of Defense or of the military department concerned applies an exception set forth in subsection (c) or (e) with respect to that contract, the Secretary shall, not later than 7 days after the award of the contract, post a notification that the exception has been applied on the Internet site maintained by the General Services Administration known as FedBizOpps.gov (or any successor site).
 
-(Added Pub. L. 107–107, div. A, title VIII, §832(a)(1), Dec. 28, 2001, 115 Stat. 1189; amended Pub. L. 108–136, div. A, title VIII, §§826, 827, Nov. 24, 2003, 117 Stat. 1548; Pub. L. 109–163, div. A, title VIII, §§831, 833, Jan. 6, 2006, 119 Stat. 3388; Pub. L. 109–364, div. A, title VIII, §842(a)(3), Oct. 17, 2006, 120 Stat. 2337; Pub. L. 111–350, §5(b)(38), Jan. 4, 2011, 124 Stat. 3845; Pub. L. 111–383, div. A, title VIII, §847, title X, §1075(b)(38), Jan. 7, 2011, 124 Stat. 4286, 4371; Pub. L. 112–81, div. A, title VIII, §821, Dec. 31, 2011, 125 Stat. 1502.)
-
-#### References in Text
-
-The Internet site maintained by the General Services Administration known as FedBizOps.gov, referred to in subsec. (k), probably means FedBizOpps.gov or fbo.gov, see 65 F.R. 50872.
+(Added Pub. L. 107–107, div. A, title VIII, §832(a)(1), Dec. 28, 2001, 115 Stat. 1189; amended Pub. L. 108–136, div. A, title VIII, §§826, 827, Nov. 24, 2003, 117 Stat. 1548; Pub. L. 109–163, div. A, title VIII, §§831, 833, Jan. 6, 2006, 119 Stat. 3388; Pub. L. 109–364, div. A, title VIII, §842(a)(3), Oct. 17, 2006, 120 Stat. 2337; Pub. L. 111–350, §5(b)(38), Jan. 4, 2011, 124 Stat. 3845; Pub. L. 111–383, div. A, title VIII, §847, title X, §1075(b)(38), Jan. 7, 2011, 124 Stat. 4286, 4371; Pub. L. 112–81, div. A, titleVIII, §821, Dec. 31, 2011, 125 Stat. 1502; Pub. L. 112–239, div. A, title X, §1076(f)(29), Jan. 2, 2013, 126 Stat. 1953.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (k). Pub. L. 112–239 substituted “FedBizOpps.gov” for “FedBizOps.gov”.
 
 <b>2011</b>—Subsec. (b)(1)(C). Pub. L. 112–81 inserted “(and the structural components thereof)” after “tents”.
 
@@ -184,7 +182,5 @@ Inclusion of Information in New Training Programs.—The Secretary shall ensure 
 
 #### Application of Exception to Seafood Products
 
-Pub. L. 108–287, title VIII, §8118, Aug. 5, 2004, 118 Stat. 998, provided that: “Notwithstanding any other provision of law, section 2533a(f) of title 10, United StatesCode, shall hereafter not apply to any fish, shellfish, or seafood product. This section applies to contracts and subcontracts for the procurement of commercial items notwithstanding section 34 of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 430) \[now 41 U.S.C. 1906\].”
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+Pub. L. 108–287, title VIII, §8118, Aug. 5, 2004, 118 Stat. 998, provided that: “Notwithstanding any other provision of law, section 2533a(f) of title 10, United States Code, shall hereafter not apply to any fish, shellfish, or seafood product. This section applies to contracts and subcontracts for the procurement of commercial items notwithstanding section 34 of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 430) \[now 41 U.S.C. 1906\].”
 

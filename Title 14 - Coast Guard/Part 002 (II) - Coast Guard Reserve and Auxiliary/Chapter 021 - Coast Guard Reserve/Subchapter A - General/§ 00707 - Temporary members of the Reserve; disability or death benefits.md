@@ -6,7 +6,7 @@
 
 (c) If a claim is filed under this section with the Secretary of Labor for benefits because of an alleged injury or death, the Secretary of Labor shall notify the Commandant who shall direct an investigation into the facts surrounding the alleged injury or death. The Commandant shall then certify to the Secretary of Labor whether or not the injured or deceased person was a temporary member of the Reserve, the person's military status, and whether or not the injury or death was incurred incident to military service.
 
-(d) A temporary member of the Reserve, who incurs a physical disability or contracts sickness or disease while performing a duty to whichthe member has been assigned by competent authority, is entitled to the same hospital treatment afforded a member of the Regular Coast Guard.
+(d) A temporary member of the Reserve, who incurs a physical disability or contracts sickness or disease while performing a duty to which the member has been assigned by competent authority, is entitled to the same hospital treatment afforded a member of the Regular Coast Guard.
 
 (e) In administering section 8133 of title 5, for a person covered by this section—
 

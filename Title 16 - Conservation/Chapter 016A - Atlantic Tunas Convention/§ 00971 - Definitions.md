@@ -2,7 +2,7 @@
 
 For the purpose of this chapter—
 
-&emsp;(1) The term “Convention” means the International Convention for the Conservation of Atlantic Tunas, signed at Rio de Janeiro May 14, 1966, including any amendments or protocols which are or become effective for the United States.
+&emsp;(1) The term “Convention” means the International Convention for the Conservation of Atlantic Tunas, signed at Rio de Janeiro May14, 1966, including any amendments or protocols which are or become effective for the United States.
 
 &emsp;(2) The term “Commission” means the International Commission for the Conservation of Atlantic Tunas provided for in article III of the Convention.
 
@@ -48,15 +48,15 @@ Pars. (6) to (11). Pub. L. 104–43, §303(1), redesignated pars. (5) to (10) as
 
 #### Effective Date of 1976 Amendment
 
-Section 405(b) of Pub. L. 94–265 provided that the amendment made by section 405(a) of Pub. L. 94–265 to this section was to take effect Mar. 1, 1977, prior to the general amendment of title IV of Pub. L. 94–265 by Pub. L. 104–297.
+Pub. L. 94–265, title IV, §405(b), Apr. 13, 1976, 90 Stat. 361, provided that the amendment made by section 405(a) of Pub. L. 94–265 to this section was to take effect Mar. 1, 1977, prior to the general amendment of title IV of Pub. L. 94–265 by Pub. L. 104–297.
 
 #### Short Title of 1995 Amendment
 
-Section 301 of title III of Pub. L. 104–43 provided that: “This title \[enacting sections 971j and 971k of this title, amending this section and sections 971b, 971c to 971e, 971h, and 971i of this title, and enacting provisions setout as a note under section 971c of this title\] may be cited as the ‘Atlantic Tunas Convention Authorization Act of 1995’.”
+Pub. L. 104–43, title III, §301, Nov. 3, 1995, 109 Stat. 382, provided that: “This title \[enacting sections 971j and 971k of this title, amending this section and sections 971b, 971c to 971e, 971h, and 971i of this title, and enacting provisions set out as a note under section 971c of this title\] may be cited as the ‘Atlantic Tunas Convention Authorization Act of 1995’.”
 
 #### Short Title
 
-Section 1 of Pub. L. 94–70 provided: “That this Act \[enacting this chapter and provisions set out below\] may be cited as the ‘Atlantic Tunas Convention Act of 1975’.”
+Pub. L. 94–70, §1, Aug. 5, 1975, 89 Stat. 385, provided: “That this Act \[enacting this chapter and provisions set out below\] may be cited as the ‘Atlantic Tunas Convention Act of 1975’.”
 
 #### Separability
 

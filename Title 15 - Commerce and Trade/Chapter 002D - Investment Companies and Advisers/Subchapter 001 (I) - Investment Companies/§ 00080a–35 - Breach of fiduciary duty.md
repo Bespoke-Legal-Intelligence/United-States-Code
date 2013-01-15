@@ -8,7 +8,7 @@ The Commission is authorized to bring an action in the proper district court of 
 
 &emsp;(2) as principal underwriter, if such registered company is an open-end company, unit investment trust, or face-amount certificate company.
 
-> If such allegations are established, the court may enjoin such persons from acting in any or all such capacities either permanently or temporarily and award such injunctive or other relief against such person as may be reasonable and appropriate in the circumstances, having due regard to the protection of investors and to the effectuation of the policies declared in section 80a–1(b) of this title.
+> If such allegations are established, the court may enjoin such persons from acting in any orall such capacities either permanently or temporarily and award such injunctive or other relief against such person as may be reasonable and appropriate in the circumstances, having due regard to the protection of investors and to the effectuation of the policies declared in section 80a–1(b) of this title.
 
 #### (b) Compensation or payments as basis of fiduciary duty; civil actions by Commission or security holder; burden of proof; judicial consideration of director or shareholder approval; persons liable; extent of liability; exempted transactions; jurisdiction; finding restriction
 
@@ -24,7 +24,7 @@ For the purposes of this subsection, the investment adviser of a registered inve
 
 (5) Any action pursuant to this subsection may be brought only in an appropriate district court of the United States.
 
-(6) No finding by a court with respect to a breach of fiduciary duty under this subsection shall be made a basis (A) for a finding of a violation of this subchapter for the purposes of sections 80a–9 and 80a–48 of this title, section 78<i>o</i> of this title, or section 80b–3 of this title, or (B) for an injunction to prohibit any person from serving in any of the capacities enumerated in subsection (a) of this section.
+(6) No finding by a court with respect to a breach of fiduciary duty under this subsection shall be made a basis (A) for a finding of a violation of this subchapter for the purposes of sections 80a–9 and 80a–48 of this title, section 78o of this title, or section 80b–3 of this title, or (B) for an injunction to prohibit any person from serving in any of the capacities enumerated in subsection (a) of this section.
 
 #### (c) Corporate or other trustees performing functions of investment advisers
 

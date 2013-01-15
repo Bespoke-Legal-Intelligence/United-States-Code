@@ -1,10 +1,10 @@
 ### §2117. Breaking or entering carrier facilities
 
-Whoever breaks the seal or lock of any railroad car, vessel, aircraft, motortruck, wagon or other vehicle or of any pipeline system, containing interstate or foreign shipments of freight or express or other property, or enters any such vehicle or pipeline system with intent in either case to commit larceny therein, shall be fined under this title or imprisoned not more than ten years, or both.
+Whoever breaks the seal or lock of any railroad car, vessel, aircraft, motortruck, wagon or other vehicle or of any pipeline system, containing interstate or foreign shipments of freight or express or other property, or enters any such vehicle or pipeline system with intent in either case to commit larceny therein, shall be fined under this title or imprisoned not more than ten years, or both. If the offense involves a pre-retail medical product (as defined in section 670) the punishment for the offense shall be the same as the punishment for an offense under section 670 unless the punishment under this section is greater.
 
 A judgment of conviction or acquittal on the merits under the laws of any State shall be a bar to any prosecution under this section for the same act or acts. Nothing contained in this section shall be construed as indicating an intent on the part of Congress to occupy the field in which provisions of this section operate to the exclusion of State laws on the same subject matter, nor shall any provision of this section be construed as invalidating any provision of State law unless such provision is inconsistent with any of the purposes of this section or any provision thereof.
 
-(June 25, 1948, ch. 645, 62 Stat. 797; May 24, 1949, ch. 139, §44, 63 Stat. 96; Pub. L. 89–654, §2(a)–(c), Oct. 14, 1966, 80 Stat. 904; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 797; May 24, 1949, ch. 139, §44, 63 Stat. 96; Pub. L. 89–654, §2(a)–(c), Oct. 14, 1966, 80 Stat. 904; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 112–186, §4(c), Oct. 5, 2012, 126 Stat. 1429.)
 
 #### Historical and Revision Notes
 
@@ -21,6 +21,8 @@ Minor changes were made in phraseology.
 This section \[section 44\] conforms section 2117 of title 18, U.S.C., more closely with the original law from which it was derived, and with section 659 of such title.
 
 #### Amendments
+
+<b>2012</b>—Pub. L. 112–186 inserted at end of first par. “If the offense involves a pre-retail medical product (as defined in section 670) the punishment for the offense shall be the same as the punishment for an offense under section 670 unless the punishment under this section is greater.”
 
 <b>1994</b>—Pub. L. 103–322, which directed the amendment of section 2217 of this title by substituting “under this title” for “not more than $5,000”, was executed by making the substitution in the first par. of this section, to reflect the probable intent of Congress, because this title does not contain a section 2217.
 

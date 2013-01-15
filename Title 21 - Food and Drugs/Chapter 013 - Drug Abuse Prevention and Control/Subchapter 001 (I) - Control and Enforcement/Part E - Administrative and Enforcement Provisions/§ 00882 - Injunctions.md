@@ -26,7 +26,7 @@ In case of an alleged violation of an injunction or restraining order issued und
 
 &emsp;(A) Prior to filing a complaint under paragraph (1), the State shall serve a copy of the complaint upon the Attorney General and upon the United States Attorney for the judicial district in which the complaint is to be filed. In any case where such prior service is not feasible, the State shall serve the complaint on the Attorney General and the appropriate United States Attorney on the same day that the State's complaint is filed in Federal district court of the United States. Such proceedings shall be independent of, and not in lieu of, criminal prosecutions or any other proceedings under this subchapter or any other laws of the United States.
 
-&emsp;(B) Upon receiving notice respecting a civil action pursuant to this section, the United States shall have the right to intervene in such action and, upon so intervening, to be heard on all matters arising therein, and to file petitions for appeal.
+&emsp;(B) Upon receiving notice respecting a civil action pursuant to this section, the UnitedStates shall have the right to intervene in such action and, upon so intervening, to be heard on all matters arising therein, and to file petitions for appeal.
 
 &emsp;(C) Service of a State's complaint on the United States as required in this paragraph shall be made in accord with the requirements of rule 4(i)(1) of the Federal Rule <sup>1</sup> of Civil Procedure.
 
@@ -62,7 +62,7 @@ This subchapter, referred to in subsecs. (a) and (c)(2)(A), was in the original 
 
 This chapter, referred to in subsec. (c)(3), was in the original “this Act”, meaning Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(6)(B), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§450 et seq.) of chapter 14of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(6)(B), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
 
 #### Amendments
 

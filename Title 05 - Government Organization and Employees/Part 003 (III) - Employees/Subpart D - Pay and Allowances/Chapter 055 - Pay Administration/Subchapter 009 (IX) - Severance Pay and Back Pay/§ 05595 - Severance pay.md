@@ -60,7 +60,7 @@
 
 > Total severance pay under this section may not exceed 1 year's pay at the rate received immediately before separation. For the purpose of this subsection, “basic pay” includes premium pay under section 5545(c)(1) of this title.
 
-(d) If an employee is reemployed by the Government of the United States or the government of the District of Columbia before the end of the period covered by payments of severance pay, the payments shall be discontinued beginning with the date of reemployment and the service represented by the unexpired portion of the period shall be recredited to the employee for use in any later computations of severance pay. For the purpose of subsection (b) (1) of this section,reemployment that causes severance pay to be discontinued is deemed employment continuous with that serving as the basis for severance pay.
+(d) If an employee is reemployed by the Government of the United States or the government of the District of Columbia before the end of the period covered by payments of severance pay, the payments shall be discontinued beginning with the date of reemployment and the service represented by the unexpired portion of the period shall be recredited to the employee for use in any later computations of severance pay. For the purpose of subsection (b) (1) of this section, reemployment that causes severance pay to be discontinued is deemed employment continuous with that serving as the basis for severance pay.
 
 (e) If the employee dies before the end of the period covered by payments of severance pay, the payments of severance pay with respect to the employee shall be continued as if the employee were living and shall be paid on a pay period basis to the survivor of the employee in accordance with section 5582(b) of this title.
 
@@ -108,7 +108,7 @@
 
 (2)(A) If an employee paid severance pay in a lump sum under this subsection is reemployed by the Government of the United States or the government of the District of Columbia at such time that, had the employee been paid severance pay in regular pay periods under subsection (b), the payments of such pay would have been discontinued under subsection (d) upon such reemployment, the employee shall repay to the Department of Defense (for the military department that formerly employed the employee, if applicable) an amount equal to the amount of severance pay to which the employee was entitled under this section that would not have been paid to the employee under subsection (d) by reason of such reemployment.
 
-(B) The period of service represented by an amount of severance pay repaid by an employee under subparagraph (A) shall be considered service for which severance pay has not been received by the employee under this section.
+(B) The period of service represented by an amount of severance pay repaid by an employeeunder subparagraph (A) shall be considered service for which severance pay has not been received by the employee under this section.
 
 (C) Amounts repaid to an agency under this paragraph shall be credited to the appropriation available for the pay of employees of the agency for the fiscal year in which received. Amounts so credited shall be merged with, and shall be available for the same purposes and the same period as, the other funds in that appropriation.
 
@@ -116,7 +116,7 @@
 
 (4) This subsection applies with respect to severance pay payable under this section for separations taking effect on or after February 10, 1996, and before October 1, 2014.
 
-(j)(1) In the case of an employee of the Department of Energy who is entitled to severance payunder this section as a result of the establishment of the National Nuclear Security Administration, the Secretary of Energy may, upon application by the employee, pay the total amount of the severance pay to the employee in one lump sum.
+(j)(1) In the case of an employee of the Department of Energy who is entitled to severance pay under this section as a result of the establishment of the National Nuclear Security Administration, the Secretary of Energy may, upon application by the employee, pay the total amount of the severance pay to the employee in one lump sum.
 
 (2)(A) If an employee paid severance pay in a lump sum under this subsection is reemployed by the Government of the United States or the government of the District of Columbia at such time that, had the employee been paid severance pay in regular pay periods under subsection (b), the payments of such pay would have been discontinued under subsection (d) upon such reemployment, the employee shall repay to the Department of Energy an amount equal to the amount of severance pay to which the employee was entitled under this section that would not have been paid to the employee under subsection (d) by reason of such reemployment.
 
@@ -188,7 +188,7 @@ Subsec. (j). Pub. L. 106–65, §3243, added subsec. (j).
 
 <b>1998</b>—Subsec. (a)(1)(F). Pub. L. 105–275, §308(a)(1), struck out “, but only with respect to the United States Senate Restaurants” after “Capitol”.
 
-Subsec. (a)(2)(viii). Pub. L. 105–275, §§308(a)(2), 309(a)(1)(A), struck out “of the United States SenateRestaurants” after “an employee” and “or” after the semicolon.
+Subsec. (a)(2)(viii). Pub. L. 105–275, §§308(a)(2), 309(a)(1)(A), struck out “of the United States Senate Restaurants” after “an employee” and “or” after the semicolon.
 
 Subsec. (a)(2)(ix), (x). Pub. L. 105–275, §309(a)(1)(B), added cl. (ix) and redesignated former cl. (ix) as (x).
 
@@ -224,7 +224,7 @@ Amendment by section 3243 of Pub. L. 106–65 effective Mar. 1, 2000, see sectio
 
 #### Effective Date of 1994 Amendment
 
-Section 343(b) of Pub. L. 103–337 provided that: “Subsection (h) of section 5595 of title 5, United States Code, as added by subsection (a), shall apply with respect to pay periods that begin on or after the date of the enactment of this Act \[Oct. 5, 1994\].”
+Pub. L. 103–337, div. A, title III, §343(b), Oct. 5, 1994, 108 Stat. 2722, provided that: “Subsection (h) of section 5595 of title 5, United States Code, as added by subsection (a), shall apply with respect to pay periods that begin on or after the date of the enactment of this Act \[Oct. 5, 1994\].”
 
 #### Effective Date of 1990 Amendment
 

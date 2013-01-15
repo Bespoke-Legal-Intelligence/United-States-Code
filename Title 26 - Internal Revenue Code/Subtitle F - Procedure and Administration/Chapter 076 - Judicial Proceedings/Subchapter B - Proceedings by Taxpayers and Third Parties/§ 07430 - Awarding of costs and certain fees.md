@@ -42,7 +42,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the reasonable cost of any study, analysis, engineering report, test, or project which is found by the court to be necessary for the preparation of the party's case, and
 
-&emsp;&emsp;&emsp;(iii) reasonable fees paid or incurred for the services of attorneys in connection with the court proceeding, except that such fees shall not be in excess of $125 perhour unless the court determines that a special factor, such as the limited availability of qualified attorneys for such proceeding, the difficulty of the issues presented in the case, or the local availability of tax expertise, justifies a higher rate.
+&emsp;&emsp;&emsp;(iii) reasonable fees paid or incurred for the services of attorneys in connection with the court proceeding, except that such fees shall not be in excess of $125 per hour unless the court determines that a special factor, such as the limited availability of qualified attorneys for such proceeding, the difficulty of the issues presented in the case, or the local availability of tax expertise, justifies a higher rate.
 
 > &emsp;In the case of any calendar year beginning after 1996, the dollar amount referred to in clause (iii) shall be increased by an amount equal to such dollar amount multiplied by the cost-of-living adjustment determined under section 1(f)(3) for such calendar year, by substituting “calendar year 1995” for “calendar year 1992” in subparagraph (B) thereof. If any dollar amount after being increased under the preceding sentence is not a multiple of $10, such dollar amount shall be rounded to the nearest multiple of $10.
 
@@ -92,7 +92,7 @@ For purposes of this section—
 
 #### (iii) Effect of losing on substantially similar issues
 
-&emsp;&emsp;&emsp;In determining for purposes of clause (i) whether the position of the United States was substantially justified, the court shall take into account whether the United States has lost in courts of appeal for other circuits on substantially similar issues.
+&emsp;&emsp;&emsp;In determining for purposes of clause (i) whether the position of the United Stateswas substantially justified, the court shall take into account whether the United States has lost in courts of appeal for other circuits on substantially similar issues.
 
 #### (iv) Applicable published guidance
 
@@ -112,7 +112,7 @@ For purposes of this section—
 
 #### (D) Special rules for applying net worth requirement
 
-&emsp;&emsp;In applying the requirements of section 2412(d)(2)(B) of title 28, United States Code,for purposes of subparagraph (A)(ii) of this paragraph—
+&emsp;&emsp;In applying the requirements of section 2412(d)(2)(B) of title 28, United States Code, for purposes of subparagraph (A)(ii) of this paragraph—
 
 &emsp;&emsp;&emsp;(i) the net worth limitation in clause (i) of such section shall apply to—
 
@@ -334,19 +334,19 @@ Amendment by sections 6012(h) and 6014(e) of Pub. L. 105–206 effective, except
 
 #### Effective Date of 1997 Amendment
 
-Section 1285(d) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section\] shall apply to civil actions or proceedings commenced after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title XII, §1285(d), Aug. 5, 1997, 111 Stat. 1039, provided that: “The amendments made by this section \[amending this section\] shall apply to civil actions or proceedings commenced after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
-Section 1453(b) of Pub. L. 105–34 provided that: “The amendment made by this section \[amending this section\] shall apply to proceedings commenced after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title XIV, §1453(b), Aug. 5, 1997, 111 Stat. 1055, provided that: “The amendment made by this section \[amending this section\] shall apply to proceedings commenced after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 #### Effective Date of 1996 Amendment
 
 Amendment by section 701(a)–(c)(2) of Pub. L. 104–168 applicable in case of proceedings commenced after July 30, 1996, see section 701(d) of Pub. L. 104–168, set out as a note under section 6404 of this title.
 
-Section 702(b) of Pub. L. 104–168 provided that: “The amendment made by this section \[amending this section\] shall apply in the case of proceedings commenced after the date of the enactment of this Act \[July 30, 1996\].”
+Pub. L. 104–168, title VII, §702(b), July 30, 1996, 110 Stat. 1464, provided that: “The amendment made by this section \[amending this section\] shall apply in the case of proceedings commenced after the date of the enactment of this Act \[July 30, 1996\].”
 
-Section 703(b) of Pub. L. 104–168 provided that: “The amendment made by this section \[amending this section\] shall apply in the case of proceedings commenced after the date of the enactment of this Act \[July 30, 1996\].”
+Pub. L. 104–168, title VII, §703(b), July 30, 1996, 110 Stat. 1464, provided that: “The amendment made by this section \[amending this section\] shall apply in the case of proceedings commenced after the date of the enactment of this Act \[July 30, 1996\].”
 
-Section 704(b) of Pub. L. 104–168 provided that: “The amendment made by this section \[amending this section\] shall apply in the case of proceedings commenced after the date of the enactment of this Act \[July 30, 1996\].”
+Pub. L. 104–168, title VII, §704(b), July 30, 1996, 110 Stat. 1464, provided that: “The amendment made by this section \[amending this section\] shall apply in the case of proceedings commenced after the date of the enactment of this Act \[July 30, 1996\].”
 
 #### Effective Date of 1992 Amendment
 
@@ -356,11 +356,11 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 Amendment by section 1015(i) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Section 6239(d) of Pub. L. 100–647 provided that: “The amendments made by this section \[amending this section and section 504 of Title 5, Government Organization and Employees\] shall apply to proceedings commencing after the date of the enactment of this Act \[Nov. 10, 1988\].”
+Pub. L. 100–647, title VI, §6239(d), Nov. 10, 1988, 102 Stat. 3746, provided that: “The amendments made by this section \[amending this section and section 504 of Title 5, Government Organization and Employees\] shall apply to proceedings commencing after the date of the enactment of this Act \[Nov. 10, 1988\].”
 
 #### Effective Date of 1986 Amendment
 
-Section 1551(h) of Pub. L. 99–514 provided that:
+Pub. L. 99–514, title XV, §1551(h), Oct. 22, 1986, 100 Stat. 2753, provided that:
 
 “(1)
 
@@ -380,7 +380,7 @@ Amendment by Pub. L. 98–369 effective as if included in the provision of the T
 
 #### Effective Date
 
-Section 292(e) of Pub. L. 97–248, as amended by Pub. L. 98–369, div. A, title I, §160, July 18, 1984, 98 Stat. 696, provided that:
+Pub. L. 97–248, title II, §292(e), Sept. 3, 1982, 96 Stat. 574, as amended by Pub. L. 98–369, div. A, title I, §160, July 18, 1984, 98 Stat. 696, provided that:
 
 “(1)
 
@@ -388,7 +388,7 @@ In general.—The amendments made by this section \[enacting this section and am
 
 “(2)
 
-Penalty.—The amendments made by subsections (b) and (d)(2) \[amending section 6673 of this title\] shallapply to any action or proceeding in the United States Tax Court which—
+Penalty.—The amendments made by subsections (b) and (d)(2) \[amending section 6673 of this title\] shall apply to any action or proceeding in the United States Tax Court which—
 
 &emsp;“(A) is commenced after December 31, 1982, or
 

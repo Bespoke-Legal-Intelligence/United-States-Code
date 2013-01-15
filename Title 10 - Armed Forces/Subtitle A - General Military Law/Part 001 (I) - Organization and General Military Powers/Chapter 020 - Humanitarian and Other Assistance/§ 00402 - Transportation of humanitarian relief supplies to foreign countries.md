@@ -18,7 +18,7 @@
 
 (3) It shall be the responsibility of the entity requesting the transport of supplies under this section to ensure that the supplies are suitable for transport.
 
-(c)(1) Supplies transported under this section may be distributed by an agency of the United States Government, a foreign government, an international organization, or a private nonprofit relief organization.
+(c)(1) Supplies transported under this section may be distributed by an agency of the UnitedStates Government, a foreign government, an international organization, or a private nonprofit relief organization.
 
 (2) Supplies transported under this section may not be distributed, directly or indirectly, to any individual, group, or organization engaged in a military or paramilitary activity.
 
@@ -72,5 +72,5 @@ Modification of Applications.—The Administrator of the United States Agency fo
 
 #### First Report Deadline
 
-Section 332(d) of Pub. L. 100–180 directed that first report under section 402(d) of this title be submitted not more than six months after the date on which the most recent report was submitted under section 1540(e) of the Department of Defense Authorization Act, 1985 (Pub. L. 98–525; 98 Stat. 2638).
+Pub. L. 100–180, div. A, title III, §332(d), Dec. 4, 1987, 101 Stat. 1080, directed that first report under section 402(d) of this title be submitted not more than six months after the date on which the most recent report was submitted under section 1540(e) of the Department of Defense Authorization Act, 1985 (Pub. L. 98–525; 98 Stat. 2638).
 

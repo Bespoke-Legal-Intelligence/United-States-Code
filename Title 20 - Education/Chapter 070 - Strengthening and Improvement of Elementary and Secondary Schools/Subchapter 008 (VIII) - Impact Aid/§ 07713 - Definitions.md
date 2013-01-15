@@ -28,7 +28,7 @@ For purposes of this subchapter:
 
 #### (4) Current expenditures
 
-&emsp;The term “current expenditures” means expenditures for free public education, includingexpenditures for administration, instruction, attendance and health services, pupil transportation services, operation and maintenance of plant, fixed charges, and net expenditures to cover deficits for food services and student body activities, but does not include expenditures for community services, capital outlay, and debt service, or any expenditures made from funds awarded under part A of subchapter I of this chapter and subchapter VI of this chapter. The determination of whether an expenditure for the replacement of equipment is considered a current expenditure or a capital outlay shall be determined in accordance with generally accepted accounting principles as determined by the State.
+&emsp;The term “current expenditures” means expenditures for free public education, including expenditures for administration, instruction, attendance and health services, pupil transportation services, operation and maintenance of plant, fixed charges, and net expenditures to cover deficits for food services and student body activities, but does not include expenditures for community services, capital outlay, and debt service, or any expenditures made from funds awarded under part A of subchapter I of this chapter and subchapter VI of this chapter. The determination of whether an expenditure for the replacement of equipment is considered a current expenditure or a capital outlay shall be determined in accordance with generally accepted accounting principles as determined by the State.
 
 #### (5) Federal property
 
@@ -174,7 +174,7 @@ For purposes of this subchapter:
 
 #### References in Text
 
-The Alaska Native Claims Settlement Act, referred to in par. (5)(A)(ii)(III), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (5)(A)(ii)(III), is Pub. L. 92–203, Dec. 18, 1971,85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 The United States Housing Act of 1937, referred to in par. (5)(A)(iii)(I), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
 
@@ -188,7 +188,7 @@ Act of September 30, 1950 (Public Law 874, 81st Congress) (as such Act was in ef
 
 Par. (5)(A)(iii)(III). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1816(1)(A)\], added subcl. (III).
 
-Par. (5)(F)(i). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1816(1)(B)\], substituted “or authorized by the Native American Housing Assistance and Self-DeterminationAct of 1996” for “the mutual help ownership opportunity program under section 202 of the United States Housing Act of 1937”.
+Par. (5)(F)(i). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1816(1)(B)\], substituted “or authorized by the Native American Housing Assistance and Self-Determination Act of 1996” for “the mutual help ownership opportunity program under section 202 of the United States Housing Act of 1937”.
 
 Par. (8)(B). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1816(2)\], substituted “the 50 States and the District of Columbia” for “all States”.
 

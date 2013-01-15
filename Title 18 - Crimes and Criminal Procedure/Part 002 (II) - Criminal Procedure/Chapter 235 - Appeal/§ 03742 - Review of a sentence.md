@@ -76,7 +76,7 @@ Decision and Disposition.—If the court of appeals determines that—
 
 &emsp;(1) the sentence was imposed in violation of law or imposed as a result of an incorrect application of the sentencing guidelines, the court shall remand the case for further sentencing proceedings with such instructions as the court considers appropriate;
 
-&emsp;(2) the sentence is outside the applicable guideline range and the district court failed toprovide the required statement of reasons in the order of judgment and commitment, or the departure is based on an impermissible factor, or is to an unreasonable degree, or the sentence was imposed for an offense for which there is no applicable sentencing guideline and is plainly unreasonable, it shall state specific reasons for its conclusions and—
+&emsp;(2) the sentence is outside the applicable guideline range and the district court failed to provide the required statement of reasons in the order of judgment and commitment, or the departure is based on an impermissible factor, or is to an unreasonable degree, or the sentence was imposed for an offense for which there is no applicable sentencing guideline and is plainly unreasonable, it shall state specific reasons for its conclusions and—
 
 &emsp;&emsp;(A) if it determines that the sentence is too high and the appeal has been filed under subsection (a), it shall set aside the sentence and remand the case for further sentencing proceedings with such instructions as the court considers appropriate, subject to subsection (g);
 
@@ -126,6 +126,10 @@ Section 3563(b)(6) or (b)(11), referred to in subsecs. (a)(3) and (b)(3), was re
 
 The Federal Rules of Criminal Procedure, referred to in subsec. (c), are set out in the Appendix of this title.
 
+#### Constitutionality
+
+For information regarding constitutionality of certain provisions of this section, as added and amended by section 401(d)(2), (e) of Pub. L. 108–21, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+
 #### Amendments
 
 <b>2003</b>—Subsec. (e). Pub. L. 108–21, §401(d)(2), in concluding provisions, substituted “, except with respect to determinations under subsection (3)(A) or (3)(B), shall give due deference to the district court's application of the guidelines to the facts. With respect to determinations under subsection (3)(A) or (3)(B), the court of appeals shall review de novo the district court's application of the guidelines to the facts” for “shall give due deference to the district court's application of the guidelines to the facts”.
@@ -154,7 +158,7 @@ Subsec. (j). Pub. L. 108–21, §401(f), added subsec. (j).
 
 <b>1994</b>—Subsec. (b). Pub. L. 103–322 struck out comma after “Government” in introductory provisions.
 
-<b>1990</b>—Subsec. (b). Pub. L. 101–647, §3501, struck out “, with the personal approval of the Attorney Generalor the Solicitor General” after “The Government” in introductory provisions and inserted at end “The Government may not further prosecute such appeal without the personal approval of the Attorney General, the Solicitor General, or a deputy solicitor general designated by the Solicitor General.”
+<b>1990</b>—Subsec. (b). Pub. L. 101–647, §3501, struck out “, with the personal approval of the Attorney General or the Solicitor General” after “The Government” in introductory provisions and inserted at end “The Government may not further prosecute such appeal without the personal approval of the Attorney General, the Solicitor General, or a deputy solicitor general designated by the Solicitor General.”
 
 Subsec. (g). Pub. L. 101–647, §3503, inserted “(except for the requirement of approval by the Attorney General or the Solicitor General in the case of a Government appeal)” after “and this section shall apply”.
 

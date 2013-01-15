@@ -102,13 +102,13 @@ Amendment by Pub. L. 110–245 applicable to any individual whose expatriation d
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–357 applicable to individuals who expatriate after June 3, 2004, see section 804(f) of Pub. L. 108–357, set out as a note under section 877 of this title.
+Amendment by Pub. L. 108–357 applicable to individuals who expatriate after June 3, 2004, see section 804(f)of Pub. L. 108–357, set out as a note under section 877 of this title.
 
 #### Effective Date
 
 For special rule relating to application of this section to certain individuals who performed an act of expatriation specified in section 1481(a)(1)–(4) of Title 8, Aliens and Nationality, before Feb. 6, 1995, see section 511(g)(3) of Pub. L. 104–191, set out as an Effective Date of 1996 Amendment note under section 877 of this title.
 
-Section 512(c) of Pub. L. 104–191 provided that: “The amendments made by this section \[enacting this section\] shall apply to—
+Pub. L. 104–191, title V, §512(c), Aug. 21, 1996, 110 Stat. 2102, provided that: “The amendments made by this section \[enacting this section\] shall apply to—
 
 &emsp;“(1) individuals losing United States citizenship (within the meaning of section 877 of the Internal Revenue Code of 1986) on or after February 6, 1995, and
 

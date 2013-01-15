@@ -54,7 +54,7 @@ Pub. L. 102–559, §2(b), Oct. 28, 1992, 106 Stat. 4228, substituted “Procedu
 
 <b>1990</b>—Pub. L. 101–647, title XXXVI, §3302 \[3612\], Nov. 29, 1990, 104 Stat. 4964, added item for chapter 176.
 
-<b>1982</b>—Pub. L. 97–164, title I, §§139(<i>o</i>)(1), 140, Apr. 2, 1982, 96 Stat. 44, substituted “United States Claims Court Procedure” for “Court of Claims Procedure” in item for chapter 165 and struck out item for chapter 167 “Court of Customs and Patent Appeals Procedure”.
+<b>1982</b>—Pub. L. 97–164, title I, §§139(o)(1), 140, Apr. 2, 1982, 96 Stat. 44, substituted “United States Claims Court Procedure” for “Court of Claims Procedure” in item for chapter 165 and struck out item for chapter 167 “Court of Customs and Patent Appeals Procedure”.
 
 <b>1980</b>—Pub. L. 96–417, title V, §501(25), Oct. 10, 1980, 94 Stat. 1742, substituted “Court of International Trade Procedure” for “Customs Court Procedure” in item for chapter 169.
 

@@ -32,7 +32,7 @@ In this section:
 
 &emsp;&emsp;(A) described in section 1722(d) of this title; and
 
-&emsp;&emsp;(B) with respect to nongovernmental organizations, subject to regulations promulgated or guidelines issued to carry out thissection, including United States audit requirements that are applicable to nongovernmental organizations.
+&emsp;&emsp;(B) with respect to nongovernmental organizations, subject to regulations promulgated or guidelines issued to carry out this section, including United States audit requirements that are applicable to nongovernmental organizations.
 
 #### (b) Study; field-based projects
 
@@ -56,7 +56,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;In accordance with subparagraph (B), the Secretary shall provide grants to, or enter into cooperative agreements with, eligible organizations to carry out field-based projects that consist of local or regional procurements of eligible commodities to respond to food crises and disasters in accordance with this section.
+&emsp;&emsp;In accordance with subparagraph (B), the Secretary shall provide grants to, or enterinto cooperative agreements with, eligible organizations to carry out field-based projects that consist of local or regional procurements of eligible commodities to respond to food crises and disasters in accordance with this section.
 
 #### (B) Consultation with Administrator
 
@@ -132,7 +132,7 @@ In this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;To be eligible to receive a grant from, or enter into a cooperative agreement with,the Secretary under this subsection, an eligible organization shall submit to the Secretary an application by such date, in such manner, and containing such information as the Secretary may require.
+&emsp;&emsp;&emsp;To be eligible to receive a grant from, or enter into a cooperative agreement with, the Secretary under this subsection, an eligible organization shall submit to the Secretary an application by such date, in such manner, and containing such information as the Secretary may require.
 
 #### (ii) Other applicable requirements
 
@@ -152,7 +152,7 @@ In this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii) and subparagraph (B), in selecting proposals for field-based projects to fund under this section, the Secretary shall select a diversity of projects, including projects located in—
+&emsp;&emsp;&emsp;Subject to clause (ii) and subparagraph (B), in selecting proposals for field-basedprojects to fund under this section, the Secretary shall select a diversity of projects, including projects located in—
 
 &emsp;&emsp;&emsp;&emsp;(I) food surplus regions;
 

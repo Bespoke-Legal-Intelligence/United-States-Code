@@ -8,7 +8,7 @@
 
 &emsp;&emsp;For the purpose described in subsection (b), subject to the succeeding provisions of this section, for each of fiscal years 2010 through 2014, the Secretary shall allot to each State an amount equal to the product of—
 
-&emsp;&emsp;&emsp;(i) the amount appropriated under subsection (f) for the fiscal year and availablefor allotments to States after the application of subsection (c); and
+&emsp;&emsp;&emsp;(i) the amount appropriated under subsection (f) for the fiscal year and available for allotments to States after the application of subsection (c); and
 
 &emsp;&emsp;&emsp;(ii) the State youth population percentage determined under paragraph (2).
 
@@ -154,7 +154,7 @@
 
 #### (ii) Program support
 
-&emsp;&emsp;&emsp;The Secretary shall provide, directly or through a competitive grant process, research, training and technical assistance, including dissemination of research and information regarding effective and promising practices, providing consultation and resources on a broad array of teen pregnancy prevention strategies, including abstinence and contraception, and developing resources and materials to support the activities of recipients of grants and other State, tribal, and community organizations working to reduce teen pregnancy. Incarrying out such functions, the Secretary shall collaborate with a variety of entities that have expertise in the prevention of teen pregnancy, HIV and sexually transmitted infections, healthy relationships, financial literacy, and other topics addressed through the personal responsibility education programs.
+&emsp;&emsp;&emsp;The Secretary shall provide, directly or through a competitive grant process, research, training and technical assistance, including dissemination of research and information regarding effective and promising practices, providing consultation and resources on a broad array of teen pregnancy prevention strategies, including abstinence and contraception, and developing resources and materials to support the activities of recipients of grants and other State, tribal, and community organizations working to reduce teen pregnancy. In carrying out such functions, the Secretary shall collaborate with a variety of entities that have expertise in the prevention of teen pregnancy, HIV and sexually transmitted infections, healthy relationships, financial literacy, and other topics addressed through the personal responsibility education programs.
 
 #### (iii) Evaluation
 

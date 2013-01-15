@@ -40,7 +40,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Subsecs. (b) to (d). Pub. L. 110–246, §2804(c), added subsecs. (b) and (c), redesignated former subsec. (b) as (d), and substituted “December 31, 2011, and December 31, 2016” for “December 31, 1979, and program updates shall be completed by December 31, 1987, December 31, 1997, and December 31, 2007”.
+<b>2008</b>—Subsecs. (b) to (d). Pub. L. 110–246, §2804(c), added subsecs. (b) and (c), redesignated former subsec.\(b) as (d), and substituted “December 31, 2011, and December 31, 2016” for “December 31, 1979, and program updates shall be completed by December 31, 1987, December 31, 1997, and December 31, 2007”.
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–354 in first sentence of introductory provisions substituted “Secretary” for “Soil Conservation Service” before “which assist”.
 

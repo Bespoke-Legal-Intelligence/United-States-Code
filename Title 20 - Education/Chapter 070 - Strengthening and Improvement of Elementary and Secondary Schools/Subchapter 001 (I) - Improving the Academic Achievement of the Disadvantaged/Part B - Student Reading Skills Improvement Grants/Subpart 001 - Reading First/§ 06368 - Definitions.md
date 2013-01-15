@@ -120,7 +120,7 @@ In this subpart:
 
 #### Prior Provisions
 
-A prior section 6368, Pub. L. 89–10, title I, §1208, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3583; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §204(c)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–409; Pub. L. 106–113, div. B, §1000(a)(4) \[title III, §306(b)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–260; Pub. L. 106–554, §1(a)(4) \[div. B, title XVI, §1604(<i>l</i>)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–332, related to award of Even Start subgrants, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 6381g of this title.
+A prior section 6368, Pub. L. 89–10, title I, §1208, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3583; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §204(c)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–409; Pub. L. 106–113, div. B, §1000(a)(4) \[title III, §306(b)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–260; Pub. L. 106–554, §1(a)(4) \[div. B, title XVI, §1604(l)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–332, related to award of Even Start subgrants, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 6381g of this title.
 
 Prior sections 6369, 6369a, 6369b, and 6370 were omitted in the general amendment of this subchapter by Pub. L. 107–110.
 

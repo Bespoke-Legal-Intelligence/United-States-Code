@@ -80,7 +80,7 @@ Subsec. (b)(5). Pub. L. 89–44, §802(c), added par. (5).
 
 #### Effective Date of 1997 Amendment
 
-Section 1431(b) of Pub. L. 105–34 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title XIV, §1431(b), Aug. 5, 1997, 111 Stat. 1050, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 #### Effective Date of 1993 Amendment
 
@@ -108,7 +108,7 @@ Amendment by Pub. L. 97–424 applicable to articles sold after Jan. 6, 1983, se
 
 Amendment by section 201(e) of Pub. L. 95–618 applicable with respect to 1980 and later model year automobiles, see section 201(g) of Pub. L. 95–618, set out as an Effective Date note under section 4064 of this title.
 
-Section 231(g) of Pub. L. 95–618 provided that:
+Pub. L. 95–618, title II, §231(g), Nov. 9, 1978, 92 Stat. 3189, provided that:
 
 “(1) The amendments made by subsections (a) and (f) \[amending this section and sections 4063 and 6412 of this title\] shall apply with respect to articles sold after the date of the enactment of this Act \[Nov. 9, 1978\].
 
@@ -130,7 +130,7 @@ Amendment by Pub. L. 95–600 effective on first day of first calendar month beg
 
 #### Effective Date of 1971 Amendment
 
-Amendment by Pub. L. 92–178 applicable with respect to articles sold on or after the day after Dec. 10, 1971,see section 401(h)(1) of Pub. L. 92–178, set out as a note under section 4071 of this title.
+Amendment by Pub. L. 92–178 applicable with respect to articles sold on or after the day after Dec. 10, 1971, see section 401(h)(1) of Pub. L. 92–178, set out as a note under section 4071 of this title.
 
 #### Effective Date of 1965 Amendment
 

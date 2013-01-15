@@ -80,7 +80,7 @@ Project Selection Criteria.—The Secretary, in selecting the recipients of fina
 
 &emsp;&emsp;&emsp;(vi) encouragement of State and private contributions toward station development, energy and environmentally <sup>2</sup> efficiency, and economic benefits; and
 
-&emsp;&emsp;&emsp;(vii) falling under the description in section 5302(a)(1)(G) of this title as defined to support intercity passenger rail service; and
+&emsp;&emsp;&emsp;(vii) falling under the description in section 5302(a)(1)(G) <sup>3</sup> of this title as defined to support intercity passenger rail service; and
 
 &emsp;&emsp;(B) that incorporate equitable financial participation in the project's financing, including, but not limited to, consideration of—
 
@@ -174,7 +174,7 @@ Special Transportation Circumstances.—In carrying out this section, the Secret
 
 Small Capital Projects.—The Secretary shall make not less than 5 percent annually available from the amounts authorized under section 101(c) of the Passenger Rail Investment and Improvement Act of 2008 beginning in fiscal year 2009 for grants for capital projects eligible under this section not exceeding $2,000,000, including costs eligible under section 209(d) of that Act. For grants awarded under this subsection, the Secretary may waive requirements of this section, including state <sup>4</sup> rail plan requirements, as appropriate.
 
-(<i>l</i>)
+(l)
 
 Nonmotorized Transportation Access and Storage.—Grants under this chapter may be used to provide access to rolling stock for nonmotorized transportation, including bicycles, and recreational equipment, and to provide storage capacity in trains for such transportation, equipment, and other luggage, to ensure passenger safety.
 
@@ -187,6 +187,8 @@ The date of enactment of the Passenger Rail Investment and Improvement Act of 20
 Section 211 of the Passenger Rail Investment and Improvement Act of 2008, referred to in subsecs. (b)(1) and (c)(1)(A), is section 211 of Pub. L. 110–432, which is set out as a note under section 24902 of this title.
 
 Sections 207 and 209(d) of the Passenger Rail Investment and Improvement Act of 2008, referred to in subsecs. (c)(2)(A)(i) and (k), respectively, are sections 207 and 209(d) of Pub. L. 110–432, which are set out in a note under section 24101 of this title.
+
+Section 5302 of this title, referred to in subsec. (c)(3)(A)(vii), was amended generally by Pub. L. 112–141, div. B, §20004, July 6, 2012, 126 Stat. 623, and, as so amended, no longer contains a subsec. (a)(1)(G), which described a type of capital project. However, capital project is defined elsewhere in that section.
 
 Section 22506 of this title, referred to in subsec. (d), probably should be a reference to section 22706 of this title, which requires the Secretary to prescribe procedures for submitting State rail plans for review. No section 22506 of this title has been enacted.
 

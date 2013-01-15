@@ -1,6 +1,6 @@
 ### §2241. Farm Credit Administration
 
-The Farm Credit Administration shall be an independent agency in the executive branch of the Government. It shall be composed of the Farm Credit Administration Board and such other personnel as are employed in carrying out the functions, powers, and duties vested in the Farm Credit Administration by this chapter.
+The Farm Credit Administration shall be an independent agency in the executive branch ofthe Government. It shall be composed of the Farm Credit Administration Board and such other personnel as are employed in carrying out the functions, powers, and duties vested in the Farm Credit Administration by this chapter.
 
 (Pub. L. 92–181, title V, §5.7, Dec. 10, 1971, 85 Stat. 617; Pub. L. 99–205, title II, §201(1), Dec. 23, 1985, 99 Stat. 1688.)
 
@@ -14,7 +14,7 @@ Amendment by Pub. L. 99–205 effective thirty days after Dec. 23, 1985, see sec
 
 #### Interim Implementation of 1985 Amendment
 
-Section 402 of Pub. L. 99–205 provided that:
+Pub. L. 99–205, title IV, §402, Dec. 23, 1985, 99 Stat. 1709, provided that:
 
 “(a) Until the Chairman of the Farm Credit Administration Board provided for under the amendment made by section 201(1) of this Act \[see section 2242 of this title\] is appointed by the President and confirmed by the Senate, the Governor of the Farm Credit Administration, under the Farm Credit Act of 1971 \[this chapter\] as in effect on the day before the date of enactment of this Act \[Dec. 23, 1985\], shall perform the functions of the Chairman prescribed for the Chairman by this Act \[Pub. L. 99–205, see Short Title of 1985 Amendment note set out under section 2001 of this title\].
 

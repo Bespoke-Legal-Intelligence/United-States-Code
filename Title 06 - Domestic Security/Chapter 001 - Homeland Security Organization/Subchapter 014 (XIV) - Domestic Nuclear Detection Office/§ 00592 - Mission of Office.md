@@ -42,7 +42,7 @@ The Office shall be responsible for coordinating Federal efforts to detect and p
 
 &emsp;(12) establish a National Nuclear Forensics Expertise Development Program, which—
 
-&emsp;&emsp;(A) is devoted to developing and maintaining a vibrant and enduring academic pathway from undergraduate to post-doctorate study in nuclear and geochemical science specialties directly relevant to technical nuclear forensics, including radiochemistry, geochemistry, nuclear physics, nuclear engineering, materials science, and analytical chemistry;
+&emsp;&emsp;(A) is devoted to developing and maintaining a vibrant and enduring academic pathway from undergraduate to post-doctorate study in nuclear and geochemical science specialties directly relevant to technical nuclear forensics, including radiochemistry,geochemistry, nuclear physics, nuclear engineering, materials science, and analytical chemistry;
 
 &emsp;&emsp;(B) shall—
 
@@ -136,7 +136,7 @@ Pub. L. 111–140, §2, Feb. 16, 2010, 124 Stat. 31, provided that: “Congress 
 
 &emsp;“(B) Many of the radioisotopes produced in the detonation of a nuclear device have short half-lives, so the timely acquisition of samples is of the utmost importance. Over the past several decades, the ability of the United States to gather atmospheric samples—often the preferred method of sample acquisition—has diminished. This ability must be restored and modern techniques that could complement or replace existing techniques should be pursued.
 
-&emsp;“(C) The discipline of pre-detonation forensics is a relatively undeveloped field. The radiation associated with a nuclear or radiological device may affect traditional forensics techniques in unknown ways. In a post-detonation scenario, radiochemistry may provide the most useful tools for analysis and characterization of samples. The number of radiochemistry programs and radiochemists in United States National Laboratories and universities has dramaticallydeclined over the past several decades. The narrowing pipeline of qualified people into this critical field is a serious impediment to maintaining a robust and credible nuclear forensics program.
+&emsp;“(C) The discipline of pre-detonation forensics is a relatively undeveloped field. The radiation associated with a nuclear or radiological device may affect traditional forensics techniques in unknown ways. In a post-detonation scenario, radiochemistry may provide the most useful tools for analysis and characterization of samples. The number of radiochemistry programs and radiochemists in United States National Laboratories and universities has dramatically declined over the past several decades. The narrowing pipeline of qualified people into this critical field is a serious impediment to maintaining a robust and credible nuclear forensics program.
 
 &emsp;“(5) Once samples have been acquired and characterized, it is necessary to compare the results against samples of known material from reactors, weapons, and enrichment facilities, and from medical, academic, commercial, and other facilities containing such materials, throughout the world. Some of these samples are available to the International Atomic Energy Agency through safeguards agreements, and some countries maintain internal sample databases. Access to samples in many countries is limited by national security concerns.
 

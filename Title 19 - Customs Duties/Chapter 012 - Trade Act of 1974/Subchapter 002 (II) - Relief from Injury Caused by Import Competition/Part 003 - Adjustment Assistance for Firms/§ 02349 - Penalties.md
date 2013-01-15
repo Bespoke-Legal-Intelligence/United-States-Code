@@ -30,11 +30,11 @@ A prior section 257 of Pub. L. 93–618 was classified to section 2347 of this t
 
 #### Effective and Termination Dates of 2011 Revival
 
-For temporary revival and applicability of provisions as in effect on Feb. 12, 2011, see sections 201(b), (c) and 233 of Pub. L. 112–40, set out as notes preceding section 2271 of this title. For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to section 233(b) of Pub. L. 112–40, see section 233 of Pub. L. 112–40, set out as a note preceding section 2271 of this title.
+For temporary revival and applicability of provisions as in effect on Feb. 12, 2011, see sections 201(b), (c) and 233 of Pub. L. 112–40, set out as notes preceding section 2271 of this title. For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to section 233(b) of Pub. L.112–40, see section 233 of Pub. L. 112–40, set out as a note preceding section 2271 of this title.
 
 #### Effective and Termination Dates of 2009 Amendment
 
-Amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009,see section 1864(e) of Pub. L. 111–5, set out as an Effective and Termination Dates note under section 2344 of this title.
+Amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1864(e) of Pub. L. 111–5, set out as an Effective and Termination Dates note under section 2344 of this title.
 
 Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as a note under section 2271 of this title.
 

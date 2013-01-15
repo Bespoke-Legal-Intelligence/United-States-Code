@@ -6,7 +6,7 @@ Contract Authority.—The Secretary of Defense may enter into contracts with com
 
 (b)
 
-Termination or Limitation of Contract Under Certain Circumstances.—A contract entered into under subsection (a) shall contain a provision that the Secretary of Defense may terminate, prohibit, or suspend immediately any commercial test or evaluation activity to be conducted at the Major Range and Test Facility Installation under the contract if the Secretary of Defense certifies in writing that the test or evaluation activity is or would be detrimental—
+Termination or Limitation of Contract Under Certain Circumstances.—A contract entered into under subsection (a) shall contain a provision that the Secretary of Defense may terminate, prohibit, or suspend immediately anycommercial test or evaluation activity to be conducted at the Major Range and Test Facility Installation under the contract if the Secretary of Defense certifies in writing that the test or evaluation activity is or would be detrimental—
 
 &emsp;(1) to the public health and safety;
 

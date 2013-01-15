@@ -254,9 +254,21 @@ Not later than 4 years after the date of enactment of the Food, Conservation, an
 
 #### (f) Funding
 
-Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section such sums as are necessary for each of fiscal years 2008 through 2012.
+#### (1) Fiscal years 2008 through 2012
 
-(Pub. L. 107–171, title IX, §9011, as added Pub. L. 110–234, title IX, §9001(a), May 22, 2008, 122 Stat. 1327, and Pub. L. 110–246, §4(a), title IX, §9001(a), June 18, 2008, 122 Stat. 1664, 2089.)
+&emsp;Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section such sums as are necessary for each of fiscal years 2008 through 2012.
+
+#### (2) Fiscal year 2013
+
+#### (A) In general
+
+&emsp;&emsp;There is authorized to be appropriated to carry out this section $20,000,000 for fiscal year 2013.
+
+#### (B) Multiyear contracts
+
+&emsp;&emsp;For each multiyear contract entered into by the Secretary during a fiscal year under this paragraph, the Secretary shall ensure that sufficient funds are obligated from the amounts appropriated for that fiscal year to fully cover all payments required by the contract for all years of the contract.
+
+(Pub. L. 107–171, title IX, §9011, as added Pub. L. 110–234, title IX, §9001(a), May 22, 2008, 122 Stat. 1327, and Pub. L. 110–246, §4(a), title IX, §9001(a), June 18, 2008, 122 Stat. 1664, 2089; amended Pub. L. 112–240, title VII, §701(f)(10), Jan. 2, 2013, 126 Stat. 2365.)
 
 #### References in Text
 
@@ -273,4 +285,12 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 #### Prior Provisions
 
 A prior section 9011 of Pub. L. 107–171 was classified to section 8109 of this title, prior to the general amendment of this chapter by Pub. L. 110–246.
+
+#### Amendments
+
+<b>2013</b>—Subsec. (f). Pub. L. 112–240 designated existing provisions as par. (1), inserted heading, and added par (2).
+
+#### Effective Date of 2013 Amendment
+
+Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under section 8701 of this title.
 

@@ -82,7 +82,7 @@ Youths participating in a project proposed to be carried out under any applicati
 
 #### (h) Absolute priority prohibited in Upward Bound Program
 
-Upon enactment of this subsection and except as otherwise expressly provided by amendment to this section, the Secretary shall not continue, implement, or enforce the absolute priority for the Upward Bound Program published by the Department of Education in the Federal Register on September 22, 2006 (71 Fed. Reg. 55447 et seq.). This subsection shall not be applied retroactively. In implementing this subsection, the Department shall allow the programs and participants chosen in the grant cycle to which the priority applies to continue their grants and participation without a further recompetition. The entities shall not be required to apply the absolute priority conditions or restrictions to future participants.
+Upon enactment of this subsection and except as otherwise expressly provided by amendmentto this section, the Secretary shall not continue, implement, or enforce the absolute priority for the Upward Bound Program published by the Department of Education in the Federal Register on September 22, 2006 (71 Fed. Reg. 55447 et seq.). This subsection shall not be applied retroactively. In implementing this subsection, the Department shall allow the programs and participants chosen in the grant cycle to which the priority applies to continue their grants and participation without a further recompetition. The entities shall not be required to apply the absolute priority conditions or restrictions to future participants.
 
 (Pub. L. 89–329, title IV, §402C, as added Pub. L. 102–325, title IV, §402(a)(4), July 23, 1992, 106 Stat. 487; amended Pub. L. 103–208, §2(b)(10), Dec. 20, 1993, 107 Stat. 2459; Pub. L. 105–244, title IV, §402(c), Oct. 7, 1998, 112 Stat. 1654; Pub. L. 110–84, title I, §103, Sept. 27, 2007, 121 Stat. 786; Pub. L. 110–315, title IV, §403(c), Aug. 14, 2008, 122 Stat. 3199.)
 
@@ -118,7 +118,7 @@ Subsec. (b)(12). Pub. L. 105–244, §402(c)(1)(E), substituted “(11)” for �
 
 Pub. L. 105–244, §402(c)(1)(C), redesignated par. (10) as (12).
 
-Subsec. (e). Pub. L. 105–244, §402(c)(2), substituted “except that youth participating in a work-study position under subsection (b)(10) of this section may be paid a stipend of $300 per month during June, July, and August. Youths participating in a project proposed to be carried out under any application may be paid stipendsnot in excess of $40 per month during the remaining period of the year.” for “and not in excess of $40 per month during the remaining period of the year.”
+Subsec. (e). Pub. L. 105–244, §402(c)(2), substituted “except that youth participating in a work-study position under subsection (b)(10) of this section may be paid a stipend of $300 per month during June, July, and August. Youths participating in a project proposed to be carried out under any application may be paid stipends not in excess of $40 per month during the remaining period of the year.” for “and not in excess of $40 per month during the remaining period of the year.”
 
 <b>1993</b>—Subsec. (c). Pub. L. 103–208 substituted “foreign” for “and foreign”.
 

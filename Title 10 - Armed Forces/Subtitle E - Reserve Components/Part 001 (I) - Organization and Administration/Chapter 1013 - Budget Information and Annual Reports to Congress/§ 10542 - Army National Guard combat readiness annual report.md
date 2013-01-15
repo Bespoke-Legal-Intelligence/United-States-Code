@@ -50,7 +50,7 @@ Matters To Be Included in Report.—Each presentation under subsection (a) shall
 
 &emsp;(15) The number of units of the Army National Guard that are scheduled for early deployment in the event of a mobilization and, of those units, the number that are dentally ready for deployment in accordance with section 1118 of ANGCRRA.
 
-&emsp;(16) The estimated post-mobilization training time for each Army National Guard combat unit, and a description, displayed in broad categories and by State, of what training would need to be accomplished for Army National Guard combat units in a post-mobilization period for purposes of section 1119 of ANGCRRA.
+&emsp;(16) The estimated post-mobilization training time for each Army National Guard combat unit, and a description, displayed in broadcategories and by State, of what training would need to be accomplished for Army National Guard combat units in a post-mobilization period for purposes of section 1119 of ANGCRRA.
 
 &emsp;(17) A description of the measures taken during the preceding fiscal year to comply with the requirement in section 1120 of ANGCRRA to expand the use of simulations, simulators, and advanced training devices and technologies for members and units of the Army National Guard.
 

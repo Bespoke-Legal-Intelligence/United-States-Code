@@ -62,7 +62,7 @@ Subsec. (e). Pub. L. 103–160, §902(b), added subsec. (e).
 
 #### Change of Name
 
-Section 903(d) of Pub. L. 103–337 provided that: “Any reference to the Comptroller of the Department of Defense in any provision of law other than title 10, United States Code, or in any rule, regulation, or other paper of the United States shall be treated as referring to the Under Secretary of Defense (Comptroller).”
+Pub. L. 103–337, div. A, title IX, §903(d), Oct. 5, 1994, 108 Stat. 2823, provided that: “Any reference to the Comptroller of the Department of Defense in any provision of law other than title 10, United States Code, or in any rule, regulation, or other paper of the United States shall be treated as referring to the Under Secretary of Defense (Comptroller).”
 
 #### Effective Date of 2011 Amendment
 

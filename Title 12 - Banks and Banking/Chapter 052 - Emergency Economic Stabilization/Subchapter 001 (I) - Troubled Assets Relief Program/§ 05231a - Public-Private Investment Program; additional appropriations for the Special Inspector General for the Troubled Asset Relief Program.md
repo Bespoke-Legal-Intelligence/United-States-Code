@@ -16,7 +16,7 @@ This section may be cited as the “Public-Private Investment Program Improvemen
 
 &emsp;&emsp;(C) allow the Special Inspector General access to all books and records of a public-private investment fund, including all records of financial transactions in machine readable form, and the confidentiality of all such information shall be maintained by the Special Inspector General;
 
-&emsp;&emsp;(D) require each manager of a public-private investment fund to retain all books,documents, and records relating to such public-private investment fund, including electronic messages;
+&emsp;&emsp;(D) require each manager of a public-private investment fund to retain all books, documents, and records relating to such public-private investment fund, including electronic messages;
 
 &emsp;&emsp;(E) require each manager of a public-private investment fund to acknowledge, in writing, a fiduciary duty to both the public and private investors in such fund;
 
@@ -42,7 +42,7 @@ This section may be cited as the “Public-Private Investment Program Improvemen
 
 #### (2) Priorities
 
-&emsp;In utilizing funds made available under this section, the Special Inspector General shall prioritize the performance of audits or investigations of recipients of non-recourse Federal loans made under any program that is funded in whole or in part by funds appropriated under the Emergency Economic Stabilization Act of 2008 \[12 U.S.C. 5201 et seq.\], to the extent that such priority is consistent with other aspects of the mission of the Special Inspector General. Such audits or investigations shall determine the existence of any collusion between the loan recipient and the seller or originator of the asset used as loan collateral, or any other conflict of interest that may have led the loan recipient to deliberately overstate the value of the asset used as loan collateral.
+&emsp;In utilizing funds made available under this section, the Special Inspector General shallprioritize the performance of audits or investigations of recipients of non-recourse Federal loans made under any program that is funded in whole or in part by funds appropriated under the Emergency Economic Stabilization Act of 2008 \[12 U.S.C. 5201 et seq.\], to the extent that such priority is consistent with other aspects of the mission of the Special Inspector General. Such audits or investigations shall determine the existence of any collusion between the loan recipient and the seller or originator of the asset used as loan collateral, or any other conflict of interest that may have led the loan recipient to deliberately overstate the value of the asset used as loan collateral.
 
 #### (d) Rule of construction
 

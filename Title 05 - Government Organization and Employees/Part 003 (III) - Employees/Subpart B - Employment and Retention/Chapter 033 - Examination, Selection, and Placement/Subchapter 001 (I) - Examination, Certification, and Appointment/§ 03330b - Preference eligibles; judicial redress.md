@@ -14,5 +14,5 @@
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a). Pub. L. 108–454, which directed insertion of “, or a veteran described by section 3330a(a)(1)(B) with respect to a violation described by such section,” after “a preference eligible” in subsec. (a) of section 3330b, without specifying the Code title to be amended, was executed by making the insertion in subsec. (a) of this section, to reflect the probable intent of Congress.
+<b>2004</b>—Subsec. (a). Pub. L. 108–454, which directed insertion of “, or a veteran described by section 3330a(a)(1)(B) with respect to a violation described by such section,” after “a preference eligible” in subsec. (a) of section 3330b, without specifying the Code title tobe amended, was executed by making the insertion in subsec. (a) of this section, to reflect the probable intent of Congress.
 

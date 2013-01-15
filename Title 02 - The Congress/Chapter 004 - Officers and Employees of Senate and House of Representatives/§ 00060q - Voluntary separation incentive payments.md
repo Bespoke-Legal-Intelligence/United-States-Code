@@ -90,7 +90,7 @@ A voluntary separation incentive payment made under this section—
 
 #### (2) Waiver for individuals possessing unique abilities
 
-&emsp;(A) If the employment is with an Executive agency (as defined by section 105 of title 5, but excluding the Government Accountability Office), the Director of the Office of Personnel Management may, at the request of the head of the agency, waive the repayment required under this subsection if the individual involved possesses unique abilities and is the only qualified applicant available for the position.
+&emsp;(A) If the employment is with an Executive agency (as defined by section 105 of title 5, but excluding the Government Accountability Office), the Director of the Office of PersonnelManagement may, at the request of the head of the agency, waive the repayment required under this subsection if the individual involved possesses unique abilities and is the only qualified applicant available for the position.
 
 &emsp;(B) If the employment is with an entity in the legislative branch, the head of the entity or the appointing official may waive the repayment required under this subsection if the individual involved possesses unique abilities and is the only qualified applicant available for the position.
 

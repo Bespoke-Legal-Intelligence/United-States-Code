@@ -32,7 +32,7 @@ Section 1914, act July 26, 1946, ch. 672, title I, §101, 60 Stat. 685, which re
 
 Section 1915, acts July 26, 1946, ch. 672, title I, §101, 60 Stat. 685; July 8, 1947, ch. 210, title I, §101, 61 Stat. 263; June 16, 1948, ch. 472, title I, §101, 62 Stat. 446, which related to establishment and maintenance of personnel standards on merit basis, was transferred to section 49c–4 of Title 29 and subsequently omitted from the Code.
 
-Section 1916, acts July 26, 1946, ch. 672, title I, §101, 60 Stat. 686; 1946 Reorg. Plan No. 2, §4, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; July 8, 1947, ch. 210, title I, §101, 61 Stat. 263; June 16, 1948, ch. 472, title I, §101, 62 Stat. 446, which related to joint budget for grants under this chapter and for certain grants under the Social Security Act, was transferred to section 49c–5 of Title 29 and subsequently omitted from the Code.
+Section 1916, acts July 26, 1946, ch. 672, title I, §101, 60 Stat. 686; 1946 Reorg. Plan No. 2, §4, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; July 8, 1947, ch. 210, title I, §101, 61 Stat. 263; June 16, 1948, ch. 472, title I, §101, 62 Stat. 446, which related to joint budget for grants underthis chapter and for certain grants under the Social Security Act, was transferred to section 49c–5 of Title 29 and subsequently omitted from the Code.
 
 Section 1917, act June 16, 1948, ch. 472, title I, §101, 62 Stat. 445, which related to payment to States for administrative expenses, was transferred to section 49m of Title 29 and subsequently omitted from the Code.
 

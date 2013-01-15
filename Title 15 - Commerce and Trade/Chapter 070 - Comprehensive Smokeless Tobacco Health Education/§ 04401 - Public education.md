@@ -2,7 +2,7 @@
 
 #### (a) Development
 
-(1) The Secretary of Health and Human Services shall establish and carry out a program to inform the public of any dangers to humanhealth resulting from the use of smokeless tobacco products. In carrying out such program the Secretary shall—
+(1) The Secretary of Health and Human Services shall establish and carry out a program to inform the public of any dangers to human health resulting from the use of smokeless tobacco products. In carrying out such program the Secretary shall—
 
 &emsp;(A) develop educational programs and materials and public service announcements respecting the dangers to human health from the use of smokeless tobacco;
 
@@ -28,7 +28,7 @@ The Secretary of Health and Human Services may provide technical assistance and 
 
 #### Effective Date
 
-Section 11 of Pub. L. 99–252 provided that:
+Pub. L. 99–252, §11, Feb. 27, 1986, 100 Stat. 35, provided that:
 
 “(a)
 
@@ -40,5 +40,5 @@ Exception.—Sections 2, 3(b), 3(c), 3(d), 3(e), 4(b), 7, 8, 9 \[sections 4401, 
 
 #### Short Title
 
-Section 1 of Pub. L. 99–252 provided that: “This Act \[enacting this chapter and amending section 342 of Title 21, Food and Drugs\] may be cited as the ‘Comprehensive Smokeless Tobacco Health Education Act of 1986’.”
+Pub. L. 99–252, §1, Feb. 27, 1986, 100 Stat. 30, provided that: “This Act \[enacting this chapter and amending section 342 of Title 21, Food and Drugs\] may be cited as the ‘Comprehensive Smokeless Tobacco Health Education Act of 1986’.”
 

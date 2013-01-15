@@ -70,7 +70,7 @@ Amendment by Pub. L. 101–508 effective as if included in the enactment of Pub.
 
 #### Effective Date
 
-Section 270(c) of Pub. L. 97–248 provided that: “The amendment made by this section \[enacting this section\] shall take effect on the date of the enactment of this Act \[Sept. 3, 1982\], except that such amendments shall not apply to any assessment made before January 1, 1983.”
+Pub. L. 97–248, title II, §270(c), Sept. 3, 1982, 96 Stat. 554, provided that: “The amendment made by this section \[enacting this section\] shall take effect on the date of the enactment of this Act \[Sept. 3, 1982\], except that such amendments shall not apply to any assessment made before January 1, 1983.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

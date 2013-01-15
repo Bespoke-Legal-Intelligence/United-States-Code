@@ -4,7 +4,7 @@
 
 (b) Notwithstanding subsection (a) of this section, any record of disciplinary action that includes a suspension of more than five days taken against a member of the Service, including any correction of that record under section 4137(b)(1) of this title, shall remain a part of the personnel records until the member is tenured as a career member of the Service or next promoted.
 
-(Pub. L. 96–465, title I, §604, Oct. 17, 1980, 94 Stat. 2096; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §327(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–438.)
+(Pub. L. 96–465, title I, §604, Oct. 17, 1980, 94 Stat. 2096; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A,title III, §327(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–438.)
 
 #### Amendments
 

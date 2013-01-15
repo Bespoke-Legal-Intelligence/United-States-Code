@@ -26,7 +26,7 @@ Determination Required Before Amounts May Be Provided.—Amounts may be provided
 
 (d)
 
-Minimum Amount of Assistance to Distressed Counties and Areas.—For each fiscal year, not less than 50 percent of the amount of grant expenditures the Commission approves shall support activities or projects that benefitseverely and persistently distressed counties and areas.
+Minimum Amount of Assistance to Distressed Counties and Areas.—For each fiscal year, not less than 50 percent of the amount of grant expenditures the Commission approves shall support activities or projects that benefit severely and persistently distressed counties and areas.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1275.)
 

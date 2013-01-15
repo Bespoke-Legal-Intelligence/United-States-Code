@@ -6,19 +6,33 @@ There is hereby established in the Department of Commerce an agency which shall 
 
 #### (b) Administrator
 
-There shall be at the head of the Administration the Administrator of the United States Fire Administration. The Administrator shall be appointed by the President, by and with the advice and consent of the Senate, and shall be compensated at the rate now or hereafter provided for level IV of the Executive Schedule pay rates (5 U.S.C. 5315). The Administrator shall report and be responsible to the Director.
+There shall be at the head of the Administration the Administrator of the United States Fire Administration. The Administrator shall be appointed by the President and shall be compensated at the rate now or hereafter provided for level IV of the Executive Schedule pay rates (5 U.S.C. 5315). The Administrator shall report and be responsible to the Administrator of FEMA.
 
 #### (c) Deputy Administrator
 
-There shall be in the Administration a Deputy Administrator of the United States Fire Administration who shall be appointed by the President, by and with the advice and consent of the Senate, and who shall be compensated at the rate now or hereafter provided for level V of the Executive Schedule pay rates (5 U.S.C. 5316). The Deputy Administrator shall perform such functions as the Administrator shall from time to time assign or delegate, and shall act as Administrator during the absence or disability of the Administrator or in the event of a vacancy in the office of Administrator.
+The Administrator may appoint a Deputy Administrator, who shall—
 
-(Pub. L. 93–498, §5, Oct. 29, 1974, 88 Stat. 1536; Pub. L. 95–422, §2(a)(1), Oct. 5, 1978, 92 Stat. 932; Pub. L. 106–503, title I, §110(a)(2)(B)(i), Nov. 13, 2000, 114 Stat. 2302.)
+&emsp;(1) perform such functions as the Administrator shall from time to time assign or delegate; and
+
+&emsp;(2) act as Administrator during the absence or disability of the Administrator or in the event of a vacancy in the office of Administrator.
+
+(Pub. L. 93–498, §5, Oct. 29, 1974, 88 Stat. 1536; Pub. L. 95–422, §2(a)(1), Oct. 5, 1978, 92 Stat. 932; Pub. L. 106–503, title I, §110(a)(2)(B)(i), Nov. 13, 2000, 114 Stat. 2302; Pub. L. 112–166, §2(f)(2), Aug. 10, 2012, 126 Stat. 1284; Pub. L. 112–239, div. A, title XVIII, §§1802(b)(1), 1812, Jan. 2, 2013, 126 Stat. 2100, 2117.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (b). Pub. L. 112–239, §1802(b)(1), substituted “Administrator of FEMA” for “Director”.
+
+Subsec. (c). Pub. L. 112–239, §1812, amended subsec. (c) generally. Prior to amendment, text read as follows: “There shall be in the Administration a Deputy Administrator of the United States Fire Administration who shall be appointed by the President, by and with the advice and consent of the Senate, and who shall be compensated at the rate now or hereafter provided for level V of the Executive Schedule pay rates (5 U.S.C. 5316). The Deputy Administrator shall perform such functions as the Administrator shall from time to time assign or delegate, and shall act as Administrator during the absence or disability of the Administrator or in the event of a vacancy in the office of Administrator.”
+
+<b>2012</b>—Subsec. (b). Pub. L. 112–166 struck out “, by and with the advice and consent of the Senate,” after “President”.
 
 <b>2000</b>—Subsec. (b). Pub. L. 106–503 substituted “Director” for “Secretary”.
 
 <b>1978</b>—Subsecs. (a) to (c). Pub. L. 95–422 substituted “United States Fire Administration” for “National Fire Prevention and Control Administration”.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under section 113 of Title 6, Domestic Security.
 
 #### Transfer of Functions
 
@@ -63,8 +77,4 @@ Notice of Reprogramming.—If any funds appropriated pursuant to the amendments 
 “(c)
 
 Notice of Reorganization.—Not later than 15 days before any major reorganization of any program, project, or activity of the United States Fire Administration, the Administrator of the United States Fire Administration shall provide notice to the Committees on Science \[now Science, Space, and Technology\] and Appropriations of the House of Representatives and the Committees on Commerce, Science, and Transportation and Appropriations of the Senate.”
-
-#### Abolition of Position of Deputy Administrator
-
-Position of Deputy Administrator of National Fire Prevention and Control Administration abolished by section 301 of Reorganization Plan No. 3 of 1978, §301, 43 F.R. 41944, 92 Stat. 3789, set out as a note under section 2201 of this title.
 

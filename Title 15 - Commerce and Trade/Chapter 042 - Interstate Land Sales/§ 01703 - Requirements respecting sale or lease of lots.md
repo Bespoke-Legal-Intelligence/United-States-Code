@@ -54,7 +54,7 @@ If a contract or agreement is revoked pursuant to subsection (b), (c), or (d) of
 
 <b>1979</b>—Subsec. (a). Pub. L. 96–153 substituted provisions setting forth criteria in par. (1) with respect to the sale or lease of any lot not exempt under section 1702 of this title, for provisions relating to the sale or lease of any lot in any subdivision with accompanying required statement of record and printed property report, and in par. (2) with respect to the sale or lease, or offer to sell or lease, any lot not exempt under section 1702(a) of this title, for provisions relating to the sale or lease, or offer to sell or lease, any lot in a subdivision through the use of specified prohibited activities.
 
-Subsec. (b). Pub. L. 96–153 substituted provisions relating to revocation of contracts or agreements for thesale or lease of a lot not exempt under section 1702 of this title, for provisions relating to voidability of contracts or agreements for the purchase or lease of lots in subdivisions covered by this chapter.
+Subsec. (b). Pub. L. 96–153 substituted provisions relating to revocation of contracts or agreements for the sale or lease of a lot not exempt under section 1702 of this title, for provisions relating to voidability of contracts or agreements for the purchase or lease of lots in subdivisions covered by this chapter.
 
 Subsecs. (c) to (e). Pub. L. 96–153 added subsecs. (c) to (e).
 
@@ -66,5 +66,5 @@ Amendment by Pub. L. 96–153 effective on effective date of regulations impleme
 
 #### Effective Date of 1974 Amendment
 
-Section 812(c)(2) of Pub. L. 93–383 provided that: “The amendments made by paragraph (1) \[amending this section\] shall be effective sixty days after the date of the enactment of this Act \[Aug. 22, 1974\].”
+Pub. L. 93–383, title VIII, §812(c)(2), Aug. 22, 1974, 88 Stat. 737, provided that: “The amendments made byparagraph (1) \[amending this section\] shall be effective sixty days after the date of the enactment of this Act \[Aug. 22, 1974\].”
 

@@ -1,6 +1,4 @@
 
-39 U.S.C.<br>United States Code, 2011 Edition<br>Title 39 - POSTAL SERVICE<br>From the U.S. Government Publishing Office, www.gpo.gov
-
 # TITLE 39—POSTAL SERVICE
 
 <i>This title was enacted by Pub. L. 86–682, §1, Sept. 2, 1960, 74 Stat. 578, and was revised and reenacted by Pub. L. 91–375, §2, Aug. 12, 1970, 84 Stat. 719</i>
@@ -3939,15 +3937,15 @@ Provisions of section 5 of Pub. L. 91–375 effective within 1 year after Aug. 1
 
 #### Corresponding References
 
-Pub. L. 91–375, §6(<i>o</i>)–(q), Aug. 12, 1970, 84 Stat. 783, provided that:
+Pub. L. 91–375, §6(o)–(q), Aug. 12, 1970, 84 Stat. 783, provided that:
 
-“(<i>o</i>) Whenever any reference is made in any provision of law (other than this Act \[see Short Title note set out under section 101 of this title\] or a provision of law amended by this Act), regulation, rule, record, or document to the Post Office Department, the Postal Service, the postal field service, the field postal service, or the departmental service or departmental headquarters of the Post Office Department, such reference shall be considered a reference to the United States Postal Service. Any reference to any officer or employee of the Post Office Department, the Postal Service, the postal field service, the field postal service, or the departmental service or departmental headquarters of the Post Office Department shall be deemed a reference to the appropriate officer or employee of the United States Postal Service.
+“(o) Whenever any reference is made in any provision of law (other than this Act \[see Short Title note set out under section 101 of this title\] or a provision of law amended by this Act), regulation, rule, record, or document to the Post Office Department, the Postal Service, the postal field service, the field postal service, or the departmental service or departmental headquarters of the Post Office Department, such reference shall be considered a reference to the United States Postal Service. Any reference to any officer or employee of the Post Office Department, the Postal Service, the postal field service, the field postal service, or the departmental service or departmental headquarters of the Post Office Department shall be deemed a reference to the appropriate officer or employee of the United States Postal Service.
 
 “(p) Whenever reference is made in any provision of law (other than this Act \[see Short Title note set out under section 101 of this title\] or provision of law amended by this Act), regulation, rule, record, or document to a postal inspector or chief postal inspector of the Post Office Department, such reference shall be deemed to be a reference to the appropriate officer or employee of the United States Postal Service who performs duties related to the inspection of postal matters.
 
 “(q) Whenever reference is made in any law to title 39, United States Code, or provision of that title, as such title or provision existed prior to the effective date of this section \[see Effective Date note set out above\], that reference shall be considered a reference to the appropriate provision of title 39, as amended by section 2 of this Act, unless no such provision is included therein.”
 
-Provisions of section 6(<i>o</i>) to (q) of Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by the Board of Governors and published by it in the Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note above.
+Provisions of section 6(o) to (q) of Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by the Board of Governors and published by it in the Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note above.
 
 #### Separability; Legislative Construction
 

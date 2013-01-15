@@ -94,7 +94,7 @@ Required Board Action for Prescribing Standards and Interpretations.—Before pr
 
 &emsp;(2) prepare and publish a report in the Federal Register on the issues reviewed under paragraph (1);
 
-&emsp;(3)(A) publish an advanced notice of proposed rulemaking in the Federal Register to solicitcomments on the report prepared under paragraph (2);
+&emsp;(3)(A) publish an advanced notice of proposed rulemaking in the Federal Register to solicit comments on the report prepared under paragraph (2);
 
 &emsp;(B) provide all parties affected at least 60 days after publication to submit their views and comments; and
 
@@ -116,7 +116,7 @@ Implementing Regulations.—The Board shall prescribe regulations for the implem
 
 &emsp;(1) disclose in writing their cost accounting practices, including methods of distinguishing direct costs from indirect costs and the basis used for allocating indirect costs; and
 
-&emsp;(2) agree to a contract price adjustment, with interest, for any increased costs paid to the contractor or subcontractor by the Federal Government because of a change in the contractor's or subcontractor's cost accounting practices or a failure by the contractor or subcontractor to comply with applicable cost accounting standards.
+&emsp;(2) agree to a contract price adjustment, with interest, for any increased costs paid tothe contractor or subcontractor by the Federal Government because of a change in the contractor's or subcontractor's cost accounting practices or a failure by the contractor or subcontractor to comply with applicable cost accounting standards.
 
 (g)
 

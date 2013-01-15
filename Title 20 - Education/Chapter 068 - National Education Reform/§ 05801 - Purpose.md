@@ -52,5 +52,5 @@ Pub. L. 106–25, §1, Apr. 29, 1999, 113 Stat. 41, provided that: “This Act \
 
 #### Short Title
 
-Section 1(a) of Pub. L. 103–227 provided that: “This Act (other than titles V and IX) \[enacting this chapter (other than subchapters V and IX) and sections 3351 and 3425 of this title, amending sections 1107, 1221e–1, 1232h, 2421, 3381 to 3384, 3386, and 5093 of this title, section 5315 of Title 5, Government Organization and Employees, sections 1632, 1633, and 1635 of Title 29, Labor, and section 11903a of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under sections 5093 and 6301 of this title and section 11901 of Title 42\] may be cited as the ‘Goals 2000: Educate America Act’.”
+Pub. L. 103–227, §1(a), Mar. 31, 1994, 108 Stat. 125, provided that: “This Act (other than titles V and IX) \[enacting this chapter (other than subchapters V and IX) and sections 3351 and 3425 of this title, amending sections 1107, 1221e–1, 1232h, 2421, 3381 to 3384, 3386, and 5093 of this title, section 5315 of Title 5, Government Organization and Employees, sections 1632, 1633, and 1635 of Title 29, Labor, and section 11903a of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under sections 5093 and 6301 of this title and section 11901 of Title 42\] may be cited as the ‘Goals 2000: Educate America Act’.”
 

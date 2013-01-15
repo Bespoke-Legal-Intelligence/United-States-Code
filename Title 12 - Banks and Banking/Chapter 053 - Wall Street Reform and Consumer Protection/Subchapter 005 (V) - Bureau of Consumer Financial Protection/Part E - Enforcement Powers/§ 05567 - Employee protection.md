@@ -40,7 +40,7 @@ For the purposes of this section, the term “covered employee” means any indi
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 60 days after the date of receipt of a complaint filed under paragraph (1), and after affording the complainant and the person named in the complaint who is alleged to have committed the violation that is the basis for the complaint an opportunity to submit to the Secretary of Labor a written response to the complaint and an opportunity to meet with a representative of the Secretary of Labor to present statements from witnesses, the Secretary of Labor shall—
+&emsp;&emsp;Not later than 60 days after the date of receipt of a complaint filed under paragraph\(1), and after affording the complainant and the person named in the complaint who is alleged to have committed the violation that is the basis for the complaint an opportunity to submit to the Secretary of Labor a written response to the complaint and an opportunity to meet with a representative of the Secretary of Labor to present statements from witnesses, the Secretary of Labor shall—
 
 &emsp;&emsp;&emsp;(i) initiate an investigation and determine whether there is reasonable cause to believe that the complaint has merit; and
 
@@ -98,11 +98,11 @@ For the purposes of this section, the term “covered employee” means any indi
 
 #### (i) Failure of the Secretary to act
 
-&emsp;&emsp;&emsp;If the Secretary of Labor has not issued a final order within 210 days after the date of filing of a complaint under this subsection, or within 90 days after the date of receipt of a written determination, the complainant may bring an action at law or equity for de novo review in the appropriate district court of the United States having jurisdiction, which shall have jurisdiction over such an action without regard to the amount in controversy, and which action shall, at the request of either party to such action, be tried by the court with a jury.
+&emsp;&emsp;&emsp;If the Secretary of Labor has not issued a final order within 210 days after the date of filing of a complaint under this subsection, or within 90 days after the date of receipt of a written determination, the complainant may bring an action at law orequity for de novo review in the appropriate district court of the United States having jurisdiction, which shall have jurisdiction over such an action without regard to the amount in controversy, and which action shall, at the request of either party to such action, be tried by the court with a jury.
 
 #### (ii) Procedures
 
-&emsp;&emsp;&emsp;A proceeding under clause (i) shall be governed by the same legal burdens ofproof specified in paragraph (3). The court shall have jurisdiction to grant all relief necessary to make the employee whole, including injunctive relief and compensatory damages, including—
+&emsp;&emsp;&emsp;A proceeding under clause (i) shall be governed by the same legal burdens of proof specified in paragraph (3). The court shall have jurisdiction to grant all relief necessary to make the employee whole, including injunctive relief and compensatory damages, including—
 
 &emsp;&emsp;&emsp;&emsp;(I) reinstatement with the same seniority status that the employee would have had, but for the discharge or discrimination;
 

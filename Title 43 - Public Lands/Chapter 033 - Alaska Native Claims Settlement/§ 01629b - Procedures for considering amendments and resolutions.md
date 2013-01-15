@@ -4,7 +4,7 @@
 
 Notwithstanding any provision of the articles of incorporation and bylaws of a Native Corporation or of the laws of the State, except those related to proxy statements and solicitations that are not inconsistent with this section—
 
-&emsp;(1) an amendment to the articles of incorporation of a Native Corporation authorized by subsections (g) and (h) of section 1606 of this title, subsection (d)(1)(B) of this section, or section 1629c of this title;
+&emsp;(1) an amendment to the articles of incorporation of a Native Corporation authorized bysubsections (g) and (h) of section 1606 of this title, subsection (d)(1)(B) of this section, or section 1629c of this title;
 
 &emsp;(2) a resolution authorized by section 1629d(a)(2) of this title;
 
@@ -38,7 +38,7 @@ Notwithstanding any provision of the articles of incorporation and bylaws of a N
 
 #### (c) Shareholder petitions
 
-(1)(A) With respect to an amendment authorized by section 1606(g)(1)(B) of this title or section 1629c(b) of this title or an amendment authorizing the issuance of stock subject to the restrictions provided by section 1606(g)(2)(B)(iii) of this title, the holders of shares representing at least 25 per centum of the total voting power of a Native Corporation may petition the boardof directors to submit such amendment to a vote of the shareholders in accordance with the provisions of this section.
+(1)(A) With respect to an amendment authorized by section 1606(g)(1)(B) of this title or section 1629c(b) of this title or an amendment authorizing the issuance of stock subject to the restrictions provided by section 1606(g)(2)(B)(iii) of this title, the holders of shares representing at least 25 per centum of the total voting power of a Native Corporation may petition the board of directors to submit such amendment to a vote of the shareholders in accordance with the provisions of this section.
 
 (B) The requirements of the laws of the State relating to the solicitation of proxies shall govern solicitation of signatures for a petition described in subparagraph (A) except that the requirements of Federal law shall govern the solicitation of signatures for a petition that is to be submitted to a Native Corporation which at the time of such submission has issued a class of equity securities registered pursuant to the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\]. If a petition meets the applicable solicitation requirements and—
 

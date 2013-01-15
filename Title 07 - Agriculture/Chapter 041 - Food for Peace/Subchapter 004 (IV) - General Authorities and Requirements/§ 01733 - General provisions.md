@@ -98,7 +98,7 @@ In carrying out this chapter, reasonable precautions shall be taken to safeguard
 
 Local currencies that are made available for use under this chapter may not be used to pay for the performance of abortions as a method of family planning or to motivate or coerce any person to practice abortions.
 
-#### (<i>l</i>) Sale procedure
+#### (l) Sale procedure
 
 #### (1) In general
 
@@ -108,7 +108,7 @@ Local currencies that are made available for use under this chapter may not be u
 
 &emsp;&emsp;(B) section 1431(b) of this title; and
 
-&emsp;&emsp;(C) the Food for Progress Act of 1985 (7 U.S.C. 1736<i>o</i>).
+&emsp;&emsp;(C) the Food for Progress Act of 1985 (7 U.S.C. 1736o).
 
 #### (2) Currency
 
@@ -118,13 +118,13 @@ Local currencies that are made available for use under this chapter may not be u
 
 #### References in Text
 
-The Food for Progress Act of 1985, referred to in subsec. (<i>l</i>)(1)(C), is Pub. L. 99–198, title XI, §1110, Dec. 23, 1985, 99 Stat. 1472, as amended, which is classified to section 1736<i>o</i> of this title.
+The Food for Progress Act of 1985, referred to in subsec. (l)(1)(C), is Pub. L. 99–198, title XI, §1110, Dec. 23, 1985, 99 Stat. 1472, as amended, which is classified to section 1736o of this title.
 
 #### Amendments
 
 <b>2002</b>—Subsec. (e). Pub. L. 107–171, §3009(a)(1), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-Subsec. (<i>l</i>). Pub. L. 107–171, §3009(a)(2), added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 107–171, §3009(a)(2), added subsec. (l).
 
 <b>1996</b>—Subsec. (b). Pub. L. 104–127, §213(1), inserted heading and struck out former heading “Consultations” and in text struck out “consult with representatives from the International Monetary Fund, the International Bank for Reconstruction and Development, the World Bank, and other donor organizations to” before “ensure that”.
 

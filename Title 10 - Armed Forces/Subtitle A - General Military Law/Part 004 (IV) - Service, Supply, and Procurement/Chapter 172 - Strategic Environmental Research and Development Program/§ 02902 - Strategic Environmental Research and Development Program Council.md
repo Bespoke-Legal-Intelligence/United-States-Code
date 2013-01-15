@@ -8,7 +8,7 @@
 
 &emsp;(2) The Vice Chairman of the Joint Chiefs of Staff.
 
-&emsp;(3) The official within the Office of the Under Secretary of Defense for Acquisition, Technology, and Logistics who is responsible for environmental security.
+&emsp;(3) The official within the Office of the Under Secretary of Defense for Acquisition,Technology, and Logistics who is responsible for environmental security.
 
 &emsp;(4) The Assistant Secretary of Energy for Defense programs.
 
@@ -80,7 +80,7 @@
 
 &emsp;(7) encourage transfer of technologies referred to in clauses (2) through (6) to the private sector under the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3701 et seq.) and other applicable laws;
 
-&emsp;(8) provide for the identification of, and planning for the demonstration and use of, existing environmentally sound, energy-efficienttechnologies developed by the private sector that could be used directly by the Department of Defense;
+&emsp;(8) provide for the identification of, and planning for the demonstration and use of, existing environmentally sound, energy-efficient technologies developed by the private sector that could be used directly by the Department of Defense;
 
 &emsp;(9) provide for the identification of military specifications that prevent or limit the use of environmentally beneficial technologies, materials, and substances in the performance of Department of Defense contracts and recommend changes to such specifications; and
 
@@ -146,7 +146,7 @@ Amendment by Pub. L. 111–383 effective Jan. 1, 2011, see section 901(p) of Pub
 
 #### Effective Date of 1996 Amendment
 
-Section 203(b)(3) of Pub. L. 104–106 provided that: “The amendments made by this subsection \[amending this section\] shall apply with respect to the annual report prepared during fiscal year 1997 and each fiscal year thereafter.”
+Pub. L. 104–106, div. A, title II, §203(b)(3), Feb. 10, 1996, 110 Stat. 218, provided that: “The amendments made by this subsection \[amending this section\] shall apply with respect to the annual report prepared during fiscal year 1997 and each fiscal year thereafter.”
 
 #### Transfer of Functions
 
@@ -154,5 +154,5 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### First Annual Report of Strategic Environmental Research and Development Program Council
 
-Section 1801(c) of Pub. L. 101–510 provided that the first annual report required by former subsec. (h) of this section be submitted to Secretary of Defense, Secretary of Energy, and Administrator of the Environmental Protection Agency not later than Feb. 1, 1992, that the Strategic Environmental Research and Development Program Council conduct and include as part of report an assessment of advisability of, and various alternatives to, charging fees for information released, as required pursuant to section 2901(b)(3) of this title and subsecs. (e)(1), (2), and (g)(2)(I) \[now (f)(2)(I)\] of this section, to private sector entities operating for a profit, and that Secretary of Defense, Secretary of Energy, and Administrator of the Environmental Protection Agency submit to Congress any recommendations for changes in structure or personnel of Council that Secretaries and Administrator consider necessary to carry out environmental activities of strategic environmental research and development program.
+Pub. L. 101–510, div. A, title XVIII, §1801(c), Nov. 5, 1990, 104 Stat. 1758, provided that the first annual report required by former subsec. (h) of this section be submitted to Secretary of Defense, Secretary of Energy, and Administrator of the Environmental Protection Agency not later than Feb. 1, 1992, that the Strategic Environmental Research and Development Program Council conduct and include as part of report an assessment of advisability of, and various alternatives to, charging fees for information released, as required pursuant to section 2901(b)(3) of this title and subsecs. (e)(1), (2), and (g)(2)(I) \[now (f)(2)(I)\] of this section, to private sector entities operating for a profit, and that Secretary of Defense, Secretary of Energy, and Administrator of the Environmental Protection Agency submit to Congress any recommendations for changes in structure or personnel of Council that Secretaries and Administrator consider necessary to carry out environmental activities of strategic environmental research and development program.
 

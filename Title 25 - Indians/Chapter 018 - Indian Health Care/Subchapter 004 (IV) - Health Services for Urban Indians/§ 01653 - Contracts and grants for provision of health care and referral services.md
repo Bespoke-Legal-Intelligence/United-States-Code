@@ -2,7 +2,7 @@
 
 #### (a) Requirements
 
-Under authority of section 13 of this title, the Secretary, through the Service, shall enter into contracts with, or make grants to, urban Indian organizations for the provision of health care and referral services for urban Indians residing in the urban centers in which such organizations are situated. Any such contract or grant shall include requirements that the urban Indian organization successfully undertake to—
+Under authority of section 13 of this title, the Secretary, through the Service, shall enter intocontracts with, or make grants to, urban Indian organizations for the provision of health care and referral services for urban Indians residing in the urban centers in which such organizations are situated. Any such contract or grant shall include requirements that the urban Indian organization successfully undertake to—
 
 &emsp;(1) estimate the population of urban Indians residing in the urban center in which such organization is situated who are or could be recipients of health care or referral services;
 
@@ -76,13 +76,13 @@ The Secretary, acting through the Service, shall facilitate access to, or provid
 
 (1) The Secretary, acting through the Service, shall facilitate access to, or provide, mental health services for urban Indians through grants made to urban Indian organizations administering contracts entered into pursuant to this section or receiving grants under subsection (a) of this section.
 
-(2) A grant may not be made under this subsection to an urban Indian organization until that organization has prepared, and the Service has approved, an assessment of the mental health needs of the urban Indian population concerned, the mental health services and other related resources available to that population, the barriers to obtaining those services and resources, and the needs that are unmet by such services and resources.
+(2) A grant may not be made under this subsection to an urban Indian organization until that organization has prepared, and the Service has approved, an assessment of the mental health needs of the urban Indian population concerned, the mental health services and other related resources available to that population, thebarriers to obtaining those services and resources, and the needs that are unmet by such services and resources.
 
 (3) Grants may be made under this subsection—
 
 &emsp;(A) to prepare assessments required under paragraph (2);
 
-&emsp;(B) to provide outreach, educational, and referral services to urban Indians regarding the availability of direct mental health services,to educate urban Indians about mental health issues and services, and effect coordination with existing mental health providers in order to improve services to urban Indians;
+&emsp;(B) to provide outreach, educational, and referral services to urban Indians regarding the availability of direct mental health services, to educate urban Indians about mental health issues and services, and effect coordination with existing mental health providers in order to improve services to urban Indians;
 
 &emsp;(C) to provide outpatient mental health services to urban Indians, including the identification and assessment of illness, therapeutic treatments, case management, support groups, family treatment, and other treatment; and
 
@@ -148,7 +148,7 @@ Subsec. (f)(5). Pub. L. 102–573, §505(b)(1)(D), struck out par. (5) which aut
 
 #### Facilities Assessment
 
-Section 506(a), (b) of Pub. L. 101–630 provided that:
+Pub. L. 101–630, title V, §506(a), (b), Nov. 28, 1990, 104 Stat. 4566, provided that:
 
 “(a)
 

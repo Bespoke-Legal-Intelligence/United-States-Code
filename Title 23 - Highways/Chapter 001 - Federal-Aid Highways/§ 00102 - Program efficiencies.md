@@ -6,11 +6,13 @@ Access of Motorcycles.—No State or political subdivision of a State may enact 
 
 (b)
 
-Engineering Cost Reimbursement.—If on-site construction of, or acquisition of right-of-way for, a highway project is not commenced within 10 years (or such longer period as the State requests and the Secretary determines to be reasonable) after the date on which Federal funds are first made available, out of the Highway Trust Fund (other than Mass Transit Account), for preliminary engineering of such project, the State shall pay an amount equal to the amount of Federal funds made available for such engineering. The Secretary shall deposit in such Fund all amounts paid to the Secretary under this section.
+Engineering Cost Reimbursement.—If on-site construction of, or acquisition of right-of-way for, a highway project is not commenced within 10 years (or such longer period as the State requests and the Secretary determines to be reasonable) after the date on which Federal funds are first made available, out of the Highway Trust Fund (other than Mass Transit Account), for preliminary engineering of such project, the State shall pay an amount equal to the amount of Federal funds reimbursed for the preliminary engineering. The Secretary shall deposit in such Fund all amounts paid to the Secretary under this section.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 887; Pub. L. 102–240, title I, §1016(a), Dec. 18, 1991, 105 Stat. 1945; Pub. L. 105–178, title I, §§1206, 1209, 1212(a)(2)(A)(i), 1304, June 9, 1998, 112 Stat. 185, 186, 193, 227; Pub. L. 109–59, title I, §1121(b)(1), Aug. 10, 2005, 119 Stat. 1195.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 887; Pub. L. 102–240, title I, §1016(a), Dec. 18, 1991, 105 Stat. 1945; Pub. L. 105–178, title I, §§1206, 1209, 1212(a)(2)(A)(i), 1304, June 9, 1998, 112 Stat. 185, 186, 193, 227; Pub. L. 109–59, title I, §1121(b)(1), Aug. 10, 2005, 119 Stat. 1195; Pub. L. 112–141, div. A, title I, §1502, July 6, 2012, 126 Stat. 561.)
 
 #### Amendments
+
+<b>2012</b>—Subsec. (b). Pub. L. 112–141 substituted “reimbursed for the preliminary engineering” for “made available for such engineering”.
 
 <b>2005</b>—Pub. L. 109–59 redesignated subsecs. (b) and (c) as (a) and (b), respectively, and struck out heading and text of former subsec. (a). Text read as follows:
 
@@ -33,6 +35,10 @@ Subsec. (c). Pub. L. 105–178, §1304, which directed insertion of “(or such 
 Pub. L. 105–178, §1206, redesignated subsec. (b) as (c).
 
 <b>1991</b>—Pub. L. 102–240 substituted section catchline for one which read: “Authorizations” and amended text generally. Prior to amendment, text read as follows: “The provisions of this title apply to all unappropriated authorizations contained in prior Acts, and also to all unexpended appropriations, heretofore made, providing for the expenditure of Federal funds upon the Federal-aid systems. All such authorizations and appropriations shall continue in full force and effect, but hereafter obligations entered into and expenditures made pursuant thereto shall be subject to the provisions of this title.”
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
 
 #### Effective Date of 1991 Amendment
 

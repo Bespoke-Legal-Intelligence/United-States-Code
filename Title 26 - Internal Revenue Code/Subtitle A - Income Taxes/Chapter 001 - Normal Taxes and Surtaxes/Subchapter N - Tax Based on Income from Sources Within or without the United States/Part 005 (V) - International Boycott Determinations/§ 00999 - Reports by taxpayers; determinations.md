@@ -14,7 +14,7 @@
 
 #### (2) Participation and cooperation; request therefor
 
-&emsp;A taxpayer shall report whether he, a foreign corporation of which he is a UnitedStates shareholder, or any member of a controlled group which includes the taxpayer or such foreign corporation has participated in or cooperated with an international boycott at any time during the taxable year, or has been requested to participate in or cooperate with such a boycott, and, if so, the nature of any operation in connection with which there was participation in or cooperation with such boycott (or there was a request to participate or cooperate).
+&emsp;A taxpayer shall report whether he, a foreign corporation of which he is a United States shareholder, or any member of a controlled group which includes the taxpayer or such foreign corporation has participated in or cooperated with an international boycott at any time during the taxable year, or has been requested to participate in or cooperate with such a boycott, and, if so, the nature of any operation in connection with which there was participation in or cooperation with such boycott (or there was a request to participate or cooperate).
 
 #### (3) List to be maintained
 

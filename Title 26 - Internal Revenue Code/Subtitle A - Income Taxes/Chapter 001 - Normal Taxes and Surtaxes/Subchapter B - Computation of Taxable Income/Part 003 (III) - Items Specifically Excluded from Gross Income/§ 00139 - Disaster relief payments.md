@@ -14,7 +14,7 @@ For purposes of this section, the term “qualified disaster relief payment” m
 
 &emsp;(3) by a person engaged in the furnishing or sale of transportation as a common carrier by reason of the death or personal physical injuries incurred as a result of a qualified disaster, or
 
-&emsp;(4) if such amount is paid by a Federal, State, or local government, or agency or instrumentality thereof, in connection with a qualified disaster in order to promote the general welfare,
+&emsp;(4) if such amount is paid by a Federal, State, or local government, or agency or instrumentality thereof, in connection with aqualified disaster in order to promote the general welfare,
 
 > but only to the extent any expense compensated by such payment is not otherwise compensated for by insurance or otherwise.
 
@@ -96,7 +96,7 @@ Pub. L. 109–7, §1(c)(1), Apr. 15, 2005, 119 Stat. 22, provided that: “The a
 
 #### Effective Date
 
-Pub. L. 107–134, title I, §111(c), Jan. 23, 2002, 115 Stat. 2433, provided that: “The amendments made by this section \[enacting this section and renumbering former section 139 as section 140 of this title\] shall apply to taxable years ending on or after September 11, 2001.”
+Pub. L. 107–134, title I, §111(c), Jan. 23, 2002, 115 Stat. 2433, provided that: “The amendments made by thissection \[enacting this section and renumbering former section 139 as section 140 of this title\] shall apply to taxable years ending on or after September 11, 2001.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by “a”.</i>
 

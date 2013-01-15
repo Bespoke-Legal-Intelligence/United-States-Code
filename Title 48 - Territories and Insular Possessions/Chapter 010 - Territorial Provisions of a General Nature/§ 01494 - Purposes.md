@@ -10,11 +10,11 @@ The purposes of sections 1494 to 1494c of this title are to improve enforcement 
 
 #### Short Title of 1988 Amendment
 
-Section 9301(a) of Pub. L. 100–690 provided that: “This subtitle \[subtitle D (§§9301–9310) of title IX of Pub. L. 100–690, enacting section 1494c of this title and amending this section and sections 1494a and 1494b of this title and section 10603 of Title 42, The Public Health and Welfare\] may be cited as the ‘Insular Areas Drug Abuse Amendments of 1988’.”
+Pub. L. 100–690, title IX, §9301(a), Nov. 18, 1988, 102 Stat. 4535, provided that: “This subtitle \[subtitle D (§§9301–9310) of title IX of Pub. L. 100–690, enacting section 1494c of this title and amending this section and sections 1494a and 1494b of this title and section 10603 of Title 42, The Public Health and Welfare\] may be cited as the ‘Insular Areas Drug Abuse Amendments of 1988’.”
 
 #### Short Title
 
-Section 5001 of title V of Pub. L. 99–570 provided that: “This subtitle \[subtitle A (§§5001–5004) of title V of Pub. L. 99–570, enacting this section and sections 1494a and1494b of this title\] may be cited as the ‘United States Insular Areas Drug Abuse Act of 1986’.”
+Pub. L. 99–570, title V, §5001, Oct. 27, 1986, 100 Stat. 3207–154, provided that: “This subtitle \[subtitle A (§§5001–5004) of title V of Pub. L. 99–570, enacting this section and sections 1494a and 1494b of this title\] may be cited as the ‘United States Insular Areas Drug Abuse Act of 1986’.”
 
 #### Termination of Trust Territory of the Pacific Islands
 

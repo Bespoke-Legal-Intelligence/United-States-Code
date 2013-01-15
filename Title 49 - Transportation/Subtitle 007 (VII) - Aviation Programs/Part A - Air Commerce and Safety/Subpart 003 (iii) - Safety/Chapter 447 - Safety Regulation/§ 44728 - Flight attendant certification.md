@@ -44,9 +44,29 @@ Approval of Training Programs.—Air carrier flight attendant training programs 
 
 (f)
 
+Minimum Language Skills.—
+
+&emsp;(1)
+
+In general.—No person may serve as a flight attendant aboard an aircraft of an air carrier, unless that person has demonstrated to an individual qualified to determine proficiency the ability to read, speak, and write English well enough to—
+
+&emsp;&emsp;(A) read material written in English and comprehend the information;
+
+&emsp;&emsp;(B) speak and understand English sufficiently to provide direction to, and understand and answer questions from, English-speaking individuals;
+
+&emsp;&emsp;(C) write incident reports and statements and log entries and statements; and
+
+&emsp;&emsp;(D) carry out written and oral instructions regarding the proper performance of their duties.
+
+&emsp;(2)
+
+Foreign flights.—The requirements of paragraph (1) do not apply to a flight attendant serving solely between points outside the United States.
+
+(g)
+
 Flight Attendant Defined.—In this section, the term “flight attendant” means an individual working as a flight attendant in the cabin of an aircraft that has 20 or more seats and is being used by an air carrier to provide air transportation.
 
-(Added Pub. L. 108–176, title VIII, §814(a), Dec. 12, 2003, 117 Stat. 2590.)
+(Added Pub. L. 108–176, title VIII, §814(a), Dec. 12, 2003, 117 Stat. 2590; amended Pub. L. 112–95, title III, §304(a), Feb. 14, 2012, 126 Stat. 58.)
 
 #### References in Text
 
@@ -54,9 +74,17 @@ For effective date of this section, referred to in subsecs. (a)(2) and (d)(5), s
 
 The date of enactment of this section, referred to in subsec. (e), is the date of enactment of Pub. L. 108–176, which was approved Dec. 12, 2003.
 
+#### Amendments
+
+<b>2012</b>—Subsecs. (f), (g). Pub. L. 112–95 added subsec. (f) and redesignated former subsec. (f) as (g).
+
 #### Effective Date
 
 Pub. L. 108–176, title VIII, §814(c), Dec. 12, 2003, 117 Stat. 2592, provided that: “The amendments made by subsections (a) and (b) \[enacting this section and amending the analysis to this chapter\] shall take effect on the 365th day following the date of enactment of this Act \[Dec. 12, 2003\].”
+
+#### Facilitation
+
+Pub. L. 112–95, title III, §304(b), Feb. 14, 2012, 126 Stat. 58, provided that: “The Administrator of the Federal Aviation Administration shall work with air carriers to facilitate compliance with the requirements of section 44728(f) of title 49, United States Code (as amended by this section).”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “be”.</i>
 

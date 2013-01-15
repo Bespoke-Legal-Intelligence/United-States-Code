@@ -6,7 +6,7 @@ The Secretary is authorized to appoint and fix the compensation of such officers
 
 #### (b) Applicability of General Schedule; termination of authority; exemption from limitations on executive positions
 
-(1) At the request of the Secretary, the Director of the Office of Personnel Management shall, under section 5108 of title 5, provide for the establishment in each of the grade levels GS–16,GS–17, and GS–18 of a number of positions in the Department equal to the number of positions in that grade level which were used primarily for the performance of functions and offices transferred under this chapter and which were assigned and filled on the day before May 4, 1980.
+(1) At the request of the Secretary, the Director of the Office of Personnel Management shall, under section 5108 of title 5, provide for the establishment in each of the grade levels GS–16, GS–17, and GS–18 of a number of positions in the Department equal to the number of positions in that grade level which were used primarily for the performance of functions and offices transferred under this chapter and which were assigned and filled on the day before May 4, 1980.
 
 (2) Repealed. Pub. L. 107–279, title IV, §403(3), Nov. 5, 2002, 116 Stat. 1985.
 

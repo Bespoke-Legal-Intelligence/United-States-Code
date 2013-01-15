@@ -30,7 +30,7 @@ Venue and Joinder.—(1) A civil action under subsection (a) of this section may
 
 (c)
 
-Time Requirements.—When an insurance claim is made under this chapter, the period during which, under section 2401 of title 28, a civil action must be brought under subsection (a) of this section is suspended until 60 days after the Secretary of Transportation denies the claim. The claim is deemed to be administratively denied if the Secretary does not act on the claim not later than 6 months after filing, unless the Secretary makes a different agreement with the claimant when there is good cause for an agreement.
+Time Requirements.—When an insurance claim is made under this chapter, the period during which, under section 2401 of title 28, a civil action must be brought under subsection (a) of this section is suspended until 60 days after the Secretary of Transportation denies the claim. The claim is deemed to be administratively denied if the Secretary does not act on the claim not later than 6 months after filing,unless the Secretary makes a different agreement with the claimant when there is good cause for an agreement.
 
 (d)
 
@@ -90,5 +90,5 @@ In subsection (d)(3), the words “in a civil action under this subsection” ar
 
 #### Amendments
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–277 amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “A person may bring a civil action in a district court of the United States against the United States Government when a loss insured under this chapter is in dispute. A civil action involving thesame matter (except the action authorized by this subsection) may not be brought against an agent, officer, or employee of the Government carrying out this chapter. To the extent applicable, the procedure in an action brought under section 1346(a)(2) of title 28 applies to an action under this subsection.”
+<b>1998</b>—Subsec. (a). Pub. L. 105–277 amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “A person may bring a civil action in a district court of the United States against the United States Government when a loss insured under this chapter is in dispute. A civil action involving the same matter (except the action authorized by this subsection) may not be brought against an agent, officer, or employee of the Government carrying out this chapter. To the extent applicable, the procedure in an action brought under section 1346(a)(2) of title 28 applies to an action under this subsection.”
 

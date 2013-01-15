@@ -94,7 +94,7 @@
 
 #### (b) Extension of period for submission of plans
 
-The Administrator may, wherever he determines necessary, extend the period for submission of any plan or portion thereof which implements a national secondary ambient air quality standard for a period not to exceed 18 months from the date otherwise required for submission of such plan.
+The Administrator may, wherever he determines necessary, extend the period for submission of any plan or portion thereof which implements a national secondary ambient air quality standard for a period not to exceed 18 monthsfrom the date otherwise required for submission of such plan.
 
 #### (c) Preparation and publication by Administrator of proposed regulations setting forth implementation plan; transportation regulations study and report; parking surcharge; suspension authority; plan implementation
 
@@ -108,7 +108,7 @@ The Administrator may, wherever he determines necessary, extend the period for s
 
 (2)(A) Repealed. Pub. L. 101–549, title I, §101(d)(3)(A), Nov. 15, 1990, 104 Stat. 2409.
 
-(B) No parking surcharge regulation may be required by the Administrator under paragraph (1) of this subsection as a part of an applicable implementation plan. All parking surcharge regulations previously required by the Administrator shall be void upon June 22, 1974. This subparagraph shall not prevent the Administratorfrom approving parking surcharges if they are adopted and submitted by a State as part of an applicable implementation plan. The Administrator may not condition approval of any implementation plan submitted by a State on such plan's including a parking surcharge regulation.
+(B) No parking surcharge regulation may be required by the Administrator under paragraph (1) of this subsection as a part of an applicable implementation plan. All parking surcharge regulations previously required by the Administrator shall be void upon June 22, 1974. This subparagraph shall not prevent the Administrator from approving parking surcharges if they are adopted and submitted by a State as part of an applicable implementation plan. The Administrator may not condition approval of any implementation plan submitted by a State on such plan's including a parking surcharge regulation.
 
 (C) Repealed. Pub. L. 101–549, title I, §101(d)(3)(B), Nov. 15, 1990, 104 Stat. 2409.
 
@@ -228,7 +228,7 @@ As a condition for issuance of any permit required under this subchapter, the ow
 
 &emsp;Whenever the Administrator determines that the Administrator's action approving, disapproving, or promulgating any plan or plan revision (or part thereof), area designation, redesignation, classification, or reclassification was in error, the Administrator may in the same manner as the approval, disapproval, or promulgation revise such action as appropriate without requiring any further submission from the State. Such determination and the basis thereof shall be provided to the State and public.
 
-#### (<i>l</i>) Plan revisions
+#### (l) Plan revisions
 
 Each revision to an implementation plan submitted by a State under this chapter shall be adopted by such State after reasonable notice and public hearing. The Administrator shall not approve a revision of a plan if the revision would interfere with any applicable requirement concerning attainment and reasonable further progress (as defined in section 7501 of this title), or any other applicable requirement of this chapter.
 
@@ -240,7 +240,7 @@ The Administrator may apply any of the sanctions listed in section 7509(b) of th
 
 #### (1) Existing plan provisions
 
-&emsp;Any provision of any applicable implementation plan that was approved or promulgated bythe Administrator pursuant to this section as in effect before November 15, 1990, shall remain in effect as part of such applicable implementation plan, except to the extent that a revision to such provision is approved or promulgated by the Administrator pursuant to this chapter.
+&emsp;Any provision of any applicable implementation plan that was approved or promulgated by the Administrator pursuant to this section as in effect before November 15, 1990, shall remain in effect as part of such applicable implementation plan, except to the extent that a revision to such provision is approved or promulgated by the Administrator pursuant to this chapter.
 
 #### (2) Attainment dates
 
@@ -256,7 +256,7 @@ The Administrator may apply any of the sanctions listed in section 7509(b) of th
 
 &emsp;In the case of an area to which, immediately before November 15, 1990, the prohibition on construction or modification of major stationary sources prescribed in subsection (a)(2)(I) of this section (as in effect immediately before November 15, 1990) applied by virtue of a finding of the Administrator that the State containing such area had not submitted an implementation plan meeting the requirements of section 7502(b)(6) of this title (relating to establishment of a permit program) (as in effect immediately before November 15, 1990) or 7502(a)(1) of this title (to the extent such requirements relate to provision for attainment of the primary national ambient air quality standard for sulfur oxides by December 31, 1982) as in effect immediately before November 15, 1990, no major stationary source of the relevant air pollutant or pollutants shall be constructed or modified in such area until the Administrator finds that the plan for such area meets the applicable requirements of section 7502(c)(5) of this title (relating to permit programs) or subpart 5 of part D of this subchapter (relating to attainment of the primary national ambient air quality standard for sulfur dioxide), respectively.
 
-#### (<i>o</i>) Indian tribes
+#### (o) Indian tribes
 
 If an Indian tribe submits an implementation plan to the Administrator pursuant to section 7601(d) of this title, the plan shall be reviewed in accordance with the provisions for review set forth in this section for State plans, except as otherwise provided by regulation promulgated pursuant to section 7601(d)(2) of this title. When such plan becomes effective in accordance with the regulations promulgated under section 7601(d) of this title, the plan shall become applicable to all areas (except as expressly provided otherwise in the plan) located within the exterior boundaries of the reservation, notwithstanding the issuance of any patent and including rights-of-way running through the reservation.
 
@@ -272,7 +272,7 @@ The Energy Supply and Environmental Coordination Act of 1974, referred to in sub
 
 Section 7413 of this title, referred to in subsecs. (a)(3)(C), (6), (f)(5), (g)(3), and (i), was amended generally by Pub. L. 101–549, title VII, §701, Nov. 15, 1990, 104 Stat. 2672, and, as so amended, subsecs. (d) and (e) of section 7413 no longer relates to final compliance orders and steel industry compliance extension, respectively.
 
-Section 1857c–10 of this title, as in effect before August 7, 1977, referred to in subsecs. (f)(5) and (g)(3), was in the original “section 119, as in effect before the date of the enactment of this paragraph”, meaning section 119 of act July 14, 1955, ch. 360, title I, as added June 22, 1974, Pub. L. 93–319, §3, 88 Stat. 248, (which was classified to section 1857c–10 of this title) as in effect prior to the enactment of subsecs. (f)(5) and (g)(3) of this section by Pub. L. 95–95, §107, Aug. 7, 1977, 91 Stat. 691, effective Aug. 7, 1977. Section 112(b)(1) of Pub. L. 95–95 repealed section 119 of act July 14, 1955, ch. 360, title I, as added by Pub. L. 93–319, and provided that all references to such section 119 in any subsequent enactment which supersedes Pub. L. 93–319 shall be construed to refer to section 113(d) of the Clean Air Act and to paragraph (5) thereof in particular which is classified to section 7413(d)(5) of this title. Section 7413 of this title was subsequently amended generally by Pub. L. 101–549, title VII, §701, Nov. 15, 1990, 104 Stat. 2672, see note above. Section 117(b) of Pub. L. 95–95 added a new section 119 of act July 14, 1955, which is classified to section 7419 of this title.
+Section 1857c–10 of this title, as in effect before August 7, 1977, referred to in subsecs. (f)(5) and (g)(3), wasin the original “section 119, as in effect before the date of the enactment of this paragraph”, meaning section 119 of act July 14, 1955, ch. 360, title I, as added June 22, 1974, Pub. L. 93–319, §3, 88 Stat. 248, (which was classified to section 1857c–10 of this title) as in effect prior to the enactment of subsecs. (f)(5) and (g)(3) of this section by Pub. L. 95–95, §107, Aug. 7, 1977, 91 Stat. 691, effective Aug. 7, 1977. Section 112(b)(1) of Pub. L. 95–95 repealed section 119 of act July 14, 1955, ch. 360, title I, as added by Pub. L. 93–319, and provided that all references to such section 119 in any subsequent enactment which supersedes Pub. L. 93–319 shall be construed to refer to section 113(d) of the Clean Air Act and to paragraph (5) thereof in particular which is classified to section 7413(d)(5) of this title. Section 7413 of this title was subsequently amended generally by Pub. L. 101–549, title VII, §701, Nov. 15, 1990, 104 Stat. 2672, see note above. Section 117(b) of Pub. L. 95–95 added a new section 119 of act July 14, 1955, which is classified to section 7419 of this title.
 
 #### Codification
 
@@ -316,7 +316,7 @@ Subsec. (h)(1). Pub. L. 101–549, §101(d)(7), substituted “5 years after Nov
 
 Subsecs. (k) to (n). Pub. L. 101–549, §101(c), added subsecs. (k) to (n).
 
-Subsec. (<i>o</i>). Pub. L. 101–549, §107(c), added subsec. (<i>o</i>).
+Subsec. (o). Pub. L. 101–549, §107(c), added subsec. (o).
 
 Subsec. (p). Pub. L. 101–549, §108(d), added subsec. (p).
 
@@ -394,7 +394,7 @@ Nothing in the Clean Air Act Amendments of 1977 \[Pub. L. 95–95\] to affect an
 
 #### Savings Provision
 
-Section 16 of Pub. L. 91–604 provided that:
+Pub. L. 91–604, §16, Dec. 31, 1970, 84 Stat. 1713, provided that:
 
 “(a)(1) Any implementation plan adopted by any State and submitted to the Secretary of Health, Education, and Welfare, or to the Administrator pursuant to the Clean Air Act \[this chapter\] prior to enactment of this Act \[Dec. 31, 1970\] may be approved under section 110 of the Clean Air Act \[this section\] (as amended by this Act) \[Pub. L. 91–604\] and shall remain in effect, unless the Administrator determines that such implementation plan, or any portion thereof, is not consistent with applicable requirements of the Clean Air Act \[this chapter\] (as amended by this Act) and will not provide for the attainment of national primary ambient air quality standards in the time required by such Act. If the Administrator so determines, he shall, within 90 days after promulgation of any national ambient air quality standards pursuant to section 109(a) of the Clean Air Act \[section 7409(a) of this title\], notify the State and specify in what respects changes are needed to meet the additional requirements of such Act, including requirements to implement national secondary ambient air quality standards. If such changes are not adopted by the State after public hearings and within six months after such notification, the Administrator shall promulgate such changes pursuant to section 110(c) of such Act \[subsec. (c) of this section\].
 

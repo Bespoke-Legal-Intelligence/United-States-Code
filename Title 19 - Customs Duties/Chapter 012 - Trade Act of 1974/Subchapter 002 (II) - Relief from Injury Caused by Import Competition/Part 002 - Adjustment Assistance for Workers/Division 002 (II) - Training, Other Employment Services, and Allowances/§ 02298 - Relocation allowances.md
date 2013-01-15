@@ -70,7 +70,7 @@ Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination o
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 112–40, §§201(b), (c), 233, temporarily revived the provisions of this section, as in effect on Feb. 12, 2011. See Codification note above and 2009 Amendment and Effective and Termination Dates of 2011 Revival notes below.
+<b>2011</b>—Pub. L. 112–40, §§201(b), (c), 233, temporarily revived the provisions of this section, as in effect on Feb.12, 2011. See Codification note above and 2009 Amendment and Effective and Termination Dates of 2011 Revival notes below.
 
 Subsec. (a)(1). Pub. L. 112–40, §§214(e)(1), 233, temporarily substituted “Each State may use funds made available to the State to carry out sections 2295 through 2298 of this title to allow an adversely affected worker” for “Any adversely affected worker” and “to file” for “may file”. See Codification note above and Effective and Termination Dates of 2011 Revival note below.
 

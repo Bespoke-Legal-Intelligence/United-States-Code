@@ -40,11 +40,11 @@ Pub. L. 108–429, title IV, §4001, Dec. 3, 2004, 118 Stat. 2600, provided that
 
 #### Short Title
 
-Section 1 of Pub. L. 103–407 provided that: “This Act \[enacting this chapter\] may be cited as the ‘Sheep Promotion, Research, and Information Act of 1994’.”
+Pub. L. 103–407, §1, Oct. 22, 1994, 108 Stat. 4210, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Sheep Promotion, Research, and Information Act of 1994’.”
 
 #### Wool Research, Development, and Promotion Trust Fund
 
-Pub. L. 106–200, title V, §506, May 18, 2000, 114 Stat. 303, as amended by Pub. L. 107–210, div. E, title L, §5102(c)(2), Aug. 6, 2002, 116 Stat. 1047; Pub. L. 108–429, title IV, §4002(c)(5), Dec. 3, 2004, 118 Stat. 2603; Pub. L. 109–280, title XIV, §1633(b)(2), Aug. 17, 2006, 120 Stat. 1166; Pub. L. 110–343, div. C, title III, §325(b)(2), Oct. 3, 2008, 122 Stat. 3875, provided that:
+Pub. L. 106–200, title V, §506, May 18, 2000, 114 Stat. 303, as amended by Pub. L. 107–210, div. E, title L,§5102(c)(2), Aug. 6, 2002, 116 Stat. 1047; Pub. L. 108–429, title IV, §4002(c)(5), Dec. 3, 2004, 118 Stat. 2603; Pub. L. 109–280, title XIV, §1633(b)(2), Aug. 17, 2006, 120 Stat. 1166; Pub. L. 110–343, div. C, title III, §325(b)(2), Oct. 3, 2008, 122 Stat. 3875, provided that:
 
 “(a)
 
@@ -90,7 +90,7 @@ Availability of Amounts from Trust Fund.—From amounts available in the Trust F
 
 “(e)
 
-Reports to Congress.—The Secretary of the Treasury, in consultation with the Secretary of Agriculture, shall prepare and submit to Congress an annual report on the financial condition and the results of the operations of the Trust Fund, including a description of the use of amounts of grants provided under subsection (d), during the preceding fiscal yearand on its expected condition and operations during the next fiscal year.
+Reports to Congress.—The Secretary of the Treasury, in consultation with the Secretary of Agriculture, shall prepare and submit to Congress an annual report on the financial condition and the results of the operations of the Trust Fund, including a description of the use of amounts of grants provided under subsection (d), during the preceding fiscal year and on its expected condition and operations during the next fiscal year.
 
 “(f)
 

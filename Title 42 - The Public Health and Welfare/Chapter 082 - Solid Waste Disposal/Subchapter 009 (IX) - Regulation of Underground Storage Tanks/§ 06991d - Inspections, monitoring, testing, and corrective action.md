@@ -16,7 +16,7 @@ For the purposes of developing or assisting in the development of any regulation
 
 #### (b) Confidentiality
 
-(1) Any records, reports, or information obtained from any persons under this section shall be available to the public, except that upon a showing satisfactory to the Administrator (or the State, as the case may be) by any person that records, reports, or information, or a particular part thereof, to which the Administrator (or the State, as the case may be) or any officer, employee, or representative thereof has access under this section if made public, would divulge information entitled to protection under section 1905 of title 18, such information or particular portion thereof shall be considered confidential in accordance with the purposes of that section, except that such record, report, document, or information may be disclosed to other officers,employees, or authorized representatives of the United States concerned with carrying out this chapter, or when relevant in any proceeding under this chapter.
+(1) Any records, reports, or information obtained from any persons under this section shall be available to the public, except that upon a showing satisfactory to the Administrator (or the State, as the case may be) by any person that records, reports, or information, or a particular part thereof, to which the Administrator (or the State, as the case may be) or any officer, employee, or representative thereof has access under this section if made public, would divulge information entitled to protection under section 1905 of title 18, such information or particular portion thereof shall be considered confidential in accordance with the purposes of that section, except that such record, report, document, or information may be disclosed to other officers, employees, or authorized representatives of the United States concerned with carrying out this chapter, or when relevant in any proceeding under this chapter.
 
 (2) Any person not subject to the provisions of section 1905 of title 18 who knowingly and willfully divulges or discloses any information entitled to protection under this subsection shall, upon conviction, be subject to a fine of not more than $5,000 or to imprisonment not to exceed one year, or both.
 
@@ -34,7 +34,7 @@ For the purposes of developing or assisting in the development of any regulation
 
 #### (1) Uninspected tanks
 
-&emsp;In the case of underground storage tanks regulated under this subchapter that have not undergone an inspection since December 22, 1998, not later than 2 years after August 8, 2005, the Administrator or a State that receives funding under this subchapter, as appropriate, shall conduct on-site inspections of all such tanks to determine compliance with this subchapter and the regulations under this subchapter (40 CFR 280) or a requirement or standard of a State program developed under section 6991c of this title.
+&emsp;In the case of underground storage tanks regulated under this subchapter that have not undergone an inspection since December 22, 1998, not later than 2 years after August 8, 2005, the Administrator or a State that receives funding under this subchapter, as appropriate, shall conduct on-site inspections ofall such tanks to determine compliance with this subchapter and the regulations under this subchapter (40 CFR 280) or a requirement or standard of a State program developed under section 6991c of this title.
 
 #### (2) Periodic inspections
 

@@ -12,7 +12,7 @@ If the Secretary considers it necessary in order to prevent the dissemination of
 
 &emsp;(2) has not been maintained in compliance with a post-entry quarantine requirement; or
 
-&emsp;(3) is the progeny of any plant, biological control organism, plant product, plant pest, or noxious weed that is moving into or through the United States or interstate, or has moved into the United States or interstate, in violation of this chapter.
+&emsp;(3) is the progeny of any plant, biological control organism, plant product, plant pest, ornoxious weed that is moving into or through the United States or interstate, or has moved into the United States or interstate, in violation of this chapter.
 
 #### (b) Authority to order an owner to treat or destroy
 

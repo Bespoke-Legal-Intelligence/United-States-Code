@@ -96,7 +96,7 @@ Amount of guarantee of loans for farm operations on tribal lands.—In the case 
 
 The Secretary may guarantee under this chapter a loan made under a State beginning farmer or rancher program, including a loan financed by the net proceeds of a qualified small issue agricultural bond for land or property described in section 144(a)(12)(B)(ii) of title 26.
 
-(Pub. L. 87–128, title III, §309, Aug. 8, 1961, 75 Stat. 309; Pub. L. 87–703, title IV, §401(3), Sept. 27, 1962, 76 Stat. 632; Pub. L. 89–240, §2(b), (c), Oct. 7, 1965, 79 Stat. 932; Pub. L. 89–633, Oct. 8, 1966, 80 Stat. 879; Pub. L. 90–488, §7, Aug. 15, 1968,82 Stat. 771; Pub. L. 92–419, title I, §115, Aug. 30, 1972, 86 Stat. 660; Pub. L. 95–113, title XV, §1510(a), Sept. 29, 1977, 91 Stat. 1022; Pub. L. 95–334, title I, §109(a), Aug. 4, 1978, 92 Stat. 423; Pub. L. 101–624, title XXIII, §2302(a)(2), Nov. 28, 1990, 104 Stat. 3980; Pub. L. 102–554, §§4, 5(a), Oct. 28, 1992, 106 Stat. 4143; Pub. L. 104–127, title VI, §§606, 661(b), title VII, §§744, 749(b)(1), Apr. 4, 1996, 110 Stat. 1086, 1106, 1125, 1129; Pub. L. 107–171, title V, §§5003, 5004, May 13, 2002, 116 Stat. 342.)
+(Pub. L. 87–128, title III, §309, Aug. 8, 1961, 75 Stat. 309; Pub. L. 87–703, title IV, §401(3), Sept. 27, 1962, 76 Stat. 632; Pub. L. 89–240, §2(b), (c), Oct. 7, 1965, 79 Stat. 932; Pub. L. 89–633, Oct. 8, 1966, 80 Stat. 879; Pub. L. 90–488, §7, Aug. 15, 1968, 82 Stat. 771; Pub. L. 92–419, title I, §115, Aug. 30, 1972, 86 Stat. 660; Pub. L. 95–113, title XV, §1510(a), Sept. 29, 1977, 91 Stat. 1022; Pub. L. 95–334, title I, §109(a), Aug. 4, 1978, 92 Stat. 423; Pub. L. 101–624, title XXIII, §2302(a)(2), Nov. 28, 1990, 104 Stat. 3980; Pub. L. 102–554, §§4, 5(a), Oct. 28, 1992, 106 Stat. 4143; Pub. L. 104–127, title VI, §§606, 661(b), title VII, §§744, 749(b)(1), Apr. 4, 1996, 110 Stat. 1086, 1106, 1125, 1129; Pub. L. 107–171, title V, §§5003, 5004, May 13, 2002, 116 Stat. 342.)
 
 #### References in Text
 
@@ -148,7 +148,7 @@ Subsecs. (g), (h). Pub. L. 92–419, §115(b), added subsecs. (g) and (h).
 
 <b>1966</b>—Subsec. (f)(2). Pub. L. 89–633 substituted “until due” for “until the due date of the annual installment”.
 
-<b>1965</b>—Subsec. (e). Pub. L. 89–240, §2(b), substituted “all or a portion, not to exceed one-half of 1 per centum of the unpaid principal balance of the loan of any charge collected in connection with the insurance of loans; and any remainder of any such charge” for “such portion of the charge collected in connection with the insurance of loans at least equal to a rate of one-half of 1 per centum per annum on the outstanding principal obligations and the remainder of such charge”.
+<b>1965</b>—Subsec. (e). Pub. L. 89–240, §2(b), substituted “all or a portion, not to exceed one-half of 1 per centum of the unpaid principal balance of the loan of any charge collected in connection with the insurance of loans; and any remainder of any such charge” for “such portion of the charge collected in connection with theinsurance of loans at least equal to a rate of one-half of 1 per centum per annum on the outstanding principal obligations and the remainder of such charge”.
 
 Subsec. (f)(1). Pub. L. 89–240, §2(c), substituted “$50,000,000” for “$25,000,000”.
 

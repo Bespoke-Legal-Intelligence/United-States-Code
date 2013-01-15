@@ -128,7 +128,7 @@ Should any surface owner of land subject to this subchapter have reason to belie
 
 (3) Any double damages plus costs awarded by the court under this subsection shall be reduced by the amount of any compensation which the surface owner has received (or is eligible to receive) pursuant to the bond or financial guarantee required under subsection (e) of this section.
 
-#### (<i>l</i>) Payment of financial guarantee
+#### (l) Payment of financial guarantee
 
 The surface owner of any land subject to this subchapter may petition the Secretary for payment of all or any portion of a bond or other financial guarantee required under subsection (e) of this section as compensation for any permanent damages to crops and tangible improvements of the surface owner, or any permanent loss of income due to loss or impairment of grazing, or other uses of the land by the surface owner. Pursuant to such a petition, the Secretary may use such bond or other guarantee to provide compensation to the surface owner for such damages and to insure the required reclamation.
 
@@ -140,7 +140,7 @@ The Secretary shall release the bond or other financial guarantee required under
 
 The Secretary shall take such actions as may be necessary to simplify the procedures which must be complied with by surface owners of lands subject to this subchapter who apply to the Secretary to obtain title to interests in such lands owned by the United States.
 
-#### (<i>o</i>) Definitions
+#### (o) Definitions
 
 For the purposes of subsections (b) through (n) of this section—
 
@@ -158,7 +158,7 @@ For the purposes of subsections (b) through (n) of this section—
 
 #### (p) Minerals covered
 
-Subsections (b) through (<i>o</i>) of this section apply only to minerals not subject to disposition under—
+Subsections (b) through (o) of this section apply only to minerals not subject to disposition under—
 
 &emsp;(1) the Mineral Leasing Act (30 U.S.C. 181 and following);
 
@@ -186,11 +186,11 @@ The Materials Act of 1947, referred to in subsec. (p)(3), is act July 31, 1947, 
 
 #### Effective Date of 1993 Amendment
 
-Section 1(c) of Pub. L. 103–23 provided that: “The amendments made by this Act \[amending this section\] shall take effect 180 days after the date of enactment \[Apr. 16, 1993\].”
+Pub. L. 103–23, §1(c), Apr. 16, 1993, 107 Stat. 65, provided that: “The amendments made by this Act \[amending this section\] shall take effect 180 days after the date of enactment \[Apr. 16, 1993\].”
 
 #### Regulations
 
-Section 1(d) of Pub. L. 103–23 provided that: “The Secretary of the Interior shall issue final regulations to implement the amendments made by this Act \[amending this section\] not later than the effective date of this Act \[see Effective Date of 1993 Amendment note above\]. Failure to promulgate these regulations by reason of any appeal or judicial review shall not delay the effective date as specified in paragraph (c).”
+Pub. L. 103–23, §1(d), Apr. 16, 1993, 107 Stat. 65, provided that: “The Secretary of the Interior shall issue final regulations to implement the amendments made by this Act \[amending this section\] not later than the effective date of this Act \[see Effective Date of 1993 Amendment note above\]. Failure to promulgate these regulations by reason of any appeal or judicial review shall not delay the effective date as specified in paragraph (c).”
 
 #### Transfer of Functions
 

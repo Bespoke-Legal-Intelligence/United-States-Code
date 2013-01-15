@@ -12,7 +12,7 @@
 
 &emsp;(iii) procurement under a local contract is demonstrably more cost-effective for the item.
 
-(2) In the case of the need for an emergency procurement of a health-care item, such item may be procured under a local contract, but no greater quantity of such item may be procured by a local contract than is reasonably necessary to meet the emergency need and the reasonably foreseeable need for the item at the medical center concerned until resupply can be achieved through procurement actions other than emergency procurement.
+(2) In the case of the need for an emergency procurement of a health-care item, such item may be procured under a local contract, but nogreater quantity of such item may be procured by a local contract than is reasonably necessary to meet the emergency need and the reasonably foreseeable need for the item at the medical center concerned until resupply can be achieved through procurement actions other than emergency procurement.
 
 (3)(A) Except as provided in subparagraphs (C) and (D) of this paragraph, not more than 20 percent of the total of all health-care items procured by the Department in any fiscal year (measured as a percent of the total cost of all such health-care items procured by the Department in that fiscal year) may be procured under local contracts.
 
@@ -30,7 +30,7 @@
 
 (e) For the purposes of this section:
 
-&emsp;(1) The term “health-care item” includes any item listed in, or (as determined by theSecretary) of the same nature as an item listed in, Federal Supply Classification (FSC) Group 65 or 66. Effective December 1, 1992, such term also includes any item listed in, or (as determined by the Secretary) of the same nature as an item listed in, Federal Supply Classification (FSC) Group 73. Such term does not include perishable items.
+&emsp;(1) The term “health-care item” includes any item listed in, or (as determined by the Secretary) of the same nature as an item listed in, Federal Supply Classification (FSC) Group 65 or 66. Effective December 1, 1992, such term also includes any item listed in, or (as determined by the Secretary) of the same nature as an item listed in, Federal Supply Classification (FSC) Group 73. Such term does not include perishable items.
 
 &emsp;(2) The term “local contract” means a contract entered into by a Department medical center for procurement of an item for use by that medical center.
 
@@ -72,7 +72,7 @@ Subsec. (e)(1). Pub. L. 100–687, §1507(c), substituted “65 or 66” for “
 
 #### Effective Date
 
-Section 403(b) of Pub. L. 100–322, as amended by Pub. L. 100–687, div. B, title XV, §1507(a), Nov. 18, 1988, 102 Stat. 4136, provided that:
+Pub. L. 100–322, title IV, §403(b), May 20, 1988, 102 Stat. 545, as amended by Pub. L. 100–687, div. B, title XV, §1507(a), Nov. 18, 1988, 102 Stat. 4136, provided that:
 
 “(1) Subsections (a), (b)(1), and (b)(2) of section 5025 \[now 8125\] of title 38, United States Code (as added by subsection (a)), shall take effect one year after the date of the enactment of this Act \[May 20, 1988\].
 
@@ -80,5 +80,5 @@ Section 403(b) of Pub. L. 100–322, as amended by Pub. L. 100–687, div. B, ti
 
 #### Standardization of Medical and Pharmaceutical Items
 
-Section 402 of Pub. L. 100–322, as amended by Pub. L. 100–687, div. B, title XV, §1508, Nov. 18, 1988, 102 Stat. 4137, directed Administrator, not later than Oct. 1, 1989, to develop and fully implement an agency-wide plan for cost-effective standardization of health-care items procured by Veterans’ Administration.
+Pub. L. 100–322, title IV, §402, May 20, 1988, 102 Stat. 543, as amended by Pub. L. 100–687, div. B, title XV, §1508, Nov. 18, 1988, 102 Stat. 4137, directed Administrator, not later than Oct. 1, 1989, to develop and fully implement an agency-wide plan for cost-effective standardization of health-care items procured by Veterans’ Administration.
 

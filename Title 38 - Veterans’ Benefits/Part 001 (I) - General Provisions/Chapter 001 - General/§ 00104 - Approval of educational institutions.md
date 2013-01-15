@@ -4,7 +4,7 @@
 
 (b) The Secretary may not approve an educational institution under this section unless such institution has agreed to report to the Secretary the termination of attendance of any child. If any educational institution fails to report any such termination promptly, the approval of the Secretary shall be withdrawn.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1110; Pub. L. 91–24, §1(c), June 11, 1969, 83 Stat. 33; Pub. L. 99–576, title VII, §701(3), Oct. 28, 1986, 100 Stat. 3290; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1110; Pub. L. 91–24, §1(c), June 11, 1969, 83 Stat. 33; Pub. L.99–576, title VII, §701(3), Oct. 28, 1986, 100 Stat. 3290; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
 
 #### Amendments
 

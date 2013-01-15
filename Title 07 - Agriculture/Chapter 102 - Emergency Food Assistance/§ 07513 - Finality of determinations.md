@@ -6,5 +6,5 @@ Determinations made by the Secretary of Agriculture under this chapter and the f
 
 #### Effective Date
 
-Section 2 of Pub. L. 98–92 provided in part that this section is effective Oct. 1, 1983.
+Pub. L. 98–92, §2, Sept. 2, 1983, 97 Stat. 608, provided in part that this section is effective Oct. 1, 1983.
 

@@ -52,7 +52,7 @@
 
 #### (ii) Mail-in requests
 
-&emsp;&emsp;&emsp;In lieu of making a request in person, a producer may make a request by mail. To facilitate the submission of requests by mail, the Secretary may make mail-in request forms available to producers.
+&emsp;&emsp;&emsp;In lieu of making a request in person, a producer may make a request by mail. Tofacilitate the submission of requests by mail, the Secretary may make mail-in request forms available to producers.
 
 #### (C) Notifications
 

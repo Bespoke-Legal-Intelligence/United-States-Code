@@ -34,9 +34,9 @@ Pub. L. 105–305, §1, Oct. 28, 1998, 112 Stat. 2919, provided that: “This Ac
 
 #### Short Title
 
-Section 1 of Pub. L. 102–194 provided that: “This Act \[enacting this chapter\] may be cited as the ‘High-Performance Computing Act of 1991’.”
+Pub. L. 102–194, §1, Dec. 9, 1991, 105 Stat. 1594, provided that: “This Act \[enacting this chapter\] may be cited as the ‘High-Performance Computing Act of 1991’.”
 
-Pub. L. 108–423, §1, Nov. 30, 2004, 118 Stat. 2400, provided that: “This Act \[enacting subchapter III of this chapter, amending sections 205<i>l</i> of this title and 1862n–9 of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under section 1862n–9 of Title 42\] may be cited as the ‘Department of Energy High-End Computing Revitalization Act of 2004’.”
+Pub. L. 108–423, §1, Nov. 30, 2004, 118 Stat. 2400, provided that: “This Act \[enacting subchapter III of this chapter, amending sections 205l of this title and 1862n–9 of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under section 1862n–9 of Title 42\] may be cited as the ‘Department of Energy High-End Computing Revitalization Act of 2004’.”
 
 #### Congressional Findings
 
@@ -80,7 +80,7 @@ Pub. L. 105–305, §7(a), Oct. 28, 1998, 112 Stat. 2924, provided that: “For 
 
 &emsp;“(1)
 
-Geographic penalty.—The term ‘geographic penalty’ means the imposition of costs on users of theInternet in rural or other locations, attributable to the distance of the user from network facilities, the low population density of the area in which the user is located, or other factors, that are disproportionately greater than the costs imposed on users in locations closer to such facilities or on users in locations with significantly greater population density.
+Geographic penalty.—The term ‘geographic penalty’ means the imposition of costs on users of the Internet in rural or other locations, attributable to the distance of the user from network facilities, the low population density of the area in which the user is located, or other factors, that are disproportionately greater than the costs imposed on users in locations closer to such facilities or on users in locations with significantly greater population density.
 
 &emsp;“(2)
 

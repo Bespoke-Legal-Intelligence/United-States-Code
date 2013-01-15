@@ -38,7 +38,7 @@ Prior to general amendment of act June 8, 1938, by act Apr. 29, 1942, section re
 
 #### Amendments
 
-<b>1995</b>—Subsec. (a). Pub. L. 104–65, §9(4)(B), which directed striking out “and a statement, duly signed by or on behalf of such an agent, setting forth full information as to the places, times, and extent of such transmittal” after “Attorney General two copies thereof”, was executed by striking out such language, which read in part “on behalf of such agent”, to reflect the probable intent of Congress.
+<b>1995</b>—Subsec. (a). Pub. L. 104–65, §9(4)(B), which directed striking out “and a statement, duly signed by or on behalf of such an agent, setting forth full information as to the places, times, and extent of such transmittal” after “Attorney General two copies thereof”,was executed by striking out such language, which read in part “on behalf of such agent”, to reflect the probable intent of Congress.
 
 Pub. L. 104–65, §9(4)(A), substituted “informational materials” for “political propaganda”.
 

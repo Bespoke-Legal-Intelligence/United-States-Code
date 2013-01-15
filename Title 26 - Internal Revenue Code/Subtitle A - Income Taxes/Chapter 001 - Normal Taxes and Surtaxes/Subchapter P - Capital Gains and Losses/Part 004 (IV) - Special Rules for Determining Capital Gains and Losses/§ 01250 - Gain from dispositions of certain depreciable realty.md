@@ -20,9 +20,9 @@ Except as otherwise provided in this section—
 
 &emsp;&emsp;For purposes of subparagraph (A), the term “applicable percentage” means—
 
-&emsp;&emsp;&emsp;(i) in the case of section 1250 property with respect to which a mortgage is insured under section 221(d)(3) or 236 of the National Housing Act, or housing financed or assisted by direct loan or tax abatement under similar provisions of State or local laws and with respect to which the owner is subject to the restrictions described in section 1039(b)(1)(B) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990), 100 percent minus 1 percentage point for each full month the property was held after the date the property was held 100 full months;
+&emsp;&emsp;&emsp;(i) in the case of section 1250 property with respect to which a mortgage is insured under section 221(d)(3) or 236 of the National Housing Act, or housing financed or assisted by direct loan or tax abatementunder similar provisions of State or local laws and with respect to which the owner is subject to the restrictions described in section 1039(b)(1)(B) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990), 100 percent minus 1 percentage point for each full month the property was held after the date the property was held 100 full months;
 
-&emsp;&emsp;&emsp;(ii) in the case of dwelling units which, on the average, were held for occupancy by families or individuals eligible to receive subsidies under section 8 of the United States Housing Act of 1937, as amended, or under the provisions of State or local law authorizing similar levels of subsidy for lower-income families, 100 percent minus 1percentage point for each full month the property was held after the date the property was held 100 full months;
+&emsp;&emsp;&emsp;(ii) in the case of dwelling units which, on the average, were held for occupancy by families or individuals eligible to receive subsidies under section 8 of the United States Housing Act of 1937, as amended, or under the provisions of State or local law authorizing similar levels of subsidy for lower-income families, 100 percent minus 1 percentage point for each full month the property was held after the date the property was held 100 full months;
 
 &emsp;&emsp;&emsp;(iii) in the case of section 1250 property with respect to which a depreciation deduction for rehabilitation expenditures was allowed under section 167(k), 100 percent minus 1 percentage point for each full month in excess of 100 full months after the date on which such property was placed in service;
 
@@ -74,7 +74,7 @@ Except as otherwise provided in this section—
 
 #### (B) Applicable percentage
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “applicable percentage” means 100 percent minus 1 percentage point for each full month the property was held after the date on which the property was held for 20 full months.
+&emsp;&emsp;For purposes of subparagraph (A), the term “applicable percentage” means 100 percentminus 1 percentage point for each full month the property was held after the date on which the property was held for 20 full months.
 
 #### (4) Special rule
 
@@ -132,7 +132,7 @@ For purposes of this section, the term “section 1250 property” means any rea
 
 #### (3) Certain tax-free transactions
 
-&emsp;If the basis of property in the hands of a transferee is determined by reference to its basis in the hands of the transferor by reason of the application of section 332, 351, 361, 721, or 731, then the amount of gain taken into account by the transferor under subsection (a) shall not exceed the amount of gain recognized to the transferor on the transfer of such property (determined without regard to this section). Except as provided in paragraph (9), this paragraph shall not apply to a disposition to an organization (other than a cooperative described in section 521) which is exempt from the tax imposed by this chapter.
+&emsp;If the basis of property in the hands of a transferee is determined by reference to its basis in the hands of the transferor by reason of the application of section 332, 351, 361, 721, or 731, then the amount of gain taken into account by the transferor under subsection (a) shall not exceed the amount of gain recognizedto the transferor on the transfer of such property (determined without regard to this section). Except as provided in paragraph (9), this paragraph shall not apply to a disposition to an organization (other than a cooperative described in section 521) which is exempt from the tax imposed by this chapter.
 
 #### (4) Like kind exchanges; involuntary conversions, etc.
 
@@ -278,11 +278,11 @@ The Secretary shall prescribe such regulations as he may deem necessary to provi
 
 This section shall apply notwithstanding any other provision of this subtitle.
 
-(Added Pub. L. 88–272, title II, §231(a), Feb. 26, 1964, 78 Stat. 100; amended Pub. L. 91–172, title V, §521(b), (c), (e), title VII, §704(b)(5), title IX, §910(b), Dec. 30, 1969, 83 Stat. 652, 653, 670, 720; Pub. L. 92–178, title III, §303(c)(3), Dec. 10, 1971, 85 Stat. 522; Pub. L. 93–625, §5(c), Jan. 3, 1975, 88 Stat. 2112; Pub. L. 94–81, §2(b), Aug. 9, 1975, 89 Stat. 417; Pub. L. 94–455, title II, §202(a)–(c)(1), (2), title XIX, §§1901(b)(3)(K), (31)(A), (B), (E), 1906(b)(13)(A), 1951(c)(2)(C), title XXI, §§2122(b)(4), 2124(a)(3)(D), Oct. 4, 1976, 90 Stat. 1527, 1529, 1530, 1793, 1799, 1800, 1834, 1840, 1915, 1918; Pub. L. 95–600, title IV, §§404(c)(7), 405(c)(4), title VII, §701(f)(3)(C), (E), Nov. 6, 1978, 92 Stat. 2870, 2871, 2901; Pub. L. 96–222, title I, §107(a)(1)(D), Apr. 1, 1980, 94 Stat. 222; Pub. L. 96–223, title II, §251(a)(2)(D), Apr. 2, 1980, 94 Stat. 287; Pub. L. 97–34, title II, §§204(e), 212(d)(2)(F), Aug. 13, 1981, 95 Stat. 223, 239; Pub. L. 97–448, title I, §102(a)(7), Jan. 12, 1983, 96 Stat. 2368; Pub. L. 98–369, div. A, title VII, §712(a)(1)(B), July 18, 1984, 98 Stat. 946; Pub. L. 99–514, title II, §242(b)(2), Oct. 22, 1986, 100 Stat. 2181; Pub. L. 100–647, title I, §1002(a)(1), Nov. 10, 1988, 102 Stat. 3352; Pub. L. 101–239, title VII, §7831(b), Dec. 19, 1989, 103 Stat. 2426; Pub. L.101–508, title XI, §§11801(c)(6)(F), (8)(I), (15), 11812(b)(11), (12), Nov. 5, 1990, 104 Stat. 1388–524, 1388–527, 1388–536; Pub. L. 104–7, §2(b), Apr. 11, 1995, 109 Stat. 93; Pub. L. 104–188, title I, §1702(h)(18), Aug. 20, 1996, 110 Stat. 1874; Pub. L. 105–34, title III, §312(d)(10), Aug. 5, 1997, 111 Stat. 840; Pub. L. 105–206, title VI, §6023(12), July 22, 1998, 112 Stat. 825; Pub. L. 109–58, title XIII, §1331(b)(3), Aug. 8, 2005, 119 Stat. 1024; Pub. L. 109–135, title IV, §402(a)(7), (h), Dec. 21, 2005, 119 Stat. 2610, 2611.)
+(Added Pub. L. 88–272, title II, §231(a), Feb. 26, 1964, 78 Stat. 100; amended Pub. L. 91–172, title V, §521(b), (c), (e), title VII, §704(b)(5), title IX,§910(b), Dec. 30, 1969, 83 Stat. 652, 653, 670, 720; Pub. L. 92–178, title III, §303(c)(3), Dec. 10, 1971, 85 Stat. 522; Pub. L. 93–625, §5(c), Jan. 3, 1975, 88 Stat. 2112; Pub. L. 94–81, §2(b), Aug. 9, 1975, 89 Stat. 417; Pub. L. 94–455, title II, §202(a)–(c)(1), (2), title XIX, §§1901(b)(3)(K), (31)(A), (B), (E), 1906(b)(13)(A), 1951(c)(2)(C), title XXI, §§2122(b)(4), 2124(a)(3)(D), Oct. 4, 1976, 90 Stat. 1527, 1529, 1530, 1793, 1799, 1800, 1834, 1840, 1915, 1918; Pub. L. 95–600, title IV, §§404(c)(7), 405(c)(4), title VII, §701(f)(3)(C), (E), Nov. 6, 1978, 92 Stat. 2870, 2871, 2901; Pub. L. 96–222, title I, §107(a)(1)(D), Apr. 1, 1980, 94 Stat. 222; Pub. L. 96–223, title II, §251(a)(2)(D), Apr. 2, 1980, 94 Stat. 287; Pub. L. 97–34, title II, §§204(e), 212(d)(2)(F), Aug. 13, 1981, 95 Stat. 223, 239; Pub. L. 97–448, title I, §102(a)(7), Jan. 12, 1983, 96 Stat. 2368; Pub. L. 98–369, div. A, title VII, §712(a)(1)(B), July 18, 1984, 98 Stat. 946; Pub. L. 99–514, title II, §242(b)(2), Oct. 22, 1986, 100 Stat. 2181; Pub. L. 100–647, title I, §1002(a)(1), Nov. 10, 1988, 102 Stat. 3352; Pub. L. 101–239, title VII, §7831(b), Dec. 19, 1989, 103 Stat. 2426; Pub. L. 101–508, title XI, §§11801(c)(6)(F), (8)(I), (15), 11812(b)(11), (12), Nov. 5, 1990, 104 Stat. 1388–524, 1388–527, 1388–536; Pub. L. 104–7, §2(b), Apr. 11, 1995, 109 Stat. 93; Pub. L. 104–188, title I, §1702(h)(18), Aug. 20, 1996, 110 Stat. 1874; Pub. L. 105–34, title III, §312(d)(10), Aug. 5, 1997, 111 Stat. 840; Pub. L. 105–206, title VI, §6023(12), July 22, 1998, 112 Stat. 825; Pub. L. 109–58, title XIII, §1331(b)(3), Aug. 8, 2005, 119 Stat. 1024; Pub. L. 109–135, title IV, §402(a)(7), (h), Dec. 21, 2005, 119 Stat. 2610, 2611.)
 
 #### References in Text
 
-Sections 221 and 236 of the National Housing Act, referred to in subsec. (a)(1)(B)(i), (2)(B)(ii), are classified to sections 1715<i>l</i> and 1715z–1, respectively, of Title 12, Banks and Banking.
+Sections 221 and 236 of the National Housing Act, referred to in subsec. (a)(1)(B)(i), (2)(B)(ii), are classified to sections 1715l and 1715z–1, respectively, of Title 12, Banks and Banking.
 
 The date of the enactment of the Revenue Reconciliation Act of 1990, referred to in subsecs. (a)(1)(B)(i), (2)(B)(ii), (4) and (b)(4), is the date of enactment of Pub. L. 101–508, which was approved Nov. 5, 1990.
 
@@ -506,7 +506,7 @@ Amendment by section 701(f)(3)(C), (E) of Pub. L. 95–600 effective as if inclu
 
 #### Effective Date of 1976 Amendment
 
-Section 202(d) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section (other than subsection (b)) \[amending this section and section 167 of this title\] shall apply for taxable years ending after December 31, 1975. The amendment made by subsection (b) \[amending this section\] shall apply with respect to proceedings (and to operations of law) referred to in section 1250(d)(10) of the Internal Revenue Code of 1986\[formerly I.R.C. 1954\] which begin after December 31, 1975.”
+Pub. L. 94–455, title II, §202(d), Oct. 4, 1976, 90 Stat. 1530, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section (other than subsection (b)) \[amending this section and section 167 of this title\] shall apply for taxable years ending after December 31, 1975. The amendment made by subsection (b) \[amending this section\] shall apply with respect to proceedings (and to operations of law) referred to in section 1250(d)(10) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] which begin after December 31, 1975.”
 
 Amendment by section 1901(b)(3)(K), (31)(A), (B), (E) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
@@ -518,7 +518,7 @@ Amendment by section 2124(a)(3)(D) of Pub. L. 94–455 applicable with respect t
 
 #### Effective Date of 1975 Amendments
 
-Section 2(c) of Pub. L. 94–81 provided that:
+Pub. L. 94–81, §2(c), Aug. 9, 1975, 89 Stat. 418, provided that:
 
 “(1)
 
@@ -540,11 +540,11 @@ Amendment by section 521(b), (c), (e) of Pub. L. 91–172 applicable with respec
 
 Amendment by section 704(b)(5) of Pub. L. 91–172 applicable to taxable years ending after Dec. 31, 1968, see section 704(c) of Pub. L. 91–172, set out as an Effective Date note under section 169 of this title.
 
-Section 910(d) of Pub. L. 91–172, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[enacting section 1039 of this title and amending this section\] shall apply to approved dispositions of qualified housing projects (within the meaning of section 1039 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] as added by subsection (a)) after October 9, 1969.”
+Pub. L. 91–172, title IX, §910(d), Dec. 30, 1969, 83 Stat. 722, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[enacting section 1039 of this title and amending this section\] shall apply to approved dispositions of qualified housing projects (within the meaning of section 1039 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] as added by subsection (a)) after October 9, 1969.”
 
 #### Effective Date
 
-Section 231(c) of Pub. L. 88–272 provided that: “The amendments made by this section \[enacting this section and amending sections 170, 301, 312, 341, 453, 751, and the analysis preceding section 1231 of this title\] shall apply to dispositions after December 31, 1963, in taxable years ending after such date.”
+Pub. L. 88–272, title II, §231(c), Feb. 26, 1964, 78 Stat. 105, provided that: “The amendments made by this section \[enacting this section and amending sections 170, 301, 312, 341, 453, 751, and the analysis preceding section 1231 of this title\] shall apply to dispositions after December 31, 1963, in taxable years ending after such date.”
 
 #### Savings Provision
 

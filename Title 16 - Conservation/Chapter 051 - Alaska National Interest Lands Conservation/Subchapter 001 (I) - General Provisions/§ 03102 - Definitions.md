@@ -1,6 +1,6 @@
 ### §3102. Definitions
 
-As used in this Act (except that in titles IX and XIV the following terms shall have the same meaning as they have in the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], and the Alaska Statehood Act)—
+As used in this Act (except that in titles IX and XIV the following terms shall have the samemeaning as they have in the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], and the Alaska Statehood Act)—
 
 &emsp;(1) The term “land” means lands, waters, and interests therein.
 
@@ -30,7 +30,7 @@ As used in this Act (except that in titles IX and XIV the following terms shall 
 
 &emsp;(11) The term “Native land” means land owned by a Native Corporation or any Native Group and includes land which, as of December 2, 1980, had been selected under the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\] by a Native Corporation or Native Group and had not been conveyed by the Secretary (except to the extent such selection is determined to be invalid or has been relinquished) and land referred to in section 19(b) of the Alaska Native Claims Settlement Act \[43 U.S.C. 1618(b)\].
 
-&emsp;(12) The term “Secretary” means the Secretary of the Interior, except that when suchterm is used with respect to any unit of the National Forest System, such term means the Secretary of Agriculture.
+&emsp;(12) The term “Secretary” means the Secretary of the Interior, except that when such term is used with respect to any unit of the National Forest System, such term means the Secretary of Agriculture.
 
 &emsp;(13) The terms “wilderness” and “National Wilderness Preservation System” have the same meaning as when used in the Wilderness Act (78 Stat. 890) \[16 U.S.C. 1131 et seq.\].
 
@@ -62,11 +62,11 @@ The Wilderness Act, referred to in par. (13), is Pub. L. 88–577, Sept. 3, 1964
 
 #### Effective and Termination Dates of 1997 Amendment
 
-Section 316(d) of Pub. L. 105–83 provided that: “Unless and until laws are adopted in the State of Alaska which provide for the definition, preference, and participation specified in sections 803, 804, and 805 \[sections 3113 to 3115 of this title\] of the Alaska National Interest Lands Conservation Act (16 U.S.C. 3111 et seq.), the amendments made by subsection (b) of this section \[amending this section and sections 3111, 3113 to 3115, 3117, 3124, and 3125 of this title\] shall be effective only for the purposes of determining whether the State's laws provide for such definition, preference, and participation. The Secretary shall certify before December 1, 1998 if such laws have been adopted in the State of Alaska. Subsection (b) shall be repealed on such date if such laws have not been adopted.” \[The State of Alaska did not adopt laws specified above by Dec. 1, 1998.\]
+Pub. L. 105–83, title III, §316(d), Nov. 14, 1997, 111 Stat. 1595, provided that: “Unless and until laws are adopted in the State of Alaska which provide for the definition, preference, and participation specified in sections 803, 804, and 805 \[sections 3113 to 3115 of this title\] of the Alaska National Interest Lands Conservation Act (16 U.S.C. 3111 et seq.), the amendments made by subsection (b) of this section \[amending this section and sections 3111, 3113 to 3115, 3117, 3124, and 3125 of this title\] shall be effective only for the purposes of determining whether the State's laws provide for such definition, preference, and participation. The Secretary shall certify before December 1, 1998 if such laws have been adopted in the State of Alaska. Subsection (b) shall be repealed on such date if such laws have not been adopted.” \[The State of Alaska did not adopt laws specified above by Dec. 1, 1998.\]
 
 #### Savings Clause
 
-Section 316(c) of Pub. L. 105–83 provided that: “No provision of this section \[amending this section and sections 3111, 3113 to 3115, 3117, 3124, and 3125 of this title and enacting provisions set out as notes under this section\], amendment made by this section, or exercise of authority pursuant to this section may be construed to validate, invalidate, or in any way affect—
+Pub. L. 105–83, title III, §316(c), Nov. 14, 1997, 111 Stat. 1595, provided that: “No provision of this section \[amending this section and sections 3111, 3113 to 3115, 3117, 3124, and 3125 of this title and enacting provisions set out as notes under this section\], amendment made by this section, or exercise of authority pursuant to this section may be construed to validate, invalidate, or in any way affect—
 
 &emsp;“(1) any assertion that an Alaska Native organization (including a federally recognized tribe, traditional Alaska Native council, or Alaska Native council organized pursuant to the Act of June 18, 1934 (25 U.S.C. 461 et seq.), as amended) has or does not have governmental authority over lands (including management of, or regulation of the taking of, fish and wildlife) or persons within the boundaries of the State of Alaska;
 
@@ -100,5 +100,5 @@ Technical Amendments to the Alaska National Interest Lands Conservation Act.—\
 
 Effect on Tidal and Submerged Land.—Nothing in this section invalidates, validates, or in any other way affects any claim of the State of Alaska to title to any tidal or submerged land in Alaska.”
 
-Section 316(a) of Pub. L. 105–83 provided that: “None of the funds made available to the Department of the Interior or the Department of Agriculture by this or any other Act hereafter enacted may be used prior to December 1, 1998 to issue or implement final regulations, rules, or policies pursuant to title VIII of the Alaska National Interest Lands Conservation Act \[16 U.S.C. 3111 et seq.\] to assert jurisdiction, management, or control over the navigable waters transferred to the State of Alaska pursuant to the Submerged Lands Act of 1953 \[43 U.S.C. 1301 et seq.\] or the Alaska Statehood Act of 1959 \[Pub. L. 85–508, set out as a note preceding section 21 of Title 48, Territories and Insular Possessions\].”
+Pub. L. 105–83, title III, §316(a), Nov. 14, 1997, 111 Stat. 1592, provided that: “None of the funds made available to the Department of the Interior or the Department of Agriculture by this or any other Act hereafter enacted may be used prior to December 1, 1998 to issue or implement final regulations, rules, or policies pursuant to title VIII of the Alaska National Interest Lands Conservation Act \[16 U.S.C. 3111 et seq.\] to assert jurisdiction, management, or control over the navigable waters transferred to the State of Alaska pursuant to the Submerged Lands Act of 1953 \[43 U.S.C. 1301 et seq.\] or the Alaska Statehood Act of 1959 \[Pub. L. 85–508, set out as a note preceding section 21 of Title 48, Territories and Insular Possessions\].”
 

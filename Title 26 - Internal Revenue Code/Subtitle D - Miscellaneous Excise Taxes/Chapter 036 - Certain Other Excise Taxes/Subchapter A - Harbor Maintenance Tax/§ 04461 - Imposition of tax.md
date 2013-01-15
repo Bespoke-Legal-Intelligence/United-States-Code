@@ -46,19 +46,19 @@ Pub. L. 109–59, title XI, §11116(c), Aug. 10, 2005, 119 Stat. 1951, provided 
 
 #### Effective Date of 1990 Amendment
 
-Section 11214(b) of Pub. L. 101–508 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 1991.”
+Pub. L. 101–508, title XI, §11214(b), Nov. 5, 1990, 104 Stat. 1388–436, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 1991.”
 
 #### Effective Date
 
-Section 1402(c) of Pub. L. 99–662 provided that: “The amendments made by this section \[enacting this section and section 4462 of this title\] shall take effect on April 1, 1987.”
+Pub. L. 99–662, title XIV, §1402(c), Nov. 17, 1986, 100 Stat. 4269, provided that: “The amendments made by this section \[enacting this section and section 4462 of this title\] shall take effect on April 1, 1987.”
 
 #### Authorization of Appropriations
 
-Section 1403(b) of Pub. L. 99–662, authorized to be appropriated to Department of the Treasury (from fees collected under section 58c(9), (10) of Title 19, Customs Duties) such sums as necessary to pay all expenses of administration incurred by such Department in administering this subchapter for periods to which such fees apply, prior to repeal by Pub. L. 103–182, title VI, §690(c)(8), Dec. 8, 1993, 107 Stat. 2223.
+Pub. L. 99–662, title XIV, §1403(b), Nov. 17, 1986, 100 Stat. 4270, authorized to be appropriated to Department of the Treasury (from fees collected under section 58c(9), (10) of Title 19, Customs Duties) such sums as necessary to pay all expenses of administration incurred by such Department in administering this subchapter for periods to which such fees apply, prior to repeal by Pub. L. 103–182, title VI, §690(c)(8), Dec. 8, 1993, 107 Stat. 2223.
 
 #### Study of Cargo Diversion
 
-Section 1407 of Pub. L. 99–662, as amended by Pub. L. 100–647, title II, §2002(c), Nov. 10, 1988, 102 Stat. 3597, provided that:
+Pub. L. 99–662, title XIV, §1407, Nov. 17, 1986, 100 Stat. 4272, as amended by Pub. L. 100–647, title II, §2002(c), Nov. 10, 1988, 102 Stat. 3597, provided that:
 
 “(a)
 

@@ -68,7 +68,7 @@ In the case of any return made by the Secretary under section 6020(b)—
 
 #### (h) Limitation on penalty on individual's failure to pay for months during period of installment agreement
 
-In the case of an individual who files a return of tax on or before the due date for the return (including extensions), paragraphs (2) and (3) of subsection (a) shall each be applied by substituting “0.25” for “0.5” each place it appears for purposes of determining the addition to tax for any month during which an installment agreementunder section 6159 is in effect for the payment of such tax.
+In the case of an individual who files a return of tax on or before the due date for the return (including extensions), paragraphs (2) and (3) of subsection (a) shall each be applied by substituting “0.25” for “0.5” each place it appears for purposes of determining the addition to tax for any month during which an installment agreement under section 6159 is in effect for the payment of such tax.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 821; Pub. L. 90–364, title I, §103(e)(4), June 28, 1968, 82 Stat. 264; Pub. L. 91–172, title IX, §943(a), Dec. 30, 1969, 83 Stat. 727; Pub. L. 92–9, §3(j)(1), Apr. 1, 1971, 85 Stat. 22; Pub. L. 94–455, title XIX, §1904(b)(10)(A)(v), Oct. 4, 1976, 90 Stat. 1817; Pub. L. 97–248, title III, §318(a), (b), Sept. 3, 1982, 96 Stat. 610; Pub. L. 98–369, div. A, title IV, §412(b)(8), July 18, 1984, 98 Stat. 792; Pub. L. 99–514, title XV, §1502(a), (b), Oct. 22, 1986, 100 Stat. 2741; Pub. L. 100–203, title X, §10301(b)(6), Dec. 22, 1987, 101 Stat. 1330–429; Pub. L. 101–239, title VII, §7741(a), Dec. 19, 1989, 103 Stat. 2404; Pub. L. 104–168, title III, §303(b)(2), title XIII, §1301(a), July 30, 1996, 110 Stat. 1458, 1475; Pub. L. 105–206, title III, §3303(a), July 22, 1998, 112 Stat. 742; Pub. L. 110–245, title III, §303(a), June 17, 2008, 122 Stat. 1649.)
 
@@ -122,11 +122,11 @@ Pub. L. 105–206, title III, §3303(b), July 22, 1998, 112 Stat. 742, provided 
 
 Amendment by section 303(b)(2) of Pub. L. 104–168 applicable in case of any notice and demand given after Dec. 31, 1996, see section 303(c) of Pub. L. 104–168, set out as a note under section 6601 of this title.
 
-Section 1301(b) of Pub. L. 104–168 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply in the case of any return the due date for which (determined without regard to extensions) is after the date of the enactment of this Act \[July 30, 1996\].”
+Pub. L. 104–168, title XIII, §1301(b), July 30, 1996, 110 Stat. 1475, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply in the case of any return the due date for which (determined without regard to extensions) is after the date of the enactment of this Act \[July 30, 1996\].”
 
 #### Effective Date of 1989 Amendment
 
-Section 7741(b) of Pub. L. 101–239 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply in the case of failures to file returns the due date for which (determined without regard to extensions) is after December 31, 1989.”
+Pub. L. 101–239, title VII, §7741(b), Dec. 19, 1989, 103 Stat. 2405, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply in the case of failures to file returns the due date for which (determined without regard to extensions) is after December 31, 1989.”
 
 #### Effective Date of 1987 Amendment
 
@@ -134,7 +134,7 @@ Amendment by Pub. L. 100–203 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 1986 Amendment
 
-Section 1502(c) of Pub. L. 99–514 provided that:
+Pub. L. 99–514, title XV, §1502(c), Oct. 22, 1986, 100 Stat. 2741, provided that:
 
 “(1)
 
@@ -160,15 +160,15 @@ Amendment by Pub. L. 98–369 applicable with respect to taxable years beginning
 
 #### Effective Date of 1982 Amendment
 
-Section 318(c) of Pub. L. 97–248 provided that: “The amendments made by this section \[amending this section\] shall apply to returns the due date for filing of which (including extensions) is after December 31, 1982.”
+Pub. L. 97–248, title III, §318(c), Sept. 3, 1982, 96 Stat. 610, provided that: “The amendments made by this section \[amending this section\] shall apply to returns the due date for filing of which (including extensions) is after December 31, 1982.”
 
 #### Effective Date of 1971 Amendment
 
-Section 3(j)(3) of Pub. L. 92–9 provided that: “The amendments made by this subsection \[amending this section and section 6680 of this title\] shall apply with respect to returns required to be filed on or after the date of the enactment of this Act \[Apr. 1, 1971\].”
+Pub. L. 92–9, §3(j)(3), Apr. 1, 1971, 85 Stat. 22, provided that: “The amendments made by this subsection \[amending this section and section 6680 of this title\] shall apply with respect to returns required to be filed on or after the date of the enactment of this Act \[Apr. 1, 1971\].”
 
 #### Effective Date of 1969 Amendment
 
-Section 943(d) of Pub. L. 91–172 provided that: “The amendments made by subsections (a) \[amending this section\] and (c) \[amending sections 3121, 5684, and 6653 of this title\] shall apply with respect to returns the date prescribed by law (without regard to any extension of time) for filing of which is after December 31, 1969, and with respect to notices and demands for payment of tax made after December 31, 1969. The amendment made by subsection (b) \[amending section 6656 of this title\] shall apply with respect to deposits the time for making of which is after December 31, 1969.”
+Pub. L. 91–172, title IX, §943(d), Dec. 30, 1969, 83 Stat. 729, provided that: “The amendments made by subsections (a) \[amending this section\] and (c) \[amending sections 3121, 5684, and 6653 of this title\] shall apply with respect to returns the date prescribed by law (without regard to any extension of time) for filing of which is after December 31, 1969, and with respect to notices and demands for payment of tax made after December 31, 1969. The amendment made by subsection (b) \[amending section 6656 of this title\] shall apply with respect to deposits the time for making of which is after December 31, 1969.”
 
 #### Effective Date of 1968 Amendment
 

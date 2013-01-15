@@ -52,7 +52,7 @@
 
 &emsp;(ii) in the case of any other advertisement that is not in English, the statements shall appear in the same language as that principally used in the advertisement.
 
-(3)(A) The label statements specified in subsection (a)(1) shall be randomly displayed in each 12-month period, in as equal a number of times as is possible on each brand of the product and be randomly distributed in all areas of the United States in which the product is marketed in accordance with a plan submitted by the tobacco product manufacturer, importer, distributor, or retailer and approved by the Secretary.
+(3)(A) The label statements specified in subsection (a)(1) shall be randomly displayed in each 12-month period, in as equal a number oftimes as is possible on each brand of the product and be randomly distributed in all areas of the United States in which the product is marketed in accordance with a plan submitted by the tobacco product manufacturer, importer, distributor, or retailer and approved by the Secretary.
 
 (B) The label statements specified in subsection (a)(1) shall be rotated quarterly in alternating sequence in advertisements for each brand of smokeless tobacco product in accordance with a plan submitted by the tobacco product manufacturer, importer, distributor, or retailer to, and approved by, the Secretary.
 
@@ -92,5 +92,5 @@ Pub. L. 111–31, div. A, title II, §204(b), June 22, 2009, 123 Stat. 1848, pro
 
 #### Effective Date
 
-Subsec. (a) effective one year after Feb. 27, 1986, and subsecs. (b) to (e) effective Feb. 27, 1986, see section 11of Pub. L. 99–252, set out as a note under section 4401 of this title.
+Subsec. (a) effective one year after Feb. 27, 1986, and subsecs. (b) to (e) effective Feb. 27, 1986, see section 11 of Pub. L. 99–252, set out as a note under section 4401 of this title.
 

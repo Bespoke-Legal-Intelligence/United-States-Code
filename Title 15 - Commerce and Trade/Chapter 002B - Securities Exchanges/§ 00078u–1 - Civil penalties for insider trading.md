@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(A) such controlling person knew or recklessly disregarded the fact that such controlled person was likely to engage in the act or acts constituting the violation and failed to take appropriate steps to prevent such act or acts before they occurred; or
 
-&emsp;&emsp;(B) such controlling person knowingly or recklessly failed to establish, maintain, or enforce any policy or procedure required under section 78<i>o</i>(f) <sup>1</sup> of this title or section 80b–4a of this title and such failure substantially contributed to or permitted the occurrence of the act or acts constituting the violation.
+&emsp;&emsp;(B) such controlling person knowingly or recklessly failed to establish, maintain, or enforce any policy or procedure required under section 78o(f) <sup>1</sup> of this title or section 80b–4a of this title and such failure substantially contributed to or permitted the occurrence of the act or acts constituting the violation.
 
 #### (2) Additional restrictions on liability
 
@@ -66,7 +66,63 @@ For purposes of this section, “profit gained” or “loss avoided” is the d
 
 The authority of the Commission under this section with respect to security-based swap agreements shall be subject to the restrictions and limitations of section 78c–1(b) of this title.
 
-(June 6, 1934, ch. 404, title I, §21A, as added Pub. L. 100–704, §3(a)(2), Nov. 19, 1988, 102 Stat. 4677; amended Pub. L. 101–429, title II, §202(b), Oct. 15, 1990, 104 Stat. 938; Pub. L. 106–554, §1(a)(5) \[title II, §205(a)(4), title III, §303(k), (<i>l</i>)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–426, 2763A–456, 2763A–457; Pub. L. 107–204, title III, §308(d)(2), July 30, 2002, 116 Stat. 785; Pub. L. 111–203, title VII, §762(d)(7), title IX, §923(b)(2), July 21, 2010, 124 Stat. 1761, 1850.)
+#### (g) Duty of Members and employees of Congress
+
+#### (1) In general
+
+&emsp;Subject to the rule of construction under section 10 of the STOCK Act and solely for purposes of the insider trading prohibitions arising under this chapter, including section 78j(b) of this title and Rule 10b–5 thereunder, each Member of Congress or employee of Congress owes a duty arising from a relationship of trust and confidence to the Congress, the United States Government, and the citizens of the United States with respect to material, nonpublic information derived from such person's position as a Member of Congress or employee of Congress or gained from the performance of such person's official responsibilities.
+
+#### (2) Definitions
+
+&emsp;In this subsection—
+
+&emsp;&emsp;(A) the term “Member of Congress” means a member of the Senate or House of Representatives, a Delegate to the House of Representatives, and the Resident Commissioner from Puerto Rico; and
+
+&emsp;&emsp;(B) the term “employee of Congress” means—
+
+&emsp;&emsp;&emsp;(i) any individual (other than a Member of Congress), whose compensation is disbursed by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives; and
+
+&emsp;&emsp;&emsp;(ii) any other officer or employee of the legislative branch (as defined in section 109(11) of the Ethics in Government Act of 1978 (5 U.S.C. App. 109(11))).
+
+#### (3) Rule of construction
+
+&emsp;Nothing in this subsection shall be construed to impair or limit the construction of the existing antifraud provisions of the securities laws or the authority of the Commission under those provisions.
+
+#### (h) Duty of other Federal officials
+
+#### (1) In general
+
+&emsp;Subject to the rule of construction under section 10 of the STOCK Act and solely for purposes of the insider trading prohibitions arising under this chapter, including section 78j(b) of this title, and Rule 10b–5 thereunder, each executive branch employee, each judicial officer, and each judicial employee owes a duty arising from a relationship of trust and confidence to the United States Governmentand the citizens of the United States with respect to material, nonpublic information derived from such person's position as an executive branch employee, judicial officer, or judicial employee or gained from the performance of such person's official responsibilities.
+
+#### (2) Definitions
+
+&emsp;In this subsection—
+
+&emsp;&emsp;(A) the term “executive branch employee”—
+
+&emsp;&emsp;&emsp;(i) has the meaning given the term “employee” under section 2105 of title 5;
+
+&emsp;&emsp;&emsp;(ii) includes—
+
+&emsp;&emsp;&emsp;&emsp;(I) the President;
+
+&emsp;&emsp;&emsp;&emsp;(II) the Vice President; and
+
+&emsp;&emsp;&emsp;&emsp;(III) an employee of the United States Postal Service or the Postal Regulatory Commission;
+
+&emsp;&emsp;(B) the term “judicial employee” has the meaning given that term in section 109(8) of the Ethics in Government Act of 1978 (5 U.S.C. App. 109(8)); and
+
+&emsp;&emsp;(C) the term “judicial officer” has the meaning given that term under section 109(10) of the Ethics in Government Act of 1978 (5 U.S.C. App. 109(10)).
+
+#### (3) Rule of construction
+
+&emsp;Nothing in this subsection shall be construed to impair or limit the construction of the existing antifraud provisions of the securities laws or the authority of the Commission under those provisions.
+
+#### (i) Participation in initial public offerings
+
+An individual described in section 101(f) of the Ethics in Government Act of 1978 may not purchase securities that are the subject of an initial public offering (within the meaning given such term in section 78l(f)(1)(G)(i) of this title) in any manner other than is available to members of the public generally.
+
+(June 6, 1934, ch. 404, title I, §21A, as added Pub. L. 100–704, §3(a)(2), Nov. 19, 1988, 102 Stat. 4677; amended Pub. L. 101–429, title II, §202(b), Oct. 15, 1990, 104 Stat. 938; Pub. L. 106–554, §1(a)(5) \[title II, §205(a)(4), title III, §303(k), (l)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–426, 2763A–456, 2763A–457; Pub. L. 107–204, title III, §308(d)(2), July 30, 2002, 116 Stat. 785; Pub. L. 111–203, title VII, §762(d)(7), title IX, §923(b)(2), July 21, 2010, 124 Stat. 1761, 1850; Pub. L. 112–105, §§4(b)(2), 9(b)(2)(B), 12, Apr. 4, 2012, 126 Stat. 292, 297, 300.)
 
 #### Amendment of Section
 
@@ -74,11 +130,23 @@ The authority of the Commission under this section with respect to security-base
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) and (d)(4), (5), was in the original “this title”. See References in Text note set out under section 78a of this title.
+This chapter, referred to in subsecs. (a) and (d)(4), (5), was in the original “this title”, and this chapter, referred to in subsecs. (g)(1) and (h)(1), was in the original “this Act”. See References in Text note set out under section 78a of this title.
 
-Subsec. (f) of section 78<i>o</i> of this title, referred to in subsec. (b)(1)(B), was redesignated (g) by Pub. L. 111–203, title IX, §929X(c)(1), July 21, 2010, 124 Stat. 1870.
+Subsec. (f) of section 78o of this title, referred to in subsec. (b)(1)(B), was redesignated (g) by Pub. L. 111–203, title IX, §929X(c)(1), July 21, 2010, 124 Stat. 1870.
+
+Section 10 of the STOCK Act, referred to in subsecs. (g)(1) and (h)(1), is section 10 of Pub. L. 112–105, which is set out as a note under section 101 of the Ethics in Government Act of 1978, Pub. L. 95–521, set out in the Appendix to Title 5, Government Organization and Employees.
+
+Section 109 of the Ethics in Government Act of 1978, referred to in subsecs. (g)(2)(B)(ii) and (h)(2)(B), (C), is section 109 of Pub. L. 95–521, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+Section 101(f) of the Ethics in Government Act of 1978, referred to in subsec. (i), is section 101(f) of Pub. L. 95–521, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (g). Pub. L. 112–105, §4(b)(2), added subsec. (g).
+
+Subsec. (h). Pub. L. 112–105, §9(b)(2)(B), added subsec. (h).
+
+Subsec. (i). Pub. L. 112–105, §12, added subsec (i).
 
 <b>2010</b>—Subsec. (a)(1). Pub. L. 111–203, §762(d)(7)(A), struck out “(as defined in section 206B of the Gramm-Leach-Bliley Act)” after “security-based swap agreement” in introductory provisions.
 
@@ -98,7 +166,7 @@ Subsec. (g). Pub. L. 111–203, §923(b)(2)(C), redesignated subsec. (g) as (f).
 
 Pub. L. 106–554, §1(a)(5) \[title II, §205(a)(4)\], substituted “standardized options or security futures products, the Commission—” for “standardized options, the Commission—” in introductory provisions.
 
-Subsec. (g). Pub. L. 106–554, §1(a)(5) \[title III, §303(<i>l</i>)\], added subsec. (g).
+Subsec. (g). Pub. L. 106–554, §1(a)(5) \[title III, §303(l)\], added subsec. (g).
 
 <b>1990</b>—Pub. L. 101–429 inserted “for insider trading” in section catchline.
 
@@ -114,7 +182,13 @@ Amendment by Pub. L. 101–429 effective Oct. 15, 1990, with provisions relating
 
 #### Effective Date
 
-Section not applicable to actions occurring before Nov. 19, 1988, see section 9 of Pub. L. 100–704 set out as an Effective Date of 1988 Amendment note under section 78<i>o</i> of this title.
+Section not applicable to actions occurring before Nov. 19, 1988, see section 9 of Pub. L. 100–704 set out as an Effective Date of 1988 Amendment note under section 78o of this title.
+
+#### Affirmation of Duty Of Government Officers and Employees
+
+Pub. L. 112–105, §4(b)(1), Apr. 4, 2012, 126 Stat. 292, provided that: “The purpose of the amendment made by this subsection \[amending this section\] is to affirm a duty arising from a relationship of trust and confidence owed by each Member of Congress and each employee of Congress.”
+
+Pub. L. 112–105, §9(b)(2)(A), Apr. 4, 2012, 126 Stat. 297, provided that: “The purpose of the amendment made by this paragraph \[amending this section\] is to affirm a duty arising from a relationship of trust and confidence owed by each executive branch employee, judicial officer, and judicial employee.”
 
 #### Congressional Findings
 

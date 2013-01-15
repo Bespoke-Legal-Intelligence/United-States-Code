@@ -1,14 +1,16 @@
 ### §4054. Premium equalization payments; basis; aggregate amount; establishment of designated periods
 
-(a) The Director, on such terms and conditions as he may from time to time prescribe, shall make periodic payments to the pool formed or otherwise created under section 4051 of this title, in recognition of such reductions in chargeable premium rates under section 4015 of this title below estimated premium rates under section 4014(a)(1) of this title as are required in order to make flood insurance available on reasonable terms and conditions.
+(a) The Administrator, on such terms and conditions as he may from time to time prescribe, shall make periodic payments to the pool formed or otherwise created under section 4051 of this title, in recognition of such reductions in chargeable premium rates under section 4015 of this title below estimated premium rates under section 4014(a)(1) of this title as are required in order to make flood insurance available on reasonable terms and conditions.
 
-(b) Designated periods under this section and the methods for determining the sum of premiums paid or payable during such periods shall be established by the Director.
+(b) Designated periods under this section and the methods for determining the sum of premiums paid or payable during such periods shall be established by the Administrator.
 
-(Pub. L. 90–448, title XIII, §1334, Aug. 1, 1968, 82 Stat. 583; Pub. L. 93–234, title I, §111, Dec. 31, 1973, 87 Stat. 981; Pub. L. 98–181, title IV, §451(d)(1), Nov. 30, 1983, 97 Stat. 1229.)
+(Pub. L. 90–448, title XIII, §1334, Aug. 1, 1968, 82 Stat. 583; Pub. L. 93–234, title I, §111, Dec. 31, 1973, 87 Stat. 981; Pub. L. 98–181, title I \[title IV, §451(d)(1)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 112–141, div. F, title II, §100238(b)(1), July 6, 2012, 126 Stat. 958.)
 
 #### Amendments
 
-<b>1983</b>—Pub. L. 98–181 substituted “Director” for “Secretary” wherever appearing.
+<b>2012</b>—Pub. L. 112–141 substituted “Administrator” for “Director” in subsecs. (a) and (b).
+
+<b>1983</b>—Pub. L. 98–181 substituted “Director” for “Secretary” in subsecs. (a) and (b).
 
 <b>1973</b>—Subsecs. (b), (c). Pub. L. 93–234 redesignated subsec. (c) as (b) and struck out former subsec. (b) prescribing formula for sharing losses between Government and industry and permit necessary flexibility in loss sharing to take into account longer-term loss experience trends and to compensate for lack of precision in actuarial computations.
 

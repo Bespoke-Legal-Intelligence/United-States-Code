@@ -62,7 +62,7 @@ At the time the Secretary enters into a contract, the Secretary shall provide an
 
 #### Amendments
 
-<b>1999</b>—Subsec. (d)(3). Pub. L. 106–78, in par. heading, struck out “for fiscal year 1999” after “rule” and, intext, substituted “any of fiscal years 1999 through 2002” for “fiscal year 1999”.
+<b>1999</b>—Subsec. (d)(3). Pub. L. 106–78, in par. heading, struck out “for fiscal year 1999” after “rule” and, in text, substituted “any of fiscal years 1999 through 2002” for “fiscal year 1999”.
 
 <b>1998</b>—Subsec. (d)(3). Pub. L. 105–228 added par. (3).
 

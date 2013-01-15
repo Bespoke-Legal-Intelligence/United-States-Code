@@ -2,11 +2,11 @@
 
 (a)
 
-Certification of Periodic Financial Reports.—Each periodic report containing financial statements filed by an issuer with the Securities Exchange Commission pursuant to section 13(a) or 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78m(a) or 78<i>o</i>(d)) shall be accompanied by a written statement by the chief executive officer and chief financial officer (or equivalent thereof) of the issuer.
+Certification of Periodic Financial Reports.—Each periodic report containing financial statements filed by an issuer with the Securities Exchange Commission pursuant to section 13(a) or 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78m(a) or 78o(d)) shall be accompanied by a written statement by the chief executive officer and chief financial officer (or equivalent thereof) of the issuer.
 
 (b)
 
-Content.—The statement required under subsection (a) shall certify that the periodic report containing the financial statements fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act pf <sup>1</sup> 1934 (15 U.S.C. 78m or 78<i>o</i>(d)) and that information contained in the periodic report fairly presents, in all material respects, the financial condition and results of operations of the issuer.
+Content.—The statement required under subsection (a) shall certify that the periodic report containing the financial statements fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act pf <sup>1</sup> 1934 (15 U.S.C. 78m or 78o(d)) and that informationcontained in the periodic report fairly presents, in all material respects, the financial condition and results of operations of the issuer.
 
 (c)
 

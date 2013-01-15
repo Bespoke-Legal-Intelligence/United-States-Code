@@ -28,7 +28,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If the Board of Directors considers it necessary to examine an insured System bank,a production credit association, an association making direct loans under the authority provided under section 2279b of this title, or any System institution in receivership, the Board may, using Farm Credit Administration examiners, conduct the examination using reports and other information on the System institution prepared or held by the Farm Credit Administration. Notwithstanding any other provision of this chapter, on cancellation of the charter of a System institution, the Corporation shall have authority to examine the system <sup>1</sup> institution in receivership. An examination shall be performed at such intervals as the Corporation shall determine.
+&emsp;&emsp;If the Board of Directors considers it necessary to examine an insured System bank, a production credit association, an association making direct loans under the authority provided under section 2279b of this title, or any System institution in receivership, the Board may, using Farm Credit Administration examiners, conduct the examination using reports and other information on the System institution prepared or held by the Farm Credit Administration. Notwithstanding any other provision of this chapter, on cancellation of the charter of a System institution, the Corporation shall have authority to examine the system <sup>1</sup> institution in receivership. An examination shall be performed at such intervals as the Corporation shall determine.
 
 #### (B) Request for additional examination or other information
 
@@ -40,7 +40,7 @@
 
 #### (3) Powers and report
 
-&emsp;Each examiner appointed under paragraph (2) shall make such examination of the affairs of the System institution as the Board may direct, and shall make a full and detailed report of the examination to the Corporation.
+&emsp;Each examiner appointed under paragraph (2) shall make such examination of the affairsof the System institution as the Board may direct, and shall make a full and detailed report of the examination to the Corporation.
 
 #### (4) Appointment of claim agents
 

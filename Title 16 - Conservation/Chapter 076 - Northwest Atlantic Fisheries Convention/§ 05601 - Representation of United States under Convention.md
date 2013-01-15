@@ -100,5 +100,5 @@ The Federal Advisory Committee Act, referred to in subsec. (f)(2), is Pub. L. 92
 
 #### Short Title
 
-Section 201 of title II of Pub. L. 104–43 provided that: “This title \[enacting this chapter\] may be cited as the ‘Northwest Atlantic Fisheries Convention Act of 1995’.”
+Pub. L. 104–43, title II, §201, Nov. 3, 1995, 109 Stat. 377, provided that: “This title \[enacting this chapter\] may be cited as the ‘Northwest Atlantic Fisheries Convention Act of 1995’.”
 

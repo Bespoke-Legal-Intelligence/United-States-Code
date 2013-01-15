@@ -4,9 +4,15 @@
 
 (b)(1) The effective date of an award of disability compensation to a veteran shall be the day following the date of the veteran's discharge or release if application therefor is received within one year from such date of discharge or release.
 
-(2) The effective date of an award of increased compensation shall be the earliest date as of which it is ascertainable that an increase in disability had occurred, if application is received within one year from such date.
+(2)(A) The effective date of an award of disability compensation to a veteran who submits an application therefor that sets forth an original claim that is fully-developed (as determined by the Secretary) as of the date of submittal shall be fixed in accordance with the facts found, but shall not be earlier than the date that is one year before the date of receipt of the application.
 
-(3)(A) The effective date of an award of disability pension to a veteran described in subparagraph (B) of this paragraph shall be the date of application or the date on which the veteran became permanently and totally disabled, if the veteran applies for a retroactive award within one year from such date, whichever is to the advantage of the veteran.
+(B) For purposes of this paragraph, an original claim is an initial claim filed by a veteran for disability compensation.
+
+(C) This paragraph shall take effect on the date that is one year after the date of the enactment of the Honoring America's Veterans and Caring for Camp Lejeune Families Act of 2012 and shall not apply with respect to claims filed after the date that is three years after the date of the enactment of such Act.
+
+(3) The effective date of an award of increased compensation shall be the earliest date as of which it is ascertainable that an increase in disability had occurred, if application is received within one year from such date.
+
+(4)(A) The effective date of an award of disability pension to a veteran described in subparagraph (B) of this paragraph shall be the date of application or the date on which the veteran became permanently and totally disabled, if the veteran applies for a retroactive award within one year from such date, whichever is to the advantage of the veteran.
 
 (B) A veteran referred to in subparagraph (A) of this paragraph is a veteran who is permanently and totally disabled and who is prevented by a disability from applying for disability pension for a period of at least 30 days beginning on the date on which the veteran became permanently and totally disabled.
 
@@ -18,7 +24,7 @@
 
 (2) In the case of a child who is eighteen years of age or over and who immediately before becoming eighteen years of age was counted under section 1311(b) of this title in determining the amount of the dependency and indemnity compensation of a surviving spouse, the effective date of an award of dependency and indemnity compensation to such child shall be the date the child attains the age of eighteen years if application therefor is received within one year from such date.
 
-(f) An award of additional compensation on account of dependents based on the establishment of a disability rating in the percentage evaluation specified by law for the purpose shall be payable from the effective date of such rating;but only if proof of dependents is received within one year from the date of notification of such rating action.
+(f) An award of additional compensation on account of dependents based on the establishment of a disability rating in the percentage evaluation specified by law for the purpose shall be payable from the effective date of such rating; but only if proof of dependents is received within one year from the date of notification of such rating action.
 
 (g) Subject to the provisions of section 5101 of this title, where compensation, dependency and indemnity compensation, or pension is awarded or increased pursuant to any Act or administrative issue, the effective date of such award or increase shall be fixed in accordance with the facts found but shall not be earlier than the effective date of the Act or administrative issue. In no event shall such award or increase be retroactive for more than one year from the date of application therefor or the date of administrative determination of entitlement, whichever is earlier.
 
@@ -30,15 +36,21 @@
 
 (k) The effective date of the award of benefits to a surviving spouse or of an award or increase of benefits based on recognition of a child, upon annulment of a marriage shall be the date the judicial decree of annulment becomes final if a claim therefor is filed within one year from the date the judicial decree of annulment becomes final; in all other cases the effective date shall be the date the claim is filed.
 
-(<i>l</i>) The effective date of an award of benefits to a surviving spouse based upon a termination of a remarriage by death or divorce, or of an award or increase of benefits based on recognition of a child upon termination of the child's marriage by death or divorce, shall be the date of death or the date the judicial decree or divorce becomes final, if an application therefor is received within one year from such termination.
+(l) The effective date of an award of benefits to a surviving spouse based upon a termination of a remarriage by death or divorce, or of an award or increase of benefits based on recognition of a child upon termination of the child's marriage by death or divorce, shall be the date of death or the date the judicial decree or divorce becomes final, if an application therefor is received within one year from such termination.
 
 \[(m) Repealed. Pub. L. 103–446, title XII, §1201(i)(8), Nov. 2, 1994, 108 Stat. 4688.\]
 
 (n) The effective date of the award of any benefit or any increase therein by reason of marriage or the birth or adoption of a child shall be the date of such event if proof of such event is received by the Secretary within one year from the date of the marriage, birth, or adoption.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1226, §3010; Pub. L. 87–674, §3, Sept. 19, 1962, 76 Stat. 558; Pub. L. 87–825, §1, Oct. 15, 1962, 76 Stat. 948; Pub. L. 91–376, §7, Aug. 12, 1970, 84 Stat. 790; Pub. L. 91–584, §13, Dec. 24, 1970, 84 Stat. 1578; Pub. L. 93–177, §6(a), Dec. 6, 1973, 87 Stat. 696; Pub. L. 93–527, §9(b), Dec. 21, 1974, 88 Stat. 1705; Pub. L. 94–71, title I, §104, Aug. 5, 1975, 89 Stat. 396; Pub. L. 97–66, title II, §204(b), Oct. 17, 1981, 95 Stat. 1029; Pub. L. 98–160, title VII, §703(1), Nov. 21, 1983, 97 Stat. 1010; Pub. L. 98–223, title II, §213(3), Mar. 2, 1984, 98 Stat. 46; Pub. L. 98–369, div. B, title V, §2501(a), July 18, 1984, 98 Stat. 1116; Pub. L. 99–576, title VII, §701(63), Oct. 28, 1986, 100 Stat. 3296; renumbered §5110 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§4(a)(2)(A)(vi), (b)(4)(B), 5(c)(1), Aug. 6, 1991, 105 Stat. 403, 405, 406; Pub. L. 103–446, title XII, §1201(i)(8), Nov. 2, 1994, 108 Stat. 4688; Pub. L. 108–454, title III, §305, Dec. 10, 2004, 118 Stat. 3611.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1226, §3010; Pub. L. 87–674, §3, Sept. 19, 1962, 76 Stat. 558; Pub. L. 87–825, §1, Oct. 15, 1962, 76 Stat. 948; Pub. L. 91–376, §7, Aug. 12, 1970, 84 Stat. 790; Pub. L. 91–584, §13, Dec. 24, 1970, 84 Stat. 1578; Pub. L. 93–177, §6(a), Dec. 6, 1973, 87 Stat. 696; Pub. L. 93–527, §9(b), Dec. 21, 1974, 88 Stat. 1705; Pub. L. 94–71, title I, §104, Aug. 5, 1975, 89 Stat. 396; Pub. L. 97–66, title II, §204(b), Oct. 17, 1981, 95 Stat. 1029; Pub. L. 98–160, title VII, §703(1), Nov. 21, 1983, 97 Stat. 1010; Pub. L. 98–223, title II, §213(3), Mar. 2, 1984, 98 Stat. 46; Pub. L. 98–369, div. B, title V, §2501(a), July 18, 1984, 98 Stat. 1116; Pub. L. 99–576, title VII, §701(63), Oct. 28, 1986, 100 Stat. 3296; renumbered §5110 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§4(a)(2)(A)(vi), (b)(4)(B), 5(c)(1), Aug. 6, 1991, 105 Stat. 403, 405, 406; Pub. L. 103–446, title XII, §1201(i)(8), Nov. 2, 1994, 108 Stat. 4688; Pub. L. 108–454, title III, §305, Dec. 10, 2004, 118 Stat. 3611; Pub. L. 112–154, title V, §506, Aug. 6, 2012, 126 Stat. 1193.)
+
+#### References in Text
+
+The date of the enactment of the Honoring America's Veterans and Caring for Camp Lejeune Families Act of 2012, referred to in subsec. (b)(2)(C), is the date of enactment of Pub. L. 112–154, which was approved Aug. 6, 2012.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (b)(2) to (4). Pub. L. 112–154 added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
 <b>2004</b>—Subsec. (d). Pub. L. 108–454 struck out par. (1) designation after subsec. (d) designation, substituted “death compensation, dependency and indemnity compensation, or death pension” for “death compensation or dependency and indemnity compensation”, and struck out par.(2) which read as follows: “The effective date of an award of death pension for which application is received within 45 days from the date of death shall be the first day of the month in which the death occurred.”
 
@@ -70,11 +82,11 @@ Subsec. (m). Pub. L. 98–223 substituted “section” for “subsection”.
 
 <b>1975</b>—Subsec. (b)(2), (3). Pub. L. 94–71 added par. (2) and redesignated former par. (2) as (3).
 
-<b>1974</b>—Subsec. (<i>l</i>). Pub. L. 93–527 inserted provisions relating to an award or increase of benefits based on recognition of a child upon termination of the child's marriage by death or divorce.
+<b>1974</b>—Subsec. (l). Pub. L. 93–527 inserted provisions relating to an award or increase of benefits based on recognition of a child upon termination of the child's marriage by death or divorce.
 
 <b>1973</b>—Subsec. (b). Pub. L. 93–177 designated existing provisions as par. (1) and added par. (2).
 
-<b>1970</b>—Subsecs. (<i>l</i>), (m). Pub. L. 91–376 added subsecs. (<i>l</i>) and (m).
+<b>1970</b>—Subsecs. (l), (m). Pub. L. 91–376 added subsecs. (l) and (m).
 
 Subsec. (n). Pub. L. 91–584 added subsec. (n).
 
@@ -84,7 +96,7 @@ Subsec. (c). Pub. L. 87–825 added subsec. (c). Former subsec. (c) redesignated
 
 Subsec. (d). Pub. L. 87–825 redesignated former subsec. (c) as (d) and substituted first day of month in which the death occurred, for the day after the day of death, as the effective date. Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 87–825 redesignated former subsec. (d) as (e), substituted “first day of the month” for “date”, and struck out “the entitlement arose” after “from such date.” Former subsec. (e) redesignated (j).
+Subsec. (e). Pub. L. 87–825 redesignated former subsec. (d) as (e), substituted “first day of the month” for“date”, and struck out “the entitlement arose” after “from such date.” Former subsec. (e) redesignated (j).
 
 Subsec. (f). Pub. L. 87–825 added subsec. (f). A prior subsec. (f) added by Pub. L. 87–674 was redesignated (k) by Pub. L. 87–825.
 
@@ -96,7 +108,7 @@ Subsec. (k). Pub. L. 87–825 redesignated former subsec. (f), added by Pub. L. 
 
 #### Effective Date of 1984 Amendment
 
-Section 2501(b) of Pub. L. 98–369 provided that: “The amendments made by subsection (a)(1) \[amending this section\] and the provisions of paragraph (2) of section 3010(d) \[now 5110(d)\] of title 38, United States Code, as added by subsection (a)(2), shall take effect with respect to applications that are first received after September 30, 1984, for benefits under chapter 15 of title 38, United States Code.”
+Pub. L. 98–369, div. B, title V, §2501(b), July 18, 1984, 98 Stat. 1117, provided that: “The amendments made by subsection (a)(1) \[amending this section\] and the provisions of paragraph (2) of section 3010(d) \[now 5110(d)\] of title 38, United States Code, as added by subsection (a)(2), shall take effect with respect to applications that are first received after September 30, 1984, for benefits under chapter 15 of title 38, United States Code.”
 
 #### Effective Date of 1981 Amendment
 
@@ -112,7 +124,7 @@ Amendment by Pub. L. 93–527 effective Jan. 1, 1975, see section 10 of Pub. L. 
 
 #### Effective Date of 1973 Amendment
 
-Section 6(b) of Pub. L. 93–177 provided that: “Subsection (a) of this section \[amending this section\] shall apply to applications filed after its effective date \[Jan. 1, 1974\], but in no event shall an award made thereunder be effective prior to such effective date.”
+Pub. L. 93–177, §6(b), Dec. 6, 1973, 87 Stat. 696, provided that: “Subsection (a) of this section \[amending this section\] shall apply to applications filed after its effective date \[Jan. 1, 1974\], but in no event shall an award made thereunder be effective prior to such effective date.”
 
 #### Effective Date of 1970 Amendment
 

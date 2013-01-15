@@ -63,7 +63,7 @@ The section is included because 49:1655(f)(2) gave the same administrative power
 
 See the revision notes for the revised section for an explanation of changes made in the text. Changes not accounted for in those revision notes are as follows:
 
-Subsection (a) does not apply to motor carriers of migrant workers and motor private carriers because 49:322(e) only applies to motor carriers and 49:304(a)(3) and (3a) do not apply 49:322(e) to motor carriers of migrant workers and motor private carriers. The words “engaged in interstate or foreign commerce” are omitted as unnecessary because of the restatement of the chapter.
+Subsection (a) does not apply to motor carriers of migrant workers and motor private carriers because49:322(e) only applies to motor carriers and 49:304(a)(3) and (3a) do not apply 49:322(e) to motor carriers of migrant workers and motor private carriers. The words “engaged in interstate or foreign commerce” are omitted as unnecessary because of the restatement of the chapter.
 
 In subsections (b) and (c), the text of 49:304(a)(3) (last sentence 1st–7th words) and (3a) (last sentence 1st–5th words) is omitted as executed.
 

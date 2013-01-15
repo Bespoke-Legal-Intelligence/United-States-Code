@@ -12,7 +12,7 @@ In any taxable year there shall be allowed as a deduction in computing the taxab
 
 #### (b) Character of amounts distributed
 
-The amount determined under subsection (a) shall be treated as consisting of the same proportion of each class of items entering into the computation of distributable net income of the estate or trust as the total of each class bears to the total distributable net income of the estate or trust in the absence of the allocation of different classes of income under the specific terms of the governing instrument. In the application of the preceding sentence, the items of deduction entering into the computation of distributable net income (including the deduction allowed under section 642(c)) shall be allocated among the items of distributable net income in accordance with regulations prescribed by the Secretary.
+The amount determined under subsection (a) shall be treated as consisting of the same proportion of each class of items entering into the computation of distributable net income of the estate or trust as the total of each class bears to the total distributable net income of the estate or trust in the absence of the allocation of different classes of income under the specific termsof the governing instrument. In the application of the preceding sentence, the items of deduction entering into the computation of distributable net income (including the deduction allowed under section 642(c)) shall be allocated among the items of distributable net income in accordance with regulations prescribed by the Secretary.
 
 #### (c) Limitation on deduction
 
@@ -24,7 +24,7 @@ No deduction shall be allowed under subsection (a) in respect of any portion of 
 
 <b>1983</b>—Subsec. (a). Pub. L. 98–67 repealed amendments made by Pub. L. 97–248. See 1982 Amendment note below.
 
-<b>1982</b>—Subsec. (a). Pub. L. 97–248 provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, subsec. (a) is amended by inserting at end “For purposes of paragraph (1), the amount of distributable net income shall be computed without the deduction allowed by section 642(c).”. Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954\(this title) shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
+<b>1982</b>—Subsec. (a). Pub. L. 97–248 provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, subsec. (a) is amended by inserting at end “For purposes of paragraph (1), the amount of distributable net income shall be computed without the deduction allowed by section 642(c).”. Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 (this title) shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
 
 <b>1976</b>—Subsec. (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 

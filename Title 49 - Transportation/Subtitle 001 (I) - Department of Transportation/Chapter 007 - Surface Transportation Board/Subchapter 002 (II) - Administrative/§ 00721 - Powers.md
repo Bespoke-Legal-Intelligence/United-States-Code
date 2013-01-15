@@ -28,7 +28,7 @@ Depositions.—(1) In a proceeding, the Board may take the testimony of a witnes
 
 (2) If a witness fails to be deposed or to produce records under paragraph (1), the Board may subpoena the witness to take a deposition, produce the records, or both.
 
-(3) A deposition may be taken before a judge of a court of the United States, a United States magistrate judge, a clerk of a district court, or a chancellor, justice, or judge of a supreme or superior court, mayor or chief magistrate of a city, judge of a county court, or court of common pleas of any State, or a notary public who is not counsel or attorney of a party or interested in the proceeding.
+(3) A deposition may be taken before a judge of a court of the United States, a United States magistrate judge, a clerk of a district court, or a chancellor, justice, or judge of a supreme orsuperior court, mayor or chief magistrate of a city, judge of a county court, or court of common pleas of any State, or a notary public who is not counsel or attorney of a party or interested in the proceeding.
 
 (4) Before taking a deposition, reasonable notice must be given in writing by the party or the attorney of that party proposing to take a deposition to the opposing party or the attorney of record of that party, whoever is nearest. The notice shall state the name of the witness and the time and place of taking the deposition.
 

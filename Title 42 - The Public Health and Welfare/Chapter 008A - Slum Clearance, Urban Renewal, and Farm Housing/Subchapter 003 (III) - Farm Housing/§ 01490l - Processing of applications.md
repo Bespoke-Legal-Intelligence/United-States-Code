@@ -42,7 +42,7 @@ In making available the assistance authorized by section 1483 of this title and 
 
 &emsp;A designation under this subsection shall not be effective for a period of more than 3 years, but may be renewed by the Secretary in accordance with the procedure set forth in this subsection. The Secretary shall take such other reasonable actions as the Secretary considers to be appropriate to notify the public of such designations.
 
-(July 15, 1949, ch. 338, title V, §532, as added Pub. L. 98–181, title V, §521, Nov. 30, 1983, 97 Stat. 1250; amended Pub. L. 104–180, title VII, §734(f), Aug. 6, 1996, 110 Stat. 1604.)
+(July 15, 1949, ch. 338, title V, §532, as added Pub. L. 98–181, title I \[title V, §521\], Nov. 30, 1983, 97 Stat. 1250; amended Pub. L. 104–180, title VII, §734(f), Aug. 6, 1996, 110 Stat. 1604.)
 
 #### Amendments
 

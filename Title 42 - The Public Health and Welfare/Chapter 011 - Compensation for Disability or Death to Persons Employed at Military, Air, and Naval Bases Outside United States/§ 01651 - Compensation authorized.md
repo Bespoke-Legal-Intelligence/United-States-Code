@@ -22,7 +22,7 @@ Except as herein modified, the provisions of the Longshore and Harbor Workers’
 
 As used in this section—
 
-&emsp;(1) the term “public work” means any fixed improvement or any project, whether or not fixed, involving construction, alteration, removal or repair for the public use of the United States or its allies, including but not limited to projects or operations under service contracts and projects in connection with the national defense or with war activities, dredging, harbor improvements, dams, roadways,and housing, as well as preparatory and ancillary work in connection therewith at the site or on the project;
+&emsp;(1) the term “public work” means any fixed improvement or any project, whether or not fixed, involving construction, alteration, removal or repair for the public use of the United States or its allies, including but not limited to projects or operations under service contracts and projects in connection with the national defense or with war activities, dredging, harbor improvements, dams, roadways, and housing, as well as preparatory and ancillary work in connection therewith at the site or on the project;
 
 &emsp;(2) the term “allies” means any nation with which the United States is engaged in a common military effort or with which the United States has entered into a common defensive military alliance;
 
@@ -102,11 +102,11 @@ Amendment by Pub. L. 98–426 effective Sept. 28, 1984, see section 28(e)(1) of 
 
 #### Effective Date of 1959 Amendment
 
-Section 47(g) of Pub. L. 86–70 provided that: “The amendments in sections 40 and 42 \[amending this section and sections 1701, 1704, and 1711 of this title\] shall take effect when enacted \[June 25, 1959\]: <i>Provided, however</i>, That with respect to injuries or deaths occurring on or after January 3, 1959, and prior to the effective date of these amendments, claims filed by employees engaged in the State of Alaska in any of the employments covered by the Defense Base Act \[this chapter\] (and their dependents) may be adjudicated under the Workmen's Compensation Act of Alaska instead of the Defense Base Act.”
+Pub. L. 86–70, §47(g), June 25, 1959, 73 Stat. 154, provided that: “The amendments in sections 40 and 42 \[amending this section and sections 1701, 1704, and 1711 of this title\] shall take effect when enacted \[June 25, 1959\]: <i>Provided, however</i>, That with respect to injuries or deaths occurring on or after January 3, 1959, and prior to the effective date of these amendments, claims filed by employees engaged in the State of Alaska in any of the employments covered by the Defense Base Act \[this chapter\] (and their dependents) may be adjudicated under the Workmen's Compensation Act of Alaska instead of the Defense Base Act.”
 
 #### Effective Date of 1958 Amendment
 
-Section 402 of Pub. L. 85–608 provided that: “The effective date of this Act \[amending this section, sections 1701, 1702, 1704, 1711, and 1716 of this title, and sections 751 and 790 of former Title 5, Executive Departments and Government Officers and Employees, repealing section 801 of former Title 5, and enacting provisions set out as notes under this section and section 1701 of this title\] is June 30, 1958. Persons are entitled to the benefits of this Act notwithstanding the fact that an injury, disability, or death occurred after June 30, 1958, and before the date of enactment of this Act \[Aug. 8, 1958\].”
+Pub. L. 85–608, title IV, §402, Aug. 8, 1958, 72 Stat. 539, provided that: “The effective date of this Act \[amending this section, sections 1701, 1702, 1704, 1711, and 1716 of this title, and sections 751 and 790 of former Title 5, Executive Departments and Government Officers and Employees, repealing section 801 of former Title 5, and enacting provisions set out as notes under this section and section 1701 of this title\] is June 30, 1958. Persons are entitled to the benefits of this Act notwithstanding the fact that an injury, disability, or death occurred after June 30, 1958, and before the date of enactment of this Act \[Aug. 8, 1958\].”
 
 #### Short Title
 
@@ -114,7 +114,7 @@ Section 5 of act Aug. 16, 1941, as added by Pub. L. 85–608, title II, §202, A
 
 #### Repeals
 
-Section 701 of Pub. L. 87–195, cited as a credit to this section, was repealed by section 401 of Pub. L. 87–565, pt. IV, Aug. 1, 1962, 76 Stat. 263, except insofar as section 701 affected this section.
+Pub. L. 87–195, pt. IV, §701, Sept. 4, 1961, 75 Stat. 463, cited as a credit to this section, was repealed by Pub. L. 87–565, pt. IV, §401, Aug. 1, 1962, 76 Stat. 263, except insofar as section 701 affected this section.
 
 #### Transfer of Functions
 

@@ -46,7 +46,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) such information cannot reasonably be obtained by normal investigative techniques;
 
-&emsp;&emsp;(G) a summary statement of the means by which the acquisition will be conducted andwhether physical entry is required to effect the acquisition;
+&emsp;&emsp;(G) a summary statement of the means by which the acquisition will be conducted and whether physical entry is required to effect the acquisition;
 
 &emsp;&emsp;(H) the identity of any electronic communication service provider necessary to effect the acquisition, provided that the application is not required to identify the specific facilities, places, premises, or property at which the acquisition authorized under this section will be directed or conducted;
 
@@ -172,7 +172,7 @@ No cause of action shall lie in any court against any electronic communication s
 
 #### (2) Certiorari to the Supreme Court
 
-&emsp;The Government may file a petition for a writ of certiorari for review of a decision of the Court of Review issued under paragraph (1). The record for such review shall be transmitted under seal to the Supreme Court of the United States, which shall have jurisdiction to review such decision.
+&emsp;The Government may file a petition for a writ of certiorari for review of a decision ofthe Court of Review issued under paragraph (1). The record for such review shall be transmitted under seal to the Supreme Court of the United States, which shall have jurisdiction to review such decision.
 
 #### (g) Construction
 
@@ -182,7 +182,7 @@ Except as provided in this section, nothing in this chapter shall be construed t
 
 #### Repeal of Section
 
-<i>Pub. L. 110–261, title IV, §403(b)(1), July 10, 2008, 122 Stat. 2474, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a note under section 1801 of this title, effective Dec. 31, 2012, this section is repealed.</i>
+<i>Pub. L. 110–261, title IV, §403(b)(1), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, §2(a)(1), Dec. 30, 2012, 126 Stat. 1631, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a note under section 1801 of this title, effective Dec. 31, 2017, this section is repealed.</i>
 
 #### References in Text
 
@@ -190,5 +190,5 @@ This chapter, referred to in subsecs. (a), (d)(1), and (g), was in the original 
 
 #### Effective Date of Repeal
 
-Pub. L. 110–261, title IV, §403(b)(1), July 10, 2008, 122 Stat. 2474, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under section 1801 of this title, the repeals made by section 403(b)(1) are effective Dec. 31, 2012.
+Pub. L. 110–261, title IV, §403(b)(1), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, §2(a)(1), Dec. 30, 2012, 126 Stat. 1631, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under section 1801 of this title, the repeals made by section 403(b)(1) are effective Dec. 31, 2017.
 

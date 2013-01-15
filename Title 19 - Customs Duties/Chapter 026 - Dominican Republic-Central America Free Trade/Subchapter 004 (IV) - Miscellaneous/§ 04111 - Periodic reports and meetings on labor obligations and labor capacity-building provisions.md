@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than the end of the 2-year period beginning on the date the Agreement enters into force, and not later than the end of each 2-year period thereafter during the succeeding 14-year period, the President shall report to the Congress on the progress made by the CAFTA–DR countries in—
+&emsp;Not later than the end of the 2-year period beginning on the date the Agreement entersinto force, and not later than the end of each 2-year period thereafter during the succeeding 14-year period, the President shall report to the Congress on the progress made by the CAFTA–DR countries in—
 
 &emsp;&emsp;(A) implementing Chapter Sixteen and Annex 16.5 of the Agreement; and
 
@@ -62,7 +62,7 @@
 
 #### Effective and Termination Dates
 
-Section effective on the date the Dominican Republic-Central America-United States Free Trade Agreement enters into force (Mar. 1, 2006) and to cease to have effect on the date the Agreement ceases to be inforce with respect to the United States, and, during any period in which a country ceases to be a CAFTA–DR country, to cease to have effect with respect to such country, see section 107 of Pub. L. 109–53, set out as a note under section 4001 of this title.
+Section effective on the date the Dominican Republic-Central America-United States Free Trade Agreement enters into force (Mar. 1, 2006) and to cease to have effect on the date the Agreement ceases to be in force with respect to the United States, and, during any period in which a country ceases to be a CAFTA–DR country, to cease to have effect with respect to such country, see section 107 of Pub. L. 109–53, set out as a note under section 4001 of this title.
 
 #### Delegation of Functions
 

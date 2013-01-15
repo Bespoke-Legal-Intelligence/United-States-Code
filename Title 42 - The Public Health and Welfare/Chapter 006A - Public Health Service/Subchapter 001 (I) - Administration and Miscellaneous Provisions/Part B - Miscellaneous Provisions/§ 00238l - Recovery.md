@@ -52,7 +52,7 @@ Section was classified to section 300aaa–12 of this title prior to renumbering
 
 <b>1985</b>—Pub. L. 99–129 amended section generally. Prior to amendment, section read as follows: “If any facility of a community mental health center acquired, remodeled, constructed, or expanded with funds provided under the Community Mental Health Centers Act is, at any time within twenty years after the completion of such remodeling, construction, or expansion or after the date of its acquisition with such funds—
 
-&emsp;“(1) sold or transferred to any person or entity (A) which is not qualified to file an application under section 222 of the Community Mental Health Centers Act, or (B) which is not approved as a transferee by the State agency of the State in which such facility is located, or its successor; or
+&emsp;“(1) sold or transferred to any person or entity (A) which is not qualified to file an application under section 222 of the Community Mental Health CentersAct, or (B) which is not approved as a transferee by the State agency of the State in which such facility is located, or its successor; or
 
 &emsp;“(2) not used by a community mental health center in the provision of comprehensive mental health services, and the Secretary has not determined that there is good cause for termination of such use,
 
@@ -68,11 +68,11 @@ Pub. L. 99–129, title II, §226(b), Oct. 22, 1985, 99 Stat. 547, provided that
 
 #### Effective Date of 1981 Amendment
 
-Section 902(h) of Pub. L. 97–35 provided that: “The amendments made by this section \[amending this section and sections 201, 225a \[now 238d\], 229b \[now 238j\], 243, 246, 289k–1, 300d–4, 300d–6, 300<i>l</i>–2, 300m, 300m–3, 9412, and 9511 of this title, repealing sections 247b–1, 247b–2, 255, 300d to 300d–3, 300d–5, 300d–7 to 300d–9, 300d–21, 2689 to 2689<i>l</i>, 2689n to 2689p, 2689r to 2689aa, 9411, 9421 to 9423, 9431 to 9438, 9451, 9452, 9461 to 9465, 9471 to 9473, 9481, 9491 to 9493, 9502, 9512, 9521, and 9523 of this title, repealing provisions set out as notes under sections 246 and 2689 of this title, and transferring section 2689m to section 229d \[now 238<i>l</i>\] of this title\] shall take effect October 1, 1981.”
+Pub. L. 97–35, title IX, §902(h), Aug. 13, 1981, 95 Stat. 561, provided that: “The amendments made by this section \[amending this section and sections 201, 225a \[now 238d\], 229b \[now 238j\], 243, 246, 289k–1, 300d–4, 300d–6, 300l–2, 300m, 300m–3, 9412, and 9511 of this title, repealing sections 247b–1, 247b–2, 255, 300d to 300d–3, 300d–5, 300d–7 to 300d–9, 300d–21, 2689 to 2689l, 2689n to 2689p, 2689r to 2689aa, 9411, 9421 to 9423, 9431 to 9438, 9451, 9452, 9461 to 9465, 9471 to 9473, 9481, 9491 to 9493, 9502, 9512, 9521, and 9523 of this title, repealing provisions set out as notes under sections 246 and 2689 of this title, and transferring section 2689m to section 229d \[now 238l\] of this title\] shall take effect October 1, 1981.”
 
 #### Effective Date of 1978 Amendment
 
-Section 110(c) of Pub. L. 95–622 provided that the amendment made by that section is effective July 29, 1975.
+Pub. L. 95–622, title I, §110(c), Nov. 9, 1978, 92 Stat. 3420, provided that the amendment made by that section is effective July 29, 1975.
 
 #### Effective Date
 
@@ -80,5 +80,5 @@ Section effective July 1, 1975, see section 608 of Pub. L. 94–63, set out as a
 
 #### Other Legal Rights of United States Not Adversely Affected by 1985 Amendment
 
-Section 226(c) of Pub. L. 99–129 provided that: “The amendments made by subsection (a) of this section \[amending this section\] shall not adversely affect other legal rights of the United States.”
+Pub. L. 99–129, title II, §226(c), Oct. 22, 1985, 99 Stat. 547, provided that: “The amendments made by subsection (a) of this section \[amending this section\] shall not adversely affect other legal rights of the United States.”
 

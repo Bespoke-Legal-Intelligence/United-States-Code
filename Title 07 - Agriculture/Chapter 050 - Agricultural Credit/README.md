@@ -129,10 +129,10 @@
 | [2008i.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2002008i%20-%20Short%20form%20certification%20of%20farm%20program%20borrower%20compliance.md) | Short form certification of farm program borrower compliance. |
 | [2008j.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2002008j%20-%20National%20Sheep%20Industry%20Improvement%20Center.md) | National Sheep Industry Improvement Center. |
 | [2008k.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2002008k%20-%20Making%20and%20servicing%20of%20loans%20by%20personnel%20of%20State%2C%20county%2C%20or%20area%20committees.md) | Making and servicing of loans by personnel of State, county, or area committees. |
-| 2008<i>l</i>. | Eligibility of employees of State, county, or area committee for loans and loan guarantees. |
+| [2008l.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2002008l%20-%20Eligibility%20of%20employees%20of%20State%2C%20county%2C%20or%20area%20committee%20for%20loans%20and%20loan%20guarantees.md) | Eligibility of employees of State, county, or area committee for loans and loan guarantees. |
 | [2008m.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2002008m%20-%20National%20Rural%20Development%20Partnership.md) | National Rural Development Partnership. |
 | [2008n.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2002008n%20-%20Rural%20telework.md) | Rural telework. |
-| 2008<i>o</i>. | Historic barn preservation. |
+| [2008o.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2002008o%20-%20Historic%20barn%20preservation.md) | Historic barn preservation. |
 | [2008p.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2002008p%20-%20Grants%20for%20NOAA%20weather%20radio%20transmitters.md) | Grants for NOAA weather radio transmitters. |
 | [2008q.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2002008q%20-%20Grants%20to%20train%20farm%20workers%20in%20new%20technologies%20and%20to%20train%20farm%20workers%20in%20specialized%20skills%20necessary%20for%20higher%20value%20crops.md) | Grants to train farm workers in new technologies and to train farm workers in specialized skills necessary for higher value crops. |
 | 2008q–1. | Grants to improve supply, stability, safety, and training of agricultural labor force. |

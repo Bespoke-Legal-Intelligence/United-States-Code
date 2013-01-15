@@ -24,7 +24,7 @@ Nonvoting investment stock may be issued in such series and in such amounts as m
 
 Participation certificates may be issued to parties to whom voting stock may not be issued.
 
-(Pub. L. 92–181, title III, §3.3, Dec. 10, 1971, 85 Stat. 603; Pub. L. 96–592, title III, §302, Dec. 24, 1980, 94 Stat. 3443; Pub. L. 99–205, title II, §205(e)(3), (4), Dec. 23, 1985, 99 Stat. 1705; Pub. L. 100–233, title VIII, §§802(<i>o</i>), 805(k), Jan. 6, 1988, 101 Stat. 1712, 1715; Pub. L. 110–234, title V, §§5402, 5403(a), May 22, 2008, 122 Stat. 1154; Pub. L. 110–246, §4(a), title V, §§5402, 5403(a), June 18, 2008, 122 Stat. 1664, 1915.)
+(Pub. L. 92–181, title III, §3.3, Dec. 10, 1971, 85 Stat. 603; Pub. L. 96–592, title III, §302, Dec. 24, 1980, 94 Stat. 3443; Pub. L. 99–205, title II, §205(e)(3), (4), Dec. 23, 1985, 99 Stat. 1705; Pub. L. 100–233, title VIII, §§802(o), 805(k), Jan. 6, 1988, 101 Stat. 1712, 1715; Pub. L. 110–234, title V, §§5402, 5403(a), May 22, 2008, 122 Stat. 1154; Pub. L. 110–246, §4(a), title V, §§5402, 5403(a), June 18, 2008, 122 Stat. 1664, 1915.)
 
 #### Codification
 
@@ -36,13 +36,13 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 Subsec. (c)(ii), (iii). Pub. L. 110–246, §5403(a), added cl. (ii) and redesignated former cl. (ii) as (iii).
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–233, §802(<i>o</i>)(1), struck out “, with the approval of Farm Credit Administration,” after “board determines”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–233, §802(o)(1), struck out “, with the approval of Farm Credit Administration,” after “board determines”.
 
-Subsec. (b). Pub. L. 100–233, §802(<i>o</i>)(2), struck out “with the approval of the Farm Credit Administration” after “board may determine”.
+Subsec. (b). Pub. L. 100–233, §802(o)(2), struck out “with the approval of the Farm Credit Administration” after “board may determine”.
 
 Subsec. (d). Pub. L. 100–233, §805(k), substituted “by” for “by by” after “regulations issued”.
 
-Subsec. (e). Pub. L. 100–233, §802(<i>o</i>)(3), struck out “and approved by the Farm Credit Administration” after “Board”.
+Subsec. (e). Pub. L. 100–233, §802(o)(3), struck out “and approved by the Farm Credit Administration” after “Board”.
 
 <b>1985</b>—Subsec. (d). Pub. L. 99–205, §205(e)(3), inserted “under regulations issued by” after “authorized”.
 

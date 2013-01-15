@@ -16,7 +16,7 @@ Requirement.—A license issued or transferred under this chapter, or a permit, 
 
 (b)
 
-Compliance With Payload Requirements.—The holder of a license or permit underthis chapter may launch or reenter a payload only if the payload complies with all requirements of the laws of the United States related to launching or reentering a payload.
+Compliance With Payload Requirements.—The holder of a license or permit under this chapter may launch or reenter a payload only if the payload complies with all requirements of the laws of the United States related to launching or reentering a payload.
 
 (c)
 

@@ -34,5 +34,5 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 #### Short Title
 
-Section 1 of Pub. L. 104–4 provided that: “This Act \[enacting this chapter and sections 658 to 658g of this title, amending sections 602, 632, and 653 of this title, and enacting provisions set out as notes under sections 1511 and 1531 of this title\] may be cited as the ‘Unfunded Mandates Reform Act of 1995’.”
+Pub. L. 104–4, §1, Mar. 22, 1995, 109 Stat. 48, provided that: “This Act \[enacting this chapter and sections 658 to 658g of this title, amending sections 602, 632, and 653 of this title, and enacting provisions set out as notes under sections 1511 and 1531 of this title\] may be cited as the ‘Unfunded Mandates Reform Act of 1995’.”
 

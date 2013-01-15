@@ -30,7 +30,7 @@
 
 &emsp;(A) the activities to be carried out under the application will be in addition to, and not in substitution for, activities previously carried on without Federal assistance; and
 
-&emsp;(B) funds or other resources devoted to programs designed to meet the needs of the poor within the community, area, or State will notbe diminished in order to provide the matching contributions required under this section.
+&emsp;(B) funds or other resources devoted to programs designed to meet the needs of the poor within the community, area, or State will not be diminished in order to provide the matching contributions required under this section.
 
 #### (c) Programs directed to special populations
 
@@ -88,7 +88,7 @@ Subsection (f) of this section, referred to in subsec. (h)(3), was omitted from 
 
 #### Codification
 
-Subsec. (f) of this section, which required the Secretary to submit to the Committee on Education and Labor of the House of Representatives and the Committee on Labor and Human Resources of the Senate an annual report describing programs for which grants were made under this section in the most recently completed fiscal year and the evaluations received under subsec. (a)(1)(D) of this section in such fiscal year, describing the methods used by the Secretary to comply with subsec. (d) of this section, making recommendations regarding the suitability of carrying out such programs with funds made available under other Federal laws, and describing each program identified undersubsec. (d)(1) of this section or replicated under subsec. (e)(2) of this section and identifying the geographical location where such program was carried out, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, the 4th item on page 98 of House Document No. 103–7.
+Subsec. (f) of this section, which required the Secretary to submit to the Committee on Education and Labor of the House of Representatives and the Committee on Labor and Human Resources of the Senate an annual report describing programs for which grants were made under this section in the most recently completed fiscal year and the evaluations received under subsec. (a)(1)(D) of this section in such fiscal year, describing the methods used by the Secretary to comply with subsec. (d) of this section, making recommendations regarding the suitability of carrying out such programs with funds made available under other Federal laws, and describing each program identified under subsec. (d)(1) of this section or replicated under subsec. (e)(2) of this section and identifying the geographical location where such program was carried out, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, the 4th item on page 98 of House Document No. 103–7.
 
 Section was formerly classified to section 9910b of this title.
 
@@ -112,7 +112,7 @@ Subsec. (h). Pub. L. 103–252, §207(4), amended heading and text of subsec. (h
 
 <b>1990</b>—Subsecs. (c) to (e). Pub. L. 101–501, §601(2), (3), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively. Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 101–501, §601(1), (2), redesignated subsec. (e) as (f) and substituted “subsection (d)” for “subsection (c)” in par. (2) and “subsection (e)(2)” for “subsection (d)(2)” in par. (4). Former subsec. (f) redesignated (g).
+Subsec. (f). Pub. L. 101–501, §601(1), (2), redesignated subsec. (e) as (f) and substituted “subsection (d)” for “subsection (c)” in par. (2) and “subsection (e)(2)” for“subsection (d)(2)” in par. (4). Former subsec. (f) redesignated (g).
 
 Subsec. (g). Pub. L. 101–501, §601(2), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
 

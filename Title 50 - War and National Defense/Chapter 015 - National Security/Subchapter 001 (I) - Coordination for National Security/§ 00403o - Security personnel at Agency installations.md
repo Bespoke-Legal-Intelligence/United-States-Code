@@ -24,7 +24,7 @@ The Director is authorized to establish penalties for violations of the rules or
 
 #### (c) Identification
 
-Agency personnel designated by the Director under subsection (a) of this section shall be clearly identifiable as United States Government security personnel while engaged in theperformance of the functions to which subsection (a) of this section refers.
+Agency personnel designated by the Director under subsection (a) of this section shall be clearly identifiable as United States Government security personnel while engaged in the performance of the functions to which subsection (a) of this section refers.
 
 #### (d) Protection of certain CIA personnel from tort liability
 
@@ -56,7 +56,7 @@ Subsec. (b). Pub. L. 108–177, §377(b)(3)(B), substituted “section 1315(c)(2
 
 Subsec. (d). Pub. L. 108–177, §402, added subsec. (d).
 
-<b>2002</b>—Subsec. (a)(5). Pub. L. 107–306 struck out par. (5) which read as follows: “Not later than December 1, 1998, and annually thereafter, the Director shall submit a report to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate that describes in detail the exercise of the authority granted by this subsection, and the underlying facts supporting the exercise of such authority, during the preceding fiscal year. The Director shall make such report available to the Inspector General of the Central Intelligence Agency.”
+<b>2002</b>—Subsec. (a)(5). Pub. L. 107–306 struck out par. (5) which read as follows: “Not later than December 1,1998, and annually thereafter, the Director shall submit a report to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate that describes in detail the exercise of the authority granted by this subsection, and the underlying facts supporting the exercise of such authority, during the preceding fiscal year. The Director shall make such report available to the Inspector General of the Central Intelligence Agency.”
 
 <b>1997</b>—Subsec. (a)(1). Pub. L. 105–107, §404(1), (2), inserted “(1)” after “(a)”, substituted “powers—” for “powers only within Agency installations, and the rules and regulations enforced by such personnel shall be rules and regulations promulgated by the Director.”, and added subpars. (A) to (D).
 

@@ -52,7 +52,7 @@ Section 1320c–3(a)(4)(C) of this title, referred to in subsec. (e), was repeal
 
 #### Prior Provisions
 
-A prior section 1320c–9, act Aug. 14, 1935, ch. 531, title XI, §1160, as added Oct. 30, 1972, Pub. L. 92–603, title II, §249F(b), 86 Stat. 1438; amended Oct. 25, 1977, Pub. L. 95–142, §5(e), (<i>o</i>)(3), 91 Stat. 1189, 1191; Aug. 13, 1981, Pub. L. 97–35, title XXI, §2113(g), 95 Stat. 795, enumerated obligations of health care practitioners and providers of health care services, prior to the general revision of this part by Pub. L. 97–248.
+A prior section 1320c–9, act Aug. 14, 1935, ch. 531, title XI, §1160, as added Oct. 30, 1972, Pub. L. 92–603, title II, §249F(b), 86 Stat. 1438; amended Oct. 25, 1977, Pub. L. 95–142, §5(e), (o)(3), 91 Stat. 1189, 1191; Aug. 13, 1981, Pub. L. 97–35, title XXI, §2113(g), 95 Stat. 795, enumerated obligations of health care practitioners and providers of health care services, prior to the general revision of this part by Pub. L. 97–248.
 
 #### Amendments
 
@@ -78,7 +78,7 @@ Amendment by Pub. L. 112–40 applicable to contracts entered into or renewed on
 
 #### Effective Date of 1994 Amendment
 
-Section 156(b)(6) of Pub. L. 103–432 provided that:
+Pub. L. 103–432, title I, §156(b)(6), Oct. 31, 1994, 108 Stat. 4441, provided that:
 
 “(A) Except as provided in subparagraph (B), the amendments made by this subsection \[amending this section, sections 1320c–3 and 1320c–5 of this title, and provisions set out as notes under this section and section 1320c–5 of this title\] shall take effect as if included in the enactment of OBRA–1990 \[Pub. L. 101–508\].
 
@@ -88,7 +88,7 @@ Section 156(b)(6) of Pub. L. 103–432 provided that:
 
 Amendment by section 4205(d)(1)(B) of Pub. L. 101–508 applicable to notices of proposed sanctions issued more than 60 days after Nov. 5, 1990, see section 4205(d)(1)(C) of Pub. L. 101–508, set out as a note under section 1320c–3 of this title.
 
-Section 4205(e)(2) of Pub. L. 101–508, as amended by Pub. L. 103–432, title I, §156(b)(5), Oct. 31, 1994, 108 Stat. 4441, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to proceedings as of the date of the enactment of this Act \[Nov. 5, 1990\].”
+Pub. L. 101–508, title IV, §4205(e)(2), Nov. 5, 1990, 104 Stat. 1388–114, as amended by Pub. L. 103–432, title I, §156(b)(5), Oct. 31, 1994, 108 Stat. 4441, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to proceedings as of the date of the enactment of this Act \[Nov. 5, 1990\].”
 
 #### Effective Date of 1988 Amendment
 
@@ -96,7 +96,7 @@ Except as specifically provided in section 411 of Pub. L. 100–360, amendment b
 
 #### Effective Date of 1986 Amendment
 
-Section 9353(d)(2) of Pub. L. 99–509 provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply to requests for data and information made on and after the end of the 6-month period beginning on the date of the enactment of this Act \[Oct. 21, 1986\].”
+Pub. L. 99–509, title IX, §9353(d)(2), Oct. 21, 1986, 100 Stat. 2047, provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply to requests for data and information made on and after the end of the 6-month period beginning on the date of the enactment of this Act \[Oct. 21, 1986\].”
 
 #### Freedom of Information Act Request
 

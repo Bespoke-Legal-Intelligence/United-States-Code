@@ -10,9 +10,17 @@
 
 For the purposes of this section—
 
-&emsp;(1) the term “loans and extensions of credit” shall include all direct or indirect advances of funds to a person made on the basis of any obligation of that person to repay the funds or repayable from specific property pledged by or on behalf of the person and, to the extent specified by the Comptroller of the Currency, such term shall also include any liability of a national banking association to advance funds to or on behalf of a person pursuant to a contractual commitment; and
+&emsp;(1) the term “loans and extensions of credit” shall include—
 
-&emsp;(2) the term “person” shall include an individual, sole proprietorship, partnership, joint venture, association, trust, estate, business trust, corporation, sovereign government or agency, instrumentality, or political subdivision thereof, or any similar entity or organization.
+&emsp;&emsp;(A) all direct or indirect advances of funds to a person made on the basis of any obligation of that person to repay the funds or repayable from specific property pledged by or on behalf of the person;
+
+&emsp;&emsp;(B) to the extent specified by the Comptroller of the Currency, any liability of a national banking association to advance funds to or on behalf of a person pursuant to a contractual commitment; and
+
+&emsp;&emsp;(C) any credit exposure to a person arising from a derivative transaction, repurchase agreement, reverse repurchase agreement, securities lending transaction, or securities borrowing transaction between the national banking association and the person;
+
+&emsp;(2) the term “person” shall include an individual, sole proprietorship, partnership, joint venture, association, trust, estate, business trust, corporation, sovereign government or agency, instrumentality, or political subdivision thereof, or any similar entity or organization; and
+
+&emsp;(3) the term “derivative transaction” includes any transaction that is a contract, agreement, swap, warrant, note, or option that is based, in whole or in part, on the value of, any interest in, or any quantitative measure or the occurrence of any event relating to, one or more commodities, securities, currencies, interest or other rates, indices, or other assets.
 
 #### (c) Exceptions
 
@@ -28,13 +36,13 @@ The limitations contained in subsection (a) of this section shall be subject to 
 
 &emsp;(5) Loans or extensions of credit to or secured by unconditional takeout commitments or guarantees of any department, agency, bureau, board, commission, or establishment of the United States or any corporation wholly owned directly or indirectly by the United States shall not be subject to any limitation based on capital and surplus.
 
-&emsp;(6) Loans or extensions of credit secured by a segregated deposit account in the lending bank shall not be subject to any limitation based on capital and surplus.
+&emsp;(6) Loans or extensions of credit secured by a segregated deposit account in the lendingbank shall not be subject to any limitation based on capital and surplus.
 
 &emsp;(7) Loans or extensions of credit to any financial institution or to any receiver, conservator, superintendent of banks, or other agent in charge of the business and property of such financial institution, when such loans or extensions of credit are approved by the Comptroller of the Currency, shall not be subject to any limitation based on capital and surplus.
 
 &emsp;(8)(A) Loans and extensions of credit arising from the discount of negotiable or nonnegotiable installment consumer paper which carries a full recourse endorsement or unconditional guarantee by the person transferring the paper shall be subject under this section to a maximum limitation equal to 25 per centum of such capital and surplus, notwithstanding the collateral requirements set forth in subsection (a)(2) of this section.
 
-&emsp;(B) If the bank's files or the knowledge of its officers of the financial condition of each maker of such consumer paper is reasonably adequate, and an officer of the bank designated for that purpose by the board of directors of the bank certifies in writing that the bank is relying primarily upon the responsibility of each maker for payment of such loans orextensions of credit and not upon any full or partial recourse endorsement or guarantee by the transferor, the limitations of this section as to the loans or extensions of credit of each such maker shall be the sole applicable loan limitations.
+&emsp;(B) If the bank's files or the knowledge of its officers of the financial condition of each maker of such consumer paper is reasonably adequate, and an officer of the bank designated for that purpose by the board of directors of the bank certifies in writing that the bank is relying primarily upon the responsibility of each maker for payment of such loans or extensions of credit and not upon any full or partial recourse endorsement or guarantee by the transferor, the limitations of this section as to the loans or extensions of credit of each such maker shall be the sole applicable loan limitations.
 
 &emsp;(9)(A) Loans and extensions of credit secured by shipping documents or instruments transferring or securing title covering livestock or giving a lien on livestock when the market value of the livestock securing the obligation is not at any time less than 115 per centum of the face amount of the note covered, shall be subject under this section, notwithstanding the collateral requirements set forth in subsection (a)(2) of this section, to a maximum limitation equal to 25 per centum of such capital and surplus.
 
@@ -50,28 +58,6 @@ The limitations contained in subsection (a) of this section shall be subject to 
 
 (R.S. §5200; June 22, 1906, ch. 3516, 34 Stat. 451; Sept. 24, 1918, ch. 176, §6, 40 Stat. 967; Oct. 22, 1919, ch. 79, §1, 41 Stat. 296; Feb. 25, 1927, ch. 191, §10, 44 Stat. 1229; May 20, 1933, ch. 35, §1, 48 Stat. 73; June 16, 1933, ch. 89, §26(a), 48 Stat. 191; Aug. 23, 1935, ch. 614, title III, §321(b), 49 Stat. 713; June 11, 1942, ch. 404, §8, 56 Stat. 356; July 15, 1949, ch. 338, title VI, §602(b), 63 Stat. 440; July 22, 1937, ch. 517, §15(a), as added Aug. 14, 1946, ch. 964, §5, 60 Stat. 1079; amended Pub. L. 85–748, §1(c), Aug. 25, 1958, 72 Stat. 841; Pub. L. 86–251, §3, Sept. 9, 1959, 73 Stat. 488; Pub. L. 87–723, §4(c)(4), Sept. 28, 1962, 76 Stat. 672; Pub. L. 90–19, §27(b), May 25, 1967, 81 Stat. 29; Pub. L. 92–318, title I, §133(c)(2), June 23, 1972, 86 Stat. 270; Pub. L. 97–320, title IV, §401(a), Oct. 15, 1982, 96 Stat. 1508; Pub. L. 97–457, §17(a), Jan. 12, 1983, 96 Stat. 2509; Pub. L. 111–203, title VI, §610(a), July 21, 2010, 124 Stat. 1611.)
 
-#### Amendment of Subsection (b)
-
-<i>Pub. L. 111–203, title VI, §610(a), (c), July 21, 2010, 124 Stat. 1611, 1612, provided that, effective 1 year after the transfer date, subsection (b) of this section is amended:</i>
-
-<i>(1) in paragraph (1), by substituting “shall include—</i>
-
-&emsp;&emsp;<i>“(A) all direct or indirect advances of funds to a person made on the basis of any obligation of that person to repay the funds or repayable from specific property pledged by or on behalf of the person;</i>
-
-&emsp;&emsp;<i>“(B) to the extent specified by the Comptroller of the Currency, any liability of a national banking association to advance funds to or on behalf of a person pursuant to a contractual commitment; and</i>
-
-&emsp;&emsp;<i>“(C) any credit exposure to a person arising from a derivative transaction, repurchase agreement, reverse repurchase agreement, securities lending transaction, or securities borrowing transaction between the national banking association and the person;”</i>
-
-<i>for “shall include” and all that follows through the end of the paragraph;</i>
-
-<i>(2) in paragraph (2), by substituting “; and” for the period at the end; and</i>
-
-<i>(3) by adding at the end the following:</i>
-
-&emsp;<i>“(3) the term ‘derivative transaction’ includes any transaction that is a contract, agreement, swap, warrant, note, or option that is based, in whole or in part, on the value of, any interest in, or any quantitative measure or the occurrence of any event relating to, one or more commodities, securities, currencies, interest or other rates, indices, or other assets.”</i>
-
-<i>See Effective Date of 2010 Amendment note below.</i>
-
 #### References in Text
 
 Section 372 of this title, referred to in subsec. (c)(2), was in the original a reference to “section 13 of the Federal Reserve Act”. Provisions of section 13 describing bankers’ acceptances are classified to section 372 of this title. Other provisions of section 13 are classified to sections 342 to 347, 347c, 347d of this title.
@@ -82,11 +68,15 @@ R.S. §5200 derived from act June 3, 1864, ch. 106, §29, 13 Stat. 108, which wa
 
 #### Amendments
 
+<b>2010</b>—Subsec. (b)(1). Pub. L. 111–203, §610(a)(1), substituted “shall include—” for “shall include all direct or indirect advances of funds to a person made on the basis of any obligation of that person to repay the funds or repayable from specific property pledged by or on behalf of the person and, to the extent specified by the Comptroller of the Currency, such term shall also include any liability of a national banking association to advance funds to or on behalf of a person pursuant to a contractual commitment; and” and added subpars. (A) to (C).
+
+Subsec. (b)(3). Pub. L. 111–203, §610(a)(2), (3), added par. (3).
+
 <b>1983</b>—Subsec. (b)(1). Pub. L. 97–457 inserted a comma before “to the extent specified by the Comptroller of the Currency”.
 
 <b>1982</b>—Pub. L. 97–320 amended section generally. Prior to amendment, section read as follows: “The total obligations to any national banking association of any person, copartnership, association, or corporation shall at no time exceed 10 per centum of the amount of the capital stock of such association actually paid in and unimpaired and 10 per centum of its unimpaired surplus fund. The term ‘obligations’ shall mean the direct liability of the maker or acceptor of paper discounted with or sold to such association and the liability of the indorser, drawer, or guarantor who obtains a loan from or discounts paper with or sells paper under his guaranty to such association and shall include in the case of obligations of a copartnership or association the obligations of the several members thereof and shall include in the case of obligations of a corporation all obligations of all subsidiaries thereof in which such corporation owns or controls a majority interest. Such limitation of 10 per centum shall be subject to the following exceptions:
 
-&emsp;“(1) Obligations in the form of drafts or bills of exchange drawn in good faith against actually existing values shall not be subject under this section to any limitation based upon such capital and surplus.
+&emsp;“(1) Obligations in the form of drafts or bills of exchange drawn in good faith against actually existingvalues shall not be subject under this section to any limitation based upon such capital and surplus.
 
 &emsp;“(2) Obligations arising out of the discount of commercial or business paper actually owned by the person, copartnership, association, or corporation negotiating the same shall not be subject under this section to any limitation based upon such capital and surplus.
 
@@ -106,7 +96,7 @@ R.S. §5200 derived from act June 3, 1864, ch. 106, §29, 13 Stat. 108, which wa
 
 &emsp;“(10) Obligations shall not be subject under this section to any limitation based upon such capital and surplus to the extent that such obligations are secured or covered by guaranties, or by commitments or agreements to take over or to purchase, made by any Federal Reserve bank or by the United States or any department, bureau, board, commission, or establishment of the United States, including any corporation wholly owned directly or indirectly by the United States: <i>Provided</i>, That such guaranties, agreements, or commitments are unconditional and must be performed by payment of cash or its equivalent within sixty days after demand. The Comptroller of the Currency is authorized to define the terms herein used if and when he may deem it necessary.
 
-&emsp;“(11) Obligations of a local public agency (as defined in section 110(h) of the Housing Act of 1949 \[42 U.S.C. 1460(h)\]) or of a public housing agency (as defined in the United States Housing Act of 1937, as amended \[42 U.S.C. 1437 et seq.\]) which have a maturity of not more than eighteen months shall not be subject under this section to any limitation, if such obligations are secured by an agreement between the obligor agency and the Secretary of Housing and Urban Development in which the agency agrees to borrow from the Secretary, and the Secretary agrees to lend to the agency, prior to the maturity of such obligations, monies in an amount which (together with any other monies irrevocably committed to the payment of interest on such obligations) will suffice to pay the principal of such obligations with interestto maturity, which monies under the terms of said agreement are required to be used for that purpose.
+&emsp;“(11) Obligations of a local public agency (as defined in section 110(h) of the Housing Act of 1949 \[42 U.S.C. 1460(h)\]) or of a public housing agency (as defined in the United States Housing Act of 1937, as amended \[42 U.S.C. 1437 et seq.\]) which have a maturity of not more than eighteen months shall not be subject under this section to any limitation, if such obligations are secured by an agreement between the obligor agency and the Secretary of Housing and Urban Development in which the agency agrees to borrow from the Secretary, and the Secretary agrees to lend to the agency, prior to the maturity of such obligations, monies in an amount which (together with any other monies irrevocably committed to thepayment of interest on such obligations) will suffice to pay the principal of such obligations with interest to maturity, which monies under the terms of said agreement are required to be used for that purpose.
 
 &emsp;“(12) Obligations insured by the Secretary of Agriculture pursuant to the Bankhead-Jones Farm Tenant Act, as amended \[7 U.S.C. 1000 et seq.\], or the Act of August 28, 1937, as amended (relating to the conservation of water resources), or title V of the Housing Act of 1949 \[42 U.S.C. 1471 et seq.\], shall be subject under this section to a limitation of 15 per centum of such capital and surplus in addition to such 10 per centum of such capital and surplus.
 
@@ -150,7 +140,7 @@ Pub. L. 111–203, title VI, §610(c), July 21, 2010, 124 Stat. 1612, provided t
 
 #### Effective Date of 1982 Amendment
 
-Section 401(b) of Pub. L. 97–320 provided that: “This section \[amending this section\] shall take effect upon the expiration of one hundred and eighty days after the date of its enactment \[Oct. 15, 1982\].”
+Pub. L. 97–320, title IV, §401(b), Oct. 15, 1982, 96 Stat. 1510, provided that: “This section \[amending this section\] shall take effect upon the expiration of one hundred and eighty days after the date of its enactment \[Oct. 15, 1982\].”
 
 #### Repeals
 
@@ -158,7 +148,7 @@ Repealing provisions of Consolidated Farmers Home Administration Act of 1961 as 
 
 #### Savings Provision
 
-Section 26(b) of act June 16, 1933, provided: “The amendment made by this section \[amending this section\] shall not apply to such obligations of subsidiaries held by such association on the date this section takes effect.”
+Act June 16, 1933, ch. 89, §26(b), 48 Stat. 191, provided: “The amendment made by this section \[amending this section\] shall not apply to such obligations of subsidiaries held by such association on the date this section takes effect.”
 
 #### Exception as to Transfer of Functions
 

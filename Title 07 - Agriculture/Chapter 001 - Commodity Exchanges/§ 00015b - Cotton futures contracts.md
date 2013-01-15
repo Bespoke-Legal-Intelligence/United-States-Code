@@ -154,9 +154,9 @@ The Secretary is authorized to make such regulations with the force and effect o
 
 #### (k) Violations
 
-Any person who knowingly violates any regulation made in pursuance of this section, shall, upon conviction thereof, be fined not less than $100 nor more than $500, for each violation thereof, in the discretion of the court, and, in case of natural persons, may, in addition be punished by imprisonment for not less than 30 days nor more than 90 days, for each violation, in the discretion of the court except that this subsection shall not apply to violations subject to subsection (d)(3) of this section.
+Any person who knowingly violates any regulation made in pursuance of this section, shall, upon conviction thereof, be fined not less than $100 nor more than $500, for each violation thereof, in the discretion of the court, and, in case of natural persons, may, in addition be punished by imprisonment for not less than 30 days nor morethan 90 days, for each violation, in the discretion of the court except that this subsection shall not apply to violations subject to subsection (d)(3) of this section.
 
-#### (<i>l</i>) Applicability to contracts prior to effective date
+#### (l) Applicability to contracts prior to effective date
 
 The provisions of this section shall not apply to any cotton futures contract entered into prior to the effective date of this section or to any act or failure to act by any person prior to such effective date and all such prior contracts, acts or failure to act shall continue to be governed by the applicable provisions of the Internal Revenue Code of 1954 <sup>2</sup> as in effect prior to the enactment of this section. All designations of bona fide spot markets and all rules and regulations issued by the Secretary pursuant to the applicable provisions of the Internal Revenue Code of 1954 <sup>2</sup> which were in effect on the effective date of this section, shall remain fully effective as designations and regulations under this section until superseded, amended, or terminated by the Secretary.
 
@@ -172,7 +172,7 @@ The Commodity Exchange Act, referred to in subsec. (c)(1), is act Sept. 21, 1922
 
 The United States Cotton Standards Act, referred to in subsec. (c)(5), is act Mar. 4, 1923, ch. 288, 42 Stat. 1517, which is classified generally to chapter 2 (§51 et seq.) of this title. For complete classification of this Act to the Code, see section 51 of this title and Tables.
 
-The Internal Revenue Code of 1954, referred to in subsec. (<i>l</i>), was redesignated the Internal Revenue Code of 1986 by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, and is classified to Title 26, Internal Revenue Code.
+The Internal Revenue Code of 1954, referred to in subsec. (l), was redesignated the Internal Revenue Code of 1986 by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, and is classified to Title 26, Internal Revenue Code.
 
 #### Codification
 
@@ -196,7 +196,7 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 156(e) of Pub. 
 
 #### Effective Date
 
-Section 1952(<i>o</i>) of Pub. L. 94–455 provided that: “The provisions of this section \[enacting this section,amending section 6808 of Title 26, Internal Revenue Code, and repealing sections 7233 and 7263, subchapter D of chapter 39, and subchapter E of chapter 76 of Title 26\] shall take effect on the 90th day after the date of enactment of this Act \[Oct. 4, 1976\].”
+Pub. L. 94–455, title XIX, §1952(o), Oct. 4, 1976, 90 Stat. 1846, provided that: “The provisions of this section \[enacting this section, amending section 6808 of Title 26, Internal Revenue Code, and repealing sections 7233 and 7263, subchapter D of chapter 39, and subchapter E of chapter 76 of Title 26\] shall take effect on the 90th day after the date of the enactment of this Act \[Oct. 4, 1976\].”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “basis”.</i>
 

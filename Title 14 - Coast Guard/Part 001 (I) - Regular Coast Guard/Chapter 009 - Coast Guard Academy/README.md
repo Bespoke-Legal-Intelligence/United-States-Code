@@ -15,17 +15,25 @@
 | [190\.](%C2%A7%2000190%20-%20Retirement%20of%20permanent%20commissioned%20teaching%20staff.md) | Retirement of permanent commissioned teaching staff. |
 | [191\.](%C2%A7%2000191%20-%20Credit%20for%20service%20as%20member%20of%20civilian%20teaching%20staff.md) | Credit for service as member of civilian teaching staff. |
 | [192\.](%C2%A7%2000192%20-%20Assignment%20of%20personnel%20as%20instructors.md) | Assignment of personnel as instructors. |
-| [193\.](%C2%A7%2000193%20-%20Advisory%20Committee.md) | Advisory Committee. |
+| \[193. | Repealed.\] |
 | [194\.](%C2%A7%2000194%20-%20Annual%20Board%20of%20Visitors.md) | Annual Board of Visitors. |
 | [195\.](%C2%A7%2000195%20-%20Admission%20of%20foreign%20nationals%20for%20instruction%3B%20restrictions%3B%20conditions.md) | Admission of foreign nationals for instruction; restrictions; conditions. |
 | [196\.](%C2%A7%2000196%20-%20Participation%20in%20Federal%2C%20State%2C%20or%20other%20educational%20research%20grants.md) | Participation in Federal, State, or other educational research grants. |
 | [197\.](%C2%A7%2000197%20-%20Cadets%20charges%20and%20fees%20for%20attendance%3B%20limitation.md) | Cadets: charges and fees for attendance; limitation. |
-| [198\.](%C2%A7%2000198%20-%20Coast%20Guard%20history%20fellowships.md) | Coast Guard history fellowships. |
+| \[198. | Repealed.\] |
 | [199\.](%C2%A7%2000199%20-%20Marine%20safety%20curriculum.md) | Marine Safety curriculum.<sup>1</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+|  |  |
+| :--- | ---: |
+| [200\.](%C2%A7%2000200%20-%20Policy%20on%20sexual%20harassment%20and%20sexual%20violence.md) | Policy on sexual harassment and sexual violence. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Amendments
+
+<b>2012</b>—Pub. L. 112–213, title II, §§205(b), 216(e), (f), Dec. 20, 2012, 126 Stat. 1545, 1555, struck out items 193 “Advisory Committee” and 198 “Coast Guard history fellowships” and added item 200.
 
 <b>2010</b>—Pub. L. 111–281, title IX, §903(b)(3), Oct. 15, 2010, 124 Stat. 3011, inserted period at end of item 198.
 
@@ -67,10 +75,11 @@ Pub. L. 97–295, §2(7)(B), Oct. 12, 1982, 96 Stat. 1301, substituted “foreig
 - [&sect; 00190 - Retirement of permanent commissioned teaching staff](%C2%A7%2000190%20-%20Retirement%20of%20permanent%20commissioned%20teaching%20staff.md)
 - [&sect; 00191 - Credit for service as member of civilian teaching staff](%C2%A7%2000191%20-%20Credit%20for%20service%20as%20member%20of%20civilian%20teaching%20staff.md)
 - [&sect; 00192 - Assignment of personnel as instructors](%C2%A7%2000192%20-%20Assignment%20of%20personnel%20as%20instructors.md)
-- [&sect; 00193 - Advisory Committee](%C2%A7%2000193%20-%20Advisory%20Committee.md)
+- [&sect; 00193 - Repealed. Pub. L. 112&#8211;213, title II, &sect;216(e), Dec. 20, 2012, 126 Stat. 1555](%C2%A7%2000193%20-%20Repealed.%20Pub.%20L.%20112%E2%80%93213%2C%20title%20II%2C%20%C2%A7216%28e%29%2C%20Dec.%2020%2C%202012%2C%20126%20Stat.%201555.md)
 - [&sect; 00194 - Annual Board of Visitors](%C2%A7%2000194%20-%20Annual%20Board%20of%20Visitors.md)
 - [&sect; 00195 - Admission of foreign nationals for instruction; restrictions; conditions](%C2%A7%2000195%20-%20Admission%20of%20foreign%20nationals%20for%20instruction%3B%20restrictions%3B%20conditions.md)
 - [&sect; 00196 - Participation in Federal, State, or other educational research grants](%C2%A7%2000196%20-%20Participation%20in%20Federal%2C%20State%2C%20or%20other%20educational%20research%20grants.md)
 - [&sect; 00197 - Cadets charges and fees for attendance; limitation](%C2%A7%2000197%20-%20Cadets%20charges%20and%20fees%20for%20attendance%3B%20limitation.md)
-- [&sect; 00198 - Coast Guard history fellowships](%C2%A7%2000198%20-%20Coast%20Guard%20history%20fellowships.md)
+- [&sect; 00198 - Repealed. Pub. L. 112&#8211;213, title II, &sect;216(f), Dec. 20, 2012, 126 Stat. 1555](%C2%A7%2000198%20-%20Repealed.%20Pub.%20L.%20112%E2%80%93213%2C%20title%20II%2C%20%C2%A7216%28f%29%2C%20Dec.%2020%2C%202012%2C%20126%20Stat.%201555.md)
 - [&sect; 00199 - Marine safety curriculum](%C2%A7%2000199%20-%20Marine%20safety%20curriculum.md)
+- [&sect; 00200 - Policy on sexual harassment and sexual violence](%C2%A7%2000200%20-%20Policy%20on%20sexual%20harassment%20and%20sexual%20violence.md)

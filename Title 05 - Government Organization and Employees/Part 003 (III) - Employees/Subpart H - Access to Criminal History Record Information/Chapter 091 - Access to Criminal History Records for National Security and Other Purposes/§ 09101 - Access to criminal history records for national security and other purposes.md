@@ -88,19 +88,19 @@ Subsec. (e). Pub. L. 101–246, §114(2), added subsec. (e).
 
 #### Effective Date of 1986 Amendment
 
-Section 402(c) of Pub. L. 99–569 provided that: “The amendments made by this section \[amending this section and provisions set out as a note under this section\] shall become effective with respect to any inquiry which begins after the date of enactment of this Act \[Oct. 27, 1986\] conducted by the Federal Bureau of Investigation for purposes specified in paragraph (b)(1) of section 9101 of title 5, United States Code.”
+Pub. L. 99–569, title IV, §402(c), Oct. 27, 1986, 100 Stat. 3196, provided that: “The amendments made by this section \[amending this section and provisions set out as a note under this section\] shall become effective with respect to any inquiry which begins after the date of enactment of this Act \[Oct. 27, 1986\] conducted by the Federal Bureau of Investigation for purposes specified in paragraph (b)(1) of section 9101 of title 5, United States Code.”
 
 #### Effective Date
 
-Section 802 of Pub. L. 99–169 provided that: “The amendments made by section 801(a) of this Act \[enacting this section\] shall become effective with respect to any inquiry which begins after the date of enactment of this Act \[Dec. 4, 1985\] conducted by the Department of Defense, the Office of Personnel Management, or the Central Intelligence Agency, for the purposes specified in paragraph (b)(1) of section 9101 of title 5, United States Code, as added by this Act.”
+Pub. L. 99–169, title VIII, §802, Dec. 4, 1985, 99 Stat. 1010, provided that: “The amendments made by section 801(a) of this Act \[enacting this section\] shall become effective with respect to any inquiry which begins after the date of enactment of this Act \[Dec. 4, 1985\] conducted by the Department of Defense, the Office of Personnel Management, or the Central Intelligence Agency, for the purposes specified in paragraph (b)(1) of section 9101 of title 5, United States Code, as added by this Act.”
 
 #### Termination Date of Subsection (b)(3) of This Section
 
 Pub. L. 100–453, title I, §101(d), Sept. 29, 1988, 102 Stat. 1904, extended the expiration date provided in section 803(b) of Pub. L. 99–169, formerly set out below, until Dec. 31, 1989.
 
-Section 803(b) of Pub. L. 99–169 provided that subsec. (b)(3) of this section expired three years after Dec. 4, 1985.
+Pub. L. 99–169, title VIII, §803(b), Dec. 4, 1985, 99 Stat. 1011, provided that subsec. (b)(3) of this section expired three years after Dec. 4, 1985.
 
 #### Report to Congressional Committees on Effect of Provisions for Indemnification Agreements
 
-Section 803(a) of Pub. L. 99–169, as amended by Pub. L. 99–569, title IV, §402(b), Oct. 27, 1986, 100 Stat. 3196, directed Department of Justice, within two years after Dec. 4, 1985, and after consultation with Department of Defense, Office of Personnel Management, Central Intelligence Agency, and Federal Bureau of Investigation, to report to appropriate committees of Congress concerning the effect of 5 U.S.C. 9101(b)(3), as added by this Act, including the effect of the absence of indemnification agreements upon States and localities not eligible under 5 U.S.C. 9101(b)(3) for such agreements.
+Pub. L. 99–169, title VIII, §803(a), Dec. 4, 1985, 99 Stat. 1010, as amended by Pub. L. 99–569, title IV, §402(b), Oct. 27, 1986, 100 Stat. 3196, directed Department of Justice, within two years after Dec. 4, 1985, and after consultation with Department of Defense, Office of Personnel Management, Central Intelligence Agency, and Federal Bureau of Investigation, to report to appropriate committees of Congress concerning the effect of 5 U.S.C. 9101(b)(3), as added by this Act, including the effect of the absence of indemnification agreements upon States and localities not eligible under 5 U.S.C. 9101(b)(3) for such agreements.
 

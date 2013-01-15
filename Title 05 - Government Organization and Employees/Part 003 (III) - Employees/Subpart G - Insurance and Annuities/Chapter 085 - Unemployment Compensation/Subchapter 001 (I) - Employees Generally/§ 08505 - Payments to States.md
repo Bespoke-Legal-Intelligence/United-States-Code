@@ -16,7 +16,7 @@
 
 (f) In the absence of gross negligence or intent to defraud the United States, an individual designated by the Secretary, or designated under an agreement, as a certifying official is not liable for the payment of compensation certified by him under this subchapter.
 
-(g) In the absence of gross negligence or intent to defraud the United States, a disbursing official is not liable for a payment by him underthis subchapter if it was based on a voucher signed by a certifying official designated as provided by subsection (f) of this section.
+(g) In the absence of gross negligence or intent to defraud the United States, a disbursing official is not liable for a payment by him under this subchapter if it was based on a voucher signed by a certifying official designated as provided by subsection (f) of this section.
 
 (h) For the purpose of payments made to a State under subchapter III of chapter 7 of title 42, administration by a State agency under an agreement is deemed a part of the administration of the State unemployment compensation law.
 
@@ -46,7 +46,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 <b>2004</b>—Subsec. (c). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–566 substituted provisions that each State is entitled to be paid by the United States with respect to each individual whose base period wages included Federal wages an amount which shall bear the same ratio to the total amount of compensation paid to such individual as the amount of his Federal wages in his base period bears to the total amount of his base period wages for provisions that each State is entitled to be paid by the United States an amount equal to the additional cost to the State of payments of compensation in accordance with an agreement under this subchapter which would not have been made by the State but for the agreement.
+<b>1976</b>—Subsec. (a). Pub. L. 94–566 substituted provisions that each State is entitled to be paid by the United States with respect to each individual whose base period wages included Federal wages an amount which shall bear the same ratio to the total amount of compensation paid to such individual as the amount of his Federal wages in his base period bears to the total amount of his base period wages for provisions thateach State is entitled to be paid by the United States an amount equal to the additional cost to the State of payments of compensation in accordance with an agreement under this subchapter which would not have been made by the State but for the agreement.
 
 #### Effective Date of 1976 Amendment
 

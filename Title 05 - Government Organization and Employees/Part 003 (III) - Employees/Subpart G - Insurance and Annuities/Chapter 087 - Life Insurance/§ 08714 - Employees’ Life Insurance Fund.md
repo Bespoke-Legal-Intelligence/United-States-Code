@@ -34,7 +34,7 @@ Aug. 11, 1955, ch. 794, §1(a) “(c) (less applicability to §10)”, (b), 69 S
 
 Apr. 11, 1958, Pub. L. 85–377, §1 (less applicability to §10), 72 Stat. 87.
 
-In subsection (a), the words “of the Employees’ Life Insurance Fund” are substituted for “of a fund which is hereby created”. The proviso which made appropriations available to the Commission for salaries and expenses for the fiscal year 1955 available on a reimbursable basis for necessary administrative expenses for carrying out the purposes of this chapter is omitted as executed.
+In subsection (a), the words “of the Employees’ Life Insurance Fund” are substituted for “of a fund which is hereby created”. The proviso which made appropriations available to the Commission for salaries and expenses for the fiscal year 1955 available on a reimbursable basis for necessary administrative expenses forcarrying out the purposes of this chapter is omitted as executed.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -46,7 +46,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Effective Date of 1980 Amendment
 
-Section 405(b) of Pub. L. 96–499 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 5, 1980\], and shall apply with respect to premiums paid on or after such date.”
+Pub. L. 96–499, title IV, §405(b), Dec. 5, 1980, 94 Stat. 2607, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 5, 1980\], and shall apply with respect to premiums paid on or after such date.”
 
 #### Effective Date of 1978 Amendment
 

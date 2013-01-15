@@ -20,7 +20,13 @@
 
 &emsp;&emsp;(B) by the spouse of a living veteran or the surviving spouse of a deceased veteran for the last illness and burial of a child of such veteran;
 
-&emsp;(5) reimbursements of any kind for any casualty loss (as defined in regulations which the Secretary shall prescribe), but the amount excluded under this clause may not exceed the greater of the fair market value or reasonable replacement value of the property involved at the time immediately preceding the loss;
+&emsp;(5) payments regarding reimbursements of any kind (including insurance settlement payments) for expenses related to the repayment, replacement, or repair of equipment, vehicles, items, money, or property resulting from—
+
+&emsp;&emsp;(A) any accident (as defined by the Secretary), but the amount excluded under this subclause shall not exceed the greater of the fair market value or reasonable replacement value of the equipment or vehicle involved at the time immediately preceding the accident;
+
+&emsp;&emsp;(B) any theft or loss (as defined by the Secretary), but the amount excluded under this subclause shall not exceed the greater of the fair market value or reasonable replacement value of the item or the amount of the money (including legal tender of the United States or of a foreign country) involved at the time immediately preceding the theft or loss; or
+
+&emsp;&emsp;(C) any casualty loss (as defined by the Secretary), but the amount excluded under this subclause shall not exceed the greater of the fair market value or reasonable replacement value of the property involved at the time immediately preceding the casualty loss;
 
 &emsp;(6) profit realized from the disposition of real or personal property other than in the course of a business;
 
@@ -42,7 +48,7 @@
 
 (b) Where a fraction of a dollar is involved, annual income shall be fixed at the next lower dollar.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1134, §503; Pub. L. 86–211, §2(a), Aug. 29, 1959, 73 Stat. 432; Pub. L. 87–268, §1(b), Sept. 21, 1961, 75 Stat. 566; Pub. L. 88–664, §1, Oct. 13, 1964, 78 Stat. 1094; Pub. L. 90–77, title I, §103, Aug. 31, 1967, 81 Stat. 178; Pub. L. 91–588, §7, Dec. 24, 1970, 84 Stat. 1584; Pub. L. 92–198, §2, Dec. 15, 1971, 85 Stat. 664; Pub. L. 92–425, §6(2), Sept. 21, 1972, 86 Stat. 713; Pub. L. 94–169, title I, §§101(2)(A), 106(3)–(8), Dec. 23, 1975, 89 Stat. 1013, 1017; Pub. L. 95–588, title I, §102, Nov. 4, 1978, 92 Stat. 2497; Pub. L. 97–295, §4(13), Oct. 12, 1982, 96 Stat. 1305; Pub. L. 100–687, div. B, title XIV, §1402(b), Nov. 18, 1988, 102 Stat. 4130; Pub. L. 102–54, §14(b)(5), June 13, 1991, 105 Stat. 283; renumbered §1503 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 108–454, title III, §303, Dec. 10, 2004, 118 Stat. 3611; Pub. L. 111–275, title VI, §604(a), Oct. 13, 2010, 124 Stat. 2885.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1134, §503; Pub. L. 86–211, §2(a), Aug. 29, 1959, 73 Stat. 432; Pub. L. 87–268, §1(b), Sept. 21, 1961, 75 Stat. 566; Pub. L. 88–664, §1, Oct. 13, 1964, 78 Stat. 1094; Pub. L. 90–77, title I, §103, Aug. 31, 1967, 81 Stat. 178; Pub. L. 91–588, §7, Dec. 24, 1970, 84 Stat. 1584; Pub. L. 92–198, §2, Dec. 15, 1971, 85 Stat. 664; Pub. L. 92–425, §6(2), Sept. 21, 1972, 86 Stat. 713; Pub. L. 94–169, title I, §§101(2)(A), 106(3)–(8), Dec. 23, 1975, 89 Stat. 1013, 1017; Pub. L. 95–588, title I, §102, Nov. 4, 1978, 92 Stat. 2497; Pub. L. 97–295, §4(13), Oct. 12, 1982, 96 Stat. 1305; Pub. L. 100–687, div. B, title XIV, §1402(b), Nov. 18, 1988, 102 Stat. 4130; Pub. L. 102–54, §14(b)(5), June 13, 1991, 105 Stat. 283; renumbered §1503 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 108–454, title III, §303, Dec. 10, 2004, 118 Stat. 3611; Pub. L. 111–275, title VI, §604(a), Oct. 13, 2010, 124 Stat. 2885; Pub. L. 112–154, title V, §509(a), Aug. 6, 2012, 126 Stat. 1195.)
 
 #### References in Text
 
@@ -57,6 +63,8 @@ Another prior section 1503, added Pub. L. 89–138, §1, Aug. 26, 1965, 79 Stat.
 Another prior section 1503, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1171, was renumbered 1511 by Pub. L. 89–138, §2(4), Aug. 26, 1965, 79 Stat. 578.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a)(5). Pub. L. 112–154 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “reimbursements of any kind for any casualty loss (as defined in regulations which the Secretary shall prescribe), but the amount excluded under this clause may not exceed the greater of the fair market value or reasonable replacement value of the property involved at the time immediately preceding the loss;”.
 
 <b>2010</b>—Subsec. (a)(11), (12). Pub. L. 111–275 added par. (11) and redesignated former par. (11) as (12).
 
@@ -132,6 +140,10 @@ Pars. (9) to (13). Pub. L. 88–664, §1(b), added pars. (9) to (13).
 
 <b>1959</b>—Pub. L. 86–211 among other changes, required the inclusion of all payments of any kind or from any source (including salary, retirement or annuity payments, or similar income, which has been waived), and permitted the exclusion of donations from public or private relief or welfare organizations, payments under policies of United States Government life insurance or National Service Life Insurance, and payments of servicemen's indemnity, lump sum death payments, payments to an individual under public or private retirement, annuity, endowment, or similar plans or programs equal to his contributions thereto, amounts equal to amounts paid by a widow or child for the veteran's just debts, expenses of his last illness, and expenses of his burial to the extent such expenses are not reimbursed under chapter 23 of this title, and proceeds of life insurance policies.
 
+#### Effective Date of 2012 Amendment
+
+Pub. L. 112–154, title V, §509(b), Aug. 6, 2012, 126 Stat. 1195, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date that is 180 days after the date of the enactment of this Act \[Aug. 6, 2012\].”
+
 #### Effective Date of 2010 Amendment
 
 Pub. L. 111–275, title VI, §604(b), Oct. 13, 2010, 124 Stat. 2885, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to determinations of income for calendar years beginning after October 1, 2011.”
@@ -142,7 +154,7 @@ Amendment by Pub. L. 95–588 effective Jan. 1, 1979, see section 401 of Pub. L.
 
 #### Effective Date of 1975 Amendment
 
-Sections 101 and 106 of Pub. L. 94–169 provided that the amendments made by those sections are effective Jan. 1, 1976.
+Pub. L. 94–169, title I, §§101, 106, Dec. 23, 1975, 89 Stat. 1013, 1017, provided that the amendments made by those sections are effective Jan. 1, 1976.
 
 #### Effective Date of 1971 Amendment
 
@@ -158,7 +170,7 @@ Amendment by Pub. L. 90–77 effective first day of first calendar month which b
 
 #### Effective Date of 1964 Amendment
 
-Section 11 of Pub. L. 88–664 provided that:
+Pub. L. 88–664, §11, Oct. 13, 1964, 78 Stat. 1096, provided that:
 
 “(a) Except as otherwise provided herein, this Act \[amending this section and sections 502, 506, 521, 541, 542, 612, and 3104 \[now 1502, 1506, 1521, 1541, 1542, 1712, and 5304\] of this title and enacting provisions set out as a note under section 1521 of this title\] shall take effect on January 1, 1965.
 

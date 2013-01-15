@@ -20,5 +20,5 @@ Subsec. (b). Act Apr. 24, 1945, authorized Secretary, subject to provisions of t
 
 #### Applicability to Other Irrigation Projects
 
-Section 3 of Pub. L. 86–308 provided that: “The provisions of section 17, subsection (b), of the Reclamation Project Act of 1939 \[subsec. (b) of this section\], as amended by section 1 of this Act, shall apply to any project within the administrative jurisdiction of the Bureau of Reclamation to which, if it had been constructed as a project under the Federal reclamation laws (Act of June 17, 1902, 32 Stat. 383) and Acts amendatory thereof or supplementary thereto \[see Short Title note set out under section 371 of this title\]), these provisions would be applicable.”
+Pub. L. 86–308, §3, Sept. 21, 1959, 73 Stat. 585, provided that: “The provisions of section 17, subsection (b), of the Reclamation Project Act of 1939 \[subsec. (b) of this section\], as amended by section 1 of this Act, shall apply to any project within the administrative jurisdiction of the Bureau of Reclamation to which, if it had been constructed as a project under the Federal reclamation laws (Act of June 17, 1902, 32 Stat. 383) and Acts amendatory thereof or supplementary thereto \[see Short Title note set out under section 371 of this title\]), these provisions would be applicable.”
 

@@ -8,13 +8,13 @@ Congress makes the following findings:
 
 &emsp;(3) Many of the states of the former Soviet Union retain the facilities, materials, and technologies capable of producing additional quantities of weapons of mass destruction.
 
-&emsp;(4) The disintegration of the former Soviet Union was accompanied by disruptions of command and control systems, deficiencies in accountability for weapons, weapons-related materials and technologies, economic hardships, and significant gaps in border control among the states of the former Soviet Union. The problems of organized crime and corruption inthe states of the former Soviet Union increase the potential for proliferation of nuclear, radiological, biological, and chemical weapons and related materials.
+&emsp;(4) The disintegration of the former Soviet Union was accompanied by disruptions of command and control systems, deficiencies in accountability for weapons, weapons-related materials and technologies, economic hardships, and significant gaps in border control among the states of the former Soviet Union. The problems of organized crime and corruption in the states of the former Soviet Union increase the potential for proliferation of nuclear, radiological, biological, and chemical weapons and related materials.
 
 &emsp;(5) The conditions described in paragraph (4) have substantially increased the ability of potentially hostile nations, terrorist groups, and individuals to acquire weapons of mass destruction and related materials and technologies from within the states of the former Soviet Union and from unemployed scientists who worked on those programs.
 
 &emsp;(6) As a result of such conditions, the capability of potentially hostile nations and terrorist groups to acquire nuclear, radiological, biological, and chemical weapons is greater than at any time in history.
 
-&emsp;(7) The President has identified North Korea, Iraq, Iran, and Libya as hostile states which already possess some weapons of mass destruction and are developing others.
+&emsp;(7) The President has identified North Korea, Iraq, Iran, and Libya as hostile states whichalready possess some weapons of mass destruction and are developing others.
 
 &emsp;(8) The acquisition or the development and use of weapons of mass destruction is well within the capability of many extremist and terrorist movements, acting independently or as proxies for foreign states.
 
@@ -62,9 +62,9 @@ Pub. L. 104–293, title VII, §701, Oct. 11, 1996, 110 Stat. 3470, provided tha
 
 #### Short Title
 
-Section 1401 of title XIV of div. A of Pub. L. 104–201 provided that: “This title \[enacting this chapter, section 382 of Title 10, Armed Forces, and sections 175a and 2332d of Title 18, Crimes and Criminal Procedure, amending section 1705 of this title, section 372 of Title 10, and provisions set out as a note under section 5955 of Title 22, Foreign Relations and Intercourse\] may be cited as the ‘Defense Against Weapons of Mass Destruction Act of 1996’.”
+Pub. L. 104–201, div. A, title XIV, §1401, Sept. 23, 1996, 110 Stat. 2715, provided that: “This title \[enacting this chapter, section 382 of Title 10, Armed Forces, and sections 175a and 2332d of Title 18, Crimes and Criminal Procedure, amending section 1705 of this title, section 372 of Title 10, and provisions set out as a note under section 5955 of Title 22, Foreign Relations and Intercourse\] may be cited as the ‘Defense Against Weapons of Mass Destruction Act of 1996’.”
 
-Pub. L. 107–228, div. B, title XIII, §1331, Sept. 30, 2002, 116 Stat. 1448, provided that: “This subtitle \[subtitle C\(§§1331–1339) of title XIII of div. B of Pub. L. 107–228, enacting subchapter IV–A of this chapter\] may be cited as the ‘Nonproliferation Assistance Coordination Act of 2002’.”
+Pub. L. 107–228, div. B, title XIII, §1331, Sept. 30, 2002, 116 Stat. 1448, provided that: “This subtitle \[subtitle C (§§1331–1339) of title XIII of div. B of Pub. L. 107–228, enacting subchapter IV–A of this chapter\] may be cited as the ‘Nonproliferation Assistance Coordination Act of 2002’.”
 
 #### Utilization of Contributions to International Nuclear Materials Protection and Cooperation Program and Russian Plutonium Disposition Program
 
@@ -136,7 +136,7 @@ Report.—Not later than January 31, 1999, the President shall submit to Congres
 
 “(a)
 
-Threat and Risk Assessments.—Assistance to Federal, State, and local agencies provided under the program under section 1402 shall include the performance of assessments of the threat and risk of terrorist employment of weapons of mass destruction against cities and other local areas. Such assessments shall be used by Federal, State, and local agencies to determinethe training and equipment requirements under this program and shall be performed as a collaborative effort with State and local agencies.
+Threat and Risk Assessments.—Assistance to Federal, State, and local agencies provided under the program under section 1402 shall include the performance of assessments of the threat and risk of terrorist employment of weapons of mass destruction against cities and other local areas. Such assessments shall be used by Federal, State, and local agencies to determine the training and equipment requirements under this program and shall be performed as a collaborative effort with State and local agencies.
 
 “(b)
 
@@ -150,7 +150,7 @@ Conduct of Assessments.—The Department of Justice, as lead Federal agency for 
 
 “(a)
 
-Requirement for Panel.—The Secretary of Defense, in consultation with the Attorney General, the Secretary of Energy, the Secretary of Health and Human Services, and the Director of the Federal Emergency Management Agency, shall enter into a contract with a federally funded research and development center to establish a panel to assess the capabilities for domestic response to terrorism involving weapons of mass destruction.
+Requirement for Panel.—The Secretary of Defense, in consultation with the Attorney General, the Secretary of Energy, the Secretary of Health and Human Services, and the Director of the Federal Emergency Management Agency, shall enter into a contractwith a federally funded research and development center to establish a panel to assess the capabilities for domestic response to terrorism involving weapons of mass destruction.
 
 “(b)
 
@@ -208,7 +208,7 @@ Funding.—The Secretary of Defense shall provide the funds necessary for the pa
 
 Compensation of Panel Members.—The provisions of paragraph (4) of section 591(c) of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1999 (as contained in section 101(d) of division A of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999 (Public Law 105–277; 112 Stat. 2681–212)), shall apply to members of the panel in the same manner as to members of the National Commission on Terrorism under that paragraph.
 
-“(<i>l</i>)
+“(l)
 
 Termination of the Panel.—The panel shall terminate five years after the date of the appointment of the member selected as chairman of the panel.
 

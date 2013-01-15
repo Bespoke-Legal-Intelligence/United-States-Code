@@ -46,7 +46,7 @@ For purposes of this subchapter, the term “lead-based paint activities” mean
 
 #### (1) Guidelines
 
-&emsp;In order to reduce the risk of exposure to lead in connection with renovation and remodeling of target housing, public buildings constructed before 1978, and commercial buildings, the Administrator shall, within 18 months after October 28, 1992, promulgate guidelines for the conduct of such renovation and remodeling activities which may create a risk of exposure to dangerous levels of lead. The Administrator shall disseminate such guidelines to persons engaged in such renovation and remodeling through hardware and paint stores, employee organizations, trade groups, State and local agencies, and through other appropriate means.
+&emsp;In order to reduce the risk of exposure to lead in connection with renovation and remodeling of target housing, public buildings constructed before 1978, and commercial buildings, the Administrator shall, within 18 months after October 28, 1992, promulgate guidelines for the conduct of such renovationand remodeling activities which may create a risk of exposure to dangerous levels of lead. The Administrator shall disseminate such guidelines to persons engaged in such renovation and remodeling through hardware and paint stores, employee organizations, trade groups, State and local agencies, and through other appropriate means.
 
 #### (2) Study of certification
 

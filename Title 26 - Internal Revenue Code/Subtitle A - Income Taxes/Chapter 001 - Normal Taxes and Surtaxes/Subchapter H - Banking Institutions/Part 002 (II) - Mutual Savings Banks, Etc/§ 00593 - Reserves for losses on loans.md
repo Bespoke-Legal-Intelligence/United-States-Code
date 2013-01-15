@@ -72,7 +72,7 @@
 
 #### (1) Establishment of reserves
 
-&emsp;Each taxpayer described in subsection (a) which uses the reserve method of accounting for bad debts shall establish and maintain a reserve for losses on qualifying real property loans, a reserve for losses on nonqualifying loans, and a supplemental reserve for losses on loans. For purposes of this title, such reserves shall be treated as reserves for bad debts, but no deduction shall be allowed for any addition to the supplemental reserve for losses on loans.
+&emsp;Each taxpayer described in subsection (a) which uses the reserve method of accounting for bad debts shall establish and maintain a reserve for losses on qualifying real property loans, a reserve for losses on nonqualifying loans, and a supplemental reserve for losses on loans. For purposes of this title, such reservesshall be treated as reserves for bad debts, but no deduction shall be allowed for any addition to the supplemental reserve for losses on loans.
 
 #### (2) Certain pre-1963 reserves
 
@@ -130,7 +130,7 @@ For purposes of this section—
 
 &emsp;&emsp;(D) then out of such other accounts as may be proper.
 
-> &emsp;This paragraph shall apply in the case of any distribution in redemption of stock or in partial or complete liquidation of a taxpayer having a balance described in subsection (g)(2)(A)(ii), except that any such distribution shall be treated as made first out of the amount referred to in subparagraph (B), second out of the amount referred to in subparagraph (C), third out of the amount referred to in subparagraph (A), and then out of such other accounts as may be proper. This paragraph shall not apply to any transaction to which section 381 applies, or to any distribution to the Federal Savings and Loan Insurance Corporation (or any successor thereof) or the Federal Deposit Insurance Corporation in redemption of an interest in a taxpayer having a balance described in subsection (g)(2)(A)(ii), if such interest was originally received by any such entity in exchange for assistance provided under a provision of law referred to in section 597(c). This paragraph shall not apply to any distribution of all of the stock of a bank (as defined in section 581) to another corporation if, immediately after the distribution, such bank and such other corporation are members of the same affiliated group (as defined in section 1504) and the provisions of section 5(e) of the Federal Deposit Insurance Act (as in effect on December 31, 1995) or similar provisions are in effect.
+> &emsp;This paragraph shall apply in the case of any distribution in redemption of stock or in partial or complete liquidation of a taxpayer having a balance described in subsection (g)(2)(A)(ii), except that any such distribution shall be treated as made first out of the amount referred to in subparagraph (B), second out of the amount referred to in subparagraph (C), third out of the amount referred to in subparagraph (A), and then out of such other accounts as may be proper. This paragraph shall not apply to any transaction to which section 381 applies, or to any distribution to the Federal Savings and Loan Insurance Corporation (or any successor thereof) or the Federal Deposit Insurance Corporation in redemption of an interest in a taxpayer havinga balance described in subsection (g)(2)(A)(ii), if such interest was originally received by any such entity in exchange for assistance provided under a provision of law referred to in section 597(c). This paragraph shall not apply to any distribution of all of the stock of a bank (as defined in section 581) to another corporation if, immediately after the distribution, such bank and such other corporation are members of the same affiliated group (as defined in section 1504) and the provisions of section 5(e) of the Federal Deposit Insurance Act (as in effect on December 31, 1995) or similar provisions are in effect.
 
 #### (2) Amounts charged to reserve accounts and included in gross income
 
@@ -270,9 +270,9 @@ Section 5(e) of the Federal Deposit Insurance Act, referred to in subsec. (e)(1)
 
 Subsec. (e)(1). Pub. L. 104–188, §1616(b)(7)(A), substituted “by a taxpayer having a balance described in subsection (g)(2)(A)(ii)” for “by a domestic building and loan association or an institution that is treated as a mutual savings bank under section 591(b)” in introductory provisions.
 
-Pub. L. 104–188, §1616(b)(7)(C)–(E), in closing provisions, substituted “a taxpayer having a balance described in subsection (g)(2)(A)(ii)” for “the association or an institution that is treated as a mutual savings bank under section 591(b)” after “complete liquidation of” and for “an association” after “an interest in” and inserted at end “This paragraph shall not apply to any distribution of all of the stock of a bank (as defined in section 581) to another corporation if, immediately after the distribution, such bank and such other corporation are members of the same affiliated group (as defined in section 1504) and the provisions of section 5(e) of the Federal Deposit Insurance Act (as in effect on December 31, 1995) or similar provisions are in effect.”
+Pub. L. 104–188, §1616(b)(7)(C)–(E), in closing provisions, substituted “a taxpayer having a balance described in subsection (g)(2)(A)(ii)” for “the association or an institution that is treated as a mutual savings bank under section 591(b)” after “complete liquidation of” and for “an association” after “an interest in” andinserted at end “This paragraph shall not apply to any distribution of all of the stock of a bank (as defined in section 581) to another corporation if, immediately after the distribution, such bank and such other corporation are members of the same affiliated group (as defined in section 1504) and the provisions of section 5(e) of the Federal Deposit Insurance Act (as in effect on December 31, 1995) or similar provisions are in effect.”
 
-Subsec. (e)(1)(B). Pub. L. 104–188, §1616(b)(7)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “then out of the reserve forlosses on qualifying real property loans, to the extent additions to such reserve exceed the additions which would have been allowed under subsection (b)(3),”.
+Subsec. (e)(1)(B). Pub. L. 104–188, §1616(b)(7)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “then out of the reserve for losses on qualifying real property loans, to the extent additions to such reserve exceed the additions which would have been allowed under subsection (b)(3),”.
 
 Subsecs. (f), (g). Pub. L. 104–188, §1616(a), added subsecs. (f) and (g).
 
@@ -364,7 +364,7 @@ Amendment by Pub. L. 105–34 effective as if included in the provisions of the 
 
 #### Effective Date of 1996 Amendment
 
-Section 1616(c) of Pub. L. 104–188 provided that:
+Pub. L. 104–188, title I, §1616(c), Aug. 20, 1996, 110 Stat. 1857, provided that:
 
 “(1)
 
@@ -388,7 +388,7 @@ Subsection (b)(10).—The amendments made by subsection (b)(10) \[amending secti
 
 #### Effective Date of 1989 Amendment
 
-Section 1401(c)(6) of Pub. L. 101–73 provided that: “The amendment made by subsection (b)(3) \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 9, 1989\].”
+Pub. L. 101–73, title XIV, §1401(c)(6), Aug. 9, 1989, 103 Stat. 550, provided that: “The amendment made by subsection (b)(3) \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 9, 1989\].”
 
 #### Effective Date of 1988 Amendment
 
@@ -404,7 +404,7 @@ Amendment by section 901(b)(1)–(3), (d)(2) of Pub. L. 99–514 applicable to t
 
 #### Effective Date of 1981 Amendment
 
-Section 246(b) of Pub. L. 97–34 provided that: “The amendment made by section 243 \[amending this section\] shall apply to any distribution made on or after January 1, 1981.”
+Pub. L. 97–34, title II, §246(b), Aug. 13, 1981, 95 Stat. 256, provided that: “The amendment made by section 243 \[amending this section\] shall apply to any distribution made on or after January 1, 1981.”
 
 Amendment by section 245(b), (c) of Pub. L. 97–34 applicable with respect to taxable years ending after Aug. 13, 1981, see section 246(d) of Pub. L. 97–34, set out as a note under section 591 of this title.
 
@@ -418,11 +418,11 @@ Amendment by Pub. L. 94–455 applicable with respect to taxable years beginning
 
 #### Effective Date of 1969 Amendment
 
-Section 432(e) of Pub. L. 91–172 provided that: “The amendments made by this section \[amending this section and section 7701 of this title\] shall be effective for taxable years beginning after July 11, 1969.”
+Pub. L. 91–172, title IV, §432(e), Dec. 30, 1969, 83 Stat. 623, provided that: “The amendments made by this section \[amending this section and section 7701 of this title\] shall be effective for taxable years beginning after July 11, 1969.”
 
 #### Effective Date of 1962 Amendment
 
-Section 6(g)(1) of Pub. L. 87–834, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years ending after December 31, 1962, except that section 593(f) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall apply to distributions after December 31, 1962, in taxable years ending after such date.”
+Pub. L. 87–834, §6(g)(1), Oct. 16, 1962, 76 Stat. 984, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years ending after December 31, 1962, except that section 593(f) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall apply to distributions after December 31, 1962, in taxable years ending after such date.”
 
 #### Savings Provision
 
@@ -430,7 +430,7 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 #### Transfer of Functions
 
-Federal Savings and Loan Insurance Corporation abolished and its functions transferred, see sections 401to 406 of Pub. L. 101–73, set out as a note under section 1437 of Title 12, Banks and Banking.
+Federal Savings and Loan Insurance Corporation abolished and its functions transferred, see sections 401 to 406 of Pub. L. 101–73, set out as a note under section 1437 of Title 12, Banks and Banking.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

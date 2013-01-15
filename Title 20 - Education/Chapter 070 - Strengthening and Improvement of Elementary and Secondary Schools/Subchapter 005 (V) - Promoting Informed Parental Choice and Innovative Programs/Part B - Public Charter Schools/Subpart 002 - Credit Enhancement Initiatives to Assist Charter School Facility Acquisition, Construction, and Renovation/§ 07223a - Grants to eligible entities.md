@@ -2,7 +2,7 @@
 
 #### (a) Grants
 
-The Secretary shall use 100 percent of the amount available to carry out this subpart toaward not less than three grants to eligible entities that have applications approved under this subpart to demonstrate innovative methods of assisting charter schools to address the cost of acquiring, constructing, and renovating facilities by enhancing the availability of loans or bond financing.
+The Secretary shall use 100 percent of the amount available to carry out this subpart to award not less than three grants to eligible entities that have applications approved under this subpart to demonstrate innovative methods of assisting charter schools to address the cost of acquiring, constructing, and renovating facilities by enhancing the availability of loans or bond financing.
 
 #### (b) Grantee selection
 

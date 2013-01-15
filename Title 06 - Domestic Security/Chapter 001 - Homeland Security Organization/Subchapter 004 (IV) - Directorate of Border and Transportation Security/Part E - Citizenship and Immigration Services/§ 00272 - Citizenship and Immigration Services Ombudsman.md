@@ -22,7 +22,7 @@ It shall be the function of the Ombudsman—
 
 &emsp;&emsp;(A) shall identify the recommendations the Office of the Ombudsman has made on improving services and responsiveness of the Bureau of Citizenship and Immigration Services;
 
-&emsp;&emsp;(B) shall contain a summary of the most pervasive and serious problems encountered by individuals and employers, including a description of the nature of such problems;
+&emsp;&emsp;(B) shall contain a summary of the most pervasive and serious problems encounteredby individuals and employers, including a description of the nature of such problems;
 
 &emsp;&emsp;(C) shall contain an inventory of the items described in subparagraphs (A) and (B) for which action has been taken and the result of such action;
 

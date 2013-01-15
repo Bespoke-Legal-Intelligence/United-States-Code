@@ -60,7 +60,7 @@ In addition to the centers and programs described in subsection (b) of this sect
 
 &emsp;“(3) a Museum of American Indian and Alaska Native Arts, which shall be under the direction of the President of the Institute.”
 
-<b>1990</b>—Subsec. (b)(2). Pub. L. 101–644, §502(1), redesignated subpars. (B) to (I) as (A) to (H), respectively, and struck out former subpar. (A) which related to a museum of Indian arts.
+<b>1990</b>—Subsec. (b)(2). Pub. L. 101–644, §502(1), redesignated subpars. (B) to (I) as (A) to (H), respectively, andstruck out former subpar. (A) which related to a museum of Indian arts.
 
 Subsec. (b)(3). Pub. L. 101–644, §502(2)–(4), added par. (3).
 

@@ -2,7 +2,7 @@
 
 #### (a) Procedures required
 
-The Administrator shall establish procedures to ensure that the planning, programming, budgeting, and financial activities of the Administration comport with sound financial and fiscal management principles. Those procedures shall, at a minimum, provide for the planning, programming, and budgeting of activities of the Administration using funds that are available for obligation for a limited number of years.
+The Administrator shall establish procedures to ensure that the planning, programming,budgeting, and financial activities of the Administration comport with sound financial and fiscal management principles. Those procedures shall, at a minimum, provide for the planning, programming, and budgeting of activities of the Administration using funds that are available for obligation for a limited number of years.
 
 #### (b) Annual plan for obligation of funds
 

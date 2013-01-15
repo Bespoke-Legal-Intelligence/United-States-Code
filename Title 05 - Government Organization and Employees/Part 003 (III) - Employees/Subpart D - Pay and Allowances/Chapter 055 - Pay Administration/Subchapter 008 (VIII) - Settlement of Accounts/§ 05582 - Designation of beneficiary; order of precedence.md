@@ -54,5 +54,5 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–316 substituted “An employee may change or revoke a designation at any time under regulations promulgated—” for “An employee may change or revoke a designation at any time under such regulations as the Comptroller General of the United States may prescribe.” in introductory provisions and added pars. (1) to (3).
+<b>1996</b>—Subsec. (a). Pub. L. 104–316 substituted “An employee may change or revoke a designation at any timeunder regulations promulgated—” for “An employee may change or revoke a designation at any time under such regulations as the Comptroller General of the United States may prescribe.” in introductory provisions and added pars. (1) to (3).
 

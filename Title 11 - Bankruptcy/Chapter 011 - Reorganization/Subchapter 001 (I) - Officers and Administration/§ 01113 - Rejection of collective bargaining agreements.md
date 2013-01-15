@@ -36,5 +36,5 @@ The Railway Labor Act, referred to in subsec. (a), is act May 20, 1926, ch. 347,
 
 #### Effective Date
 
-Section 541(c) of Pub. L. 98–353 provided that: “The amendments made by this section \[enacting this section\] shall become effective upon the date of enactment of this Act \[July 10, 1984\]; provided that this section shall not apply to cases filed under title 11 of the United States Code which were commenced prior to the date of enactment of this section.”
+Pub. L. 98–353, title III, §541(c), July 10, 1984, 98 Stat. 391, provided that: “The amendments made by this section \[enacting this section\] shall become effective upon the date of enactment of this Act \[July 10, 1984\]; provided that this section shall not apply to cases filed under title 11 of the United States Code which were commenced prior to the date of enactment of this section.”
 

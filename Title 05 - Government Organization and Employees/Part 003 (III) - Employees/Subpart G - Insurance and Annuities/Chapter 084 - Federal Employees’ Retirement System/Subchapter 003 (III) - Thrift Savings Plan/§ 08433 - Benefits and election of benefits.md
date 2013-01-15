@@ -26,7 +26,7 @@
 
 (e)(1) If an employee or Member (or former employee or Member) dies without having made an election under this section or after having elected an annuity under this section but before making an election under section 8434 of this title, an amount equal to the value of that individual's account (as of death) shall, subject to any decree, order, or agreement referred to in section 8435(c)(2) of this title be paid in a manner consistent with section 8424(d) of this title.
 
-(2) Notwithstanding section 8424(d), if an employee, Member, former employee, or formerMember dies and has designated as sole or partial beneficiary his or her spouse at the time of death, or, if an employee, Member, former employee, or former Member, dies with no designated beneficiary and is survived by a spouse, the spouse may maintain the portion of the employee's or Member's account to which the spouse is entitled in accordance with the following terms:
+(2) Notwithstanding section 8424(d), if an employee, Member, former employee, or former Member dies and has designated as sole or partial beneficiary his or her spouse at the time of death, or, if an employee, Member, former employee, or former Member, dies with no designated beneficiary and is survived by a spouse, the spouse may maintain the portion of the employee's or Member's account to which the spouse is entitled in accordance with the following terms:
 
 &emsp;(A) Subject to the limitations of subparagraph (B), the spouse shall have the same withdrawal options under subsection (b) as the employee or Member were the employee or Member living.
 
@@ -112,7 +112,7 @@ Subsec. (f)(2). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §203(
 
 Subsec. (g)(1). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §203(a)(5)(A)\]\], struck out “after December 31, 1987, and” after “At any time”, and inserted at end “Before a loan is issued, the Executive Director shall provide in writing the employee or Member with appropriate information concerning the cost of the loan relative to other sources of financing, as well as the lifetime cost of the loan, including the difference in interest rates between the funds offered by the Thrift Savings Fund, and any other effect of such loan on the employee's or Member's final account balance.”
 
-Subsec. (g)(2) to (5). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §203(a)(5)(B)\]\], redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: “An application under this subsection may be approved only for—
+Subsec. (g)(2) to (5). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §203(a)(5)(B)\]\], redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2)which read as follows: “An application under this subsection may be approved only for—
 
 &emsp;“(A) the purchase of a primary residence;
 
@@ -144,7 +144,7 @@ Subsec. (e). Pub. L. 103–226, §9(b)(2), (i)(6), redesignated subsec. (g) as (
 
 Subsec. (f). Pub. L. 103–226, §9(b)(2), redesignated subsec. (h) as (f). Former subsec. (f) redesignated (d).
 
-Subsec. (f)(1). Pub. L. 103–226, §9(b)(5)(A), (B), redesignated par. (2) as (1), substituted “Notwithstanding subsection (b), if an employee or Member separates from Government employment, and such employee's or Member's” for “Notwithstanding subsections (b) and (c), if an employee or Member separates from Government employment under circumstances making such employee or Member eligible to make an election under either of those subsections, and such employee's or Member's”, struck out “or (c), as applicable” before period at end, and struck out former par. (1) which read as follows: “Notwithstanding subsection (d), if an employee or Member separates from Government employment before becoming entitled to a deferred annuity under subchapter II, and such employee's or Member'snonforfeitable account balance is $3,500 or less, the Executive Director shall pay the nonforfeitable account balance to the participant in a single payment unless the employee or Member elects, at such time and otherwise in such manner as the Executive Director prescribes, to have the nonforfeitable account balance transferred to an eligible retirement plan as provided in subsection (e), or unless an election under section 8432b(h)(2) is made to treat such separation for purposes of this paragraph as if it had never occurred.”
+Subsec. (f)(1). Pub. L. 103–226, §9(b)(5)(A), (B), redesignated par. (2) as (1), substituted “Notwithstanding subsection (b), if an employee or Member separates from Government employment, and such employee's or Member's” for “Notwithstanding subsections (b) and (c), if an employee or Member separates from Government employment under circumstances making such employee or Member eligible to make an election under either of those subsections, and such employee's or Member's”, struck out “or (c), as applicable” before period at end, and struck out former par. (1) which read as follows: “Notwithstanding subsection (d), if an employee or Member separates from Government employment before becoming entitled to a deferred annuity under subchapter II, and such employee's or Member's nonforfeitable account balance is $3,500 or less, the Executive Director shall pay the nonforfeitable account balance to the participant in a single payment unless the employee or Member elects, at such time and otherwise in such manner as the Executive Director prescribes, to have the nonforfeitable account balance transferred to an eligible retirement plan as provided in subsection (e), or unless an election under section 8432b(h)(2) is made to treat such separation for purposes of this paragraph as if it had never occurred.”
 
 Subsec. (f)(2). Pub. L. 103–226, §9(b)(5)(A), (C), redesignated par. (3) as (2) and substituted “paragraph (1)” for “paragraphs (1) and (2)” before “, benefits under this chapter”. Former par. (2) redesignated (1).
 
@@ -184,7 +184,7 @@ Amendment by Pub. L. 106–65 effective 180 days after Oct. 30, 2000, unless pos
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–208 effective Sept. 30, 1996, and withdrawals and elections as provided under such amendment to be made at earliest practicable date as determined by Executive Director in regulations, see section 101(f) \[title VI, §659 \[title II, §207\]\] of Pub. L. 104–208, set out as a note under section 5545a of this title.
+Amendment by Pub. L. 104–208 effective Sept. 30, 1996, and withdrawals and elections as provided under suchamendment to be made at earliest practicable date as determined by Executive Director in regulations, see section 101(f) \[title VI, §659 \[title II, §207\]\] of Pub. L. 104–208, set out as a note under section 5545a of this title.
 
 #### Effective Date of 1994 Amendments
 
@@ -200,15 +200,15 @@ Amendment by Pub. L. 102–484 applicable with respect to separations occurring 
 
 #### Effective Date of 1990 Amendment
 
-Section 5(d) of Pub. L. 101–335 provided that: “The amendments made by this section \[amending this section and sections 8434, and 8435 of this title\] shall be effective as of April 1, 1987.”
+Pub. L. 101–335, §5(d), July 17, 1990, 104 Stat. 322, provided that: “The amendments made by this section \[amending this section and sections 8434, and 8435 of this title\] shall be effective as of April 1, 1987.”
 
 Amendment by section 6(a)(2) of Pub. L. 101–335 effective as of second election period described in section 8432(b) of this title beginning after July 17, 1990, or such earlier date as Executive Director may by regulation prescribe, and applicable with respect to separations occurring before, on, or after that effective date, see section 6(c) of Pub. L. 101–335, set out as a note under section 8351 of this title.
 
 #### Regulations
 
-Section 6(b)(4) of Pub. L. 101–335 provided that: “The Executive Director (as appointed under section 8474(a) of title 5, United States Code) shall prescribe regulations under which the purposes of the amendments made by this section \[amending this section and sections 8351, 8401, 8435, 8440a, and 8440b of this title\] shall be carried out with respect to any individuals participating in the Thrift Savings Plan who would not otherwise be affected by this section.”
+Pub. L. 101–335, §6(b)(4), July 17, 1990, 104 Stat. 324, provided that: “The Executive Director (as appointed under section 8474(a) of title 5, United States Code) shall prescribe regulations under which the purposes of the amendments made by this section \[amending this section and sections 8351, 8401, 8435, 8440a, and 8440b of this title\] shall be carried out with respect to any individuals participating in the Thrift Savings Plan who would not otherwise be affected by this section.”
 
 #### Invalidity of Certain Prior Elections
 
-Section 101(f) \[title VI, §659 \[title II, §203(b)\]\] of Pub. L. 104–208 provided that: “Any election made under section 8433(b)(2) of title 5, United States Code (as in effect before the effective date of this title \[Sept. 30, 1996\]), with respect to an annuity which has not commenced before the implementation date of this title as provided by regulation by the Executive Director in accordance with section 207 of this title \[5 U.S.C. 5545a note\], shall be invalid.”
+Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §203(b)\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–376, provided that: “Any election made under section 8433(b)(2) of title 5, United States Code (as in effect before the effective date of this title \[Sept. 30, 1996\]), with respect to an annuity which has not commenced before the implementation date of this title as provided by regulation by the Executive Director in accordance with section 207 of this title \[5 U.S.C. 5545a note\], shall be invalid.”
 

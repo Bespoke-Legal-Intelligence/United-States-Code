@@ -2,7 +2,7 @@
 
 #### (a) Assistance of Secretary of the Interior
 
-The Secretary of the Interior shall encourage and assist the States to consider, in formulating and carrying out their comprehensive statewide outdoor recreation plans and proposals for financing assistance for State and local projects submitted pursuant to the Land and Water Conservation Fund Act of 1965 (78 Stat. 897) \[16U.S.C. 460<i>l</i>–4 et seq.\], needs and opportunities for establishing State and local wild, scenic and recreational river areas.
+The Secretary of the Interior shall encourage and assist the States to consider, in formulating and carrying out their comprehensive statewide outdoor recreation plans and proposals for financing assistance for State and local projects submitted pursuant to the Land and Water Conservation Fund Act of 1965 (78 Stat. 897) \[16 U.S.C. 460l–4 et seq.\], needs and opportunities for establishing State and local wild, scenic and recreational river areas.
 
 #### (b) Assistance of Secretaries of the Interior, Agriculture, or other Federal agency heads; use of Federal facilities, equipment, etc.; conditions on permits or other authorizations
 
@@ -12,7 +12,7 @@ The Secretary of the Interior shall encourage and assist the States to consider,
 
 &emsp;(A) For activities on federally owned land, the Volunteers in the Parks Act of 1969 \[16 U.S.C. 18g et seq.\] and the Volunteers in the Forest Act of 1972 (16 U.S.C. 558a–558d).
 
-&emsp;(B) For activities on all other lands, section 6 of the Land and Water Conservation Fund Act of 1965 \[16 U.S.C. 460<i>l</i>–8\] (relating to the development of statewide comprehensive outdoor recreation plans).
+&emsp;(B) For activities on all other lands, section 6 of the Land and Water Conservation Fund Act of 1965 \[16 U.S.C. 460l–8\] (relating to the development of statewide comprehensive outdoor recreation plans).
 
 (3) For purposes of this subsection, the appropriate Secretary or the head of any Federal agency may utilize and make available Federal facilities, equipment, tools and technical assistance to volunteers and volunteer organizations, subject to such limitations and restrictions as the appropriate Secretary or the head of any Federal agency deems necessary or desirable.
 
@@ -22,7 +22,7 @@ The Secretary of the Interior shall encourage and assist the States to consider,
 
 #### References in Text
 
-The Land and Water Conservation Fund Act of 1965, referred to in subsec. (a), is Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, which is classified generally to part B (§460<i>l</i>–4 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460<i>l</i>–4 of this title and Tables.
+The Land and Water Conservation Fund Act of 1965, referred to in subsec. (a), is Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, which is classified generally to part B (§460l–4 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460l–4 of this title and Tables.
 
 The Volunteers in the Parks Act of 1969, referred to in subsec. (b)(2)(A), is Pub. L. 91–357, July 29, 1970, 84 Stat. 472, which is classified generally to subchapter II (§18g et seq.) of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 18g of this title and Tables.
 

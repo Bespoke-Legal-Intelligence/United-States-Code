@@ -32,11 +32,11 @@ Information technology.—The term “information technology”—
 
 &emsp;&emsp;&emsp;(ii) of that equipment to a significant extent in the performance of a service or the furnishing of a product;
 
-&emsp;&emsp;(B) includes computers, ancillary equipment (including imaging peripherals, input, output, and storage devices necessary for security and surveillance), peripheral equipment designed to be controlled by the central processing unit of a computer, software, firmware and similar procedures, services\(including support services), and related resources; but
+&emsp;&emsp;(B) includes computers, ancillary equipment (including imaging peripherals, input, output, and storage devices necessary for security and surveillance), peripheral equipment designed to be controlled by the central processing unit of a computer, software, firmware and similar procedures, services (including support services), and related resources; but
 
 &emsp;&emsp;(C) does not include any equipment acquired by a federal contractor incidental to a federal contract.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1235; Pub. L. 108–199, div. F, title V, §535(b), Jan. 23, 2004, 118 Stat. 345; Pub. L. 111–350, §5(<i>l</i>)(24), Jan. 4, 2011, 124 Stat. 3852.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1235; Pub. L. 108–199, div. F, title V, §535(b), Jan. 23, 2004, 118 Stat. 345; Pub. L. 111–350, §5(l)(24), Jan. 4, 2011, 124 Stat. 3852.)
 
 Historical and Revision Notes
 
@@ -58,9 +58,9 @@ The text of 40:1401(1) is omitted as unnecessary because the complete name of th
 
 #### Amendments
 
-<b>2011</b>—Par. (1). Pub. L. 111–350, §5(<i>l</i>)(24)(A), substituted “section 103 of title 41” for “section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403)”.
+<b>2011</b>—Par. (1). Pub. L. 111–350, §5(l)(24)(A), substituted “section 103 of title 41” for “section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403)”.
 
-Par. (2). Pub. L. 111–350, §5(<i>l</i>)(24)(B), substituted “section 133 of title 41” for “section 4 of the Act (41 U.S.C. 403)”.
+Par. (2). Pub. L. 111–350, §5(l)(24)(B), substituted “section 133 of title 41” for “section 4 of the Act (41 U.S.C. 403)”.
 
 <b>2004</b>—Par. (6)(A). Pub. L. 108–199, §535(b)(1), inserted “analysis, evaluation,” after “storage,”.
 

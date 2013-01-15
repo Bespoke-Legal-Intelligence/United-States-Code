@@ -38,7 +38,7 @@ The purpose of this section is to provide homeownership and rental housing oppor
 
 #### (ii) Realizable disposition value
 
-&emsp;&emsp;&emsp;The term “realizable disposition value” means the estimated sale price that the Corporation reasonably would be able to obtain upon the sale of a property by the Corporation under the provisions of this chapter, not including this section, and any other applicable laws. Not later than the expiration of the 120-day period beginning upon the commencement of the first fiscal year for which amounts are provided pursuant to paragraph (2)(A), the Corporation shall establish, and publish in the Federal Register, procedures for determining the realizable disposition value of a property transferred under this section, which shall take into consideration such factors as the Corporation considers appropriate, including the actual sale prices of properties disposed of by the Resolution Trust Corporation under section 1441a(c) <sup>1</sup> of this title, the prices of other properties sold under similar programs, and the appraised value of the property transferred under this section. Until such procedures are established, the Corporation may consider the realizable disposition value of any eligible residential or condominium property to be equal to the appraised value of the property.
+&emsp;&emsp;&emsp;The term “realizable disposition value” means the estimated sale price that theCorporation reasonably would be able to obtain upon the sale of a property by the Corporation under the provisions of this chapter, not including this section, and any other applicable laws. Not later than the expiration of the 120-day period beginning upon the commencement of the first fiscal year for which amounts are provided pursuant to paragraph (2)(A), the Corporation shall establish, and publish in the Federal Register, procedures for determining the realizable disposition value of a property transferred under this section, which shall take into consideration such factors as the Corporation considers appropriate, including the actual sale prices of properties disposed of by the Resolution Trust Corporation under section 1441a(c) <sup>1</sup> of this title, the prices of other properties sold under similar programs, and the appraised value of the property transferred under this section. Until such procedures are established, the Corporation may consider the realizable disposition value of any eligible residential or condominium property to be equal to the appraised value of the property.
 
 #### (3) Existing contracts
 
@@ -56,7 +56,7 @@ The purpose of this section is to provide homeownership and rental housing oppor
 
 &emsp;&emsp;(A) qualifying households (including qualifying households with members who are veterans); or
 
-&emsp;&emsp;(B) public agencies or nonprofit organizations that agree to (i) make the propertyavailable for occupancy by and maintain it as affordable for low-income families (including low-income families with members who are veterans) for the remaining useful life of such property, or (ii) make the property available for purchase by any such family who, except as provided in paragraph (4), agrees to occupy the property as a principal residence for at least 12 months and certifies in writing that the family intends to occupy the property for at least 12 months.
+&emsp;&emsp;(B) public agencies or nonprofit organizations that agree to (i) make the property available for occupancy by and maintain it as affordable for low-income families (including low-income families with members who are veterans) for the remaining useful life of such property, or (ii) make the property available for purchase by any such family who, except as provided in paragraph (4), agrees to occupy the property as a principal residence for at least 12 months and certifies in writing that the family intends to occupy the property for at least 12 months.
 
 > &emsp;The restrictions described in clause (i) of subparagraph (B) shall be contained in the deed or other recorded instrument. If, upon the expiration of such 180-day period, no qualifying household, public agency, or nonprofit organization has made a bona fide offer to purchase the property, the Corporation may offer to sell the property to any purchaser. The Corporation shall actively market eligible single family properties for sale to low-income families and to low-income families with members who are veterans.
 
@@ -72,7 +72,7 @@ The purpose of this section is to provide homeownership and rental housing oppor
 
 #### (B) Other recapture provisions
 
-&emsp;&emsp;The requirement under paragraph (3) shall not apply to any eligible single family property for which, upon resale by the qualifying household or low-income family during the 1-year period beginning upon initial acquisition by the household or family, a portion of the sale proceeds or any subsidy provided in connection with the acquisition of the property by the household or family is required to be recaptured or repaid under any other Federal, State, or local law (including section 143(m) of title 26) or regulation or under any sale agreement.
+&emsp;&emsp;The requirement under paragraph (3) shall not apply to any eligible single family property for which, upon resale by the qualifying household or low-income family during the 1-year period beginning upon initial acquisition by the household or family, a portion of the sale proceeds or any subsidy provided in connection with the acquisition of the property by the household or family is requiredto be recaptured or repaid under any other Federal, State, or local law (including section 143(m) of title 26) or regulation or under any sale agreement.
 
 #### (5) Exception to avoid displacement of existing residents
 
@@ -94,7 +94,7 @@ The purpose of this section is to provide homeownership and rental housing oppor
 
 #### (4) Offers by qualifying multifamily purchasers
 
-&emsp;A qualifying multifamily purchaser receiving notice in accordance with paragraph (3) shall have 45 days (from the date notice is received) to make a bona fide offer to purchase the property. The Corporation shall accept an offer that complies with the terms and conditions established by the Corporation. If, before the expiration of such 45-day period, any offer to purchase a property initially accepted bythe Corporation is subsequently rejected or fails (for any reason), the Corporation shall accept another offer to purchase the property made during such period that complies with the terms and conditions established by the Corporation (if such another offer is made). The preceding sentence may not be construed to require a qualifying multifamily purchaser whose offer is accepted during the 45-day period to purchase the property before the expiration of the period.
+&emsp;A qualifying multifamily purchaser receiving notice in accordance with paragraph (3) shall have 45 days (from the date notice is received) to make a bona fide offer to purchase the property. The Corporation shall accept an offer that complies with the terms and conditions established by the Corporation. If, before the expiration of such 45-day period, any offer to purchase a property initially accepted by the Corporation is subsequently rejected or fails (for any reason), the Corporation shall accept another offer to purchase the property made during such period that complies with the terms and conditions established by the Corporation (if such another offer is made). The preceding sentence may not be construed to require a qualifying multifamily purchaser whose offer is accepted during the 45-day period to purchase the property before the expiration of the period.
 
 #### (5) Extension of restricted offer periods
 
@@ -190,7 +190,7 @@ The purpose of this section is to provide homeownership and rental housing oppor
 
 #### (2) Assistance by HUD
 
-&emsp;The Secretary shall take such action as may be necessary to expedite the processing of applications for assistance under section 202 ofthe Housing Act of 1959 \[12 U.S.C. 1701q\], the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\], title IV of the McKinney-Vento Homeless Assistance Act \[42 U.S.C. 11360 et seq.\], and the National Housing Act \[12 U.S.C. 1701 et seq.\], to enable any organization or individual to purchase eligible residential property.
+&emsp;The Secretary shall take such action as may be necessary to expedite the processing of applications for assistance under section 202 of the Housing Act of 1959 \[12 U.S.C. 1701q\], the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\], title IV of the McKinney-Vento Homeless Assistance Act \[42 U.S.C. 11360 et seq.\], and the National Housing Act \[12 U.S.C. 1701 et seq.\], to enable any organization or individual to purchase eligible residential property.
 
 #### (3) Assistance by FMHA
 
@@ -300,7 +300,7 @@ Notwithstanding subsections (c), (d), (f), and (g) of this section, the Corporat
 
 &emsp;&emsp;Any eligible multifamily housing property sold under this subsection shall comply with the low-income occupancy requirements under subsection (d)(7) of this section and shall be subject to the rent limitations under subsection (e)(1) of this section.
 
-#### (<i>l</i>) Rules governing disposition of eligible condominium property
+#### (l) Rules governing disposition of eligible condominium property
 
 #### (1) Notice to clearinghouses
 
@@ -342,7 +342,7 @@ Notwithstanding subsections (c), (d), (f), and (g) of this section, the Corporat
 
 #### (6) Limitations on multiple unit purchases
 
-&emsp;The Corporation may not sell or offer to sell as part of the same negotiation or purchase any eligible condominium properties that are not located in the same condominium project (as such term is defined in section 3603 of title 15). The preceding sentence may not be construed to require all eligible condominium properties offered or sold as part of the same negotiation or purchase to be located in the same structure.
+&emsp;The Corporation may not sell or offer to sell as part of the same negotiation or purchase any eligible condominium properties that arenot located in the same condominium project (as such term is defined in section 3603 of title 15). The preceding sentence may not be construed to require all eligible condominium properties offered or sold as part of the same negotiation or purchase to be located in the same structure.
 
 #### (7) Rent limitations
 
@@ -356,7 +356,7 @@ Notwithstanding subsections (c), (d), (f), and (g) of this section, the Corporat
 
 #### (2) Low-income occupancy
 
-&emsp;The low-income occupancy requirements under subsections (c), (d), (j)(3), (k)(2), and (<i>l</i>)(3) of this section shall be judicially enforceable against purchasers of property under this section and their successors in interest by affected very low- and low-income families, State housing finance agencies, and any agency, corporation, or authority of the United States. The parties specified in the preceding sentence shall be entitled to reasonable attorney fees upon prevailing in any such judicial action.
+&emsp;The low-income occupancy requirements under subsections (c), (d), (j)(3), (k)(2), and (l)(3) of this section shall be judicially enforceable against purchasers of property under this section and their successors in interest by affected very low- and low-income families, State housing finance agencies, and any agency, corporation, or authority of the United States. The parties specified in the preceding sentence shall be entitled to reasonable attorney fees upon prevailing in any such judicial action.
 
 #### (3) Clearinghouses
 
@@ -402,7 +402,7 @@ Notwithstanding subsections (c), (d), (f), and (g) of this section, the Corporat
 
 &emsp;Beginning not later than October 1, 1995, the Corporation shall carry out any remaining authority and responsibilities of the Resolution Trust Corporation, as set forth in section 1441a(c) <sup>1</sup> of this title.
 
-#### (<i>o</i>) Report
+#### (o) Report
 
 To the extent applicable, in the annual report submitted by the Secretary to the Congress under section 3536 of title 42, the Secretary shall include a detailed description of any activities under this section, including recommendations for any additional authority the Secretary considers necessary to implement the provisions of this section.
 
@@ -442,7 +442,7 @@ For purposes of this section:
 
 &emsp;&emsp;(A) to which the Corporation acquires title in its corporate capacity, its capacity as conservator, or its capacity as receiver (including in its capacity as the sole owner of a subsidiary corporation of a depository institution under conservatorship or receivership, which subsidiary has as its principal business the ownership of real property); and
 
-&emsp;&emsp;(B) that has an appraised value that does not exceed the applicable dollar amount specified in section 221(d)(3)(ii) of the National Housing Act \[12 U.S.C. 1715<i>l</i>(d)(3)(ii)\] for elevator-type structures, as such dollar amount is increased under such section for geographical areas or on a project-by-project basis (except that any such increase on a project-by-project basis shall be made pursuant to a determination by the Corporation that such increase is necessary).
+&emsp;&emsp;(B) that has an appraised value that does not exceed the applicable dollar amount specified in section 221(d)(3)(ii) of the National Housing Act \[12 U.S.C. 1715l(d)(3)(ii)\] for elevator-type structures, as such dollar amount is increased under such section for geographical areas or on a project-by-project basis (except that any such increase on a project-by-project basis shall be made pursuant to a determination by the Corporation that such increase is necessary).
 
 #### (6) Eligible residential property
 
@@ -518,7 +518,7 @@ For purposes of this section:
 
 #### (2) Content
 
-&emsp;For ineligible single family properties, such notice shall contain the same information about such properties that the notice required under subsection (c)(1) of this section contains with respect to eligible single family properties. For ineligible multifamily housing properties, such notice shall contain the same information about such properties that the notice required under subsection (d)(1) of this section contains with respect to eligible multifamily housing properties. For ineligible condominium properties, such notice shall contain the same information about such properties that the notice required under subsection (<i>l</i>)(1) of this section contains with respect to eligible condominium properties.
+&emsp;For ineligible single family properties, such notice shall contain the same information about such properties that the notice required under subsection (c)(1) of this section contains with respect to eligible single family properties. For ineligible multifamily housing properties, such notice shall contain the same information about such properties that the notice required under subsection (d)(1) of this section contains with respect to eligible multifamily housing properties. For ineligible condominium properties, such notice shall contain the same information about such properties that the notice required under subsection (l)(1) of this section contains with respect to eligible condominium properties.
 
 #### (3) Availability
 
@@ -560,7 +560,7 @@ The National Housing Act, referred to in subsec. (g)(2), is act June 27, 1934, c
 
 The Housing Act of 1949, referred to in subsec. (g)(3), is act July 15, 1949, ch. 338, 63 Stat. 413. Title V of the Act is classified generally to subchapter III (§1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
 
-The Cranston-Gonzalez National Affordable Housing Act, referred to in subsecs. (g)(5)(A) and (h)(3), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. Title II of the Act, also known as the “HOME Investment Partnerships Act”, is classified principally to subchapter II (§12721 et seq.) of chapter 130 of Title 42, The Public Health and Welfare. Title IV of the Act, also known as the “Homeownership and Opportunity Through HOPE Act”, enacted subchapter II–A (§1437aaa et seq.) of chapter 8 of Title 42 and subchapter IV (§12871 et seq.) of chapter 130 of Title 42, amended sections 1437c, 1437f, 1437<i>l</i>, 1437p, 1437r, and 1437s of Title 42 and section 1709 of this title, and enacted provisions set out as notes under sections 1437c, 1437aa, and 1437aaa of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of Title 42 and Tables.
+The Cranston-Gonzalez National Affordable Housing Act, referred to in subsecs. (g)(5)(A) and (h)(3), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. Title II of the Act, also known as the “HOME Investment Partnerships Act”, is classified principally to subchapter II (§12721 et seq.) of chapter 130 of Title 42, The Public Health and Welfare. Title IV of the Act, also known as the “Homeownership and Opportunity Through HOPEAct”, enacted subchapter II–A (§1437aaa et seq.) of chapter 8 of Title 42 and subchapter IV (§12871 et seq.) of chapter 130 of Title 42, amended sections 1437c, 1437f, 1437l, 1437p, 1437r, and 1437s of Title 42 and section 1709 of this title, and enacted provisions set out as notes under sections 1437c, 1437aa, and 1437aaa of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of Title 42 and Tables.
 
 Section 14(b) of the Resolution Trust Corporation Completion Act, referred to in subsec. (n)(1), is section 14(b) of Pub. L. 103–204, which is set out below.
 
@@ -586,7 +586,7 @@ Subsec. (n). Pub. L. 103–204, §14(e)(2), amended subsec. (n) generally. Prior
 
 Affordable Housing Program Office.—The Corporation shall establish an Affordable Housing Program Office within the Corporation to carry out the provisions of this section and shall dedicate certain staff of the Corporation to the office.”
 
-Subsec. (p)(4)(A), (5)(A), (7)(A). Pub. L. 103–204, §13, inserted “in its corporate capacity, its capacity as conservator, or its capacity as receiver (including in its capacity as the sole owner of a subsidiary corporation ofa depository institution under conservatorship or receivership, which subsidiary has as its principal business the ownership of real property)” before “; and”.
+Subsec. (p)(4)(A), (5)(A), (7)(A). Pub. L. 103–204, §13, inserted “in its corporate capacity, its capacity as conservator, or its capacity as receiver (including in its capacity as the sole owner of a subsidiary corporation of a depository institution under conservatorship or receivership, which subsidiary has as its principal business the ownership of real property)” before “; and”.
 
 Subsec. (q). Pub. L. 103–204, §14(a)(2), added subsec. (q).
 
@@ -602,7 +602,7 @@ Pub. L. 102–389 added subpar. (B) and struck out former subpar. (B) which read
 
 #### Affordable Housing Advisory Board
 
-Section 14(b) of Pub. L. 103–204, as amended by Pub. L. 105–216, §14(e), (f), July 29, 1998, 112 Stat. 910, provided that:
+Pub. L. 103–204, §14(b), Dec. 17, 1993, 107 Stat. 2393, as amended by Pub. L. 105–216, §14(e), (f), July 29, 1998, 112 Stat. 910, provided that:
 
 “(1)
 
@@ -616,7 +616,7 @@ Membership.—The Advisory Board shall consist of—
 
 &emsp;“(B) the Chairperson of the Board of Directors of the Federal Deposit Insurance Corporation (or the Chairperson's delegate), who shall be a nonvoting member;
 
-&emsp;“(C) 4 persons appointed by the Secretary of Housing and Urban Development not later than the expiration of the 90-day period beginning on the date of the enactment of this Act \[Dec. 17, 1993\], who represent the interests of individuals and organizations involved in using the affordable housing programs (including nonprofit organizations, public agencies, and for-profit organizations that purchase properties under the affordable housing programs, organizations that provide technical assistance regarding the affordable housing programs, and organizations that represent the interest of low- and moderate-income families); and
+&emsp;“(C) 4 persons appointed by the Secretary of Housing and Urban Development not later than the expiration of the 90-day period beginning on the date of the enactment of this Act \[Dec. 17, 1993\], who represent the interests of individuals and organizations involved in using the affordable housing programs (including nonprofit organizations, public agencies, and for-profit organizations that purchase properties under the affordable housing programs, organizationsthat provide technical assistance regarding the affordable housing programs, and organizations that represent the interest of low- and moderate-income families); and
 
 &emsp;“(D) 2 persons who are members of the National Housing Advisory Board pursuant to section 21A(d)(2)(B)(ii) of the Federal Home Loan Bank Act \[12 U.S.C. 1441a(d)(2)(B)(ii)\] (as in effect before the effective date of the repeal under subsection (c)(2) \[90 days after Dec. 17, 1993\]), who shall be appointed by such Board before such effective date.
 
@@ -676,7 +676,7 @@ Sunset.—The Advisory Board established under this subsection shall terminate o
 
 #### Coordination and Consultation Between Federal Deposit Insurance Corporation and Resolution Trust Corporation Under Affordable Housing Programs
 
-Section 241(b) of Pub. L. 102–242, as amended by Pub. L. 102–550, title XVI, §1604(c)(1), Oct. 28, 1992, 106 Stat.4083, provided that: “The Federal Deposit Insurance Corporation and the Resolution Trust Corporation shall consult and coordinate with each other in carrying out their respective responsibilities under the affordable housing programs under section 40 of the Federal Deposit Insurance Act \[12 U.S.C. 1831q\] and \[former\] section 21A(c) of the Federal Home Loan Bank Act \[12 U.S.C. 1441a(c)\]. Such corporations shall develop any procedures, and may enter into any agreements, necessary to provide for the coordinated, efficient, and effective operation of such programs.”
+Pub. L. 102–242, title II, §241(b), Dec. 19, 1991, 105 Stat. 2331, as amended by Pub. L. 102–550, title XVI, §1604(c)(1), Oct. 28, 1992, 106 Stat. 4083, provided that: “The Federal Deposit Insurance Corporation and the Resolution Trust Corporation shall consult and coordinate with each other in carrying out their respective responsibilities under the affordable housing programs under section 40 of the Federal Deposit Insurance Act \[12 U.S.C. 1831q\] and \[former\] section 21A(c) of the Federal Home Loan Bank Act \[12 U.S.C. 1441a(c)\]. Such corporations shall develop any procedures, and may enter into any agreements, necessary to provide for the coordinated, efficient, and effective operation of such programs.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

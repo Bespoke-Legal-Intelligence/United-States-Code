@@ -24,7 +24,7 @@ Associate Administrator for Acquisition Workforce Programs.—The Administrator 
 
 &emsp;(4) recommending to the Administrator and other senior government officials appropriate programs, policies, and practices to increase the quantity and quality of the Federal acquisition workforce;
 
-&emsp;(5) implementing workforce programs under subsections (f) through (<i>l</i>) of section 1703 of this title; and
+&emsp;(5) implementing workforce programs under subsections (f) through (l) of section 1703 of this title; and
 
 &emsp;(6) carrying out other functions that the Administrator may assign.
 
@@ -124,7 +124,7 @@ Training in the Acquisition of Architect and Engineering Services.—The Adminis
 
 Utilization of Recruitment and Retention Authorities.—The Administrator, in coordination with the Director of the Office of Personnel Management, shall encourage executive agencies to use existing authorities, including direct hire authority and tuition assistance programs, to recruit and retain acquisition personnel and consider recruiting acquisition personnel who may be retiring from the private sector, consistent with existing laws and regulations.
 
-(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3706; Pub. L. 111–383, div. A, title X, §1075(e)(15), Jan. 7, 2011, 124 Stat. 4375; Pub. L. 112–81, div. A, title VIII, §864(a), Dec. 31, 2011, 125 Stat. 1522.)
+(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3706; Pub. L. 111–383, div. A, title X, §1075(e)(15), Jan. 7, 2011, 124 Stat. 4375; Pub. L. 112–81, div. A, title VIII, §864(a), Dec. 31, 2011, 125 Stat. 1522; Pub. L. 112–239, div. A, title X, §1076(a)(14), Jan. 2, 2013, 126 Stat. 1948.)
 
 #### Amendments Not Shown in Text
 
@@ -184,9 +184,15 @@ In subsection (g)(3)(D), the reference to “section 37(j) of the Office of Fede
 
 #### Amendments
 
-<b>2011</b>—Subsec. (b). Pub. L. 112–81, §864(a)(2), which directed substitution of “The Associate Administrator shall be located in the Office of Federal Procurement Policy.” for “The Associate Administrator for Acquisition Workforce Programs shall be located in the Federal Acquisition Institute (or its successor).”, was executed by making the substitution for “The Associate Administrator shall be located in the Federal Acquisition Institute (or its successor).” in introductory provisions, to reflect the probable intent of Congress.
+<b>2013</b>—Subsec. (b). Pub. L. 112–239, §1076(a)(14), made technical amendment to directory language of Pub. L. 112–81, §864(a)(2). See 2011 Amendment note below.
+
+<b>2011</b>—Subsec. (b). Pub. L. 112–81, §864(a)(2), as amended by Pub. L. 112–239, §1076(a)(14), substituted “The Associate Administrator shall be located in the Office of Federal Procurement Policy.” for “The Associate Administrator shall be located in the Federal Acquisition Institute (or its successor).” in introductory provisions.
 
 Pub. L. 112–81, §864(a)(1), inserted “The Associate Administrator shall be chosen on the basis of demonstrated knowledge and expertise in acquisition, human capital, and management.” after “Programs.” in introductory provisions.
 
 Subsec. (b)(5), (6). Pub. L. 112–81, §864(a)(3)–(5), added par. (5) and redesignated former par. (5) as (6).
+
+#### Effective Date of 2013 Amendment
+
+Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(14) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
 

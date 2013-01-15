@@ -27,10 +27,11 @@
 | [30118\.](Subchapter%20002%20%28II%29%20-%20Standards%20and%20Compliance/%C2%A7%2030118%20-%20Notification%20of%20defects%20and%20noncompliance.md) | Notification of defects and noncompliance. |
 | [30119\.](Subchapter%20002%20%28II%29%20-%20Standards%20and%20Compliance/%C2%A7%2030119%20-%20Notification%20procedures.md) | Notification procedures. |
 | [30120\.](Subchapter%20002%20%28II%29%20-%20Standards%20and%20Compliance/%C2%A7%2030120%20-%20Remedies%20for%20defects%20and%20noncompliance.md) | Remedies for defects and noncompliance. |
+| [30120A.](Subchapter%20002%20%28II%29%20-%20Standards%20and%20Compliance/%C2%A7%2030120A%20-%20Recall%20obligations%20and%20bankruptcy%20of%20a%20manufacturer.md) | Recall obligations and bankruptcy of a manufacturer. |
 | [30121\.](Subchapter%20002%20%28II%29%20-%20Standards%20and%20Compliance/%C2%A7%2030121%20-%20Provisional%20notification%20and%20civil%20actions%20to%20enforce.md) | Provisional notification and civil actions to enforce. |
 | [30122\.](Subchapter%20002%20%28II%29%20-%20Standards%20and%20Compliance/%C2%A7%2030122%20-%20Making%20safety%20devices%20and%20elements%20inoperative.md) | Making safety devices and elements inoperative. |
 | [30123\.](Subchapter%20002%20%28II%29%20-%20Standards%20and%20Compliance/%C2%A7%2030123%20-%20Tires.md) | Tires. |
-| [30124\.](Subchapter%20002%20%28II%29%20-%20Standards%20and%20Compliance/%C2%A7%2030124%20-%20Buzzers%20indicating%20nonuse%20of%20safety%20belts.md) | Buzzers indicating nonuse of safety belts. |
+| [30124\.](Subchapter%20002%20%28II%29%20-%20Standards%20and%20Compliance/%C2%A7%2030124%20-%20Nonuse%20of%20safety%20belts.md) | Nonuse of safety belts. |
 | [30125\.](Subchapter%20002%20%28II%29%20-%20Standards%20and%20Compliance/%C2%A7%2030125%20-%20Schoolbuses%20and%20schoolbus%20equipment.md) | Schoolbuses and schoolbus equipment. |
 | [30126\.](Subchapter%20002%20%28II%29%20-%20Standards%20and%20Compliance/%C2%A7%2030126%20-%20Used%20motor%20vehicles.md) | Used motor vehicles. |
 | [30127\.](Subchapter%20002%20%28II%29%20-%20Standards%20and%20Compliance/%C2%A7%2030127%20-%20Automatic%20occupant%20crash%20protection%20and%20seat%20belt%20use.md) | Automatic occupant crash protection and seat belt use. |
@@ -59,17 +60,30 @@
 | [30161\.](Subchapter%20004%20%28IV%29%20-%20Enforcement%20and%20Administrative/%C2%A7%2030161%20-%20Judicial%20review%20of%20standards.md) | Judicial review of standards. |
 | [30162\.](Subchapter%20004%20%28IV%29%20-%20Enforcement%20and%20Administrative/%C2%A7%2030162%20-%20Petitions%20by%20interested%20persons%20for%20standards%20and%20enforcement.md) | Petitions by interested persons for standards and enforcement. |
 | [30163\.](Subchapter%20004%20%28IV%29%20-%20Enforcement%20and%20Administrative/%C2%A7%2030163%20-%20Actions%20by%20the%20Attorney%20General.md) | Actions by the Attorney General. |
-| [30164\.](Subchapter%20004%20%28IV%29%20-%20Enforcement%20and%20Administrative/%C2%A7%2030164%20-%20Service%20of%20process.md) | Service of process. |
+| [30164\.](Subchapter%20004%20%28IV%29%20-%20Enforcement%20and%20Administrative/%C2%A7%2030164%20-%20Service%20of%20process%3B%20conditions%20on%20importation%20of%20vehicles%20and%20equipment.md) | Service of process; conditions on importation of vehicles and equipment. |
 | [30165\.](Subchapter%20004%20%28IV%29%20-%20Enforcement%20and%20Administrative/%C2%A7%2030165%20-%20Civil%20penalty.md) | Civil penalty. |
 | [30166\.](Subchapter%20004%20%28IV%29%20-%20Enforcement%20and%20Administrative/%C2%A7%2030166%20-%20Inspections%2C%20investigations%2C%20and%20records.md) | Inspections, investigations, and records. |
 | [30167\.](Subchapter%20004%20%28IV%29%20-%20Enforcement%20and%20Administrative/%C2%A7%2030167%20-%20Disclosure%20of%20information%20by%20the%20Secretary%20of%20Transportation.md) | Disclosure of information by the Secretary of Transportation. |
-| [30168\.](Subchapter%20004%20%28IV%29%20-%20Enforcement%20and%20Administrative/%C2%A7%2030168%20-%20Research%2C%20testing%2C%20development%2C%20and%20training.md) | Research, testing, development, and training. |
+| \[30168. | Repealed.\] |
 | [30169\.](Subchapter%20004%20%28IV%29%20-%20Enforcement%20and%20Administrative/%C2%A7%2030169%20-%20Annual%20reports.md) | Annual reports. |
 | [30170\.](Subchapter%20004%20%28IV%29%20-%20Enforcement%20and%20Administrative/%C2%A7%2030170%20-%20Criminal%20Penalties.md) | Criminal penalties. |
+| [30171\.](Subchapter%20004%20%28IV%29%20-%20Enforcement%20and%20Administrative/%C2%A7%2030171%20-%20Protection%20of%20employees%20providing%20motor%20vehicle%20safety%20information.md) | Protection of employees providing motor vehicle safety information. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER V—MOTOR VEHICLE SAFETY RESEARCH AND DEVELOPMENT
+
+|  |  |
+| :--- | ---: |
+| [30181\.](Subchapter%20005%20%28V%29%20-%20Motor%20Vehicle%20Safety%20Research%20and%20Development/%C2%A7%2030181%20-%20Policy.md) | Policy. |
+| [30182\.](Subchapter%20005%20%28V%29%20-%20Motor%20Vehicle%20Safety%20Research%20and%20Development/%C2%A7%2030182%20-%20Powers%20and%20duties.md) | Powers and duties. |
+| [30183\.](Subchapter%20005%20%28V%29%20-%20Motor%20Vehicle%20Safety%20Research%20and%20Development/%C2%A7%2030183%20-%20Prohibition%20on%20certain%20disclosures.md) | Prohibition on certain disclosures. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2012</b>—Pub. L. 112–141, div. C, title I, §§31202(b), 31204(b)(1), (2)(A), 31208(1), 31307(c), 31312(b), July 6, 2012, 126 Stat. 758, 760, 761, 769, 772, added items 30120A and 30171, item for subchapter V, and items 30181 to 30183, substituted “Nonuse of safety belts” for “Buzzers indicating nonuse of safety belts” in item 30124 and “Service of process; conditions on importation of vehicles and equipment” for “Service of process” in item 30164, and struck out item 30168 “Research, testing, development, and training”.
 
 <b>2005</b>—Pub. L. 109–59, title X, §10303(a), Aug. 10, 2005, 119 Stat. 1940, which directed amendment of the table of sections for chapter 301 by adding item 30128, without specifying the title to be amended, was executed to the table of sections for this chapter, to reflect the probable intent of Congress.
 
@@ -90,3 +104,4 @@ Pub. L. 109–59, title X, §10208(b), Aug. 10, 2005, 119 Stat. 1936, added item
 - [Subchapter 002 (II) - Standards and Compliance](Subchapter%20002%20%28II%29%20-%20Standards%20and%20Compliance/README.md)
 - [Subchapter 003 (III) - Importing Noncomplying Motor Vehicles and Equipment](Subchapter%20003%20%28III%29%20-%20Importing%20Noncomplying%20Motor%20Vehicles%20and%20Equipment/README.md)
 - [Subchapter 004 (IV) - Enforcement and Administrative](Subchapter%20004%20%28IV%29%20-%20Enforcement%20and%20Administrative/README.md)
+- [Subchapter 005 (V) - Motor Vehicle Safety Research and Development](Subchapter%20005%20%28V%29%20-%20Motor%20Vehicle%20Safety%20Research%20and%20Development/README.md)

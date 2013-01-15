@@ -30,7 +30,7 @@ The Corporation shall ensure that each individual selected during a fiscal year 
 
 &emsp;In making grants under this subsection for a fiscal year, the Corporation—
 
-&emsp;&emsp;(A) shall select 2 or more of the national service corps described in section 12572(a) ofthis title to receive grants under this subsection; and
+&emsp;&emsp;(A) shall select 2 or more of the national service corps described in section 12572(a) of this title to receive grants under this subsection; and
 
 &emsp;&emsp;(B) may select national service programs described in section 12572(b) of this title to receive such grants.
 
@@ -102,7 +102,7 @@ The Corporation may not approve positions as approved national service positions
 
 &emsp;The Chief Executive Officer may use the funds reserved under paragraph (1), and not distributed to make grants under this subsection for other activities described in section 12681(a)(2) of this title.
 
-#### (<i>l</i>) Authority for fixed-amount grants
+#### (l) Authority for fixed-amount grants
 
 #### (1) In general
 
@@ -130,7 +130,7 @@ The Corporation may not approve positions as approved national service positions
 
 &emsp;&emsp;&emsp;(iv) whether the program provides service to, or involves the participation of, disadvantaged youth or otherwise would reasonably incur a relatively higher level of costs; and
 
-&emsp;&emsp;&emsp;(v) such other factors as the Corporation may consider under section 12585 of this title in considering applications for assistance.
+&emsp;&emsp;&emsp;(v) such other factors as the Corporation may consider under section 12585 of thistitle in considering applications for assistance.
 
 #### (3) Requirements for grant recipients
 
@@ -162,7 +162,7 @@ The Corporation may not approve positions as approved national service positions
 
 The Domestic Volunteer Service Act of 1973, referred to in subsec. (c), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394. Title I of the Act is classified generally to subchapter I (§4951 et seq.) of chapter 66 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
 
-For the effective date of the Serve America Act, referred to in subsec. (<i>l</i>)(1)(B), as Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as an Effective Date of 2009 Amendment note under section 4950 of this title.
+For the effective date of the Serve America Act, referred to in subsec. (l)(1)(B), as Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as an Effective Date of 2009 Amendment note under section 4950 of this title.
 
 #### Prior Provisions
 

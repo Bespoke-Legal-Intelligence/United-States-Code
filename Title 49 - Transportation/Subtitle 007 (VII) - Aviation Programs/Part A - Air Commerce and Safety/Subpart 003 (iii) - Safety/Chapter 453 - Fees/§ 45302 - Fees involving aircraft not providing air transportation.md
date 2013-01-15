@@ -26,9 +26,17 @@ Credit to Account and Availability.—Money collected from fees imposed under th
 
 (e)
 
-Effective Date.—A fee may not be imposed under this section before the date on which the regulations prescribed under sections 44111(d), 44703(f)(2),<sup>1</sup> and 44713(d)(2) of this title take effect.
+Effective Date.—
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1225; Pub. L. 103–429, §6(59), Oct. 31, 1994, 108 Stat. 4385.)
+&emsp;(1)
+
+In general.—A fee may not be imposed under this section before the date on which the regulations prescribed under sections 44111(d), 44703(f)(2),<sup>1</sup> and 44713(d)(2) of this title take effect.
+
+&emsp;(2)
+
+Effect of imposition of other fees.—A fee may not be imposed for a service or activity under this section during any period in which a fee for the same service or activity is imposed under section 45305.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1225; Pub. L. 103–429, §6(59), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 112–95, title I, §122(c), Feb. 14, 2012, 126 Stat. 20.)
 
 Historical and Revision Notes
 
@@ -68,9 +76,11 @@ This amends 49:45302 because the final regulations are not yet effective.
 
 #### References in Text
 
-Section 44703(f)(2) of this title, referred to in subsecs. (d) and (e), was redesignated section 44703(g)(2) by Pub. L. 106–181, title VII, §715(1), Apr. 5, 2000, 114 Stat. 162.
+Section 44703(f)(2) of this title, referred to in subsecs. (d) and (e)(1), was redesignated section 44703(g)(2) by Pub. L. 106–181, title VII, §715(1), Apr. 5, 2000, 114 Stat. 162.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (e). Pub. L. 112–95 designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 <b>1994</b>—Subsec. (e). Pub. L. 103–429 added subsec. (e).
 

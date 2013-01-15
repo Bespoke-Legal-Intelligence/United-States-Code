@@ -130,7 +130,7 @@ The Agency for International Development should target the equivalent of 10 perc
 
 Assistance provided under this section shall be concentrated in countries which will make the most effective use of such assistance in order to fulfill the purpose specified in subsection (c) of this section, especially those countries (including those of the Sahel region) having the greatest need for outside assistance.
 
-#### (<i>l</i>) Promotion of regional integration
+#### (l) Promotion of regional integration
 
 Assistance under this section shall, to the extent consistent with this section, include assistance to promote the regional and subregional integration of African production structures, markets, and infrastructure.
 
@@ -142,7 +142,7 @@ Funds made available to carry out this section may be used to assist the governm
 
 #### (1) Assistance under other authorities
 
-&emsp;The authority granted by this section to provide assistance for long-term development in sub-Saharan Africa is not intended to preclude the use of other authorities for that purpose. Centrally funded programs which benefit sub-Saharan Africa shall continue to be funded under part I of this subchapter.
+&emsp;The authority granted by this section to provide assistance for long-term developmentin sub-Saharan Africa is not intended to preclude the use of other authorities for that purpose. Centrally funded programs which benefit sub-Saharan Africa shall continue to be funded under part I of this subchapter.
 
 #### (2) Transfer authorities
 
@@ -158,7 +158,7 @@ Funds made available to carry out this section may be used to assist the governm
 
 &emsp;In order to allow the assistance authorized by this section to be furnished as effectively and expeditiously as possible, section 2354(a) of this title, and similar provisions relating to the procurement of goods and services, shall not apply with respect to goods and services procured for use in carrying out this section. The exemption provided by this paragraph shall not be construed to apply to the Comprehensive Anti/Apartheid Act of 1986.
 
-#### (<i>o</i>) Support for SADCC projects
+#### (o) Support for SADCC projects
 
 #### (1) Authority to provide assistance
 
@@ -194,7 +194,7 @@ Subsec. (i)(2). Pub. L. 106–264 inserted at end “In addition, providing trai
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Agricultural and Rural Development in Sub-Saharan Africa
 
@@ -352,7 +352,7 @@ Additional Requirements.—Such plan shall seek to ensure that—
 
 #### Reports to Congress
 
-Section 562(c) of Pub. L. 101–513 provided that: “As part of the annual Congressional Presentation materials for economic assistance, the Administrator of the Agency for International Development shall include a description of the progress made during the previous fiscal year in carrying out chapter 10 of part I of the Foreign Assistance Act of 1961 \[this part\] in three countries in sub-Saharan Africa which represent differing economic situations and levels of progress. The description shall include—
+Pub. L. 101–513, title V, §562(c), Nov. 5, 1990, 104 Stat. 2030, provided that: “As part of the annual Congressional Presentation materials for economic assistance, the Administrator of the Agency for International Development shall include a description of the progress made during the previous fiscal year in carrying out chapter 10 of part I of the Foreign Assistance Act of 1961 \[this part\] in three countries in sub-Saharan Africa which represent differing economic situations and levels of progress. The description shall include—
 
 &emsp;“(1) the nature and extent of consultation to ensure local perspectives, as described in subsections (e)(1) and (f) of section 496 \[22 U.S.C. 2293(e)(1), (f)\];
 

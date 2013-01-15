@@ -10,7 +10,7 @@ In carrying out this subchapter, the Secretary shall—
 
 &emsp;(1) appoint and provide administrative and program support to the National Board;
 
-&emsp;(2) establish a national institute, to be known as the “National Institute on Regional Rural Competitiveness and Entrepreneurship”, to provide technical assistance to the Secretary and the National Board regarding regional competitiveness and rural entrepreneurship, including technical assistance for—
+&emsp;(2) establish a national institute, to be known as the “National Institute on RegionalRural Competitiveness and Entrepreneurship”, to provide technical assistance to the Secretary and the National Board regarding regional competitiveness and rural entrepreneurship, including technical assistance for—
 
 &emsp;&emsp;(A) the development of rigorous analytic programs to assist Regional Boards in determining the challenges and opportunities that need to be addressed to receive the greatest regional competitive advantage;
 
@@ -118,7 +118,7 @@ The National Board shall—
 
 #### (B) Ex-officio members
 
-&emsp;&emsp;In consultation with the chairman and ranking member of each of the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, the Secretary may appoint not more than 3 other officers or employees of the Executive Branch to serve as ex-officio, nonvoting members of the National Board.
+&emsp;&emsp;In consultation with the chairman and ranking member of each of the Committeeon Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, the Secretary may appoint not more than 3 other officers or employees of the Executive Branch to serve as ex-officio, nonvoting members of the National Board.
 
 #### (5) Term of office
 
@@ -162,7 +162,7 @@ The date of enactment of the Food, Conservation, and Energy Act of 2008, referre
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 

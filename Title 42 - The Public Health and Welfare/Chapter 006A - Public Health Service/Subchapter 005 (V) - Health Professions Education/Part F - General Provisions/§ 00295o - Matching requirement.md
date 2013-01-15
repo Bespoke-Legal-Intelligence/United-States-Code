@@ -6,7 +6,7 @@ The Secretary may require that an entity that applies for a grant or contract un
 
 #### Prior Provisions
 
-A prior section 295<i>o</i>, act July 1, 1944, ch. 373, title VII, §798, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2064; amended Pub. L. 102–531, title III, §313(a)(8), Oct. 27, 1992, 106 Stat. 3507, set forth certain general provisions relating to this subchapter, prior to repeal by Pub. L. 105–392, title I, §106(a)(2)(D), Nov. 13, 1998, 112 Stat. 3557.
+A prior section 295o, act July 1, 1944, ch. 373, title VII, §798, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2064; amended Pub. L. 102–531, title III, §313(a)(8), Oct. 27, 1992, 106 Stat. 3507, set forth certain general provisions relating to this subchapter, prior to repeal by Pub. L. 105–392, title I, §106(a)(2)(D), Nov. 13, 1998, 112 Stat. 3557.
 
 A prior section 798 of act July 1, 1944, was classified to section 295h–7 of this title prior to the general amendment of this subchapter by Pub. L. 102–408.
 

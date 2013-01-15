@@ -10,7 +10,7 @@ Study.—
 
 &emsp;(1)
 
-In general.—The Secretary shall conduct a study of runways at airports in States other than Alaska to determine which airports are affected by standards of the Federal Aviation Administration applicable to runway safety areas and to assess how operations at those airports would be affected if the owner or operator of the airport is required to reduce the length of a runway or declare the length of a runway to be less than the actual pavement length in order to meet such standards.
+In general.—The Secretary shall conduct a study of runways at airports in States other than Alaska to determine which airports are affected by standards of the Federal Aviation Administration applicable to runway safety areas and to assess how operations atthose airports would be affected if the owner or operator of the airport is required to reduce the length of a runway or declare the length of a runway to be less than the actual pavement length in order to meet such standards.
 
 &emsp;(2)
 

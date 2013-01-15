@@ -12,5 +12,5 @@ Section 1356, acts Feb. 16, 1938, ch. 30, title III, §356, 52 Stat. 62; Oct. 31
 
 #### Effective Date of Repeal
 
-Section 601 of Pub. L. 97–98 provided that the repeal of sections 1352 to 1356 of this title is effective beginning with the 1982 crop of rice.
+Pub. L. 97–98, title VI, §601, Dec. 22, 1981, 95 Stat. 1242, provided that the repeal of sections 1352 to 1356 of this title is effective beginning with the 1982 crop of rice.
 

@@ -70,5 +70,5 @@ In subsection (b) the words “including midshipmen” are omitted as surplusage
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 370(e) of Pub. L. 104–201, set out as a note under section 2105 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 370(e) of Pub. L. 104–201, set out as a noteunder section 2105 of Title 5, Government Organization and Employees.
 

@@ -20,9 +20,9 @@ Purposes.—The purposes of the program are as follows:
 
 #### Congressional Findings
 
-Section 281 of Pub. L. 104–201 provided that: “Congress finds the following:
+Pub. L. 104–201, div. A, title II, §281, Sept. 23, 1996, 110 Stat. 2469, provided that: “Congress finds the following:
 
-&emsp;“(1) The oceans and coastal areas of the United States are among the Nation's most valuable natural resources, making substantial contributions to economic growth, quality of life, and national security.
+&emsp;“(1) The oceans and coastal areas of the United States are among the Nation's most valuable naturalresources, making substantial contributions to economic growth, quality of life, and national security.
 
 &emsp;“(2) Oceans drive global and regional climate. Hence, they contain information affecting agriculture, fishing, and the prediction of severe weather.
 

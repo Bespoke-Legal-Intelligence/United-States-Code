@@ -2,7 +2,7 @@
 
 (a) In any case involving a defendant charged with an offense, the appropriate judicial officer, at the earliest practicable time, shall, after consultation with the counsel for the defendant and the attorney for the Government, set the case for trial on a day certain, or list it for trial on a weekly or other short-term trial calendar at a place within the judicial district, so as to assure a speedy trial.
 
-(b) Any information or indictment charging an individual with the commission of an offense shall be filed within thirty days from the date on which such individual was arrested or served with a summons in connection with such charges. If an individual has been charged with a felony in a district in which no grand jury hasbeen in session during such thirty-day period, the period of time for filing of the indictment shall be extended an additional thirty days.
+(b) Any information or indictment charging an individual with the commission of an offense shall be filed within thirty days from the date on which such individual was arrested or served with a summons in connection with such charges. If an individual has been charged with a felony in a district in which no grand jury has been in session during such thirty-day period, the period of time for filing of the indictment shall be extended an additional thirty days.
 
 (c)(1) In any case in which a plea of not guilty is entered, the trial of a defendant charged in an information or indictment with the commission of an offense shall commence within seventy days from the filing date (and making public) of the information or indictment, or from the date the defendant has appeared before a judicial officer of the court in which such charge is pending, whichever date last occurs. If a defendant consents in writing to be tried before a magistrate judge on a complaint, the trial shall commence within seventy days from the date of such consent.
 
@@ -14,7 +14,7 @@
 
 (e) If the defendant is to be tried again following a declaration by the trial judge of a mistrial or following an order of such judge for a new trial, the trial shall commence within seventy days from the date the action occasioning the retrial becomes final. If the defendant is to be tried again following an appeal or a collateral attack, the trial shall commence within seventy days from the date the action occasioning the retrial becomes final, except that the court retrying the case may extend the period for retrial not to exceed one hundred and eighty days from the date the action occasioning the retrial becomes final if unavailability of witnesses or other factors resulting from passage of time shall make trial within seventy days impractical. The periods of delay enumerated in section 3161(h) are excluded in computing the time limitations specified in this section. The sanctions of section 3162 apply to this subsection.
 
-(f) Notwithstanding the provisions of subsection (b) of this section, for the first twelve-calendar-month period following the effective date of this section as set forth in section 3163(a) of this chapter the time limit imposed with respect to the period between arrest and indictment by subsection (b) of this section shall be sixty days, for the second such twelve-month period such time limit shall be forty-five days and for the third such period such time limit shall be thirty-five days.
+(f) Notwithstanding the provisions of subsection (b) of this section, for the first twelve-calendar-month period following the effective date of this section as set forth in section 3163(a) of this chapter the time limit imposed with respect to the period between arrest and indictment by subsection (b) of this section shall besixty days, for the second such twelve-month period such time limit shall be forty-five days and for the third such period such time limit shall be thirty-five days.
 
 (g) Notwithstanding the provisions of subsection (c) of this section, for the first twelve-calendar-month period following the effective date of this section as set forth in section 3163(b) of this chapter, the time limit with respect to the period between arraignment and trial imposed by subsection (c) of this section shall be one hundred and eighty days, for the second such twelve-month period such time limit shall be one hundred and twenty days, and for the third such period such time limit with respect to the period between arraignment and trial shall be eighty days.
 
@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(H) delay reasonably attributable to any period, not to exceed thirty days, during which any proceeding concerning the defendant is actually under advisement by the court.
 
-&emsp;(2) Any period of delay during which prosecution is deferred by the attorney for theGovernment pursuant to written agreement with the defendant, with the approval of the court, for the purpose of allowing the defendant to demonstrate his good conduct.
+&emsp;(2) Any period of delay during which prosecution is deferred by the attorney for the Government pursuant to written agreement with the defendant, with the approval of the court, for the purpose of allowing the defendant to demonstrate his good conduct.
 
 &emsp;(3)(A) Any period of delay resulting from the absence or unavailability of the defendant or an essential witness.
 
@@ -128,9 +128,9 @@ Amendment by Pub. L. 98–473 effective 30 days after Oct. 12, 1984, see section
 
 #### Short Title of 1979 Amendment
 
-Section 1 of Pub. L. 96–43 provided: “That this Act \[amending this section and sections 3163 to 3168, 3170 and 3174 of this title\] may be cited as the ‘Speedy Trial Act Amendments Act of 1979’.”
+Pub. L. 96–43, §1, Aug. 2, 1979, 93 Stat. 327, provided: “That this Act \[amending this section and sections 3163 to 3168, 3170 and 3174 of this title\] may be cited as the ‘Speedy Trial Act Amendments Act of 1979’.”
 
 #### Short Title
 
-Section 1 of Pub. L. 93–619 provided: “That this Act \[enacting this chapter and sections 3153 to 3156 of this title, and amending section 3152 of this title, and section 604 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Speedy Trial Act of 1974’.”
+Pub. L. 93–619, §1, Jan. 3, 1975, 88 Stat. 2076, provided: “That this Act \[enacting this chapter and sections 3153 to 3156 of this title, and amending section 3152 of this title, and section 604 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Speedy Trial Act of 1974’.”
 

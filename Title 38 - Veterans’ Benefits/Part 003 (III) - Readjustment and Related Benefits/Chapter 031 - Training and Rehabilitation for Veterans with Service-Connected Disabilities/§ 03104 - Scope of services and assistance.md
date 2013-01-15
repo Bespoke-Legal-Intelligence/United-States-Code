@@ -44,7 +44,7 @@
 
 (b) A rehabilitation program (including individual courses) to be pursued by a veteran shall be subject to the approval of the Secretary.
 
-(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2174, §1504; amended Pub. L. 100–323, §11(a)(3)(A), May 20, 1988, 102 Stat. 568; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–16, §3(b)(1), Mar. 22, 1991, 105 Stat. 49; Pub. L. 102–54, §14(c)(3), June 13, 1991, 105 Stat. 285; renumbered §3104 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–275, title I, §101(d), Oct. 9, 1996, 110 Stat. 3324.)
+(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2174, §1504; amended Pub. L. 100–323, §11(a)(3)(A), May 20, 1988, 102 Stat. 568; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–16, §3(b)(1), Mar. 22, 1991, 105 Stat. 49; Pub. L. 102–54, §14(c)(3), June 13, 1991, 105 Stat. 285; renumbered §3104 andamended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–275, title I, §101(d), Oct. 9, 1996, 110 Stat. 3324.)
 
 #### Prior Provisions
 
@@ -52,7 +52,7 @@ Prior section 3104 was renumbered section 5304 of this title.
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a)(1). Pub. L. 104–275, §101(d)(1)(A), substituted “the veteran has an employment handicap or”for “such veteran's disability or disabilities cause” and inserted “reasonably” after “goal is”.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–275, §101(d)(1)(A), substituted “the veteran has an employment handicap or” for “such veteran's disability or disabilities cause” and inserted “reasonably” after “goal is”.
 
 Subsec. (a)(7)(A). Pub. L. 104–275, §101(d)(1)(B), struck out “(i)” after “assistance, including” and “, and (ii) job-readiness skills development and counseling under section 14(a)(2) of the Veterans’ Job Training Act (29 U.S.C. 1721 note) for a participant in a program of training under such Act” after “individual case”.
 
@@ -82,11 +82,11 @@ Amendment by Pub. L. 104–275 effective Oct. 9, 1996, with amendment by section
 
 #### Effective Date of 1991 Amendment
 
-Section 3(b)(2) of Pub. L. 102–16 provided that: “The amendments made by this subsection \[amending this section\] shall apply only to payments made on or after the date of the enactment of this Act \[Mar. 22, 1991\].”
+Pub. L. 102–16, §3(b)(2), Mar. 22, 1991, 105 Stat. 49, provided that: “The amendments made by this subsection \[amending this section\] shall apply only to payments made on or after the date of the enactment of this Act \[Mar. 22, 1991\].”
 
 #### Effective Date of 1988 Amendment
 
-Section 16 of Pub. L. 100–323 provided that:
+Pub. L. 100–323, §16, May 20, 1988, 102 Stat. 575, provided that:
 
 “(a)
 
@@ -150,7 +150,7 @@ Selection of Facilities.—In identifying the most appropriate facilities to rec
 
 “(d)
 
-Coordination.—The Secretary shall coordinate the provision of blind rehabilitation services for veterans with services for the care of the visually impaired offered by State and local agencies, especially to the extent to which such State and local agencies can provide necessary services to blind veterans in settings located closer to the residences of such veterans at similar quality and cost to the veteran.
+Coordination.—The Secretary shall coordinate the provision of blind rehabilitation services for veterans with services for the care of the visually impaired offered by State and local agencies, especially to theextent to which such State and local agencies can provide necessary services to blind veterans in settings located closer to the residences of such veterans at similar quality and cost to the veteran.
 
 “(e)
 
@@ -158,5 +158,5 @@ Authorization of Appropriations.—There are authorized to be appropriated for t
 
 #### Veterans Pursuing Program of Vocational Rehabilitation Under Former Section 1504 of This Title
 
-During the period beginning on Oct. 1, 1980, and ending on Mar. 31, 1981, the provisions of section 3108 \[formerly 1508\] of this title, as added by Pub. L. 96–466, titleI, §101(a), Oct. 17, 1980, 94 Stat. 2178, shall apply to veterans pursuing a program of vocational rehabilitation training under this chapter in the same manner as former section 1504 of this title applied to veterans pursuing such a program under this chapter on Sept. 30, 1980. See section 802(a)(4) of Pub. L. 96–466, set out as an Effective Date note under section 3100 of this title.
+During the period beginning on Oct. 1, 1980, and ending on Mar. 31, 1981, the provisions of section 3108 \[formerly 1508\] of this title, as added by Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2178, shall apply to veterans pursuing a program of vocational rehabilitation training under this chapter in the same manner as former section 1504 of this title applied to veterans pursuing such a program under this chapter on Sept. 30, 1980. See section 802(a)(4) of Pub. L. 96–466, set out as an Effective Date note under section 3100 of this title.
 

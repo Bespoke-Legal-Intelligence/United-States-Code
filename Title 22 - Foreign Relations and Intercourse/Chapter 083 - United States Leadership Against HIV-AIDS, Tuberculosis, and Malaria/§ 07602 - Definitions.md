@@ -40,7 +40,7 @@ In this chapter:
 
 #### (10) Partner government
 
-&emsp;The term “partner government” means a government with which the United States is working to provide assistance to combat HIV/AIDS, tuberculosis, or malaria on behalf of people living within the jurisdiction of such government.
+&emsp;The term “partner government” means a government with which the United States isworking to provide assistance to combat HIV/AIDS, tuberculosis, or malaria on behalf of people living within the jurisdiction of such government.
 
 #### (11) Program monitoring
 
@@ -58,7 +58,7 @@ In this chapter:
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 108–25, May 27, 2003, 117 Stat. 711, which is classified principally to this chapter. For complete classification of this Act to the Code, seeShort Title note set out under section 7601 of this title and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 108–25, May 27, 2003, 117 Stat. 711, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7601 of this title and Tables.
 
 The Foreign Assistance Act of 1961, referred to in par. (12), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 

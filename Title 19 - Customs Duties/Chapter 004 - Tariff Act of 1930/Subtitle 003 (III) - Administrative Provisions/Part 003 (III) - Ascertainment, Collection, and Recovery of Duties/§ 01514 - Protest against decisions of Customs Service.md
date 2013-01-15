@@ -48,7 +48,7 @@ With respect to determinations made under section 1303 <sup>1</sup> of this tit
 
 &emsp;(D) any person filing a claim for drawback;
 
-&emsp;(E) with respect to a determination of origin under section 3332 of this title, any exporter or producer of the merchandise subject to thatdetermination, if the exporter or producer completed and signed a NAFTA Certificate of Origin covering the merchandise; or
+&emsp;(E) with respect to a determination of origin under section 3332 of this title, any exporter or producer of the merchandise subject to that determination, if the exporter or producer completed and signed a NAFTA Certificate of Origin covering the merchandise; or
 
 &emsp;(F) any authorized agent of any of the persons described in clauses (A) through (E).
 
@@ -92,13 +92,13 @@ If U.S. Customs and Border Protection or U.S. Immigration and Customs Enforcemen
 
 #### (j) Denial of preferential tariff treatment under the United States–Korea Free Trade Agreement
 
-If U.S. Customs and Border Protection or U.S. Immigration and Customs Enforcement of the Department of Homeland Security finds indications of a pattern of conduct by an importer, exporter, or producer of false or unsupported representations that goods qualify under the rules of origin provided for in section 202 of the United States–Korea Free Trade Agreement Implementation Act, U.S. Customs and Border Protection, in accordance with regulations issued by the Secretary of the Treasury, may suspend preferential tariff treatment under the United States–Korea Free Trade Agreement Implementation Act to entries of identical goods coveredby subsequent representations by that importer, exporter, or producer until U.S. Customs and Border Protection determines that representations of that person are in conformity with such section 202.
+If U.S. Customs and Border Protection or U.S. Immigration and Customs Enforcement of the Department of Homeland Security finds indications of a pattern of conduct by an importer, exporter, or producer of false or unsupported representations that goods qualify under the rules of origin provided for in section 202 of the United States–Korea Free Trade Agreement Implementation Act, U.S. Customs and Border Protection, in accordance with regulations issued by the Secretary of the Treasury, may suspend preferential tariff treatment under the United States–Korea Free Trade Agreement Implementation Act to entries of identical goods covered by subsequent representations by that importer, exporter, or producer until U.S. Customs and Border Protection determines that representations of that person are in conformity with such section 202.
 
 #### (k) Denial of preferential tariff treatment under the United States–Colombia Trade Promotion Agreement
 
 If U.S. Customs and Border Protection or U.S. Immigration and Customs Enforcement of the Department of Homeland Security finds indications of a pattern of conduct by an importer, exporter, or producer of false or unsupported representations that goods qualify under the rules of origin provided for in section 203 of the United States–Colombia Trade Promotion Agreement Implementation Act, U.S. Customs and Border Protection, in accordance with regulations issued by the Secretary of the Treasury, may suspend preferential tariff treatment under the United States–Colombia Trade Promotion Agreement to entries of identical goods covered by subsequent representations by that importer, exporter, or producer until U.S. Customs and Border Protection determines that representations of that person are in conformity with such section 203.
 
-#### (<i>l</i>) Denial of preferential tariff treatment under the United States–Panama Trade Promotion Agreement
+#### (l) Denial of preferential tariff treatment under the United States–Panama Trade Promotion Agreement
 
 If U.S. Customs and Border Protection or U.S. Immigration and Customs Enforcement of the Department of Homeland Security finds indications of a pattern of conduct by an importer, exporter, or producer of false or unsupported representations that goods qualify under the rules of origin provided for in section 203 of the United States–Panama Trade Promotion Agreement Implementation Act, U.S. Customs and Border Protection, in accordance with regulations issued by the Secretary of the Treasury, may suspend preferential tariff treatment under the United States–Panama Trade Promotion Agreement to entries of identical goods covered by subsequent representations by that importer, exporter, or producer until U.S. Customs and Border Protection determines that representations of that person are in conformity with such section 203.
 
@@ -118,6 +118,8 @@ If U.S. Customs and Border Protection or U.S. Immigration and Customs Enforcemen
 
 <i>For termination of amendment by section 107(c) of Pub. L. 108–77, see Effective and Termination Dates of 2003 Amendment note below.</i>
 
+<i>For termination of amendment by section 501(c) of Pub. L. 100–449, see Effective and Termination Dates of 1988 Amendment note below.</i>
+
 #### References in Text
 
 Section 1303 of this title, referred to in subsec. (b), is defined in section 1677(26) of this title to mean section 1303 as in effect on the day before Jan. 1, 1995.
@@ -126,11 +128,11 @@ Section 202 of the United States-Chile Free Trade Agreement Implementation Act, 
 
 Section 203 of the United States-Peru Trade Promotion Agreement Implementation Act, referred to in subsec. (i), is section 203 of Pub. L. 110–138, which is set out in a note under section 3805 of this title.
 
-Section 202 of the United States–Korea Free Trade Agreement Implementation Act, referred to in subsec. (j), is section 202 of Pub. L. 112–41, which is set out in a note under section 3805 of this title.
+Section 202 of the United States-Korea Free Trade Agreement Implementation Act, referred to in subsec. (j), is section 202 of Pub. L. 112–41, which is set out in a note under section 3805 of this title.
 
-Section 203 of the United States–Colombia Trade Promotion Agreement Implementation Act, referred to in subsec. (k), is section 203 of Pub. L. 112–42, which is set out in a note under section 3805 of this title.
+Section 203 of the United States-Colombia Trade Promotion Agreement Implementation Act, referred to in subsec. (k), is section 203 of Pub. L. 112–42, which is set out in a note under section 3805 of this title.
 
-Section 203 of the United States–Panama Trade Promotion Agreement Implementation Act, referred to in subsec. (<i>l</i>), is section 203 of Pub. L. 112–43, which is set out in a note under section 3805 of this title.
+Section 203 of the United States-Panama Trade Promotion Agreement Implementation Act, referred to in subsec. (l), is section 203 of Pub. L. 112–43, which is set out in a note under section 3805 of this title.
 
 #### Codification
 
@@ -150,7 +152,7 @@ Provisions relating to decisions of the collector, and appeals therefrom to the 
 
 Subsec. (k). Pub. L. 112–42, §§107(c), 205(b), temporarily added subsec. (k). See Effective and Termination Dates of 2011 Amendment note below.
 
-Subsec. (<i>l</i>). Pub. L. 112–43, §§107(c), 205(b), temporarily added subsec. (<i>l</i>). See Effective and Termination Dates of 2011 Amendment note below.
+Subsec. (l). Pub. L. 112–43, §§107(c), 205(b), temporarily added subsec. (l). See Effective and Termination Dates of 2011 Amendment note below.
 
 <b>2009</b>—Subsec. (a). Pub. L. 111–3, in introductory provisions, substituted “section 1520 of this title (relating to refunds), and section 6501 of title 26 (but only with respect to taxes imposed under chapters 51 and 52 of such title)” for “and section 1520 of this title (relating to refunds)”.
 
@@ -188,7 +190,7 @@ Pub. L. 103–182, §412(a), inserted “the North American Free Trade Agreement
 
 Subsec. (c)(1). Pub. L. 103–182, §208(1), inserted in fourth sentence “, or with respect to a determination of origin under section 3332 of this title,” after “with respect to any one category of merchandise”. See Construction of 1993 Amendment note below.
 
-Pub. L. 103–182, §645(3), substituted first two sentences, including subpars. (A) to (D), for former first sentence which read as follows: “A protest of a decision under subsection (a) of this section shall be filed in writing with the appropriate customs officer designated in regulations prescribed by the Secretary, setting forth distinctly and specifically each decision described in subsection (a) of this section as to which protest is made; each category of merchandise affected by each such decision as to which protest is made; and the nature of each objection and reasons therefor.” See Construction of 1993 Amendment note below.
+Pub. L. 103–182, §645(3), substituted first two sentences, including subpars. (A) to (D), for former first sentence which read as follows: “A protest of a decision under subsection (a) of this section shall be filed in writing with the appropriate customs officer designated in regulations prescribed by the Secretary, setting forth distinctly and specifically each decision described in subsection (a) of this section as to which protest is made; each category of merchandise affected byeach such decision as to which protest is made; and the nature of each objection and reasons therefor.” See Construction of 1993 Amendment note below.
 
 Subsec. (c)(2). Pub. L. 103–182, §208(2), added subpar. (E) and redesignated former subpar. (E) as (F) and substituted “clauses (A) through (E)” for “clauses (A) through (D)”. See Construction of 1993 Amendment note below.
 
@@ -200,7 +202,7 @@ Subsec. (d). Pub. L. 103–182, §645(6), substituted “Customs Service” for 
 
 Subsecs. (e), (f). Pub. L. 103–182, §208(3), added subsecs. (e) and (f).
 
-<b>1988</b>—Subsec. (b). Pub. L. 100–449 inserted “, or review by a binational panel of a determination to which section 1516a(g)(2) of this title applies is commenced pursuant to section 1516a(g) of this title and article 1904 of the United States-Canada Free-Trade Agreement” before period at end.
+<b>1988</b>—Subsec. (b). Pub. L. 100–449 temporarily inserted “, or review by a binational panel of a determination to which section 1516a(g)(2) of this title applies is commenced pursuant to section 1516a(g) of this title and article 1904 of the United States-Canada Free-Trade Agreement” before period at end. See Effective and Termination Dates of 1988 Amendment note below.
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–514 struck out “as defined in section 1677(9)(C), (D), (E), and (F) of this title” after “domestic interested parties”.
 
@@ -214,7 +216,7 @@ Subsec. (b). Pub. L. 96–417, §601(5), redesignated the United States Customs 
 
 Subsec. (b). Pub. L. 96–39, §1001(b)(3)(D), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c)(1). Pub. L. 96–39, §1001(b)(3)(C), (E), redesignated former subsec. (b)(1) as (c)(1) and substituted provisions that, except as provided in sections 1485(d) and 1557(b) of this title, protests may be filed by importers or consignees or their sureties, persons payinga charge or exaction, persons seeking entry or delivery, persons filing a claim for drawback, and authorized agents of such persons for provisions that, except as otherwise provided in section 1557(b) of this title, protests could be filed only by importers, consignees, or the authorized agents of persons paying any charges, or exactions, persons filing claims for drawback, or persons seeking entry or delivery.
+Subsec. (c)(1). Pub. L. 96–39, §1001(b)(3)(C), (E), redesignated former subsec. (b)(1) as (c)(1) and substituted provisions that, except as provided in sections 1485(d) and 1557(b) of this title, protests may be filed by importers or consignees or their sureties, persons paying a charge or exaction, persons seeking entry or delivery, persons filing a claim for drawback, and authorized agents of such persons for provisions that, except as otherwise provided in section 1557(b) of this title, protests could be filed only by importers, consignees, or the authorized agents of persons paying any charges, or exactions, persons filing claims for drawback, or persons seeking entry or delivery.
 
 Subsec. (c)(2). Pub. L. 96–39, §1001(b)(3)(C), (F), redesignated former subsec. (b)(2) as (c)(2) and inserted provision that a protest by a surety which has an unsatisfied legal claim under its bond may be filed within 90 days from the date of mailing of notice of demand for payment against its bond and that, if another party has not filed a timely protest, the surety's protest shall certify that it is not being filed collusively to extend another authorized person's time to protest as specified in this subsection.
 
@@ -224,9 +226,9 @@ Subsec. (d). Pub. L. 96–39, §1001(b)(3)(C), redesignated former subsec. (c) a
 
 #### Effective and Termination Dates of 2011 Amendment
 
-Amendment by Pub. L. 112–43 effective Oct. 21, 2011, applicable with respect to Panama on the date the United States–Panama Trade Promotion Agreement enters into force, and to cease to be effective on the date the Agreement terminates, see section 107(b), (c) of Pub. L. 112–43, set out in a note under section 3805 of this title.
+Amendment by Pub. L. 112–43 effective Oct. 21, 2011, applicable with respect to Panama on the date the United States–Panama Trade Promotion Agreement enters into force (Oct. 31, 2012), and to cease to be effective on the date the Agreement terminates, see section 107(b), (c) of Pub. L. 112–43, set out in a note under section 3805 of this title.
 
-Amendment by Pub. L. 112–42 effective Oct. 21, 2011, applicable with respect to Colombia on the date the United States–Columbia Trade Promotion Agreement enters into force, and to cease to be effective on the date the Agreement terminates, see section 107(b), (c) of Pub. L. 112–42, set out in a note under section 3805 of this title.
+Amendment by Pub. L. 112–42 effective Oct. 21, 2011, applicable with respect to Colombia on the date the United States–Colombia Trade Promotion Agreement enters into force (May 15, 2012), and to cease to be effective on the date the Agreement terminates, see section 107(b), (c) of Pub. L. 112–42, set out in a note under section 3805 of this title.
 
 Amendment by Pub. L. 112–41 effective Oct. 21, 2011, applicable with respect to Korea on the date the United States–Korea Free Trade Agreement enters into force (Mar. 15, 2012), and to cease to be effective on the date the Agreement terminates, see section 107(b), (c) of Pub. L. 112–41, set out in a note under section 3805 of this title.
 
@@ -322,7 +324,7 @@ Pub. L. 100–690, title VII, §7361(c), Nov. 18, 1988, 102 Stat. 4474, provided
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, set out as a note under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L.99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

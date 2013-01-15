@@ -8,7 +8,7 @@ Any person who with respect to any tax payable by stamps—
 
 #### (2) Instruments
 
-&emsp;Makes, signs, issues, or accepts, or causes to be made, signed, issued, or accepted, any instrument, document, or paper of any kind ordescription whatsoever without the full amount of tax thereon being duly paid; or
+&emsp;Makes, signs, issues, or accepts, or causes to be made, signed, issued, or accepted, any instrument, document, or paper of any kind or description whatsoever without the full amount of tax thereon being duly paid; or
 
 #### (3) Disposal and receipt of stamped packages
 
@@ -16,7 +16,7 @@ Any person who with respect to any tax payable by stamps—
 
 &emsp;&emsp;(A) Transfers or receives (whether by sale, gift, or otherwise) such container knowing it to be empty or to contain such other contents; or
 
-&emsp;&emsp;(B) Stamps, brands, or marks such container, or otherwise produces such as stamped, branded, or marked container, knowing it to be empty or to contain such other contents;
+&emsp;&emsp;(B) Stamps, brands, or marks such container, or otherwise produces such as stamped, branded, or marked container,knowing it to be empty or to contain such other contents;
 
 > &emsp;shall be liable for each such offense to a penalty of $50.
 

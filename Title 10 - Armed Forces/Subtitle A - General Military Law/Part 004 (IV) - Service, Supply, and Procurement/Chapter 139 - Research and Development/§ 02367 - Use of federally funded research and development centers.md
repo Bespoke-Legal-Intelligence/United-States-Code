@@ -42,7 +42,7 @@ Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical section
 
 #### Effective Date of 1991 Amendment
 
-Section 256(a)(2) of Pub. L. 102–190 provided that:
+Pub. L. 102–190, div. A, title II, §256(a)(2), Dec. 5, 1991, 105 Stat. 1330, provided that:
 
 “(A) Paragraph (1) of subsection (d) of section 2367 of title 10, United States Code, as added by paragraph (1),shall take effect with respect to the budget submitted for fiscal year 1994.
 
@@ -50,5 +50,5 @@ Section 256(a)(2) of Pub. L. 102–190 provided that:
 
 #### GAO Study; Report
 
-Section 101(c) \[title X, §912(b), (c)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 912(b), (c) of title IX, formerly title IV, of Pub. L. 99–661, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, directed Comptroller General to conduct a study of national defense role of federally funded research and development centers and submit a report to Congress not later than one year after Oct. 18, 1986.
+Pub. L. 99–500, §101(c) \[title X, §912(b), (c)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–146, Pub. L. 99–591, §101(c) \[title X, §912(b), (c)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–146, and Pub. L. 99–661, div. A, title IX, formerly title IV, §912(b), (c), Nov. 14, 1986, 100 Stat. 3926, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, directed Comptroller General to conduct a study of national defense role of federally funded research and development centers and submit a report to Congress not later than one year after Oct. 18, 1986.
 

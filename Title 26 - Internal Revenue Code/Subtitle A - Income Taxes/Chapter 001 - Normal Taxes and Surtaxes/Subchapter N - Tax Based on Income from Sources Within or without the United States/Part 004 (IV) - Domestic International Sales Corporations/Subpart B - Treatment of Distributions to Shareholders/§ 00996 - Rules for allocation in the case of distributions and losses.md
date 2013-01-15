@@ -66,7 +66,7 @@ Any actual distribution made during a taxable year shall be treated as being mad
 
 #### (2) Reductions of basis
 
-&emsp;The portion of an actual distribution made out of previously taxed income shall reduce the basis of the stock with respect to which it is made, and to the extent that it exceeds the adjusted basis of such stock, shall be treated as gain from the sale or exchange of property. In the case of stock includible in the gross estate of a decedent for which an election is made under section 2032 (relating to alternate valuation), this paragraph shall not apply to any distribution made after the date of the decedent's death and before the alternate valuation date provided by section 2032.
+&emsp;The portion of an actual distribution made out of previously taxed income shall reduce the basis of the stock with respect to which it is made, and to the extent that it exceeds the adjusted basis of such stock, shall be treatedas gain from the sale or exchange of property. In the case of stock includible in the gross estate of a decedent for which an election is made under section 2032 (relating to alternate valuation), this paragraph shall not apply to any distribution made after the date of the decedent's death and before the alternate valuation date provided by section 2032.
 
 #### (f) Definition of divisions of earnings and profits
 
@@ -82,7 +82,7 @@ For purposes of this part:
 
 #### (3) Other earnings and profits
 
-&emsp;The earnings and profits for a taxable year which are described in neither paragraph (1)nor (2) shall constitute the other earnings and profits for such year.
+&emsp;The earnings and profits for a taxable year which are described in neither paragraph (1) nor (2) shall constitute the other earnings and profits for such year.
 
 #### (g) Effectively connected income
 

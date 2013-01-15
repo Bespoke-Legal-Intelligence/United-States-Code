@@ -32,7 +32,7 @@ Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of P
 
 #### Short Title
 
-Section 60008(a) of Pub. L. 103–322 provided that: “This section \[enacting this section\] may be cited as the ‘Drive-By Shooting Prevention Act of 1994’.”
+Pub. L. 103–322, title VI, §60008(a), Sept. 13, 1994, 108 Stat. 1971, provided that: “This section \[enacting this section\] may be cited as the ‘Drive-By Shooting Prevention Act of 1994’.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by “or”.</i>
 

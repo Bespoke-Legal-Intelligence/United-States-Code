@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(D) provide food and nutritional support for children affected by HIV/AIDS and to communities and households caring for children affected by HIV/AIDS; and
 
-&emsp;&emsp;(E) in communities where HIV/AIDS and food insecurity are highly prevalent, supportprograms to address these often intersecting health problems through community-based assistance programs, with an emphasis on sustainable approaches.
+&emsp;&emsp;(E) in communities where HIV/AIDS and food insecurity are highly prevalent, support programs to address these often intersecting health problems through community-based assistance programs, with an emphasis on sustainable approaches.
 
 #### (2) Authorization of appropriations
 

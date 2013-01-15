@@ -2,7 +2,7 @@
 
 #### (a) Office of Solid Waste
 
-The Administrator shall establish within the Environmental Protection Agency an Office of Solid Waste (hereinafter referred to as the “Office”) to be headed by an Assistant Administrator of the Environmental Protection Agency. The duties and responsibilities (other than duties and responsibilities relating to research and development) of the Administrator under this chapter (as modified by applicable reorganization plans) shall be carried out through the Office.
+The Administrator shall establish within the Environmental Protection Agency an Office ofSolid Waste (hereinafter referred to as the “Office”) to be headed by an Assistant Administrator of the Environmental Protection Agency. The duties and responsibilities (other than duties and responsibilities relating to research and development) of the Administrator under this chapter (as modified by applicable reorganization plans) shall be carried out through the Office.
 
 #### (b) Interagency Coordinating Committee
 
@@ -12,7 +12,7 @@ The Administrator shall establish within the Environmental Protection Agency an 
 
 &emsp;(A) the May 1979 Memorandum of Understanding on Energy Recovery from Municipal Solid Waste between the Environmental Protection Agency and the Department of Energy;
 
-&emsp;(B) the May 30, 1978, Interagency Agreement between the Department of Commerce and theEnvironmental Protection Agency on the Implementation of the Resource Conservation and Recovery Act \[42 U.S.C. 6901 et seq.\]; and
+&emsp;(B) the May 30, 1978, Interagency Agreement between the Department of Commerce and the Environmental Protection Agency on the Implementation of the Resource Conservation and Recovery Act \[42 U.S.C. 6901 et seq.\]; and
 
 &emsp;(C) any subsequent agreements between these agencies or other Federal agencies which address Federal resource recovery or conservation activities.
 
@@ -34,7 +34,7 @@ Pub. L. 96–482 designated existing provisions as subsec. (a) and added subsec.
 
 #### Effective Date of 1980 Amendment
 
-Section 307(c) of Pub. L. 96–510 provided that: “The amendment made by subsection (a) \[amending this section\] shall become effective ninety days after the date of the enactment of this Act \[Dec. 11, 1980\].”
+Pub. L. 96–510, title III, §307(c), Dec. 11, 1980, 94 Stat. 2810, provided that: “The amendment made by subsection (a) \[amending this section\] shall become effective ninety days after the date of the enactment of this Act \[Dec. 11, 1980\].”
 
 #### Transfer of Functions
 

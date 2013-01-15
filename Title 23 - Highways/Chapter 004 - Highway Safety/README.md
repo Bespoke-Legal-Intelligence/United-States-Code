@@ -6,18 +6,17 @@
 | [402\.](%C2%A7%2000402%20-%20Highway%20safety%20programs.md) | Highway safety programs. |
 | [403\.](%C2%A7%2000403%20-%20Highway%20safety%20research%20and%20development.md) | Highway safety research and development. |
 | [404\.](%C2%A7%2000404%20-%20National%20Highway%20Safety%20Advisory%20Committee.md) | National Highway Safety Advisory Committee. |
-| [405\.](%C2%A7%2000405%20-%20Occupant%20protection%20incentive%20grants.md) | Occupant protection incentive grants. |
-| [406\.](%C2%A7%2000406%20-%20Safety%20belt%20performance%20grants.md) | Safety belt performance grants. |
-| [407\.](%C2%A7%2000407%20-%20Innovative%20project%20grants.md) | Innovative project grants. |
-| [408\.](%C2%A7%2000408%20-%20State%20traffic%20safety%20information%20system%20improvements.md) | State traffic safety information system improvements. |
+| [405\.](%C2%A7%2000405%20-%20National%20priority%20safety%20programs.md) | National priority safety programs. |
+| \[406 to 408. Repealed.\] |  |
 | [409\.](%C2%A7%2000409%20-%20Discovery%20and%20admission%20as%20evidence%20of%20certain%20reports%20and%20surveys.md) | Discovery and admission as evidence of certain reports and surveys. |
-| [410\.](%C2%A7%2000410%20-%20Alcohol-impaired%20driving%20countermeasures.md) | Alcohol-impaired driving countermeasures. |
-| [411\.](%C2%A7%2000411%20-%20State%20highway%20safety%20data%20improvements.md) | State highway safety data improvements. |
+| \[410, 411. Repealed.\] |  |
 | [412\.](%C2%A7%2000412%20-%20Agency%20accountability.md) | Agency accountability. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2012</b>—Pub. L. 112–141, div. C, title I, §§31105(b), 31109(b)–(f), July 6, 2012, 126 Stat. 755–757, substituted “National priority safety programs” for “Occupant protection incentive grants” in item 405 and struck out items 406 “Safety belt performance grants”, 407 “Innovative project grants”, 408 “State traffic safety information system improvements”, 410 “Alcohol-impaired driving countermeasures”, and 411 “State highway safety data improvements”.
 
 <b>2005</b>—Pub. L. 109–59, title II, §§2005(b), 2006(b), 2008(b), Aug. 10, 2005, 119 Stat. 1527, 1529, 1535, substituted “Safety belt performance grants” for “School bus driver training” in item 406 and “State traffic safety information system improvements” for “Alcohol traffic safety programs” in item 408 and added item 412.
 
@@ -48,11 +47,8 @@
 - [&sect; 00402 - Highway safety programs](%C2%A7%2000402%20-%20Highway%20safety%20programs.md)
 - [&sect; 00403 - Highway safety research and development](%C2%A7%2000403%20-%20Highway%20safety%20research%20and%20development.md)
 - [&sect; 00404 - National Highway Safety Advisory Committee](%C2%A7%2000404%20-%20National%20Highway%20Safety%20Advisory%20Committee.md)
-- [&sect; 00405 - Occupant protection incentive grants](%C2%A7%2000405%20-%20Occupant%20protection%20incentive%20grants.md)
-- [&sect; 00406 - Safety belt performance grants](%C2%A7%2000406%20-%20Safety%20belt%20performance%20grants.md)
-- [&sect; 00407 - Innovative project grants](%C2%A7%2000407%20-%20Innovative%20project%20grants.md)
-- [&sect; 00408 - State traffic safety information system improvements](%C2%A7%2000408%20-%20State%20traffic%20safety%20information%20system%20improvements.md)
+- [&sect; 00405 - National priority safety programs](%C2%A7%2000405%20-%20National%20priority%20safety%20programs.md)
+- [&sect; 00406 to 408 - Repealed. Pub. L. 112&#8211;141, div. C, title I, &sect;31109(b)&#8211;(d), July 6, 2012, 126 Stat. 756](%C2%A7%2000406%20to%20408%20-%20Repealed.%20Pub.%20L.%20112%E2%80%93141%2C%20div.%20C%2C%20title%20I%2C%20%C2%A731109%28b%29%E2%80%93%28d%29%2C%20July%206%2C%202012%2C%20126%20Stat.%20756.md)
 - [&sect; 00409 - Discovery and admission as evidence of certain reports and surveys](%C2%A7%2000409%20-%20Discovery%20and%20admission%20as%20evidence%20of%20certain%20reports%20and%20surveys.md)
-- [&sect; 00410 - Alcohol-impaired driving countermeasures](%C2%A7%2000410%20-%20Alcohol-impaired%20driving%20countermeasures.md)
-- [&sect; 00411 - State highway safety data improvements](%C2%A7%2000411%20-%20State%20highway%20safety%20data%20improvements.md)
+- [&sect; 00410, 411 - Repealed. Pub. L. 112&#8211;141, div. C, title I, &sect;31109(e), (f), July 6, 2012, 126 Stat. 757](%C2%A7%2000410%2C%20411%20-%20Repealed.%20Pub.%20L.%20112%E2%80%93141%2C%20div.%20C%2C%20title%20I%2C%20%C2%A731109%28e%29%2C%20%28f%29%2C%20July%206%2C%202012%2C%20126%20Stat.%20757.md)
 - [&sect; 00412 - Agency accountability](%C2%A7%2000412%20-%20Agency%20accountability.md)

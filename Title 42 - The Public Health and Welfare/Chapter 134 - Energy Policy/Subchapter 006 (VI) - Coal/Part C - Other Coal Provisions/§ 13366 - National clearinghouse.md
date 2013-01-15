@@ -20,7 +20,7 @@
 
 &emsp;(G) encouraging, during the testing of technologies, the use of coal from a variety of domestic sources, and collecting or developing, or both, complete listings of test results using coals from all sources;
 
-&emsp;(H) establishing and maintaining an index or compilation of research projects relating to clean coal technology carried out throughout the world; and
+&emsp;(H) establishing and maintaining an index or compilation of research projects relating toclean coal technology carried out throughout the world; and
 
 &emsp;(I) conducting economic modeling for feasibility of projects.
 

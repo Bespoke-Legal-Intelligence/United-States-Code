@@ -82,7 +82,7 @@ For purposes of this section—
 
 #### (3) Hedge
 
-&emsp;The term “hedge” means any position which manages the dealer's risk of interest rate or price changes or currency fluctuations, including any position which is reasonably expectedto become a hedge within 60 days after the acquisition of the position.
+&emsp;The term “hedge” means any position which manages the dealer's risk of interest rate or price changes or currency fluctuations, including any position which is reasonably expected to become a hedge within 60 days after the acquisition of the position.
 
 #### (4) Special rules for certain receivables
 
@@ -270,7 +270,7 @@ Change in method of accounting.—In the case of any taxpayer required by the am
 
 #### Effective Date of 1997 Amendment
 
-Section 1001(d) of Pub. L. 105–34, as amended by Pub. L. 105–206, title VI, §6010(a)(4), July 22, 1998, 112 Stat. 813, provided that:
+Pub. L. 105–34, title X, §1001(d), Aug. 5, 1997, 111 Stat. 907, as amended by Pub. L. 105–206, title VI, §6010(a)(4), July 22, 1998, 112 Stat. 813, provided that:
 
 “(1)
 
@@ -320,7 +320,7 @@ year spread of adjustments.—In the case of a taxpayer who elects under subsect
 
 #### Effective Date
 
-Section 13223(c) of Pub. L. 103–66 provided that:
+Pub. L. 103–66, title XIII, §13223(c), Aug. 10, 1993, 107 Stat. 484, provided that:
 
 “(1)
 

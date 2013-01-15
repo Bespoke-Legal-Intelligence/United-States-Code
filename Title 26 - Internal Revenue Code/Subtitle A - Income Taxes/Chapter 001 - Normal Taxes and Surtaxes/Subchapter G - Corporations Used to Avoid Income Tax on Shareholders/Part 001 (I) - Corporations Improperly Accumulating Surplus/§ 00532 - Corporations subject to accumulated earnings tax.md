@@ -36,7 +36,7 @@ Amendment by Pub. L. 109–135 effective as if included in the provision of the 
 
 #### Effective Date of 1997 Amendment
 
-Section 1124 of Pub. L. 105–34 provided that: “The amendments made by this subtitle \[subtitle C (§§1121–1124) of title XI of Pub. L. 105–34, enacting section 1296 of this title, amending this section and sections 542, 551, 852, 1291, 1293, 1296 to 1298, and 4982 of this title, redesignating subpart C of part VI of subchapter P of this chapter as subpart D of part VI of subchapter P of this chapter, and renumbering sections 1296 and 1297 of this title as sections 1297 and 1298, respectively, of this title\] shall apply to—
+Pub. L. 105–34, title XI, §1124, Aug. 5, 1997, 111 Stat. 978, provided that: “The amendments made by this subtitle \[subtitle C (§§1121–1124) of title XI of Pub. L. 105–34, enacting section 1296 of this title, amending this section and sections 542, 551, 852, 1291, 1293, 1296 to 1298, and 4982 of this title, redesignating subpart C of part VI of subchapter P of this chapter as subpart D of part VI of subchapter P of this chapter, and renumbering sections 1296 and 1297 of this title as sections 1297 and 1298, respectively, of this title\] shall apply to—
 
 &emsp;“(1) taxable years of United States persons beginning after December 31, 1997, and
 
@@ -44,9 +44,9 @@ Section 1124 of Pub. L. 105–34 provided that: “The amendments made by this s
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 applicable to taxable years of foreign corporations beginning after Dec. 31,1986, see section 1235(h) of Pub. L. 99–514, set out as an Effective Date note under section 1291 of this title.
+Amendment by Pub. L. 99–514 applicable to taxable years of foreign corporations beginning after Dec. 31, 1986, see section 1235(h) of Pub. L. 99–514, set out as an Effective Date note under section 1291 of this title.
 
 #### Effective Date of 1984 Amendment
 
-Section 58(c) of Pub. L. 98–369 provided that: “The amendments made by this section \[amending this section and section 535 of this title\] shall apply to taxable years beginning after the date of the enactment of this Act \[July 18, 1984\].”
+Pub. L. 98–369, div. A, title I, §58(c), July 18, 1984, 98 Stat. 576, provided that: “The amendments made by this section \[amending this section and section 535 of this title\] shall apply to taxable years beginning after the date of the enactment of this Act \[July 18, 1984\].”
 

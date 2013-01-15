@@ -30,7 +30,7 @@ Except as provided in subsection (d)(3) of this section and section 4613(g) of t
 
 #### (1) In general
 
-&emsp;The Secretary shall terminate or suspend an order at the end of the marketing year during which a referendum is conducted under subsection (c) or (d) of this section if the Secretary determines that continuation of an order is not approved under section 4611 of this title.
+&emsp;The Secretary shall terminate or suspend an order at the end of the marketing year duringwhich a referendum is conducted under subsection (c) or (d) of this section if the Secretary determines that continuation of an order is not approved under section 4611 of this title.
 
 #### (2) Subsequent referendum
 
@@ -44,7 +44,7 @@ Except as provided in subsection (d)(3) of this section and section 4613(g) of t
 
 &emsp;Section 4611 of this title shall apply in determining the effectiveness of the subsequent amended order under paragraph (2).
 
-(Pub. L. 98–590, §13, Oct. 30, 1984, 98 Stat. 3123; Pub. L. 101–624, title XIX, §1985, Nov. 28, 1990, 104 Stat. 3907; Pub. L. 105–185, title VI, §605(<i>l</i>), June 23, 1998, 112 Stat. 601.)
+(Pub. L. 98–590, §13, Oct. 30, 1984, 98 Stat. 3123; Pub. L. 101–624, title XIX, §1985, Nov. 28, 1990, 104 Stat. 3907; Pub. L. 105–185, title VI, §605(l), June 23, 1998, 112 Stat. 601.)
 
 #### Amendments
 

@@ -34,7 +34,7 @@ Use of income.—Subject to paragraph (3), the Secretary or Administrator may pa
 
 Retention against default.—The Secretary or Administrator may retain and offset any or all of the cash of an obligor in the fund, and any income realized thereon, as part of the Secretary's or Administrator's recovery against the obligor in case of a default by the obligor on an obligation.
 
-(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1616; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(H), (3), Jan. 6, 2006, 119 Stat. 3555; Pub. L. 110–181, div. C, title XXXV, §3522(a)(10)(B), (11), (b), Jan. 28, 2008, 122 Stat. 598.)
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1616; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(H), (3), Jan. 6, 2006, 119 Stat. 3555;Pub. L. 110–181, div. C, title XXXV, §3522(a)(10)(B), (11), (b), Jan. 28, 2008, 122 Stat. 598.)
 
 Historical and Revision Notes
 

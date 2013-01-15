@@ -18,6 +18,10 @@ Historical and Revision Notes
 
 no source.
 
+#### Short Title of 2012 Amendment
+
+Pub. L. 112–194, §1, Oct. 5, 2012, 126 Stat. 1445, provided that: “This Act \[enacting section 1909 of this title, amending section 2784 of Title 10, Armed Forces, enacting provisions set out as notes under section 1909 of this title and section 5701 of Title 5, Government Organization and Employees, and amending provisions set out as a note under section 5701 of Title 5\] may be cited as the ‘Government Charge Card Abuse Prevention Act of 2012’.”
+
 #### Short Title of 2008 Act
 
 Pub. L. 110–417, \[div. A\], title VIII, §861, Oct. 14, 2008, 122 Stat. 4546, provided that: “This subtitle \[subtitle G (§§861–874) of title VIII of Pub. L. 110–417, see Tables for classification\] may be cited as the ‘Clean Contracting Act of 2008’.”
@@ -58,7 +62,7 @@ Pub. L. 98–191, §1, Dec. 1, 1983, 97 Stat. 1325, provided: “That this Act \
 
 #### Short Title of 1979 Act
 
-Pub. L. 96–83, §1(a), Oct. 10, 1979, 93 Stat. 648, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Office of Federal Procurement Policy Act Amendments of 1979’.”
+Pub. L. 96–83, §1(a), Oct. 10, 1979, 93 Stat. 648, provided that: “This Act \[see Tables for classification\] may becited as the ‘Office of Federal Procurement Policy Act Amendments of 1979’.”
 
 #### Short Title of 1974 Act
 
@@ -66,7 +70,7 @@ Pub. L. 93–400, §1(a), Aug. 30, 1974, 88 Stat. 796, as amended by Pub. L. 103
 
 #### Short Title of 1949 Act
 
-Act June 30, 1949, ch. 288, §1(a), 63 Stat. 377, as amended by Pub. L. 103–355, title X, §10005(a)(2), Oct. 13, 1994,108 Stat. 3406; Pub. L. 107–217, §6(b), Aug. 21, 2002, 116 Stat. 1304; Pub. L. 108–178, §2(b)(1), Dec. 15, 2003, 117 Stat. 2640, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Federal Property and Administrative Services Act of 1949’.”
+Act June 30, 1949, ch. 288, §1(a), 63 Stat. 377, as amended by Pub. L. 103–355, title X, §10005(a)(2), Oct. 13, 1994, 108 Stat. 3406; Pub. L. 107–217, §6(b), Aug. 21, 2002, 116 Stat. 1304; Pub. L. 108–178, §2(b)(1), Dec. 15, 2003, 117 Stat. 2640, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Federal Property and Administrative Services Act of 1949’.”
 
 \[Pub. L. 107–217, §6(b), which had repealed section 1(a) of act June 30, 1949, set out above, was itself repealed effective Aug. 21, 2002, by Pub. L. 108–178, §2(b)(1), insofar as it related to section 1(a) of act June 30, 1949, and Pub. L. 108–178, §2(b)(1), further provided that section 1(a) of act June 30, 1949, was revived to read as if Pub. L. 107–217, §6(b), had not been enacted.\]
 

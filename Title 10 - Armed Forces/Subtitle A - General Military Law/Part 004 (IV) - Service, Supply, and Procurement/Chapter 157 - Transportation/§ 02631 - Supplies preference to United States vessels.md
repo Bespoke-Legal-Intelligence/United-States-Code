@@ -38,7 +38,7 @@ The word “supplies” is substituted for the words “coal, provisions, fodder
 
 #### Effective Date of 1993 Amendment
 
-Section 315(b) of Pub. L. 103–160 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to a vessel for which reflagging or repair work is necessary to be performed after the date of the enactment of this Act \[Nov. 30, 1993\].”
+Pub. L. 103–160, div. A, title III, §315(b), Nov. 30, 1993, 107 Stat. 1619, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to a vessel for which reflagging or repair work is necessary to be performed after the date of the enactment of this Act \[Nov. 30, 1993\].”
 
 #### Obtaining Carriage by Vessel: Criterion Regarding Overhaul, Repair, and Maintenance of Vessels in the United States
 

@@ -22,5 +22,5 @@ Subsec. (b)(1). Pub. L. 99–576, §701(4)(B), substituted “service or by abse
 
 #### Effective Date of 1990 Amendment
 
-Section 8052(b) of Pub. L. 101–508 provided that: “The amendments made by subsection (a) \[amending this section and sections 310 and 331 \[now 1110 and 1131\] of this title\] shall take effect with respect to claims filed after October 31, 1990.”
+Pub. L. 101–508, title VIII, §8052(b), Nov. 5, 1990, 104 Stat. 1388–351, provided that: “The amendments made by subsection (a) \[amending this section and sections 310 and 331 \[now 1110 and 1131\] of this title\] shall take effect with respect to claims filed after October 31, 1990.”
 

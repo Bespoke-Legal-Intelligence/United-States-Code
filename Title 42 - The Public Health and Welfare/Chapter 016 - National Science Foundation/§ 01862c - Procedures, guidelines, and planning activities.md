@@ -20,7 +20,7 @@ The Director shall conduct comprehensive planning activities, including surveys 
 
 #### (c) Guidelines
 
-Prior to the issuance of the comprehensive plan required by subsection (d) of this section, and consistent with the Program criteria set forth in section 1862b(c) of this title, the Director shall publish in the Federal Register proposed Program guidelines for public review for a comment period of 30 days. Such guidelines shallprovide detailed information on eligibility, criteria, terms, and conditions and shall include, but not be limited to—
+Prior to the issuance of the comprehensive plan required by subsection (d) of this section, and consistent with the Program criteria set forth in section 1862b(c) of this title, the Director shall publish in the Federal Register proposed Program guidelines for public review for a comment period of 30 days. Such guidelines shall provide detailed information on eligibility, criteria, terms, and conditions and shall include, but not be limited to—
 
 &emsp;(1) definitions for the terms “institutions of higher education”, “private non-profit research organizations”, “research museums”, “consortia”, “facilities”, “facilities primarily devoted to research”, “instrumentation”, “equipment”, “repair”, “renovation”, and “replacement”;
 
@@ -76,5 +76,5 @@ Section was enacted as part of the Academic Research Facilities Modernization Ac
 
 #### Change of Name
 
-Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor,and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 

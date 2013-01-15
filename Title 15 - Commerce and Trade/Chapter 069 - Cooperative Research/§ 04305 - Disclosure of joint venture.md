@@ -12,7 +12,7 @@
 
 > Any party to such venture, acting on such venture's behalf, may file additional disclosure notifications pursuant to this section as are appropriate to extend the protections of section 4303 of this title. In order to maintain the protections of section 4303 of this title, such venture shall, not later than 90 days after a change in its membership, file simultaneously with the Attorney General and the Commission a written notification disclosing such change.
 
-(2) A standards development organization may, not later than 90 days after commencing a standards development activity engaged in for the purpose of developing or promulgating a <sup>1</sup> voluntary consensus standards or not later than 90 days after June 22, 2004, whichever is later, file simultaneously with the Attorney General and the Commission, a written notification disclosing—
+(2) A standards development organization may, not later than 90 days after commencing a standards development activity engaged in for the purpose of developing or promulgating a <sup>1</sup>voluntary consensus standards or not later than 90 days after June 22, 2004, whichever is later, file simultaneously with the Attorney General and the Commission, a written notification disclosing—
 
 &emsp;(A) the name and principal place of business of the standards development organization, and
 
@@ -78,7 +78,7 @@ Subsecs. (d)(2), (e). Pub. L. 103–42, §3(f)(3), substituted “joint venture�
 
 #### Reports on Joint Ventures and United States Competitiveness
 
-Section 4 of Pub. L. 103–42 provided that:
+Pub. L. 103–42, §4, June 10, 1993, 107 Stat. 120, provided that:
 
 “(a)
 

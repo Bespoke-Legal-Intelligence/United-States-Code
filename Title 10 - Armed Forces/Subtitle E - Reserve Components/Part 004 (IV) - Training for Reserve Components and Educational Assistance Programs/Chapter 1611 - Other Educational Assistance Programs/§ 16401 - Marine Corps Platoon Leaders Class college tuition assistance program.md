@@ -72,7 +72,7 @@ Institution of Higher Education Defined.—In this section, the term “institut
 
 #### Amendments
 
-<b>2006</b>—Subsec. (f)(1). Pub. L. 109–163, §687(c)(15)(A), substituted “shall be subject to the repayment provisions of section 303a(e) of title 37” for “may be required to repay the full amount of financial assistance” in introductory provisions.
+<b>2006</b>—Subsec. (f)(1). Pub. L. 109–163, §687(c)(15)(A), substituted “shall be subject to the repayment provisionsof section 303a(e) of title 37” for “may be required to repay the full amount of financial assistance” in introductory provisions.
 
 Subsec. (f)(2). Pub. L. 109–163, §687(c)(15)(B), inserted “Any requirement to repay any portion of financial assistance received under this section shall be administered under the regulations issued under section 303a(e) of title 37.” before “The Secretary of the Navy may waive” in introductory provisions.
 

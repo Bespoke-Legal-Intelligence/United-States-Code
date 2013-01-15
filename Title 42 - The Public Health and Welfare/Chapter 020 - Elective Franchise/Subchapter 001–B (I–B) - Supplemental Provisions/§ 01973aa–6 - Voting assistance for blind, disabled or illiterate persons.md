@@ -6,5 +6,5 @@ Any voter who requires assistance to vote by reason of blindness, disability, or
 
 #### Effective Date
 
-Section 5 of Pub. L. 97–205 provided that this section is effective Jan. 1, 1984.
+Pub. L. 97–205, §5, June 29, 1982, 96 Stat. 135, provided that this section is effective Jan. 1, 1984.
 

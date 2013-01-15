@@ -10,10 +10,13 @@
 | [8036\.](%C2%A7%2008036%20-%20Surgeon%20General%20appointment%3B%20grade.md) | Surgeon General: appointment; grade. |
 | [8037\.](%C2%A7%2008037%20-%20Judge%20Advocate%20General%2C%20Deputy%20Judge%20Advocate%20General%20appointment%3B%20duties.md) | Judge Advocate General, Deputy Judge Advocate General: appointment; duties. |
 | [8038\.](%C2%A7%2008038%20-%20Office%20of%20Air%20Force%20Reserve%20appointment%20of%20Chief.md) | Office of Air Force Reserve: appointment of Chief. |
+| [8039\.](%C2%A7%2008039%20-%20Chief%20of%20Chaplains%20appointment%3B%20duties.md) | Chief of Chaplains: appointment; duties. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2013</b>—Pub. L. 112–239, div. A, title V, §508(b), Jan. 2, 2013, 126 Stat. 1717, added item 8039.
 
 <b>1986</b>—Pub. L. 99–433, title V, §522(g)(1), Oct. 1, 1986, 100 Stat. 1063, amended analysis generally, substituting items 8031 to 8038 for former items 8031 to 8036.
 
@@ -32,3 +35,4 @@
 - [&sect; 08036 - Surgeon General appointment; grade](%C2%A7%2008036%20-%20Surgeon%20General%20appointment%3B%20grade.md)
 - [&sect; 08037 - Judge Advocate General, Deputy Judge Advocate General appointment; duties](%C2%A7%2008037%20-%20Judge%20Advocate%20General%2C%20Deputy%20Judge%20Advocate%20General%20appointment%3B%20duties.md)
 - [&sect; 08038 - Office of Air Force Reserve appointment of Chief](%C2%A7%2008038%20-%20Office%20of%20Air%20Force%20Reserve%20appointment%20of%20Chief.md)
+- [&sect; 08039 - Chief of Chaplains appointment; duties](%C2%A7%2008039%20-%20Chief%20of%20Chaplains%20appointment%3B%20duties.md)

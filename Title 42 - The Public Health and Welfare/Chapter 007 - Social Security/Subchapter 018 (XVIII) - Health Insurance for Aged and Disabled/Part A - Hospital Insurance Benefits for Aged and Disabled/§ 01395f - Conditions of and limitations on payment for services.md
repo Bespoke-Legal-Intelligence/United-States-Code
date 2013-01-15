@@ -48,7 +48,7 @@ Except as provided in subsections (d) and (g) of this section and in section 139
 
 &emsp;(8) in the case of inpatient critical access hospital services, a physician certifies that the individual may reasonably be expected to be discharged or transferred to a hospital within 96 hours after admission to the critical access hospital.
 
-> To the extent provided by regulations, the certification and recertification requirements of paragraph (2) shall be deemed satisfied where, at a later date, a physician, nurse practitioner, clinical nurse specialist, or physician assistant (as the case may be) makes certification of the kind provided in subparagraph (A), (B), (C), or (D) of paragraph (2) (whichever would have applied), but only where such certification is accompanied by such medical and other evidence as may be required by such regulations. With respect to the physician certification required by paragraph (2) for home health services furnished to any individual by a home health agency (other than an agency which is a governmental entity) and with respect to the establishment and review of a plan for such services, the Secretary shall prescribe regulations which shall become effective no later than July 1, 1981, and which prohibit a physician who has a significant ownership interest in, or a significant financial or contractual relationship with, such home health agency from performing such certification and from establishing or reviewing such plan, except that such prohibition shall not apply with respect to a home health agency which is a sole community home health agency (as determined by the Secretary). For purposesof the preceding sentence, service by a physician as an uncompensated officer or director of a home health agency shall not constitute having a significant ownership interest in, or a significant financial or contractual relationship with, such agency. For purposes of paragraph (2)(C), an individual shall be considered to be “confined to his home” if the individual has a condition, due to an illness or injury, that restricts the ability of the individual to leave his or her home except with the assistance of another individual or the aid of a supportive device (such as crutches, a cane, a wheelchair, or a walker), or if the individual has a condition such that leaving his or her home is medically contraindicated. While an individual does not have to be bedridden to be considered “confined to his home”, the condition of the individual should be such that there exists a normal inability to leave home and that leaving home requires a considerable and taxing effort by the individual. Any absence of an individual from the home attributable to the need to receive health care treatment, including regular absences for the purpose of participating in therapeutic, psychosocial, or medical treatment in an adult day-care program that is licensed or certified by a State, or accredited, to furnish adult day-care services in the State shall not disqualify an individual from being considered to be “confined to his home”. Any other absence of an individual from the home shall not so disqualify an individual if the absence is of infrequent or of relatively short duration. For purposes of the preceding sentence, any absence for the purpose of attending a religious service shall be deemed to be an absence of infrequent or short duration. In applying paragraph (1), the Secretary may specify exceptions to the 1 calendar year period specified in such paragraph.
+> To the extent provided by regulations, the certification and recertification requirements of paragraph (2) shall be deemed satisfied where, at a later date, a physician, nurse practitioner, clinical nurse specialist, or physician assistant (as the case may be) makes certification of the kind provided in subparagraph (A), (B), (C), or (D) of paragraph (2) (whichever would have applied), but only where such certification is accompanied by such medical and other evidence as may be required by such regulations. With respect to the physician certification required by paragraph (2) for home health services furnished to any individual by a home health agency (other than an agency which is a governmental entity) and with respect to the establishment and review of a plan for such services, the Secretary shall prescribe regulations which shall become effective no later than July 1, 1981, andwhich prohibit a physician who has a significant ownership interest in, or a significant financial or contractual relationship with, such home health agency from performing such certification and from establishing or reviewing such plan, except that such prohibition shall not apply with respect to a home health agency which is a sole community home health agency (as determined by the Secretary). For purposes of the preceding sentence, service by a physician as an uncompensated officer or director of a home health agency shall not constitute having a significant ownership interest in, or a significant financial or contractual relationship with, such agency. For purposes of paragraph (2)(C), an individual shall be considered to be “confined to his home” if the individual has a condition, due to an illness or injury, that restricts the ability of the individual to leave his or her home except with the assistance of another individual or the aid of a supportive device (such as crutches, a cane, a wheelchair, or a walker), or if the individual has a condition such that leaving his or her home is medically contraindicated. While an individual does not have to be bedridden to be considered “confined to his home”, the condition of the individual should be such that there exists a normal inability to leave home and that leaving home requires a considerable and taxing effort by the individual. Any absence of an individual from the home attributable to the need to receive health care treatment, including regular absences for the purpose of participating in therapeutic, psychosocial, or medical treatment in an adult day-care program that is licensed or certified by a State, or accredited, to furnish adult day-care services in the State shall not disqualify an individual from being considered to be “confined to his home”. Any other absence of an individual from the home shall not so disqualify an individual if the absence is of infrequent or of relatively short duration. For purposes of the preceding sentence, any absence for the purpose of attending a religious service shall be deemed to be an absence of infrequent or short duration. In applying paragraph (1), the Secretary may specify exceptions to the 1 calendar year period specified in such paragraph.
 
 #### (b) Amount paid to provider of services
 
@@ -64,7 +64,7 @@ The amount paid to any provider of services (other than a hospice program provid
 
 &emsp;&emsp;(B) the aggregate rate of increase from January 1, 1981, to the most recent date for which annual data are available in such hospitals in costs per hospital inpatient admission of individuals entitled to benefits under this part is greater than such rate of increase for admissions of such individuals with respect to all hospitals in the United States for such period.
 
-> In the case of any State which has had such a demonstration project reimbursement system in continuous operation since July 1, 1977, the Secretary shall provide under paragraph (3) for continuation of reimbursement to hospitals in the State under such system until the first day of the 37th month beginning after the date the Secretary determines and notifies the Governor of the State that either of the conditions described in subparagraph (A) or (B) of such paragraph has occurred. If, by the end of such 36-month period, the Secretary determines, based on evidence submitted by the Governor of the State, that neither of the conditions described in subparagraph (A) or (B) of paragraph (3) continues to apply, the Secretary shall continue without interruption payment to hospitals in the State under the State's system. If, by the end of such 36-month period, the Secretary determines, based on such evidence, that either of the conditions described in subparagraph (A) or (B) of such paragraph continues to apply, the Secretary shall (i) collect any net excess reimbursement to hospitals in the State during such 36-month period (basing such net excess reimbursement on the net difference, if any, in the rate of increase in costs per hospital inpatient admission under the State system compared to the rate of increase in such costs with respect to all hospitals in the United States over the 36-month period, as measured by including the cumulativesavings under the State system based on the difference in the rate of increase in costs per hospital inpatient admission under the State system as compared to the rate of increase in such costs with respect to all hospitals in the United States between January 1, 1981, and the date of the Secretary's initial notice), and (ii) provide a reasonable period, not to exceed 2 years, for transition from the State system to the national payment system. For purposes of applying paragraph (3), there shall be taken into account incentive payments, and payment adjustments under subsection (b)(3)(B)(ix) or (n) of section 1395ww of this title.
+> In the case of any State which has had such a demonstration project reimbursement system in continuous operation since July 1, 1977, the Secretary shall provide under paragraph (3) for continuation of reimbursement to hospitals in the State under such system until the first day of the 37th month beginning after the date the Secretary determines and notifies the Governor of the State that either of the conditions described in subparagraph (A) or (B) of such paragraph has occurred. If, by the end of such 36-month period, the Secretary determines, based on evidence submitted by the Governor of the State, that neither of the conditions described in subparagraph (A) or (B) of paragraph (3) continues to apply, the Secretary shall continue without interruption payment to hospitals in the State under the State's system. If, by the end of such 36-month period, the Secretary determines, based on such evidence, that either of the conditions described in subparagraph (A) or (B) ofsuch paragraph continues to apply, the Secretary shall (i) collect any net excess reimbursement to hospitals in the State during such 36-month period (basing such net excess reimbursement on the net difference, if any, in the rate of increase in costs per hospital inpatient admission under the State system compared to the rate of increase in such costs with respect to all hospitals in the United States over the 36-month period, as measured by including the cumulative savings under the State system based on the difference in the rate of increase in costs per hospital inpatient admission under the State system as compared to the rate of increase in such costs with respect to all hospitals in the United States between January 1, 1981, and the date of the Secretary's initial notice), and (ii) provide a reasonable period, not to exceed 2 years, for transition from the State system to the national payment system. For purposes of applying paragraph (3), there shall be taken into account incentive payments, and payment adjustments under subsection (b)(3)(B)(ix) or (n) of section 1395ww of this title.
 
 #### (c) No payments to Federal providers of services
 
@@ -126,7 +126,7 @@ For purposes of services for which the reasonable cost thereof is determined und
 
 (B) Notwithstanding subparagraph (A), for hospice care furnished on or after April 1, 1986, the daily rate of payment per day for routine home care shall be $63.17 and the daily rate of payment for other services included in hospice care shall be the daily rate of payment recognized under subparagraph (A) as of July 1, 1985, increased by $10.
 
-(C)(i) With respect to routine home care and other services included in hospice care furnishedon or after January 1, 1990, and on or before September 30, 1990, the payment rates for such care and services shall be 120 percent of such rates in effect as of September 30, 1989.
+(C)(i) With respect to routine home care and other services included in hospice care furnished on or after January 1, 1990, and on or before September 30, 1990, the payment rates for such care and services shall be 120 percent of such rates in effect as of September 30, 1989.
 
 (ii) With respect to routine home care and other services included in hospice care furnished during a subsequent fiscal year (before the first fiscal year in which the payment revisions described in paragraph (6)(D) are implemented), the payment rates for such care and services shall be the payment rates in effect under this subparagraph during the previous fiscal year increased by—
 
@@ -174,7 +174,7 @@ For purposes of services for which the reasonable cost thereof is determined und
 
 (3) Hospice programs providing hospice care for which payment is made under this subsection shall submit to the Secretary such data with respect to the costs for providing such care for each fiscal year, beginning with fiscal year 1999, as the Secretary determines necessary.
 
-(4) The amount paid to a hospice program with respect to the services under section 1395d(a)(5) of this title for which payment may be made under this part shall be equal to an amount established for an office or other outpatient visit for evaluation and management associated with presenting problems of moderate severity and requiring medical decisionmaking of low complexity under the fee schedule established under section 1395w–4(b) of this title, other than the portion of such amount attributable to the practice expense component.
+(4) The amount paid to a hospice program with respect to the services under section 1395d(a)(5)of this title for which payment may be made under this part shall be equal to an amount established for an office or other outpatient visit for evaluation and management associated with presenting problems of moderate severity and requiring medical decisionmaking of low complexity under the fee schedule established under section 1395w–4(b) of this title, other than the portion of such amount attributable to the practice expense component.
 
 (5)
 
@@ -250,7 +250,7 @@ Public availability of data submitted.—The Secretary shall establish procedure
 
 (ii) Revisions in payment implemented pursuant to clause (i) shall result in the same estimated amount of aggregate expenditures under this subchapter for hospice care furnished in the fiscal year in which such revisions in payment are implemented as would have been made under this subchapter for such care in such fiscal year if such revisions had not been implemented.
 
-(E) The Secretary shall consult with hospice programs and the Medicare Payment Advisory Commission regarding the additional data and information to be collected under subparagraph (A) and the payment revisions under subparagraph (D).
+(E) The Secretary shall consult with hospice programs and the Medicare Payment AdvisoryCommission regarding the additional data and information to be collected under subparagraph (A) and the payment revisions under subparagraph (D).
 
 (7) In the case of hospice care provided by a hospice program under arrangements under section 1395x(dd)(5)(D) of this title made by another hospice program, the hospice program that made the arrangements shall bill and be paid for the hospice care.
 
@@ -264,15 +264,15 @@ Public availability of data submitted.—The Secretary shall establish procedure
 
 &emsp;(B) Section 1395m(a)(1)(B) of this title.
 
-&emsp;(C) So much of subparagraph (A) of section 1395<i>l</i>(a)(2) of this title as provides for payment other than of the reasonable cost of such services, as determined under section 1395x(v) of this title.
+&emsp;(C) So much of subparagraph (A) of section 1395l(a)(2) of this title as provides for payment other than of the reasonable cost of such services, as determined under section 1395x(v) of this title.
 
-&emsp;(D) Subclause (II) of clause (i) and clause (ii) of section 1395<i>l</i>(a)(2)(B) of this title.
+&emsp;(D) Subclause (II) of clause (i) and clause (ii) of section 1395l(a)(2)(B) of this title.
 
 #### (k) Payments to home health agencies for durable medical equipment
 
 The amount paid to any home health agency with respect to durable medical equipment for which payment may be made under this part shall be the amount described in section 1395m(a)(1) of this title.
 
-#### (<i>l</i>) Payment for inpatient critical access hospital services
+#### (l) Payment for inpatient critical access hospital services
 
 (1) Except as provided in the subsequent paragraphs of this subsection, the amount of payment under this part for inpatient critical access hospital services is equal to 101 percent of the reasonable costs of the critical access hospital in providing such services.
 
@@ -306,7 +306,7 @@ The amount paid to any home health agency with respect to durable medical equipm
 
 (C) The provisions of subclause (II) of section 1395ww(b)(3)(B)(ix) of this title shall apply with respect to subparagraph (A) for a critical access hospital with respect to a cost reporting period beginning in a fiscal year in the same manner as such subclause applies with respect to subclause (I) of such section for a subsection (d) hospital with respect to such fiscal year.
 
-(5) There shall be no administrative or judicial review under section 1395ff of this title, section 1395<i>oo</i> of this title, or otherwise, of—
+(5) There shall be no administrative or judicial review under section 1395ff of this title, section 1395oo of this title, or otherwise, of—
 
 &emsp;(A) the methodology and standards for determining the amount of payment and reasonable cost under paragraph (3) and payment adjustments under paragraph (4), including selection of periods under section 1395ww(n)(2) of this title for determining, and making estimates or using proxies of, inpatient-bed-days, hospital charges, charity charges, and Medicare share under subparagraph (D) of section 1395ww(n)(2) of this title;
 
@@ -320,9 +320,9 @@ The amount paid to any home health agency with respect to durable medical equipm
 
 #### References in Text
 
-Section 402 of the Social Security Amendments of 1967, referred to in subsec. (b)(3), means section 402 of Pub. L. 90–248, which amended sections 1395b–1 and 1395<i>ll</i> of this title.
+Section 402 of the Social Security Amendments of 1967, referred to in subsec. (b)(3), means section 402 of Pub. L. 90–248, which amended sections 1395b–1 and 1395ll of this title.
 
-Section 222 of the Social Security Amendments of 1972, referred to in subsec. (b)(3), means section 222 of Pub. L. 92–603, which amended sections 1395b–1 and 1395<i>ll</i> of this title and enacted a provision set out as a note under section 1395b–1 of this title.
+Section 222 of the Social Security Amendments of 1972, referred to in subsec. (b)(3), means section 222 of Pub. L. 92–603, which amended sections 1395b–1 and 1395ll of this title and enacted a provision set out as a note under section 1395b–1 of this title.
 
 The Patient Protection and Affordable Care Act, referred to in subsec. (i)(1)(C)(v)(I)(aa), is Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 119. The Act's final passage, clearing it for enrollment, occurred in the House of Representatives on Mar. 21, 2010. For complete classification of this Act to the Code, see Short Title note set out under section 18001 of this title and Tables.
 
@@ -340,7 +340,7 @@ Pub. L. 111–148, §3108(a)(1), substituted “, a clinical nurse specialist, 
 
 Subsec. (a)(2)(C). Pub. L. 111–148, §10605(a), inserted “, or a nurse practitioner or clinical nurse specialist (as those terms are defined in section 1395x(aa)(5) of this title) who is working in collaboration with the physician in accordance with State law, or a certified nurse-midwife (as defined in section 1395x(gg) of this title) as authorized by State law, or a physician assistant (as defined in section 1395x(aa)(5) of this title) under the supervision of the physician,” after “himself or herself”.
 
-Pub. L. 111–148, §6407(a)(1), substituted “such services are or were furnished” for “and such services are or were furnished” and inserted “, and, in the case of a certification made by a physician after January 1, 2010, prior to making such certification the physician must document that the physician himself or herself has hada face-to-face encounter (including through use of telehealth, subject to the requirements in section 1395m(m) of this title, and other than with respect to encounters that are incident to services involved) with the individual within a reasonable timeframe as determined by the Secretary” after “care of a physician”.
+Pub. L. 111–148, §6407(a)(1), substituted “such services are or were furnished” for “and such services are or were furnished” and inserted “, and, in the case of a certification made by a physician after January 1, 2010, prior to making such certification the physician must document that the physician himself or herself has had a face-to-face encounter (including through use of telehealth, subject to the requirements in section 1395m(m) of this title, and other than with respect to encounters that are incident to services involved) with the individual within a reasonable timeframe as determined by the Secretary” after “care of a physician”.
 
 Subsec. (a)(7)(D). Pub. L. 111–148, §3132(b), added subpar. (D).
 
@@ -370,9 +370,9 @@ Subsec. (i)(7). Pub. L. 111–148, §3132(a)(1)(A), redesignated par. (6) as (7)
 
 Subsec. (b)(3). Pub. L. 111–5, §4102(d)(1)(A), inserted “, subject to section 1395ww(d)(3)(B)(ix)(III) of this title,” before “the Secretary may provide” in introductory provisions.
 
-Subsec. (<i>l</i>)(1). Pub. L. 111–5, §4102(a)(2)(A), substituted “the subsequent paragraphs of this subsection” for “paragraph (2)”.
+Subsec. (l)(1). Pub. L. 111–5, §4102(a)(2)(A), substituted “the subsequent paragraphs of this subsection” for “paragraph (2)”.
 
-Subsec. (<i>l</i>)(3) to (5). Pub. L. 111–5, §4102(a)(2)(B), (b)(2), added pars. (3) to (5).
+Subsec. (l)(3) to (5). Pub. L. 111–5, §4102(a)(2)(B), (b)(2), added pars. (3) to (5).
 
 <b>2003</b>—Subsec. (a). Pub. L. 108–173, §736(a)(1)(A), (c)(2)(A), in concluding provisions, substituted “leave home and” for “leave home,” in sixth sentence and struck out “The certification regarding terminal illness of an individual under paragraph (7) shall be based on the physician's or medical director's clinical judgment regarding the normal course of the individual's illness.” after “taxing effort by the individual.”
 
@@ -388,7 +388,7 @@ Subsec. (i)(4). Pub. L. 108–173, §512(b), added par. (4).
 
 Subsec. (i)(5). Pub. L. 108–173, §946(b), added par. (5).
 
-Subsec. (<i>l</i>). Pub. L. 108–173, §405(g)(2), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), the amount” for “The amount”, and added par. (2).
+Subsec. (l). Pub. L. 108–173, §405(g)(2), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), the amount” for “The amount”, and added par. (2).
 
 Pub. L. 108–173, §405(a)(1), inserted “equal to 101 percent of” before “the reasonable costs”.
 
@@ -422,7 +422,7 @@ Subsec. (i)(2)(D). Pub. L. 105–33, §4442(a), added subpar. (D).
 
 Subsec. (i)(3). Pub. L. 105–33, §4441(b), added par. (3).
 
-Subsec. (<i>l</i>). Pub. L. 105–33, §4201(c)(3)(B), amended heading and text of subsec. (<i>l</i>) generally. Prior to amendment, text read as follows:
+Subsec. (l). Pub. L. 105–33, §4201(c)(3)(B), amended heading and text of subsec. (l) generally. Prior to amendment, text read as follows:
 
 “(1) The amount of payment under this part for inpatient rural primary care hospital services—
 
@@ -440,7 +440,7 @@ Subsec. (a)(8). Pub. L. 103–432, §102(a)(3), substituted “the individual ma
 
 Subsec. (i)(1)(C)(i). Pub. L. 103–432, §110(d)(1), substituted “September 30, 1990,” for “September 30, 1990,,”.
 
-Subsec. (<i>l</i>)(2). Pub. L. 103–432, §102(d), substituted “January 1, 1996” for “January 1, 1993”.
+Subsec. (l)(2). Pub. L. 103–432, §102(d), substituted “January 1, 1996” for “January 1, 1993”.
 
 <b>1993</b>—Subsec. (i)(1)(C)(ii). Pub. L. 103–66 substituted “increased by—” and subcls. (I) to (VI) for “increased by the market basket percentage increase (as defined in section 1395ww(b)(3)(B)(iii) of this title) otherwise applicable to discharges occurring in the fiscal year.”
 
@@ -472,7 +472,7 @@ Subsec. (i)(1)(A). Pub. L. 101–239, §6005(a)(1), inserted “and except as ot
 
 Subsec. (i)(1)(C). Pub. L. 101–239, §6005(a)(2), added subpar. (C) and struck out former subpar. (C) which read as follows: “With respect to care and services furnished on or after October 1, 1986, the Secretary shall, not less often than annually, review and make appropriate adjustments to the payment rate for routine home care and the payment rates for other services included in hospice care based on the costs that are reasonable and related to the costs of furnishing such care and services. The Secretary shall report to Congress on October 1 each year on such review and such adjustments and on the adequacy of the rates under this paragraph to ensure participation by an adequate number of hospice programs under this subchapter.”
 
-Subsec. (<i>l</i>). Pub. L. 101–239, §6003(g)(3)(B)(iii)(II), added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 101–239, §6003(g)(3)(B)(iii)(II), added subsec. (l).
 
 <b>1988</b>—Subsec. (a)(2)(B). Pub. L. 100–360, §104(d)(2)(A), (B), struck out “post-hospital” after “in the case of” and “, for any of the conditions with respect to which he was receiving inpatient hospital services (or services which would constitute inpatient hospital services if the institution met the requirements of paragraphs (6) and (9) of section 1395x(e) of this title) prior to transfer to the skilled nursing facility or for a condition requiring such extended care services which arose after such transfer and while he was still in the facility for treatment of the condition or conditions for which he was receiving such inpatient hospital services” before semicolon at end.
 
@@ -488,7 +488,7 @@ Subsec. (b)(3)(B). Pub. L. 100–203, §4008(b)(1), substituted “aggregate rat
 
 Subsec. (j)(2)(B). Pub. L. 100–203, §4062(d)(1)(A), substituted “Section 1395m(a)(1)(B) of this title” for “Subsection (k)(1)(B) of this section”.
 
-Subsec. (k). Pub. L. 100–203, §4062(d)(1)(B), substituted “the amount described in section 1395m(a)(1) of this title.” for a dash and former pars. (1) and (2) which read as follows:
+Subsec. (k). Pub. L. 100–203, §4062(d)(1)(B), substituted “the amount described in section 1395m(a)(1) of thistitle.” for a dash and former pars. (1) and (2) which read as follows:
 
 “(1) the lesser of—
 
@@ -560,7 +560,7 @@ Subsec. (a)(2)(F). Pub. L. 97–35, §2121(b), struck out subpar. (F) which prov
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–499, §930(e), inserted provision at end of subsec. (a) authorizing the Secretary to prescribe regulations to prohibit significantly interested physicians from performing the physician certification required by par. (2) for home health services.
 
-Subsec. (a)(2)(D). Pub. L. 96–499, §930(f), substituted “home health services” for “post-hospital home health services” and “physical, occupational, or speech” for “physical or speech” and deleted “, for any of the conditions with respect to which he was receiving inpatient hospital services (or services which would constitute inpatient hospital services if the institution met the requirements of paragraphs (6) and (9) of section 1395x(e) of this title) or post-hospital extended care services” after “therapy”.
+Subsec. (a)(2)(D). Pub. L. 96–499, §930(f), substituted “home health services” for “post-hospital home healthservices” and “physical, occupational, or speech” for “physical or speech” and deleted “, for any of the conditions with respect to which he was receiving inpatient hospital services (or services which would constitute inpatient hospital services if the institution met the requirements of paragraphs (6) and (9) of section 1395x(e) of this title) or post-hospital extended care services” after “therapy”.
 
 Subsec. (a)(2)(E). Pub. L. 96–499, §936(b), inserted “or because of the severity of the dental procedure” and substituted “such services” for “such dental services”.
 
@@ -650,7 +650,7 @@ Pub. L. 108–173, title IX, §946(c), Dec. 8, 2003, 117 Stat. 2425, provided th
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(6) \[title III, §321(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–500, provided that: “Theamendment made by subsection (a) \[amending this section\] shall apply to hospice care furnished on or after April 1, 2001. In applying clause (ii) of section 1814(i)(1)(C) of the Social Security Act (42 U.S.C. 1395f(i)(1)(C)) beginning with fiscal year 2002, the payment rates in effect under such section during the period beginning on April 1, 2001, and ending on September 30, shall be treated as the payment rates in effect during fiscal year 2001.”
+Pub. L. 106–554, §1(a)(6) \[title III, §321(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–500, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to hospice care furnished on or after April 1, 2001. In applying clause (ii) of section 1814(i)(1)(C) of the Social Security Act (42 U.S.C. 1395f(i)(1)(C)) beginning with fiscal year 2002, the payment rates in effect under such section during the period beginning on April 1, 2001, and ending on September 30, shall be treated as the payment rates in effect during fiscal year 2001.”
 
 Pub. L. 106–554, §1(a)(6) \[title III, §322(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–501, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to certifications made on or after the date of the enactment of this Act \[Dec. 21, 2000\].”
 
@@ -658,7 +658,7 @@ Pub. L. 106–554, §1(a)(6) \[title V, §507(a)(2)\], Dec. 21, 2000, 114 Stat. 
 
 #### Effective Date of 1997 Amendment
 
-Section 4201(d) of Pub. L. 105–33 provided that: “The amendments made by this section \[amending this section and sections 1320a–7a, 1320a–7b, 1320b–4, 1320b–8, 1395d, 1395e, 1395h, 1395i–4, 1395k to 1395n, 1395u, 1395x, 1395y, 1395aa, 1395cc, 1395dd, and 1395ww of this title\] shall apply to services furnished on or after October 1, 1997.”
+Pub. L. 105–33, title IV, §4201(d), Aug. 5, 1997, 111 Stat. 374, provided that: “The amendments made by this section \[amending this section and sections 1320a–7a, 1320a–7b, 1320b–4, 1320b–8, 1395d, 1395e, 1395h, 1395i–4, 1395k to 1395n, 1395u, 1395x, 1395y, 1395aa, 1395cc, 1395dd, and 1395ww of this title\] shall apply to services furnished on or after October 1, 1997.”
 
 Pub. L. 105–33, title IV, §4442(b), Aug. 5, 1997, 111 Stat. 423, as amended by Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(i)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–366, provided that: “The amendment made by subsection (a) \[amending this section\] applies to items and services furnished on or after October 1, 1997.”
 
@@ -666,7 +666,7 @@ Amendment by sections 4441, 4443(b)(2), and 4448 of Pub. L. 105–33 applicable 
 
 Amendment by section 4603(c)(1) of Pub. L. 105–33 applicable to cost reporting periods beginning on or after Oct. 1, 1999, except as otherwise provided, see section 4603(d) of Pub. L. 105–33, set out as an Effective Date note under section 1395fff of this title.
 
-Section 4615(b) of Pub. L. 105–33 provided that: “The amendments made by subsection (a) \[amending this section and section 1395n of this title\] apply to home health services furnished after the 6-month period beginning after the date of enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–33, title IV, §4615(b), Aug. 5, 1997, 111 Stat. 475, provided that: “The amendments made by subsection (a) \[amending this section and section 1395n of this title\] apply to home health services furnished after the 6-month period beginning after the date of enactment of this Act \[Aug. 5, 1997\].”
 
 #### Effective Date of 1994 Amendment
 
@@ -676,9 +676,9 @@ Amendment by section 106(b)(1)(A) of Pub. L. 103–432 effective as if included 
 
 Amendment by section 4006(b) of Pub. L. 101–508 applicable with respect to care and services furnished on or after Jan. 1, 1990, see section 4006(c) of Pub. L. 101–508, set out as a note under section 1395d of this title.
 
-#### Effective Date of 1989 Amendments
+#### Effective Date of 1989 Amendment
 
-Section 6005(c) of Pub. L. 101–239, as amended by Pub. L. 101–508, title IV, §4008(m)(3)(B), Nov. 5, 1990, 104 Stat. 1388–54, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall become effective with respect to care and services furnished on or after January 1, 1990.”
+Pub. L. 101–239, title VI, §6005(c), Dec. 19, 1989, 103 Stat. 2161, as amended by Pub. L. 101–508, title IV, §4008(m)(3)(B), Nov. 5, 1990, 104 Stat. 1388–54, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall become effective with respect to care and services furnished on or after January 1, 1990.”
 
 Amendment by Pub. L. 101–234 effective Jan. 1, 1990, see section 101(d) of Pub. L. 101–234, set out as a note under section 1395c of this title.
 
@@ -688,31 +688,31 @@ Amendment by Pub. L. 100–360 effective Jan. 1, 1989, except as otherwise provi
 
 #### Effective Date of 1987 Amendment
 
-Section 4008(b)(2) of Pub. L. 100–203 provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 22, 1987\].”
+Pub. L. 100–203, title IV, §4008(b)(2), Dec. 22, 1987, 101 Stat. 1330–55, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 22, 1987\].”
 
-Section 4024(c) of Pub. L. 100–203 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1395n of this title\] shall apply to items and services provided on or after January 1, 1988.”
+Pub. L. 100–203, title IV, §4024(c), Dec. 22, 1987, 101 Stat. 1330–74, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1395n of this title\] shall apply to items and services provided on or after January 1, 1988.”
 
-Section 4062(e) of Pub. L. 100–203, as amended by Pub. L. 101–508, title IV, §4152(h), Nov. 5, 1990, 104 Stat. 1388–80, provided that: “The amendments made by this section \[enacting section 1395m of this title, amending this section and sections 1395k, 1395<i>l</i>, and 1395cc of this title, and repealing section 1395zz of this title\] shall apply to covered items (other than oxygen and oxygen equipment) furnished on or after January 1, 1989 and to oxygen and oxygen equipment furnished on or after June 1, 1989.”
+Pub. L. 100–203, title IV, §4062(e), Dec. 22, 1987, 101 Stat. 1330–109, as amended by Pub. L. 101–508, title IV, §4152(h), Nov. 5, 1990, 104 Stat. 1388–80, provided that: “The amendments made by this section \[enacting section 1395m of this title, amending this section and sections 1395k, 1395l, and 1395cc of this title, and repealing section 1395zz of this title\] shall apply to covered items (other than oxygen and oxygen equipment) furnished on or after January 1, 1989 and to oxygen and oxygen equipment furnished on or after June 1, 1989.”
 
-\[Section 4152(h) of Pub. L. 101–508 provided that amendment by that section to section 4062(e) of Pub. L. 100–203, set out above, is effective as if included in enactment of Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203.\]
+\[Pub. L. 101–508, title IV, §4152(h), Nov. 5, 1990, 104 Stat. 1388–80, provided that amendment by that section to section 4062(e) of Pub. L. 100–203, set out above, is effective as if included in enactment of Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203.\]
 
-#### Effective Date of 1984 Amendments
+#### Effective Date of 1984 Amendment
 
-Section 1(b) of Pub. L. 98–617 provided that: “The amendments made by this Act \[probably means section 1 of Pub. L. 98–617, amending this section\] shall apply to routine home care and other services included in hospice care furnished on or after October 1, 1984.”
+Pub. L. 98–617, §1(b), Nov. 8, 1984, 98 Stat. 3294, provided that: “The amendments made by this Act \[probably means section 1 of Pub. L. 98–617, amending this section\] shall apply to routine home care and other services included in hospice care furnished on or after October 1, 1984.”
 
-Section 3(c) of Pub. L. 98–617 provided that: “The amendments made by this section \[amending this section and sections 1395<i>l</i>, 1395n, 1395r, 1395u, 1395x, 1395rr, 1395ww, 1396a, and 1396b of this title and amending provisions set out as notes under sections 1395h and 1395mm of this title\] shall be effective as if they had been originally included in the Deficit Reduction Act of 1984 \[Pub. L. 98–369\].”
+Pub. L. 98–617, §3(c), Nov. 8, 1984, 98 Stat. 3296, provided that: “The amendments made by this section \[amending this section and sections 1395l, 1395n, 1395r, 1395u, 1395x, 1395rr, 1395ww, 1396a, and 1396b of this title and amending provisions set out as notes under sections 1395h and 1395mm of this title\] shall be effective as if they had been originally included in the Deficit Reduction Act of 1984 \[Pub. L. 98–369\].”
 
-Section 2321(g) of Pub. L. 98–369 provided that: “The amendments made by this section \[enacting section 1395zz of this title and amending this section and sections 1395<i>l</i>, 1395x, and 1395cc of this title\] shall apply to items and services furnished on or after the date of the enactment of this Act \[July 18, 1984\].”
+Pub. L. 98–369, div. B, title III, §2321(g), July 18, 1984, 98 Stat. 1085, provided that: “The amendments made by this section \[enacting section 1395zz of this title and amending this section and sections 1395l, 1395x, and 1395cc of this title\] shall apply to items and services furnished on or after the date of the enactment of this Act \[July 18, 1984\].”
 
-Section 2335(g) of Pub. L. 98–369 provided that: “The amendments made by this section \[amending this section and sections 1395x, 1395z, 1395cc, 1396a, and 1396d of this title\] shall become effective on the date of the enactment of this Act \[July 18, 1984\].”
+Pub. L. 98–369, div. B, title III, §2335(g), July 18, 1984, 98 Stat. 1091, provided that: “The amendments made by this section \[amending this section and sections 1395x, 1395z, 1395cc, 1396a, and 1396d of this title\] shall become effective on the date of the enactment of this Act \[July 18, 1984\].”
 
-Section 2336(c)(1) of Pub. L. 98–369 provided that: “The amendments made by subsection (a) \[amending this section and section 1395n of this title\] shall apply to certifications and plans of care made or established on or after the date of the enactment of this Act \[July 18, 1984\].”
+Pub. L. 98–369, div. B, title III, §2336(c)(1), July 18, 1984, 98 Stat. 1091, provided that: “The amendments made by subsection (a) \[amending this section and section 1395n of this title\] shall apply to certifications and plans of care made or established on or after the date of the enactment of this Act \[July 18, 1984\].”
 
 Amendment by section 2354(b)(1) of Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2354(e)(1) of Pub. L. 98–369, set out as a note under section 1320a–1 of this title.
 
 Amendment by section 2354(c)(1)(A) of Pub. L. 98–369 effective as if originally included in Pub. L. 96–499, see section 2354(e)(2) of Pub. L. 98–369, set out as a note under section 1320a–1 of this title.
 
-#### Effective Date of 1983 Amendments
+#### Effective Date of 1983 Amendment
 
 Amendment by Pub. L. 98–21 applicable to items and services furnished by or under arrangement with a hospital beginning with its first cost reporting period that begins on or after Oct. 1, 1983, any change in a hospital's cost reporting period made after November 1982 to be recognized for such purposes only if the Secretary finds good cause therefor, see section 604(a)(1) of Pub. L. 98–21, set out as a note under section 1395ww of this title.
 
@@ -726,7 +726,7 @@ Amendment by section 122(c)(1), (2) of Pub. L. 97–248 applicable to hospice ca
 
 Amendment by section 2121(b) of Pub. L. 97–35 applicable to services furnished in detoxification facilities for inpatient stays beginning on or after the tenth day after Aug. 13, 1981, see section 2121(i) of Pub. L. 97–35, set out as a note under section 1395d of this title.
 
-Section 2122(b) of Pub. L. 97–35 provided that: “The amendments made by this section \[amending this section and section 1395n of this title\] shall apply to services furnished pursuant to plans of treatment implemented after the third month beginning after the date of the enactment of this Act \[Aug. 13, 1981\].”
+Pub. L. 97–35, title XXI, §2122(b), Aug. 13, 1981, 95 Stat. 797, provided that: “The amendments made by this section \[amending this section and section 1395n of this title\] shall apply to services furnished pursuant to plans of treatment implemented after the third month beginning after the date of the enactment of this Act \[Aug. 13, 1981\].”
 
 #### Effective Date of 1980 Amendment
 
@@ -734,9 +734,9 @@ Amendment by section 930(e), (f) of Pub. L. 96–499 effective with respect to s
 
 Amendment by section 931(b) of Pub. L. 96–499 effective Apr. 1, 1981, see section 931(e) of Pub. L. 96–499, set out as a note under section 1395d of this title.
 
-Section 936(d) of Pub. L. 96–499 provided that: “The amendments made by this section \[amending this section and sections 1395x and 1395y of this title\] shall apply with respect to services provided on or after July 1, 1981.”
+Pub. L. 96–499, title IX, §936(d), Dec. 5, 1980, 94 Stat. 2640, provided that: “The amendments made by this section \[amending this section and sections 1395x and 1395y of this title\] shall apply with respect to services provided on or after July 1, 1981.”
 
-Section 941(c) of Pub. L. 96–499 provided that: “The amendments made by this section \[amending this section\] shall take effect on January 1, 1981.”
+Pub. L. 96–499, title IX, §941(c), Dec. 5, 1980, 94 Stat. 2641, provided that: “The amendments made by this section \[amending this section\] shall take effect on January 1, 1981.”
 
 #### Effective Date of 1978 Amendment
 
@@ -744,37 +744,37 @@ Amendment by Pub. L. 95–292 effective with respect to services, supplies, and 
 
 #### Effective Date of 1977 Amendment
 
-Section 23(c) of Pub. L. 95–142 provided that: “The amendments made by this section \[amending this section\] shall apply to inpatient hospital services furnished on and after July 1, 1974.”
+Pub. L. 95–142, §23(c), Oct. 25, 1977, 91 Stat. 1209, provided that: “The amendments made by this section \[amending this section\] shall apply to inpatient hospital services furnished on and after July 1, 1974.”
 
 #### Effective Date of 1973 Amendment
 
-Section 18(z–3)(2) of Pub. L. 93–233 provided that: “The amendments made by subsection (k) \[amending this section and section 1395y of this title\] shall be effective with respect to admissions subject to the provisions of section 1814(a)(2) of the Social Security Act \[subsec. (a)(2) of this section\] which occur after December 31, 1972.”
+Pub. L. 93–233, §18(z–3)(2), Dec. 31, 1973, 87 Stat. 974, provided that: “The amendments made by subsection (k) \[amending this section and section 1395y of this title\] shall be effective with respect to admissions subject to the provisions of section 1814(a)(2) of the Social Security Act \[subsec. (a)(2) of this section\] which occur after December 31, 1972.”
 
 #### Effective Date of 1972 Amendment
 
-Section 211(d) of Pub. L. 92–603 provided that: “The amendments made by this section \[amending this section and sections 1395<i>l</i>, 1395u, 1395x, and 1395y of this title\] shall apply to services furnished with respect to admissions occurring after December 31, 1972.”
+Pub. L. 92–603, title II, §211(d), Oct. 30, 1972, 86 Stat. 1384, provided that: “The amendments made by this section \[amending this section and sections 1395l, 1395u, 1395x, and 1395y of this title\] shall apply to services furnished with respect to admissions occurring after December 31, 1972.”
 
 Amendment by section 226(c)(1) of Pub. L. 92–603 effective with respect to services provided on or after July 1, 1973, see section 226(f) of Pub. L. 92–603, set out as an Effective Date note under section 1395mm of this title.
 
 Amendment by section 227(b) of Pub. L. 92–603 applicable with respect to accounting periods beginning after June 30, 1973, see section 227(g) of Pub. L. 92–603, set out as a note under section 1395x of this title.
 
-Section 228(b) of Pub. L. 92–603 provided that: “The amendment made by subsection (a) \[amending this section\] and any regulations adopted pursuant to such amendment shall apply with respect to plans of care initiated on or after January 1, 1973, and with respect to admission to skilled nursing facilities and home health plans initiated on or after such date.”
+Pub. L. 92–603, title II, §228(b), Oct. 30, 1972, 86 Stat. 1408, provided that: “The amendment made by subsection (a) \[amending this section\] and any regulations adopted pursuant to such amendment shall apply with respect to plans of care initiated on or after January 1, 1973, and with respect to admission to skilled nursing facilities and home health plans initiated on or after such date.”
 
-Section 233(f) of Pub. L. 92–603 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1395<i>l</i> of this title\] shall apply to services furnished by hospitals, extended care facilities, and home health agencies in accounting periods beginning after December 31, 1972. The amendments made by subsections (c), (d), and (e) \[amending sections 706, 709, and 1396b of this title\] shall apply with respect to services furnished by hospitals in accounting periods beginning after December 31, 1972.” See, also, section 16 of Pub. L. 93–233, set out below.
+Pub. L. 92–603, title II, §233(f), Oct. 30, 1972, 86 Stat. 1412, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1395l of this title\] shall apply to services furnished by hospitals, extended care facilities, and home health agencies in accounting periods beginning after December 31, 1972. The amendments made by subsections (c), (d), and (e) \[amending sections 706, 709, and 1396b of this title\] shall apply with respect to services furnished by hospitals in accounting periods beginning after December 31, 1972.” See, also, section 16 of Pub. L. 93–233, set out below.
 
 Amendment by section 234(g)(1) of Pub. L. 92–603 applicable with respect to providers of services for fiscal years beginning after fifth month following October 1972, see section 234(i) of Pub. L. 92–603, set out as a note under section 1395x of this title.
 
-Section 238(b) of Pub. L. 92–603 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to services furnished after the second month following the month in which this Act is enacted \[October 1972\].”
+Pub. L. 92–603, title II, §238(b), Oct. 30, 1972, 86 Stat. 1416, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to services furnished after the second month following the month in which this Act is enacted \[October 1972\].”
 
-Section 247(c) of Pub. L. 92–603 provided that: “The amendments made by this section \[amending this section and section 1396d of this title\] shall be effective with respect to services furnished after December 31, 1972.”
+Pub. L. 92–603, title II, §247(c), Oct. 30, 1972, 86 Stat. 1425, provided that: “The amendments made by this section \[amending this section and section 1396d of this title\] shall be effective with respect to services furnished after December 31, 1972.”
 
-Section 256(d) of Pub. L. 92–603 provided that: “The amendments made by this section \[amending this section and sections 1395x and 1395y of this title\] shall apply with respect to admissions occurring after the second month following the month in which this Act is enacted \[October 1972\].”
+Pub. L. 92–603, title II, §256(d), Oct. 30, 1972, 86 Stat. 1447, provided that: “The amendments made by this section \[amending this section and sections 1395x and 1395y of this title\] shall apply with respect to admissions occurring after the second month following the month in which this Act is enacted \[October 1972\].”
 
 Amendment by section 281(e) of Pub. L. 92–603 applicable in the case of services furnished (or deemed to have been furnished) after 1970, see section 281(g) of Pub. L. 92–603, set out as a note under section 1395gg of this title.
 
 #### Effective Date of 1968 Amendment
 
-Section 126(c) of Pub. L. 90–248 provided that: “The amendments made by this section \[amending this section and section 1395n of this title\] shall apply with respect to services furnished after the date of the enactment of this Act \[Jan. 2, 1968\].”
+Pub. L. 90–248, title I, §126(c), Jan. 2, 1968, 81 Stat. 846, provided that: “The amendments made by this section \[amending this section and section 1395n of this title\] shall apply with respect to services furnished after the date of the enactment of this Act \[Jan. 2, 1968\].”
 
 Amendment by section 129(c)(5), (6)(A) of Pub. L. 90–248 applicable with respect to services furnished after Jan. 2, 1968, see section 129(d) of Pub. L. 90–248, set out as a note under section 1395d of this title.
 
@@ -782,7 +782,7 @@ Amendment by section 143(c) of Pub. L. 90–248 applicable with respect to servi
 
 #### Revision of Regulations Regarding Access to Home Health Services
 
-Section 2336(c)(2) of Pub. L. 98–369 provided that: “The Secretary shall provide, not later than 90 days after the date of the enactment of this Act \[July 18, 1984\], for such revision of regulations as may be required to reflect the amendments made by subsection (b) \[amending this section and section 1395n of this title\].”
+Pub. L. 98–369, div. B, title III, §2336(c)(2), July 18, 1984, 98 Stat. 1091, provided that: “The Secretary shall provide, not later than 90 days after the date of the enactment of this Act \[July 18, 1984\], for such revision of regulations as may be required to reflect the amendments made by subsection (b) \[amending this section and section 1395n of this title\].”
 
 #### Promulgation of Regulations
 
@@ -858,27 +858,27 @@ Report.—Not later than one year after the date of enactment of this Act \[Nov.
 
 #### Study of Methods To Compensate Hospices for High-Cost Care
 
-Section 6016 of Pub. L. 101–239 directed Secretary of Health and Human Services to conduct a study of high-cost hospice care provided to medicare beneficiaries under the medicare program, evaluate the ability of hospice programs participating in the medicare program to provide such high-cost care to such patients, develop methods to compensate such programs for providing such high-cost care, and submit, not later than Apr. 1, 1991, a report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on the study, including in the report any recommendations developed by the Secretary to compensate hospice programs for providing high-cost hospice care to medicare beneficiaries.
+Pub. L. 101–239, title VI, §6016, Dec. 19, 1989, 103 Stat. 2164, directed Secretary of Health and Human Services to conduct a study of high-cost hospice care provided to medicare beneficiaries under the medicare program, evaluate the ability of hospice programs participating in the medicare program to provide such high-cost care to such patients, develop methods to compensate such programs for providing such high-cost care, and submit, not later than Apr. 1, 1991, a report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on the study, including in the report any recommendations developed by the Secretary to compensate hospice programs for providing high-cost hospice care to medicare beneficiaries.
 
 #### Continuation of Bad Debt Recognition for Hospital Services
 
-Section 4008(c) of Pub. L. 100–203, as amended by Pub. L. 100–647, title VIII, §8402, Nov. 10, 1987, 102 Stat. 3798; Pub. L. 101–239, title VI, §6023(a), Dec. 19, 1989, 103 Stat. 2167, provided that: “In making payments to hospitals under title XVIII of the Social Security Act \[this subchapter\], the Secretary of Health and Human Services shall not make any change in the policy in effect on August 1, 1987, with respect to payment under title XVIII of the Social Security Act to providers of service for reasonable costs relating to unrecovered costs associated with unpaid deductible and coinsurance amounts incurred under such title (including criteria for what constitutes a reasonable collection effort, including criteria for indigency determination procedures, for record keeping, and for determining whether to refer a claim to an external collection agency). The Secretary may not require a hospital to change its bad debt collection policy if a fiscal intermediary, in accordance with the rules in effect as of August 1, 1987, with respect to criteria for indigency determination procedures, record keeping, and determining whether to refer a claim to an external collection agency, has accepted such policy before that date, and the Secretary may not collect from the hospital on the basis of an expectation of a change in the hospital's collection policy.”
+Pub. L. 100–203, title IV, §4008(c), Dec. 22, 1987, 101 Stat. 1330–55, as amended by Pub. L. 100–647, title VIII, §8402, Nov. 10, 1987, 102 Stat. 3798; Pub. L. 101–239, title VI, §6023(a), Dec. 19, 1989, 103 Stat. 2167; Pub. L. 112–96, title III, §3201(d), Feb. 22, 2012, 126 Stat. 192, provided that: “In making payments to hospitals under title XVIII of the Social Security Act \[this subchapter\], the Secretary of Health and Human Services shall not make any change in the policy in effect on August 1, 1987, with respect to payment under title XVIII of the Social Security Act to providers of service for reasonable costs relating to unrecovered costs associated with unpaid deductible and coinsurance amounts incurred under such title (including criteria for what constitutes a reasonable collection effort, including criteria for indigency determination procedures, for record keeping, and for determining whether to refer a claim to an external collection agency). The Secretary may not require a hospital to change its bad debt collection policy if a fiscal intermediary, in accordance with the rules in effect as of August 1, 1987, with respect to criteria for indigency determination procedures, record keeping, and determining whether to refer a claim to an external collection agency, has accepted such policy before that date, and the Secretary may not collect from the hospital on the basis of an expectation of a change in the hospital's collection policy. Effective for cost reporting periods beginning on or after October 1, 2012, the provisions of the previous two sentences shall not apply.”
 
-\[Section 6023(b) of Pub. L. 101–239 provided that: “The amendment made by subsection (a) \[amending section 4008(c) of Pub. L. 100–203, set out above\] shall take effect as if included in the enactment of the Omnibus Budget Reconciliation Act of 1987 \[Pub. L. 100–203\].”\]
+\[Pub. L. 101–239, title VI, §6023(b), Dec. 19, 1989, 103 Stat. 2167, provided that: “The amendment made by subsection (a) \[amending section 4008(c) of Pub. L. 100–203, set out above\] shall take effect as if included in the enactment of the Omnibus Budget Reconciliation Act of 1987 \[Pub. L. 100–203\].”\]
 
 \[Pub. L. 100–647, title VIII, §8402, Nov. 10, 1988, 102 Stat. 3798, provided that amendment of section 4008(c) of Pub. L. 100–203, set out above, by section 8402 of Pub. L. 100–647 is effective as of date of enactment of Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, which was approved Dec. 22, 1987.\]
 
 #### Providers of Services To Calculate and Report Lesser-of-Cost-or-Charges Determinations Separately With Respect to Payments Under Parts A and B of This Subchapter; Issuance of Regulations
 
-Section 2308(a) of Pub. L. 98–369 provided that: “The Secretary of Health and Human Services shall issue regulations which require, for purposes of title XVIII of the Social Security Act \[this subchapter\], that providers of services calculate and report the lesser-of-cost-or-charges determinations separately with respect to payments for services under part A and services under part B of such title (other than clinical diagnostic laboratory tests paid under section 1833(h) \[section 1395<i>l</i>(h) of this title\]), and that payment under such title be based upon such separate determinations. Such regulations shall apply to cost reporting periods beginning on or after October 1, 1984.”
+Pub. L. 98–369, div. B, title III, §2308(a), July 18, 1984, 98 Stat. 1074, provided that: “The Secretary of Health and Human Services shall issue regulations which require, for purposes of title XVIII of the Social Security Act \[this subchapter\], that providers of services calculate and report the lesser-of-cost-or-charges determinations separately with respect to payments for services under part A and services under part B of such title (other than clinical diagnostic laboratory tests paid under section 1833(h) \[section 1395l(h) of this title\]), and that payment under such title be based upon such separate determinations. Such regulations shall apply to cost reporting periods beginning on or after October 1, 1984.”
 
 #### Determination of Nominal Charges for Applying Nominality Test
 
-Section 2308(b)(1) of Pub. L. 98–369 provided that: “For purposes of applying the nominality test under sections 1814(b)(2) \[subsec. (b)(2) of this section\] and 1833(a)(2)(B)(ii) \[section 1395<i>l</i>(a)(2)(B)(ii) of this title\] of the Social Security Act, the Secretary shall, in addition to those rules for establishing nominality which the Secretary determines to be appropriate, provide that charges representing 60 percent or less of costs shall be considered nominal. The charges used in making such determinations shall be the charges actually billed to charge-paying patients who are not entitled to benefits under either part of such title \[sections 1395c et seq., 1395j et seq. of this title\]. Such determination shall be made separately with respect to payments for services under part A and services under part B of such title (other than clinical diagnostic laboratory tests paid under section 1833(h)), or on the basis of inpatient and outpatient services, except that the determination need not be made separately for home health services if the Secretary finds that such separation is not appropriate.”
+Pub. L. 98–369, div. B, title III, §2308(b)(1), July 18, 1984, 98 Stat. 1074, provided that: “For purposes of applying the nominality test under sections 1814(b)(2) \[subsec. (b)(2) of this section\] and 1833(a)(2)(B)(ii) \[section 1395l(a)(2)(B)(ii) of this title\] of the Social Security Act, the Secretary shall, in addition to those rules for establishing nominality which the Secretary determines to be appropriate, provide that charges representing 60 percent or less of costs shall be considered nominal. The charges used in making such determinations shall be the charges actually billed to charge-paying patients who are not entitled to benefits under either part of such title \[sections 1395c et seq., 1395j et seq. of this title\]. Such determination shall be made separately with respect to payments for services under part A and services under part B of such title (other than clinical diagnostic laboratory tests paid under section 1833(h)), or on the basis of inpatient and outpatient services, except that the determination need not be made separately for home health services if the Secretary finds that such separation is not appropriate.”
 
 #### Study and Report Relating to the Reimbursement Method and Benefit Structure for Hospice Care; Supervision of Report by Comptroller General
 
-Section 122(j), formerly §122(i), of Pub. L. 97–248, redesignated §122(i), by Pub. L. 97–448, title III, §309(a)(6), Jan. 12, 1983, 96 Stat. 2408, provided that:
+Pub. L. 97–248, title I, §122(j), formerly §122(i), Sept. 3, 1982, 96 Stat. 363, as redesignated by Pub. L. 97–448, title III, §309(a)(6), Jan. 12, 1983, 96 Stat. 2408, provided that:
 
 “(1) The Secretary of Health and Human Services shall conduct a study and, prior to January 1, 1986, report to the Congress on whether or not the reimbursement method and benefit structure (including copayments) for hospice care under title XVIII of the Social Security Act \[this subchapter\] are fair and equitable and promote the most efficient provision of hospice care. Such report shall include the feasibility and advisability of providing for prospective reimbursement for hospice care, an evaluation of the inclusion of payment for outpatient drugs, an evaluation of the need to alter the method of reimbursement for nutritional, dietary, and bereavement counseling as hospice care, and any recommendations for legislative changes in the hospice care reimbursement or benefit structure.
 
@@ -886,11 +886,11 @@ Section 122(j), formerly §122(i), of Pub. L. 97–248, redesignated §122(i), b
 
 #### Waiver of Limitations To Allow Pre-Existing Hospices To Participate as a Hospice Program
 
-Section 122(k), formerly §122(j), of Pub. L. 97–248, as redesignated and amended by Pub. L. 97–448, title III, §309(a)(6), (7), Jan. 12, 1983, 96 Stat. 2408, provided that: “The Secretary of Health and Human Services shall grant waivers of the limitations imposed by section 1814(i)(2) of the Social Security Act \[subsec. (i)(2) of this section\] (relating to the cap amount), section 1861(dd)(1)(G) of such Act \[section 1395x(dd)(1)(G) of this title\] (relating to the limitations on the frequency and number of respite care days), and section 1861(dd)(2)(A)(iii) of such Act \[section 1395x(dd)(2)(A)(iii) of this title\] (relating to the aggregate limit on the number of days of inpatient care), as may be necessary to allow any institution which commenced operations as a hospice prior to January 1, 1975, to participate until October 1, 1986, in a viable manner as a hospice program under title XVIII of the Social Security Act \[this subchapter\].”
+Pub. L. 97–248, title I, §122(k), formerly §122(j), Sept. 3, 1982, 96 Stat. 363, as redesignated and amended by Pub. L. 97–448, title III, §309(a)(6), (7), Jan. 12, 1983, 96Stat. 2408, provided that: “The Secretary of Health and Human Services shall grant waivers of the limitations imposed by section 1814(i)(2) of the Social Security Act \[subsec. (i)(2) of this section\] (relating to the cap amount), section 1861(dd)(1)(G) of such Act \[section 1395x(dd)(1)(G) of this title\] (relating to the limitations on the frequency and number of respite care days), and section 1861(dd)(2)(A)(iii) of such Act \[section 1395x(dd)(2)(A)(iii) of this title\] (relating to the aggregate limit on the number of days of inpatient care), as may be necessary to allow any institution which commenced operations as a hospice prior to January 1, 1975, to participate until October 1, 1986, in a viable manner as a hospice program under title XVIII of the Social Security Act \[this subchapter\].”
 
 #### Medicare Payment Basis for Services Provided by Agencies and Providers; Effective Date
 
-Section 16 of Pub. L. 93–233 provided that: “In the administration of titles V, XVIII, and XIX of the Social Security Act \[subchapters V, XVIII, and XIX of this chapter\], the amount payable under such title to any provider of services on account of services provided by such hospital, skilled nursing facility, or home health agency shall be determined (for any period with respect to which the amendments made by section 233 of Public Law 92–603 \[this section and sections 706, 709, 1395<i>l</i>, and 1396b of this title\] would, except for the provisions of this section, be applicable) in like manner as if the datecontained in the first and second sentences of subsection (f) of such section 233 \[set out as an Effective Date of 1972 Amendment note above\] were December 31, 1973, rather than December 31, 1972.”
+Pub. L. 93–233, §16, Dec. 31, 1973, 87 Stat. 967, provided that: “In the administration of titles V, XVIII, and XIX of the Social Security Act \[subchapters V, XVIII, and XIX of this chapter\], the amount payable under such title to any provider of services on account of services provided by such hospital, skilled nursing facility, or home health agency shall be determined (for any period with respect to which the amendments made by section 233 of Public Law 92–603 \[this section and sections 706, 709, 1395l, and 1396b of this title\] would, except for the provisions of this section, be applicable) in like manner as if the date contained in the first and second sentences of subsection (f) of such section 233 \[set out as an Effective Date of 1972 Amendment note above\] were December 31, 1973, rather than December 31, 1972.”
 
 <i><sup>1</sup></i><i> So in original.</i>
 

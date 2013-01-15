@@ -38,7 +38,7 @@ If it is oleomargarine or margarine or butter and any of the raw material used t
 
 &emsp;&emsp;(ii) if no conditions of use are suggested or recommended in the labeling, under ordinary conditions of use;
 
-&emsp;(B) is a new dietary ingredient for which there is inadequate information to provide reasonable assurance that such ingredient does not present a significant or unreasonable risk of illness or injury;
+&emsp;(B) is a new dietary ingredient for which there is inadequate information to providereasonable assurance that such ingredient does not present a significant or unreasonable risk of illness or injury;
 
 &emsp;(C) the Secretary declares to pose an imminent hazard to public health or safety, except that the authority to make such declaration shall not be delegated and the Secretary shall promptly after such a declaration initiate a proceeding in accordance with sections 554 and 556 of title 5 to affirm or withdraw the declaration; or
 
@@ -124,7 +124,7 @@ Effective date of par. (a)(2) as in force prior to July 22, 1954, with respect t
 
 #### Effective Date of 1958 Amendment
 
-Section 6 of Pub. L. 85–929, as amended by Pub. L. 87–19, §2, Apr. 7, 1961, 75 Stat. 42; Pub. L. 88–625, §2, Oct. 3, 1964, 78 Stat. 1002, provided that:
+Pub. L. 85–929, §6, Sept. 6, 1958, 72 Stat. 1788, as amended by Pub. L. 87–19, §2, Apr. 7, 1961, 75 Stat. 42; Pub. L. 88–625, §2, Oct. 3, 1964, 78 Stat. 1002, provided that:
 
 “(a) Except as provided in subsections (b) and (c) of this section, this Act \[amending this section, sections 321, 331, 346, and 348 of this title, and section 210 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under sections 321 and 451 of this title\] shall take effect on the date of its enactment \[Sept. 6, 1958\].
 
@@ -140,7 +140,7 @@ Section 6 of Pub. L. 85–929, as amended by Pub. L. 87–19, §2, Apr. 7, 1961,
 
 #### Effective Date of 1954 Amendment
 
-Section 5 of act July 22, 1954, provided that: “This Act \[amending this section and section 321 of this title and enacting sections 346a and 346b of this title\] shall take effect upon the date of its enactment \[July 22, 1954\], except that with respect to pesticide chemicals for which tolerances or exemptions have not been established under section 408 of the Federal Food, Drug, and Cosmetic Act \[section 346a of this title\], the amendment to section 402(a) of such Act \[par. (a) of this section\] made by section 2 of this Act shall not be effective—
+Act July 22, 1954, ch. 559, §5, 68 Stat. 517, provided that: “This Act \[amending this section and section 321 of this title and enacting sections 346a and 346b of this title\] shall take effect upon the date of its enactment \[July 22, 1954\], except that with respect to pesticide chemicals for which tolerances or exemptions have not been established under section 408 of the Federal Food, Drug, and Cosmetic Act \[section 346a of this title\], the amendment to section 402(a) of such Act \[par. (a) of this section\] made by section 2 of this Act shall not be effective—
 
 &emsp;“(1) for the period of one year following the date of the enactment of this Act \[July 22, 1954\]; or
 
@@ -172,7 +172,7 @@ Pub. L. 111–353, title I, §114, Jan. 4, 2011, 124 Stat. 3921, provided that:
 
 “(a)
 
-In General.—Not later than 90 days prior to the issuance of any guidance, regulation, or suggestedamendment by the Food and Drug Administration to the National Shellfish Sanitation Program's Model Ordinance, or the issuance of any guidance or regulation by the Food and Drug Administration relating to the Seafood Hazard Analysis Critical Control Points Program of the Food and Drug Administration (parts 123 and 1240 of title 21, Code of Federal Regulations (or any successor regulations)\[)\], where such guidance, regulation or suggested amendment relates to post harvest processing for raw oysters, the Secretary shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report which shall include—
+In General.—Not later than 90 days prior to the issuance of any guidance, regulation, or suggested amendment by the Food and Drug Administration to the National Shellfish Sanitation Program's Model Ordinance, or the issuance of any guidance or regulation by the Food and Drug Administration relating to the Seafood Hazard Analysis Critical Control Points Program of the Food and Drug Administration (parts 123 and 1240 of title 21, Code of Federal Regulations (or any successor regulations)\[)\], where such guidance, regulation or suggested amendment relates to post harvest processing for raw oysters, the Secretary shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report which shall include—
 
 &emsp;“(1) an assessment of how post harvest processing or other equivalent controls feasibly may be implemented in the fastest, safest, and most economical manner;
 
@@ -212,7 +212,7 @@ Public Access.—Any report prepared under this section shall be made available 
 
 #### Domestic Fish or Fish Product Compliance With Food Safety Standards or Procedures Deemed To Have Met Requirements for Federal Commodity Purchase Programs
 
-Pub. L. 104–180, title VII, §733, Aug. 6, 1996, 110 Stat. 1601, provided that: “Hereafter, notwithstanding any other provision of law, any domestic fish or fish product produced in compliance with food safety standards or procedures accepted by the Food and Drug Administration as satisfying the requirements of the ‘Procedures for the Safe and Sanitary Processing and Importing of Fish and Fish Products’ (published by the Food and Drug Administration as a final regulation in the Federal Register of December 18, 1995), shall be deemed to have met any inspection requirements of the Department of Agriculture or other Federal agency for any Federal commodity purchase program, including the program authorized under section 32 of the Act of August 24, 1935 (7 U.S.C. 612c) except that the Department of Agriculture or other Federal agency may utilize lot inspection to establish a reasonable degree of certainty that fish or fish products purchased under a Federal commodity purchase program, including the program authorized under section 32 of the Act of August 24, 1935 (7 U.S.C. 612c), meet Federal product specifications.”
+Pub. L. 104–180, title VII, §733, Aug. 6, 1996, 110 Stat. 1601, provided that: “Hereafter, notwithstanding any other provision of law, any domestic fish or fish product produced in compliance with food safety standards or procedures accepted by the Food and Drug Administration as satisfying the requirements of the ‘Procedures for the Safe and Sanitary Processing and Importing of Fish and Fish Products’ (published by the Food and Drug Administration as a final regulation in the Federal Register of December 18, 1995), shall be deemed to have met any inspection requirements of the Department of Agriculture or other Federal agency for any Federal commodity purchase program, including theprogram authorized under section 32 of the Act of August 24, 1935 (7 U.S.C. 612c) except that the Department of Agriculture or other Federal agency may utilize lot inspection to establish a reasonable degree of certainty that fish or fish products purchased under a Federal commodity purchase program, including the program authorized under section 32 of the Act of August 24, 1935 (7 U.S.C. 612c), meet Federal product specifications.”
 
 <i><sup>1</sup></i><i> So in original. The period probably should be “; or”.</i>
 

@@ -48,7 +48,7 @@ If the President selects a remedial action that results in any hazardous substan
 
 &emsp;(I) there are known and projected points of entry of such groundwater into surface water; and
 
-&emsp;(II) on the basis of measurements or projections, there is or will be no statistically significant increase of such constituents from such groundwater in such surface water at the point of entry or at any point where there is reason to believe accumulation of constituents may occur downstream; and
+&emsp;(II) on the basis of measurements or projections, there is or will be no statistically significant increase of such constituents from such groundwater in such surface water at the point of entry or at any point where there isreason to believe accumulation of constituents may occur downstream; and
 
 &emsp;(III) the remedial action includes enforceable measures that will preclude human exposure to the contaminated groundwater at any point between the facility boundary and all known and projected points of entry of such groundwater into surface water
 
@@ -68,7 +68,7 @@ If the President selects a remedial action that results in any hazardous substan
 
 (iv) Where the remedial action selected by the President does not conform to a State standard and the State has initiated a law suit against the Environmental Protection Agency prior to May 1, 1986, to seek to have the remedial action conform to such standard, the President shall conform the remedial action to the State standard. The State shall assure the availability of an offsite facility for such remedial action.
 
-(3) In the case of any removal or remedial action involving the transfer of any hazardous substance or pollutant or contaminant offsite, suchhazardous substance or pollutant or contaminant shall only be transferred to a facility which is operating in compliance with section 3004 and 3005 of the Solid Waste Disposal Act \[42 U.S.C. 6924, 6925\] (or, where applicable, in compliance with the Toxic Substances Control Act \[15 U.S.C. 2601 et seq.\] or other applicable Federal law) and all applicable State requirements. Such substance or pollutant or contaminant may be transferred to a land disposal facility only if the President determines that both of the following requirements are met:
+(3) In the case of any removal or remedial action involving the transfer of any hazardous substance or pollutant or contaminant offsite, such hazardous substance or pollutant or contaminant shall only be transferred to a facility which is operating in compliance with section 3004 and 3005 of the Solid Waste Disposal Act \[42 U.S.C. 6924, 6925\] (or, where applicable, in compliance with the Toxic Substances Control Act \[15 U.S.C. 2601 et seq.\] or other applicable Federal law) and all applicable State requirements. Such substance or pollutant or contaminant may be transferred to a land disposal facility only if the President determines that both of the following requirements are met:
 
 &emsp;(A) The unit to which the hazardous substance or pollutant or contaminant is transferred is not releasing any hazardous waste, or constituent thereof, into the groundwater or surface water or soil.
 
@@ -124,7 +124,7 @@ If the President selects a remedial action that results in any hazardous substan
 
 &emsp;(F) Notice to the State of negotiations with potentially responsible parties regarding the scope of any response action at a facility in the State and an opportunity to participate in such negotiations and, subject to paragraph (2), be a party to any settlement.
 
-&emsp;(G) Notice to the State and an opportunity to comment on the President's proposed planfor remedial action as well as on alternative plans under consideration. The President's proposed decision regarding the selection of remedial action shall be accompanied by a response to the comments submitted by the State, including an explanation regarding any decision under subsection (d)(4) of this section on compliance with promulgated State standards. A copy of such response shall also be provided to the State.
+&emsp;(G) Notice to the State and an opportunity to comment on the President's proposed plan for remedial action as well as on alternative plans under consideration. The President's proposed decision regarding the selection of remedial action shall be accompanied by a response to the comments submitted by the State, including an explanation regarding any decision under subsection (d)(4) of this section on compliance with promulgated State standards. A copy of such response shall also be provided to the State.
 
 &emsp;(H) Prompt notice and explanation of each proposed action to the State in which the facility is located.
 
@@ -140,7 +140,7 @@ If the President selects a remedial action that results in any hazardous substan
 
 (B) If the State does not concur in such selection as provided in subparagraph (A), and desires to have the remedial action conform to such standard, requirement, criteria, or limitation, the State may maintain an action as follows:
 
-&emsp;(i) If the President has notified the State of selection of such a remedial action, the State may bring an action within 30 days of such notification for the sole purpose of determining whether the finding of the President is supported by substantial evidence. Such action shall be brought in the United States district court for the district in which the facility is located.
+&emsp;(i) If the President has notified the State of selection of such a remedial action, the Statemay bring an action within 30 days of such notification for the sole purpose of determining whether the finding of the President is supported by substantial evidence. Such action shall be brought in the United States district court for the district in which the facility is located.
 
 &emsp;(ii) If the State establishes, on the administrative record, that the President's finding is not supported by substantial evidence, the remedial action shall be modified to conform to such standard, requirement, criteria, or limitation.
 
@@ -158,7 +158,7 @@ This chapter, referred to in subsecs. (d)(1) and (e)(2), was in the original “
 
 The Toxic Substances Control Act, referred to in subsec. (d)(2)(A)(i), (3), is Pub. L. 94–469, Oct. 11, 1976, 90 Stat. 2003, which is classified generally to chapter 53 (§2601 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 15 and Tables.
 
-The Safe Drinking Water Act, referred to in subsec. (d)(2)(A), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1660, which is classified generally to subchapter XII (§300f et seq.) ofchapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
+The Safe Drinking Water Act, referred to in subsec. (d)(2)(A), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1660, which is classified generally to subchapter XII (§300f et seq.) of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
 The Clean Air Act, referred to in subsec. (d)(2)(A)(i), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
 
@@ -168,7 +168,7 @@ The Marine Protection, Research and Sanctuaries Act, referred to in subsec. (d)(
 
 #### Effective Date
 
-Section 121(b) of Pub. L. 99–499 provided that: “With respect to section 121 of CERCLA \[this section\], as added by this section—
+Pub. L. 99–499, title I, §121(b), Oct. 17, 1986, 100 Stat. 1678, provided that: “With respect to section 121 of CERCLA \[this section\], as added by this section—
 
 &emsp;“(1) The requirements of section 121 of CERCLA shall not apply to any remedial action for which the Record of Decision (hereinafter in this section referred to as the ‘ROD’) was signed, or the consent decree was lodged, before date of enactment \[Oct. 17, 1986\].
 

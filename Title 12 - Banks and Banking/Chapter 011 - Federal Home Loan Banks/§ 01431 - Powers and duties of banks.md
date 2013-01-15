@@ -68,7 +68,7 @@ Notwithstanding the provisions of section 9105(a)(1)(B) <sup>2</sup> of title 3
 
 &emsp;&emsp;(B) be adequately secured.
 
-#### (<i>l</i>) Temporary authority of Treasury to purchase obligations; conditions
+#### (l) Temporary authority of Treasury to purchase obligations; conditions
 
 #### (1) Authority to purchase
 
@@ -134,7 +134,7 @@ Notwithstanding the provisions of section 9105(a)(1)(B) <sup>2</sup> of title 3
 
 #### (4) Termination of authority
 
-&emsp;The authority under this subsection (<i>l</i>), with the exception of paragraphs (2) and (3) of this subsection, shall expire December 31, 2009.
+&emsp;The authority under this subsection (l), with the exception of paragraphs (2) and (3) of this subsection, shall expire December 31, 2009.
 
 #### (5) Authority of the Director with respect to executive compensation
 
@@ -152,7 +152,7 @@ In subsecs. (i) (first par.) and (j), “chapter 31 of title 31” substituted f
 
 #### Amendments
 
-<b>2010</b>—Subsec. (<i>l</i>)(2)(C), (D). Pub. L. 111–203 added subpar. (C) and redesignated former subpar. (C) as (D).
+<b>2010</b>—Subsec. (l)(2)(C), (D). Pub. L. 111–203 added subpar. (C) and redesignated former subpar. (C) as (D).
 
 <b>2008</b>—Pub. L. 110–289, §1204(9), substituted “The Director” for “The Board” wherever appearing in subsecs. (d) to (f).
 
@@ -164,7 +164,7 @@ Subsec. (c). Pub. L. 110–289, §1204(3)(B), substituted “the Office of Finan
 
 Subsec. (f). Pub. L. 110–289, §1204(3)(C), struck out the two commas after “permit” and inserted “or” and struck out the comma after “require”.
 
-Subsec. (<i>l</i>). Pub. L. 110–289, §1117(c), added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 110–289, §1117(c), added subsec. (l).
 
 <b>2006</b>—Subsec. (k). Pub. L. 109–173 substituted “the Deposit Insurance Fund” for “SAIF” in heading and “Deposit Insurance Fund” for “Savings Association Insurance Fund” in pars. (1) and (2).
 

@@ -14,6 +14,10 @@ In a suit described in subsection (a) or (b) of this section for a violation des
 
 (July 5, 1946, ch. 540, title VI, §40, as added Pub. L. 102–542, §3(b), Oct. 27, 1992, 106 Stat. 3567; amended Pub. L. 106–43, §4(b), Aug. 5, 1999, 113 Stat. 219.)
 
+#### Constitutionality
+
+For information regarding constitutionality of section 40 of act July 5, 1946, as added by section 3(b) of Pub. L. 102–542, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+
 #### Prior Provisions
 
 A prior section 1122, act July 5, 1946, ch. 540, title VI, §40, 60 Stat. 440, related to review of cases by the Supreme Court, prior to repeal by act May 24, 1949, ch. 139, §142, 63 Stat. 109. See section 1254 of Title 28, Judiciary and Judicial Procedure.

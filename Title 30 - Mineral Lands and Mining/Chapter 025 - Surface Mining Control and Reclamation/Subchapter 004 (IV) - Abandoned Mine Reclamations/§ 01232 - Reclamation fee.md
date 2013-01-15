@@ -2,7 +2,7 @@
 
 #### (a) Payment; rate
 
-All operators of coal mining operations subject to the provisions of this chapter shall pay to the Secretary of the Interior, for deposit in the fund, a reclamation fee of 31.5 cents per ton of coal produced by surface coal mining and 13.5 cents per ton of coal produced by underground mining or 10 per centum of the value of the coal at the mine, as determined by the Secretary, whichever is less, except that the reclamation fee for lignite coal shall be at a rate of 2 per centum of the value of the coal at the mine, or 9 cents per ton, whichever is less.
+All operators of coal mining operations subject to the provisions of this chapter shall pay to the Secretary of the Interior, for deposit in the fund, a reclamation fee of 28 cents per ton of coal produced by surface coal mining and 12 cents per ton of coal produced by underground mining or 10 per centum of the value of the coal at the mine, as determined by the Secretary, whichever is less, except that the reclamation fee for lignite coal shall be at a rate of 2 per centum of the value of the coal at the mine, or 8 cents per ton, whichever is less.
 
 #### (b) Due date
 
@@ -36,7 +36,7 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 
 &emsp;&emsp;(ii) Lands and waters which are eligible pursuant to section 1234 of this title (in the case of a State not certified under section 1240a(a) of this title) or pursuant to section 1240a(b) of this title (in the case of a State certified under section 1240a(a) of this title).
 
-&emsp;(B) 50 percent of the reclamation fees collected annually with respect to Indian landsshall be allocated annually by the Secretary to the Indian tribe having jurisdiction over such lands, subject to such tribe having each of the following:
+&emsp;(B) 50 percent of the reclamation fees collected annually with respect to Indian lands shall be allocated annually by the Secretary to the Indian tribe having jurisdiction over such lands, subject to such tribe having each of the following:
 
 &emsp;&emsp;(i) an <sup>2</sup> approved abandoned mine reclamation program pursuant to section 1235 of this title.
 
@@ -76,7 +76,7 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 
 (F) For the purposes of the certification referred to in section 1240a(a) of this title, sites referred to in subparagraph (A) of this paragraph shall be considered as having the same priorities as those stated in section 1233(a) of this title for eligible lands and waters pursuant to section 1234 of this title. All sites referred to in subparagraph (A) of this paragraph within any State shall be reclaimed prior to such State making the certification referred to in section 1240a(a) of this title.
 
-(5)(A) The Secretary shall allocate 60 percent of the amount in the fund after making the allocation referred to in paragraph (1) for making additional annual grants to States and Indian tribes which are not certified under section 1240a(a) of this title to supplement grants received by such States and Indian tribes pursuant to paragraph (1)(C) until the priorities stated in paragraphs (1) and (2) of section 1233(a) of this title have been achieved by such State or Indiantribe. The allocation of such funds for the purpose of making such expenditures shall be through a formula based on the amount of coal historically produced in the State or from the Indian lands concerned prior to August 3, 1977. Funds made available under paragraph (3) or (4) of this subsection for any State or Indian tribe shall not be deducted against any allocation of funds to the State or Indian tribe under paragraph (1) or under this paragraph.
+(5)(A) The Secretary shall allocate 60 percent of the amount in the fund after making the allocation referred to in paragraph (1) for making additional annual grants to States and Indian tribes which are not certified under section 1240a(a) of this title to supplement grants received by such States and Indian tribes pursuant to paragraph (1)(C) until the priorities stated in paragraphs (1) and (2) of section 1233(a) of this title have been achieved by such State or Indian tribe. The allocation of such funds for the purpose of making such expenditures shall be through a formula based on the amount of coal historically produced in the State or from the Indian lands concerned prior to August 3, 1977. Funds made available under paragraph (3) or (4) of this subsection for any State or Indian tribe shall not be deducted against any allocation of funds to the State or Indian tribe under paragraph (1) or under this paragraph.
 
 (B) Any amount that is reallocated and available under section 1240a(h)(3) of this title shall be in addition to amounts that are allocated under subparagraph (A).
 
@@ -116,7 +116,7 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 
 #### (A) United Mine Workers of America Combined Benefit Fund
 
-&emsp;&emsp;A transfer to the United Mine Workers of America Combined Benefit Fund equal to the amount that the trustees of the Combined Benefit Fund estimate will be expended from the fund for the fiscal year in which the transfer is made, reduced by—
+&emsp;&emsp;A transfer to the United Mine Workers of America Combined Benefit Fund equal tothe amount that the trustees of the Combined Benefit Fund estimate will be expended from the fund for the fiscal year in which the transfer is made, reduced by—
 
 &emsp;&emsp;&emsp;(i) the amount the trustees of the Combined Benefit Fund estimate the Combined Benefit Fund will receive during the fiscal year in—
 
@@ -130,7 +130,7 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 
 &emsp;&emsp;A transfer to the United Mine Workers of America 1992 Benefit Plan, in an amount equal to the difference between—
 
-&emsp;&emsp;&emsp;(i) the amount that the trustees of the 1992 UMWA Benefit Plan estimate will be expended from the 1992 UMWA BenefitPlan during the next calendar year to provide the benefits required by the 1992 UMWA Benefit Plan on December 20, 2006; minus
+&emsp;&emsp;&emsp;(i) the amount that the trustees of the 1992 UMWA Benefit Plan estimate will be expended from the 1992 UMWA Benefit Plan during the next calendar year to provide the benefits required by the 1992 UMWA Benefit Plan on December 20, 2006; minus
 
 &emsp;&emsp;&emsp;(ii) the amount that the trustees of the 1992 UMWA Benefit Plan estimate the 1992 UMWA Benefit Plan will receive during the next calendar year in—
 
@@ -202,7 +202,7 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 
 #### (II) Application
 
-&emsp;&emsp;&emsp;&emsp;The contributions described in subclause (I) shall be applied first to theprovision of benefits to those plan beneficiaries who are not described in paragraph (2)(C)(ii).
+&emsp;&emsp;&emsp;&emsp;The contributions described in subclause (I) shall be applied first to the provision of benefits to those plan beneficiaries who are not described in paragraph (2)(C)(ii).
 
 #### (ii) Initial contributions
 
@@ -262,7 +262,7 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 
 &emsp;&emsp;&emsp;&emsp;(II) the amounts required under section 9706(h)(3)(C) of title 26.
 
-&emsp;&emsp;(B) On certification by the trustees of any plan described in subsection (h)(2) that the amount available for transfer by the Secretary pursuant to this section (determined after application of any limitation under subsection (h)(5)) is less than the amount required to be transferred, to the plan the amount necessary to meet the requirement of subsection (h)(2).
+&emsp;&emsp;(B) On certification by the trustees of any plan described in subsection (h)(2) that the amount available for transfer by the Secretary pursuant to this section (determined after application of any limitation under subsection (h)(5)) is less than the amount required to be transferred, to the plan theamount necessary to meet the requirement of subsection (h)(2).
 
 &emsp;&emsp;(C) To the Combined Fund, $9,000,000 on October 1, 2007, $9,000,000 on October 1, 2008, $9,000,000 on October 1, 2009, and $9,000,000 on October 1, 2010 (which amounts shall not be exceeded) to provide a refund of any premium (as described in section 9704(a) of title 26) paid on or before September 7, 2000, to the Combined Fund, plus interest on the premium calculated at the rate of 7.5 percent per year, on a proportional basis and to be paid not later than 60 days after the date on which each payment is received by the Combined Fund, to those signatory operators (to the extent that the Combined Fund has not previously returned the premium amounts to the operators), or any related persons to the operators (as defined in section 9701(c) of title 26), or their heirs, successors, or assigns who have been denied the refunds as the result of final judgments or settlements if—
 
@@ -300,10 +300,6 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 
 (Pub. L. 95–87, title IV, §402, Aug. 3, 1977, 91 Stat. 457; Pub. L. 100–34, title I, §101, May 7, 1987, 101 Stat. 300; Pub. L. 101–508, title VI, §§6003, 6004, Nov. 5, 1990, 104 Stat. 1388–290, 1388–291; Pub. L. 102–486, title XIX, §19143(b)(1), (2), (3)(B), title XXV, §2515, Oct. 24, 1992, 106 Stat. 3056, 3113; Pub. L. 108–447, div. E, title I, §135(a), Dec. 8, 2004, 118 Stat. 3068; Pub. L. 109–13, div. A, title VI, §6035, May 11, 2005, 119 Stat. 289; Pub. L. 109–54, title I, §129, Aug. 2, 2005, 119 Stat. 525; Pub. L. 109–234, title VII, §7007, June 15, 2006, 120 Stat. 483; Pub. L. 109–432, div. C, title II, §202, Dec. 20, 2006, 120 Stat. 3008; Pub. L. 110–343, div. C, title VI, §602, Oct. 3, 2008, 122 Stat. 3911.)
 
-#### Amendment of Subsection (a)
-
-<i>Pub. L. 109–432, div. C, title II, §202(a)(2), Dec. 20, 2006, 120 Stat. 3008, provided that, effective Oct. 1, 2012, subsection (a) of this section is amended by substituting “28” for “31.5”, “12” for “13.5”, and “8 cents” for “9 cents”.</i>
-
 #### Codification
 
 November 5, 1990, referred to in subsec. (g)(4)(B)(ii), was in the original “the date of enactment of this paragraph”, which was translated as meaning the date of enactment of Pub. L. 101–508, which amended this section generally, to reflect the probable intent of Congress.
@@ -312,7 +308,9 @@ November 5, 1990, referred to in subsec. (g)(4)(B)(ii), was in the original “t
 
 <b>2008</b>—Subsec. (i)(1)(C). Pub. L. 110–343 substituted “$9,000,000 on October 1, 2009, and $9,000,000 on October 1, 2010” for “and $9,000,000 on October 1, 2009” in introductory provisions.
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–432, §202(a)(1), substituted “31.5” for “35”, “13.5” for “15”, and “9 cents” for “10 cents”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–432, §202(a)(2), substituted “28” for “31.5”, “12” for “13.5”, and “8 cents” for “9 cents”.
+
+Pub. L. 109–432, §202(a)(1), substituted “31.5” for “35”, “13.5” for “15”, and “9 cents” for “10 cents”.
 
 Subsec. (b). Pub. L. 109–432, §202(b), substituted “September 30, 2021” for “September 30, 2007, after which time the fee shall be established at a rate to continue to provide for the deposit referred to in subsection (h) of this section”.
 
@@ -330,7 +328,7 @@ Subsec. (g)(3)(E). Pub. L. 109–432, §202(c)(3)(C), added subpar. (E).
 
 Subsec. (g)(5). Pub. L. 109–432, §202(c)(4), designated existing provisions as subpar. (A), in first sentence, substituted “60” for “40”, in last sentence, subtituted “Funds made available under paragraph (3) or (4)” for “Funds allocated or expended by the Secretary under paragraphs (2), (3), or (4)”, and added subpar. (B).
 
-Subsec. (g)(6) to (8). Pub. L. 109–432, §202(c)(5), added pars. (6) to (8) and struck out former pars. (6) to (8) which related to authority of any State to receive and retain up to 10 percent of the total of grants, State authority to establish an acid mine drainage abatement and treatment fund and to implement plans for acid mine drainage abatement and treatment, and allocation of not less than $2,000,000 annually for expenditure in each State and for each Indian tribe, having an approved reclamation program and eligible lands and waters.
+Subsec. (g)(6) to (8). Pub. L. 109–432, §202(c)(5), added pars. (6) to (8) and struck out former pars. (6) to (8) which related to authority of any State to receive and retain up to 10 percent of the total of grants, State authority to establish an acid mine drainage abatement and treatment fund and to implement plans for acidmine drainage abatement and treatment, and allocation of not less than $2,000,000 annually for expenditure in each State and for each Indian tribe, having an approved reclamation program and eligible lands and waters.
 
 Subsecs. (h), (i). Pub. L. 109–432, §202(d), added subsecs. (h) and (i) and struck out former subsec. (h) which related to transfer of funds to the United Mine Workers of America Combined Benefit Fund.
 

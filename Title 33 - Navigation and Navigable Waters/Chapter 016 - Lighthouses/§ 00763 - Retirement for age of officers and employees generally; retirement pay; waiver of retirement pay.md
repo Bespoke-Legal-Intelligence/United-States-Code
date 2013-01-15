@@ -20,15 +20,15 @@ Except for the last proviso this section was from act June 20, 1918. The last pr
 
 #### Effective Date of 1972 Amendment
 
-Section 6(b) of Pub. L. 92–455 provided that: “The amendments made by subsection (a) of this section \[amending this section\] shall apply with respect to officers and employees to which such section 6 \[amending this section\] applies who are involuntarily separated or retired on or after the date of the enactment of this Act \[Oct. 2, 1972\].”
+Pub. L. 92–455, §6(b), Oct. 2, 1972, 86 Stat. 761, provided that: “The amendments made by subsection (a) of this section \[amending this section\] shall apply with respect to officers and employees to which such section 6 \[amending this section\] applies who are involuntarily separated or retired on or after the date of the enactment of this Act \[Oct. 2, 1972\].”
 
 #### Effective Date of 1967 Amendment
 
-Section 2 of Pub. L. 90–164 provided that: “The amendment made by this Act \[amending this section\] shall take effect on the first day of the second month which begins after the date of enactment of this Act \[Nov. 29, 1967\].”
+Pub. L. 90–164, §2, Nov. 29, 1967, 81 Stat. 519, provided that: “The amendment made by this Act \[amending this section\] shall take effect on the first day of the second month which begins after the date of enactment of this Act \[Nov. 29, 1967\].”
 
 #### Effective Date of 1955 Amendment
 
-Section 2 of act June 21, 1955, provided that: “This Act \[amending this section\] shall take effect on the first day of the second month beginning after the date of enactment of this Act \[June 21, 1955\].”
+Act June 21, 1955, ch. 170, §2, 69 Stat. 167, provided that: “This Act \[amending this section\] shall take effect on the first day of the second month beginning after the date of enactment of this Act \[June 21, 1955\].”
 
 #### Transfer of Functions
 

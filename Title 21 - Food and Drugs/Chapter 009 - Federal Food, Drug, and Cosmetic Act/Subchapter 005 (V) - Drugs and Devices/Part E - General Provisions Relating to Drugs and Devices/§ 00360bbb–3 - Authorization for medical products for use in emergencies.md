@@ -64,7 +64,7 @@
 
 #### (3) Advance notice of termination
 
-&emsp;The Secretary shall provide advance notice that a declaration under this subsection will be terminated. The period of advance notice shall be a period reasonably determined to provide—
+&emsp;The Secretary shall provide advance notice that a declaration under this subsection willbe terminated. The period of advance notice shall be a period reasonably determined to provide—
 
 &emsp;&emsp;(A) in the case of an unapproved product, a sufficient period for disposition of the product, including the return of such product (except such quantities of product as are necessary to provide for continued use consistent with subsection (f)(2) of this section) to the manufacturer (in the case of a manufacturer that chooses to have such product returned); and
 
@@ -134,7 +134,7 @@ An authorization of a product under this section shall state—
 
 #### (B) Authority for additional conditions
 
-&emsp;&emsp;With respect to the emergency use of an unapproved product, the Secretary may, for a person who carries out any activity for which the authorization is issued, establish such conditions on an authorization under this section as the Secretary finds necessary or appropriate to protect the public health, including the following:
+&emsp;&emsp;With respect to the emergency use of an unapproved product, the Secretary may, for a person who carries out any activity for which the authorization is issued, establish such conditions on an authorization underthis section as the Secretary finds necessary or appropriate to protect the public health, including the following:
 
 &emsp;&emsp;&emsp;(i) Appropriate conditions on which entities may distribute the product with respect to the emergency use of the product (including limitation to distribution by government entities), and on how distribution is to be performed.
 
@@ -150,7 +150,7 @@ An authorization of a product under this section shall state—
 
 &emsp;&emsp;(A) For a manufacturer of the product who carries out any activity for which the authorization is issued, the Secretary shall, to the extent practicable given the circumstances of the emergency, establish conditions described in clauses (i) and (ii) of paragraph (1)(A), and may establish conditions described in clauses (iii) and (iv) of such paragraph.
 
-&emsp;&emsp;(B)(i) If the authorization under this section regarding the emergency use authorizes a change in the labeling of the product, but the manufacturer of the product chooses notto make such change, such authorization may not authorize distributors of the product or any other person to alter or obscure the labeling provided by the manufacturer.
+&emsp;&emsp;(B)(i) If the authorization under this section regarding the emergency use authorizes a change in the labeling of the product, but the manufacturer of the product chooses not to make such change, such authorization may not authorize distributors of the product or any other person to alter or obscure the labeling provided by the manufacturer.
 
 &emsp;&emsp;(ii) In the circumstances described in clause (i), for a person who does not manufacture the product and who chooses to act under this clause, an authorization under this section regarding the emergency use shall, to the extent practicable given the circumstances of the emergency, authorize such person to provide appropriate information with respect to such product in addition to the labeling provided by the manufacturer, subject to compliance with clause (i). While the authorization under this section is effective, such additional information shall not be considered labeling for purposes of section 352 of this title.
 
@@ -214,9 +214,9 @@ The following applies with respect to this section:
 
 #### (k) Relation to other provisions
 
-If a product is the subject of an authorization under this section, the use of such product within the scope of the authorization shall not beconsidered to constitute a clinical investigation for purposes of section 355(i) of this title, section 360j(g) of this title, or any other provision of this chapter or section 262 of title 42.
+If a product is the subject of an authorization under this section, the use of such product within the scope of the authorization shall not be considered to constitute a clinical investigation for purposes of section 355(i) of this title, section 360j(g) of this title, or any other provision of this chapter or section 262 of title 42.
 
-#### (<i>l</i>) Option to carry out authorized activities
+#### (l) Option to carry out authorized activities
 
 Nothing in this section provides the Secretary any authority to require any person to carry out any activity that becomes lawful pursuant to an authorization under this section, and no person is required to inform the Secretary that the person will not be carrying out such activity, except that a manufacturer of a sole-source unapproved product authorized for emergency use shall report to the Secretary within a reasonable period of time after the issuance by the Secretary of such authorization if such manufacturer does not intend to carry out any activity under the authorization. This section only has legal effect on a person who carries out an activity for which an authorization under this section is issued. This section does not modify or affect activities carried out pursuant to other provisions of this chapter or section 262 of title 42. Nothing in this subsection may be construed as restricting the Secretary from imposing conditions on persons who carry out any activity pursuant to an authorization under this section.
 
@@ -224,5 +224,5 @@ Nothing in this section provides the Secretary any authority to require any pers
 
 #### Amendments
 
-<b>2004</b>—Pub. L. 108–276 amended section generally, substituting provisions of subsecs. (a) to (<i>l</i>) for similar former provisions, except for additional provisions in subsec. (b)(1) allowing Secretary to authorize use of medical products in actual or potential domestic and public health emergencies in addition to actual or potential military emergencies.
+<b>2004</b>—Pub. L. 108–276 amended section generally, substituting provisions of subsecs. (a) to (l) for similar former provisions, except for additional provisions in subsec. (b)(1) allowing Secretary to authorize use of medical products in actual or potential domestic and public health emergencies in addition to actual or potential military emergencies.
 

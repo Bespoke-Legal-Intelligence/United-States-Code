@@ -6,9 +6,15 @@ General.—In carrying out this part, the Administrator of the Federal Aviation 
 
 &emsp;(1) to the extent that amounts are available for obligation, may acquire services or, by condemnation or otherwise, an interest in property, including an interest in airspace immediately adjacent to and needed for airports and other air navigation facilities owned by the United States Government and operated by the Administrator;
 
-&emsp;(2) may dispose of an interest in property for adequate compensation; and
+&emsp;(2) may construct and improve laboratories and other test facilities; and
 
-&emsp;(3) may construct and improve laboratories and other test facilities.
+&emsp;(3) may dispose of any interest in property for adequate compensation, and the amount so received shall—
+
+&emsp;&emsp;(A) be credited to the appropriation current when the amount is received;
+
+&emsp;&emsp;(B) be merged with and available for the purposes of such appropriation; and
+
+&emsp;&emsp;(C) remain available until expended.
 
 (b)
 
@@ -48,11 +54,9 @@ Duties and Powers.—When carrying out subsection (a) of this section, the Admin
 
 &emsp;(2) consider the reasonable probable future use of the underlying land in making an award for a condemnation of an interest in airspace;
 
-&emsp;(3) construct, or acquire an interest in, a public building (as defined in section 3301(a) oftitle 40) only under a delegation of authority from the Administrator of General Services;
+&emsp;(3) construct, or acquire an interest in, a public building (as defined in section 3301(a) of title 40) only under a delegation of authority from the Administrator of General Services; and
 
-&emsp;(4) use procedures other than competitive procedures only when the property or services needed by the Administrator of the Federal Aviation Administration are available from only one responsible source or only from a limited number of responsible sources and no other type of property or services will satisfy the needs of the Administrator; and
-
-&emsp;(5) dispose of property under subsection (a)(2) of this section, except for airport and airway property and technical equipment used for the special purposes of the Administration, only under sections 121, 123, and 126 and chapter 5 of title 40.
+&emsp;(4) dispose of property under subsection (a)(2) of this section, except for airport and airway property and technical equipment used for the special purposes of the Administration, only under sections 121, 123, and 126 and chapter 5 of title 40.
 
 (d)
 
@@ -76,7 +80,7 @@ Applicability of federal acquisition law.—The following provisions of Federal 
 
 &emsp;&emsp;(C) The Federal Acquisition Streamlining Act of 1994 (Public Law 103–355). However, section 4705 of title 41 shall apply to the new acquisition management system developed and implemented pursuant to paragraph (1). For the purpose of applying section 4705 of title 41 to the system, the term “executive agency” is deemed to refer to the Federal Aviation Administration.
 
-&emsp;&emsp;(D) The Small Business Act (15 U.S.C. 631 et seq.), except that all reasonable opportunities to be awarded contracts shall be provided to small business concerns and small business concerns owned and controlled by socially and economically disadvantaged individuals.
+&emsp;&emsp;(D) The Small Business Act (15 U.S.C. 631 et seq.), except that all reasonable opportunities to be awarded contracts shall be provided to small business concerns and smallbusiness concerns owned and controlled by socially and economically disadvantaged individuals.
 
 &emsp;&emsp;(E) The Competition in Contracting Act.
 
@@ -116,7 +120,7 @@ Exception.—Paragraph (1) shall not apply to any portion of a proposal of an of
 
 Proposal defined.—In this subsection, the term “proposal” means information contained in or originating from any proposal, including a technical, management, or cost proposal, submitted by an offeror in response to the requirements of a solicitation for a competitive proposal.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1106; Pub. L. 103–429, §6(48), (80), Oct. 31, 1994, 108 Stat. 4384, 4388; Pub. L. 104–264, title XII, §1201, Oct. 9,1996, 110 Stat. 3279; Pub. L. 106–181, title III, §307(b), title VII, §703, Apr. 5, 2000, 114 Stat. 125, 156; Pub. L. 107–217, §3(n)(5), Aug. 21, 2002, 116 Stat. 1302; Pub. L. 108–176, title II, §§222, 224(a), (b), Dec. 12, 2003, 117 Stat. 2527; Pub. L. 108–178, §4(k), Dec. 15, 2003, 117 Stat. 2642; Pub. L. 111–350, §5(<i>o</i>)(7), Jan. 4, 2011, 124 Stat. 3853.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1106; Pub. L. 103–429, §6(48), (80), Oct. 31, 1994, 108 Stat. 4384, 4388; Pub. L. 104–264, title XII, §1201, Oct. 9, 1996, 110 Stat. 3279; Pub. L. 106–181, title III, §307(b), title VII, §703, Apr. 5, 2000, 114 Stat. 125, 156; Pub. L. 107–217, §3(n)(5), Aug. 21, 2002, 116 Stat. 1302; Pub. L. 108–176, title II, §§222, 224(a), (b), Dec. 12, 2003, 117 Stat. 2527; Pub. L. 108–178, §4(k), Dec. 15, 2003, 117 Stat. 2642; Pub. L. 111–350, §5(o)(7), Jan. 4, 2011, 124 Stat. 3853; Pub. L. 112–95, title II, §§206, 210, Feb. 14, 2012, 126 Stat. 39, 44.)
 
 Historical and Revision Notes
 
@@ -196,21 +200,29 @@ The date of the enactment of the Wendell H. Ford Aviation Investment and Reform 
 
 #### Amendments
 
-<b>2011</b>—Subsec. (d)(2)(A). Pub. L. 111–350, §5(<i>o</i>)(7)(A), substituted “Division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “Title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 252–266)”.
+<b>2012</b>—Subsec. (a)(2), (3). Pub. L. 112–95, §210, added pars. (2) and (3) and struck out former pars. (2) and (3) which read as follows:
 
-Subsec. (d)(2)(B). Pub. L. 111–350, §5(<i>o</i>)(7)(B), substituted “Division B (except sections 1704 and 2303) of subtitle I of title 41” for “The Office of Federal Procurement Policy Act (41 U.S.C. 401 et seq.)”.
+“(2) may dispose of an interest in property for adequate compensation; and
 
-Subsec. (d)(2)(C). Pub. L. 111–350, §5(<i>o</i>)(7)(C), substituted “(Public Law 103–355). However, section 4705 of title 41 shall apply to the new acquisition management system developed and implemented pursuant to paragraph (1). For the purpose of applying section 4705 of title 41 to the system,” for “(Public Law 103–355), except for section 315 (41 U.S.C. 265). For the purpose of applying section 315 of that Act to the system,”.
+“(3) may construct and improve laboratories and other test facilities.”
 
-Subsec. (d)(3). Pub. L. 111–350, §5(<i>o</i>)(7)(D)(i), (ii), substituted “division b (except sections 1704 and 2303) of subtitle i of title 41” for “the office of federal procurement policy act” in heading and “chapter 21 of title 41” for “section 27 of the Office of Federal Procurement Policy Act (41 U.S.C. 423)” in text.
+Subsec. (c)(3) to (5). Pub. L. 112–95, §206, inserted “and” at end of par. (3), redesignated par. (5) as (4), and struck out former par. (4) which read as follows: “use procedures other than competitive procedures only when the property or services needed by the Administrator of the Federal Aviation Administration are available from only one responsible source or only from a limited number of responsible sources and no other type of property or services will satisfy the needs of the Administrator; and”.
 
-Subsec. (d)(3)(A). Pub. L. 111–350, §5(<i>o</i>)(7)(D)(iii), substituted “Sections 2101 and 2106 of title 41” for “Subsections (f) and (g)”.
+<b>2011</b>—Subsec. (d)(2)(A). Pub. L. 111–350, §5(o)(7)(A), substituted “Division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “Title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 252–266)”.
+
+Subsec. (d)(2)(B). Pub. L. 111–350, §5(o)(7)(B), substituted “Division B (except sections 1704 and 2303) of subtitle I of title 41” for “The Office of Federal Procurement Policy Act (41 U.S.C. 401 et seq.)”.
+
+Subsec. (d)(2)(C). Pub. L. 111–350, §5(o)(7)(C), substituted “(Public Law 103–355). However, section 4705 of title 41 shall apply to the new acquisition management system developed and implemented pursuant to paragraph (1). For the purpose of applying section 4705 of title 41 to the system,” for “(Public Law 103–355), except for section 315 (41 U.S.C. 265). For the purpose of applying section 315 of that Act to the system,”.
+
+Subsec. (d)(3). Pub. L. 111–350, §5(o)(7)(D)(i), (ii), substituted “division b (except sections 1704 and 2303) of subtitle i of title 41” for “the office of federal procurement policy act” in heading and “chapter 21 of title 41” for “section 27 of the Office of Federal Procurement Policy Act (41 U.S.C. 423)” in text.
+
+Subsec. (d)(3)(A). Pub. L. 111–350, §5(o)(7)(D)(iii), substituted “Sections 2101 and 2106 of title 41” for “Subsections (f) and (g)”.
 
 <b>2003</b>—Subsec. (c). Pub. L. 108–176, §224(a), struck out par. (1), which related to the senior procurement executive, par. (2) designation before “may—”, and subpar. (D) of par. (2), which related to use procedures other than competitive procedures, redesignated subpars. (A), (B), (C), (E), and (F) of par. (2) as pars. (1) to (5), respectively, and realigned margins.
 
 Subsec. (d)(1). Pub. L. 108–176, §224(b)(1), struck out “, not later than January 1, 1996,” after “shall develop and implement”, substituted “provides for—” for “provides for more timely and cost-effective acquisitions of equipment and materials.”, and added subpars. (A) and (B).
 
-Subsec. (d)(2)(C). Pub. L. 108–176, §222, substituted “(Public Law 103–355), except for section 315 (41 U.S.C. 265). For the purpose of applying section 315 of that Act to the system, the term ‘executive agency’ is deemed torefer to the Federal Aviation Administration.” for “(Public Law 103–355).”
+Subsec. (d)(2)(C). Pub. L. 108–176, §222, substituted “(Public Law 103–355), except for section 315 (41 U.S.C. 265). For the purpose of applying section 315 of that Act to the system, the term ‘executive agency’ is deemed to refer to the Federal Aviation Administration.” for “(Public Law 103–355).”
 
 Subsec. (d)(2)(G). Pub. L. 108–178, §4(k)(3), substituted “subparagraphs (A) through (F)” for “subparagraphs (A) through (G)”.
 
@@ -250,6 +262,14 @@ Except as otherwise specifically provided, amendment by Pub. L. 104–264 applic
 
 Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
 
+#### Contracting
+
+Pub. L. 112–95, title VIII, §814, Feb. 14, 2012, 126 Stat. 125, provided that: “When drafting contract proposals for training facilities under the general contracting authority of the Federal Aviation Administration, the Administrator of the Federal Aviation Administration shall ensure—
+
+&emsp;“(1) the proposal is drafted so that all parties can fairly compete; and
+
+&emsp;“(2) the proposal takes into consideration the most cost-effective location, accessibility, and services options.”
+
 #### FAA Evaluation of Long-Term Capital Leasing
 
 Pub. L. 106–181, title VII, §704, Apr. 5, 2000, 114 Stat. 157, provided that:
@@ -272,7 +292,7 @@ Types of Contracts.—The contracts to be evaluated under the program may includ
 
 #### Assessment of Acquisition Management System
 
-Section 251 of Pub. L. 104–264 provided that: “Not later than April 1, 1999, the Administrator \[of the Federal Aviation Administration\] shall employ outside experts to provide an independent evaluation of the effectiveness of the Administration's \[Federal Aviation Administration\] acquisition management system within 3 months after such date. The Administrator shall transmit a copy of the evaluation to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.”
+Pub. L. 104–264, title II, §251, Oct. 9, 1996, 110 Stat. 3236, provided that: “Not later than April 1, 1999, the Administrator \[of the Federal Aviation Administration\] shall employ outside experts to provide an independent evaluation of the effectiveness of the Administration's \[Federal Aviation Administration\] acquisition management system within 3 months after such date. The Administrator shall transmit a copy of the evaluation to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.”
 
 Pub. L. 104–205, title III, §351, Sept. 30, 1996, 110 Stat. 2979, provided that: “Not later than December 31, 1997, the Administrator of the Federal Aviation Administration shall—
 
@@ -298,7 +318,7 @@ Pilot Program Implementation.—(1) The Secretary of Transportation should presc
 
 “(2) Not later than 45 days after the date of enactment of this Act \[Oct. 13, 1994\], the Secretary of Transportation shall identify for the pilot program quantitative measures and goals for reducing acquisition management costs.
 
-“(3) The Secretary of Transportation shall establish for the pilot program a review process that providessenior acquisition officials with reports on the minimum necessary data items required to ensure the appropriate expenditure of funds appropriated for the program and that—
+“(3) The Secretary of Transportation shall establish for the pilot program a review process that provides senior acquisition officials with reports on the minimum necessary data items required to ensure the appropriate expenditure of funds appropriated for the program and that—
 
 &emsp;“(A) contain essential information on program results at appropriate intervals, including the criteria to be used in measuring the success of the program; and
 

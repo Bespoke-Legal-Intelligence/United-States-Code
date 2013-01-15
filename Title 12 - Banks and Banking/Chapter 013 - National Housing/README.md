@@ -21,7 +21,7 @@
 | 1701j–3. | Preemption of due-on-sale prohibitions. |
 | [1701k.](%C2%A7%2001701k%20-%20Right%20to%20redeem%20property%20on%20which%20United%20States%20has%20lien.md) | Right to redeem property on which United States has lien. |
 | 1701<i>l.</i> | Limitation on interest rates of insured mortgages; terms of sales. |
-| 1701<i>l</i>–1. | Mortgage proceeds fraudulently misappropriated by mortgagor; recovery of deficiency after foreclosure. |
+| 1701l–1. | Mortgage proceeds fraudulently misappropriated by mortgagor; recovery of deficiency after foreclosure. |
 | [1701m.](%C2%A7%2001701m%20-%20Credit%20and%20cancellation%20of%20notes%20transferred%20from%20Reconstruction%20Finance%20Corporation%3B%20net%20loss%20computation.md) | Credit and cancellation of notes transferred from Reconstruction Finance Corporation; net loss computation. |
 | [1701n.](%C2%A7%2001701n%20-%20Reduction%20of%20vulnerability%20of%20congested%20urban%20areas%20to%20enemy%20attack.md) | Reduction of vulnerability of congested urban areas to enemy attack. |
 | 1701<i>o.</i> | Annual report of Secretary. |
@@ -173,7 +173,7 @@
 | [1717a.](Subchapter%20003%20%28III%29%20-%20National%20Mortgage%20Associations/%C2%A7%2001717a%20-%20Prohibition%20against%20sale%20of%20obligations%20by%20Federal%20departments%20and%20agencies%20after%20June%2030%2C%201966%2C%20without%20compliance%20with%20requirements%20of%E2%80%A6.md) | Prohibition against sale of obligations by Federal departments and agencies after June 30, 1966, without compliance with requirements of section 1717(c) of this title or without approval by Secretary of the Treasury; exemption. |
 | [1718\.](Subchapter%20003%20%28III%29%20-%20National%20Mortgage%20Associations/%C2%A7%2001718%20-%20Capitalization%20of%20Federal%20National%20Mortgage%20Association.md) | Capitalization of Federal National Mortgage Association. |
 | [1719\.](Subchapter%20003%20%28III%29%20-%20National%20Mortgage%20Associations/%C2%A7%2001719%20-%20Secondary%20market%20operations.md) | Secondary market operations. |
-| [1720\.](Subchapter%20003%20%28III%29%20-%20National%20Mortgage%20Associations/%C2%A7%2001720%20-%20Repealed.%20Pub.%20L.%2098%E2%80%93181%2C%20title%20IV%2C%20%C2%A7483%28a%29%2C%20Nov.%2030%2C%201983%2C%2097%20Stat.%201240.md) | Repealed. |
+| [1720\.](Subchapter%20003%20%28III%29%20-%20National%20Mortgage%20Associations/%C2%A7%2001720%20-%20Repealed.%20Pub.%20L.%2098%E2%80%93181%2C%20title%20I%20%5Btitle%20IV%2C%20%C2%A7483%28a%29%5D%2C%20Nov.%2030%2C%201983%2C%2097%20Stat.%201240.md) | Repealed. |
 | [1721\.](Subchapter%20003%20%28III%29%20-%20National%20Mortgage%20Associations/%C2%A7%2001721%20-%20Management%20and%20liquidation%20functions%20of%20Government%20National%20Mortgage%20Association.md) | Management and liquidation functions of Government National Mortgage Association. |
 | [1722\.](Subchapter%20003%20%28III%29%20-%20National%20Mortgage%20Associations/%C2%A7%2001722%20-%20Benefits%20and%20burdens%20incident%20to%20administration%20of%20functions%20and%20operations%20under%20sections%201720%20and%201721.md) | Benefits and burdens incident to administration of functions and operations under sections 1720 and 1721. |
 | [1723\.](Subchapter%20003%20%28III%29%20-%20National%20Mortgage%20Associations/%C2%A7%2001723%20-%20Management.md) | Management. |
@@ -310,7 +310,7 @@
 
 |  |
 | :--- |
-| 1749aa to 1749<i>ll</i>. Repealed. |
+| 1749aa to 1749ll. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

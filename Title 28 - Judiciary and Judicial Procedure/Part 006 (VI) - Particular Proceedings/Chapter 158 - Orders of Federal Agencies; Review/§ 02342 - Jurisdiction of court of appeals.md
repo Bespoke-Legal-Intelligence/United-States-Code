@@ -100,7 +100,7 @@ Par. (5). Pub. L. 104–88, §305(d)(8), added par. (5) and struck out former pa
 
 #### Effective Date of 1996 Amendment
 
-Section 6(f) of Pub. L. 104–287 provided that the amendment made by that section is effective Dec. 29, 1995.
+Pub. L. 104–287, §6(f), Oct. 11, 1996, 110 Stat. 3399, provided that the amendment made by that section is effective Dec. 29, 1995.
 
 #### Effective Date of 1995 Amendment
 
@@ -112,7 +112,7 @@ Amendment by Pub. L. 100–430 effective on 180th day beginning after Sept. 13, 
 
 #### Effective Date of 1986 Amendment
 
-Section 5(b) of Pub. L. 99–336 provided that: “The amendment made by this section \[amending this section\] shall apply with respect to any rule, regulation, or final order described in such amendment which is issued on or after the date of the enactment of this Act \[June 19, 1986\].”
+Pub. L. 99–336, §5(b), June 19, 1986, 100 Stat. 638, provided that: “The amendment made by this section \[amending this section\] shall apply with respect to any rule, regulation, or final order described in such amendment which is issued on or after the date of the enactment of this Act \[June 19, 1986\].”
 
 #### Effective Date of 1982 Amendment
 

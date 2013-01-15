@@ -54,9 +54,9 @@
 
 (3) A judge who becomes permanently disabled and as a result of that disability is unable to perform the duties of the office shall retire.
 
-(c)(1)(A) A judge who is appointed on or after the date of the enactment of the Veterans’ Benefits Improvement Act of 2008 and who retires under subsection (b) and elects under subsection\(d) to receive retired pay under this subsection shall (except as provided in paragraph (2)) receive retired pay as follows:
+(c)(1)(A) A judge who is appointed on or after the date of the enactment of the Veterans’ Benefits Improvement Act of 2008 and who retires under subsection (b) and elects under subsection (d) to receive retired pay under this subsection shall (except as provided in paragraph (2)) receive retired pay as follows:
 
-&emsp;(i) In the case of a judge who is a recall-eligible retired judge under section 7257 of this title, the retired pay of the judge shall (subject to section 7257(d)(2) of this title) be the rate of pay applicable to that judge at the time of retirement, as adjusted from time to time under subsection (f)(3).
+&emsp;(i) In the case of a judge who is a recall-eligible retired judge under section 7257 of thistitle, the retired pay of the judge shall (subject to section 7257(d)(2) of this title) be the rate of pay applicable to that judge at the time of retirement, as adjusted from time to time under subsection (f)(3).
 
 &emsp;(ii) In the case of a judge other than a recall-eligible retired judge, the retired pay of the judge shall be the rate of pay applicable to that judge at the time of retirement.
 
@@ -98,9 +98,9 @@
 
 (B) If such a cost-of-living adjustment would (but for this subparagraph) result in the retired pay of a retired judge being in excess of the annual rate of pay in effect for judges of the Court as provided in section 7253(e) of this title, such adjustment may be made only in such amount as results in the retired pay of the retired judge being equal to that annual rate of pay (as in effect on the effective date of such adjustment).
 
-(g)(1) A judge who becomes permanently disabled and as a result of that disability is unable to perform the duties of the office shall certify to the President in writing that such permanent disability exists. If the chief judge retires for such a disability, the retirement of the chief judge shall not take effect until concurred in by the President. If any other judge retires for such a disability, the chief judge shall furnish to thePresident a certificate of disability signed by the chief judge.
+(g)(1) A judge who becomes permanently disabled and as a result of that disability is unable to perform the duties of the office shall certify to the President in writing that such permanent disability exists. If the chief judge retires for such a disability, the retirement of the chief judge shall not take effect until concurred in by the President. If any other judge retires for such a disability, the chief judge shall furnish to the President a certificate of disability signed by the chief judge.
 
-(2) Whenever the President finds that a judge has become permanently disabled and as a result of that disability is unable to perform the duties of the office, the President shall declare that judge to be retired. Before a judge may be retired under this paragraph, the judge shall be provided with a full specification of the reasons for the retirement and an opportunity to be heard.
+(2) Whenever the President finds that a judge has become permanently disabled and as a result of that disability is unable to perform the dutiesof the office, the President shall declare that judge to be retired. Before a judge may be retired under this paragraph, the judge shall be provided with a full specification of the reasons for the retirement and an opportunity to be heard.
 
 (h)(1) An individual who has filed an election to receive retired pay under subsection (c) of this section may revoke such election at any time before the first day on which retired pay would (but for such revocation) begin to accrue with respect to such individual.
 
@@ -190,7 +190,7 @@ Eligible Judges.—For purposes of this section, an eligible judge is a judge of
 
 &emsp;“(2) has made an election to receive retired pay under section 7296 of such title;
 
-&emsp;“(3) has at least 20 years of service described in section 7297(<i>l</i>) of such title; and
+&emsp;“(3) has at least 20 years of service described in section 7297(l) of such title; and
 
 &emsp;“(4) is at least 55 years of age.
 
@@ -262,7 +262,7 @@ Transitional Service of Judge Retired Under This Section.—(1) A judge who reti
 
 “(7) In the case of such a person who makes an election provided for under paragraph (4)(B), upon the termination of the service of that person as a judge of the Court under this subsection, the retired pay of that person under subsection (g) shall be recomputed to reflect the additional period of service served under this subsection.
 
-“(<i>l</i>)
+“(l)
 
 Treatment of Political Party Membership.—For purposes of determining compliance with the last sentence of section 7253(b) of title 38, United States Code, the political party membership of a judge serving on the Court under subsection (j) shall not be taken into account.
 

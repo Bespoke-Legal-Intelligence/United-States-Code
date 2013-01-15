@@ -40,7 +40,7 @@ Treatment of Receipts.—(1) Notwithstanding section 35 of the Mineral Leasing A
 
 (g)
 
-Use of Receipts.—(1) The Secretary of the Interior may use, without further appropriation, not more than $1,500,000 of the moneys covered into the Treasury under subsection (f)(1) to cover the cost of any additional analysis, site characterization, and geotechnical studies deemed necessary by the Secretary to support environmental restoration, waste management, or environmental compliance with respect to Oil Shale Reserve Numbered 3. Upon the completion of such studies, the Secretary of the Interior shall submit to Congress a report containing—
+Use of Receipts.—(1) The Secretary of the Interior may use, without further appropriation, not more than $1,500,000 of the moneys coveredinto the Treasury under subsection (f)(1) to cover the cost of any additional analysis, site characterization, and geotechnical studies deemed necessary by the Secretary to support environmental restoration, waste management, or environmental compliance with respect to Oil Shale Reserve Numbered 3. Upon the completion of such studies, the Secretary of the Interior shall submit to Congress a report containing—
 
 &emsp;(A) the results and conclusions of such studies; and
 
@@ -54,7 +54,7 @@ Use of Receipts.—(1) The Secretary of the Interior may use, without further ap
 
 The Mineral Leasing Act, referred to in subsec. (b)(1), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, which is classified generally to chapter 3A (§181 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 181 of Title 30 and Tables.
 
-The Federal Land Policy and Management Act of 1976, referred to in subsec. (c), is Pub. L. 94–579, Oct. 21,1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
+The Federal Land Policy and Management Act of 1976, referred to in subsec. (c), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
 
 The National Environmental Policy Act of 1969, referred to in subsec. (e), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 

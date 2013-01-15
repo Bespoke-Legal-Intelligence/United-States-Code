@@ -12,7 +12,7 @@
 
 (c) Upon a certification by the Attorney General that a person described in subsection (a) was acting in the scope of such person's duties or employment at the time of the incident out of which the suit arose, any such civil action or proceeding commenced in a State court—
 
-&emsp;(1) shall be removed without bond at any time before trial by the Attorney General to the district court of the United States of the district and division embracing the place wherein it is pending; and
+&emsp;(1) shall be removed without bond at any time before trial by the Attorney General tothe district court of the United States of the district and division embracing the place wherein it is pending; and
 
 &emsp;(2) shall be deemed a tort action brought against the United States under the provisions of title 28 and all references thereto. Should a United States district court determine on a hearing on a motion to remand held before a trial on the merits that the case so removed is one in which a remedy by suit within the meaning of subsection (a) is not available against the United States, the case shall be remanded to the State court.
 
@@ -34,11 +34,11 @@ Subsec. (g). Pub. L. 100–448, §15(a)(2), inserted reference to the Secretary 
 
 #### Effective Date of 1988 Amendment
 
-Section 15(b) of Pub. L. 100–448 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply only to claims accruing on or after the date of the enactment of this Act \[Sept. 28, 1988\], regardless of when the alleged negligent act or omission occurred.”
+Pub. L. 100–448, §15(b), Sept. 28, 1988, 102 Stat. 1845, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply only to claims accruing on or after the date of the enactment of this Act \[Sept. 28, 1988\], regardless of when the alleged negligent act or omission occurred.”
 
 #### Effective Date
 
-Section 1356(b) of Pub. L. 99–661 provided that: “Section 1054 of title 10, United States Code, as added by subsection (a), shall apply only to claims accruing on or after the date of the enactment of this Act \[Nov. 14, 1986\], regardless of when the alleged negligent or wrongful act or omission occurred.”
+Pub. L. 99–661, div. A, title XIII, §1356(b), Nov. 14, 1986, 100 Stat. 3998, provided that: “Section 1054 of title 10, United States Code, as added by subsection (a), shall apply only to claims accruing on or after the date of the enactment of this Act \[Nov. 14, 1986\], regardless of when the alleged negligent or wrongful act or omission occurred.”
 
 #### Transfer of Functions
 

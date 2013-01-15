@@ -6,7 +6,7 @@ The Congress makes the following findings:
 
 &emsp;(1) Trade in motor vehicles and motor vehicle parts is one of the most restricted areas of trade between the United States and Mexico.
 
-&emsp;(2) The elimination of Mexico's restrictive barriers to trade in motor vehicles and motor vehicle parts over a 10-year period under the Agreement should increase substantiallyUnited States exports of such products to Mexico.
+&emsp;(2) The elimination of Mexico's restrictive barriers to trade in motor vehicles and motor vehicle parts over a 10-year period under theAgreement should increase substantially United States exports of such products to Mexico.
 
 &emsp;(3) The Department of Commerce estimates that the Agreement provides the opportunity to increase United States exports of motor vehicles and motor vehicle parts by $1,000,000,000 during the first year of the Agreement's implementation with the potential for additional increases over the 10-year transition period.
 

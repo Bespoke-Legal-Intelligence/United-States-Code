@@ -38,7 +38,9 @@
 
 (2) The Secretary of Labor shall ensure that the administration of the reporting requirement under paragraph (1) is coordinated with respect to any requirement for the contractor to make any other report to the Secretary of Labor.
 
-(Added Pub. L. 92–540, title V, §503(a), Oct. 24, 1972, 86 Stat. 1097, §2012; amended Pub. L. 93–508, title IV, §402, Dec. 3, 1974, 88 Stat. 1593; Pub. L. 94–502, title VI, §§605, 607(2), Oct. 15, 1976, 90 Stat. 2405; Pub. L. 95–520, §6(a), Oct. 26, 1978, 92 Stat. 1821; Pub. L. 96–466, title V, §509, title VIII, §801(j), Oct. 17, 1980, 94 Stat. 2206, 2217; Pub. L. 97–306, title III, §310(a), Oct. 14, 1982, 96 Stat. 1442; renumbered §4212 and amended Pub. L. 102–83, §§4(b)(8), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 405, 406; Pub. L. 103–446, title VII, §702(a), Nov. 2, 1994, 108 Stat. 4674; Pub. L. 105–339, §§7(a), 8, Oct. 31, 1998, 112 Stat. 3188, 3189; Pub. L. 106–419, title III, §322(a), (b), Nov. 1, 2000, 114 Stat. 1855; Pub. L. 107–288, §2(b)(1), (2)(A)–(C), Nov. 7, 2002, 116 Stat. 2034, 2035.)
+(3) The Secretary of Labor shall establish and maintain an Internet website on which the Secretary of Labor shall publicly disclose the information reported to the Secretary of Labor by contractors under paragraph (1).
+
+(Added Pub. L. 92–540, title V, §503(a), Oct. 24, 1972, 86 Stat. 1097, §2012; amended Pub. L. 93–508, title IV, §402, Dec. 3, 1974, 88 Stat. 1593; Pub. L. 94–502, title VI, §§605, 607(2), Oct. 15, 1976, 90 Stat. 2405; Pub. L. 95–520, §6(a), Oct. 26, 1978, 92 Stat. 1821; Pub. L. 96–466, title V, §509, title VIII, §801(j), Oct. 17, 1980, 94 Stat. 2206, 2217; Pub. L. 97–306, title III, §310(a), Oct. 14, 1982, 96 Stat. 1442; renumbered §4212 and amended Pub. L. 102–83, §§4(b)(8), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 405, 406; Pub. L. 103–446, title VII, §702(a), Nov. 2, 1994, 108 Stat. 4674; Pub. L. 105–339, §§7(a), 8, Oct. 31, 1998, 112 Stat. 3188, 3189; Pub. L. 106–419, title III, §322(a), (b), Nov. 1, 2000, 114 Stat. 1855; Pub. L. 107–288, §2(b)(1), (2)(A)–(C), Nov. 7, 2002, 116 Stat. 2034, 2035; Pub. L. 112–154, title VII, §708, Aug. 6, 2012, 126 Stat. 1207.)
 
 #### References in Text
 
@@ -47,6 +49,8 @@ The Workforce Investment Act of 1998, referred to in subsec. (a)(2)(A), is Pub. 
 Executive Order No. 12985, referred to in subsec. (a)(3)(A)(iii), is set out as a note preceding section 1121 of Title 10, Armed Forces.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (d)(3). Pub. L. 112–154 added par. (3).
 
 <b>2002</b>—Subsec. (a). Pub. L. 107–288, §2(b)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any contract in the amount of $25,000 or more entered into by any department or agency for the procurement of personal property and non-personal services (including construction) for the United States, shall contain a provision requiring that the party contracting with the United States shall take affirmative action to employ and advance in employment qualified special disabled veterans, veterans of the Vietnam era, recently separated veterans, and any other veterans who served on active duty during a war or in a campaign or expedition for which a campaign badge has been authorized. The provisions of this section shall apply to any subcontract entered into by a prime contractor in carrying out any contract for the procurement of personal property and non-personal services (including construction) for the United States. In addition to requiring affirmative action to employ such veterans under such contracts and subcontracts and in order to promote the implementation of such requirement, the President shall implement the provisions of this section by promulgating regulations which shall require that (1) each such contractor undertake in such contract to list immediately with the appropriate local employment service office all of its employment openings except that the contractor may exclude openings for executive and top management positions, positions which are to be filled from within the contractor's organization, and positions lasting three days or less, and (2) each such local office shall give such veterans priority in referral to such employment openings.”
 
@@ -124,7 +128,7 @@ Section effective 90 days after Oct. 24, 1972, see section 601(b) of Pub. L. 92�
 
 #### Prescription of Regulations
 
-Section 310(b) of Pub. L. 97–306 provided that: “Within 90 days after the date of the enactment of this Act \[Oct. 14, 1982\], the Secretary of Labor shall prescribe regulations under subsection (d) of section 2012 \[now 4212\] of title 38, United States Code, as added by the amendment made by subsection (a).”
+Pub. L. 97–306, title III, §310(b), Oct. 14, 1982, 96 Stat. 1442, provided that: “Within 90 days after the date of the enactment of this Act \[Oct. 14, 1982\], the Secretary of Labor shall prescribe regulations under subsection (d) of section 2012 \[now 4212\] of title 38, United States Code, as added by the amendment made by subsection (a).”
 
 #### Ex. Ord. No. 11701. Employment of Veterans by Federal Agencies and Government Contractors and Subcontractors
 

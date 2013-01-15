@@ -96,7 +96,7 @@ Amendment by Pub. L. 106–58 effective at noon on Jan. 20, 2001, see section 63
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a noteunder section 401 of Title 42, The Public Health and Welfare.
+Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of Title 42, The Public Health and Welfare.
 
 #### Transfer of Functions
 
@@ -140,11 +140,11 @@ Transfer of Functions.—(1) The President may transfer such offices, functions,
 
 #### Chief Financial Officers of Department of Veterans Affairs and Department of Housing and Urban Development
 
-Section 205(c)(1) of Pub. L. 101–576 provided that: “The Secretary of Veterans Affairs and the Secretary of Housing and Urban Development may each designate as the agency Chief Financial Officer of that department for purposes of section 901 of title 31, United States Code, as amended by this section, the officer designated, respectively, under section 4(c) of the Department of Veterans Affairs Act (38 U.S.C. 201 note) and section 4(e) of the Department of Housing and Urban Development Act (42 U.S.C. 3533(e)), as in effect before the effective date of this Act \[Nov. 15, 1990\].”
+Pub. L. 101–576, title II, §205(c)(1), Nov. 15, 1990, 104 Stat. 2845, provided that: “The Secretary of Veterans Affairs and the Secretary of Housing and Urban Development may each designate as the agency Chief Financial Officer of that department for purposes of section 901 of title 31, United States Code, as amended by thissection, the officer designated, respectively, under section 4(c) of the Department of Veterans Affairs Act (38 U.S.C. 201 note) and section 4(e) of the Department of Housing and Urban Development Act (42 U.S.C. 3533(e)), as in effect before the effective date of this Act \[Nov. 15, 1990\].”
 
 #### Transfer of Functions and Personnel of Agency Chief Financial Officers
 
-Section 206 of Pub. L. 101–576 provided that:
+Pub. L. 101–576, title II, §206, Nov. 15, 1990, 104 Stat. 2845, provided that:
 
 “(a)
 
@@ -168,7 +168,7 @@ Implementation of Proposal.—Upon receiving written notice of approval of a pro
 
 #### Chief Financial Officers Council
 
-Section 302 of Pub. L. 101–576 provided that:
+Pub. L. 101–576, title III, §302, Nov. 15, 1990, 104 Stat. 2848, provided that:
 
 “(a)
 

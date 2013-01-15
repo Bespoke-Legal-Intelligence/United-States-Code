@@ -8,7 +8,7 @@
 
 &emsp;(3) perform such additional duties as the Secretary may prescribe.
 
-(b) The Assistant Secretary may communicate views on issues within the responsibility of the Assistant Secretary directly to the Secretary of Defense and the Deputy Secretary of Defense without obtaining the approval or concurrence of any other official within the Department of Defense.
+(b) The Assistant Secretary may communicate views on issues within the responsibility of theAssistant Secretary directly to the Secretary of Defense and the Deputy Secretary of Defense without obtaining the approval or concurrence of any other official within the Department of Defense.
 
 (Added Pub. L. 100–180, div. A, title XII, §1245(a)(1), Dec. 4, 1987, 101 Stat. 1165, §141; renumbered §142, Pub. L. 103–160, div. A, title IX, §901(a)(1), Nov. 30, 1993, 107 Stat. 1726; amended Pub. L. 104–106, div. A, title IX, §§903(c)(4), 904(a)(1), Feb. 10, 1996, 110 Stat. 402, 403; Pub. L. 104–201, div. A, title IX, §901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 110–417, \[div. A\], title IX, §905, Oct. 14, 2008, 122 Stat. 4568; renumbered §138d and amended Pub. L. 111–383, div. A, title IX, §901(b)(8), (k)(1)(D), Jan. 7, 2011, 124 Stat. 4320, 4325.)
 

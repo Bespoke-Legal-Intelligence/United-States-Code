@@ -68,7 +68,7 @@
 
 &emsp;In this section, the term “Secretary” means—
 
-&emsp;&emsp;(A) the Secretary of Health and Human Services with respect to waivers relating tothe provisions described in subparagraph (A) through (C) of paragraph (2); and
+&emsp;&emsp;(A) the Secretary of Health and Human Services with respect to waivers relating to the provisions described in subparagraph (A) through (C) of paragraph (2); and
 
 &emsp;&emsp;(B) the Secretary of the Treasury with respect to waivers relating to the provisions described in paragraph (2)(D).
 
@@ -134,7 +134,7 @@ Part I of subtitle E, referred to in subsec. (a)(3), is part I (§§1401–1415)
 
 This title, where footnoted in subsecs. (a)(3) and (b)(1)(A) to (C), is title I of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 130, which enacted this chapter and enacted, amended, and transferred numerous other sections and notes in the Code. For complete classification of title I to the Code, see Tables.
 
-The Administrative Procedures Act, referred to in subsec. (a)(4)(B)(iii), probably means the Administrative Procedure Act, act June 11, 1946, ch. 324, 60 Stat. 237, which was classified to sections 1001 to 1011 of former title 5 and which was repealed and reenacted as subchapter II (§551 et seq.) of chapter 5, and chapter 7 (§701 et seq.), of Title 5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378. See Short Title note preceding section 551 of Title 5.
+The Administrative Procedures Act, referred to in subsec. (a)(4)(B)(iii), probably means the Administrative Procedure Act, act June 11, 1946, ch. 324, 60 Stat.237, which was classified to sections 1001 to 1011 of former title 5 and which was repealed and reenacted as subchapter II (§551 et seq.) of chapter 5, and chapter 7 (§701 et seq.), of Title 5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378. See Short Title note preceding section 551 of Title 5.
 
 The Social Security Act, referred to in subsec. (a)(5), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§1395 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 

@@ -8,7 +8,7 @@
 
 (C) Subject to paragraph (4) of this subsection, the amount of any such payment made to an agency for any period shall be equal to the amount of the reasonable and necessary expenses of salary and travel certified by such agency for such period in accordance with paragraph (3) of this subsection plus the allowance for administrative expenses described in subsection (b) and the amount of expenses approved by the Secretary that are incurred in carrying out activities described in section 3674A(a)(3) of this title for such period (except for administrative overhead expenses allocated to such activities).
 
-(3) Each State and local agency with which a contract or agreement is entered into under this section shall submit to the Secretary on a monthly or quarterly basis, as determined by the agency, a report containing a certification of the reasonable and necessary expenses incurred for salary and travel by such agency under such contract or agreement for the period covered by the report. The report shall be submitted in the form and manner required by the Secretary.
+(3) Each State and local agency with which a contract or agreement is entered into under thissection shall submit to the Secretary on a monthly or quarterly basis, as determined by the agency, a report containing a certification of the reasonable and necessary expenses incurred for salary and travel by such agency under such contract or agreement for the period covered by the report. The report shall be submitted in the form and manner required by the Secretary.
 
 (4) The total amount made available under this section for any fiscal year shall be $19,000,000.
 
@@ -68,7 +68,7 @@ Subsec. (a)(2)(C). Pub. L. 101–237, §414(2), inserted before period at end �
 
 Subsec. (c). Pub. L. 101–237, §423(b)(1)(A), substituted “Secretary” for “Administrator” wherever appearing.
 
-<b>1988</b>—Subsec. (a)(1). Pub. L. 100–323, §13(b)(5), in subpar. (A) substituted “chapters 30 through 35 of this title and chapters 106 and 107 of title 10” for “chapters 34 and 35 of this title”, in subpar. (B) substituted “such chapters” for “chapters 34 and 35 of this title”, and in provisions following subpar. (B) substituted “provisions of such chapters” for “provisions of chapters 34 and 35 ofthis title” and “requirements of such chapters” for “requirements of chapter 32, 34, 35, or 36 of this title”.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–323, §13(b)(5), in subpar. (A) substituted “chapters 30 through 35 of this title and chapters 106 and 107 of title 10” for “chapters 34 and 35 of this title”, in subpar. (B) substituted “such chapters” for “chapters 34 and 35 of this title”, and in provisions following subpar. (B) substituted “provisions of such chapters” for “provisions of chapters 34 and 35 of this title” and “requirements of such chapters” for “requirements of chapter 32, 34, 35, or 36 of this title”.
 
 Pub. L. 100–323, §13(a)(1)(A), (B), substituted “(1) Subject to paragraphs (2) through (4) of this subsection, the Administrator is” for “The Administrator is”, and redesignated pars. (1) and (2) as subpars. (A) and (B), respectively.
 
@@ -100,7 +100,7 @@ Subsec. (b). Pub. L. 92–540, §411, provided for recomputation of formula for 
 
 #### Effective Date of 1994 Amendment
 
-Section 606(a)(2) of Pub. L. 103–446 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to services provided under such section after September 30, 1994.”
+Pub. L. 103–446, title VI, §606(a)(2), Nov. 2, 1994, 108 Stat. 4672, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to services provided under such section after September 30, 1994.”
 
 #### Effective Date of 1988 Amendment
 
@@ -124,9 +124,9 @@ Amendment by Pub. L. 93–508 effective Dec. 3, 1974, see section 503 of Pub. L.
 
 #### Effective Date of 1968 Amendment
 
-Section 6(b) of Pub. L. 90–631 provided that: “The amendments made by section 4 of this Act \[amending this section\] shall apply with respect to contracts and agreements entered into under section 1774 \[now 3674\] of title 38, United States Code, effective for periods beginning after June 30, 1968.”
+Pub. L. 90–631, §6(b), Oct. 23, 1968, 82 Stat. 1335, provided that: “The amendments made by section 4 of this Act \[amending this section\] shall apply with respect to contracts and agreements entered into under section 1774 \[now 3674\] of title 38, United States Code, effective for periods beginning after June 30, 1968.”
 
 #### Reimbursement From Account Used for Payment of Readjustment Benefits
 
-Section 13(a)(2) of Pub. L. 100–323 provided that: “If any payment is made to State or local approving agencies with respect to activities carried out under subchapter I of chapter 36 of title 38, United States Code, for fiscal year 1988 before the date of the enactment of this Act \[May 20, 1988\] and from an account other than the account used for payment of readjustment benefits, the account from which such payment was made shall be reimbursed from the account used for payment of readjustment benefits.”
+Pub. L. 100–323, §13(a)(2), May 20, 1988, 102 Stat. 572, provided that: “If any payment is made to State or local approving agencies with respect to activities carried out under subchapter I of chapter 36 of title 38, United States Code, for fiscal year 1988 before the date of the enactment of this Act \[May 20, 1988\] and from an account other than the account used for payment of readjustment benefits, the account from which such payment was made shall be reimbursed from the account used for payment of readjustment benefits.”
 

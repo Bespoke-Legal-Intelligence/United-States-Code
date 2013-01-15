@@ -4,19 +4,17 @@
 
 Establishment.—(1) The Secretary of Defense shall establish a Strategic Materials Protection Board.
 
-(2) The Board shall be composed of representatives of the following:
+(2) The Board shall be composed of the following:
 
-&emsp;(A) The Secretary of Defense, who shall be the chairman of the Board.
+&emsp;(A) The Deputy Assistant Secretary of Defense for Manufacturing and Industrial Base Policy, who shall be the chairman of the Board.
 
-&emsp;(B) The Under Secretary of Defense for Acquisition, Technology, and Logistics.
+&emsp;(B) The Administrator of the Defense Logistics Agency Strategic Materials, or any successor organization, who shall be the vice chairman of the Board.
 
-&emsp;(C) The Under Secretary of Defense for Intelligence.
+&emsp;(C) A designee of the Assistant Secretary of the Army for Acquisition, Logistics, and Technology.
 
-&emsp;(D) The Secretary of the Army.
+&emsp;(D) A designee of the Assistant Secretary of the Navy for Research, Development, and Acquisition.
 
-&emsp;(E) The Secretary of the Navy.
-
-&emsp;(F) The Secretary of the Air Force.
+&emsp;(E) A designee of the Assistant Secretary of the Air Force for Acquisition.
 
 (b)
 
@@ -26,19 +24,21 @@ Duties.—In addition to other matters assigned to it by the Secretary of Defens
 
 &emsp;(2) analyze the risk associated with each material designated as critical to national security and the effect on national defense that the nonavailability of such material would have;
 
-&emsp;(3) recommend a strategy to the President to ensure a secure supply of materials designated as critical to national security;
+&emsp;(3) recommend a strategy to the Secretary to ensure a secure supply of materials designated as critical to national security;
 
-&emsp;(4) recommend such other strategies to the President as the Board considers appropriateto strengthen the industrial base with respect to materials critical to national security; and
+&emsp;(4) recommend such other strategies to the Secretary as the Board considers appropriate to strengthen the industrial base with respect to materials critical to national security; and
 
 &emsp;(5) publish not less frequently than once every two years in the Federal Register recommendations regarding materials critical to national security, including a list of specialty metals, if any, recommended for addition to, or removal from, the definition of “specialty metal” for purposes of section 2533b of this title.
 
 (c)
 
-Meetings.—The Board shall meet as determined necessary by the Secretary of Defense but not less frequently than once every two years to make recommendations regarding materials critical to national security as described in subsection (b)(5).
+Meetings.—The Board shall meet as determined necessary by the Deputy Assistant Secretary of Defense for Manufacturing and Industrial Base Policy but not less frequently than once every two years to make recommendations regarding materials critical to national security as described in subsection (b)(5).
 
 (d)
 
-Reports.—After each meeting of the Board, the Board shall prepare and submit to Congress a report containing the results of the meeting and such recommendations as the Board determines appropriate.
+Reports.—(1) Subject to paragraph (2), after each meeting of the Board, the Board shall prepare a report containing the results of the meeting and such recommendations as the Board determines appropriate. Each such report shall be submitted to the congressional defense committees, together with comments and recommendations from the Secretary of Defense, not later than 90 days after the meeting covered by the report.
+
+(2) In any year in which the Board meets more than once, each report prepared by the Board as required by paragraph (1) may be combined into one annual report and submitted as provided by paragraph (1) not later than 90 days after the last meeting of the year.
 
 (e)
 
@@ -54,9 +54,17 @@ Definitions.—In this section:
 
 &emsp;(3) The term “secure supply”, with respect to a material, means the availability of a source or sources for the material, including the full supply chain for the material and components containing the material.
 
-(Added Pub. L. 109–364, div. A, title VIII, §843(a), Oct. 17, 2006, 120 Stat. 2338; amended Pub. L. 111–383, div. A, title VIII, §829, Jan. 7, 2011, 124 Stat. 4272.)
+(Added Pub. L. 109–364, div. A, title VIII, §843(a), Oct. 17, 2006, 120 Stat. 2338; amended Pub. L. 111–383, div. A, title VIII, §829, Jan. 7, 2011, 124Stat. 4272; Pub. L. 112–239, div. A, title IX, §901(c), Jan. 2, 2013, 126 Stat. 1864.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (a)(2). Pub. L. 112–239, §901(c)(1), amended par. (2) generally. Prior to amendment, par. (2) related to composition of the Strategic Materials Protection Board.
+
+Subsec. (b)(3), (4). Pub. L. 112–239, §901(c)(2), substituted “Secretary” for “President”.
+
+Subsec. (c). Pub. L. 112–239, §901(c)(3), substituted “Deputy Assistant Secretary of Defense for Manufacturing and Industrial Base Policy” for “Secretary of Defense”.
+
+Subsec. (d). Pub. L. 112–239, §901(c)(4), amended subsec. (d) generally. Prior to amendment, text read as follows: “After each meeting of the Board, the Board shall prepare and submit to Congress a report containing the results of the meeting and such recommendations as the Board determines appropriate.”
 
 <b>2011</b>—Subsec. (b). Pub. L. 111–383, §829(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to duties of the Strategic Materials Protection Board.
 

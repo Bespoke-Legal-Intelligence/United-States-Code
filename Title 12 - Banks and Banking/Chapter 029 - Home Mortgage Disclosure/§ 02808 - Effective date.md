@@ -32,7 +32,7 @@ Section 2802(2) of this title, referred to in subsecs. (a) and (b)(1), was redes
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–203 substituted “Bureau” for “Board”.
 
-<b>1996</b>—Pub. L. 104–208 designated existing provisions as subsec. (a), inserted heading, inserted “(as determinedwithout regard to the adjustment made by subsection (b) of this section)” before period at end, and added subsec. (b).
+<b>1996</b>—Pub. L. 104–208 designated existing provisions as subsec. (a), inserted heading, inserted “(as determined without regard to the adjustment made by subsection (b) of this section)” before period at end, and added subsec. (b).
 
 <b>1992</b>—Pub. L. 102–550, §1604(a)(15), amended directory language of Pub. L. 102–242, §224(a). See 1991 Amendment note below.
 
@@ -48,7 +48,7 @@ Amendment by Pub. L. 102–550 effective as if included in the Federal Deposit I
 
 #### Effective Date of 1991 Amendment
 
-Section 224(b) of Pub. L. 102–242 provided that: “This section \[amending this section\] shall become effective on January 1, 1992.”
+Pub. L. 102–242, title II, §224(b), Dec. 19, 1991, 105 Stat. 2307, provided that: “This section \[amending this section\] shall become effective on January 1, 1992.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

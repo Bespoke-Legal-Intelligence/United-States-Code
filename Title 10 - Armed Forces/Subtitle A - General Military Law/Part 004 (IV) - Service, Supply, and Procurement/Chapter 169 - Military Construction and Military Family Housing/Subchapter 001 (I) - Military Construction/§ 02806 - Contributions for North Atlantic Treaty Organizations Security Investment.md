@@ -30,11 +30,11 @@ Subsec. (b). Pub. L. 104–201, §2802(a), substituted “Security Investment pr
 
 #### Change of Name
 
-Section 2802(b) of Pub. L. 104–201 provided that: “Any reference to the North Atlantic Treaty Organization Infrastructure program in any Federal law, Executive order, regulation, delegation of authority, or document of or pertaining to the Department of Defense shall be deemed to refer to the North Atlantic Treaty Organization Security Investment program.”
+Pub. L. 104–201, div. B, title XXVIII, §2802(b), Sept. 23, 1996, 110 Stat. 2787, provided that: “Any reference to the North Atlantic Treaty Organization Infrastructure program in any Federal law, Executive order, regulation, delegation of authority, or document of or pertaining to the Department of Defense shall be deemed to refer to the North Atlantic Treaty Organization Security Investment program.”
 
 #### Effective Date of 1986 Amendment
 
-Section 2503(b) of Pub. L. 99–661 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply only with respect to contributions made with funds appropriated for fiscal years after fiscal year 1986.”
+Pub. L. 99–661, div. B, title V, §2503(b), Nov. 14, 1986, 100 Stat. 4039, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply only with respect to contributions made with funds appropriated for fiscal years after fiscal year 1986.”
 
 #### Effective Date
 
@@ -42,5 +42,5 @@ For effective date and applicability of section, see section 12(a) of Pub. L. 97
 
 #### Restriction on Certain Funding
 
-Section 2504 of Pub. L. 99–661 prohibited Secretary of Defense from obligating or expending any funds after fiscal year 1987 with respect to NATO infrastructure program under this section until Secretary submitted to Committees on Armed Services of Senate and House (1) a comprehensive master plan for establishing adequate active defenses for air bases in Europe at which operations of United States aircraft are planned, sites in Europe used by United States for logistic support of NATO or for prepositioned overseas mate�AE1riel configured to unit sets, and (2) a report containing a certification by Secretary that sufficient funds have been budgeted by Department of Defense in fiscal year 1988 five-year defense plan to meet objectives of such comprehensive master plan.
+Pub. L. 99–661, div. B, title V, §2504, Nov. 14, 1986, 100 Stat. 4039, prohibited Secretary of Defense from obligating or expending any funds after fiscal year 1987 with respect to NATO infrastructure program under this section until Secretary submitted to Committees on Armed Services of Senate and House (1) a comprehensive master plan for establishing adequate active defenses for air bases in Europe at which operations of United States aircraft are planned, sites in Europe used by United States for logistic support of NATO or for prepositioned overseas matériel configured to unit sets, and (2) a report containing a certification by Secretary that sufficient funds have been budgeted by Department of Defense in fiscal year 1988 five-year defense plan to meet objectives of such comprehensive master plan.
 

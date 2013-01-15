@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment and Implementation of Reimbursement Recovery System.—The Administrator shall establish and implement a pricing system to recover reimbursement in accordance with the pricing policy under section 70302 of this title from each commercial or foreign user of the Space Transportation System, which, except as provided in subsections (c), (d), and (e), shall include a base price of not less than $74,000,000 for each flight of the Space Transportation System in 1982 dollars.
+Establishment and Implementation of Reimbursement Recovery System.—The Administrator shall establish and implement a pricing system to recover reimbursement in accordance with the pricing policy under section 70302 of this title from each commercial or foreign user of the Space Transportation System, which, except as provided in subsections (c), (d), and (e), shall include a base price of not lessthan $74,000,000 for each flight of the Space Transportation System in 1982 dollars.
 
 (b)
 
@@ -46,7 +46,7 @@ Historical and Revision Notes
 
 Pub. L. 99–170, title II, §204, Dec. 5, 1985, 99 Stat. 1017; Pub. L. 103–437, §15(c)(5), Nov. 2, 1994, 108 Stat. 4592.
 
-In subsections (b) and (c)(1), the words “Committee on Science and Technology” are substituted for “Committee on Science, Space, and Technology” on authority of section 1(a)(10) of Public Law 104–14 (2 U.S.C. note prec. 21), Rule X(1)(n) of the Rules of the House of Representatives, adopted by House Resolution No. 5 (106th Congress, January 6, 1999), and Rule X(1)(<i>o</i>) of the Rules of the House of Representatives, adopted by House Resolution No. 6 (110th Congress, January 5, 2007).
+In subsections (b) and (c)(1), the words “Committee on Science and Technology” are substituted for “Committee on Science, Space, and Technology” on authority of section 1(a)(10) of Public Law 104–14 (2 U.S.C. note prec. 21), Rule X(1)(n) of the Rules of the House of Representatives, adopted by House Resolution No. 5 (106th Congress, January 6, 1999), and Rule X(1)(o) of the Rules of the House of Representatives, adopted by House Resolution No. 6 (110th Congress, January 5, 2007).
 
 #### Change of Name
 
@@ -66,5 +66,5 @@ Feasibility study.—The Administrator shall initiate a feasibility study for de
 
 “(c)
 
-Assessment.—The feasibility study required by subsection (b) shall include an assessment of the feasibility of integrating a National Free Flyer Launch Coordination Center within the operations and facilities of an existing nonprofit organization such as the Inland Northwest Space Alliance in Missoula, Montana, or a similar entity, and shall include an assessment of the potential utilization of existing launch and launch support facilities and capabilities, including but not limited to those in the States of Montana and New Mexico and their respective contiguous States, and the State of Alaska, for the integration and launch of secondary payloads, including an assessment of the feasibility of establishing cooperative agreements among such facilities, existing or future commercial launchproviders, payload developers, and the designated Coordination Center.”
+Assessment.—The feasibility study required by subsection (b) shall include an assessment of the feasibility of integrating a National Free Flyer Launch Coordination Center within the operations and facilities of an existing nonprofit organization such as the Inland Northwest Space Alliance in Missoula, Montana, or a similar entity, and shall include an assessment of the potential utilization of existing launch and launch support facilities and capabilities, including but not limited to those in the States of Montana and New Mexico and their respective contiguous States, and the State of Alaska, for the integration and launch of secondary payloads, including an assessment of the feasibility of establishing cooperative agreements among such facilities, existing or future commercial launch providers, payload developers, and the designated Coordination Center.”
 

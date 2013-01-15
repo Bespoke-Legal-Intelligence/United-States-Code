@@ -6,7 +6,7 @@ Within 1 year after October 31, 1994, the Secretary shall, after consultation wi
 
 #### (b) Criteria for enrollments
 
-(1) Until a tribal constitution is adopted pursuant to section 1300<i>l</i>–5 of this title, an individual shall be placed on the membership roll if the individual is living, is not an enrolled member of another federally recognized Indian tribe, is of United Auburn Indian Community ancestry, possesses at least one-eighth or more of Indian blood quantum, and if—
+(1) Until a tribal constitution is adopted pursuant to section 1300l–5 of this title, an individual shall be placed on the membership roll if the individual is living, is not an enrolled member of another federally recognized Indian tribe, is of United Auburn Indian Community ancestry, possesses at least one-eighth or more of Indian blood quantum, and if—
 
 &emsp;(A) the individual's name was listed on the Auburn Indian Rancheria distribution roll compiled and approved by the Bureau of Indian Affairs on August 13, 1959, pursuant to Public Law 85–671;
 
@@ -14,7 +14,7 @@ Within 1 year after October 31, 1994, the Secretary shall, after consultation wi
 
 &emsp;(C) the individual is a lineal descendant of an individual, living or dead, identified in subparagraph (A) or (B).
 
-(2) After adoption of a tribal constitution pursuant to section 1300<i>l</i>–5 of this title, such tribal constitution shall govern membership in the Tribe, except that in addition to meeting any other criteria imposed in such tribal constitution, any person added to the membership roll shall be of United Auburn Indian Community ancestry and shall not be an enrolled member of another federally recognized Indian tribe.
+(2) After adoption of a tribal constitution pursuant to section 1300l–5 of this title, such tribal constitution shall govern membership in the Tribe, except that in addition to meeting any other criteria imposed in such tribal constitution, any person added to the membership roll shall be of United Auburn Indian Community ancestry and shall not be an enrolled member of another federally recognized Indian tribe.
 
 #### (c) Conclusive proof of United Auburn Indian Community ancestry
 

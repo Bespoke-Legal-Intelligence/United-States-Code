@@ -38,7 +38,7 @@ For purposes of subsection (a) of this section—
 
 &emsp;(3) If assets available for allocation under paragraph (4) of subsection (a) are insufficient to satisfy in full the benefits of all individuals who are described in that paragraph, the assets shall be allocated first to benefits described in subparagraph (A) of that paragraph. Any remaining assets shall then be allocated to benefits described in subparagraph (B) of that paragraph. If assets allocated to such subparagraph (B) are insufficient to satisfy in full the benefits described in that subparagraph, the assets shall be allocated pro rata among individuals on the basis of the present value (as of the termination date) of their respective benefits described in that subparagraph.
 
-&emsp;(4) This paragraph applies if the assets available for allocation under paragraph (5) of subsection (a) of this section are not sufficient to satisfy in full the benefits of individuals described in that paragraph.
+&emsp;(4) This paragraph applies if the assets available for allocation under paragraph (5) of subsection (a) of this section are not sufficient tosatisfy in full the benefits of individuals described in that paragraph.
 
 &emsp;&emsp;(A) If this paragraph applies, except as provided in subparagraph (B), the assets shall be allocated to the benefits of individuals described in such paragraph (5) on the basis of the benefits of individuals which would have been described in such paragraph (5) under the plan as in effect at the beginning of the 5-year period ending on the date of plan termination.
 
@@ -70,7 +70,7 @@ Any increase or decrease in the value of the assets of a single-employer plan oc
 
 (C) Except as otherwise provided in regulations of the Secretary of the Treasury, in any case in which a transaction described in section 1058 of this title occurs, subparagraph (A) shall continue to apply separately with respect to the amount of any assets transferred in such transaction.
 
-(D) For purposes of this subsection, the term “employer” includes any member of the controlled group of which the employer is a member. For purposes of the preceding sentence, the term “controlled group” means any group treated as a single employer under subsection (b), (c), (m) or (<i>o</i>) of section 414 of title 26.
+(D) For purposes of this subsection, the term “employer” includes any member of the controlled group of which the employer is a member. For purposes of the preceding sentence, the term “controlled group” means any group treated as a single employer under subsection (b), (c), (m) or (o) of section 414 of title 26.
 
 (3)(A) Before any distribution from a plan pursuant to paragraph (1), if any assets of the plan attributable to employee contributions remain after satisfaction of all liabilities described in subsection (a) of this section, such remaining assets shall be equitably distributed to the participants who made such contributions or their beneficiaries (including alternate payees, within the meaning of section 1056(d)(3)(K) of this title).
 
@@ -82,7 +82,7 @@ Any increase or decrease in the value of the assets of a single-employer plan oc
 
 &emsp;&emsp;(I) the numerator of which is the present value of all portions of the accrued benefits with respect to participants which are derived from participants’ mandatory contributions (referred to in subsection (a)(2) of this section), and
 
-&emsp;&emsp;(II) the denominator of which is the present value of all benefits with respect to which assets are allocated under paragraphs (2) through (6) of subsection (a) of this section.
+&emsp;&emsp;(II) the denominator of which is the present value of all benefits with respect to which assets are allocated under paragraphs\(2) through (6) of subsection (a) of this section.
 
 (C) For purposes of this paragraph, each person who is, as of the termination date—
 
@@ -224,13 +224,13 @@ Amendment by section 7894(g)(2) of Pub. L. 101–239 effective, except as otherw
 
 #### Effective Date of 1987 Amendment
 
-Section 9311(d) of Pub. L. 100–203, as amended by Pub. L. 101–239, title VII, §7881(e)(2), Dec. 19, 1989, 103 Stat. 2439, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to—
+Pub. L. 100–203, title IX, §9311(d), Dec. 22, 1987, 101 Stat. 1330–360, as amended by Pub. L. 101–239, title VII, §7881(e)(2), Dec. 19, 1989, 103 Stat. 2439, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to—
 
 &emsp;“(1) plan terminations under section 4041 of ERISA \[29 U.S.C. 1341\] with respect to which notices of intent to terminate are provided under section 4041(a)(2) of ERISA after December 17, 1987, and
 
 &emsp;“(2) plan terminations with respect to which proceedings are instituted by the Pension Benefit Guaranty Corporation under section 4042 of ERISA \[29 U.S.C. 1342\] after December 17, 1987.
 
-> Except as provided in subsection (a)(2) \[set out below\], the amendments made by subsection (a) \[amending this section\] shall apply to any provision of the plan or plan amendment adopted after December 17, 1987.”
+> Except as provided in subsection (a)(2) \[set out below\], the amendments made by subsection (a) \[amending thissection\] shall apply to any provision of the plan or plan amendment adopted after December 17, 1987.”
 
 #### Effective Date of 1986 Amendment
 
@@ -242,9 +242,9 @@ Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically p
 
 #### Transitional Rule Relating to Restrictions on Employer Reversions Upon Plan Termination Pursuant to Recently Amended Plans
 
-Section 9311(a)(2) of Pub. L. 100–203, as amended by Pub. L. 101–239, title VII, §7881(e)(1), (4), Dec. 19, 1989, 103 Stat. 2439, 2440, provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply, in the case of plans which, as of December 17, 1987, have no provision relating to the distribution of residual plan assets upon termination, only with respect to plan amendments providing for the distribution of plan assets to the employer which are adopted after December 17, 1988.”
+Pub. L. 100–203, title IX, §9311(a)(2), Dec. 22, 1987, 101 Stat. 1330–359, as amended by Pub. L. 101–239, title VII, §7881(e)(1), (4), Dec. 19, 1989, 103 Stat. 2439, 2440, provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply, in the case of plans which, as of December 17, 1987, have no provision relating to the distribution of residual plan assets upon termination, only with respect to plan amendments providing for the distribution of plan assets to the employer which are adopted after December 17, 1988.”
 
 #### Special Temporary Rule for Termination of Single-Employer Plan
 
-For special temporary rule relating to requirements to be met before the final distribution of assets in thecase of the termination of certain single-employer plans with respect to which the amount payable to the employer pursuant to subsec. (d) of this section exceeds $1,000,000, see section 11008(d) of Pub. L. 99–272, set out as a note under section 1341 of this title.
+For special temporary rule relating to requirements to be met before the final distribution of assets in the case of the termination of certain single-employer plans with respect to which the amount payable to the employer pursuant to subsec. (d) of this section exceeds $1,000,000, see section 11008(d) of Pub. L. 99–272, set out as a note under section 1341 of this title.
 

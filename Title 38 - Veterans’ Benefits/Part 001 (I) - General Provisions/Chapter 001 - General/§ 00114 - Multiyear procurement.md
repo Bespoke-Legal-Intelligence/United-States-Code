@@ -36,7 +36,7 @@
 
 (2)(A) If, during a fiscal year after the fiscal year during which a multiyear contract is entered into under this section, the Secretary determines that, in light of other funding needs involved in the operation of Department programs, the amount of funds appropriated for such subsequent fiscal year is not sufficient for such contract, the Secretary shall cancel such contract pursuant to the provisions required by paragraph (1)(A) of this subsection.
 
-(B) Cancellation charges under a multiyear contract shall be paid from the appropriated funds which were originally available for performance of the contract or the payment of cancellation costs unless such funds are not available in an amount sufficient to pay the entire amount of the cancellation charges payable under the contract. In a case in which such funds are not available in such amount, fundsavailable for the procurement of supplies and services for use for the same purposes as the supplies or services procured through such contract shall be used to the extent necessary to pay such cost.
+(B) Cancellation charges under a multiyear contract shall be paid from the appropriated funds which were originally available for performance of the contract or the payment of cancellation costs unless such funds are not available in an amount sufficient to pay the entire amount of the cancellation charges payable under the contract. In a case in which such funds are not available in such amount, funds available for the procurement of supplies and services for use for the same purposes as the supplies or services procured through such contract shall be used to the extent necessary to pay such cost.
 
 (c) Nothing in this section shall be construed so as to restrict the Secretary's exercise of the right to terminate for convenience a contract under any other provision of law which authorizes multiyear contracting.
 
@@ -48,7 +48,7 @@
 
 &emsp;(2) The term “multiyear contract” means a contract which by its terms is to remain in effect for a period which extends beyond the end of the fiscal year during which the contract is entered into but not beyond the end of the fourth fiscal year following such fiscal year. Such term does not include a contract for construction or for a lease of real property.
 
-&emsp;(3) The term “nonrecurring, unrecovered costs” means those costs reasonably incurred by the contractor in performing a multiyear contract which (as determined under regulations prescribed under subsection (d) of this section) are generally incurred on a one-time basis.
+&emsp;(3) The term “nonrecurring, unrecovered costs” means those costs reasonably incurred by the contractor in performing a multiyearcontract which (as determined under regulations prescribed under subsection (d) of this section) are generally incurred on a one-time basis.
 
 (Added Pub. L. 100–322, title IV, §404(a), May 20, 1988, 102 Stat. 545; amended Pub. L. 101–237, title VI, §601(a), (b)(1), Dec. 18, 1989, 103 Stat. 2094; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
 

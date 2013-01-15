@@ -78,7 +78,7 @@ Subsec. (d). Pub. L. 101–231, §17(g), inserted “Contribution by recipient c
 
 Pub. L. 99–570, §2002(2), inserted provisions that if the President submits a detailed plan for use of the money, an additional $45,000,000 may be appropriated to carry out the purpose of section 2291 of this title, of which at least $10,000,000 shall be used primarily for helicopters or other aircraft based in Latin America for use for narcotics control, eradication, and interdiction efforts throughout the region.
 
-Pub. L. 99–529, which directed the substitution of “$65,445,000 for the fiscal year 1987” for “$57,529,000 forthe fiscal year 1987”, was executed by substituting the new phrase for “$57,529,000 for fiscal year 1987” to reflect the probable intent of Congress.
+Pub. L. 99–529, which directed the substitution of “$65,445,000 for the fiscal year 1987” for “$57,529,000 for the fiscal year 1987”, was executed by substituting the new phrase for “$57,529,000 for fiscal year 1987” to reflect the probable intent of Congress.
 
 <b>1985</b>—Subsec. (a)(1). Pub. L. 99–83, §602, amended par. (1) generally, substituting provisions authorizing appropriations of $57,529,000 for fiscal years 1986 and 1987, for provisions authorizing appropriations of $37,700,000 for fiscal years 1982 and 1983.
 
@@ -116,5 +116,5 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### Colombian Anti-Narcotics Enforcement Program
 
-Section 402(c) of Pub. L. 96–533 provided: “Notwithstanding the provisions of section 482(a)(2) of the Foreign Assistance Act of 1961 \[subsec. (a)(2) of this section\] as in effect immediately prior to the enactment of this Act \[Dec. 16, 1980\], funds appropriated for the fiscal year 1980 to carry out the purposes of section 481 of that Act \[section 2291 of this title\] which were obligated for assistance for Colombia may be used for fixed-wing aircraft, communications equipment, and such other equipment and operational support, including aviation services, as are essential to the Colombian anti-narcotics enforcement program.”
+Pub. L. 96–533, title IV, §402(c), Dec. 16, 1980, 94 Stat. 3150, provided: “Notwithstanding the provisions of section 482(a)(2) of the Foreign Assistance Act of 1961 \[subsec. (a)(2) of this section\] as in effect immediately prior to the enactment of this Act \[Dec. 16, 1980\], funds appropriated for the fiscal year 1980 to carry out the purposes of section 481 of that Act \[section 2291 of this title\] which were obligated for assistance for Colombia may be used for fixed-wing aircraft, communications equipment, and such other equipment and operational support, including aviation services, as are essential to the Colombian anti-narcotics enforcement program.”
 

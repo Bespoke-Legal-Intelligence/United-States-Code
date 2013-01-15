@@ -124,10 +124,6 @@ For purposes of this section—
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
-#### Amendment of Section
-
-<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendments note below.</i>
-
 #### Prior Provisions
 
 A prior section 135 was renumbered section 140 of this title.
@@ -140,11 +136,11 @@ A prior section 135 was renumbered section 140 of this title.
 
 Pub. L. 107–16, §402(a)(4)(A), (B), substituted “qualified tuition” for “qualified State tuition” in heading and text.
 
-Subsec. (c)(4)(A). Pub. L. 107–16, §§431(c)(1), 901, temporarily inserted “222,” after “221,”. See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (c)(4)(A). Pub. L. 107–16, §431(c)(1), inserted “222,” after “221,”.
 
 Subsec. (d)(1)(D). Pub. L. 107–16, §402(a)(4)(A), substituted “qualified tuition” for “qualified State tuition”.
 
-Subsec. (d)(2)(A). Pub. L. 107–16, §§401(g)(2)(B), 901, temporarily substituted “allowed” for “allowable”. See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (d)(2)(A). Pub. L. 107–16, §401(g)(2)(B), substituted “allowed” for “allowable”.
 
 Subsec. (d)(2)(B). Pub. L. 107–16, §402(b)(2)(A), substituted “the exclusions under sections 529(c)(3)(B) and 530(d)(2)” for “the exclusion under section 530(d)(2)”.
 
@@ -184,21 +180,19 @@ Subsec. (b)(2)(C). Pub. L. 101–508, §11702(h)(2), struck out “(A) or” aft
 
 Amendment by Pub. L. 108–357 applicable to taxable years beginning after Dec. 31, 2004, see section 102(e) of Pub. L. 108–357, set out as a note under section 56 of this title.
 
-#### Effective and Termination Dates of 2001 Amendments
+#### Effective Date of 2001 Amendment
 
 Amendment by Pub. L. 107–22 effective July 26, 2001, see section 1(c) of Pub. L. 107–22, set out as a note under section 26 of this title.
 
 Amendment by section 401(g)(2)(B) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2001, see section 401(h) of Pub. L. 107–16, set out as a note under section 25A of this title.
 
-Amendment by section 402(a)(4)(A), (B), (b)(2)(A) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2001, see section 402(h) of Pub. L. 107–16, set out as an Effective Date of 2001 Amendment note under section 72 of this title.
+Amendment by section 402(a)(4)(A), (B), (b)(2)(A) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2001, see section 402(h) of Pub. L. 107–16, set out as a note under section 72 of this title.
 
 Amendment by section 431(c)(1) of Pub. L. 107–16 applicable to payments made in taxable years beginning after Dec. 31, 2001, see section 431(d) of Pub. L. 107–16, set out as a note under section 62 of this title.
 
-Amendment by sections 401(g)(2)(B) and 431(c)(1) of Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+#### Effective Date of 1998 Amendment
 
-#### Effective Date of 1998 Amendments
-
-Amendment by Pub. L. 105–277 effective as if included in the provision of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 4003(<i>l</i>) of Pub. L. 105–277, set out as a note under section 86 of this title.
+Amendment by Pub. L. 105–277 effective as if included in the provision of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 4003(l) of Pub. L. 105–277, set out as a note under section 86 of this title.
 
 Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 
@@ -212,7 +206,7 @@ Amendment by section 213(e)(2) of Pub. L. 105–34 applicable to taxable years b
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 1703(d) of Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of 1993, Pub. L. 103–66, §§13001–13444, to which such amendment relates, see section 1703(<i>o</i>) of Pub. L. 104–188, set out as a note under section 39 of this title.
+Amendment by section 1703(d) of Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of 1993, Pub. L. 103–66, §§13001–13444, to which such amendment relates, see section 1703(o) of Pub. L. 104–188, set out as a note under section 39 of this title.
 
 Amendment by section 1806(b)(1) of Pub. L. 104–188 applicable to taxable years ending after Aug. 20, 1996, with transition rules applicable where States or agencies or instrumentalities thereof maintain on such date programs under which persons may purchase tuition credits or certificates on behalf of, or make contributions for education expenses of, designated beneficiaries, see section 1806(c) of Pub. L. 104–188, set out as an Effective Date note under section 529 of this title.
 
@@ -234,9 +228,9 @@ Section applicable to taxable years beginning after Dec. 31, 1989, see section 6
 
 #### Promotion of Public Awareness of Program
 
-Section 6009(b) of Pub. L. 100–647 provided that: “The Secretary of the Treasury or his delegate shall take such actions as may be necessary to make the general public aware of the program established by this section \[enacting this section, amending sections 86, 219, and 469 of this title, renumbering former section 135 of this title as section 136 of this title, and enacting provisions set out as notes below and under section 86 of this title\].”
+Pub. L. 100–647, title VI, §6009(b), Nov. 10, 1988, 102 Stat. 3690, provided that: “The Secretary of the Treasury or his delegate shall take such actions as may be necessary to make the general public aware of the program established by this section \[enacting this section, amending sections 86, 219, and 469 of this title, renumbering former section 135 of this title as section 136 of this title, and enacting provisions set out as notes below and under section 86 of this title\].”
 
 #### Parental Assistance With Tuition Stamp Study
 
-Section 6009(e) of Pub. L. 100–647 directed Secretary of the Treasury or his delegate, after consultation with Secretary of Education or his delegate, to conduct a study of feasibility of using stamps or similar programs to encourage and facilitate savings by parents towards purchase of Series EE bonds eligible for exclusion and to submit, not later than Dec. 31, 1989, results of such study, together with any recommendations deemed appropriate, to Committee on Ways and Means of House of Representatives and Committee on Finance of Senate.
+Pub. L. 100–647, title VI, §6009(e), Nov. 10, 1988, 102 Stat. 3690, directed Secretary of the Treasury or his delegate, after consultation with Secretary of Education or his delegate, to conduct a study of feasibility of using stamps or similar programs to encourage and facilitate savings by parents towards purchase of Series EE bonds eligible for exclusion and to submit, not later than Dec. 31, 1989, results of such study, together with any recommendations deemed appropriate, to Committee on Ways and Means of House of Representatives and Committee on Finance of Senate.
 

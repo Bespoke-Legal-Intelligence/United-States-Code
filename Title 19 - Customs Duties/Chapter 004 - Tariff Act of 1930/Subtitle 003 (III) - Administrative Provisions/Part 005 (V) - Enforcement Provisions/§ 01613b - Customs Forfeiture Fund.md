@@ -4,7 +4,7 @@
 
 (1) There is established in the Treasury of the United States a fund to be known as the “Customs Forfeiture Fund” (hereafter in this section referred to as the “Fund”), which shall be available to the United States Customs Service, subject to appropriation, with respect to seizures and forfeitures by the United States Customs Service and the United States Coast Guard under any law enforced or administered by those agencies for payment, or for reimbursement to the appropriation from which payment was made, for—
 
-&emsp;(A) all proper expenses of the seizure (including investigative costs incurred by the UnitedStates Customs Service leading to seizures) or the proceedings of forfeiture and sale, including, but not limited to, the expenses of inventory, security, and maintenance of custody of the property, advertisement and sale of the property, and if condemned by the court and a bond for such costs was not given, the costs as taxed by the court;
+&emsp;(A) all proper expenses of the seizure (including investigative costs incurred by the United States Customs Service leading to seizures) or the proceedings of forfeiture and sale, including, but not limited to, the expenses of inventory, security, and maintenance of custody of the property, advertisement and sale of the property, and if condemned by the court and a bond for such costs was not given, the costs as taxed by the court;
 
 &emsp;(B) awards of compensation to informers under section 1619 of this title;
 
@@ -170,11 +170,11 @@ Subsec. (f). Pub. L. 99–570, §3142(a)(2), amended subsec. (f) generally. Prio
 
 #### Effective Date of 1990 Amendment
 
-Section 10012(c) of Pub. L. 101–508 provided that: “The provisions of this section \[amending this section\] take effect August 21, 1990.”
+Pub. L. 101–508, title X, §10012(c), Nov. 5, 1990, 104 Stat. 1388–390, provided that: “The provisions of this section \[amending this section\] take effect August 21, 1990.”
 
 #### Effective Date of 1986 Amendment
 
-Section 3142(b) of Pub. L. 99–570 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect October 1, 1986.”
+Pub. L. 99–570, title III, §3142(b), Oct. 27, 1986, 100 Stat. 3207–94, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect October 1, 1986.”
 
 #### Effective Date
 
@@ -182,11 +182,11 @@ Section effective Oct. 15, 1984, see section 214(e) of Pub. L. 98–573, set out
 
 #### Construction of 1990 Amendment
 
-Section 10012(a)(1) of Pub. L. 101–508 provided that: “Paragraph (5) of section 121 of the Customs and Trade Act of 1990 \[Pub. L. 101–382\] is repealed and subsection (f) of section 613A of the Tariff Act of 1930 \[subsec. (f) of this section\] shall be applied as if the amendment made by such paragraph (5) had not been enacted.”
+Pub. L. 101–508, title X, §10012(a)(1), Nov. 5, 1990, 104 Stat. 1388–390, provided that: “Paragraph (5) of section 121 of the Customs and Trade Act of 1990 \[Pub. L. 101–382\] is repealed and subsection (f) of section 613A of the Tariff Act of 1930 \[subsec. (f) of this section\] shall be applied as if the amendment made by such paragraph (5) had not been enacted.”
 
 #### Repeal and Revival of Section
 
-Section 1152(b)(2) of Pub. L. 99–570, which had directed the repeal of this section, was repealed by section 101 of Pub. L. 100–71, which also provided in part that section 1152(b) of Pub. L. 99–570 be treated as though it had never been enacted.
+Pub. L. 99–570, title I, §1152(b)(2), Oct. 27, 1986, 100 Stat. 3207–12, which had directed the repeal of this section, was repealed by section 101 of Pub. L. 100–71, which also provided in part that section 1152(b) of Pub. L. 99–570 be treated as though it had never been enacted.
 
 #### Transfer of Functions
 

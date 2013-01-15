@@ -40,7 +40,7 @@ Actions to reduce non-defense accounts shall be taken in the following order:
 
 &emsp;(A) If additional reductions in non-defense accounts are required to be made, each remaining non-exempt, non-defense account shall be reduced by the uniform percentage necessary to make the reductions in non-defense outlays required by subsection (c) of this section, except that—
 
-&emsp;&emsp;(i) the medicare program specified in section 906(d) of this title shall not be reducedby more than 2 percent in total including any reduction of less than 2 percent made under section 902 of this title or, if it has been reduced by 2 percent or more under section 902 of this title, it may not be further reduced under this section; and
+&emsp;&emsp;(i) the medicare program specified in section 906(d) of this title shall not be reduced by more than 2 percent in total including any reduction of less than 2 percent made under section 902 of this title or, if it has been reduced by 2 percent or more under section 902 of this title, it may not be further reduced under this section; and
 
 &emsp;&emsp;(ii) the health programs set forth in section 906(e) of this title shall not be reduced by more than 2 percent in total (including any reduction made under section 901 of this title),
 
@@ -102,7 +102,7 @@ Actions to reduce non-defense accounts shall be taken in the following order:
 
 #### (2) Reestimates
 
-&emsp;For fiscal year 1994 and fiscal year 1995, the amount of the reestimate of deposit insurance costs shall be calculated by subtracting the amount set forth under paragraph (1) for that year from the current estimate of deposit insurance costs (but assuming full funding of, and continuation of, the deposit insurance guarantee commitment in effect on the date of submission of the budget for fiscal year 1993).
+&emsp;For fiscal year 1994 and fiscal year 1995, the amount of the reestimate of deposit insurancecosts shall be calculated by subtracting the amount set forth under paragraph (1) for that year from the current estimate of deposit insurance costs (but assuming full funding of, and continuation of, the deposit insurance guarantee commitment in effect on the date of submission of the budget for fiscal year 1993).
 
 (Pub. L. 99–177, title II, §253, Dec. 12, 1985, 99 Stat. 1078; Pub. L. 100–119, title I, §103, Sept. 29, 1987, 101 Stat. 775; Pub. L. 101–508, title XIII, §13101(a), Nov. 5, 1990, 104 Stat. 1388–583.)
 

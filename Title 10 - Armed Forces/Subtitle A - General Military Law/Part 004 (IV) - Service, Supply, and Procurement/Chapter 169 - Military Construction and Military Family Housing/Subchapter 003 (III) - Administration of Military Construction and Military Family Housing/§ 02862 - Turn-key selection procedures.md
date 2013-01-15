@@ -30,5 +30,5 @@ Subsec. (b). Pub. L. 100–180, §2301(2), inserted “Secretary of Defense, wit
 
 #### Effective Date
 
-Section 807(c) of Pub. L. 99–167 provided that: “The amendments made by this section \[enacting this section\] shall take effect on October 1, 1986.”
+Pub. L. 99–167, title VIII, §807(c), Dec. 3, 1985, 99 Stat. 989, provided that: “The amendments made by this section \[enacting this section\] shall take effect on October 1, 1986.”
 

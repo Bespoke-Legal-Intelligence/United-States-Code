@@ -4,5 +4,5 @@ Section, act Aug. 3, 1956, ch. 939, title IV, §419, 70 Stat. 1018, related to c
 
 #### Effective Date of Repeal
 
-Section 406(b) of Pub. L. 85–241 provided that the repeal of this section is effective July 1, 1958.
+Pub. L. 85–241, title IV, §406(b), Aug. 30, 1957, 71 Stat. 556, provided that the repeal of this section is effective July 1, 1958.
 

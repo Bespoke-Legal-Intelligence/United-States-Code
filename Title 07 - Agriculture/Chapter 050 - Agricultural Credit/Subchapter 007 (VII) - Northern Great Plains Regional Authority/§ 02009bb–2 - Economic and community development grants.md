@@ -28,7 +28,7 @@ The Authority may approve grants to States, Indian tribes, local governments, an
 
 #### (2) Priority of funding
 
-&emsp;To best build the foundations for long-term economic development and to complement other Federal, State, and tribal resources in the region, Federal funds available under this subchapter shall be focused on the following activities:
+&emsp;To best build the foundations for long-term economic development and to complement other Federal, State, and tribal resources inthe region, Federal funds available under this subchapter shall be focused on the following activities:
 
 &emsp;&emsp;(A) Basic public infrastructure in distressed counties and isolated areas of distress.
 

@@ -68,13 +68,13 @@ Pub. L. 99–521, §1, Oct. 22, 1986, 100 Stat. 2993, provided that: “This Act
 
 #### Short Title of 1982 Amendment
 
-Section 1 of Pub. L. 97–261 provided: “That this Act \[see Tables for classification\] may be cited as the ‘Bus Regulatory Reform Act of 1982’.”
+Pub. L. 97–261, §1, Sept. 20, 1982, 96 Stat. 1102, provided: “That this Act \[see Tables for classification\] may be cited as the ‘Bus Regulatory Reform Act of 1982’.”
 
 #### Short Title of 1980 Amendments
 
 Pub. L. 96–454, §1, Oct. 15, 1980, 94 Stat. 2011, provided: “That this Act \[see Tables for classification\] may be cited as the ‘Household Goods Transportation Act of 1980’.”
 
-Section 1 of Pub. L. 96–448 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Staggers Rail Act of 1980’.”
+Pub. L. 96–448, §1, Oct. 14, 1980, 94 Stat. 1895, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Staggers Rail Act of 1980’.”
 
-Section 1 of Pub. L. 96–296 provided: “That this Act \[see Tables for classification\] may be cited as the ‘Motor Carrier Act of 1980’.”
+Pub. L. 96–296, §1, July 1, 1980, 94 Stat. 793, provided: “That this Act \[see Tables for classification\] may be cited as the ‘Motor Carrier Act of 1980’.”
 

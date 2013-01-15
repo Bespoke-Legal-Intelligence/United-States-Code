@@ -128,11 +128,11 @@
 
 #### (7) Simulated environmental testing
 
-&emsp;Agencies represented on the Interagency Committee shall ensure the long-term use and operation of the Oil and Hazardous Materials Simulated Environmental Test Tank\(OHMSETT) Research Center in New Jersey for oil pollution technology testing and evaluations.
+&emsp;Agencies represented on the Interagency Committee shall ensure the long-term use and operation of the Oil and Hazardous Materials Simulated Environmental Test Tank (OHMSETT) Research Center in New Jersey for oil pollution technology testing and evaluations.
 
 #### (8) Regional research program
 
-&emsp;(A) Consistent with the research plan in subsection (b) of this section, the Interagency Committee shall coordinate a program of competitive grants to universities or other research institutions, or groups of universities or research institutions, for the purposes of conducting a coordinated research program related to the regional aspects of oil pollution, such as prevention, removal, mitigation, and the effects of discharged oil on regional environments. For the purposes of this paragraph, a region means a Coast Guard district as set out in part 3 of title 33, Code of Federal Regulations (1989).
+&emsp;(A) Consistent with the research plan in subsection (b) of this section, the InteragencyCommittee shall coordinate a program of competitive grants to universities or other research institutions, or groups of universities or research institutions, for the purposes of conducting a coordinated research program related to the regional aspects of oil pollution, such as prevention, removal, mitigation, and the effects of discharged oil on regional environments. For the purposes of this paragraph, a region means a Coast Guard district as set out in part 3 of title 33, Code of Federal Regulations (1989).
 
 &emsp;(B) The Interagency Committee shall coordinate the publication by the agencies represented on the Interagency Committee of a solicitation for grants under this subsection. The application shall be in such form and contain such information as may be required in the published solicitation. The applications shall be reviewed by the Interagency Committee, which shall make recommendations to the appropriate granting agency represented on the Interagency Committee for awarding the grant. The granting agency shall award the grants recommended by the Interagency Committee unless the agency decides not to award the grant due to budgetary or other compelling considerations and publishes its reasons for such a determination in the Federal Register. No grants may be made by any agency from any funds authorized for this paragraph unless such grant award has first been recommended by the Interagency Committee.
 
@@ -182,7 +182,7 @@ Not to exceed $22,000,000 of amounts in the Fund shall be available annually to 
 
 > All activities authorized in this section, including subsection (c)(8) of this section, are subject to appropriations.
 
-(Pub. L. 101–380, title VII, §7001, Aug. 18, 1990, 104 Stat. 559; Pub. L. 101–537, title II, §2002, Nov. 8, 1990, 104 Stat. 2375; Pub. L. 101–646, title IV, §4002, Nov. 29, 1990, 104 Stat. 4788; Pub. L. 104–324, title XI, §§1102(c)(2), 1108, Oct. 19, 1996, 110 Stat. 3966, 3968; Pub. L. 104–332, §2(h)(1), (2), Oct. 26, 1996, 110 Stat. 4091; Pub. L. 108–426, §2(c)(5), Nov. 30, 2004, 118 Stat. 2424; Pub. L. 109–241, title VI, §605(a)(1), title IX, §902(<i>l</i>)(3), (4), July 11, 2006, 120 Stat. 555, 568.)
+(Pub. L. 101–380, title VII, §7001, Aug. 18, 1990, 104 Stat. 559; Pub. L. 101–537, title II, §2002, Nov. 8, 1990, 104 Stat. 2375; Pub. L. 101–646, title IV, §4002, Nov. 29, 1990, 104 Stat. 4788; Pub. L. 104–324, title XI, §§1102(c)(2), 1108, Oct. 19, 1996, 110 Stat. 3966, 3968; Pub. L. 104–332, §2(h)(1), (2), Oct. 26, 1996, 110 Stat. 4091; Pub. L. 108–426, §2(c)(5), Nov. 30, 2004, 118 Stat. 2424; Pub. L. 109–241, title VI, §605(a)(1), title IX, §902(l)(3), (4), July 11, 2006, 120 Stat. 555, 568.)
 
 #### References in Text
 
@@ -190,7 +190,7 @@ This Act, referred to in subsec. (c)(8)(G), is Pub. L. 101–380, Aug. 18, 1990,
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–241, §902(<i>l</i>)(3), added pars. (3) and (4) and struck out former par. (3) and concluding provisions which read as follows:
+<b>2006</b>—Subsec. (a). Pub. L. 109–241, §902(l)(3), added pars. (3) and (4) and struck out former par. (3) and concluding provisions which read as follows:
 
 “Membership.—The Interagency Committee shall include representatives from the Department of Commerce (including the National Oceanic and Atmospheric Administration and the National Institute of Standards and Technology), the Department of Energy, the Department of the Interior (including the Minerals Management Service and the United States Fish and Wildlife Service), the Department of Transportation (including the United States Coast Guard, the Maritime Administration, and the Pipeline and Hazardous Materials Safety Administration), the Department of Defense (including the Army Corps of Engineers and the Navy), the Environmental Protection Agency, the National Aeronautics and Space Administration, and the United States Fire Administration in the Federal Emergency Management Agency, as well as such other Federal agencies as the President may designate.
 
@@ -198,7 +198,7 @@ This Act, referred to in subsec. (c)(8)(G), is Pub. L. 101–380, Aug. 18, 1990,
 
 Subsec. (c)(4)(B). Pub. L. 109–241, §605(a)(1), substituted “RIVERA and the T/V ATHOS I,” for “RIVERA,”.
 
-Subsec. (c)(6). Pub. L. 109–241, §902(<i>l</i>)(4), substituted “such agencies as the President may designate,” for “other such agencies in the Department of Transportation as the Secretary of Transportation may designate,”.
+Subsec. (c)(6). Pub. L. 109–241, §902(l)(4), substituted “such agencies as the President may designate,” for “other such agencies in the Department of Transportation as the Secretary of Transportation may designate,”.
 
 <b>2004</b>—Subsec. (a)(3). Pub. L. 108–426, §2(c)(5)(A), substituted “Pipeline and Hazardous Materials Safety Administration” for “Research and Special Projects Administration”.
 
@@ -217,6 +217,8 @@ Subsec. (f). Pub. L. 104–332 made technical amendment to Pub. L. 101–646, §
 Subsec. (f). Pub. L. 101–537, §2002(2), and Pub. L. 101–646, §4002(2), as amended by Pub. L. 104–332, amended subsec. (f) identically, substituting “$22,000,000” for “$21,250,000” in introductory provisions and “$3,000,000” for “$2,250,000” in par. (2).
 
 #### Transfer of Functions
+
+The Minerals Management Service was abolished and functions divided among the Office of Natural Resources Revenue, the Bureau of Ocean Energy Management, and the Bureau of Safety and Environmental Enforcement. See Secretary of the Interior Orders No. 3299 of May 19, 2010, and No. 3302 of June 18, 2010, and chapters II, V, and XII of title 30, Code of Federal Regulations, as revised by final rules of the Department of the Interior at 75 F.R. 61051 and 76 F.R. 64432.
 
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 

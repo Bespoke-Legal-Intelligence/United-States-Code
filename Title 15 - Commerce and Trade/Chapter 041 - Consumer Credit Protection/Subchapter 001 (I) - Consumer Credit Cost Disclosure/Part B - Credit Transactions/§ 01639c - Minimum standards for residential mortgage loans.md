@@ -106,7 +106,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) except as provided in subparagraph (E), allow the consumer to defer repayment of principal;
 
-&emsp;&emsp;&emsp;(ii) except as provided in subparagraph (E), the terms of which do not result in a balloon payment, where a “balloon payment” is a scheduled payment that is more than twice as large as the average of earlier scheduled payments;
+&emsp;&emsp;&emsp;(ii) except as provided in subparagraph (E), the terms of which do not result in aballoon payment, where a “balloon payment” is a scheduled payment that is more than twice as large as the average of earlier scheduled payments;
 
 &emsp;&emsp;&emsp;(iii) for which the income and financial resources relied upon to qualify the obligors on the loan are verified and documented;
 

@@ -64,7 +64,7 @@ Subsec. (b)(5). Pub. L. 102–86, §202(a)(2), amended subsec. (b) of this secti
 
 #### Effective Date of 1991 Amendment
 
-Section 201(b) of Pub. L. 102–86 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to any person who, on or after September 1, 1991, is found by the Secretary of Veterans Affairs to be eligible for insurance under section 722 \[now 1922\] of title 38, United States Code.”
+Pub. L. 102–86, title II, §201(b), Aug. 14, 1991, 105 Stat. 415, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to any person who, on or after September 1, 1991, is found by the Secretary of Veterans Affairs to be eligible for insurance under section 722 \[now 1922\] of title 38, United States Code.”
 
-Section 202(b) of Pub. L. 102–86 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to deaths occurring before, on, or after the date of the enactment of this Act \[Aug. 14, 1991\]. In the case of insurance under section 722(b) \[now 1922(b)\] of title 38, United States Code, payable by reason of a death before the date of the enactment of this Act, the Secretary shall pay the remaining balance of such insurance in a lump sum as soon as practicable after the date of the enactment of this Act.”
+Pub. L. 102–86, title II, §202(b), Aug. 14, 1991, 105 Stat. 416, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to deaths occurring before, on, or after the date of the enactment of this Act \[Aug. 14, 1991\]. In the case of insurance under section 722(b) \[now 1922(b)\] of title 38, United States Code, payable by reason of a death before the date of the enactment of this Act, the Secretary shall pay the remaining balance of such insurance in a lump sum as soon as practicable after the date of the enactment of this Act.”
 

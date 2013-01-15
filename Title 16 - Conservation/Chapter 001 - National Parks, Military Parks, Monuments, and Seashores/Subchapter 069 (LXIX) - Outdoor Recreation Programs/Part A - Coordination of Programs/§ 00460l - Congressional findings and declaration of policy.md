@@ -1,6 +1,6 @@
 ### §460<i>l</i>. Congressional findings and declaration of policy
 
-The Congress finds and declares it to be desirable that all American people of present and future generations be assured adequate outdoor recreation resources, and that it is desirable for all levels of government and private interests totake prompt and coordinated action to the extent practicable without diminishing or affecting their respective powers and functions to conserve, develop, and utilize such resources for the benefit and enjoyment of the American people.
+The Congress finds and declares it to be desirable that all American people of present and future generations be assured adequate outdoor recreation resources, and that it is desirable for all levels of government and private interests to take prompt and coordinated action to the extent practicable without diminishing or affecting their respective powers and functions to conserve, develop, and utilize such resources for the benefit and enjoyment of the American people.
 
 (Pub. L. 88–29, §1, May 28, 1963, 77 Stat. 49.)
 
@@ -74,7 +74,7 @@ Sec. 2. <i>Functions</i>. The functions of the Initiative shall include:
 
 &emsp;(D) an action plan to meet the goals of the Initiative.
 
-The report should reflect the constraints in resources available in, and be consistent with, the Federal budget. It should recommend efficient and effective use of existing resources, as well as opportunities to leveragenonfederal public and private resources and nontraditional conservation programs.
+The report should reflect the constraints in resources available in, and be consistent with, the Federal budget. It should recommend efficient and effective use of existing resources, as well as opportunities to leverage nonfederal public and private resources and nontraditional conservation programs.
 
 (ii) Annual reports. By September 30, 2011, and September 30, 2012, the Initiative shall submit reports on its progress in implementing the action plan developed pursuant to subsection (c)(i)(D) of this section.
 

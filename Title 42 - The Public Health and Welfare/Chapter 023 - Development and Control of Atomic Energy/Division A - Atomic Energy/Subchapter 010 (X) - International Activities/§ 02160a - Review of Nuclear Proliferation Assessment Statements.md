@@ -1,6 +1,6 @@
 ### §2160a. Review of Nuclear Proliferation Assessment Statements
 
-No court or regulatory body shall have any jurisdiction under any law to compel the performance of or to review the adequacy of the performance of any Nuclear Proliferation Assessment Statement, or any annexes thereto, called for in this Act or in this chapter.
+No court or regulatory body shall have any jurisdiction under any law to compel the performance of or to review the adequacy of the performance of any Nuclear Proliferation Assessment Statement, or any annexes thereto, called for in this Act or in the 1954 Act.
 
 (Pub. L. 95–242, title IV, §406, Mar. 10, 1978, 92 Stat. 148; Pub. L. 105–277, div. G, title XII, §1225(e)(5), Oct. 21, 1998, 112 Stat. 2681–775.)
 
@@ -23,4 +23,8 @@ Amendment by Pub. L. 105–277 effective on earlier of Apr. 1, 1999, or date of 
 #### Effective Date
 
 Section effective Mar. 10, 1978, except as otherwise provided and regardless of any requirements for the promulgation of implementing regulations, see section 603(c) of Pub. L. 95–242, set out as a note under section 3201 of Title 22, Foreign Relations and Intercourse.
+
+#### Definitions
+
+For definitions of terms used in this section, see section 3203 of Title 22, Foreign Relations and Intercourse.
 

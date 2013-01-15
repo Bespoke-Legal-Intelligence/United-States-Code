@@ -6,7 +6,7 @@ The Commodity Credit Corporation may sell any farm commodity owned or controlled
 
 #### (b) Inventories
 
-In determining sales policies for basic agricultural commodities or storable nonbasic commodities, the Corporation should consider the establishment of such policies with respect to prices, terms, and conditions as the Corporation determines will not discourage or deter manufacturers, processors, and dealers from acquiring and carrying normal inventories of the commodity of the current crop.
+In determining sales policies for basic agricultural commodities or storable nonbasic commodities, the Corporation should consider the establishment of such policies with respect to prices, terms, and conditions as the Corporation determines will not discourage or deter manufacturers, processors, and dealers from acquiringand carrying normal inventories of the commodity of the current crop.
 
 #### (c) Sales price restrictions
 
@@ -74,7 +74,7 @@ The foregoing restrictions of this section shall not apply to—
 
 #### (2) Costs
 
-&emsp;Except on a reimbursable basis, the Corporation shall not bear any costs in connection with making the commodity available underthis subsection beyond the cost of the commodities to the Corporation in—
+&emsp;Except on a reimbursable basis, the Corporation shall not bear any costs in connection with making the commodity available under this subsection beyond the cost of the commodities to the Corporation in—
 
 &emsp;&emsp;(A) the storage of the commodity; and
 
@@ -166,7 +166,7 @@ Amendment by Pub. L. 101–624 effective beginning with 1991 crop of an agricult
 
 #### Effective and Termination Dates of 1988 Amendment
 
-Section 101(c) of Pub. L. 100–387 provided that:
+Pub. L. 100–387, title I, §101(c), Aug. 11, 1988, 102 Stat. 932, provided that:
 
 “(1) This section and the amendments made by this section \[enacting sections 1471 to 1471j of this title, amending this section, repealing sections 1433 and 2267 of this title, enacting provisions set out as a note under section 1421 of this title, and repealing provisions set out as notes under this section\] shall become effective 15 days after the date of the enactment of this Act \[Aug. 11, 1988\].
 
@@ -174,29 +174,29 @@ Section 101(c) of Pub. L. 100–387 provided that:
 
 #### Effective and Termination Dates of 1985 Amendment
 
-Section 503 of Pub. L. 99–198 provided that the amendment made by that section \[with respect to Commodity Credit Corporation sales price restrictions for upland cotton\] is effective only with respect to period beginning Aug. 1, 1978, and ending July 31, 1991.
+Pub. L. 99–198, title V, §503, Dec. 23, 1985, 99 Stat. 1418, provided that the amendment made by section 503 is effective only with respect to the period beginning Aug. 1, 1978, and ending July 31, 1991.
 
-Section 1007 of Pub. L. 99–198 provided that the amendment made by that section \[with respect to Commodity Credit Corporation sales price restrictions for wheat and feed grains\] is effective only for marketing years for 1986 through 1990 crops.
+Pub. L. 99–198, title X, §1007, Dec. 23, 1985, 99 Stat. 1451, provided that the amendment made by section 1007 is effective only for the marketing years for the 1986 through 1990 crops.
 
 #### Effective and Termination Dates of 1981 Amendment
 
-Section 503 of Pub. L. 97–98 provided that the amendment made by that section \[with respect to Commodity Credit Corporation sales price restrictions for upland cotton\] is effective only with respect to period beginning Aug. 1, 1978, and ending July 31, 1986.
+Pub. L. 97–98, title V, §503, Dec. 22, 1981, 95 Stat. 1240, provided that the amendment made by section 503 is effective only with respect to the period beginning Aug. 1, 1978, and ending July 31, 1986.
 
-Section 1103 of Pub. L. 97–98 provided that the amendment made by that section \[with respect to Commodity Credit Corporation sales restrictions for wheat and feed grains\] is effective only for marketing years for 1982 through 1985 crops.
+Pub. L. 97–98, title XI, §1103, Dec. 22, 1981, 95 Stat. 1264, provided that the amendment made by section 1103 is effective only for the marketing years for the 1982 through 1985 crops.
 
 Amendment by §1111(a) of Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under section 4301 of this title.
 
 #### Effective and Termination Dates of 1977 Amendment
 
-Section 408 of Pub. L. 95–113 provided that the amendment made by that section \[which reenacted without change the amendment first made by section 409 of Pub. L. 91–524 establishing a floor for sales of wheat and feed grains and changing price at which purchases must be made to offset sales in interest of efficient conduct of Corporation's operations\] is effective only with respect to marketing years for 1978 through 1981 crops.
+Pub. L. 95–113, title IV, §408, Sept. 29, 1977, 91 Stat. 927, provided that the amendment made by section 408 (which reenacted without change the amendment first made by section 409 of Pub. L. 91–524 establishing a floor for sales of wheat and feed grains and changing price at which purchases must be made to offset sales in interest of efficient conduct of Corporation's operations) is effective only with respect to the marketing years for the 1978 through 1981 crops.
 
-Section 603 of Pub. L. 95–113 provided that the amendment made by that section \[which reenacted with some changes (see 1977 Amendment note above) the amendment first made by section 603 of Pub. L. 91–524 relating to sale of upland cotton by Corporation\] is effective only with respect to period beginning Aug. 1, 1978, and ending July 31, 1982.
+Pub. L. 95–113, title VI, §603, Sept. 29, 1977, 91 Stat. 939, provided that the amendment made by section 603, which reenacted with some changes (see 1977 Amendment note above) the amendment first made by section 603 of Pub. L. 91–524 relating to sale of upland cotton by Corporation, is effective only with respect to the period beginning Aug. 1, 1978, and ending July 31, 1982.
 
 #### Effective and Termination Dates of 1970 Amendment
 
-Section 409 of Pub. L. 91–524, as amended by Pub. L. 93–86, §1(16), Aug. 10, 1973, 87 Stat. 230, provided that the amendment made by that section \[establishing a floor for sales of wheat and feed grains and changing price at which purchases must be made to offset sales in interest of efficient conduct of Corporation's operations\] is effective only with respect to marketing years for 1971 through 1977 crops.
+Pub. L. 91–524, title IV, §409, Nov. 30, 1970, 84 Stat. 1367, as amended by Pub. L. 93–86, §1(16), Aug. 10, 1973, 87 Stat. 230, provided that the amendment made by section 409 (establishing a floor for sales of wheat and feed grains and changing price at which purchases must be made to offset sales in interest of efficient conduct of Corporation's operations) is effective only with respect to the marketing years for 1971 through 1977 crops of the commodity.
 
-Section 603 of Pub. L. 91–524, as amended by Pub. L. 93–86, §1(21), Aug. 10, 1973, 87 Stat. 235, provided that the amendment made by that section \[covering sale of upland cotton by Corporation\] is effective only with respect to period beginning Aug. 1, 1971, and ending July 31, 1978.
+Pub. L. 91–524, title VI, §603, Nov. 30, 1970, 84 Stat. 1377, as amended by Pub. L. 93–86, §1(21), Aug. 10, 1973, 87 Stat. 235, provided that the amendment made by section 603 (covering sale of upland cotton by Corporation) is effective only with respect to the period beginning Aug. 1, 1971, and ending July 31, 1978.
 
 #### Effective Date of 1966 Amendment
 
@@ -204,7 +204,7 @@ Amendment by Pub. L. 89–808 effective Jan. 1, 1967, see section 5 of Pub. L. 8
 
 #### Effective and Termination Dates of 1964 Amendment
 
-Section 204 of Pub. L. 88–297, as amended by Pub. L. 89–321, title V, §503(3), Nov. 3, 1965, 79 Stat. 1203; Pub. L. 90–559, §1(1), Oct. 11, 1968, 82 Stat. 996, provided that the amendment made by that section is effective only with respect to marketing years beginning in calendar years 1964 through 1970.
+Pub. L. 88–297, title II, §204, Apr. 11, 1964, 78 Stat. 183, as amended by Pub. L. 89–321, title V, §505(3), Nov. 3, 1965, 79 Stat. 1203; Pub. L. 90–559, §1(1), Oct. 11, 1968, 82 Stat. 996, provided that the amendment made by section 204 is effective only with respect to the marketing years beginning in calendar years 1964 through 1970.
 
 #### Exceptions From Transfer of Functions
 
@@ -212,13 +212,13 @@ Functions of Corporations of Department of Agriculture, boards of directors and 
 
 #### Inapplicability of Section
 
-Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts, and sugar and inapplicableto milk during period beginning May 13, 2002, through Dec. 31, 2007, see section 7992(b)(10) of this title.
+Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning May 13, 2002, through Dec. 31, 2007, see section 7992(b)(10) of this title.
 
 Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(J) of this title.
 
 #### Sale of Corn to Ethanol Producers
 
-Section 332 of Pub. L. 100–387 provided that:
+Pub. L. 100–387, title III, §332, Aug. 11, 1988, 102 Stat. 951, provided that:
 
 “(a)
 

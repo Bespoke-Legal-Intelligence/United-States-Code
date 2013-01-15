@@ -2,7 +2,7 @@
 
 The Director shall cause an examination to be made of the application and the alleged new invention; and if on such examination it appears that the applicant is entitled to a patent under the law, the Director shall issue a patent therefor.
 
-(July 19, 1952, ch. 950, 66 Stat. 801; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536,1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906.)
+(July 19, 1952, ch. 950, 66 Stat. 801; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906.)
 
 #### Historical and Revision Notes
 

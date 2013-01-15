@@ -6,7 +6,7 @@
 
 (b) For purposes of this section:
 
-&emsp;(1) The term “maximum monthly stipend amount” means the maximum monthly stipend that may be paid to a participant in the Scholarship Program specified in section7613(b) of this title and as previously adjusted (if at all) in accordance with this section.
+&emsp;(1) The term “maximum monthly stipend amount” means the maximum monthly stipend that may be paid to a participant in the Scholarship Program specified in section 7613(b) of this title and as previously adjusted (if at all) in accordance with this section.
 
 &emsp;(2) The term “maximum tuition reimbursement amount” means the maximum amount of tuition reimbursement provided to a participant in the Tuition Reimbursement Program specified in section 7622(e) of this title and as previously adjusted (if at all) in accordance with this section.
 
@@ -54,5 +54,5 @@ Pub. L. 107–135, title I, §102(d)(2), Jan. 23, 2002, 115 Stat. 2449, prohibit
 
 #### Transition
 
-Section 216(d) of Pub. L. 100–322 provided that: “Section 4331 \[now 7631\] of title 38, United States Code, as added by subsection (b), shall not apply with respect to a school year ending during fiscal year 1988.”
+Pub. L. 100–322, title II, §216(d), May 20, 1988, 102 Stat. 530, provided that: “Section 4331 \[now 7631\] of title 38, United States Code, as added by subsection (b), shall not apply with respect to a school year ending during fiscal year 1988.”
 

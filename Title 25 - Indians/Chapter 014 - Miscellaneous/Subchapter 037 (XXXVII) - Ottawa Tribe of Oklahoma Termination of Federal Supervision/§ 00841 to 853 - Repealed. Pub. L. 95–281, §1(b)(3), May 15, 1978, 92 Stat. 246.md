@@ -28,9 +28,9 @@ Section 853, act Aug. 3, 1956, ch. 909, §15, 70 Stat. 965, related to preparati
 
 #### Repeal of Inconsistent Laws
 
-Section 13 of act Aug. 3, 1956, which related to repeal of inconsistent Acts, etc., was repealed by Pub. L. 95–281, §1(b)(3), May 15, 1978, 92 Stat. 246.
+Act Aug. 3, 1956, ch. 909, §13, 70 Stat. 965, which related to repeal of inconsistent Acts, etc., was repealed by Pub. L. 95–281, §1(b)(3), May 15, 1978, 92 Stat. 246.
 
 #### Separability
 
-Section 14 of act Aug. 3, 1956, which provided for validity of remainder of act of Aug. 3, 1956, in event of determination of invalidity of any part of such act, was repealed by Pub. L. 95–281, §1(b)(3), May 15, 1978, 92 Stat. 246.
+Act Aug. 3, 1956, ch. 909, §14, 70 Stat. 965, which provided for validity of remainder of act of Aug. 3, 1956, in event of determination of invalidity of any part of such act, was repealed by Pub. L. 95–281, §1(b)(3), May 15, 1978, 92 Stat. 246.
 

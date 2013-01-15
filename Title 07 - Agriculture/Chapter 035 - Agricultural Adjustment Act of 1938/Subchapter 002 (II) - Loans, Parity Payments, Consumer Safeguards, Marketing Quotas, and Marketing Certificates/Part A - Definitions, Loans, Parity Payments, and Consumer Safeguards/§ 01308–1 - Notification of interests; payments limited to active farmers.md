@@ -18,7 +18,7 @@ To facilitate administration of section 1308 of this title and this section, eac
 
 &emsp;Except as provided in subsections (c) and (d)—
 
-&emsp;&emsp;(A) a person (including a person participating in a farming operation as a partner in ageneral partnership, a participant in a joint venture, a grantor of a revocable trust, or a participant in a similar entity, as determined by the Secretary) shall be considered to be actively engaged in farming with respect to a farming operation if—
+&emsp;&emsp;(A) a person (including a person participating in a farming operation as a partner in a general partnership, a participant in a joint venture, a grantor of a revocable trust, or a participant in a similar entity, as determined by the Secretary) shall be considered to be actively engaged in farming with respect to a farming operation if—
 
 &emsp;&emsp;&emsp;(i) the person makes a significant contribution (based on the total value of the farming operation) to the farming operation of—
 
@@ -128,7 +128,7 @@ Subsec. (b)(6). Pub. L. 101–624, §1111(d), added par. (6).
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -136,11 +136,11 @@ Amendment by Pub. L. 101–624 effective beginning with 1991 crop of an agricult
 
 #### Effective Date of 1987 Amendment
 
-Section 1302 of Pub. L. 100–203 provided that the amendment made by that section is effective beginning with 1989 crops.
+Pub. L. 100–203, title I, §1302, Dec. 22, 1987, 101 Stat. 1330–14, provided that the amendment made by that section is effective beginning with the 1989 crops.
 
 #### Effective Date
 
-Section 1301(a) of Pub. L. 100–203 provided that this section is effective beginning with 1989 crops.
+Pub. L. 100–203, title I, §1301(a), Dec. 22, 1987, 101 Stat. 1330–12, provided that this section is effective beginning with the 1989 crops.
 
 #### Transition Provisions
 

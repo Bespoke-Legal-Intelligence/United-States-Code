@@ -50,21 +50,31 @@ Any information or documentary material submitted to the corporation pursuant to
 
 &emsp;&emsp;The term “at-risk status” has the meaning provided in section 1083(i)(4) of this title.
 
+#### (3) Pension stabilization disregarded
+
+&emsp;For purposes of this section, the segment rates used in determining the funding target and funding target attainment percentage shall be determined by not taking into account any adjustment under section 1082(h)(2)(C)(iv) of this title.
+
 #### (e) Notice to Congress
 
 The corporation shall, on an annual basis, submit to the Committee on Health, Education, Labor, and Pensions and the Committee on Finance of the Senate and the Committee on Education and the Workforce and the Committee on Ways and Means of the House of Representatives, a summary report in the aggregate of the information submitted to the corporation under this section.
 
-(Pub. L. 93–406, title IV, §4010, as added Pub. L. 103–465, title VII, §772(a), Dec. 8, 1994, 108 Stat. 5044; amended Pub. L. 109–280, title I, §108(b)(3), formerly §107(b)(3), title V, §505(a), (b), Aug. 17, 2006, 120 Stat. 819, 946, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 110–458, title I, §105(d), Dec. 23, 2008, 122 Stat. 5105.)
+(Pub. L. 93–406, title IV, §4010, as added Pub. L. 103–465, title VII, §772(a), Dec. 8, 1994, 108 Stat. 5044; amended Pub. L. 109–280, title I, §108(b)(3), formerly §107(b)(3), title V, §505(a), (b), Aug. 17, 2006, 120 Stat. 819, 946, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 110–458, title I, §105(d), Dec. 23, 2008, 122 Stat. 5105; Pub. L. 112–141, div. D, title II, §40211(b)(3)(D), July 6, 2012, 126 Stat. 849.)
 
 #### Amendments
 
+<b>2012</b>—Subsec. (d)(3). Pub. L. 112–141 added par. (3).
+
 <b>2008</b>—Subsec. (d)(2)(B). Pub. L. 110–458 substituted “section 1083(d)(2)” for “section 1082(d)(2)”.
 
-<b>2006</b>—Subsec. (b)(1). Pub. L. 109–280, §505(a), added par. (1) and struck out former par. (1) which read as follows: “the aggregate unfunded vested benefits at theend of the preceding plan year (as determined under section 1306(a)(3)(E)(iii) of this title) of plans maintained by the contributing sponsor and the members of its controlled group exceed $50,000,000 (disregarding plans with no unfunded vested benefits);”.
+<b>2006</b>—Subsec. (b)(1). Pub. L. 109–280, §505(a), added par. (1) and struck out former par. (1) which read as follows: “the aggregate unfunded vested benefits at the end of the preceding plan year (as determined under section 1306(a)(3)(E)(iii) of this title) of plans maintained by the contributing sponsor and the members of its controlled group exceed $50,000,000 (disregarding plans with no unfunded vested benefits);”.
 
 Subsec. (b)(2). Pub. L. 109–280, §108(b)(3), formerly §107(b)(3), as renumbered by Pub. L. 111–192, substituted “1083(k)(1)(A) and (B)” for “1082(f)(1)(A) and (B)” and “430(k)(1)(A) and (B)” for “412(n)(1)(A) and (B)”.
 
 Subsecs. (d), (e). Pub. L. 109–280, §505(b), added subsecs. (d) and (e).
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 applicable with respect to plan years beginning after Dec. 31, 2011, except as otherwise provided, see section 40211(c) of Pub. L. 112–141, set out as a note under section 404 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 2008 Amendment
 
@@ -78,7 +88,7 @@ Pub. L. 109–280, title V, §505(c), Aug. 17, 2006, 120 Stat. 946, provided tha
 
 #### Effective Date
 
-Section 772(c) of Pub. L. 103–465 provided that: “The amendments made by this section \[enacting this section\] shall be effective on the date of enactment of this Act \[Dec. 8, 1994\].”
+Pub. L. 103–465, title VII, §772(c), Dec. 8, 1994, 108 Stat. 5044, provided that: “The amendments made by this section \[enacting this section\] shall be effective on the date of enactment of this Act \[Dec. 8, 1994\].”
 
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 

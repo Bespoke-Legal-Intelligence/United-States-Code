@@ -52,7 +52,7 @@ The Secretary shall establish, in accordance with this section, a program to exp
 
 #### (2) Eligibility
 
-&emsp;In evaluating grants under this subsection, the Secretary shall give priority to proposals that involve partnerships with the National Laboratories, including the National Energy Technology Laboratory, or other hydrocarbon systems scientific entities, as determined by the Secretary.
+&emsp;In evaluating grants under this subsection, the Secretary shall give priority to proposalsthat involve partnerships with the National Laboratories, including the National Energy Technology Laboratory, or other hydrocarbon systems scientific entities, as determined by the Secretary.
 
 #### (3) Criteria
 

@@ -2,7 +2,7 @@
 
 #### (a) Register
 
-(1) The Railroad Retirement Board (hereafter in this section referred to as the “Board”) shall prepare and maintain a register of persons separated from railroad employment after at least one year of completed service with a railroad who have declared their current availability for employment in the railroad industry. The register shall be subdivided by class and craft of prior employment and shall be updated periodically to reflect current availability.
+(1) The Railroad Retirement Board (hereafter in this section referred to as the “Board”) shall prepare and maintain a register of persons separated from railroad employment after at least one year of completed service with a railroadwho have declared their current availability for employment in the railroad industry. The register shall be subdivided by class and craft of prior employment and shall be updated periodically to reflect current availability.
 
 (2) Each entry in the register shall include, or provide access to, basic information concerning the individual's experience and qualifications.
 
@@ -22,7 +22,7 @@ As soon as is practicable after August 13, 1981, the Corporation shall provide t
 
 #### (d) Placement
 
-The Board shall, through distribution of copies of the central register (or portions thereof) torailroads and representatives of classes or crafts of employees and through publication of employment information derived from vacancy notices filed with the Board, promote the placement of former railroad employees possessing requisite skills and experience in appropriate positions with other railroads.
+The Board shall, through distribution of copies of the central register (or portions thereof) to railroads and representatives of classes or crafts of employees and through publication of employment information derived from vacancy notices filed with the Board, promote the placement of former railroad employees possessing requisite skills and experience in appropriate positions with other railroads.
 
 #### (e) Employment applications
 
@@ -56,5 +56,5 @@ Subsec. (g). Pub. L. 97–468, §235(b), substituted “this section, section 79
 
 #### Effective Date of 1986 Amendment
 
-Section 4011(d) of Pub. L. 99–272 provided that: “The amendments made by subsections (a) and (c) \[amending this section and enacting provisions set out as a note under section 797b of this title\] shall take effect on the date of enactment of this Act \[Apr. 7, 1986\], and the amendment made by subsection (b) \[amending this section\] shall be effective as of August 1, 1985.”
+Pub. L. 99–272, title IV, §4011(d), Apr. 7, 1986, 100 Stat. 109, provided that: “The amendments made by subsections (a) and (c) \[amending this section and enacting provisions set out as a note under section 797b of this title\] shall take effect on the date of enactment of this Act \[Apr. 7, 1986\], and the amendment made by subsection (b) \[amending this section\] shall be effective as of August 1, 1985.”
 

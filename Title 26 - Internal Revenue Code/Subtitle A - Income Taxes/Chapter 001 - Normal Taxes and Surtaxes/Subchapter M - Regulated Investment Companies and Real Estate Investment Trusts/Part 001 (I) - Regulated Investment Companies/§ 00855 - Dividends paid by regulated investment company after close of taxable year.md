@@ -22,11 +22,11 @@ Except as provided in section 852(b)(7), amounts to which subsection (a) is appl
 
 If an investment company to which section 853 is applicable for the taxable year makes a distribution as provided in subsection (a) of this section, the shareholders shall consider the amounts described in section 853(b)(2) allocable to such distribution as paid or received, as the case may be, in the taxable year in which the distribution is made.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 274; Pub. L. 86–779, §10(b)(2), Sept. 14, 1960, 74 Stat. 1009; Pub. L. 88–272, title II, §229(a)(5), Feb. 26, 1964, 78 Stat. 99; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–514, title VI, §§651(b)(1)(B), 655(a)(5), Oct. 22, 1986, 100 Stat. 2296, 2299; Pub. L. 100–647, title I, §1006(<i>l</i>)(1)(B), Nov. 10, 1988, 102 Stat. 3413; Pub. L. 111–325, title III, §§301(g), 304(a)–(c), Dec. 22, 2010, 124 Stat. 3547–3549.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 274; Pub. L. 86–779, §10(b)(2), Sept. 14, 1960, 74 Stat. 1009; Pub. L. 88–272, title II, §229(a)(5), Feb. 26, 1964, 78 Stat.99; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–514, title VI, §§651(b)(1)(B), 655(a)(5), Oct. 22, 1986, 100 Stat. 2296, 2299; Pub. L. 100–647, title I, §1006(l)(1)(B), Nov. 10, 1988, 102 Stat. 3413; Pub. L. 111–325, title III, §§301(g), 304(a)–(c), Dec. 22, 2010, 124 Stat. 3547–3549.)
 
 #### References in Text
 
-The Investment Company Act of 1940, referred to in subsec. (a), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§80a–1et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
+The Investment Company Act of 1940, referred to in subsec. (a), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
 
 #### Amendments
 

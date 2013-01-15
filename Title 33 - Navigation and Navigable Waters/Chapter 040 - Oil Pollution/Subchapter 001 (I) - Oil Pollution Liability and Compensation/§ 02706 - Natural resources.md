@@ -102,7 +102,7 @@ In the case of natural resource damages under section 2702(b)(2)(A) of this titl
 
 #### (2) Rebuttable presumption
 
-&emsp;Any determination or assessment of damages to natural resources for the purposes of this Act made under subsection (d) of this section by a Federal, State, or Indian trustee in accordance with the regulations promulgated under paragraph (1) shall have the force and effect of a rebuttable presumption on behalf of the trustee in any administrative or judicial proceeding under this Act.
+&emsp;Any determination or assessment of damages to natural resources for the purposes of this Act made under subsection (d) of this section by a Federal, State, or Indian trustee in accordance with the regulations promulgatedunder paragraph (1) shall have the force and effect of a rebuttable presumption on behalf of the trustee in any administrative or judicial proceeding under this Act.
 
 #### (f) Use of recovered sums
 

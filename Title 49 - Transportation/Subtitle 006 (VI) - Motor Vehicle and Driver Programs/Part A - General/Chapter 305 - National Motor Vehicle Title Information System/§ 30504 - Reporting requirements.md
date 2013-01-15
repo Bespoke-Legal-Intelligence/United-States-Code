@@ -20,7 +20,7 @@ Junk Yard and Salvage Yard Operators.—(1) Beginning at a time established by t
 
 (b)
 
-Insurance Carriers.—Beginning at a time established by the Attorney General that is not sooner than the 3d month before the establishment or designation of the System, an individual or entity engaged in business as an insurance carrier shall file a monthly report with the operator. The report may be filed directly or through a designated agent. The report shall contain an inventory of all automobiles of the current model year or any of the 4 prior model years that the carrier, during the prior month, has obtained possession of and has decided are junk automobiles or salvage automobiles. The inventory shall contain—
+Insurance Carriers.—Beginning at a time established by the Attorney General that is not sooner than the 3d month before the establishment or designation of the System, an individual or entity engaged in business as an insurance carrier shall file a monthly report with the operator. The report may be filed directly or through a designated agent. The report shall contain an inventory of all automobiles of thecurrent model year or any of the 4 prior model years that the carrier, during the prior month, has obtained possession of and has decided are junk automobiles or salvage automobiles. The inventory shall contain—
 
 &emsp;(1) the vehicle identification number of each automobile obtained;
 

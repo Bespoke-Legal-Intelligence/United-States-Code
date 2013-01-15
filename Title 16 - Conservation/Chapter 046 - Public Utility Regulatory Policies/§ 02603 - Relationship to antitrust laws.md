@@ -14,7 +14,7 @@ This Act, referred to in text, is act Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3
 
 The Federal Power Act, referred to in par. (2), is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, which is classified generally to chapter 12 (§791a et seq.) of this title. For complete classification of this Act to the Code, see section 791a of this title and Tables.
 
-The Natural Gas Act, referred to in par. (2), is act June 21, 1938, ch. 556, 52 Stat. 821, as amended, which is classified generally to chapter 15B (§717 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 717w of Title 15 and Tables.
+The Natural Gas Act, referred to in par. (2), is act June 21, 1938, ch. 556, 52 Stat. 821, as amended, which isclassified generally to chapter 15B (§717 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 717w of Title 15 and Tables.
 
 #### Codification
 

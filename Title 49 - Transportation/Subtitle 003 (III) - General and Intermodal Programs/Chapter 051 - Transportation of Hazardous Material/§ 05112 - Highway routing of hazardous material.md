@@ -22,7 +22,7 @@ Standards for States and Indian Tribes.—(1) The Secretary, in consultation wit
 
 &emsp;(B) minimum procedural requirements to ensure public participation when the State or Indian tribe is establishing a highway routing designation, limitation, or requirement;
 
-&emsp;(C) a requirement that, in establishing a highway routing designation, limitation, or requirement, a State or Indian tribe consult with appropriate State, local, and tribal officials having jurisdiction over areas of the United States not subject to the jurisdiction of that State or tribe establishing the designation, limitation, or requirement and with affected industries;
+&emsp;(C) a requirement that, in establishing a highway routing designation, limitation, orrequirement, a State or Indian tribe consult with appropriate State, local, and tribal officials having jurisdiction over areas of the United States not subject to the jurisdiction of that State or tribe establishing the designation, limitation, or requirement and with affected industries;
 
 &emsp;(D) a requirement that a highway routing designation, limitation, or requirement of a State or Indian tribe shall ensure through highway routing for the transportation of hazardous material between adjacent areas;
 
@@ -72,7 +72,31 @@ Standards for States and Indian Tribes.—(1) The Secretary, in consultation wit
 
 (c)
 
-List of Route Designations.—In coordination with the States, the Secretary shall update and publish periodically a list of currently effective hazardous material highway route designations.
+List of Route Designations.—
+
+&emsp;(1)
+
+In general.—In coordination with the States, the Secretary shall update and publish periodically a list of currently effective hazardous material highway route designations.
+
+&emsp;(2)
+
+State responsibilities.—
+
+&emsp;&emsp;(A)
+
+In general.—Each State shall submit to the Secretary, in a form and manner to be determined by the Secretary and in accordance with subparagraph (B)—
+
+&emsp;&emsp;&emsp;(i) the name of the State agency responsible for hazardous material highway route designations; and
+
+&emsp;&emsp;&emsp;(ii) a list of the State's currently effective hazardous material highway route designations.
+
+&emsp;&emsp;(B)
+
+Frequency.—Each State shall submit the information described in subparagraph (A)(ii)—
+
+&emsp;&emsp;&emsp;(i) at least once every 2 years; and
+
+&emsp;&emsp;&emsp;(ii) not later than 60 days after a hazardous material highway route designation is established, amended, or discontinued.
 
 (d)
 
@@ -96,7 +120,7 @@ Relationship to Other Laws.—This section and regulations prescribed under this
 
 Existing Radioactive Material Routing Regulations.—The Secretary is not required to amend or again prescribe regulations related to highway routing designations over which radioactive material may and may not be transported by motor vehicles, and limitations and requirements related to the routing, that were in effect on November 16, 1990.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 769; Pub. L. 109–59, title VII, §7126, Aug. 10, 2005, 119 Stat. 1909.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 769; Pub. L. 109–59, title VII, §7126, Aug. 10, 2005, 119Stat. 1909; Pub. L. 112–141, div. C, title III, §33013(a), July 6, 2012, 126 Stat. 839.)
 
 Historical and Revision Notes
 
@@ -156,7 +180,13 @@ In subsection (f), the word “modify” is omitted as surplus and for consisten
 
 #### Amendments
 
+<b>2012</b>—Subsec. (c). Pub. L. 112–141 designated existing provisions as par. (1), inserted heading, and added par. (2).
+
 <b>2005</b>—Subsec. (a)(1). Pub. L. 109–59 substituted “Secretary” for “Secretary of Transportation” in introductory provisions.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
 
 #### Study of Hazardous Materials Transportation by Motor Carriers Near Federal Prisons
 

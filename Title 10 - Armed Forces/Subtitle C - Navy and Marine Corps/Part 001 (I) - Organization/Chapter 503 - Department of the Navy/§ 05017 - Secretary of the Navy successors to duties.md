@@ -28,7 +28,7 @@ Provisions similar to those in this section were contained in section 5036 of th
 
 #### Order of Succession
 
-For order of succession in event of death, permanent disability, or resignation of Secretary of the Navy, see Ex. Ord. No. 12879, Nov. 8, 1993, 58 F.R. 59929, set out as a note under section 3345 of Title 5.
+For order of succession in event of death, permanent disability, or resignation of Secretary of the Navy, see Ex. Ord. No. 12879, Nov. 8, 1993, 58 F.R. 59929, listed in a table under section 3345 of Title 5.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -18,7 +18,7 @@
 
 &emsp;(4) That if an appointment described in paragraph (2) or (3) is tendered and the midshipman participates in a program under section 2121 of this title, the midshipman will fulfill any unserved obligation incurred under this section on active duty, regardless of the type of appointment held, upon completion of, and in addition to, any service obligation incurred under section 2123 of this title for participation in such program.
 
-(b)(1) The Secretary of the Navy may transfer to the Navy Reserve or the Marine Corps Reserve, and may order to active duty for such period of time as the Secretary prescribes (but not to exceed four years), a midshipman who breaches an agreement under subsection (a). The period of time for which a midshipman is ordered to active duty under this paragraph may be determined without regard to section 651(a) of this title.
+(b)(1) The Secretary of the Navy may transfer to the Navy Reserve or the Marine Corps Reserve, and may order to active duty for such period of time as the Secretary prescribes (but not to exceed four years), a midshipman whobreaches an agreement under subsection (a). The period of time for which a midshipman is ordered to active duty under this paragraph may be determined without regard to section 651(a) of this title.
 
 (2) A midshipman who is transferred to the Navy Reserve or Marine Corps Reserve under paragraph (1) shall be transferred in an appropriate enlisted grade or rating, as determined by the Secretary.
 
@@ -88,7 +88,7 @@ Subsec. (f). Pub. L. 109–163, §687(c)(10), added subsec. (f).
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–525, §541(b), struck out “, unless sooner separated,” in introductory text preceding “he will”; inserted in cl. (1) “unless sooner separated from the Naval Academy,”; and inserted “, unless sooner separated from the naval service,” in cls. (2) and (3).
 
-Subsec. (a)(3). Pub. L. 98–525, §542(c), substituted “at least the sixth anniversary and, at the direction of the Secretary of Defense, up to the eighth anniversary” for “the sixth anniversary”.
+Subsec. (a)(3). Pub. L. 98–525, §542(c), substituted “at least the sixth anniversary and, at the direction of theSecretary of Defense, up to the eighth anniversary” for “the sixth anniversary”.
 
 <b>1964</b>—Pub. L. 88–647 designated existing provisions as subsec. (a) and added subsec. (b).
 

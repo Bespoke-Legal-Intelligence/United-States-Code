@@ -50,9 +50,9 @@ This chapter, referred to in subsecs. (a) and (b), was in the original “this t
 
 #### Short Title of 1992 Amendment
 
-Section 1 of Pub. L. 102–574 provided that: “This Act \[enacting sections 4502a and 4503a to 4503d of this title, amending this section and section 4503 of this title, and enacting provisions set out as notes under sections 4502a and 4503a of this title\] may be cited as the ‘Hawaii Tropical Forest Recovery Act’.”
+Pub. L. 102–574, §1, Oct. 29, 1992, 106 Stat. 4593, provided that: “This Act \[enacting sections 4502a and 4503a to 4503d of this title, amending this section and section 4503 of this title, and enacting provisions set out as notes under sections 4502a and 4503a of this title\] may be cited as the ‘Hawaii Tropical Forest Recovery Act’.”
 
 #### Short Title
 
-Section 601 of title VI of Pub. L. 101–513 provided that: “This title \[enacting this chapter and amending sections 1641, 1643, 2101, and 2109 of this title\] may be cited as the ‘International Forestry Cooperation Act of 1990’.”
+Pub. L. 101–513, title VI, §601, Nov. 5, 1990, 104 Stat. 2070, provided that: “This title \[enacting this chapter and amending sections 1641, 1643, 2101, and 2109 of this title\] may be cited as the ‘International Forestry Cooperation Act of 1990’.”
 

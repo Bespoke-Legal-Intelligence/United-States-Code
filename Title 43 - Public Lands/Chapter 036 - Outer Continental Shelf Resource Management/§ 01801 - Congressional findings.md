@@ -28,7 +28,7 @@ The Congress finds and declares that—
 
 &emsp;(13) because of the possible conflicts between exploitation of the oil and gas resources in the Outer Continental Shelf and other uses of the marine environment, including fish and shellfish growth and recovery, and recreational activity, the Federal Government must assume responsibility for the minimization or elimination of any conflict associated with such exploitation;
 
-&emsp;(14) the oil and gas resources of the Outer Continental Shelf are limited, nonrenewableresources which must be developed in a manner which takes into consideration the Nation's long-range energy needs and also assures adequate protection of the renewable resources of the Outer Continental Shelf which are a continuing and increasingly important source of food and protein to the Nation and the world; and
+&emsp;(14) the oil and gas resources of the Outer Continental Shelf are limited, nonrenewable resources which must be developed in a manner which takes into consideration the Nation's long-range energy needs and also assures adequate protection of the renewable resources of the Outer Continental Shelf which are a continuing and increasingly important source of food and protein to the Nation and the world; and
 
 &emsp;(15) funds must be made available to pay for damage to commercial fishing vessels and gear resulting from activities involving oil and gas exploration, development, and production on the Outer Continental Shelf.
 
@@ -40,5 +40,5 @@ Pub. L. 100–610, title I, §1, Nov. 5, 1988, 102 Stat. 3176, provided that: �
 
 #### Short Title
 
-Section 1 of Pub. L. 95–372 provided: “That this Act \[enacting this chapter, sections 1344 to 1356 of this title, and section 237 of Title 30, Mineral Lands and Mining, amending sections 1331 to 1334, 1337, 1340, and 1343 of this title, sections 1456, 1456a, and 1464 of Title 16, Conservation, and section 6213 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under sections 1348 and 1811 of this title\] may be cited as the ‘Outer Continental Shelf Lands Act Amendments of 1978’.”
+Pub. L. 95–372, §1, Sept. 18, 1978, 92 Stat. 629, provided: “That this Act \[enacting this chapter, sections 1344 to 1356 of this title, and section 237 of Title 30, Mineral Lands and Mining, amending sections 1331 to 1334, 1337, 1340, and 1343 of this title, sections 1456, 1456a, and 1464 of Title 16, Conservation, and section 6213 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under sections 1348 and 1811 of this title\] may be cited as the ‘Outer Continental Shelf Lands Act Amendments of 1978’.”
 

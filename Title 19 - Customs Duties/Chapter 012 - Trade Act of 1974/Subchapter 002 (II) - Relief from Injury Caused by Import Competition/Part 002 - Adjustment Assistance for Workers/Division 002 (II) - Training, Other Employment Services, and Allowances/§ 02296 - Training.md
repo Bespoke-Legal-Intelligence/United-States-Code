@@ -106,7 +106,7 @@
 
 &emsp;(A) all or a portion of the costs of such training program are paid under any nongovernmental plan or program,
 
-&emsp;(B) the adversely affected worker or adversely affected incumbent worker has a rightto obtain training or funds for training under such plan or program, and
+&emsp;(B) the adversely affected worker or adversely affected incumbent worker has a right to obtain training or funds for training under such plan or program, and
 
 &emsp;(C) such plan or program requires the worker to reimburse the plan or program from funds provided under this part, or from wages paid under such training program, for any portion of the costs of such training program paid under the plan or program.
 
@@ -250,7 +250,7 @@ For purposes of this section, the term “customized training” means training 
 
 #### References in Text
 
-The Workforce Investment Act of 1998, referred to in subsec. (a)(5), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat.936. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+The Workforce Investment Act of 1998, referred to in subsec. (a)(5), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
 The Act of August 16, 1937, referred to in subsec. (a)(5)(A)(iii), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, popularly known as the National Apprenticeship Act, which is classified generally to chapter 4C (§50 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 50 of Title 29 and Tables.
 
@@ -318,9 +318,9 @@ Subsec. (a)(2). Pub. L. 111–5, §§1828(a), 1893, temporarily amended par. (2)
 
 Subsec. (a)(3). Pub. L. 111–5, §§1829(c)(1)(B), 1893, temporarily substituted “paragraph (1)” for “this paragraph (1)”. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (a)(4)(A), (B). Pub. L. 111–5, §§1830(a)(1)(B)(i), 1893, temporarily inserted “or an adversely affected incumbent worker” after “an adversely affected worker”. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (a)(4)(A), (B). Pub. L. 111–5, §§1830(a)(1)(B)(i), 1893, temporarily inserted “or an adversely affected incumbent worker” after “an adversely affected worker”.See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (a)(4)(C). Pub. L. 111–5, §§1830(a)(1)(B)(ii), 1893, temporarily inserted “or adversely affected incumbentworker” after “adversely affected worker” in two places. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (a)(4)(C). Pub. L. 111–5, §§1830(a)(1)(B)(ii), 1893, temporarily inserted “or adversely affected incumbent worker” after “adversely affected worker” in two places. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
 Subsec. (a)(5). Pub. L. 111–5, §§1830(a)(1)(C), 1893, temporarily substituted “Except as provided in paragraph (10), the training programs” for “The training programs” in introductory provisions. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 

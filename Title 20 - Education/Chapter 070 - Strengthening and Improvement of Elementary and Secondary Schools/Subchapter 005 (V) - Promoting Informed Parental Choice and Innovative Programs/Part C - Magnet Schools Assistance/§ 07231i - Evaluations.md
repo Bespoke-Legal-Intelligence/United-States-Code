@@ -12,7 +12,7 @@ Each evaluation described in subsection (a) of this section, at a minimum, shall
 
 &emsp;(2) the extent to which magnet school programs enhance student access to a high quality education;
 
-&emsp;(3) the extent to which magnet school programs lead to the elimination, reduction, or prevention of minority group isolation in elementary schools and secondary schools with substantial proportions of minority students; and
+&emsp;(3) the extent to which magnet school programs lead to the elimination, reduction, orprevention of minority group isolation in elementary schools and secondary schools with substantial proportions of minority students; and
 
 &emsp;(4) the extent to which magnet school programs differ from other school programs in terms of the organizational characteristics and resource allocations of such magnet school programs.
 

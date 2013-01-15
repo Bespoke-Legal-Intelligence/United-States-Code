@@ -20,11 +20,11 @@ The thirteen judicial circuits of the United States are constituted as follows:
 | Eleventh | Alabama, Florida, Georgia. |
 | Federal | All Federal judicial districts. |
 
-(June 25, 1948, ch. 646, 62 Stat. 870; Oct. 31, 1951, ch. 655, §34, 65 Stat. 723; Pub. L. 96–452, §2, Oct. 14, 1980, 94 Stat. 1994; Pub. L. 97–164, title I, §101, Apr. 2, 1982, 96 Stat. 25.)
+(June 25, 1948, ch. 646, 62 Stat. 870; Oct. 31, 1951, ch. 655, §34, 65 Stat. 723; Pub. L. 96–452, §2, Oct.14, 1980, 94 Stat. 1994; Pub. L. 97–164, title I, §101, Apr. 2, 1982, 96 Stat. 25.)
 
 #### Historical and Revision Notes
 
-Based on title 28, U.S.C. 1940 ed., §211, and section 864 of title 48, U.S.C., 1940 ed., Territories and Insular Possessions (Apr. 12, 1900, ch. 191, §35, 31 Stat. 85; Mar. 3, 1911, ch. 231, §116, 36 Stat. 1131; Jan. 28, 1915, ch. 22, §§1, 2, 38 Stat. 803; Mar. 2, 1917, ch. 145, §42, 39 Stat. 966; Feb. 13, 1925, ch. 229, §§1, 13, 43 Stat. 936, 942; Jan. 31, 1928, ch.14, §1, 45 Stat. 54; Feb. 28, 1929, ch. 363, §1, 45 Stat. 1346; May 17, 1932, ch. 190, 47 Stat. 158).
+Based on title 28, U.S.C. 1940 ed., §211, and section 864 of title 48, U.S.C., 1940 ed., Territories and Insular Possessions (Apr. 12, 1900, ch. 191, §35, 31 Stat. 85; Mar. 3, 1911, ch. 231, §116, 36 Stat. 1131; Jan. 28, 1915, ch. 22, §§1, 2, 38 Stat. 803; Mar. 2, 1917, ch. 145, §42, 39 Stat. 966; Feb. 13, 1925, ch. 229, §§1, 13, 43 Stat. 936, 942; Jan. 31, 1928, ch. 14, §1, 45 Stat. 54; Feb. 28, 1929, ch. 363, §1, 45 Stat. 1346; May 17, 1932, ch. 190, 47 Stat. 158).
 
 Form of section was simplified.
 
@@ -58,7 +58,7 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 #### Effective Date of 1980 Amendment
 
-Section 12 of Pub. L. 96–452 provided that: “This Act and the amendments made by this Act \[amending this section and sections 44 and 48 of this title, and enacting provisions set out as notes under this section\] shall take effect on October 1, 1981.”
+Pub. L. 96–452, §12, Oct. 14, 1980, 94 Stat. 1996, provided that: “This Act and the amendments made by this Act \[amending this section and sections 44 and 48 of this title, and enacting provisions set out as notes under this section\] shall take effect on October 1, 1981.”
 
 #### Termination of United States District Court for the District of the Canal Zone
 
@@ -92,9 +92,9 @@ Sections 5 to 10 of Pub. L. 96–452 provided that:
 
 “Sec. 9. The provisions of the following paragraphs of this section apply to any case in which, on the day before the effective date of this Act \[Oct. 1, 1981\], an appeal or other proceeding has been filed with the former fifth circuit:
 
-&emsp;“(1) If the matter has been submitted for decision, further proceedings in respect of the matter shall be had in the same manner and with the same effect as if this Act \[amending sections 41, 44, and 48 of this title, and enacting provisions set out as notes under this section\] had not been enacted.
+&emsp;“(1) If the matter has been submitted for decision, further proceedings in respect of the matter shall be had in the same manner and with the same effect as if this Act \[amending sections 41, 44, and 48 of thistitle, and enacting provisions set out as notes under this section\] had not been enacted.
 
-&emsp;“(2) If the matter has not been submitted for decision, the appeal or proceeding, together with the original papers, printed records, and record entries duly certified, shall, by appropriate orders, be transferred to the court to which it would have gone had this Act been in full force and effect at the time such appeal was taken or other proceeding commenced,and further proceedings in respect of the case shall be had in the same manner and with the same effect as if the appeal or other proceeding had been filed in such court.
+&emsp;“(2) If the matter has not been submitted for decision, the appeal or proceeding, together with the original papers, printed records, and record entries duly certified, shall, by appropriate orders, be transferred to the court to which it would have gone had this Act been in full force and effect at the time such appeal was taken or other proceeding commenced, and further proceedings in respect of the case shall be had in the same manner and with the same effect as if the appeal or other proceeding had been filed in such court.
 
 &emsp;“(3) A petition for rehearing or a petition for rehearing en banc in a matter decided before the effective date of this Act \[Oct. 1, 1981\], or submitted before the effective date of this Act and decided on or after the effective date as provided in paragraph (1) of this section, shall be treated in the same manner and with the same effect as though this Act had not been enacted. If a petition for rehearing en banc is granted, the matter shall be reheard by a court comprised as though this Act had not been enacted.
 
@@ -108,7 +108,7 @@ Sections 5 to 10 of Pub. L. 96–452 provided that:
 
 #### Administrative Action by Fifth Circuit Court of Appeals; Termination of Court
 
-Section 11 of Pub. L. 96–452 provided that: “The court of appeals for the fifth circuit as constituted on the day before the effective date of this Act \[Oct. 1, 1981\] may take such administrative action as may be required to carry out this Act \[amending sections 41, 44, and 48 of this title, and enacting provisions set out as notes under this section\]. Such court shall cease to exist for administrative purposes on July 1, 1984.”
+Pub. L. 96–452, §11, Oct. 14, 1980, 94 Stat. 1996, provided that: “The court of appeals for the fifth circuit as constituted on the day before the effective date of this Act \[Oct. 1, 1981\] may take such administrative action as may be required to carry out this Act \[amending sections 41, 44, and 48 of this title, and enacting provisions set out as notes under this section\]. Such court shall cease to exist for administrative purposes on July 1, 1984.”
 
 #### Appeals Court Administrative Units
 
@@ -124,5 +124,5 @@ Pub. L. 92–489, Oct. 13, 1972, 86 Stat. 807, as amended by Pub. L. 93–420, S
 
 #### Continuation of Organization of Court
 
-Section 2(b) of act June 25, 1948, ch. 646, 62 Stat. 985, provided in part that the provisions of this title as set out in section 1 of act June 25, 1948, with respect to the organization of each of the several courts therein provided, shall be construed as continuations of existing law, and the tenure of the judges, officers, and employees thereof and of the United States attorneys and marshals and their deputies and assistants, in office on Sept. 1, 1948, shall not be affected by its enactment, but each of them shall continue to serve in the same capacity under the appropriate provisions of this title, pursuant to his prior appointment.
+Act June 25, 1948, ch. 646, §2(b), 62 Stat. 985, provided in part that the provisions of this title as set out in section 1 of act June 25, 1948, with respect to the organization of each of the several courts therein provided, shall be construed as continuations of existing law, and the tenure of the judges, officers, and employees thereof and of the United States attorneys and marshals and their deputies and assistants, in office on Sept. 1, 1948, shall not be affected by its enactment, but each of them shall continue to serve in the same capacity under the appropriate provisions of this title, pursuant to his prior appointment.
 

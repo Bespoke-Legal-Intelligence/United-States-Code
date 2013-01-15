@@ -10,7 +10,7 @@ Grant Criteria.—
 
 &emsp;(1)
 
-Eligibility.—Grants shall be made under this section to eligible passenger and freight railroad carriers, railroad suppliers, and State and local governments for projects described in subsection (a) that have a public benefit of improved safety and network efficiency.
+Eligibility.—Grants shall be made under this section to eligible passenger and freight railroad carriers, railroad suppliers, and State and local governments for projects describedin subsection (a) that have a public benefit of improved safety and network efficiency.
 
 &emsp;(2)
 

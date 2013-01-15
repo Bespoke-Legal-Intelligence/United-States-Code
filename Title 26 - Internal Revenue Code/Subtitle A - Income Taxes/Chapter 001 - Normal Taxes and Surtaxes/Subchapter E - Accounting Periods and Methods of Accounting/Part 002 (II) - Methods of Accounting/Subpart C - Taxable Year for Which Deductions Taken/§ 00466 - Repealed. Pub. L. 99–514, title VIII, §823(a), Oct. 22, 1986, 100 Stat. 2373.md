@@ -4,7 +4,7 @@ Section, added Pub. L. 95–600, title III, §373(a), Nov. 6, 1978, 92 Stat. 286
 
 #### Effective Date of Repeal
 
-Section 823(c) of Pub. L. 99–514 provided:
+Pub. L. 99–514, title VIII, §823(c), Oct. 22, 1986, 100 Stat. 2374, provided:
 
 “(1)
 

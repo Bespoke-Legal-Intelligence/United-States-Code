@@ -64,7 +64,7 @@ Under regulations prescribed by the Secretary—
 
 #### (c) Termination
 
-On and after April 1, 2012, the taxes imposed by this section shall not apply.
+On and after October 1, 2016, the taxes imposed by this section shall not apply.
 
 #### (d) Credit against tax for tire tax
 
@@ -76,13 +76,19 @@ If—
 
 > there shall be allowed as a credit against the tax imposed by this subchapter an amount equal to the tax (if any) imposed by section 4071 on such tires.
 
-(Added Pub. L. 97–424, title V, §512(b)(1), Jan. 6, 1983, 96 Stat. 2174; amended Pub. L. 98–369, div. A, title VII, §734(g), title IX, §921, July 18, 1984, 98 Stat. 980, 1009; Pub. L. 99–514, title XVIII, §§1877(c), 1899A(47), Oct. 22, 1986, 100 Stat. 2902, 2961; Pub. L. 100–17, title V, §502(a)(2), Apr. 2, 1987, 101 Stat. 256; Pub. L. 101–508, title XI, §11211(c)(1), Nov. 5, 1990, 104 Stat. 1388–426; Pub. L. 102–240, title VIII, §8002(a)(1), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 105–34, title XIV, §§1401(a), 1402(a), 1432(a), Aug. 5, 1997, 111 Stat. 1045, 1046, 1050; Pub. L. 105–178, title IX, §9002(a)(1)(D), June 9, 1998, 112 Stat. 499; Pub. L. 109–59, title XI, §§11101(a)(1)(D), 11112(a), Aug. 10, 2005, 119 Stat. 1943, 1946; Pub. L. 112–30, title I, §142(a)(2)(B), Sept. 16, 2011, 125 Stat. 356.)
+(Added Pub. L. 97–424, title V, §512(b)(1), Jan. 6, 1983, 96 Stat. 2174; amended Pub. L. 98–369, div. A, title VII, §734(g), title IX, §921, July 18, 1984, 98 Stat. 980, 1009; Pub. L. 99–514, title XVIII,§§1877(c), 1899A(47), Oct. 22, 1986, 100 Stat. 2902, 2961; Pub. L. 100–17, title V, §502(a)(2), Apr. 2, 1987, 101 Stat. 256; Pub. L. 101–508, title XI, §11211(c)(1), Nov. 5, 1990, 104 Stat. 1388–426; Pub. L. 102–240, title VIII, §8002(a)(1), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 105–34, title XIV, §§1401(a), 1402(a), 1432(a), Aug. 5, 1997, 111 Stat. 1045, 1046, 1050; Pub. L. 105–178, title IX, §9002(a)(1)(D), June 9, 1998, 112 Stat. 499; Pub. L. 109–59, title XI, §§11101(a)(1)(D), 11112(a), Aug. 10, 2005, 119 Stat. 1943, 1946; Pub. L. 112–30, title I, §142(a)(2)(B), Sept. 16, 2011, 125 Stat. 356; Pub. L. 112–102, title IV, §402(a)(2)(B), Mar. 30, 2012, 126 Stat. 282; Pub. L. 112–140, title IV, §402(a)(2)(B), June 29, 2012, 126 Stat. 402; Pub. L. 112–141, div. D, title I, §40102(a)(2)(B), July 6, 2012, 126 Stat. 844.)
 
 #### Prior Provisions
 
 A prior section 4051, act Aug. 16, 1954, ch. 736, 68A Stat. 479, defined the price for which articles were sold for purposes of determining retailers excise taxes, prior to repeal by Pub. L. 94–455, title XIX, §1904(a)(1)(D), Oct. 4, 1976, 90 Stat. 1811.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (c). Pub. L. 112–141 substituted “October 1, 2016” for “July 1, 2012”.
+
+Pub. L. 112–140, §§1(c), 402(a)(2)(B), temporarily substituted “July 7, 2012” for “July 1, 2012”. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102 substituted “July 1, 2012” for “April 1, 2012”.
 
 <b>2011</b>—Subsec. (c). Pub. L. 112–30 substituted “April 1, 2012” for “October 1, 2011”.
 
@@ -114,19 +120,29 @@ Subsec. (d)(3). Pub. L. 99–514, §1877(c), inserted at end “No tax shall be 
 
 Subsecs. (d), (e). Pub. L. 98–369, §921, added subsec. (d) and redesignated former subsec. (d) as (e).
 
+#### Effective and Termination Dates of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective July 1, 2012, see section 40102(f) of Pub. L. 112–141, set out as a note under section 460l–11 of Title 16, Conservation.
+
+Amendment by Pub. L. 112–140 to cease to be effective on July 6, 2012, with text as amended by Pub. L. 112–140 to revert back to read as it did on the day before June 29, 2012, and amendments by Pub. L. 112–141 to be executed as if Pub. L. 112–140 had not been enacted, see section 1(c) of Pub. L. 112–140, set out as a note under section 101 of Title 23, Highways.
+
+Amendment by Pub. L. 112–140 effective July 1, 2012, see section 402(f)(1) of Pub. L. 112–140, set out as a note under section 460l–11 of Title 16, Conservation.
+
+Amendment by Pub. L. 112–102 effective Apr. 1, 2012, see section 402(f) of Pub. L. 112–102, set out as a note under section 460l–11 of Title 16, Conservation.
+
 #### Effective Date of 2011 Amendment
 
-Amendment by Pub. L. 112–30 effective Oct. 1, 2011, see section 142(f) of Pub. L. 112–30, set out as a note under section 460<i>l</i>–11 of Title 16, Conservation.
+Amendment by Pub. L. 112–30 effective Oct. 1, 2011, see section 142(f) of Pub. L. 112–30, set out as a note under section 460l–11 of Title 16, Conservation.
 
 #### Effective Date of 2005 Amendment
 
-Pub. L. 109–59, title XI, §11112(b), Aug. 10, 2005, 119 Stat. 1946, provided that: “The amendments made bythis section \[amending this section\] shall apply to sales after September 30, 2005.”
+Pub. L. 109–59, title XI, §11112(b), Aug. 10, 2005, 119 Stat. 1946, provided that: “The amendments made by this section \[amending this section\] shall apply to sales after September 30, 2005.”
 
 #### Effective Date of 1997 Amendment
 
 Amendment by section 1401(a) of Pub. L. 105–34 applicable to installations on vehicles sold after Aug. 5, 1997, see section 1401(b) of Pub. L. 105–34, set out as a note under section 4003 of this title.
 
-Section 1402(c) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section and section 4052 of this title\] shall take effect on January 1, 1998.”
+Pub. L. 105–34, title XIV, §1402(c), Aug. 5, 1997, 111 Stat. 1046, provided that: “The amendments made by this section \[amending this section and section 4052 of this title\] shall take effect on January 1, 1998.”
 
 #### Effective Date of 1986 Amendment
 
@@ -134,11 +150,11 @@ Amendment by section 1877(c) of Pub. L. 99–514 effective, except as otherwise 
 
 #### Effective Date of 1984 Amendment
 
-Section 736 of subtitle C (§§731–736) of title VII of div. A of Pub. L. 98–369 provided that: “Except as otherwise provided in this subtitle, any amendment made by this subtitle \[amending this section and sections 48, 1366, 4052, 4053, 4071 to 4073, 4081, 4082, 4216, 4218, 4221 to 4223, 4227, 4481, 6401, 6412, 6416, 6427, 6511, and 9502 of this title, repealing sections 4061 to 4063 of this title, and amending provisions set out as notes under sections 4061 and 4081 of this title\] shall take effect as if included in the provisions of the Highway Revenue Act of 1982 \[Pub. L. 97–424\] to which such amendment relates.”
+Pub. L. 98–369, div. A, title VII, §736, July 18, 1984, 98 Stat. 985, provided that: “Except as otherwise provided in this subtitle \[subtitle C (§§731–736) of title VII of div. A of Pub. L. 98–369, amending this section and sections 48, 1366, 4052, 4053, 4071 to 4073, 4081, 4082, 4216, 4218, 4221 to 4223, 4227, 4481, 6401, 6412, 6416, 6427, 6511, and 9502 of this title, repealing sections 4061 to 4063 of this title, and amending provisions set out as notes under sections 4061 and 4081 of this title\], any amendment made by this subtitle shall take effect as if included in the provisions of the Highway Revenue Act of 1982 \[Pub. L. 97–424\] to which such amendment relates.”
 
 #### Effective Date
 
-Section 512(b)(3) of Pub. L. 97–424 provided that: “The amendments made by this subsection \[enacting this subchapter and amending section 6416 of this title\] shall take effect on April 1, 1983.”
+Pub. L. 97–424, title V, §512(b)(3), Jan. 6, 1983, 96 Stat. 2177, provided that: “The amendments made by this subsection \[enacting this subchapter and amending section 6416 of this title\] shall take effect on April 1, 1983.”
 
 #### Plan Amendments Not Required Until January 1, 1989
 

@@ -31,13 +31,16 @@
 | [47528\.](Subchapter%20002%20%28II%29%20-%20National%20Aviation%20Noise%20Policy/%C2%A7%2047528%20-%20Prohibition%20on%20operating%20certain%20aircraft%20not%20complying%20with%20stage%203%20noise%20levels.md) | Prohibition on operating certain aircraft not complying with stage 3 noise levels. |
 | [47529\.](Subchapter%20002%20%28II%29%20-%20National%20Aviation%20Noise%20Policy/%C2%A7%2047529%20-%20Nonaddition%20rule.md) | Nonaddition rule. |
 | [47530\.](Subchapter%20002%20%28II%29%20-%20National%20Aviation%20Noise%20Policy/%C2%A7%2047530%20-%20Nonapplication%20of%20sections%2047528%28a%29%E2%80%93%28d%29%20and%2047529%20to%20aircraft%20outside%20the%2048%20contiguous%20States.md) | Nonapplication of sections 47528(a)–(d) and 47529 to aircraft outside the 48 contiguous States. |
-| [47531\.](Subchapter%20002%20%28II%29%20-%20National%20Aviation%20Noise%20Policy/%C2%A7%2047531%20-%20Penalties%20for%20violating%20sections%2047528%E2%80%9347530.md) | Penalties for violating sections 47528–47530. |
+| [47531\.](Subchapter%20002%20%28II%29%20-%20National%20Aviation%20Noise%20Policy/%C2%A7%2047531%20-%20Penalties.md) | Penalties. |
 | [47532\.](Subchapter%20002%20%28II%29%20-%20National%20Aviation%20Noise%20Policy/%C2%A7%2047532%20-%20Judicial%20review.md) | Judicial review. |
 | [47533\.](Subchapter%20002%20%28II%29%20-%20National%20Aviation%20Noise%20Policy/%C2%A7%2047533%20-%20Relationship%20to%20other%20laws.md) | Relationship to other laws. |
+| [47534\.](Subchapter%20002%20%28II%29%20-%20National%20Aviation%20Noise%20Policy/%C2%A7%2047534%20-%20Prohibition%20on%20operating%20certain%20aircraft%20weighing%2075%2C000%20pounds%20or%20less%20not%20complying%20with%20stage%203%20noise%20levels.md) | Prohibition on operating certain aircraft weighing 75,000 pounds or less not complying with stage 3 noise levels. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2012</b>—Pub. L. 112–95, title V, §506(b)(3), Feb. 14, 2012, 126 Stat. 106, which directed amendment of the analysis for subchapter II of this chapter by substituting “Penalties” for “Penalties for violating sections 47528–47530” in item 47531 and by adding item 47534, was executed to the analysis for this chapter to reflect the probable intent of Congress.
 
 <b>1994</b>—Pub. L. 103–429, §6(72)(B), Oct. 31, 1994, 108 Stat. 4388, added item 47510.
 

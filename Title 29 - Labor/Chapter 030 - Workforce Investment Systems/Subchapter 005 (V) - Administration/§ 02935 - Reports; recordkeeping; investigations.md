@@ -30,7 +30,7 @@
 
 #### (C) Fees to recover costs
 
-&emsp;&emsp;Such recipients may charge fees sufficient to recover costs applicable to the processing of requests for records under subparagraph (A).
+&emsp;&emsp;Such recipients may charge fees sufficient to recover costs applicable to the processingof requests for records under subparagraph (A).
 
 #### (b) Investigations of use of funds
 

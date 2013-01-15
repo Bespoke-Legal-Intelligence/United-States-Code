@@ -40,7 +40,7 @@ Order mandatory.—(A) The issuance of a restitution order under this section is
 
 &emsp;&emsp;(i) the economic circumstances of the defendant; or
 
-&emsp;&emsp;(ii) the fact that a victim has, or is entitled to, receive compensation for his or herinjuries from the proceeds of insurance or any other source.
+&emsp;&emsp;(ii) the fact that a victim has, or is entitled to, receive compensation for his or her injuries from the proceeds of insurance or any other source.
 
 (c)
 
@@ -80,5 +80,5 @@ Subsec. (f). Pub. L. 104–132, §205(b)(4), redesignated subsec. (f) as (c).
 
 #### Effective Date of 1996 Amendment
 
-Section 211 of title II of Pub. L. 104–132 provided that: “The amendments made by this subtitle \[subtitle A (§§201–211) of title II of Pub. L. 104–132, see Short Title of 1996 Amendment note set out under section 3551 of this title\] shall, to the extent constitutionally permissible, be effective for sentencing proceedings in cases in which the defendant is convicted on or after the date of enactment of this Act \[Apr. 24, 1996\].”
+Pub. L. 104–132, title II, §211, Apr. 24, 1996, 110 Stat. 1241, provided that: “The amendments made by this subtitle \[subtitle A (§§201–211) of title II of Pub. L. 104–132, see Short Title of 1996 Amendment note set out under section 3551 of this title\] shall, to the extent constitutionally permissible, be effective for sentencing proceedings in cases in which the defendant is convicted on or after the date of enactment of this Act \[Apr. 24, 1996\].”
 

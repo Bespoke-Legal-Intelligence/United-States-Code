@@ -14,7 +14,7 @@
 
 #### (B) Time and scope
 
-&emsp;&emsp;The election provided by paragraph (1) for the taxable year may be made at any time before the expiration of the period prescribed for making a claim for credit or refund of the tax imposed by this chapter for the taxable year. Such an election for the taxable year shall apply to all expenditures described in paragraph (1) paid or incurred by the taxpayer during the taxable year or during any subsequent taxable year. Such an election may not be revoked unless the Secretary consents to such revocation.
+&emsp;&emsp;The election provided by paragraph (1) for the taxable year may be made at any timebefore the expiration of the period prescribed for making a claim for credit or refund of the tax imposed by this chapter for the taxable year. Such an election for the taxable year shall apply to all expenditures described in paragraph (1) paid or incurred by the taxpayer during the taxable year or during any subsequent taxable year. Such an election may not be revoked unless the Secretary consents to such revocation.
 
 #### (C) Deficiencies
 
@@ -204,7 +204,7 @@ Amendment by Pub. L. 91–172 applicable with respect to exploration expenditure
 
 #### Effective Date
 
-Section 3 of Pub. L. 89–570 provided that: “The amendments made by this Act \[enacting this section and amending sections 170, 301, 312, 341, 453, 615, 703, and 751 of this title\] shall apply to taxable years ending after the date of the enactment of this Act \[Sept. 12, 1966\] but only in respect of expenditures paid or incurred after such date.”
+Pub. L. 89–570, §3, Sept. 12, 1966, 80 Stat. 764, provided that: “The amendments made by this Act \[enacting this section and amending sections 170, 301, 312, 341, 453, 615, 703, and 751 of this title\] shall apply to taxable years ending after the date of the enactment of this Act \[Sept. 12, 1966\] but only in respect of expenditures paid or incurred after such date.”
 
 #### Savings Provision
 

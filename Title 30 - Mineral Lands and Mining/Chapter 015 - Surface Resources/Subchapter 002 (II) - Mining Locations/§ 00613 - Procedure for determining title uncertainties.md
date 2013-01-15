@@ -38,7 +38,7 @@ If any verified statement shall be filed by a mining claimant as provided in sub
 
 #### (d) Request for copy of notice
 
-Any person claiming any right under or by virtue of any unpatented mining claim heretofore located and desiring to receive a copy of any notice to mining claimants which may be published as provided in subsection (a) of this section, and which may affect lands embraced in such mining claim, may cause to be filed for record in the county office of record where the notice or certificate of location of such mining claim shall have been recorded, a duly acknowledged request for a copy of any such notice. Such request for copies shall set forth the name and address of the person requesting copies and shall also set forth, as to each heretofore located unpatented mining claim under which such person asserts rights—
+Any person claiming any right under or by virtue of any unpatented mining claim heretofore located and desiring to receive a copy of any notice to mining claimants which may be published as provided in subsection (a) of this section, and which may affect lands embraced in such mining claim, may cause to be filed for record in the county office of record where the notice or certificate of location of such mining claim shall have been recorded, a duly acknowledged request for a copy of any such notice. Such request for copies shall set forth the name and address of the person requesting copies andshall also set forth, as to each heretofore located unpatented mining claim under which such person asserts rights—
 
 &emsp;(1) the date of location;
 

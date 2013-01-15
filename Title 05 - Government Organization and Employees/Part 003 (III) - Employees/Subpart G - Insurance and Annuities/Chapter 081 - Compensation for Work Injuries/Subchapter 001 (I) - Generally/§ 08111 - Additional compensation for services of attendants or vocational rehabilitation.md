@@ -60,7 +60,7 @@ Subsec. (b). Pub. L. 93–416, §7(b), substituted “$200” for “$100”.
 
 #### Effective Date of 1990 Amendment
 
-Section 3 of Pub. L. 101–534 provided that: “The amendment made by section 2 \[amending this section\] shall take effect October 1, 1990.”
+Pub. L. 101–534, §3, Nov. 7, 1990, 104 Stat. 2352, provided that: “The amendment made by section 2\[amending this section\] shall take effect October 1, 1990.”
 
 #### Effective Date of 1974 Amendment
 

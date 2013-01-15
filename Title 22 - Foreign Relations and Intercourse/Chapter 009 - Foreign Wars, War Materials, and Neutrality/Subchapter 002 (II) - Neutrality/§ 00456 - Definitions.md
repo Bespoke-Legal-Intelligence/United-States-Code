@@ -2,7 +2,7 @@
 
 For the purposes of this subchapter—
 
-(a) The term “United States”, when used in a geographical sense, includes the several States and Territories, the insular possessions of the United States, the Canal Zone, and the District of Columbia.
+(a) The term “United States”, when used in a geographical sense, includes the several Statesand Territories, the insular possessions of the United States, the Canal Zone, and the District of Columbia.
 
 (b) The term “person” includes a partnership, company, association, or corporation, as well as a natural person.
 

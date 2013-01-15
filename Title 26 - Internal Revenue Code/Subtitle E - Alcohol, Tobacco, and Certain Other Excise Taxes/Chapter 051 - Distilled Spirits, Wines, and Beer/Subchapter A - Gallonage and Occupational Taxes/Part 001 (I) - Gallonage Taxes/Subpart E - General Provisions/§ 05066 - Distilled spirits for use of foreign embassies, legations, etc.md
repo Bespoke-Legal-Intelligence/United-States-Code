@@ -4,7 +4,7 @@
 
 #### (1) Bottled distilled spirits withdrawn from bonded premises
 
-&emsp;Under such regulations as the Secretary may prescribe, bottled distilled spirits may be withdrawn from bonded premises as provided in section 5214(a)(4) for transfer to customs bonded warehouses in which imported distilled spirits are permitted to be stored in bond for entry therein pending withdrawal therefrom as provided in subsection (b). For the purposes of this chapter, the withdrawal of distilled spirits from bonded premises under the provisions of this paragraph shall be treated as a withdrawal for exportation and all provisions of law applicable to distilled spirits withdrawn for exportation under the provisions of section 5214(a)(4) shall apply with respect to spirits withdrawn under this paragraph.
+&emsp;Under such regulations as the Secretary may prescribe, bottled distilled spirits may be withdrawn from bonded premises as provided in section 5214(a)(4) for transfer to customs bonded warehouses in which imported distilled spirits are permitted to be stored in bond for entry therein pending withdrawal therefromas provided in subsection (b). For the purposes of this chapter, the withdrawal of distilled spirits from bonded premises under the provisions of this paragraph shall be treated as a withdrawal for exportation and all provisions of law applicable to distilled spirits withdrawn for exportation under the provisions of section 5214(a)(4) shall apply with respect to spirits withdrawn under this paragraph.
 
 #### (2) Bottled distilled spirits eligible for export with benefit of drawback
 
@@ -62,7 +62,7 @@ Amendment by Pub. L. 95–176 effective on first day of first calendar month beg
 
 #### Effective Date
 
-Section 6 of Pub. L. 91–659 provided that: “This Act \[enacting this section and amending sections 5008, 5173, 5178, 5215, and 5232 of this title\] shall take effect on the first day of the first calendar month which begins more than 90 days after the date of the enactment of this Act \[Jan. 8, 1971\].”
+Pub. L. 91–659, §6, Jan. 8, 1971, 84 Stat. 1966, provided that: “This Act \[enacting this section and amending sections 5008, 5173, 5178, 5215, and 5232 of this title\] shall take effect on the first day of the first calendar month which begins more than 90 days after the date of the enactment of this Act \[Jan. 8, 1971\].”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

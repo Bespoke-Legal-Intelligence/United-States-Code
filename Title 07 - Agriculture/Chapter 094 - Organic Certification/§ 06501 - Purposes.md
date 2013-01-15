@@ -12,5 +12,5 @@ It is the purpose of this chapter—
 
 #### Short Title
 
-Section 2101 of title XXI of Pub. L. 101–624 provided that: “This title \[enacting this chapter\] may be cited as the ‘Organic Foods Production Act of 1990’.”
+Pub. L. 101–624, title XXI, §2101, Nov. 28, 1990, 104 Stat. 3935, provided that: “This title \[enacting this chapter\] may be cited as the ‘Organic Foods Production Act of 1990’.”
 

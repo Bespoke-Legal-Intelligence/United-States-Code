@@ -138,7 +138,7 @@ Subsec. (h). Pub. L. 103–66, §13241(f)(5), struck out heading and text of sub
 
 <b>1984</b>—Subsec. (g)(2). Pub. L. 98–369 substituted “section 34” for “section 39”.
 
-<b>1983</b>—Subsec. (c)(4)(B). Pub. L. 97–424, §511(f), substituted provision that, if the person so using the gasoline is an aerial or other applicator of fertilizers or other substances and is the ultimate purchaser of the gasoline, and the person described in subparagraph (A) waives (at such time and in such form and manner as the Secretary shall prescribe) his right to be treated asthe user and ultimate purchaser of the gasoline, then subparagraph (A) of this paragraph shall not apply and the aerial or other applicator shall be treated as having used such gasoline on a farm for farming purposes, for provision that, if the person so using the gasoline were an aerial applicator who was the ultimate purchaser of the gasoline and the person described in subparagraph (A) waived (at such time and in such form and manner as the Secretary was to prescribe) his right to be treated as the user and ultimate purchaser of the gasoline, then subparagraph (A) of this paragraph would not apply and the aerial applicator would be treated as having used such gasoline on a farm for farming purposes.
+<b>1983</b>—Subsec. (c)(4)(B). Pub. L. 97–424, §511(f), substituted provision that, if the person so using the gasoline is an aerial or other applicator of fertilizers or other substances and is the ultimate purchaser of the gasoline, and the person described in subparagraph (A) waives (at such time and in such form and manner as the Secretary shall prescribe) his right to be treated as the user and ultimate purchaser of the gasoline, then subparagraph (A) of this paragraph shall not apply and the aerial or other applicator shall be treated as having used such gasoline on a farm for farming purposes, for provision that, if the person so using the gasoline were an aerial applicator who was the ultimate purchaser of the gasoline and the person described in subparagraph (A) waived (at such time and in such form and manner as the Secretary was to prescribe) his right to be treated as the user and ultimate purchaser of the gasoline, then subparagraph (A) of this paragraph would not apply and the aerial applicator would be treated as having used such gasoline on a farm for farming purposes.
 
 Subsec. (h). Pub. L. 97–424, §516(b)(4), added subsec. (h). Former subsec. (h) redesignated (i).
 
@@ -208,13 +208,13 @@ Amendment by section 511(f) of Pub. L. 97–424 effective Apr. 1, 1983, see sect
 
 #### Effective Date of 1978 Amendment
 
-Section 3(d) of Pub. L. 95–458 provided that: “The amendments made by this section \[amending this section and section 6427 of this title\] shall take effect on the first day of the first calendar quarter which begins more than 90 days after the date of the enactment of this Act \[Oct. 14, 1978\].”
+Pub. L. 95–458, §3(d), Oct. 14, 1978, 92 Stat. 1257, provided that: “The amendments made by this section \[amending this section and section 6427 of this title\] shall take effect on the first day of the first calendar quarter which begins more than 90 days after the date of the enactment of this Act \[Oct. 14, 1978\].”
 
 #### Effective Date of 1976 Amendment
 
 Amendment by section 1906(a)(26), (b)(13)(A) of Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1906(d)(1) of Pub. L. 94–455, set out as a note under section 6013 of this title.
 
-Section 1906(b)(6)(B) of Pub. L. 94–455 provided that: “The amendments made by subparagraph (A) \[amending this section\] shall apply with respect to the use of liquids after December 31, 1970.”
+Pub. L. 94–455, title XIX, §1906(b)(6)(B), Oct. 4, 1976, 90 Stat. 1834, provided that: “The amendments made by subparagraph (A) \[amending this section\] shall apply with respect to the use of liquids after December 31, 1970.”
 
 #### Effective Date of 1970 Amendment
 
@@ -222,7 +222,7 @@ Amendment by Pub. L. 91–258 effective July 1, 1970, and applicable with respec
 
 #### Effective Date of 1965 Amendment
 
-Section 809(f) of Pub. L. 89–44 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 6421 of this title\] shall apply with respect to gasoline used on or after July 1, 1965.The amendments made by subsections (c) and (d) \[renumbering section 39 as 40, enacting section 39 and amending sections 72, 874, 1314, 1481, 6201, 6211, 6213, and 6401 of this title\] shall apply to taxable years beginning on or after July 1, 1965.”
+Pub. L. 89–44, title VIII, §809(f), June 21, 1965, 79 Stat. 168, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 6421 of this title\] shall apply with respect to gasoline used on or after July 1, 1965. The amendments made by subsections (c) and (d) \[renumbering section 39 as 40, enacting section 39 and amending sections 72, 874, 1314, 1481, 6201, 6211, 6213, and 6401 of this title\] shall apply to taxable years beginning on or after July 1, 1965.”
 
 #### Effective Date of 1958 Amendment
 

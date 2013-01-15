@@ -8,7 +8,7 @@ The Secretary shall annually prepare a report on the levels of participation and
 
 #### (1) Organization and data
 
-&emsp;Such report shall present information on the levels of participation and the outcomes achieved by such minority individuals with respect to each grantee under this subchapter, by service area, and in the aggregate, beginning with data that applies to program year 2005.
+&emsp;Such report shall present information on the levels of participation and the outcomesachieved by such minority individuals with respect to each grantee under this subchapter, by service area, and in the aggregate, beginning with data that applies to program year 2005.
 
 #### (2) Efforts
 
@@ -38,5 +38,5 @@ The Secretary shall annually submit such a report to the appropriate committees 
 
 #### Prior Provisions
 
-A prior section 3056m, Pub. L. 89–73, title V, §515, as added Pub. L. 106–501, title V, §501, Nov. 13, 2000, 114 Stat. 2286, related to authorization of appropriations, prior to the general amendment of this subchapter by Pub. L. 109–365. See section 3056<i>o</i> of this title.
+A prior section 3056m, Pub. L. 89–73, title V, §515, as added Pub. L. 106–501, title V, §501, Nov. 13, 2000, 114 Stat. 2286, related to authorization of appropriations, prior to the general amendment of this subchapter by Pub. L. 109–365. See section 3056o of this title.
 

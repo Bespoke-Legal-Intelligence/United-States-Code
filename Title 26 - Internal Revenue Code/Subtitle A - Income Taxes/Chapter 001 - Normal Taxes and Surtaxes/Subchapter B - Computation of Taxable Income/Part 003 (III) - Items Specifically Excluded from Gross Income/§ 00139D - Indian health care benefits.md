@@ -26,7 +26,7 @@ For purposes of this section—
 
 #### (2) Tribal organization
 
-&emsp;The term “tribal organization” has the meaning given such term by section 4(<i>l</i>) of the Indian Self-Determination and Education Assistance Act.
+&emsp;The term “tribal organization” has the meaning given such term by section 4(l) of the Indian Self-Determination and Education Assistance Act.
 
 #### (3) Medical care
 
@@ -48,7 +48,7 @@ Subsection (a) shall not apply to the amount of any qualified Indian health care
 
 #### References in Text
 
-Section 4(<i>l</i>) of the Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(2), is classified to section 450b(<i>l</i>) of Title 25, Indians.
+Section 4(l) of the Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(2), is classified to section 450b(l) of Title 25, Indians.
 
 #### Codification
 

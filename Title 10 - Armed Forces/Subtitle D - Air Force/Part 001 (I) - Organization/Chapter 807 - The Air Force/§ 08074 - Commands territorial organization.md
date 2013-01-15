@@ -52,5 +52,5 @@ Subsecs. (b) to (d). Pub. L. 85–599, §4(f)(2), redesignated subsec. (d) as (b
 
 #### Effective Date of 1965 Amendment
 
-Section 306(b) of Pub. L. 89–37 provided that: “The amendment made by subsection (a) of this section \[adding subsec. (c)\] shall become effective January 1, 1966.”
+Pub. L. 89–37, title III, §306(b), June 11, 1965, 79 Stat. 129, provided that: “The amendment made by subsection (a) of this section \[adding subsec. (c)\] shall become effective January 1, 1966.”
 

@@ -4,7 +4,7 @@
 
 In General.—
 
-&emsp;(1) No funds shall be apportioned in any fiscal year under section 104(b)(1) of this title to any State which does not permit the use of The Dwight D. Eisenhower System of Interstate and Defense Highways within its boundaries by vehicles with a weight of twenty thousand pounds carried on any one axle, including enforcement tolerances, or with a tandem axle weight of thirty-four thousand pounds, including enforcement tolerances, or a gross weight of at least eighty thousand pounds for vehicle combinations of five axles or more.
+&emsp;(1) The Secretary shall withhold 50 percent of the apportionment of a State under section 104(b)(1) in any fiscal year in which the State does not permit the use of The Dwight D. Eisenhower System of Interstate and Defense Highways within its boundaries by vehicles with a weight of twenty thousand pounds carried on any one axle, including enforcement tolerances, or with a tandem axle weight of thirty-four thousand pounds, including enforcement tolerances, or a gross weight of at least eighty thousand pounds for vehicle combinations of five axles or more.
 
 &emsp;(2) However, the maximum gross weight to be allowed by any State for vehicles using The Dwight D. Eisenhower System of Interstate and Defense Highways shall be twenty thousand pounds carried on one axle, including enforcement tolerances, and a tandem axle weight of thirty-four thousand pounds, including enforcement tolerances and with an overall maximum gross weight, including enforcement tolerances, on a group of two or more consecutive axles produced by application of the following formula:
 
@@ -14,9 +14,9 @@ In General.—
 
 ### N−1
 
-> where W equals overall gross weight on any group of two or more consecutive axles to the nearest five hundred pounds, L equals distance in feet between the extreme of any group of two or more consecutive axles, and N equals number of axles in group under consideration, except that two consecutive sets of tandem axles may carry a gross load of thirty-four thousand pounds each providing the overall distance between the first and last axles of such consecutive sets of tandem axles (1) is thirty-six feet or more, or (2) in the case of a motor vehicle hauling any tank trailer, dump trailer, or ocean transport container before September 1, 1989, is 30 feet or more: <i>Provided</i>, That such overall gross weight may not exceed eighty thousand pounds, including all enforcement tolerances, except for vehicles using Interstate Route 29 between Sioux City, Iowa, and the border between Iowa and South Dakota or vehicles using Interstate Route 129 between Sioux City, Iowa, and the border between Iowa and Nebraska, and except for those vehicles and loads which cannot be easily dismantled or divided and which have been issued special permits in accordance with applicable State laws, or the corresponding maximum weights permitted for vehicles using the public highways of such State under laws or regulations established by appropriate State authority in effect on July 1, 1956, except in the case of the overall gross weight of any group of two or more consecutive axles on any vehicle (other than a vehicle comprised of a motor vehicle hauling any tank trailer, dump trailer, or ocean transport container on or after September 1, 1989), on the date of enactment of the Federal-Aid Highway Amendments of 1974, whichever is the greater.
+> &emsp;where W equals overall gross weight on any group of two or more consecutive axles to the nearest five hundred pounds, L equals distance in feet between the extreme of any group of two or more consecutive axles, and N equals number of axles in group under consideration, except that two consecutive sets of tandem axles may carry a gross load of thirty-four thousand pounds each providing the overall distance between the first and last axles of such consecutive sets of tandem axles (1) is thirty-six feet or more, or (2) in the case of a motor vehicle hauling any tank trailer, dump trailer, or ocean transport container before September 1, 1989, is 30 feet or more: <i>Provided</i>, That such overall gross weight may not exceed eighty thousand pounds, including all enforcement tolerances, except for vehicles using Interstate Route 29 between Sioux City, Iowa, and the border between Iowa and South Dakota or vehicles using Interstate Route 129 between Sioux City, Iowa, and the border between Iowa and Nebraska, and except for those vehicles and loads which cannot be easily dismantled or divided and which have been issued special permits in accordance with applicable State laws, or the corresponding maximum weights permitted for vehicles using the public highways of such State under laws or regulations established by appropriate State authority in effect on July 1, 1956, except in the case of the overall gross weight of any group of two or more consecutive axles on any vehicle (other than a vehicle comprised of a motor vehicle hauling any tank trailer, dump trailer, or ocean transport container on or after September 1, 1989), on the date of enactment of the Federal-Aid Highway Amendments of 1974, whichever is the greater.
 
-&emsp;(3) Any amount which is withheld from apportionment to any State pursuant to the foregoing provisions shall lapse if not released and obligated within the availability period specified in section 118(b)(2) of this title.
+&emsp;(3) Any amount which is withheld from apportionment to any State pursuant to the foregoing provisions shall lapse if not released and obligated within the availability period specified in section 118(b)(2) <sup>1</sup> of this title.
 
 &emsp;(4) This section shall not be construed to deny apportionment to any State allowing the operation within such State of any vehicles or combinations thereof, other than vehicles or combinations subject to subsection (d) of this section, which the State determines could be lawfully operated within such State on July 1, 1956, except in the case of the overall gross weight of any group of two or more consecutive axles, on the date of enactment of the Federal-Aid Highway Amendments of 1974.
 
@@ -46,7 +46,7 @@ In general.—Subject to subparagraphs (B) and (C), in order to promote reductio
 
 &emsp;&emsp;(B)
 
-Maximum weight increase.—The weight increase under subparagraph (A) shall be not greater than 400 pounds.
+Maximum weight increase.—The weight increase under subparagraph (A) shall be not greater than 550 pounds.
 
 &emsp;&emsp;(C)
 
@@ -54,7 +54,7 @@ Proof.—On request by a regulatory agency or law enforcement agency, the vehicl
 
 &emsp;&emsp;&emsp;(i) the idle reduction technology is fully functional at all times; and
 
-&emsp;&emsp;&emsp;(ii) the 400-pound gross weight increase is not used for any purpose other than the use of idle reduction technology described in subparagraph (A).
+&emsp;&emsp;&emsp;(ii) the 550-pound gross weight increase is not used for any purpose other than the use of idle reduction technology described in subparagraph (A).
 
 (b)
 
@@ -164,11 +164,31 @@ In general.—Notwithstanding any other provision of this section, the Secretary
 
 Applicability.—Emergency limits established under paragraph (1) shall preempt any inconsistent State vehicle weight limits.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 902; Pub. L. 86–624, §17(e), July 12, 1960, 74 Stat. 416; Pub. L. 93–643, §106, Jan. 4, 1975, 88 Stat. 2283; Pub. L. 94–280, title I, §120, May 5, 1976, 90 Stat. 438; Pub. L. 97–424, title I, §133, formerly §133(a), Jan. 6, 1983, 96 Stat. 2123, renumbered §133, Pub. L. 100–17, title I, §133(a)(3), Apr. 2, 1987, 101 Stat. 170; Pub. L. 100–17, title I, §119, Apr. 2, 1987, 101 Stat. 157; Pub. L. 100–202, §101(<i>l</i>) \[title III, §347(c)\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–388; Pub. L. 101–427, Oct. 15, 1990, 104 Stat. 927; Pub. L. 102–240, title I, §1023(a), (b), (d), Dec. 18, 1991, 105 Stat. 1951, 1952, 1954; Pub. L. 103–331, title III, §332, Sept. 30, 1994, 108 Stat. 2493; Pub. L. 103–429, §3(3), Oct. 31, 1994, 108 Stat. 4377; Pub. L. 104–59, title III, §312(a)(1), (2), (b), Nov. 28, 1995, 109 Stat. 584; Pub. L. 104–88, title IV, §§404, 405(a)(1), Dec. 29, 1995, 109 Stat. 956; Pub. L. 105–178, title I, §§1106(c)(2)(B), 1212(d)(1), June 9, 1998, 112 Stat. 136, 194; Pub. L. 107–107, div. A, title X, §1064, Dec. 28, 2001, 115 Stat. 1233; Pub. L. 108–447, div. J, title I, §121, Dec. 8, 2004, 118 Stat. 3347; Pub. L. 109–58, title VII, §756(c), Aug. 8, 2005, 119 Stat. 832; Pub. L. 109–59, title I, §1111(b)(3), Aug. 10, 2005, 119 Stat. 1171; Pub. L. 111–117, div. A, title I, §194(a), (c), (d), (f), Dec. 16, 2009, 123 Stat. 3072, 3073; Pub. L. 112–55, div. C, title I, §125, Nov. 18, 2011, 125 Stat. 655.)
+(i)
+
+Special Permits During Periods of National Emergency.—
+
+&emsp;(1)
+
+In general.—Notwithstanding any other provision of this section, a State may issue special permits during an emergency to overweight vehicles and loads that can easily be dismantled or divided if—
+
+&emsp;&emsp;(A) the President has declared the emergency to be a major disaster under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.);
+
+&emsp;&emsp;(B) the permits are issued in accordance with State law; and
+
+&emsp;&emsp;(C) the permits are issued exclusively to vehicles and loads that are delivering relief supplies.
+
+&emsp;(2)
+
+Expiration.—A permit issued under paragraph (1) shall expire not later than 120 days after the date of the declaration of emergency under subparagraph (A) of that paragraph.
+
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 902; Pub. L. 86–624, §17(e), July 12, 1960, 74 Stat. 416; Pub. L. 93–643, §106, Jan. 4, 1975, 88 Stat. 2283; Pub. L. 94–280, title I, §120, May 5, 1976, 90 Stat. 438; Pub. L. 97–424, title I, §133, formerly §133(a), Jan. 6, 1983, 96 Stat. 2123, renumbered §133, Pub. L. 100–17, title I, §133(a)(3), Apr. 2, 1987, 101 Stat. 170; Pub. L. 100–17, title I, §119, Apr. 2, 1987, 101 Stat. 157; Pub. L. 100–202, §101(l) \[title III, §347(c)\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–388; Pub. L. 101–427, Oct. 15, 1990, 104 Stat. 927; Pub. L. 102–240, title I, §1023(a), (b), (d), Dec. 18, 1991, 105 Stat. 1951, 1952, 1954; Pub. L. 103–331, title III, §332, Sept. 30, 1994, 108 Stat. 2493; Pub. L. 103–429, §3(3), Oct. 31, 1994, 108 Stat. 4377; Pub. L. 104–59, title III, §312(a)(1), (2), (b), Nov. 28, 1995, 109 Stat. 584; Pub. L. 104–88, title IV, §§404, 405(a)(1), Dec. 29, 1995, 109 Stat. 956; Pub. L. 105–178, title I, §§1106(c)(2)(B), 1212(d)(1), June 9, 1998, 112 Stat. 136, 194; Pub. L. 107–107, div. A, title X, §1064, Dec. 28, 2001, 115 Stat. 1233; Pub. L. 108–447, div. J, title I, §121, Dec. 8, 2004, 118 Stat. 3347; Pub. L. 109–58, title VII, §756(c), Aug. 8, 2005, 119 Stat. 832; Pub. L. 109–59, title I, §1111(b)(3), Aug. 10, 2005, 119 Stat. 1171; Pub. L. 111–117, div. A, title I, §194(a), (c), (d), (f), Dec. 16, 2009, 123 Stat. 3072, 3073; Pub. L. 112–55, div. C, title I, §125, Nov. 18, 2011, 125 Stat. 655; Pub. L. 112–141, div. A, title I, §§1404(a), 1510, 1511, July 6, 2012, 126 Stat. 557, 567.)
 
 #### References in Text
 
 The date of enactment of Federal-Aid Highway Amendments of 1974, referred to in subsec. (a)(2), (4), means Jan. 4, 1975, the date on which Pub. L. 93–643 was approved.
+
+Section 118(b) of this title, referred to in subsec. (a)(3), was amended by section 1519(c)(5) of Pub. L. 112–141 and no longer contains a par. (2).
 
 The date of the enactment of this subsection, referred to in subsec. (c), is the date of enactment of Pub. L. 100–17, which was approved Apr. 2, 1987.
 
@@ -180,11 +200,21 @@ The date of the enactment of this subsection, referred to in subsec. (f), is the
 
 The date of the enactment of this subsection, referred to in subsec. (g), is the date of enactment of Pub. L. 104–88, which was approved Dec. 29, 1995.
 
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (i)(1)(A), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+
 #### Codification
 
 Amendments by section 194(c), (f) of Pub. L. 111–117 were executed as if the amendments by section 194(a), (d) of Pub. L. 111–117 were still in effect, notwithstanding section 194(b), (e) of Pub. L. 111–117 which provided that the amendments by section 194(a), (d) were only effective during the 1-year period beginning on the date of enactment of Pub. L. 111–117. See 2009 Amendment notes and Effective and Termination Dates of 2009 Amendment notes below.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a)(1). Pub. L. 112–141, §1404(a), substituted “The Secretary shall withhold 50 percent of the apportionment of a State under section 104(b)(1) in any fiscal year in which the State” for “No funds shall be apportioned in any fiscal year under section 104(b)(1) of this title to any State which”.
+
+Subsec. (a)(12)(B). Pub. L. 112–141, §1510(1), substituted “550” for “400”.
+
+Subsec. (a)(12)(C)(ii). Pub. L. 112–141, §1510(2), substituted “550-pound” for “400-pound”.
+
+Subsec. (i). Pub. L. 112–141, §1511, added subsec. (i).
 
 <b>2011</b>—Subsec. (a)(11). Pub. L. 112–55 amended par. (11) generally. Prior to amendment, par. (11) read as follows: “With respect to that portion of the Maine Turnpike designated Route 95 and 495, and that portion of Interstate Route 95 from the southern terminus of the Maine Turnpike to the New Hampshire State line, laws (including regulations) of the State of Maine concerning vehicle weight limitations that were in effect on October 1, 1995, and are applicable to State highways other than the Interstate System, shall be applicable in lieu of the requirements of this subsection.”
 
@@ -250,6 +280,10 @@ Subsec. (b). Pub. L. 97–424 added subsec. (b).
 
 <b>1960</b>—Pub. L. 86–624 made the laws or regulation in effect on Feb. 1, 1960, applicable, with respect to the State of Hawaii, for the purposes of this section, in lieu of those in effect on July 1, 1956.
 
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
+
 #### Effective and Termination Dates of 2009 Amendment
 
 Pub. L. 111–117, div. A, title I, §194(b), Dec. 16, 2009, 123 Stat. 3072, provided that: “The amendment made by subsection (a) \[amending this section\] shall be in effect during the 1-year period beginning on the date of enactment of this Act \[Dec. 16, 2009\].”
@@ -264,7 +298,7 @@ Pub. L. 111–117, div. A, title I, §194(f), Dec. 16, 2009, 123 Stat. 3073, pro
 
 Amendment by section 404 of Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of Title 49, Transportation.
 
-Section 405(a) of Pub. L. 104–88 provided that the amendment made by that section is effective Nov. 28, 1995.
+Pub. L. 104–88, title IV, §405(a), Dec. 29, 1995, 109 Stat. 956, provided that the amendment made by that section is effective Nov. 28, 1995.
 
 #### Effective Date of 1991 Amendment
 
@@ -276,7 +310,7 @@ Pub. L. 105–178, title I, §1213(f), June 9, 1998, 112 Stat. 201, provided tha
 
 “(1)
 
-Study.—The Secretary shall conduct a study to examine the impact of the truck weight standards on specialized hauling vehicles. The study shall include, ata minimum, an analysis of the economic, safety, and infrastructure impacts of the standards.
+Study.—The Secretary shall conduct a study to examine the impact of the truck weight standards on specialized hauling vehicles. The study shall include, at a minimum, an analysis of the economic, safety, and infrastructure impacts of the standards.
 
 “(2)
 
@@ -332,15 +366,17 @@ Applicability of title 23.—Funds made available to carry out this subsection s
 
 #### Over-the-Road Buses and Public Transit Vehicles
 
-Pub. L. 102–240, title I, §1023(h), as added by Pub. L. 102–388, title III, §341, Oct. 6, 1992, 106 Stat. 1552; amended by Pub. L. 104–59, title III, §326, Nov. 28, 1995, 109 Stat. 592; Pub. L. 105–178, title I, §1212(c), June 9, 1998, 112 Stat. 194; Pub. L. 108–7, div. I, title III, §347, Feb. 20, 2003, 117 Stat. 419; Pub. L. 108–447, div. H, title V, §530, Dec. 8, 2004, 118 Stat. 3271; Pub. L. 109–59, title I, §1309, Aug. 10, 2005, 119 Stat. 1219; Pub. L. 109–115, div. A, title I, §115, Nov. 30, 2005, 119 Stat. 2408, provided that:
+Pub. L. 102–240, title I, §1023(h), as added by Pub. L. 102–388, title III, §341, Oct. 6, 1992, 106 Stat. 1552; amended by Pub. L. 104–59, title III, §326, Nov. 28, 1995, 109 Stat. 592; Pub. L. 105–178, title I, §1212(c), June 9, 1998, 112 Stat. 194; Pub. L. 108–7, div. I, title III, §347, Feb. 20, 2003, 117 Stat. 419; Pub. L. 108–447, div. H, title V, §530, Dec. 8, 2004, 118 Stat. 3271; Pub. L. 109–59, title I, §1309, Aug. 10, 2005, 119 Stat. 1219; Pub. L. 109–115, div. A, title I, §115, Nov. 30, 2005, 119 Stat. 2408; Pub. L. 112–141, div. A, title I, §1522, July 6, 2012, 126 Stat. 579, provided that:
 
 “(1)
 
-Temporary exemption.—The second sentence of section 127 of title 23, United States Code, relating to axle weight limitations for vehicles using the Dwight D. Eisenhower System of Interstate and Defense Highways, shall not apply, for the period beginning on October 6, 1992, and ending on October 1, 2009, to—
+Exemption.—The second sentence of section 127 of title 23, United States Code, relating to axle weight limitations for vehicles using the Dwight D. Eisenhower System of Interstate and Defense Highways, shall not apply to—
 
-&emsp;“(A) any over-the-road bus (as defined in section 301 of the Americans with Disabilities Act of 1990 (42 U.S.C. 12181)); or
+&emsp;“(A) any over-the-road bus (as defined in section 301 of the Americans with Disabilities Act of 1990 (42 U.S.C. 12181));
 
-&emsp;“(B) any vehicle that is regularly and exclusively used as an intrastate public agency transit passenger bus.
+&emsp;“(B) any vehicle that is regularly and exclusively used as an intrastate public agency transit passenger bus; or
+
+&emsp;“(C) any motor home (as defined in section 571.3 of title 49, Code of Federal Regulations (or successor regulation)).
 
 “(2)
 
@@ -348,7 +384,7 @@ State action.—
 
 &emsp;“(A)
 
-Weight limitations.—For the period beginning on the date of enactment of this subparagraph \[Nov. 30, 2005\] and ending on September 30, 2009, a covered State, including any political subdivision of such State, may not enforce a single axle weight limitation of less than 24,000 pounds, including enforcement tolerances, on any vehicle referred to in paragraph (1) in any case in which the vehicle is using the Interstate System.
+Weight limitations.—A covered State, including any political subdivision of such State, may not enforce a single axle weight limitation of less than 24,000 pounds, including enforcement tolerances, on any vehicle referred to in paragraph (1) in any case in which the vehicle is using the Interstate System.
 
 &emsp;“(B)
 
@@ -356,7 +392,7 @@ Covered state defined.—In this paragraph, the term ‘covered State’ means a
 
 #### Temporary Exemption for Firefighting Vehicles
 
-Section 1023(e) of Pub. L. 102–240 provided that:
+Pub. L. 102–240, title I, §1023(e), Dec. 18, 1991, 105 Stat. 1954, provided that:
 
 “(1)
 
@@ -380,11 +416,11 @@ Report.—Not later than 18 months after the date of the enactment of this Act \
 
 #### Study Pertaining to Transporters of Water Well Drilling Rigs
 
-Section 1023(g) of Pub. L. 102–240 directed Secretary to conduct a study of State and Federal regulations pertaining to transporters of water well drilling rigs on public highways for the purpose of identifying requirements which place a burden on such transporters without enhancing safety or preservation of public highways, and, not later than 2 years after Dec. 18, 1991, report to Congress on the results of the study, together with any legislative and administrative recommendations.
+Pub. L. 102–240, title I, §1023(g), Dec. 18, 1991, 105 Stat. 1955, directed Secretary to conduct a study of State and Federal regulations pertaining to transporters of water well drilling rigs on public highways for the purpose of identifying requirements which place a burden on such transporters without enhancing safety or preservation of public highways, and, not later than 2 years after Dec. 18, 1991, report to Congress on the results of the study, together with any legislative and administrative recommendations.
 
 #### Motor Vehicle Study by Transportation Research Board; Report
 
-Section 158 of Pub. L. 100–17 directed Secretary, within 6 months after Apr. 2, 1987, to enter into appropriate arrangements with the Transportation Research Board of the National Academy of Sciences to conduct a study of the following motor vehicle issues, including an analysis of the impacts of the various positions that have been put forth with respect to each issue and best estimates of effects on pavement, bridges, highway revenue and cost responsibility, and highway safety, and changes in transportation costs and other measures of productivity for various segments of the trucking industry resulting from adoption of each of the positions: (1) elimination of existing, grandfather provisions of 23 U.S.C. 127 which allow higher axle loads and gross vehicle weights than the 20,000-pound single axle load limit, 34,000-pound tandem axle load limit, and 80,000-pound gross vehicle weight limit maximums authorized by Pub. L. 93–643, (2) analysis of alternative methods of determining gross vehicle weight limit and axle loadings for all types of motor carrier vehicles, (3) analysis of the bridge formula contained in 23 U.S.C. 127 in view of current vehicle configurations, pavement and bridge stresses in accord with 1986 design and construction practices, and existing bridges on and off the Interstate System, (4) establishment of nationwide policy regarding the provisions of ‘reasonable access’ to the National Network for combination vehicles established pursuant to Pub. L. 97–424, and (5) recommendation of appropriate treatment for specialized hauling vehicles which do not comply with the existing Federal bridge formula and submit a final report to Secretary and Congress, not later than 30 months after appropriate arrangements were entered into.
+Pub. L. 100–17, title I, §158, Apr. 2, 1987, 101 Stat. 210, directed Secretary, within 6 months after Apr. 2, 1987, to enter into appropriate arrangements with the Transportation Research Board of the National Academy of Sciences to conduct a study of the following motor vehicle issues, including an analysis of the impacts of the various positions that have been put forth with respect to each issue and best estimates of effects on pavement, bridges, highway revenue and cost responsibility, and highway safety, and changes in transportation costs and other measures of productivity for various segments of the trucking industry resulting from adoption of each of the positions: (1) elimination of existing, grandfather provisions of 23 U.S.C. 127 which allow higher axle loads and gross vehicle weights than the 20,000-pound single axle load limit, 34,000-pound tandem axle load limit, and 80,000-pound gross vehicle weight limit maximums authorized by Pub. L. 93–643, (2) analysis of alternative methods of determining gross vehicle weight limit and axle loadings for all types of motor carrier vehicles, (3) analysis of the bridge formula contained in 23 U.S.C. 127 in view of current vehicle configurations, pavement and bridge stresses in accord with 1986 design and construction practices, and existing bridges on and off the Interstate System, (4) establishment of nationwide policy regarding the provisions of ‘reasonable access’ to the National Network for combination vehicles established pursuant to Pub. L. 97–424, and (5) recommendation of appropriate treatment for specialized hauling vehicles which do not comply with the existing Federal bridge formula and submit a final report to Secretary and Congress, not later than 30 months after appropriate arrangements were entered into.
 
 #### State-Imposed Vehicle Width Limitations
 
@@ -392,5 +428,7 @@ Pub. L. 97–369, title III, §321, Dec. 18, 1982, 96 Stat. 1784, related to Sta
 
 #### Steering Axle Study; Report to Congress
 
-Section 210 of Pub. L. 94–280 directed Secretary of Transportation to conduct an investigation into relationship between gross load on front steering axles of truck tractors and safety of operation of vehicle combinations of which such truck tractors are a part, such investigation to be conducted in cooperation with representatives of (A) manufacturers of truck tractors and related equipment, (B) labor, and (C) users of such equipment, and the results of such study to be reported to Congress not later than July 1, 1977.
+Pub. L. 94–280, title II, §210, May 5, 1976, 90 Stat. 455, directed Secretary of Transportation to conduct an investigation into relationship between gross load on front steering axles of truck tractors and safety of operation of vehicle combinations of which such truck tractors are a part, such investigation to be conducted in cooperation with representatives of (A) manufacturers of truck tractors and related equipment, (B) labor, and (C) users of such equipment, and the results of such study to be reported to Congress not later than July 1, 1977.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

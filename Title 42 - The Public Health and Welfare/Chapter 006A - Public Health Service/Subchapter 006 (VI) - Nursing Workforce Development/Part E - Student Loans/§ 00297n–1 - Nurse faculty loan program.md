@@ -36,7 +36,7 @@ Loans from any student loan fund established by a school pursuant to an agreemen
 
 &emsp;(3) an amount up to 85 percent of any such loan (plus interest thereon) shall be canceled by the school as follows:
 
-&emsp;&emsp;(A) upon completion by the individual of each of the first, second, and third year of full-time employment, required by the loan agreement entered into under this subsection, as a faculty member in an accredited a <sup>4</sup> school of nursing, the school shall cancel 20 percent of the principle <sup>5</sup> of, and the interest on, the amount of such loan unpaid on the first day of such employment; and
+&emsp;&emsp;(A) upon completion by the individual of each of the first, second, and third year offull-time employment, required by the loan agreement entered into under this subsection, as a faculty member in an accredited a <sup>4</sup> school of nursing, the school shall cancel 20 percent of the principle <sup>5</sup> of, and the interest on, the amount of such loan unpaid on the first day of such employment; and
 
 &emsp;&emsp;(B) upon completion by the individual of the fourth year of full-time employment, required by the loan agreement entered into under this subsection, as a faculty member in a school of nursing, the school shall cancel 25 percent of the principle <sup>5</sup> of, and the interest on, the amount of such loan unpaid on the first day of such employment;
 
@@ -48,7 +48,7 @@ Loans from any student loan fund established by a school pursuant to an agreemen
 
 &emsp;&emsp;(A) beginning on the date that is 3 months after the individual ceases to pursue a course of study at a school of nursing, bear interest on the unpaid balance of the loan at the rate of 3 percent per annum; or
 
-&emsp;&emsp;(B) subject to subsection (e) of this section, if the school of nursing determines thatthe individual will not complete such course of study or serve as a faculty member as required under the loan agreement under this subsection, bear interest on the unpaid balance of the loan at the prevailing market rate.
+&emsp;&emsp;(B) subject to subsection (e) of this section, if the school of nursing determines that the individual will not complete such course of study or serve as a faculty member as required under the loan agreement under this subsection, bear interest on the unpaid balance of the loan at the prevailing market rate.
 
 #### (d) Payment of proportionate share
 

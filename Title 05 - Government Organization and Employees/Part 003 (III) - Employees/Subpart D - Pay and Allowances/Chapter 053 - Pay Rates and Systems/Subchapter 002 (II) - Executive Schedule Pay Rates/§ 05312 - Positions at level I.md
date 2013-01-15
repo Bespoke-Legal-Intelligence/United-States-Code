@@ -124,7 +124,7 @@ Pub. L. 106–569, title X, §1002(b), Dec. 27, 2000, 114 Stat. 3028, provided t
 
 Amendment by Pub. L. 100–690 effective Jan. 21, 1989, and repealed on Sept. 30, 1997, see sections 1012 and 1009, respectively, of Pub. L. 100–690.
 
-Section 11(e) of Pub. L. 100–679 provided that: “The amendments made by this section \[amending sections 5312 to 5315 of this title\] shall be effective on January 20, 1989.”
+Pub. L. 100–679, §11(e), Nov. 17, 1988, 102 Stat. 4070, provided that: “The amendments made by this section \[amending sections 5312 to 5315 of this title\] shall be effective on January 20, 1989.”
 
 Amendment by Pub. L. 100–527 effective Mar. 15, 1989, see section 18(a) of Pub. L. 100–527, set out as a Department of Veterans Affairs Act note under section 301 of Title 38, Veterans’ Benefits.
 
@@ -132,7 +132,7 @@ Amendment by Pub. L. 100–527 effective Mar. 15, 1989, see section 18(a) of Pub
 
 Amendment by Pub. L. 96–88 effective May 4, 1980, with specified exceptions, see section 601 of Pub. L. 96–88, set out as an Effective Date note under section 3401 of Title 20, Education.
 
-Section 2(a)(25)(B) of Pub. L. 96–54 provided that: The amendments made by subparagraph (A) \[amending sections 5312 to 5316 of this title\] shall take effect January 1, 1980”.
+Pub. L. 96–54, §2(a)(25)(B), Aug. 14, 1979, 93 Stat. 382, provided that: The amendments made by subparagraph (A) \[amending sections 5312 to 5316 of this title\] shall take effect January 1, 1980”.
 
 #### Effective Date of 1970 Amendment
 
@@ -144,7 +144,7 @@ Amendment by Pub. L. 89–670 effective 90 days after Secretary of Transportatio
 
 #### Short Title of 1975 Amendment
 
-Section 201 of title II of Pub. L. 94–82 provided that: “This title \[enacting section 5318 of this title and section 461 of Title 28, Judiciary and Judicial Procedure, amending sections 5305, 5312, 5313, 5314, 5315 and 5316 of this title, sections 31, 60a note, 136a, 136a–1 and 356 of Title 2, The Congress, section 104 of Title 3, The President, section 68 of Title 11, Bankruptcy, sections 5, 44, 135, 173, 213, 252 and 792 of Title 28, sections 42a and 51a of former Title 31, Money and Finance, sections 162a and 166b of former Title 40, Public Buildings, Property, and Works, and section 303 of Title 44, Public Printing and Documents, and enacting provisions set out as a note under section 356 of Title 2\] may be cited as the ‘Executive Salary Cost-of-Living Adjustment Act’.”
+Pub. L. 94–82, title II, §201, Aug. 9, 1975, 89 Stat. 419, provided that: “This title \[enacting section 5318 of this title and section 461 of Title 28, Judiciary and Judicial Procedure, amending sections 5305, 5312, 5313, 5314, 5315 and 5316 of this title, sections 31, 60a note, 136a, 136a–1 and 356 of Title 2, The Congress, section 104 of Title 3, The President, section 68 of Title 11, Bankruptcy, sections 5, 44, 135, 173, 213, 252 and 792 of Title 28, sections 42a and 51a of former Title 31, Money and Finance, sections 162a and 166b of former Title 40, Public Buildings, Property, and Works, and section 303 of Title 44, Public Printing and Documents, and enacting provisions set out as a note under section 356 of Title 2\] may be cited as the ‘Executive Salary Cost-of-Living Adjustment Act’.”
 
 #### Compensation and Emoluments of Secretary of the Interior; Fixing at Level in Effect on January 1, 2005
 
@@ -164,7 +164,7 @@ Jurisdiction.—Any person aggrieved by an action of the Secretary of the Interi
 
 &emsp;“(2)
 
-Three judge panel.—Any claim challenging the constitutionality of the appointment and continuance in office of the Secretary of the Interior on the ground that such appointment and continuance in office is in violation of article I, section 6, clause 2, of the Constitution, in an action brought under paragraph (1) shall be heard and determined by a panel of three judges in accordance with section 2284 of title 28, United States Code. It shall be the duty of the district court to advance on the docket and to expedite the disposition of any matter brought under this subsection.
+Three judge panel.—Any claim challenging the constitutionality of the appointment and continuance in office of the Secretary of the Interior on the ground that such appointment and continuance in office is in violation of article I, section 6, clause 2, of the Constitution, in an action brought under paragraph (1) shall be heard and determined by a panel of three judges in accordance with section 2284 of title 28, United States Code. It shall be the duty ofthe district court to advance on the docket and to expedite the disposition of any matter brought under this subsection.
 
 &emsp;“(3)
 
@@ -220,7 +220,7 @@ Effective Date.—This joint resolution shall take effect at 12:00 p.m. on Janua
 
 #### Compensation and Emoluments of Secretary of the Treasury at Level in Effect on January 1, 1989
 
-For provisions limiting compensation and emoluments of Secretary of the Treasury at levels in effect on Jan. 1, 1989, see section 1(a) of Pub. L. 103–2, set outas a note under section 301 of Title 31, Money and Finance.
+For provisions limiting compensation and emoluments of Secretary of the Treasury at levels in effect on Jan. 1, 1989, see section 1(a) of Pub. L. 103–2, set out as a note under section 301 of Title 31, Money and Finance.
 
 #### Compensation and Emoluments of Secretary of State; Fixing at Level in Effect on January 1, 1977
 

@@ -1,6 +1,4 @@
 
-49 U.S.C.<br>United States Code, 2011 Edition<br>Title 49 - TRANSPORTATION<br>From the U.S. Government Publishing Office, www.gpo.gov
-
 # TITLE 49—TRANSPORTATION
 
 <i>This title was enacted by Pub. L. 95–473, §1, Oct. 17, 1978, 92 Stat. 1337; Pub. L. 97–449, §1, Jan. 12, 1983, 96 Stat. 2413; Pub. L. 103–272, July 5, 1994, 108 Stat. 745</i>
@@ -7450,11 +7448,11 @@ Rep.
 
 #### Enacting Clauses
 
-Section 1(a) of Pub. L. 103–272, July 5, 1994, 108 Stat. 745, provided that: “Certain general and permanent laws of the United States, related to transportation, are revised, codified, and enacted by subsections (c)–(e) of this section without substantive change as subtitles II, III, and V–X of title 49, United States Code, ‘Transportation’. Those laws may be cited as ‘49 U.S.C. ————’.”
+Pub. L. 103–272, §1(a), July 5, 1994, 108 Stat. 745, provided that: “Certain general and permanent laws of the United States, related to transportation, are revised, codified, and enacted by subsections (c)–(e) of this section without substantive change as subtitles II, III, and V–X of title 49, United States Code, ‘Transportation’. Those laws may be cited as ‘49 U.S.C. ————’.”
 
-Section 1(a) of Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2413, provided that: “Certain general and permanent laws of the United States, related to transportation, are revised, codified, and enacted by subsection (b) of this section without substantive change as subtitle I and chapter 31 of subtitle II of title 49, United States Code, ‘Transportation’. Those laws may be cited as ‘49 U.S.C. §————’.”
+Pub. L. 97–449, §1(a), Jan. 12, 1983, 96 Stat. 2413, provided that: “Certain general and permanent laws of the United States, related to transportation, are revised, codified, and enacted by subsection (b) of this section without substantive change as subtitle I and chapter 31 of subtitle II of title 49, United States Code, ‘Transportation’. Those laws may be cited as ‘49 U.S.C. §————’.”
 
-Section 1 of Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1337, provided in part: “That certain general and permanent laws of the United States, related to transportation, are revised, codified, and enacted as \[subtitle IV of\] title 49, United States Code, ‘Transportation’.”
+Pub. L. 95–473, §1, Oct. 17, 1978, 92 Stat. 1337, provided in part: “That certain general and permanent laws of the United States, related to transportation, are revised, codified, and enacted as \[subtitle IV of\] title 49, United States Code, ‘Transportation’.”
 
 #### Clarification of Congressional Intent
 
@@ -7462,7 +7460,7 @@ Pub. L. 100–561, title III, §308, Oct. 31, 1988, 102 Stat. 2817, which provid
 
 #### Legislative Purpose and Construction
 
-Section 4 of Pub. L. 105–102, Nov. 20, 1997, 111 Stat. 2216, provided that:
+Pub. L. 105–102, §4, Nov. 20, 1997, 111 Stat. 2216, provided that:
 
 “(a)
 
@@ -7488,7 +7486,7 @@ Inferences.—An inference of a legislative construction is not to be drawn by r
 
 Severability.—If a provision enacted by this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision enacted by this Act is held invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications.”
 
-Section 9 of Pub. L. 104–287, Oct. 11, 1996, 110 Stat. 3400, provided that:
+Pub. L. 104–287, §9, Oct. 11, 1996, 110 Stat. 3400, provided that:
 
 “(a)
 
@@ -7514,7 +7512,7 @@ Inferences.—An inference of a legislative construction is not to be drawn by r
 
 Severability.—If a provision enacted by this Act is held invalid, all valid provisions that are severablefrom the invalid provision remain in effect. If a provision enacted by this Act is held invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications.”
 
-Section 10 of Pub. L. 103–429, Oct. 31, 1994, 108 Stat. 4391, provided that:
+Pub. L. 103–429, §10, Oct. 31, 1994, 108 Stat. 4391, provided that:
 
 “(a)
 
@@ -7540,7 +7538,7 @@ Inferences.—An inference of a legislative construction is not to be drawn by r
 
 Severability.—If a provision enacted by this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision enacted by this Act is held invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications.”
 
-Section 6 of Pub. L. 103–272, July 5, 1994, 108 Stat. 1378, provided that:
+Pub. L. 103–272, §6, July 5, 1994, 108 Stat. 1378, provided that:
 
 “(a) Sections 1–4 of this Act restate, without substantive change, laws enacted before July 1, 1993, that were replaced by those sections. Those sections may not be construed as making a substantive change in the laws replaced. Laws enacted after June 30, 1993, that are inconsistent with this Act supersede this Act to the extent of the inconsistency.
 
@@ -7554,7 +7552,7 @@ Section 6 of Pub. L. 103–272, July 5, 1994, 108 Stat. 1378, provided that:
 
 “(f) If a provision enacted by this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision enacted by this Act is held invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications.”
 
-Section 5 of Pub. L. 98–216, Feb. 14, 1984, 98 Stat. 7, provided that:
+Pub. L. 98–216, §5, Feb. 14, 1984, 98 Stat. 7, provided that:
 
 “(a) Sections 1–4 of this Act restate, without substantive change, laws enacted before April 1, 1983, that were replaced by those sections. Sections 1–4 may not be construed as making a substantive change in the laws replaced. Laws enacted after March 31, 1983, that are inconsistent with this Act supersede this Act to the extent of the inconsistency.
 
@@ -7568,7 +7566,7 @@ Section 5 of Pub. L. 98–216, Feb. 14, 1984, 98 Stat. 7, provided that:
 
 “(f) If a provision enacted by this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision of this Act is held invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications.”
 
-Section 6 of Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2443, provided that:
+Pub. L. 97–449, §6, Jan. 12, 1983, 96 Stat. 2443, provided that:
 
 “(a) Sections 1–5 of this Act restate, without substantive change, laws enacted before November 15, 1982, that were replaced by those sections. Those sections may not be construed as making a substantive change in the laws replaced. Laws enacted after November 14, 1982, that are inconsistent with this Act supersede this Act to the extent of the inconsistency.
 
@@ -7582,7 +7580,7 @@ Section 6 of Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2443, provided that:
 
 “(f) If a provision enacted by this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision of this Act is held invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications.”
 
-Section 2 of Pub. L. 96–258, June 3, 1980, 94 Stat. 427, provided that:
+Pub. L. 96–258, §2, June 3, 1980, 94 Stat. 427, provided that:
 
 “(a) Section 1 of this Act \[enacting section 11351 of this title and amending sections 10324, 10327, 10382, 10525, 10526, 10544, 10706, 10784, 10923, 11101, 11121, 11304, 11707, 11909, 11912, and 11914 of this title\] restates, without substantive change, laws enacted before April 24, 1979, that were replaced by that section. That section may not be construed as making a substantive change in the laws replaced. Laws enacted after April 23, 1979, that are inconsistent with this Act are considered as superseding it to the extent of the inconsistency.
 
@@ -7596,7 +7594,7 @@ Section 2 of Pub. L. 96–258, June 3, 1980, 94 Stat. 427, provided that:
 
 “(f) If a provision enacted by this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision of this Act is held invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications.”
 
-Section 3 of Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1466, provided that:
+Pub. L. 95–473, §3, Oct. 17, 1978, 92 Stat. 1466, provided that:
 
 “(a) Sections 1 and 2 of this Act restate, without substantive change, laws enacted before May 16, 1978, that were replaced by those sections. Those sections may not be construed as making a substantive change in the laws replaced. Laws enacted after May 15, 1978, that are inconsistent with this Act are considered as superseding it to the extent of the inconsistency.
 
@@ -7612,43 +7610,43 @@ Section 3 of Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1466, provided that:
 
 #### Repeals and Savings Provisions
 
-Section 5(a) of Pub. L. 105–102, Nov. 20, 1997, 111 Stat. 2216, provided that: “The repeal of a law by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
+Pub. L. 105–102, §5(a), Nov. 20, 1997, 111 Stat. 2216, provided that: “The repeal of a law by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
 
-Section 5(b) of Pub. L. 105–102, Nov. 20, 1997, 111 Stat. 2217, as amended by Pub. L. 105–225, §7(c)(2), Aug. 12, 1998, 112 Stat. 1511, repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Nov. 20, 1997.
+Pub. L. 105–102, §5(b), Nov. 20, 1997, 111 Stat. 2217, as amended by Pub. L. 105–225, §7(c)(2), Aug. 12, 1998, 112 Stat. 1511, repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Nov. 20, 1997.
 
-Section 10(a) of Pub. L. 104–287, Oct. 11, 1996, 110 Stat. 3401, provided that: “The repeal of a law by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
+Pub. L. 104–287, §10(a), Oct. 11, 1996, 110 Stat. 3401, provided that: “The repeal of a law by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
 
-Section 10(b) of Pub. L. 104–287, Oct. 11, 1996, 110 Stat. 3401, repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Oct. 11, 1996.
+Pub. L. 104–287, §10(b), Oct. 11, 1996, 110 Stat. 3401, repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Oct. 11, 1996.
 
-Section 11(a) of Pub. L. 103–429, Oct. 31, 1994, 108 Stat. 4391, provided that: “The repeal of a law by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
+Pub. L. 103–429, §11(a), Oct. 31, 1994, 108 Stat. 4391, provided that: “The repeal of a law by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
 
-Section 11(b) of Pub. L. 103–429, Oct. 31, 1994, 108 Stat. 4391, repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Oct. 31, 1994.
+Pub. L. 103–429, §11(b), Oct. 31, 1994, 108 Stat. 4391, repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Oct. 31, 1994.
 
-Section 7(a) of Pub. L. 103–272, July 5, 1994, 108 Stat. 1379, provided that: “The repeal of a law by this Act may not be construed as a legislative implication that the provision was or was not in effect before its repeal.”
+Pub. L. 103–272, §7(a), July 5, 1994, 108 Stat. 1379, provided that: “The repeal of a law by this Act may not be construed as a legislative implication that the provision was or was not in effect before its repeal.”
 
-Section 7(b) of Pub. L. 103–272, July 5, 1994, 108 Stat. 1379, as amended by Pub. L. 103–429, §7(a)(5), Oct. 31, 1994, 108 Stat. 4389, repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before July 5, 1994.
+Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, as amended by Pub. L. 103–429, §7(a)(5), Oct. 31, 1994, 108 Stat. 4389, repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before July 5, 1994.
 
-Section 6(a) of Pub. L. 98–216, Feb. 14, 1984, 98 Stat. 7, provided that: “The repeal of a law enacted \[the word “enacted” probably should not appear\] by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
+Pub. L. 98–216, §6(a), Feb. 14, 1984, 98 Stat. 7, provided that: “The repeal of a law enacted \[the word “enacted” probably should not appear\] by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
 
-Section 6(b) of Pub. L. 98–216, Feb. 14, 1984, 98 Stat. 7, repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Feb. 14, 1984.
+Pub. L. 98–216, §6(b), Feb. 14, 1984, 98 Stat. 7, repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Feb. 14, 1984.
 
-Section 7(a) of Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2443, provided that: “The repeal of a law by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
+Pub. L. 97–449, §7(a), Jan. 12, 1983, 96 Stat. 2443, provided that: “The repeal of a law by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
 
-Section 7(b) of Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2443, repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Jan. 12, 1983.
+Pub. L. 97–449, §7(b), Jan. 12, 1983, 96 Stat. 2443, repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Jan. 12, 1983.
 
-Section 3(a) of Pub. L. 96–258, June 3, 1980, 94 Stat. 427, provided that: “The repeal of a law by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
+Pub. L. 96–258, §3(a), June 3, 1980, 94 Stat. 427, provided that: “The repeal of a law by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
 
-Section 3(b) of Pub. L. 96–258, June 3, 1980, 94 Stat. 427, repealed certain sections and parts of sections of the Interstate Commerce Act and certain other provisions relating to applicability of such Act, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before June 3, 1980.
+Pub. L. 96–258, §3(b), June 3, 1980, 94 Stat. 427, repealed certain sections and parts of sections of the Interstate Commerce Act and certain other provisions relating to applicability of such Act, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before June 3, 1980.
 
-Section 4(a) of Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1466, provided that: “The repeal of a law by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
+Pub. L. 95–473, §4(a), Oct. 17, 1978, 92 Stat. 1466, provided that: “The repeal of a law by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
 
-Section 4(b) of Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1466, repealed the sections and parts of sections of the Interstate Commerce Act and certain other provisions relating to the applicability of such Act, except as provided in section 4(c) of Pub. L. 95–473 and except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Oct. 17, 1978.
+Pub. L. 95–473, §4(b), Oct. 17, 1978, 92 Stat. 1466, repealed the sections and parts of sections of the Interstate Commerce Act and certain other provisions relating to the applicability of such Act, except as provided in section 4(c) of Pub. L. 95–473 and except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Oct. 17, 1978.
 
-Section 4(c) of Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1470, which provided that the laws specified in the schedule in section 4(b) of Pub. L. 95–473, as they existed on Oct. 1, 1977, were not repealed to the extent those laws (A) vested functions in the Interstate Commerce Commission, or in the chairman or members of the Commission, related to transportation of oil by pipeline, and (B) vested functions and authority in the Commission, or an officer or component of the Commission, related to the establishment of rates or charges for transportation of oil by pipeline or valuation of any such pipeline, and those functions and authority were transferred by sections 7155 and 7172(b) of Title 42, The Public Health and Welfare, was repealed and reenacted in sections 60501 and 60502 of this title by Pub. L. 103–272, §§1(e), 7(b), July 5, 1994, 108 Stat. 1329, 1379.
+Pub. L. 95–473, §4(c), Oct. 17, 1978, 92 Stat. 1470, which provided that the laws specified in the schedule in section 4(b) of Pub. L. 95–473, as they existed on Oct. 1, 1977, were not repealed to the extent those laws (A) vested functions in the Interstate Commerce Commission, or in the chairman or members of the Commission, related to transportation of oil by pipeline, and (B) vested functions and authority in the Commission, or an officer or component of the Commission, related to the establishment of rates or charges for transportation of oil by pipeline or valuation of any such pipeline, and those functions and authority were transferred by sections 7155 and 7172(b) of Title 42, The Public Health and Welfare, was repealed and reenacted in sections 60501 and 60502 of this title by Pub. L. 103–272, §§1(e), 7(b), July 5, 1994, 108 Stat. 1329, 1379.
 
 #### Effective Date of Certain Repeals
 
-Section 4(d) of Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1470, as amended by Pub. L. 97–449, §4(b)(3), Jan. 12, 1983, 96 Stat. 2441, provided that: “The repeals, by subsection (b) of this section, of section 1(a)(25), (26) of the Act of July 3, 1952, chapter 570, the Act of June 30, 1953, chapter 165, and the Act of July 31, 1953, chapter 292, are effective on September 14, 1978.”
+Pub. L. 95–473, §4(d), Oct. 17, 1978, 92 Stat. 1470, as amended by Pub. L. 97–449, §4(b)(3), Jan. 12, 1983, 96 Stat. 2441, provided that: “The repeals, by subsection (b) of this section, of section 1(a)(25), (26) of the Act of July 3, 1952, chapter 570, the Act of June 30, 1953, chapter 165, and the Act of July 31, 1953, chapter 292, are effective on September 14, 1978.”
 
 
 ---

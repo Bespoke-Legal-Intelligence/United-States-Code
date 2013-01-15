@@ -8,7 +8,7 @@
 
 #### (b) Attendance of witnesses; production of records
 
-For the purpose of any such investigation, or any other proceeding under this chapter, any member of the Commission or any officer designated by it is empowered to administer oathsand affirmations, subpena witnesses, compel their attendance, take evidence, and require the production of any books, papers, correspondence, memoranda, or other records which the Commission deems relevant or material to the inquiry. Such attendance of witnesses and the production of any such records may be required from any place in the United States or any State at any designated place of hearing.
+For the purpose of any such investigation, or any other proceeding under this chapter, any member of the Commission or any officer designated by it is empowered to administer oaths and affirmations, subpena witnesses, compel their attendance, take evidence, and require the production of any books, papers, correspondence, memoranda, or other records which the Commission deems relevant or material to the inquiry. Such attendance of witnesses and the production of any such records may be required from any place in the United States or any State at any designated place of hearing.
 
 #### (c) Judicial enforcement of investigative power of Commission; refusal to obey subpena; criminal sanctions
 
@@ -20,7 +20,7 @@ In case of contumacy by, or refusal to obey a subpena issued to, any person, the
 
 (2)
 
-Authority of Court To Prohibit Persons From Serving as Officers and Directors.—In any proceeding under paragraph (1) of this subsection, the court may prohibit, conditionally or unconditionally, and permanently or for such period of time as it shall determine, any person who violated section 78j(b) of this title or the rules or regulations thereunder from acting as an officer or director of any issuer that has a class of securities registered pursuant to section 78<i>l</i> of this title or that is required to file reports pursuant to section 78<i>o</i>(d) of this title if the person's conduct demonstrates unfitness to serve as an officer or director of any such issuer.
+Authority of Court To Prohibit Persons From Serving as Officers and Directors.—In any proceeding under paragraph (1) of this subsection, the court may prohibit, conditionally or unconditionally, and permanently or for such period of time as it shall determine, any person who violated section 78j(b) of this title or the rules or regulations thereunder from acting as an officer or director of any issuer that has a class of securities registered pursuant to section 78l of this title or that is required to file reports pursuant to section 78o(d) of this title if the person's conduct demonstrates unfitness to serve as an officer or director of any such issuer.
 
 (3)
 
@@ -56,7 +56,7 @@ Procedures for collection.—
 
 &emsp;&emsp;(i)
 
-Payment of penalty to treasury.—A penalty imposed under this section shall be payable into the Treasury of the UnitedStates, except as otherwise provided in section 7246 of this title and section 78u–6 of this title.
+Payment of penalty to treasury.—A penalty imposed under this section shall be payable into the Treasury of the United States, except as otherwise provided in section 7246 of this title and section 78u–6 of this title.
 
 &emsp;&emsp;(ii)
 
@@ -96,7 +96,7 @@ Definition.—For purposes of this paragraph, the term “person participating i
 
 #### (e) Mandamus
 
-Upon application of the Commission the district courts of the United States and the United States courts of any territory or other place subject to the jurisdiction of the United States shall have jurisdiction to issue writs of mandamus, injunctions, and orders commanding (1) any person to comply with the provisions of this chapter, the rules, regulations, and orders thereunder, the rules of a national securities exchange or registered securities association of which such person is a member or person associated with a member, the rules of a registered clearing agency in which such person is a participant, the rules of the Public Company Accounting Oversight Board, of which such person is a registered public accounting firm or a person associated with such a firm, the rules of the Municipal Securities Rulemaking Board, or any undertaking contained in a registration statement as provided in subsection (d) of section 78<i>o</i> of this title, (2) any national securities exchange or registered securities association to enforce compliance by its members and persons associated with its members with the provisions of this chapter, the rules, regulations, and orders thereunder, and the rules of such exchange or association, or (3) any registered clearing agency to enforce compliance by its participants with the provisions of the rules of such clearing agency.
+Upon application of the Commission the district courts of the United States and the United States courts of any territory or other place subject to the jurisdiction of the United States shall have jurisdiction to issue writs of mandamus, injunctions, and orders commanding (1) any person to comply with the provisions of this chapter, the rules, regulations, and orders thereunder, the rules of a national securities exchange or registered securities association of which such person is a member or person associated with a member, the rules of a registered clearing agency in which such person is a participant, the rules of the Public Company Accounting Oversight Board, of which such person is a registered public accounting firm or a person associated with such a firm, the rules of the Municipal Securities Rulemaking Board, or any undertaking contained in a registration statement as provided in subsection (d) of section 78o of this title, (2) any national securities exchange or registered securities association to enforce compliance by its members and persons associated with its members with the provisions of this chapter, the rules, regulations, and orders thereunder, and the rules of such exchange or association, or (3) any registered clearing agency to enforce compliance by its participants with the provisions of the rules of such clearing agency.
 
 #### (f) Rules of self-regulatory organizations or Board
 
@@ -110,7 +110,7 @@ Notwithstanding the provisions of section 1407(a) of title 28, or any other prov
 
 (1) The Right to Financial Privacy Act of 1978 \[12 U.S.C. 3401 et seq.\] shall apply with respect to the Commission, except as otherwise provided in this subsection.
 
-(2) Notwithstanding section 1105 or 1107 of the Right to Financial Privacy Act of 1978 \[12 U.S.C. 3405 or 3407\], the Commission may have access to and obtain copies of, or the information contained in financial records of a customer from a financial institution without prior notice to the customer upon an ex parte showing to an appropriate United States district court that the Commission seeks such financial records pursuant to a subpena issued in conformity with the requirements of section 19(b) <sup>1</sup> of the Securities Act of 1933, section 21(b) of the Securities Exchange Act of 1934 \[15 U.S.C. 78u(b)\], section 42(b) of the Investment Company Act of 1940 \[15 U.S.C. 80a–41(b)\], or section 209(b) of the Investment Advisers Act of 1940 \[15 U.S.C. 80b–9(b)\], and that the Commission has reason to believe that—
+(2) Notwithstanding section 1105 or 1107 of the Right to Financial Privacy Act of 1978 \[12 U.S.C. 3405 or 3407\], the Commission may have access to and obtain copies of, or the information contained in financial records of a customer from a financial institution without prior notice to the customer upon an ex parte showing to an appropriate United States district court that theCommission seeks such financial records pursuant to a subpena issued in conformity with the requirements of section 19(b) <sup>1</sup> of the Securities Act of 1933, section 21(b) of the Securities Exchange Act of 1934 \[15 U.S.C. 78u(b)\], section 42(b) of the Investment Company Act of 1940 \[15 U.S.C. 80a–41(b)\], or section 209(b) of the Investment Advisers Act of 1940 \[15 U.S.C. 80b–9(b)\], and that the Commission has reason to believe that—
 
 &emsp;(A) delay in obtaining access to such financial records, or the required notice, will result in—
 
@@ -180,7 +180,7 @@ Notwithstanding the provisions of section 1407(a) of title 28, or any other prov
 
 #### (i) Information to CFTC
 
-The Commission shall provide the Commodity Futures Trading Commission with notice of the commencement of any proceeding and a copy of any order entered by the Commission against any broker or dealer registered pursuant to section 78<i>o</i>(b)(11) of this title, any exchange registered pursuant to section 78f(g) of this title, or any national securities association registered pursuant to section 78<i>o</i>–3(k) of this title.
+The Commission shall provide the Commodity Futures Trading Commission with notice of the commencement of any proceeding and a copy of any order entered by the Commission against any broker or dealer registered pursuant to section 78o(b)(11) of this title, any exchange registered pursuant to section 78f(g) of this title, or any national securities association registered pursuant to section 78o–3(k) of this title.
 
 (June 6, 1934, ch. 404, title I, §21, 48 Stat. 899; May 27, 1936, ch. 462, §7, 49 Stat. 1379; Pub. L. 91–452, title II, §212, Oct. 15, 1970, 84 Stat. 929; Pub. L. 94–29, §17, June 4, 1975, 89 Stat. 154; Pub. L. 96–433, §§3, 4, Oct. 10, 1980, 94 Stat. 1855, 1858; Pub. L. 98–376, §2, Aug. 10, 1984, 98 Stat. 1264; Pub. L. 100–181, title III, §323, Dec. 4, 1987, 101 Stat. 1259; Pub. L. 100–704, §§3(a)(1), 6(b), Nov. 19, 1988, 102 Stat. 4677, 4681; Pub. L. 101–429, title II, §201, Oct. 15, 1990, 104 Stat. 935; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 104–67, title I, §103(b)(2), Dec. 22, 1995, 109 Stat. 756; Pub. L. 106–554, §1(a)(5) \[title II, §205(a)(5)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–426; Pub. L. 107–204, §3(b)(2), title III, §§305(a)(1), (b), 308(d)(1), title VI, §603(a), July 30, 2002, 116 Stat. 749, 778, 779, 785, 794; Pub. L. 111–203, title IX, §§923(b)(1), 929F(c), (d), (g)(2), 986(a)(3), July 21, 2010, 124 Stat. 1849, 1854, 1855, 1935.)
 
@@ -196,7 +196,7 @@ Section 21(h) of the Securities Exchange Act of 1934, referred to in the paragra
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(1). Pub. L. 111–203, §929F(g)(2), in first sentence, substituted “, a person associated with such a firm, or, as to any act, practice, or omission to act, while associated with such firm, a person formerly associated with such a firm” for “or a person associated with such a firm”.
+<b>2010</b>—Subsec. (a)(1). Pub. L. 111–203, §929F(g)(2), in first sentence, substituted “, a person associated withsuch a firm, or, as to any act, practice, or omission to act, while associated with such firm, a person formerly associated with such a firm” for “or a person associated with such a firm”.
 
 Pub. L. 111–203, §929F(c), (d), in first sentence, inserted “, or, as to any act or practice, or omission to act, while associated with a member, formerly associated” after “member or a person associated” and “or, as to any act or practice, or omission to act, while a participant, was a participant,” after “in which such person is a participant,”.
 
@@ -246,13 +246,13 @@ Subsec. (h). Pub. L. 96–433, §3, added subsec. (h).
 
 Subsec. (d). Pub. L. 94–29, §17(2), redesignated subsec. (e) as (d) and amended it generally, substituting “has engaged, is engaged, or is about to engage” for “is engaged or about to engage”, “any provision” for “the provisions”, “the rules or regulations” for “or of any rule or regulation”, and “such a showing” for “a proper showing”, and inserting “the rules of a national securities exchange or registered securities association of which such persons is a member or a person associated with a member, the rules of a registered clearing agency in which such person is a participant, or the rules of the Municipal Securities Rulemaking Board,” in first sentence and inserting “as may constitute a violation of any provision of this chapter or the rules or regulations thereunder” in second sentence. Former subsec. (d) was repealed by Pub. L. 91–452. See 1970 Amendment note below.
 
-Subsec. (e). Pub. L. 94–29, §17(2), redesignated subsec. (f) as (e) and amended it generally, substituting “mandamus, injunctions, and orders commanding (1) any person to comply with the provisions of this chapter, the rules, regulations, and orders thereunder, the rules of a national securities exchange or registered securities association of which such person is a member or person associated with a member, the rules of a registered clearing agency in which such person is a participant, the rules of the Municipal Securities Rulemaking Board, or any undertaking contained in a registration statement as provided in subsection (d) of section 78<i>o</i> of this title” for “mandamus commanding any person to comply with the provisions of this chapter or any order of the Commission made in pursuance thereof or with any undertaking contained in a registration statement as provided in subsection (d) of section 78<i>o</i> of this title” and adding cls. (2) and (3). Former subsec. (e) redesignated (d).
+Subsec. (e). Pub. L. 94–29, §17(2), redesignated subsec. (f) as (e) and amended it generally, substituting “mandamus, injunctions, and orders commanding (1) any person to comply with the provisions of this chapter, the rules, regulations, and orders thereunder, the rules of a national securities exchange or registered securities association of which such person is a member or person associated with a member, the rules of a registered clearing agency in which such person is a participant, the rules of the Municipal Securities Rulemaking Board, or any undertaking contained in a registration statement as provided in subsection (d) of section 78o of this title” for “mandamus commanding any person to comply with the provisions of this chapter or any order of the Commission made in pursuance thereof or with any undertaking contained in a registration statement as provided in subsection (d) of section 78o of this title” and adding cls. (2) and (3). Former subsec. (e) redesignated (d).
 
 Subsecs. (f), (g). Pub. L. 94–29, §17(3), added subsecs. (f) and (g). Former subsec. (f) redesignated (e).
 
 <b>1970</b>—Subsec. (d). Pub. L. 91–452 struck out subsec. (d) which related to immunity from prosecution of any individual compelled to testify or produce evidence, documentary or otherwise, after claiming his privilege against self-incrimination.
 
-<b>1936</b>—Subsec. (f). Act May 27, 1936, inserted “or with any undertaking contained in a registration statement as provided in subsection (d) of section 78<i>o</i> of this title”.
+<b>1936</b>—Subsec. (f). Act May 27, 1936, inserted “or with any undertaking contained in a registration statement as provided in subsection (d) of section 78o of this title”.
 
 #### Change of Name
 
@@ -264,7 +264,7 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
 #### Effective Date of 1995 Amendment
 
-Amendment by Pub. L. 104–67 not to affect or apply to any private action arising under this chapter or title I of the Securities Act of 1933 (15 U.S.C. 77a et seq.), commenced before and pending on Dec. 22, 1995, see section 108 of Pub. L. 104–67, set out as a note under section 77<i>l</i> of this title.
+Amendment by Pub. L. 104–67 not to affect or apply to any private action arising under this chapter or title I of the Securities Act of 1933 (15 U.S.C. 77a et seq.), commenced before and pending on Dec. 22, 1995, see section 108 of Pub. L. 104–67, set out as a note under section 77l of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -272,7 +272,7 @@ Amendment by Pub. L. 101–429 effective Oct. 15, 1990, with provisions relating
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 3(a)(1) of Pub. L. 100–704 not applicable to actions occurring before Nov. 19, 1988, see section 9 of Pub. L. 100–704 set out as a note under section 78<i>o</i> of this title.
+Amendment by section 3(a)(1) of Pub. L. 100–704 not applicable to actions occurring before Nov. 19, 1988, see section 9 of Pub. L. 100–704 set out as a note under section 78o of this title.
 
 #### Effective Date of 1984 Amendment
 

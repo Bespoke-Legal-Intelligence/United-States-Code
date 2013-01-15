@@ -94,7 +94,7 @@ Whenever a Senator or employee of his office plans an official business trip wit
 
 #### Codification
 
-Section consists of subsecs. (a) to (j) of section 506 of Pub. L. 92–607, as amended. Original subsecs. (h) and (i) which made certain amendments and repeals to sections of this title that contained the provisions now covered by this section, and subsec. (j) which amended earlier appropriations not classified to the Code, were redesignated as subsecs. (i) to (k) by Pub. L. 95–391, title I, §108(a), Sept. 30, 1978, 92 Stat. 773, further redesignated as subsecs. (j) to (<i>l</i>) by Pub. L. 96–304, title I, §101, July 8, 1980, 94 Stat. 889, and subsequently redesignated as subsecs. (k) to (m) by Pub. L. 97–276, §101(e), Oct. 2, 1982, 96 Stat. 1189.
+Section consists of subsecs. (a) to (j) of section 506 of Pub. L. 92–607, as amended. Original subsecs. (h) and (i) which made certain amendments and repeals to sections of this title that contained the provisions now covered by this section, and subsec. (j) which amended earlier appropriations not classified to the Code, were redesignated as subsecs. (i) to (k) by Pub. L. 95–391, title I, §108(a), Sept. 30, 1978, 92 Stat. 773, further redesignated as subsecs. (j) to (l) by Pub. L. 96–304, title I, §101, July 8, 1980, 94 Stat. 889, and subsequently redesignated as subsecs. (k) to (m) by Pub. L. 97–276, §101(e), Oct. 2, 1982, 96 Stat. 1189.
 
 Subsec. (f) related to a reduction of allowances for fiscal year 1973.
 
@@ -200,37 +200,37 @@ Pub. L. 105–275, title I, §1(a), Oct. 21, 1998, 112 Stat. 2432, provided that
 
 #### Effective Date of 1997 Amendment
 
-Section 3(a) of Pub. L. 105–55 provided that the amendment made by that section is effective in the case of any fiscal year beginning on or after Oct. 1, 1997.
+Pub. L. 105–55, title I, §3(a), Oct. 7, 1997, 111 Stat. 1180, provided that the amendment made by section 3(a) is effective in the case of any fiscal year beginning on or after Oct. 1, 1997.
 
 #### Effective Date of 1991 Amendment
 
-Section 7(c) of Pub. L. 102–90 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 59 of this title\] shall take effect October 1, 1991.”
+Pub. L. 102–90, title I, §7(c), Aug. 14, 1991, 105 Stat. 451, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 59 of this title\] shall take effect October 1, 1991.”
 
 #### Effective Date of 1990 Amendment
 
-Section 4(d) of Pub. L. 101–520 provided that: “The provisions of subsections (a) and (b) \[enacting section 58a–4 of this title\], and the amendment made by subsection (c) \[amending this section\] shall take effect on October 1, 1990.”
+Pub. L. 101–520, title I, §4(d), Nov. 5, 1990, 104 Stat. 2258, provided that: “The provisions of subsections (a) and (b) \[enacting section 58a–4 of this title\], and the amendment made by subsection (c) \[amending this section\] shall take effect on October 1, 1990.”
 
-Section 8 of Pub. L. 101–520 provided that the amendment made by that section is effective in the case of any fiscal year which begins on or after October 1, 1990.
+Pub. L. 101–520, title I, §8, Nov. 5, 1990, 104 Stat. 2259, provided that the amendment made by section 8 is effective in the case of any fiscal year which begins on or after October 1, 1990.
 
-Section 9(b) of Pub. L. 101–520 provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective in the case of expenses incurred after September 30, 1989.”
+Pub. L. 101–520, title I, §9(b), Nov. 5, 1990, 104 Stat. 2260, provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective in the case of expenses incurred after September 30, 1989.”
 
 Amendment by section 311(h)(2) of Pub. L. 101–520 applicable with respect to sessions of Congress beginning with the first session of the One Hundred Second Congress, see section 59e(i) of this title.
 
 #### Effective Date of 1988 Amendment
 
-Sections 8(b) and 14(b) of Pub. L. 100–458 provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective only in the case of expenses incurred on or after October 1, 1988.”
+Pub. L. 100–458, title I, §§8(b), 14(b), Oct. 1, 1988, 102 Stat. 2162, 2163, provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective only in the case of expenses incurred on or after October 1, 1988.”
 
 #### Effective Date of 1987 Amendment
 
-Section 1(b)(1)–(5) of Pub. L. 100–137 provided that the amendments made by that section are effective Jan. 1, 1988.
+Pub. L. 100–137, §1(b)(1)–(5), Oct. 21, 1987, 101 Stat. 815–818, provided that the amendments made by section 1(b) are effective Jan. 1, 1988.
 
 #### Effective Date of 1985 Amendment
 
-Section 2 of Pub. L. 99–65 provided that: “The amendments made by this Act \[amending this section and section 58a of this title\] shall take effect on the first day of the first calendar month which begins more than sixty days after the date of enactment of this Act \[July 12, 1985\].”
+Pub. L. 99–65, §2, July 12, 1985, 99 Stat. 163, provided that: “The amendments made by this Act \[amending this section and section 58a of this title\] shall take effect on the first day of the first calendar month which begins more than sixty days after the date of enactment of this Act \[July 12, 1985\].”
 
 #### Effective Date of 1983 Amendment
 
-Section 1204(b) of Pub. L. 98–181 provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective in the case of expenses incurred or charges imposed on or after October 1, 1983.”
+Pub. L. 98–181, title I, §1204(b), Nov. 30, 1983, 97 Stat. 1290, provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective in the case of expenses incurred or charges imposed on or after October 1, 1983.”
 
 #### Effective Date of 1982 Amendments
 
@@ -238,29 +238,29 @@ Section 103(b) of S. 2939, as reported Sept. 22, 1982, and enacted into permanen
 
 Section 106(b) of S. 2939, as reported Sept. 22, 1982, and enacted into permanent law by section 101(e) of Pub. L. 97–276 provided that: “The amendments made by subsection (a) of this section \[amending this section\] shall take effect January 1, 1983.”
 
-Section 104(b) of Pub. L. 97–257 provided that: “The amendment made by subsection (a) of this section \[amending this section\] shall be effective on and after January 1, 1982.”
+Pub. L. 97–257, title I, §104(b), Sept. 10, 1982, 96 Stat. 849, provided that: “The amendment made by subsection (a) of this section \[amending this section\] shall be effective on and after January 1, 1982.”
 
 #### Effective Date of 1981 Amendment
 
-Section 122 of Pub. L. 97–51 provided that the amendment made by that section is effective Jan. 1, 1982.
+Pub. L. 97–51, §122, Oct. 1, 1981, 95 Stat. 965, provided that the amendment made by section 122 is effective Jan. 1, 1982.
 
 #### Effective Date of 1980 Amendment
 
-Section 101 of Pub. L. 96–304 provided that the amendment made by that section is effective Oct. 1, 1979.
+Pub. L. 96–304, title I, §101, July 8, 1980, 94 Stat. 889, provided that the amendment made by section 101 is effective Oct. 1, 1979.
 
-Section 103 of Pub. L. 96–304 provided that the amendment made by that section is effective Feb. 1, 1980.
+Pub. L. 96–304, title I, §103, July 8, 1980, 94 Stat. 889, provided that the amendment made by section 103 is effective Feb. 1, 1980.
 
-Section 104 of Pub. L. 96–304 provided that the amendment made by that section is effective Jan. 1, 1980.
+Pub. L. 96–304, title I, §104, July 8, 1980, 94 Stat. 889, provided that the amendment made by section 104 is effective Jan. 1, 1980.
 
 #### Effective Date of 1978 Amendments
 
-Section 108(b) of Pub. L. 95–391 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 1978.”
+Pub. L. 95–391, title I, §108(b), Sept. 30, 1978, 92 Stat. 773, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 1978.”
 
-Section 208 of Pub. L. 95–240 provided that the amendment made by that section is effective Aug. 5, 1977.
+Pub. L. 95–240, title II, §208, Mar. 7, 1978, 92 Stat. 117, provided that the amendment made by section 208 is effective Aug. 5, 1977.
 
 #### Effective Date of 1977 Amendment
 
-Section 112(f) of Pub. L. 95–94 provided that: “The amendments made by subsections (a), (c), (d), and (e) \[amending this section and sections 59 and 68b of this title\] shall take effect on the date of the enactment of this Act \[Aug. 5, 1977\]. The amendment made by subsection (b) \[amending this section\] shall take effect as of January 1, 1977.”
+Pub. L. 95–94, title I, §112(f), Aug. 5, 1977, 91 Stat. 665, provided that: “The amendments made by subsections (a), (c), (d), and (e) \[amending this section and sections 59 and 68b of this title\] shall take effect on the date of the enactment of this Act \[Aug. 5, 1977\]. The amendment made by subsection (b) \[amending this section\] shall take effect as of January 1, 1977.”
 
 #### Effective Date of 1974 Amendment
 
@@ -268,7 +268,7 @@ Amendment by Pub. L. 93–371 effective on and after July 1, 1974, see section 5
 
 #### Effective Date of 1973 Amendment
 
-Section 101 of Pub. L. 93–145 provided that the amendment made by that section is effective Jan. 1, 1973.
+Pub. L. 93–145, §101, Nov. 1, 1973, 87 Stat. 532, provided that the amendment made by Pub. L. 93–145 is effective Jan. 1, 1973.
 
 #### Increase in Certain Authorized Expense Limits Effective October 1, 1994
 
@@ -280,7 +280,7 @@ Pub. L. 103–69, title I, §2, Aug. 11, 1993, 107 Stat. 695, provided that: “
 
 #### Payment to United States Postal Service for Postage, Fees, and Charges
 
-Section 5(b) of Pub. L. 101–163 provided that: “Receipts paid to the Sergeant at Arms from sales of postage on, and fees and charges in connection with mail matter sent through the mail by Senators, Senate committees, or other Senate offices (including joint committees and commissions funded from the contingent fund of the Senate), other than under the franking privilege, as cash or check payments directly from such Senators, committees, or offices, or as reimbursement from the Financial Clerk of the Senate pursuant to certification by the Sergeant at Arms of charges to be made to such funds available to such Senators, committees, or offices for such postage, fees and charges shall be used by the Sergeant at Arms for payment to the United States Postal Service for such postage, fees, and charges.”
+Pub. L. 101–163, title I, §5(b), Nov. 21, 1989, 103 Stat. 1045, provided that: “Receipts paid to the Sergeant at Arms from sales of postage on, and fees and charges in connection with mail matter sent through the mail by Senators, Senate committees, or other Senate offices (including joint committees and commissions funded from the contingent fund of the Senate), other thanunder the franking privilege, as cash or check payments directly from such Senators, committees, or offices, or as reimbursement from the Financial Clerk of the Senate pursuant to certification by the Sergeant at Arms of charges to be made to such funds available to such Senators, committees, or offices for such postage, fees and charges shall be used by the Sergeant at Arms for payment to the United States Postal Service for such postage, fees, and charges.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be section “431(2)”.</i>
 

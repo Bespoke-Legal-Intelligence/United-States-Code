@@ -4,7 +4,7 @@
 
 #### (1) Prepayment authorized
 
-&emsp;Subject to the requirements set forth in subsection (b) of this section, an issuer of a debenture purchased by the Federal Financing Bank and guaranteed by the Administration underthis chapter may, at the election of the borrower (in the case of a loan under section 697 of this title) or the issuer (in the case of a small business investment company) and with the approval of the Administration, prepay such debenture in accordance with the provisions of this section.
+&emsp;Subject to the requirements set forth in subsection (b) of this section, an issuer of a debenture purchased by the Federal Financing Bank and guaranteed by the Administration under this chapter may, at the election of the borrower (in the case of a loan under section 697 of this title) or the issuer (in the case of a small business investment company) and with the approval of the Administration, prepay such debenture in accordance with the provisions of this section.
 
 #### (2) Procedure
 
@@ -40,7 +40,7 @@
 
 #### (iii) Adjustments to applicable percentage rate
 
-&emsp;&emsp;&emsp;The percentage rates described in clause (ii) shall be increased or decreased by the Administration by a factor not to exceed one-third, if the same factor is applied in each case and if the Administration determines that an adjustment is necessary, based on the number of borrowers having given notice of their intent to participate, in order to make the program (including the amounts appropriated for this purpose under Public Law 103–317) result in no substantial net gain or loss of revenue to the Federal Financing Bank or to the Administration. Amounts collected in excess of the amount necessary to ensure revenue neutrality shall be refunded to the borrowers.
+&emsp;&emsp;&emsp;The percentage rates described in clause (ii) shall be increased or decreased by theAdministration by a factor not to exceed one-third, if the same factor is applied in each case and if the Administration determines that an adjustment is necessary, based on the number of borrowers having given notice of their intent to participate, in order to make the program (including the amounts appropriated for this purpose under Public Law 103–317) result in no substantial net gain or loss of revenue to the Federal Financing Bank or to the Administration. Amounts collected in excess of the amount necessary to ensure revenue neutrality shall be refunded to the borrowers.
 
 #### (b) Requirements
 
@@ -130,7 +130,7 @@ Subsec. (e)(1)(B). Pub. L. 104–208, §208(h)(1)(H)(ii), substituted “section
 
 #### Intention of Congress
 
-Section 502 of title V of Pub. L. 103–403 provided that:
+Pub. L. 103–403, title V, §502, Oct. 22, 1994, 108 Stat. 4198, provided that:
 
 “(a)
 

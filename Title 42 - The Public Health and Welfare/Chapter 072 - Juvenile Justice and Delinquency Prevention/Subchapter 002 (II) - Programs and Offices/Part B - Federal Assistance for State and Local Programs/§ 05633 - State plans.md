@@ -28,7 +28,7 @@ In order to receive formula grants under this part, a State shall submit a plan 
 
 &emsp;&emsp;&emsp;&emsp;(VI) youth workers involved with programs that are alternatives to incarceration, including programs providing organized recreation activities;
 
-&emsp;&emsp;&emsp;&emsp;(VII) persons with special experience and competence in addressing problemsrelated to school violence and vandalism and alternatives to suspension and expulsion; and
+&emsp;&emsp;&emsp;&emsp;(VII) persons with special experience and competence in addressing problems related to school violence and vandalism and alternatives to suspension and expulsion; and
 
 &emsp;&emsp;&emsp;&emsp;(VIII) persons with special experience and competence in addressing problems related to learning disabilities, emotional difficulties, child abuse and neglect, and youth violence;
 
@@ -82,7 +82,7 @@ In order to receive formula grants under this part, a State shall submit a plan 
 
 &emsp;(8) provide for the coordination and maximum utilization of existing juvenile delinquency programs, programs operated by public and private agencies and organizations, and other related programs (such as education, special education, recreation, health, and welfare programs) in the State;
 
-&emsp;(9) provide that not less than 75 percent of the funds available to the State under section 5632 of this title, other than funds made available to the State advisory group under section 5632(d) of this title, whether expended directly by the State, by the unit of local government, or by a combination thereof, or through grants and contracts with public or private nonprofit agencies, shall be used for—
+&emsp;(9) provide that not less than 75 percent of the funds available to the State under section 5632 of this title, other than funds made available to the State advisory group under section 5632(d) of this title, whether expended directly by the State, by the unit of local government, or by a combination thereof, or through grantsand contracts with public or private nonprofit agencies, shall be used for—
 
 &emsp;&emsp;(A) community-based alternatives (including home-based alternatives) to incarceration and institutionalization including—
 
@@ -218,7 +218,7 @@ In order to receive formula grants under this part, a State shall submit a plan 
 
 &emsp;&emsp;&emsp;&emsp;(II) is located where conditions of distance to be traveled or the lack of highway, road, or transportation do not allow for court appearances within 48 hours (excluding Saturdays, Sundays, and legal holidays) so that a brief (not to exceed an additional 48 hours) delay is excusable; or
 
-&emsp;&emsp;&emsp;&emsp;(III) is located where conditions of safety exist (such as severe adverse, life-threatening weather conditions that do not allow for reasonably safe travel), in which case the time for an appearance may be delayed until 24 hours after the time that such conditions allow for reasonable safe travel;
+&emsp;&emsp;&emsp;&emsp;(III) is located where conditions of safety exist (such as severe adverse, life-threatening weather conditions that do not allow for reasonably safe travel), in which case the time for an appearancemay be delayed until 24 hours after the time that such conditions allow for reasonable safe travel;
 
 &emsp;(14) provide for an adequate system of monitoring jails, detention facilities, correctional facilities, and non-secure facilities to insure that the requirements of paragraphs (11), (12), and (13) are met, and for annual reporting of the results of such monitoring to the Administrator, except that such reporting requirements shall not apply in the case of a State which is in compliance with the other requirements of this paragraph, which is in compliance with the requirements in paragraphs (11) and (12), and which has enacted legislation which conforms to such requirements and which contains, in the opinion of the Administrator, sufficient enforcement mechanisms to ensure that such legislation will be administered effectively;
 
@@ -268,7 +268,7 @@ In order to receive formula grants under this part, a State shall submit a plan 
 
 &emsp;(24) provide an assurance that if the State receives under section 5632 of this title for any fiscal year an amount that exceeds 105 percent of the amount the State received under such section for fiscal year 2000, all of such excess shall be expended through or for programs that are part of a comprehensive and coordinated community system of services;
 
-&emsp;(25) specify a percentage (if any), not to exceed 5 percent, of funds received by the State under section 5632 of this title (other than funds made available to the State advisory group under section 5632(d) of this title) that the State will reserve for expenditure by the State to provide incentive grants to units of general local government that reduce the caseload of probation officers within such units;
+&emsp;(25) specify a percentage (if any), not to exceed 5 percent, of funds received by the State under section 5632 of this title (other than funds made available to the State advisory group under section 5632(d) of this title) that the State will reserve for expenditure by the State to provide incentive grants to units of general local government that reduce thecaseload of probation officers within such units;
 
 &emsp;(26) provide that the State, to the maximum extent practicable, will implement a system to ensure that if a juvenile is before a court in the juvenile justice system, public child welfare records (including child protective services records) relating to such juvenile that are on file in the geographical area under the jurisdiction of such court will be made known to such court;
 
@@ -324,7 +324,7 @@ Notwithstanding any other provision of law, the Administrator shall establish ap
 
 &emsp;&emsp;(E) advising the President and Congress with regard to State perspectives on the operation of the Office and Federal legislation pertaining to juvenile justice and delinquency prevention.
 
-(Pub. L. 93–415, title II, §223, Sept. 7, 1974, 88 Stat. 1119; Pub. L. 94–503, title I, §130(b), Oct. 15, 1976, 90 Stat. 2425; Pub. L. 95–115, §§3(a)(3)(B), 4(c)(1)–(15), Oct. 3, 1977, 91 Stat. 1048, 1051–1054; Pub. L. 96–509, §§11, 19(g), Dec. 8, 1980, 94 Stat. 2755, 2764; Pub. L. 98–473, title II, §626, Oct. 12, 1984, 98 Stat. 2111; Pub. L. 100–690, title VII, §§7258, 7263(b)(1), Nov. 18, 1988, 102 Stat. 4439, 4447; Pub. L. 102–586, §2(f)(3)(A), Nov. 4, 1992, 106 Stat. 4987; Pub. L. 103–322, title XI, §110201(d), Sept. 13, 1994, 108 Stat. 2012; Pub. L. 104–294, title VI, §604(b)(28), Oct. 11, 1996, 110 Stat. 3508; Pub. L. 105–277, div. A, §101(b) \[title I, §129(a)(2)(C)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–76; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §142\], Dec. 21, 2000, 114 Stat. 2763, 2763A–235; Pub. L. 107–273, div. C, title II, §12209, Nov. 2, 2002, 116 Stat. 1873; Pub. L. 109–162, title III, §305, Jan. 5, 2006, 119 Stat. 3016.)
+(Pub. L. 93–415, title II, §223, Sept. 7, 1974, 88 Stat. 1119; Pub. L. 94–503, title I, §130(b), Oct. 15, 1976, 90 Stat. 2425; Pub. L. 95–115, §§3(a)(3)(B), 4(c)(1)–(15), Oct. 3, 1977, 91 Stat. 1048, 1051–1054; Pub. L. 96–509, §§11, 19(g), Dec. 8, 1980, 94 Stat.2755, 2764; Pub. L. 98–473, title II, §626, Oct. 12, 1984, 98 Stat. 2111; Pub. L. 100–690, title VII, §§7258, 7263(b)(1), Nov. 18, 1988, 102 Stat. 4439, 4447; Pub. L. 102–586, §2(f)(3)(A), Nov. 4, 1992, 106 Stat. 4987; Pub. L. 103–322, title XI, §110201(d), Sept. 13, 1994, 108 Stat. 2012; Pub. L. 104–294, title VI, §604(b)(28), Oct. 11, 1996, 110 Stat. 3508; Pub. L. 105–277, div. A, §101(b) \[title I, §129(a)(2)(C)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–76; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §142\], Dec. 21, 2000, 114 Stat. 2763, 2763A–235; Pub. L. 107–273, div. C, title II, §12209, Nov. 2, 2002, 116 Stat. 1873; Pub. L. 109–162, title III, §305, Jan. 5, 2006, 119 Stat. 3016.)
 
 #### References in Text
 
@@ -536,7 +536,7 @@ Subsec. (a)(10). Pub. L. 105–277, §101(b) \[title I, §129(a)(2)(C)(iv)\], su
 
 <b>1994</b>—Subsec. (a)(12)(A). Pub. L. 103–322 substituted “(other than an offense that constitutes a violation of a valid court order or a violation of section 922(x) of title 18 or a similar State law).” for “which do not constitute violations of valid court orders”.
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–586, §2(f)(3)(A)(i)(I), substituted “programs and challenge activities subsequent to State participation in part E of this subchapter. The State” for “programs, and the State” in introductory provisions.
+<b>1992</b>—Subsec. (a). Pub. L. 102–586, §2(f)(3)(A)(i)(I), substituted “programs and challenge activities subsequentto State participation in part E of this subchapter. The State” for “programs, and the State” in introductory provisions.
 
 Subsec. (a)(1). Pub. L. 102–586, §2(f)(3)(A)(i)(II), made technical amendment to reference to section 5671 of this title to reflect renumbering of corresponding section of original act.
 
@@ -592,7 +592,7 @@ Subsec. (a)(1). Pub. L. 98–473, §626(a)(1), substituted “agency described i
 
 Subsec. (a)(2). Pub. L. 98–473, §626(a)(2), struck out “(hereafter referred to in this part as the ‘State criminal justice council’)” before “has or will have authority”.
 
-Subsec. (a)(3)(C). Pub. L. 98–473, §626(a)(3)(A), in amending subpar. (C) generally, designated provisions following “representatives of private organizations” as cl. (i) and inserted “, including those with a specialfocus on maintaining and strengthening the family unit”, designated provisions following “which utilize” as cl. (ii) and inserted “representatives of organizations which”, added cl. (iii), designated provisions following “business groups” as cl. (iv), designated the remainder of subpar. (C) as cl. (v) and substituted “family, school violence and vandalism, and learning disabilities,” for “school violence and vandalism and the problem of learning disabilities; and organizations which represent employees affected by this chapter,”.
+Subsec. (a)(3)(C). Pub. L. 98–473, §626(a)(3)(A), in amending subpar. (C) generally, designated provisions following “representatives of private organizations” as cl. (i) and inserted “, including those with a special focus on maintaining and strengthening the family unit”, designated provisions following “which utilize” as cl. (ii) and inserted “representatives of organizations which”, added cl. (iii), designated provisions following “business groups” as cl. (iv), designated the remainder of subpar. (C) as cl. (v) and substituted “family, school violence and vandalism, and learning disabilities,” for “school violence and vandalism and the problem of learning disabilities; and organizations which represent employees affected by this chapter,”.
 
 Subsec. (a)(3)(F). Pub. L. 98–473, §626(a)(3)(B)(i), substituted “agency designated under paragraph (1)” for “criminal justice council” in three places.
 
@@ -658,13 +658,13 @@ Subsec. (a)(3)(F). Pub. L. 96–509, §§11(a)(5), (6), 19(g)(4), substituted in
 
 Subsec. (a)(8). Pub. L. 96–509, §11(a)(7), provided that State juvenile justice plan requirements conform to State criminal justice application requirements and required a State concentration of effort to coordinate State juvenile delinquency programs and policy.
 
-Subsec. (a)(10). Pub. L. 96–509, §11(a)(8)(A)–(C), in provisions preceding subpar. (A), clarified that the advanced techniques described in this paragraph are to be used to provide community-based alternatives to “secure” juvenile detention and correctional facilities and that advanced techniques can be used for the purpose of providing programs for juveniles who have committedserious crimes, particularly programs designed to improve sentencing procedures, provide resources necessary for informed dispositions, and provide for effective rehabilitation.
+Subsec. (a)(10). Pub. L. 96–509, §11(a)(8)(A)–(C), in provisions preceding subpar. (A), clarified that the advanced techniques described in this paragraph are to be used to provide community-based alternatives to “secure” juvenile detention and correctional facilities and that advanced techniques can be used for the purpose of providing programs for juveniles who have committed serious crimes, particularly programs designed to improve sentencing procedures, provide resources necessary for informed dispositions, and provide for effective rehabilitation.
 
 Subsec. (a)(10)(A). Pub. L. 96–509, §11(a)(9), inserted provisions for inclusion of education and special education programs among community-based programs and services.
 
 Subsec. (a)(10)(E). Pub. L. 96–509, §11(a)(10), clarified that educational programs included as advanced techniques should be designed to encourage delinquent and other youth to remain in school.
 
-Subsec. (a)(10)(H). Pub. L. 96–509, §11(a)(11), provided that statewide programs through the use of subsidies or other financial incentives to units of local government be designed to (1) remove juveniles from jails and lock-ups for adults, (2) replicate juvenile programs designed as exemplary by the National Institute of Justice, (3) establish and adopt standards for the improvement of juvenile justice within the State, or, (4) increase the use of nonsecure, community-based facilities and discourage the use of secure incarceration and detention.
+Subsec. (a)(10)(H). Pub. L. 96–509, §11(a)(11), provided that statewide programs through the use of subsidies or other financial incentives to units of local government be designed to (1) remove juveniles from jails and lock-ups for adults, (2) replicate juvenile programs designedas exemplary by the National Institute of Justice, (3) establish and adopt standards for the improvement of juvenile justice within the State, or, (4) increase the use of nonsecure, community-based facilities and discourage the use of secure incarceration and detention.
 
 Subsec. (a)(10)(I). Pub. L. 96–509, §11(a)(12), revised subpar. (I) to provide that advanced technique programs designed to develop and implement projects relating to juvenile delinquency and learning disabilities include on-the-job training programs to assist law enforcement and juvenile justice personnel to more effectively recognize and provide for learning disabled and other handicapped juveniles.
 
@@ -760,15 +760,15 @@ Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 670(a) of Pub
 
 #### Effective Date of 1977 Amendment
 
-Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115, set out as a note under section 5601 of this title.
+Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115, formerly set out as a note under section 5601 of this title.
 
-Section 4(c)(3)(B) of Pub. L. 95–115 provided in part that the amendment of subsec. (a)(5) of this section, which substituted “5632(d)” for “5632(e)”, by section 4(c)(3)(B) of Pub. L. 95–115 is effective Oct. 1, 1978.
+Pub. L. 95–115, §4(c)(3)(B), Oct. 3, 1977, 91 Stat. 1052, provided in part that the amendment of subsec. (a)(5) of this section, which substituted “5632(d)” for “5632(e)”, by section 4(c)(3)(B) of Pub. L. 95–115 is effective Oct. 1, 1978.
 
-Section 4(c)(6)(B) of Pub. L. 95–115 provided in part that the amendment of subsec. (a)(10) of this section, which substituted “5632(d)” for “5632(e)”, by section 4(c)(6)(B) of Pub. L. 95–115 is effective Oct. 1, 1978.
+Pub. L. 95–115, §4(c)(6)(B), Oct. 3, 1977, 91 Stat. 1053, provided in part that the amendment of subsec. (a)(10) of this section, which substituted “5632(d)” for “5632(e)”, by section 4(c)(6)(B) of Pub. L. 95–115 is effective Oct. 1, 1978.
 
 #### Savings Provision
 
-Section 2(f)(3)(B) of Pub. L. 102–586 provided that: “Notwithstanding the amendment made by subparagraph (A)(ii) \[amending this section\], section 223(c)(3) of the Juvenile Justice and Delinquency Prevention Act of 1974 (42 U.S.C. 5633(c)(3)), as in effect on the day prior to the date of enactment of this Act \[Nov. 4, 1992\], shall remain in effect to the extent that it provides the Administrator authority to grant a waiver with respect to a fiscal year prior to a fiscal year beginning before January 1, 1993.” On the day prior to Nov. 4, 1992, subsec. (c)(3) of this section read as follows: “Except as provided in paragraph (2), failure to achieve compliance with the requirements of subsection (a)(14) of this section after December 8, 1985, shall terminate any State's eligibility for funding under this part unless the Administrator waives the termination of the State's eligibility on the condition that the State agrees to expend all of the funds to be received under this part by the State (excluding funds required to be expended to comply with subsections (c) and (d) of section 5632 of this title and with subsection (a)(5)(C) of this section), only to achieve compliance with subsection (a)(14) of this section.”
+Pub. L. 102–586, §2(f)(3)(B), Nov. 4, 1992, 106 Stat. 4994, provided that: “Notwithstanding the amendment made by subparagraph (A)(ii) \[amending this section\], section 223(c)(3) of the Juvenile Justice and Delinquency Prevention Act of 1974 (42 U.S.C. 5633(c)(3)), as in effect on the day prior to the date of enactment of this Act \[Nov. 4, 1992\], shall remain in effect to the extent that it provides the Administrator authority to grant a waiver with respect to a fiscal year prior to a fiscal year beginning before January 1, 1993.” On the day prior to Nov. 4, 1992, subsec. (c)(3) of this section read as follows: “Except as provided in paragraph (2), failure to achieve compliance with the requirements of subsection (a)(14) of this section after December 8, 1985, shall terminate any State's eligibility for funding under this part unless the Administrator waives the termination of the State's eligibility on the condition that the State agrees to expend all of the funds to be received under this part by the State (excluding funds required to be expended to comply with subsections (c) and (d) of section 5632 of this title and with subsection (a)(5)(C) of this section), only to achieve compliance with subsection (a)(14) of this section.”
 
 #### Termination of Advisory Committees
 
@@ -776,7 +776,7 @@ Advisory committees established after Jan. 5, 1973, to terminate not later than 
 
 #### Costs and Implications of Removal of Juveniles From Adults in Jails; Report to Congress
 
-Section 17 of Pub. L. 96–509 provided that the Administrator of the Office of Juvenile Justice and Delinquency Prevention, not later than 18 months after Dec. 8, 1980, submit a report to the Congress relating to the cost and implications of any requirement added to the Juvenile Justice and Delinquency Prevention Act of 1974 which would mandate the removal of juveniles from adults in all jails and lockups, such report to include an estimate of the costs likely to be incurred by the States, an analysis of the experience of States which required the removal of juveniles from adults in all jails and lockups, an analysis of possible adverse ramifications which might result from such requirement of removal, and recommendations for such legislative or administrative action as the Administrator considers appropriate.
+Pub. L. 96–509, §17, Dec. 8, 1980, 94 Stat. 2761, provided that the Administrator of the Office of Juvenile Justice and Delinquency Prevention, not later than 18 months after Dec. 8, 1980, submit a report to the Congress relating to the cost and implications of any requirement added to the Juvenile Justice and Delinquency Prevention Act of 1974 which would mandate the removal of juveniles from adults in all jails and lockups, such report to include an estimate of the costs likely to be incurred by the States, an analysis of the experience of States which required the removal of juveniles from adults in all jails and lockups, an analysis of possible adverse ramifications which might result from such requirement of removal, and recommendations for such legislative or administrative action as the Administrator considers appropriate.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “and”.</i>
 

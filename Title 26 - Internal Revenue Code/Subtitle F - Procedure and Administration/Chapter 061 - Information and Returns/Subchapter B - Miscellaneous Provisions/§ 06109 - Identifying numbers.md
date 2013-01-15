@@ -188,27 +188,27 @@ Amendment by Pub. L. 103–465 applicable to returns for taxable years beginning
 
 #### Effective Date of 1992 Amendment
 
-Section 1933(c) of Pub. L. 102–486 provided that: “The amendments made by this section \[amending this section and section 6724 of this title\] shall apply to taxable years beginning after December 31, 1991.”
+Pub. L. 102–486, title XIX, §1933(c), Oct. 24, 1992, 106 Stat. 3031, provided that: “The amendments made by this section \[amending this section and section 6724 of this title\] shall apply to taxable years beginning after December 31, 1991.”
 
 #### Effective Date of 1990 Amendments
 
 Amendment by section 1735(c) of Pub. L. 101–624 effective and implemented first day of month beginning 120 days after publication of implementing regulations to be promulgated not later than Oct. 1, 1991, see section 1781(a) of Pub. L. 101–624, set out as a note under section 2012 of Title 7, Agriculture.
 
-Section 11112(b) of Pub. L. 101–508 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to returns for taxable years beginning after December 31, 1990.”
+Pub. L. 101–508, title XI, §11112(b), Nov. 5, 1990, 104 Stat. 1388–413, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to returns for taxable years beginning after December 31, 1990.”
 
 #### Effective Date of 1988 Amendment
 
 Amendment by section 703(c)(3) of Pub. L. 100–485 applicable to taxable years beginning after Dec. 31, 1988, see section 703(d) of Pub. L. 100–485, set out as a note under section 21 of this title.
 
-Section 704(b) of Pub. L. 100–485 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to returns the due date for which (determined without regard to extensions) is after December 31, 1989.”
+Pub. L. 100–485, title VII, §704(b), Oct. 13, 1988, 102 Stat. 2428, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to returns the due date for which (determined without regard to extensions) is after December 31, 1989.”
 
 #### Effective Date of 1986 Amendment
 
-Section 1524(c) of Pub. L. 99–514 provided that: “The amendments made by this section \[amending this section and section 6676 of this title\] shall apply to returns the due date for which (determined without regard to extensions) is after December 31, 1987.”
+Pub. L. 99–514, title XV, §1524(c), Oct. 22, 1986, 100 Stat. 2749, provided that: “The amendments made by this section \[amending this section and section 6676 of this title\] shall apply to returns the due date for which (determined without regard to extensions) is after December 31, 1987.”
 
 #### Effective Date
 
-Section 1(d) of Pub. L. 87–397, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Paragraph (1) of section 6109(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as added by subsection (a) of this section, shall apply only in respect of returns, statements, and other documents relating to periods commencing after December 31, 1961. Paragraphs (2) and (3) of such section 6109(a) shall apply only in respect of returns, statements, or other documents relating to periods commencing after December 31, 1962.”
+Pub. L. 87–397, §1(d), Oct. 5, 1961, 75 Stat. 829, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Paragraph (1) of section 6109(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as added by subsection (a) of this section, shall apply only in respect of returns, statements, and other documents relating to periods commencing after December 31, 1961. Paragraphs (2) and (3) of such section 6109(a) shall apply only in respect of returns, statements, or other documents relating to periods commencing after December 31, 1962.”
 
 <i><sup>1</sup></i><i> So in original. See 2008 Amendment note below.</i>
 

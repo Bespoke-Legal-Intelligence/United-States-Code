@@ -72,5 +72,5 @@ Amendment by Pub. L. 93–416 applicable to cases where injury or death occurred
 
 #### Personnel Not Affected by Cost-of-Living Adjustment
 
-Increases authorized by this section not applicable to employees and individuals not within the definition of “employee” in section 8101(1)(A), (B), or (D) of this title, members of the Metropolitan Police or the Fire Department of the District of Columbia who are pensioned or pensionable under sections 521 to 535 of title 4, District of Columbia Code, or members of a uniformed service, see section 7 of Pub. L. 90–83, set out as a note under section 8103 of this title.
+Increases authorized by this section not applicable to employees and individuals not within the definition of“employee” in section 8101(1)(A), (B), or (D) of this title, members of the Metropolitan Police or the Fire Department of the District of Columbia who are pensioned or pensionable under sections 521 to 535 of title 4, District of Columbia Code, or members of a uniformed service, see section 7 of Pub. L. 90–83, set out as a note under section 8103 of this title.
 

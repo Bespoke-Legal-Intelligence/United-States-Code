@@ -20,7 +20,7 @@ An eligible institution that desires a grant under this section shall submit an 
 
 #### (2) Types of study
 
-&emsp;A graduate fellowship provided under this section shall support an individual in pursuing postbaccalaureate study, which leads to a doctoral degree and may include a master's degree as part of such study, related to teacher preparation and pedagogy in one of the following areas:
+&emsp;A graduate fellowship provided under this section shall support an individual in pursuingpostbaccalaureate study, which leads to a doctoral degree and may include a master's degree as part of such study, related to teacher preparation and pedagogy in one of the following areas:
 
 &emsp;&emsp;(A) Science, technology, engineering, or mathematics, if the individual has completed a master's degree in mathematics or science and is pursuing a doctoral degree in mathematics, science, or education.
 

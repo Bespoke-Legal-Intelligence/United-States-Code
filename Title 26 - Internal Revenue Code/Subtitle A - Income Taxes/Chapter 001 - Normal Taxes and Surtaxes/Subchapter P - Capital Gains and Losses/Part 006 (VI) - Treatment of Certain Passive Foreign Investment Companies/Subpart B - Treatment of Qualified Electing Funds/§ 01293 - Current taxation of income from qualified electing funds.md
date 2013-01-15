@@ -20,7 +20,7 @@ The pro rata share referred to in subsection (a) in the case of any shareholder 
 
 #### (c) Previously taxed amounts distributed tax free
 
-If the taxpayer establishes to the satisfaction of the Secretary that any amount distributed by a passive foreign investment company is paid out of earnings and profits of the company which were included under subsection (a) in the income of any United States person, such amount shall be treated, for purposes of this chapter, as a distribution which is not a dividend; except that such distribution shall immediately reduce earnings and profits. If the passive foreign investment company is a controlledforeign corporation (as defined in section 957(a)), the preceding sentence shall not apply to any United States shareholder (as defined in section 951(b)) in such corporation, and, in applying section 959 to any such shareholder, any inclusion under this section shall be treated as an inclusion under section 951(a)(1)(A).
+If the taxpayer establishes to the satisfaction of the Secretary that any amount distributed by a passive foreign investment company is paid out of earnings and profits of the company which were included under subsection (a) in the income of any United States person, such amount shall be treated, for purposes of this chapter, as a distribution which is not a dividend; except that such distribution shall immediately reduce earnings and profits. If the passive foreign investment company is a controlled foreign corporation (as defined in section 957(a)), the preceding sentence shall not apply to any United States shareholder (as defined in section 951(b)) in such corporation, and, in applying section 959 to any such shareholder, any inclusion under this section shall be treated as an inclusion under section 951(a)(1)(A).
 
 #### (d) Basis adjustments
 
@@ -106,7 +106,7 @@ Amendment by Pub. L. 103–66 applicable to taxable years of foreign corporation
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date
 

@@ -134,7 +134,7 @@ Subsecs. (e), (f). Pub. L. 94–455, §1904(b)(10)(A)(ii), redesignated subsecs.
 
 Subsec. (d)(3). Pub. L. 91–128, §4(g), eased recordkeeping requirements by providing that nonparticipating be subject to the recordkeeping and reporting requirements prescribed by the Secretary or his delegate only insofar as they engage in sales or acquisitions in which the nonparticipating firm has received a validation certificate indicating the stock or debt obligation qualifies for the exemption or where the U.S. person acquiring the stock or debt obligation is subject to the interest equalization tax, including acquisitions where a broker's confirmation to the customer indicates, or should indicate that the particular acquisition is or may be subject to the tax.
 
-<b>1967</b>—Subsec. (d)(1). Pub. L. 90–59 designated existing provisions as subpar. (A), substituted a copy of any return made during a quarter under subpar. (B) for a certificate of American ownership complying with section 4918(e) or a summary statement establishing exemption together with reasons for person's inability to establish prior American ownership as the document to accompany the list of acquisitions made during the calendar quarter for which an exemption is claimed under section 4918, struck out “a written confirmation, furnished in accordance with the requirements described in section 4918(c) or (d), is treated as conclusive proof of prior American ownership;” after “No return or accompanying evidence shall be required under this paragraph, inconnection with any acquisition with respect to which”, and added clauses (i), (ii), and (iii) and subpar. (B).
+<b>1967</b>—Subsec. (d)(1). Pub. L. 90–59 designated existing provisions as subpar. (A), substituted a copy of any return made during a quarter under subpar. (B) for a certificate of American ownership complying with section 4918(e) or a summary statement establishing exemption together with reasons for person's inability to establish prior American ownership as the document to accompany the list of acquisitions made during the calendar quarter for which an exemption is claimed under section 4918, struck out “a written confirmation, furnished in accordance with the requirements described in section 4918(c) or (d), is treated as conclusive proof of prior American ownership;” after “No return or accompanying evidence shall be required under this paragraph, in connection with any acquisition with respect to which”, and added clauses (i), (ii), and (iii) and subpar. (B).
 
 <b>1965</b>—Subsec. (c). Pub. L. 89–44 repealed subsec. (c) which related to return of retailers excise taxes by suppliers.
 
@@ -144,7 +144,7 @@ Subsec. (d)(3). Pub. L. 91–128, §4(g), eased recordkeeping requirements by pr
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–147, title V, §522(c), Mar. 18, 2010, 124 Stat. 113, provided that: “The amendment made by this section \[amending this section and section 6724 of this title\] shall apply to returns the due date for which (determined without regard to extensions) is after the date of the enactment of this Act \[Mar. 18, 2010\].”
+Pub. L. 111–147, title V, §522(c), Mar. 18, 2010, 124 Stat. 113, provided that: “The amendment made by this section \[amending this section and section 6724 of thistitle\] shall apply to returns the due date for which (determined without regard to extensions) is after the date of the enactment of this Act \[Mar. 18, 2010\].”
 
 #### Effective Date of 2009 Amendment
 
@@ -156,15 +156,15 @@ Amendment by Pub. L. 109–222 applicable to disclosures the due date for which 
 
 #### Effective Date of 1997 Amendment
 
-Section 1226 of title XII of Pub. L. 105–34, as amended by Pub. L. 105–206, title VI, §6012(e), July 22, 1998, 112 Stat. 819, provided that: “The amendments made by this part \[part I (§§1221–1226) of subtitle C of title XII of Pub. L. 105–34, enacting part IV of subchapter K of chapter 1 of this title and subchapter D of chapter 63 of this title, and amending this section and sections 6012, 6031, 6724, 7421, 7459, 7482, and 7485 of this title\] shall apply to partnership taxable years beginning after December 31, 1997.”
+Pub. L. 105–34, title XII, §1226, Aug. 5, 1997, 111 Stat. 1020, as amended by Pub. L. 105–206, title VI, §6012(e), July 22, 1998, 112 Stat. 819, provided that: “The amendments made by this part \[part I (§§1221–1226) of subtitle C of title XII of Pub. L. 105–34, enacting part IV of subchapter K of chapter 1 of this title and subchapter D of chapter 63 of this title, and amending this section and sections 6012, 6031, 6724, 7421, 7459, 7482, and 7485 of this title\] shall apply to partnership taxable years beginning after December 31, 1997.”
 
 #### Effective Date of 1989 Amendment
 
-Section 7713(b) of Pub. L. 101–239 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to returns the due date for which (determined without regard to extensions) is after December 31, 1989.”
+Pub. L. 101–239, title VII, §7713(b), Dec. 19, 1989, 103 Stat. 2394, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to returns the due date for which (determined without regard to extensions) is after December 31, 1989.”
 
 #### Effective Date of 1988 Amendment
 
-Section 1015(q)(2) of Pub. L. 100–647 provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 10, 1988\].”
+Pub. L. 100–647, title I, §1015(q)(2), Nov. 10, 1988, 102 Stat. 3572, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 10, 1988\].”
 
 #### Effective Date of 1984 Amendment
 
@@ -188,11 +188,11 @@ Amendment by Pub. L. 92–178 applicable with respect to taxable years ending af
 
 #### Effective Date of 1969 Amendment
 
-Section 4(i)(4) of Pub. L. 91–128 provided that: “The amendments made by this section \[amending this section and sections 4912, 4914, 4915, 4919, 4920, and 6680 of this title\] shall apply with respect to acquisitions of debt obligations made after the date of the enactment of this Act \[Nov. 26, 1969\].”
+Pub. L. 91–128, §4(i)(4), Nov. 26, 1969, 83 Stat. 269, provided that: “The amendments made by this section \[amending this section and sections 4912, 4914, 4915, 4919, 4920, and 6680 of this title\] shall apply with respect to acquisitions of debt obligations made after the date of the enactment of this Act \[Nov. 26, 1969\].”
 
 #### Effective Date of 1967 Amendment
 
-Section 4(h) of Pub. L. 90–59 provided that: “The amendments made by this section \[amending this section and sections 4918, 4920, and 6076 of this title\] (other than by subsections (d) and (e)) shall apply with respect to acquisitions of stock and debt obligations made after July 14, 1967. The amendments made by subsections (d) and (e) \[amending sections 6681 and 7241 of this title\] shall take effect on the date of the enactment of this Act \[July 31, 1967\].”
+Pub. L. 90–59, §4(h), July 31, 1967, 81 Stat. 156, provided that: “The amendments made by this section \[amending this section and sections 4918, 4920, and 6076 of this title\] (other than by subsections (d) and (e)) shall apply with respect to acquisitions of stock and debt obligations made after July 14, 1967. The amendments made by subsections (d) and (e) \[amending sections 6681 and 7241 of this title\] shall take effect on the date of the enactment of this Act \[July 31, 1967\].”
 
 #### Effective Date of 1965 Amendment
 
@@ -200,11 +200,11 @@ Amendment by Pub. L. 89–44 applicable with respect to articles sold on or afte
 
 #### Effective Date of 1958 Amendment
 
-Amendment by Pub. L. 85–859 effective on first day of first calendar quarter which begins more than 60 days after Sept. 2, 1958, see section 1(c) of Pub. L. 85–859.
+Amendment by Pub. L. 85–859 effective on first day of first calendar quarter which begins more than 60 days after Sept. 2, 1958, see section 1(c) of Pub. L. 85–859, Sept. 2, 1958, 72 Stat. 1275.
 
 #### Short Title of 1967 Amendment
 
-Section 1(a) of Pub. L. 90–59 provided that: “This Act \[amending this section and sections 4912, 4914 to 4920, 4931, 6076, 6681, and 7241 of this title\] may be cited as the ‘Interest Equalization Tax Extension Act of 1967’.”
+Pub. L. 90–59, §1(a), July 31, 1967, 81 Stat. 145, provided that: “This Act \[amending this section and sections 4912, 4914 to 4920, 4931, 6076, 6681, and 7241 of this title\] may be cited as the ‘Interest Equalization Tax Extension Act of 1967’.”
 
 #### Electronic Filing of Tax and Information Returns
 
@@ -230,7 +230,7 @@ In general.—Not later than 180 days after the date of the enactment of this Ac
 
 &emsp;“(2)
 
-Electronic commerce advisory group.—To ensure that the Secretary receives input from the private sector in the development and implementation of the plan required by paragraph (1), the Secretaryshall convene an electronic commerce advisory group to include representatives from the small business community and from the tax practitioner, preparer, and computerized tax processor communities and other representatives from the electronic filing industry.
+Electronic commerce advisory group.—To ensure that the Secretary receives input from the private sector in the development and implementation of the plan required by paragraph (1), the Secretary shall convene an electronic commerce advisory group to include representatives from the small business community and from the tax practitioner, preparer, and computerized tax processor communities and other representatives from the electronic filing industry.
 
 “(d)
 
@@ -252,11 +252,11 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Study of Wage Returns on Magnetic Tape; Report to Congress Not Later Than July 1, 1984
 
-Section 109(b) of Pub. L. 98–67 required Secretary of the Treasury, in consultation with Secretary of Health and Human Services, to conduct a study of feasibility of requiring persons to file, on magnetic media, returns under section 6011 of the Internal Revenue Code containing information described in section 6051(a) of such Code (relating to W–2s), and that not later than July 1, 1984, Secretary of the Treasury was to submit to Committee on Ways and Means of House of Representatives and Committee on Finance of Senate results of study.
+Pub. L. 98–67, title I, §109(b), Aug. 5, 1983, 97 Stat. 384, required Secretary of the Treasury, in consultation with Secretary of Health and Human Services, to conduct a study of feasibility of requiring persons to file, on magnetic media, returns under section 6011 of the Internal Revenue Code containing information described in section 6051(a) of such Code (relating to W–2s), and that not later than July 1, 1984, Secretary of the Treasury was to submit to Committee on Ways and Means of House of Representatives and Committee on Finance of Senate results of study.
 
 #### Report on Forms
 
-Section 353 of Pub. L. 97–248 required Secretary of the Treasury to study and report to Congress, not later than June 30, 1983, methods of modifying the design of the forms used by the Internal Revenue Service to achieve greater accuracy in the reporting of income and the matching of information reports and returns with the returns of tax imposed.
+Pub. L. 97–248, title III, §353, Sept. 3, 1982, 96 Stat. 640, required Secretary of the Treasury to study and report to Congress, not later than June 30, 1983, methods of modifying the design of the forms used by the Internal Revenue Service to achieve greater accuracy in the reporting of income and the matching of information reports and returns with the returns of tax imposed.
 
 #### Study of Simplification of Tax Returns
 
@@ -264,9 +264,9 @@ Pub. L. 95–600, title V, §551, Nov. 6, 1978, 92 Stat. 2890, required a study 
 
 #### First Return Period for Interest Equalization Tax Returns
 
-Section 3(d)(1) of Pub. L. 89–243, Oct. 9, 1965, 79 Stat. 955, provided that the first period for which returns were to be made under subsec. (d)(1) of this section with respect to acquisitions made subject to tax by this section was the period commencing Feb. 11, 1965, and ending at the close of the calendar quarter in which the enactment of Pub. L. 89–243 \[Oct. 9, 1965\] occurred.
+Pub. L. 89–243, §3(d)(1), Oct. 9, 1965, 79 Stat. 955, provided that the first period for which returns were to be made under subsec. (d)(1) of this section with respect to acquisitions made subject to tax by this section was the period commencing Feb. 11, 1965, and ending at the close of the calendar quarter in which the enactment of Pub. L. 89–243 \[Oct. 9, 1965\] occurred.
 
-Section 3(e) of Pub. L. 88–563 provided that the first period for which returns were to be made under subsec. (d)(1) of this section was the period commencing July 19, 1963, and ending at the close of the calendar quarter in which the enactment of Pub. L. 88–563 \[Sept. 2, 1964\] occurred.
+Pub. L. 88–563, §3(e), Sept. 2, 1964, 78 Stat. 845, provided that the first period for which returns were to be made under subsec. (d)(1) of this section was the period commencing July 19, 1963, and ending at the close of the calendar quarter in which the enactment of Pub. L. 88–563 \[Sept. 2, 1964\] occurred.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “that”.</i>
 

@@ -180,7 +180,7 @@ For purposes of this part and part C of this subchapter, the term “standard pr
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) the annual percentage increase described in paragraph (6) for the year;
 
-&emsp;&emsp;&emsp;&emsp;(V) for 2020, is equal to the amount that would have been applied under this subparagraph for 2020 if the amendments made by section 1101(d)(1) of the Health Care and Education Reconciliation Act of 2010 had not been enacted; or
+&emsp;&emsp;&emsp;&emsp;(V) for 2020, is equal to the amount that would have been applied under thissubparagraph for 2020 if the amendments made by section 1101(d)(1) of the Health Care and Education Reconciliation Act of 2010 had not been enacted; or
 
 &emsp;&emsp;&emsp;&emsp;(VI) for a subsequent year, is equal to the amount specified in this subparagraph for the previous year, increased by the annual percentage increase described in paragraph (6) for the year involved.
 
@@ -300,7 +300,7 @@ A prescription drug plan or an MA–PD plan may provide a different prescription
 
 &emsp;&emsp;(B) a biological product described in clauses (i) through (iii) of subparagraph (B) of such section or insulin described in subparagraph (C) of such section and medical supplies associated with the injection of insulin (as defined in regulations of the Secretary),
 
-> &emsp;and such term includes a vaccine licensed under section 262 of this title (and, for vaccines administered on or after January 1, 2008, its administration) and any use of a covered part D drug for a medically accepted indication (as defined in paragraph (4)).
+> &emsp;and such term includes a vaccine licensed under section 262 of this title (and, for vaccines administered on or after January 1, 2008, its administration) and any use of a coveredpart D drug for a medically accepted indication (as defined in paragraph (4)).
 
 #### (2) Exclusions
 

@@ -1,6 +1,6 @@
 ### §8440b. Bankruptcy judges and magistrate judges
 
-(a)(1) A bankruptcy judge or magistrate judge who is covered by section 377 of title 28 or section 2(c) of the Retirement and Survivors’ Annuities for Bankruptcy Judges and Magistrates Act of 1988 may elect to contribute an amount of such individual's basic pay to the Thrift Savings Fund.
+(a)(1) A bankruptcy judge or magistrate judge who is covered by section 377 of title 28 or section 2(c) of the Retirement and Survivors’ Annuities for Bankruptcy Judges and Magistrates Actof 1988 may elect to contribute an amount of such individual's basic pay to the Thrift Savings Fund.
 
 (2) An election may be made under paragraph (1) as provided under section 8432(b) for individuals subject to this chapter.
 
@@ -24,7 +24,7 @@
 
 (8) Notwithstanding paragraph (4), if any bankruptcy judge or magistrate judge retires under circumstances making such bankruptcy judge or magistrate judge eligible to make an election under subsection (b) of section 8433, and such bankruptcy judge's or magistrate judge's nonforfeitable account balance is less than an amount that the Executive Director prescribes by regulation, the Executive Director shall pay the nonforfeitable account balance to the participant in a single payment.
 
-(Added Pub. L. 100–659, §7(a), Nov. 15, 1988, 102 Stat. 3919, §8440a; renumbered §8440b and amended Pub. L. 101–335, §§3(b)(3), 6(b)(3), 9(a), July 17, 1990, 104 Stat. 320, 324, 326; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 103–226, §9(f), Mar. 30, 1994, 108 Stat. 120; Pub. L.104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §205(b)\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–377; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §138(a)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–233; Pub. L. 108–469, §§1(d)(5), 3(2), Dec. 21, 2004, 118 Stat. 3892, 3893.)
+(Added Pub. L. 100–659, §7(a), Nov. 15, 1988, 102 Stat. 3919, §8440a; renumbered §8440b and amended Pub. L. 101–335, §§3(b)(3), 6(b)(3), 9(a), July 17, 1990, 104 Stat. 320, 324, 326; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 103–226, §9(f), Mar. 30, 1994, 108 Stat. 120; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §205(b)\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–377; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §138(a)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–233; Pub. L. 108–469, §§1(d)(5), 3(2), Dec. 21, 2004, 118 Stat. 3892, 3893.)
 
 #### References in Text
 
@@ -52,7 +52,7 @@ Subsec. (b)(8). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §205(
 
 Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §205(b)(2)(B)\]\], which directed that par. (8) be amended by striking out “unless the bankruptcy judge or magistrate elects, at such time and otherwise in such manner as the Executive Director prescribes, one of the options available under subsection (b)”, was executed by striking out “unless the bankruptcy judge or magistrate elects, at such time and otherwise in such manner as the Executive Director prescribes, one of the options available under such subsection (b)” before period at end, to reflect the probable intent of Congress.
 
-<b>1994</b>—Subsec. (b)(4)(B). Pub. L. 103–226, §9(f)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “Section 8433(c) of this title applies to any bankruptcy judge or magistrate who elects to make contributions to the Thrift Savings Fund under subsection (a) of this section and who retires before attaining age 65 but is entitled, upon attaining age 65, to an annuity under section 377 of title 28 or section 2(c) of the Retirement and Survivors’ Annuities for Bankruptcy Judges and Magistrates Act of 1988; except that the period described in paragraph (3) of section 8433(c) commences on or after the date on which payment of the bankruptcy judge's or magistrate's annuity under section 377 of title 28 commences.”
+<b>1994</b>—Subsec. (b)(4)(B). Pub. L. 103–226, §9(f)(1), amended subpar. (B) generally. Prior to amendment,subpar. (B) read as follows: “Section 8433(c) of this title applies to any bankruptcy judge or magistrate who elects to make contributions to the Thrift Savings Fund under subsection (a) of this section and who retires before attaining age 65 but is entitled, upon attaining age 65, to an annuity under section 377 of title 28 or section 2(c) of the Retirement and Survivors’ Annuities for Bankruptcy Judges and Magistrates Act of 1988; except that the period described in paragraph (3) of section 8433(c) commences on or after the date on which payment of the bankruptcy judge's or magistrate's annuity under section 377 of title 28 commences.”
 
 Subsec. (b)(4)(C). Pub. L. 103–226, §9(f)(2), substituted “Section 8433(b)” for “Section 8433(d)”.
 
@@ -88,7 +88,7 @@ Amendment by Pub. L. 103–226 effective Mar. 10, 1995, see section 9(j) of Pub.
 
 Amendment by section 3(b)(3) of Pub. L. 101–335 effective as of second election period described in section 8432(b) of this title beginning after July 17, 1990, or as of such earlier date as Executive Director may by regulation prescribe, see section 3(c) of Pub. L. 101–335, set out as a note under section 8351 of this title.
 
-Amendment by section 6(b)(3) of Pub. L. 101–335 effective as of second election period described in section 8432(b) of this title beginning after July 17, 1990, or such earlier date as Executive Director may by regulation prescribe, and applicable with respect to separationsoccurring before, on, or after that effective date, see section 6(c) of Pub. L. 101–335, set out as a note under section 8351 of this title.
+Amendment by section 6(b)(3) of Pub. L. 101–335 effective as of second election period described in section 8432(b) of this title beginning after July 17, 1990, or such earlier date as Executive Director may by regulation prescribe, and applicable with respect to separations occurring before, on, or after that effective date, see section 6(c) of Pub. L. 101–335, set out as a note under section 8351 of this title.
 
 #### Effective Date
 

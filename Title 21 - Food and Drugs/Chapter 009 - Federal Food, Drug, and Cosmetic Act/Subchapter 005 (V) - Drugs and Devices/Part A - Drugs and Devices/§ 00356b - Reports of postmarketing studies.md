@@ -32,15 +32,17 @@ If a sponsor fails to complete an agreed upon study required by this section by 
 
 #### (e) Notification
 
-With respect to studies of the type required under section 356(b)(2)(A) of this title or under section 314.510 or 601.41 of title 21, Code of Federal Regulations, as each of such sections was in effect on the day before the effective date of thissubsection, the Secretary may require that a sponsor who, for reasons not satisfactory to the Secretary, fails to complete by its deadline a study under any of such sections of such type for a drug or biological product (including such a study conducted after such effective date) notify practitioners who prescribe such drug or biological product of the failure to complete such study and the questions of clinical benefit, and, where appropriate, questions of safety, that remain unanswered as a result of the failure to complete such study. Nothing in this subsection shall be construed as altering the requirements of the types of studies required under section 356(b)(2)(A) of this title or under section 314.510 or 601.41 of title 21, Code of Federal Regulations, as so in effect, or as prohibiting the Secretary from modifying such sections of title 21 of such Code to provide for studies in addition to those of such type.
+With respect to studies of the type required under section 356(c)(2)(A) of this title or under section 314.510 or 601.41 of title 21, Code of Federal Regulations, as each of such sections was in effect on the day before the effective date of this subsection, the Secretary may require that a sponsor who, for reasons not satisfactory to the Secretary, fails to complete by its deadline a study under any of such sections of such type for a drug or biological product (including such a study conducted after such effective date) notify practitioners who prescribe such drug or biological product of the failure to complete such study and the questions of clinical benefit, and, where appropriate, questions of safety, that remain unanswered as a result of the failure to complete such study. Nothing in this subsection shall be construed as altering the requirements of the types of studies required under section 356(c)(2)(A) of this title or under section 314.510 or 601.41 of title 21, Code of Federal Regulations, as so in effect, or as prohibiting the Secretary from modifying such sections of title 21 of such Code to provide for studies in addition to those of such type.
 
-(June 25, 1938, ch. 675, §506B, as added Pub. L. 105–115, title I, §130(a), Nov. 21, 1997, 111 Stat. 2331; amended Pub. L. 107–188, title V, §506, June 12, 2002, 116 Stat. 693.)
+(June 25, 1938, ch. 675, §506B, as added Pub. L. 105–115, title I, §130(a), Nov. 21, 1997, 111 Stat. 2331; amended Pub. L. 107–188, title V, §506, June 12, 2002, 116 Stat. 693; Pub. L. 112–144, title IX, §902(c), July 9, 2012, 126 Stat. 1088.)
 
 #### References in Text
 
 The effective date of this subsection, referred to in subsec. (e), is Oct. 1, 2002, see Effective Date of 2002 Amendment note set out below.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (e). Pub. L. 112–144 substituted “section 356(c)(2)(A) of this title” for “section 356(b)(2)(A) of this title” in two places.
 
 <b>2002</b>—Subsecs. (d), (e). Pub. L. 107–188 added subsecs. (d) and (e).
 

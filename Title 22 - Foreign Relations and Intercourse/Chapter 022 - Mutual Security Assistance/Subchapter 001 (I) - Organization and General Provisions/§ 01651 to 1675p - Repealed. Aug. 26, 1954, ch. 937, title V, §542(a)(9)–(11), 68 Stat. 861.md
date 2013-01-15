@@ -38,7 +38,7 @@ Section 1668, act Oct. 10, 1951, ch. 479, title V, §518, 65 Stat. 383, related 
 
 Section 1669, act Oct. 10, 1951, ch. 479, title V, §518, 65 Stat. 383, required the President to transmit reports to Congress. See section 2394 of this title.
 
-Section 1670, acts Oct. 10, 1951, ch. 479, title V, §519, 65 Stat. 383; June 20, 1952, ch. 449, §7(<i>l</i>), 66 Stat. 146, related to local currencies.
+Section 1670, acts Oct. 10, 1951, ch. 479, title V, §519, 65 Stat. 383; June 20, 1952, ch. 449, §7(l), 66 Stat. 146, related to local currencies.
 
 Section 1671, acts Oct. 10, 1951, ch. 479, title V, §520, 65 Stat. 384; July 16, 1953, ch. 195, ch. VII, §706(c), 67 Stat. 158, related to use of certain funds for investment guaranties. See section 2351 of this title.
 
@@ -56,7 +56,7 @@ Section 1675b, act Oct. 10, 1951, ch. 479, title V, §533, as added June 20, 195
 
 Section 1675c, act Oct. 10, 1951, ch. 479, title V, §534, as added June 20, 1952, ch. 449, §7(m), 66 Stat. 146; amended July 16, 1953, ch. 195, ch. VI, §601, 67 Stat. 145, related to authorization of appropriations for movement of migrants. See section 2601 of this title.
 
-Section 1675d, act Oct. 10, 1951, ch. 479, title V, §535, as added June 20, 1952, ch. 449, §7(m), 66 Stat. 146; amended July 16, 1953, ch. 195, ch. VI, §604, 67 Stat. 155, related to authority to pay ocean freight charges on relief packages.
+Section 1675d, act Oct. 10, 1951, ch. 479, title V, §535, as added June 20, 1952, ch. 449, §7(m), 66 Stat. 146;amended July 16, 1953, ch. 195, ch. VI, §604, 67 Stat. 155, related to authority to pay ocean freight charges on relief packages.
 
 Section 1675e, act Oct. 10, 1951, ch. 479, title V, §536, as added June 20, 1952, ch. 449, §7(m), 66 Stat. 146, related to authority to make informational media guaranties.
 
@@ -72,13 +72,13 @@ Section 1675j, act Oct. 10, 1951, ch. 479, title V, §541, as added July 16, 195
 
 Section 1675k, act Oct. 10, 1951, ch. 479, title V, §542, as added July 16, 1953, ch. 195, ch. III, §301, 67 Stat. 153, related to appropriations for furnishing special weapons and determinations by President with respect to such weapons.
 
-Section 1675<i>l</i>, act Oct. 10, 1951, ch. 479, title V, §543, as added July 16, 1953, ch. 195, ch. IV, §401, 67 Stat. 153, related to appropriations for defense, economic, and technical assistance in the Near East, Africa, Far East, and American Republics.
+Section 1675l, act Oct. 10, 1951, ch. 479, title V, §543, as added July 16, 1953, ch. 195, ch. IV, §401, 67 Stat. 153, related to appropriations for defense, economic, and technical assistance in the Near East, Africa, Far East, and American Republics.
 
 Section 1675m, act Oct. 10, 1951, ch. 479, title V, §546, as added July 16, 1953, ch. 195, ch. VII, §702, 67 Stat. 156, related to availability of unexpended balances. See section 2404 of this title.
 
 Section 1675n, act Oct. 10, 1951, ch. 479, title V, §547, as added July 16, 1953, ch. 195, ch. VII, §706(e), 67 Stat 158, related to use of funds in economically underdeveloped areas.
 
-Section 1675<i>o</i>, act Oct. 10, 1951, ch. 479, title V, §548, as added July 16, 1953, ch. 195, ch. VII, §706(f)(2), 67 Stat. 159, related to increases in authorized amounts and use of foreign currency.
+Section 1675o, act Oct. 10, 1951, ch. 479, title V, §548, as added July 16, 1953, ch. 195, ch. VII, §706(f)(2), 67 Stat. 159, related to increases in authorized amounts and use of foreign currency.
 
 Section 1675p, act Oct. 10, 1951, ch. 479, title V, §550, as added July 16, 1953, ch. 195, ch. VII, §706(h), 67 Stat. 159, related to surplus agricultural commodities. See sections 1701 and 1704 of Title 7, Agriculture.
 

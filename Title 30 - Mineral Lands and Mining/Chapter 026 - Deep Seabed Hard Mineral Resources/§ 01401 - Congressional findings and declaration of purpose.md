@@ -34,7 +34,7 @@ The Congress finds that—
 
 &emsp;(15) a Law of the Sea Treaty is likely to establish financial arrangements which obligate the United States or United States citizens to make payments to an international organization with respect to exploration or recovery of the hard mineral resources of the deep seabed; and
 
-&emsp;(16) legislation is required to establish an interim legal regime under which technology can be developed and the exploration and recovery of the hard mineral resources of thedeep seabed can take place until such time as a Law of the Sea Treaty enters into force with respect to the United States.
+&emsp;(16) legislation is required to establish an interim legal regime under which technology can be developed and the exploration and recovery of the hard mineral resources of the deep seabed can take place until such time as a Law of the Sea Treaty enters into force with respect to the United States.
 
 #### (b) Purposes
 
@@ -62,5 +62,5 @@ Pub. L. 99–507, §1, Oct. 21, 1986, 100 Stat. 1847, provided that: “This Act
 
 #### Short Title
 
-Section 1 of Pub. L. 96–283 provided that: “This Act \[enacting this chapter and sections 4495 to 4498 of Title 26, Internal Revenue Code, and enacting a provision set out as a note under section 4495 of Title 26\] may be cited as the ‘Deep Seabed Hard Mineral Resources Act’.”
+Pub. L. 96–283, §1, June 28, 1980, 94 Stat. 553, provided that: “This Act \[enacting this chapter and sections 4495 to 4498 of Title 26, Internal Revenue Code, and enacting a provision set out as a note under section 4495 of Title 26\] may be cited as the ‘Deep Seabed Hard Mineral Resources Act’.”
 

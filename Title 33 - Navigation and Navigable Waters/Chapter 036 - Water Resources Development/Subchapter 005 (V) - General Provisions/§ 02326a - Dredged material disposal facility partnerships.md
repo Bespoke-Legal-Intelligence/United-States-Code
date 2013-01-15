@@ -76,7 +76,7 @@
 
 &emsp;&emsp;A non-Federal interest entering into a partnership agreement under this subsection for a facility shall—
 
-&emsp;&emsp;&emsp;(i) be responsible for providing all necessary lands, easements, relocations, and rights-of-way associated with the facility; and
+&emsp;&emsp;&emsp;(i) be responsible for providing all necessary lands, easements, relocations, andrights-of-way associated with the facility; and
 
 &emsp;&emsp;&emsp;(ii) receive credit toward the non-Federal share of the cost of the project with respect to which the agreement is being entered into for those items.
 

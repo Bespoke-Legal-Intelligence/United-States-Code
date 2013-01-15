@@ -84,7 +84,7 @@ In carrying out the functions specified in subsection (b) of this section, the S
 
 #### (d) Management costs
 
-In carrying out the extramural funding programs of the Institute, including the programs established under sections 278k, 278<i>l</i>, and 278n of this title, the Secretary may retain reasonable amounts of any funds appropriated pursuant to authorizations for these programs in order to pay for the Institute's management of these programs.
+In carrying out the extramural funding programs of the Institute, including the programs established under sections 278k, 278l, and 278n of this title, the Secretary may retain reasonable amounts of any funds appropriated pursuant to authorizations for these programs in order to pay for the Institute's management of these programs.
 
 (Mar. 3, 1901, ch. 872, §2, 31 Stat. 1449; July 22, 1950, ch. 486, §1, 64 Stat. 371; Pub. L. 92–317, §3(b), June 22, 1972, 86 Stat. 235; Pub. L. 100–235, §3(1), Jan. 8, 1988, 101 Stat. 1724; Pub. L. 100–418, title V, §5112(a), Aug. 23, 1988, 102 Stat. 1428; Pub. L. 102–245, title II, §201(e), Feb. 14, 1992, 106 Stat. 19; Pub. L. 104–113, §12(a), (b), Mar. 7, 1996, 110 Stat. 782; Pub. L. 110–69, title III, §§3002(c)(2)(A), 3013(b), Aug. 9, 2007, 121 Stat. 586, 598.)
 

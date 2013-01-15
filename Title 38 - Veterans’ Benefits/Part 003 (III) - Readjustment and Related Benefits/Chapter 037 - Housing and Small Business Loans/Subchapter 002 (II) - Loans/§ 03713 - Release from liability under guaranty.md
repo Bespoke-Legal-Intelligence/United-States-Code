@@ -46,5 +46,5 @@ Amendment by Pub. L. 94–324 effective June 30, 1976, see section 9(a) of Pub. 
 
 #### Effective Date of 1972 Amendment
 
-Section 301(c) of Pub. L. 92–328 provided that: “Sections 201 through 206 of this Act \[amending this section and sections 210, 1820 \[now 3720\], 3102 \[now 5302\], and 3503 \[now 6103\] of this title, and enacting provisions set out as a note under section 5302 of this title\] shall take effect upon the date of enactment of this Act \[June 30, 1972\].”
+Pub. L. 92–328, title III, §301(c), June 30, 1972, 86 Stat. 398, provided that: “Sections 201 through 206 of this Act \[amending this section and sections 210, 1820 \[now 3720\], 3102 \[now 5302\], and 3503 \[now 6103\] of this title, and enacting provisions set out as a note under section 5302 of this title\] shall take effect upon the date of enactment of this Act \[June 30, 1972\].”
 

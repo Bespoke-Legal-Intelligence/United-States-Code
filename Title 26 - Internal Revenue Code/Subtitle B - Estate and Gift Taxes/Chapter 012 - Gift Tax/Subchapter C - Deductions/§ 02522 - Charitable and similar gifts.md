@@ -10,7 +10,7 @@ In computing taxable gifts for the calendar year, there shall be allowed as a de
 
 &emsp;(3) a fraternal society, order, or association, operating under the lodge system, but only if such gifts are to be used exclusively for religious, charitable, scientific, literary, or educational purposes, including the encouragement of art and the prevention of cruelty to children or animals;
 
-&emsp;(4) posts or organizations of war veterans, or auxiliary units or societies of any such posts or organizations, if such posts, organizations, units, or societies are organized in the United States or any of its possessions, and if no partof their net earnings insures to the benefit of any private shareholder or individual.
+&emsp;(4) posts or organizations of war veterans, or auxiliary units or societies of any such posts or organizations, if such posts, organizations, units, or societies are organized in the United States or any of its possessions, and if no part of their net earnings insures to the benefit of any private shareholder or individual.
 
 > Rules similar to the rules of section 501(j) shall apply for purposes of paragraph (2).
 
@@ -80,7 +80,7 @@ A deduction shall be allowed under subsection (a) in respect of any transfer of 
 
 #### (B) Exceptions
 
-&emsp;&emsp;The Secretary may, by regulation, provide for exceptions to subparagraph (A) in cases where all persons who hold an interest in the property make proportional contributions of an undivided portion of the entire interest held by such persons.
+&emsp;&emsp;The Secretary may, by regulation, provide for exceptions to subparagraph (A) in cases where all persons who hold an interest in the property make proportional contributions ofan undivided portion of the entire interest held by such persons.
 
 #### (2) Recapture of deduction in certain cases; addition to tax
 
@@ -224,7 +224,7 @@ Amendment by Pub. L. 97–248 effective Oct. 5, 1976, see section 286(c) of Pub.
 
 #### Effective Date of 1981 Amendment
 
-Section 423(c)(2) of Pub. L. 97–34 provided that: “The amendment made by subsection (b) \[amending this section\] shall apply to transfers after December 31, 1981.”
+Pub. L. 97–34, title IV, §423(c)(2), Aug. 13, 1981, 95 Stat. 317, provided that: “The amendment made by subsection (b) \[amending this section\] shall apply to transfers after December 31, 1981.”
 
 Amendment by section 442(c) of Pub. L. 97–34 applicable with respect to gifts made after Dec. 31, 1981, see section 442(e) of Pub. L. 97–34, set out as a note under section 2501 of this title.
 

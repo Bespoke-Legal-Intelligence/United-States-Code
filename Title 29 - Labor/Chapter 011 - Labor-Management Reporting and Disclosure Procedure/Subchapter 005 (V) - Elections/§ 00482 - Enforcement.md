@@ -8,7 +8,7 @@ A member of a labor organization—
 
 &emsp;(2) who has invoked such available remedies without obtaining a final decision within three calendar months after their invocation,
 
-> may file a complaint with the Secretary within one calendar month thereafter alleging the violation of any provision of section 481 of this title (including violation of the constitution and bylaws of the labor organization pertaining to the election and removal of officers). The challenged election shall be presumed valid pending a final decision thereon (as hereinafter provided) and in the interim the affairs of the organization shall be conducted by the officers elected or in such other manner as its constitution and bylaws may provide.
+> may file a complaint with the Secretary within one calendar month thereafter alleging the violation of any provision of section 481 of this title (including violation of the constitution and bylaws of the labor organization pertaining to the election and removal of officers). The challengedelection shall be presumed valid pending a final decision thereon (as hereinafter provided) and in the interim the affairs of the organization shall be conducted by the officers elected or in such other manner as its constitution and bylaws may provide.
 
 #### (b) Investigation of complaint; commencement of civil action by Secretary; jurisdiction; preservation of assets
 
@@ -22,7 +22,7 @@ If, upon a preponderance of the evidence after a trial upon the merits, the cour
 
 &emsp;(2) that the violation of section 481 of this title may have affected the outcome of an election,
 
-> the court shall declare the election, if any, to be void and direct the conduct of a new election under supervision of the Secretary and, so far aslawful and practicable, in conformity with the constitution and bylaws of the labor organization. The Secretary shall promptly certify to the court the names of the persons elected, and the court shall thereupon enter a decree declaring such persons to be the officers of the labor organization. If the proceeding is for the removal of officers pursuant to subsection (h) of section 481 of this title, the Secretary shall certify the results of the vote and the court shall enter a decree declaring whether such persons have been removed as officers of the labor organization.
+> the court shall declare the election, if any, to be void and direct the conduct of a new election under supervision of the Secretary and, so far as lawful and practicable, in conformity with the constitution and bylaws of the labor organization. The Secretary shall promptly certify to the court the names of the persons elected, and the court shall thereupon enter a decree declaring such persons to be the officers of the labor organization. If the proceeding is for the removal of officers pursuant to subsection (h) of section 481 of this title, the Secretary shall certify the results of the vote and the court shall enter a decree declaring whether such persons have been removed as officers of the labor organization.
 
 #### (d) Review of orders; stay of order directing election
 

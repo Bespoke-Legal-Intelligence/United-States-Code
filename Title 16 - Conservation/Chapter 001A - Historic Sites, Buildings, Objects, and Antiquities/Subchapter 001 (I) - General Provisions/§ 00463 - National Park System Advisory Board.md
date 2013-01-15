@@ -30,11 +30,11 @@ There is hereby established a National Park System Advisory Board, whose purpose
 
 #### (d) Federal Advisory Committee Act
 
-The provisions of the Federal Advisory Committee Act shall apply to the Board established under this section with the exception of section 14(b).
+The provisions of the Federal Advisory Committee Act shall apply to the Board establishedunder this section with the exception of section 14(b).
 
 #### (e) Cooperation of Federal agencies; use of mails
 
-(1) The Board is authorized to secure directly from any office, department, agency, establishment, or instrumentality of the Federal Government such information as the Board may require for the purpose of this section, and each such officer, department, agency, establishment, or instrumentality is authorized and directed to furnish, to the extent permitted by law, such information, suggestions, estimates, and statisticsdirectly to the Board, upon request made by a member of the Board.
+(1) The Board is authorized to secure directly from any office, department, agency, establishment, or instrumentality of the Federal Government such information as the Board may require for the purpose of this section, and each such officer, department, agency, establishment, or instrumentality is authorized and directed to furnish, to the extent permitted by law, such information, suggestions, estimates, and statistics directly to the Board, upon request made by a member of the Board.
 
 (2) Upon the request of the Board, the head of any Federal department, agency, or instrumentality is authorized to make any of the facilities and services of such department, agency, or instrumentality to <sup>3</sup> the Board, on a nonreimbursable basis, to assist the Board in carrying out its duties under this section.
 
@@ -86,11 +86,11 @@ Pub. L. 109–156, §5, Dec. 30, 2005, 119 Stat. 2948, provided that the amendme
 
 #### Effective Date of 1996 Amendment
 
-Section 814(f)(3) of title VIII of div. I of Pub. L. 104–333 provided that: “This subsection \[amending this section and enacting provisions set out as a note below\] shall take effect on December 7, 1997.”
+Pub. L. 104–333, div. I, title VIII, §814(f)(3), Nov. 12, 1996, 110 Stat. 4199, provided that: “This subsection \[amending this section and enacting provisions set out as a note below\] shall take effect on December 7, 1997.”
 
 #### Authorization of Appropriations
 
-Section 814(f)(2) of title VIII of div. I of Pub. L. 104–333 provided that: “There are authorized to be appropriated to the National Park System Advisory Board $200,000 per year to carry out the provisions ofsection 3 of the Act of August 21, 1935 (49 Stat. 667; 16 U.S.C. 463).”
+Pub. L. 104–333, div. I, title VIII, §814(f)(2), Nov. 12, 1996, 110 Stat. 4199, provided that: “There are authorized to be appropriated to the National Park System Advisory Board $200,000 per year to carry out the provisions of section 3 of the Act of August 21, 1935 (49 Stat. 667; 16 U.S.C. 463).”
 
 #### New York City National Shrines Advisory Board
 

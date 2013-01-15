@@ -60,7 +60,7 @@ If a State fails to submit a plan for approval as required by this section withi
 
 The Administrator shall report annually to the Congress all contributions made pursuant to this section.
 
-(Pub. L. 93–288, title VI, §613, as added Pub. L. 103–337, div. C, title XXXIV, §3411(a)(3), Oct. 5, 1994, 108 Stat. 3106; amended Pub. L. 107–188, title I, §151, June 12, 2002, 116 Stat. 630; Pub. L. 109–295, title VI, §631, Oct. 4, 2006, 120 Stat. 1420; Pub. L. 109–308, §2, Oct. 6, 2006, 120 Stat. 1725; Pub. L. 111–351, §3(c)(2), Jan. 4, 2011, 124 Stat. 3864.)
+(Pub. L. 93–288, title VI, §613, as added Pub. L. 103–337, div. C, title XXXIV, §3411(a)(3), Oct. 5, 1994, 108 Stat. 3106; amended Pub. L. 107–188, title I, §151, June 12, 2002, 116 Stat. 630; Pub. L. 109–295, title VI, §631, Oct. 4, 2006, 120 Stat. 1420; Pub. L. 109–308, §2, Oct. 6, 2006, 120 Stat. 1725;Pub. L. 111–351, §3(c)(2), Jan. 4, 2011, 124 Stat. 3864.)
 
 #### Codification
 
@@ -76,7 +76,7 @@ Provisions similar to those in this section were contained in section 2286 of Ti
 
 <b>2006</b>—Subsec. (b)(3). Pub. L. 109–295, §631(1), inserted “including a catastrophic incident annex,” after “plans,”.
 
-Subsecs. (c) to (f). Pub. L. 109–295, §631(2), (3), added subsec. (c) and redesignated former subsecs. (c) to (e) as\(d) to (f), respectively. Former subsec. (f) redesignated (g). See Codification note above.
+Subsecs. (c) to (f). Pub. L. 109–295, §631(2), (3), added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively. Former subsec. (f) redesignated (g). See Codification note above.
 
 Subsec. (g). Pub. L. 109–308, §2(2), added subsec. (g). Former subsec. (g) relating to submission of plan redesignated (h).
 

@@ -4,7 +4,7 @@ In order to encourage and expedite the acquisition of real property by agreement
 
 (1) The head of a Federal agency shall make every reasonable effort to acquire expeditiously real property by negotiation.
 
-(2) Real property shall be appraised before the initiation of negotiations, and the owner or hisdesignated representative shall be given an opportunity to accompany the appraiser during his inspection of the property, except that the head of the lead agency may prescribe a procedure to waive the appraisal in cases involving the acquisition by sale or donation of property with a low fair market value.
+(2) Real property shall be appraised before the initiation of negotiations, and the owner or his designated representative shall be given an opportunity to accompany the appraiser during his inspection of the property, except that the head of the lead agency may prescribe a procedure to waive the appraisal in cases involving the acquisition by sale or donation of property with a low fair market value.
 
 (3) Before the initiation of negotiations for real property, the head of the Federal agency concerned shall establish an amount which he believes to be just compensation therefor and shall make a prompt offer to acquire the property for the full amount so established. In no event shall such amount be less than the agency's approved appraisal of the fair market value of such property. Any decrease or increase in the fair market value of real property prior to the date of valuation caused by the public improvement for which such property is acquired, or by the likelihood that the property would be acquired for such improvement, other than that due to physical deterioration within the reasonable control of the owner, will be disregarded in determining the compensation for the property. The head of the Federal agency concerned shall provide the owner of real property to be acquired with a written statement of, and summary of the basis for, the amount he established as just compensation. Where appropriate the just compensation for the real property acquired and for damages to remaining real property shall be separately stated.
 
@@ -46,9 +46,9 @@ Par. (10). Pub. L. 100–17, §416(c), added par. (10).
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–17 effective on effective date provided in regulations promulgated under section 4633 of this title (as amended by section 412 of Pub. L. 100–17), but not later than 2 years after Apr. 2, 1987, seesection 418 of Pub. L. 100–17, set out as a note under section 4601 of this title.
+Amendment by Pub. L. 100–17 effective on effective date provided in regulations promulgated under section 4633 of this title (as amended by section 412 of Pub. L. 100–17), but not later than 2 years after Apr. 2, 1987, see section 418 of Pub. L. 100–17, set out as a note under section 4601 of this title.
 
 #### Savings Provision
 
-Section 306 of Pub. L. 91–646 provided in part that: “Any rights or liabilities now existing under prior Acts or portions thereof shall not be affected by the repeal of such prior Act or portions thereof under this section \[repealing sections 3071 to 3073 of this title, section 141 of Title 23, Highways, and section 596 of Title 33, Navigation and Navigable Waters\].”
+Pub. L. 91–646, title III, §306, Jan. 2, 1971, 84 Stat. 1907, provided in part that: “Any rights or liabilities now existing under prior Acts or portions thereof shall not be affected by the repeal of such prior Act or portions thereof under this section \[repealing sections 3071 to 3073 of this title, section 141 of Title 23, Highways, and section 596 of Title 33, Navigation and Navigable Waters\].”
 

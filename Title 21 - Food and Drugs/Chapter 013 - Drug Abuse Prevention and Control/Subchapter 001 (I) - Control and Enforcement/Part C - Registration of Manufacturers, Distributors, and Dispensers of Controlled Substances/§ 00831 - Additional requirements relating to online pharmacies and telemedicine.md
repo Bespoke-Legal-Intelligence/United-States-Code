@@ -22,7 +22,7 @@ Each online pharmacy shall post in a visible and clear manner on the homepage of
 
 &emsp;(5) A certification that the pharmacy is registered under this part to deliver, distribute, or dispense by means of the Internet controlled substances.
 
-&emsp;(6) The name, address, telephone number, professional degree, and States of licensure of any practitioner who has a contractual relationship to provide medical evaluations or issue prescriptions for controlled substances, through referrals from the website or at therequest of the owner or operator of the website, or any employee or agent thereof.
+&emsp;(6) The name, address, telephone number, professional degree, and States of licensure of any practitioner who has a contractual relationship to provide medical evaluations or issue prescriptions for controlled substances, through referrals from the website or at the request of the owner or operator of the website, or any employee or agent thereof.
 
 &emsp;(7) The following statement, unless revised by the Attorney General by regulation: “This online pharmacy will only dispense a controlled substance to a person who has a valid prescription issued for a legitimate medical purpose based upon a medical relationship with a prescribing practitioner. This includes at least one prior in-person medical evaluation or medical evaluation via telemedicine in accordance with applicable requirements of section 309.”.
 

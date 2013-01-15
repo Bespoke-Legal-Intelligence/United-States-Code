@@ -2,13 +2,13 @@
 
 (a)
 
-Performance Assessments Required.—Not later than 180 days after the date of the enactment of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011, the Secretary of Defense, acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics, the Director of Procurement and Acquisition Policy, and the Director of the Office of Performance Assessment and Root Cause Analysis, shall issue guidance, with detailed implementation instructions, for the Department of Defense to provide for periodic independent performance assessments of elements of the defense acquisition system for the purpose of—
+Performance Assessments Required.—The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics, the Director of Procurement and Acquisition Policy, and the Director of the Office of Performance Assessment and Root Cause Analysis, shall issue guidance, with detailed implementation instructions, for the Department of Defense to provide for periodic independent performance assessments of elements of the defense acquisition system for the purpose of—
 
 &emsp;(1) determining the extent to which such elements of the defense acquisition system deliver value to the Department of Defense, taking into consideration the performance elements identified in subsection (b);
 
 &emsp;(2) assisting senior officials of the Department of Defense in identifying and developing lessons learned from best practices and shortcomings in the performance of such elements of the defense acquisition system; and
 
-&emsp;(3) assisting senior officials of the Department of Defense in developing acquisition workforce excellence under section 1701a of this title <sup>1</sup>
+&emsp;(3) assisting senior officials of the Department of Defense in developing acquisition workforce excellence under section 1701a of this title.
 
 (b)
 
@@ -76,29 +76,35 @@ Contents of Guidance.—The guidance issued pursuant to subsection (a) shall ens
 
 (d)
 
-Performance Goals Under Government Performance Results Act of 1993.—Beginning with fiscal year 2012, the annual performance plan prepared by the Department of Defense pursuant to section 1115 of title 31 shall include appropriate performance goals for elements of the defense acquisition system.
+Performance Goals Under Government Performance and Results Act of 1993.—The annual performance plan prepared by the Department of Defense pursuant to section 1115 of title 31 shall include appropriate performance goals for elements of the defense acquisition system.
 
 (e)
 
 Reporting Requirements.—Beginning with fiscal year 2012—
 
-&emsp;(1) the annual report prepared by the Secretary of Defense pursuant to section 1116 of title 31, United States Code, shall address the Department's success in achieving performance goals established pursuant to such section for elements of the defense acquisition system; and
+&emsp;(1) the annual report prepared by the Secretary of Defense pursuant to section 1116 of title 31 shall address the Department's success in achieving performance goals established pursuant to such section for elements of the defense acquisition system; and
 
-&emsp;(2) the annual report prepared by the Director of the Office of Performance Assessment and Root Cause Analysis pursuant to section 103(f) of the Weapon Systems Acquisition Reform Act of 2009 (10 U.S.C. 2430 note), shall include information on the activities undertaken by the Department pursuant to such section, including a summary of significant findings or recommendations arising out of performance assessments.
+&emsp;(2) the annual report prepared by the Director of the Office of Performance Assessment and Root Cause Analysis pursuant to section 2438(f) of this title shall include information on the activities undertaken by the Department pursuant to such section, including a summary of significant findings or recommendations arising out of performance assessments.
 
-(Added Pub. L. 111–383, div. A, title VIII, §861(a), Jan. 7, 2011, 124 Stat. 4289.)
+(Added Pub. L. 111–383, div. A, title VIII, §861(a), Jan. 7, 2011, 124 Stat. 4289; amended Pub. L. 112–239, div. A, title X, §1076(d)(5), (f)(30), Jan. 2, 2013, 126 Stat. 1951, 1953.)
 
 #### References in Text
 
-The date of the enactment of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011, referred to in subsec. (a), is the date of enactment of Pub. L. 111–383, which was approved Jan. 7, 2011.
-
-The Government Performance Results Act of 1993, referred to in subsec. (d), probably means the Government Performance and Results Act of 1993, Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 285, which enacted section 306 of Title 5, Government Organization and Employees, sections 1115 to 1119, 9703, and 9704 of Title 31, Money and Finance, and sections 2801 to 2805 of Title 39, Postal Service, amended section 1105 of Title 31, and enacted provisions set out as notes under sections 1101 and 1115 of Title 31. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under section 1101 of Title 31 and Tables.
-
-Section 103 of the Weapon Systems Acquisition Reform Act of 2009, referred to in subsec. (e)(2), is section 103 of Pub. L. 111–23, which was formerly set out as a note under section 2430 of this title, and was transferred, renumbered as section 2438 of this title, and amended by Pub. L. 111–383, div. A, title IX, §901(d), (k)(1)(F), Jan. 7, 2011, 124 Stat. 4321, 4325.
+The Government Performance and Results Act of 1993, referred to in subsec. (d), is Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 285, which enacted section 306 of Title 5, Government Organization and Employees, sections 1115 to 1119, 9703, and 9704 of Title 31, Money and Finance, and sections 2801 to 2805 of Title 39, Postal Service, amended section 1105 of Title 31, and enacted provisions set out as notes under sections 1101 and 1115 of Title 31. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under section 1101 of Title 31 and Tables.
 
 #### Prior Provisions
 
 A prior section 2548 was renumbered section 2558 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
+#### Amendments
+
+<b>2013</b>—Subsec. (a). Pub. L. 112–239, §1076(f)(30)(A)(i), substituted “The Secretary” for “Not later than 180 days after the date of the enactment of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011, the Secretary” in introductory provisions.
+
+Subsec. (a)(3). Pub. L. 112–239, §1076(f)(30)(A)(ii), inserted period at end.
+
+Subsec. (d). Pub. L. 112–239, §1076(f)(30)(B), inserted “and” after “Government Performance” in heading and substituted “The” for “Beginning with fiscal year 2012, the” in text.
+
+Subsec. (e)(1). Pub. L. 112–239, §1076(f)(30)(C), struck out “, United States Code,” after “title 31”.
+
+Subsec. (e)(2). Pub. L. 112–239, §1076(d)(5), substituted “section 2438(f) of this title” for “section 103(f) of the Weapon Systems Acquisition Reform Act of 2009 (10 U.S.C. 2430 note),”.
 

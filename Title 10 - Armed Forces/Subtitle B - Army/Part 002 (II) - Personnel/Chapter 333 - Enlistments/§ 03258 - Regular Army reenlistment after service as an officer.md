@@ -48,5 +48,5 @@ Subsec. (b)(2). Pub. L. 110–181, §506(a)(2)(B), substituted “the commission
 
 #### Effective Date of 1992 Amendment
 
-Section 520(c) of Pub. L. 102–484 provided that: “The amendments made by subsections (a) and (b) \[amendingthis section and section 8258 of this title\] shall apply to persons discharged or released from active duty as commissioned officers in the Army Reserve or the Air Force Reserve, respectively, after the date of the enactment of this Act \[Oct. 23, 1992\].”
+Pub. L. 102–484, div. A, title V, §520(c), Oct. 23, 1992, 106 Stat. 2409, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 8258 of this title\] shall apply to persons discharged or released from active duty as commissioned officers in the Army Reserve or the Air Force Reserve, respectively, after the date of the enactment of this Act \[Oct. 23, 1992\].”
 

@@ -26,7 +26,7 @@ The program shall include the following:
 
 &emsp;&emsp;(C) the Z Machine at Sandia National Laboratories; and
 
-&emsp;&emsp;(D) the experimental facilities at the Nevada test site.
+&emsp;&emsp;(D) the experimental facilities at the Nevada National Security Site.
 
 &emsp;(5) Support for the sustainment and modernization of facilities with production and manufacturing capabilities that are necessary to ensure the safety, security, and reliability of the nuclear weapons stockpile, including—
 
@@ -38,15 +38,19 @@ The program shall include the following:
 
 &emsp;&emsp;(D) the Savannah River Site; and
 
-&emsp;&emsp;(E) production and manufacturing capabilities resident in the national security laboratories (as defined in section 2471 of this title).
+&emsp;&emsp;(E) production and manufacturing capabilities resident in the national security laboratories.
 
-(Pub. L. 107–314, div. D, title XLII, §4201, formerly Pub. L. 103–160, div. C, title XXXI, §3138, Nov. 30, 1993, 107 Stat. 1946; Pub. L. 105–85, div. C, title XXXI, §3152(e), Nov. 18, 1997, 111 Stat. 2042; renumbered Pub. L. 107–314, div. D, title XLII, §4201, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(2), Nov. 24, 2003, 117 Stat. 1758; Pub. L. 111–84, div. C, title XXXI, §3111, Oct. 28, 2009, 123 Stat. 2702.)
+(Pub. L. 107–314, div. D, title XLII, §4201, formerly Pub. L. 103–160, div. C, title XXXI, §3138, Nov. 30, 1993, 107 Stat. 1946; Pub. L. 105–85, div. C, title XXXI, §3152(e), Nov. 18, 1997, 111 Stat. 2042; renumbered Pub. L. 107–314, div. D, title XLII, §4201, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(2), Nov. 24, 2003, 117 Stat. 1758; Pub. L. 111–84, div. C, title XXXI, §3111, Oct. 28, 2009, 123 Stat. 2702; Pub. L. 112–239, div. C, title XXXI, §3131(b), (bb)(1)(C), Jan. 2, 2013, 126 Stat. 2180, 2185.)
 
 #### Codification
 
 Section was formerly set out as a note under section 2121 of Title 42, The Public Health and Welfare, prior to renumbering by Pub. L. 108–136.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (b)(4)(D). Pub. L. 112–239, §3131(bb)(1)(C), which directed substitution of “Nevada National Security Site” for “Nevada Test Site”, was executed by making the substitution for “Nevada test site”, to reflect the probable intent of Congress.
+
+Subsec. (b)(5)(E). Pub. L. 112–239, §3131(b), struck out “(as defined in section 2471 of this title)” after “laboratories”.
 
 <b>2009</b>—Subsec. (a). Pub. L. 111–84, §3111(a), amended subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary of Energy shall establish a stewardship program to ensure the preservation of the core intellectual and technical competencies of the United States in nuclear weapons, including weapons design, system integration, manufacturing, security, use control, reliability assessment, and certification.”
 

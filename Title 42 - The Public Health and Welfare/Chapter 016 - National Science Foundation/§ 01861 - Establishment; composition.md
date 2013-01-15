@@ -8,11 +8,11 @@ There is established in the executive branch of the Government an independent ag
 
 Pub. L. 111–358, §1(a), Jan. 4, 2011, 124 Stat. 3982, provided that: “this \[probably should be “This”\] Act \[see Tables for classification\] may be cited as the ‘America COMPETES Reauthorization Act of 2010’ or the ‘America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Reauthorization Act of 2010’.”
 
-Pub. L. 111–358, title V, §501, Jan. 4, 2011, 124 Stat. 4005, provided that: “This subtitle \[subtitle A (§§501–527) of title V of Pub. L. 111–358, enacting sections 1862p to 1862p–15 of this title, amending sections 1862n–1a, 1862n–5, 1863, and 1869 of this title, and enacting provisions set out as notes under sections 1862p and 1869 of this title\] may be cited as the ‘National Science Foundation Authorization Act of 2010’.”
+Pub. L. 111–358, title V, §501, Jan. 4, 2011, 124 Stat. 4005, provided that: “This subtitle \[subtitle A\(§§501–527) of title V of Pub. L. 111–358, enacting sections 1862p to 1862p–15 of this title, amending sections 1862n–1a, 1862n–5, 1863, and 1869 of this title, and enacting provisions set out as notes under sections 1862p and 1869 of this title\] may be cited as the ‘National Science Foundation Authorization Act of 2010’.”
 
 #### Short Title of 2002 Amendment
 
-Pub. L. 107–368, §1, Dec. 19, 2002, 116 Stat. 3034, provided that: “This Act \[enacting sections 1862n to 1862n–10 of this title, amending sections 1862i, 1862<i>l</i>, 1863, 1873, and 1885 of this title, enacting provisions set out as notes under sections 1862b, 1862g, 1862n, 1864, and 1885c of this title, and amending provisions set out asa note under section 1862k of this title\] may be cited as the ‘National Science Foundation Authorization Act of 2002’.”
+Pub. L. 107–368, §1, Dec. 19, 2002, 116 Stat. 3034, provided that: “This Act \[enacting sections 1862n to 1862n–10 of this title, amending sections 1862i, 1862l, 1863, 1873, and 1885 of this title, enacting provisions set out as notes under sections 1862b, 1862g, 1862n, 1864, and 1885c of this title, and amending provisions set out as a note under section 1862k of this title\] may be cited as the ‘National Science Foundation Authorization Act of 2002’.”
 
 #### Short Title of 1998 Amendment
 
@@ -54,7 +54,7 @@ Pub. L. 94–471, §1, Oct. 11, 1976, 90 Stat. 2053, provided: “That this Act 
 
 #### Short Title
 
-Section 1 of act May 10, 1950, provided: “That this Act \[enacting this chapter\] may be cited as the ‘National Science Foundation Act of 1950’.”
+Act May 10, 1950, ch. 171, §1, 64 Stat. 149, provided: “That this Act \[enacting this chapter\] may be cited as the ‘National Science Foundation Act of 1950’.”
 
 #### Transfer of Functions
 
@@ -76,7 +76,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 Sec. 1. \[Repealed. Pub. L. 94–282, title V, §502, May 11, 1976, 90 Stat. 472. Section established, in Executive Office of the President, the Office of Science and Technology.\]
 
-Sec. 2. \[Repealed. Pub. L. 94–282, title V, §502, May 11, 1976, 90 Stat. 472. Section as amended by Pub. L. 88–426,title III, §305(41)(A), (B), Aug. 14, 1964, 78 Stat. 427, 428, authorized appointment of Director and Deputy Director of Office of Science and Technology by the President by and with the advice and consent of the Senate.\]
+Sec. 2. \[Repealed. Pub. L. 94–282, title V, §502, May 11, 1976, 90 Stat. 472. Section as amended by Pub. L. 88–426, title III, §305(41)(A), (B), Aug. 14, 1964, 78 Stat. 427, 428, authorized appointment of Director and Deputy Director of Office of Science and Technology by the President by and with the advice and consent of the Senate.\]
 
 Sec. 3. \[Repealed. Pub. L. 94–282, title V, §502, May 11, 1976, 90 Stat. 472. Section transferred to Director of the Office of Science and Technology, from National Science Foundation, certain functions formerly conferred upon the Foundation.\]
 
@@ -174,11 +174,11 @@ The ever-growing significance and complexity of Federal programs in science and 
 
 The National Science Foundation has proved to be an effective instrument for administering sizable programs in support of basic research and education in the sciences and has set an example for other agencies through the administration of its own programs. However, the Foundation, being at the same organizational level as other agencies, cannot satisfactorily coordinate Federal science policies or evaluate programs of other agencies. Science policies, transcending agency lines, need to be coordinated and shaped at the level of the Executive Office of the President drawing upon many resources both within and outside of Government. Similarly, staff efforts at that higher level are required for the evaluation of Government programs in science and technology.
 
-Thus, the further steps contained in part I of the reorganization plan are now needed in order to meet most effectively new and expanding requirements brought about by the rapid and far-reaching growth of the Government's research and development programs. These requirements call for the further strengthening of science organization at the Presidential level and for the adjustment of the Foundation's role to reflect changed conditions. The Foundation will continue to originate policy proposals and recommendations concerning the support of basic research and education in the sciences, and the new Office will look to the Foundation to provide studies and information on which sound national policies in science and technology can be based.
+Thus, the further steps contained in part I of the reorganization plan are now needed in order to meet most effectively new and expanding requirements brought about by the rapid and far-reaching growth of the Government's research and development programs. These requirements call for the further strengthening of science organization at the Presidential level and for the adjustment of the Foundation's role to reflectchanged conditions. The Foundation will continue to originate policy proposals and recommendations concerning the support of basic research and education in the sciences, and the new Office will look to the Foundation to provide studies and information on which sound national policies in science and technology can be based.
 
 Part I of the reorganization plan will permit some strengthening of the staff and consultant resources now available to the President in respect of scientific and technical factors affecting executive branch policies and will also facilitate communication with the Congress.
 
-Part II of the reorganization plan provides for certain reorganizations within the National Science Foundation which will strengthen the capability of the Director of the Foundation to exert leadership and otherwisefurther the effectiveness of administration of the Foundation. Specifically:
+Part II of the reorganization plan provides for certain reorganizations within the National Science Foundation which will strengthen the capability of the Director of the Foundation to exert leadership and otherwise further the effectiveness of administration of the Foundation. Specifically:
 
 &emsp;(1) There is established a new office of Director of the National Science Foundation and that Director, ex officio, is made a member of the National Science Board on a basis coordinate with that of other Board members.
 

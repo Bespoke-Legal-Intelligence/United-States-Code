@@ -42,7 +42,7 @@ A former spouse shall not be entitled to benefits under this section if—
 
 (4)(A) Benefits under this section shall not be payable unless appropriate written application is provided to the Secretary, complete with any supporting documentation which the Secretary may by regulation require, within 30 months after December 22, 1987. The Secretary may waive the 30-month application requirement under this subparagraph in any case in which the Secretary determines that the circumstances so warrant.
 
-(B) Upon approval of an application provided under subparagraph (A), the appropriate benefits shall be payable to the former spouse with respect to all periods before such approval during which the former spouse was entitled to such benefits under this section, but in no event shall benefits be payable under this section with respect to any period before December 22, 1987.
+(B) Upon approval of an application provided under subparagraph (A), the appropriate benefitsshall be payable to the former spouse with respect to all periods before such approval during which the former spouse was entitled to such benefits under this section, but in no event shall benefits be payable under this section with respect to any period before December 22, 1987.
 
 #### (d) “Benefits” defined
 

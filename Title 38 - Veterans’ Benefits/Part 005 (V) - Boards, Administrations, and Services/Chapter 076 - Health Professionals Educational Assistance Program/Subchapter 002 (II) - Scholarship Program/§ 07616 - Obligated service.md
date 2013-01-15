@@ -16,13 +16,13 @@
 
 (B) In the case of a participant receiving a degree from a school of nursing, the participant's service commencement date is the later of (i) the participant's course completion date, or (ii) the date upon which the participant becomes licensed as a registered nurse in a State.
 
-(C) In the case of a participant not covered by subparagraph (A) or (B) of this paragraph, the participant's service commencement date is the later of (i) the participant's course completion date, or (ii) the date the participant meets any applicable licensure or certification requirements.
+(C) In the case of a participant not covered by subparagraph (A) or (B) of this paragraph, theparticipant's service commencement date is the later of (i) the participant's course completion date, or (ii) the date the participant meets any applicable licensure or certification requirements.
 
 (4) A participant whose period of obligated service is deferred under paragraph (3)(A) of this subsection shall be required to undertake internship or residency or other advanced clinical training in an accredited program in an educational institution which is an affiliated institution (as defined in section 7423(d)(1) of this title) and with respect to which the affiliation agreement provides that all or part of the internship or residency or other advanced clinical training will be undertaken in a Department health-care facility. Such a participant may, at the discretion of the Secretary and upon the recommendation of the Under Secretary for Health, incur an additional period of obligated service—
 
 &emsp;(A) at the rate of one-half of a calendar year for each year of internship or residency or other advanced clinical training (or a proportionate ratio thereof), if the internship, residency, or advanced clinical training is in a medical specialty necessary to meet the health-care requirements of the Department (as determined under regulations prescribed by the Secretary); or
 
-&emsp;(B) at the rate of three-quarters of a calendar year for each year of internship or residency or other advanced clinical training (or a proportionate ratio thereof), if the internship, residency, or advanced clinical training is notin a medical specialty necessary to meet the health-care requirements of the Department (as determined under regulations prescribed by the Secretary).
+&emsp;(B) at the rate of three-quarters of a calendar year for each year of internship or residency or other advanced clinical training (or a proportionate ratio thereof), if the internship, residency, or advanced clinical training is not in a medical specialty necessary to meet the health-care requirements of the Department (as determined under regulations prescribed by the Secretary).
 
 (5) The Secretary shall by regulation prescribe the service commencement date for participants who were part-time students. Such regulations shall prescribe terms as similar as practicable to the terms set forth in paragraph (3) of this subsection.
 

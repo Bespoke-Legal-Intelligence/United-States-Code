@@ -24,11 +24,11 @@ disability retirees.—
 
 &emsp;&emsp;(A)
 
-General rule.—In the case of an eligible combat-related disabled uniformed services retiree who is retired under chapter 61 of this title, the amount of the payment under paragraph (1) for any month shall be reduced by the amount (if any) by which the amount of the member's retired pay under chapter 61 of this title exceeds the amount of retired pay to which the member would have been entitled under any other provisionof law based upon the member's service in the uniformed services if the member had not been retired under chapter 61 of this title.
+General rule.—In the case of an eligible combat-related disabled uniformed services retiree who is retired under chapter 61 of this title, the amount of the payment under paragraph (1) for any month may not, when combined with the amount of retired pay payable to the retiree after any such reduction under sections 5304 and 5305 of title 38, cause the total of such combined payment to exceed the amount of retired pay to which the member would have been entitled under any other provision of law based upon the member's service in the uniformed services if the member had not been retired under chapter 61 of this title.
 
 &emsp;&emsp;(B)
 
-Special rule for retirees with fewer than 20 years of service.—In the case of an eligible combat-related disabled uniformed services retiree who is retired under chapter 61 of this title with fewer than 20 years of creditable service, the amount of the payment under paragraph (1) for any month shall be reduced by the amount (if any) by which the amount of the member's retired pay under chapter 61 of this title exceeds the amount equal to 2½ percent of the member's years of creditable service multiplied by the member's retired pay base under section 1406(b)(1) or 1407 of this title, whichever is applicable to the member.
+Special rule for retirees with fewer than 20 years of service.—In the case of an eligible combat-related disabled uniformed services retiree who is retired under chapter 61 of this title with fewer than 20 years of creditable service, the amount of the payment under paragraph (1) for any month may not, when combined with the amount of retired pay payable to the retiree after any such reduction under sections 5304 and 5305 of title 38, cause the total of such combined payment to exceed the amount equal to 2½ percent of the member's years of creditable service multiplied by the member's retired pay base under section 1406(b)(1) or 1407 of this title, whichever is applicable to the member.
 
 (c)
 
@@ -78,9 +78,11 @@ Other Definitions.—In this section:
 
 &emsp;(2) The term “retired pay” includes retainer pay, emergency officers’ retirement pay, and naval pension.
 
-(Added Pub. L. 107–314, div. A, title VI, §636(a)(1), Dec. 2, 2002, 116 Stat. 2574; amended Pub. L. 108–136, div. A, title VI, §§641(c)(1), 642(a)–(e)(1), Nov. 24, 2003, 117 Stat. 1514, 1516, 1517; Pub. L. 110–181, div. A, title VI, §641(a), (b), Jan. 28, 2008, 122 Stat. 156.)
+(Added Pub. L. 107–314, div. A, title VI, §636(a)(1), Dec. 2, 2002, 116 Stat. 2574; amended Pub. L. 108–136, div. A, title VI, §§641(c)(1), 642(a)–(e)(1), Nov. 24, 2003, 117 Stat. 1514, 1516, 1517; Pub. L. 110–181, div. A, title VI, §641(a), (b), Jan. 28, 2008, 122 Stat. 156; Pub. L. 112–239, div. A, title VI, §643(a), Jan. 2, 2013, 126 Stat. 1783.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (b)(3). Pub. L. 112–239 substituted “may not, when combined with the amount of retired pay payable to the retiree after any such reduction under sections 5304 and 5305 of title 38, cause the total of such combined payment to exceed” for “shall be reduced by the amount (if any) by which the amount of the member's retired pay under chapter 61 of this title exceeds” in subpars. (A) and (B).
 
 <b>2008</b>—Subsec. (b)(3). Pub. L. 110–181, §641(b), designated existing text as subpar. (A), inserted heading, and added subpar. (B).
 
@@ -116,13 +118,17 @@ Regulations.—The Secretary of Defense shall prescribe in regulations the manne
 
 Subsec. (h). Pub. L. 108–136, §641(c)(1), inserted first sentence and inserted “for any other member” before “for any fiscal year”.
 
+#### Effective Date of 2013 Amendment
+
+Pub. L. 112–239, div. A, title VI, §643(b), Jan. 2, 2013, 126 Stat. 1783, provided that: “The amendment made by this section \[amending this section\] shall take effect as of January 1, 2013, and shall apply to payments for months beginning on or after that date.”
+
 #### Effective Date of 2008 Amendment
 
 Pub. L. 110–181, div. A, title VI, §641(c), Jan. 28, 2008, 122 Stat. 156, provided that: “The amendments made by this section \[amending this section\] shall take effect on January 1, 2008, and shall apply to payments for months beginning on or after that date.”
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–136, div. A, title VI, §641(c)(6), Nov. 24, 2003, 117 Stat. 1516, provided that: “The amendments made by this subsection \[amending this section and sections 1413, 1463, 1465, and 1466 of this title\] shall take effect as of October 1, 2003. The Secretary of Defense shall provide for such administrative adjustments asnecessary to provide for payments made for any period during fiscal year 2004 before the date of the enactment of this Act \[Nov. 24, 2003\] to be treated as having been made in accordance with such amendments and for the provisions of such amendments to be implemented as if enacted as of September 30, 2003.”
+Pub. L. 108–136, div. A, title VI, §641(c)(6), Nov. 24, 2003, 117 Stat. 1516, provided that: “The amendments made by this subsection \[amending this section and sections 1413, 1463, 1465, and 1466 of this title\] shall take effect as of October 1, 2003. The Secretary of Defense shall provide for such administrative adjustments as necessary to provide for payments made for any period during fiscal year 2004 before the date of the enactment of this Act \[Nov. 24, 2003\] to be treated as having been made in accordance with such amendments and for the provisions of such amendments to be implemented as if enacted as of September 30, 2003.”
 
 Pub. L. 108–136, div. A, title VI, §642(f), Nov. 24, 2003, 117 Stat. 1517, provided that: “The amendments made by subsections (a), (b), and (c) \[amending this section\] shall apply to payments under section 1413a of title 10, United States Code, for months beginning on or after January 1, 2004. The amendment made by subsection (d) \[amending this section\] shall take effect on January 1, 2004.”
 

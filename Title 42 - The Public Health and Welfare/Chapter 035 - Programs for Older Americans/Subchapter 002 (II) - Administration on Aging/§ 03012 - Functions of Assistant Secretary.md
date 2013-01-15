@@ -210,7 +210,7 @@ The Assistant Secretary, in consultation with the Chief Executive Officer of the
 
 &emsp;(2) develop a comprehensive strategy for utilizing older individuals to address critical local needs of national concern, including the engagement of older individuals in the activities of public and nonprofit organizations such as community-based organizations, including faith-based organizations; and
 
-&emsp;(3) encourage other community capacity-building initiatives involving older individuals, with particular attention to initiatives that demonstrate effectiveness and cost savings in meeting critical needs.
+&emsp;(3) encourage other community capacity-building initiatives involving older individuals, with particular attention to initiativesthat demonstrate effectiveness and cost savings in meeting critical needs.
 
 #### (d) National Center on Elder Abuse
 
@@ -290,7 +290,7 @@ The Assistant Secretary, in consultation with the Chief Executive Officer of the
 
 #### (f) Development of performance outcome measures
 
-(1) The Assistant Secretary, in accordance with the process described in paragraph (2), and in collaboration with a representative group of State agencies, tribal organizations, area agencies on aging, and providers of services involved in the performance outcome measures shall develop and publish by December 31, 2001, a set of performance outcome measures for planning, managing, and evaluating activities performed and services provided under this chapter. To the maximum extent possible, the Assistant Secretary shall use data currently collected (as of the date of development of the measures) by State agencies, area agencies on aging, and service providers through the National Aging Program Information System and other applicable sources of information in developing such measures.
+(1) The Assistant Secretary, in accordance with the process described in paragraph (2), and in collaboration with a representative group of State agencies, tribal organizations, area agencies on aging, and providers of services involved in the performance outcome measures shall develop and publish by December 31, 2001, a set of performance outcome measures for planning, managing, and evaluating activities performedand services provided under this chapter. To the maximum extent possible, the Assistant Secretary shall use data currently collected (as of the date of development of the measures) by State agencies, area agencies on aging, and service providers through the National Aging Program Information System and other applicable sources of information in developing such measures.
 
 (2) The process for developing the performance outcome measures described in paragraph (1) shall include—
 
@@ -328,7 +328,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 Subsec. (a)(12). Pub. L. 109–365, §202(1)(B), added par. (12) and struck out former par. (12) which read as follows: “carry on a continuing evaluation of the programs and activities related to the objectives of this chapter, with particular attention to the impact of medicare and medicaid, the Age Discrimination in Employment Act of 1967, and the programs of the National Housing Act relating to housing for older individuals and the setting of standards for the licensing of nursing homes, intermediate care homes, and other facilities providing care for such individuals;”.
 
-Subsec. (a)(20). Pub. L. 109–365, §202(1)(C), added par. (20) and struck out former par. (20) which read as follows: “encourage, and provide technical assistance to, States and area agencies on aging to carry out outreach to inform older individuals with greatest economic need who may be eligible to receive, but are not receiving, supplemental security income benefits under title XVI of the Social Security Act (42 U.S.C. 1381 etseq.) (or assistance under a State plan program under such title), medical assistance under title XIX of such Act (42 U.S.C. 1396 et seq.), and benefits under the Food Stamp Act of 1977 (7 U.S.C. 2011 et seq.), of the requirements for eligibility to receive such benefits and such assistance;”.
+Subsec. (a)(20). Pub. L. 109–365, §202(1)(C), added par. (20) and struck out former par. (20) which read as follows: “encourage, and provide technical assistance to, States and area agencies on aging to carry out outreach to inform older individuals with greatest economic need who may be eligible to receive, but are not receiving, supplemental security income benefits under title XVI of the Social Security Act (42 U.S.C. 1381 et seq.) (or assistance under a State plan program under such title), medical assistance under title XIX of such Act (42 U.S.C. 1396 et seq.), and benefits under the Food Stamp Act of 1977 (7 U.S.C. 2011 et seq.), of the requirements for eligibility to receive such benefits and such assistance;”.
 
 Subsec. (a)(26)(D). Pub. L. 109–365, §202(1)(D)(i), struck out “gaps in” after “collecting information on” and inserted “(including services that would permit such individuals to receive long-term care in home and community-based settings)” after “individuals”.
 
@@ -342,7 +342,7 @@ Subsecs. (b), (c). Pub. L. 109–365, §202(2), added subsecs. (b) and (c) and s
 
 Subsec. (e)(1)(A). Pub. L. 109–365, §202(3), substituted a period for semicolon at end.
 
-<b>2000</b>—Subsec. (a)(9). Pub. L. 106–501, §201(1)(A), redesignated par. (10) as (9) and struck out former par. (9) which read as follows: “stimulate more effective use of existing resources and available services for the aged and aging, including existing legislative protections with particular emphasis on the application of the Age Discrimination in Employment Act of 1967;”.
+<b>2000</b>—Subsec. (a)(9). Pub. L. 106–501, §201(1)(A), redesignated par. (10) as (9) and struck out former par. (9) which read as follows: “stimulate more effective use of existing resources and available services for the aged and aging, including existing legislative protectionswith particular emphasis on the application of the Age Discrimination in Employment Act of 1967;”.
 
 Subsec. (a)(10), (11). Pub. L. 106–501, §201(1)(A), redesignated pars. (11) and (12) as (10) and (11), respectively. Former par. (10) redesignated (9).
 
@@ -462,7 +462,7 @@ Subsec. (a)(20). Pub. L. 102–375, §708(c)(1), struck out “under section 302
 
 Subsec. (a)(21) to (30). Pub. L. 102–375, §202(a)(4)(B), (b), added pars. (21) to (30).
 
-Subsec. (b)(1). Pub. L. 102–375, §904(a)(4)(B)(i), struck out “with health systems agencies designated under section 300<i>l</i>–4 of this title,” after “linkages”.
+Subsec. (b)(1). Pub. L. 102–375, §904(a)(4)(B)(i), struck out “with health systems agencies designated under section 300l–4 of this title,” after “linkages”.
 
 Pub. L. 102–321, §163(c)(2)(A), substituted “the Substance Abuse and Mental Health Services Administration” for “the Alcohol, Drug Abuse, and Mental Health Administration”.
 

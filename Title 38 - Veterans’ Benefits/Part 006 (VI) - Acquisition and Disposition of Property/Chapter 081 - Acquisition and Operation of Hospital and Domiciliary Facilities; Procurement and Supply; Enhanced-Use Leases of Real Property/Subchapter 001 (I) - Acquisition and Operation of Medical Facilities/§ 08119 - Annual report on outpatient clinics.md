@@ -16,7 +16,7 @@ Contents of Report.—Each report required under subsection (a) shall include th
 
 &emsp;(4) A prioritized list of sites of care identified by the Secretary that the Secretary could establish without carrying out construction or entering into a lease, including—
 
-&emsp;&emsp;(A) any such sites that could be expanded by hiring additional staff or allocating staff to Federal facilities or facilities operating in collaboration with the Federal Government; and
+&emsp;&emsp;(A) any such sites that could be expanded by hiring additional staff or allocating staff to Federal facilities or facilities operating incollaboration with the Federal Government; and
 
 &emsp;&emsp;(B) any sites established, or able to be established, under sections 8111 and 8153 of this title.
 

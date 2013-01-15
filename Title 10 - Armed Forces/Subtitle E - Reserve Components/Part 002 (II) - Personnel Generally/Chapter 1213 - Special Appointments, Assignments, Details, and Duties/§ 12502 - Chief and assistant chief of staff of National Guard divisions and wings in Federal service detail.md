@@ -2,7 +2,7 @@
 
 (a) The President may detail a regular or reserve officer of the Army as chief of staff, and a regular or reserve officer or an officer of the Army National Guard as assistant to the chief of staff, of any division of the Army National Guard that is in Federal service as an Army National Guard organization.
 
-(b) The President may detail a regular or reserve officer of the Air Force as chief of staff, and a regular or reserve officer or an officer of the Air National Guard as assistant to the chiefof staff, of any wing of the Air National Guard that is in Federal service as an Air National Guard organization.
+(b) The President may detail a regular or reserve officer of the Air Force as chief of staff, and a regular or reserve officer or an officer of the Air National Guard as assistant to the chief of staff, of any wing of the Air National Guard that is in Federal service as an Air National Guard organization.
 
 (Added Pub. L. 103–337, div. A, title XVI, §1662(g)(1), Oct. 5, 1994, 108 Stat. 2995.)
 

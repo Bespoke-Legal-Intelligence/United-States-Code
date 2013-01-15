@@ -38,5 +38,5 @@ For effective date, savings, and transitional provisions relating to amendment b
 
 #### Effective Date
 
-Section 901(b) of Pub. L. 96–499 provided that: “The amendment made by subsection (a) \[enacting this section\] shall apply to grants, gifts, and endowments, and income therefrom, made or established after the date of the enactment of this Act \[Dec. 5, 1980\].”
+Pub. L. 96–499, title IX, §901(b), Dec. 5, 1980, 94 Stat. 2611, provided that: “The amendment made by subsection (a) \[enacting this section\] shall apply to grants,gifts, and endowments, and income therefrom, made or established after the date of the enactment of this Act \[Dec. 5, 1980\].”
 

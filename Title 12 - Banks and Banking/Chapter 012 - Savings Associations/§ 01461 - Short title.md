@@ -14,7 +14,7 @@ Section is comprised of the first sentence of section 1 of act June 13, 1933. Th
 
 #### Effective Date of 1989 Amendment
 
-Section 305(c) of Pub. L. 101–73 provided that: “The amendments made by section 301 \[amending this chapter\] relating to civil penalties shall apply with respect to violations committed and activities engaged in after the date of the enactment of this Act \[Aug. 9, 1989\], except that the increased maximum civil penalties of $5,000 and $25,000 per violation or per day may apply to such violations or activities committed or engaged in before such date with respect to an institution if such violations or activities—
+Pub. L. 101–73, title III, §305(c), Aug. 9, 1989, 103 Stat. 352, provided that: “The amendments made by section 301 \[amending this chapter\] relating to civil penalties shall apply with respect to violations committed and activities engaged in after the date of the enactment of this Act \[Aug. 9, 1989\], except that the increased maximum civil penalties of $5,000 and $25,000 per violation or per day may apply to such violations or activities committed or engaged in before such date with respect to an institution if such violations or activities—
 
 &emsp;“(1) are not already subject to a notice issued by the appropriate Federal banking agency or the Board (initiating an administrative proceeding); and
 
@@ -30,5 +30,5 @@ Pub. L. 102–242, title IV, §436, Dec. 19, 1991, 105 Stat. 2381, provided that
 
 #### Short Title of 1982 Amendment
 
-Pub. L. 97–320, title III, §301, Oct. 15, 1982, 96 Stat. 1496, provided that: “This title \[enacting section 1701j–3 of this title, amending sections 1425a, 1426, 1428a, 1430, 1464, 1725, 1730a, 1841, and 3503 of this title, enacting provisions set out as a note under section 3503 of thistitle, and repealing provisions set out as a note under section 461 of this title\] may be cited as the ‘Thrift Institutions Restructuring Act’.”
+Pub. L. 97–320, title III, §301, Oct. 15, 1982, 96 Stat. 1496, provided that: “This title \[enacting section 1701j–3 of this title, amending sections 1425a, 1426, 1428a, 1430, 1464, 1725, 1730a, 1841, and 3503 of this title, enactingprovisions set out as a note under section 3503 of this title, and repealing provisions set out as a note under section 461 of this title\] may be cited as the ‘Thrift Institutions Restructuring Act’.”
 

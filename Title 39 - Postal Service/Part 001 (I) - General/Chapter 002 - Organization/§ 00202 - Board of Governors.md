@@ -70,7 +70,7 @@ Pub. L. 109–435, title V, §501(d)(2), Dec. 20, 2006, 120 Stat. 3233, provided
 
 #### Effective Date of 1996 Amendment
 
-Section 101(f) \[title VI, §644(b)\] of Pub. L. 104–208 provided that: “Subsection (a) \[amending this section\] shall take effect at the beginning of the next applicable pay period beginning after the date of the enactment of this Act \[Sept. 30, 1996\].”
+Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §644(b)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–366, provided that: “Subsection (a) \[amending this section\] shall take effect at the beginning of the next applicable pay period beginning after the date of the enactment of this Act \[Sept. 30, 1996\].”
 
 #### Effective Date
 

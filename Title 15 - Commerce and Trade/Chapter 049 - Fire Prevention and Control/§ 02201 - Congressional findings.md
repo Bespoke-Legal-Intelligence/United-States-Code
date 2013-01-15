@@ -30,6 +30,12 @@ The Congress finds that—
 
 The National Commission on Fire Prevention and Control, established pursuant to Public Law 90–259, referred to in par. (1), refers to the Commission established pursuant to Pub. L. 90–259, title II, §§201–207, Mar. 1, 1968, 82 Stat. 36, which provisions were set out as a note under section 278f of this title. The Commission has expired pursuant to sections 203(c) and 207 of Pub. L. 90–259.
 
+#### Short Title of 2013 Amendment
+
+Pub. L. 112–239, div. A, title XVIII, §1801, Jan. 2, 2013, 126 Stat. 2099, provided that: “This subtitle \[subtitle A (§§1801–1807) of title XVIII of div. A of Pub. L. 112–239, amending sections 2203, 2204, 2206, 2210, 2214, 2215, 2217, 2218, 2224, 2226, 2229, 2229a of this title and section 290a of Title 42, The Public Health and Welfare\] may be cited as the ‘Fire Grants Reauthorization Act of 2012’.”
+
+Pub. L. 112–239, div. A, title XVIII, §1811, Jan. 2, 2013, 126 Stat. 2117, provided that: “This subtitle \[subtitle B (§§1811–1815) of title XVIII of div. A of Pub. L. 112–239, amending sections 2204, 2205, 2208, 2216 of this title\] may be cited as the ‘United States Fire Administration Reauthorization Act of 2012’.”
+
 #### Short Title of 2008 Amendment
 
 Pub. L. 110–376, §1, Oct. 8, 2008, 122 Stat. 4056, provided that: “This subtitle \[probably should be “This Act”, enacting section 2234 of this title, amending sections 2203, 2206 to 2208, 2216, and 2218 of this title and section 321d of Title 6, Domestic Security, and enacting provisions set out as a note under this section\] may be cited as the ‘United States Fire Administration Reauthorization Act of 2008’.”
@@ -50,7 +56,7 @@ Pub. L. 106–503, title I, §101, Nov. 13, 2000, 114 Stat. 2298, provided that:
 
 #### Short Title of 1997 Amendment
 
-Pub. L. 105–108, §1, Nov. 20, 1997, 111 Stat. 2264, provided that: “This Act \[amending sections 2216, 2225, and2227 of this title and enacting provisions set out as notes under sections 2204 and 2218 of this title\] may be cited as the ‘United States Fire Administration Authorization Act for Fiscal Years 1998 and 1999’.”
+Pub. L. 105–108, §1, Nov. 20, 1997, 111 Stat. 2264, provided that: “This Act \[amending sections 2216, 2225, and 2227 of this title and enacting provisions set out as notes under sections 2204 and 2218 of this title\] may be cited as the ‘United States Fire Administration Authorization Act for Fiscal Years 1998 and 1999’.”
 
 #### Short Title of 1994 Amendment
 
@@ -58,11 +64,11 @@ Pub. L. 103–254, §1, May 19, 1994, 108 Stat. 679, provided that: “This Act 
 
 #### Short Title of 1990 Amendment
 
-Pub. L. 101–391, §1, Sept. 25, 1990, 104 Stat. 747, provided that: “This Act \[enacting sections 2224, 2225, 2225a and 2226 of this title and section 5707a of Title 5, Government Organization and Employees, amending section 2203 of this title and sections 5701 and 5707 of Title 5, and enacting provisions set out as notes under this section and sections 5707 and 5707a of Title 5\] may be cited as the ‘Hotel and Motel Fire Safety Act of 1990’.”
+Pub. L. 101–391, §1, Sept. 25, 1990, 104 Stat. 747, provided that: “This Act \[enacting sections 2224, 2225, 2225aand 2226 of this title and section 5707a of Title 5, Government Organization and Employees, amending section 2203 of this title and sections 5701 and 5707 of Title 5, and enacting provisions set out as notes under this section and sections 5707 and 5707a of Title 5\] may be cited as the ‘Hotel and Motel Fire Safety Act of 1990’.”
 
 #### Short Title
 
-Section 1 of Pub. L. 93–498 provided: “That this Act \[enacting this chapter and section 290a of Title 42, The Public Health and Welfare, amending sections 278f and 1511 of this title, and repealing section 278g of this title\] may be cited as the ‘Federal Fire Prevention and Control Act of 1974’.”
+Pub. L. 93–498, §1, Oct. 29, 1974, 88 Stat. 1535, provided: “That this Act \[enacting this chapter and section 290a of Title 42, The Public Health and Welfare, amending sections 278f and 1511 of this title, and repealing section 278g of this title\] may be cited as the ‘Federal Fire Prevention and Control Act of 1974’.”
 
 #### Study on Need for Federal Assistance to State and Local Communities To Fund Firefighting and Emergency Response Activities
 
@@ -140,7 +146,7 @@ Purpose.—It is the purpose of this Act \[see Short Title of 1990 Amendment not
 
 #### Waiver of Federal Liability
 
-Pub. L. 101–391, §7, Sept. 25, 1990, 104 Stat. 752, provided that: “In any action for damages resulting from a fire at a place of public accommodation, the Federal Government may not be found liable for the death of or injury to any person or damage to any property because an officer or employee of the Federal Government was negligent in carrying out any requirement under this Act \[see Short Title of 1990 Amendment note above\] or the amendments made by this Act.”
+Pub. L. 101–391, §7, Sept. 25, 1990, 104 Stat. 752, provided that: “In any action for damages resulting from a fire at a place of public accommodation, the Federal Government may not be found liable for the death of orinjury to any person or damage to any property because an officer or employee of the Federal Government was negligent in carrying out any requirement under this Act \[see Short Title of 1990 Amendment note above\] or the amendments made by this Act.”
 
 #### Effect on Certain Requirements
 
@@ -208,7 +214,7 @@ The President may authorize any persons who, immediately prior to the effective 
 
 #### Sec. 304. Effective Date
 
-The provisions of this Reorganization Plan shall become effective at such time or times, on or before April 1, 1979, as the President shall specify, but not sooner than the earliest time allowable under Section 906 of Title 5, United States Code.
+The provisions of this Reorganization Plan shall become effective at such time or times, on or before April1, 1979, as the President shall specify, but not sooner than the earliest time allowable under Section 906 of Title 5, United States Code.
 
 \[Pursuant to Ex. Ord. 12127, Mar. 31, 1979, 44 F.R. 19367, this Reorg. Plan is effective Apr. 1, 1979\]
 
@@ -286,11 +292,11 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 1–103. (a) The functions transferred from the Department of Commerce are those vested in the Secretary of Commerce, the Administrator and Deputy Administrator of the National Fire Prevention and Control Administration (now the United States Fire Administration (Sec. 2(a) of Public Law 95–422)), and the Superintendent of the National Academy for Fire Prevention and Control pursuant to the Federal Fire Prevention and Control Act of 1974, as amended (15 U.S.C. 2201 et seq.) \[this chapter\] but not including any functions vested by the amendments made to other acts by Sections 18 and 23 of that Act (15 U.S.C. 278f and 1511). The functions vested in the Administrator by Sections 24 and 25 of that Act, as added by Sections 3 and 4 of Public Law 95–422 (15 U.S.C. 2220 and 2221), are not transferred to the Director of the Federal Emergency Management Agency. Those functions are transferred with the Administrator and remain vested in him. (Section 201 of the Plan.)
 
-(b) There was also transferred from the Department of Commerce any function concerning the Emergency Broadcast System which was transferred to the Secretary of Commerce by Section 5B of Reorganization Plan No. 1 of 1977 (42 FR 56101; implemented by Executive Order No. 12046 of March 27, 1978) \[set out in Title 5, Appendix, Government Organization and Employees; set out as a note under section 305 of Title 47, Telegraphs, Telephones, and Radiotelegraphs\]. (Section 203 of the Plan.)
+(b) There was also transferred from the Department of Commerce any function concerning the Emergency Broadcast System which was transferred to the Secretary of Commerce by Section 5B of Reorganization Plan No. 1 of 1977 (42 FR 56101; implemented by Executive Order No. 12046 of March 27, 1978) \[set out in Title 5, Appendix, Government Organization and Employees; set out as a note under section 305 of Title 47, Telecommunications\]. (Section 203 of the Plan.)
 
 1–104. The functions transferred from the Department of Housing and Urban Development are those vested in the Secretary of Housing and Urban Development pursuant to Section 15(e) of the Federal Flood Insurance Act of 1956, as amended (42 U.S.C. 2414(e)), and the National Flood Insurance Act of 1968, as amended \[42 U.S.C. 4001 et seq.\] and the Flood Disaster Protection Act of 1973, as amended (42 U.S.C. 4001 et seq.), and Section 520(b) of the National Housing Act, as amended (12 U.S.C. 1735d(b)), to the extent necessary to borrow from the Treasury to make payments for reinsured and directly insured losses, and Title XII of the National Housing Act, as amended (\[formerly\] 12 U.S.C. 1749bbb et seq., and as explained in Section 1 of the National Insurance Development Act of 1975 (Section 1 of Public Law 94–13 \[formerly\] at 12 U.S.C. 1749bbb note)). (Section 202 of the Plan.)
 
-1–105. The functions transferred from the President are those concerning the Emergency Broadcast System which were transferred to the President by Section 5 of Reorganization Plan No. 1 of 1977 (42 FR 56101; implemented by Executive Order No. 12046 of March 27, 1978) \[set out in Title 5, Appendix, Government Organization and Employees; set out as a note under section 305 of Title 47, Telegraphs, Telephones, and Radiotelegraphs\]. (Section 203 of the Plan.)
+1–105. The functions transferred from the President are those concerning the Emergency Broadcast System which were transferred to the President by Section 5 of Reorganization Plan No. 1 of 1977 (42 FR 56101; implemented by Executive Order No. 12046 of March 27, 1978) \[set out in Title 5, Appendix, Government Organization and Employees; set out as a note under section 305 of Title 47, Telecommunications\]. (Section 203 of the Plan.)
 
 1–106. This Order shall be effective Sunday, April 1, 1979.
 

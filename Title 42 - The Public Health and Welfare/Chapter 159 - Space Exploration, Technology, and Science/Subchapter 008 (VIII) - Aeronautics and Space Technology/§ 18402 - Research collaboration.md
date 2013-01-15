@@ -6,7 +6,7 @@ The Administrator shall continue to coordinate with the Secretary of Defense, th
 
 #### (b) Federal Aviation Administration
 
-The Administrator shall continue to coordinate with, and work closely with, the Administrator of the Federal Aviation Administration, under the framework of the Senior Policy Council, in development of the Next Generation Air Transportation Program. The Administrator shall encourage the Council to explore areas forgreater collaboration, including areas where NASA can help to accelerate the development and demonstration of NextGen technologies.
+The Administrator shall continue to coordinate with, and work closely with, the Administrator of the Federal Aviation Administration, under the framework of the Senior Policy Council, in development of the Next Generation Air Transportation Program. The Administrator shall encourage the Council to explore areas for greater collaboration, including areas where NASA can help to accelerate the development and demonstration of NextGen technologies.
 
 (Pub. L. 111–267, title IX, §903, Oct. 11, 2010, 124 Stat. 2835.)
 

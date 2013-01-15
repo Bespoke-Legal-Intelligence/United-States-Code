@@ -8,11 +8,11 @@
 
 (d) The Secretary may require, as a condition of a detail under subsection (a), that an enlisted member accept a discharge and be reenlisted in his component for at least three years.
 
-(e) The total length of details of an enlisted member of the Air Force under subsection (a) during one enlistment period may not exceed 50 percent of that enlistment.
+(e) The total length of details of an enlisted member of the Air Force under subsection (a)during one enlistment period may not exceed 50 percent of that enlistment.
 
 (f) At no time may more than 8 percent of the authorized strength in commissioned officers, 8 percent of the authorized strength in warrant officers, or 2 percent of the authorized strength in enlisted members, of the Regular Air Force, or more than 8 percent of the actual strength in commissioned officers, 8 percent of the actual strength in warrant officers, or 2 percent of the actual strength in enlisted members, of the total of reserve components of the Air Force, be detailed as students under subsection (a). For the purposes of this subsection, the actual strength of each category of Reserves includes both members on active duty and those not on active duty.
 
-(g) Expenses incident to the detail of members under this section shall be paid from any fundsappropriated for the Department of the Air Force.
+(g) Expenses incident to the detail of members under this section shall be paid from any funds appropriated for the Department of the Air Force.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 559; Pub. L. 93–169, Nov. 29, 1973, 87 Stat. 689; Pub. L. 96–513, title V, §504(23), Dec. 12, 1980, 94 Stat. 2917; Pub. L. 100–456, div. A, title XII, §1234(a)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 109–163, div. A, title X, §1057(a)(9), Jan. 6, 2006, 119 Stat. 3441.)
 

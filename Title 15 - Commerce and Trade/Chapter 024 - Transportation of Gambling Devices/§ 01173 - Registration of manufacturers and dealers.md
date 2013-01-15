@@ -32,7 +32,7 @@
 
 &emsp;(B) in the case of each such gambling device defined in paragraph (a)(3) of section 1171 of this title, the information required to be affixed on such gambling device by subsection (b)(2) of this section, or, if such gambling device does not have affixed on it any such information, its catalog listing, description, and, in the case of each such device owned or possessed by him or in his custody, its location.
 
-> Such record shall also show (i) in the case of any such gambling device described in paragraph (1)(A) of this subsection, the name and address of the person from whom such device was purchased or acquired and the name and address of the carrier; and (ii) in the case of any such gambling device described in paragraph (1)(C) of thissubsection, the name and address of the buyer and consignee thereof and the name and address of the carrier.
+> Such record shall also show (i) in the case of any such gambling device described in paragraph (1)(A) of this subsection, the name and address of the person from whom such device was purchased or acquired and the name and address of the carrier; and (ii) in the case of any such gambling device described in paragraph (1)(C) of this subsection, the name and address of the buyer and consignee thereof and the name and address of the carrier.
 
 #### (d) Retention of records
 

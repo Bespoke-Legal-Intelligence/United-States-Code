@@ -26,7 +26,7 @@ Notwithstanding subsection (a) of this section, in providing farmer program loan
 
 #### (3) Condition of certification
 
-&emsp;As a condition of the certification, the Secretary shall require the institution to undertake to service the loans guaranteed by the Secretary under this subsection, using standards that are not less stringent than generally accepted banking standards concerning loan servicing employed by prudent commercial or cooperative lenders. The Secretary shall, at least annually, monitor the performance ofeach certified lender to ensure that the conditions of the certification are being met.
+&emsp;As a condition of the certification, the Secretary shall require the institution to undertake to service the loans guaranteed by the Secretary under this subsection, using standards that are not less stringent than generally accepted banking standards concerning loan servicing employed by prudent commercial or cooperative lenders. The Secretary shall, at least annually, monitor the performance of each certified lender to ensure that the conditions of the certification are being met.
 
 #### (4) Effect of certification
 
@@ -98,7 +98,7 @@ For definition of “this chapter”, referred to in text, see note set out unde
 
 #### Regulations
 
-Section 23 of Pub. L. 102–554 provided that:
+Pub. L. 102–554, §23, Oct. 28, 1992, 106 Stat. 4161, provided that:
 
 “(a)
 
@@ -124,5 +124,5 @@ Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 429, provided in part that:
 
 #### Coordinated Financial Statements; Use of Submission Requirement Prohibited
 
-Pub. L. 99–198, title XIII, §1325, Dec. 23, 1985, 99 Stat. 1540, provided that: “The Secretary of Agriculture shall not use or require the submission of the coordinated financial statement referred to in the proposed regulations of the Farmers Home Administration published in the Federal Register of November 8, 1983 (48 F.R. 51312–51317) in connection with an application submitted on or after the date of the enactment of this Act \[Dec. 23, 1985\] for any loan under any program of the Department of Agriculture carried out by the Farmers Home Administration.”
+Pub. L. 99–198, title XIII, §1325, Dec. 23, 1985, 99 Stat. 1540, provided that: “The Secretary of Agriculture shallnot use or require the submission of the coordinated financial statement referred to in the proposed regulations of the Farmers Home Administration published in the Federal Register of November 8, 1983 (48 F.R. 51312–51317) in connection with an application submitted on or after the date of the enactment of this Act \[Dec. 23, 1985\] for any loan under any program of the Department of Agriculture carried out by the Farmers Home Administration.”
 

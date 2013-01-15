@@ -18,7 +18,7 @@ The plan shall provide for the establishment by the Secretary of the National Wa
 
 #### (c) Membership of Board; representation of interests; appointment; nomination; eligibility of producers; importer representation
 
-(1) The plan shall provide that the Board shall be composed of representatives of producers andhandlers, and one representative of the public, appointed by the Secretary from nominations submitted in accordance with this subsection. An equal number of representatives of producers and handlers shall be nominated by producers and handlers, and the representative of the public shall be nominated by the other members of the Board, in such manner as may be prescribed by the Secretary. If producers and handlers fail to select nominees for appointment to the Board, the Secretary may appoint persons on the basis of representation as provided for in the plan. If the Board fails to nominate a public representative, the Secretary shall choose such representative for appointment.
+(1) The plan shall provide that the Board shall be composed of representatives of producers and handlers, and one representative of the public, appointed by the Secretary from nominations submitted in accordance with this subsection. An equal number of representatives of producers and handlers shall be nominated by producers and handlers, and the representative of the public shall be nominated by the other members of the Board, in such manner as may be prescribed by the Secretary. If producers and handlers fail to select nominees for appointment to the Board, the Secretary may appoint persons on the basis of representation as provided for in the plan. If the Board fails to nominate a public representative, the Secretary shall choose such representative for appointment.
 
 (2) A producer shall be eligible to serve on the Board only as a representative of handlers, and not as a representative of producers, if—
 
@@ -76,13 +76,13 @@ The plan shall provide that the Board, subject to the provisions of subsections 
 
 #### (j) Contract authority
 
-The plan shall provide the Board with authority to enter into contracts or agreements, with the approval of the Secretary, for the development and carrying out of research, development, advertising, or promotion programs or projects, and the payment of the cost thereof with funds collected under this chapter.
+The plan shall provide the Board with authority to enter into contracts or agreements, withthe approval of the Secretary, for the development and carrying out of research, development, advertising, or promotion programs or projects, and the payment of the cost thereof with funds collected under this chapter.
 
 #### (k) Recordkeeping; accounting and audit reports
 
 The plan shall provide that the Board shall (1) maintain books and records, (2) prepare and submit to the Secretary such reports from time to time as may be prescribed for appropriate accounting with respect to the receipt and disbursement of funds entrusted to it, and (3) cause a complete audit report to be submitted to the Secretary at the end of each fiscal period.
 
-#### (<i>l</i>) Certification
+#### (l) Certification
 
 The plan shall provide that the Board shall have the authority to establish rules for certifying whether a person meets the definition of a producer under section 4902(5) of this title.
 
@@ -108,7 +108,7 @@ Subsec. (g)(5). Pub. L. 103–189, §8(e)(2), added par. (5).
 
 Subsec. (h). Pub. L. 103–189, §§7, 8(f), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), the” for “The”, inserted “(or importer who is subject to the plan)” after “or handler” the first two places appearing, substituted “, handler, or importer paid the assessment” for “or handler paid the assessment”, and added pars. (2) and (3).
 
-Subsec. (<i>l</i>). Pub. L. 103–189, §9(b), added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 103–189, §9(b), added subsec. (l).
 
 <i><sup>1</sup></i><i> So in original.</i>
 

@@ -26,7 +26,11 @@ General Definitions.—In this chapter—
 
 &emsp;&emsp;(B) any similar part or component manufactured or sold for replacement or improvement of a system, part, or component, or as an accessory or addition to a motor vehicle; or
 
-&emsp;&emsp;(C) any device or an article or apparel (except medicine or eyeglasses prescribed by a licensed practitioner) that is not a system, part, or component of a motor vehicle and is manufactured, sold, delivered, offered, or intended to be used only to safeguard motor vehicles and highway users against risk of accident, injury, or death.
+&emsp;&emsp;(C) any device or an article or apparel, including a motorcycle helmet and excluding medicine or eyeglasses prescribed by a licensed practitioner, that—
+
+&emsp;&emsp;&emsp;(i) is not a system, part, or component of a motor vehicle; and
+
+&emsp;&emsp;&emsp;(ii) is manufactured, sold, delivered, or offered to be sold for use on public streets, roads, and highways with the apparent purpose of safeguarding users of motor vehicles against risk of accident, injury, or death.
 
 &emsp;(8) “motor vehicle safety” means the performance of a motor vehicle or motor vehicle equipment in a way that protects the public against unreasonable risk of accidents occurring because of the design, construction, or performance of a motor vehicle, and against unreasonable risk of death or injury in an accident, and includes nonoperational safety of a motor vehicle.
 
@@ -58,7 +62,7 @@ Limited Definitions.—(1) In sections 30117(b), 30118–30121, and 30166(f) of 
 
 (2) The Secretary of Transportation may prescribe regulations changing paragraph (1)(C), (D), (F), or (G) of this subsection.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 941.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 941; Pub. L. 112–141, div. C, title I, §31201, July 6, 2012, 126 Stat. 757.)
 
 Historical and Revision Notes
 
@@ -141,6 +145,14 @@ In subsection (a), the definitions apply to the entire chapter because of refere
 In subsection (b)(1), before clause (A), the words “The term” and “the term” are omitted as surplus. In clause (B), the words “of a motor vehicle or motor vehicle equipment” are added for clarity. In clause (E), the words “to be” are added for consistency. The words “marketed under such brand name” are omitted as surplus. In clause (F), the words “a motor vehicle safety standard prescribed under this chapter” are added for clarity and consistency. The word “noncompliance” is substituted for “failure to comply” for consistency in the chapter. In clause (G), the words “(rather than the manufacturer of such equipment)” are omitted as surplus. The words “deemed to be” are substituted for “considered” for consistency. In clause (H), the words “which have been” are omitted as surplus.
 
 Subsection (b)(2) is substituted for “Except as otherwise provided in regulations of the Secretary” for clarity and because of the restatement.
+
+#### Amendments
+
+<b>2012</b>—Subsec. (a)(7)(C). Pub. L. 112–141 amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “any device or an article or apparel (except medicine or eyeglasses prescribed by a licensed practitioner) that is not a system, part, or component of a motor vehicle and is manufactured, sold, delivered, offered, or intended to be used only to safeguard motor vehicles and highway users against risk of accident, injury, or death.”
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
 
 #### Low-Speed Electric Bicycles
 

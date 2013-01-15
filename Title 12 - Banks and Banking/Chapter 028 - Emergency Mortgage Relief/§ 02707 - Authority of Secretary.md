@@ -16,17 +16,15 @@ In the performance of, with respect to, the functions, powers, and duties vested
 
 &emsp;(2) have the power to foreclose on any property or commence any action to protect or enforce any right conferred upon the Secretary by law, contract, or other agreement, and bid for and purchase at any foreclosure or other sale any property in connection with which assistance has been provided pursuant to this chapter. In the event of any such acquisition, the Secretary may, notwithstanding any other provision of law relating to the acquisition, handling, or disposal of real property by the United States, complete, remodel and convert, dispose of, lease, and otherwise deal with, such property. Notwithstanding any other provision of law, the Secretary also shall have power to pursue to final collection by way of compromise or otherwise all claims acquired by him in connection with any security, subrogation, or other rights obtained by him in administering this chapter.
 
+#### (d) Coverage of existing programs
+
+The Secretary shall allow funds to be administered by a State that has an existing program that is determined by the Secretary to provide substantially similar assistance to homeowners. After such determination is made such State shall not be required to modify such program to comply with the provisions of this chapter.
+
 (Pub. L. 94–50, title I, §108, July 2, 1975, 89 Stat. 252; Pub. L. 111–203, title XIV, §1496(b)(5), July 21, 2010, 124 Stat. 2208.)
 
-#### Amendment of Section
+#### Amendments
 
-<i>Pub. L. 111–203, title XIV, §§1400(c), 1496(b)(5), July 21, 2010, 124 Stat. 2136, 2208, provided that this section is amended, effective on the date on which final regulations implementing such amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, by adding at the end the following:</i>
-
-#### <i>“(d) Coverage of existing programs</i>
-
-<i>“The Secretary shall allow funds to be administered by a State that has an existing program that is determined by the Secretary to provide substantially similar assistance to homeowners. After such determination is made such State shall not be required to modify such program to comply with the provisions of this chapter.”</i>
-
-<i>See Effective Date of 2010 Amendment note below.</i>
+<b>2010</b>—Pub. L. 111–203 added subsec. (d).
 
 #### Effective Date of 2010 Amendment
 

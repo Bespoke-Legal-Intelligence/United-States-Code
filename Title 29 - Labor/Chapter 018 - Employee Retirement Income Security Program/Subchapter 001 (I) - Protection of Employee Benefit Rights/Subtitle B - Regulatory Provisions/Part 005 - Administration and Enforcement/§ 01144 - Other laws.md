@@ -2,7 +2,7 @@
 
 #### (a) Supersedure; effective date
 
-Except as provided in subsection (b) of this section, the provisions of this subchapter andsubchapter III of this chapter shall supersede any and all State laws insofar as they may now or hereafter relate to any employee benefit plan described in section 1003(a) of this title and not exempt under section 1003(b) of this title. This section shall take effect on January 1, 1975.
+Except as provided in subsection (b) of this section, the provisions of this subchapter and subchapter III of this chapter shall supersede any and all State laws insofar as they may now or hereafter relate to any employee benefit plan described in section 1003(a) of this title and not exempt under section 1003(b) of this title. This section shall take effect on January 1, 1975.
 
 #### (b) Construction and application
 
@@ -24,7 +24,7 @@ Except as provided in subsection (b) of this section, the provisions of this sub
 
 &emsp;(ii) any amendment of the Hawaii Prepaid Health Care Act enacted after September 2, 1974, to the extent it provides for more than the effective administration of such Act as in effect on such date.
 
-(C) Notwithstanding subparagraph (A), parts 1 and 4 of this subtitle, and the preceding sections of this part to the extent they govern matters which are governed by the provisions of such parts 1 and 4, shall supersede the Hawaii Prepaid Health Care Act (as in effect on or after January 14, 1983), but the Secretary may enter into cooperative arrangements under this paragraph and section 1136 of this title with officials of the State of Hawaii to assist them in effectuating the policies of provisions of such Act which are superseded by such parts 1 and 4 and the preceding sections of this part.
+(C) Notwithstanding subparagraph (A), parts 1 and 4 of this subtitle, and the preceding sections of this part to the extent they govern matters which are governed by the provisions of such parts 1 and 4, shall supersede the Hawaii Prepaid Health Care Act (as in effect on or after January 14, 1983), but the Secretary may enter into cooperative arrangements under this paragraph and section 1136 of this title with officials of theState of Hawaii to assist them in effectuating the policies of provisions of such Act which are superseded by such parts 1 and 4 and the preceding sections of this part.
 
 (6)(A) Notwithstanding any other provision of this section—
 
@@ -48,7 +48,7 @@ Except as provided in subsection (b) of this section, the provisions of this sub
 
 &emsp;(A) with respect to which the State exercises its acquired rights under section 1169(b)(3) of this title with respect to a group health plan (as defined in section 1167(1) of this title), or
 
-&emsp;(B) for recoupment of payment with respect to items or services pursuant to a State plan for medical assistance approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] which would not have been payable if such acquired rights had been executed beforepayment with respect to such items or services by the group health plan.
+&emsp;(B) for recoupment of payment with respect to items or services pursuant to a State plan for medical assistance approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] which would not have been payable if such acquired rights had been executed before payment with respect to such items or services by the group health plan.
 
 (9) For additional provisions relating to group health plans, see section 1191 of this title.
 
@@ -114,7 +114,7 @@ Subsec. (b)(8). Pub. L. 103–66, §4301(c)(4)(B), added par. (8) and struck out
 
 <b>1989</b>—Subsec. (b)(5)(C). Pub. L. 101–239, §7894(f)(2)(A), substituted “by such parts 1 and 4 and the preceding sections of this part” for “by such parts”.
 
-Subsec. (b)(6)(B). Pub. L. 101–239, §7894(f)(3)(A), substituted “section 1002(1)” for “section 1002(<i>l</i>)”.
+Subsec. (b)(6)(B). Pub. L. 101–239, §7894(f)(3)(A), substituted “section 1002(1)” for “section 1002(l)”.
 
 <b>1986</b>—Subsec. (b)(8). Pub. L. 99–272 added par. (8).
 
@@ -136,13 +136,13 @@ Amendment by Pub. L. 104–191 applicable with respect to group health plans for
 
 #### Effective Date of 1989 Amendment
 
-Section 7894(f)(2)(B) of Pub. L. 101–239 provided that: “The amendment made by this paragraph \[amending this section\] shall take effect as if included in section 301 of Public Law 97–473.”
+Pub. L. 101–239, title VII, §7894(f)(2)(B), Dec. 19, 1989, 103 Stat. 2451, provided that: “The amendment made by this paragraph \[amending this section\] shall take effect as if included in section 301 of Public Law 97–473.”
 
-Section 7894(f)(3)(B) of Pub. L. 101–239 provided that: “The amendments made by this paragraph \[amending this section\] shall take effect as if included in section 302 of Public Law 97–473.”
+Pub. L. 101–239, title VII, §7894(f)(3)(B), Dec. 19, 1989, 103 Stat. 2451, provided that: “The amendments made by this paragraph \[amending this section\] shall take effect as if included in section 302 of Public Law 97–473.”
 
 #### Effective Date of 1986 Amendment
 
-Section 9503(d)(2) of Pub. L. 99–272 provided that:
+Pub. L. 99–272, title IX, §9503(d)(2), Apr. 7, 1986, 100 Stat. 207, provided that:
 
 “(2)(A) Except as provided in subparagraph (B), the amendment made by paragraph (1) \[amending this section\] shall become effective on October 1, 1986.
 
@@ -158,11 +158,11 @@ Section 9503(d)(2) of Pub. L. 99–272 provided that:
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–397 effective Jan. 1, 1985, except as otherwise provided, see section 303(d) of Pub. L. 98–397, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 98–397 effective Jan. 1, 1985, except as otherwise provided, see section 303(d) of Pub.L. 98–397, set out as a note under section 1001 of this title.
 
 #### Effective Date of 1983 Amendment
 
-Section 301(c) of Pub. L. 97–473 provided that: “The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Jan. 14, 1983\].”
+Pub. L. 97–473, title III, §301(c), Jan. 14, 1983, 96 Stat. 2612, provided that: “The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Jan. 14, 1983\].”
 
 Amendment by section 302(b) of Pub. L. 97–473 effective Jan. 14, 1983, see section 302(c) of Pub. L. 97–473, set out as a note under section 1002 of this title.
 
@@ -176,5 +176,5 @@ For provisions setting forth circumstances under which any amendment to a plan r
 
 #### Treatment of Other State Laws
 
-Section 301(b) of Pub. L. 97–473 provided that: “The amendment made by this section \[amending this section\] shall not be considered a precedent with respect to extending such amendment to any other State law.”
+Pub. L. 97–473, title III, §301(b), Jan. 14, 1983, 96 Stat. 2612, provided that: “The amendment made by this section \[amending this section\] shall not be considered a precedent with respect to extending such amendment to any other State law.”
 

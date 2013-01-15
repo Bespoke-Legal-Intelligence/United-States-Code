@@ -6,7 +6,7 @@ The Corporation may approve of any of the following service positions as an appr
 
 &emsp;(2) A position for a participant in a program that—
 
-&emsp;&emsp;(A) is carried out by a State, a subdivision of a State, a territory, an Indian tribe, apublic or private nonprofit organization, an institution of higher education, or a Federal agency (under an interagency agreement described in section 12571(b) of this title); and
+&emsp;&emsp;(A) is carried out by a State, a subdivision of a State, a territory, an Indian tribe, a public or private nonprofit organization, an institution of higher education, or a Federal agency (under an interagency agreement described in section 12571(b) of this title); and
 
 &emsp;&emsp;(B) would be eligible to receive assistance under section 12571(a) of this title, based on criteria established by the Corporation, but has not applied for such assistance.
 

@@ -2,7 +2,7 @@
 
 Notwithstanding any authorization for appropriations for the Cooperative Extension Service in any Act enacted prior to September 29, 1977, there are hereby authorized to be appropriated for the purposes of carrying out the extension programs of the Department of Agriculture such sums as may be necessary for each of fiscal years 1991 through 2012.
 
-(Pub. L. 95–113, title XIV, §1464, Sept. 29, 1977, 91 Stat. 1018; Pub. L. 97–98, title XIV, §1438, Dec. 22, 1981, 95 Stat. 1314; Pub. L. 99–198, title XIV, §1423, Dec. 23, 1985, 99 Stat. 1552; Pub. L. 101–624, title XVI, §1601(b)(4), Nov. 28, 1990, 104 Stat. 3703; Pub. L. 104–127, title VIII, §818, Apr. 4, 1996, 110 Stat. 1167; Pub. L. 105–185, title III, §301(a)(13), June 23, 1998, 112 Stat. 562; Pub. L. 107–171, title VII, §7114, May 13, 2002, 116 Stat. 433; Pub. L. 110–234, title VII, §7135, May 22, 2008, 122 Stat. 1228; Pub. L. 110–246, §4(a), title VII, §7135, June 18, 2008, 122 Stat. 1664, 1990.)
+(Pub. L. 95–113, title XIV, §1464, Sept. 29, 1977, 91 Stat. 1018; Pub. L. 97–98, title XIV, §1438, Dec. 22, 1981, 95 Stat. 1314; Pub. L. 99–198, title XIV, §1423, Dec. 23, 1985, 99 Stat. 1552; Pub. L. 101–624,title XVI, §1601(b)(4), Nov. 28, 1990, 104 Stat. 3703; Pub. L. 104–127, title VIII, §818, Apr. 4, 1996, 110 Stat. 1167; Pub. L. 105–185, title III, §301(a)(13), June 23, 1998, 112 Stat. 562; Pub. L. 107–171, title VII, §7114, May 13, 2002, 116 Stat. 433; Pub. L. 110–234, title VII, §7135, May 22, 2008, 122 Stat. 1228; Pub. L. 110–246, §4(a), title VII, §7135, June 18, 2008, 122 Stat. 1664, 1990.)
 
 #### Codification
 
@@ -30,7 +30,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 #### Effective Date of 1985 Amendment
 
-Section 1423 of Pub. L. 99–198 provided that the amendment made by that section is effective Oct. 1, 1985.
+Pub. L. 99–198, title XIV, §1423, Dec. 23, 1985, 99 Stat. 1552, provided that the amendment made by section 1423 is effective Oct. 1, 1985.
 
 #### Effective Date of 1981 Amendment
 

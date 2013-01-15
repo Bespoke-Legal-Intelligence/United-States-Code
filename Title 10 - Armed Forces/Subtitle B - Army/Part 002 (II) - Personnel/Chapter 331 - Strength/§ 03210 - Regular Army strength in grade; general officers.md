@@ -12,7 +12,7 @@
 
 (c) When the application of the percentages and ratios specified in this section results in a fraction, a fraction of one-half or more is counted as one, and a fraction of less than one-half is disregarded.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 174; Pub. L. 85–861, §1(66), Sept. 2, 1958, 72 Stat. 1463; Pub. L.89–603, §1(2), Sept. 24, 1966, 80 Stat. 846; Pub. L. 90–329, June 4, 1968, 82 Stat. 170; Pub. L. 96–513, title V, §502(5), Dec. 12, 1980, 94 Stat. 2909; Pub. L. 97–22, §5(b), July 10, 1981, 95 Stat. 128; Pub. L. 102–190, div. A, title X, §1061(a)(20)(A), Dec. 5, 1991, 105 Stat. 1473.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 174; Pub. L. 85–861, §1(66), Sept. 2, 1958, 72 Stat. 1463; Pub. L. 89–603, §1(2), Sept. 24, 1966, 80 Stat. 846; Pub. L. 90–329, June 4, 1968, 82 Stat. 170; Pub. L. 96–513, title V, §502(5), Dec. 12, 1980, 94 Stat. 2909; Pub. L. 97–22, §5(b), July 10, 1981, 95 Stat. 128; Pub. L. 102–190, div. A, title X, §1061(a)(20)(A), Dec. 5, 1991, 105 Stat. 1473.)
 
 Historical and Revision Notes<br>1956
 
@@ -88,7 +88,7 @@ After the enactment of the Officer Personnel Act of 1947, section 308 of the Arm
 
 The revised section reflects the authorized strength of the Regular Army in general officers on the active list resulting from the mentioned allocation to the Air Force and the addition of four general officer spaces in the Judge Advocate General's Corps.
 
-That allocation, and those mentioned in the explanation of \[former\] subsection (c), below, have had the force of law since July 26, 1950, when the period for transfers, including the administrative authority to change these allocations, expired.
+That allocation, and those mentioned in the explanation of \[former\] subsection (c), below, have had theforce of law since July 26, 1950, when the period for transfers, including the administrative authority to change these allocations, expired.
 
 The word “regular” is substituted for the word “permanent” throughout the revised section.
 

@@ -14,7 +14,7 @@ Volunteers serving under this part shall be required to make a full-time persona
 
 #### (c) Oath or affirmation
 
-Volunteers under this part shall, upon enrollment, take the oath of office as prescribed for persons appointed to any office of honor or profit by section 3331 of title 5, and shall swear (or affirm) that the volunteer does not advocate the overthrow of the constitutional form of government of the United States and that the volunteer is not a member of an organization that advocates the overthrow of the constitutional form of government of the United States, knowing that such organization so advocates, except that persons legally residing within a State but who are not citizens or nationals of the United States, may serve under this part without taking or subscribing to such oath, if the Director determines that the service of such persons will further the interests of the United States. Such persons shall take such alternative oath or affirmation as the Director shall deem appropriate.
+Volunteers under this part shall, upon enrollment, take the oath of office as prescribed forpersons appointed to any office of honor or profit by section 3331 of title 5, and shall swear (or affirm) that the volunteer does not advocate the overthrow of the constitutional form of government of the United States and that the volunteer is not a member of an organization that advocates the overthrow of the constitutional form of government of the United States, knowing that such organization so advocates, except that persons legally residing within a State but who are not citizens or nationals of the United States, may serve under this part without taking or subscribing to such oath, if the Director determines that the service of such persons will further the interests of the United States. Such persons shall take such alternative oath or affirmation as the Director shall deem appropriate.
 
 #### (d) Grievance and personal view presentation procedure; notice and hearing; information
 
@@ -28,7 +28,7 @@ The Director shall establish a procedure, including notice and opportunity to be
 
 (3) The limitation on funds appropriated for grants and contracts, as contained in section 4958 of this title, shall not apply to the summer program.
 
-(Pub. L. 93–113, title I, §104, Oct. 1, 1973, 87 Stat. 397; Pub. L. 98–288, §5, May 21, 1984, 98 Stat. 190;Pub. L. 101–204, title VII, §702, Dec. 7, 1989, 103 Stat. 1821; Pub. L. 103–82, title III, §324, Sept. 21, 1993, 107 Stat. 900.)
+(Pub. L. 93–113, title I, §104, Oct. 1, 1973, 87 Stat. 397; Pub. L. 98–288, §5, May 21, 1984, 98 Stat. 190; Pub. L. 101–204, title VII, §702, Dec. 7, 1989, 103 Stat. 1821; Pub. L. 103–82, title III, §324, Sept. 21, 1993, 107 Stat. 900.)
 
 #### References in Text
 
@@ -50,7 +50,7 @@ Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 392 of Pub. L.
 
 #### Temporary Authority for Extensions of Period of Service
 
-Section 101(c) of Pub. L. 101–204, as amended by Pub. L. 103–82, title IV, §405(h), Sept. 21, 1993, 107 Stat. 921, provided that:
+Pub. L. 101–204, title I, §101(c), Dec. 7, 1989, 103 Stat. 1810, as amended by Pub. L. 103–82, title IV, §405(h), Sept. 21, 1993, 107 Stat. 921, provided that:
 
 “(1)
 

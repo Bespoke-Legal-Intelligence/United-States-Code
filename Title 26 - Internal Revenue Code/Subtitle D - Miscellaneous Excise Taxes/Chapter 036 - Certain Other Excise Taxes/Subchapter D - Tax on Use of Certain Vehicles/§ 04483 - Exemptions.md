@@ -66,7 +66,7 @@ Under regulations prescribed by the Secretary, no tax shall be imposed by sectio
 
 #### (A) In general
 
-&emsp;&emsp;In the case of an agricultural vehicle, paragraphs (1) and (2) shall be applied bysubstituting “7,500” for “5,000” each place it appears.
+&emsp;&emsp;In the case of an agricultural vehicle, paragraphs (1) and (2) shall be applied by substituting “7,500” for “5,000” each place it appears.
 
 #### (B) Definitions
 
@@ -126,15 +126,21 @@ No tax shall be imposed by section 4481 on the use of any vehicle described in s
 
 #### (i) Termination of exemptions
 
-Subsections (a) and (c) shall not apply on and after April 1, 2012.
+Subsections (a) and (c) shall not apply on and after October 1, 2017.
 
-(Added June 29, 1956, ch. 462, title II, §206(a), 70 Stat. 391; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), (B), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–618, title II, §233(a)(3)(C), Nov. 9, 1978, 92 Stat. 3191; Pub. L. 97–424, title V, §§513(b), 516(b)(3), Jan. 6, 1983, 96 Stat. 2177, 2183; Pub. L. 98–369, div. A, title IX, §§902(a), 903(a), July 18, 1984, 98 Stat. 1004; Pub. L. 100–17, title V, §§502(b)(5), 507(b), Apr. 2, 1987, 101 Stat. 257, 260; Pub. L. 101–508, title XI, §11211(d)(4), Nov. 5, 1990, 104 Stat. 1388–427; Pub. L. 102–240, title VIII, §8002(b)(4), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 105–178, title IX, §9002(b)(2), June 9, 1998, 112 Stat. 500; Pub. L. 108–357, title VIII, §§851(b)(1), 867(d), Oct. 22, 2004, 118 Stat. 1607, 1622; Pub. L. 109–14, §9(c)(4), May 31, 2005, 119 Stat. 336; Pub. L. 109–59, title XI, §11101(b)(2), Aug. 10, 2005, 119 Stat. 1944; Pub. L. 109–280, title XII, §1207(d), Aug. 17, 2006, 120 Stat. 1070; Pub. L. 112–30, title I, §142(d), Sept. 16, 2011, 125 Stat. 356.)
+(Added June 29, 1956, ch. 462, title II, §206(a), 70 Stat. 391; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), (B), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–618, title II, §233(a)(3)(C), Nov. 9, 1978, 92 Stat. 3191; Pub. L. 97–424, title V, §§513(b), 516(b)(3), Jan. 6, 1983, 96 Stat. 2177, 2183; Pub. L. 98–369, div. A, title IX, §§902(a), 903(a), July 18, 1984, 98 Stat. 1004; Pub. L. 100–17, title V, §§502(b)(5), 507(b), Apr. 2, 1987, 101 Stat. 257, 260; Pub. L. 101–508, title XI, §11211(d)(4), Nov. 5, 1990, 104 Stat. 1388–427; Pub. L. 102–240, title VIII, §8002(b)(4), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 105–178, title IX, §9002(b)(2), June 9, 1998, 112 Stat. 500; Pub. L. 108–357, title VIII, §§851(b)(1), 867(d), Oct. 22, 2004, 118 Stat. 1607, 1622; Pub. L. 109–14, §9(c)(4), May 31, 2005, 119 Stat. 336; Pub. L. 109–59, title XI, §11101(b)(2), Aug. 10, 2005, 119 Stat. 1944; Pub. L. 109–280, title XII, §1207(d), Aug. 17, 2006, 120 Stat. 1070; Pub. L. 112–30, title I, §142(d), Sept. 16, 2011, 125 Stat. 356; Pub. L. 112–102, title IV, §402(d), Mar. 30, 2012, 126 Stat. 282; Pub. L. 112–140, title IV, §402(c), June 29, 2012, 126 Stat. 403; Pub. L. 112–141, div. D, title I, §40102(d)(2), July 6, 2012, 126 Stat. 845.)
 
 #### References in Text
 
 The date of the enactment of the Energy Tax Act of 1978, referred to in subsec. (c), is the date of enactment of Pub. L. 95–618, which was approved Nov. 9, 1978.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (i). Pub. L. 112–141 substituted “October 1, 2017” for “July 1, 2012”.
+
+Pub. L. 112–140, §§1(c), 402(c), temporarily substituted “July 7, 2012” for “July 1, 2012”. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102 substituted “July 1, 2012” for “April 1, 2012”.
 
 <b>2011</b>—Subsec. (i). Pub. L. 112–30 substituted “April 1, 2012” for “October 1, 2011”.
 
@@ -174,9 +180,19 @@ Subsec. (e). Pub. L. 97–424, §516(b)(3), added subsec. (e).
 
 Subsec. (b). Pub. L. 94–455, §1906(b)(13)(B), inserted “of the Treasury” after “Secretary”.
 
+#### Effective and Termination Dates of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective July 1, 2012, see section 40102(f) of Pub. L. 112–141, set out as a note under section 460l–11 of Title 16, Conservation.
+
+Amendment by Pub. L. 112–140 to cease to be effective on July 6, 2012, with text as amended by Pub. L. 112–140 to revert back to read as it did on the day before June 29, 2012, and amendments by Pub. L. 112–141 to be executed as if Pub. L. 112–140 had not been enacted, see section 1(c) of Pub. L. 112–140, set out as a note under section 101 of Title 23, Highways.
+
+Amendment by Pub. L. 112–140 effective July 1, 2012, see section 402(f)(1) of Pub. L. 112–140, set out as a note under section 460l–11 of Title 16, Conservation.
+
+Amendment by Pub. L. 112–102 effective Apr. 1, 2012, see section 402(f) of Pub. L. 112–102, set out as a note under section 460l–11 of Title 16, Conservation.
+
 #### Effective Date of 2011 Amendment
 
-Amendment by Pub. L. 112–30 effective Oct. 1, 2011, see section 142(f) of Pub. L. 112–30, set out as a note under section 460<i>l</i>–11 of Title 16, Conservation.
+Amendment by Pub. L. 112–30 effective Oct. 1, 2011, see section 142(f) of Pub. L. 112–30, set out as a note under section 460l–11 of Title 16, Conservation.
 
 #### Effective Date of 2006 Amendment
 
@@ -194,9 +210,9 @@ Amendment by section 507(b) of Pub. L. 100–17 effective July 1, 1987, see sect
 
 #### Effective Date of 1984 Amendment
 
-Section 902(b) of Pub. L. 98–369 provided that: “The amendment made by this section \[amending this section\] shall take effect on July 1, 1984.”
+Pub. L. 98–369, div. A, title IX, §902(b), July 18, 1984, 98 Stat. 1004, provided that: “The amendment made by this section \[amending this section\] shall take effect on July 1, 1984.”
 
-Section 903(b) of Pub. L. 98–369 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect as if included in the amendments made by section 513 of the Highway Revenue Act of 1982 \[Pub. L. 97–424, see section 513(f) of Pub. L. 97–424, set out as an Effective Date of 1983 Amendment note under section 4481 of this title\].”
+Pub. L. 98–369, div. A, title IX, §903(b), July 18, 1984, 98 Stat. 1004, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect as if included in the amendments made by section 513 of the Highway Revenue Act of 1982 \[Pub. L. 97–424, see section 513(f) of Pub. L. 97–424, set out as an Effective Date of 1983 Amendment note under section 4481 of this title\].”
 
 #### Effective Date of 1983 Amendment
 

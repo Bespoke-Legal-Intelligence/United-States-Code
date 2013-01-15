@@ -16,7 +16,7 @@ Subsec. (b). Pub. L. 104–106, §1503(a)(22), substituted “In” for “For p
 
 #### Effective Date of 1992 Amendment
 
-Section 834(b) of Pub. L. 102–484 provided that: “Section 2410f of title 10, United States Code, as added by subsection (a), shall take effect 90 days after the date of the enactment of this Act \[Oct. 23, 1992\].”
+Pub. L. 102–484, div. A, title VIII, §834(b), Oct. 23, 1992, 106 Stat. 2461, provided that: “Section 2410f of title 10, United States Code, as added by subsection (a), shall take effect 90 days after the date of the enactment of this Act \[Oct. 23, 1992\].”
 
 #### Prohibition of Contracts
 

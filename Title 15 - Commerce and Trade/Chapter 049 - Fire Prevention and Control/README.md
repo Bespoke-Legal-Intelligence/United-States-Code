@@ -36,7 +36,7 @@
 | [2227\.](%C2%A7%2002227%20-%20Fire%20safety%20systems%20in%20federally%20assisted%20buildings.md) | Fire safety systems in federally assisted buildings. |
 | [2228\.](%C2%A7%2002228%20-%20CPR%20training.md) | CPR training. |
 | [2229\.](%C2%A7%2002229%20-%20Firefighter%20assistance.md) | Firefighter assistance. |
-| [2229a.](%C2%A7%2002229a%20-%20Expansion%20of%20pre-September%2011%2C%202001%2C%20fire%20grant%20program.md) | Expansion of pre-September 11, 2001, fire grant program. |
+| [2229a.](%C2%A7%2002229a%20-%20Staffing%20for%20adequate%20fire%20and%20emergency%20response.md) | Staffing for adequate fire and emergency response. |
 | [2230\.](%C2%A7%2002230%20-%20Surplus%20and%20excess%20Federal%20equipment.md) | Surplus and excess Federal equipment. |
 | [2231\.](%C2%A7%2002231%20-%20Cooperative%20agreements%20with%20Federal%20facilities.md) | Cooperative agreements with Federal facilities. |
 | [2232\.](%C2%A7%2002232%20-%20Burn%20research.md) | Burn research. |
@@ -84,7 +84,7 @@
 - [&sect; 02227 - Fire safety systems in federally assisted buildings](%C2%A7%2002227%20-%20Fire%20safety%20systems%20in%20federally%20assisted%20buildings.md)
 - [&sect; 02228 - CPR training](%C2%A7%2002228%20-%20CPR%20training.md)
 - [&sect; 02229 - Firefighter assistance](%C2%A7%2002229%20-%20Firefighter%20assistance.md)
-- [&sect; 02229a - Expansion of pre-September 11, 2001, fire grant program](%C2%A7%2002229a%20-%20Expansion%20of%20pre-September%2011%2C%202001%2C%20fire%20grant%20program.md)
+- [&sect; 02229a - Staffing for adequate fire and emergency response](%C2%A7%2002229a%20-%20Staffing%20for%20adequate%20fire%20and%20emergency%20response.md)
 - [&sect; 02230 - Surplus and excess Federal equipment](%C2%A7%2002230%20-%20Surplus%20and%20excess%20Federal%20equipment.md)
 - [&sect; 02231 - Cooperative agreements with Federal facilities](%C2%A7%2002231%20-%20Cooperative%20agreements%20with%20Federal%20facilities.md)
 - [&sect; 02232 - Burn research](%C2%A7%2002232%20-%20Burn%20research.md)

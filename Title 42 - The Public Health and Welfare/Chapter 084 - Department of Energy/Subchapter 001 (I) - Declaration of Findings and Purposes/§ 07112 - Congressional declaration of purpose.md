@@ -22,7 +22,7 @@ The Congress therefore declares that the establishment of a Department of Energy
 
 &emsp;(6) To place major emphasis on the development and commercial use of solar, geothermal, recycling and other technologies utilizing renewable energy resources.
 
-&emsp;(7) To continue and improve the effectiveness and objectivity of a central energy datacollection and analysis program within the Department.
+&emsp;(7) To continue and improve the effectiveness and objectivity of a central energy data collection and analysis program within the Department.
 
 &emsp;(8) To facilitate establishment of an effective strategy for distributing and allocating fuels in periods of short supply and to provide for the administration of a national energy supply reserve.
 

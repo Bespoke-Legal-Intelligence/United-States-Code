@@ -1,6 +1,6 @@
 ### §878. Powers of enforcement personnel
 
-(a) Any officer or employee of the Drug Enforcement Administration or any State, tribal, or local law enforcement officer designated by the Attorney General may—
+(a) Any officer or employee of the Drug Enforcement Administration or any State, tribal,or local law enforcement officer designated by the Attorney General may—
 
 &emsp;(1) carry firearms;
 

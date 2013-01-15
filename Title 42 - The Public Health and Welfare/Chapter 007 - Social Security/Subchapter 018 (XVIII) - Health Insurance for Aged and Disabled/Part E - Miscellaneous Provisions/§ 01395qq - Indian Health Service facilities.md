@@ -34,7 +34,7 @@ The annual report of the Secretary which is required by section 1671 of title 25
 
 #### (f) Cross reference
 
-For provisions relating to the authority of certain Indian tribes, tribal organizations, and Alaska Native health organizations to elect to directly bill for, and receive payment for, health care services provided by a hospital or clinic ofsuch tribes or organizations and for which payment may be made under this subchapter, see section 1645 of title 25.<sup>1</sup>
+For provisions relating to the authority of certain Indian tribes, tribal organizations, and Alaska Native health organizations to elect to directly bill for, and receive payment for, health care services provided by a hospital or clinic of such tribes or organizations and for which payment may be made under this subchapter, see section 1645 of title 25.<sup>1</sup>
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1880, as added Pub. L. 94–437, title IV, §401(b), Sept. 30, 1976, 90 Stat. 1408; amended Pub. L. 102–573, title VII, §701(d), Oct. 29, 1992, 106 Stat. 4572; Pub. L. 106–417, §3(b)(1), Nov. 1, 2000, 114 Stat. 1815; Pub. L. 106–554, §1(a)(6) \[title IV, §432(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–525; Pub. L. 108–173, title VI, §630, Dec. 8, 2003, 117 Stat. 2321; Pub. L. 111–148, title II, §2902(a), title X, §10221(a), (b)(4), Mar. 23, 2010, 124 Stat. 333, 935, 936.)
 
@@ -72,7 +72,7 @@ Amendment by Pub. L. 106–417 effective Oct. 1, 2000, see section 3(c) of Pub. 
 
 #### Medicare Payments Not Considered in Determining Appropriations for Indian Health Care
 
-Pub. L. 94–437, title IV, §401(c), Sept. 30, 1976, 90 Stat. 1409, provided that any payments received for services provided to beneficiaries under this section were not to be considered in determining appropriations for health care and services to Indians, prior to the general amendment of section 401 of Pub. L. 94–437 by Pub. L. 102–573, title IV, §401(a), Oct. 29, 1992, 106 Stat. 4565. Similar provisions are contained in section 401(a) of Pub. L. 94–437, which is classified to section 1641(a) of Title 25, Indians.
+Pub. L. 94–437, title IV, §401(c), Sept. 30, 1976, 90 Stat. 1409, provided that any payments received for services provided to beneficiaries under this section were not to be considered in determining appropriations for health care and services to Indians, prior to the generalamendment of section 401 of Pub. L. 94–437 by Pub. L. 102–573, title IV, §401(a), Oct. 29, 1992, 106 Stat. 4565. Similar provisions are contained in section 401(a) of Pub. L. 94–437, which is classified to section 1641(a) of Title 25, Indians.
 
 #### Preference in Services for Indians With Medicare Coverage Not Authorized
 

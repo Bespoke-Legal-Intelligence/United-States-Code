@@ -2,9 +2,9 @@
 
 (a)(1) There is authorized to be established a nonprofit corporation to be known as the American Registry of Pathology which shall not for any purpose be an agency or establishment of the United States Government. The American Registry of Pathology shall be subject to the provisions of this section and, to the extent not inconsistent with this section, to the District of Columbia Nonprofit Corporation Act (D.C. Code, sec. 29–501 et seq.).
 
-(2) The American Registry of Pathology shall have a Board of Members (hereinafter in this section referred to as the “Board”) consisting of not less than eleven individuals who are representatives of those professional societies and organizations which sponsor individual registries of pathology at the Armed Forces Institute of Pathology, of whom one shall be elected annually by the Board to serve as chairman. Each such sponsor shall appoint one member to the Board for a term of four years.
+(2) The American Registry of Pathology shall have a Board of Members (hereinafter in this section referred to as the “Board”) consisting of not less than eleven individuals who are representatives of the professional societies and organizations that support the activities of the American Registry of Pathology, of whom one shall be elected annually by the Board to serve as chairman.
 
-(3) The American Registry of Pathology shall have a Director, who shall be appointed by the Board with the concurrence of the Director of the Armed Forces Institute of Pathology, and such other officers as may be named and appointed by the Board. Such officers shall be compensated at rates fixed by the Board and shall serve at the pleasure of the Board.
+(3) The American Registry of Pathology shall have a Director, who shall be appointed by the Board, and such other officers as may be named and appointed by the Board. Such officers shall be compensated at rates fixed by the Board and shall serve at the pleasure of the Board.
 
 (4) The members of the initial Board shall serve as incorporators and shall take whatever actions are necessary to establish under the District of Columbia Nonprofit Corporation Act the corporation authorized by paragraph (1).
 
@@ -14,15 +14,13 @@
 
 (b) In order to carry out the purposes of this section, the American Registry of Pathology is authorized to—
 
-&emsp;(1) enter into contracts with the Armed Forces Institute of Pathology for the provision of such services and personnel as may be necessary to carry out their cooperative enterprises;
+&emsp;(1) enter into contracts with public and private organizations for the writing, editing, printing, and publishing of fascicles of tumor pathology, atlases, and other material;
 
-&emsp;(2) enter into contracts with public and private organizations for the writing, editing, printing, and publishing of fascicles of tumor pathology, atlases, and other material;
+&emsp;(2) accept gifts and grants from and enter into contracts with individuals, private foundations, professional societies, institutions, and governmental agencies;
 
-&emsp;(3) accept gifts and grants from and enter into contracts with individuals, private foundations, professional societies, institutions, and governmental agencies;
+&emsp;(3) enter into agreements with professional societies for the establishment and maintenance of Registries of Pathology; and
 
-&emsp;(4) enter into agreements with professional societies for the establishment and maintenance of Registries of Pathology; and
-
-&emsp;(5) serve as a focus for the interchange between military and civilian pathology and encourage the participation of medical, dental, and veterinary sciences in pathology for themutual benefit of military and civilian medicine.
+&emsp;(4) serve as a focus for the interchange between military and civilian pathology and encourage the participation of medical, dental, and veterinary sciences in pathology for the mutual benefit of military and civilian medicine.
 
 (c) In the performance of the functions set forth in subsection (b), the American Registry of Pathology is authorized to—
 
@@ -30,15 +28,23 @@
 
 &emsp;(2) charge such fees for professional services as the Board deems reasonable and appropriate.
 
-(d) The American Registry of Pathology may transmit to the Director and the Board of Governors of the Armed Forces Institute of Pathology and to the sponsors referred to in subsection (a)(2) annually, and at such other times as it deems desirable, a comprehensive and detailed report of its operations, activities, and accomplishments.
+(d) The American Registry of Pathology may transmit annually to its Board and supporting organizations referred to in subsection (a)(2) a comprehensive and detailed report of its operations, activities, and accomplishments.
 
-(Added Pub. L. 94–361, title VIII, §811(b), July 14, 1976, 90 Stat. 934; amended Pub. L. 98–525, title XIV, §1405(5), Oct. 19, 1984, 98 Stat. 2622.)
+(Added Pub. L. 94–361, title VIII, §811(b), July 14, 1976, 90 Stat. 934; amended Pub. L. 98–525, title XIV, §1405(5), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 112–239, div. A, title V, §585, Jan. 2, 2013, 126 Stat. 1768.)
 
 #### References in Text
 
 The District of Columbia Nonprofit Corporation Act, referred to in subsec. (a)(1), (4), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, as amended, which is not classified to the Code.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (a)(2). Pub. L. 112–239, §585(1)(A), substituted “the professional societies and organizations that support the activities of the American Registry of Pathology” for “those professional societies and organizations which sponsor individual registries of pathology at the Armed Forces Institute of Pathology” and struck out at end “Each such sponsor shall appoint one member to the Board for a term of four years.”
+
+Subsec. (a)(3). Pub. L. 112–239, §585(1)(B), struck out “with the concurrence of the Director of the Armed Forces Institute of Pathology” after “shall be appointed by the Board”.
+
+Subsec. (b). Pub. L. 112–239, §585(2), redesignated pars. (2) to (5) as (1) to (4), respectively, and struck out former par. (1) which read as follows: “enter into contracts with the Armed Forces Institute of Pathology for the provision of such services and personnel as may be necessary to carry out their cooperative enterprises;”.
+
+Subsec. (d). Pub. L. 112–239, §585(3), substituted “annually to its Board and supporting organizations referred to in subsection (a)(2)” for “to the Director and the Board of Governors of the Armed Forces Institute of Pathology and to the sponsors referred to in subsection (a)(2) annually, and at such other times as it deems desirable,”.
 
 <b>1984</b>—Subsec. (a)(1). Pub. L. 98–525 substituted “sec. 29–501” for “sec. 29–1001”.
 

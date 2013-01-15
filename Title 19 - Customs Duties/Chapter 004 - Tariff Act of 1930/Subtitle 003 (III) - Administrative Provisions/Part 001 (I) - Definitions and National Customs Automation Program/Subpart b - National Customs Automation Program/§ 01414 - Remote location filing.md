@@ -80,7 +80,7 @@
 
 #### (c) Post-entry summary information
 
-A Program participant that is eligible to file electronically entry information under subsection (a) of this section and additional information under subsection (b) of this section from a remote location may file at any remote location designated by the Customs Service any information required by the Customs Service after entry summary.
+A Program participant that is eligible to file electronically entry information under subsection (a) of this section and additional information under subsection (b) of this section froma remote location may file at any remote location designated by the Customs Service any information required by the Customs Service after entry summary.
 
 #### (d) Definitions
 

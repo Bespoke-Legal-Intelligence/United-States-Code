@@ -72,7 +72,7 @@ Pub. L. 95–615, §3, Nov. 8, 1978, 92 Stat. 3097, as amended by Pub. L. 99–5
 
 #### No Gain Recognized From Net Gifts Made Before March 4, 1981
 
-Section 1026 of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–369, div. A, title X, §1026, July 18, 1984, 98 Stat. 1031, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(a)
 
@@ -228,7 +228,7 @@ Extension to Wheat Planted and Harvested in 1984.—In the case of wheat—
 
 Regulations.—The Secretary of the Treasury or his delegate (after consultation with the Secretary of Agriculture) shall prescribe such regulations as may be necessary to carry out the purposes of this Act, including (but not limited to) such regulations as may be necessary to carry out the purposes of this Act where the commodity is received by a cooperative on behalf of the qualified taxpayer.”
 
-\[Section 1061(b) of Pub. L. 98–369 provided that: “The amendments made by this section \[amending Pub. L. 98–4 set out above\] shall apply with respect to commodities received for the 1984 crop year (as defined in section 5(a)(2) of the Payment-in-Kind Tax Treatment Act of 1983 \[Pub. L. 98–4, set out above\] as amended by subsection (a)).”\]
+\[Pub. L. 98–369, div. A, title X, §1061(b), July 18, 1984, 98 Stat. 1047, provided that: “The amendments made by this section \[amending Pub. L. 98–4 set out above\] shall apply with respect to commodities received for the 1984 crop year (as defined in section 5(a)(2) of the Payment-in-Kind Tax Treatment Act of 1983 \[Pub. L. 98–4, set out above\] as amended by subsection (a)).”\]
 
 #### Cancellation of Certain Student Loans
 

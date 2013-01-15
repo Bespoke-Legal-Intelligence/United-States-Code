@@ -20,7 +20,7 @@ The owner, operator, or agent in charge of a facility shall—
 
 #### (c) Preventive controls
 
-The owner, operator, or agent in charge of a facility shall identify and implement preventivecontrols, including at critical control points, if any, to provide assurances that—
+The owner, operator, or agent in charge of a facility shall identify and implement preventive controls, including at critical control points, if any, to provide assurances that—
 
 &emsp;(1) hazards identified in the hazard analysis conducted under subsection (b)(1) will be significantly minimized or prevented;
 
@@ -88,7 +88,7 @@ The owner, operator, or agent in charge of a facility shall conduct a reanalysis
 
 This section shall not apply to activities of a facility that are subject to section 350h of this title.
 
-#### (<i>l</i>) Modified requirements for qualified facilities
+#### (l) Modified requirements for qualified facilities
 
 #### (1) Qualified facilities
 
@@ -232,7 +232,7 @@ The Secretary may, by regulation, exempt or modify the requirements for complian
 
 &emsp;&emsp;(A) to establish science-based minimum standards for conducting a hazard analysis, documenting hazards, implementing preventive controls, and documenting the implementation of the preventive controls under this section; and
 
-&emsp;&emsp;(B) to define, for purposes of this section, the terms “small business” and “very small business”, taking into consideration the study described in subsection (<i>l</i>)(5).
+&emsp;&emsp;(B) to define, for purposes of this section, the terms “small business” and “very small business”, taking into consideration the study described in subsection (l)(5).
 
 #### (2) Coordination
 
@@ -258,7 +258,7 @@ The Secretary may, by regulation, exempt or modify the requirements for complian
 
 &emsp;In promulgating the regulations under paragraph (1)(A), the Secretary shall review regulatory hazard analysis and preventive control programs in existence on January 4, 2011, including the Grade “A” Pasteurized Milk Ordinance to ensure that such regulations are consistent, to the extent practicable, with applicable domestic and internationally-recognized standards in existence on such date.
 
-#### (<i>o</i>) Definitions
+#### (o) Definitions
 
 For purposes of this section:
 

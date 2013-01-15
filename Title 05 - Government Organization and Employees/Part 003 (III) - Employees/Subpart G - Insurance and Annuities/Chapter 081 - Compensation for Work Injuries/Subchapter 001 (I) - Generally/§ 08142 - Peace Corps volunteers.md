@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(A) any period of training under section 2507(a) of title 22 before enrollment as a volunteer; and
 
-&emsp;&emsp;(B) the period between enrollment as a volunteer and the termination of service as a volunteer by the President or by death or resignation.
+&emsp;&emsp;(B) the period between enrollment as a volunteer and the termination of service as avolunteer by the President or by death or resignation.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 552; Pub. L. 90–83, §1(64), Sept. 11, 1967, 81 Stat. 212; Pub. L. 93–416, §23(b), Sept. 7, 1974, 88 Stat. 1150.)
 
@@ -68,5 +68,5 @@ Section 8142 of title 5 was derived from section 2504(d) of title 22. This amend
 
 #### Effective Date of 1974 Amendment
 
-Amendment by Pub. L. 93–416 effective on Sept. 7, 1974, and applicable to any injury or death occurring onor after such effective date, see section 23(a) of Pub. L. 93–416, set out as a note under section 8101 of this title.
+Amendment by Pub. L. 93–416 effective on Sept. 7, 1974, and applicable to any injury or death occurring on or after such effective date, see section 23(a) of Pub. L. 93–416, set out as a note under section 8101 of this title.
 

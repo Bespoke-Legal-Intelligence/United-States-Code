@@ -50,7 +50,7 @@ For purposes of this section—
 
 #### Codification
 
-Another section 6039D, added Pub. L. 98–612, §1(b)(1), Oct. 31, 1984, 98 Stat. 3180, also related to returns and records with respect to certain fringe benefits, prior to repeal by Pub. L. 99–514, title XVIII, §1879(d)(2), Oct. 22, 1986, 100 Stat. 2906, effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such repeal relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Another section 6039D, added Pub. L. 98–612, §1(b)(1), Oct. 31, 1984, 98 Stat. 3180, also related to returns andrecords with respect to certain fringe benefits, prior to repeal by Pub. L. 99–514, title XVIII, §1879(d)(2), Oct. 22, 1986, 100 Stat. 2906, effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such repeal relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Amendments
 
@@ -80,7 +80,7 @@ Amendment by Pub. L. 105–34 effective as if included in the provisions of the 
 
 Amendment by section 1011B(a)(24) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Section 3021(a)(15)(B) of Pub. L. 100–647 provided that: “The amendments made by this paragraph \[amending this section\] shall apply to years beginning after 1984.”
+Pub. L. 100–647, title III, §3021(a)(15)(B), Nov. 10, 1988, 102 Stat. 3631, provided that: “The amendments made by this paragraph \[amending this section\] shall apply to years beginning after 1984.”
 
 #### Effective Date of 1986 Amendment
 

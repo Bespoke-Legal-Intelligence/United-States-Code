@@ -22,7 +22,7 @@ After an application for naturalization has been filed with the Attorney General
 
 #### (f) Transfer of application
 
-An applicant for naturalization who moves from the district of the Service in the United States in which the application is pending may, at any time thereafter, request the Service to transfer the application to any district of the Service in the United States which may act on the application. The transfer shall not be made without the consent of the Attorney General. In the case of such a transfer, the proceedings on the application shall continue as though the application had originally been filed in the district of the Service to which the application is transferred.
+An applicant for naturalization who moves from the district of the Service in the United States in which the application is pending may, at any time thereafter, request the Service to transfer the application to any district of the Service in the United States which may act on the application. The transfer shall not be made without the consent of the Attorney General. In the case of such a transfer, the proceedings on the application shall continue as though the application had originally been filed in the districtof the Service to which the application is transferred.
 
 (June 27, 1952, ch. 477, title III, ch. 2, §335, 66 Stat. 255; Pub. L. 97–116, §15(c), Dec. 29, 1981, 95 Stat. 1619; Pub. L. 100–525, §9(aa), (bb), Oct. 24, 1988, 102 Stat. 2621; Pub. L. 101–649, title IV, §§401(c), 407(c)(16), (d)(13), Nov. 29, 1990, 104 Stat. 5038, 5041, 5043; Pub. L. 102–232, title III, §305(f), Dec. 12, 1991, 105 Stat. 1750.)
 
@@ -32,7 +32,7 @@ An applicant for naturalization who moves from the district of the Service in th
 
 <b>1990</b>—Pub. L. 101–649, §407(d)(13)(A), substituted “Investigation of applicants; examination of applications” for “Investigation of petitioners” in section catchline.
 
-Subsec. (a). Pub. L. 101–649, §407(c)(16), (d)(13)(B), substituted “Before a person may be naturalized” for “At any time prior to the holding of the final hearing on apetition for naturalization provided for by section 1447(a) of this title”, “applying” for “petitioning”, and “application” for “petition”.
+Subsec. (a). Pub. L. 101–649, §407(c)(16), (d)(13)(B), substituted “Before a person may be naturalized” for “At any time prior to the holding of the final hearing on a petition for naturalization provided for by section 1447(a) of this title”, “applying” for “petitioning”, and “application” for “petition”.
 
 Subsec. (b). Pub. L. 101–649, §407(c)(16), (d)(13)(C), substituted “applications” for “petitions” and “applicant” for “petitioner” wherever appearing, struck out “preliminary” before “examinations” and before “examination”, struck out “to any naturalization court and to make recommendations thereon to such court” before period at end of first sentence, substituted “any District Court of the United States” for “any court exercising naturalization jurisdiction as specified in section 1421 of this title”, and substituted “hearing conducted by an immigration officer under section 1447(a) of this title” for “final hearing conducted by a naturalization court designated in section 1421 of this title”.
 

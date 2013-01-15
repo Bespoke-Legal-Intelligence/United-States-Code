@@ -18,7 +18,7 @@ Excuse of Members.—No member of a military commission under this chapter may b
 
 (c)
 
-Absent and Additional Members.—Whenever a military commission under this chapter is reduced below the number of members required by subsection (a), the trial may not proceed unless the convening authority details new members sufficient to provide not less than such number. The trial may proceed with the new members present after the recorded evidence previously introduced before the members has been read to the military commission in the presence of the military judge, the accused (except as provided in section 949d of this title), and counsel for both sides.
+Absent and Additional Members.—Whenever a military commission under this chapter is reduced below the number of members required by subsection (a), the trial may not proceed unless the convening authority details new members sufficient to provide not less than suchnumber. The trial may proceed with the new members present after the recorded evidence previously introduced before the members has been read to the military commission in the presence of the military judge, the accused (except as provided in section 949d of this title), and counsel for both sides.
 
 (Added Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2579.)
 

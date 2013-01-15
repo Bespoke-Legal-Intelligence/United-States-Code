@@ -54,7 +54,7 @@ For purposes of this subtitle, in the case of a corporation—
 
 #### (4) Integrated oil company defined
 
-&emsp;For purposes of this subsection, the term “integrated oil company” means, with respect to any taxable year, any producer of crude oil to whom subsection (c) of section 613A does not apply by reason of paragraph (2) or (4) of section 613A(d).
+&emsp;For purposes of this subsection, the term “integrated oil company” means, with respectto any taxable year, any producer of crude oil to whom subsection (c) of section 613A does not apply by reason of paragraph (2) or (4) of section 613A(d).
 
 #### (5) Coordination with cost depletion
 
@@ -112,7 +112,7 @@ For purposes of this section—
 
 &emsp;The terms “section 1245 property” and “section 1250 property” have the meanings given such terms by sections 1245(a)(3) and 1250(c), respectively.
 
-(Added Pub. L. 97–248, title II, §204(a), Sept. 3, 1982, 96 Stat. 423; amended Pub. L. 97–354, §5(a)(27), Oct. 19, 1982, 96 Stat. 1694; Pub. L. 97–448, title III, §306(a)(2), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title I, §68(a), (b), title VII, §712(a)(1)(A), (2)–(4), July 18, 1984, 98 Stat. 588, 946; Pub. L. 99–514, title II, §201(d)(5), title IV, §§411(a), (b)(2)(C)(ii), 412(b)(1), title IX, §§901(b)(4), (d)(4)(C), 902(c), title XVIII, §§1804(k)(1), (3)(A), 1854(c)(1), 1876(b)(1), Oct. 22, 1986, 100 Stat. 2140, 2225, 2227, 2378, 2380, 2382, 2809,2878, 2898; Pub. L. 100–418, title I, §1941(b)(5), Aug. 23, 1988, 102 Stat. 1324; Pub. L. 100–647, title I, §1009(b)(4), (5), Nov. 10, 1988, 102 Stat. 3449; Pub. L. 101–508, title XI, §11801(c)(12)(B), Nov. 5, 1990, 104 Stat. 1388–527; Pub. L. 104–188, title I, §§1602(b)(1), 1616(b)(5), Aug. 20, 1996, 110 Stat. 1833, 1856; Pub. L. 110–172, §11(g)(6), Dec. 29, 2007, 121 Stat. 2490; Pub. L. 111–5, div. B, title I, §1501(b), Feb. 17, 2009, 123 Stat. 353.)
+(Added Pub. L. 97–248, title II, §204(a), Sept. 3, 1982, 96 Stat. 423; amended Pub. L. 97–354, §5(a)(27), Oct. 19, 1982, 96 Stat. 1694; Pub. L. 97–448, title III, §306(a)(2), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title I, §68(a), (b), title VII, §712(a)(1)(A), (2)–(4), July 18, 1984, 98 Stat. 588, 946; Pub. L. 99–514, title II, §201(d)(5), title IV, §§411(a), (b)(2)(C)(ii), 412(b)(1), title IX, §§901(b)(4), (d)(4)(C), 902(c), title XVIII, §§1804(k)(1), (3)(A), 1854(c)(1), 1876(b)(1), Oct. 22, 1986, 100 Stat. 2140, 2225, 2227, 2378, 2380, 2382, 2809, 2878, 2898; Pub. L. 100–418, title I, §1941(b)(5), Aug. 23, 1988, 102 Stat. 1324; Pub. L. 100–647, title I, §1009(b)(4), (5), Nov. 10, 1988, 102 Stat. 3449; Pub. L. 101–508, title XI, §11801(c)(12)(B), Nov. 5, 1990, 104 Stat. 1388–527; Pub. L. 104–188, title I, §§1602(b)(1), 1616(b)(5), Aug. 20, 1996, 110 Stat. 1833, 1856; Pub. L. 110–172, §11(g)(6), Dec. 29, 2007, 121 Stat. 2490; Pub. L. 111–5, div. B, title I, §1501(b), Feb. 17, 2009, 123 Stat. 353.)
 
 #### Amendments
 
@@ -196,7 +196,7 @@ Subsec. (a)(4). Pub. L. 98–369, §68(b), amended par. (4) generally. Prior to 
 
 “(4)
 
-Certain deferred disc income.—If a corporation is a shareholder of a DISC, in the case of taxable yearsbeginning after December 31, 1982, section 995(b)(1)(F)(i) shall be applied with respect to such corporation by substituting ‘57.5 percent’ for ‘one-half’.”
+Certain deferred disc income.—If a corporation is a shareholder of a DISC, in the case of taxable years beginning after December 31, 1982, section 995(b)(1)(F)(i) shall be applied with respect to such corporation by substituting ‘57.5 percent’ for ‘one-half’.”
 
 Subsec. (a)(5). Pub. L. 98–369, §68(a), substituted “20 percent” for “15 percent”.
 
@@ -240,13 +240,13 @@ Amendment by section 201(d)(5) of Pub. L. 99–514 not applicable to any propert
 
 Amendment by section 411(a), (b)(2)(C)(ii) of Pub. L. 99–514 applicable, except as otherwise provided, to costs paid or incurred after Dec. 31, 1986, in taxable years ending after such date, see section 411(c) of Pub. L. 99–514 set out as a note under section 263 of this title.
 
-Section 412(b)(2) of Pub. L. 99–514 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to taxable years beginning after December 31, 1986.”
+Pub. L. 99–514, title IV, §412(b)(2), Oct. 22, 1986, 100 Stat. 2227, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to taxable years beginning after December 31, 1986.”
 
 Amendment by section 901(b)(4), (d)(4)(C) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 901(e) of Pub. L. 99–514, set out as a note under section 166 of this title.
 
 Amendment by section 902(c) of Pub. L. 99–514 applicable to taxable years ending after Dec. 31, 1986, with certain exceptions and qualifications, see section 902(f) of Pub. L. 99–514, set out as a note under section 265 of this title.
 
-Section 1804(k)(1) of Pub. L. 99–514 provided that amendment made by section 1804(k)(1) of Pub. L. 99–514 is effective with respect to taxable years beginning after Dec. 31, 1982.
+Pub. L. 99–514, title XVIII, §1804(k)(1), Oct. 22, 1986, 100 Stat. 2809, provided that amendment made by section 1804(k)(1) of Pub. L. 99–514 is effective with respect to taxable years beginning after Dec. 31, 1982.
 
 Amendment by sections 1804(k)(3)(A), 1854(c)(1), and 1876(b)(1) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 

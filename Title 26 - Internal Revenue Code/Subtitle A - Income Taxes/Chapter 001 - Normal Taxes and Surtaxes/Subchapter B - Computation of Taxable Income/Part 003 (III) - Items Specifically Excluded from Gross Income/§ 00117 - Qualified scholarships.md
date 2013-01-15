@@ -60,17 +60,13 @@ For purposes of this section—
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 38; Pub. L. 87–256, §110(a), Sept. 21, 1961, 75 Stat. 535; Pub. L. 94–455, title XIX, §1901(b)(8)(A), (c)(3), Oct. 4, 1976, 90 Stat. 1794, 1803; Pub. L. 96–541, §5(a)(1), Dec. 17, 1980, 94 Stat. 3205; Pub. L. 98–369, div. A, title V, §532(a), July 18, 1984, 98 Stat. 887; Pub. L. 99–514, title I, §123(a), title XI, §§1114(b)(2), 1151(g)(2), Oct. 22, 1986, 100 Stat. 2112, 2450, 2506; Pub. L. 100–647, title I, §1011B(a)(31)(B), title IV, §4001(b)(2), Nov. 10, 1988, 102 Stat. 3488, 3643; Pub. L. 101–140, title II, §203(a)(1), (2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 104–188, title I, §1703(n)(14), Aug. 20, 1996, 110 Stat. 1878; Pub. L. 107–16, title IV, §413(a), June 7, 2001, 115 Stat. 64.)
 
-#### Amendment of Section
-
-<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
-
 #### References in Text
 
-Section 338A(g)(1)(A) of the Public Health Service Act, referred to in subsec. (c)(2)(A), is classified to section 254<i>l</i>(g)(1)(A) of Title 42, The Public Health and Welfare.
+Section 338A(g)(1)(A) of the Public Health Service Act, referred to in subsec. (c)(2)(A), is classified to section 254l(g)(1)(A) of Title 42, The Public Health and Welfare.
 
 #### Amendments
 
-<b>2001</b>—Subsec. (c). Pub. L. 107–16, §§413(a), 901, temporarily designated existing provisions as par. (1), inserted par. heading, substituted “Except as provided in paragraph (2), subsections (a)” for “Subsections (a)”, and added par. (2). See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Subsec. (c). Pub. L. 107–16 designated existing provisions as par. (1), inserted par. heading, substituted“Except as provided in paragraph (2), subsections (a)” for “Subsections (a)”, and added par. (2).
 
 <b>1996</b>—Subsec. (d)(2)(B). Pub. L. 104–188 substituted “section 132(h)” for “section 132(f)”.
 
@@ -126,15 +122,13 @@ Subsec. (b)(2)(B). Pub. L. 94–455, §1901(b)(8)(A), substituted “educational
 
 <b>1961</b>—Subsec. (b)(2)(A). Pub. L. 87–256 included cases where the grantor of the scholarship or fellowship grant is a foreign government, an international organization, or a binational or multinational educational and cultural foundation or commission created or continued pursuant to the Mutual Educational and Cultural Exchange Act of 1961.
 
-#### Effective and Termination Dates of 2001 Amendment
+#### Effective Date of 2001 Amendment
 
 Pub. L. 107–16, title IV, §413(b), June 7, 2001, 115 Stat. 64, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to amounts received in taxable years beginning after December 31, 2001.”
 
-Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
-
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of 1993, Pub. L. 103–66, §§13001–13444, to which such amendment relates, see section 1703(<i>o</i>) of Pub. L. 104–188, set out as a note under section 39 of this title.
+Amendment by Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of 1993, Pub. L. 103–66, §§13001–13444, to which such amendment relates, see section 1703(o) of Pub. L. 104–188, set out as a note under section 39 of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -144,7 +138,7 @@ Amendment by Pub. L. 101–140 effective as if included in section 1151 of Pub. 
 
 Amendment by section 1011B(a)(31)(B) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Section 4001(c) of Pub. L. 100–647 provided that: “The amendments made by this section \[amending this section and section 127 of this title\] shall apply to taxable years beginning after December 31, 1987.”
+Pub. L. 100–647, title IV, §4001(c), Nov. 10, 1988, 102 Stat. 3643, provided that: “The amendments made by this section \[amending this section and section 127 of this title\] shall apply to taxable years beginning after December 31, 1987.”
 
 #### Effective Date of 1986 Amendment
 
@@ -154,15 +148,15 @@ Amendment by section 1114(b)(2) of Pub. L. 99–514 applicable to years beginnin
 
 Amendment by section 1151(g)(2) of Pub. L. 99–514 applicable, with certain qualifications and exceptions, to years beginning after Dec. 31, 1988, see section 1151(k) of Pub. L. 99–514, as amended, set out as a note under section 79 of this title.
 
-#### Effective Date of 1984 Amendments
+#### Effective Date of 1984 Amendment
 
-Section 532(b) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by this section \[amending this section\] shall apply to qualified tuition reductions (as defined in section 117(d)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) for education furnished after June 30, 1985, in taxable years ending after such date.”
+Pub. L. 98–369, div. A, title V, §532(b), July 18, 1984, 98 Stat. 887, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by this section \[amending this section\] shall apply to qualified tuition reductions (as defined in section 117(d)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) for education furnished after June 30, 1985, in taxable years ending after such date.”
 
 Provisions of subsec. (d) treated as in effect on and after Jan. 1, 1984, in case of education described in section 127(c)(8) of this title, see section 1(g)(5) of Pub. L. 98–611, set out as a note under section 127 of this title.
 
 #### Effective Date of 1980 Amendment
 
-Section 5(a)(2) of Pub. L. 96–541 provided: “The amendment made by paragraph (1) \[amending this section\] shall apply to taxable years beginning after December 31, 1980.”
+Pub. L. 96–541, §5(a)(2), Dec. 17, 1980, 94 Stat. 3206, provided: “The amendment made by paragraph (1) \[amending this section\] shall apply to taxable years beginning after December 31, 1980.”
 
 #### Effective Date of 1976 Amendment
 
@@ -170,7 +164,7 @@ Amendment by Pub. L. 94–455 applicable with respect to taxable years beginning
 
 #### Effective Date of 1961 Amendment
 
-Section 110(h)(1) of Pub. L. 87–256 provided that: “The amendments made by subsections (a), (b), and (c) of this section \[amending this section and sections 871 and 872 of this title\] shall apply to taxable years beginning after December 31, 1961.”
+Pub. L. 87–256, §110(h)(1), Sept. 21, 1961, 75 Stat. 537, provided that: “The amendments made by subsections (a), (b), and (c) of this section \[amending this section and sections 871 and 872 of this title\] shall apply to taxable years beginning after December 31, 1961.”
 
 #### Regulations
 
@@ -178,7 +172,7 @@ Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final re
 
 #### Nonenforcement of Amendment Made by Section 1151 of Pub. L. 99–514 for Fiscal Year 1990
 
-No monies appropriated by Pub. L. 101–136 to be used to implement or enforce section 1151 of Pub. L. 99–514 or the amendments made by such section, see section528 of Pub. L. 101–136, set out as a note under section 89 of this title.
+No monies appropriated by Pub. L. 101–136 to be used to implement or enforce section 1151 of Pub. L. 99–514 or the amendments made by such section, see section 528 of Pub. L. 101–136, set out as a note under section 89 of this title.
 
 #### Applicability of Certain Amendments by Public Law 99–514 in Relation to Treaty Obligations of United States
 
@@ -190,7 +184,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Transitional Rules for Treatment of Certain Reductions in Tuition
 
-Section 1853(f) of Pub. L. 99–514 provided that:
+Pub. L. 99–514, title XVIII, §1853(f), Oct. 22, 1986, 100 Stat. 2872, provided that:
 
 “(1) A tuition reduction plan shall be treated as meeting the requirements of section 117(d)(3) of the Internal Revenue Code of 1954 \[now 1986\] if—
 

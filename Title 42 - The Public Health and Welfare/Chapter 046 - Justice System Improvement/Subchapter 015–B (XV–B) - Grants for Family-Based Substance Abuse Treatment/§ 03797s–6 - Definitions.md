@@ -16,7 +16,7 @@ In this subchapter:
 
 #### (3) Prison-based family treatment program
 
-&emsp;The term “prison-based family treatment program” means a program for incarcerated parents in a correctional facility that provides a comprehensive response to offender needs, including substance abuse treatment, child early intervention services, family counseling, legal services, medical care, mental health services, nursery and preschool, parenting skills training, pediatric care, physical therapy, prenatal care, sexual abuse therapy, relapse prevention, transportation, and vocational or GED training.
+&emsp;The term “prison-based family treatment program” means a program for incarcerated parents in a correctional facility that provides a comprehensive response to offender needs, including substance abuse treatment, child early intervention services, family counseling,legal services, medical care, mental health services, nursery and preschool, parenting skills training, pediatric care, physical therapy, prenatal care, sexual abuse therapy, relapse prevention, transportation, and vocational or GED training.
 
 (Pub. L. 90–351, title I, §2927, as added Pub. L. 110–199, title I, §113, Apr. 9, 2008, 122 Stat. 676.)
 

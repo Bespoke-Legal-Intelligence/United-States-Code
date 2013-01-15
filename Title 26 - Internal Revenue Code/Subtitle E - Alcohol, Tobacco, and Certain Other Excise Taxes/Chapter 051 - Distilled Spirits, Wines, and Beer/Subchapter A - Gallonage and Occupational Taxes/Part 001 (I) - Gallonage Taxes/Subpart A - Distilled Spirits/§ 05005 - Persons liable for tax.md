@@ -52,7 +52,7 @@ All persons liable for the tax under subsection (a) or (b), or under any similar
 
 &emsp;&emsp;<b>(6) For provisions relating to transfer of tax liability for wine, see section 5043(a)(1)(A).</b>
 
-(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1318; amended Pub. L. 94–455, title XIX, §1905(a)(1), Oct. 4, 1976, 90 Stat. 1818; Pub. L. 95–176, §4(b), (d), Nov. 14, 1977, 91 Stat. 1366; Pub. L. 96–39, title VIII, §807(a)(3), July 26, 1979, 93 Stat. 280; Pub. L. 96–223, title II, §232(e)(2)(D), Apr. 2, 1980, 94 Stat. 280; Pub. L. 98–369, div. A,title IV, §455(b), July 18, 1984, 98 Stat. 823; Pub. L. 103–465, title I, §136(c)(2), Dec. 8, 1994, 108 Stat. 4841.)
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1318; amended Pub. L. 94–455, title XIX, §1905(a)(1), Oct. 4, 1976, 90 Stat. 1818; Pub. L. 95–176, §4(b), (d), Nov. 14, 1977, 91 Stat. 1366; Pub. L. 96–39, title VIII, §807(a)(3), July 26, 1979, 93 Stat. 280; Pub. L. 96–223, title II, §232(e)(2)(D), Apr. 2, 1980, 94 Stat. 280; Pub. L. 98–369, div. A, title IV, §455(b), July 18, 1984, 98 Stat. 823; Pub. L. 103–465, title I, §136(c)(2), Dec. 8, 1994, 108 Stat. 4841.)
 
 #### Prior Provisions
 
@@ -98,7 +98,7 @@ Amendment by Pub. L. 98–369 effective July 18, 1984, see section 456(c) of Pub
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–223 effective on first day of first calendar month beginning more than 60 days after Apr. 2, 1980, see section 232(h)(3) of Pub. L. 96–223, set out as an Effective Date note under section 5181 of this title.
+Amendment by Pub. L. 96–223 effective on first day of first calendar month beginning more than 60 days afterApr. 2, 1980, see section 232(h)(3) of Pub. L. 96–223, set out as an Effective Date note under section 5181 of this title.
 
 #### Effective Date of 1979 Amendment
 
@@ -110,5 +110,5 @@ Amendment by Pub. L. 95–176 effective on first day of first calendar month beg
 
 #### Effective Date of 1976 Amendment
 
-Section 1905(d) of Pub. L. 94–455 provided that: “The amendments made by this section \[amending this section and sections 5007 to 5009, 5025, 5026, 5043, 5054, 5061, 5105, 5111, 5113, 5114, 5117, 5121, 5122, 5131, 5142, 5148, 5171, 5174, 5177, 5179, 5214, 5222, 5232 to 5234, 5272, 5314, 5362, 5368, 5392, 5505, 5551, 5601, 5662, 5685, 5701, 5703, 5704, 5712, 5723, 5751, 5752, 5762, and 5763 of this title and repealing sections 5104, 5144, 5315, 5676, and 5689 of this title\] shall take effect on the first day of the first month which begins more than 90 days after the date of the enactment of this Act \[Oct. 4, 1976\].”
+Pub. L. 94–455, title XIX, §1905(d), Oct. 4, 1976, 90 Stat. 1824, provided that: “The amendments made by this section \[amending this section and sections 5007 to 5009, 5025, 5026, 5043, 5054, 5061, 5105, 5111, 5113, 5114, 5117, 5121, 5122, 5131, 5142, 5148, 5171, 5174, 5177, 5179, 5214, 5222, 5232 to 5234, 5272, 5314, 5362, 5368, 5392, 5505, 5551, 5601, 5662, 5685, 5701, 5703, 5704, 5712, 5723, 5751, 5752, 5762, and 5763 of this title and repealing sections 5104, 5144, 5315, 5676, and 5689 of this title\] shall take effect on the first day of the first month which begins more than 90 days after the date of the enactment of this Act \[Oct. 4, 1976\].”
 

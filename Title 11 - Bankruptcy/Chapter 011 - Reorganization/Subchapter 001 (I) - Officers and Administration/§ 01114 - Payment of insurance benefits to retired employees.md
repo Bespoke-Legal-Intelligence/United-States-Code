@@ -8,7 +8,7 @@
 
 (c)(1) A labor organization shall be, for purposes of this section, the authorized representative of those persons receiving any retiree benefits covered by any collective bargaining agreement to which that labor organization is signatory, unless (A) such labor organization elects not to serve as the authorized representative of such persons, or (B) the court, upon a motion by any party in interest, after notice and hearing, determines that different representation of such persons is appropriate.
 
-(2) In cases where the labor organization referred to in paragraph (1) elects not to serve asthe authorized representative of those persons receiving any retiree benefits covered by any collective bargaining agreement to which that labor organization is signatory, or in cases where the court, pursuant to paragraph (1) finds different representation of such persons appropriate, the court, upon a motion by any party in interest, and after notice and a hearing, shall appoint a committee of retired employees if the debtor seeks to modify or not pay the retiree benefits or if the court otherwise determines that it is appropriate, from among such persons, to serve as the authorized representative of such persons under this section.
+(2) In cases where the labor organization referred to in paragraph (1) elects not to serve as the authorized representative of those persons receiving any retiree benefits covered by any collective bargaining agreement to which that labor organization is signatory, or in cases where the court, pursuant to paragraph (1) finds different representation of such persons appropriate, the court, upon a motion by any party in interest, and after notice and a hearing, shall appoint a committee of retired employees if the debtor seeks to modify or not pay the retiree benefits or if the court otherwise determines that it is appropriate, from among such persons, to serve as the authorized representative of such persons under this section.
 
 (d) The court, upon a motion by any party in interest, and after notice and a hearing, shall order the appointment of a committee of retired employees if the debtor seeks to modify or not pay the retiree benefits or if the court otherwise determines that it is appropriate, to serve as the authorized representative, under this section, of those persons receiving any retiree benefits not covered by a collective bargaining agreement. The United States trustee shall appoint any such committee.
 
@@ -50,13 +50,13 @@
 
 (j) No claim for retiree benefits shall be limited by section 502(b)(7) of this title.
 
-(k)(1) Upon the filing of an application for modifying retiree benefits, the court shall schedule a hearing to be held not later than fourteen days after the date of the filing of such application. All interested parties may appear and be heard at such hearing. Adequate notice shall be provided to such parties at least ten days before the date of such hearing. The courtmay extend the time for the commencement of such hearing for a period not exceeding seven days where the circumstances of the case, and the interests of justice require such extension, or for additional periods of time to which the trustee and the authorized representative agree.
+(k)(1) Upon the filing of an application for modifying retiree benefits, the court shall schedule a hearing to be held not later than fourteen days after the date of the filing of such application. All interested parties may appear and be heard at such hearing. Adequate notice shall be provided to such parties at least ten days before the date of such hearing. The court may extend the time for the commencement of such hearing for a period not exceeding seven days where the circumstances of the case, and the interests of justice require such extension, or for additional periods of time to which the trustee and the authorized representative agree.
 
 (2) The court shall rule on such application for modification within ninety days after the date of the commencement of the hearing. In the interests of justice, the court may extend such time for ruling for such additional period as the trustee and the authorized representative may agree to. If the court does not rule on such application within ninety days after the date of the commencement of the hearing, or within such additional time as the trustee and the authorized representative may agree to, the trustee may implement the proposed modifications pending the ruling of the court on such application.
 
 (3) The court may enter such protective orders, consistent with the need of the authorized representative of the retirees to evaluate the trustee's proposal and the application for modification, as may be necessary to prevent disclosure of information provided to such representative where such disclosure could compromise the position of the debtor with respect to its competitors in the industry in which it is engaged.
 
-(<i>l</i>) If the debtor, during the 180-day period ending on the date of the filing of the petition—
+(l) If the debtor, during the 180-day period ending on the date of the filing of the petition—
 
 &emsp;(1) modified retiree benefits; and
 
@@ -72,7 +72,7 @@
 
 <b>2005</b>—Subsec. (d). Pub. L. 109–8, §447, substituted “order the appointment of” for “appoint” and inserted “The United States trustee shall appoint any such committee.” at end.
 
-Subsecs. (<i>l</i>), (m). Pub. L. 109–8, §1403, added subsec. (<i>l</i>) and redesignated former subsec. (<i>l</i>) as (m).
+Subsecs. (l), (m). Pub. L. 109–8, §1403, added subsec. (l) and redesignated former subsec. (l) as (m).
 
 #### Effective Date of 2005 Amendment
 
@@ -82,7 +82,7 @@ Amendment by section 447 of Pub. L. 109–8 effective 180 days after Apr. 20, 20
 
 #### Effective Date
 
-Section 4 of Pub. L. 100–334 provided that:
+Pub. L. 100–334, §4, June 16, 1988, 102 Stat. 615, provided that:
 
 “(a)
 

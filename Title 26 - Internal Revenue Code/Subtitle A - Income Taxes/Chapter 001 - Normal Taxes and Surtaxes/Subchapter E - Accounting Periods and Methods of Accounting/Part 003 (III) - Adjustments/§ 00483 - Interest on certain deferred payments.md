@@ -60,7 +60,7 @@ For purposes of this section, the term “total unstated interest” means, with
 
 #### (1) In general
 
-&emsp;In the case of any qualified sale, the discount rate used in determining the total unstated interest rate under subsection (b) shall not exceed 6 percent, compounded semiannually.
+&emsp;In the case of any qualified sale, the discount rate used in determining the totalunstated interest rate under subsection (b) shall not exceed 6 percent, compounded semiannually.
 
 #### (2) Qualified sale
 
@@ -78,7 +78,7 @@ For purposes of this section, the term “total unstated interest” means, with
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section including regulations providing for the application of this section in the case of—
 
-&emsp;(1) any contract for the sale or exchange of property under which the liability for, or theamount or due date of, a payment cannot be determined at the time of the sale or exchange, or
+&emsp;(1) any contract for the sale or exchange of property under which the liability for, or the amount or due date of, a payment cannot be determined at the time of the sale or exchange, or
 
 &emsp;(2) any change in the liability for, or the amount or due date of, any payment (including interest) under a contract for the sale or exchange of property.
 
@@ -142,7 +142,7 @@ Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if inc
 
 #### Effective Date of 1985 Amendment
 
-Amendment by Pub. L. 99–121 applicable to sales and exchanges after June 30, 1985, in taxable years endingafter such date, see section 105(a)(1) of Pub. L. 99–121, set out as a note under section 1274 of this title.
+Amendment by Pub. L. 99–121 applicable to sales and exchanges after June 30, 1985, in taxable years ending after such date, see section 105(a)(1) of Pub. L. 99–121, set out as a note under section 1274 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -154,7 +154,7 @@ Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it 
 
 #### Effective Date of 1981 Amendment
 
-Section 126(b) of Pub. L. 97–34 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to payments made after June 30, 1981, pursuant to sales or exchanges after such date.”
+Pub. L. 97–34, title I, §126(b), Aug. 13, 1981, 95 Stat. 202, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to payments made after June 30, 1981, pursuant to sales or exchanges after such date.”
 
 #### Effective Date of 1976 Amendment
 
@@ -170,7 +170,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Treatment of Transfers of Land Between Related Parties
 
-Section 1803(a)(9) of Pub. L. 99–514 provided that: “In the case of any sale or exchange before July 1, 1985, to which section 483(f) of the Internal Revenue Code of 1954 \[now 1986\] (as in effect on the day before the date of the enactment of Public Law 99–121 \[Oct. 11, 1985\]) applies, such section shall be treated as providing that the discount rate to be used for purposes of section 483(c)(1) of such Code shall be 6 percent, compounded semiannually.”
+Pub. L. 99–514, title XVIII, §1803(a)(9), Oct. 22, 1986, 100 Stat. 2794, provided that: “In the case of any sale or exchange before July 1, 1985, to which section 483(f) of the Internal Revenue Code of 1954 \[now 1986\] (as in effect on the day before the date of the enactment of Public Law 99–121 \[Oct. 11, 1985\]) applies, such section shall be treated as providing that the discount rate to be used for purposes of section 483(c)(1) of such Code shall be 6 percent, compounded semiannually.”
 
 #### Transitional Rule for Purposes of Imputed Interest Rules
 

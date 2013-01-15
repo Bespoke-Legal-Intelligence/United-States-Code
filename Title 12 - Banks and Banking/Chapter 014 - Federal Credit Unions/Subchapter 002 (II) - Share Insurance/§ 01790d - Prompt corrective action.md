@@ -20,7 +20,7 @@
 
 &emsp;&emsp;&emsp;(i) consistent with this section; and
 
-&emsp;&emsp;&emsp;(ii) comparable to section 1831<i>o</i> of this title.
+&emsp;&emsp;&emsp;(ii) comparable to section 1831o of this title.
 
 #### (B) Cooperative character of credit unions
 
@@ -110,7 +110,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If, for purposes of section 1831<i>o</i>(c) of this title, the Federal banking agencies increase or decrease the required minimum level for the leverage limit (as those terms are used in section 1831<i>o</i> of this title), the Board may, by regulation, and subject to subparagraph (B) of this paragraph, correspondingly increase or decrease 1 or more of the net worth ratios specified in subparagraphs (A) through (D) of paragraph (1) of this subsection in an amount that is equal to not more than the difference between the required minimum level most recently established by the Federal banking agencies and 4 percent of total assets (with respect to institutions regulated by those agencies).
+&emsp;&emsp;If, for purposes of section 1831o(c) of this title, the Federal banking agencies increase or decrease the required minimum level for the leverage limit (as those terms are used in section 1831o of this title), the Board may, by regulation, and subject to subparagraph (B) of this paragraph, correspondingly increase or decrease 1 or more of the net worth ratios specified in subparagraphs (A) through (D) of paragraph (1) of this subsection in an amount that is equal to not more than the difference between the required minimum level most recently established by the Federal banking agencies and 4 percent of total assets (with respect to institutions regulated by those agencies).
 
 #### (B) Determinations required
 
@@ -212,11 +212,11 @@
 
 #### (h) More stringent treatment based on other supervisory criteria
 
-With respect to the exercise of authority by the Board under regulations comparable to section 1831<i>o</i>(g) of this title—
+With respect to the exercise of authority by the Board under regulations comparable to section 1831o(g) of this title—
 
 &emsp;(1) the Board may not reclassify an insured credit union into a lower net worth category, or treat an insured credit union as if it were in a lower net worth category, for reasons not pertaining to the safety and soundness of that credit union; and
 
-&emsp;(2) the Board may not delegate its authority to reclassify an insured credit union into alower net worth category or to treat an insured credit union as if it were in a lower net worth category.
+&emsp;(2) the Board may not delegate its authority to reclassify an insured credit union into a lower net worth category or to treat an insured credit union as if it were in a lower net worth category.
 
 #### (i) Action required regarding critically undercapitalized credit unions
 
@@ -344,7 +344,7 @@ With respect to the exercise of authority by the Board under regulations compara
 
 Material supervisory determinations, including decisions to require prompt corrective action, made pursuant to this section by Administration officials other than the Board may be appealed to the Board pursuant to the independent appellate process required by section 4806 of this title (or, if the Board so specifies, pursuant to separate procedures prescribed by regulation).
 
-#### (<i>l</i>) Consultation and cooperation with State credit union supervisors
+#### (l) Consultation and cooperation with State credit union supervisors
 
 #### (1) In general
 
@@ -352,7 +352,7 @@ Material supervisory determinations, including decisions to require prompt corre
 
 #### (2) Evaluating net worth restoration plan
 
-&emsp;In evaluating any net worth restoration plan submitted by a State-chartered insured credit union, the Board shall seek the views of the State official having jurisdiction over the credit union.
+&emsp;In evaluating any net worth restoration plan submitted by a State-chartered insured credit union, the Board shall seek the views of theState official having jurisdiction over the credit union.
 
 #### (3) Deciding whether to appoint conservator or liquidating agent
 
@@ -394,7 +394,7 @@ This section does not apply to any insured credit union that—
 
 This section does not limit any authority of the Board or a State to take action in addition to (but not in derogation of) any action that is required under this section.
 
-#### (<i>o</i>) Definitions
+#### (o) Definitions
 
 For purposes of this section the following definitions shall apply:
 
@@ -436,7 +436,7 @@ Section 8L of the Inspector General Act of 1978, referred to in subsec. (j)(5)(A
 
 #### Amendments
 
-<b>2011</b>—Subsec. (<i>o</i>)(2). Pub. L. 111–382 amended par. (2) generally. Prior to amendment, text read as follows: “The term ‘net worth’—
+<b>2011</b>—Subsec. (o)(2). Pub. L. 111–382 amended par. (2) generally. Prior to amendment, text read as follows: “The term ‘net worth’—
 
 &emsp;“(A) with respect to any insured credit union, means the retained earnings balance of the credit union, as determined under generally accepted accounting principles, together with any amounts that were previously retained earnings of any other credit union with which the credit union has combined; and
 
@@ -454,7 +454,7 @@ Section 8L of the Inspector General Act of 1978, referred to in subsec. (j)(5)(A
 
 <b>2006</b>—Subsec. (n). Pub. L. 109–351, §726(25), inserted “any action” before “that is required”.
 
-Subsec. (<i>o</i>)(2)(A). Pub. L. 109–351, §504, inserted “the” before “retained earnings balance” and “, together with any amounts that were previously retained earnings of any other credit union with which the credit union has combined” before semicolon.
+Subsec. (o)(2)(A). Pub. L. 109–351, §504, inserted “the” before “retained earnings balance” and “, together with any amounts that were previously retained earnings of any other credit union with which the credit union has combined” before semicolon.
 
 #### Effective Date of 2010 Amendment
 
@@ -504,9 +504,9 @@ Pub. L. 105–219, title III, §301(c), Aug. 7, 1998, 112 Stat. 930, provided th
 
 Pub. L. 105–219, title III, §301(f), Aug. 7, 1998, 112 Stat. 931, provided that: “When the Board publishes proposed regulations pursuant to subsection (d)(1)(A) \[set out above\], or promulgates final regulations pursuant to subsection (d)(1)(B) \[set out above\], the Board shall submit to the Congress a report that specifically explains—
 
-&emsp;“(1) how the regulations carry out section 216(b)(1)(B) of the Federal Credit Union Act \[12 U.S.C.1790d(b)(1)(B)\] (as added by this section), relating to the cooperative character of credit unions; and
+&emsp;“(1) how the regulations carry out section 216(b)(1)(B) of the Federal Credit Union Act \[12 U.S.C. 1790d(b)(1)(B)\] (as added by this section), relating to the cooperative character of credit unions; and
 
-&emsp;“(2) how the regulations differ from section 38 of the Federal Deposit Insurance Act \[12 U.S.C. 1831<i>o</i>\], and the reasons for those differences.”
+&emsp;“(2) how the regulations differ from section 38 of the Federal Deposit Insurance Act \[12 U.S.C. 1831o\], and the reasons for those differences.”
 
 #### Definitions
 

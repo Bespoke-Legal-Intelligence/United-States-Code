@@ -64,7 +64,7 @@
 
 #### (1) In general
 
-&emsp;For any provision of legislation that meets the criteria in subsection (c), (d), (e) or (f) of section 936 of this title, the Chairs of the Committees on the Budget of the House and Senate, as applicable, shall request that CBO adjust the estimate of budgetary effects of that legislation pursuant to paragraph (2) for the purposes of this chapter. A single piece of legislation may contain provisions that meet criteria in more than one of the subsections referred to in the preceding sentence. CBO shall adjust estimates for legislation designatedunder subsection (a) and estimated under subsection (b). OMB shall adjust estimates for legislation estimated under subsection (d)(3).
+&emsp;For any provision of legislation that meets the criteria in subsection (c), (d), (e) or (f) of section 936 of this title, the Chairs of the Committees on the Budget of the House and Senate, as applicable, shall request that CBO adjust the estimate of budgetary effects of that legislation pursuant to paragraph (2) for the purposes of this chapter. A single piece of legislation may contain provisions that meet criteria in more than one of the subsections referred to in the preceding sentence. CBO shall adjust estimates for legislation designated under subsection (a) and estimated under subsection (b). OMB shall adjust estimates for legislation estimated under subsection (d)(3).
 
 #### (2) Adjustments
 
@@ -122,7 +122,7 @@
 
 #### (e) Look-back to capture current-year effects
 
-For purposes of this section, OMB shall treat the budgetary effects of PAYGO legislation enacted during a session of Congress that occurduring the current year as though they occurred in the budget year.
+For purposes of this section, OMB shall treat the budgetary effects of PAYGO legislation enacted during a session of Congress that occur during the current year as though they occurred in the budget year.
 
 #### (f) Averaging used to measure compliance over 5-year and 10-year periods
 
@@ -181,6 +181,8 @@ OMB shall cumulate the budgetary effects of a PAYGO Act over the budget year (wh
 The Statutory Pay-As-You-Go Act of 2010, referred to in subsec. (a)(1), is title I of Pub. L. 111–139, Feb. 12, 2010, 124 Stat. 8, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 931 of this title and Tables.
 
 This Act, referred to in subsecs. (a)(2)(A)(i), (B)(i) and (g)(1), (4), is Pub. L. 111–139, Feb. 12, 2010, 124 Stat. 8, which enacted this chapter, amended sections 639, 900, 905, and 906 of this title and section 3101 of Title 31, Money and Finance, and enacted provisions set out as a note under section 712 of Title 31. For complete classification of this Act to the Code, see Tables.
+
+Legislation titled the “Community Living Assistance Services and Supports Act”, referred to in subsec. (d)(6), was enacted as title VIII of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 828. Title VIII, which was also known as the “CLASS Act”, enacted subchapter XXX of chapter 6A of Title 42, The Public Health and Welfare, amended section 1396a of Title 42, enacted provisions set out as notes under section 300ll of Title 42, and amended provisions set out as a note under section 1396p of Title 42, prior to repeal by Pub. L. 112–240, title VI, §642(b)(1), Jan. 2, 2013, 126 Stat. 2358.
 
 This chapter, referred to in subsecs. (c)(1) and (g)(2), was in the original “this title”, meaning title I of Pub. L. 111–139, Feb. 12, 2010, 124 Stat. 8, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under section 931 of this title and Tables.
 

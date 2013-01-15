@@ -154,7 +154,7 @@ In subsection (i), the last 12 words of section 5145(c) of title 10 are omitted 
 
 #### Amendments
 
-<b>1985</b>—Pub. L. 99–145 substituted “Pay grades: retired Coast Guard rear admirals (lower half)” for “Pay grade: retired Coast Guard commodores” in section catchline, and substituted “rear admiral (lower half)” for “commodore” in text.
+<b>1985</b>—Pub. L. 99–145 substituted “Pay grades: retired Coast Guard rear admirals (lower half)” for “Pay grade:retired Coast Guard commodores” in section catchline, and substituted “rear admiral (lower half)” for “commodore” in text.
 
 <b>1984</b>—Pub. L. 98–557 substituted “Pay grade: retired Coast Guard commodores” for “Pay grades: commodores, retired list” in section catchline.
 
@@ -186,11 +186,11 @@ Subsec. (k). Pub. L. 96–513, §401(a)(4), struck out subsec. (k) which related
 
 Pub. L. 96–342 substituted provisions respecting pay when initially appointed as a rear admiral and while serving as a rear admiral under such appointment or a subsequent appointment for provisions respecting pay while serving under an appointment under section 5767(c) of title 10.
 
-Subsec. (<i>l</i>). Pub. L. 96–513, §401(a)(4), struck out subsec. (<i>l</i>) which related to entitlement of an officer of the Navy or Marine Corps serving as Assistant Judge Advocate General of the Navy.
+Subsec. (l). Pub. L. 96–513, §401(a)(4), struck out subsec. (l) which related to entitlement of an officer of the Navy or Marine Corps serving as Assistant Judge Advocate General of the Navy.
 
 <b>1972</b>—Subsec. (f). Pub. L. 92–451 struck out “Except for those whose basic pay is otherwise specifically authorized by law,” and substituted “in grades above captain, less the number of officers serving in grades above rear admiral”, for “in that grade” in first sentence.
 
-<b>1968</b>—Subsec. (<i>l</i>). Pub. L. 90–623 redesignated as subsec. (<i>l</i>) the subsection relating to basic pay of the Assistant Judge Advocate General of the Navy, formerly designated as subsec. (k).
+<b>1968</b>—Subsec. (l). Pub. L. 90–623 redesignated as subsec. (l) the subsection relating to basic pay of the Assistant Judge Advocate General of the Navy, formerly designated as subsec. (k).
 
 <b>1967</b>—Subsec. (g). Pub. L. 90–179, §7(1), inserted “or as Deputy Judge Advocate General of the Navy,”.
 
@@ -206,11 +206,11 @@ Pub. L. 90–130 added subsec. (k) relating to a woman officer appointed under s
 
 Subsec. (h). Pub. L. 89–718, §50(2), struck out par. (2) relating to Chief of Naval Materiel.
 
-#### Effective Date of 1980 Amendments
+#### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under the amendment by Pub. L. 96–513 effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under section 101 of Title 10, Armed Forces.
 
-Section 1004(b) of Pub. L. 96–342 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to basic pay payable for periods beginning on or after the date of the enactment of this Act \[Sept 8, 1980\].”
+Pub. L. 96–342, title X, §1004(b), Sept. 8, 1980, 94 Stat. 1120, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to basic pay payable for periods beginning on or after the date of the enactment of this Act \[Sept 8, 1980\].”
 
 #### Effective Date of 1972 Amendment
 

@@ -76,7 +76,7 @@ Pub. L. 103–112, title I, §102, Oct. 21, 1993, 107 Stat. 1089, Department of 
 
 #### Deposit Into Fund Between July 1, and July 15, 1976, of Specified Part of August 15, 1975, Statement
 
-Pub. L. 94–274, title I, §120, Apr. 21, 1976, 90 Stat. 389, provided that for the purposes of 5 U.S.C. 8147(b), each agency and instrumentality of the United States dependent upon an annual appropriation and having anemployee who is or may be entitled to compensation benefits under this subchapter or any extension or application thereof shall deposit in the Treasury to the credit of the Employees’ Compensation Fund, no later than July 15, 1976, but no earlier than July 1, 1976, 25 per centum of the amount stated in the August 15, 1975, statement.
+Pub. L. 94–274, title I, §120, Apr. 21, 1976, 90 Stat. 389, provided that for the purposes of 5 U.S.C. 8147(b), each agency and instrumentality of the United States dependent upon an annual appropriation and having an employee who is or may be entitled to compensation benefits under this subchapter or any extension or application thereof shall deposit in the Treasury to the credit of the Employees’ Compensation Fund, no later than July 15, 1976, but no earlier than July 1, 1976, 25 per centum of the amount stated in the August 15, 1975, statement.
 
 #### Personnel Not Affected by 1967 Increase
 

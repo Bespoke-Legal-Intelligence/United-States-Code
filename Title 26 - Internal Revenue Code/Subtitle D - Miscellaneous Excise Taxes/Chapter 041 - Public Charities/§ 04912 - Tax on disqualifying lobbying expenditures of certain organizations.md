@@ -42,5 +42,5 @@ If tax is imposed under subsection (a) on the lobbying expenditures of any organ
 
 #### Effective Date
 
-Section 10714(e) of Pub. L. 100–203 provided that: “The amendments made by this section \[enacting this section and amending sections 6501 and 7454 of this title\] shall apply to taxable years beginning after the date of the enactment of this Act \[Dec. 22, 1987\].”
+Pub. L. 100–203, title X, §10714(e), Dec. 22, 1987, 101 Stat. 1330–472, provided that: “The amendments made by this section \[enacting this section and amending sections 6501 and 7454 of this title\] shall apply to taxable years beginning after the date of the enactment of this Act \[Dec. 22, 1987\].”
 

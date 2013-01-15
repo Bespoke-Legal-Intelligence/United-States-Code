@@ -78,7 +78,7 @@ Child's live testimony by 2-way closed circuit television.—
 
 &emsp;(2)
 
-Videotaped deposition of child.—(A) In a proceeding involving an alleged offense against a child, the attorney for the Government, the child's attorney, the child's parent or legal guardian, or the guardian ad litem appointed under subsection (h) may apply for an order that a deposition be taken of the child's testimony and that the deposition be recorded and preserved on videotape.
+Videotaped deposition of child.—(A) In a proceeding involving an alleged offense against a child, the attorney for the Government, the child's attorney, the child's parent or legal guardian, or the guardian ad litem appointed under subsection (h) may apply for anorder that a deposition be taken of the child's testimony and that the deposition be recorded and preserved on videotape.
 
 &emsp;(B)(i) Upon timely receipt of an application described in subparagraph (A), the court shall make a preliminary finding regarding whether at the time of trial the child is likely to be unable to testify in open court in the physical presence of the defendant, jury, judge, and public for any of the following reasons:
 
@@ -162,7 +162,7 @@ Not before jury.—A competency examination regarding a child witness shall be c
 
 &emsp;(7)
 
-Direct examination of child.—Examination of a child related to competency shall normally be conducted by the court on the basis of questions submitted by the attorney for the Government and the attorney for the defendant including a party acting as an attorney pro se. The court may permit an attorney but not a party acting as an attorney pro se to examine a child directly on competency if the court is satisfied that the child will not suffer emotional trauma as a result of the examination.
+Direct examination of child.—Examination of a child related to competency shall normally be conducted by the court on thebasis of questions submitted by the attorney for the Government and the attorney for the defendant including a party acting as an attorney pro se. The court may permit an attorney but not a party acting as an attorney pro se to examine a child directly on competency if the court is satisfied that the child will not suffer emotional trauma as a result of the examination.
 
 &emsp;(8)
 
@@ -236,7 +236,7 @@ In general.—A multidisciplinary child abuse team shall be used when it is feas
 
 Role of multidisciplinary child abuse teams.—The role of the multidisciplinary child abuse team shall be to provide for a child services that the members of the team in their professional roles are capable of providing, including—
 
-&emsp;&emsp;(A) medical diagnoses and evaluation services, including provision or interpretation of x-rays, laboratory tests, and related services, as needed, and documentation of findings;
+&emsp;&emsp;(A) medical diagnoses and evaluation services, including provision or interpretation ofx-rays, laboratory tests, and related services, as needed, and documentation of findings;
 
 &emsp;&emsp;(B) telephone consultation services in emergencies and in other situations;
 
@@ -278,7 +278,7 @@ Speedy Trial.—In a proceeding in which a child is called to give testimony, on
 
 Stay of Civil Action.—If, at any time that a cause of action for recovery of compensation for damage or injury to the person of a child exists, a criminal action is pending which arises out of the same occurrence and in which the child is the victim, the civil action shall be stayed until the end of all phases of the criminal action and any mention of the civil action during the criminal proceeding is prohibited. As used in this subsection, a criminal action is pending until its final adjudication in the trial court.
 
-(<i>l</i>)
+(l)
 
 Testimonial Aids.—The court may permit a child to use anatomical dolls, puppets, drawings, mannequins, or any other demonstrative device the court deems appropriate for the purpose of assisting a child in testifying.
 
@@ -292,7 +292,7 @@ Prohibition on Reproduction of Child Pornography.—
 
 &emsp;(B) For the purposes of subparagraph (A), property or material shall be deemed to be reasonably available to the defendant if the Government provides ample opportunity for inspection, viewing, and examination at a Government facility of the property or material by the defendant, his or her attorney, and any individual the defendant may seek to qualify to furnish expert testimony at trial.
 
-(Added Pub. L. 101–647, title II, §225(a), Nov. 29, 1990, 104 Stat. 4798; amended Pub. L. 103–322, title XXXIII, §§330010(6), (7), 330011(e), 330018(b), Sept. 13, 1994, 108 Stat. 2143, 2145, 2149; Pub. L. 104–294, title VI, §605(h), Oct. 11, 1996, 110 Stat. 3510; Pub. L. 109–248, title V, §§504, 507, July 27, 2006, 120 Stat. 629, 631; Pub. L. 111–16, §3(11), May 7, 2009, 123 Stat. 1608.)
+(Added Pub. L. 101–647, title II, §225(a), Nov. 29, 1990, 104 Stat. 4798; amended Pub. L. 103–322, titleXXXIII, §§330010(6), (7), 330011(e), 330018(b), Sept. 13, 1994, 108 Stat. 2143, 2145, 2149; Pub. L. 104–294, title VI, §605(h), Oct. 11, 1996, 110 Stat. 3510; Pub. L. 109–248, title V, §§504, 507, July 27, 2006, 120 Stat. 629, 631; Pub. L. 111–16, §3(11), May 7, 2009, 123 Stat. 1608.)
 
 #### References in Text
 
@@ -328,5 +328,5 @@ Amendment by Pub. L. 111–16 effective Dec. 1, 2009, see section 7 of Pub. L. 1
 
 #### Effective Date of 1994 Amendment
 
-Section 330011(e) of Pub. L. 103–322 provided that the amendment made by that section is effective as of the date on which section 225(a) of Pub. L. 101–647 took effect.
+Pub. L. 103–322, title XXXIII, §330011(e), Sept. 13, 1994, 108 Stat. 2145, provided that the amendment made by that section is effective as of the date on which section 225(a) of Pub. L. 101–647 took effect.
 

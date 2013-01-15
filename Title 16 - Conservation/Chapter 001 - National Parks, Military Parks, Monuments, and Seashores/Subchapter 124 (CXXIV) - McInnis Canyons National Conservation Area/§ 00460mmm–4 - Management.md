@@ -60,7 +60,7 @@ Subject to valid existing rights, lands designated as wilderness by this subchap
 
 #### (1) In general
 
-&emsp;Except as provided by paragraph (2), the Secretary shall issue and administer any grazing leases or permits in the Conservation Area and the Wilderness in accordance with the same laws (including regulations) and Executive orders followed by the Secretary in issuing and administering grazing leases and permits on other land under the jurisdiction of the Bureau of Land Management.
+&emsp;Except as provided by paragraph (2), the Secretary shall issue and administer any grazing leases or permits in the Conservation Area andthe Wilderness in accordance with the same laws (including regulations) and Executive orders followed by the Secretary in issuing and administering grazing leases and permits on other land under the jurisdiction of the Bureau of Land Management.
 
 #### (2) Grazing in wilderness
 
@@ -104,7 +104,7 @@ The Congress does not intend for the establishment of the Conservation Area or t
 
 The Secretary may establish minimal interpretive facilities or sites in cooperation with other public or private entities as the Secretary considers appropriate. Any facilities or sites shall be designed to protect the resources referred to in section 460mmm(b) of this title.
 
-#### (<i>l</i>) Water rights
+#### (l) Water rights
 
 #### (1) Findings
 
@@ -132,11 +132,11 @@ The Secretary may establish minimal interpretive facilities or sites in cooperat
 
 #### (4) New projects
 
-&emsp;(A) As used in this paragraph, the term “water resource facility” means irrigation and pumping facilities, reservoirs, water conservation works, aqueducts, canals, ditches, pipelines, wells, hydropower projects, and transmission and other ancillary facilities, and other water diversion, storage, and carriage structures. Such term does not include any such facilities related to or used for the purpose of livestock grazing.
+&emsp;(A) As used in this paragraph, the term “water resource facility” means irrigation andpumping facilities, reservoirs, water conservation works, aqueducts, canals, ditches, pipelines, wells, hydropower projects, and transmission and other ancillary facilities, and other water diversion, storage, and carriage structures. Such term does not include any such facilities related to or used for the purpose of livestock grazing.
 
 &emsp;(B) Except as otherwise provided by subsection (g) of this section or other provisions of this subchapter, on and after October 24, 2000, neither the President nor any other officer, employee, or agent of the United States shall fund, assist, authorize, or issue a license or permit for the development of any new water resource facility within the wilderness area designated by this subchapter.
 
-&emsp;(C) Except as provided in this paragraph, nothing in this subchapter shall be construedto affect or limit the use, operation, maintenance, repair, modification, or replacement of water resource facilities in existence on October 24, 2000, within the boundaries of the Wilderness.
+&emsp;(C) Except as provided in this paragraph, nothing in this subchapter shall be construed to affect or limit the use, operation, maintenance, repair, modification, or replacement of water resource facilities in existence on October 24, 2000, within the boundaries of the Wilderness.
 
 #### (5) Boundaries along Colorado River
 

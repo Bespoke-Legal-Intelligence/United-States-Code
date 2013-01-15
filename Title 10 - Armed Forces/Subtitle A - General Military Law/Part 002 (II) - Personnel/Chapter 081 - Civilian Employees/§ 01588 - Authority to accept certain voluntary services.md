@@ -34,6 +34,8 @@ Authority To Accept Services.—Subject to subsection (b) and notwithstanding se
 
 &emsp;(8) Voluntary services to support programs of a committee of the Employer Support of the Guard and Reserve as authorized by the Secretary of Defense.
 
+&emsp;(9) Voluntary services to facilitate accounting for missing persons.
+
 (b)
 
 Requirements and Limitations.—(1) The Secretary concerned shall notify the person of the scope of the services accepted.
@@ -96,9 +98,11 @@ Authority To Install Equipment.—(1) The Secretary concerned may install teleph
 
 (4) The Secretary of Defense and, with respect to the Coast Guard when it is not operating as a service in the Navy, the Secretary of Homeland Security shall prescribe regulations to carry out this subsection.
 
-(Added Pub. L. 98–94, title XII, §1266(a), Sept. 24, 1983, 97 Stat. 704; amended Pub. L. 99–145, titleXVI, §1624(a), Nov. 8, 1985, 99 Stat. 778; Pub. L. 99–661, div. A, title XIII, §1355, Nov. 14, 1986, 100 Stat. 3996; Pub. L. 100–26, §3(9), Apr. 21, 1987, 101 Stat. 274; Pub. L. 101–189, div. A, title XVI, §1634, Nov. 29, 1989, 103 Stat. 1608; Pub. L. 102–190, div. A, title III, §345, Dec. 5, 1991, 105 Stat. 1346; Pub. L. 103–337, div. A, title X, §1061(a), Oct. 5, 1994, 108 Stat. 2845; Pub. L. 104–201, div. A, title X, §1074(a)(8), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 106–65, div. A, title III, §371(a), title V, §578(f), Oct. 5, 1999, 113 Stat. 579, 627; Pub. L. 107–107, div. A, title V, §583, Dec. 28, 2001, 115 Stat. 1125; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title V, §553, title X, §1064(b), Dec. 2, 2002, 116 Stat. 2552, 2654; Pub. L. 108–375, div. A, title V, §516, title X, §1081, Oct. 28, 2004, 118 Stat. 1884, 2059; Pub. L. 110–181, div. A, title X, §1063(a)(9), Jan. 28, 2008, 122 Stat. 322.)
+(Added Pub. L. 98–94, title XII, §1266(a), Sept. 24, 1983, 97 Stat. 704; amended Pub. L. 99–145, title XVI, §1624(a), Nov. 8, 1985, 99 Stat. 778; Pub. L. 99–661, div. A, title XIII, §1355, Nov. 14, 1986, 100 Stat. 3996; Pub. L. 100–26, §3(9), Apr. 21, 1987, 101 Stat. 274; Pub. L. 101–189, div. A, title XVI, §1634, Nov. 29, 1989, 103 Stat. 1608; Pub. L. 102–190, div. A, title III, §345, Dec. 5, 1991, 105 Stat. 1346; Pub. L. 103–337, div. A, title X, §1061(a), Oct. 5, 1994, 108 Stat. 2845; Pub. L. 104–201, div. A, title X, §1074(a)(8), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 106–65, div. A, title III, §371(a), title V, §578(f), Oct. 5, 1999, 113 Stat. 579, 627; Pub. L. 107–107, div. A, title V, §583, Dec. 28, 2001, 115 Stat. 1125; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title V, §553, title X, §1064(b), Dec. 2, 2002, 116 Stat. 2552, 2654; Pub. L. 108–375, div. A, title V, §516, title X, §1081, Oct. 28, 2004, 118 Stat. 1884, 2059; Pub. L. 110–181, div. A, title X, §1063(a)(9), Jan. 28, 2008, 122 Stat. 322; Pub. L. 112–239, div. A, title V, §587(b), Jan. 2, 2013, 126 Stat. 1768.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (a)(9). Pub. L. 112–239 added par. (9).
 
 <b>2008</b>—Subsec. (d)(1)(B). Pub. L. 110–181 substituted “chapters 309 and 311 of title 46” for “the Act of March 9, 1920, commonly known as the ‘Suits in Admiralty Act’ (41 Stat. 525; 46 U.S.C. App. 741 et seq.) and the Act of March 3, 1925, commonly known as the ‘Public Vessels Act’ (43 Stat. 1112; 46 U.S.C. App. 781 et seq.)”.
 
@@ -146,7 +150,7 @@ Amendment by Pub. L. 100–26 applicable as if included in Pub. L. 99–661 when
 
 #### Effective Date of 1985 Amendment
 
-Section 1624(b) of Pub. L. 99–145 provided that: “The amendments made by this section \[amending this section\] shall take effect on October 1, 1985.”
+Pub. L. 99–145, title XVI, §1624(b), Nov. 8, 1985, 99 Stat. 778, provided that: “The amendments made by this section \[amending this section\] shall take effect on October 1, 1985.”
 
 #### Report on Implementation of Authority To Install Telecommunications Equipment for Persons Performing Voluntary Services
 
@@ -154,7 +158,7 @@ Pub. L. 106–65, div. A, title III, §371(b), Oct. 5, 1999, 113 Stat. 579, prov
 
 #### Acceptance of Voluntary Services Pilot Program
 
-Section 1061(b) of Pub. L. 103–337 provided that:
+Pub. L. 103–337, div. A, title X, §1061(b), Oct. 5, 1994, 108 Stat. 2847, provided that:
 
 “(1) The Secretary of Defense shall conduct a pilot program, for not less than six months, to accept voluntary services under the authority provided in section 1588 of title 10, United States Code, as amended by subsection (a). The purpose of the pilot program shall be to evaluate the policies and procedures of the Department of Defense for the acceptance of voluntary services under such section. The pilot program shall involve a variety of services, programs, and locations.
 

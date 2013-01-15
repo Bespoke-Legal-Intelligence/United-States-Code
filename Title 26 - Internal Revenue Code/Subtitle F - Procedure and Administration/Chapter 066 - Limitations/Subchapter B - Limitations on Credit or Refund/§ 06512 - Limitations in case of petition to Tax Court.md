@@ -24,7 +24,7 @@ If the Secretary has mailed to the taxpayer a notice of deficiency under section
 
 #### (2) Jurisdiction to enforce
 
-&emsp;If, after 120 days after a decision of the Tax Court has become final, the Secretary has failed to refund the overpayment determinedby the Tax Court, together with the interest thereon as provided in subchapter B of chapter 67, then the Tax Court, upon motion by the taxpayer, shall have jurisdiction to order the refund of such overpayment and interest. An order of the Tax Court disposing of a motion under this paragraph shall be reviewable in the same manner as a decision of the Tax Court, but only with respect to the matters determined in such order.
+&emsp;If, after 120 days after a decision of the Tax Court has become final, the Secretary has failed to refund the overpayment determined by the Tax Court, together with the interest thereon as provided in subchapter B of chapter 67, then the Tax Court, upon motion by the taxpayer, shall have jurisdiction to order the refund of such overpayment and interest. An order of the Tax Court disposing of a motion under this paragraph shall be reviewable in the same manner as a decision of the Tax Court, but only with respect to the matters determined in such order.
 
 #### (3) Limit on amount of credit or refund
 
@@ -118,17 +118,17 @@ Subsec. (b)(1). Pub. L. 91–172, §§101(j)(48), 960(b), inserted reference to 
 
 Amendment by section 1239(c)(2) of Pub. L. 105–34 applicable to partnership taxable years ending after Aug. 5, 1997, see section 1239(f) of Pub. L. 105–34, set out as a note under section 6225 of this title.
 
-Section 1282(b) of Pub. L. 105–34 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to claims for credit or refund for taxable years ending after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title XII, §1282(b), Aug. 5, 1997, 111 Stat. 1038, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to claims for credit or refund for taxable years ending after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
-Section 1451(c) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title XIV, §1451(c), Aug. 5, 1997, 111 Stat. 1054, provided that: “The amendments made bythis section \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 #### Effective Date of 1988 Amendments
 
 Amendment by section 6244(a), (b)(2) of Pub. L. 100–647 applicable to overpayments determined by the Tax Court which have not been refunded by the 90th day after Nov. 10, 1988, see section 6244(c) of Pub. L. 100–647, set out as a note under section 6214 of this title.
 
-Section 6246(c) of Pub. L. 100–647 provided that: “The amendments made by this section \[amending this section and section 7481 of this title\] shall apply to assessments of deficiencies redetermined by the Tax Court made after the date of the enactment of this Act \[Nov. 10, 1988\].”
+Pub. L. 100–647, title VI, §6246(c), Nov. 10, 1988, 102 Stat. 3751, provided that: “The amendments made by this section \[amending this section and section 7481 of this title\] shall apply to assessments of deficiencies redetermined by the Tax Court made after the date of the enactment of this Act \[Nov. 10, 1988\].”
 
-Section 6247(c) of Pub. L. 100–647 provided that: “The amendments made by this section \[amending this section and section 7481 of this title\] shall be effective with respect to Tax Court cases for which the decision is not final on the date of the enactment of this Act \[Nov. 10, 1988\].”
+Pub. L. 100–647, title VI, §6247(c), Nov. 10, 1988, 102 Stat. 3752, provided that: “The amendments made by this section \[amending this section and section 7481 of this title\] shall be effective with respect to Tax Court cases for which the decision is not final on the date of the enactment of this Act \[Nov. 10, 1988\].”
 
 Amendment by Pub. L. 100–418 applicable to crude oil removed from the premises on or after Aug. 23, 1988, see section 1941(c) of Pub. L. 100–418, set out as a note under section 164 of this title.
 

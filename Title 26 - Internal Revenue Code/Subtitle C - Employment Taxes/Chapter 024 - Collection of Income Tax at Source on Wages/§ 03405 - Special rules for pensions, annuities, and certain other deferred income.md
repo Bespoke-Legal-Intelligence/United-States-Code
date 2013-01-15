@@ -148,7 +148,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Any election and any revocation under this section shall be made at such time andin such manner as the Secretary shall prescribe.
+&emsp;&emsp;Any election and any revocation under this section shall be made at such time and in such manner as the Secretary shall prescribe.
 
 #### (B) Payor required to notify payee of rights to elect
 
@@ -236,7 +236,7 @@ Subsec. (d). Pub. L. 102–318, §522(b)(1), (2)(C), redesignated subsec. (c) as
 
 Pub. L. 102–318, §521(b)(40), substituted “(b)(2)” for “(b)(3)” in par. (13)(A).
 
-Pub. L. 102–318, §521(b)(39), amended par. (8) generally. Prior to amendment, par. (8) read as follows: “The maximum amount to be withheld under this section on any designated distribution shall not exceed the sum of the amount of money and the fair market value of other property (other than employer securities of the employer corporation (within the meaning of section 402(a)(3))) received in the distribution. No amount shall be required to be withheld under this section in the case of any designated distribution which consists only of employer securities of the employer corporation (within the meaning of section 402(a)(3)) and cash (not in excess of $200) in lieu of fractional shares.”
+Pub. L. 102–318, §521(b)(39), amended par. (8) generally. Prior to amendment, par. (8) read as follows: “The maximum amount to be withheld under this section on any designated distribution shall not exceed the sum ofthe amount of money and the fair market value of other property (other than employer securities of the employer corporation (within the meaning of section 402(a)(3))) received in the distribution. No amount shall be required to be withheld under this section in the case of any designated distribution which consists only of employer securities of the employer corporation (within the meaning of section 402(a)(3)) and cash (not in excess of $200) in lieu of fractional shares.”
 
 Pub. L. 102–318, §521(b)(38), struck out par. (4) which defined “qualified total distribution” and provided special rule for accumulated deductible employee contributions in determining qualified total distribution.
 
@@ -280,13 +280,13 @@ Amendment by section 522(b)(1)–(2)(C) of Pub. L. 102–318 applicable, except 
 
 #### Effective Date of 1988 Amendment
 
-Section 1012(bb)(2)(D) of Pub. L. 100–647 provided that: “The amendments made by this paragraph \[amending this section\] shall apply to distributions made after the date of the enactment of this Act \[Nov. 10, 1988\].”
+Pub. L. 100–647, title I, §1012(bb)(2)(D), Nov. 10, 1988, 102 Stat. 3534, provided that: “The amendments made by this paragraph \[amending this section\] shall apply to distributions made after the date of the enactment of this Act \[Nov. 10, 1988\].”
 
 #### Effective Date of 1986 Amendment
 
 Amendment by section 1102(e)(1) of Pub. L. 99–514 applicable to contributions and distributions for taxable years beginning after Dec. 31, 1986, see section 1102(g) of Pub. L. 99–514, set out as a note under section 219 of this title.
 
-Section 1234(b)(2) of Pub. L. 99–514 provided that: “The amendment made by this subsection \[amending this section\] shall apply to payments after December 31, 1986.”
+Pub. L. 99–514, title XII, §1234(b)(2), Oct. 22, 1986, 100 Stat. 2566, provided that: “The amendment made by this subsection \[amending this section\] shall apply to payments after December 31, 1986.”
 
 Amendment by section 1875(c)(10) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
@@ -300,7 +300,7 @@ Amendment by section 722(h)(4)(A) of Pub. L. 98–369 applicable to payments or 
 
 #### Effective Date
 
-Section 334(e) of Pub. L. 97–248, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 97–248, title III, §334(e), Sept. 3, 1982, 96 Stat. 627, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 
@@ -318,7 +318,7 @@ Amendments made by subsection (c).—The amendments made by subsection (c) \[ena
 
 “(4)
 
-Periodic payments beginning before january 1, 1983.—For purposes of section 3405(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], in the caseof periodic payments beginning before January 1, 1983, the first periodic payment after December 31, 1982, shall be treated as the first such periodic payment.
+Periodic payments beginning before january 1, 1983.—For purposes of section 3405(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], in the case of periodic payments beginning before January 1, 1983, the first periodic payment after December 31, 1982, shall be treated as the first such periodic payment.
 
 “(5)
 

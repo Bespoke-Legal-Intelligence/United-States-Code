@@ -16,7 +16,7 @@ The uses of local currencies generated under this section should emphasize the d
 
 #### (c) Commodities subject to requirements
 
-Subsection (a) of this section applies with respect to agricultural commodities made available for Poland for fiscal years 1990, 1991, and 1992 under section 1431(b) of title 7, the Food for Peace Act (7 U.S.C. 1691 and following), and section 1736<i>o</i> of title 7.
+Subsection (a) of this section applies with respect to agricultural commodities made available for Poland for fiscal years 1990, 1991, and 1992 under section 1431(b) of title 7, the Food for Peace Act (7 U.S.C. 1691 and following), and section 1736o of title 7.
 
 #### (d) Other uses not precluded
 

@@ -2,7 +2,7 @@
 
 #### (a) Authorization
 
-The President is authorized to transfer excess defense articles under this section to countriesfor which receipt of such articles was justified pursuant to the annual congressional presentation documents for military assistance programs, or for programs under part VIII of subchapter I of this chapter, submitted under section 2394 of this title, or for which receipt of such articles was separately justified to the Congress, for the fiscal year in which the transfer is authorized.
+The President is authorized to transfer excess defense articles under this section to countries for which receipt of such articles was justified pursuant to the annual congressional presentation documents for military assistance programs, or for programs under part VIII of subchapter I of this chapter, submitted under section 2394 of this title, or for which receipt of such articles was separately justified to the Congress, for the fiscal year in which the transfer is authorized.
 
 #### (b) Limitations on transfers
 
@@ -68,7 +68,7 @@ Section 2392(d) of this title shall not apply with respect to transfers of exces
 
 &emsp;&emsp;(B) an assessment of the impact of the transfer on the military readiness of the United States;
 
-&emsp;&emsp;(C) an assessment of the impact of the transfer on the national technology and industrial base and, particularly, the impact on opportunities of entities in the national technology and industrial base to sell new orused equipment to the countries to which such articles are to be transferred; and
+&emsp;&emsp;(C) an assessment of the impact of the transfer on the national technology and industrial base and, particularly, the impact on opportunities of entities in the national technology and industrial base to sell new or used equipment to the countries to which such articles are to be transferred; and
 
 &emsp;&emsp;(D) a statement describing the current value of such article and the value of such article at acquisition.
 
@@ -148,11 +148,11 @@ Subsecs. (c), (d). Pub. L. 100–202, §101(b) \[title VIII, §8143(c)(2)\], ins
 
 #### Effective Date of 1996 Amendment
 
-Section 1012(g)(2) of Pub. L. 104–106 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to the transfer of a vessel on or after the date of the enactment of this Act \[Feb. 10, 1996\] (other than a vessel the transfer of which is authorized by subsection (a) \[110 Stat. 421\] or by law before the date of the enactment of this Act).”
+Pub. L. 104–106, title X, §1012(g)(2), Feb. 10, 1996, 110 Stat. 422, provided that: “The amendment made byparagraph (1) \[amending this section\] shall apply with respect to the transfer of a vessel on or after the date of the enactment of this Act \[Feb. 10, 1996\] (other than a vessel the transfer of which is authorized by subsection (a) \[110 Stat. 421\] or by law before the date of the enactment of this Act).”
 
 #### Effective Date of 1993 Amendment
 
-Section 1182(c)(2) of Pub. L. 103–160 provided in part that the amendment made by that section is effective as of Oct. 23, 1992.
+Pub. L. 103–160, title XI, §1182(c)(2), Nov. 30, 1993, 107 Stat. 1772, provided in part that the amendment made by that section is effective as of Oct. 23, 1992.
 
 #### Transfer of Functions
 
@@ -172,7 +172,7 @@ Pub. L. 104–107, title V, §536, Feb. 12, 1996, 110 Stat. 735.
 
 #### Avoiding Duplicative Amendments
 
-Section 1049(b) of Pub. L. 102–190, which provided that if the International Cooperation Act of 1991 was enacted and made the same amendments to this section as did section 1049(a) of Pub. L. 102–190, then the duplicative amendments enacted by section 1049(a) would not take effect, was repealed by Pub. L. 102–484, div. A, title X, §1053(7), Oct. 23, 1992, 106 Stat. 2502.
+Pub. L. 102–190, title X, §1049(b), Dec. 5, 1991, 105 Stat. 1469, which provided that if the International Cooperation Act of 1991 was enacted and made the same amendments to this section as did section 1049(a) of Pub. L. 102–190, then the duplicative amendments enacted by section 1049(a) would not take effect, was repealed by Pub. L. 102–484, div. A, title X, §1053(7), Oct. 23, 1992, 106 Stat. 2502.
 
 #### Modernization of Military Capabilities of Certain Countries
 
@@ -242,7 +242,7 @@ Maintenance of Military Balance in Eastern Mediterranean.—
 
 &emsp;“(1)
 
-United states policy.—The Congress intends that excess defense articles be made available underthis section consistent with the United States policy, established by section 841 of the International Cooperation Act of 1989 \[probably means section 841 of H.R. 2655, 101st Congress, which was not enacted\], of maintaining the military balance in the Eastern Mediterranean.
+United states policy.—The Congress intends that excess defense articles be made available under this section consistent with the United States policy, established by section 841 of the International Cooperation Act of 1989 \[probably means section 841 of H.R. 2655, 101st Congress, which was not enacted\], of maintaining the military balance in the Eastern Mediterranean.
 
 &emsp;“(2)
 
@@ -266,7 +266,7 @@ Major Illicit Drug Producing Countries in Latin America and the Caribbean.—
 
 &emsp;“(1)
 
-Purpose.—Excess defense articles shall be transferred under subsection (a)(2) for the purpose of encouraging the military forces of an eligible country in Latin America and the Caribbean to participate with local law enforcement agencies in a comprehensive national antinarcotics program, conceived and developed by the government of that country, by conducting activities within that country and on the high seas to prevent the production, processing, trafficking, transportation, and consumption of illicit narcotic or psychotrophic \[sic\] drugs or other controlled substances.
+Purpose.—Excess defense articles shall be transferred under subsection (a)(2) for the purpose of encouraging the military forces of an eligible country in Latin America and the Caribbean to participate with local law enforcement agencies in a comprehensive national antinarcotics program, conceived anddeveloped by the government of that country, by conducting activities within that country and on the high seas to prevent the production, processing, trafficking, transportation, and consumption of illicit narcotic or psychotrophic \[sic\] drugs or other controlled substances.
 
 &emsp;“(2)
 

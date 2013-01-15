@@ -10,7 +10,7 @@
 - [&sect; 41703 - Navigation of foreign civil aircraft](%C2%A7%2041703%20-%20Navigation%20of%20foreign%20civil%20aircraft.md)
 - [&sect; 41704 - Transporting property not to be transported in aircraft cabins](%C2%A7%2041704%20-%20Transporting%20property%20not%20to%20be%20transported%20in%20aircraft%20cabins.md)
 - [&sect; 41705 - Discrimination against handicapped individuals](%C2%A7%2041705%20-%20Discrimination%20against%20handicapped%20individuals.md)
-- [&sect; 41706 - Prohibitions against smoking on scheduled flights](%C2%A7%2041706%20-%20Prohibitions%20against%20smoking%20on%20scheduled%20flights.md)
+- [&sect; 41706 - Prohibitions against smoking on passenger flights](%C2%A7%2041706%20-%20Prohibitions%20against%20smoking%20on%20passenger%20flights.md)
 - [&sect; 41707 - Incorporating contract terms into written instrument](%C2%A7%2041707%20-%20Incorporating%20contract%20terms%20into%20written%20instrument.md)
 - [&sect; 41708 - Reports](%C2%A7%2041708%20-%20Reports.md)
 - [&sect; 41709 - Records of air carriers](%C2%A7%2041709%20-%20Records%20of%20air%20carriers.md)
@@ -28,3 +28,4 @@
 - [&sect; 41721 - Reports by carriers on incidents involving animals during air transport](%C2%A7%2041721%20-%20Reports%20by%20carriers%20on%20incidents%20involving%20animals%20during%20air%20transport.md)
 - [&sect; 41722 - Delay reduction actions](%C2%A7%2041722%20-%20Delay%20reduction%20actions.md)
 - [&sect; 41723 - Notice concerning aircraft assembly](%C2%A7%2041723%20-%20Notice%20concerning%20aircraft%20assembly.md)
+- [&sect; 41724 - Musical instruments](%C2%A7%2041724%20-%20Musical%20instruments.md)

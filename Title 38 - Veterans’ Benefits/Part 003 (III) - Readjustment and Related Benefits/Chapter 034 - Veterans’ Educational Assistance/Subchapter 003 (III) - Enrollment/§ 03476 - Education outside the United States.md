@@ -22,7 +22,7 @@ Provisions similar to those comprising this section were contained in Pub. L. 85
 
 #### Effective Date of 1994 Amendment
 
-Section 604(b) of Pub. L. 103–446 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to courses approved on or after the date of the enactment of this Act \[Nov. 2, 1994\].”
+Pub. L. 103–446, title VI, §604(b), Nov. 2, 1994, 108 Stat. 4671, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to courses approved on or after the date of the enactment of this Act \[Nov. 2, 1994\].”
 
 #### Effective Date of 1980 Amendment
 

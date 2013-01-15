@@ -20,7 +20,7 @@ Under the program established under subsection (a) of this section, the Secretar
 
 &emsp;(3) determine the most suitable means and methods of developing and encouraging the production, distribution, and use of replacement fuels and alternative fueled vehicles in a manner that would meet the program goals described in subsection (a) of this section;
 
-&emsp;(4) identify ways to encourage the development of reliable replacement fuels and alternative fueled vehicle industries in the UnitedStates, and the technical, economic, and institutional barriers to such development; and
+&emsp;(4) identify ways to encourage the development of reliable replacement fuels and alternative fueled vehicle industries in the United States, and the technical, economic, and institutional barriers to such development; and
 
 &emsp;(5) determine the greenhouse gas emission implications of increasing the use of replacement fuels, including an estimate of the maximum feasible reduction in such emissions from the use of replacement fuels.
 

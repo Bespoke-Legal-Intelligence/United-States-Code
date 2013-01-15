@@ -6,7 +6,7 @@ Annual Reports.—Not later than the date on which the President submits the bud
 
 (b)
 
-Midyear Reports.—Not later than June 1 of each fiscal year, the Secretary of Defense shall submit to the congressional committeesspecified in subsection (a) a report on transfers, during the first six months of that fiscal year, from funds available for each covered budget activity.
+Midyear Reports.—Not later than June 1 of each fiscal year, the Secretary of Defense shall submit to the congressional committees specified in subsection (a) a report on transfers, during the first six months of that fiscal year, from funds available for each covered budget activity.
 
 (c)
 

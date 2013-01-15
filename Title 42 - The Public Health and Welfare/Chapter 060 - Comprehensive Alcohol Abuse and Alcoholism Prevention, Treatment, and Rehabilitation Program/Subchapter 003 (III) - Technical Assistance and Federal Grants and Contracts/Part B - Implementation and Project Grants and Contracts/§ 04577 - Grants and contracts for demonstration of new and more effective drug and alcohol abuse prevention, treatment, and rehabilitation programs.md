@@ -6,7 +6,7 @@ The Secretary, acting through the Institute, may make grants to public and nonpr
 
 &emsp;(1) to conduct demonstration and evaluation projects, with a high priority on prevention and early intervention projects in occupational and educational settings and on modified community living and work-care arrangements such as halfway houses, recovery homes, and supervised home care, and with particular emphasis on developing new and more effective alcohol abuse and alcoholism prevention, treatment, and rehabilitation programs,
 
-&emsp;(2) to support projects of a demonstrable value in developing methods for the effective coordination of all alcoholism treatment, training, prevention, and research resources available within a health service area established under section 300<i>l</i> <sup>1</sup> of this title, and
+&emsp;(2) to support projects of a demonstrable value in developing methods for the effective coordination of all alcoholism treatment, training, prevention, and research resources available within a health service area established under section 300l <sup>1</sup> of this title, and
 
 &emsp;(3) to provide education and training, which may include additional training to enable treatment personnel to meet certification requirements of public or private accreditation or licensure, or requirements of third-party payors,
 
@@ -52,7 +52,7 @@ Projects and programs for which grants and contracts are made under this section
 
 #### References in Text
 
-Section 300<i>l</i> of this title, referred to in subsec. (a)(2), was repealed effective Jan. 1, 1987, by Pub. L. 99–660, title VII, §701(a), Nov. 14, 1986, 100 Stat. 3799.
+Section 300l of this title, referred to in subsec. (a)(2), was repealed effective Jan. 1, 1987, by Pub. L. 99–660, title VII, §701(a), Nov. 14, 1986, 100 Stat. 3799.
 
 #### Prior Provisions
 
@@ -94,11 +94,11 @@ Subsec. (d). Pub. L. 94–371, §4(c)(1), struck out subsec. (d) which related t
 
 #### Effective Date of 1976 Amendments
 
-Section 4(c) of Pub. L. 94–371 provided that the amendment made by section 4(c)(1) of Pub. L. 94–371 is effective July 1, 1976.
+Pub. L. 94–371, §4(c), July 26, 1976, 90 Stat. 1035, provided that the amendment made by section 4(c)(1) of Pub. L. 94–371 is effective July 1, 1976.
 
-Section 12(b) of Pub. L. 94–371 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to applications for grants under section 311 of the Act \[this section\] after June 30, 1976.”
+Pub. L. 94–371, §12(b), July 26, 1976, 90 Stat. 1041, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to applications for grants under section 311 of the Act \[this section\] after June 30, 1976.”
 
-Section 19(b) of Pub. L. 94–573 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to applications for grants under section 311 of such Act \[this section\] after June 30, 1976.”
+Pub. L. 94–573, §19(b), Oct. 21, 1976, 90 Stat. 2720, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to applications for grants under section 311 of such Act \[this section\] after June 30, 1976.”
 
 #### Termination of Advisory Committees
 

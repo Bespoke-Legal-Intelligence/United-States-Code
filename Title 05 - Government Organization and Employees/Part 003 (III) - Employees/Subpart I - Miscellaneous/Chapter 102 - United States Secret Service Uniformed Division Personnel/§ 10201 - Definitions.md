@@ -132,5 +132,5 @@ Treatment of retirement benefits and pensions of current and former members.—E
 
 #### Inapplicability of District of Columbia Official Code Provisions
 
-Pub. L. 111–282, §4(a), Oct. 15, 2010, 124 Stat. 3041, provided that: “To the extent that any provision of anylaw codified in the District of Columbia Official Code that authorizes an entitlement to pay or hours of work for current members of the United States Secret Service Uniformed Division is not expressly revoked by this Act \[see Short Title of 2010 Amendment note set out under section 101 of this title\], such provision shall not apply to such members after the effective date of this Act \[see Effective Date of 2010 Amendment note set out under section 5102 of this title\].”
+Pub. L. 111–282, §4(a), Oct. 15, 2010, 124 Stat. 3041, provided that: “To the extent that any provision of any law codified in the District of Columbia Official Code that authorizes an entitlement to pay or hours of work for current members of the United States Secret Service Uniformed Division is not expressly revoked by this Act \[see Short Title of 2010 Amendment note set out under section 101 of this title\], such provision shall not apply to such members after the effective date of this Act \[see Effective Date of 2010 Amendment note set out under section 5102 of this title\].”
 

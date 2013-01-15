@@ -168,7 +168,7 @@ For purposes of this section—
 
 #### (i) Controlled groups
 
-&emsp;&emsp;&emsp;For purposes of this paragraph, all persons treated as a single employer under subsection (b), (c), (m), or (<i>o</i>) of section 414 shall be treated as 1 employer.
+&emsp;&emsp;&emsp;For purposes of this paragraph, all persons treated as a single employer under subsection (b), (c), (m), or (o) of section 414 shall be treated as 1 employer.
 
 #### (ii) Predecessors
 
@@ -190,7 +190,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) unless it is in cash, or
 
-&emsp;&emsp;&emsp;(ii) to the extent such contribution, when added to previous contributions tothe trust for the calendar year, exceeds 75 percent of the highest annual limit deductible permitted under subsection (c)(2)(A)(ii) for such calendar year.
+&emsp;&emsp;&emsp;(ii) to the extent such contribution, when added to previous contributions to the trust for the calendar year, exceeds 75 percent of the highest annual limit deductible permitted under subsection (c)(2)(A)(ii) for such calendar year.
 
 &emsp;&emsp;(B) The trustee is a bank (as defined in section 408(n)), an insurance company (as defined in section 816), or another person who demonstrates to the satisfaction of the Secretary that the manner in which such person will administer the trust will be consistent with the requirements of this section.
 
@@ -300,7 +300,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Paragraph (2) shall not apply to any amount paid or distributed from an Archer MSA to the account holder to the extent the amount received is paid into an Archer MSA or a health savings account (as defined in section 223(d)) for the benefit of such holder not later than the 60th day after the day on which the holder receives the payment or distribution.
+&emsp;&emsp;Paragraph (2) shall not apply to any amount paid or distributed from an ArcherMSA to the account holder to the extent the amount received is paid into an Archer MSA or a health savings account (as defined in section 223(d)) for the benefit of such holder not later than the 60th day after the day on which the holder receives the payment or distribution.
 
 #### (B) Limitation
 
@@ -378,7 +378,7 @@ The Secretary may require the trustee of an Archer MSA to make such reports rega
 
 #### (A) In general
 
-&emsp;&emsp;The term “active MSA participant” means, with respect to any taxable year, any individual who is the account holder of any Archer MSA into which any contribution was made which was excludable from gross income under section 106(b), or allowable as a deduction under this section, for such taxable year.
+&emsp;&emsp;The term “active MSA participant” means, with respect to any taxable year, anyindividual who is the account holder of any Archer MSA into which any contribution was made which was excludable from gross income under section 106(b), or allowable as a deduction under this section, for such taxable year.
 
 #### (B) Special rule for cut-off years before 2007
 
@@ -426,7 +426,7 @@ The Secretary may require the trustee of an Archer MSA to make such reports rega
 
 &emsp;&emsp;(A) this subsection shall not apply to any otherwise eligible individual who is covered under a high deductible health plan during the first 6 months of the second calendar year following the cut-off year (and such individual shall be treated as an active MSA participant for purposes of this subsection if a contribution is made to any Archer MSA with respect to such coverage), and
 
-&emsp;&emsp;(B) any employer who offers coverage under a high deductible health plan to any employee during such 6-month period shall be treated as an MSA-participating employer for purposes of this subsection if therequirements of paragraph (4) are met with respect to such coverage.
+&emsp;&emsp;(B) any employer who offers coverage under a high deductible health plan to any employee during such 6-month period shall be treated as an MSA-participating employer for purposes of this subsection if the requirements of paragraph (4) are met with respect to such coverage.
 
 > &emsp;For purposes of this paragraph, subsection (j)(2)(A) shall be applied for 1998 by substituting “750,000” for “600,000”.
 
@@ -458,7 +458,7 @@ The Secretary may require the trustee of an Archer MSA to make such reports rega
 
 &emsp;&emsp;&emsp;(i) 90 percent of the sum determined under subparagraph (A) for such calendar year, plus
 
-&emsp;&emsp;&emsp;(ii) the product of 2.5 and the number of Archer MSAs established during the portion of such year preceding July 1 (based on the reports required under paragraph (4)) for taxable years beginning in such year,
+&emsp;&emsp;&emsp;(ii) the product of 2.5 and the number of Archer MSAs established during the portion of such year preceding July 1 (basedon the reports required under paragraph (4)) for taxable years beginning in such year,
 
 > &emsp;&emsp;exceeds 750,000.
 
@@ -692,7 +692,7 @@ Pub. L. 108–311, title III, §322(d), Oct. 4, 2004, 118 Stat. 1183, provided t
 
 #### Monitoring of Participation in Medical Savings Accounts
 
-Section 301(k) of Pub. L. 104–191 provided that: “The Secretary of the Treasury or his delegate shall—
+Pub. L. 104–191, title III, §301(k), Aug. 21, 1996, 110 Stat. 2052, provided that: “The Secretary of the Treasury or his delegate shall—
 
 &emsp;“(1) during 1997, 1998, 1999, and 2000, regularly evaluate the number of individuals who are maintaining medical savings accounts and the reduction in revenues to the United States by reason of such accounts, and
 
@@ -700,7 +700,7 @@ Section 301(k) of Pub. L. 104–191 provided that: “The Secretary of the Treas
 
 #### Study of Effects of Medical Savings Accounts on Small Group Market
 
-Section 301(<i>l</i>) of Pub. L. 104–191 provided that: “The Comptroller General of the United States shall enterinto a contract with an organization with expertise in health economics, health insurance markets, and actuarial science to conduct a comprehensive study regarding the effects of medical savings accounts in the small group market on—
+Pub. L. 104–191, title III, §301(l), Aug. 21, 1996, 110 Stat. 2052, provided that: “The Comptroller General of the United States shall enter into a contract with an organization with expertise in health economics, health insurance markets, and actuarial science to conduct a comprehensive study regarding the effects of medical savings accounts in the small group market on—
 
 &emsp;“(1) selection, including adverse selection,
 

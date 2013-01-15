@@ -72,7 +72,7 @@
 
 |  |
 | :--- |
-| 1409m to 1409<i>o</i>. Repealed. |
+| 1409m to 1409o. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

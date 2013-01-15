@@ -54,7 +54,7 @@ Intelligence Community Assessment on MANPADS in Libya.—
 
 &emsp;“(1)
 
-In general.—The Director of National Intelligence shall submit to the appropriate committees of Congress an assessment by the intelligence community that accounts for the disposition of, and the threat to United States citizens and citizens of allies of the United States posed by man-portable air-defense systems that were in Libya as of March 19, 2011. The assessment shall be submitted as soon as practicable, but not later than the end of the 45-day period beginning on the date of the enactment of this Act \[Dec. 31, 2011\].
+In general.—The Director of National Intelligence shall submit to the appropriate committees ofCongress an assessment by the intelligence community that accounts for the disposition of, and the threat to United States citizens and citizens of allies of the United States posed by man-portable air-defense systems that were in Libya as of March 19, 2011. The assessment shall be submitted as soon as practicable, but not later than the end of the 45-day period beginning on the date of the enactment of this Act \[Dec. 31, 2011\].
 
 &emsp;“(2)
 
@@ -133,4 +133,6 @@ Appropriate Committees of Congress Defined.—In this section, the term ‘appro
 &emsp;“(1) the Committee on Armed Services, the Committee on Foreign Relations, and the Select Committee on Intelligence of the Senate; and
 
 &emsp;“(2) the Committee on Armed Services, the Committee on Foreign Affairs, and the Permanent Select Committee on Intelligence of the House of Representatives.”
+
+\[Memorandum of President of the United States, Apr. 20, 2012, 77 F.R. 28757, delegated the reporting functions conferred upon the President by section 1235(c) of Pub. L. 112–81, set out above, to the Secretary of State.\]
 

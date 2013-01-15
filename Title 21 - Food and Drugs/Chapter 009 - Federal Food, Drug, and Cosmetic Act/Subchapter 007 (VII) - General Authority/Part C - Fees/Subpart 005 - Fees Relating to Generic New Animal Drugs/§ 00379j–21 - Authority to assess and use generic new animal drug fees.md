@@ -214,7 +214,7 @@ In this section and section 379j–22 of this title:
 
 #### (7) Generic new animal drug sponsor
 
-&emsp;The term “generic new animal drug sponsor” means either an applicant named in an abbreviated application for a generic new animal drug that has not been withdrawn by theapplicant and for which approval has not been withdrawn by the Secretary, or a person who has submitted an investigational submission for a generic new animal drug that has not been terminated or otherwise rendered inactive by the Secretary.
+&emsp;The term “generic new animal drug sponsor” means either an applicant named in an abbreviated application for a generic new animal drug that has not been withdrawn by the applicant and for which approval has not been withdrawn by the Secretary, or a person who has submitted an investigational submission for a generic new animal drug that has not been terminated or otherwise rendered inactive by the Secretary.
 
 #### (8) Investigational submission for a generic new animal drug
 
@@ -264,7 +264,7 @@ A prior section 741 of act June 25, 1938, was renumbered section 745 and is clas
 
 #### Termination Date
 
-Pub. L. 110–316, title II, §204(a), Aug. 14, 2008, 122 Stat. 3524, provided that: “The amendments made by section 202 \[enacting this section and amending sections 379k, 379<i>l</i>, and 379<i>o</i> of this title\] shall cease to be effective October 1, 2013.”
+Pub. L. 110–316, title II, §204(a), Aug. 14, 2008, 122 Stat. 3524, provided that: “The amendments made by section 202 \[enacting this section and amending sections 379k, 379l, and 379o of this title\] shall cease to be effective October 1, 2013.”
 
 #### Findings
 
@@ -274,5 +274,5 @@ Pub. L. 110–316, title II, §201(b), Aug. 14, 2008, 122 Stat. 3515, provided t
 
 &emsp;“(2) Animal health and the public health will be served by making additional funds available for the purpose of augmenting the resources of the Food and Drug Administration that are devoted to the process for the review of abbreviated applications for the approval of generic new animal drugs.
 
-&emsp;“(3) The fees authorized by this title \[see Short Title of 2008 Amendment note set out under section 301 of this title\] will be dedicated toward expediting the generic new animal drug development process and the review of abbreviated applications for generic new animal drugs, supplemental abbreviated applications for generic new animal drugs, and investigational submissions for generic new animal drugs as set forth in the goals identified in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Energy and Commerce of the House of Representatives and the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate as set forth in the Congressional Record.”
+&emsp;“(3) The fees authorized by this title \[see Short Title of 2008 Amendment note set out under section 301 of this title\] will be dedicated toward expediting the generic new animal drug development process and the review of abbreviated applications for generic new animal drugs, supplemental abbreviated applications for generic new animal drugs, and investigational submissions for generic new animal drugs as set forth in the goals identified in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Energy and Commerce of the House of Representatives and the Chairman of the Committee on Health, Education, Labor,and Pensions of the Senate as set forth in the Congressional Record.”
 

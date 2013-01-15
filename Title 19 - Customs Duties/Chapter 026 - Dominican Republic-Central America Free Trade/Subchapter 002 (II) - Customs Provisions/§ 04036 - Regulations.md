@@ -6,7 +6,7 @@ The Secretary of the Treasury shall prescribe such regulations as may be necessa
 
 &emsp;(2) the amendment made by section 204; <sup>1</sup> and
 
-&emsp;(3) any proclamation issued under section 4033(<i>o</i>) of this title.
+&emsp;(3) any proclamation issued under section 4033(o) of this title.
 
 (Pub. L. 109–53, title II, §210, Aug. 2, 2005, 119 Stat. 488.)
 

@@ -130,7 +130,7 @@ Pub. L. 112–46, §1, Nov. 7, 2011, 125 Stat. 538, provided that: “This Act \
 
 #### Short Title
 
-Section 1 of Pub. L. 99–522 provided that: “This Act \[enacting this section and provisions set out as a note below\] may be cited as the ‘National Forest Ski Area Permit Act of 1986’.”
+Pub. L. 99–522, §1, Oct. 22, 1986, 100 Stat. 3000, provided that: “This Act \[enacting this section and provisions set out as a note below\] may be cited as the ‘National Forest Ski Area Permit Act of 1986’.”
 
 #### Effect
 
@@ -144,7 +144,7 @@ Pub. L. 112–46, §2, Nov. 7, 2011, 125 Stat. 538, provided that: “The purpos
 
 &emsp;“(2) to clarify the authority of the Secretary of Agriculture to permit appropriate additional seasonal or year-round recreational activities and facilities on National Forest System land subject to ski area permits issued by the Secretary of Agriculture under section 3 of the National Forest Ski Area Permit Act of 1986 (16 U.S.C. 497b).”
 
-Section 2 of Pub. L. 99–522 provided that: “The purposes of this Act \[see Short Title note above\] are to—
+Pub. L. 99–522, §2, Oct. 22, 1986, 100 Stat. 3000, provided that: “The purposes of this Act \[see Short Title note above\] are to—
 
 &emsp;“(a) provide a unified and modern permitting process for nordic and alpine ski areas on national forest lands;
 

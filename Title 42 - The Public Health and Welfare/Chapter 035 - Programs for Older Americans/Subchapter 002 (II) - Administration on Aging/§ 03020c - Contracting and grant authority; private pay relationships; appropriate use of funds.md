@@ -10,7 +10,7 @@ Subject to subsection (b), this chapter shall not be construed to prevent a reci
 
 &emsp;&emsp;(A) the individuals and entities may only purchase such services at their fair market rate;
 
-&emsp;&emsp;(B) all costs incurred by the recipient in providing such services (and not otherwise reimbursed under paragraph (1)), are reimbursed to such recipient; and
+&emsp;&emsp;(B) all costs incurred by the recipient in providing such services (and not otherwisereimbursed under paragraph (1)), are reimbursed to such recipient; and
 
 &emsp;&emsp;(C) the recipient reports the rates for providing such services under such agreement in accordance with subsection (c) and the rates are consistent with the prevailing market rate for provision of such services in the relevant geographic area as determined by the State agency or area agency on aging (as applicable); and
 
@@ -52,7 +52,7 @@ A prior section 212 of Pub. L. 89–73 was renumbered section 211 and is classif
 
 <b>1993</b>—Pub. L. 103–171 substituted “Director of the Office for” for “Associate Commissioner on” and “Assistant Secretary” for “Commissioner”.
 
-<b>1987</b>—Pub. L. 100–175 inserted “(or in the case of a grantee under subchapter X of this chapter, subject to the recommendation of the Associate Commissioner on American Indian, Alaskan Native, and Native HawaiianAging and the approval of the Commissioner)” after “State agency”.
+<b>1987</b>—Pub. L. 100–175 inserted “(or in the case of a grantee under subchapter X of this chapter, subject to the recommendation of the Associate Commissioner on American Indian, Alaskan Native, and Native Hawaiian Aging and the approval of the Commissioner)” after “State agency”.
 
 <b>1981</b>—Pub. L. 97–35 struck out provisions respecting demonstration of superiority by the organization.
 

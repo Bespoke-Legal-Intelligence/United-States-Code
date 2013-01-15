@@ -30,7 +30,7 @@ The President is authorized to designate a sub-Saharan African country as an eli
 
 #### (b) Continuing compliance
 
-If the President determines that an eligible sub-Saharan African country is not making continual progress in meeting the requirements described in subsection (a)(1) of this section, the President shall terminate the designation of the country made pursuant to subsection (a) of this section.
+If the President determines that an eligible sub-Saharan African country is not making continual progress in meeting the requirements described in subsection (a)(1) of this section, thePresident shall terminate the designation of the country made pursuant to subsection (a) of this section.
 
 (Pub. L. 106–200, title I, §104, May 18, 2000, 114 Stat. 254.)
 

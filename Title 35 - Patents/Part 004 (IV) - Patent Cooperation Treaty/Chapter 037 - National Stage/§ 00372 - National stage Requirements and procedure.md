@@ -6,15 +6,11 @@
 
 &emsp;(1) the Director may cause to be reexamined questions relating to form and contents of the application in accordance with the requirements of the treaty and the Regulations;
 
-&emsp;(2) the Director may cause the question of unity of invention to be reexamined under section 121 of this title, within the scope of the requirements of the treaty and the Regulations; and
+&emsp;(2) the Director may cause the question of unity of invention to be reexamined under section 121, within the scope of the requirements of the treaty and the Regulations; and
 
 &emsp;(3) the Director may require a verification of the translation of the international application or any other document pertaining to the application if the application or other document was filed in a language other than English.
 
 (Added Pub. L. 94–131, §1, Nov. 14, 1975, 89 Stat. 689; amended Pub. L. 98–622, title IV, §§402(e), (f), 403(a), Nov. 8, 1984, 98 Stat. 3392; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, §20(j), Sept. 16, 2011, 125 Stat. 335.)
-
-#### Amendment of Section
-
-<i>Pub. L. 112–29, §20(j), (l), Sept. 16, 2011, 125 Stat. 335, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, this section is amended by striking “of this title” each place that term appears. See 2011 Amendment note below.</i>
 
 #### Amendments
 
@@ -32,7 +28,7 @@ Subsec. (c). Pub. L. 98–622, §402(f), struck out subsec. (c) which related to
 
 #### Effective Date of 2011 Amendment
 
-Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(<i>l</i>) of Pub. L. 112–29, set out as a note under section 2 of this title.
+Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(l) of Pub. L. 112–29, set out as a note under section 2 of this title.
 
 #### Effective Date of 1999 Amendment
 

@@ -20,7 +20,7 @@ Transitional Health Care.—(1) For the time period described in paragraph (4), 
 
 &emsp;(E) A member who receives a sole survivorship discharge (as defined in section 1174(i) of this title).
 
-&emsp;(F) A member who is separated from active duty who agrees to become a member of the Selected Reserve of the Ready Reserve of a reserve component.
+&emsp;(F) A member who is separated from active duty who agrees to become a member of theSelected Reserve of the Ready Reserve of a reserve component.
 
 (3) In the case of a member described in paragraph (2)(B), the dental care to which the member is entitled under this subsection shall be the dental care to which a member of the uniformed services on active duty for more than 30 days is entitled under section 1074 of this title.
 
@@ -72,7 +72,7 @@ Conversion Health Policies.—(1) The Secretary of Defense shall inform each mem
 
 (c)
 
-Health Care For Certain Separated Members Not Otherwise Eligible.—(1) Consistent with the authority of the Secretary concerned to designate certain classes of persons aseligible to receive health care at a military medical facility, the Secretary concerned should consider authorizing, on an individual basis in cases of hardship, the provision of that care for a member who is separated from the armed forces, and is ineligible for transitional health care under subsection (a) or does not obtain a conversion health policy (or a dependent of the member).
+Health Care For Certain Separated Members Not Otherwise Eligible.—(1) Consistent with the authority of the Secretary concerned to designate certain classes of persons as eligible to receive health care at a military medical facility, the Secretary concerned should consider authorizing, on an individual basis in cases of hardship, the provision of that care for a member who is separated from the armed forces, and is ineligible for transitional health care under subsection (a) or does not obtain a conversion health policy (or a dependent of the member).
 
 (2) The Secretary concerned shall give special consideration to requests for such care in cases in which the condition for which treatment is required was incurred or aggravated by the member or the dependent before the date of the separation of the member, particularly if the condition is a result of the particular circumstances of the service of the member.
 
@@ -82,11 +82,13 @@ Definition.—In this section, the term “conversion health policy” means a h
 
 (e)
 
-Coast Guard.—The Secretary of Homeland Security shall implement this section for the members of the Coast Guard and their dependents.
+Coast Guard.—The Secretary of Homeland Security shall implement this section for the members of the Coast Guard and their dependents when the Coast Guard is not operating as a service in the Navy.
 
-(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1555; amended Pub. L. 102–484, div. D, title XLIV, §4407(a), Oct. 23, 1992, 106 Stat. 2707; Pub. L. 103–160, div. A, title V, §561(i), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–337, div. A, title V, §542(a)(4), Oct. 5, 1994, 108 Stat. 2768; Pub. L. 105–261, div. A, title V, §561(h), Oct. 17, 1998, 112 Stat. 2026; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(h)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134; Pub. L. 107–107, div. A, title VII, §736(a), (b), Dec. 28, 2001, 115 Stat. 1172; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VII, §706(a), (b), Dec. 2, 2002, 116 Stat. 2585; Pub. L. 108–375, div. A, title VII, §706(a)(1), (3), (b), Oct. 28, 2004, 118 Stat. 1983; Pub. L. 109–163, div. A, title VII, §749, Jan. 6, 2006, 119 Stat. 3364; Pub. L. 110–181, div. A, title XVI, §1637, Jan. 28, 2008, 122 Stat. 464; Pub. L. 110–317, §4, Aug. 29, 2008, 122 Stat. 3528; Pub. L. 110–417, \[div. A\], title VII, §734(a), Oct. 14, 2008, 122 Stat. 4513; Pub. L. 111–84, div. A, title VII, §703, Oct. 28, 2009, 123 Stat. 2373; Pub. L. 112–81, div. A, title VII, §706, Dec. 31, 2011, 125 Stat. 1474.)
+(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1555; amended Pub. L. 102–484, div. D, title XLIV, §4407(a), Oct. 23, 1992, 106 Stat. 2707; Pub. L. 103–160, div. A, title V, §561(i), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–337, div. A, title V, §542(a)(4), Oct. 5, 1994, 108 Stat. 2768; Pub. L. 105–261, div. A, title V, §561(h), Oct. 17, 1998, 112 Stat. 2026; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(h)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134; Pub. L. 107–107, div. A, title VII, §736(a), (b), Dec. 28, 2001, 115 Stat. 1172; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VII, §706(a), (b), Dec. 2, 2002, 116 Stat. 2585; Pub. L. 108–375, div. A, title VII, §706(a)(1), (3), (b), Oct. 28, 2004, 118 Stat. 1983; Pub. L. 109–163, div. A, title VII, §749, Jan. 6, 2006, 119 Stat. 3364; Pub. L. 110–181, div. A, title XVI, §1637, Jan. 28, 2008, 122 Stat. 464; Pub. L. 110–317, §4, Aug. 29, 2008, 122 Stat. 3528; Pub. L. 110–417, \[div. A\], title VII, §734(a), Oct. 14, 2008, 122 Stat. 4513; Pub. L. 111–84, div. A, title VII, §703, Oct. 28, 2009, 123 Stat. 2373; Pub. L. 112–81, div. A, title VII, §706, Dec. 31, 2011, 125 Stat. 1474; Pub. L. 112–239, div. A, title X, §1076(f)(15), Jan. 2, 2013, 126 Stat. 1952.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (e). Pub. L. 112–239 inserted “when the Coast Guard is not operating as a service in the Navy” before period at end.
 
 <b>2011</b>—Subsec. (a)(4). Pub. L. 112–81 inserted at end “For purposes of the preceding sentence, in the case of a member on active duty as described in subparagraph (B), (C), or (D) of paragraph (2) who, without a break in service, is extended on active duty for any reason, the 180-day period shall begin on the date on which the member is separated from such extended active duty.”
 
@@ -150,7 +152,7 @@ Subsec. (b)(4) to (6). Pub. L. 102–484, §4407(a)(3), added pars. (4) to (6).
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–417, \[div. A\], title VII, §734(b), Oct. 14, 2008, 122 Stat. 4513, provided that: “Subparagraph (F) ofsection 1145(a)(2) of title 10, United States Code, as added by subsection (a), shall apply with respect to members of the Armed Forces separated from active duty after the date of the enactment of this Act \[Oct. 14, 2008\].”
+Pub. L. 110–417, \[div. A\], title VII, §734(b), Oct. 14, 2008, 122 Stat. 4513, provided that: “Subparagraph (F) of section 1145(a)(2) of title 10, United States Code, as added by subsection (a), shall apply with respect to members of the Armed Forces separated from active duty after the date of the enactment of this Act \[Oct. 14, 2008\].”
 
 Amendment by Pub. L. 110–317 applicable with respect to any sole survivorship discharge granted after Aug. 29, 2008, see section 10 of Pub. L. 110–317, set out as a note under section 2108 of Title 5, Government Organization and Employees.
 
@@ -170,7 +172,7 @@ For provisions relating to the application of the amendments by section 4407 of 
 
 #### Transitional Provision
 
-Section 4408(b) of Pub. L. 102–484 provided that: “The Secretary of Defense shall provide a period for the enrollment for health benefits coverage under this section \[enacting section 1078a of this title and provisions set out as notes under this section and section 1086a of this title\] by members and former members of the Armed Services for whom the availability of transitional health care under section 1145(a) of title 10, United States Code, expires before the October 1, 1994, implementation date of section 1078a of such title, as added by subsection (a).”
+Pub. L. 102–484, div. D, title XLIV, §4408(b), Oct. 23, 1992, 106 Stat. 2712, provided that: “The Secretary of Defense shall provide a period for the enrollment for health benefits coverage under this section \[enacting section 1078a of this title and provisions set out as notes under this section and section 1086a of this title\] by members and former members of the Armed Services for whom the availability of transitional health care under section 1145(a) of title 10, United States Code, expires before the October 1, 1994, implementation date of section 1078a of such title, as added by subsection (a).”
 
 #### Termination of Applicability of Other Conversion Health Policies
 

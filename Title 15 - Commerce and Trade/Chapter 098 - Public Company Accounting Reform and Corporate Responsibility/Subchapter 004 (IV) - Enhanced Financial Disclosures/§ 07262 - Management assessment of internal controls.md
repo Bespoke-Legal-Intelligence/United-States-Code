@@ -2,7 +2,7 @@
 
 #### (a) Rules required
 
-The Commission shall prescribe rules requiring each annual report required by section 78m(a) or 78<i>o</i>(d) of this title to contain an internal control report, which shall—
+The Commission shall prescribe rules requiring each annual report required by section 78m(a) or 78o(d) of this title to contain an internal control report, which shall—
 
 &emsp;(1) state the responsibility of management for establishing and maintaining an adequate internal control structure and procedures for financial reporting; and
 
@@ -10,19 +10,21 @@ The Commission shall prescribe rules requiring each annual report required by se
 
 #### (b) Internal control evaluation and reporting
 
-With respect to the internal control assessment required by subsection (a) of this section, each registered public accounting firm that prepares or issues the audit report for the issuer shall attest to, and report on, the assessment made by the management of the issuer. An attestation made under this subsection shall be made in accordance with standards for attestation engagements issued or adopted by the Board. Any such attestation shall not be the subject of a separate engagement.
+With respect to the internal control assessment required by subsection (a) of this section, each registered public accounting firm that prepares or issues the audit report for the issuer, other than an issuer that is an emerging growth company (as defined in section 78c of this title), shall attest to, and report on, the assessment made by the management of the issuer. An attestation made under this subsection shall be made in accordance with standards for attestation engagements issued or adopted by the Board. Any such attestation shall not be the subject of a separate engagement.
 
 #### (c) Exemption for smaller issuers
 
 Subsection (b) shall not apply with respect to any audit report prepared for an issuer that is neither a “large accelerated filer” nor an “accelerated filer” as those terms are defined in Rule 12b–2 of the Commission (17 C.F.R. 240.12b–2).
 
-(Pub. L. 107–204, title IV, §404, July 30, 2002, 116 Stat. 789; Pub. L. 111–203, title IX, §989G(a), July 21, 2010, 124 Stat. 1948.)
+(Pub. L. 107–204, title IV, §404, July 30, 2002, 116 Stat. 789; Pub. L. 111–203, title IX, §989G(a), July 21, 2010, 124 Stat. 1948; Pub. L. 112–106, title I, §103, Apr. 5, 2012, 126 Stat. 310.)
 
 #### Amendments
+
+<b>2012</b>—Subsec. (b). Pub. L. 112–106 inserted “, other than an issuer that is an emerging growth company (as defined in section 78c of this title),” before “shall attest to”.
 
 <b>2010</b>—Subsec. (c). Pub. L. 111–203 added subsec. (c).
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 

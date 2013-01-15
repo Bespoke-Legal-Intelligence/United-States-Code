@@ -10,7 +10,7 @@ It is the sense of the Congress that all such sales be approved only when they a
 
 It shall be the policy of the United States to exert leadership in the world community to bring about arrangements for reducing the international trade in implements of war and to lessen the danger of outbreak of regional conflict and the burdens of armaments. United States programs for or procedures governing the export, sale, and grant of defense articles and defense services to foreign countries and international organizations shall be administered in a manner which will carry out this policy.
 
-It is the sense of the Congress that the President should seek to initiate multilateral discussions for the purpose of reaching agreements among the principal arms suppliers and arms purchasers and other countries with respect to the control of the international trade in armaments. It is further the sense of Congress that the President should work actively with all nations to check and control the international saleand distribution of conventional weapons of death and destruction and to encourage regional arms control arrangements. In furtherance of this policy, the President should undertake a concerted effort to convene an international conference of major arms-supplying and arms-purchasing nations which shall consider measures to limit conventional arms transfers in the interest of international peace and stability.
+It is the sense of the Congress that the President should seek to initiate multilateral discussions for the purpose of reaching agreements among the principal arms suppliers and arms purchasers and other countries with respect to the control of the international trade in armaments. It is further the sense of Congress that the President should work actively with all nations to check and control the international sale and distribution of conventional weapons of death and destruction and to encourage regional arms control arrangements. In furtherance of this policy, the President should undertake a concerted effort to convene an international conference of major arms-supplying and arms-purchasing nations which shall consider measures to limit conventional arms transfers in the interest of international peace and stability.
 
 It is the sense of the Congress that the aggregate value of defense articles and defense services—
 
@@ -20,7 +20,7 @@ It is the sense of the Congress that the aggregate value of defense articles and
 
 > in any fiscal year should not exceed current levels.
 
-It is the sense of the Congress that the President maintain adherence to a policy of restraint in conventional arms transfers and that, in implementing this policy worldwide, a balanced approach should be taken and full regard given to the security interests of the United States in all regions of the world and that particular attention should be paid to controlling the flow of conventional arms to the nations of the developing world. To this end, the President is encouraged to continue discussions with other arms suppliers in order to restrain the flow of conventional arms to less developed countries.
+It is the sense of the Congress that the President maintain adherence to a policy of restraintin conventional arms transfers and that, in implementing this policy worldwide, a balanced approach should be taken and full regard given to the security interests of the United States in all regions of the world and that particular attention should be paid to controlling the flow of conventional arms to the nations of the developing world. To this end, the President is encouraged to continue discussions with other arms suppliers in order to restrain the flow of conventional arms to less developed countries.
 
 (Pub. L. 90–629, ch. 1, §1, Oct. 22, 1968, 82 Stat. 1321; Pub. L. 91–672, §4, Jan. 12, 1971, 84 Stat. 2053; Pub. L. 93–189, §25(1), Dec. 17, 1973, 87 Stat. 729; Pub. L. 94–329, title II, §202, formerly §202(a), June 30, 1976, 90 Stat. 734, renumbered and amended Pub. L. 95–384, §§15(a), 29(c)(1)(A), Sept. 26, 1978, 92 Stat. 739, 747; Pub. L. 97–113, title VII, §734(a)(10), Dec. 29, 1981, 95 Stat. 1560.)
 
@@ -34,11 +34,11 @@ The Foreign Assistance Act of 1961, as amended, referred to in text, is Pub. L. 
 
 #### References to Foreign Military Sales Act Deemed Reference to Arms Export Control Act
 
-Section 201(b) of Pub. L. 94–329 provided that: “Any reference to the Foreign Military Sales Act \[see Short Title note below\] shall be deemed to be a reference to the Arms Export Control Act.”
+Pub. L. 94–329, title II, §201(b), June 30, 1976, 90 Stat. 734, provided that: “Any reference to the Foreign Military Sales Act \[see Short Title note below\] shall be deemed to be a reference to the Arms Export Control Act.”
 
 #### References to Present Instead of Past Provisions; Specific Application of Other Provisions to This Chapter
 
-Section 45(c) of Pub. L. 90–629 provided that: “References in law to the provisions of law repealed by subsection (a) of this section \[repealing sections 2341 to 2343, 2344(b)(3), 2345, 2394(g), and 2399a of this title\] shall hereafter \[on and after Oct. 22, 1968\] be deemed to be references to this Act \[this chapter\] or appropriate provisions of this Act. Except for the laws specified in section 44 \[section 2793 of this title\], no other provision of law shall be deemed to apply to this Act unless it refers specifically to this Act or refers generally to sales of defense articles and defense services under any Act.”
+Pub. L. 90–629, ch. 4, §45(c), Oct. 22, 1968, 82 Stat. 1327, provided that: “References in law to the provisions of law repealed by subsection (a) of this section \[repealing sections 2341 to 2343, 2344(b)(3), 2345, 2394(g), and 2399a of this title\] shall hereafter \[on and after Oct. 22, 1968\] be deemed to be references to this Act \[this chapter\] or appropriate provisions of this Act. Except for the laws specified in section 44 \[section 2793 of this title\], no other provision of law shall be deemed to apply to this Act unless it refers specifically to this Act or refers generally to sales of defense articles and defense services under any Act.”
 
 #### Amendments
 
@@ -54,7 +54,7 @@ Section 45(c) of Pub. L. 90–629 provided that: “References in law to the pro
 
 #### Effective Date
 
-Section 41 of Pub. L. 90–629 provided that: “This Act \[enacting this chapter, amending sections 2344, 2382, 2392, 2394, and 2403 of this title, repealing sections 2341 to 2343, 2345, and 2399a of this title, and enacting provisions set out as notes under this section and section 2341 of this title\] shall take effect on July 1, 1968.”
+Pub. L. 90–629, ch. 4, §41, Oct. 22, 1968, 82 Stat. 1326, provided that: “This Act \[enacting this chapter, amending sections 2344, 2382, 2392, 2394, and 2403 of this title, repealing sections 2341 to 2343, 2345, and 2399a of this title, and enacting provisions set out as notes under this section and section 2341 of this title\] shall take effect on July 1, 1968.”
 
 #### Short Title of 2010 Amendment
 
@@ -68,7 +68,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, §1001\], Nov. 29, 1999, 113 S
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–194, §1, July 14, 1998, 112 Stat. 627, provided that: “This Act \[amending section 2799aa–1 ofthis title and enacting provisions set out as notes under section 2799aa–1 of this title\] may be cited as the ‘Agriculture Export Relief Act of 1998’.”
+Pub. L. 105–194, §1, July 14, 1998, 112 Stat. 627, provided that: “This Act \[amending section 2799aa–1 of this title and enacting provisions set out as notes under section 2799aa–1 of this title\] may be cited as the ‘Agriculture Export Relief Act of 1998’.”
 
 #### Short Title of 1991 Amendment
 
@@ -76,7 +76,7 @@ Pub. L. 102–228, §1, Dec. 12, 1991, 105 Stat. 1691, provided that: “This Ac
 
 #### Short Title
 
-Pub. L. 90–629, as amended by section 201(a) of Pub. L. 94–329, provided: “That this Act \[enacting this chapter, amending sections 2382, 2392, 2394, and 2403 of this title, repealing sections 2341 to 2343, 2344, 2345, 2394, and 2399 of this title, and enacting provisions set out as notes under this section and section 2341 of this title\] may be cited as the ‘Arms Export Control Act’.”
+Pub. L. 90–629, §1, Oct. 22, 1968, 82 Stat. 1320, as amended by Pub. L. 94–329, title II, §201(a), June 30, 1976, 90 Stat. 734, provided: “That this Act \[enacting this chapter, amending sections 2382, 2392, 2394, and 2403 of this title, repealing sections 2341 to 2343, 2344, 2345, 2394, and 2399 of this title, and enacting provisions setout as notes under this section and section 2341 of this title\] may be cited as the ‘Arms Export Control Act’.”
 
 #### Registration and End-Use Monitoring of Defense Articles and Defense Services Transferred to Afghanistan and Pakistan
 
@@ -196,7 +196,7 @@ Export and Transfer Control Policy.—The President shall implement a policy to 
 
 “(b)
 
-Requirement to Implement Control System.—No defense articles may be provided to the Government of Iraq or any other group, organization, citizen, or resident of Iraq until the President certifies to the specified congressional committees that a registrationand monitoring system meeting the requirements set forth in subsection (c) has been established.
+Requirement to Implement Control System.—No defense articles may be provided to the Government of Iraq or any other group, organization, citizen, or resident of Iraq until the President certifies to the specified congressional committees that a registration and monitoring system meeting the requirements set forth in subsection (c) has been established.
 
 “(c)
 
@@ -346,7 +346,7 @@ United States Policy on Nonproliferation and Export Control.—
 
 &emsp;“(1)
 
-To limit availability and transfer of manpads.—The President shall pursue, on an urgentbasis, further strong international diplomatic and cooperative efforts, including bilateral and multilateral treaties, in the appropriate forum to limit the availability, transfer, and proliferation of MANPADSs worldwide.
+To limit availability and transfer of manpads.—The President shall pursue, on an urgent basis, further strong international diplomatic and cooperative efforts, including bilateral and multilateral treaties, in the appropriate forum to limit the availability, transfer, and proliferation of MANPADSs worldwide.
 
 &emsp;“(2)
 
@@ -462,7 +462,7 @@ Pub. L. 108–375, div. A, title XII, §1225, Oct. 28, 2004, 118 Stat. 2091, pro
 
 “(a)
 
-Policy.—It is the policy of Congress that bilateral exchanges and trade in defense articles and defense services between the United States and the United Kingdom and Australia are in the national security interest of the United States and that such exchanges and trade should be subjected to accelerated review and processing consistent with national security and the requirements of the Arms Export Control Act (22 U.S.C. 2751 et seq.).
+Policy.—It is the policy of Congress that bilateral exchanges and trade in defense articles and defenseservices between the United States and the United Kingdom and Australia are in the national security interest of the United States and that such exchanges and trade should be subjected to accelerated review and processing consistent with national security and the requirements of the Arms Export Control Act (22 U.S.C. 2751 et seq.).
 
 “(b)
 
@@ -518,7 +518,7 @@ Termination of Requirement.—The final report required under subsection (a) is 
 
 #### Arab League Boycott of Israel
 
-Pub. L. 103–236, title V, §564, Apr. 30, 1994, 108 Stat. 484, as amended by Pub. L. 103–415, §1(<i>l</i>), Oct. 25, 1994, 108 Stat. 4301, provided that:
+Pub. L. 103–236, title V, §564, Apr. 30, 1994, 108 Stat. 484, as amended by Pub. L. 103–415, §1(l), Oct. 25, 1994, 108 Stat. 4301, provided that:
 
 “(a)
 
@@ -566,7 +566,7 @@ Effective Date.—This section shall take effect 1 year after the date of enactm
 
 #### Counterproliferation Policy and Programs of United States
 
-Pub. L. 103–160, div. A, title XVI, §§1603, 1605, 1607, Nov. 30, 1993, 107 Stat. 1843, 1845, 1847, as amended by Pub. L. 103–337, div. A, title XV, §§1502, 1505(a), (b), Oct. 5, 1994, 108 Stat. 2914, 2919; Pub. L. 104–106, div. A, title XV, §1504(b), Feb. 10, 1996, 110 Stat. 513; Pub. L. 104–201, div. A, title XIII, §1309(a)–(c), Sept. 23, 1996, 110 Stat. 2710; Pub. L. 106–65, div. A, title XV, §1504(a), (b), Oct. 5, 1999, 113 Stat. 808; Pub. L. 107–314, div. A, title XII, §1208(a), (d), Dec. 2, 2002, 116 Stat. 2668; Pub. L. 109–163, div. A, title X, §1056(f), Jan. 6, 2006, 119 Stat. 3440; Pub. L. 110–181, div. A, title XII, §1256(a)–(c), Jan. 28, 2008, 122 Stat. 403; Pub. L. 111–383, div. A, title IX, §901(a)(2), Jan. 7, 2011, 124 Stat. 4317, provided that:
+Pub. L. 103–160, div. A, title XVI, §§1603, 1605, 1607, Nov. 30, 1993, 107 Stat. 1843, 1845, 1847, as amended by Pub. L. 103–337, div. A, title XV, §§1502, 1505(a), (b), Oct. 5, 1994, 108 Stat. 2914, 2919; Pub. L. 104–106, div. A, title XV, §1504(b), Feb. 10, 1996, 110 Stat. 513; Pub. L. 104–201, div. A, title XIII, §1309(a)–(c), Sept. 23, 1996, 110 Stat. 2710; Pub. L. 106–65, div. A, title XV, §1504(a), (b), Oct. 5, 1999, 113 Stat. 808; Pub. L. 107–314, div. A, title XII, §1208(a), (d), Dec. 2, 2002, 116 Stat. 2668; Pub. L. 109–163, div. A, title X, §1056(f), Jan. 6, 2006, 119 Stat. 3440; Pub. L. 110–181, div. A, title XII, §1256(a)–(c), Jan. 28, 2008, 122 Stat. 403; Pub. L. 112–239, div. A, title X, §1076(c)(1), Jan. 2, 2013, 126 Stat. 1949, provided that:
 
 #### “SEC. 1603. STUDIES RELATING TO UNITED STATES COUNTERPROLIFERATION POLICY.
 
@@ -724,15 +724,15 @@ Pub. L. 99–83, title I, §129, Aug. 8, 1985, 99 Stat. 206, directed President,
 
 #### Termination of Nonrecurring Activities Under Foreign Assistance Act of 1961 and This Chapter and Removal From Law
 
-Section 734(c) of Pub. L. 97–113 provided that: “Except as otherwise explicitly provided by their terms, amendments to the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] and the Arms Export Control Act \[this chapter\] which are applicable only to a single fiscal or calendar year or which require reports or other actions on a nonrecurring basis shall be deemed to have expired and shall be removed from law upon the expiration of the applicable time periods for the fulfillment of the required actions.”
+Pub. L. 97–113, title VII, §734(c), Dec. 29, 1981, 95 Stat. 1561, provided that: “Except as otherwise explicitly provided by their terms, amendments to the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] and the Arms Export Control Act \[this chapter\] which are applicable only to a single fiscal or calendar year or which require reports or other actions on a nonrecurring basis shall be deemed to have expired and shall be removed from law upon the expiration of the applicable time periods for the fulfillment of the required actions.”
 
 #### Report to Congress by President on Multilateral Discussions Concerning Arms Transfer Policy
 
-Section 15(b) of Pub. L. 95–384 directed President, not later than Dec. 31, 1979, to transmit to Congress a detailed report assessing results and commenting on implications of multilateral discussion referred to inparagraph added to this section by section 15(a) of Pub. L. 95–384, relating to adherence to a policy of restraint in conventional arms transfer, prior to repeal by Pub. L. 97–113, title VII, §734(a)(12), Dec. 29, 1981, 95 Stat. 1560.
+Pub. L. 95–384, §15(b), Sept. 26, 1978, 92 Stat. 740, directed President, not later than Dec. 31, 1979, to transmit to Congress a detailed report assessing results and commenting on implications of multilateral discussion referred to in paragraph added to this section by section 15(a) of Pub. L. 95–384, relating to adherence to a policy of restraint in conventional arms transfer, prior to repeal by Pub. L. 97–113, title VII, §734(a)(12), Dec. 29, 1981, 95 Stat. 1560.
 
 #### Report by President on Review of Arms Sales Controls on Non-Lethal Items
 
-Section 25 of Pub. L. 95–384 directed President, within 120 days after Sept. 26, 1978, to report in writing to Speaker of House of Representatives and chairman of Committee on Foreign Relations of Senate the results of the review conducted pursuant to Pub. L. 95–92, §27, Aug. 4, 1977, 91 Stat. 626, set out below, prior to repeal by Pub. L. 97–113, title VII, §734(a)(12), Dec. 29, 1981, 95 Stat. 1560.
+Pub. L. 95–384, §25, Sept. 26, 1978, 92 Stat. 746, directed President, within 120 days after Sept. 26, 1978, to report in writing to Speaker of House of Representatives and chairman of Committee on Foreign Relations of Senate the results of the review conducted pursuant to Pub. L. 95–92, §27, Aug. 4, 1977, 91 Stat. 626, set out below, priorto repeal by Pub. L. 97–113, title VII, §734(a)(12), Dec. 29, 1981, 95 Stat. 1560.
 
 #### Report by President on Impact of Foreign Arms Sales and Transfers to Foreign Governments on Defense Readiness and National Security of United States
 
@@ -752,19 +752,19 @@ Pub. L. 95–92, §27, Aug. 4, 1977, 91 Stat. 626, directed President to underta
 
 #### Study of United States Arms Sales Policies and Practices by President; Report to Congress
 
-Section 202(b) of Pub. L. 94–329 set forth provisions respecting study and report to Congress of United States arms sales policies and practices, prior to repeal by Pub. L. 95–384, §29(c)(1)(A), Sept. 26, 1978, 92 Stat. 747.
+Pub. L. 94–329, title II, §202(b), June 30, 1976, 90 Stat. 735, set forth provisions respecting study and report to Congress of United States arms sales policies and practices, prior to repeal by Pub. L. 95–384, §29(c)(1)(A), Sept. 26, 1978, 92 Stat. 747.
 
 #### Presidential Report Regarding Sales of Excess Defense Articles to Foreign Governments and International Organizations
 
-Section 217 of Pub. L. 94–329 set forth provisions respecting report by the President of all sales under this chapter of excess defense articles to foreign governments and international organizations, prior to repeal by Pub. L. 95–384, §29(c)(1)(B), Sept. 26, 1978, 92 Stat. 747.
+Pub. L. 94–329, title II, §217, June 30, 1976, 90 Stat. 747, set forth provisions respecting report by the President of all sales under this chapter of excess defense articles to foreign governments and international organizations, prior to repeal by Pub. L. 95–384, §29(c)(1)(B), Sept. 26, 1978, 92 Stat. 747.
 
 #### Study by Secretaries of State and Defense on Consequences of Enactment of Arms Export Control Provisions
 
-Section 218 of Pub. L. 94–329 set forth provisions respecting study by the Secretaries of State and Defense on consequences of enactment of arms export control provisions by title II of Pub. L. 94–329, prior to repeal by Pub. L. 95–384, §29(c)(1)(C), Sept. 26, 1978, 92 Stat. 747.
+Pub. L. 94–329, title II, §218, June 30, 1976, 90 Stat. 748, set forth provisions respecting study by the Secretaries of State and Defense on consequences of enactment of arms export control provisions by title II of Pub. L. 94–329, prior to repeal by Pub. L. 95–384, §29(c)(1)(C), Sept. 26, 1978, 92 Stat. 747.
 
 #### Total Number of Credits To Be Extended Between July 1, 1976, and September 30, 1976
 
-Section 506(b) of Pub. L. 94–329 provided that the total number of credits extended pursuant to this chapter, between July 1, 1976, and Sept. 30, 1976, not exceed an amount equal to one-fourth of the total amount of credits extended and guaranteed for fiscal year 1976.
+Pub. L. 94–329, title V, §506(b), June 30, 1976, 90 Stat. 764, provided that the total number of credits extended pursuant to this chapter, between July 1, 1976, and Sept. 30, 1976, not exceed an amount equal to one-fourth of the total amount of credits extended and guaranteed for fiscal year 1976.
 
 #### Additional Military and Civilian Personnel for Department of Defense
 
@@ -772,11 +772,11 @@ Pub. L. 94–329, title VI, §605(a), June 30, 1976, 90 Stat. 768, provided that
 
 #### Sales to the Middle East; Requests for Additional Appropriations
 
-Section 5 of Pub. L. 91–672 provided that: “It is the sense of Congress that (1) the President should continue to press forward urgently with his efforts to negotiate with the Soviet Union and other powers a limitation on arms shipments to the Middle East, (2) the President should be supported in his position that arms will be made available and credits provided to Israel and other friendly states, to the extent that the President determines such assistance to be needed in order to meet threats to the security and independence of such states, and (3) if the authorization provided in the Foreign Military Sales Act, as amended \[this chapter\], should prove to be insufficient to effectuate this stated policy, the President should promptly submit to the Congress requests for an appropriate supplementary authorization and appropriation.”
+Pub. L. 91–672, §5, Jan. 12, 1971, 84 Stat. 2053, provided that: “It is the sense of Congress that (1) the President should continue to press forward urgently with his efforts to negotiate with the Soviet Union and other powers a limitation on arms shipments to the Middle East, (2) the President should be supported in his position that arms will be made available and credits provided to Israel and other friendly states, to the extent that the President determines such assistance to be needed in order to meet threats to the security and independence of such states, and (3) if the authorization provided in the Foreign Military Sales Act, as amended \[this chapter\], should prove to be insufficient to effectuate this stated policy, the President should promptly submit to the Congress requests for an appropriate supplementary authorization and appropriation.”
 
 #### Review of Military Aid Programs and Efforts for Regulation of Conventional Arms Trade
 
-Section 6 of Pub. L. 91–672 provided that: “It is the sense of the Congress that—
+Pub. L. 91–672, §6, Jan. 12, 1971, 84 Stat. 2053, provided that: “It is the sense of the Congress that—
 
 &emsp;“(1) the President should immediately institute a thorough and comprehensive review of the military aid programs of the United States, particularly with respect to the military assistance and sales operations of the Department of Defense, and
 
@@ -786,7 +786,7 @@ Section 6 of Pub. L. 91–672 provided that: “It is the sense of the Congress 
 
 &emsp;&emsp;“(B) to commence a general debate in the United Nations with respect to the control of the conventional arms trade, and
 
-&emsp;&emsp;“(C) to use the power and prestige of his office to signify the intention of the United States to work actively with all nations to check and control theinternational sales and distribution of conventional weapons of death and destruction.”
+&emsp;&emsp;“(C) to use the power and prestige of his office to signify the intention of the United States to work actively with all nations to check and control the international sales and distribution of conventional weapons of death and destruction.”
 
 #### Executive Order No. 11501
 
@@ -822,7 +822,7 @@ Section 1. <i>Delegation of Functions</i>. The following functions conferred upo
 
 (k) Those under Sections 36(c) and (d) of the Act \[22 U.S.C. 2776(c), (d)\] to the Secretary of State. Those under Section 36(e) of the Act, as added by Public Law 104–164 with respect to transmittals pursuant to Section 36(b) to the Secretary of Defense, and with respect to transmittals pursuant to Section 36(c), to the Secretary of State.
 
-(<i>l</i>) Those under Section 38 of the Act \[22 U.S.C. 2778\]:
+(l) Those under Section 38 of the Act \[22 U.S.C. 2778\]:
 
 (1) to the Secretary of State, except as otherwise provided in this subsection. Designations, including changes in designations, by the Secretary of State of items or categories of items which shall be considered as defense articles and defense services subject to export control under Section 38 shall have the concurrence of the Secretary of Defense. The authority to undertake activities to ensure compliance with established export conditions may be redelegated to the Secretary of Defense, or to the head of another department or agency as appropriate, which shall exercise such functions in consultation with the Secretary of State;
 
@@ -834,7 +834,7 @@ Section 1. <i>Delegation of Functions</i>. The following functions conferred upo
 
 (n) Those under Section 40A of the Act \[22 U.S.C. 2785\], as added by Public Law 104–164, to the Secretary of State insofar as they relate to commercial exports licensed under the Act, and to the Secretary of Defense insofar as they relate to defense articles and defense services sold, leased, or transferred under the Foreign Military Sales Program.
 
-(<i>o</i>) Those under Section 40A of the Act \[22 U.S.C. 2781\], as added by the Antiterrorism and Effective Death Penalty Act of 1996 (Public Law 104–132), to the Secretary of State.
+(o) Those under Section 40A of the Act \[22 U.S.C. 2781\], as added by the Antiterrorism and Effective Death Penalty Act of 1996 (Public Law 104–132), to the Secretary of State.
 
 (p) Those under Sections 42(c) and (f) of the Act \[22 U.S.C. 2791(c), (f)\] to the Secretary of Defense. The Secretary of Defense shall obtain the concurrence of the Secretary of State and the Secretary of the Treasury on any determination proposed under the authority of Section 42(c) of the Act \[22 U.S.C. 2791(c)\].
 

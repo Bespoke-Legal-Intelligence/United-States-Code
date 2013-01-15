@@ -2,7 +2,7 @@
 
 (a)
 
-Distribution of List.—The Comptroller General shall distribute to each agency of the Federal Government a list containing the names of persons or firms that a Federal agency or the Secretary has found to have violated this chapter.
+Distribution of List.—The Comptroller General shall distribute to each agency of theFederal Government a list containing the names of persons or firms that a Federal agency or the Secretary has found to have violated this chapter.
 
 (b)
 

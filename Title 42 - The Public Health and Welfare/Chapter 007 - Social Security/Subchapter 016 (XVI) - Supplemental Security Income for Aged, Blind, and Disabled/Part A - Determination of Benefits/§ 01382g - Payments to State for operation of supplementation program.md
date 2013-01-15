@@ -108,7 +108,7 @@ Pub. L. 97–248 added subsec. (c) relating to conditions under which a State ma
 
 Amendment by section 107(a)(4) of Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of this title.
 
-Section 209(b) of Pub. L. 103–296 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to increases in the level of supplemental security income benefits under title XVI of the Social Security Act \[this subchapter\] whether occurring before, on, or after the date of the enactment of this Act \[Aug. 15, 1994\].”
+Pub. L. 103–296, title II, §209(b), Aug. 15, 1994, 108 Stat. 1517, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to increases in the level of supplemental security income benefits under title XVI of the Social Security Act \[this subchapter\] whether occurring before, on, or after the date of the enactment of this Act \[Aug. 15, 1994\].”
 
 #### Effective Date of 1987 Amendment
 
@@ -120,7 +120,7 @@ Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed a
 
 #### Effective Date
 
-Section 2(c) of Pub. L. 94–585 provided that: “The provisions of this section \[enacting this section and provisions set out as a note under section 1382e of this title\] shall be effective with respect to benefits payable for months after June 1977.”
+Pub. L. 94–585, §2(c), Oct. 21, 1976, 90 Stat. 2902, provided that: “The provisions of this section \[enacting this section and provisions set out as a note under section 1382e of this title\] shall be effective with respect to benefits payable for months after June 1977.”
 
 #### Application to Northern Mariana Islands
 

@@ -26,7 +26,7 @@ Notification.—All cost and cost-plus-a-fixed-fee contracts shall provide for a
 
 (d)
 
-Right To Audit.—A procuring agency, through any authorized representative thereof, has the right to inspect the plans and to audit the books and records of a prime contractor or subcontractor engaged in the performance of a cost or cost-plus-a-fixed-fee contract.
+Right To Audit.—A procuring agency, through any authorized representative thereof, has the right to inspect the plans and to audit the books and records of a prime contractor orsubcontractor engaged in the performance of a cost or cost-plus-a-fixed-fee contract.
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3776.)
 

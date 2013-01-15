@@ -102,7 +102,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Designation of Foreign Language Resources Coordinator
 
-Section 192 of Pub. L. 103–236 provided that:
+Pub. L. 103–236, title I, §192, Apr. 30, 1994, 108 Stat. 419, provided that:
 
 “(a)
 
@@ -158,7 +158,7 @@ Use of Funds.—(1)(A) Of amounts authorized to be appropriated to the Departmen
 
 “(d)
 
-Jurisdiction and Custody.—The facility constructed under this section and the site of such facilityshall be under jurisdiction and in the custody of the Administrator of General Services.
+Jurisdiction and Custody.—The facility constructed under this section and the site of such facility shall be under jurisdiction and in the custody of the Administrator of General Services.
 
 “(e)
 

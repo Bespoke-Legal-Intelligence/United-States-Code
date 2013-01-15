@@ -22,7 +22,7 @@ Application.—To be eligible to receive a grant under this section, a nonprofit
 
 &emsp;(1) information describing how the organization will—
 
-&emsp;&emsp;(A) collaborate with disabled veterans’ outreach specialists and local veterans’ employment representatives and the appropriate State boards and local boards (as suchterms are defined in section 101 of the Workforce Investment Act of 1998 (29 U.S.C. 2801));
+&emsp;&emsp;(A) collaborate with disabled veterans’ outreach specialists and local veterans’ employment representatives and the appropriate State boards and local boards (as such terms are defined in section 101 of the Workforce Investment Act of 1998 (29 U.S.C. 2801));
 
 &emsp;&emsp;(B) based on the collaboration, provide training that facilitates the placement described in subsection (b)(2); and
 

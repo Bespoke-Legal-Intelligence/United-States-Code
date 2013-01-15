@@ -38,7 +38,7 @@ Section effective Aug. 13, 1981, see section 1038 of Pub. L. 97–35, set out as
 
 #### Validity of Orders Under Former Provisions of This Section
 
-Section 1022 of Pub. L. 97–35 provided that:
+Pub. L. 97–35, title X, §1022, Aug. 13, 1981, 95 Stat. 616, provided that:
 
 “(a) The amendments made by section 1021 to section 301(b) and (c) of the Powerplant and Industrial Fuel Use Act of 1978 \[subsecs. (b) and (c) of this section\] shall not apply to any electric powerplant for which a final order was issued pursuant to section 301(b) or (c) of such Act before the date of the enactment of this Act \[Aug. 13, 1981\].
 

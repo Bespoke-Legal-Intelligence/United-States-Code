@@ -2,7 +2,7 @@
 
 (a) In this section:
 
-&emsp;(1) The term “captive status” means a missing status of a member of the uniformed services which, as determined by the President, arises because of a hostile action and is a result of membership in the uniformed services, but does not include a period of captivity of a member as a prisoner of war if Congress provides to such member, in an Act enacted after August 27, 1986, monetary payment in respect of such period of captivity.
+&emsp;(1) The term “captive status” means a missing status of a member of the uniformed services which, as determined by the President, arises because of a hostile action and is a result of membership in the uniformed services,but does not include a period of captivity of a member as a prisoner of war if Congress provides to such member, in an Act enacted after August 27, 1986, monetary payment in respect of such period of captivity.
 
 &emsp;(2) The term “former captive” means a person who, as a member of the uniformed services, was held in a captive status.
 
@@ -78,13 +78,13 @@ Subsec. (c)(2). Pub. L. 101–510, §1484(e)(2), inserted “(5 U.S.C. 5569 note
 
 #### Effective Date; Payments; Interest
 
-Section 806(a)(3) of Pub. L. 99–399 provided that:
+Pub. L. 99–399, title VIII, §806(a)(3), Aug. 27, 1986, 100 Stat. 885, provided that:
 
 “(A)(i) Except as provided in clause (ii), section 559 of title 37, United States Code, as added by paragraph (1), shall apply to any person whose captive status begins after January 21, 1981.
 
 “(ii)(I) Subsection (c) of such section shall apply to any person whose captive status begins on or after November 4, 1979.
 
-“(II) In the case of any person whose status as a captive terminated before the date of the enactment of this Act \[Aug. 27, 1986\], the President shall make a payment under paragraph (1) of such subsection before the end of the one-year period beginning on such date.
+“(II) In the case of any person whose status as a captive terminated before the date of the enactment ofthis Act \[Aug. 27, 1986\], the President shall make a payment under paragraph (1) of such subsection before the end of the one-year period beginning on such date.
 
 “(B) Amounts may be allotted to a savings fund established under such section from pay and allowances for any pay period ending after January 21, 1981, and before the establishment of such fund.
 

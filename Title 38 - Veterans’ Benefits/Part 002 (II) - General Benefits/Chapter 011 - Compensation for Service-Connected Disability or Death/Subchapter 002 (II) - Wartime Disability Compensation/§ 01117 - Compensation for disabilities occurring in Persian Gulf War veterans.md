@@ -1,6 +1,6 @@
 ### §1117. Compensation for disabilities occurring in Persian Gulf War veterans
 
-(a)(1) The Secretary may pay compensation under this subchapter to a Persian Gulf veteran with a qualifying chronic disability that became manifest—
+(a)(1) The Secretary may pay compensation under this subchapter to a Persian Gulf veteranwith a qualifying chronic disability that became manifest—
 
 &emsp;(A) during service on active duty in the Armed Forces in the Southwest Asia theater of operations during the Persian Gulf War; or
 
@@ -82,7 +82,7 @@
 
 <b>2006</b>—Subsec. (h)(1). Pub. L. 109–233 substituted “notwithstanding” for “nothwithstanding”.
 
-<b>2001</b>—Subsec. (a). Pub. L. 107–103, §202(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary may pay compensation under this subchapter to any Persian Gulf veteran suffering from a chronic disability resulting from an undiagnosed illness (or combination of undiagnosed illnesses) that—
+<b>2001</b>—Subsec. (a). Pub. L. 107–103, §202(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary may pay compensationunder this subchapter to any Persian Gulf veteran suffering from a chronic disability resulting from an undiagnosed illness (or combination of undiagnosed illnesses) that—
 
 &emsp;“(1) became manifest during service on active duty in the Armed Forces in the Southwest Asia theater of operations during the Persian Gulf War; or
 
@@ -108,7 +108,7 @@ Pub. L. 107–103, title II, §203(b), Dec. 27, 2001, 115 Stat. 990, provided th
 
 #### Regulations
 
-Section 106(d) of Pub. L. 103–446 provided that: “If the Secretary states in the report under subsection (c) \[set out below\] that the Secretary intends to pay compensation as provided in section 1117 of title 38, United States Code, as added by subsection (a), the Secretary shall, not later than 30 days after the date on which such report is submitted, publish in the Federal Register proposed regulations under subsections (b) and (c) of that section.”
+Pub. L. 103–446, title I, §106(d), Nov. 2, 1994, 108 Stat. 4651, provided that: “If the Secretary states in the report under subsection (c) \[set out below\] that the Secretary intends to pay compensation as provided in section 1117 of title 38, United States Code, as added by subsection (a), the Secretary shall, not later than 30 days after the date on which such report is submitted, publish in the Federal Register proposed regulations under subsections (b) and (c) of that section.”
 
 #### Agreement With National Academy of Sciences Regarding Evaluation of Health Consequences of Service in Southwest Asia During the Persian Gulf War
 
@@ -122,7 +122,7 @@ Purpose.—The purpose of this section is to provide for the National Academy of
 
 Agreement.—(1) The Secretary of Veterans Affairs shall seek to enter into an agreement with the National Academy of Sciences for the Academy to perform the activities covered by this section. The Secretary shall seek to enter into the agreement not later than 2 months after the date of the enactment of this Act \[Nov. 11, 1998\].
 
-“(2)(A) If the Secretary is unable within the time period set forth in paragraph (1) to enter into an agreement with the Academy for the purposes of this section on terms acceptable to the Secretary, the Secretary shall seek to enter into an agreement for purposes ofthis section with another appropriate scientific organization that is not part of the Federal Government, operates as a not-for-profit entity, and has expertise and objectivity comparable to that of the Academy.
+“(2)(A) If the Secretary is unable within the time period set forth in paragraph (1) to enter into an agreement with the Academy for the purposes of this section on terms acceptable to the Secretary, the Secretary shall seek to enter into an agreement for purposes of this section with another appropriate scientific organization that is not part of the Federal Government, operates as a not-for-profit entity, and has expertise and objectivity comparable to that of the Academy.
 
 “(B) If the Secretary enters into an agreement with another organization under this paragraph, any reference in this section to the National Academy of Sciences shall be treated as a reference to such other organization.
 
@@ -248,7 +248,7 @@ Scientific Determinations Concerning Illnesses.—(1) For each illness identifie
 
 “(f)
 
-Recommendations for Additional Scientific Studies.—(1) Under the agreement under subsection\(b), the National Academy of Sciences shall make any recommendations that it considers appropriate for additional scientific studies (including studies relating to treatment models) to resolve areas of continuing scientific uncertainty relating to the health consequences of service described in subsection (c)(1)(A) or exposure to toxic agents, environmental or wartime hazards, or preventive medicines or vaccines associated with such service.
+Recommendations for Additional Scientific Studies.—(1) Under the agreement under subsection (b), the National Academy of Sciences shall make any recommendations that it considers appropriate for additional scientific studies (including studies relating to treatment models) to resolve areas of continuing scientific uncertainty relating to the health consequences of service described in subsection (c)(1)(A) or exposure to toxic agents, environmental or wartime hazards, or preventive medicines or vaccines associated with such service.
 
 “(2) In making recommendations for additional studies, the Academy shall consider the available scientific data, the value and relevance of the information that could result from such studies, and the cost and feasibility of carrying out such studies.
 
@@ -286,7 +286,7 @@ Reports by Academy.—(1) Under the agreement under subsection (b), the National
 
 Reports by Secretary.—(1) The Secretary shall review each report from the Academy under subsection (h). As part of such review, the Secretary shall seek comments on, and evaluation of, the Academy's report from the heads of other affected departments and agencies of the United States.
 
-“(2) Based upon a review under paragraph (1), the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives a report on the available scientific and medical information regarding the health consequences of service described in subsection (c)(1)(A) and of exposures to risk factors during such service. The Secretary shall include in the report the Secretary's recommendations as to whether there is sufficient evidence to warrant a presumption of service-connection for the occurrence of a specified condition in veterans described in subsection (c)(1)(A). In determining whether to make such a recommendation, the Secretary shall consider the matters specified in subparagraphs (A) through (F) of subsection (e)(1).
+“(2) Based upon a review under paragraph (1), the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives a report on the available scientific and medical information regarding the health consequences of service described in subsection (c)(1)(A) and of exposures torisk factors during such service. The Secretary shall include in the report the Secretary's recommendations as to whether there is sufficient evidence to warrant a presumption of service-connection for the occurrence of a specified condition in veterans described in subsection (c)(1)(A). In determining whether to make such a recommendation, the Secretary shall consider the matters specified in subparagraphs (A) through (F) of subsection (e)(1).
 
 “(3) The report under this subsection shall be submitted not later than 120 days after the date on which the Secretary receives the report from the Academy.
 
@@ -390,7 +390,7 @@ Initial Consideration of Specific Agents.—(1) In identifying under subsection 
 
 &emsp;&emsp;“(v) Repellent (DEET).
 
-&emsp;“(E) The following low-level nerve agents and precursor compounds at exposure levels below those which produce immediately apparent incapacitating symptoms:
+&emsp;“(E) The following low-level nerve agents and precursor compounds at exposure levels below thosewhich produce immediately apparent incapacitating symptoms:
 
 &emsp;&emsp;“(i) Sarin.
 
@@ -462,7 +462,7 @@ Review of Potential Treatment Models for Certain Illnesses.—Under the agreemen
 
 “(g)
 
-Recommendations for Additional Scientific Studies.—(1) Under the agreement under subsection (b), the National Academy of Sciences shall make any recommendations that it considers appropriate for additional scientific studies (including studies relating to treatment models) to resolve areas of continuing scientific uncertainty relating to the health consequences of exposure to toxic agents, environmental or wartimehazards, or preventive medicines or vaccines associated with service described in subsection (c)(1)(A).
+Recommendations for Additional Scientific Studies.—(1) Under the agreement under subsection (b), the National Academy of Sciences shall make any recommendations that it considers appropriate for additional scientific studies (including studies relating to treatment models) to resolve areas of continuing scientific uncertainty relating to the health consequences of exposure to toxic agents, environmental or wartime hazards, or preventive medicines or vaccines associated with service described in subsection (c)(1)(A).
 
 “(2) In making recommendations for additional studies, the Academy shall consider the available scientific data, the value and relevance of the information that could result from such studies, and the cost and feasibility of carrying out such studies.
 
@@ -516,7 +516,7 @@ Alternative Contract Scientific Organization.—(1) If the Secretary is unable w
 
 “(2) If the Secretary enters into an agreement with another organization under this subsection, any reference in this section and section 1118 of title 38, United States Code (as added by section 1602(a)), to the National Academy of Sciences shall be treated as a reference to such other organization.
 
-“(<i>l</i>)
+“(l)
 
 Definitions.—In this section:
 
@@ -568,7 +568,7 @@ Sections 102 to 105, 107, 109, and 110 of title I of Pub. L. 103–446, as amend
 
 &emsp;“(1) to provide compensation to Persian Gulf War veterans who suffer disabilities resulting from illnesses that cannot now be diagnosed or defined, and for which other causes cannot be identified;
 
-&emsp;“(2) to require the Secretary of Veterans Affairs to develop at the earliest possible date case assessment strategies and definitions or diagnoses of such illnesses;
+&emsp;“(2) to require the Secretary of Veterans Affairs to develop at the earliest possible date case assessmentstrategies and definitions or diagnoses of such illnesses;
 
 &emsp;“(3) to promote greater outreach to Persian Gulf War veterans and their families to inform them of ongoing research activities, as well as the services and benefits to which they are currently entitled; and
 
@@ -648,7 +648,7 @@ Contracting.—The Secretary may provide for the conduct of testing and examinat
 
 “(e)
 
-Standard Protocols and Guidelines.—The Secretary shall seek to ensure uniform development of medical data through the development of standard protocols and guidelines for such testing and examinations. If such protocols and guidelines have not been adopted before the end of the 120-day period beginning on the date of the enactment of this Act \[Nov. 2, 1994\], the Secretary shall, before the end of such period, submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report as to why such protocols and guidelines have not yet been developed.
+Standard Protocols and Guidelines.—The Secretary shall seek to ensure uniform development ofmedical data through the development of standard protocols and guidelines for such testing and examinations. If such protocols and guidelines have not been adopted before the end of the 120-day period beginning on the date of the enactment of this Act \[Nov. 2, 1994\], the Secretary shall, before the end of such period, submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report as to why such protocols and guidelines have not yet been developed.
 
 “(f)
 
@@ -698,7 +698,7 @@ Study of Health Consequences of Persian Gulf Service.—If the National Academy 
 
 Oversight.—(1) The Secretary shall seek to enter into an agreement with the Medical Follow-Up Agency (MFUA) of the Institute of Medicine of the National Academy of Sciences for (A) the review of proposals to conduct the research referred to in subsection (a), (B) oversight of such research, and (C) review of the research findings.
 
-“(2) If the Secretary is unable to enter into an agreement under paragraph (1) with the entity specified in that paragraph, the Secretary shall enter into an agreement described in that paragraph with anotherappropriate scientific organization which does not have a connection to the Department of Veterans Affairs. In such a case, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives, at least 90 days before the date on which the agreement is entered into, notice in writing identifying the organization with which the Secretary intends to enter into the agreement.
+“(2) If the Secretary is unable to enter into an agreement under paragraph (1) with the entity specified in that paragraph, the Secretary shall enter into an agreement described in that paragraph with another appropriate scientific organization which does not have a connection to the Department of Veterans Affairs. In such a case, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives, at least 90 days before the date on which the agreement is entered into, notice in writing identifying the organization with which the Secretary intends to enter into the agreement.
 
 “(c)
 

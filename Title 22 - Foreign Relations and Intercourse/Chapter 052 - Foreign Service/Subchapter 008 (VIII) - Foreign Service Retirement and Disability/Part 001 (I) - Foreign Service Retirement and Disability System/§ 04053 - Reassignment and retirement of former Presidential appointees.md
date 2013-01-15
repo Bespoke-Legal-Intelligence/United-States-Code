@@ -24,7 +24,7 @@ A participant who is retired under subsection (a)(2) of this section and is subs
 
 “(a) Except as provided under subsection (b) of this section, a participant, who completes an assignment under section 3942(b) of this title in a position to which he or she was appointed by the President, shall be offered reassignment within 90 days after the termination of such assignment and any period of authorized leave.
 
-“(b) Subsection (a) of this section shall not apply with respect to a participant, if the Secretary of State determines that reassignment of the participant is not in the interest of the United States and the Foreign Service.
+“(b) Subsection (a) of this section shall not apply with respect to a participant, if the Secretary of Statedetermines that reassignment of the participant is not in the interest of the United States and the Foreign Service.
 
 “(c) A participant who is not reassigned under subsection (a) of this section shall be retired from the Service and receive retirement benefits in accordance with section 4046 or 4071d of this title, as appropriate.”
 

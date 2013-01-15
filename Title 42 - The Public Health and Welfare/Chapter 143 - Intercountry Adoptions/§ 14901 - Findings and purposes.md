@@ -50,6 +50,10 @@ Transition Rule.—The Convention and this Act \[see Short Title note below\] sh
 
 &emsp;“(2) in the case of a child emigrating from the United States, if the prospective adoptive parents of the child initiated the adoption process in their country of residence with the filing of an appropriate application before the effective date described in subsection (a)(2).”
 
+#### Short Title of 2013 Amendment
+
+Pub. L. 112–276, §1, Jan. 14, 2013, 126 Stat. 2466, provided that: “This Act \[enacting section 14925 of this title, amending sections 14922 and 14943 of this title, and enacting provisions set out as a note under section 14925 of this title\] may be cited as the ‘Intercountry Adoption Universal Accreditation Act of 2012’.”
+
 #### Short Title
 
 Pub. L. 106–279, §1(a), Oct. 6, 2000, 114 Stat. 825, provided that: “This Act \[enacting this chapter and amending section 622 of this title and sections 1101 and 1154 of Title 8, Aliens and Nationality\] may be cited as the ‘Intercountry Adoption Act of 2000’.”

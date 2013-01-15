@@ -482,7 +482,7 @@ Except as provided in subsection (k)(4), during the pendency of any proceedings 
 
 #### (B) Authority
 
-&emsp;&emsp;School personnel under this subsection may remove a child with a disability who violates a code of student conduct from their current placement to an appropriate interim alternative educational setting, another setting, or suspension, for not more than 10 school days (to the extent such alternatives are applied to children without disabilities).
+&emsp;&emsp;School personnel under this subsection may remove a child with a disability whoviolates a code of student conduct from their current placement to an appropriate interim alternative educational setting, another setting, or suspension, for not more than 10 school days (to the extent such alternatives are applied to children without disabilities).
 
 #### (C) Additional authority
 
@@ -508,7 +508,7 @@ Except as provided in subsection (k)(4), during the pendency of any proceedings 
 
 #### (ii) Manifestation
 
-&emsp;&emsp;&emsp;If the local educational agency, the parent, and relevant members of the IEP Team determine that either subclause (I) or (II) of clause (i) is applicable for thechild, the conduct shall be determined to be a manifestation of the child's disability.
+&emsp;&emsp;&emsp;If the local educational agency, the parent, and relevant members of the IEP Team determine that either subclause (I) or (II) of clause (i) is applicable for the child, the conduct shall be determined to be a manifestation of the child's disability.
 
 #### (F) Determination that behavior was a manifestation
 
@@ -604,7 +604,7 @@ Except as provided in subsection (k)(4), during the pendency of any proceedings 
 
 #### (B) Transmittal of records
 
-&emsp;&emsp;An agency reporting a crime committed by a child with a disability shall ensure that copies of the special education and disciplinary records of the child are transmitted for consideration by the appropriate authorities to whom the agency reports the crime.
+&emsp;&emsp;An agency reporting a crime committed by a child with a disability shall ensure thatcopies of the special education and disciplinary records of the child are transmitted for consideration by the appropriate authorities to whom the agency reports the crime.
 
 #### (7) Definitions
 
@@ -626,7 +626,7 @@ Except as provided in subsection (k)(4), during the pendency of any proceedings 
 
 &emsp;&emsp;The term “serious bodily injury” has the meaning given the term “serious bodily injury” under paragraph (3) of subsection (h) of section 1365 of title 18.
 
-#### (<i>l</i>) Rule of construction
+#### (l) Rule of construction
 
 Nothing in this chapter shall be construed to restrict or limit the rights, procedures, and remedies available under the Constitution, the Americans with Disabilities Act of 1990 \[42 U.S.C. 12101 et seq.\], title V of the Rehabilitation Act of 1973 \[29 U.S.C. 790 et seq.\], or other Federal laws protecting the rights of children with disabilities, except that before the filing of a civil action under such laws seeking relief that is also available under this subchapter, the procedures under subsections (f) and (g) shall be exhausted to the same extent as would be required had the action been brought under this subchapter.
 
@@ -646,13 +646,13 @@ Nothing in this chapter shall be construed to restrict or limit the rights, proc
 
 #### (2) Special rule
 
-&emsp;If, under State law, a child with a disability who has reached the age of majority underState law, who has not been determined to be incompetent, but who is determined not to have the ability to provide informed consent with respect to the educational program of the child, the State shall establish procedures for appointing the parent of the child, or if the parent is not available, another appropriate individual, to represent the educational interests of the child throughout the period of eligibility of the child under this subchapter.
+&emsp;If, under State law, a child with a disability who has reached the age of majority under State law, who has not been determined to be incompetent, but who is determined not to have the ability to provide informed consent with respect to the educational program of the child, the State shall establish procedures for appointing the parent of the child, or if the parent is not available, another appropriate individual, to represent the educational interests of the child throughout the period of eligibility of the child under this subchapter.
 
 #### (n) Electronic mail
 
 A parent of a child with a disability may elect to receive notices required under this section by an electronic mail (e-mail) communication, if the agency makes such option available.
 
-#### (<i>o</i>) Separate complaint
+#### (o) Separate complaint
 
 Nothing in this section shall be construed to preclude a parent from filing a separate due process complaint on an issue separate from a due process complaint already filed.
 
@@ -666,9 +666,9 @@ The Federal Rules of Civil Procedure, referred to in subsec. (i)(3)(D)(i)(I), ar
 
 The Controlled Substances Act, referred to in subsec. (k)(7)(B), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (<i>l</i>), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (l), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
-The Rehabilitation Act of 1973, referred to in subsec. (<i>l</i>), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended. Title V of the Act is classified generally to subchapter V (§790 et seq.) of chapter 16 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (l), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended. Title V of the Act is classified generally to subchapter V (§790 et seq.) of chapter 16 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
 #### Prior Provisions
 

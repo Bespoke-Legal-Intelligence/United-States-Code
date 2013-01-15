@@ -38,7 +38,7 @@ Indigenous materials and products.—In the construction of highways and roads a
 
 &emsp;(2)
 
-Coal derivatives.—For research and development in the use of coal and coal products in highway construction and maintenance, theSecretary may require each participating State, to the maximum extent possible, to use coal derivatives in the construction of not more than 10 percent of the roads authorized under this subtitle.
+Coal derivatives.—For research and development in the use of coal and coal products in highway construction and maintenance, the Secretary may require each participating State, to the maximum extent possible, to use coal derivatives in the construction of not more than 10 percent of the roads authorized under this subtitle.
 
 (e)
 
@@ -127,4 +127,32 @@ In subsection (e), the text of 40 App.:201(g) is omitted as obsolete.
 #### Amendments
 
 <b>2004</b>—Subsec. (a). Pub. L. 108–199, which directed substitution of “three thousand and ninety” for “three thousand and twenty-five” in third sentence, was executed by substituting “three thousand and ninety” for “3,025” in second sentence of subsec. (a) to reflect the probable intent of Congress.
+
+#### Appalachian Development Highway System
+
+Pub. L. 112–141, div. A, title I, §1528, July 6, 2012, 126 Stat. 582, provided that:
+
+“(a)
+
+Sense of the Senate.—It is the Sense of the Senate that the timely completion of the Appalachian development highway system is a transportation priority in the national interest.
+
+“(b)
+
+Modified Federal Share for Projects on ADHS.—For fiscal years 2012 through 2021, the Federal share payable for the cost of constructing highways and access roads on the Appalachian development highway system under section 14501 of title 40, United States Code, with funds made available to a State for fiscal year 2012 or a previous fiscal year for the Appalachian development highway system program, or with funds made available for fiscal year 2012 or a previous fiscal year for a specific project, route, or corridor on that system, shall be 100 percent.
+
+“(c)
+
+Federal Share for Other Funds Used on ADHS.—For fiscal years 2012 through 2021, the Federal share payable for the cost of constructing highways and access roads on the Appalachian development highway system under section 14501 of title 40, United States Code, with Federal funds apportioned to a State for a program other than the Appalachian development highway system program shall be 100 percent.
+
+“(d)
+
+Completion Plan.—
+
+&emsp;“(1)
+
+In general.—Subject to paragraph (2), not later than 1 year after the date of enactment of the MAP–21 \[deemed to be Oct. 1, 2012\], each State represented on the Appalachian Regional Commission shall establish a plan for the completion of the designated corridors of the Appalachian development highway system within the State, including annual performance targets, with a target completion date.
+
+&emsp;“(2)
+
+Significant uncompleted miles.—If the percentage of remaining Appalachian development highway system needs for a State, according to the latest cost to complete estimate for the Appalachian development highway system, is greater than 15 percent of the total cost to complete estimate for the entire Appalachian development highway system, the State shall not establish a plan under paragraph (1) that would result in a reduction of obligated funds for the Appalachian development highway system within the State for any subsequent fiscal year.”
 

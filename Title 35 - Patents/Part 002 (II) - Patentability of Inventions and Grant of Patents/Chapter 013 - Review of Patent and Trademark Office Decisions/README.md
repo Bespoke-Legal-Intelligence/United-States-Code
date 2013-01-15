@@ -7,13 +7,9 @@
 | [143\.](%C2%A7%2000143%20-%20Proceedings%20on%20appeal.md) | Proceedings on appeal. |
 | [144\.](%C2%A7%2000144%20-%20Decision%20on%20appeal.md) | Decision on appeal. |
 | [145\.](%C2%A7%2000145%20-%20Civil%20action%20to%20obtain%20patent.md) | Civil action to obtain patent. |
-| [146\.](%C2%A7%2000146%20-%20Civil%20action%20in%20case%20of%20interference.md) | Civil action in case of interference. |
+| [146\.](%C2%A7%2000146%20-%20Civil%20action%20in%20case%20of%20derivation%20proceeding.md) | Civil action in case of derivation proceeding. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Amendment of Analysis
-
-<i>Pub. L. 112–29, §3(j)(6), (n), Sept. 16, 2011, 125 Stat. 291, 293, provided that, effective upon the expiration of the 18-month period beginning on Sept. 16, 2011, and applicable to certain applications for patent and any patents issuing thereon, item 146 of this analysis is amended to read “Civil action in case of derivation proceeding.” See 2011 Amendment note below.</i>
 
 #### Amendments
 
@@ -33,4 +29,4 @@
 - [&sect; 00143 - Proceedings on appeal](%C2%A7%2000143%20-%20Proceedings%20on%20appeal.md)
 - [&sect; 00144 - Decision on appeal](%C2%A7%2000144%20-%20Decision%20on%20appeal.md)
 - [&sect; 00145 - Civil action to obtain patent](%C2%A7%2000145%20-%20Civil%20action%20to%20obtain%20patent.md)
-- [&sect; 00146 - Civil action in case of interference](%C2%A7%2000146%20-%20Civil%20action%20in%20case%20of%20interference.md)
+- [&sect; 00146 - Civil action in case of derivation proceeding](%C2%A7%2000146%20-%20Civil%20action%20in%20case%20of%20derivation%20proceeding.md)

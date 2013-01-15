@@ -1,6 +1,6 @@
 ### §1258. Reclamation plan requirements
 
-(a) Each reclamation plan submitted as part of a permit application pursuant to any approved State program or a Federal program under the provisions of this chapter shall include, in the degree of detail necessary to demonstrate that reclamation required by the State or Federal program can be accomplished, a statement of:
+(a) Each reclamation plan submitted as part of a permit application pursuant to any approved State program or a Federal program under the provisions of this chapter shall include, in the degree of detail necessary to demonstrate thatreclamation required by the State or Federal program can be accomplished, a statement of:
 
 &emsp;(1) the identification of the lands subject to surface coal mining operations over the estimated life of those operations and the size, sequence, and timing of the subareas for which it is anticipated that individual permits for mining will be sought;
 
@@ -16,7 +16,7 @@
 
 &emsp;(4) a detailed description of how the proposed postmining land use is to be achieved and the necessary support activities which may be needed to achieve the proposed land use;
 
-&emsp;(5) the engineering techniques proposed to be used in mining and reclamation and a description of the major equipment; a plan for the control of surface water drainage and of wateraccumulation; a plan, where appropriate, for backfilling, soil stabilization, and compacting, grading, and appropriate revegetation; a plan for soil reconstruction, replacement, and stabilization, pursuant to the performance standards in section 1265(b)(7)(A), (B), (C), and (D) of this title, for those food, forage, and forest lands identified in section 1265(b)(7) of this title; an estimate of the cost per acre of the reclamation, including a statement as to how the permittee plans to comply with each of the requirements set out in section 1265 of this title;
+&emsp;(5) the engineering techniques proposed to be used in mining and reclamation and a description of the major equipment; a plan for the control of surface water drainage and of water accumulation; a plan, where appropriate, for backfilling, soil stabilization, and compacting, grading, and appropriate revegetation; a plan for soil reconstruction, replacement, and stabilization, pursuant to the performance standards in section 1265(b)(7)(A), (B), (C), and (D) of this title, for those food, forage, and forest lands identified in section 1265(b)(7) of this title; an estimate of the cost per acre of the reclamation, including a statement as to how the permittee plans to comply with each of the requirements set out in section 1265 of this title;
 
 &emsp;(6) the consideration which has been given to maximize the utilization and conservation of the solid fuel resource being recovered so that reaffecting the land in the future can be minimized;
 

@@ -26,7 +26,7 @@ Proceeding.—The term “proceeding” includes an investigation.
 
 (b)
 
-In General.—Except as otherwise provided in this section, costs incurred by a contractor in connection with a criminal, civil, or administrative proceeding commenced by the Federal Government or a State are not allowable as reimbursable costs under a covered contract if the proceeding—
+In General.—Except as otherwise provided in this section, costs incurred by a contractor in connection with a criminal, civil, or administrative proceeding commenced by the Federal Government, by a State, or by a contractor or grantee employee submitting a complaint under section 4712 of this title are not allowable as reimbursable costs under a covered contract if the proceeding—
 
 &emsp;(1) relates to a violation of, or failure to comply with, a Federal or State statute or regulation; and
 
@@ -40,7 +40,7 @@ Covered Dispositions.—A disposition referred to in subsection (b)(2) is any of
 
 &emsp;(2) In a civil or administrative proceeding involving an allegation of fraud or similar misconduct, a determination of contractor liability on the basis of the violation or failure referred to in subsection (b).
 
-&emsp;(3) In any civil or administrative proceeding, the imposition of a monetary penalty by reason of the violation or failure referred to in subsection (b).
+&emsp;(3) In any civil or administrative proceeding, the imposition of a monetary penalty or an order to take corrective action under section 4712 of this title by reason of the violation or failure referred to in subsection (b).
 
 &emsp;(4) A final decision to do any of the following, by reason of the violation or failure referred to in subsection (b):
 
@@ -86,13 +86,13 @@ Content of regulations.—Regulations issued for the purpose of subparagraph (A)
 
 &emsp;(3)
 
-When otherwise allowable costs are not allowable.—In the case of a proceeding referred to in paragraph (1), contractor costs otherwise allowable as reimbursable costs under this subsection are not allowable if—
+When otherwise allowable costs are not allowable.—In the case of a proceedingreferred to in paragraph (1), contractor costs otherwise allowable as reimbursable costs under this subsection are not allowable if—
 
 &emsp;&emsp;(A) the proceeding involves the same contractor misconduct alleged as the basis of another criminal, civil, or administrative proceeding; and
 
 &emsp;&emsp;(B) the costs of the other proceeding are not allowable under subsection (b).
 
-(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3789.)
+(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3789; Pub. L. 112–239, div. A, title VIII, §828(d), Jan. 2, 2013, 126 Stat. 1841.)
 
 Historical and Revision Notes
 
@@ -129,4 +129,10 @@ June 30, 1949, ch. 288, title III, §306(k), as added Pub. L. 100–700, §8(a)(
 4310(f)
 
 41:256(k)(5).
+
+#### Amendments
+
+<b>2013</b>—Subsec. (b). Pub. L. 112–239, §828(d)(1), substituted “commenced by the Federal Government, by a State, or by a contractor or grantee employee submitting a complaint under section 4712 of this title” for “commenced by the Federal Government or a State”.
+
+Subsec. (c)(3). Pub. L. 112–239, §828(d)(2), substituted “the imposition of a monetary penalty or an order to take corrective action under section 4712 of this title” for “the imposition of a monetary penalty”.
 

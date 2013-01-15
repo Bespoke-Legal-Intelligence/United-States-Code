@@ -30,7 +30,7 @@ The Congress finds that—
 
 #### (b) Purpose
 
-It is the purpose of this chapter to promote, in concert with other Federal and State statutes and programs, the conservation of the wetlandsof the Nation in order to maintain the public benefits they provide and to help fulfill international obligations contained in various migratory bird treaties and conventions with Canada, Mexico, Japan, the Union of Soviet Socialist Republics, and with various countries in the Western Hemisphere by—
+It is the purpose of this chapter to promote, in concert with other Federal and State statutes and programs, the conservation of the wetlands of the Nation in order to maintain the public benefits they provide and to help fulfill international obligations contained in various migratory bird treaties and conventions with Canada, Mexico, Japan, the Union of Soviet Socialist Republics, and with various countries in the Western Hemisphere by—
 
 &emsp;(1) intensifying cooperative efforts among private interests and local, State, and Federal governments for the management and conservation of wetlands; and
 
@@ -44,5 +44,5 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 #### Short Title
 
-Section 1 of Pub. L. 99–645 provided that: “This Act \[enacting this chapter, amending sections 460<i>l</i>–8, 460<i>l</i>–9, 707, 715k–3, 715k–5, and 718b of this title, and enacting a provision set out in the table under section 668dd of this title\] may be cited as the ‘Emergency Wetlands Resources Act of 1986’.”
+Pub. L. 99–645, §1, Nov. 10, 1986, 100 Stat. 3582, provided that: “This Act \[enacting this chapter, amending sections 460l–8, 460l–9, 707, 715k–3, 715k–5, and 718b of this title, and enacting a provision set out in the table under section 668dd of this title\] may be cited as the ‘Emergency Wetlands Resources Act of 1986’.”
 

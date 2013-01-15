@@ -6,7 +6,23 @@ In General.—Each employer and employee shall comply with regulations on commer
 
 (b)
 
-Pattern of Noncompliance.—If the Secretary finds that an officer of a motor carrier engages or has engaged in a pattern or practice of avoiding compliance, or masking or otherwise concealing noncompliance, with regulations on commercial motor vehicle safety prescribed under this subchapter, while serving as an officer of any motor carrier, the Secretary may suspend, amend, or revoke any part of the motor carrier's registration under section 13905.
+Noncompliance.—
+
+&emsp;(1)
+
+Motor carriers.—Two or more motor carriers, employers, or persons shall not use common ownership, common management, common control, or common familial relationship to enable any or all such motor carriers, employers, or persons to avoid compliance, or mask or otherwise conceal non-compliance, or a history of non-compliance, with regulations prescribed under this subchapter or an order of the Secretary issued under this subchapter.
+
+&emsp;(2)
+
+Pattern.—If the Secretary finds that a motor carrier, employer, or person engaged in a pattern or practice of avoiding compliance, or masking or otherwise concealing noncompliance, with regulations prescribed under this subchapter, the Secretary—
+
+&emsp;&emsp;(A) may withhold, suspend, amend, or revoke any part of the motor carrier's, employer's, or person's registration in accordance with section 13905 or 31134; and
+
+&emsp;&emsp;(B) shall take into account such non-compliance for purposes of determining civil penalty amounts under section 521(b)(2)(D).
+
+&emsp;(3)
+
+Officers.—If the Secretary finds, after notice and an opportunity for proceeding, that an officer of a motor carrier, employer, or owner or operator has engaged in a pattern or practice of, or assisted a motor carrier, employer, or owner or operator in avoiding compliance, or masking or otherwise concealing noncompliance, while serving as an officer or such motor carrier, employer, or owner or operator, the Secretary may suspend, amend, or revoke any part of a registration granted to the officer individually under section 13902 or 31134.
 
 (c)
 
@@ -24,7 +40,7 @@ Motor carrier.—The term “motor carrier” has the meaning such term has unde
 
 Officer.—The term “officer” means an owner, director, chief executive officer, chief operating officer, chief financial officer, safety director, vehicle maintenance supervisor, and driver supervisor of a motor carrier, regardless of the title attached to those functions, and any person, however designated, exercising controlling influence over the operations of a motor carrier.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1003; Pub. L. 109–59, title IV, §4113(a), Aug. 10, 2005, 119 Stat. 1724.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1003; Pub. L. 109–59, title IV, §4113(a), Aug. 10, 2005, 119 Stat. 1724; Pub. L. 112–141, div. C, title II, §32112, July 6, 2012, 126 Stat. 783.)
 
 Historical and Revision Notes
 
@@ -48,5 +64,11 @@ The date of enactment of this subsection, referred to in subsec. (c), is the dat
 
 #### Amendments
 
+<b>2012</b>—Subsec. (b). Pub. L. 112–141 added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “If the Secretary finds that an officer of a motor carrier engages or has engaged in a pattern or practice of avoiding compliance, or masking or otherwise concealing noncompliance, with regulations on commercial motor vehicle safety prescribed under this subchapter, while serving as an officer of any motor carrier, the Secretary may suspend, amend, or revoke any part of the motor carrier's registration under section 13905.”
+
 <b>2005</b>—Pub. L. 109–59 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) to (d).
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
 

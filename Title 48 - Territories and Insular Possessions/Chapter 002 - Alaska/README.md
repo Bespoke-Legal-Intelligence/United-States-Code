@@ -61,7 +61,7 @@ Sec. 6. \[Selection from public lands; fish and wildlife resources; public schoo
 
 “(k) Grants previously made to the Territory of Alaska are hereby confirmed and transferred to the State of Alaska upon its admission. Effective upon the admission of the State of Alaska into the Union, section 1 of the Act of March 4, 1915 (38 Stat. 1214; 48 U.S.C., sec. 353), as amended, and the last sentence of section 35 of the Act of February 25, 1920 (41 Stat. 450; 30 U.S.C., sec. 191), as amended, are repealed and all lands therein reserved under the provisions of section 1 as of the date of this Act \[July 7, 1958\] shall, upon the admission of said State into the Union, be granted to said State for the purposes for which they were reserved; but such repeal shall not affect any outstanding lease, permit, license, or contract issued under said section 1, as amended, or any rights or powers with respect to such lease, permit, license, or contract, and shall not affect the disposition of the proceeds or income derived prior to such repeal from any lands reserved under said section 1, as amended, or derived thereafter from any disposition of the reserved lands or an interest therein made prior to such repeal.
 
-“(<i>l</i>) The grants provided for in this Act shall be in lieu of the grant of land for purposes of internal improvements made to new States by section 8 of the Act of September 4, 1841 (5 Stat. 455), and sections 2378 and 2379 of the Revised Statutes (43 U.S.C., sec. 857), and in lieu of the swampland grant made by the Act of September 28, 1850 (9 Stat. 520), and section 2479 of the Revised Statutes (43 U.S.C., sec. 982), and in lieu of the grant of thirty thousand acres for each Senator and Representative in Congress made by the Act of July 2, 1862, as amended (12 Stat. 503; 7 U.S.C., secs. 301–308), which grants are hereby declared not to extend to the State of Alaska.
+“(l) The grants provided for in this Act shall be in lieu of the grant of land for purposes of internal improvements made to new States by section 8 of the Act of September 4, 1841 (5 Stat. 455), and sections 2378 and 2379 of the Revised Statutes (43 U.S.C., sec. 857), and in lieu of the swampland grant made by the Act of September 28, 1850 (9 Stat. 520), and section 2479 of the Revised Statutes (43 U.S.C., sec. 982), and in lieu of the grant of thirty thousand acres for each Senator and Representative in Congress made by the Act of July 2, 1862, as amended (12 Stat. 503; 7 U.S.C., secs. 301–308), which grants are hereby declared not to extend to the State of Alaska.
 
 “(m) The Submerged Lands Act of 1953 (Public Law 31, Eighty-third Congress, first session; 67 Stat. 29) shall be applicable to the State of Alaska and the said State shall have the same rights as do existing States thereunder.
 
@@ -78,7 +78,7 @@ Sec. 6. \[Selection from public lands; fish and wildlife resources; public schoo
 | 384 | Edna Bay Admin Site | 37&nbsp;&nbsp; |
 | 390 | Point Hilda | 29\. |
 
-“(<i>o</i>)(1) The State of Alaska may elect to convert a selection filed under subsection (b) to a selection under subsection (a) by notifying the Secretary of the Interior in writing.
+“(o)(1) The State of Alaska may elect to convert a selection filed under subsection (b) to a selection under subsection (a) by notifying the Secretary of the Interior in writing.
 
 “(2) If the State of Alaska makes an election under paragraph (1), the entire selection shall be converted to a selection under subsection (a).
 
@@ -86,7 +86,7 @@ Sec. 6. \[Selection from public lands; fish and wildlife resources; public schoo
 
 “(4) Conversion of a selection under paragraph (1) shall not increase the survey obligation of the United States with respect to the land converted.
 
-“(p) All selection applications of the State of Alaska that are on file with the Secretary of the Interior under the public domain provisions of subsection (a) on the date of enactment of this subsection \[Dec. 10, 2004\] and any selection applications that are converted to a subsection (a) selection under subsection (<i>o</i>)(1) are approved as suitable for community or recreational purposes. (As amended Pub. L. 86–70, §2(b), June 25, 1959, 73 Stat. 141; Pub. L. 86–173, Aug. 18, 1959, 73 Stat. 395; Pub. L. 86–786, §§3, 4, Sept. 14, 1960, 74 Stat. 1025; Pub. L. 88–135, Oct. 8, 1963, 77 Stat. 223; Pub. L. 88–289, Mar. 25, 1964, 78 Stat. 169; Pub. L. 89–702, title IV, §408(b), Nov. 2, 1966, 80 Stat. 1098; Pub. L. 96–487, title IX, §906(a), (f)(3), Dec. 2, 1980, 94 Stat. 2437, 2440; Pub. L. 108–452, title I, §101, Dec. 10, 2004, 118 Stat. 3576.)
+“(p) All selection applications of the State of Alaska that are on file with the Secretary of the Interior under the public domain provisions of subsection (a) on the date of enactment of this subsection \[Dec. 10, 2004\] and any selection applications that are converted to a subsection (a) selection under subsection (o)(1) are approved as suitable for community or recreational purposes. (As amended Pub. L. 86–70, §2(b), June 25, 1959, 73 Stat. 141; Pub. L. 86–173, Aug. 18, 1959, 73 Stat. 395; Pub. L. 86–786, §§3, 4, Sept. 14, 1960, 74 Stat. 1025; Pub. L. 88–135, Oct. 8, 1963, 77 Stat. 223; Pub. L. 88–289, Mar. 25, 1964, 78 Stat. 169; Pub. L. 89–702, title IV, §408(b), Nov. 2, 1966, 80 Stat. 1098; Pub. L. 96–487, title IX, §906(a), (f)(3), Dec. 2, 1980, 94 Stat. 2437, 2440; Pub. L. 108–452, title I, §101, Dec. 10, 2004, 118 Stat. 3576.)
 
 “
 
@@ -184,13 +184,13 @@ Sec. 12. \[Judicial and criminal provisions; amendment.\] Effective upon the adm
 
 “(k) Section 3771 of title 18, United States Code, as heretofore amended, is further amended by striking outfrom the first paragraph of such section the words: ‘the Territory of Alaska,’;
 
-“(<i>l</i>) Section 3772 of title 18, United States Code, as heretofore amended, is further amended by striking out from the first paragraph of such section the words: ‘the Territory of Alaska,’;
+“(l) Section 3772 of title 18, United States Code, as heretofore amended, is further amended by striking out from the first paragraph of such section the words: ‘the Territory of Alaska,’;
 
 “(m) Section 2072 of title 28, United States Code, as heretofore amended, is further amended by striking out from the first paragraph of such section the words: ‘and of the District Court for the Territory of Alaska’;
 
 “(n) Subsection (q) of section 376 of title 28, United States Code, is amended by striking out the words: ‘the District Court for the Territory of Alaska,’: <i>Provided</i>, That the amendment made by this subsection shall not affect the rights under such section 376 of any present or former judge of the District Court for the Territory of Alaska or his survivors;
 
-“(<i>o</i>) The last paragraph of section 1963 of title 28, United States Code, is repealed;
+“(o) The last paragraph of section 1963 of title 28, United States Code, is repealed;
 
 “(p) Section 2201 of title 28, United States Code, is amended by striking out the words: ‘and the District Court for the Territory of Alaska’; and
 
@@ -298,7 +298,7 @@ Sec. 3. \[Termination of application of certain Federal laws.\] Any Territorial 
 
 Sec. 4. \[Sugar Act; amendment.\] Section 101 of the Sugar Act of 1948, as amended (7 U.S.C., supp. V, sec. 1101), is further amended by adding thereto a new subsection, to be designated subsection ‘(o)’ and to read as follows:
 
-“ ‘(<i>o</i>) The term “continental United States” means the 49 States and the District of Columbia.’
+“ ‘(o) The term “continental United States” means the 49 States and the District of Columbia.’
 
 “
 
@@ -332,7 +332,7 @@ Sec. 9. \[Home Loan Bank Board.\] (a) Paragraph (3) \[now (2)\] of section 2 of 
 
 Sec. 10. \[National Housing Act; amendment.\] The National Housing Act is amended by—
 
-&emsp;“(a) striking out the word ‘Alaska,’ in sections 9, 201(d), 207(a)(7), 601(d), 713(q), and 801(g) (12 U.S.C., secs. 1706d, 1707(d), 1713(a)(7), 1736(d), 1747<i>l</i>(q); supp. V, sec. 1748(g));
+&emsp;“(a) striking out the word ‘Alaska,’ in sections 9, 201(d), 207(a)(7), 601(d), 713(q), and 801(g) (12 U.S.C., secs. 1706d, 1707(d), 1713(a)(7), 1736(d), 1747l(q); supp. V, sec. 1748(g));
 
 &emsp;“(b) striking out the words ‘the Territory of Alaska,’ in section 207(c)(2) (12 U.S.C., supp. V, sec. 1713(c)(2)), and inserting the word ‘Alaska’ in lieu thereof;
 
@@ -430,11 +430,11 @@ Sec. 21. \[Highways.\] (a) The Secretary of Transportation shall transfer to the
 
 “(1) Title 23, United States Code, section 103(f);
 
-“(2) Title 23, United States Code, section 116(d);
+“(2) Title 23, United States Code, section 116(d) \[now 23 U.S.C. 116(e)\];
 
 “(3) Title 23, United States Code, section 119;
 
-“(4) Title 23, United States Code, section 120(h), except that the portion of the first sentence thereof relating to the percentage of funds to be contributed by Alaska shall continue to apply to funds apportioned to Alaska for fiscal year 1960 and prior fiscal years;
+“(4) Title 23, United States Code, section 120(h) \[now 23 U.S.C. 120(g)\], except that the portion of the first sentence thereof relating to the percentage of funds to be contributed by Alaska shall continue to apply to funds apportioned to Alaska for fiscal year 1960 and prior fiscal years;
 
 “(5) Sections 107(b) and (d) of the Federal-Aid Highway Act of 1956 (70 Stat. 374, 377, 378);
 
@@ -450,7 +450,7 @@ Sec. 21. \[Highways.\] (a) The Secretary of Transportation shall transfer to the
 
 “(2) Title 23, United States Code, section 104(b), is amended by deleting the phrase ‘, except that only one-third of the area of Alaska shall be included’ where it appears in paragraphs (1) and (2) of said section 104(b);
 
-“(3) Title 23, United States Code, section 116(a), is amended by deleting the phrase ‘Except as provided in subsection (d) of this section,’ and by capitalizing the word ‘it’ immediately following such phrase; and
+“(3) Title 23, United States Code, section 116(a) \[now 23 U.S.C. 116(b)\], is amended by deleting the phrase ‘Except as provided in subsection (d) of this section,’ and by capitalizing the word ‘it’ immediately following such phrase; and
 
 “(4) Title 23, United States Code, section 120(a), is amended by deleting the phrase ‘subsection (d) and (h)’ and by inserting in lieu thereof the phrase ‘subsection (d)’.
 
@@ -486,7 +486,7 @@ Sec. 23. \[Courts.\] (a) The Judicial Conference of the United States, with the 
 
 “(b) Title 28, United States Code, section 81A, is amended by inserting the word ‘Ketchikan,’ immediately following the word ‘Juneau,’.
 
-“(c) Such authority as has been exercised by the Attorney General heretofore, with regard to the Federal court system in Alaska, pursuant to section 30 of the Act of June 6, 1900 (48 U.S.C. 25), shall continue to be exercised by him after the court created by section 12(b) of the Act of July 7, 1958 (72 Stat. 339, 348) \[set outabove\], providing for the admission of the State of Alaska into the Union, is established.
+“(c) Such authority as has been exercised by the Attorney General heretofore, with regard to the Federal court system in Alaska, pursuant to section 30 of theAct of June 6, 1900 (48 U.S.C. 25), shall continue to be exercised by him after the court created by section 12(b) of the Act of July 7, 1958 (72 Stat. 339, 348) \[set out above\], providing for the admission of the State of Alaska into the Union, is established.
 
 “(d) All balances of public moneys received by the clerks of each division of the District Court for the Territory of Alaska pursuant to section 10 of the Act of June 6, 1900, as amended (48 U.S.C. 107), which are on hand after all payments ordered by that court and approved by the Administrative Office of the United States Courts shall have been made, shall be covered into the Treasury of the United States as required by law, and the Secretary of the Treasury shall pay the amounts so covered, which are hereby appropriated, to the State of Alaska.
 
@@ -570,7 +570,7 @@ Sec. 33. \[Congressional Record.\] Section 73 of the Act of January 12, 1895, as
 
 “
 
-Sec. 34. \[Federal Register.\] Section 8 of the Federal Register Act (44 U.S.C. 308) is amended by striking out the parenthetical phrase ‘(not including Alaska)’ and inserting in lieu thereof the parenthetical phrase ‘(including Alaska)’ \[Repealed by Pub. L. 90–620, §3, Oct. 22, 1968, 82 Stat. 1310\].
+Sec. 34. \[Federal Register.\] Section 8 of the Federal Register Act (44 U.S.C. 308) is amended by striking outthe parenthetical phrase ‘(not including Alaska)’ and inserting in lieu thereof the parenthetical phrase ‘(including Alaska)’ \[Repealed by Pub. L. 90–620, §3, Oct. 22, 1968, 82 Stat. 1310\].
 
 “
 
@@ -640,7 +640,7 @@ Sec. 45. \[Transfer of property.\] (a) If the President determines that any func
 
 “
 
-Sec. 46. \[Claims Commission.\] (a) In the event that any disputes arise between the United States and the State of Alaska prior to January 1, 1965, concerning the transfer, conveyance, or other disposal of property to the State of Alaska pursuant to section 6(e) of the Act of July 7, 1958 (72 Stat. 339, 340) \[set out as a note above\], providing for the admission of the State of Alaska into the Union, or pursuant to this Act, the President is authorized (1) to appoint by and with the advice and consent of the Senate a temporary commission of three persons, to consider, ascertain, adjust, determine, and settle such disputes, and (2) to make suchrules and regulations as may be necessary to establish such temporary commission or as may be necessary to terminate such temporary commission at the conclusion of its duties. In carrying out its duties under this section, such commission may hold such hearings, take such testimony, sit and act at such times and places, and incur such expenditures as the commission deems necessary. No commission shall be appointed under authority of this subsection after June 30, 1965.
+Sec. 46. \[Claims Commission.\] (a) In the event that any disputes arise between the United States and the State of Alaska prior to January 1, 1965, concerning the transfer, conveyance, or other disposal of property to the State of Alaska pursuant to section 6(e) of the Act of July 7, 1958 (72 Stat. 339, 340) \[set out as a note above\], providing for the admission of the State ofAlaska into the Union, or pursuant to this Act, the President is authorized (1) to appoint by and with the advice and consent of the Senate a temporary commission of three persons, to consider, ascertain, adjust, determine, and settle such disputes, and (2) to make such rules and regulations as may be necessary to establish such temporary commission or as may be necessary to terminate such temporary commission at the conclusion of its duties. In carrying out its duties under this section, such commission may hold such hearings, take such testimony, sit and act at such times and places, and incur such expenditures as the commission deems necessary. No commission shall be appointed under authority of this subsection after June 30, 1965.
 
 “(b) The commission may, without regard to the civil service laws and the Classification Act of 1949, employ and fix the compensation of such employees as it deems necessary to carry out its duties under this section. The commission is authorized to use the facilities, information, and personnel of the departments, agencies, and establishments of the executive branch of the United States Government which it deems necessary to carry out its duties; and each such department, agency, and instrumentality is authorized to furnish such facilities, information, and personnel to the commission upon request made by the commission. The commission shall reimburse each such department, agency, or instrumentality for the services of any personnel utilized. The commission may establish such procedures, rules, and regulations as may be necessary to carry out its duties under this section.
 
@@ -688,7 +688,7 @@ Sec. 52. \[Compromise or Release of Notes or Other Obligations.\] The Secretary 
 
 “
 
-Sec. 53. \[Urban Renewal.\] The Secretary of Housing and Urban Development is authorized to enter into contracts for grants not exceeding $25,000,000 for urban renewal projects in Alaska, including open land projects, under section 111 of the Housing Act of 1949 \[42 U.S.C. 1462\], which he determines will aid the communities inwhich they are located in reconstruction and redevelopment made necessary by the 1964 earthquake and subsequent seismic waves. Such authorization shall be in addition to and separate from any grant authorization contained in section 103(b) of said Act \[42 U.S.C. 1453(b)\].
+Sec. 53. \[Urban Renewal.\] The Secretary of Housing and Urban Development is authorized to enter into contracts for grants not exceeding $25,000,000 for urban renewal projects in Alaska, including open land projects, under section 111 of the Housing Act of 1949 \[42 U.S.C. 1462\], which he determines will aid the communities in which they are located in reconstruction and redevelopment made necessary by the 1964 earthquake and subsequent seismic waves. Such authorization shall be in addition to and separate from any grant authorization contained in section 103(b) of said Act \[42 U.S.C. 1453(b)\].
 
 “The Secretary may increase the capital grant for a project assisted under this section to not more than 90 per centum of net project cost where he determines that a major portion of the project area has either been rendered unusable as a result of the 1964 earthquake and subsequent seismic waves or is needed in order adequately to provide, in accordance with the urban renewal plan for the project, new locations for persons, businesses, and facilities displaced by the earthquake. (Added Pub. L. 88–451, §4, Aug. 19, 1964, 78 Stat. 506, and amended Pub. L. 90–19, §15, May 25, 1967, 81 Stat. 24.)
 
@@ -746,7 +746,7 @@ Sec. 7. \[Report to the Congress.\] The President shall report semiannually duri
 
 #### Delegation of Functions
 
-Ex. Ord. No. 11230, under which the functions of the President under sections 44(a) and 45(a) of the Alaska Omnibus Act of June 25, 1959, set out above, were delegated to the Director of the Bureau of the Budget \[now the Director of Management and Budget\], was superseded by Ex. Ord. No. 11609, eff. July 22, 1971, 36 F.R. 13747, set out under section 301 of Title 3.
+Ex. Ord. No. 11230, under which the functions of the President under sections 44(a) and 45(a) of the AlaskaOmnibus Act of June 25, 1959, set out above, were delegated to the Director of the Bureau of the Budget \[now the Director of Management and Budget\], was superseded by Ex. Ord. No. 11609, eff. July 22, 1971, 36 F.R. 13747, set out under section 301 of Title 3.
 
 #### United States District Court of Alaska
 

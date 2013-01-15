@@ -26,7 +26,7 @@ Subsec. (a)(1) to (3). Pub. L. 105–115, §125(b)(2)(F), inserted “or” at e
 
 #### Effective Date of 1985 Amendment
 
-Section 8 of Pub. L. 99–91 provided that:
+Pub. L. 99–91, §8, Aug. 15, 1985, 99 Stat. 392, provided that:
 
 “(a)
 
@@ -58,7 +58,7 @@ Pub. L. 100–290, §3(d), Apr. 18, 1988, 102 Stat. 91, directed Secretary of He
 
 #### Congressional Findings
 
-Section 1(b) of Pub. L. 97–414 provided that: “The Congress finds that—
+Pub. L. 97–414, §1(b), Jan. 4, 1983, 96 Stat. 2049, provided that: “The Congress finds that—
 
 &emsp;“(1) there are many diseases and conditions, such as Huntington's disease, myoclonus, ALS (Lou Gehrig's disease), Tourette syndrome, and muscular dystrophy which affect such small numbers of individuals residing in the United States that the diseases and conditions are considered rare in the United States;
 

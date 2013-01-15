@@ -2,7 +2,7 @@
 
 (a)
 
-Regulations Governing Acceptance of Gifts.—(1) The Secretary of Defense (and the Secretary of Homeland Security in the case of the Coast Guard) shall issue regulations to provide that, subject to such limitations as may be specified in such regulations, the following individuals may accept gifts from nonprofit organizations, private parties, and other sources outside the Department of Defense or the Department of Homeland Security:
+Regulations Governing Acceptance of Gifts.—(1) The Secretary of Defense (and the Secretary of Homeland Security in the case of the Coast Guard when it is not operating as a service in the Navy) shall issue regulations to provide that, subject to such limitations as may be specified in such regulations, the following individuals may accept gifts from nonprofit organizations, private parties, and other sources outside the Department of Defense or the Department of Homeland Security:
 
 &emsp;(A) A member of the armed forces described in subsection (b).
 
@@ -40,13 +40,15 @@ Gifts From Certain Sources Prohibited.—The regulations issued under subsection
 
 Application of Certain Regulations.—To the extent provided in the regulations issued under subsection (a) to implement subsection (b)(2), the regulations shall apply to the acceptance of gifts received after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2012 for injuries or illnesses incurred on or after September 11, 2001.
 
-(Added Pub. L. 111–383, div. A, title V, §591(a), Jan. 7, 2011, 124 Stat. 4231; amended Pub. L. 112–81, div. A, title V, §543, Dec. 31, 2011, 125 Stat. 1411.)
+(Added Pub. L. 111–383, div. A, title V, §591(a), Jan. 7, 2011, 124 Stat. 4231; amended Pub. L. 112–81, div. A, title V, §543, Dec. 31, 2011, 125 Stat. 1411; Pub. L. 112–239, div. A, title X, §1076(f)(32), Jan. 2, 2013, 126 Stat. 1954.)
 
 #### References in Text
 
 The date of the enactment of the National Defense Authorization Act for Fiscal Year 2012, referred to in subsec. (e), is the date of enactment of Pub. L. 112–81, which was approved Dec. 31, 2011.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (a)(1). Pub. L. 112–239 inserted “when it is not operating as a service in the Navy” after “Coast Guard” in introductory provisions.
 
 <b>2011</b>—Subsec. (b)(2), (3). Pub. L. 112–81, §543(1), added par. (2) and redesignated former par. (2) as (3).
 

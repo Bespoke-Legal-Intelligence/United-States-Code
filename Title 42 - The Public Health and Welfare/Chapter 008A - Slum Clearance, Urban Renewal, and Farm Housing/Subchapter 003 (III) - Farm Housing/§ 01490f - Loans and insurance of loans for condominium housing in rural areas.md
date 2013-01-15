@@ -16,7 +16,7 @@ In addition to individual loans made or insured under subsection (a) of this sec
 
 As used in this section, the term “condominium” means a multi-unit housing project which is subject to a plan of family unit ownership acceptable to the Secretary under which each dwelling unit is individually owned and each such owner holds an undivided interest in the common areas and facilities which serve the project.
 
-(July 15, 1949, ch. 338, title V, §526, as added Pub. L. 93–383, title V, §516(a), Aug. 22, 1974, 88 Stat. 698; amended Pub. L. 98–181, title V, §519(a), Nov. 30, 1983, 97 Stat. 1249; Pub. L. 100–242, title III, §316(f), Feb. 5, 1988, 101 Stat. 1898.)
+(July 15, 1949, ch. 338, title V, §526, as added Pub. L. 93–383, title V, §516(a), Aug. 22, 1974, 88 Stat. 698; amended Pub. L. 98–181, title I \[title V, §519(a)\], Nov. 30, 1983, 97 Stat. 1249; Pub. L. 100–242, title III, §316(f), Feb. 5, 1988, 101 Stat. 1898.)
 
 #### Amendments
 

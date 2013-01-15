@@ -18,7 +18,7 @@
 
 &emsp;(1) The term “advanced education” means education or training above the secondary school level but does not include technical training provided to a member of the armed forces to qualify such member to perform a specified military function, to workshops, or to short-term training programs.
 
-&emsp;(2) The term “assistance” means the direct provision of any course of advanced education by the Secretary concerned, reimbursement by the Secretary concerned for any course of advanced education provided by another department or agency of the Federal Government, or the payment, in whole or in part, by the Secretary concerned for any course of advancededucation provided by any public or private educational institution or other entity, but such term does not include the payment for any course of advanced education which is paid for under chapter 106 or 107 of this title.
+&emsp;(2) The term “assistance” means the direct provision of any course of advanced education by the Secretary concerned, reimbursement by the Secretary concerned for any course of advanced education provided by another department or agency of the Federal Government, or the payment, in whole or in part, by the Secretary concerned for any course of advanced education provided by any public or private educational institution or other entity, but such term does not include the payment for any course of advanced education which is paid for under chapter 106 or 107 of this title.
 
 &emsp;(3) The term “cost of advanced education” means those costs which are, under regulations prescribed by the Secretary concerned, directly attributable to the education of the person to whom a course of advanced education is provided, including the cost of tuition and other fees (or, if none is charged, an amount determined by the Secretary concerned to be a reasonable charge for the education provided), the cost of books, supplies, transportation, and miscellaneous expenses, and the cost of room and board, but such term does not include pay or allowances under title 37 or a stipend under section 2121 of this title.
 
@@ -48,7 +48,7 @@ Subsec. (f). Pub. L. 98–94, §1003(b)(1), added subsec. (f).
 
 #### Effective Date of 1993 Amendment
 
-Section 573(b) of Pub. L. 103–160 provided that:
+Pub. L. 103–160, div. A, title V, §573(b), Nov. 30, 1993, 107 Stat. 1674, provided that:
 
 “(1) Subsection (g) of section 2005 of title 10, United States Code, as added by subsection (a), shall apply with respect to persons separated from the Armed Forces after the end of the six-month period beginning on the date of the enactment of this Act \[Nov. 30, 1993\].
 
@@ -56,7 +56,7 @@ Section 573(b) of Pub. L. 103–160 provided that:
 
 #### Effective Date of 1983 Amendment
 
-Section 1003(b)(2) of Pub. L. 98–94 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to agreements entered into after September 30, 1983.”
+Pub. L. 98–94, title X, §1003(b)(2), Sept. 24, 1983, 97 Stat. 657, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to agreements entered into after September 30, 1983.”
 
 #### Savings Provision
 

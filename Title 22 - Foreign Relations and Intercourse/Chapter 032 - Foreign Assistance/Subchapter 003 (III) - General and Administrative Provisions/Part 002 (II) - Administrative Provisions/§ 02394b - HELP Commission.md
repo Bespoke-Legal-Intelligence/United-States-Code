@@ -38,7 +38,7 @@ This section may be cited as the “HELP Commission Act”.
 
 &emsp;(F) analyze ways in which the safety of development assistance workers can be ensured, particularly in the midst of conflicts;
 
-&emsp;(G) compare the effectiveness of increased and open trade with development assistance, and analyze the advantages and disadvantages of such trade and whether such trade could be a more effective alternative to United States development assistance;
+&emsp;(G) compare the effectiveness of increased and open trade with development assistance, and analyze the advantages and disadvantagesof such trade and whether such trade could be a more effective alternative to United States development assistance;
 
 &emsp;(H) analyze ways in which the United States can strengthen the capacity of indigenous nongovernmental organizations to be more effective in grassroots development;
 

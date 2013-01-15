@@ -24,7 +24,7 @@ Section 1721 of this title, referred to in subsec. (b), was in the original “s
 
 #### Effective Date of 1981 Amendment
 
-Section 2 of Pub. L. 97–94 provided that: “The amendment made by the first section of this Act \[amending this section\] shall take effect with respect to leases entered into after January 1, 1981.”
+Pub. L. 97–94, §2, Dec. 17, 1981, 95 Stat. 1205, provided that: “The amendment made by the first section of this Act \[amending this section\] shall take effect with respect to leases entered into after January 1, 1981.”
 
 #### Outer Continental Shelf; Revenues From Leases
 

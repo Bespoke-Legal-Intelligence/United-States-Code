@@ -2,7 +2,7 @@
 
 #### (a) Establishment; composition
 
-There is established a National Foundation on the Arts and the Humanities (hereinafter referred to as the “Foundation”), which shall becomposed of a National Endowment for the Arts, a National Endowment for the Humanities, a Federal Council on the Arts and the Humanities, and an Institute of Museum and Library Services.
+There is established a National Foundation on the Arts and the Humanities (hereinafter referred to as the “Foundation”), which shall be composed of a National Endowment for the Arts, a National Endowment for the Humanities, a Federal Council on the Arts and the Humanities, and an Institute of Museum and Library Services.
 
 #### (b) Purpose
 

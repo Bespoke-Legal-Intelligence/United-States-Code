@@ -6,7 +6,7 @@ There is hereby established a National Technology and Innovation Medal, which sh
 
 #### (b) Award
 
-The President shall periodically award the medal, on the basis of recommendations received from the Secretary or on the basis of such other information and evidence as he deems appropriate, to individuals or companies, which in his judgment are deserving of special recognition by reason of their outstanding contributions to the promotion of technology or technological manpower for the improvement of the economic, environmental, or social well-being of the United States.
+The President shall periodically award the medal, on the basis of recommendations received from the Secretary or on the basis of such other information and evidence as he deems appropriate, to individuals or companies,which in his judgment are deserving of special recognition by reason of their outstanding contributions to the promotion of technology or technological manpower for the improvement of the economic, environmental, or social well-being of the United States.
 
 #### (c) Presentation
 

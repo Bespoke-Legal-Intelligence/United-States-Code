@@ -14,7 +14,7 @@ Section is comprised of first par. of section 10 of act Dec. 23, 1913. Pars. 2�
 
 #### Change of Name
 
-Section 203(a) of act Aug. 23, 1935, provided that: “Hereafter the Federal Reserve Board shall be known as the ‘Board of Governors of the Federal Reserve System,’ and the governor and the vice governor of the Federal Reserve Board shall be known as the ‘chairman’ and the ‘vice chairman,’ respectively, of the Board of Governors of the Federal Reserve System.”
+Act Aug. 23, 1935, ch. 614, title II, §203(a), 49 Stat. 704, provided that: “Hereafter the Federal Reserve Board shall be known as the ‘Board of Governors of the Federal Reserve System,’ and the governor and the vice governor of the Federal Reserve Board shall be known as the ‘chairman’ and the ‘vice chairman,’ respectively, of the Board of Governors of the Federal Reserve System.”
 
 #### Repeals
 

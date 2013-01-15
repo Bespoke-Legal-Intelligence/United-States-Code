@@ -4,5 +4,5 @@ Section, act June 25, 1948, ch. 646, 62 Stat. 935, related to divisional venue i
 
 #### Effective Date of Repeal
 
-Section 1001(b) of Pub. L. 100–702 provided that: “The amendments made by this section \[repealing this section\] take effect 90 days after the date of enactment of this Act \[Nov. 19, 1988\].”
+Pub. L. 100–702, title X, §1001(b), Nov. 19, 1988, 102 Stat. 4664, provided that: “The amendments made by this section \[repealing this section\] take effect 90 days after the date of enactment of this Act \[Nov. 19, 1988\].”
 

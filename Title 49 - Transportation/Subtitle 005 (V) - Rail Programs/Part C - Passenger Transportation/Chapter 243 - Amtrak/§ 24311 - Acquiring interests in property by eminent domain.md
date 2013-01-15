@@ -40,17 +40,17 @@ Civil Actions.—(1) A civil action to acquire an interest in property by eminen
 
 (c)
 
-Authority To Condemn Rail Carrier Property Interests.—(1) If Amtrak and a rail carrier cannot agree on a sale to Amtrak of an interest in property of a rail carrier necessary for intercity rail passenger transportation, Amtrak may apply to the Interstate Commerce Commission for an order establishing the need of Amtrak for the interest and requiring the carrier to convey the interest on reasonable terms, including just compensation. The need of Amtrak is deemed to be established, and the Commission, after holding an expedited proceeding and not later than 120 days after receiving the application, shall order the interest conveyed unless the Commission decides that—
+Authority To Condemn Rail Carrier Property Interests.—(1) If Amtrak and a rail carrier cannot agree on a sale to Amtrak of an interest in property of a rail carrier necessary for intercity rail passenger transportation, Amtrak may apply to the Surface Transportation Board for an order establishing the need of Amtrak for the interest and requiring the carrier to convey the interest on reasonable terms, including just compensation. The need of Amtrak is deemed to be established, and the Board, after holding an expedited proceeding and not later than 120 days after receiving the application, shall order the interest conveyed unless the Board decides that—
 
 &emsp;(A) conveyance would impair significantly the ability of the carrier to carry out its obligations as a common carrier; and
 
 &emsp;(B) the obligations of Amtrak to provide modern, efficient, and economical rail passenger transportation can be met adequately by acquiring an interest in other property, either by sale or by exercising its right of eminent domain under subsection (a) of this section.
 
-(2) If the amount of compensation is not determined by the date of the Commission's order, the order shall require, as part of the compensation, interest at 6 percent a year from the date prescribed for the conveyance until the compensation is paid.
+(2) If the amount of compensation is not determined by the date of the Board's order, the order shall require, as part of the compensation, interest at 6 percent a year from the date prescribed for the conveyance until the compensation is paid.
 
-(3) Amtrak subsequently may reconvey to a third party an interest conveyed to Amtrak under this subsection or prior comparable provision of law if the Commission decides that the reconveyance will carry out the purposes of this part, regardless of when the proceeding was brought (including a proceeding pending before a United States court on November 28, 1990).
+(3) Amtrak subsequently may reconvey to a third party an interest conveyed to Amtrak under this subsection or prior comparable provision of law if the Board decides that the reconveyance will carry out the purposes of this part, regardless of when the proceeding was brought (including a proceeding pending before a United States court on November 28, 1990).
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 915.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 915; Pub. L. 112–141, div. C, title II, §32932(c)(2), July 6, 2012, 126 Stat. 829.)
 
 Historical and Revision Notes
 
@@ -118,7 +118,15 @@ In subsection (c)(1), before clause (A), the words “terms for”, “at issue�
 
 In subsection (c)(3), the words “reconvey . . . an interest conveyed to Amtrak under this subsection or prior comparable provision of law” are substituted for “convey title or other interest in such property” for consistency in the revised title and to eliminate unnecessary words. The words “regardless of when the proceeding was brought” are substituted for section 9(b) (less words in parentheses) of the Independent Safety Board Act Amendments of 1990 (Public Law 101–641, 104 Stat. 4658) to eliminate unnecessary words.
 
-#### Abolition of Interstate Commerce Commission and Transfer of Functions
+#### Amendments
 
-Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of this title, and section 101 of Pub. L. 104–88, set out as a note under section 701 of this title. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of this title.
+<b>2012</b>—Subsec. (c). Pub. L. 112–141, §32932(c)(2)(B), substituted “Board” for “Commission” wherever appearing.
+
+Subsec. (c)(1). Pub. L. 112–141, §32932(c)(2)(A), substituted “Surface Transportation Board” for “Interstate Commerce Commission”.
+
+Subsec. (c)(2). Pub. L. 112–141, §32932(c)(2)(C), substituted “Board's” for “Commission's”.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
 

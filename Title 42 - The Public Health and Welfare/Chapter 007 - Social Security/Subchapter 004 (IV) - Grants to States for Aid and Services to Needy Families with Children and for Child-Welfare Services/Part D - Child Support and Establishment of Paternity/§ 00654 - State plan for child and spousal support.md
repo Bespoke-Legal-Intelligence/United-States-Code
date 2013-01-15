@@ -12,7 +12,7 @@ A State plan for child and spousal support must—
 
 &emsp;&emsp;(A) provide services relating to the establishment of paternity or the establishment, modification, or enforcement of child support obligations, as appropriate, under the plan with respect to—
 
-&emsp;&emsp;&emsp;(i) each child for whom (I) assistance is provided under the State program funded under part A of this subchapter, (II) benefits or services for foster care maintenance are provided under the State program funded under part E of this subchapter, (III) medical assistance is provided under the State plan approved under subchapter XIX of this chapter, or (IV) cooperation is required pursuant to section 2015(<i>l</i>)(1) of title 7, unless, in accordance with paragraph (29), good cause or other exceptions exist;
+&emsp;&emsp;&emsp;(i) each child for whom (I) assistance is provided under the State program funded under part A of this subchapter, (II) benefits or services for foster care maintenance are provided under the State program funded under part E of this subchapter, (III) medical assistance is provided under the State plan approved under subchapter XIX of this chapter, or (IV) cooperation is required pursuant to section 2015(l)(1) of title 7, unless, in accordance with paragraph (29), good cause or other exceptions exist;
 
 &emsp;&emsp;&emsp;(ii) any other child, if an individual applies for such services with respect to the child; and
 
@@ -22,13 +22,13 @@ A State plan for child and spousal support must—
 
 &emsp;&emsp;&emsp;(ii) the custodial parent of such a child;
 
-&emsp;(5) provide that (A) in any case in which support payments are collected for an individual with respect to whom an assignment pursuant to section 608(a)(3) of this title is effective, such payments shall be made to the State for distribution pursuant to section 657 of this title and shall not be paid directly to the family, and the individual will be notified on a monthly basis (or on a quarterly basis for so long as the Secretary determines with respect to a State that requiring such notice on a monthly basis would impose an unreasonable administrative burden) of the amount of the support payments collected, and (B) in any case in which support payments are collected for an individual pursuant to the assignment made under section 1396k of this title, such payments shall be made to the State for distribution pursuant to section 1396k of this title, except that this clause shall not apply to such payments for any month after the month in which the individual ceases to be eligible for medical assistance;
+&emsp;(5) provide that (A) in any case in which support payments are collected for an individual with respect to whom an assignment pursuant to section 608(a)(3) of this title is effective, such payments shall be made to the State for distribution pursuant to section 657 of this title and shall not be paid directly to the family, and the individual will be notified on a monthly basis (or on a quarterly basis for so long as the Secretary determines with respect to a State that requiring such notice on a monthly basis would impose an unreasonable administrative burden) of the amount of the support payments collected, and (B) in any case in which support payments are collectedfor an individual pursuant to the assignment made under section 1396k of this title, such payments shall be made to the State for distribution pursuant to section 1396k of this title, except that this clause shall not apply to such payments for any month after the month in which the individual ceases to be eligible for medical assistance;
 
 &emsp;(6) provide that—
 
 &emsp;&emsp;(A) services under the plan shall be made available to residents of other States on the same terms as to residents of the State submitting the plan;
 
-&emsp;&emsp;(B)(i) an application fee for furnishing such services shall be imposed on an individual, other than an individual receiving assistance under a State program funded under part A or E of this subchapter, or under a State plan approved under subchapter XIX of this chapter, or who is required by the State to cooperate with the State agency administering the program under this part pursuant to subsection (<i>l</i>) or (m) of section 2015 of title 7, and shall be paid by the individual applying for such services, or recovered from the absent parent, or paid by the State out of its own funds (the payment of which from State funds shall not be considered as an administrative cost of the State for the operation of the plan, and shall be considered income to the program), the amount of which\(I) will not exceed $25 (or such higher or lower amount (which shall be uniform for all States) as the Secretary may determine to be appropriate for any fiscal year to reflect increases or decreases in administrative costs), and (II) may vary among such individuals on the basis of ability to pay (as determined by the State); and
+&emsp;&emsp;(B)(i) an application fee for furnishing such services shall be imposed on an individual, other than an individual receiving assistance under a State program funded under part A or E of this subchapter, or under a State plan approved under subchapter XIX of this chapter, or who is required by the State to cooperate with the State agency administering the program under this part pursuant to subsection (l) or (m) of section 2015 of title 7, and shall be paid by the individual applying for such services, or recovered from the absent parent, or paid by the State out of its own funds (the payment of which from State funds shall not be considered as an administrative cost of the State for the operation of the plan, and shall be considered income to the program), the amount of which (I) will not exceed $25 (or such higher or lower amount (which shall be uniform for all States) as the Secretary may determine to be appropriate for any fiscal year to reflect increases or decreases in administrative costs), and (II) may vary among such individuals on the basis of ability to pay (as determined by the State); and
 
 &emsp;&emsp;(ii) in the case of an individual who has never received assistance under a State program funded under part A and for whom the State has collected at least $500 of support, the State shall impose an annual fee of $25 for each case in which services are furnished, which shall be retained by the State from support collected on behalf of the individual (but not from the first $500 so collected), paid by the individual applying for the services, recovered from the absent parent, or paid by the State out of its own funds (the payment of which from State funds shall not be considered as an administrative cost of the State for the operation of the plan, and the fees shall be considered income to the program);
 
@@ -42,7 +42,7 @@ A State plan for child and spousal support must—
 
 &emsp;&emsp;&emsp;(ii) at the option of the State, from the individual to whom such services are made available, but only if such State has in effect a procedure whereby all persons in such State having authority to order child or spousal support are informed that such costs are to be collected from the individual to whom such services were made available;
 
-&emsp;(7) provide for entering into cooperative arrangements with appropriate courts and law enforcement officials and Indian tribes or tribal organizations (as defined in subsections (e) and (<i>l</i>) of section 450b of title 25) (A) to assist the agency administering the plan, including the entering into of financial arrangements with such courts and officials in order to assure optimum results under such program, and (B) with respect to any other matters of common concern to such courts or officials and the agency administering the plan;
+&emsp;(7) provide for entering into cooperative arrangements with appropriate courts and law enforcement officials and Indian tribes or tribal organizations (as defined in subsections (e) and (l) of section 450b of title 25) (A) to assist the agency administering the plan, including the entering into of financial arrangements with such courts and officials in order to assure optimum results under such program, and (B) with respect to any other matters of common concern to such courts or officials and the agency administering the plan;
 
 &emsp;(8) provide that, for the purpose of establishing parentage, establishing, setting the amount of, modifying, or enforcing child support obligations, or making or enforcing a child custody or visitation determination, as defined in section 663(d)(1) of this title the agency administering the plan will establish a service to locate parents utilizing—
 
@@ -110,7 +110,7 @@ A State plan for child and spousal support must—
 
 &emsp;(B) assure that the fee will be collected in addition to, and only after full payment of, the overdue support, and that the imposition of the late payment fee shall not directly or indirectly result in a decrease in the amount of the support which is paid to the child (or spouse) to whom, or on whose behalf, it is owed;
 
-&emsp;(22) in order for the State to be eligible to receive any incentive payments under section 658a of this title, provide that, if one or more political subdivisions of the State participate in the costs of carrying out activities underthe State plan during any period, each such subdivision shall be entitled to receive an appropriate share (as determined by the State) of any such incentive payments made to the State for such period, taking into account the efficiency and effectiveness of the activities carried out under the State plan by such political subdivision;
+&emsp;(22) in order for the State to be eligible to receive any incentive payments under section 658a of this title, provide that, if one or more political subdivisions of the State participate in the costs of carrying out activities under the State plan during any period, each such subdivision shall be entitled to receive an appropriate share (as determined by the State) of any such incentive payments made to the State for such period, taking into account the efficiency and effectiveness of the activities carried out under the State plan by such political subdivision;
 
 &emsp;(23) provide that the State will regularly and frequently publicize, through public service announcements, the availability of child support enforcement services under the plan and otherwise, including information as to any application fees for such services and a telephone number or postal address at which further information may be obtained and will publicize the availability and encourage the use of procedures for voluntary establishment of paternity and child support by means the State deems appropriate;
 
@@ -144,23 +144,23 @@ A State plan for child and spousal support must—
 
 &emsp;&emsp;&emsp;(ii) take the actions described in section 666(c)(1) of this title in appropriate cases;
 
-&emsp;(28) provide that, on and after October 1, 1997, the State will operate a State Directory of New Hires in accordance with section 653a of this title;
+&emsp;(28) provide that, on and after October 1, 1997, the State will operate a State Directoryof New Hires in accordance with section 653a of this title;
 
 &emsp;(29) provide that the State agency responsible for administering the State plan—
 
-&emsp;&emsp;(A) shall make the determination (and redetermination at appropriate intervals) as to whether an individual who has applied for or is receiving assistance under the State program funded under part A of this subchapter, the State program under part E of this subchapter, the State program under subchapter XIX of this chapter, or the supplemental nutrition assistance program, as defined under section 2012(<i>l</i>) of title 7, is cooperating in good faith with the State in establishing the paternity of, or in establishing, modifying, or enforcing a support order for, any child of the individual by providing the State agency with the name of, and such other information as the State agency may require with respect to, the noncustodial parent of the child, subject to good cause and other exceptions which—
+&emsp;&emsp;(A) shall make the determination (and redetermination at appropriate intervals) as to whether an individual who has applied for or is receiving assistance under the State program funded under part A of this subchapter, the State program under part E of this subchapter, the State program under subchapter XIX of this chapter, or the supplemental nutrition assistance program, as defined under section 2012(l) of title 7, is cooperating in good faith with the State in establishing the paternity of, or in establishing, modifying, or enforcing a support order for, any child of the individual by providing the State agency with the name of, and such other information as the State agency may require with respect to, the noncustodial parent of the child, subject to good cause and other exceptions which—
 
-&emsp;&emsp;&emsp;(i) in the case of the State program funded under part A of this subchapter, the State program under part E of this subchapter, or the State program under subchapter XIX of this chapter shall, at theoption of the State, be defined, taking into account the best interests of the child, and applied in each case, by the State agency administering such program; and
+&emsp;&emsp;&emsp;(i) in the case of the State program funded under part A of this subchapter, the State program under part E of this subchapter, or the State program under subchapter XIX of this chapter shall, at the option of the State, be defined, taking into account the best interests of the child, and applied in each case, by the State agency administering such program; and
 
-&emsp;&emsp;&emsp;(ii) in the case of the supplemental nutrition assistance program, as defined under section 2012(<i>l</i>) of title 7, shall be defined and applied in each case under that program in accordance with section 2015(<i>l</i>)(2) of title 7;
+&emsp;&emsp;&emsp;(ii) in the case of the supplemental nutrition assistance program, as defined under section 2012(l) of title 7, shall be defined and applied in each case under that program in accordance with section 2015(l)(2) of title 7;
 
 &emsp;&emsp;(B) shall require the individual to supply additional necessary information and appear at interviews, hearings, and legal proceedings;
 
 &emsp;&emsp;(C) shall require the individual and the child to submit to genetic tests pursuant to judicial or administrative order;
 
-&emsp;&emsp;(D) may request that the individual sign a voluntary acknowledgment of paternity, after notice of the rights and consequences of such an acknowledgment, but may not require the individual to sign an acknowledgment or otherwise relinquish the right to genetic tests as a condition of cooperation and eligibility for assistance under the State program funded under part A of this subchapter, the State program under part E of this subchapter, the State program under subchapter XIX of this chapter, or the supplemental nutrition assistance program, as defined under section 2012(<i>l</i>) of title 7; and
+&emsp;&emsp;(D) may request that the individual sign a voluntary acknowledgment of paternity, after notice of the rights and consequences of such an acknowledgment, but may not require the individual to sign an acknowledgment or otherwise relinquish the right to genetic tests as a condition of cooperation and eligibility for assistance under the State program funded under part A of this subchapter, the State program under part E of this subchapter, the State program under subchapter XIX of this chapter, or the supplemental nutrition assistance program, as defined under section 2012(l) of title 7; and
 
-&emsp;&emsp;(E) shall promptly notify the individual and the State agency administering the State program funded under part A of this subchapter, the State agency administering the State program under part E of this subchapter, the State agency administering the State program under subchapter XIX of this chapter, or the State agency administering the supplemental nutrition assistance program, as defined under section 2012(<i>l</i>) of title 7, of each such determination, and if noncooperation is determined, the basis therefor;
+&emsp;&emsp;(E) shall promptly notify the individual and the State agency administering the State program funded under part A of this subchapter, the State agency administering the State program under part E of this subchapter, the State agency administering the State program under subchapter XIX of this chapter, or the State agency administering the supplemental nutrition assistance program, as defined under section 2012(l) of title 7, of each such determination, and if noncooperation is determined, the basis therefor;
 
 &emsp;(30) provide that the State shall use the definitions established under section 652(a)(5) of this title in collecting and reporting information as required under this part;
 
@@ -176,13 +176,13 @@ A State plan for child and spousal support must—
 
 &emsp;(C) provide that no applications will be required from, and no costs will be assessed for such services against, the foreign reciprocating country or foreign obligee (but costs may at State option be assessed against the obligor);
 
-&emsp;(33) provide that a State that receives funding pursuant to section 628 of this title and that has within its borders Indian country (as defined in section 1151 of title 18) may enter into cooperative agreements with an Indian tribe or tribal organization (as defined in subsections (e) and (<i>l</i>) of section 450b of title 25), if the Indian tribe or tribal organization demonstrates that such tribe or organization has an established tribal court system or a Court of Indian Offenses with the authority to establish paternity, establish, modify, or enforce support orders, or to enter support orders in accordance with child support guidelines established or adopted by such tribe or organization, under which the State and tribe or organization shall provide for the cooperative delivery of child support enforcement services in Indian country and for the forwarding of all collections pursuant to the functions performed by the tribe or organization to the State agency, or conversely, by the State agency to the tribe or organization, which shall distribute such collections in accordance with such agreement; and
+&emsp;(33) provide that a State that receives funding pursuant to section 628 of this title and that has within its borders Indian country (as defined in section 1151 of title 18) may enter into cooperative agreements with an Indian tribe or tribal organization (as defined in subsections (e) and (l) of section 450b of title 25), if the Indian tribe or tribal organization demonstrates that such tribe or organization has an established tribal court system or a Court of Indian Offenses with the authority to establish paternity, establish, modify, or enforce support orders, or to enter support orders in accordance with child support guidelines established or adopted by such tribe or organization, under which the State and tribe or organization shall provide for the cooperative delivery of child support enforcement services in Indian country and for the forwarding of all collections pursuant to the functions performed by the tribe or organization to the State agency, or conversely, by the State agency to the tribe or organization, which shall distribute such collections in accordance with such agreement; and
 
-&emsp;(34) include an election by the State to apply section 657(a)(2)(B) of this title or former section 657(a)(2)(B) of this title (as in effect for the State immediately before the date this paragraph first applies to the State) to the distribution of the amounts which are the subject of such sections and, for so long as the State elects to so apply such former section, the amendments made by subsection (b)(1) of section 7301 of the Deficit Reduction Act of 2005 shall not apply with respect to the State, notwithstanding subsection (e) of such section 7301.
+&emsp;(34) include an election by the State to apply section 657(a)(2)(B) of this title or former section 657(a)(2)(B) of this title (as in effect for the State immediately before the date this paragraph first applies to the State) to the distribution of the amounts which are the subject of such sections and, for so long as the State elects to so apply such former section, the amendments made by subsection (b)(1) ofsection 7301 of the Deficit Reduction Act of 2005 shall not apply with respect to the State, notwithstanding subsection (e) of such section 7301.
 
 > The State may allow the jurisdiction which makes the collection involved to retain any application fee under paragraph (6)(B) or any late payment fee under paragraph (21). Nothing in paragraph (33) shall void any provision of any cooperative agreement entered into before August 22, 1996, nor shall such paragraph deprive any State of jurisdiction over Indian country (as so defined) that is lawfully exercised under section 1322 of title 25.
 
-(Aug. 14, 1935, ch. 531, title IV, §454, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2354; amended Pub. L. 94–88, title II, §208(b), (c), Aug. 9, 1975, 89 Stat. 436; Pub. L. 95–30, title V, §502(a), May 23, 1977, 91 Stat. 162; Pub. L. 96–265, title IV, §405(b), June 9, 1980, 94 Stat. 463; Pub. L. 96–611, §9(a), Dec. 28, 1980, 94 Stat. 3571; Pub. L. 97–35, title XXIII, §§2331(b), 2332(d), 2333(a), (b), 2335(a), Aug. 13, 1981, 95 Stat. 860, 862, 863; Pub. L. 97–248, title I, §§171(a), (b)(1), 173(a), Sept. 3, 1982, 96 Stat. 401, 403; Pub. L. 98–369, div. B, title VI, §2663(c)(14), (j)(2)(B)(x), July 18, 1984, 98 Stat.1166, 1170; Pub. L. 98–378, §§3(a), (c)–(f), 5(b), 6(a), 11(b)(1), 12(a), (b), 14(a), 21(d), Aug. 16, 1984, 98 Stat. 1306, 1310, 1311, 1314, 1318, 1319, 1320, 1324; Pub. L. 100–203, title IX, §§9141(a)(2), 9142(a), Dec. 22, 1987, 101 Stat. 1330–321; Pub. L. 100–485, title I, §§104(a), 111(c), 123(a), (d), Oct. 13, 1988, 102 Stat. 2348, 2349, 2352, 2353; Pub. L. 104–35, §1(a), Oct. 12, 1995, 109 Stat. 294; Pub. L. 104–193, title I, §108(c)(11), (12), title III, §§301(a), (b), 302(b)(2), 303(a), 304(a), 312(a), 313(a), 316(g)(1), 324(b), 332, 333, 342(a), 343(b), 344(a)(1), (4), 370(a)(2), 371(b), 375(a), (c), 395(d)(1)(D), (2)(B), Aug. 22, 1996, 110 Stat. 2166, 2199, 2204, 2205, 2207, 2209, 2218, 2223, 2230, 2233, 2234, 2236, 2252, 2254, 2256, 2259, 2260; Pub. L. 105–33, title V, §§5531(a), 5542(c), 5545, 5546(a), 5548, 5552, 5556(b), Aug. 5, 1997, 111 Stat. 625, 631, 633, 635, 637; Pub. L. 106–169, title IV, §401(g), (h), Dec. 14, 1999, 113 Stat. 1858; Pub. L. 109–171, title VII, §§7301(b)(1)(C), 7303(b), 7310(a), Feb. 8, 2006, 120 Stat. 143, 145, 147; Pub. L. 110–234, title IV, §§4002(b)(1)(A), (B), (2)(V), 4115(c)(2)(H), May 22, 2008, 122 Stat. 1095–1097, 1110; Pub. L. 110–246, §4(a), title IV, §§4002(b)(1)(A), (B), (2)(V), 4115(c)(2)(H), June 18, 2008, 122 Stat. 1664, 1857, 1858, 1871.)
+(Aug. 14, 1935, ch. 531, title IV, §454, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2354; amended Pub. L. 94–88, title II, §208(b), (c), Aug. 9, 1975, 89 Stat. 436; Pub. L. 95–30, title V, §502(a), May 23, 1977, 91 Stat. 162; Pub. L. 96–265, title IV, §405(b), June 9, 1980, 94 Stat. 463; Pub. L. 96–611, §9(a), Dec. 28, 1980, 94 Stat. 3571; Pub. L. 97–35, title XXIII, §§2331(b), 2332(d), 2333(a), (b), 2335(a), Aug. 13, 1981, 95 Stat. 860, 862, 863; Pub. L. 97–248, title I, §§171(a), (b)(1), 173(a), Sept. 3, 1982, 96 Stat. 401, 403; Pub. L. 98–369, div. B, title VI, §2663(c)(14), (j)(2)(B)(x), July 18, 1984, 98 Stat. 1166, 1170; Pub. L. 98–378, §§3(a), (c)–(f), 5(b), 6(a), 11(b)(1), 12(a), (b), 14(a), 21(d), Aug. 16, 1984, 98 Stat. 1306, 1310, 1311, 1314, 1318, 1319, 1320, 1324; Pub. L. 100–203, title IX, §§9141(a)(2), 9142(a), Dec. 22, 1987, 101 Stat. 1330–321; Pub. L. 100–485, title I, §§104(a), 111(c), 123(a), (d), Oct. 13, 1988, 102 Stat. 2348, 2349, 2352, 2353; Pub. L. 104–35, §1(a), Oct. 12, 1995, 109 Stat. 294; Pub. L. 104–193, title I, §108(c)(11), (12), title III, §§301(a), (b), 302(b)(2), 303(a), 304(a), 312(a), 313(a), 316(g)(1), 324(b), 332, 333, 342(a), 343(b), 344(a)(1), (4), 370(a)(2), 371(b), 375(a), (c), 395(d)(1)(D), (2)(B), Aug. 22, 1996, 110 Stat. 2166, 2199, 2204, 2205, 2207, 2209, 2218, 2223, 2230, 2233, 2234, 2236, 2252, 2254, 2256, 2259, 2260; Pub. L. 105–33, title V, §§5531(a), 5542(c), 5545, 5546(a), 5548, 5552, 5556(b), Aug. 5, 1997, 111 Stat. 625, 631, 633, 635, 637; Pub. L. 106–169, title IV, §401(g), (h), Dec. 14, 1999, 113 Stat. 1858; Pub. L. 109–171, title VII, §§7301(b)(1)(C), 7303(b), 7310(a), Feb. 8, 2006, 120 Stat. 143, 145, 147; Pub. L. 110–234, title IV, §§4002(b)(1)(A), (B), (2)(V), 4115(c)(2)(H), May 22, 2008, 122 Stat. 1095–1097, 1110; Pub. L. 110–246, §4(a), title IV, §§4002(b)(1)(A), (B), (2)(V), 4115(c)(2)(H), June 18, 2008, 122 Stat. 1664, 1857, 1858, 1871.)
 
 #### References in Text
 
@@ -198,11 +198,11 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Pars. (4)(A)(i)(IV), (6)(B)(i). Pub. L. 110–246, §4002(b)(1)(B), (2)(V), made technical amendment to references in original act which appear in text as references to sections 2015(<i>l</i>)(1) and 2015 of title 7.
+<b>2008</b>—Pars. (4)(A)(i)(IV), (6)(B)(i). Pub. L. 110–246, §4002(b)(1)(B), (2)(V), made technical amendment to references in original act which appear in text as references to sections 2015(l)(1) and 2015 of title 7.
 
-Par. (29)(A), (D), (E). Pub. L. 110–246, §4115(c)(2)(H), which directed substitution of “section 2012(<i>l</i>)” for “section 2012(h)” wherever appearing in section “531 of the Social Security Act (42 U.S.C. 654)”, was executed by making the substitution wherever appearing in this section, which is section 454 of the Act, to reflect the probable intent of Congress.
+Par. (29)(A), (D), (E). Pub. L. 110–246, §4115(c)(2)(H), which directed substitution of “section 2012(l)” for “section 2012(h)” wherever appearing in section “531 of the Social Security Act (42 U.S.C. 654)”, was executed by making the substitution wherever appearing in this section, which is section 454 of the Act, to reflect the probable intent of Congress.
 
-Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(V), substituted “supplemental nutrition assistance program” for “food stamp program” wherever appearing and made technical amendment to references in original act which appear in text as references to sections 2012(h) and 2015(<i>l</i>)(2) of title 7.
+Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(V), substituted “supplemental nutrition assistance program” for “food stamp program” wherever appearing and made technical amendment to references in original act which appear in text as references to sections 2012(h) and 2015(l)(2) of title 7.
 
 <b>2006</b>—Par. (6)(B). Pub. L. 109–171, §7310(a), designated existing provisions as cl. (i), redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, of cl. (i), and added cl. (ii).
 
@@ -224,7 +224,7 @@ Par. (24)(B). Pub. L. 106–169, §401(h), made technical amendment to reference
 
 <b>1997</b>—Par. (4)(A)(i)(IV). Pub. L. 105–33, §5548(a), added subcl. (IV).
 
-Par. (6)(B). Pub. L. 105–33, §5531(a), substituted “an individual, other than an individual receiving assistance under a State program funded under part A or E of this subchapter, or under a State plan approved under subchapter XIX of this chapter, or who is required by the State to cooperate with the State agency administering the program under this part pursuant to subsection (<i>l</i>) or (m) of section 2015 of title 7, and” for “individuals not receiving assistance under any State program funded under part A of this subchapter, which”.
+Par. (6)(B). Pub. L. 105–33, §5531(a), substituted “an individual, other than an individual receiving assistance under a State program funded under part A or E of this subchapter, or under a State plan approved under subchapter XIX of this chapter, or who is required by the State to cooperate with the State agency administering the program under this part pursuant to subsection (l) or (m) of section 2015 of title 7, and” for “individuals not receiving assistance under any State program funded under part A of this subchapter, which”.
 
 Par. (8). Pub. L. 105–33, §5552(1)(D), inserted concluding provisions.
 
@@ -242,7 +242,7 @@ Par. (19)(B)(ii). Pub. L. 105–33, §5542(c), substituted “section 659(i)(5)�
 
 Par. (26). Pub. L. 105–33, §5552(3)(A), struck out “will” before “have in effect” in introductory provisions.
 
-Par. (26)(A). Pub. L. 105–33, §5552(3)(B), inserted “, modify,” after “or to establish” and “, or to make or enforce a child custody determination” after “support”.
+Par. (26)(A). Pub. L. 105–33, §5552(3)(B), inserted “, modify,” after “or to establish” and “, or to makeor enforce a child custody determination” after “support”.
 
 Par. (26)(B). Pub. L. 105–33, §5552(3)(C)(i), (ii), inserted “or the child” after “1 party” and after “former party”.
 
@@ -260,7 +260,7 @@ Par. (29)(A). Pub. L. 105–33, §5548(b)(1)(B), substituted cls. (i) and (ii) f
 
 Pub. L. 105–33, §5548(b)(1)(A), in introductory provisions, substituted “part A of this subchapter, the State program under part E of this subchapter, the State program under subchapter XIX of this chapter, or the food stamp program, as defined under section 2012(h) of title 7,” for “part A of this subchapter or the State program under subchapter XIX of this chapter”.
 
-Par. (29)(D). Pub. L. 105–33, §5548(b)(2), substituted “the State program under part E of this subchapter,the State program under subchapter XIX of this chapter, or the food stamp program, as defined under section 2012(h) of title 7” for “or the State program under subchapter XIX of this chapter”.
+Par. (29)(D). Pub. L. 105–33, §5548(b)(2), substituted “the State program under part E of this subchapter, the State program under subchapter XIX of this chapter, or the food stamp program, as defined under section 2012(h) of title 7” for “or the State program under subchapter XIX of this chapter”.
 
 Par. (29)(E). Pub. L. 105–33, §5548(b)(3), substituted “individual and the State agency administering the State program funded under part A of this subchapter, the State agency administering the State program under part E of this subchapter, the State agency administering the State program under subchapter XIX of this chapter, or the State agency administering the food stamp program, as defined under section 2012(h) of title 7,” for “individual, the State agency administering the State program funded under part A of this subchapter, and the State agency administering the State program under subchapter XIX of this chapter,”.
 
@@ -294,7 +294,7 @@ Par. (6)(E). Pub. L. 104–193, §301(a)(2)(D)(i), (E), realigned margins.
 
 Pub. L. 104–193, §301(a)(2)(D)(ii), which directed substitution of a semicolon for the final comma, could not be executed because subpar. (E) already ended in a semicolon and not a comma.
 
-Par. (7). Pub. L. 104–193, §375(c), inserted “and Indian tribes or tribal organizations (as defined in subsections (e) and (<i>l</i>) of section 450b of title 25)” after “law enforcement officials”.
+Par. (7). Pub. L. 104–193, §375(c), inserted “and Indian tribes or tribal organizations (as defined in subsections (e) and (l) of section 450b of title 25)” after “law enforcement officials”.
 
 Par. (8). Pub. L. 104–193, §395(d)(1)(D), substituted “noncustodial” for “absent” in introductory provisions.
 
@@ -318,7 +318,7 @@ Par. (15). Pub. L. 104–193, §342(a)(3), added par. (15). Former par. (15) red
 
 Pub. L. 104–193, §342(a)(2), redesignated par. (15) as (14)(B).
 
-Par. (16). Pub. L. 104–193, §344(a)(1), as amended by Pub. L. 105–33, §5556(b), struck out “, at the option of the State,” before “for the establishment”, inserted “and operation by the State agency” after “for the establishment” and “meeting the requirements of section654a of this title” after “information retrieval system”, substituted “so as to control” for “in the State and localities thereof, so as (A) to control”, struck out “(i)” before “all the factors in the support enforcement collection”, and struck out before semicolon at end “(including, but not limited to, (I) identifiable correlation factors (such as social security numbers, names, dates of birth, home addresses and mailing addresses (including postal ZIP codes) of any individual with respect to whom support obligations are sought to be established or enforced and with respect to any person to whom such support obligations are owing) to assure sufficient compatibility among the systems of different jurisdictions to permit periodic screening to determine whether such individual is paying or is obligated to pay support in more than one jurisdiction, (II) checking of records of such individuals on a periodic basis with Federal, intra- and inter-State, and local agencies, (III) maintaining the data necessary to meet the Federal reporting requirements on a timely basis, and (IV) delinquency and enforcement activities), (ii) the collection and distribution of support payments (both intra- and inter-State), the determination, collection, and distribution of incentive payments both inter- and intra-State, and the maintenance of accounts receivable on all amounts owed, collected and distributed, and (iii) the costs of all services rendered, either directly or by interfacing with State financial management and expenditure information, (B) to provide interface with records of the State's aid to families with dependent children program in order to determine if a collection of a support payment causes a change affecting eligibility for or the amount of aid under such program, (C) to provide for security against unauthorized access to, or use of, the data in such system, (D) to facilitate the development and improvement of the income withholding and other procedures required under section 666(a) of this title through the monitoring of support payments, the maintenance of accurate records regarding the payment of support, and the prompt provision of notice to appropriate officials with respect to any arrearages in support payments which may occur, and (E) to provide management information on all cases under the State plan from initial referral or application through collection and enforcement”.
+Par. (16). Pub. L. 104–193, §344(a)(1), as amended by Pub. L. 105–33, §5556(b), struck out “, at the option of the State,” before “for the establishment”, inserted “and operation by the State agency” after “for the establishment” and “meeting the requirements of section 654a of this title” after “information retrieval system”, substituted “so as to control” for “in the State and localities thereof, so as (A) to control”, struck out “(i)” before “all the factors in the support enforcement collection”, and struck out before semicolon at end “(including, but not limited to, (I) identifiable correlation factors (such as social security numbers, names, dates of birth, home addresses and mailing addresses (including postal ZIP codes) of any individual with respect to whom support obligations are sought to be established or enforced and with respect to any person to whom such support obligations are owing) to assure sufficient compatibility among the systems of different jurisdictions to permit periodic screening to determine whether such individual is paying or is obligated to pay support in more than one jurisdiction, (II) checking of records of such individuals on a periodic basis with Federal, intra- and inter-State, and local agencies, (III) maintaining the data necessary to meet the Federal reporting requirements on a timely basis, and (IV) delinquency and enforcement activities), (ii) the collection and distribution of support payments (both intra- and inter-State), the determination, collection, and distribution of incentive payments both inter- and intra-State, and the maintenance of accounts receivable on all amounts owed, collected and distributed, and (iii) the costs of all services rendered, either directly or by interfacing with State financial management and expenditure information, (B) to provide interface with records of the State's aid to families with dependent children program in order to determine if a collection of a support payment causes a change affecting eligibility for or the amount of aid under such program, (C) to provide for security against unauthorized access to, or use of, the data in such system, (D) to facilitate the development and improvement of the income withholding and other procedures required under section 666(a) of this title through the monitoring of support payments, the maintenance of accurate records regarding the payment of support, and the prompt provision of notice to appropriate officials with respect to any arrearages in support payments which may occur, and (E) to provide management information on all cases under the State plan from initial referral or application through collection and enforcement”.
 
 Par. (21)(A). Pub. L. 104–193, §395(d)(1)(D), substituted “noncustodial parent” for “absent parent”.
 
@@ -376,7 +376,7 @@ Par. (5). Pub. L. 98–378, §3(e), inserted “, and the individual will be no
 
 Par. (6)(A). Pub. L. 98–378, §12(b), struck out “, at the option of the State,” before “support collection services” and inserted “, and only if the support obligation established with respect to the child is being enforced under the plan”.
 
-Par. (6)(B). Pub. L. 98–378, §3(c), substituted “shall be imposed, which shall be paid by the individual applying for such services, or recovered from the absent parent, or paid by the State out of its own funds (the payment of which from State funds shall not be considered as an administrative cost of the State for the operation of the plan, and shall be considered income to the program), the amount of which (i) will not exceed $25 (or such higher or lower amount (which shall be uniform for all States) as the Secretary may determine to be appropriate for any fiscal year to reflect increases or decreases in administrative costs), and (ii) may vary among such individuals on the basis of ability to pay (as determined by the State), and” for “may be imposed, except that the amount of any such application fee shall be reasonable, as determined under regulations of the Secretary,”.
+Par. (6)(B). Pub. L. 98–378, §3(c), substituted “shall be imposed, which shall be paid by the individual applyingfor such services, or recovered from the absent parent, or paid by the State out of its own funds (the payment of which from State funds shall not be considered as an administrative cost of the State for the operation of the plan, and shall be considered income to the program), the amount of which (i) will not exceed $25 (or such higher or lower amount (which shall be uniform for all States) as the Secretary may determine to be appropriate for any fiscal year to reflect increases or decreases in administrative costs), and (ii) may vary among such individuals on the basis of ability to pay (as determined by the State), and” for “may be imposed, except that the amount of any such application fee shall be reasonable, as determined under regulations of the Secretary,”.
 
 Par. (6)(C). Pub. L. 98–378, §21(d)(1), (3), added cl. (C). Former cl. (C) redesignated (D).
 
@@ -468,17 +468,17 @@ Amendment by section 108(c)(11), (12) of Pub. L. 104–193 effective July 1, 199
 
 Amendment by section 302(b)(2) of Pub. L. 104–193 effective Aug. 22, 1996, see section 302(c)(2) of Pub. L. 104–193, set out as a note under section 657 of this title.
 
-Section 303(b) of Pub. L. 104–193 provided that: “The amendment made by subsection (a) \[amending this section\] shall become effective on October 1, 1997.”
+Pub. L. 104–193, title III, §303(b), Aug. 22, 1996, 110 Stat. 2205, provided that: “The amendment made by subsection (a) \[amending this section\] shall become effective on October 1, 1997.”
 
-Section 304(b) of Pub. L. 104–193 provided that: “The amendment made by subsection (a) \[amending this section\] shall become effective on October 1, 1997.”
+Pub. L. 104–193, title III, §304(b), Aug. 22, 1996, 110 Stat. 2205, provided that: “The amendment made by subsection (a) \[amending this section\] shall become effective on October 1, 1997.”
 
 Amendment by section 312(a) of Pub. L. 104–193 effective Oct. 1, 1998, with limited exception for States which, as of Aug. 22, 1996, were processing the receipt of child support payments through local courts, see section 312(d) of Pub. L. 104–193, set out as an Effective Date note under section 654b of this title.
 
-Amendment by section 342(a) of Pub. L. 104–193 effective with respect to calendar quarters beginning 12months or more after Aug. 22, 1996, see section 342(c) of Pub. L. 104–193, set out as a note under section 652 of this title.
+Amendment by section 342(a) of Pub. L. 104–193 effective with respect to calendar quarters beginning 12 months or more after Aug. 22, 1996, see section 342(c) of Pub. L. 104–193, set out as a note under section 652 of this title.
 
 Amendment by section 370(a)(2) of Pub. L. 104–193 effective Oct. 1, 1997, see section 370(b) of Pub. L. 104–193, set out as a note under section 652 of this title.
 
-Section 395(a)–(c) of title III of Pub. L. 104–193 provided that:
+Pub. L. 104–193, title III, §395(a)–(c), Aug. 22, 1996, 110 Stat. 2259, provided that:
 
 “(a)
 
@@ -508,19 +508,19 @@ Grace Period for State Constitutional Amendment.—A State shall not be found ou
 
 #### Effective Date of 1988 Amendment
 
-Section 104(b) of Pub. L. 100–485 provided that: “The amendment made by subsection (a) \[amending this section\] shall become effective on the first day of the first calendar quarter which begins 4 or more years after the date of the enactment of this Act \[Oct. 13, 1988\].”
+Pub. L. 100–485, title I, §104(b), Oct. 13, 1988, 102 Stat. 2348, provided that: “The amendment made by subsection (a) \[amending this section\] shall become effective on the first day of the first calendar quarter which begins 4 or more years after the date of the enactment of this Act \[Oct. 13, 1988\].”
 
-Section 111(f)(2) of Pub. L. 100–485 provided that: “The amendments made by subsections (b) and (c) \[amending this section and section 666 of this title\] shall become effective on the first day of the first month beginning one year or more after the date of the enactment of this Act \[Oct. 13, 1988\].”
+Pub. L. 100–485, title I, §111(f)(2), Oct. 13, 1988, 102 Stat. 2350, provided that: “The amendments made by subsections (b) and (c) \[amending this section and section 666 of this title\] shall become effective on the first day of the first month beginning one year or more after the date of the enactment of this Act \[Oct. 13, 1988\].”
 
 #### Effective Date of 1987 Amendment
 
-Section 9141(b) of Pub. L. 100–203 provided that: “The amendments made by subsection (a) \[amending this section and section 657 of this title\] shall become effective upon enactment \[Dec. 22, 1987\].”
+Pub. L. 100–203, title IX, §9141(b), Dec. 22, 1987, 101 Stat. 1330–321, provided that: “The amendments made by subsection (a) \[amending this section and section 657 of this title\] shall become effective upon enactment \[Dec. 22, 1987\].”
 
-Section 9142(b) of Pub. L. 100–203 provided that: “The amendments made by subsection (a) \[amending this section\] shall become effective on July 1, 1988.”
+Pub. L. 100–203, title IX, §9142(b), Dec. 22, 1987, 101 Stat. 1330–322, provided that: “The amendments made by subsection (a) \[amending this section\] shall become effective on July 1, 1988.”
 
-#### Effective Date of 1984 Amendments
+#### Effective Date of 1984 Amendment
 
-Section 3(g) of Pub. L. 98–378 provided that:
+Pub. L. 98–378, §3(g), Aug. 16, 1984, 98 Stat. 1311, provided that:
 
 “(1) Except as provided in paragraphs (2) and (3), the amendments made by this section \[enacting section 666 of this title and amending this section\] shall become effective on October 1, 1985.
 
@@ -528,15 +528,15 @@ Section 3(g) of Pub. L. 98–378 provided that:
 
 “(3) In the case of a State with respect to which the Secretary of Health and Human Services has determined that State legislation is required in order to conform the State plan approved under part D of title IV of the Social Security Act \[this part\] to the requirements imposed by any amendment made by this section, the State plan shall not be regarded as failing to comply with the requirements of such part solely by reason of its failure to meet the requirements imposed by such amendment prior to the beginning of the fourth month beginning after the end of the first session of the State legislature which ends on or after October 1, 1985. For purposes of the preceding sentence, the term ‘session’ means a regular, special, budget, or other session of a State legislature.”
 
-Section 5(c)(1) of Pub. L. 98–378 provided that: “The amendments made by the preceding provisions of this section \[amending this section and section 658 of this title\] shall become effective on October 1, 1985.”
+Pub. L. 98–378, §5(c)(1), Aug. 16, 1984, 98 Stat. 1314, provided that: “The amendments made by the preceding provisions of this section \[amending this section and section 658 of this title\] shall become effective on October 1, 1985.”
 
-Section 6(c) of Pub. L. 98–378 provided that: “The amendments made by this section \[amending this section and section 655 of this title\] shall apply with respect to quarters beginning on or after October 1, 1984.”
+Pub. L. 98–378, §6(c), Aug. 16, 1984, 98 Stat. 1315, provided that: “The amendments made by this section \[amending this section and section 655 of this title\] shall apply with respect to quarters beginning on or after October 1, 1984.”
 
-Section 11(e) of Pub. L. 98–378 provided that: “The amendments made by this section \[amending this section and sections 656, 657, 664, and 671 of this title\] shall become effective October 1, 1984, and shall apply to collections made on or after that date.”
+Pub. L. 98–378, §11(e), Aug. 16, 1984, 98 Stat. 1318, provided that: “The amendments made by this section \[amending this section and sections 656, 657, 664, and 671 of this title\] shall become effective October 1, 1984, and shall apply to collections made on or after that date.”
 
-Section 12(c) of Pub. L. 98–378 provided that: “The amendments made by this section \[amending this section\] shall become effective October 1, 1985.”
+Pub. L. 98–378, §12(c), Aug. 16, 1984, 98 Stat. 1319, provided that: “The amendments made by this section \[amending this section\] shall become effective October 1, 1985.”
 
-Section 14(b) of Pub. L. 98–378 provided that: “The amendments made by subsection (a) \[amending this section\] shall become effective October 1, 1985.”
+Pub. L. 98–378, §14(b), Aug. 16, 1984, 98 Stat. 1320, provided that: “The amendments made by subsection (a) \[amending this section\] shall become effective October 1, 1985.”
 
 Amendment by section 21(d) of Pub. L. 98–378 applicable with respect to refunds payable under section 6402 of Title 26, Internal Revenue Code, after Dec. 31, 1985, see section 21(g) of Pub. L. 98–378, set out as a note under section 6103 of Title 26.
 
@@ -546,7 +546,7 @@ Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed a
 
 Amendment by section 171(a), (b)(1) of Pub. L. 97–248 effective on and after Aug. 13, 1981, see section 171(c) of Pub. L. 97–248, set out as a note under section 503 of this title.
 
-Section 173(b) of Pub. L. 97–248 provided that: “The amendment made by this section \[amending this section\] shall become effective on October 1, 1982.”
+Pub. L. 97–248, title I, §173(b), Sept. 3, 1982, 96 Stat. 403, provided that: “The amendment made by this section \[amending this section\] shall become effective on October 1, 1982.”
 
 #### Effective Date of 1981 Amendment
 
@@ -560,11 +560,11 @@ Amendment by Pub. L. 96–265 effective July 1, 1981, and to be effective only w
 
 #### Effective Date of 1977 Amendment
 
-Section 502(b) of Pub. L. 95–30 provided that: “The amendments made by this section \[amending this section\] shall take effect on the first day of the first calendar month which begins after the date of enactment of this Act \[May 23, 1977\].”
+Pub. L. 95–30, title V, §502(b), May 23, 1977, 91 Stat. 162, provided that: “The amendments made by this section \[amending this section\] shall take effect on the first day of the first calendar month which begins after the date of enactment of this Act \[May 23, 1977\].”
 
 #### Effective Date of 1975 Amendment
 
-Section 210 of title II of Pub. L. 94–88 provided that: “The amendments made by this title \[amending this section and sections 602, 603, and 655 of this title and enacting provisions set out as notes under sections 602 and 655 of this title\] shall, unless otherwise specified therein, become effective August 1, 1975.”
+Pub. L. 94–88, title II, §210, Aug. 9, 1975, 89 Stat. 437, provided that: “The amendments made by this title \[amending this section and sections 602, 603, and 655 of this title and enacting provisions set out as notes under sections 602 and 655 of this title\] shall, unless otherwise specified therein, become effective August 1, 1975.”
 
 #### Exception to General Effective Date for State Plans Requiring State Law Amendments
 
@@ -572,7 +572,7 @@ Pub. L. 109–171, title VII, §7311, Feb. 8, 2006, 120 Stat. 148, provided that
 
 #### State Commissions on Child Support
 
-Section 15 of Pub. L. 98–378 provided that:
+Pub. L. 98–378, §15, Aug. 16, 1984, 98 Stat. 1320, provided that:
 
 “(a) As a condition of the State's eligibility for Federal payments under part A or D of title IV of the Social Security Act \[part A of this subchapter or this part\] for quarters beginning more than 30 days after the date of the enactment of this Act \[Aug. 16, 1984\] and ending prior to October 1, 1985, the Governor of each State, on or before December 1, 1984, shall (subject to subsection (f)) appoint a State Commission on Child Support.
 
@@ -596,5 +596,5 @@ Section 15 of Pub. L. 98–378 provided that:
 
 #### Delayed Effective Date in Cases Requiring State Legislation
 
-Section 176 of Pub. L. 97–248 provided that: “In the case of a State with respect to which the Secretary of Health and Human Services has determined that State legislation is required in order to conform the State plan approved under part D of title IV of the Social Security Act \[this part\] to the requirements imposed by any amendment made by this subtitle \[subtitle E (§§171–176) of title I of Pub. L. 97–248, see Tables for classification\], the State plan shall not be regarded as failing to comply with the requirements of such part solely by reason of its failure to meet the requirements imposed by such amendment prior to the end of the first session of the State legislature which begins after October 1, 1982, or which began prior to October 1, 1982, and remained in session for at least twenty-five calendar days after such date. For purposes of the preceding sentence, the term ‘session’ means a regular, special, budget, or other session of a State legislature.”
+Pub. L. 97–248, title I, §176, Sept. 3, 1982, 96 Stat. 403, provided that: “In the case of a State with respect to which the Secretary of Health and Human Services has determined that State legislation is required in order to conform the State plan approved under part D of title IV of the Social Security Act \[this part\] to the requirements imposed by any amendment made by this subtitle \[subtitle E (§§171–176) of title I of Pub. L. 97–248, see Tables for classification\], the State plan shall not be regarded as failing to comply with the requirements of such part solely by reason of its failure to meet the requirements imposed by such amendment prior to the end of the first session of the State legislature which begins after October 1, 1982, or which beganprior to October 1, 1982, and remained in session for at least twenty-five calendar days after such date. For purposes of the preceding sentence, the term ‘session’ means a regular, special, budget, or other session of a State legislature.”
 

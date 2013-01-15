@@ -4,5 +4,5 @@ Section, act June 28, 1902, ch. 1301, §1, 32 Stat. 472, prescribed qualificatio
 
 #### Effective Date of Repeal
 
-Repeal effective Jan. 1, 1958, see section 2301 of Pub. L. 85–56.
+Repeal effective Jan. 1, 1958, see section 2301 of Pub. L. 85–56, title XXIII, June 17, 1957, 71 Stat. 172.
 

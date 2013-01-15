@@ -30,15 +30,17 @@ Annual Report Required.—Not later than the date of the submission of the Presi
 
 (b)
 
-Comptroller General Review.—(1) By not later than 120 days after the date on which a report is submitted under subsection (a), the Comptroller General shall review the report and, as the Comptroller General determines appropriate, submit to the congressional defense committees any additional information that the Comptroller General determines will further inform such committees on issues relating to the status of the materiel in the prepositioned stocks.
+Comptroller General Review.—(1) The Comptroller General shall review each report submitted under subsection (a) and, as the Comptroller General determines appropriate, submit to the congressional defense committees any additional information that the Comptroller General determines will further inform such committees on issues relating to the status of the materiel in the prepositioned stocks.
 
 (2) The Secretary of Defense shall ensure the full cooperation of the Department of Defense with the Comptroller General for purposes of the conduct of the review required by this subsection, both before and after each report is submitted under subsection (a). The Secretary shall conduct periodic briefings for the Comptroller General on the information covered by each report required under subsection (a) and provide to the Comptroller General access to the data and preliminary results to be used by the Secretary in preparing each such report before the Secretary submits the report to enable the Comptroller General to conduct each review required under paragraph (1) in a timely manner.
 
 (3) The requirement to conduct a review under this subsection shall terminate on September 30, 2015.
 
-(Added Pub. L. 110–181, div. A, title III, §352(a), Jan. 28, 2008, 122 Stat. 71; amended Pub. L. 112–81, div. A, title III, §341(b), Dec. 31, 2011, 125 Stat. 1369.)
+(Added Pub. L. 110–181, div. A, title III, §352(a), Jan. 28, 2008, 122 Stat. 71; amended Pub. L. 112–81, div. A, title III, §341(b), Dec. 31, 2011, 125 Stat. 1369; Pub. L. 112–239, div. A, title III, §343, Jan. 2, 2013, 126 Stat. 1700.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (b)(1). Pub. L. 112–239 substituted “The” for “By not later than 120 days after the date on which a report is submitted under subsection (a), the” and “each report submitted under subsection (a)” for “the report”.
 
 <b>2011</b>—Subsec. (a)(7) to (12). Pub. L. 112–81 added pars. (7) to (12).
 

@@ -86,17 +86,17 @@ Subsec. (b). Pub. L. 99–514, §1875(d)(3)(A)(iii), added subsec. (b).
 
 #### Effective Date of 1997 Amendment
 
-Section 1027(c) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section and section 6048 of this title\] shall apply to returns of beneficiaries and owners filed after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title X, §1027(c), Aug. 5, 1997, 111 Stat. 926, provided that: “The amendments made by this section \[amending this section and section 6048 of this title\] shall apply to returns of beneficiaries and owners filed after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 #### Effective Date of 1986 Amendment
 
 Amendment by section 1501(c)(15) of Pub. L. 99–514 applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1986, see section 1501(e) of Pub. L. 99–514, set out as an Effective Date note under section 6721 of this title.
 
-Section 1875(d)(3)(B) of Pub. L. 99–514 provided that: “The amendments made by this paragraph \[amending this section\] shall apply to taxable years of estates and trusts beginning after the date of the enactment of this Act \[Oct. 22, 1986\].”
+Pub. L. 99–514, title XVIII, §1875(d)(3)(B), Oct. 22, 1986, 100 Stat. 2897, provided that: “The amendments made by this paragraph \[amending this section\] shall apply to taxable years of estates and trusts beginning after the date of the enactment of this Act \[Oct. 22, 1986\].”
 
 #### Effective Date
 
-Section 714(q)(5) of Pub. L. 98–369 provided that: “The amendments made by this subsection \[enacting this section and amending sections 6037 and 6678 of this title\] shall apply to taxable years beginning after December 31, 1984.”
+Pub. L. 98–369, div. A, title VII, §714(q)(5), July 18, 1984, 98 Stat. 966, provided that: “The amendments made by this subsection \[enacting this section and amending sections 6037 and 6678 of this title\] shall apply to taxable years beginning after December 31, 1984.”
 
 #### Plan Amendments Not Required Until January 1, 1989
 

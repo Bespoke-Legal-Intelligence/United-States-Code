@@ -12,7 +12,7 @@ A State plan for old-age assistance must—
 
 &emsp;(4) provide (A) for granting an opportunity for a fair hearing before the State agency to any individual whose claim for assistance under the plan is denied or is not acted upon with reasonable promptness, and (B) that if the State plan is administered in each of the political subdivisions of the State by a local agency and such local agency provides a hearing at which evidence may be presented prior to a hearing before the State agency, such local agency may put into effect immediately upon issuance its decision upon the matter considered at such hearing;
 
-&emsp;(5) provide (A) such methods of administration (including methods relating to the establishment and maintenance of personnel standards on a merit basis, except that the Secretary shall exercise no authority with respectto the selection, tenure of office, and compensation of any individual employed in accordance with such methods) as are found by the Secretary to be necessary for the proper and efficient operation of the plan, and (B) for the training and effective use of paid subprofessional staff, with particular emphasis on the full-time or part-time employment of recipients and other persons of low income, as community service aides, in the administration of the plan and for the use of nonpaid or partially paid volunteers in a social service volunteer program in providing services to applicants and recipients and in assisting any advisory committees established by the State agency;
+&emsp;(5) provide (A) such methods of administration (including methods relating to the establishment and maintenance of personnel standards on a merit basis, except that the Secretary shall exercise no authority with respect to the selection, tenure of office, and compensation of any individual employed in accordance with such methods) as are found by the Secretary to be necessary for the proper and efficient operation of the plan, and (B) for the training and effective use of paid subprofessional staff, with particular emphasis on the full-time or part-time employment of recipients and other persons of low income, as community service aides, in the administration of the plan and for the use of nonpaid or partially paid volunteers in a social service volunteer program in providing services to applicants and recipients and in assisting any advisory committees established by the State agency;
 
 &emsp;(6) provide that the State agency will make such reports, in such form and containing such information, as the Secretary may from time to time require, and comply with such provisions as the Secretary may from time to time find necessary to assure the correctness and verification of such reports;
 
@@ -58,7 +58,7 @@ Nothing in this subchapter shall be construed to permit a State to have in effec
 
 <b>1984</b>—Subsec. (a)(11). Pub. L. 98–369 added par. (11).
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–35 struck out in provision preceding par. (1) “, or for medical assistance for the aged, or for old-age assistance and medical assistance for the aged” par. (11) which specified the contents theState plan must contain if it includes medical assistance for the aged, par. (12) which specified the contents the State plan must contain if it includes assistance to or in behalf of individuals who are patients in institutions for mental diseases, and par. (13) which provided that if the State plan includes assistance to or in behalf of patients in public institutions for mental diseases, it show that the State is making satisfactory progress towards developing and implementing a comprehensive mental health program.
+<b>1981</b>—Subsec. (a). Pub. L. 97–35 struck out in provision preceding par. (1) “, or for medical assistance for the aged, or for old-age assistance and medical assistance for the aged” par. (11) which specified the contents the State plan must contain if it includes medical assistance for the aged, par. (12) which specified the contents the State plan must contain if it includes assistance to or in behalf of individuals who are patients in institutions for mental diseases, and par. (13) which provided that if the State plan includes assistance to or in behalf of patients in public institutions for mental diseases, it show that the State is making satisfactory progress towards developing and implementing a comprehensive mental health program.
 
 <b>1972</b>—Subsec. (a)(1). Pub. L. 92–603, §410(a), inserted “except to the extent permitted by the Secretary with respect to services” before “provide”.
 
@@ -96,21 +96,21 @@ Subsec. (c). Pub. L. 86–778 added subsec. (c).
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 effective Apr. 1, 1985, except as otherwise provided, see section 2651(<i>l</i>)(2) of Pub. L. 98–369, set out as an Effective Date note under section 1320b–7 of this title.
+Amendment by Pub. L. 98–369 effective Apr. 1, 1985, except as otherwise provided, see section 2651(l)(2) of Pub. L. 98–369, set out as an Effective Date note under section 1320b–7 of this title.
 
 #### Effective Date of 1968 Amendment
 
-Section 210(b) of Pub. L. 90–248 provided that: “Each of the amendments made by subsection (a) \[amending this section and sections 602, 1202, 1352, 1382, and 1396a of this title\] shall become effective July 1, 1969, or, if earlier (with respect to a State's plan approved under title \[subchapter\] I, X, XIV, XVI, or XIX, or part A of title IV \[of this chapter\]) on the date as of which the modification of the State plan to comply with such amendment is approved.”
+Pub. L. 90–248, title II, §210(b), Jan. 2, 1968, 81 Stat. 896, provided that: “Each of the amendments made by subsection (a) \[amending this section and sections 602, 1202, 1352, 1382, and 1396a of this title\] shall become effective July 1, 1969, or, if earlier (with respect to a State's plan approved under title \[subchapter\] I, X, XIV, XVI, or XIX, or part A of title IV \[of this chapter\]) on the date as of which the modification of the State plan to comply with such amendment is approved.”
 
 #### Effective Date of 1965 Amendment
 
-Section 221(e) of Pub. L. 89–97 provided that: “The amendments made by this section \[amending this section and sections 303, 306, 1206, 1355, 1382, 1383, and 1385 of this title\] shall apply in the case of expenditures made after December 31, 1965, under a State plan approved under title I, X, XIV, or XVI of the Social Security Act \[subchapter I, X, XIV, or XVI of this chapter\].”
+Pub. L. 89–97, title II, §221(e), July 30, 1965, 79 Stat. 359, provided that: “The amendments made by this section \[amending this section and sections 303, 306, 1206, 1355, 1382, 1383, and 1385 of this title\] shall apply in the case of expenditures made after December 31, 1965, under a State plan approved under title I, X, XIV, or XVI of the Social Security Act \[subchapter I, X, XIV, or XVI of this chapter\].”
 
-Section 403(a) of Pub. L. 89–97 provided that the amendment made by that section is effective Oct. 1, 1965.
+Pub. L. 89–97, title IV, §403(a), July 30, 1965, 79 Stat. 418, provided that the amendment made by that section is effective Oct. 1, 1965.
 
 #### Effective Date of 1962 Amendment
 
-Section 202(a) of Pub. L. 87–543 provided that: “The amendments made by sections 102(b)(1), 103, 106, and 134 \[amending this section and sections 602, 607, 723, 1202, and 1352 of this title\] shall become effective July 1, 1963.”
+Pub. L. 87–543, title II, §202(a), July 25, 1962, 76 Stat. 208, provided that: “The amendments made by sections 102(b)(1), 103, 106, and 134 \[amending this section and sections 602, 607, 723, 1202, and 1352 of this title\] shall become effective July 1, 1963.”
 
 #### Effective Date of 1960 Amendment
 
@@ -122,11 +122,11 @@ Amendment by Pub. L. 85–840 effective Oct. 1, 1958, see section 512 of Pub. L.
 
 #### Effective Date of 1956 Amendment
 
-Section 314 \[315\] of act Aug. 1, 1956, provided that: “The amendments made by sections 311(b), 312(b), 313(b), and 314(b) \[amending this section and sections 602, 1202, and 1352 of this title\] shall become effective July 1, 1957.”
+Act Aug. 1, 1956, ch. 836, title III, §314 \[315\], 70 Stat. 850, provided that: “The amendments made by sections 311(b), 312(b), 313(b), and 314(b) \[amending this section and sections 602, 1202, and 1352 of this title\] shall become effective July 1, 1957.”
 
 #### Effective Date of 1950 Amendment
 
-Section 301(c) of act Aug. 28, 1950, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall take effect July 1, 1951.”
+Act Aug. 28, 1950, ch. 809, title III, §301(c), 64 Stat. 548, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall take effect July 1, 1951.”
 
 #### Transfer of Functions
 
@@ -134,5 +134,5 @@ Functions, powers, and duties of Secretary under subsec. (a)(5)(A) of this secti
 
 #### Disregarding of Income of OASDI Recipients in Determining Need for Public Assistance
 
-Section 306 of Pub. L. 92–603 provided that: “In addition to the requirements imposed by law as a condition of approval of a State plan to provide aid or assistance in the form of money payments to individuals under title I, X, XIV, or XVI of the Social Security Act \[subchapter I, X, XIV, or XVI of this chapter\], there is hereby imposed the requirement (and the plan shall be deemed to require) that, in the case of any individual receiving aid or assistance for any month after October 1972, or, at the option of the State, September 1972, and before January 1974 who also receives in such month a monthly insurance benefit under title II of such Act \[subchapter II of this chapter\] which was increased as a result of the enactment of Public Law 92–336, the sum of the aid or assistance received by him for such month, plus the monthly insurance benefit received by him in such month (not including any part of such benefit which is disregarded under such plan), shall exceed the sum of the aid or assistance which would have been received by him for such month under such plan as in effect for October 1972, plus the monthly insurance benefit which would have been received by him in such month, by an amount equal to $4 or (if less) to such increase in his monthly insurance benefit under such title II (whether such excess is brought about by disregarding a portion of such monthly insurance benefit or otherwise).”
+Pub. L. 92–603, title III, §306, Oct. 30, 1972, 86 Stat. 1485, provided that: “In addition to the requirements imposed by law as a condition of approval of a State plan to provide aid or assistance in the form of money payments to individuals under title I, X, XIV, or XVI of the Social Security Act \[subchapter I, X, XIV, or XVI of this chapter\], there is hereby imposed the requirement (and the plan shall be deemed to require) that, in the case of any individual receiving aid or assistance for any month after October 1972, or, at the option of the State, September 1972, and before January 1974 who also receives in such month a monthly insurance benefit under title II of such Act \[subchapter II of this chapter\] which was increased as a result of the enactment of Public Law 92–336, the sum of the aid or assistance received by him for such month, plus the monthly insurance benefit received by him in such month (not including any part of such benefit which is disregarded under such plan), shall exceed the sum of the aid or assistance which would have been received by him for such month under such plan as in effect for October 1972, plus the monthly insurance benefit which would have been received by him in such month, by an amount equal to $4 or (if less) to such increase in his monthly insurance benefit under such title II (whether such excess is brought about by disregarding a portion of such monthly insurance benefit or otherwise).”
 

@@ -14,7 +14,7 @@
 
 &emsp;(2) full-time National Guard duty performed by a member of the Air National Guard of the United States shall be considered active duty in Federal service as a Reserve of the Air Force; and
 
-&emsp;(3) inactive-duty training performed by a member of the Air National Guard of theUnited States in his status as a member of the Air National Guard, in accordance with regulations prescribed under section 502 of title 32 or other express provision of law, shall be considered inactive-duty training in Federal service as a Reserve of the Air Force.
+&emsp;(3) inactive-duty training performed by a member of the Air National Guard of the United States in his status as a member of the Air National Guard, in accordance with regulations prescribed under section 502 of title 32 or other express provision of law, shall be considered inactive-duty training in Federal service as a Reserve of the Air Force.
 
 (Added Pub. L. 103–337, div. A, title XVI, §1662(g)(1), Oct. 5, 1994, 108 Stat. 2995.)
 

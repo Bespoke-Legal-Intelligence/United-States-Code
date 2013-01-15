@@ -18,13 +18,13 @@ Amendment.—At least once every 7 years, the Secretary shall conduct an evaluat
 
 (3) If the test procedure is a procedure for determining estimated annual operating costs, such procedure shall provide that such costs shall be calculated from measurements of energy use in a representative average-use cycle (as determined by the Secretary), and from representative average unit costs of the energy needed to operate such equipment during such cycle. The Secretary shall provide information to manufacturers of covered equipment respecting representative average unit costs of energy.
 
-(4)(A) With respect to small commercial package air conditioning and heating equipment, large commercial package air conditioning and heating equipment, very large commercial package air conditioning and heating equipment, packaged terminal air conditioners, packaged terminal heat pumps, warm-air furnaces, packaged boilers, storage water heaters, instantaneous water heaters, and unfired hot water storage tanks to which standards are applicable under section 6313 of this title, the test procedures shall be those generally accepted industry testing procedures or rating procedures developed or recognized by the Air-Conditioning and Refrigeration Institute or by the American Society of Heating, Refrigerating and Air Conditioning Engineers, as referenced in ASHRAE/IES Standard 90.1 and in effect on June 30, 1992.
+(4)(A) With respect to small commercial package air conditioning and heating equipment, large commercial package air conditioning and heating equipment, very large commercial package air conditioning and heating equipment, packaged terminal air conditioners, packaged terminal heat pumps, warm-air furnaces, packaged boilers, storage water heaters, instantaneous water heaters, and unfired hot water storage tanks to which standards are applicable under section 6313 of this title, the test procedures shall be those generally accepted industry testing procedures or rating procedures developed or recognized by the Air-Conditioning, Heating, and Refrigeration Institute or by the American Society of Heating, Refrigerating and Air Conditioning Engineers, as referenced in ASHRAE/IES Standard 90.1 and in effect on June 30, 1992.
 
 (B) If such an industry test procedure or rating procedure for small commercial package air conditioning and heating equipment, large commercial package air conditioning and heating equipment, very large commercial package air conditioning and heating equipment, packaged terminal air conditioners, packaged terminal heat pumps, warm-air furnaces, packaged boilers, storage water heaters, instantaneous water heaters, or unfired hot water storage tanks is amended, the Secretary shall amend the test procedure for the product as necessary to be consistent with the amended industry test procedure or rating procedure unless the Secretary determines, by rule, published in the Federal Register and supported by clear and convincing evidence, that to do so would not meet the requirements for test procedures described in paragraphs (2) and (3) of this subsection.
 
 (C) If the Secretary prescribes a rule containing such a determination, the rule may establish an amended test procedure for such product that meets the requirements of paragraphs (2) and (3) of this subsection. In establishing any amended test procedure under this subparagraph or subparagraph (B), the Secretary shall follow the procedures and meet the requirements specified in section 6293(e) of this title.
 
-(5)(A) With respect to electric motors to which standards are applicable under section 6313 of this title, the test procedures shall be the test procedures specified in NEMA Standards Publication MG1–1987 and IEEE Standard 112 Test Method B for motor efficiency, as in effect on October 24, 1992.
+(5)(A) With respect to electric motors to which standards are applicable under section 6313 ofthis title, the test procedures shall be the test procedures specified in NEMA Standards Publication MG1–1987 and IEEE Standard 112 Test Method B for motor efficiency, as in effect on October 24, 1992.
 
 (B) If the test procedure requirements of NEMA Standards Publication MG–1987 and IEEE Standard 112 Test Method B for motor efficiency are amended, the Secretary shall amend the test procedures established by subparagraph (A) to conform to such amended test procedure requirements unless the Secretary determines, by rule, published in the Federal Register and supported by clear and convincing evidence, that to do so would not meet the requirements for test procedures described in paragraphs (2) and (3) of this subsection.
 
@@ -40,13 +40,13 @@ Amendment.—At least once every 7 years, the Secretary shall conduct an evaluat
 
 (B)(i) <sup>2</sup> In the case of commercial refrigerators, freezers, and refrigerator-freezers with doors covered by the standards adopted in February 2002, by the California Energy Commission, the rating temperatures shall be the integrated average temperature of 38 degrees F (± 2 degrees F) for refrigerator compartments and 0 degrees F (± 2 degrees F) for freezer compartments.
 
-(C) The Secretary shall issue a rule in accordance with paragraphs (2) and (3) to establish the appropriate rating temperatures for the other products for which standards will be established under section 6313(c)(4) of this title.
+(C) The Secretary shall issue a rule in accordance with paragraphs (2) and (3) to establish the appropriate rating temperatures for the other products for which standards will be established under section 6313(c)(4) <sup>3</sup> of this title.
 
 (D) In establishing the appropriate test temperatures under this subparagraph, the Secretary shall follow the procedures and meet the requirements under section 6293(e) of this title.
 
 (E)(i) Not later than 180 days after the publication of the new ASHRAE 117 test procedure, if the ASHRAE 117 test procedure for commercial refrigerators, freezers, and refrigerator-freezers is amended, the Secretary shall, by rule, amend the test procedure for the product as necessary to ensure that the test procedure is consistent with the amended ASHRAE 117 test procedure, unless the Secretary makes a determination, by rule, and supported by clear and convincing evidence, that to do so would not meet the requirements for test procedures under paragraphs (2) and (3).
 
-(ii) If the Secretary determines that 180 days is an insufficient period during which to reviewand adopt the amended test procedure or rating procedure under clause (i), the Secretary shall publish a notice in the Federal Register stating the intent of the Secretary to wait not longer than 1 additional year before putting into effect an amended test procedure or rating procedure.
+(ii) If the Secretary determines that 180 days is an insufficient period during which to review and adopt the amended test procedure or rating procedure under clause (i), the Secretary shall publish a notice in the Federal Register stating the intent of the Secretary to wait not longer than 1 additional year before putting into effect an amended test procedure or rating procedure.
 
 (F)(i) If a test procedure other than the ASHRAE 117 test procedure is approved by the American National Standards Institute, the Secretary shall, by rule—
 
@@ -60,9 +60,9 @@ Amendment.—At least once every 7 years, the Secretary shall conduct an evaluat
 
 &emsp;(II) subparagraph (B) shall apply to the adopted test procedure.
 
-(7)(A) In the case of automatic commercial ice makers, the test procedures shall be the test procedures specified in Air-Conditioning and Refrigeration Institute Standard 810–2003, as in effect on January 1, 2005.
+(7)(A) In the case of automatic commercial ice makers, the test procedures shall be the test procedures specified in Air-Conditioning, Heating, and Refrigeration Institute Standard 810–2003, as in effect on January 1, 2005.
 
-(B)(i) If Air-Conditioning and Refrigeration Institute Standard 810–2003 is amended, the Secretary shall amend the test procedures established in subparagraph (A) as necessary to be consistent with the amended Air-Conditioning and Refrigeration Institute Standard, unless the Secretary determines, by rule, published in the Federal Register and supported by clear and convincing evidence, that to do so would not meet the requirements for test procedures under paragraphs (2) and (3).
+(B)(i) If Air-Conditioning, Heating, and Refrigeration Institute Standard 810–2003 is amended, the Secretary shall amend the test procedures established in subparagraph (A) as necessary to be consistent with the amended Air-Conditioning, Heating, and Refrigeration Institute Standard, unless the Secretary determines, by rule, published in the Federal Register and supported by clear and convincing evidence, that to do so would not meet the requirements for test procedures under paragraphs (2) and (3).
 
 (ii) If the Secretary issues a rule under clause (i) containing a determination described in clause (ii), the rule may establish an amended test procedure for the product that meets the requirements of paragraphs (2) and (3).
 
@@ -122,17 +122,25 @@ Before prescribing any final test procedures under this section, the Secretary s
 
 > respecting the energy consumption of such equipment or cost of energy consumed by such equipment, unless such equipment has been tested in accordance with such test procedure and such representation fairly discloses the results of such testing.
 
-(2) On the petition of any manufacturer, distributor, retailer, or private labeler, filed not later than the 60th day before the expiration of the period involved, the 180-day period referred to in paragraph (1) may be extended by the Secretary with respect to the petitioner (but in noevent for more than an additional 180 days) if he finds that the requirements of paragraph (1) would impose on such petitioner an undue hardship (as determined by the Secretary).
+(2) On the petition of any manufacturer, distributor, retailer, or private labeler, filed not later than the 60th day before the expiration of the period involved, the 180-day period referred to in paragraph (1) may be extended by the Secretary with respect to the petitioner (but in no event for more than an additional 180 days) if he finds that the requirements of paragraph (1) would impose on such petitioner an undue hardship (as determined by the Secretary).
 
 #### (e) Assistance by National Institute of Standards and Technology
 
 The Secretary may direct the National Institute of Standards and Technology to provide such assistance as the Secretary deems necessary to carry out his responsibilities under this part, including the development of test procedures.
 
-(Pub. L. 94–163, title III, §343, as added Pub. L. 95–619, title IV, §441(a), Nov. 9, 1978, 92 Stat. 3270; amended Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 102–486, title I, §122(b), (f)(2), Oct. 24, 1992, 106 Stat. 2808, 2817; Pub. L. 109–58, title I, §136(f), Aug. 8, 2005, 119 Stat. 641; Pub. L. 110–140, title III, §§302(b), 312(c), Dec. 19, 2007, 121 Stat. 1552, 1566.)
+(Pub. L. 94–163, title III, §343, as added Pub. L. 95–619, title IV, §441(a), Nov. 9, 1978, 92 Stat. 3270; amended Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 102–486, title I, §122(b), (f)(2), Oct. 24, 1992, 106 Stat. 2808, 2817; Pub. L. 109–58, title I, §136(f), Aug. 8, 2005, 119 Stat. 641; Pub. L. 110–140, title III, §§302(b), 312(c), Dec. 19, 2007, 121 Stat. 1552, 1566; Pub. L. 112–210, §10(a)(2), (c)(2), Dec. 18, 2012, 126 Stat. 1522, 1525.)
+
+#### References in Text
+
+Section 6313(c)(4) of this title, referred to in subsec. (a)(6)(C), was redesignated section 6313(c)(5) of this title by Pub. L. 112–210, §4(2), Dec. 18, 2012, 126 Stat. 1517.
 
 #### Amendments
 
-<b>2007</b>—Subsec. (a). Pub. L. 110–140, §302(b), inserted subsec. heading, added par. (1), and struck out former par. (1) which read as follows: “The Secretary may conduct an evaluation of a class of covered equipment and may prescribe test procedures for such class in accordance with the provisions of this section.”
+<b>2012</b>—Subsec. (a). Pub. L. 112–210, §10(a)(2), made technical amendment to directory language of Pub. L. 110–140, §302(b). See 2007 Amendment note below.
+
+Subsec. (a)(4)(A), (7). Pub. L. 112–210, §10(c)(2), substituted “Air-Conditioning, Heating, and Refrigeration Institute” for “Air-Conditioning and Refrigeration Institute” wherever appearing.
+
+<b>2007</b>—Subsec. (a). Pub. L. 110–140, §302(b), as amended by Pub. L. 112–210, §10(a)(2), inserted subsec. heading, added par. (1), and struck out former par. (1) which read as follows: “The Secretary may conduct an evaluation of a class of covered equipment and may prescribe test procedures for such class in accordance with the provisions of this section.”
 
 Subsec. (a)(9). Pub. L. 110–140, §312(c), added par. (9).
 
@@ -152,6 +160,10 @@ Subsec. (d)(1). Pub. L. 102–486, §122(b)(2), inserted “(or, in the case of 
 
 <b>1988</b>—Subsec. (e). Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “National Bureau of Standards”.
 
+#### Effective Date of 2012 Amendment
+
+Amendment by section 10(a)(2) of Pub. L. 112–210 effective as if included in the Energy Independence and Security Act of 2007, Pub. L. 110–140, see section 10(a)(13) of Pub. L. 112–210, set out as a note under section 6291 of this title.
+
 #### Effective Date of 2007 Amendment
 
 Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
@@ -159,4 +171,6 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 <i><sup>1</sup></i><i> So in original. No subpar. (B) has been enacted.</i>
 
 <i><sup>2</sup></i><i> So in original. No cl. (ii) has been enacted.</i>
+
+<i><sup>3</sup></i><i> See References in Text note below.</i>
 

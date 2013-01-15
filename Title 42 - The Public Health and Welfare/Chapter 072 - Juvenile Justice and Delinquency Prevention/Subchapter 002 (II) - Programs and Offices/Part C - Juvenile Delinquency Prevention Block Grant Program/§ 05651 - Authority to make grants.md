@@ -44,7 +44,7 @@ The Administrator may make grants to eligible States, from funds allocated under
 
 &emsp;&emsp;(B) to provide appropriate interventions (including mental health services) to prevent such juvenile from committing subsequent offenses;
 
-&emsp;(9) projects (including school- or community-based projects) that are designed to prevent, and reduce the rate of, the participation of juveniles in gangs that commit crimes (particularly violent crimes), that unlawfully use firearms and other weapons, or that unlawfully traffic in drugs and that involve, to theextent practicable, families and other community members (including law enforcement personnel and members of the business community) in the activities conducted under such projects;
+&emsp;(9) projects (including school- or community-based projects) that are designed to prevent, and reduce the rate of, the participation of juveniles in gangs that commit crimes (particularly violent crimes), that unlawfully use firearms and other weapons, or that unlawfully traffic in drugs and that involve, to the extent practicable, families and other community members (including law enforcement personnel and members of the business community) in the activities conducted under such projects;
 
 &emsp;(10) comprehensive juvenile justice and delinquency prevention projects that meet the needs of juveniles through the collaboration of the many local service systems juveniles encounter, including schools, courts, law enforcement agencies, child protection agencies, mental health agencies, welfare services, health care agencies (including collaboration on appropriate prenatal care for pregnant juvenile offenders), private nonprofit agencies, and public recreation agencies offering services to juveniles;
 

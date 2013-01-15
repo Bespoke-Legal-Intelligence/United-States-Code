@@ -36,7 +36,7 @@ For purposes of this section—
 
 #### (2) Aggregation rules
 
-&emsp;All persons treated as a single employer under subsection (a) or (b) of section 52 or subsection (m) or (<i>o</i>) of section 414 shall be treated as one person for purposes of paragraph (1).
+&emsp;All persons treated as a single employer under subsection (a) or (b) of section 52 or subsection (m) or (o) of section 414 shall be treated as one person for purposes of paragraph (1).
 
 #### (3) Special rules
 
@@ -100,7 +100,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) community property laws shall be disregarded,
 
-&emsp;&emsp;(B) stock held by a plan described in section 401(a) which is exempt from tax undersection 501(a) shall be treated as held by an employee described in paragraph (2)(B)(i), and
+&emsp;&emsp;(B) stock held by a plan described in section 401(a) which is exempt from tax under section 501(a) shall be treated as held by an employee described in paragraph (2)(B)(i), and
 
 &emsp;&emsp;(C) at the election of the common parent of an affiliated group (within the meaning of section 1504(a)), all members of such group may be treated as 1 taxpayer for purposes of paragraph (2)(B) if 90 percent or more of the activities of such group involve the performance of services in the same field described in paragraph (2)(A).
 
@@ -108,7 +108,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any person using an accrual method of accounting with respect to amounts to be received for the performance of services by such person, such person shall not be required to accrue any portion of such amounts which (on the basis of such person's experience) will not be collected if—
+&emsp;&emsp;In the case of any person using an accrual method of accounting with respect toamounts to be received for the performance of services by such person, such person shall not be required to accrue any portion of such amounts which (on the basis of such person's experience) will not be collected if—
 
 &emsp;&emsp;&emsp;(i) such services are in fields referred to in paragraph (2)(A), or
 
@@ -186,11 +186,11 @@ Change in method of accounting.—In the case of any taxpayer required by the am
 
 Amendment by section 1008(a)(1), (2), (7)–(9) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Section 6032(b) of Pub. L. 100–647 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1986.”
+Pub. L. 100–647, title VI, §6032(b), Nov. 10, 1988, 102 Stat. 3695, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1986.”
 
 #### Effective Date
 
-Section 801(d) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1008(a)(5), (6), Nov. 10, 1988, 102 Stat. 3437, provided that:
+Pub. L. 99–514, title VIII, §801(d), Oct. 22, 1986, 100 Stat. 2348, as amended by Pub. L. 100–647, title I, §1008(a)(5), (6), Nov. 10, 1988, 102 Stat. 3437, provided that:
 
 “(1)
 
@@ -198,7 +198,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 “(2)
 
-Election to retain cash method for certain transactions.—A taxpayer may elect not to have the amendments made by this section apply to any loan or lease, or any transaction with a related party (within the meaning of section 267(b) of the Internal Revenue Code of 1954, as in effect before the enactment of this Act), entered into on or before September 25, 1985. Any election under the preceding sentence may be made separately with respect to each transaction.
+Election to retain cash method for certain transactions.—A taxpayer may elect not to have the amendments made by this section apply to any loan orlease, or any transaction with a related party (within the meaning of section 267(b) of the Internal Revenue Code of 1954, as in effect before the enactment of this Act), entered into on or before September 25, 1985. Any election under the preceding sentence may be made separately with respect to each transaction.
 
 “(3)
 

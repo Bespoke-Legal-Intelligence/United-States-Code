@@ -4,7 +4,7 @@
 
 #### (1) Limitation on use of appropriated funds
 
-&emsp;From the appropriations authorized for fiscal year 1978 and succeeding fiscal years pursuant to the Land and Water Conservation Fund Act (78 Stat. 897), as amended \[16 U.S.C. 460<i>l</i>–4 et seq.\], not more than $115,000,000 may be expended for the acquisition of lands and interests in lands authorized to be acquired pursuant to the provisions of this subchapter. For purposes of section 7(a)(3) of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460<i>l</i>–9(a)(3)), the statutory ceiling on appropriations under this subsection shall be deemed to be a statutory ceiling contained in a provision of law enacted prior to the convening of the Ninety-sixth Congress.
+&emsp;From the appropriations authorized for fiscal year 1978 and succeeding fiscal years pursuant to the Land and Water Conservation Fund Act (78 Stat. 897), as amended \[16 U.S.C. 460l–4 et seq.\], not more than $115,000,000 may be expended for the acquisition of lands and interests in lands authorized to be acquired pursuant to the provisions of this subchapter. For purposes of section 7(a)(3) of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460l–9(a)(3)), the statutory ceiling on appropriations under this subsection shall be deemed to be a statutory ceiling contained in a provision of law enacted prior to the convening of the Ninety-sixth Congress.
 
 #### (2) Donations
 
@@ -50,9 +50,9 @@ Effective on October 1, 1978, there are authorized to be appropriated not to exc
 
 &emsp;(C) notify the Secretary of the specific decisions made in respect to the comments and recommendations of the Secretary.
 
-> The requirements of this subsection shall be carried out in accordance with procedures established by the Federal agency responsible for undertaking or approving the Federal action. These procedures may utilize the procedures developed by such Agency pursuant to the National Environmental Policy Act \[42 U.S.C. 4321 et seq.\].
+> The requirements of this subsection shall be carried out in accordance with procedures established by the Federal agency responsible forundertaking or approving the Federal action. These procedures may utilize the procedures developed by such Agency pursuant to the National Environmental Policy Act \[42 U.S.C. 4321 et seq.\].
 
-(2) Following receipt of notification pursuant to paragraph (1)(A), the Secretary, after consultation with the Governor of Georgia, shall make such comments and recommendations asthe Secretary deems appropriate pursuant to paragraph (1)(B) as promptly as practicable in accordance with the notifying agency's procedures established pursuant to paragraph (1)(A). In any instance in which the Secretary does not provide comments and recommendations under paragraph (1)(B), the Secretary shall notify in writing, the appropriate committees of Congress.
+(2) Following receipt of notification pursuant to paragraph (1)(A), the Secretary, after consultation with the Governor of Georgia, shall make such comments and recommendations as the Secretary deems appropriate pursuant to paragraph (1)(B) as promptly as practicable in accordance with the notifying agency's procedures established pursuant to paragraph (1)(A). In any instance in which the Secretary does not provide comments and recommendations under paragraph (1)(B), the Secretary shall notify in writing, the appropriate committees of Congress.
 
 (3) Following receipt of the notifying agency's decisions pursuant to paragraph (1)(C), the Secretary shall submit to the appropriate committees of Congress, including the authorizing committees with primary jurisdiction for the program under which the proposed action is being taken, a copy of the notifying agency's specific decisions made pursuant to paragraph (1)(C), along with a copy of the comments and recommendations made pursuant to paragraph (1)(B).
 
@@ -76,7 +76,7 @@ Effective on October 1, 1978, there are authorized to be appropriated not to exc
 
 #### References in Text
 
-The Land and Water Conservation Fund Act (78 Stat. 897), as amended, referred to in subsec. (a)(1), probably means the Land and Water Conservation Fund Act of 1965, Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended, which is classified generally to part B (§460<i>l</i>–4 et seq.) of subchapter LXIX of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 460<i>l</i>–4 of this title and Tables.
+The Land and Water Conservation Fund Act (78 Stat. 897), as amended, referred to in subsec. (a)(1), probably means the Land and Water Conservation Fund Act of 1965, Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended, which is classified generally to part B (§460l–4 et seq.) of subchapter LXIX of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 460l–4 of this title and Tables.
 
 The convening of the Ninety-sixth Congress, referred to in subsec. (a)(1), took place on Jan. 15, 1979.
 

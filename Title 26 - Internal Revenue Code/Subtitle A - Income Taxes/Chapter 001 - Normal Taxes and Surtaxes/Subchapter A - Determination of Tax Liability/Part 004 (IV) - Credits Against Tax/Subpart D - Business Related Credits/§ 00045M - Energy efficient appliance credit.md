@@ -28,9 +28,9 @@ For purposes of subsection (a)—
 
 &emsp;&emsp;(C) $25 in the case of a dishwasher which is manufactured in calendar year 2011 and which uses no more than 307 kilowatt hours per year and 5.0 gallons per cycle (5.5 gallons per cycle for dishwashers designed for greater than 12 place settings),
 
-&emsp;&emsp;(D) $50 in the case of a dishwasher which is manufactured in calendar year 2011 and which uses no more than 295 kilowatt hours per year and 4.25 gallons per cycle (4.75 gallons per cycle for dishwashers designed for greater than 12 place settings), and
+&emsp;&emsp;(D) $50 in the case of a dishwasher which is manufactured in calendar year 2011, 2012, or 2013 and which uses no more than 295 kilowatt hours per year and 4.25 gallons per cycle (4.75 gallons per cycle for dishwashers designed for greater than 12 place settings), and
 
-&emsp;&emsp;(E) $75 in the case of a dishwasher which is manufactured in calendar year 2011 and which uses no more than 280 kilowatt hours per year and 4 gallons per cycle (4.5 gallons per cycle for dishwashers designed for greater than 12 place settings).
+&emsp;&emsp;(E) $75 in the case of a dishwasher which is manufactured in calendar year 2011, 2012, or 2013 and which uses no more than 280 kilowatt hours per year and 4 gallons per cycle (4.5 gallons per cycle for dishwashers designed for greater than 12 place settings).
 
 #### (2) Clothes washers
 
@@ -46,7 +46,7 @@ For purposes of subsection (a)—
 
 &emsp;&emsp;(E) $175 in the case of a top-loading clothes washer manufactured in calendar year 2011 which meets or exceeds a 2.2 modified energy factor and does not exceed a 4.5 water consumption factor, and
 
-&emsp;&emsp;(F) $225 in the case of a clothes washer manufactured in calendar year 2011—
+&emsp;&emsp;(F) $225 in the case of a clothes washer manufactured in calendar year 2011, 2012, or 2013—
 
 &emsp;&emsp;&emsp;(i) which is a top-loading clothes washer and which meets or exceeds a 2.4 modified energy factor and does not exceed a 4.2 water consumption factor, or
 
@@ -62,11 +62,11 @@ For purposes of subsection (a)—
 
 &emsp;&emsp;(C) $100 in the case of a refrigerator which is manufactured in calendar year 2008, 2009, or 2010, and consumes at least 25 percent but not more than 29.9 percent less kilowatt hours per year than the 2001 energy conservation standards,
 
-&emsp;&emsp;(D) $200 in the case of a refrigerator manufactured in calendar year 2008, 2009, or 2010 and which consumes at least 30 percent less energy than the 2001 energy conservation standards,
+&emsp;&emsp;(D) $200 in the case of a refrigerator manufactured in calendar year 2008, 2009, or 2010and which consumes at least 30 percent less energy than the 2001 energy conservation standards,
 
-&emsp;&emsp;(E) $150 in the case of a refrigerator manufactured in calendar year 2011 which consumes at least 30 percent less energy than the 2001 energy conservation standards, and
+&emsp;&emsp;(E) $150 in the case of a refrigerator manufactured in calendar year 2011, 2012, or 2013 which consumes at least 30 percent less energy than the 2001 energy conservation standards, and
 
-&emsp;&emsp;(F) $200 in the case of a refrigerator manufactured in calendar year 2011 which consumes at least 35 percent less energy than the 2001 energy conservation standards.
+&emsp;&emsp;(F) $200 in the case of a refrigerator manufactured in calendar year 2011, 2012, or 2013 which consumes at least 35 percent less energy than the 2001 energy conservation standards.
 
 #### (c) Eligible production
 
@@ -166,19 +166,21 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;All persons treated as a single employer under subsection (a) or (b) of section 52 or subsection (m) or (<i>o</i>) of section 414 shall be treated as a single producer.
+&emsp;&emsp;All persons treated as a single employer under subsection (a) or (b) of section 52 or subsection (m) or (o) of section 414 shall be treated as a single producer.
 
 #### (B) Inclusion of foreign corporations
 
-&emsp;&emsp;For purposes of subparagraph (A), in applying subsections (a) and (b) of section 52 to this section, section 1563 shall be applied without regard to subsection (b)(2)(C) thereof.
+&emsp;&emsp;For purposes of subparagraph (A), in applying subsections (a) and (b) of section 52 tothis section, section 1563 shall be applied without regard to subsection (b)(2)(C) thereof.
 
 #### (3) Verification
 
 &emsp;No amount shall be allowed as a credit under subsection (a) with respect to which the taxpayer has not submitted such information or certification as the Secretary, in consultation with the Secretary of Energy, determines necessary.
 
-(Added Pub. L. 109–58, title XIII, §1334(a), Aug. 8, 2005, 119 Stat. 1030; amended Pub. L. 110–343, div. B, title III, §305(a)–(e), Oct. 3, 2008, 122 Stat. 3845–3847; Pub. L. 111–312, title VII, §709(a)–(d), Dec. 17, 2010, 124 Stat. 3312, 3313.)
+(Added Pub. L. 109–58, title XIII, §1334(a), Aug. 8, 2005, 119 Stat. 1030; amended Pub. L. 110–343, div. B, title III, §305(a)–(e), Oct. 3, 2008, 122 Stat. 3845–3847; Pub. L. 111–312, title VII, §709(a)–(d), Dec. 17, 2010, 124 Stat. 3312, 3313; Pub. L. 112–240, title IV, §409(a), (b), Jan. 2, 2013, 126 Stat. 2342.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (b). Pub. L. 112–240 substituted “2011, 2012, or 2013” for “2011” wherever appearing except for pars. (1)(C) and (2)(E).
 
 <b>2010</b>—Subsec. (b)(1)(C) to (E). Pub. L. 111–312, §709(a), added subpars. (C) to (E).
 
@@ -233,6 +235,10 @@ Pub. L. 110–343, §305(e)(3), redesignated par. (5) as (6). Former par. (6) re
 Subsec. (f)(7), (8). Pub. L. 110–343, §305(e)(3), redesignated pars. (6) and (7) as (7) and (8), respectively.
 
 Subsec. (f)(9), (10). Pub. L. 110–343, §305(e)(5), added pars. (9) and (10).
+
+#### Effective Date of 2013 Amendment
+
+Pub. L. 112–240, title IV, §409(c), Jan. 2, 2013, 126 Stat. 2342, provided that: “The amendments made by this section \[amending this section\] shall apply to appliances produced after December 31, 2011.”
 
 #### Effective Date of 2010 Amendment
 

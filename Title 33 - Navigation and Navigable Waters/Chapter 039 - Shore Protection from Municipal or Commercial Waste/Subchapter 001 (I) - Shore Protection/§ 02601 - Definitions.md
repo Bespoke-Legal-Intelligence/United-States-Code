@@ -48,7 +48,7 @@ The Rivers and Harbors Appropriation Act of 1899, referred to in par. (3)(E), is
 
 #### Short Title
 
-Section 4001 of title IV of Pub. L. 100–688 provided that: “This title \[enacting this chapter\] may be cited as the ‘Shore Protection Act of 1988’.”
+Pub. L. 100–688, title IV, §4001, Nov. 18, 1988, 102 Stat. 4154, provided that: “This title \[enacting this chapter\] may be cited as the ‘Shore Protection Act of 1988’.”
 
 #### Territorial Sea of United States
 

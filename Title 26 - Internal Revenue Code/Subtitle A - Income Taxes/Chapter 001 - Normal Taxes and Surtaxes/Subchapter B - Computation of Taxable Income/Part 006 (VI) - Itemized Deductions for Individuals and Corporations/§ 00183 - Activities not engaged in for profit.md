@@ -68,13 +68,13 @@ Amendment by Pub. L. 97–354 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1976 Amendment
 
-Section 214(c) of Pub. L. 94–455 provided that: “The amendments made by this section \[amending this section and section 6212 of this title\] shall apply with respect to taxable years beginning after December 31, 1969; except that such amendments shall not apply to any taxable year ending before the date of the enactment of this Act \[Oct. 4, 1976\] with respect to which the period for assessing a deficiency has expired before such date of enactment.”
+Pub. L. 94–455, title II, §214(c), Oct. 4, 1976, 90 Stat. 1549, provided that: “The amendments made by this section \[amending this section and section 6212 of this title\] shall apply with respect to taxable years beginning after December 31, 1969; except that such amendments shall not apply to any taxable year ending before the date of the enactment of this Act \[Oct. 4, 1976\] with respect to which the period for assessing a deficiency has expired before such date of enactment.”
 
 #### Effective Date of 1971 Amendment
 
-Section 311(b) of Pub. L. 92–178 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1969.”
+Pub. L. 92–178, title III, §311(b), Dec. 10, 1971, 85 Stat. 526, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1969.”
 
 #### Effective Date
 
-Section 213(d) of Pub. L. 91–172 provided that: “The amendments made by this section \[enacting this section, amending section 6504 of this title, and repealing section 270 of this title\] shall apply to taxable years beginning after December 31, 1969.”
+Pub. L. 91–172, title II, §213(d), Dec. 30, 1969, 83 Stat. 572, provided that: “The amendments made by this section \[enacting this section, amending section 6504 of this title, and repealing section 270 of this title\] shall apply to taxable years beginning after December 31, 1969.”
 

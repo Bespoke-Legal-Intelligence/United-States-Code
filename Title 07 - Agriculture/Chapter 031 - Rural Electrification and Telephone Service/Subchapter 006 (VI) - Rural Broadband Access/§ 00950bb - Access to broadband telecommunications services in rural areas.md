@@ -176,7 +176,7 @@ Notwithstanding any other provision of this chapter, the proceeds of any loan ma
 
 #### (j) Reports
 
-Not later than 1 year after the date of enactment of the Food, Conservation, and Energy Actof 2008, and annually thereafter, the Administrator shall submit to Congress a report that describes the extent of participation in the loan and loan guarantee program under this section for the preceding fiscal year, including a description of—
+Not later than 1 year after the date of enactment of the Food, Conservation, and Energy Act of 2008, and annually thereafter, the Administrator shall submit to Congress a report that describes the extent of participation in the loan and loan guarantee program under this section for the preceding fiscal year, including a description of—
 
 &emsp;(1) the number of loans applied for and provided under this section;
 
@@ -220,7 +220,7 @@ Not later than 1 year after the date of enactment of the Food, Conservation, and
 
 &emsp;&emsp;Any amounts in the reserve established for a State for a fiscal year under subparagraph (B) that are not obligated by April 1 of the fiscal year shall be available to the Secretary to make loans and loan guarantees under this section to eligible entities in any State, as determined by the Secretary.
 
-#### (<i>l</i>) Termination of authority
+#### (l) Termination of authority
 
 No loan or loan guarantee may be made under this section after September 30, 2012.
 
@@ -231,6 +231,8 @@ No loan or loan guarantee may be made under this section after September 30, 201
 The date of enactment of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (j), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
 #### Codification
+
+The authorities provided by each provision of, and each amendment made by, Pub. L. 110–246, as in effect on Sept. 30, 2012, to continue, and the Secretary of Agriculture to carry out the authorities, until the later of Sept. 30, 2013, or the date specified in the provision of, or amendment made by, Pub. L. 110–246, see section 701(a) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under section 8701 of this title.
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 

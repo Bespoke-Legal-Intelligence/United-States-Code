@@ -94,7 +94,7 @@ Pub. L. 111–383, div. A, title VII, §702(a)(2), Jan. 7, 2011, 124 Stat. 4245,
 
 <b>2009</b>—Pub. L. 111–84, div. A, title VII, §§705(b), 707(b), Oct. 28, 2009, 123 Stat. 2375, 2376, added items 1076e and 1110a.
 
-<b>2008</b>—Pub. L. 110–181, div. A, title XVI, §1617(b), Jan. 28, 2008, 122 Stat. 449, as amended by Pub. L. 110–417, \[div. A\], title X, §1061(b)(14), Oct. 14, 2008, 122 Stat. 4613, added item 1074<i>l</i>.
+<b>2008</b>—Pub. L. 110–181, div. A, title XVI, §1617(b), Jan. 28, 2008, 122 Stat. 449, as amended by Pub. L. 110–417, \[div. A\], title X, §1061(b)(14), Oct. 14, 2008, 122 Stat. 4613, added item 1074l.
 
 <b>2006</b>—Pub. L. 109–364, div. A, title VII, §707(b), Oct. 17, 2006, 120 Stat. 2284, added item 1097c.
 
@@ -122,7 +122,7 @@ Pub. L. 108–106, title I, §1115(b), Nov. 6, 2003, 117 Stat. 1218, added item 
 
 Pub. L. 104–106, div. A, title VII, §§705(a)(2), 735(d)(2), 738(b)(2), Feb. 10, 1996, 110 Stat. 373, 383, added item 1076b and substituted “Performance of abortions: restrictions” for “Restriction on use of funds for abortions” in item 1093 and “Defense Health Program Account” for “Military Health Care Account” in item 1100.
 
-<b>1993</b>—Pub. L. 103–160, div. A, title VII, §§701(a)(2), 712(a)(2), 714(b)(2), 716(a)(2), Nov. 30, 1993, 107 Stat. 1686, 1689, 1690, 1692, added item 1074d, substituted “Personal services contracts” for “Contracts for direct healthcare providers” in item 1091 and “Resource allocation methods: capitation or diagnosis-related groups” for “Diagnosis-related groups” in item 1101, added item 1105, and struck out former item 1105 “Issuance of nonavailability of health care statements”.
+<b>1993</b>—Pub. L. 103–160, div. A, title VII, §§701(a)(2), 712(a)(2), 714(b)(2), 716(a)(2), Nov. 30, 1993, 107 Stat. 1686, 1689, 1690, 1692, added item 1074d, substituted “Personal services contracts” for “Contracts for direct health care providers” in item 1091 and “Resource allocation methods: capitation or diagnosis-related groups” for “Diagnosis-related groups” in item 1101, added item 1105, and struck out former item 1105 “Issuance of nonavailability of health care statements”.
 
 <b>1992</b>—Pub. L. 102–484, div. D, title XLIV, §4408(a)(2), Oct. 23, 1992, 106 Stat. 2712, added item 1078a.
 
@@ -156,7 +156,7 @@ Pub. L. 99–272, title II, §2001(a)(2), Apr. 7, 1986, 100 Stat. 101, added ite
 
 <b>1970</b>—Pub. L. 91–481, §2(2), Oct. 21, 1970, 84 Stat. 1082, added item 1088.
 
-<b>1966</b>—Pub. L. 89–614, §2(9), Sept. 30, 1966, 80 Stat. 866, substituted “1087” for “1085” in items 1071 and 1073, “Medical care” and “authorized care in facilities of uniformed services” for “Medical and dental care” and “specific inclusions and exclusions” in item 1077, “Contracts for health care” for “Contracts for medical care for spouses and children” in item 1082, and added items 1086 and 1087.
+<b>1966</b>—Pub. L. 89–614, §2(9), Sept. 30, 1966, 80 Stat. 866, substituted “1087” for “1085” in items 1071 and 1073,“Medical care” and “authorized care in facilities of uniformed services” for “Medical and dental care” and “specific inclusions and exclusions” in item 1077, “Contracts for health care” for “Contracts for medical care for spouses and children” in item 1082, and added items 1086 and 1087.
 
 <b>1965</b>—Pub. L. 89–264, §2, Oct. 19, 1965, 79 Stat. 989, substituted “executive department” for “uniformed service” in item 1085.
 

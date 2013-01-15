@@ -70,7 +70,7 @@ Before initiating or continuing negotiations the subject matter of which is dire
 
 &emsp;&emsp;(B) how and to what extent the agreement will achieve the applicable purposes, policies, priorities, and objectives of this chapter; and
 
-&emsp;&emsp;(C) the implementation of the agreement under section 3805 of this title, including the general effect of the agreement on existing laws.
+&emsp;&emsp;(C) the implementation of the agreement under section 3805 of this title, including thegeneral effect of the agreement on existing laws.
 
 #### (3) Report regarding United States trade remedy laws
 
@@ -140,7 +140,7 @@ The report required under section 135(e)(1) of the Trade Act of 1974 \[19 U.S.C.
 
 #### References in Text
 
-The Tariff Act of 1930, referred to in subsec. (d)(3)(A)(i), is act June 17, 1930, ch. 497, 46 Stat. 590, as amended. Title VII of the Act is classified generally tosubtitle IV (§1671 et seq.) of chapter 4 of this title. For complete classification of this Act to the Code, see section 1654 of this title and Tables.
+The Tariff Act of 1930, referred to in subsec. (d)(3)(A)(i), is act June 17, 1930, ch. 497, 46 Stat. 590, as amended. Title VII of the Act is classified generally to subtitle IV (§1671 et seq.) of chapter 4 of this title. For complete classification of this Act to the Code, see section 1654 of this title and Tables.
 
 The Trade Act of 1974, referred to in subsec. (d)(3)(A)(i), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Chapter 1 of title II of the Act is classified generally to part 1 (§2251 et seq.) of subchapter II of chapter 12 of this title. For complete classification of this Act to the Code, see section 2101 of this title and Tables.
 

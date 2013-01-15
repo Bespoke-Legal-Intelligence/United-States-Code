@@ -14,7 +14,7 @@ As used in this subchapter:
 
 &emsp;(2) The terms “sequester” and “sequestration” refer to or mean the cancellation of budgetary resources provided by discretionary appropriations or direct spending law.
 
-&emsp;(3) The term “breach” means, for any fiscal year, the amount (if any) by which new budget authority or outlays for that year (within a category of discretionary appropriations) is above that category's discretionary spending limit for new budget authority or outlays for that year, as the case may be.
+&emsp;(3) The term “breach” means, for any fiscal year, the amount (if any) by which new budget authority or outlays for that year (within a category of discretionary appropriations) isabove that category's discretionary spending limit for new budget authority or outlays for that year, as the case may be.
 
 &emsp;(4)(A) The term “nonsecurity category” means all discretionary appropriations not included in the security category defined in subparagraph (B).
 
@@ -82,7 +82,7 @@ House Concurrent Resolution 84, referred to in subsec. (b), is H. Con. Res. 84, 
 
 The Balanced Budget Act of 1997, referred to in subsec. (c)(17), is Pub. L. 105–33, Aug. 5, 1997, 111 Stat. 251. For complete classification of this Act to the Code, see Tables.
 
-The Congressional Budget Act of 1974, referred to in subsec. (c)(19), is titles I through IX of Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended. Title V of the Act, known as the Federal Credit Reform Act of 1990, was added by Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–609, and is classified generally to subchapter III (§661 et seq.) of chapter 17A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
+The Congressional Budget Act of 1974, referred to in subsec. (c)(19), is titles I through IX of Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended. Title V of the Act, known as the Federal Credit Reform Act of 1990, was added by Pub. L. 101–508, title XIII, §13201(a), Nov.5, 1990, 104 Stat. 1388–609, and is classified generally to subchapter III (§661 et seq.) of chapter 17A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
 
 #### Codification
 
@@ -182,7 +182,7 @@ Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L.
 
 Pub. L. 103–66, title XIV, §14002(c)(3)(A), Aug. 10, 1993, 107 Stat. 684, which provided that, notwithstanding section 275(b) of Pub. L. 99–177, formerly set out below, sections 900, 901, 902, and 904 to 908 of this title were to expire on Sept. 30, 1998, was repealed by Pub. L. 105–33, title X, §10212(b), Aug. 5, 1997, 111 Stat. 712.
 
-Pub. L. 99–177, title II, §275, Dec. 12, 1985, 99 Stat. 1100, as amended by Pub. L. 100–119, title I, §106(c), title II, §210(b), Sept. 29, 1987, 101 Stat. 780, 787; Pub. L. 101–508, title XIII, §§13112(b), 13208(b), Nov. 5, 1990, 104 Stat. 1388–608, 1388–619; Pub. L. 105–33, title X, §10212(a), Aug. 5, 1997, 111 Stat. 712, which provided that, except as otherwise provided in section 275, amendments by title II of Pub. L. 99–177 were effective Dec. 12, 1985, and applicable to fiscal years beginning after Sept. 30, 1985; that amendment by section 201(a)(2) of Pub. L. 99–177\(amending section 622(2) of this title), and amendment by section 201(b) of Pub. L. 99–177 (insofar as it relates to section 633(c), (f), and (g) of this title and to section 641(c), (d), and (g) of this title), were effective Apr. 15, 1986; that amendment by section 212 of Pub. L. 99–177 (amending section 652 of this title) was effective Feb. 1, 1986; that sections 251, 253, 258B, and 271(b) of Pub. L. 99–177 (sections 901, 903, and 907c of this title and provisions set out as a note below), and sections 1105(f) and 1106(c) of title 31, United States Code, were to expire Sept. 30, 2002; that the remaining sections of part C of title II of Pub. L. 99–177 (enacting this subchapter) were to expire Sept. 30, 2006; and that amendments by part D of title II of Pub. L. 99–177 (amending section 911 of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under section 911 of Title 42) were applicable as provided in that part, was repealed by Pub. L. 112–25, title I, §104(a), Aug. 2, 2011, 125 Stat. 246.
+Pub. L. 99–177, title II, §275, Dec. 12, 1985, 99 Stat. 1100, as amended by Pub. L. 100–119, title I, §106(c), title II, §210(b), Sept. 29, 1987, 101 Stat. 780, 787; Pub. L. 101–508, title XIII, §§13112(b), 13208(b), Nov. 5, 1990, 104 Stat. 1388–608, 1388–619; Pub. L. 105–33, title X, §10212(a), Aug. 5, 1997, 111 Stat. 712, which provided that, except as otherwise provided in section 275, amendments by title II of Pub. L. 99–177 were effective Dec. 12, 1985, and applicable to fiscal years beginning after Sept. 30, 1985; that amendment by section 201(a)(2) of Pub. L. 99–177 (amending section 622(2) of this title), and amendment by section 201(b) of Pub. L. 99–177 (insofar as it relates to section 633(c), (f), and (g) of this title and to section 641(c), (d), and (g) of this title), were effective Apr. 15, 1986; that amendment by section 212 of Pub. L. 99–177 (amending section 652 of this title) was effective Feb. 1, 1986; that sections 251, 253, 258B, and 271(b) of Pub. L. 99–177 (sections 901, 903, and 907c of this title and provisions set out as a note below), and sections 1105(f) and 1106(c) of title 31, United States Code, were to expire Sept. 30, 2002; that the remaining sections of part C of title II of Pub. L. 99–177 (enacting this subchapter) were to expire Sept. 30, 2006; and that amendments by part D of title II of Pub. L. 99–177 (amending section 911 of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under section 911 of Title 42) were applicable as provided in that part, was repealed by Pub. L. 112–25, title I, §104(a), Aug. 2, 2011, 125 Stat. 246.
 
 #### Short Title of 2011 Amendment
 
@@ -198,7 +198,7 @@ Pub. L. 101–508, title XIII, §13001(a), Nov. 5, 1990, 104 Stat. 1388–573, p
 
 #### Short Title of 1987 Amendment
 
-Pub. L. 100–119, title I, §101(b), Sept. 29, 1987, 101 Stat. 754, provided that: “This title \[enacting section 908 of this title, amending sections 622, 632, 642, 901 to 907, and 922 of this title and section 1105 of Title 31, Money and Finance, enacting provisions set out as notes under section 1395ww of Title 42, The Public Health and Welfare, and amending provisions set out as notes under section 901 of this title and sections 1320b–8 and 1395ww of Title 42\] may be cited as the ‘Balanced Budget and Emergency Deficit Control Reaffirmation Act of 1987’.”
+Pub. L. 100–119, title I, §101(b), Sept. 29, 1987, 101 Stat. 754, provided that: “This title \[enacting section 908 of this title, amending sections 622, 632, 642, 901 to 907, and 922 of this title and section 1105 of Title 31, Money and Finance, enacting provisions set out as notes under section 1395ww of Title 42, The Public Health and Welfare, and amending provisions set out as notes under section901 of this title and sections 1320b–8 and 1395ww of Title 42\] may be cited as the ‘Balanced Budget and Emergency Deficit Control Reaffirmation Act of 1987’.”
 
 #### Short Title
 
@@ -270,7 +270,7 @@ In general.—Not later than November 23, 2011, the joint committee shall vote o
 
 &emsp;&emsp;&emsp;“(ii)
 
-Approval of report and legislative language.—The report of the joint committee andthe proposed legislative language described in clause (i) shall require the approval of a majority of the members of the joint committee.
+Approval of report and legislative language.—The report of the joint committee and the proposed legislative language described in clause (i) shall require the approval of a majority of the members of the joint committee.
 
 &emsp;&emsp;&emsp;“(iii)
 
@@ -322,7 +322,7 @@ Date.—Members of the joint committee shall be appointed not later than 14 cale
 
 &emsp;&emsp;“(E)
 
-Period of appointment.—Members shall be appointed for the life of the joint committee. Any vacancy in the joint committee shall not affect its powers, but shall be filled not later than 14 calendar days after the date on which the vacancy occurs, in the same manner as the original designation was made. If a member of the joint committee ceases to be a Member of the House of Representatives or the Senate, as the case may be, the member is no longer a member of the joint committee and a vacancy shall exist.
+Period of appointment.—Members shall be appointed for the life of the joint committee. Any vacancy in the joint committee shall not affect its powers, but shall be filled not later than 14 calendar days after the date on which the vacancy occurs, in the same manner as the original designation was made. If a member of the joint committee ceases to be a Member of the House of Representatives or theSenate, as the case may be, the member is no longer a member of the joint committee and a vacancy shall exist.
 
 &emsp;“(5)
 
@@ -524,7 +524,7 @@ Pub. L. 108–7, div. B, title II, §214, Feb. 20, 2003, 117 Stat. 82, provided 
 
 “(a) Hereafter, habitat conservation activities, enforcement and surveillance—cooperative enforcement and vessel monitoring, stock assessments—data collection, and highly migratory shark fishery research under the heading, ‘National Oceanic and Atmospheric Administration, Operations, Research and Facilities’, shall be considered to be within the ‘Coastal Assistance sub-category’ in \[former\] section 250(c)(4)(K) of the Balanced Budget and Emergency Deficit Control Act of 1985, as amended \[former 2 U.S.C. 900(c)(4)(K)\].
 
-“(b) For fiscal year 2004 and thereafter, response and restoration activities, Cooperative Research, Protected Species activities, Endangered Species Act—Marine Mammals, Sea Turtles and Other Species, Endangered Species Act—Right Whales, Marine Mammal Protection, and Sea Grant (except for the fellowship program) under the heading, ‘National Oceanic and Atmospheric Administration, Operations, Research, and Facilities’, shall be considered to be within the ‘Coastal Assistance sub-category’ in \[former\] section 250(c)(4)(K) of the Balanced Budget and Emergency Deficit Control Act of 1985, as amended \[former 2 U.S.C. 900(c)(4)(K)\].
+“(b) For fiscal year 2004 and thereafter, response and restoration activities, Cooperative Research, Protected Species activities, Endangered Species Act—Marine Mammals, Sea Turtles and Other Species, Endangered Species Act—Right Whales, Marine Mammal Protection, and Sea Grant (except for the fellowship program)under the heading, ‘National Oceanic and Atmospheric Administration, Operations, Research, and Facilities’, shall be considered to be within the ‘Coastal Assistance sub-category’ in \[former\] section 250(c)(4)(K) of the Balanced Budget and Emergency Deficit Control Act of 1985, as amended \[former 2 U.S.C. 900(c)(4)(K)\].
 
 “(c) All references to outlays in title VIII of Public Law 106–291 \[amending this section and section 901 of this title\] are repealed.”
 
@@ -534,7 +534,7 @@ Pub. L. 107–77, title II, Nov. 28, 2001, 115 Stat. 775.
 
 #### Purpose of Subtitle B of Title X of Pub. L. 105–33
 
-Section 10201 of title X of Pub. L. 105–33 provided that: “The purpose of this subtitle \[subtitle B (§§10201–10213) of title X of Pub. L. 105–33, amending this section, sections 901, 902, 904 to 907, and 922 of this title, section 1105 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealing sections 901a and 908 of this title and section 14212 of Title 42, enacting provisions set out as a note under section 902 of this title, and amending and repealing provisions set out as notes under this section\] is to extend discretionary spending limits and pay-as-you-go requirements.”
+Pub. L. 105–33, title X, §10201, Aug. 5, 1997, 111 Stat. 697, provided that: “The purpose of this subtitle \[subtitle B (§§10201–10213) of title X of Pub. L. 105–33, amending this section, sections 901, 902, 904 to 907, and 922 of this title, section 1105 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealing sections 901a and 908 of this title and section 14212 of Title 42, enacting provisions set out as a note under section 902 of this title, and amending and repealing provisions set out as notes under this section\] is to extend discretionary spending limits and pay-as-you-go requirements.”
 
 #### Restriction on Elimination or Reduction of Programs Relating to Energy and Water Development
 
@@ -556,19 +556,19 @@ Pub. L. 103–66, title XIV, §14004, Aug. 10, 1993, 107 Stat. 685, provided tha
 
 &emsp;“(2) with full recognition of the constitutional right of either House to change such rules (so far as relating to such House) at any time, in the same manner, and to the same extent as in the case of any other rule of such House.”
 
-Section 13305 of title XIII of Pub. L. 101–508 provided that: “This title and the amendments made by it \[see Short Title of 1990 Amendment note above\] are enacted by the Congress—
+Pub. L. 101–508, title XIII, §13305, Nov. 5, 1990, 104 Stat. 1388–627, provided that: “This title and the amendments made by it \[see Short Title of 1990 Amendment note above\] are enacted by the Congress—
 
 &emsp;“(1) as an exercise of the rulemaking power of the House of Representatives and the Senate, respectively, and as such they shall be considered as a part of the rules of each House, respectively, or of that House to which they specifically apply, and such rules shall supersede other rules only to the extent that they are inconsistent therewith; and
 
 &emsp;“(2) with full recognition of the constitutional right of either House to change such rules (so far as relating to such House) at any time, in the same manner, and to the same extent as in the case of any other rule of such House.”
 
-Section 213 of Pub. L. 100–119 provided that: “This Act and the amendments made by this Act \[enacting sections 908 and 909 of this title, amending sections 622, 632, 635, 636, 642, 683, 684, 687, 901 to 907, and 922 of this title and sections 1105 and 3101 of Title 31, Money and Finance, enacting provisions set out as notes under sections 602, 621, 686, and 901 of this title and section 1395ww of Title 42, The Public Health and Welfare, amending provisions set out as notes under section 901 of this title and sections 1320b–8 and 1395ww of Title 42, and repealing provisions set out as a note under section 653 of this title\], other than those relating to the activities of the executive and judicial branches of the Government, are enacted by Congress—
+Pub. L. 100–119, title II, §213, Sept. 29, 1987, 101 Stat. 787, provided that: “This Act and the amendments made by this Act \[enacting sections 908 and 909 of this title, amending sections 622, 632, 635, 636, 642, 683, 684, 687, 901 to 907, and 922 of this title and sections 1105 and 3101 of Title 31, Money and Finance, enacting provisions set out as notes under sections 602, 621, 686, and 901 of this title and section 1395ww of Title 42, The Public Health and Welfare, amending provisions set out as notes under section 901 of this title and sections 1320b–8 and 1395ww of Title 42, and repealing provisions set out as a note under section 653 of this title\], other than those relating to the activities of the executive and judicial branches of the Government, are enacted by Congress—
 
 &emsp;“(1) as an exercise of the rulemaking power of the House of Representatives and the Senate, respectively, and as such they shall be considered as part of the rules of each House, respectively, or of that House to which they specifically apply, and such rules shall supersede other rules only to the extent that they are inconsistent therewith; and
 
 &emsp;“(2) with full recognition of the constitutional right of either House to change such rules (so far as relating to such House) at any time, in the same manner and to the same extent as in the case of any other rule of such House.”
 
-Section 271(d), formerly section 271(c), of Pub. L. 99–177, as redesignated by Pub. L. 100–119, title II, §210(a), Sept. 29, 1987, 101 Stat. 787, provided that: “The provisions of this title \[see Short Title note above\], other than those relating to the activities of the executive and judicial branches of the Government, are enacted by the Congress—
+Pub. L. 99–177, title II, §271(d), formerly §271(c), Dec. 12, 1985, 99 Stat. 1094, as redesignated by Pub. L. 100–119, title II, §210(a), Sept. 29, 1987, 101 Stat. 787, provided that: “The provisions of this title \[see Short Title note above\], other than those relating to the activities of the executive and judicial branches of the Government, are enacted by the Congress—
 
 &emsp;“(1) as an exercise of the rulemaking power of the House of Representatives and the Senate, respectively, and as such they shall be considered as part of the rules of each House, respectively, or of that House to which they specifically apply, and such rules shall supersede other rules only to the extent that they are inconsistent therewith; and
 
@@ -576,7 +576,7 @@ Section 271(d), formerly section 271(c), of Pub. L. 99–177, as redesignated by
 
 #### Restoration of Trust Fund Investments; Funds Borrowed or Not Invested During Delays in Raising Public Debt Limit
 
-For provisions restoring various trust and retirement funds administered by the Secretary of the Treasury to the position in which they would have been if debt limit increases had been delayed, including transferring amounts to the funds to compensate those funds for current and prospective losses arising from premature redemption of some long term securities when the debt limit was reached, see notes set out under section 3101 of Title 31, Money and Finance.
+For provisions restoring various trust and retirement funds administered by the Secretary of the Treasury to the position in which they would have been if debt limit increases had been delayed, including transferring amounts to the funds to compensate those fundsfor current and prospective losses arising from premature redemption of some long term securities when the debt limit was reached, see notes set out under section 3101 of Title 31, Money and Finance.
 
 #### Executive Order No. 12857
 

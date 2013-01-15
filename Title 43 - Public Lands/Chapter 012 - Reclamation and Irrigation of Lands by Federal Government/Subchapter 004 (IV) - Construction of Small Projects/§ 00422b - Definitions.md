@@ -32,5 +32,5 @@ Subsec. (f). Pub. L. 94–181, §1(b), added subsec. (f).
 
 #### Retroactive Effect of 1966 Amendment
 
-Section 2 of Pub. L. 89–553 provided that: “Nothing contained in this Act \[amending this section and sections 422d, 422e, 422h, and 422j of this title\] shall be applicable to or affect in any way the terms on which any loan or grant has been made prior to the effective date of this Act \[Sept. 2, 1966\].”
+Pub. L. 89–553, §2, Sept. 2, 1966, 80 Stat. 377, provided that: “Nothing contained in this Act \[amending this section and sections 422d, 422e, 422h, and 422j of this title\] shall be applicable to or affect in any way the terms on which any loan or grant has been made prior to the effective date of this Act \[Sept. 2, 1966\].”
 

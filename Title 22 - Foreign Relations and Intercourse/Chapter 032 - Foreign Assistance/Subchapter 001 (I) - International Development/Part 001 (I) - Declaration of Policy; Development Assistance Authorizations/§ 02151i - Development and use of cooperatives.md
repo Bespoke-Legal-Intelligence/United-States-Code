@@ -18,7 +18,7 @@ In order to strengthen the participation of the rural and urban poor in their co
 
 &emsp;The promotion of community-based cooperatives which provide employment opportunities and important services such as health clinics, self-help shelter, environmental improvements, group-owned businesses, and other activities.
 
-(Pub. L. 87–195, pt. I, §111, as added Pub. L. 93–189, §2(3), Dec. 17, 1973, 87 Stat. 716; amended Pub. L. 94–161, title III, §308, Dec. 20, 1975, 89 Stat. 859; Pub. L. 95–88, title I, §107(a), Aug. 3, 1977, 91 Stat. 535; Pub. L. 96–53, title I, §122, Aug. 14, 1979, 93 Stat. 366; Pub. L. 106–309, title IV, §401(c)(2), Oct. 17, 2000, 114 Stat. 1097.)
+(Pub. L. 87–195, pt. I, §111, as added Pub. L. 93–189, §2(3), Dec. 17, 1973, 87 Stat. 716; amendedPub. L. 94–161, title III, §308, Dec. 20, 1975, 89 Stat. 859; Pub. L. 95–88, title I, §107(a), Aug. 3, 1977, 91 Stat. 535; Pub. L. 96–53, title I, §122, Aug. 14, 1979, 93 Stat. 366; Pub. L. 106–309, title IV, §401(c)(2), Oct. 17, 2000, 114 Stat. 1097.)
 
 #### References in Text
 
@@ -40,7 +40,7 @@ Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. 
 
 #### Effective Date of 1977 Amendment
 
-Section 107(b) of Pub. L. 95–88 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 1977.”
+Pub. L. 95–88, title I, §107(b), Aug. 3, 1977, 91 Stat. 536, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 1977.”
 
 #### Findings
 
@@ -78,5 +78,5 @@ Pub. L. 106–309, title IV, §401(c)(1), Oct. 17, 2000, 114 Stat. 1096, provide
 
 #### Report
 
-Pub. L. 106–309, title IV, §401(d), Oct. 17, 2000, 114 Stat. 1097, provided that: “Not later than 6 months after the date of the enactment of this Act \[Oct. 17, 2000\], the Administrator of the United States Agency for International Development, in consultation with the headsof other appropriate agencies, shall prepare and submit to Congress a report on the implementation of section 111 of the Foreign Assistance Act of 1961 (22 U.S.C. 2151i), as amended by subsection (c).”
+Pub. L. 106–309, title IV, §401(d), Oct. 17, 2000, 114 Stat. 1097, provided that: “Not later than 6 months after the date of the enactment of this Act \[Oct. 17, 2000\], the Administrator of the United States Agency for International Development, in consultation with the heads of other appropriate agencies, shall prepare and submit to Congress a report on the implementation of section 111 of the Foreign Assistance Act of 1961 (22 U.S.C. 2151i), as amended by subsection (c).”
 

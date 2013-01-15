@@ -24,9 +24,11 @@
 
 &emsp;&emsp;(ix) a decision concerning pay, benefits, or awards, or concerning education or training if the education or training may reasonably be expected to lead to an appointment, promotion, performance evaluation, or other action described in this subparagraph;
 
-&emsp;&emsp;(x) a decision to order psychiatric testing or examination; and
+&emsp;&emsp;(x) a decision to order psychiatric testing or examination;
 
-&emsp;&emsp;(xi) any other significant change in duties, responsibilities, or working conditions;
+&emsp;&emsp;(xi) the implementation or enforcement of any nondisclosure policy, form, or agreement; and
+
+&emsp;&emsp;(xii) any other significant change in duties, responsibilities, or working conditions;
 
 > &emsp;with respect to an employee in, or applicant for, a covered position in an agency, and in the case of an alleged prohibited personnel practice described in subsection (b)(8), an employee or applicant for employment in a Government corporation as defined in section 9101 of title 31;
 
@@ -34,15 +36,23 @@
 
 &emsp;&emsp;(i) excepted from the competitive service because of its confidential, policy-determining, policy-making, or policy-advocating character; or
 
-&emsp;&emsp;(ii) excluded from the coverage of this section by the President based on a determination by the President that it is necessary and warranted by conditions of good administration; and
+&emsp;&emsp;(ii) excluded from the coverage of this section by the President based on a determination by the President that it is necessary and warranted by conditions of good administration;
 
 &emsp;(C) “agency” means an Executive agency and the Government Printing Office, but does not include—
 
-&emsp;&emsp;(i) a Government corporation, except in the case of an alleged prohibited personnel practice described under subsection (b)(8);
+&emsp;&emsp;(i) a Government corporation, except in the case of an alleged prohibited personnel practice described under subsection (b)(8) or section 2302(b)(9)(A)(i), (B), (C), or (D);
 
-&emsp;&emsp;(ii) the Federal Bureau of Investigation, the Central Intelligence Agency, the Defense Intelligence Agency, the National Geospatial-Intelligence Agency, the National Security Agency, and, as determined by the President, any Executive agency or unit thereof the principal function of which is the conduct of foreign intelligence or counterintelligence activities; or
+&emsp;&emsp;(ii)(I) the Federal Bureau of Investigation, the Central Intelligence Agency, the Defense Intelligence Agency, the National Geospatial-Intelligence Agency, the National Security Agency, the Office of the Director of National Intelligence, and the National Reconnaissance Office; and
 
-&emsp;&emsp;(iii) the Government Accountability Office.
+&emsp;&emsp;(II) as determined by the President, any executive agency or unit thereof the principal function of which is the conduct of foreign intelligence or counterintelligence activities, provided that the determination be made prior to a personnel action; or
+
+&emsp;&emsp;(iii) the Government Accountability Office; and
+
+&emsp;(D) “disclosure” means a formal or informal communication or transmission, but does not include a communication concerning policy decisions that lawfully exercise discretionary authority unless the employee or applicant providing the disclosure reasonably believes that the disclosure evidences—
+
+&emsp;&emsp;(i) any violation of any law, rule, or regulation; or
+
+&emsp;&emsp;(ii) gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety.
 
 (b) Any employee who has authority to take, direct others to take, recommend, or approve any personnel action, shall not, with respect to such authority—
 
@@ -64,7 +74,7 @@
 
 &emsp;&emsp;(B) an evaluation of the character, loyalty, or suitability of such individual;
 
-&emsp;(3) coerce the political activity of any person (including the providing of any political contribution or service), or take any actionagainst any employee or applicant for employment as a reprisal for the refusal of any person to engage in such political activity;
+&emsp;(3) coerce the political activity of any person (including the providing of any political contribution or service), or take any action against any employee or applicant for employment as a reprisal for the refusal of any person to engage in such political activity;
 
 &emsp;(4) deceive or willfully obstruct any person with respect to such person's right to compete for employment;
 
@@ -78,7 +88,7 @@
 
 &emsp;&emsp;(A) any disclosure of information by an employee or applicant which the employee or applicant reasonably believes evidences—
 
-&emsp;&emsp;&emsp;(i) a violation of any law, rule, or regulation, or
+&emsp;&emsp;&emsp;(i) any violation of any law, rule, or regulation, or
 
 &emsp;&emsp;&emsp;(ii) gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety,
 
@@ -86,15 +96,19 @@
 
 &emsp;&emsp;(B) any disclosure to the Special Counsel, or to the Inspector General of an agency or another employee designated by the head of the agency to receive such disclosures, of information which the employee or applicant reasonably believes evidences—
 
-&emsp;&emsp;&emsp;(i) a violation of any law, rule, or regulation, or
+&emsp;&emsp;&emsp;(i) any violation (other than a violation of this section) of any law, rule, or regulation, or
 
 &emsp;&emsp;&emsp;(ii) gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety;
 
 &emsp;(9) take or fail to take, or threaten to take or fail to take, any personnel action against any employee or applicant for employment because of—
 
-&emsp;&emsp;(A) the exercise of any appeal, complaint, or grievance right granted by any law, rule, or regulation;
+&emsp;&emsp;(A) the exercise of any appeal, complaint, or grievance right granted by any law, rule, or regulation—
 
-&emsp;&emsp;(B) testifying for or otherwise lawfully assisting any individual in the exercise of any right referred to in subparagraph (A);
+&emsp;&emsp;&emsp;(i) with regard to remedying a violation of paragraph (8); or
+
+&emsp;&emsp;&emsp;(ii) other than with regard to remedying a violation of paragraph (8);
+
+&emsp;&emsp;(B) testifying for or otherwise lawfully assisting any individual in the exercise of any right referred to in subparagraph (A)(i) or (ii);
 
 &emsp;&emsp;(C) cooperating with or disclosing information to the Inspector General of an agency, or the Special Counsel, in accordance with applicable provisions of law; or
 
@@ -104,13 +118,15 @@
 
 &emsp;(11)(A) knowingly take, recommend, or approve any personnel action if the taking of such action would violate a veterans’ preference requirement; or
 
-&emsp;(B) knowingly fail to take, recommend, or approve any personnel action if the failure to take such action would violate a veterans’ preference requirement; or
+&emsp;(B) knowingly fail to take, recommend, or approve any personnel action if the failure to take such action would violate a veterans’ preference requirement;
 
-&emsp;(12) take or fail to take any other personnel action if the taking of or failure to take such action violates any law, rule, or regulation implementing, or directly concerning, the merit system principles contained in section 2301 of this title.
+&emsp;(12) take or fail to take any other personnel action if the taking of or failure to take such action violates any law, rule, or regulation implementing, or directly concerning, the merit system principles contained in section 2301 of this title; or
 
-> This subsection shall not be construed to authorize the withholding of information from the Congress or the taking of any personnel action against an employee who discloses information to the Congress.
+&emsp;(13) implement or enforce any nondisclosure policy, form, or agreement, if such policy, form, or agreement does not contain the following statement: “These provisions are consistent with and do not supersede, conflict with, or otherwise alter the employee obligations, rights, or liabilities created by existing statute or Executive order relating to (1) classified information, (2) communications to Congress, (3) the reporting to an Inspector General of a violation of any law, rule, or regulation, or mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety, or (4) any other whistleblower protection. The definitions, requirements, obligations, rights, sanctions, and liabilities created by controlling Executive orders and statutory provisions are incorporated into this agreement and are controlling.”.
 
-(c) The head of each agency shall be responsible for the prevention of prohibited personnel practices, for the compliance with and enforcement of applicable civil service laws, rules, and regulations, and other aspects of personnel management, and for ensuring (in consultation with the Office of Special Counsel) that agency employees are informed of the rights and remedies available to them under this chapter and chapter 12 of this title. Any individual to whom the head of an agency delegates authority for personnel management, or for any aspect thereof, shall be similarly responsible within the limits of the delegation.
+> This subsection shall not be construed to authorize the withholding of information from Congress or the taking of any personnel action against an employee who discloses information to Congress. For purposes of paragraph (8), (i) any presumption relating to the performance of a duty by an employee whose conduct is the subject of a disclosure as defined under subsection (a)(2)(D) may be rebutted by substantial evidence, and (ii) a determination as to whether an employee or applicant reasonably believes that such employee or applicant has disclosed information that evidences any violation of law, rule, regulation, gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety shall be made by determining whether a disinterested observer with knowledge of the essential facts known to and readily ascertainable by the employee or applicant could reasonably conclude that the actions of the Government evidence such violations, mismanagement, waste, abuse, or danger.
+
+(c) The head of each agency shall be responsible for the prevention of prohibited personnel practices, for the compliance with and enforcement of applicable civil service laws, rules, and regulations, and other aspects of personnel management, and for ensuring (in consultation with the Office of Special Counsel) that agency employees are informed of the rights and remedies available to them under this chapter and chapter 12 of this title, including how to make a lawful disclosure of information that is specifically required by law or Executive order to be kept classified in the interest of national defense or the conduct of foreign affairs to the Special Counsel, the Inspector General of an agency, Congress, or other agency employee designated to receive such disclosures. Any individual to whom the head of an agency delegates authority for personnel management, or for any aspect thereof, shall be similarly responsible within the limits of the delegation.
 
 (d) This section shall not be construed to extinguish or lessen any effort to achieve equal employment opportunity through affirmative action or any right or remedy available to any employee or applicant for employment in the civil service under—
 
@@ -144,7 +160,23 @@
 
 (2) Notwithstanding any other provision of this title, no authority to order corrective action shall be available in connection with a prohibited personnel practice described in subsection (b)(11). Nothing in this paragraph shall be considered to affect any authority under section 1215 (relating to disciplinary action).
 
-(Added Pub. L. 95–454, title I, §101(a), Oct. 13, 1978, 92 Stat. 1114; amended Pub. L. 101–12, §4, Apr. 10, 1989, 103 Stat. 32; Pub. L. 101–474, §5(d), Oct. 30, 1990, 104 Stat. 1099; Pub. L. 102–378, §2(5), Oct. 2, 1992, 106 Stat. 1346; Pub. L. 103–94, §8(c), Oct. 6, 1993, 107 Stat. 1007; Pub. L. 103–359, title V, §501(c), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 103–424, §5, Oct. 29, 1994, 108 Stat. 4363; Pub. L. 104–197, title III, §315(b)(2), Sept. 16, 1996, 110 Stat. 2416, Pub. L. 104–201, div. A, title XI, §1122(a)(1), title XVI, §1615(b), Sept. 23, 1996, 110 Stat. 2687, 2741; Pub. L. 105–339, §6(a), (b), (c)(2), Oct. 31, 1998, 112 Stat. 3187, 3188; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–417, \[div. A\], title IX, §931(a)(1), Oct. 14, 2008, 122 Stat. 4575.)
+(f)(1) A disclosure shall not be excluded from subsection (b)(8) because—
+
+&emsp;(A) the disclosure was made to a supervisor or to a person who participated in an activity that the employee or applicant reasonably believed to be covered by subsection (b)(8)(A)(i) and (ii);
+
+&emsp;(B) the disclosure revealed information that had been previously disclosed;
+
+&emsp;(C) of the employee's or applicant's motive for making the disclosure;
+
+&emsp;(D) the disclosure was not made in writing;
+
+&emsp;(E) the disclosure was made while the employee was off duty; or
+
+&emsp;(F) of the amount of time which has passed since the occurrence of the events described in the disclosure.
+
+(2) If a disclosure is made during the normal course of duties of an employee, the disclosure shall not be excluded from subsection (b)(8) if any employee who has authority to take, direct others to take, recommend, or approve any personnel action with respect to the employee making the disclosure, took, failed to take, or threatened to take or fail to take a personnel action with respect to that employee in reprisal for the disclosure.
+
+(Added Pub. L. 95–454, title I, §101(a), Oct. 13, 1978, 92 Stat. 1114; amended Pub. L. 101–12, §4, Apr. 10, 1989, 103 Stat. 32; Pub. L. 101–474, §5(d), Oct. 30, 1990, 104 Stat. 1099; Pub. L. 102–378, §2(5), Oct. 2, 1992, 106 Stat. 1346; Pub. L. 103–94, §8(c), Oct. 6, 1993, 107 Stat. 1007; Pub. L. 103–359, title V, §501(c), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 103–424, §5, Oct. 29, 1994, 108 Stat. 4363; Pub. L. 104–197, title III, §315(b)(2), Sept. 16, 1996, 110 Stat. 2416, Pub. L. 104–201, div. A, title XI, §1122(a)(1), title XVI, §1615(b), Sept. 23, 1996, 110 Stat. 2687, 2741; Pub. L. 105–339, §6(a), (b), (c)(2), Oct. 31, 1998, 112 Stat. 3187, 3188; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–417, \[div. A\], title IX, §931(a)(1), Oct. 14, 2008, 122 Stat. 4575; Pub. L. 112–199, title I, §§101(a), (b)(1)(B), (2)(B), (C), 102–104(b)(1), 105, 112, Nov. 27, 2012, 126 Stat. 1465–1468, 1472; Pub. L. 112–277, title V, §505(a), Jan. 14, 2013, 126 Stat. 2478.)
 
 #### References in Text
 
@@ -157,6 +189,36 @@ Section 106(f) of title 38, referred to in subsec. (e)(1)(E), was enacted subseq
 Section 7802(5) of title 38, referred to in subsec. (e)(1)(E), was redesignated section 7802(e) of title 38 by Pub. L. 108–170, title III, §304(b)(3), Dec. 6, 2003, 117 Stat. 2059.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (a)(2)(C)(ii). Pub. L. 112–277 added cl. (ii) and struck out former cl. (ii) which read as follows:
+
+“(I) the Federal Bureau of Investigation, the Central Intelligence Agency, the Defense Intelligence Agency, the National Geospatial-Intelligence Agency, the National Security Agency, the Office of the Director of National Intelligence, and the National Reconnaissance Office; and
+
+“(II) as determined by the President, any Executive agency or unit thereof the principal function of whichis the conduct of foreign intelligence or counterintelligence activities, provided that the determination be made prior to a personnel action; or”.
+
+<b>2012</b>—Subsec. (a)(2)(A)(xi), (xii). Pub. L. 112–199, §104(a), added cl. (xi) and redesignated former cl. (xi) as (xii).
+
+Subsec. (a)(2)(C)(i). Pub. L. 112–199, §101(b)(1)(B), inserted “or section 2302(b)(9)(A)(i), (B), (C), or (D)” after “(b)(8)”.
+
+Subsec. (a)(2)(C)(ii). Pub. L. 112–199, §105, added cl. (ii) and struck out former cl. (ii) which read as follows: “the Federal Bureau of Investigation, the Central Intelligence Agency, the Defense Intelligence Agency, the National Geospatial-Intelligence Agency, the National Security Agency, and, as determined by the President, any Executive agency or unit thereof the principal function of which is the conduct of foreign intelligence or counterintelligence activities; or”.
+
+Subsec. (a)(2)(D). Pub. L. 112–199, §102, added subpar. (D).
+
+Subsec. (b). Pub. L. 112–199, §103, amended concluding provisions generally. Prior to amendment, concluding provisions read as follows: “This subsection shall not be construed to authorize the withholding of information from the Congress or the taking of any personnel action against an employee who discloses information to the Congress.”
+
+Subsec. (b)(8)(A)(i). Pub. L. 112–199, §101(a)(1), substituted “any violation” for “a violation”.
+
+Subsec. (b)(8)(B)(i). Pub. L. 112–199, §101(a)(2), substituted “any violation (other than a violation of this section)” for “a violation”.
+
+Subsec. (b)(9)(A). Pub. L. 112–199, §101(b)(2)(B)(i), added subpar. (A) and struck out former subpar. (A) read as follows: “the exercise of any appeal, complaint, or grievance right granted by any law, rule, or regulation;”.
+
+Subsec. (b)(9)(B). Pub. L. 112–199, §101(b)(2)(B)(ii), inserted “(i) or (ii)” after “subparagraph (A)”.
+
+Subsec. (b)(13). Pub. L. 112–199, §104(b)(1), added par. (13).
+
+Subsec. (c). Pub. L. 112–199, §112, inserted “, including how to make a lawful disclosure of information that is specifically required by law or Executive order to be kept classified in the interest of national defense or the conduct of foreign affairs to the Special Counsel, the Inspector General of an agency, Congress, or other agency employee designated to receive such disclosures” after “chapter 12 of this title”.
+
+Subsec. (f). Pub. L. 112–199, §101(b)(2)(C), added subsec. (f).
 
 <b>2008</b>—Subsec. (a)(2)(C)(ii). Pub. L. 110–417 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
@@ -208,11 +270,15 @@ Subsec. (c). Pub. L. 103–424, §5(d), inserted before period at end of first s
 
 Subsec. (b)(9). Pub. L. 101–12, §4(b), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “take or fail to take any personnel action against any employee or applicant for employment as a reprisal for the exercise of any appeal right granted by any law, rule, or regulation;”.
 
-#### Effective Date of 1996 Amendments
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–199 effective 30 days after Nov. 27, 2012, see section 202 of Pub. L. 112–199, set out as a note under section 1204 of this title.
+
+#### Effective Date of 1996 Amendment
 
 Amendment by section 1122(a)(1) of Pub. L. 104–201 effective Oct. 1, 1996, see section 1124 of Pub. L. 104–201, set out as a note under section 193 of Title 10, Armed Forces.
 
-Section 315(c) of Pub. L. 104–197 provided that: “This section \[amending this section and section 3303 of this title\] shall take effect 30 days after the date of the enactment of this Act \[Sept. 16, 1996\].”
+Pub. L. 104–197, title III, §315(c), Sept. 16, 1996, 110 Stat. 2416, provided that: “This section \[amending this section and section 3303 of this title\] shall take effect 30 days after the date of the enactment of this Act \[Sept. 16, 1996\].”
 
 #### Effective Date of 1993 Amendment; Savings Provision
 
@@ -224,7 +290,113 @@ Amendment by Pub. L. 101–12 effective 90 days following Apr. 10, 1989, see sec
 
 #### Savings Provision
 
+Pub. L. 112–199, title II, §201, Nov. 27, 2012, 126 Stat. 1475, provided that: “Nothing in this Act \[see section 1 of Pub. L. 112–199, set out as a Short Title of 2012 Amendment note under section 101 of this title\] shall be construed to imply any limitation on any protections afforded by any other provision of law to employees and applicants.”
+
 Pub. L. 105–339, §6(d), Oct. 31, 1998, 112 Stat. 3188, provided that: “This section \[amending this section and repealing section 1599c of Title 10, Armed Forces\] shall be treated as if it had never been enacted for purposes of any personnel action (within the meaning of section 2302 of title 5, United States Code) preceding the date of enactment of this Act \[Oct. 31, 1998\].”
+
+#### Agency Websites
+
+Pub. L. 112–199, title I, §104(b)(2), Nov. 27, 2012, 126 Stat. 1467, provided that: “Agencies making use of any nondisclosure policy, form, or agreement shall also post the statement required under section 2302(b)(13) of title 5, United States Code (as added by this Act) on the agency website, accompanied by the specific list of controlling Executive orders and statutory provisions.”
+
+#### Nondisclosure Policy, Form, or Agreement in Effect Before the Effective Date
+
+Pub. L. 112–199, title I, §104(b)(3), Nov. 27, 2012, 126 Stat. 1467, provided that: “With respect to a nondisclosure policy, form, or agreement that was in effect before the effective date of this Act \[see Effective Date of 2012 Amendment note above\], but that does not contain the statement required under section 2302(b)(13) of title 5, United States Code (as added by this Act) for implementation or enforcement—
+
+&emsp;“(A) it shall not be a prohibited personnel practice to enforce that policy, form, or agreement with regard to a current employee if the agency gives such employee notice of the statement; and
+
+&emsp;“(B) it shall not be a prohibited personnel practice to enforce that policy, form, or agreement after the effective date of this Act with regard to a former employee if the agency complies with paragraph (2) of this subsection \[set out as a note above\].”
+
+#### Disclosure of Censorship Related to Research, Analysis, or Technical Information
+
+Pub. L. 112–199, title I, §110, Nov. 27, 2012, 126 Stat. 1471, provided that:
+
+“(a)
+
+Definitions.—In this subsection—
+
+&emsp;“(1) the term ‘agency’ has the meaning given under section 2302(a)(2)(C) of title 5, United States Code;
+
+&emsp;“(2) the term ‘applicant’ means an applicant for a covered position;
+
+&emsp;“(3) the term ‘censorship related to research, analysis, or technical information’ means any effort to distort, misrepresent, or suppress research, analysis, or technical information;
+
+&emsp;“(4) the term ‘covered position’ has the meaning given under section 2302(a)(2)(B) of title 5, United States Code;
+
+&emsp;“(5) the term ‘employee’ means an employee in a covered position in an agency; and
+
+&emsp;“(6) the term ‘disclosure’ has the meaning given under section 2302(a)(2)(D) of title 5, United States Code.
+
+“(b)
+
+Protected Disclosure.—
+
+&emsp;“(1)
+
+In general.—Any disclosure of information by an employee or applicant for employment that the employee or applicant reasonably believes is evidence of censorship related to research, analysis, or technical information—
+
+&emsp;&emsp;“(A) shall come within the protections of section 2302(b)(8)(A) of title 5, United States Code, if—
+
+&emsp;&emsp;&emsp;“(i) the employee or applicant reasonably believes that the censorship related to research, analysis, or technical information is or will cause—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) any violation of law, rule, or regulation; or
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety; and
+
+&emsp;&emsp;&emsp;“(ii) such disclosure is not specifically prohibited by law or such information is not specifically required by Executive order to be kept classified in the interest of national defense or the conduct of foreign affairs; and
+
+&emsp;&emsp;“(B) shall come within the protections of section 2302(b)(8)(B) of title 5, United States Code, if—
+
+&emsp;&emsp;&emsp;“(i) the employee or applicant reasonably believes that the censorship related to research, analysis, or technical information is or will cause—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) any violation of law, rule, or regulation; or
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety; and
+
+&emsp;&emsp;&emsp;“(ii) the disclosure is made to the Special Counsel, or to the Inspector General of an agency or another person designated by the head of the agency to receive such disclosures, consistent with the protection of sources and methods.
+
+&emsp;“(2)
+
+Disclosures not excluded.—A disclosure shall not be excluded from paragraph (1) for any reason described under section 2302(f)(1) or (2) of title 5, United States Code.
+
+&emsp;“(3)
+
+Rule of construction.—Nothing in this section shall be construed to imply any limitation on the protections of employees and applicants afforded by any other provision of law, including protections with respect to any disclosure of information believed to be evidence of censorship related to research, analysis, or technical information.”
+
+#### Nondisclosure Policies, Forms, and Agreements
+
+Pub. L. 112–199, title I, §115, Nov. 27, 2012, 126 Stat. 1472, provided that:
+
+“(a)
+
+In General.—
+
+&emsp;“(1)
+
+Requirement.—Each agreement in Standard Forms 312 and 4414 of the Government and any other nondisclosure policy, form, or agreement of the Government shall contain the following statement: ‘These provisions are consistent with and do not supersede, conflict with, or otherwise alter the employee obligations, rights, or liabilities created by existing statute or Executive order relating to (1) classified information, (2) communications to Congress, (3) the reporting to an Inspector General of a violation of any law, rule, or regulation, or mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety, or (4) any other whistleblower protection. The definitions, requirements, obligations, rights, sanctions, and liabilities created by controlling Executive orders and statutory provisions are incorporated into this agreement and are controlling.’.
+
+&emsp;“(2)
+
+Agency websites.—Agencies making use of any nondisclosure policy, form, or agreement shall also post the statement required under paragraph (1) on the agency website, accompanied by the specific list of controlling Executive orders and statutory provisions.
+
+&emsp;“(3)
+
+Enforceability.—
+
+&emsp;&emsp;“(A)
+
+In general.—Any nondisclosure policy, form, or agreement described under paragraph (1) that does not contain the statement required under paragraph (1) may not be implemented or enforced to the extent such policy, form, or agreement is inconsistent with that statement.
+
+&emsp;&emsp;“(B)
+
+Nondisclosure policy, form, or agreement in effect before the effective date.—With respect to a nondisclosure policy, form, or agreement that was in effect before the effective date of this Act \[see Effective Date of 2012 Amendment note above\], but that does not contain the statement required under paragraph (1) for implementation or enforcement—
+
+&emsp;&emsp;&emsp;“(i) it shall not be a prohibited personnel practice to enforce that policy, form, or agreement with regard to a current employee if the agency gives such employee notice of the statement; and
+
+&emsp;&emsp;&emsp;“(ii) it shall not be a prohibited personnel practice to enforce that policy, form, or agreement after the effective date of this Act with regard to a former employee if the agency complies with paragraph (2).
+
+“(b)
+
+Persons Other Than Government Employees.—Notwithstanding subsection (a), a nondisclosure policy, form, or agreement that is to be executed by a person connected with the conduct of an intelligence or intelligence-related activity, other than an employee or officer of the United States Government, may contain provisions appropriate to the particular activity for which such document is to be used. Such policy, form, or agreement shall, at a minimum, require that the person will not disclose any classified information received in the course of such activity unless specifically authorized to do so by the United States Government. Such nondisclosure policy, form, or agreement shall also make it clear that such forms do not bar disclosures to Congress or to an authorized official of an executive agency or the Department of Justice that are essential to reporting a substantial violation of law, consistent with the protection of sources and methods.”
 
 #### Federal Benefits and Non-Discrimination
 
@@ -262,7 +434,7 @@ Memorandum of President of the United States, June 2, 2010, 75 F.R. 32247, provi
 
 Memorandum for the Heads of Executive Departments and Agencies
 
-For far too long, many of our Government's hard-working, dedicated LGBT employees have been deniedequal access to the basic rights and benefits their colleagues enjoy. This kind of systemic inequality undermines the health, well-being, and security not just of our Federal workforce, but also of their families and communities. That is why, last June, I directed the heads of executive departments and agencies (agencies), in consultation with the Office of Personnel Management (OPM), to conduct a thorough review of the benefits they provide and to identify any that could be extended to LGBT employees and their partners and families. Although legislative action is necessary to provide full equality to LGBT Federal employees, the agencies have identified a number of benefits that can be extended under existing law. OPM, in consultation with the Department of Justice, has provided me with a report recommending that all of the identified benefits be extended.
+For far too long, many of our Government's hard-working, dedicated LGBT employees have been denied equal access to the basic rights and benefits their colleagues enjoy. This kind of systemic inequality undermines the health, well-being, and security not just of our Federal workforce, but also of their families and communities. That is why, last June, I directed the heads of executive departments and agencies (agencies), in consultation with the Office of Personnel Management (OPM), to conduct a thorough review of the benefits they provide and to identify any that could be extended to LGBT employees and their partners and families. Although legislative action is necessary to provide full equality to LGBT Federal employees, the agencies have identified a number of benefits that can be extended under existing law. OPM, in consultation with the Department of Justice, has provided me with a report recommending that all of the identified benefits be extended.
 
 Accordingly, I hereby direct the following:
 

@@ -76,7 +76,7 @@ The International Convention for the Prevention of Pollution from Ships, 1973, a
 
 &emsp;At the request of a shipowner, the Administration may allow a ship of less than 400 tons gross tonnage (measured under the previous national tonnage rules) the keel of which is laid on or before 31 December 1985 and which is required to be measured under the provisions of the International Convention on Tonnage Measurement of Ships, 1969, to use the gross tonnage measured under the national tonnage rules which were in effect prior to the coming into force of the 1969 Tonnage Convention, for the purpose of application of the provisions of MARPOL 73/78. Such tonnage, however, shall not be shown on the 1969 Tonnage Certificate.
 
-It further provides that “the interim scheme shall not apply to ships the keels of which are laid after 31 December 1985, except that in respect of regulations for ships of less than 400 tons gross tonnage (as measured under previous national rules), the keels of which are laid after 31 December 1985, the Administration may continue to apply the interim scheme until 18 July 1994.”
+It further provides that “the interim scheme shall not apply to ships the keels of which are laid after 31 December 1985, except that in respect of regulations for ships of less than 400 tons gross tonnage (as measured under previous national rules), the keels of which arelaid after 31 December 1985, the Administration may continue to apply the interim scheme until 18 July 1994.”
 
 Clause (14) provides that the regulatory measurement system may be used to determine which vessels must demonstrate evidence of financial responsibility (when such a demonstration is required by law). If it is determined that a vessel must show evidence of financial responsibility, the limits of financial responsibility are determined using the vessel's Convention measurement.
 
@@ -88,7 +88,7 @@ Section 14305(b) provides that if a vessel is measured under the regulatory tonn
 
 Section 4 of the Bridge to Bridge Radiotelephone Act (33 U.S.C. 1203(a)), referred to in subsec. (a)(3), probably means section 4(a) of the Vessel Bridge-to-Bridge Radiotelephone Act, which is classified to section 1203(a) of Title 33, Navigation and Navigable Waters.
 
-Sections 351, 352, 355, and 356 of the Ship Radio Act (47 U.S.C. 351, 352, 354, and 354a), referred to in subsec. (a)(8), probably means sections 351, 352, 355, and 356 of the Communications Act of 1934, June 19, 1934, ch. 652, 48 Stat. 1064, as amended, which are classified to sections 351, 352, 354, and 354a, respectively, of Title 47, Telegraphs, Telephones, and Radiotelegraphs.
+Sections 351, 352, 355, and 356 of the Ship Radio Act (47 U.S.C. 351, 352, 354, and 354a), referred to in subsec. (a)(8), probably means sections 351, 352, 355, and 356 of the Communications Act of 1934, June 19, 1934, ch. 652, 48 Stat. 1064, as amended, which are classified to sections 351, 352, 354, and 354a, respectively, of Title 47, Telecommunications.
 
 The Officers’ Competency Certificates Convention, 1936, referred to in subsec. (a)(10), is set out in 54 Stat. Pt. 2, p. 1683.
 

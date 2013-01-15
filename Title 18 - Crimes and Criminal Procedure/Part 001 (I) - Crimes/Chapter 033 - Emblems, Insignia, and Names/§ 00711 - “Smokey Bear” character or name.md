@@ -2,7 +2,7 @@
 
 Whoever, except as authorized under rules and regulations issued by the Secretary of Agriculture after consultation with the Association of State Foresters and the Advertising Council, knowingly and for profit manufactures, reproduces, or uses the character “Smokey Bear”, originated by the Forest Service, United States Department of Agriculture, in cooperation with the Association of State Foresters and the Advertising Council for use in public information concerning the prevention of forest fires, or any facsimile thereof, or the name “Smokey Bear” shall be fined under this title or imprisoned not more than six months, or both.
 
-(Added May 23, 1952, ch. 327, §1, 66 Stat. 92; amended Pub. L. 93–318, §5, June 22, 1974, 88 Stat.245; Pub. L. 103–322, title XXXIII, §§330004(4), 330016(1)(E), Sept. 13, 1994, 108 Stat. 2141, 2146.)
+(Added May 23, 1952, ch. 327, §1, 66 Stat. 92; amended Pub. L. 93–318, §5, June 22, 1974, 88 Stat. 245; Pub. L. 103–322, title XXXIII, §§330004(4), 330016(1)(E), Sept. 13, 1994, 108 Stat. 2141, 2146.)
 
 #### Amendments
 

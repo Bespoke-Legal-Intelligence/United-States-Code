@@ -39,6 +39,7 @@
 | [3330a.](Subchapter%20001%20%28I%29%20-%20Examination%2C%20Certification%2C%20and%20Appointment/%C2%A7%2003330a%20-%20Preference%20eligibles%3B%20administrative%20redress.md) | Preference eligibles; administrative redress. |
 | [3330b.](Subchapter%20001%20%28I%29%20-%20Examination%2C%20Certification%2C%20and%20Appointment/%C2%A7%2003330b%20-%20Preference%20eligibles%3B%20judicial%20redress.md) | Preference eligibles; judicial redress. |
 | [3330c.](Subchapter%20001%20%28I%29%20-%20Examination%2C%20Certification%2C%20and%20Appointment/%C2%A7%2003330c%20-%20Preference%20eligibles%3B%20remedy.md) | Preference eligibles; remedy. |
+| [3330d.](Subchapter%20001%20%28I%29%20-%20Examination%2C%20Certification%2C%20and%20Appointment/%C2%A7%2003330d%20-%20Appointment%20of%20certain%20military%20spouses.md) | Appointment of certain military spouses. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -138,6 +139,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2013</b>—Pub. L. 112–239, div. A, title V, §566(c), Jan. 2, 2013, 126 Stat. 1751, added item 3330d.
 
 <b>2002</b>—Pub. L. 107–296, title XIII, §§1312(b), 1321(a)(1)(C), Nov. 25, 2002, 116 Stat. 2291, 2296, added item 3319 and struck out item 3393a “Recertification”.
 

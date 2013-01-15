@@ -32,7 +32,7 @@
 
 (3) The period for which, by reason of this subsection, a subsistence allowance and other assistance is not charged against entitlement or counted toward the applicable aggregate period under section 3695 of this title shall be the period of participation in the vocational rehabilitation program for which the veteran failed to receive credit or with respect to which the veteran lost training time, as determined by the Secretary.
 
-(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2176, §1505; amended Pub. L. 99–576, title III, §333(b)(3), Oct. 28, 1986, 100 Stat. 3279; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3105 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–275, title I, §101(e), Oct. 9, 1996, 110 Stat. 3324; Pub. L. 107–103, title I, §103(c)(1), Dec. 27, 2001, 115 Stat. 979; Pub. L. 110–389, title III, §331, Oct. 10, 2008, 122 Stat. 4170; Pub. L. 112–56, title II, §233(a)(2), Nov. 21, 2011, 125 Stat. 720.)
+(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2176, §1505; amended Pub. L. 99–576, title III, §333(b)(3), Oct. 28, 1986, 100 Stat. 3279; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18,1989, 103 Stat. 2092; renumbered §3105 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–275, title I, §101(e), Oct. 9, 1996, 110 Stat. 3324; Pub. L. 107–103, title I, §103(c)(1), Dec. 27, 2001, 115 Stat. 979; Pub. L. 110–389, title III, §331, Oct. 10, 2008, 122 Stat. 4170; Pub. L. 112–56, title II, §233(a)(2), Nov. 21, 2011, 125 Stat. 720.)
 
 #### Prior Provisions
 
@@ -40,7 +40,7 @@ Prior section 3105 was renumbered section 5305 of this title.
 
 #### Amendments
 
-<b>2011</b>—Subsec. (b). Pub. L. 112–56 designated existing provisions as par. (1), substituted “Except as providedin paragraph (2) and in subsection (c)” for “Except as provided in subsection (c) of this section”, and added par. (2).
+<b>2011</b>—Subsec. (b). Pub. L. 112–56 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2) and in subsection (c)” for “Except as provided in subsection (c) of this section”, and added par. (2).
 
 <b>2008</b>—Subsec. (d). Pub. L. 110–389 substituted “(1) Except as provided in paragraph (2),” for “Unless the Secretary determines that a longer period is necessary and likely to result in a substantial increase in a veteran's level of independence in daily living,” and added par. (2).
 

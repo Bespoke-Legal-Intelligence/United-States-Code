@@ -40,5 +40,5 @@ Any person who—
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–248 applicable to offenses committed after Sept. 3, 1982, see section 329(e) of Pub.L. 97–248, set out as a note under section 7201 of this title.
+Amendment by Pub. L. 97–248 applicable to offenses committed after Sept. 3, 1982, see section 329(e) of Pub. L. 97–248, set out as a note under section 7201 of this title.
 

@@ -1,6 +1,4 @@
 
-4 U.S.C.<br>United States Code, 2011 Edition<br>Title 4 - FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES<br>From the U.S. Government Publishing Office, www.gpo.gov
-
 # TITLE 4—FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES
 
 <i>This title was enacted by act July 30, 1947, ch. 389, §1, 61 Stat. 641</i>

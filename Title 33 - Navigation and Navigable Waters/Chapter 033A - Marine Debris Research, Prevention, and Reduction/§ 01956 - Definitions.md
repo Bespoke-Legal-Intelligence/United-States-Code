@@ -8,29 +8,25 @@ In this chapter:
 
 #### (2) Interagency Committee
 
-&emsp;The term “Interagency Committee” means the Interagency Marine Debris Coordinating Committee established under section 1914 of this title.
+&emsp;The term “Interagency Committee” means the Interagency Marine Debris Coordinating Committee established under section 1954 of this title.
 
-#### (3) United States exclusive economic zone
+#### (3) Marine debris
 
-&emsp;The term “United States exclusive economic zone” means the zone established by Presidential Proclamation Numbered 5030, dated March 10, 1983, including the ocean waters of the areas referred to as “eastern special areas” in article 3(1) of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990.
+&emsp;The term “marine debris” means any persistent solid material that is manufactured orprocessed and directly or indirectly, intentionally or unintentionally, disposed of or abandoned into the marine environment or the Great Lakes.
 
 #### (4) MARPOL; Annex V; Convention
 
 &emsp;The terms “MARPOL”, “Annex V”, and “Convention” have the meaning given those terms under section 1901(a) of this title.
 
-#### (5) Navigable waters
+#### (5) Program
 
-&emsp;The term “navigable waters” means waters of the United States, including the territorial sea.
+&emsp;The term “Program” means the Marine Debris Program established under section 1952 of this title.
 
-#### (6) Territorial sea
+#### (6) Severe marine debris event
 
-&emsp;The term “territorial sea” means the waters of the United States referred to in Presidential Proclamation No. 5928, dated December 27, 1988.
+&emsp;The term “severe marine debris event” means atypically large amounts of marine debris caused by a natural disaster, including a tsunami, flood, landslide, or hurricane, or other source.
 
-#### (7) Program
-
-&emsp;The term “Program” means the Marine Debris Prevention and Removal Program established under section 1952 of this title.
-
-#### (8) State
+#### (7) State
 
 &emsp;The term “State” means—
 
@@ -42,13 +38,17 @@ In this chapter:
 
 &emsp;&emsp;(D) any other territory or possession of the United States, or separate sovereign in free association with the United States, that is impacted by marine debris within its seaward boundaries.
 
-(Pub. L. 109–449, §7, Dec. 22, 2006, 120 Stat. 3338.)
+(Pub. L. 109–449, §7, Dec. 22, 2006, 120 Stat. 3338; Pub. L. 112–213, title VI, §608, Dec. 20, 2012, 126 Stat. 1578.)
 
-#### References in Text
+#### Amendments
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 109–449, Dec. 22, 2006, 120 Stat. 3333, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1951 of this title and Tables.
+<b>2012</b>—Par. (2). Pub. L. 112–213, §608(1), substituted “section 1954 of this title” for “section 1914 of this title”.
 
-Presidential Proclamation Numbered 5030, referred to in par. (3), is set out as a note under section 1453 of Title 16, Conservation.
+Par. (3). Pub. L. 112–213, §608(2), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “The term ‘United States exclusive economic zone’ means the zone established by Presidential Proclamation Numbered 5030, dated March 10, 1983, including the ocean waters of the areas referred to as ‘eastern special areas’ in article 3(1) of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990.”
 
-Presidential Proclamation No. 5928, referred to in par. (6), is set out as a note under section 1331 of Title 43, Public Lands.
+Par. (5). Pub. L. 112–213, §608(3)–(5), redesignated par. (7) as (5), struck out “Prevention and Removal” before “Program”, and struck out former par. (5). Prior to amendment, text of par. (5) read as follows: “The term ‘navigable waters’ means waters of the United States, including the territorial sea.”
+
+Par. (6). Pub. L. 112–213, §608(6), added par. (6) and struck out former par. (6). Prior to amendment, text read as follows: “The term ‘territorial sea’ means the waters of the United States referred to in Presidential Proclamation No. 5928, dated December 27, 1988.”
+
+Pars. (7), (8). Pub. L. 112–213, §608(7), redesignated par. (8) as (7). Former par. (7) redesignated (5).
 

@@ -2,7 +2,7 @@
 
 #### (a) Air pollutant list; publication and revision by Administrator; issuance of air quality criteria for air pollutants
 
-(1) For the purpose of establishing national primary and secondary ambient air quality standards, the Administrator shall within 30 days after December 31, 1970, publish, and shall from time to time thereafter revise, a list which includes each air pollutant—
+(1) For the purpose of establishing national primary and secondary ambient air qualitystandards, the Administrator shall within 30 days after December 31, 1970, publish, and shall from time to time thereafter revise, a list which includes each air pollutant—
 
 &emsp;(A) emissions of which, in his judgment, cause or contribute to air pollution which may reasonably be anticipated to endanger public health or welfare;
 
@@ -12,7 +12,7 @@
 
 (2) The Administrator shall issue air quality criteria for an air pollutant within 12 months after he has included such pollutant in a list under paragraph (1). Air quality criteria for an air pollutant shall accurately reflect the latest scientific knowledge useful in indicating the kind and extent of all identifiable effects on public health or welfare which may be expected from the presence of such pollutant in the ambient air, in varying quantities. The criteria for an air pollutant, to the extent practicable, shall include information on—
 
-&emsp;(A) those variable factors (including atmospheric conditions) which of themselves or incombination with other factors may alter the effects on public health or welfare of such air pollutant;
+&emsp;(A) those variable factors (including atmospheric conditions) which of themselves or in combination with other factors may alter the effects on public health or welfare of such air pollutant;
 
 &emsp;(B) the types of air pollutants which, when present in the atmosphere, may interact with such pollutant to produce an adverse effect on public health or welfare; and
 
@@ -106,7 +106,7 @@ The Administrator may assess the risks to ecosystems from exposure to criteria a
 
 The Administrator shall make information regarding emission control technology available to the States and to the general public through a central database. Such information shall include all control technology information received pursuant to State plan provisions requiring permits for sources, including operating permits for existing sources.
 
-(July 14, 1955, ch. 360, title I, §108, as added Pub. L. 91–604, §4(a), Dec. 31, 1970, 84 Stat. 1678; amended Pub. L. 95–95, title I, §§104, 105, title IV, §401(a), Aug. 7, 1977, 91 Stat. 689, 790; Pub. L. 101–549, title I, §§108(a)–(c), (<i>o</i>), 111, Nov. 15, 1990, 104 Stat. 2465, 2466, 2469, 2470; Pub. L. 105–362, title XV, §1501(b), Nov. 10, 1998, 112 Stat. 3294.)
+(July 14, 1955, ch. 360, title I, §108, as added Pub. L. 91–604, §4(a), Dec. 31, 1970, 84 Stat. 1678; amended Pub. L. 95–95, title I, §§104, 105, title IV, §401(a), Aug. 7, 1977, 91 Stat. 689, 790; Pub. L. 101–549, title I, §§108(a)–(c), (o), 111, Nov. 15, 1990, 104 Stat. 2465, 2466, 2469, 2470; Pub. L. 105–362, title XV, §1501(b), Nov. 10, 1998, 112 Stat. 3294.)
 
 #### Codification
 
@@ -122,7 +122,7 @@ A prior section 108 of act July 14, 1955, was renumbered section 115 by Pub. L. 
 
 <b>1998</b>—Subsec. (f)(3), (4). Pub. L. 105–362 struck out par. (3), which required reports by the Secretary of Transportation and the Administrator to be submitted to Congress by Jan. 1, 1993, and every 3 years thereafter, reviewing and analyzing existing State and local air quality related transportation programs, evaluating achievement of goals, and recommending changes to existing programs, and par. (4), which required that in each report after the first report the Secretary of Transportation include a description of the actions taken to implement the changes recommended in the preceding report.
 
-<b>1990</b>—Subsec. (e). Pub. L. 101–549, §108(a), inserted first sentence and struck out former first sentence which read as follows: “The Administrator shall, after consultation with the Secretary of Transportation and the Secretary of Housing and Urban Development and State and local officials and within 180 days after August 7, 1977, and from time to time thereafter, publish guidelines on the basic program elements for the planning process assisted under section 7505 of this title.”
+<b>1990</b>—Subsec. (e). Pub. L. 101–549, §108(a), inserted first sentence and struck out former first sentencewhich read as follows: “The Administrator shall, after consultation with the Secretary of Transportation and the Secretary of Housing and Urban Development and State and local officials and within 180 days after August 7, 1977, and from time to time thereafter, publish guidelines on the basic program elements for the planning process assisted under section 7505 of this title.”
 
 Subsec. (f)(1). Pub. L. 101–549, §108(b), in introductory provisions, substituted present provisions for provisions relating to Federal agencies, States, and air pollution control agencies within either 6 months or one year after Aug. 7, 1977.
 
@@ -130,7 +130,7 @@ Subsec. (f)(1)(A). Pub. L. 101–549, §108(b), substituted present provisions f
 
 Subsec. (f)(3), (4). Pub. L. 101–549, §111, added pars. (3) and (4).
 
-Subsec. (g). Pub. L. 101–549, §108(<i>o</i>), added subsec. (g).
+Subsec. (g). Pub. L. 101–549, §108(o), added subsec. (g).
 
 Subsec. (h). Pub. L. 101–549, §108(c), added subsec. (h).
 
@@ -138,7 +138,7 @@ Subsec. (h). Pub. L. 101–549, §108(c), added subsec. (h).
 
 Subsec. (b)(1). Pub. L. 95–95, §104(a), substituted “cost of installation and operation, energy requirements, emission reduction benefits, and environmental impact of the emission control technology” for “technology and costs of emission control”.
 
-Subsec. (c). Pub. L. 95–95, §104(b), inserted provision directing the Administrator, not later than six monthsafter Aug. 7, 1977, to revise and reissue criteria relating to concentrations of NO<b>2</b> over such period (not more than three hours) as he deems appropriate, with the criteria to include a discussion of nitric and nitrous acids, nitrites, nitrates, nitrosamines, and other carcinogenic and potentially carcinogenic derivatives of oxides of nitrogen.
+Subsec. (c). Pub. L. 95–95, §104(b), inserted provision directing the Administrator, not later than six months after Aug. 7, 1977, to revise and reissue criteria relating to concentrations of NO<b>2</b> over such period (not more than three hours) as he deems appropriate, with the criteria to include a discussion of nitric and nitrous acids, nitrites, nitrates, nitrosamines, and other carcinogenic and potentially carcinogenic derivatives of oxides of nitrogen.
 
 Subsecs. (e), (f). Pub. L. 95–95, §105, added subsecs. (e) and (f).
 

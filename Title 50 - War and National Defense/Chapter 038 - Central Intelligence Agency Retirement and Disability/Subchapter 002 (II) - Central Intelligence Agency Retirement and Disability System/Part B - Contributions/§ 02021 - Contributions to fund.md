@@ -2,27 +2,53 @@
 
 #### (a) In general
 
-#### (1) Participant's contributions
+#### (1) Definition
 
-&emsp;Except as provided in subsection (d) of this section, 7 percent of the basic pay received by a participant for any pay period shall be deducted and withheld from the pay of that participant and contributed to the fund.
+&emsp;In this subsection, the term “revised annuity participant” means an individual who—
 
-#### (2) Agency contributions
+&emsp;&emsp;(A) on December 31, 2012—
 
-&emsp;An equal amount shall be contributed to the fund for that pay period from the appropriation or fund which is used for payment of the participant's basic pay.
+&emsp;&emsp;&emsp;(i) is not a participant;
 
-#### (3) Deposits to the fund
+&emsp;&emsp;&emsp;(ii) is not performing qualifying service; and
+
+&emsp;&emsp;&emsp;(iii) has less than 5 years of qualifying service; and
+
+&emsp;&emsp;(B) after December 31, 2012, becomes a participant performing qualifying service.
+
+#### (2) Contributions
+
+#### (A) In general
+
+&emsp;&emsp;Except as provided in subsection (d), 7 percent of the basic pay received by a participant other than a revised annuity participant for any pay period shall be deducted and withheld from the pay of that participant and contributed to the fund.
+
+#### (B) Revised annuity participants
+
+&emsp;&emsp;Except as provided in subsection (d), 9.3 percent of the basic pay received by a revised annuity participant for any pay period shall be deducted and withheld from the pay of that revised annuity participant and contributed to the fund.
+
+#### (3) Agency contributions
+
+#### (A) In general
+
+&emsp;&emsp;An amount equal to 7 percent of the basic pay received by a participant other than a revised annuity participant shall be contributed to the fund for a pay period for the participant from the appropriation or fund which is used for payment of the participant's basic pay.
+
+#### (B) Revised annuity participants
+
+&emsp;&emsp;An amount equal to 4.7 percent of the basic pay received by a revised annuity participant shall be contributed to the fund for a pay period for the revised annuity participant from the appropriation or fund which is used for payment of the revised annuity participant's basic pay.
+
+#### (4) Deposits to the fund
 
 &emsp;The amounts deducted and withheld from basic pay, together with the amounts so contributed from the appropriation or fund, shall be deposited by the Director to the credit of the fund.
 
 #### (b) Consent of participant to deductions from pay
 
-Each participant shall be deemed to consent and agree to such deductions from basic pay, and payment less such deductions shall be a full and complete discharge and acquittance of all claims and demands whatsoever for all regularservices during the period covered by such payment, except the right to the benefits to which the participant is entitled under this subchapter, notwithstanding any law, rule, or regulation affecting the individual's pay.
+Each participant shall be deemed to consent and agree to such deductions from basic pay, and payment less such deductions shall be a full and complete discharge and acquittance of all claims and demands whatsoever for all regular services during the period covered by such payment, except the right to the benefits to which the participant is entitled under this subchapter, notwithstanding any law, rule, or regulation affecting the individual's pay.
 
 #### (c) Treatment of contributions after 35 years of service
 
 #### (1) Accrual of interest
 
-&emsp;Amounts deducted and withheld from the basic pay of a participant under this section for pay periods after the first day of the first pay period beginning after the day on which the participant completes 35 years of creditable service computed under sections 2081 and 2082 of this title (excluding service credit for unused sick leave under section 2031(a)(2) of this title) shall accrue interest. Such interest shall accrue at the rate of 3 percent a year through December 31, 1984, and thereafter at the rate computed under section 8334(e) of title 5, and shall be compounded annually from the date on which the amount is so deducted and withheld until the date of the participant's retirement or death.
+&emsp;Amounts deducted and withheld from the basic pay of a participant under this section for pay periods after the first day of the first pay period beginning after the day on whichthe participant completes 35 years of creditable service computed under sections 2081 and 2082 of this title (excluding service credit for unused sick leave under section 2031(a)(2) of this title) shall accrue interest. Such interest shall accrue at the rate of 3 percent a year through December 31, 1984, and thereafter at the rate computed under section 8334(e) of title 5, and shall be compounded annually from the date on which the amount is so deducted and withheld until the date of the participant's retirement or death.
 
 #### (2) Use of amounts withheld after 35 years of service
 
@@ -62,7 +88,7 @@ Each participant shall be deemed to consent and agree to such deductions from ba
 
 &emsp;&emsp;(B) the amount of the taxes deducted and withheld from such basic pay under section 3101(a) of title 26 (relating to old-age, survivors, and disability insurance) for that pay period.
 
-(Pub. L. 88–643, title II, §211, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3202; amended Pub. L. 103–178, title II, §202(a)(3), Dec. 3, 1993, 107 Stat. 2026.)
+(Pub. L. 88–643, title II, §211, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3202; amended Pub. L. 103–178, title II, §202(a)(3), Dec. 3, 1993, 107 Stat. 2026; Pub. L. 112–96, title V, §5003, Feb. 22, 2012, 126 Stat. 200.)
 
 #### References in Text
 
@@ -74,6 +100,8 @@ A prior section 211 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1045;
 
 #### Amendments
 
+<b>2012</b>—Subsec. (a). Pub. L. 112–96 added pars. (1) to (3), redesignated former par. (3) as (4), and struck out former pars. (1) and (2) which related to participant's contributions and agency contributions, respectively.
+
 <b>1993</b>—Subsec. (c)(2)(B). Pub. L. 103–178 substituted “prior notification of a current spouse, if any, unless the participant establishes to the satisfaction of the Director, in accordance with regulations which the Director may prescribe, that the participant does not know, and has taken all reasonable steps to determine, the whereabouts of the current spouse” for “the requirement under section 2071(b)(4) of this title”.
 
 #### Effective Date of 1993 Amendment
@@ -82,17 +110,17 @@ Amendment by Pub. L. 103–178 effective Feb. 1, 1993, see section 202(b) of Pub
 
 #### Temporary Adjustment of Contribution Levels
 
-Pub. L. 106–346, §101(a) \[title V, §505(g)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–54, provided that: “Notwithstanding section 211(a)(2) of the Central Intelligence Agency Retirement Act (50 U.S.C. 2021(a)(2)), during the period beginning on October 1, 2002, through December 31, 2002, the Central Intelligence Agency shall contribute 7.5 percent of the basic pay of an employee participating in the Central Intelligence Agency Retirement and Disability System in lieu of the agency contribution otherwise required under section 211(a)(2) of such Act.”
+Pub. L. 106–346, §101(a) \[title V, §505(g)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–54, provided that: “Notwithstanding \[former\] section 211(a)(2) of the Central Intelligence Agency Retirement Act (50 U.S.C. 2021(a)(2)), during the period beginning on October 1, 2002, through December 31, 2002, the Central Intelligence Agency shall contribute 7.5 percent of the basic pay of an employee participating in the Central Intelligence Agency Retirement and Disability System in lieu of the agency contribution otherwise required under section 211(a)(2) of such Act.”
 
-Pub. L. 105–33, title VII, §7001(c)(1), (2), Aug. 5, 1997, 111 Stat. 658, as amended by Pub. L. 106–346, §101(a)\[title V, §505(c)(1)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–53, provided that:
+Pub. L. 105–33, title VII, §7001(c)(1), (2), Aug. 5, 1997, 111 Stat. 658, as amended by Pub. L. 106–346, §101(a) \[title V, §505(c)(1)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–53, provided that:
 
 “(1)
 
-Agency contributions.—Notwithstanding section 211(a)(2) of the Central Intelligence Agency Retirement Act (50 U.S.C. 2021(a)(2)), during the period beginning on October 1, 1997, through September 30, 2002, the Central Intelligence Agency shall contribute 8.51 percent of the basic pay of an employee participating in the Central Intelligence Agency Retirement and Disability System in lieu of the agency contribution otherwise required under section 211(a)(2) of such Act.
+Agency contributions.—Notwithstanding \[former\] section 211(a)(2) of the Central Intelligence Agency Retirement Act (50 U.S.C. 2021(a)(2)), during the period beginning on October 1, 1997, through September 30, 2002, the Central Intelligence Agency shall contribute 8.51 percent of the basic pay of an employee participating in the Central Intelligence Agency Retirement and Disability System in lieu of the agency contribution otherwise required under section 211(a)(2) of such Act.
 
 “(2)
 
-Individual deductions, withholdings, and deposits.—Notwithstanding section 211(a)(1) of the Central Intelligence Agency Retirement Act (50 U.S.C. 2021(a)(1)) beginning on January 1, 1999, through December 31, 2000, the percentage deducted and withheld from the basic pay of an employee participating in the Central Intelligence Agency Retirement and Disability System shall be as follows:
+Individual deductions, withholdings, and deposits.—Notwithstanding \[former\] section 211(a)(1) of the Central Intelligence Agency Retirement Act (50 U.S.C. 2021(a)(1)) beginning on January 1, 1999, through December 31, 2000, the percentage deducted and withheld from the basic pay of an employee participating in the Central Intelligence Agency Retirement and Disability System shall be as follows:
 
 &nbsp;
 

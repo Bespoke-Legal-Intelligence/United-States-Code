@@ -22,7 +22,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(B) the reemployment of a Congressional employee within 90 days from his separation from an international organization;
 
-> &emsp;following a term of employment not extending beyond the period named by the head of the agency at the time of consent to transfer or,in the absence of a named period, not extending beyond the first 5 consecutive years, or any extension thereof, after entering the employ of the international organization.
+> &emsp;following a term of employment not extending beyond the period named by the head of the agency at the time of consent to transfer or, in the absence of a named period, not extending beyond the first 5 consecutive years, or any extension thereof, after entering the employ of the international organization.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 429; Pub. L. 91–175, pt. V, §502(b), Dec. 30, 1969, 83 Stat. 825; Pub. L. 94–183, §2(9), Dec. 31, 1975, 89 Stat. 1057.)
 

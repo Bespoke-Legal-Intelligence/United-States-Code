@@ -6,7 +6,7 @@ The Secretary shall revise the document entitled “Smith River National Recreat
 
 #### Management
 
-Section 10(c) of Pub. L. 101–612 provided that: “The management plan prepared under section 9 of this Act \[this section\] shall be deemed to satisfy the requirement for a comprehensive management plan required under section 3(d)(1) of the Wild and Scenic Rivers Act \[section 1274(d)(1) of this title\].”
+Pub. L. 101–612, §10(c), Nov. 16, 1990, 104 Stat. 3219, provided that: “The management plan prepared under section 9 of this Act \[this section\] shall be deemed to satisfy the requirement for a comprehensive management plan required under section 3(d)(1) of the Wild and Scenic Rivers Act \[section 1274(d)(1) of this title\].”
 
 <i><sup>1</sup></i><i> So in original. Word “the” probably should not appear.</i>
 

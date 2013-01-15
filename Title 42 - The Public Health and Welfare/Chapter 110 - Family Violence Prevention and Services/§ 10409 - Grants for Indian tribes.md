@@ -26,5 +26,5 @@ An amount provided under a grant to an eligible entity shall be used for the ser
 
 A prior section 10409, Pub. L. 98–457, title III, §310, Oct. 9, 1984, 98 Stat. 1763; Pub. L. 100–294, title III, §301, Apr. 25, 1988, 102 Stat. 124; Pub. L. 102–295, title III, §316, May 28, 1992, 106 Stat. 206; Pub. L. 103–322, title IV, §40241, Sept. 13, 1994, 108 Stat. 1934; Pub. L. 104–235, title II, §203, Oct. 3, 1996, 110 Stat. 3089; Pub. L. 106–386, div. B, title II, §1202(a), Oct. 28, 2000, 114 Stat. 1505; Pub. L. 108–36, title IV, §406(a), (b), June 25, 2003, 117 Stat. 827, related to authorization of appropriations, prior to the general amendment of this chapter by Pub. L. 111–320. See section 10403 of this title.
 
-A prior section 309 of Pub. L. 98–457 was renumbered section 320 and transferred to section 10421 of this title prior to the general amendment of this chapter by Pub. L. 111–320.
+A prior section 309 of Pub. L. 98–457 was renumbered section 320 and transferred to section 10421 of this titleprior to the general amendment of this chapter by Pub. L. 111–320.
 

@@ -34,7 +34,7 @@ Amendment by Pub. L. 85–608 effective June 30, 1958, see section 402 of Pub. L
 
 #### Benefits Adjudicated Prior to August 8, 1958
 
-Section 102 of Pub. L. 85–608 provided that the amendment made by that section shall not affect benefits adjudicated thereunder prior to Aug. 8, 1958.
+Pub. L. 85–608, title I, §102, Aug. 8, 1958, 72 Stat. 536, provided that the amendment made by that section shall not affect benefits adjudicated thereunder prior to Aug. 8, 1958.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

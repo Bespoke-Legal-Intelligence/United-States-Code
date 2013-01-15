@@ -18,7 +18,7 @@ In making the determination required by subsection (a) of this section, the Secr
 
 #### (1) Notification
 
-&emsp;Prior to issuing a permit to any person under this section, the Secretary shall first notify the Administrator of the Secretary's intention to do so and provide necessary and appropriate information concerning the permit to the Administrator. Within 30 days of receiving such information, the Administrator shall review the information and request any additional information the Administrator deems necessary to evaluate the proposed permit.
+&emsp;Prior to issuing a permit to any person under this section, the Secretary shall firstnotify the Administrator of the Secretary's intention to do so and provide necessary and appropriate information concerning the permit to the Administrator. Within 30 days of receiving such information, the Administrator shall review the information and request any additional information the Administrator deems necessary to evaluate the proposed permit.
 
 #### (2) Concurrence by Administrator
 

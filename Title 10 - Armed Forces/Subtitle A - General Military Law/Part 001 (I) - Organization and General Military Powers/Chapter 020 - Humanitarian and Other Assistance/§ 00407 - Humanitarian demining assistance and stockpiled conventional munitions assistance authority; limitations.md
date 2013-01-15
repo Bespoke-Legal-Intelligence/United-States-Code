@@ -8,7 +8,7 @@ Authority.—(1) Under regulations prescribed by the Secretary of Defense, the S
 
 &emsp;(B) the specific operational readiness skills of the members of the armed forces who participate in the activities.
 
-(2) Humanitarian demining assistance and stockpiled conventional munitions assistance under this section shall complement, and may not duplicate, any other form of social or economic assistance which may be provided to the country concerned by any other department or agency of the United States.
+(2) Humanitarian demining assistance and stockpiled conventional munitions assistance under this section shall complement, and may not duplicate, any other form of social or economic assistance which may be provided to thecountry concerned by any other department or agency of the United States.
 
 (3) The Secretary of Defense shall ensure that no member of the armed forces, while providing humanitarian demining assistance or stockpiled conventional munitions assistance under this section—
 
@@ -36,7 +36,7 @@ Expenses.—(1) Expenses incurred as a direct result of providing humanitarian d
 
 (d)
 
-Annual Report.—The Secretary of Defense shall include in the annual report under section401 of this title a separate discussion of activities carried out under this section during the preceding fiscal year, including—
+Annual Report.—The Secretary of Defense shall include in the annual report under section 401 of this title a separate discussion of activities carried out under this section during the preceding fiscal year, including—
 
 &emsp;(1) a list of the countries in which humanitarian demining assistance or stockpiled conventional munitions assistance was carried out during the preceding fiscal year;
 
@@ -81,6 +81,28 @@ Subsec. (d). Pub. L. 112–81, §1092(a)(4)(A), inserted “or stockpiled conven
 Subsec. (d)(2). Pub. L. 112–81, §1092(a)(4)(B), inserted “, and whether such assistance was primarily related to the humanitarian demining efforts or stockpiled conventional munitions assistance” after “paragraph (1)”.
 
 Subsec. (e). Pub. L. 112–81, §1092(a)(5), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “In this section, the term ‘humanitarian demining assistance’, as it relates to training and support, means detection and clearance of landmines and other explosive remnants of war, including activities related to the furnishing of education, training, and technical assistance with respect to the detection and clearance of landmines and other explosive remnants of war.”
+
+#### Authority To Transfer Surplus Mine-Resistant Ambush-Protected Vehicles and Spare Parts
+
+Pub. L. 112–239, div. A, title X, §1053, Jan. 2, 2013, 126 Stat. 1937, provided that:
+
+“(a)
+
+Authority.—The Secretary of Defense is authorized to transfer surplus Mine-Resistant Ambush-Protected vehicles, including spare parts for such vehicles, to non-profit United States humanitarian demining organizations for purposes of demining activities and training of such organizations.
+
+“(b)
+
+Terms and Conditions.—Any transfer of vehicles or spare parts under subsection (a) shall be subject to the following terms and conditions:
+
+&emsp;“(1) The transfer shall be made on a loan basis.
+
+&emsp;“(2) The costs of operation and maintenance of the vehicles shall be borne by the recipient organization.
+
+&emsp;“(3) Any other terms and conditions as the Secretary of Defense determines to be appropriate.
+
+“(c)
+
+Notification.—The Secretary of Defense shall notify the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] in writing not less than 60 days before making any transfer of vehicles or spare parts under subsection (a). Such notification shall include the name of the organization, the number and model of the vehicle to be transferred, a listing of any spare parts to be transferred, and any other information the Secretary considers appropriate.”
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

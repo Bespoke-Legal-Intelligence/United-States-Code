@@ -6,29 +6,21 @@
 
 (2) No funds authorized to be appropriated or otherwise made available to the Department of Energy in any fiscal year after fiscal year 1997 for environmental restoration, waste management, or nuclear materials and facilities stabilization may be obligated or expended for activities under the Department of Energy Laboratory Directed Research and Development Program, or under any Department of Energy technology transfer program or cooperative research and development agreement, unless such activities support the environmental restoration mission, waste management mission, or materials stabilization mission, as the case may be, of the Department of Energy.
 
-#### (b) Limitation in fiscal year 1998 pending submittal of annual report
-
-Not more than 30 percent of the funds authorized to be appropriated or otherwise made available to the Department of Energy in fiscal year 1998 for laboratory directed research and development may be obligated or expended for such research and development until the Secretary of Energy submits to the congressional defense committees the report required by section 2793(b) of this title in 1998.
-
-#### (c) Omitted
-
-#### (d) Assessment of funding level for laboratory directed research and development
-
-The Secretary shall include in the report submitted under such section 2793(b)(1) of this title in 1998 an assessment of the funding required to carry out laboratory directed research and development, including a recommendation for the percentage of the funds provided to Government-owned, contractor-operated laboratories for national security activities that should be made available for such research and development under section 2791(c) of this title.
-
-#### (e) “Laboratory directed research and development” defined
+#### (b) “Laboratory directed research and development” defined
 
 In this section, the term “laboratory directed research and development” has the meaning given that term in section 2791(d) of this title.
 
-(Pub. L. 107–314, div. D, title XLVIII, §4812, formerly Pub. L. 105–85, div. C, title XXXI, §3137, Nov. 18, 1997, 111 Stat. 2038; renumbered Pub. L. 107–314, div. D, title XLVIII, §4812, and amended Pub. L. 108–136, div. C, title XXXI, §3141(k)(7)(A), Nov. 24, 2003, 117 Stat. 1784.)
+(Pub. L. 107–314, div. D, title XLVIII, §4812, formerly Pub. L. 105–85, div. C, title XXXI, §3137, Nov. 18, 1997, 111 Stat. 2038; renumbered Pub. L. 107–314, div. D, title XLVIII, §4812, and amended Pub. L. 108–136, div. C, title XXXI, §3141(k)(7)(A), Nov. 24, 2003, 117 Stat. 1784; Pub. L. 112–239, div. C, title XXXI, §3131(w), Jan. 2, 2013, 126 Stat. 2184.)
 
 #### Codification
 
-Section is comprised of section 4812 of Pub. L. 107–314. Subsec. (c) of section 4812 of Pub. L. 107–314 amended section 2793 of this title.
+Section is comprised of section 4812 of Pub. L. 107–314. Subsec. (c) of section 4812 of Pub. L. 107–314 amended section 2793 of this title and was subsequently struck out by Pub. L. 112–239, div. C, title XXXI, §3131(w)(1), Jan. 2, 2013, 126 Stat. 2184. See 2013 Amendment note below.
 
 Section was formerly classified to section 7257c of Title 42, The Public Health and Welfare, prior to renumbering by Pub. L. 108–136.
 
 #### Amendments
+
+<b>2013</b>—Subsecs. (b) to (e). Pub. L. 112–239 redesignated subsec. (e) as (b) and struck out former subsecs. (b) to (d). Prior to amendment, subsec. (b) related to a funding limitation in fiscal year 1998 pending submittal of annual report, subsec. (c) was omitted, and subsec. (d) related to an assessment of funding level for laboratory directed research and development.
 
 <b>2003</b>—Subsec. (b). Pub. L. 108–136, §3141(k)(7)(A)(iv), made technical amendment to reference in original act which appears in text as reference to section 2793(b) of this title.
 

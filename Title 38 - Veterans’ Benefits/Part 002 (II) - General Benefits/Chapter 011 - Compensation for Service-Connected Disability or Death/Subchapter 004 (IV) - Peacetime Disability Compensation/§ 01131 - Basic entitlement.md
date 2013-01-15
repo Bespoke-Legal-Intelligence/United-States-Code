@@ -10,7 +10,7 @@ For disability resulting from personal injury suffered or disease contracted in 
 
 <b>1991</b>—Pub. L. 102–83 renumbered section 331 of this title as this section.
 
-<b>1990</b>—Pub. L. 101–508 substituted “a result of the veteran's own willful misconduct or abuse of alcohol ordrugs” for “the result of the veteran's own willful misconduct”.
+<b>1990</b>—Pub. L. 101–508 substituted “a result of the veteran's own willful misconduct or abuse of alcohol or drugs” for “the result of the veteran's own willful misconduct”.
 
 #### Effective Date of 1998 Amendment
 

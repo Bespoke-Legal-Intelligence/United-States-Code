@@ -146,7 +146,7 @@ In this chapter:
 
 #### (18) Labor market area
 
-&emsp;The term “labor market area” means an economically integrated geographic area within which individuals can reside and find employment within a reasonable distance or can readily change employment without changing their place of residence. Such an area shall be identified in accordance with criteria used by the Bureau of Labor Statistics of the Department of Labor in defining such areas or similar criteria established by a Governor.
+&emsp;The term “labor market area” means an economically integrated geographic area within which individuals can reside and find employment within a reasonable distance or can readily change employment without changing their place of residence. Such an area shall be identified in accordance with criteria used bythe Bureau of Labor Statistics of the Department of Labor in defining such areas or similar criteria established by a Governor.
 
 #### (19) Literacy
 
@@ -356,7 +356,7 @@ This Act, referred to in par. (27)(A), is Pub. L. 105–220, Aug. 7, 1998, 112 S
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Prior Provisions
 
@@ -404,7 +404,7 @@ Pub. L. 109–281, §1, Sept. 22, 2006, 120 Stat. 1173, provided that: “This A
 
 Pub. L. 102–367, title I, §101(a), Sept. 7, 1992, 106 Stat. 1022, provided that: “In recognition of the training needs of low-income adults and youth, the Congress declares it to be the policy of the United States to—
 
-&emsp;“(1) provide financial assistance to States and local service delivery areas to meet the training needs of such low-income adults and youth, and to assist such individuals in obtaining unsubsidized employment;
+&emsp;“(1) provide financial assistance to States and local service delivery areas to meet the training needs ofsuch low-income adults and youth, and to assist such individuals in obtaining unsubsidized employment;
 
 &emsp;“(2) increase the funds available for programs under title II of the Job Training Partnership Act (\[former\] 29 U.S.C. 1601 et seq.) by not less than 10 percent of the baseline each fiscal year to provide for growth in the percentage of eligible adults and youth served above the 5 percent of the eligible population that is currently served; and
 
@@ -436,7 +436,7 @@ Sec. 2. <i>Establishment of the Council on the 21st Century Workforce.</i>
 
 &emsp;(i) There is hereby established the “President's Council on the 21st Century Workforce” (Council).
 
-&emsp;(ii) The Council shall be composed of not more than 13 members who shall be appointed by the President. The membership shall include individuals who represent the views of business and labor organizations, Federal, State, and local governments, academiciansand educators, and such other associations and entities as the President determines are appropriate. In addition, the Secretary of Labor and the Director of the Office of Personnel Management shall serve as ex officio members representing the views of the Federal Government. The Secretary of Labor shall be the Chairperson of the Council.
+&emsp;(ii) The Council shall be composed of not more than 13 members who shall be appointed by the President. The membership shall include individuals who represent the views of business and labor organizations, Federal, State, and local governments, academicians and educators, and such other associations and entities as the President determines are appropriate. In addition, the Secretary of Labor and the Director of the Office of Personnel Management shall serve as ex officio members representing the views of the Federal Government. The Secretary of Labor shall be the Chairperson of the Council.
 
 (b) <i>Functions of the Council</i>. The Council shall provide information and advice to the President through the Secretary of Labor, the Office of the 21st Century Workforce within the Department of Labor, and other appropriate Federal officials relating to issues affecting the 21st century workforce. These activities shall include:
 

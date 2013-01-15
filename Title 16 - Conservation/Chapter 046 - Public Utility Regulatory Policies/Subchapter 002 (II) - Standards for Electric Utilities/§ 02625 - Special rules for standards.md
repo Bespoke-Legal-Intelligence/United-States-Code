@@ -48,7 +48,7 @@ Separate metering shall be determined appropriate for any new building for purpo
 
 #### (f) Information to consumers
 
-(1) For purposes of the standard for information to consumers established by section 2623(b)(3) of this title, each electric utility shall transmit to each of its electric consumers a clear and concise explanation of the existing rate schedule and any rate schedule applied for (or proposed by a nonregulated electric utility) applicable to such consumer. Such statement shall be transmitted to each such consumer—
+(1) For purposes of the standard for information to consumers established by section 2623(b)(3) of this title, each electric utility shall transmit to each of its electric consumers a clear and concise explanation of the existing rate schedule and any rate schedule applied for\(or proposed by a nonregulated electric utility) applicable to such consumer. Such statement shall be transmitted to each such consumer—
 
 &emsp;(A) not later than sixty days after the date of commencement of service to such consumer or ninety days after the standard established by section 2623(b)(3) of this title is adopted with respect to such electric utility, whichever last occurs, and
 
@@ -112,7 +112,7 @@ In making a determination with respect to the standard established by section 26
 
 #### References in Text
 
-The National Energy Conservation Policy Act, referred to in subsec. (h)(2)(B), is Pub. L. 95–619, Nov. 9, 1978, 92 Stat. 3206, as amended. Part 1 of title II of the National Energy Conservation Policy Act was classified generally to part A (§8211 et seq.) of subchapter II of chapter 91 of Title 42, The Public Health and Welfare, and was omitted from the Code pursuant to section 8229 of Title 42 which terminated authority under that part June 30, 1989. For complete classification of this Act to the Code, see Short Title note set out under section 8201 of Title 42 and Tables.
+The National Energy Conservation Policy Act, referred to in subsec. (h)(2)(B), is Pub. L. 95–619, Nov. 9, 1978, 92 Stat. 3206, as amended. Part 1 of title II of theNational Energy Conservation Policy Act was classified generally to part A (§8211 et seq.) of subchapter II of chapter 91 of Title 42, The Public Health and Welfare, and was omitted from the Code pursuant to section 8229 of Title 42 which terminated authority under that part June 30, 1989. For complete classification of this Act to the Code, see Short Title note set out under section 8201 of Title 42 and Tables.
 
 #### Amendments
 

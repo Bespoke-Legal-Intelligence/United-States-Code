@@ -136,11 +136,11 @@ Such board of directors shall administer the affairs of the bank fairly and impa
 
 The board of directors of each Bank shall determine the terms and conditions under which such Bank may indemnify its directors, officers, employees or agents.
 
-#### (<i>l</i>) <sup>2</sup> Withholding of compensation
+#### (l) <sup>2</sup> Withholding of compensation
 
 Notwithstanding any other provision of this section, a Federal Home Loan Bank shall not transfer, disburse, or pay compensation to any executive officer, or enter into an agreement with such executive officer, without the approval of the Director, for matters being reviewed under section 4518 of this title.
 
-#### (<i>l</i>) <sup>2</sup> Transition rule
+#### (l) <sup>2</sup> Transition rule
 
 Any member of the board of directors of a Bank elected or appointed in accordance with this section prior to July 30, 2008, may continue to serve as a member of that board of directors for the remainder of the existing term of service.
 
@@ -188,9 +188,9 @@ Pub. L. 110–289, §1202(2), substituted “member” for “elective”.
 
 Subsec. (i). Pub. L. 110–289, §1202(7), substituted “Each” for “Subject to paragraph (2), each” in par. (1), added par. (2), and struck out former par. (2) which related to limitations on compensation of members of the board of directors of a Federal home loan bank.
 
-Subsec. (<i>l</i>). Pub. L. 110–289, §1202(8), added subsec. (<i>l</i>) relating to transition rule.
+Subsec. (l). Pub. L. 110–289, §1202(8), added subsec. (l) relating to transition rule.
 
-Pub. L. 110–289, §1113(b), added subsec. (<i>l</i>) relating to withholding of compensation.
+Pub. L. 110–289, §1113(b), added subsec. (l) relating to withholding of compensation.
 
 <b>1999</b>—Subsec. (a). Pub. L. 106–102, §606(a)(1), substituted “, and each of whom shall be either a bona fide resident of the district in which such bank is located or an officer or director of a member of such bank located in that district” for “and bona fide residents of the district in which such bank is located”.
 
@@ -240,11 +240,11 @@ Subsec. (b). Pub. L. 86–349, §2, authorized increase in number of appointive 
 
 #### Effective Date of 1961 Amendment
 
-Section 2 of Pub. L. 87–211 provided that: “The amendment made by this Act \[amending this section\] shall take effect on the second day of the first calendar year which begins after the date of enactment of this Act \[Sept. 8, 1961\].”
+Pub. L. 87–211, §2, Sept. 8, 1961, 75 Stat. 488, provided that: “The amendment made by this Act \[amending this section\] shall take effect on the second day of the first calendar year which begins after the date of enactment of this Act \[Sept. 8, 1961\].”
 
 #### Effective Date of 1935 Amendment
 
-Section 3 of act May 28, 1935, provided that the amendment made by that section is effective Jan. 1, 1936.
+Act May 28, 1935, ch. 150, §3, 49 Stat. 294, provided that the amendment made by that section is effective Jan. 1, 1936.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

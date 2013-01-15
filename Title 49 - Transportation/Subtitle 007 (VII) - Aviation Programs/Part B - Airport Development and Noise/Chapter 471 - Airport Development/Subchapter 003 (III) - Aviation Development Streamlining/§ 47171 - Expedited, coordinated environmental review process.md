@@ -100,7 +100,7 @@ Purpose and Need.—For any environmental review, analysis, opinion, permit, lic
 
 Alternatives Analysis.—The Secretary shall determine the reasonable alternatives to an airport capacity enhancement project at a congested airport or a project designated under subsection (b)(2). Any other Federal agency, or State agency that is participating in a coordinated review process under this section with respect to the project shall consider only those alternatives to the project that the Secretary has determined are reasonable.
 
-(<i>l</i>)
+(l)
 
 Solicitation and Consideration of Comments.—In applying subsections (j) and (k), the Secretary shall solicit and consider comments from interested persons and governmental entities in accordance with the National Environmental Policy Act of 1969 (42 U.S.C. 4371 <sup>1</sup> et seq.).
 
@@ -112,7 +112,7 @@ Monitoring by Task Force.—The Transportation Infrastructure Streamlining Task 
 
 #### References in Text
 
-The National Environmental Policy Act of 1969, referred to in subsecs. (a)(1), (b)(2)(B)(ii), and (<i>l</i>), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which isclassified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsecs. (a)(1), (b)(2)(B)(ii), and (l), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 Executive Order No. 13274, referred to in subsec. (m), is set out as a note under section 301 of this title.
 

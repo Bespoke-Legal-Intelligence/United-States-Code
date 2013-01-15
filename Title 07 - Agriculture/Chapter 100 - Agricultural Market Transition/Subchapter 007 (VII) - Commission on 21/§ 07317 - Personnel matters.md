@@ -12,7 +12,7 @@ Each member of the Commission shall serve without compensation, but shall be all
 
 #### (2) Limitation on compensation
 
-&emsp;No employee appointed under this subsection (other than the staff director) may becompensated at a rate to exceed the maximum rate applicable to level GS–15 of the General Schedule.
+&emsp;No employee appointed under this subsection (other than the staff director) may be compensated at a rate to exceed the maximum rate applicable to level GS–15 of the General Schedule.
 
 #### (c) Detailed personnel
 

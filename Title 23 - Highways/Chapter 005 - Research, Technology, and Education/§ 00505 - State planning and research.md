@@ -2,13 +2,13 @@
 
 (a)
 
-General Rule.—Two percent of the sums apportioned to a State for fiscal year 1998 and each fiscal year thereafter under section 104 (other than sections 104(f) and 104(h)) and under section 144 shall be available for expenditure by the State, in consultation with the Secretary, only for the following purposes:
+General Rule.—Two percent of the sums apportioned to a State for fiscal year 1998 and each fiscal year thereafter under paragraphs (1) through (4) of section 104(b) shall be available for expenditure by the State, in consultation with the Secretary, only for the following purposes:
 
 &emsp;(1) Engineering and economic surveys and investigations.
 
 &emsp;(2) The planning of future highway programs and local public transportation systems and the planning of the financing of such programs and systems, including metropolitan and statewide planning under sections 134 and 135.
 
-&emsp;(3) Development and implementation of management systems under section 303.
+&emsp;(3) Development and implementation of management systems, plans, and processes under sections 119, 148, 149, and 167.
 
 &emsp;(4) Studies of the economy, safety, and convenience of surface transportation systems and the desirable regulation and equitable taxation of such systems.
 
@@ -36,13 +36,25 @@ Nonapplicability of assessment.—Funds expended under paragraph (1) shall not b
 
 (c)
 
-Federal Share.—The Federal share of the cost of a project carried out using funds subject to subsection (a) shall be 80 percent unless the Secretary determines that the interests of the Federal-aid highway program would be best served by decreasing or eliminating the non-Federal share.
+Implementation of Future Strategic Highway Research Program Findings and Results.—
+
+&emsp;(1)
+
+Funds.—A State shall make available to the Secretary to carry out section 503(c)(2)(C) a percentage of funds subject to subsection (a) that are apportioned to that State, that is agreed to by ¾ of States for each of fiscal years 2013 and 2014.
+
+&emsp;(2)
+
+Treatment of funds.—Funds expended under paragraph (1) shall not be considered to be part of the extramural budget of the agency for the purpose of section 9 of the Small Business Act (15 U.S.C. 638).
 
 (d)
 
-Administration of Sums.—Funds subject to subsection (a) shall be combined and administered by the Secretary as a single fund and shall be available for obligation for the period described in section 118(b)(2).
+Federal Share.—The Federal share of the cost of a project carried out using funds subject to subsection (a) shall be 80 percent unless the Secretary determines that the interests of the Federal-aid highway program would be best served by decreasing or eliminating the non-Federal share.
 
-(Added Pub. L. 105–178, title V, §5105, June 9, 1998, 112 Stat. 432; amended Pub. L. 109–59, title V, §5205, Aug. 10, 2005, 119 Stat. 1795.)
+(e)
+
+Administration of Sums.—Funds subject to subsection (a) shall be combined and administered by the Secretary as a single fund and shall be available for obligation for the period described in section 118(b).
+
+(Added Pub. L. 105–178, title V, §5105, June 9, 1998, 112 Stat. 432; amended Pub. L. 109–59, title V, §5205, Aug. 10, 2005, 119 Stat. 1795; Pub. L. 112–141, div. E, title II, §52005, July 6, 2012, 126 Stat. 882.)
 
 #### Prior Provisions
 
@@ -50,9 +62,21 @@ A prior section 505, added Pub. L. 90–495, §30, Aug. 23, 1968, 82 Stat. 831, 
 
 #### Amendments
 
+<b>2012</b>—Subsec. (a). Pub. L. 112–141, §52005(1)(A), substituted “paragraphs (1) through (4) of section 104(b)” for “section 104 (other than sections 104(f) and 104(h)) and under section 144” in introductory provisions.
+
+Subsec. (a)(3). Pub. L. 112–141, §52005(1)(B), substituted “, plans, and processes under sections 119, 148, 149, and 167” for “under section 303”.
+
+Subsecs. (c), (d). Pub. L. 112–141, §52005(2), (3), added subsec. (c) and redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (e).
+
+Subsec. (e). Pub. L. 112–141, §52005(2), (4), redesignated subsec. (d) as (e) and substituted “section 118(b)” for “section 118(b)(2)”.
+
 <b>2005</b>—Subsec. (a)(7). Pub. L. 109–59, §5205(1), added par. (7).
 
 Subsec. (d). Pub. L. 109–59, §5205(2), substituted “for the period described in section 118(b)(2)” for “for the same period as funds apportioned under section 104(b)(1)”.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
 
 #### Alaska Highway Study
 
@@ -68,7 +92,7 @@ Pub. L. 87–866, §13, Oct. 23, 1962, 76 Stat. 1149, as amended by Pub. L. 97�
 
 &emsp;“(3) a feasible program for implementing such specific recommendations, including cost estimates, recommendations as to the sharing of cost responsibilities, and other pertinent matters.
 
-“(c) From time to time, either before or after submission of the report provided for in subsection (b) of this section, the Secretary of Transportation may submit recommendations to the Congress with respect to theconstruction of particular highways to carry out the purposes of this section.
+“(c) From time to time, either before or after submission of the report provided for in subsection (b) of this section, the Secretary of Transportation may submit recommendations to the Congress with respect to the construction of particular highways to carry out the purposes of this section.
 
 “(d) Nothing in this section shall be construed as creating any obligation in the Congress, express or implied, to carry out the recommendations referred to in subsections (b) and (c).
 

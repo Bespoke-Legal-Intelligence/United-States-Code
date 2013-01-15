@@ -156,5 +156,5 @@ Elements of the program.—Using the authority granted by this section and under
 
 #### Creation of Integrated Border Inspection Areas
 
-Pub. L. 108–7, div. J, title I, §127(a), Feb. 20, 2003, 117 Stat. 440, which related to the creation of integratedborder inspection areas on either side of the United States–Canada border, was repealed by Pub. L. 108–429, title I, §1561(c), Dec. 3, 2004, 118 Stat. 2582.
+Pub. L. 108–7, div. J, title I, §127(a), Feb. 20, 2003, 117 Stat. 440, which related to the creation of integrated border inspection areas on either side of the United States–Canada border, was repealed by Pub. L. 108–429, title I, §1561(c), Dec. 3, 2004, 118 Stat. 2582.
 

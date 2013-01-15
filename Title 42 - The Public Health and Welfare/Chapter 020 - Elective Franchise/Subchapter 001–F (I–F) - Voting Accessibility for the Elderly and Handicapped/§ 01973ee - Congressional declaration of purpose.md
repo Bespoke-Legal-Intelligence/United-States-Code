@@ -6,7 +6,7 @@ It is the intention of Congress in enacting this subchapter to promote the funda
 
 #### Effective Date
 
-Section 9 of Pub. L. 98–435 provided that: “This Act \[enacting this subchapter\] shall apply with respect to elections taking place after December 31, 1985.”
+Pub. L. 98–435, §9, Sept. 28, 1984, 98 Stat. 1680, provided that: “This Act \[enacting this subchapter\] shall apply with respect to elections taking place after December 31, 1985.”
 
 #### Short Title
 

@@ -12,7 +12,7 @@ The sole authority to naturalize persons as citizens of the United States is con
 
 #### (A) General jurisdiction
 
-&emsp;&emsp;Except as provided in subparagraph (B), each applicant for naturalization may choose to have the oath of allegiance under section 1448(a) of this title administered by the Attorney General or by an eligible courtdescribed in paragraph (5). Each such eligible court shall have authority to administer such oath of allegiance to persons residing within the jurisdiction of the court.
+&emsp;&emsp;Except as provided in subparagraph (B), each applicant for naturalization may choose to have the oath of allegiance under section 1448(a) of this title administered by the Attorney General or by an eligible court described in paragraph (5). Each such eligible court shall have authority to administer such oath of allegiance to persons residing within the jurisdiction of the court.
 
 #### (B) Exclusive authority
 
@@ -74,13 +74,13 @@ The sole authority to naturalize persons as citizens of the United States is con
 
 #### (c) Judicial review
 
-A person whose application for naturalization under this subchapter is denied, after a hearing before an immigration officer under section 1447(a) of this title, may seek review of such denial before the United States district court for the district in which such person resides in accordance with chapter 7 of title 5. Such review shall be de novo, and the court shall make its own findings of fact and conclusions of law and shall, at the request of the petitioner, conduct a hearing de novo on the application.
+A person whose application for naturalization under this subchapter is denied, after a hearingbefore an immigration officer under section 1447(a) of this title, may seek review of such denial before the United States district court for the district in which such person resides in accordance with chapter 7 of title 5. Such review shall be de novo, and the court shall make its own findings of fact and conclusions of law and shall, at the request of the petitioner, conduct a hearing de novo on the application.
 
 #### (d) Sole procedure
 
 A person may only be naturalized as a citizen of the United States in the manner and under the conditions prescribed in this subchapter and not otherwise.
 
-(June 27, 1952, ch. 477, title III, ch. 2, §310, 66 Stat. 239; Pub. L. 85–508, §25, July 7, 1958, 72 Stat. 351; Pub. L. 86–3, §20(c), Mar. 18, 1959, 73 Stat. 13; Pub. L. 87–301, §17, Sept. 26, 1961, 75 Stat. 656; Pub. L. 100–525, §9(s), Oct. 24, 1988, 102 Stat. 2621; Pub. L. 101–649, title IV, §401(a), Nov. 29, 1990, 104Stat. 5038; Pub. L. 102–232, title I, §102(a), title III, §305(a), Dec. 12, 1991, 105 Stat. 1734, 1749; Pub. L. 103–416, title II, §219(u), Oct. 25, 1994, 108 Stat. 4318.)
+(June 27, 1952, ch. 477, title III, ch. 2, §310, 66 Stat. 239; Pub. L. 85–508, §25, July 7, 1958, 72 Stat. 351; Pub. L. 86–3, §20(c), Mar. 18, 1959, 73 Stat. 13; Pub. L. 87–301, §17, Sept. 26, 1961, 75 Stat. 656; Pub. L. 100–525, §9(s), Oct. 24, 1988, 102 Stat. 2621; Pub. L. 101–649, title IV, §401(a), Nov. 29, 1990, 104 Stat. 5038; Pub. L. 102–232, title I, §102(a), title III, §305(a), Dec. 12, 1991, 105 Stat. 1734, 1749; Pub. L. 103–416, title II, §219(u), Oct. 25, 1994, 108 Stat. 4318.)
 
 #### Amendments
 
@@ -106,13 +106,13 @@ Amendment by Pub. L. 103–416 effective as if included in the enactment of the 
 
 #### Effective Date of 1991 Amendment
 
-Section 102(c) of title I of Pub. L. 102–232 provided that: “The amendments made by this title \[amending this section and sections 1448, 1450, and 1455 of this title\] shall take effect 30 days after the date of the enactment of this Act \[Dec. 12, 1991\].”
+Pub. L. 102–232, title I, §102(c), Dec. 12, 1991, 105 Stat. 1736, provided that: “The amendments made by this title \[amending this section and sections 1448, 1450, and 1455 of this title\] shall take effect 30 days after the date of the enactment of this Act \[Dec. 12, 1991\].”
 
 Amendment by section 305(a) of Pub. L. 102–232 effective as if included in the enactment of the Immigration Act of 1990, Pub. L. 101–649, see section 310(1) of Pub. L. 102–232, set out as a note under section 1101 of this title.
 
 #### Effective Date of 1990 Amendment; Savings Provision
 
-Section 408 of title IV of Pub. L. 101–649, as amended by Pub. L. 102–232, title III, §305(n), Dec. 12, 1991, 105 Stat. 1750, provided that:
+Pub. L. 101–649, title IV, §408, Nov. 29, 1990, 104 Stat. 5047, as amended by Pub. L. 102–232, title III, §305(n), Dec. 12, 1991, 105 Stat. 1750, provided that:
 
 “(a)
 
@@ -166,5 +166,5 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 #### Admission of Alaska and Hawaii to Statehood
 
-Alaska was admitted into the Union on Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, and Hawaii was admitted into the Union on Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959,24 F.R. 6868, 73 Stat. c74. For Alaska Statehood Law, see Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as a note preceding former section 21 of Title 48, Territories and Insular Possessions. For Hawaii Statehood Law, see Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as a note preceding former section 491 of Title 48.
+Alaska was admitted into the Union on Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, and Hawaii was admitted into the Union on Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 24 F.R. 6868, 73 Stat. c74. For Alaska Statehood Law, see Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as a note preceding former section 21 of Title 48, Territories and Insular Possessions. For Hawaii Statehood Law, see Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as a note preceding former section 491 of Title 48.
 

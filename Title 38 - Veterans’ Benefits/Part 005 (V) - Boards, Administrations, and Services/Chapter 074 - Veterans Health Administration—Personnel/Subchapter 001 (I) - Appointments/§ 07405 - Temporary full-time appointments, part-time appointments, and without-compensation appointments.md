@@ -100,3 +100,19 @@ Subsec. (c)(3), (4). Pub. L. 106–419, §204(b), added par. (3) and redesignate
 
 <b>1992</b>—Subsecs. (a), (c)(1), (f)(1). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
 
+#### Recruitment of Mental Health Providers for Furnishing Mental Health Services on Behalf of the Department of Veterans Affairs Without Compensation From the Department
+
+Pub. L. 112–239, div. A, title VII, §729, Jan. 2, 2013, 126 Stat. 1813, provided that:
+
+“(a)
+
+In General.—The Secretary of Veterans Affairs shall carry out a national program of outreach to societies, community organizations, nonprofit organizations, and government entities in order to recruit mental health providers who meet the quality standards and requirements of the Department of Veterans Affairs to provide mental health services for the Department on a part-time, without-compensation basis, under section 7405 of title 38, United States Code.
+
+“(b)
+
+Partnering With and Developing Community Entities and Nonprofit Organizations.—In carrying out the program required by subsection (a), the Secretary may partner with a community entity or nonprofit organization or assist in the development of a community entity or nonprofit organization, including by entering into an agreement under section 8153 of title 38, United States Code, that provides strategic coordination of the societies, organizations, and government entities described in subsection (a) in order to maximize the availability and efficient delivery of mental health services to veterans by such societies, organizations, and government entities.
+
+“(c)
+
+Military Culture Training.—In carrying out the program required by subsection (a), the Secretary shall provide training to mental health providers to ensure that clinicians who provide mental health services as described in such subsection have sufficient understanding of military-specific and service-specific culture, combat experience, and other factors that are unique to the experience of veterans who served in Operation Enduring Freedom, Operating Iraqi Freedom, or Operation New Dawn.”
+

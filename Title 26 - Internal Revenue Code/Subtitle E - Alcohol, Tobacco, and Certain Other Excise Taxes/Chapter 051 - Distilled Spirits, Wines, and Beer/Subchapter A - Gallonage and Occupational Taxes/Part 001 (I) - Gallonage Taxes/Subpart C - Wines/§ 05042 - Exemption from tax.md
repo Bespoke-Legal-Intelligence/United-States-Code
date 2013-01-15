@@ -28,7 +28,7 @@
 
 #### (3) Experimental wine
 
-&emsp;Subject to regulations prescribed by the Secretary, any scientific university, college of learning, or institution of scientific research may produce, receive, blend, treat, and store wine, without payment of tax, for experimental or research use but not for consumption (other than organoleptical tests) or sale, and may receive such wine spirits without payment of tax as may be necessary for such production.
+&emsp;Subject to regulations prescribed by the Secretary, any scientific university, college of learning, or institution of scientific research may produce, receive, blend, treat, and store wine, without payment of tax, for experimental or research use but not for consumption (other than organoleptical tests) or sale,and may receive such wine spirits without payment of tax as may be necessary for such production.
 
 #### (b) Cross references
 
@@ -52,5 +52,5 @@ A prior section 5042, act Aug. 16, 1954, ch. 736, 68A Stat. 610, consisted of pr
 
 #### Effective Date of 1978 Amendment
 
-Section 2(c) of Pub. L. 95–458 provided that: “The amendments made by this section \[amending this section and sections 5051, 5053, 5054, 5092, 5222, and 5674 of this title\] shall take effect on the first day of the first calendar month which begins more than 90 days after the date of the enactment of this Act \[Oct. 14, 1978\].”
+Pub. L. 95–458, §2(c), Oct. 14, 1978, 92 Stat. 1257, provided that: “The amendments made by this section \[amending this section and sections 5051, 5053, 5054, 5092, 5222, and 5674 of this title\] shall take effect on the first day of the first calendar month which begins more than 90 days after the date of the enactment of this Act \[Oct. 14, 1978\].”
 

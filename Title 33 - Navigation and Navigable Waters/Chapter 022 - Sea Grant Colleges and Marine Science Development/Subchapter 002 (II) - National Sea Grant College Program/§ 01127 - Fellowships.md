@@ -62,5 +62,5 @@ Pub. L. 100–66, §3(2), redesignated former subsec. (b) as (c).
 
 #### Effective Date of 1987 Amendment
 
-Section 4 of Pub. L. 100–66 provided that: “The amendment made by section 3 \[amending this section\] shall take effect January 1, 1978.”
+Pub. L. 100–66, §4, July 10, 1987, 101 Stat. 385, provided that: “The amendment made by section 3 \[amending this section\] shall take effect January 1, 1978.”
 

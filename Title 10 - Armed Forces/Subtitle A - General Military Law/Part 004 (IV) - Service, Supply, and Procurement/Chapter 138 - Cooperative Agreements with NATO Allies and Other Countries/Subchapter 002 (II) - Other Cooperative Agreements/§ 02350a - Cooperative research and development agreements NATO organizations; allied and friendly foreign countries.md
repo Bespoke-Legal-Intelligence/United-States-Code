@@ -102,7 +102,7 @@ Subsec. (e)(2). Pub. L. 110–181, §1251(2), substituted “A cooperative oppor
 
 Subsec. (g)(3). Pub. L. 110–181, §237, amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The Deputy Director, Defense Research and Engineering (Test and Evaluation) shall notify the Speaker of the House of Representatives and the Committees on Armed Services and on Appropriations of the Senate of the Deputy Director's intent to obligate funds made available to carry out this subsection not less than 30 days before such funds are obligated.”
 
-<b>2003</b>—Subsec. (f). Pub. L. 108–136 struck out subsec. (f) which required that, not later than Mar. 1 of each year, the Under Secretary of Defense for Acquisition, Technology, and Logistics was to submit to the Speaker of the House and the Committees on Armed Services and Appropriations of the Senate a report on cooperative research and development projects under this section, and that, not later than Jan. 1 of each year, the Secretary of Defense was to submit to the Committees on Armed Services and Foreign Relations of the Senate and Committees on Armed Services and International Relations of the House a report specifying the countries eligible to participate in a cooperative project agreement under this section and the criteria used to determine the eligibility of such countries.
+<b>2003</b>—Subsec. (f). Pub. L. 108–136 struck out subsec. (f) which required that, not later than Mar. 1 of each year, the Under Secretary of Defense for Acquisition, Technology, and Logistics was to submit to the Speaker of the House and the Committees on Armed Services and Appropriations of the Senate a report on cooperative research and development projects under this section, and that, not later than Jan. 1 of each year, the Secretary of Defense was to submit to the Committees on Armed Services and Foreign Relations of the Senate and Committees on Armed Services and InternationalRelations of the House a report specifying the countries eligible to participate in a cooperative project agreement under this section and the criteria used to determine the eligibility of such countries.
 
 <b>2002</b>—Subsec. (g)(1)(A). Pub. L. 107–314, §1062(f)(2), amended directory language of Pub. L. 107–107, §1212(a)(5). See 2001 Amendment note below.
 
@@ -194,5 +194,79 @@ Pub. L. 107–314, div. A, title X, §1062(f), Dec. 2, 2002, 116 Stat. 2651, pro
 
 #### Termination Date of 1992 Amendment
 
-Section 843(c) of Pub. L. 102–484, as amended by Pub. L. 103–35, title II, §202(a)(7), May 31, 1993, 107 Stat. 101, provided that, effective Oct. 23, 1994, subsections (a) and (b) of section 843 of Pub. L. 102–484 (amending sections 2350a and 2350d of this title and section 2767 of Title 22, Foreign Relations and Intercourse) were to cease to be in effect, and section 27(c) of the Arms Export Control Act (22 U.S.C. 2767(c)) and sections 2350a(c) and 2350d(c) of this title were to read as if such subsections had notbeen enacted, prior to repeal by Pub. L. 103–337, div. A, title XIII, §1318, Oct. 5, 1994, 108 Stat. 2902.
+Pub. L. 102–484, div. A, title VIII, §843(c), Oct. 23, 1992, 106 Stat. 2469, as amended by Pub. L. 103–35, title II, §202(a)(7), May 31, 1993, 107 Stat. 101, provided that, effective Oct. 23, 1994, subsections (a) and (b) of section 843 of Pub. L. 102–484 (amending sections 2350a and 2350d of this title and section 2767 of Title 22, Foreign Relations and Intercourse) were to cease to be in effect, and section 27(c) of the Arms Export Control Act (22 U.S.C. 2767(c)) and sections 2350a(c) and 2350d(c) of this title were to read as if such subsections had not been enacted, prior to repeal by Pub. L. 103–337, div. A, title XIII, §1318, Oct. 5, 1994, 108 Stat. 2902.
+
+#### Administration of the American, British, Canadian, and Australian Armies’ Program
+
+Pub. L. 112–239, div. A, title XII, §1274, Jan. 2, 2013, 126 Stat. 2026, provided that:
+
+“(a)
+
+Authority.—As part of the participation by the United States in the land-force program known as the American, British, Canadian, and Australian Armies’ Program (in this section referred to as the ‘Program’), the Secretary of Defense may, with the concurrence of the Secretary of State, enter into agreements with the other participating countries in accordance with this section, and the Program shall be managed pursuant to a joint agreement among the participating countries.
+
+“(b)
+
+Participating Countries.—In addition to the United States, the countries participating in the Program are the following:
+
+&emsp;“(1) Australia.
+
+&emsp;“(2) Canada.
+
+&emsp;“(3) New Zealand.
+
+&emsp;“(4) The United Kingdom.
+
+“(c)
+
+Contributions by Participants.—
+
+&emsp;“(1)
+
+In general.—An agreement under subsection (a) shall provide that each participating country shall contribute to the Program—
+
+&emsp;&emsp;“(A) its equitable share of the full cost for the Program, including the full cost of overhead and administrative costs related to the Program; and
+
+&emsp;&emsp;“(B) any amount allocated to it in accordance with the agreement for the cost for monetary claims asserted against any participating country as a result of participation in the Program.
+
+&emsp;“(2)
+
+Additional authorized contribution.—Such an agreement shall also provide that each participating country (including the United States) may provide its contribution for its equitable share under the agreement in funds, in personal property, or in services required for the Program (or in any combination thereof).
+
+&emsp;“(3)
+
+Funding for united states contribution.—Any contribution by the United States to the Program that is provided in funds shall be made from funds available to the Department of Defense for operation and maintenance.
+
+&emsp;“(4)
+
+Treatment of contributions received from other countries.—Any contribution received by the United States from another participating country to meet that country's share of the costs of the Program shall be credited to appropriations available to the Department of Defense, as determined by the Secretary of Defense. The amount of a contribution credited to an appropriation account in connection with the Program shall be available only for payment of the share of the Program expenses allocated to the participating country making the contribution. Amounts so credited shall be available for the following purposes:
+
+&emsp;&emsp;“(A) Payments to contractors and other suppliers (including the Department of Defense and participating countries acting as suppliers) for necessary goods and services of the Program.
+
+&emsp;&emsp;“(B) Payments for any damages and costs resulting from the performance or cancellation of any contract or other obligation in support of the Program.
+
+&emsp;&emsp;“(C) Payments for any monetary claim against a participating country as a result of the participation of that country in the Program.
+
+&emsp;&emsp;“(D) Payments or reimbursements of other Program expenses, including overhead and administrative costs for any administrative office for the Program.
+
+&emsp;&emsp;“(E) Refunds to other participating countries.
+
+&emsp;“(5)
+
+Costs of operation of offices established for program.—Costs for the operation of any office established to carry out the Program shall be borne jointly by the participating countries as provided for in an agreement referred to in subsection (a).
+
+“(d)
+
+Authority To Contract for Program Activities.—As part of the participation by the United States in the Program, the Secretary of Defense may enter into contracts or incur other obligations on behalf of the other participating countries for activities under the Program. Any payment for such a contract or other obligation under this subsection may be paid only from contributions credited to an appropriation under subsection (c)(4).
+
+“(e)
+
+Disposal of Property.—As part of the participation by the United States in the Program, the Secretary of Defense may, with respect to any property that is jointly acquired by the countries participating in the Program, agree to the disposal of the property without regard to any law of the United States that is otherwise applicable to the disposal of property owned by the United States. Such disposal may include the transfer of the interest of the United States in the property to one or more of the other participating countries or the sale of the property. Reimbursement for the value of the property disposed of (including the value of the interest of the United States in the property) shall be made in accordance with an agreement under subsection (a).
+
+“(f)
+
+Reports.—Not later than 60 days before the expiration date of any agreement under subsection (a), the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the activities, costs, and accomplishments of the Program during the five-year period ending on the date of such report.
+
+“(g)
+
+Sunset.—Any agreement entered into by the United States with another country under subsection (a), and United States participation in the joint agreement described in that subsection, shall expire not later than five years after the date of the enactment of this Act \[Jan. 2, 2013\].”
 

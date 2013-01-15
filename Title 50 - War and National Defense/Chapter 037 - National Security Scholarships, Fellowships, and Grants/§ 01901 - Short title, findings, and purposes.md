@@ -32,7 +32,7 @@ The purposes of this chapter are as follows:
 
 &emsp;(3) To produce an increased pool of applicants for work in the departments and agencies of the United States Government with national security responsibilities.
 
-&emsp;(4) To expand, in conjunction with other Federal programs, the international experience, knowledge base, and perspectives on which the United States citizenry, Government employees, and leaders rely.
+&emsp;(4) To expand, in conjunction with other Federal programs, the international experience, knowledge base, and perspectives onwhich the United States citizenry, Government employees, and leaders rely.
 
 &emsp;(5) To permit the Federal Government to advocate the cause of international education.
 

@@ -70,11 +70,11 @@ Subsec. (f). Pub. L. 94–455, §1901(b)(36)(A), struck out subsec. (f) which pr
 
 #### Effective Date of 1984 Amendment
 
-Section 95(b) of Pub. L. 98–369 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[July 18, 1984\].”
+Pub. L. 98–369, div. A, title I, §95(b), July 18, 1984, 98 Stat. 616, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[July 18, 1984\].”
 
 #### Effective Date of 1981 Amendment
 
-Section 236(b) of Pub. L. 97–34 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1981.”
+Pub. L. 97–34, title II, §236(b), Aug. 13, 1981, 95 Stat. 252, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1981.”
 
 #### Effective Date of 1976 Amendment
 

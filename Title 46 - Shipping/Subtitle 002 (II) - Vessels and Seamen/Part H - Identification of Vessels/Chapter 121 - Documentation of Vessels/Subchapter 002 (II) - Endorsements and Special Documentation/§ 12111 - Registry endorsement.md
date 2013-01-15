@@ -26,7 +26,7 @@ In general.—Subject to subparagraph (B), a trust qualifies under this paragrap
 
 &emsp;&emsp;&emsp;(i) each trustee is a citizen of the United States; and
 
-&emsp;&emsp;&emsp;(ii) the application for documentation of the vessel includes the affidavit of eachtrustee stating that the trustee is not aware of any reason involving a beneficiary of the trust that is not a citizen of the United States, or involving any other person that is not a citizen of the United States, as a result of which the beneficiary or other person would hold more than 25 percent of the aggregate power to influence or limit the exercise of the authority of the trustee with respect to matters involving any ownership or operation of the vessel that may adversely affect the interests of the United States.
+&emsp;&emsp;&emsp;(ii) the application for documentation of the vessel includes the affidavit of each trustee stating that the trustee is not aware of any reason involving a beneficiary of the trust that is not a citizen of the United States, or involving any other person that is not a citizen of the United States, as a result of which the beneficiary or other person would hold more than 25 percent of the aggregate power to influence or limit the exercise of the authority of the trustee with respect to matters involving any ownership or operation of the vessel that may adversely affect the interests of the United States.
 
 &emsp;&emsp;(B)
 
@@ -82,7 +82,7 @@ Historical and Revision Notes
 
 #### Prior Provisions
 
-A prior section 12111, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 588; Pub. L. 100–710, title I, §103(a), Nov. 23, 1988, 102 Stat. 4749; Pub. L. 104–324, title III, §301(d)(2)(A), Oct. 19, 1996, 110 Stat. 3916; Pub. L. 107–295, title II, §205(c), Nov. 25, 2002, 116 Stat. 2096, originally derived from section 65<i>o</i> of former Title 46, Shipping, related to surrender and invalidation of certificates of documentation, prior to the general amendment of this chapter by Pub. L. 109–304. See sections 12135 and 12136 of this title.
+A prior section 12111, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 588; Pub. L. 100–710, title I, §103(a), Nov. 23, 1988, 102 Stat. 4749; Pub. L. 104–324, title III, §301(d)(2)(A), Oct. 19, 1996, 110 Stat. 3916; Pub. L. 107–295, title II, §205(c), Nov. 25, 2002, 116 Stat. 2096, originally derived from section 65o of former Title 46, Shipping, related to surrender and invalidation of certificates of documentation, prior to the general amendment of this chapter by Pub. L. 109–304. See sections 12135 and 12136 of this title.
 
 #### Amendments
 

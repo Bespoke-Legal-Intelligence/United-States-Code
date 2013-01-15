@@ -10,7 +10,7 @@ Appearance.—A person may appear and be heard before the Secretary, the Under S
 
 (c)
 
-Recording and Public Access.—Official action taken by the Secretary, Under Secretary, and Administrator under this part shall be recorded. Proceedings before the Secretary, Under Secretary, and Administrator shall be open to the public on the request of an interested partyunless the Secretary, Under Secretary, or Administrator decides that secrecy is required because of national defense.
+Recording and Public Access.—Official action taken by the Secretary, Under Secretary, and Administrator under this part shall be recorded. Proceedings before the Secretary, Under Secretary, and Administrator shall be open to the public on the request of an interested party unless the Secretary, Under Secretary, or Administrator decides that secrecy is required because of national defense.
 
 (d)
 
@@ -92,7 +92,7 @@ In subsection (d), the words “officer or employee of the Administration” are
 
 #### Amendments
 
-<b>2001</b>—Subsec. (a). Pub. L. 107–71, §140(b)(1), inserted “the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or” after “(or”.
+<b>2001</b>—Subsec. (a). Pub. L. 107–71, §140(b)(1), inserted “the Under Secretary of Transportation for Security with respect to security duties and powers designatedto be carried out by the Under Secretary or” after “(or”.
 
 Subsec. (b). Pub. L. 107–71, §140(b)(4), substituted “, the Under Secretary, and the Administrator” for “and the Administrator”.
 

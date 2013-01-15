@@ -24,13 +24,15 @@ Airway Capital Investment Plan.—The Administrator of the Federal Aviation Admi
 
 &emsp;&emsp;(C) personnel levels required for the activities described in subclauses (A) and (B) of this clause;
 
-&emsp;(3) for the 3d, 4th, and 5th years of the plan, estimates of the total cost of each major program for the 3-year period, and additional major research programs, acquisition of systems and facilities, and changes in personnel levels that may be required to meet long range objectives and that may have significant impact on future funding requirements; and
+&emsp;(3) for the 3d, 4th, and 5th years of the plan, estimates of the total cost of each major program for the 3-year period, and additional major research programs, acquisition of systems and facilities, and changes in personnel levels that may be required to meet long range objectives and that may have significant impact on future funding requirements;
 
 &emsp;(4) a 10-year investment plan that considers long range objectives that the Administrator considers necessary to—
 
 &emsp;&emsp;(A) ensure that safety is given the highest priority in providing for a safe and efficient airway system; and
 
-&emsp;&emsp;(B) meet the current and projected growth of aviation and the requirements of interstate commerce, the United States Postal Service, and the national defense.
+&emsp;&emsp;(B) meet the current and projected growth of aviation and the requirements of interstate commerce, the United States Postal Service, and the national defense; and
+
+&emsp;(5) a list of capital projects that are part of the Next Generation Air Transportation System and funded by amounts appropriated under section 48101(a).
 
 (c)
 
@@ -58,7 +60,7 @@ National Aviation Research Plan.—(1) The Administrator of the Federal Aviation
 
 (3) Subject to section 40119(b) of this title and regulations prescribed under section 40119(b), the Administrator of the Federal Aviation Administration shall submit to the committees named in paragraph (1) of this subsection an annual report on the accomplishments of the research completed during the prior fiscal year, including a description of the dissemination to the private sector of research results and a description of any new technologies developed. The report shall be submitted with the plan required under paragraph (1) and be organized to allow comparison with the plan in effect for the prior fiscal year. The report shall be prepared in accordance with requirements of section 1116 of title 31.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1173; Pub. L. 104–264, title XI, §1105, Oct. 9, 1996, 110 Stat. 3279; Pub. L. 104–287, §5(74), Oct. 11, 1996, 110 Stat. 3396; Pub. L. 106–181, title IX, §902(a), Apr. 5, 2000, 114 Stat. 195.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1173; Pub. L. 104–264, title XI, §1105, Oct. 9, 1996, 110 Stat. 3279; Pub. L. 104–287, §5(74), Oct. 11, 1996, 110 Stat. 3396; Pub. L. 106–181, title IX, §902(a), Apr. 5, 2000, 114 Stat. 195; Pub. L. 112–95, title I, §105, Feb. 14, 2012, 126 Stat. 17.)
 
 Historical and Revision Notes
 
@@ -112,6 +114,8 @@ The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (
 
 #### Amendments
 
+<b>2012</b>—Subsec. (b)(5). Pub. L. 112–95 added par. (5).
+
 <b>2000</b>—Subsec. (c)(2)(B)(iv) to (vi). Pub. L. 106–181, §902(a)(1), added cls. (iv) and (vi) and redesignated former cl. (iv) as (v).
 
 Subsec. (c)(3). Pub. L. 106–181, §902(a)(2), inserted at end “The report shall be prepared in accordance with requirements of section 1116 of title 31.”
@@ -135,4 +139,156 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 #### Effective Date of 1996 Amendment
 
 Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+
+#### Consolidation and Realignment of FAA Services and Facilities
+
+Pub. L. 112–95, title VIII, §804, Feb. 14, 2012, 126 Stat. 119, provided that:
+
+“(a)
+
+National Facilities Realignment and Consolidation Report.—
+
+&emsp;“(1)
+
+In general.—The Administrator of the Federal Aviation Administration shall develop a report, to be known as the National Facilities Realignment and Consolidation Report, in accordance with the requirements of this subsection.
+
+&emsp;“(2)
+
+Purpose.—The purpose of the report shall be—
+
+&emsp;&emsp;“(A) to support the transition to the Next Generation Air Transportation System; and
+
+&emsp;&emsp;“(B) to reduce capital, operating, maintenance, and administrative costs of the FAA where such cost reductions can be implemented without adversely affecting safety.
+
+&emsp;“(3)
+
+Contents.—The report shall include—
+
+&emsp;&emsp;“(A) recommendations of the Administrator on realignment and consolidation of services and facilities (including regional offices) of the FAA; and
+
+&emsp;&emsp;“(B) for each of the recommendations, a description of—
+
+&emsp;&emsp;&emsp;“(i) the Administrator's justification;
+
+&emsp;&emsp;&emsp;“(ii) the projected costs and savings; and
+
+&emsp;&emsp;&emsp;“(iii) the proposed timing for implementation.
+
+&emsp;“(4)
+
+Input.—The report shall be developed by the Administrator (or the Administrator's designee)—
+
+&emsp;&emsp;“(A) in coordination with the Chief NextGen Officer and the Chief Operating Officer of the Air Traffic Organization of the FAA; and
+
+&emsp;&emsp;“(B) with the participation of—
+
+&emsp;&emsp;&emsp;“(i) representatives of labor organizations representing operations and maintenance employees of the air traffic control system; and
+
+&emsp;&emsp;&emsp;“(ii) industry stakeholders.
+
+&emsp;“(5)
+
+Submission to congress.—Not later than 120 days after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator shall submit the report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
+
+&emsp;“(6)
+
+Public notice and comment.—The Administrator shall publish the report in the Federal Register and allow 45 days for the submission of public comments.
+
+“(b)
+
+Report to Congress Containing Recommendations of Administrator.—Not later than 60 days after the last day of the period for public comment under subsection (a)(6), the Administrator shall submit to the committees specified in subsection (a)(5)—
+
+&emsp;“(1) a report containing the recommendations of the Administrator on realignment and consolidation of services and facilities (including regional offices) of the FAA; and
+
+&emsp;“(2) copies of any public comments received by the Administrator under subsection (a)(6).
+
+“(c)
+
+Realignment and Consolidation of FAA Services and Facilities.—Except as provided in subsection (d), the Administrator shall realign and consolidate the services and facilities of the FAA in accordance with the recommendations included in the report submitted under subsection (b).
+
+“(d)
+
+Congressional Disapproval.—
+
+&emsp;“(1)
+
+In general.—The Administrator may not carry out a recommendation for realignment or consolidation of services or facilities of the FAA that is included in the report submitted under subsection (b) if a joint resolution of disapproval is enacted disapproving such recommendation before the earlier of—
+
+&emsp;&emsp;“(A) the last day of the 30-day period beginning on the date of submission of the report; or
+
+&emsp;&emsp;“(B) the adjournment of Congress sine die for the session during which the report is transmitted.
+
+&emsp;“(2)
+
+Computation of 30-day period.—For purposes of paragraph (1)(A), the days on which either House of Congress is not in session because of an adjournment of more than 3 days to a day certain shall be excluded in computation of the 30-day period.
+
+“(e)
+
+Definitions.—In this section, the following definitions apply:
+
+&emsp;“(1)
+
+FAA.—The term ‘FAA’ means the Federal Aviation Administration.
+
+&emsp;“(2)
+
+Realignment; consolidation.—
+
+&emsp;&emsp;“(A)
+
+In general.—The terms ‘realignment’ and ‘consolidation’ include any action that—
+
+&emsp;&emsp;&emsp;“(i) relocates functions, services, or personnel positions;
+
+&emsp;&emsp;&emsp;“(ii) discontinues or severs existing facility functions or services; or
+
+&emsp;&emsp;&emsp;“(iii) combines the results described in clauses (i) and (ii).
+
+&emsp;&emsp;“(B)
+
+Exclusion.—The terms do not include a reduction in personnel resulting from workload adjustments.”
+
+#### Program Authorizations
+
+Pub. L. 112–95, title IX, §901(c), Feb. 14, 2012, 126 Stat. 137, provided that: “From the other accounts described in the national aviation research plan required undersection 44501(c) of title 49, United States Code, the following research and development activities are authorized:
+
+&emsp;“(1) Runway Incursion Reduction.
+
+&emsp;“(2) System Capacity, Planning, and Improvement.
+
+&emsp;“(3) Operations Concept Validation.
+
+&emsp;“(4) NAS Weather Requirements.
+
+&emsp;“(5) Airspace Management Program.
+
+&emsp;“(6) NextGen—Air Traffic Control/Technical Operations Human Factors.
+
+&emsp;“(7) NextGen—Environment and Energy—Environmental Management System and Advanced Noise and Emissions Reduction.
+
+&emsp;“(8) NextGen—New Air Traffic Management Requirements.
+
+&emsp;“(9) NextGen—Operations Concept Validation—Validation Modeling.
+
+&emsp;“(10) NextGen—System Safety Management Transformation.
+
+&emsp;“(11) NextGen—Wake Turbulence—Recategorization.
+
+&emsp;“(12) NextGen—Operational Assessments.
+
+&emsp;“(13) NextGen—Staffed NextGen Towers.
+
+&emsp;“(14) Center for Advanced Aviation System Development.
+
+&emsp;“(15) Airports Technology Research Program—Capacity.
+
+&emsp;“(16) Airports Technology Research Program—Safety.
+
+&emsp;“(17) Airports Technology Research Program—Environment.
+
+&emsp;“(18) Airport Cooperative Research—Capacity.
+
+&emsp;“(19) Airport Cooperative Research—Environment.
+
+&emsp;“(20) Airport Cooperative Research—Safety.”
 

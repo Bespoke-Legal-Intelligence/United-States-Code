@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The purpose of this section is to support employment and training activities for Indian,Alaska Native, and Native Hawaiian individuals in order—
+&emsp;The purpose of this section is to support employment and training activities for Indian, Alaska Native, and Native Hawaiian individuals in order—
 
 &emsp;&emsp;(A) to develop more fully the academic, occupational, and literacy skills of such individuals;
 
@@ -26,7 +26,7 @@ As used in this section:
 
 #### (2) Indian, Indian tribe, and tribal organization
 
-&emsp;The terms “Indian”, “Indian tribe”, and “tribal organization” have the meanings given such terms in subsections (d), (e), and (<i>l</i>), respectively, of section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).
+&emsp;The terms “Indian”, “Indian tribe”, and “tribal organization” have the meanings given such terms in subsections (d), (e), and (l), respectively, of section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).
 
 #### (3) Native Hawaiian and Native Hawaiian organization
 
@@ -90,7 +90,7 @@ Nothing in this section shall be construed—
 
 &emsp;(1) to limit the eligibility of any entity described in subsection (c) of this section to participate in any activity offered by a State or local entity under this Act; or
 
-&emsp;(2) to preclude or discourage any agreement, between any entity described in subsection (c)of this section and any State or local entity, to facilitate the provision of services by such entity or to the population served by such entity.
+&emsp;(2) to preclude or discourage any agreement, between any entity described in subsection (c) of this section and any State or local entity, to facilitate the provision of services by such entity or to the population served by such entity.
 
 #### (h) Administrative provisions
 

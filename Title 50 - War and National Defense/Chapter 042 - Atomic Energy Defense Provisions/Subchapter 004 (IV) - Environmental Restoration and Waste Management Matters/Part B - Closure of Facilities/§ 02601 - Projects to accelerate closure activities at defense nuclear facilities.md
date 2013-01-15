@@ -50,7 +50,7 @@ The Secretary of Energy, acting through the Assistant Secretary for Environmenta
 
 (1) The Secretary of Energy shall select closure-acceleration projects to be carried out under this section from among those projects established as eligible under subsection (c) that will result in the most significant long-term cost savings to the Government and the most significant reduction of imminent risk.
 
-(2) For each project selected, the Secretary shall submit to Congress a report setting forth the reasons why the project was selected, based on the criteria under subsection (c)(2) and paragraph (1) of this subsection.
+(2) For each project selected, the Secretary shall submit to Congress a report setting forththe reasons why the project was selected, based on the criteria under subsection (c)(2) and paragraph (1) of this subsection.
 
 #### (f) Multiyear contracts
 
@@ -104,7 +104,7 @@ Pub. L. 108–375, div. C, title XXXI, §3116, Oct. 28, 2004, 118 Stat. 2162, pr
 
 “(a)
 
-In General.—Notwithstanding the provisions of the Nuclear Waste Policy Act of 1982 \[42 U.S.C. 10101 et seq.\], the requirements of section 202 of the Energy Reorganization Act of 1974 \[42 U.S.C. 5842\], and other laws that define classes of radioactive waste, with respect tomaterial stored at a Department of Energy site at which activities are regulated by a covered State pursuant to approved closure plans or permits issued by the State, the term ‘high-level radioactive waste’ does not include radioactive waste resulting from the reprocessing of spent nuclear fuel that the Secretary of Energy (in this section referred to as the ‘Secretary’), in consultation with the Nuclear Regulatory Commission (in this section referred to as the ‘Commission’), determines—
+In General.—Notwithstanding the provisions of the Nuclear Waste Policy Act of 1982 \[42 U.S.C. 10101 et seq.\], the requirements of section 202 of the Energy Reorganization Act of 1974 \[42 U.S.C. 5842\], and other laws that define classes of radioactive waste, with respect to material stored at a Department of Energy site at which activities are regulated by a covered State pursuant to approved closure plans or permits issued by the State, the term ‘high-level radioactive waste’ does not include radioactive waste resulting from the reprocessing of spent nuclear fuel that the Secretary of Energy (in this section referred to as the ‘Secretary’), in consultation with the Nuclear Regulatory Commission (in this section referred to as the ‘Commission’), determines—
 
 &emsp;“(1) does not require permanent isolation in a deep geologic repository for spent fuel or high-level radioactive waste;
 
@@ -128,7 +128,7 @@ In General.—Notwithstanding the provisions of the Nuclear Waste Policy Act of 
 
 Monitoring by Nuclear Regulatory Commission.—(1) The Commission shall, in coordination with the covered State, monitor disposal actions taken by the Department of Energy pursuant to subparagraphs (A) and (B) of subsection (a)(3) for the purpose of assessing compliance with the performance objectives set out in subpart C of part 61 of title 10, Code of Federal Regulations.
 
-“(2) If the Commission considers any disposal actions taken by the Department of Energy pursuant to those subparagraphs to be not in compliance with those performance objectives, the Commission shall, as soon as practicable after discovery of the noncompliant conditions, inform the Department of Energy, the covered State, and the following congressional committees:
+“(2) If the Commission considers any disposal actions taken by the Department of Energy pursuant to thosesubparagraphs to be not in compliance with those performance objectives, the Commission shall, as soon as practicable after discovery of the noncompliant conditions, inform the Department of Energy, the covered State, and the following congressional committees:
 
 &emsp;“(A) The Committee on Armed Services, the Committee on Energy and Commerce, and the Committee on Appropriations of the House of Representatives.
 

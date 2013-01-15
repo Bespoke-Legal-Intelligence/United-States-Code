@@ -10,11 +10,11 @@ The Administrator, in consultation with the Administrator of the Federal Emergen
 
 #### (c) Completion; revision
 
-The initial regulations shall be completed not later than 270 days after the date of the enactment of the Small Business Disaster Response and Loan Improvements Act of 2008. Thereafter, the regulations shall be revised on an annual basis.
+The initial regulations shall be completed not later than 270 days after the date of the enactment of the Small Business Disaster Responseand Loan Improvements Act of 2008. Thereafter, the regulations shall be revised on an annual basis.
 
 #### (d) Report
 
-The Administrator shall include a report on the regulations whenever the Administration submits the report required by section 657<i>o</i> of this title.
+The Administrator shall include a report on the regulations whenever the Administration submits the report required by section 657o of this title.
 
 (Pub. L. 85–536, §2\[37\], as added Pub. L. 110–234, title XII, §12062(2), May 22, 2008, 122 Stat. 1407, and Pub. L. 110–246, §4(a), title XII, §12062(2), June 18, 2008, 122 Stat. 1664, 2169.)
 
@@ -28,7 +28,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 #### Prior Provisions
 
-A prior section 2\[37\] of Pub. L. 85–536 was renumbered section 2\[44\] and is set out as a note under section 631 of this title.
+A prior section 2\[37\] of Pub. L. 85–536 was renumbered section 2\[47\] and is set out as a note under section 631 of this title.
 
 #### Effective Date
 

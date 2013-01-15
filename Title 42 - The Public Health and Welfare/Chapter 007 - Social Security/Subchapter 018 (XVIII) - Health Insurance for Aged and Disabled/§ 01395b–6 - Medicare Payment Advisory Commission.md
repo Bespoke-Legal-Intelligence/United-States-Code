@@ -30,7 +30,7 @@ There is hereby established as an agency of Congress the Medicare Payment Adviso
 
 &emsp;&emsp;&emsp;(iii) The implications of risk selection both among Medicare+Choice organizations and between the Medicare+Choice option and the original medicare fee-for-service option.
 
-&emsp;&emsp;&emsp;(iv) The development and implementation of mechanisms to assure the quality of care for those enrolled with Medicare+�Choice organizations.
+&emsp;&emsp;&emsp;(iv) The development and implementation of mechanisms to assure the quality of care for those enrolled with Medicare+Choice organizations.
 
 &emsp;&emsp;&emsp;(v) The impact of the Medicare+Choice program on access to care for medicare beneficiaries.
 
@@ -60,7 +60,7 @@ There is hereby established as an agency of Congress the Medicare Payment Adviso
 
 #### (5) Agenda and additional reviews
 
-&emsp;The Commission shall consult periodically with the chairmen and ranking minority members of the appropriate committees of Congress regarding the Commission's agenda and progress towards achieving the agenda.The Commission may conduct additional reviews, and submit additional reports to the appropriate committees of Congress, from time to time on such topics relating to the program under this subchapter as may be requested by such chairmen and members and as the Commission deems appropriate.
+&emsp;The Commission shall consult periodically with the chairmen and ranking minority members of the appropriate committees of Congress regarding the Commission's agenda and progress towards achieving the agenda. The Commission may conduct additional reviews, and submit additional reports to the appropriate committees of Congress, from time to time on such topics relating to the program under this subchapter as may be requested by such chairmen and members and as the Commission deems appropriate.
 
 #### (6) Availability of reports
 
@@ -122,7 +122,7 @@ There is hereby established as an agency of Congress the Medicare Payment Adviso
 
 #### (B) Vacancies
 
-&emsp;&emsp;Any member appointed to fill a vacancy occurring before the expiration of the term for which the member's predecessor was appointed shall be appointed only for the remainder of that term. A member may serve after the expiration of that member's term until a successor has taken office. A vacancy in the Commission shall be filled in the manner in which the original appointment was made.
+&emsp;&emsp;Any member appointed to fill a vacancy occurring before the expiration of the term for which the member's predecessor was appointed shall be appointed only for the remainder of that term. A member may serveafter the expiration of that member's term until a successor has taken office. A vacancy in the Commission shall be filled in the manner in which the original appointment was made.
 
 #### (4) Compensation
 
@@ -186,7 +186,7 @@ Subject to such review as the Comptroller General deems necessary to assure the 
 
 &emsp;There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section. Sixty percent of such appropriation shall be payable from the Federal Hospital Insurance Trust Fund, and 40 percent of such appropriation shall be payable from the Federal Supplementary Medical Insurance Trust Fund.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1805, as added Pub. L. 105–33, title IV, §4022(a), Aug. 5, 1997, 111 Stat. 350; amended Pub. L. 105–277, div. J, title V, §5202(a), Oct. 21, 1998, 112 Stat. 2681–917; Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §211(a)(2)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–347; Pub. L. 106–554, §1(a)(6) \[title V, §544(a)(1), (b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–551; Pub. L. 108–173, title VII, §735(a)–(c)(1), (e)(1), Dec. 8, 2003, 117 Stat. 2353, 2354; Pub. L. 110–173, title III, §301, Dec. 29, 2007,121 Stat. 2514; Pub. L. 111–148, title II, §2801(b), title III, §3403(c), title X, §10320(b), Mar. 23, 2010, 124 Stat. 332, 507, 952.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1805, as added Pub. L. 105–33, title IV, §4022(a), Aug. 5, 1997, 111 Stat. 350; amended Pub. L. 105–277, div. J, title V, §5202(a), Oct. 21, 1998, 112 Stat. 2681–917; Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §211(a)(2)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–347; Pub. L. 106–554, §1(a)(6) \[title V, §544(a)(1), (b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–551; Pub. L. 108–173, title VII, §735(a)–(c)(1), (e)(1), Dec. 8, 2003, 117 Stat. 2353, 2354; Pub. L. 110–173, title III, §301, Dec. 29, 2007, 121 Stat. 2514; Pub. L. 111–148, title II, §2801(b), title III, §3403(c), title X, §10320(b), Mar. 23, 2010, 124 Stat. 332, 507, 952.)
 
 #### References in Text
 
@@ -252,7 +252,7 @@ Amendment by Pub. L. 106–113 effective in determining conversion factor under 
 
 #### Effective Date; Transition; Transfer of Functions
 
-Section 4022(c) of Pub. L. 105–33 provided that:
+Pub. L. 105–33, title IV, §4022(c), Aug. 5, 1997, 111 Stat. 355, provided that:
 
 “(1)
 
@@ -348,7 +348,7 @@ Commencement of terms.—Such terms shall begin on May 1, 1999.”
 
 #### Information Included in Annual Recommendations
 
-Section 4804(c) of Pub. L. 105–33 provided that: “The Medicare Payment Advisory Commission shall include in its annual report under section 1805(b)(1)(B) of the Social Security Act \[subsec. (b)(1)(B) of this section\] recommendations on the methodology and level of payments made to PACE providers under sections 1894(d) and 1934(d) of such Act \[sections 1395eee(d) and 1396u–4(d) of this title\] and on the treatment of private, for-profit entities as PACE providers.”
+Pub. L. 105–33, title IV, §4804(c), Aug. 5, 1997, 111 Stat. 552, provided that: “The Medicare Payment Advisory Commission shall include in its annual report under section 1805(b)(1)(B) of the Social Security Act \[subsec. (b)(1)(B) of this section\] recommendations on the methodology and level of payments made to PACE providers under sections 1894(d) and 1934(d) of such Act \[sections 1395eee(d) and 1396u–4(d) of this title\] and on the treatment of private, for-profit entities as PACE providers.”
 
 <i><sup>1</sup></i><i> So in original.</i>
 

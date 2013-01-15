@@ -8,7 +8,17 @@ A certificate of acknowledgment under the hand and official seal of a person aut
 
 An assignment, grant or conveyance shall be void as against any subsequent purchaser or mortgagee for a valuable consideration, without notice, unless it is recorded in the Patent and Trademark Office within three months from its date or prior to the date of such subsequent purchase or mortgage.
 
-(July 19, 1952, ch. 950, 66 Stat. 810; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 97–247, §14(b), Aug. 27, 1982, 96 Stat. 321.)
+(July 19, 1952, ch. 950, 66 Stat. 810; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 97–247, §14(b), Aug. 27, 1982, 96 Stat. 321; Pub. L. 112–211, title II, §201(d), Dec. 18, 2012, 126 Stat. 1535.)
+
+#### Amendment of Section
+
+<i>Pub. L. 112–211, title II, §§201(d), 203, Dec. 18, 2012, 126 Stat. 1535, 1536, provided that, effective on the date that is 1 year after Dec. 18, 2012, applicable to patents issued before, on, or after that effective date and patent applications pending on or filed after that effective date, and not effective with respect to patents in litigation commenced before that effective date, this section is amended as follows:</i>
+
+<i>(1) in the first undesignated paragraph, by adding at the end “The Patent and Trademark Office shall maintain a register of interests in patents and applications for patents and shall record any document related thereto upon request, and may require a fee therefor.”; and</i>
+
+<i>(2) in the fourth undesignated paragraph, by substituting “An interest that constitutes an assignment” for “An assignment”.</i>
+
+<i>See 2012 Amendment note below.</i>
 
 #### Historical and Revision Notes
 
@@ -18,9 +28,15 @@ The first paragraph is new but is declaratory only. The second paragraph is the 
 
 #### Amendments
 
+<b>2012</b>—Pub. L. 112–211 inserted “The Patent and Trademark Office shall maintain a register of interests in patents and applications for patents and shall recordany document related thereto upon request, and may require a fee therefor.” at end of first par. and substituted “An interest that constitutes an assignment” for “An assignment” in fourth par.
+
 <b>1982</b>—Pub. L. 97–247 inserted “, or apostille of an official designated by a foreign country which, by treaty or convention, accords like effect to apostilles of designated officials in the United States”.
 
 <b>1975</b>—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–211 effective on the date that is 1 year after Dec. 18, 2012, applicable to patents issued before, on, or after that effective date and patent applications pending on or filed after that effective date, and not effective with respect to patents in litigation commenced before that effective date, see section 203 of Pub. L. 112–211, set out as an Effective Date note under section 27 of this title.
 
 #### Effective Date of 1982 Amendment
 

@@ -86,7 +86,7 @@ The Secretary shall give priority for the award of the contracts or grants descr
 
 Not later than 90 days after the completion of a pilot project under subsection (a), the recipient of such contract or grant described in <sup>1</sup> shall submit to the Secretary a report containing the results of an evaluation of the program, including an identification of—
 
-&emsp;(1) the impact of the regional, accountable emergency care and trauma system on patient health outcomes for various critical care categories, such as trauma, stroke, cardiac emergencies, neurological emergencies, and pediatric emergencies;
+&emsp;(1) the impact of the regional, accountable emergency care and trauma system on patienthealth outcomes for various critical care categories, such as trauma, stroke, cardiac emergencies, neurological emergencies, and pediatric emergencies;
 
 &emsp;(2) the system characteristics that contribute to the effectiveness and efficiency of the program (or lack thereof);
 

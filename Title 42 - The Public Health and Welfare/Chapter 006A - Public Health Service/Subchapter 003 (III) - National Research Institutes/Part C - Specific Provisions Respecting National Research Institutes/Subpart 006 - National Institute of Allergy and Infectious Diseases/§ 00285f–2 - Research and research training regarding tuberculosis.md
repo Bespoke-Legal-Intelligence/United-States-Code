@@ -14,7 +14,7 @@ Amendment by Pub. L. 109–482 applicable only with respect to amounts appropria
 
 #### Research Through Food and Drug Administration
 
-Section 303 of Pub. L. 103–183 provided that: “The Secretary of Health and Human Services, acting through the Commissioner of Food and Drugs, shall implement a tuberculosis drug and device research program under which the Commissioner may—
+Pub. L. 103–183, title III, §303, Dec. 14, 1993, 107 Stat. 2235, provided that: “The Secretary of Health and Human Services, acting through the Commissioner of Food and Drugs, shall implement a tuberculosis drug and device research program under which the Commissioner may—
 
 &emsp;“(1) provide assistance to other Federal agencies for the development of tuberculosis protocols;
 

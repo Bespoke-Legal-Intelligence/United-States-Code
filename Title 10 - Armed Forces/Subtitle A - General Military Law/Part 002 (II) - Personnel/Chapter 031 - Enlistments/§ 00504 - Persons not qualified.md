@@ -28,3 +28,17 @@ Citizenship or Residency.—(1) A person may be enlisted in any armed force only
 
 <b>2006</b>—Pub. L. 109–163 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
+#### Prohibition on Waiver for Commissioning or Enlistment in the Armed Forces for any Individual Convicted of a Felony Sexual Offense
+
+Pub. L. 112–239, div. A, title V, §523, Jan. 2, 2013, 126 Stat. 1723, provided that: “An individual may not be provided a waiver for commissioning or enlistment in the Armed Forces if the individual has been convicted under Federal or State law of a felony offense of any of the following:
+
+&emsp;“(1) Rape.
+
+&emsp;“(2) Sexual abuse.
+
+&emsp;“(3) Sexual assault.
+
+&emsp;“(4) Incest.
+
+&emsp;“(5) Any other sexual offense.”
+

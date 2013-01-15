@@ -14,13 +14,13 @@ No grant shall be made under this section unless the Secretary determines that t
 
 #### (d) Diversion of land; repayment; interim use
 
-No land acquired with assistance under this section shall, without approval of the Secretary, be diverted from the purpose originally approved. The Secretary shall approve no such diversion unless he finds that the diversion is in accord with the then applicable comprehensive plan for the area. In cases of a diversion of land to other than a public purpose, the Secretarymay require repayment of the grant, or substitution of land of approximately equal fair market value, whichever he deems appropriate. An interim use of the land for a public or private purpose in accordance with standards prescribed by the Secretary, or approved by him, shall not constitute a diversion within the meaning of this subsection.
+No land acquired with assistance under this section shall, without approval of the Secretary, be diverted from the purpose originally approved. The Secretary shall approve no such diversion unless he finds that the diversion is in accord with the then applicable comprehensive plan for the area. In cases of a diversion of land to other than a public purpose, the Secretary may require repayment of the grant, or substitution of land of approximately equal fair market value, whichever he deems appropriate. An interim use of the land for a public or private purpose in accordance with standards prescribed by the Secretary, or approved by him, shall not constitute a diversion within the meaning of this subsection.
 
 #### (e) Eligibility for other Federal loans or grant programs
 
 Notwithstanding any other provision of law, no project for which land is acquired with assistance under this section shall, solely as a result of such advance acquisition, be considered ineligible for the purpose of any other Federal loan or grant program, and the amount of the purchase price paid for the land by the recipient of a grant under this section may be considered an eligible cost for the purpose of such other Federal loan or grant program.
 
-(Pub. L. 89–117, title VII, §704, Aug. 10, 1965, 79 Stat. 491; Pub. L. 90–19, §22(b), May 25, 1967, 81 Stat. 26; Pub. L. 90–448, title VI, §603(b), Aug. 1, 1968, 82 Stat. 533; Pub. L. 96–470, title I, §107(c), Oct. 19, 1980, 94 Stat. 2238.)
+(Pub. L. 89–117, title VII, §704, Aug. 10, 1965, 79 Stat. 491; Pub. L. 90–19, §22(b), May 25, 1967, 81Stat. 26; Pub. L. 90–448, title VI, §603(b), Aug. 1, 1968, 82 Stat. 533; Pub. L. 96–470, title I, §107(c), Oct. 19, 1980, 94 Stat. 2238.)
 
 #### Amendments
 

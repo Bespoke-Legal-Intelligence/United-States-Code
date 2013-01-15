@@ -2,7 +2,7 @@
 
 #### (a) Election to consider cutting as sale or exchange
 
-If the taxpayer so elects on his return for a taxable year, the cutting of timber (for sale or for use in the taxpayer's trade or business) during such year by the taxpayer who owns, or has a contract right to cut, such timber (providing he has owned such timber or has held such contract right for a period of more than 1 year) shall be considered as a sale or exchange of such timber cut during such year. If such election has been made, gain or loss to the taxpayer shall be recognized in an amount equal to the difference between the fair market value of such timber, and the adjusted basis for depletion of such timber in the hands of the taxpayer. Such fair market value shall be the fair market value as ofthe first day of the taxable year in which such timber is cut, and shall thereafter be considered as the cost of such cut timber to the taxpayer for all purposes for which such cost is a necessary factor. If a taxpayer makes an election under this subsection, such election shall apply with respect to all timber which is owned by the taxpayer or which the taxpayer has a contract right to cut and shall be binding on the taxpayer for the taxable year for which the election is made and for all subsequent years, unless the Secretary, on showing of undue hardship, permits the taxpayer to revoke his election; such revocation, however, shall preclude any further elections under this subsection except with the consent of the Secretary. For purposes of this subsection and subsection (b), the term “timber” includes evergreen trees which are more than 6 years old at the time severed from the roots and are sold for ornamental purposes.
+If the taxpayer so elects on his return for a taxable year, the cutting of timber (for sale or for use in the taxpayer's trade or business) during such year by the taxpayer who owns, or has a contract right to cut, such timber (providing he has owned such timber or has held such contract right for a period of more than 1 year) shall be considered as a sale or exchange of such timber cut during such year. If such election has been made, gain or loss to the taxpayer shall be recognized in an amount equal to the difference between the fair market value of such timber, and the adjusted basis for depletion of such timber in the hands of the taxpayer. Such fair market value shall be the fair market value as of the first day of the taxable year in which such timber is cut, and shall thereafter be considered as the cost of such cut timber to the taxpayer for all purposes for which such cost is a necessary factor. If a taxpayer makes an election under this subsection, such election shall apply with respect to all timber which is owned by the taxpayer or which the taxpayer has a contract right to cut and shall be binding on the taxpayer for the taxable year for which the election is made and for all subsequent years, unless the Secretary, on showing of undue hardship, permits the taxpayer to revoke his election; such revocation, however, shall preclude any further elections under this subsection except with the consent of the Secretary. For purposes of this subsection and subsection (b), the term “timber” includes evergreen trees which are more than 6 years old at the time severed from the roots and are sold for ornamental purposes.
 
 #### (b) Disposal of timber
 
@@ -24,7 +24,7 @@ In the case of the disposal of coal (including lignite), or iron ore mined in th
 
 <b>1986</b>—Subsec. (c). Pub. L. 99–514 substituted “If for the taxable year of such gain or loss the maximum rate of tax imposed by this chapter on any net capital gain is less than such maximum rate for ordinary income, such owner” for “Such owner”.
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–369, §1001(c)(1), (e), substituted “on the first day of such year and for a period of more than 6 months before such cutting” for “for a period of more than 1 year”, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
+<b>1984</b>—Subsec. (a). Pub. L. 98–369, §1001(c)(1), (e), substituted “on the first day of such year and for a periodof more than 6 months before such cutting” for “for a period of more than 1 year”, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
 
 Subsecs. (b), (c). Pub. L. 98–369, §1001(c)(2), (e), substituted “6 months” for “1 year”, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
 
@@ -56,7 +56,7 @@ Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1984 Amendment
 
-Section 178(b) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–369, div. A, title I, §178(b), July 18, 1984, 98 Stat. 712, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 
@@ -96,11 +96,11 @@ Amendment by section 1001(c) of Pub. L. 98–369 applicable to property acquired
 
 #### Effective Date of 1976 Amendment
 
-Section 1402(b)(1) of Pub. L. 94–455 provided that the amendment made by that section is effective with respect to taxable years beginning in 1977.
+Pub. L. 94–455, title XIV, §1402(b)(1), Oct. 4, 1976, 90 Stat. 1731, provided that the amendment made by that section is effective with respect to taxable years beginning in 1977.
 
-Section 1402(b)(2) of Pub. L. 94–455 provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1977.
+Pub. L. 94–455, title XIV, §1402(b)(2), Oct. 4, 1976, 90 Stat. 1732, provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1977.
 
-Section 1402(b)(3) of Pub. L. 94–455 provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1976.
+Pub. L. 94–455, title XIV, §1402(b)(3), Oct. 4, 1976, 90 Stat. 1733, provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1976.
 
 #### Effective Date of 1964 Amendment
 
@@ -110,5 +110,5 @@ Amendment by Pub. L. 88–272 applicable with respect to amounts received or acc
 
 Pub. L. 108–357, title I, §102(c), Oct. 22, 2004, 118 Stat. 1428, provided that: “Any election under section 631(a) of the Internal Revenue Code of 1986 made for a taxable year ending on or before the date of the enactment of this Act \[Oct. 22, 2004\] may be revoked by the taxpayer for any taxable year ending after such date. For purposes of determining whether such taxpayer may make a further election under such section, such election (and any revocation under this section) shall not be taken into account.”
 
-Section 311(d)(2) of Pub. L. 99–514 provided that: “Any election under section 631(a) of the Internal Revenue Code of 1954 made (whether by a corporation or a person other than a corporation) for a taxable year beginning before January 1, 1987, may be revoked by the taxpayer for any taxable year ending after December 31, 1986. For purposes of determining whether the taxpayer may make a further election under such section, such election (and any revocation under this paragraph) shall not be taken into account.”
+Pub. L. 99–514, title III, §311(d)(2), Oct. 22, 1986, 100 Stat. 2220, provided that: “Any election under section 631(a) of the Internal Revenue Code of 1954 made (whether by a corporation or a person other than a corporation) for a taxable year beginning before January 1, 1987, may be revoked by the taxpayer for any taxable year ending after December 31, 1986. For purposes of determining whether the taxpayer may make a further election under such section, such election (and any revocation under this paragraph) shall not be taken into account.”
 

@@ -4,7 +4,7 @@
 
 &emsp;(1) set forth its plan to provide for the training of individuals as mineral engineers and scientists under a curriculum appropriate to the field of mineral resources and mineral engineering and related fields;
 
-&emsp;(2) set forth policies and procedures which assure that Federal funds made available under this subchapter for any fiscal year will supplement and, to the extent practicable, increase the level of funds that would, in the absence of such Federal funds, be made available for purposes of this subchapter, and in no case supplant such funds; and
+&emsp;(2) set forth policies and procedures which assure that Federal funds made availableunder this subchapter for any fiscal year will supplement and, to the extent practicable, increase the level of funds that would, in the absence of such Federal funds, be made available for purposes of this subchapter, and in no case supplant such funds; and
 
 &emsp;(3) have an officer appointed by its governing authority who shall receive and account for all funds paid under the provisions of this subchapter and shall make an annual report to the Secretary on or before the first day of September of each year, on work accomplished and the status of projects underway, together with a detailed statement of the amounts received under any provisions of this subchapter during the preceding fiscal year, and of its disbursements on schedules prescribed by the Secretary.
 

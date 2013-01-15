@@ -48,7 +48,7 @@ The Administrator of General Services shall provide to the Council, on a reimbur
 
 (5) Any discussion held by any subcouncil shall not be considered to violate any Federal or State antitrust law.
 
-(6) Any discussion held by any subcouncil shall not be subject to the provisions of the Federal Advisory Committee Act, except that a Federalrepresentative shall attend all subcouncil meetings.
+(6) Any discussion held by any subcouncil shall not be subject to the provisions of the Federal Advisory Committee Act, except that a Federal representative shall attend all subcouncil meetings.
 
 (7) Any subcouncil shall terminate 30 days after making recommendations, unless the Council specifically requests that the subcouncil continue in operation.
 

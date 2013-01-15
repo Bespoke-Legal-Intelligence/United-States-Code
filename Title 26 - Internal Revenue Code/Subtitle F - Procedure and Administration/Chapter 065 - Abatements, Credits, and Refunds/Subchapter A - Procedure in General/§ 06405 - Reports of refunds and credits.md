@@ -22,7 +22,7 @@ If any refund or credit of income taxes is attributable to the taxpayer's electi
 
 Subsec. (d). Pub. L. 101–508, §11801(c)(21)(A), struck out subsec. (d) which read as follows: “For purposes of this section, a refund or credit made under subchapter E of chapter 64 (relating to Federal collection of qualified State individual income taxes) for a taxable year shall be treated as a portion of a refund or credit of the income tax for that taxable year.”
 
-<b>1986</b>—Subsecs. (b) to (e). Pub. L. 99–514 redesignated subsecs. (c) to (e) as (b) to (d), respectively, and struckout former subsec. (b) which read as follows: “A report to Congress shall be made annually by such committee of such refunds and credits, including the names of all persons and corporations to whom amounts are credited or payments are made, together with the amounts credited or paid to each.”
+<b>1986</b>—Subsecs. (b) to (e). Pub. L. 99–514 redesignated subsecs. (c) to (e) as (b) to (d), respectively, and struck out former subsec. (b) which read as follows: “A report to Congress shall be made annually by such committee of such refunds and credits, including the names of all persons and corporations to whom amounts are credited or payments are made, together with the amounts credited or paid to each.”
 
 <b>1984</b>—Subsec. (d). Pub. L. 98–369 substituted “section 165(i)” for “section 165(h)”.
 
@@ -44,7 +44,7 @@ Pub. L. 106–554, §1(a)(7) \[title III, §305(b)\], Dec. 21, 2000, 114 Stat. 2
 
 #### Effective Date of 1990 Amendment
 
-Section 11834(b) of Pub. L. 101–508 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 5, 1990\], except that such amendment shall not apply with respect to any refund or credit with respect to a report has been made before such date of enactment under section 6405 of the Internal Revenue Code of 1986.”
+Pub. L. 101–508, title XI, §11834(b), Nov. 5, 1990, 104 Stat. 1388–560, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 5, 1990\], except that such amendment shall not apply with respect to any refund or credit with respect to a report has been made before such date of enactment under section 6405 of the Internal Revenue Code of 1986.”
 
 #### Effective Date of 1986 Amendment
 
@@ -60,11 +60,11 @@ Amendment by Pub. L. 95–227 applicable with respect to contributions, acts, an
 
 #### Effective Date of 1976 Amendment
 
-Section 1210(d)(1) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall take effect on the date of enactment of this Act \[Oct. 4, 1976\], except that such amendments shall not apply with respect to any refund or credit with respect to which a report has been made before the date of enactment of this Act \[Oct. 4, 1976\] under subsection (a) or (c) of section 6405 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\].”
+Pub. L. 94–455, title XII, §1210(d)(1), Oct. 4, 1976, 90 Stat. 1711, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall take effect on the date of enactment of this Act \[Oct. 4, 1976\], except that such amendments shall not apply with respect to any refund or credit with respect to which a report has been made before the date of enactment of this Act \[Oct. 4, 1976\] under subsection (a) or (c) of section 6405 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\].”
 
 #### Effective Date of 1972 Amendment
 
-Section 2(c) of Pub. L. 92–418 provided in part that: “The amendment made by subsection (b) \[amending this section\] shall apply with respect to refunds or credits made after July 1, 1972.”
+Pub. L. 92–418, §2(c), Aug. 29, 1972, 86 Stat. 657, provided in part that: “The amendment made by subsection (b) \[amending this section\] shall apply with respect to refunds or credits made after July 1, 1972.”
 
 #### Savings Provision
 

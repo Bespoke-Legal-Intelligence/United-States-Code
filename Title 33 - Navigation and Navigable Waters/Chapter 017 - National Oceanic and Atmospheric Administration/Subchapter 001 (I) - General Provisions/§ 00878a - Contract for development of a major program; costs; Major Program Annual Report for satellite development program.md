@@ -18,7 +18,7 @@ For purposes of this section—
 
 &emsp;(5) the term “development cost” means the total of all costs, including construction of facilities and civil servant costs, from the period beginning with the approval to proceed to implementation through the achievement of operational readiness, without regard to funding source or management control, for the life of the program;
 
-&emsp;(6) the term “life-cycle cost” means the total of the direct, indirect, recurring, and nonrecurring costs, including the construction of facilities and civil servant costs, and other related expenses incurred or estimated to be incurred in the design, development, verification, production, operation, maintenance, support, and retirement of a program over its planned lifespan, without regard to funding source or management control;
+&emsp;(6) the term “life-cycle cost” means the total of the direct, indirect, recurring, andnonrecurring costs, including the construction of facilities and civil servant costs, and other related expenses incurred or estimated to be incurred in the design, development, verification, production, operation, maintenance, support, and retirement of a program over its planned lifespan, without regard to funding source or management control;
 
 &emsp;(7) the term “major program” means an activity approved to proceed to implementation that has an estimated life-cycle cost of more than $250,000,000; and
 
@@ -84,7 +84,7 @@ Not later than 30 days after receiving a written notification under subsection (
 
 &emsp;&emsp;(A) the projected cost and schedule for completing the program if current requirements of the program are not modified;
 
-&emsp;&emsp;(B) the projected cost and the schedule for completing the program after instituting the actions described under paragraph (1)(B); and
+&emsp;&emsp;(B) the projected cost and the schedule for completing the program after institutingthe actions described under paragraph (1)(B); and
 
 &emsp;&emsp;(C) a description of, and the projected cost and schedule for, a broad range of alternatives to the program.
 

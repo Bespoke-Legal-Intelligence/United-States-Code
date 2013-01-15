@@ -210,7 +210,7 @@ There are hereby appropriated, out of any funds in the Treasury not otherwise ap
 
 &emsp;The Comptroller General shall, not later than December 31 of each even-numbered year (beginning with 2014), report to the appropriate committees of the Congress the results of the study conducted under paragraph (1), including any recommendations for administrative or legislative changes the Comptroller General determines necessary or appropriate to increase competition in the health insurance market.
 
-(Pub. L. 111–148, title I, §1322, title X, §10104(<i>l</i>), Mar. 23, 2010, 124 Stat. 187, 902.)
+(Pub. L. 111–148, title I, §1322, title X, §10104(l), Mar. 23, 2010, 124 Stat. 187, 902.)
 
 #### References in Text
 
@@ -228,5 +228,25 @@ Section is comprised of section 1322 of Pub. L. 111–148. Subsec. (h) of sectio
 
 #### Amendments
 
-<b>2010</b>—Subsec. (b)(3), (4). Pub. L. 111–148, §10104(<i>l</i>), added par. (3) and redesignated former par. (3) as (4).
+<b>2010</b>—Subsec. (b)(3), (4). Pub. L. 111–148, §10104(l), added par. (3) and redesignated former par. (3) as (4).
+
+#### Consumer Operated and Oriented Plan Program Contingency Fund
+
+Pub. L. 112–240, title VI, §644, Jan. 2, 2013, 126 Stat. 2362, provided that:
+
+“(a)
+
+Establishment.—The Secretary of Health and Human Services shall establish a fund to be used to provide assistance and oversight to qualified nonprofit health insurance issuers that have been awarded loans or grants under section 1322 of the Patient Protection and Affordable Care Act (42 U.S.C. 18042) prior to the date of enactment of this Act \[Jan. 2, 2013\].
+
+“(b)
+
+Transfer and Rescission.—
+
+&emsp;“(1)
+
+Transfer.—From the unobligated balance of funds appropriated under section 1322(g) of the Patient Protection and Affordable Care Act (42 U.S.C. 18042(g)), 10 percent of such sums are hereby transferred to the fund established under subsection (a) to remain available until expended.
+
+&emsp;“(2)
+
+Rescission.—Except as provided for in paragraph (1), amounts appropriated under section 1322(g) of the Patient Protection and Affordable Care Act (42 U.S.C. 18042(g)) that are unobligated as of the date of enactment of this Act \[Jan. 2, 2013\] are rescinded.”
 

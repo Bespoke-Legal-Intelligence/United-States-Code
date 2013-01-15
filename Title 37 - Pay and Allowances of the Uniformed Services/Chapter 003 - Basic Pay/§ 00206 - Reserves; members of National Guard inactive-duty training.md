@@ -24,7 +24,7 @@
 
 &emsp;(2) the maximum number of assemblies or periods of other equivalent training, instruction, duty, or appropriate duties, that may be counted for pay purposes in each fiscal year or in lesser periods of time; and
 
-&emsp;(3) the minimum number of assemblies or periods of other equivalent training, instruction,duty, or appropriate duties that must be completed in stated periods of time before the members of units or organizations can qualify for pay.
+&emsp;(3) the minimum number of assemblies or periods of other equivalent training, instruction, duty, or appropriate duties that must be completed in stated periods of time before the members of units or organizations can qualify for pay.
 
 (c) A person enlisted in the inactive National Guard is not entitled to pay under this section.
 

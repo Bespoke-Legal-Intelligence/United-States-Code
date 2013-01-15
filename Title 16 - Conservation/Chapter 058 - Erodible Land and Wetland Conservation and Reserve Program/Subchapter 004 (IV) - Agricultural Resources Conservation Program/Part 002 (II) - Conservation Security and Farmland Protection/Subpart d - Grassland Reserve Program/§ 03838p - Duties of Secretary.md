@@ -68,7 +68,7 @@
 
 #### (B) Payment limitation
 
-&emsp;&emsp;Payments made under 1 or more restoration agreements to a person or legal entity, directly or indirectly, may not exceed, in the aggregate, $50,000 per year.
+&emsp;&emsp;Payments made under 1 or more restoration agreements to a person or legal entity,directly or indirectly, may not exceed, in the aggregate, $50,000 per year.
 
 #### (5) Payments to others
 

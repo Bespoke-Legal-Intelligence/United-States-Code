@@ -40,5 +40,5 @@ In the case of a taxpayer who uses an accrual method of accounting, subsection (
 
 #### Effective Date of 1976 Amendment
 
-Section 2104(b) of Pub. L. 94–455 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1975.”
+Pub. L. 94–455, title XXI, §2104(b), Oct. 4, 1976, 90 Stat. 1902, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1975.”
 

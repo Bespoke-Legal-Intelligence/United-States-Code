@@ -44,7 +44,7 @@ Amendment by Pub. L. 101–239 applicable to plan years beginning on or after De
 
 #### Effective Date of 1987 Amendment
 
-Section 4009(j)(8) of Pub. L. 100–203 provided that the amendment made by that section is effective as if included in Pub. L. 99–514.
+Pub. L. 100–203, title IV, §4009(j)(8), Dec. 22, 1987, 101 Stat. 1330–59, provided that the amendment made by that section is effective as if included in Pub. L. 99–514.
 
 #### Effective Date of 1986 Amendment
 
@@ -52,7 +52,7 @@ Amendment by Pub. L. 99–514 applicable only with respect to qualifying events 
 
 #### Notification to Covered Employees
 
-Section 10003(c) of Pub. L. 99–272 provided that: “At the time that the amendments made by this section \[enacting this subchapter\] apply to a group health plan (covered under section 2201 of the Public Health Service Act \[section 300bb–1 of this title\]), the plan shall notify each covered employee, and spouse of the employee (if any), who is covered under the plan at that time of the continuation coverage required under title XXII of such Act \[this subchapter\]. The notice furnished under this subsection is in lieu of notice that may otherwise be required under section 2206(1) of such Act \[par. (1) of this section\] with respect to such individuals.”
+Pub. L. 99–272, title X, §10003(c), Apr. 7, 1986, 100 Stat. 236, provided that: “At the time that the amendments made by this section \[enacting this subchapter\] apply to a group health plan (covered under section 2201 of the Public Health Service Act \[section 300bb–1 of this title\]), the plan shall notify each covered employee, and spouse of the employee (if any), who is covered under the plan at that time of the continuation coverage required under title XXII of such Act \[this subchapter\]. The notice furnished under this subsection is in lieu of notice that may otherwise be required under section 2206(1) of such Act \[par. (1) of this section\] with respect to such individuals.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subchapter”.</i>
 

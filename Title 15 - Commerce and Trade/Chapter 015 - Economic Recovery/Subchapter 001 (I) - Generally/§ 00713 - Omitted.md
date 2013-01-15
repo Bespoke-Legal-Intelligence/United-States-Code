@@ -4,7 +4,7 @@
 
 Section, acts Jan. 31, 1935, ch. 2, §7, 49 Stat. 4; Jan. 26, 1937, ch. 6, §2(a), 50 Stat. 5; Mar. 4, 1939, ch. 5, §1(a), 53 Stat. 510; Dec. 23, 1943, ch. 383, 57 Stat. 643, was omitted as terminated by its own terms on June 30, 1948. It related to the Commodity Credit Corporation, which was recreated as a Federal corporation by section 714 of this title.
 
-Subsec. (a), continuing the Commodity Credit Corporation, a Delaware corporation, until the close of business on June 30, 1948, authorizing the Corporation to use all its assets (including capital and net earnings therefrom and all moneys allocated to or borrowed by it) in the exercise of its functions as a United States agency, including the making of loans on agricultural commodities, and requiring the Corporation to maintain complete and accurate books of account and to determine the procedures to be followed in the transaction of corporate business, was superseded by sections 714, 714b(a), (d), (<i>l</i>), and 714f of this title.
+Subsec. (a), continuing the Commodity Credit Corporation, a Delaware corporation, until the close of business on June 30, 1948, authorizing the Corporation to use all its assets (including capital and net earnings therefrom and all moneys allocated to or borrowed by it) in the exercise of its functions as a United States agency, including the making of loans on agricultural commodities, and requiring the Corporation to maintain complete and accurate books of account and to determine the procedures to be followed in the transaction of corporate business, was superseded by sections 714, 714b(a), (d), (l), and 714f of this title.
 
 Initial proviso clause of subsec. (b), “That the Corporation shall continue to have the authority to make final and conclusive settlement and adjustment of any claims by or against the Corporation or the accounts of its fiscal officers” was superseded by section 714b(k) of this title.
 
@@ -18,7 +18,7 @@ Acts July 16, 1943, ch. 241, §1, 57 Stat. 556; Feb. 28, 1944, ch. 71, §1, 58 S
 
 #### Dissolution of Corporation
 
-Secretary of Agriculture authorized to dissolve the Delaware corporation under authority of section 714<i>o</i> of this title.
+Secretary of Agriculture authorized to dissolve the Delaware corporation under authority of section 714o of this title.
 
 #### Transfer of Assets of Corporation
 

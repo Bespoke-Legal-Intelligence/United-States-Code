@@ -54,7 +54,7 @@ Pub. L. 103–382, title V, part B, Oct. 20, 1994, 108 Stat. 4045, which provide
 
 #### Study of Federal Benefit Coordination
 
-Section 1405 of Pub. L. 102–325 directed Secretary of Education to conduct a study to evaluate the coordination of Federal student financial assistance programs under title IV of the Higher Education Act of 1965 \[20 U.S.C. 1070 et seq.; 42 U.S.C. 2751 et seq.\] with other programs funded in whole or in part with Federal funds, with Secretary to prepare and submit to appropriate committees of Congress a report on the study not later than 3 years after July 23, 1992, together with such recommendations as the Secretary deemed appropriate, prior to repeal by Pub. L. 105–332, §6(b)(2), Oct. 31, 1998, 112 Stat. 3128.
+Pub. L. 102–325, title XIV, §1405, July 23, 1992, 106 Stat. 818, directed Secretary of Education to conduct a study to evaluate the coordination of Federal student financial assistance programs under title IV of the Higher Education Act of 1965 \[20 U.S.C. 1070 et seq.; 42 U.S.C. 2751 et seq.\] with other programs funded in whole or in part with Federal funds, with Secretary to prepare and submit to appropriate committees of Congress a report on the study not later than 3 years after July 23, 1992, together with such recommendations as the Secretary deemed appropriate, prior to repeal by Pub. L. 105–332, §6(b)(2), Oct. 31, 1998, 112 Stat. 3128.
 
 #### Olympic Scholarships
 
@@ -70,7 +70,7 @@ In general.—The Secretary of Education is authorized to provide financial assi
 
 &emsp;“(2)
 
-Award determination.—The amount of the financial assistance provided to an athlete described in paragraph (1) shall be determined in accordance with criteria, and in amounts, specified in the application of the center under subsection (c). Such assistance shall not exceed the athlete's cost of attendance as determined under section 472 of the Higher Education Act of 1965 (20 U.S.C. 1087<i>ll</i>).
+Award determination.—The amount of the financial assistance provided to an athlete described in paragraph (1) shall be determined in accordance with criteria, and in amounts, specified in the application of the center under subsection (c). Such assistance shall not exceed the athlete's cost of attendance as determined under section 472 of the Higher Education Act of 1965 (20 U.S.C. 1087ll).
 
 &emsp;“(3)
 
@@ -78,7 +78,7 @@ Information on distribution of assistance.—Each center providing such assistan
 
 “(b)
 
-Eligibility.—The Secretary of Education shall ensure that financial assistance provided under thispart \[part E (§1543) of Pub. L. 102–325\] is available to both full-time and part-time students who are athletes at centers described in subsection (a).
+Eligibility.—The Secretary of Education shall ensure that financial assistance provided under this part \[part E (§1543) of Pub. L. 102–325\] is available to both full-time and part-time students who are athletes at centers described in subsection (a).
 
 “(c)
 
@@ -150,7 +150,7 @@ Sense of Congress.—It is the sense of the Congress that all institutions offer
 
 “(b)
 
-Encouragement and Report.—The Secretary of Education shall encourage institutions to provide such refunds or credits, and shall report to the appropriatecommittees of Congress on the actions taken in accordance with this subsection as well as information he receives regarding any institutions that are not providing such refunds or credits.
+Encouragement and Report.—The Secretary of Education shall encourage institutions to provide such refunds or credits, and shall report to the appropriate committees of Congress on the actions taken in accordance with this subsection as well as information he receives regarding any institutions that are not providing such refunds or credits.
 
 #### “SEC. 6. TERMINATION OF AUTHORITY.
 

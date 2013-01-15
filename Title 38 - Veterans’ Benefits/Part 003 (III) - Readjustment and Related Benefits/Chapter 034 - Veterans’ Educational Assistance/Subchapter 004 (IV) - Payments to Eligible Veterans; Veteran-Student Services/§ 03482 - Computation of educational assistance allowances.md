@@ -22,9 +22,9 @@
 
 &emsp;(2) on less than a half-time basis,
 
-> shall be computed at the rate of (A) the established charges for tuition and fees which the institution requires similarly circumstanced nonveterans enrolled in the same program to pay, or (B) $376 per month for a full-time course,whichever is the lesser. An individual's entitlement shall be charged for institutional courses on the basis of the applicable monthly training time rate as determined under section 3688 of this title.
+> shall be computed at the rate of (A) the established charges for tuition and fees which the institution requires similarly circumstanced nonveterans enrolled in the same program to pay, or (B) $376 per month for a full-time course, whichever is the lesser. An individual's entitlement shall be charged for institutional courses on the basis of the applicable monthly training time rate as determined under section 3688 of this title.
 
-(c)(1) An eligible veteran who is enrolled in an educational institution for a “farm cooperative” program consisting of institutional agricultural courses prescheduled to fall within 44 weeks of any period of 12 consecutive months and who pursues such program on—
+(c)(1) An eligible veteran who is enrolled in an educational institution for a “farm cooperative” program consisting of institutional agricultural courses prescheduled to fall within 44 weeks ofany period of 12 consecutive months and who pursues such program on—
 
 &emsp;(A) a full-time basis (a minimum of ten clock hours per week or four hundred and forty clock hours in such year prescheduled to provide not less than eighty clock hours in any three-month period),
 
@@ -58,7 +58,7 @@
 
 (g)(1) Subject to the provisions of paragraph (2) of this subsection, the amount of the educational assistance allowance paid to an eligible veteran who is pursuing a program of education under this chapter while incarcerated in a Federal, State, local, or other penal institution or correctional facility for conviction of a felony may not exceed such amount as the Secretary determines, in accordance with regulations which the Secretary shall prescribe, is necessary to cover the cost of established charges for tuition and fees required of similarly circumstanced nonveterans enrolled in the same program and to cover the cost of necessary supplies, books, and equipment, or the applicable monthly educational assistance allowance prescribed for a veteran with no dependents in subsection (a)(1) or (c)(2) of this section or section 3687(b)(1) of this title, whichever is the lesser. The amount of the educational assistance allowance payable to a veteran while so incarcerated shall be reduced to the extent that the tuition and fees of the veteran for any course are paid under any Federal program (other than a program administered by the Secretary) or under any State or local program.
 
-(2) Paragraph (1) of this subsection shall not apply in the case of any veteran who is pursuinga program of education under this chapter while residing in a halfway house or participating in a work-release program in connection with such veteran's conviction of a felony.
+(2) Paragraph (1) of this subsection shall not apply in the case of any veteran who is pursuing a program of education under this chapter while residing in a halfway house or participating in a work-release program in connection with such veteran's conviction of a felony.
 
 (h)(1) Subject to paragraph (3), the amount of educational assistance payable under this chapter for a licensing or certification test described in section 3452(b) of this title is the lesser of $2,000 or the fee charged for the test.
 
@@ -174,7 +174,7 @@ Subsec. (d)(2). Pub. L. 91–219, §103(d), increased the educational assistance
 
 <b>1968</b>—Subsec. (a)(2). Pub. L. 90–631, §3(b)(1), inserted “, other than a ‘farm cooperative’ program,” after “A ‘cooperative’ program”.
 
-Subsec. (c)(2). Pub. L. 90–631, §3(a), substituted provisions charging the period of entitlement of any eligible veteran with one month for each $130 paid to such veteran as an educational assistance allowance when such veteran is pursuing a program of education exclusively by correspondence for provisions charging the period ofentitlement of any eligible veteran with one-fourth of the elapsed time in following such program of education.
+Subsec. (c)(2). Pub. L. 90–631, §3(a), substituted provisions charging the period of entitlement of any eligible veteran with one month for each $130 paid to such veteran as an educational assistance allowance when such veteran is pursuing a program of education exclusively by correspondence for provisions charging the period of entitlement of any eligible veteran with one-fourth of the elapsed time in following such program of education.
 
 Subsec. (d). Pub. L. 90–631, §3(b)(2), inserted requirement that the “farm cooperative” program consist of institutional agricultural courses prescheduled to fall within 44 weeks of any period of 12 consecutive months, inserted provisions making veterans pursuing programs of 6 or 9 clock hours per week eligible to receive an educational assistance allowance, and substituted provisions that the appropriate rate for such allowance shall be as provided in the table set out in subsec. (d)(2) of this section for provisions that the appropriate rate shall be as provided in the table set out in subsec. (a)(1) of this section opposite the word “Cooperative” under Column I of such table.
 
@@ -198,7 +198,7 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, except as otherwise provide
 
 #### Effective Date of 1980 Amendment
 
-Section 802(b) of Pub. L. 96–466 provided that:
+Pub. L. 96–466, title VIII, §802(b), Oct. 17, 1980, 94 Stat. 2218, provided that:
 
 “(1) The amendments made by part A of title II \[sections 201 to 203 of Pub. L. 96–466, see Tables for classification\] shall become effective on October 1, 1980.
 
@@ -218,23 +218,23 @@ Amendment by Pub. L. 94–502 effective Oct. 1, 1976, see section 703(a) of Pub.
 
 #### Effective Date of 1975 Amendment
 
-Section 206 of title II of Pub. L. 93–602 provided that: “The provisions of this title \[see Tables for classification\] shall become effective on January 1, 1975.”
+Pub. L. 93–602, title II, §206, Jan. 2, 1975, 88 Stat. 1959, provided that: “The provisions of this title \[see Tables for classification\] shall become effective on January 1, 1975.”
 
 #### Effective Date of 1974 Amendment
 
-Section 501 of Pub. L. 93–508 provided that: “Title I of this Act \[see Tables for classification\] shall become effective on September 1, 1974.”
+Pub. L. 93–508, title V, §501, Dec. 3, 1974, 88 Stat. 1601, provided that: “Title I of this Act \[see Tables for classification\] shall become effective on September 1, 1974.”
 
 Amendment by section 204 of Pub. L. 93–508 effective Dec. 3, 1974, see section 503 of Pub. L. 93–508, set out as a note under section 3452 of this title.
 
 #### Effective Date of 1972 Amendment
 
-Section 601(a) of Pub. L. 92–540 provided that: “The rate increases provided in Title I of this Act \[see Tables for classification\] and the rate increases provided by the provisions of section 1787 \[now 3687\], title 38, United States Code (as added by section 316 of this Act) shall become effective October 1, 1972; except, for those veterans and eligible persons in training on the date of enactment \[Oct. 24, 1972\], the effective date shall be the date of the commencement of the current enrollment period, but not earlier than September 1, 1972.”
+Pub. L. 92–540, title VI, §601(a), Oct. 24, 1972, 86 Stat. 1099, provided that: “The rate increases provided in Title I of this Act \[see Tables for classification\] and the rate increases provided by the provisions of section 1787 \[now 3687\], title 38, United States Code (as added by section 316 of this Act) shall become effective October 1, 1972; except, for those veterans and eligible persons in training on the date of enactment \[Oct. 24, 1972\], the effective date shall be the date of the commencement of the current enrollment period, but not earlier than September 1, 1972.”
 
 Amendment by section 303 of Pub. L. 92–540 not to effect any enrollment agreement entered into by an eligible veteran prior to Jan. 1, 1973, see section 602 of Pub. L. 92–540, set out as an Effective Date note under section 3686 of this title.
 
 #### Effective Date of 1970 Amendment
 
-Section 301 of Pub. L. 91–219 provided that: “Title I of this Act \[see Tables for classification\] takes effect February 1, 1970.”
+Pub. L. 91–219, title III, §301, Mar. 26, 1970, 84 Stat. 86, provided that: “Title I of this Act \[see Tables for classification\] takes effect February 1, 1970.”
 
 #### Effective Date of 1968 Amendment
 
@@ -246,9 +246,9 @@ Amendment by Pub. L. 90–77 effective first day of first month which begins mor
 
 #### Applicability of Subsection (g)(1) to Apportionments Made Before October 17, 1980
 
-Section 602(d) of Pub. L. 96–466 provided that: “The provisions of section 1682(g)(1) \[now 3482(g)(1)\] of title 38, United States Code, as added by subsection (a) shall not apply to an apportionment made under section 3107(c) \[now 5307(c)\] of such title before the date of the enactment of this Act \[Oct. 17, 1980\].”
+Pub. L. 96–466, title VI, §602(d), Oct. 17, 1980, 94 Stat. 2209, provided that: “The provisions of section 1682(g)(1) \[now 3482(g)(1)\] of title 38, United States Code, as added by subsection (a) shall not apply to an apportionment made under section 3107(c) \[now 5307(c)\] of such title before the date of the enactment of this Act \[Oct. 17, 1980\].”
 
-\[Section 802(f) of Pub. L. 96–466 provided in part that, except as otherwise specifically provided, section 602(d) shall become effective Oct. 1, 1980.\]
+\[Pub. L. 96–466, title VIII, §802(f), Oct. 17, 1980, 94 Stat. 2218, provided in part that, except as otherwise specifically provided, section 602(d) shall become effective Oct. 1, 1980.\]
 
 #### Overpayments to Veterans by Tangipahoa Parish School Board, Amite, Louisiana
 

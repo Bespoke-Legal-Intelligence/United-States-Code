@@ -10,5 +10,5 @@ For the purposes of this chapter:
 
 #### Short Title
 
-Section 1 of Pub. L. 88–363 provided: “That this Act \[enacting this chapter\] may be cited as the ‘Roosevelt Campobello International Park Act’.”
+Pub. L. 88–363, §1, July 7, 1964, 78 Stat. 299, provided: “That this Act \[enacting this chapter\] may be cited as the ‘Roosevelt Campobello International Park Act’.”
 

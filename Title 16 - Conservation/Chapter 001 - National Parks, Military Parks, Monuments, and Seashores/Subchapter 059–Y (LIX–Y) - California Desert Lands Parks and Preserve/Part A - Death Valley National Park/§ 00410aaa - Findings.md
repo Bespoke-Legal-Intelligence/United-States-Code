@@ -20,7 +20,7 @@ The Wilderness Act, referred to in par. (5), is Pub. L. 88–577, Sept. 3, 1964,
 
 #### Short Title
 
-Section 1 of Pub. L. 103–433 provided that: “Sections 1 and 2, and titles I through IX of this Act \[enacting this subchapter, provisions listed in a table of Wilderness Areas set out under section 1132 of this title, and provisions set out as notes under this section, section 410aaa–82 of this title, and section 1781 of Title 43, Public Lands, and amending provisions listed in a table of National Monuments Established Under Presidential Proclamation set out under section 431 of this title and a table of Wilderness Areas set out under section 1132 of this title\] may be cited as the ‘California Desert Protection Act of 1994’.”
+Pub. L. 103–433, §1, Oct. 31, 1994, 108 Stat. 4471, provided that: “Sections 1 and 2, and titles I through IX of this Act \[enacting this subchapter, provisions listed in a table of Wilderness Areas set out under section 1132 of this title, and provisions set out as notes under this section, section 410aaa–82 of this title, and section 1781 of Title 43, Public Lands, and amending provisions listed in a table of National Monuments Established Under Presidential Proclamation set out under section 431 of this title and a table of Wilderness Areas set out under section 1132 of this title\] may be cited as the ‘California Desert Protection Act of 1994’.”
 
 #### Timbisha Shoshone Homeland
 
@@ -114,7 +114,7 @@ In general.—The following lands and water shall be held in trust for the Tribe
 
 &emsp;&emsp;“(ii) If the Secretary determines that there is insufficient ground water available on the lands described in clause (i) to satisfy the Tribe's right to ground water to fulfill the purposes associated with the transfer of such lands, then the Tribe and the Secretary shall, within 2 years of such determination, identify approximately 640 acres of land that are administered by the Bureau of Land Management in that portion of Inyo County, California, to the north and east of the China Lake Naval Weapons Center, to be a mutually agreed upon substitute for the lands described in clause (i). If the Secretary determines that sufficient water is available to fulfill the purposes associated with the transfer of the lands described in the preceding sentence, then the Tribe shall request that the Secretary accept such lands into trust for the benefit of the Timbisha Shoshone Tribe, and the Secretary shall accept such lands, together with an amount of water not to exceed 10 acre feet per annum, into trust for the Tribe as a substitute for the lands described in clause (i).
 
-&emsp;&emsp;“(D) Scotty's Junction, Nevada, an area of approximately 2,800 acres, as generally depicted on the map entitled ‘Scotty's Junction, Nevada’, numbered Map \#4 and dated April 12, 2000, together with 375.5 acre feet per annum of ground water for the purposes associated with the transfer of such lands.
+&emsp;&emsp;“(D) Scotty's Junction, Nevada, an area of approximately 2,800 acres, as generally depicted on the map entitled ‘Scotty's Junction, Nevada’, numbered Map \#4 and dated April 12, 2000, together with375.5 acre feet per annum of ground water for the purposes associated with the transfer of such lands.
 
 &emsp;&emsp;“(E) Lida, Nevada, Community Parcel, an area of approximately 3,000 acres, as generally depicted on the map entitled ‘Lida, Nevada, Community Parcel’, numbered Map \#5 and dated April 12, 2000, together with 14.7 acre feet per annum of ground water for the purposes associated with the transfer of such lands.
 
@@ -158,7 +158,7 @@ Limitations on impact on mining claims.—Nothing in this Act shall be construed
 
 “(c)
 
-Legal Descriptions.—Not later than 1 year after the date of enactment of this Act \[Nov. 1, 2000\], the Secretary shall file a legal description of the areas described in subsection (b) with the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives and with the Committee on Indian Affairs and the Committee on Energy and Natural Resources of the Senate. Such legal description shall have the same force and effect as if the information contained in the description were included in that subsection except that the Secretary may correct clerical and typographical errors in such legal description and in the maps referred to in the legal description. The legal description shall be on file and available forpublic inspection in the offices of the National Park Service and the Bureau of Land Management.
+Legal Descriptions.—Not later than 1 year after the date of enactment of this Act \[Nov. 1, 2000\], the Secretary shall file a legal description of the areas described in subsection (b) with the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives and with the Committee on Indian Affairs and the Committee on Energy and Natural Resources of the Senate. Such legal description shall have the same force and effect as if the information contained in the description were included in that subsection except that the Secretary may correct clerical and typographical errors in such legal description and in the maps referred to in the legal description. The legal description shall be on file and available for public inspection in the offices of the National Park Service and the Bureau of Land Management.
 
 “(d)
 
@@ -246,7 +246,7 @@ Water Monitoring.—The Secretary and the Tribe shall develop mutually agreed up
 
 “(a)
 
-Tribal Employment.—In employing individuals to perform any construction, maintenance, interpretation, or other service in the Park, the Secretary shall,insofar as practicable, give first preference to qualified members of the Tribe.
+Tribal Employment.—In employing individuals to perform any construction, maintenance, interpretation, or other service in the Park, the Secretary shall, insofar as practicable, give first preference to qualified members of the Tribe.
 
 “(b)
 
@@ -266,7 +266,7 @@ Tribal Jurisdiction Over Trust Lands.—All trust lands that are transferred und
 
 #### Findings and Policy
 
-Section 2 of Pub. L. 103–433 provided that:
+Pub. L. 103–433, §2, Oct. 31, 1994, 108 Stat. 4471, provided that:
 
 “(a) The Congress finds and declares that—
 

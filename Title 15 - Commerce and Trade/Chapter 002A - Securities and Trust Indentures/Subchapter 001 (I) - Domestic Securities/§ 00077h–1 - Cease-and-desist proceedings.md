@@ -48,7 +48,7 @@ In any cease-and-desist proceeding under subsection (a) of this section, the Com
 
 #### (f) Authority of the Commission to prohibit persons from serving as officers or directors
 
-In any cease-and-desist proceeding under subsection (a) of this section, the Commission may issue an order to prohibit, conditionally or unconditionally, and permanently or for such period of time as it shall determine, any person who has violated section 77q(a)(1) of this title or the rules or regulations thereunder, from acting as an officer or director of any issuer that has a class of securities registered pursuant to section 78<i>l</i> of this title, or that is required to file reports pursuant to section 78<i>o</i>(d) of this title, if the conduct of that person demonstrates unfitness to serve as an officer or director of any such issuer.
+In any cease-and-desist proceeding under subsection (a) of this section, the Commission may issue an order to prohibit, conditionally or unconditionally, and permanently or for such period of time as it shall determine, any person who has violated section 77q(a)(1) of this title or the rules or regulations thereunder, from acting as an officer or director of any issuer that has a class of securities registered pursuant to section 78l of this title, or that is required to file reports pursuant to section 78o(d) of this title, if the conduct of that person demonstrates unfitness to serve as an officer or director of any such issuer.
 
 #### (g) Authority to impose money penalties
 
@@ -76,7 +76,7 @@ In any cease-and-desist proceeding under subsection (a) of this section, the Com
 
 #### (C) Third tier
 
-&emsp;&emsp;Notwithstanding subparagraphs (A) and (B), the maximum amount of penalty for each such act or omission shall be $150,000 for a natural person or $725,000 for any other person, if—
+&emsp;&emsp;Notwithstanding subparagraphs (A) and (B), the maximum amount of penalty foreach such act or omission shall be $150,000 for a natural person or $725,000 for any other person, if—
 
 &emsp;&emsp;&emsp;(i) the act or omission described in paragraph (1) involved fraud, deceit, manipulation, or deliberate or reckless disregard of a regulatory requirement; and
 

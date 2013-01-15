@@ -122,7 +122,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 #### (E) Repatriation of aliens
 
-&emsp;&emsp;The government of the country accepts for repatriation any citizen, former citizen, or national of the country against whom a final executable order of removal is issued not later than three weeks after the issuance of the final order of removal. Nothing in this subparagraph creates any duty for the United States or any right for any alien withrespect to removal or release. Nothing in this subparagraph gives rise to any cause of action or claim under this paragraph or any other law against any official of the United States or of any State to compel the release, removal, or consideration for release or removal of any alien.
+&emsp;&emsp;The government of the country accepts for repatriation any citizen, former citizen, or national of the country against whom a final executable order of removal is issued not later than three weeks after the issuance of the final order of removal. Nothing in this subparagraph creates any duty for the United States or any right for any alien with respect to removal or release. Nothing in this subparagraph gives rise to any cause of action or claim under this paragraph or any other law against any official of the United States or of any State to compel the release, removal, or consideration for release or removal of any alien.
 
 #### (F) Passenger information exchange
 
@@ -144,7 +144,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 #### (B) New countries
 
-&emsp;&emsp;In the case of another country, the country may not be designated as a program country unless the following requirements are met:
+&emsp;&emsp;In the case of another country, the country may not be designated as a programcountry unless the following requirements are met:
 
 #### (i) Low nonimmigrant visa refusal rate in previous 2-year period
 
@@ -210,7 +210,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 &emsp;&emsp;&emsp;&emsp;(II) the emergency that caused the termination has ended; and
 
-&emsp;&emsp;&emsp;&emsp;(III) the average number of refusals of nonimmigrant visitor visas for nationals of that country during the period of termination under this subparagraph was less than 3.0 percent of the total number of nonimmigrant visitor visas for nationals of that country which were granted or refused during such period.
+&emsp;&emsp;&emsp;&emsp;(III) the average number of refusals of nonimmigrant visitor visas for nationalsof that country during the period of termination under this subparagraph was less than 3.0 percent of the total number of nonimmigrant visitor visas for nationals of that country which were granted or refused during such period.
 
 #### (iv) Program suspension authority
 
@@ -252,7 +252,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 &emsp;&emsp;&emsp;(iv) the total number of such nationals who were refused United States visas during the previous calendar year under each provision of this chapter under which the visas were refused; and
 
-&emsp;&emsp;&emsp;(v) the number of such nationals that were refused under section 1184(b) of thistitle as a percentage of the visas that were issued to such nationals.
+&emsp;&emsp;&emsp;(v) the number of such nationals that were refused under section 1184(b) of this title as a percentage of the visas that were issued to such nationals.
 
 #### (C) Certification
 
@@ -334,7 +334,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 #### (10) Technical assistance
 
-&emsp;The Secretary of Homeland Security, in consultation with the Secretary of State, shall provide technical assistance to program countries to assist those countries in meeting the requirements under this section. The Secretary of Homeland Security shall ensure that the program office within the Department of Homeland Security is adequately staffed and has resources to be able to provide such technical assistance, in addition to its duties to effectively monitor compliance of the countries participating in the program with all the requirements of the program.
+&emsp;The Secretary of Homeland Security, in consultation with the Secretary of State, shall provide technical assistance to program countries to assist those countries in meeting the requirements under this section. The Secretary of Homeland Security shall ensure that the program office within the Department of Homeland Security is adequately staffed and has resources to be able to provide such technical assistance, in addition to its duties to effectively monitor compliance of the countriesparticipating in the program with all the requirements of the program.
 
 #### (11) Independent review
 
@@ -380,7 +380,7 @@ Notwithstanding any other provision of this section, the Secretary of Homeland S
 
 #### (2) Termination of agreements
 
-&emsp;The Attorney General may terminate an agreement under paragraph (1) with five days’notice to the carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title for the failure by a carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title to meet the terms of such agreement.
+&emsp;The Attorney General may terminate an agreement under paragraph (1) with five days’ notice to the carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title for the failure by a carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title to meet the terms of such agreement.
 
 #### (3) Business aircraft requirements
 
@@ -390,7 +390,7 @@ Notwithstanding any other provision of this section, the Secretary of Homeland S
 
 #### (B) Collections
 
-&emsp;&emsp;In addition to any other fee authorized by law, the Attorney General is authorized to charge and collect, on a periodic basis, an amount from each domestic corporation conducting operations under part 91 of title 14, Code of Federal Regulations, for nonimmigrant visa waiver admissions on noncommercial aircraft owned or operated by such domestic corporation equal to the total amount of fees assessed for issuance of nonimmigrant visa waiver arrival/departure forms at land border ports of entry. All fees collected under this paragraph shall be deposited into the Immigration User Fee Account established under section 1356(h) of this title.
+&emsp;&emsp;In addition to any other fee authorized by law, the Attorney General is authorized to charge and collect, on a periodic basis, an amount from each domestic corporation conducting operations under part 91 of title 14, Code of Federal Regulations, for nonimmigrant visa waiver admissions on noncommercial aircraft owned or operated by such domestic corporation equal to the totalamount of fees assessed for issuance of nonimmigrant visa waiver arrival/departure forms at land border ports of entry. All fees collected under this paragraph shall be deposited into the Immigration User Fee Account established under section 1356(h) of this title.
 
 #### (f) Duration and termination of designation
 
@@ -460,7 +460,7 @@ In the case of an alien denied a waiver under the program by reason of a ground 
 
 #### (ii) Data provision by carriers
 
-&emsp;&emsp;&emsp;Not later than October 1, 2002, no waiver may be provided under this section to an alien arriving by sea or air at a port of entry into the United States on a carrier unless the carrier is electronically transmitting to the automated entry and exit control system passenger data determined by the Attorney General to be sufficient to permit the Attorney General to carry out this paragraph.
+&emsp;&emsp;&emsp;Not later than October 1, 2002, no waiver may be provided under this section to analien arriving by sea or air at a port of entry into the United States on a carrier unless the carrier is electronically transmitting to the automated entry and exit control system passenger data determined by the Attorney General to be sufficient to permit the Attorney General to carry out this paragraph.
 
 #### (iii) Calculation
 
@@ -532,7 +532,7 @@ In the case of an alien denied a waiver under the program by reason of a ground 
 
 #### (ii) Disposition of amounts collected
 
-&emsp;&emsp;&emsp;Amounts collected under clause (i)(I) shall be credited to the Travel Promotion Fund established by subsection (d) of section 2131 of title 22. Amounts collected under clause (i)(II) shall be transferred to the general fund of the Treasury and made available to pay the costs incurred to administer the System.
+&emsp;&emsp;&emsp;Amounts collected under clause (i)(I) shall be credited to the Travel PromotionFund established by subsection (d) of section 2131 of title 22. Amounts collected under clause (i)(II) shall be transferred to the general fund of the Treasury and made available to pay the costs incurred to administer the System.
 
 #### (iii) Sunset of Travel Promotion Fund fee
 
@@ -602,7 +602,7 @@ In the case of an alien denied a waiver under the program by reason of a ground 
 
 &emsp;&emsp;(B) the procedures by which the Secretary shall improve the method of calculating the rates of nonimmigrants who overstay their authorized period of stay in the United States.
 
-(June 27, 1952, ch. 477, title II, ch. 2, §217, as added Pub. L. 99–603, title III, §313(a), Nov. 6, 1986, 100 Stat. 3435; amended Pub. L. 100–525, §2(p)(1), (2), Oct. 24, 1988, 102 Stat. 2613; Pub. L. 101–649, title II, §201(a), Nov. 29, 1990, 104 Stat. 5012; Pub. L. 102–232, title III, §§303(a)(1), (2), 307(<i>l</i>)(3), Dec. 12, 1991, 105 Stat. 1746, 1756; Pub. L. 103–415, §1(m), Oct. 25, 1994, 108 Stat. 4301; Pub. L. 103–416, title II, §§210, 211, Oct. 25, 1994, 108 Stat. 4312, 4313; Pub. L. 104–208, div. C, title III, §308(d)(4)(F), (e)(9), title VI, §635(a)–(c)(1), (3), Sept. 30, 1996, 110 Stat. 3009–618, 3009–620, 3009–702, 3009–703; Pub. L. 105–119, title I, §125, Nov. 26, 1997, 111 Stat. 2471; Pub. L. 105–173, §§1, 3, Apr. 27, 1998, 112 Stat. 56; Pub. L. 106–396, title I, §101(a), title II, §§201–207, title IV, §403(a)–(d), Oct. 30, 2000, 114 Stat. 1637–1644, 1647, 1648; Pub. L. 107–56, title IV, §417(c), (d), Oct. 26, 2001, 115 Stat. 355; Pub. L. 107–173, title III, §307(a), May 14, 2002, 116 Stat. 556; Pub. L. 110–53, title VII, §711(c), (d)(1), Aug. 3, 2007, 121 Stat. 339, 341; Pub. L. 111–145, §9(e), Mar. 4, 2010, 124 Stat. 62; Pub. L. 111–198, §5(a), July 2, 2010, 124 Stat. 1357.)
+(June 27, 1952, ch. 477, title II, ch. 2, §217, as added Pub. L. 99–603, title III, §313(a), Nov. 6, 1986, 100 Stat. 3435; amended Pub. L. 100–525, §2(p)(1), (2), Oct. 24, 1988, 102 Stat. 2613; Pub. L. 101–649, title II, §201(a), Nov. 29, 1990, 104 Stat. 5012; Pub. L. 102–232, title III, §§303(a)(1), (2), 307(l)(3), Dec. 12, 1991, 105 Stat. 1746, 1756; Pub. L. 103–415, §1(m), Oct. 25, 1994, 108 Stat. 4301; Pub. L. 103–416, title II, §§210, 211, Oct. 25, 1994, 108 Stat. 4312, 4313; Pub. L. 104–208, div. C, title III, §308(d)(4)(F), (e)(9), title VI, §635(a)–(c)(1), (3), Sept. 30, 1996, 110 Stat. 3009–618, 3009–620, 3009–702, 3009–703; Pub. L. 105–119, title I, §125, Nov. 26, 1997, 111 Stat. 2471; Pub. L. 105–173, §§1, 3, Apr. 27, 1998, 112 Stat. 56; Pub. L. 106–396, title I, §101(a), title II, §§201–207, title IV, §403(a)–(d), Oct. 30, 2000, 114 Stat. 1637–1644, 1647, 1648; Pub. L. 107–56, title IV, §417(c), (d), Oct. 26, 2001, 115 Stat. 355; Pub. L. 107–173, title III, §307(a), May 14, 2002, 116 Stat. 556; Pub. L. 110–53, title VII, §711(c), (d)(1), Aug. 3, 2007, 121 Stat. 339, 341; Pub. L. 111–145, §9(e), Mar. 4, 2010, 124 Stat. 62; Pub. L. 111–198, §5(a), July 2, 2010, 124 Stat. 1357.)
 
 #### References in Text
 
@@ -610,7 +610,7 @@ This chapter, referred to in subsecs. (b)(1) and (c)(7)(B)(iv), was in the origi
 
 #### Amendments
 
-<b>2010</b>—Subsec. (h)(3)(B). Pub. L. 111–145 amended subpar. (B) generally. Prior to amendment, text read as follows: “The Secretary of Homeland Security may charge a fee for the use of the System, which shall be—
+<b>2010</b>—Subsec. (h)(3)(B). Pub. L. 111–145 amended subpar. (B) generally. Prior to amendment, text read asfollows: “The Secretary of Homeland Security may charge a fee for the use of the System, which shall be—
 
 &emsp;“(i) set at a level that will ensure recovery of the full costs of providing and administering the System; and
 
@@ -764,7 +764,7 @@ Pub. L. 103–415 substituted “1995” for “1994”.
 
 Subsec. (g). Pub. L. 103–416, §211(2), added subsec. (g).
 
-<b>1991</b>—Subsec. (a). Pub. L. 102–232, §307(<i>l</i>)(3), substituted “paragraph (7)(B)(i)(II)” for “paragraph (26)(B)”.
+<b>1991</b>—Subsec. (a). Pub. L. 102–232, §307(l)(3), substituted “paragraph (7)(B)(i)(II)” for “paragraph (26)(B)”.
 
 Subsec. (a)(4). Pub. L. 102–232, §303(a)(1)(A), in heading substituted “into the United States” for “by sea or air”.
 
@@ -816,11 +816,11 @@ Amendment by section 308(d)(4)(F), (e)(9) of Pub. L. 104–208 effective, with c
 
 Amendment by section 303(a)(1), (2) of Pub. L. 102–232 effective as if included in the enactment of the Immigration Act of 1990, Pub. L. 101–649, see section 310(1) of Pub. L. 102–232, set out as a note under section 1101 of this title.
 
-Section 307(<i>l</i>) of Pub. L. 102–232 provided that the amendment made by that section is effective as if included in section 603(a) of the Immigration Act of 1990, Pub. L. 101–649.
+Pub. L. 102–232, title III, §307(l), Dec. 12, 1991, 105 Stat. 1756, provided that the amendment made by section 307(l) is effective as if included in section 603(a) of the Immigration Act of 1990, Pub. L. 101–649.
 
 #### Effective Date of 1990 Amendment
 
-Section 201(d) of Pub. L. 101–649 provided that: “The amendments made by this section \[amending this section and section 1323 of this title\] shall take effect as of the date of the enactment of this Act \[Nov. 29, 1990\].”
+Pub. L. 101–649, title II, §201(d), Nov. 29, 1990, 104 Stat. 5014, provided that: “The amendments made by this section \[amending this section and section 1323 of this title\] shall take effect as of the date of the enactment of this Act \[Nov. 29, 1990\].”
 
 #### Effective Date of 1988 Amendment
 
@@ -876,15 +876,15 @@ Pub. L. 106–396, title IV, §403(e), Oct. 30, 2000, 114 Stat. 1649, provided t
 
 #### Transition Provisions
 
-Section 635(c)(2) of div. C of Pub. L. 104–208 provided that: “A country designated as a pilot program country with probationary status under section 217(g) of the Immigration and Nationality Act \[8 U.S.C. 1187(g)\] (as in effect on the day before the date of the enactment of this Act \[Sept. 30, 1996\]) shall be considered to be designated as a pilot program country on and after such date, subject to placement in probationary status or termination of such designation under such section (as amended by paragraph (1)).”
+Pub. L. 104–208, div. C, title VI, §635(c)(2), Sept. 30, 1996, 110 Stat. 3009–703, provided that: “A country designated as a pilot program country with probationary status under section 217(g) of the Immigration and Nationality Act \[8 U.S.C. 1187(g)\] (as in effect on the day before the date of the enactment of this Act \[Sept. 30, 1996\]) shall be considered to be designated as a pilot program country on and after such date, subject to placement in probationary status or termination of such designation under such section (as amended by paragraph (1)).”
 
 #### Operation of Automated Data Arrival and Departure Control System; Report to Congress
 
-Section 201(c) of Pub. L. 101–649 provided that: “By not later than January 1, 1992, the Attorney General, in consultation with the Secretary of State, shall submit to the Committees on the Judiciary of the House of Representatives and of the Senate a report on the operation of the automated data arrival and departure control system for foreign visitors and on admission refusals and overstays for such visitors who have entered under the visa waiver program.”
+Pub. L. 101–649, title II, §201(c), Nov. 29, 1990, 104 Stat. 5014, provided that: “By not later than January 1, 1992, the Attorney General, in consultation with the Secretary of State, shall submit to the Committees on the Judiciary of the House of Representatives and of the Senate a report on the operation of the automated data arrival and departure control system for foreign visitors and on admission refusals and overstays for such visitors who have entered under the visa waiver program.”
 
 #### Report on Visa Waiver Pilot Program
 
-Section 405 of Pub. L. 99–603 provided that:
+Pub. L. 99–603, title IV, §405, Nov. 6, 1986, 100 Stat. 3442, provided that:
 
 “(a)
 

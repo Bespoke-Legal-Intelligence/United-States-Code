@@ -6,7 +6,7 @@ Whoever knowingly demands, charges, solicits, collects, or receives, or agrees t
 
 #### Historical and Revision Notes
 
-Based on subsections (a)(33), (d), (<i>l</i>) of section 746 of title 8, U.S.C., 1940 ed., Aliens and Nationality (Oct. 14, 1940, ch. 876, §346(a)(33), (d), (<i>l</i>), 54 Stat. 1167, 1168).
+Based on subsections (a)(33), (d), (l) of section 746 of title 8, U.S.C., 1940 ed., Aliens and Nationality (Oct. 14, 1940, ch. 876, §346(a)(33), (d), (l), 54 Stat. 1167, 1168).
 
 Minor changes in phraseology were made.
 

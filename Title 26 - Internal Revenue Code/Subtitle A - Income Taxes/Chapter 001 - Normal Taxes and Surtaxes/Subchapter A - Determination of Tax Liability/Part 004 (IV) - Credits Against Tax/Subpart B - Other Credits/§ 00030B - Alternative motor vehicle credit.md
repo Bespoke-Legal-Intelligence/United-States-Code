@@ -486,7 +486,7 @@ There shall be allowed as a credit against the tax imposed by this chapter for t
 
 &emsp;&emsp;&emsp;&emsp;(I) has received a certificate of conformity under the Clean Air Act, or
 
-&emsp;&emsp;&emsp;&emsp;(II) has received an order certifying the vehicle as meeting the same requirements as vehicles which may be sold orleased in California and meets or exceeds the low emission vehicle standard under section 88.105–94 of title 40, Code of Federal Regulations, for that make and model year vehicle,
+&emsp;&emsp;&emsp;&emsp;(II) has received an order certifying the vehicle as meeting the same requirements as vehicles which may be sold or leased in California and meets or exceeds the low emission vehicle standard under section 88.105–94 of title 40, Code of Federal Regulations, for that make and model year vehicle,
 
 &emsp;&emsp;&emsp;(iii) the original use of which commences with the taxpayer,
 
@@ -526,7 +526,7 @@ There shall be allowed as a credit against the tax imposed by this chapter for t
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of this subsection, all persons treated as a single employer under subsection (a) or (b) of section 52 or subsection (m) or (<i>o</i>) of section 414 shall be treated as a single manufacturer.
+&emsp;&emsp;For purposes of this subsection, all persons treated as a single employer under subsection (a) or (b) of section 52 or subsection (m) or (o) of section 414 shall be treated as a single manufacturer.
 
 #### (B) Inclusion of foreign corporations
 
@@ -544,17 +544,7 @@ There shall be allowed as a credit against the tax imposed by this chapter for t
 
 #### (2) Personal credit
 
-#### (A) In general
-
-&emsp;&emsp;For purposes of this title, the credit allowed under subsection (a) for any taxable year (determined after application of paragraph (1)) shall be treated as a credit allowable under subpart A for such taxable year.
-
-#### (B) Limitation based on amount of tax
-
-&emsp;&emsp;In the case of a taxable year to which section 26(a)(2) does not apply, the credit allowed under subsection (a) for any taxable year (determined after application of paragraph (1)) shall not exceed the excess of—
-
-&emsp;&emsp;&emsp;(i) the sum of the regular tax liability (as defined in section 26(b)) plus the tax imposed by section 55, over
-
-&emsp;&emsp;&emsp;(ii) the sum of the credits allowable under subpart A (other than this section and sections 23, 25D, 30, and 30D) and section 27 for the taxable year.
+&emsp;For purposes of this title, the credit allowed under subsection (a) for any taxable year (determined after application of paragraph (1)) shall be treated as a credit allowable under subpart A for such taxable year.
 
 #### (h) Other definitions and special rules
 
@@ -648,11 +638,7 @@ This section shall not apply to any property purchased after—
 
 &emsp;(4) in the case of a new qualified alternative fuel vehicle (as described in subsection (e)), December 31, 2010.
 
-(Added Pub. L. 109–58, title XIII, §1341(a), Aug. 8, 2005, 119 Stat. 1038; amended Pub. L. 109–135, title IV, §§402(j), 412(d), Dec. 21, 2005, 119 Stat. 2615, 2636; Pub. L. 110–343, div. B, title II, §205(b), Oct. 3, 2008, 122 Stat. 3838; Pub. L. 111–5, div. B, titleI, §§1141(b)(1), 1142(b)(2), 1143(a)–(c), 1144(a), Feb. 17, 2009, 123 Stat. 328, 330–332; Pub. L. 111–148, title X, §10909(b)(2)(G), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298.)
-
-#### Amendment of Section
-
-<i>For termination of amendment by section 10909(c) of Pub. L. 111–148, see Effective and Termination Dates of 2010 Amendment note below.</i>
+(Added Pub. L. 109–58, title XIII, §1341(a), Aug. 8, 2005, 119 Stat. 1038; amended Pub. L. 109–135, title IV, §§402(j), 412(d), Dec. 21, 2005, 119 Stat. 2615, 2636; Pub. L. 110–343, div. B, title II, §205(b), Oct. 3, 2008, 122 Stat. 3838; Pub. L. 111–5, div. B, title I, §§1141(b)(1), 1142(b)(2), 1143(a)–(c), 1144(a), Feb. 17, 2009, 123 Stat. 328, 330–332; Pub. L. 111–148, title X, §10909(b)(2)(G), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298; Pub. L. 112–240, title I, §104(c)(2)(H), Jan. 2, 2013, 126 Stat. 2322.)
 
 #### References in Text
 
@@ -664,13 +650,15 @@ The date of the enactment of the Energy Tax Incentives Act of 2005, referred to 
 
 #### Amendments
 
+<b>2013</b>—Subsec. (g)(2). Pub. L. 112–240 amended par. (2) generally. Prior to amendment, par. (2) related to personal credit with a limitation based on amount of tax.
+
 <b>2010</b>—Subsec. (g)(2)(B)(ii). Pub. L. 111–148, §10909(b)(2)(G), (c), as amended by Pub. L. 111–312, temporarily struck out “23,” before “25D,”. See Effective and Termination Dates of 2010 Amendment note below.
 
 <b>2009</b>—Subsec. (a)(5). Pub. L. 111–5, §1143(b), added par. (5).
 
 Subsec. (d)(3)(D). Pub. L. 111–5, §1141(b)(1), substituted “subsection (c) thereof” for “subsection (d) thereof”.
 
-Subsec. (g)(2). Pub. L. 111–5, §1144(a), amended par. (2) generally. Prior to amendment, text read as follows: “The credit allowed under subsection (a) (after the application of paragraph (1)) for any taxable year shall not exceed the excess (if any) of—
+Subsec. (g)(2). Pub. L. 111–5, §1144(a), amended par. (2) generally. Prior to amendment, text read as follows:“The credit allowed under subsection (a) (after the application of paragraph (1)) for any taxable year shall not exceed the excess (if any) of—
 
 &emsp;“(A) the regular tax liability (as defined in section 26(b)) reduced by the sum of the credits allowable under subpart A and sections 27 and 30, over
 
@@ -687,6 +675,10 @@ Subsecs. (i) to (k). Pub. L. 111–5, §1143(a), added subsec. (i) and redesigna
 <b>2005</b>—Subsec. (g)(2)(A). Pub. L. 109–135, §412(d), substituted “regular tax liability (as defined in section 26(b))” for “regular tax”.
 
 Subsec. (h)(6). Pub. L. 109–135, §402(j), inserted at end “For purposes of subsection (g), property to which this paragraph applies shall be treated as of a character subject to an allowance for depreciation.”
+
+#### Effective Date of 2013 Amendment
+
+Amendment by Pub. L. 112–240 applicable to taxable years beginning after Dec. 31, 2011, see section 104(d) of Pub. L. 112–240, set out as a note under section 23 of this title.
 
 #### Effective and Termination Dates of 2010 Amendment
 

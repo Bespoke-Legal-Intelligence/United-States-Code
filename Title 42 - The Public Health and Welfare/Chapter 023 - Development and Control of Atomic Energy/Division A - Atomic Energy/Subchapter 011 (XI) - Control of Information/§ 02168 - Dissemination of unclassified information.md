@@ -24,7 +24,7 @@
 
 #### (b) Civil penalties
 
-(1) Any person who violates any regulation or order of the Secretary issued under this sectionwith respect to the unauthorized dissemination of information shall be subject to a civil penalty, to be imposed by the Secretary, of not to exceed $100,000 for each such violation. The Secretary may compromise, mitigate, or remit any penalty imposed under this subsection.
+(1) Any person who violates any regulation or order of the Secretary issued under this section with respect to the unauthorized dissemination of information shall be subject to a civil penalty, to be imposed by the Secretary, of not to exceed $100,000 for each such violation. The Secretary may compromise, mitigate, or remit any penalty imposed under this subsection.
 
 (2) The provisions of subsections (b) and (c) of section 2282 of this title, shall be applicable with respect to the imposition of civil penalties by the Secretary under this section in the same manner that such provisions are applicable to the imposition of civil penalties by the Commission under subsection (a) of such section.
 
@@ -36,19 +36,11 @@ For the purposes of section 2273 of this title, any regulation prescribed or ord
 
 Any determination by the Secretary concerning the applicability of this section shall be subject to judicial review pursuant to section 552(a)(4)(B) of title 5.
 
-#### (e) Quarterly reports for interested persons; contents
-
-The Secretary shall prepare on a quarterly basis a report to be made available upon the request of any interested person, detailing the Secretary's application during that period of each regulation or order prescribed or issued under this section. In particular, such report shall—
-
-&emsp;(1) identify any information protected from disclosure pursuant to such regulation or order;
-
-&emsp;(2) specifically state the Secretary's justification for determining that unauthorized dissemination of the information protected from disclosure under such regulation or order could reasonably be expected to have a significant adverse effect on the health and safety of the public or the common defense and security by significantly increasing the likelihood of illegal production of nuclear weapons, or theft, diversion, or sabotage of nuclear materials, equipment, or facilities, as specified under subsection (a) of this section; and
-
-&emsp;(3) provide justification that the Secretary has applied such regulation or order so as to protect from disclosure only the minimum amount of information necessary to protect the health and safety of the public or the common defense and security.
-
-(Aug. 1, 1946, ch. 724, title I, §148, as added Pub. L. 97–90, title II, §210(a)(1), Dec. 4, 1981, 95 Stat. 1169; amended Pub. L. 97–415, §17, Jan. 4, 1983, 96 Stat. 2076; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
+(Aug. 1, 1946, ch. 724, title I, §148, as added Pub. L. 97–90, title II, §210(a)(1), Dec. 4, 1981, 95 Stat. 1169; amended Pub. L. 97–415, §17, Jan. 4, 1983, 96 Stat. 2076; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 112–239, div. C, title XXXI, §3134(c), Jan. 2, 2013, 126 Stat. 2193.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (e). Pub. L. 112–239 struck out subsec. (e), which related to quarterly reports for interested persons.
 
 <b>1983</b>—Subsec. (a)(1). Pub. L. 97–415, §17(a), inserted “, with respect to atomic energy defense programs,” after “(hereinafter in this section referred to as the ‘Secretary’)”.
 

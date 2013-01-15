@@ -2,29 +2,39 @@
 
 (a)
 
-Acquisition of Housing With Special Features.—(1) Subject to paragraph (3), the Secretary may assist a disabled veteran described in paragraph (2) in acquiring a suitable housing unit with special fixtures or movable facilities made necessary by the nature of the veteran's disability, and necessary land therefor.
+Acquisition of Housing With Special Features.—(1) Subject to paragraphs (3) and (4), the Secretary may assist a disabled veteran described in paragraph (2) in acquiring a suitable housing unit with special fixtures or movable facilities made necessary by the nature of the veteran's disability, and necessary land therefor.
 
-(2) A veteran is described in this paragraph if the veteran is entitled to compensation under chapter 11 of this title for a permanent and total service-connected disability that meets any of the following criteria:
+(2)(A) A veteran is described in this paragraph if the veteran—
 
-&emsp;(A) The disability is due to the loss, or loss of use, of both lower extremities such as to preclude locomotion without the aid of braces, crutches, canes, or a wheelchair.
+&emsp;(i) is entitled to compensation under chapter 11 of this title for a permanent and total service-connected disability that meets any of the criteria described in subparagraph (B); or
 
-&emsp;(B) The disability is due to—
+&emsp;(ii) served in the Armed Forces on or after September 11, 2001, and is entitled to compensation under chapter 11 of this title for a permanent service-connected disability that meets the criterion described in subparagraph (C).
 
-&emsp;&emsp;(i) blindness in both eyes, having only light perception, plus
+(B) The criteria described in this subparagraph are as follows:
 
-&emsp;&emsp;(ii) loss or loss of use of one lower extremity.
+&emsp;(i) The disability is due to the loss, or loss of use, of both lower extremities such as to preclude locomotion without the aid of braces, crutches, canes, or a wheelchair.
 
-&emsp;(C) The disability is due to the loss or loss of use of one lower extremity together with—
+&emsp;(ii) The disability is due to—
 
-&emsp;&emsp;(i) residuals of organic disease or injury; or
+&emsp;&emsp;(I) blindness in both eyes, having only light perception, plus (ii) <sup>1</sup> loss or loss of use of one lower extremity.
 
-&emsp;&emsp;(ii) the loss or loss of use of one upper extremity,
+&emsp;(iii) The disability is due to the loss or loss of use of one lower extremity together with—
+
+&emsp;&emsp;(I) residuals of organic disease or injury; or
+
+&emsp;&emsp;(II) the loss or loss of use of one upper extremity,
 
 > &emsp;which so affect the functions of balance or propulsion as to preclude locomotion without the aid of braces, crutches, canes, or a wheelchair.
 
-&emsp;(D) The disability is due to the loss, or loss of use, of both upper extremities such as to preclude use of the arms at or above the elbows.
+&emsp;(iv) The disability is due to the loss, or loss of use, of both upper extremities such as to preclude use of the arms at or above the elbows.
 
-&emsp;(E) The disability is due to a severe burn injury (as determined pursuant to regulations prescribed by the Secretary).
+&emsp;(v) The disability is due to a severe burn injury (as determined pursuant to regulations prescribed by the Secretary).
+
+(C) The criterion described in this subparagraph is that the disability—
+
+&emsp;(i) was incurred on or after September 11, 2001; and
+
+&emsp;(ii) is due to the loss or loss of use of one or more lower extremities which so affects the functions of balance or propulsion as to preclude ambulating without the aid of braces, crutches, canes, or a wheelchair.
 
 (3) The regulations prescribed under subsection (d) shall require that assistance under paragraph (1) may be provided to a veteran only if the Secretary finds that—
 
@@ -34,6 +44,8 @@ Acquisition of Housing With Special Features.—(1) Subject to paragraph (3), th
 
 &emsp;(C) the nature and condition of the proposed housing unit are such as to be suitable to the veteran's needs for dwelling purposes.
 
+(4) The Secretary's authority to furnish assistance under paragraph (1) to a disabled veteran described in paragraph (2)(A)(ii) shall apply only with respect to applications for such assistance approved by the Secretary on or before September 30, 2013.
+
 (b)
 
 Adaptations to Residence of Veteran.—(1) Subject to paragraph (3), the Secretary shall assist any disabled veteran described in paragraph (2) (other than a veteran who is eligible for assistance under subsection (a))—
@@ -42,13 +54,13 @@ Adaptations to Residence of Veteran.—(1) Subject to paragraph (3), the Secreta
 
 &emsp;(B) in acquiring a residence already adapted with special features determined by the Secretary to be reasonably necessary for the veteran because of such disability.
 
-(2) A veteran is described in this paragraph if the veteran is entitled to compensation under chapter 11 of this title for a permanent and total service-connected disability that meets any of the following criteria:
+(2) A veteran is described in this paragraph if the veteran is entitled to compensation under chapter 11 of this title for a service-connected disability that meets any of the following criteria:
 
-&emsp;(A) The disability is due to blindness in both eyes with 5/200 visual acuity or less.
+&emsp;(A) The disability is due to blindness in both eyes, having central visual acuity of 20/200 or less in the better eye with the use of a standard correcting lens. For the purposes of this subparagraph, an eye with a limitation in the fields of vision such that the widest diameter of the visual field subtends an angle no greater than 20 degrees shall be considered as having a central visual acuity of 20/200 or less.
 
-&emsp;(B) The disability includes the anatomical loss or loss of use of both hands.
+&emsp;(B) A permanent and total disability that includes the anatomical loss or loss of use of both hands.
 
-&emsp;(C) The disability is due to a severe burn injury (as so determined).
+&emsp;(C) A permanent and total disability that is due to a severe burn injury (as so determined).
 
 (3) Assistance under paragraph (1) may be provided only to a veteran who the Secretary determines—
 
@@ -60,13 +72,27 @@ Adaptations to Residence of Veteran.—(1) Subject to paragraph (3), the Secreta
 
 Regulations.—Assistance under this section shall be provided in accordance with such regulations as the Secretary may prescribe.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1168, §801; Pub. L. 86–239, Sept. 8, 1959, 73 Stat. 472; Pub. L. 88–401, Aug. 4, 1964, 78 Stat. 380; Pub. L. 91–22, §1, June 6, 1969, 83 Stat. 32; Pub. L. 95–117, title IV, §401, Oct. 3, 1977, 91 Stat. 1065; Pub. L. 96–385, title III, §301(a), Oct. 7, 1980, 94 Stat. 1531; Pub. L. 99–576, title IV, §401(a), title VII, §§701(48), 702(7), Oct. 28, 1986, 100 Stat. 3280, 3295, 3302; renumbered §2101 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 108–183, title IV, §401, Dec. 16, 2003, 117 Stat. 2664; Pub. L. 108–454, title IV, §401, Dec. 10, 2004, 118 Stat. 3614; Pub. L. 109–233, title I, §105(a), June 15, 2006, 120 Stat. 402; Pub. L. 110–289, div. B, title VI, §§2602(b)(1), (7)(A), 2603, July 30, 2008, 122 Stat. 2859, 2860.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1168, §801; Pub. L. 86–239, Sept. 8, 1959, 73 Stat. 472; Pub. L. 88–401, Aug. 4, 1964, 78 Stat. 380; Pub. L. 91–22, §1, June 6, 1969, 83 Stat. 32; Pub. L. 95–117, title IV, §401, Oct. 3, 1977, 91 Stat. 1065; Pub. L. 96–385, title III, §301(a), Oct. 7, 1980, 94 Stat. 1531; Pub. L. 99–576, title IV, §401(a), title VII, §§701(48), 702(7), Oct. 28, 1986, 100 Stat. 3280, 3295, 3302; renumbered §2101 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 108–183, title IV, §401, Dec. 16, 2003, 117 Stat. 2664; Pub. L. 108–454, title IV, §401, Dec. 10, 2004, 118 Stat. 3614; Pub. L. 109–233, title I, §105(a), June 15, 2006, 120 Stat. 402; Pub. L. 110–289, div. B, title VI, §§2602(b)(1), (7)(A), 2603, July 30, 2008, 122 Stat. 2859, 2860; Pub. L. 112–154, title II, §§202(a), (c), 203(a), Aug. 6, 2012, 126 Stat. 1176, 1177.)
 
 #### Prior Provisions
 
 Prior section 2101, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1222, related to eligibility for mustering-out payments, prior to repeal by Pub. L. 89–50, §1(a), June 24, 1965, 79 Stat. 173, effective July 1, 1966.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a)(1). Pub. L. 112–154, §202(c)(1), substituted “to paragraphs (3) and (4)” for “to paragraph (3)”.
+
+Subsec. (a)(2). Pub. L. 112–154, §202(a), amended par. (2) generally. Prior to amendment, par. (2) provided description of disabled veteran whom Secretary may assist in acquiring suitable housing.
+
+Subsec. (a)(4). Pub. L. 112–154, §202(c)(2), added par. (4).
+
+Subsec. (b)(2). Pub. L. 112–154, §203(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “A veteran is described in this paragraph if the veteran is entitled to compensation under chapter 11 of this title for a permanent and total service-connected disability that meets any of the following criteria:
+
+&emsp;“(A) The disability is due to blindness in both eyes with 5/200 visual acuity or less.
+
+&emsp;“(B) The disability includes the anatomical loss or loss of use of both hands.
+
+&emsp;“(C) The disability is due to a severe burn injury (as so determined).”
 
 <b>2008</b>—Pub. L. 110–289, §2602(b)(7)(A), amended section catchline generally. Prior to amendment, catchline read as follows: “Veterans eligible for assistance”.
 
@@ -108,6 +134,12 @@ Subsec. (b)(1). Pub. L. 99–576, §401(a), inserted at end “or in acquiring a
 
 <b>1959</b>—Pub. L. 86–239 designated existing provisions of first sentence as cl. (1), struck out “by reason of amputation, ankylosis, progressive muscular dystrophies, or paralysis” after “loss of use”, and added cl. (2).
 
+#### Effective Date of 2012 Amendment
+
+Pub. L. 112–154, title II, §202(b), Aug. 6, 2012, 126 Stat. 1177, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 2012.”
+
+Pub. L. 112–154, title II, §203(b), Aug. 6, 2012, 126 Stat. 1177, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 2012.”
+
 #### Effective Date of 2006 Amendment
 
 Pub. L. 109–233, title I, §105(b), June 15, 2006, 120 Stat. 402, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect as of December 10, 2004, as if enacted immediately after the enactment of the Veterans Benefits Improvement Act of 2004 \[Pub. L. 108–454\] on that date.”
@@ -119,4 +151,6 @@ Amendment by Pub. L. 96–385 effective Oct. 1, 1980, see section 601(b) of Pub.
 #### Effective Date of 1977 Amendment
 
 Amendment by Pub. L. 95–117 effective Oct. 1, 1977, see section 501 of Pub. L. 95–117, set out as a note under section 1114 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be a separate subcl. and be designated “(II)”.</i>
 

@@ -26,7 +26,7 @@ Congress finds the following:
 
 #### (b) Designation of Johnny Micheal Spann Patriot Trusts
 
-Any charitable corporation, fund, foundation, or trust (or separate fund or account thereof) which otherwise meets all applicable requirements under law with respect to charitable entities and meets the requirements described insubsection (c) of this section shall be eligible to characterize itself as a “Johnny Micheal Spann Patriot Trust”.
+Any charitable corporation, fund, foundation, or trust (or separate fund or account thereof) which otherwise meets all applicable requirements under law with respect to charitable entities and meets the requirements described in subsection (c) of this section shall be eligible to characterize itself as a “Johnny Micheal Spann Patriot Trust”.
 
 #### (c) Requirements for the designation of Johnny Micheal Spann Patriot Trusts
 
@@ -68,11 +68,11 @@ Each Johnny Micheal Spann Patriot Trust shall refrain from conducting the activi
 
 #### (e) Notification of Trust beneficiaries
 
-Notwithstanding any other provision of law, and in a manner consistent with the protection of intelligence sources and methods and sensitive law enforcement information, and other sensitive national security information, the Secretary of Defense, the Director of the Federal Bureau of Investigation, or the Director of Central Intelligence, or their designees, as applicable, may forward information received from an executor, administrator, or other legal representative of the estate of a decedent described in subparagraph (A), (B), (C), or (D) of subsection (c)(1) of this section, to a Johnny Micheal Spann Patriot Trust on how to contact individuals eligible for a distribution under subsection (c)(1) of this section for the purpose of providing assistance from such Trust: <i>Provided</i>, That, neither forwarding nor failing to forward any information under this subsection shall create any cause of action against any Federal department, agency, officer, agent, or employee.
+Notwithstanding any other provision of law, and in a manner consistent with the protection of intelligence sources and methods and sensitive law enforcement information, and other sensitive national security information, the Secretary of Defense, the Director of the Federal Bureau of Investigation, or the Director of Central Intelligence, or their designees, as applicable, may forward information received from anexecutor, administrator, or other legal representative of the estate of a decedent described in subparagraph (A), (B), (C), or (D) of subsection (c)(1) of this section, to a Johnny Micheal Spann Patriot Trust on how to contact individuals eligible for a distribution under subsection (c)(1) of this section for the purpose of providing assistance from such Trust: <i>Provided</i>, That, neither forwarding nor failing to forward any information under this subsection shall create any cause of action against any Federal department, agency, officer, agent, or employee.
 
 #### (f) Regulations
 
-Not later than 90 days after November 25, 2002, the Secretary of Defense, in coordination withthe Attorney General, the Director of the Federal Bureau of Investigation, and the Director of Central Intelligence, shall prescribe regulations to carry out this section.
+Not later than 90 days after November 25, 2002, the Secretary of Defense, in coordination with the Attorney General, the Director of the Federal Bureau of Investigation, and the Director of Central Intelligence, shall prescribe regulations to carry out this section.
 
 (Pub. L. 107–296, title VI, §601, Nov. 25, 2002, 116 Stat. 2215.)
 

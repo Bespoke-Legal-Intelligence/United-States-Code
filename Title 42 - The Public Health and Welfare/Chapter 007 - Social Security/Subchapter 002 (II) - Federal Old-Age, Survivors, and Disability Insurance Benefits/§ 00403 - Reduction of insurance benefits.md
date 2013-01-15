@@ -16,7 +16,7 @@
 
 (2)(A) For individuals who initially become eligible for old-age or disability insurance benefits, or who die (before becoming so eligible for such benefits), in the calendar year 1979, the amounts established with respect to subparagraphs (A), (B), and (C) of paragraph (1) shall be $230, $332, and $433, respectively.
 
-(B) For individuals who initially become eligible for old-age or disability insurance benefits, or who die (before becoming so eligible for such benefits), in any calendar year after 1979, each of the amounts so established shall equal the product of the corresponding amount established for the calendar year 1979 by subparagraph (A) of this paragraph and the quotient obtained under subparagraph (B)(ii) of section 415(a)(1) of this title, with such product being rounded in the manner prescribed by section 415(a)(1)(B)(iii) of this title.
+(B) For individuals who initially become eligible for old-age or disability insurance benefits, or who die (before becoming so eligible for such benefits), in any calendar year after 1979, each of the amounts so established shall equal the product of the corresponding amount established forthe calendar year 1979 by subparagraph (A) of this paragraph and the quotient obtained under subparagraph (B)(ii) of section 415(a)(1) of this title, with such product being rounded in the manner prescribed by section 415(a)(1)(B)(iii) of this title.
 
 (C) In each calendar year after 1978 the Commissioner of Social Security shall publish in the Federal Register, on or before November 1, the formula which (except as provided in section 415(i)(2)(D) of this title) is to be applicable under this paragraph to individuals who become eligible for old-age or disability insurance benefits, or who die (before becoming eligible for such benefits), in the following calendar year.
 
@@ -28,7 +28,7 @@
 
 &emsp;(ii) an amount (I) initially equal to the product of 1.75 and the primary insurance amount that would be computed under section 415(a)(1) of this title, for January of the year determined for purposes of this clause under the following two sentences, with respect to average indexed monthly earnings equal to one-twelfth of the contribution and benefit base determined for that year under section 430 of this title, and (II) thereafter increased in accordance with the provisions of section 415(i)(2)(A)(ii) of this title.
 
-> The year established for purposes of clause (ii) shall be 1983 or, if it occurs later with respect toany individual, the year in which occurred the month that the application of the reduction provisions contained in this subparagraph began with respect to benefits payable on the basis of the wages and self-employment income of the insured individual. If for any month subsequent to the first month for which clause (ii) applies (with respect to benefits payable on the basis of the wages and self-employment income of the insured individual) the reduction under this subparagraph ceases to apply, then the year determined under the preceding sentence shall be redetermined (for purposes of any subsequent application of this subparagraph with respect to benefits payable on the basis of such wages and self-employment income) as though this subparagraph had not been previously applicable.
+> The year established for purposes of clause (ii) shall be 1983 or, if it occurs later with respect to any individual, the year in which occurred the month that the application of the reduction provisions contained in this subparagraph began with respect to benefits payable on the basis of the wages and self-employment income of the insured individual. If for any month subsequent to the first month for which clause (ii) applies (with respect to benefits payable on the basis of the wages and self-employment income of the insured individual) the reduction under this subparagraph ceases to apply, then the year determined under the preceding sentence shall be redetermined (for purposes of any subsequent application of this subparagraph with respect to benefits payable on the basis of such wages and self-employment income) as though this subparagraph had not been previously applicable.
 
 (B) When two or more persons were entitled (without the application of section 402(j)(1) of this title and section 423(b) of this title) to monthly benefits under section 402 or 423 of this title for January 1971 or any prior month on the basis of the wages and self-employment income of such insured individual and the provisions of this subsection as in effect for any such month were applicable in determining the benefit amount of any persons on the basis of such wages and self-employment income, the total of benefits for any month after January 1971 shall not be reduced to less than the largest of—
 
@@ -40,7 +40,7 @@
 
 > but in any such case (I) subparagraph (A) of this paragraph shall not be applied to such total of benefits after the application of clause (ii) or (iii), and (II) if section 402(k)(2)(A) of this title was applicable in the case of any such benefits for a month, and ceases to apply for a month after such month, the provisions of clause (ii) or (iii) shall be applied, for and after the month in which section 402(k)(2)(A) of this title ceases to apply, as though subparagraph (A) of this paragraph had not been applicable to such total of benefits for the last month for which clause (ii) or (iii) was applicable.
 
-(C) When any of such individuals is entitled to monthly benefits as a divorced spouse under section 402(b) or (c) of this title or as a surviving divorced spouse under section 402(e) or (f) of this title for any month, the benefit to which he or she is entitled on the basis of the wages and self-employment income of such insured individual for such month shall be determined without regard to this subsection, and the benefits of all other individuals who are entitled for such month to monthly benefits under section 402 of this title on the wages and self-employment income of such insured individual shall be determined as if no such divorced spouse or surviving divorced spouse were entitled to benefits for such month.
+(C) When any of such individuals is entitled to monthly benefits as a divorced spouse under section 402(b) or (c) of this title or as a surviving divorced spouse under section 402(e) or (f) of this title for any month, the benefit to which he or she is entitled on the basis of the wages and self-employment income of such insured individual for such month shall be determined without regard to this subsection, and the benefits of all other individuals who are entitled for such month to monthly benefits under section 402 ofthis title on the wages and self-employment income of such insured individual shall be determined as if no such divorced spouse or surviving divorced spouse were entitled to benefits for such month.
 
 (D) In any case in which—
 
@@ -60,7 +60,7 @@
 
 &emsp;(C) whose benefit for such month is suspended (in whole or in part) pursuant to subsection (h)(3) of this section,
 
-> shall be made before the suspension under subsection (h)(3) of this section. Whenever a reduction is made under this subsection in the totalof monthly benefits to which individuals are entitled for any month on the basis of the wages and self-employment income of an insured individual, each such benefit other than the old-age or disability insurance benefit shall be proportionately decreased.
+> shall be made before the suspension under subsection (h)(3) of this section. Whenever a reduction is made under this subsection in the total of monthly benefits to which individuals are entitled for any month on the basis of the wages and self-employment income of an insured individual, each such benefit other than the old-age or disability insurance benefit shall be proportionately decreased.
 
 (5) Notwithstanding any other provision of law, when—
 
@@ -78,7 +78,7 @@
 
 (7) In the case of any individual who is entitled for any month to benefits based upon the primary insurance amounts of two or more insured individuals, one or more of which primary insurance amounts were determined under section 415(a) or (d) of this title as in effect (without regard to the table contained therein) prior to January 1979 and one or more of which primary insurance amounts were determined under section 415(a)(1) or (4) of this title, or section 415(d) of this title, as in effect after December 1978, the total benefits payable to that individual and all other individuals entitled to benefits for that month based upon those primary insurance amounts shall be reduced to an amount equal to the amount determined in accordance with the provisions of paragraph (3)(A)(ii) of this subsection, except that for this purpose the references to subparagraph (A) in the last two sentences of paragraph (3)(A) shall be deemed to be references to paragraph (7).
 
-(8) Subject to paragraph (7) and except as otherwise provided in paragraph (10)(C), this subsection as in effect in December 1978 shall remain in effect with respect to a primary insurance amount computed under section 415(a) or (d) of this title, as in effect (without regard to the table contained therein) in December 1978 and as amended by section 5117 of the Omnibus Budget Reconciliation Act of 1990, except that a primary insurance amount so computed with respect to an individual who first becomes eligible for an old-age or disability insurance benefit, or dies (before becoming eligible for such a benefit), after December 1978, shall instead be governed by this section as in effect after December 1978. For purposes of the preceding sentence, the phrase “rounded to the next higher multiple of $0.10”, as it appeared in subsection (a)(2)(C) of this section as in effect in December 1978, shall be deemed to read “rounded to the next lower multiple of $0.10”.
+(8) Subject to paragraph (7) and except as otherwise provided in paragraph (10)(C), this subsection as in effect in December 1978 shall remain in effect with respect to a primary insurance amount computed under section 415(a) or (d) of this title, as in effect (without regard to the table contained therein) in December 1978 and as amended by section 5117 of the Omnibus Budget Reconciliation Act of 1990, except that aprimary insurance amount so computed with respect to an individual who first becomes eligible for an old-age or disability insurance benefit, or dies (before becoming eligible for such a benefit), after December 1978, shall instead be governed by this section as in effect after December 1978. For purposes of the preceding sentence, the phrase “rounded to the next higher multiple of $0.10”, as it appeared in subsection (a)(2)(C) of this section as in effect in December 1978, shall be deemed to read “rounded to the next lower multiple of $0.10”.
 
 (9) When—
 
@@ -114,7 +114,7 @@
 
 &emsp;(B) if such individual was entitled to old-age insurance benefits under section 402(a) of this title for such month, the benefit or benefits of all other persons for such month under section 402 of this title based on such individual's wages and self-employment income,
 
-> if for such month he is charged with excess earnings, under the provisions of subsection (f) of this section, equal to the total of benefits referred to in clauses (A) and (B). If the excess earnings so charged are less than such total of benefits, such deductions with respect to such month shall be equal only to the amount of such excess earnings. If a child who has attained the age of 18 and is entitled to child's insurance benefits, or a person who is entitled to mother's or father's insurance benefits, is married to an individual entitled to old-age insurance benefits under section 402(a) of this title, such child or such person, as the case may be, shall, for the purposes of this subsection and subsection (f) of this section, be deemed to be entitled to such benefits on the basis of the wages and self-employment income of such individual entitled to old-age insurance benefits. If a deduction has already been made under this subsection with respect to a person's benefit or benefits under section 402 of this title for a month, he shall be deemed entitled to payments under such section for such month for purposes of further deductions under this subsection, and for purposes of charging of each person's excess earnings under subsection (f) of this section, only to the extent of the total of his benefits remaining after such earlier deductions have been made. For purposes of this subsection and subsection (f) of this section—
+> if for such month he is charged with excess earnings, under the provisions of subsection (f) of this section, equal to the total of benefits referred to in clauses (A) and (B). If the excess earnings so charged are less than such total of benefits, such deductions with respect to such month shall be equal only to the amount of such excess earnings. If a child who has attained the age of 18 and is entitled to child's insurance benefits, or a person who is entitled to mother's or father's insurance benefits, is married to an individual entitled to old-age insurance benefits under section 402(a) of this title, such child or such person, as the case may be, shall, for the purposes of this subsection and subsection (f) of this section, be deemed to be entitled to such benefits on the basis of the wages and self-employment income of such individual entitled to old-age insurance benefits. If a deduction has already been made under this subsection with respect to a person's benefit or benefits under section 402 of this title for a month, he shall be deemed entitled to payments under such section for such month for purposes of further deductions under this subsection, and for purposes of charging of each person's excess earnings under subsection (f) of this section, only to the extent of the total of his benefits remaining after such earlier deductions have been made. For purposesof this subsection and subsection (f) of this section—
 
 &emsp;(i) an individual shall be deemed to be entitled to payments under section 402 of this title equal to the amount of the benefit or benefits to which he is entitled under such section after the application of subsection (a) of this section, but without the application of the first sentence of paragraph (4) thereof; and
 
@@ -134,9 +134,9 @@
 
 Deductions, in such amounts and at such time or times as the Commissioner of Social Security shall determine, shall be made from any payment or payments under this subchapter to which an individual is entitled, until the total of such deductions equals such individual's benefits or benefit under section 402 of this title for any month—
 
-&emsp;(1) in which such individual is under retirement age (as defined in section 416(<i>l</i>) of thistitle) and for more than forty-five hours of which such individual engaged in noncovered remunerative activity outside the United States;
+&emsp;(1) in which such individual is under retirement age (as defined in section 416(l) of this title) and for more than forty-five hours of which such individual engaged in noncovered remunerative activity outside the United States;
 
-&emsp;(2) in which such individual, if a wife or husband under retirement age (as defined in section 416(<i>l</i>) of this title) entitled to a wife's or husband's insurance benefit, did not have in his or her care (individually or jointly with his or her spouse) a child of such spouse entitled to a child's insurance benefit and such wife's or husband's insurance benefit for such month was not reduced under the provisions of section 402(q) of this title;
+&emsp;(2) in which such individual, if a wife or husband under retirement age (as defined in section 416(l) of this title) entitled to a wife's or husband's insurance benefit, did not have in his or her care (individually or jointly with his or her spouse) a child of such spouse entitled to a child's insurance benefit and such wife's or husband's insurance benefit for such month was not reduced under the provisions of section 402(q) of this title;
 
 &emsp;(3) in which such individual, if a widow or widower entitled to a mother's or father's insurance benefit, did not have in his or her care a child of his or her deceased spouse entitled to a child's insurance benefit; or
 
@@ -146,7 +146,7 @@ Deductions, in such amounts and at such time or times as the Commissioner of Soc
 
 #### (d) Deductions from dependents’ benefits on account of noncovered work outside United States by old-age insurance beneficiary
 
-(1)(A) Deductions shall be made from any wife's, husband's, or child's insurance benefit, based on the wages and self-employment income of an individual entitled to old-age insurance benefits, to which a wife, divorced wife, husband, divorced husband, or child is entitled, until the total of such deductions equals such wife's, husband's, or child's insurance benefit or benefits under section 402 of this title for any month in which such individual is under retirement age (as defined in section 416(<i>l</i>) of this title) and for more than forty-five hours of which such individual engaged in noncovered remunerative activity outside the United States.
+(1)(A) Deductions shall be made from any wife's, husband's, or child's insurance benefit, based on the wages and self-employment income of an individual entitled to old-age insurance benefits, to which a wife, divorced wife, husband, divorced husband, or child is entitled, until the total of such deductions equals such wife's, husband's, or child's insurance benefit or benefits under section 402 of this title for any month in which such individual is under retirement age (as defined in section 416(l) of this title) and for more than forty-five hours of which such individual engaged in noncovered remunerative activity outside the United States.
 
 (B)(i) Except as provided in clause (ii), in any case in which—
 
@@ -158,7 +158,7 @@ Deductions, in such amounts and at such time or times as the Commissioner of Soc
 
 (ii) Subclause (II) of clause (i) shall not apply with respect to any divorced spouse in any case in which the individual entitled to old-age insurance benefits referred to in subparagraph (A) became entitled to such benefits before the date of the divorce.
 
-(2) Deductions shall be made from any child's insurance benefit to which a child who has attained the age of eighteen is entitled, or from any mother's or father's insurance benefit to which a person is entitled, until the total of such deductions equals such child's insurance benefit or benefits or mother's or father's insurance benefit or benefits under section 402 of this title for any month in which such child or person entitled to mother's or father's insurance benefits is married to an individual under retirement age (as defined in section 416(<i>l</i>) of this title) who is entitled to old-age insurance benefits and for more than forty-five hours of which such individual engaged in noncovered remunerative activity outside the United States.
+(2) Deductions shall be made from any child's insurance benefit to which a child who has attained the age of eighteen is entitled, or from any mother's or father's insurance benefit to which a person is entitled, until the total of such deductions equals such child's insurance benefit or benefits or mother's or father's insurance benefit or benefits under section 402 of this title for any month in which such child or person entitled to mother's or father's insurance benefits is married to an individual under retirement age (as defined in section 416(l) of this title) who is entitled to old-age insurance benefits and for more than forty-five hours of which such individual engaged in noncovered remunerative activity outside the United States.
 
 #### (e) Occurrence of more than one event
 
@@ -168,11 +168,11 @@ If more than one of the events specified in subsections (c) and (d) of this sect
 
 For purposes of subsection (b) of this section—
 
-&emsp;(1) The amount of an individual's excess earnings (as defined in paragraph (3)) shall be charged to months as follows: There shall be charged to the first month of such taxable year an amount of his excess earnings equal to the sum of the payments to which he and all other persons (excluding divorced spouses referred to in subsection (b)(2) of this section) are entitled for such month under section 402 of this title on the basis of his wages and self-employment income (or the total of his excess earnings if such excess earnings are less than such sum), and the balance, if any, of such excess earnings shall be charged to each succeeding month in such year to the extent, in the case of each such month, of the sum of the payments to which such individual and all such other persons are entitled for such month under section 402 of this title on the basis of his wages and self-employment income, until the total of such excess has been so charged. Where an individual is entitled to benefits under section 402(a) of this title and other persons (excluding divorced spouses referred to in subsection (b)(2) of this section) are entitled to benefits under section 402(b), (c), or (d) of this title on the basis of the wages and self-employment income of such individual, the excess earnings of such individual for any taxable year shall be charged in accordance with the provisions of this subsection before the excess earnings of such persons for a taxable year are charged to months in such individual's taxable year. Notwithstanding the preceding provisions of this paragraph but subject to section 402(s) of this title, no part of the excess earnings of an individual shall be charged to any month (A) for which such individual was not entitled to a benefit under this subchapter, (B) in which such individual was at or above retirement age (as defined in section 416(<i>l</i>) of this title), (C) in which such individual, if a child entitled to child's insurance benefits, has attained the age of 18, (D) for which such individual is entitled to widow's or widower's insurance benefits if such individual became so entitled prior to attaining age 60, (E) in which such individual did not engage in self-employment and did not render services for wages (determined as provided in paragraph (5) of this subsection) of more than the applicable exempt amount as determined under paragraph (8), if such month is in the taxable year in which occurs the first month after December 1977 that is both (i) a month for which the individual is entitled to benefits under subsection (a), (b), (c), (d), (e), (f), (g), or (h) of section 402 of this title (without having been entitled for the preceding month to a benefit under any other of such subsections), and (ii) a month in which the individual did not engage in self-employment and did not render services for wages (determined as provided in paragraph (5)) of more than the applicable exempt amount as determined under paragraph (8), or (F) in which such individual did not engage in self-employment and did not render services for wages (determined as provided in paragraph (5) of this subsection) of more than the applicable exempt amount as determined under paragraph (8), in the case of an individual entitled to benefits under section 402(b) or (c) of this title (but only by reason of having a child in his or her care within the meaning of paragraph (1)(B) of subsection (b) or (c) of this section, as may be applicable) or under section 402(d) or (g) of this title, if such month is in a year in which such entitlement ends for a reason other than the death of such individual, and such individual is not entitled to any benefits under this subchapter for the month following the month during which such entitlement under section 402(b), (d), or (g) of this title ended.
+&emsp;(1) The amount of an individual's excess earnings (as defined in paragraph (3)) shall be charged to months as follows: There shall be charged to the first month of such taxable year an amount of his excess earnings equal to the sum of the payments to which he and all other persons (excluding divorced spouses referred to in subsection (b)(2) of this section) are entitled for such month under section 402 of this title on the basis of his wages and self-employment income (or the total of his excess earnings if such excess earnings are less than such sum), and the balance, if any, of such excess earnings shall be charged to each succeeding month in such year to the extent, in the case of each such month, of the sum of the payments to which such individual and all such other persons are entitled for such month under section 402 of this title on the basis of his wages and self-employment income, until the total of such excess has been so charged. Where an individual is entitled to benefits under section 402(a) of this title and other persons (excluding divorced spouses referred to in subsection (b)(2) of this section) are entitled to benefits under section 402(b), (c), or (d) of this title on the basis of the wages and self-employment income of such individual, the excess earnings of such individual for any taxable year shall be charged in accordance with the provisions of this subsection before the excess earnings of such persons for a taxable year are charged to months in such individual's taxable year. Notwithstanding the preceding provisions of this paragraph but subject to section 402(s) of this title, no part of the excess earnings of an individual shall be charged to any month (A) for which such individual was not entitled to a benefit under this subchapter, (B) in which such individual was at or above retirement age (as defined in section 416(l) of this title), (C) in which such individual, if a child entitled to child's insurance benefits, has attained the age of 18, (D) for which such individual is entitled to widow's or widower's insurance benefits if such individual became so entitled prior to attaining age 60, (E) in which such individual did not engage in self-employment and did not render services for wages (determined as provided in paragraph (5) of this subsection) of more than the applicable exempt amount as determined under paragraph (8), if such month is in the taxable year in which occurs the first month after December 1977 that is both (i) a month for which the individual is entitled to benefits under subsection (a), (b), (c), (d), (e), (f), (g), or (h) of section 402 of this title (without having been entitled for the preceding month to a benefit under any other of such subsections), and (ii) a month in which the individual did not engage in self-employment and did not render services for wages (determined as provided in paragraph (5)) of more than the applicable exempt amount as determined under paragraph (8), or (F) in which such individual did not engage in self-employment and did not render services for wages (determined as provided in paragraph (5) of this subsection) of more than the applicable exempt amount as determined under paragraph (8), in the case of an individual entitled to benefits under section 402(b) or (c) of this title (but only by reason of having a child in his or her care within the meaning of paragraph (1)(B) of subsection (b) or (c) of this section, as may be applicable) or under section 402(d) or (g) of this title, if such month is in a year in which such entitlement ends for a reason other than the death of such individual, and such individual is not entitled to any benefits under this subchapter for the month following the month during which such entitlement under section 402(b), (d), or (g) of this title ended.
 
 &emsp;(2) As used in paragraph (1), the term “first month of such taxable year” means the earliest month in such year to which the charging of excess earnings described in such paragraph is not prohibited by the application of clauses (A), (B), (C), (D), (E), and (F) thereof.
 
-&emsp;(3) For purposes of paragraph (1) and subsection (h) of this section, an individual's excess earnings for a taxable year shall be 331/3 percent of his earnings for such year in excess of the product of the applicable exempt amount as determined under paragraph (8) in the case of an individual who has attained (or, but for the individual's death, would have attained) retirement age (as defined in section 416(<i>l</i>) of this title) before the close of such taxable year, or 50 percent of his earnings for such year in excess of such product in the case of any other individual, multiplied by the number of months in such year, except that, in determining an individual's excess earnings for the taxable year in which he attains retirement age (as defined in section 416(<i>l</i>) of this title), there shall be excluded any earnings of such individual for the month in which he attains such age and any subsequent month (with any net earnings or net loss from self-employment in such year being prorated in an equitable manner under regulations of the Commissioner of Social Security). For purposes of the preceding sentence, notwithstanding section 411(e) of this title, the number of months in the taxable year in which an individual dies shall be 12. The excess earnings as derived under the first sentence of this paragraph, if not a multiple of $1, shall be reduced to the next lower multiple of $1.
+&emsp;(3) For purposes of paragraph (1) and subsection (h) of this section, an individual's excess earnings for a taxable year shall be 331/3 percent of his earnings for such year in excess of the product of the applicable exempt amount as determined under paragraph (8) in the case of an individual who has attained (or, but for the individual's death, would have attained) retirement age (as defined in section 416(l) of this title) before the close of such taxable year, or 50 percent of his earnings for such year in excess of such product in the case of any other individual, multiplied by the number of months in such year, except that, in determining an individual's excess earnings for the taxable year in which he attains retirement age (as defined in section 416(l) of this title), there shall be excluded any earnings ofsuch individual for the month in which he attains such age and any subsequent month (with any net earnings or net loss from self-employment in such year being prorated in an equitable manner under regulations of the Commissioner of Social Security). For purposes of the preceding sentence, notwithstanding section 411(e) of this title, the number of months in the taxable year in which an individual dies shall be 12. The excess earnings as derived under the first sentence of this paragraph, if not a multiple of $1, shall be reduced to the next lower multiple of $1.
 
 &emsp;(4) For purposes of clause (E) of paragraph (1)—
 
@@ -186,7 +186,7 @@ For purposes of subsection (b) of this section—
 
 &emsp;&emsp;(i) an individual's net earnings from self-employment for any taxable year shall be determined as provided in section 411 of this title, except that paragraphs (1), (4), and (5) of section 411(c) of this title shall not apply and the gross income shall be computed by excluding the amounts provided by subparagraph (D) of this paragraph, and
 
-&emsp;&emsp;(ii) an individual's net loss from self-employment for any taxable year is the excess of the deductions (plus his distributive share of loss described in section 702(a)(8) of the Internal Revenue Code of 1986) taken intoaccount under clause (i) over the gross income (plus his distributive share of income so described) taken into account under clause (i).
+&emsp;&emsp;(ii) an individual's net loss from self-employment for any taxable year is the excess of the deductions (plus his distributive share of loss described in section 702(a)(8) of the Internal Revenue Code of 1986) taken into account under clause (i) over the gross income (plus his distributive share of income so described) taken into account under clause (i).
 
 &emsp;(C) For purposes of this subsection, an individual's wages shall be computed without regard to the limitations as to amounts of remuneration specified in paragraphs (1), (6)(B), (6)(C), (7)(B), and (8) of section 409(a) of this title; and in making such computation services which do not constitute employment as defined in section 410 of this title, performed within the United States by the individual as an employee or performed outside the United States in the active military or naval service of the United States, shall be deemed to be employment as so defined if the remuneration for such services is not includible in computing his net earnings or net loss from self-employment. The term “wages” does not include—
 
@@ -196,7 +196,7 @@ For purposes of subsection (b) of this section—
 
 &emsp;(D) In the case of—
 
-&emsp;&emsp;(i) an individual who has attained retirement age (as defined in section 416(<i>l</i>) of this title) on or before the last day of the taxable year, and who shows to the satisfaction of the Commissioner of Social Security that he or she is receiving royalties attributable to a copyright or patent obtained before the taxable year in which he or she attained such age and that the property to which the copyright or patent relates was created by his or her own personal efforts, or
+&emsp;&emsp;(i) an individual who has attained retirement age (as defined in section 416(l) of this title) on or before the last day of the taxable year, and who shows to the satisfaction of the Commissioner of Social Security that he or she is receiving royalties attributable to a copyright or patent obtained before the taxable year in which he or she attained such age and that the property to which the copyright or patent relates was created by his or her own personal efforts, or
 
 &emsp;&emsp;(ii) an individual who has become entitled to insurance benefits under this subchapter, other than benefits under section 423 of this title or benefits payable under section 402(d) of this title by reason of being under a disability, and who shows to the satisfaction of the Commissioner of Social Security that he or she is receiving, in a year after his or her initial year of entitlement to such benefits, any other income not attributable to services performed after the month in which he or she initially became entitled to such benefits,
 
@@ -204,7 +204,7 @@ For purposes of subsection (b) of this section—
 
 &emsp;(E) For purposes of this section, any individual's net earnings from self-employment which result from or are attributable to the performance of services by such individual as a director of a corporation during any taxable year shall be deemed to have been derived (and received) by such individual in that year, at the time the services were performed, regardless of when the income, on which the computation of such net earnings from self-employment is based, is actually paid to or received by such individual (unless such income was actually paid and received prior to that year).
 
-&emsp;(6) For purposes of this subsection, wages (determined as provided in paragraph (5)(C)) which, according to reports received by the Commissioner of Social Security, are paid to an individual during a taxable year shall be presumed to have been paid to him for services performed in such year until it is shown to the satisfaction of the Commissioner of Social Security that they were paid for services performed in another taxable year. If such reports with respect to an individual show his wages for a calendar year, such individual's taxable year shall be presumed to be a calendar year for purposes of this subsection until it is shown to the satisfaction of the Commissioner of Social Security that his taxable year is not a calendar year.
+&emsp;(6) For purposes of this subsection, wages (determined as provided in paragraph (5)(C)) which, according to reports received by theCommissioner of Social Security, are paid to an individual during a taxable year shall be presumed to have been paid to him for services performed in such year until it is shown to the satisfaction of the Commissioner of Social Security that they were paid for services performed in another taxable year. If such reports with respect to an individual show his wages for a calendar year, such individual's taxable year shall be presumed to be a calendar year for purposes of this subsection until it is shown to the satisfaction of the Commissioner of Social Security that his taxable year is not a calendar year.
 
 &emsp;(7) Where an individual's excess earnings are charged to a month and the excess earnings so charged are less than the total of the payments (without regard to such charging) to which all persons (excluding divorced spouses referred to in subsection (b)(2) of this section) are entitled under section 402 of this title for such month on the basis of his wages and self-employment income, the difference between such total and the excess so charged to such month shall be paid (if it is otherwise payable under this subchapter) to such individual and other persons in the proportion that the benefit to which each of them is entitled (without regard to such charging, without the application of section 402(k)(3) of this title, and prior to the application of section 403(a) of this title) bears to the total of the benefits to which all of them are entitled.
 
@@ -226,7 +226,7 @@ For purposes of subsection (b) of this section—
 
 &emsp;(C) Notwithstanding the determination of a new exempt amount by the Commissioner of Social Security under subparagraph (A) (and notwithstanding any publication thereof under such subparagraph or any notification thereof under the last sentence of subparagraph (B)), such new exempt amount shall not take effect pursuant thereto if during the calendar year in which such determination is made a law increasing the exempt amount is enacted.
 
-&emsp;(D) Notwithstanding any other provision of this subsection, the exempt amount which is applicable to an individual who has attained retirement age (as defined in section 416(<i>l</i>) of this title) before the close of the taxable year involved shall be—
+&emsp;(D) Notwithstanding any other provision of this subsection, the exempt amount which is applicable to an individual who has attained retirement age (as defined in section 416(l) of this title) before the close of the taxable year involved shall be—
 
 &emsp;&emsp;(i) for each month of any taxable year ending after 1995 and before 1997, $1,041.662/3,
 
@@ -242,9 +242,9 @@ For purposes of subsection (b) of this section—
 
 &emsp;&emsp;(vii) for each month of any taxable year ending after 2001 and before 2003, $2,500.00.
 
-&emsp;(E) Notwithstanding subparagraph (D), no deductions in benefits shall be made under subsection (b) of this section with respect to the earnings of any individual in any month beginning with the month in which the individual attains retirement age (as defined in section 416(<i>l</i>) of this title).
+&emsp;(E) Notwithstanding subparagraph (D), no deductions in benefits shall be made under subsection (b) of this section with respect to the earnings of any individual in any month beginning with the month in which the individual attains retirement age (as defined in section 416(l) of this title).
 
-&emsp;(9) For purposes of paragraphs (3), (5)(D)(i), (8)(D), and (8)(E), the term “retirement age (as defined in section 416(<i>l</i>) of this title)”, with respect to any individual entitled to monthly insurance benefits under section 402 of this title, means the retirement age (as so defined) which is applicable in the case of old-age insurance benefits, regardless of whether or not the particular benefits to which the individual is entitled (or the only such benefits) are old-age insurance benefits.
+&emsp;(9) For purposes of paragraphs (3), (5)(D)(i), (8)(D), and (8)(E), the term “retirement age (as defined in section 416(l) of this title)”, with respect to any individual entitled to monthly insurance benefits under section 402 of this title, means the retirement age (as so defined) which is applicable in the case of old-age insurance benefits, regardless of whether or not the particular benefits to which the individual is entitled (or the only such benefits) are old-age insurance benefits.
 
 #### (g) Penalty for failure to report certain events
 
@@ -260,11 +260,11 @@ Any individual in receipt of benefits subject to deduction under subsection (c) 
 
 #### (h) Report of earnings to Commissioner
 
-(1)(A) If an individual is entitled to any monthly insurance benefit under section 402 ofthis title during any taxable year in which he has earnings or wages, as computed pursuant to paragraph (5) of subsection (f) of this section, in excess of the product of the applicable exempt amount as determined under subsection (f)(8) of this section times the number of months in such year, such individual (or the individual who is in receipt of such benefit on his behalf) shall make a report to the Commissioner of Social Security of his earnings (or wages) for such taxable year. Such report shall be made on or before the fifteenth day of the fourth month following the close of such year, and shall contain such information and be made in such manner as the Commissioner of Social Security may by regulations prescribe. Such report need not be made for any taxable year—
+(1)(A) If an individual is entitled to any monthly insurance benefit under section 402 of this title during any taxable year in which he has earnings or wages, as computed pursuant to paragraph (5) of subsection (f) of this section, in excess of the product of the applicable exempt amount as determined under subsection (f)(8) of this section times the number of months in such year, such individual (or the individual who is in receipt of such benefit on his behalf) shall make a report to the Commissioner of Social Security of his earnings (or wages) for such taxable year. Such report shall be made on or before the fifteenth day of the fourth month following the close of such year, and shall contain such information and be made in such manner as the Commissioner of Social Security may by regulations prescribe. Such report need not be made for any taxable year—
 
-&emsp;(i) beginning with or after the month in which such individual attained retirement age (as defined in section 416(<i>l</i>) of this title), or
+&emsp;(i) beginning with or after the month in which such individual attained retirement age (as defined in section 416(l) of this title), or
 
-&emsp;(ii) if benefit payments for all months (in such taxable year) in which such individual is under retirement age (as defined in section 416(<i>l</i>) of this title) have been suspended under the provisions of the first sentence of paragraph (3) of this subsection, unless—
+&emsp;(ii) if benefit payments for all months (in such taxable year) in which such individual is under retirement age (as defined in section 416(l) of this title) have been suspended under the provisions of the first sentence of paragraph (3) of this subsection, unless—
 
 &emsp;&emsp;(I) such individual is entitled to benefits under subsection (b), (c), (d), (e), (f), (g), or (h) of section 402 of this title,
 
@@ -278,7 +278,7 @@ Any individual in receipt of benefits subject to deduction under subsection (c) 
 
 (2) If an individual fails to make a report required under paragraph (1) of this subsection, within the time prescribed by or in accordance with such paragraph, for any taxable year and any deduction is imposed under subsection (b) of this section by reason of his earnings for such year, he shall suffer additional deductions as follows:
 
-&emsp;(A) if such failure is the first one with respect to which an additional deduction is imposed under this paragraph, such additional deduction shall be equal to his benefit or benefits for the last month of such year for which he was entitled to a benefit under section 402 of this title, except that if the deduction imposed under subsection (b) of this section by reason of his earnings for such year is less than the amount of his benefit (or benefits) for the last month of such year for which he was entitled to a benefit under section 402 of this title, the additional deduction shall be equal to the amount of the deduction imposed under subsection (b) of this section but not less than $10;
+&emsp;(A) if such failure is the first one with respect to which an additional deduction is imposed under this paragraph, such additional deduction shall be equal to his benefit or benefits for the last month of such year for which he was entitled to a benefit under section 402 of this title, except that if the deduction imposed under subsection (b) of this section by reason of his earnings for such year is less than the amount of his benefit (or benefits) forthe last month of such year for which he was entitled to a benefit under section 402 of this title, the additional deduction shall be equal to the amount of the deduction imposed under subsection (b) of this section but not less than $10;
 
 &emsp;(B) if such failure is the second one for which an additional deduction is imposed under this paragraph, such additional deduction shall be equal to two times his benefit or benefits for the last month of such year for which he was entitled to a benefit under section 402 of this title;
 
@@ -286,7 +286,7 @@ Any individual in receipt of benefits subject to deduction under subsection (c) 
 
 > except that the number of the additional deductions required by this paragraph with respect to a failure to report earnings for a taxable year shall not exceed the number of months in such year for which such individual received and accepted insurance benefits under section 402 of this title and for which deductions are imposed under subsection (b) of this section by reason of his earnings. In determining whether a failure to report earnings is the first or a subsequent failure for any individual, all taxable years ending prior to the imposition of the first additional deduction under this paragraph, other than the latest one of such years, shall be disregarded.
 
-(3) If the Commissioner of Social Security determines, on the basis of information obtained by or submitted to the Commissioner, that it may reasonably be expected that an individual entitled to benefits under section 402 of this title for any taxable year will suffer deductions imposed under subsection (b) of this section by reason of his earnings for such year, the Commissioner of Social Security may, before the close of such taxable year, suspend the total or less than the total payment for each month in such year (or for only such months as the Commissioner of Social Security may specify) of the benefits payable on the basis of such individual's wages and self-employment income; and such suspension shall remain in effect with respect to the benefits for any month until the Commissioner of Social Security has determined whether or not any deduction is imposed for such month under subsection (b) of this section. The Commissioner of Social Security is authorized, before the close of the taxable year of an individual entitled to benefits during such year, to request of such individual that he make, at such time or times as the Commissioner of Social Security may specify, a declaration of his estimated earnings for the taxable year and that he furnish to the Commissioner of Social Security such other information with respect to suchearnings as the Commissioner of Social Security may specify. A failure by such individual to comply with any such request shall in itself constitute justification for a determination under this paragraph that it may reasonably be expected that the individual will suffer deductions imposed under subsection (b) of this section by reason of his earnings for such year. If, after the close of a taxable year of an individual entitled to benefits under section 402 of this title for such year, the Commissioner of Social Security requests such individual to furnish a report of his earnings (as computed pursuant to paragraph (5) of subsection (f) of this section) for such taxable year or any other information with respect to such earnings which the Commissioner of Social Security may specify, and the individual fails to comply with such request, such failure shall in itself constitute justification for a determination that such individual's benefits are subject to deductions under subsection (b) of this section for each month in such taxable year (or only for such months thereof as the Commissioner of Social Security may specify) by reason of his earnings for such year.
+(3) If the Commissioner of Social Security determines, on the basis of information obtained by or submitted to the Commissioner, that it may reasonably be expected that an individual entitled to benefits under section 402 of this title for any taxable year will suffer deductions imposed under subsection (b) of this section by reason of his earnings for such year, the Commissioner of Social Security may, before the close of such taxable year, suspend the total or less than the total payment for each month in such year (or for only such months as the Commissioner of Social Security may specify) of the benefits payable on the basis of such individual's wages and self-employment income; and such suspension shall remain in effect with respect to the benefits for any month until the Commissioner of Social Security has determined whether or not any deduction is imposed for such month under subsection (b) of this section. The Commissioner of Social Security is authorized, before the close of the taxable year of an individual entitled to benefits during such year, to request of such individual that he make, at such time or times as the Commissioner of Social Security may specify, a declaration of his estimated earnings for the taxable year and that he furnish to the Commissioner of Social Security such other information with respect to such earnings as the Commissioner of Social Security may specify. A failure by such individual to comply with any such request shall in itself constitute justification for a determination under this paragraph that it may reasonably be expected that the individual will suffer deductions imposed under subsection (b) of this section by reason of his earnings for such year. If, after the close of a taxable year of an individual entitled to benefits under section 402 of this title for such year, the Commissioner of Social Security requests such individual to furnish a report of his earnings (as computed pursuant to paragraph (5) of subsection (f) of this section) for such taxable year or any other information with respect to such earnings which the Commissioner of Social Security may specify, and the individual fails to comply with such request, such failure shall in itself constitute justification for a determination that such individual's benefits are subject to deductions under subsection (b) of this section for each month in such taxable year (or only for such months thereof as the Commissioner of Social Security may specify) by reason of his earnings for such year.
 
 (4) The Commissioner of Social Security shall develop and implement procedures in accordance with this subsection to avoid paying more than the correct amount of benefits to any individual under this subchapter as a result of such individual's failure to file a correct report or estimate of earnings or wages. Such procedures may include identifying categories of individuals who are likely to be paid more than the correct amount of benefits and requesting that they estimate their earnings or wages more frequently than other persons subject to deductions under this section on account of earnings or wages.
 
@@ -294,17 +294,17 @@ Any individual in receipt of benefits subject to deduction under subsection (c) 
 
 #### (j) Attainment of retirement age
 
-For the purposes of this section, an individual shall be considered as having attained retirement age (as defined in section 416(<i>l</i>) of this title) during the entire month in which he attains such age.
+For the purposes of this section, an individual shall be considered as having attained retirement age (as defined in section 416(l) of this title) during the entire month in which he attains such age.
 
 #### (k) Noncovered remunerative activity outside United States
 
 An individual shall be considered to be engaged in noncovered remunerative activity outside the United States if he performs services outside the United States as an employee and such services do not constitute employment as defined in section 410 of this title and are not performed in the active military or naval service of the United States, or if he carries on a trade or business outside the United States (other than the performance of service as an employee) the net income or loss of which (1) is not includible in computing his net earnings from self-employment for a taxable year and (2) would not be excluded from net earnings from self-employment, if carried on in the United States, by any of the numbered paragraphs of section 411(a) of this title. When used in the preceding sentence with respect to a trade or business (other than the performance of service as an employee), the term “United States” does not include the Commonwealth of Puerto Rico, the Virgin Islands, Guam, or American Samoa in the case of an alien who is not a resident of the United States (including the Commonwealth of Puerto Rico, the Virgin Islands, Guam, and American Samoa); and the term “trade or business” shall have the same meaning as when used in section 162 of the Internal Revenue Code of 1986.
 
-#### (<i>l</i>) Good cause for failure to make reports required
+#### (l) Good cause for failure to make reports required
 
 The failure of an individual to make any report required by subsection (g) or (h)(1)(A) of this section within the time prescribed therein shall not be regarded as such a failure if it is shown to the satisfaction of the Commissioner of Social Security that he had good cause for failing to make such report within such time. The determination of what constitutes good cause for purposes of this subsection shall be made in accordance with regulations of the Commissioner of Social Security, except that in making any such determination, the Commissioner of Social Security shall specifically take into account any physical, mental, educational, or linguistic limitation such individual may have (including any lack of facility with the English language).
 
-(Aug. 14, 1935, ch. 531, title II, §203, 49 Stat. 623; Aug. 10, 1939, ch. 666, title II, §201, 53 Stat. 1362, 1367; Aug. 10, 1946, ch. 951, title IV, §406, 60 Stat. 988; Aug. 28, 1950, ch. 809, title I, §§102(a), 103(a), 64 Stat. 489; July 18, 1952, ch. 945, §§2(b)(2), 4(a)–(d), 66 Stat. 768, 773; Sept. 1, 1954, ch. 1206, title I, §§102(e)(7), 103(a)–(h), (i)(3), 112(a), 68 Stat. 1070, 1073–1077, 1078, 1085; Aug. 1, 1956, ch. 836, title I, §§101(d)–(g), 102(d)(11), 107(a), 112 (a), (b), 70 Stat. 808, 814, 829, 831; Pub. L. 85–840, title I, §101(f), title II, §205(j), (k), title III, §§307(f), 308(a)–(e), Aug. 28, 1958, 72 Stat. 1017, 1024, 1032, 1033; Pub. L. 86–778, title I, §103(b), title II, §§209(a), 211(a)–(h), title III, §302(a), Sept. 13, 1960, 74 Stat. 936, 953–957, 960; Pub. L. 87–64, title I, §108(a), June 30, 1961, 75 Stat. 140; Pub. L. 89–97, title III, §§301(c), 306(c)(10)–(12), 308(d)(6)–(8), 310(a), 325(a), July 30, 1965, 79 Stat. 363, 373, 378–380, 399; Pub. L. 90–248, title I, §§101(b), 104(d)(1), 107(a), 160, 161(a), (b), 163(a)(1), Jan. 2, 1968, 81 Stat. 826, 832, 834, 870, 872; Pub. L. 91–172, title X, §1002(b)(1), Dec. 30, 1969, 83 Stat. 739; Pub. L. 92–5, title II, §201(b), Mar. 17, 1971, 85 Stat. 8; Pub. L. 92–336, title II, §§201(b), (h)(1), 202(a)(2)(A), (B), July 1, 1972, 86 Stat. 410, 411, 415; Pub. L. 92–603, title I, §§101(b), 102(c), 103(c), 105(a), (b), 106(a), 107(b)(1), (2), 144(a)(2), (3), Oct. 30, 1972, 86 Stat. 1334, 1336, 1340–1343, 1370; Pub. L. 93–66, title II, §202(a)–(c), July 9, 1973, 87 Stat. 153; Pub. L. 93–233, §§3(k), 18(a), Dec. 31, 1973, 87 Stat. 953, 967; Pub. L. 94–202, §8(i), Jan. 2, 1976, 89 Stat. 1140; Pub. L. 95–216, title II, §§202, 204(e), title III, §§301(a), (b), (c)(1), (d), 302(a)–(d), 303(a), 353(a), Dec. 20, 1977, 91 Stat. 1524, 1528, 1530, 1531, 1552; Pub. L. 96–265, title I, §101(a)–(b)(2), June 9, 1980, 94 Stat. 442; Pub. L. 96–473, §§1(a), 3(a), 4(a), 6(b), Oct. 19, 1980, 94 Stat. 2263–2265; Pub. L. 97–35, title XXII, §§2201(c)(6), 2206(b)(2)–(4), Aug. 13, 1981, 95 Stat. 831, 838; Pub. L. 97–123, §2(f), Dec. 29, 1981, 95 Stat. 1661; Pub. L. 98–21, title I, §§111(a)(4), 132(b), title II, §201(c)(1)(B), (2), titleIII, §§306(i), 309(f)–(h), 324(c)(4), 331(a), (b), 347(a), Apr. 20, 1983, 97 Stat. 72, 94, 109, 114, 116, 117, 125, 128, 129, 138; Pub. L. 98–369, div. B, title VI, §§2602(a), 2661(g)(1)(A), (2)(A), 2662(c)(1), 2663(a)(3), July 18, 1984, 98 Stat. 1127, 1157, 1159, 1161; Pub. L. 99–272, title XII, §12108(a), Apr. 7, 1986, 100 Stat. 286; Pub. L. 100–647, title VIII, §8002(a), (b), Nov. 10, 1988, 102 Stat. 3779; Pub. L. 101–239, title X, §§10208(b)(1)(A), (B), (d)(2)(A)(i), (ii), (vi), 10305(a), Dec. 19, 1989, 103 Stat. 2477, 2480, 2481, 2483; Pub. L. 101–508, title V, §§5117(a)(3)(B), 5119(c), (d), 5123(a)(1), (2), 5127(a), (b), Nov. 5, 1990, 104 Stat. 1388–277, 1388–279, 1388–280, 1388–284, 1388–286; Pub. L. 103–296, title I, §107(a)(4), title III, §§309(a)–(c), 310(a), (b), 314(a), 321(a)(6), (c)(6)(A), (g)(2), Aug. 15, 1994, 108 Stat. 1478, 1523, 1524, 1530, 1536, 1538, 1543; Pub. L. 104–121, title I, §102(a), (b)(1), Mar. 29, 1996, 110 Stat. 847, 848; Pub. L. 106–182, §§2–4(a), Apr. 7, 2000, 114 Stat. 198, 199.)
+(Aug. 14, 1935, ch. 531, title II, §203, 49 Stat. 623; Aug. 10, 1939, ch. 666, title II, §201, 53 Stat. 1362, 1367; Aug. 10, 1946, ch. 951, title IV, §406, 60 Stat. 988; Aug. 28, 1950, ch. 809, title I, §§102(a), 103(a), 64 Stat. 489; July 18, 1952, ch. 945, §§2(b)(2), 4(a)–(d), 66 Stat. 768, 773; Sept. 1, 1954, ch. 1206, title I, §§102(e)(7), 103(a)–(h), (i)(3), 112(a), 68 Stat. 1070, 1073–1077, 1078, 1085; Aug. 1, 1956, ch. 836, title I, §§101(d)–(g), 102(d)(11), 107(a), 112 (a), (b), 70 Stat. 808, 814, 829, 831; Pub. L. 85–840, title I, §101(f), title II, §205(j), (k), title III, §§307(f), 308(a)–(e), Aug. 28, 1958, 72 Stat. 1017, 1024, 1032, 1033; Pub. L. 86–778, title I, §103(b), title II, §§209(a), 211(a)–(h), title III, §302(a), Sept. 13, 1960, 74 Stat. 936, 953–957, 960; Pub. L. 87–64, title I, §108(a), June 30, 1961, 75 Stat. 140; Pub. L. 89–97, title III, §§301(c), 306(c)(10)–(12), 308(d)(6)–(8), 310(a), 325(a), July 30, 1965, 79 Stat. 363, 373, 378–380, 399; Pub. L. 90–248, title I, §§101(b), 104(d)(1), 107(a), 160, 161(a), (b), 163(a)(1), Jan. 2, 1968, 81 Stat. 826, 832, 834, 870, 872; Pub. L. 91–172, title X, §1002(b)(1), Dec. 30, 1969, 83 Stat. 739; Pub. L. 92–5, title II, §201(b), Mar. 17, 1971, 85 Stat. 8; Pub. L. 92–336, title II, §§201(b), (h)(1), 202(a)(2)(A), (B), July 1, 1972, 86 Stat. 410, 411, 415; Pub. L. 92–603, title I, §§101(b), 102(c), 103(c), 105(a), (b), 106(a), 107(b)(1), (2), 144(a)(2), (3), Oct. 30, 1972, 86 Stat. 1334, 1336, 1340–1343, 1370; Pub. L. 93–66, title II, §202(a)–(c), July 9, 1973, 87 Stat. 153; Pub. L. 93–233, §§3(k), 18(a), Dec. 31, 1973, 87 Stat. 953, 967; Pub. L. 94–202, §8(i), Jan. 2, 1976, 89 Stat. 1140; Pub. L. 95–216, title II, §§202, 204(e), title III, §§301(a), (b), (c)(1), (d), 302(a)–(d), 303(a), 353(a), Dec. 20, 1977, 91 Stat. 1524, 1528, 1530, 1531, 1552; Pub. L. 96–265, title I, §101(a)–(b)(2), June 9, 1980, 94 Stat. 442; Pub. L. 96–473, §§1(a), 3(a), 4(a), 6(b), Oct. 19, 1980, 94 Stat. 2263–2265; Pub. L. 97–35, title XXII, §§2201(c)(6), 2206(b)(2)–(4), Aug. 13, 1981, 95 Stat. 831, 838; Pub. L. 97–123, §2(f), Dec. 29, 1981, 95 Stat. 1661; Pub. L. 98–21, title I, §§111(a)(4), 132(b), title II, §201(c)(1)(B), (2), title III, §§306(i), 309(f)–(h), 324(c)(4), 331(a), (b), 347(a), Apr. 20, 1983, 97 Stat. 72, 94, 109, 114, 116, 117, 125, 128, 129, 138; Pub. L. 98–369, div. B, title VI, §§2602(a), 2661(g)(1)(A), (2)(A), 2662(c)(1), 2663(a)(3), July 18, 1984, 98 Stat. 1127, 1157, 1159, 1161; Pub. L. 99–272, title XII, §12108(a), Apr. 7, 1986, 100 Stat. 286; Pub. L. 100–647, title VIII, §8002(a), (b), Nov. 10, 1988, 102 Stat. 3779; Pub. L. 101–239, title X, §§10208(b)(1)(A), (B), (d)(2)(A)(i), (ii), (vi), 10305(a), Dec. 19, 1989, 103 Stat. 2477, 2480, 2481, 2483; Pub. L. 101–508, title V, §§5117(a)(3)(B), 5119(c), (d), 5123(a)(1), (2), 5127(a), (b), Nov. 5, 1990, 104 Stat. 1388–277, 1388–279, 1388–280, 1388–284, 1388–286; Pub. L. 103–296, title I, §107(a)(4), title III, §§309(a)–(c), 310(a), (b), 314(a), 321(a)(6), (c)(6)(A), (g)(2), Aug. 15, 1994, 108 Stat. 1478, 1523, 1524, 1530, 1536, 1538, 1543; Pub. L. 104–121, title I, §102(a), (b)(1), Mar. 29, 1996, 110 Stat. 847, 848; Pub. L. 106–182, §§2–4(a), Apr. 7, 2000, 114 Stat. 198, 199.)
 
 #### References in Text
 
@@ -318,31 +318,31 @@ The Internal Revenue Code of 1986, referred to in subsecs. (f)(5)(B)(ii) and (k)
 
 #### Amendments
 
-<b>2000</b>—Subsec. (c). Pub. L. 106–182, §4(a)(1), in last sentence of concluding provisions substituted “nor shall any deduction be made under this subsection from any widow's or widower's insurance benefit if the widow, surviving divorced wife, widower, or surviving divorced husband involved became entitled to such benefit prior to attaining age 60” for “nor shall any deduction be made under this subsection from any widow's insurance benefit for any month in which the widow or surviving divorced wife is entitled and has not attained retirement age (as defined in section 416(<i>l</i>) of this title) (but only if she became so entitled prior to attaining age 60), or from any widower's insurance benefit for any month in which the widower or surviving divorced husband is entitled and has not attained retirement age (as defined in section 416(<i>l</i>) of this title) (but only if he became so entitled prior to attaining age 60)”.
+<b>2000</b>—Subsec. (c). Pub. L. 106–182, §4(a)(1), in last sentence of concluding provisions substituted “nor shall any deduction be made under this subsection from any widow's or widower's insurance benefit if the widow, surviving divorced wife, widower, or surviving divorced husband involved became entitled to such benefit prior to attaining age 60” for “nor shall any deduction be made under this subsection from any widow's insurance benefit for any month in which the widow or surviving divorced wife is entitled and has not attained retirement age (as defined in section 416(l) of this title) (but only if she became so entitled prior to attaining age 60), or from any widower's insurance benefit for any month in which the widower or surviving divorced husband is entitled and has not attained retirement age (as defined in section 416(l) of this title) (but only if he became so entitled prior to attaining age 60)”.
 
-Subsec. (c)(1). Pub. L. 106–182, §2(1), substituted “retirement age (as defined in section 416(<i>l</i>) of this title)” for “the age of seventy”.
+Subsec. (c)(1). Pub. L. 106–182, §2(1), substituted “retirement age (as defined in section 416(l) of this title)” for “the age of seventy”.
 
-Subsec. (d)(1)(A), (2). Pub. L. 106–182, §2(2), substituted “retirement age (as defined in section 416(<i>l</i>) of this title)” for “the age of seventy”.
+Subsec. (d)(1)(A), (2). Pub. L. 106–182, §2(2), substituted “retirement age (as defined in section 416(l) of this title)” for “the age of seventy”.
 
-Subsec. (f)(1)(B). Pub. L. 106–182, §2(3), substituted “was at or above retirement age (as defined in section 416(<i>l</i>) of this title)” for “was age seventy or over”.
+Subsec. (f)(1)(B). Pub. L. 106–182, §2(3), substituted “was at or above retirement age (as defined in section 416(l) of this title)” for “was age seventy or over”.
 
-Subsec. (f)(1)(D). Pub. L. 106–182, §4(a)(2), added cl. (D) and struck out former cl. (D) which read as follows: “for which such individual is entitled to widow's insurance benefits and has not attained retirement age (as defined in section 416(<i>l</i>) of this title) (but only if she became so entitled prior to attaining age 60), or widower's insurance benefits and has not attained retirement age (as defined in section 416(<i>l</i>) of this title) (but only if he became so entitled prior to attaining age 60),”.
+Subsec. (f)(1)(D). Pub. L. 106–182, §4(a)(2), added cl. (D) and struck out former cl. (D) which read as follows: “for which such individual is entitled to widow's insurance benefits and has not attained retirement age (as defined in section 416(l) of this title) (but only if she became so entitled prior to attaining age 60), or widower's insurance benefits and has not attained retirement age (as defined in section 416(l) of this title) (but only if he became so entitled prior to attaining age 60),”.
 
-Subsec. (f)(3). Pub. L. 106–182, §2(4), substituted “retirement age (as defined in section 416(<i>l</i>) of this title)” for “age 70”.
+Subsec. (f)(3). Pub. L. 106–182, §2(4), substituted “retirement age (as defined in section 416(l) of this title)” for “age 70”.
 
 Subsec. (f)(8)(E). Pub. L. 106–182, §3(a), added subpar. (E).
 
 Subsec. (f)(9). Pub. L. 106–182, §3(b), substituted “(8)(D), and (8)(E),” for “and (8)(D),”.
 
-Subsec. (h)(1)(A)(i), (ii). Pub. L. 106–182, §2(5), substituted “retirement age (as defined in section 416(<i>l</i>) of this title)” for “age 70”.
+Subsec. (h)(1)(A)(i), (ii). Pub. L. 106–182, §2(5), substituted “retirement age (as defined in section 416(l) of this title)” for “age 70”.
 
-Subsec. (j). Pub. L. 106–182, §2(6), substituted “retirement age” for “age seventy” in heading and “having attained retirement age (as defined in section 416(<i>l</i>) of this title)” for “seventy years of age”.
+Subsec. (j). Pub. L. 106–182, §2(6), substituted “retirement age” for “age seventy” in heading and “having attained retirement age (as defined in section 416(l) of this title)” for “seventy years of age”.
 
 <b>1996</b>—Subsec. (f)(8)(B)(ii). Pub. L. 104–121, §102(b)(1)(A), substituted “the taxable year ending after 2001 and before 2003 (with respect to individuals described in subparagraph (D)) or the taxable year ending after 1993 and before 1995 (with respect to other individuals)” for “the taxable year ending after 1993 and before 1995”.
 
 Subsec. (f)(8)(B)(ii)(II). Pub. L. 104–121, §102(b)(1)(B), substituted “for 2000 (with respect to individuals described in subparagraph (D)) or 1992 (with respect to other individuals)” for “for 1992”.
 
-Subsec. (f)(8)(D). Pub. L. 104–121, §102(a), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “Notwithstanding any other provision of this subsection, the exempt amount which is applicable to an individual who has attained retirement age (as defined in section 416(<i>l</i>) of this title) before the close of the taxable year involved—
+Subsec. (f)(8)(D). Pub. L. 104–121, §102(a), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “Notwithstanding any other provision of this subsection, the exempt amount which is applicable to an individual who has attained retirement age (as defined in section 416(l) of this title) before the close of the taxable year involved—
 
 &emsp;“(i) shall be $333.331/3 for each month of any taxable year ending after 1977 and before 1979,
 
@@ -414,13 +414,13 @@ Subsec. (i). Pub. L. 103–296, §309(a), struck out subsec. (i) which read as f
 
 Subsec. (k). Pub. L. 103–296, §321(c)(6)(A), substituted “Code of 1986” for “Code of 1954”.
 
-Subsec. (<i>l</i>). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary” wherever appearing.
+Subsec. (l). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary” wherever appearing.
 
 <b>1990</b>—Subsec. (a)(3)(D). Pub. L. 101–508, §5119(c), added subpar. (D).
 
 Subsec. (a)(6). Pub. L. 101–508, §5119(d), inserted “(3)(D),” after “(3)(C),”.
 
-Subsec. (a)(8). Pub. L. 101–508, §5117(a)(3)(B), inserted “and as amended by section 5117 of the Omnibus Budget Reconciliation Act of 1990,” after second reference to “December 1978”.
+Subsec. (a)(8). Pub. L. 101–508, §5117(a)(3)(B), inserted “and as amended by section 5117 of the Omnibus BudgetReconciliation Act of 1990,” after second reference to “December 1978”.
 
 Subsec. (b)(2). Pub. L. 101–508, §5127(a), designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), in any case in which—” and cls. (i) and (ii) for “When any of the other persons referred to in paragraph (1)(B) is entitled to monthly benefits as a divorced spouse under section 402(b) or (c) of this title for any month and such person has been so divorced for not less than 2 years,”, and added subpar. (B).
 
@@ -436,7 +436,7 @@ Pub. L. 101–239, §10208(d)(2)(A)(i), substituted “409(a)(1)” for “409(a
 
 Subsec. (f)(8)(B)(ii)(II). Pub. L. 101–239, §10208(b)(1)(B), substituted “the deemed average total wages (as so defined)” for “the average of the total wages (as so defined and computed) reported to the Secretary of the Treasury or his delegate”.
 
-Subsec. (<i>l</i>). Pub. L. 101–239, §10305(a), substituted “Secretary, except that in making any such determination, the Secretary shall specifically take into account any physical, mental, educational, or linguistic limitation such individual may have (including any lack of facility with the English language)” for “Secretary” in last sentence.
+Subsec. (l). Pub. L. 101–239, §10305(a), substituted “Secretary, except that in making any such determination, the Secretary shall specifically take into account any physical, mental, educational, or linguistic limitation such individual may have (including any lack of facility with the English language)” for “Secretary” in last sentence.
 
 <b>1988</b>—Subsec. (f)(3). Pub. L. 100–647 inserted “(or, but for the individual's death, would have attained)” after “who has attained” in first sentence, inserted after first sentence “For purposes of the preceding sentence, notwithstanding section 411(e) of this title, the number of months in the taxable year in which an individual dies shall be 12.”, and substituted “first sentence of this paragraph” for “preceding sentence” in last sentence.
 
@@ -476,9 +476,9 @@ Subsec. (b)(1)(i). Pub. L. 98–21, §331(b), substituted “first sentence of p
 
 Subsec. (b)(2). Pub. L. 98–21, §132(b)(1)(A)(v), added par. (2).
 
-Subsec. (c). Pub. L. 98–21, §201(c)(2), substituted “retirement age (as defined in section 416(<i>l</i>) of this title)” for “age sixty-five”.
+Subsec. (c). Pub. L. 98–21, §201(c)(2), substituted “retirement age (as defined in section 416(l) of this title)” for “age sixty-five”.
 
-Pub. L. 98–21, §201(c)(1)(B), substituted “retirement age (as defined in section 416(<i>l</i>) of this title)” for “age 65” wherever appearing in provisions following par. (4).
+Pub. L. 98–21, §201(c)(1)(B), substituted “retirement age (as defined in section 416(l) of this title)” for “age 65” wherever appearing in provisions following par. (4).
 
 Pub. L. 98–21, §309(g), amended subsec. (c) generally, substituting in par. (1) specification of more than forty-five hours of nonrecovered remunerative activity for specification of seven or more different days of such activity, and in pars. (2) to (4) provisions not distinguishing between the sexes for provisions relating only to the entitlements of women, and in provisions following par. (4) inserting “or surviving divorced husband” after “widower”.
 
@@ -490,21 +490,21 @@ Subsec. (d)(2). Pub. L. 98–21, §309(h), inserted “or father's” after “m
 
 Subsec. (f)(1). Pub. L. 98–21, §132(b)(1)(B)(i), inserted “(excluding divorced spouses referred to in subsection (b)(2) of this section)” after “and all other persons” and after “other persons” and inserted “such” after “payments to which such individual and all” in first sentence.
 
-Subsec. (f)(1)(D). Pub. L. 98–21, §201(c)(1)(B), substituted “retirement age (as defined in section 416(<i>l</i>) of this title)” for “age 65” in two places.
+Subsec. (f)(1)(D). Pub. L. 98–21, §201(c)(1)(B), substituted “retirement age (as defined in section 416(l) of this title)” for “age 65” in two places.
 
 Subsec. (f)(1)(F). Pub. L. 98–21, §306(i), substituted “section 402(b) or (c) of this title (but only by reason of having a child in his or her care within the meaning of paragraph (1)(B) of subsection (b) or (c) of this section, as may be applicable)” for “section 402(b) of this title (but only by reason of having a child in her care within the meaning of paragraph (1)(B) of that subsection)”.
 
-Subsec. (f)(3). Pub. L. 98–21, §347(a), substituted “331/3 percent of his earnings for such year in excess of the product of the applicable exempt amount as determined under paragraph (8) in the case of an individual who has attained retirement age (as defined in section 416(<i>l</i>) of this title) before the close of such taxable year, or 50 percent of his earnings for such year in excess of such product in the case of any other individual” for “50 per centum of his earnings for such year in excess of the product of the applicable exempt amount as determined under paragraph (8)”.
+Subsec. (f)(3). Pub. L. 98–21, §347(a), substituted “331/3 percent of his earnings for such year in excess of the product of the applicable exempt amount as determined under paragraph (8) in the case of an individual who has attained retirement age (as defined in section 416(l) of this title) before the close of such taxable year, or 50 percent of his earnings for such year in excess of such product in the case of any other individual” for “50 per centum of his earnings for such year in excess of the product of the applicable exempt amount as determined under paragraph (8)”.
 
 Subsec. (f)(5)(C). Pub. L. 98–21, §324(c)(4), inserted provision excluding from “wages” certain payments on account of retirement or under a pension plan of the employer.
 
-Subsec. (f)(5)(D)(i). Pub. L. 98–21, §201(c)(1)(B), as amended by Pub. L. 98–369, §2662(c)(1), substituted “retirement age (as defined in section 416(<i>l</i>) of this title)” for “the age of 65”.
+Subsec. (f)(5)(D)(i). Pub. L. 98–21, §201(c)(1)(B), as amended by Pub. L. 98–369, §2662(c)(1), substituted “retirement age (as defined in section 416(l) of this title)” for “the age of 65”.
 
 Subsec. (f)(7). Pub. L. 98–21, §132(b)(1)(B)(ii), inserted “(excluding divorced spouses referred to in subsection (b)(2) of this section)” after “all persons”.
 
 Subsec. (f)(8)(A). Pub. L. 98–21, §111(a)(4), substituted “December” for “June”.
 
-Subsec. (f)(8)(D). Pub. L. 98–21, §201(c)(1)(B), substituted “retirement age (as defined in section 416(<i>l</i>) of this title)” for “age 65”.
+Subsec. (f)(8)(D). Pub. L. 98–21, §201(c)(1)(B), substituted “retirement age (as defined in section 416(l) of this title)” for “age 65”.
 
 <b>1981</b>—Subsec. (a)(1). Pub. L. 97–35, §2206(b)(2), substituted in provisions following subpar. (D) “decreased to the next lower” for “increased to the next higher”.
 
@@ -662,13 +662,13 @@ Subsec. (i). Pub. L. 86–778, §211(c), (g), redesignated former subsec. (h) as
 
 Subsec. (k). Pub. L. 86–778, §103(b), substituted “the Commonwealth of Puerto Rico, the Virgin Islands, Guam or American Samoa” for “Puerto Rico or the Virgin Islands”, and “the Commonwealth of Puerto Rico, the Virgin Islands, Guam, and American Samoa” for “Puerto Rico and the Virgin Islands”.
 
-Subsec. (<i>l</i>). Pub. L. 86–778, §211(h), substituted “subsection (g) or (h)(1)(A) of this section” for “subsection (f) or (g)(1)(A) of this section”.
+Subsec. (l). Pub. L. 86–778, §211(h), substituted “subsection (g) or (h)(1)(A) of this section” for “subsection (f) or (g)(1)(A) of this section”.
 
 <b>1958</b>—Subsec. (a). Pub. L. 85–840, §101(f), substituted provisions limiting the total of monthly benefits under sections 402 and 423 of this title to the amount provided in column V of the table in section 415(a) of this title for provisions which limited the total of monthly benefits under section 402 of this title to $50, or 80% of the average monthly wage, or one and one-half times the primary insurance amount, whichever is greater, with a maximum amount of $200 and inserted provisions limiting the reduction for individuals who were entitled to monthly benefits under section 402 or 423 of this title for December 1958, and for individuals entitled to monthly benefits with respect to whom a period of disability began prior to January 1959 and continued until he became entitled to benefits under section 402 or 423 of this title, or he died, whichever first occurred.
 
 Subsec. (c). Pub. L. 85–840, §205(j), inserted “, based on the wages and self-employment income of an individual entitled to old-age insurance benefits,” before “to which a wife” in opening provisions of par. (1), and Pub. L. 85–840, §307(f), designated existing provisions of subsec. (c) as par. (1), redesignated subpars. (1) and (2) of par. (1) as subpars. (A) and (B), substituted in subpar. (B) of par. (1) “subparagraph (A)” for “paragraph (1)”, and added par. (2).
 
-Subsec. (e)(2). Pub. L. 85–840, §308(a), (c), substituted “first month” for “last month” and “succeedingmonth” for “preceding month” wherever appearing, and “$100” for “$80” in cl. (D).
+Subsec. (e)(2). Pub. L. 85–840, §308(a), (c), substituted “first month” for “last month” and “succeeding month” for “preceding month” wherever appearing, and “$100” for “$80” in cl. (D).
 
 Subsec. (e)(3). Pub. L. 85–840, §308(b), (c), substituted “the term ‘first month of such taxable year’ means the earliest month” for “the term ‘last month of such taxable year’ means the latest month” in cl. (A), and “$100” for “$80” in cl. (B)(ii).
 
@@ -676,7 +676,7 @@ Subsec. (g)(1). Pub. L. 85–840, §308(d), designated existing provisions there
 
 Subsec. (h). Pub. L. 85–840, §205(k), struck out provisions that related to reductions by reason of the provisions of section 424 of this title.
 
-Subsec. (<i>l</i>). Pub. L. 85–840, §308(e), substituted “(g)(1)(A) of this section” for “(g) of this section”.
+Subsec. (l). Pub. L. 85–840, §308(e), substituted “(g)(1)(A) of this section” for “(g) of this section”.
 
 <b>1956</b>—Subsec. (a). Act Aug. 1, 1956, §101(d), inserted “after any deductions under section 422(b) of this title, and after any reduction under section 424 of this title” in two places.
 
@@ -724,7 +724,7 @@ Subsec. (j). Act Sept. 1, 1954, §103(f)(6), (i)(3), substituted “seventy-two�
 
 Subsec. (k). Act Sept. 1, 1954, §103(g), added subsec. (k).
 
-Subsec. (<i>l</i>). Act Sept. 1, 1954, §103(h), added subsec. (<i>l</i>).
+Subsec. (l). Act Sept. 1, 1954, §103(h), added subsec. (l).
 
 <b>1952</b>—Subsec. (a). Act July 18, 1952, §2(b)(2), increased the maximum and minimum monthly benefits payable a family.
 
@@ -760,15 +760,15 @@ Amendment by Pub. L. 106–182 applicable with respect to taxable years ending a
 
 #### Effective Date of 1996 Amendment
 
-Section 102(c) of Pub. L. 104–121 provided that: “The amendments made by this section \[amending this section and section 423 of this title\] shall apply with respect to taxable years ending after 1995.”
+Pub. L. 104–121, title I, §102(c), Mar. 29, 1996, 110 Stat. 848, provided that: “The amendments made by this section \[amending this section and section 423 of this title\] shall apply with respect to taxable years ending after 1995.”
 
 #### Effective Date of 1994 Amendment
 
 Amendment by section 107(a)(4) of Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of this title.
 
-Section 309(e)(1) of Pub. L. 103–296 provided that: “The amendments made by subsections (a), (b), and (c) \[amending this section\] shall apply with respect to benefits payable for months after December 1995.”
+Pub. L. 103–296, title III, §309(e)(1), Aug. 15, 1994, 108 Stat. 1524, provided that: “The amendments made by subsections (a), (b), and (c) \[amending this section\] shall apply with respect to benefits payable for months after December 1995.”
 
-Section 310(c) of Pub. L. 103–296 provided that: “The amendments made by this section \[amending this section\] shall apply for the purpose of determining the total monthly benefits to which beneficiaries may be entitled under sections 202 and 223 of the Social Security Act \[sections 402 and 423 of this title\] based on the wages and self-employment income of an individual who—
+Pub. L. 103–296, title III, §310(c), Aug. 15, 1994, 108 Stat. 1525, provided that: “The amendments made by this section \[amending this section\] shall apply for the purpose of determining the total monthly benefits to which beneficiaries may be entitled under sections 202 and 223 of the Social Security Act \[sections 402 and 423 of this title\] based on the wages and self-employment income of an individual who—
 
 &emsp;“(1) becomes entitled to an old-age insurance benefit under section 202(a) of such Act,
 
@@ -778,13 +778,13 @@ Section 310(c) of Pub. L. 103–296 provided that: “The amendments made by thi
 
 > after December 1995.”
 
-Section 314(b) of Pub. L. 103–296 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to reports of earnings for taxable years ending on or after December 31, 1994.”
+Pub. L. 103–296, title III, §314(b), Aug. 15, 1994, 108 Stat. 1530, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to reports of earnings for taxable years ending on or after December 31, 1994.”
 
-Section 321(g)(3)(B) of Pub. L. 103–296 provided that: “The amendment made by paragraph (2) \[amending this section\] shall be effective with respect to the determination of the exempt amounts applicable to any taxable year ending after 1994.”
+Pub. L. 103–296, title III, §321(g)(3)(B), Aug. 15, 1994, 108 Stat. 1543, provided that: “The amendment made by paragraph (2) \[amending this section\] shall be effective with respect to the determination of the exempt amounts applicable to any taxable year ending after 1994.”
 
 #### Effective Date of 1990 Amendment
 
-Section 5117(a)(4) of Pub. L. 101–508 provided that:
+Pub. L. 101–508, title V, §5117(a)(4), Nov. 5, 1990, 104 Stat. 1388–277, provided that:
 
 “(A)
 
@@ -794,11 +794,11 @@ In general.—Except as provided in subparagraph (B), the amendments made by thi
 
 Recomputations.—The amendments made by this subsection shall apply with respect to any primary insurance amount upon the recomputation of such primary insurance amount if such recomputation is first effective for monthly benefits for months after the 18-month period following the month in which this Act is enacted.”
 
-Section 5119(e) of Pub. L. 101–508 provided that:
+Pub. L. 101–508, title V, §5119(e), Nov. 5, 1990, 104 Stat. 1388–280, provided that:
 
 “(1)
 
-In general.—The amendments made by this section \[amending this section and section 416 of this title\] shall apply with respect to benefits for months after December 1990.
+In general.—The amendments made by this section \[amending this section and section 416 of this title\]shall apply with respect to benefits for months after December 1990.
 
 “(2)
 
@@ -812,31 +812,31 @@ General rule.—Except as provided in subparagraph (B), the amendments made by t
 
 Exception from application requirement.—Subparagraph (A) shall not apply with respect to the benefits of any individual if such individual is entitled to a benefit under subsection (b), (c), (e), or (f) of section 202 of the Social Security Act \[section 402(b), (c), (e), or (f) of this title\] for December 1990 and the individual on whose wages and self-employment income such benefit for December 1990 is based is the same individual on the basis of whose wages and self-employment income application would otherwise be required under subparagraph (A).”
 
-Section 5123(b) of Pub. L. 101–508 provided that: “The amendments made by this section \[amending this section, section 411 of this title, and section 1402 of Title 26, Internal Revenue Code\] shall apply with respect to income received for services performed in taxable years beginning after December 31, 1990.”
+Pub. L. 101–508, title V, §5123(b), Nov. 5, 1990, 104 Stat. 1388–284, provided that: “The amendments made by this section \[amending this section, section 411 of this title, and section 1402 of Title 26, Internal Revenue Code\] shall apply with respect to income received for services performed in taxable years beginning after December 31, 1990.”
 
-Section 5127(c) of Pub. L. 101–508 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to benefits for months after December 1990.”
+Pub. L. 101–508, title V, §5127(c), Nov. 5, 1990, 104 Stat. 1388–286, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to benefits for months after December 1990.”
 
 #### Effective Date of 1989 Amendment
 
 Amendment by section 10208(b)(1)(A), (B) of Pub. L. 101–239 applicable with respect to computation of average total wage amounts (under amended provisions) for calendar years after 1990, see section 10208(c) of Pub. L. 101–239, set out as a note under section 430 of this title.
 
-Section 10305(f) of Pub. L. 101–239 provided that: “The amendments made by this section \[amending this section and sections 404, 423, and 1383 of this title\] shall apply with respect to determinations made on or after July 1, 1990.”
+Pub. L. 101–239, title X, §10305(f), Dec. 19, 1989, 103 Stat. 2484, provided that: “The amendments made by this section \[amending this section and sections 404, 423, and 1383 of this title\] shall apply with respect to determinations made on or after July 1, 1990.”
 
 #### Effective Date of 1988 Amendment
 
-Section 8002(c) of Pub. L. 100–647 provided that: “The amendments made by this section \[amending this section\] shall apply to deaths after the date of the enactment of this Act \[Nov. 10, 1988\].”
+Pub. L. 100–647, title VIII, §8002(c), Nov. 10, 1988, 102 Stat. 3780, provided that: “The amendments made by this section \[amending this section\] shall apply to deaths after the date of the enactment of this Act \[Nov. 10, 1988\].”
 
 #### Effective Date of 1986 Amendment
 
-Section 12108(b) of Pub. L. 99–272, as amended by Pub. L. 99–514, title XVIII, §1895(a), Oct. 22, 1986, 100 Stat. 2931, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to benefits payable for months after December 1986.”
+Pub. L. 99–272, title XII, §12108(b), Apr. 7, 1986, 100 Stat. 286, as amended by Pub. L. 99–514, title XVIII, §1895(a), Oct. 22, 1986, 100 Stat. 2931, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to benefits payable for months after December 1986.”
 
 #### Effective Date of 1984 Amendment
 
-Section 2602(b) of Pub. L. 98–369 provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective upon the date of the enactment of this Act \[July 18, 1984\].”
+Pub. L. 98–369, div. B, title VI, §2602(b), July 18, 1984, 98 Stat. 1128, provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective upon the date of the enactment of this Act \[July 18, 1984\].”
 
-Section 2661(g)(1)(B) of Pub. L. 98–369 provided that: “The amendments made by subparagraph (A) \[amending this section\] shall apply only with respect to months beginning with the second month after the month in which this Act is enacted \[July 1984\].”
+Pub. L. 98–369, div. B, title VI, §2661(g)(1)(B), July 18, 1984, 98 Stat. 1157, provided that: “The amendments made by subparagraph (A) \[amending this section\] shall apply only with respect to months beginning with the second month after the month in which this Act is enacted \[July 1984\].”
 
-Section 2661(g)(2)(B) of Pub. L. 98–369 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall be effective as though it had been enacted on April 20, 1983, as a part of section 201 of the Social Security Amendments of 1983 \[section 201 of Pub. L. 98–21\].”
+Pub. L. 98–369, div. B, title VI, §2661(g)(2)(B), July 18, 1984, 98 Stat. 1157, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall be effective as though it had been enacted on April 20, 1983, as a part of section 201 of the Social Security Amendments of 1983 \[section 201 of Pub. L. 98–21\].”
 
 Amendment by section 2662(c)(1) of Pub. L. 98–369 effective as though included in the enactment of the Social Security Amendments of 1983, Pub. L. 98–21, see section 2664(a) of Pub. L. 98–369, set out as a note under section 401 of this title.
 
@@ -846,15 +846,15 @@ Amendment by section 2663(a)(3) of Pub. L. 98–369 effective July 18, 1984, but
 
 Amendment by section 111(a)(4) of Pub. L. 98–21 applicable with respect to cost-of-living increases determined under section 415(i) of this title for years after 1982, see section 111(a)(8) of Pub. L. 98–21, set out as a note under section 402 of this title.
 
-Section 132(c)(2) of Pub. L. 98–21 provided that: “The amendments made by subsection (b) \[amending this section\] shall apply with respect to monthly insurance benefits for months after December 1984.”
+Pub. L. 98–21, title I, §132(c)(2), Apr. 20, 1983, 97 Stat. 95, provided that: “The amendments made by subsection (b) \[amending this section\] shall apply with respect to monthly insurance benefits for months after December 1984.”
 
 Amendment by sections 306(i) and 309(f)–(h) of Pub. L. 98–21 applicable only with respect to monthly payments payable under this subchapter for months after April, 1983, see section 310 of Pub. L. 98–21, set out as a note under section 402 of this title.
 
 Amendment by section 324(c)(4) of Pub. L. 98–21 applicable to remuneration paid after Dec. 31, 1983, except for certain employer contributions made during 1984 under a qualified cash or deferred arrangement, and except in the case of an agreement with certain nonqualified deferred compensation plans in existence on Mar. 24, 1983, see section 324(d) of Pub. L. 98–21, set out as a note under section 3121 of Title 26, Internal Revenue Code.
 
-Section 331(c) of Pub. L. 98–21 provided that: “The amendments made by subsection (a) \[amending this section\] shall be effective with respect to payments made for months after December 1983.”
+Pub. L. 98–21, title III, §331(c), Apr. 20, 1983, 97 Stat. 129, provided that: “The amendments made by subsection (a) \[amending this section\] shall be effective with respect to payments made for months after December 1983.”
 
-Section 347(b) of Pub. L. 98–21 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply only with respect to taxable years beginning after December 1989, and only in the case of individuals who have attained retirement age (as defined in section 216(<i>l</i>) of the Social Security Act \[42 U.S.C. 416(<i>l</i>)\].”
+Pub. L. 98–21, title III, §347(b), Apr. 20, 1983, 97 Stat. 138, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply only with respect to taxable years beginning after December 1989, and only in the case of individuals who have attained retirement age (as defined in section 216(l) of the Social Security Act \[42 U.S.C. 416(l)\].”
 
 #### Effective Date of 1981 Amendments
 
@@ -864,39 +864,39 @@ Amendment by section 2206(b)(2)–(4) of Pub. L. 97–35 applicable only with re
 
 #### Effective Date of 1980 Amendments
 
-Section 1(b) of Pub. L. 96–473 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to monthly benefits payable for months after December 1977.”
+Pub. L. 96–473, §1(b), Oct. 19, 1980, 94 Stat. 2263, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to monthly benefits payable for months after December 1977.”
 
-Section 3(b) of Pub. L. 96–473 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to taxable years ending after December 31, 1977, but only with respect to benefits payable for months after December 1977.”
+Pub. L. 96–473, §3(b), Oct. 19, 1980, 94 Stat. 2264, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to taxable years ending after December 31, 1977, but only with respect to benefits payable for months after December 1977.”
 
-Section 4(b) of Pub. L. 96–473 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to monthly benefits payable for months after December 1977.”
+Pub. L. 96–473, §4(b), Oct. 19, 1980, 94 Stat. 2264, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to monthly benefits payable for months after December 1977.”
 
-Section 101(c) of Pub. L. 96–265 provided that: “The amendments made by this section \[amending this section and section 415 of this title\] shall apply only with respect to monthly benefits payable on the basis of the wages and self-employment income of an individual who first becomes eligible for benefits (determined under sections 215(a)(3)(B) and 215(a)(2)(A) of the Social Security Act \[section 415(a)(3)(B) and (2)(A) of this title\], as applied for this purpose) after 1978, and who first becomes entitled to disability insurance benefits after June 30, 1980.”
+Pub. L. 96–265, title I, §101(c), June 9, 1980, 94 Stat. 443, provided that: “The amendments made by this section \[amending this section and section 415 of this title\] shall apply only with respect to monthly benefits payable on the basis of the wages and self-employment income of an individual who first becomes eligible for benefits (determined under sections 215(a)(3)(B) and 215(a)(2)(A) of the Social Security Act \[section 415(a)(3)(B) and (2)(A) of this title\], as applied for this purpose) after 1978, and who first becomes entitled to disability insurance benefits after June 30, 1980.”
 
 #### Effective Date of 1977 Amendment
 
 Amendment by section 202 of Pub. L. 95–216 effective with respect to monthly benefits under this subchapter payable for months after Dec. 1978 and with respect to lump-sum death payments with respect to deaths occurring after such month, and amendment by section 204(e) of Pub. L. 95–216 effective with respect to monthly benefits for months after May 1978, see section 206 of Pub. L. 95–216, set out as a note under section 402 of this title.
 
-Section 301(e) of Pub. L. 95–216 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to taxable years ending after December 1977.”
+Pub. L. 95–216, title III, §301(e), Dec. 20, 1977, 91 Stat. 1531, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to taxable years ending after December 1977.”
 
-Section 302(e) of Pub. L. 95–216 provided that: “The amendments made by this section \[amending this section\] shall apply only with respect to taxable years ending after December 31, 1981.”
+Pub. L. 95–216, title III, §302(e), Dec. 20, 1977, 91 Stat. 1531, provided that: “The amendments made by this section \[amending this section\] shall apply only with respect to taxable years ending after December 31, 1981.”
 
-Section 303(b) of Pub. L. 95–216 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply only with respect to monthly benefits payable for months after December 1977.”
+Pub. L. 95–216, title III, §303(b), Dec. 20, 1977, 91 Stat. 1531, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply only with respect to monthly benefits payable for months after December 1977.”
 
 Amendment by section 353(a) of Pub. L. 95–216 effective Jan. 1, 1979, see section 353(g) of Pub. L. 95–216, set out as a note under section 418 of this title.
 
 #### Effective Date of 1973 Amendment
 
-Section 202(d) of Pub. L. 93–66 provided that: “The amendments made by this section \[amending this section\] shall be effective with respect to taxable years beginning after December 31, 1973.”
+Pub. L. 93–66, title II, §202(d), July 9, 1973, 87 Stat. 153, provided that: “The amendments made by this section \[amending this section\] shall be effective with respect to taxable years beginning after December 31, 1973.”
 
 #### Effective Date of 1972 Amendments
 
 Amendment by section 101(b) of Pub. L. 92–603 applicable with respect to monthly insurance benefits under this subchapter for months after December 1972 and with respect to lump-sum death payments under this subchapter in the case of deaths occurring after such month, see section 101(g) of Pub. L. 92–603, set out as a note under section 415 of this title.
 
-Section 202(a)(2)(A), (B) of Pub. L. 92–336 provided that the amendments made by that section are effective Jan. 1, 1974.
+Pub. L. 92–336, title II, §202(a)(2)(A), (B), July 1, 1972, 86 Stat. 415, provided that the amendments made by that section are effective Jan. 1, 1974.
 
 Amendment by section 201(b) of Pub. L. 92–336 applicable with respect to monthly benefits under subchapter II of this chapter for months after August 1972 and with respect to lump-sum death payments under such subchapter in the case of deaths occurring after such month, see section 201(i) of Pub. L. 92–336, set out as a note under section 415 of this title.
 
-Section 144(b) of Pub. L. 92–603 provided that: “The amendments made by each of the paragraphs in subsection (a) \[amending this section and sections 415 and 430 of this title\] shall be effective in like manner as if such amendment had been included in title II of Public Law 92–336 in the particular provision of such title referred to in such paragraph.”
+Pub. L. 92–603, title I, §144(b), Oct. 30, 1972, 86 Stat. 1370, provided that: “The amendments made by each of the paragraphs in subsection (a) \[amending this section and sections 415 and 430 of this title\] shall be effective in like manner as if such amendment had been included in title II of Public Law 92–336 in the particular provision of such title referred to in such paragraph.”
 
 Amendment by section 201(h)(1) of Pub. L. 92–336 applicable with respect to monthly benefits under subchapter II of this chapter for months after December 1971, see section 201(i) of Pub. L. 92–336, set out as a note under section 415 of this title.
 
@@ -904,9 +904,9 @@ Amendment by section 102(c) of Pub. L. 92–603 applicable with respect to month
 
 Amendment by section 107(b)(1), (2) of Pub. L. 92–603 applicable with respect to monthly benefits under this subchapter for months after December 1972, with specified exceptions, see section 107(c) of Pub. L. 92–603, set out as a note under section 402 of this title.
 
-Section 105(c) of Pub. L. 92–603 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to taxable years ending after December 1972.”
+Pub. L. 92–603, title I, §105(c), Oct. 30, 1972, 86 Stat. 1342, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to taxable years ending after December 1972.”
 
-Section 106(b) of Pub. L. 92–603 provided that: “The amendment made by subsection (a) \[amending this section to provide for the exclusion of certain earnings inyear of attaining age 72\] shall apply with respect to taxable years ending after December 1972.”
+Pub. L. 92–603, title I, §106(b), Oct. 30, 1972, 86 Stat. 1343, provided that: “The amendment made by subsection (a) \[amending this section to provide for the exclusion of certain earnings in year of attaining age 72\] shall apply with respect to taxable years ending after December 1972.”
 
 #### Effective Date of 1971 Amendment
 
@@ -922,67 +922,67 @@ Amendment by section 101(b) of Pub. L. 90–248 applicable with respect to month
 
 Amendment by section 104(d)(1) of Pub. L. 90–248 applicable with respect to monthly benefits under this subchapter for and after the month of February 1968, but only on the basis of applications for such benefits filed in or after January 1968, see section 104(e) of Pub. L. 90–248, set out as a note under section 402 of this title.
 
-Section 107(b) of Pub. L. 90–248 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to taxable years ending after December 1967.”
+Pub. L. 90–248, title I, §107(b), Jan. 2, 1968, 81 Stat. 834, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to taxable years ending after December 1967.”
 
-Section 163(a)(2) of Pub. L. 90–248 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply only with respect to monthly benefits payable under title II of the Social Security Act \[this subchapter\] with respect to individuals who become entitled to benefits under section 202(d) of such Act \[section 402(d) of this title\] solely by reason of section 216(h)(3) of such Act \[section 416(h)(3) of this title\] in or after January 1968 (but without regard to section 202(j)(1) of such Act \[section 402(j)(1) of this title\]). The provisions of section 170 of this Act \[set out as Savings Provisions note below\] shall not apply with respect to any such individual.”
+Pub. L. 90–248, title I, §163(a)(2), Jan. 2, 1968, 81 Stat. 872, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply only with respect to monthly benefits payable under title II of the Social Security Act \[this subchapter\] with respect to individuals who become entitled to benefits under section 202(d) of such Act \[section 402(d) of this title\] solely by reason of section 216(h)(3) of such Act \[section 416(h)(3) of this title\] in or after January 1968 (but without regard to section 202(j)(1) of such Act \[section 402(j)(1) of this title\]). The provisions of section 170 of this Act \[set out as Savings Provisions note below\] shall not apply with respect to any such individual.”
 
 #### Effective Date of 1965 Amendment
 
 Amendment by section 301(c) of Pub. L. 89–97 applicable with respect to monthly benefits under this subchapter for months after December 1964 and with respect to lump-sum death benefits payments under this subchapter in the case of deaths occurring in or after July 1965, see section 301(d) of Pub. L. 89–97, set out as a note under section 415 of this title.
 
-Amendment by section 308(d)(6)–(8) of Pub. L. 89–97 applicable with respect to monthly insurance benefits under this subchapter beginning with the second month following July 1965, but, in the case of an individual who was not entitled to a monthly insurance benefit under section 402 of this title for the first month following July 1965, only on the basis of an application filed in or after July 1965, see section 308(e) of Pub. L. 89–97, set out as a note under section 402 of this title.
+Amendment by section 308(d)(6)–(8) of Pub. L. 89–97 applicable with respect to monthly insurance benefits under this subchapter beginning with the second month following July 1965, but, in the case of an individual who was not entitled to a monthly insurance benefitunder section 402 of this title for the first month following July 1965, only on the basis of an application filed in or after July 1965, see section 308(e) of Pub. L. 89–97, set out as a note under section 402 of this title.
 
-Section 310(b) of Pub. L. 89–97 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to taxable years ending after December 31, 1965.”
+Pub. L. 89–97, title III, §310(b), July 30, 1965, 79 Stat. 380, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to taxable years ending after December 31, 1965.”
 
-Section 325(b) of Pub. L. 89–97 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to the computation of net earnings from self-employment and the net loss from self-employment for taxable years beginning after 1964.”
+Pub. L. 89–97, title III, §325(b), July 30, 1965, 79 Stat. 399, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to the computation of net earnings from self-employment and the net loss from self-employment for taxable years beginning after 1964.”
 
 #### Effective Date of 1961 Amendment
 
-Section 108(b) of Pub. L. 87–64 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply in the case of taxable years ending after the enactment of this Act \[June 30, 1961\].”
+Pub. L. 87–64, title I, §108(b), July 30, 1961, 75 Stat. 140, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply in the case of taxable years ending after the enactment of this Act \[June 30, 1961\].”
 
 #### Effective Date of 1960 Amendment
 
 Amendment by section 103(b) of Pub. L. 86–778 applicable only with respect to service performed after 1960, except that insofar as the carrying on of a trade or business (other than performance of service as an employee) is concerned, the amendment shall be applicable only in the case of taxable years beginning after 1960, see section 103(v)(1) of Pub. L. 86–778, set out as a note under section 402 of this title.
 
-Section 211(p)–(s) of Pub. L. 86–778 provided that:
+Pub. L. 86–778, title II, §211(p)–(s), Sept. 13, 1960, 74 Stat. 958, provided that:
 
 “(p) Section 203(c), (d), (e), (g), and (i) of the Social Security Act \[subsecs. (c), (d), (e), (g), and (i) of this section\] as amended by this Act shall be effective with respect to monthly benefits for months after December 1960.
 
 “(q) Section 203(b), (f), and (h) of the Social Security Act \[subsecs. (b), (f), and (h) of this section\] as amended by this Act shall be effective with respect to taxable years beginning after December 1960.
 
-“(r) Section 203(<i>l</i>) of the Social Security Act \[subsec. (<i>l</i>) of this section\] as amended by this Act, to the extent that it applies to section 203(g) of the Social Security Act as amended by this Act, shall be effective with respect to monthly benefits for months after December 1960 and, to the extent that it applies to section 203(h)(1)(A) of the Social Security Act as amended by this Act, shall be effective with respect to taxable years beginning after December 1960.
+“(r) Section 203(l) of the Social Security Act \[subsec. (l) of this section\] as amended by this Act, to the extent that it applies to section 203(g) of the Social Security Act as amended by this Act, shall be effective with respect to monthly benefits for months after December 1960 and, to the extent that it applies to section 203(h)(1)(A) of the Social Security Act as amended by this Act, shall be effective with respect to taxable years beginning after December 1960.
 
-“(s) The amendments made by subsections (i), (j), (k), (<i>l</i>), (m), (n), and (<i>o</i>) \[amending sections 402, 408, and 415 of this title and sections 228c and 228e of Title 45, Railroads\], to the extent that they make changes in references to provisions of section 203 of the Social Security Act \[this section\], shall take effect in the manner provided in subsections (p) and (q) of this section for the provisions of such section 203 to which the respective references so changed relate.”
+“(s) The amendments made by subsections (i), (j), (k), (l), (m), (n), and (o) \[amending sections 402, 408, and 415 of this title and sections 228c and 228e of Title 45, Railroads\], to the extent that they make changes in references to provisions of section 203 of the Social Security Act \[this section\], shall take effect in the manner provided in subsections (p) and (q) of this section for the provisions of such section 203 to which the respective references so changed relate.”
 
-Section 302(b) of Pub. L. 86–778 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply only in the case of monthly benefits under section 202 or section 223 of the Social Security Act \[section 402 or section 423 of this title\] for months after the month following the month in which this Act is enacted \[September 1960\], and then only (1) if the insured individual on the basis of whose wages and self-employment income such monthly benefits are payable became entitled (without the application of section 202(j)(1) or section 223(b) of such Act) to benefits under section 202(a) or section 223 of such Act after the month following the month in which this Act is enacted, or (2) if such insured individual died before becoming so entitled and no person was entitled (without the application of section 202(j)(1) or section 223(b) of such Act) on the basis of such wages and self-employment income to monthly benefits under title II of the Social Security Act \[this subchapter\] for the month following the month in which this Act is enacted \[September 1960\] or any prior month.”
+Pub. L. 86–778, title III, §302(b), Sept. 13, 1960, 74 Stat. 960, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply only in the case of monthly benefits under section 202 or section 223 of the Social Security Act \[section 402 or section 423 of this title\] for months after the month following the month in which this Act is enacted \[September 1960\], and then only (1) if the insured individual on the basis of whose wages and self-employment income such monthly benefits are payable became entitled (without the application of section 202(j)(1) or section 223(b) of such Act) to benefits under section 202(a) or section 223 of such Act after the month following the month in which this Act is enacted, or (2) if such insured individual died before becoming so entitled and no person was entitled (without the application of section 202(j)(1) or section 223(b) of such Act) on the basis of such wages and self-employment income to monthly benefits under title II of the Social Security Act \[this subchapter\] for the month following the month in which this Act is enacted \[September 1960\] or any prior month.”
 
 #### Effective Date of 1958 Amendment
 
 Amendment by section 101(f) of Pub. L. 85–840 applicable in the case of monthly benefits under subchapter II of this chapter for months after December 1958, and in the case of lump-sum death payments under subchapter II of this chapter, with respect to deaths occurring after such month, see section 101(g) of Pub. L. 85–840, set out as a note under section 415 of this title.
 
-Amendment by section 205(j) of Pub. L. 85–840 applicable with respect to monthly benefits under this subchapter for months after August 1958, but only if an application for such benefits is filed on or after Aug. 28, 1958, and amendment by section 205(k) of Pub. L. 85–840 applicable with respect to monthly benefits under thissubchapter for August 1958 and succeeding months, see section 207(a) of Pub. L. 85–840, set out as a note under section 416 of this title.
+Amendment by section 205(j) of Pub. L. 85–840 applicable with respect to monthly benefits under this subchapter for months after August 1958, but only if an application for such benefits is filed on or after Aug. 28, 1958, and amendment by section 205(k) of Pub. L. 85–840 applicable with respect to monthly benefits under this subchapter for August 1958 and succeeding months, see section 207(a) of Pub. L. 85–840, set out as a note under section 416 of this title.
 
-Section 307(h)(2) of Pub. L. 85–840 provided that: “The amendments made by subsection (f) \[amending this section\] shall apply with respect to monthly benefits under subsection (d) or (g) of section 202 of the Social Security Act \[section 402 of this title\] for months in any taxable year, of the individual to whom the person entitled to such benefits is married, beginning after the month in which this Act is enacted \[August 1958\].”
+Pub. L. 85–840, title III, §307(h)(2), Aug. 28, 1958, 72 Stat. 1033, provided that: “The amendments made by subsection (f) \[amending this section\] shall apply with respect to monthly benefits under subsection (d) or (g) of section 202 of the Social Security Act \[section 402 of this title\] for months in any taxable year, of the individual to whom the person entitled to such benefits is married, beginning after the month in which this Act is enacted \[August 1958\].”
 
-Section 308(f) of Pub. L. 85–840 provided that: “The amendments made by this section \[amending this section\] shall be applicable with respect to taxable years beginning after the month in which this Act is enacted \[August 1958\].”
+Pub. L. 85–840, title III, §308(f), Aug. 28, 1958, 72 Stat. 1034, provided that: “The amendments made by this section \[amending this section\] shall be applicable with respect to taxable years beginning after the month in which this Act is enacted \[August 1958\].”
 
 #### Effective Date of 1956 Amendment
 
 Amendment by section 101(d)–(g) of act Aug. 1, 1956, applicable with respect to monthly benefits under section 402 of this title for months after December 1956, but only on the basis of an application filed after September 1956, see section 101(h) of act Aug. 1, 1956, set out as a note under section 402 of this title.
 
-Section 107(a) of act Aug. 1, 1956, provided that the amendment made by that section is applicable in the case of monthly benefits under this subchapter for months in any taxable year (of the individual entitled to such benefits) beginning after 1954.
+Act Aug. 1, 1956, ch. 836, title I, §107(a), 70 Stat. 829, provided that the amendment made by that section is applicable in the case of monthly benefits under this subchapter for months in any taxable year (of the individual entitled to such benefits) beginning after 1954.
 
-Section 112(c) of act Aug. 1, 1956, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall be applicable with respect to taxable years ending after 1955.”
+Act Aug. 1, 1956,ch. 836, title I, §112(c), 70 Stat. 831, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall be applicable with respect to taxable years ending after 1955.”
 
 #### Effective Date of 1954 Amendment
 
-Section 103(i)(3) of act Sept. 1, 1954, provided that: “Subsections (b)(1), (b)(2), (c), (e), and (j) of section 203 of the Social Security Act \[this section\] as in effect prior to the enactment of this Act, to the extent they are in effect with respect to months after 1954, are each amended by striking out ‘seventy-five’ and inserting in lieu thereof ‘seventy-two’, but only with respect to such months after 1954.”
+Act Sept. 1, 1954, ch. 1206, title I, §103(i)(3), 68 Stat. 1078, provided that: “Subsections (b)(1), (b)(2), (c), (e), and (j) of section 203 of the Social Security Act \[this section\] as in effect prior to the enactment of this Act, to the extent they are in effect with respect to months after 1954, are each amended by striking out ‘seventy-five’ and inserting in lieu thereof ‘seventy-two’, but only with respect to such months after 1954.”
 
 Amendment by section 102(e)(7) of act Sept. 1, 1954, applicable in the case of lump-sum death payments under section 402 of this title with respect to deaths occurring, and in the case of monthly benefits under such section for months after, August 1954, see section 102(f) of act Sept. 1, 1954, as amended, set out as a note under section 415 of this title.
 
-Section 103(i)(1), (2) of act Sept. 1, 1954, provided that:
+Act Sept. 1, 1954, ch. 1206, title I, §103(i)(1), (2), 68 Stat. 1077, provided that:
 
-“(1) The amendments made by subsection (f) and by paragraph (1) of subsection (a) of this section \[amending this section\] shall be applicable in the case of monthly benefits under title II of the Social Security Act \[this subchapter\] for months in any taxable year (of the individual entitled to such benefits) beginning after December 1954. The amendments made by paragraph (1) of subsection (b) of this section \[amending this section\] shall be applicable in the case of monthly benefits under such title II for months in any taxable year (of the individual on the basis of whose wages and self-employment income such benefits are payable) beginning after December 1954. The amendments made by subsections (e) and (g), and by paragraph (2) of subsection (a) and paragraph (2) of subsection (b) \[amending this section\] shall be applicable in the case of monthly benefits under such title II for months after December 1954. The remaining amendments made by this section (other than subsection (h)) \[amending this section\] shall be applicable, insofar as they are related to the monthly benefits of an individual which are based on his wages and self-employment income, in the case of monthly benefits under such title II for months in any taxable year (of such individual) beginning after December 1954 and, insofar as they are related to the monthly benefits of an individual which are based on the wages and self-employment income of someone else, in the case of monthly benefits under such title II for months in any taxable year (of the individual on whose wages and self-employment income such benefits are based) beginning after December 1954.
+“(1) The amendments made by subsection (f) and by paragraph (1) of subsection (a) of this section \[amending this section\] shall be applicable in the case of monthly benefits under title II of the Social Security Act \[this subchapter\] for months in any taxable year (of the individual entitled to such benefits) beginning after December 1954. The amendments made by paragraph (1) of subsection (b) of this section \[amendingthis section\] shall be applicable in the case of monthly benefits under such title II for months in any taxable year (of the individual on the basis of whose wages and self-employment income such benefits are payable) beginning after December 1954. The amendments made by subsections (e) and (g), and by paragraph (2) of subsection (a) and paragraph (2) of subsection (b) \[amending this section\] shall be applicable in the case of monthly benefits under such title II for months after December 1954. The remaining amendments made by this section (other than subsection (h)) \[amending this section\] shall be applicable, insofar as they are related to the monthly benefits of an individual which are based on his wages and self-employment income, in the case of monthly benefits under such title II for months in any taxable year (of such individual) beginning after December 1954 and, insofar as they are related to the monthly benefits of an individual which are based on the wages and self-employment income of someone else, in the case of monthly benefits under such title II for months in any taxable year (of the individual on whose wages and self-employment income such benefits are based) beginning after December 1954.
 
 “(2) No deduction shall be imposed on or after the date of the enactment of this Act \[Sept. 1, 1954\] under subsection (f) or (g) of section 203 of the Social Security Act \[subsec. (f) or (g) of this section\], as in effect prior to such date, on account of failure to file a report of an event described in subsection (b)(1), (b)(2), or (c)(1) of such section (as in effect prior to such date); and no such deduction imposed prior to such date shall be collected after such date. In determining whether, under section 203(g)(2) of the Social Security Act, as amended by this Act, a failure to file a report is a first or subsequent failure, any failure with respect to a taxable year which began prior to January 1955 shall be disregarded.”
 
@@ -990,25 +990,25 @@ Section 103(i)(1), (2) of act Sept. 1, 1954, provided that:
 
 For effective date of amendment by section 2(b)(2) of act July 18, 1952, see section 2(c)(2) of act July 18, 1952, set out as a note under section 415 of this title.
 
-Section 4(e) of act July 18, 1952, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply in the case of monthly benefits under title II of the Social Security Act \[this subchapter\] for months after August 1952. The amendments made by subsection (b) \[amending this section\] shall apply in the case of monthly benefits under such title II for months in any taxable year (of the individual entitled to such benefits) ending after August 1952. The amendments made by subsection (c) \[amending this section\] shall apply in the case of monthly benefits under such title II for months in any taxable year (of the individual on the basis of whose wages and self-employment income such benefits are payable) ending after August 1952. The amendments made by subsection (d) \[amending this section\] shall apply in the case of taxable years ending after August 1952. As used in this subsection, the term “taxable year” shall have the meaning assigned to it by section 211(e) of the Social Security Act \[section 411(e) of this title\].”
+Act July 18, 1952, ch. 945, §4(e), 66 Stat. 773, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply in the case of monthly benefits under title II of the Social Security Act \[this subchapter\] for months after August 1952. The amendments made by subsection (b) \[amending this section\] shall apply in the case of monthly benefits under such title II for months in any taxable year (of the individual entitled to such benefits) ending after August 1952. The amendments made by subsection (c) \[amending this section\] shall apply in the case of monthly benefits under such title II for months in any taxable year (of the individual on the basis of whose wages and self-employment income such benefits are payable) ending after August 1952. The amendments made by subsection (d) \[amending this section\] shall apply in the case of taxable years ending after August 1952. As used in this subsection, the term “taxable year” shall have the meaning assigned to it by section 211(e) of the Social Security Act \[section 411(e) of this title\].”
 
 #### Effective Date of 1950 Amendment
 
-Section 102(b) of act Aug. 28, 1950, provided that: “The amendment made by subsection (a) of this section \[amending this section\] shall be applicable with respect to benefits for months after August 1950.”
+Act Aug. 28, 1950, ch. 809, title I, §102(b), 64 Stat. 489, provided that: “The amendment made by subsection (a) of this section \[amending this section\] shall be applicable with respect to benefits for months after August 1950.”
 
-Section 103(b) of act Aug. 28, 1950, provided that: “The amendments made by this section \[amending this section\] shall take effect September 1, 1950, except that the provisions of subsections (d), (e), and (f) of section 203 of the Social Security Act \[this section\] as in effect prior to the enactment of this Act \[Aug. 28, 1950\] shall be applicable for months prior to September 1950.”
+Act Aug. 28, 1950, ch. 809, title I, §103(b), 64 Stat. 492, provided that: “The amendments made by this section \[amending this section\] shall take effect September 1, 1950, except that the provisions of subsections (d), (e), and (f) of section 203 of the Social Security Act \[this section\] as in effect prior to the enactment of this Act \[Aug. 28, 1950\] shall be applicable for months prior to September 1950.”
 
 #### Effective Date of 1939 Amendment
 
-Section 201 of act Aug. 10, 1939, provided that the amendment made by that section is effective Jan. 1, 1940.
+Act Aug. 10, 1939, ch. 666, title II, §201, 53 Stat. 1362, provided that the amendment made by that section is effective Jan. 1, 1940.
 
 #### Savings Provision
 
-Section 201(h)(2) of Pub. L. 92–336 provided that: “In any case in which the provisions of section 1002(b)(2) of the Social Security Amendments of 1969 \[set out as a note under this section\] were applicable with respect to benefits for any month in 1970, the total of monthly benefits as determined under section 203(a) of the Social Security Act \[subsec. (a) of this section\] shall, for months after 1970, be increased to the amount that would be required in order to assure that the total of such monthly benefits (after the application of section 202(q) of such Act \[section 402(q) of this title\]) will not be less than the total of monthly benefits that was applicable (after the application of such sections 203(a) and 202(q)) for the first month for which the provisions of such section 1002(b)(2) applied.”
+Pub. L. 92–336, title II, §201(h)(2), July 1, 1972, 86 Stat. 412, provided that: “In any case in which the provisions of section 1002(b)(2) of the Social Security Amendments of 1969 \[set out as a note under this section\] were applicable with respect to benefits for any month in 1970, the total of monthly benefits as determined under section 203(a) of the Social Security Act \[subsec. (a) of this section\] shall, for months after 1970, be increased to the amount that would be required in order to assure that the total of such monthly benefits (after the application of section 202(q) of such Act \[section 402(q) of this title\]) will not be less than the total of monthly benefits that was applicable (after the application of such sections 203(a) and 202(q)) for the first month for which the provisions of such section 1002(b)(2) applied.”
 
-Section 1002(b)(2) of Pub. L. 91–172 provided that: “Notwithstanding any other provisions of law, whentwo or more persons are entitled to monthly insurance benefits under title II of the Social Security Act \[this subchapter\] for any month after 1969 on the basis of the wages and self-employment income of an insured individual (and at least one of such persons was so entitled for a month before January 1971 on the basis of an application filed before 1971), the total of the benefits to which such persons are entitled under such title of such month (after the application of sections 203(a) and 202(q) of such Act \[subsec. (a) of this section and section 402(q) of this title\]) shall be not less than the total of the monthly insurance benefits to which such persons would be entitled under such title for such month (after the application of such sections 203(a) and 202(q)) without regard to the amendment made by subsection (a) of this section \[amending section 415 of this title\].”
+Pub. L. 91–172, title X, §1002(b)(2), Dec. 30, 1969, 83 Stat. 740, provided that: “Notwithstanding any other provisions of law, when two or more persons are entitled to monthly insurance benefits under title II of the Social Security Act \[this subchapter\] for any month after 1969 on the basis of the wages and self-employment income of an insured individual (and at least one of such persons was so entitled for a month before January 1971 on the basis of an application filed before 1971), the total of the benefits to which such persons are entitled under such title of such month (after the application of sections 203(a) and 202(q) of such Act \[subsec. (a) of this section and section 402(q) of this title\]) shall be not less than the total of the monthly insurance benefits to which such persons would be entitled under such title for such month (after the application of such sections 203(a) and 202(q)) without regard to the amendment made by subsection (a) of this section \[amending section 415 of this title\].”
 
-Section 170 of Pub. L. 90–248 provided that: “Where—
+Pub. L. 90–248, title I, §170, Jan. 2, 1968, 81 Stat. 875, provided that: “Where—
 
 &emsp;“(1) one or more persons were entitled (without the application of section 202(j)(1) of the Social Security Act \[section 402(j)(1) of this title\]) to monthly benefits under section 202 or 223 of such Act \[section 402 or 423 of this title\] for January 1968 on the basis of the wages and self-employment income of an individual, and
 
@@ -1018,11 +1018,11 @@ Section 170 of Pub. L. 90–248 provided that: “Where—
 
 > then the amount of the benefit to which each such person referred to in paragraph (1) is entitled for months after January 1968 shall be increased, after the application of such section 203(a) \[subsec. (a) of this section\], to the amount it would have been if the person or persons referred to in paragraph (2) were not entitled to a benefit referred to in such paragraph.”
 
-Section 102(h) of act Sept. 1, 1954, provided that:
+Act Sept. 1, 1954, ch. 1206, title I, §102(h), 68 Stat. 1072, provided that:
 
 “(1) Where—
 
-&emsp;“(A) an individual was entitled (without the application of section 202(j)(1) of the Social Security Act \[section 402(j)(1) of this title\]) to an old-age insurance benefit under title II of such Act \[this subchapter\] for August 1954;
+&emsp;“(A) an individual was entitled (without the application of section 202(j)(1) of the Social Security Act\[section 402(j)(1) of this title\]) to an old-age insurance benefit under title II of such Act \[this subchapter\] for August 1954;
 
 &emsp;“(B) one or more other persons were entitled (without the application of such section 202(j)(1) \[section 402(j)(1) of this title\]) to monthly benefits under such title for such month on the basis of the wages and self-employment income of such individual; and
 
@@ -1050,7 +1050,7 @@ Section 102(h) of act Sept. 1, 1954, provided that:
 
 #### Temporary Extension of Earnings Limitations To Include All Persons Aged Less Than Seventy-two
 
-Section 2204 of Pub. L. 97–35 provided that:
+Pub. L. 97–35, title XXII, §2204, Aug. 13, 1981, 95 Stat. 837, provided that:
 
 “(a) Notwithstanding subsection (e) of section 302 of the Social Security Amendments of 1977 (91 Stat. 1531; Public Law 95–216) \[set out as an Effective Date of 1977 Amendment note above\], the amendments made to section 203 of the Social Security Act \[this section\] by subsections (a) through (d) of such section 302 shall, except as provided in subsection (b) of this section, apply only with respect to monthly insurance benefits payable under title II of the Social Security Act \[this subchapter\] for months after December 1982.
 
@@ -1058,7 +1058,7 @@ Section 2204 of Pub. L. 97–35 provided that:
 
 #### Increased Exempt Amounts for Individuals Described in Subsec. (f)(8)(D); Notification in 1977 to 1981; Individuals Other Than Those Described in Subsec. (f)(8)(D)
 
-Section 301(c)(2) of Pub. L. 95–216 provided that: “No notification with respect to an increased exempt amount for individuals described in section 203(f)(8)(D) of the Social Security Act \[subsec. (f)(8)(D) of this section\] (as added by paragraph (1) of this subsection) shall be required under the last sentence of section 203(f)(8)(B) of such Act in 1977, 1978, 1979, 1980, or 1981; and section 203(f)(8)(C) of such Act shall not prevent the new exempt amount determined and published under section 203(f)(8)(A) in 1977 from becoming effective to the extent that such new exempt amount applies to individuals other than those described in section 203(f)(8)(D) of such Act (as so added).”
+Pub. L. 95–216, title III, §301(c)(2), Dec. 20, 1997, 91 Stat. 1530, provided that: “No notification with respect to an increased exempt amount for individuals described in section 203(f)(8)(D) of the Social Security Act \[subsec. (f)(8)(D) of this section\] (as added by paragraph (1) of this subsection) shall be required under the last sentence of section 203(f)(8)(B) of such Act in 1977, 1978, 1979, 1980, or 1981; and section 203(f)(8)(C) of such Act shall not prevent the new exempt amount determined and published under section 203(f)(8)(A) in 1977 from becoming effective to the extent that such new exempt amount applies to individuals other than those described in section 203(f)(8)(D) of such Act (as so added).”
 
 #### Retirement Test Exempt Amount for 1976
 
@@ -1070,27 +1070,27 @@ For purposes of subsec. (f)(8) of this section, the increase in benefits provide
 
 #### Penalties for Failure To File Timely Reports of Earnings and Other Events
 
-Section 161(c) of Pub. L. 90–248 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to any deductions imposed on or after the date of the enactment of this Act \[Jan. 2, 1968\] under subsections (g) and (h) of section 203 of the Social Security Act \[this section\] on account of failure to make a report required thereby.”
+Pub. L. 90–248, title I, §161(c), Jan. 2, 1968, 81 Stat. 871, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to any deductions imposed on or after the date of the enactment of this Act \[Jan. 2, 1968\] under subsections (g) and (h) of section 203 of the Social Security Act \[this section\] on account of failure to make a report required thereby.”
 
 #### Computation of Benefits for Certain Children
 
-Section 163(b) of Pub. L. 90–248 provided that: “Where—
+Pub. L. 90–248, title I, §163(b), Jan. 2, 1968, 81 Stat. 872, provided that: “Where—
 
 &emsp;“(1) one or more persons were entitled (without the application of section 202(j)(1) of the Social Security Act \[section 402(j)(1) of this title\]) to monthly benefits under section 202 or 223 of such Act \[section 402 or 423 of this title\] for January 1968 on the basis of the wages and self-employment income of an individual, and
 
 &emsp;“(2) one or more persons became entitled to monthly benefits before January 1968 under section 202(d) of such Act \[section 402(d) of this title\] by reason of section 216(h)(3) of such Act \[section 416(h)(3) of this section\] (but without regard to section 202(j)(1)), on the basis of such wages and self-employment income and are so entitled for January 1968, and
 
-&emsp;“(3) the total of benefits to which all persons are entitled under such section 202 or 223 of such Act \[section 402 or 423 of this title\] on the basis of such wages and self-employment for January 1968 are reduced by reason of section 203(a) of such Act \[subsec. (a) of this section\], as amended by this Act (or would, but for the penultimate sentence of such section 203(a), be so reduced),
+&emsp;“(3) the total of benefits to which all persons are entitled under such section 202 or 223 of such Act \[section 402 or 423 of this title\] on the basis of such wages and self-employment for January 1968 are reduced by reason of section 203(a) of such Act \[subsec. (a) of thissection\], as amended by this Act (or would, but for the penultimate sentence of such section 203(a), be so reduced),
 
 > then the amount of the benefit to which each such person referred to in paragraph (1) above (but not including persons referred to in paragraph (2) above) is entitled for months after January 1968 shall be increased, after the application of such section 203(a), to the amount it would have been if the person or persons referred to in paragraph (2) were not entitled to a benefit referred to in such paragraph (2).”
 
 #### Prohibition on Imposition of Deduction for Failure To File Certain Reports of Events
 
-Section 209(b) of Pub. L. 86–778 provided that: “No deduction shall be imposed on or after the date of the enactment of this Act \[Sept. 13, 1960\] under section 203(f) of the Social Security Act \[subsec. (f) of this section\], as in effect prior to such date, on account of failure to file a report of an event described in section 203(c) of such Act, as in effect prior to such date; and no such deduction imposed prior to such date shall be collected after such date.”
+Pub. L. 86–778, title II, §209(b), Sept. 13, 1960, 74 Stat. 953, provided that: “No deduction shall be imposed on or after the date of the enactment of this Act \[Sept. 13, 1960\] under section 203(f) of the Social Security Act \[subsec. (f) of this section\], as in effect prior to such date, on account of failure to file a report of an event described in section 203(c) of such Act, as in effect prior to such date; and no such deduction imposed prior to such date shall be collected after such date.”
 
 #### Prohibition on Payment of Benefits to Certain Spouses or Children
 
-Section 211(t) of Pub. L. 86–778 provided that: “In any case where—
+Pub. L. 86–778, title II, §211(t), Sept. 13, 1960, 74 Stat. 958, provided that: “In any case where—
 
 &emsp;“(1) an individual has earnings (as defined in section 203(e)(4) of the Social Security Act \[subsec. (e)(4) of this section\] as in effect prior to the enactment of this Act \[Sept. 13, 1960\]) in a taxable year which begins before 1961 and ends in 1961 (but not on December 31, 1961), and
 

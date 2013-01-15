@@ -50,7 +50,7 @@
 
 #### (4) Funding
 
-#### (A) In general
+#### (A) Fiscal years 2009 through 2012
 
 &emsp;&emsp;Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section—
 
@@ -58,13 +58,17 @@
 
 &emsp;&emsp;&emsp;(ii) $20,000,000 for each of fiscal years 2010 through 2012.
 
-#### (B) Interagency funding
+#### (B) Fiscal year 2013
 
-&emsp;&emsp;In addition to funds authorized to be appropriated under subparagraph (A), any agency of the Department may participate in any grant, contract, or agreement entered into under this subsection by contributing funds, if the agency determined that the objectives of the grant, contract, or agreement will further the authorized programs of the contributing agency.
+&emsp;&emsp;There is authorized to be appropriated to carry out this section $20,000,000 for fiscal year 2013.
 
-#### (C) Limitation on use of funds for administrative expenses
+#### (C) Interagency funding
 
-&emsp;&emsp;Not more than 5 percent of the amounts made available under subparagraph (A) for a fiscal year may be used for expenses related to administering the program under this section.
+&emsp;&emsp;In addition to funds authorized to be appropriated under subparagraph (A) or (B), any agency of the Department may participate in any grant, contract, or agreement entered into under this subsection by contributing funds, if the agency determined that the objectives of the grant, contract, or agreement will further the authorized programs of the contributing agency.
+
+#### (D) Limitation on use of funds for administrative expenses
+
+&emsp;&emsp;Not more than 5 percent of the amounts made available under subparagraph (A) or (B) for a fiscal year may be used for expenses related to administering the program under this section.
 
 #### (b) Designation of Federal personnel
 
@@ -74,7 +78,7 @@
 
 #### (2) Additional personnel
 
-&emsp;In counties or regions in which the number of socially disadvantaged farmers and ranchers exceeds 25 percent of the total number offarmers and ranchers in the county or region, the Secretary shall designate additional personnel to implement the policies and programs established or modified in accordance with this section.
+&emsp;In counties or regions in which the number of socially disadvantaged farmers and ranchers exceeds 25 percent of the total number of farmers and ranchers in the county or region, the Secretary shall designate additional personnel to implement the policies and programs established or modified in accordance with this section.
 
 #### (c) Report to Congress
 
@@ -214,7 +218,7 @@
 
 The Secretary shall ensure, to the maximum extent practicable, that the Census of Agriculture and studies carried out by the Economic Research Service accurately document the number, location, and economic contributions of socially disadvantaged farmers or ranchers in agricultural production.
 
-(Pub. L. 101–624, title XXV, §2501, Nov. 28, 1990, 104 Stat. 4062; Pub. L. 102–237, title X, §1003, Dec. 13, 1991, 105 Stat. 1894; Pub. L. 107–171, title X, §10707, May 13, 2002, 116 Stat. 520; Pub. L. 110–234, title XIV, §§14001, 14004, 14005, May 22, 2008, 122 Stat. 1442, 1443, 1445; Pub. L. 110–246, §4(a), title XIV, §§14001, 14004, 14005, June 18, 2008, 122 Stat. 1664, 2204, 2205, 2207.)
+(Pub. L. 101–624, title XXV, §2501, Nov. 28, 1990, 104 Stat. 4062; Pub. L. 102–237, title X, §1003, Dec. 13, 1991, 105 Stat. 1894; Pub. L. 107–171, title X, §10707, May 13, 2002, 116 Stat. 520; Pub. L. 110–234, title XIV, §§14001, 14004, 14005, May 22, 2008, 122 Stat. 1442, 1443, 1445; Pub. L. 110–246, §4(a), title XIV, §§14001, 14004, 14005, June 18, 2008, 122 Stat. 1664, 2204, 2205, 2207; Pub. L. 112–240, title VII, §701(h), Jan. 2, 2013, 126 Stat. 2367.)
 
 #### References in Text
 
@@ -235,6 +239,10 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 Section is comprised of section 2501 of Pub. L. 101–624. Subsec. (f) of section 2501 of Pub. L. 101–624 amended section 2003 of this title.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (a)(4)(A). Pub. L. 112–240, §701(h)(1), substituted “Fiscal years 2009 through 2012” for “In general” in heading.
+
+Subsec. (a)(4)(B) to (D). Pub. L. 112–240, §701(h)(2)–(5), added subpar. (B), redesignated former subpars. (B) and (C) as (C) and (D), respectively, and substituted “subparagraph (A) or (B)” for “subparagraph (A)” in subpars. (C) and (D).
 
 <b>2008</b>—Subsec. (a)(2). Pub. L. 110–246, §14004(a)(1), amended par. (2) generally. Prior to amendment, par. (2) contained provisions stating that the outreach and technical assistance program was to enhance coordination of authorized outreach, technical assistance, and education efforts and include information on, and assistance with, commodity, conservation, credit, rural, and business development programs, application and bidding procedures, farm and risk management, marketing, and other activities essential to participation in Department programs.
 
@@ -288,6 +296,10 @@ Subsec. (c)(1)(C). Pub. L. 102–237, §1003(2), inserted “program” after �
 
 Subsec. (d)(3). Pub. L. 102–237, §1003(3), substituted “November 28, 1991” for “1 year after the date of enactment of this Act”.
 
+#### Effective Date of 2013 Amendment
+
+Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under section 8701 of this title.
+
 #### Effective Date of 2008 Amendment
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
@@ -340,7 +352,7 @@ Pub. L. 105–277, div. A, §101(a) \[title VII, §741\], Oct. 21, 1998, 112 Sta
 
 “(a) To the extent permitted by the Constitution, any civil action to obtain relief with respect to the discrimination alleged in an eligible complaint, if commenced not later than 2 years after the date of the enactment of this Act \[Oct. 21, 1998\], shall not be barred by any statute of limitations.
 
-“(b) The complainant may, in lieu of filing a civil action, seek a determination on the merits of the eligible complaint by the Department of Agriculture if such complaint was filed not later than 2 years after the date of enactment of this Act \[Oct. 21, 1998\]. The Department of Agriculture shall—
+“(b) The complainant may, in lieu of filing a civil action, seek a determination on the merits of the eligiblecomplaint by the Department of Agriculture if such complaint was filed not later than 2 years after the date of enactment of this Act \[Oct. 21, 1998\]. The Department of Agriculture shall—
 
 &emsp;“(1) provide the complainant an opportunity for a hearing on the record before making that determination;
 

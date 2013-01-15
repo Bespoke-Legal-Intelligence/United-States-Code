@@ -124,7 +124,7 @@ No imported article held in customs custody for inspection, examination, or appr
 
 &emsp;&emsp;For purposes of judicial review, the denial of a petition under subparagraph (C)(ii) shall be treated as if it were a denial of a petition of an interested party under section 1516 of this title regarding an issue arising under any of the preceding provisions of this section.
 
-#### (<i>l</i>) Penalties
+#### (l) Penalties
 
 Any person who, with intent to conceal the information given thereby or contained therein, defaces, destroys, removes, alters, covers, obscures, or obliterates any mark required under the provisions of this chapter shall—
 
@@ -148,7 +148,7 @@ Provisions dealing with the subject matter of this section and former section 13
 
 Subsec. (j). Pub. L. 106–36, §2423(a)(1), (b), redesignated subsec. (i) as (j) and substituted “subsection (i)” for “subsection (h)”. Former subsec. (j) redesignated (k).
 
-Subsecs. (k), (<i>l</i>). Pub. L. 106–36, §2423(a)(1), redesignated subsecs. (j) and (k) as (k) and (<i>l</i>), respectively.
+Subsecs. (k), (l). Pub. L. 106–36, §2423(a)(1), redesignated subsecs. (j) and (k) as (k) and (l), respectively.
 
 <b>1996</b>—Subsecs. (f) to (h). Pub. L. 104–295, §14(a), added subsecs. (f) and (g) and redesignated former subsec. (f) as (h). Former subsecs. (g) and (h) redesignated (i) and (j), respectively.
 
@@ -180,7 +180,7 @@ Pub. L. 106–36, title II, §2423(c), June 25, 1999, 113 Stat. 180, provided th
 
 #### Effective Date of 1996 Amendment
 
-Section 14(c) of Pub. L. 104–295 provided that: “The amendments made by this section \[amending this section\] apply to goods entered, or withdrawn from warehouse for consumption, on or after the date of the enactment of this Act \[Oct. 11, 1996\].”
+Pub. L. 104–295, §14(c), Oct. 11, 1996, 110 Stat. 3522, provided that: “The amendments made by this section \[amending this section\] apply to goods entered, or withdrawn from warehouse for consumption, on or after the date of the enactment of this Act \[Oct. 11, 1996\].”
 
 #### Effective Date of 1993 Amendment
 
@@ -188,7 +188,7 @@ Amendment by Pub. L. 103–182 effective on the date the North American Free Tra
 
 #### Effective Date of 1988 Amendment
 
-Section 1907(a)(2) of Pub. L. 100–418 provided that:
+Pub. L. 100–418, title I, §1907(a)(2), Aug. 23, 1988, 102 Stat. 1314, provided that:
 
 “(A) The amendment made by paragraph (1) \[amending this section\] applies with respect to acts committed on or after the date of the enactment of this Act \[Aug. 23, 1988\].
 
@@ -196,11 +196,11 @@ Section 1907(a)(2) of Pub. L. 100–418 provided that:
 
 #### Effective Date of 1984 Amendment
 
-Section 214 of title II of Pub. L. 98–573 provided that:
+Pub. L. 98–573, title II, §214, Oct. 30, 1984, 98 Stat. 2988, provided that:
 
 “(a) For purposes of this section, the term ‘15th day’ means the 15th day after the date of the enactment of this Act \[Oct. 30, 1984\].
 
-“(b) Except as provided in subsections (c), (d), and (e), the amendments made by this title \[enacting sections 58b, 1339, and 1627a of this title, amending sections 81c, 81<i>o</i>, 1313, 1330, 1431, 1498, 1555, 2192, 2251, 2253, and 2703 of this title, section 925 of Title 18, Crimes and Criminal Procedure, and section 162 of Title 26, Internal Revenue Code, and enacting provisions set out as notes under sections 2, 81c, 81<i>o</i>, and 1339 of this title, and section 162 of Title 26\] shall take effect on the 15th day.
+“(b) Except as provided in subsections (c), (d), and (e), the amendments made by this title \[enacting sections 58b, 1339, and 1627a of this title, amending sections 81c, 81o, 1313, 1330, 1431, 1498, 1555, 2192, 2251, 2253, and 2703 of this title, section 925 of Title 18, Crimes and Criminal Procedure, and section 162 of Title 26, Internal Revenue Code, and enacting provisions set out as notes under sections 2, 81c, 81o, and 1339 of this title, and section 162 of Title 26\] shall take effect on the 15th day.
 
 “(c)(1) The amendment made by section 204 \[amending section 1441 of this title\] shall apply with respect to vessels returning from the British Virgin Islands on or after the 15th day.
 
@@ -240,7 +240,7 @@ Section 214 of title II of Pub. L. 98–573 provided that:
 
 #### Effective Date of 1953 Amendments, Enactments, and Repeals
 
-Section 1 of act Aug. 8, 1953, provided that such act \[see Short Title of 1953 Amendment note set out under section 1654 of this title\] is effective, except as otherwise specifically provided for, on and after the thirtieth day following the date of its enactment \[Aug. 8, 1953\].
+Act Aug. 8, 1953, ch. 397, §1, 67 Stat. 507, provided that such act \[see Short Title of 1953 Amendment note set out under section 1654 of this title\] is effective, except as otherwise specifically provided for, on and after the thirtieth day following the date of its enactment \[Aug. 8, 1953\].
 
 The exception “except as otherwise specifically provided for” apparently refers to the amendments made to the provisions preceding subd. (1) of section 1308 of this title, and to section 1557(b) of this title, for which separate effective dates were provided as explained in notes under such sections.
 
@@ -250,7 +250,7 @@ Amendment by act June 25, 1938, effective on thirtieth day following June 25, 19
 
 #### Savings Provision
 
-Section 23 of act Aug. 8, 1953, provided: “Except as may be otherwise provided for in this Act \[see Short Title of 1953 Amendment note set out under section 1654 of this title\], the repeal of existing law or modifications thereof embraced in this Act shall not affect any act done, or any right accruing or accrued, or any suit or proceeding had or commenced in any civil or criminal case prior to such repeal or modification, but all liabilities under such laws shall continue, except asotherwise specifically provided in this Act, and may be enforced in the same manner as if such repeal or modification had not been made.”
+Act Aug. 8, 1953, ch. 397, §23, 67 Stat. 521, provided: “Except as may be otherwise provided for in this Act \[see Short Title of 1953 Amendment note set out under section 1654 of this title\], the repeal of existing law ormodifications thereof embraced in this Act shall not affect any act done, or any right accruing or accrued, or any suit or proceeding had or commenced in any civil or criminal case prior to such repeal or modification, but all liabilities under such laws shall continue, except as otherwise specifically provided in this Act, and may be enforced in the same manner as if such repeal or modification had not been made.”
 
 #### Transfer of Functions
 
@@ -260,7 +260,7 @@ Functions of all other officers of Department of the Treasury and functions of a
 
 #### Marking Requirements for Articles Qualifying as Goods of NAFTA Country
 
-Section 207(b) of Pub. L. 103–182 provided that: “Articles that qualify as goods of a NAFTA country under regulations issued by the Secretary in accordance with Annex 311 of the Agreement \[North American Free Trade Agreement\] are exempt from the marking requirements promulgated by the Secretary of the Treasury under section 1907(c) of the Omnibus Trade and Competitiveness Act of 1988 (Public Law 100–418 \[102 Stat. 1315\]), but are subject to the requirements of section 304 of the Tariff Act of 1930 (19 U.S.C. 1304).”
+Pub. L. 103–182, title II, §207(b), Dec. 8, 1993, 107 Stat. 2097, provided that: “Articles that qualify as goods of a NAFTA country under regulations issued by the Secretary in accordance with Annex 311 of the Agreement \[North American Free Trade Agreement\] are exempt from the marking requirements promulgated by the Secretary of the Treasury under section 1907(c) of the Omnibus Trade and Competitiveness Act of 1988 (Public Law 100–418 \[102 Stat. 1315\]), but are subject to the requirements of section 304 of the Tariff Act of 1930 (19 U.S.C. 1304).”
 
 #### Plan Amendments Not Required Until January 1, 1989
 

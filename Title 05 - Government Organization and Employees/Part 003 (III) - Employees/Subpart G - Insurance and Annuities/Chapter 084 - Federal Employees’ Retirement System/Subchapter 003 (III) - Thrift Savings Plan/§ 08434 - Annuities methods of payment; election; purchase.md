@@ -28,7 +28,7 @@
 
 (3) An annuity contract purchased under paragraph (1) shall include such terms and conditions as the Executive Director requires for the protection of the annuitant.
 
-(4) The Executive Director shall require, from each entity from which an annuity contract is purchased under paragraph (1), a bond or proof of financial responsibility sufficient to protect the annuitant.
+(4) The Executive Director shall require, from each entity from which an annuity contract is purchased under paragraph (1), a bond or proofof financial responsibility sufficient to protect the annuitant.
 
 (e)(1) No tax, fee, or other monetary payment may be imposed or collected by any State, the District of Columbia, or the Commonwealth of Puerto Rico, or by any political subdivision or other governmental authority thereof, on, or with respect to, any amount paid to purchase an annuity contract under this section.
 
@@ -64,7 +64,7 @@ Amendment by Pub. L. 103–226 effective Mar. 10, 1995, see section 9(j) of Pub.
 
 #### Effective Date of 1990 Amendment
 
-Section 4(b) of Pub. L. 101–335 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect 30 days after the date of enactment of this Act \[July 17, 1990\].”
+Pub. L. 101–335, §4(b), July 17, 1990, 104 Stat. 321, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect 30 days after the date of enactment of this Act \[July 17, 1990\].”
 
 Amendment by section 5(b) of Pub. L. 101–335 effective Apr. 1, 1987, see section 5(d) of Pub. L. 101–335, set out as a note under section 8433 of this title.
 

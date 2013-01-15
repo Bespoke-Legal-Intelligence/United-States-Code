@@ -128,7 +128,7 @@ In the case of an assessment of any tax imposed by chapter 1 attributable in who
 
 &emsp;&emsp;<b>For authority to suspend running of interest, etc. by reason of Presidentially declared disaster or terroristic or military action, see section 7508A.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 792; Pub. L. 94–455, title XII, §1212(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1712, 1834; Pub. L. 96–589, §6(b)(2), Dec. 24, 1980, 94 Stat. 3407; Pub. L. 99–514, title XV, §1563(a), Oct. 22, 1986, 100 Stat. 2762; Pub. L. 100–647, title I, §1015(n), title VI, §6229(a), Nov. 10, 1988, 102 Stat. 3572, 3733; Pub. L. 104–168, title III, §§301(a), (b), 302(a), title VII, §701(c)(3), July 30, 1996, 110 Stat. 1457, 1464; Pub. L. 105–206, title III, §§3305(a), 3309(a), July 22, 1998, 112 Stat. 743, 745; Pub. L. 105–277, div. J, title IV, §4003(e)(2), Oct. 21, 1998, 112 Stat. 2681–909; Pub. L. 107–134, title I, §112(d)(1), Jan. 23, 2002, 115 Stat. 2434; Pub. L. 108–357, title VIII, §903(a)–(c), Oct. 22, 2004, 118 Stat. 1652; Pub. L. 109–135, title III, §303(b)(1), Dec. 21, 2005, 119 Stat. 2609; Pub. L. 110–28, title VIII, §8242(a), May 25, 2007, 121 Stat. 200.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 792; Pub. L. 94–455, title XII, §1212(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1712, 1834; Pub. L. 96–589, §6(b)(2), Dec. 24, 1980, 94 Stat. 3407; Pub. L. 99–514, title XV, §1563(a), Oct. 22, 1986, 100 Stat. 2762; Pub. L. 100–647, title I, §1015(n), title VI, §6229(a), Nov. 10, 1988, 102 Stat. 3572, 3733; Pub. L. 104–168, title III, §§301(a), (b), 302(a), title VII, §701(c)(3), July 30, 1996, 110 Stat. 1457, 1464; Pub. L. 105–206, title III, §§3305(a),3309(a), July 22, 1998, 112 Stat. 743, 745; Pub. L. 105–277, div. J, title IV, §4003(e)(2), Oct. 21, 1998, 112 Stat. 2681–909; Pub. L. 107–134, title I, §112(d)(1), Jan. 23, 2002, 115 Stat. 2434; Pub. L. 108–357, title VIII, §903(a)–(c), Oct. 22, 2004, 118 Stat. 1652; Pub. L. 109–135, title III, §303(b)(1), Dec. 21, 2005, 119 Stat. 2609; Pub. L. 110–28, title VIII, §8242(a), May 25, 2007, 121 Stat. 200.)
 
 #### References in Text
 
@@ -250,7 +250,7 @@ Amendment by Pub. L. 107–134 applicable to disasters and terroristic or milita
 
 #### Effective Date of 1998 Amendments
 
-Amendment by Pub. L. 105–277 effective as if included in the provision of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 4003(<i>l</i>) of Pub. L. 105–277, set out as a note under section 86 of this title.
+Amendment by Pub. L. 105–277 effective as if included in the provision of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 4003(l) of Pub. L. 105–277, set out as a note under section 86 of this title.
 
 Pub. L. 105–206, title III, §3305(b), July 22, 1998, 112 Stat. 743, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[July 22, 1998\].”
 
@@ -266,27 +266,27 @@ Emergency Designation.—
 
 &emsp;“(1) For the purposes of section 252(e) of the Balanced Budget and Emergency Deficit Control Act \[2 U.S.C. 902(e)\], Congress designates the provisions of this section as an emergency requirement.
 
-&emsp;“(2) The amendments made by subsections (a) and (b) of this section \[amending this section\] shall onlytake effect upon the transmittal by the President to the Congress of a message designating the provisions of subsections (a) and (b) as an emergency requirement pursuant to section 252(e) of the Balanced Budget and Emergency Deficit Control Act.”
+&emsp;“(2) The amendments made by subsections (a) and (b) of this section \[amending this section\] shall only take effect upon the transmittal by the President to the Congress of a message designating the provisions of subsections (a) and (b) as an emergency requirement pursuant to section 252(e) of the Balanced Budget and Emergency Deficit Control Act.”
 
 \[For message of the President dated July 22, 1998, designating the provisions of section 3309(a), (b) of Pub. L. 105–206 as an emergency requirement pursuant to section 252(e) of the Balanced Budget and Emergency Deficit Control Act of 1985 on July 22, 1998, see Cong. Rec., vol. 144, p. H6160, Daily Issue.\]
 
 #### Effective Date of 1996 Amendment
 
-Section 301(c) of Pub. L. 104–168 provided that: “The amendments made by this section \[amending this section\] shall apply to interest accruing with respect to deficiencies or payments for taxable years beginning after the date of the enactment of this Act \[July 30, 1996\].”
+Pub. L. 104–168, title III, §301(c), July 30, 1996, 110 Stat. 1457, provided that: “The amendments made by this section \[amending this section\] shall apply to interest accruing with respect to deficiencies or payments for taxable years beginning after the date of the enactment of this Act \[July 30, 1996\].”
 
-Section 302(b) of Pub. L. 104–168 provided that: “The amendment made by this section \[amending this section\] shall apply to requests for abatement after the date of the enactment of this Act \[July 30, 1996\].”
+Pub. L. 104–168, title III, §302(b), July 30, 1996, 110 Stat. 1458, provided that: “The amendment made by this section \[amending this section\] shall apply to requests for abatement after the date of the enactment of this Act \[July 30, 1996\].”
 
-Section 701(d) of Pub. L. 104–168 provided that: “The amendments made by this section \[amending this section and sections 6656 and 7430 of this title\] shall apply in the case of proceedings commenced after the date of the enactment of this Act \[July 30, 1996\].”
+Pub. L. 104–168, title VII, §701(d), July 30, 1996, 110 Stat. 1464, provided that: “The amendments made by this section \[amending this section and sections 6656 and 7430 of this title\] shall apply in the case of proceedings commenced after the date of the enactment of this Act \[July 30, 1996\].”
 
 #### Effective Date of 1988 Amendment
 
 Amendment by section 1015(n) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Section 6229(b) of Pub. L. 100–647 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to advice requested on or after January 1, 1989.”
+Pub. L. 100–647, title VI, §6229(b), Nov. 10, 1988, 102 Stat. 3733, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to advice requested on or after January 1, 1989.”
 
 #### Effective Date of 1986 Amendment
 
-Section 1563(b) of Pub. L. 99–514 provided that:
+Pub. L. 99–514, title XV, §1563(b), Oct. 22, 1986, 100 Stat. 2762, provided that:
 
 “(1)
 
@@ -302,7 +302,7 @@ Amendment by Pub. L. 96–589 effective on Oct. 1, 1979, but not applicable to p
 
 #### Effective Date of 1976 Amendment
 
-Section 1212(b) of Pub. L. 94–455 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to returns filed for taxable years ending after the date of enactment of this Act \[Oct. 4, 1976\].”
+Pub. L. 94–455, title XII, §1212(b), Oct. 4, 1976, 90 Stat. 1712, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to returns filed for taxable years ending after the date of enactment of this Act \[Oct. 4, 1976\].”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

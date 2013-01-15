@@ -36,10 +36,6 @@ In determining the amount of any deficiency for purposes of this subchapter, adj
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 770; Pub. L. 89–44, title VIII, §809(d)(5)(A), June 21, 1965, 79 Stat. 168; Pub. L. 89–368, title I, §102(b)(4), Mar. 15, 1966, 80 Stat. 64; Pub. L. 91–172, title I, §101(f)(1), (j)(39), Dec. 30, 1969, 83 Stat. 524, 530; Pub. L. 93–406, title II, §1016(a)(9), Sept. 2, 1974, 88 Stat. 929; Pub. L. 94–455, title XII, §1204(c)(4), title XIII, §1307(d)(2)(E), (F)(i), title XVI, §1605(b)(4), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1698, 1728, 1754, 1834; Pub. L. 96–223, title I, §101(f)(1)(A), (B), (2), (3), Apr. 2, 1980, 94 Stat. 252; Pub. L. 98–369, div. A, title IV, §474(r)(33), July 18, 1984, 98 Stat. 845; Pub. L. 100–203, title X, §10713(b)(2)(B), Dec. 22, 1987, 101 Stat. 1330–470; Pub. L. 100–418, title I, §1941(b)(2)(B)(i), (ii), (C), (D), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 100–647, title I, §1015(r)(2), Nov. 10, 1988, 102 Stat. 3572; Pub. L. 105–34, title XII, §1231(b), Aug. 5, 1997, 111 Stat. 1023; Pub. L. 105–206, title VI, §6012(f), July 22, 1998, 112 Stat. 819; Pub. L. 106–554, §1(a)(7) \[title III, §314(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–643; Pub. L. 109–432, div. A, title IV, §402(b)(1), Dec. 20, 2006, 120 Stat. 2954; Pub. L. 110–172, §11(a)(35), Dec. 29, 2007, 121 Stat. 2487; Pub. L. 110–185, title I, §101(b)(1), Feb. 13, 2008, 122 Stat. 615; Pub. L. 110–289, div. C, title I, §3011(b)(2), July 30, 2008, 122 Stat. 2891; Pub. L. 111–5, div. B, title I, §§1001(e)(1), 1004(b)(7), 1201(a)(3)(B), (b)(2), 1531(c)(4), Feb. 17, 2009, 123 Stat. 312, 314, 334, 360; Pub. L. 111–148, title I, §1401(d)(3), as added title X, §§10105(d), 10909(b)(2)(N), (c), Mar. 23, 2010, 124 Stat. 906, 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298.)
 
-#### Amendment of Section
-
-<i>For termination of amendment by section 10909(c) of Pub. L. 111–148, see Effective and Termination Dates of 2010 Amendment note below.</i>
-
 #### Amendments
 
 <b>2010</b>—Subsec. (b)(4)(A). Pub. L. 111–148, §10909(b)(2)(N), (c), as amended by Pub. L. 111–312, temporarily inserted “36C,” before “53(e)”. See Effective and Termination Dates of 2010 Amendment note below.
@@ -58,7 +54,7 @@ Pub. L. 111–5, §1001(e)(1), inserted “36A,” after “36,”.
 
 Pub. L. 110–185 substituted “53(e), and 6428” for “and 53(e)”.
 
-<b>2007</b>—Subsec. (b)(4)(A). Pub. L. 110–172, which directed amendment of subpar. (A) by substituting “34, and 35” for “and 34”, was executed by inserting “35,” after“34,”, to reflect the probable intent of Congress and the amendment of subpar. (A) by section 402(b)(1) of Pub. L. 109–432. See 2006 Amendment note below.
+<b>2007</b>—Subsec. (b)(4)(A). Pub. L. 110–172, which directed amendment of subpar. (A) by substituting “34, and 35” for “and 34”, was executed by inserting “35,” after “34,”, to reflect the probable intent of Congress and the amendment of subpar. (A) by section 402(b)(1) of Pub. L. 109–432. See 2006 Amendment note below.
 
 <b>2006</b>—Subsec. (b)(4)(A). Pub. L. 109–432 substituted “34, and 53(e)” for “and 34”.
 
@@ -148,7 +144,7 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1997 Amendment
 
-Section 1231(d) of Pub. L. 105–34 provided that: “The amendments made by this section \[enacting section 6234 of this title and amending this section\] shall apply to partnership taxable years ending after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title XII, §1231(d), Aug. 5, 1997, 111 Stat. 1023, provided that: “The amendments made by this section \[enacting section 6234 of this title and amending this section\] shall apply to partnership taxable years ending after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 #### Effective Date of 1988 Amendments
 
@@ -158,7 +154,7 @@ Amendment by Pub. L. 100–418 applicable to crude oil removed from the premises
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, and to carrybacksfrom such years, see section 475(a) of Pub. L. 98–369, set out as a note under section 21 of this title.
+Amendment by Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as a note under section 21 of this title.
 
 #### Effective Date of 1980 Amendment
 

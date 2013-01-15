@@ -82,11 +82,11 @@ Section 205 of Pub. L. 98–615 provided that amendment by Pub. L. 98–615 was 
 
 #### Effective Date of 1981 Amendment
 
-Section 1703(c) of Pub. L. 97–35 provided that: “The amendments made by this section \[enacting subchapterII of this chapter, designating this section and sections 4502 to 4507 of this title as subchapter I, and amending this section and sections 4502, 4505, and 4506 of this title\] shall take effect on October 1, 1981.”
+Pub. L. 97–35, title XVII, §1703(c), Aug. 13, 1981, 95 Stat. 756, provided that: “The amendments made by this section \[enacting subchapter II of this chapter, designating this section and sections 4502 to 4507 of this title as subchapter I, and amending this section and sections 4502, 4505, and 4506 of this title\] shall take effect on October 1, 1981.”
 
 #### Effective Date of 1978 Amendment
 
-Section 504(a) of Pub. L. 95–454 provided that amendment by Pub. L. 95–454 was effective on first day of first applicable pay period which began on or after Oct. 1, 1981, except it could take effect with respect to any category or categories of positions before such day to extent prescribed by Director of Office of Personnel Management.
+Pub. L. 95–454, title V, §504(a), Oct. 13, 1978, 92 Stat. 1184, provided that amendment by Pub. L. 95–454 was effective on first day of first applicable pay period which began on or after Oct. 1, 1981, except it could take effect with respect to any category or categories of positions before such day to extent prescribed by Director of Office of Personnel Management.
 
 #### Ex. Ord. No. 12976. Compensation Practices of Government Corporations
 

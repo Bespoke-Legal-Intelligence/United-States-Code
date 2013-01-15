@@ -8,7 +8,7 @@
 
 #### (2) Exceptions
 
-&emsp;The lien imposed by paragraph (1), or any similar lien imposed on the spirits under prior provisions of internal revenue law, shall terminate in the case of distilled spirits produced on premises qualified under internal revenue law for the production of distilled spirits when such distilled spirits are—
+&emsp;The lien imposed by paragraph (1), or any similar lien imposed on the spirits under priorprovisions of internal revenue law, shall terminate in the case of distilled spirits produced on premises qualified under internal revenue law for the production of distilled spirits when such distilled spirits are—
 
 &emsp;&emsp;(A) withdrawn from bonded premises on determination of tax; or
 
@@ -56,5 +56,5 @@ Amendment by Pub. L. 95–176 effective on first day of first calendar month beg
 
 #### Effective Date of 1965 Amendment
 
-Section 805(g)(2) of Pub. L. 89–44 provided that: “The amendments made by subsections (b), (d), and (f) (other than paragraph (6)) \[amending this section and sections 5025, 5083, 5223, and 5234 of this title\], shall take effect on October 1, 1965.”
+Pub. L. 89–44, title VIII, §805(g)(2), June 21, 1965, 79 Stat. 162, provided that: “The amendments made by subsections (b), (d), and (f) (other than paragraph (6)) \[amending this section and sections 5025, 5083, 5223, and 5234 of this title\], shall take effect on October 1, 1965.”
 

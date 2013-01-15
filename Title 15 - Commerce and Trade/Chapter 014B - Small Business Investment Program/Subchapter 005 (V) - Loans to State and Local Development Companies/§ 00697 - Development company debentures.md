@@ -64,7 +64,7 @@ No guarantee may be made with respect to any debenture under subsection (a) of t
 
 #### (e) “Qualified State or local development company” defined; exception for rural company; authority
 
-(1) For purposes of this section, the term “qualified State or local development company” means any State or local development company which, as determined by the Administration, has—
+(1) For purposes of this section, the term “qualified State or local development company”means any State or local development company which, as determined by the Administration, has—
 
 &emsp;(A) a full-time professional staff;
 
@@ -200,7 +200,7 @@ Amendment by Pub. L. 104–36 inapplicable to loans made or guaranteed under Sma
 
 #### Termination Date of 1988 Amendment
 
-Section 112(c)(2) of Pub. L. 100–590, as amended by Pub. L. 101–515, title V, §3, Nov. 5, 1990, 104 Stat. 2140; Pub. L. 103–317, title IV, Aug. 26, 1994, 108 Stat. 1755, which provided that the amendment made by paragraph (1), amending this section, was to be repealed on Oct. 1, 1997, was repealed by Pub. L. 103–403, title II, §213(2), Oct. 22, 1994, 108 Stat. 4184.
+Pub. L. 100–590, title I, §112(c), Nov. 3, 1988, 102 Stat. 2996, as amended by Pub. L. 101–515, title V, §3, Nov. 5, 1990, 104 Stat. 2140; Pub. L. 103–317, title IV, Aug. 26, 1994, 108 Stat. 1755, which provided that the amendment made by paragraph (1), amending this section, was to be repealed on Oct. 1, 1997, was repealed by Pub. L. 103–403, title II, §213(2), Oct. 22, 1994, 108 Stat. 4184.
 
 #### Effective Date
 

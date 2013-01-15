@@ -48,11 +48,11 @@ Amendment by Pub. L. 95–408 effective 180 days after Oct. 2, 1978, with such a
 
 #### Effective Date of 1971 Amendment
 
-Section 3(f) of Pub. L. 92–208 provided that: “The provisions of this section \[amending this section and sections 133 and 134 of this title and enacting provisions set out below\] shall become effective one hundred and twenty days after the date of enactment of this Act \[Dec. 18, 1971\].”
+Pub. L. 92–208, §3(f), Dec. 18, 1971, 85 Stat. 742, provided that: “The provisions of this section \[amending this section and sections 133 and 134 of this title and enacting provisions set out below\] shall become effective one hundred and twenty days after the date of enactment of this Act \[Dec. 18, 1971\].”
 
 #### District Judge, United States Attorney, and United States Marshal for Middle District; Designation; Tenure; Appointment
 
-Section 3(b), (c) of Pub. L. 92–208 provided that:
+Pub. L. 92–208, §3(b), (c), Dec. 18, 1971, 85 Stat. 742, provided that:
 
 “(b) The district judge for the Eastern District of Louisiana holding office on the day immediately prior to the effective date of this section \[see Effective Date of 1971 Amendment Note above\], and whose official station on such date is Baton Rouge, shall, on and after such date, be the district judge for the Middle District of Louisiana. All other district judges for the Eastern District of Louisiana holding office on the day immediately prior to the effective date of this section shall be district judges for the Eastern District of Louisiana as constituted by this section.
 

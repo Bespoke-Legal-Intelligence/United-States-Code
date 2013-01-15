@@ -212,7 +212,7 @@ Bylaws, Rules, and Regulations.—The Trust may adopt, amend, repeal, and enforc
 
 Direct Negotiations.—For the purpose of compliance with applicable laws and regulations concerning properties transferred to the Trust by the Secretary, the Trust shall negotiate directly with regulatory authorities.
 
-“(<i>l</i>)
+“(l)
 
 Insurance.—The Trust shall require that all leaseholders and contractors procure proper insurance against any loss in connection with properties under lease or contract, or the authorized activities granted in such lease or contract, as is reasonable and customary.
 
@@ -224,7 +224,7 @@ Building Code Compliance.—The Trust shall bring all properties under its admin
 
 Leasing.—In managing and leasing the properties transferred to it, the Trust shall consider the extent to which prospective tenants contribute to the implementation of the general objectives of the General Management Plan for the Presidio and to the reduction of cost to the Federal Government. The Trust shall give priority to the following categories of tenants: Tenants that enhance the financial viability of the Presidio and tenants that facilitate the cost-effective preservation of historic buildings through their reuse of such buildings.
 
-“(<i>o</i>)
+“(o)
 
 Reversion.—If, at the expiration of 15 years, the Trust has not accomplished the goals and objectives of the plan required in section 105(b) of this title, then all property under the administrative jurisdiction of the Trust pursuant to section 103(b) of this title shall be transferred to the Administrator of the General Services Administration to be disposed of in accordance with the procedures outlined in the Defense Authorization Act of 1990 (104 Stat. 1809) \[probably means part A of title XXIX of div. B of Pub. L. 101–510, Nov. 5, 1990, 104 Stat. 1808, set out as a note under section 2687 of Title 10, Armed Forces\], and any real property so transferred shall be deleted from the boundary of the Golden Gate National Recreation Area. In the event of such transfer, the terms and conditions of all agreements and loans regarding such lands and facilities entered into by the Trust shall be binding on any successor in interest.
 

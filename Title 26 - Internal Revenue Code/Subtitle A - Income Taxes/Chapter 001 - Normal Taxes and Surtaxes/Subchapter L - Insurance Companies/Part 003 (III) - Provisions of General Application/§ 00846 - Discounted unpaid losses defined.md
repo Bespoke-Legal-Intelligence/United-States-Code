@@ -112,7 +112,7 @@ For purposes of this section—
 
 #### (D) Long-tail line of business
 
-&emsp;&emsp;For purposes of subparagraph (C), the term “long-tail line of business” means any line of business described in subparagraph (A)(ii) if the amount of losses which (without regard to subparagraph (C)) would be treated as paid in the 10th year after the accident year exceeds the losses treated as paid in the 9th year after the accident year.
+&emsp;&emsp;For purposes of subparagraph (C), the term “long-tail line of business” means any line of business described in subparagraph (A)(ii) if the amount of losses which (without regard to subparagraph (C)) would be treated as paid in the 10th year after the accidentyear exceeds the losses treated as paid in the 9th year after the accident year.
 
 #### (E) Special rule for international and reinsurance lines of business
 
@@ -190,7 +190,7 @@ For purposes of this section—
 
 &emsp;Any determination under subsection (a) with respect to unpaid losses relating to accident and health insurance lines of businesses (other than credit disability insurance) shall be made—
 
-&emsp;&emsp;(A) in the case of unpaid losses relating to disability income, by using the general rules prescribed under section 807(d) applicable to noncancellable accident and health insurance contracts and using a mortality or morbidity table reflecting the taxpayer's experience; except that—
+&emsp;&emsp;(A) in the case of unpaid losses relating to disability income, by using the general rulesprescribed under section 807(d) applicable to noncancellable accident and health insurance contracts and using a mortality or morbidity table reflecting the taxpayer's experience; except that—
 
 &emsp;&emsp;&emsp;(i) the prevailing State assumed interest rate shall be the rate in effect for the year in which the loss occurred rather than the year in which the contract was issued, and
 
@@ -226,7 +226,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date
 
-Section 1023(e) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1010(e)(3), Nov. 10, 1988, 102 Stat. 3453, provided that:
+Pub. L. 99–514, title X, §1023(e), Oct. 22, 1986, 100 Stat. 2404, as amended by Pub. L. 100–647, title I, §1010(e)(3), Nov. 10, 1988, 102 Stat. 3453, provided that:
 
 “(1)
 

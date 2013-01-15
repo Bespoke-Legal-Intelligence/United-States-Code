@@ -8,5 +8,5 @@
 
 (b) In determining his vote on extensions of assistance to any Fund borrower, the United States Executive Director of the Fund shall take into account whether such borrower's policies are consistent with the requirements of article IV of the Articles of Agreement of the Fund.
 
-(July 31, 1945, ch. 339, §40, as added Pub. L. 98–181, title VIII, §801, Nov. 30, 1983, 97 Stat. 1267.)
+(July 31, 1945, ch. 339, §40, as added Pub. L. 98–181, title I \[title VIII, §801\], Nov. 30, 1983, 97 Stat. 1267.)
 

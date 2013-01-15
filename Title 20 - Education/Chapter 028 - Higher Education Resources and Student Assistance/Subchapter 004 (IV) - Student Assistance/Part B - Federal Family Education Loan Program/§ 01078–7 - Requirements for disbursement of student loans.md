@@ -50,7 +50,7 @@ Disbursements under subsection (a) of this section—
 
 #### (2) Students receiving over-awards
 
-&emsp;If the sum of a disbursement for any student and the other financial aid obtained by such student exceeds the amount of assistance forwhich the student is eligible under this subchapter and part C of subchapter I of chapter 34 of title 42, the institution such student is attending shall withhold and return to the lender or escrow agent the portion (or all) of such installment that exceeds such eligible amount, except that overawards permitted pursuant to section 2753(b)(4) of title 42 shall not be construed to be overawards for purposes of this paragraph. Any portion (or all) of a disbursement installment which is so returned shall be credited to the borrower's loan and treated as a prepayment thereon.
+&emsp;If the sum of a disbursement for any student and the other financial aid obtained by such student exceeds the amount of assistance for which the student is eligible under this subchapter and part C of subchapter I of chapter 34 of title 42, the institution such student is attending shall withhold and return to the lender or escrow agent the portion (or all) of such installment that exceeds such eligible amount, except that overawards permitted pursuant to section 2753(b)(4) of title 42 shall not be construed to be overawards for purposes of this paragraph. Any portion (or all) of a disbursement installment which is so returned shall be credited to the borrower's loan and treated as a prepayment thereon.
 
 #### (e) Exclusion of consolidation and foreign study loans
 
@@ -142,7 +142,7 @@ Amendment by Pub. L. 103–66 effective with respect to loans for which the firs
 
 #### Effective Date of 1990 Amendment
 
-Section 3003(b) of Pub. L. 101–508 provided that: “The amendment made by this section \[amending this section\] shall be effective for loans made on or after the date of enactment of this Act \[Nov. 5, 1990\] to cover the cost of instruction for periods of enrollment beginning on or after January 1, 1991.”
+Pub. L. 101–508, title III, §3003(b), Nov. 5, 1990, 104 Stat. 1388–26, provided that: “The amendment made by this section \[amending this section\] shall be effective for loans made on or after the date of enactment of this Act \[Nov. 5, 1990\] to cover the cost of instruction for periods of enrollment beginning on or after January 1, 1991.”
 
 #### Effective Date
 

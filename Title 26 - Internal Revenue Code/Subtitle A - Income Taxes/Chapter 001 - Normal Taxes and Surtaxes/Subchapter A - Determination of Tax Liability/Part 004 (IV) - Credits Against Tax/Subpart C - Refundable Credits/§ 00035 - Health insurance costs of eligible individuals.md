@@ -226,7 +226,7 @@ For purposes of this section, an individual has other specified coverage for any
 
 #### (2) Coordination with other deductions
 
-&emsp;Amounts taken into account under subsection (a) shall not be taken into account in determining any deduction allowed under section 162(<i>l</i>) or 213.
+&emsp;Amounts taken into account under subsection (a) shall not be taken into account in determining any deduction allowed under section 162(l) or 213.
 
 #### (3) Medical and health savings accounts
 

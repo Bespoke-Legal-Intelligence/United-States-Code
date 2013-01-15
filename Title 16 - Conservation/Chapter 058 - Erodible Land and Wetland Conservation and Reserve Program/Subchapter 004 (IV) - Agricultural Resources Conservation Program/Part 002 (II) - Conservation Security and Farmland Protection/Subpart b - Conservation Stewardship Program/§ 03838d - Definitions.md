@@ -60,7 +60,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 #### Prior Provisions
 
-A prior section 3838d, Pub. L. 99–198, title XII, §1238D, as added Pub. L. 101–624, title XIV, §1439, Nov. 28, 1990, 104 Stat. 3595, related to technical assistance for water quality protection, prior to repeal by Pub. L. 104–127, title III, §336(h), Apr. 4, 1996, 110 Stat. 1007.
+A prior section 3838d, Pub. L. 99–198, title XII, §1238D, as added Pub. L. 101–624, title XIV, §1439, Nov. 28, 1990,104 Stat. 3595, related to technical assistance for water quality protection, prior to repeal by Pub. L. 104–127, title III, §336(h), Apr. 4, 1996, 110 Stat. 1007.
 
 #### Effective Date
 

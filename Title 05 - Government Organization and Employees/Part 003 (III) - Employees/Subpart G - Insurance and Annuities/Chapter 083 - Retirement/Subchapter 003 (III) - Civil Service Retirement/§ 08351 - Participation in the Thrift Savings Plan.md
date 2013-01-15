@@ -186,15 +186,15 @@ Amendment by Pub. L. 104–208 effective Sept. 30, 1996, and withdrawals and ele
 
 Amendment by Pub. L. 103–353 effective Oct. 13, 1994, and applicable to any employee whose release from military service, discharge from hospitalization, or other similar event making the individual eligible to seek restoration or reemployment under chapter 43 of Title 38, Veterans’ Benefits, occurs on or after Aug. 2, 1990, with special rules for applying amendment to employees restored or reemployed before effective date, see section 4(e), (f) of Pub. L. 103–353, set out as an Effective Date note under section 8432b of this title.
 
-Section 9(j) of Pub. L. 103–226 provided that: “This section \[amending this section and sections 8433 to 8435, 8437, and 8440a to 8440d of this title\] shall take effect 1 year after the date of the enactment of this Act \[Mar. 30, 1994\] or on such earlier date as the Executive Director of the Federal Retirement Thrift Investment Board shall provide in regulation.” \[Implementing regulations were published in the Federal Register Feb. 21, 1995, 60 F.R. 9595, effective Mar. 10, 1995.\]
+Pub. L. 103–226, §9(j), Mar. 30, 1994, 108 Stat. 122, provided that: “This section \[amending this section and sections 8433 to 8435, 8437, and 8440a to 8440d of this title\] shall take effect 1 year after the date of the enactment of this Act \[Mar. 30, 1994\] or on such earlier date as the Executive Director of the Federal Retirement Thrift Investment Board shall provide in regulation.” \[Implementing regulations were published in the Federal Register Feb. 21, 1995, 60 F.R. 9595, effective Mar. 10, 1995.\]
 
 #### Effective Date of 1992 Amendment
 
-Section 4437(d) of Pub. L. 102–484 provided that: “The amendments made by this section \[amending this section and sections 8433 and 8435 of this title\] shall apply with respect to separations occurring after December 31, 1993, or such earlier date as the Executive Director (appointed under section 8474 of title 5, United States Code) may by regulation prescribe.”
+Pub. L. 102–484, div. D, title XLIV, §4437(d), Oct. 23, 1992, 106 Stat. 2725, provided that: “The amendments made by this section \[amending this section and sections 8433 and 8435 of this title\] shall apply with respect to separations occurring after December 31, 1993, or such earlier date as the Executive Director (appointed under section 8474 of title 5, United States Code) may by regulation prescribe.”
 
 #### Effective Date of 1991 Amendment
 
-Section 308(b) of Pub. L. 102–183 provided that:
+Pub. L. 102–183, title III, §308(b), Dec. 4, 1991, 105 Stat. 1266, provided that:
 
 “(1) The amendment made by subsection (a) \[amending this section\] shall take effect as of January 1, 1987.
 
@@ -202,13 +202,13 @@ Section 308(b) of Pub. L. 102–183 provided that:
 
 #### Effective Date of 1990 Amendment
 
-Section 3(c) of Pub. L. 101–335 provided that: “Subsections (a) and (b), and the amendments made by such subsections \[amending this section and sections 8438, 8440a, and 8440b of this title and enacting provisions set out as a note under section 8438 of this title\], shall be effective as of the second election period described in section 8432(b) of title 5, United States Code, beginning after the date of enactment of this Act \[July 17, 1990\], or as of such earlier date as the Executive Director may by regulation prescribe.”
+Pub. L. 101–335, §3(c), July 17, 1990, 104 Stat. 321, provided that: “Subsections (a) and (b), and the amendments made by such subsections \[amending this section and sections 8438, 8440a, and 8440b of this title and enacting provisions set out as a note under section 8438 of this title\], shall be effective as of the second election period described in section 8432(b) of title 5, United States Code, beginning after the date of enactment of this Act \[July 17, 1990\], or as of such earlier date as the Executive Director may by regulation prescribe.”
 
-Section 6(c) of Pub. L. 101–335 provided that: “This section, and the amendments made by this section \[amending this section and sections 8401, 8433, 8435, 8440a, and 8440b of this title and enacting provisions set out as a note under section 8433 of this title\], shall be effective as of the second election period described in section 8432(b) of title 5, United States Code, beginning after the date of enactment of this Act \[July 17, 1990\] (or as of such earlier date as the Executive Director may by regulation prescribe), and shall apply with respect to separations occurring before, on, or after that effective date.”
+Pub. L. 101–335, §6(c), July 17, 1990, 104 Stat. 324, provided that: “This section, and the amendments made by this section \[amending this section and sections 8401, 8433, 8435, 8440a, and 8440b of this title and enacting provisions set out as a note under section 8433 of this title\], shall be effective as of the second election period described in section 8432(b) of title 5, United States Code, beginning after the date of enactment of this Act \[July 17, 1990\] (or as of such earlier date as the Executive Director may by regulation prescribe), and shall apply with respect to separations occurring before, on, or after that effective date.”
 
 #### Effective Date of 1988 Amendment
 
-Section 111(b) of Pub. L. 100–238 provided that: “The amendments made by subsection (a) \[amending this section\] shall be effective as of March 31, 1987. Any refund which becomes payable as a result of the preceding sentence shall, to the extent that such refund involves an individual's contributions to the Thrift Savings Fund (established under section 8437 of title 5, United States Code), be adjusted to reflect any earnings attributable thereto.”
+Pub. L. 100–238, title I, §111(b), Jan. 8, 1988, 101 Stat. 1750, provided that: “The amendments made by subsection (a) \[amending this section\] shall be effective as of March 31, 1987. Any refund which becomes payable as a result of the preceding sentence shall, to the extent that such refund involves an individual's contributions to the Thrift Savings Fund (established under section 8437 of title 5, United States Code), be adjusted to reflect any earnings attributable thereto.”
 
 #### Effective Date
 
@@ -216,5 +216,5 @@ Section effective Jan. 1, 1987, see section 702(a) of Pub. L. 99–335, set out 
 
 #### Period When Election May First Be Made
 
-Section 206(b) of Pub. L. 99–335, as amended by Pub. L. 99–509, title VI, §6001(b), Oct. 21, 1986, 100 Stat. 1930, provided that an election could first be made by a Federal employee or a Member of Congress under 5 U.S.C. 8351 (a)(2) during an election period prescribed by Executive Director of Federal Retirement Thrift Investment Board to begin on Apr. 1, 1987, with such election to take effect on first day of employee's or Member's first pay period which began on or after the date of the election. The maximum amount that an employee or Member could elect to contribute during any pay period which began on or after Apr. 1, 1987, and before Oct. 1, 1987, was an amount equal to 7.5 percent of the individual's basic pay for that period.
+Pub. L. 99–335, title II, §206(b), June 6, 1986, 100 Stat. 594, as amended by Pub. L. 99–509, title VI, §6001(b), Oct. 21, 1986, 100 Stat. 1930, provided that an election could first be made by a Federal employee or a Member of Congress under 5 U.S.C. 8351 (a)(2) during an election period prescribed by Executive Director of Federal Retirement Thrift Investment Board to begin on Apr. 1, 1987, with such election to take effect on first day of employee's or Member's first pay period which began on or after the date of the election. The maximum amount that an employee or Member could elect to contribute during any pay period which began on or after Apr. 1, 1987, and before Oct. 1, 1987, was an amount equal to 7.5 percent of the individual's basic pay for that period.
 

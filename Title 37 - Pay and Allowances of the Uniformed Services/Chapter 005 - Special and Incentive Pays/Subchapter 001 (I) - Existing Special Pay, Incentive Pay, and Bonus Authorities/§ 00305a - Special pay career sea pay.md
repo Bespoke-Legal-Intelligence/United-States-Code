@@ -64,7 +64,7 @@ Subsec. (d)(1)(B). Pub. L. 105–85, §620(2), struck out “or ship-based staff
 
 Subsec. (d)(2) to (4). Pub. L. 105–85, §620(3), (4), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
-<b>1996</b>—Subsec. (d)(1)(A). Pub. L. 104–106 amended subpar. (A) generally. Prior to amendment, subpar. (A)read as follows: “while permanently or temporarily assigned to a ship, ship-based staff, or ship-based aviation unit and while serving on a ship the primary mission of which is accomplished while under way or while serving as a member of the off-crew of a two-crewed submarine; or”.
+<b>1996</b>—Subsec. (d)(1)(A). Pub. L. 104–106 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “while permanently or temporarily assigned to a ship, ship-based staff, or ship-based aviation unit and while serving on a ship the primary mission of which is accomplished while under way or while serving as a member of the off-crew of a two-crewed submarine; or”.
 
 <b>1991</b>—Subsec. (a). Pub. L. 102–25 struck out “of this section” after “subsection (b)”.
 
@@ -116,7 +116,7 @@ Amendment by Pub. L. 102–190 effective Feb. 1, 1992, see section 1132 of Pub. 
 
 #### Effective Date of 1987 Amendment; Save Pay; Definitions
 
-Section 621(d)–(f) of Pub. L. 100–180 provided that:
+Pub. L. 100–180, div. A, title VI, §621(d)–(f), Dec. 4, 1987, 101 Stat. 1100, provided that:
 
 “(d)
 
@@ -126,7 +126,7 @@ Save Pay.—A member of the uniformed services who at any time during the three-
 
 Effective Date.—(1) Except as provided under paragraph (2), the amendments made by this section \[amending this section\] shall take effect on the first day of the first month beginning after the date of the enactment of this Act \[Dec. 4, 1987\] and shall apply with respect to duty performed on or after that date.
 
-“(2) The new rates of career sea pay that are applicable to enlisted members in pay grades above pay gradeE-4 who have five or more years of sea duty and the amendment made by subsection (b) \[amending this section\] shall take effect on the first day of the fourth month beginning after the effective date specified under paragraph (1). In the case of such members, the old rates of career sea pay shall remain in effect until the new rates take effect under the preceding sentence.
+“(2) The new rates of career sea pay that are applicable to enlisted members in pay grades above pay grade E-4 who have five or more years of sea duty and the amendment made by subsection (b) \[amending this section\] shall take effect on the first day of the fourth month beginning after the effective date specified under paragraph (1). In the case of such members, the old rates of career sea pay shall remain in effect until the new rates take effect under the preceding sentence.
 
 “(f)
 
@@ -140,21 +140,21 @@ Definitions.—For purposes of subsections (d) and (e):
 
 #### Effective Date of 1985 Amendment
 
-Section 634(b) of Pub. L. 99–145 provided that: “The amendment made by this section \[amending this section\] shall take effect on October 1, 1985.”
+Pub. L. 99–145, title VI, §634(b), Nov. 8, 1985, 99 Stat. 647, provided that: “The amendment made by this section \[amending this section\] shall take effect on October 1, 1985.”
 
 #### Effective Date of 1984 Amendment
 
-Section 623(c) of Pub. L. 98–525 provided that: “The amendments made by this section \[amending this section and section 307 of this title\] shall take effect on October 1, 1984.”
+Pub. L. 98–525, title VI, §623(c), Oct. 19, 1984, 98 Stat. 2542, provided that: “The amendments made by this section \[amending this section and section 307 of this title\] shall take effect on October 1, 1984.”
 
 #### Effective Date of 1980 Amendments
 
-Section 4(b) of Pub. L. 96–579 provided: “The amendment made by this section \[amending this section\] shall be effective with respect to special pay payable under section 305a of title 37, United States Code, for months after the month in which this section is enacted \[December 1980\].”
+Pub. L. 96–579, §4(b), Dec. 23, 1980, 94 Stat. 3366, provided: “The amendment made by this section \[amending this section\] shall be effective with respect to special pay payable under section 305a of title 37, United States Code, for months after the month in which this section is enacted \[December 1980\].”
 
-Section 3(c) of Pub. L. 96–343 provided that: “The amendments made by this section \[amending this section and repealing section 804(a)(2) of Pub. L. 95–485, formerly set out as a note below\] shall be effective with respect to special pay payable under section 305a of title 37, United States Code, for months after August 1980.”
+Pub. L. 96–343, §3(c), Sept. 8, 1980, 94 Stat. 1124, provided that: “The amendments made by this section\[amending this section and repealing section 804(a)(2) of Pub. L. 95–485, formerly set out as a note below\] shall be effective with respect to special pay payable under section 305a of title 37, United States Code, for months after August 1980.”
 
 #### Effective Date
 
-Section 804(a)(1) of Pub. L. 95–485 provided that this section is effective Oct. 1, 1978.
+Pub. L. 95–485, title VIII, §804(a)(1), Oct. 20, 1978, 92 Stat. 1620, provided that this section is effective Oct. 1, 1978.
 
 #### Repeals
 
@@ -162,5 +162,5 @@ Pub. L. 95–485, title VIII, §804(a)(2), Oct. 20, 1978, 92 Stat. 1620, which a
 
 #### Determination of Amount of Sea Credit; Periods Prior to October 1, 1978
 
-Section 804(a)(3) of Pub. L. 95–485 provided that: “In determining the amount of sea duty to be credited to an enlisted member of a uniformed service for purposes of section 305a of title 37, United States Code (as added by paragraph (1)), the Secretary concerned shall credit such member with all periods of service by such member before October 1, 1978, during which such member served in a sea duty status.”
+Pub. L. 95–485, title VIII, §804(a)(3), Oct. 20, 1978, 92 Stat. 1620, provided that: “In determining the amount of sea duty to be credited to an enlisted member of a uniformed service for purposes of section 305a of title 37, United States Code (as added by paragraph (1)), the Secretary concerned shall credit such member with all periods of service by such member before October 1, 1978, during which such member served in a sea duty status.”
 

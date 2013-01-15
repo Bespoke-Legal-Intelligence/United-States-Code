@@ -232,7 +232,7 @@ In subsection (d)(3), the word “both” in 49 App.:1303(c) is omitted as surpl
 
 In subsection (d)(5), the word “both” in 49 App.:1303(e) is omitted as surplus.
 
-In subsection (e), before clause (1), the words “the Congress intends that” are omitted as surplus. Inclauses (1) and (4), the words “United States” are omitted as surplus because of the definition of “air carrier” in section 40102(a) of the revised title. In clause (2), the word “prices” is substituted for “fares and rates” because of the definition of “price” in section 40102(a). In clause (8), the words “places in the United States” are substituted for “United States points” for consistency in this chapter. The word “air” is added for clarity and consistency in this subtitle. In clause (9)(C), the word “unreasonable” is substituted for “undue” for consistency in the revised title and with other titles of the United States Code.
+In subsection (e), before clause (1), the words “the Congress intends that” are omitted as surplus. In clauses (1) and (4), the words “United States” are omitted as surplus because of the definition of “air carrier” in section 40102(a) of the revised title. In clause (2), the word “prices” is substituted for “fares and rates” because of the definition of “price” in section 40102(a). In clause (8), the words “places in the United States” are substituted for “United States points” for consistency in this chapter. The word “air” is added for clarity and consistency in this subtitle. In clause (9)(C), the word “unreasonable” is substituted for “undue” for consistency in the revised title and with other titles of the United States Code.
 
 #### Amendments
 
@@ -246,6 +246,10 @@ Subsec. (d)(3). Pub. L. 104–264, §401(a)(1)(A), (2)(B), redesignated par. (2)
 
 Subsec. (d)(4) to (7). Pub. L. 104–264, §401(a)(1)(A), redesignated pars. (3) to (6) as (4) to (7), respectively.
 
+#### Effective Date of 2012 Amendment
+
+Pub. L. 112–95, §3, Feb. 14, 2012, 126 Stat. 15, provided that: “Except as otherwise expressly provided, this Act \[see Tables for classification\] and the amendments made by this Act shall take effect on the date of enactment of this Act \[Feb. 14, 2012\].”
+
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
@@ -254,7 +258,17 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 
 Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
+#### Short Title of 2013 Amendment
+
+Pub. L. 112–271, §1, Jan. 14, 2013, 126 Stat. 2446, provided that: “This Act \[amending section 44945 of this title\] may be cited as the ‘Clothe a Homeless Hero Act’.”
+
 #### Short Title of 2012 Amendment
+
+Pub. L. 112–218, §1, Dec. 20, 2012, 126 Stat. 1593, provided that: “This Act \[amending section 44901 of this title\] may be cited as the ‘No-Hassle Flying Act of 2012’.”
+
+Pub. L. 112–153, §1, Aug. 3, 2012, 126 Stat. 1159, provided that: “This Act \[amending sections 44703, 44709, and 44710 of this title and enacting provisions set out as notes under sections 44701 and 44703 of this title\] may be cited as the ‘Pilot's Bill of Rights’.”
+
+Pub. L. 112–95, §1(a), Feb. 14, 2012, 126 Stat. 11, provided that: “This Act \[see Tables for classification\] may be cited as the ‘FAA Modernization and Reform Act of 2012’.”
 
 Pub. L. 112–86, §1, Jan. 3, 2012, 125 Stat. 1874, provided that: “This Act \[amending section 44903 of this title and enacting provisions set out as a note under section 44903 of this title\] may be cited as the ‘Risk-Based Security Screening for Members of the Armed Forces Act’.”
 
@@ -270,7 +284,7 @@ Pub. L. 110–113, §1, Nov. 8, 2007, 121 Stat. 1039, provided that: “This Act
 
 #### Short Title of 2004 Amendment
 
-Pub. L. 108–297, §1, Aug. 9, 2004, 118 Stat. 1095, provided that: “This Act \[enacting section 44113 of this title, amending sections 44107 and 44108 of this title, and enacting provisions set out as notes under section 44101 of this title\] may be cited as ‘Cape Town Treaty Implementation Act of 2004’.”
+Pub. L. 108–297, §1, Aug. 9, 2004, 118 Stat. 1095, provided that: “This Act \[enacting section 44113 of thistitle, amending sections 44107 and 44108 of this title, and enacting provisions set out as notes under section 44101 of this title\] may be cited as ‘Cape Town Treaty Implementation Act of 2004’.”
 
 #### Short Title of 2003 Amendment
 
@@ -306,27 +320,1045 @@ Pub. L. 105–137, §1, Dec. 2, 1997, 111 Stat. 2640, provided that: “This Act
 
 #### Short Title of 1996 Amendment
 
-Section 1(a) of Pub. L. 104–264 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Federal Aviation Reauthorization Act of 1996’.”
+Pub. L. 104–264, §1(a), Oct. 9, 1996, 110 Stat. 3213, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Federal Aviation Reauthorization Act of 1996’.”
 
-Section 201 of title II of Pub. L. 104–264 provided that: “This title \[enacting sections 40121, 40122, 45301, 45303, 48111, and 48201 of this title, amending sections 106 and41742 of this title, renumbering section 45303 of this title as section 45304, repealing former section 45301 of this title, and enacting provisions set out as notes under this section and sections 106, 40110, and 41742 of this title\] may be cited as the ‘Air Traffic Management System Performance Improvement Act of 1996’.”
+Pub. L. 104–264, title II, §201, Oct. 9, 1996, 110 Stat. 3227, provided that: “This title \[enacting sections 40121, 40122, 45301, 45303, 48111, and 48201 of this title, amending sections 106 and 41742 of this title, renumbering section 45303 of this title as section 45304, repealing former section 45301 of this title, and enacting provisions set out as notes under this section and sections 106, 40110, and 41742 of this title\] may be cited as the ‘Air Traffic Management System Performance Improvement Act of 1996’.”
 
-Section 278(a) of Pub. L. 104–264 provided that: “This section \[amending section 41742 of this title and enacting provisions set out as a note under section 41742 of this title\] may be cited as the ‘Rural Air Service Survival Act’.”
+Pub. L. 104–264, title II, §278(a), Oct. 9, 1996, 110 Stat. 3249, provided that: “This section \[amending section 41742 of this title and enacting provisions set out as a note under section 41742 of this title\] may be cited as the ‘Rural Air Service Survival Act’.”
 
-Section 501 of title V of Pub. L. 104–264 provided that: “This title \[amending sections 30305, 44936, and 46301 of this title and enacting provisions set out as notes under sections 30305 and 44935 of this title\] may be cited as the ‘Pilot Records Improvement Act of 1996’.”
+Pub. L. 104–264, title V, §501, Oct. 9, 1996, 110 Stat. 3259, provided that: “This title \[amending sections 30305, 44936, and 46301 of this title and enacting provisions set out as notes under sections 30305 and 44935 of this title\] may be cited as the ‘Pilot Records Improvement Act of 1996’.”
 
-Section 601 of title VI of Pub. L. 104–264 provided that: “This title \[enacting section 44724 of this title\] may be cited as the ‘Child Pilot Safety Act’.”
+Pub. L. 104–264, title VI, §601, Oct. 9, 1996, 110 Stat. 3263, provided that: “This title \[enacting section 44724 of this title\] may be cited as the ‘Child Pilot Safety Act’.”
 
-Section 701 of title VII of Pub. L. 104–264 provided that: “This title \[enacting sections 1136 and 41113 of this title and provisions set out as notes under section 41113 of this title\] may be cited as the ‘Aviation Disaster Family Assistance Act of 1996’.”
+Pub. L. 104–264, title VII, §701, Oct. 9, 1996, 110 Stat. 3264, provided that: “This title \[enacting sections 1136 and 41113 of this title and provisions set out as notes under section 41113 of this title\] may be cited as the ‘Aviation Disaster Family Assistance Act of 1996’.”
 
-Section 801 of title VIII of Pub. L. 104–264 provided that: “This title \[enacting section 47133 of this title, amending sections 46301 and 47107 of this title and section 9502 of Title 26, Internal Revenue Code, and enacting provisions set out as notes under section 47107 of this title\] may be cited as the ‘Airport Revenue Protection Act of 1996’.”
+Pub. L. 104–264, title VIII, §801, Oct. 9, 1996, 110 Stat. 3269, provided that: “This title \[enacting section 47133 of this title, amending sections 46301 and 47107 of this title and section 9502 of Title 26, Internal Revenue Code, and enacting provisions set out as notes under section 47107 of this title\] may be cited as the ‘Airport Revenue Protection Act of 1996’.”
 
-Section 1101 of title XI of Pub. L. 104–264 provided that: “This title \[amending sections 44501, 44508, and 48102 of this title\] may be cited as the ‘FAA Research, Engineering, and Development Management Reform Act of 1996’.”
+Pub. L. 104–264, title XI, §1101, Oct. 9, 1996, 110 Stat. 3278, provided that: “This title \[amending sections 44501, 44508, and 48102 of this title\] may be cited as the ‘FAA Research, Engineering, and Development Management Reform Act of 1996’.”
 
 #### Short Title of 1994 Amendment
 
 Pub. L. 103–305, §1(a), Aug. 23, 1994, 108 Stat. 1569, provided that: “This Act \[enacting sections 41311, 41714, 41715, 47129, 47130, and 47509 of this title, amending sections 106, 10521, 11501, 40102, 40113, 40116, 40117, 41713, 41734, 44502, 44505, 44938, 45301, 46301, 47101, 47102, 47104 to 47107, 47109 to 47111, 47115, 47117 to 47119, 47504, 48101 to 48104, and 48108 of this title and section 9502 of Title 26, Internal Revenue Code, renumbering former section 47129 of this title as section 47131 of this title, enacting provisions set out as notes under this section and sections 10521, 11501, 40102, 40105, 40117, 41311, 41715, 44502, 45102, 47101, 47107, 47124, and 49101 of this title, and repealing provisions set out as a note under section 1348 of former Title 49, Transportation\] may be cited as the ‘Federal Aviation Administration Authorization Act of 1994’.”
 
 Pub. L. 103–305, title III, §301, Aug. 23, 1994, 108 Stat. 1589, provided that: “This title \[enacting section 47509 of this title, amending sections 44505 and 48102 of this title, and enacting provisions set out as notes under this section and section 49101 of this title\] may be cited as the ‘Federal Aviation Administration Research, Engineering, and Development Authorization Act of 1994’.”
+
+#### Interagency Collaboration
+
+Pub. L. 112–239, div. A, title X, §1052(b), (c), Jan. 2, 2013, 126 Stat. 1935, 1936, provided that:
+
+“(b)
+
+Interagency Collaboration.—
+
+&emsp;“(1)
+
+In general.—The Secretary of Defense shall collaborate with the Administrator of the Federal Aviation Administration and the Administrator of the National Aeronautics and Space Administration to conduct research and seek solutions to challenges associated with the safe integration of unmanned aircraft systems into the National Airspace System in accordance with subtitle B of title III of the FAAModernization and Reform Act of 2012 (Public Law 112–95; 126 Stat. 72) \[set out as a note below\].
+
+&emsp;“(2)
+
+Activities in support of plan on access to national airspace for unmanned aircraft systems.—Collaboration under paragraph (1) may include research and development of scientific and technical issues, equipment, and technology in support of the plan to safely accelerate the integration of unmanned aircraft systems as required by subtitle B of title III of the FAA Modernization and Reform Act of 2012.
+
+&emsp;“(3)
+
+Nonduplicative efforts.—If the Secretary of Defense determines it is in the interest of the Department of Defense, the Secretary may use existing aerospace-related laboratories, personnel, equipment, research radars, and ground facilities of the Department of Defense to avoid duplication of efforts in carrying out collaboration under paragraph (1).
+
+&emsp;“(4)
+
+Reports.—
+
+&emsp;&emsp;“(A)
+
+Requirement.—The Secretary of Defense, on behalf of the UAS Executive Committee, shall annually submit to the congressional defense committees, the Committee on Transportation and Infrastructure, and the Committee on Science, Space, and Technology of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate a report on the progress of research activity of the Department of Defense, including—
+
+&emsp;&emsp;&emsp;“(i) progress in accomplishing the goals of the unmanned aircraft systems research, development, and demonstration as related to the Department of Defense Final Report to Congress on Access to National Airspace for Unmanned Aircraft Systems of October 2010, and any ongoing and collaborative research and development programs with the Federal Aviation Administration and the National Aeronautics and Space Administration;
+
+&emsp;&emsp;&emsp;“(ii) estimates of long-term funding needs and details of funds expended and allocated in the budget requests of the President that support integration into the National Airspace; and
+
+&emsp;&emsp;&emsp;“(iii) progress in sharing with the Federal Aviation Administration safety operational and performance data as it relates to unmanned aircraft system operation and the impact on the National Airspace System.
+
+&emsp;&emsp;“(B)
+
+Termination.—The requirement to submit a report under subparagraph (A) shall terminate on the date that is 5 years after the date of the enactment of this Act \[Jan. 2, 2013\].
+
+“(c)
+
+UAS Executive Committee Defined.—In this section, the term ‘UAS Executive Committee’ means the National Aeronautics and Space and \[sic\] Administration and the Department of Defense–Federal Aviation Administration executive committee described in section 1036(b) of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 \[Pub. L. 110–417; 122 Stat. 4597\] and established by the Secretary of Defense and the Administrator of the Federal Aviation Administration.”
+
+#### Prohibition on Participation in European Union's Emissions Trading Scheme
+
+Pub. L. 112–200, Nov. 27, 2012, 126 Stat. 1477, provided that:
+
+#### “SECTION 1. SHORT TITLE.
+
+“This Act may be cited as the ‘European Union Emissions Trading Scheme Prohibition Act of 2011’.
+
+#### “SEC. 2. PROHIBITION ON PARTICIPATION IN THE EUROPEAN UNION'S EMISSIONS TRADING SCHEME.
+
+“(a)
+
+In General.—The Secretary of Transportation shall prohibit an operator of a civil aircraft of the United States from participating in the emissions trading scheme unilaterally established by the European Union in EU Directive 2003/87/EC of October 13, 2003, as amended, in any case in which the Secretary determines the prohibition to be, and in a manner that is, in the public interest, taking into account—
+
+&emsp;“(1) the impacts on U.S. consumers, U.S. carriers, and U.S. operators;
+
+&emsp;“(2) the impacts on the economic, energy, and environmental security of the United States; and
+
+&emsp;“(3) the impacts on U.S. foreign relations, including existing international commitments.
+
+“(b)
+
+Public Hearing.—After determining that a prohibition under this section may be in the public interest, the Secretary must hold a public hearing at least 30 days before imposing any prohibition.
+
+“(c)
+
+Reassessment of Determination of Public Interest.—The Secretary—
+
+&emsp;“(1) may reassess a determination under subsection (a) that a prohibition under that subsection is in the public interest at any time after making such a determination; and
+
+&emsp;“(2) shall reassess such a determination after—
+
+&emsp;&emsp;“(A) any amendment by the European Union to the EU Directive referred to in subsection (a); or
+
+&emsp;&emsp;“(B) the adoption of any international agreement pursuant to section 3(1). \[sic\]
+
+&emsp;&emsp;“(C) enactment of a public law or issuance of a final rule after formal agency rulemaking, in the United State\[s\] to address aircraft emissions.
+
+#### “SEC. 3. NEGOTIATIONS.
+
+“(a)
+
+In General.—The Secretary of Transportation, the Administrator of the Federal Aviation Administration, and other appropriate officials of the United States Government—
+
+&emsp;“(1) should, as appropriate, use their authority to conduct international negotiations, including using their authority to conduct international negotiations to pursue a worldwide approach to address aircraft emissions, including the environmental impact of aircraft emissions; and
+
+&emsp;“(2) shall, as appropriate and except as provided in subsection (b), take other actions under existing authorities that are in the public interest necessary to hold operators of civil aircraft of the United States harmless from the emissions trading scheme referred to under section 2.
+
+“(b)
+
+Exclusion of Payment of Taxes and Penalties.—Actions taken under subsection (a)(2) may not include the obligation or expenditure of any amounts in the Airport and Airway Trust Fund established under section 9905 \[9502\] of the Internal Revenue Code of 1986 \[26 U.S.C. 9502\], or amounts otherwise made available to the Department of Transportation or any other Federal agency pursuant to appropriations Acts, for the payment of any tax or penalty imposed on an operator of civil aircraft of the United States pursuant to the emissions trading scheme referred to under section 2.
+
+#### “SEC. 4. DEFINITION OF CIVIL AIRCRAFT OF THE UNITED STATES.
+
+“In this Act, the term ‘civil aircraft of the United States’ has the meaning given the term under section 40102(a) of title 49, United States Code.”
+
+#### NextGen Air Transportation System and Air Traffic Control Modernization
+
+Pub. L. 112–95, title II, §§201, 202, 211–222, Feb. 14, 2012, 126 Stat. 36, 44–54, provided that:
+
+#### “SEC. 201. DEFINITIONS.
+
+“In this title \[amending sections 106, 40102, 40110, and 40113 of this title, enacting provisions set out as notes under this section and sections 106 and 44506 of this title, and amending provisions set out as notes under this section\], the following definitions apply:
+
+&emsp;“(1)
+
+Nextgen.—The term ‘NextGen’ means the Next Generation Air Transportation System.
+
+&emsp;“(2)
+
+ADS–B.—The term ‘ADS–B’ means automatic dependent surveillance-broadcast.
+
+&emsp;“(3)
+
+ADS–B Out.—The term ‘ADS–B Out’ means automatic dependent surveillance-broadcast with theability to transmit information from the aircraft to ground stations and to other equipped aircraft.
+
+&emsp;“(4)
+
+ADS–B In.—The term ‘ADS–B In’ means automatic dependent surveillance-broadcast with the ability to transmit information from the aircraft to ground stations and to other equipped aircraft as well as the ability of the aircraft to receive information from other transmitting aircraft and the ground infrastructure.
+
+&emsp;“(5)
+
+RNAV.—The term ‘RNAV’ means area navigation.
+
+&emsp;“(6)
+
+RNP.—The term ‘RNP’ means required navigation performance.
+
+#### “SEC. 202. NEXTGEN DEMONSTRATIONS AND CONCEPTS.
+
+“In allocating amounts appropriated pursuant to section 48101(a) of title 49, United States Code, the Secretary of Transportation shall give priority to the following NextGen activities:
+
+&emsp;“(1) Next Generation Transportation System—Demonstrations and Infrastructure Development.
+
+&emsp;“(2) Next Generation Transportation System—Trajectory Based Operations.
+
+&emsp;“(3) Next Generation Transportation System—Reduce Weather Impact.
+
+&emsp;“(4) Next Generation Transportation System—Arrivals/Departures at High Density Airports.
+
+&emsp;“(5) Next Generation Transportation System—Collaborative ATM.
+
+&emsp;“(6) Next Generation Transportation System—Flexible Terminals and Airports.
+
+&emsp;“(7) Next Generation Transportation System—Safety, Security, and Environment.
+
+&emsp;“(8) Next Generation Transportation System—Systems Network Facilities.
+
+&emsp;“(9) Center for Advanced Aviation System Development.
+
+&emsp;“(10) Next Generation Transportation System—System Development.
+
+&emsp;“(11) Data Communications in support of Next Generation Air Transportation System.
+
+&emsp;“(12) ADS–B NAS-Wide Implementation.
+
+&emsp;“(13) System-Wide Information Management.
+
+&emsp;“(14) Next Generation Transportation System—Facility Consolidation and Realignment.
+
+&emsp;“(15) En Route Modernization—D-Position Upgrade and System Enhancements.
+
+&emsp;“(16) National Airspace System Voice System.
+
+&emsp;“(17) Next Generation Network Enabled Weather.
+
+&emsp;“(18) NextGen Performance Based Navigation Metroplex Area Navigation/Required Navigation Performance.
+
+#### “SEC. 211. AUTOMATIC DEPENDENT SURVEILLANCE-BROADCAST SERVICES.
+
+“(a)
+
+Review by DOT Inspector General.—
+
+&emsp;“(1)
+
+In general.—The Inspector General of the Department of Transportation shall conduct a review concerning the Federal Aviation Administration's award and oversight of any contracts entered into by the Administration to provide ADS–B services for the national airspace system.
+
+&emsp;“(2)
+
+Contents.—The review shall include, at a minimum—
+
+&emsp;&emsp;“(A) an examination of how the Administration manages program risks;
+
+&emsp;&emsp;“(B) an assessment of expected benefits attributable to the deployment of ADS–B services, including the Administration's plans for implementation of advanced operational procedures and air-to-air applications, as well as the extent to which ground radar will be retained;
+
+&emsp;&emsp;“(C) an assessment of the Administration's analysis of specific operational benefits, and benefit/costs analyses of planned operational benefits conducted by the Administration, for ADS–B In and ADS–B Out avionics equipage for airspace users;
+
+&emsp;&emsp;“(D) a determination of whether the Administration has established sufficient mechanisms to ensure that all design, acquisition, operation, and maintenance requirements have been met by the contractor;
+
+&emsp;&emsp;“(E) an assessment of whether the Administration and any contractors are meeting cost, schedule, and performance milestones, as measured against the original baseline of the Administration's program for providing ADS–B services;
+
+&emsp;&emsp;“(F) an assessment of how security issues are being addressed in the overall design and implementation of the ADS–B system;
+
+&emsp;&emsp;“(G) identification of any potential operational or workforce changes resulting from deployment of ADS–B; and
+
+&emsp;&emsp;“(H) any other matters or aspects relating to contract implementation and oversight that the Inspector General determines merit attention.
+
+&emsp;“(3)
+
+Reports to congress.—The Inspector General shall submit, periodically (and on at least an annual basis), to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the results of the review conducted under this subsection.
+
+“(b)
+
+Rulemaking.—
+
+&emsp;“(1)
+
+ADS–B In.—Not later than 1 year after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator of the Federal Aviation Administration shall initiate a rulemaking proceeding to issue guidelines and regulations relating to ADS–B In technology that—
+
+&emsp;&emsp;“(A) identify the ADS–B In technology that will be required under NextGen;
+
+&emsp;&emsp;“(B) subject to paragraph (2), require all aircraft operating in capacity constrained airspace, at capacity constrained airports, or in any other airspace deemed appropriate by the Administrator to be equipped with ADS–B In technology by 2020; and
+
+&emsp;&emsp;“(C) identify—
+
+&emsp;&emsp;&emsp;“(i) the type of avionics required of aircraft for all classes of airspace;
+
+&emsp;&emsp;&emsp;“(ii) the expected costs associated with the avionics; and
+
+&emsp;&emsp;&emsp;“(iii) the expected uses and benefits of the avionics.
+
+&emsp;“(2)
+
+Readiness verification.—Before the Administrator completes an ADS–B In equipage rulemaking proceeding or issues an interim or final rule pursuant to paragraph (1), the Chief NextGen Officer shall verify that—
+
+&emsp;&emsp;“(A) the necessary ground infrastructure is installed and functioning properly;
+
+&emsp;&emsp;“(B) certification standards have been approved; and
+
+&emsp;&emsp;“(C) appropriate operational platforms interface safely and efficiently.
+
+“(c)
+
+Use of ADS–B Technology.—
+
+&emsp;“(1)
+
+Plans.—Not later than 18 months after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator shall develop, in consultation with appropriate employee and industry groups, a plan for the use of ADS–B technology for surveillance and active air traffic control.
+
+&emsp;“(2)
+
+Contents.—The plan shall—
+
+&emsp;&emsp;“(A) include provisions to test the use of ADS–B technology for surveillance and active air traffic control in specific regions of the United States with the most congested airspace;
+
+&emsp;&emsp;“(B) identify the equipment required at air traffic control facilities and the training required for air traffic controllers;
+
+&emsp;&emsp;“(C) identify procedures, to be developed in consultation with appropriate employee and industry groups, to conduct air traffic management in mixed equipage environments; and
+
+&emsp;&emsp;“(D) establish a policy in test regions referred to in subparagraph (A), in consultation with appropriate employee and industry groups, to provide incentives for equipage with ADS–B technology, including giving priority to aircraft equipped with such technology before the 2020 equipage deadline.
+
+#### “SEC. 212. EXPERT REVIEW OF ENTERPRISE ARCHITECTURE FOR NEXTGEN.
+
+“(a)
+
+Review.—The Administrator of the Federal Aviation Administration shall enter into an arrangement with the National Research Council to review the enterprise architecture for the NextGen.
+
+“(b)
+
+Contents.—At a minimum, the review to be conducted under subsection (a) shall—
+
+&emsp;“(1) highlight the technical activities, including human-system design, organizational design, and other safety and human factor aspects of the system, that will be necessary to successfully transition current and planned modernization programs to the future system envisioned by the Joint Planning and Development Office of the Administration;
+
+&emsp;“(2) assess technical, cost, and schedule risk for the software development that will be necessary to achieve the expected benefits from a highly automated air traffic management system and the implications for ongoing modernization projects; and
+
+&emsp;“(3) determine how risks with automation efforts for the NextGen can be mitigated based on the experiences of other public or private entities in developing complex, software-intensive systems.
+
+“(c)
+
+Report.—Not later than 1 year after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing the results of the review conducted pursuant to subsection (a).
+
+#### “SEC. 213. ACCELERATION OF NEXTGEN TECHNOLOGIES.
+
+“(a)
+
+Operational Evolution Partnership (OEP) Airport Procedures.—
+
+&emsp;“(1)
+
+OEP airports report.—Not later than 6 months after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator of the Federal Aviation Administration shall publish a report, after consultation with representatives of appropriate Administration employee groups, airport operators, air carriers, general aviation representatives, aircraft and avionics manufacturers, and third parties that have received letters of qualification from the Administration to design and validate required navigation performance flight paths for public use (in this section referred to as ‘qualified third parties’) that includes the following:
+
+&emsp;&emsp;“(A)
+
+RNP/RNAV operations for oep airports.—The required navigation performance and area navigation operations, including the procedures to be developed, certified, and published and the air traffic control operational changes, to maximize the fuel efficiency and airspace capacity of NextGen commercial operations at each of the 35 operational evolution partnership airports identified by the Administration and any medium or small hub airport located within the same metroplex area considered appropriate by the Administrator. The Administrator shall, to the maximum extent practicable, avoid overlays of existing flight procedures, but if unavoidable, the Administrator shall clearly identify each required navigation performance and area navigation procedure that is an overlay of an existing instrument flight procedure and the reason why such an overlay was used.
+
+&emsp;&emsp;“(B)
+
+Coordination and implementation activities for oep airports.—A description of the activities and operational changes and approvals required to coordinate and utilize the procedures at OEP airports.
+
+&emsp;&emsp;“(C)
+
+Implementation plan for oep airports.—A plan for implementing the procedures for OEP airports under subparagraph (A) that establishes—
+
+&emsp;&emsp;&emsp;“(i) clearly defined budget, schedule, project organization, and leadership requirements;
+
+&emsp;&emsp;&emsp;“(ii) specific implementation and transition steps;
+
+&emsp;&emsp;&emsp;“(iii) baseline and performance metrics for—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) measuring the Administration's progress in implementing the plan, including the percentage utilization of required navigation performance in the national airspace system; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) achieving measurable fuel burn and carbon dioxide emissions reductions compared to current performance;
+
+&emsp;&emsp;&emsp;“(iv) expedited environmental review procedures and processes for timely environmental approval of area navigation and required navigation performance that offer significant efficiency improvements as determined by baseline and performance metrics under clause (iii);
+
+&emsp;&emsp;&emsp;“(v) coordination and communication mechanisms with qualified third parties, if applicable;
+
+&emsp;&emsp;&emsp;“(vi) plans to address human factors, training, and other issues for air traffic controllers surrounding the adoption of RNP procedures in the en route and terminal environments, including in a mixed operational environment; and
+
+&emsp;&emsp;&emsp;“(vii) a lifecycle management strategy for RNP procedures to be developed by qualified third parties, if applicable.
+
+&emsp;&emsp;“(D)
+
+Additional procedures for oep airports.—A process for the identification, certification, and publication of additional required navigation performance and area navigation procedures that may provide operational benefits at OEP airports, and any medium or small hub airport located within the same metroplex area as the OEP airport, in the future.
+
+&emsp;“(2)
+
+Implementation schedule for oep airports.—The Administrator shall certify, publish, and implement—
+
+&emsp;&emsp;“(A) not later than 18 months after the date of enactment of this Act \[Feb. 14, 2012\], 30 percent of the required procedures at OEP airports;
+
+&emsp;&emsp;“(B) not later than 36 months after the date of enactment of this Act, 60 percent of the required procedures at OEP airports; and
+
+&emsp;&emsp;“(C) before June 30, 2015, 100 percent of the required procedures at OEP airports.
+
+“(b)
+
+Non-OEP Airports.—
+
+&emsp;“(1)
+
+Non-OEP airports report.—Not later than 6 months after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator of the Federal Aviation Administration shall publish a report, after consultation with representatives of appropriate Administration employee groups, airport operators, air carriers, general aviation representatives, aircraft and avionics manufacturers, and third parties that have received letters of qualification from the Administration to design and validate required navigation performance flight paths for public use (in this section referred to as ‘qualified third parties’) that includes the following:
+
+&emsp;&emsp;“(A)
+
+RNP operations for non-oep airports.—A list of required navigation performance procedures (as defined in FAA order 8260.52(d)) to be developed, certified, and published, and the air traffic control operational changes, to maximize the fuel efficiency and airspace capacity of NextGen commercial operations at 35 non-OEP small, medium, and large hub airports other than those referred to in subsection (a)(1). The Administrator shall choose such non-OEP airports considered appropriate by the Administrator to produce maximum operational benefits, including improved fuel efficiency and emissions reductions that do not have public RNP procedures that produce such benefits on the date of enactment of this Act. The Administrator shall, to the maximum extent practicable, avoid overlays of existing flight procedures, but if unavoidable, the Administrator shall clearly identify each required navigation performance procedure that is an overlay of an existing instrument flight procedure and the reason why such an overlay was used.
+
+&emsp;&emsp;“(B)
+
+Coordination and implementation activities for non-oep airports.—A description of theactivities and operational changes and approvals required to coordinate and to utilize the procedures required by subparagraph (A) at each of the airports described in such subparagraph.
+
+&emsp;&emsp;“(C)
+
+Implementation plan for non-oep airports.—A plan for implementation of the procedures required by subparagraph (A) that establishes—
+
+&emsp;&emsp;&emsp;“(i) clearly defined budget, schedule, project organization, and leadership requirements;
+
+&emsp;&emsp;&emsp;“(ii) specific implementation and transition steps;
+
+&emsp;&emsp;&emsp;“(iii) coordination and communications mechanisms with qualified third parties;
+
+&emsp;&emsp;&emsp;“(iv) plans to address human factors, training, and other issues for air traffic controllers surrounding the adoption of RNP procedures in the en route and terminal environments, including in a mixed operational environment;
+
+&emsp;&emsp;&emsp;“(v) baseline and performance metrics for—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) measuring the Administration's progress in implementing the plan, including the percentage utilization of required navigation performance in the national airspace system; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) achieving measurable fuel burn and carbon dioxide emissions reduction compared to current performance;
+
+&emsp;&emsp;&emsp;“(vi) expedited environmental review procedures and processes for timely environmental approval of area navigation and required navigation performance that offer significant efficiency improvements as determined by baseline and performance metrics established under clause (v);
+
+&emsp;&emsp;&emsp;“(vii) a description of the software and database information, such as a current version of the Noise Integrated Routing System or the Integrated Noise Model that the Administration will need to make available to qualified third parties to enable those third parties to design procedures that will meet the broad range of requirements of the Administration; and
+
+&emsp;&emsp;&emsp;“(viii) lifecycle management strategy for RNP procedures to be developed by qualified third parties, if applicable.
+
+&emsp;&emsp;“(D)
+
+Additional procedures for non-oep airports.—A process for the identification, certification, and publication of additional required navigation performance procedures that may provide operational benefits at non-OEP airports in the future.
+
+&emsp;“(2)
+
+Implementation schedule for non-oep airports.—The Administrator shall certify, publish, and implement—
+
+&emsp;&emsp;“(A) not later than 18 months after the date of enactment of this Act \[Feb. 14, 2012\], 25 percent of the required procedures for non-OEP airports;
+
+&emsp;&emsp;“(B) not later than 36 months after the date of enactment of this Act, 50 percent of the required procedures for non-OEP airports; and
+
+&emsp;&emsp;“(C) before June 30, 2016, 100 percent of the required procedures for non-OEP airports.
+
+“(c)
+
+Coordinated and Expedited Review.—
+
+&emsp;“(1)
+
+In general.—Navigation performance and area navigation procedures developed, certified, published, or implemented under this section shall be presumed to be covered by a categorical exclusion (as defined in section 1508.4 of title 40, Code of Federal Regulations) under chapter 3 of FAA Order 1050.1E unless the Administrator determines that extraordinary circumstances exist with respect to the procedure.
+
+&emsp;“(2)
+
+Nextgen procedures.—Any navigation performance or other performance based navigation procedure developed, certified, published, or implemented that, in the determination of the Administrator, would result in measurable reductions in fuel consumption, carbon dioxide emissions, and noise, on a per flight basis, as compared to aircraft operations that follow existing instrument flight rules procedures in the same airspace, shall be presumed to have no significant affect on the quality of the human environment and the Administrator shall issue and file a categorical exclusion for the new procedure.
+
+“(d)
+
+Deployment Plan for Nationwide Data Communications System.—Not later than 1 year after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a plan for implementation of a nationwide data communications system. The plan shall include—
+
+&emsp;“(1) clearly defined budget, schedule, project organization, and leadership requirements;
+
+&emsp;“(2) specific implementation and transition steps; and
+
+&emsp;“(3) baseline and performance metrics for measuring the Administration's progress in implementing the plan.
+
+“(e)
+
+Improved Performance Standards.—
+
+&emsp;“(1)
+
+Assessment of work being performed under nextgen implementation plan.—The Administrator shall clearly outline in the NextGen Implementation Plan document of the Administration the work being performed under the plan to determine—
+
+&emsp;&emsp;“(A) whether utilization of ADS–B, RNP, and other technologies as part of NextGen implementation will display the position of aircraft more accurately and frequently to enable a more efficient use of existing airspace and result in reduced consumption of aviation fuel and aircraft engine emissions; and
+
+&emsp;&emsp;“(B) the feasibility of reducing aircraft separation standards in a safe manner as a result of the implementation of such technologies.
+
+&emsp;“(2)
+
+Aircraft separation standards.—If the Administrator determines that the standards referred to in paragraph (1)(B) can be reduced safely, the Administrator shall include in the NextGen Implementation Plan a timetable for implementation of such reduced standards.
+
+“(f)
+
+Third-Party Usage.—The Administration shall establish a program under which the Administrator is authorized to use qualified third parties in the development, testing, and maintenance of flight procedures.
+
+#### “SEC. 214. PERFORMANCE METRICS.
+
+“(a)
+
+In General.—Not later than 180 days after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator of the Federal Aviation Administration shall establish and begin tracking national airspace system performance metrics, including, at a minimum, metrics with respect to—
+
+&emsp;“(1) actual arrival and departure rates per hour measured against the currently published aircraft arrival rate and aircraft departure rate for the 35 operational evolution partnership airports;
+
+&emsp;“(2) average gate-to-gate times;
+
+&emsp;“(3) fuel burned between key city pairs;
+
+&emsp;“(4) operations using the advanced navigation procedures, including performance based navigation procedures;
+
+&emsp;“(5) the average distance flown between key city pairs;
+
+&emsp;“(6) the time between pushing back from the gate and taking off;
+
+&emsp;“(7) continuous climb or descent;
+
+&emsp;“(8) average gate arrival delay for all arrivals;
+
+&emsp;“(9) flown versus filed flight times for key city pairs;
+
+&emsp;“(10) implementation of NextGen Implementation Plan, or any successor document, capabilities designed to reduce emissions and fuel consumption;
+
+&emsp;“(11) the Administration's unit cost of providing air traffic control services; and
+
+&emsp;“(12) runway safety, including runway incursions, operational errors, and loss of standard separation events.
+
+“(b)
+
+Baselines.—The Administrator, in consultation with aviation industry stakeholders, shall identify baselines for each of the metrics established under subsection (a) and appropriate methods to measure deviations from the baselines.
+
+“(c)
+
+Publication.—The Administrator shall make data obtained under subsection (a) available to the public in a searchable, sortable, and downloadable format through the Web site of the Administration and other appropriate media.
+
+“(d)
+
+Report.—Not later than 180 days after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that contains—
+
+&emsp;“(1) a description of the metrics that will be used to measure the Administration's progress in implementing NextGen capabilities and operational results;
+
+&emsp;“(2) information on any additional metrics developed; and
+
+&emsp;“(3) a process for holding the Administration accountable for meeting or exceeding the metrics baselines identified in subsection (b).
+
+#### “SEC. 215. CERTIFICATION STANDARDS AND RESOURCES.
+
+“(a)
+
+Process for Certification.—Not later than 180 days after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator of the Federal Aviation Administration shall develop a plan to accelerate and streamline the process for certification of NextGen technologies, including—
+
+&emsp;“(1) establishment of updated project plans and timelines;
+
+&emsp;“(2) identification of the specific activities needed to certify NextGen technologies, including the establishment of NextGen technical requirements for the manufacture of equipage, installation of equipage, airline operational procedures, pilot training standards, air traffic control procedures, and air traffic controller training;
+
+&emsp;“(3) identification of staffing requirements for the Air Certification Service and the Flight Standards Service, taking into consideration the leveraging of assistance from third parties and designees;
+
+&emsp;“(4) establishment of a program under which the Administration will use third parties in the certification process; and
+
+&emsp;“(5) establishment of performance metrics to measure the Administration's progress.
+
+“(b)
+
+Certification Integrity.—The Administrator shall ensure that equipment, systems, or services used in the national airspace system meet appropriate certification requirements regardless of whether the equipment, system, or service is publically or privately owned.
+
+#### “SEC. 216. SURFACE SYSTEMS ACCELERATION.
+
+“(a)
+
+In General.—The Chief Operating Officer of the Air Traffic Organization shall—
+
+&emsp;“(1) evaluate the Airport Surface Detection Equipment-Model X program for its potential contribution to implementation of the NextGen initiative;
+
+&emsp;“(2) evaluate airport surveillance technologies and associated collaborative surface management software for potential contributions to implementation of NextGen surface management;
+
+&emsp;“(3) accelerate implementation of the program referred to in paragraph (1); and
+
+&emsp;“(4) carry out such additional duties as the Administrator of the Federal Aviation Administration may require.
+
+“(b)
+
+Expedited Certification and Utilization.—The Administrator shall—
+
+&emsp;“(1) consider options for expediting the certification of Ground-Based Augmentation System technology; and
+
+&emsp;“(2) develop a plan to utilize such a system at the 35 operational evolution partnership airports by December 31, 2012.
+
+#### “SEC. 217. INCLUSION OF STAKEHOLDERS IN AIR TRAFFIC CONTROL MODERNIZATION PROJECTS.
+
+“(a)
+
+Process for Employee Inclusion.—Notwithstanding any other law or agreement, the Administrator of the Federal Aviation Administration shall establish a process or processes for including qualified employees selected by each exclusive collective bargaining representative of employees of the Administration impacted by the air traffic control modernization process to serve in a collaborative and expert capacity in the planning and development of air traffic control modernization projects, including NextGen.
+
+“(b)
+
+Adherence to Deadlines.—Participants in these processes shall adhere, to the greatest extent possible, to all deadlines and milestones established pursuant to this title.
+
+“(c)
+
+No Change in Employee Status.—Participation in these processes by an employee shall not—
+
+&emsp;“(1) serve as a waiver of any bargaining obligations or rights;
+
+&emsp;“(2) entitle the employee to any additional compensation or benefits with the exception of a per diem, if appropriate; or
+
+&emsp;“(3) entitle the employee to prevent or unduly delay the exercise of management prerogatives.
+
+“(d)
+
+Working Groups.—Except in extraordinary circumstances, the Administrator shall not pay overtime related to work group participation.
+
+“(e)
+
+Report.—Not later than 1 year after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator shall report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the implementation of this section.
+
+#### “SEC. 218. AIRSPACE REDESIGN.
+
+“(a)
+
+Findings.—Congress finds the following:
+
+&emsp;“(1) The airspace redesign efforts of the Federal Aviation Administration will play a critical near-term role in enhancing capacity, reducing delays, transitioning to more flexible routing, and ultimately saving money in fuel costs for airlines and airspace users.
+
+&emsp;“(2) The critical importance of airspace redesign efforts is underscored by the fact that they are highlighted in strategic plans of the Administration, including Flight Plan 2009–2013 and the NextGen Implementation Plan.
+
+&emsp;“(3) Funding cuts have led to delays and deferrals of critical capacity enhancing airspace redesign efforts.
+
+&emsp;“(4) New runways planned for the period of fiscal years 2011 and 2012 will not provide estimated capacity benefits without additional funds.
+
+“(b)
+
+Noise Impacts of New York/New Jersey/Philadelphia Metropolitan Area Airspace Redesign.—
+
+&emsp;“(1)
+
+Monitoring.—The Administrator of the Federal Aviation Administration, in conjunction with the Port Authority of New York and New Jersey and the Philadelphia International Airport, shall monitor the noise impacts of the New York/New Jersey/Philadelphia Metropolitan Area Airspace Redesign.
+
+&emsp;“(2)
+
+Report.—Not later than 1 year following the first day of completion of the New York/New Jersey/Philadelphia Metropolitan Area Airspace Redesign, the Administrator shall submit to Congress a report on the findings of the Administrator with respect to monitoring conducted under paragraph (1).
+
+#### “SEC. 219. STUDY ON FEASIBILITY OF DEVELOPMENT OF A PUBLIC INTERNET WEB-BASED RESOURCE ON LOCATIONS OF POTENTIAL AVIATION OBSTRUCTIONS.
+
+“(a)
+
+Study.—The Administrator of the Federal Aviation Administration shall carry out a study on the feasibility of developing a publicly searchable, Internet Web-based resource that provides information regarding the height and latitudinal and longitudinal locations of guy-wire and free-standing tower obstructions.
+
+“(b)
+
+Considerations.—In conducting the study, the Administrator shall consult with affected industries and appropriate Federal agencies.
+
+“(c)
+
+Report.—Not later than 1 year after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator shall submit a report to the appropriate committees of Congress on the results of the study.
+
+#### “SEC. 220. NEXTGEN RESEARCH AND DEVELOPMENT CENTER OF EXCELLENCE.
+
+“(a)
+
+In General.—The Administrator of the Federal Aviation Administration may enter into an agreement, on a competitive basis, to assist in the establishment of a center of excellence for the research and development of NextGen technologies.
+
+“(b)
+
+Functions.—The Administrator shall ensure that the center established under subsection (a)—
+
+&emsp;“(1) leverages resources and partnerships, including appropriate programs of the Administration, to enhance the research and development of NextGen technologies by academia and industry; and
+
+&emsp;“(2) provides educational, technical, and analytical assistance to the Administration and other Federal departments and agencies with responsibilities to research and develop NextGen technologies.
+
+#### “SEC. 221. PUBLIC-PRIVATE PARTNERSHIPS.
+
+“(a)
+
+In General.—The Secretary may establish an avionics equipage incentive program for the purpose of equipping general aviation and commercial aircraft with communications, surveillance, navigation, and other avionics equipment as determined by the Secretary to be in the interest of achieving NextGen capabilities for such aircraft.
+
+“(b)
+
+NextGen Public-Private Partnerships.—The incentive program established under subsection (a) shall, at a minimum—
+
+&emsp;“(1) be based on public-private partnership principles; and
+
+&emsp;“(2) leverage and maximize the use of private sector capital.
+
+“(c)
+
+Financial Instruments.—Subject to the availability of appropriated funds, the Secretary may use financial instruments to facilitate public-private financing for the equipage of general aviation and commercial aircraft registered under section 44103 of title 49, United States Code. To the extent appropriations are not made available, the Secretary may establish the program, provided the costs are covered by the fees and premiums authorized by subsection (d)(2). For purposes of this section, the term ‘financial instruments’ means loan guarantees and other credit assistance designed to leverage and maximize private sector capital.
+
+“(d)
+
+Protection of the Taxpayer.—
+
+&emsp;“(1)
+
+Limitation on principal.—The amount of any guarantee under this program shall be limited to 90 percent of the principal amount of the underlying loan.
+
+&emsp;“(2)
+
+Collateral, fees, and premiums.—The Secretary shall require applicants for the incentive program to post collateral and pay such fees and premiums if feasible, as determined by the Secretary, to offset costs to the Government of potential defaults, and agree to performance measures that the Secretary considers necessary and in the best interest of implementing the NextGen program.
+
+&emsp;“(3)
+
+Use of funds.—Applications for this program shall be limited to equipment that is installed on general aviation or commercial aircraft and is necessary for communications, surveillance, navigation, or other purposes determined by the Secretary to be in the interests of achieving NextGen capabilities for commercial and general aviation.
+
+“(e)
+
+Termination of Authority.—The authority of the Secretary to issue such financial instruments under this section shall terminate 5 years after the date of the establishment of the incentive program.
+
+#### “SEC. 222. OPERATIONAL INCENTIVES.
+
+“(a)
+
+In General.—The Administrator of the Federal Aviation Administration shall issue a report that—
+
+&emsp;“(1) identifies incentive options to encourage the equipage of aircraft with NextGen technologies, including a policy that gives priority to aircraft equipped with ADS–B technology;
+
+&emsp;“(2) identifies the costs and benefits of each option; and
+
+&emsp;“(3) includes input from industry stakeholders, including passenger and cargo air carriers, aerospace manufacturers, and general aviation aircraft operators.
+
+“(b)
+
+Deadline.—The Administrator shall issue the report before the earlier of—
+
+&emsp;“(1) the date that is 6 months after the date of enactment of this Act \[Feb. 14, 2012\]; or
+
+&emsp;“(2) the date on which aircraft are required to be equipped with ADS–B technology pursuant to the rulemaking under section 211(b).”
+
+#### Contingency Planning
+
+Pub. L. 112–95, title II, §208(d), Feb. 14, 2012, 126 Stat. 43, provided that: “The Associate Administrator for Next Generation Air Transportation System Planning, Development, and Interagency Coordination shall, as part of the design of the System, develop contingency plans for dealing with the degradation of the System in the event of a natural disaster, major equipment failure, or act of terrorism.”
+
+#### Reports on Status of Greener Skies Project
+
+Pub. L. 112–95, title II, §225, Feb. 14, 2012, 126 Stat. 55, provided that:
+
+“(a)
+
+Initial Report.—Not later than 180 days after the date of the enactment of this Act \[Feb. 14, 2012\], the Administrator of the Federal Aviation Administration shall submit to Congress a report on the strategy of the Administrator for implementing, on an accelerated basis, the NextGen operational capabilities produced by the Greener Skies project, as recommended in the final report of the RTCA NextGen Mid-Term Implementation Task Force that was issued on September 9, 2009.
+
+“(b)
+
+Subsequent Reports.—
+
+&emsp;“(1)
+
+In general.—Not later than 180 days after the Administrator submits to Congress the report required by subsection (a) and annually thereafter until the pilot program terminates, the Administrator shall submit to the Committee on Commerce, Science, and Transportation of the Senate and to the Committee on Transportation and Infrastructure of the House of Representatives a report on the progress of the Administrator in carrying out the strategy described in the report submitted under subsection (a).
+
+&emsp;“(2)
+
+Contents.—Each report submitted under paragraph (1) shall include the following:
+
+&emsp;&emsp;“(A) A timeline for full implementation of the strategy described in the report submitted under subsection (a).
+
+&emsp;&emsp;“(B) A description of the progress made in carrying out such strategy.
+
+&emsp;&emsp;“(C) A description of the challenges, if any, encountered by the Administrator in carrying out such strategy.”
+
+\[For definition of “NextGen” as used in section 225 of Pub. L. 112–95, set out above, see section 201 of Pub. L. 112–95, set out as a note above.\]
+
+#### Unmanned Aircraft Systems
+
+Pub. L. 112–95, title III, subtitle B, Feb. 14, 2012, 126 Stat. 72, provided that:
+
+#### “SEC. 331. DEFINITIONS.
+
+“In this subtitle, the following definitions apply:
+
+&emsp;“(1)
+
+Arctic.—The term ‘Arctic’ means the United States zone of the Chukchi Sea, Beaufort Sea, and Bering Sea north of the Aleutian chain.
+
+&emsp;“(2)
+
+Certificate of waiver; certificate of authorization.—The terms ‘certificate of waiver’ and ‘certificate of authorization’ mean a Federal Aviation Administration grant of approval for a specific flight operation.
+
+&emsp;“(3)
+
+Permanent areas.—The term ‘permanent areas’ means areas on land or water that provide for launch, recovery, and operation of small unmanned aircraft.
+
+&emsp;“(4)
+
+Public unmanned aircraft system.—The term ‘public unmanned aircraft system’ means an unmanned aircraft system that meets the qualifications and conditions required for operation of a public aircraft (as defined in section 40102 of title 49, United States Code).
+
+&emsp;“(5)
+
+Sense and avoid capability.—The term ‘sense and avoid capability’ means the capability of an unmanned aircraft to remain a safe distance from and to avoid collisions with other airborne aircraft.
+
+&emsp;“(6)
+
+Small unmanned aircraft.—The term ‘small unmanned aircraft’ means an unmanned aircraft weighing less than 55 pounds.
+
+&emsp;“(7)
+
+Test range.—The term ‘test range’ means a defined geographic area where research and development are conducted.
+
+&emsp;“(8)
+
+Unmanned aircraft.—The term ‘unmanned aircraft’ means an aircraft that is operated without the possibility of direct human intervention from within or on the aircraft.
+
+&emsp;“(9)
+
+Unmanned aircraft system.—The term ‘unmanned aircraft system’ means an unmanned aircraft and associated elements (including communication links and the components that control the unmanned aircraft) that are required for the pilot in command to operate safely and efficiently in the national airspace system.
+
+#### “SEC. 332. INTEGRATION OF CIVIL UNMANNED AIRCRAFT SYSTEMS INTO NATIONAL AIRSPACE SYSTEM.
+
+“(a)
+
+Required Planning for Integration.—
+
+&emsp;“(1)
+
+Comprehensive plan.—Not later than 270 days after the date of enactment of this Act \[Feb. 14, 2012\], the Secretary of Transportation, in consultation with representatives of the aviation industry, Federal agencies that employ unmanned aircraft systems technology in the national airspace system, and the unmanned aircraft systems industry, shall develop a comprehensive plan to safely accelerate the integration of civil unmanned aircraft systems into the national airspace system.
+
+&emsp;“(2)
+
+Contents of plan.—The plan required under paragraph (1) shall contain, at a minimum, recommendations or projections on—
+
+&emsp;&emsp;“(A) the rulemaking to be conducted under subsection (b), with specific recommendations on how the rulemaking will—
+
+&emsp;&emsp;&emsp;“(i) define the acceptable standards for operation and certification of civil unmanned aircraft systems;
+
+&emsp;&emsp;&emsp;“(ii) ensure that any civil unmanned aircraft system includes a sense and avoid capability; and
+
+&emsp;&emsp;&emsp;“(iii) establish standards and requirements for the operator and pilot of a civil unmanned aircraft system, including standards and requirements for registration and licensing;
+
+&emsp;&emsp;“(B) the best methods to enhance the technologies and subsystems necessary to achieve the safe and routine operation of civil unmanned aircraft systems in the national airspace system;
+
+&emsp;&emsp;“(C) a phased-in approach to the integration of civil unmanned aircraft systems into the national airspace system;
+
+&emsp;&emsp;“(D) a timeline for the phased-in approach described under subparagraph (C);
+
+&emsp;&emsp;“(E) creation of a safe \[sic\]
+
+&emsp;&emsp;“(F) airspace designation for cooperative manned and unmanned flight operations in the national airspace system;
+
+&emsp;&emsp;“(G) establishment of a process to develop certification, flight standards, and air traffic requirements for civil unmanned aircraft systems at test ranges where such systems are subject to testing;
+
+&emsp;&emsp;“(H) the best methods to ensure the safe operation of civil unmanned aircraft systems and public unmanned aircraft systems simultaneously in the national airspace system; and
+
+&emsp;&emsp;“(I) incorporation of the plan into the annual NextGen Implementation Plan document (or any successor document) of the Federal Aviation Administration.
+
+&emsp;“(3)
+
+Deadline.—The plan required under paragraph (1) shall provide for the safe integration of civil unmanned aircraft systems into the national airspace system as soon as practicable, but not later than September 30, 2015.
+
+&emsp;“(4)
+
+Report to congress.—Not later than 1 year after the date of enactment of this Act \[Feb. 14, 2012\], the Secretary shall submit to Congress a copy of the plan required under paragraph (1).
+
+&emsp;“(5)
+
+Roadmap.—Not later than 1 year after the date of enactment of this Act, the Secretary shall approve and make available in print and on the Administration's Internet Web site a 5-year roadmap for the introduction of civil unmanned aircraft systems into the national airspace system, as coordinated by the Unmanned Aircraft Program Office of the Administration. The Secretary shall update the roadmap annually.
+
+“(b)
+
+Rulemaking.—Not later than 18 months after the date on which the plan required under subsection (a)(1) is submitted to Congress under subsection (a)(4), the Secretary shall publish in the Federal Register—
+
+&emsp;“(1) a final rule on small unmanned aircraft systems that will allow for civil operation of such systems in the national airspace system, to the extent the systems do not meet the requirements for expedited operational authorization under section 333 of this Act;
+
+&emsp;“(2) a notice of proposed rulemaking to implement the recommendations of the plan required under subsection (a)(1), with the final rule to be published not later than 16 months after the date of publication of the notice; and
+
+&emsp;“(3) an update to the Administration's most recent policy statement on unmanned aircraft systems, contained in Docket No. FAA–2006–25714.
+
+“(c)
+
+Pilot Projects.—
+
+&emsp;“(1)
+
+Establishment.—Not later than 180 days after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator shall establish a program to integrate unmanned aircraft systems into the national airspace system at 6 test ranges. The program shall terminate 5 years after the date of enactment of this Act.
+
+&emsp;“(2)
+
+Program requirements.—In establishing the program under paragraph (1), the Administrator shall—
+
+&emsp;&emsp;“(A) safely designate airspace for integrated manned and unmanned flight operations in the national airspace system;
+
+&emsp;&emsp;“(B) develop certification standards and air traffic requirements for unmanned flight operations at test ranges;
+
+&emsp;&emsp;“(C) coordinate with and leverage the resources of the National Aeronautics and Space Administration and the Department of Defense;
+
+&emsp;&emsp;“(D) address both civil and public unmanned aircraft systems;
+
+&emsp;&emsp;“(E) ensure that the program is coordinated with the Next Generation Air Transportation System; and
+
+&emsp;&emsp;“(F) provide for verification of the safety of unmanned aircraft systems and related navigation procedures before integration into the national airspace system.
+
+&emsp;“(3)
+
+Test range locations.—In determining the location of the 6 test ranges of the program under paragraph (1), the Administrator shall—
+
+&emsp;&emsp;“(A) take into consideration geographic and climatic diversity;
+
+&emsp;&emsp;“(B) take into consideration the location of ground infrastructure and research needs; and
+
+&emsp;&emsp;“(C) consult with the National Aeronautics and Space Administration and the Department of Defense.
+
+&emsp;“(4)
+
+Test range operation.—A project at a test range shall be operational not later than 180 days after the date on which the project is established.
+
+&emsp;“(5)
+
+Report to congress.—
+
+&emsp;&emsp;“(A)
+
+In general.—Not later than 90 days after the date of the termination of the program under paragraph (1), the Administrator shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure and the Committee on Science, Space, and Technology of the House of Representatives a report setting forth the Administrator's findings and conclusions concerning the projects.
+
+&emsp;&emsp;“(B)
+
+Additional contents.—The report under subparagraph (A) shall include a description and assessment of the progress being made in establishing special use airspace to fill the immediate need of the Department of Defense—
+
+&emsp;&emsp;&emsp;“(i) to develop detection techniques for small unmanned aircraft systems; and
+
+&emsp;&emsp;&emsp;“(ii) to validate the sense and avoid capability and operation of unmanned aircraft systems.
+
+“(d)
+
+Expanding Use of Unmanned Aircraft Systems in Arctic.—
+
+&emsp;“(1)
+
+In general.—Not later than 180 days after the date of enactment of this Act \[Feb. 14, 2012\], the Secretary shall develop a plan and initiate a process to work with relevant Federal agencies and national and international communities to designate permanent areas in the Arctic where small unmanned aircraft may operate 24 hours per day for research and commercial purposes. The plan for operations in these permanent areas shall include the development of processes to facilitate the safe operation of unmanned aircraft beyond line of sight. Such areas shall enable over-water flights from the surface to at least 2,000 feet in altitude, with ingress and egress routes from selected coastal launch sites.
+
+&emsp;“(2)
+
+Agreements.—To implement the plan under paragraph (1), the Secretary may enter into an agreement with relevant national and international communities.
+
+&emsp;“(3)
+
+Aircraft approval.—Not later than 1 year after the entry into force of an agreement necessary to effectuate the purposes of this subsection, the Secretary shall work with relevant national and international communities to establish and implement a process, or may apply an applicable process already established, for approving the use of unmanned aircraft in the designated permanent areas in the Arctic without regard to whether an unmanned aircraft is used as a public aircraft, a civil aircraft, or a model aircraft.
+
+#### “SEC. 333. SPECIAL RULES FOR CERTAIN UNMANNED AIRCRAFT SYSTEMS.
+
+“(a)
+
+In General.—Notwithstanding any other requirement of this subtitle, and not later than 180 days after the date of enactment of this Act \[Feb. 14, 2012\], the Secretary of Transportation shall determine if certain unmanned aircraft systems may operate safely in the national airspace system before completion of the plan and rulemaking required by section 332 of this Act or the guidance required by section 334 of this Act.
+
+“(b)
+
+Assessment of Unmanned Aircraft Systems.—In making the determination under subsection (a), the Secretary shall determine, at a minimum—
+
+&emsp;“(1) which types of unmanned aircraft systems, if any, as a result of their size, weight, speed, operational capability, proximity to airports and populated areas, and operation within visual line of sight do not create a hazard to users of the national airspace system or the public or pose a threat to national security; and
+
+&emsp;“(2) whether a certificate of waiver, certificate of authorization, or airworthiness certification under section 44704 of title 49, United States Code, is required for the operation of unmanned aircraft systems identified under paragraph (1).
+
+“(c)
+
+Requirements for Safe Operation.—If the Secretary determines under this section that certain unmanned aircraft systems may operate safely in the national airspace system, the Secretary shall establish requirements for the safe operation of such aircraft systems in the national airspace system.
+
+#### “SEC. 334. PUBLIC UNMANNED AIRCRAFT SYSTEMS.
+
+“(a)
+
+Guidance.—Not later than 270 days after the date of enactment of this Act \[Feb. 14, 2012\], the Secretary of Transportation shall issue guidance regarding the operation of public unmanned aircraft systems to—
+
+&emsp;“(1) expedite the issuance of a certificate of authorization process;
+
+&emsp;“(2) provide for a collaborative process with public agencies to allow for an incremental expansion of access to the national airspace system as technology matures and the necessary safety analysis and data become available, and until standards are completed and technology issues are resolved;
+
+&emsp;“(3) facilitate the capability of public agencies to develop and use test ranges, subject to operating restrictions required by the Federal Aviation Administration, to test and operate unmanned aircraft systems; and
+
+&emsp;“(4) provide guidance on a public entity's responsibility when operating an unmanned aircraft without a civil airworthiness certificate issued by the Administration.
+
+“(b)
+
+Standards for Operation and Certification.—Not later than December 31, 2015, the Administrator shall develop and implement operational and certification requirements for the operation of public unmanned aircraft systems in the national airspace system.
+
+“(c)
+
+Agreements With Government Agencies.—
+
+&emsp;“(1)
+
+In general.—Not later than 90 days after the date of enactment of this Act \[Feb. 14, 2012\], the Secretary shall enter into agreements with appropriate government agencies to simplify the process for issuing certificates of waiver or authorization with respect to applications seeking authorization to operate public unmanned aircraft systems in the national airspace system.
+
+&emsp;“(2)
+
+Contents.—The agreements shall—
+
+&emsp;&emsp;“(A) with respect to an application described in paragraph (1)—
+
+&emsp;&emsp;&emsp;“(i) provide for an expedited review of the application;
+
+&emsp;&emsp;&emsp;“(ii) require a decision by the Administrator on approval or disapproval within 60 business days of the date of submission of the application; and
+
+&emsp;&emsp;&emsp;“(iii) allow for an expedited appeal if the application is disapproved;
+
+&emsp;&emsp;“(B) allow for a one-time approval of similar operations carried out during a fixed period of time; and
+
+&emsp;&emsp;“(C) allow a government public safety agency to operate unmanned aircraft weighing 4.4 pounds or less, if operated—
+
+&emsp;&emsp;&emsp;“(i) within the line of sight of the operator;
+
+&emsp;&emsp;&emsp;“(ii) less than 400 feet above the ground;
+
+&emsp;&emsp;&emsp;“(iii) during daylight conditions;
+
+&emsp;&emsp;&emsp;“(iv) within Class G airspace; and
+
+&emsp;&emsp;&emsp;“(v) outside of 5 statute miles from any airport, heliport, seaplane base, spaceport, or other location with aviation activities.
+
+#### “SEC. 335. SAFETY STUDIES.
+
+“The Administrator of the Federal Aviation Administration shall carry out all safety studies necessary to support the integration of unmanned aircraft systems into the national airspace system.
+
+#### “SEC. 336. SPECIAL RULE FOR MODEL AIRCRAFT.
+
+“(a)
+
+In General.—Notwithstanding any other provision of law relating to the incorporation of unmanned aircraft systems into Federal Aviation Administration plans and policies, including this subtitle, the Administrator of the Federal Aviation Administration may not promulgate any rule or regulation regarding a model aircraft, or an aircraft being developed as a model aircraft, if—
+
+&emsp;“(1) the aircraft is flown strictly for hobby or recreational use;
+
+&emsp;“(2) the aircraft is operated in accordance with a community-based set of safety guidelines and within the programming of a nationwide community-based organization;
+
+&emsp;“(3) the aircraft is limited to not more than 55 pounds unless otherwise certified through a design,construction, inspection, flight test, and operational safety program administered by a community-based organization;
+
+&emsp;“(4) the aircraft is operated in a manner that does not interfere with and gives way to any manned aircraft; and
+
+&emsp;“(5) when flown within 5 miles of an airport, the operator of the aircraft provides the airport operator and the airport air traffic control tower (when an air traffic facility is located at the airport) with prior notice of the operation (model aircraft operators flying from a permanent location within 5 miles of an airport should establish a mutually-agreed upon operating procedure with the airport operator and the airport air traffic control tower (when an air traffic facility is located at the airport)).
+
+“(b)
+
+Statutory Construction.—Nothing in this section shall be construed to limit the authority of the Administrator to pursue enforcement action against persons operating model aircraft who endanger the safety of the national airspace system.
+
+“(c)
+
+Model Aircraft Defined.—In this section, the term ‘model aircraft’ means an unmanned aircraft that is—
+
+&emsp;“(1) capable of sustained flight in the atmosphere;
+
+&emsp;“(2) flown within visual line of sight of the person operating the aircraft; and
+
+&emsp;“(3) flown for hobby or recreational purposes.”
+
+#### Clarification of Requirements for Volunteer Pilots Operating Charitable Medical Flights
+
+Pub. L. 112–95, title VIII, §821, Feb. 14, 2012, 126 Stat. 128, provided that:
+
+“(a)
+
+Reimbursement of Fuel Costs.—Notwithstanding any other law or regulation, in administering section 61.113(c) of title 14, Code of Federal Regulations (or any successor regulation), the Administrator of the Federal Aviation Administration shall allow an aircraft owner or operator to accept reimbursement from a volunteer pilot organization for the fuel costs associated with a flight operation to provide transportation for an individual or organ for medical purposes (and for other associated individuals), if the aircraft owner or operator has—
+
+&emsp;“(1) volunteered to provide such transportation; and
+
+&emsp;“(2) notified any individual that will be on the flight, at the time of inquiry about the flight, that the flight operation is for charitable purposes and is not subject to the same requirements as a commercial flight.
+
+“(b)
+
+Conditions to Ensure Safety.—The Administrator may impose minimum standards with respect to training and flight hours for single-engine, multi-engine, and turbine-engine operations conducted by an aircraft owner or operator that is being reimbursed for fuel costs by a volunteer pilot organization, including mandating that the pilot in command of such aircraft hold an instrument rating and be current and qualified for the aircraft being flown to ensure the safety of flight operations described in subsection (a).
+
+“(c)
+
+Volunteer Pilot Organization.—In this section, the term ‘volunteer pilot organization’ means an organization that—
+
+&emsp;“(1) is described in section 501(c)(3) of the Internal Revenue Code of 1986 \[26 U.S.C. 501(c)(3)\] and is exempt from taxation under section 501(a) of such Code; and
+
+&emsp;“(2) is organized for the primary purpose of providing, arranging, or otherwise fostering charitable medical transportation.”
+
+#### Interagency Research on Aviation and the Environment
+
+Pub. L. 112–95, title IX, §909, Feb. 14, 2012, 126 Stat. 141, provided that:
+
+“(a)
+
+In General.—Using amounts made available under section 48102(a) of title 49, United States Code, the Administrator, in coordination with NASA and after consultation with other relevant agencies, may maintain a research program to assess the potential effect of aviation activities on the environment and, if warranted, to evaluate approaches to address any such effect.
+
+“(b)
+
+Research Plan.—
+
+&emsp;“(1)
+
+In general.—The Administrator, in coordination with NASA and after consultation with other relevant agencies, shall jointly develop a plan to carry out the research under subsection (a).
+
+&emsp;“(2)
+
+Contents.—The plan shall contain an inventory of current interagency research being undertaken in this area, future research objectives, proposed tasks, milestones, and a 5-year budgetary profile.
+
+&emsp;“(3)
+
+Requirements.—The plan—
+
+&emsp;&emsp;“(A) shall be completed not later than 1 year after the date of enactment of this Act \[Feb. 14, 2012\];
+
+&emsp;&emsp;“(B) shall be submitted to Congress for review; and
+
+&emsp;&emsp;“(C) shall be updated, as appropriate, every 3 years after the initial submission.”
 
 #### Unmanned Aerial Systems and National Airspace
 
@@ -458,7 +1490,7 @@ Pub. L. 108–176, title III, §326, Dec. 12, 2003, 117 Stat. 2542, provided tha
 
 “(a)
 
-Establishment of Research Program.—From amounts made available under section 48102(a) of title 49, United States Code, the Secretary of Transportation shall establish a research program related to reducing community exposure to civilian aircraft noise or emissions through grants or other measures authorized under section 106(<i>l</i>)(6) of such title, including reimbursable agreements with other Federal agencies. The program shall include participation by educational and research institutions that have existing facilities for developing and testing noise reduction engine technology.
+Establishment of Research Program.—From amounts made available under section 48102(a) of title 49, United States Code, the Secretary of Transportation shall establish a research program related to reducing community exposure to civilian aircraft noise or emissions through grants or other measures authorized under section 106(l)(6) of such title, including reimbursable agreements with other Federal agencies. The program shall include participation by educational and research institutions that have existing facilities for developing and testing noise reduction engine technology.
 
 “(b)
 
@@ -466,13 +1498,15 @@ Designation of Institute as a Center of Excellence.—The Administrator of the F
 
 #### Air Transportation System Joint Planning and Development Office
 
-Pub. L. 108–176, title VII, §709, Dec. 12, 2003, 117 Stat. 2582, provided that:
+Pub. L. 108–176, title VII, §709, Dec. 12, 2003, 117 Stat. 2582, as amended by Pub. L. 112–95, title II, §208(a)–(c), Feb. 14, 2012, 126 Stat. 40–43, provided that:
 
 “(a)
 
 Establishment.—(1) The Secretary of Transportation shall establish in the Federal Aviation Administration a joint planning and development office to manage work related to the Next Generation Air Transportation System. The office shall be known as the Next Generation Air Transportation System Joint Planning and Development Office (in this section referred to as the ‘Office’).
 
-“(2) The responsibilities of the Office shall include—
+“(2) The head of the Office shall be the Associate Administrator for Next Generation Air Transportation System Planning, Development, and Interagency Coordination, who shall be appointed by the Administrator of the Federal Aviation Administration, with the approval of the Secretary. The Administrator shall appoint the Associate Administrator after consulting with the Chairman of the Next Generation Senior Policy Committee and providing advanced notice to the other members of that Committee.
+
+“(3) The responsibilities of the Office shall include—
 
 &emsp;“(A) creating and carrying out an integrated plan for a Next Generation Air Transportation System pursuant to subsection (b);
 
@@ -486,17 +1520,63 @@ Establishment.—(1) The Secretary of Transportation shall establish in the Fede
 
 &emsp;“(F) coordinating the development and utilization of new technologies to ensure that when available, they may be used to their fullest potential in aircraft and in the air traffic control system;
 
-&emsp;“(G) facilitating the transfer of technology from research programs such as the National Aeronautics and Space Administration program and the Department of Defense Advanced Research Projects Agency program to Federal agencies with operational responsibilities and to the private sector; and
+&emsp;“(G) facilitating the transfer of technology from research programs such as the National Aeronautics and Space Administration program and the Department of Defense Advanced Research Projects Agency program to Federal agencies with operational responsibilities and to the private sector;
 
-&emsp;“(H) reviewing activities relating to noise, emissions, fuel consumption, and safety conducted by Federal agencies, including the Federal Aviation Administration, the National Aeronautics and Space Administration, the Department of Commerce, and the Department of Defense.
+&emsp;“(H) reviewing activities relating to noise, emissions, fuel consumption, and safety conducted by Federal agencies, including the Federal Aviation Administration, the National Aeronautics and Space Administration, the Department of Commerce, and the Department of Defense;
 
-“(3) The Office shall operate in conjunction with relevant programs in the Department of Defense, the National Aeronautics and Space Administration, the Department of Commerce and the Department of Homeland Security. The Secretary of Transportation may request assistance from staff from those Departments and other Federal agencies.
+&emsp;“(I) establishing specific quantitative goals for the safety, capacity, efficiency, performance, and environmental impacts of each phase of Next Generation Air Transportation System planning and development activities and measuring actual operational experience against those goals, taking into account noise pollution reduction concerns of affected communities to the extent practicable in establishing the environmental goals;
 
-“(4) In developing and carrying out its plans, the Office shall consult with the public and ensure the participation of experts from the private sector including representatives of commercial aviation, general aviation, aviation labor groups, aviation research and development entities, aircraft and air traffic control suppliers, and the space industry.
+&emsp;“(J) working to ensure global interoperability of the Next Generation Air Transportation System;
+
+&emsp;“(K) working to ensure the use of weather information and space weather information in the Next Generation Air Transportation System as soon as possible;
+
+&emsp;“(L) overseeing, with the Administrator and in consultation with the Chief NextGen Officer, the selection of products or outcomes of research and development activities that should be moved to a demonstration phase; and
+
+&emsp;“(M) maintaining a baseline modeling and simulation environment for testing and evaluating alternative concepts to satisfy Next Generation Air Transportation System enterprise architecture requirements.
+
+“(4)(A) The Office shall operate in conjunction with relevant programs in the Department of Defense, the National Aeronautics and Space Administration, the Department of Commerce and the Department of Homeland Security. The Secretary of Transportation may request assistance from staff from those Departments and other Federal agencies.
+
+“(B) The Secretary of Defense, the Administrator of the National Aeronautics and Space Administration, the Secretary of Commerce, the Secretary of Homeland Security, and the head of any other Federal agency from which the Secretary of Transportation requests assistance under subparagraph (A) shall designate a senior official in the agency to be responsible for—
+
+&emsp;“(i) carrying out the activities of the agency relating to the Next Generation Air Transportation System in coordination with the Office, including the execution of all aspects of the work of the agency in developing and implementing the integrated work plan described in subsection (b)(5);
+
+&emsp;“(ii) serving as a liaison for the agency in activities of the agency relating to the Next Generation Air Transportation System and coordinating with other Federal agencies involved in activities relating to the System; and
+
+&emsp;“(iii) ensuring that the agency meets its obligations as set forth in any memorandum of understanding executed by or on behalf of the agency relating to the Next Generation Air Transportation System.
+
+“(C) The head of a Federal agency referred to in subparagraph (B) shall—
+
+&emsp;“(i) ensure that the responsibilities of the agency relating to the Next Generation Air Transportation System are clearly communicated to the senior official of the agency designated under subparagraph (B);
+
+&emsp;“(ii) ensure that the performance of the senior official in carrying out the responsibilities of the agency relating to the Next Generation Air Transportation System is reflected in the official's annual performance evaluations and compensation;
+
+&emsp;“(iii) establish or designate an office within the agency to carry out its responsibilities under the memorandum of understanding under the supervision of the designated official; and
+
+&emsp;“(iv) ensure that the designated official has sufficient budgetary authority and staff resources to carry out the agency's Next Generation Air Transportation System responsibilities as set forth in the integrated plan under subsection (b).
+
+“(D) Not later than 6 months after the date of enactment of this subparagraph \[Feb. 14, 2012\], the head of each Federal agency that has responsibility for carrying out any activity under the integrated plan under subsection (b) shall execute a memorandum of understanding with the Office obligating that agency to carry out the activity.
+
+“(5) In developing and carrying out its plans, the Office shall consult with the public and ensure the participation of experts from the private sector including representatives of commercial aviation, general aviation, aviation labor groups, aviation research and development entities, aircraft and air traffic control suppliers, and the space industry.
+
+“(6)(A) The Office shall work with the Director of the Office of Management and Budget to develop a process whereby the Director will identify projects related to the Next Generation Air Transportation System across the agencies referred to in paragraph (4)(A) and consider the Next Generation Air Transportation System as a unified, cross-agency program.
+
+“(B) The Director of the Office of Management and Budget, to the extent practicable, shall—
+
+&emsp;“(i) ensure that—
+
+&emsp;&emsp;“(I) each Federal agency covered by the plan has sufficient funds requested in the President's budget, as submitted under section 1105(a) of title 31, United States Code, for each fiscal year covered by the plan to carry out its responsibilities under the plan; and
+
+&emsp;&emsp;“(II) the development and implementation of the Next Generation Air Transportation System remains on schedule;
+
+&emsp;“(ii) include, in the President's budget, a statement of the portion of the estimated budget of each Federal agency covered by the plan that relates to the activities of the agency under the Next Generation Air Transportation System; and
+
+&emsp;“(iii) identify and justify as part of the President's budget submission any inconsistencies between the plan and amounts requested in the budget.
+
+“(7) The Associate Administrator for Next Generation Air Transportation System Planning, Development, and Interagency Coordination shall be a voting member of the Joint Resources Council of the Federal Aviation Administration.
 
 “(b)
 
-Integrated Plan.—The integrated plan shall be designed to ensure that the Next Generation Air Transportation System meets air transportation safety, security, mobility, efficiency, and capacity needs beyond those currently included in the Federal Aviation Administration's operational evolution plan and accomplishes the goals under subsection (c). The integrated plan shall include—
+Integrated Plan.—The integrated plan shall be designed to ensure that the Next Generation Air Transportation System meets anticipated future air transportation safety, security, mobility, efficiency, and capacity needs and accomplishes the goals under subsection (c). The integrated plan shall include—
 
 &emsp;“(1) a national vision statement for an air transportation system capable of meeting potential air traffic demand by 2025;
 
@@ -508,9 +1588,27 @@ Integrated Plan.—The integrated plan shall be designed to ensure that the Next
 
 &emsp;&emsp;“(B) the annual anticipated cost of carrying out the research and development activities; and
 
-&emsp;&emsp;“(C) the technical milestones that will be used to evaluate the activities; and
+&emsp;&emsp;“(C) the technical milestones that will be used to evaluate the activities;
 
-&emsp;“(4) a description of the operational concepts to meet the system performance requirements for all system users and a timeline and anticipated expenditures needed to develop and deploy the system to meet the vision for 2025.
+&emsp;“(4) a description of the operational concepts to meet the system performance requirements for all system users and a timeline and anticipated expenditures needed to develop and deploy the system to meet the vision for 2025; and
+
+&emsp;“(5) a multiagency integrated work plan for the Next Generation Air Transportation System that includes—
+
+&emsp;&emsp;“(A) an outline of the activities required to achieve the end-state architecture, as expressed in the concept of operations and enterprise architecture documents, that identifies each Federal agency or other entity responsible for each activity in the outline;
+
+&emsp;&emsp;“(B) details on a year-by-year basis of specific accomplishments, activities, research requirements, rulemakings, policy decisions, and other milestones of progress for each Federal agency or entity conducting activities relating to the Next Generation Air Transportation System;
+
+&emsp;&emsp;“(C) for each element of the Next Generation Air Transportation System, an outline, on a year-by-year basis, of what is to be accomplished in that year toward meeting the Next Generation Air Transportation System's end-state architecture, as expressed in the concept of operations and enterprise architecture documents, as well as identifying each Federal agency or other entity that will be responsible for each component of any research, development, or implementation program;
+
+&emsp;&emsp;“(D) an estimate of all necessary expenditures on a year-by-year basis, including a statement of each Federal agency or entity's responsibility for costs and available resources, for each stage of development from the basic research stage through the demonstration and implementation phase;
+
+&emsp;&emsp;“(E) a clear explanation of how each step in the development of the Next Generation Air Transportation System will lead to the following step and of the implications of not successfully completing a step in the time period described in the integrated work plan;
+
+&emsp;&emsp;“(F) a transition plan for the implementation of the Next Generation Air Transportation System that includes date-specific milestones for the implementation of new capabilities into the national airspace system;
+
+&emsp;&emsp;“(G) date-specific timetables for meeting the environmental goals identified in subsection (a)(3)(I); and
+
+&emsp;&emsp;“(H) a description of potentially significant operational or workforce changes resulting from deployment of the Next Generation Air Transportation System.
 
 “(c)
 
@@ -532,11 +1630,7 @@ Goals.—The Next Generation Air Transportation System shall—
 
 “(d)
 
-Reports.—The Administrator of the Federal Aviation Administration shall transmit to the Committee on Commerce, Science, and Transportation in the Senate and the Committee on Transportation and Infrastructure and the Committee on Science \[now Committee on Science, Space, and Technology\] in the House of Representatives—
-
-&emsp;“(1) not later than 1 year after the date of enactment of this Act \[Dec. 12, 2003\], the integrated plan required in subsection (b); and
-
-&emsp;“(2) annually at the time of the President's budget request, a report describing the progress in carrying out the plan required under subsection (b) and any changes to that plan.
+NextGen Implementation Plan.—The Administrator shall develop and publish annually the document known as the NextGen Implementation Plan, or any successor document, that provides a detailed description of how the agency is implementing the Next Generation Air Transportation System.
 
 “(e)
 
@@ -544,11 +1638,11 @@ Authorization of Appropriations.—There are authorized to be appropriated to th
 
 #### Next Generation Air Transportation Senior Policy Committee
 
-Pub. L. 108–176, title VII, §710, Dec. 12, 2003, 117 Stat. 2584, provided that:
+Pub. L. 108–176, title VII, §710, Dec. 12, 2003, 117 Stat. 2584, as amended by Pub. L. 112–95, title II, §209, Feb. 14, 2012, 126 Stat. 43, provided that:
 
 “(a)
 
-In General.—The Secretary of Transportation shall establish a senior policy committee to work with the Next Generation Air Transportation System Joint Planning and Development Office. The senior policy committee shall be chaired by the Secretary.
+In General.—The Secretary of Transportation shall establish a senior policy committee to work with the Next Generation Air Transportation System Joint Planning and Development Office. The senior policy committee shall be chaired by the Secretary and shall meet at least twice each year.
 
 “(b)
 
@@ -584,7 +1678,33 @@ Function.—The senior policy committee shall—
 
 “(d)
 
-Consultation.—In carrying out its functions under this section, the senior policy committee shall consult with, and ensure participation by, the private sector (including representatives of general aviation, commercial aviation, aviation labor, and the space industry), members of the public, and other interested parties and may do so through a special advisory committee composed of such representatives.”
+Consultation.—In carrying out its functions under this section, the senior policy committee shall consult with, and ensure participation by, the private sector (including representatives of general aviation, commercial aviation, aviation labor, and the space industry), members of the public, and other interested parties and may do so through a special advisory committee composed of such representatives.
+
+“(e)
+
+Annual Report.—
+
+&emsp;“(1)
+
+Submission to congress.—Not later than 1 year after the date of enactment of this subsection \[Feb. 14, 2012\], and annually thereafter on the date of submission of the President's budget request to Congress under section 1105(a) of title 31, United States Code, the Secretary shall submit to Congress a report summarizing the progress made in carrying out the integrated work plan required by section 709(b)(5) \[of Pub. L. 108–176, set out as a note above\] and any changes in that plan.
+
+&emsp;“(2)
+
+Contents.—The report shall include—
+
+&emsp;&emsp;“(A) a copy of the updated integrated work plan;
+
+&emsp;&emsp;“(B) a description of the progress made in carrying out the integrated work plan and any changes in that plan, including any changes based on funding shortfalls and limitations set by the Office of Management and Budget;
+
+&emsp;&emsp;“(C) a detailed description of—
+
+&emsp;&emsp;&emsp;“(i) the success or failure of each item of the integrated work plan for the previous year and relevant information as to why any milestone was not met; and
+
+&emsp;&emsp;&emsp;“(ii) the impact of not meeting the milestone and what actions will be taken in the future to account for the failure to complete the milestone;
+
+&emsp;&emsp;“(D) an explanation of any change to future years in the integrated work plan and the reasons for such change; and
+
+&emsp;&emsp;“(E) an identification of the levels of funding for each agency participating in the integrated work plan devoted to programs and activities under the plan for the previous fiscal year and in the President's budget request.”
 
 #### Reimbursement for Losses Incurred by General Aviation Entities
 
@@ -644,7 +1764,7 @@ Report.—Not later than one year after the date of enactment of this Act \[Dec.
 
 “(c) GAO
 
-Authority.—In order to compile the report required by subsection (b), the Comptroller General, or any of the Comptroller General's duly authorized representatives, shall have access for the purpose of audit and examination to any books, accounts, documents, papers, and records of such air carriers that relate to the information required to compile the report. The Comptroller General shall submit with the report a certification as to whether the Comptroller General has had access to sufficient information to make informed judgments on the matters covered by the report.
+Authority.—In order to compile the report required by subsection (b), the Comptroller General, orany of the Comptroller General's duly authorized representatives, shall have access for the purpose of audit and examination to any books, accounts, documents, papers, and records of such air carriers that relate to the information required to compile the report. The Comptroller General shall submit with the report a certification as to whether the Comptroller General has had access to sufficient information to make informed judgments on the matters covered by the report.
 
 “(d)
 
@@ -676,7 +1796,7 @@ Pub. L. 107–56, title VI, §622(e)(2), Oct. 26, 2001, 115 Stat. 372, provided 
 
 #### Air Transportation Safety and System Stabilization
 
-Pub. L. 112–10, div. B, title III, §1347, Apr. 15, 2011, 125 Stat. 124, provided that: “Notwithstanding any otherprovision of law, in fiscal year 2012 and thereafter payments for costs described in subsection (a) of section 404 of Public Law 107–42, as amended \[set out below\], shall be considered to be, and included in, payments for compensation for the purposes of sections 406(b) and (d)(1) of such Act.”
+Pub. L. 112–10, div. B, title III, §1347, Apr. 15, 2011, 125 Stat. 124, provided that: “Notwithstanding any other provision of law, in fiscal year 2012 and thereafter payments for costs described in subsection (a) of section 404 of Public Law 107–42, as amended \[set out below\], shall be considered to be, and included in, payments for compensation for the purposes of sections 406(b) and (d)(1) of such Act.”
 
 Pub. L. 107–42, Sept. 22, 2001, 115 Stat. 230, as amended by Pub. L. 107–71, title I, §124(a), (c), (d), title II, §201, Nov. 19, 2001, 115 Stat. 631, 645; Pub. L. 107–134, title I, §114(a), Jan. 23, 2002, 115 Stat. 2435; Pub. L. 107–296, title VIII, §890, title XII, §1201(2), Nov. 25, 2002, 116 Stat. 2251, 2286; Pub. L. 110–113, §3, Nov. 8, 2007, 121 Stat. 1039; Pub. L. 110–161, div. D, title I, Dec. 26, 2007, 121 Stat. 1974; Pub. L. 111–347, title II, Jan. 2, 2011, 124 Stat. 3659, provided that:
 
@@ -788,7 +1908,7 @@ Report.—Not later than February 1, 2002, the President shall transmit to the C
 
 “(b)
 
-Update.—Not later than the last day of the 7-month period following the date of enactment of thisAct \[Sept. 22, 2001\], the President shall update and transmit the report to the Committees.
+Update.—Not later than the last day of the 7-month period following the date of enactment of this Act \[Sept. 22, 2001\], the President shall update and transmit the report to the Committees.
 
 #### “SEC. 107. DEFINITIONS.
 
@@ -986,7 +2106,7 @@ Contents.—The form developed under subparagraph (A) shall request—
 
 &emsp;&emsp;&emsp;“(ii) information from the claimant concerning any possible economic and noneconomic losses that the claimant suffered as a result of such crashes or debris removal during the immediate aftermath; and
 
-&emsp;&emsp;&emsp;“(iii) information regarding collateral sources of compensation the claimant has received or is entitled to receive as a result of such crashes or debris removal during the immediate aftermath.
+&emsp;&emsp;&emsp;“(iii) information regarding collateral sources of compensation the claimant has received or isentitled to receive as a result of such crashes or debris removal during the immediate aftermath.
 
 &emsp;“(3)
 
@@ -1160,7 +2280,7 @@ In general.—The Special Master shall ratably reduce the amount of compensation
 
 &emsp;&emsp;“(B)
 
-Payment of remainder of claim amounts.—In any case in which the amount of a claim is ratably reduced pursuant to subparagraph (A), on or after the first day after the 5-year period describedin paragraph (1), but in no event later than 1 year after such 5-year period, the Special Master shall pay to the claimant the amount that is equal to the difference between—
+Payment of remainder of claim amounts.—In any case in which the amount of a claim is ratably reduced pursuant to subparagraph (A), on or after the first day after the 5-year period described in paragraph (1), but in no event later than 1 year after such 5-year period, the Special Master shall pay to the claimant the amount that is equal to the difference between—
 
 &emsp;&emsp;&emsp;“(i) the amount that the claimant would have been paid under this title during such period without regard to the limitation under the second sentence of paragraph (1) applicable to such period; and
 
@@ -1316,7 +2436,7 @@ Exclusion.—Nothing in this section shall in any way limit any liability of any
 
 #### “SEC. 601. SEPARABILITY.
 
-“If any provision of this Act (including any amendment made by this Act \[amending sections 44302 to 44306 of this title\]) or the application thereof to any person or circumstance is held invalid, the remainder of this Act (including any amendment made by this Act) and the application thereof to other persons or circumstances shall not be affected thereby.”
+“If any provision of this Act (including any amendment made by this Act \[amending sections 44302 to44306 of this title\]) or the application thereof to any person or circumstance is held invalid, the remainder of this Act (including any amendment made by this Act) and the application thereof to other persons or circumstances shall not be affected thereby.”
 
 \[Pub. L. 107–134, title I, §114(b), Jan. 23, 2002, 115 Stat. 2436, provided that: “The amendment made by this section \[amending Pub. L. 107–42, set out above\] shall take effect as if included in section 301 of the Air Transportation Safety and System Stabilization Act (Public Law 107–42).”\]
 
@@ -1404,7 +2524,7 @@ Report.—Not later than 1 year after the date of the enactment of this Act \[Ap
 
 #### Findings
 
-Section 271 of Pub. L. 104–264 provided that: “Congress finds the following:
+Pub. L. 104–264, title II, §271, Oct. 9, 1996, 110 Stat. 3238, provided that: “Congress finds the following:
 
 &emsp;“(1) The Administration \[Federal Aviation Administration\] is recognized throughout the world as a leader in aviation safety.
 
@@ -1436,7 +2556,7 @@ Section 271 of Pub. L. 104–264 provided that: “Congress finds the following:
 
 #### Purposes
 
-Section 272 of title II of Pub. L. 104–264 provided that: “The purposes of this subtitle \[subtitle C (§§271–278) of title II of Pub. L. 104–264, enacting sections 45301, 45303, 48111, and 48201 of this title, amending section 41742 of this title, renumbering section 45303 of this title as section 45304, repealing former section 45301 of this title, and enacting provisions set out as notes under this section and section 41742 of this title\] are—
+Pub. L. 104–264, title II, §272, Oct. 9, 1996, 110 Stat. 3239, provided that: “The purposes of this subtitle \[subtitle C (§§271–278) of title II of Pub. L. 104–264, enacting sections 45301, 45303, 48111, and 48201 of this title, amending section 41742 of this title, renumbering section 45303 of this title as section 45304, repealing former section 45301 of this title, and enacting provisions set out as notes under this section and section 41742 of this title\] are—
 
 &emsp;“(1) to provide a financial structure for the Administration \[Federal Aviation Administration\] so that it will be able to support the future growth in the national aviation and airport system;
 
@@ -1454,7 +2574,7 @@ Section 272 of title II of Pub. L. 104–264 provided that: “The purposes of t
 
 #### Independent Assessment of FAA Financial Requirements; Establishment of National Civil Aviation Review Commission
 
-Section 274 of Pub. L. 104–264, as amended by Pub. L. 106–181, title III, §307(c)(3), Apr. 5, 2000, 114 Stat. 126, provided that:
+Pub. L. 104–264, title II, §274, Oct. 9, 1996, 110 Stat. 3240, as amended by Pub. L. 106–181, title III, §307(c)(3), Apr. 5, 2000, 114 Stat. 126, provided that:
 
 “(a)
 
@@ -1546,7 +2666,7 @@ Report to secretary.—
 
 &emsp;&emsp;&emsp;“(i)
 
-In general.—The aviation funding task force established pursuant to paragraph (3) shall submit a report setting forth a comprehensive analysis of the Administration's budgetary requirements through fiscal year 2002, based upon the independent assessment under subsection (a), that analyzes alternative financing and funding means for meeting the needs of the aviation system through the year 2002. The task force shall submit a preliminary report of that analysis to the Secretary not later than 6 months after the independent assessment is completed under subsection (a). The Secretary shall provide comments on the preliminary report to the task force within 30 days after receiving the report. The task force shall issue a final report of such comprehensive analysis within 30 days after receiving the Secretary's comments on its preliminary report.
+In general.—The aviation funding task force established pursuant to paragraph (3) shall submit a report setting forth a comprehensive analysis of the Administration's budgetary requirements through fiscal year 2002, based upon the independent assessment under subsection (a), that analyzes alternative financing and funding means for meeting the needs of the aviation system through the year 2002. The task force shall submit a preliminary report of that analysis tothe Secretary not later than 6 months after the independent assessment is completed under subsection (a). The Secretary shall provide comments on the preliminary report to the task force within 30 days after receiving the report. The task force shall issue a final report of such comprehensive analysis within 30 days after receiving the Secretary's comments on its preliminary report.
 
 &emsp;&emsp;&emsp;“(ii)
 
@@ -1712,7 +2832,7 @@ Report by the administrator based on final report of aviation safety task force.
 
 “(d)
 
-GAO Audit of Cost Allocation.—The Comptroller General shall conduct an assessment of the manner in which costs for air traffic control services are allocated between the Administration and the Department of Defense. The Comptroller General shall report theresults of the assessment, together with any recommendations the Comptroller General may have for reallocation of costs and for opportunities to increase the efficiency of air traffic control services provided by the Administration and by the Department of Defense, to the Commission, the Administrator, the Secretary of Defense, the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate not later than 180 days after the date of the enactment of this Act.
+GAO Audit of Cost Allocation.—The Comptroller General shall conduct an assessment of the manner in which costs for air traffic control services are allocated between the Administration and the Department of Defense. The Comptroller General shall report the results of the assessment, together with any recommendations the Comptroller General may have for reallocation of costs and for opportunities to increase the efficiency of air traffic control services provided by the Administration and by the Department of Defense, to the Commission, the Administrator, the Secretary of Defense, the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate not later than 180 days after the date of the enactment of this Act.
 
 “(e)
 
@@ -1830,7 +2950,7 @@ Pub. L. 103–305, title III, §304, Aug. 23, 1994, 108 Stat. 1591, provided tha
 
 Establishment.—The Administrator \[of the Federal Aviation Administration\], in consultation with the heads of other appropriate Federal agencies, shall establish a research program to determine—
 
-&emsp;“(1) what, if any, aircraft cabin air conditions, including pressure altitude systems, on flights withinthe United States are harmful to the health of airline passengers and crew, as indicated by physical symptoms such as headaches, nausea, fatigue, and lightheadedness; and
+&emsp;“(1) what, if any, aircraft cabin air conditions, including pressure altitude systems, on flights within the United States are harmful to the health of airline passengers and crew, as indicated by physical symptoms such as headaches, nausea, fatigue, and lightheadedness; and
 
 &emsp;“(2) the risk of airline passengers and crew contracting infectious diseases during flight.
 
@@ -1890,7 +3010,7 @@ Pub. L. 103–298, Aug. 17, 1994, 108 Stat. 1552, as amended by Pub. L. 105–10
 
 “(a)
 
-In General.—Except as provided in subsection (b), no civil action for damages for death or injury to persons or damage to property arising out of an accident involving a general aviation aircraft may be brought against the manufacturer of the aircraft or the manufacturer of any new component, system, subassembly, or other part of the aircraft, in its capacity as a manufacturer if the accident occurred—
+In General.—Except as provided in subsection (b), no civil action for damages for death or injury topersons or damage to property arising out of an accident involving a general aviation aircraft may be brought against the manufacturer of the aircraft or the manufacturer of any new component, system, subassembly, or other part of the aircraft, in its capacity as a manufacturer if the accident occurred—
 
 &emsp;“(1) after the applicable limitation period beginning on—
 
@@ -1946,6 +3066,34 @@ Application of Act.—This Act shall not apply with respect to civil actions com
 
 Pub. L. 102–581, title II, §204, Oct. 31, 1992, 106 Stat. 4891, as amended Pub. L. 103–13, §1, Apr. 7, 1993, 107 Stat. 43, provided for establishment of National Commission to Ensure a Strong Competitive Airline Industry to make a complete investigation and study of financial condition of the airline industry, adequacy of competition in the airline industry, and legal impediments to a financially strong and competitive airline industry, to report to President and Congress not later than 90 days after the date on which initial appointments of members to the Commission were completed, and to terminate on the 30th day following transmission of report.
 
+#### Definitions of Terms in Title II of Pub. L. 112–95
+
+Pub. L. 112–95, title IX, §902, Feb. 14, 2012, 126 Stat. 138, provided that: “In this title \[amending sections 44504, 44505, 44511, 44513, and 48102 of this title, enacting provisions set out as notes under this section and sections 44501, 44504, 44505, and 44513 of this title, and amending provisions set out as notes under section 44504 of this title\], the following definitions apply:
+
+&emsp;“(1)
+
+Administrator.—The term ‘Administrator’ means the Administrator of the FAA.
+
+&emsp;“(2)
+
+FAA.—The term ‘FAA’ means the Federal Aviation Administration.
+
+&emsp;“(3)
+
+Institution of higher education.—The term ‘institution of higher education’ has the same meaning given the term in section 101(a) of the Higher Education Act of 1965 (20 U.S.C. 1001(a)).
+
+&emsp;“(4)
+
+NASA.—The term ‘NASA’ means the National Aeronautics and Space Administration.
+
+&emsp;“(5)
+
+NOAA.—The term ‘NOAA’ means the National Oceanic and Atmospheric Administration.”
+
+#### Definitions of Terms in Pub. L. 107–71
+
+For definitions of terms used in sections 127 and 145 of Pub. L. 107–71, set out above, see section 133 of Pub. L. 107–71, set out as a note under section 40102 of this title.
+
 #### Ex. Ord. No. 13479. Transformation of the National Air Transportation System
 
 Ex. Ord. No. 13479, Nov. 18, 2008, 73 F.R. 70241, provided:
@@ -1958,7 +3106,7 @@ Sec. 2. <i>Definitions</i>. As used in this order the term “Next Generation Ai
 
 Sec. 3. <i>Functions of the Secretary of Transportation</i>. Consistent with sections 709 and 710 of the Act and the policy set forth in section 1 of this order, the Secretary of Transportation shall:
 
-(a) take such action within the authority of the Secretary, and recommend as appropriate to the President such action as is within the authority of the President, to implement the policy set forth in section 1 of this order and in particular to implement the NextGen in a safe, secure, timely, environmentally sound, efficient, and effective manner;
+(a) take such action within the authority of the Secretary, and recommend as appropriate to the President such action as is within the authority of the President, to implement the policy set forth in section 1 of thisorder and in particular to implement the NextGen in a safe, secure, timely, environmentally sound, efficient, and effective manner;
 
 (b) convene quarterly, unless the Secretary determines that meeting less often is consistent with effective implementation of the policy set forth in section 1 of this order, the Senior Policy Committee established pursuant to section 710 of the Act (Committee);
 
@@ -2011,8 +3159,4 @@ Sec. 6. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity, by any party against the United States, its departments, agencies, instrumentalities, or entities, its officers, employees, or agents, or any other person.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Definitions of Terms in Pub. L. 107–71
-
-For definitions of terms used in sections 127 and 145 of Pub. L. 107–71, set out above, see section 133 of Pub. L. 107–71, set out as a note under section 40102 of this title.
 

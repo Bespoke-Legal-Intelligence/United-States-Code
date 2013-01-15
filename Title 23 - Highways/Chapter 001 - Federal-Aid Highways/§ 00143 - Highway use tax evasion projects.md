@@ -14,7 +14,15 @@ In general.—The Secretary shall carry out highway use tax evasion projects in 
 
 &emsp;(2)
 
-Allocation of funds.—Funds made available to carry out this section may be allocated to the Internal Revenue Service and the States at the discretion of the Secretary; except that of funds so made available for each of fiscal years 2005 through 2009, $2,000,000 shall be available only to carry out intergovernmental enforcement efforts, including research and training.
+Funding.—
+
+&emsp;&emsp;(A)
+
+In general.—From administrative funds made available under section 104(a), the Secretary shall deduct such sums as are necessary, not to exceed $10,000,000 for each of fiscal years 2013 and 2014, to carry out this section.
+
+&emsp;&emsp;(B)
+
+Allocation of funds.—Funds made available to carry out this section may be allocated to the Internal Revenue Service and the States at the discretion of the Secretary, except that of funds so made available for each fiscal year, $2,000,000 shall be available only to carry out intergovernmental enforcement efforts, including research and training.
 
 &emsp;(3)
 
@@ -56,7 +64,7 @@ Period of availability.—Funds authorized to carry out this section shall remai
 
 &emsp;(8)
 
-Use of surface transportation program funding.—In addition to funds made available to carry out this section, a State may expend up to ¼ of 1 percent of the funds apportioned to the State for a fiscal year under section 104(b)(3) on initiatives to halt the evasion of payment of motor fuel taxes.
+Use of surface transportation program funding.—In addition to funds made available to carry out this section, a State may expend up to ¼ of 1 percent of the funds apportioned to the State for a fiscal year under section 104(b)(2) on initiatives to halt the evasion of payment of motor fuel taxes.
 
 &emsp;(9)
 
@@ -74,7 +82,7 @@ In general.—Not later than 90 days after the date of enactment of the SAFETEA�
 
 &emsp;&emsp;(B) the completion of requirements needed for the electronic reporting of fuel transactions from carriers and terminal operators,
 
-&emsp;&emsp;(C) the operation and maintenance of an excise summary terminal activity reporting system and other systems used to provide strategic analyses of domestic and foreign motor fuel distribution trends and patterns,
+&emsp;&emsp;(C) the operation and maintenance of an excise summary terminal activity reportingsystem and other systems used to provide strategic analyses of domestic and foreign motor fuel distribution trends and patterns,
 
 &emsp;&emsp;(D) the collection, analysis, and sharing of information on fuel distribution and compliance or noncompliance with fuel taxes, and
 
@@ -92,17 +100,17 @@ Elements of memorandum of understanding.—The memorandum of understanding shall
 
 &emsp;(3)
 
-Funding.—Of the amounts made available to carry out this section for each of fiscal years 2005 through 2009, the Secretary shall make available to the Internal Revenue Service such funds as may be necessary to complete, operate, and maintain the systems under paragraph (1) in accordance with this subsection.
+Funding.—Of the amounts made available to carry out this section for each fiscal year, the Secretary shall make available to the Internal Revenue Service such funds as may be necessary to complete, operate, and maintain the systems under paragraph (1) in accordance with this subsection.
 
 &emsp;(4)
 
 Reports.—Not later than September 30 of each year, the Commissioner of the Internal Revenue Service shall provide reports to the Secretary on the status of the Internal Revenue Service projects funded under this subsection.
 
-(Added Pub. L. 91–605, title I, §127(a), Dec. 31, 1970, 84 Stat. 1729; amended Pub. L. 93–87, title I, §122, Aug. 13, 1973, 87 Stat. 261; Pub. L. 105–178, title I, §1114(a), (c), June 9, 1998, 112 Stat. 152; Pub. L. 105–206, title IX, §9002(h), July 22, 1998, 112 Stat. 836; Pub. L. 109–59, title I, §1115(a), (b), Aug. 10, 2005, 119 Stat. 1175, 1176.)
+(Added Pub. L. 91–605, title I, §127(a), Dec. 31, 1970, 84 Stat. 1729; amended Pub. L. 93–87, title I, §122, Aug. 13, 1973, 87 Stat. 261; Pub. L. 105–178, title I, §1114(a), (c), June 9, 1998, 112 Stat. 152; Pub. L. 105–206, title IX, §9002(h), July 22, 1998, 112 Stat. 836; Pub. L. 109–59, title I, §1115(a), (b), Aug. 10, 2005, 119 Stat. 1175, 1176; Pub. L. 112–141, div. A, title I, §1110, July 6, 2012, 126 Stat. 444.)
 
 #### References in Text
 
-The SAFETEA–LU, referred to in subsec. (c)(1), is Pub. L. 109–59, Aug. 10, 2005, 119 Stat. 1144, also known as the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users. For complete classification of this Act to the Code, see Short Title of 2005 Amendments note set out under section 101 of this title and Tables.
+The SAFETEA–LU, referred to in subsec. (c)(1), is Pub. L. 109–59, Aug. 10, 2005, 119 Stat. 1144, also known as the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users. For complete classification of this Act to the Code, see Short Title of 2005 Amendment note set out under section 101 of this title and Tables.
 
 The American Jobs Creation Act of 2004, referred to in subsec. (c)(1)(A), is Pub. L. 108–357, Oct. 22, 2004, 118 Stat. 1418, as amended. For complete classification of this Act to the Code, see Short Title of 2004 Amendments note set out under section 1 of Title 26, Internal Revenue Code, and Tables.
 
@@ -113,6 +121,12 @@ Section 6103 of the Internal Revenue Code of 1986, referred to in subsec. (c)(2)
 Provisions similar to those in this section were contained in Pub. L. 102–240, title I, §1040, Dec. 18, 1991, 105 Stat. 1992, as amended, which was set out as a note under section 101 of this title, prior to repeal by Pub. L. 105–178, §1114(b)(2).
 
 #### Amendments
+
+<b>2012</b>—Subsec. (b)(2). Pub. L. 112–141, §1110(1)(A), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “Funds made available to carry out this section may be allocated to the Internal Revenue Service and the States at the discretion of the Secretary; except that of funds so made available for each of fiscal years 2005 through 2009, $2,000,000 shall be available only to carry out intergovernmental enforcement efforts, including research and training.”
+
+Subsec. (b)(8). Pub. L. 112–141, §1110(1)(B), substituted “section 104(b)(2)” for “section 104(b)(3)”.
+
+Subsec. (c)(3). Pub. L. 112–141, §1110(2), substituted “for each fiscal year,” for “for each of fiscal years 2005 through 2009,”.
 
 <b>2005</b>—Subsec. (b)(2). Pub. L. 109–59, §1115(a)(1), inserted before period at end “; except that of funds so made available for each of fiscal years 2005 through 2009, $2,000,000 shall be available only to carry out intergovernmental enforcement efforts, including research and training”.
 
@@ -139,6 +153,10 @@ Subsec. (c). Pub. L. 93–87, §122(a), substituted “project” for “demonst
 Subsec. (d). Pub. L. 93–87, §122(a), substituted “highways on the Federal-aid system on which such development highway is located” for “Federal-aid primary highways”.
 
 Subsec. (e). Pub. L. 93–87, §122(b), inserted introductory text “Except as otherwise provided in subsection (c) of this section,” and substituted “the Federal share of the cost of any project for construction, reconstruction, or improvement of a development highway under this section shall be the same as that provided under this title for any other project on the Federal-aid system on which such development highway is located” for “the Federal share of the cost of any project for construction, reconstruction, or improvement of a development highway under this section shall be increased by not to exceed an additional 20 per centum of the cost of such project, except that in no case shall the Federal share exceed 95 per centum of the cost of such project”.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
 
 #### Effective Date of 1998 Amendment
 

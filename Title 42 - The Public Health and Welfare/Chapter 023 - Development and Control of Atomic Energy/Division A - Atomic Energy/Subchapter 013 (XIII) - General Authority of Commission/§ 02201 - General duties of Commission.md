@@ -20,7 +20,7 @@ In the performance of its functions the Commission is authorized to—
 
 #### (e) Acquisition of material, property, etc.; negotiation of commercial leases
 
-&emsp;acquire such material, property, equipment, and facilities, establish or construct such buildings and facilities, and modify such buildings and facilities from time to time, as it may deem necessary, and construct, acquire, provide, or arrange for such facilities and services (at project sites where such facilities and services are not available) for the housing, health, safety, welfare, and recreation of personnel employed by the Commission as it may deem necessary, subject to the provisions of section 2224 of this title: <i>Provided, however</i>, That in the communities owned by the Commission, the Commission is authorized to grant privileges, leases and permits upon adjusted terms which (at the time of the initial grant of any privilege grant, lease, or permit, or renewal thereof, or in order to avoid inequities or undue hardship prior to the sale by the United States of property affected by such grant) are fair and reasonable to responsible persons to operate commercial businesses without advertising and without advertising <sup>1</sup> and without securing competitive bids, but taking into consideration, in addition to the price, and among other things (1) the quality and type of services required by the residents of the community, (2) the experience of each concession applicant in the community and its surrounding area, (3) the ability of the concession applicant to meet the needs of the community, and (4) the contribution the concession applicant has made or will make to the other activities and general welfare of the community;
+&emsp;acquire such material, property, equipment, and facilities, establish or construct such buildings and facilities, and modify such buildings and facilities from time to time, as it may deem necessary, and construct, acquire, provide, or arrange for such facilities and services (at project sites where such facilities and services are not available) for the housing, health, safety, welfare, and recreation of personnel employed by the Commission as it may deem necessary, subject to the provisions of section 2224 of this title: <i>Provided, however</i>, That in the communities owned by the Commission, the Commission is authorized to grant privileges, leases and permits upon adjusted terms which (at the time of the initial grant of any privilege grant, lease, or permit, or renewal thereof, or in order to avoid inequities or undue hardship prior to the sale by the United States of property affected by such grant) are fair and reasonable to responsible persons to operate commercial businesses without advertising and without advertising <sup>1</sup> and without securing competitive bids, buttaking into consideration, in addition to the price, and among other things (1) the quality and type of services required by the residents of the community, (2) the experience of each concession applicant in the community and its surrounding area, (3) the ability of the concession applicant to meet the needs of the community, and (4) the contribution the concession applicant has made or will make to the other activities and general welfare of the community;
 
 #### (f) Utilization of other Federal agencies
 
@@ -46,7 +46,7 @@ In the performance of its functions the Commission is authorized to—
 
 &emsp;authorize such of its members, officers, and employees as it deems necessary in the interest of the common defense and security to carry firearms while in the discharge of their official duties. The Commission may also authorize such of those employees of its contractors and subcontractors (at any tier) engaged in the protection of property under the jurisdiction of the United States located at facilities owned by or contracted to the United States or being transported to or from such facilities as it deems necessary in the interests of the common defense and security to carry firearms while in the discharge of their official duties. A person authorized to carry firearms under this subsection may, while in the performance of, and in connection with, official duties, make arrests without warrant for any offense against the United States committed in that person's presence or for any felony cognizable under the laws of the United States if that person has reasonable ground to believe that the individual to be arrested has committed or is committing such felony. An employee of a contractor or subcontractor authorized to carry firearms under this subsection may make such arrests only when the individual to be arrested is within, or in direct flight from, the area of such offense. A person granted authority to make arrests by this subsection may exercise that authority only in the enforcement of (1) laws regarding the property of the United States in the custody of the Department of Energy, the Nuclear Regulatory Commission, or a contractor of the Department of Energy or Nuclear Regulatory Commission, or (2) any provision of this chapter that may subject an offender to a fine, imprisonment, or both. The arrest authority conferred by this subsection is in addition to any arrest authority under other laws. The Secretary, with the approval of the Attorney General, shall issue guidelines to implement this subsection;
 
-#### (<i>l</i>) Repealed. Pub. L. 87–456, title III, §303(c), May 24, 1962, 76 Stat. 78
+#### (l) Repealed. Pub. L. 87–456, title III, §303(c), May 24, 1962, 76 Stat. 78
 
 #### (m) Agreements regarding production
 
@@ -56,7 +56,7 @@ In the performance of its functions the Commission is authorized to—
 
 &emsp;delegate to the General Manager or other officers of the Commission any of those functions assigned to it under this chapter except those specified in sections 2071, 2077(b), 2091, 2138, 2153, 2165(b) of this title (with respect to the determination of those persons to whom the Commission may reveal Restricted Data in the national interest), 2165(f) of this title and subsection (a) of this section;
 
-#### (<i>o</i>) Reports
+#### (o) Reports
 
 &emsp;require by rule, regulation, or order, such reports, and the keeping of such records with respect to, and to provide for such inspections of, activities and studies of types specified in section 2051 of this title and of activities under licenses issued pursuant to sections 2073, 2093, 2111, 2133, and 2134 of this title, as may be necessary to effectuate the purposes of this chapter, including section 2135 of this title; and
 
@@ -94,7 +94,7 @@ In the performance of its functions the Commission is authorized to—
 
 #### (s) Succession of authority
 
-&emsp;establish a plan for a succession of authority which will assure the continuity of directionof the Commission's operations in the event of a national disaster due to enemy activity. Notwithstanding any other provision of this chapter, the person or persons succeeding to command in the event of disaster in accordance with the plan established pursuant to this subsection shall be vested with all of the authority of the Commission: <i>Provided</i>, That any such succession to authority, and vesting of authority shall be effective only in the event and as long as a quorum of three or more members of the Commission is unable to convene and exercise direction during the disaster period: <i>Provided further</i>, That the disaster period includes the period when attack on the United States is imminent and the post-attack period necessary to reestablish normal lines of command;
+&emsp;establish a plan for a succession of authority which will assure the continuity of direction of the Commission's operations in the event of a national disaster due to enemy activity. Notwithstanding any other provision of this chapter, the person or persons succeeding tocommand in the event of disaster in accordance with the plan established pursuant to this subsection shall be vested with all of the authority of the Commission: <i>Provided</i>, That any such succession to authority, and vesting of authority shall be effective only in the event and as long as a quorum of three or more members of the Commission is unable to convene and exercise direction during the disaster period: <i>Provided further</i>, That the disaster period includes the period when attack on the United States is imminent and the post-attack period necessary to reestablish normal lines of command;
 
 #### (t) Contracts
 
@@ -122,7 +122,7 @@ In the performance of its functions the Commission is authorized to—
 
 &emsp;Establish by rule, regulation, or order, after public notice, and in accordance with the requirements of section 2231 of this title, such standards and instructions as the Commission may deem necessary or desirable to ensure—
 
-&emsp;&emsp;(1) that an adequate bond, surety, or other financial arrangement (as determined by the Commission) will be provided, before termination of any license for byproduct material as defined in section 2014(e)(2) of this title, by a licensee to permit the completion of all requirements established by the Commission for the decontamination, decommissioning,and reclamation of sites, structures, and equipment used in conjunction with byproduct material as so defined, and
+&emsp;&emsp;(1) that an adequate bond, surety, or other financial arrangement (as determined by the Commission) will be provided, before termination of any license for byproduct material as defined in section 2014(e)(2) of this title, by a licensee to permit the completion of all requirements established by the Commission for the decontamination, decommissioning, and reclamation of sites, structures, and equipment used in conjunction with byproduct material as so defined, and
 
 &emsp;&emsp;(2) that—
 
@@ -132,7 +132,11 @@ In the performance of its functions the Commission is authorized to—
 
 > &emsp;Such standards and instructions promulgated by the Commission pursuant to this subsection shall take into account, as determined by the Commission, so as to avoid unnecessary duplication and expense, performance bonds or other financial arrangements which are required by other Federal agencies or State agencies and/or other local governing bodies for such decommissioning, decontamination, and reclamation and long-term maintenance and monitoring except that nothing in this paragraph shall be construed to require that the Commission accept such bonds or arrangements if the Commission determines that such bonds or arrangements are not adequate to carry out subparagraphs (1) and (2) of this subsection.
 
-(Aug. 1, 1946, ch. 724, title I, §161, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 948; amended July 14, 1956, ch. 608, 70 Stat. 553; Aug. 6, 1956, ch. 1015, §4, 70 Stat. 1069; Pub. L. 85–162, title II, §§201, 204, Aug. 21, 1957, 71 Stat. 410; Pub. L. 85–287, §4, Sept. 4, 1957, 71 Stat. 613; Pub. L. 85–507, §21(b)(1), July 7, 1958, 72 Stat. 337; Pub. L. 85–681, §§6, 7, Aug. 19, 1958, 72 Stat. 633; Pub. L. 86–300, §1, Sept. 21, 1959, 73 Stat. 574; Pub. L. 87–206, §13, Sept. 6, 1961, 75 Stat. 478; Pub. L. 87–456, title III, §303(c), May 24, 1962, 76 Stat. 78; Pub. L. 87–615, §12, Aug. 29, 1962, 76 Stat. 411; Pub. L. 87–793, §1001(g), Oct. 11, 1962, 76 Stat. 864; Pub. L. 88–489, §16, Aug. 26, 1964, 78 Stat. 606; Pub. L. 90–190, §11, Dec. 14, 1967, 81 Stat. 578; Pub. L. 91–452, title II, §237, Oct. 15, 1970, 84 Stat. 930; Pub. L. 91–560, §§7, 8, Dec. 19, 1970, 84 Stat. 1474; Pub. L. 92–314, title III, §301, June 16, 1972, 86 Stat. 227; Pub. L. 93–377, §7, Aug. 17, 1974, 88 Stat. 475; Pub. L. 95–604, title II, §203, Nov. 8, 1978, 92 Stat. 3036; Pub. L. 97–90, title II, §211, Dec. 4, 1981, 95 Stat. 1170; Pub. L. 99–661, div. C, title I, §3134, Nov. 14, 1986, 100 Stat. 4064; Pub. L. 100–449, title III, §305(b), Sept. 28, 1988, 102 Stat. 1876; Pub. L. 101–575, §5(b), Nov. 15, 1990, 104 Stat. 2835; renumbered title I and amended Pub. L. 102–486, title IX, §902(a)(4), (5), (8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 109–58, title VI, §§623, 626, Aug. 8, 2005, 119 Stat. 783, 784.)
+(Aug. 1, 1946, ch. 724, title I, §161, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 948; amended July 14, 1956, ch. 608, 70 Stat. 553; Aug. 6, 1956, ch. 1015, §4, 70 Stat. 1069; Pub. L. 85–162, title II, §§201, 204, Aug. 21, 1957, 71 Stat. 410; Pub. L. 85–287, §4, Sept. 4, 1957, 71 Stat. 613; Pub. L. 85–507, §21(b)(1), July 7, 1958, 72 Stat. 337; Pub. L. 85–681, §§6, 7, Aug. 19, 1958, 72 Stat. 633; Pub. L. 86–300, §1, Sept. 21, 1959, 73 Stat. 574; Pub. L. 87–206, §13, Sept. 6, 1961, 75 Stat. 478; Pub. L. 87–456, title III, §303(c), May 24, 1962, 76 Stat. 78; Pub. L. 87–615, §12, Aug. 29, 1962, 76 Stat. 411; Pub. L. 87–793, title VI, §1001(g), Oct. 11, 1962, 76 Stat. 864; Pub. L. 88–489, §16, Aug. 26, 1964, 78 Stat. 606; Pub. L. 90–190, §11, Dec. 14, 1967, 81 Stat. 578; Pub. L. 91–452, title II, §237, Oct. 15, 1970, 84 Stat. 930; Pub. L. 91–560, §§7, 8, Dec. 19, 1970, 84 Stat. 1474; Pub. L. 92–314, title III, §301, June 16, 1972, 86 Stat. 227; Pub. L. 93–377, §7, Aug. 17, 1974, 88 Stat. 475; Pub. L. 95–604, title II, §203, Nov. 8, 1978, 92 Stat. 3036; Pub. L. 97–90, title II, §211, Dec. 4, 1981, 95 Stat. 1170; Pub. L. 99–661, div. C, title I, §3134, Nov. 14, 1986, 100 Stat. 4064; Pub. L. 100–449, title III, §305(b), Sept. 28, 1988, 102 Stat. 1876; Pub. L. 101–575, §5(b), Nov. 15, 1990, 104 Stat. 2835; renumbered title I and amended Pub. L. 102–486, title IX, §902(a)(4), (5), (8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 109–58, title VI, §§623, 626, Aug. 8, 2005, 119 Stat. 783, 784.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 501(c) of Pub. L. 100–449, see Effective and Termination Dates of 1988 Amendment note below.</i>
 
 #### References in Text
 
@@ -162,9 +166,9 @@ Subsec. (w). Pub. L. 102–486, §902(a)(5), inserted “or which operates any f
 
 <b>1990</b>—Subsec. (b). Pub. L. 101–575, which directed amendment of subsec. (b) by striking the period at the end and inserting “; in addition, the Commission shall prescribe such regulations or orders as may be necessary or desirable to promote the Nation's common defense and security with regard to control, ownership, or possession of any equipment or device, or important component part especially designed for such equipment or device, capable of separating the isotopes of uranium or enriching uranium in the isotope 235;”, was executed by striking the semicolon at end of subsec. (b) and making insertion to reflect probable intent of Congress.
 
-<b>1988</b>—Subsec. (v). Pub. L. 100–449 inserted in closing provisions “For purposes of this subsection and of section 305 of Public Law 99–591 (100 Stat. 3341–209, 210), ‘foreign origin’ excludes source or special nuclear material originating in Canada.”
+<b>1988</b>—Subsec. (v). Pub. L. 100–449 temporarily inserted in closing provisions “For purposes of this subsection and of section 305 of Public Law 99–591 (100 Stat. 3341–209, 210), ‘foreign origin’ excludes source or special nuclear material originating in Canada.” See Effective and Termination Dates of 1988 Amendment note below.
 
-<b>1986</b>—Subsec. (k). Pub. L. 99–661 inserted “and subcontractors (at any tier)” after “employees of its contractors”, substituted “under the jurisdiction of theUnited States” for “owned by the United States and”, inserted “or being transported to or from such facilities” after “contracted to the United States”, inserted after third sentence “An employee of a contractor or subcontractor authorized to carry firearms under this subsection may make such arrests only when the individual to be arrested is within, or in direct flight from, the area of such offense.”, and inserted before the semicolon at end “. The Secretary, with the approval of the Attorney General, shall issue guidelines to implement this subsection”.
+<b>1986</b>—Subsec. (k). Pub. L. 99–661 inserted “and subcontractors (at any tier)” after “employees of its contractors”, substituted “under the jurisdiction of the United States” for “owned by the United States and”, inserted “or being transported to or from such facilities” after “contracted to the United States”, inserted after third sentence “An employee of a contractor or subcontractor authorized to carry firearms under this subsection may make such arrests only when the individual to be arrested is within, or in direct flight from, the area of such offense.”, and inserted before the semicolon at end “. The Secretary, with the approval of the Attorney General, shall issue guidelines to implement this subsection”.
 
 <b>1981</b>—Subsec. (k). Pub. L. 97–90 inserted provision that a person authorized to carry firearms under this subsection may, while in the performance of, and in connection with, official duties, make arrests without warrant for any offense against the United States committed in that person's presence or for any felony cognizable under the laws of the United States if that person has reasonable grounds to believe that the individual to be arrested has committed or is committing such felony, that a person granted authority to make arrests by this subsection may exercise that authority only in the enforcement of (1) laws regarding the property of the United States in the custody of the Department of Energy, the Nuclear Regulatory Commission, or a contractor of the Department of Energy or Nuclear Regulatory Commission, or (2) any provision of this chapter that may subject an offender to a fine, imprisonment, or both, and that the arrest authority conferred by this subsection is in addition to any arrest authority under other laws.
 
@@ -186,7 +190,7 @@ Subsec. (v). Pub. L. 91–560, §8, substituted provisions for the establishment
 
 <b>1962</b>—Subsec. (d). Pub. L. 87–793 substituted “up to a limit of the highest rate of grade 18 of the General Schedule of the Classification Act of 1949, as amended” for “up to a limit of $19,000”.
 
-Subsec. (<i>l</i>). Pub. L. 87–456 repealed subsec. (<i>l</i>) which authorized the admittance free of duty into the United States of purchases made abroad of source materials.
+Subsec. (l). Pub. L. 87–456 repealed subsec. (l) which authorized the admittance free of duty into the United States of purchases made abroad of source materials.
 
 Subsec. (n). Pub. L. 87–615 substituted “2165(f) of this title” for “2165(e) of this title”.
 
@@ -196,7 +200,7 @@ Subsec. (n). Pub. L. 87–615 substituted “2165(f) of this title” for “216
 
 <b>1958</b>—Subsec. (d). Pub. L. 85–681, §6, authorized the Commission to adopt compensation rates on a retroactive basis as may be authorized by the Classification Act for other Government employees.
 
-Subsecs. (n) to (s). Pub. L. 85–507 redesignated subsecs. (<i>o</i>) to (s) as (n) to (r), respectively. Former subsec. (n), which authorized the Commission to assign employees for instruction, education, or training by public or private agencies, institutions of learning, laboratories, or industrial or commercial organizations, was repealed by Pub. L. 85–507, see section 4101 et seq. of Title 5, Government Organizations and Employees.
+Subsecs. (n) to (s). Pub. L. 85–507 redesignated subsecs. (o) to (s) as (n) to (r), respectively. Former subsec. (n), which authorized the Commission to assign employees for instruction, education, or training by public or private agencies, institutions of learning, laboratories, or industrial or commercial organizations, was repealed by Pub. L. 85–507, see section 4101 et seq. of Title 5, Government Organizations and Employees.
 
 Subsecs. (t) to (v). Pub. L. 85–681, §7, added subsecs. (t) to (v).
 
@@ -220,13 +224,13 @@ Amendment by Pub. L. 91–452 effective on sixtieth day following Oct. 15, 1970,
 
 #### Effective Date of 1962 Amendments
 
-Amendment by Pub. L. 87–793 effective on first day of first pay period which begins on or after Oct. 11, 1962, see section 1008 of Pub. L. 87–793.
+Amendment by Pub. L. 87–793 effective on first day of first pay period which begins on or after Oct. 11, 1962, see Pub. L. 87–793, title VI, §1008, Oct. 11, 1962, 76 Stat. 868.
 
-Repeal of subsec. (<i>l</i>) effective with respect to articles entered, or withdrawn from warehouse, for consumption on or after Aug. 31, 1963, see section 501(a) of Pub. L. 87–456.
+Repeal of subsec. (l) effective with respect to articles entered, or withdrawn from warehouse, for consumption on or after Aug. 31, 1963, see Pub. L. 87–456, title V, §501(a), May 24, 1962, 76 Stat. 78.
 
 #### Effective Date of 1958 Amendment
 
-For effective date of amendment by Pub. L. 85–507, see section 21(a) of Pub. L. 85–507.
+For effective date of amendment by Pub. L. 85–507, see Pub. L. 85–507, §21(a), July 7, 1958, 72 Stat. 337.
 
 #### References to United States Enrichment Corporation
 
@@ -238,7 +242,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### Organizational Conflicts of Interest
 
-Pub. L. 95–209, §7, Dec. 13, 1977, 91 Stat. 1483, provided that: “The Commission shall by December 31, 1977, promulgate guidelines to be applied by the Commission in determining whether an organization proposing to enter into a contractual arrangement with the Commission has a conflict of interest which might impair the contractor's judgment or otherwise give the contractor an unfair competitive advantage.”
+Pub. L. 95–209, §7, Dec. 13, 1977, 91 Stat. 1483, provided that: “The Commission shall by December 31, 1977, promulgate guidelines to be applied by the Commission indetermining whether an organization proposing to enter into a contractual arrangement with the Commission has a conflict of interest which might impair the contractor's judgment or otherwise give the contractor an unfair competitive advantage.”
 
 #### Applicability to Functions Transferred by Department of Energy Organization Act
 
@@ -258,7 +262,7 @@ Act May 6, 1955, ch. 34, 69 Stat. 47, as amended by Pub. L. 85–107, July 17, 1
 
 #### Report With Respect to Renegotiations, Reappraisals, and Sales Proceedings
 
-Section 203 of Pub. L. 85–162 directed Atomic Energy Commission, Federal Housing Administration, and Housing and Home Finance Agency to report to Joint Committee by Jan. 31, 1958, with respect to renegotiations, reappraisals, and sales proceedings authorized under sections 201 and 202 of Pub. L. 85–162 \[amending subsec. (e) of this section and enacting section 2325(c) of this title\].
+Pub. L. 85–162, title II, §203, Aug. 21, 1957, 71 Stat. 410, directed Atomic Energy Commission, Federal Housing Administration, and Housing and Home Finance Agency to report to Joint Committee by Jan. 31, 1958, with respect to renegotiations, reappraisals, and sales proceedings authorized under sections 201 and 202 of Pub. L. 85–162 \[amending subsec. (e) of this section and enacting section 2325(c) of this title\].
 
 <i><sup>1</sup></i><i> So in original.</i>
 

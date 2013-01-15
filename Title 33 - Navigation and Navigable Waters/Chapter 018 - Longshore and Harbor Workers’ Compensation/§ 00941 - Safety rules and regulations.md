@@ -20,7 +20,7 @@ The Secretary, in enforcing and administering the provisions of this section, is
 
 #### (c) Inspection of places and practices of employment
 
-The Secretary or his authorized representative may inspect such places of employment, question such employees, and investigate such conditions, practices, or matters in connection withemployment subject to this chapter, as he may deem appropriate to determine whether any person has violated any provision of this section, or any rule or regulation issued thereunder, or which may aid in the enforcement of the provisions of this section. No employer or other person shall refuse to admit the Secretary or his authorized representatives to any such place or shall refuse to permit any such inspection.
+The Secretary or his authorized representative may inspect such places of employment, question such employees, and investigate such conditions, practices, or matters in connection with employment subject to this chapter, as he may deem appropriate to determine whether any person has violated any provision of this section, or any rule or regulation issued thereunder, or which may aid in the enforcement of the provisions of this section. No employer or other person shall refuse to admit the Secretary or his authorized representatives to any such place or shall refuse to permit any such inspection.
 
 #### (d) Requests for advice; variations from safety rules and regulations
 
@@ -72,5 +72,5 @@ As originally enacted, subsec. (e) contained the phrase “, together with the 
 
 #### “Secretary” Defined
 
-Section 2 of Pub. L. 85–742 provided that: “The term ‘Secretary’ as used in this Act and in amendments made by this Act \[to this section\] means the Secretary of Labor.”
+Pub. L. 85–742, §2, Aug. 23, 1958, 72 Stat. 837, provided that: “The term ‘Secretary’ as used in this Act and in amendments made by this Act \[to this section\] means the Secretary of Labor.”
 

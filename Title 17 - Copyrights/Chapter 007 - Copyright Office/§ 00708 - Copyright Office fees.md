@@ -144,7 +144,7 @@ Amendment by Pub. L. 102–307 effective June 26, 1992, but applicable only to c
 
 #### Effective Date of 1990 Amendment
 
-Section 2(d) of Pub. L. 101–318 provided that:
+Pub. L. 101–318, §2(d), July 3, 1990, 104 Stat. 288, provided that:
 
 “(1)
 
@@ -160,11 +160,11 @@ Prior claims.—Claims to original, supplementary, and renewal copyright receive
 
 #### Effective Date of 1982 Amendment; Transitional Rule
 
-Section 2 of Pub. L. 97–366 provided that: “This Act \[amending this section, section 110 of this title, and section 3 of Title 35, Patents\] shall take effect thirty days after its enactment \[Oct. 25, 1982\] and shall apply to claims to original, supplementary, and renewal copyright received for registration in the Copyright Office on or after the effective date. Claims to original, supplementary, and renewal copyright received for registration in acceptable form in the Copyright Office before the effective date shall be governed by the provisions of section 708(a)(1) and (2) in effect prior to this enactment.”
+Pub. L. 97–366, §2, Oct. 25, 1982, 96 Stat. 1759, provided that: “This Act \[amending this section, section 110 of this title, and section 3 of Title 35, Patents\] shall take effect thirty days after its enactment \[Oct. 25, 1982\] and shall apply to claims to original, supplementary, and renewal copyright received for registration in the Copyright Office on or after the effective date. Claims to original, supplementary, and renewal copyright received for registration in acceptable form in the Copyright Office before the effective date shall be governed by the provisions of section 708(a)(1) and (2) in effect prior to this enactment.”
 
 #### Effective Date of 1977 Amendment
 
-Section 406(b) of Pub. L. 95–94 provided that the amendment made by that section is effective Jan. 1, 1978.
+Pub. L. 95–94, title IV, §406(b), Aug. 5, 1977, 91 Stat. 682, provided that the amendment made by section 406(b) is effective Jan. 1, 1978.
 
 #### Carry-over of Existing Fees
 

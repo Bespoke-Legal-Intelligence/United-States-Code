@@ -66,7 +66,7 @@ Not later than 90 days after August 3, 2007, the Secretary and the Secretary of 
 
 #### (g) Subject to certain terms and conditions
 
-Except as otherwise specifically provided in this section, a grant made under this section shall be subject to the terms and conditions applicable to subrecipients who provide over-the-road bus transportation under section 5311(f) of title 49 and such other terms and conditions as are determined necessary by the Secretary.
+Except as otherwise specifically provided in this section, a grant made under this sectionshall be subject to the terms and conditions applicable to subrecipients who provide over-the-road bus transportation under section 5311(f) of title 49 and such other terms and conditions as are determined necessary by the Secretary.
 
 #### (h) Limitation on uses of funds
 

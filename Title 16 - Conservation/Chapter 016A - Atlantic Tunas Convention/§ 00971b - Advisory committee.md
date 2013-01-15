@@ -6,7 +6,7 @@
 
 &emsp;(2) the chairmen (or their designees) of the New England, Mid-Atlantic, South Atlantic, Caribbean, and Gulf Fishery Management Councils established under section 302(a) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1852(a)).
 
-> Each member of the advisory committee appointed under paragraph (1) shall serve for a term of two years and shall be eligible for reappointment. Members of the advisory committee may attend all public meetings of the Commission, Council, or any Panel and any other meetings to which they are invited by the Commission, Council, or any Panel. The advisory committee shall be invited to attend all nonexecutive meetings of the United States Commissioners and at such meetings shall be given opportunity to examine and to be heard on all proposed programs of investigation, reports, recommendations, and regulations of the Commission. Members of the advisory committee shall receive no compensation for their services as such members. The Secretary and the Secretary of State may pay the necessary travel expenses of members of the advisory committee in accordance with the Federal Travel Regulations and sections 5701, 5702, 5704 through 5708, and 5731 of title 5.
+> Each member of the advisory committee appointed under paragraph (1) shall serve for a term of two years and shall be eligible for reappointment. Members of the advisory committee may attend all public meetings of the Commission, Council, or any Panel and any other meetings to which they are invited by the Commission, Council, or any Panel. The advisory committee shall be invited to attend all nonexecutive meetings of the United States Commissioners and at such meetings shall be given opportunity to examine and to be heard on all proposed programs of investigation, reports, recommendations, and regulations of the Commission. Members of the advisory committee shallreceive no compensation for their services as such members. The Secretary and the Secretary of State may pay the necessary travel expenses of members of the advisory committee in accordance with the Federal Travel Regulations and sections 5701, 5702, 5704 through 5708, and 5731 of title 5.
 
 (b)(1) A majority of the members of the advisory committee shall constitute a quorum, but one or more such members designated by the advisory committee may hold meetings to provide for public participation and to discuss measures relating to the United States implementation of Commission recommendations.
 
@@ -48,5 +48,5 @@ Par. (2). Pub. L. 96–561 substituted “Magnuson Fishery Conservation and Mana
 
 #### Effective Date of 1980 Amendment
 
-Section 238(b) of Pub. L. 96–561 provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
+Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300, provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
 

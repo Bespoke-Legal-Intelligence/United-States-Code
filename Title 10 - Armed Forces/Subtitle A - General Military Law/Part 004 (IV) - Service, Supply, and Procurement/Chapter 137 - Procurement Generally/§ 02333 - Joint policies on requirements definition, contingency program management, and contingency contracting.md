@@ -64,9 +64,9 @@ Contingency Contracting Matters Covered.—(1) The joint policy for contingency 
 
 (e)
 
-Training for Personnel Outside Acquisition Workforce.—(1) The joint policy for requirements definition, contingency programmanagement, and contingency contracting required by subsection (a) shall provide for training of military personnel outside the acquisition workforce (including operational field commanders and officers performing key staff functions for operational field commanders) who are expected to have acquisition responsibility, including oversight duties associated with contracts or contractors, during combat operations, post-conflict operations, and contingency operations.
+Training for Personnel Outside Acquisition Workforce.—(1) The joint policy for requirements definition, contingency program management, and contingency contracting required by subsection (a) shall provide for training of military personnel outside the acquisition workforce (including operational field commanders and officers performing key staff functions for operational field commanders) who are expected to have acquisition responsibility, including oversight duties associated with contracts or contractors, during combat operations, post-conflict operations, and contingency operations.
 
-(2) Training under paragraph (1) shall be sufficient to ensure that the military personnel referred to in that paragraph understand the scope and scale of contractor support they will experience in contingency operations and are prepared for their roles and responsibilities with regard to requirements definition, program management (including contractor oversight), and contingency contracting.
+(2) Training under paragraph (1) shall be sufficient to ensure that the military personnel referred to in that paragraph understand the scopeand scale of contractor support they will experience in contingency operations and are prepared for their roles and responsibilities with regard to requirements definition, program management (including contractor oversight), and contingency contracting.
 
 (3) The joint policy shall also provide for the incorporation of contractors and contract operations in mission readiness exercises for operations that will include contracting and contractor support.
 

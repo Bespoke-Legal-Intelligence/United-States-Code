@@ -64,7 +64,7 @@ With respect to the offering of qualified prescription drug coverage by an MA or
 
 #### (3) Treatment of MA owned and operated pharmacies
 
-&emsp;The Secretary may waive the requirement of section 1395w–104(b)(1)(C) of this title in the case of an MA–PD plan that provides access (other than mail order) to qualified prescription drug coverage through pharmacies owned and operated by the MA organization, if the Secretary determines that the organization's pharmacy network is sufficient to providecomparable access for enrollees under the plan.
+&emsp;The Secretary may waive the requirement of section 1395w–104(b)(1)(C) of this title in the case of an MA–PD plan that provides access (other than mail order) to qualified prescription drug coverage through pharmacies owned and operated by the MA organization, if the Secretary determines that the organization's pharmacy network is sufficient to provide comparable access for enrollees under the plan.
 
 #### (d) Special rules for private fee-for-service plans that offer prescription drug coverage
 
@@ -106,7 +106,7 @@ With respect to an MA plan described in section 1395w–21(a)(2)(C) of this titl
 
 #### (1) In general
 
-&emsp;Subject to paragraphs (2) and (3) and rules established by the Secretary, in the case of an organization that is providing benefits under a reasonable cost reimbursement contract under section 1395mm(h) of this title and that elects to provide qualified prescription drug coverage to a part D eligible individual who is enrolled under such a contract, the provisions of this part (and related provisions of part C of this subchapter) shall apply to the provision of such coverage to such enrollee in the same manner as such provisions apply to the provision of such coverage under an MA–PD local plan described in section 1395–21(a)(2)(A)(i) of this title and coverage under such a contract that so provides qualified prescription drug coverage shall be deemed to be an MA–PD local plan.
+&emsp;Subject to paragraphs (2) and (3) and rules established by the Secretary, in the case of an organization that is providing benefits under a reasonable cost reimbursement contract under section 1395mm(h) of this title and that elects to provide qualified prescription drug coverage to a part D eligible individual who is enrolled under such a contract, the provisions of this part (and related provisions of part C of this subchapter) shall apply to the provision of such coverage to such enrollee in the same manner as such provisions apply to the provision of such coverage under an MA–PD local plan described in section 1395–21(a)(2)(A)(i) of this title and coverage under such a contractthat so provides qualified prescription drug coverage shall be deemed to be an MA–PD local plan.
 
 #### (2) Limitation on enrollment
 

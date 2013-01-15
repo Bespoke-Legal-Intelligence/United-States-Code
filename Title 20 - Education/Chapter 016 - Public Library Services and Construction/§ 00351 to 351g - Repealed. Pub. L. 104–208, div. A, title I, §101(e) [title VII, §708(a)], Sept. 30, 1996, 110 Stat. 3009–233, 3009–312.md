@@ -18,5 +18,5 @@ Section 351g, act June 19, 1956, ch. 407, §9, as added Mar. 15, 1990, Pub. L. 1
 
 #### Short Title
 
-Section 1 of act June 19, 1956, as amended by section 10(a) of Pub. L. 88–269, which provided that this chapter be cited as the “Library Services and Construction Act”, was repealed by Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §708(a)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–312.
+Act June 19, 1956, ch. 407, §1, 70 Stat. 293, as amended by Pub. L. 88–269, §10(a), Feb. 11, 1964, 78 Stat. 16, which provided that this chapter be cited as the “Library Services and Construction Act”, was repealed by Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §708(a)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–312.
 

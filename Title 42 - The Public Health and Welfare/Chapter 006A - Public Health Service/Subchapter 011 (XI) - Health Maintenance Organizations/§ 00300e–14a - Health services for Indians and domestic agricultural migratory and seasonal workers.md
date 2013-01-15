@@ -10,7 +10,7 @@ Section 254b of this title, referred to in text, was in the original a reference
 
 #### Codification
 
-Section was enacted as part of the Health Maintenance Organization Act of 1973, and not as part of the Public Health Service Act which comprises this chapter.
+Section was enacted as part of the Health Maintenance Organization Act of 1973, and not as part of thePublic Health Service Act which comprises this chapter.
 
 #### Amendments
 

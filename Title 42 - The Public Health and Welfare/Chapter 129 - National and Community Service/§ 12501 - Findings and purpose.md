@@ -96,7 +96,7 @@ Pub. L. 103–304, §1, Aug. 23, 1994, 108 Stat. 1565, provided that: “This Ac
 
 #### Short Title of 1993 Amendment
 
-Section 1(a) of Pub. L. 103–82 provided that: “This Act \[see Tables for classification\] may be cited as the ‘National and Community Service Trust Act of 1993’.”
+Pub. L. 103–82, §1(a), Sept. 21, 1993, 107 Stat. 785, provided that: “This Act \[see Tables for classification\] may be cited as the ‘National and Community Service Trust Act of 1993’.”
 
 #### Short Title of 1992 Amendment
 
@@ -108,15 +108,15 @@ Pub. L. 102–10, §1, Mar. 12, 1991, 105 Stat. 29, provided that: “This Act \
 
 #### Short Title
 
-Section 1(a) of Pub. L. 101–610 provided that: “This Act \[enacting this chapter, sections 5091 to 5091n of this title, and section 2452a of Title 22, Foreign Relations and Intercourse, amending sections 1018c, 1018e, 1070a–6, 1087vv, 1092, and 1092b of Title 20, Education, and former section 546 of Title 45, Railroads, and enacting provisions set out as notes under this section and section 24301 of Title 49, Transportation\] may be cited as the ‘National and Community Service Act of 1990’.”
+Pub. L. 101–610, §1(a), Nov. 16, 1990, 104 Stat. 3127, provided that: “This Act \[enacting this chapter, sections 5091 to 5091n of this title, and section 2452a of Title 22, Foreign Relations and Intercourse, amending sections 1018c, 1018e, 1070a–6, 1087vv, 1092, and 1092b of Title 20, Education, and former section 546 of Title 45, Railroads, and enacting provisions set out as notes under this section and section 24301 of Title 49, Transportation\] may be cited as the ‘National and Community Service Act of 1990’.”
 
-Section 110 of subtitle B (§§110–118) of title I of Pub. L. 101–610, which provided that such subtitle (enacting former part B (§§12521–12531) of subchapter I of this chapter) be cited as the “Serve-America: The Community Service, Schools and Service-Learning Act of 1990”, was repealed by Pub. L. 103–82, title I, §103(a)(2), Sept. 21, 1993, 107 Stat. 825.
+Pub. L. 101–610, title I, subtitle B (§§110–118), §110, Nov. 16, 1990, 104 Stat. 3132, which provided that such subtitle (enacting former part B (§§12521–12531) of subchapter I of this chapter) be cited as the “Serve-America: The Community Service, Schools and Service-Learning Act of 1990”, was repealed by Pub. L. 103–82, title I, §103(a)(2), Sept. 21, 1993, 107 Stat. 825.
 
 Pub. L. 108–45, §1, July 3, 2003, 117 Stat. 844, which provided that Pub. L. 108–45, enacting section 12605 of this title, could be cited as the “Strengthen AmeriCorps Program Act”, was repealed by Pub. L. 111–13, title I, §1406(b), Apr. 21, 2009, 123 Stat. 1521.
 
-Section 199 \[formerly 120\] of subtitle I (§§199–199O) \[formerly subtitle C (§§120–136)\] of title I of Pub. L. 101–610, as renumbered by Pub. L. 103–82, title I, §101(a), Sept. 21, 1993, 107 Stat. 788, provided that: “This subtitle \[enacting division I (formerly part C) of subchapter I of this chapter\] may be cited as the ‘American Conservation and Youth Service Corps Act of 1990’.”
+Pub. L. 101–610, title I, §199, formerly §120, Nov. 16, 1990, 104 Stat. 3140, as renumbered by Pub. L. 103–82, title I, §101(a), Sept. 21, 1993, 107 Stat. 788, provided that: “This subtitle \[subtitle I (§§199–199O) (formerly subtitle C (§§120–136)) of title I of Pub. L. 101–610, enacting division I (formerly part C) of subchapter I of this chapter\] may be cited as the ‘American Conservation and Youth Service Corps Act of 1990’.”
 
-Section 140 of subtitle D (§§140–150) of title I of Pub. L. 101–610, which provided that such subtitle (enactingformer part D (§§12571–12580) of subchapter I of this chapter) be cited as the “National and Community Service Act”, was omitted in the general amendment of part D (now division D) by Pub. L. 103–82, title I, §102(a), Sept. 21, 1993, 107 Stat. 816.
+Pub. L. 101–610, title I, subtitle D (§§140–150), §140, Nov. 16, 1990, 104 Stat. 3150, which provided that such subtitle (enacting former part D (§§12571–12580) of subchapter I of this chapter) be cited as the “National and Community Service Act”, was omitted in the general amendment of part D (now division D) by Pub. L. 103–82, title I, §102(a), Sept. 21, 1993, 107 Stat. 816.
 
 Pub. L. 101–610, title III, §301, Nov. 16, 1990, 104 Stat. 3180, which provided that title III of Pub. L. 101–610, enacting subchapter II of this chapter, could be cited as “The Points of Light Foundation Act”, was repealed by Pub. L. 111–13, title I, §1831(a), Apr. 21, 2009, 123 Stat. 1578.
 
@@ -126,7 +126,7 @@ Pub. L. 103–82, title V, §501, Sept. 21, 1993, 107 Stat. 922, provided that: 
 
 #### Sense of Congress; Requirement Regarding Notice
 
-Section 502 of Pub. L. 103–82 provided that:
+Pub. L. 103–82, title V, §502, Sept. 21, 1993, 107 Stat. 923, provided that:
 
 “(a)
 
@@ -138,7 +138,7 @@ Notice to Recipients of Assistance.—In providing financial assistance under th
 
 #### Prohibition of Contracts With Persons Falsely Labeling Products as Made in America
 
-Section 503 of Pub. L. 103–82 provided that: “If it has been finally determined by a court or Federal agency that any person intentionally affixed a label bearing a ‘Made in America’ inscription, or any inscription with the same meaning, to any product sold in or shipped to the United States that is not made in the United States, the person shall be ineligible to receive any contract or subcontract made with funds appropriated to carry out this Act, pursuant to the debarment, suspension, and ineligibility procedures described in sections 9.400 through 9.409 of title 48, Code of Federal Regulations.”
+Pub. L. 103–82, title V, §503, Sept. 21, 1993, 107 Stat. 923, provided that: “If it has been finally determined by a court or Federal agency that any person intentionally affixed a label bearing a ‘Made in America’ inscription, or any inscription with the same meaning, to any product sold in or shipped to the United States that is not made in the United States, the person shall be ineligible to receive any contract or subcontract made with funds appropriated to carry out this Act, pursuant to the debarment, suspension, and ineligibility procedures described in sections 9.400 through 9.409 of title 48, Code of Federal Regulations.”
 
 #### Ex. Ord. No. 13254. Establishing the USA Freedom Corps
 
@@ -146,7 +146,7 @@ Ex. Ord. No. 13254, Jan. 29, 2002, 67 F.R. 4869, as amended by Ex. Ord. No. 1328
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. Building on our Nation's rich tradition of citizen service, this Administration's policy is to foster a culture of responsibility, service, and citizenship by promoting, expanding, and enhancing public service opportunities for all Americans and by making these opportunities readily available to citizens from all geographic areas, professions, and walks of life. More specifically, this Administration encourages all Americans to serve their country for the equivalent of at least 2 years (4,000 hours) over their lifetimes. Toward those ends, the executive departments, agencies, and offices constituting the USA Freedom Corps shall coordinate and strengthen Federal and other service opportunities, including opportunities for participation in homeland security preparedness and response, other areas of public and social service, and international service. The executive branch departments, agencies, and offices also will work with State and local governments and private entities to foster and encourage participation in public and social service programs, as appropriate.
+Section 1. <i>Policy</i>. Building on our Nation's rich tradition of citizen service, this Administration's policy isto foster a culture of responsibility, service, and citizenship by promoting, expanding, and enhancing public service opportunities for all Americans and by making these opportunities readily available to citizens from all geographic areas, professions, and walks of life. More specifically, this Administration encourages all Americans to serve their country for the equivalent of at least 2 years (4,000 hours) over their lifetimes. Toward those ends, the executive departments, agencies, and offices constituting the USA Freedom Corps shall coordinate and strengthen Federal and other service opportunities, including opportunities for participation in homeland security preparedness and response, other areas of public and social service, and international service. The executive branch departments, agencies, and offices also will work with State and local governments and private entities to foster and encourage participation in public and social service programs, as appropriate.
 
 Sec. 2. <i>USA Freedom Corps</i>. The USA Freedom Corps shall be an interagency initiative, bringing together executive branch departments, agencies, and offices with public service programs and components, including but not limited to programs and components with the following functions:
 

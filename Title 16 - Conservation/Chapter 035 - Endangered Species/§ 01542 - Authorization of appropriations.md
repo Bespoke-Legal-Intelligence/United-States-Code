@@ -28,7 +28,7 @@ There are authorized to be appropriated to the Department of the Interior for pu
 
 Subsecs. (b) to (d). Pub. L. 97–304 added subsecs. (b) to (d).
 
-<b>1979</b>—Par. (1). Pub. L. 96–159 struck out appropriations authorization of $25,000,000 for fiscal years ending Sept. 30, 1977, and 1978, substituted appropriations authorization of $23,000,000; $23,000,000; $25,000,000; and $27,000,000 for fiscal years 1979 through 1982 for prior authorization of $23,000,000 for fiscal year ending Sept. 30, 1979, and $12,500,000 for period beginning Oct. 1, 1979, and ending Mar. 31, 1980, and restored intent of appropriations to enable the Interior Department to carry out its functions and responsibilities.
+<b>1979</b>—Par. (1). Pub. L. 96–159 struck out appropriations authorization of $25,000,000 for fiscal years endingSept. 30, 1977, and 1978, substituted appropriations authorization of $23,000,000; $23,000,000; $25,000,000; and $27,000,000 for fiscal years 1979 through 1982 for prior authorization of $23,000,000 for fiscal year ending Sept. 30, 1979, and $12,500,000 for period beginning Oct. 1, 1979, and ending Mar. 31, 1980, and restored intent of appropriations to enable the Interior Department to carry out its functions and responsibilities.
 
 Par. (2). Pub. L. 96–159 deleted appropriations authorization of $5,000,000 for fiscal years ending Sept. 30, 1977, and 1978, and substituted appropriations authorization of $2,500,000; $2,500,000; $3,000,000; and $3,500,000 for fiscal years 1979 through 1982 for prior authorization of $2,500,000 for fiscal year ending Sept. 30, 1979, and $12,500,000 for period beginning Oct. 1, 1979, and ending Mar. 31, 1980.
 

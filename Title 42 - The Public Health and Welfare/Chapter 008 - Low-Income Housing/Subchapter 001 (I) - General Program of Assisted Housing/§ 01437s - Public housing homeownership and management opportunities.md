@@ -18,7 +18,7 @@ Low-income families residing in a public housing project shall be provided with 
 
 &emsp;(A) The Secretary may provide assistance from the Capital Fund to a public housing project in which homeownership activities under this section are conducted.
 
-&emsp;(B) The Secretary may provide financial assistance to public housing agencies, resident management corporations, or resident councils that obtain, by contract or otherwise, training, technical assistance, and educationalassistance as the Secretary determines to be necessary to promote homeownership opportunities under this section.
+&emsp;(B) The Secretary may provide financial assistance to public housing agencies, resident management corporations, or resident councils that obtain, by contract or otherwise, training, technical assistance, and educational assistance as the Secretary determines to be necessary to promote homeownership opportunities under this section.
 
 &emsp;(C) This paragraph shall not have effect after February 4, 1991. The Secretary may not provide financial assistance under subparagraph (B), after such date, unless the Secretary determines that such assistance is necessary for the development of a homeownership program that was initiated, as determined by the Secretary, before November 28, 1990.
 
@@ -112,7 +112,7 @@ Low-income families residing in a public housing project shall be provided with 
 
 #### (3) Rental assistance
 
-&emsp;If any family resides in a dwelling unit in a building purchased by a resident management corporation, and the family decides not to purchase the dwelling unit, the Secretary shall offer to provide to the family (at the option of the family) tenant-based assistance under section 1437f(<i>o</i>) of this title for as long as the family continues to reside in the building. The Secretary may adjust the payment standard for such assistance to take into account conditions under which the building was purchased.
+&emsp;If any family resides in a dwelling unit in a building purchased by a resident management corporation, and the family decides not to purchase the dwelling unit, the Secretary shall offer to provide to the family (at the option of the family) tenant-based assistance under section 1437f(o) of this title for as long as the family continues to reside in the building. The Secretary may adjust the payment standard for such assistance to take into account conditions under which the building was purchased.
 
 #### (4) Rental and relocation assistance
 
@@ -148,9 +148,9 @@ Section 503(a) of the Quality Housing and Work Responsibility Act of 1998, refer
 
 #### Amendments
 
-<b>1998</b>—Subsec. (a)(2)(A). Pub. L. 105–276, §532(b)(1)(A), substituted “assistance from the Capital Fund” for “comprehensive improvement assistance under section 1437<i>l</i> of this title”.
+<b>1998</b>—Subsec. (a)(2)(A). Pub. L. 105–276, §532(b)(1)(A), substituted “assistance from the Capital Fund” for “comprehensive improvement assistance under section 1437l of this title”.
 
-Subsec. (a)(3)(A)(v). Pub. L. 105–276, §532(b)(1)(B), substituted “housing quality standards applicable under section 1437d(f) of this title” for “minimum safety and livability standards applicable under section 1437<i>l</i> of this title”.
+Subsec. (a)(3)(A)(v). Pub. L. 105–276, §532(b)(1)(B), substituted “housing quality standards applicable under section 1437d(f) of this title” for “minimum safety and livability standards applicable under section 1437l of this title”.
 
 Subsec. (a)(7). Pub. L. 105–276, §532(b)(1)(C), in heading, substituted “Capital and operating assistance” for “Annual contributions”, in first sentence, substituted “provide assistance under section 1437g of this title” for “pay annual contributions”, and at end, substituted “Such assistance may not exceed the allocation for the project under section 1437g of this title” for “Such contributions may not exceed the maximum contributions authorized in section 1437c(a) of this title.”
 

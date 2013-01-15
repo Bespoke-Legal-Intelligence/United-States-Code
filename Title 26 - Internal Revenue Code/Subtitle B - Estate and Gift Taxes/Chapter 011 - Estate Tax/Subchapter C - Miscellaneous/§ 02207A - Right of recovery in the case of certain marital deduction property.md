@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) the total tax under this chapter which has been paid, exceeds
 
-&emsp;&emsp;(B) the total tax under this chapter which would have been payable if the value of such property had not been included in the gross estate.
+&emsp;&emsp;(B) the total tax under this chapter which would have been payable if the value of suchproperty had not been included in the gross estate.
 
 #### (2) Decedent may otherwise direct
 
@@ -38,7 +38,7 @@ In the case of penalties and interest attributable to additional taxes described
 
 #### Effective Date of 1997 Amendment
 
-Section 1302(c) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section and section 2207B of this title\] shall apply with respect to the estates of decedents dying after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title XIII, §1302(c), Aug. 5, 1997, 111 Stat. 1039, provided that: “The amendments made by this section \[amending this section and section 2207B of this title\] shall apply with respect to the estates of decedents dying after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 #### Effective Date
 

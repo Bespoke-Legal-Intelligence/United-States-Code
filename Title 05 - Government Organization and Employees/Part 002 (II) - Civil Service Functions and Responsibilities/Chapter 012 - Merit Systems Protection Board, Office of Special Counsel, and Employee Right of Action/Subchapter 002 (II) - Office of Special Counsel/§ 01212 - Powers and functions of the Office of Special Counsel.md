@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) file a complaint or make recommendations for disciplinary action under section 1215;
 
-&emsp;(3) receive, review, and, where appropriate, forward to the Attorney General or an agencyhead under section 1213, disclosures of violations of any law, rule, or regulation, or gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety;
+&emsp;(3) receive, review, and, where appropriate, forward to the Attorney General or an agency head under section 1213, disclosures of violations of any law, rule, or regulation, or gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety;
 
 &emsp;(4) review rules and regulations issued by the Director of the Office of Personnel Management in carrying out functions under section 1103 and, where the Special Counsel finds that any such rule or regulation would, on its face or as implemented, require the commission of a prohibited personnel practice, file a written complaint with the Board; and
 
@@ -52,25 +52,35 @@
 
 &emsp;(B) except upon request of an agency which requires such information in order to make a determination concerning an individual's having access to the information unauthorized disclosure of which could be expected to cause exceptionally grave damage to the national security.
 
-(Added Pub. L. 101–12, §3(a)(13), Apr. 10, 1989, 103 Stat. 19; amended Pub. L. 103–424, §3(b), Oct. 29, 1994, 108 Stat. 4362.)
+(h)(1) The Special Counsel is authorized to appear as amicus curiae in any action brought in a court of the United States related to section 2302(b)(8) or (9), or as otherwise authorized by law. In any such action, the Special Counsel is authorized to present the views of the Special Counsel with respect to compliance with section 2302(b)(8) or (9) and the impact court decisions would have on the enforcement of such provisions of law.
+
+(2) A court of the United States shall grant the application of the Special Counsel to appear inany such action for the purposes described under subsection (a).
+
+(Added Pub. L. 101–12, §3(a)(13), Apr. 10, 1989, 103 Stat. 19; amended Pub. L. 103–424, §3(b), Oct. 29, 1994, 108 Stat. 4362; Pub. L. 112–199, title I, §113, Nov. 27, 2012, 126 Stat. 1472.)
 
 #### Amendments
+
+<b>2012</b>—Subsec. (h). Pub. L. 112–199 added subsec. (h).
 
 <b>1994</b>—Subsec. (g)(1). Pub. L. 103–424, §3(b)(1) substituted “disclose any information from or about” for “provide information concerning”.
 
 Subsec. (g)(2). Pub. L. 103–424, §3(b)(2), substituted “an evaluation of the work performance, ability, aptitude, general qualifications, character, loyalty, or suitability for any personnel action of any” for “a matter described in subparagraph (A) or (B) of section 2302(b)(2) in connection with a”.
 
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–199 effective 30 days after Nov. 27, 2012, see section 202 of Pub. L. 112–199, set out as a note under section 1204 of this title.
+
 #### Policy Statement Regarding Implementation of Whistleblower Protection Act
 
-Section 12(a) of Pub. L. 103–424 provided that: “No later than 6 months after the date of enactment of this Act \[Oct. 29, 1994\], the Special Counsel shall issue a policy statement regarding the implementation of the Whistleblower Protection Act of 1989 \[see Short Title of 1989 Amendment note set out under section 1201 of this title\]. Such policy statement shall be made available to each person alleging a prohibited personnel practice described under section 2302(b)(8) of title 5, United States Code, and shall include detailed guidelines identifying specific categories of information that may (or may not) be communicated to agency officials for an investigative purpose, or for the purpose of obtaining corrective action under section 1214 of title 5, United States Code, or disciplinary action under section 1215 of such title, the circumstances under which such information is likely to be disclosed, and whether or not the consent of any person is required in advance of any such communication.”
+Pub. L. 103–424, §12(a), Oct. 29, 1994, 108 Stat. 4366, provided that: “No later than 6 months after the date of enactment of this Act \[Oct. 29, 1994\], the Special Counsel shall issue a policy statement regarding the implementation of the Whistleblower Protection Act of 1989 \[see Short Title of 1989 Amendment note set out under section 1201 of this title\]. Such policy statement shall be made available to each person alleging a prohibited personnel practice described under section 2302(b)(8) of title 5, United States Code, and shall include detailed guidelines identifying specific categories of information that may (or may not) be communicated to agency officials for an investigative purpose, or for the purpose of obtaining corrective action under section 1214 of title 5, United States Code, or disciplinary action under section 1215 of such title, the circumstances under which such information is likely to be disclosed, and whether or not the consent of any person is required in advance of any such communication.”
 
 #### Annual Survey of Individuals Seeking Assistance
 
-Section 13 of Pub. L. 103–424 provided that:
+Pub. L. 103–424, §13, Oct. 29, 1994, 108 Stat. 4367, provided that:
 
 “(a)
 
-In General.—The Office of Special Counsel shall, after consulting with the Office of Policy and Evaluation of the Merit Systems Protection Board, conductan annual survey of all individuals who contact the Office of Special Counsel for assistance. The survey shall—
+In General.—The Office of Special Counsel shall, after consulting with the Office of Policy and Evaluation of the Merit Systems Protection Board, conduct an annual survey of all individuals who contact the Office of Special Counsel for assistance. The survey shall—
 
 &emsp;“(1) determine if the individual seeking assistance was fully apprised of their rights;
 

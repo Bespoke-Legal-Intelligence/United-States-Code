@@ -52,7 +52,7 @@ It is the policy of the United States to foster the export of United States envi
 
 &emsp;&emsp;(B) trade associations in the environmental sector;
 
-&emsp;&emsp;(C) private sector organizations involved in the promotion of environmental exports, including products that comply with United States environmental, safety, and related requirements;
+&emsp;&emsp;(C) private sector organizations involved in the promotion of environmental exports, including products that comply with UnitedStates environmental, safety, and related requirements;
 
 &emsp;&emsp;(D) States (as defined in section 4721(i)(5) <sup>1</sup> of this title) and associations representing the States; and
 
@@ -94,7 +94,7 @@ In support of the work of the Working Group, the Secretary shall, as part of the
 
 &emsp;Each specialist assigned under paragraph (1) shall provide export promotion assistance to United States environmental businesses, including, but not limited to—
 
-&emsp;&emsp;(A) identifying factors in the country to which the specialist is assigned that affectthe United States share of the domestic market for environmental technologies, goods, and services, including market barriers, standards-setting activities, and financing issues;
+&emsp;&emsp;(A) identifying factors in the country to which the specialist is assigned that affect the United States share of the domestic market for environmental technologies, goods, and services, including market barriers, standards-setting activities, and financing issues;
 
 &emsp;&emsp;(B) providing assessments of assistance by foreign governments that is provided to producers of environmental technologies, goods, and services in such countries in order to enhance exports to the country to which the specialist is assigned, the effectiveness of such assistance on the competitiveness of United States products, and whether comparable United States assistance exists;
 
@@ -152,7 +152,7 @@ The Working Group shall—
 
 &emsp;&emsp;(C) include trade promotion events, such as trade missions and trade fairs, in the environmental sector; and
 
-&emsp;(2) provide, through the National Trade Data Bank and other information disseminationchannels, information on opportunities for environmental businesses in foreign markets and information on Federal export promotion programs.
+&emsp;(2) provide, through the National Trade Data Bank and other information dissemination channels, information on opportunities for environmental businesses in foreign markets and information on Federal export promotion programs.
 
 #### (j) Environmental technology export alliances
 
@@ -176,7 +176,7 @@ Subsecs. (f) to (k). Pub. L. 103–392, §402(b), added subsecs. (f) to (k).
 
 #### Report on Insurance Feasibility
 
-Section 204(b) of Pub. L. 102–429 directed that, not later than 1 year after Oct. 21, 1992, chairperson of Trade Promotion Coordinating Committee, after consultation with appropriate departments and agencies of the United States Government, submit a report to Congress that analyzes (1) the extent to which Federal investment insurance and export financing programs sufficiently protect against business failures or default on obligations arising from changes by a foreign government in its environmental laws or regulations, and (2) the advisability and feasibility of expanding coverage of such programs, or creating new programs, to address such risks.
+Section 204(b) of Pub. L. 102–429 directed that, not later than 1 year after Oct. 21, 1992, chairperson of Trade Promotion Coordinating Committee, after consultation with appropriate departments and agencies of the United States Government, submit a report to Congress that analyzes (1) the extent to which Federal investment insurance and export financing programs sufficiently protect against business failures or default on obligations arising from changes by a foreign government in its environmental laws or regulations, and (2)the advisability and feasibility of expanding coverage of such programs, or creating new programs, to address such risks.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

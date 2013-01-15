@@ -20,7 +20,7 @@ Unless otherwise specified, in this chapter:
 
 &emsp;&emsp;(C) a public or nonprofit technical institution or career and technical education school used exclusively or principally for the provision of career and technical education to individuals who have completed or left secondary school and who are available for study in preparation for entering the labor market, if the institution or school admits, as regular students, individuals who have completed secondary school and individuals who have left secondary school; or
 
-&emsp;&emsp;(D) the department or division of an institution of higher education, that operates under the policies of the eligible agency and that provides career and technical education in not fewer than 5 different occupational fields leading to immediate employment but not necessarily leading to a baccalaureate degree, if the department or division admits,as regular students, both individuals who have completed secondary school and individuals who have left secondary school.
+&emsp;&emsp;(D) the department or division of an institution of higher education, that operates under the policies of the eligible agency and that provides career and technical education in not fewer than 5 different occupational fields leading to immediate employment but not necessarily leading to a baccalaureate degree, if the department or division admits, as regular students, both individuals who have completed secondary school and individuals who have left secondary school.
 
 #### (4) Articulation agreement
 
@@ -50,7 +50,7 @@ Unless otherwise specified, in this chapter:
 
 &emsp;&emsp;&emsp;(iii) may include prerequisite courses (other than a remedial course) that meet the requirements of this subparagraph; and
 
-&emsp;&emsp;(B) include competency-based applied learning that contributes to the academic knowledge, higher-order reasoning and problem-solving skills, work attitudes, general employability skills, technical skills, and occupation-specific skills, and knowledge of all aspects of an industry, including entrepreneurship, of an individual.
+&emsp;&emsp;(B) include competency-based applied learning that contributes to the academicknowledge, higher-order reasoning and problem-solving skills, work attitudes, general employability skills, technical skills, and occupation-specific skills, and knowledge of all aspects of an industry, including entrepreneurship, of an individual.
 
 #### (6) Career and technical student organization
 
@@ -106,7 +106,7 @@ Unless otherwise specified, in this chapter:
 
 &emsp;The term “eligible institution” means—
 
-&emsp;&emsp;(A) a public or nonprofit private institution of higher education that offers careerand technical education courses that lead to technical skill proficiency, an industry-recognized credential, a certificate, or a degree;
+&emsp;&emsp;(A) a public or nonprofit private institution of higher education that offers career and technical education courses that lead to technical skill proficiency, an industry-recognized credential, a certificate, or a degree;
 
 &emsp;&emsp;(B) a local educational agency providing education at the postsecondary level;
 

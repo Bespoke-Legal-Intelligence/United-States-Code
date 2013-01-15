@@ -48,7 +48,7 @@ As used in this subchapter, the term—
 
 &emsp;&emsp;&emsp;(iv) perform such other duties as may be appropriate.
 
-&emsp;(13) “Historic preservation review commission” means a board, council, commission, or other similar collegial body which is established by State or local legislation as provided in section 470a(c)(1)(B) of this title, and the members of which are appointed, unless otherwise provided by State or local legislation, by the chief elected official of the jurisdiction concerned from among—
+&emsp;(13) “Historic preservation review commission” means a board, council, commission, orother similar collegial body which is established by State or local legislation as provided in section 470a(c)(1)(B) of this title, and the members of which are appointed, unless otherwise provided by State or local legislation, by the chief elected official of the jurisdiction concerned from among—
 
 &emsp;&emsp;(A) professionals in the disciplines of architecture, history, architectural history, planning, prehistoric and historic archaeology, folklore, cultural anthropology, curation, conservation, and landscape architecture, or related disciplines, to the extent such professionals are available in the community concerned, and
 

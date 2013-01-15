@@ -26,7 +26,7 @@ In general.—The amendment made by subsection (a) \[amending this section\] tak
 
 “(2)
 
-Transition loan deficiency payments.—If the producers on a farm lost beneficial interest in a crop during the period beginning March 21, 2000, and ending on the day before the date of enactment of this Act andwere ineligible for a marketing assistance loan under subtitle C of the Agricultural Market Transition Act (7 U.S.C. 7231 et seq.) because of section 3720B(a) of title 31, United States Code, as in effect before the amendment made by subsection (a), the producers shall be eligible for any loan deficiency payment under subtitle C of that Act that was available on the date on which the producers lost beneficial interest in the crop.”
+Transition loan deficiency payments.—If the producers on a farm lost beneficial interest in a crop during the period beginning March 21, 2000, and ending on the day before the date of enactment of this Act and were ineligible for a marketing assistance loan under subtitle C of the Agricultural Market Transition Act (7 U.S.C. 7231 et seq.) because of section 3720B(a) of title 31, United States Code, as in effect before the amendment made by subsection (a), the producers shall be eligible for any loan deficiency payment under subtitle C of that Act that was available on the date on which the producers lost beneficial interest in the crop.”
 
 #### Payments
 

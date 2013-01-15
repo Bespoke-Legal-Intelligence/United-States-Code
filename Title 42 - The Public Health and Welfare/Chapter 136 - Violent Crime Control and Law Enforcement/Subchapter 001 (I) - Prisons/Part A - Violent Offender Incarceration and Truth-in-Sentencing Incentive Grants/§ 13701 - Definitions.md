@@ -18,6 +18,10 @@ Unless otherwise provided, for purposes of this part—
 
 A prior section 13701, Pub. L. 103–322, title II, §20101, Sept. 13, 1994, 108 Stat. 1815, related to grants for correctional facilities prior to the general amendment of this part by Pub. L. 104–134.
 
+#### Short Title of 2013 Amendment
+
+Pub. L. 112–253, §1, Jan. 10, 2013, 126 Stat. 2407, provided that: “This Act \[enacting sections 14137 to 14137c of this title and amending section 14135 of this title\] may be cited as the ‘Katie Sepich Enhanced DNA Collection Act of 2012’.”
+
 #### Short Title of 2008 Amendment
 
 Pub. L. 110–360, §1, Oct. 8, 2008, 122 Stat. 4008, provided that: “This Act \[amending sections 14135, 14136, and 14136a of this title\] may be cited as the ‘Debbie Smith Reauthorization Act of 2008’.”
@@ -72,7 +76,7 @@ Pub. L. 103–322, title III, §31901, Sept. 13, 1994, 108 Stat. 1892, provided 
 
 Pub. L. 103–322, title IV, §40001, Sept. 13, 1994, 108 Stat. 1902, provided that: “This title \[see Tables for classification\] may be cited as the ‘Violence Against Women Act of 1994’.”
 
-Pub. L. 103–322, title IV, §40101, Sept. 13, 1994, 108 Stat. 1903, provided that: “This subtitle \[subtitle A (§§40101–40156) of title IV of Pub. L. 103–322, enacting part A (§13931 et seq.) of subchapter III of this chapter, sections 300w–10, 3796gg to 3796gg–5, and 5712d of this title, section 1a–7a of Title 16, Conservation, and sections 2247, 2248, and 2259 of Title 18, Crimes and Criminal Procedure, amending sections 3793, 3796aa–1 to 3796aa–3, 3796aa–5, 3796aa–6, 3797, 13012, 13014, 13021, and 13024 of this title, section 460<i>l</i>–8 of Title 16, and Rule 412 of the Federal Rules of Evidence, repealing sections 3796aa–4 and 3796aa–7 of this title, and enacting provisions set out as notes under sections 994 and 2074 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Safe Streets for Women Act of 1994’.”
+Pub. L. 103–322, title IV, §40101, Sept. 13, 1994, 108 Stat. 1903, provided that: “This subtitle \[subtitle A (§§40101–40156) of title IV of Pub. L. 103–322, enacting part A (§13931 et seq.) of subchapter III of this chapter, sections 300w–10, 3796gg to 3796gg–5, and 5712d of this title, section 1a–7a of Title 16, Conservation, and sections 2247, 2248, and 2259 of Title 18, Crimes and Criminal Procedure, amending sections 3793, 3796aa–1 to3796aa–3, 3796aa–5, 3796aa–6, 3797, 13012, 13014, 13021, and 13024 of this title, section 460l–8 of Title 16, and Rule 412 of the Federal Rules of Evidence, repealing sections 3796aa–4 and 3796aa–7 of this title, and enacting provisions set out as notes under sections 994 and 2074 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Safe Streets for Women Act of 1994’.”
 
 Pub. L. 103–322, title IV, §40201, Sept. 13, 1994, 108 Stat. 1925, provided that: “This title \[probably should be “subtitle”, meaning subtitle B (§§40201–40295) of title IV of Pub. L. 103–322, enacting part B (§13951 et seq.) of subchapter III of this chapter, sections 3796hh to 3796hh–4 and 10416 to 10418 of this title, and sections 2261 to 2266 of Title 18, Crimes and Criminal Procedure, and amending sections 3782, 3783, 3793, 3797, 10402, and 10407 to 10410 of this title\] may be cited as the ‘Safe Homes for Women Act of 1994’.”
 

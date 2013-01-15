@@ -58,7 +58,7 @@ The Director of National Intelligence shall be responsible for the entire life c
 
 (3) The investment review process under paragraph (1) shall include the following elements:
 
-&emsp;(A) Review and approval by an investment review board (consisting of appropriate representatives of the intelligence community) of each intelligence community business system as an investment before the obligation of funds for such system.
+&emsp;(A) Review and approval by an investment review board (consisting of appropriate representatives of the intelligence community) ofeach intelligence community business system as an investment before the obligation of funds for such system.
 
 &emsp;(B) Periodic review, but not less often than annually, of every intelligence community business system investment.
 
@@ -66,21 +66,7 @@ The Director of National Intelligence shall be responsible for the entire life c
 
 &emsp;(D) Procedures for making certifications in accordance with the requirements of subsection (a)(2).
 
-#### (e) Budget information
-
-For each fiscal year after fiscal year 2011, the Director of National Intelligence shall include in the materials the Director submits to Congress in support of the budget for such fiscal year that is submitted to Congress under section 1105 of title 31 the following information:
-
-&emsp;(1) An identification of each intelligence community business system for which funding is proposed in such budget.
-
-&emsp;(2) An identification of all funds, by appropriation, proposed in such budget for each such system, including—
-
-&emsp;&emsp;(A) funds for current services to operate and maintain such system;
-
-&emsp;&emsp;(B) funds for business systems modernization identified for each specific appropriation; and
-
-&emsp;&emsp;(C) funds for associated business process improvement or reengineering efforts.
-
-&emsp;(3) The certification, if any, made under subsection (a)(2) with respect to each such system.
+#### (e) Repealed. Pub. L. 112–277, title III, §310(a)(3), Jan. 14, 2013, 126 Stat. 2475
 
 #### (f) Intelligence community business system transformation governance board
 
@@ -156,11 +142,15 @@ In this section:
 
 &emsp;(6) The term “Office of Business Transformation of the Office of the Director of National Intelligence” includes any successor office that assumes the functions of the Office of Business Transformation of the Office of the Director of National Intelligence as carried out by the Office of Business Transformation on October 7, 2010.
 
-(July 26, 1947, ch. 343, title V, §506D, as added Pub. L. 111–259, title III, §322(a)(1), Oct. 7, 2010, 124 Stat. 2669.)
+(July 26, 1947, ch. 343, title V, §506D, as added Pub. L. 111–259, title III, §322(a)(1), Oct. 7, 2010, 124 Stat. 2669; amended Pub. L. 112–277, title III, §310(a)(3), Jan. 14, 2013, 126 Stat. 2475.)
 
 #### References in Text
 
 Section 8083 of the Department of Defense Appropriations Act, 2005, referred to in subsec. (g), is section 8083 of Pub. L. 108–287, title VIII, Aug. 5, 2004, 118 Stat. 989, which is not classified to the Code.
+
+#### Amendments
+
+<b>2013</b>—Subsec. (e). Pub. L. 112–277 struck out subsec. (e) which required inclusion of certain budget information in the budget materials submitted to Congress for each fiscal year after fiscal year 2011.
 
 #### Implementation
 
@@ -184,7 +174,7 @@ Requirement for implementation plan.—In developing such an enterprise architec
 
 &emsp;&emsp;“(i) An acquisition strategy for new systems that are expected to be needed to complete such enterprise architecture, including specific time-phased milestones, performance metrics, and a statement of the financial and nonfinancial resource needs.
 
-&emsp;&emsp;“(ii) An identification of the intelligence community business systems in operation or planned as ofthe date that is 60 days after the enactment of this Act that will not be a part of such enterprise architecture, together with the schedule for the phased termination of the utilization of any such systems.
+&emsp;&emsp;“(ii) An identification of the intelligence community business systems in operation or planned as of the date that is 60 days after the enactment of this Act that will not be a part of such enterprise architecture, together with the schedule for the phased termination of the utilization of any such systems.
 
 &emsp;&emsp;“(iii) An identification of the intelligence community business systems in operation or planned as of such date, that will be a part of such enterprise architecture, together with a strategy for modifying such systems to ensure that such systems comply with such enterprise architecture.
 

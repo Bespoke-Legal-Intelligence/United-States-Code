@@ -108,7 +108,7 @@ Pub. L. 111–273, §2, Oct. 12, 2010, 124 Stat. 2858, provided that: “Congres
 
 #### Provisional Registration
 
-Section 703 of Pub. L. 91–513, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 91–513, title II, §703, Oct. 27, 1970, 84 Stat. 1283, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(a)(1) Any person who—
 

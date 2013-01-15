@@ -6,11 +6,7 @@ The Secretary of Energy may not allow an inspection of a nuclear weapons facilit
 
 #### (b) Omitted
 
-#### (c) Restricted data defined
-
-In this section, the term “restricted data” has the meaning provided by section 2014(y) of title 42.
-
-(Pub. L. 107–314, div. D, title XLV, §4501, formerly Pub. L. 104–106, div. C, title XXXI, §3154, Feb. 10, 1996, 110 Stat. 624; renumbered Pub. L. 107–314, div. D, title XLV, §4501, and amended Pub. L. 108–136, div. C, title XXXI, §3141(h)(2), Nov. 24, 2003, 117 Stat. 1771.)
+(Pub. L. 107–314, div. D, title XLV, §4501, formerly Pub. L. 104–106, div. C, title XXXI, §3154, Feb. 10, 1996, 110 Stat. 624; renumbered Pub. L. 107–314, div. D, title XLV, §4501, and amended Pub. L. 108–136, div. C, title XXXI, §3141(h)(2), Nov. 24, 2003, 117 Stat. 1771; Pub. L. 112–239, div. C, title XXXI, §3131(j), Jan. 2, 2013, 126 Stat. 2182.)
 
 #### Codification
 
@@ -19,6 +15,8 @@ Section is comprised of section 4501 of Pub. L. 107–314. Subsec. (b) of sectio
 Subsec. (a) of section 3154 of Pub. L. 104–106 was formerly set out as a note under section 2164 of Title 42, prior to renumbering by Pub. L. 108–136.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (c). Pub. L. 112–239 struck out subsec. (c), which defined “restricted data”.
 
 <b>2003</b>—Pub. L. 108–136, §3141(h)(2)(D), redesignated par. (1) of subsec. (a) as entire subsec. (a) and par. (2) of subsec. (a) as subsec. (c) and, in subsec. (c), inserted heading and substituted “In this section” for “For purposes of paragraph (1)”. Subsec. (c) was editorially transferred to follow subsec. (b), to reflect the probable intent of Congress.
 

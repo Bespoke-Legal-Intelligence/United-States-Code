@@ -50,7 +50,7 @@ For purposes of this section:
 
 #### (B) Shortfall installment
 
-&emsp;&emsp;The shortfall amortization installment for any plan year in the 7-plan-year periodunder subparagraph (A) with respect to any shortfall amortization base is the annual installment determined under subparagraph (A) for that year for that base.
+&emsp;&emsp;The shortfall amortization installment for any plan year in the 7-plan-year period under subparagraph (A) with respect to any shortfall amortization base is the annual installment determined under subparagraph (A) for that year for that base.
 
 #### (C) Segment rates
 
@@ -76,7 +76,7 @@ For purposes of this section:
 
 #### (iii) 15-year amortization
 
-&emsp;&emsp;&emsp;The shortfall amortization installments determined under this subparagraph are the amounts necessary to amortize the shortfall amortization base of the plan for the election year in level annual installments over the 15-plan-year period beginning with the election year (using the segment rates under subparagraph (C) for the election year).
+&emsp;&emsp;&emsp;The shortfall amortization installments determined under this subparagraph are the amounts necessary to amortize the shortfall amortization base of the plan forthe election year in level annual installments over the 15-plan-year period beginning with the election year (using the segment rates under subparagraph (C) for the election year).
 
 #### (iv) Election
 
@@ -114,7 +114,7 @@ For purposes of this section:
 
 &emsp;&emsp;(A) the funding shortfall of such plan for such plan year, minus
 
-&emsp;&emsp;(B) the present value (determined using the segment rates determined under subparagraph (C) of subsection (h)(2), applied under rules similar to the rules of subparagraph (B) of subsection (h)(2)) of the aggregate total of the shortfall amortization installments and waiver amortization installments which have been determined for suchplan year and any succeeding plan year with respect to the shortfall amortization bases and waiver amortization bases of the plan for any plan year preceding such plan year.
+&emsp;&emsp;(B) the present value (determined using the segment rates determined under subparagraph (C) of subsection (h)(2), applied under rules similar to the rules of subparagraph (B) of subsection (h)(2)) of the aggregate total of the shortfall amortization installments and waiver amortization installments which have been determined for such plan year and any succeeding plan year with respect to the shortfall amortization bases and waiver amortization bases of the plan for any plan year preceding such plan year.
 
 #### (4) Funding shortfall
 
@@ -168,11 +168,11 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;&emsp;(I) which was not in effect for a plan year beginning in 2007, or
 
-&emsp;&emsp;&emsp;&emsp;(II) which was in effect for a plan year beginning in 2007 and which was subject to section 412(<i>l</i>) (as in effect for plan years beginning in 2007) for such year, determined after the application of paragraphs (6) and (9) thereof.
+&emsp;&emsp;&emsp;&emsp;(II) which was in effect for a plan year beginning in 2007 and which was subject to section 412(l) (as in effect for plan years beginning in 2007) for such year, determined after the application of paragraphs (6) and (9) thereof.
 
 #### (6) Early deemed amortization upon attainment of funding target
 
-&emsp;In any case in which the funding shortfall of a plan for a plan year is zero, for purposes of determining the shortfall amortization charge for such plan year and succeeding plan years, the shortfall amortization bases for all preceding plan years (and all shortfall amortization installments determined with respect to such bases) shall be reduced to zero.
+&emsp;In any case in which the funding shortfall of a plan for a plan year is zero, for purposes ofdetermining the shortfall amortization charge for such plan year and succeeding plan years, the shortfall amortization bases for all preceding plan years (and all shortfall amortization installments determined with respect to such bases) shall be reduced to zero.
 
 #### (7) Increases in alternate required installments in cases of excess compensation or extraordinary dividends or stock redemptions
 
@@ -212,7 +212,7 @@ For purposes of this section:
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;If the installment acceleration amount for any plan year (determined withoutregard to clause (ii)) exceeds the limitation under clause (ii), then, subject to subclause (II), such excess shall be treated as an installment acceleration amount with respect to the succeeding plan year.
+&emsp;&emsp;&emsp;&emsp;If the installment acceleration amount for any plan year (determined without regard to clause (ii)) exceeds the limitation under clause (ii), then, subject to subclause (II), such excess shall be treated as an installment acceleration amount with respect to the succeeding plan year.
 
 #### (II) Cap to apply
 
@@ -508,7 +508,7 @@ For purposes of this section—
 
 #### (ii) Adjustments for interest
 
-&emsp;&emsp;&emsp;Any excess contributions under clause (i) shall be properly adjusted for interest accruing for the periods between the first day of the current plan year and the dates on which the excess contributions were made, determined by using the effectiveinterest rate for the preceding plan year and by treating contributions as being first used to satisfy the minimum required contribution.
+&emsp;&emsp;&emsp;Any excess contributions under clause (i) shall be properly adjusted for interest accruing for the periods between the first day of the current plan year and the dates on which the excess contributions were made, determined by using the effective interest rate for the preceding plan year and by treating contributions as being first used to satisfy the minimum required contribution.
 
 #### (iii) Certain contributions necessary to avoid benefit limitations disregarded
 
@@ -662,13 +662,31 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;The term “third segment rate” means, with respect to any month, the single rate of interest which shall be determined by the Secretary for such month on the basis of the corporate bond yield curve for such month, taking into account only that portion of such yield curve which is based on bonds maturing during periods beginning after the period described in clause (ii).
 
+#### (iv) Segment rate stabilization
+
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;If a segment rate described in clause (i), (ii), or (iii) with respect to any applicable month (determined without regard to this clause) is less than the applicable minimum percentage, or more than the applicable maximum percentage, of the average of the segment rates described in such clause for years in the 25-year period ending with September 30 of the calendar year preceding the calendar year in which the plan year begins, then the segment rate described in such clause with respect to the applicable month shall be equal to the applicable minimum percentage or the applicable maximum percentage of such average, whichever is closest. The Secretary shall determine such average on an annual basis and may prescribe equivalent rates for years in any such 25-year period for which the rates described in any such clause are not available.
+
+#### (II) Applicable minimum percentage; applicable maximum percentage
+
+&emsp;&emsp;&emsp;&emsp;For purposes of subclause (I), the applicable minimum percentage and the applicable maximum percentage for a plan year beginning in a calendar year shall be determined in accordance with the following table:
+
+| If the calendar year is: | The applicable minimum percentage is: | The applicable maximum percentage is: |
+| :--- | :---: | ---: |
+| 2012 | 90% | 110% |
+| 2013 | 85% | 115% |
+| 2014 | 80% | 120% |
+| 2015 | 75% | 125% |
+| After 2015 | 70% | 130%.&nbsp;&nbsp; |
+
 #### (D) Corporate bond yield curve
 
 &emsp;&emsp;For purposes of this paragraph—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term “corporate bond yield curve” means, with respect to any month, a yieldcurve which is prescribed by the Secretary for such month and which reflects the average, for the 24-month period ending with the month preceding such month, of monthly yields on investment grade corporate bonds with varying maturities and that are in the top 3 quality levels available.
+&emsp;&emsp;&emsp;The term “corporate bond yield curve” means, with respect to any month, a yield curve which is prescribed by the Secretary for such month and which reflects the average, for the 24-month period ending with the month preceding such month, of monthly yields on investment grade corporate bonds with varying maturities and that are in the top 3 quality levels available.
 
 #### (ii) Election to use yield curve
 
@@ -680,7 +698,7 @@ For purposes of this section—
 
 #### (F) Publication requirements
 
-&emsp;&emsp;The Secretary shall publish for each month the corporate bond yield curve (and the corporate bond yield curve reflecting the modification described in section 417(e)(3)(D)(i) for such month) and each of the rates determined under subparagraph (C) for such month. The Secretary shall also publish a description of the methodology used to determine such yield curve and such rates which is sufficiently detailed to enable plans to make reasonable projections regarding the yield curve and such rates for future months based on the plan's projection of future interest rates.
+&emsp;&emsp;The Secretary shall publish for each month the corporate bond yield curve (and the corporate bond yield curve reflecting the modification described in section 417(e)(3)(D)(i) for such month) and each of the rates determined under subparagraph (C) and the averages determined under subparagraph (C)(iv) for such month. The Secretary shall also publish a description of the methodology used to determine such yield curve and such rates which is sufficiently detailed to enable plans to make reasonable projections regarding the yield curve and such rates for future months based on the plan's projection of future interest rates.
 
 #### (G) Transition rule
 
@@ -738,9 +756,9 @@ For purposes of this section—
 
 #### (iv) All plans in controlled group must use separate table
 
-&emsp;&emsp;&emsp;Except as provided by the Secretary, a plan sponsor may not use a mortalitytable under this subparagraph for any plan maintained by the plan sponsor unless—
+&emsp;&emsp;&emsp;Except as provided by the Secretary, a plan sponsor may not use a mortality table under this subparagraph for any plan maintained by the plan sponsor unless—
 
-&emsp;&emsp;&emsp;&emsp;(I) a separate mortality table is established and used under this subparagraph for each other plan maintained by the plan sponsor and if the plan sponsor is a member of a controlled group, each member of the controlled group, and
+&emsp;&emsp;&emsp;&emsp;(I) a separate mortality table is established and used under this subparagraphfor each other plan maintained by the plan sponsor and if the plan sponsor is a member of a controlled group, each member of the controlled group, and
 
 &emsp;&emsp;&emsp;&emsp;(II) the requirements of clause (iii) are met separately with respect to the table so established for each such plan, determined by only taking into account the participants of such plan, the time such plan has been in existence, and the actual experience of such plan.
 
@@ -804,7 +822,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) the present value of all benefits accrued or earned under the plan as of the beginning of the plan year, as determined by using the additional actuarial assumptions described in subparagraph (B), and
 
-&emsp;&emsp;&emsp;(ii) in the case of a plan which also has been in at-risk status for at least 2 of the4 preceding plan years, a loading factor determined under subparagraph (C).
+&emsp;&emsp;&emsp;(ii) in the case of a plan which also has been in at-risk status for at least 2 of the 4 preceding plan years, a loading factor determined under subparagraph (C).
 
 #### (B) Additional actuarial assumptions
 
@@ -896,7 +914,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;In any case in which a plan which is in at-risk status for a plan year has been in such status for a consecutive period of fewer than 5 plan years, the applicable amount of the funding target and of the target normal cost shall be, in lieu of the amount determined without regard to this paragraph, the sum of—
+&emsp;&emsp;In any case in which a plan which is in at-risk status for a plan year has been in suchstatus for a consecutive period of fewer than 5 plan years, the applicable amount of the funding target and of the target normal cost shall be, in lieu of the amount determined without regard to this paragraph, the sum of—
 
 &emsp;&emsp;&emsp;(i) the amount determined under this section without regard to this subsection, plus
 
@@ -1157,13 +1175,13 @@ For purposes of this section—
 
 #### (C) Controlled group
 
-&emsp;&emsp;The term “controlled group” means any group treated as a single employer under subsections (b), (c), (m), and (<i>o</i>) of section 414.
+&emsp;&emsp;The term “controlled group” means any group treated as a single employer under subsections (b), (c), (m), and (o) of section 414.
 
-#### (<i>l</i>) Qualified transfers to health benefit accounts
+#### (l) Qualified transfers to health benefit accounts
 
 In the case of a qualified transfer (as defined in section 420), any assets so transferred shall not, for purposes of this section, be treated as assets in the plan.
 
-(Added Pub. L. 109–280, title I, §112(a), Aug. 17, 2006, 120 Stat. 826; amended Pub. L. 110–458, title I, §§101(b)(2), 121(b), title II, §202(b), Dec. 23, 2008, 122 Stat. 5095, 5113, 5118; Pub. L. 111–192, title II, §§201(b), 204(b), June 25, 2010, 124 Stat. 1290, 1301.)
+(Added Pub. L. 109–280, title I, §112(a), Aug. 17, 2006, 120 Stat. 826; amended Pub. L. 110–458, title I, §§101(b)(2), 121(b), title II, §202(b), Dec. 23, 2008, 122 Stat. 5095, 5113, 5118; Pub. L. 111–192, title II, §§201(b), 204(b), June 25, 2010, 124 Stat. 1290, 1301; Pub. L. 112–141, div. D, title II, §40211(a)(1), (2)(B), July 6, 2012, 126 Stat. 846, 847.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -1175,11 +1193,15 @@ Section 106 of the Pension Protection Act of 2006, referred to in subsec. (c)(2)
 
 The date of the enactment of this subparagraph, referred to in subsec. (c)(2)(D)(v), is the date of enactment of Pub. L. 111–192, which was approved June 25, 2010.
 
-The Employee Retirement Income Security Act of 1974, referred to in subsecs. (c)(7)(E)(i)(I), (v)(II), (h)(5)(B)(i), (ii), and (k)(2), (4)(C), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829. Title I of the Act is classified generally to subchapter I (§1001 et seq.) of chapter 18 of Title 29, Labor. Title IV of the Act is classified principally to subchapter III (§1301 et seq.) of chapter 18 of Title 29. Sections 4001, 4006, 4021, 4043, and 4068 of the Act areclassified to sections 1301, 1306, 1321, 1343, and 1368, respectively, of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsecs. (c)(7)(E)(i)(I), (v)(II), (h)(5)(B)(i), (ii), and (k)(2), (4)(C), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829. Title I of the Act is classified generally to subchapter I (§1001 et seq.) of chapter 18 of Title 29, Labor. Title IV of the Act is classified principally to subchapter III (§1301 et seq.) of chapter 18 of Title 29. Sections 4001, 4006, 4021, 4043, and 4068 of the Act are classified to sections 1301, 1306, 1321, 1343, and 1368, respectively, of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 The Social Security Act, referred to in subsec. (h)(3)(D)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (h)(2)(C)(iv). Pub. L. 112–141, §40211(a)(1), added cl. (iv).
+
+Subsec. (h)(2)(F). Pub. L. 112–141, §40211(a)(2)(B), inserted “and the averages determined under subparagraph (C)(iv)” after “subparagraph (C)”.
 
 <b>2010</b>—Subsec. (c)(1). Pub. L. 111–192, §201(b)(3)(A), substituted “any shortfall amortization base which has not been fully amortized under this subsection” for “the shortfall amortization bases for such plan year and each of the 6 preceding plan years”.
 
@@ -1234,6 +1256,10 @@ Subsec. (j)(3)(E). Pub. L. 110–458, §101(b)(2)(G)(iii), (iv), substituted “
 Subsec. (k)(1). Pub. L. 110–458, §101(b)(2)(H)(i), inserted “(as provided under paragraph (2))” after “applies” in introductory provisions.
 
 Subsec. (k)(6)(B). Pub. L. 110–458, §101(b)(2)(H)(ii), struck out “, except that in the case of a payment other than a required installment, the due date shall be the date such payment is required to be made under section 430” before period at end.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 applicable with respect to plan years beginning after December 31, 2011, except as otherwise provided, see section 40211(c) of Pub. L. 112–141, set out as a note under section 404 of this title.
 
 #### Effective Date of 2010 Amendment
 
@@ -1356,11 +1382,11 @@ In general.—The requirements of this paragraph are met if, effective as of the
 
 &emsp;&emsp;&emsp;“(ii) all other benefits under the plan are eliminated,
 
-&nbsp;&nbsp;but only to the extent the freezing or elimination of such benefits would have been permitted under section 411(d)(6) of such Code and section 204(g) ofsuch Act if they had been implemented by a plan amendment adopted immediately before such first day.
+&nbsp;&nbsp;but only to the extent the freezing or elimination of such benefits would have been permitted under section 411(d)(6) of such Code and section 204(g) of such Act if they had been implemented by a plan amendment adopted immediately before such first day.
 
 &emsp;&emsp;“(B)
 
-Increases in section 415 limits.—If a plan provides that an accrued benefit of a participant which has been subject to any limitation under section 415 of such Code will be increased if such limitation is increased, the plan shall not be treated as meeting the requirements of this section unless, effective as of the first day of the first applicable plan year (or, if later, the date of the enactment of this Act \[Aug. 17, 2006\]) and at all times thereafter while an election under this section is in effect, the plan provides that any such increase shall not take effect. A plan shall not fail to meet the requirements of section 411(d)(6) of such Code and section 204(g) of such Act solely because the plan is amended to meet the requirements of this subparagraph.
+Increases in section 415 limits.—If a plan provides that an accrued benefit of a participant which has been subject to any limitation under section 415 of such Code will be increased if such limitation is increased, the plan shall not be treated asmeeting the requirements of this section unless, effective as of the first day of the first applicable plan year (or, if later, the date of the enactment of this Act \[Aug. 17, 2006\]) and at all times thereafter while an election under this section is in effect, the plan provides that any such increase shall not take effect. A plan shall not fail to meet the requirements of section 411(d)(6) of such Code and section 204(g) of such Act solely because the plan is amended to meet the requirements of this subparagraph.
 
 &emsp;“(3)
 
@@ -1542,7 +1568,7 @@ Effective date.—The amendment made by this subsection \[amending section 410 o
 
 “(i)
 
-Extension of Special Rule for Additional Funding Requirements.—In the case of an employer which is a commercial passenger airline, section 302(d)(12) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1082(d)(12)\] and section 412(<i>l</i>)(12) of the Internal Revenue Code of 1986, as in effect before the date of the enactment of this Act \[Aug. 17, 2006\], shall each be applied—
+Extension of Special Rule for Additional Funding Requirements.—In the case of an employer which is a commercial passenger airline, section 302(d)(12) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1082(d)(12)\] and section 412(l)(12) of the Internal Revenue Code of 1986, as in effect before the date of the enactment of this Act \[Aug. 17, 2006\], shall each be applied—
 
 &emsp;“(1) by substituting ‘January 1, 2008’ for ‘December 28, 2005’ in subparagraph (D)(i) thereof, and
 

@@ -54,7 +54,7 @@ Subsec. (c)(7). Pub. L. 112–56, §238(2)–(4), added par. (7).
 
 Subsec. (b). Pub. L. 107–288, §5(d)(1)(E), inserted second and third sentences and struck out former second sentence which read as follows: “A full report as to the extent and reasons for any noncompliance by any such State agency during any fiscal year, together with the agency's plan for corrective action during the succeeding year, shall be included in the annual report of the Secretary required by subsection (c) of this section.”
 
-Pub. L. 107–288, §4(a)(3)(B), substituted “The Secretary shall apply performance standards establishedunder section 4102A(f) of this title” for “The Secretary shall establish definitive performance standards”.
+Pub. L. 107–288, §4(a)(3)(B), substituted “The Secretary shall apply performance standards established under section 4102A(f) of this title” for “The Secretary shall establish definitive performance standards”.
 
 Subsec. (c)(1). Pub. L. 107–288, §5(d)(1)(A), struck out “veterans of the Vietnam era,” before “disabled veterans, special” and substituted “eligible persons, recently separated veterans (as defined in section 4211(6) of this title), and servicemembers transitioning to civilian careers who registered for assistance with, or who are identified as veterans by,” for “and eligible persons who registered for assistance with”.
 
@@ -122,11 +122,11 @@ Section effective 90 days after Oct. 24, 1972, see section 601(b) of Pub. L. 92�
 
 #### Publication of Labor-Market Statistics Relating to Veterans Who Served in Vietnam Theatre of Operations
 
-Section 513 of Pub. L. 96–466 provided that:
+Pub. L. 96–466, title V, §513, Oct. 17, 1980, 94 Stat. 2207, provided that:
 
-“(a) When the Commissioner of the Bureau of Labor Statistics publishes annual labor-market statistics relating specifically to veterans who served in the ArmedForces during the Vietnam era, the Commissioner shall also publish separate labor-market statistics on the same subject matter which apply only to veterans who served in the Vietnam theatre of operations. When the Commissioner of the Bureau of Labor Statistics publishes labor-market statistics which relate specifically to veterans who served in the Armed Forces during the Vietnam era in addition to those statistics published on an annual basis to which the preceding sentence applies, the Commissioner shall also, if feasible, publish separate labor-market statistics on the same subject matter which apply only to veterans who served in the Vietnam theatre of operations.
+“(a) When the Commissioner of the Bureau of Labor Statistics publishes annual labor-market statistics relating specifically to veterans who served in the Armed Forces during the Vietnam era, the Commissioner shall also publish separate labor-market statistics on the same subject matter which apply only to veterans who served in the Vietnam theatre of operations. When the Commissioner of the Bureau of Labor Statistics publishes labor-market statistics which relate specifically to veterans who served in the Armed Forces during the Vietnam era in addition to those statistics published on an annual basis to which the preceding sentence applies, the Commissioner shall also, if feasible, publish separate labor-market statistics on the same subject matter which apply only to veterans who served in the Vietnam theatre of operations.
 
 “(b) For the purposes of this section, veterans who during the Vietnam era served in Vietnam, in air missions over Vietnam, or in naval missions in the waters adjacent to Vietnam shall be considered to be veterans who served in the Vietnam theatre of operations.”
 
-Section 802(e) of Pub. L. 96–466 provided in part that the provisions of section 513 shall become effective on Oct. 1, 1980.
+\[Pub. L. 96–466, title VIII, §802(e), Oct. 17, 1980, 94 Stat. 2218, provided in part that the provisions of section 513 of Pub. L. 96–466, set out above, shall become effective on Oct. 1, 1980.\]
 

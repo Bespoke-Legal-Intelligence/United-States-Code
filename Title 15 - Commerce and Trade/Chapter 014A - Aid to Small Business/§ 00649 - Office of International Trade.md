@@ -108,13 +108,13 @@ The Associate Administrator shall promote sales opportunities for small business
 
 &emsp;&emsp;(F) participate, jointly with employees of the Office, in an annual training program that focuses on current small business needs for exporting; and
 
-&emsp;&emsp;(G) develop and conduct training programs for exporters and lenders, in cooperationwith the Export Assistance Centers, the Department of Commerce, the Department of Agriculture, small business development centers, women's business centers, the Export-Import Bank of the United States, the Overseas Private Investment Corporation, and other relevant Federal agencies;
+&emsp;&emsp;(G) develop and conduct training programs for exporters and lenders, in cooperation with the Export Assistance Centers, the Department of Commerce, the Department of Agriculture, small business development centers, women's business centers, the Export-Import Bank of the United States, the Overseas Private Investment Corporation, and other relevant Federal agencies;
 
 &emsp;(10) make available on the website of the Administration the name and contact information of each individual described in paragraph (9);
 
 &emsp;(11) carry out a nationwide marketing effort using technology, online resources, training, and other strategies to promote exporting as a business development opportunity for small business concerns;
 
-&emsp;(12) disseminate information to the small business community through regional and district offices of the Administration, the small business development center network, Export Assistance Centers, the network of women's business centers, chapters of the Service Corps of Retired Executives authorized by section 637(b)(1) of this title, State and local export promotion programs, and partners in the private sector regarding exporting trends, market-specific growth, industry trends, and prospects for exporting; and
+&emsp;(12) disseminate information to the small business community through regional and district offices of the Administration, the smallbusiness development center network, Export Assistance Centers, the network of women's business centers, chapters of the Service Corps of Retired Executives authorized by section 637(b)(1) of this title, State and local export promotion programs, and partners in the private sector regarding exporting trends, market-specific growth, industry trends, and prospects for exporting; and
 
 &emsp;(13) establish and carry out training programs for the staff of the regional and district offices of the Administration and resource partners of the Administration on export promotion and providing assistance relating to exports.
 
@@ -262,7 +262,7 @@ The Administrator shall ensure that—
 
 #### (3) Consistency of tracking
 
-&emsp;The Associate Administrator, in coordination with the departments and agencies thatare represented on the Trade Promotion Coordinating Committee established under section 4727 of this title and the small business development center network, shall develop a system to track exports by small business concerns, including information relating to the performance measures developed under paragraph (1), that is consistent with systems used by the departments and agencies and the network.
+&emsp;The Associate Administrator, in coordination with the departments and agencies that are represented on the Trade Promotion Coordinating Committee established under section 4727 of this title and the small business development center network, shall develop a system to track exports by small business concerns, including information relating to the performance measures developed under paragraph (1), that is consistent with systems used by the departments and agencies and the network.
 
 #### (k) Export Assistance Centers
 
@@ -302,7 +302,7 @@ The Administrator shall ensure that—
 
 &emsp;The Associate Administrator shall designate an individual within the Administration to oversee all activities conducted by Administration employees assigned to Export Assistance Centers.
 
-#### (<i>l</i>) Definitions
+#### (l) Definitions
 
 In this section—
 
@@ -416,7 +416,7 @@ Subsec. (h). Pub. L. 111–240, §1203(c), added subsec. (h).
 
 Subsecs. (i), (j). Pub. L. 111–240, §1204(a)(7), added subsecs. (i) and (j).
 
-Subsecs. (k), (<i>l</i>). Pub. L. 111–240, §1205(a), added subsecs. (k) and (<i>l</i>).
+Subsecs. (k), (l). Pub. L. 111–240, §1205(a), added subsecs. (k) and (l).
 
 <b>1988</b>—Subsecs. (b) to (g). Pub. L. 100–418 added subsec. (b), redesignated former subsec. (b) as (c) and added pars. (1) to (5) and redesignated former pars. (1) to (3) as (6) to (8), respectively, and added subsecs. (d) to (g).
 
@@ -482,7 +482,7 @@ Study and report.—Not later than 6 months after the date of enactment of this 
 
 “(2)
 
-Definition.—In this subsection, the term ‘export finance specialist’ has the meaning given that term in section 22(<i>l</i>) of the Small Business Act \[15 U.S.C. 649(<i>l</i>)\], as added by this title.”
+Definition.—In this subsection, the term ‘export finance specialist’ has the meaning given that term in section 22(l) of the Small Business Act \[15 U.S.C. 649(l)\], as added by this title.”
 
 \[For definitions of “Administrator” and “small business concern” as used in section 1205(b) of Pub. L. 111–240, set out above, see section 1001 of Pub. L. 111–240, set out as a note under section 632 of this title.\]
 

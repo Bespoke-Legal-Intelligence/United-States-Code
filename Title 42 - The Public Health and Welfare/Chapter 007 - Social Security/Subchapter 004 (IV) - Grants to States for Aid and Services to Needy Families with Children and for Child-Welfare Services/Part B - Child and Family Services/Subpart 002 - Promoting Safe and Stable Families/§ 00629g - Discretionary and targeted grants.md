@@ -28,7 +28,7 @@ From the amount (if any) appropriated pursuant to subsection (a) of this section
 
 #### (2) Territories
 
-&emsp;From the amount (if any) appropriated pursuant to subsection (a) of this section for any fiscal year that remains after applying subection <sup>1</sup> (b) of this section for the fiscal year, the Secretary shall allot to each of the jurisdictions of Puerto Rico, Guam, the Virgin Islands, the Northern Mariana Islands, and American Samoa an amount determined in the same manner as the allotment to each of such jurisdictions is determined under section 623 of this title.
+&emsp;From the amount (if any) appropriated pursuant to subsection (a) of this section for any fiscal year that remains after applying subection <sup>1</sup> (b) of this section for the fiscal year, the Secretary shall allot to each of the jurisdictions of Puerto Rico, Guam, the VirginIslands, the Northern Mariana Islands, and American Samoa an amount determined in the same manner as the allotment to each of such jurisdictions is determined under section 623 of this title.
 
 #### (3) Other States
 
@@ -44,7 +44,7 @@ The Secretary may make a grant to a State which has a plan approved under this s
 
 #### (e) Applicability of certain rules
 
-The rules of subsections (b) and (c) of section 629d of this title shall apply in like manner tothe amounts made available pursuant to subsection (a).
+The rules of subsections (b) and (c) of section 629d of this title shall apply in like manner to the amounts made available pursuant to subsection (a).
 
 #### (f) Targeted grants to increase the well-being of, and to improve the permanency outcomes for, children affected by substance abuse
 
@@ -134,7 +134,7 @@ The rules of subsections (b) and (c) of section 629d of this title shall apply i
 
 &emsp;&emsp;&emsp;(ii) lead to safety and permanence for such children; and
 
-&emsp;&emsp;&emsp;(iii) decrease the number of out-of-home placements for children, or the number of children who are at risk of being placed inan out-of-home placement, in the partnership region.
+&emsp;&emsp;&emsp;(iii) decrease the number of out-of-home placements for children, or the number of children who are at risk of being placed in an out-of-home placement, in the partnership region.
 
 &emsp;&emsp;(C) A description of the joint activities to be funded in whole or in part with the funds provided under the grant, including the sequencing of the activities proposed to be conducted under the funding period for the grant.
 
@@ -226,7 +226,7 @@ The rules of subsections (b) and (c) of section 629d of this title shall apply i
 
 #### (i) Annual report
 
-&emsp;&emsp;&emsp;Not later than September 30 of the first fiscal year in which a recipient of a grant under this subsection is paid funds under the grant, and annually thereafter until September 30 of the last fiscal year in which the recipient is paid funds under the grant, the recipient shall submit to the Secretary a report on the services provided or activities carried out during that fiscalyear with such funds. The report shall contain such information as the Secretary determines is necessary to provide an accurate description of the services provided or activities conducted with such funds.
+&emsp;&emsp;&emsp;Not later than September 30 of the first fiscal year in which a recipient of a grant under this subsection is paid funds under the grant, and annually thereafter until September 30 of the last fiscal year in which the recipient is paid funds under the grant, the recipient shall submit to the Secretary a report on the services provided or activities carried out during that fiscal year with such funds. The report shall contain such information as the Secretary determines is necessary to provide an accurate description of the services provided or activities conducted with such funds.
 
 #### (ii) Incorporation of information related to performance indicators
 
@@ -304,7 +304,7 @@ Subsec. (f). Pub. L. 109–288, §4(b)(2)(A), added subsec. (f).
 
 #### Effective Date of 2011 Amendment
 
-Amendment by Pub. L. 112–34 effective Oct. 1, 2011, and applicable to payments under this part and part E of this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meetadditional requirements, see section 107 of Pub. L. 112–34, set out as a note under section 622 of this title.
+Amendment by Pub. L. 112–34 effective Oct. 1, 2011, and applicable to payments under this part and part E of this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 107 of Pub. L. 112–34, set out as a note under section 622 of this title.
 
 #### Effective Date of 2008 Amendment
 

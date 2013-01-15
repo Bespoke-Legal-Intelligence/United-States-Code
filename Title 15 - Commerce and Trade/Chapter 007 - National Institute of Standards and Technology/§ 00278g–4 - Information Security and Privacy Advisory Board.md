@@ -2,7 +2,7 @@
 
 #### (a) Establishment and composition
 
-There is hereby established a <sup>1</sup> Information Security and Privacy Advisory Board within the Department of Commerce. The Secretary of Commerce shall appoint the chairman of the Board. The Board shall be composed of twelveadditional members appointed by the Secretary of Commerce as follows:
+There is hereby established a <sup>1</sup> Information Security and Privacy Advisory Board within theDepartment of Commerce. The Secretary of Commerce shall appoint the chairman of the Board. The Board shall be composed of twelve additional members appointed by the Secretary of Commerce as follows:
 
 &emsp;(1) four members from outside the Federal Government who are eminent in the information technology industry, at least one of whom is representative of small or medium sized companies in such industries;
 
@@ -74,7 +74,7 @@ Subsec. (h). Pub. L. 107–296, §1004(10), and Pub. L. 107–347, §304(10), am
 
 Pub. L. 107–296, §1004(9), and Pub. L. 107–347, §304(9), amended section identically, redesignating subsec. (g) as (h).
 
-<b>1988</b>—Subsec. (b)(2). Pub. L. 100–418, which directed that this chapter be amended by substituting “Institute” for “National Bureau of Standards”, “Bureau”, or “bureau”, wherever appearing, was executed to par. (2) by substituting “Institute” for “Bureau of Standards”, to reflect the probable intent of Congress.
+<b>1988</b>—Subsec. (b)(2). Pub. L. 100–418, which directed that this chapter be amended by substituting “Institute” for “National Bureau of Standards”, “Bureau”,or “bureau”, wherever appearing, was executed to par. (2) by substituting “Institute” for “Bureau of Standards”, to reflect the probable intent of Congress.
 
 Subsec. (f). Pub. L. 100–418 substituted “Institute” for “National Bureau of Standards”.
 

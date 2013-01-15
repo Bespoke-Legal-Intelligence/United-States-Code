@@ -36,7 +36,7 @@ The revocation of any rule, regulation, or order issued in pursuance of this sec
 
 #### (f) Permits to enter
 
-Passports, visas, reentry permits, and other documents required for entry under this chaptermay be considered as permits to enter for the purposes of this section.
+Passports, visas, reentry permits, and other documents required for entry under this chapter may be considered as permits to enter for the purposes of this section.
 
 (June 27, 1952, ch. 477, title II, ch. 2, §215, 66 Stat. 190; Pub. L. 95–426, title VII, §707(a)–(d), Oct. 7, 1978, 92 Stat. 992, 993; Pub. L. 103–416, title II, §204(a), Oct. 25, 1994, 108 Stat. 4311.)
 
@@ -64,7 +64,7 @@ Subsecs. (f), (g). Pub. L. 95–426, §707(d), redesignated subsec. (g) as (f). 
 
 #### Effective Date of 1994 Amendment
 
-Section 204(b) of Pub. L. 103–416 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to departures and entries (and attempts thereof) occurring on or after the date of enactment of this Act \[Oct. 25, 1994\].”
+Pub. L. 103–416, title II, §204(b), Oct. 25, 1994, 108 Stat. 4311, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to departures and entries (and attempts thereof) occurring on or after the date of enactment of this Act \[Oct. 25, 1994\].”
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
@@ -138,7 +138,7 @@ Pub. L. 110–53, title VII, §724, Aug. 3, 2007, 121 Stat. 350, provided that: 
 
 &emsp;“(1) the Secretary of Homeland Security shall complete a cost-benefit analysis of the Western Hemisphere Travel Initiative, authorized under such section 7209; and
 
-&emsp;“(2) the Secretary of State shall develop proposals for reducing the execution fee charged for the passport card, proposed at 71 Fed. Reg. 60928–32 (October17, 2006), including the use of mobile application teams, during implementation of the land and sea phase of the Western Hemisphere Travel Initiative, in order to encourage United States citizens to apply for the passport card.”
+&emsp;“(2) the Secretary of State shall develop proposals for reducing the execution fee charged for the passport card, proposed at 71 Fed. Reg. 60928–32 (October 17, 2006), including the use of mobile application teams, during implementation of the land and sea phase of the Western Hemisphere Travel Initiative, in order to encourage United States citizens to apply for the passport card.”
 
 Pub. L. 108–458, title VII, §7209, Dec. 17, 2004, 118 Stat. 3823, as amended by Pub. L. 109–295, title V, §546, Oct. 4, 2006, 120 Stat. 1386; Pub. L. 110–53, title VII, §723, Aug. 3, 2007, 121 Stat. 349; Pub. L. 110–161, div. E, title V, §545, Dec. 26, 2007, 121 Stat. 2080, provided that:
 
@@ -214,7 +214,7 @@ Technical and Conforming Amendments.—After the complete implementation of the 
 
 “(d)
 
-Transit Without Visa Program.—The Secretary of State shall not use any authorities granted undersection 212(d)(4)(C) of such Act \[8 U.S.C. 1182(d)(4)(C)\] until the Secretary, in conjunction with the Secretary of Homeland Security, completely implements a security plan to fully ensure secure transit passage areas to prevent aliens proceeding in immediate and continuous transit through the United States from illegally entering the United States.”
+Transit Without Visa Program.—The Secretary of State shall not use any authorities granted under section 212(d)(4)(C) of such Act \[8 U.S.C. 1182(d)(4)(C)\] until the Secretary, in conjunction with the Secretary of Homeland Security, completely implements a security plan to fully ensure secure transit passage areas to prevent aliens proceeding in immediate and continuous transit through the United States from illegally entering the United States.”
 
 \[Amendment by Pub. L. 110–161, §545, to section 7209 of Pub. L. 108–458, set out above, was executed to reflect the probable intent of Congress, notwithstanding errors in the directory language.\]
 
@@ -234,7 +234,7 @@ Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 13323, Dec. 30, 2003, 69 F.R. 241, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 215 of the Immigration and Nationality Act (INA), as amended (8 U.S.C. 1185), and section 301 of title 3, United States Code, and to strengthen the national security of the United States through procedures and systems to manage and control the arrival and departure of persons from the United States, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States ofAmerica, including section 215 of the Immigration and Nationality Act (INA), as amended (8 U.S.C. 1185), and section 301 of title 3, United States Code, and to strengthen the national security of the United States through procedures and systems to manage and control the arrival and departure of persons from the United States, it is hereby ordered as follows:
 
 Section 1. <i>Functions of the Secretary of Homeland Security</i>. The Secretary of Homeland Security is assigned the functions of the President under section 215(a) of the INA with respect to persons other than citizens of the United States. In exercising these functions, the Secretary of Homeland Security shall not issue, amend, or revoke any rules, regulations, or orders without first obtaining the concurrence of the Secretary of State.
 

@@ -146,7 +146,7 @@ Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it 
 
 #### Effective Date of 1978 Amendment
 
-Section 365(c) of Pub. L. 95–600 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 358 of this title\] shall apply to transfers occurring on or after the date of the enactment of this Act \[Nov. 6, 1978\].”
+Pub. L. 95–600, title III, §365(c), Nov. 6, 1978, 92 Stat. 2855, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 358 of this title\] shall apply to transfers occurring on or after the date of the enactment of this Act \[Nov. 6, 1978\].”
 
 #### Savings Provision
 

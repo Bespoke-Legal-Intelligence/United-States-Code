@@ -104,3 +104,47 @@ In subsection (b)(3), the description of national interests of the United States
 
 The National Aeronautics and Space Administration Authorization Act of 2000, referred to in subsec. (b)(1)(B)(ii)(I), is Pub. L. 106–391, Oct. 30, 2000, 114 Stat. 1577. For complete classification of this Act to the Code, see Tables.
 
+#### Limitation on International Agreements Concerning Outer Space Activities
+
+Pub. L. 112–239, div. A, title IX, §913(a), (b), Jan. 2, 2013, 126 Stat. 1874, provided that:
+
+“(a)
+
+Certification Required.—If the United States becomes a signatory to a non-legally binding international agreement concerning an International Code of Conduct for Outer Space Activities or any similar agreement, at the same time as the United States becomes such a signatory—
+
+&emsp;“(1) the President shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Permanent Select Committee on Intelligence of the House of Representatives, and the Select Committee on Intelligence of the Senate a certification that such agreement has no legally-binding effect or basis for limiting the activities of the United States in outer space; and
+
+&emsp;“(2) the Secretary of Defense, the Chairman of the Joint Chiefs of Staff, and the Director of National Intelligence shall jointly submit to the congressional defense committees a certification that such agreement will be equitable, enhance national security, and have no militarily significant impact on the ability of the United States to conduct military or intelligence activities in space.
+
+“(b)
+
+Briefings and Notifications Required.—
+
+&emsp;“(1)
+
+Restatement of policy formulation under the arms control and disarmament act with respect to outer space.—No action shall be taken that would obligate the United States to reduce or limit the Armed Forces or armaments of the United States in outer space in a militarily significant manner, except pursuant to the treaty-making power of the President set forth in Article II, Section 2, Clause II of the Constitution or unless authorized by the enactment of further affirmative legislation by the Congress of the United States.
+
+&emsp;“(2)
+
+Briefings.—
+
+&emsp;&emsp;“(A)
+
+Requirement.—The Secretary of Defense, the Secretary of State, and the Director of National Intelligence shall jointly provide to the covered congressional committees regular, detailed updates on the negotiation of a non-legally binding international agreement concerning an International Code of Conduct for Outer Space Activities or any similar agreement.
+
+&emsp;&emsp;“(B)
+
+Termination of requirement.—The requirement to provide regular briefings under subparagraph (A) shall terminate on the date on which the United States becomes a signatory to an agreement referred to in subparagraph (A), or on the date on which the President certifies to Congress that the United States is no longer negotiating an agreement referred to in subparagraph (A), whichever is earlier.
+
+&emsp;“(3)
+
+Notifications.—If the United States becomes a signatory to a non-legally binding international agreement concerning an International Code of Conduct for Outer Space Activities or any similar agreement, not less than 60 days prior to any action that will obligate the United States to reduce or limit the Armed Forces or armaments or activities of the United States in outer space, the head of each Department or agency of the Federal Government that is affected by such action shall submit to Congress notice of such action and the effect of such action on such Department or agency.
+
+&emsp;“(4)
+
+Definition.—In this subsection, the term ‘covered congressional committees’ means—
+
+&emsp;&emsp;“(A) the Committee on Armed Services, the Committee on Foreign Affairs, and the Permanent Select Committee on Intelligence of the House of Representatives; and
+
+&emsp;&emsp;“(B) the Committee on Armed Services, the Committee on Foreign Relations, and the Select Committee on Intelligence of the Senate.”
+

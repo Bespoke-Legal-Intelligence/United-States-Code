@@ -34,13 +34,13 @@ In this section:
 
 #### (5) Counter-cyclical program payment yield
 
-&emsp;The term “counter-cyclical program payment yield” means the weighted average payment yield established under under— <sup>1</sup>
+&emsp;The term “counter-cyclical program payment yield” means the weighted average payment yield established under—
 
-&emsp;&emsp;(i) section 7912 or 7952 of this title;
+&emsp;&emsp;(A) section 7912 or 7952 of this title;
 
-&emsp;&emsp;(ii) section 1102 or 1301(6) of the Food, Conservation, and Energy Act of 2008 (7 U.S.C. 8712, 8751(6)); or
+&emsp;&emsp;(B) section 1102 or 1301(6) of the Food, Conservation, and Energy Act of 2008 (7 U.S.C. 8712, 8751(6)); or
 
-&emsp;&emsp;(iii) a successor section.
+&emsp;&emsp;(C) a successor section.
 
 #### (6) Crop of economic significance
 
@@ -242,7 +242,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of this subsection, the total farm revenue for a farm,<sup>2</sup> shall equal the sum obtained by adding—
+&emsp;&emsp;For purposes of this subsection, the total farm revenue for a farm,<sup>1</sup> shall equal the sum obtained by adding—
 
 &emsp;&emsp;&emsp;(i) the estimated actual value for each crop produced on a farm by using the product obtained by multiplying—
 
@@ -254,7 +254,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(iii) the total amount of any counter-cyclical payments made to the producer under sections 1104 and 1304 of the Food, Conservation, and Energy Act of 2008 \[7 U.S.C. 8714, 8754\] or successor sections or of any average crop revenue election payments made to the producer under section 1105 of that Act \[7 U.S.C. 8715\];
 
-&emsp;&emsp;&emsp;(iv) the total amount of any loan deficiency payments, marketing loan gains, and marketing certificate gains made to the producer under subtitles B and C <sup>3</sup> of the Food, Conservation, and Energy Act of 2008 \[7 U.S.C. 8731 et seq., 8751 et seq.\] or successor subtitles;
+&emsp;&emsp;&emsp;(iv) the total amount of any loan deficiency payments, marketing loan gains, and marketing certificate gains made to the producer under subtitles B and C <sup>2</sup> of the Food, Conservation, and Energy Act of 2008 \[7 U.S.C. 8731 et seq., 8751 et seq.\] or successor subtitles;
 
 &emsp;&emsp;&emsp;(v) the amount of payments for prevented planting on a farm;
 
@@ -328,11 +328,15 @@ In this section:
 
 #### (1) Payments
 
-&emsp;The Secretary shall use such sums as are necessary from the Trust Fund to make livestock indemnity payments to eligible producers on farms that have incurred livestock death losses in excess of the normal mortality due to adverse weather, as determined by the Secretary, during the calendar year, including losses due to hurricanes, floods, blizzards, disease, wildfires, extreme heat, and extreme cold.
+&emsp;The Secretary shall make livestock indemnity payments to eligible producers on farms that have incurred livestock death losses in excess of the normal mortality due to adverse weather, as determined by the Secretary, during the calendar year, including losses due to hurricanes, floods, blizzards, disease, wildfires, extreme heat, and extreme cold.
 
 #### (2) Payment rates
 
 &emsp;Indemnity payments to an eligible producer on a farm under paragraph (1) shall be made at a rate of 75 percent of the market value of the applicable livestock on the day before the date of death of the livestock, as determined by the Secretary.
+
+#### (3) Authorization of appropriations
+
+&emsp;There is authorized to be appropriated to carry out this subsection $80,000,000 for each of fiscal years 2012 and 2013.
 
 #### (d) Livestock forage disaster program
 
@@ -390,7 +394,7 @@ In this section:
 
 #### (D) Normal carrying capacity
 
-&emsp;&emsp;The term “normal carrying capacity”, with respect to each type of grazing land or pastureland in a county, means the normal carrying capacity, as determined under paragraph (3)(D)(i), that would be expectedfrom the grazing land or pastureland for livestock during the normal grazing period, in the absence of a drought or fire that diminishes the production of the grazing land or pastureland.
+&emsp;&emsp;The term “normal carrying capacity”, with respect to each type of grazing land or pastureland in a county, means the normal carrying capacity, as determined under paragraph (3)(D)(i), that would be expected from the grazing land or pastureland for livestock during the normal grazing period, in the absence of a drought or fire that diminishes the production of the grazing land or pastureland.
 
 #### (E) Normal grazing period
 
@@ -398,7 +402,7 @@ In this section:
 
 #### (2) Program
 
-&emsp;The Secretary shall use such sums as are necessary from the Trust Fund to provide compensation for losses to eligible livestock producers due to grazing losses for covered livestock due to—
+&emsp;The Secretary shall provide compensation for losses to eligible livestock producers due to grazing losses for covered livestock due to—
 
 &emsp;&emsp;(A) a drought condition, as described in paragraph (3); or
 
@@ -562,11 +566,15 @@ In this section:
 
 &emsp;&emsp;An eligible livestock producer that receives assistance under this subsection may not also receive assistance for losses to crops on the same land with the same intended use under subsection (b).
 
+#### (7) Authorization of appropriations
+
+&emsp;There is authorized to be appropriated to carry out this subsection $400,000,000 for each of fiscal years 2012 and 2013.
+
 #### (e) Emergency assistance for livestock, honey bees, and farm-raised fish
 
 #### (1) In general
 
-&emsp;The Secretary shall use up to $50,000,000 per year from the Trust Fund to provide emergency relief to eligible producers of livestock, honey bees, and farm-raised fish to aid in the reduction of losses due to disease, adverse weather, or other conditions, such as blizzards and wildfires, as determined by the Secretary, that are not covered under subsection (b), (c), or (d).
+&emsp;The Secretary shall provide emergency relief to eligible producers of livestock, honey bees, and farm-raised fish to aid in the reduction of losses due to disease, adverse weather, or other conditions, such as blizzards and wildfires, as determined by the Secretary, that are not covered under subsection (b), (c), or (d).
 
 #### (2) Use of funds
 
@@ -575,6 +583,10 @@ In this section:
 #### (3) Availability of funds
 
 &emsp;Any funds made available under this subsection shall remain available until expended.
+
+#### (4) Authorization of appropriations
+
+&emsp;There is authorized to be appropriated to carry out this subsection $50,000,000 for each of fiscal years 2012 and 2013.
 
 #### (f) Tree assistance program
 
@@ -602,7 +614,7 @@ In this section:
 
 #### (A) Loss
 
-&emsp;&emsp;Subject to subparagraph (B), the Secretary shall use such sums as are necessary from the Trust Fund to provide assistance—
+&emsp;&emsp;Subject to subparagraph (B), the Secretary shall provide assistance—
 
 &emsp;&emsp;&emsp;(i) under paragraph (3) to eligible orchardists and nursery tree growers that planted trees for commercial purposes but lost the trees as a result of a natural disaster, as determined by the Secretary; and
 
@@ -614,7 +626,7 @@ In this section:
 
 #### (3) Assistance
 
-&emsp;Subject to paragraph (4), the assistance provided by the Secretary to eligible orchardists and nursery tree growers for losses described in paragraph (2) shall consist of—
+&emsp;Subject to paragraph (4), the assistance provided by the Secretary to eligible orchardistsand nursery tree growers for losses described in paragraph (2) shall consist of—
 
 &emsp;&emsp;(A)(i) reimbursement of 70 percent of the cost of replanting trees lost due to a natural disaster, as determined by the Secretary, in excess of 15 percent mortality (adjusted for normal mortality); or
 
@@ -626,7 +638,7 @@ In this section:
 
 #### (A) Definitions of legal entity and person
 
-&emsp;&emsp;In this paragraph, the terms “legal entity” and “person” have the meaning given those terms in section 1001(a) of the Food Security Act of 1985 (7 U.S.C. 1308(a) <sup>4</sup> (as amended by section 1603 of the Food, Conservation, and Energy Act of 2008).
+&emsp;&emsp;In this paragraph, the terms “legal entity” and “person” have the meaning given those terms in section 1001(a) of the Food Security Act of 1985 (7 U.S.C. 1308(a) <sup>3</sup> (as amended by section 1603 of the Food, Conservation, and Energy Act of 2008).
 
 #### (B) Amount
 
@@ -636,6 +648,10 @@ In this section:
 
 &emsp;&emsp;The total quantity of acres planted to trees or tree seedlings for which a person or legal entity shall be entitled to receive payments under this subsection may not exceed 500 acres.
 
+#### (5) Authorization of appropriations
+
+&emsp;There is authorized to be appropriated to carry out this subsection $20,000,000 for each of fiscal years 2012 and 2013.
+
 #### (g) Risk management purchase requirement
 
 #### (1) In general
@@ -644,7 +660,7 @@ In this section:
 
 &emsp;&emsp;(A) in the case of each insurable commodity of the eligible producers on the farm, excluding grazing land, did not obtain a policy or plan of insurance under subchapter I (excluding a crop insurance pilot program under that subchapter); or
 
-&emsp;&emsp;(B) in the case of each noninsurable commodity of the eligible producers on the farm, did not file the required paperwork, and paythe administrative fee by the applicable State filing deadline, for the noninsured crop assistance program.
+&emsp;&emsp;(B) in the case of each noninsurable commodity of the eligible producers on the farm, did not file the required paperwork, and pay the administrative fee by the applicable State filing deadline, for the noninsured crop assistance program.
 
 #### (2) Minimum
 
@@ -708,7 +724,7 @@ In this section:
 
 &emsp;&emsp;Eligible producers on a farm that meet the requirements of subparagraph (A) shall be eligible to receive assistance under this section as if the eligible producers on the farm—
 
-&emsp;&emsp;&emsp;(i) in the case of each insurable commodity of the eligible producers on the farm,had obtained a policy or plan of insurance for the 2008 crop year at a level of coverage not to exceed 70 percent or more of the recorded or appraised average yield indemnified at 100 percent of the expected market price, or an equivalent coverage; and
+&emsp;&emsp;&emsp;(i) in the case of each insurable commodity of the eligible producers on the farm, had obtained a policy or plan of insurance for the 2008 crop year at a level of coverage not to exceed 70 percent or more of the recorded or appraised average yield indemnified at 100 percent of the expected market price, or an equivalent coverage; and
 
 &emsp;&emsp;&emsp;(ii) in the case of each noninsurable commodity of the eligible producers on the farm, had filed the required paperwork, and paid the administrative fee by the applicable State filing deadline, for the noninsured crop assistance program for the 2008 crop year, except that in determining the level of coverage, the Secretary shall use 70 percent of the applicable yield.
 
@@ -742,7 +758,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(I)(aa) except as provided in item (bb), lack access to a policy or plan of insurance under subchapter I; or
 
-&emsp;&emsp;&emsp;&emsp;(bb) do not qualify for a written agreement because 1 or more farming practices, which the Secretary has determined are good farming practices, of the eligible producers on the farm differ significantly from the farming practices used by producers of the same crop in other regions of the United States; and
+&emsp;&emsp;&emsp;&emsp;(bb) do not qualify for a written agreement because 1 or more farming practices, which the Secretary has determined are good farming practices, of the eligible producers on the farm differ significantly from the farming practicesused by producers of the same crop in other regions of the United States; and
 
 &emsp;&emsp;&emsp;&emsp;(II) are not eligible for the noninsured crop disaster assistance program established by section 7333 of this title.
 
@@ -750,7 +766,7 @@ In this section:
 
 #### (1) Definitions of legal entity and person
 
-&emsp;In this subsection, the terms “legal entity” and “person” have the meaning given those terms in section 1001(a) of the Food Security Act of 1985 (7 U.S.C. 1308(a) <sup>4</sup> (as amended by section 1603 of the Food, Conservation, and Energy Act of 2008).
+&emsp;In this subsection, the terms “legal entity” and “person” have the meaning given those terms in section 1001(a) of the Food Security Act of 1985 (7 U.S.C. 1308(a) <sup>3</sup> (as amended by section 1603 of the Food, Conservation, and Energy Act of 2008).
 
 #### (2) Amount
 
@@ -770,7 +786,7 @@ In this section:
 
 #### (i) Period of effectiveness
 
-This section shall be effective only for losses that are incurred as the result of a disaster, adverse weather, or other environmental condition that occurs on or before September 30, 2011, as determined by the Secretary.
+This section shall be effective only for losses that are incurred as the result of a disaster, adverse weather, or other environmental condition that occurs on or before September 30, 2011, or, in the case of subsections (c) through (f), September 30, 2013 <sup>4</sup> as determined by the Secretary.
 
 #### (j) No duplicative payments
 
@@ -786,7 +802,7 @@ In implementing any other program which makes disaster assistance payments (exce
 
 &emsp;Paragraph (1) shall not apply to a specific reference in this subchapter to a provision of subchapter I.
 
-(Feb. 16, 1938, ch. 30, title V, §531, as added Pub. L. 110–234, title XII, §12033(a), May 22, 2008, 122 Stat. 1392, and Pub. L. 110–246, §4(a), title XII, §12033(a), June 18, 2008, 122 Stat. 1664, 2154; amended Pub. L. 110–398, §2(a), Oct. 13, 2008, 122 Stat. 4214; Pub. L. 111–5, div. A, title I, §102(a), Feb. 17, 2009, 123 Stat. 121; Pub. L. 111–80, title VII, §745(a), Oct. 21, 2009, 123 Stat. 2129.)
+(Feb. 16, 1938, ch. 30, title V, §531, as added Pub. L. 110–234, title XII, §12033(a), May 22, 2008, 122 Stat. 1392, and Pub. L. 110–246, §4(a), title XII, §12033(a), June 18, 2008, 122 Stat. 1664, 2154; amended Pub. L. 110–398, §2(a), Oct. 13, 2008, 122 Stat. 4214; Pub. L. 111–5, div. A, title I, §102(a), Feb. 17, 2009, 123 Stat. 121; Pub. L. 111–80, title VII, §745(a), Oct. 21, 2009, 123 Stat. 2129; Pub. L. 112–240, title VII, §702(a), Jan. 2, 2013, 126 Stat. 2368.)
 
 #### References in Text
 
@@ -803,6 +819,26 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 Section 2(a) of Pub. L. 110–398, which directed amendment of section 531 of the Federal Crop Insurance Act, was executed to this section, which is section 531 of subtitle B of title V of act Feb. 16, 1938, ch. 30, to reflect the probable intent of Congress. The Federal Crop Insurance Act is subtitle A of title V of act of Feb. 16, 1938, ch. 30.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (a)(5). Pub. L. 112–240, §702(a)(1), struck out “under” first time appearing after “established” in introductory provisions, redesignated cls. (i) to (iii) as subpars. (A) to (C), respectively, and realigned margins.
+
+Subsec. (c)(1). Pub. L. 112–240, §702(a)(2)(A), struck out “use such sums as are necessary from the Trust Fund to” after “Secretary shall”.
+
+Subsec. (c)(3). Pub. L. 112–240, §702(a)(2)(B), added par. (3).
+
+Subsec. (d)(2). Pub. L. 112–240, §702(a)(3)(A), struck out “use such sums as are necessary from the Trust Fund to” after “Secretary shall” in introductory provisions.
+
+Subsec. (d)(7). Pub. L. 112–240, §702(a)(3)(B), added par. (7).
+
+Subsec. (e)(1). Pub. L. 112–240, §701(a)(4)(A), struck out “use up to $50,000,000 per year from the Trust Fund to” after “Secretary shall”.
+
+Subsec. (e)(4). Pub. L. 112–240, §702(a)(4)(B), added par. (4).
+
+Subsec. (f)(2)(A). Pub. L. 112–240, §702(a)(5)(A), struck out “use such sums as are necessary from the Trust Fund to” after “Secretary shall” in introductory provisions.
+
+Subsec. (f)(5). Pub. L. 112–240, §702(a)(5)(B), added par. (5).
+
+Subsec. (i). Pub. L. 112–240, §702(a)(6), inserted “or, in the case of subsections (c) through (f), September 30, 2013” after “2011,”.
 
 <b>2009</b>—Subsec. (g)(7). Pub. L. 111–5, which directed amendment of section 531(g) of the Federal Crop Insurance Act by adding par. (7), was executed to this section, which is section 531 of subtitle B of title V of act of Feb. 16, 1938, ch. 30, to reflect the probable intent of Congress. The Federal Crop Insurance Act is subtitle A of title V of act of Feb. 16, 1938, ch. 30.
 
@@ -872,7 +908,7 @@ Subsec. (d)(5)(B)(ii). Pub. L. 110–398, §2(a)(3), substituted “subsection�
 
 Subsec. (f)(2)(A). Pub. L. 110–398, §2(a)(4), substituted “the Secretary shall use such sums as are necessary from the Trust Fund to provide” for “the Secretary shall provide”.
 
-Subsec. (g)(1). Pub. L. 110–398, §2(a)(6)(A)(i), substituted “(other than subsections (c) and (d))” for“(other than subsection (c))” in introductory provisions.
+Subsec. (g)(1). Pub. L. 110–398, §2(a)(6)(A)(i), substituted “(other than subsections (c) and (d))” for “(other than subsection (c))” in introductory provisions.
 
 Subsec. (g)(1)(A). Pub. L. 110–398, §2(a)(6)(A)(ii), inserted “, excluding grazing land” after “producers on the farm”.
 
@@ -883,6 +919,10 @@ Subsec. (g)(4). Pub. L. 110–398, §2(a)(6)(C), (D), substituted “Waivers for
 Subsec. (g)(6). Pub. L. 110–398, §2(a)(5), added par. (6).
 
 Subsec. (h)(5). Pub. L. 110–398, §2(a)(7), added par. (5).
+
+#### Effective Date of 2013 Amendment
+
+Pub. L. 112–240, title VII, §702(b), Jan. 2, 2013, 126 Stat. 2369, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 2012.”
 
 #### Effective Date
 
@@ -896,13 +936,13 @@ Pub. L. 110–329, div. B, title I, §10102, Sept. 30, 2008, 122 Stat. 3588, pro
 
 Pub. L. 110–234, title XII, §12033(b), May 22, 2008, 122 Stat. 1405, and Pub. L. 110–246, §4(a), title XII, §12033(b), June 18, 2008, 122 Stat. 1664, 2167, provided that: “For purposes of the 2008 crop year, the Secretary \[of Agriculture\] shall carry out subsections (f)(4) and (h) of section 531 of the Federal Crop Insurance Act \[7 U.S.C. 1531(f)(4), (h)\] (as added by subsection (a)) in accordance with the terms and conditions of sections 1001 through 1001D of the Food Security Act of 1985 (16 U.S.C. 1308 et seq.), as in effect on September 30, 2007.”
 
-\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.\]
+\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a)of Pub. L. 110–246, set out as a note under section 8701 of this title.\]
 
-<i><sup>1</sup></i><i> So in original.</i>
+<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 
-<i><sup>2</sup></i><i> So in original. The comma probably should not appear.</i>
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 
-<i><sup>3</sup></i><i> See References in Text note below.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be followed by a second closing parenthesis.</i>
 
-<i><sup>4</sup></i><i> So in original. Probably should be followed by a second closing parenthesis.</i>
+<i><sup>4</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

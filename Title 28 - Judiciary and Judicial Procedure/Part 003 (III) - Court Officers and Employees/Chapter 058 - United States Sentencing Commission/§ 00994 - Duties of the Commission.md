@@ -32,7 +32,7 @@
 
 (b)(1) The Commission, in the guidelines promulgated pursuant to subsection (a)(1), shall, for each category of offense involving each category of defendant, establish a sentencing range that is consistent with all pertinent provisions of title 18, United States Code.
 
-(2) If a sentence specified by the guidelines includes a term of imprisonment, the maximum of the range established for such a term shall not exceed the minimum of that range by more than the greater of 25 percent or 6 months, except that, if the minimum term of the range is 30 years or more, the maximum may be life imprisonment.
+(2) If a sentence specified by the guidelines includes a term of imprisonment, the maximum ofthe range established for such a term shall not exceed the minimum of that range by more than the greater of 25 percent or 6 months, except that, if the minimum term of the range is 30 years or more, the maximum may be life imprisonment.
 
 (c) The Commission, in establishing categories of offenses for use in the guidelines and policy statements governing the imposition of sentences of probation, a fine, or imprisonment, governing the imposition of other authorized sanctions, governing the size of a fine or the length of a term of probation, imprisonment, or supervised release, and governing the conditions of probation, supervised release, or imprisonment, shall consider whether the following matters, among others, have any relevance to the nature, extent, place of service, or other incidents <sup>2</sup> of an appropriate sentence, and shall take them into account only to the extent that they do have relevance—
 
@@ -112,7 +112,7 @@
 
 (k) The Commission shall insure that the guidelines reflect the inappropriateness of imposing a sentence to a term of imprisonment for the purpose of rehabilitating the defendant or providing the defendant with needed educational or vocational training, medical care, or other correctional treatment.
 
-(<i>l</i>) The Commission shall insure that the guidelines promulgated pursuant to subsection (a)(1) reflect—
+(l) The Commission shall insure that the guidelines promulgated pursuant to subsection (a)(1) reflect—
 
 &emsp;(1) the appropriateness of imposing an incremental penalty for each offense in a case in which a defendant is convicted of—
 
@@ -126,7 +126,7 @@
 
 (n) The Commission shall assure that the guidelines reflect the general appropriateness of imposing a lower sentence than would otherwise be imposed, including a sentence that is lower than that established by statute as a minimum sentence, to take into account a defendant's substantial assistance in the investigation or prosecution of another person who has committed an offense.
 
-(<i>o</i>) The Commission periodically shall review and revise, in consideration of comments and data coming to its attention, the guidelines promulgated pursuant to the provisions of this section. In fulfilling its duties and in exercising its powers, the Commission shall consult with authorities on, and individual and institutional representatives of, various aspects of the Federal criminal justice system. The United States Probation System, the Bureau of Prisons, the Judicial Conference of the United States, the Criminal Division of the United States Department of Justice, and a representative of the Federal Public Defenders shall submit to the Commission any observations, comments, or questions pertinent to the work of the Commission whenever they believe such communication would be useful, and shall, at least annually, submit to the Commission a written report commenting on the operation of the Commission's guidelines, suggesting changes in the guidelines that appear to be warranted, and otherwise assessing the Commission's work.
+(o) The Commission periodically shall review and revise, in consideration of comments and data coming to its attention, the guidelines promulgated pursuant to the provisions of this section. In fulfilling its duties and in exercising its powers, the Commission shall consult with authorities on, and individual and institutional representatives of, various aspects of the Federal criminal justice system. The United States Probation System, the Bureau of Prisons, the Judicial Conference of the United States, the Criminal Division of the United States Department of Justice, and a representative of the Federal Public Defenders shall submit to the Commission any observations, comments, or questions pertinent to the work of the Commission whenever they believe such communication would be useful, and shall, at least annually, submit to the Commission a written report commenting on the operation of the Commission's guidelines, suggesting changes in the guidelines that appear to be warranted, and otherwise assessing the Commission's work.
 
 (p) The Commission, at or after the beginning of a regular session of Congress, but not later than the first day of May, may promulgate under subsection (a) of this section and submit to Congress amendments to the guidelines and modifications to previously submitted amendments that have not taken effect, including modifications to the effective dates of such amendments. Such an amendment or modification shall be accompanied by a statement of the reasons therefor and shall take effect on a date specified by the Commission, which shall be no earlier than 180 days after being so submitted and no later than the first day of November of the calendar year in which the amendment or modification is submitted, except to the extent that the effective date is revised or the amendment is otherwise modified or disapproved by Act of Congress.
 
@@ -138,7 +138,7 @@
 
 &emsp;(3) use of existing Federal facilities, such as those currently within military jurisdiction.
 
-(r) The Commission, not later than two years after the initial set of sentencing guidelines promulgated under subsection (a) goes into effect, and thereafter whenever it finds it advisable, shall recommend to the Congress that it raise or lower the grades, or otherwise modify the maximum penalties, of those offenses for which such an adjustment appears appropriate.
+(r) The Commission, not later than two years after the initial set of sentencing guidelines promulgated under subsection (a) goes into effect, and thereafter whenever it finds it advisable,shall recommend to the Congress that it raise or lower the grades, or otherwise modify the maximum penalties, of those offenses for which such an adjustment appears appropriate.
 
 (s) The Commission shall give due consideration to any petition filed by a defendant requesting modification of the guidelines utilized in the sentencing of such defendant, on the basis of changed circumstances unrelated to the defendant, including changes in—
 
@@ -236,7 +236,7 @@ Subsec. (h). Pub. L. 99–646, §6(b)(1), (2), substituted “guidelines specify
 
 Subsec. (i). Pub. L. 99–646, §6(b)(2), substituted “guidelines specify” for “guidelines will specify”.
 
-Subsecs. (n) to (t). Pub. L. 99–570, §1008(1), (2), added subsec. (n) and redesignated former subsecs. (n) to (t) as (<i>o</i>) to (u), respectively.
+Subsecs. (n) to (t). Pub. L. 99–570, §1008(1), (2), added subsec. (n) and redesignated former subsecs. (n) to (t) as (o) to (u), respectively.
 
 Subsec. (u). Pub. L. 99–646, §6(b)(3), which directed that subsec. (t) be amended by inserting “in what circumstances and” after “specify” and striking out “that are outside the applicable guideline ranges” after “terms of imprisonment”, was executed to subsec. (u) to reflect the probable intent of Congress and the intervening redesignation of subsec. (t) as (u) by Pub. L. 99–570.
 
@@ -255,6 +255,14 @@ Amendment by Pub. L. 100–182 applicable with respect to offenses committed aft
 For termination, effective May 15, 2000, of provisions in subsec. (w) of this section relating to requirement that the Commission submit to Congress at least annually an analysis of reports and recommendations for legislation that the Commission concludes is warranted by that analysis, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 13 of House Document No. 103–7.
 
 #### Provisions for Review, Promulgation, or Amendment of Federal Sentencing Guidelines
+
+Pub. L. 112–269, §3, Jan. 14, 2013, 126 Stat. 2442.—Transmission or attempted transmission of stolen trade secrets outside of the United States; economic espionage.
+
+Pub. L. 112–206, §3(b), Dec. 7, 2012, 126 Stat. 1492.—Higher penalties for sex crimes involving children and for harassment and intimidation in order to obstruct the administration of justice regarding such crimes.
+
+Pub. L. 112–186, §7, Oct. 5, 2012, 126 Stat. 1430.—Theft of pre-retail medical products.
+
+Pub. L. 112–144, title VII, §717(b), July 9, 2012, 126 Stat. 1076.—Counterfeit drug trafficking.
 
 Pub. L. 111–273, §4, Oct. 12, 2010, 124 Stat. 2860.—Drug offense resulting from authorization to receive scheduled substances from ultimate user or long-term care facility.
 

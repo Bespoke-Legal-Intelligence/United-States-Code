@@ -36,13 +36,17 @@ A grant shall be awarded under this section on a competitive, peer- and merit-re
 
 #### (g) No duplication
 
-In awarding grants under this section, the Secretary shall ensure that activities funded under this section do not duplicate the efforts of the University Transportation Centers described in sections 5505 and 5506 of title 49.
+In awarding grants under this section, the Secretary shall ensure that activities funded under this section do not duplicate the efforts of the University Transportation Centers described in sections 5505 and 5506 <sup>1</sup> of title 49.
 
 #### (h) Authorization of appropriations
 
 There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2008 through 2012.
 
 (Pub. L. 110–234, title VII, §7529, May 22, 2008, 122 Stat. 1278; Pub. L. 110–246, §4(a), title VII, §7529, June 18, 2008, 122 Stat. 1664, 2040.)
+
+#### References in Text
+
+Section 5506 of title 49, referred to in subsec. (g), was repealed by Pub. L. 112–141, div. E, title II, §52010(a), July 6, 2012, 126 Stat. 887.
 
 #### Codification
 
@@ -57,4 +61,6 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 #### Definition of “Secretary”
 
 “Secretary” as meaning the Secretary of Agriculture, see section 8701 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

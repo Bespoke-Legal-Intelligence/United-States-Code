@@ -56,7 +56,7 @@
 
 &emsp;The Assistant Secretary shall make grants to States, on a competitive basis, for the development and operation of—
 
-&emsp;&emsp;(A) systems for the delivery of mental health screening and treatment services forolder individuals who lack access to such services; and
+&emsp;&emsp;(A) systems for the delivery of mental health screening and treatment services for older individuals who lack access to such services; and
 
 &emsp;&emsp;(B) programs to—
 
@@ -82,7 +82,7 @@
 
 &emsp;In carrying out this subsection, to more efficiently and effectively deliver services to older individuals, each area agency on aging shall—
 
-&emsp;&emsp;(A) coordinate services described in subparagraphs (A) and (B) of paragraph (1) with such services or similar or related services of other community agencies, and voluntary organizations; and
+&emsp;&emsp;(A) coordinate services described in subparagraphs (A) and (B) of paragraph (1) with such services or similar or related servicesof other community agencies, and voluntary organizations; and
 
 &emsp;&emsp;(B) to the greatest extent practicable, integrate outreach and educational activities with such activities of existing (as of the date of the integration) social service and health care (including mental health) providers serving older individuals in the planning and service area involved.
 

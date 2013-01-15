@@ -10,7 +10,7 @@ The Public Health Service in the Department of Health and Human Services shall b
 
 #### Transfer of Functions
 
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfareand all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
 #### International Health Administration
 
@@ -152,7 +152,7 @@ In summary, the reorganization plan would:
 
 I have found, after investigation, that each reorganization included in the accompanying reorganization plan is necessary to accomplish one or more of the purposes set forth in section 2(a) of the Reorganization Act of 1949, as amended.
 
-Should the reorganizations in the accompanying reorganization plan take effect, they will make possible more effective and efficient administration of the affected health programs. It is, however, not practicable at this time to itemize the reductions in expenditures which may result.
+Should the reorganizations in the accompanying reorganization plan take effect, they will make possiblemore effective and efficient administration of the affected health programs. It is, however, not practicable at this time to itemize the reductions in expenditures which may result.
 
 I strongly recommend that the Congress allow the reorganization plan to become effective.
 
@@ -178,13 +178,13 @@ Section 1. The Secretary of Health and Human Services is hereby authorized and e
 
 (c) The authority under Section 207(a)(2) (42 U.S.C. 209(a)(2)) to terminate commissions of officers of the Reserve Corps without the consent of the officers concerned.
 
-(d) The authority under Section 210(a), (k), and (<i>l</i>) (42 U.S.C. 211(a), (k), and (<i>l</i>)) to make or terminate temporary promotions of commissioned officers of the Regular Corps and Reserve Corps.
+(d) The authority under Section 210(a), (k), and (l) (42 U.S.C. 211(a), (k), and (l)) to make or terminate temporary promotions of commissioned officers of the Regular Corps and Reserve Corps.
 
 (e) The authority under Section 211(a)(5) (42 U.S.C. 212(a)(5)) to approve voluntary retirements under that section.
 
 (f) The authority to prescribe regulations under the following-designated Sections: 207(a), 207(b), 208(e), 210(a), 210(b), 210(d)(1), 210(h), 210(i), 210(j)(1), 210(k), 215(a), 218(a), 219(a), and 510 (42 U.S.C. 209(a), 209(b), 210(e), 211(a), 211(b), 211(d)(1), 211(h), 211(i), 211(j)(1), 211(k), 216(a), 218a(a), 210–1(a), and 228).
 
-(g) The authority under Sections 321(a) and 364(a) (42 U.S.C. 248(a) and 267(a)) to approve the selection of suitable sites for and the establishment of additional institutions, hospitals, stations, grounds, and anchorages; subject, however, to the approval of the Director of theOffice of Management and Budget, except as he may otherwise provide.
+(g) The authority under Sections 321(a) and 364(a) (42 U.S.C. 248(a) and 267(a)) to approve the selection of suitable sites for and the establishment of additional institutions, hospitals, stations, grounds, and anchorages; subject, however, to the approval of the Director of the Office of Management and Budget, except as he may otherwise provide.
 
 Sec. 2. The Surgeon General is hereby authorized and empowered, without the approval, ratification, or other action of the President, to perform the function vested in the President by Sections 203 and 207(a)(2) of the Public Health Service Act (58 Stat. 683, 685), as amended (42 U.S.C. 204 and 209(a)(2)), or otherwise, of accepting voluntary resignations of commissioned officers of the Regular Corps or the Reserve Corps.
 

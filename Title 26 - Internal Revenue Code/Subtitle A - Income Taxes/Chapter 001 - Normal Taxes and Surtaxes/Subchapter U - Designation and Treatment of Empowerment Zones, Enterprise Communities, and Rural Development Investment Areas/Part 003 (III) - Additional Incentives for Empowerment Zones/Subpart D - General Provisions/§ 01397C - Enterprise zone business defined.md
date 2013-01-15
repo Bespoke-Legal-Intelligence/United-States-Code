@@ -154,7 +154,7 @@ Amendment by Pub. L. 106–170 applicable to any instrument held, acquired, or e
 
 #### Effective Date of 1997 Amendment
 
-Section 956(b) of Pub. L. 105–34 provided that:
+Pub. L. 105–34, title IX, §956(b), Aug. 5, 1997, 111 Stat. 891, provided that:
 
 “(1)
 
@@ -166,7 +166,7 @@ Special rule for enterprise zone facility bonds.—For purposes of section 1394(
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of 1993, Pub. L. 103–66, §§13001–13444, to which such amendment relates, see section 1703(<i>o</i>) of Pub. L. 104–188, set out as a note under section 39 of this title.
+Amendment by Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of 1993, Pub. L. 103–66, §§13001–13444, to which such amendment relates, see section 1703(o) of Pub. L. 104–188, set out as a note under section 39 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subparagraph”.</i>
 

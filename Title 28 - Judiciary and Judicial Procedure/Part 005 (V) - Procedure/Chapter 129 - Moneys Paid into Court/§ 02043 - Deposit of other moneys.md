@@ -1,6 +1,6 @@
 ### §2043. Deposit of other moneys
 
-Except for public moneys deposited under section 2041 of this title, each clerk of the United States courts shall deposit public moneys that the clerk collects into a checking account in the Treasury, subject to disbursement by the clerk. At the end of each accounting period, the earned part of public moneys accruing to the United States shall be deposited in the Treasury to the credit of the appropriate receipt accounts.
+Except for public moneys deposited under section 2041 of this title, each clerk of the UnitedStates courts shall deposit public moneys that the clerk collects into a checking account in the Treasury, subject to disbursement by the clerk. At the end of each accounting period, the earned part of public moneys accruing to the United States shall be deposited in the Treasury to the credit of the appropriate receipt accounts.
 
 (Added Pub. L. 97–258, §2(g)(4)(E), Sept. 13, 1982, 96 Stat. 1061.)
 

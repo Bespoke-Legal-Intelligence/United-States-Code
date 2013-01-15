@@ -30,7 +30,7 @@ Activities funded under this section shall be selected by the Secretary taking i
 
 &emsp;(3) The extent to which the activity will provide a comprehensive approach to the control or eradication of noxious weeds.
 
-&emsp;(4) The extent to which the program will improve the overall capacity of the UnitedStates to address noxious weed control and management.
+&emsp;(4) The extent to which the program will improve the overall capacity of the United States to address noxious weed control and management.
 
 &emsp;(5) The extent to which the project promotes cooperation and participation between States that have common interests in controlling and eradicating noxious weeds.
 

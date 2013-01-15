@@ -20,7 +20,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;An affidavit of support is not enforceable after such time as the alien (i) has worked 40 qualifying quarters of coverage as defined under title II of the Social Security Act \[42 U.S.C. 401 et seq.\] or can be credited with such qualifying quarters as provided under subparagraph (B), and (ii) in the case of any such qualifying quarter creditable for any period beginning after December 31, 1996, did not receive any Federal means-tested public benefit (as provided under section 1613 of this title) during any such period.
+&emsp;&emsp;An affidavit of support is not enforceable after such time as the alien (i) has worked 40 qualifying quarters of coverage as defined under title II of the Social Security Act \[42 U.S.C. 401 et seq.\] or can be credited with such qualifying quarters as provided under subparagraph (B), and (ii) in the case of any such qualifying quarter creditable for any period beginning after December 31, 1996, didnot receive any Federal means-tested public benefit (as provided under section 1613 of this title) during any such period.
 
 #### (B) Qualifying quarters
 
@@ -74,7 +74,7 @@ Remedies available to enforce an affidavit of support under this section include
 
 #### (1) General requirement
 
-&emsp;The sponsor shall notify the Attorney General and the State in which the sponsored alien is currently a resident within 30 days of any change of address of the sponsor duringthe period in which an affidavit of support is enforceable.
+&emsp;The sponsor shall notify the Attorney General and the State in which the sponsored alien is currently a resident within 30 days of any change of address of the sponsor during the period in which an affidavit of support is enforceable.
 
 #### (2) Penalty
 
@@ -138,7 +138,7 @@ An action to enforce an affidavit of support executed under subsection (a) of th
 
 &emsp;&emsp;&emsp;(i) the individual petitioning under section 1154 of this title for the classification of such alien died after the approval of such petition, and the Secretary of Homeland Security has determined for humanitarian reasons that revocation of such petition under section 1155 of this title would be inappropriate; or
 
-&emsp;&emsp;&emsp;(ii) the alien's petition is being adjudicated pursuant to section 1154(<i>l</i>) of this title (surviving relative consideration).
+&emsp;&emsp;&emsp;(ii) the alien's petition is being adjudicated pursuant to section 1154(l) of this title (surviving relative consideration).
 
 #### (6) Demonstration of means to maintain income
 
@@ -204,7 +204,7 @@ Amendment by Pub. L. 107–150 applicable with respect to deaths occurring befor
 
 #### Effective Date of 1996 Amendments; Promulgation of Form
 
-Section 551(c) of div. C of Pub. L. 104–208 provided that:
+Pub. L. 104–208, div. C, title V, §551(c), Sept. 30, 1996, 110 Stat. 3009–679, provided that:
 
 “(1)
 
@@ -214,7 +214,7 @@ In general.—The amendments made by this section \[enacting this section, amend
 
 Promulgation of form.—Not later than 90 days after the date of the enactment of this Act \[Sept. 30, 1996\], the Attorney General, in consultation with the heads of other appropriate agencies, shall promulgate a standard form for an affidavit of support consistent with the provisions of section 213A of the Immigration and Nationality Act \[this section\], as amended by subsection (a).”
 
-Section 423(c) of Pub. L. 104–193 provided that subsec. (a) of this section was applicable to affidavits of support executed on or after a date specified by Attorney General, which date was to be not earlier than 60 days (and not later than 90 days) after date Attorney General formulated form for such affidavits under subsec. (b) of this section, prior to repeal by Pub. L. 104–208, div. C, title V, §551(b)(2), Sept. 30, 1996, 104 Stat. 3009–679.
+Pub. L. 104–193, title IV, §423(c), Aug. 22, 1996, 110 Stat. 2273, provided that subsec. (a) of this section was applicable to affidavits of support executed on or after a date specified by Attorney General, which date was to be not earlier than 60 days (and not later than 90 days) after date Attorney General formulated form for such affidavits under subsec. (b) of this section, prior to repeal by Pub. L. 104–208, div. C, title V, §551(b)(2), Sept. 30, 1996, 104 Stat. 3009–679.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
@@ -238,7 +238,7 @@ Treatment of Fees.—Fees collected under the authority of subsection (a) shall 
 
 #### Pilot Programs To Require Bonding
 
-Section 564 of div. C of Pub. L. 104–208 provided that:
+Pub. L. 104–208, div. C, title V, §564, Sept. 30, 1996, 110 Stat. 3009–683, provided that:
 
 “(a)
 
@@ -278,7 +278,7 @@ Bonds in Addition to Sponsorship and Deeming Requirements.—\[Amended section 1
 
 #### Benefits Not Subject to Reimbursement
 
-Section 423(d) of Pub. L. 104–193, as amended by Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(3)(B), (f)(3)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–430; Pub. L. 106–78, title VII, §752(b)(6), Oct. 22, 1999, 113 Stat. 1169, provided that: “Requirements for reimbursement by a sponsor for benefits provided to a sponsored alien pursuant to an affidavit of support under section 213A of the Immigration and Nationality Act \[8 U.S.C. 1183a\] shall not apply with respect to the following:
+Pub. L. 104–193, title IV, §423(d), Aug. 22, 1996, 110 Stat. 2273, as amended by Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(3)(B), (f)(3)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–430; Pub. L. 106–78, title VII, §752(b)(6), Oct. 22, 1999, 113 Stat. 1169, provided that: “Requirements for reimbursement by a sponsor for benefits provided to a sponsored alien pursuant to an affidavit of support under section 213A of the Immigration and Nationality Act \[8 U.S.C. 1183a\] shall not apply with respect to the following:
 
 &emsp;“(1) Medical assistance described in section 401(b)(1)(A) \[8 U.S.C. 1611(b)(1)(A)\] or assistance described in section 411(b)(1) \[8 U.S.C. 1621(b)(1)\].
 

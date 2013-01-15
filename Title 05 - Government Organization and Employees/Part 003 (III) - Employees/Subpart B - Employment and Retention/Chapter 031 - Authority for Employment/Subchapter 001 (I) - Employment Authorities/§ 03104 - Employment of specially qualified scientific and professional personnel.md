@@ -114,7 +114,7 @@ Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on da
 
 #### Experimental Personnel Program for Scientific and Technical Personnel
 
-Pub. L. 105–261, div. A, title XI, §1101, Oct. 17, 1998, 112 Stat. 2139, as amended by Pub. L. 106–65, div. A, title X, §1067(3), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[\[div. A\] title X, §1087(d)(6), title XI, §1113\], Oct. 30, 2000, 114 Stat. 1654, 1654A–293, 1654A–314; Pub. L. 108–136, div. A, title IX, §921(g), title XI, §1116, Nov. 24, 2003, 117 Stat. 1570, 1636; Pub. L. 109–364, div. A, title XI, §1103, Oct. 17, 2006, 120 Stat. 2408; Pub. L. 110–181, div. A, title XI, §1108, Jan. 28, 2008, 122 Stat. 358; Pub. L. 111–84, div. A, title XI, §1104, Oct. 28, 2009, 123 Stat. 2485; Pub. L. 111–383, div. A, title IX, §901(a)(2), Jan. 7, 2011, 124 Stat. 4317; Pub. L. 112–81, div. A, title XI, §1110, Dec. 31, 2011, 125 Stat. 1615, provided that:
+Pub. L. 105–261, div. A, title XI, §1101, Oct. 17, 1998, 112 Stat. 2139, as amended by Pub. L. 106–65, div. A, title X, §1067(3), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[\[div. A\] title X, §1087(d)(6), title XI, §1113\], Oct. 30, 2000, 114 Stat. 1654, 1654A–293, 1654A–314; Pub. L. 108–136, div. A, title IX, §921(g), title XI, §1116, Nov. 24, 2003, 117 Stat. 1570, 1636; Pub. L. 109–364, div. A, title XI, §1103, Oct. 17, 2006, 120 Stat. 2408; Pub. L. 110–181, div. A, title XI, §1108, Jan. 28, 2008, 122 Stat. 358; Pub. L. 111–84, div. A, title XI, §1104, Oct. 28, 2009, 123 Stat. 2485; Pub. L. 112–81, div. A, title XI, §1110, Dec. 31, 2011, 125 Stat. 1615; Pub. L. 112–239, div. A, title X, §1076(c)(2)(A)(vi), title XI, §1102(a), Jan. 2, 2013, 126 Stat. 1950, 1973, provided that:
 
 “(a)
 
@@ -126,7 +126,7 @@ Special Personnel Management Authority.—Under the program, the Secretary may�
 
 &emsp;“(1) without regard to any provision of title 5, United States Code, governing the appointment of employees in the civil service, appoint scientists and engineers from outside the civil service and uniformed services (as such terms are defined in section 2101 of such title) to—
 
-&emsp;&emsp;“(A) not more than 40 scientific and engineering positions in the Defense Advanced Research Projects Agency;
+&emsp;&emsp;“(A) not more than 60 scientific and engineering positions in the Defense Advanced Research Projects Agency;
 
 &emsp;&emsp;“(B) not more than 40 scientific and engineering positions in the designated laboratories of each of the military services;
 
@@ -156,7 +156,7 @@ Limitations on Additional Payments.—(1) Subject to paragraph (3), the total am
 
 “(2) In paragraph (1), the term ‘base quarter’ has the meaning given that term in section 5302(3) of title 5, United States Code.
 
-“(3) Notwithstanding any other provision of this section or section 5307 of title 5, United States Code, no additional payments may be paid to an employee under subsection (b)(3) in any calendar year if, or to the extent that, the employee's total annual compensation in such calendar year will exceed the maximum amount of total annual compensation payable at the salary set in accordance with section 104 of title 3, United States Code.
+“(3) Notwithstanding any other provision of this section or section 5307 of title 5, United States Code, no additional payments may be paid to an employee undersubsection (b)(3) in any calendar year if, or to the extent that, the employee's total annual compensation in such calendar year will exceed the maximum amount of total annual compensation payable at the salary set in accordance with section 104 of title 3, United States Code.
 
 “(4) An employee appointed under the program is not eligible for any bonus, monetary award, or other monetary incentive for service under the appointment other than payments authorized by this section.
 
@@ -204,6 +204,8 @@ Annual Report.—(1)(A) Not later than December 31 of each year in which the aut
 
 &emsp;“(D) Any additional information that the Secretary considers helpful for assessing the utility of the authority under this section.”
 
+\[Pub. L. 112–239, div. A, title XI, §1102(b), Jan. 2, 2013, 126 Stat. 1973, provided that: “The amendment made by subsection (a) \[amending section 1101 of Pub. L. 105–261, set out above\] shall not be construed as affecting any applicable authorization or delimitation of the numbers of personnel that may be employed at the Defense Advanced Research Projects Agency.”\]
+
 \[For reference to maximum rate under section 5376 of this title, see section 2(d)(3) of Pub. L. 110–372, set out as an Effective Date of 2008 Amendment note under section 5376 of this title.\]
 
 #### FBI Personnel Management System for Non-Special Agent Employees; Secretary of the Treasury
@@ -228,13 +230,13 @@ Pub. L. 105–119, title I, §122, Nov. 26, 1997, 111 Stat. 2469, as amended by 
 
 #### Termination of Authority To Establish Scientific or Professional Positions Outside the General Schedule
 
-Section 414(a)(2)(A) of Pub. L. 95–454 provided that: “Notwithstanding any other provision of law (other than section 3104 of title 5, United States Code), the authority granted to an agency (as defined in section 5102(a)(1) of such title 5) to establish scientific or professional positions outside of the General Schedule is hereby terminated.”
+Pub. L. 95–454, title IV, §414(a)(2)(A), Oct. 13, 1978, 92 Stat. 1177, provided that: “Notwithstanding any other provision of law (other than section 3104 of title 5, United States Code), the authority granted to an agency (as defined in section 5102(a)(1) of such title 5) to establish scientific or professional positions outside of the General Schedule is hereby terminated.”
 
-Section 415(a)(3) of Pub. L. 95–454 provided that the provisions of section 414(a)(2)(A) take effect 180 days after Oct. 13, 1978.
+Pub. L. 95–454, title IV, §415(a)(3), Oct. 13, 1978, 92 Stat. 1179, provided that the provisions of section 414(a)(2)(A) take effect 180 days after Oct. 13, 1978.
 
 #### Limitations on Executive Positions Not To Apply to Individuals Occupying Those Positions on October 12, 1978
 
-Section 414(a)(3) of Pub. L. 95–454 provided that:
+Pub. L. 95–454, title IV, §414(a)(3), Oct. 13, 1978, 92 Stat. 1178, provided that:
 
 “(A) The provisions of paragraphs (1) and (2) of this subsection \[amending sections 3104 and 5108 of this title\] shall not apply with respect to any position so long as the individual occupying such position on the day before the date of the enactment of this Act \[Oct. 13, 1978\] continues to occupy such position.
 
@@ -246,7 +248,7 @@ Section 414(a)(3) of Pub. L. 95–454 provided that:
 
 > shall take into account positions to which subparagraph (A) of this paragraph applies.”
 
-\[Section 415(a)(3) of Pub. L. 95–454 provided that the provisions of section 414(a)(3) are effective 180 days after Oct. 13, 1978.\]
+\[Pub. L. 95–454, title IV, §415(a)(3), Oct. 13, 1978, 92 Stat. 1179, provided that the provisions of section 414(a)(3) are effective 180 days after Oct. 13, 1978.\]
 
 \[References in laws to rates of pay for GS–16, 17, or 18, or to maximum rates of pay under General Schedule, to be considered references to rates payable under specified sections of this title, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of this title.\]
 

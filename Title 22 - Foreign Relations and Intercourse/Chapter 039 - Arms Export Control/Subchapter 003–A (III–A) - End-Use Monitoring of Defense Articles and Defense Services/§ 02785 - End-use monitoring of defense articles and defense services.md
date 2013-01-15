@@ -28,7 +28,7 @@ In carrying out the program established under subsection (a) of this section, th
 
 #### (c) Report to Congress
 
-Not later than 6 months after July 21, 1996, and annually thereafter as a part of the annual congressional presentation documents submitted under section 634 of the Foreign Assistance Act of 1961 \[22 U.S.C. 2394\], the President shall transmit to the Congress a report describing the actions taken to implement this section, including a detailed accounting of the costs and number of personnel associated with the monitoring program and the numbers, range, and findings of end-use monitoring of United States transfers of small arms and light weapons.
+Not later than 6 months after July 21, 1996, and annually thereafter as a part of the annual congressional presentation documents submitted under section 634 of the Foreign Assistance Act of 1961 \[22 U.S.C. 2394\], the President shalltransmit to the Congress a report describing the actions taken to implement this section, including a detailed accounting of the costs and number of personnel associated with the monitoring program and the numbers, range, and findings of end-use monitoring of United States transfers of small arms and light weapons.
 
 #### (d) Third country transfers
 
@@ -52,7 +52,7 @@ Another section 40A of Pub. L. 90–629 is classified to section 2781 of this ti
 
 #### Effective Date
 
-Section 150(b) of Pub. L. 104–164 provided that: “Section 40A of the Arms Export Control Act, as added by subsection (a) \[22 U.S.C. 2785\], applies with respect to defense articles and defense services provided before or after the date of the enactment of this Act \[July 21, 1996\].”
+Pub. L. 104–164, title I, §150(b), July 21, 1996, 110 Stat. 1437, provided that: “Section 40A of the Arms Export Control Act, as added by subsection (a) \[22 U.S.C. 2785\], applies with respect to defense articles and defense services provided before or after the date of the enactment of this Act \[July 21, 1996\].”
 
 #### Delegation of Functions
 

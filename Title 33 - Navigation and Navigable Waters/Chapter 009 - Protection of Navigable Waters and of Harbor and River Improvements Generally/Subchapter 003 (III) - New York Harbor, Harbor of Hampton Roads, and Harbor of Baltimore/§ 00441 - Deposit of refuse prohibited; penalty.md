@@ -14,5 +14,5 @@ Section 1 of act June 29, 1888, superseded act Aug. 5, 1886, ch. 929, §3, 24 St
 
 #### Effective Date of 1958 Amendment
 
-Section 2 of Pub. L. 85–802 provided that: “This Act \[amending this section and sections 442, 446, 447, 449, 451, and 451a of this title and enacting section 451b of this title\] shall take effect on the sixtieth day after the date of its enactment \[Aug. 28, 1958\].”
+Pub. L. 85–802, §2, Aug. 28, 1958, 72 Stat. 971, provided that: “This Act \[amending this section and sections 442, 446, 447, 449, 451, and 451a of this title and enacting section 451b of this title\] shall take effect on the sixtieth day after the date of its enactment \[Aug. 28, 1958\].”
 

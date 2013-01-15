@@ -14,7 +14,7 @@ The Congress further finds that (1) a program of flood insurance can promote the
 
 #### (d) Authorization of flood insurance program; flexibility in program
 
-It is therefore the purpose of this chapter to (1) authorize a flood insurance program by means of which flood insurance, over a period of time, can be made available on a nationwide basis through the cooperative efforts of the Federal Government and the private insurance industry, and (2) provide flexibility in the program so that such flood insurance may be based on workable methods of pooling risks, minimizing costs, and distributing burdens equitably among those who will be protected by flood insurance and the general public.
+It is therefore the purpose of this chapter to (1) authorize a flood insurance program bymeans of which flood insurance, over a period of time, can be made available on a nationwide basis through the cooperative efforts of the Federal Government and the private insurance industry, and (2) provide flexibility in the program so that such flood insurance may be based on workable methods of pooling risks, minimizing costs, and distributing burdens equitably among those who will be protected by flood insurance and the general public.
 
 #### (e) Land use adjustments by State and local governments; development of proposed future construction; assistance of lending and credit institutions; relation of Federal assistance to all flood-related programs; continuing studies
 
@@ -34,7 +34,7 @@ This chapter, referred to in subsecs. (d) to (f), was in the original a referenc
 
 #### Amendments
 
-<b>1994</b>—Subsec. (g). Pub. L. 103–325 struck out subsec. (g) which read as follows: “The Congress also finds that\(1) the damage and loss which may result from the erosion and undermining of shorelines by waves or currents in lakes and other bodies of water exceeding anticipated cyclical levels is related in cause and similar in effect to that which results directly from storms, deluges, overflowing waters, and other forms of flooding, and (2) the problems involved in providing protection against this damage and loss, and the possibilities for making such protection available through a Federal or federally sponsored program, are similar to those which exist in connection with efforts to provide protection against damage and loss caused by such other forms of flooding. It is therefore the further purpose of this chapter to make available, by means of the methods, procedures, and instrumentalities which are otherwise established or available under this chapter for purposes of the flood insurance program, protection against damage and loss resulting from the erosion and undermining of shorelines by waves or currents in lakes and other bodies of water exceeding anticipated cyclical levels.”
+<b>1994</b>—Subsec. (g). Pub. L. 103–325 struck out subsec. (g) which read as follows: “The Congress also finds that (1) the damage and loss which may result from the erosion and undermining of shorelines by waves or currents in lakes and other bodies of water exceeding anticipated cyclical levels is related in cause and similar in effect to that which results directly from storms, deluges, overflowing waters, and other forms of flooding, and (2) the problems involved in providing protection against this damage and loss, and the possibilities for making such protection available through a Federal or federally sponsored program, are similar to those which exist in connection with efforts to provide protection against damage and loss caused by such other forms of flooding. It is therefore the further purpose of this chapter to make available, by means of the methods, procedures, and instrumentalities which are otherwise established or available under this chapter for purposes of the flood insurance program, protection against damage and loss resulting from the erosion and undermining of shorelines by waves or currents in lakes and other bodies of water exceeding anticipated cyclical levels.”
 
 <b>1973</b>—Subsec. (g). Pub. L. 93–234 added subsec. (g).
 
@@ -42,7 +42,13 @@ This chapter, referred to in subsecs. (d) to (f), was in the original a referenc
 
 #### Effective Date
 
-Section 1377 of title XIII of Pub. L. 90–448 provided that: “This title \[enacting this chapter, amending section 2414 of this title, repealing sections 2401 to 2413 and 2415 to 2421 of this title, and enacting provisions set out as notes under this section\] shall take effect one hundred and twenty days following the date of its enactment \[Aug. 1, 1968\], except that the Secretary, on the basis of a finding that conditions exist necessitating the prescribing of an additional period, may prescribe a later effective date which in no event shall be more than one hundred and eighty days following such date of enactment.”
+Pub. L. 90–448, title XIII, §1377, Aug. 1, 1968, 82 Stat. 589, provided that: “This title \[enacting this chapter, amending section 2414 of this title, repealing sections 2401 to 2413 and 2415 to 2421 of this title, and enacting provisions set out as notes under this section\] shall take effect one hundred and twenty days following the date of its enactment \[Aug. 1, 1968\], except that the Secretary, on the basis of a finding that conditions exist necessitating the prescribing of an additional period, may prescribe a later effective date which in no event shall be more than one hundred and eighty days following such date of enactment.”
+
+#### Short Title of 2012 Amendment
+
+Pub. L. 112–141, div. F, title II, §100201, July 6, 2012, 126 Stat. 916, provided that: “This subtitle \[subtitle A (§§100201–100249) of title II of div. F of Pub. L. 112–141, see Tables for classification\] may be cited as the ‘Biggert-Waters Flood Insurance Reform Act of 2012’.”
+
+Pub. L. 112–141, div. F, title II, §100251, July 6, 2012, 126 Stat. 969, provided that: “This subtitle \[subtitle B (§§100251–100253) of title II of div. F of Pub. L. 112–141, enacting section 4057 of this title and section 3611 of Title 33, Navigation and Navigable Waters\] may be cited as the ‘Consumer Option for an Alternative System to Allocate Losses Act of 2012’ or the ‘COASTAL Act of 2012’.”
 
 #### Short Title of 2010 Amendment
 
@@ -72,7 +78,7 @@ Pub. L. 108–3, §1, Jan. 13, 2003, 117 Stat. 7, provided that: “This Act \[a
 
 #### Short Title of 1994 Amendment
 
-Section 501 of title V of Pub. L. 103–325 provided that: “This title \[enacting sections 4104b to 4104d and 5154a of this title, amending this section, sections 4003, 4011, 4012a, 4013, 4015, 4017, 4022, 4026, 4027, 4029, 4056, 4081, 4101, 4104a, 4106, 4121, and 5154 of this title, and sections 1784, 1820, 3305, and 4521 of Title 12, Banks and Banking, repealing section 4103 of this title, enacting provisions set out as notes under this section and sections 4011, 4013, 4014, 4101 to 4103, and 4104c of this title, and repealing provisions set out as a note under section 4015 of this title\] may be cited as the ‘National Flood Insurance Reform Act of 1994’.”
+Pub. L. 103–325, title V, §501, Sept. 23, 1994, 108 Stat. 2255, provided that: “This title \[enacting sections 4104b to 4104d and 5154a of this title, amending this section, sections 4003, 4011, 4012a, 4013, 4015, 4017, 4022, 4026, 4027, 4029, 4056, 4081, 4101, 4104a, 4106, 4121, and 5154 of this title, and sections 1784, 1820, 3305, and 4521 of Title 12, Banks and Banking, repealing section 4103 of this title, enacting provisions set out as notes under this section and sections 4011, 4013, 4014, 4101 to 4103, and 4104c of this title, and repealing provisions set out as a note under section 4015 of this title\] may be cited as the ‘National Flood Insurance Reform Act of 1994’.”
 
 #### Short Title of 1973 Amendment
 
@@ -80,7 +86,7 @@ Pub. L. 93–234, §1, Dec. 31, 1973, 87 Stat. 975, provided: “That this Act \
 
 #### Short Title
 
-Section 1301 of title XIII of Pub. L. 90–448 provided that: “This title \[enacting this chapter, amending section 2414 of this title, repealing sections 2401 to 2413 and 2415 to 2421 of this title, and enacting provisions set out as a note under this section\] may be cited as the ‘National Flood Insurance Act of 1968’.”
+Pub. L. 90–448, title XIII, §1301, Aug. 1, 1968, 82 Stat. 572, provided that: “This title \[enacting this chapter, amending section 2414 of this title, repealing sections 2401 to 2413 and 2415 to 2421 of this title, and enacting provisions set out as a note under this section\] may be cited as the ‘National Flood Insurance Act of 1968’.”
 
 #### Regulations
 
@@ -96,7 +102,7 @@ Pub. L. 103–325, title V, §577(a)–(g), Sept. 23, 1994, 108 Stat. 2281–228
 
 #### Relation of Title V of Pub. L. 103–325 to State and Local Laws
 
-Section 584 of title V of Pub. L. 103–325 provided that: “This title \[see Short Title of 1994 Amendment note above\] and the amendments made by this title may not be construed to preempt, annul, alter, amend, or exempt any person from compliance with any law, ordinance, or regulation of any State or local government with respect to land use, management, or control.”
+Pub. L. 103–325, title V, §584, Sept. 23, 1994, 108 Stat. 2287, provided that: “This title \[see Short Title of 1994 Amendment note above\] and the amendments made by this title may not be construed to preempt, annul, alter, amend, or exempt any person from compliance with any law, ordinance, or regulation of any State or local government with respect to land use, management, or control.”
 
 #### Floodplain Management
 

@@ -56,5 +56,5 @@ A prior section 6113 was renumbered 6116 of this title.
 
 #### Effective Date
 
-Section 10701(d) of Pub. L. 100–203 provided that: “The amendments made by this section \[enacting this section and section 6710 of this title and renumbering former section 6113 as section 6114 of this title\] shall apply to solicitations after January 31, 1988.”
+Pub. L. 100–203, title X, §10701(d), Dec. 22, 1987, 101 Stat. 1330–459, provided that: “The amendments made by this section \[enacting this section and section 6710 of this title and renumbering former section 6113 as section 6114 of this title\] shall apply to solicitations after January 31, 1988.”
 

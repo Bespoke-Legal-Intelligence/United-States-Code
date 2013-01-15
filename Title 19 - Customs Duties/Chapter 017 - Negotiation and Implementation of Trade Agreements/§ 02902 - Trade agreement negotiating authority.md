@@ -24,7 +24,7 @@
 
 (3)(A) Except as provided in subparagraph (B), the aggregate reduction in the rate of duty on any article which is in effect on any day pursuant to a trade agreement entered into under paragraph (1) shall not exceed the aggregate reduction which would have been in effect on such day if a reduction of 3 percent ad valorem or a reduction of one-tenth of the total reduction, whichever is greater, had taken effect on the effective date of the first reduction proclaimed in paragraph (1) to carry out such agreement with respect to such article.
 
-(B) No staging under subparagraph (A) is required with respect to a rate reduction that is proclaimed under paragraph (1) for an article of a kind that is not produced in the United States. The United States International Trade Commission shall advise the President of the identity of articles that may be exempted from staging under this subparagraph.
+(B) No staging under subparagraph (A) is required with respect to a rate reduction that is proclaimed under paragraph (1) for an article of a kind that is not produced in the United States. The United States International Trade Commission shall advise the President of the identity ofarticles that may be exempted from staging under this subparagraph.
 
 (4) If the President determines that such action will simplify the computation of reductions under paragraph (3), the President may round an annual reduction by the lesser of—
 
@@ -100,7 +100,7 @@
 
 #### (2) Application of tariff proclamation authority
 
-&emsp;No proclamation under subsection (a) of this section to carry out the provisions regarding tariff barriers of a trade agreement that is entered into pursuant to paragraph (1) may take effect before the effective date of a bill that implements the provisions regarding nontariff barriers of a trade agreement that is entered into under such paragraph.
+&emsp;No proclamation under subsection (a) of this section to carry out the provisions regarding tariff barriers of a trade agreement that is entered into pursuant to paragraph (1) may takeeffect before the effective date of a bill that implements the provisions regarding nontariff barriers of a trade agreement that is entered into under such paragraph.
 
 #### (3) Application of implementing and “fast track” procedures
 

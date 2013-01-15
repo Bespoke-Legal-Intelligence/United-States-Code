@@ -156,7 +156,7 @@ Within 18 months of November 12, 1996, the Secretary shall complete a study of t
 
 #### (C) Exemption from leasing requirements
 
-&emsp;The provisions of section 460<i>l</i>–22 of this title and section 1302 of title 40 shall not apply to leases issued by the Secretary under this section.
+&emsp;The provisions of section 460l–22 of this title and section 1302 of title 40 shall not apply to leases issued by the Secretary under this section.
 
 #### (18) Proceeds
 
@@ -202,7 +202,7 @@ Par. (11)(B)(ii). Pub. L. 106–176, §120(a)(1)(D), substituted “more cost-ef
 
 Par. (13). Pub. L. 106–176, §120(a)(1)(E), substituted “paragraph (12),” for “paragraph (13),”.
 
-Par. (18). Pub. L. 106–176, §120(a)(1)(F), substituted “under paragraph (7)(A) and any lease under paragraph (11)” for “under paragraph (7)(A)(i)(I), any lease under paragraph (11)(B), and any lease of seasonal quarters under subsection (<i>l</i>),”.
+Par. (18). Pub. L. 106–176, §120(a)(1)(F), substituted “under paragraph (7)(A) and any lease under paragraph (11)” for “under paragraph (7)(A)(i)(I), any lease under paragraph (11)(B), and any lease of seasonal quarters under subsection (l),”.
 
 #### Change of Name
 

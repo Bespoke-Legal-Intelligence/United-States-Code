@@ -20,7 +20,7 @@ No employer shall be deemed to have violated subsection (a) of this section by e
 
 &emsp;(1) in pursuance of an agreement, made as a result of collective bargaining by representatives of employees certified as bona fide by the National Labor Relations Board, which provides that no employee shall be employed more than one thousand and forty hours during any period of twenty-six consecutive weeks; or
 
-&emsp;(2) in pursuance of an agreement, made as a result of collective bargaining by representatives of employees certified as bona fide by the National Labor Relations Board, which provides that during a specified period of fifty-two consecutive weeks the employee shall be employed not more than two thousand two hundred and forty hours and shall be guaranteed not less than one thousand eight hundred and forty-hours (or not less than forty-six weeks at the normal number of hours worked per week, but not less than thirty hours per week) and not more than two thousand and eighty hours of employment for which he shall receive compensation for all hours guaranteed or worked at rates not less than those applicable under the agreement to the work performed and for all hours in excess of the guaranty which are also in excess of the maximum workweek applicable to such employee under subsection (a) of this section or two thousand and eighty in such period at rates not less than one and one-half times the regular rate at which he is employed; or
+&emsp;(2) in pursuance of an agreement, made as a result of collective bargaining by representatives of employees certified as bona fide by the National Labor Relations Board, which provides that during a specified period of fifty-two consecutive weeks the employee shall be employed not more than two thousand two hundred and forty hours and shall be guaranteed not less than one thousand eight hundred and forty-hours (or not less than forty-six weeks at the normal number of hours worked per week, but not less than thirty hours per week) and not more than two thousand and eighty hours of employment for which he shall receive compensation for all hours guaranteed or worked at rates not less than those applicable under the agreement to the work performed and for all hours in excess of the guaranty which are also in excess of the maximumworkweek applicable to such employee under subsection (a) of this section or two thousand and eighty in such period at rates not less than one and one-half times the regular rate at which he is employed; or
 
 &emsp;(3) by an independently owned and controlled local enterprise (including an enterprise with more than one bulk storage establishment) engaged in the wholesale or bulk distribution of petroleum products if—
 
@@ -70,7 +70,7 @@ As used in this section the “regular rate” at which an employee is employed 
 
 #### (f) Employment necessitating irregular hours of work
 
-No employer shall be deemed to have violated subsection (a) of this section by employing any employee for a workweek in excess of the maximum workweek applicable to such employee under subsection (a) of this section if such employee is employed pursuant to a bona fide individual contract, or pursuant to an agreementmade as a result of collective bargaining by representatives of employees, if the duties of such employee necessitate irregular hours of work, and the contract or agreement (1) specifies a regular rate of pay of not less than the minimum hourly rate provided in subsection (a) or (b) of section 206 of this title (whichever may be applicable) and compensation at not less than one and one-half times such rate for all hours worked in excess of such maximum workweek, and (2) provides a weekly guaranty of pay for not more than sixty hours based on the rates so specified.
+No employer shall be deemed to have violated subsection (a) of this section by employing any employee for a workweek in excess of the maximum workweek applicable to such employee under subsection (a) of this section if such employee is employed pursuant to a bona fide individual contract, or pursuant to an agreement made as a result of collective bargaining by representatives of employees, if the duties of such employee necessitate irregular hours of work, and the contract or agreement (1) specifies a regular rate of pay of not less than the minimum hourly rate provided in subsection (a) or (b) of section 206 of this title (whichever may be applicable) and compensation at not less than one and one-half times such rate for all hours worked in excess of such maximum workweek, and (2) provides a weekly guaranty of pay for not more than sixty hours based on the rates so specified.
 
 #### (g) Employment at piece rates
 
@@ -96,7 +96,7 @@ No employer shall be deemed to have violated subsection (a) of this section by e
 
 #### (j) Employment in hospital or establishment engaged in care of sick, aged, or mentally ill
 
-No employer engaged in the operation of a hospital or an establishment which is an institution primarily engaged in the care of the sick, the aged, or the mentally ill or defective who reside on the premises shall be deemed to have violated subsection (a) of this section if, pursuant to an agreement or understanding arrived at between the employer and the employee before performance of the work, a work period of fourteen consecutive days is accepted in lieu of the workweek of seven consecutive days for purposes of overtime computation and if, for his employment in excess of eight hours in any workday and in excess of eighty hours in such fourteen-day period, the employee receives compensation at a rate not less than one and one-half times the regular rate at which he is employed.
+No employer engaged in the operation of a hospital or an establishment which is an institution primarily engaged in the care of the sick, the aged, or the mentally ill or defective who reside on the premises shall be deemed to have violated subsection (a) of this section if, pursuant to an agreement or understanding arrived at between the employer and the employee before performance of the work, a work period of fourteen consecutive days is accepted in lieu of the workweek of seven consecutive days for purposes of overtime computation and if, for his employment in excess of eight hours in any workday and in excess of eighty hours in suchfourteen-day period, the employee receives compensation at a rate not less than one and one-half times the regular rate at which he is employed.
 
 #### (k) Employment by public agency engaged in fire protection or law enforcement activities
 
@@ -108,7 +108,7 @@ No public agency shall be deemed to have violated subsection (a) of this section
 
 > compensation at a rate not less than one and one-half times the regular rate at which he is employed.
 
-#### (<i>l</i>) Employment in domestic service in one or more households
+#### (l) Employment in domestic service in one or more households
 
 No employer shall employ any employee in domestic service in one or more households for a workweek longer than forty hours unless such employee receives compensation for such employment in accordance with subsection (a) of this section.
 
@@ -138,7 +138,7 @@ For a period or periods of not more than fourteen workweeks in the aggregate in 
 
 In the case of an employee of an employer engaged in the business of operating a street, suburban or interurban electric railway, or local trolley or motorbus carrier (regardless of whether or not such railway or carrier is public or private or operated for profit or not for profit), in determining the hours of employment of such an employee to which the rate prescribed by subsection (a) of this section applies there shall be excluded the hours such employee was employed in charter activities by such employer if (1) the employee's employment in such activities was pursuant to an agreement or understanding with his employer arrived at before engaging in such employment, and (2) if employment in such activities is not part of such employee's regular employment.
 
-#### (<i>o</i>) Compensatory time
+#### (o) Compensatory time
 
 (1) Employees of a public agency which is a State, a political subdivision of a State, or an interstate governmental agency may receive, in accordance with this subsection and in lieu of overtime compensation, compensatory time off at a rate not less than one and one-half hours for each hour of employment for which overtime compensation is required by this section.
 
@@ -224,7 +224,7 @@ Any employer may employ any employee for a period or periods of not more than 10
 
 &emsp;(A) a reasonable break time for an employee to express breast milk for her nursing child for 1 year after the child's birth each time such employee has need to express the milk; and
 
-&emsp;(B) a place, other than a bathroom, that is shielded from view and free from intrusionfrom coworkers and the public, which may be used by an employee to express breast milk.
+&emsp;(B) a place, other than a bathroom, that is shielded from view and free from intrusion from coworkers and the public, which may be used by an employee to express breast milk.
 
 (2) An employer shall not be required to compensate an employee receiving reasonable break time under paragraph (1) for any work time spent for such purpose.
 
@@ -250,11 +250,11 @@ Section 6(c)(3) of the Fair Labor Standards Amendments of 1974, referred to in s
 
 Subsec. (h). Pub. L. 106–202, §2(b), designated existing provisions as par. (2) and added par. (1).
 
-<b>1995</b>—Subsec. (<i>o</i>)(6), (7). Pub. L. 104–26 added par. (6) and redesignated former par. (6) as (7).
+<b>1995</b>—Subsec. (o)(6), (7). Pub. L. 104–26 added par. (6) and redesignated former par. (6) as (7).
 
 <b>1989</b>—Subsec. (q). Pub. L. 101–157 added subsec. (q).
 
-<b>1985</b>—Subsec. (<i>o</i>). Pub. L. 99–150, §2(a), added subsec. (<i>o</i>).
+<b>1985</b>—Subsec. (o). Pub. L. 99–150, §2(a), added subsec. (o).
 
 Subsec. (p). Pub. L. 99–150, §3(a)–(c)(1), added subsec. (p).
 
@@ -272,17 +272,17 @@ Pub. L. 93–259, §6(c)(1)(B), substituted “232 hours” for “240 hours”,
 
 Pub. L. 93–259, §6(c)(1)(A), added subsec. (k), effective Jan. 1, 1975.
 
-Subsec. (<i>l</i>). Pub. L. 93–259, §7(b)(2), added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 93–259, §7(b)(2), added subsec. (l).
 
 Subsec. (m). Pub. L. 93–259, §9(a), added subsec. (m).
 
 Subsec. (n). Pub. L. 93–259, §21(a), added subsec. (n).
 
-<b>1966</b>—Subsec. (a). Pub. L. 89–601, §401, retained provision for 40-hour workweek and compensation for employment in excess of 40 hours at not less than one and one-half times the regular rate of pay and substituted provisions setting out a phased timetable for the workweek in the case of employees covered by the overtime provisions for the first time under the Fair Labor Standards Amendments of 1966 beginning at 44 hours during the first year from the effective date of the Fair Labor Standards Amendments of 1966, 42 hours during the second year from such date, and 40 hours after the expiration of the second year from such date, for provisions giving a phased timetable for workweeks in the case of employees first covered under the provisions of the Fair Labor Standards Amendments of 1961.
+<b>1966</b>—Subsec. (a). Pub. L. 89–601, §401, retained provision for 40-hour workweek and compensation for employment in excess of 40 hours at not less than one and one-half times the regular rate of pay and substituted provisions setting out a phased timetable for the workweek in the case of employees covered by the overtime provisions for the first time under the Fair Labor Standards Amendments of 1966 beginning at 44 hours during the first year from the effective date of the Fair Labor Standards Amendments of 1966, 42 hours during the second year from such date, and 40 hours after theexpiration of the second year from such date, for provisions giving a phased timetable for workweeks in the case of employees first covered under the provisions of the Fair Labor Standards Amendments of 1961.
 
 Subsec. (b)(3). Pub. L. 89–601, §212(b), substituted provisions granting an overtime exemption for petroleum distribution employees if they receive compensation for the hours of employment in excess of 40 hours in any workweek at a rate not less than one and one-half times the applicable minimum wage rate and if the enterprises do an annual gross sales volume of less than $1,000,000, if more than 75 per centum of such enterprise's annual dollar volume of sales is made within the state in which the enterprise is located, and not more than 25 per centum of the annual dollar volume is to customers who are engaged in the bulk distribution of such products for resale for provisions covering employees for a period of not more than 14 workweeks in the aggregate in any calendar year in an industry found to be of a seasonal nature.
 
-Subsec. (c). Pub. L. 89–601, §204(c), substituted provisions for an overtime exemption of 10 weeks in any calendar year or 14 weeks in the case of an employer not qualifying for the exemption in subsec. (d) of this section, limited to 10 hours a day and 50 hours a week, applicable to employees employed in seasonal industries which are not engaged in agricultural processing, for provisions granting a year-round unlimited exemption applicable to employees of employers engaged in firstprocessing of milk into dairy products, cotton compressing and ginning, cottonseed processing, and the processing of certain farm products into sugar, and granting a 14-week unlimited exemption applicable to employees of employers engaged in first processing of perishable or seasonal fresh fruits or vegetables first processing within the area of production of any agricultural commodity during a seasonal operation, or the handling or slaughtering of livestock and poultry.
+Subsec. (c). Pub. L. 89–601, §204(c), substituted provisions for an overtime exemption of 10 weeks in any calendar year or 14 weeks in the case of an employer not qualifying for the exemption in subsec. (d) of this section, limited to 10 hours a day and 50 hours a week, applicable to employees employed in seasonal industries which are not engaged in agricultural processing, for provisions granting a year-round unlimited exemption applicable to employees of employers engaged in first processing of milk into dairy products, cotton compressing and ginning, cottonseed processing, and the processing of certain farm products into sugar, and granting a 14-week unlimited exemption applicable to employees of employers engaged in first processing of perishable or seasonal fresh fruits or vegetables first processing within the area of production of any agricultural commodity during a seasonal operation, or the handling or slaughtering of livestock and poultry.
 
 Subsec. (d). Pub. L. 89–601, §204(c), added subsec. (d). Former subsec. (d) redesignated (e).
 
@@ -328,7 +328,7 @@ Pub. L. 106–202, §2(c), May 18, 2000, 114 Stat. 309, provided that: “The am
 
 #### Effective Date of 1995 Amendment
 
-Section 3 of Pub. L. 104–26 provided that: “The amendments made by section 2 \[amending this section\] shall apply after the date of the enactment of this Act \[Sept. 6, 1995\] and with respect to actions brought in a court after the date of the enactment of this Act.”
+Pub. L. 104–26, §3, Sept. 6, 1995, 109 Stat. 265, provided that: “The amendments made by section 2 \[amending this section\] shall apply after the date of the enactment of this Act \[Sept. 6, 1995\] and with respect to actions brought in a court after the date of the enactment of this Act.”
 
 #### Effective Date of 1985 Amendment
 
@@ -336,11 +336,11 @@ Amendment by Pub. L. 99–150 effective Apr. 15, 1986, see section 6 of Pub. L. 
 
 #### Effective Date of 1974 Amendment
 
-Section 6(c)(1)(A)–(D) of Pub. L. 93–259 provided that the amendments made by that section are effective Jan. 1, 1975, 1976, 1977, and 1978, respectively.
+Pub. L. 93–259, §6(c)(1)(A)–(D), Apr. 8, 1974, 88 Stat. 60, provided that the amendments made by that section are effective Jan. 1, 1975, 1976, 1977, and 1978, respectively.
 
 Amendment by sections 7(b)(2), 9(a), 12(b), 19(a), (b), and 21(a) of Pub. L. 93–259 effective May 1, 1974, see section 29(a) of Pub. L. 93–259, set out as a note under section 202 of this title.
 
-Section 19(c)–(e) of Pub. L. 93–259 provided that the amendments and repeals made by that section are effective Jan. 1, 1975, Jan. 1, 1976, and Dec. 31, 1976, respectively.
+Pub. L. 93–259, §19(c)–(e), Apr. 8, 1974, 88 Stat. 66, provided that the amendments and repeals made by subsecs. (c), (d), and (e) of section 19 are effective Jan. 1, 1975, Jan. 1, 1976, and Dec. 31, 1976, respectively.
 
 #### Effective Date of 1966 Amendment
 
@@ -356,7 +356,7 @@ Amendment by act Oct. 26, 1949, effective ninety days after Oct. 26, 1949, see s
 
 #### Regulations
 
-Pub. L. 106–202, §2(e), May 18, 2000, 114 Stat. 309, provided that: “The Secretary of Labor may promulgate such regulations as may be necessary to carry out the amendments made by this Act \[amending this section\].”
+Pub. L. 106–202, §2(e), May 18, 2000, 114 Stat. 309, provided that: “The Secretary of Labor may promulgatesuch regulations as may be necessary to carry out the amendments made by this Act \[amending this section\].”
 
 #### Transfer of Functions
 
@@ -376,7 +376,7 @@ Liability Limitation Following SAFETEA–LU.—
 
 &emsp;“(1)
 
-Limitation on liability.—An employer shall not be liable for a violation of section 7 of the FairLabor Standards Act of 1938 (29 U.S.C. 207) with respect to a covered employee if—
+Limitation on liability.—An employer shall not be liable for a violation of section 7 of the Fair Labor Standards Act of 1938 (29 U.S.C. 207) with respect to a covered employee if—
 
 &emsp;&emsp;“(A) the violation occurred in the 1-year period beginning on August 10, 2005; and
 
@@ -418,11 +418,11 @@ Pub. L. 106–202, §2(d), May 18, 2000, 114 Stat. 309, provided that: “No emp
 
 #### Compensatory Time; Collective Bargaining Agreements in Effect on April 15, 1986
 
-Section 2(b) of Pub. L. 99–150 provided that: “A collective bargaining agreement which is in effect on April 15, 1986, and which permits compensatory time off in lieu of overtime compensation shall remain in effect until its expiration date unless otherwise modified, except that compensatory time shall be provided after April 14, 1986, in accordance with section 7(<i>o</i>) of the Fair Labor Standards Act of 1938 (as added by subsection (a)) \[29 U.S.C. 207(<i>o</i>)\].”
+Pub. L. 99–150, §2(b), Nov. 13, 1985, 99 Stat. 788, provided that: “A collective bargaining agreement which is in effect on April 15, 1986, and which permits compensatory time off in lieu of overtime compensation shall remain in effect until its expiration date unless otherwise modified, except that compensatory time shall be provided after April 14, 1986, in accordance with section 7(o) of the Fair Labor Standards Act of 1938 (as added by subsection (a)) \[29 U.S.C. 207(o)\].”
 
 #### Deferment of Monetary Overtime Compensation
 
-Section 2(c)(2) of Pub. L. 99–150 provided that: “A State, political subdivision of a State, or interstate governmental agency may defer until August 1, 1986, the payment of monetary overtime compensation under section 7 of the Fair Labor Standards Act of 1938 \[29 U.S.C. 207\] for hours worked after April 14, 1986.”
+Pub. L. 99–150, §2(c)(2), Nov. 13, 1985, 99 Stat. 789, provided that: “A State, political subdivision of a State, or interstate governmental agency may defer until August 1, 1986, the payment of monetary overtime compensation under section 7 of the Fair Labor Standards Act of 1938 \[29 U.S.C. 207\] for hours worked after April 14, 1986.”
 
 #### Effect of Amendments by Public Law 99–150 on Public Agency Liability Respecting any Employee Covered Under Special Enforcement Policy
 
@@ -440,7 +440,7 @@ Pub. L. 89–601, title VI, §603, Sept. 23, 1966, 80 Stat. 844, directed Secret
 
 Ex. Ord. No. 9607, Aug. 30, 1945, 10 F.R. 11191, provided:
 
-By virtue of the authority vested in me by the Constitution and statutes as President of the United States it is ordered that Executive Order 9301 of February 9, 1943 \[8 F.R. 1825\] (formerly set out as note under this section), establishing a minimum wartime workweek of forty-eight hours, be, and it is hereby, revoked.
+By virtue of the authority vested in me by the Constitution and statutes as President of the United Statesit is ordered that Executive Order 9301 of February 9, 1943 \[8 F.R. 1825\] (formerly set out as note under this section), establishing a minimum wartime workweek of forty-eight hours, be, and it is hereby, revoked.
 
 Harry S Truman.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

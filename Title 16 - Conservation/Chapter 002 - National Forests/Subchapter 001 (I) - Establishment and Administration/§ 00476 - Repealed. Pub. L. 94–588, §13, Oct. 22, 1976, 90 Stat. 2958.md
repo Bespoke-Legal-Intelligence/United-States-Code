@@ -4,7 +4,7 @@ Section, acts June 4, 1897, ch. 2, §1, 30 Stat. 35; June 9, 1900, ch. 804, 31 S
 
 #### Validation of Timber Sales Contracts
 
-Section 15 of Pub. L. 94–588 provided that:
+Pub. L. 94–588, §15, Oct. 22, 1976, 90 Stat. 2960, provided that:
 
 “(a) Timber sales made pursuant to the Act of June 4, 1897 (30 Stat. 35, as amended; 16 U.S.C. 476), prior to the date of enactment of this section \[Oct. 22, 1976\] shall not be invalid if the timber was sold in accord with Forest Service silvicultural practices and sales procedures in effect at the time of the sale, subject to the provisions of subsection (b) of this section.
 

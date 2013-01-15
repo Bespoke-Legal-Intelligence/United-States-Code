@@ -12,7 +12,7 @@ Provisions similar to those comprising this section were contained in prior sect
 
 #### Amendments
 
-<b>1979</b>—Pub. L. 96–39 substituted “a distilled spirits plant qualified for the processing of distilled spirits”for “any distilled spirits plant operated by a proprietor who is authorized to produce distilled spirits at such plant or on other bonded premises”, struck out provision that any other person operating bonded premises may, at the discretion of the Secretary and under such regulations as he may prescribe, be authorized to denature distilled spirits on such bonded premises, and inserted provision that distilled spirits denatured under this section may be used on the bonded premises of a distilled spirits plant in the manufacture of any article.
+<b>1979</b>—Pub. L. 96–39 substituted “a distilled spirits plant qualified for the processing of distilled spirits” for “any distilled spirits plant operated by a proprietor who is authorized to produce distilled spirits at such plant or on other bonded premises”, struck out provision that any other person operating bonded premises may, at the discretion of the Secretary and under such regulations as he may prescribe, be authorized to denature distilled spirits on such bonded premises, and inserted provision that distilled spirits denatured under this section may be used on the bonded premises of a distilled spirits plant in the manufacture of any article.
 
 <b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 

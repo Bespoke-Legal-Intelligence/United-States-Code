@@ -2,7 +2,7 @@
 
 #### (a) Retirement annuity
 
-An individual who was a former spouse of a participant, former participant, or retired participant on November 15, 1982, and any former spouse divorced after November 15, 1982, from a participant or former participant who retired before November 15, 1982, shall be entitled, except to the extent such former spouse is disqualified under subsection (b) of this section, to an annuity—
+An individual who was a former spouse of a participant, former participant, or retired participant on November 15, 1982, and any former spouse divorced after November 15, 1982, from aparticipant or former participant who retired before November 15, 1982, shall be entitled, except to the extent such former spouse is disqualified under subsection (b) of this section, to an annuity—
 
 &emsp;(1) if married to the participant throughout the creditable service of the participant, equal to 50 percent of the annuity of the participant; or
 

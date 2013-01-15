@@ -10,19 +10,20 @@
 | [36\.](%C2%A7%2000036%20-%20Drive-by%20shooting.md) | Drive-by shooting. |
 | [37\.](%C2%A7%2000037%20-%20Violence%20at%20international%20airports.md) | Violence at international airports. |
 | [38\.](%C2%A7%2000038%20-%20Fraud%20involving%20aircraft%20or%20space%20vehicle%20parts%20in%20interstate%20or%20foreign%20commerce.md) | Fraud involving aircraft or space vehicle parts in interstate or foreign commerce. |
-| 40\.<sup>1</sup> |  |
+| [39\.](%C2%A7%2000039%20-%20Traffic%20signal%20preemption%20transmitters.md) | Traffic signal preemption transmitters. |
+| [39A.](%C2%A7%2000039A%20-%20Aiming%20a%20laser%20pointer%20at%20an%20aircraft.md) | Aiming a laser pointer at an aircraft <sup>1</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-Commercial motor vehicles required to stop for inspections.
-
 |  |  |
 | :--- | ---: |
-| 39\.<sup>1</sup> | Traffic signal preemption transmitters. |
+| [40\.](%C2%A7%2000040%20-%20Commercial%20motor%20vehicles%20required%20to%20stop%20for%20inspections.md) | Commercial motor vehicles required to stop for inspections. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2012</b>—Pub. L. 112–95, title III, §311(b), Feb. 14, 2012, 126 Stat. 66, transferred item 39 to appear after item 38 and added item 39A.
 
 <b>2008</b>—Pub. L. 110–244, title III, §301(j), June 6, 2008, 122 Stat. 1616, redesignated item 39 “Commercial motor vehicles required to stop for inspections” as item 40.
 
@@ -32,7 +33,7 @@ Commercial motor vehicles required to stop for inspections.
 
 <b>1994</b>—Pub. L. 103–322, title VI, §§60008(c), 60021(b), Sept. 13, 1994, 108 Stat. 1972, 1980, added items 36 and 37.
 
-<i><sup>1</sup></i><i> So in original. The order of items 39 and 40 does not correspond to the order of the sections in text.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 
 
 ---
@@ -48,4 +49,5 @@ Commercial motor vehicles required to stop for inspections.
 - [&sect; 00037 - Violence at international airports](%C2%A7%2000037%20-%20Violence%20at%20international%20airports.md)
 - [&sect; 00038 - Fraud involving aircraft or space vehicle parts in interstate or foreign commerce](%C2%A7%2000038%20-%20Fraud%20involving%20aircraft%20or%20space%20vehicle%20parts%20in%20interstate%20or%20foreign%20commerce.md)
 - [&sect; 00039 - Traffic signal preemption transmitters](%C2%A7%2000039%20-%20Traffic%20signal%20preemption%20transmitters.md)
+- [&sect; 00039A - Aiming a laser pointer at an aircraft](%C2%A7%2000039A%20-%20Aiming%20a%20laser%20pointer%20at%20an%20aircraft.md)
 - [&sect; 00040 - Commercial motor vehicles required to stop for inspections](%C2%A7%2000040%20-%20Commercial%20motor%20vehicles%20required%20to%20stop%20for%20inspections.md)

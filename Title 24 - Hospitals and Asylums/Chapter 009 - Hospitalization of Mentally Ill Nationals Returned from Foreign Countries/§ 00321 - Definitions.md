@@ -24,5 +24,5 @@ For the purposes of this chapter except as the context may otherwise require—
 
 #### Effective Date
 
-Section 11 of Pub. L. 86–571 provided that: “This Act \[enacting this chapter and repealing sections 191a and 196a of this title\] shall, except as otherwise specified, take effect on the date of its enactment \[July 5, 1960\].”
+Pub. L. 86–571, §11, July 5, 1960, 74 Stat. 310, provided that: “This Act \[enacting this chapter and repealing sections 191a and 196a of this title\] shall, except as otherwise specified, take effect on the date of its enactment \[July 5, 1960\].”
 

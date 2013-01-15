@@ -1,6 +1,6 @@
 ### §1092. Studies and demonstration projects relating to delivery of health and medical care
 
-(a)(1) The Secretary of Defense, in consultation with the other administering Secretaries, shall conduct studies and demonstration projects on the health care delivery system of the uniformed services with a view to improving the quality, efficiency, convenience, and cost effectiveness of providing health care services (including dental care services) under this title to members and former members and their dependents. Such studies and demonstration projects may include the following:
+(a)(1) The Secretary of Defense, in consultation with the other administering Secretaries, shall conduct studies and demonstrationprojects on the health care delivery system of the uniformed services with a view to improving the quality, efficiency, convenience, and cost effectiveness of providing health care services (including dental care services) under this title to members and former members and their dependents. Such studies and demonstration projects may include the following:
 
 &emsp;(A) Alternative methods of payment for health and medical care services.
 
@@ -24,7 +24,7 @@
 
 (5) The Secretary of Defense may include in the studies and demonstration projects conducted under paragraph (1) studies and demonstration projects to improve the medical and dental readiness of members of reserve components of the armed forces, including the provision of health care services to such members for which they are not otherwise entitled or eligible under this chapter.
 
-(6) The Secretary of Defense may include in the studies and demonstration projects conducted under paragraph (1) studies and demonstration projects to improve the continuity of health care services for family members of mobilized members of the reserve components of the armed forces who are eligible for such services under this chapter, including payment of a stipend for continuation of employer-providedhealth coverage during extended periods of active duty.
+(6) The Secretary of Defense may include in the studies and demonstration projects conducted under paragraph (1) studies and demonstration projects to improve the continuity of health care services for family members of mobilized members of the reserve components of the armed forces who are eligible for such services under this chapter, including payment of a stipend for continuation of employer-provided health coverage during extended periods of active duty.
 
 (b) Subject to the availability of appropriations for that purpose, the Secretary of Defense may enter into contracts with public or private agencies, institutions, and organizations to conduct studies and demonstration projects under subsection (a).
 
@@ -42,7 +42,51 @@
 
 #### Effective Date
 
-Section 933(b) of Pub. L. 98–94 provided that: “Section 1092 of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1983.”
+Pub. L. 98–94, title IX, §933(b), Sept. 24, 1983, 97 Stat. 651, provided that: “Section 1092 of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1983.”
+
+#### Pilot Program on Certain Treatments of Autism Under the TRICARE Program
+
+Pub. L. 112–239, div. A, title VII, §705, Jan. 2, 2013, 126 Stat. 1800, provided that:
+
+“(a)
+
+Pilot Program.—
+
+&emsp;“(1)
+
+In general.—The Secretary of Defense shall conduct a pilot program to provide for the treatmentof autism spectrum disorders, including applied behavior analysis.
+
+&emsp;“(2)
+
+Commencement.—The Secretary shall commence the pilot program under paragraph (1) by not later than 90 days after the date of the enactment of this Act \[Jan. 2, 2013\].
+
+“(b)
+
+Duration.—The Secretary may not carry out the pilot program under subsection (a)(1) for longer than a one-year period.
+
+“(c)
+
+Report.—Not later than 270 days after the date on which the pilot program under subsection (a)(1) commences, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the pilot program. The report shall include the following:
+
+&emsp;“(1) An assessment of the feasibility and advisability of establishing a beneficiary cost share for the treatment of autism spectrum disorders.
+
+&emsp;“(2) A comparison of providing such treatment under—
+
+&emsp;&emsp;“(A) the ECHO Program; and
+
+&emsp;&emsp;“(B) the TRICARE program other than under the ECHO Program.
+
+&emsp;“(3) Any recommendations for changes in legislation.
+
+&emsp;“(4) Any additional information the Secretary considers appropriate.
+
+“(d)
+
+Definitions.—In this section:
+
+&emsp;“(1) The term ‘ECHO Program’ means the Extended Care Health Option under subsections (d) through (f) of section 1079 of title 10, United States Code.
+
+&emsp;“(2) The term ‘TRICARE program’ has the meaning given that term in section 1072(7) of title 10, United States Code.”
 
 #### Military Health Risk Management Demonstration Project
 
@@ -148,7 +192,7 @@ Implementation and Report.—Not later than September 30, 2006, the Secretary of
 
 &emsp;“(1) implement subsection (a); and
 
-&emsp;“(2) submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the availability of chiropractic health care services as required under subsection (a), including information on alternative sites at which such services have been made available.”
+&emsp;“(2) submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the availability of chiropractic health care services as required under subsection (a), includinginformation on alternative sites at which such services have been made available.”
 
 #### Pilot Program for Health Care Delivery
 
@@ -220,11 +264,11 @@ Pub. L. 106–65, div. A, title VII, §724, Oct. 5, 1999, 113 Stat. 697, as amen
 
 #### Demonstration Program To Train Military Medical Personnel in Civilian Shock Trauma Units
 
-Pub. L. 104–106, div. A, title VII, §744, Feb. 10, 1996, 110 Stat. 386, directed the Secretary of Defense to implement, not later than Apr. 1, 1996, a demonstration program to evaluate the feasibility of providing shocktrauma training for military medical personnel through an agreement with one or more public or nonprofit hospitals, and to submit to Congress a report describing the scope and activities of the program not later than Mar. 1 of each year in which it was conducted, provided for the termination of the program on Mar. 31, 1998, and required the Comptroller General of the United States to submit to Congress a report evaluating its effectiveness not later than May 1, 1998.
+Pub. L. 104–106, div. A, title VII, §744, Feb. 10, 1996, 110 Stat. 386, directed the Secretary of Defense to implement, not later than Apr. 1, 1996, a demonstration program to evaluate the feasibility of providing shock trauma training for military medical personnel through an agreement with one or more public or nonprofit hospitals, and to submit to Congress a report describing the scope and activities of the program not later than Mar. 1 of each year in which it was conducted, provided for the termination of the program on Mar. 31, 1998, and required the Comptroller General of the United States to submit to Congress a report evaluating its effectiveness not later than May 1, 1998.
 
 #### Demonstration Project on Management of Health Care in Catchment Areas and Other Demonstration Projects
 
-Pub. L. 100–180, div. A, title VII, §731, Dec. 4, 1987, 101 Stat. 1117, directed Secretary of Defense to conduct, beginning in fiscal year 1988 for at least two years, projects designed to demonstrate the alternative health care delivery system under which the commander of a medical facility of the uniformed services is responsible for all funding and all medical care of the covered beneficiaries in the catchment area of the facility and to conduct specific projects for the purpose of demonstrating alternatives to providing health care under the military health care system, directed Secretary not later than 60 days after Dec. 4, 1987, to submit to Congress a report that provides an outline and discussion of the manner in which the Secretary intends to structure and conduct each demonstration project and to develop and submit to Congress a methodology to be used in evaluating the results of the demonstration projects, and submit to Congress an interim report on each demonstration project after such project has been in effect for at least 12 months and a final report on each such project when each project is completed.
+Pub. L. 100–180, div. A, title VII, §731, Dec. 4, 1987, 101 Stat. 1117, directed Secretary of Defense to conduct, beginning in fiscal year 1988 for at least two years, projects designed to demonstrate the alternative health care delivery system under which the commander of a medical facility of the uniformed services is responsible for all funding and all medical care of the covered beneficiaries in the catchment area of the facility and to conduct specific projects for the purposeof demonstrating alternatives to providing health care under the military health care system, directed Secretary not later than 60 days after Dec. 4, 1987, to submit to Congress a report that provides an outline and discussion of the manner in which the Secretary intends to structure and conduct each demonstration project and to develop and submit to Congress a methodology to be used in evaluating the results of the demonstration projects, and submit to Congress an interim report on each demonstration project after such project has been in effect for at least 12 months and a final report on each such project when each project is completed.
 
 #### Chiropractic Health Care
 
@@ -314,7 +358,7 @@ Consultation Requirements.—The Secretary of Defense shall consult with the oth
 
 “(c)
 
-Continuation of Current Services.—Until the plan required under subsection (a) is implemented, the Secretary shall continue to furnish the same level of chiropractic health care services and benefits under theDefense Health Program that is provided during fiscal year 2000 at military medical treatment facilities that provide such services and benefits.
+Continuation of Current Services.—Until the plan required under subsection (a) is implemented, the Secretary shall continue to furnish the same level of chiropractic health care services and benefits under the Defense Health Program that is provided during fiscal year 2000 at military medical treatment facilities that provide such services and benefits.
 
 “(d)
 
@@ -324,7 +368,7 @@ Report Required.—Not later than January 31, 2001, the Secretary of Defense sha
 
 GAO Reports.—The Comptroller General shall monitor the development and implementation of the plan required under subsection (a), including the administration of services and benefits under the plan, and periodically submit to the committees referred to in subsection (d) written reports on such development and implementation.”
 
-Pub. L. 103–337, div. A, title VII, §731, Oct. 5, 1994, 108 Stat. 2809, as amended by Pub. L. 105–85, div. A, title VII, §739, Nov. 18, 1997, 111 Stat. 1815; Pub. L. 106–65, div. A, title VII, §702(a), Oct. 5, 1999, 113 Stat. 680, directed the Secretary of Defense to develop and carry out a demonstration program for fiscal years 1995 to 1999 to evaluate the feasibility and advisability of furnishing chiropractic care through the medical care facilities of the Armed Forces, to continue to furnish the same chiropractic care in fiscal year 2000, to submit reports to Congress in 1995 and 1998 with a final report due Jan. 31, 2000, to establish an oversight advisory committee to assist and advise the Secretary with regard to the development and conduct of the demonstration program, and, not later than Mar. 31, 2000, to submit to Congress an implementation plan for the full integration of chiropractic health care services into the military health care system of the Department of Defense, including the TRICARE program, if the provision of such care was the Secretary's recommendation.
+Pub. L. 103–337, div. A, title VII, §731, Oct. 5, 1994, 108 Stat. 2809, as amended by Pub. L. 105–85, div. A, title VII, §739, Nov. 18, 1997, 111 Stat. 1815; Pub. L. 106–65, div. A, title VII, §702(a), Oct. 5, 1999, 113 Stat. 680, directed the Secretary of Defense to develop and carry out a demonstration program for fiscal years 1995 to 1999 to evaluate the feasibility and advisability of furnishing chiropractic care through the medical care facilities ofthe Armed Forces, to continue to furnish the same chiropractic care in fiscal year 2000, to submit reports to Congress in 1995 and 1998 with a final report due Jan. 31, 2000, to establish an oversight advisory committee to assist and advise the Secretary with regard to the development and conduct of the demonstration program, and, not later than Mar. 31, 2000, to submit to Congress an implementation plan for the full integration of chiropractic health care services into the military health care system of the Department of Defense, including the TRICARE program, if the provision of such care was the Secretary's recommendation.
 
 Pub. L. 98–525, title VI, §632(b), Oct. 19, 1984, 98 Stat. 2543, provided that: “The Secretary of Defense, in consultation with the Secretary of Health and Human Services, shall conduct demonstration projects under section 1092 of title 10, United States Code, for the purpose of evaluating the cost-effectiveness of chiropractic care. In the conduct of such demonstration projects, chiropractic care (including manual manipulation of the spine and other routine chiropractic procedures authorized under joint regulations prescribed by the Secretary of Defense and the Secretary of Health and Human Services and not otherwise prohibited by law) may be provided as appropriate under chapter 55 of title 10, United States Code.”
 

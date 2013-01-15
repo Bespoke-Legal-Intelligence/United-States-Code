@@ -2,7 +2,11 @@
 
 After consultation with the States, the Secretary of Transportation shall prescribe regulations on minimum uniform standards for the issuance of commercial drivers’ licenses and learner's permits by the States and for information to be contained on each of the licenses and permits. The standards shall require at a minimum that—
 
-&emsp;(1) an individual issued a commercial driver's license pass written and driving tests for the operation of a commercial motor vehicle that comply with the minimum standards prescribed by the Secretary under section 31305(a) of this title;
+&emsp;(1) an individual issued a commercial driver's license—
+
+&emsp;&emsp;(A) pass written and driving tests for the operation of a commercial motor vehicle that comply with the minimum standards prescribed by the Secretary under section 31305(a); and
+
+&emsp;&emsp;(B) present certification of completion of driver training that meets the requirements established by the Secretary under section 31305(c);
 
 &emsp;(2) before a commercial driver's license learner's permit may be issued to an individual, the individual must pass a written test, that complies with the minimum standards prescribed by the Secretary under section 31305(a), on the operation of the commercial motor vehicle that the individual will be operating under the permit;
 
@@ -20,7 +24,7 @@ After consultation with the States, the Secretary of Transportation shall prescr
 
 &emsp;&emsp;(E) the dates between which the license or learner's permit is valid.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1020; Pub. L. 105–178, title IV, §4011(c)(1), June 9, 1998, 112 Stat. 407; Pub. L. 109–59, title IV, §4122(2), Aug. 10, 2005, 119 Stat. 1734; Pub. L. 110–244, title III, §301(g), June 6, 2008, 122 Stat. 1616.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1020; Pub. L. 105–178, title IV, §4011(c)(1), June 9, 1998, 112 Stat. 407; Pub. L. 109–59, title IV, §4122(2), Aug. 10, 2005, 119 Stat. 1734; Pub. L. 110–244, title III, §301(g), June 6, 2008, 122 Stat. 1616; Pub. L. 112–141, div. C, title II, §32304(b), July 6, 2012, 126 Stat. 791.)
 
 Historical and Revision Notes
 
@@ -42,6 +46,8 @@ The words “Not later than July 15, 1988” are omitted as obsolete.
 
 #### Amendments
 
+<b>2012</b>—Par. (1). Pub. L. 112–141 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “an individual issued a commercial driver's license pass written and driving tests for the operation of a commercial motor vehicle that comply with the minimum standards prescribed by the Secretary under section 31305(a) of this title;”.
+
 <b>2008</b>—Pub. L. 110–244 amended Pub. L. 109–59, §4122(2)(A). See 2005 Amendment note below.
 
 <b>2005</b>—Pub. L. 109–59, §4122(2)(B), substituted “the licenses and permits” for “the licenses” in introductory provisions.
@@ -53,6 +59,10 @@ Par. (2). Pub. L. 109–59, §4122(2)(D), added par. (2). Former par. (2) redesi
 Pars. (3), (4). Pub. L. 109–59, §4122(2)(C), (E), redesignated pars. (2) and (3) as (3) and (4), respectively, and inserted “or learner's permit” after “license” wherever appearing.
 
 <b>1998</b>—Par. (2). Pub. L. 105–178 inserted before semicolon “and each license issued after January 1, 2001, include unique identifiers (which may include biometric identifiers) to minimize fraud and duplication”.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
 
 #### Effective Date of 2008 Amendment
 

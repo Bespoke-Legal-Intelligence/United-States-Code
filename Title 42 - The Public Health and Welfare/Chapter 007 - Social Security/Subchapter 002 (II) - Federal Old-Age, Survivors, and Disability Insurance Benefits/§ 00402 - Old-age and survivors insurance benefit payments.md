@@ -8,13 +8,13 @@ Every individual who—
 
 &emsp;(2) has attained age 62, and
 
-&emsp;(3) has filed application for old-age insurance benefits or was entitled to disability insurance benefits for the month preceding the month in which he attained retirement age (as defined in section 416(<i>l</i>) of this title),
+&emsp;(3) has filed application for old-age insurance benefits or was entitled to disability insurance benefits for the month preceding the month in which he attained retirement age (as defined in section 416(l) of this title),
 
 > shall be entitled to an old-age insurance benefit for each month, beginning with—
 
-&emsp;(A) in the case of an individual who has attained retirement age (as defined in section 416(<i>l</i>) of this title), the first month in which such individual meets the criteria specified in paragraphs (1), (2), and (3), or
+&emsp;(A) in the case of an individual who has attained retirement age (as defined in section 416(l) of this title), the first month in which such individual meets the criteria specified in paragraphs (1), (2), and (3), or
 
-&emsp;(B) in the case of an individual who has attained age 62, but has not attained retirement age (as defined in section 416(<i>l</i>) of this title), the first month throughout which such individual meets the criteria specified in paragraphs (1) and (2) (if in that month he meets the criterion specified in paragraph (3)),
+&emsp;(B) in the case of an individual who has attained age 62, but has not attained retirement age (as defined in section 416(l) of this title), the first month throughout which such individual meets the criteria specified in paragraphs (1) and (2) (if in that month he meets the criterion specified in paragraph (3)),
 
 > and ending with the month preceding the month in which he dies. Except as provided in subsection (q) and subsection (w) of this section, such individual's old-age insurance benefit for any month shall be equal to his primary insurance amount (as defined in section 415(a) of this title) for such month.
 
@@ -32,11 +32,11 @@ Every individual who—
 
 > shall (subject to subsection (s) of this section) be entitled to a wife's insurance benefit for each month, beginning with—
 
-&emsp;(i) in the case of a wife or divorced wife (as so defined) of an individual entitled to old-age benefits, if such wife or divorced wife has attained retirement age (as defined in section 416(<i>l</i>) of this title), the first month in which she meets the criteria specified in subparagraphs (A), (B), (C), and (D), or
+&emsp;(i) in the case of a wife or divorced wife (as so defined) of an individual entitled to old-age benefits, if such wife or divorced wife has attained retirement age (as defined in section 416(l) of this title), the first month in which she meets the criteria specified in subparagraphs (A), (B), (C), and (D), or
 
 &emsp;(ii) in the case of a wife or divorced wife (as so defined) of—
 
-&emsp;&emsp;(I) an individual entitled to old-age insurance benefits, if such wife or divorced wife has not attained retirement age (as defined in section 416(<i>l</i>) of this title), or
+&emsp;&emsp;(I) an individual entitled to old-age insurance benefits, if such wife or divorced wife has not attained retirement age (as defined in section 416(l) of this title), or
 
 &emsp;&emsp;(II) an individual entitled to disability insurance benefits,
 
@@ -92,11 +92,11 @@ Every individual who—
 
 > shall (subject to subsection(s) of this section) be entitled to a husband's insurance benefit for each month, beginning with—
 
-&emsp;(i) in the case of a husband or divorced husband (as so defined) of an individual who is entitled to an old-age insurance benefit, if such husband or divorced husband has attained retirement age (as defined in section 416(<i>l</i>) of this title), the first month in which he meets the criteria specified in subparagraphs (A), (B), (C), and (D), or
+&emsp;(i) in the case of a husband or divorced husband (as so defined) of an individual who is entitled to an old-age insurance benefit, if such husband or divorced husband has attained retirement age (as defined in section 416(l) of this title), the first month in which he meets the criteria specified in subparagraphs (A), (B), (C), and (D), or
 
 &emsp;(ii) in the case of a husband or divorced husband (as so defined) of—
 
-&emsp;&emsp;(I) an individual entitled to old-age insurance benefits, if such husband or divorced husband has not attained retirement age (as defined in section 416(<i>l</i>) of this title), or
+&emsp;&emsp;(I) an individual entitled to old-age insurance benefits, if such husband or divorced husband has not attained retirement age (as defined in section 416(l) of this title), or
 
 &emsp;&emsp;(II) an individual entitled to disability insurance benefits,
 
@@ -238,7 +238,7 @@ Every individual who—
 
 &emsp;(ii) For the purpose of determining whether a child is a “full-time elementary or secondary school student” or “intends to continue to be in full-time attendance at an elementary or secondary school”, within the meaning of this subsection, there shall be disregarded any education provided, or to be provided, beyond grade 12.
 
-&emsp;(D) A child who attains age 19 at a time when he is a full-time elementary or secondary school student (as defined in subparagraph (A) of this paragraph and without application of subparagraph (B) of such paragraph) but has not (at such time) completed the requirements for, or received, a diploma or equivalent certificate from a secondary school (as defined insubparagraph (C)(i)) shall be deemed (for purposes of determining whether his entitlement to benefits under this subsection has terminated under paragraph (1)(F) and for purposes of determining his initial entitlement to such benefits under clause (i) of paragraph (1)(B)) not to have attained such age until the first day of the first month following the end of the quarter or semester in which he is enrolled at such time (or, if the elementary or secondary school (as defined in this paragraph) in which he is enrolled is not operated on a quarter or semester system, until the first day of the first month following the completion of the course in which he is so enrolled or until the first day of the third month beginning after such time, whichever first occurs).
+&emsp;(D) A child who attains age 19 at a time when he is a full-time elementary or secondary school student (as defined in subparagraph (A) of this paragraph and without application of subparagraph (B) of such paragraph) but has not (at such time) completed the requirements for, or received, a diploma or equivalent certificate from a secondary school (as defined in subparagraph (C)(i)) shall be deemed (for purposes of determining whether his entitlement to benefits under this subsection has terminated under paragraph (1)(F) and for purposesof determining his initial entitlement to such benefits under clause (i) of paragraph (1)(B)) not to have attained such age until the first day of the first month following the end of the quarter or semester in which he is enrolled at such time (or, if the elementary or secondary school (as defined in this paragraph) in which he is enrolled is not operated on a quarter or semester system, until the first day of the first month following the completion of the course in which he is so enrolled or until the first day of the third month beginning after such time, whichever first occurs).
 
 (8) In the case of—
 
@@ -276,13 +276,13 @@ Every individual who—
 
 &emsp;(ii) was entitled to wife's insurance benefits, on the basis of the wages and self-employment income of such individual, for the month preceding the month in which such individual died, and—
 
-&emsp;&emsp;(I) has attained retirement age (as defined in section 416(<i>l</i>) of this title),
+&emsp;&emsp;(I) has attained retirement age (as defined in section 416(l) of this title),
 
 &emsp;&emsp;(II) is not entitled to benefits under subsection (a) of this section or section 423 of this title, or
 
 &emsp;&emsp;(III) has in effect a certificate (described in paragraph (8)) filed by her with the Commissioner of Social Security, in accordance with regulations prescribed by the Commissioner of Social Security, in which she elects to receive widow's insurance benefits (subject to reduction as provided in subsection (q) of this section), or
 
-&emsp;(iii) was entitled, on the basis of such wages and self-employment income, to mother's insurance benefits for the month preceding the month in which she attained retirement age (as defined in section 416(<i>l</i>) of this title), and
+&emsp;(iii) was entitled, on the basis of such wages and self-employment income, to mother's insurance benefits for the month preceding the month in which she attained retirement age (as defined in section 416(l) of this title), and
 
 &emsp;(D) is not entitled to old-age insurance benefits or is entitled to old-age insurance benefits each of which is less than the primary insurance amount (as determined after application of subparagraphs (B) and (C) of paragraph (2)) of such deceased individual,
 
@@ -296,7 +296,7 @@ Every individual who—
 
 &emsp;&emsp;(ii) the first month during all of which she is under a disability and in which she becomes so entitled to such insurance benefits, but only if she was previously entitled to insurance benefits under this subsection on the basis of being under a disability and such first month occurs (I) in the period specified in paragraph (4) and (II) after the month in which a previous entitlement to such benefits on such basis terminated,
 
-> and ending with the month preceding the first month in which any of the following occurs: she remarries, dies, becomes entitled to an old-age insurance benefit equal to or exceeding the primary insurance amount (as determined after application of subparagraphs (B) and (C) of paragraph (2)) of such deceased individual, or, if she became entitled to such benefits before she attained age 60, subject to section 423(e) of this title, the termination month (unless she attains retirement age (as defined in section 416(<i>l</i>) of this title) on or before the last day of such termination month). For purposes of the preceding sentence, the termination month for any individual shall be the third month following the month in which her disability ceases; except that, in the case of an individual who has a period of trial work which ends as determined by application of section 422(c)(4)(A) of this title, the termination month shall be the earlier of (I) the third month following the earliest month after the end of such period of trial work with respect to which such individual is determined to no longer be suffering from a disabling physical or mental impairment, or (II) the third month following the earliest month in which such individual engages or is determined able to engage in substantial gainful activity, but in no event earlier than the first month occurring after the 36 months following such period of trial work in which she engages or is determined able to engage in substantial gainful activity.
+> and ending with the month preceding the first month in which any of the following occurs: she remarries, dies, becomes entitled to an old-age insurance benefit equal to or exceeding the primary insurance amount (as determined after application of subparagraphs (B) and (C) of paragraph (2)) of such deceased individual, or, if she became entitled to such benefits before she attained age 60, subject to section 423(e) of this title, the termination month (unless she attains retirement age (as defined in section 416(l) of this title) on or before the last day of such termination month). For purposes of the preceding sentence, the termination month for any individual shall be the third month following the month in which her disability ceases; except that, in the case of an individual who has a period of trial work which ends as determined by application of section 422(c)(4)(A) of this title, the termination month shall be the earlier of (I) the third month following the earliest month after the end of such period of trial work with respect to which such individual is determined to no longer be suffering from a disabling physical or mental impairment, or (II) the third month following the earliest month in which such individual engages or is determined able to engage in substantial gainful activity, but in no event earlier than the first month occurring after the 36 months following such period of trial work in which she engages or is determined able to engage in substantial gainful activity.
 
 (2)(A) Except as provided in subsection (k)(5) of this section, subsection (q) of this section, and subparagraph (D) of this paragraph, such widow's insurance benefit for each month shall be equal to the primary insurance amount (as determined for purposes of this subsection after application of subparagraphs (B) and (C)) of such deceased individual.
 
@@ -376,13 +376,13 @@ Every individual who—
 
 &emsp;(ii) was entitled to husband's insurance benefits, on the basis of the wages and self-employment income of such individual, for the month preceding the month in which such individual died, and—
 
-&emsp;&emsp;(I) has attained retirement age (as defined in section 416(<i>l</i>) of this title),
+&emsp;&emsp;(I) has attained retirement age (as defined in section 416(l) of this title),
 
 &emsp;&emsp;(II) is not entitled to benefits under subsection (a) of this section or section 423 of this title, or
 
 &emsp;&emsp;(III) has in effect a certificate (described in paragraph (8)) filed by him with the Commissioner of Social Security, in accordance with regulations prescribed by the Commissioner of Social Security, in which he elects to receive widower's insurance benefits (subject to reduction as provided in subsection (q) of this section), or
 
-&emsp;(iii) was entitled, on the basis of such wages and self-employment income, to father's insurance benefits for the month preceding the month in which he attained retirement age (as defined in section 416(<i>l</i>) of this title), and
+&emsp;(iii) was entitled, on the basis of such wages and self-employment income, to father's insurance benefits for the month preceding the month in which he attained retirement age (as defined in section 416(l) of this title), and
 
 &emsp;(D) is not entitled to old-age insurance benefits, or is entitled to old-age insurance benefits each of which is less than the primary insurance amount (as determined after application of subparagraphs (B) and (C) of paragraph (3)) of such deceased individual,
 
@@ -396,7 +396,7 @@ Every individual who—
 
 &emsp;&emsp;(ii) the first month during all of which he is under a disability and in which he becomes so entitled to such insurance benefits, but only if he was previously entitled to insurance benefits under this subsection on the basis of being under a disability and such first month occurs (I) in the period specified in paragraph (4) and (II) after the month in which a previous entitlement to such benefits on such basis terminated,
 
-> and ending with the month preceding the first month in which any of the following occurs: he remarries, dies, or becomes entitled to an old-age insurance benefit equal to or exceeding the primary insurance amount (as determined after application of subparagraphs (B) and (C) of paragraph (3)) <sup>1</sup> of such deceased individual, or, if he became entitled to such benefits before he attained age 60, subject to section 423(e) of this title, the termination month (unless he attains retirement age (as defined in section 416(<i>l</i>) of this title) on or before the last day of such termination month). For purposes of the preceding sentence, the termination month for any individual shall be the third month following the month in which his disability ceases; except that, in the case of an individual who has a period of trial work which ends as determined by application of section 422(c)(4)(A) of this title, the termination month shall be the earlier of (I) the third month following the earliest month after the end of such period of trial work with respect to which such individual is determined to no longer be suffering from a disabling physical or mental impairment, or (II) the third month following the earliest month in which such individual engages or is determined able to engage in substantial gainful activity, but in no event earlier than the first month occurring after the 36 months following such period of trial work in which he engages or is determined able to engage in substantial gainful activity.
+> and ending with the month preceding the first month in which any of the following occurs: he remarries, dies, or becomes entitled to an old-age insurance benefit equal to or exceeding the primary insurance amount (as determined after application of subparagraphs (B) and (C) of paragraph (3)) <sup>1</sup> of such deceased individual, or, if he became entitled to such benefits before he attained age 60, subject to section 423(e) of this title, the termination month (unless he attains retirement age (as defined in section 416(l) of this title) on or before the last day of such termination month). For purposes of the preceding sentence, the termination month for any individual shall be the third month following the month in which his disability ceases; except that, in the case of an individual who has a period of trial work which ends as determined by application of section 422(c)(4)(A) of this title, the termination month shall be the earlier of (I) the third month following the earliest month after the end of such period of trial work with respect to which such individual is determined to no longer be suffering from a disabling physical or mental impairment, or (II) the third month following the earliest month in which such individual engages or is determined able to engage in substantial gainful activity, but in no event earlier than the first month occurring after the 36 months following such period of trial work in which he engages or is determined able to engage in substantial gainful activity.
 
 (2)(A) Except as provided in subsection (k)(5) of this section, subsection (q) of this section, and subparagraph (D) of this paragraph, such widower's insurance benefit for each month shall be equal to the primary insurance amount (as determined for purposes of this subsection after application of subparagraphs (B) and (C)) of such deceased individual.
 
@@ -418,7 +418,7 @@ Every individual who—
 
 (C) If such deceased individual was (or upon application would have been) entitled to an old-age insurance benefit which was increased (or subject to being increased) on account of delayed retirement under the provisions of subsection (w) of this section, then, for purposes of this subsection, such individual's primary insurance amount, if less than the old-age insurance benefit (increased, where applicable, under section 415(f)(5), 415(f)(6), or 415(f)(9)(B) of this title and under section 415(i) of this title as if such individual were still alive in the case of an individual who has died) which she was receiving (or would upon application have received) for the month prior to the month in which she died, shall be deemed to be equal to such old-age insurance benefit, and (notwithstanding the provisions of paragraph (3) of such subsection (w) of this section) the number of increment months shall include any month in the months of the calendar year in which she died, prior to the month in which she died, which satisfy the conditions in paragraph (2) of such subsection (w) of this section.
 
-(D) If the deceased individual (on the basis of whose wages and self-employment income a widower or surviving divorced husband is entitled to widower's insurance benefits under this subsection) was, at any time, entitled to an old-age insurance benefit which was reduced by reason of the application of subsection (q) of this section, the widower's insurance benefit of such widower or surviving divorced husband for any month shall, if the amount of the widower's insurance benefit of such widower or surviving divorced husband (as determined under subparagraph (A) and after application of subsection (q) of this section) is greater than—
+(D) If the deceased individual (on the basis of whose wages and self-employment income a widower or surviving divorced husband is entitled to widower's insurance benefits under this subsection) was, at any time, entitled to an old-age insurance benefit which was reduced by reasonof the application of subsection (q) of this section, the widower's insurance benefit of such widower or surviving divorced husband for any month shall, if the amount of the widower's insurance benefit of such widower or surviving divorced husband (as determined under subparagraph (A) and after application of subsection (q) of this section) is greater than—
 
 &emsp;(i) the amount of the old-age insurance benefit to which such deceased individual would have been entitled (after application of subsection (q) of this section) for such month if such individual were still living and section 415(f)(5), 415(f)(6), or 415(f)(9)(B) of this title were applied, where applicable, and
 
@@ -542,7 +542,7 @@ Upon the death, after August 1950, of an individual who died a fully or currentl
 
 &emsp;(2) if no person qualifies for payment under paragraph (1), or if such person dies before receiving payment, in equal shares to each person who is entitled (or would have been so entitled had a timely application been filed), on the basis of the wages and self-employment income of such insured individual, to benefits under subsection (d) of this section for the month in which occurred such individual's death.
 
-> No payment shall be made to any person under this subsection unless application therefor shall have been filed, by or on behalf of such person (whether or not legally competent), prior to the expiration of two years after the date of death of such insured individual, or unless such person was entitled to wife's or husband's insurance benefits, on the basis of the wages and self-employment income of such insured individual, for the month preceding the month in which such individual died. In the case of any individual who died outside the forty-eight States and the District of Columbia after December 1953 and before January 1, 1957, whose death occurred while he was in the active military or naval service of the United States, and who is returned to any of such States, the District of Columbia, Alaska, Hawaii, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, or American Samoa for interment or reinterment, the provisions of the preceding sentence shall not prevent payment to any person under the second sentence of this subsection if application for a lump-sum death payment with respect to such deceased individual is filed by or on behalf of such person (whether or not legally competent) prior to the expiration of two years after the date of such interment or reinterment. In the case of any individual who died outside the fifty States and the District of Columbia after December 1956 while he was performing service, as a member of a uniformed service, to which the provisions of section 410(<i>l</i>)(1) of this title are applicable, and who is returned to any State, or to any Territory or possession of the United States, for interment or reinterment, the provisions of the third sentence of this subsection shall not prevent payment to any person under the second sentence of this subsection if application for a lump-sum death payment with respect to such deceased individual is filed by or on behalf of such person (whether or not legally competent) prior to the expiration of two years after the date of such interment or reinterment.
+> No payment shall be made to any person under this subsection unless application therefor shall have been filed, by or on behalf of such person (whether or not legally competent), prior to the expiration of two years after the date of death of such insured individual, or unless such person was entitled to wife's or husband's insurance benefits, on the basis of the wages and self-employment income of such insured individual, for the month preceding the month in which such individual died. In the case of any individual who died outside the forty-eight States and the District of Columbia after December 1953 and before January 1, 1957, whose death occurred while he was in the active military or naval service of the United States, and who is returned to any of such States, the District of Columbia, Alaska, Hawaii, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, or American Samoa for interment or reinterment, the provisions of the preceding sentence shall not prevent payment to any person under the second sentence of this subsection if application for a lump-sum death payment with respect to such deceased individual is filed by or on behalf of such person (whether or not legally competent) prior to the expiration of two years after the date of such interment or reinterment. In the case of any individual who died outside the fifty States and the District of Columbia after December 1956 while he was performing service, as a member of a uniformed service, to which the provisions of section 410(l)(1) of this title are applicable, and who is returned to any State, or to any Territory or possession of the United States, for interment or reinterment, the provisions of the third sentence of this subsection shall not prevent payment to any person under the second sentence of this subsection if application for a lump-sum death payment with respect to such deceased individual is filed by or on behalf of such person (whether or not legally competent) prior to the expiration of two years after the date of such interment or reinterment.
 
 #### (j) Application for monthly insurance benefits
 
@@ -606,7 +606,7 @@ Upon the death, after August 1950, of an individual who died a fully or currentl
 
 (C) For purposes of this paragraph, any periodic benefit which otherwise meets the requirements of subparagraph (A), but which is paid on other than a monthly basis, shall be allocated on a basis equivalent to a monthly benefit (as determined by the Commissioner of Social Security) and such equivalent monthly benefit shall constitute a monthly periodic benefit for purposes of subparagraph (A). For purposes of this subparagraph, the term “periodic benefit” includes a benefit payable in a lump sum if it is a commutation of, or a substitute for, periodic payments.
 
-#### (<i>l</i>) Entitlement to survivor benefits under railroad retirement provisions
+#### (l) Entitlement to survivor benefits under railroad retirement provisions
 
 If any person would be entitled, upon filing application therefor to an annuity under section 2 of the Railroad Retirement Act of 1974 \[45 U.S.C. 231a\], or to a lump-sum payment under section 6(b) of such Act \[45 U.S.C. 231e(b)\], with respect to the death of an employee (as defined in such Act) no lump-sum death payment, and no monthly benefit for the month in which such employee died or for any month thereafter, shall be paid under this section to any person on the basis of the wages and self-employment income of such employee.
 
@@ -628,7 +628,7 @@ If any person would be entitled, upon filing application therefor to an annuity 
 
 (3) For purposes of paragraphs (1) and (2) of this subsection, an individual against whom a final order of removal has been issued under paragraph (4)(D) of section 1227(a) of title 8 (relating to participating in Nazi persecutions or genocide) shall be considered to have been removed under such paragraph (4)(D) as of the date on which such order became final.
 
-#### (<i>o</i>) Application for benefits by survivors of members and former members of uniformed services
+#### (o) Application for benefits by survivors of members and former members of uniformed services
 
 In the case of any individual who would be entitled to benefits under subsection (d), (e), (g), or (h) of this section upon filing proper application therefor, the filing with the Administrator of Veterans’ Affairs by or on behalf of such individual of an application for such benefits, on the form described in section 5105 of title 38, shall satisfy the requirement of such subsection (d), (e), (g), or (h) that an application for such benefits be filed.
 
@@ -652,11 +652,11 @@ In any case in which there is a failure—
 
 &emsp;(ii) if less, the number of such months in the adjusted reduction period for such benefit (determined under paragraph (7)), if such benefit is (I) for the month in which such individual attains age 62, or (II) for the month in which such individual attains retirement age.
 
-(2) If an individual is entitled to a disability insurance benefit for a month after a month for which such individual was entitled to an old-age insurance benefit, such disability insurance benefit for each month shall be reduced by the amount such old-age insurance benefit would be reduced under paragraphs (1) and (4) for such month had such individual attained retirement age (as defined in section 416(<i>l</i>) of this title) in the first month for which he most recently became entitled to a disability insurance benefit.
+(2) If an individual is entitled to a disability insurance benefit for a month after a month for which such individual was entitled to an old-age insurance benefit, such disability insurance benefit for each month shall be reduced by the amount such old-age insurance benefit would be reduced under paragraphs (1) and (4) for such month had such individual attained retirement age (as defined in section 416(l) of this title) in the first month for which he most recently became entitled to a disability insurance benefit.
 
 (3)(A) If the first month for which an individual both is entitled to a wife's, husband's, widow's, or widower's insurance benefit and has attained age 62 (in the case of a wife's or husband's insurance benefit) or age 50 (in the case of a widow's or widower's insurance benefit) is a month for which such individual is also entitled to—
 
-&emsp;(i) an old-age insurance benefit (to which such individual was first entitled for a month before he attains retirement age (as defined in section 416(<i>l</i>) of this title)), or
+&emsp;(i) an old-age insurance benefit (to which such individual was first entitled for a month before he attains retirement age (as defined in section 416(l) of this title)), or
 
 &emsp;(ii) a disability insurance benefit,
 
@@ -700,7 +700,7 @@ In any case in which there is a failure—
 
 > except that such certificate shall not be effective for any month before the month in which he or she attains age 62, nor shall it be effective for any month to which subparagraph (A)(ii) applies.
 
-(C) If an individual does not have in his or her care a child described in subparagraph (A)(ii) in the first month for which he or she is entitled to a wife's or husband's insurance benefit, and if such first month is a month before the month in which he or she attains retirement age (as defined in section 416(<i>l</i>) of this title), he or she shall be deemed to have filed in such first month the certificate described in subparagraph (A)(i).
+(C) If an individual does not have in his or her care a child described in subparagraph (A)(ii) in the first month for which he or she is entitled to a wife's or husband's insurance benefit, and if such first month is a month before the month in which he or she attains retirement age (as defined in section 416(l) of this title), he or she shall be deemed to have filed in such first month the certificate described in subparagraph (A)(i).
 
 (D) No widow's or widower's insurance benefit for a month in which he or she has in his or her care a child of his or her deceased spouse (or deceased former spouse) entitled to child's insurance benefits shall be reduced under this subsection below the amount to which he or she would have been entitled had he or she been entitled for such month to mother's or father's insurance benefits on the basis of his or her deceased spouse's (or deceased former spouse's) wages and self-employment income.
 
@@ -738,7 +738,7 @@ In any case in which there is a failure—
 
 &emsp;(B) for widow's insurance benefits and widower's insurance benefits, shall be periodically revised by the Commissioner of Social Security such that—
 
-&emsp;&emsp;(i) the amount of the reduction at early retirement age as defined in section 416(<i>l</i>) of this title shall be 28.5 percent of the full benefit; and
+&emsp;&emsp;(i) the amount of the reduction at early retirement age as defined in section 416(l) of this title shall be 28.5 percent of the full benefit; and
 
 &emsp;&emsp;(ii) the amount of the reduction for each month in the reduction period (specified in paragraph (6)) or the adjusted reduction period (specified in paragraph (7)) shall be established by linear interpolation between 28.5 percent at the month of attainment of early retirement age and 0 percent at the month of attainment of retirement age.
 
@@ -748,7 +748,7 @@ In any case in which there is a failure—
 
 &emsp;(B) in the case of widow's and widower's insurance benefits for the month in which such individual attains age 62, by multiplying such amount by the ratio of (i) the number of months in the reduction period beginning with age 62 multiplied by 19/40 of 1 percent, plus the number of months in the adjusted reduction period prior to age 62 multiplied by 19/40 of 1 percent to (ii) the number of months in the reduction period multiplied by 19/40 of 1 percent, and
 
-&emsp;(C) in the case of widow's and widower's insurance benefits for the month in which such individual attains retirement age (as defined in section 416(<i>l</i>) of this title), by multiplying such amount by the ratio of (i) the number of months in the adjusted reduction period multiplied by 19/40 of 1 percent to (ii) the number of months in the reduction period beginning with age 62 multiplied by 19/40 of 1 percent, plus the number of months in the adjusted reduction period prior to age 62 multiplied by 19/40 of 1 percent,
+&emsp;(C) in the case of widow's and widower's insurance benefits for the month in which such individual attains retirement age (as defined in section 416(l) of this title), by multiplying such amount by the ratio of (i) the number of months in the adjusted reduction period multiplied by 19/40 of 1 percent to (ii) the number of months in the reduction period beginning with age 62 multiplied by 19/40 of 1 percent, plus the number of months in the adjusted reduction period prior to age 62 multiplied by 19/40 of 1 percent,
 
 > such determination being made in accordance with the provisions of paragraph (8).
 
@@ -756,9 +756,9 @@ In any case in which there is a failure—
 
 #### (r) Presumed filing of application by individuals eligible for old-age insurance benefits and for wife's or husband's insurance benefits
 
-(1) If the first month for which an individual is entitled to an old-age insurance benefit is a month before the month in which such individual attains retirement age (as defined in section416(<i>l</i>) of this title), and if such individual is eligible for a wife's or husband's insurance benefit for such first month, such individual shall be deemed to have filed an application in such month for wife's or husband's insurance benefits.
+(1) If the first month for which an individual is entitled to an old-age insurance benefit is a month before the month in which such individual attains retirement age (as defined in section416(l) of this title), and if such individual is eligible for a wife's or husband's insurance benefit for such first month, such individual shall be deemed to have filed an application in such month for wife's or husband's insurance benefits.
 
-(2) If the first month for which an individual is entitled to a wife's or husband's insurance benefit reduced under subsection (q) of this section is a month before the month in which such individual attains retirement age (as defined in section 416(<i>l</i>) of this title), and if such individual is eligible (but for subsection (k)(4) of this section) for an old-age insurance benefit for such first month, such individual shall be deemed to have filed an application for old-age insurance benefits—
+(2) If the first month for which an individual is entitled to a wife's or husband's insurance benefit reduced under subsection (q) of this section is a month before the month in which such individual attains retirement age (as defined in section 416(l) of this title), and if such individual is eligible (but for subsection (k)(4) of this section) for an old-age insurance benefit for such first month, such individual shall be deemed to have filed an application for old-age insurance benefits—
 
 &emsp;(A) in such month, or
 
@@ -800,7 +800,7 @@ In any case in which there is a failure—
 
 &emsp;(C) the individual entitled to such benefit is outside the United States while in the active military or naval service of the United States, or
 
-&emsp;(D) the individual on whose wages and self-employment income such benefit is based died, before such month, either (i) while on active duty or inactive duty training (as those terms are defined in section 410(<i>l</i>) (2) and (3) of this title) as a member of a uniformed service (as defined in section 410(m) of this title), or (ii) as the result of a disease or injury which the Secretary of Veterans Affairs determines was incurred or aggravated in line of duty while on active duty (as defined in section 410(<i>l</i>)(2) of this title), or an injury which he determines was incurred or aggravated in line of duty while on inactive duty training (as defined in section 410(<i>l</i>)(3) of this title), as a member of a uniformed service (as defined in section 410(m) of this title), if the Secretary of Veterans Affairs determines that such individual was discharged or released from the period of such active duty or inactive duty training under conditions other than dishonorable, and if the Secretary of Veterans Affairs certifies to the Commissioner of Social Security his determinations with respect to such individual under this clause, or
+&emsp;(D) the individual on whose wages and self-employment income such benefit is based died, before such month, either (i) while on active duty or inactive duty training (as those terms are defined in section 410(l) (2) and (3) of this title) as a member of a uniformed service (as defined in section 410(m) of this title), or (ii) as the result of a disease or injury which the Secretary of Veterans Affairs determines was incurred or aggravated in line of duty while on active duty (as defined in section 410(l)(2) of this title), or an injury which he determines was incurred or aggravated in line of duty while on inactive duty training (as defined in section 410(l)(3) of this title), as a member of a uniformed service (as defined in section 410(m) of this title), if the Secretary of Veterans Affairs determines that such individual was discharged or released from the period of such active duty or inactive duty training under conditions other than dishonorable, and if the Secretary of Veterans Affairs certifies to the Commissioner of Social Security his determinations with respect to such individual under this clause, or
 
 &emsp;(E) the individual on whose employment such benefit is based had been in service covered by the Railroad Retirement Act of 1937 or 1974 \[45 U.S.C. 228a et seq., 231 et seq.\] which was treated as employment covered by this chapter pursuant to the provisions of section 5(k)(1) of the Railroad Retirement Act of 1937 \[45 U.S.C. 228e(k)(1)\] or section 18(2) of the Railroad Retirement Act of 1974 \[45 U.S.C. 231q(2)\];
 
@@ -878,7 +878,7 @@ In any case in which there is a failure—
 
 (2) For purposes of this subsection, the number of increment months for any individual shall be a number equal to the total number of the months—
 
-&emsp;(A) which have elapsed after the month before the month in which such individual attained retirement age (as defined in section 416(<i>l</i>) of this title) or (if later) December 1970 and prior to the month in which such individual attained age 70, and
+&emsp;(A) which have elapsed after the month before the month in which such individual attained retirement age (as defined in section 416(l) of this title) or (if later) December 1970 and prior to the month in which such individual attained age 70, and
 
 &emsp;(B) with respect to which—
 
@@ -972,7 +972,7 @@ In any case in which there is a failure—
 
 Notwithstanding any other provision of law, no monthly benefit under this subchapter shall be payable to any alien in the United States for any month during which such alien is not lawfully present in the United States as determined by the Attorney General.
 
-(Aug. 14, 1935, ch. 531, title II, §202, 49 Stat. 623; Aug. 10, 1939, ch. 666, title II, §201, 53 Stat. 1362, 1363; Aug. 10, 1946, ch. 951, title IV, §§402, 403(a),404(a), 405(a), 60 Stat. 986, 987; Aug. 28, 1950, ch. 809, title I, §101(a), 64 Stat. 482; Aug. 14, 1953, ch. 483, §2, 67 Stat. 580; Sept. 1, 1954, ch. 1206, title I, §§102(i), 105(a), 107, 110, 68 Stat. 1073, 1079, 1083, 1085; Aug. 9, 1955, ch. 685, §2, 69 Stat. 621; Aug. 1, 1956, ch. 836, title I, §§101(a)–(c), 102(c), (d)(1)–(10), 103(c)(1)–(3), 113, 114(a), 118(a), 121(a), 70 Stat. 807, 810–814, 818, 831, 832, 835, 838; Aug. 1, 1956, ch. 837, title IV, §§403(a), 407, 70 Stat. 871, 876; Pub. L. 85–238, §§1, 3(a)–(g), Aug. 30, 1957, 71 Stat. 518; Pub. L. 85–798, §1, Aug. 28, 1958, 72 Stat. 964; Pub. L. 85–840, title I, §101(e), title II, §205(b)–(i), title III, §§301(a)(1), (b)(1), (c)(1), 303, 304(a)(1), 305(a), 306(a), 307(a)–(e), Aug. 28, 1958, 72 Stat. 1017, 1021–1024, 1026, 1027, 1029–1032; Pub. L. 85–857, §13(i)(1), Sept. 2, 1958, 72 Stat. 1265; Pub. L. 85–927, §301, Sept. 6, 1958, 72 Stat. 1783; Pub. L. 86–70, §32(c)(1), June 25, 1959, 73 Stat. 149; Pub. L. 86–624, §30(c)(1), July 12, 1960, 74 Stat. 420; Pub. L. 86–778, title I, §103(a)(1), (j)(2)(C), (D), title II, §§201(a), (b), 202(a), 203(a), 205(a), (b), 208(d), 211(i)–(<i>l</i>), title III, §301(a), title IV, §403(d), Sept. 13, 1960, 74 Stat. 936, 937, 946, 947, 949, 952, 957–959, 1969; Pub. L. 87–64, title I, §§102(a), (b)(1), (2)(A), (3), (e), 104(a)–(d), June 30, 1961, 75 Stat. 131, 134–136, 138, 139; Pub. L. 89–97, title I, §104(a), title III, §§303(d), 304(a)–(j), 306(a), (b), (c)(1)–(9), 307(a), (b), 308(a), (b), (d)(1), (2)(A), (3)–(5), (12), (13), 319(d), 323(a), 324(a), 328(a), 333(a)–(c), 334(e), (f), 339(b), 343(a), July 30, 1965, 79 Stat. 334, 367–379, 392, 397, 398, 400, 403–405, 410, 412; Pub. L. 90–248, title I, §§103(a)–(d), 104(a)–(c), 112(a), 151(a)–(d)(1), (2), 157(a), (b), 158(c)(1), (2), 162(a)(1), (b)(1), (c)(1), (2), Jan. 2, 1968, 81 Stat. 828–830, 838, 860, 867, 868, 871; Pub. L. 91–172, title X, §1004(a)–(c), Dec. 30, 1969, 83 Stat. 741; Pub. L. 92–223, §1, Dec. 28, 1971, 85 Stat. 802; Pub. L. 92–603, title I, §§102(a), (b), (d)–(f), 103(a), (b), 107(a), 108(a)–(e), 109(a), 110(a), 111(a), 112(a), 113(b), 114(a)–(c), 116(b), (c), Oct. 30, 1972, 86 Stat. 1335, 1336, 1338–1340, 1343–1348, 1350; Pub. L. 93–66, title II, §240(a), July 9, 1973, 87 Stat. 161; Pub. L. 93–233, §§1(f), (g), 18(b), Dec. 31, 1973, 87 Stat. 947, 948, 967; Pub. L. 93–445, title III, §301, Oct. 16, 1974, 88 Stat. 1357; Pub. L. 95–216, title II, §§203, 204(a)–(d), 205(a), (b), title III, §§331(a)–(c), 332(a)(1), (2), 334(a)–(d)(4)(A), (5), (6), (e), 336(a), (b), 337(b), 353(f)(1), Dec. 20, 1977, 91 Stat. 1527–1529, 1541–1548, 1554; Pub. L. 95–600, title VII, §703(j)(14)(A), Nov. 6, 1978, 92 Stat. 2942; Pub. L. 96–265, title III, §§303(b)(1)(B)–(D), 306(a), June 9, 1980, 94 Stat. 451, 452, 457; Pub. L. 96–473, §§5(b), 6(a), Oct. 19, 1980, 94 Stat. 2265; Pub. L. 96–499, title X, §1011(a), Dec. 5, 1980, 94 Stat. 2655; Pub. L. 97–35, title XXII, §§2201(b)(10), (11), (d), (f), 2202(a)(1), 2203(a), (b)(1), (c)(1), (d)(1), (2), 2205(a), 2206(b)(1), 2210(a), Aug. 13, 1981, 95 Stat. 831–838, 841; Pub. L. 97–123, §2(e), Dec. 29, 1981, 95 Stat. 1660; Pub. L. 97–455, §7(c), Jan. 12, 1983, 96 Stat. 2501; Pub. L. 98–21, title I, §§111(a)(7), 113(d), 114(a)–(c)(1), 131(a)(1)–(3)(G), (b)(1)–(3)(F), (c), 132(a), 133(a), (b), 134(a), (b), title II, §201(b), (c)(1)(A), title III, §§301(a), (b), 302, 306(a), (b), (d)–(h), 307(a), 309(a)–(e), 334(a), 337(a), 339(a), 340(a), (b), Apr. 20, 1983, 97 Stat. 72, 79, 92, 93, 95–98, 108, 111–116, 130, 131, 133–135; Pub. L. 98–369, div. B, title VI, §§2661(b)–(f), 2662(c)(1), 2663(a)(2), July 18, 1984, 98 Stat. 1156, 1159, 1160; Pub. L. 99–272, title XII, §§12104(a), 12107(a), Apr. 7, 1986, 100 Stat. 285, 286; Pub. L. 99–514, title XVIII, §1883(a)(1)–(3), Oct. 22, 1986, 100 Stat. 2916; Pub. L. 100–203, title IX, §§9007(a)–(e), 9010(b)–(d), Dec. 22, 1987, 101 Stat. 1330–289 to 1330–293; Pub. L. 100–647, title VIII, §§8004(a), (b), 8007(b), 8010(a), (b), 8014(a), Nov. 10, 1988, 102 Stat. 3780, 3782, 3788, 3790; Pub. L. 101–239, title X, §§10203(a), 10301(a), (b), 10302(a)(1), Dec. 19, 1989, 103 Stat. 2473, 2481; Pub. L. 101–508, title V, §§5103(c)(2)(A), (B), (d), 5116(a), Nov. 5, 1990, 104 Stat. 1388–252, 1388–253, 1388–274; Pub. L. 101–649, title VI, §603(b)(5), Nov. 29, 1990, 104 Stat. 5085; Pub. L. 102–40, title IV, §402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 102–54, §13(q)(3)(C), June 13, 1991, 105 Stat. 279; Pub. L. 103–296, title I, §107(a)(4), title III, §§308(a), 321(a)(2)–(5), (b)(1), (c)(2), Aug. 15, 1994, 108 Stat. 1478, 1522, 1535–1538; Pub. L. 103–387, §4(a), Oct. 22, 1994, 108 Stat. 4076; Pub. L. 104–121, title I, §104(a)(1), (b)(1), (2), Mar. 29, 1996, 110 Stat. 851, 852; Pub. L. 104–208, div. C, title III, §308(g)(1), title V, §503(a), Sept. 30, 1996, 110 Stat. 3009–622, 3009–671; Pub. L. 106–169, title II, §207(b), Dec. 14, 1999, 113 Stat. 1838; Pub. L. 106–170, title IV, §402(a)(1), (b)(1), (d)(1), (2), 113 Stat. 1907–1909; Pub. L. 106–182, §4(b), Apr. 7, 2000, 114 Stat. 199; Pub. L. 108–203, title II, §203(a), title IV, §§412(a), (b), 418(a)–(b)(4)(B)(vi), (5), 420A(a), Mar. 2, 2004, 118 Stat. 509, 527, 528, 531–533, 535.)
+(Aug. 14, 1935, ch. 531, title II, §202, 49 Stat. 623; Aug. 10, 1939, ch. 666, title II, §201, 53 Stat. 1362, 1363; Aug. 10, 1946, ch. 951, title IV, §§402, 403(a),404(a), 405(a), 60 Stat. 986, 987; Aug. 28, 1950, ch. 809, title I, §101(a), 64 Stat. 482; Aug. 14, 1953, ch. 483, §2, 67 Stat. 580; Sept. 1, 1954, ch. 1206, title I, §§102(i), 105(a), 107, 110, 68 Stat. 1073, 1079, 1083, 1085; Aug. 9, 1955, ch. 685, §2, 69 Stat. 621; Aug. 1, 1956, ch. 836, title I, §§101(a)–(c), 102(c), (d)(1)–(10), 103(c)(1)–(3), 113, 114(a), 118(a), 121(a), 70 Stat. 807, 810–814, 818, 831, 832, 835, 838; Aug. 1, 1956, ch. 837, title IV, §§403(a), 407, 70 Stat. 871, 876; Pub. L. 85–238, §§1, 3(a)–(g), Aug. 30, 1957, 71 Stat. 518; Pub. L. 85–798, §1, Aug. 28, 1958, 72 Stat. 964; Pub. L. 85–840, title I, §101(e), title II, §205(b)–(i), title III, §§301(a)(1), (b)(1), (c)(1), 303, 304(a)(1), 305(a), 306(a), 307(a)–(e), Aug. 28, 1958, 72 Stat. 1017, 1021–1024, 1026, 1027, 1029–1032; Pub. L. 85–857, §13(i)(1), Sept. 2, 1958, 72 Stat. 1265; Pub. L. 85–927, §301, Sept. 6, 1958, 72 Stat. 1783; Pub. L. 86–70, §32(c)(1), June 25, 1959, 73 Stat. 149; Pub. L. 86–624, §30(c)(1), July 12, 1960, 74 Stat. 420; Pub. L. 86–778, title I, §103(a)(1), (j)(2)(C), (D), title II, §§201(a), (b), 202(a), 203(a), 205(a), (b), 208(d), 211(i)–(l), title III, §301(a), title IV, §403(d), Sept. 13, 1960, 74 Stat. 936, 937, 946, 947, 949, 952, 957–959, 1969; Pub. L. 87–64, title I, §§102(a), (b)(1), (2)(A), (3), (e), 104(a)–(d), June 30, 1961, 75 Stat. 131, 134–136, 138, 139; Pub. L. 89–97, title I, §104(a), title III, §§303(d), 304(a)–(j), 306(a), (b), (c)(1)–(9), 307(a), (b), 308(a), (b), (d)(1), (2)(A), (3)–(5), (12), (13), 319(d), 323(a), 324(a), 328(a), 333(a)–(c), 334(e), (f), 339(b), 343(a), July 30, 1965, 79 Stat. 334, 367–379, 392, 397, 398, 400, 403–405, 410, 412; Pub. L. 90–248, title I, §§103(a)–(d), 104(a)–(c), 112(a), 151(a)–(d)(1), (2), 157(a), (b), 158(c)(1), (2), 162(a)(1), (b)(1), (c)(1), (2), Jan. 2, 1968, 81 Stat. 828–830, 838, 860, 867, 868, 871; Pub. L. 91–172, title X, §1004(a)–(c), Dec. 30, 1969, 83 Stat. 741; Pub. L. 92–223, §1, Dec. 28, 1971, 85 Stat. 802; Pub. L. 92–603, title I, §§102(a), (b), (d)–(f), 103(a), (b), 107(a), 108(a)–(e), 109(a), 110(a), 111(a), 112(a), 113(b), 114(a)–(c), 116(b), (c), Oct. 30, 1972, 86 Stat. 1335, 1336, 1338–1340, 1343–1348, 1350; Pub. L. 93–66, title II, §240(a), July 9, 1973, 87 Stat. 161; Pub. L. 93–233, §§1(f), (g), 18(b), Dec. 31, 1973, 87 Stat. 947, 948, 967; Pub. L. 93–445, title III, §301, Oct. 16, 1974, 88 Stat. 1357; Pub. L. 95–216, title II, §§203, 204(a)–(d), 205(a), (b), title III, §§331(a)–(c), 332(a)(1), (2), 334(a)–(d)(4)(A), (5), (6), (e), 336(a), (b), 337(b), 353(f)(1), Dec. 20, 1977, 91 Stat. 1527–1529, 1541–1548, 1554; Pub. L. 95–600, title VII, §703(j)(14)(A), Nov. 6, 1978, 92 Stat. 2942; Pub. L. 96–265, title III, §§303(b)(1)(B)–(D), 306(a), June 9, 1980, 94 Stat. 451, 452, 457; Pub. L. 96–473, §§5(b), 6(a), Oct. 19, 1980, 94 Stat. 2265; Pub. L. 96–499, title X, §1011(a), Dec. 5, 1980, 94 Stat. 2655; Pub. L. 97–35, title XXII, §§2201(b)(10), (11), (d), (f), 2202(a)(1), 2203(a), (b)(1), (c)(1), (d)(1), (2), 2205(a), 2206(b)(1), 2210(a), Aug. 13, 1981, 95 Stat. 831–838, 841; Pub. L. 97–123, §2(e), Dec. 29, 1981, 95 Stat. 1660; Pub. L. 97–455, §7(c), Jan. 12, 1983, 96 Stat. 2501; Pub. L. 98–21, title I, §§111(a)(7), 113(d), 114(a)–(c)(1), 131(a)(1)–(3)(G), (b)(1)–(3)(F), (c), 132(a), 133(a), (b), 134(a), (b), title II, §201(b), (c)(1)(A), title III, §§301(a), (b), 302, 306(a), (b), (d)–(h), 307(a), 309(a)–(e), 334(a), 337(a), 339(a), 340(a), (b), Apr. 20, 1983, 97 Stat. 72, 79, 92, 93, 95–98, 108, 111–116, 130, 131, 133–135; Pub. L. 98–369, div. B, title VI, §§2661(b)–(f), 2662(c)(1), 2663(a)(2), July 18, 1984, 98 Stat. 1156, 1159, 1160; Pub. L. 99–272, title XII, §§12104(a), 12107(a), Apr. 7, 1986, 100 Stat. 285, 286; Pub. L. 99–514, title XVIII, §1883(a)(1)–(3), Oct. 22, 1986, 100 Stat. 2916; Pub. L. 100–203, title IX, §§9007(a)–(e), 9010(b)–(d), Dec. 22, 1987, 101 Stat. 1330–289 to 1330–293; Pub. L. 100–647, title VIII, §§8004(a), (b), 8007(b), 8010(a), (b), 8014(a), Nov. 10, 1988, 102 Stat. 3780, 3782, 3788, 3790; Pub. L. 101–239, title X, §§10203(a), 10301(a), (b), 10302(a)(1), Dec. 19, 1989, 103 Stat. 2473, 2481; Pub. L. 101–508, title V, §§5103(c)(2)(A), (B), (d), 5116(a), Nov. 5, 1990, 104 Stat. 1388–252, 1388–253, 1388–274; Pub. L. 101–649, title VI, §603(b)(5), Nov. 29, 1990, 104 Stat. 5085; Pub. L. 102–40, title IV, §402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 102–54, §13(q)(3)(C), June 13, 1991, 105 Stat. 279; Pub. L. 103–296, title I, §107(a)(4), title III, §§308(a), 321(a)(2)–(5), (b)(1), (c)(2), Aug. 15, 1994, 108 Stat. 1478, 1522, 1535–1538; Pub. L. 103–387, §4(a), Oct. 22, 1994, 108 Stat. 4076; Pub. L. 104–121, title I, §104(a)(1), (b)(1), (2), Mar. 29, 1996, 110 Stat. 851, 852; Pub. L. 104–208, div. C, title III, §308(g)(1), title V, §503(a), Sept. 30, 1996, 110 Stat. 3009–622, 3009–671; Pub. L. 106–169, title II, §207(b), Dec. 14, 1999, 113 Stat. 1838; Pub. L. 106–170, title IV, §402(a)(1), (b)(1), (d)(1), (2), 113 Stat. 1907–1909; Pub. L. 106–182, §4(b), Apr. 7, 2000, 114 Stat. 199; Pub. L. 108–203, title II, §203(a), title IV, §§412(a), (b), 418(a)–(b)(4)(B)(vi), (5), 420A(a), Mar. 2, 2004, 118 Stat. 509, 527, 528, 531–533, 535.)
 
 #### References in Text
 
@@ -1186,7 +1186,7 @@ Subsec. (x)(3). Pub. L. 103–387, §4(a)(3), substituted “any individual who 
 
 Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary” in two places.
 
-<b>1991</b>—Subsec. (<i>o</i>). Pub. L. 102–40 substituted “section 5105 of title 38” for “section 3005 of title 38”.
+<b>1991</b>—Subsec. (o). Pub. L. 102–40 substituted “section 5105 of title 38” for “section 3005 of title 38”.
 
 Subsec. (t)(4)(D). Pub. L. 102–54 substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs” before “determines was”, “Secretary of Veterans Affairs” for “if the Administrator” before “determines that”, and “Secretary of Veterans Affairs” for “if the Administrator” before “certifies”.
 
@@ -1218,13 +1218,13 @@ Subsec. (q)(3). Pub. L. 101–239, §10203(a), redesignated subpar. (H) as (E) a
 
 <b>1988</b>—Subsecs. (b)(4)(A)(ii)(II), (c)(2)(A)(ii)(II). Pub. L. 100–647, §8014(a), substituted “the Federal Employees’ Retirement System provided in chapter 84 of title 5 or the Foreign Service Pension System provided in subchapter II of chapter 8 of title I of the Foreign Service Act of 1980” for “chapter 84 of title 5”.
 
-Subsec. (e)(1)(C). Pub. L. 100–647, §8010(a)(1), (2), redesignated former cl. (ii) as (iii), added cls. (i) and (ii), and struck out former cl. (i) which read as follows: “has filed application for widow's insurance benefits, or was entitled to wife's insurance benefits, on the basis of the wages and self-employment income of such individual, for the month preceding the month in which he died, and (I) has attained retirement age (as defined in section 416(<i>l</i>) of this title) or (II) is not entitled to benefits under subsection (a) of this section or section 423 of this title, or”.
+Subsec. (e)(1)(C). Pub. L. 100–647, §8010(a)(1), (2), redesignated former cl. (ii) as (iii), added cls. (i) and (ii), and struck out former cl. (i) which read as follows: “has filed application for widow's insurance benefits, or was entitled to wife's insurance benefits, on the basis of the wages and self-employment income of such individual, for the month preceding the month in which he died, and (I) has attained retirement age (as defined in section 416(l) of this title) or (II) is not entitled to benefits under subsection (a) of this section or section 423 of this title, or”.
 
 Subsec. (e)(7)(A)(ii)(II). Pub. L. 100–647, §8014(a), substituted “the Federal Employees’ Retirement Systemprovided in chapter 84 of title 5 or the Foreign Service Pension System provided in subchapter II of chapter 8 of title I of the Foreign Service Act of 1980” for “chapter 84 of title 5”.
 
 Subsec. (e)(8). Pub. L. 100–647, §8010(a)(3), added par. (8).
 
-Subsec. (f)(1)(C). Pub. L. 100–647, §8010(b)(1), (2), redesignated former cl. (ii) as (iii), added cls. (i) and (ii), and struck out former cl. (i) which read as follows: “has filed application for widower's insurance benefits or was entitled to husband's insurance benefits, on the basis of the wages and self-employment income of such individual, for the month preceding the month in which she died, and (I) has attained retirement age (as defined in section 416(<i>l</i>) of this title) or (II) is not entitled to benefits under subsection (a) of this section or section 423 of this title, or”.
+Subsec. (f)(1)(C). Pub. L. 100–647, §8010(b)(1), (2), redesignated former cl. (ii) as (iii), added cls. (i) and (ii), and struck out former cl. (i) which read as follows: “has filed application for widower's insurance benefits or was entitled to husband's insurance benefits, on the basis of the wages and self-employment income of such individual, for the month preceding the month in which she died, and (I) has attained retirement age (as defined in section 416(l) of this title) or (II) is not entitled to benefits under subsection (a) of this section or section 423 of this title, or”.
 
 Subsec. (f)(2)(A)(ii)(II). Pub. L. 100–647, §8014(a), substituted “the Federal Employees’ Retirement System provided in chapter 84 of title 5 or the Foreign Service Pension System provided in subchapter II of chapter 8 of title I of the Foreign Service Act of 1980” for “chapter 84 of title 5”.
 
@@ -1266,7 +1266,7 @@ Subsec. (q)(5)(C). Pub. L. 99–514, §1883(a)(3), which directed substitution o
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–369, §2662(c)(1), made a clarifying amendment to Pub. L. 98–21, §201(c)(1)(A). See 1983 Amendment note below.
 
-Subsec. (c)(1). Pub. L. 98–369, §2661(b)(1)(A), (B), substituted “retirement age (as defined in section 416(<i>l</i>) of this title)” for “age 65” in cls. (i) and (ii)(I) of provisions following subpar. (D) and preceding subpar. (E).
+Subsec. (c)(1). Pub. L. 98–369, §2661(b)(1)(A), (B), substituted “retirement age (as defined in section 416(l) of this title)” for “age 65” in cls. (i) and (ii)(I) of provisions following subpar. (D) and preceding subpar. (E).
 
 Pub. L. 98–369, §2661(b)(1)(C), substituted “in which” for “to which” in provisions following cl. (ii) of provisions following subpar. (D) and preceding subpar. (E).
 
@@ -1288,7 +1288,7 @@ Subsec. (e)(7)(A). Pub. L. 98–369, §2661(c)(3), substituted “paragraph (2)(
 
 Subsec. (f)(1). Pub. L. 98–369, §2663(a)(2)(C), struck out the first of two commas after “age 60” in provisions following subpar. (F).
 
-Subsec. (f)(1)(C)(ii). Pub. L. 98–369, §2661(d)(1), substituted “retirement age (as defined in section 416(<i>l</i>) of this title)” for “age 65”.
+Subsec. (f)(1)(C)(ii). Pub. L. 98–369, §2661(d)(1), substituted “retirement age (as defined in section 416(l) of this title)” for “age 65”.
 
 Subsec. (f)(2)(A). Pub. L. 98–369, §2661(d)(2), substituted “paragraph (3)(D)” for “paragraph (3)(B)”.
 
@@ -1304,15 +1304,15 @@ Subsec. (q)(3)(G). Pub. L. 98–369, §2663(a)(2)(F)(i), substituted “if the p
 
 Subsec. (q)(7)(E). Pub. L. 98–369, §2663(a)(2)(F)(ii), substituted “she or he attained retirement age” for “he attained retirement age”.
 
-Subsec. (q)(9)(B)(i). Pub. L. 98–369, §2661(e), substituted “section 416(<i>l</i>) of this title” for “section 416(a) of this title”.
+Subsec. (q)(9)(B)(i). Pub. L. 98–369, §2661(e), substituted “section 416(l) of this title” for “section 416(a) of this title”.
 
 Subsec. (t)(4)(E). Pub. L. 98–369, §2663(a)(2)(G), inserted “of 1937 or 1974” after “Railroad Retirement Act” the first place it appears and substituted references to section 5(k)(1) of the Railroad Retirement Act of 1937 and section 18(2) of the Railroad Retirement Act of 1974 for reference to section 5(k)(1) of the Railroad Retirement Act.
 
 Subsec. (u)(1)(B). Pub. L. 98–369, §2663(a)(2)(H), struck out “, 822, or 823” after “section 783”.
 
-<b>1983</b>—Subsec. (a). Pub. L. 98–21, §201(c)(1)(A), as amended by Pub. L. 98–369, §2662(c)(1), substituted reference to retirement age as defined in section 416(<i>l</i>) of this title for reference to age 65 or the age of 65, wherever appearing.
+<b>1983</b>—Subsec. (a). Pub. L. 98–21, §201(c)(1)(A), as amended by Pub. L. 98–369, §2662(c)(1), substituted reference to retirement age as defined in section 416(l) of this title for reference to age 65 or the age of 65, wherever appearing.
 
-Subsec. (b)(1). Pub. L. 98–21, §201(c)(1)(A), substituted reference to retirement age as defined in section 416(<i>l</i>) of this title for reference to age 65 in two places.
+Subsec. (b)(1). Pub. L. 98–21, §201(c)(1)(A), substituted reference to retirement age as defined in section 416(l) of this title for reference to age 65 in two places.
 
 Subsec. (b)(3). Pub. L. 98–21, §307(a), struck out exception in provisions following subpar. (B) that, in the case of such a marriage to an individual entitled to benefits under subsection (d) of this section, the preceding provisions of this paragraph would not apply with respect to benefits for months after the last month for which such individual was entitled to such benefits under subsection (d) of this section unless he ceased to be so entitled by reason of his death.
 
@@ -1328,7 +1328,7 @@ Subsec. (c)(1). Pub. L. 98–21, §301(a)(1), inserted “and every divorced hus
 
 Pub. L. 98–21, §306(d), in provisions following subpar. (D) and preceding subpar. (E), inserted “(subject to subsection (s) of this section)” after “be entitled to”.
 
-Pub. L. 98–21, §201(c)(1)(A), which directed the substitution of “retirement age (as defined in section 416(<i>l</i>) of this title” for “age 65” in provisions following subpar. (D) and preceding subpar. (E) was executed to those provisions after the execution of the amendment by section 301(a)(2)(C) of Pub. L. 98–21 as the probable intent of Congress.
+Pub. L. 98–21, §201(c)(1)(A), which directed the substitution of “retirement age (as defined in section 416(l) of this title” for “age 65” in provisions following subpar. (D) and preceding subpar. (E) was executed to those provisions after the execution of the amendment by section 301(a)(2)(C) of Pub. L. 98–21 as the probable intent of Congress.
 
 Pub. L. 98–21, §301(a)(2)(C), amended provisions following subpar. (D) generally, inserting references to a divorced husband and to subpar. (D), designating existing provisions as subpars. (E) to (G) and (I) and (J), adding subpar. (H), and revising subpar. (G).
 
@@ -1356,15 +1356,15 @@ Subsec. (d)(5). Pub. L. 98–21, §307(a), struck out exception in provisions fo
 
 Subsec. (d)(5)(A). Pub. L. 98–21, §301(a)(9), inserted reference to subsec. (c).
 
-Subsec. (d)(8)(D)(ii)(II). Pub. L. 98–21, §201(c)(1)(A), substituted reference to retirement age as defined in section 416(<i>l</i>) of this title for reference to age 65 in two places.
+Subsec. (d)(8)(D)(ii)(II). Pub. L. 98–21, §201(c)(1)(A), substituted reference to retirement age as defined in section 416(l) of this title for reference to age 65 in two places.
 
-Subsec. (e)(1). Pub. L. 98–21, §201(c)(1)(A), substituted reference to retirement age as defined in section 416(<i>l</i>) of this title for reference to age 65 in provisions following subpar. (F).
+Subsec. (e)(1). Pub. L. 98–21, §201(c)(1)(A), substituted reference to retirement age as defined in section 416(l) of this title for reference to age 65 in provisions following subpar. (F).
 
 Pub. L. 98–21, §133(a)(2)(A), inserted “(as determined after application of subparagraphs (B) and (C) of paragraph (2))” after “primary insurance amount” in provisions following subpar. (F).
 
 Subsec. (e)(1)(B)(ii). Pub. L. 98–21, §131(a)(3)(B), substituted reference to par. (4) for reference to par. (5).
 
-Subsec. (e)(1)(C). Pub. L. 98–21, §201(c)(1)(A), substituted reference to retirement age as defined in section 416(<i>l</i>) of this title for reference to age 65 in two places.
+Subsec. (e)(1)(C). Pub. L. 98–21, §201(c)(1)(A), substituted reference to retirement age as defined in section 416(l) of this title for reference to age 65 in two places.
 
 Subsec. (e)(1)(D). Pub. L. 98–21, §133(a)(2)(A), inserted “(as determined after application of subparagraphs (B) and (C) of paragraph (2))” after “primary insurance amount”.
 
@@ -1408,7 +1408,7 @@ Subsec. (f)(1). Pub. L. 98–21, §301(b)(1), inserted “and every surviving di
 
 Pub. L. 98–21, §301(b)(2), substituted “such deceased individual” for “his deceased wife” in provisions following subpar. (F).
 
-Pub. L. 98–21, §201(c)(1)(A), substituted reference to retirement age as defined in section 416(<i>l</i>) of this title for reference to age 65 in provisions following subpar. (F).
+Pub. L. 98–21, §201(c)(1)(A), substituted reference to retirement age as defined in section 416(l) of this title for reference to age 65 in provisions following subpar. (F).
 
 Pub. L. 98–21, §133(b)(2)(A), inserted “(as determined after application of subparagraphs (B) and (C) of paragraph (3))” after “primary insurance amount” in provisions following subpar. (F).
 
@@ -1418,9 +1418,9 @@ Subsec. (f)(1)(B)(ii). Pub. L. 98–21, §131(b)(3)(B), substituted reference to
 
 Subsec. (f)(1)(C)(i). Pub. L. 98–21, §306(g), designated existing provisions as cl. (i).
 
-Pub. L. 98–21, §201(c)(1)(A), substituted reference to retirement age as defined in section 416(<i>l</i>) of this title for reference to age 65.
+Pub. L. 98–21, §201(c)(1)(A), substituted reference to retirement age as defined in section 416(l) of this title for reference to age 65.
 
-Subsec. (f)(1)(C)(ii). Pub. L. 98–21, §201(c)(1)(A), which directed the substitution of “retirement age (as defined in section 416(<i>l</i>) of this title)” for “age 65” in cl. (ii) was executed to those provisions after the execution of section 306(g) of Pub. L. 98–21 as the probable intent of Congress.
+Subsec. (f)(1)(C)(ii). Pub. L. 98–21, §201(c)(1)(A), which directed the substitution of “retirement age (as defined in section 416(l) of this title)” for “age 65” in cl. (ii) was executed to those provisions after the execution of section 306(g) of Pub. L. 98–21 as the probable intent of Congress.
 
 Pub. L. 98–21, §306(g), added cl. (ii).
 
@@ -1522,13 +1522,13 @@ Pub. L. 98–21, §134(a)(1), struck out provisions following subpar. (B)(ii) wh
 
 Subsec. (q)(1)(B)(i). Pub. L. 98–21, §134(a)(2)(C), substituted “paragraph (6)” for “paragraph (6)(A)”.
 
-Subsec. (q)(2). Pub. L. 98–21, §201(c)(1)(A), substituted reference to retirement age as defined in section 416(<i>l</i>) of this title for reference to age 65.
+Subsec. (q)(2). Pub. L. 98–21, §201(c)(1)(A), substituted reference to retirement age as defined in section 416(l) of this title for reference to age 65.
 
-Subsec. (q)(3)(A)(i). Pub. L. 98–21, §201(c)(1)(A), substituted reference to retirement age as defined in section 416(<i>l</i>) of this title for reference to age 65.
+Subsec. (q)(3)(A)(i). Pub. L. 98–21, §201(c)(1)(A), substituted reference to retirement age as defined in section 416(l) of this title for reference to age 65.
 
 Subsec. (q)(3)(E). Pub. L. 98–21, §309(b), inserted “or surviving divorced husband” after “widower”.
 
-Pub. L. 98–21, §201(c)(1)(A), as amended by Pub. L. 98–369, §2662(c)(1), substituted reference to retirement age as defined in section 416(<i>l</i>) of this title for reference to the age of 65.
+Pub. L. 98–21, §201(c)(1)(A), as amended by Pub. L. 98–369, §2662(c)(1), substituted reference to retirement age as defined in section 416(l) of this title for reference to the age of 65.
 
 Subsec. (q)(3)(E)(ii). Pub. L. 98–21, §134(a)(2)(C), substituted “paragraph (6)” for “paragraph (6)(A)”.
 
@@ -1554,7 +1554,7 @@ Subsec. (q)(5)(C). Pub. L. 98–21, §309(c)(6), substituted “an individual”
 
 Pub. L. 98–21, §309(c)(5), substituted “his or her” for “her”.
 
-Pub. L. 98–21, §201(c)(1)(A), substituted reference to retirement age as defined in section 416(<i>l</i>) of this title for reference to age 65 wherever appearing.
+Pub. L. 98–21, §201(c)(1)(A), substituted reference to retirement age as defined in section 416(l) of this title for reference to age 65 wherever appearing.
 
 Subsec. (q)(5)(D). Pub. L. 98–21, §309(c)(7), inserted “or widower's” after “widow's”, substituted “spouse” for “husband” wherever appearing, substituted “spouse's” for “husband's” wherever appearing, and inserted “or father's” after “mother's”.
 
@@ -1580,13 +1580,13 @@ Subsec. (q)(10)(B)(i). Pub. L. 98–21, §134(a)(4)(B), struck out “, plus th
 
 Subsec. (q)(10)(B)(ii). Pub. L. 98–21, §134(a)(4)(C), struck out “plus the number of months in the additional reduction period multiplied by 43/240 of 1 percent,” after “1 percent”.
 
-Subsec. (q)(10)(C). Pub. L. 98–21, §201(c)(1)(A), substituted reference to retirement age as defined in section 416(<i>l</i>) of this title for reference to age 65.
+Subsec. (q)(10)(C). Pub. L. 98–21, §201(c)(1)(A), substituted reference to retirement age as defined in section 416(l) of this title for reference to age 65.
 
 Subsec. (q)(10(C)(i). Pub. L. 98–21, §134(a)(4)(B), struck out “, plus the number of months in the adjusted additional reduction period multiplied by 43/240 of 1 percent” before “to (ii)”.
 
 Subsec. (q)(10)(C)(ii). Pub. L. 98–21, §134(a)(4)(D), struck out “plus the number of months in the adjusted additional reduction period multiplied by 43/240 of 1 percent.” after “1 percent,”.
 
-Subsec. (r)(1), (2). Pub. L. 98–21, §201(c)(1)(A), substituted reference to retirement age as defined in section 416(<i>l</i>) of this title for reference to age 65.
+Subsec. (r)(1), (2). Pub. L. 98–21, §201(c)(1)(A), substituted reference to retirement age as defined in section 416(l) of this title for reference to age 65.
 
 Subsec. (s)(1). Pub. L. 98–21, §309(e)(1), inserted reference to subsec. (c)(1).
 
@@ -1604,7 +1604,7 @@ Subsec. (t)(11). Pub. L. 98–21, §340(a)(2), added par. (11).
 
 Subsec. (w)(1)(A). Pub. L. 98–21, §114(a), substituted a definition of the multiplicand as the applicable percentage (as determined under paragraph (6)) of such amount for a definition of the multiplicand as 1/12 of 1 percent of such amount, or, in the case of an individual who first becomes eligible for an old-age insurance benefit after December 1978, one-quarter of 1 percent of such amount.
 
-Subsec. (w)(2)(A). Pub. L. 98–21, §201(c)(1)(A), substituted reference to retirement age as defined in section 416(<i>l</i>) of this title for reference to age 65.
+Subsec. (w)(2)(A). Pub. L. 98–21, §201(c)(1)(A), substituted reference to retirement age as defined in section 416(l) of this title for reference to age 65.
 
 Pub. L. 98–21, §114(c)(1), substituted “age 70” for “age 72”.
 
@@ -1736,7 +1736,7 @@ Subsec. (w)(1)(A). Pub. L. 95–216, §203(2), inserted provision relating to in
 
 Subsec. (w)(5). Pub. L. 95–216, §205(b)(2), (3), inserted “as in effect in December 1978, or section 415(a)(1)(C)(i)(II) of this title as in effect thereafter,” after “(3) of section 415(a) of this title” and “(whether before, in, or after December 1978)” after “under section 415(a) of this title”.
 
-<b>1974</b>—Subsec. (<i>l</i>). Pub. L. 93–445 substituted “annuity under section 2 of the Railroad Retirement Act of 1974, or to a lump-sum payment under section 6(b) of such Act, with respect to the death of an employee (as defined in such Act)” for “annuity under section 5 of the Railroad Retirement Act of 1937 or to a lump-sum payment under subsection (f)(1) of such section with respect to the death of an employee (as defined in such Act)”.
+<b>1974</b>—Subsec. (l). Pub. L. 93–445 substituted “annuity under section 2 of the Railroad Retirement Act of 1974, or to a lump-sum payment under section 6(b) of such Act, with respect to the death of an employee (as defined in such Act)” for “annuity under section 5 of the Railroad Retirement Act of 1937 or to a lump-sum payment under subsection (f)(1) of such section with respect to the death of an employee (as defined in such Act)”.
 
 <b>1973</b>—Subsec. (d)(8)(D)(ii). Pub. L. 93–66 added item (III).
 
@@ -2048,7 +2048,7 @@ Subsec. (f)(1). Pub. L. 86–778, §205(b), struck out “after August 1950” a
 
 Subsecs. (g)(1), (h)(1). Pub. L. 86–778, §205(a), struck out “after 1939” after “died a fully or currently insured individual” in opening clause.
 
-Subsec. (i). Pub. L. 86–778, §§103(a), (j)(2)(C), 203(a), amended second and third sentences to require payment to the funeral home to the extent of the unpaid expenses if all or part of the burial expenses remain unpaid, and to prescribe the manner of payment of any balance that may remain after the funeral home and the persons equitably entitled thereto have received payment, and substituted “the Commonwealth of Puerto Rico, the Virgin Islands, Guam, or American Samoa” for “Puerto Rico, or the Virgin Islands”, “section 410(<i>l</i>)(1) of this title” for “section 410(m)(1) of this title”, and “is returned to any State” for “is returned to any of such States, or the District of Columbia”.
+Subsec. (i). Pub. L. 86–778, §§103(a), (j)(2)(C), 203(a), amended second and third sentences to require payment to the funeral home to the extent of the unpaid expenses if all or part of the burial expenses remain unpaid, and to prescribe the manner of payment of any balance that may remain after the funeral home and the persons equitably entitled thereto have received payment, and substituted “the Commonwealth of Puerto Rico, the Virgin Islands, Guam, or American Samoa” for “Puerto Rico, or the Virgin Islands”, “section 410(l)(1) of this title” for “section 410(m)(1) of this title”, and “is returned to any State” for “is returned to any of such States, or the District of Columbia”.
 
 Pub. L. 86–624 substituted “fifty States” for “forty-nine States”.
 
@@ -2058,9 +2058,9 @@ Subsec. (q)(5). Pub. L. 86–778, §211(j), substituted “under section 403(b) 
 
 Subsec. (q)(6). Pub. L. 86–778, §211(k), substituted “section 403(b), under section 403(c)(1), under section 403(d)(1), or under section 422(b) of this title” for “section 403(b) (1) or (2), under section 403(c), or under section 422(b) of this title” in cl. (A), and “under section 403(b) of this title or paragraph (1) of section 403(c) of this title” for “under paragraph (1) or (2) of section 403(b) of this title” in cl. (D).
 
-Subsec. (t)(4)(D). Pub. L. 86–778, §103(j)(2)(D), substituted “section 410(<i>l</i>)(2)” for “section 410(m)(2)”, “section 410(<i>l</i>)(3)” for “section 410(m)(3)”, and “section 410(m)” for “section 410(n)”, wherever appearing.
+Subsec. (t)(4)(D). Pub. L. 86–778, §103(j)(2)(D), substituted “section 410(l)(2)” for “section 410(m)(2)”, “section 410(l)(3)” for “section 410(m)(3)”, and “section 410(m)” for “section 410(n)”, wherever appearing.
 
-Subsec. (t)(7). Pub. L. 86–778, §211(<i>l</i>), substituted “Subsections (b), (c), and (d) of section 403 of this title” for “Subsections (b) and (c) of section 403 of this title”.
+Subsec. (t)(7). Pub. L. 86–778, §211(l), substituted “Subsections (b), (c), and (d) of section 403 of this title” for “Subsections (b) and (c) of section 403 of this title”.
 
 <b>1959</b>—Subsec. (i). Pub. L. 86–70 substituted “forty-nine States” for “forty-eight States”.
 
@@ -2104,7 +2104,7 @@ Subsec. (k). Pub. L. 85–840, §205(h), substituted “old-age or disability in
 
 Subsec. (m). Pub. L. 85–840, §101(e), substituted “less than the first figure in column IV of the table in section 415(a) of this title” for “less than $30”, and “increased to the first figure in column IV of the table in section 415(a) of this title” for “increased to $30”.
 
-Subsec. (<i>o</i>). Pub. L. 85–857 substituted “described in section 3005 of Title 38” for “prescribed under section 601 of the Servicemen's and Veterans’ Survivor Benefits Act”.
+Subsec. (o). Pub. L. 85–857 substituted “described in section 3005 of Title 38” for “prescribed under section 601 of the Servicemen's and Veterans’ Survivor Benefits Act”.
 
 Subsec. (q)(5). Pub. L. 85–840, §205(i)(1), (2), inserted reference to section 422(b) of this title in subpar. (B), added subpar. (D), and substituted “clauses (A), (B), (C), and (D)” for “clauses (A), (B), and (C)” in closing provisions.
 
@@ -2164,7 +2164,7 @@ Subsec. (m). Act Aug. 1, 1956, ch. 836, §102(d)(10), inserted references to sub
 
 Subsec. (n)(1)(A). Act Aug. 1, 1956, ch. 836, §103(c)(3), inserted reference to section 423 of this title.
 
-Subsec. (<i>o</i>). Act Aug. 1, 1956, ch. 837, §407, added subsec. (<i>o</i>).
+Subsec. (o). Act Aug. 1, 1956, ch. 837, §407, added subsec. (o).
 
 Subsec. (p). Act Aug. 1, 1956, ch. 836, §114(a), added subsec. (p).
 
@@ -2206,7 +2206,7 @@ Subsec. (i). Act Aug. 28, 1950, limited the amount of the lump-sum death payment
 
 Subsec. (j). Act Aug. 28, 1950, increased from 3 to 6 the number of months for which benefits may be paid retroactively to individuals who failed to file their applications as soon as they were otherwise eligible.
 
-Subsecs. (k), (<i>l</i>). Act Aug. 28, 1950, added subsecs. (k) and (<i>l</i>).
+Subsecs. (k), (l). Act Aug. 28, 1950, added subsecs. (k) and (l).
 
 <b>1946</b>—Subsec. (c). Act Aug. 10, 1946, §402, changed par. (1) to prevent termination of benefits on adoption by a stepparent, grandparent, aunt or uncle and changed par. (3)(C) to omit qualification as to the time of such individual's death and to require the child to be chiefly supported by the stepfather.
 
@@ -2270,7 +2270,7 @@ Pub. L. 108–203, title IV, §420A(b), Mar. 2, 2004, 118 Stat. 535, provided th
 
 Pub. L. 106–182, §5, Apr. 7, 2000, 114 Stat. 199, provided that: “The amendments made by this Act \[amending this section and section 403 of this title\] shall apply with respect to taxable years ending after December 31, 1999.”
 
-#### Effective Date of 1999 Amendments
+#### Effective Date of 1999 Amendment
 
 Pub. L. 106–170, title IV, §402(a)(4), Dec. 17, 1999, 113 Stat. 1908, provided that: “The amendments made by this subsection \[amending this section, section 1382 of this title, and section 552a of Title 5, Government Organization and Employees\] shall apply to individuals whose period of confinement in an institution commences on or after the first day of the fourth month beginning after the month in which this Act is enacted \[Dec. 1999\].”
 
@@ -2280,35 +2280,35 @@ Pub. L. 106–170, title IV, §402(d)(3), Dec. 17, 1999, 113 Stat. 1909, provide
 
 Pub. L. 106–169, title II, §207(e), Dec. 14, 1999, 113 Stat. 1839, provided that: “The amendments made by this section \[enacting section 1320a–8a of this title, amending this section and section 1382 of this title, and enacting provisions set out as a note under section 1320a–8a of this title\] shall apply to statements and representations made on or after the date of the enactment of this Act \[Dec. 14, 1999\].”
 
-#### Effective Date of 1996 Amendments
+#### Effective Date of 1996 Amendment
 
 Amendment by section 308(g)(1) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of Title 8, Aliens and Nationality.
 
-Section 503(b) of div. C of Pub. L. 104–208 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to benefits for which applications are filed on or after the first day of the first month that begins at least 60 days after the date of the enactment of this Act \[Sept. 30, 1996\].”
+Pub. L. 104–208, div. C, title V, §503(b), Sept. 30, 1996, 110 Stat. 3009–671, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to benefits for which applications are filed on or after the first day of the first month that begins at least 60 days after the date of the enactment of this Act \[Sept. 30, 1996\].”
 
-Section 104(a)(2) of Pub. L. 104–121 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to benefits of individuals who become entitled to such benefits for months after the third month following the month in which this Act is enacted \[March 1996\].”
+Pub. L. 104–121, title I, §104(a)(2), Mar. 29, 1996, 110 Stat. 851, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to benefits of individuals who become entitled to such benefits for months after the third month following the month in which this Act is enacted \[March 1996\].”
 
-Section 104(b)(3) of Pub. L. 104–121 provided that:
+Pub. L. 104–121, title I, §104(b)(3), Mar. 29, 1996, 110 Stat. 852, provided that:
 
 “(A) The amendments made by paragraph (1) \[amending this section\] shall apply with respect to final divorces occurring after the third month following the month in which this Act is enacted \[March 1996\].
 
 “(B) The amendment made by paragraph (2) \[amending this section\] shall take effect on the date of the enactment of this Act \[Mar. 29, 1996\].”
 
-#### Effective Date of 1994 Amendments
+#### Effective Date of 1994 Amendment
 
-Section 4(b) of Pub. L. 103–387 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to benefits for months commencing after 90 days after the date of the enactment of this Act \[Oct. 22, 1994\].”
+Pub. L. 103–387, §4(b), Oct. 22, 1994, 108 Stat. 4076, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to benefits for months commencing after 90 days after the date of the enactment of this Act \[Oct. 22, 1994\].”
 
 Amendment by section 107(a)(4) of Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of this title.
 
-Section 308(c) of Pub. L. 103–296 provided that: “The amendments made by this section \[amending this section and section 415 of this title\] shall apply (notwithstanding section 215(f) of the Social Security Act \[section 415(f) of this title\]) with respect to benefits payable for months after December 1994.”
+Pub. L. 103–296, title III, §308(c), Aug. 15, 1994, 108 Stat. 1523, provided that: “The amendments made by this section \[amending this section and section 415 of this title\] shall apply (notwithstanding section 215(f) of the Social Security Act \[section 415(f) of this title\]) with respect to benefits payable for months after December 1994.”
 
-Section 321(b)(1) of Pub. L. 103–296 provided that the amendment made by that section is effective as if included in section 603(b)(5)(A) of Pub. L. 101–649.
+Pub. L. 103–296, title III, §321(b)(1), Aug. 15, 1994, 108 Stat. 1537, provided that the amendment made by that section is effective as if included in section 603(b)(5)(A) of Pub. L. 101–649.
 
-#### Effective Date of 1990 Amendments
+#### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–649 not applicable to deportation proceedings for which notice has been provided to the alien before Mar. 1, 1991, see section 602(d) of Pub. L. 101–649, set out as a note under section 1227 of Title 8, Aliens and Nationality.
 
-Section 5103(e) of Pub. L. 101–508 provided that:
+Pub. L. 101–508, title V, §5103(e), Nov. 5, 1990, 104 Stat. 1388–253, provided that:
 
 “(1)
 
@@ -2326,35 +2326,35 @@ Application requirements for certain individuals on benefit rolls.—In the case
 
 > for purposes of determining such individual's entitlement to such benefits under subsection (e) or (f) of section 202 of the Social Security Act for months after December 1990, the requirement of paragraph (1)(C)(i) of such subsection shall be deemed to have been met.”
 
-Section 5116(b) of Pub. L. 101–508 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to applications for benefits filed on or after January 1, 1991.”
+Pub. L. 101–508, title V, §5116(b), Nov. 5, 1990, 104 Stat. 1388–274, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to applications for benefits filed on or after January 1, 1991.”
 
 #### Effective Date of 1989 Amendment
 
-Section 10203(b) of Pub. L. 101–239 provided that: “The amendments made by this section \[amending this section\] shall apply—
+Pub. L. 101–239, title X, §10203(b), Dec. 19, 1989, 103 Stat. 2473, provided that: “The amendments made by this section \[amending this section\] shall apply—
 
 &emsp;“(1) in the case of any individual's old-age insurance benefit referred to in section 202(q)(3)(E) of the Social Security Act \[subsec. (q)(3)(E) of this section\] (as in effect before the amendments made by this section), only if such individual attains age 62 on or after January 1, 1990, and
 
 &emsp;“(2) in the case of any individual's disability insurance benefit referred to in section 202(q)(3)(F) or (G) of such Act (as so in effect), only if such individual both attains age 62 and becomes disabled on or after such date.”
 
-Section 10301(c) of Pub. L. 101–239 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to benefits payable for months after December 1989, but only on the basis of applications filed on or after January 1, 1990.”
+Pub. L. 101–239, title X, §10301(c), Dec. 19, 1989, 103 Stat. 2481, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to benefits payable for months after December 1989, but only on the basis of applications filed on or after January 1, 1990.”
 
-Section 10302(a)(2) of Pub. L. 101–239 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to misinformation furnished after December 1982 and to benefits for months after December 1982.”
+Pub. L. 101–239, title X, §10302(a)(2), Dec. 19, 1989, 103 Stat. 2482, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to misinformation furnished after December 1982 and to benefits for months after December 1982.”
 
 #### Effective Date of 1988 Amendment
 
-Section 8004(c) of Pub. L. 100–647 provided that: “The amendments made by this section \[amending this section\] shall apply only in the case of deportations occurring, and final orders of deportation issued, on or after the date of enactment of this Act \[Nov. 10, 1988\], andonly to benefits for months beginning (and deaths occurring) on or after such date.”
+Pub. L. 100–647, title VIII, §8004(c), Nov. 10, 1988, 102 Stat. 3780, provided that: “The amendments made by this section \[amending this section\] shall apply only in the case of deportations occurring, and final orders of deportation issued, on or after the date of enactment of this Act \[Nov. 10, 1988\], and only to benefits for months beginning (and deaths occurring) on or after such date.”
 
 Amendment by section 8007(b) of Pub. L. 100–647 applicable to benefits paid for (and items and services furnished in) months after December 1988, see section 8007(d) of Pub. L. 100–647, set out as a note under section 1402 of Title 26, Internal Revenue Code.
 
-Section 8010(c) of Pub. L. 100–647 provided that: “The amendments made by this section \[amending this section\] shall apply to benefits payable under section 202(e) or section 202(f) of the Social Security Act \[subsec. (e) or (f) of this section\] on the basis of the wages and self-employment income of an individual who dies after the month in which this Act is enacted \[Nov. 10, 1988\].”
+Pub. L. 100–647, title VIII, §8010(c), Nov. 10, 1988, 102 Stat. 3789, provided that: “The amendments made by this section \[amending this section\] shall apply to benefits payable under section 202(e) or section 202(f) of the Social Security Act \[subsec. (e) or (f) of this section\] on the basis of the wages and self-employment income of an individual who dies after the month in which this Act is enacted \[Nov. 10, 1988\].”
 
-Section 8014(c) of Pub. L. 100–647 provided that: “The preceding provisions of this section (including the amendments made by subsection (a)) \[amending this section and enacting provisions set out below\] shall apply as if they had been included or reflected in the provisions of section 9007 of the Omnibus Budget Reconciliation Act of 1987 (101 Stat. 1330–289) \[Pub. L. 100–203, amending this section and enacting provisions set out below\] at the time of its enactment \[Dec. 22, 1987\].”
+Pub. L. 100–647, title VIII, §8014(c), Nov. 10, 1988, 102 Stat. 3790, provided that: “The preceding provisions of this section (including the amendments made by subsection (a)) \[amending this section and enacting provisions set out below\] shall apply as if they had been included or reflected in the provisions of section 9007 of the Omnibus Budget Reconciliation Act of 1987 (101 Stat. 1330–289) \[Pub. L. 100–203, amending this section and enacting provisions set out below\] at the time of its enactment \[Dec. 22, 1987\].”
 
 #### Effective Date of 1987 Amendment
 
-Section 9007(f) of Pub. L. 100–203 provided that: “The amendments made by this section \[amending this section\] shall apply only with respect to benefits for months after December 1987; except that nothing in such amendments shall affect any exemption (from the application of the pension offset provisions contained in subsection (b)(4), (c)(2), (e)(7), (f)(2), or (g)(4) of section 202 of the Social Security Act \[this section\]) which any individual may have by reason of subsection (g) or (h) of section 334 of the Social Security Amendments of 1977 \[section 334(g), (h) of Pub. L. 95–216, set out as notes below\].”
+Pub. L. 100–203, title IX, §9007(f), Dec. 22, 1987, 101 Stat. 1330–292, provided that: “The amendments made by this section \[amending this section\] shall apply only with respect to benefits for months after December 1987; except that nothing in such amendments shall affect any exemption (from the application of the pension offset provisions contained in subsection (b)(4), (c)(2), (e)(7), (f)(2), or (g)(4) of section 202 of the Social Security Act \[this section\]) which any individual may have by reason of subsection (g) or (h) of section 334 of the Social Security Amendments of 1977 \[section 334(g), (h) of Pub. L. 95–216, set out as notes below\].”
 
-Section 9010(f) of Pub. L. 100–203 provided that: “The amendments made by this section \[amending this section and sections 416, 423, and 426 of this title\] shall take effect January 1, 1988, and shall apply with respect to—
+Pub. L. 100–203, title IX, §9010(f), Dec. 22, 1987, 101 Stat. 1330–294, provided that: “The amendments made by this section \[amending this section and sections 416, 423, and 426 of this title\] shall take effect January 1, 1988, and shall apply with respect to—
 
 &emsp;“(1) individuals who are entitled to benefits which are payable under subsection (d)(1)(B)(ii), (d)(6)(A)(ii), (d)(6)(B), (e)(1)(B)(ii), or (f)(1)(B)(ii) of section 202 of the Social Security Act \[this section\] or subsection (a)(1) of section 223 of such Act \[section 423 of this title\] for any month after December 1987, and
 
@@ -2362,11 +2362,11 @@ Section 9010(f) of Pub. L. 100–203 provided that: “The amendments made by th
 
 #### Effective Date of 1986 Amendments
 
-Section 1883(f) of Pub. L. 99–514 provided that: “Except as otherwise provided in this section, the amendments made by this section \[amending this section and sections 410, 411, 415, 418, 421, 423, 602, 657, 658, 664, 674, 1301, 1320b–6, 1382a, 1383, and 1397b of this title and sections 1402 and 3121 of Title 26, Internal Revenue Code, repealing section 1397f of this title, enacting provisions set out as notes under sections 602 and 678 of this title, and amending provisions set out as a note under section 410 of this title\] shall take effect on the date of the enactment of this Act \[Oct. 22, 1986\].”
+Pub. L. 99–514, title XVIII, §1883(f), Oct. 22, 1986, 100 Stat. 2919, provided that: “Except as otherwise provided in this section, the amendments made by this section \[amending this section and sections 410, 411, 415, 418, 421, 423, 602, 657, 658, 664, 674, 1301, 1320b–6, 1382a, 1383, and 1397b of this title and sections 1402 and 3121 of Title 26, Internal Revenue Code, repealing section 1397f of this title, enacting provisions set out as notes under sections 602 and 678 of this title, and amending provisions set out as a note under section 410 of this title\] shall take effect on the date of the enactment of this Act \[Oct. 22, 1986\].”
 
-Section 12104(b) of Pub. L. 99–272 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to benefits for which application is filed after the date of the enactment of this Act \[Apr. 7, 1986\].”
+Pub. L. 99–272, title XII, §12104(b), Apr. 7, 1986, 100 Stat. 285, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to benefits for which application is filed after the date of the enactment of this Act \[Apr. 7, 1986\].”
 
-Section 12107(c) of Pub. L. 99–272 provided that: “The amendments made by this section \[amending this section and section 423 of this title\] are effective December 1, 1980, and shall apply with respect to any individual who is under a disability (as defined in section 223(d) of the Social Security Act \[section 423(d) of this title\]) on or after that date.”
+Pub. L. 99–272, title XII, §12107(c), Apr. 7, 1986, 100 Stat. 286, provided that: “The amendments made by this section \[amending this section and section 423 of this title\] are effective December 1, 1980, and shall apply with respect to any individual who is under a disability (as defined in section 223(d) of the Social Security Act \[section 423(d) of this title\]) on or after that date.”
 
 #### Effective Date of 1984 Amendment
 
@@ -2376,71 +2376,71 @@ Amendment by section 2663(a)(2) of Pub. L. 98–369 effective July 18, 1984, but
 
 #### Effective Date of 1983 Amendments
 
-Section 111(a)(8) of Pub. L. 98–21 provided that: “The amendments made by this subsection \[amending this section and sections 403, 415, and 430 of this title\] shall apply with respect to cost-of-living increases determined under section 215(i) of the Social Security Act \[section 415(i) of this title\] for years after 1982.”
+Pub. L. 98–21, title I, §111(a)(8), Apr. 20, 1983, 97 Stat. 72, provided that: “The amendments made by this subsection \[amending this section and sections 403, 415, and 430 of this title\] shall apply with respect to cost-of-living increases determined under section 215(i) of the Social Security Act \[section 415(i) of this title\] for years after 1982.”
 
-Section 114(c)(2) of Pub. L. 98–21 provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply with respect to increment months in calendar years after 1983.”
+Pub. L. 98–21, title I, §114(c)(2), Apr. 20, 1983, 97 Stat. 79, provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply with respect to increment months in calendar years after 1983.”
 
-Section 131(d) of Pub. L. 98–21 provided that:
+Pub. L. 98–21, title I, §131(d), Apr. 20, 1983, 97 Stat. 93, provided that:
 
 “(1) The amendments made by this section \[amending this section and section 426 of this title\] shall be effective with respect to monthly benefits payable under title II of the Social Security Act \[this subchapter\] for months after December 1983.
 
 “(2) In the case of an individual who was not entitled to a monthly benefit of the type involved under title II of such Act for December 1983, no benefit shall be paid under such title by reason of such amendments unless proper application for such benefit is made.”
 
-Section 132(c)(1) of Pub. L. 98–21 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to monthly insurance benefits for months after December 1984, but only on the basis of applications filed on or after January 1, 1985.”
+Pub. L. 98–21, title I, §132(c)(1), Apr. 20, 1983, 97 Stat. 95, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to monthly insurance benefits for months after December 1984, but only on the basis of applications filed on or after January 1, 1985.”
 
-Section 133(c) of Pub. L. 98–21 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to monthly insurance benefits for months after December 1984 for individuals who first meet all criteria for entitlement to benefits under section 202(e) or (f) of the Social Security Act \[subsec. (e) or (f) of this section\] (other than making application for such benefits) after December 1984.”
+Pub. L. 98–21, title I, §133(c), Apr. 20, 1983, 97 Stat. 97, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to monthly insurance benefits for months after December 1984 for individuals who first meet all criteria for entitlement to benefits under section 202(e) or (f) of the Social Security Act \[subsec. (e) or (f) of this section\] (other than making application for such benefits) after December 1984.”
 
-Section 134(c) of Pub. L. 98–21 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to benefits for months after December 1983.”
+Pub. L. 98–21, title I, §134(c), Apr. 20, 1983, 97 Stat. 98, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to benefits for months after December 1983.”
 
-Section 301(a)(5) of Pub. L. 98–21, as amended by Pub. L. 98–369, div. B, title VI, §2662(d), July 18, 1984, 98 Stat. 1159, provided that the amendment made by that section is effective with respect to monthly insurance benefits for months after December 1984 (but only on the basis of applications filed on or after January 1, 1985).
+Pub. L. 98–21, title III, §301(a)(5), Apr. 20, 1983, 97 Stat. 110, as amended by Pub. L. 98–369, div. B, title VI, §2662(d), July 18, 1984, 98 Stat. 1159, provided that the amendment made by that section is effective with respect to monthly insurance benefits for months after December 1984 (but only on the basis of applications filed on or after January 1, 1985).
 
-Section 307(b) of Pub. L. 98–21 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to benefits under title II of the Social Security Act \[this subchapter\] for months after the month in which this Act is enacted \[April 1983\], but only in cases in which the ‘last month’ referred to in the provision amended is a month after the month in which this Act is enacted.”
+Pub. L. 98–21, title III, §307(b), Apr. 20, 1983, 97 Stat. 115, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to benefits under title II of the Social Security Act \[this subchapter\] for months after the month in which this Act is enacted \[April 1983\], but only in cases in which the ‘last month’ referred to in the provision amended is a month after the month in which this Act is enacted.”
 
-Section 310 of title III of Pub. L. 98–21 provided that:
+Pub. L. 98–21, title III, §310, Apr. 20, 1983, 97 Stat. 117, provided that:
 
 “(a) Except as otherwise specifically provided in this title, the amendments made by this part \[part A (§§301–310) of title III of Pub. L. 98–21, amending this section and sections 403, 405, 416, 417, 422, 423, 425, 426, 427, and 428 of this title\] apply only with respect to monthly benefits payable under title II of the Social Security Act \[this subchapter\] for months after the month in which this Act is enacted \[April 1983\].
 
 “(b) Nothing in any amendment made by this part shall be construed as affecting the validity of any benefit which was paid, prior to the effective date of such amendment, as a result of a judicial determination.”
 
-Section 334(b) of Pub. L. 98–21 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to survivors whose applications for monthly benefits are filed after the second month following the month in which this Act is enacted \[April 1983\].”
+Pub. L. 98–21, title III, §334(b), Apr. 20, 1983, 97 Stat. 130, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to survivors whose applications for monthly benefits are filed after the second month following the month in which this Act is enacted \[April 1983\].”
 
-Section 337(b) of Pub. L. 98–21, as amended by Pub. L. 98–617, §2(a)(1), Nov. 8, 1984, 98 Stat. 3294, provided that: “The amendments made by subsection (a) of this section \[amending this section\] shall apply only with respect to monthly insurance benefits payable under title II of the Social Security Act \[this subchapter\] for months after June 1983.”
+Pub. L. 98–21, title III, §337(b), Apr. 20, 1983, 97 Stat. 131, as amended by Pub. L. 98–617, §2(a)(1), Nov. 8, 1984, 98 Stat. 3294, provided that: “The amendments made by subsection (a) of this section \[amending this section\] shall apply only with respect to monthly insurance benefits payable under title II of the Social Security Act \[this subchapter\] for months after June 1983.”
 
-\[Section 2(a)(2) of Pub. L. 98–617 provided that: “The amendments made by this subsection \[amending section 337(b) of Pub. L. 98–21, set out above\] shall apply to benefits payable under title II of the Social Security Act \[this subchapter\] for months beginning after the month of enactment of this Act \[November 1984\].”\]
+\[Pub. L. 98–617, §2(a)(2), Nov. 8, 1984, 98 Stat. 3294, provided that: “The amendments made by this subsection \[amending section 337(b) of Pub. L. 98–21, set out above\] shall apply to benefits payable under title II of the Social Security Act \[this subchapter\] for months beginning after the month of enactment of this Act \[November 1984\].”\]
 
-Section 339(c) of Pub. L. 98–21 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 423 of this title\] shall apply with respect to monthly benefits payable for months beginning on or after the date of enactment of this Act \[Apr. 20, 1983\].”
+Pub. L. 98–21, title III, §339(c), Apr. 20, 1983, 97 Stat. 134, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 423 of this title\] shall apply with respect to monthly benefits payable for months beginning on or after the date of enactment of this Act \[Apr. 20, 1983\].”
 
-Section 340(c) of Pub. L. 98–21 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to any individual who initially becomes eligible for benefits under section 202 or 223 \[this section or section 423 of this title\] after December 31, 1984.”
+Pub. L. 98–21, title III, §340(c), Apr. 20, 1983, 97 Stat. 135, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to any individual who initially becomes eligible for benefits under section 202 or 223 \[this section or section 423 of this title\] after December 31, 1984.”
 
-Section 7(d) of Pub. L. 97–455 provided that: “The amendments made by subsections (a) \[enacting and amending provisions set out as notes under this section\] and (c) \[amending this section\] of this section shall be effective with respect to monthly insurance benefits for months after November 1982.”
+Pub. L. 97–455, §7(d), Jan. 12, 1983, 96 Stat. 2502, provided that: “The amendments made by subsections (a) \[enacting and amending provisions set out as notes under this section\] and (c) \[amending this section\] of this section shall be effective with respect to monthly insurance benefits for months after November 1982.”
 
 #### Effective Date of 1981 Amendments
 
 Amendment by section 2201(b)(10), (11), (d)(1), (2) of Pub. L. 97–35 and amendment by section 2(e) of Pub. L. 97–123 applicable with respect to benefits for months after December 1981, and amendment by section 2201(f) of Pub. L. 97–35 applicable with respect to deaths occurring after December 1981, with certain exceptions, see section 2(j)(2)–(4) of Pub. L. 97–123, set out as a note under section 415 of this title.
 
-Section 2202(b) of Pub. L. 97–35 provided that: “The amendments made by subsection (a) \[amending this section and section 416 of this title\] shall apply only with respect to deaths occurring after August 1981.”
+Pub. L. 97–35, title XXII, §2202(b), Aug. 13, 1981, 95 Stat. 835, provided that: “The amendments made by subsection (a) \[amending this section and section 416 of this title\] shall apply only with respect to deaths occurring after August 1981.”
 
-Section 2203(f)(1), (2) of Pub. L. 97–35 provided that:
+Pub. L. 97–35, title XXII, §2203(f)(1), (2), Aug. 13, 1981, 95 Stat. 837, provided that:
 
 “(1) The amendments made by subsections (a), (b), and (c) \[amending this section and section 416 of this title\] of this section shall apply only to monthly insurance benefits payable to individuals who attain age 62 after August 1981.
 
 “(2) The amendments made by subsection (d) of this section \[amending this section and section 416 of this title\] shall apply to monthly insurance benefits for months after August 1981, and only in the case of individuals who were not entitled to such insurance benefits for August 1981 or any preceding month.”
 
-Section 2205(b) of Pub. L. 97–35 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to wife's and mother's insurance benefits for months after the month in which this Act is enacted \[August 1981\], except that, in the case of an individual who is entitled to such a benefit (on the basis of having a child in her care) for the month in which this Act is enacted \[August 1981\], such amendments shall not take effect until the first day of the first month which begins 2 years or more after the date of the enactment of this Act \[Aug. 13, 1981\].”
+Pub. L. 97–35, title XXII, §2205(b), Aug. 13, 1981, 95 Stat. 837, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to wife's and mother's insurance benefits for months after the month in which this Act is enacted \[August 1981\], except that, in the case of an individual who is entitled to such a benefit (on the basis of having a child in her care) for the month in which this Act is enacted \[August 1981\], such amendments shall not take effect until the first day of the first month which begins 2 years or more after the date of the enactment of this Act \[Aug. 13, 1981\].”
 
-Section 2206(c) of Pub. L. 97–35 provided that: “The amendments made by this section \[amending this section and sections 403 and 415 of this title\] shall apply only with respect to initial calculations and adjustments of primary insurance amounts and benefit amounts which are attributable to periods after August 1981.”
+Pub. L. 97–35, title XXII, §2206(c), Aug. 13, 1981, 95 Stat. 838, provided that: “The amendments made by this section \[amending this section and sections 403 and 415 of this title\] shall apply only with respect to initial calculations and adjustments of primary insurance amounts and benefit amounts which are attributable to periods after August 1981.”
 
-Section 2210(b) of Pub. L. 97–35 provided that: “Except as provided in subsection (c) \[section 2210(c) of Pub. L. 97–35, set out below\], the amendments made by subsection (a) \[amending this section\] shall apply to child's insurance benefits under section 202(d) of the Social Security Act \[subsec. (d) of this section\] for months after July 1982.”
+Pub. L. 97–35, title XXII, §2210(b), Aug. 13, 1981, 95 Stat. 842, provided that: “Except as provided in subsection (c) \[section 2210(c) of Pub. L. 97–35, set out below\], the amendments made by subsection (a) \[amending this section\] shall apply to child's insurance benefits under section 202(d) of the Social Security Act \[subsec. (d) of this section\] for months after July 1982.”
 
 #### Effective Date of 1980 Amendments
 
-Section 1011(b) of Pub. L. 96–499 provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective with respect to applications filed on or after the first day of the first month which begins 60 days or more after the date of the enactment of this Act \[Dec. 5, 1980\].”
+Pub. L. 96–499, title X, §1011(b), Dec. 5, 1980, 94 Stat. 2656, provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective with respect to applications filed on or after the first day of the first month which begins 60 days or more after the date of the enactment of this Act \[Dec. 5, 1980\].”
 
-Section 5(d) of Pub. L. 96–473 provided that: “The amendments made by this section \[amending this section and sections 416 and 423 of this title\] shall be effective with respect to benefits payable for months beginning on or after October 1, 1980.”
+Pub. L. 96–473, §5(d), Oct. 19, 1980, 94 Stat. 2265, provided that: “The amendments made by this section \[amending this section and sections 416 and 423 of this title\] shall be effective with respect to benefits payable for months beginning on or after October 1, 1980.”
 
-Section 303(d) of Pub. L. 96–265 provided that: “The amendments made by this section \[amending this section and sections 416, 422, 423, 1382, and 1382c of this title\] shall become effective on the first day of the sixth month which begins after the date of the enactment of this Act \[June 9, 1980\], and shall apply with respect to any individual whose disability has not been determined to have ceased prior to such first day.”
+Pub. L. 96–265, title III, §303(d), June 9, 1980, 94 Stat. 453, provided that: “The amendments made by this section \[amending this section and sections 416, 422, 423, 1382, and 1382c of this title\] shall become effective on the first day of the sixth month which begins after the date of the enactment of this Act \[June 9, 1980\], and shall apply with respect to any individual whose disability has not been determined to have ceased prior to such first day.”
 
-Section 306(d) of Pub. L. 96–265 provided that: “The amendments made by this section \[amending this section and sections 416 and 423 of this title\] shall apply to applications filed after the month in which this Act is enacted \[June 1980\].”
+Pub. L. 96–265, title III, §306(d), June 9, 1980, 94 Stat. 458, provided that: “The amendments made by this section \[amending this section and sections 416 and 423 of this title\] shall apply to applications filed after the month in which this Act is enacted \[June 1980\].”
 
 #### Effective Date of 1978 Amendment
 
@@ -2448,113 +2448,113 @@ Amendment by Pub. L. 95–600 effective Oct. 4, 1976, see section 703(r) of Pub.
 
 #### Effective Date of 1977 Amendment
 
-Section 206 of title II of Pub. L. 95–216 provided that: “The amendments made by the provisions of this title other than sections 201(d), 204, and 205(a) \[amending this section and sections 403, 415, 417, 424a, and 1395r of this title\] shall be effective with respect to monthly benefits under title II of the Social Security Act \[this subchapter\] payable for months after December 1978 and with respect to lump-sum death payments with respect to deaths occurring after such month. The amendments made by section 201(d) \[amending section 415 of this title\] shall be effective with respect to monthly benefits of an individual who becomes eligible for an old-age or disability insurance benefit, or dies, after December 1977. The amendments made by section 204 \[amending this section and section 403 of this title\] shall be effective with respect to monthly benefits for months after May 1978. The amendment made by section 205(a) \[amending this section\] shall be effective with respect to monthly benefits payable for months after December 1978 based on the wages and self-employment income of individuals who die after December 1978.”
+Pub. L. 95–216, title II, §206, Dec. 20, 1977, 91 Stat. 1529, provided that: “The amendments made by the provisions of this title other than sections 201(d), 204, and 205(a) \[amending this section and sections 403, 415, 417, 424a, and 1395r of this title\] shall be effective with respect to monthly benefits under title II of the Social Security Act \[this subchapter\] payable for months after December 1978 and with respect to lump-sum death payments with respect to deaths occurring after such month. The amendments made by section 201(d) \[amending section 415 of this title\] shall be effective with respect to monthly benefits of an individual whobecomes eligible for an old-age or disability insurance benefit, or dies, after December 1977. The amendments made by section 204 \[amending this section and section 403 of this title\] shall be effective with respect to monthly benefits for months after May 1978. The amendment made by section 205(a) \[amending this section\] shall be effective with respect to monthly benefits payable for months after December 1978 based on the wages and self-employment income of individuals who die after December 1978.”
 
-Section 331(d) of Pub. L. 95–216 provided that: “The amendments made by this section \[amending this section\] shall be effective with respect to monthly benefits payable for months after December 1977.”
+Pub. L. 95–216, title III, §331(d), Dec. 20, 1977, 91 Stat. 1542, provided that: “The amendments made by this section \[amending this section\] shall be effective with respect to monthly benefits payable for months after December 1977.”
 
-Section 332(b) of Pub. L. 95–216 provided that: “The amendments made by subsection (a) \[amending this section and section 426 of this title\] shall be effective with respect to monthly insurance benefits under title II of the Social Security Act \[this subchapter\] to which an individual becomes entitled on the basis of an application filed on or after January 1, 1978.”
+Pub. L. 95–216, title III, §332(b), Dec. 20, 1977, 91 Stat. 1543, provided that: “The amendments made by subsection (a) \[amending this section and section 426 of this title\] shall be effective with respect to monthly insurance benefits under title II of the Social Security Act \[this subchapter\] to which an individual becomes entitled on the basis of an application filed on or after January 1, 1978.”
 
-Section 334(f) of Pub. L. 95–216 as amended by section 7(a)(2) of Pub. L. 97–455, provided that: “Subject to subsections (g) and (h) \[section 334(g) and (h) of Pub. L. 95–216, set out as notes below\], the amendments made by this section \[amending this section and section 426 of this title and enacting provisions set out as notes under this section\] shall apply with respect to monthly insurance benefits payable under title II of the Social Security Act \[this subchapter\] for months beginning with the month in which this Act is enacted \[December 1977\], on the basis of applications filed in or after the month in which this Act is enacted.”
+Pub. L. 95–216, title III, §334(f), Dec. 20, 1977, 91 Stat. 1546, as amended by Pub. L. 97–455, §7(a)(2), Jan. 12, 1983, 96 Stat. 2501, provided that: “Subject to subsections (g) and (h) \[section 334(g) and (h) of Pub. L. 95–216, set out as notes below\], the amendments made by this section \[amending this section and section 426 of this title and enacting provisions set out as notes under this section\] shall apply with respect to monthly insurance benefits payable under title II of the Social Security Act \[this subchapter\] for months beginning with the month in which this Act is enacted \[December 1977\], on the basis of applications filed in or after the month in which this Act is enacted.”
 
-Section 336(c)(1) of Pub. L. 95–216 provided that: “The amendments made by this section \[amending this section\] shall apply only with respect to monthly benefits payable under title II of the Social Security Act \[this subchapter\] for months after December 1978, and, in the case of individuals who are not entitled to benefits of the type involved for December 1978, only on the basis of applications filed on or after January 1, 1979.”
+Pub. L. 95–216, title III, §336(c)(1), Dec. 20, 1977, 91 Stat. 1547, provided that: “The amendments made by this section \[amending this section\] shall apply only with respect to monthly benefits payable under title II of the Social Security Act \[this subchapter\] for months after December 1978, and, in the case of individuals who are not entitled to benefits of the type involved for December 1978, only on the basis of applications filed on or after January 1, 1979.”
 
-Section 337(c) of Pub. L. 95–216 provided that: “The amendments made by this section \[amending this section and section 416 of this title\] shall apply with respect to monthly benefits payable under title II of the Social Security Act \[this subchapter\] for months after December 1978, and, in the case of individuals who are not entitled to benefits of the type involved for December 1978, only on the basis of applications filed on or after January 1, 1979.”
+Pub. L. 95–216, title III, §337(c), Dec. 20, 1977, 91 Stat. 1548, provided that: “The amendments made by this section \[amending this section and section 416 of this title\] shall apply with respect to monthly benefits payable under title II of the Social Security Act \[this subchapter\] for months after December 1978, and, in the case of individuals who are not entitled to benefits of the type involved for December 1978, only on the basis of applications filed on or after January 1, 1979.”
 
-Section 353(f)(1) of Pub. L. 95–216 provided that the amendment made by that section is effective with respect to convictions after Dec. 31, 1977.
+Pub. L. 95–216, title III, §353(f)(1), Dec. 20, 1977, 91 Stat. 1554, provided that the amendment made by that section is effective with respect to convictions after Dec. 31, 1977.
 
 #### Effective Date of 1974 Amendment
 
-Section 603 of Pub. L. 93–445 provided that: “The provision of title II of this Act \[set out as a note under section 231 of Title 45, Railroads\] and the amendments made by title III and title IV of this Act \[amending this section and sections 405, 410, 416, 426, 1395s, 1395u, 1395v, 1395gg, and 1395kk of this title and sections 352, 354, 360, 361, and 362 of Title 45\] shall become effective on January 1, 1975.”
+Pub. L. 93–445, title VI, §603, Oct. 16, 1974, 88 Stat. 1361, provided that: “The provision of title II of this Act \[set out as a note under section 231 of Title 45, Railroads\] and the amendments made by title III and title IV of this Act \[amending this section and sections 405, 410, 416, 426, 1395s, 1395u, 1395v, 1395gg, and 1395kk of this title and sections 352, 354, 360, 361, and 362 of Title 45\] shall become effective on January 1, 1975.”
 
 #### Effective Date of 1973 Amendment
 
-Section 240(b) of Pub. L. 93–66 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to monthly benefits payable under title II of the Social Security Act \[this subchapter\] for months after the month in which this Act is enacted \[July 1973\] on the basis of applications for such benefits filed in or after the month in which this Act is enacted.”
+Pub. L. 93–66, title II, §240(b), July 9, 1973, 87 Stat. 161, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to monthly benefits payable under title II of the Social Security Act \[this subchapter\] for months after the month in which this Act is enacted \[July 1973\] on the basis of applications for such benefits filed in or after the month in which this Act is enacted.”
 
 #### Effective Date of 1972 Amendment
 
-Section 102(i) of Pub. L. 92–603 provided that: “The amendments made by this section \[amending this section and section 403 of this title and enacting provisions set out as notes under this section\] shall apply with respect to monthly benefits under title II of the Social Security Act \[this subchapter\] for months after December 1972.”
+Pub. L. 92–603, title I, §102(i), Oct. 30, 1972, 86 Stat. 1339, provided that: “The amendments made by this section \[amending this section and section 403 of this title and enacting provisions set out as notes under this section\] shall apply with respect to monthly benefits under title II of the Social Security Act \[this subchapter\] for months after December 1972.”
 
-Section 103(d) of Pub. L. 92–603 provided that: “The amendments made by this section \[amending this section and section 403 of this title\] shall be applicable with respect to old-age insurance benefits payable under title II of the Social Security Act \[this subchapter\] for months beginning after 1972.”
+Pub. L. 92–603, title I, §103(d), Oct. 30, 1972, 86 Stat. 1340, provided that: “The amendments made by this section \[amending this section and section 403 of this title\] shall be applicable with respect to old-age insurance benefits payable under title II of the Social Security Act \[this subchapter\] for months beginning after 1972.”
 
-Section 107(c) of Pub. L. 92–603 provided that: “The amendments made by this section \[amending this section and sections 403, 422, and 425 of this title\] shall apply with respect to monthly benefits under title II of the Social Security Act \[this subchapter\] for months after December 1972, except that in the case of an individual who was not entitled to a monthly benefit under title II of such Act for December 1972 such amendments shall apply only on the basis of an application filed in or after the month in which this Act is enacted \[October 1972\].”
+Pub. L. 92–603, title I, §107(c), Oct. 30, 1972, 86 Stat. 1343, provided that: “The amendments made by this section \[amending this section and sections 403, 422, and 425 of this title\] shall apply with respect to monthly benefits under title II of the Social Security Act \[this subchapter\] for months after December 1972, except that in the case of an individual who was not entitled to a monthly benefit under title II of such Act for December 1972 such amendments shall apply only on the basis of an application filed in or after the month in which this Act is enacted \[October 1972\].”
 
-Section 108(f) of Pub. L. 92–603 provided that: “The amendments made by this section \[amending this section\] shall apply only with respect to monthly benefits under section 202 of the Social Security Act \[this section\] for months after December 1972 except that in the case of an individual who was not entitled to a monthly benefit under such section 202 for December 1972 such amendments shall apply only on the basis of an application filed after September 30, 1972.”
+Pub. L. 92–603, title I, §108(f), Oct. 30, 1972, 86 Stat. 1344, provided that: “The amendments made by this section \[amending this section\] shall apply only with respect to monthly benefits under section 202 of the Social Security Act \[this section\] for months after December 1972 except that in the case of an individual who was not entitled to a monthly benefit under such section 202 for December 1972 such amendments shall apply only on the basis of an application filed after September 30, 1972.”
 
-Section 109(b) of Pub. L. 92–603 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply only with respect to benefits payable under title II of the Social Security Act \[this subchapter\] for months after December 1972.”
+Pub. L. 92–603, title I, §109(b), Oct. 30, 1972, 86 Stat. 1345, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply only with respect to benefits payable under title II of the Social Security Act \[this subchapter\] for months after December 1972.”
 
-Section 110(b) of Pub. L. 92–603 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply only with respect to monthly benefits under title II of the Social Security Act \[this subchapter\] for months after December 1972.”
+Pub. L. 92–603, title I, §110(b), Oct. 30, 1972, 86 Stat. 1346, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply only with respect to monthly benefits under title II of the Social Security Act \[this subchapter\] for months after December 1972.”
 
-Section 111(b) of Pub. L. 92–603 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to monthly benefits payable under title II of the Social Security Act \[this subchapter\] for months after December 1967 on the basis of an application filed in or after the month in which this Act is enacted \[October 1972\], except that such amendments shall not apply with respect to benefits for any month before the month in which this Act is enacted unless such application is filed before the close of the sixth month after the month in which this Act is enacted.”
+Pub. L. 92–603, title I, §111(b), Oct. 30, 1972, 86 Stat. 1347, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to monthly benefits payable under title II of the Social Security Act \[this subchapter\] for months after December 1967 on the basis of an application filed in or after the month in which this Act is enacted \[October 1972\], except that such amendments shall not apply with respect to benefits for any month before the month in which this Act is enacted unless such application is filed before the close of the sixth month after the month in which this Act is enacted.”
 
-Section 112(b) of Pub. L. 92–603 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply only with respect to monthly benefits under title II of the Social Security Act \[this subchapter\] for months beginning with the month in which this Act is enacted \[October 1972\].”
+Pub. L. 92–603, title I, §112(b), Oct. 30, 1972, 86 Stat. 1347, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply only with respect to monthly benefits under title II of the Social Security Act \[this subchapter\] for months beginning with the month in which this Act is enacted \[October 1972\].”
 
-Section 113(c) of Pub. L. 92–603 provided that: “The amendments made by this section \[amending this section and section 416 of this title\] shall apply with respect to monthly benefits payable under title II of the Social Security Act \[this subchapter\] for months after December 1972, but only on the basis of applications filed on or after the date of the enactment of this Act \[Oct. 30, 1972\].”
+Pub. L. 92–603, title I, §113(c), Oct. 30, 1972, 86 Stat. 1348, provided that: “The amendments made by this section \[amending this section and section 416 of this title\] shall apply with respect to monthly benefits payable under title II of the Social Security Act \[this subchapter\] for months after December 1972, but only on the basis of applications filed on or after the date of the enactment of this Act \[Oct. 30, 1972\].”
 
-Section 114(d) of Pub. L. 92–603 provided that: “The amendments made by this section \[amending this section\] shall apply only with respect to benefits payable under title II of the Social Security Act \[this subchapter\] for months after December 1972 on the basis of applications filed on or after the date of enactment of this Act \[Oct. 30, 1972\].”
+Pub. L. 92–603, title I, §114(d), Oct. 30, 1972, 86 Stat. 1348, provided that: “The amendments made by this section \[amending this section\] shall apply only with respect to benefits payable under title II of the SocialSecurity Act \[this subchapter\] for months after December 1972 on the basis of applications filed on or after the date of enactment of this Act \[Oct. 30, 1972\].”
 
 Amendment by section 116(b), (c) of Pub. L. 92–603 effective with respect to applications for widow's and widower's insurance benefits based on disability under this section filed in or after October 1972 or before October 1972 under specified conditions, see section 116(e) of Pub. L. 92–603, set out as a note under section 423 of this title.
 
 #### Effective Date of 1971 Amendment
 
-Section 2 of Pub. L. 92–223 provided that: “The amendments made by the first section of this Act \[amending this section\] shall be effective only in the case of lump-sum death payments under title II of the Social Security Act \[this subchapter\] made with respect to deaths which occur after December 31, 1970.”
+Pub. L. 92–223, §2, Dec. 28, 1971, 85 Stat. 802, provided that: “The amendments made by the first section of this Act \[amending this section\] shall be effective only in the case of lump-sum death payments under title II of the Social Security Act \[this subchapter\] made with respect to deaths which occur after December 31, 1970.”
 
 #### Effective Date of 1969 Amendment
 
-Section 1004(d) of Pub. L. 91–172 provided that: “The amendments made by subsections (a), (b), and (c) \[amending this section\] shall apply with respect to monthly benefits under title II of the Social Security Act \[this subchapter\] for months after December 1969.”
+Pub. L. 91–172, title X, §1004(d), Dec. 30, 1969, 83 Stat. 741, provided that: “The amendments made by subsections (a), (b), and (c) \[amending this section\] shall apply with respect to monthly benefits under title II of the Social Security Act \[this subchapter\] for months after December 1969.”
 
 #### Effective Date of 1968 Amendment
 
-Section 103(e) of Pub. L. 90–248 provided that: “The amendments made by subsections (a), (b), (c), and (d) \[amending this section\] shall apply with respect to monthly benefits under title II of the Social Security Act \[this subchapter\] for months after January 1968.”
+Pub. L. 90–248, title I, §103(e), Jan. 2, 1968, 81 Stat. 828, provided that: “The amendments made by subsections (a), (b), (c), and (d) \[amending this section\] shall apply with respect to monthly benefits under title II of the Social Security Act \[this subchapter\] for months after January 1968.”
 
-Section 104(e) of Pub. L. 90–248 provided that: “The amendments made by this section \[amending this section and sections 403, 416, 422, and 425 of this title\] shall apply with respect to monthly benefits under title II of the Social Security Act \[this subchapter\] for and after the month of February 1968, but only on the basis of applications for such benefits filed in or after the month in which this Act is enacted \[January 1968\].”
+Pub. L. 90–248, title I, §104(e), Jan. 2, 1968, 81 Stat. 833, provided that: “The amendments made by this section \[amending this section and sections 403, 416, 422, and 425 of this title\] shall apply with respect to monthly benefits under title II of the Social Security Act \[this subchapter\] for and after the month of February 1968, but only on the basis of applications for such benefits filed in or after the month in which this Act is enacted \[January 1968\].”
 
-Section 112(b) of Pub. L. 90–248 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to monthly benefits payable under title II of the Social Security Act \[this subchapter\] for months after January 1968, but only on the basis of applications filed after the date of enactment of this Act \[Jan. 2, 1968\].”
+Pub. L. 90–248, title I, §112(b), Jan. 2, 1968, 81 Stat. 839, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to monthly benefits payable under title II of the Social Security Act \[this subchapter\] for months after January 1968, but only on the basis of applications filed after the date of enactment of this Act \[Jan. 2, 1968\].”
 
-Section 151(e) of Pub. L. 90–248 provided that: “The amendments made by this section \[amending this section and section 228e of Title 45, Railroads\] shall apply with respect to monthly benefits payable under title II of the Social Security Act \[this subchapter\] (and annuities accruing under the Railroad Retirement Act of 1937 \[section 228a et seq. of Title 45\]) for months after January 1968, but only on the basis of applications filed in or after the month in which this Act is enacted \[January 1968\].”
+Pub. L. 90–248, title I, §151(e), Jan. 2, 1968, 81 Stat. 860, provided that: “The amendments made by this section \[amending this section and section 228e of Title 45, Railroads\] shall apply with respect to monthly benefits payable under title II of the Social Security Act \[this subchapter\] (and annuities accruing under the Railroad Retirement Act of 1937 \[section 228a et seq. of Title 45\]) for months after January 1968, but only on the basis of applications filed in or after the month in which this Act is enacted \[January 1968\].”
 
-Section 157(d) of Pub. L. 90–248 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to monthly benefits payable under title II of the Social Security Act \[this subchapter\] for months after January 1968, but only on the basis of applications filed in or after the month in which this Act is enacted \[January 1968\].”
+Pub. L. 90–248, title I, §157(d), Jan. 2, 1968, 81 Stat. 867, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to monthly benefits payable under title II of the Social Security Act \[this subchapter\] for months after January 1968, but only on the basis of applications filed in or after the month in which this Act is enacted \[January 1968\].”
 
 Amendment by section 158(c)(1), (2) of Pub. L. 90–248, applicable with respect to applications for disability insurance benefits under section 423 of this title and to disability determinations under section 416(i) of this title, see section 158(e) of Pub. L. 90–248, set out as a note under section 423 of this title.
 
-Section 162(a)(2) of Pub. L. 90–248 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply only with respect to six-month periods (within the meaning of section 202(t)(1)(A) of the Social Security Act \[subsec. (t)(1)(A) of this section\]) which begin after the date of the enactment of this Act \[Jan. 2, 1968\].”
+Pub. L. 90–248, title I, §162(a)(2), Jan. 2, 1968, 81 Stat. 871, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply only with respect to six-month periods (within the meaning of section 202(t)(1)(A) of the Social Security Act \[subsec. (t)(1)(A) of this section\]) which begin after the date of the enactment of this Act \[Jan. 2, 1968\].”
 
-Section 162(b)(2) of Pub. L. 90–248 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply only with respect to monthly benefits under title II of the Social Security Act \[this subchapter\] for months beginning after June 30, 1968.”
+Pub. L. 90–248, title I, §162(b)(2), Jan. 2, 1968, 81 Stat. 871, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply only with respect to monthly benefits under title II of the Social Security Act \[this subchapter\] for months beginning after June 30, 1968.”
 
 #### Effective Date of 1965 Amendment
 
 Amendment by section 303(d) of Pub. L. 89–97 effective with respect to applications for disability insurance benefits under section 423 of this title, and for disability determinations under section 416(i) of this title, filed in or after July 1965 or before July 1965, if the applicant has not died before such month and notice of final administrative decision has not been given to the applicant before such month, see section 303(f)(1), of Pub. L. 89–97, set out as a note under section 423 of this title.
 
-Section 304(<i>o</i>) of Pub. L. 89–97 provided that: “The amendments made by this section \[amending this section and sections 415, 416, and 423 of this title\] shall apply with respect to monthly insurance benefits under title II of the Social Security Act \[this subchapter\] for and after the second month following the month \[July 1965\] in which this Act is enacted, but only on the basis of applications filed in or after the month in which this Act is enacted.”
+Pub. L. 89–97, title III, §304(o), July 30, 1965, 79 Stat. 370, provided that: “The amendments made by this section \[amending this section and sections 415, 416, and 423 of this title\] shall apply with respect to monthly insurance benefits under title II of the Social Security Act \[this subchapter\] for and after the second month following the month \[July 1965\] in which this Act is enacted, but only on the basis of applications filed in or after the month in which this Act is enacted.”
 
-Section 306(d) of Pub. L. 89–97 provided that: “The amendments made by this section \[amending this section and sections 403, 416, 422, and 425 of this title\] shall apply with respect to monthly insurance benefits under section 202 of the Social Security Act \[this section\] for months after December 1964; except that—
+Pub. L. 89–97, title III, §306(d), July 30, 1965, 79 Stat. 373, provided that: “The amendments made by this section \[amending this section and sections 403, 416, 422, and 425 of this title\] shall apply with respect to monthly insurance benefits under section 202 of the Social Security Act \[this section\] for months after December 1964; except that—
 
 &emsp;“(1) in the case of an individual who was not entitled to a child's insurance benefit under subsection (d) of such section \[subsec. (d) of this section\] for the month in which this Act is enacted \[July 1965\], such amendments shall apply only on the basis of an application filed in or after the month in which this Act is enacted, and
 
 &emsp;“(2) no monthly insurance benefit shall be payable for any month before the second month following the month in which this Act is enacted \[July 1965\] by reason of section 202(d)(1)(B)(ii) of the Social Security Act \[subsec. (d)(1)(B)(ii) of this section\] as amended by this section.”
 
-Section 307(c) of Pub. L. 89–97 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to monthly insurance benefits under section 202 of the Social Security Act \[this section\] for and after the second month following the month \[July 1965\] in which this Act is enacted, but only on the basis of applications filed in or after the month in which this Act is enacted.”
+Pub. L. 89–97, title III, §307(c), July 30, 1965, 79 Stat. 375, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to monthly insurance benefits under section 202 of the Social Security Act \[this section\] for and after the second month following the month \[July 1965\] in which this Act is enacted, but only on the basis of applications filed in or after the month in which this Act is enacted.”
 
-Section 308(e) of Pub. L. 89–97 provided that: “The amendments made by this section \[amending this section and sections 403, 405, 416, and 422 of this title\] shall be applicable with respect to monthly insurance benefits under title II of the Social Security Act \[this subchapter\] beginning with the second month following the month in which this Act is enacted \[July 1965\]; but, in the case of an individual who was not entitled to a monthly insurance benefit under section 202 of such Act \[this section\] for the first month following the month in which this Act is enacted \[July 1965\], only on the basis of an application filed in or after the month in which this Act is enacted.”
+Pub. L. 89–97, title III, §308(e), July 30, 1965, 79 Stat. 379, provided that: “The amendments made by this section \[amending this section and sections 403, 405, 416, and 422 of this title\] shall be applicable with respect to monthly insurance benefits under title II of the Social Security Act \[this subchapter\] beginning with the second month following the month in which this Act is enacted \[July 1965\]; but, in the case of an individual who was not entitled to a monthly insurance benefit under section 202 of such Act \[this section\] for the first month following the month in which this Act is enacted \[July 1965\], only on the basis of an application filed in or after the month in which this Act is enacted.”
 
 Amendment by section 319(d) of Pub. L. 89–97 applicable with respect to taxable years beginning after December 31, 1950, see section 319(e) of Pub. L. 89–97, set out as a note under section 1402 of Title 26.
 
-Section 323(b) of Pub. L. 89–97 provided that: “The amendments made by subsection (a) of this section \[amending this section\] shall be applicable to persons who file applications, or on whose behalf applications are filed, for benefits under section 202(d) of the Social Security Act \[subsec. (d) of this section\] on or after the date this section is enacted \[July 30, 1965\]. The time limit provided by section 202(d)(10)(B) of such Act \[subsec. (d)(10)(B) of this section\] as amended by this section for legally adopting a child shall not apply in the case of any child who is adopted before the end of the 12-month period following the month in which this section is enacted.”
+Pub. L. 89–97, title III, §323(b), July 30, 1965, 79 Stat. 398, provided that: “The amendments made by subsection (a) of this section \[amending this section\] shall be applicable to persons who file applications, or on whose behalf applications are filed, for benefits undersection 202(d) of the Social Security Act \[subsec. (d) of this section\] on or after the date this section is enacted \[July 30, 1965\]. The time limit provided by section 202(d)(10)(B) of such Act \[subsec. (d)(10)(B) of this section\] as amended by this section for legally adopting a child shall not apply in the case of any child who is adopted before the end of the 12-month period following the month in which this section is enacted.”
 
-Section 324(b) of Pub. L. 89–97 provided that: “The amendments made by this section \[amending this section\] shall be effective with respect to (1) applications for lump-sum death payments filed in or after the month \[July 1965\] in which this Act is enacted, and (2) monthly benefits based on applications filed in or after such month.”
+Pub. L. 89–97, title III, §324(b), July 30, 1965, 79 Stat. 399, provided that: “The amendments made by this section \[amending this section\] shall be effective with respect to (1) applications for lump-sum death payments filed in or after the month \[July 1965\] in which this Act is enacted, and (2) monthly benefits based on applications filed in or after such month.”
 
 Amendment by section 328(a) of Pub. L. 89–97 applicable with respect to applications filed on or after July 30, 1965, applications as to which the Secretary has not made a final decision before July 30, 1965, and, if a civil action with respect to a final decision of the Secretary has been commenced under section 405(g) of this title before July 30, 1965, applications as to which there has been no final judicial decision before July 30, 1965, see section 328(d) of Pub. L. 89–97, set out as a note under section 416 of this title.
 
-Section 333(d) of Pub. L. 89–97 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to monthly insurance benefits under section 202 of the Social Security Act \[this section\] beginning with the second month following the month in which this Act is enacted \[July 1965\]; but, in the case of an individual who was not entitled to a monthly insurance benefit under section 203(e) or (f) of such Act \[subsec. (e) or (f) of this section\] for the first month following the month in which this Act is enacted, only on the basis of an application filed in or after the month in which this Act is enacted.”
+Pub. L. 89–97, title III, §333(d), July 30, 1965, 79 Stat. 404, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to monthly insurance benefits under section 202 of the Social Security Act \[this section\] beginning with the second month following the month in which this Act is enacted \[July 1965\]; but, in the case of an individual who was not entitled to a monthly insurance benefit under section 202(e) or (f) of such Act \[subsec. (e) or (f) of this section\] for the first month following the month in which this Act is enacted, only on the basis of an application filed in or after the month in which this Act is enacted.”
 
-Section 334(g) of Pub. L. 89–97 provided that: “The amendments made by this section \[amending this section and section 416 of this title\] shall be applicable only with respect to monthly insurance benefits under title II of the Social Security Act \[this subchapter\] beginning with the second month following the month in which this Act is enacted \[July 1965\], but only on the basis of applications filed in or after the month in which this Act is enacted.”
+Pub. L. 89–97, title III, §334(g), July 30, 1965, 79 Stat. 405, provided that: “The amendments made by this section \[amending this section and section 416 of this title\] shall be applicable only with respect to monthly insurance benefits under title II of the Social Security Act \[this subchapter\] beginning with the second month following the month in which this Act is enacted \[July 1965\], but only on the basis of applications filed in or after the month in which this Act is enacted.”
 
 Amendment by section 339(b) of Pub. L. 89–97 applicable with respect to monthly insurance benefits under subchapter II of this chapter beginning with September 1965 but only on the basis of an application filed in or after July 1965, see section 339(c) of Pub. L. 89–97, set out as a note under section 416 of this title.
 
-Section 343(b) of Pub. L. 89–97 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply only with respect to monthly insurance benefits under title II of the Social Security Act \[this subchapter\] for months after the month in which this Act is enacted \[July 1965\]; except that, in the case of an individual who was not entitled to child's insurance benefits under section 202(d) of such Act \[subsec. (d) of this section\] for the month in which this Act was enacted, such amendment shall apply only on the basis of an application filed in or after the month in which this Act is enacted.”
+Pub. L. 89–97, title III, §343(b), July 30, 1965, 79 Stat. 412, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply only with respect to monthly insurance benefits under title II of the Social Security Act \[this subchapter\] for months after the month in which this Act is enacted \[July 1965\]; except that, in the case of an individual who was not entitled to child's insurance benefits under section 202(d) of such Act \[subsec. (d) of this section\] for the month in which this Act was enacted, such amendment shall apply only on the basis of an application filed in or after the month in which this Act is enacted.”
 
 #### Effective Date of 1961 Amendment
 
-Section 102(f) of title I of Pub. L. 87–64 provided that:
+Pub. L. 87–64, title I, §102(f), June 30, 1961, 75 Stat. 136, provided that:
 
 “(1) The amendments made by subsection (a) \[amending this section\] shall apply with respect to monthly benefits for months beginning on or after the effective date of this title \[see Effective Date of 1961 Amendment note set out above\] based on applications filed in or after March 1961.
 
@@ -2588,71 +2588,71 @@ Section 102(f) of title I of Pub. L. 87–64 provided that:
 
 “(9) For purposes of this subsection, the term ‘monthly benefits’ means monthly insurance benefits under title II of the Social Security Act \[this subchapter\].”
 
-Section 104(e) of title I of Pub. L. 87–64 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to monthly benefits under section 202 of the Social Security Act \[this section\] for months beginning on or after the effective date of this title \[see Effective Date of 1961 Amendment note set out above\].”
+Pub. L. 87–64, title I, §104(e), June 30, 1961, 75 Stat. 139, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to monthly benefits under section 202 of the Social Security Act \[this section\] for months beginning on or after the effective date of this title \[see Effective Date of 1961 Amendment note set out above\].”
 
-Section 109 of title I of Pub. L. 87–64 provided that: “Except as otherwise provided, the effective date of this title \[see Tables for classifications\] is the first day of the first calendar month which begins on or after the 30th day after the date of the enactment of this Act \[June 30, 1961\].”
+Pub. L. 87–64, title I, §109, June 30, 1961, 75 Stat. 140, provided that: “Except as otherwise provided, the effective date of this title \[see Tables for classifications\] isthe first day of the first calendar month which begins on or after the 30th day after the date of the enactment of this Act \[June 30, 1961\].”
 
 #### Effective Date of 1960 Amendments
 
-Section 103(v) of Pub. L. 86–778, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 86–778, title I, §103(v), Sept. 13, 1960, 74 Stat. 941, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-“(1) The amendments made by subsection (a) \[amending this section and provisions set out as notes under this section\] shall apply only with respect to reinterments after the date of the enactment of this Act \[Sept. 13, 1960\]. The amendments made by subsections (b), (e), and (f) \[amending sections 403 and 410 of this title\] shall apply only with respect to service performed after 1960; except that insofar as the carrying on of a trade or business (other than performance of service as an employee) is concerned, such amendments shall apply only in the case of taxable years beginning after 1960. The amendments made by subsections (d), (i), (<i>o</i>), and (p) \[amending section 410 of this title and section 3121 of Title 26, Internal Revenue Code, and amending section 418 of this title and section 3121 of Title 26\] shall apply only with respect to service performed after 1960. The amendments made by subsections (h) and (<i>l</i>) \[amending section 411 of this title and section 1402 of Title 26\] shall apply only in the case of taxable years beginning after 1960. The amendments made by subsections (c), (n), (q), and (r) \[enacting section 3125 of Title 26 and amending section 410 of this title and sections 3121, 6205, and 6413 of Title 26\] shall apply only with respect to (1) service in the employ of the Government of Guam or any political subdivision thereof, or any instrumentality of any one or more of the foregoing wholly owned thereby, which is performed after 1960 and after the calendar quarter in which the Secretary of the Treasury receives a certification by the Governor of Guam that legislation has been enacted by the Government of Guam expressing its desire to have the insurance system established by title II of the Social Security Act \[this subchapter\] extended to the officers and employees of such Government and such political subdivisions and instrumentalities, and (2) service in the employ of the Government of American Samoa or any political subdivision thereof or any instrumentality of any one or more of the foregoing wholly owned thereby, which is performed after 1960 and after the calendar quarter in which the Secretary of the Treasury receives a certification by the Governor of American Samoa that the Government of American Samoa desires to have the insurance system established by such title II extended to the officers and employees of such Government and such political subdivisions and instrumentalities. The amendments made by subsections (g) and (k) \[amending section 411 of this title and section 1402 of Title 26\] shall apply only in the case of taxable years beginning after 1960, except that, insofar as they involve the nonapplication of section 932 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[section 932 of Title 26\] to the Virgin Islands for purposes of chapter 2 of such Code and section 211 of the Social Security Act \[section 411 of this title\], such amendments shall be effective in the case of all taxable years with respect to which such chapter 2 (and corresponding provisions of prior law) and such section 211 \[section 411 of this title\] are applicable. The amendments made by subsections (j), (s), and (t) \[amending this section and sections 405, 409, 410, 411, 415, 417, and 418 of this title and sections 7213 and 7701 of Title 26 and repealing section 419 of this title\] shall take effect on the date of the enactment of this Act \[Sept. 13, 1960\]; and there are authorized to be appropriated such sums as may be necessary for the performance by any officer or employee of functions delegated to him by the Secretary of the Treasury in accordance with the amendment made by such subsection (t) \[amending section 7701 of Title 26\].
+“(1) The amendments made by subsection (a) \[amending this section and provisions set out as notes under this section\] shall apply only with respect to reinterments after the date of the enactment of this Act \[Sept. 13, 1960\]. The amendments made by subsections (b), (e), and (f) \[amending sections 403 and 410 of this title\] shall apply only with respect to service performed after 1960; except that insofar as the carrying on of a trade or business (other than performance of service as an employee) is concerned, such amendments shall apply only in the case of taxable years beginning after 1960. The amendments made by subsections (d), (i), (o), and (p) \[amending section 410 of this title and section 3121 of Title 26, Internal Revenue Code, and amending section 418 of this title and section 3121 of Title 26\] shall apply only with respect to service performed after 1960. The amendments made by subsections (h) and (l) \[amending section 411 of this title and section 1402 of Title 26\] shall apply only in the case of taxable years beginning after 1960. The amendments made by subsections (c), (n), (q), and (r) \[enacting section 3125 of Title 26 and amending section 410 of this title and sections 3121, 6205, and 6413 of Title 26\] shall apply only with respect to (1) service in the employ of the Government of Guam or any political subdivision thereof, or any instrumentality of any one or more of the foregoing wholly owned thereby, which is performed after 1960 and after the calendar quarter in which the Secretary of the Treasury receives a certification by the Governor of Guam that legislation has been enacted by the Government of Guam expressing its desire to have the insurance system established by title II of the Social Security Act \[this subchapter\] extended to the officers and employees of such Government and such political subdivisions and instrumentalities, and (2) service in the employ of the Government of American Samoa or any political subdivision thereof or any instrumentality of any one or more of the foregoing wholly owned thereby, which is performed after 1960 and after the calendar quarter in which the Secretary of the Treasury receives a certification by the Governor of American Samoa that the Government of American Samoa desires to have the insurance system established by such title II extended to the officers and employees of such Government and such political subdivisions and instrumentalities. The amendments made by subsections (g) and (k) \[amending section 411 of this title and section 1402 of Title 26\] shall apply only in the case of taxable years beginning after 1960, except that, insofar as they involve the nonapplication of section 932 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[section 932 of Title 26\] to the Virgin Islands for purposes of chapter 2 of such Code and section 211 of the Social Security Act \[section 411 of this title\], such amendments shall be effective in the case of all taxable years with respect to which such chapter 2 (and corresponding provisions of prior law) and such section 211 \[section 411 of this title\] are applicable. The amendments made by subsections (j), (s), and (t) \[amending this section and sections 405, 409, 410, 411, 415, 417, and 418 of this title and sections 7213 and 7701 of Title 26 and repealing section 419 of this title\] shall take effect on the date of the enactment of this Act \[Sept. 13, 1960\]; and there are authorized to be appropriated such sums as may be necessary for the performance by any officer or employee of functions delegated to him by the Secretary of the Treasury in accordance with the amendment made by such subsection (t) \[amending section 7701 of Title 26\].
 
 “(2) The amendments made by subsections (c) and (n) \[amending section 410 of this title and section 3121 of Title 26\] shall have application only as expressly provided therein, and determinations as to whether an officer or employee of the Government of Guam or the Government of American Samoa or any political subdivision thereof, or of any instrumentality of any one or more of the foregoing which is wholly owned thereby, is an employee of the United States or any agency or instrumentality thereof within the meaning of any provision of law not affected by such amendments, shall be made without any inferences drawn from such amendments.
 
 “(3) The repeal (by subsection (j)(1)) of section 219 of the Social Security Act \[section 419 of this title\], and the elimination (by subsections (e), (f), (h), (j)(2), and (j)(3)) of other provisions of such Act \[from sections 410 and 411 of this title\] making reference to such section 219 \[section 419 of this title\], shall not be construed as changing or otherwise affecting the effective date specified in such section for the extension to the Commonwealth of Puerto Rico of the insurance system under title II of such Act \[this subchapter\], the manner or consequences of such extension, or the status of any individual with respect to whom the provisions so eliminated are applicable.”
 
-Section 201(c) of Pub. L. 86–778 provided that: “The amendments made by this section \[amending this section\] shall apply as though this Act had been enacted on August 28, 1958, and with respect to monthly benefits under section 202 of the Social Security Act \[this section\] for months after August 1958 based on applications for such benefits filed on or after August 28, 1958.”
+Pub. L. 86–778, title II, §201(c), Sept. 13, 1960, 74 Stat. 946, provided that: “The amendments made by this section \[amending this section\] shall apply as though this Act had been enacted on August 28, 1958, and with respect to monthly benefits under section 202 of the Social Security Act \[this section\] for months after August 1958 based on applications for such benefits filed on or after August 28, 1958.”
 
-Section 202(b) of Pub. L. 86–778 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to monthly benefits under section 202 of the Social Security Act \[this section\] for months beginning with the month in which this Act is enacted \[September 1960\], but only if an application for such benefits is filed in or after such month.”
+Pub. L. 86–778, title II, §202(b), Sept. 13, 1960, 74 Stat. 946, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to monthly benefits under section 202 of the Social Security Act \[this section\] for months beginning with the month in which this Act is enacted \[September 1960\], but only if an application for such benefits is filed in or after such month.”
 
-Section 203(b) of Pub. L. 86–778 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply—
+Pub. L. 86–778, title II, §203(b), Sept. 13, 1960, 74 Stat. 947, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply—
 
 &emsp;“(1) in the case of the death of an individual occurring on or after the date of the enactment of this Act \[Sept. 13, 1960\], and
 
 &emsp;“(2) in the case of the death of an individual occurring prior to such date, but only if no application for a lump-sum death payment under section 202(i) of the Social Security Act \[subsec. (i) of this section\] is filed on the basis of such individual's wages and self-employment income prior to the third calendar month beginning after such date.”
 
-Section 205(d) of Pub. L. 86–778 provided that: “The preceding provisions of this section and the amendments made thereby \[amending this section\] shall apply only in the case of monthly benefits under title II of the Social Security Act \[this subchapter\] for months after the month in which this Act is enacted \[September 1960\], on the basis of applications filed in or after such month.”
+Pub. L. 86–778, title II, §205(d), Sept. 13, 1960, 74 Stat. 949, provided that: “The preceding provisions of this section and the amendments made thereby \[amending this section\] shall apply only in the case of monthly benefits under title II of the Social Security Act \[this subchapter\] for months after the month in which this Act is enacted \[September 1960\], on the basis of applications filed in or after such month.”
 
 Amendment by section 208(d) of Pub. L. 86–778 applicable (1) with respect to monthly benefits under this subchapter for months beginning with September 1960 on the basis of an application filed in or after such month, and (2) in the case of a lump-sum death payment under this subchapter based on an application filed in or after September 1960, but only if no person, other than the person filing such application, has filed an application for a lump-sum death payment under this subchapter prior to Sept. 13, 1960 with respect to the death of the same individual, see section 208(f) of Pub. L. 86–778, set out as a note under section 416 of this title.
 
-Amendment by section 211(i)–(<i>l</i>) of Pub. L. 86–778 effective in the manner provided in section 211(p) and (q) of Pub. L. 86–778, see section 211(p)–(s) of Pub. L. 86–778 set out as a note under section 403 of this title.
+Amendment by section 211(i)–(l) of Pub. L. 86–778 effective in the manner provided in section 211(p) and (q) of Pub. L. 86–778, see section 211(p)–(s) of Pub. L. 86–778 set out as a note under section 403 of this title.
 
-Section 301(b) of Pub. L. 86–778 provided that: “The amendment made by this section \[amending this section\] shall apply only with respect to monthly benefits under section 202 of the Social Security Act \[this section\] for months after the second month following the month in which this Act is enacted \[September 1960\].”
+Pub. L. 86–778, title III, §301(b), Sept. 13, 1960, 74 Stat. 959, provided that: “The amendment made by this section \[amending this section\] shall apply only with respect to monthly benefits under section 202 of the Social Security Act \[this section\] for months after the second month following the month in which this Act is enacted \[September 1960\].”
 
 Amendment by section 403(d) of Pub. L. 86–778 applicable only with respect to benefits under subsec. (d) of this section for months after September 1960, in the case of individuals who, without regard to such amendment, would have been entitled to such benefits for September 1960, or for any succeeding month, see section 403(e) of Pub. L. 86–778, set out as a note under section 422 of this title.
 
-Section 47(e) of Pub. L. 86–624 provided that: “The amendment made by section 30(c)(1) \[amending this section\] shall be applicable in the case of deaths occurring on or after August 21, 1959.”
+Pub. L. 86–624, §47(e), July 12, 1960, 74 Stat. 423, provided that: “The amendment made by section 30(c)(1) \[amending this section\] shall be applicable in the case of deaths occurring on or after August 21, 1959.”
 
 #### Effective Date of 1959 Amendment
 
-Section 47(e) of Pub. L. 86–70 provided that: “The amendment made by paragraph (1) of subsection (c) of section 32 \[amending this section\] shall apply in the case of deaths occurring on or after January 3, 1959.”
+Pub. L. 86–70, §47(e), June 25, 1959, 73 Stat. 154, provided that: “The amendment made by paragraph (1) of subsection (c) of section 32 \[amending this section\] shall apply in the case of deaths occurring on or after January 3, 1959.”
 
 #### Effective Date of 1958 Amendments
 
-Section 302 of Pub. L. 85–927 provided that: “The amendments made by section 301 of this Act \[amending this section\] shall apply with respect to monthly benefits under section 202 of the Social Security Act \[this section\] for months after December 1956, and with respect to lump-sum death payments under such section 202 in the case of deaths occurring after December 1956.”
+Pub. L. 85–927, pt. III, §302, Sept. 6, 1958, 72 Stat. 1783, provided that: “The amendments made by section 301 of this Act \[amending this section\] shall apply with respect to monthly benefits under section 202 of the Social Security Act \[this section\] for months after December 1956, and with respect to lump-sum death payments under such section 202 in the case of deaths occurring after December 1956.”
 
 Amendment by Pub. L. 85–857 effective Jan. 1, 1959, see section 2 of Pub. L. 85–857, set out as an Effective Date note preceding section 101 of Title 38, Veterans’ Benefits.
 
 Amendment by section 101(e) of Pub. L. 85–840 applicable in the case of monthly benefits under subchapter II of this chapter for months after December 1958, and in the case of lump-sum death payments under subchapter II of this chapter, with respect to deaths occurring after such month, see section 101(g) of Pub. L. 85–840, set out as a note under section 415 of this title.
 
-Amendment by section 205(b)–(i) of Pub. L. 85–840 applicable with respect to monthly benefits under this subchapter for months after August 1958, but only if an application for such benefits is filed on or after Aug. 28,1958, see section 207(a) of Pub. L. 85–840, set out as a note under section 416 of this title.
+Amendment by section 205(b)–(i) of Pub. L. 85–840 applicable with respect to monthly benefits under this subchapter for months after August 1958, but only if an application for such benefits is filed on or after Aug. 28, 1958, see section 207(a) of Pub. L. 85–840, set out as a note under section 416 of this title.
 
-Section 301(f) of Pub. L. 85–840 provided that: “The amendments made by this section \[amending this section and section 416 of this title\] shall apply with respect to monthly benefits under section 202 of the Social Security Act \[this section\] for months beginning after the date of enactment of this Act \[Aug. 28, 1958\], but only if an application for such benefits is filed on or after such date.”
+Pub. L. 85–840, title III, §301(f), Aug. 28, 1958, 72 Stat. 1028, provided that: “The amendments made by this section \[amending this section and section 416 of this title\] shall apply with respect to monthly benefits under section 202 of the Social Security Act \[this section\] for months beginning after the date of enactment of this Act \[Aug. 28, 1958\], but only if an application for such benefits is filed on or after such date.”
 
-Section 304(a)(2) of Pub. L. 85–840 provided that: “The amendment made by this subsection \[amending this section\] shall apply with respect to monthly benefits under section 202 of the Social Security Act \[this section\] for months beginning after the date of enactment of this Act \[Aug. 28, 1958\], but only if an application for such benefits is filed on or after such date.”
+Pub. L. 85–840, title III, §304(a)(2), Aug. 28, 1958, 72 Stat. 1029, provided that: “The amendment made by this subsection \[amending this section\] shall apply with respect to monthly benefits under section 202 of the Social Security Act \[this section\] for months beginning after the date of enactment of this Act \[Aug. 28, 1958\], but only if an application for such benefits is filed on or after such date.”
 
-Section 305(c) of Pub. L. 85–840 provided that: “The amendments made by this section \[amending this section and section 416 of this title\] shall apply in the case of lump-sum death payments under such section 202(i) \[subsec. (i) of this section\] on the basis of the wages and self-employment income of any individual who dies after the month in which this Act is enacted \[August 1958\].”
+Pub. L. 85–840, title III, §305(c), Aug. 28, 1958, 72 Stat. 1030, provided that: “The amendments made by this section \[amending this section and section 416 of this title\] shall apply in the case of lump-sum death payments under such section 202(i) \[subsec. (i) of this section\] on the basis of the wages and self-employment income of any individual who dies after the month in which this Act is enacted \[August 1958\].”
 
-Section 306(b) of Pub. L. 85–840 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to monthly benefits under section 202 of the Social Security Act \[this section\] for months beginning after the date of enactment of this Act \[Aug. 28, 1958\], but only if an application for such benefits is filed on or after such date.”
+Pub. L. 85–840, title III, §306(b), Aug. 28, 1958, 72 Stat. 1030, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to monthly benefits under section 202 of the Social Security Act \[this section\] for months beginning after the date of enactment of this Act \[Aug. 28, 1958\], but only if an application for such benefits is filed on or after such date.”
 
-Section 307(h)(1) of Pub. L. 85–840 provided that: “The amendments made by this section (other than by subsections (f) and (g) \[amending this section\]) shall apply with respect to monthly benefits under section 202 of the Social Security Act \[this section\] for months following the month in which this Act is enacted \[August 1958\]; except that in any case in which benefits were terminated with the close of the month in which this Act is enacted or any prior month and, if the amendments made by this section had been in effect for such month, such benefits would not have been terminated, the amendments made by this section shall apply with respect to monthly benefits under section 202 of the Social Security Act for months beginning after the date of enactment of this Act, but only if an application for such benefits is filed after such date.”
+Pub. L. 85–840, title III, §307(h)(1), Aug. 28, 1958, 72 Stat. 1033, provided that: “The amendments made by this section (other than by subsections (f) and (g) \[amending this section\]) shall apply with respect to monthly benefits under section 202 of the Social Security Act \[this section\] for months following the month in which this Act is enacted \[August 1958\]; except that in any case in which benefits were terminated with the close of the month in which this Act is enacted or any prior month and, if the amendments made by this section had been in effect for such month, such benefits would not have been terminated, the amendments made by this section shall apply with respect to monthly benefits under section 202 of the Social Security Act for months beginning after the date of enactment of this Act, but only if an application for such benefits is filed after such date.”
 
 #### Effective Date of 1957 Amendment
 
-Section 2 of Pub. L. 85–238 provided that: “The amendments made by the first section of this Act \[amending this section\] shall apply with respect to monthly benefits under section 202 of the Social Security Act \[this section\] for months after December 1956, and with respect to lump-sum death payments under such section 202 in the case of deaths occurring after December 1956.”
+Pub. L. 85–238, §2, Aug. 30, 1957, 71 Stat. 518, provided that: “The amendments made by the first section of this Act \[amending this section\] shall apply with respect to monthly benefits under section 202 of the Social Security Act \[this section\] for months after December 1956, and with respect to lump-sum death payments under such section 202 in the case of deaths occurring after December 1956.”
 
-Section 3(i) of Pub. L. 85–238 provided that:
+Pub. L. 85–238, §3(i), Aug. 30, 1957, 71 Stat. 520, provided that:
 
 “(1) Except as provided in paragraph (2), the amendments made by this section \[amending this section and section 416 of this title\] shall apply in the case of monthly benefits under section 202 of the Social Security Act \[this section\] for months after the month in which this Act is enacted \[August 1957\].
 
@@ -2660,9 +2660,9 @@ Section 3(i) of Pub. L. 85–238 provided that:
 
 #### Effective Date of 1956 Amendments
 
-Section 403(b) of act Aug. 1, 1956, ch. 837, provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective as though it had been enacted on March 31, 1956.”
+Act Aug. 1, 1956, ch. 837, title III, §403(b), 70 Stat. 871, provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective as though it had been enacted on March 31, 1956.”
 
-Section 101(h) of act Aug. 1, 1956, ch. 836, provided that:
+Act Aug. 1, 1956, ch. 836, title I, §101(h), 70 Stat. 808, provided that:
 
 “(1) The amendments made by this section \[amending this section and section 403 of this title\], other than subsection (c) \[amending this section\], shall apply with respect to monthly benefits under section 202 of the Social Security Act \[this section\] for months after December 1956, but only, except as provided in paragraph (2), on the basis of an application filed after September 1956. For purposes of title II of the Social Security Act, as amended by this Act \[this subchapter\], an application for wife's, child's, or mother's insurance benefits under such title II filed, by reason of this paragraph, by an individual who was entitled to benefits prior to, but not for, December 1956 and whose entitlement terminated as a result of a child's attainment of age eighteen shall be treated as the application referred to in subsection (b), (d), and (g), respectively, of section 202 of such Act.
 
@@ -2670,17 +2670,17 @@ Section 101(h) of act Aug. 1, 1956, ch. 836, provided that:
 
 “(3) The amendment made by subsection (c) \[amending this section\] shall apply in the case of benefits under section 202(h) of the Social Security Act \[subsec. (h) of this section\] based on the wages and self-employment income of an individual who dies after August 1956.”
 
-Section 114(b) of act Aug. 1, 1956, ch. 836, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply in the case of lump-sum death payments under title II of the Social Security Act \[this subchapter\], and monthly benefits under such title for months after August 1956, based on applications filed after August 1956.”
+Act Aug. 1, 1956, ch. 836, title I, §114(b), 70 Stat. 832, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply in the case of lump-sum death payments under title II of the Social Security Act \[this subchapter\], and monthly benefits under such title for months after August 1956, based on applications filed after August 1956.”
 
-Section 118(b) of act Aug. 1, 1956, ch. 836, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply in the case of monthly benefits under title II of the Social Security Act \[this subchapter\] for months after December 1956 and in the case of lump-sum death payments under section 202(i) of such Act \[subsec. (i) of this section\] with respect to deaths occurring after December 1956.”
+Act Aug. 1, 1956, ch. 836, title I, §118(b), 70 Stat. 836, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply in the case of monthly benefits under title II of the Social Security Act \[this subchapter\] for months after December 1956 and in the case of lump-sum death payments under section 202(i) of such Act \[subsec. (i) of this section\] with respect to deaths occurring after December 1956.”
 
 #### Effective Date of 1954 Amendment
 
-Section 105(b) of act Sept. 1, 1954, provided that: “The amendment made by subsection (a) \[amending this section\] shall be applicable only in the case of applications for monthly benefits under section 202 of the Social Security Act \[this section\] filed after August 1954; except that no individual shall, by reason of such amendment, be entitled to any benefit for any month prior to February 1954.”
+Act Sept. 1, 1954, ch. 1206, title I, §105(b), Sept. 1, 1954, 68 Stat. 1079, provided that: “The amendment made by subsection (a) \[amending this section\] shall be applicable only in the case of applications for monthly benefits under section 202 of the Social Security Act \[this section\] filed after August 1954; except that no individual shall, by reason of such amendment, be entitled to any benefit for any month prior to February 1954.”
 
 #### Effective Date of 1950 Amendment
 
-Section 101(b)(1), (3) of act Aug. 28, 1950, provided that:
+Act Aug. 28, 1950, ch. 809, title I, §101(b)(1), (3), 64 Stat. 488, provided that:
 
 “(1) Except as provided in paragraph (3), the amendment made by subsection (a) of this section \[amending this section\] shall take effect September 1, 1950.
 
@@ -2688,19 +2688,19 @@ Section 101(b)(1), (3) of act Aug. 28, 1950, provided that:
 
 #### Effective Date of 1946 Amendment
 
-Section 403(b) of act Aug. 10, 1946, provided that: “The amendment made by subsection (a) of this section \[amending this section\] shall be applicable only incases of applications for benefits under that Act filed after December 31, 1946.”
+Act Aug. 10, 1946, ch. 951, title IV, §403(b), 60 Stat. 987, provided that: “The amendment made by subsection (a) of this section \[amending this section\] shall be applicable only in cases of applications for benefits under that Act filed after December 31, 1946.”
 
-Section 404(b) of act Aug. 10, 1946, provided that: “The amendment made by subsection (a) of this section \[amending this section\] shall be applicable only in cases where the death of the insured individual occurs after December 31, 1946.”
+Act Aug. 10, 1946, ch. 951, title IV, §404(b), 60 Stat. 987, provided that: “The amendment made by subsection (a) of this section \[amending this section\] shall be applicable only in cases where the death of the insured individual occurs after December 31, 1946.”
 
-Subsec. 405(b) of act Aug. 10, 1946, provided that: “The amendment made by subsection (a) of this section \[amending this section\] shall be applicable only in cases of applications for benefits under this title \[this subchapter\] filed after December 31, 1946.”
+Act Aug. 10, 1946, ch. 951, title IV, §405(b), 60 Stat. 988, provided that: “The amendment made by subsection (a) of this section \[amending this section\] shall be applicable only in cases of applications for benefits under this title \[this subchapter\] filed after December 31, 1946.”
 
 #### Effective Date of 1939 Amendment
 
-Section 201 of act Aug. 10, 1939, provided that the amendment made by that section is effective Jan. 1, 1940.
+Act Aug. 10, 1939, ch. 666, title II, §201, 53 Stat. 1362, provided that the amendment made by that section is effective Jan. 1, 1940.
 
 #### Construction of 1994 Amendments
 
-Section 7 of Pub. L. 103–387 provided that: “Until March 31, 1995, any reference in this Act \[see Short Title of 1994 Amendments note, set out under section 1 of Title 26, Internal Revenue Code\] (other than section 3(d) \[108 Stat. 4075\]) or any amendment made by this Act to the Commissioner of Social Security shall be deemed a reference to the Secretary of Health and Human Services.”
+Pub. L. 103–387, §7, Oct. 22, 1994, 108 Stat. 4078, provided that: “Until March 31, 1995, any reference in this Act \[see Short Title of 1994 Amendments note, set out under section 1 of Title 26, Internal Revenue Code\] (other than section 3(d) \[108 Stat. 4075\]) or any amendment made by this Act to the Commissioner of Social Security shall be deemed a reference to the Secretary of Health and Human Services.”
 
 #### Pilot Study of Efficacy of Providing Individualized Information to Recipients of Old-Age and Survivors Insurance Benefits
 
@@ -2708,7 +2708,7 @@ Pub. L. 104–121, title I, §106, Mar. 29, 1996, 110 Stat. 855, directed the Co
 
 #### Treatment of Employees Whose Federal Employment Terminated After Making Election Into Social Security Coverage But Before Effective Date of Election
 
-Section 8014(b) of Pub. L. 100–647 provided that: “Subsections (b)(4)(A)(i), (c)(2)(A)(i), (e)(7)(A)(i), (f)(2)(A)(i), and (g)(4)(A)(i) of section 202 of the Social Security Act (42 U.S.C. 402(b)(4)(A)(i), (c)(2)(A)(i), (e)(7)(A)(i), (f)(2)(A)(i), (g)(4)(A)(i)) shall not apply with respect to monthly periodic benefits of any individual based solely on service which was performed while in the service of the Federal Government if—
+Pub. L. 100–647, title VIII, §8014(b), Nov. 10, 1988, 102 Stat. 3790, provided that: “Subsections (b)(4)(A)(i), (c)(2)(A)(i), (e)(7)(A)(i), (f)(2)(A)(i), and (g)(4)(A)(i) of section 202 of the Social Security Act (42 U.S.C. 402(b)(4)(A)(i), (c)(2)(A)(i), (e)(7)(A)(i), (f)(2)(A)(i), (g)(4)(A)(i)) shall not apply with respect to monthly periodic benefits of any individual based solely on service which was performed while in the service of the Federal Government if—
 
 &emsp;“(1) such person made, before January 1, 1988, an election pursuant to law to become subject to the Federal Employees’ Retirement System provided in chapter 84 of title 5, United States Code, or the Foreign Service Pension System provided in subchapter II of chapter 8 of title I of the Foreign Service Act of 1980 \[22 U.S.C. 4071 et seq.\] (or such person made such an election on or after January 1, 1988, and before July 1, 1988, pursuant to regulations of the Office of Personnel Management relating to belated elections and correction of administrative errors (5 CFR 846.204) as in effect on the date of the enactment of this Act \[Nov. 10, 1988\]), and
 
@@ -2770,7 +2770,7 @@ Pub. L. 97–377, title I, §156, Dec. 21, 1982, 96 Stat. 1920, as amended by Pu
 
 #### Child's Insurance Benefits; Continued Eligibility of Certain Individuals; Limitations
 
-Section 2210(c) of Pub. L. 97–35 provided that:
+Pub. L. 97–35, title XXII, §2210(c), Aug. 13, 1981, 95 Stat. 842, provided that:
 
 “(1) Notwithstanding the provisions of section 202(d) of the Social Security Act \[subsec. (d) of this section\] (as in effect prior to or after the amendments made by subsection (a)), any individual who—
 
@@ -2794,11 +2794,11 @@ Section 2210(c) of Pub. L. 97–35 provided that:
 
 &emsp;“(C) during the months after July 1984 and before August 1985, equal to 75 percent of such benefit for August 1981.
 
-“(4) Any individual to whom the provisions of paragraph (1) apply and whose entitlement to benefits under paragraph (1) ends after July 1982 shall not subsequently become entitled, or reentitled, to benefits under paragraph (1) or under section 202(d) of the Social Security Act \[subsec. (d) of this section\] as in effect after the amendments made by subsection (a) unless hemeets the requirements of section 202(d)(1)(B)(ii) of that Act as so in effect.”
+“(4) Any individual to whom the provisions of paragraph (1) apply and whose entitlement to benefits under paragraph (1) ends after July 1982 shall not subsequently become entitled, or reentitled, to benefits under paragraph (1) or under section 202(d) of the Social Security Act \[subsec. (d) of this section\] as in effect after the amendments made by subsection (a) unless he meets the requirements of section 202(d)(1)(B)(ii) of that Act as so in effect.”
 
 #### Nonapplicability of Amendments by Section 334 of Pub. L. 95–216 to Monthly Insurance Benefits Payable to Individuals Eligible for Monthly Periodic Benefits; Savings Provision
 
-Section 334(g) of Pub. L. 95–216, as amended by Pub. L. 98–617, §2(b)(1), Nov. 8, 1984, 98 Stat. 3294, provided that:
+Pub. L. 95–216, title III, §334(g), Dec. 20, 1977, 91 Stat. 1546, as amended by Pub. L. 98–617, §2(b)(1), Nov. 8, 1984, 98 Stat. 3294, provided that:
 
 “(1) The amendments made by the preceding provisions of this section \[see section 334(f) of Pub. L. 95–216, set out as an Effective Date of 1977 Amendment note above\] shall not apply with respect to any monthly insurance benefit payable, under subsection (b), (c), (e), (f), or (g) (as the case may be) of section 202 of the Social Security Act \[this section\], to an individual—
 
@@ -2810,11 +2810,11 @@ Section 334(g) of Pub. L. 95–216, as amended by Pub. L. 98–617, §2(b)(1), N
 
 “(3) If any provision of this subsection, or the application thereof to any person or circumstance, is held invalid, the remainder of this section shall not be affected thereby, but the application of this subsection to any other persons or circumstances shall also be considered invalid.”
 
-\[Section 2(b)(3) of Pub. L. 98–617 provided that: “The amendments made by this subsection \[amending above note and provisions set out as an Offset Against Spouses’ Benefits on Account of Public Pensions note below\] shall apply with respect to benefits payable under title II of the Social Security Act \[this subchapter\] for months beginning after the month of enactment of this Act \[November 1984\].”\]
+\[Pub. L. 98–617, §2(b)(3), Nov. 8, 1984, 98 Stat. 3295, provided that: “The amendments made by this subsection \[amending above note and provisions set out as an Offset Against Spouses’ Benefits on Account of Public Pensions note below\] shall apply with respect to benefits payable under title II of the Social Security Act \[this subchapter\] for months beginning after the month of enactment of this Act \[November 1984\].”\]
 
 #### Offset Against Spouses’ Benefits on Account of Public Pensions
 
-Section 334(h) of Pub. L. 95–216, as added by Pub. L. 97–455, §7(a)(1), Jan. 12, 1983, 96 Stat. 2501, and amended by Pub. L. 98–617, §2(b)(2), Nov. 8, 1984, 98 Stat. 3294, provided that: “In addition, the amendments made by the preceding provisions of this section \[see section 334(f) of Pub. L. 95–216, set out as an Effective Date of 1977 Amendment note above\] shall not apply with respect to any monthly insurance benefit payable, under subsection (b), (c), (e), (f), or (g) (as the case may be) of section 202 of the Social Security Act \[this section\], to an individual—
+Pub. L. 95–216, title III, §334(h), as added by Pub. L. 97–455, §7(a)(1), Jan. 12, 1983, 96 Stat. 2501, and amended by Pub. L. 98–617, §2(b)(2), Nov. 8, 1984, 98 Stat. 3294, provided that: “In addition, the amendments made by the preceding provisions of this section \[see section 334(f) of Pub. L. 95–216, set out as an Effective Date of 1977 Amendment note above\] shall not apply with respect to any monthly insurance benefit payable, under subsection (b), (c), (e), (f), or (g) (as the case may be) of section 202 of the Social Security Act \[this section\], to an individual—
 
 &emsp;“(1)(A) to whom there is payable for any month prior to July 1983 (or who is eligible in any such month for) a monthly periodic benefit (within the meaning of such provisions) based upon such individual's earnings while in the service of the Federal Government or any State (or political subdivision thereof, as defined in section 218(b)(2) of the Social Security Act \[section 418(b)(2) of this title\]), or (B) who would have been eligible for such a monthly periodic benefit (within the meaning of subsection (g)(2) \[set out as a note above\]) before the close of June 1983, except for a requirement which postponed eligibility (as so defined) for such monthly periodic benefit until the month following the month in which all other requirements were met; and
 
@@ -2826,11 +2826,11 @@ Section 334(h) of Pub. L. 95–216, as added by Pub. L. 97–455, §7(a)(1), Jan
 
 #### Redetermination of Widow's and Widower's Monthly Insurance Benefits for Months After December 1978
 
-Section 336(c)(2) of Pub. L. 95–216 provided that: “In the case of an individual who was entitled for the month of December 1978 to monthly insurance benefits under subsection (e) or (f) of section 202 of the Social Security Act \[subsec. (e) or (f) of this section\] to which the provisions of subsection (e)(4) or (f)(5) applied, the Secretary shall, if such benefits would be increased by the amendments made by this section \[amending this section\] redetermine the amount of such benefits for months after December 1978 as if such amendments had been in effect for the first month for which the provisions of section 202(e)(4) or 202(f)(5) became applicable.”
+Pub. L. 95–216, title III, §336(c)(2), Dec. 20, 1977, 91 Stat. 1548, provided that: “In the case of an individual who was entitled for the month of December 1978 to monthly insurance benefits under subsection (e) or (f) of section 202 of the Social Security Act \[subsec. (e) or (f) of this section\] to which the provisions of subsection (e)(4) or (f)(5) applied, the Secretary shall, if such benefits would be increased by the amendments made by this section \[amending this section\] redetermine the amount of such benefits for months after December 1978 as if such amendments had been in effect for the first month for which the provisions of section 202(e)(4) or 202(f)(5) became applicable.”
 
 #### Minimum Monthly Insurance Benefits for Months After December 1978, for Widow or Widower and Other Jointly Entitled Individuals
 
-Section 336(d) of Pub. L. 95–216 provided that: “Where—
+Pub. L. 95–216, title III, §336(d), Dec. 20, 1977, 91 Stat. 1548, provided that: “Where—
 
 &emsp;“(1) two or more persons are entitled to monthly benefits under section 202 of the Social Security Act \[this section\] for December 1978 on the basis of the wages and self-employment income of a deceased individual, and one or more of such persons is so entitled under subsection (e) or (f) of such section 202 \[subsec. (e) or (f) of this section\], and
 
@@ -2854,7 +2854,7 @@ Section 1(i) of Pub. L. 93–233 provided that: “In the case of an individual 
 
 #### Cost-of-Living Increase in Social Security Benefits; Effective Date; Consumer Price Index Percentage
 
-Section 201 of Pub. L. 93–66, as amended by Pub. L. 93–233, §1(a)–(e), Dec. 30, 1973, 87 Stat. 947, provided that:
+Pub. L. 93–66, title II, §201, July 9, 1973, 87 Stat. 152, as amended by Pub. L. 93–233, §1(a)–(e), Dec. 30, 1973, 87 Stat. 947, provided that:
 
 “(a)(1) The Secretary of Health, Education, and Welfare \[now Health and Human Services\] (hereinafter in this section referred to as the ‘Secretary’) shall, in accordance with the provisions of this section, increase the monthly benefits and lump-sum death payments payable under title II of the Social Security Act \[this subchapter\] by 7 per centum.
 
@@ -2866,7 +2866,7 @@ Section 201 of Pub. L. 93–66, as amended by Pub. L. 93–233, §1(a)–(e), De
 
 &emsp;“(2) in the case of any individual entitled to monthly insurance benefits payable pursuant to section 202(e) of such Act \[subsec. (e) of this section\] for February 1974 (without the application of section 202(j)(1) or 223(b) of such Act \[subsec. (j)(1) of this section or section 423(f) of this title\]), including such benefits based on a primary insurance amount determined under section 215(a)(3) of such Act \[section 415(a)(3) of this title\] as amended by this section, such increase shall be determined without regard to paragraph (2)(B) of such section 202(e), and
 
-&emsp;“(3) in the case of any individual entitled to monthly insurance benefits payable pursuant to section 202(f) of such Act for February 1974 (without the application of section 202(j)(1) or 223(b) of such Act), including such benefits based on a primary insurance amount determined under section 215(a)(3) of such Act as amended by this section, such increase shall be determined without regard to paragraph (3)(B) of such section 202(f).
+&emsp;“(3) in the case of any individual entitled to monthly insurance benefits payable pursuant to section 202(f) of such Act for February 1974 (without the application of section 202(j)(1) or 223(b) of such Act), including such benefits based on a primary insurance amount determined under section 215(a)(3) of such Act as amended by this section, such increase shallbe determined without regard to paragraph (3)(B) of such section 202(f).
 
 “(c) The increase in social security benefits provided by this section shall—
 
@@ -2880,19 +2880,19 @@ Section 201 of Pub. L. 93–66, as amended by Pub. L. 93–233, §1(a)–(e), De
 
 #### Redetermination of Widow's and Widower's Benefits for December 1972 and After To Provide for 1972 Increases
 
-Section 102(g) of Pub. L. 92–603 provided that:
+Pub. L. 92–603, title I, §102(g), Oct. 30, 1972, 86 Stat. 1338, provided that:
 
 “(1) In the case of an individual who is entitled to widow's or widower's insurance benefits for the month of December 1972 the Secretary shall, if it would increase such benefits, redetermine the amount of such benefits for months after December 1972 under title II of the Social Security Act \[this subchapter\] as if the amendments made by this section \[amending this section and section 403 of this title\] had been in effect for the first month of such individual's entitlement to such benefits.
 
 “(2) For purposes of paragraph (1)—
 
-&emsp;“(A) any deceased individual on whose wages and self-employment income the benefits of an individual referred to in paragraph (1) are based, shall be deemed not to have been entitled to benefits if the record, of insured individuals who were entitled tobenefits, that is readily available to the Secretary contains no entry for such deceased individual; and
+&emsp;“(A) any deceased individual on whose wages and self-employment income the benefits of an individual referred to in paragraph (1) are based, shall be deemed not to have been entitled to benefits if the record, of insured individuals who were entitled to benefits, that is readily available to the Secretary contains no entry for such deceased individual; and
 
 &emsp;“(B) any deductions under subsections (b) and (c) of section 203 of such Act \[section 403 of this title\], applicable to the benefits of an individual referred to in paragraph (1) for any month prior to September 1965, shall be disregarded in applying the provisions of section 202(q)(7) of such Act \[subsec. (q)(7) of this section\] (as amended by this Act) \[Pub. L. 92–603\].”
 
 #### Adjustment of Benefits Based on Disability Which Began Between Age 18 and 22
 
-Section 108(g) of Pub. L. 92–603 provided that: “Where—
+Pub. L. 92–603, title I, §108(g), Oct. 30, 1972, 86 Stat. 1344, provided that: “Where—
 
 &emsp;“(1) one or more persons are entitled (without the application of sections 202(j)(1) and 223(b) of the Social Security Act) \[subsec. (j)(1) of this section and section 423(b) of this title\] to monthly benefits under section 202 or 223 of such Act for December 1972 on the basis of the wages and self-employment income of an insured individual, and
 
@@ -2904,7 +2904,7 @@ Section 108(g) of Pub. L. 92–603 provided that: “Where—
 
 #### Termination of Child's Insurance Benefits by Reason of Adoption
 
-Section 112(c) of Pub. L. 92–603 provided that: “Any child—
+Pub. L. 92–603, title I, §112(c), Oct. 30, 1972, 86 Stat. 1347, provided that: “Any child—
 
 &emsp;“(1) whose entitlement to child's insurance benefits under section 202(d) of the Social Security Act \[subsec. (d) of this section\] was terminated by reason of his adoption, prior to the date of the enactment of this Act \[Oct. 30, 1972\], and
 
@@ -2914,7 +2914,7 @@ Section 112(c) of Pub. L. 92–603 provided that: “Any child—
 
 #### Savings Provision
 
-<b>1972</b>—Section 102(h) of Pub. L. 92–603 provided that: “Where—
+<b>1972</b>—Pub. L. 92–603, title I, §102(h), Oct. 30, 1972, 86 Stat. 1339, provided that: “Where—
 
 &emsp;“(1) two or more persons are entitled to monthly benefits under section 202 of the Social Security Act \[this section\] for December 1972 on the basis of the wages and self-employment income of a deceased individual, and one or more of such persons is so entitled under subsection (e) or (f) of such section 202, and
 
@@ -2924,7 +2924,7 @@ Section 112(c) of Pub. L. 92–603 provided that: “Any child—
 
 > then the amount of the benefit to which each such person referred to in paragraph (1) is entitled for months after December 1972 shall in no case be less after the application of this section and such section 203(a) than the amount it would have been without the application of this section.”
 
-Section 114(e) of Pub. L. 92–603 provided that: “Where—
+Pub. L. 92–603, title I, §114(e), Oct. 30, 1972, 86 Stat. 1348, provided that: “Where—
 
 &emsp;“(1) one or more persons are entitled (without the application of sections 202(j)(1) and 223(b) of the Social Security Act) \[subsec. (j)(1) of this section and section 423(b) of this title\] to monthly benefits under section 202 or 223 of such Act for December 1972 on the basis of the wages and self-employment income of an insured individual, and
 
@@ -2934,7 +2934,7 @@ Section 114(e) of Pub. L. 92–603 provided that: “Where—
 
 > then the amount of the benefit to which each person referred to in paragraph (1) of this subsection is entitled beginning with the first month after December 1972 for which any person referred to in paragraph (2) becomes entitled shall be adjusted, after the application of such section 203(a), to an amount no less than the amount it would have been if the person or persons referred to in paragraph (2) of this subsection were not entitled to a benefit referred to in such paragraph (2).”
 
-<b>1961</b>—Section 104(f) of Pub. L. 87–64 provided that: “Where—
+<b>1961</b>—Pub. L. 87–64, title I, §104(f), June 30, 1961, 75 Stat. 139, provided that: “Where—
 
 &emsp;“(1) two or more persons were entitled (without the application of subsection (j)(1) of section 202 of the Social Security Act \[subsec. (j)(1) of this section\]) to monthly benefits under such section 202 for the last month beginning before the effective date of this title \[see Effective Date of 1961 Amendment note set out above\] on the basis of the wages and self-employment income of a deceased individual, and one or more of such persons is entitled to a monthly insurance benefit under subsection (e), (f), or (h) of such section 202 for such last month; and
 
@@ -2942,9 +2942,9 @@ Section 114(e) of Pub. L. 92–603 provided that: “Where—
 
 &emsp;“(3) the total of the benefits to which all persons are entitled under such section 202 on the basis of such individual's wages and self-employment income for such subsequent month is reduced by reason of the application of section 203(a) of such Act \[section 403(a) of this title\],
 
-> then the amount of the benefit to which each such person referred to in paragraph (1) of this subsection is entitled for such subsequent month shall be determined without regard to this Act if, after the application of this Act, such benefit for such month is less than the amount of such benefit for such last month. The preceding provisions of this subsection shall not apply to any monthly benefit of any person for any month beginning after the effective date of this title \[see Effective Date note of 1961 Amendment note set out above\]unless paragraph (3) also applies to such benefit for the month beginning on such effective date (or would so apply but for the next to the last sentence of section 203(a) of the Social Security Act).”
+> then the amount of the benefit to which each such person referred to in paragraph (1) of this subsection is entitled for such subsequent month shall be determined without regard to this Act if, after the application of this Act, such benefit for such month is less than the amount of such benefit for such last month. The preceding provisions of this subsection shall not apply to any monthly benefit of any person for any month beginning after the effective date of this title \[see Effective Date note of 1961 Amendment note set out above\] unless paragraph (3) also applies to such benefit for the month beginning on such effective date (or would so apply but for the next to the last sentence of section 203(a) of the Social Security Act).”
 
-<b>1960</b>—Section 208(e) of Pub. L. 86–778 provided that: “Where—
+<b>1960</b>—Pub. L. 86–778, title II, §208(e), Sept. 13, 1960, 74 Stat. 952, provided that: “Where—
 
 &emsp;“(1) one or more persons were entitled (without the application of section 202(j)(1) of the Social Security Act \[subsec. (j)(1) of this section\]) to monthly benefits under section 202 of such Act for the month before the month in which this Act is enacted \[September 1960\] on the basis of the wages and self-employment income of an individual; and
 
@@ -2954,7 +2954,7 @@ Section 114(e) of Pub. L. 92–603 provided that: “Where—
 
 > then the amount of the benefit to which each person referred to in paragraph (1) of this subsection is entitled for such subsequent month shall not, after the application of such section 203(a), be less than the amount it would have been (determined without regard to section 301 \[section 501 of this title\]) if no person referred to in paragraph (2) of this subsection was entitled to a benefit referred to in such paragraph for such subsequent month on the basis of such wages and self-employment income of such individual.”
 
-Section 301(c) of Pub. L. 86–778 provided that: “Where—
+Pub. L. 86–778, title III, §301(c), Sept. 13, 1960, 74 Stat. 959, provided that: “Where—
 
 &emsp;“(1) one or more persons were entitled (without the application of section 202(j)(1) of the Social Security Act \[subsec. (j)(1) of this section\]) to monthly benefits under section 202 of such Act for the second month following the month in which this Act is enacted \[September 1960\] on the basis of the wages and self-employment income of a deceased individual (but not including any person who became so entitled by reason of section 208 of this Act \[section 408 of this title\]); and
 
@@ -2968,7 +2968,7 @@ Section 301(c) of Pub. L. 86–778 provided that: “Where—
 
 &emsp;“(5) in case such person is entitled to benefits under section 202(d), as though (i) no person is entitled to benefits under section 202(e), (f), (g), or (h) for such subsequent month, and (ii) the maximum of benefits payable, as described in paragraph (3), is such maximum less the amount of each person's benefit for such month determined pursuant to paragraph (4).”
 
-<b>1958</b>—Section 304(b) of Pub. L. 85–840 provided that: “Where—
+<b>1958</b>—Pub. L. 85–840, title III, §304(b), Aug. 28, 1958, 72 Stat. 1029, provided that: “Where—
 
 &emsp;“(1) one or more persons were entitled (without the application of section 202(j)(1) of the Social Security Act \[subsec. (j)(1) of this section\]) to monthly benefits under section 202 of such Act for the month in which this Act is enacted \[August 1958\] on the basis of the wages and self-employment income of an individual; and
 
@@ -2976,9 +2976,9 @@ Section 301(c) of Pub. L. 86–778 provided that: “Where—
 
 &emsp;“(3) the total of the benefits to which all persons are entitled under section 202 of the Social Security Act on the basis of such wages and self-employment income for such subsequent month are reduced by reason of the application of section 203(a) of such Act \[section 403(a) of this title\].
 
-> then the amount of the benefit to which each such person referred to in paragraph (1) of this subsection is entitled for such subsequent month shall be increased, after the application of such section 203(a), to the amount it would have been if no person referred to in paragraph (2) of this subsection was entitled to a parent's insurance benefit for such subsequent month on the basis of such wages and self-employment income.”
+> then the amount of the benefit to which each such person referred to in paragraph (1) of this subsection is entitled for such subsequent month shall be increased,after the application of such section 203(a), to the amount it would have been if no person referred to in paragraph (2) of this subsection was entitled to a parent's insurance benefit for such subsequent month on the basis of such wages and self-employment income.”
 
-<b>1957</b>—Section 5 of Pub. L. 85–238 provided that: “Where—
+<b>1957</b>—Pub. L. 85–238, §5, Aug. 30, 1957, 71 Stat. 520, provided that: “Where—
 
 &emsp;“(a) one or more persons were entitled (without the application of section 202(j)(1) of the Social Security Act \[subsec. (j)(1) of this section\]) to parent's insurance benefits under section 202(h) of such Act for the month in which this Act \[August 1957\] is enacted on the basis of the wages and self-employment income of an individual;
 
@@ -2994,15 +2994,15 @@ Section 301(c) of Pub. L. 86–778 provided that: “Where—
 
 #### Filing of Proof of Support
 
-<b>1968</b>—Section 157(c) of Pub. L. 90–248 provided that: “In the case of any husband who would not be entitled to husband's insurance benefits under section 202(c) of the Social Security Act \[subsec. (c) of this section\] or any widower who would not be entitled to widower's insurance benefits under section 202(f) of such Act except for the enactment of this section, the requirement in section 202(c)(1)(C) or 202(f)(1)(D) of such Act relating to the time within which proof of support must be filed shall not apply if such proof of support is filed within two years after the month following the month in which this Act is enacted \[January 1968\].”
+<b>1968</b>—Pub. L. 90–248, title I, §157(c), Jan. 2, 1968, 81 Stat. 867, provided that: “In the case of any husband who would not be entitled to husband's insurance benefits under section 202(c) of the Social Security Act \[subsec. (c) of this section\] or any widower who would not be entitled to widower's insurance benefits under section 202(f) of such Act except for the enactment of this section, the requirement in section 202(c)(1)(C) or 202(f)(1)(D) of such Act relating to the time within which proof of support must be filed shall not apply if such proof of support is filed within two years after the month following the month in which this Act is enacted \[January 1968\].”
 
-<b>1961</b>—Section 103(c) of title I of Pub. L. 87–64 provided that: “In the case of any widower or parent who would not be entitled to widower's insurance benefits under section 202(f) \[subsec. (f) of this section\], or parent's insurance benefits under section 202(h), of the Social Security Act except for the enactment of this Act (other than this subsection), the requirement in sections 202(f)(1)(D) and 202(h)(1)(B), respectively, of the Social Security Act relating to the time within which proof of support must be filed shall not apply if such proof of support is filed before the close of the 2–year period which begins on the effective date of this title \[see Effective Date of 1961 Amendment note set out above\].”
+<b>1961</b>—Pub. L. 87–64, title I, §103(c), June 30, 1961, 75 Stat. 138, provided that: “In the case of any widower or parent who would not be entitled to widower's insurance benefits under section 202(f) \[subsec. (f) of this section\], or parent's insurance benefits under section 202(h), of the Social Security Act except for the enactment of this Act (other than this subsection), the requirement in sections 202(f)(1)(D) and 202(h)(1)(B), respectively, of the Social Security Act relating to the time within which proof of support must be filed shall not apply if such proof of support is filed before the close of the 2–year period which begins on the effective date of this title \[see Effective Date of 1961 Amendment note set out above\].”
 
-<b>1958</b>—Section 207(b) of Pub. L. 85–840 provided that: “In the case of any husband, widower, or parent who would not be entitled to benefits under section 202(c), section 202(f), and section 202(h), respectively, of the Social Security Act \[subsecs. (c), (f), and (h) of this section\] except for the enactment of section 205 of this Act \[amending this section and sections 401, 403, 414, 415, 422, and 425 of this title\], the requirement in such section 202(c), section 202(f), or section 202(h), as the case may be, that proof of support be filed within a two-year period shall not apply if such proof is filed within two years after the month in which this Act is enacted \[August 1958\].”
+<b>1958</b>—Pub. L. 85–840, title II, §207(b), Aug. 28, 1958, 72 Stat. 1026, provided that: “In the case of any husband, widower, or parent who would not be entitled to benefits under section 202(c), section 202(f), and section 202(h), respectively, of the Social Security Act \[subsecs. (c), (f), and (h) of this section\] except for the enactment of section 205 of this Act \[amending this section and sections 401, 403, 414, 415, 422, and 425 of this title\], the requirement in such section 202(c), section 202(f), or section 202(h), as the case may be, that proof of support be filed within a two-year period shall not apply if such proof is filed within two years after the month in which this Act is enacted \[August 1958\].”
 
-Section 304(c) of Pub. L. 85–840 provided that: “In the case of any parent who would not be entitled to parent's benefits under section 202(h) of the Social Security Act \[subsec. (h) of this section\] except for the enactment of this section, the requirement in such section 202(h) that proof of support be filed within two years of the date of death of the insured individual referred to therein shall not apply if such proof is filed within the two-year period beginning with the first day of the month after the month in which this Act is enacted \[August 1958\].”
+Pub. L. 85–840, title III, §304(c), Aug. 28, 1958, 72 Stat. 1030, provided that: “In the case of any parent who would not be entitled to parent's benefits under section 202(h) of the Social Security Act \[subsec. (h) of this section\] except for the enactment of this section, the requirement in such section 202(h) that proof of support be filed within two years of the date of death of the insured individual referred to therein shall not apply if such proof is filed within the two-year period beginning with the first day of the month after the month in which this Act is enacted \[August 1958\].”
 
-<b>1954</b>—Section 113 of act Sept. 1, 1954, provided that:
+<b>1954</b>—Act Sept. 1, 1954, ch. 1206, title I, §113, 68 Stat. 1086, provided that:
 
 “(a) For the purpose of determining the entitlement of any individual to husband's insurance benefits under subsection (c) of section 202 of the Social Security Act \[subsec. (c) of this section\] on the basis of his wife's wages and self-employment income, the requirements of paragraph (1)(D) of such subsection shall be deemed to be met if—
 
@@ -3024,9 +3024,9 @@ Section 304(c) of Pub. L. 85–840 provided that: “In the case of any parent w
 
 “(d) This section shall apply only with respect to husband's insurance benefits under section 202(c) of the Social Security Act \[subsec. (c) of this section\], and widower's insurance benefits under section 202(f) of such Act \[subsec. (f) of this section\], for months after August 1954, and only with respect to benefits based on applications filed after such month.”
 
-<b>1950</b>—Section 101(c) of act Aug. 28, 1950, provided that:
+<b>1950</b>—Act Aug. 28, 1950, ch. 809, title I, §101(c), 64 Stat. 488, provided that:
 
-“(1) Any individual entitled to primary insurance benefits or widow's current insurance benefits under section 202 of the Social Security Act \[this section\] as in effect prior to its amendment by this Act who would, but for the enactment of this Act, be entitled to such benefits for September 1950 shall be deemed to be entitled to old-age insurance benefits or mother's insurance benefits (as the case may be) under section 202 of the Social Security Act, as amended by this Act, as though such individual became entitled to such benefits in such month.
+“(1) Any individual entitled to primary insurance benefits or widow's current insurance benefits undersection 202 of the Social Security Act \[this section\] as in effect prior to its amendment by this Act who would, but for the enactment of this Act, be entitled to such benefits for September 1950 shall be deemed to be entitled to old-age insurance benefits or mother's insurance benefits (as the case may be) under section 202 of the Social Security Act, as amended by this Act, as though such individual became entitled to such benefits in such month.
 
 “(2) Any individual entitled to any other monthly insurance benefits under section 202 of the Social Security Act as in effect prior to its amendment by this Act who would, but for the enactment of this Act, be entitled to such benefits for September 1950 shall be deemed to be entitled to such benefits under section 202 of the Social Security Act, as amended by this Act, as though such individual became entitled to such benefits in such month.
 
@@ -3034,13 +3034,13 @@ Section 304(c) of Pub. L. 85–840 provided that: “In the case of any parent w
 
 #### Extension of Filing Period for Husband's, Widower's, or Parent's Benefits in Certain Cases
 
-Section 210 of Pub. L. 86–778 provided that:
+Pub. L. 86–778, title II, §210, Sept. 13, 1960, 74 Stat. 953, provided that:
 
 “(a) In the case of any husband who would not be entitled to husband's insurance benefits under section 202(c) of the Social Security Act \[subsec. (c) of this section\] except for the enactment of this Act, the requirement in section 202(c)(1)(C) of the Social Security Act relating to the time within which proof of support must be filed shall not apply if such proof of support is filed within two years after the month in which this Act is enacted \[September 1960\].
 
 “(b) In the case of any widower who would not be entitled to widower's insurance benefits under section 202(f) of the Social Security Act except for the enactment of this Act, the requirement in section 202(f)(1)(D) of the Social Security Act relating to the time within which proof of support must be filed shall not apply if such proof of support is filed within two years after the month in which this Act is enacted.
 
-“(c) In the case of any parent who would not be entitled to parent's insurance benefits under section 202(h) of the Social Security Act except for the enactment of this Act, the requirement in section 202(h)(1)(B) of the Social Security Act relating to the time within which proof of support must be filed shall not apply if suchproof of support is filed within two years after the month in which this Act is enacted.”
+“(c) In the case of any parent who would not be entitled to parent's insurance benefits under section 202(h) of the Social Security Act except for the enactment of this Act, the requirement in section 202(h)(1)(B) of the Social Security Act relating to the time within which proof of support must be filed shall not apply if such proof of support is filed within two years after the month in which this Act is enacted.”
 
 #### Disregarding OASDI Benefit Increases and Child's Insurance Benefit Payments Beyond Age 18 to the Extent Attributable to Retroactive Effective Date of 1965 Amendments
 
@@ -3048,19 +3048,19 @@ Authorization to disregard, in determining need for aid or assistance under an a
 
 #### Lump-Sum Payments Where Death Occurred Prior to September 1, 1950
 
-Section 101(d) of act Aug. 28, 1950, as amended July 18, 1952, ch. 945, §5(e)(1), 66 Stat. 775; Sept. 13, 1960, Pub. L. 86–778, title I, §103(a)(2), 74 Stat. 936, provided that: “Lump-sum death payments shall be made in the case of individuals who died prior to September 1950 as though this Act had not been enacted; except that in the case of any individual who died outside the forty-eight States and the District of Columbia after December 6, 1941, and prior to August 10, 1946, the last sentence of section 202(g) of the Social Security Act \[subsec. (g) of this section\] as in effect prior to the enactment of this Act shall not be applicable if application for a lump-sum death payment is filed prior to September 1952, and except that in the case of any individual who died outside the forty-eight States and the District of Columbia on or after June 25, 1950, and prior to September 1950, whose death occurred while he was in the active military or naval service of the United States, and who is returned to any of such States, the District of Columbia, Alaska, Hawaii, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, or American Samoa for interment or reinterment, the last sentence of section 202(g) of the Social Security Act as in effect prior to the enactment of this Act \[July 18, 1952\] shall not prevent payment to any person under the second sentence thereof if application for a lump-sum death payment under such section with respect to such deceased individual is filed by or on behalf of such person (whether or not legally competent) prior to the expiration of two years after the date of such interment or reinterment.”
+Act Aug. 28, 1950, ch. 809, title I, §101(d), 64 Stat. 488, as amended July 18, 1952, ch. 945, §5(e)(1), 66 Stat. 775; Sept. 13, 1960, Pub. L. 86–778, title I, §103(a)(2), 74 Stat. 936, provided that: “Lump-sum death payments shall be made in the case of individuals who died prior to September 1950 as though this Act had not been enacted; except that in the case of any individual who died outside the forty-eight States and the District of Columbia after December 6, 1941, and prior to August 10, 1946, the last sentence of section 202(g) of the Social Security Act \[subsec. (g) of this section\] as in effect prior to the enactment of this Act shall not be applicable if application for a lump-sum death payment is filed prior to September 1952, and except that in the case of any individual who died outside the forty-eight States and the District of Columbia on or after June 25, 1950, and prior to September 1950, whose death occurred while he was in the active military or naval service of the United States, and who is returned to any of such States, the District of Columbia, Alaska, Hawaii, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, or American Samoa for interment or reinterment, the last sentence of section 202(g) of the Social Security Act as in effect prior to the enactment of this Act \[July 18, 1952\] shall not prevent payment to any person under the second sentence thereof if application for a lump-sum death payment under such section with respect to such deceased individual is filed by or on behalf of such person (whether or not legally competent) prior to the expiration of two years after the date of such interment or reinterment.”
 
 #### Lump-Sum Payments for Deaths Before 1940; Time Limitation
 
-Lump-sum payments of 3½ percent of total wages paid with respect to employment after Dec. 31, 1936 and before reaching the age of 65 were provided for persons who were not qualified individuals upon reaching that age by section 204 of act Aug. 14, 1935, before amendment in 1939. Such lump-sum payments, except to the estate of an individual who died prior to Jan. 1, 1940, were prohibited after Aug. 10, 1939, by section 902(g) of act Aug. 10, 1939. Section 415 of act Aug. 10, 1946, provided that no lump-sum payments shall be made under section 204 of the 1935 act or section 902(g) of the 1939 act unless application therefor has been filed prior to the expiration of six months after Aug. 10, 1946.
+Lump-sum payments of 3½ percent of total wages paid with respect to employment after Dec. 31, 1936 and before reaching the age of 65 were provided for persons who were not qualified individuals upon reaching that age by act Aug. 14, 1935, ch. 531, title II, §204, 49 Stat. 624, before amendment in 1939. Such lump-sum payments, except to the estate of an individual who died prior to Jan. 1, 1940, were prohibited after Aug. 10, 1939, by act Aug. 10, 1939, ch. 666, title IX, §902(g), 53 Stat. 1400. Section 415 of act Aug. 10, 1946, provided that no lump-sum payments shall be made under section 204 of the 1935 act or section 902(g) of the 1939 act unless application therefor has been filed prior to the expiration of six months after Aug. 10, 1946.
 
 #### Death Outside U.S.; Extension of Filing Time for Lump-Sum Payments
 
-Section 5(e)(2) of act July 18, 1952, ch. 945, 66 Stat. 775, as amended by Pub. L. 86–778, title I, §103(a)(2), Sept. 13, 1960, 74 Stat. 936, provided that: “In the case of any individual who died outside the forty-eight States and the District of Columbia after August 1950 and prior to January 1954, whose death occurred while he was in the active military or naval service of the United States, and who is returned to any of such States, the District of Columbia, Alaska, Hawaii, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, or American Samoa for interment or reinterment, the last sentence of section 202(i) of the Social Security Act \[subsec. (i) of this section\] shall not prevent payment to any person under the second sentence thereof if application for a lump-sum death payment with respect to such deceased individual is filed under such section by or on behalf of such person (whether or not legally competent) prior to the expiration of two years after the date of such interment or reinterment.”
+Act July 18, 1952, ch. 945, §5(e)(2), 66 Stat. 775, as amended by Pub. L. 86–778, title I, §103(a)(2), Sept. 13, 1960, 74 Stat. 936, provided that: “In the case of any individual who died outside the forty-eight States and the District of Columbia after August 1950 and prior to January 1954, whose death occurred while he was in the active military or naval service of the United States, and who is returned to any of such States, the District of Columbia, Alaska, Hawaii, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, or American Samoa for interment or reinterment, the last sentence of section 202(i) of the Social Security Act \[subsec. (i) of this section\] shall not prevent payment to any person under the second sentence thereof if application for a lump-sum death payment with respect to such deceased individual is filed under such section by or on behalf of such person (whether or not legally competent) prior to the expiration of two years after the date of such interment or reinterment.”
 
 #### Payment of Annuities to Officers and Employees of the United States Convicted of Certain Offenses
 
-Section 121(b) of act Aug. 1, 1956, ch. 836, provided that: “The amendment made by subsection (a) of this section \[amending this section\] shall not be construed to restrict or otherwise affect any of the provisions of the Act entitled ‘An Act to prohibit payments of annuities to officers and employees of the United States convicted of certain offenses, and for other purposes’, approved September 1, 1954 (Public Law 769, Eighty-third Congress) \[sections 2281 to 2288 of former Title 5, Executive Departments and Government Officers and Employees, and are covered by section 8311 et seq. of Title 5, Government Organization and Employees\].”
+Act Aug. 1, 1956, ch. 836, title I, §121(b), 70 Stat. 838, provided that: “The amendment made by subsection (a) of this section \[amending this section\] shall not be construed to restrict or otherwise affect any of the provisions of the Act entitled ‘An Act to prohibit payments of annuities to officers and employees of the United States convicted of certain offenses, and for other purposes’, approved September 1, 1954 (Public Law 769,Eighty-third Congress) \[sections 2281 to 2288 of former Title 5, Executive Departments and Government Officers and Employees, and are covered by section 8311 et seq. of Title 5, Government Organization and Employees\].”
 
 #### Application for Benefits by Survivors of Members and Former Members of Uniformed Services
 
@@ -3068,7 +3068,7 @@ Forms for use by survivors of members and former members of the uniformed servic
 
 #### Payments of Aliens’ Benefits Withheld Under Foreign Delivery Restriction of Checks Against Federal Funds
 
-Section 162(c)(3) of Pub. L. 90–248 provided that: “Whenever benefits which an individual who is not a citizen or national of the United States was entitled to receive under title II of the Social Security Act \[this subchapter\] are, on June 30, 1968, being withheld by the Treasury Department under the first section of the Act of October 9, 1940 (31 U.S.C. 123) \[31 U.S.C. 3329(a) and 3330(a)\], any such benefits, payable to such individual for months after the month in which the determination by the Treasury Department that the benefits should be so withheld was made, shall not be paid—
+Pub. L. 90–248, title I, §162(c)(3), Jan. 2, 1968, 81 Stat. 871, provided that: “Whenever benefits which an individual who is not a citizen or national of the United States was entitled to receive under title II of the Social Security Act \[this subchapter\] are, on June 30, 1968, being withheld by the Treasury Department under the first section of the Act of October 9, 1940 (31 U.S.C. 123) \[31 U.S.C. 3329(a) and 3330(a)\], any such benefits, payable to such individual for months after the month in which the determination by the Treasury Department that the benefits should be so withheld was made, shall not be paid—
 
 &emsp;“(A) to any person other than such individual, or, if such individual dies before such benefits can be paid, to any person other than an individual who was entitled for the month in which the deceased individual died (with the application of section 202(j)(1) of the Social Security Act \[subsec. (j)(1) of this section\]) to a monthly benefit under title II of such Act \[this subchapter\] on the basis of the same wages and self-employment income as such deceased individual, or
 
@@ -3076,7 +3076,7 @@ Section 162(c)(3) of Pub. L. 90–248 provided that: “Whenever benefits which 
 
 #### Study of Retirement Test and of Drug Standards and Coverage
 
-Section 405 of Pub. L. 90–248 authorized the Secretary of Health, Education, and Welfare to make a study of the existing retirement test and proposals for the modification of the test, the quality and cost standards for drugs for which payments are made under this chapter, and the coverage of drugs under part B of subchapter XVIII of this chapter, and submit a report to the President and to Congress concerning his findings and recommendations on or before Jan. 1, 1969.
+Pub. L. 90–248, title IV, §405, Jan. 2, 1968, 81 Stat. 933, authorized the Secretary of Health, Education, and Welfare to make a study of the existing retirement test and proposals for the modification of the test, the quality and cost standards for drugs for which payments are made under this chapter, and the coverage of drugs under part B of subchapter XVIII of this chapter, and submit a report to the President and to Congress concerning his findings and recommendations on or before Jan. 1, 1969.
 
 #### Ex. Ord. No. 12436. Payment of Certain Benefits to Survivors of Persons Who Died in or as a Result of Military Service
 

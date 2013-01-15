@@ -30,7 +30,7 @@
 
 (h) The Court of International Trade shall have exclusive jurisdiction of any civil action commenced to review, prior to the importation of the goods involved, a ruling issued by the Secretary of the Treasury, or a refusal to issue or change such a ruling, relating to classification, valuation, rate of duty, marking, restricted merchandise, entry requirements, drawbacks, vessel repairs, or similar matters, but only if the party commencing the civil action demonstrates to the court that he would be irreparably harmed unless given an opportunity to obtain judicial review prior to such importation.
 
-(i) In addition to the jurisdiction conferred upon the Court of International Trade by subsections (a)–(h) of this section and subject to the exception set forth in subsection (j) of this section, the Court of International Trade shall have exclusive jurisdiction of any civil action commenced against the United States, its agencies, or its officers, that arises out of any law of the United States providing for—
+(i) In addition to the jurisdiction conferred upon the Court of International Trade by subsections (a)–(h) of this section and subject to the exception set forth in subsection (j) of this section, the Court of International Trade shall haveexclusive jurisdiction of any civil action commenced against the United States, its agencies, or its officers, that arises out of any law of the United States providing for—
 
 &emsp;(1) revenue from imports or tonnage;
 
@@ -45,6 +45,10 @@
 (j) The Court of International Trade shall not have jurisdiction of any civil action arising under section 305 of the Tariff Act of 1930.
 
 (Added Pub. L. 96–417, title II, §201, Oct. 10, 1980, 94 Stat. 1728; amended Pub. L. 98–573, title II, §212(b)(1), Oct. 30, 1984, 98 Stat. 2983; Pub. L. 99–514, title XVIII, §1891(1), Oct. 22, 1986, 100 Stat. 2926; Pub. L. 100–449, title IV, §402(a), Sept. 28, 1988, 102 Stat. 1883; Pub. L. 103–182, title IV, §414(a)(1), title VI, §684(a)(1), Dec. 8, 1993, 107 Stat. 2147, 2219; Pub. L. 111–5, div. B, title I, §1873(b)(2), Feb. 17, 2009, 123 Stat. 414.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 501(c) of Pub. L. 100–449, see Effective and Termination Dates of 1988 Amendment note below.</i>
 
 #### Prior History of Court
 
@@ -88,7 +92,7 @@ A prior section 1581, act June 25, 1948, ch. 646, 62 Stat. 943, related to power
 
 Subsec. (i). Pub. L. 103–182, §414(a)(1), inserted “the North American Free Trade Agreement or” before “the United States-Canada Free-Trade Agreement” in last sentence.
 
-<b>1988</b>—Subsec. (i). Pub. L. 100–449 inserted at end “This subsection shall not confer jurisdiction over an antidumping or countervailing duty determination which is reviewable either by the Court of International Trade under section 516A(a) of the Tariff Act of 1930 or by a binational panel under article 1904 of the United States-Canada Free-Trade Agreement and section 516A(g) of the Tariff Act of 1930.”
+<b>1988</b>—Subsec. (i). Pub. L. 100–449 temporarily inserted at end “This subsection shall not confer jurisdiction over an antidumping or countervailing duty determination which is reviewable either by the Court of International Trade under section 516A(a) of the Tariff Act of 1930 or by a binational panel under article 1904 of the United States-Canada Free-Trade Agreement and section 516A(g) of the Tariff Act of 1930.” See Effective and Termination Dates of 1988 Amendment note below.
 
 <b>1986</b>—Subsec. (g)(1). Pub. L. 99–514 substituted “(3)” for “(3) or (c)”.
 
@@ -98,7 +102,7 @@ Subsec. (g)(2). Pub. L. 98–573 amended par. (2) generally, substituting “any
 
 #### Effective Date of 2009 Amendment
 
-Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 2271 of Title 19, Customs Duties.
+Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009Amendment note under section 2271 of Title 19, Customs Duties.
 
 #### Effective Date of 1993 Amendment
 
@@ -120,7 +124,7 @@ Subsecs. (d) and (g) to (i) of this section applicable with respect to civil act
 
 #### Application of 1993 Amendment
 
-Section 684(b) of Pub. L. 103–182 provided that: “For purposes of applying the amendments made by subsection (a) \[amending this section and sections 2631, 2636, 2640, and 2642 of this title\], any decision or order of the Customs Service denying, suspending, or revoking the accreditation of a private laboratory on or after the date of the enactment of this Act \[Dec. 8, 1993\] and before regulations to implement section 499(b) of the Tariff Act of 1930 \[19 U.S.C. 1499(b)\] are issued shall be treated as having been denied, suspended, or revoked under such section 499(b).”
+Pub. L. 103–182, title VI, §684(b), Dec. 8, 1993, 107 Stat 2219, provided that: “For purposes of applying the amendments made by subsection (a) \[amending this section and sections 2631, 2636, 2640, and 2642 of this title\], any decision or order of the Customs Service denying, suspending, or revoking the accreditation of a private laboratory on or after the date of the enactment of this Act \[Dec. 8, 1993\] and before regulations to implement section 499(b) of the Tariff Act of 1930 \[19 U.S.C. 1499(b)\] are issued shall be treated as having been denied, suspended, or revoked under such section 499(b).”
 
 #### Transfer of Functions
 

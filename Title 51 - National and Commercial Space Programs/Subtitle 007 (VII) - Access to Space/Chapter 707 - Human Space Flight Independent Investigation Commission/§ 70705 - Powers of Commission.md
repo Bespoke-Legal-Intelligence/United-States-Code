@@ -40,7 +40,7 @@ Other departments and agencies.—In addition to the assistance prescribed in pa
 
 &emsp;(3)
 
-Administration engineering and safety center.—The Administration Engineering and Safety Center shall provide data and technical support as requested by the Commission.
+Administration engineering and safety center.—The Administration Engineering andSafety Center shall provide data and technical support as requested by the Commission.
 
 (Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3433.)
 

@@ -6,5 +6,5 @@ The Secretary of the department in which the Coast Guard is operating, in consul
 
 #### Codification
 
-Section was enacted as part of the Coast Guard Authorization Act of 2010, and not as part of the FederalWater Pollution Control Act which comprises this chapter.
+Section was enacted as part of the Coast Guard Authorization Act of 2010, and not as part of the Federal Water Pollution Control Act which comprises this chapter.
 

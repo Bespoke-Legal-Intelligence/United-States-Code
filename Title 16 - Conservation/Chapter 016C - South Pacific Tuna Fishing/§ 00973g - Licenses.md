@@ -34,7 +34,7 @@ The Secretary, in consultation with the Secretary of State, may determine that a
 
 &emsp;(2) where the owner or charterer is the subject of proceedings under the bankruptcy laws of the United States, unless reasonable financial assurances have been provided to the Secretary;
 
-&emsp;(3) where the owner or charterer has not established to the satisfaction of the Secretary that the fishing vessel is fully insured against all risks and liabilities normally provided in maritime liability insurance;
+&emsp;(3) where the owner or charterer has not established to the satisfaction of the Secretary that the fishing vessel is fully insured againstall risks and liabilities normally provided in maritime liability insurance;
 
 &emsp;(4) where the owner or charterer has not paid any penalty which has become final, assessed by the Secretary in accordance with this chapter.
 

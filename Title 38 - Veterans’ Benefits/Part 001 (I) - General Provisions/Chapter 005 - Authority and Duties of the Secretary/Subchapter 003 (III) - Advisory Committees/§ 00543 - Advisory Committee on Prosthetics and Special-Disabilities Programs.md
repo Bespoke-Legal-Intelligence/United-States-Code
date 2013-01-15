@@ -36,7 +36,7 @@ Prior section 543 was renumbered section 1543 of this title.
 
 #### Change of Name
 
-Section 105(a) of Pub. L. 102–405 provided that: “The Federal advisory committee established by the Secretary and known as the Prosthetics Service Advisory Committee shall after the date of the enactment of this Act \[Oct. 9, 1992\] be known as the Advisory Committee on Prosthetics and Special-Disabilities Programs and shall operate as though such committee had been established by law. Notwithstanding any other provision of law, the Committee may, upon the enactment of this Act, meet and act on any matter covered by subsection (b) of section 543 of title 38, United States Code, as added by subsection (b) of this section.”
+Pub. L. 102–405, title I, §105(a), Oct. 9, 1992, 106 Stat. 1975, provided that: “The Federal advisory committee established by the Secretary and known as the Prosthetics Service Advisory Committee shall after the date of the enactment of this Act \[Oct. 9, 1992\] be known as the Advisory Committee on Prosthetics and Special-Disabilities Programs and shall operate as though such committee had been established by law. Notwithstanding any other provision of law, the Committee may, upon the enactment of this Act, meet and act on any matter covered by subsection (b) of section 543 of title 38, United States Code, as added by subsection (b) of this section.”
 
 #### Termination of Advisory Committees
 

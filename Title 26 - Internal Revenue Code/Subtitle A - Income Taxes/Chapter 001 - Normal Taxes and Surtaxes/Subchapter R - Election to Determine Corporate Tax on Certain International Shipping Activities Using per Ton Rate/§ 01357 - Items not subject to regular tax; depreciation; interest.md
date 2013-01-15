@@ -18,7 +18,7 @@ Gross income of a corporation (other than an electing corporation) which is a me
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding paragraph (1), the adjusted basis (for purposes of determining gain) of any qualifying vessel shall be determined as if the deduction for depreciation had been allowed.
+&emsp;&emsp;Notwithstanding paragraph (1), the adjusted basis (for purposes of determininggain) of any qualifying vessel shall be determined as if the deduction for depreciation had been allowed.
 
 #### (B) Method
 

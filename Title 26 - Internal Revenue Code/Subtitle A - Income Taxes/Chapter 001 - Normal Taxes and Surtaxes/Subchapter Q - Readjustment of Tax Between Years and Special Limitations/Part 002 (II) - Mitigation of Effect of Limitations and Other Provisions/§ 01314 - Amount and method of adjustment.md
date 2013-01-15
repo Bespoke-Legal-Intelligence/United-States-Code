@@ -54,5 +54,5 @@ Amendment by Pub. L. 89–44 applicable to taxable years beginning on or after J
 
 #### Effective Date of 1958 Amendment
 
-Amendment by Pub. L. 85–866 effective with respect to determinations made after Nov. 14, 1954, see section 59(c) of Pub. L. 85–866, set out as a note under section 1312 of this title.
+Amendment by Pub. L. 85–866 effective with respect to determinations made after Nov. 14, 1954, see section59(c) of Pub. L. 85–866, set out as a note under section 1312 of this title.
 

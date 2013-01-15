@@ -40,7 +40,7 @@ The annuity to a survivor shall become effective as otherwise specified but shal
 
 #### (e) Waiver of annuity
 
-An individual entitled to an annuity from the fund may decline to accept all or any part of the annuity by submitting a signed waiver to the Director. The waiver may be revoked in writing at any time. Payment of the annuity waived may not be made for the period during which the waiver is in effect.
+An individual entitled to an annuity from the fund may decline to accept all or any part of the annuity by submitting a signed waiver to the Director. The waiver may be revoked in writing at any time. Payment of the annuity waivedmay not be made for the period during which the waiver is in effect.
 
 #### (f) Limitations
 

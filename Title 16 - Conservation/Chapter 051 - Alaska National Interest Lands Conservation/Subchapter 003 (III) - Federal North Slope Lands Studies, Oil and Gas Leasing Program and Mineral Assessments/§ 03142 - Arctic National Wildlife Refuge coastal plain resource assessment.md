@@ -40,7 +40,7 @@ The Secretary, in consultation with the Governor of the State, Native Village an
 
 &emsp;(D) requirements that exploratory activities be coordinated in such a manner as to avoid unnecessary duplication.
 
-(2) The initial guidelines prescribed by the Secretary to implement this subsection shall be accompanied by an environmental impact statement on exploratory activities. The initialguidelines shall thereafter be revised to reflect changes made in the baseline study and other appropriate information made available to the Secretary.
+(2) The initial guidelines prescribed by the Secretary to implement this subsection shall be accompanied by an environmental impact statement on exploratory activities. The initial guidelines shall thereafter be revised to reflect changes made in the baseline study and other appropriate information made available to the Secretary.
 
 #### (e) Exploration plans
 
@@ -100,5 +100,5 @@ Until otherwise provided for in law enacted after December 2, 1980, all public l
 
 #### Amendments
 
-<b>1982</b>—Subsec. (e)(2)(C). Pub. L. 97–394 inserted proviso that the Secretary prohibit by regulation any person who obtains access to such data and information from the Secretary or from any person other than a permittee from participation in any lease sale which includes the areas from which the information was obtained and from any commercial use of the information, and that Secretary require that any permittee make available such data to any person at fair cost.
+<b>1982</b>—Subsec. (e)(2)(C). Pub. L. 97–394 inserted proviso that the Secretary prohibit by regulation any personwho obtains access to such data and information from the Secretary or from any person other than a permittee from participation in any lease sale which includes the areas from which the information was obtained and from any commercial use of the information, and that Secretary require that any permittee make available such data to any person at fair cost.
 

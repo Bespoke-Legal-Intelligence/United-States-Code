@@ -82,11 +82,11 @@ Subsec. (c). Pub. L. 101–189, §704(a), added subsec. (c).
 
 #### Effective Date of 1997 Amendment
 
-Section 1073(c) of Pub. L. 105–85 provided that the amendment made by that section is effective as of Sept. 23, 1996, and as if included in the National Defense Authorization Act for Fiscal Year 1997, Pub. L. 104–201, as enacted.
+Pub. L. 105–85, div. A, title X, §1073(c), Nov. 18, 1997, 111 Stat. 1904, provided that the amendment made by that section is effective as of Sept. 23, 1996, and as if included in the National Defense Authorization Act for Fiscal Year 1997, Pub. L. 104–201, as enacted.
 
 #### Effective Date
 
-Section 2(c) of Pub. L. 100–140 provided that: “The amendments made by this section \[enacting this section and amending section 303a of this title\] shall take effect on October 1, 1987 or on the date of the enactment of this Act \[Oct. 26, 1987\], whichever is later, and shall apply with respect to pay periods beginning on or after that effective date.”
+Pub. L. 100–140, §2(c), Oct. 26, 1987, 101 Stat. 831, provided that: “The amendments made by this section \[enacting this section and amending section 303a of this title\] shall take effect on October 1, 1987 or on the date of the enactment of this Act \[Oct. 26, 1987\], whichever is later, and shall apply with respect to pay periods beginning on or after that effective date.”
 
 #### Transfer of Functions
 
@@ -94,7 +94,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Implementation of Subsection (d)
 
-Section 618(b) of Pub. L. 101–510 provided that: “The Secretary of Defense may not implement subsection (d) of section 302c of title 37, United States Code (as added by subsection (a)), unless the Secretary submits to the Committees on Armed Services of the Senate and House of Representatives a report—
+Pub. L. 101–510, div. A, title VI, §618(b), Nov. 5, 1990, 104 Stat. 1579, provided that: “The Secretary of Defense may not implement subsection (d) of section 302c of title 37, United States Code (as added by subsection (a)), unless the Secretary submits to the Committees on Armed Services of the Senate and House of Representatives a report—
 
 &emsp;“(1) justifying the need of the military departments for the authority provided in such subsection; and
 
@@ -104,7 +104,7 @@ Section 618(b) of Pub. L. 101–510 provided that: “The Secretary of Defense m
 
 #### Implementation of Special Pay for Army, Navy, and Air Force Psychologists
 
-Section 704(d) of Pub. L. 101–189 provided that: “The Secretary of Defense may not implement subsection (c) of section 302c of title 37, United States Code (as added by subsection (a)), unless the Secretary submits to the Committees on Armed Services of the Senate and House of Representatives a report—
+Pub. L. 101–189, div. A, title VII, §704(d), Nov. 29, 1989, 103 Stat. 1471, provided that: “The Secretary of Defense may not implement subsection (c) of section 302c of title 37, United States Code (as added by subsection (a)), unless the Secretary submits to the Committees on Armed Services of the Senate and House of Representatives a report—
 
 &emsp;“(1) justifying the need of the military departments for the authority provided in such subsection; and
 

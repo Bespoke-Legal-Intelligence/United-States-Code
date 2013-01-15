@@ -1,6 +1,6 @@
 ### §1094. Provisions of chapter applicable to registrations on supplemental register
 
-The provisions of this chapter shall govern so far as applicable applications for registration and registrations on the supplemental register as well as those on the principal register, but applications for and registrations on the supplemental register shall not be subject to or receive the advantages of sections 1051(b), 1052(e), 1052(f), 1057(b), 1057(c), 1062(a), 1063 to 1068, inclusive, 1072, 1115 and 1124 of this title.
+The provisions of this chapter shall govern so far as applicable applications for registration and registrations on the supplemental registeras well as those on the principal register, but applications for and registrations on the supplemental register shall not be subject to or receive the advantages of sections 1051(b), 1052(e), 1052(f), 1057(b), 1057(c), 1062(a), 1063 to 1068, inclusive, 1072, 1115 and 1124 of this title.
 
 (July 5, 1946, ch. 540, title II, §26, 60 Stat. 436; Pub. L. 100–667, title I, §123, Nov. 16, 1988, 102 Stat. 3943; Pub. L. 105–330, title II, §201(a)(6), Oct. 30, 1998, 112 Stat. 3070.)
 

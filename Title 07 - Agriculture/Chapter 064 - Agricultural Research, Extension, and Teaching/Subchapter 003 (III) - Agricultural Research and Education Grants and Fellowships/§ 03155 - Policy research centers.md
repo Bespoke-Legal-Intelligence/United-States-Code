@@ -32,7 +32,7 @@ Under this section, funding may be provided for disciplinary and interdisciplina
 
 There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1996 through 2012.
 
-(Pub. L. 95–113, title XIV, §1419A, as added Pub. L. 104–127, title VIII, §807, Apr. 4, 1996, 110 Stat. 1162; amended Pub. L. 105–185, title II, §224, title III, §301(a)(3), June 23, 1998, 112 Stat. 540, 562; Pub. L. 107–171, title VII, §§7103, 7216, May 13,2002, 116 Stat. 432, 449; Pub. L. 110–234, title VII, §7111, May 22, 2008, 122 Stat. 1219; Pub. L. 110–246, §4(a), title VII, §7111, June 18, 2008, 122 Stat. 1664, 1980.)
+(Pub. L. 95–113, title XIV, §1419A, as added Pub. L. 104–127, title VIII, §807, Apr. 4, 1996, 110 Stat. 1162; amended Pub. L. 105–185, title II, §224, title III, §301(a)(3), June 23, 1998, 112 Stat. 540, 562; Pub. L. 107–171, title VII, §§7103, 7216, May 13, 2002, 116 Stat. 432, 449; Pub. L. 110–234, title VII, §7111, May 22, 2008, 122 Stat. 1219; Pub. L. 110–246, §4(a), title VII, §7111, June 18, 2008, 122 Stat. 1664, 1980.)
 
 #### Codification
 

@@ -102,9 +102,9 @@ A copy of each permit application and each permit issued under this section shal
 
 #### (k) Compliance with permits
 
-Compliance with a permit issued pursuant to this section shall be deemed compliance, for purposes of sections 1319 and 1365 of this title, with sections 1311, 1312, 1316, 1317, and 1343 of this title, except any standard imposed under section1317 of this title for a toxic pollutant injurious to human health. Until December 31, 1974, in any case where a permit for discharge has been applied for pursuant to this section, but final administrative disposition of such application has not been made, such discharge shall not be a violation of (1) section 1311, 1316, or 1342 of this title, or (2) section 407 of this title, unless the Administrator or other plaintiff proves that final administrative disposition of such application has not been made because of the failure of the applicant to furnish information reasonably required or requested in order to process the application. For the 180-day period beginning on October 18, 1972, in the case of any point source discharging any pollutant or combination of pollutants immediately prior to such date which source is not subject to section 407 of this title, the discharge by such source shall not be a violation of this chapter if such a source applies for a permit for discharge pursuant to this section within such 180-day period.
+Compliance with a permit issued pursuant to this section shall be deemed compliance, for purposes of sections 1319 and 1365 of this title, with sections 1311, 1312, 1316, 1317, and 1343 of this title, except any standard imposed under section 1317 of this title for a toxic pollutant injurious to human health. Until December 31, 1974, in any case where a permit for discharge has been applied for pursuant to this section, but final administrative disposition of such application has not been made, such discharge shall not be a violation of (1) section 1311, 1316, or 1342 of this title, or (2) section 407 of this title, unless the Administrator or other plaintiff proves that final administrative disposition of such application has not been made because of the failure of the applicant to furnish information reasonably required or requested in order to process the application. For the 180-day period beginning on October 18, 1972, in the case of any point source discharging any pollutant or combination of pollutants immediately prior to such date which source is not subject to section 407 of this title, the discharge by such source shall not be a violation of this chapter if such a source applies fora permit for discharge pursuant to this section within such 180-day period.
 
-#### (<i>l</i>) Limitation on permit requirement
+#### (l) Limitation on permit requirement
 
 #### (1) Agricultural return flows
 
@@ -144,11 +144,11 @@ To the extent a treatment works (as defined in section 1292 of this title) which
 
 &emsp;&emsp;(B) the State submits, and the Administrator approves, a plan for the State to assume administration by phases of the remainder of the State program required by subsection (b) of this section by a specified date not more than 5 years after submission of the partial program under this subsection and agrees to make all reasonable efforts to assume such administration by such date.
 
-#### (<i>o</i>) Anti-backsliding
+#### (o) Anti-backsliding
 
 #### (1) General prohibition
 
-&emsp;In the case of effluent limitations established on the basis of subsection (a)(1)(B) of this section, a permit may not be renewed, reissued, or modified on the basis of effluent guidelines promulgated under section 1314(b) of this title subsequent to the original issuance of such permit, to contain effluent limitations which are less stringent than the comparable effluent limitations in the previous permit. In the case of effluent limitations established on the basis of section 1311(b)(1)(C)or section 1313(d) or (e) of this title, a permit may not be renewed, reissued, or modified to contain effluent limitations which are less stringent than the comparable effluent limitations in the previous permit except in compliance with section 1313(d)(4) of this title.
+&emsp;In the case of effluent limitations established on the basis of subsection (a)(1)(B) of this section, a permit may not be renewed, reissued, or modified on the basis of effluent guidelines promulgated under section 1314(b) of this title subsequent to the original issuance of such permit, to contain effluent limitations which are less stringent than the comparable effluent limitations in the previous permit. In the case of effluent limitations established on the basis of section 1311(b)(1)(C) or section 1313(d) or (e) of this title, a permit may not be renewed, reissued, or modified to contain effluent limitations which are less stringent than the comparable effluent limitations in the previous permit except in compliance with section 1313(d)(4) of this title.
 
 #### (2) Exceptions
 
@@ -212,7 +212,7 @@ To the extent a treatment works (as defined in section 1292 of this title) which
 
 #### (A) Industrial and large municipal discharges
 
-&emsp;&emsp;Not later than 2 years after February 4, 1987, the Administrator shall establish regulations setting forth the permit application requirements for stormwater discharges described in paragraphs (2)(B) and (2)(C). Applications for permits for such discharges shall be filed no later than 3 years after February 4, 1987. Not later than 4 years after February 4, 1987, the Administrator or the State, asthe case may be, shall issue or deny each such permit. Any such permit shall provide for compliance as expeditiously as practicable, but in no event later than 3 years after the date of issuance of such permit.
+&emsp;&emsp;Not later than 2 years after February 4, 1987, the Administrator shall establish regulations setting forth the permit application requirements for stormwater discharges described in paragraphs (2)(B) and (2)(C). Applications for permits for such discharges shall be filed no later than 3 years after February 4, 1987. Not later than 4 years after February 4, 1987, the Administrator or the State, as the case may be, shall issue or deny each such permit. Any such permit shall provide for compliance as expeditiously as practicable, but in no event later than 3 years after the date of issuance of such permit.
 
 #### (B) Other municipal discharges
 
@@ -268,7 +268,7 @@ Subsec. (c)(1). Pub. L. 100–4, §403(b)(2), substituted “as to those dischar
 
 Subsec. (c)(4). Pub. L. 100–4, §403(b)(1), added par. (4).
 
-Subsec. (<i>l</i>). Pub. L. 100–4, §401, inserted “Limitation on permit requirement” as subsec. heading designated existing provisions as par. (1) and inserted par. heading, added par. (2), and aligned pars. (1) and (2).
+Subsec. (l). Pub. L. 100–4, §401, inserted “Limitation on permit requirement” as subsec. heading designated existing provisions as par. (1) and inserted par. heading, added par. (2), and aligned pars. (1) and (2).
 
 Subsecs. (m) to (p). Pub. L. 100–4, §§402, 403(a), 404(a), 405, added subsecs. (m) to (p).
 
@@ -288,7 +288,7 @@ Subsec. (e). Pub. L. 95–217, §50, substituted “subsection (i)(2) of section
 
 Subsec. (h). Pub. L. 95–217, §66, substituted “where no State program is approved or where the Administrator determines pursuant to section 1319(a) of this title that a State with an approved program has not commenced appropriate enforcement action with respect to such permit,” for “where no State program is approved,”.
 
-Subsec. (<i>l</i>). Pub. L. 95–217, §33(c), added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 95–217, §33(c), added subsec. (l).
 
 #### Transfer of Functions
 
@@ -298,7 +298,7 @@ Enforcement functions of Administrator or other official of the Environmental Pr
 
 #### Permit Requirements for Discharges From Certain Vessels
 
-Pub. L. 110–299, §§1, 2, July 31, 2008, 122 Stat. 2995, as amended by Pub. L. 111–215, §1, July 30, 2010, 124 Stat. 2347, provided that:
+Pub. L. 110–299, §§1, 2, July 31, 2008, 122 Stat. 2995, as amended by Pub. L. 111–215, §1, July 30, 2010, 124 Stat. 2347; Pub. L. 112–213, title VII, §703, Dec. 20, 2012, 126 Stat. 1580, provided that:
 
 #### “SECTION 1. DEFINITIONS.
 
@@ -324,7 +324,7 @@ Other terms.—The terms ‘contiguous zone’, ‘discharge’, ‘ocean’, an
 
 “(a)
 
-No Permit Requirement.—Except as provided in subsection (b), during the period beginning on the date of the enactment of this Act \[July 31, 2008\] and ending on December 18, 2013, the Administrator, or a State in the case of a permit program approved under section 402 of the Federal Water Pollution Control Act (33 U.S.C. 1342), shall not require a permit under that section for a covered vessel for—
+No Permit Requirement.—Except as provided in subsection (b), during the period beginning on the date of the enactment of this Act \[July 31, 2008\] and ending on December 18, 2014, the Administrator, or a State in the case of a permit program approved under section 402 of the Federal Water Pollution Control Act (33 U.S.C. 1342), shall not require a permit under that section for a covered vessel for—
 
 &emsp;“(1) any discharge of effluent from properly functioning marine engines;
 
@@ -384,7 +384,7 @@ Group applications.—With respect to group applications for permits for dischar
 
 Municipalities With Less Than 100,000
 
-Population.—The Administrator shall not require any municipality with a population of less than 100,000 to apply for or obtain a permit for any stormwater discharge associated with an industrial activity other than an airport, powerplant, or uncontrolled sanitary landfill owned or operated by such municipality beforeOctober 1, 1992, unless such permit is required by section 402(p)(2)(A) or (E) of the Federal Water Pollution Control Act \[33 U.S.C. 1342(p)(2)(A), (E)\].
+Population.—The Administrator shall not require any municipality with a population of less than 100,000 to apply for or obtain a permit for any stormwater discharge associated with an industrial activity other than an airport, powerplant, or uncontrolled sanitary landfill owned or operated by such municipality before October 1, 1992, unless such permit is required by section 402(p)(2)(A) or (E) of the Federal Water Pollution Control Act \[33 U.S.C. 1342(p)(2)(A), (E)\].
 
 “(d)
 
@@ -396,11 +396,11 @@ Limitation on Statutory Construction.—Nothing in this section shall be constru
 
 “(f)
 
-Regulations.—The Administrator shall issue final regulations with respect to general permits for stormwater discharges associated with industrial activity on or before February 1, 1992.”
+Regulations.—The Administrator shall issue final regulations with respect to general permits forstormwater discharges associated with industrial activity on or before February 1, 1992.”
 
 #### Phosphate Fertilizer Effluent Limitation
 
-Section 306(c) of Pub. L. 100–4 provided that:
+Pub. L. 100–4, title III, §306(c), Feb. 4, 1987, 101 Stat. 36, provided that:
 
 “(1)
 
@@ -422,7 +422,7 @@ Limitations on statutory construction.—Nothing in this section \[amending sect
 
 #### Log Transfer Facilities
 
-Section 407 of Pub. L. 100–4 provided that:
+Pub. L. 100–4, title IV, §407, Feb. 4, 1987, 101 Stat. 74, provided that:
 
 “(a)
 
@@ -438,5 +438,5 @@ Log Transfer Facility Defined.—For the purposes of this section, the term ‘l
 
 #### Allowable Delay in Modifying Existing Approved State Permit Programs To Conform to 1977 Amendment
 
-Section 54(c)(2) of Pub. L. 95–217 provided that any State permit program approved under this section before Dec. 27, 1977, which required modification to conform to the amendment made by section 54(c)(1) of Pub. L. 95–217, which amended subsec. (b)(8) of this section, not be required to be modified before the end of the one year period which began on Dec. 27, 1977, unless in order to make the required modification a State must amend or enact a law in which case such modification not be required for such State before the end of the two year period which began on Dec. 27, 1977.
+Pub. L. 95–217, §54(c)(2), Dec. 27, 1977, 91 Stat. 1591, provided that any State permit program approved under this section before Dec. 27, 1977, which required modification to conform to the amendment made by section 54(c)(1) of Pub. L. 95–217, which amended subsec. (b)(8) of this section, not be required to be modified before the end of the one year period which began on Dec. 27, 1977, unless in order to make the required modification a State must amend or enact a law in which case such modification not be required for such State before the end of the two year period which began on Dec. 27, 1977.
 

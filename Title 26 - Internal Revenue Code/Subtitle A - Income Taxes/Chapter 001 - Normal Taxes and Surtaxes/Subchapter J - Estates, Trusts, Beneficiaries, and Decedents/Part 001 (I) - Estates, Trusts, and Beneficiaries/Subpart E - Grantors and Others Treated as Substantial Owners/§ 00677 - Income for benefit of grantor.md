@@ -32,5 +32,5 @@ Amendment by Pub. L. 99–514 applicable with respect to transfers in trust made
 
 #### Effective Date of 1969 Amendment
 
-Section 332(b) of Pub. L. 91–172 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply in respect of property transferred in trust after October 9, 1969.”
+Pub. L. 91–172, title III, §332(b), Dec. 30, 1969, 83 Stat. 599, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply in respect of property transferred in trust after October 9, 1969.”
 

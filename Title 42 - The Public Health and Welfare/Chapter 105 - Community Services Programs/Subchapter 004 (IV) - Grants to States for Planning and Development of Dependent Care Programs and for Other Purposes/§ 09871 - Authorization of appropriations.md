@@ -1,6 +1,6 @@
 ### §9871. Authorization of appropriations
 
-For the purpose of making allotments to States to carry out the activities described in section 9874 of this title, there is authorized to be appropriated $13,000,000 for fiscal year 1995.
+For the purpose of making allotments to States to carry out the activities described insection 9874 of this title, there is authorized to be appropriated $13,000,000 for fiscal year 1995.
 
 (Pub. L. 97–35, title VI, §670A, as added Pub. L. 98–558, title I, §109, Oct. 30, 1984, 98 Stat. 2880; amended Pub. L. 99–425, title III, §301, Sept. 30, 1986, 100 Stat. 967; Pub. L. 101–501, title III, §301, Nov. 3, 1990, 104 Stat. 1248; Pub. L. 103–252, title I, §122, May 18, 1994, 108 Stat. 650.)
 

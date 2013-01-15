@@ -20,7 +20,7 @@
 
 &emsp;(3) when requested, provide assistance to committees and, to the extent practicable, to members of Congress in evaluating the information obtained from the sources in the directory.
 
-(d) To the extent they consider necessary, the Comptroller General and the Director of the Congressional Budget Office individually or jointly shall establish and maintain a file of information to meet recurring needs of Congress for fiscal, budget, and program information to carry out this section and sections 717 and 1112 of this title. The file shall include information on budget requests, congressional authorizations to obligate and expend, apportionment andreserve actions, and obligations and expenditures. The Comptroller General and the Director shall maintain the file and an index to the file so that it is easier for the committees and agencies of Congress to use the file and index through data processing and communications techniques.
+(d) To the extent they consider necessary, the Comptroller General and the Director of the Congressional Budget Office individually or jointly shall establish and maintain a file of information to meet recurring needs of Congress for fiscal, budget, and program information to carry out this section and sections 717 and 1112 of this title. The file shall include information on budget requests, congressional authorizations to obligate and expend, apportionment and reserve actions, and obligations and expenditures. The Comptroller General and the Director shall maintain the file and an index to the file so that it is easier for the committees and agencies of Congress to use the file and index through data processing and communications techniques.
 
 (e)(1) The Comptroller General shall—
 
@@ -292,7 +292,7 @@ Pub. L. 106–569, title XI, §1102, Dec. 27, 2000, 114 Stat. 3029, as amended b
 
 &emsp;“(3) Section 603 of the Public Works and Economic Development Act of 1965 (42 U.S.C. 3213).
 
-&emsp;“(4) Section 7(<i>o</i>)(1) of the Department of Housing and Urban Development Act (42 U.S.C. 3535(<i>o</i>)(1)).
+&emsp;“(4) Section 7(o)(1) of the Department of Housing and Urban Development Act (42 U.S.C. 3535(o)(1)).
 
 &emsp;“(5) Section 540(c) of the National Housing Act (12 U.S.C. 1735f–18(c)).
 
@@ -302,7 +302,7 @@ Pub. L. 106–569, title XI, §1102, Dec. 27, 2000, 114 Stat. 3029, as amended b
 
 &emsp;“(8) Section 203(v) \[now 203(w)\] of the National Housing Act (12 U.S.C. 1709(v) \[now 1709(w)\]), as added by section 504 of the Housing and Community Development Act of 1992 (Public Law 102–550; 106 Stat. 3780).
 
-&emsp;“(9) Section 802 of the Housing Act of 1954 (12 U.S.C. 1701<i>o</i>).
+&emsp;“(9) Section 802 of the Housing Act of 1954 (12 U.S.C. 1701o).
 
 &emsp;“(10) Section 8 of the Department of Housing and Urban Development Act (42 U.S.C. 3536).
 
@@ -354,7 +354,7 @@ Pub. L. 106–569, title XI, §1102, Dec. 27, 2000, 114 Stat. 3029, as amended b
 
 &emsp;“(34) Section 607(a) of the Housing and Community Development Amendments of 1978 (42 U.S.C. 8106(a)).
 
-&emsp;“(35) Section 708(<i>l</i>) of the Defense Production Act of 1950 (50 U.S.C. App. 2158(<i>l</i>)).
+&emsp;“(35) Section 708(l) of the Defense Production Act of 1950 (50 U.S.C. App. 2158(l)).
 
 &emsp;“(36) Section 2546 of the Comprehensive Thrift and Bank Fraud Prosecution and Taxpayer Recovery Act of 1990 \[Pub. L. 101–647\] (28 U.S.C. 522 note).
 
@@ -506,7 +506,7 @@ Pub. L. 106–554, §1(a)(7) \[title III, §301\], Dec. 21, 2000, 114 Stat. 2763
 
 &emsp;&emsp;“(K) Section 1161 (42 U.S.C. 1320c–10).
 
-&emsp;&emsp;“(L) Section 1875(b) (42 U.S.C. 1395<i>ll</i>(b)).
+&emsp;&emsp;“(L) Section 1875(b) (42 U.S.C. 1395ll(b)).
 
 &emsp;&emsp;“(M) Section 1881 (42 U.S.C. 1395rr).
 
@@ -568,7 +568,7 @@ Pub. L. 106–476, title I, §1463, Nov. 9, 2000, 114 Stat. 2173, provided that:
 
 &emsp;“(2) Section 181 of the Trade Act of 1974 (19 U.S.C. 2241).”
 
-Pub. L. 106–419, title IV, §403(a), Nov. 1, 2000, 114 Stat. 1863, provided that: “Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 \[Pub. L. 104–66\] (31 U.S.C. 1113 note) does not apply to any report required to be submitted under any of the following: sections 503(c), 529, 541(c), 542(c), 3036, and 7312(d) of title 38, United States Code.”
+Pub. L. 106–419, title IV, §403(a), Nov. 1, 2000, 114 Stat. 1863, provided that: “Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 \[Pub. L. 104–66\] (31 U.S.C. 1113 note) does not apply to any report required to be submitted under any of the following: sections 503(c), 529, 541(c), 542(c), \[former\] 3036, and 7312(d) of title 38, United States Code.”
 
 Pub. L. 106–197, §1, May 2, 2000, 114 Stat. 246, provided that: “Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 \[Pub. L. 104–66\] (31 U.S.C. 1113 note) does not apply to any report required to be submitted under any of the following provisions of law:
 
@@ -584,7 +584,7 @@ Pub. L. 106–197, §1, May 2, 2000, 114 Stat. 246, provided that: “Section 30
 
 &emsp;“(6) The following provisions of the Omnibus Crime Control and Safe Streets Act of 1968: sections 102(b) (42 U.S.C. 3712(b)), 520 (42 U.S.C. 3766), 522 (42 U.S.C. 3766b), and 810 (42 U.S.C. 3789e).
 
-&emsp;“(7) The following provisions of the Immigration and Nationality Act: sections 103 (8 U.S.C. 1103), 207(c)(3) (8 U.S.C. 1157(c)(3)), 412(b) (8 U.S.C. 1522(b)), and 413 (8 U.S.C. 1523), and subsections (h), (<i>l</i>), (<i>o</i>), (q), and (r) of section 286 (8 U.S.C. 1356).
+&emsp;“(7) The following provisions of the Immigration and Nationality Act: sections 103 (8 U.S.C. 1103), 207(c)(3) (8 U.S.C. 1157(c)(3)), 412(b) (8 U.S.C. 1522(b)), and 413 (8 U.S.C. 1523), and subsections (h), (l), (o), (q), and (r) of section 286 (8 U.S.C. 1356).
 
 &emsp;“(8) Section 3 of the International Claims Settlement Act of 1949 (22 U.S.C. 1622).
 
@@ -700,7 +700,7 @@ Pub. L. 106–65, div. A, title X, §1031, Oct. 5, 1999, 113 Stat. 749, provided
 
 &emsp;“(18) Section 822(b) of the National Defense Authorization Act for Fiscal Years 1992 and 1993 (42 U.S.C. 6687(b)).
 
-&emsp;“(19) Section 208 of the Department of Energy National Security and Military Applications of Nuclear Energy Authorization Act of 1979 (42 U.S.C. 7271 \[now 50 U.S.C. 2771\]).
+&emsp;“(19) Section 208 of the Department of Energy National Security and Military Applications of Nuclear Energy Authorization Act of 1979 (\[former\] 42 U.S.C. 7271).
 
 &emsp;“(20) Section 3134 of the National Defense Authorization Act for Fiscal Year 1991 (42 U.S.C. 7274c \[now 50 U.S.C. 2587\]).
 

@@ -2,7 +2,7 @@
 
 Section 1394, Pub. L. 89–563, title I, §105, Sept. 9, 1966, 80 Stat. 720, related to judicial review of orders establishing standards, presentation of additional evidence before Secretary, and certified copy of transcript of record. See sections 30103 and 30161 of Title 49, Transportation.
 
-Section 1395, Pub. L. 89–563, title I, §106, Sept. 9, 1966, 80 Stat. 721, related to research, testing, development,and training in traffic and vehicle safety. See section 30168 of Title 49.
+Section 1395, Pub. L. 89–563, title I, §106, Sept. 9, 1966, 80 Stat. 721, related to research, testing, development, and training in traffic and vehicle safety.
 
 Section 1396, Pub. L. 89–563, title I, §107, Sept. 9, 1966, 80 Stat. 721, related to cooperation of Secretary with governmental and private agencies in developing motor vehicle safety standards and methods for determining compliance with such standards. See sections 30111 and 30166 of Title 49.
 
@@ -26,7 +26,7 @@ Section 1404, Pub. L. 89–563, title I, §115, Sept. 9, 1966, 80 Stat. 727, as 
 
 Section 1405, Pub. L. 89–563, title I, §116, Sept. 9, 1966, 80 Stat. 727, related to effect of this chapter on antitrust laws of the United States. See section 30103 of Title 49.
 
-Section 1406, Pub. L. 89–563, title I, §118, Sept. 9, 1966, 80 Stat. 728, required Secretary, in exercising authority under this subchapter, to utilize services, research, and testing facilities of public agencies to maximum extent practicable. See section 30168 of Title 49.
+Section 1406, Pub. L. 89–563, title I, §118, Sept. 9, 1966, 80 Stat. 728, required Secretary, in exercising authority under this subchapter, to utilize services, research, and testing facilities of public agencies to maximum extent practicable.
 
 Section 1407, Pub. L. 89–563, title I, §119, Sept. 9, 1966, 80 Stat. 728, authorized Secretary to issue, amend, and revoke such rules and regulations as Secretary deemed necessary to carry out this subchapter.
 

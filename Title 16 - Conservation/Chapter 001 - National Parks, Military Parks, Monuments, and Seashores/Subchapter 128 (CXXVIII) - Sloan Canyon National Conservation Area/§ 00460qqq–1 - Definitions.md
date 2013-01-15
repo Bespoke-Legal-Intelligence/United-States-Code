@@ -8,7 +8,7 @@ In this subchapter:
 
 #### (2) Federal parcel
 
-&emsp;The term “Federal parcel” means the parcel of Federal land consisting of approximately 500 acres that is identified as Tract A on the map entitled “Southern Nevada Public Land Management Act” and dated October 1, 2002.
+&emsp;The term “Federal parcel” means the parcel of Federal land consisting of approximately500 acres that is identified as Tract A on the map entitled “Southern Nevada Public Land Management Act” and dated October 1, 2002.
 
 #### (3) Management plan
 

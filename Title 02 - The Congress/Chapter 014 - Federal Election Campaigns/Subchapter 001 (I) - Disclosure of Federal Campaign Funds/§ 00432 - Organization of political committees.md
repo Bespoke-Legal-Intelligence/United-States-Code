@@ -70,7 +70,7 @@ The treasurer shall preserve all records required to be kept by this section and
 
 #### (h) Campaign depositories; designations, maintenance of accounts, etc.; petty cash fund for disbursements; record of disbursements
 
-(1) Each political committee shall designate one or more State banks, federally chartered depository institutions, or depository institutions the deposits or accounts of which are insured by the Federal Deposit Insurance Corporation, the Federal Savings and Loan Insurance Corporation, or the National Credit Union Administration, as its campaign depository or depositories. Each political committee shall maintain at least one checking account and such other accounts as the committee determines at a depository designated by such committee. All receipts received by such committee shall be deposited insuch accounts. No disbursements may be made (other than petty cash disbursements under paragraph (2)) by such committee except by check drawn on such accounts in accordance with this section.
+(1) Each political committee shall designate one or more State banks, federally chartered depository institutions, or depository institutions the deposits or accounts of which are insured by the Federal Deposit Insurance Corporation, the Federal Savings and Loan Insurance Corporation, or the National Credit Union Administration, as its campaign depository or depositories. Each political committee shall maintain at least one checking account and such other accounts as the committee determines at a depository designated by such committee. All receipts received by such committee shall be deposited in such accounts. No disbursements may be made (other than petty cash disbursements under paragraph (2)) by such committee except by check drawn on such accounts in accordance with this section.
 
 (2) A political committee may maintain a petty cash fund for disbursements not in excess of $100 to any person in connection with a single purchase or transaction. A record of all petty cash disbursements shall be maintained in accordance with subsection (c)(5) of this section.
 
@@ -88,7 +88,7 @@ This Act, referred to in text, means the Federal Election Campaign Act of 1971, 
 
 <b>2004</b>—Subsec. (e)(3)(B). Pub. L. 108–447 substituted “$2,000” for “$1,000”.
 
-<b>1997</b>—Subsec. (g)(1). Pub. L. 105–55 struck out “and” after “Senator,” and inserted “and by the Republican and Democratic Senatorial Campaign Committees” after “candidate,”.
+<b>1997</b>—Subsec. (g)(1). Pub. L. 105–61 struck out “and” after “Senator,” and inserted “and by the Republican and Democratic Senatorial Campaign Committees” after “candidate,”.
 
 <b>1995</b>—Subsec. (d). Pub. L. 104–79, §1(b), inserted at end “For any report filed in electronic format under section 434(a)(11) of this title, the treasurer shall retain a machine-readable copy of the report as the copy preserved under the preceding sentence.”
 
@@ -112,7 +112,7 @@ Subsec. (c). Pub. L. 96–187 substituted “The treasurer of a political commit
 
 Subsec. (d). Pub. L. 96–187 substituted provisions requiring the treasurer to preserve all records required by this section and copies of all reports to be filed by this subchapter for 3 years after the filing of the report for provisions requiring the treasurer to keep receipted bills for expenditures in excess of $100, and for expenditures of lesser amounts if the aggregate amount to the same person during a calendar year exceeds $100, such receipts to be kept for a period to be determined by the Secretary.
 
-Subsec. (e). Pub. L. 96–187 in par. (1) substituted provisions requiring a written designation of a political committee no later than 15 days after becoming a candidate, with the designation of additional committees to be filed with the principal committee, for provisions prohibiting the designation of a committee as the principal campaign committee of more than one candidate except that the presidential candidate may nominate the national committee of a political party as his principal campaign committee; in par. (2) substituted provisions considering any candidate receiving a contribution or loan or making a disbursement as an agent of the authorized committees for provisions requiring the filing of any report or statement of contributions required to be filed with the Commission to be filed instead with the principal campaign committee; in par.\(3) redesignated existing provisions as introductory clause of par. (3)(A), and in such clause as so redesignated, substituted provision that no political committee which supports or has supported more than one candidate may be designated as an authorized committee for provisions requiring principal committee to receive reports and statements and to compile and file such reports and statements together with its own reports and statements with the Commission, and added pars. (3)(A)(i), (ii), (4) and (5).
+Subsec. (e). Pub. L. 96–187 in par. (1) substituted provisions requiring a written designation of a political committee no later than 15 days after becoming a candidate, with the designation of additional committees to be filed with the principal committee, for provisions prohibiting the designation of a committee as the principal campaign committee of more than one candidate except that the presidential candidate may nominate the national committee of a political party as his principal campaign committee; in par. (2) substituted provisions considering any candidate receiving a contribution or loan or making a disbursement as an agent of the authorized committees for provisions requiring the filing of any report or statement of contributions required to be filed with the Commission to be filed instead with the principal campaign committee; in par. (3) redesignated existing provisions as introductory clause of par. (3)(A), and in such clause as so redesignated, substituted provision that no political committee which supports or has supported more than one candidate may be designated as an authorized committee for provisions requiring principal committee to receive reports and statements and to compile and file such reports and statements together with its own reports and statements with the Commission, and added pars. (3)(A)(i), (ii), (4) and (5).
 
 Subsecs. (f) to (i). Pub. L. 96–187 added subsecs. (f) to (i).
 
@@ -134,9 +134,9 @@ Subsec. (f). Pub. L. 93–443, §202(b), substituted provisions respecting princ
 
 #### Effective Date of 1995 Amendment
 
-Section 1(c) of Pub. L. 104–79 provided that: “The amendments made by subsection (a) and subsection (b) \[amending this section and section 434 of this title\] shall apply with respect to reports for periods beginning after December 31, 1996.”
+Pub. L. 104–79, §1(c), Dec. 28, 1995, 109 Stat. 791, provided that: “The amendments made by subsection (a) and subsection (b) \[amending this section and section 434 of this title\] shall apply with respect to reports for periods beginning after December 31, 1996.”
 
-Section 3(d) of Pub. L. 104–79 provided that: “The amendments made by this section \[amending this section and sections 434 and 438 of this title\] shall apply with respect to reports, designations, and statements required to be filed after December 31, 1995.”
+Pub. L. 104–79, §3(d), Dec. 28, 1995, 109 Stat. 793, provided that: “The amendments made by this section \[amending this section and sections 434 and 438 of this title\] shall apply with respect to reports, designations, and statements required to be filed after December 31, 1995.”
 
 #### Effective Date of 1980 Amendment
 
@@ -148,5 +148,5 @@ Amendment by Pub. L. 93–443 effective Jan. 1, 1975, see section 410(a) of Pub.
 
 #### Transfer of Functions
 
-Federal Savings and Loan Insurance Corporation abolished and functions transferred, see Pub. L. 101–73, title IV, §§401–406, Aug. 9, 1989, 103 Stat. 354–363, set out as a note under section 1437 of Title 12, Banks and Banking.
+Federal Savings and Loan Insurance Corporation abolished and functions transferred, see Pub. L. 101–73,title IV, §§401–406, Aug. 9, 1989, 103 Stat. 354–363, set out as a note under section 1437 of Title 12, Banks and Banking.
 

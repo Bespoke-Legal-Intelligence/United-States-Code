@@ -48,7 +48,7 @@ Except as provided in subsection (g) of this section, the Secretary of Commerce 
 
 &emsp;&emsp;Subject to subparagraph (B), the Secretary of Commerce shall, as soon as possible after July 1, 1993—
 
-&emsp;&emsp;&emsp;(i) determine the species, grades, and geographic origin of unprocessed timber to be prohibited from export in each State that is subject to an order issued under subsection (a) of this section;
+&emsp;&emsp;&emsp;(i) determine the species, grades, and geographic origin of unprocessed timber tobe prohibited from export in each State that is subject to an order issued under subsection (a) of this section;
 
 &emsp;&emsp;&emsp;(ii) administer the prohibitions consistent with sections 620 to 620j of this title;
 
@@ -124,7 +124,7 @@ The prohibitions on exports contained in orders of the Secretary of Commerce iss
 
 Notwithstanding any other provision of this section, beginning on January 1, 1998, and annually thereafter, if the President finds, upon review of the purposes and implementation of sections 620 to 620j of this title, that the prohibitions on exports required by subsection (a) of this section no longer promote the purposes of sections 620 to 620j of this title, then the President may suspend such prohibitions, except that such suspension shall not take effect until 90 days after the President notifies the Congress of such finding.
 
-#### (<i>l</i>) Existing authority not affected
+#### (l) Existing authority not affected
 
 Nothing in sections 620 to 620j of this title shall be construed to limit the authority of the President or the United States Trade Representative to take action authorized by law to respond appropriately to any measures taken by a foreign government in connection with sections 620 to 620j of this title.
 
@@ -150,11 +150,11 @@ Subsec. (b)(2). Pub. L. 103–45, §2(2)(B), added subpar. (A) and struck out fo
 
 Subsec. (b)(3), (4). Pub. L. 103–45, §2(2)(C), (D), added par. (3), redesignated former par. (3) as (4), and substituted “the Secretary of Commerce pursuant to sections 620 to 620j of this title and the effectiveness of State programs authorized under subsection (d) of this section” for “States pursuant to sections 620 to 620j of this title”.
 
-Subsecs. (c) to (<i>l</i>). Pub. L. 103–45, §2(3), (4), added subsecs. (c) to (f), struck out former subsecs. (c) and (d) which related to basis for increase in volume prohibited from export and administrative provisions, respectively, and redesignated former subsecs. (e) to (j) as (g) to (<i>l</i>), respectively.
+Subsecs. (c) to (l). Pub. L. 103–45, §2(3), (4), added subsecs. (c) to (f), struck out former subsecs. (c) and (d) which related to basis for increase in volume prohibited from export and administrative provisions, respectively, and redesignated former subsecs. (e) to (j) as (g) to (l), respectively.
 
 #### Severability of Provisions
 
-Section 4 of Pub. L. 103–45 provided that: “If any provision of this Act \[amending this section and section 620d of this title and enacting provisions set out as a note under section 620 of this title\], or the amendments made by this Act, or the application thereof to any person or circumstance is held invalid, the remainder of this Act and such amendments and the application of such provision to other persons not similarly situated or to other circumstances shall not be affected by such invalidation.”
+Pub. L. 103–45, §4, July 1, 1993, 107 Stat. 228, provided that: “If any provision of this Act \[amending this section and section 620d of this title and enacting provisions set out as a note under section 620 of this title\], or the amendments made by this Act, or the application thereof to any person or circumstance is held invalid, the remainder of this Act and such amendments and the application of such provision to other persons not similarly situated or to other circumstances shall not be affected by such invalidation.”
 
 #### Extension and Issuance of Order Under Subsection (b)(2)
 

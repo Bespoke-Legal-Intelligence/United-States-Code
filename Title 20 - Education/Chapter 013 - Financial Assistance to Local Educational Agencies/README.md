@@ -54,7 +54,7 @@
 
 |  |
 | :--- |
-| 241e to 241<i>o</i>. Repealed. |
+| 241e to 241o. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

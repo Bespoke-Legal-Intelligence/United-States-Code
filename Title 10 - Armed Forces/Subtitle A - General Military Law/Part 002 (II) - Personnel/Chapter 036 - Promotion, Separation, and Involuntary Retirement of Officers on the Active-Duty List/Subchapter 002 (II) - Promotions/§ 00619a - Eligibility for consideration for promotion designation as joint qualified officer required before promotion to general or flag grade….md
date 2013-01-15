@@ -72,7 +72,7 @@ Subsec. (b)(4). Pub. L. 108–375, §533(b), substituted “if the officer's” 
 
 <b>2001</b>—Subsec. (a). Pub. L. 107–107, §525(a), substituted “unless—” and pars. (1) and (2) for “unless the officer has completed a full tour of duty in a joint duty assignment (as described in section 664(f) of this title).”
 
-Subsec. (b). Pub. L. 107–107, §525(b), in introductory provisions, substituted “may waive paragraph (1) or paragraph (2) of subsection (a), or both paragraphs (1) and (2) of subsection (a), in the following circumstances:” for “may waive subsection (a) in the following circumstances:”.
+Subsec. (b). Pub. L. 107–107, §525(b), in introductory provisions, substituted “may waive paragraph (1) orparagraph (2) of subsection (a), or both paragraphs (1) and (2) of subsection (a), in the following circumstances:” for “may waive subsection (a) in the following circumstances:”.
 
 <b>1999</b>—Subsec. (g). Pub. L. 106–65, §508(a), amended heading and text of subsec. (g) generally. Prior to amendment, subsec. (g) authorized the Secretary until Jan. 1, 1999, to waive subsecs. (a) and (d) for certain officers and contained restrictions on appointments of those officers.
 

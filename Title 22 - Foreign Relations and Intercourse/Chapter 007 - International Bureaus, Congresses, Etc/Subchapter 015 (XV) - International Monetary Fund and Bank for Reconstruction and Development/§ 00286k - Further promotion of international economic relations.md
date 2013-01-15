@@ -6,7 +6,7 @@ In the realization that additional measures of international economic cooperatio
 
 #### (b) Transmittal of information to Congressional committees
 
-The President shall, upon the request of any committee of the Congress with legislative or oversight jurisdiction over monetary policy or the International Monetary Fund, provide to such committee any appropriate information relevant to that committee's jurisdiction which is furnished to any department or agency of the United States by the International Monetary Fund. The President shall comply with this provision consistent with United States membership obligations in the International Monetary Fund and subject to such limitations as are appropriate to the sensitive nature of the information.
+The President shall, upon the request of any committee of the Congress with legislative or oversight jurisdiction over monetary policy orthe International Monetary Fund, provide to such committee any appropriate information relevant to that committee's jurisdiction which is furnished to any department or agency of the United States by the International Monetary Fund. The President shall comply with this provision consistent with United States membership obligations in the International Monetary Fund and subject to such limitations as are appropriate to the sensitive nature of the information.
 
 (July 31, 1945, ch. 339, §14, 59 Stat. 517; Pub. L. 95–147, §4(a)(2), Oct. 28, 1977, 91 Stat. 1228.)
 

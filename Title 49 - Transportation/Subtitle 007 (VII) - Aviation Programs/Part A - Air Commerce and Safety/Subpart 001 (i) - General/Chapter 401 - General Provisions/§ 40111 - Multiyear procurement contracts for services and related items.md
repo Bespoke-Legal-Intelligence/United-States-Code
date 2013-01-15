@@ -30,7 +30,7 @@ Considerations.—When making a contract under this section, the Administrator s
 
 &emsp;(2) The Administrator shall consider the desirability of—
 
-&emsp;&emsp;(A) obtaining an option to renew the contract for a reasonable period of not more than 3 years, at a price that does not include charges for nonrecurring costs already amortized; and
+&emsp;&emsp;(A) obtaining an option to renew the contract for a reasonable period of not more than 3 years, at a price that does not includecharges for nonrecurring costs already amortized; and
 
 &emsp;&emsp;(B) reserving in the Administrator the right, on payment of the unamortized part of the cost of the plant or equipment, to take title to the plant or equipment under appropriate circumstances.
 

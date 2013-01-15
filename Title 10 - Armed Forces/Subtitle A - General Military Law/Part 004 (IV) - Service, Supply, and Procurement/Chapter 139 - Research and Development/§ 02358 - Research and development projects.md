@@ -88,6 +88,60 @@ Requirement of Potential Military Relationship.—Funds appropriated to the Depa
 
 For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 2302 of this title.
 
+#### Regional Advanced Technology Clusters
+
+Pub. L. 112–239, div. A, title II, §252, Jan. 2, 2013, 126 Stat. 1688, provided that:
+
+“(a)
+
+Development of Innovative Advanced Technologies.—The Secretary of Defense may use the research and engineering network of the Department of Defense, including the organic industrial base, to support regional advanced technology clusters established by the Secretary of Commerce to encourage the development of innovative advanced technologies to address national security and homeland defense challenges.
+
+“(b)
+
+Report.—Not later than 180 days after the date of the enactment of this Act \[Jan. 2, 2013\], the Under Secretary of Defense for Acquisition, Technology, and Logistics shall submit to the appropriate congressional committees a report describing—
+
+&emsp;“(1) the participation of the Department of Defense in regional advanced technology clusters, including the number of—
+
+&emsp;&emsp;“(A) clusters supported;
+
+&emsp;&emsp;“(B) technologies developed and transitioned to acquisition programs;
+
+&emsp;&emsp;“(C) products commercialized;
+
+&emsp;&emsp;“(D) small businesses trained;
+
+&emsp;&emsp;“(E) companies started; and
+
+&emsp;&emsp;“(F) research and development facilities shared;
+
+&emsp;“(2) implementation by the Department of processes and tools to facilitate collaboration with the clusters;
+
+&emsp;“(3) agreements established by the Department with the Department of Commerce to jointly support the continued growth of the clusters;
+
+&emsp;“(4) methods to evaluate the effectiveness of technology cluster policies;
+
+&emsp;“(5) any additional required authorities and any impediments to supporting regional advanced technology clusters; and
+
+&emsp;“(6) the use of any agreements entered into under the Intergovernmental Personnel Act of 1970 (42 U.S.C. 4701 et seq.) and any access granted to facilities of the Department of Defense for research and development purposes.
+
+“(c)
+
+Collaboration.—The Secretary of Defense may meet, collaborate, and share resources with other Federal agencies for purposes of assisting in the use and appropriate growth of regional advanced technology clusters under this section.
+
+“(d)
+
+Definitions.—In this section:
+
+&emsp;“(1) The term ‘appropriate congressional committees’ means—
+
+&emsp;&emsp;“(A) the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\];
+
+&emsp;&emsp;“(B) the Committee on Commerce, Science, and Transportation of the Senate; and
+
+&emsp;&emsp;“(C) the Committee on Energy and Commerce of the House of Representatives.
+
+&emsp;“(2) The term ‘regional advanced technology clusters’ means geographic centers focused on building science and technology-based innovation capacity in areas of local and regional strength to foster economic growth and improve quality of life.”
+
 #### Advanced Rotorcraft Flight Research and Development
 
 Pub. L. 112–81, div. A, title II, §222, Dec. 31, 2011, 125 Stat. 1336, provided that:
@@ -118,7 +172,7 @@ Elements of Program.—The program authorized by subsection (a) may include—
 
 “(d)
 
-Competition.—In awarding a contract under this section, the Secretary shall use competitive procedures in accordance with the requirements of section 2304 of title 10, United States Code, and shall consider a timelyoffer submitted by a small business concern (as defined in section 2225(f)(3) of such title) in accordance with the specifications and evaluation factors specified in the solicitation.”
+Competition.—In awarding a contract under this section, the Secretary shall use competitive procedures in accordance with the requirements of section 2304 of title 10, United States Code, and shall consider a timely offer submitted by a small business concern (as defined in section 2225(f)(3) of such title) in accordance with the specifications and evaluation factors specified in the solicitation.”
 
 #### Program for Research, Development, and Deployment of Advanced Ground Vehicles, Ground Vehicle Systems, and Components
 
@@ -126,7 +180,7 @@ Pub. L. 111–383, div. A, title II, §214, Jan. 7, 2011, 124 Stat. 4164, provid
 
 “(a)
 
-Program Authorized.—The Secretary of Defense may carry out a program for research and development on, and deployment of, advanced technology ground vehicles, ground vehicle systems, and components within the Department of Defense.
+Program Authorized.—The Secretary of Defense may carry out a program for research and developmenton, and deployment of, advanced technology ground vehicles, ground vehicle systems, and components within the Department of Defense.
 
 “(b)
 
@@ -234,7 +288,7 @@ Program Required.—
 
 &emsp;“(1)
 
-Demonstration and assessment.—The Secretary of Defense, acting through the Executive Agent for Non-lethal Weapons and in coordination with the Secretaries of the military departments andthe combatant commanders, shall carry out a program to demonstrate and assess the utility and effectiveness of non-lethal weapons to provide escalation of force options in counter-insurgency operations.
+Demonstration and assessment.—The Secretary of Defense, acting through the Executive Agent for Non-lethal Weapons and in coordination with the Secretaries of the military departments and the combatant commanders, shall carry out a program to demonstrate and assess the utility and effectiveness of non-lethal weapons to provide escalation of force options in counter-insurgency operations.
 
 &emsp;“(2)
 
@@ -246,7 +300,7 @@ Report.—
 
 &emsp;“(1)
 
-Report required.—Not later than October 1, 2011, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the role and utility of non-lethal weapons and technologies in counterinsurgency operations.
+Report required.—Not later than October 1, 2011, the Secretary of Defense shall submit to thecongressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the role and utility of non-lethal weapons and technologies in counterinsurgency operations.
 
 &emsp;“(2)
 
@@ -296,7 +350,7 @@ Sunset.—The authority under subsection (a) shall expire on September 30, 2016.
 
 #### Science and Technology Investment Strategy To Defeat or Counter Improvised Explosive Devices
 
-Pub. L. 110–417, \[div. A\], title XV, §1504, Oct. 14, 2008, 122 Stat. 4650, as amended by Pub. L. 111–383, div. A, title IX, §901(a)(2), Jan. 7, 2011, 124 Stat. 4317; Pub. L. 112–81, div. A, title X, §1062(b), Dec. 31, 2011, 125 Stat. 1585, provided that:
+Pub. L. 110–417, \[div. A\], title XV, §1504, Oct. 14, 2008, 122 Stat. 4650, as amended by Pub. L. 112–81, div. A, title X, §1062(b), Dec. 31, 2011, 125 Stat. 1585; Pub. L. 112–239, div. A, title X, §1076(c)(2)(D), Jan. 2, 2013, 126 Stat. 1950, provided that:
 
 “(a)
 
@@ -322,7 +376,7 @@ Elements.—The strategy developed under subsection (a) shall include the follow
 
 &emsp;“(8) Identification of the measures of effectiveness for the overall Department of Defense science and technology counter-IED effort.
 
-&emsp;“(9) Such other matters as the Director of the JIEDDO and the Assistant Secretary of Defense for Research and Engineering consider appropriate.”
+&emsp;“(9) Such other matters as the Director and the Assistant Secretary consider appropriate.”
 
 #### Hypersonics Development
 
@@ -418,7 +472,7 @@ Reports to Congress.—If, as a result of a review under subsection (e), funding
 
 #### Collaborative Program for Research and Development of Vacuum Electronics Technologies
 
-Pub. L. 108–375, div. A, title II, §212, Oct. 28, 2004, 118 Stat. 1832, as amended by Pub. L. 111–383, div. A, title IX, §901(a)(2), Jan. 7, 2011, 124 Stat. 4317, provided that:
+Pub. L. 108–375, div. A, title II, §212, Oct. 28, 2004, 118 Stat. 1832, as amended by Pub. L. 112–239, div. A, title X, §1076(c)(2)(A)(iii), Jan. 2, 2013, 126 Stat. 1950, provided that:
 
 “(a)
 
@@ -542,7 +596,7 @@ Expedited Procurement Authority.—(1) For any procurement of property or servic
 
 &emsp;“(C) Section 2313 of title 10, United States Code (relating to the examination of contractor records).
 
-“(3) The Secretary shall institute appropriate internal controls for use of the authority under paragraph\(1), including requirements for documenting the justification for each use of such authority.
+“(3) The Secretary shall institute appropriate internal controls for use of the authority under paragraph (1), including requirements for documenting the justification for each use of such authority.
 
 “(d)
 
@@ -648,7 +702,7 @@ Intial \[sic\] Funding.—Of the funds authorized to be appropriated by section 
 
 #### Defense Nanotechnology Research and Development Program
 
-Pub. L. 107–314, div. A, title II, §246, Dec. 2, 2002, 116 Stat. 2500, as amended by Pub. L. 110–181, div. A, title II, §240, Jan. 28, 2008, 122 Stat. 48; Pub. L. 111–84, div. A, title II, §242, Oct. 28, 2009, 123 Stat. 2237; Pub. L. 111–383, div. A, title IX, §901(a)(2), Jan. 7, 2011, 124 Stat. 4317, provided that:
+Pub. L. 107–314, div. A, title II, §246, Dec. 2, 2002, 116 Stat. 2500, as amended by Pub. L. 110–181, div. A, title II, §240, Jan. 28, 2008, 122 Stat. 48; Pub. L. 111–84, div. A, title II, §242, Oct. 28, 2009, 123 Stat. 2237; Pub. L. 112–239, div. A, title X, §1076(c)(2)(A)(iv), Jan. 2, 2013, 126 Stat. 1950, provided that:
 
 “(a)
 
@@ -744,7 +798,7 @@ Additional Pilot Program.—(1) The Secretary of Defense may carry out a pilot p
 
 &emsp;&emsp;“(ii) effectively shape workforces to ensure that the workforces have the necessary sets of skills and experience to fulfill their organizational missions.
 
-&emsp;“(B) To develop or expand innovative methods of entering into and expanding cooperative relationships and arrangements with private sector organizations, educational institutions (including primary and secondary schools), and State and local governments to facilitate the training of a future scientific and technical workforce that will contribute significantly to the accomplishment of organizational missions.
+&emsp;“(B) To develop or expand innovative methods of entering into and expanding cooperative relationships and arrangements with private sector organizations, educational institutions (including primaryand secondary schools), and State and local governments to facilitate the training of a future scientific and technical workforce that will contribute significantly to the accomplishment of organizational missions.
 
 &emsp;“(C) To develop or expand innovative methods of establishing cooperative relationships and arrangements with private sector organizations and educational institutions to promote the establishment of the technological industrial base in areas critical for Department of Defense technological requirements.
 
@@ -824,7 +878,7 @@ Pub. L. 105–261, div. A, title II, §246, Oct. 17, 1998, 112 Stat. 1955, as am
 
 Pub. L. 105–18, title I, §307, June 12, 1997, 111 Stat. 169, provided that: “For the purposes of implementing the 1997 Defense Experimental Program to Stimulate Competitive Research (DEPSCoR), the term ‘State’ means a State of the United States, the District of Columbia, Puerto Rico, Guam and the Virgin Islands of the United States, American Samoa and the Commonwealth of the Northern Mariana Islands.”
 
-Pub. L. 103–337, div. A, title II, §257, Oct. 5, 1994, 108 Stat. 2705, as amended by Pub. L. 104–106, div. A, title II, §273, Feb. 10, 1996, 110 Stat. 239; Pub. L. 104–201, div. A, title II, §264, Sept. 23, 1996, 110 Stat. 2465; Pub. L. 105–85, div. A, title II, §243, Nov. 18, 1997, 111 Stat. 1667;Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717; Pub. L. 107–314, div. A, title II, §247, Dec. 2, 2002, 116 Stat. 2502; Pub. L. 110–181, div. A, title II, §239, Jan. 28, 2008, 122 Stat. 48; Pub. L. 111–383, div. A, title IX, §901(a)(2), Jan. 7, 2011, 124 Stat. 4317, provided that:
+Pub. L. 103–337, div. A, title II, §257, Oct. 5, 1994, 108 Stat. 2705, as amended by Pub. L. 104–106, div. A, title II, §273, Feb. 10, 1996, 110 Stat. 239; Pub. L. 104–201, div. A, title II, §264, Sept. 23, 1996, 110 Stat. 2465; Pub. L. 105–85, div. A, title II, §243, Nov. 18, 1997, 111 Stat. 1667; Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717; Pub. L. 107–314, div. A, title II, §247, Dec. 2, 2002, 116 Stat. 2502; Pub. L. 110–181, div. A, title II, §239, Jan. 28, 2008, 122 Stat. 48; Pub. L. 112–239, div. A, title X, §1076(c)(2)(A)(v), Jan. 2, 2013, 126 Stat. 1950, provided that:
 
 “(a)
 
@@ -936,7 +990,7 @@ Requirement.—The Secretary of Defense shall take all necessary actions to full
 
 “(b)
 
-Process for Full Implementation.—The Secretary of Defense shall also implement a process and implementation plan to fully utilize the authorities described in subsection (a) to enhance the performance of the missions of the laboratories.
+Process for Full Implementation.—The Secretary of Defense shall also implement a process andimplementation plan to fully utilize the authorities described in subsection (a) to enhance the performance of the missions of the laboratories.
 
 “(c)
 
@@ -996,7 +1050,7 @@ Pub. L. 103–337, div. A, title III, §342(b), Oct. 5, 1994, 108 Stat. 2721, as
 
 #### Inclusion of Women and Minorities in Clinical Research Projects
 
-Section 252 of Pub. L. 103–160 provided that:
+Pub. L. 103–160, div. A, title II, §252, Nov. 30, 1993, 107 Stat. 1607, provided that:
 
 “(a)
 
@@ -1022,7 +1076,7 @@ Requirement for Analysis of Research.—In the case of a project of clinical res
 
 #### University Research Initiative Support Program
 
-Pub. L. 103–160, div. A, title VIII, §802, Nov. 30, 1993, 107 Stat. 1701, as amended by Pub. L. 104–106, div. A,title II, §275, Feb. 10, 1996, 110 Stat. 241; Pub. L. 104–201, div. A, title II, §263, Sept. 23, 1996, 110 Stat. 2465; Pub. L. 111–383, div. A, title IX, §901(a)(2), Jan. 7, 2011, 124 Stat. 4317, provided that:
+Pub. L. 103–160, div. A, title VIII, §802, Nov. 30, 1993, 107 Stat. 1701, as amended by Pub. L. 104–106, div. A, title II, §275, Feb. 10, 1996, 110 Stat. 241; Pub. L. 104–201, div. A, title II, §263, Sept. 23, 1996, 110 Stat. 2465; Pub. L. 112–239, div. A, title X, §1076(c)(2)(E), Jan. 2, 2013, 126 Stat. 1950, provided that:
 
 “(a)
 
@@ -1046,7 +1100,7 @@ Selection Process.—In awarding grants and contracts under the program, the Ass
 
 “(f)
 
-Regulations.—Not later than 90 days after the date of the enactment of this Act \[Nov. 30, 1993\], the Assistant Secretary shall prescribe regulations for carrying out the program.
+Regulations.—The Assistant Secretary shall prescribe regulations for carrying out the program.
 
 “(g)
 

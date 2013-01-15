@@ -58,7 +58,7 @@ Job Corps centers may be residential or nonresidential in character, and shall b
 
 #### (2) Definitions
 
-&emsp;In this subsection, the terms “Indian” and “Indian tribe”, have the meanings given such terms in subsections (d) and (e), respectively, of section 450b of title 25.
+&emsp;In this subsection, the terms “Indian” and “Indian tribe”, have the meanings given suchterms in subsections (d) and (e), respectively, of section 450b of title 25.
 
 (Pub. L. 105–220, title I, §147, Aug. 7, 1998, 112 Stat. 1010.)
 

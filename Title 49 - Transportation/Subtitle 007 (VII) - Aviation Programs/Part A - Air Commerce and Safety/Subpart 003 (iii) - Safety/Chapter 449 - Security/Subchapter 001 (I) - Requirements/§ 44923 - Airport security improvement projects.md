@@ -18,7 +18,7 @@ Applications.—A sponsor seeking a grant under this section shall submit to the
 
 (c)
 
-Approval.—The Under Secretary, after consultation with the Secretary of Transportation, may approve an application of a sponsor for a grant under this section only if the Under Secretary determines that the project will improve security at an airport or improve the efficiency of the airport without lessening security.
+Approval.—The Under Secretary, after consultation with the Secretary of Transportation, may approve an application of a sponsor for a grant under this section only if the UnderSecretary determines that the project will improve security at an airport or improve the efficiency of the airport without lessening security.
 
 (d)
 
@@ -58,7 +58,7 @@ In general.—The Government's share of the cost of a project under this section
 
 &emsp;(2)
 
-Existing letters of intent.—The Under Secretary shall revise letters of intent issuedbefore the date of enactment of this section to reflect the cost share established in this subsection with respect to grants made after September 30, 2003.
+Existing letters of intent.—The Under Secretary shall revise letters of intent issued before the date of enactment of this section to reflect the cost share established in this subsection with respect to grants made after September 30, 2003.
 
 (f)
 
@@ -134,7 +134,7 @@ Pub. L. 110–53, title XVI, §1604(b), Aug. 3, 2007, 121 Stat. 480, provided th
 
 “(1)
 
-In general.—The Administrator of the Transportation Security Administration shall establish a prioritization schedule for airport security improvement projects described in section 44923 of title 49, United States Code, based on risk and other relevant factors, to be funded under that section. The schedule shall include both hub airports referred to in paragraphs (29), (31), and (42) of section 40102\[(a)\] of such title and nonhub airports (as defined in section 47102(13) of such title).
+In general.—The Administrator of the Transportation Security Administration shall establish a prioritization schedule for airport security improvement projects described in section 44923 of title 49, United States Code, based on risk and other relevant factors, to be funded under that section. The schedule shall include both hub airports referred to in paragraphs (29), (31), and (42) of section 40102\[(a)\] of such title and nonhub airports (as defined in section 47102(13) \[now section 47102(14)\] of such title).
 
 “(2)
 

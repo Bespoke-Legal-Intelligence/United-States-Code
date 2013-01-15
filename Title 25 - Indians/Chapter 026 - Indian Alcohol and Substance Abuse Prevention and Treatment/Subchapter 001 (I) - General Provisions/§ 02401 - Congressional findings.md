@@ -34,7 +34,7 @@ This chapter, referred to in par. (12), was in the original “this subtitle”,
 
 #### Short Title
 
-Section 4201 of Pub. L. 99–570 provided that: “This subtitle \[subtitle C (§§4201–4230) of title IV of Pub. L. 99–570, enacting this chapter, amending section 1302 of this title, and enacting provisions set out as a note under section 1302 of this title\] may be cited as the ‘Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986’.”
+Pub. L. 99–570, title IV, §4201, Oct. 27, 1986, 100 Stat. 3207–137, provided that: “This subtitle \[subtitle C (§§4201–4230) of title IV of Pub. L. 99–570, enacting this chapter, amending section 1302 of this title, and enacting provisions set out as a note under section 1302 of this title\] may be cited as the ‘Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986’.”
 
 #### Rule of Construction for Pub. L. 100–690
 

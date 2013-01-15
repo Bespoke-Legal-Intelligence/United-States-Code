@@ -4,7 +4,7 @@
 
 (b) A Comptroller General making an election under section 773 of this title who is separated from office before becoming entitled to an annuity under section 772 of this title is entitled to a lump-sum refund of the amount deducted under section 773 of this title, plus 4 percent interest before January 1, 1948, and 3 percent interest after December 31, 1947, compounded every December 31 until the separation date.
 
-(c) A lump-sum refund of the amounts deducted under sections 772 and 773 of this title, plus interest of 4 percent before January 1, 1948, and 3 percent after December 31, 1947, compounded every December 31 until the date of death, shall be paid under subsection (d) of this section if—
+(c) A lump-sum refund of the amounts deducted under sections 772 and 773 of this title, plus interest of 4 percent before January 1, 1948,and 3 percent after December 31, 1947, compounded every December 31 until the date of death, shall be paid under subsection (d) of this section if—
 
 &emsp;(1) a Comptroller General dies in office before completing 5 years of civilian service under section 774 of this title or after completing 5 years of civilian service but without a survivor entitled to an annuity under section 774(b) and (c) of this title; or
 

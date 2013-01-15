@@ -32,7 +32,7 @@ Pub. L. 85–859 substituted “$2,500” for “$1,000” in section catchline,
 
 #### Effective Date of 1986 Amendment
 
-Section 1566(e) of Pub. L. 99–514 provided that: “The amendments made by this section \[amending this section and section 7103 of this title\] shall take effect on the date of the enactment of this Act \[Oct. 22, 1986\].”
+Pub. L. 99–514, title XV, §1566(e), Oct. 22, 1986, 100 Stat. 2763, provided that: “The amendments made by this section \[amending this section and section 7103 of this title\] shall take effect on the date of the enactment of this Act \[Oct. 22, 1986\].”
 
 #### Effective Date of 1958 Amendments
 

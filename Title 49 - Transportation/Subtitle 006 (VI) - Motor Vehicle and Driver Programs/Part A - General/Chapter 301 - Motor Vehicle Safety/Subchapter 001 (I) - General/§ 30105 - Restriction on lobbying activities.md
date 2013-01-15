@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—No funds appropriated to the Secretary for the National Highway Traffic Safety Administration shall be available for any activity specifically designed to urge a State or local legislator to favor or oppose the adoption of any specific legislative proposal pending before any State or local legislative body.
+In General.—No funds appropriated to the Secretary for the National Highway Traffic Safety Administration shall be available for anyactivity specifically designed to urge a State or local legislator to favor or oppose the adoption of any specific legislative proposal pending before any State or local legislative body.
 
 (b)
 

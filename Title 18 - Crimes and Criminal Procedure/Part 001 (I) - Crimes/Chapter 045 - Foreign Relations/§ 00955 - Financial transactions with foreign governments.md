@@ -26,5 +26,5 @@ An additional paragraph was added to the text of this section by Senate amendmen
 
 #### Applicability of Section
 
-Pub. L. 102–511, title IX, §902, Oct. 24, 1992, 106 Stat. 3355, provided that: “Section 955 of title 18, UnitedStates Code, shall not apply with respect to any obligations of the former Soviet Union, or any of the independent states of the former Soviet Union, or any political subdivision, organization, or association thereof.”
+Pub. L. 102–511, title IX, §902, Oct. 24, 1992, 106 Stat. 3355, provided that: “Section 955 of title 18, United States Code, shall not apply with respect to any obligations of the former Soviet Union, or any of the independent states of the former Soviet Union, or any political subdivision, organization, or association thereof.”
 

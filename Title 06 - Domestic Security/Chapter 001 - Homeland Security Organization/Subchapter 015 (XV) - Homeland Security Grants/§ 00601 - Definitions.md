@@ -64,7 +64,7 @@ In this subchapter, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(iii)(I) that is located on or near an international border or a coastline bordering an ocean (including the Gulf of Mexico) or international waters;
 
-&emsp;&emsp;&emsp;(II) that is located within 10 miles of a system or asset included on the prioritized critical infrastructure list established under section 124<i>l</i>(a)(2) of this title or has such a system or asset within its territory;
+&emsp;&emsp;&emsp;(II) that is located within 10 miles of a system or asset included on the prioritized critical infrastructure list established under section 124l(a)(2) of this title or has such a system or asset within its territory;
 
 &emsp;&emsp;&emsp;(III) that is located within or contiguous to 1 of the 50 most populous metropolitan statistical areas in the United States; or
 

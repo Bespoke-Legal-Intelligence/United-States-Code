@@ -12,7 +12,7 @@
 
 #### Effective Date of 1992 Amendment
 
-Section 2806 of Pub. L. 102–486 provided that: “Sections 185 b. and 189 a. (1)(B) of the Atomic Energy Act of 1954 \[subsec. (b) of this section and section 2239(a)(1)(B) of this title\], as added by sections 2801 and 2802 of this Act, shall apply to all proceedings involving a combined license for which an application was filed after May 8, 1991, under such sections.”
+Pub. L. 102–486, title XXVIII, §2806, Oct, 24, 1992, 106 Stat. 3121, provided that: “Sections 185 b. and 189 a. (1)(B) of the Atomic Energy Act of 1954 \[subsec. (b) of this section and section 2239(a)(1)(B) of this title\], as added by sections 2801 and 2802 of this Act, shall apply to all proceedings involving a combined license for which an application was filed after May 8, 1991, under such sections.”
 
 #### Executive Order No. 12129
 

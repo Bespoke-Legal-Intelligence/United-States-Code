@@ -10,7 +10,7 @@ Consultation With Secretary of State.—
 
 &emsp;(1)
 
-In general.—The Secretary and the Landsat Program Management shall consult with the Secretary of State on all matters under this chapter affecting international obligations. The Secretary of State shall be responsible for determining those conditions, consistent with this chapter, necessary to meet international obligations and policies of the United States and for notifying promptlythe Secretary and the Landsat Program Management of such conditions.
+In general.—The Secretary and the Landsat Program Management shall consult with the Secretary of State on all matters under this chapter affecting international obligations. The Secretary of State shall be responsible for determining those conditions, consistent with this chapter, necessary to meet international obligations and policies of the United States and for notifying promptly the Secretary and the Landsat Program Management of such conditions.
 
 &emsp;(2)
 

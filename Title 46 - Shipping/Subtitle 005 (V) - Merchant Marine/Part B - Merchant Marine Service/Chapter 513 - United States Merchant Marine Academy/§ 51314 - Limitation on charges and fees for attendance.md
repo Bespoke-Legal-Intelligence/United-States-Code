@@ -2,7 +2,7 @@
 
 (a)
 
-Prohibition.—Except as provided in subsection (b), no charge or fee for tuition, room, or board for attendance at the United States Merchant Marine Academy may be imposed unlessthe charge or fee is specifically authorized by a law enacted after October 5, 1994.
+Prohibition.—Except as provided in subsection (b), no charge or fee for tuition, room, or board for attendance at the United States Merchant Marine Academy may be imposed unless the charge or fee is specifically authorized by a law enacted after October 5, 1994.
 
 (b)
 

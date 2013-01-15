@@ -34,7 +34,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The President may provide financial assistance to individuals or households to rent alternate housing accommodations, existing rental units, manufactured housing, recreational vehicles, or other readily fabricated dwellings. Such assistance may include the payment of the cost of utilities, excluding telephone service.
+&emsp;&emsp;&emsp;The President may provide financial assistance to individuals or households to rent alternate housing accommodations, existing rental units, manufactured housing, recreational vehicles, or other readilyfabricated dwellings. Such assistance may include the payment of the cost of utilities, excluding telephone service.
 
 #### (ii) Amount
 
@@ -76,7 +76,7 @@
 
 #### (B) Applicability of flood insurance requirement
 
-&emsp;&emsp;With respect to assistance provided under this paragraph, the President may not waive any provision of Federal law requiring thepurchase of flood insurance as a condition of the receipt of Federal disaster assistance.
+&emsp;&emsp;With respect to assistance provided under this paragraph, the President may not waive any provision of Federal law requiring the purchase of flood insurance as a condition of the receipt of Federal disaster assistance.
 
 #### (4) Permanent housing construction
 

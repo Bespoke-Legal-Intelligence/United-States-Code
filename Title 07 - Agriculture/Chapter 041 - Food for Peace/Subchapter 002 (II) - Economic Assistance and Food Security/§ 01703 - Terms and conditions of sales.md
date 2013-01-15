@@ -36,7 +36,7 @@ Delivery of the commodities shall be made in accordance with the terms of the ag
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a)(2)(A). Pub. L. 104–127, §204(1), struck out “a recipient country to make” after “may permit”and substituted “the appropriate country” for “such country”.
+<b>1996</b>—Subsec. (a)(2)(A). Pub. L. 104–127, §204(1), struck out “a recipient country to make” after “may permit” and substituted “the appropriate country” for “such country”.
 
 Subsec. (c). Pub. L. 104–127, §204(2), struck out “less than 10 nor” before “more than 30”.
 
@@ -54,7 +54,7 @@ Subsec. (m). Pub. L. 99–198, §1111(d)(3), inserted introductory text “excep
 
 Subsec. (n). Pub. L. 99–198, §1111(d)(4), struck out “for dollars on credit terms” after “sales” and “for cash dollars” after “made”.
 
-Subsec. (<i>o</i>). Pub. L. 99–198, §1111(d)(5), substituted “take” for “Take”.
+Subsec. (o). Pub. L. 99–198, §1111(d)(5), substituted “take” for “Take”.
 
 Subsecs. (p), (q). Pub. L. 99–198, §1111(d)(6), (7), substituted “except as provided in section 1708 of this title, assure convertibility” for “Assure convertibility”.
 
@@ -62,7 +62,7 @@ Subsecs. (p), (q). Pub. L. 99–198, §1111(d)(6), (7), substituted “except as
 
 Subsec. (d). Pub. L. 97–113, §401(3), in defining “friendly country”, struck out provision excluding from term “for the purpose only of sales of agricultural commodities for foreign currencies under this subchapter, any country or area dominated by a Communist government”.
 
-Subsec. (<i>l</i>). Pub. L. 97–113, §401(4), struck out requirement that President obtain commitments from friendly purchasing countries that will insure, insofar as practicable, that food commodities sold for foreign currencies under this subchapter shall be marked or identified at point of distribution or sale as being provided on a concessional basis to the recipient government through the generosity of the people of the United States of America.
+Subsec. (l). Pub. L. 97–113, §401(4), struck out requirement that President obtain commitments from friendly purchasing countries that will insure, insofar as practicable, that food commodities sold for foreign currencies under this subchapter shall be marked or identified at point of distribution or sale as being provided on a concessional basis to the recipient government through the generosity of the people of the United States of America.
 
 <b>1979</b>—Subsec. (f). Pub. L. 96–53 substituted provisions requiring Presidential consideration to the development and expansion of markets for United States agricultural commodities and local foodstuffs, for provisions requiring special Presidential consideration to the development and expansion of foreign markets for United States agricultural commodities.
 
@@ -78,13 +78,13 @@ Subsec. (b). Pub. L. 94–161, §203(2), substituted “section 1704 and in sect
 
 Subsec. (d). Pub. L. 94–161, §203(3), substituted second proviso “<i>Provided</i>, That this exclusion from the definition of ‘friendly country’ may be waived by the President if he determines that such waiver is in the national interest and reports such determination to the Congress within 10 days of the date of such determination” for “<i>Provided</i>, That with respect to furnishing, selling, or selling and transporting to Cuba medical supplies, non-strategic raw materials for agriculture, and non-strategic agricultural or food commodities, sales agreements may be entered into if the President finds with respect to each such country and so informs the Senate and the House of Representatives of the reasons therefor, that the making of each such agreement would be in the national interest of the United States and all such findings and reasons therefor shall be published in the Federal Register”.
 
-<b>1973</b>—Subsec. (<i>o</i>). Pub. L. 93–125 made technical correction to Pub. L. 93–86, see 1973 Amendment note below.
+<b>1973</b>—Subsec. (o). Pub. L. 93–125 made technical correction to Pub. L. 93–86, see 1973 Amendment note below.
 
 Pub. L. 91–524, §703, as added by Pub. L. 93–86 as amended by Pub. L. 93–125, inserted “and that commercial supplies are available to meet demands developed through programs carried out under this chapter.” before the semicolon at end.
 
 <b>1968</b>—Subsec. (b). Pub. L. 90–436, §4, made mandatory, except when determined by President to be inconsistent with objectives of this chapter, proviso that President, in agreements for credit sales, require immediate payment in dollars or in foreign currencies upon delivery of agricultural commodities, such payment to be considered as an advance payment of earliest obligations.
 
-Subsecs. (<i>o</i>) to (q). Pub. L. 90–436, §5, added subsecs. (<i>o</i>) to (q).
+Subsecs. (o) to (q). Pub. L. 90–436, §5, added subsecs. (o) to (q).
 
 <b>1966</b>—Subsec. (a). Pub. L. 89–808 substituted provisions respecting self-help measures for meeting problems of food production and population growth for former provisions for appropriations for reimbursement of Commodity Credit Corporation, advance use of other funds, and classification of expenditures, now provided for in part by section 1733 of this title.
 
@@ -92,7 +92,7 @@ Subsec. (b). Pub. L. 89–808 substituted provisions respecting taking steps to 
 
 Subsec. (c). Pub. L. 89–808 redesignated provisions of former section 1701(a) of this title as subsec. (c), substituting “subchapter” for “chapter”.
 
-Subsec. (d). Pub. L. 89–808 redesignated provisions of former section 1707 of this title as subsec. (d), provided for sales agreements only with friendly countries and for periodic reports to Congress of status of such countries, deleted from definition of “friendly country” (formerly “friendly nation”) clause “(1) the U.S.S.R.”, redesignated cls. (2) to (4) as (1) to (3), substituted “country” for “nation”, struck out “or controlled” after “dominated” in cl. (2), amended cl. (3) to include North Vietnam, insert selling or furnishing ships or aircraft, substitute “so long as they are governed by a Communist regime” for “, so long as Cuba is governed by the Castro regime”, and provided for entry into sales agreements when in the national interest for furnishing, selling, or selling and transporting to Cuba medical supplies, etc., upon information to Congress and publication in Federal Register, designated existing provisions as cl. (4), and substituted requirement of information to the President of the Senate of sales to United Arab Republic rather than the Foreign Relations Committee and Appropriations Committee of the Senate.
+Subsec. (d). Pub. L. 89–808 redesignated provisions of former section 1707 of this title as subsec. (d), provided for sales agreements only with friendly countries and for periodic reports to Congress of status of such countries, deleted from definition of “friendly country” (formerly “friendly nation”) clause “(1) the U.S.S.R.”, redesignated cls. (2) to (4) as (1) to (3), substituted “country” for “nation”, struck out “or controlled” after “dominated” in cl. (2), amended cl. (3) to include North Vietnam, insert selling or furnishing ships or aircraft, substitute “so long as they are governed by a Communist regime” for “, so long as Cuba is governedby the Castro regime”, and provided for entry into sales agreements when in the national interest for furnishing, selling, or selling and transporting to Cuba medical supplies, etc., upon information to Congress and publication in Federal Register, designated existing provisions as cl. (4), and substituted requirement of information to the President of the Senate of sales to United Arab Republic rather than the Foreign Relations Committee and Appropriations Committee of the Senate.
 
 Subsec. (e). Pub. L. 89–808 redesignated provisions of former section 1701(b) of this title as subsec. (e), inserting provision for the taking of steps to assure that small business has adequate and fair opportunity to participate in sales made under authority of this chapter.
 
@@ -108,7 +108,7 @@ Subsec. (j). Pub. L. 89–808 incorporated in provisions added as subsec. (j) fo
 
 Subsec. (k). Pub. L. 89–808 added subsec. (k).
 
-Subsec. (<i>l</i>). Pub. L. 89–808 added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 89–808 added subsec. (l).
 
 Subsec. (m). Pub. L. 89–808 redesignated provisions of former section 1701(g) of this title as par. (1) and added par. (2).
 
@@ -156,13 +156,13 @@ Amendment by Pub. L. 89–808 effective Jan. 1, 1967, see section 5 of Pub. L. 8
 
 #### Effective Date of 1964 Amendment
 
-Section 1(5) of Pub. L. 88–638 provided that the amendment made by that section is effective Jan. 1, 1965.
+Pub. L. 88–638, §1(5), Oct. 8, 1964, 78 Stat. 1035, provided that the amendment made by section 1(5) is effective Jan. 1, 1965.
 
 #### Effective Date of 1961 Amendment
 
-Section 201(2) of Pub. L. 87–128 provided that the amendment made by that section is effective Jan. 1, 1962.
+Pub. L. 87–128, title II, §201(2), Aug. 8, 1961, 75 Stat. 306, provided that the amendment made by section 201(2) is effective Jan. 1, 1962.
 
 #### Effective Date of 1959 Amendment
 
-Section 2 of Pub. L. 86–341 provided that the amendment made by that section is effective Jan. 1, 1960.
+Pub. L. 86–341, title I, §2, Sept. 21, 1959, 73 Stat. 606, provided that the amendment made by section 2 is effective Jan. 1, 1960.
 

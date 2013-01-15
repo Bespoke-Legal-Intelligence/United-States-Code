@@ -22,7 +22,7 @@ Authority to make space available and sublease space.—The Architect may make s
 
 &emsp;(4)
 
-Other terms and conditions.—The agreement contains terms and conditions theArchitect prescribes to carry out the objectives of this chapter.
+Other terms and conditions.—The agreement contains terms and conditions the Architect prescribes to carry out the objectives of this chapter.
 
 (c)
 

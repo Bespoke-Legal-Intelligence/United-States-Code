@@ -22,11 +22,11 @@
 
 #### (ii) Limitation
 
-&emsp;&emsp;&emsp;The number of employees of such a business that are treated as New York LibertyZone business employees on any day by reason of clause (i) shall not exceed the excess of—
+&emsp;&emsp;&emsp;The number of employees of such a business that are treated as New York Liberty Zone business employees on any day by reason of clause (i) shall not exceed the excess of—
 
 &emsp;&emsp;&emsp;&emsp;(I) the number of employees of such business on September 11, 2001, in the New York Liberty Zone, over
 
-&emsp;&emsp;&emsp;&emsp;(II) the number of New York Liberty Zone business employees (determined without regard to this subparagraph) of such business on the day to which the limitation is being applied.
+&emsp;&emsp;&emsp;&emsp;(II) the number of New York Liberty Zone business employees (determinedwithout regard to this subparagraph) of such business on the day to which the limitation is being applied.
 
 &emsp;&emsp;&nbsp;The Secretary may require any trade or business to have the number determined under subclause (I) verified by the New York State Department of Labor.
 
@@ -120,7 +120,7 @@
 
 #### (D) Special rules
 
-&emsp;&emsp;For purposes of this subsection, rules similar to the rules of section 168(k)(2)(E) shall apply, except that clause (i) thereof shall be applied without regard to “and before January 1, 2013”, and clause (iv) thereof shall be applied by substituting “qualified New York Liberty Zone property” for “qualified property”.
+&emsp;&emsp;For purposes of this subsection, rules similar to the rules of section 168(k)(2)(E) shall apply, except that clause (i) thereof shall be applied without regard to “and before January 1, 2014”, and clause (iv) thereof shall be applied by substituting “qualified New York Liberty Zone property” for “qualified property”.
 
 #### (E) Allowance against alternative minimum tax
 
@@ -170,7 +170,7 @@
 
 &emsp;&emsp;(C) the Governor or the Mayor designates such bond for purposes of this section, and
 
-&emsp;&emsp;(D) such bond is issued after the date of the enactment of this section and before January 1, 2012.
+&emsp;&emsp;(D) such bond is issued after the date of the enactment of this section and before January 1, 2014.
 
 #### (3) Limitations on amount of bonds
 
@@ -292,7 +292,7 @@
 
 #### (g) Extension of replacement period for nonrecognition of gain
 
-Notwithstanding subsections (g) and (h) of section 1033, clause (i) of section 1033(a)(2)(B) shall be applied by substituting “5 years” for “2years” with respect to property which is compulsorily or involuntarily converted as a result of the terrorist attacks on September 11, 2001, in the New York Liberty Zone but only if substantially all of the use of the replacement property is in the City of New York, New York.
+Notwithstanding subsections (g) and (h) of section 1033, clause (i) of section 1033(a)(2)(B) shall be applied by substituting “5 years” for “2 years” with respect to property which is compulsorily or involuntarily converted as a result of the terrorist attacks on September 11, 2001, in the New York Liberty Zone but only if substantially all of the use of the replacement property is in the City of New York, New York.
 
 #### (h) New York Liberty Zone
 
@@ -302,13 +302,17 @@ For purposes of this section, the term “New York Liberty Zone” means the are
 
 For purposes of this section, the terms “Governor” and “Mayor” mean the Governor of the State of New York and the Mayor of the City of New York, New York, respectively.
 
-(Added Pub. L. 107–147, title III, §301(a), Mar. 9, 2002, 116 Stat. 33; amended Pub. L. 108–27, title II, §201(c)(2), May 28, 2003, 117 Stat. 757; Pub. L. 108–311, title III, §309(a)–(c), title IV, §403(c), Oct. 4, 2004, 118 Stat. 1179, 1180, 1187; Pub. L. 109–135, title IV, §§405(a)(2), 412(ss), Dec. 21, 2005, 119 Stat. 2634, 2640; Pub. L. 110–185, title I, §103(c)(8), Feb. 13, 2008, 122 Stat. 619; Pub. L. 111–240, title II, §2022(b)(6), Sept. 27, 2010, 124 Stat. 2558; Pub. L. 111–312, title IV, §401(d)(6), title VII, §761(a), Dec. 17, 2010, 124 Stat. 3306, 3323.)
+(Added Pub. L. 107–147, title III, §301(a), Mar. 9, 2002, 116 Stat. 33; amended Pub. L. 108–27, title II, §201(c)(2), May 28, 2003, 117 Stat. 757; Pub. L. 108–311, title III, §309(a)–(c), title IV, §403(c), Oct. 4, 2004, 118 Stat. 1179, 1180, 1187; Pub. L. 109–135, title IV, §§405(a)(2), 412(ss), Dec. 21, 2005, 119 Stat. 2634, 2640; Pub. L. 110–185, title I, §103(c)(8), Feb. 13, 2008, 122 Stat. 619; Pub. L. 111–240, title II, §2022(b)(6), Sept. 27, 2010, 124 Stat. 2558; Pub. L. 111–312, title IV, §401(d)(6), title VII, §761(a), Dec. 17, 2010, 124 Stat. 3306, 3323; Pub. L. 112–240, title III, §§328(a), 331(e)(4), Jan. 2, 2013, 126 Stat. 2334, 2337.)
 
 #### References in Text
 
 The date of the enactment of this section, referred to in subsecs. (d)(2)(D) and (e)(1), is the date of enactment of Pub. L. 107–147, which was approved Mar. 9, 2002.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (b)(2)(D). Pub. L. 112–240, §331(e)(4), substituted “January 1, 2014” for “January 1, 2013”.
+
+Subsec. (d)(2)(D). Pub. L. 112–240, §328(a), substituted “January 1, 2014” for “January 1, 2012”.
 
 <b>2010</b>—Subsec. (b)(2)(D). Pub. L. 111–312, §401(d)(6), substituted “January 1, 2013” for “January 1, 2011”.
 
@@ -347,6 +351,12 @@ Subsec. (e)(2)(B). Pub. L. 108–311, §309(c), substituted “or the Municipal 
 Subsec. (f)(2). Pub. L. 108–311, §403(c)(4), inserted “, determined without regard to subparagraph (C)(i) thereof” before period at end.
 
 <b>2003</b>—Subsec. (b)(2)(C)(i). Pub. L. 108–27, which directed amendment of heading by substituting “Bonus depreciation property under section 168(k)” for “30-percent additional allowance property”, was executed by making the substitution for “30 percent additional allowance property” to reflect the probable intent of Congress.
+
+#### Effective Date of 2013 Amendment
+
+Pub. L. 112–240, title III, §328(b), Jan. 2, 2013, 126 Stat. 2334, provided that: “The amendment made by this section \[amending this section\] shall apply to bonds issued after December 31, 2011.”
+
+Amendment by section 331(e)(4) of Pub. L. 112–240 applicable to property placed in service after Dec. 31, 2012, in taxable years ending after such date, see section 331(f) of Pub. L. 112–240, set out as a note under section 168 of this title.
 
 #### Effective Date of 2010 Amendment
 

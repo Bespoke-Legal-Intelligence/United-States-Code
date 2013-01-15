@@ -68,7 +68,7 @@
 
 &emsp;(B) meet and confer with such exclusive employee representatives, for a period not less than 30 days, for purposes of attempting to reach an agreement on whether and how to proceed with the portion of the recommendations that the Secretary has determined not to accept;
 
-&emsp;(C) at the election of the Secretary, or of a majority of such exclusive employee representatives who are participating in negotiations on such matter, employ the services of the Federal Mediation and Conciliation Service during the period referred to in subparagraph (B) for purposes of reaching such agreement; and
+&emsp;(C) at the election of the Secretary, or of a majority of such exclusive employee representatives who are participating in negotiations on such matter, employ the services ofthe Federal Mediation and Conciliation Service during the period referred to in subparagraph (B) for purposes of reaching such agreement; and
 
 &emsp;(D) if the Secretary determines that activities under subparagraph (B), (C), or both are unsuccessful at reaching such agreement and determines (in the sole and unreviewable discretion of the Secretary) that further meeting and conferral under subparagraph (B), mediation under subparagraph (C), or both are unlikely to reach such agreement—
 

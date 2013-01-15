@@ -14,7 +14,7 @@
 
 (b)(1)(A) Whenever the Secretary makes a determination described in subparagraph (B), the Secretary shall prescribe regulations providing that a presumption of service connection is warranted for the illness covered by that determination for purposes of this section.
 
-(B) A determination referred to in subparagraph (A) is a determination based on soundmedical and scientific evidence that a positive association exists between—
+(B) A determination referred to in subparagraph (A) is a determination based on sound medical and scientific evidence that a positive association exists between—
 
 &emsp;(i) the exposure of humans or animals to a biological, chemical, or other toxic agent, environmental or wartime hazard, or preventive medicine or vaccine known or presumed to be associated with service in the Southwest Asia theater of operations during the Persian Gulf War; and
 

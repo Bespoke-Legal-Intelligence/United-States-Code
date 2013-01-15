@@ -106,7 +106,7 @@ In general.—For a taxable year for which there is a nonqualified withdrawal (i
 
 &emsp;(2)
 
-Maximum tax rate.—For that portion of a nonqualified withdrawal made from the capital gain account during a taxable year to which section 1(h) or 1201(a) of such Code (26 U.S.C. 1(h), 1201(a)) applies, the tax rate used under paragraph (1)(B) may not exceed 15 percent (or 34 percent for a corporation).
+Maximum tax rate.—For that portion of a nonqualified withdrawal made from the capital gain account during a taxable year to which section 1(h) or 1201(a) of such Code (26 U.S.C. 1(h), 1201(a)) applies, the tax rate used under paragraph (1)(B) may not exceed 20 percent (or 34 percent for a corporation).
 
 &emsp;(3)
 
@@ -118,13 +118,9 @@ Tax benefit rule.—If any portion of a nonqualified withdrawal is properly attr
 
 &emsp;(4)
 
-Coordination with deduction for net operating losses.—A nonqualified withdrawal excluded from gross income under paragraph (1) shall be excluded in determining taxable income under section 172(b)(2) of such Code (26 U.S.C. 172(b)(2)).
+Coordination with deduction for net operating losses.—A nonqualified withdrawalexcluded from gross income under paragraph (1) shall be excluded in determining taxable income under section 172(b)(2) of such Code (26 U.S.C. 172(b)(2)).
 
-(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1597.)
-
-#### Amendment of Subsection (f)(2)
-
-<i>Subsection (f)(2) of this section was derived from the last paragraph of section 1177(h)(6)(A) of the former Appendix to this title, which was amended by section 301(a)(2)(E) of Pub. L. 108–27 by substituting “15 percent” for “20 percent”. Section 303 of Pub. L. 108–27, as amended by section 102 of Pub. L. 109–222 and section 102(a) of Pub. L. 111–312, set out as an Effective and Termination Dates of 2003 Amendment note under section 1 of Title 26, Internal Revenue Code, provided that such amendment shall not apply to taxable years beginning after December 31, 2012, and that the Internal Revenue Code of 1986 shall be applied and administered to such years as if the amendment had never been enacted. For applicability of section 303 of Pub. L. 108–27 to subsection (f)(2) of this section, see section 3528 of Pub. L. 110–181, set out as an Application of Sunset Provision to Subsection (f)(2) note below and section 18(c), (d) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.</i>
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1597; Pub. L. 112–240, title I, §102(c)(1)(E), Jan. 2, 2013, 126 Stat. 2319.)
 
 Historical and Revision Notes
 
@@ -146,7 +142,17 @@ In subsection (c)(3)(C), the words “or in the case of any nonqualified withdra
 
 In subsection (d), the words “made in a taxable year beginning in 1970 or 1971 is 8 percent” are omitted as obsolete.
 
+#### Amendments
+
+<b>2013</b>—Subsec. (f)(2). Pub. L. 112–240 substituted “20 percent” for “15 percent”.
+
+#### Effective Date of 2013 Amendment
+
+Amendment by Pub. L. 112–240 applicable to taxable years beginning after Dec. 31, 2012, see section 102(d)(1) of Pub. L. 112–240, set out as a note under section 1 of Title 26, Internal Revenue Code.
+
 #### Application of Sunset Provision to Subsection (f)(2)
 
-Pub. L. 110–181, div. C, title XXXV, §3528, Jan. 28, 2008, 122 Stat. 603, provided that: “For purposes of section 303 of the Jobs and Growth Tax Relief Reconciliation Act of 2003 (Public Law 108–27, 26 U.S.C. 1 note), the amendment made by section 301(a)(2)(E) of that Act \[which amended section 1177(h)(6)(A) of the former Appendix to this title from which subsec. (f)(2) of this section was derived by substituting “15 percent” for “20 percent”\] shall be deemed to have been made to section 53511(f)(2) of title 46, United States Code.”
+Pub. L. 110–181, div. C, title XXXV, §3528, Jan. 28, 2008, 122 Stat. 603, provided that: “For purposes of section 303 of the Jobs and Growth Tax Relief Reconciliation Act of 2003 (Public Law 108–27, \[former\] 26 U.S.C. 1 note), the amendment made by section 301(a)(2)(E) of that Act \[which amended section 1177(h)(6)(A) of the former Appendix to this title from which subsec. (f)(2) of this section was derived by substituting “15 percent” for “20 percent”\] shall be deemed to have been made to section 53511(f)(2) of title 46, United States Code.”
+
+\[Section 303 of Pub. L. 108–27 was repealed by Pub. L. 112–240, title I, §102(a), Jan. 2, 2013, 126 Stat. 2318.\]
 

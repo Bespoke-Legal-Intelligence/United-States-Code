@@ -28,11 +28,11 @@ This chapter, referred to in subsec. (b), was in the original, “this Act”, m
 
 #### Effective Date
 
-Section 308(c) of div. C of Pub. L. 104–208 provided that: “The amendment made by subsection (a) \[enacting this section\] shall apply to actions occurring on or after the title III–A effective date (as defined in section 309(a) of this division \[set out as a note under section 1101 of this title\]).”
+Pub. L. 104–208, div. C, title III, §380(c), Sept. 30, 1996, 110 Stat. 3009–650, provided that: “The amendmentmade by subsection (a) \[enacting this section\] shall apply to actions occurring on or after the title III–A effective date (as defined in section 309(a) of this division \[set out as a note under section 1101 of this title\]).”
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of this title.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
 #### References to Order of Removal Deemed To Include Order of Exclusion and Deportation
 

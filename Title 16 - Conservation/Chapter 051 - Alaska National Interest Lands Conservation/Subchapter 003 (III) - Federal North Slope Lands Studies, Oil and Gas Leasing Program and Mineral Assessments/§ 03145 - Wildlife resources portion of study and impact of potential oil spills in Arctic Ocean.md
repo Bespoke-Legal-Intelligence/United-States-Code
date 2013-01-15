@@ -44,11 +44,11 @@ The Secretary of State shall report to the Congress on the Secretary's efforts p
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L. 101–380, set out as an Effective Date note under section 2701 of Title 33, Navigation and Navigable Waters.
+Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L.101–380, set out as an Effective Date note under section 2701 of Title 33, Navigation and Navigable Waters.
 
 #### Study on Barren-Ground Caribou
 
-Section 306 of Pub. L. 96–487 provided:
+Pub. L. 96–487, title III, §306, Dec. 2, 1980, 94 Stat. 2396, provided:
 
 “(a) The Congress finds that the barren-ground caribou are a migratory species deserving of careful study and special protection, and that the Western Arctic and the Porcupine herds of such caribou are of national and international significance.
 

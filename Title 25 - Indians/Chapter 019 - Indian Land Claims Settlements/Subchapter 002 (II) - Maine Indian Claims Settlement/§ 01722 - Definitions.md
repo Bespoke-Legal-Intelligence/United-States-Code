@@ -24,7 +24,7 @@ For purposes of this subchapter, the term—
 
 &emsp;(k) “Penobscot Nation” means the Penobscot Indian Nation as constituted in aboriginal times, and all its predecessors and successors in interest. The Penobscot Nation is represented, as of October 10, 1980, by the Penobscot Nation Governor and Council;
 
-&emsp;(<i>l</i>) “Secretary” means the Secretary of the Interior;
+&emsp;(l) “Secretary” means the Secretary of the Interior;
 
 &emsp;(m) “Settlement Fund” means the Maine Indian Claims Settlement Fund established under section 1724(a) of this title; and
 

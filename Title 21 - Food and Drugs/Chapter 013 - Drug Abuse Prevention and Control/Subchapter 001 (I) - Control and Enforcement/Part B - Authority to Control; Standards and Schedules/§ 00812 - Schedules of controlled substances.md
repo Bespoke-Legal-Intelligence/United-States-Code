@@ -64,7 +64,7 @@ Schedules I, II, III, IV, and V shall, unless and until amended <sup>1</sup> pu
 
 Schedule I
 
-(a) Unless specifically excepted or unless listed in another schedule, any of the following opiates, including their isomers, esters, ethers,salts, and salts of isomers, esters, and ethers, whenever the existence of such isomers, esters, ethers, and salts is possible within the specific chemical designation:
+(a) Unless specifically excepted or unless listed in another schedule, any of the following opiates, including their isomers, esters, ethers, salts, and salts of isomers, esters, and ethers, whenever the existence of such isomers, esters, ethers, and salts is possible within the specific chemical designation:
 
 &emsp;(1) Acetylmethadol.
 
@@ -232,6 +232,76 @@ Schedule I
 
 &emsp;(17) Tetrahydrocannabinols.
 
+&emsp;(18) 4-methylmethcathinone (Mephedrone).
+
+&emsp;(19) 3,4-methylenedioxypyrovalerone (MDPV).
+
+&emsp;(20) 2-(2,5-Dimethoxy-4-ethylphenyl)ethanamine (2C–E).
+
+&emsp;(21) 2-(2,5-Dimethoxy-4-methylphenyl)ethanamine (2C–D).
+
+&emsp;(22) 2-(4-Chloro-2,5-dimethoxyphenyl)ethanamine (2C–C).
+
+&emsp;(23) 2-(4-Iodo-2,5-dimethoxyphenyl)ethanamine (2C–I).
+
+&emsp;(24) 2-\[4-(Ethylthio)-2,5-dimethoxyphenyl\]ethanamine (2C–T–2).
+
+&emsp;(25) 2-\[4-(Isopropylthio)-2,5-dimethoxyphenyl\]ethanamine (2C–T–4).
+
+&emsp;(26) 2-(2,5-Dimethoxyphenyl)ethanamine (2C–H).
+
+&emsp;(27) 2-(2,5-Dimethoxy-4-nitro-phenyl)ethanamine (2C–N).
+
+&emsp;(28) 2-(2,5-Dimethoxy-4-(n)-propylphenyl)ethanamine (2C–P).
+
+(d)(1) Unless specifically exempted or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of cannabimimetic agents, or which contains their salts, isomers, and salts of isomers whenever the existence of such salts, isomers, and salts of isomers is possible within the specific chemical designation.
+
+(2) In paragraph (1):
+
+&emsp;(A) The term “cannabimimetic agents” means any substance that is a cannabinoid receptor type 1 (CB1 receptor) agonist as demonstrated by binding studies and functional assays within any of the following structural classes:
+
+&emsp;&emsp;(i) 2-(3-hydroxycyclohexyl)phenol with substitution at the 5-position of the phenolic ring by alkyl or alkenyl, whether or not substituted on the cyclohexyl ring to any extent.
+
+&emsp;&emsp;(ii) 3-(1-naphthoyl)indole or 3-(1-naphthylmethane)indole by substitution at the nitrogen atom of the indole ring, whether or not further substituted on the indole ring to any extent, whether or not substituted on the naphthoyl or naphthyl ring to any extent.
+
+&emsp;&emsp;(iii) 3-(1-naphthoyl)pyrrole by substitution at the nitrogen atom of the pyrrole ring, whether or not further substituted in the pyrrole ring to any extent, whether or not substituted on the naphthoyl ring to any extent.
+
+&emsp;&emsp;(iv) 1-(1-naphthylmethylene)indene by substitution of the 3-position of the indene ring, whether or not further substituted in the indene ring to any extent, whether or not substituted on the naphthyl ring to any extent.
+
+&emsp;&emsp;(v) 3-phenylacetylindole or 3-benzoylindole by substitution at the nitrogen atom of the indole ring, whether or not further substituted in the indole ring to any extent, whether or not substituted on the phenyl ring to any extent.
+
+&emsp;(B) Such term includes—
+
+&emsp;&emsp;(i) 5-(1,1-dimethylheptyl)-2-\[(1R,3S)-3-hydroxycyclohexyl\]-phenol (CP–47,497);
+
+&emsp;&emsp;(ii) 5-(1,1-dimethyloctyl)-2-\[(1R,3S)-3-hydroxycyclohexyl\]-phenol (cannabicyclohexanol or CP–47,497 C8-homolog);
+
+&emsp;&emsp;(iii) 1-pentyl-3-(1-naphthoyl)indole (JWH–018 and AM678);
+
+&emsp;&emsp;(iv) 1-butyl-3-(1-naphthoyl)indole (JWH–073);
+
+&emsp;&emsp;(v) 1-hexyl-3-(1-naphthoyl)indole (JWH–019);
+
+&emsp;&emsp;(vi) 1-\[2-(4-morpholinyl)ethyl\]-3-(1-naphthoyl)indole (JWH–200);
+
+&emsp;&emsp;(vii) 1-pentyl-3-(2-methoxyphenylacetyl)indole (JWH–250);
+
+&emsp;&emsp;(viii) 1-pentyl-3-\[1-(4-methoxynaphthoyl)\]indole (JWH–081);
+
+&emsp;&emsp;(ix) 1-pentyl-3-(4-methyl-1-naphthoyl)indole (JWH–122);
+
+&emsp;&emsp;(x) 1-pentyl-3-(4-chloro-1-naphthoyl)indole (JWH–398);
+
+&emsp;&emsp;(xi) 1-(5-fluoropentyl)-3-(1-naphthoyl)indole (AM2201);
+
+&emsp;&emsp;(xii) 1-(5-fluoropentyl)-3-(2-iodobenzoyl)indole (AM694);
+
+&emsp;&emsp;(xiii) 1-pentyl-3-\[(4-methoxy)-benzoyl\]indole (SR–19 and RCS–4);
+
+&emsp;&emsp;(xiv) 1-cyclohexylethyl-3-(2-methoxyphenylacetyl)indole (SR–18 and RCS–8); and
+
+&emsp;&emsp;(xv) 1-pentyl-3-(2-chlorophenylacetyl)indole (JWH–203).
+
 Schedule II
 
 (a) Unless specifically excepted or unless listed in another schedule, any of the following substances whether produced directly or indirectly by extraction from substances of vegetable origin, or independently by means of chemical synthesis, or by a combination of extraction and chemical synthesis:
@@ -384,9 +454,13 @@ Any compound, mixture, or preparation containing any of the following limited qu
 
 &emsp;(5) Not more than 100 milligrams of opium per 100 milliliters or per 100 grams.
 
-(Pub. L. 91–513, title II, §202, Oct. 27, 1970, 84 Stat. 1247; Pub. L. 95–633, title I, §103, Nov. 10, 1978, 92 Stat. 3772; Pub. L. 98–473, title II, §§507(c), 509(b), Oct. 12, 1984, 98 Stat. 2071, 2072; Pub. L. 99–570, title I, §1867, Oct. 27, 1986, 100 Stat. 3207–55; Pub. L. 99–646, §84, Nov. 10, 1986, 100 Stat. 3619; Pub. L. 101–647, title XIX, §1902(a), Nov. 29, 1990, 104 Stat. 4851.)
+(Pub. L. 91–513, title II, §202, Oct. 27, 1970, 84 Stat. 1247; Pub. L. 95–633, title I, §103, Nov. 10,1978, 92 Stat. 3772; Pub. L. 98–473, title II, §§507(c), 509(b), Oct. 12, 1984, 98 Stat. 2071, 2072; Pub. L. 99–570, title I, §1867, Oct. 27, 1986, 100 Stat. 3207–55; Pub. L. 99–646, §84, Nov. 10, 1986, 100 Stat. 3619; Pub. L. 101–647, title XIX, §1902(a), Nov. 29, 1990, 104 Stat. 4851; Pub. L. 112–144, title XI, §1152, July 9, 2012, 126 Stat. 1130.)
 
 #### Amendments
+
+<b>2012</b>—Subsec. (c). Pub. L. 112–144, §1152(b), added schedule I(c)(18) to (28).
+
+Pub. L. 112–144, §1152(a), added schedule I(d).
 
 <b>1990</b>—Subsec. (c). Pub. L. 101–647 added item (e) at end of schedule III.
 
@@ -448,7 +522,7 @@ Failure to issue order.—If the final order is not issued within the period spe
 
 #### Placement of Pipradrol and SPA in Schedule IV To Carry Out Obligation Under Convention on Psychotropic Substances
 
-Section 102(c) of Pub. L. 95–633 provided that: “For the purpose of carrying out the minimum United States obligations under paragraph 7 of article 2 of the Convention on Psychotropic Substances, signed at Vienna, Austria, on February 21, 1971, with respect to pipradrol and SPA (also known as (-)-1-dimethylamino-1,2-diphenylethane), the Attorney General shall by order, made without regard to sections 201 and 202 of the Controlled Substances Act \[this section and section 811 of this title\], place such drugs in schedule IV of such Act \[see subsec. (c) of this section\].”
+Pub. L. 95–633, title I, §102(c), Nov. 10, 1978, 92 Stat. 3772, provided that: “For the purpose of carrying out the minimum United States obligations under paragraph 7 of article 2 of the Convention on Psychotropic Substances, signed at Vienna, Austria, on February 21, 1971, with respect to pipradrol and SPA (also known as (-)-1-dimethylamino-1,2-diphenylethane), the Attorney General shall by order, made without regard to sections 201 and 202 of the Controlled Substances Act \[this section and section 811 of this title\], place such drugs in schedule IV of such Act \[see subsec. (c) of this section\].”
 
 Provision of section 102(c) of Pub. L. 95–633, set out above, effective on the date the Convention on Psychotropic Substances enters into force in the United States \[July 15, 1980\], see section 112 of Pub. L. 95–633, set out as an Effective Date note under section 801a of this title.
 

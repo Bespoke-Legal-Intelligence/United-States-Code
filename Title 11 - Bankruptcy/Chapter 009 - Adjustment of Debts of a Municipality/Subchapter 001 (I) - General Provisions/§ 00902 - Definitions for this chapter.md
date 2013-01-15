@@ -2,7 +2,7 @@
 
 In this chapter—
 
-&emsp;(1) “property of the estate”, when used in a section that is made applicable in a case under this chapter by section 103(e) <sup>1</sup> or 901 of this title, means property of the debtor;
+&emsp;(1) “property of the estate”, when used in a section that is made applicable in a case underthis chapter by section 103(e) <sup>1</sup> or 901 of this title, means property of the debtor;
 
 &emsp;(2) “special revenues” means—
 
@@ -28,7 +28,7 @@ In this chapter—
 
 #### legislative statements
 
-Section 902(2) of the Senate amendment is deleted since the bankruptcy court will have jurisdiction over all cases under chapter 9. The concept of a claim being materially and adversely affected reflected in section 902(1) of the Senate amendment has been deleted and replaced with the new concept of “impairment” setforth in section 1124 of the House amendment and incorporated by reference into chapter 9.
+Section 902(2) of the Senate amendment is deleted since the bankruptcy court will have jurisdiction over all cases under chapter 9. The concept of a claim being materially and adversely affected reflected in section 902(1) of the Senate amendment has been deleted and replaced with the new concept of “impairment” set forth in section 1124 of the House amendment and incorporated by reference into chapter 9.
 
 #### senate report no. 95–989
 

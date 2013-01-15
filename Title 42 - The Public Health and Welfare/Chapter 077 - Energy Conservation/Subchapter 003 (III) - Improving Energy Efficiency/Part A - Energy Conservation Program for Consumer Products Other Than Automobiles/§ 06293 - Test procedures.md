@@ -38,7 +38,7 @@ Amendment.—At least once every 7 years, the Secretary shall review test proced
 
 (8)(A) Test procedures for water closets and urinals to which standards are applicable under subsection (k) of section 6295 of this title shall be the test procedures specified in ASME A112.19.6–1990 for such products.
 
-(B) If the test procedure requirements of ASME A112.19.6–1990 are revised at any time and approved by ANSI, the Secretary shall amend the test procedures established by subparagraph (A) to conform to such revised ASME/ANSI requirements unless the Secretary determines, by rule, that to do so would not meet the requirements of paragraph (3).
+(B) If the test procedure requirements of ASME A112.19.6–1990 are revised at any time andapproved by ANSI, the Secretary shall amend the test procedures established by subparagraph (A) to conform to such revised ASME/ANSI requirements unless the Secretary determines, by rule, that to do so would not meet the requirements of paragraph (3).
 
 (9) Test procedures for illuminated exit signs shall be based on the test method used under version 2.0 of the Energy Star program of the Environmental Protection Agency for illuminated exit signs.
 
@@ -46,7 +46,7 @@ Amendment.—At least once every 7 years, the Secretary shall review test proced
 
 (B) The Secretary may review and revise the test procedures established under subparagraph (A).
 
-(C) For purposes of section 6317(a) of this title, the test procedures established under subparagraph (A) shall be considered to be the testingrequirements prescribed by the Secretary under section 6317(a)(1) of this title for distribution transformers for which the Secretary makes a determination that energy conservation standards would—
+(C) For purposes of section 6317(a) of this title, the test procedures established under subparagraph (A) shall be considered to be the testing requirements prescribed by the Secretary under section 6317(a)(1) of this title for distribution transformers for which the Secretary makes a determination that energy conservation standards would—
 
 &emsp;(i) be technologically feasible and economically justified; and
 
@@ -98,7 +98,7 @@ Metal halide lamp ballasts.—Test procedures for metal halide lamp ballasts sha
 
 > with respect to energy use or efficiency or, in the case of showerheads, faucets, water closets, and urinals, water use of such product or cost of energy consumed by such product, unless such product has been tested in accordance with such amended or new test procedures and such representation fairly discloses the results of such testing.
 
-(3) On the petition of any manufacturer, distributor, retailer, or private labeler, filed not later than the 60th day before the expiration of the period involved, the 180-day period referred to in paragraph (2) may be extended by the Secretary with respect to the petitioner (but in no event for more than an additional 180 days) if the Secretary determines that the requirements of paragraph (2) would impose an undue hardship on such petitioner.
+(3) On the petition of any manufacturer, distributor, retailer, or private labeler, filed not later than the 60th day before the expiration of the period involved, the 180-day period referredto in paragraph (2) may be extended by the Secretary with respect to the petitioner (but in no event for more than an additional 180 days) if the Secretary determines that the requirements of paragraph (2) would impose an undue hardship on such petitioner.
 
 #### (d) Case in which test procedure is not required
 
@@ -108,7 +108,7 @@ Metal halide lamp ballasts.—Test procedures for metal halide lamp ballasts sha
 
 #### (e) Amendment of standard
 
-(1) In the case of any amended test procedure which is prescribed pursuant to this section, theSecretary shall determine, in the rulemaking carried out with respect to prescribing such procedure, to what extent, if any, the proposed test procedure would alter the measured energy efficiency, measured energy use, or measured water use of any covered product as determined under the existing test procedure.
+(1) In the case of any amended test procedure which is prescribed pursuant to this section, the Secretary shall determine, in the rulemaking carried out with respect to prescribing such procedure, to what extent, if any, the proposed test procedure would alter the measured energy efficiency, measured energy use, or measured water use of any covered product as determined under the existing test procedure.
 
 (2) If the Secretary determines that the amended test procedure will alter the measured efficiency or measured use, the Secretary shall amend the applicable energy conservation standard during the rulemaking carried out with respect to such test procedure. In determining the amended energy conservation standard, the Secretary shall measure, pursuant to the amended test procedure, the energy efficiency, energy use, or water use of a representative sample of covered products that minimally comply with the existing standard. The average of such energy efficiency, energy use, or water use levels determined under the amended test procedure shall constitute the amended energy conservation standard for the applicable covered products.
 
@@ -158,7 +158,7 @@ Subsec. (b)(5). Pub. L. 100–357 added par. (5).
 
 <b>1978</b>—Subsec. (a)(1), (2). Pub. L. 95–619, §691(b)(2), substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
 
-Subsec. (a)(3). Pub. L. 95–619, §§425(a), 691(b)(2), struck out “Except as provided in paragraph (6),” before “The Secretary”, struck out provision requiring proposed test procedures to be published not later than June 30, 1976, with certain excepted cases not required to be published before Sept. 30, 1976 and June 30, 1977, and substituted “Secretary” for “Administrator”.
+Subsec. (a)(3). Pub. L. 95–619, §§425(a), 691(b)(2), struck out “Except as provided in paragraph (6),” before “The Secretary”, struck out provision requiring proposedtest procedures to be published not later than June 30, 1976, with certain excepted cases not required to be published before Sept. 30, 1976 and June 30, 1977, and substituted “Secretary” for “Administrator”.
 
 Subsec. (a)(4). Pub. L. 95–619, §§421(a), 691(b)(2), redesignated provisions formerly classified to subpar. (A), as par. (4) and in par. (4), as so redesignated, struck out “Except as provided in paragraph (6),” before “The Secretary shall”, substituted “Secretary” for “Administrator” in two places, inserted provision requiring the prescription of test procedures not later than Jan. 31, 1978, and struck out subpar. (B) requiring the prescription of test procedures not later than Sept. 30, 1976, with certain excepted cases required to be prescribed not later than Dec. 31, 1976 and Sept. 30 1977.
 

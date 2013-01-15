@@ -16,7 +16,8 @@
 | [2861\.](%C2%A7%2002861%20-%20Military%20construction%20projects%20in%20connection%20with%20industrial%20facility%20investment%20program.md) | Military construction projects in connection with industrial facility investment program. |
 | [2862\.](%C2%A7%2002862%20-%20Turn-key%20selection%20procedures.md) | Turn-key selection procedures. |
 | [2863\.](%C2%A7%2002863%20-%20Payment%20of%20contractor%20claims.md) | Payment of contractor claims. |
-| \[2864, 2865. Repealed.\] |  |
+| [2864\.](%C2%A7%2002864%20-%20Master%20plans%20for%20major%20military%20installations.md) | Master plans for major military installations. |
+| \[2865. | Repealed.\] |
 | [2866\.](%C2%A7%2002866%20-%20Water%20conservation%20at%20military%20installations.md) | Water conservation at military installations. |
 | [2867\.](%C2%A7%2002867%20-%20Energy%20monitoring%20and%20utility%20control%20system%20specification%20for%20military%20construction%20and%20military%20family%20housing%20activities.md) | Energy monitoring and utility control system specification for military construction and military family housing activities. |
 | [2868\.](%C2%A7%2002868%20-%20Utility%20services%20furnishing%20for%20certain%20buildings.md) | Utility services: furnishing for certain buildings. |
@@ -26,7 +27,11 @@
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 112–81, div. B, title XXVIII, §2815(c), Dec. 31, 2011, 125 Stat. 1689, which directed amendment of table of sections at the beginning of this chapter by substituting “Exchange of property at military installations” for “Conveyance of property at military installations to limit encroachment” in item 2869, was executed by making the subtitution in the table of sections at the beginning of this subchapter to reflect the probable intent of Congress.
+<b>2013</b>—Pub. L. 112–239, div. B, title XXVIII, §2802(b), Jan. 2, 2013, 126 Stat. 2147, added item 2864.
+
+Pub. L. 112–239, div. A, title X, §1076(a)(22), Jan. 2, 2013, 126 Stat. 1949, made technical amendment to directory language of Pub. L. 112–81, §2815(c). See 2011 Amendment note below.
+
+<b>2011</b>—Pub. L. 112–81, div. B, title XXVIII, §2815(c), Dec. 31, 2011, 125 Stat. 1689, as amended by Pub. L. 112–239, div. A, title X, §1076(a)(22), Jan. 2, 2013, 126 Stat. 1949, substituted “Exchange of property at military installations” for “Conveyance of property at military installations to limit encroachment” in item 2869.
 
 Pub. L. 111–383, div. A, title X, §1075(d)(23), Jan. 7, 2011, 124 Stat. 4374, made technical amendment to directory language of Pub. L. 111–84, §2804(d)(2). See 2009 Amendment note below.
 
@@ -81,7 +86,8 @@ Pub. L. 108–375, div. B, title XXVIII, §2804(a)(2), Oct. 28, 2004, 118 Stat. 
 - [&sect; 02861 - Military construction projects in connection with industrial facility investment program](%C2%A7%2002861%20-%20Military%20construction%20projects%20in%20connection%20with%20industrial%20facility%20investment%20program.md)
 - [&sect; 02862 - Turn-key selection procedures](%C2%A7%2002862%20-%20Turn-key%20selection%20procedures.md)
 - [&sect; 02863 - Payment of contractor claims](%C2%A7%2002863%20-%20Payment%20of%20contractor%20claims.md)
-- [&sect; 02864, 2865 - Repealed. Pub. L. 109&#8211;364, div. B, title XXVIII, &sect;&sect;2810(a), 2851(a)(2), Oct. 17, 2006, 120 Stat. 2470, 2494](%C2%A7%2002864%2C%202865%20-%20Repealed.%20Pub.%20L.%20109%E2%80%93364%2C%20div.%20B%2C%20title%20XXVIII%2C%20%C2%A7%C2%A72810%28a%29%2C%202851%28a%29%282%29%2C%20Oct.%2017%2C%202006%2C%20120%20Stat.%202470%2C%202494.md)
+- [&sect; 02864 - Master plans for major military installations](%C2%A7%2002864%20-%20Master%20plans%20for%20major%20military%20installations.md)
+- [&sect; 02865 - Repealed. Pub. L. 109&#8211;364, div. B, title XXVIII, &sect;2851(a)(2), Oct. 17, 2006, 120 Stat. 2494](%C2%A7%2002865%20-%20Repealed.%20Pub.%20L.%20109%E2%80%93364%2C%20div.%20B%2C%20title%20XXVIII%2C%20%C2%A72851%28a%29%282%29%2C%20Oct.%2017%2C%202006%2C%20120%20Stat.%202494.md)
 - [&sect; 02866 - Water conservation at military installations](%C2%A7%2002866%20-%20Water%20conservation%20at%20military%20installations.md)
 - [&sect; 02867 - Energy monitoring and utility control system specification for military construction and military family housing activities](%C2%A7%2002867%20-%20Energy%20monitoring%20and%20utility%20control%20system%20specification%20for%20military%20construction%20and%20military%20family%20housing%20activities.md)
 - [&sect; 02868 - Utility services furnishing for certain buildings](%C2%A7%2002868%20-%20Utility%20services%20furnishing%20for%20certain%20buildings.md)

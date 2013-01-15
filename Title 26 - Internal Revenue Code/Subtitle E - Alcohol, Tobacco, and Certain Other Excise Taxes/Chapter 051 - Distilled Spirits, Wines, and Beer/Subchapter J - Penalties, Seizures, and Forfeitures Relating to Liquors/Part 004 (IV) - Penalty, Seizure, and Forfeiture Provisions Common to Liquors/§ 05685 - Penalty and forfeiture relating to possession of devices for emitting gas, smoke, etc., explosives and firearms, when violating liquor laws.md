@@ -6,7 +6,7 @@ Whoever, when violating any law of the United States, or of any possession of th
 
 #### (b) Penalty for possession of machine gun, etc.
 
-Whoever, when violating any such law, has in his possession or in his control a machine gun,or any shotgun having a barrel or barrels less than 18 inches in length, or a rifle having a barrel or barrels less than 16 inches in length, shall be imprisoned not more than 20 years; and all persons engaged in any such violation or in aiding in any such violation shall be held to be in possession and control of such machine gun, shotgun, or rifle.
+Whoever, when violating any such law, has in his possession or in his control a machine gun, or any shotgun having a barrel or barrels less than 18 inches in length, or a rifle having a barrel or barrels less than 16 inches in length, shall be imprisoned not more than 20 years; and all persons engaged in any such violation or in aiding in any such violation shall be held to be in possession and control of such machine gun, shotgun, or rifle.
 
 #### (c) Forfeiture of firearms, devices, etc.
 
@@ -38,5 +38,5 @@ Amendment by Pub. L. 94–455 effective on first day of first month which begins
 
 #### Effective Date of 1960 Amendment
 
-Amendment by Pub. L. 86–478 effective on first day of first month which begins more than 10 days after June 1, 1960, see section 5 of Pub. L. 86–478.
+Amendment by Pub. L. 86–478 effective on first day of first month which begins more than 10 days after June 1, 1960, see section 5 of Pub. L. 86–478, June 1, 1960, 74 Stat. 150.
 

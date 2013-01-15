@@ -20,5 +20,5 @@ For the purposes of this subchapter—
 
 #### Short Title
 
-Section 1 of Pub. L. 101–42 provided that: “This Act \[enacting this subchapter\] may be cited as the ‘Coquille Restoration Act’.”
+Pub. L. 101–42, §1, June 28, 1989, 103 Stat. 91, provided that: “This Act \[enacting this subchapter\] may be cited as the ‘Coquille Restoration Act’.”
 

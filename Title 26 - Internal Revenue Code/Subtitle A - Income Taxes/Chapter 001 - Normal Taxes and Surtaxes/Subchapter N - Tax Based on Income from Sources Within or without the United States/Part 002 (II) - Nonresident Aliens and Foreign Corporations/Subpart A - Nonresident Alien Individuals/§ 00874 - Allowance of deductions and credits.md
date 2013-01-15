@@ -46,7 +46,7 @@ Amendment by Pub. L. 91–258 effective July 1, 1970, see section 211(a) of Pub.
 
 Amendment by section 103(d) of Pub. L. 89–809 applicable with respect to taxable years beginning after Dec. 31, 1966, see section 103(n)(1) of Pub. L. 89–809, set out as a note under section 871 of this title.
 
-Section 106(a)(6) of Pub. L. 89–809, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this subsection \[enacting section 906 of this title and amending this section and section 901 of this title\] shall apply with respect to taxable years beginning after Dec. 31, 1966. In applying section 904 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] with respect to section 906 of such Code, no amount may be carried from or to any taxable year beginning before Jan. 1, 1967, and no such year shall be taken into account.”
+Pub. L. 89–809, title I, §106(a)(6), Nov. 13, 1966, 80 Stat. 1569, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this subsection \[enacting section 906 of this title and amending this section and section 901 of this title\] shall apply with respect to taxable years beginning after Dec. 31, 1966. In applying section 904 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] with respect to section 906 of such Code, no amount may be carried from or to any taxable year beginning before Jan. 1, 1967, and no such year shall be taken into account.”
 
 #### Effective Date of 1965 Amendment
 

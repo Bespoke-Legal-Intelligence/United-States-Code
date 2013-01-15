@@ -6,7 +6,7 @@ In order to assure the preservation, conservation, and protection of the natural
 
 #### (b) Location; boundaries; publication in Federal Register
 
-The Big Thicket National Preserve (hereafter referred to as the “preserve”) shall include the units generally depicted on the map entitled “Big Thicket National Preserve”, dated October 1992, and numbered 175–80008, which shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior, and the offices of the Superintendent of the preserve. After advising the Committee on Energy and Natural Resources of the United States Senate and the Committee on Natural Resources of the United States House of Representatives, in writing, the Secretary of the Interior (hereafter referred to as the “Secretary”) may make minor revisions of the boundaries of the preserve when necessary by publication of a revised drawing or other boundary description in the Federal Register. The Secretary shall, as soon as practicable, but no later than six months after October 11, 1974, publish a detailed description of the boundaries of the preserve in the Federal Register. In establishing such boundaries, the Secretary shall locate stream corridor unit boundaries referenced from the stream bank on each side thereof and he shall further make every reasonable effort to exclude from the units hereafter described any improved year-round residential properties which he determines, in his discretion, are not necessary for the protection of the values of the area or for its proper administration. The preserve shall consist of the following units:
+The Big Thicket National Preserve (hereafter referred to as the “preserve”) shall include the units generally depicted on the map entitled “Big Thicket National Preserve”, dated October 1992, and numbered 175–80008, which shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior, and the offices of the Superintendent of the preserve. After advising theCommittee on Energy and Natural Resources of the United States Senate and the Committee on Natural Resources of the United States House of Representatives, in writing, the Secretary of the Interior (hereafter referred to as the “Secretary”) may make minor revisions of the boundaries of the preserve when necessary by publication of a revised drawing or other boundary description in the Federal Register. The Secretary shall, as soon as practicable, but no later than six months after October 11, 1974, publish a detailed description of the boundaries of the preserve in the Federal Register. In establishing such boundaries, the Secretary shall locate stream corridor unit boundaries referenced from the stream bank on each side thereof and he shall further make every reasonable effort to exclude from the units hereafter described any improved year-round residential properties which he determines, in his discretion, are not necessary for the protection of the values of the area or for its proper administration. The preserve shall consist of the following units:
 
 &emsp;Big Sandy Creek unit, Polk County, Texas, comprising approximately fourteen thousand three hundred acres;
 
@@ -44,7 +44,7 @@ The Secretary is authorized to acquire by donation, purchase with donated or app
 
 #### (d) Exchanges of land
 
-Within sixty days after July 1, 1993, the Secretary and the Secretary of Agriculture shall identify lands within their jurisdiction located within the vicinity of the preserve which may be suitable for exchange for commercial timber lands within the preserve. In so doing, the Secretary of Agriculture shall seek to identify for exchange National Forest lands that are near or adjacent to private lands that are already owned by the commercial timber companies. Such National Forest lands shall be located in the Sabine National Forest in Sabine County, Texas, in the Davy Crockett National Forest south of Texas State Highway 7, or in other sites deemed mutually agreeable, and within reasonable distance of the timber companies’ existing mills. In exercising this exchange authority, the Secretary and the Secretary of Agriculture may utilize any authorities or procedures otherwise available to them in connection with land exchanges, and which are not inconsistent with the purposes of sections 698 to 698e of this title. Land exchanges authorized pursuant to this subsection shall be of equal value and shall be completed as soon as possible, but no later than five years after July 1, 1993. The Secretary, in considering the values of the private lands to be exchanged under this subsection, shall consider independent appraisals submitted by the owners of the private lands. The authority to exchange lands under this subsection shall expire on July 1, 1998.
+Within sixty days after July 1, 1993, the Secretary and the Secretary of Agriculture shall identify lands within their jurisdiction located within the vicinity of the preserve which may be suitable for exchange for commercial timber lands within the preserve. In so doing, the Secretary of Agriculture shall seek to identify for exchange National Forest lands that are near or adjacent to private lands that are already owned by the commercial timber companies. Such National Forest lands shall be located in the Sabine National Forest in Sabine County, Texas, in the Davy Crockett National Forest south of Texas State Highway 7, or in other sites deemed mutually agreeable, and within reasonable distance of the timber companies’ existingmills. In exercising this exchange authority, the Secretary and the Secretary of Agriculture may utilize any authorities or procedures otherwise available to them in connection with land exchanges, and which are not inconsistent with the purposes of sections 698 to 698e of this title. Land exchanges authorized pursuant to this subsection shall be of equal value and shall be completed as soon as possible, but no later than five years after July 1, 1993. The Secretary, in considering the values of the private lands to be exchanged under this subsection, shall consider independent appraisals submitted by the owners of the private lands. The authority to exchange lands under this subsection shall expire on July 1, 1998.
 
 #### (e) Indian Springs Youth Camp
 
@@ -68,7 +68,7 @@ Subsecs. (d) and (e). Pub. L. 103–46, §2(b)(2), added subsecs. (d) and (e).
 
 #### Short Title of 1993 Amendment
 
-Section 1 of Pub. L. 103–46 provided that: “This Act \[amending this section and section 698e of this title and enacting provisions set out as a note below\] may be referred to as the ‘Big Thicket National Preserve Addition Act of 1993’.”
+Pub. L. 103–46, §1, July 1, 1993, 107 Stat. 229, provided that: “This Act \[amending this section and section 698e of this title and enacting provisions set out as a note below\] may be referred to as the ‘Big Thicket National Preserve Addition Act of 1993’.”
 
 #### Reporting Requirement
 
@@ -76,7 +76,7 @@ Pub. L. 104–333, div. I, title III, §306(d), Nov. 12, 1996, 110 Stat. 4132, a
 
 #### Land Exchange
 
-Section 306(e)–(g) of title III of div. I of Pub. L. 104–333, as amended by Pub. L. 106–176, title I, §104(2), Mar. 10, 2000, 114 Stat. 25, provided that:
+Pub. L. 104–333, div. I, title III, §306(e)–(g), Nov. 12, 1996, 110 Stat. 4132, as amended by Pub. L. 106–176, title I, §104(2), Mar. 10, 2000, 114 Stat. 25, provided that:
 
 “(e)
 
@@ -106,5 +106,5 @@ Administration of Lands Acquired by the United States.—The lands acquired by t
 
 #### Publication of Boundary Description
 
-Section 2(c) of Pub. L. 103–46 provided that: “Not later than six months after the date of enactment of this subsection \[July 1, 1993\], the Secretary shall publish in the Federal Register a detailed description of the boundary of the Village Creek Corridor unit, the Big Sandy Corridor unit, and the Canyonlands unit of the Big Thicket National Preserve.”
+Pub. L. 103–46, §1, July 1, 1993, 107 Stat. 230, provided that: “Not later than six months after the date of enactment of this subsection \[July 1, 1993\], the Secretaryshall publish in the Federal Register a detailed description of the boundary of the Village Creek Corridor unit, the Big Sandy Corridor unit, and the Canyonlands unit of the Big Thicket National Preserve.”
 

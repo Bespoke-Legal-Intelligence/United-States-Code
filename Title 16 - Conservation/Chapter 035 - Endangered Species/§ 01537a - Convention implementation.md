@@ -24,7 +24,7 @@ If the United States votes against including any species in Appendix I or II of 
 
 (2) The Secretary and the Secretary of State shall, in cooperation with the contracting parties to the Western Convention and, to the extent feasible and appropriate, with the participation of State agencies, take such steps as are necessary to implement the Western Convention. Such steps shall include, but not be limited to—
 
-&emsp;(A) cooperation with contracting parties and international organizations for the purpose ofdeveloping personnel resources and programs that will facilitate implementation of the Western Convention;
+&emsp;(A) cooperation with contracting parties and international organizations for the purpose of developing personnel resources and programs that will facilitate implementation of the Western Convention;
 
 &emsp;(B) identification of those species of birds that migrate between the United States and other contracting parties, and the habitats upon which those species depend, and the implementation of cooperative measures to ensure that such species will not become endangered or threatened; and
 
@@ -46,7 +46,7 @@ Subsec. (e). Pub. L. 97–304, §5\[(a)\](3), substituted provisions implementin
 
 #### Effective Date of 1982 Amendment
 
-Section 5(b) of Pub. L. 97–304 provided that: “The amendment made by paragraph (1) of subsection (a) \[amending this section\] shall take effect January 1, 1981.”
+Pub. L. 97–304, §5(b), Oct. 13, 1982, 96 Stat. 1422, provided that: “The amendment made by paragraph (1) of subsection (a) \[amending this section\] shall take effect January 1, 1981.”
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
@@ -54,5 +54,5 @@ Committee on Merchant Marine and Fisheries of House of Representatives abolished
 
 #### Endangered Species Scientific Authority; Interim Performance of Functions of Commission
 
-Section 6(b) of Pub. L. 96–159 provided that until such time as the Chairman, Members, and Executive Secretary of the International Convention Advisory Commission are appointed, but not later than 90 days after Dec. 28, 1979, the functions of the Commission be carried out by the Endangered Species Scientific Authority as established by Ex. Ord. No. 11911, formerly set out as a note under section 1537 of this title, with staff and administrative support being provided by the Secretary of the Interior as set forth in that Executive Order.
+Pub. L. 96–159, §6(b), Dec. 28, 1979, 93 Stat. 1230, provided that until such time as the Chairman, Members, and Executive Secretary of the International Convention Advisory Commission are appointed, but not later than 90 days after Dec. 28, 1979, the functions of the Commission be carried out by the Endangered Species Scientific Authority as established by Ex. Ord. No. 11911, formerly set out as a note under section 1537 of this title, with staff and administrative support being provided by the Secretary of the Interior as set forth in that Executive Order.
 

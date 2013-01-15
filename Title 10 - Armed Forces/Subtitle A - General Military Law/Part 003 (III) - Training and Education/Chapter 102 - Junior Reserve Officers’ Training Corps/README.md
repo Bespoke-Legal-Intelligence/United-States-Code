@@ -5,10 +5,13 @@
 | [2031\.](%C2%A7%2002031%20-%20Junior%20Reserve%20Officers%E2%80%99%20Training%20Corps.md) | Junior Reserve Officers’ Training Corps. |
 | [2032\.](%C2%A7%2002032%20-%20Responsibility%20of%20the%20Secretaries%20of%20the%20military%20departments%20to%20maximize%20enrollment%20and%20enhance%20efficiency.md) | Responsibility of the Secretaries of the military departments to maximize enrollment and enhance efficiency. |
 | [2033\.](%C2%A7%2002033%20-%20Instructor%20qualifications.md) | Instructor qualifications. |
+| [2034\.](%C2%A7%2002034%20-%20Educational%20institutions%20not%20maintaining%20units%20of%20Junior%20Reserve%20Officers%E2%80%99%20Training%20Corps%20issuance%20of%20arms%2C%20tentage%2C%20and%20equipment.md) | Educational institutions not maintaining units of Junior Reserve Officers’ Training Corps: issuance of arms, tentage, and equipment. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2013</b>—Pub. L. 112–239, div. A, title V, §552(c)(1), Jan. 2, 2013, 126 Stat. 1741, added item 2034.
 
 <b>2006</b>—Pub. L. 109–364, div. A, title V, §539(b), Oct. 17, 2006, 120 Stat. 2211, added item 2033.
 
@@ -28,3 +31,4 @@
 - [&sect; 02031 - Junior Reserve Officers&#8217; Training Corps](%C2%A7%2002031%20-%20Junior%20Reserve%20Officers%E2%80%99%20Training%20Corps.md)
 - [&sect; 02032 - Responsibility of the Secretaries of the military departments to maximize enrollment and enhance efficiency](%C2%A7%2002032%20-%20Responsibility%20of%20the%20Secretaries%20of%20the%20military%20departments%20to%20maximize%20enrollment%20and%20enhance%20efficiency.md)
 - [&sect; 02033 - Instructor qualifications](%C2%A7%2002033%20-%20Instructor%20qualifications.md)
+- [&sect; 02034 - Educational institutions not maintaining units of Junior Reserve Officers&#8217; Training Corps issuance of arms, tentage, and equipment](%C2%A7%2002034%20-%20Educational%20institutions%20not%20maintaining%20units%20of%20Junior%20Reserve%20Officers%E2%80%99%20Training%20Corps%20issuance%20of%20arms%2C%20tentage%2C%20and%20equipment.md)

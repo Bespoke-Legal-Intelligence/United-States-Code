@@ -38,7 +38,7 @@ The estuary habitat restoration strategy shall include proposals, methods, and g
 
 &emsp;&emsp;(D) address other areas of concern that the Council determines to be appropriate for consideration;
 
-&emsp;(4) addressing the estimated historic losses, estimated current rate of loss, and extent ofthe threat of future loss or degradation of each type of estuary habitat;
+&emsp;(4) addressing the estimated historic losses, estimated current rate of loss, and extent of the threat of future loss or degradation of each type of estuary habitat;
 
 &emsp;(5) measuring the rate of change for each type of estuary habitat;
 

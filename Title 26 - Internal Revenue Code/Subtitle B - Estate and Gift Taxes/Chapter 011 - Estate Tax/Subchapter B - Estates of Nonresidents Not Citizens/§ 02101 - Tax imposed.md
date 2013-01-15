@@ -34,7 +34,7 @@ The tax imposed by this section shall be the amount equal to the excess (if any)
 
 <b>1993</b>—Subsec. (b). Pub. L. 103–66 substituted “section 2001(c)(2)” for “section 2001(c)(3)” in last sentence.
 
-<b>1989</b>—Subsec. (b). Pub. L. 101–239 inserted at end “For purposes of the preceding sentence, there shall be appropriate adjustments in the application of section2001(c)(3) to reflect the difference between the amount of the credit provided under section 2102(c) and the amount of the credit provided under section 2010.”
+<b>1989</b>—Subsec. (b). Pub. L. 101–239 inserted at end “For purposes of the preceding sentence, there shall be appropriate adjustments in the application of section 2001(c)(3) to reflect the difference between the amount of the credit provided under section 2102(c) and the amount of the credit provided under section 2010.”
 
 <b>1988</b>—Subsec. (b). Pub. L. 100–647, §5032(a), substituted “a tentative tax computed under section 2001(c)” for “a tentative tax computed in accordance with the rate schedule set forth in subsection (d)” in pars. (1) and (2).
 
@@ -58,7 +58,7 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1988 Amendment
 
-Section 5032(d) of Pub. L. 100–647 provided that: “The amendments made by this section \[amending this section and section 2102 of this title\] shall apply to the estates of decedents dying after the date of the enactment of this Act \[Nov. 10, 1988\].”
+Pub. L. 100–647, title V, §5032(d), Nov. 10, 1988, 102 Stat. 3670, provided that: “The amendments made by this section \[amending this section and section 2102 of this title\] shall apply to the estates of decedents dying after the date of the enactment of this Act \[Nov. 10, 1988\].”
 
 #### Effective Date of 1976 Amendment
 
@@ -66,5 +66,5 @@ Amendment by Pub. L. 94–455 applicable to estates of decedents dying after Dec
 
 #### Effective Date of 1966 Amendment
 
-Section 108(i) of Pub. L. 89–809 provided that: “The amendments made by this section \[amending this section and sections 2102, 2104, 2105, 2106, and 6018 of this title and enacting sections 2107 and 2108 of this title\] shall apply with respect to estates of decedents dying after the date of the enactment of this Act \[Nov. 13, 1966\].”
+Pub. L. 89–809, title I, §108(i), Nov. 13, 1966, 80 Stat. 1574, provided that: “The amendments made by this section \[amending this section and sections 2102, 2104, 2105, 2106, and 6018 of this title and enacting sections 2107 and 2108 of this title\] shall apply with respect to estates of decedents dying after the date of the enactment of this Act \[Nov. 13, 1966\].”
 

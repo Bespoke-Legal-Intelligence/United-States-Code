@@ -184,7 +184,7 @@ Sec. 5. <i>Coordination by the Department of Justice.</i>
 
 (a) The Attorney General shall coordinate efforts by Federal agencies to implement sections 1, 2 and 4 of this order.
 
-(b) To implement the principles and purposes announced by this order, the Attorney General is authorized to issue guidelines implementing sections 1 and 4of this order for the Department of Justice. Such guidelines shall serve as models for internal guidelines that may be issued by other agencies pursuant to this order.
+(b) To implement the principles and purposes announced by this order, the Attorney General is authorized to issue guidelines implementing sections 1 and 4 of this order for the Department of Justice. Such guidelines shall serve as models for internal guidelines that may be issued by other agencies pursuant to this order.
 
 Sec. 6. <i>Definitions</i>. For purposes of this order:
 

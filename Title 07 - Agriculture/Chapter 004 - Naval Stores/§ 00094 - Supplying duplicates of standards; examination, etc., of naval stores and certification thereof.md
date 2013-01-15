@@ -10,5 +10,5 @@ The Secretary of Agriculture shall provide, if practicable, any interested perso
 
 #### Effective Date of 1981 Amendment
 
-Section 159(b) of Pub. L. 97–35 provided that: “The provisions of this section \[amending this section and section 98 of this title\] shall become effective October 1, 1981”.
+Pub. L. 97–35, title I, §159(b), Aug. 13, 1981, 95 Stat. 376, provided that: “The provisions of this section \[amending this section and section 98 of this title\] shall become effective October 1, 1981”.
 

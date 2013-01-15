@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(A) 45 percent for section 8133(a)(2) of this title, if the member dies fully or currently insured under subchapter II of chapter 7 of title 42, with no additional payments for a child or children while the widow or widower remains eligible for payments under section 8133(a)(2) of this title;
 
-&emsp;&emsp;(B) 20 percent for section 8133(a)(3) of this title for one child and 10 percent additional for each additional child, but not to exceed a total of 75 percent, if the member died fully or currently insured under subchapter II of chapter 7 of title 42; and
+&emsp;&emsp;(B) 20 percent for section 8133(a)(3) of this title for one child and 10 percent additional for each additional child, but not to exceed a total of 75 percent, if the member diedfully or currently insured under subchapter II of chapter 7 of title 42; and
 
 &emsp;&emsp;(C) 25 percent for section 8133(a)(4) of this title, if one parent was wholly dependent on the deceased member at the time of his death and the other was not dependent to any extent; 16 percent to each, if both were wholly dependent; and if one was or both were partly dependent, a proportionate amount in the discretion of the Secretary of Labor;
 
@@ -22,7 +22,7 @@
 
 (c) The Secretary of Labor or his designee may inform the Secretary of the Air Force or his designee when a claim is filed. The Secretary of the Air Force, on request of the Secretary of Labor, shall advise him of the facts concerning the injury and whether or not the member was rendering service, or engaged in travel to or from service, in performance or support of an operational mission of the Civil Air Patrol at the time of injury. This subsection does not dispense with the report of the immediate superior of the member required by section 8120 of this title, or other reports agreed on under that section.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 551; Pub. L. 98–94, title XII, §1258(a), Sept. 24, 1983, 97 Stat.702; Pub. L. 103–296, title I, §108(e)(4), Aug. 15, 1994, 108 Stat. 1486.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 551; Pub. L. 98–94, title XII, §1258(a), Sept. 24, 1983, 97 Stat. 702; Pub. L. 103–296, title I, §108(e)(4), Aug. 15, 1994, 108 Stat. 1486.)
 
 Historical and Revision Notes
 
@@ -60,7 +60,7 @@ Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pu
 
 #### Effective Date of 1983 Amendment
 
-Section 1258(b) of Pub. L. 98–94 provided that:
+Pub. L. 98–94, title XII, §1258(b), Sept. 24, 1983, 97 Stat. 702, provided that:
 
 “(1) The amendments made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Sept. 24, 1983\].
 

@@ -86,15 +86,15 @@ Amendment by Pub. L. 87–649 effective on Nov. 1, 1962, see section 15 of Pub. 
 
 #### Regulations
 
-Section 505(d) of Pub. L. 102–484 provided that: “The regulations required to be prescribed by the amendments made by this section \[enacting section 5139 of this title and amending this section and section 8067 of this title\] shall be prescribed not later than 180 days after the date of the enactment of this Act \[Oct. 23, 1992\].”
+Pub. L. 102–484, div. A, title V, §505(d), Oct. 23, 1992, 106 Stat. 2404, provided that: “The regulations required to be prescribed by the amendments made by this section \[enacting section 5139 of this title and amending this section and section 8067 of this title\] shall be prescribed not later than 180 days after the date of the enactment of this Act \[Oct. 23, 1992\].”
 
 #### Appointment of Assistant Chief
 
-Section 551(b) of Pub. L. 102–190 provided that: “Notwithstanding the requirement in subsection (c) of section 3070 of title 10, United States Code, as amended by subsection (a), with respect to the appointment of officers of the Regular Army as chiefs of sections of the Army Medical Specialist Corps, a warrant officer of the Army who is appointed as a reserve commissioned officer and assigned to the Army Medical Specialist Corps for service in the Physician Assistant Section of that Corps during the five-year period beginning on the date of the enactment of this Act \[Dec. 5, 1991\] may be appointed as an assistant chief of that Corps and chief of the Physician Assistant Section.”
+Pub. L. 102–190, div. A, title V, §551(b), Dec. 5, 1991, 105 Stat. 1370, provided that: “Notwithstanding the requirement in subsection (c) of section 3070 of title 10, United States Code, as amended by subsection (a), with respect to the appointment of officers of the Regular Army as chiefs of sections of the Army Medical Specialist Corps, a warrant officer of the Army who is appointed as a reserve commissioned officer and assigned to the Army Medical Specialist Corps for service in the Physician Assistant Section of that Corps during the five-year period beginning on the date of the enactment of this Act \[Dec. 5, 1991\] may be appointed as an assistant chief of that Corps and chief of the Physician Assistant Section.”
 
 #### Retirement of Officers Serving in Physician Assistant Section
 
-Section 551(c) of Pub. L. 102–190 provided that: “A member of the Army who on the date of the enactment of this Act \[Dec. 5, 1991\] is a warrant officer serving on active duty (other than for training) as a physician assistant and who is subsequently appointed as a commissioned officer in, or is assigned to, the Physician Assistant Section of the Army Medical Specialist Corps may elect at the time of the officer's retirement after 20 years or more of active service that could be credited to the officer under section 511 of the Career Compensation Act of 1949, as amended \[act Oct. 12, 1949, ch. 681, title V, §511, 63 Stat. 829, as amended, formerly set out as a note under section 580 of this title\]—
+Pub. L. 102–190, div. A, title V, §551(c), Dec. 5, 1991, 105 Stat. 1370, provided that: “A member of the Army who on the date of the enactment of this Act \[Dec. 5, 1991\] is a warrant officer serving on active duty (other than for training) as a physician assistant and who is subsequently appointed as a commissioned officer in, or is assigned to, the Physician Assistant Section of the Army Medical Specialist Corps may elect at the time of the officer's retirement after 20 years or more of active service that could be credited to the officer under section 511 of the Career Compensation Act of 1949, as amended \[act Oct. 12, 1949, ch. 681, title V, §511, 63 Stat. 829, as amended, formerly set out as a note under section 580 of this title\]—
 
 &emsp;“(1) to revert to the highest warrant officer grade in which the officer served on active duty (other than for training) satisfactorily (as determined by the Secretary of the Army) for a period of more than 30 days; and
 
@@ -102,7 +102,7 @@ Section 551(c) of Pub. L. 102–190 provided that: “A member of the Army who o
 
 #### Constructive Credit for Determination of Grade and Rank of Officers in Army Medical Specialist Corps
 
-Section 551(d) of Pub. L. 102–190 provided that:
+Pub. L. 102–190, div. A, title V, §551(d), Dec. 5, 1991, 105 Stat. 1371, provided that:
 
 “(1) For the purpose of determining the grade and rank within grade of a person who is appointed as a commissioned officer in the Army Medical Specialist Corps for service in the Physician Assistant Section, or who is assigned to the Army Medical Specialist Corps for service as a physician assistant, and who on the date of the enactment of this Act \[Dec. 5, 1991\] is a warrant officer and a physician assistant on active duty or in an active reserve status, the Secretary of the Army shall credit that person at the time of such appointment with any service on active duty, or in an active reserve status, as a physician assistant performed as a member of the Armed Forces before that appointment.
 
@@ -110,5 +110,5 @@ Section 551(d) of Pub. L. 102–190 provided that:
 
 #### Authority To Suspend Mandatory Retirement, Discharge, Separation, or Transfer From Active Status
 
-Section 4(a) of Pub. L. 90–130 authorized Secretary of the Army to suspend operation of any provision of law relating to mandatory retirement, discharge, separation, or transfer from an active status of an officer of Army Nurse Corps, Army Medical Specialist Corps, or Woman's Army Corps for a period of five years following Nov. 8, 1967.
+Pub. L. 90–130, §4(a), Nov. 8, 1967, 81 Stat. 383, authorized Secretary of the Army to suspend operation of any provision of law relating to mandatory retirement, discharge, separation, or transfer from an active status of an officer of Army Nurse Corps, Army Medical Specialist Corps, or Woman's Army Corps for a period of five years following Nov. 8, 1967.
 

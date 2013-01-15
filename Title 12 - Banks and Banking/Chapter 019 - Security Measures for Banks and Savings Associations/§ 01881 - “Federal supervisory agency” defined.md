@@ -32,5 +32,5 @@ Amendment by Pub. L. 108–386 effective Oct. 30, 2004, and, except as otherwise
 
 #### Short Title
 
-Section 1 of Pub. L. 90–389 provided: “That this Act \[enacting this chapter and amending section 1729 of this title\] may be cited as the ‘Bank Protection Act of 1968’.”
+Pub. L. 90–389, §1, July 7, 1968, 82 Stat. 294, provided: “That this Act \[enacting this chapter and amending section 1729 of this title\] may be cited as the ‘Bank Protection Act of 1968’.”
 

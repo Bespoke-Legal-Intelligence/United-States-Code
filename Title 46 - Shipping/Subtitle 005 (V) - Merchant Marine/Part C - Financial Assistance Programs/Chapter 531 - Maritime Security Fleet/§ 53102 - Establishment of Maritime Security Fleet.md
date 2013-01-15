@@ -12,23 +12,17 @@ Vessel Eligibility.—A vessel is eligible to be included in the Fleet if—
 
 &emsp;(2) the vessel is operated (or in the case of a vessel to be constructed, will be operated) in providing transportation in foreign commerce;
 
-&emsp;(3) the vessel is self-propelled and is—
+&emsp;(3) the vessel is self-propelled and—
 
-&emsp;&emsp;(A) a roll-on/roll-off vessel with a carrying capacity of at least 80,000 square feet or 500 twenty-foot equivalent units and that is 15 years of age or less on the date the vessel is included in the Fleet;
+&emsp;&emsp;(A) is a tank vessel that is 10 years of age or less on the date the vessel is included in the Fleet; or
 
-&emsp;&emsp;(B) a tank vessel that is constructed in the United States after the date of the enactment of this chapter;
+&emsp;&emsp;(B) is any other type of vessel that is 15 years of age or less on the date the vessel is included in the Fleet;
 
-&emsp;&emsp;(C) a tank vessel that is 10 years of age or less on the date the vessel is included in the Fleet;
+&emsp;(4) the vessel—
 
-&emsp;&emsp;(D) a LASH vessel that is 25 years of age or less on the date the vessel is included in the Fleet; or
+&emsp;&emsp;(A) is suitable for use by the United States for national defense or military purposes in time of war or national emergency, as determined by the Secretary of Defense; and
 
-&emsp;&emsp;(E) any other type of vessel that is 15 years of age or less on the date the vessel is included in the Fleet;
-
-&emsp;(4) the vessel is—
-
-&emsp;&emsp;(A) determined by the Secretary of Defense to be suitable for use by the United States for national defense or military purposes in time of war or national emergency; and
-
-&emsp;&emsp;(B) determined by the Secretary to be commercially viable; and
+&emsp;&emsp;(B) is commercially viable, as determined by the Secretary; and
 
 &emsp;(5) the vessel—
 
@@ -126,7 +120,7 @@ In general.—The Secretary may rely on a certification from the American Bureau
 
 &emsp;&emsp;(B)
 
-Foreign classification society.—The Secretary may accept certification from a foreign classification society under subparagraph (A) only—
+Foreign classification society.—The Secretary may accept certification from aforeign classification society under subparagraph (A) only—
 
 &emsp;&emsp;&emsp;(i) to the extent that the government of the foreign country in which the society is headquartered provides access on a reciprocal basis to the American Bureau of Shipping; and
 
@@ -142,15 +136,15 @@ Waiver of Age Restriction.—The Secretary of Defense, in conjunction with the S
 
 &emsp;(3) is necessary due to the lack of availability of other vessels and operators that comply with the requirements of this chapter.
 
-(Added Pub. L. 108–136, div. C, title XXXV, §3531(a), Nov. 24, 2003, 117 Stat. 1805; amended Pub. L. 109–304, §13(a)(1), Oct. 6, 2006, 120 Stat. 1700.)
+(Added Pub. L. 108–136, div. C, title XXXV, §3531(a), Nov. 24, 2003, 117 Stat. 1805; amended Pub. L. 109–304, §13(a)(1), Oct. 6, 2006, 120 Stat. 1700; Pub. L. 112–239, div. C, title XXXV, §3508(b), Jan. 2, 2013, 126 Stat. 2223.)
 
 #### References in Text
-
-The date of the enactment of this chapter, referred to in subsec. (b)(3)(B), is the date of enactment of Pub. L. 108–136, which was approved Nov. 24, 2003.
 
 The date of enactment of the Maritime Security Act of 2003, referred to in subsec. (e)(1), is the date of enactment of Pub. L. 108–136, which was approved Nov. 24, 2003.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (b). Pub. L. 112–239 amended subsec. (b) generally. Prior to amendment, subsec. (b) related to vessel eligibility, including provisions for certain roll-on/roll-off and LASH vessels.
 
 <b>2006</b>—Subsec. (c). Pub. L. 109–304, §13(a)(1)(A), (B), substituted “section 50501” for “section 2” in the headings of pars. (1), (2), and (4) and substituted “section 50501 of this title” for “section 2 of the Shipping Act, 1916 (46 U.S.C. App. 802)” in pars. (1), (2)(A)(i), (ii)(II), (B), and (4)(B).
 

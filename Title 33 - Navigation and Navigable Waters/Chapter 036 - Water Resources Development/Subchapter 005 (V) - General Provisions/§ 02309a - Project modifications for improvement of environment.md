@@ -34,7 +34,7 @@ The Secretary shall coordinate any actions taken pursuant to this section with a
 
 #### (g) Nonprofit entities
 
-Notwithstanding section 1962d–5b of title 42, a non-Federal sponsor for any project carried outunder this section may include a nonprofit entity, with the consent of the affected local government.
+Notwithstanding section 1962d–5b of title 42, a non-Federal sponsor for any project carried out under this section may include a nonprofit entity, with the consent of the affected local government.
 
 #### (h) Authorization of appropriations
 
@@ -44,7 +44,7 @@ There is authorized to be appropriated not to exceed $40,000,000 annually to car
 
 In this section, the term “water resources project constructed by the Secretary” includes a water resources project constructed or funded jointly by the Secretary and the head of any other Federal agency (including the Natural Resources Conservation Service).
 
-(Pub. L. 99–662, title XI, §1135, Nov. 17, 1986, 100 Stat. 4251; Pub. L. 100–676, §41, Nov. 17, 1988, 102 Stat. 4040; Pub. L. 101–640, title III, §304, Nov. 28, 1990, 104 Stat. 4634; Pub. L. 102–580, title II, §202, Oct. 31, 1992, 106 Stat. 4826; Pub. L. 104–303, title II, §204, Oct. 12, 1996, 110 Stat. 3678; Pub. L. 106–53, title V, §506, Aug. 17, 1999, 113 Stat. 338; Pub. L. 106–541, title II, §210(c), Dec. 11, 2000, 114 Stat. 2592; Pub. L. 110–114, title II, §2024, Nov. 8, 2007, 121 Stat. 1079.)
+(Pub. L. 99–662, title XI, §1135, Nov. 17, 1986, 100 Stat. 4251; Pub. L. 100–676, §41, Nov. 17, 1988, 102Stat. 4040; Pub. L. 101–640, title III, §304, Nov. 28, 1990, 104 Stat. 4634; Pub. L. 102–580, title II, §202, Oct. 31, 1992, 106 Stat. 4826; Pub. L. 104–303, title II, §204, Oct. 12, 1996, 110 Stat. 3678; Pub. L. 106–53, title V, §506, Aug. 17, 1999, 113 Stat. 338; Pub. L. 106–541, title II, §210(c), Dec. 11, 2000, 114 Stat. 2592; Pub. L. 110–114, title II, §2024, Nov. 8, 2007, 121 Stat. 1079.)
 
 #### Codification
 

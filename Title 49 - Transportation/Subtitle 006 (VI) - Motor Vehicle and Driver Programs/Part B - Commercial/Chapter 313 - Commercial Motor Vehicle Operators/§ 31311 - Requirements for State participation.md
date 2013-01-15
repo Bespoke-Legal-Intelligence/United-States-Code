@@ -12,7 +12,7 @@ General.—To avoid having amounts withheld from apportionment under section 313
 
 &emsp;(4) The State shall authorize an individual to operate a commercial motor vehicle only by issuing a commercial driver's license containing the information described in section 31308(3) of this title.<sup>1</sup>
 
-&emsp;(5) At least 60 days before issuing a commercial driver's license (or a shorter period the Secretary prescribes by regulation), the State shall notify the Secretary or the operator of the information system under section 31309 of this title, as the case may be, of the proposed issuance of the license and other information the Secretary may require to ensure identification of the individual applying for the license.
+&emsp;(5) Not later than the time period prescribed by the Secretary by regulation, the State shall notify the Secretary or the operator of the information system under section 31309 of this title, as the case may be, of the proposed issuance of the license and other information the Secretary may require to ensure identification of the individual applying for the license.
 
 &emsp;(6) Before issuing a commercial driver's license to an individual or renewing such a license, the State shall request from any other State that has issued a driver's license to the individual all information about the driving record of the individual.
 
@@ -28,7 +28,7 @@ General.—To avoid having amounts withheld from apportionment under section 313
 
 > &emsp;the State in which the violation occurred shall notify a State official designated by the issuing State of the violations not later than 10 days after the date the individual is found to have committed the violation.
 
-&emsp;(10)(A) The State may not issue a commercial driver's license to an individual during a period in which the individual is disqualifiedfrom operating a commercial motor vehicle or the individual's driver's license is revoked, suspended, or canceled.
+&emsp;(10)(A) The State may not issue a commercial driver's license to an individual during a period in which the individual is disqualified from operating a commercial motor vehicle or the individual's driver's license is revoked, suspended, or canceled.
 
 &emsp;(B) The State may not issue a special license or permit (including a provisional or temporary license) to an individual who holds a commercial driver's license that permits the individual to drive a commercial motor vehicle during a period in which—
 
@@ -38,7 +38,21 @@ General.—To avoid having amounts withheld from apportionment under section 313
 
 &emsp;(11) The State may issue a commercial driver's license to an individual who has a commercial driver's license issued by another State only if the individual first returns the driver's license issued by the other State.
 
-&emsp;(12) The State may issue a commercial driver's license only to an individual who operates or will operate a commercial motor vehicle and is domiciled in the State, except that, under regulations the Secretary shall prescribe, the State may issue a commercial driver's license to an individual who operates or will operate a commercial motor vehicle and is not domiciled in a State that issues commercial drivers’ licenses.
+&emsp;(12)(A) Except as provided in subparagraphs (B) and (C), the State may issue a commercial driver's license only to an individual who operates or will operate a commercial motor vehicle and is domiciled in the State.
+
+&emsp;(B) Under regulations prescribed by the Secretary, the State may issue a commercial driver's license to an individual who—
+
+&emsp;&emsp;(i) operates or will operate a commercial motor vehicle; and
+
+&emsp;&emsp;(ii) is not domiciled in a State that issues commercial driver's licenses.
+
+&emsp;(C) The State may issue a commercial driver's license to an individual who—
+
+&emsp;&emsp;(i) operates or will operate a commercial motor vehicle;
+
+&emsp;&emsp;(ii) is a member of the active duty military, military reserves, National Guard, active duty United States Coast Guard, or Coast Guard Auxiliary; and
+
+&emsp;&emsp;(iii) is not domiciled in the State, but whose temporary or permanent duty station is located in the State.
 
 &emsp;(13) The State shall impose penalties consistent with this chapter that the State considers appropriate and the Secretary approves for an individual operating a commercial motor vehicle.
 
@@ -78,6 +92,22 @@ General.—To avoid having amounts withheld from apportionment under section 313
 
 &emsp;(21) By the date established by the Secretary under section 31309(e)(4), the State shall be operating a commercial driver's license information system that is compatible with the modernized commercial driver's license information system under section 31309.
 
+&emsp;(22) The State shall report a conviction of a foreign commercial driver by that State to the Federal Convictions and Withdrawal Database, or another information system designated by the Secretary to record the convictions. A report shall include—
+
+&emsp;&emsp;(A) for a driver holding a foreign commercial driver's license—
+
+&emsp;&emsp;&emsp;(i) each conviction relating to the operation of a commercial motor vehicle; and
+
+&emsp;&emsp;&emsp;(ii) each conviction relating to the operation of a non-commercial motor vehicle; and
+
+&emsp;&emsp;(B) for an unlicensed driver or a driver holding a foreign non-commercial driver's license, each conviction relating to the operation of a commercial motor vehicle.
+
+&emsp;(23) Not later than 1 year after the date of enactment of the Commercial Motor Vehicle Safety Enhancement Act of 2012, the State shall implement a system and practices for the exclusive electronic exchange of driver history record information on the system the Secretary maintains under section 31309, including the posting of convictions, withdrawals, and disqualifications.
+
+&emsp;(24) Before renewing or issuing a commercial driver's license to an individual, the State shall request information pertaining to the individual from the drug and alcohol clearinghouse maintained under section 31306a.
+
+&emsp;(25) Not later than 5 years after the date of enactment of the Commercial Motor Vehicle Safety Enhancement Act of 2012, the State shall establish and maintain, as part of its driver information system, the capability to receive an electronic copy of a medical examiner's certificate, from a certified medical examiner, for each holder of a commercial driver's license issued by the State who operates or intends to operate in interstate commerce.
+
 (b)
 
 State Satisfaction of Requirements.—A State may satisfy the requirements of subsection (a) of this section that the State disqualify an individual from operating a commercial motor vehicle by revoking, suspending, or canceling the driver's license issued to the individual.
@@ -86,7 +116,65 @@ State Satisfaction of Requirements.—A State may satisfy the requirements of su
 
 Notification.—Not later than 30 days after being notified by a State of the proposed issuance of a commercial driver's license to an individual, the Secretary or the operator of the information system under section 31309 of this title, as the case may be, shall notify the State whether the individual has a commercial driver's license issued by another State or has been disqualified from operating a commercial motor vehicle by another State or the Secretary.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1023; Pub. L. 104–88, title IV, §403(c), Dec. 29, 1995, 109 Stat. 956; Pub. L. 105–178, title IV, §4011(e), June 9, 1998, 112 Stat. 408; Pub. L. 106–159, title II, §202, Dec. 9, 1999, 113 Stat. 1760; Pub. L. 109–59, title IV, §4123(b), Aug. 10, 2005, 119 Stat. 1735.)
+(d)
+
+State Commercial Driver's License Program Plan.—
+
+&emsp;(1)
+
+In general.—A State shall submit a plan to the Secretary for complying with the requirements under this section during the period beginning on the date the plan is submitted and ending on September 30, 2016.
+
+&emsp;(2)
+
+Contents.—A plan submitted by a State under paragraph (1) shall identify—
+
+&emsp;&emsp;(A) the actions that the State will take to address any deficiencies in the State's commercial driver's license program, as identified by the Secretary in the most recent audit of the program; and
+
+&emsp;&emsp;(B) other actions that the State will take to comply with the requirements under subsection (a).
+
+&emsp;(3)
+
+Priority.—
+
+&emsp;&emsp;(A)
+
+Implementation schedule.—A plan submitted by a State under paragraph (1) shall include a schedule for the implementation of the actions identified under paragraph (2). In establishing the schedule, the State shall prioritize actions to address any deficiencies highlighted by the Secretary as critical in the most recent audit of the program.
+
+&emsp;&emsp;(B)
+
+Deadline for compliance with requirements.—A plan submitted by a State under paragraph (1) shall include assurances that the State will take the necessary actions to comply with the requirements of subsection (a) not later than September 30, 2015.
+
+&emsp;(4)
+
+Approval and disapproval.—The Secretary shall—
+
+&emsp;&emsp;(A) review each plan submitted under paragraph (1);
+
+&emsp;&emsp;(B)(i) approve a plan if the Secretary determines that the plan meets the requirements under this subsection and promotes the goals of this chapter; and
+
+&emsp;&emsp;(ii) disapprove a plan that the Secretary determines does not meet the requirements or does not promote the goals.
+
+&emsp;(5)
+
+Modification of disapproved plans.—If the Secretary disapproves a plan under paragraph (4), the Secretary shall—
+
+&emsp;&emsp;(A) provide a written explanation of the disapproval to the State; and
+
+&emsp;&emsp;(B) allow the State to modify the plan and resubmit it for approval.
+
+&emsp;(6)
+
+Plan updates.—The Secretary may require a State to review and update a plan, as appropriate.
+
+(e)
+
+Annual Comparison of State Levels of Compliance.—The Secretary shall annually—
+
+&emsp;(1) compare the relative levels of compliance by States with the requirements under subsection (a); and
+
+&emsp;(2) make the results of the comparison available to the public.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1023; Pub. L. 104–88, title IV, §403(c), Dec. 29, 1995, 109 Stat. 956; Pub. L. 105–178, title IV, §4011(e), June 9, 1998, 112 Stat. 408; Pub. L. 106–159, title II, §202, Dec. 9, 1999, 113 Stat. 1760; Pub. L. 109–59, title IV, §4123(b), Aug. 10, 2005, 119 Stat. 1735; Pub. L. 112–141, div. C, title II, §§32203(b), 32302(d), 32305(b), July 6, 2012, 126 Stat. 784, 790, 792; Pub. L. 112–196, §2, Oct. 19, 2012, 126 Stat. 1459.)
 
 Historical and Revision Notes
 
@@ -112,7 +200,21 @@ In subsection (b), the words “in accordance with the requirements of such subs
 
 Par. (3) of section 31308 of this title, referred to in subsec. (a)(4), was redesignated par. (4) by Pub. L. 109–59, title IV, §4122(2)(C), Aug. 10, 2005, 119 Stat. 1734.
 
+The date of enactment of the Commercial Motor Vehicle Safety Enhancement Act of 2012, referred to in subsec. (a)(23), (25), is the date of enactment of title II of div. C of Pub. L. 112–141, which was approved July 6, 2012.
+
 #### Amendments
+
+<b>2012</b>—Subsec. (a)(5). Pub. L. 112–141, §32305(b)(1)(A), substituted “Not later than the time period prescribed by the Secretary by regulation,” for “At least 60 days before issuing a commercial driver's license (or a shorter period the Secretary prescribes by regulation),”.
+
+Subsec. (a)(12). Pub. L. 112–196 amended par. (12) generally. Prior to amendment, par. (12) read as follows: “The State may issue a commercial driver's license only to an individual who operates or will operate a commercial motor vehicle and is domiciled in the State, except that, under regulations the Secretary shall prescribe, the State may issue a commercial driver's license to an individual who operates or will operate a commercial motor vehicle and is not domiciled in a State that issues commercial drivers’ licenses.”
+
+Subsec. (a)(22). Pub. L. 112–141, §32203(b), added par. (22).
+
+Subsec. (a)(23), (24). Pub. L. 112–141, §32305(b)(1)(B), added pars. (23) and (24).
+
+Subsec. (a)(25). Pub. L. 112–141, §32302(d), added par. (25).
+
+Subsecs. (d), (e). Pub. L. 112–141, §32305(b)(2), added subsecs. (d) and (e).
 
 <b>2005</b>—Subsec. (a)(15). Pub. L. 109–59, §4123(b)(1), substituted “(i)(1)(A) and (i)(2)” for “(g)(1)(A), and (g)(2)”.
 
@@ -143,6 +245,10 @@ Subsec. (a)(18) to (20). Pub. L. 106–159, §202(f)–(h), added pars. (18) to 
 Subsec. (a)(17), (18). Pub. L. 105–178, §4011(e)(2), (3), redesignated par. (18) as (17) and struck out former par. (17) which read as follows: “The State shall adopt and enforce regulations prescribed by the Secretary under section 31310(g)(1)(A) and (2) of this title.”
 
 <b>1995</b>—Subsec. (a)(18). Pub. L. 104–88 added par. (18).
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
 
 #### Effective Date of 1995 Amendment
 

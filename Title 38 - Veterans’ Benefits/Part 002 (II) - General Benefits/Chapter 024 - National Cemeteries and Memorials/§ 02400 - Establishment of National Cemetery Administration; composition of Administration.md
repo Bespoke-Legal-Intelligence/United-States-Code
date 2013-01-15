@@ -14,7 +14,7 @@
 
 #### References in Text
 
-The National Cemeteries Act of 1973, referred to in subsec. (b)(1), (3), is Pub. L. 93–43, June 18, 1973, 87 Stat. 75, as amended, which is classified principally to this chapter (§2400 et seq.). For complete classification of this Act to the Code, see section 1 of Pub. L. 93–43 setout as a Short Title of 1973 Amendment note under section 101 of this title and Tables.
+The National Cemeteries Act of 1973, referred to in subsec. (b)(1), (3), is Pub. L. 93–43, June 18, 1973, 87 Stat. 75, as amended, which is classified principally to this chapter (§2400 et seq.). For complete classification of this Act to the Code, see section 1 of Pub. L. 93–43 set out as a Short Title of 1973 Amendment note under section 101 of this title and Tables.
 
 For national cemeteries transferred from the Department of the Army to the Veterans’ Administration by the National Cemeteries Act of 1973, and any other cemetery, memorial, or monument transferred to the Veterans’ Administration by the National Cemeteries Act of 1973, referred to in subsec. (b)(1), (3), see Transfer of Functions note set out under section 2404 of this title.
 
@@ -34,7 +34,7 @@ Subsec. (a). Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for 
 
 <b>1989</b>—Subsec. (b)(3). Pub. L. 101–237 substituted “Secretary” for “Administrator”.
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–527 substituted “Such system shall be headed by the Director of the National Cemetery System, who shall perform such functions as may be assigned by the Secretary” for “The Administrator may appoint a Director, National Cemetery System, who shall perform such functions as may be assigned by the Administrator”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–527 substituted “Such system shall be headed by the Director of the National Cemetery System, who shall perform such functions asmay be assigned by the Secretary” for “The Administrator may appoint a Director, National Cemetery System, who shall perform such functions as may be assigned by the Administrator”.
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–576 substituted “servicemembers” for “servicemen” and “The Administrator” for “To assist him in carrying out his responsibilities in administering the cemeteries within the System, the Administrator”.
 
@@ -54,7 +54,7 @@ Amendment by Pub. L. 100–527 effective Mar. 15, 1989, see section 18(a) of Pub
 
 #### Effective Date
 
-Section 10(a) of Pub. L. 93–43 provided that: “The first section \[set out as a Short Title of 1973 Amendment note under section 101 of this title\] and sections 2 \[enacting this chapter and amending section 5316 of Title 5, Government Organization and Employees\], 3 \[set out as a note under section 2404 of this title\], 4 \[enacting section 218 and repealing section 625 of this title\], and 8 \[amending section 3505 \[now 6105\] of this title\] of this Act shall take effect on the date of enactment of this Act \[June 18, 1973\].”
+Pub. L. 93–43, §10(a), June 18, 1973, 87 Stat. 88, provided that: “The first section \[set out as a Short Title of 1973 Amendment note under section 101 of this title\] and sections 2 \[enacting this chapter and amending section 5316 of Title 5, Government Organization and Employees\], 3 \[set out as a note under section 2404 of this title\], 4 \[enacting section 218 and repealing section 625 of this title\], and 8 \[amending section 3505 \[now 6105\] of this title\] of this Act shall take effect on the date of enactment of this Act \[June 18, 1973\].”
 
 #### Short Title
 
@@ -184,7 +184,7 @@ Pub. L. 105–276, title I, Oct. 21, 1998, 112 Stat. 2466, provided in part: “
 
 #### Transfer of Pershing Hall to Department of Veterans Affairs
 
-Pub. L. 102–86, title IV, §403, Aug. 14, 1991, 105 Stat. 422, as amended by Pub. L. 103–79, §4, Aug. 13, 1993, 107 Stat. 772; Pub. L. 103–446, title XII, §1202(c), Nov. 2, 1994, 108 Stat. 4689; Pub. L. 107–217, §3(<i>o</i>), Aug. 21, 2002, 116 Stat. 1303; Pub. L. 107–330, title III, §308(i), Dec. 6, 2002, 116 Stat. 2829, provided that:
+Pub. L. 102–86, title IV, §403, Aug. 14, 1991, 105 Stat. 422, as amended by Pub. L. 103–79, §4, Aug. 13, 1993, 107 Stat. 772; Pub. L. 103–446, title XII, §1202(c), Nov. 2, 1994, 108 Stat. 4689; Pub. L. 107–217, §3(o), Aug. 21, 2002, 116 Stat. 1303; Pub. L. 107–330, title III, §308(i), Dec. 6, 2002, 116 Stat. 2829, provided that:
 
 “(a)
 
@@ -214,7 +214,7 @@ Leases.—(1) The Secretary may enter into agreements as the Secretary determine
 
 Fund.—(1) There is hereby established the Pershing Hall Revolving Fund to be administered by the Secretary of Veterans Affairs.
 
-“(2) There shall be transferred to the Pershing Hall Revolving Fund, at such time or times as the Secretarymay determine without limitation as to year, amounts as determined by the Secretary, not to exceed $1,000,000 in total, from funds appropriated to the Department of Veterans Affairs for the construction of major projects. The account from which any such amount is transferred shall be reimbursed promptly from other funds as they become part of the Pershing Hall Revolving Fund.
+“(2) There shall be transferred to the Pershing Hall Revolving Fund, at such time or times as the Secretary may determine without limitation as to year, amounts as determined by the Secretary, not to exceed $1,000,000 in total, from funds appropriated to the Department of Veterans Affairs for the construction of major projects. The account from which any such amount is transferred shall be reimbursed promptly from other funds as they become part of the Pershing Hall Revolving Fund.
 
 “(3) The Pershing Hall Memorial Fund, established in the Treasury of the United States pursuant to section 2 of the Act of June 28, 1935 (Public Law 74–171; 49 Stat. 426) \[former 36 U.S.C. 491\], is hereby abolished and the corpus of the fund, including accrued interest, is transferred to the Pershing Hall Revolving Fund.
 
@@ -224,7 +224,7 @@ Fund.—(1) There is hereby established the Pershing Hall Revolving Fund to be a
 
 “(6)(A) Subject to subparagraphs (B) and (C), the Secretary of Veterans Affairs may expend not more than $100,000 from the Fund in any fiscal year upon projects, activities, and facilities determined by the Secretary to be in keeping with the mission of the Department.
 
-“(B) An expenditure under subparagraph (A) may be made only from funds that will remain in the Fund in any fiscal year after payment of expenses incurred with respect to Pershing Hall for such fiscal year and only after the reimbursement of all amounts transferred to the Fund under subsection (d)(2) has been completed.
+“(B) An expenditure under subparagraph (A) may be made only from funds that will remain in the Fund in any fiscal year after payment of expenses incurred with respect to Pershing Hall for such fiscal year and onlyafter the reimbursement of all amounts transferred to the Fund under subsection (d)(2) has been completed.
 
 “(C) An expenditure authorized by subparagraph (A) shall be reported by the Secretary to the Congress no later than November 1 of each year for the fiscal year ending on the previous September 30.
 
@@ -232,13 +232,13 @@ Fund.—(1) There is hereby established the Pershing Hall Revolving Fund to be a
 
 Waiver.—The Secretary may carry out the provisions of this section without regard to section 8122 of title 38, United States Code, subchapter II of chapter 5 of title 40, United States Code, sections 541 through 555 and 1302 of title 40, United States Code, or any other provision of law inconsistent with this section.”
 
-\[Section 3(<i>o</i>) of Pub. L. 107–217, which directed amendment of section 403(e) of Pub. L. 102–86, set out above, by substituting “subchapter II of chapter 5 of title 40, sections 541–555 and 1302 of title 40” for “section 303b of title 40, sections 483 and 484 of title 40”, could not be executed.\]
+\[Section 3(o) of Pub. L. 107–217, which directed amendment of section 403(e) of Pub. L. 102–86, set out above, by substituting “subchapter II of chapter 5 of title 40, sections 541–555 and 1302 of title 40” for “section 303b of title 40, sections 483 and 484 of title 40”, could not be executed.\]
 
 \[Section 403 of Pub. L. 102–86, set out above, was classified to section 493 of former Title 36 prior to the general revision and enactment of Title 36, Patriotic and National Observances, Ceremonies, and Organizations, by Pub. L. 105–225, §1, Aug. 12, 1998, 112 Stat. 1253.\]
 
 #### Authority To Establish National Cemeteries
 
-Section 414 of Pub. L. 99–576 provided that:
+Pub. L. 99–576, title IV, §414, Oct. 28, 1986, 100 Stat. 3284, provided that:
 
 “(a)
 

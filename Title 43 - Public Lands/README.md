@@ -1,6 +1,4 @@
 
-43 U.S.C.<br>United States Code, 2011 Edition<br>Title 43 - PUBLIC LANDS<br>From the U.S. Government Publishing Office, www.gpo.gov
-
 # TITLE 43—PUBLIC LANDS
 
 | Chap. |  | Sec. |

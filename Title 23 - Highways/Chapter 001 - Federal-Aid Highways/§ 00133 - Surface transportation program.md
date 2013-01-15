@@ -6,31 +6,37 @@ Establishment.—The Secretary shall establish a surface transportation program 
 
 (b)
 
-Eligible Projects.—A State may obligate funds apportioned to it under section 104(b)(3) for the surface transportation program only for the following:
+Eligible Projects.—A State may obligate funds apportioned to it under section 104(b)(2) for the surface transportation program only for the following:
 
-&emsp;(1) Construction, reconstruction, rehabilitation, resurfacing, restoration, and operational improvements for highways (including Interstate highways) and bridges (including bridges on public roads of all functional classifications), including any such construction or reconstruction necessary to accommodate other transportation modes, and including the seismic retrofit and painting of and application of calcium magnesium acetate, sodium acetate/formate, or other environmentally acceptable, minimally corrosive anti-icing and de-icing compositions on bridges and approaches thereto and other elevated structures, mitigation of damage to wildlife, habitat, and ecosystems caused by a transportation project funded under this title.
+&emsp;(1) Construction, reconstruction, rehabilitation, resurfacing, restoration, preservation, or operational improvements for highways, including construction of designated routes of the Appalachian development highway system and local access roads under section 14501 of title 40.
 
-&emsp;(2) Capital costs for transit projects eligible for assistance under chapter 53 of title 49, including vehicles and facilities, whether publicly or privately owned, that are used to provide intercity passenger service by bus.
+&emsp;(2) Replacement (including replacement with fill material), rehabilitation, preservation, protection (including painting, scour countermeasures, seismic retrofits, impact protection measures, security countermeasures, and protection against extreme events) and application of calcium magnesium acetate, sodium acetate/formate, or other environmentally acceptable, minimally corrosive anti-icing and deicing compositions for bridges (and approaches to bridges and other elevated structures) and tunnels on public roads of all functional classifications, including any such construction or reconstruction necessary to accommodate other transportation modes.
 
-&emsp;(3) Carpool projects, fringe and corridor parking facilities and programs, bicycle transportation and pedestrian walkways in accordance with section 217, and the modification of public sidewalks to comply with the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.).
+&emsp;(3) Construction of a new bridge or tunnel at a new location on a Federal-aid highway.
 
-&emsp;(4) Highway and transit safety infrastructure improvements and programs, hazard eliminations, projects to mitigate hazards caused by wildlife, and railway-highway grade crossings.
+&emsp;(4) Inspection and evaluation of bridges and tunnels and training of bridge and tunnel inspectors (as defined in section 144), and inspection and evaluation of other highway assets (including signs, retaining walls, and drainage structures).
 
-&emsp;(5) Highway and transit research and development and technology transfer programs.
+&emsp;(5) Capital costs for transit projects eligible for assistance under chapter 53 of title 49, including vehicles and facilities, whether publicly or privately owned, that are used to provide intercity passenger service by bus.
 
-&emsp;(6) Capital and operating costs for traffic monitoring, management, and control facilities and programs, including advanced truck stop electrification systems.
+&emsp;(6) Carpool projects, fringe and corridor parking facilities and programs, including electric vehicle and natural gas vehicle infrastructure in accordance with section 137, bicycle transportation and pedestrian walkways in accordance with section 217, and the modifications of public sidewalks to comply with the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.).
 
-&emsp;(7) Surface transportation planning programs.
+&emsp;(7) Highway and transit safety infrastructure improvements and programs, installation of safety barriers and nets on bridges, hazard eliminations, projects to mitigate hazards caused by wildlife, and railway-highway grade crossings.
 
-&emsp;(8) Transportation enhancement activities.
+&emsp;(8) Highway and transit research and development and technology transfer programs.
 
-&emsp;(9) Transportation control measures listed in section 108(f)(1)(A) (other than clause (xvi)) of the Clean Air Act (42 U.S.C. 7408(f)(1)(A)).
+&emsp;(9) Capital and operating costs for traffic monitoring, management, and control facilities and programs, including advanced truck stop electrification systems.
 
-&emsp;(10) Development and establishment of management systems under section 303.
+&emsp;(10) Surface transportation planning programs.
 
-&emsp;(11) In accordance with all applicable Federal law and regulations, participation in natural habitat and wetlands mitigation efforts related to projects funded under this title, which may include participation in natural habitat and wetlands mitigation banks; contributions to statewide and regional efforts to conserve, restore, enhance, and create natural habitats and wetlands; and development of statewide and regional natural habitat and wetlands conservation and mitigation plans, including any such banks, efforts, and plans authorized pursuant to the Water Resources Development Act of 1990 (including crediting provisions). Contributions to such mitigation efforts may take place concurrent with or in advance of project construction. Contributions toward these efforts may occur in advance of project construction only if such efforts are consistent with all applicable requirements of Federal law and regulations and State transportation planning processes. With respect to participation in a natural habitat or wetland mitigation effort related to a project funded under this title that has an impact that occurs within the service area of a mitigation bank, preference shall be given, to the maximum extent practicable, to the use of the mitigation bank if the bank contains sufficient available credits to offset the impact and the bank is approved in accordance with the Federal Guidance for the Establishment, Use and Operation of Mitigation Banks (60 Fed. Reg. 58605 (November 28, 1995)) or other applicable Federal law (including regulations).
+&emsp;(11) Transportation alternatives.
 
-&emsp;(12) Projects relating to intersections that—
+&emsp;(12) Transportation control measures listed in section 108(f)(1)(A) (other than clause (xvi)) of the Clean Air Act (42 U.S.C. 7408(f)(1)(A)).
+
+&emsp;(13) Development and establishment of management systems <sup>1</sup>
+
+&emsp;(14) Environmental mitigation efforts relating to projects funded under this title in the same manner and to the same extent as such activities are eligible under section 119(g).
+
+&emsp;(15) Projects relating to intersections that—
 
 &emsp;&emsp;(A) have disproportionately high accident rates;
 
@@ -42,71 +48,85 @@ Eligible Projects.—A State may obligate funds apportioned to it under section 
 
 &emsp;&emsp;(C) are located on a Federal-aid highway.
 
-&emsp;(13) Infrastructure-based intelligent transportation systems capital improvements.
+&emsp;(16) Infrastructure-based intelligent transportation systems capital improvements.
 
-&emsp;(14) Environmental restoration and pollution abatement in accordance with section 328.
+&emsp;(17) Environmental restoration and pollution abatement in accordance with section 328.
 
-&emsp;(15) Control of noxious weeds and aquatic noxious weeds and establishment of native species in accordance with section 329.
+&emsp;(18) Control of noxious weeds and aquatic noxious weeds and establishment of native species in accordance with section 329.
+
+&emsp;(19) Projects and strategies designed to support congestion pricing, including electric toll collection and travel demand management strategies and programs.
+
+&emsp;(20) Recreational trails projects eligible for funding under section 206.
+
+&emsp;(21) Construction of ferry boats and ferry terminal facilities eligible for funding under section 129(c).
+
+&emsp;(22) Border infrastructure projects eligible for funding under section 1303 of the SAFETEA–LU (23 U.S.C. 101 note; Public Law 109–59).
+
+&emsp;(23) Truck parking facilities eligible for funding under section 1401 of the MAP–21.
+
+&emsp;(24) Development and implementation of a State asset management plan for the National Highway System in accordance with section 119, including data collection, maintenance, and integration and the costs associated with obtaining, updating, and licensing software and equipment required for risk based asset management and performance based management, and for similar activities related to the development and implementation of a performance based management program for other public roads.
+
+&emsp;(25) A project that, if located within the boundaries of a port terminal, includes only such surface transportation infrastructure modifications as are necessary to facilitate direct intermodal interchange, transfer, and access into and out of the port.
+
+&emsp;(26) Construction and operational improvements for any minor collector if—
+
+&emsp;&emsp;(A) the minor collector, and the project to be carried out with respect to the minor collector, are in the same corridor as, and in proximity to, a Federal-aid highway designated as part of the National Highway System;
+
+&emsp;&emsp;(B) the construction or improvements will enhance the level of service on the Federal-aid highway described in subparagraph (A) and improve regional traffic flow; and
+
+&emsp;&emsp;(C) the construction or improvements are more cost-effective, as determined by a benefit-cost analysis, than an improvement to the Federal-aid highway described in subparagraph (A).
 
 (c)
 
-Location of Projects.—Except as provided in subsection (b)(1), surface transportation program projects (other than those described in subsections (b)(3) and (4)) may not be undertaken on roads functionally classified as local or rural minor collectors, unless such roads are on a Federal-aid highway system on January 1, 1991, and except as approved by the Secretary.
+Location of Projects.—Surface transportation program projects may not be undertaken on roads functionally classified as local or rural minor collectors unless the roads were on a Federal-aid highway system on January 1, 1991, except—
+
+&emsp;(1) as provided in subsection (g);
+
+&emsp;(2) for projects described in paragraphs (2), (4), (6), (7), (11), (20), (25), and (26) of subsection (b); and
+
+&emsp;(3) as approved by the Secretary.
 
 (d)
 
-Allocations of Apportioned Funds.—
+Allocations of Apportioned Funds to Areas Based on Population.—
 
-&emsp;\[(1) Repealed. Pub. L. 109–59, title I, §1113(b)(1), Aug. 10, 2005, 119 Stat. 1172.\]
+&emsp;(1)
+
+Calculation.—Of the funds apportioned to a State under section 104(b)(2)—
+
+&emsp;&emsp;(A) 50 percent for a fiscal year shall be obligated under this section, in proportion to their relative shares of the population of the State—
+
+&emsp;&emsp;&emsp;(i) in urbanized areas of the State with an urbanized area population of over 200,000;
+
+&emsp;&emsp;&emsp;(ii) in areas of the State other than urban areas with a population greater than 5,000; and
+
+&emsp;&emsp;&emsp;(iii) in other areas of the State; and
+
+&emsp;&emsp;(B) 50 percent may be obligated in any area of the State.
 
 &emsp;(2)
 
-For transportation enhancement activities.—In a fiscal year, the greater of 10 percent of the funds apportioned to a State under section 104(b)(3) for such fiscal year, or the amount set aside under this paragraph with respect to the State for fiscal year 2005, shall only be available for transportation enhancement activities.
+Metropolitan areas.—Funds attributed to an urbanized area under paragraph (1)(A)(i) may be obligated in the metropolitan area established under section 134 that encompasses the urbanized area.
 
 &emsp;(3)
 
-Division between urbanized areas of over 200,000 population and other areas.—
-
-&emsp;&emsp;(A)
-
-General rule.—Except as provided in subparagraph (C), 62.5 percent of the remaining 90 percent of the funds apportioned to a State under section 104(b)(3) for a fiscal year shall be obligated under this section—
-
-&emsp;&emsp;&emsp;(i) in urbanized areas of the State with an urbanized area population of over 200,000, and
-
-&emsp;&emsp;&emsp;(ii) in other areas of the State,
-
-> &emsp;&emsp;in proportion to their relative share of the State's population. The remaining 37.5 percent may be obligated in any area of the State. Funds attributed to an urbanized area under clause (i) may be obligated in the metropolitan area established under section 134 which encompasses the urbanized area.
-
-&emsp;&emsp;(B)
-
-Special rule for areas of less than 5,000 population.—Of the amounts required to be obligated under subparagraph (A)(ii), the State shall obligate in areas of the State (other than urban areas with a population greater than 5,000) an amount which is not less than 110 percent of the amount of funds apportioned to the State for the Federal-aid secondary system for fiscal year 1991.
-
-&emsp;&emsp;(C)
-
-Noncontiguous states exemption.—Subparagraph (A) shall not apply to Hawaii and Alaska.
-
-&emsp;&emsp;(D)
-
-Distribution between urbanized areas of over 200,000 population.—The amount of funds which a State is required to obligate under subparagraph (A)(i) shall be obligated in urbanized areas described in subparagraph (A)(i) based on the relative population of such areas; except that the State may obligate such funds based on other factors if the State and the relevant metropolitan planning organizations jointly apply to the Secretary for the permission to do so and the Secretary grants the request.
+Consultation with regional transportation planning organizations.—For purposes of paragraph (1)(A)(ii), before obligating funding attributed to an area with a population greater than 5,000 and less than 200,000, a State shall consult with the regional transportation planning organizations that represent the area, if any.
 
 &emsp;(4)
 
-Applicability of planning requirements.—Programming and expenditure of funds for projects under this section shall be consistent with the requirements of sections 134 and 135 of this title.
-
-&emsp;(5)
-
-Applicability of certain requirements to third party sellers.—
+Distribution among urbanized areas of over 200,000 population.—
 
 &emsp;&emsp;(A)
 
-In general.—Except as provided in subparagraphs (B) and (C), in the case of a transportation enhancement activity funded from the allocation required under paragraph (2), if real property or an interest in real property is to be acquired from a qualified organization exclusively for conservation purposes (as determined under section 170(h) of the Internal Revenue Code of 1986), the organization shall be considered to be the owner of the property for the purpose of the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970 (42 U.S.C. 4601 et seq.).
+In general.—Except as provided in subparagraph (B), the amount of funds that a State is required to obligate under paragraph (1)(A)(i) shall be obligated in urbanized areas described in paragraph (1)(A)(i) based on the relative population of the areas.
 
 &emsp;&emsp;(B)
 
-Federal approval prior to involvement of qualified organization.—If Federal approval of the acquisition of the real property or interest predates the involvement of a qualified organization described in subparagraph (A) in the acquisition of the property, the organization shall be considered to be an acquiring agency or person as described in section 24.101(a)(2) of title 49, Code of Federal Regulations, for the purpose of the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970.
+Other factors.—The State may obligate the funds described in subparagraph (A) based on other factors if the State and the relevant metropolitan planning organizations jointly apply to the Secretary for the permission to base the obligation on other factors and the Secretary grants the request.
 
-&emsp;&emsp;(C)
+&emsp;(5)
 
-Acquisitions on behalf of recipients of federal funds.—If a qualified organization described in subparagraph (A) has contracted with a State transportation department or other recipient of Federal funds to acquire the real property or interest on behalf of the recipient, the organization shall be considered to be an agent of the recipient for the purpose of the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970.
+Applicability of planning requirements.—Programming and expenditure of funds for projects under this section shall be consistent with sections 134 and 135.
 
 (e)
 
@@ -114,89 +134,19 @@ Administration.—
 
 &emsp;(1)
 
-Noncompliance.—If the Secretary determines that a State or local government has failed to comply substantially with any provision of this section, the Secretary shall notify the State that, if the State fails to take corrective action within 60 days from the date of receipt of the notification, the Secretary will withhold future apportionments under section 104(b)(3) until the Secretary is satisfied that appropriate corrective action has been taken.
+Submission of project agreement.—For each fiscal year, each State shall submit a project agreement that—
+
+&emsp;&emsp;(A) certifies that the State will meet all the requirements of this section; and
+
+&emsp;&emsp;(B) notifies the Secretary of the amount of obligations needed to carry out the program under this section.
 
 &emsp;(2)
 
-Program approval.—
-
-&emsp;&emsp;(A)
-
-Submission of project agreement.—For each fiscal year, each State shall submit a project agreement that—
-
-&emsp;&emsp;&emsp;(i) certifies that the State will meet all the requirements of this section; and
-
-&emsp;&emsp;&emsp;(ii) notifies the Secretary of the amount of obligations needed to carry out the program under this section.
-
-&emsp;&emsp;(B)
-
-Request for adjustments of amounts.—Each State shall request from the Secretary such adjustments to the amount of obligations referred to in subparagraph (A)(ii) as the State determines to be necessary.
-
-&emsp;&emsp;(C)
-
-Effect of approval by the secretary.—Approval by the Secretary of a project agreement under subparagraph (A) shall be deemed a contractual obligation ofthe United States to pay surface transportation program funds made available under this title.
+Request for adjustments of amounts.—Each State shall request from the Secretary such adjustments to the amount of obligations referred to in paragraph (1)(B) as the State determines to be necessary.
 
 &emsp;(3)
 
-Payments.—
-
-&emsp;&emsp;(A)
-
-In general.—Except as provided in subparagraph (B), the Secretary shall make payments to a State of costs incurred by the State for the surface transportation program in accordance with procedures to be established by the Secretary.
-
-&emsp;&emsp;(B)
-
-Advance payment option for transportation enhancement activities.—
-
-&emsp;&emsp;&emsp;(i)
-
-In general.—The Secretary may advance funds to the State for transportation enhancement activities funded from the allocation required by subsection (d)(2) for a fiscal year.
-
-&emsp;&emsp;&emsp;(ii)
-
-Limitation on amounts.—Amounts advanced under this subparagraph shall be limited to such amounts as are necessary to make prompt payments for project costs.
-
-&emsp;&emsp;&emsp;(iii)
-
-Effect on other requirements.—This subparagraph shall not exempt a State from other requirements of this title relating to the surface transportation program.
-
-&emsp;(4)
-
-Population determinations.—The Secretary shall use estimates prepared by the Secretary of Commerce when determining population figures for purposes of this section.
-
-&emsp;(5)
-
-Transportation enhancement activities.—
-
-&emsp;&emsp;(A)
-
-Categorical exclusions.—To the extent appropriate, the Secretary shall develop categorical exclusions from the requirement that an environmental assessment or an environmental impact statement under section 102 of the National Environmental Policy Act of 1969 (42 U.S.C. 4332) be prepared for transportation enhancement activities funded from the allocation required by subsection (d)(2).
-
-&emsp;&emsp;(B)
-
-Nationwide programmatic agreement.—The Secretary, in consultation with the National Conference of State Historic Preservation Officers and the Advisory Council on Historic Preservation established under title II of the National Historic Preservation Act (16 U.S.C. 470i et seq.), shall develop a nationwide programmatic agreement governing the review of transportation enhancement activities funded from the allocation required by subsection (d)(2), in accordance with—
-
-&emsp;&emsp;&emsp;(i) section 106 of such Act (16 U.S.C. 470f); and
-
-&emsp;&emsp;&emsp;(ii) the regulations of the Advisory Council on Historic Preservation.
-
-&emsp;&emsp;(C)
-
-Cost sharing.—
-
-&emsp;&emsp;&emsp;(i)
-
-Required aggregate non-federal share.—The average annual non-Federal share of the total cost of all projects to carry out transportation enhancement activities in a State for a fiscal year shall be not less than the non-Federal share authorized for the State under section 120(b).
-
-&emsp;&emsp;&emsp;(ii)
-
-Innovative financing.—Subject to clause (i), notwithstanding section 120—
-
-&emsp;&emsp;&emsp;&emsp;(I) funds from other Federal agencies and the value of other contributions (as determined by the Secretary) may be credited toward the non-Federal share of the costs of a project to carry out a transportation enhancement activity;
-
-&emsp;&emsp;&emsp;&emsp;(II) the non-Federal share for such a project may be calculated on a project, multiple-project, or program basis; and
-
-&emsp;&emsp;&emsp;&emsp;(III) the Federal share of the cost of an individual project to which subclause (I) or (II) applies may be up to 100 percent.
+Effect of approval by the secretary.—Approval by the Secretary of a project agreement under paragraph (1) shall be deemed a contractual obligation of the United States to pay surface transportation program funds made available under this title.
 
 (f)
 
@@ -204,7 +154,7 @@ Obligation Authority.—
 
 &emsp;(1)
 
-In general.—A State that is required to obligate in an urbanized area with an urbanized area population of over 200,000 individuals under subsection (d) funds apportioned to the State under section 104(b)(3) shall make available during the period of fiscal years 2004 through 2006 and the period of fiscal years 2007 through 2009 an amount of obligation authority distributed to the State for Federal-aid highways and highway safety construction programs for use in the area that is equal to the amount obtained by multiplying—
+In general.—A State that is required to obligate in an urbanized area with an urbanized area population of over 200,000 individuals under subsection (d) funds apportioned to the State under section 104(b)(3) <sup>2</sup> shall make available during the period of fiscal years 2011 through 2014 an amount of obligation authority distributed to the State for Federal-aid highways and highway safety construction programs for use in the area that is equal to the amount obtained by multiplying—
 
 &emsp;&emsp;(A) the aggregate amount of funds that the State is required to obligate in the area under subsection (d) during the period; and
 
@@ -218,25 +168,105 @@ In general.—A State that is required to obligate in an urbanized area with an 
 
 Joint responsibility.—Each State, each affected metropolitan planning organization, and the Secretary shall jointly ensure compliance with paragraph (1).
 
-(Added Pub. L. 102–240, title I, §1007(a)(1), Dec. 18, 1991, 105 Stat. 1927; amended Pub. L. 103–429, §3(4), Oct. 31, 1994, 108 Stat. 4377; Pub. L. 104–59, title III, §§315, 316, Nov. 28, 1995, 109 Stat. 586, 587; Pub. L. 105–178, title I, §§1108(a)–(e), 1212(a)(2)(A)(i), June 9, 1998, 112 Stat. 138–140, 193; Pub. L. 109–59, title I, §1113(a)–(b)(2), (c)–(e), title VI, §6006(a)(2), Aug. 10, 2005, 119 Stat. 1171, 1172, 1872.)
+(g)
+
+Bridges Not on Federal-aid Highways.—
+
+&emsp;(1)
+
+Definition of off-system bridge.—In this subsection, the term “off-system bridge” means a highway bridge located on a public road, other than a bridge on a Federal-aid highway.
+
+&emsp;(2)
+
+Special rule.—
+
+&emsp;&emsp;(A)
+
+Set-aside.—Of the amounts apportioned to a State for fiscal year 2013 and each fiscal year thereafter under this section, the State shall obligate for activities described in subsection (b)(2) for off-system bridges an amount that is not less than 15 percent of the amount of funds apportioned to the State for the highway bridge program for fiscal year 2009, except that amounts allocated under subsection (d) shall not be obligated to carry out this subsection.
+
+&emsp;&emsp;(B)
+
+Reduction of expenditures.—The Secretary, after consultation with State and local officials, may reduce the requirement for expenditures for off-system bridges under subparagraph (A) with respect to the State if the Secretary determines that the State has inadequate needs to justify the expenditure.
+
+&emsp;(3)
+
+Credit for bridges not on federal-aid highways.—Notwithstanding any other provision of law, with respect to any project not on a Federal-aid highway for the replacement of a bridge or rehabilitation of a bridge that is wholly funded from State and local sources, is eligible for Federal funds under this section, is noncontroversial, is certified by the State to have been carried out in accordance with all standards applicable to such projects under this section, and is determined by the Secretary upon completion to be no longer a deficient bridge—
+
+&emsp;&emsp;(A) any amount expended after the date of enactment of this subsection from State and local sources for the project in excess of 20 percent of the cost of construction of the project may be credited to the non-Federal share of the cost of other bridge projects in the State that are eligible for Federal funds under this section; and
+
+&emsp;&emsp;(B) that crediting shall be conducted in accordance with procedures established by the Secretary.
+
+(h)
+
+Special Rule for Areas of Less Than 5,000
+
+Population.—
+
+&emsp;(1)
+
+Special rule.—Notwithstanding subsection (c), and except as provided in paragraph (2), up to 15 percent of the amounts required to be obligated by a State under subsection (d)(1)(A)(iii) for each of fiscal years 2013 through 2014 may be obligated on roads functionally classified as minor collectors.
+
+&emsp;(2)
+
+Suspension.—The Secretary may suspend the application of paragraph (1) with respect to a State if the Secretary determines that the authority provided under paragraph (1) is being used excessively by the State.
+
+(Added Pub. L. 102–240, title I, §1007(a)(1), Dec. 18, 1991, 105 Stat. 1927; amended Pub. L. 103–429, §3(4), Oct. 31, 1994, 108 Stat. 4377; Pub. L. 104–59, title III, §§315, 316, Nov. 28, 1995, 109 Stat. 586, 587; Pub. L. 105–178, title I, §§1108(a)–(e), 1212(a)(2)(A)(i), June 9, 1998, 112 Stat. 138–140, 193; Pub. L. 109–59, title I, §1113(a)–(b)(2), (c)–(e), title VI, §6006(a)(2), Aug. 10, 2005, 119 Stat. 1171, 1172, 1872; Pub. L. 112–141, div. A, title I, §§1108, 1519(c)(8), July 6, 2012, 126 Stat. 440, 576.)
 
 #### References in Text
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (b)(3), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (b)(6), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
-The Water Resources Development Act of 1990, referred to in subsec. (b)(11), is Pub. L. 101–640, Nov. 28, 1990, 104 Stat. 4604. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 2201 of Title 33, Navigation and Navigable Waters, and Tables.
+Section 1401 of the MAP–21, referred to in subsec. (b)(23), is section 1401 of Pub. L. 112–141, which is set out as a note under section 137 of this title.
 
-The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in subsec. (d)(5), is Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, which is classified principally to chapter 61 (§4601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of Title 42 and Tables.
-
-Section 170(h) of the Internal Revenue Code of 1986, referred to in subsec. (d)(5)(A), is classified to section 170(h) of Title 26, Internal Revenue Code.
-
-The National Historic Preservation Act, referred to in subsec. (e)(5)(B), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, as amended. Title II of the Act is classified generally to part B (§470i et seq.) of subchapter II of chapter 1A of Title 16, Conservation. For complete classification of this Act to the Code, see section 470 of Title 16 and Tables.
+Section 104, referred to in subsec. (f)(1), was amended generally by Pub. L. 112–141, div. A, title I, §1105(a), July 6, 2012, 126 Stat. 427.
 
 #### Prior Provisions
 
 A prior section 133, Pub. L. 87–866, §5(a), Oct. 23, 1962, 76 Stat. 1146, provided for relocation assistance for persons displaced by Federal-aid highway construction, prior to repeal by Pub. L. 90–495, §37, Aug. 23, 1968, 82 Stat. 836, effective July 1, 1970. See section 501 et seq. of this title.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (b). Pub. L. 112–141, §1108(a)(1), substituted “section 104(b)(2)” for “section 104(b)(3)” in introductory provisions.
+
+Subsec. (b)(1). Pub. L. 112–141, §1108(a)(2), (4), added par. (1) and struck out former par. (1) which read as follows: “Construction, reconstruction, rehabilitation, resurfacing, restoration, and operational improvements for highways (including Interstate highways) and bridges (including bridges on public roads of all functional classifications), including any such construction or reconstruction necessary to accommodate other transportation modes, and including the seismic retrofit and painting of and application of calcium magnesium acetate, sodium acetate/formate, or other environmentally acceptable, minimally corrosive anti-icing and de-icing compositions on bridges and approaches thereto and other elevated structures, mitigation of damage to wildlife, habitat, and ecosystems caused by a transportation project funded under this title.”
+
+Subsec. (b)(2) to (4). Pub. L. 112–141, §1108(a)(4), added pars. (2) to (4). Former pars. (2) to (4) redesignated (5) to (7), respectively.
+
+Subsec. (b)(5). Pub. L. 112–141, §1108(a)(3), redesignated par. (2) as (5). Former par. (5) redesignated (8).
+
+Subsec. (b)(6). Pub. L. 112–141, §1108(a)(5), added par. (6) and struck out former par. (6) which read as follows: “Carpool projects, fringe and corridor parking facilities and programs, bicycle transportation and pedestrian walkways in accordance with section 217, and the modification of public sidewalks to comply with the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.).”
+
+Pub. L. 112–141, §1108(a)(3), redesignated par. (3) as (6). Former par. (6) redesignated (9).
+
+Subsec. (b)(7). Pub. L. 112–141, §1108(a)(6), added par. (7) and struck out former par. (7) which read as follows: “Highway and transit safety infrastructure improvements and programs, hazard eliminations, projects to mitigate hazards caused by wildlife, and railway-highway grade crossings.”
+
+Pub. L. 112–141, §1108(a)(3), redesignated par. (4) as (7). Former par. (7) redesignated (10).
+
+Subsec. (b)(8) to (10). Pub. L. 112–141, §1108(a)(3), redesignated pars. (5) to (7) as (8) to (10), respectively. Former pars. (8) to (10) redesignated (11) to (13), respectively.
+
+Subsec. (b)(11). Pub. L. 112–141, §1108(a)(3), (7), redesignated par. (8) as (11) and substituted “alternatives” for “enhancement activities”. Former par. (11) redesignated (14).
+
+Subsec. (b)(12). Pub. L. 112–141, §1108(a)(3), redesignated par. (9) as (12). Former par. (12) redesignated (15).
+
+Subsec. (b)(13). Pub. L. 112–141, §§1108(a)(3), 1519(c)(8), redesignated par. (10) as (13) and struck out “under section 303.” at end. Former par. (13) redesignated (16).
+
+Subsec. (b)(14). Pub. L. 112–141, §1108(a)(8), added par. (14) and struck out former par. (14) which related to obligating funds for the surface transportation program for projects related to participation in natural habitat and wetlands mitigation efforts.
+
+Pub. L. 112–141, §1108(a)(3), redesignated par. (11) as (14). Former par. (14) redesignated (17).
+
+Subsec. (b)(15) to (18). Pub. L. 112–141, §1108(a)(3), redesignated pars. (12) to (15) as (15) to (18), respectively.
+
+Subsec. (b)(19) to (26). Pub. L. 112–141, §1108(a)(9), added pars. (19) to (26).
+
+Subsec. (c). Pub. L. 112–141, §1108(b), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “Except as provided in subsection (b)(1), surface transportation program projects (other than those described in subsections (b)(3) and (4)) may not be undertaken on roads functionally classified as local or rural minor collectors, unless such roads are on a Federal-aid highway system on January 1, 1991, and except as approved by the Secretary.”
+
+Subsec. (d). Pub. L. 112–141, §1108(c), added subsec. (d) and struck out former subsec. (d) which related to allocations of apportioned funds.
+
+Subsec. (e). Pub. L. 112–141, §1108(d), added subsec. (e) and struck out former subsec. (e) which related to administration and consisted of pars. (1) to (5).
+
+Subsec. (f)(1). Pub. L. 112–141, §1108(e), substituted “2011 through 2014” for “2004 through 2006 and the period of fiscal years 2007 through 2009” in introductory provisions.
+
+Subsecs. (g), (h). Pub. L. 112–141, §1108(f), added subsecs. (g) and (h).
 
 <b>2005</b>—Subsec. (b)(6). Pub. L. 109–59, §1113(a)(1), inserted “, including advanced truck stop electrification systems” before period at end.
 
@@ -300,6 +330,10 @@ Subsec. (e)(5). Pub. L. 104–59, §316(2), added par. (5).
 
 <b>1994</b>—Subsec. (b)(2). Pub. L. 103–429 substituted “chapter 53 of title 49” for “the Federal Transit Act”.
 
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
+
 #### Effective Date of 2005 Amendment
 
 Pub. L. 109–59, title I, §1113(b)(3), Aug. 10, 2005, 119 Stat. 1172, provided that: “Paragraph (1) and paragraph (2)(A)(ii) of this subsection \[amending this section\] shall take effect October 1, 2005.”
@@ -318,7 +352,7 @@ Pub. L. 105–178, title I, §1108(f), June 9, 1998, 112 Stat. 141, as amended b
 
 “(1)
 
-Special rule.—Notwithstanding section 133(c) of title 23, United States Code, and except as provided in paragraph (2), up to 15 percent of the amounts required to be obligated under section 133(d)(3)(B) of such title for each of fiscal years 1998 through 2009 may be obligated on roads functionally classified as minor collectors.
+Special rule.—Notwithstanding section 133(c) of title 23, United States Code, and except as provided in paragraph (2), up to 15 percent of the amounts required to be obligated under \[former\] section 133(d)(3)(B) of such title for each of fiscal years 1998 through 2009 may be obligated on roads functionally classified as minor collectors.
 
 “(2)
 
@@ -327,4 +361,8 @@ Suspension.—The Secretary may suspend the application of paragraph (1) if the 
 #### Encouragement of Use of Youth Conservation or Service Corps
 
 Pub. L. 105–178, title I, §1108(g), June 9, 1998, 112 Stat. 141, provided that: “The Secretary shall encourage the States to enter into contracts and cooperative agreements with qualified youth conservation or service corps to perform appropriate transportation enhancement activities under chapter 1 of title 23, United States Code.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

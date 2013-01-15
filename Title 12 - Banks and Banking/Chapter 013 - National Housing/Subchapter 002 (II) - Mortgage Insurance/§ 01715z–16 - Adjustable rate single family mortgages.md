@@ -24,7 +24,7 @@ The aggregate number of mortgages and loans insured under this section in any fi
 
 (2) The disclosure required under subsection (b) of this section shall be required for a mortgage insured under this subsection.
 
-(June 27, 1934, ch. 847, title II, §251, as added Pub. L. 98–181, title IV, §443, Nov. 30, 1983, 97 Stat. 1225; amended Pub. L. 100–242, title IV, §415(a), Feb. 5, 1988, 101 Stat. 1907; Pub. L. 107–73, title II, §206, Nov. 26, 2001, 115 Stat. 674; Pub. L. 108–186, title III, §301(a), Dec. 16, 2003, 117 Stat. 2692.)
+(June 27, 1934, ch. 847, title II, §251, as added Pub. L. 98–181, title I \[title IV, §443\], Nov. 30, 1983, 97 Stat. 1225; amended Pub. L. 100–242, title IV, §415(a), Feb. 5, 1988, 101 Stat. 1907; Pub. L. 107–73, title II, §206, Nov. 26, 2001, 115 Stat. 674; Pub. L. 108–186, title III, §301(a), Dec. 16, 2003, 117 Stat. 2692.)
 
 #### References in Text
 
@@ -34,7 +34,7 @@ The Truth in Lending Act, referred to in subsec. (b), is title I of Pub. L. 90�
 
 <b>2003</b>—Subsec. (d)(1)(C). Pub. L. 108–186 substituted “3” for “five”
 
-<b>2001</b>—Subsec. (b). Pub. L. 107–73, §206(1), substituted “require that the mortgagee make available to the mortgagor, at the time of loan application, a written explanation of the features of an adjustable rate mortgage consistent with the disclosure requirements applicable to variable rate mortgages secured by a principal dwelling under the Truth in Lending Act” for “issueregulations requiring that the mortgagee make available to the mortgagor, at the time of loan application, a written explanation of the features of the adjustable rate mortgage, including a hypothetical payment schedule that displays the maximum potential increases in monthly payments to the mortgagor over the first 5 years of the mortgage term”.
+<b>2001</b>—Subsec. (b). Pub. L. 107–73, §206(1), substituted “require that the mortgagee make available to the mortgagor, at the time of loan application, a written explanation of the features of an adjustable rate mortgage consistent with the disclosure requirements applicable to variable rate mortgages secured by a principal dwelling under the Truth in Lending Act” for “issue regulations requiring that the mortgagee make available to the mortgagor, at the time of loan application, a written explanation of the features of the adjustable rate mortgage, including a hypothetical payment schedule that displays the maximum potential increases in monthly payments to the mortgagor over the first 5 years of the mortgage term”.
 
 Subsec. (d). Pub. L. 107–73, §206(2), added subsec. (d).
 

@@ -22,7 +22,7 @@ The term “unrelated trade or business” means, in the case of—
 
 #### (c) Advertising, etc., activities
 
-For purposes of this section, the term “trade or business” includes any activity which is carried on for the production of income from the sale of goods or the performance of services. For purposes of the preceding sentence, an activity does not lose identity as a trade or businessmerely because it is carried on within a larger aggregate of similar activities or within a larger complex of other endeavors which may, or may not, be related to the exempt purposes of the organization. Where an activity carried on for profit constitutes an unrelated trade or business, no part of such trade or business shall be excluded from such classification merely because it does not result in profit.
+For purposes of this section, the term “trade or business” includes any activity which is carried on for the production of income from the sale of goods or the performance of services. For purposes of the preceding sentence, an activity does not lose identity as a trade or business merely because it is carried on within a larger aggregate of similar activities or within a larger complex of other endeavors which may, or may not, be related to the exempt purposes of the organization. Where an activity carried on for profit constitutes an unrelated trade or business, no part of such trade or business shall be excluded from such classification merely because it does not result in profit.
 
 #### (d) Certain activities of trade shows, State fairs, etc.
 
@@ -56,7 +56,7 @@ For purposes of this section, the term “trade or business” includes any acti
 
 #### (A) Convention and trade show activities
 
-&emsp;&emsp;The term “convention and trade show activity” means any activity of a kind traditionally conducted at conventions, annual meetings, or trade shows, including, but not limited to, any activity one of the purposes of which is to attract persons in an industry generally (without regard to membership in the sponsoring organization) as well as members of the public to the show for the purpose of displaying industry products or to stimulate interest in, and demand for, industry products or services, or to educate persons engaged in the industry in the development of new products and services or new rules and regulations affecting the industry.
+&emsp;&emsp;The term “convention and trade show activity” means any activity of a kind traditionally conducted at conventions, annual meetings, or trade shows, including, but not limited to, any activity one of the purposes of which is to attract persons in an industry generally (without regard to membership in the sponsoring organization) as well asmembers of the public to the show for the purpose of displaying industry products or to stimulate interest in, and demand for, industry products or services, or to educate persons engaged in the industry in the development of new products and services or new rules and regulations affecting the industry.
 
 #### (B) Qualified convention and trade show activity
 
@@ -234,7 +234,7 @@ Amendment by Pub. L. 109–280 applicable to taxable years beginning after Aug. 
 
 #### Effective Date of 1997 Amendment
 
-Section 965(b) of Pub. L. 105–34 provided that: “The amendment made by this section \[amending this section\] shall apply to payments solicited or received after December 31, 1997.”
+Pub. L. 105–34, title IX, §965(b), Aug. 5, 1997, 111 Stat. 894, provided that: “The amendment made by this section \[amending this section\] shall apply to payments solicited or received after December 31, 1997.”
 
 #### Effective Date of 1993 Amendment
 
@@ -246,23 +246,23 @@ Amendment by Pub. L. 101–508 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 1986 Amendment
 
-Section 1601(b) of Pub. L. 99–514 provided that: “The amendment made by this section \[amending this section\] shall apply to distributions of low cost articles and exchanges and rentals of member lists after the date of the enactment of this Act \[Oct. 22, 1986\].”
+Pub. L. 99–514, title XVI, §1601(b), Oct. 22, 1986, 100 Stat. 2767, provided that: “The amendment made by this section \[amending this section\] shall apply to distributions of low cost articles and exchanges and rentals of member lists after the date of the enactment of this Act \[Oct. 22, 1986\].”
 
-Section 1602(c) of Pub. L. 99–514 provided that: “The amendments made by this section \[amending this section\] shall apply to activities in taxable years beginning after the date of the enactment of this Act \[Oct. 22, 1986\].”
+Pub. L. 99–514, title XVI, §1602(c), Oct. 22, 1986, 100 Stat. 2768, provided that: “The amendments made by this section \[amending this section\] shall apply to activities in taxable years beginning after the date of the enactment of this Act \[Oct. 22, 1986\].”
 
 #### Effective Date of 1980 Amendment
 
-Section 106(c)(2) of Pub. L. 96–605 provided that: “The amendment made by subsection (b) \[amending this section\] shall apply to taxable years beginning after December 31, 1969.”
+Pub. L. 96–605, title I, §106(c)(2), Dec. 29, 1980, 94 Stat. 3524, provided that: “The amendment made by subsection (b) \[amending this section\] shall apply to taxable years beginning after December 31, 1969.”
 
 #### Effective Date of 1978 Amendment
 
-Section 301(b) of Pub. L. 95–502 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1969.”
+Pub. L. 95–502, title III, §301(b), Oct. 21, 1978, 92 Stat. 1702, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1969.”
 
 #### Effective Date of 1976 Amendment
 
-Section 1305(b) of Pub. L. 94–455 provided that: “The amendments made by subsection (a) \[amending thissection\] apply to qualified public entertainment activities in taxable years beginning after December 31, 1962, and to qualified convention and trade show activities in taxable years beginning after the date of enactment of this Act \[Oct. 4, 1976\].”
+Pub. L. 94–455, title XIII, §1305(b), Oct. 4, 1976, 90 Stat. 1717, provided that: “The amendments made by subsection (a) \[amending this section\] apply to qualified public entertainment activities in taxable years beginning after December 31, 1962, and to qualified convention and trade show activities in taxable years beginning after the date of enactment of this Act \[Oct. 4, 1976\].”
 
-Section 1311(b) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by this section \[amending this section\] shall apply to all taxable years to which the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[this title\] applies.”
+Pub. L. 94–455, title XIII, §1311(b), Oct. 4, 1976, 90 Stat. 1730, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by this section \[amending this section\] shall apply to all taxable years to which the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[this title\] applies.”
 
 #### Effective Date of 1969 Amendment
 
@@ -294,5 +294,5 @@ General Rule.—For purposes of section 513 of the Internal Revenue Code of 1986
 
 Effective Date.—Subsection (a) shall apply to games of chance conducted after June 30, 1981, in taxable years ending after such date.”
 
-\[Section 1834 of Pub. L. 99–514, as amended by Pub. L. 100–647, title VI, §6201, Nov. 10, 1988, 102 Stat. 3730, provided in part that: “The amendment made by this section \[amending section 311 of Pub. L. 98–369, set out above\] shall apply to games of chance conducted after October 22, 1986, in taxable years ending after such date”.\]
+\[Pub. L. 99–514, title XVIII, §1834, Oct. 22, 1986, 100 Stat. 2852, as amended by Pub. L. 100–647, title VI, §6201, Nov. 10, 1988, 102 Stat. 3730, provided in part that: “The amendment made by this section \[amending section 311 of Pub. L. 98–369, set out above\] shall apply to games of chance conducted after October 22, 1986, in taxable years ending after such date”.\]
 

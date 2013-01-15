@@ -48,7 +48,7 @@ The Administrator shall establish a program to be known as the Federal and State
 
 #### (1) Joint review
 
-&emsp;In carrying out the FAST program under this section, the Administrator and the SBIR program managers at the National Science Foundation and the Department of Defense shall jointly review proposals submitted by applicants and may make awards or enter into cooperative agreements under this section based on the factors for consideration set forthin paragraph (2), in order to enhance or develop in a State—
+&emsp;In carrying out the FAST program under this section, the Administrator and the SBIR program managers at the National Science Foundation and the Department of Defense shall jointly review proposals submitted by applicants and may make awards or enter into cooperative agreements under this section based on the factors for consideration set forth in paragraph (2), in order to enhance or develop in a State—
 
 &emsp;&emsp;(A) technology research and development by small business concerns;
 
@@ -176,7 +176,7 @@ In carrying out the FAST program under this section, the Administrator shall coo
 
 #### (2) Annual reports
 
-&emsp;The Administrator shall submit an annual report to the Committee on Small Business of the Senate and the Committee on Science and the Committee on Small Business of the House of Representatives regarding—
+&emsp;The Administrator shall submit an annual report to the Committee on Small Business ofthe Senate and the Committee on Science and the Committee on Small Business of the House of Representatives regarding—
 
 &emsp;&emsp;(A) the number and amount of awards provided and cooperative agreements entered into under the FAST program during the preceding year;
 
@@ -224,7 +224,7 @@ Subpar. (C) of section 42(d)(5) of title 26, referred to in subsec. (e)(2)(B), w
 
 #### Prior Provisions
 
-A prior section 2\[34\] of Pub. L. 85–536 was renumbered section 2\[44\] and is set out as a note under section 631 of this title.
+A prior section 2\[34\] of Pub. L. 85–536 was renumbered section 2\[47\] and is set out as a note under section 631 of this title.
 
 #### Amendments
 

@@ -12,7 +12,7 @@ Authority for Voluntary Delays.—(1) The Secretary of the military department c
 
 (b)
 
-Effect of Approval of Request.—If a request for delay of a promotion under subsection (a) is approved, the officer's name shall remain on the promotion list during the authorized period of delay (unless removed under any other provision of law). Upon the end of the period of the authorized delay, or at any time during such period, the officer may accept the promotion,which shall be effective on the date of acceptance. Such an acceptance of a promotion shall be made in accordance with regulations prescribed under this section.
+Effect of Approval of Request.—If a request for delay of a promotion under subsection (a) is approved, the officer's name shall remain on the promotion list during the authorized period of delay (unless removed under any other provision of law). Upon the end of the period of the authorized delay, or at any time during such period, the officer may accept the promotion, which shall be effective on the date of acceptance. Such an acceptance of a promotion shall be made in accordance with regulations prescribed under this section.
 
 (c)
 
@@ -20,7 +20,7 @@ Effect of Declining a Promotion.—An officer's name shall be removed from the p
 
 &emsp;(1) The Secretary concerned has not authorized voluntary delays of promotion under subsection (a) to the grade concerned and the officer declines to accept an appointment to a higher grade.
 
-&emsp;(2) The Secretary concerned has authorized voluntary delays of promotion under subsection (a), but has denied the request of the officer for a delay of promotion and the officer then declines to accept an appointment to a higher grade.
+&emsp;(2) The Secretary concerned has authorized voluntary delays of promotion under subsection (a), but has denied the request of theofficer for a delay of promotion and the officer then declines to accept an appointment to a higher grade.
 
 &emsp;(3) The Secretary concerned has approved the request of an officer for a delay of promotion and, upon the end of the period of delay authorized in accordance with regulations prescribed under subsection (a), the officer then declines to accept an appointment to a higher grade.
 

@@ -64,7 +64,7 @@ Any establishment within any foreign country engaged in the manufacture, prepara
 
 &emsp;&emsp;(B) If since the date the registrant last made a report under this paragraph that person has discontinued the manufacture, preparation, compounding, or processing for commercial distribution of a tobacco product included in a list filed under subparagraph (A) or paragraph (1), notice of such discontinuance, the date of such discontinuance, and the identity of its established name.
 
-&emsp;&emsp;(C) If since the date the registrant reported under subparagraph (B) a notice of discontinuance that person has resumed the manufacture, preparation, compounding, or processing for commercial distribution of the tobacco product with respect to which such notice of discontinuance was reported, notice of such resumption, the date of suchresumption, the identity of such tobacco product by established name, and other information required by paragraph (1), unless the registrant has previously reported such resumption to the Secretary under this subparagraph.
+&emsp;&emsp;(C) If since the date the registrant reported under subparagraph (B) a notice of discontinuance that person has resumed the manufacture, preparation, compounding, or processing for commercial distribution of the tobacco product with respect to which such notice of discontinuance was reported, notice of such resumption, the date of such resumption, the identity of such tobacco product by established name, and other information required by paragraph (1), unless the registrant has previously reported such resumption to the Secretary under this subparagraph.
 
 &emsp;&emsp;(D) Any material change in any information previously submitted under this paragraph or paragraph (1).
 
@@ -76,7 +76,7 @@ Any establishment within any foreign country engaged in the manufacture, prepara
 
 &emsp;&emsp;(A) the basis for such person's determination that—
 
-&emsp;&emsp;&emsp;(i) the tobacco product is substantially equivalent, within the meaning of section 387j of this title, to a tobacco product commercially marketed (other than for test marketing) in the United States as of February 15, 2007, or to a tobacco product that the Secretary has previously determined, pursuant to subsection (a)(3) of section 387j of this title, is substantially equivalent and that is in compliance with the requirements of this chapter; or
+&emsp;&emsp;&emsp;(i) the tobacco product is substantially equivalent, within the meaning of section 387j of this title, to a tobacco product commercially marketed (other than for test marketing) in the United States as of February 15, 2007, or to a tobacco product that the Secretary has previously determined, pursuant to subsection (a)(3) of section 387j of this title, is substantially equivalentand that is in compliance with the requirements of this chapter; or
 
 &emsp;&emsp;&emsp;(ii) the tobacco product is modified within the meaning of paragraph (3), the modifications are to a product that is commercially marketed and in compliance with the requirements of this chapter, and all of the modifications are covered by exemptions granted by the Secretary pursuant to paragraph (3); and
 

@@ -26,7 +26,7 @@
 
 &emsp;(2) if an individual debtor's schedule of assets and liabilities includes debts which are secured by property of the estate—
 
-&emsp;&emsp;(A) within thirty days after the date of the filing of a petition under chapter 7 of this title or on or before the date of the meeting of creditors, whichever is earlier, or within such additional time as the court, for cause, within such period fixes, file with the clerk a statement of his intention with respect to the retention or surrender of such propertyand, if applicable, specifying that such property is claimed as exempt, that the debtor intends to redeem such property, or that the debtor intends to reaffirm debts secured by such property; and
+&emsp;&emsp;(A) within thirty days after the date of the filing of a petition under chapter 7 of this title or on or before the date of the meeting of creditors, whichever is earlier, or within such additional time as the court, for cause, within such period fixes, file with the clerk a statement of his intention with respect to the retention or surrender of such property and, if applicable, specifying that such property is claimed as exempt, that the debtor intends to redeem such property, or that the debtor intends to reaffirm debts secured by such property; and
 
 &emsp;&emsp;(B) within 30 days after the first date set for the meeting of creditors under section 341(a), or within such additional time as the court, for cause, within such 30-day period fixes, perform his intention with respect to such property, as specified by subparagraph (A) of this paragraph;
 
@@ -68,7 +68,7 @@
 
 (B) If the debtor fails to comply with clause (i) or (ii) of subparagraph (A), the court shall dismiss the case unless the debtor demonstrates that the failure to so comply is due to circumstances beyond the control of the debtor.
 
-(C) If a creditor requests a copy of such tax return or such transcript and if the debtor fails to provide a copy of such tax return or such transcript to such creditor at the time the debtor provides such tax return or such transcript to the trustee, then the court shall dismiss the case unless the debtor demonstrates that thefailure to provide a copy of such tax return or such transcript is due to circumstances beyond the control of the debtor.
+(C) If a creditor requests a copy of such tax return or such transcript and if the debtor fails to provide a copy of such tax return or such transcript to such creditor at the time the debtor provides such tax return or such transcript to the trustee, then the court shall dismiss the case unless the debtor demonstrates that the failure to provide a copy of such tax return or such transcript is due to circumstances beyond the control of the debtor.
 
 (3) If a creditor in a case under chapter 13 files with the court at any time a request to receive a copy of the plan filed by the debtor, then the court shall make available to such creditor a copy of the plan—
 
@@ -210,7 +210,7 @@ Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, see section
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
+Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
 #### Confidentiality of Tax Information
 

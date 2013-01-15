@@ -26,7 +26,7 @@ Limitations on Summons Power.—
 
 &emsp;(1)
 
-Scope of power.—The Secretary of the Treasury may take any action described in paragraph (3) or (4) of subsection (a) only inconnection with investigations for the purpose of civil enforcement of violations of this subchapter, section 21 of the Federal Deposit Insurance Act, section 411 <sup>1</sup> of the National Housing Act, or chapter 2 of Public Law 91–508 (12 U.S.C. 1951 et seq.) or any regulation under any such provision.
+Scope of power.—The Secretary of the Treasury may take any action described in paragraph (3) or (4) of subsection (a) only in connection with investigations for the purpose of civil enforcement of violations of this subchapter, section 21 of the Federal Deposit Insurance Act, section 411 <sup>1</sup> of the National Housing Act, or chapter 2 of Public Law 91–508 (12 U.S.C. 1951 et seq.) or any regulation under any such provision.
 
 &emsp;(2)
 
@@ -86,7 +86,7 @@ Service of process.—All process in any case under this subsection may be serve
 
 (f)
 
-Written and Signed Statement Required.—No person shall qualify for an exemption under subsection (a)(5) <sup>2</sup> unless the relevant financial institution or nonfinancial trade or business prepares and maintains a statement which—
+Written and Signed Statement Required.—No person shall qualify for an exemption under subsection (a)(5) <sup>1</sup> unless the relevant financial institution or nonfinancial trade or business prepares and maintains a statement which—
 
 &emsp;(1) describes in detail the reasons why such person is qualified for such exemption; and
 
@@ -122,7 +122,7 @@ Rule of construction.—Notwithstanding the application of subparagraph (A) in a
 
 &emsp;&emsp;&emsp;&emsp;(I) in a written employment reference that is provided in accordance with section 18(w) of the Federal Deposit Insurance Act in response to a request from another financial institution; or
 
-&emsp;&emsp;&emsp;&emsp;(II) in a written termination notice or employment reference that is provided in accordance with the rules of a self-regulatory organization registered with the Securities and Exchange Commissionor the Commodity Futures Trading Commission,
+&emsp;&emsp;&emsp;&emsp;(II) in a written termination notice or employment reference that is provided in accordance with the rules of a self-regulatory organization registered with the Securities and Exchange Commission or the Commodity Futures Trading Commission,
 
 &emsp;&emsp;&nbsp;except that such written reference or notice may not disclose that such information was also included in any such report, or that such report was made.
 
@@ -358,7 +358,7 @@ Limitation on liability.—A covered financial institution shall not be liable t
 
 Failure to terminate relationship.—Failure to terminate a correspondent relationship in accordance with this subsection shall render the covered financial institution liable for a civil penalty of up to $10,000 per day until the correspondent relationship is so terminated.
 
-(<i>l</i>)
+(l)
 
 Identification and Verification of Accountholders.—
 
@@ -378,7 +378,7 @@ Minimum requirements.—The regulations shall, at a minimum, require financial i
 
 &emsp;(3)
 
-Factors to be considered.—In prescribing regulations under this subsection, the Secretary shall take into consideration the various types of accounts maintained by varioustypes of financial institutions, the various methods of opening accounts, and the various types of identifying information available.
+Factors to be considered.—In prescribing regulations under this subsection, the Secretary shall take into consideration the various types of accounts maintained by various types of financial institutions, the various methods of opening accounts, and the various types of identifying information available.
 
 &emsp;(4)
 
@@ -468,7 +468,7 @@ Oct. 26, 1970, Pub. L. 91–508, §§205(a), (b)(1st sentence), 206, 84 Stat. 11
 
 31:1055.
 
-In the section, before clause (1), the words “have the responsibility to assure compliance with the requirements of this chapter” in 31:1054(a) are omitted as unnecessary because of section 321 of the revised title. The words “(except under section 5315 of this title and regulations prescribed under section 5315)” are added because 31:1141–1143 was not enacted as a part of the Currency and Foreign Transactions Reporting Act that is restated in this subchapter. In clause (1), the words “duties and powers” are substituted for “responsibilities” for consistency in the revised title and with other titles of the United States Code. The words “bank supervisory agency, or other” are omitted as surplus. In clause (2), the words “by regulation” and “as he may deem” are omitted as surplus. The words “and regulations prescribed under this subchapter” are added because of the restatement. In clause (3), the word “prescribe” is substituted for “make” in 31:1055 for consistency in the revised title and with other titles of the Code. The words “otherwise imposed”, 31:1055(1st sentence), and the words “in his discretion” are omitted as surplus.
+In the section, before clause (1), the words “have the responsibility to assure compliance with the requirements of this chapter” in 31:1054(a) are omitted as unnecessary because of section 321 of the revised title. The words “(except under section 5315 of this title and regulations prescribed under section 5315)” are addedbecause 31:1141–1143 was not enacted as a part of the Currency and Foreign Transactions Reporting Act that is restated in this subchapter. In clause (1), the words “duties and powers” are substituted for “responsibilities” for consistency in the revised title and with other titles of the United States Code. The words “bank supervisory agency, or other” are omitted as surplus. In clause (2), the words “by regulation” and “as he may deem” are omitted as surplus. The words “and regulations prescribed under this subchapter” are added because of the restatement. In clause (3), the word “prescribe” is substituted for “make” in 31:1055 for consistency in the revised title and with other titles of the Code. The words “otherwise imposed”, 31:1055(1st sentence), and the words “in his discretion” are omitted as surplus.
 
 #### References in Text
 
@@ -482,11 +482,11 @@ Subsection (a)(5), referred to in subsec. (f), was redesignated subsection (a)(6
 
 Section 18(w) of the Federal Deposit Insurance Act, referred to in subsec. (g)(2)(B)(i)(I), is classified to section 1828(w) of Title 12, Banks and Banking.
 
-Section 509 of the Gramm-Leach-Bliley Act, referred to in subsecs. (h)(2) and (<i>l</i>)(4), is classified to section 6809 of Title 15, Commerce and Trade.
+Section 509 of the Gramm-Leach-Bliley Act, referred to in subsecs. (h)(2) and (l)(4), is classified to section 6809 of Title 15, Commerce and Trade.
 
-Section 4(k) of the Bank Holding Company Act of 1956, referred to in subsec. (<i>l</i>)(4), is classified to section 1843(k) of Title 12, Banks and Banking.
+Section 4(k) of the Bank Holding Company Act of 1956, referred to in subsec. (l)(4), is classified to section 1843(k) of Title 12, Banks and Banking.
 
-The date of enactment of the International Money Laundering Abatement and Financial Anti-Terrorism Act of 2001, referred to in subsec. (<i>l</i>)(6), is the date of enactment of title III of Pub. L. 107–56, which was approved Oct. 26, 2001.
+The date of enactment of the International Money Laundering Abatement and Financial Anti-Terrorism Act of 2001, referred to in subsec. (l)(6), is the date of enactment of title III of Pub. L. 107–56, which was approved Oct. 26, 2001.
 
 The date of enactment of the Intelligence Reform and Terrorism Prevention Act of 2004, referred to in subsec. (n)(4)(A), is the date of enactment of Pub. L. 108–458, which was approved Dec. 17, 2004.
 
@@ -512,7 +512,7 @@ Subsec. (k)(1)(B). Pub. L. 108–458, §6203(d), substituted “section 5318A(e)
 
 Subsec. (n). Pub. L. 108–458, §6302, added subsec. (n).
 
-<b>2003</b>—Subsecs. (<i>l</i>), (m). Pub. L. 108–159 redesignated subsec. (<i>l</i>), relating to applicability of rules, as (m).
+<b>2003</b>—Subsecs. (l), (m). Pub. L. 108–159 redesignated subsec. (l), relating to applicability of rules, as (m).
 
 <b>2001</b>—Subsec. (a)(2), (3). Pub. L. 107–56, §365(c)(2)(B)(ii), inserted “or nonfinancial trades or businesses” after “financial institutions”.
 
@@ -554,9 +554,9 @@ Subsec. (j). Pub. L. 107–56, §313(a), added subsec. (j).
 
 Subsec. (k). Pub. L. 107–56, §319(b), added subsec. (k).
 
-Subsec. (<i>l</i>). Pub. L. 107–56, §359(c), added subsec. (<i>l</i>) relating to applicability of rules.
+Subsec. (l). Pub. L. 107–56, §359(c), added subsec. (l) relating to applicability of rules.
 
-Pub. L. 107–56, §326(a), added subsec. (<i>l</i>) relating to identification and verification of accountholders.
+Pub. L. 107–56, §326(a), added subsec. (l) relating to identification and verification of accountholders.
 
 <b>1994</b>—Subsec. (a)(5). Pub. L. 103–325, §410(a), added par. (5). Former par. (5) redesignated (6).
 
@@ -608,7 +608,7 @@ Amendment by section 358(b) of Pub. L. 107–56 applicable with respect to repor
 
 #### Effective Date of 1994 Amendment
 
-Section 330017(b)(1) of Pub. L. 103–322 and section 413(b)(1) of Pub. L. 103–325 provided that the identical amendments made by those sections are effective Oct. 28, 1992.
+Pub. L. 103–322, title XXXIII, §330017(b)(1), Sept. 13, 1994, 108 Stat. 2149, and Pub. L. 103–325, title IV, §413(b)(1), Sept. 23, 1994, 108 Stat. 2254, provided that the identical amendments made by those sections are effective Oct. 28, 1992.
 
 #### Regulations
 
@@ -638,7 +638,7 @@ Suspicious Activity Reporting Requirements For Futures Commission Merchants, Com
 
 #### Reports
 
-Section 403(b) of Pub. L. 103–325 provided that:
+Pub. L. 103–325, title IV, §403(b), Sept. 23, 1994, 108 Stat. 2246, provided that:
 
 “(1)
 
@@ -650,11 +650,11 @@ Time for submitting reports.—The 1st report required under paragraph (1) shall
 
 #### Designation Required To Be Made Expeditiously
 
-Section 403(c) of Pub. L. 103–325 provided that: “The initial designation of an officer or agency of the United States pursuant to the amendment made by subsection (a) \[amending this section\] shall be made before the end of the 180-day period beginning on the date of enactment of this Act \[Sept. 23, 1994\].”
+Pub. L. 103–325, title IV, §403(c), Sept. 23, 1994, 108 Stat. 2246, provided that: “The initial designation of an officer or agency of the United States pursuant to the amendment made by subsection (a) \[amending this section\] shall be made before the end of the 180-day period beginning on the date of enactment of this Act \[Sept. 23, 1994\].”
 
 #### Improvement of Identification of Money Laundering Schemes
 
-Section 404 of Pub. L. 103–325 provided that:
+Pub. L. 103–325, title IV, §404, Sept. 23, 1994, 108 Stat. 2246, provided that:
 
 “(a)
 
@@ -677,6 +677,4 @@ Report to Congress.—The Financial Institutions Examination Council shall submi
 Definition.—For purposes of this section, the term ‘appropriate Federal banking agency’ has the same meaning as in section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\].”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) Code of ethics disclosure
 
-The Commission shall issue rules to require each issuer, together with periodic reports required pursuant to section 78m(a) or 78<i>o</i>(d) of this title, to disclose whether or not, and if not, the reason therefor, such issuer has adopted a code of ethics for senior financial officers, applicable to its principal financial officer and comptroller or principal accounting officer, or persons performing similar functions.
+The Commission shall issue rules to require each issuer, together with periodic reports required pursuant to section 78m(a) or 78o(d) of this title, to disclose whether or not, and if not, the reason therefor, such issuer has adopted a code of ethics for senior financial officers, applicable to its principal financial officer and comptroller or principal accounting officer, or persons performing similar functions.
 
 #### (b) Changes in codes of ethics
 

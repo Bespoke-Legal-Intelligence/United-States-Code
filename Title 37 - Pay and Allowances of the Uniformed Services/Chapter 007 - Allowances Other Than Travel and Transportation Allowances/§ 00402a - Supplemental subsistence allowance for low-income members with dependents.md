@@ -94,7 +94,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2011</b>—Subsecs. (f) to (h). Pub. L. 112–81 redesignated subsecs. (g) and (h) as (f) and (g), respectively, and struck out former subsec. (f). Prior to amendment, text of subsec. (f) read as follows: “Not later than March 1 of each year after 2001, the Secretary of Defense shall submit to Congress a report specifying the number of members of the armed forces who received, at any time during the preceding year, the supplemental subsistence allowance. In preparing the report, the Secretary of Defense shall consult with the Secretary of Homeland Security, with respect to the Coast Guard.”
+<b>2011</b>—Subsecs. (f) to (h). Pub. L. 112–81 redesignated subsecs. (g) and (h) as (f) and (g), respectively, andstruck out former subsec. (f). Prior to amendment, text of subsec. (f) read as follows: “Not later than March 1 of each year after 2001, the Secretary of Defense shall submit to Congress a report specifying the number of members of the armed forces who received, at any time during the preceding year, the supplemental subsistence allowance. In preparing the report, the Secretary of Defense shall consult with the Secretary of Homeland Security, with respect to the Coast Guard.”
 
 <b>2009</b>—Subsec. (a)(2), (3)(B). Pub. L. 111–84 substituted “$1,100” for “$500”.
 
@@ -124,7 +124,7 @@ Subsecs. (g) to (i). Pub. L. 108–375, §602(b), added subsec. (g) and redesign
 
 #### Effective Date of 2009 Amendment
 
-Pub. L. 111–84, div. A, title VI, §602(b), Oct. 28, 2009, 123 Stat. 2347, provided that: “The amendments madeby subsection (a) \[amending this section\] shall take effect on October 1, 2009, and shall apply with respect to monthly supplemental subsistence allowances for low-income members with dependents payable on or after that date.”
+Pub. L. 111–84, div. A, title VI, §602(b), Oct. 28, 2009, 123 Stat. 2347, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 2009, and shall apply with respect to monthly supplemental subsistence allowances for low-income members with dependents payable on or after that date.”
 
 #### Effective Date of 2008 Amendment
 

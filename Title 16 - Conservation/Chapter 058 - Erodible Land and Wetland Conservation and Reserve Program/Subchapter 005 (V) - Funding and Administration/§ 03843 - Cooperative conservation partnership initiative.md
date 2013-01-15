@@ -2,7 +2,7 @@
 
 #### (a) Establishment of Initiative
 
-The Secretary shall establish a cooperative conservation partnership initiative (in this section referred to as the “Initiative”) to work with eligible partners to provide assistance to producers enrolled in a program described in subsection (c)(1) that will enhance conservationoutcomes on agricultural and nonindustrial private forest land.
+The Secretary shall establish a cooperative conservation partnership initiative (in this section referred to as the “Initiative”) to work with eligible partners to provide assistance to producers enrolled in a program described in subsection (c)(1) that will enhance conservation outcomes on agricultural and nonindustrial private forest land.
 
 #### (b) Purposes
 
@@ -128,7 +128,7 @@ The Secretary shall provide appropriate technical and financial assistance to pr
 
 &emsp;Overhead or administrative costs of partners may not be covered by funds provided through the Initiative.
 
-(Pub. L. 99–198, title XII, §1243, as added Pub. L. 104–127, title III, §341, Apr. 4, 1996, 110 Stat. 1008; amended Pub. L. 107–171, title II, §§2003, 2006(d), May 13, 2002, 116 Stat. 233, 237; Pub. L. 110–234, title II, §2707, May 22, 2008, 122 Stat. 1077; Pub. L. 110–246, §4(a), title II, §2707, June 18, 2008, 122 Stat. 1664, 1805.)
+(Pub. L. 99–198, title XII, §1243, as added Pub. L. 104–127, title III, §341, Apr. 4, 1996, 110 Stat. 1008;amended Pub. L. 107–171, title II, §§2003, 2006(d), May 13, 2002, 116 Stat. 233, 237; Pub. L. 110–234, title II, §2707, May 22, 2008, 122 Stat. 1077; Pub. L. 110–246, §4(a), title II, §2707, June 18, 2008, 122 Stat. 1664, 1805.)
 
 #### Codification
 

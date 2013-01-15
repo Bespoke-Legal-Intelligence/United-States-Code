@@ -16,5 +16,5 @@ For the purposes of this subchapter—
 
 #### Short Title
 
-Section 1 of Pub. L. 95–195 provided: “That this Act \[enacting this subchapter\] may be cited as the ‘Siletz Indian Tribe Restoration Act’.”
+Pub. L. 95–195, §1, Nov. 18, 1977, 91 Stat. 1415, provided: “That this Act \[enacting this subchapter\] may be cited as the ‘Siletz Indian Tribe Restoration Act’.”
 

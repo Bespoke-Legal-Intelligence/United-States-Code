@@ -50,7 +50,7 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 #### Effective Date of 1997 Amendment
 
-Section 103(b) of Pub. L. 105–55 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to fiscal years beginning on or after October 1, 1997.”
+Pub. L. 105–55, title I, §103(b), Oct. 7, 1997, 111 Stat. 1183, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to fiscal years beginning on or after October 1, 1997.”
 
 #### Lump Sum Payment for Accrued Annual Leave of Senate Employees
 

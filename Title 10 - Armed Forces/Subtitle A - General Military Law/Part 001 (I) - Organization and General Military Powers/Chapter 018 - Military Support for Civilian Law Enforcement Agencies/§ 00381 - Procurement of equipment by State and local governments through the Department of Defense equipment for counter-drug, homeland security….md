@@ -46,7 +46,7 @@ Subsec. (a)(1). Pub. L. 110–417, §885(a)(1), in introductory provisions, stru
 
 Subsec. (c). Pub. L. 110–417, §885(a)(2), struck out “law enforcement” before “equipment” and inserted “, homeland security, and emergency response” after “counter-drug”.
 
-Subsec. (d)(2), (3). Pub. L. 110–417, §885(a)(3), in par. (2) inserted “or emergency response” after “law enforcement” in two places and in par. (3) struck out “law enforcement” before “equipment suitable” and inserted “, homeland security, and emergency response” after “counter-drug” and “and, in the case of equipment forhomeland security activities, may not include any equipment that is not found on the Authorized Equipment List published by the Department of Homeland Security” before period at end.
+Subsec. (d)(2), (3). Pub. L. 110–417, §885(a)(3), in par. (2) inserted “or emergency response” after “law enforcement” in two places and in par. (3) struck out “law enforcement” before “equipment suitable” and inserted “, homeland security, and emergency response” after “counter-drug” and “and, in the case of equipment for homeland security activities, may not include any equipment that is not found on the Authorized Equipment List published by the Department of Homeland Security” before period at end.
 
 #### Termination of Trust Territory of the Pacific Islands
 

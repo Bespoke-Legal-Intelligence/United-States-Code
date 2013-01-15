@@ -46,7 +46,7 @@ Whoever—
 
 &emsp;&emsp;(i) the person has a written contract, with each such individual or entity, which specifies the amount to be paid the person, which amount may be a fixed amount or a fixed percentage of the value of the purchases made by each such individual or entity under the contract, and
 
-&emsp;&emsp;(ii) in the case of an entity that is a provider of services (as defined in section 1395x(u) of this title), the person discloses (in such form and manner as the Secretary requires) to the entity and, upon request, to the Secretary the amount received from each such vendor with respect to purchases made by or on behalf of the entity;
+&emsp;&emsp;(ii) in the case of an entity that is a provider of services (as defined in section 1395x(u) of this title), the person discloses (in such form and manner as the Secretary requires) to the entity and, upon request, to the Secretary the amount received fromeach such vendor with respect to purchases made by or on behalf of the entity;
 
 &emsp;(D) a waiver of any coinsurance under part B of subchapter XVIII of this chapter by a Federally qualified health care center with respect to an individual who qualifies for subsidized services under a provision of the Public Health Service Act \[42 U.S.C. 201 et seq.\];
 
@@ -58,13 +58,13 @@ Whoever—
 
 &emsp;(H) any remuneration between a federally qualified health center (or an entity controlled by such a health center) and an MA organization pursuant to a written agreement described in section 1395w–23(a)(4) of this title;
 
-&emsp;(I) any remuneration between a health center entity described under clause (i) or (ii) of section 1396d(<i>l</i>)(2)(B) of this title and any individual or entity providing goods, items, services, donations, loans, or a combination thereof, to such health center entity pursuant to a contract, lease, grant, loan, or other agreement, if such agreement contributes to the ability of the health center entity to maintain or increase the availability, or enhance the quality, of services provided to a medically underserved population served by the health center entity; and
+&emsp;(I) any remuneration between a health center entity described under clause (i) or (ii) of section 1396d(l)(2)(B) of this title and any individual or entity providing goods, items, services, donations, loans, or a combination thereof, to such health center entity pursuant to a contract, lease, grant, loan, or other agreement, if such agreement contributes to the ability of the health center entity to maintain or increase the availability, or enhance the quality, of services provided to a medically underserved population served by the health center entity; and
 
 &emsp;(J) a discount in the price of an applicable drug (as defined in paragraph (2) of section 1395w–114a(g) of this title) of a manufacturer that is furnished to an applicable beneficiary (as defined in paragraph (1) of such section) under the Medicare coverage gap discount program under section 1395w–114a of this title.
 
 #### (c) False statements or representations with respect to condition or operation of institutions
 
-Whoever knowingly and willfully makes or causes to be made, or induces or seeks to inducethe making of, any false statement or representation of a material fact with respect to the conditions or operation of any institution, facility, or entity in order that such institution, facility, or entity may qualify (either upon initial certification or upon recertification) as a hospital, critical access hospital, skilled nursing facility, nursing facility, intermediate care facility for the mentally retarded, home health agency, or other entity (including an eligible organization under section 1395mm(b) of this title) for which certification is required under subchapter XVIII of this chapter or a State health care program (as defined in section 1320a–7(h) of this title), or with respect to information required to be provided under section 1320a–3a of this title, shall be guilty of a felony and upon conviction thereof shall be fined not more than $25,000 or imprisoned for not more than five years, or both.
+Whoever knowingly and willfully makes or causes to be made, or induces or seeks to induce the making of, any false statement or representation of a material fact with respect to the conditions or operation of any institution, facility, or entity in order that such institution, facility, or entity may qualify (either upon initial certification or upon recertification) as a hospital, critical access hospital, skilled nursing facility, nursing facility, intermediate care facility for the mentally retarded, home health agency, or other entity (including an eligible organization under section 1395mm(b) of this title) for which certification is required under subchapter XVIII of this chapter or a State health care program (as defined in section 1320a–7(h) of this title), or with respect to information required to be provided under section 1320a–3a of this title, shall be guilty of a felony and upon conviction thereof shall be fined not more than $25,000 or imprisoned for not more than five years, or both.
 
 #### (d) Illegal patient admittance and retention practices
 
@@ -84,7 +84,7 @@ Whoever knowingly and willfully—
 
 #### (e) Violation of assignment terms
 
-Whoever accepts assignments described in section 1395u(b)(3)(B)(ii) of this title or agrees to be a participating physician or supplier under section 1395u(h)(1) of this title and knowingly, willfully, and repeatedly violates the term of such assignments or agreement, shall be guilty of a misdemeanor and upon conviction thereof shall be fined not more than $2,000 or imprisoned for not more than six months, or both.
+Whoever accepts assignments described in section 1395u(b)(3)(B)(ii) of this title or agrees to be a participating physician or supplier under section 1395u(h)(1) of this title and knowingly, willfully, and repeatedly violates the term of such assignments or agreement, shall be guilty of amisdemeanor and upon conviction thereof shall be fined not more than $2,000 or imprisoned for not more than six months, or both.
 
 #### (f) “Federal health care program” defined
 
@@ -114,7 +114,7 @@ Section 1395w–104(e)(6) of this title, referred to in subsec. (b)(3)(E), was i
 
 #### Codification
 
-Prior to redesignation by Pub. L. 100–93, subsecs. (a) to (d) of this section were subsecs. (a) to (d) of section1909 of act Aug. 14, 1935, which was classified to section 1396h of this title, and subsec. (e) of this section was subsec. (d) of section 1877 of act Aug. 14, 1935, which was classified to section 1395nn of this title.
+Prior to redesignation by Pub. L. 100–93, subsecs. (a) to (d) of this section were subsecs. (a) to (d) of section 1909 of act Aug. 14, 1935, which was classified to section 1396h of this title, and subsec. (e) of this section was subsec. (d) of section 1877 of act Aug. 14, 1935, which was classified to section 1395nn of this title.
 
 #### Amendments
 
@@ -218,7 +218,7 @@ Pub. L. 111–148, title III, §3301(d)(3), Mar. 23, 2010, 124 Stat. 468, provid
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–173, title II, §237(e), Dec. 8, 2003, 117 Stat. 2213, provided that: “The amendments made by this section \[amending this section and sections 1395<i>l</i>, 1395w–21, 1395w–23, and 1395w–27 of this title\] shall apply to services provided on or after January 1, 2006, and contract years beginning on or after such date.”
+Pub. L. 108–173, title II, §237(e), Dec. 8, 2003, 117 Stat. 2213, provided that: “The amendments made by this section \[amending this section and sections 1395l, 1395w–21, 1395w–23, and 1395w–27 of this title\] shall apply to services provided on or after January 1, 2006, and contract years beginning on or after such date.”
 
 #### Effective Date of 1997 Amendment
 
@@ -228,9 +228,9 @@ Amendment by section 4704(b) of Pub. L. 105–33 effective Aug. 5, 1997, and app
 
 #### Effective Date of 1996 Amendment
 
-Section 204(b) of Pub. L. 104–191 provided that: “The amendments made by this section \[amending this section\] shall take effect on January 1, 1997.”
+Pub. L. 104–191, title II, §204(b), Aug. 21, 1996, 110 Stat. 2000, provided that: “The amendments made by this section \[amending this section\] shall take effect on January 1, 1997.”
 
-Section 216(c) of Pub. L. 104–191 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to written agreements entered into on or after January 1, 1997, without regard to whether regulations have been issued to implement such amendments.”
+Pub. L. 104–191, title II, §216(c), Aug. 21, 1996, 110 Stat. 2008, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to written agreements entered into on or after January 1, 1997, without regard to whether regulations have been issued to implement such amendments.”
 
 Amendment by section 217 of Pub. L. 104–191 effective Jan. 1, 1997, except as otherwise provided, see section 218 of Pub. L. 104–191, set out as a note under section 1320a–7 of this title.
 
@@ -256,11 +256,11 @@ Amendment by Pub. L. 100–93 effective at end of fourteen-day period beginning 
 
 #### Effective Date of 1977 Amendment
 
-Section 4(d) of Pub. L. 95–142 provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply with respect to acts occurring and statements or representations made on or after the date of the enactment of this Act \[Oct. 25, 1977\].”
+Pub. L. 95–142, §4(d), Oct. 25, 1977, 91 Stat. 1183, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply with respect to acts occurring and statements or representations made on or after the date of the enactment of this Act \[Oct. 25, 1977\].”
 
 #### Effective Date
 
-Section 242(d) of Pub. L. 92–603 provided that: “The provisions of amendments made by this section \[enacting this section and section 1396h of this title and amending section 1395ii of this title\] shall not be applicable to any acts, statements, or representations made or committed prior to the enactment of this Act \[Oct. 30, 1972\].”
+Pub. L. 92–603, title II, §242(d), Oct. 30, 1972, 86 Stat. 1420, provided that: “The provisions of amendments made by this section \[enacting this section and section 1396h of this title and amending section 1395ii of this title\] shall not be applicable to any acts, statements, or representations made or committed prior to the enactment of this Act \[Oct. 30, 1972\].”
 
 #### Rulemaking for Exception for Health Center Entity Arrangements
 
@@ -292,7 +292,7 @@ Deadline.—Not later than 1 year after the date of the enactment of this Act \[
 
 #### Negotiated Rulemaking for Risk-Sharing Exception
 
-Section 216(b) of Pub. L. 104–191 provided that:
+Pub. L. 104–191, title II, §216(b), Aug. 21, 1996, 110 Stat. 2007, provided that:
 
 “(1)
 
@@ -356,7 +356,7 @@ Publication of rule after public comment.—The Secretary shall provide for cons
 
 #### Anti-Kickback Regulations
 
-Section 14(a) of Pub. L. 100–93 provided that: “The Secretary of Health and Human Services, in consultation with the Attorney General, not later than 1 year after the date of the enactment of this Act \[Aug. 18, 1987\] shall publish proposed regulations, and not later than 2 years after the date of the enactment of this Act shall promulgate final regulations, specifying payment practices that shall not be treated as a criminal offense under section 1128B(b) of the Social Security Act \[subsec. (b) of this section\] and shall not serve as the basis for an exclusion under section 1128(b)(7) of such Act. Any practices specified in regulations pursuant to the preceding sentence shall be in addition to the practices described in subparagraphs (A) through (C) of section 1128B(b)(3).”
+Pub. L. 100–93, §14(a), Aug. 18, 1987, 101 Stat. 697, provided that: “The Secretary of Health and Human Services, in consultation with the Attorney General, not later than 1 year after the date of the enactment of this Act \[Aug. 18, 1987\] shall publish proposed regulations, and not later than 2 years after the date of the enactment of this Act shall promulgate final regulations, specifying payment practices that shall not be treated as a criminal offense under section 1128B(b) of the Social Security Act \[subsec. (b) of this section\] and shall not serve as the basis for an exclusion under section 1128(b)(7) of such Act. Any practices specified in regulations pursuant to the preceding sentence shall be in addition to the practices described in subparagraphs (A) through (C) of section 1128B(b)(3).”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

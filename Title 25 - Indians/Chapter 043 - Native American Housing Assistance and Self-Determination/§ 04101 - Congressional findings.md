@@ -16,7 +16,7 @@ The Congress finds that—
 
 &emsp;(4) the Congress, through treaties, statutes, and the general course of dealing with Indian tribes, has assumed a trust responsibility for the protection and preservation of Indian tribes and for working with tribes and their members to improve their housing conditions and socioeconomic status so that they are able to take greater responsibility for their own economic condition;
 
-&emsp;(5) providing affordable homes in safe and healthy environments is an essential element in the special role of the United States inhelping tribes and their members to improve their housing conditions and socioeconomic status;
+&emsp;(5) providing affordable homes in safe and healthy environments is an essential element in the special role of the United States in helping tribes and their members to improve their housing conditions and socioeconomic status;
 
 &emsp;(6) the need for affordable homes in safe and healthy environments on Indian reservations, in Indian communities, and in Native Alaskan villages is acute and the Federal Government shall work not only to provide housing assistance, but also, to the extent practicable, to assist in the development of private housing finance mechanisms on Indian lands to achieve the goals of economic self-sufficiency and self-determination for tribes and their members; and
 
@@ -34,7 +34,7 @@ Public Law 93–638, referred to in par. (7), is Pub. L. 93–638, Jan. 4, 1975,
 
 #### Effective Date
 
-Section 107 of Pub. L. 104–330 provided that: “Except as otherwise expressly provided in this Act \[see Short Title note below\], this Act and the amendments made by this Act shall take effect on October 1, 1997.”
+Pub. L. 104–330, title I, §107, Oct. 26, 1996, 110 Stat. 4030, provided that: “Except as otherwise expressly provided in this Act \[see Short Title note below\], this Act and the amendments made by this Act shall take effect on October 1, 1997.”
 
 #### Short Title of 2010 Amendment
 
@@ -66,7 +66,7 @@ Pub. L. 106–568, title II, §201, Dec. 27, 2000, 114 Stat. 2872, provided that
 
 #### Short Title
 
-Section 1(a) of Pub. L. 104–330 provided that: “This Act \[enacting this chapter and section 12899h–1 of Title 42, The Public Health and Welfare, amending sections 1715z–13a and 1721 of Title 12, Banks and Banking, and sections 1437a, 1437c to 1437e, 1437g, 1437<i>l</i>, 1437n, 1437u to 1437x, 1437aaa–5, 1437aaa–6, 1439, 11371 to 11376, 11382, 11401, 11403g, 11408, 11902 to 11905, 12747, and 12838 of Title 42, repealing sections 1437aa to 1437ee of Title 42, enacting provisions set out as notes under this section and sections 4181 and 4211 of this title and sections 11371, 12747, and 12899h–1 of Title 42, amending provisions set out as a note under section 11301 of Title 42, and repealing provisions set out as a note under section 1701z–6 of Title 12\] may be cited as the ‘Native American Housing Assistance and Self-Determination Act of 1996’.”
+Pub. L. 104–330, §1(a), Oct. 26, 1996, 110 Stat. 4016, provided that: “This Act \[enacting this chapter and section 12899h–1 of Title 42, The Public Health and Welfare, amending sections 1715z–13a and 1721 of Title 12, Banks and Banking, and sections 1437a, 1437c to 1437e, 1437g, 1437l, 1437n, 1437u to 1437x, 1437aaa–5, 1437aaa–6, 1439, 11371 to 11376, 11382, 11401, 11403g, 11408, 11902 to 11905, 12747, and 12838 of Title 42, repealing sections 1437aa to 1437ee of Title 42, enacting provisions set out as notes under this section and sections 4181 and 4211 of this title and sections 11371, 12747, and 12899h–1 of Title 42, amending provisions set out as a note under section 11301 of Title 42, and repealing provisions set out as a note under section 1701z–6 of Title 12\] may be cited as the ‘Native American Housing Assistance and Self-Determination Act of 1996’.”
 
 #### Findings of 2005 Amendment
 

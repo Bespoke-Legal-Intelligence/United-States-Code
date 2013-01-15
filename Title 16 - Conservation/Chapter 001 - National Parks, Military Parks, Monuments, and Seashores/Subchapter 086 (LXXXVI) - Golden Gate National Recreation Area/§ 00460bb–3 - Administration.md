@@ -54,5 +54,5 @@ Similar provisions were contained in Pub. L. 105–277, div. A, §101(e) \[title
 
 #### Fees or Admission Charges; Moneys Collected Since November 10, 1983
 
-Section 2(b) of Pub. L. 99–395 provided that: “Notwithstanding any other provisions of law, moneys collected pursuant to section 4(e) of the Act of October 27, 1972 (16 U.S.C. 460bb–3; 92 Stat. 3486), since November 10, 1983, shall be deemed to have been collected in accordance with such section as amended by this Act.”
+Pub. L. 99–395, §2(b), Aug. 27, 1986, 100 Stat. 836, provided that: “Notwithstanding any other provisions of law, moneys collected pursuant to section 4(e) of the Act of October 27, 1972 (16 U.S.C. 460bb–3; 92 Stat. 3486), since November 10, 1983, shall be deemed to have been collected in accordance with such section as amended by this Act.”
 

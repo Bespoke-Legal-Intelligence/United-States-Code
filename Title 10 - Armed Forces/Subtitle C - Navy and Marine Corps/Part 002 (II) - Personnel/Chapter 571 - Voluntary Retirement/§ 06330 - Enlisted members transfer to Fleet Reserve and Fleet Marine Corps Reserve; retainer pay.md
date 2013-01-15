@@ -66,7 +66,7 @@ In subsection (b) reference to the date July 1, 1925, is omitted, since members 
 
 In subsections (b) and (c) the term “active service in the armed forces” is substituted for the term “active Federal service” to execute the definition in the last sentence of 34 U.S.C. 854c.
 
-In subsection (c) the words “is entitled, when not on active duty, to retainer pay at the rate of 2½ percent of the basic pay that he received at the time of transfer” are substituted for the words “except when on active duty, shall be paid at the annual rate of 2½ per centum of the annual base and longevity pay they are receiving at the time of transfer” to conform to the terminology of the Career Compensation Act of 1949 (37 U.S.C. 231 et seq.).
+In subsection (c) the words “is entitled, when not on active duty, to retainer pay at the rate of 2½ percentof the basic pay that he received at the time of transfer” are substituted for the words “except when on active duty, shall be paid at the annual rate of 2½ per centum of the annual base and longevity pay they are receiving at the time of transfer” to conform to the terminology of the Career Compensation Act of 1949 (37 U.S.C. 231 et seq.).
 
 Subsection (d) states the rule as to the method of counting minority and short-term enlistments, in connection with determining active service, in accordance with <i>White v. United States</i>, 97 F. Supp. 698.
 
@@ -130,7 +130,7 @@ Act July 24, 1956, ch. 683, 70 Stat. 626, provided: “Upon application by any f
 
 “
 
-Sec. 2. Each person appointed to the Fleet Reserve or Fleet Marine Corps Reserve under the first section of this Act shall be transferred to the appropriate retired list (1) on the first day of the first calendar month beginning after such appointment, if his last discharge occurred ten or more years prior to the date of such appointment, and (2) in the case of individuals appointed under such section before the expiration of ten years from their last discharge, on the first day of the first calendar month, beginning after the expiration of ten years from the date of such discharge.
+Sec. 2. Each person appointed to the Fleet Reserve or Fleet Marine Corps Reserve under the first section of this Act shall be transferred to the appropriate retired list (1) on the first day of the first calendar month beginning after such appointment, if his last discharge occurred ten or more years prior to the date of such appointment, and (2) in the case of individuals appointed under such section before the expiration of ten years from their last discharge, on the first day of the firstcalendar month, beginning after the expiration of ten years from the date of such discharge.
 
 “
 

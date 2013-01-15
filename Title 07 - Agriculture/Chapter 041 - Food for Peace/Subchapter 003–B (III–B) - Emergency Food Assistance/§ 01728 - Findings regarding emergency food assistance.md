@@ -18,5 +18,5 @@ Section was enacted as part of the President's Emergency Food Assistance Act of 
 
 #### Short Title
 
-Section 301 of title III of Pub. L. 98–473 provided that: “This title \[enacting this subchapter and amending section 1723 of this title\] may be cited as the ‘President's Emergency Food Assistance Act of 1984’.”
+Pub. L. 98–473, title III, §301, Oct. 12, 1984, 98 Stat. 2194, provided that: “This title \[enacting this subchapter and amending section 1723 of this title\] may be cited as the ‘President's Emergency Food Assistance Act of 1984’.”
 

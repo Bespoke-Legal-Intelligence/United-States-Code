@@ -32,7 +32,7 @@ Liability.—An individual who, under actual or apparent authority, or color of 
 
 “(b)
 
-Exhaustion of Remedies.—A court shall decline to hear a claim under this section if the claimant has not exhausted adequate and available remedies in the place in which the conduct giving rise to the claim occurred.
+Exhaustion of Remedies.—A court shall decline to hear a claim under this section if the claimant hasnot exhausted adequate and available remedies in the place in which the conduct giving rise to the claim occurred.
 
 “(c)
 

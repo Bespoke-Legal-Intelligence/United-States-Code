@@ -44,7 +44,7 @@ Delivery of Seized Property.—Any law enforcement official who seizes property 
 
 Scope of Enforcement.—This section shall apply to the following:
 
-&emsp;(1) Any military or Department of Defense property disposed of on or after the date of the enactment of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 in a manner that is not in accordance with statutes and regulations governing Government property in effect at the time of the disposal of such property.
+&emsp;(1) Any military or Department of Defense property disposed of after January 6, 2011, in a manner that is not in accordance with statutes and regulations governing Government property in effect at the time of the disposal of such property.
 
 &emsp;(2) Any significant military equipment disposed of on or after January 1, 2002, in a manner that is not in accordance with statutes and regulations governing Government property in effect at the time of the disposal of such significant military equipment.
 
@@ -64,9 +64,9 @@ Definitions.—In this section:
 
 &emsp;(4) The term “veterans organization” means any organization recognized by the Secretary of Veterans Affairs for the representation of veterans under section 5902 of title 38.
 
-(Added Pub. L. 111–383, div. A, title III, §355(a), Jan. 7, 2011, 124 Stat. 4195.)
+(Added Pub. L. 111–383, div. A, title III, §355(a), Jan. 7, 2011, 124 Stat. 4195; amended Pub. L. 112–239, div. A, title X, §1076(e)(5), Jan. 2, 2013, 126 Stat. 1951.)
 
-#### References in Text
+#### Amendments
 
-The date of the enactment of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011, referred to in subsec. (g)(1), is the date of enactment of Pub. L. 111–383, which was approved Jan. 7, 2011.
+<b>2013</b>—Subsec. (g)(1). Pub. L. 112–239 substituted “after January 6, 2011,” for “on or after the date of the enactment of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011”.
 

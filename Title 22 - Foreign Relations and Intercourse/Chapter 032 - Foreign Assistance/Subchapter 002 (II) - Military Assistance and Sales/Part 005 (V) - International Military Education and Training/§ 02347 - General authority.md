@@ -10,7 +10,7 @@
 
 (b) The President shall seek reimbursement for military education and training furnished under this part from countries using assistance under section 2763 of this title (relating to the Foreign Military Financing Program) to purchase such military education and training at a rate comparable to the rate charged to countries receiving grant assistance for military education and training under this part.
 
-(Pub. L. 87–195, pt. II, §541, as added Pub. L. 94–329, title I, §106(a), June 30, 1976, 90 Stat. 732; amended Pub. L. 101–513, title III, Nov. 5, 1990, 104 Stat. 1997; Pub. L. 102–583, §10, Nov. 2, 1992, 106 Stat. 4934; Pub. L. 104–164, title I, §112(a), July 21, 1996, 110 Stat. 1427; Pub. L. 109–102, title V, §534(<i>l</i>)(3), Nov. 14, 2005, 119 Stat. 2211.)
+(Pub. L. 87–195, pt. II, §541, as added Pub. L. 94–329, title I, §106(a), June 30, 1976, 90 Stat. 732; amended Pub. L. 101–513, title III, Nov. 5, 1990, 104 Stat. 1997; Pub. L. 102–583, §10, Nov. 2, 1992, 106 Stat. 4934; Pub. L. 104–164, title I, §112(a), July 21, 1996, 110 Stat. 1427; Pub. L. 109–102, title V, §534(l)(3), Nov. 14, 2005, 119 Stat. 2211.)
 
 #### References in Text
 
@@ -24,7 +24,7 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 <b>1992</b>—Pub. L. 102–583, in introductory provisions, inserted “, and may also include legislators,” after “ministries of defense” and substituted “(iii) contribute to cooperation between military and law enforcement personnel with respect to counternarcotics law enforcement efforts, or (iv)” for “or (iii)”.
 
-<b>1990</b>—Pub. L. 101–513 inserted after first sentence “Such civilian personnel shall include foreign governmental personnel of ministries other than ministries of defense if the military education and training would (i) contribute to responsible defense resource management, (ii) foster greater respect for and understanding of the principle of civilian control of the military, or (iii) improve military justice systems and procedures in accordance with internationally recognized human rights.”
+<b>1990</b>—Pub. L. 101–513 inserted after first sentence “Such civilian personnel shall include foreign governmental personnel of ministries other than ministries of defense if the military education and training would (i) contribute to responsible defense resource management, (ii) foster greater respect for and understanding of the principle of civilian control of the military, or\(iii) improve military justice systems and procedures in accordance with internationally recognized human rights.”
 
 #### Delegation of Functions
 
@@ -32,5 +32,5 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### Funds Made Available Pursuant to Other Provisions of Law
 
-Section 106(d) of Pub. L. 94–329 provided that: “Funds made available pursuant to other provisions of law for foreign military educational and training activities shall remain available for obligation and expenditure for their original purposes in accordance with the provisions of law originally applicable to those purposes or in accordance with the provisions of law currently applicable to those purposes.”
+Pub. L. 94–329, title I, §106(d), June 30, 1976, 90 Stat. 734, provided that: “Funds made available pursuant to other provisions of law for foreign military educational and training activities shall remain available for obligation and expenditure for their original purposes in accordance with the provisions of law originally applicable to those purposes or in accordance with the provisions of law currently applicable to those purposes.”
 

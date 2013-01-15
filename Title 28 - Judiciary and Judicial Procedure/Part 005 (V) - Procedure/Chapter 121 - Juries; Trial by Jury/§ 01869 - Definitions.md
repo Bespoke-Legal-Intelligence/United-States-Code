@@ -6,7 +6,7 @@ For purposes of this chapter—
 
 &emsp;(b) “chief judge” shall mean the chief judge of any district court of the United States;
 
-&emsp;(c) “voter registration lists” shall mean the official records maintained by State or local election officials of persons registered to vote in either the most recent State or the most recent Federal general election, or, in the caseof a State or political subdivision thereof that does not require registration as a prerequisite to voting, other official lists of persons qualified to vote in such election. The term shall also include the list of eligible voters maintained by any Federal examiner pursuant to the Voting Rights Act of 1965 where the names on such list have not been included on the official registration lists or other official lists maintained by the appropriate State or local officials. With respect to the districts of Guam and the Virgin Islands, “voter registration lists” shall mean the official records maintained by territorial election officials of persons registered to vote in the most recent territorial general election;
+&emsp;(c) “voter registration lists” shall mean the official records maintained by State or local election officials of persons registered to vote in either the most recent State or the most recent Federal general election, or, in the case of a State or political subdivision thereof that does not require registration as a prerequisite to voting, other official lists of persons qualified to vote in such election. The term shall also include the list of eligible voters maintained by any Federal examiner pursuant to the Voting Rights Act of 1965 where the names on such list have not been included on the official registration lists or other official lists maintained by the appropriate State or local officials. With respect to the districts of Guam and the Virgin Islands, “voter registration lists” shall mean the official records maintained by territorial election officials of persons registered to vote in the most recent territorial general election;
 
 &emsp;(d) “lists of actual voters” shall mean the official lists of persons actually voting in either the most recent State or the most recent Federal general election;
 
@@ -32,11 +32,11 @@ Based on title 28, U.S.C., 1940 ed., §423 (Mar. 3, 1911, ch. 231, §286, 36 Sta
 
 #### References in Text
 
-The Voting Rights Act of 1965, referred to in subsec. (c), is Pub. L. 89–110, Aug. 6, 1965, 79 Stat. 437, as amended, which is classified generally to subchapters I–A (§1973 et seq.), I–B (§1973aa et seq.), and I–C (§1973bb et seq.) of chapter 20 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1971 of Title 42 and Tables.
+The Voting Rights Act of 1965, referred to in subsec. (c), is Pub. L. 89–110, Aug. 6, 1965, 79 Stat. 437, as amended, which is classified generally to subchapters I–A (§1973 et seq.), I–B (§1973aa et seq.), and I–C (§1973bb et seq.) of chapter 20 of Title 42, The Public Health andWelfare. For complete classification of this Act to the Code, see Short Title note set out under section 1971 of Title 42 and Tables.
 
 #### Amendments
 
-<b>2008</b>—Subsecs. (j) to (<i>l</i>). Pub. L. 110–406 inserted “and” at end of subsec. (j), redesignated subsec. (<i>l</i>) as (k), and struck out former subsec. (k) which defined “publicly draw”.
+<b>2008</b>—Subsecs. (j) to (l). Pub. L. 110–406 inserted “and” at end of subsec. (j), redesignated subsec. (l) as (k), and struck out former subsec. (k) which defined “publicly draw”.
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–702, §802(a), amended subsec. (a) generally, substituting “, any authorized deputy clerk, and any other person authorized by the court to assist the clerk in the performance of functions under this chapter” for “or any authorized deputy clerk”.
 
@@ -48,7 +48,7 @@ Subsec. (f). Pub. L. 100–702, §804, amended subsec. (f) generally. Prior to a
 
 Subsec. (h). Pub. L. 95–572, §3(b), struck out “by pardon or amnesty” after “civil rights restored”.
 
-Subsecs. (j) to (<i>l</i>). Pub. L. 95–572, §4, added subsecs. (j) to (<i>l</i>).
+Subsecs. (j) to (l). Pub. L. 95–572, §4, added subsecs. (j) to (l).
 
 <b>1972</b>—Subsec. (h). Pub. L. 92–437 added race and occupation to the particulars to be elicited on the juror qualification form, in provisions distinguishing between information to be requested and information to be required, struck out “race and occupation of a potential juror”, and in information to be contained in the form, struck out “race, color” and “occupation” from the particulars, and required additional material to be contained in the form that information concerning race is required solely to enforce nondiscrimination in jury selection and that it has no bearing on an individual's qualification for jury service.
 
@@ -60,7 +60,7 @@ Subsecs. (j) to (<i>l</i>). Pub. L. 95–572, §4, added subsecs. (j) to (<i>l</
 
 #### Effective Date of 1986 Amendment
 
-Section 4(a) of Pub. L. 99–650 provided in part that: “The provisions of this Act \[amending this section\] shall take effect 180 days after the date of enactment of this Act \[Nov. 14, 1986\]”.
+Pub. L. 99–650, §4(a), Nov. 14, 1986, 100 Stat. 3641, provided in part that: “The provisions of this Act \[amending this section\] shall take effect 180 days after the date of enactment of this Act \[Nov. 14, 1986\]”.
 
 #### Effective Date of 1978 Amendment
 
@@ -68,7 +68,7 @@ Amendment by Pub. L. 95–572 applicable with respect to any grand or petit juro
 
 #### Effective Date of 1972 Amendment
 
-Section 2 of Pub. L. 92–437 provided that: “This Act \[amending this section\] shall take effect on the sixtieth day after the date of its enactment \[Sept. 29, 1972\].”
+Pub. L. 92–437, §2, Sept. 29, 1972, 86 Stat. 741, provided that: “This Act \[amending this section\] shall take effect on the sixtieth day after the date of its enactment \[Sept. 29, 1972\].”
 
 #### Effective Date of 1970 Amendment
 
@@ -80,5 +80,5 @@ Amendment by Pub. L. 90–274 effective 270 days after Mar. 27, 1968, except as 
 
 #### Termination of United States District Court for the District of the Canal Zone
 
-For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
+For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and Pub. L. 96–70, title II, §§2101, 2202–2203, Sept. 27, 1979, 93 Stat. 493, 494, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
 

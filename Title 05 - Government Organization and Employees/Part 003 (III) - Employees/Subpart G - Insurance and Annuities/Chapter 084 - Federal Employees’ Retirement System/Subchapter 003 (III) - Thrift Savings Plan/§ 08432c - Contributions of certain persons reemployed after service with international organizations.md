@@ -6,7 +6,7 @@
 
 &emsp;(2) pursuant to section 3582 elects to retain coverage, rights, and benefits under any system established by law for the retirement of persons during the period of employment with the international organization and currently deposits the necessary deductions in payment for such coverage, rights, and benefits in the system's fund; and
 
-&emsp;(3) is reemployed pursuant to section 3582(b) to a position covered by chapter 83 or 84 or subchapter I or II of chapter 8 <sup>1</sup> of the Foreign Service Act of 1980 after separation from the international organization.
+&emsp;(3) is reemployed pursuant to section 3582(b) to a position covered by chapter 83 or 84 orsubchapter I or II of chapter 8 <sup>1</sup> of the Foreign Service Act of 1980 after separation from the international organization.
 
 (b)(1) Each covered person may contribute to the Thrift Savings Fund, in accordance with this subsection, an amount not to exceed the amount described in paragraph (2).
 

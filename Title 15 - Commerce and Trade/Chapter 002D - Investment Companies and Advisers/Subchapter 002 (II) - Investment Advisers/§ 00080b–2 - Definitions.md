@@ -42,7 +42,7 @@ When used in this subchapter, unless the context otherwise requires, the followi
 
 &emsp;(19) “State” means any State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, or any other possession of the United States.
 
-&emsp;(20) “Underwriter” means any person who has purchased from an issuer with a view to, or sells for an issuer in connection with, the distribution of any security, or participates or has a direct or indirect participation in anysuch undertaking, or participates or has a participation in the direct or indirect underwriting of any such undertaking; but such term shall not include a person whose interest is limited to a commission from an underwriter or dealer not in excess of the usual and customary distributor's or seller's commission. As used in this paragraph the term “issuer” shall include in addition to an issuer, any person directly or indirectly controlling or controlled by the issuer, or any person under direct or indirect common control with the issuer.
+&emsp;(20) “Underwriter” means any person who has purchased from an issuer with a view to,or sells for an issuer in connection with, the distribution of any security, or participates or has a direct or indirect participation in any such undertaking, or participates or has a participation in the direct or indirect underwriting of any such undertaking; but such term shall not include a person whose interest is limited to a commission from an underwriter or dealer not in excess of the usual and customary distributor's or seller's commission. As used in this paragraph the term “issuer” shall include in addition to an issuer, any person directly or indirectly controlling or controlled by the issuer, or any person under direct or indirect common control with the issuer.
 
 &emsp;(21) “Securities Act of 1933” \[15 U.S.C. 77a et seq.\], “Securities Exchange Act of 1934” \[15 U.S.C. 78a et seq.\], and “Trust Indenture Act of 1939” \[15 U.S.C. 77aaa et seq.\], mean those Acts, respectively, as heretofore or hereafter amended.
 
@@ -90,7 +90,7 @@ When used in this subchapter, unless the context otherwise requires, the followi
 
 &emsp;&emsp;&emsp;&emsp;(I) an investment adviser to any investment company registered under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\]; or
 
-&emsp;&emsp;&emsp;&emsp;(II) a company that has elected to be a business development company pursuantto section 54 of the Investment Company Act of 1940 (15 U.S.C. 80a–53), and has not withdrawn its election.
+&emsp;&emsp;&emsp;&emsp;(II) a company that has elected to be a business development company pursuant to section 54 of the Investment Company Act of 1940 (15 U.S.C. 80a–53), and has not withdrawn its election.
 
 &emsp;(29) <sup>3</sup> The terms “commodity pool”, “commodity pool operator”, “commodity trading advisor”, “major swap participant”, “swap”, “swap dealer”, and “swap execution facility” have the same meanings as in section 1a of title 7.
 

@@ -4,7 +4,7 @@
 
 (2) The Secretary may enter into a contract or other agreement under paragraph (1) if such resources are not, or would not be, used to their maximum effective capacity.
 
-(3)(A) If the health-care resource required is a commercial service, the use of medical equipment or space, or research, and is to be acquired from an institution affiliated with the Department in accordance with section 7302 of this title, including medical practice groups and other entities associated with affiliated institutions, blood banks, organ banks, or research centers, the Secretary may make arrangements for acquisition of the resource without regard to any law or regulation (including any Executive order, circular, or other administrative policy) that would otherwise require the use of competitive procedures for acquiring the resource.
+(3)(A) If the health-care resource required is a commercial service, the use of medical equipment or space, or research, and is to be acquired from an institution affiliated with the Department in accordance with section 7302 of this title, including medical practice groups and other entities associated with affiliated institutions, blood banks, organ banks, or research centers, the Secretary may make arrangements for acquisition of the resource without regard toany law or regulation (including any Executive order, circular, or other administrative policy) that would otherwise require the use of competitive procedures for acquiring the resource.
 
 (B)(i) If the health-care resource required is a commercial service or the use of medical equipment or space, and is not to be acquired from an entity described in subparagraph (A), any procurement of the resource may be conducted without regard to any law or regulation that would otherwise require the use of competitive procedures for procuring the resource, but only if the procurement is conducted in accordance with the simplified procedures prescribed pursuant to clause (ii).
 
@@ -46,7 +46,7 @@
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Social Security Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. TitleXVIII of the Social Security Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
 
@@ -90,7 +90,7 @@ Subsecs. (e) to (g). Pub. L. 104–262, §301(c)(4), added subsecs. (e) and (f) 
 
 &emsp;“(1) for the mutual use, or exchange of use, of specialized medical resources when such an agreement will obviate the need for a similar resource to be provided in a Department health care facility; or
 
-&emsp;“(2) for the mutual use, or exchange of use, of specialized medical resources in a Department healthcare facility, which have been justified on the basis of veterans’ care, but which are not utilized to their maximum effective capacity.”
+&emsp;“(2) for the mutual use, or exchange of use, of specialized medical resources in a Department health care facility, which have been justified on the basis of veterans’ care, but which are not utilized to their maximum effective capacity.”
 
 <b>1991</b>—Pub. L. 102–40 renumbered section 5053 of this title as this section.
 
@@ -148,5 +148,5 @@ Amendment by Pub. L. 93–82 effective Sept. 1, 1973, see section 501 of Pub. L.
 
 #### Report to Congress on Rates and Procedures Covering Payment of Benefits for Care or Services Provided in Veterans’ Administration Health Care Facilities to Individuals Not Eligible for Veterans’ Hospital, Nursing Home, Domiciliary, or Medical Care
 
-Section 115(c) of Pub. L. 94–581 provided that at such time as the rates and procedures described in subsec. (d) of this section were prescribed, the Secretary of Health, Education, and Welfare \[now Secretary of Health and Human Services\], in consultation with the Administrator of Veterans’ Affairs, was to submit to the Committee on Ways and Means and the Committee on Veterans’ Affairs of the House of Representatives and to the Committee on Finance and the Committee on Veterans’ Affairs of the Senate a full report describing such rates and procedures.
+Pub. L. 94–581, title I, §115(c), Oct. 21, 1976, 90 Stat. 2853, provided that at such time as the rates and procedures described in subsec. (d) of this section were prescribed, the Secretary of Health, Education, and Welfare \[now Secretary of Health and Human Services\], in consultation with the Administrator of Veterans’ Affairs, was to submit to the Committee on Ways and Means and the Committee on Veterans’ Affairs of the House of Representatives and to the Committee on Finance and the Committee on Veterans’ Affairs of the Senate a full report describing such rates and procedures.
 

@@ -6,5 +6,5 @@ Section, act Oct. 31, 1949, ch. 792, title I, §108A, formerly §108B, as added 
 
 #### Effective and Termination Dates
 
-Section 705 of Pub. L. 99–198 provided that this section is effective only for the 1986 through 1990 crops of peanuts.
+Pub. L. 99–198, title VII, §705, Dec. 23, 1985, 99 Stat. 1439, provided that this section is effective only for the 1986 through 1990 crops of peanuts.
 

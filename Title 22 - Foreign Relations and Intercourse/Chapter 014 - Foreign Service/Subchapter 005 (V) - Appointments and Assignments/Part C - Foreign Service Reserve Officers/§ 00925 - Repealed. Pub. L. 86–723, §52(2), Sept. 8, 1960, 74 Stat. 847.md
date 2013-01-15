@@ -4,5 +4,5 @@ Section, act Aug. 13, 1946, ch. 957, title V, §525, 60 Stat. 1010, authorized S
 
 #### Effective Date of Repeal
 
-Repeal by Pub. L. 86–723 effective first day of first pay period which begins more than thirty days after Sept. 8, 1960, see section 56(a) of Pub. L. 86–723.
+Repeal by Pub. L. 86–723 effective first day of first pay period which begins more than thirty days after Sept. 8, 1960, see Pub. L. 86–723, §56(a), Sept. 8, 1960, 74 Stat. 848.
 

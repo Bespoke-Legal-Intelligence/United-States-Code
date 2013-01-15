@@ -2,7 +2,7 @@
 
 (a)
 
-Special Pay Authorized.—A member of a uniformed service who is entitled to basic pay may be paid special pay under this section while the member is performing duty that is designated by the Secretary of Defense as hardship duty.
+Special Pay Authorized.—A member of a uniformed service who is entitled to basic pay may be paid special pay under this section whilethe member is performing duty that is designated by the Secretary of Defense as hardship duty.
 
 (b)
 
@@ -72,7 +72,7 @@ Regulations.—The Secretary of Defense shall prescribe regulations for the prov
 
 <b>1998</b>—Pub. L. 105–261, §617(c)(1), struck out “location” after “duty” in section catchline.
 
-Subsec. (a). Pub. L. 105–261, §617(a)(1), substituted “performing duty in the United States or outside theUnited States that is designated by the Secretary of Defense as hardship duty.” for “on duty at a location in the United States or outside the United States designated by the Secretary of Defense as a hardship duty location.”
+Subsec. (a). Pub. L. 105–261, §617(a)(1), substituted “performing duty in the United States or outside the United States that is designated by the Secretary of Defense as hardship duty.” for “on duty at a location in the United States or outside the United States designated by the Secretary of Defense as a hardship duty location.”
 
 Subsec. (b). Pub. L. 105–261, §617(a)(4), redesignated subsec. (d) as (b).
 
@@ -99,7 +99,7 @@ Subsec. (a). Pub. L. 105–85, §619(a), amended subsec. (a) generally. Prior to
 | E–5 | 16\.00&nbsp; |
 | E–4 | 13\.00&nbsp; |
 | E–3 | 9\.00&nbsp; |
-| E–2 | 8\.00&nbsp; |
+| E–2 | 8\.00  |
 | E–1 | 8\.00.” |
 
 Subsec. (b). Pub. L. 105–85, §619(b)(1), inserted heading and substituted “as hardship duty location pay” for “as foreign duty pay” in text.
@@ -128,7 +128,7 @@ Subsec. (b). Pub. L. 88–132 substituted “a State, Puerto Rico, the Virgin Is
 
 #### Effective Date of 1978 Amendment
 
-Section 804(b)(3) of Pub. L. 95–485 provided that: “The amendments made by this subsection \[amending this section\] shall take effect on October 1, 1978.”
+Pub. L. 95–485, title VIII, §804(b)(3), Oct. 20, 1978, 92 Stat. 1621, provided that: “The amendments made by this subsection \[amending this section\] shall take effect on October 1, 1978.”
 
 #### Effective Date of 1968 Amendment
 
@@ -140,17 +140,17 @@ Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 
 
 #### Savings Provision
 
-Section 12(b) of Pub. L. 88–132 provided that: “Notwithstanding subsection (a) \[amending this section\], an enlisted member who, on the day before the effective date of this Act \[Oct. 1, 1963\], was permanently assigned to duty at a place outside the United States or in Alaska or Hawaii, shall, during the remaining period of that assignment, but not after that place is designated for the purpose of section 305(a)(2) of title 37, United States Code, be paid the basic pay to which he was entitled on that date plus special pay under section 305 of title 37, United States Code, whenever qualified thereunder as that section was in effect on the day before the effective date of this Act, if the total of that basic pay and that special pay is more than the basic pay to which he would otherwise be entitled during that period under section 2 of this Act \[amending section 203 of this title\].”
+Pub. L. 88–132, §12(b), Oct. 2, 1963, 77 Stat. 218, provided that: “Notwithstanding subsection (a) \[amending this section\], an enlisted member who, on the day before the effective date of this Act \[Oct. 1, 1963\], was permanently assigned to duty at a place outside the United States or in Alaska or Hawaii, shall, during the remaining period of that assignment, but not after that place is designated for the purpose of section 305(a)(2) of title 37, United States Code, be paid the basic pay to which he was entitled on that date plus special pay under section 305 of title 37, United States Code, whenever qualified thereunder as that section was in effect on the day before the effective date of this Act, if the total of that basic pay and that special pay is more than the basic pay to which he would otherwise be entitled during that period under section 2 of this Act \[amending section 203 of this title\].”
 
 #### Transition Provision
 
-Section 619(e) of Pub. L. 105–85 provided that: “Until such time as the Secretary of Defense prescribes regulations regarding the provision of hardship duty location pay under section 305 of title 37, United States Code, as amended by this section, the Secretary may continue to use the authority provided by such section 305, as in effect on the day before the date of the enactment of this Act \[Nov. 18, 1997\], to provide special pay to enlisted members of the uniformed services on duty at certain places.”
+Pub. L. 105–85, div. A, title VI, §619(e), Nov. 18, 1997, 111 Stat. 1790, provided that: “Until such time as the Secretary of Defense prescribes regulations regarding the provision of hardship duty location pay under section 305 of title 37, United States Code, as amended by this section, the Secretary may continue to use the authority provided by such section 305, as in effect on the day before the date of the enactment of this Act \[Nov. 18, 1997\], to provide special pay to enlisted members of the uniformed services on duty at certain places.”
 
 #### Sea Duty Performed Between October 1, 1978, and September 30, 1981
 
-Section 804(c) of Pub. L. 95–485 provided that: “Any individual who on September 30, 1978, is an enlisted member of a uniformed service shall be eligible to receive special pay under section 305(a)(1) of title 37, United States Code, as in effect on September 30, 1978, for any period of sea duty performed by such individual during the period beginning on October 1, 1978, and ending on September 30, 1981, for which such individual does not receive special pay under section 305a of such title (as added by subsection (a)).”
+Pub. L. 95–485, title VIII, §804(c), Oct. 20, 1978, 92 Stat. 1621, provided that: “Any individual who on September 30, 1978, is an enlisted member of a uniformed service shall be eligible to receive special pay under section 305(a)(1) of title 37, United States Code, as in effect on September 30, 1978, for any period of sea duty performed by such individual during the period beginning on October 1, 1978, and ending on September 30, 1981, for which such individual does not receive special pay under section 305a of such title (as added by subsection (a)).”
 
 #### Executive Order No. 10168
 
-Ex. Ord. No. 10168, Oct. 11, 1950, 15 F.R. 6877, as amended by Ex. Ord. No. 10821, May 20, 1959, 24 F.R.4123; Ex. Ord. No. 10989, Jan. 23, 1962, 27 F.R. 727; Ex. Ord. No. 11120, Oct. 2, 1963, 28 F.R. 10631, which concerned regulations relating to special pay for sea duty and duty at certain places, was revoked by Ex. Ord. No. 11157, June 22, 1964, 29 F.R. 7973, formerly set out as a note under section 301 of this title.
+Ex. Ord. No. 10168, Oct. 11, 1950, 15 F.R. 6877, as amended by Ex. Ord. No. 10821, May 20, 1959, 24 F.R. 4123; Ex. Ord. No. 10989, Jan. 23, 1962, 27 F.R. 727; Ex. Ord. No. 11120, Oct. 2, 1963, 28 F.R. 10631, which concerned regulations relating to special pay for sea duty and duty at certain places, was revoked by Ex. Ord. No. 11157, June 22, 1964, 29 F.R. 7973, formerly set out as a note under section 301 of this title.
 

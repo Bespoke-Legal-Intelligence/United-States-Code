@@ -14,3 +14,4 @@ Part C—Miscellaneous Provisions
 - [&sect; 00237 - Information on visa denials required to be entered into electronic data system](%C2%A7%2000237%20-%20Information%20on%20visa%20denials%20required%20to%20be%20entered%20into%20electronic%20data%20system.md)
 - [&sect; 00238 - Office for Domestic Preparedness](%C2%A7%2000238%20-%20Office%20for%20Domestic%20Preparedness.md)
 - [&sect; 00239 - Office of Cargo Security Policy](%C2%A7%2000239%20-%20Office%20of%20Cargo%20Security%20Policy.md)
+- [&sect; 00240 - Border Enforcement Security Task Force](%C2%A7%2000240%20-%20Border%20Enforcement%20Security%20Task%20Force.md)

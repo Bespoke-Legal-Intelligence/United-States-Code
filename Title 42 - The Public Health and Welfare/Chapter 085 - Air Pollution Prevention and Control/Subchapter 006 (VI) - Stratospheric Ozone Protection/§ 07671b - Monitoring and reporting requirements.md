@@ -48,11 +48,11 @@ For termination, effective May 15, 2000, of provisions in subsec. (d)(1) of this
 
 #### Methane Studies
 
-Section 603 of Pub. L. 101–549 provided that:
+Pub. L. 101–549, title VI, §603, Nov. 15, 1990, 104 Stat. 2670, provided that:
 
 “(a)
 
-Economically Justified Actions.—Not later than 2 years after enactment of this Act \[Nov. 15, 1990\], the Administrator shall prepare and submit a report to the Congress that identifies activities, substances, processes, or combinations thereof that could reduce methane emissions and that are economically and technologically justified with and without consideration of environmental benefit.
+Economically Justified Actions.—Not later than 2 years after enactment of this Act \[Nov. 15, 1990\], the Administrator shall prepare and submit a report tothe Congress that identifies activities, substances, processes, or combinations thereof that could reduce methane emissions and that are economically and technologically justified with and without consideration of environmental benefit.
 
 “(b)
 
@@ -100,5 +100,5 @@ Information Gathering.—In carrying out the studies under this section, the pro
 
 “(g)
 
-Consultation and Coordination.—In preparing the studies under this section the Administrator shall consult and coordinate with the Secretary of Energy, the Administrators of the National Aeronautics and Space Administration and the National Oceanic andAtmospheric Administration, and the heads of other relevant Federal agencies and departments. In the case of the studies under subsections (a), (b), and (e), such consultation and coordination shall include the Secretary of Agriculture.”
+Consultation and Coordination.—In preparing the studies under this section the Administrator shall consult and coordinate with the Secretary of Energy, the Administrators of the National Aeronautics and Space Administration and the National Oceanic and Atmospheric Administration, and the heads of other relevant Federal agencies and departments. In the case of the studies under subsections (a), (b), and (e), such consultation and coordination shall include the Secretary of Agriculture.”
 

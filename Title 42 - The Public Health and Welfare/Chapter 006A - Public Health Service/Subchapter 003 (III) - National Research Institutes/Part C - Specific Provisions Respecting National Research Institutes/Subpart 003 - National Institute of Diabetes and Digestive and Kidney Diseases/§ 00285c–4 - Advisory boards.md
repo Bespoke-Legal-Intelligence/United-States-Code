@@ -84,7 +84,7 @@ The National Diabetes Advisory Board and the National Digestive Diseases Advisor
 
 Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
 
-<b>1988</b>—Subsecs. (k), (<i>l</i>). Pub. L. 100–607 redesignated subsec. (<i>l</i>) as (k) and struck out former subsec. (k) which read as follows: “Each Advisory Board shall expire on September 30, 1988.”
+<b>1988</b>—Subsecs. (k), (l). Pub. L. 100–607 redesignated subsec. (l) as (k) and struck out former subsec. (k) which read as follows: “Each Advisory Board shall expire on September 30, 1988.”
 
 #### Termination of Advisory Boards
 

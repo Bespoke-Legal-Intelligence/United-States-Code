@@ -52,7 +52,7 @@ The Administrator shall establish a special Federal Agency Hazardous Waste Compl
 
 #### (B) Response under other law
 
-&emsp;&emsp;It shall be an appropriate factor to be taken into consideration for the purposes of section 9605(a)(8)(A) of this title that the head of the department, agency, or instrumentality that owns or operates a facility has arranged with the Administrator or appropriate State authorities to respond appropriately, under authority of a law other than this chapter, to a release or threatened release of a hazardous substance.
+&emsp;&emsp;It shall be an appropriate factor to be taken into consideration for the purposes of section 9605(a)(8)(A) of this title that the head of the department, agency, or instrumentality that owns or operates a facilityhas arranged with the Administrator or appropriate State authorities to respond appropriately, under authority of a law other than this chapter, to a release or threatened release of a hazardous substance.
 
 #### (3) Completion
 
@@ -70,7 +70,7 @@ The Administrator shall establish a special Federal Agency Hazardous Waste Compl
 
 #### (3) Completion of remedial actions
 
-&emsp;Remedial actions at facilities subject to interagency agreements under this section shall be completed as expeditiously as practicable. Each agency shall include in its annual budget submissions to the Congress a review of alternative agency funding whichcould be used to provide for the costs of remedial action. The budget submission shall also include a statement of the hazard posed by the facility to human health, welfare, and the environment and identify the specific consequences of failure to begin and complete remedial action.
+&emsp;Remedial actions at facilities subject to interagency agreements under this section shall be completed as expeditiously as practicable. Each agency shall include in its annual budget submissions to the Congress a review of alternative agency funding which could be used to provide for the costs of remedial action. The budget submission shall also include a statement of the hazard posed by the facility to human health, welfare, and the environment and identify the specific consequences of failure to begin and complete remedial action.
 
 #### (4) Contents of agreement
 
@@ -174,7 +174,7 @@ Except for authorities which are delegated by the Administrator to an officer or
 
 &emsp;&emsp;&emsp;&emsp;(III) provide that all necessary response action will be taken and identify the schedules for investigation and completion of all necessary response action as approved by the appropriate regulatory agency; and
 
-&emsp;&emsp;&emsp;&emsp;(IV) provide that the Federal agency responsible for the property subject totransfer will submit a budget request to the Director of the Office of Management and Budget that adequately addresses schedules for investigation and completion of all necessary response action, subject to congressional authorizations and appropriations.
+&emsp;&emsp;&emsp;&emsp;(IV) provide that the Federal agency responsible for the property subject to transfer will submit a budget request to the Director of the Office of Management and Budget that adequately addresses schedules for investigation and completion of all necessary response action, subject to congressional authorizations and appropriations.
 
 #### (iii) Warranty
 
@@ -202,7 +202,7 @@ Except for authorities which are delegated by the Administrator to an officer or
 
 &emsp;&emsp;(vii) Interviews with current or former employees involved in operations on the real property.
 
-> &emsp;Such identification shall also be based on sampling, if appropriate under the circumstances. The results of the identification shall be provided immediately to the Administrator and State and local government officials and made available to the public.
+> &emsp;Such identification shall also be based on sampling, if appropriate under the circumstances.The results of the identification shall be provided immediately to the Administrator and State and local government officials and made available to the public.
 
 &emsp;(B) The identification required under subparagraph (A) is not complete until concurrence in the results of the identification is obtained, in the case of real property that is part of a facility on the National Priorities List, from the Administrator, or, in the case of real property that is not part of a facility on the National Priorities List, from the appropriate State official. In the case of a concurrence which is required from a State official, the concurrence is deemed to be obtained if, within 90 days after receiving a request for the concurrence, the State official has not acted (by either concurring or declining to concur) on the request for concurrence.
 
@@ -260,7 +260,7 @@ Nothing in this section shall affect or impair the obligation of any department,
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(1) to (3), (c)(1), (d)(2)(B), and (j)(2), was in the original “thisAct”, meaning Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
+This chapter, referred to in subsecs. (a)(1) to (3), (c)(1), (d)(2)(B), and (j)(2), was in the original “this Act”, meaning Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
 
 Section 2904(b) of such base closure law, referred to in subsec. (h)(4)(C)(iii), means section 2904(b) of Pub. L. 101–510, which is set out as a note under section 2687 of Title 10, Armed Forces.
 
@@ -284,7 +284,7 @@ Pub. L. 104–201, §334(a)(6), (7), designated existing provisions as subpar. (
 
 Pub. L. 104–201, §334(a)(1)–(5), designated first sentence as subpar. (A), inserted heading, redesignated former subpar. (A) and cls. (i) to (iii) of that subpar. as cl. (i) of subpar. (A) and subcls. (I) to (III) of that cl., respectively, redesignated former subpar. (B) and cls. (i) and (ii) of that subpar. as cl. (ii) of subpar. (A) and subcls. (I) and (II) of that cl., respectively, redesignated former subpar. (C) as cl. (iii) of subpar. (A), and realigned margins of such cls. and subcls.
 
-Pub. L. 104–106, §2834(2), which directed that par. (3) be amended in the matter following subpar. (C) by adding at the end, flush to the paragraph margin, the following, was executed by inserting the following provision at the end of the concluding provisions “The requirements of subparagraph (B) shall not apply in any case in which the person or entity to whom the real property is transferred is a potentially responsible party with respect to such property. The requirements of subparagraph (B) shall not apply in any case in which the transfer of the property occurs or has occurred by means of a lease, without regard to whether the lessee has agreed to purchase the property or whether the duration of the lease is longer than 55 years. In the case of a lease entered into after September 30, 1995, with respect to real property located at an installation approved for closure or realignment under a base closure law, the agency leasing the property, in consultation with the Administrator, shall determine before leasing the property that the property is suitable for lease, that the uses contemplated for the lease are consistent with protection of human health and the environment, and that there are adequate assurances that the United States will take all remedial action referred to in subparagraph (B) that has not been taken on the date of the lease.”
+Pub. L. 104–106, §2834(2), which directed that par. (3) be amended in the matter following subpar. (C) by adding at the end, flush to the paragraph margin, the following, was executed by inserting the following provision at the end of the concluding provisions “The requirements of subparagraph (B) shall not apply in any case in which the person or entity to whom the real property is transferred is a potentially responsible party with respect to such property. The requirements of subparagraph (B) shall not apply in any case in which the transfer of the property occurs or has occurred by means of a lease, without regard to whether the lessee has agreed to purchase the property or whether the duration of the lease is longer than 55 years. In the case of a lease entered into after September 30, 1995, with respect to real property located at an installation approved for closure or realignment under a base closure law, the agency leasing the property, in consultation with the Administrator, shall determine before leasing the property that the property is suitable for lease, that the uses contemplated for the lease are consistent with protection of human health and theenvironment, and that there are adequate assurances that the United States will take all remedial action referred to in subparagraph (B) that has not been taken on the date of the lease.”
 
 Pub. L. 104–106, §2834(1), struck out first sentence of concluding provisions which read as follows: “The requirements of subparagraph (B) shall not apply in any case in which the person or entity to whom the property is transferred is a potentially responsible party with respect to such real property.”
 
@@ -312,7 +312,7 @@ Pub. L. 103–160, div. B, title XXIX, §2910, Nov. 30, 1993, 107 Stat. 1924, pr
 
 #### Congressional Findings
 
-Section 2 of Pub. L. 102–426 provided that: “The Congress finds the following:
+Pub. L. 102–426, §2, Oct. 19, 1992, 106 Stat. 2174, provided that: “The Congress finds the following:
 
 &emsp;“(1) The closure of certain Federal facilities is having adverse effects on the economies of local communities by eliminating jobs associated with such facilities, and delay in remediation of environmental contamination of real property at such facilities is preventing transfer and private development of such property.
 
@@ -326,7 +326,7 @@ Section 2 of Pub. L. 102–426 provided that: “The Congress finds the followin
 
 #### Applicability
 
-Section 120(b) of Pub. L. 99–499 provided that: “Section 120 of CERCLA \[42 U.S.C. 9620\] shall not apply to any response action or remedial action for which a plan is under development by the Department of Energy on the date of enactment of this Act \[Oct. 17, 1986\] with respect to facilities—
+Pub. L. 99–499, title I, §120(b), Oct. 17, 1986, 100 Stat. 1671, provided that: “Section 120 of CERCLA \[42 U.S.C. 9620\] shall not apply to any response action or remedial action for which a plan is under development by the Department of Energy on the date of enactment of this Act \[Oct. 17, 1986\] with respect to facilities—
 
 &emsp;“(1) owned or operated by the United States and subject to the jurisdiction of such Department;
 

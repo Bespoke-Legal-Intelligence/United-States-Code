@@ -38,7 +38,7 @@ Each State in which all or part of a Marginal Area is located shall, with respec
 
 #### (B) Emissions statements
 
-&emsp;&emsp;(i) Within 2 years after November 15, 1990, the State shall submit a revision to the State implementation plan to require that the owner or operator of each stationary source of oxides of nitrogen or volatile organic compounds provide the State with a statement, in such form as the Administrator may prescribe (or accept an equivalent alternative developed by the State), for classes or categories of sources, showing the actual emissions of oxides of nitrogen and volatile organic compounds from that source. The first such statement shall be submitted within 3 years after November 15, 1990. Subsequent statements shall be submitted at least every year thereafter. The statement shall contain a certification that the information contained in the statement is accurate to the best knowledge of the individual certifying the statement.
+&emsp;&emsp;(i) Within 2 years after November 15, 1990, the State shall submit a revision to the State implementation plan to require thatthe owner or operator of each stationary source of oxides of nitrogen or volatile organic compounds provide the State with a statement, in such form as the Administrator may prescribe (or accept an equivalent alternative developed by the State), for classes or categories of sources, showing the actual emissions of oxides of nitrogen and volatile organic compounds from that source. The first such statement shall be submitted within 3 years after November 15, 1990. Subsequent statements shall be submitted at least every year thereafter. The statement shall contain a certification that the information contained in the statement is accurate to the best knowledge of the individual certifying the statement.
 
 &emsp;&emsp;(ii) The State may waive the application of clause (i) to any class or category of stationary sources which emit less than 25 tons per year of volatile organic compounds or oxides of nitrogen if the State, in its submissions under subparagraphs <sup>1</sup> (1) or (3)(A), provides an inventory of emissions from such class or category of sources, based on the use of the emission factors established by the Administrator or other methods acceptable to the Administrator.
 
@@ -46,7 +46,7 @@ Each State in which all or part of a Marginal Area is located shall, with respec
 
 &emsp;For purposes of satisfying the emission offset requirements of this part, the ratio of total emission reductions of volatile organic compounds to total increased emissions of such air pollutant shall be at least 1.1 to 1.
 
-> The Administrator may, in the Administrator's discretion, require States to submit a schedule for submitting any of the revisions or other items required under this subsection. The requirements of this subsection shall apply in lieu of any requirement that the State submit a demonstration that the applicable implementation plan provides for attainment of the ozone standard by the applicable attainment date in any Marginal Area. Section 7502(c)(9) of thistitle (relating to contingency measures) shall not apply to Marginal Areas.
+> The Administrator may, in the Administrator's discretion, require States to submit a schedule for submitting any of the revisions or other items required under this subsection. The requirements of this subsection shall apply in lieu of any requirement that the State submit a demonstration that the applicable implementation plan provides for attainment of the ozone standard by the applicable attainment date in any Marginal Area. Section 7502(c)(9) of this title (relating to contingency measures) shall not apply to Marginal Areas.
 
 #### (b) Moderate Areas
 
@@ -78,7 +78,7 @@ Each State in which all or part of a Moderate Area is located shall, with respec
 
 #### (D) Limits on creditability of reductions
 
-&emsp;&emsp;Emission reductions from the following measures are not creditable toward the 15 percent reductions required under subparagraph (A):
+&emsp;&emsp;Emission reductions from the following measures are not creditable toward the 15percent reductions required under subparagraph (A):
 
 &emsp;&emsp;&emsp;(i) Any measure relating to motor vehicle exhaust or evaporative emissions promulgated by the Administrator by January 1, 1990.
 
@@ -104,7 +104,7 @@ Each State in which all or part of a Moderate Area is located shall, with respec
 
 #### (A) General rule
 
-&emsp;&emsp;Not later than 2 years after November 15, 1990, the State shall submit a revision to theapplicable implementation plan to require all owners or operators of gasoline dispensing systems to install and operate, by the date prescribed under subparagraph (B), a system for gasoline vapor recovery of emissions from the fueling of motor vehicles. The Administrator shall issue guidance as appropriate as to the effectiveness of such system. This subparagraph shall apply only to facilities which sell more than 10,000 gallons of gasoline per month (50,000 gallons per month in the case of an independent small business marketer of gasoline as defined in section 7625–1 <sup>2</sup> of this title).
+&emsp;&emsp;Not later than 2 years after November 15, 1990, the State shall submit a revision to the applicable implementation plan to require all owners or operators of gasoline dispensing systems to install and operate, by the date prescribed under subparagraph (B), a system for gasoline vapor recovery of emissions from the fueling of motor vehicles. The Administrator shall issue guidance as appropriate as to the effectiveness of such system. This subparagraph shall apply only to facilities which sell more than 10,000 gallons of gasoline per month (50,000 gallons per month in the case of an independent small business marketer of gasoline as defined in section 7625–1 <sup>2</sup> of this title).
 
 #### (B) Effective date
 
@@ -136,7 +136,7 @@ Except as otherwise specified in paragraph (4), each State in which all or part 
 
 #### (1) Enhanced monitoring
 
-&emsp;In order to obtain more comprehensive and representative data on ozone air pollution, not later than 18 months after November 15, 1990, the Administrator shall promulgate rules, after notice and public comment, for enhanced monitoring of ozone, oxides of nitrogen, and volatile organic compounds. The rules shall, among other things, cover the location and maintenance of monitors. Immediately following the promulgation of rules by the Administrator relating to enhanced monitoring, the State shall commence such actions as may be necessary to adopt and implement a program based on such rules, to improve monitoring for ambient concentrations of ozone, oxides of nitrogen and volatile organic compounds and to improve monitoring of emissions of oxides of nitrogen and volatile organic compounds. Each State implementation plan for the area shall contain measures to improve the ambient monitoring of such air pollutants.
+&emsp;In order to obtain more comprehensive and representative data on ozone air pollution, not later than 18 months after November 15, 1990, the Administrator shall promulgate rules, after notice and public comment, for enhancedmonitoring of ozone, oxides of nitrogen, and volatile organic compounds. The rules shall, among other things, cover the location and maintenance of monitors. Immediately following the promulgation of rules by the Administrator relating to enhanced monitoring, the State shall commence such actions as may be necessary to adopt and implement a program based on such rules, to improve monitoring for ambient concentrations of ozone, oxides of nitrogen and volatile organic compounds and to improve monitoring of emissions of oxides of nitrogen and volatile organic compounds. Each State implementation plan for the area shall contain measures to improve the ambient monitoring of such air pollutants.
 
 #### (2) Attainment and reasonable further progress demonstrations
 
@@ -152,7 +152,7 @@ Except as otherwise specified in paragraph (4), each State in which all or part 
 
 &emsp;&emsp;&emsp;(i) at least 3 percent of baseline emissions each year; or
 
-&emsp;&emsp;&emsp;(ii) an amount less than 3 percent of such baseline emissions each year, if the State demonstrates to the satisfaction of the Administrator that the plan reflecting suchlesser amount includes all measures that can feasibly be implemented in the area, in light of technological achievability.
+&emsp;&emsp;&emsp;(ii) an amount less than 3 percent of such baseline emissions each year, if the State demonstrates to the satisfaction of the Administrator that the plan reflecting such lesser amount includes all measures that can feasibly be implemented in the area, in light of technological achievability.
 
 > &emsp;&emsp;To lessen the 3 percent requirement under clause (ii), a State must demonstrate to the satisfaction of the Administrator that the plan for the area includes the measures that are achieved in practice by sources in the same source category in nonattainment areas of the next higher classification. Any determination to lessen the 3 percent requirement shall be reviewed at each milestone under subsection (g) of this section and revised to reflect such new measures (if any) achieved in practice by sources in the same category in any State, allowing a reasonable time to implement such measures. The emission reductions described in this subparagraph shall be calculated in accordance with subsection (b)(1)(C) and (D) of this section (concerning creditability of reductions). The reductions creditable for the period beginning 6 years after November 15, 1990, shall include reductions that occurred before such period, computed in accordance with subsection (b)(1) of this section, that exceed the 15-percent amount of reductions required under subsection (b)(1)(A) of this section.
 
@@ -174,7 +174,7 @@ Except as otherwise specified in paragraph (4), each State in which all or part 
 
 &emsp;&emsp;&emsp;(ii) program administration features necessary to reasonably assure that adequate management resources, tools, and practices are in place to attain and maintain the performance standard.
 
-> &emsp;&emsp;Compliance with the performance standard under clause (i) shall be determined using a method to be established by the Administrator.
+> &emsp;&emsp;Compliance with the performance standard under clause (i) shall be determined using amethod to be established by the Administrator.
 
 #### (C) State program
 
@@ -190,7 +190,7 @@ Except as otherwise specified in paragraph (4), each State in which all or part 
 
 &emsp;&emsp;&emsp;(v) Annual emission testing and necessary adjustment, repair, and maintenance, unless the State demonstrates to the satisfaction of the Administrator that a biennial inspection, in combination with other features of the program which exceed the requirements of this chapter, will result in emission reductions which equal or exceed the reductions which can be obtained through such annual inspections.
 
-&emsp;&emsp;&emsp;(vi) Operation of the program on a centralized basis, unless the State demonstrates to the satisfaction of the Administrator that a decentralized program will be equally effective. An electronically connected testing system, a licensing system,or other measures (or any combination thereof) may be considered, in accordance with criteria established by the Administrator, as equally effective for such purposes.
+&emsp;&emsp;&emsp;(vi) Operation of the program on a centralized basis, unless the State demonstrates to the satisfaction of the Administrator that a decentralized program will be equally effective. An electronically connected testing system, a licensing system, or other measures (or any combination thereof) may be considered, in accordance with criteria established by the Administrator, as equally effective for such purposes.
 
 &emsp;&emsp;&emsp;(vii) Inspection of emission control diagnostic systems and the maintenance or repair of malfunctions or system deterioration identified by or affecting such diagnostics systems.
 
@@ -232,13 +232,13 @@ Except as otherwise specified in paragraph (4), each State in which all or part 
 
 #### (d) Severe Areas
 
-Each State in which all or part of a Severe Area is located shall, with respect to the Severe Area, make the submissions described under subsection (c) of this section (relating to Serious Areas), and shall also submit the revisions to the applicable implementation plan (including the plan items) described under this subsection. For any Severe Area, the terms “major source” and “major stationary source” include (in addition to the sources described in section 7602 of this title) any stationary source or group of sources located within a contiguous area and under common control that emits, or has the potential to emit, at least 25 tons per year of volatile organic compounds.
+Each State in which all or part of a Severe Area is located shall, with respect to the Severe Area, make the submissions described under subsection (c) of this section (relating to Serious Areas), and shall also submit the revisions to the applicable implementation plan (including the plan items) described under this subsection.For any Severe Area, the terms “major source” and “major stationary source” include (in addition to the sources described in section 7602 of this title) any stationary source or group of sources located within a contiguous area and under common control that emits, or has the potential to emit, at least 25 tons per year of volatile organic compounds.
 
 #### (1) Vehicle miles traveled
 
 &emsp;(A) Within 2 years after November 15, 1990, the State shall submit a revision that identifies and adopts specific enforceable transportation control strategies and transportation control measures to offset any growth in emissions from growth in vehicle miles traveled or numbers of vehicle trips in such area and to attain reduction in motor vehicle emissions as necessary, in combination with other emission reduction requirements of this subpart, to comply with the requirements of subsection <sup>5</sup> (b)(2)(B) and (c)(2)(B) of this section (pertaining to periodic emissions reduction requirements). The State shall consider measures specified in section 7408(f) of this title, and choose from among and implement such measures as necessary to demonstrate attainment with the national ambient air quality standards; in considering such measures, the State should ensure adequate access to downtown, other commercial, and residential areas and should avoid measures that increase or relocate emissions and congestion rather than reduce them.
 
-&emsp;(B) The State may also, in its discretion, submit a revision at any time requiring employers in such area to implement programs to reduce work-related vehicle trips and miles travelled by employees. Such revision shall be developed in accordance with guidance issued by the Administrator pursuant to section 7408(f) of this title and may require that employers in such area increase average passenger occupancy per vehicle in commuting trips between home and the workplace during peak travel periods. The guidance of the Administrator may specify average vehicle occupancy rates which vary for locations within a nonattainment area (suburban, center city, business district) or among nonattainmentareas reflecting existing occupancy rates and the availability of high occupancy modes. Any State required to submit a revision under this subparagraph (as in effect before December 23, 1995) containing provisions requiring employers to reduce work-related vehicle trips and miles travelled by employees may, in accordance with State law, remove such provisions from the implementation plan, or withdraw its submission, if the State notifies the Administrator, in writing, that the State has undertaken, or will undertake, one or more alternative methods that will achieve emission reductions equivalent to those to be achieved by the removed or withdrawn provisions.
+&emsp;(B) The State may also, in its discretion, submit a revision at any time requiring employers in such area to implement programs to reduce work-related vehicle trips and miles travelled by employees. Such revision shall be developed in accordance with guidance issued by the Administrator pursuant to section 7408(f) of this title and may require that employers in such area increase average passenger occupancy per vehicle in commuting trips between home and the workplace during peak travel periods. The guidance of the Administrator may specify average vehicle occupancy rates which vary for locations within a nonattainment area (suburban, center city, business district) or among nonattainment areas reflecting existing occupancy rates and the availability of high occupancy modes. Any State required to submit a revision under this subparagraph (as in effect before December 23, 1995) containing provisions requiring employers to reduce work-related vehicle trips and miles travelled by employees may, in accordance with State law, remove such provisions from the implementation plan, or withdraw its submission, if the State notifies the Administrator, in writing, that the State has undertaken, or will undertake, one or more alternative methods that will achieve emission reductions equivalent to those to be achieved by the removed or withdrawn provisions.
 
 #### (2) Offset requirement
 
@@ -260,7 +260,7 @@ Each State in which all or part of an Extreme Area is located shall, with respec
 
 #### (2) Modifications
 
-&emsp;Any change (as described in section 7411(a)(4) of this title) at a major stationary source which results in any increase in emissions from any discrete operation, unit, or other pollutant emitting activity at the source shall be considered a modification for purposes of section 7502(c)(5) of this title and section 7503(a) of this title, except that for purposes of complying with the offset requirement pursuant to section 7503(a)(1) of this title, any such increase shall not be considered a modification if the owner or operator of the source elects to offset the increase by a greater reduction in emissions of the air pollutant concerned from other discrete operations, units, or activities within the source at an internal offset ratio of at least 1.3 to 1. The offset requirements of this part shall not be applicable in Extreme Areas to a modification of an existing source if such modification consists of installation of equipment required to comply with the applicable implementation plan, permit, or this chapter.
+&emsp;Any change (as described in section 7411(a)(4) of this title) at a major stationary source which results in any increase in emissions from any discrete operation, unit, or other pollutant emitting activity at the source shall be considered a modification for purposes of section 7502(c)(5) of this title and section 7503(a) of this title, except that for purposes of complying with the offset requirement pursuant to section 7503(a)(1) of this title, any such increase shall not be considered a modificationif the owner or operator of the source elects to offset the increase by a greater reduction in emissions of the air pollutant concerned from other discrete operations, units, or activities within the source at an internal offset ratio of at least 1.3 to 1. The offset requirements of this part shall not be applicable in Extreme Areas to a modification of an existing source if such modification consists of installation of equipment required to comply with the applicable implementation plan, permit, or this chapter.
 
 #### (3) Use of clean fuels or advanced control technology
 
@@ -278,7 +278,7 @@ Each State in which all or part of an Extreme Area is located shall, with respec
 
 #### (5) New technologies
 
-&emsp;The Administrator may, in accordance with section 7410 of this title, approve provisions of an implementation plan for an Extreme Area which anticipate development of new controltechniques or improvement of existing control technologies, and an attainment demonstration based on such provisions, if the State demonstrates to the satisfaction of the Administrator that—
+&emsp;The Administrator may, in accordance with section 7410 of this title, approve provisions of an implementation plan for an Extreme Area which anticipate development of new control techniques or improvement of existing control technologies, and an attainment demonstration based on such provisions, if the State demonstrates to the satisfaction of the Administrator that—
 
 &emsp;&emsp;(A) such provisions are not necessary to achieve the incremental emission reductions required during the first 10 years after November 15, 1990; and
 
@@ -302,7 +302,7 @@ Each State in which all or part of an Extreme Area is located shall, with respec
 
 (B) For purposes of this paragraph, excess reductions in emissions of NO<sub>x</sub> are emission reductions for which the Administrator determines that net air quality benefits are greater in the absence of such reductions. Alternatively, for purposes of this paragraph, excess reductions in emissions of NO<sub>x</sub> are, for—
 
-&emsp;(i) nonattainment areas not within an ozone transport region under section 7511c of this title, emission reductions that the Administrator determines would not contribute to attainment of the national ambient air quality standard for ozone in the area, or
+&emsp;(i) nonattainment areas not within an ozone transport region under section 7511c of thistitle, emission reductions that the Administrator determines would not contribute to attainment of the national ambient air quality standard for ozone in the area, or
 
 &emsp;(ii) nonattainment areas within such ozone transport region, emission reductions that the Administrator determines would not produce net ozone air quality benefits in such region.
 
@@ -344,7 +344,7 @@ Each State in which all or part of an Extreme Area is located shall, with respec
 
 #### (5) Extreme Areas
 
-&emsp;If a State fails to submit a demonstration under paragraph (2) for any Extreme Area within the required period, or if the Administrator determines that the area has not met any applicable milestone, the State shall, within 9 months after such failure or determination, submit a plan revision to implement an economic incentive program which meets the requirements of paragraph (4). The Administrator shall review such plan revision and approve or disapprove the revision within 9 months after the date of its submission.
+&emsp;If a State fails to submit a demonstration under paragraph (2) for any Extreme Areawithin the required period, or if the Administrator determines that the area has not met any applicable milestone, the State shall, within 9 months after such failure or determination, submit a plan revision to implement an economic incentive program which meets the requirements of paragraph (4). The Administrator shall review such plan revision and approve or disapprove the revision within 9 months after the date of its submission.
 
 #### (h) Rural transport areas
 

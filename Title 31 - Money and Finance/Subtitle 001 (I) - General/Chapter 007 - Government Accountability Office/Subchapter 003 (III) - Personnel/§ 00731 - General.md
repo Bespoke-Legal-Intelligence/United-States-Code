@@ -116,7 +116,7 @@ Jan. 2, 1975, Pub. L. 93–604, §401, 88 Stat. 1962.
 
 Oct. 26, 1970, Pub. L. 91–510, §204(d)(last sentence), 84 Stat. 1168; restated July 12, 1974, Pub. L. 93–344, §702(a), 88 Stat. 326.
 
-In subsection (a), the text of 31:52(a) and (b) and 31:56 is omitted as superseded by the other source provisions restated in this subchapter and subchapter IV of this chapter. The word “remove” is added for consistency with other provisions of the subchapter. The words “officers (except the Deputy Comptroller General) and employees” are substituted for “personnel” in 31:52–1, and the word “powers” is substituted for “functions”, forconsistency in the revised title and with other titles of the United States Code.
+In subsection (a), the text of 31:52(a) and (b) and 31:56 is omitted as superseded by the other source provisions restated in this subchapter and subchapter IV of this chapter. The word “remove” is added for consistency with other provisions of the subchapter. The words “officers (except the Deputy Comptroller General) and employees” are substituted for “personnel” in 31:52–1, and the word “powers” is substituted for “functions”, for consistency in the revised title and with other titles of the United States Code.
 
 Subsection (b) is substituted for 31:52–4(b) to eliminate unnecessary words. The words “officers and” are added for consistency in the revised title and with other titles of the Code.
 
@@ -170,7 +170,7 @@ Subsec. (e)(2). Pub. L. 106–303, §5(2), substituted “level IV” for “lev
 
 <b>1984</b>—Subsec. (b). Pub. L. 98–615 substituted “section 5401 of title 5” for “section 5401(a) of title 5”.
 
-Subsec. (e). Pub. L. 98–236 substituted “title 5 at rates not in excess of the maximum daily rate for GS–18 under section 5332 of such title” for “title 5” in provisions preceding par. (1) and “15” for “10” in par. (1).
+Subsec. (e). Pub. L. 98–236 substituted “title 5 at rates not in excess of the maximum daily rate for GS–18under section 5332 of such title” for “title 5” in provisions preceding par. (1) and “15” for “10” in par. (1).
 
 #### Effective Date of 2004 Amendment
 
@@ -214,9 +214,9 @@ Amendment by Pub. L. 103–89 effective Nov. 1, 1993, see section 3(c) of Pub. L
 
 #### Effective Date of 1984 Amendments
 
-Section 205 of Pub. L. 98–615 provided that amendment by Pub. L. 98–615 was effective Oct. 1, 1984, and applicable with respect to pay periods commencing on or after that date, with certain exceptions and qualifications.
+Pub. L. 98–615, title II, §205, Nov. 8, 1984, 98 Stat. 3217, provided that amendment by Pub. L. 98–615 was effective Oct. 1, 1984, and applicable with respect to pay periods commencing on or after that date, with certain exceptions and qualifications.
 
-Section 2 of Pub. L. 98–326 provided that: “The amendments made by this Act \[amending this section and sections 732 and 733 of this title\] shall take effect beginning on October 1, 1984.”
+Pub. L. 98–326, §2, June 22, 1984, 98 Stat. 269, provided that: “The amendments made by this Act \[amending this section and sections 732 and 733 of this title\] shall take effect beginning on October 1, 1984.”
 
 #### Consultation
 

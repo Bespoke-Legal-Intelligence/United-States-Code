@@ -42,7 +42,7 @@ Asset already in low, initial, or full-rate production.—If operational test an
 
 &emsp;&emsp;&emsp;(ii) an explanation of the actions that will be taken to correct or mitigate the safety concern in previously produced capabilities or assets and subsystems of the capabilities or assets, and the date by which those actions will be taken; and
 
-&emsp;&emsp;&emsp;(iii) an assessment of the adequacy of current funding to correct or mitigate the safety concern in capabilities or assets and subsystems of the capabilities or assets and in previously produced capabilities or assets and subsystems.
+&emsp;&emsp;&emsp;(iii) an assessment of the adequacy of current funding to correct or mitigate the safety concern in capabilities or assets and subsystems of the capabilities or assetsand in previously produced capabilities or assets and subsystems.
 
 (c)
 
@@ -68,9 +68,7 @@ Cutter classification.—
 
 In general.—The Commandant shall cause each cutter, other than a National Security Cutter, acquired by the Coast Guard and delivered after the date of enactment of the Coast Guard Authorization Act of 2010 to be classed by the American Bureau of Shipping before final acceptance.
 
-&emsp;&emsp;(B)
-
-Reports.—Not later than December 31, 2011, and biennially thereafter, the Commandant shall provide a report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate identifying which, if any, Coast Guard cutters that have been issued a certificate of classification by the American Bureau of Shipping have not been maintained in class and detailing the reasons why they have not been maintained in class.
+&emsp;&emsp;\[(B) Repealed. Pub. L. 112–213, title II, §210(c)(2)(B), Dec. 20, 2012, 126 Stat. 1551.\]
 
 &emsp;(4)
 
@@ -80,7 +78,7 @@ Other vessels.—The Commandant shall cause the design and construction of each 
 
 Aircraft airworthiness.—The Commandant shall cause all aircraft and aircraft engines acquired by the Coast Guard and delivered after the date of enactment of the Coast Guard Authorization Act of 2010 to be assessed for airworthiness by an independent third party with expertise in aircraft and aircraft engine certification before final acceptance.
 
-(Added Pub. L. 111–281, title IV, §402(a), Oct. 15, 2010, 124 Stat. 2944.)
+(Added Pub. L. 111–281, title IV, §402(a), Oct. 15, 2010, 124 Stat. 2944; amended Pub. L. 112–213, title II, §210(c)(2)(B), Dec. 20, 2012, 126 Stat. 1551.)
 
 #### References in Text
 
@@ -89,4 +87,48 @@ The date of enactment of the Coast Guard Authorization Act of 2010, referred to 
 #### Prior Provisions
 
 A prior section 573, act Aug. 4, 1949, ch. 393, 63 Stat. 543, related to contempt of court, prior to repeal by act May 5, 1950, ch. 169, §§5, 14(v), 64 Stat. 145, 148, effective May 31, 1951.
+
+#### Amendments
+
+<b>2012</b>—Subsec. (c)(3)(B). Pub. L. 112–213 struck out subpar. (B). Text read as follows: “Not later than December 31, 2011, and biennially thereafter, the Commandant shall provide a report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate identifying which, if any, Coast Guard cutters that have been issued a certificate of classification by the American Bureau of Shipping have not been maintained in class and detailing the reasons why they have not been maintained in class.”
+
+#### National Security Cutters
+
+Pub. L. 112–213, title II, §221, Dec. 20, 2012, 126 Stat. 1559, provided that:
+
+“(a)
+
+In General.—
+
+&emsp;“(1)
+
+Multiyear authority.—In fiscal year 2013 and each fiscal year thereafter, the Secretary of the department in which the Coast Guard is operating may enter into, in accordance with section 2306b of title 10, United States Code, a multiyear contract for the procurement of Coast Guard National Security Cutters and Government-furnished equipment associated with the National Security Cutter program.
+
+&emsp;“(2)
+
+Limitation.—The Secretary may not enter into a contract under paragraph (1) until the date that is 30 days after the date the Secretary submits to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a certification that the Secretary has made, with respect to the contract, each of the findings specified under section 2306b(a) of title 10, United States Code, and has done so in accordance with paragraph (3) of this subsection.
+
+&emsp;“(3)
+
+Determination of substantial savings.—For purposes of this section, in conducting an analysis with respect to substantial savings under section 2306b(a)(1) of title 10, United States Code, the Secretary—
+
+&emsp;&emsp;“(A) may not limit the analysis to a simple percentage-based metric; and
+
+&emsp;&emsp;“(B) shall employ a full-scale analysis of cost avoidance—
+
+&emsp;&emsp;&emsp;“(i) based on a multiyear procurement; and
+
+&emsp;&emsp;&emsp;“(ii) taking into account the potential benefit any accrued savings might have for future shipbuilding programs if the cost avoidance savings were subsequently utilized for further ship construction.
+
+“(b)
+
+Certificate To Operate.—The Commandant of the Coast Guard may not certify a sixth National Security Cutter as Ready for Operations before the Commandant has—
+
+&emsp;“(1) submitted to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives program execution plans detailing—
+
+&emsp;&emsp;“(A) how the first 3 National Security Cutters will achieve the goal of 225 days away from homeport in fiscal years following the completion of the Structural Enhancement Drydock Availability of the first 2 National Security Cutters; and
+
+&emsp;&emsp;“(B) increased aerial coverage to support National Security Cutter operations; and
+
+&emsp;“(2) awarded a contract for detailed design and construction for the Offshore Patrol Cutter.”
 

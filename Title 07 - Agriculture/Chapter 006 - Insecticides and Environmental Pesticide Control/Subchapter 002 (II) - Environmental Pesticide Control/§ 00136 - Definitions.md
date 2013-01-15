@@ -76,7 +76,7 @@ The term “environment” includes water, air, land, and all plants and man and
 
 The term “fungus” means any non-chlorophyll-bearing thallophyte (that is, any non-chlorophyll-bearing plant of a lower order than mosses and liverworts), as for example, rust, smut, mildew, mold, yeast, and bacteria, except those on or in living man or other animals and those on or in processed food, beverages, or pharmaceuticals.
 
-#### (<i>l</i>) Imminent hazard
+#### (l) Imminent hazard
 
 The term “imminent hazard” means a situation which exists when the continued use of a pesticide during the time required for cancellation proceeding would be likely to result in unreasonable adverse effects on the environment or will involve unreasonable hazard to the survival of a species declared endangered or threatened by the Secretary pursuant to the Endangered Species Act of 1973 \[16 U.S.C. 1531 et seq.\].
 
@@ -92,7 +92,7 @@ The term “ingredient statement” means a statement which contains—
 
 &emsp;(2) if the pesticide contains arsenic in any form, a statement of the percentages of total and water soluble arsenic, calculated as elementary arsenic.
 
-#### (<i>o</i>) Insect
+#### (o) Insect
 
 The term “insect” means any of the numerous small invertebrate animals generally having the body more or less obviously segmented, for the most part belonging to the class insecta, comprising six-legged, usually winged forms, as for example, beetles, bugs, bees, flies, and to other allied classes of arthropods whose members are wingless and usually have more than six legs, as for example, spiders, mites, ticks, centipedes, and wood lice.
 
@@ -180,7 +180,7 @@ The term “plant regulator” means any substance or mixture of substances inte
 
 #### (w) Producer and produce
 
-The term “producer” means the person who manufactures, prepares, compounds, propagates, or processes any pesticide or device or active ingredient used in producing a pesticide. The term “produce” means to manufacture, prepare, compound, propagate, or process any pesticide or device or active ingredient used in producing apesticide. The dilution by individuals of formulated pesticides for their own use and according to the directions on registered labels shall not of itself result in such individuals being included in the definition of “producer” for the purposes of this subchapter.
+The term “producer” means the person who manufactures, prepares, compounds, propagates, or processes any pesticide or device or active ingredient used in producing a pesticide. The term “produce” means to manufacture, prepare, compound, propagate, or process any pesticide or device or active ingredient used in producing a pesticide. The dilution by individuals of formulated pesticides for their own use and according to the directions on registered labels shall not of itself result in such individuals being included in the definition of “producer” for the purposes of this subchapter.
 
 #### (x) Protect health and the environment
 
@@ -196,7 +196,7 @@ The term “registration” includes reregistration.
 
 #### (aa) State
 
-The term “State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, the Trust Territory of the Pacific Islands, and American Samoa.
+The term “State” means a State, the District of Columbia, the Commonwealth of Puerto Rico,the Virgin Islands, Guam, the Trust Territory of the Pacific Islands, and American Samoa.
 
 #### (bb) Unreasonable adverse effects on the environment
 
@@ -246,7 +246,7 @@ The term “nitrogen stabilizer” means any substance or mixture of substances 
 
 &emsp;&emsp;(B) that was in commercial agronomic use prior to January 1, 1992, with respect to which after January 1, 1992, the distributor or seller of the substance or mixture has made no specific claim of prevention or hindering of the process of nitrification, denitrification, ammonia volatilization <sup>3</sup> urease production regardless of the actual use or purpose for, or future use or purpose for, the substance or mixture.
 
-> Statements made in materials required to be submitted to any State legislative or regulatory authority, or required by such authority to be included in the labeling or other literature accompanying any such substance or mixture shall not be deemed a specific claim within the meaning of this subsection.
+> Statements made in materials required to be submitted to any State legislative or regulatory authority, or required by such authority to be included in the labeling or other literature accompanying any such substance or mixtureshall not be deemed a specific claim within the meaning of this subsection.
 
 #### (jj) <sup>4</sup> Maintenance applicator
 
@@ -256,7 +256,7 @@ The term “maintenance applicator” means any individual who, in the principal
 
 The term “service technician” means any individual who uses or supervises the use of pesticides (other than a ready to use consumer products pesticide) for the purpose of providing structural pest control or lawn pest control on the property of another for a fee. The term “service technician” does not include individuals who use antimicrobial pesticides, sanitizers or disinfectants; or who otherwise apply ready to use consumer products pesticides.
 
-#### (<i>ll</i>) Minor use
+#### (ll) Minor use
 
 The term “minor use” means the use of a pesticide on an animal, on a commercial agricultural crop or site, or for the protection of public health where—
 
@@ -304,9 +304,9 @@ The term “minor use” means the use of a pesticide on an animal, on a commerc
 
 #### (nn) Public health pesticide
 
-The term “public health pesticide” means any minor use pesticide product registered for use and used predominantly in public health programs for vector control or for other recognized health protection uses, including the prevention or mitigation of viruses, bacteria, or other microorganisms (other than viruses, bacteria, orother microorganisms on or in living man or other living animal) that pose a threat to public health.
+The term “public health pesticide” means any minor use pesticide product registered for use and used predominantly in public health programs for vector control or for other recognized health protection uses, including the prevention or mitigation of viruses, bacteria, or other microorganisms (other than viruses, bacteria, or other microorganisms on or in living man or other living animal) that pose a threat to public health.
 
-#### (<i>oo</i>) Vector
+#### (oo) Vector
 
 The term “vector” means any organism capable of transmitting the causative agent of human disease or capable of producing human discomfort or injury, including mosquitoes, flies, fleas, cockroaches, or other insects and ticks, mites, or rats.
 
@@ -314,7 +314,7 @@ The term “vector” means any organism capable of transmitting the causative a
 
 #### References in Text
 
-The Endangered Species Act of 1973, referred to in subsec. (<i>l</i>), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (l), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
 
 Section 321 of title 21, referred to in subsec. (u), was subsequently amended, and subsecs. (w) and (x) of section 321 no longer define the terms “new animal drug” and “animal feed”, respectively. However, such terms are defined elsewhere in that section.
 
@@ -340,11 +340,11 @@ Subsec. (hh). Pub. L. 104–170, §105(a)(3), added subsec. (hh).
 
 Subsecs. (jj), (kk). Pub. L. 104–170, §120, added subsecs. (jj) and (kk).
 
-Subsec. (<i>ll</i>). Pub. L. 104–170, §210(a), added subsec. (<i>ll</i>).
+Subsec. (ll). Pub. L. 104–170, §210(a), added subsec. (ll).
 
 Subsec. (mm). Pub. L. 104–170, §221(2), added subsec. (mm).
 
-Subsecs. (nn), (<i>oo</i>). Pub. L. 104–170, §230(b), added subsecs. (nn) and (<i>oo</i>).
+Subsecs. (nn), (oo). Pub. L. 104–170, §230(b), added subsecs. (nn) and (oo).
 
 <b>1991</b>—Subsec. (e)(1). Pub. L. 102–237, §1006(a)(1), substituted “section 136i” for “section 136b” and “uses dilutions” for “use dilutions” and made technical amendment to reference to subsection (ee) of this section involving corresponding provision of original act.
 
@@ -384,11 +384,11 @@ Subsec. (ee). Pub. L. 95–396, §1(7), added subsec. (ee).
 
 <b>1975</b>—Subsec. (u). Pub. L. 94–140 inserted proviso which excluded from term “pesticide” any article designated as “new animal drug” and any article denominated as animal feed.
 
-<b>1973</b>—Subsec. (<i>l</i>). Pub. L. 93–205 substituted “or threatened by the Secretary pursuant to the Endangered Species Act of 1973” for “by the Secretary of the Interior under Public Law 91–135”.
+<b>1973</b>—Subsec. (l). Pub. L. 93–205 substituted “or threatened by the Secretary pursuant to the Endangered Species Act of 1973” for “by the Secretary of the Interior under Public Law 91–135”.
 
 #### Effective Date of 1988 Amendment
 
-Section 901 of Pub. L. 100–532 provided that: “Except as otherwise provided in this Act, the amendments made by this Act \[see Short Title of 1988 Amendment note below\] shall take effect on the expiration of 60 days after the date of enactment of this Act \[Oct. 25, 1988\].”
+Pub. L. 100–532, title IX, §901, Oct. 25, 1988, 102 Stat. 2688, provided that: “Except as otherwise provided in this Act, the amendments made by this Act \[see Short Title of 1988 Amendment note below\] shall take effect on the expiration of 60 days after the date of enactment of this Act \[Oct. 25, 1988\].”
 
 #### Effective Date of 1973 Amendment
 
@@ -396,7 +396,7 @@ Amendment by Pub. L. 93–205 effective Dec. 28, 1973, see section 16 of Pub. L.
 
 #### Effective Date
 
-Section 4 of Pub. L. 92–516, as amended by Pub. L. 94–140, §4, Nov. 28, 1975, 89 Stat. 752; Pub. L. 95–396, §28, Sept. 30, 1978, 92 Stat. 842, provided that:
+Pub. L. 92–516, §4, Oct. 21, 1972, 86 Stat. 998, as amended by Pub. L. 94–140, §4, Nov. 28, 1975, 89 Stat. 752; Pub. L. 95–396, §28, Sept. 30, 1978, 92 Stat. 842, provided that:
 
 “(a) Except as otherwise provided in the Federal Insecticide, Fungicide, and Rodenticide Act \[this subchapter\], as amended by this Act and as otherwise provided by this section, the amendments made by this Act \[see Short Title note set out below\] shall take effect at the close of the date of the enactment of this Act \[Oct. 21, 1972\], provided if regulations are necessary for the implementation of any provision that becomes effective on the date of enactment, such regulations shall be promulgated and shall become effective within 90 days from the date of enactment of this Act.
 
@@ -420,6 +420,10 @@ Section 4 of Pub. L. 92–516, as amended by Pub. L. 94–140, §4, Nov. 28, 197
 
 “(e) For purposes of determining any criminal or civil penalty or liability to any third person in respect of any act or omission occurring before the expiration of the periods referred to in this section, the Federal Insecticide, Fungicide, and Rodenticide Act shall be treated as continuing in effect as if this Act had not been enacted.”
 
+#### Short Title of 2012 Amendment
+
+Pub. L. 112–177, §1, Sept. 28, 2012, 126 Stat. 1327, provided that: “This Act \[amending sections 136a–1 and 136w–8 of this title and section 346a of Title 21, Food and Drugs, and enacting provisions set out as notes under section 136a–1 of this title\] may be cited as the ‘Pesticide Registration Improvement Extension Act of 2012’.”
+
 #### Short Title of 2007 Amendment
 
 Pub. L. 110–94, §1, Oct. 9, 2007, 121 Stat. 1000, provided that: “This Act \[amending sections 136a, 136a–1, and 136w–8 of this title and section 346a of Title 21, Food and Drugs, and enacting provisions set out as a note under section 136a of this title\] may be cited as the ‘Pesticide Registration Improvement Renewal Act’.”
@@ -430,23 +434,23 @@ Pub. L. 108–199, div. G, title V, §501(a), Jan. 23, 2004, 118 Stat. 419, prov
 
 #### Short Title of 1996 Amendment
 
-Section 1 of Pub. L. 104–170 provided that: “This Act \[enacting sections 136i–2, 136r–1, and 136w–5 to 136w–7 of this title, amending this section, sections 136a, 136a–1, 136d, 136q, 136s, 136w, 136w–3, 136x, and 136y of this title, and sections 321, 331, 333, 342, and 346a of Title 21, Food and Drugs, and enacting provisions set out as notes under section 136i–2 of this title and sections 301 and 346a of Title 21\] may be cited as the ‘Food Quality Protection Act of 1996’.”
+Pub. L. 104–170, §1, Aug. 3, 1996, 110 Stat. 1489, provided that: “This Act \[enacting sections 136i–2, 136r–1, and 136w–5 to 136w–7 of this title, amending this section, sections 136a, 136a–1, 136d, 136q, 136s, 136w, 136w–3, 136x, and 136y of this title, and sections 321, 331, 333, 342, and 346a of Title 21, Food and Drugs, and enacting provisions set out as notes under section 136i–2 of this title and sections 301 and 346a of Title 21\] may be cited as the ‘Food Quality Protection Act of 1996’.”
 
 \[Another Food Quality Protection Act of 1996 was enacted by Pub. L. 104–170, title IV, 110 Stat. 1513, see section 401(a) of Pub. L. 104–170, set out as a note under section 301 of Title 21, Food and Drugs.\]
 
 #### Short Title of 1988 Amendment
 
-Section 1(a) of Pub. L. 100–532 provided that: “This Act \[enacting section 136a–1 of this title, amending this section and sections 136a to 136d, 136f to 136q, 136s, 136v to 136w–2, and 136y of this title, and enacting provisions set out as notes under this section and sections 136m and 136y of this title\] may be cited as the ‘Federal Insecticide, Fungicide, and Rodenticide Act Amendments of 1988’.”
+Pub. L. 100–532, §1(a), Oct. 25, 1988, 102 Stat. 2654, provided that: “This Act \[enacting section 136a–1 of this title, amending this section and sections 136a to 136d, 136f to 136q, 136s, 136v to 136w–2, and 136y of this title, and enacting provisions set out as notes under this section and sections 136m and 136y of this title\] may be cited as the ‘Federal Insecticide, Fungicide, and Rodenticide Act Amendments of 1988’.”
 
 #### Short Title of 1978 Amendment
 
-Section 29 of Pub. L. 95–396 provided that: “This Act \[enacting sections 136w–1 to 136w–4 of this title, amending this section and sections 136a to 136f, 136h, 136j, 136<i>l</i>, 136<i>o</i>, 136q, 136r, 136u to 136w, 136x, and 136y of this title, enacting provisions set out as notes under sections 136a, 136<i>o</i>, and 136w–4 of this title, and amending provisions set out as a note under this section\] may be cited as the ‘Federal Pesticide Act of 1978’.”
+Pub. L. 95–396, §29, Sept. 30, 1978, 92 Stat. 842, provided that: “This Act \[enacting sections 136w–1 to 136w–4 of this title, amending this section and sections 136a to 136f, 136h, 136j, 136l, 136o, 136q, 136r, 136u to 136w, 136x, and 136y of this title, enacting provisions set out as notes under sections 136a, 136o, and 136w–4 of this title, and amending provisions set out as a note under this section\] may be cited as the ‘Federal Pesticide Act of 1978’.”
 
 #### Short Title
 
-Section 1 of Pub. L. 92–516 provided: “That this Act \[amending this subchapter generally, enacting notes set out under this section, and amending sections 1261 and 1471 of Title 15, Commerce and Trade, and sections 321 and 346a of Title 21, Foods and Drugs\] may be cited as the ‘Federal Environmental Pesticide Control Act of 1972’.”
+Pub. L. 92–516, §1, Oct. 21, 1972, 86 Stat. 973, provided: “That this Act \[amending this subchapter generally, enacting notes set out under this section, and amending sections 1261 and 1471 of Title 15, Commerce and Trade, and sections 321 and 346a of Title 21, Foods and Drugs\] may be cited as the ‘Federal Environmental Pesticide Control Act of 1972’.”
 
-Section 1(a) of act June 25, 1947, as added by Pub. L. 92–516, §2, provided that: “This Act \[enacting this subchapter\] may be cited as the ‘Federal Insecticide, Fungicide, and Rodenticide Act’.”
+Act June 25, 1947, ch. 125, §1(a), as added by Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 973, provided that: “This Act \[enacting this subchapter\] may be cited as the ‘Federal Insecticide, Fungicide, and Rodenticide Act’.”
 
 #### Termination of Trust Territory of the Pacific Islands
 

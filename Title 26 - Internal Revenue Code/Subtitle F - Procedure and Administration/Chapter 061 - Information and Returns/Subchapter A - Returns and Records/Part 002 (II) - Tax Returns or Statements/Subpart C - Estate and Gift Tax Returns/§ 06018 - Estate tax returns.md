@@ -24,12 +24,6 @@ If the executor is unable to make a complete return as to any part of the gross 
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 739; Pub. L. 89–809, title I, §108(g), Nov. 13, 1966, 80 Stat. 1574; Pub. L. 94–455, title XIX, §1906(b)(13)(A), title XX, §2001(c)(1)(J), Oct. 4, 1976, 90 Stat. 1834, 1852; Pub. L. 97–34, title IV, §401(a)(2)(B), Aug. 13, 1981, 95 Stat. 299; Pub. L. 98–369, div. A, title V, §544(b)(3), July 18, 1984, 98 Stat. 894; Pub. L. 100–647, title I, §1011A(g)(12), Nov. 10, 1988, 102 Stat. 3482; Pub. L. 101–239, title VII, §7304(b)(2)(B), Dec. 19, 1989, 103 Stat. 2353; Pub. L. 101–508, title XI, §11801(a)(43), (c)(19)(C), Nov. 5, 1990, 104 Stat. 1388–521, 1388–528; Pub. L. 105–34, title V, §501(a)(1)(C), title X, §1073(b)(4), Aug. 5, 1997, 111 Stat. 845, 948; Pub. L. 107–16, title V, §542(b)(1), June 7, 2001, 115 Stat. 81; Pub. L. 111–312, title III, §§301(a), 303(b)(3), Dec. 17, 2010, 124 Stat. 3300, 3303.)
 
-#### Amendment of Section
-
-<i>For termination of amendment by section 304 of Pub. L. 111–312, see Effective and Termination Dates of 2010 Amendment note below.</i>
-
-<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
-
 #### References in Text
 
 Section 2521 of this title, referred to in subsec. (a)(3)(B), was repealed by section 2001(b)(3) of Pub. L. 94–455, applicable to gifts made after Dec. 31, 1976.
@@ -38,37 +32,11 @@ The Tax Reform Act of 1976, referred to in subsec. (a)(3)(B), is Pub. L. 94–45
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–312, §§301(a), 304, temporarily amended section to read as if amendment by Pub. L. 107–16, §542(b)(1), had never been enacted. See 2001 Amendment note and Effective and Termination Dates of 2010 Amendment note below.
+<b>2010</b>—Pub. L. 111–312, §301(a), amended section to read as if amendment by Pub. L. 107–16, §542(b)(1), had never been enacted. See 2001 Amendment note below.
 
-Subsec. (a)(1). Pub. L. 111–312, §§303(b)(3), 304, temporarily substituted “basic exclusion amount” for “applicable exclusion amount”. See Effective and Termination Dates of 2010 Amendment note below.
+Subsec. (a)(1). Pub. L. 111–312, §303(b)(3), substituted “basic exclusion amount” for “applicable exclusion amount”.
 
-<b>2001</b>—Pub. L. 107–16, §§542(b)(1), 901, temporarily amended section generally. Prior to amendment, text read as follows:
-
-“(a)
-
-Returns by Executor.—
-
-&emsp;“(1)
-
-Citizens or residents.—In all cases where the gross estate at the death of a citizen or resident exceeds the applicable exclusion amount in effect under section 2010(c) for the calendar year which includes the date of death, the executor shall make a return with respect to the estate tax imposed by subtitle B.
-
-&emsp;“(2)
-
-Nonresidents not citizens of the united states.—In the case of the estate of every nonresident not a citizen of the United States if that part of the gross estate which is situated in the United States exceeds $60,000, the executor shall make a return with respect to the estate tax imposed by subtitle B.
-
-&emsp;“(3)
-
-Adjustment for certain gifts.—The amount applicable under paragraph (1) and the amount set forth in paragraph (2) shall each be reduced (but not below zero) by the sum of—
-
-&emsp;&emsp;“(A) the amount of the adjusted taxable gifts (within the meaning of section 2001(b)) made by the decedent after December 31, 1976, plus
-
-&emsp;&emsp;“(B) the aggregate amount allowed as a specific exemption under section 2521 (as in effect before its repeal by the Tax Reform Act of 1976) with respect to gifts made by the decedent after September 8, 1976.
-
-“(b)
-
-Returns by Beneficiaries.—If the executor is unable to make a complete return as to any part of the gross estate of the decedent, he shall include in his return a description of such part and the name of every person holding a legal or beneficial interest therein. Upon notice from the Secretary such person shall in like manner make a return as to such part of the gross estate.”
-
-> See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Pub. L. 107–16, §542(b)(1), amended section generally, substituting provisions related to tax returns for certain large transfers at death for provisions related to estate tax returns.
 
 <b>1997</b>—Subsec. (a)(1). Pub. L. 105–34, §501(a)(1)(C), substituted “the applicable exclusion amount in effect under section 2010(c) for the calendar year which includes the date of death” for “$600,000”.
 
@@ -92,7 +60,7 @@ Return by executor.—The return which the executor is required to file under th
 
 &emsp;“(2)
 
-Return by plan administrator.—The plan administrator of an employee stock ownership plan or the eligible worker-owned cooperative, as the case may be, shall make a return with respect to that portion of the tax imposed by section 2001 which such plan or cooperative is required to pay under section 2210(b).”
+Return by plan administrator.—The plan administrator of an employee stock ownership plan orthe eligible worker-owned cooperative, as the case may be, shall make a return with respect to that portion of the tax imposed by section 2001 which such plan or cooperative is required to pay under section 2210(b).”
 
 <b>1988</b>—Subsec. (a)(5). Pub. L. 100–647 added par. (5).
 
@@ -112,19 +80,15 @@ Subsec. (b). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate�
 
 <b>1966</b>—Subsec. (a)(2). Pub. L. 89–809 substituted “$30,000” for “$2,000”.
 
-#### Effective and Termination Dates of 2010 Amendment
+#### Effective Date of 2010 Amendment
 
-Amendment by section 301(a) of Pub. L. 111–312 applicable to estates of decedents dying, and transfers made after Dec. 31, 2009, except as otherwise provided, see section 301(e) of Pub. L. 111–312, set out as a note under section 121 of this title.
+Amendment by section 301(a) of Pub. L. 111–312 applicable to estates of decedents dying, and transfers made after Dec. 31, 2009, except as otherwise provided, see section 301(e) of Pub. L. 111–312, set out as an Effective and Termination Dates of 2010 Amendment note under section 121 of this title.
 
-Amendment by section 303(b)(3) of Pub. L. 111–312 applicable to estates of decedents dying and gifts made after Dec. 31, 2010, see section 303(c)(1) of Pub. L. 111–312, set out as an Effective Date of 2010 Amendment note under section 2010 of this title.
+Amendment by section 303(b)(3) of Pub. L. 111–312 applicable to estates of decedents dying and gifts made after Dec. 31, 2010, see section 303(c)(1) of Pub. L. 111–312, set out as a note under section 2010 of this title.
 
-Section 901 of Pub. L. 107–16 applicable to amendments by sections 301(a) and 303(b)(3) of Pub. L. 111–312, see section 304 of Pub. L. 111–312, set out as a note under section 121 of this title.
-
-#### Effective and Termination Dates of 2001 Amendment
+#### Effective Date of 2001 Amendment
 
 Amendment by Pub. L. 107–16 applicable to estates of decedents dying after Dec. 31, 2009, see section 542(f)(1) of Pub. L. 107–16, set out as a note under section 121 of this title.
-
-Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 

@@ -20,6 +20,10 @@ Historical and Revision Notes
 
 A definition of “agency” is added to avoid having to repeat the substance of the definition at various places in the revised title.
 
+#### Short Title of 2012 Amendment
+
+Pub. L. 112–213, title V, §501, Dec. 20, 2012, 126 Stat. 1574, provided that: “This title \[enacting section 51705 of this title, amending section 55305 of this title, and enacting provisions set out as a note under section 51705 of this title\] may be cited as the ‘Piracy Suppression Act of 2012’.”
+
 #### Short Title of 2010 Amendment
 
 Pub. L. 111–281, title VI, §601, Oct. 15, 2010, 124 Stat. 2959, provided that: “This title \[see Tables for classification\] may be cited as the ‘Maritime Safety Act of 2010’.”

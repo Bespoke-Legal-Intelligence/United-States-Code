@@ -170,7 +170,7 @@ In this section:
 
 #### (3) Intermediaries
 
-&emsp;The Secretary may enter into a contract with a qualified intermediary under which the intermediary shall be responsible for providing administrative and technical assistance to a State rural development council, including administering the financial assistance available to the State rural development council.
+&emsp;The Secretary may enter into a contract with a qualified intermediary under which the intermediary shall be responsible for providing administrative and technical assistance to aState rural development council, including administering the financial assistance available to the State rural development council.
 
 #### (f) Matching requirements for State rural development councils
 
@@ -217,6 +217,8 @@ The authority provided under this section shall terminate on September 30, 2012.
 (Pub. L. 87–128, title III, §378, as added Pub. L. 107–171, title VI, §6021, May 13, 2002, 116 Stat. 363; amended Pub. L. 110–234, title VI, §6019, May 22, 2008, 122 Stat. 1172; Pub. L. 110–246, §4(a), title VI, §6019, June 18, 2008, 122 Stat. 1664, 1933.)
 
 #### Codification
+
+The authorities provided by each provision of, and each amendment made by, Pub. L. 110–246, as in effect on Sept. 30, 2012, to continue, and the Secretary of Agriculture to carry out the authorities, until the later of Sept. 30, 2013, or the date specified in the provision of, or amendment made by, Pub. L. 110–246, see section 701(a) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under section 8701 of this title.
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 

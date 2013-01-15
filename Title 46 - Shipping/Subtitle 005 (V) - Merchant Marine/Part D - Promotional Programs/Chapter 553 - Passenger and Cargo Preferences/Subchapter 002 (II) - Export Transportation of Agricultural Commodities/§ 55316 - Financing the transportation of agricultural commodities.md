@@ -1,8 +1,6 @@
 ### §55316. Financing the transportation of agricultural commodities
 
-(a)
-
-Financing of Increased Charges.—The Secretary of Transportation shall finance any increased ocean freight charges incurred in any fiscal year that result from the application of section 55314 of this title.
+\[(a) Repealed. Pub. L. 112–141, div. F, title I, §100124(b), July 6, 2012, 126 Stat. 915.\]
 
 (b)
 
@@ -26,7 +24,7 @@ Issuance and Purchase of Obligations.—
 
 &emsp;(1)
 
-Issuance.—To meet the expenses required to be assumed under subsections (a) and (b), the Secretary of Transportation shall issue obligations to the Secretary of the Treasury. The Secretary of Transportation, with the approval of the Secretary of the Treasury, shall prescribe the form, denomination, maturity, and other terms (except the interest rate) of the obligations. The Secretary of the Treasury shall set the interest rate for the obligations, considering the average market yield on outstanding marketable obligations of the United States Government of comparable maturities during the month before the obligations are issued.
+Issuance.—To meet the expenses required to be assumed under subsection (b), the Secretary of Transportation shall issue obligations to the Secretary of the Treasury. The Secretary of Transportation, with the approval of the Secretary of the Treasury, shall prescribe the form, denomination, maturity, and other terms (except the interest rate) of the obligations. The Secretary of the Treasury shall set the interest rate for the obligations, considering the average market yield on outstanding marketable obligations of the United States Government of comparable maturities during the month before the obligations are issued.
 
 &emsp;(2)
 
@@ -50,9 +48,9 @@ Appropriation for administrative expenses.—Each fiscal year, such amounts as m
 
 (f)
 
-Notification to Congress of Insufficiency.—If the Secretary of Transportation is unable to obtain the funds necessary to finance the increased ocean freight charges resulting from the requirements of subsections (a) and (b) and section 55314(a) of this title, the Secretary shall notify Congress within 10 working days of the discovery of the insufficiency.
+Notification to Congress of Insufficiency.—If the Secretary of Transportation is unable to obtain the funds necessary to finance the increased ocean freight charges resulting from the requirements of subsection (b), the Secretary shall notify Congress within 10 working days of the discovery of the insufficiency.
 
-(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1647; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(Y), June 18, 2008, 122 Stat. 1820, 1821.)
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1647; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(Y), June 18, 2008, 122 Stat. 1820, 1821; Pub. L. 112–141, div. F, title I, §100124(b), (c)(2), July 6, 2012, 126 Stat. 915.)
 
 Historical and Revision Notes
 
@@ -107,6 +105,12 @@ In subsection (e)(1), the words “commencing with the fiscal year beginning Oct
 In subsection (f), the words “Notwithstanding the provisions of this section” are omitted as unnecessary.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a). Pub. L. 112–141, §100124(b), struck out subsec. (a). Text read as follows: “The Secretary of Transportation shall finance any increased ocean freight charges incurred in any fiscal year that result from the application of section 55314 of this title.”
+
+Subsec. (c)(1). Pub. L. 112–141, §100124(c)(2)(A), substituted “under subsection (b)” for “under subsections (a) and (b)”.
+
+Subsec. (f). Pub. L. 112–141, §100124(c)(2)(B), substituted “subsection (b)” for “subsections (a) and (b) and section 55314(a) of this title”.
 
 <b>2008</b>—Subsec. (b)(2). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
 

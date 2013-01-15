@@ -52,13 +52,13 @@ The Secretaries may issue regulations to implement this section.
 
 <b>1988</b>—Subsecs. (c)(2), (d)(2). Pub. L. 100–589 substituted “Magnuson Act” for “Act of 1976”.
 
-<b>1986</b>—Pub. L. 99–432, §3(b), which directed the substitution of “Secretaries” for “Secretary”, was executedby making the substitution in subsec. (a)(2), in three places in subsec. (c), and in two places in subsec. (e) to reflect the probable intent of Congress.
+<b>1986</b>—Pub. L. 99–432, §3(b), which directed the substitution of “Secretaries” for “Secretary”, was executed by making the substitution in subsec. (a)(2), in three places in subsec. (c), and in two places in subsec. (e) to reflect the probable intent of Congress.
 
 Pub. L. 99–432, §3(a), which directed the substitution of “section 5153(b)” for “section 5153(d)”, was executed by making the substitution in subsecs. (a)(1), (2), (b)(3), and (e) to reflect the probable intent of Congress.
 
 #### Effective Date of 1996 Amendment
 
-Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, providedthat the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
 #### Transfer of Functions
 

@@ -84,7 +84,7 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 #### Effective Date
 
-Section 671(b)(1) of Pub. L. 99–145 provided that: “The authority provided under section 2171 of title 10, United States Code, as added by subsection (a), shall apply only—
+Pub. L. 99–145, title VI, §671(b)(1), Nov. 8, 1985, 99 Stat. 663, provided that: “The authority provided under section 2171 of title 10, United States Code, as added by subsection (a), shall apply only—
 
 &emsp;“(A) in the case of persons who enlist or reenlist in the Selected Reserve of the Ready Reserve of an Armed Force or enlist or reenlist for service on active duty after September 30, 1980;
 

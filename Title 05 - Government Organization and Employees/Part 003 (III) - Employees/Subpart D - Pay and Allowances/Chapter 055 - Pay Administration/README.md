@@ -179,7 +179,7 @@ Pub. L. 95–390, title IV, §401(b), Sept. 29, 1978, 92 Stat. 762, added item 5
 
 <b>1974</b>—Pub. L. 93–340, §1(b), July 10, 1974, 88 Stat. 294, added item 5520.
 
-<b>1972</b>—Pub. L. 92–453, §3(2), Oct. 2, 1972, 86 Stat. 760, substituted “overpayment of pay and allowances, other than travel and transportation expenses and allowancesand relocation expenses” for “overpayment of pay” in item 5584.
+<b>1972</b>—Pub. L. 92–453, §3(2), Oct. 2, 1972, 86 Stat. 760, substituted “overpayment of pay and allowances, other than travel and transportation expenses and allowances and relocation expenses” for “overpayment of pay” in item 5584.
 
 Pub. L. 92–392, §10(b), Aug. 19, 1972, 86 Stat. 574, added item 5550.
 

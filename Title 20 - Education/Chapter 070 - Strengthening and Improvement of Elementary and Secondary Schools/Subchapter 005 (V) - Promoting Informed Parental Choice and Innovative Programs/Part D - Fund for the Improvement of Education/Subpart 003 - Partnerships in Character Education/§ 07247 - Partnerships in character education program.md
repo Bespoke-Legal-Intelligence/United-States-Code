@@ -112,7 +112,7 @@ Of the total funds received in any fiscal year under this section by an eligible
 
 #### (1) In general
 
-&emsp;Each eligible entity desiring a grant under this section shall submit an application to the Secretary at such time and in such manner as the Secretary may require.
+&emsp;Each eligible entity desiring a grant under this section shall submit an application to theSecretary at such time and in such manner as the Secretary may require.
 
 #### (2) Required information
 
@@ -138,7 +138,7 @@ Of the total funds received in any fiscal year under this section by an eligible
 
 &emsp;&emsp;(E) in the case of an eligible entity that is a State educational agency, describes how the State educational agency—
 
-&emsp;&emsp;&emsp;(i) will provide technical and professional assistance to its local educationalagency partners in the development and implementation of character education programs; and
+&emsp;&emsp;&emsp;(i) will provide technical and professional assistance to its local educational agency partners in the development and implementation of character education programs; and
 
 &emsp;&emsp;&emsp;(ii) will assist other interested local educational agencies that are not members of the original partnership in designing and establishing character education programs;
 

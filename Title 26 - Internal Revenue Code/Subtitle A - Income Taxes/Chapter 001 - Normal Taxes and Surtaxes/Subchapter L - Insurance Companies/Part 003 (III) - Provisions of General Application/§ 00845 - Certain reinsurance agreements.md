@@ -28,7 +28,7 @@ Pub. L. 108–357, title VIII, §803(b), Oct. 22, 2004, 118 Stat. 1569, provided
 
 #### Effective Date
 
-Section 217(d) of title II of div. A of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–369, div. A, title II, §217(d), July 18, 1984, 98 Stat. 762, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1) Subsection (a) of section 845 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by this title) shall apply with respect to any risk reinsured on or after September 27, 1983.
 

@@ -40,7 +40,7 @@ Subsec. (f). Pub. L. 105–82, §4, added subsec. (f).
 
 #### Findings and Purpose of 1997 Amendment
 
-Section 2 of Pub. L. 105–82 provided that:
+Pub. L. 105–82, §2, Nov. 13, 1997, 111 Stat. 1540, provided that:
 
 “(a)
 
@@ -72,5 +72,5 @@ Findings.—Congress finds that—
 
 “(b)
 
-Purpose.—It is the purpose of this Act \[see Short Title of 1997 Amendment note set out under section 410r–5 of this title\] to commemorate the vision, leadership, and enduring contributions of Marjory Stoneman Douglas and Ernest F. Coe to the protection of the Everglades and the establishment of Everglades National Park.”
+Purpose.—It is the purpose of this Act \[see Short Title of 1997 Amendment note set out under section 410r–5 of this title\] to commemorate the vision, leadership, and enduring contributions of Marjory StonemanDouglas and Ernest F. Coe to the protection of the Everglades and the establishment of Everglades National Park.”
 

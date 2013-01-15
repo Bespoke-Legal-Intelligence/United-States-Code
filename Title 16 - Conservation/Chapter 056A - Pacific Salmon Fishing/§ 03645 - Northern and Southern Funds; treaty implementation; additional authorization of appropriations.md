@@ -24,7 +24,7 @@ Fund Management.—
 
 &emsp;&emsp;(ii) the conduct of the Alaskan fisheries pursuant to the 1999 Pacific Salmon Treaty Agreement, without further clarification or modification of the management regimes contained therein; and
 
-&emsp;&emsp;(iii) the decision by the North Pacific Fisheries Management Council to continue to defer its management authority over salmon to the State of Alaska are not likely to cause jeopardy to, or adversely modify designated critical habitat of, any salmonid species listed under Public Law 93–205, as amended \[16 U.S.C. 1531 et seq.\], in any fishery subject to the Pacific Salmon Treaty.
+&emsp;&emsp;(iii) the decision by the North Pacific Fisheries Management Council to continue to defer its management authority over salmon to the State of Alaska are not likely to cause jeopardy to, or adversely modify designated critical habitat of, any salmonid species listed under Public Law 93–205, asamended \[16 U.S.C. 1531 et seq.\], in any fishery subject to the Pacific Salmon Treaty.
 
 (2) If the requests for orders in subparagraph (1)(A) are withdrawn after December 31, 1999, or if such orders are not entered by March 1, 2000, amounts in the Northern Fund and the Southern Fund shall be transferred to the general fund of the United States Treasury.
 
@@ -80,7 +80,7 @@ Pub. L. 109–479, §302(d)(1), which directed that the text of section 623 of t
 
 Subsec. (d)(2)(A). Pub. L. 109–479, §302(d)(2), inserted “sustainable salmon fisheries,” after “enhancement,”, “2005, 2006, 2007, 2008, and 2009,” after “2003,”, and “Idaho,” after “Oregon,”.
 
-<b>2004</b>—Pub. L. 108–447, which directed the amendment of section 628(2)(A) of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2001, Pub. L. 106–553, by substituting “2005” for “2000, 2001, 2002, and 2003” and inserting “Idaho,” after “Oregon,”, was not executed, because this section was enacted by Pub. L. 106–113, and section 628 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2001, was an amendatory provision. See 2007 Amendment note above and 2000 Amendment note below.
+<b>2004</b>—Pub. L. 108–447, which directed the amendment of section 628(2)(A) of the Departments of Commerce,Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2001, Pub. L. 106–553, by substituting “2005” for “2000, 2001, 2002, and 2003” and inserting “Idaho,” after “Oregon,”, was not executed, because this section was enacted by Pub. L. 106–113, and section 628 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2001, was an amendatory provision. See 2007 Amendment note above and 2000 Amendment note below.
 
 <b>2000</b>—Subsec. (a)(1). Pub. L. 106–553, §1(a)(2) \[title VI, §628(a)\], which directed the amendment of par. (1) by striking out “The Northern Fund and Southern Fund shall each receive $10,000,000 of the amounts authorized by this section.”, was executed by striking out “The Northern Fund and Southern Fund shall each receive $10,000,000, of the amounts authorized by this section.” after the second sentence, to reflect the probable intent of Congress.
 

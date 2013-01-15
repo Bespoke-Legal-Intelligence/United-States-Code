@@ -2,7 +2,7 @@
 
 #### (a) Participation in interagency activities
 
-The National Oceanic and Atmospheric Administration shall be a full participant in anyinteragency effort to promote innovation and economic competitiveness through near-term and long-term basic scientific research and development and the promotion of science, technology, engineering, and mathematics education, consistent with the agency mission, including authorized activities.
+The National Oceanic and Atmospheric Administration shall be a full participant in any interagency effort to promote innovation and economic competitiveness through near-term and long-term basic scientific research and development and the promotion of science, technology, engineering, and mathematics education, consistent with the agency mission, including authorized activities.
 
 #### (b) Historic foundation
 

@@ -56,7 +56,7 @@ In subsec. (b)(8), “section 50501 of title 46” substituted for “section 2 
 
 <b>1982</b>—Subsec. (c). Pub. L. 97–347 substituted “September 30, 1983” for “September 30, 1982” wherever appearing.
 
-<b>1980</b>—Subsec. (c). Pub. L. 96–478 substituted “September 30, 1982” for “September 30, 1980” wherever appearing and struck out interest payment provisions respecting, payment at close of each fiscal year from fisheries loan fund into miscellaneous receipts of the Treasury on cumulative amount of appropriations available as capital to the fund from and after July 1, 1965, less average undispersed balance in the fund during the year, determination of interest rate on basis of average market yield during month preceding each fiscal year onoutstanding Treasury obligations of maturity comparable to average maturity of loans made from the fund, and interest payment deferrals approved by the Secretary of the Treasury subject to interest on deferred amounts.
+<b>1980</b>—Subsec. (c). Pub. L. 96–478 substituted “September 30, 1982” for “September 30, 1980” wherever appearing and struck out interest payment provisions respecting, payment at close of each fiscal year from fisheries loan fund into miscellaneous receipts of the Treasury on cumulative amount of appropriations available as capital to the fund from and after July 1, 1965, less average undispersed balance in the fund during the year, determination of interest rate on basis of average market yield during month preceding each fiscal year on outstanding Treasury obligations of maturity comparable to average maturity of loans made from the fund, and interest payment deferrals approved by the Secretary of the Treasury subject to interest on deferred amounts.
 
 <b>1976</b>—Subsec. (c). Pub. L. 94–273 substituted “September” for “June” wherever appearing.
 
@@ -82,15 +82,15 @@ Subsec. (c). Pub. L. 89–85, §4, extended term for making fisheries loans from
 
 #### Effective Date of 1980 Amendment
 
-Section 16(b) of Pub. L. 96–478 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on September 1, 1980.”
+Pub. L. 96–478, §16(b), Oct. 21, 1980, 94 Stat. 2304, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on September 1, 1980.”
 
 #### Effective Date of 1970 Amendment; Fisheries Loan Fund Available for Loans From July 1, 1970 to Close of June 30, 1980
 
-Section 3 of Pub. L. 91–387 provided that: “The provisions of this Act \[amending this section\] shall be effective July 1, 1970. Notwithstanding the provisions of section 4(c) of the Fish and Wildlife Act of 1956, as amended \[subsec. (c) of this section\], any balance remaining in the fisheries loan fund at the close of June 30, 1970, shall be available to make loans for the purposes of section 4 of said Act \[this section\] from July 1, 1970, to the close of June 30, 1980.”
+Pub. L. 91–387, §3, Aug. 24, 1970, 84 Stat. 829, provided that: “The provisions of this Act \[amending this section\] shall be effective July 1, 1970. Notwithstanding the provisions of section 4(c) of the Fish and Wildlife Act of 1956, as amended \[subsec. (c) of this section\], any balance remaining in the fisheries loan fund at the close of June 30, 1970, shall be available to make loans for the purposes of section 4 of said Act \[this section\] from July 1, 1970, to the close of June 30, 1980.”
 
 #### Effective Date of 1965 Amendment; Remaining Funds; Availability for Loans
 
-Section 5 of Pub. L. 89–85 provided that: “The provisions of this Act \[amending this section\] shall be effective July 1, 1965. Notwithstanding the provisions of section 4(c) of the Fish and Wildlife Act of 1956, as amended \[subsec. (c) of this section\], any balance remaining in the fisheries loan fund at the close of June 30, 1965, shall be available to make loans for the purposes of section 4 of said Act \[this section\] from July 1, 1965, to the close of June 30, 1970.”
+Pub. L. 89–85, §5, July 24, 1965, 79 Stat. 263, provided that: “The provisions of this Act \[amending this section\] shall be effective July 1, 1965. Notwithstanding the provisions of section 4(c) of the Fish and Wildlife Act of 1956, as amended \[subsec. (c) of this section\], any balance remaining in the fisheries loan fund at the close of June 30, 1965, shall be available to make loans for the purposes of section 4 of said Act \[this section\] from July 1, 1965, to the close of June 30, 1970.”
 
 #### Transfer of Functions
 

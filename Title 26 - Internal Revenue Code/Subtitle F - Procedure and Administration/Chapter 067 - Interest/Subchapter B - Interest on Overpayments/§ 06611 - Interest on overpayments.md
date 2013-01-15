@@ -124,7 +124,7 @@ The provisions of section 6513 (except the provisions of subsection (c) thereof,
 
 &emsp;&emsp;<b>For prohibition of administrative review, see section 6406.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 819; Pub. L. 85–866, title I, §§42(b), 83(b), (c), Sept. 2, 1958, 72 Stat. 1640, 1664; Pub. L. 87–834, §2(e)(4), Oct. 16, 1962, 76 Stat. 972; Pub. L. 88–571, §3(e), Sept. 2, 1964, 78 Stat. 858; Pub. L. 89–721, §1(a), Nov. 2, 1966, 80 Stat. 1150; Pub. L. 90–225, §2(f), Dec. 27, 1967, 81 Stat. 732; Pub. L. 91–172, title V, §512(e)(4), Dec. 30, 1969, 83 Stat. 641; Pub. L. 92–178, title VI, §601(d)(4), Dec. 10, 1971, 85 Stat. 559; Pub. L. 93–17, §3(i)(2), Apr. 10, 1973, 87 Stat. 19; Pub. L. 93–625, §7(a)(2)(C), Jan. 3, 1975, 88 Stat. 2115; Pub. L. 94–455, title XIX, §1904(b)(10)(A)(iv), 1906(b)(13)(A), title XXI, §2107(g)(2)(D), Oct. 4, 1976, 90 Stat. 1817, 1834, 1904; Pub. L. 95–30, title II, §202(d)(4)(D), May 23, 1977, 91 Stat. 150; Pub. L. 95–628, §8(c)(3), Nov. 10, 1978, 92 Stat. 3632; Pub. L. 96–223, title I, §101(h), Apr. 2, 1980, 94 Stat. 254; Pub. L. 97–248, title III, §346(a)–(c)(1), Sept. 3, 1982, 96 Stat. 636, 637; Pub. L. 98–369, div. A, title II, §211(b)(27), title VII, §714(n)(2)(A), July 18, 1984, 98 Stat. 757, 963; Pub. L. 99–514, title XV, §1511(c)(13), Oct. 22, 1986, 100 Stat. 2745; Pub. L. 100–418, title I, §1941(b)(2)(L), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 103–66, title XIII, §13271(a), Aug. 10, 1993, 107 Stat. 541; Pub. L. 105–34, title X, §1055(b), Aug. 5, 1997, 111 Stat. 944; Pub. L. 105–206, title VI, §6010(<i>l</i>), July 22, 1998, 112 Stat. 816; Pub. L. 106–554, §1(a)(7) \[title III, §319(20)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–647; Pub. L. 111–147, title V, §501(b), Mar. 18, 2010, 124 Stat. 105.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 819; Pub. L. 85–866, title I, §§42(b), 83(b), (c), Sept. 2, 1958, 72 Stat. 1640, 1664; Pub. L. 87–834, §2(e)(4), Oct. 16, 1962, 76 Stat. 972; Pub. L. 88–571, §3(e), Sept. 2, 1964, 78 Stat. 858; Pub. L. 89–721, §1(a), Nov. 2, 1966, 80 Stat. 1150; Pub. L. 90–225, §2(f), Dec. 27, 1967, 81 Stat. 732; Pub. L. 91–172, title V, §512(e)(4), Dec. 30, 1969, 83 Stat. 641; Pub. L. 92–178, title VI, §601(d)(4), Dec. 10, 1971, 85 Stat. 559; Pub. L. 93–17, §3(i)(2), Apr. 10, 1973, 87 Stat. 19; Pub. L. 93–625, §7(a)(2)(C), Jan. 3, 1975, 88 Stat. 2115; Pub. L. 94–455, title XIX, §1904(b)(10)(A)(iv), 1906(b)(13)(A), title XXI, §2107(g)(2)(D), Oct. 4, 1976, 90 Stat. 1817, 1834, 1904; Pub. L. 95–30, title II, §202(d)(4)(D), May 23, 1977, 91 Stat. 150; Pub. L. 95–628, §8(c)(3), Nov. 10, 1978, 92 Stat. 3632; Pub. L. 96–223, title I, §101(h), Apr. 2, 1980, 94 Stat. 254; Pub. L. 97–248, title III, §346(a)–(c)(1), Sept. 3, 1982, 96 Stat. 636, 637; Pub. L. 98–369, div. A, title II, §211(b)(27), title VII, §714(n)(2)(A), July 18, 1984, 98 Stat. 757, 963; Pub. L. 99–514, title XV, §1511(c)(13), Oct. 22, 1986, 100 Stat. 2745; Pub. L. 100–418, title I, §1941(b)(2)(L), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 103–66, title XIII, §13271(a), Aug. 10, 1993, 107 Stat. 541; Pub. L. 105–34, title X, §1055(b), Aug. 5, 1997, 111 Stat. 944; Pub. L. 105–206, title VI, §6010(l), July 22, 1998, 112 Stat. 816; Pub. L. 106–554, §1(a)(7) \[title III, §319(20)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–647; Pub. L. 111–147, title V, §501(b), Mar. 18, 2010, 124 Stat. 105.)
 
 #### Amendments
 
@@ -152,7 +152,7 @@ Subsecs. (g) to (i). Pub. L. 105–34, §1055(b)(2)(D), redesignated subsecs. (h
 
 Refund of Income Tax Caused by Carryback of Foreign Taxes.—For purposes of subsection (a), if any overpayment of tax results from a carryback of tax paid or accrued to foreign countries or possessions of the United States, such overpayment shall be deemed not to have been paid or accrued prior to the filing date (as defined in subsection (f)(3)) for the taxable year under this subtitle in which such taxes were in fact paid or accrued.”
 
-<b>1993</b>—Subsec. (e). Pub. L. 103–66 amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “If any overpayment of tax imposed by subtitle A is refunded within 45 days after the last dateprescribed for filing the return of such tax (determined without regard to any extension of time for filing the return) or, in case the return is filed after such last date, is refunded within 45 days after the date the return is filed, no interest shall be allowed under subsection (a) on such overpayment.”
+<b>1993</b>—Subsec. (e). Pub. L. 103–66 amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “If any overpayment of tax imposed by subtitle A is refunded within 45 days after the last date prescribed for filing the return of such tax (determined without regard to any extension of time for filing the return) or, in case the return is filed after such last date, is refunded within 45 days after the date the return is filed, no interest shall be allowed under subsection (a) on such overpayment.”
 
 <b>1988</b>—Subsecs. (h) to (j). Pub. L. 100–418 redesignated subsecs. (i) and (j) as (h) and (i), respectively, and struck out former subsec. (h) which related to special rule for windfall profit tax.
 
@@ -178,7 +178,7 @@ Subsecs. (i), (j). Pub. L. 97–248, §346(b), added subsec. (i) and redesignate
 
 <b>1978</b>—Subsec. (f)(2). Pub. L. 95–628, §8(c)(3)(A), substituted in heading “Certain credit carrybacks” for “Investment credit carryback”, designated existing provision as subpar. (A), and in subpar. (A) as so designated inserted heading “In general” and extended the application of provision to credit carrybacks, previously limited to investment credit carrybacks, included other credit carrybacks, and added subpar. (B).
 
-Subsec. (f)(4), (5). Pub. L. 95–628, §8(c)(3)(B), struck out pars. (4) and (5) which provided for work incentive program credit carrybacks and new employee credit carrybacks, respectively.
+Subsec. (f)(4), (5). Pub. L. 95–628, §8(c)(3)(B), struck out pars. (4) and (5) which provided for work incentiveprogram credit carrybacks and new employee credit carrybacks, respectively.
 
 <b>1977</b>—Subsec. (f)(5). Pub. L. 95–30 added par. (5).
 
@@ -226,7 +226,7 @@ Amendment by Pub. L. 105–34 applicable to foreign tax credit carrybacks arisin
 
 #### Effective Date of 1993 Amendment
 
-Section 13271(b) of Pub. L. 103–66 provided that:
+Pub. L. 103–66, title XIII, §13271(b), Aug. 10, 1993, 107 Stat. 542, provided that:
 
 “(1) Paragraph (1) of section 6611(e) of the Internal Revenue Code of 1986 (as amended by subsection (a)) shall apply in the case of returns the due date for which (determined without regard to extensions) is on or after January 1, 1994.
 
@@ -248,11 +248,11 @@ Amendment by section 211(b)(27) of Pub. L. 98–369 applicable to taxable years 
 
 Amendment by section 714(n)(2)(A) of Pub. L. 98–369 effective as if included in the provision of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section 715 of Pub. L. 98–369, set out as a note under section 31 of this title.
 
-Section 1875(d)(3) of Pub. L. 99–514 provided that: “Notwithstanding section 715 of the Tax Reform Act of 1984 \[Pub. L. 98–369\], the amendments made by section 714(n)(2) of such Act \[amending this section and section 6411 of this title\] shall apply only to applications filed after July 18, 1984.”
+Pub. L. 99–514, title XVIII, §1875(d)(3), Oct. 22, 1986, 100 Stat. 2896, provided that: “Notwithstanding section 715 of the Tax Reform Act of 1984 \[Pub. L. 98–369\], the amendments made by section 714(n)(2) of such Act \[amending this section and section 6411 of this title\] shall apply only to applications filed after July 18, 1984.”
 
 #### Effective Date of 1982 Amendment
 
-Section 346(d) of Pub. L. 97–248 provided that:
+Pub. L. 97–248, title III, §346(d), Sept. 3, 1982, 96 Stat. 638, provided that:
 
 “(1)
 
@@ -292,7 +292,7 @@ Amendment by Pub. L. 90–225 applicable with respect to investment credit carry
 
 #### Effective Date of 1966 Amendment
 
-Section 1(b) of Pub. L. 89–721 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to refunds made more than 45 days after the date of the enactment of this Act \[Nov. 2, 1966\].”
+Pub. L. 89–721, §1(b), Nov. 2, 1966, 80 Stat. 1150, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to refunds made more than 45 days after the date of the enactment of this Act \[Nov. 2, 1966\].”
 
 #### Effective Date of 1964 Amendment
 

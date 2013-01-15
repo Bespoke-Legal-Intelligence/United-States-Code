@@ -30,11 +30,11 @@ Par. (d). Pub. L. 95–62, §3(2), struck out provisions which had limited defin
 
 #### Effective Date of 1986 Amendment
 
-Section 224(e) of Pub. L. 99–576 provided that: “The amendments made by this section \[amending this section and sections 5033 and 5035 \[now 8133 and 8135\] of this title\] shall take effect on July 1, 1987.”
+Pub. L. 99–576, title II, §224(e), Oct. 28, 1986, 100 Stat. 3263, provided that: “The amendments made by this section \[amending this section and sections 5033 and 5035 \[now 8133 and 8135\] of this title\] shall take effect on July 1, 1987.”
 
 #### Effective Date of 1977 Amendment
 
-Section 5 of Pub. L. 95–62 provided that:
+Pub. L. 95–62, §5, July 5, 1977, 91 Stat. 263, provided that:
 
 “(a) Except as provided in subsection (b) of this section, the amendments made by this Act \[amending this section and sections 5032 to 5036 \[now 8132 to 8136\] of this title and repealing section 644 of this title\] shall be effective October 1, 1977.
 

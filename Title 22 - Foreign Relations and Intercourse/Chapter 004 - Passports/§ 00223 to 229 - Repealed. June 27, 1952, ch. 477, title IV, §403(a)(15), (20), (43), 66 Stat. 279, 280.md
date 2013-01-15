@@ -14,9 +14,9 @@ Section 226b, act May 22, 1918, ch. 81, §6, as added June 21, 1941, ch. 210, §
 
 Section 227, act Mar. 2, 1921, ch. 113, §1, 41 Stat. 1217, related to continuation of regulations as to alien passport requirements.
 
-Sections 228 and 229, act June 20, 1941, ch. 209, §§1, 2, 55 Stat. 252, related to refusal of vise�AE1s to aliens whose admission might endanger the public safety, and to rules and regulations governing this refusal. See section 1102 of Title 8.
+Sections 228 and 229, act June 20, 1941, ch. 209, §§1, 2, 55 Stat. 252, related to refusal of visés to aliens whose admission might endanger the public safety, and to rules and regulations governing this refusal. See section 1102 of Title 8.
 
 #### Termination of Emergency Provisions
 
-Section 1 of Joint Res. Mar. 31, 1953, ch. 13, 67 Stat. 18, provided for the extension of certain emergency provisions (previously extended to April 1, 1953 by Joint Res. July 3, 1952, ch. 570, §1(b), 66 Stat. 333) until July 1, 1953. Section 2 of Joint Res. Mar. 31, 1953, provided that the extension did not apply to the provisions of sections 223 to 226b of this title.
+Joint Res. Mar. 31, 1953, ch. 13, §1, 67 Stat. 18, provided for the extension of certain emergency provisions (previously extended to April 1, 1953 by Joint Res. July 3, 1952, ch. 570, §1(b), 66 Stat. 333) until July 1, 1953. Joint Res. Mar. 31, 1953, ch. 13, §2, 67 Stat. 18, provided that the extension did not apply to the provisions of sections 223 to 226b of this title.
 

@@ -1,6 +1,6 @@
 ### §526. Protection of patent rights
 
-The Secretary of the Army and the Secretary of the Navy shall in all contracts or agreements for the sale of such mate�AE1riel fully protect the rights of all citizens of the United States who have patent rights in and to any such mate�AE1riel which is authorized to be sold and the funds collected for royalties on such patents shall be paid to the owners and holders of such patents.
+The Secretary of the Army and the Secretary of the Navy shall in all contracts or agreements for the sale of such matériel fully protect the rights of all citizens of the United States who have patent rights in and to any such matériel which is authorized to be sold and the funds collected for royalties on such patents shall be paid to the owners and holders of such patents.
 
 (June 15, 1940, ch. 365, §6, 54 Stat. 397; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501.)
 
@@ -10,5 +10,5 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 #### Secretary of the Air Force
 
-For transfer of certain procurement and related functions and property, insofar as they pertain to AirForce, from Secretary of the Army and Department of the Army to Secretary of the Air Force and Department of the Air Force, see Secretary of Defense Transfer Order Nos. 6 \[§1(a)(41)\], eff. Jan. 15, 1948; 39 \[§2zz\], May 18, 1949.
+For transfer of certain procurement and related functions and property, insofar as they pertain to Air Force, from Secretary of the Army and Department of the Army to Secretary of the Air Force and Department of the Air Force, see Secretary of Defense Transfer Order Nos. 6 \[§1(a)(41)\], eff. Jan. 15, 1948; 39 \[§2zz\], May 18, 1949.
 

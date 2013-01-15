@@ -32,7 +32,7 @@ Advice to Holders and Opportunity To Answer.—Before the Administrator revokes 
 
 (d)
 
-Appeals.—(1) An individual whose certificate is revoked by the Administrator under subsection (b) of this section may appeal the revocation order to the National Transportation Safety Board. The Board shall affirm or reverse the order after providing notice and an opportunity for a hearing on the record. When conducting the hearing, the Board is not bound by findings of fact of the Administrator but shall be bound by all validly adopted interpretations of laws and regulations the Administrator carries out and of written agency policy guidance available to the public related to sanctions to be imposed under this section unless the Board finds an interpretation is arbitrary, capricious, or otherwise not according to law.
+Appeals.—(1) An individual whose certificate is revoked by the Administrator under subsection (b) of this section may appeal the revocation order to the National Transportation Safety Board. The Board shall affirm or reverse the order after providing notice and an opportunity for a hearing on the record. When conducting the hearing, the Board is not bound by findings of fact of the Administrator.
 
 (2) When an individual files an appeal with the Board under this subsection, the order of the Administrator revoking the certificate is stayed. However, if the Administrator advises the Board that safety in air transportation or air commerce requires the immediate effectiveness of the order—
 
@@ -62,7 +62,7 @@ Waivers.—The Administrator may waive the requirement of subsection (b) of this
 
 &emsp;(2) the Administrator decides that the waiver will facilitate law enforcement efforts.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1191.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1191; Pub. L. 112–153, §2(c)(3), Aug. 3, 2012, 126 Stat. 1161.)
 
 Historical and Revision Notes
 
@@ -131,4 +131,8 @@ In subsection (e)(1), the words “on appeal” and “contained” are omitted 
 In subsection (e)(2)(B)(i), the word “contained” is omitted as surplus.
 
 In subsection (e)(2)(B)(ii), the words “judgment of” are omitted as surplus.
+
+#### Amendments
+
+<b>2012</b>—Subsec. (d)(1). Pub. L. 112–153 struck out “but shall be bound by all validly adopted interpretations of laws and regulations the Administrator carries out and of written agency policy guidance available to the public related to sanctions to be imposed under this section unless the Board finds an interpretation is arbitrary, capricious, or otherwise not according to law” after “findings of fact of the Administrator”.
 

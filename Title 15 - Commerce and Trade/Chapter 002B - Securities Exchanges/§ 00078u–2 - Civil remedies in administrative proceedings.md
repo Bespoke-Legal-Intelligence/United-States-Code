@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;In any proceeding instituted pursuant to sections 78<i>o</i>(b)(4), 78<i>o</i>(b)(6), 78<i>o</i>–6, 78<i>o</i>–4, 78<i>o</i>–5, 78<i>o</i>–7, or 78q–1 of this title against any person, the Commission or the appropriate regulatory agency may impose a civil penalty if it finds, on the record after notice and opportunity for hearing, that such penalty is in the public interest and that such person—
+&emsp;In any proceeding instituted pursuant to sections 78o(b)(4), 78o(b)(6), 78o–6, 78o–4, 78o–5, 78o–7, or 78q–1 of this title against any person, the Commission or the appropriate regulatory agency may impose a civil penalty if it finds, on the record after notice and opportunity for hearing, that such penalty is in the public interest and that such person—
 
 &emsp;&emsp;(A) has willfully violated any provision of the Securities Act of 1933 \[15 U.S.C. 77a et seq.\], the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\], the Investment Advisers Act of 1940 \[15 U.S.C. 80b–1 et seq.\], or this chapter, or the rules or regulations thereunder, or the rules of the Municipal Securities Rulemaking Board;
 
@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(C) has willfully made or caused to be made in any application for registration or report required to be filed with the Commission or with any other appropriate regulatory agency under this chapter, or in any proceeding before the Commission with respect to registration, any statement which was, at the time and in the light of the circumstances under which it was made, false or misleading with respect to any material fact, or has omitted to state in any such application or report any material fact which is required to be stated therein; or
 
-&emsp;&emsp;(D) has failed reasonably to supervise, within the meaning of section 78<i>o</i>(b)(4)(E) of this title, with a view to preventing violations of the provisions of such statutes, rules and regulations, another person who commits such a violation, if such other person is subject to his supervision; <sup>1</sup>
+&emsp;&emsp;(D) has failed reasonably to supervise, within the meaning of section 78o(b)(4)(E) of this title, with a view to preventing violations of the provisions of such statutes, rules and regulations, another person who commits such a violation, if such other person is subject to his supervision; <sup>1</sup>
 
 #### (2) Cease-and-desist proceedings
 
@@ -30,7 +30,7 @@
 
 #### (2) Second tier
 
-&emsp;Notwithstanding paragraph (1), the maximum amount of penalty for each such act or omission shall be $50,000 for a natural person or $250,000 for any other person if the act or omission described in subsection (a) of this section involved fraud, deceit, manipulation, or deliberate or reckless disregard of a regulatory requirement.
+&emsp;Notwithstanding paragraph (1), the maximum amount of penalty for each such act oromission shall be $50,000 for a natural person or $250,000 for any other person if the act or omission described in subsection (a) of this section involved fraud, deceit, manipulation, or deliberate or reckless disregard of a regulatory requirement.
 
 #### (3) Third tier
 
@@ -50,7 +50,7 @@ In considering under this section whether a penalty is in the public interest, t
 
 &emsp;(3) the extent to which any person was unjustly enriched, taking into account any restitution made to persons injured by such behavior;
 
-&emsp;(4) whether such person previously has been found by the Commission, another appropriate regulatory agency, or a self-regulatory organization to have violated the Federal securities laws, State securities laws, or the rules of a self-regulatory organization, has been enjoined by a court of competent jurisdiction from violations of such laws or rules, or has been convicted by a court of competent jurisdiction of violations of such laws or of any felony or misdemeanor described in section 78<i>o</i>(b)(4)(B) of this title;
+&emsp;(4) whether such person previously has been found by the Commission, another appropriate regulatory agency, or a self-regulatory organization to have violated the Federal securities laws, State securities laws, or the rules of a self-regulatory organization, has been enjoined by a court of competent jurisdiction from violations of such laws or rules, or has been convicted by a court of competent jurisdiction of violations of such laws or of any felony or misdemeanor described in section 78o(b)(4)(B) of this title;
 
 &emsp;(5) the need to deter such person and other persons from committing such acts or omissions; and
 
@@ -84,7 +84,7 @@ In any proceeding in which the Commission or the appropriate regulatory agency m
 
 The Securities Act of 1933, referred to in subsec. (a)(1)(A), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
-The Investment Company Act of 1940, referred to in subsec. (a)(1)(A), is title I of act Aug. 22, 1940, ch. 686,54 Stat. 789, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
+The Investment Company Act of 1940, referred to in subsec. (a)(1)(A), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
 
 The Investment Advisers Act of 1940, referred to in subsec. (a)(1)(A), is title II of act Aug. 22, 1940, ch. 686, 54 Stat. 847, which is classified generally to subchapter II (§80b–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80b–20 of this title and Tables.
 
@@ -96,9 +96,9 @@ This chapter, referred to in subsec. (a)(1)(A), (C), (2), was in the original �
 
 Subsec. (f). Pub. L. 111–203, §773, added subsec. (f).
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–291 inserted “78<i>o</i>–7,” after “78<i>o</i>–5,” in introductory provisions.
+<b>2006</b>—Subsec. (a). Pub. L. 109–291 inserted “78o–7,” after “78o–5,” in introductory provisions.
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–204 inserted “78<i>o</i>–6,” before “78<i>o</i>–4,” in introductory provisions.
+<b>2002</b>—Subsec. (a). Pub. L. 107–204 inserted “78o–6,” before “78o–4,” in introductory provisions.
 
 #### Effective Date of 2010 Amendment
 

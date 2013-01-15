@@ -40,7 +40,7 @@ Eligibility.—Subject to subsections (d) and (e), a member of an armed force is
 
 (d)
 
-Program Applicability.—The Secretary concerned may provide for the program under this section to apply to any of the following members:
+Program Applicability.—The Secretary concerned may provide for the program underthis section to apply to any of the following members:
 
 &emsp;(1) A regular officer or warrant officer of an armed force.
 
@@ -80,15 +80,13 @@ Termination of Program.—(1) Except as provided in paragraph (2), the Secretary
 
 (2) No member of the armed forces may be separated under a program established pursuant to this section after the date of the termination of that program.
 
-(Added Pub. L. 102–190, div. A, title VI, §661(a)(1), Dec. 5, 1991, 105 Stat. 1394; amended Pub. L. 102–484, div. A, title X, §1052(15), div. D, title XLIV, §§4405(a), 4422(a), Oct. 23, 1992, 106 Stat. 2499, 2706, 2718; Pub. L. 103–35, title II, §202(a)(17), May 31, 1993, 107 Stat. 102; Pub. L. 103–160, div. A, title V, §§502, 561(g), Nov. 30, 1993, 107 Stat. 1644, 1668; Pub. L. 103–337, div. A, title V, §542(b), Oct. 5, 1994, 108 Stat. 2768; Pub. L. 105–261, div. A, title V, §561(b), Oct. 17, 1998, 112 Stat. 2025; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134; Pub. L. 112–81, div. A, title VI, §631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465.)
-
-#### Codification
-
-Section 631(f)(4)(A) of Pub. L. 112–81, which directed that this title be amended by conforming any references to sections of title 37, United States Code, which were transferred and redesignated by “subsection (c)” of section 631, was executed by conforming the references to those sections as transferred and redesignated by subsection (d) of section 631, to reflect the probable intent of Congress.
+(Added Pub. L. 102–190, div. A, title VI, §661(a)(1), Dec. 5, 1991, 105 Stat. 1394; amended Pub. L. 102–484, div. A, title X, §1052(15), div. D, title XLIV, §§4405(a), 4422(a), Oct. 23, 1992, 106 Stat. 2499, 2706, 2718; Pub. L. 103–35, title II, §202(a)(17), May 31, 1993, 107 Stat. 102; Pub. L. 103–160, div. A, title V, §§502, 561(g), Nov. 30, 1993, 107 Stat. 1644, 1668; Pub. L. 103–337, div. A, title V, §542(b), Oct. 5, 1994, 108 Stat. 2768; Pub. L. 105–261, div. A, title V, §561(b), Oct. 17, 1998, 112 Stat. 2025; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134; Pub. L. 112–81, div. A, title VI, §631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
 
 #### Amendments
 
-<b>2011</b>—Subsec. (b)(2)(B). Pub. L. 112–81 substituted “474” for “404” and substituted “476” for “406” in two places. See Codification note above.
+<b>2013</b>—Subsec. (b)(2)(B). Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, §631(f)(4)(A). See 2011 Amendment note below.
+
+<b>2011</b>—Subsec. (b)(2)(B). Pub. L. 112–81, §631(f)(4)(A), as amended by Pub. L. 112–239, §1076(a)(9), substituted “474” for “404” and substituted “476” for “406” in two places.
 
 <b>2000</b>—Subsec. (h)(1). Pub. L. 106–398 substituted “December 31, 2001” for “September 30, 2001”.
 
@@ -118,9 +116,13 @@ Subsec. (c)(2). Pub. L. 102–484, §§1052(15), 4422(a)(2), substituted “Dece
 
 Subsec. (c)(3). Pub. L. 102–484, §4422(a)(3), as amended by Pub. L. 103–35, §202(a)(17)(A), inserted “or full-time National Guard duty or any combination of active duty and full-time National Guard duty” after “active duty”.
 
-Subsec. (c)(4). Pub. L. 102–484, §4422(a)(4), as amended by Pub. L. 103–35, §202(a)(17)(B), inserted “and” after semicolon at end and “or full-time National Guard duty or any combination of active duty and full-time National Guard duty” after “active duty” the first place it appeared.
+Subsec. (c)(4). Pub. L. 102–484, §4422(a)(4), as amended by Pub. L. 103–35, §202(a)(17)(B), inserted “and” aftersemicolon at end and “or full-time National Guard duty or any combination of active duty and full-time National Guard duty” after “active duty” the first place it appeared.
 
 Subsec. (c)(5), (6). Pub. L. 102–484, §4424(a)(5), redesignated par. (6) as (5) and struck out former par. (5) which read as follows: “if a Reserve, is on an active duty list; and”.
+
+#### Effective Date of 2013 Amendment
+
+Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
 
 #### Effective Date of 1994 Amendment
 
@@ -132,7 +134,7 @@ Amendment by Pub. L. 103–35 applicable as if included in the enactment of Pub.
 
 #### Effective Date of 1992 Amendment
 
-Section 4405(c) of Pub. L. 102–484 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1175 of this title\] shall apply as if included in sections 1174a and 1175 of title 10, United States Code, as enacted on December 5, 1991, but any benefits or services payable by reason of the applicability of the provisions of those amendments during the period beginning on December 5, 1991, and ending on the date of the enactment of this Act \[Oct. 23, 1992\] shall be subject to the availability of appropriations.”
+Pub. L. 102–484, div. A, title XLIV, §4405(c), Oct. 23, 1992, 106 Stat. 2706, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1175 of this title\] shall apply as if included in sections 1174a and 1175 of title 10, United States Code, as enacted on December 5, 1991, but any benefits or services payable by reason of the applicability of the provisions of those amendments during the period beginning on December 5, 1991, and ending on the date of the enactment of this Act \[Oct. 23, 1992\] shall be subject to the availability of appropriations.”
 
 #### Remedy for Ineffective Counseling of Officers Discharged Following Selection by Early Discharge Boards
 
@@ -180,9 +182,9 @@ Pub. L. 103–139, title VIII, §8127, Nov. 11, 1993, 107 Stat. 1469.
 
 #### Commencement of Program
 
-Section 661(b) of Pub. L. 102–190 provided that: “The Secretary of each military department shall commence the program required by section 1174a of title 10, United States Code (as added by subsection (a)), not later than 60 days after the date of the enactment of this Act \[Dec. 5, 1991\].”
+Pub. L. 102–190, div. A, title VI, §661(b), Dec. 5, 1991, 105 Stat. 1395, provided that: “The Secretary of each military department shall commence the program required by section 1174a of title 10, United States Code (as added by subsection (a)), not later than 60 days after the date of the enactment of this Act \[Dec. 5, 1991\].”
 
 #### Report on Programs
 
-Section 663 of Pub. L. 102–190 directed Secretary, not later than 180 days after Dec. 5, 1991, to submit to Congress a report containing the Secretary's assessment of effectiveness of programs established under sections 1174a and 1175 of this title.
+Pub. L. 102–190, div. A, title VI, §663, Dec. 5, 1991, 105 Stat. 1399, directed Secretary, not later than 180 days after Dec. 5, 1991, to submit to Congress a report containing the Secretary's assessment of effectiveness of programs established under sections 1174a and 1175 of this title.
 

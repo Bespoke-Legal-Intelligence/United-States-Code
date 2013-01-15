@@ -24,7 +24,7 @@ Intelligence Activities Exemption.—
 
 &emsp;(1)
 
-Activities that may be exempt.—Intelligence activities as defined in section 3.4(e) of Executive Order No. 12333 or a comparable definitional section in any successor order may be exempt from the regulations required by subsection (a).
+Activities that may be exempt.—Intelligence activities as defined in section 3.4(e) of Executive Order No. 12333 or a comparabledefinitional section in any successor order may be exempt from the regulations required by subsection (a).
 
 &emsp;(2)
 

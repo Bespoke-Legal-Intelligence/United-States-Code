@@ -94,7 +94,7 @@ In subsection (b), the words “United States” and “or the United States Mar
 
 In subsection (e), the words “from the United States . . . as provided by law” are omitted as surplusage.
 
-In subsection (f), the words “a member who holds, or has held” are substituted for the words “Directors andassistant directors of the Marine Band and former directors and assistant directors who have held”.
+In subsection (f), the words “a member who holds, or has held” are substituted for the words “Directors and assistant directors of the Marine Band and former directors and assistant directors who have held”.
 
 #### Amendments
 
@@ -121,4 +121,8 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 #### Effective Date of 1962 Amendment
 
 Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 87–649, set out as an Effective Date note preceding section 101 of Title 37, Pay and Allowances of the Uniformed Services.
+
+#### Delegation of Functions
+
+Functions of President under subsec. (c)(2) delegated to Secretary of Defense, without authority for Secretary to redelegate, see Ex. Ord. No. 13598, §§1(c), 2,Jan. 27, 2012, 77 F.R. 5371, set out as a note under section 301 of Title 3, The President.
 

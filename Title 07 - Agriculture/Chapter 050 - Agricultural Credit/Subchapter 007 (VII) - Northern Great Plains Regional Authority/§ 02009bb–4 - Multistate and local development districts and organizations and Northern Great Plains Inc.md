@@ -70,7 +70,7 @@ Northern Great Plains Inc., a nonprofit corporation incorporated in the State of
 
 &emsp;(4) may carry out other activities on its own behalf or on behalf of other entities.
 
-(Pub. L. 87–128, title III, §383F, formerly §383E, as added Pub. L. 107–171, title VI, §6028, May 13, 2002, 116 Stat. 382; renumbered §383F and amended Pub. L. 110–234, title VI, §6026(c)(1)(A), (f), May 22, 2008, 122 Stat. 1178, 1180, and Pub. L. 110–246, §4(a), title VI, §6026(c)(1)(A), (f), June 18, 2008, 122 Stat. 1664, 1940, 1941.)
+(Pub. L. 87–128, title III, §383F, formerly §383E, as added Pub. L. 107–171, title VI, §6028, May 13, 2002, 116 Stat. 382; renumbered §383F and amended Pub. L. 110–234, title VI, §6026(c)(1)(A), (f), May 22, 2008, 122 Stat. 1178, 1180, and Pub. L.110–246, §4(a), title VI, §6026(c)(1)(A), (f), June 18, 2008, 122 Stat. 1664, 1940, 1941.)
 
 #### Codification
 

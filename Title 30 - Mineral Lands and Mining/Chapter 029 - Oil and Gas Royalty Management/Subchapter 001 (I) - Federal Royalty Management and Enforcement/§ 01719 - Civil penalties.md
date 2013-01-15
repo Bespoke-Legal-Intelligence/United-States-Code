@@ -76,7 +76,7 @@ If any person fails to pay an assessment of a civil penalty under this chapterâ€
 
 > the court shall have jurisdiction to award the amount assessed plus interest from the date of the expiration of the 90-day period referred to in subsection (j) of this section. Judgment by the court shall include an order to pay.
 
-#### (<i>l</i>) Nonliability for leases automatically terminated
+#### (l) Nonliability for leases automatically terminated
 
 No person shall be liable for a civil penalty under subsection (a) or (b) of this section for failure to pay any rental for any lease automatically terminated pursuant to section 188 of this title.
 

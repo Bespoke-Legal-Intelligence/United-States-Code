@@ -14,7 +14,7 @@ Congress finds as follows:
 
 &emsp;(5) Oral histories are of immeasurable value to historians, researchers, authors, journalists, film makers, scholars, students, and citizens of all walks of life.
 
-&emsp;(6) War veterans possess an invaluable resource in their memories of the conflicts in which they served, and can provide a rich history of our Nation and its people through theretelling of those memories, yet frequently those who served during times of conflict are reticent to family and friends about their experiences.
+&emsp;(6) War veterans possess an invaluable resource in their memories of the conflicts in which they served, and can provide a rich history of our Nation and its people through the retelling of those memories, yet frequently those who served during times of conflict are reticent to family and friends about their experiences.
 
 &emsp;(7) It is in the Nation's best interest to collect and catalog oral histories of American war veterans so that future generations will have original sources of information regarding the lives and times of those who served in war and the conditions under which they endured, so that Americans will always remember those who served in war and may learn first-hand of the heroics, tediousness, horrors, and triumphs of war.
 

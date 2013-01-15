@@ -20,21 +20,21 @@ LOAN FEE TABLE
 |  |  |  |  |
 | (A)(ii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after January 1, 2004, and before October 1, 2004) | 2\.20 | 2\.40 | NA |
 |  |  |  |  |
-| (A)(iii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after October 1, 2004, and before October 1, 2016) | 2\.15 | 2\.40 | NA |
+| (A)(iii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after October 1, 2004, and before October 1, 2017) | 2\.15 | 2\.40 | NA |
 |  |  |  |  |
-| (A)(iv) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after October 1, 2016) | 1\.40 | 1\.65 | NA |
+| \(A)(iv) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after October 1, 2017) | 1\.40 | 1\.65 | NA |
 |  |  |  |  |
-| (B)(i) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed before October 1, 2016) | 3\.30 | 3\.30 | NA |
+| (B)(i) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed before October 1, 2017) | 3\.30 | 3\.30 | NA |
 |  |  |  |  |
-| (B)(ii) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed on or after October 1, 2016) | 1\.25 | 1\.25 | NA |
+| (B)(ii) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed on or after October 1, 2017) | 1\.25 | 1\.25 | NA |
 |  |  |  |  |
-| (C)(i) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed before October 1, 2016) | 1\.50 | 1\.75 | NA |
+| (C)(i) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed before October 1, 2017) | 1\.50 | 1\.75 | NA |
 |  |  |  |  |
-| (C)(ii) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed on or after October 1, 2016) | 0\.75 | 1\.00 | NA |
+| (C)(ii) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed on or after October 1, 2017) | 0\.75 | 1\.00 | NA |
 |  |  |  |  |
-| \(D)(i) Initial loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed before October 1, 2016) | 1\.25 | 1\.50 | NA |
+| (D)(i) Initial loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed before October 1, 2017) | 1\.25 | 1\.50 | NA |
 |  |  |  |  |
-| (D)(ii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed on or after October 1, 2016) | 0\.50 | 0\.75 | NA |
+| (D)(ii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed on or after October 1, 2017) | 0\.50 | 0\.75 | NA |
 |  |  |  |  |
 | (E) Interest rate reduction refinancing loan | 0\.50 | 0\.50 | NA |
 |  |  |  |  |
@@ -58,7 +58,7 @@ LOAN FEE TABLE
 
 &emsp;(C) The term “other obligor” means a person who is not a veteran, as defined in section 101 of this title or other provision of this chapter.
 
-&emsp;(D) The term “initial loan” means a loan to a veteran guaranteed under section 3710 or made under section 3711 of this title if the veteran has never obtained a loan guaranteed under section 3710 or made under section 3711 of this title.
+&emsp;(D) The term “initial loan” means a loan to a veteran guaranteed under section 3710 or made under section 3711 of this title if the veteran has never obtained a loan guaranteedunder section 3710 or made under section 3711 of this title.
 
 &emsp;(E) The term “subsequent loan” means a loan to a veteran, other than an interest rate reduction refinancing loan, guaranteed under section 3710 or made under section 3711 of this title if the veteran has previously obtained a loan guaranteed under section 3710 or made under section 3711 of this title.
 
@@ -74,11 +74,21 @@ LOAN FEE TABLE
 
 Waiver of Fee.—(1) A fee may not be collected under this section from a veteran who is receiving compensation (or who, but for the receipt of retirement pay or active service pay, would be entitled to receive compensation) or from a surviving spouse of any veteran (including a person who died in the active military, naval, or air service) who died from a service-connected disability.
 
-(2) A veteran who is rated eligible to receive compensation as a result of a pre-discharge disability examination and rating shall be treated as receiving compensation for purposes of this subsection as of the date on which the veteran is rated eligible to receive compensation as a result of the pre-discharge disability examination and rating without regard to whether an effective date of the award of compensation is established as of that date.
+(2)(A) A veteran described in subparagraph (B) shall be treated as receiving compensation for purposes of this subsection as of the date of the rating described in such subparagraph without regard to whether an effective date of the award of compensation is established as of that date.
 
-(Added Pub. L. 97–253, title IV, §406(a)(1), Sept. 8, 1982, 96 Stat. 805, §1829; amended Pub. L. 98–369, div. B, title V, §2511(a), July 18, 1984, 98 Stat. 1117; Pub. L. 100–198, §§2, 10(c), Dec. 21, 1987, 101 Stat. 1315, 1323; Pub. L. 100–203, title VII, §7002, Dec. 22, 1987, 101 Stat. 1330–279; Pub. L. 100–322, title IV, §415(c)(6), May 20, 1988, 102 Stat. 551; Pub. L. 101–237, title III, §§303(a), 313(b)(1), Dec. 18, 1989, 103 Stat. 2071, 2077; Pub. L. 101–239, title V, §5001, Dec. 19, 1989, 103 Stat. 2136; Pub. L. 101–508, title VIII, §8032, Nov. 5, 1990, 104 Stat. 1388–348; Pub. L. 102–54, §15(a)(3), (4), June 13, 1991, 105 Stat. 289; renumbered §3729 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, §§2(b)(1), 5, Oct. 28, 1992, 106 Stat. 3633, 3636; Pub. L. 103–66, title XII, §12007, Aug. 10, 1993, 107 Stat. 414; Pub. L. 103–446, title IX, §904(c), Nov. 2, 1994, 108 Stat. 4677; Pub. L. 104–275, title II, §202(b), Oct. 9, 1996, 110 Stat. 3330; Pub. L. 105–33, title VIII, §§8012, 8032, Aug. 5, 1997, 111 Stat. 664, 669; Pub. L. 105–368, title VI, §§602(e)(1)(D), 603(b), Nov. 11, 1998, 112 Stat. 3346, 3348; Pub. L. 106–419, title IV, §402(b), Nov. 1, 2000, 114 Stat. 1861; Pub. L. 107–14, §8(b)(4), June 5, 2001, 115 Stat. 36; Pub. L. 107–103, title IV, §§405(c), 406, Dec. 27, 2001, 115 Stat. 994; Pub. L.108–183, title IV, §405, Dec. 16, 2003, 117 Stat. 2665; Pub. L. 108–454, title IV, §406, Dec. 10, 2004, 118 Stat. 3617; Pub. L. 111–275, title II, §204, Oct. 13, 2010, 124 Stat. 2874; Pub. L. 112–26, §3(a), Aug. 3, 2011, 125 Stat. 269; Pub. L. 112–37, §15, Oct. 5, 2011, 125 Stat. 398; Pub. L. 112–56, title II, §265(a), Nov. 21, 2011, 125 Stat. 732.)
+(B) A veteran described in this subparagraph is a veteran who is rated eligible to receive compensation—
+
+&emsp;(i) as the result of a pre-discharge disability examination and rating; or
+
+&emsp;(ii) based on a pre-discharge review of existing medical evidence (including service medical and treatment records) that results in the issuance of a memorandum rating.
+
+(Added Pub. L. 97–253, title IV, §406(a)(1), Sept. 8, 1982, 96 Stat. 805, §1829; amended Pub. L. 98–369, div. B, title V, §2511(a), July 18, 1984, 98 Stat. 1117; Pub. L. 100–198, §§2, 10(c), Dec. 21, 1987, 101 Stat. 1315, 1323; Pub. L. 100–203, title VII, §7002, Dec. 22, 1987, 101 Stat. 1330–279; Pub. L. 100–322, title IV, §415(c)(6), May 20, 1988, 102 Stat. 551; Pub. L. 101–237, title III, §§303(a), 313(b)(1), Dec. 18, 1989, 103 Stat. 2071, 2077; Pub. L. 101–239, title V, §5001, Dec. 19, 1989, 103 Stat. 2136; Pub. L. 101–508, title VIII, §8032, Nov. 5, 1990, 104 Stat. 1388–348; Pub. L. 102–54, §15(a)(3), (4), June 13, 1991, 105 Stat. 289; renumbered §3729 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, §§2(b)(1), 5, Oct. 28, 1992, 106 Stat. 3633, 3636; Pub. L. 103–66, title XII, §12007, Aug. 10, 1993, 107 Stat. 414; Pub. L. 103–446, title IX, §904(c), Nov. 2, 1994, 108 Stat. 4677; Pub. L. 104–275, title II, §202(b), Oct. 9, 1996, 110 Stat. 3330; Pub. L. 105–33, title VIII, §§8012, 8032, Aug. 5, 1997, 111 Stat. 664, 669; Pub. L. 105–368, title VI, §§602(e)(1)(D), 603(b), Nov. 11, 1998, 112 Stat. 3346, 3348; Pub. L. 106–419, title IV, §402(b), Nov. 1, 2000, 114 Stat. 1861; Pub. L. 107–14, §8(b)(4), June 5, 2001, 115 Stat. 36; Pub. L. 107–103, title IV, §§405(c), 406, Dec. 27, 2001, 115 Stat. 994; Pub. L. 108–183, title IV, §405, Dec. 16, 2003, 117 Stat. 2665; Pub. L. 108–454, title IV, §406, Dec. 10, 2004, 118 Stat. 3617; Pub. L. 111–275, title II, §204, Oct. 13, 2010, 124 Stat. 2874; Pub. L. 112–26, §3(a), Aug. 3, 2011, 125 Stat. 269; Pub. L. 112–37, §15, Oct. 5, 2011, 125 Stat. 398; Pub. L. 112–56, title II, §265(a), Nov. 21, 2011, 125 Stat. 732; Pub. L. 112–154, title II, §210, title VII, §702(b), Aug. 6, 2012, 126 Stat. 1179, 1205.)
 
 #### Amendments
+
+<b>2012</b>—Subsec. (b)(2). Pub. L. 112–154, §702(b), substituted “October 1, 2017” for “October 1, 2016” wherever appearing in table.
+
+Subsec. (c)(2). Pub. L. 112–154, §210, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “A veteran who is rated eligible to receive compensation as a result of a pre-discharge disability examination and rating shall be treated as receiving compensation for purposes of this subsection as of the date on which the veteran is rated eligible to receive compensation as a result of the pre-discharge disability examination and rating without regard to whether an effective date of the award of compensation is established as of that date.”
 
 <b>2011</b>—Subsec. (b)(2). Pub. L. 112–37 substituted “November 18, 2011” for “October 1, 2011” wherever appearing in table.
 
@@ -192,7 +202,7 @@ Subsec. (d). Pub. L. 100–198, §10(c), added subsec. (d).
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–369, §2511(a)(1), inserted “and from each person obtaining a loan from the Administrator to finance the purchase of real property from the Administrator,” after “under this chapter,”, struck out “one-half of” before “one percent of the total loan amount”, and struck out “to the veteran” after “in the loan”.
 
-Subsecs. (c), (d). Pub. L. 98–367, §2511(a)(2), (3), redesignated subsec. (d) as (c) and substituted “September 30, 1987” for “September 30, 1985”. Former subsec. (c), which related to deposit of fees collected under this section into Treasury as miscellaneous receipts, was struck out.
+Subsecs. (c), (d). Pub. L. 98–367, §2511(a)(2), (3), redesignated subsec. (d) as (c) and substituted “September 30, 1987” for “September 30, 1985”. Former subsec. (c), which related to deposit of fees collected under thissection into Treasury as miscellaneous receipts, was struck out.
 
 #### Effective Date of 2011 Amendment
 
@@ -218,11 +228,11 @@ Amendment by Pub. L. 105–368 effective Oct. 1, 1998, see section 602(f) of Pub
 
 #### Effective Date of 1989 Amendment
 
-Section 303(b) of Pub. L. 101–237 provided that: “The amendments made by this section \[amending this section\] shall take effect on January 1, 1990.”
+Pub. L. 101–237, title III, §303(b), Dec. 18, 1989, 103 Stat. 2073, provided that: “The amendments made by this section \[amending this section\] shall take effect on January 1, 1990.”
 
 #### Effective Date of 1984 Amendment
 
-Section 2511(c) of Pub. L. 98–369 provided that:
+Pub. L. 98–369, div. B, title V, §2511(c), July 18, 1984, 98 Stat. 1117, provided that:
 
 “(1) The amendments made by subsection (a)(1) \[amending this section\] shall apply with respect to loans closed after the end of the 30-day period beginning on the date of the enactment of this Act \[July 18, 1984\].
 
@@ -232,7 +242,7 @@ Section 2511(c) of Pub. L. 98–369 provided that:
 
 #### Effective Date
 
-Section 406(b) of Pub. L. 97–253, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that: “Section 1829 \[now 3729\] of title 38, United States Code, as added by subsection (a), shall apply only to loans closed after September 30, 1982.”
+Pub. L. 97–253, title IV, §406(b), Sept. 8, 1982, 96 Stat. 805, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that: “Section 1829 \[now 3729\] of title 38, United States Code, as added by subsection (a), shall apply only to loans closed after September 30, 1982.”
 
 #### Temporary Increase in Certain Housing Loan Fees
 
@@ -252,7 +262,7 @@ Period Described.—The period referred to in subsection (a) is the period that 
 
 #### Ratification of Actions by Secretary of Veterans Affairs and by Secretary of the Treasury Between Oct. 1, 1990, and June 13, 1991
 
-Section 15(b) of Pub. L. 102–54, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that:
+Pub. L. 102–54, §15(b), June 13, 1991, 105 Stat. 289, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that:
 
 “(1) Any action of the Secretary of Veterans Affairs or the Secretary of the Treasury—
 
@@ -276,7 +286,7 @@ For rule relating to construction of provisions of Pub. L. 100–203 and Pub. L.
 
 #### Extension of Time for Collection of Fees
 
-Section 303(c) of Pub. L. 101–237 directed Secretary of Veterans Affairs to collect fees under this section through Dec. 31, 1989.
+Pub. L. 101–237, title III, §303(c), Dec. 18, 1989, 103 Stat. 2073, directed Secretary of Veterans Affairs to collect fees under this section through Dec. 31, 1989.
 
 Pub. L. 101–110, §2, Oct. 6, 1989, 103 Stat. 682, authorized collection of fees under this section with respect to loans closed before Dec. 1, 1989.
 

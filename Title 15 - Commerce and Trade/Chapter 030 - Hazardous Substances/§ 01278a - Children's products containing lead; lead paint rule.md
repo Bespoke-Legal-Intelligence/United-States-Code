@@ -30,7 +30,7 @@
 
 #### (3) Application
 
-&emsp;Each limit set forth in paragraph (2) (except for the limit set forth in subparagraphs (A)and (B)) shall apply only to a children's product (as defined in section 3(a) of the Consumer Product Safety Act (15 U.S.C. 2052(a))) that is manufactured after the effective date of such respective limit.
+&emsp;Each limit set forth in paragraph (2) (except for the limit set forth in subparagraphs (A) and (B)) shall apply only to a children's product (as defined in section 3(a) of the Consumer Product Safety Act (15 U.S.C. 2052(a))) that is manufactured after the effective date of such respective limit.
 
 #### (b) Exclusion of certain materials or products and inaccessible component parts
 
@@ -146,7 +146,7 @@
 
 #### (B) Definition
 
-&emsp;&emsp;In this paragraph, the term “used children's product” means a children's product (as defined in section 3(a) of the Consumer Product Safety Act (15 U.S.C. 2052(a)) that was obtained by the seller for use and not for the purpose of resale or was obtained by the seller, either directly or indirectly, from a person who obtained such children's product for use and not for the purpose of resale. Such term also includes a children's product that was donated to the seller for charitable distribution or resale to support charitable purposes. Such term shall not include—
+&emsp;&emsp;In this paragraph, the term “used children's product” means a children's product (as defined in section 3(a) of the Consumer Product Safety Act (15 U.S.C. 2052(a)) <sup>1</sup> that was obtained by the seller for use and not for the purpose of resale or was obtained by the seller, either directly or indirectly, from a person who obtained such children's product for use and not for the purpose of resale. Such term also includes a children's product that was donated to the seller for charitable distribution or resale to support charitable purposes. Such term shall not include—
 
 &emsp;&emsp;&emsp;(i) children's metal jewelry;
 
@@ -218,7 +218,7 @@ The pendency of a rulemaking proceeding to consider—
 
 #### (6) No effect on legal limit
 
-&emsp;Nothing in paragraph (3), nor reliance by the Commission on any alternative method of measurement pursuant to such paragraph, nor any rule prescribed pursuant to paragraph (4), nor any method established pursuant to paragraph (5) shall be construed to alter the limit set forth in section 1303 of title 16, Code of Federal Regulations, as modified pursuant to this subsection, or provide any exemption from such limit.
+&emsp;Nothing in paragraph (3), nor reliance by the Commission on any alternative method ofmeasurement pursuant to such paragraph, nor any rule prescribed pursuant to paragraph (4), nor any method established pursuant to paragraph (5) shall be construed to alter the limit set forth in section 1303 of title 16, Code of Federal Regulations, as modified pursuant to this subsection, or provide any exemption from such limit.
 
 #### (7) Construction
 
@@ -265,4 +265,6 @@ Pub. L. 112–28, §11, Aug. 12, 2011, 125 Stat. 283, provided that: “Except a
 #### Definition
 
 For definition of “Commission” used in this section, see section 2(a) of Pub. L. 110–314, set out as a note under section 2051 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “2052(a)))”.</i>
 

@@ -18,7 +18,7 @@ Historical and Revision Notes
 
 R.S. 1547.
 
-So much as pertains to the “orders, regulations, and instructions issued by the Secretary of the Navy prior to July 14, 1862” and the alterations thereto is omittedas executed, and the section is worded to preserve the remaining requirement that Navy Regulations must be issued with Presidential approval. The words “United States Navy Regulations” are substituted for the words “regulations of the Navy” to preserve the distinction between the permanent regulations of general applicability falling within this statute and the many other regulations issued by the Secretary alone under specific statutes and under his power to administer the Department.
+So much as pertains to the “orders, regulations, and instructions issued by the Secretary of the Navy prior to July 14, 1862” and the alterations thereto is omitted as executed, and the section is worded to preserve the remaining requirement that Navy Regulations must be issued with Presidential approval. The words “United States Navy Regulations” are substituted for the words “regulations of the Navy” to preserve the distinction between the permanent regulations of general applicability falling within this statute and the many other regulations issued by the Secretary alone under specific statutes and under his power to administer the Department.
 
 #### Amendments
 
@@ -26,7 +26,7 @@ So much as pertains to the “orders, regulations, and instructions issued by th
 
 #### Navy Regulations Issued Before October 14, 1981
 
-Section 204(b) of Pub. L. 97–60 provided that: “United States Navy regulations issued under section 6011 of title 10, United States Code, before the date of the enactment of this Act \[Oct. 14, 1981\] shall remain in effect in accordance with their terms until amended or revoked by the Secretary of the Navy.”
+Pub. L. 97–60, title II, §204(b), Oct. 14, 1981, 95 Stat. 1007, provided that: “United States Navy regulations issued under section 6011 of title 10, United States Code, before the date of the enactment of this Act \[Oct. 14, 1981\] shall remain in effect in accordance with their terms until amended or revoked by the Secretary of the Navy.”
 
 #### Delegation of Functions
 

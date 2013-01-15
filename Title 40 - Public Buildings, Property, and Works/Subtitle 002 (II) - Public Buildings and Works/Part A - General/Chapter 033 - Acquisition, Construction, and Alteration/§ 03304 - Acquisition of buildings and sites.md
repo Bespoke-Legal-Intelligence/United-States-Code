@@ -20,7 +20,7 @@ Solicitation of Proposals for Sale, Donation, or Exchange of Real Property.—Wh
 
 &emsp;(2) acquire the site without regard to division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1158; Pub. L. 108–178, §3(1), Dec. 15, 2003, 117 Stat. 2640; Pub. L. 111–350, §5(<i>l</i>)(15), Jan. 4, 2011, 124 Stat. 3852.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1158; Pub. L. 108–178, §3(1), Dec. 15, 2003, 117 Stat. 2640; Pub. L. 111–350, §5(l)(15), Jan. 4, 2011, 124 Stat. 3852.)
 
 Historical and Revision Notes
 

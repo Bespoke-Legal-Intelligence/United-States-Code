@@ -22,7 +22,7 @@
 
 &emsp;(B) who is disabled or dies from an injury or covered disease incurred while proceeding directly to or returning directly from such active duty for training or inactive duty training, as the case may be;
 
-> shall be deemed to have been on active duty for training or inactive duty training, as the case may be, at the time such injury or covered disease was incurred.
+> shall be deemed to have been on active duty for training or inactive duty training, as the casemay be, at the time such injury or covered disease was incurred.
 
 (2) In determining whether or not such individual was so authorized or required to perform such duty, and whether or not such individual was disabled or died from injury or covered disease so incurred, the Secretary shall take into account the hour on which such individual began so to proceed or to return; the hour on which such individual was scheduled to arrive for, or on which such individual ceased to perform, such duty; the method of travel employed; the itinerary; the manner in which the travel was performed; and the immediate cause of disability or death.
 
@@ -74,7 +74,7 @@ Subsec. (e). Pub. L. 97–295, §4(3)(B), substituted “title 5 as a preference
 
 #### Effective Date of 1961 Amendment
 
-Section 2 of Pub. L. 87–102 provided that: “No monetary benefits shall accrue by reason of the amendments made by this Act \[amending this section\] for any period prior to the date of enactment \[July 21, 1961\].”
+Pub. L. 87–102, §2, July 21, 1961, 75 Stat. 219, provided that: “No monetary benefits shall accrue by reason of the amendments made by this Act \[amending this section\] for any period prior to the date of enactment \[July 21, 1961\].”
 
 #### Service in Alaska Territorial Guard
 

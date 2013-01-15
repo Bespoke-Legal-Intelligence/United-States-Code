@@ -1,6 +1,4 @@
 
-36 U.S.C.<br>United States Code, 2011 Edition<br>Title 36 - PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS<br>From the U.S. Government Publishing Office, www.gpo.gov
-
 # TITLE 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS
 
 <i>This title was enacted by Pub. L. 105–225, §1, Aug. 12, 1998, 112 Stat. 1253</i>

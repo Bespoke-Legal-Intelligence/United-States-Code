@@ -2,7 +2,7 @@
 
 #### (a) Studies and investigations
 
-The Director is authorized to carry out studies and investigations, utilizing to the maximum extent practicable the existing facilities and services of other Federal departments or agencies, and State and local governmental agencies, and any other organizations, with respect to the adequacy of State and local measures in flood-prone areas as to land management and use, flood control, flood zoning, and flood damage prevention, and may enter into any contracts, agreements, or other appropriate arrangements to carry out such authority.
+The Administrator is authorized to carry out studies and investigations, utilizing to the maximum extent practicable the existing facilities and services of other Federal departments or agencies, and State and local governmental agencies, and any other organizations, with respect to the adequacy of State and local measures in flood-prone areas as to land management and use, flood control, flood zoning, and flood damage prevention, and may enter into any contracts, agreements, or other appropriate arrangements to carry out such authority.
 
 #### (b) Extent of studies and investigations
 
@@ -10,7 +10,7 @@ Such studies and investigations shall include, but not be limited to, laws, regu
 
 #### (c) Development of comprehensive criteria designed to encourage adoption of adequate State and local measures
 
-On the basis of such studies and investigations, and such other information as he deems necessary, the Director shall from time to time develop comprehensive criteria designed to encourage, where necessary, the adoption of adequate State and local measures which, to the maximum extent feasible, will—
+On the basis of such studies and investigations, and such other information as he deems necessary, the Administrator shall from time to time develop comprehensive criteria designed to encourage, where necessary, the adoption of adequate State and local measures which, to the maximum extent feasible, will—
 
 &emsp;(1) constrict the development of land which is exposed to flood damage where appropriate,
 
@@ -22,9 +22,11 @@ On the basis of such studies and investigations, and such other information as h
 
 > and he shall work closely with and provide any necessary technical assistance to State, interstate, and local governmental agencies, to encourage the application of such criteria and the adoption and enforcement of such measures.
 
-(Pub. L. 90–448, title XIII, §1361, Aug. 1, 1968, 82 Stat. 587; Pub. L. 91–152, title IV, §410(c), Dec. 24, 1969, 83 Stat. 397; Pub. L. 98–181, title IV, §451(d)(1), Nov. 30, 1983, 97 Stat. 1229.)
+(Pub. L. 90–448, title XIII, §1361, Aug. 1, 1968, 82 Stat. 587; Pub. L. 91–152, title IV, §410(c), Dec. 24, 1969, 83 Stat. 397; Pub. L. 98–181, title I \[title IV, §451(d)(1)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 112–141, div. F, title II, §100238(b)(1), July 6, 2012, 126 Stat. 958.)
 
 #### Amendments
+
+<b>2012</b>—Subsecs. (a), (c). Pub. L. 112–141 substituted “Administrator” for “Director”.
 
 <b>1983</b>—Subsecs. (a), (c). Pub. L. 98–181 substituted “Director” for “Secretary”.
 

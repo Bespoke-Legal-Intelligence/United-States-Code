@@ -24,13 +24,13 @@ The Commission may promulgate consumer product safety standards in accordance wi
 
 #### (c) Contribution of Commission to development cost
 
-If any person participates with the Commission in the development of a consumer product safety standard, the Commission may agree to contribute to the person's cost with respect to such participation, in any case in which the Commission determines that such contribution is likely to result in a more satisfactory standard than would be developed without such contribution, and that the person is financially responsible. Regulations of the Commission shall set forth the items of cost in which it may participate, and shall exclude any contribution to the acquisition of land or buildings. Paymentsunder agreements entered into under this subsection may be made without regard to section 3324(a) and (b) of title 31.
+If any person participates with the Commission in the development of a consumer product safety standard, the Commission may agree to contribute to the person's cost with respect to such participation, in any case in which the Commission determines that such contribution is likely to result in a more satisfactory standard than would be developed without such contribution, and that the person is financially responsible. Regulations of the Commission shall set forth the items of cost in which it may participate, and shall exclude any contribution to the acquisition of land or buildings. Payments under agreements entered into under this subsection may be made without regard to section 3324(a) and (b) of title 31.
 
 (Pub. L. 92–573, §7, Oct. 27, 1972, 86 Stat. 1212; Pub. L. 94–284, §§6, 7, 8(a), May 11, 1976, 90 Stat. 505, 506; Pub. L. 95–631, §§3, 4(a)–(c), 5, Nov. 10, 1978, 92 Stat. 3742–3744; Pub. L. 97–35, title XII, §1202, Aug. 13, 1981, 95 Stat. 703; Pub. L. 101–608, title I, §107(a), Nov. 16, 1990, 104 Stat. 3111.)
 
 #### Codification
 
-In subsec. (c), “section 3324(a) and (b) of title 31” substituted for “section 3648 of the Revised Statutes of the United States (31 U.S.C. 529)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (c), “section 3324(a) and (b) of title 31” substituted for “section 3648 of the Revised Statutes of theUnited States (31 U.S.C. 529)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
 
@@ -92,7 +92,7 @@ Consumer Product Safety Rule.—The provision of subsection (b) shall be conside
 
 “(b)
 
-Requirements.—Effective 6 months after the date of enactment of this Act \[July 17, 2008\], each portable gasoline container manufactured on or after that date for sale in the United States shall conform to thechild-resistance requirements for closures on portable gasoline containers specified in the standard ASTM F2517-05, issued by ASTM International.
+Requirements.—Effective 6 months after the date of enactment of this Act \[July 17, 2008\], each portable gasoline container manufactured on or after that date for sale in the United States shall conform to the child-resistance requirements for closures on portable gasoline containers specified in the standard ASTM F2517-05, issued by ASTM International.
 
 “(c)
 
@@ -100,7 +100,7 @@ Definition.—As used in this Act, the term ‘portable gasoline container’ me
 
 “(d)
 
-Revision of Rule.—If, after the enactment of this Act, ASTM International proposes to revise the child resistance requirements of ASTM F2517-05, ASTM International shall notify the Consumer Product Safety Commission of the proposed revision and the proposed revision shall be incorporated in the consumer product safety rule under subsection (a) unless, within 60 days of such notice, the Commission notifies ASTM International that the Commission has determined that such revision does not carry out the purposes of subsection (b).
+Revision of Rule.—If, after the enactment of this Act, ASTM International proposes to revise the child resistance requirements of ASTM F2517-05, ASTM International shall notify the Consumer Product Safety Commission of the proposed revision and the proposed revision shall be incorporated in the consumer product safety rule under subsection (a) unless, within 60 days of such notice, the Commission notifies ASTM International that the Commission has determinedthat such revision does not carry out the purposes of subsection (b).
 
 “(e)
 
@@ -118,7 +118,7 @@ Report.—Not later than 2 years after the date of enactment of this Act \[July 
 
 #### Automatic Garage Door Openers
 
-Section 203 of Pub. L. 101–608 provided that:
+Pub. L. 101–608, title II, §203, Nov. 16, 1990, 104 Stat. 3123, provided that:
 
 “(a)
 

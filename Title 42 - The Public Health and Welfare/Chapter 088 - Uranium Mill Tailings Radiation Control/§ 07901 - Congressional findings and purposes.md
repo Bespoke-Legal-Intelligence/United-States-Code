@@ -20,5 +20,5 @@ Pub. L. 100–616, §1, Nov. 5, 1988, 102 Stat. 3192, provided: “That this Act
 
 #### Short Title
 
-Section 1 of Pub. L. 95–604 provided that: “This Act \[enacting this chapter and sections 2022, 2113, and 2114 of this title, amending sections 2014, 2021, 2111, and 2201 of this title, and enacting provisions set out as notes under sections 2014, 2021, and 2113 of this title\] may be cited as the ‘Uranium Mill Tailings Radiation Control Act of 1978’.”
+Pub. L. 95–604, §1, Nov. 8, 1978, 92 Stat. 3021, provided that: “This Act \[enacting this chapter and sections 2022, 2113, and 2114 of this title, amending sections 2014, 2021, 2111, and 2201 of this title, and enacting provisions set out as notes under sections 2014, 2021, and 2113 of this title\] may be cited as the ‘Uranium Mill Tailings Radiation Control Act of 1978’.”
 

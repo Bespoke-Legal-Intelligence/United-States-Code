@@ -2,7 +2,7 @@
 
 #### (a) Purposes of subgrants
 
-A State educational agency may make a subgrant to an eligible entity from funds received by the agency under this subpart only if the entity agrees to expend the funds to improve the education of limited English proficient children, by assisting the children to learn English and meet challenging State academic content and student academic achievement standards. In carrying out activities with such funds, the entity shall use approaches and methodologies based on scientifically based research on teaching limited English proficient children and immigrant children and youth for the following purposes:
+A State educational agency may make a subgrant to an eligible entity from funds received by the agency under this subpart only if the entity agrees to expend the funds to improve the education of limited English proficient children, by assisting the children to learn English and meet challenging State academic content and student academic achievement standards. Incarrying out activities with such funds, the entity shall use approaches and methodologies based on scientifically based research on teaching limited English proficient children and immigrant children and youth for the following purposes:
 
 &emsp;(1) Developing and implementing new language instruction educational programs and academic content instruction programs for such children, and such children and youth, including programs of early childhood education, elementary school programs, and secondary school programs.
 
@@ -86,7 +86,7 @@ Subject to subsection (c) of this section, an eligible entity receiving funds un
 
 &emsp;&emsp;(E) basic instruction services that are directly attributable to the presence in the school district involved of immigrant children and youth, including the payment of costs of providing additional classroom supplies, costs of transportation, or such other costs as are directly attributable to such additional basic instruction services;
 
-&emsp;&emsp;(F) other instruction services that are designed to assist immigrant children and youth to achieve in elementary schools andsecondary schools in the United States, such as programs of introduction to the educational system and civics education; and
+&emsp;&emsp;(F) other instruction services that are designed to assist immigrant children and youth to achieve in elementary schools and secondary schools in the United States, such as programs of introduction to the educational system and civics education; and
 
 &emsp;&emsp;(G) activities, coordinated with community-based organizations, institutions of higher education, private sector entities, or other entities with expertise in working with immigrants, to assist parents of immigrant children and youth by offering comprehensive community services.
 

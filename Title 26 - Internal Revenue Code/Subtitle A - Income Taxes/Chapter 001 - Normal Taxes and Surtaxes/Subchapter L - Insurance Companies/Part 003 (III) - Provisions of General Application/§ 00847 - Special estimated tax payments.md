@@ -14,7 +14,7 @@ In the case of taxable years beginning after December 31, 1987, of an insurance 
 
 #### (2) Special estimated tax payments
 
-&emsp;The deduction under paragraph (1) shall be allowed only to the extent that such deduction would result in a tax benefit for the taxable year for which such deduction is allowed or any carryback year and only to the extent that special estimated tax payments are made in an amount equal to the tax benefit attributable to such deduction on or before the due date (determined without regard to extensions) for filing the return for the taxable year for which the deduction is allowed. If a deduction would be allowed but for the fact that special estimated tax payments were not timely made, such deduction shall be allowed tothe extent such payments are made within a reasonable time, as determined by the Secretary, if all interest and penalties, computed as if this sentence did not apply, are paid. If amounts are included in gross income under paragraph (5) or (6) for any taxable year and an additional tax is due for such year (or any other year) as a result of such inclusion, an amount of special estimated tax payments equal to such additional tax shall be applied against such additional tax. If, after any such payment is so applied, there is an adjustment reducing the amount of such additional tax, in lieu of any credit or refund for such reduction, a special estimated tax payment shall be treated as made in an amount equal to the amount otherwise allowable as a credit or refund. To the extent that a special estimated tax payment is not used to offset additional tax due for any of the first 15 taxable years beginning after the year for which the payment was made, such special estimated tax payment shall be treated as an estimated tax payment made under section 6655 for the 16th year after the year for which the payment was made.
+&emsp;The deduction under paragraph (1) shall be allowed only to the extent that such deduction would result in a tax benefit for the taxable year for which such deduction is allowed or any carryback year and only to the extent that special estimated tax payments are made in an amount equal to the tax benefit attributable to such deduction on or before the due date (determined without regard to extensions) for filing the return for the taxable year for which the deduction is allowed. If a deduction would be allowed but for the fact that special estimated tax payments were not timely made, such deduction shall be allowed to the extent such payments are made within a reasonable time, as determined by the Secretary, if all interest and penalties, computed as if this sentence did not apply, are paid. If amounts are included in gross income under paragraph (5) or (6) for any taxable year and an additional tax is due for such year (or any other year) as a result of such inclusion, an amount of special estimated tax payments equal to such additional tax shall be applied against such additional tax. If, after any such payment is so applied, there is an adjustment reducing the amount of such additional tax, in lieu of any credit or refund for such reduction, a special estimated tax payment shall be treated as made in an amount equal to the amount otherwise allowable as a credit or refund. To the extent that a special estimated tax payment is not used to offset additional tax due for any of the first 15 taxable years beginning after the year for which the payment was made, such special estimated tax payment shall be treated as an estimated tax payment made under section 6655 for the 16th year after the year for which the payment was made.
 
 #### (3) Special loss discount account
 
@@ -64,7 +64,7 @@ In the case of taxable years beginning after December 31, 1987, of an insurance 
 
 #### (10) Regulations
 
-&emsp;The Secretary shall prescribe such regulations as may be necessary or appropriate tocarry out the purposes of this section, including regulations—
+&emsp;The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations—
 
 &emsp;&emsp;(A) providing for the separate application of this section with respect to each accident year,
 
@@ -100,5 +100,5 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
 #### Effective Date
 
-Section 6077(c) of Pub. L. 100–647 provided that: “The amendments made by this section \[enacting this section\] shall apply to taxable years beginning after December 31, 1987.”
+Pub. L. 100–647, title VI, §6077(c), Nov. 10, 1988, 102 Stat. 3709, provided that: “The amendments made by this section \[enacting this section\] shall apply to taxable years beginning after December 31, 1987.”
 

@@ -16,13 +16,13 @@ The purposes of this section are—
 
 #### (2) Requirement
 
-&emsp;A State that elects to utilize nongovernmental organizations as provided for underparagraph (1) shall consider, on the same basis as other nongovernmental organizations, religious organizations to provide services under substance abuse programs under this subchapter or subchapter III–A of this chapter, so long as the programs under such subchapters are implemented in a manner consistent with the Establishment Clause of the first amendment to the Constitution. Neither the Federal Government nor a State or local government receiving funds under such programs shall discriminate against an organization that provides services under, or applies to provide services under, such programs, on the basis that the organization has a religious character.
+&emsp;A State that elects to utilize nongovernmental organizations as provided for under paragraph (1) shall consider, on the same basis as other nongovernmental organizations, religious organizations to provide services under substance abuse programs under this subchapter or subchapter III–A of this chapter, so long as the programs under such subchapters are implemented in a manner consistent with the Establishment Clause of the first amendment to the Constitution. Neither the Federal Government nor a State or local government receiving funds under such programs shall discriminate against an organization that provides services under, or applies to provide services under, such programs, on the basis that the organization has a religious character.
 
 #### (c) Religious character and independence
 
 #### (1) In general
 
-&emsp;A religious organization that provides services under any substance abuse program under this subchapter or subchapter III–A of this chapter shall retain its independence from Federal, State, and local governments, including such organization's control over the definition, development, practice, and expression of its religious beliefs.
+&emsp;A religious organization that provides services under any substance abuse program underthis subchapter or subchapter III–A of this chapter shall retain its independence from Federal, State, and local governments, including such organization's control over the definition, development, practice, and expression of its religious beliefs.
 
 #### (2) Additional safeguards
 
@@ -86,7 +86,7 @@ No funds provided through a grant or contract to a religious organization to pro
 
 #### (j) Effect on State and local funds
 
-If a State or local government contributes State or local funds to carry out any substanceabuse program under this subchapter or subchapter III–A of this chapter, the State or local government may segregate the State or local funds from the Federal funds provided to carry out the program or may commingle the State or local funds with the Federal funds. If the State or local government commingles the State or local funds, the provisions of this section shall apply to the commingled funds in the same manner, and to the same extent, as the provisions apply to the Federal funds.
+If a State or local government contributes State or local funds to carry out any substance abuse program under this subchapter or subchapter III–A of this chapter, the State or local government may segregate the State or local funds from the Federal funds provided to carry out the program or may commingle the State or local funds with the Federal funds. If the State or local government commingles the State or local funds, the provisions of this section shall apply to the commingled funds in the same manner, and to the same extent, as the provisions apply to the Federal funds.
 
 #### (k) Treatment of intermediate contractors
 

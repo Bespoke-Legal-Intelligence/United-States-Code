@@ -12,7 +12,7 @@ Except as provided in subsection (b), construction on a construction project whi
 
 An action described in subsection (a) may be taken if—
 
-&emsp;(1) the Secretary of Energy has submitted to the congressional defense committees a reporton the actions and the circumstances making such action necessary; and
+&emsp;(1) the Secretary of Energy has submitted to the congressional defense committees a report on the actions and the circumstances making such action necessary; and
 
 &emsp;(2) a period of 30 days has elapsed after the date on which the report is received by the committees.
 

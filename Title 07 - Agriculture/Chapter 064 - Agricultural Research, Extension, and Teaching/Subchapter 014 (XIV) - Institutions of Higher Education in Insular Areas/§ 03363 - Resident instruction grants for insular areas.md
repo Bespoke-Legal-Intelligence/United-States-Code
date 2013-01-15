@@ -4,7 +4,7 @@
 
 The Secretary of Agriculture shall make competitive grants to eligible institutions to—
 
-&emsp;(1) strengthen institutional educational capacities, including libraries, curriculum, faculty, scientific instrumentation, instruction delivery systems, and student recruitment and retention, in order to respond to identified State, regional, national, or international education needs in the food and agricultural sciences;
+&emsp;(1) strengthen institutional educational capacities, including libraries, curriculum, faculty, scientific instrumentation, instructiondelivery systems, and student recruitment and retention, in order to respond to identified State, regional, national, or international education needs in the food and agricultural sciences;
 
 &emsp;(2) attract and support undergraduate and graduate students in order to educate them in identified areas of national need in the food and agriculture sciences;
 

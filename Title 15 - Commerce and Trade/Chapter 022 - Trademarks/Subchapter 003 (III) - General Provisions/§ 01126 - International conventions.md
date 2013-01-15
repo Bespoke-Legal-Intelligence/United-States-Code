@@ -16,7 +16,7 @@ For the purposes of this section, the country of origin of the applicant is the 
 
 #### (d) Right of priority
 
-An application for registration of a mark under section 1051, 1053, 1054, or 1091 of this title or under subsection (e) of this section, filed by a person described in subsection (b) of this section who has previously duly filed an application for registration of the same mark in one of the countries described in subsection (b) of this section shall be accorded the same force and effect as would be accorded to the same application if filed in the United States on the same date on which the application was first filed in such foreign country: <i>Provided</i>, That—
+An application for registration of a mark under section 1051, 1053, 1054, or 1091 of this title or under subsection (e) of this section, filed bya person described in subsection (b) of this section who has previously duly filed an application for registration of the same mark in one of the countries described in subsection (b) of this section shall be accorded the same force and effect as would be accorded to the same application if filed in the United States on the same date on which the application was first filed in such foreign country: <i>Provided</i>, That—
 
 &emsp;(1) the application in the United States is filed within six months from the date on which the application was first filed in the foreign country;
 
@@ -68,7 +68,7 @@ Pub. L. 106–43 substituted “trademarks” for “trade-marks”.
 
 Subsec. (e). Pub. L. 106–113 substituted “Director” for “Commissioner”.
 
-<b>1998</b>—Subsec. (d). Pub. L. 105–330, §108(1)(A), in introductory provisions, substituted “or 1091 of this title orunder subsection (e) of this section” for “1091 of this title, or subsection (e) of this section”.
+<b>1998</b>—Subsec. (d). Pub. L. 105–330, §108(1)(A), in introductory provisions, substituted “or 1091 of this title or under subsection (e) of this section” for “1091 of this title, or subsection (e) of this section”.
 
 Subsec. (d)(3), (4). Pub. L. 105–330, §108(1)(B), made technical amendment to reference in original act which appears in text as reference to this subsection.
 
@@ -108,7 +108,7 @@ Amendment by Pub. L. 100–667 effective one year after Nov. 16, 1988, see secti
 
 #### Effective Date of 1961 Amendment
 
-Section 3 of Pub. L. 87–333 provided that: “This Act \[amending this section and section 119 of Title 35, Patents\] shall take effect on the date when the Convention of Paris for the Protection of Industrial Property of March 20, 1883, as revised at Lisbon, October 31, 1958, comes into force with respect to the United States and shall apply only to applications thereafter filed in the United States by persons entitled to the benefit of said convention, as revised at the time of such filing.”
+Pub. L. 87–333, §3, Oct. 3, 1961, 75 Stat. 748, provided that: “This Act \[amending this section and section 119 of Title 35, Patents\] shall take effect on the date when the Convention of Paris for the Protection of Industrial Property of March 20, 1883, as revised at Lisbon, October 31, 1958, comes into force with respect to the United States and shall apply only to applications thereafter filed in the United States by persons entitled to the benefit of said convention, as revised at the time of such filing.”
 
 #### Repeal and Effect on Existing Rights
 

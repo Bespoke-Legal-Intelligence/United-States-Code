@@ -168,7 +168,7 @@ Subsec. (d)(3)(A)(i). Pub. L. 111–203, §1102(b)(3), inserted “or the Federa
 
 Subsec. (d)(3)(A)(ii). Pub. L. 111–203, §1102(b)(3), (4), inserted “participating in or” after “any entity” and “or the Federal Reserve banks” after “by the Board”.
 
-Subsec. (d)(3)(B). Pub. L. 111–203, §1102(b)(5), inserted at end “The Comptroller General may make and retain copies of books, accounts, and other records provided under subparagraph (A) as the Comptroller Generaldeems appropriate. The Comptroller General shall provide to any person or entity described in subparagraph (A) a current list of officers and employees to whom, with proper identification, records and property may be made available, and who may make notes or copies necessary to carry out a audit or examination under this subsection.”
+Subsec. (d)(3)(B). Pub. L. 111–203, §1102(b)(5), inserted at end “The Comptroller General may make and retain copies of books, accounts, and other records provided under subparagraph (A) as the Comptroller General deems appropriate. The Comptroller General shall provide to any person or entity described in subparagraph (A) a current list of officers and employees to whom, with proper identification, records and property may be made available, and who may make notes or copies necessary to carry out a audit or examination under this subsection.”
 
 Subsec. (f). Pub. L. 111–203, §1102(a), added subsec. (f).
 

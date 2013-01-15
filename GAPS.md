@@ -20,3 +20,4 @@ left exactly as it was in its last available edition, and its changes appear in 
 | 2010 | USCODE-2010-title14 | listed in GPO's sitemap but not served by govinfo | the 2009 edition |
 | 2010 | USCODE-2010-title51 | listed in GPO's sitemap but not served by govinfo | nothing yet (title first available later) |
 | 2011 | USCODE-2011-title34 | not in govinfo (absent from GPO's sitemap for this edition) | the 2010 edition |
+| 2012 | USCODE-2012-title34 | not in govinfo (absent from GPO's sitemap for this edition) | the 2010 edition |

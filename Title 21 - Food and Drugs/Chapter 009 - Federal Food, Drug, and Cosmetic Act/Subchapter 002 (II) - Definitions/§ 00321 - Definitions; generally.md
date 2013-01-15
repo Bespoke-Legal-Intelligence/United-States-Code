@@ -20,7 +20,7 @@ For the purposes of this chapter—
 
 (2) The term “counterfeit drug” means a drug which, or the container or labeling of which, without authorization, bears the trademark, trade name, or other identifying mark, imprint, or device, or any likeness thereof, of a drug manufacturer, processor, packer, or distributor other than the person or persons who in fact manufactured, processed, packed, or distributed such drug and which thereby falsely purports or is represented to be the product of, or to have been packed or distributed by, such other drug manufacturer, processor, packer, or distributor.
 
-(h) The term “device” (except when used in paragraph (n) of this section and in sections 331(i), 343(f), 352(c), and 362(c) of this title) means an instrument, apparatus, implement, machine, contrivance, implant, in vitro reagent, or other similar or related article, including any component, part, or accessory, which is—
+(h) The term “device” (except when used in paragraph (n) of this section and in sections 331(i), 343(f), 352(c), and 362(c) of this title) means an instrument, apparatus, implement, machine, contrivance, implant, in vitro reagent, or othersimilar or related article, including any component, part, or accessory, which is—
 
 &emsp;(1) recognized in the official National Formulary, or the United States Pharmacopeia, or any supplement to them,
 
@@ -36,13 +36,13 @@ For the purposes of this chapter—
 
 (k) The term “label” means a display of written, printed, or graphic matter upon the immediate container of any article; and a requirement made by or under authority of this chapter that any word, statement, or other information appear on the label shall not be considered to be complied with unless such word, statement, or other information also appears on the outside container or wrapper, if any there be, of the retail package of such article, or is easily legible through the outside container or wrapper.
 
-(<i>l</i>) The term “immediate container” does not include package liners.
+(l) The term “immediate container” does not include package liners.
 
 (m) The term “labeling” means all labels and other written, printed, or graphic matter (1) upon any article or any of its containers or wrappers, or (2) accompanying such article.
 
 (n) If an article is alleged to be misbranded because the labeling or advertising is misleading, then in determining whether the labeling or advertising is misleading there shall be taken into account (among other things) not only representations made or suggested by statement, word, design, device, or any combination thereof, but also the extent to which the labeling or advertising fails to reveal facts material in the light of such representations or material with respect to consequences which may result from the use of the article to which the labeling or advertising relates under the conditions of use prescribed in the labeling or advertising thereof or under such conditions of use as are customary or usual.
 
-(<i>o</i>) The representation of a drug, in its labeling, as an antiseptic shall be considered to be a representation that it is a germicide, except in the case of a drug purporting to be, or represented as, an antiseptic for inhibitory use as a wet dressing, ointment, dusting powder, or such other use as involves prolonged contact with the body.
+(o) The representation of a drug, in its labeling, as an antiseptic shall be considered to be a representation that it is a germicide, except in the case of a drug purporting to be, or represented as, an antiseptic for inhibitory use as a wet dressing, ointment, dusting powder, or such other use as involves prolonged contact with the body.
 
 (p) The term “new drug” means—
 
@@ -110,7 +110,7 @@ For the purposes of this chapter—
 
 (v) The term “new animal drug” means any drug intended for use for animals other than man, including any drug intended for use in animal feed but not including such animal feed,—
 
-&emsp;(1) the composition of which is such that such drug is not generally recognized, among experts qualified by scientific training and experience to evaluate the safety and effectiveness of animal drugs, as safe and effective for use under the conditions prescribed, recommended, or suggested in the labeling thereof; except that such a drug not so recognized shall not be deemed to be a “new animal drug” if at any time prior to June 25, 1938, it was subject to the Food and Drug Act of June 30, 1906, as amended, and if at such time its labeling contained the same representations concerning the conditions of its use; or
+&emsp;(1) the composition of which is such that such drug is not generally recognized, amongexperts qualified by scientific training and experience to evaluate the safety and effectiveness of animal drugs, as safe and effective for use under the conditions prescribed, recommended, or suggested in the labeling thereof; except that such a drug not so recognized shall not be deemed to be a “new animal drug” if at any time prior to June 25, 1938, it was subject to the Food and Drug Act of June 30, 1906, as amended, and if at such time its labeling contained the same representations concerning the conditions of its use; or
 
 &emsp;(2) the composition of which is such that such drug, as a result of investigations to determine its safety and effectiveness for use under such conditions, has become so recognized but which has not, otherwise than in such investigations, been used to a material extent or for a material time under such conditions.
 
@@ -226,13 +226,13 @@ For the purposes of this chapter—
 
 &emsp;(2) includes any nonradioactive reagent, reagent kit, ingredient, nuclide generator, accelerator, target material, electronic synthesizer, or other apparatus or computer program to be used in the preparation of such a drug.
 
-(jj) The term “antibiotic drug” means any drug (except drugs for use in animals other thanhumans) composed wholly or partly of any kind of penicillin, streptomycin, chlortetracycline, chloramphenicol, bacitracin, or any other drug intended for human use containing any quantity of any chemical substance which is produced by a micro-organism and which has the capacity to inhibit or destroy micro-organisms in dilute solution (including a chemically synthesized equivalent of any such substance) or any derivative thereof.
+(jj) The term “antibiotic drug” means any drug (except drugs for use in animals other than humans) composed wholly or partly of any kind of penicillin, streptomycin, chlortetracycline, chloramphenicol, bacitracin, or any other drug intended for human use containing any quantity of any chemical substance which is produced by a micro-organism and which has the capacity to inhibit or destroy micro-organisms in dilute solution (including a chemically synthesized equivalent of any such substance) or any derivative thereof.
 
 (kk)
 
 Priority supplement.—The term “priority supplement” means a drug application referred to in section 101(4) of the Food and Drug Administration Modernization Act of 1997 (111 Stat. 2298).
 
-(<i>ll</i>)(1) The term “single-use device” means a device that is intended for one use, or on a single patient during a single procedure.
+(ll)(1) The term “single-use device” means a device that is intended for one use, or on a single patient during a single procedure.
 
 (2)(A) The term “reprocessed”, with respect to a single-use device, means an original device that has previously been used on a patient and has been subjected to additional processing and manufacturing for the purpose of an additional single use on a patient. The subsequent processing and manufacture of a reprocessed single-use device shall result in a device that is reprocessed within the meaning of this definition.
 
@@ -242,11 +242,11 @@ Priority supplement.—The term “priority supplement” means a drug applicati
 
 (mm)(1) The term “critical reprocessed single-use device” means a reprocessed single-use device that is intended to contact normally sterile tissue or body spaces during use.
 
-(2) The term “semi-critical reprocessed single-use device” means a reprocessed single-use device that is intended to contact intact mucous membranes and not penetrate normally sterile areas of the body.
+(2) The term “semi-critical reprocessed single-use device” means a reprocessed single-use device that is intended to contact intact mucousmembranes and not penetrate normally sterile areas of the body.
 
 (nn) The term “major species” means cattle, horses, swine, chickens, turkeys, dogs, and cats, except that the Secretary may add species to this definition by regulation.
 
-(<i>oo</i>) The term “minor species” means animals other than humans that are not major species.
+(oo) The term “minor species” means animals other than humans that are not major species.
 
 (pp) The term “minor use” means the intended use of a drug in a major species for an indication that occurs infrequently and in only a small number of animals or in limited geographical areas and in only a small number of animals annually.
 
@@ -298,7 +298,7 @@ Par. (qq). Pub. L. 108–282, §203(c)(1), added par. (qq).
 
 <b>2002</b>—Par. (kk). Pub. L. 107–109 added par. (kk).
 
-Pars. (<i>ll</i>), (mm). Pub. L. 107–250 added pars. (<i>ll</i>) and (mm).
+Pars. (ll), (mm). Pub. L. 107–250 added pars. (ll) and (mm).
 
 <b>1998</b>—Par. (q)(1). Pub. L. 105–324, §2(a), added subpar. (1) and struck out former subpar. (1) which read as follows: “The term ‘pesticide chemical’ means any substance that is a pesticide within the meaning of the Federal Insecticide, Fungicide, and Rodenticide Act, including all active and inert ingredients of such pesticide.”
 
@@ -410,7 +410,7 @@ Pub. L. 108–282, title II, §203(d), Aug. 2, 2004, 118 Stat. 908, provided tha
 
 #### Effective Date of 1997 Amendment
 
-Section 501 of Pub. L. 105–115 provided that: “Except as otherwise provided in this Act \[see Short Title of 1997 Amendment note set out under section 301 of this title\], this Act and the amendments made by this Act, other than the provisions of and the amendments made by sections 111, 121, 125, and 307 \[enacting section 355a of this title, amending this section and sections 331, 335a, 351, 352, 360, 360j, 360aa to 360cc, 360ee, 374, 379g, 381, and 382 of this title, section 45C of Title 26, Internal Revenue Code, section 156 of Title 35, Patents, and section 8126 of Title 38, Veterans’ Benefits, repealing sections 356 and 357 of this title, and enacting provisions set out as notes under sections 351 and 355 of this title\], shall take effect 90 days after the date of enactment of this Act \[Nov. 21, 1997\].”
+Pub. L. 105–115, title V, §501, Nov. 21, 1997, 111 Stat. 2380, provided that: “Except as otherwise provided in this Act \[see Short Title of 1997 Amendment note set out under section 301 of this title\], this Act and the amendments made by this Act, other than the provisions of and the amendments made by sections 111, 121, 125, and 307 \[enacting section 355a of this title, amending this section and sections 331, 335a, 351, 352, 360, 360j, 360aa to 360cc, 360ee, 374, 379g, 381, and 382 of this title, section 45C of Title 26, Internal Revenue Code, section 156 of Title 35, Patents, and section 8126 of Title 38, Veterans’ Benefits, repealing sections 356 and 357 of this title, and enacting provisions set out as notes under sections 351 and 355 of this title\], shall take effect 90 days after the date of enactment of this Act \[Nov. 21, 1997\].”
 
 #### Effective Date of 1990 Amendment
 
@@ -430,17 +430,17 @@ Amendment by Pub. L. 91–513 effective on first day of seventh calendar month t
 
 #### Effective Date of 1968 Amendments; Transitional Provisions
 
-Section 6 of Pub. L. 90–639 provided that: “The amendments made by this Act \[amending this section, sections 331, 333, 334, and 360a of this title, and provisions set out as a note under section 289a of Title 42, The Public Health and Welfare\] shall apply only with respect to violations of the Federal Food, Drug, and Cosmetic Act \[this chapter\] committed after the date of the enactment of this Act \[Oct. 24, 1968\].”
+Pub. L. 90–639, §6, Oct. 24, 1968, 82 Stat. 1362, provided that: “The amendments made by this Act \[amending this section, sections 331, 333, 334, and 360a of this title, and provisions set out as a note under section 289a of Title 42, The Public Health and Welfare\] shall apply only with respect to violations of the Federal Food, Drug, and Cosmetic Act \[this chapter\] committed after the date of the enactment of this Act \[Oct. 24, 1968\].”
 
 Amendment by Pub. L. 90–399 effective on first day of thirteenth calendar month after July 13, 1968, except that in the case of a drug (other than one subject to section 360b(n) of this title) intended for use in animals other than man which, on Oct. 9, 1962, was commercially used or sold in the United States, was not a new drug as defined in par. (p) of this section then in force, and was not covered by an effective application under section 355 of this title, the words “effectiveness” and “effective” contained in par. (v) of this section not applicable to such drug when intended solely for use under conditions prescribed, recommended, or suggested in labeling with respect to such drug on that day, see section 108(a), (b)(3) of Pub. L. 90–399, as amended, set out as an Effective Date and Transitional Provisions note under section 360b of this title.
 
 #### Effective Date of 1965 Amendment
 
-Section 11 of Pub. L. 89–74 provided that: “The foregoing provisions of this Act \[see Short Title of 1965 Amendment note set out under section 301 of this title\] shall take effect on the first day of the seventh calendar month \[Feb. 1, 1966\] following the month in which this Act is enacted \[July 15, 1965\]; except that (1) the Secretary shall permit persons, owning or operating any establishment engaged in manufacturing, preparing, propagating, compounding, processing, wholesaling, jobbing, or distributing any depressant or stimulant drug, as referred to in the amendments made by section 4 of this Act to section 510 of the Federal Food, Drug, and Cosmetic Act \[section 360 of this title\], to register their name, places of business, and establishments, and other information prescribed by such amendments, with the Secretary prior to such effective date, and (2) sections 201(v) and 511(g) of the Federal Food, Drug, and Cosmetic Act, as added by this act \[par. (v) of this section and par. (g) of section 360a of this title\], and the provisions of sections 8 \[amending section 372 of this title and section 1114 of Title 18, Crimes and Criminal Procedure\] and 10 \[set out as a note under this section\] shall take effect upon the date of enactment of this Act \[July 15, 1965\].”
+Pub. L. 89–74, §11, July 15, 1965, 79 Stat. 235, provided that: “The foregoing provisions of this Act \[see Short Title of 1965 Amendment note set out under section 301 of this title\] shall take effect on the first day of the seventh calendar month \[Feb. 1, 1966\] following the month in which this Act is enacted \[July 15, 1965\]; except that (1) the Secretary shall permit persons, owning or operating any establishment engaged in manufacturing, preparing, propagating, compounding, processing, wholesaling, jobbing, or distributing any depressant or stimulant drug, as referred to in the amendments made by section 4 of this Act to section 510 of the Federal Food, Drug, and Cosmetic Act \[section 360 of this title\], to register their name, places of business, and establishments, and other information prescribed by such amendments, with the Secretary prior to such effective date, and (2) sections 201(v) and 511(g) of the Federal Food, Drug, and Cosmetic Act, as added by this act \[par. (v) of this section and par. (g) of section 360a of this title\], and the provisions of sections 8 \[amending section 372 of this title and section 1114 of Title 18, Crimes and Criminal Procedure\] and 10 \[set out as a note under this section\] shall take effect upon the date of enactment of this Act \[July 15, 1965\].”
 
 #### Effective Date of 1962 Amendment
 
-Section 107 of Pub. L. 87–781 provided that:
+Pub. L. 87–781, title I, §107, Oct. 10, 1962, 76 Stat. 788, provided that:
 
 “(a) Except as otherwise provided in this section, the amendments made by the foregoing sections of this part A \[amending this section and sections 331, 332, 348, 351 to 353, 355, 357, 379e of this title, and enacting provisions set out as a note under section 355 of this title\] shall take effect on the date of enactment of this Act \[Oct. 10, 1962\].
 
@@ -480,7 +480,7 @@ Amendments by Pub. L. 101–535 not to be construed to alter authority of Secret
 
 #### Savings Provision
 
-Section 702 of Pub. L. 91–513, as amended by Pub. L. 93–481, §2, Oct. 26, 1974, 88 Stat. 1455, provided that:
+Pub. L. 91–513, title II, §702, Oct. 27, 1970, 84 Stat. 1283, as amended by Pub. L. 93–481, §2, Oct. 26, 1974, 88 Stat. 1455, provided that:
 
 “(a) Prosecutions for any violation of law occurring prior to the effective date \[see Effective Date of 1970 Amendment note above\] of section 701 \[repealing section 360a of this title, and amending sections 321, 331, 333, 334, 360, 372, and 381 of this title, sections 1114 and 1952 of Title 18, Crimes and Criminal Procedure, and section 242 of Title 42, The Public Health and Welfare\] shall not be affected by the repeals or amendments made by such section, or abated by reason thereof.
 
@@ -488,7 +488,7 @@ Section 702 of Pub. L. 91–513, as amended by Pub. L. 93–481, §2, Oct. 26, 1
 
 “(c) All administrative proceedings pending before the Bureau of Narcotics and Dangerous Drugs \[now the Drug Enforcement Administration\] on the date of enactment of this Act \[Oct. 27, 1970\] shall be continued and brought to final determination in accord with laws and regulations in effect prior to such date of enactment. Where a drug is finally determined under such proceedings to be a depressant or stimulant drug, as defined in section 201(v) of the Federal Food, Drug, and Cosmetic Act \[par. (v) of this section\], such drug shall automatically be controlled under this title \[subchapter I of chapter 13 of this title\] by the Attorney General without further proceedings and listed in the appropriate schedule after he has obtained the recommendation of the Secretary. Any drug with respect to which such a final determination has been made prior to the date of enactment of this Act which is not listed in section 202 \[section 812 of this title\] within schedules I through V shall automatically be controlled under this title \[subchapter I of chapter 13 of this title\] by the Attorney General without further proceedings, and be listed in the appropriate schedule, after he has obtained the recommendations of the Secretary.
 
-“(d) Notwithstanding subsection (a) of this section or section 1103 \[of Pub. L. 91–513, set out as a note undersections 171 to 174 of this title\], section 4202 of title 18, United States Code, shall apply to any individual convicted under any of the laws repealed by this title or title III \[subchapter I or subchapter II of chapter 13 of this title\] without regard to the terms of any sentence imposed on such individual under such law.”
+“(d) Notwithstanding subsection (a) of this section or section 1103 \[of Pub. L. 91–513, set out as a note under sections 171 to 174 of this title\], section 4202 of title 18, United States Code, shall apply to any individual convicted under any of the laws repealed by this title or title III \[subchapter I or subchapter II of chapter 13 of this title\] without regard to the terms of any sentence imposed on such individual under such law.”
 
 #### Transfer of Functions
 
@@ -504,11 +504,11 @@ Food and Drug Administration in Department of Agriculture and its functions, exc
 
 #### Regulation of Tobacco
 
-Section 422 of Pub. L. 105–115 provided that: “Nothing in this Act \[see Short Title of 1997 Amendment note set out under section 301 of this title\] or the amendments made by this Act shall be construed to affect the question of whether the Secretary of Health and Human Services has any authority to regulate any tobacco product, tobacco ingredient, or tobacco additive. Such authority, if any, shall be exercised under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\] as in effect on the day before the date of the enactment of this Act \[Nov. 21, 1997\].”
+Pub. L. 105–115, title IV, §422, Nov. 21, 1997, 111 Stat. 2380, provided that: “Nothing in this Act \[see Short Title of 1997 Amendment note set out under section 301 of this title\] or the amendments made by this Act shall be construed to affect the question of whether the Secretary of Health and Human Services has any authority to regulate any tobacco product, tobacco ingredient, or tobacco additive. Such authority, if any, shall be exercised under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\] as in effect on the day before the date of the enactment of this Act \[Nov. 21, 1997\].”
 
 #### Congressional Findings Relating to Pub. L. 103–417
 
-Section 2 of Pub. L. 103–417 provided that: “Congress finds that—
+Pub. L. 103–417, §2, Oct. 25, 1994, 108 Stat. 4325, provided that: “Congress finds that—
 
 &emsp;“(1) improving the health status of United States citizens ranks at the top of the national priorities of the Federal Government;
 
@@ -552,15 +552,15 @@ Section 2 of Pub. L. 103–417 provided that: “Congress finds that—
 
 #### Dissemination of Information Regarding the Dangers of Drug Abuse
 
-Section 5 of Pub. L. 90–639 provided that: “It is the sense of the Congress that, because of the inadequate knowledge on the part of the people of the United States of the substantial adverse effects of misuse of depressant and stimulant drugs, and of other drugs liable to abuse, on the individual, his family, and the community, the highest priority should be given to Federal programs to disseminate information which may be used to educate the public, particularly young persons, regarding the dangers of drug abuse.”
+Pub. L. 90–639, §5, Oct. 24, 1968, 82 Stat. 1362, provided that: “It is the sense of the Congress that, because of the inadequate knowledge on the part of the people of the United States of the substantial adverse effects of misuse of depressant and stimulant drugs, and of other drugs liable to abuse, on the individual, his family, and the community, the highest priority should be given to Federal programs to disseminate information which may be used to educate the public, particularly young persons, regarding the dangers of drug abuse.”
 
 #### Congressional Findings and Declaration of Policy
 
-Section 2 of Pub. L. 89–74 provided that: “The Congress hereby finds and declares that there is a widespread illicit traffic in depressant and stimulant drugs moving in or otherwise affecting interstate commerce; that the use of such drugs, when not under the supervision of a licensed practitioner, often endangers safety on the highways (without distinction of interstate and intrastate traffic thereon) and otherwise has become a threat to the public health and safety, making additional regulation of such drugs necessary regardless of the intrastate or interstate origin of such drugs; that in order to make regulation and protection of interstate commerce in such drugs effective, regulation of intrastate commerce is also necessary because, among other things, such drugs, when held for illicit sale, often do not bear labeling showing their place of origin and because in the form in which they are so held or in which they are consumed a determination of their place of origin is often extremely difficult or impossible; and that regulation of interstate commerce without the regulation of intrastate commerce in such drugs, as provided in this Act \[see Short Title of 1965 Amendment note set out under section 301 of this title\], would discriminate against and adversely affect interstate commerce in such drugs.”
+Pub. L. 89–74, §2, July 15, 1965, 79 Stat. 226, provided that: “The Congress hereby finds and declares that there is a widespread illicit traffic in depressant and stimulant drugs moving in or otherwise affecting interstate commerce; that the use of such drugs, when not under the supervision of a licensed practitioner, often endangers safety on the highways (without distinction of interstate and intrastate traffic thereon) and otherwise has become a threat to the public health and safety, making additional regulation of such drugs necessary regardless of the intrastate or interstate origin of such drugs; that in order to make regulation and protection of interstate commerce in such drugs effective, regulation of intrastate commerce is also necessary because, among other things, such drugs, when held for illicit sale, often do not bear labeling showing their place of origin and because in the form in which they are so held or in which they are consumed a determination of their place of origin is often extremely difficult or impossible; and that regulation of interstate commerce without the regulation of intrastate commerce in such drugs, as provided in this Act \[see Short Title of 1965 Amendment note set out under section 301 of this title\], would discriminate against and adversely affect interstate commerce in such drugs.”
 
 #### Effect of Drug Abuse Control Amendments of 1965 on State Laws
 
-Section 10 of Pub. L. 89–74 provided that:
+Pub. L. 89–74, §10, July 15, 1965, 79 Stat. 235, provided that:
 
 “(a) Nothing in this Act \[enacting section 360a of this title, amending sections 321, 331, 333, 334, 360, and 372 of this title and section 1114 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under sections 321, 352, and 360a of this title\] shall be construed as authorizing the manufacture, compounding, processing, possession, sale, delivery, or other disposal of any drug in any State in contravention of the laws of such State.
 
@@ -570,11 +570,11 @@ Section 10 of Pub. L. 89–74 provided that:
 
 #### Effect of Drug Amendments of 1962 on State Laws
 
-Section 202 of Pub. L. 87–781 provided that: “Nothing in the amendments made by this Act \[enacting sections 358 to 360, amending sections 321, 331, 332, 348, 351 to 353, 355, 357, 372, 374, 379e, and 381 of this title, and enacting provisions set out as notes under sections 321, 331, 332, 352, 355, 360, and 374 of this title\] to the Federal Food, Drug, and Cosmetic Act \[this chapter\] shall be construed as invalidating any provision of State law which would be valid in the absence of such amendments unless there is a direct and positive conflict between such amendments and such provision of State law.”
+Pub. L. 87–781, title II, §202, Oct. 10, 1962, 76 Stat. 793, provided that: “Nothing in the amendments made by this Act \[enacting sections 358 to 360, amending sections 321, 331, 332, 348, 351 to 353, 355, 357, 372, 374, 379e, and 381 of this title, and enacting provisions set out as notes under sections 321, 331, 332, 352, 355, 360, and 374 of this title\] to the Federal Food, Drug, and Cosmetic Act \[this chapter\] shall be construed as invalidating any provision of State law which would be valid in the absence of such amendments unless there is a direct and positive conflict between such amendments and such provision of State law.”
 
 #### Definitions
 
-Section 2 of Pub. L. 105–115 provided that: “In this Act \[see Short Title of 1997 Amendment note set out under section 301 of this title\], the terms ‘drug’, ‘device’, ‘food’, and ‘dietary supplement’ have the meaning given such terms in section 201 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321).”
+Pub. L. 105–115, §2, Nov. 21, 1997, 111 Stat. 2297, provided that: “In this Act \[see Short Title of 1997 Amendment note set out under section 301 of this title\], the terms ‘drug’, ‘device’, ‘food’, and ‘dietary supplement’ have the meaning given such terms in section 201 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321).”
 
 <i><sup>1</sup></i><i> So in original. Probably should be paragraph “(v)”.</i>
 

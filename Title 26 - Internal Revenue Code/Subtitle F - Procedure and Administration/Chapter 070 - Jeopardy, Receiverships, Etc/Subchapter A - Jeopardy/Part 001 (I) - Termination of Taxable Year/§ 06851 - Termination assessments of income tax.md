@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;If the Secretary finds that a taxpayer designs quickly to depart from the United States or to remove his property therefrom, or to conceal himself or his property therein, or to do any other act (including in the case of a corporation distributing all or a part of its assets in liquidation or otherwise) tending to prejudice or to render wholly or partially ineffectual proceedings to collect the income tax for the current or the immediately preceding taxable year unless such proceeding be brought without delay, the Secretary shall immediately make a determination of tax for the current taxable year or for the preceding taxable year, or both, as the case may be, andnotwithstanding any other provision of law, such tax shall become immediately due and payable. The Secretary shall immediately assess the amount of the tax so determined (together with all interest, additional amounts, and additions to the tax provided by law) for the current taxable year or such preceding taxable year, or both, as the case may be, and shall cause notice of such determination and assessment to be given the taxpayer, together with a demand for immediate payment of such tax.
+&emsp;If the Secretary finds that a taxpayer designs quickly to depart from the United States or to remove his property therefrom, or to conceal himself or his property therein, or to do any other act (including in the case of a corporation distributing all or a part of its assets in liquidation or otherwise) tending to prejudice or to render wholly or partially ineffectual proceedings to collect the income tax for the current or the immediately preceding taxable year unless such proceeding be brought without delay, the Secretary shall immediately make a determination of tax for the current taxable year or for the preceding taxable year, or both, as the case may be, and notwithstanding any other provision of law, such tax shall become immediately due and payable. The Secretary shall immediately assess the amount of the tax so determined (together with all interest, additional amounts, and additions to the tax provided by law) for the current taxable year or such preceding taxable year, or both, as the case may be, and shall cause notice of such determination and assessment to be given the taxpayer, together with a demand for immediate payment of such tax.
 
 #### (2) Computation of tax
 
@@ -12,7 +12,7 @@
 
 #### (3) Treatment of amounts collected
 
-&emsp;Any amounts collected as a result of any assessments under this subsection shall, to the extent thereof, be treated as a payment of tax for such taxable year.
+&emsp;Any amounts collected as a result of any assessments under this subsection shall, to theextent thereof, be treated as a payment of tax for such taxable year.
 
 #### (4) This section inapplicable where section 6861 applies
 
@@ -64,7 +64,7 @@ Subsec. (f). Pub. L. 94–455, §1204(b)(2), added subsec. (f).
 
 #### Effective Date of 1976 Amendment
 
-Section 1204(d) of Pub. L. 94–455, as amended by Pub. L. 94–528, §2(a), Oct. 17, 1976, 90 Stat. 2483; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[enacting section 7429 of this title and amending this section and sections 443, 6091, 6211, 6213, 6863, 7103, and 7421 of this title\] apply with respect to action taken under section 6851, 6861, or 6862 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] where the notice and demand takes place after February 28, 1977.”
+Pub. L. 94–455, title XII, §1204(d), Oct. 4, 1976, 90 Stat. 1699, as amended by Pub. L. 94–528, §2(a), Oct. 17, 1976, 90 Stat. 2483; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[enacting section 7429 of this title and amending this section and sections 443, 6091, 6211, 6213, 6863, 7103, and 7421 of this title\] apply with respect to action taken under section 6851, 6861, or 6862 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] where the notice and demand takes place after February 28, 1977.”
 
 #### Effective Date of 1958 Amendment
 

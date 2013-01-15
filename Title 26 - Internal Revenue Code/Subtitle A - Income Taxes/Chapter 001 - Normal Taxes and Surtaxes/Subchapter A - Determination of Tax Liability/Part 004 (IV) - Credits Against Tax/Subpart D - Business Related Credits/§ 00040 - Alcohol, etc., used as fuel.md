@@ -10,7 +10,7 @@ For purposes of section 38, the alcohol fuels credit determined under this secti
 
 &emsp;(3) in the case of an eligible small ethanol producer, the small ethanol producer credit, plus
 
-&emsp;(4) the cellulosic biofuel producer credit.
+&emsp;(4) the second generation biofuel producer credit.
 
 #### (b) Definition of alcohol mixture credit, alcohol credit, and small ethanol producer credit
 
@@ -82,7 +82,7 @@ For purposes of this section, and except as provided in subsection (h)—
 
 #### (C) Limitation
 
-&emsp;&emsp;The qualified ethanol fuel production of any producer for any taxable year shall not exceed 15,000,000 gallons (determined without regard to any qualified cellulosic biofuel production).
+&emsp;&emsp;The qualified ethanol fuel production of any producer for any taxable year shall not exceed 15,000,000 gallons (determined without regard to any qualified second generation biofuel production).
 
 #### (D) Additional distillation excluded
 
@@ -92,63 +92,63 @@ For purposes of this section, and except as provided in subsection (h)—
 
 &emsp;The adding of any denaturant to alcohol shall not be treated as the production of a mixture.
 
-#### (6) Cellulosic biofuel producer credit
+#### (6) Second generation biofuel producer credit
 
 #### (A) In general
 
-&emsp;&emsp;The cellulosic biofuel producer credit of any taxpayer is an amount equal to the applicable amount for each gallon of qualified cellulosic biofuel production.
+&emsp;&emsp;The second generation biofuel producer credit of any taxpayer is an amount equal to the applicable amount for each gallon of qualified second generation biofuel production.
 
 #### (B) Applicable amount
 
-&emsp;&emsp;For purposes of subparagraph (A), the applicable amount means $1.01, except that such amount shall, in the case of cellulosic biofuel which is alcohol, be reduced by the sum of—
+&emsp;&emsp;For purposes of subparagraph (A), the applicable amount means $1.01, except that such amount shall, in the case of second generation biofuel which is alcohol, be reduced by the sum of—
 
-&emsp;&emsp;&emsp;(i) the amount of the credit in effect for such alcohol under subsection (b)(1) (without regard to subsection (b)(3)) at the time of the qualified cellulosic biofuel production, plus
+&emsp;&emsp;&emsp;(i) the amount of the credit in effect for such alcohol under subsection (b)(1) (without regard to subsection (b)(3)) at the time of the qualified second generation biofuel production, plus
 
 &emsp;&emsp;&emsp;(ii) in the case of ethanol, the amount of the credit in effect under subsection (b)(4) at the time of such production.
 
-#### (C) Qualified cellulosic biofuel production
+#### (C) Qualified second generation biofuel production
 
-&emsp;&emsp;For purposes of this section, the term “qualified cellulosic biofuel production” means any cellulosic biofuel which is produced by the taxpayer, and which during the taxable year—
+&emsp;&emsp;For purposes of this section, the term “qualified second generation biofuel production” means any second generation biofuel which is produced by the taxpayer, and which during the taxable year—
 
 &emsp;&emsp;&emsp;(i) is sold by the taxpayer to another person—
 
-&emsp;&emsp;&emsp;&emsp;(I) for use by such other person in the production of a qualified cellulosic biofuel mixture in such other person's trade or business (other than casual off-farm production),
+&emsp;&emsp;&emsp;&emsp;(I) for use by such other person in the production of a qualified second generation biofuel mixture in such other person's trade or business (other than casual off-farm production),
 
 &emsp;&emsp;&emsp;&emsp;(II) for use by such other person as a fuel in a trade or business, or
 
-&emsp;&emsp;&emsp;&emsp;(III) who sells such cellulosic biofuel at retail to another person and places such cellulosic biofuel in the fuel tank of such other person, or
+&emsp;&emsp;&emsp;&emsp;(III) who sells such second generation biofuel at retail to another person and places such second generation biofuel in the fuel tank of such other person, or
 
 &emsp;&emsp;&emsp;(ii) is used or sold by the taxpayer for any purpose described in clause (i).
 
-> &emsp;&emsp;The qualified cellulosic biofuel production of any taxpayer for any taxable year shall not include any alcohol which is purchased by the taxpayer and with respect to which such producer increases the proof of the alcohol by additional distillation.
+> &emsp;&emsp;The qualified second generation biofuel production of any taxpayer for any taxable year shall not include any alcohol which is purchased by the taxpayer and with respect to which such producer increases the proof of the alcohol by additional distillation.
 
-#### (D) Qualified cellulosic biofuel mixture
+#### (D) Qualified second generation biofuel mixture
 
-&emsp;&emsp;For purposes of this paragraph, the term “qualified cellulosic biofuel mixture” means a mixture of cellulosic biofuel and gasoline or of cellulosic biofuel and a special fuel which—
+&emsp;&emsp;For purposes of this paragraph, the term “qualified second generation biofuel mixture” means a mixture of second generation biofuel and gasoline or of second generation biofuel and a special fuel which—
 
 &emsp;&emsp;&emsp;(i) is sold by the person producing such mixture to any person for use as a fuel, or
 
 &emsp;&emsp;&emsp;(ii) is used as a fuel by the person producing such mixture.
 
-#### (E) Cellulosic biofuel
+#### (E) Second generation biofuel
 
 &emsp;&emsp;For purposes of this paragraph—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term “cellulosic biofuel” means any liquid fuel which—
+&emsp;&emsp;&emsp;The term “second generation biofuel” means any liquid fuel which—
 
-&emsp;&emsp;&emsp;&emsp;(I) is produced from any lignocellulosic or hemicellulosic matter that is available on a renewable or recurring basis, and
+&emsp;&emsp;&emsp;&emsp;(I) is derived by, or from, qualified feedstocks, and
 
 &emsp;&emsp;&emsp;&emsp;(II) meets the registration requirements for fuels and fuel additives established by the Environmental Protection Agency under section 211 of the Clean Air Act (42 U.S.C. 7545).
 
 #### (ii) Exclusion of low-proof alcohol
 
-&emsp;&emsp;&emsp;Such term shall not include any alcohol with a proof of less than 150. The determination of the proof of any alcohol shall be made without regard to any added denaturants.
+&emsp;&emsp;&emsp;The term “second generation biofuel” shall not include any alcohol with a proof of less than 150. The determination of the proof of any alcohol shall be made without regard to any added denaturants.
 
 #### (iii) Exclusion of certain fuels
 
-&emsp;&emsp;&emsp;The term “cellulosic biofuel” shall not include any fuel if—
+&emsp;&emsp;&emsp;The term “second generation biofuel” shall not include any fuel if—
 
 &emsp;&emsp;&emsp;&emsp;(I) more than 4 percent of such fuel (determined by weight) is any combination of water and sediment,
 
@@ -156,17 +156,41 @@ For purposes of this section, and except as provided in subsection (h)—
 
 &emsp;&emsp;&emsp;&emsp;(III) such fuel has an acid number greater than 25.
 
-#### (F) Allocation of cellulosic biofuel producer credit to patrons of cooperative
+#### (F) Qualified feedstock
+
+&emsp;&emsp;For purposes of this paragraph, the term “qualified feedstock” means—
+
+&emsp;&emsp;&emsp;(i) any lignocellulosic or hemicellulosic matter that is available on a renewable or recurring basis, and
+
+&emsp;&emsp;&emsp;(ii) any cultivated algae, cyanobacteria, or lemna.
+
+#### (G) Special rules for algae
+
+&emsp;&emsp;In the case of fuel which is derived by, or from, feedstock described in subparagraph (F)(ii) and which is sold by the taxpayer to another person for refining by such other person into a fuel which meets the requirements of subparagraph (E)(i)(II) and the refined fuel is not excluded under subparagraph (E)(iii)—
+
+&emsp;&emsp;&emsp;(i) such sale shall be treated as described in subparagraph (C)(i),
+
+&emsp;&emsp;&emsp;(ii) such fuel shall be treated as meeting the requirements of subparagraph (E)(i)(II) and as not being excluded under subparagraph (E)(iii) in the hands of such taxpayer, and
+
+&emsp;&emsp;&emsp;(iii) except as provided in this subparagraph, such fuel (and any fuel derived from such fuel) shall not be taken into account under subparagraph (C) with respect to the taxpayer or any other person.
+
+#### (H) Allocation of second generation biofuel producer credit to patrons of cooperative
 
 &emsp;&emsp;Rules similar to the rules under subsection (g)(6) shall apply for purposes of this paragraph.
 
-#### (G) Registration requirement
+#### (I) Registration requirement
 
-&emsp;&emsp;No credit shall be determined under this paragraph with respect to any taxpayer unless such taxpayer is registered with the Secretary as a producer of cellulosic biofuel under section 4101.
+&emsp;&emsp;No credit shall be determined under this paragraph with respect to any taxpayer unless such taxpayer is registered with the Secretary as a producer of second generation biofuel under section 4101.
 
-#### (H) Application of paragraph
+#### (J) Application of paragraph
 
-&emsp;&emsp;This paragraph shall apply with respect to qualified cellulosic biofuel production after December 31, 2008, and before January 1, 2013.
+#### (i) In general
+
+&emsp;&emsp;&emsp;This paragraph shall apply with respect to qualified second generation biofuel production after December 31, 2008, and before January 1, 2014.
+
+#### (ii) No carryover to certain years after expiration
+
+&emsp;&emsp;&emsp;If this paragraph ceases to apply for any period by reason of clause (i), rules similar to the rules of subsection (e)(2) shall apply.
 
 #### (c) Coordination with exemption from excise tax
 
@@ -230,7 +254,7 @@ For purposes of this section—
 
 > &emsp;&emsp;then there is hereby imposed on such person a tax equal to 10 cents a gallon for each gallon of such alcohol.
 
-#### (D) Cellulosic biofuel producer credit
+#### (D) Second generation biofuel producer credit
 
 &emsp;&emsp;If—
 
@@ -238,7 +262,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) any person does not use such fuel for a purpose described in subsection (b)(6)(C),
 
-> &emsp;&emsp;then there is hereby imposed on such person a tax equal to the applicable amount (as defined in subsection (b)(6)(B)) for each gallon of such cellulosic biofuel.
+> &emsp;&emsp;then there is hereby imposed on such person a tax equal to the applicable amount (as defined in subsection (b)(6)(B)) for each gallon of such second generation biofuel.
 
 #### (E) Applicable laws
 
@@ -246,15 +270,15 @@ For purposes of this section—
 
 #### (4) Volume of alcohol
 
-&emsp;For purposes of determining under subsection (a) the number of gallons of alcohol with respect to which a credit is allowable under subsection (a), the volume of alcohol shall include the volume of any denaturant (including gasoline) which is added under any formulas approved by the Secretary to the extent that such denaturants do not exceed 2 percent of the volume of such alcohol (including denaturants).
+&emsp;For purposes of determining under subsection (a) the number of gallons of alcoholwith respect to which a credit is allowable under subsection (a), the volume of alcohol shall include the volume of any denaturant (including gasoline) which is added under any formulas approved by the Secretary to the extent that such denaturants do not exceed 2 percent of the volume of such alcohol (including denaturants).
 
 #### (5) Pass-thru in the case of estates and trusts
 
 &emsp;Under regulations prescribed by the Secretary, rules similar to the rules of subsection (d) of section 52 shall apply.
 
-#### (6) Special rule for cellulosic biofuel producer credit
+#### (6) Special rule for second generation biofuel producer credit
 
-&emsp;No cellulosic biofuel producer credit shall be determined under subsection (a) with respectto any cellulosic biofuel unless such cellulosic biofuel is produced in the United States and used as a fuel in the United States. For purposes of this subsection, the term “United States” includes any possession of the United States.
+&emsp;No second generation biofuel producer credit shall be determined under subsection (a) with respect to any second generation biofuel unless such second generation biofuel is produced in the United States and used as a fuel in the United States. For purposes of this subsection, the term “United States” includes any possession of the United States.
 
 #### (7) Limitation to alcohol with connection to the United States
 
@@ -272,9 +296,9 @@ For purposes of this section—
 
 #### (2) No carryovers to certain years after expiration
 
-&emsp;If this section ceases to apply for any period by reason of paragraph (1) or subsection (b)(6)(H), no amount attributable to any sale or use before the first day of such period may be carried under section 39 by reason of this section (treating the amount allowed by reason of this section as the first amount allowed by this subpart) to any taxable year beginning after the 3-taxable-year period beginning with the taxable year in which such first day occurs.
+&emsp;If this section ceases to apply for any period by reason of paragraph (1), no amount attributable to any sale or use before the first day of such period may be carried under section 39 by reason of this section (treating the amount allowed by reason of this section as the first amount allowed by this subpart) to any taxable year beginning after the 3-taxable-year period beginning with the taxable year in which such first day occurs.
 
-#### (3) Exception for cellulosic biofuel producer credit
+#### (3) Exception for second generation biofuel producer credit
 
 &emsp;Paragraph (1) shall not apply to the portion of the credit allowed under this section by reason of subsection (a)(4).
 
@@ -387,7 +411,7 @@ For purposes of this section—
 
 &emsp;&emsp;A determination described in this subparagraph with respect to any calendar year is a determination, in consultation with the Administrator of the Environmental Protection Agency, that an amount less than 7,500,000,000 gallons of ethanol (including cellulosic ethanol) has been produced in or imported into the United States in such year.
 
-(Added Pub. L. 96–223, title II, §232(b)(1), Apr. 2, 1980, 94 Stat. 273, §44E; amended Pub. L. 97–34, title II §207(c)(3), Aug. 13, 1981, 95 Stat. 225; Pub. L. 97–354, §5(a)(2), Oct. 19, 1982, 96 Stat. 1692; Pub. L. 97–424, title V, §511(b)(2), (d)(3), Jan. 6, 1983, 96 Stat. 2170, 2171; renumbered §40 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(k), title IX, §§912(c), (f), 913(b), July 18, 1984, 98 Stat. 826, 832, 1007, 1008; Pub. L. 100–203, title X, §10502(d)(1), Dec. 22, 1987, 101 Stat. 1330–444; Pub. L. 101–508, title XI, §11502(a)–(f), Nov. 5, 1990, 104 Stat. 1388–480 to 1388–482; Pub. L. 104–188, title I, §1703(j), Aug. 20, 1996, 110 Stat. 1876; Pub. L. 105–178, title IX, §9003(a)(3), (b)(1), June 9, 1998, 112 Stat. 502; Pub. L. 108–357, title III, §§301(c)(1)–(4), 313(a), Oct. 22, 2004, 118 Stat. 1461, 1467; Pub. L. 109–58, title XIII, §1347(a), (b), Aug. 8, 2005, 119 Stat. 1056; Pub. L. 110–234, title XV, §§15321(a)–(b)(2), (3)(B), (c)–(e), 15331(a), 15332(a), May 22, 2008, 122 Stat. 1512–1516; Pub. L. 110–246, §4(a), title XV, §§15321(a)–(b)(2), (3)(B), (c)–(e), 15331(a), 15332(a), June 18, 2008, 122 Stat. 1664, 2274–2278; Pub. L. 110–343, div. B, title II, §203(a), Oct. 3, 2008, 122 Stat. 3833; Pub. L. 111–152, title I, §1408(a), Mar. 30, 2010, 124 Stat. 1067; Pub. L. 111–240, title II, §2121(a), Sept. 27, 2010, 124 Stat. 2567; Pub. L. 111–312, title VII, §708(a)(1), (2), Dec. 17, 2010, 124 Stat. 3312.)
+(Added Pub. L. 96–223, title II, §232(b)(1), Apr. 2, 1980, 94 Stat. 273, §44E; amended Pub. L. 97–34, title II §207(c)(3), Aug. 13, 1981, 95 Stat. 225; Pub. L. 97–354, §5(a)(2), Oct. 19, 1982, 96 Stat. 1692; Pub. L. 97–424, title V, §511(b)(2), (d)(3), Jan. 6, 1983, 96 Stat. 2170, 2171; renumbered §40 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(k), title IX, §§912(c), (f), 913(b), July 18, 1984, 98 Stat. 826, 832, 1007, 1008; Pub. L. 100–203, title X, §10502(d)(1), Dec. 22, 1987, 101 Stat. 1330–444; Pub. L. 101–508, title XI, §11502(a)–(f), Nov. 5, 1990, 104 Stat. 1388–480 to 1388–482; Pub. L. 104–188, title I, §1703(j), Aug. 20, 1996, 110 Stat. 1876; Pub. L. 105–178, title IX, §9003(a)(3), (b)(1), June 9, 1998, 112 Stat. 502; Pub. L. 108–357, title III, §§301(c)(1)–(4), 313(a), Oct. 22, 2004, 118 Stat. 1461, 1467; Pub. L. 109–58, title XIII, §1347(a), (b), Aug. 8, 2005, 119 Stat. 1056; Pub. L. 110–234, title XV, §§15321(a)–(b)(2), (3)(B), (c)–(e), 15331(a), 15332(a), May 22, 2008, 122 Stat. 1512–1516; Pub. L. 110–246, §4(a), title XV, §§15321(a)–(b)(2), (3)(B), (c)–(e), 15331(a), 15332(a), June 18, 2008, 122 Stat. 1664, 2274–2278; Pub. L. 110–343, div. B, title II, §203(a), Oct. 3, 2008, 122 Stat. 3833; Pub. L. 111–152, title I, §1408(a), Mar. 30, 2010, 124 Stat. 1067; Pub. L. 111–240, title II, §2121(a), Sept. 27, 2010, 124 Stat. 2567; Pub. L. 111–312, title VII, §708(a)(1), (2), Dec. 17, 2010, 124 Stat. 3312; Pub. L. 112–240, title IV, §404(a)(1), (2), (b)(1)–(3)(B), Jan. 2, 2013, 126 Stat. 2338, 2339.)
 
 #### Codification
 
@@ -400,6 +424,36 @@ A prior section 40, added Pub. L. 92–178, title VI, §601(a), Dec. 10, 1971, 8
 Another prior section 40 was renumbered section 37 of this title.
 
 #### Amendments
+
+<b>2013</b>—Pub. L. 112–240, §404(b)(3)(A)(i), substituted “second generation biofuel” for “cellulosic biofuel” wherever appearing in text in subsecs. (a)(4), (b)(4)(C), (6), and (d)(3)(D), (6).
+
+Subsec. (b)(6). Pub. L. 112–240, §404(b)(3)(A)(ii), substituted “Second generation” for “Cellulosic” in heading.
+
+Subsec. (b)(6)(C), (D). Pub. L. 112–240, §404(b)(3)(A)(iii), substituted “second generation” for “cellulosic” in heading.
+
+Subsec. (b)(6)(E). Pub. L. 112–240, §404(b)(3)(A)(ii), substituted “Second generation” for “Cellulosic” in heading.
+
+Subsec. (b)(6)(E)(i)(I). Pub. L. 112–240, §404(b)(1), amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: “is produced from any lignocellulosic or hemicellulosic matter that is available on a renewable or recurring basis, and”.
+
+Subsec. (b)(6)(E)(ii). Pub. L. 112–240, §404(b)(3)(B), substituted “The term ‘second generation biofuel’ shall not” for “Such term shall not”.
+
+Subsec. (b)(6)(F), (G). Pub. L. 112–240, §404(b)(2), added subpars. (F) and (G). Former subpars. (F) and (G) redesignated as (H) and (I), respectively.
+
+Subsec. (b)(6)(H). Pub. L. 112–240, §404(b)(3)(A)(iii), substituted “second generation” for “cellulosic” in heading.
+
+Pub. L. 112–240, §404(b)(2), redesignated subpar. (F) as (H). Former subpar. (H) redesignated (J).
+
+Pub. L. 112–240, §404(a)(1), amended subpar. (H) generally. Prior to amendment, text read as follows: “This paragraph shall apply with respect to qualified cellulosic biofuel production after December 31, 2008, and before January 1, 2013.”
+
+Subsec. (b)(6)(I), (J). Pub. L. 112–240, §404(b)(2), redesignated subpars. (G) and (H) as (I) and (J), respectively.
+
+Subsec. (d)(3)(D). Pub. L. 112–240, §404(b)(3)(A)(ii), substituted “Second generation” for “Cellulosic” in heading.
+
+Subsec. (d)(6). Pub. L. 112–240, §404(b)(3)(A)(iii), substituted “second generation” for “cellulosic” in heading.
+
+Subsec. (e)(2). Pub. L. 112–240, §404(a)(2), struck out “or subsection (b)(6)(H)” after “paragraph (1)”.
+
+Subsec. (e)(3). Pub. L. 112–240, §404(b)(3)(A)(iii), substituted “second generation” for “cellulosic” in heading.
 
 <b>2010</b>—Subsec. (b)(6)(E)(iii). Pub. L. 111–240, §2121(a)(4), substituted “certain” for “unprocessed” in heading.
 
@@ -533,6 +587,12 @@ Subsec. (d)(3)(A), (B). Pub. L. 97–424, §511(d)(3), substituted “50 cents�
 
 <b>1981</b>—Subsec. (e)(2)(A). Pub. L. 97–34 substituted “15” for “7” in two places, and “14” for “6” in one place.
 
+#### Effective Date of 2013 Amendment
+
+Pub. L. 112–240, title IV, §404(a)(3), Jan. 2, 2013, 126 Stat. 2338, provided that: “The amendments made by this subsection \[amending this section\] shall take effect as if included in section 15321(b) of the Heartland, Habitat, and Horticulture Act of 2008 \[probably should be Heartland, Habitat, Harvest, and Horticulture Act of 2008, title XV of Pub. L. 110–246\].”
+
+Pub. L. 112–240, title IV, §404(b)(4), Jan. 2, 2013, 126 Stat. 2339, provided that: “The amendments made by this subsection \[amending this section and section 4101 of this title\] shall apply to fuels sold or used after the date of the enactment of this Act \[Jan. 2, 2013\].”
+
 #### Effective Date of 2010 Amendment
 
 Pub. L. 111–312, title VII, §708(a)(3), Dec. 17, 2010, 124 Stat. 3312, provided that: “The amendments made by this subsection \[amending this section\] shall apply to periods after December 31, 2010.”
@@ -557,7 +617,7 @@ Pub. L. 110–234, title XV, §15331(c), May 22, 2008, 122 Stat. 1516, and Pub. 
 
 Pub. L. 110–234, title XV, §15332(c), May 22, 2008, 122 Stat. 1516, and Pub. L. 110–246, §4(a), title XV, §15332(c), June 18, 2008, 122 Stat. 1664, 2278, provided that: “The amendments made by this section \[amending this section and section 6426 of this title\] shall apply to fuel sold or used after December 31, 2008.”
 
-\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
+\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a)of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
 
 #### Effective Date of 2005 Amendment
 
@@ -591,11 +651,11 @@ Pub. L. 105–178, title IX, §9003(b)(3), June 9, 1998, 112 Stat. 503, provided
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of 1993, Pub. L. 103–66, §§13001–13444, to which such amendment relates, see section 1703(<i>o</i>) of Pub. L. 104–188, set out as a note under section 39 of this title.
+Amendment by Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of 1993, Pub. L. 103–66, §§13001–13444, to which such amendment relates, see section 1703(o) of Pub. L. 104–188, set out as a note under section 39 of this title.
 
 #### Effective Date of 1990 Amendment
 
-Section 11502(h) of Pub. L. 101–508 provided that:
+Pub. L. 101–508, title XI, §11502(h), Nov. 5, 1990, 104 Stat. 1388–482, provided that:
 
 “(1) Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to alcohol produced, and sold or used, in taxable years beginning after December 31, 1990.
 
@@ -603,13 +663,13 @@ Section 11502(h) of Pub. L. 101–508 provided that:
 
 #### Effective Date of 1987 Amendment
 
-Section 10502(e) of Pub. L. 100–203 provided that: “The amendments made by this section \[enacting sections 4091 to 4093 of this title, amending this section and sections 4041, 4081, 4101, 4221, 6206, 6416, 6421, 6427, 6652, 9502, 9503, and 9508 of this title, and enacting provisions set out as notes under sections 4091 and 9502 of this title\] shall apply to sales after March 31, 1988.”
+Pub. L. 100–203, title X, §10502(e), Dec. 22, 1987, 101 Stat. 1330–445, provided that: “The amendments made by this section \[enacting sections 4091 to 4093 of this title, amending this section and sections 4041, 4081, 4101, 4221, 6206, 6416, 6421, 6427, 6652, 9502, 9503, and 9508 of this title, and enacting provisions set out as notes under sections 4091 and 9502 of this title\] shall apply to sales after March 31, 1988.”
 
 #### Effective Date of 1984 Amendment
 
 Amendment by section 474(k) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as a note under section 21 of this title.
 
-Section 912(g) of Pub. L. 98–369 provided that: “The amendments made by this section \[amending this section and sections 4041, 4081, and 6427 of this title\] shall take effect on January 1, 1985.”
+Pub. L. 98–369, div. A, title IX, §912(g), July 18, 1984, 98 Stat. 1008, provided that: “The amendments made by this section \[amending this section and sections 4041, 4081, and 6427 of this title\] shall take effect on January 1, 1985.”
 
 Amendment by section 913(b) of Pub. L. 98–369 effective Aug. 1, 1984, see section 913(c) of Pub. L. 98–369, set out as a note under section 4041 of this title.
 
@@ -627,7 +687,7 @@ Amendment by Pub. L. 97–34 applicable to unused credit years ending after Sept
 
 #### Effective Date
 
-Section 232(h)(1), (4) of Pub. L. 96–223, as amended by Pub. L. 97–448, title II, §202(e), Jan. 12, 1983, 96 Stat. 2396, provided that:
+Pub. L. 96–223, title II, §232(h)(1), (4), Apr. 2, 1980, 94 Stat. 281, as amended by Pub. L. 97–448, title II, §202(e), Jan. 12, 1983, 96 Stat. 2396, provided that:
 
 “(1) The amendments made by subsections (b) and (c) \[enacting sections 44E \[now 40\] and 86 of this title and amending sections 55, 381, 383, 4081, and 6096 of this title\] shall apply to sales or uses after September 30, 1980, in taxable years ending after such date.
 

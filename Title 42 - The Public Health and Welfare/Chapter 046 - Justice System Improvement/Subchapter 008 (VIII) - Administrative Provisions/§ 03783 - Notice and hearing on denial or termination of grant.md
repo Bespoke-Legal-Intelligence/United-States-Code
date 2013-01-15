@@ -12,11 +12,13 @@ Whenever, after reasonable notice and opportunity for a hearing on the record in
 
 (Pub. L. 90–351, title I, §802, formerly §803, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1202; renumbered §802 and amended Pub. L. 98–473, title II, §609B(b), Oct. 12, 1984, 98 Stat. 2092; Pub. L. 99–570, title I, §1552(b)(3), Oct. 27, 1986, 100 Stat. 3207–46; Pub. L. 101–647, title II, §241(b)(3), title VIII, §801(c)(2), Nov. 29, 1990, 104 Stat. 4813, 4826; Pub. L. 103–322, title IV, §40231(d)(2), title XXXIII, §330001(c), (h)(8), Sept. 13, 1994, 108 Stat. 1934, 2138, 2139; Pub. L. 107–273, div. C, title I, §11012, Nov. 2, 2002, 116 Stat. 1823; Pub. L. 109–162, title XI, §1155(1), Jan. 5, 2006, 119 Stat. 3113.)
 
+#### Codification
+
+Another section 802 of Pub. L. 90–351, title III, June 19, 1968, 82 Stat. 212–223, enacted sections 2510 to 2520 of Title 18, Crimes and Criminal Procedure.
+
 #### Prior Provisions
 
 A prior section 802 of Pub. L. 90–351 was renumbered section 801 and is classified to section 3782 of this title.
-
-Another prior section 802 of Pub. L. 90–351, title III, June 19, 1968, 82 Stat. 212–223, enacted sections 2510 to 2520 of Title 18, Crimes and Criminal Procedure.
 
 #### Amendments
 
@@ -34,7 +36,7 @@ Pub. L. 101–647, §241(b)(3), substituted “, XII–A, or XII–B” for “
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–473 in amending subsec. (a) generally, included provision for finding of noncompliance by the Bureau of Justice Assistance and excluded similar provision for Law Enforcement Assistance Administration, substituted “the Director involved shall, until satisfied that there is no longer any such failure to comply,” for “they, until satisfied that there is no longer any such failure to comply, shall—”, and struck out designations “(A)” before “terminate payment”, “(B)” before “reduce payments”, and “(C)” before “limit the availability of payments”.
 
-Subsec. (b). Pub. L. 98–473 in amending subsec. (b) generally, substituted “If any grant application submitted under subchapter IV of this chapter has been denied, or any grant under this chapter has been terminated” for “If a State grant application filed under subchapter IV of this chapter or any grant application filed under any other subchapter of this chapter has been rejected or a State applicant under subchapter IV of this chapter or applicant under any other subchapter of this chapter has been denied a grant or has had a grant, or any portion of a grant, discontinued, terminated or has been given a grant in a lesser amount that such applicant believes appropriate under the provisions of this chapter” struck out “or grantee” after “notify the applicant” and before “requests a hearing”; substituted requirement for notice by the Bureau of Justice Assistance rather than the Law EnforcementAssistance Administration; and inserted provisions for taking final action without hearing but requiring a more detailed statement of reasons for agency action to be made available to the applicant.
+Subsec. (b). Pub. L. 98–473 in amending subsec. (b) generally, substituted “If any grant application submitted under subchapter IV of this chapter has been denied, or any grant under this chapter has been terminated” for “If a State grant application filed under subchapter IV of this chapter or any grant application filed under any other subchapter of this chapter has been rejected or a State applicant under subchapter IV of this chapter or applicant under any other subchapter of this chapter has been denied a grant or has had a grant, or any portion of a grant, discontinued, terminated or has been given a grant in a lesser amount that such applicant believes appropriate under the provisions of this chapter” struck out “or grantee” after “notify the applicant” and before “requests a hearing”; substituted requirement for notice by the Bureau of Justice Assistance rather than the Law Enforcement Assistance Administration; and inserted provisions for taking final action without hearing but requiring a more detailed statement of reasons for agency action to be made available to the applicant.
 
 Subsec. (c). Pub. L. 98–473 in amending subsec. (c) generally, substituted provisions for findings and rehearings by the Bureau of Justice Assistance for similar provisions for Law Enforcement Assistance Administration; and substituted description of the party as “applicant” for prior designation as “recipient”.
 

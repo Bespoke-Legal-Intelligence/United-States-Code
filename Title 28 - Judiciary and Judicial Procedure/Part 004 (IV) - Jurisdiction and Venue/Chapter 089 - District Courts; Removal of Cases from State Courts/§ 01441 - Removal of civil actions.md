@@ -48,7 +48,7 @@ Multiparty, Multiforum Jurisdiction.—(1) Notwithstanding the provisions of sub
 
 (f)
 
-Derivative Removal Jurisdiction.—The court to which a civil action is removed under this section is not precluded from hearing and determining any claim in such civil action because the State court from which such civil action is removed did not have jurisdiction over that claim.
+Derivative Removal Jurisdiction.—The court to which a civil action is removed under this section is not precluded from hearing anddetermining any claim in such civil action because the State court from which such civil action is removed did not have jurisdiction over that claim.
 
 (June 25, 1948, ch. 646, 62 Stat. 937; Pub. L. 94–583, §6, Oct. 21, 1976, 90 Stat. 2898; Pub. L. 99–336, §3(a), June 19, 1986, 100 Stat. 637; Pub. L. 100–702, title X, §1016(a), Nov. 19, 1988, 102 Stat. 4669; Pub. L. 101–650, title III, §312, Dec. 1, 1990, 104 Stat. 5114; Pub. L. 102–198, §4, Dec. 9, 1991, 105 Stat. 1623; Pub. L. 107–273, div. C, title I, §11020(b)(3), Nov. 2, 2002, 116 Stat. 1827; Pub. L. 112–63, title I, §103(a), Dec. 7, 2011, 125 Stat. 759.)
 
@@ -112,7 +112,7 @@ Amendment by Pub. L. 107–273 applicable to a civil action if the accident givi
 
 #### Effective Date of 1986 Amendment
 
-Section 3(b) of Pub. L. 99–336 provided that: “The amendment made by this section \[amending this section\] shall apply with respect to claims in civil actions commenced in State courts on or after the date of the enactment of this section \[June 19, 1986\].”
+Pub. L. 99–336, §3(b), June 19, 1986, 100 Stat. 637, provided that: “The amendment made by this section \[amending this section\] shall apply with respect to claims in civil actions commenced in State courts on or after the date of the enactment of this section \[June 19, 1986\].”
 
 #### Effective Date of 1976 Amendment
 

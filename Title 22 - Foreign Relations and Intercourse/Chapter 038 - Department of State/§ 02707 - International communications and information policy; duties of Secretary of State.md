@@ -18,7 +18,7 @@
 
 &emsp;(7) assist in arranging meetings of such public sector advisory groups as may be established to advise the Department of State and other executive branch agencies in connection with international communications and information policy issues.
 
-(Aug. 1, 1956, ch. 841, title I, §35, as added Pub. L. 98–164, title I, §124, Nov. 22, 1983, 97 Stat. 1025; amended Pub. L. 100–204, title I, §173(a)(1), Dec. 22, 1987, 101 Stat. 1360; Pub. L. 103–236, title I, §162(k)(1), Apr. 30, 1994, 108 Stat. 408.)
+(Aug. 1, 1956, ch. 841, title I, §35, as added Pub. L. 98–164, title I, §124, Nov. 22, 1983, 97 Stat. 1025; amended Pub. L. 100–204, title I, §173(a)(1), Dec.22, 1987, 101 Stat. 1360; Pub. L. 103–236, title I, §162(k)(1), Apr. 30, 1994, 108 Stat. 408.)
 
 #### Prior Provisions
 
@@ -44,15 +44,15 @@ Amendment by Pub. L. 103–236 applicable with respect to officials, offices, an
 
 #### Effective Date of 1987 Amendment
 
-Section 173(b) of Pub. L. 100–204 provided that: “The amendments made by subsection (a) \[amending this section and section 4303 of this title\] shall take effect 30 days after the date of enactment of this Act \[Dec. 22, 1987\].”
+Pub. L. 100–204, title I, §173(b), Dec. 22, 1987, 101 Stat. 1360, provided that: “The amendments made by subsection (a) \[amending this section and section 4303 of this title\] shall take effect 30 days after the date of enactment of this Act \[Dec. 22, 1987\].”
 
 #### Effect of 1994 Amendments on Scope of Authority Vested as of April 30, 1994
 
-Section 162(k)(2) of Pub. L. 103–236 provided that: “Nothing in the amendments made by paragraph (1) \[amending this section\] affects the nature or scope of the authority that is on the date of enactment of this Act \[Apr. 30, 1994\] vested by law or Executive order in the Department of Commerce, the Office of the United States Trade Representative, the Federal Communications Commission, or any officer thereof.”
+Pub. L. 103–236, title I, §162(k)(2), Apr. 30, 1994, 108 Stat. 409, provided that: “Nothing in the amendments made by paragraph (1) \[amending this section\] affects the nature or scope of the authority that is on the date of enactment of this Act \[Apr. 30, 1994\] vested by law or Executive order in the Department of Commerce, the Office of the United States Trade Representative, the Federal Communications Commission, or any officer thereof.”
 
 #### New Spending Authority
 
-Section 173(c) of Pub. L. 100–204 provided that: “Any new spending authority (as defined in section 401(c) of the Congressional Budget Act of 1974 \[2 U.S.C. 651(c)\]) provided by this section \[amending sections 2707 and 4303 of this title\] shall be effective for any fiscal year only to such extent or in such amounts as are provided in advance in appropriation Acts.”
+Pub. L. 100–204, title I, §173(c), Dec. 22, 1987, 101 Stat. 1360, provided that: “Any new spending authority (as defined in section 401(c) of the Congressional Budget Act of 1974 \[2 U.S.C. 651(c)\]) provided by this section \[amending sections 2707 and 4303 of this title\] shall be effective for any fiscal year only to such extent or in such amounts as are provided in advance in appropriation Acts.”
 
 <i><sup>1</sup></i><i> So in original.</i>
 

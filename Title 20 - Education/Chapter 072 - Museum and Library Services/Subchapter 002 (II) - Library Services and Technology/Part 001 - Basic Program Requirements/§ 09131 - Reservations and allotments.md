@@ -28,7 +28,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of this subsection, the minimum allotment for each State shall be $680,000, except that the minimum allotment shall be $60,000 in the case of the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau.
+&emsp;&emsp;For purposes of this subsection, the minimum allotment for each State shall be $680,000, except that the minimum allotment shall be $60,000 in the case of the United States Virgin Islands, Guam, AmericanSamoa, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau.
 
 #### (B) Ratable reductions
 
@@ -52,7 +52,7 @@
 
 &emsp;The population of each State and of all the States shall be determined by the Director on the basis of the most recent data available from the Bureau of the Census.
 
-(Pub. L. 94–462, title II, §221, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\],Sept. 30, 1996, 110 Stat. 3009–233, 3009–297; amended Pub. L. 105–128, §4, Dec. 1, 1997, 111 Stat. 2548; Pub. L. 108–81, title II, §204, Sept. 25, 2003, 117 Stat. 997; Pub. L. 111–340, title II, §203, Dec. 22, 2010, 124 Stat. 3600.)
+(Pub. L. 94–462, title II, §221, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–297; amended Pub. L. 105–128, §4, Dec. 1, 1997, 111 Stat. 2548; Pub. L. 108–81, title II, §204, Sept. 25, 2003, 117 Stat. 997; Pub. L. 111–340, title II, §203, Dec. 22, 2010, 124 Stat. 3600.)
 
 #### Amendments
 

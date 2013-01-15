@@ -46,7 +46,7 @@ Limitation on Number of Officers Frocked to Specified Grades.—(1) The total nu
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–163, §503(c), inserted “in a grade below the grade of major general or, in the case of the Navy, rear admiral,” after “An officer” in first sentence.
 
-Subsec. (d)(1). Pub. L. 109–163, §504(1), substituted “colonels, Navy captains, brigadier generals, and rear admirals (lower half)” for “brigadier generals and Navy rear admirals (lower half)” and “the next higher grade may not exceed 85” for “the grade of major general or rear admiral, as the case may be, may not exceed 30”.
+Subsec. (d)(1). Pub. L. 109–163, §504(1), substituted “colonels, Navy captains, brigadier generals, and rear admirals (lower half)” for “brigadier generals and Navy rear admirals (lower half)” and “the next higher grademay not exceed 85” for “the grade of major general or rear admiral, as the case may be, may not exceed 30”.
 
 Subsec. (d)(2), (3). Pub. L. 109–163, §504(2), (3), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “The total number of colonels and Navy captains on the active-duty list who are authorized as described in subsection (a) to wear the insignia for the grade of brigadier general or rear admiral (lower half), as the case may be, may not exceed 55.”
 

@@ -2,7 +2,7 @@
 
 #### (a) Sense of Congress
 
-It is the sense of Congress, consistent with the 9/11 Commission's recommendations, that thePresident should strive to expand and strengthen the Proliferation Security Initiative (in this subchapter referred to as “PSI”) announced by the President on May 31, 2003, with a particular emphasis on the following:
+It is the sense of Congress, consistent with the 9/11 Commission's recommendations, that the President should strive to expand and strengthen the Proliferation Security Initiative (in this subchapter referred to as “PSI”) announced by the President on May 31, 2003, with a particular emphasis on the following:
 
 &emsp;(1) Issuing a presidential directive to the relevant United States Government agencies and departments that directs such agencies and departments to—
 
@@ -18,7 +18,7 @@ It is the sense of Congress, consistent with the 9/11 Commission's recommendatio
 
 &emsp;&emsp;(A) The Department of Defense and the Department of State should establish clear PSI roles and responsibilities, policies and procedures, interagency communication mechanisms, documentation requirements, and indicators to measure program results.
 
-&emsp;&emsp;(B) The Department of Defense and the Department of State should develop a strategy to work with PSI-participating countries to resolve issues that are impediments to conducting successful PSI interdictions.
+&emsp;&emsp;(B) The Department of Defense and the Department of State should develop a strategyto work with PSI-participating countries to resolve issues that are impediments to conducting successful PSI interdictions.
 
 &emsp;(4) Establishing a multilateral mechanism to increase coordination, cooperation, and compliance among PSI-participating countries.
 
@@ -62,11 +62,17 @@ Not later than 180 days after August 3, 2007, the President shall transmit to th
 
 The Government Accountability Office shall submit to Congress, for each of fiscal years 2007, 2009, and 2011, a report with its assessment of the progress and effectiveness of the PSI, which shall include an assessment of the measures referred to in subsection (a).
 
-(Pub. L. 110–53, title XVIII, §1821, Aug. 3, 2007, 121 Stat. 493; Pub. L. 112–81, div. A, title X, §1067(b), Dec. 31, 2011, 125 Stat. 1589.)
+(Pub. L. 110–53, title XVIII, §1821, Aug. 3, 2007, 121 Stat. 493; Pub. L. 112–81, div. A, title X, §1067, formerly §1067(b), Dec. 31, 2011, 125 Stat. 1589, renumbered §1067, Pub. L. 112–239, div. A, title X, §1076(a)(20)(B), Jan. 2, 2013, 126 Stat. 1949.)
 
 #### Amendments
 
-<b>2011</b>—Subsec. (b)(2). Pub. L. 112–81 substituted “of each even-numbered year” for “of each year” in introductory provisions.
+<b>2013</b>—Subsec. (b)(2). Pub. L. 112–239, §1076(a)(20)(B), made technical amendment to directory language of Pub. L. 112–81, §1067. See 2011 Amendment note below.
+
+<b>2011</b>—Subsec. (b)(2). Pub. L. 112–81, §1067, formerly §1067(b), as amended by Pub. L. 112–239, §1076(a)(20)(B), substituted “of each even-numbered year” for “of each year” in introductory provisions.
+
+#### Effective Date of 2013 Amendment
+
+Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment by section 1076(a)(20)(B) is effective Dec. 31, 2011, as if included in Pub. L. 112–81 as enacted.
 
 #### Assignment of Functions Under Section 1821(c) of the Implementing Recommendations of the 9/11 Commission Act of 2007
 

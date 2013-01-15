@@ -4,9 +4,9 @@ Section, Pub. L. 87–70, title II, §207, June 30, 1961, 75 Stat. 165; Pub. L. 
 
 #### Effective Date of Repeal: Savings Provision
 
-Section 503 of Pub. L. 91–609 provided in part for repeal of sections 1701d–3, 1701e, 1701e note, and 1701f of Title 12, Banks and Banking, this section, note below, section 1452a, section 1456 note, and sections 3372, 3373 of this title, effective July 1, 1971, except that the repeal shall not affect contracts, commitments, reservations, or other obligations entered pursuant to such provisions prior to July 1, 1971.
+Pub. L. 91–609, title V, §503, Dec. 31, 1970, 84 Stat. 1785, provided in part for repeal of sections 1701d–3, 1701e, 1701e note, and 1701f of Title 12, Banks and Banking, this section, note below, section 1452a, section 1456 note, and sections 3372, 3373 of this title, effective July 1, 1971, except that the repeal shall not affect contracts, commitments, reservations, or other obligations entered pursuant to such provisions prior to July 1, 1971.
 
 #### Report of Self-Help Studies and Demonstrations
 
-Pub. L. 90–448, title XVII, §1714(b), Aug. 1, 1968, 82 Stat. 607, providing for report to Congress within one year after Aug. 1, 1968, respecting self-help studies and demonstrations, was repealed by section 503(7) of Pub. L. 91–609.
+Pub. L. 90–448, title XVII, §1714(b), Aug. 1, 1968, 82 Stat. 607, providing for report to Congress within one year after Aug. 1, 1968, respecting self-help studies and demonstrations, was repealed by Pub. L. 91–609, title V, §503(7), Dec. 31, 1970, 84 Stat. 1786.
 

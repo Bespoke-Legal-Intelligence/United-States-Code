@@ -20,7 +20,7 @@
 
 #### (3) Prohibitions
 
-&emsp;A State or tribal organization shall not permit the cost sharing described in paragraph (1)for any services delivered through tribal organizations. A State shall not permit cost sharing by a low-income older individual if the income of such individual is at or below the Federal poverty line. A State may exclude from cost sharing low-income individuals whose incomes are above the Federal poverty line. A State shall not consider any assets, savings, or other property owned by older individuals when defining low-income individuals who are exempt from cost sharing, when creating a sliding scale for the cost sharing, or when seeking contributions from any older individual.
+&emsp;A State or tribal organization shall not permit the cost sharing described in paragraph (1) for any services delivered through tribal organizations. A State shall not permit cost sharing by a low-income older individual if the income of such individual is at or below the Federal poverty line. A State may exclude from cost sharing low-income individuals whose incomes are above the Federal poverty line. A State shall not consider any assets, savings, or other property owned by older individuals when defining low-income individuals who are exempt from cost sharing, when creating a sliding scale for the cost sharing, or when seeking contributions from any older individual.
 
 #### (4) Payment rates
 
@@ -92,7 +92,7 @@
 
 #### (d) Evaluation
 
-Not later than 1 year after November 13, 2000, and annually thereafter, the Assistant Secretaryshall conduct a comprehensive evaluation of practices for cost sharing to determine its impact on participation rates (with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas). If the Assistant Secretary finds that there is a disparate impact upon low-income or minority older individuals or older individuals residing in rural areas in any State or region within the State regarding the provision of services, the Assistant Secretary shall take corrective action to assure that such services are provided to all older individuals without regard to the cost sharing criteria.
+Not later than 1 year after November 13, 2000, and annually thereafter, the Assistant Secretary shall conduct a comprehensive evaluation of practices for cost sharing to determine its impact on participation rates (with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas). If the Assistant Secretary finds that there is a disparate impact upon low-income or minority older individuals or older individuals residing in rural areas in any State or region within the State regarding the provision of services, the Assistant Secretary shall take corrective action to assure that such services are provided to all older individuals without regard to the cost sharing criteria.
 
 (Pub. L. 89–73, title III, §315, as added Pub. L. 106–501, title III, §310, Nov. 13, 2000, 114 Stat. 2247; amended Pub. L. 109–365, title III, §310, Oct. 17, 2006, 120 Stat. 2546.)
 

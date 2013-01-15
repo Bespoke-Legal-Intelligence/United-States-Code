@@ -14,7 +14,7 @@ Whenever an order is issued under this section to abate such violation, at the r
 
 #### (d) Defenses
 
-This section shall have no application to any employee who acting without discretion from his employer (or his agent) deliberately violates any requirement of this chapter.
+This section shall have no application to any employee who acting without discretion fromhis employer (or his agent) deliberately violates any requirement of this chapter.
 
 #### (e) Presidential evaluations of potential loss of shifts of employment resulting from administration or enforcement of provisions; investigations; procedures applicable, etc.
 

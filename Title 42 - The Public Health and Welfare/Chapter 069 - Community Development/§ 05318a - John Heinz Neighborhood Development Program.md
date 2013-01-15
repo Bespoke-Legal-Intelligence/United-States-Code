@@ -34,7 +34,7 @@ For the purposes of this section:
 
 &emsp;&emsp;&emsp;(IV) is a qualified distressed community within the meaning of section 1834a(b)(1) of title 12; and
 
-&emsp;&emsp;(v) an organization that conducts one or more eligible neighborhood development activities that have as their primary beneficiaries low- and moderate-income persons, as defined in section 5302(a)(20) of this title; or
+&emsp;&emsp;(v) an organization that conducts one or more eligible neighborhood development activities that have as their primary beneficiaries low- and moderate-income persons,as defined in section 5302(a)(20) of this title; or
 
 &emsp;&emsp;(B) any facility that provides small entrepreneurial business with affordable shared support services and business development services and meets the requirements of subparagraph (A).
 
@@ -126,7 +126,7 @@ Of the amounts made available for assistance under section 5303 of this title, $
 
 This section may be cited as the “John Heinz Neighborhood Development Act”.
 
-(Pub. L. 98–181, title I, §123, Nov. 30, 1983, 97 Stat. 1172; Pub. L. 98–479, title I, §101(b)(2), (3), Oct. 17, 1984, 98 Stat. 2220; Pub. L. 100–242, title V, §§521, 525, Feb. 5, 1988, 101 Stat. 1938, 1939; Pub. L. 101–625, title IX, §915, Nov. 28, 1990, 104 Stat. 4395; Pub. L. 102–550, title VIII, §832, Oct. 28, 1992, 106 Stat. 3852; Pub. L. 105–362, title VII, §701(d), Nov. 10, 1998, 112 Stat. 3287.)
+(Pub. L. 98–181, title I \[title I, §123\], Nov. 30, 1983, 97 Stat. 1172; Pub. L. 98–479, title I, §101(b)(2), (3), Oct. 17, 1984, 98 Stat. 2220; Pub. L. 100–242, title V, §§521, 525, Feb. 5, 1988, 101 Stat. 1938, 1939; Pub. L. 101–625, title IX, §915, Nov. 28, 1990, 104 Stat. 4395; Pub. L. 102–550, title VIII, §832, Oct. 28, 1992, 106 Stat. 3852; Pub. L. 105–362, title VII, §701(d), Nov. 10, 1998, 112 Stat. 3287.)
 
 #### References in Text
 

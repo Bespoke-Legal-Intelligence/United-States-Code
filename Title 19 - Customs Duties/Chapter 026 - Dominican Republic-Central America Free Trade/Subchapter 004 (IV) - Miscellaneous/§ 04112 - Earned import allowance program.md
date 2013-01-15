@@ -8,7 +8,7 @@
 
 #### (2) Determination of quantity of SME
 
-&emsp;For purposes of determining the quantity of square meter equivalents under paragraph (1), the conversion factors listed in “Correlation: U.S. Textile and Apparel Industry Category System with the Harmonized Tariff Schedule of the United States of America, 2008”, or its successor publications, of the United States Department of Commerce, shall apply.
+&emsp;For purposes of determining the quantity of square meter equivalents under paragraph (1), the conversion factors listed in “Correlation: U.S. Textile and Apparel Industry Category System with the Harmonized Tariff Schedule of the United States of America, 2008”, or itssuccessor publications, of the United States Department of Commerce, shall apply.
 
 #### (b) Earned import allowance program
 
@@ -52,7 +52,7 @@ For purposes of this section—
 
 &emsp;(4) the term “qualifying fabric” means woven fabric of cotton wholly formed in the United States from yarns wholly formed in the United States and certified by the producer or entity controlling production as being suitable for use in the manufacture of apparel items such as trousers, bib and brace overalls, breeches and shorts, skirts and divided skirts or pants, all the foregoing of cotton, except that—
 
-&emsp;&emsp;(A) fabric otherwise eligible as qualifying fabric shall not be ineligible as qualifyingfabric because the fabric contains nylon filament yarn with respect to which section 2703(b)(2)(A)(vii)(IV) of this title applies;
+&emsp;&emsp;(A) fabric otherwise eligible as qualifying fabric shall not be ineligible as qualifying fabric because the fabric contains nylon filament yarn with respect to which section 2703(b)(2)(A)(vii)(IV) of this title applies;
 
 &emsp;&emsp;(B) fabric that would otherwise be ineligible as qualifying fabric because the fabric contains yarns not wholly formed in the United States shall not be ineligible as qualifying fabric if the total weight of all such yarns is not more than 10 percent of the total weight of the fabric, except that any elastomeric yarn contained in an eligible apparel article must be wholly formed in the United States; and
 

@@ -2,7 +2,7 @@
 
 #### (a) Annual report
 
-In any year in which the budget of the President under section 1105 of title 31 for the fiscal year beginning in such year requests funds for the Department of Defense for assistance or activities under Cooperative Threat Reduction programs with the states of the former Soviet Union, the Secretary of Defense shall submit to Congress a report on activities and assistance during the preceding fiscal year under Cooperative Threat Reduction programs setting forth the matters in subsection (c) of this section.
+In any year in which the budget of the President under section 1105 of title 31 for the fiscal year beginning in such year requests funds for the Department of Defense for assistance or activities under Cooperative Threat Reduction programs with the states of the former Soviet Union, the Secretary of Defense shall submit toCongress a report on activities and assistance during the preceding fiscal year under Cooperative Threat Reduction programs setting forth the matters in subsection (c) of this section.
 
 #### (b) Deadline for report
 

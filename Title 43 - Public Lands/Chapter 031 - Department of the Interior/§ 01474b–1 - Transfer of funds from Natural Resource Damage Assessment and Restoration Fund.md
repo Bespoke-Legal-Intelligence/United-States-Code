@@ -28,5 +28,5 @@ Pub. L. 103–138, title I, Nov. 11, 1993, 107 Stat. 1383.
 
 #### Amendments
 
-<b>1997</b>—Pub. L. 105–83 inserted “, including transfers to Federal trustees and payments to non-Federal trustees,” after “account” and “, to remain available until expended,” after “and such sums” and substituted “heretofore and hereafter” for “in fiscal year 1996 and thereafter”.
+<b>1997</b>—Pub. L. 105–83 inserted “, including transfers to Federal trustees and payments to non-Federal trustees,” after “account” and “, to remain available untilexpended,” after “and such sums” and substituted “heretofore and hereafter” for “in fiscal year 1996 and thereafter”.
 

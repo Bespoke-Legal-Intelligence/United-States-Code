@@ -54,7 +54,7 @@ If a small business lending company violates this chapter, the Administrator may
 
 #### (e) Cease and desist order
 
-(1) Where a small business lending company, a non-Federally regulated lender, or other person violates this chapter or is engaging or is about to engage in any acts or practices which constitute or will constitute a violation of this chapter, the Administrator may order, after the opportunity for hearing pursuant to subsection (f) of this section, the company, lender, or other person to cease and desist from such action or failure to act. The Administrator may delegate the authority under the preceding sentence only to the Deputy Administrator and only if the Administrator is unavailable to take such action.
+(1) Where a small business lending company, a non-Federally regulated lender, or other person violates this chapter or is engaging or is about to engage in any acts or practices which constitute or will constitute a violation of thischapter, the Administrator may order, after the opportunity for hearing pursuant to subsection (f) of this section, the company, lender, or other person to cease and desist from such action or failure to act. The Administrator may delegate the authority under the preceding sentence only to the Deputy Administrator and only if the Administrator is unavailable to take such action.
 
 (2) The Administrator, after finding extraordinary circumstances and in order to protect the financial or legal position of the United States, may issue a cease and desist order without conducting a hearing pursuant to subsection (f) of this section. If the Administrator issues a cease and desist order under the preceding sentence, the Administrator shall within two business days follow the procedures set forth in subsection (f) of this section.
 
@@ -116,7 +116,7 @@ If a small business lending company violates this chapter, the Administrator may
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In the event of consent under subparagraph (C)(ii), or if upon the record made at a hearing under this subsection, the Administrator finds that any of the grounds specified in the notice of removal has been established, the Administrator may issue such orders of removal from office as the Administrator deems appropriate.
+&emsp;&emsp;&emsp;In the event of consent under subparagraph (C)(ii), or if upon the record made at a hearing under this subsection, the Administrator finds that any of the groundsspecified in the notice of removal has been established, the Administrator may issue such orders of removal from office as the Administrator deems appropriate.
 
 #### (ii) Effectiveness
 
@@ -174,15 +174,15 @@ If a small business lending company violates this chapter, the Administrator may
 
 #### (A) Issuance of orders
 
-&emsp;&emsp;After a hearing under this subsection, and not later than 30 days after the Administrator notifies the parties that the case has been submitted for final decision, the Administrator shall render a decision in the matter (which shall include findings of fact upon which its decision is predicated), and shall issue and cause to be served upon eachparty to the proceeding an order or orders consistent with this section. The decision of the Administrator shall constitute final agency action for purposes of chapter 7 of title 5.
+&emsp;&emsp;After a hearing under this subsection, and not later than 30 days after the Administrator notifies the parties that the case has been submitted for final decision, the Administrator shall render a decision in the matter (which shall include findings of fact upon which its decision is predicated), and shall issue and cause to be served upon each party to the proceeding an order or orders consistent with this section. The decision of the Administrator shall constitute final agency action for purposes of chapter 7 of title 5.
 
 #### (B) Judicial review
 
-&emsp;&emsp;An adversely aggrieved party shall have 20 days from the date of issuance of the order to seek judicial review in an appropriate district court.
+&emsp;&emsp;An adversely aggrieved party shall have 20 days from the date of issuance of the orderto seek judicial review in an appropriate district court.
 
 #### (h) Appointment of receiver
 
-(1) In any proceeding under subsection (f)(4) of this section or subsection (g)(6)(C) of this section, the court may take exclusive jurisdiction of a small business lending company or a non-Federally regulated lender and appoint a receiver to hold and administer the assets of the company or lender.
+(1) In any proceeding under subsection (f)(4) of this section or subsection (g)(6)(C) <sup>1</sup> of this section, the court may take exclusive jurisdiction of a small business lending company or a non-Federally regulated lender and appoint a receiver to hold and administer the assets of the company or lender.
 
 (2) Upon request of the Administrator, the court may appoint the Administrator as a receiver under paragraph (1).
 
@@ -207,4 +207,6 @@ A prior section 650, acts July 30, 1953, ch. 282, title II, §221, 67 Stat. 240;
 #### Amendments
 
 <b>2004</b>—Pub. L. 108–447 amended section catchline and text generally. Prior to amendment, text related to disaster loan assistance to small business concerns in the fishing industry due to El Nino-related ocean conditions.
+
+<i><sup>1</sup></i><i> So in original. There is no subsec. (f)(4) or (g)(6)(C) of this section.</i>
 

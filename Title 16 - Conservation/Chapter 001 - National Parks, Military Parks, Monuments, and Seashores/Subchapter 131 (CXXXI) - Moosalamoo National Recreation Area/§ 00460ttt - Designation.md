@@ -6,7 +6,7 @@ Certain Federal land managed by the United States Forest Service, comprising app
 
 #### Short Title
 
-Pub. L. 109–382, §1(a), Dec. 1, 2006, 120 Stat. 2673, provided that: “This Act \[enacting this subchapter and provisions set out as notes under this section and amending provisions listed in a table of Wilderness Areas under section 1132 of this title\] may be cited as the ‘New England Wilderness Act of 2006’.”
+Pub. L. 109–382, §1(a), Dec. 1, 2006, 120 Stat. 2673, provided that: “This Act \[enacting this subchapter andprovisions set out as notes under this section and amending provisions listed in a table of Wilderness Areas under section 1132 of this title\] may be cited as the ‘New England Wilderness Act of 2006’.”
 
 #### Definitions
 

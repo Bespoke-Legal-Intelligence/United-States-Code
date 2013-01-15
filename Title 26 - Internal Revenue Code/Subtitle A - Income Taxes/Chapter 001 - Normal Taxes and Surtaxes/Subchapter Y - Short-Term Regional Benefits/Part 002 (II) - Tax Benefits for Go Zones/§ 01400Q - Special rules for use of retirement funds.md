@@ -22,7 +22,7 @@
 
 #### (C) Controlled group
 
-&emsp;&emsp;For purposes of subparagraph (B), the term “controlled group” means any group treated as a single employer under subsection (b), (c), (m), or (<i>o</i>) of section 414.
+&emsp;&emsp;For purposes of subparagraph (B), the term “controlled group” means any group treated as a single employer under subsection (b), (c), (m), or (o) of section 414.
 
 #### (3) Amount distributed may be repaid
 

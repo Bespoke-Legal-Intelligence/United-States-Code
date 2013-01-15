@@ -16,7 +16,7 @@ Whenever a final decree has been entered against any defendant corporation in an
 
 #### (d) Investigations of violations of antitrust statutes
 
-Upon the direction of the President or either House of Congress to investigate and report the facts relating to any alleged violations of the antitrust Acts by any corporation.
+Upon the direction of the President or either House of Congress to investigate and report thefacts relating to any alleged violations of the antitrust Acts by any corporation.
 
 #### (e) Readjustment of business of corporations violating antitrust statutes
 
@@ -94,7 +94,7 @@ With respect to the International Antitrust Enforcement Assistance Act of 1994 \
 
 &emsp;The Commission shall endeavor to ensure, with respect to memoranda of understanding and international agreements it may conclude, that material it has obtained from foreign law enforcement agencies acting to investigate or pursue the enforcement of foreign criminal laws may be used for the purpose of investigation, prosecution, or prevention of violations of United States criminal laws.
 
-#### (<i>l</i>) Expenditures for cooperative arrangements
+#### (l) Expenditures for cooperative arrangements
 
 To expend appropriated funds for—
 
@@ -112,29 +112,31 @@ To expend appropriated funds for—
 
 The Commission shall establish a plan designed to substantially reduce burdens imposed upon small businesses as a result of requirements established by the Commission under clause (b) relating to the filing of quarterly financial reports. Such plan shall (1) be established after consultation with small businesses and persons who use the information contained in such quarterly financial reports; (2) provide for a reduction of the number of small businesses required to file such quarterly financial reports; and (3) make revisions in the forms used for such quarterly financial reports for the purpose of reducing the complexity of such forms. The Commission, not later than December 31, 1980, shall submit such plan to the Committee on Commerce, Science, and Transportation of the Senate and to the Committee on Energy and Commerce of the House of Representatives. Such plan shall take effect not later than October 31, 1981.
 
-No officer or employee of the Commission or any Commissioner may publish or disclose information to the public, or to any Federal agency, whereby any line-of-business data furnished by a particular establishment or individual can be identified. No one other than designated sworn officers and employees of the Commission may examine the line-of-business reports from individual firms, and information provided in the line-of-business program administered by the Commission shall be used only for statistical purposes. Information for carrying out specific law enforcement responsibilities of the Commission shall be obtained under practices and procedures in effect on May 28, 1980, or as changed by law.
+No officer or employee of the Commission or any Commissioner may publish or disclose information to the public, or to any Federal agency, whereby any line-of-business data furnished by a particular establishment or individual can be identified. No one other than designated sworn officers and employees of the Commission may examine the line-of-business reports from individual firms, and information provided in the line-of-business program administered by the Commission shall be used only for statistical purposes. Information for carrying out specificlaw enforcement responsibilities of the Commission shall be obtained under practices and procedures in effect on May 28, 1980, or as changed by law.
 
-Nothing in this section (other than the provisions of clause (c) and clause (d)) shall apply to the business of insurance, except that the Commission shall have authority to conduct studies and prepare reports relating to the business of insurance. The Commission may exercise such authority only upon receiving a request which is agreed to by a majority of the members of the Committee on Commerce, Science, and Transportation of the Senate or the Committee onEnergy and Commerce of the House of Representatives. The authority to conduct any such study shall expire at the end of the Congress during which the request for such study was made.
+Nothing in this section (other than the provisions of clause (c) and clause (d)) shall apply to the business of insurance, except that the Commission shall have authority to conduct studies and prepare reports relating to the business of insurance. The Commission may exercise such authority only upon receiving a request which is agreed to by a majority of the members of the Committee on Commerce, Science, and Transportation of the Senate or the Committee on Energy and Commerce of the House of Representatives. The authority to conduct any such study shall expire at the end of the Congress during which the request for such study was made.
 
-(Sept. 26, 1914, ch. 311, §6, 38 Stat. 721; Pub. L. 93–153, title IV, §408(e), Nov. 16, 1973, 87 Stat. 592; Pub. L. 93–637, title II, §§201(b), 202(b), 203(a), Jan. 4, 1975, 88 Stat. 2193, 2198; Pub. L. 96–37, §1(b), July 23, 1979, 93 Stat. 95; Pub. L. 96–252, §§3–5(a), May 28, 1980, 94 Stat. 374, 375; Pub. L. 100–86, title VII, §715(a), (b), Aug. 10, 1987, 101 Stat. 655; Pub. L. 103–437, §5(a), Nov. 2, 1994, 108 Stat. 4582; Pub. L. 103–438, §3(e)(2)(A), Nov. 2, 1994, 108 Stat. 4598; Pub. L. 109–455, §4(a), (b), (d), Dec. 22, 2006, 120 Stat. 3372, 3373, 3375.)
+(Sept. 26, 1914, ch. 311, §6, 38 Stat. 721; Pub. L. 93–153, title IV, §408(e), Nov. 16, 1973, 87 Stat. 592; Pub. L. 93–637, title II, §§201(b), 202(b), 203(a), Jan. 4, 1975, 88 Stat. 2193, 2198; Pub. L. 96–37, §1(b), July 23, 1979, 93 Stat. 95; Pub. L. 96–252, §§3–5(a), May 28, 1980, 94 Stat. 374, 375; Pub. L. 100–86, title VII, §715(a), (b), Aug. 10, 1987, 101 Stat. 655; Pub. L. 103–437, §5(a), Nov. 2, 1994, 108 Stat. 4582; Pub. L. 103–438, §3(e)(2)(A), Nov. 2, 1994, 108 Stat. 4598; Pub. L. 109–455, §§4(a), (b), (d), 13, Dec. 22, 2006, 120 Stat. 3372, 3373, 3375, 3382; Pub. L. 112–203, §1, Dec. 4, 2012, 126 Stat. 1484.)
 
 #### Amendment of Section
 
-<i>For termination of amendment by section 13 of Pub. L. 109–455, see Termination Date of 2006 Amendment note below.</i>
+<i>For repeal of amendment by section 13 of Pub. L. 109–455, see Termination Date of 2006 Amendment note below.</i>
 
 #### References in Text
 
-The Act to regulate commerce, referred to in subsecs. (a), (b), (j)(6), and the proviso following subsec. (<i>l</i>), is defined in section 44 of this title.
+The Act to regulate commerce, referred to in subsecs. (a), (b), (j)(6), and the proviso following subsec. (l), is defined in section 44 of this title.
 
 The International Antitrust Enforcement Assistance Act of 1994, referred to in subsec. (i), is Pub. L. 103–438, Nov. 2, 1994, 108 Stat. 4597, which is classified principally to chapter 88 (§6201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–455, §§4(d), 13, temporarily substituted “subsections (a), (b), and (j)” for “clauses (a) and (b)” in proviso following subsec. (<i>l</i>). See Termination Date of 2006 Amendment note below.
+<b>2012</b>—Pub. L. 112–203, §1, amended Pub. L. 109–455, §13. See 2006 Amendment notes below.
 
-Subsec. (f). Pub. L. 109–455, §§4(a), 13, temporarily inserted “(1)” after “disclose such information”, substituted “purposes, and” for “purposes.”, and added par. (2). See Termination Date of 2006 Amendment note below.
+<b>2006</b>—Pub. L. 109–455, §4(d), which substituted “subsections (a), (b), and (j)” for “clauses (a) and (b)” in proviso following subsec. (l), was repealed by Pub. L. 109–455, §13, as amended by Pub. L. 112–203, §1. See Termination Date of 2006 Amendment note below.
 
-Subsecs. (j) to (<i>l</i>). Pub. L. 109–455, §§4(b), 13, temporarily added subsecs. (j) to (<i>l</i>). See Termination Date of 2006 Amendment note below.
+Subsec. (f). Pub. L. 109–455, §4(a), which inserted “(1)” after “disclose such information”, substituted “purposes, and” for “purposes.”, and added par. (2) providing for conditional disclosure to officers and employees of foreign law enforcement, was repealed by Pub. L. 109–455, §13, as amended by Pub. L. 112–203, §1. See Termination Date of 2006 Amendment note below.
+
+Subsecs. (j) to (l). Pub. L. 109–455, §4(b), which added subsecs. (j) to (l) relating to investigative assistance for foreign law enforcement agencies, referral of evidence for criminal proceedings, and expenditures for cooperative arrangements, respectively, was repealed by Pub. L. 109–455, §13, as amended by Pub. L. 112–203, §1. See Termination Date of 2006 Amendment note below.
 
 <b>1994</b>—Pub. L. 103–437, in first and third undesignated pars. following proviso after subsec. (h), substituted “Committee on Energy and Commerce” for “Committee on Interstate and Foreign Commerce”.
 
@@ -164,11 +166,11 @@ Subsec. (g). Pub. L. 93–637, §202(b), inserted “(except as provided in sect
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce ofHouse of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Termination Date of 2006 Amendment
 
-Amendment by Pub. L. 109–455 to cease to have effect 7 years after Dec. 22, 2006, see section 13 of Pub. L. 109–455, set out as a note under section 44 of this title.
+Amendment by section 4(a), (b), (d) of Pub. L. 109–455 repealed effective Sept. 30, 2020, and provisions amended by Pub. L. 109–455 to be amended to read as if Pub. L. 109–455 had not been enacted, see section 13 of Pub. L. 109–455, set out as a note under section 44 of this title.
 
 #### Effective Date of 1980 Amendment
 

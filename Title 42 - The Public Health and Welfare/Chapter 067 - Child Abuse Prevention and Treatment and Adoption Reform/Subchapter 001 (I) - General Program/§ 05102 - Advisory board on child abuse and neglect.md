@@ -54,7 +54,7 @@ Not later than 1 year after the establishment of the board under subsection (a) 
 
 &emsp;(1) recommendations on coordinating Federal, State, tribal, and local child abuse and neglect activities with similar activities at the Federal, State, tribal, and local level pertaining to family violence prevention;
 
-&emsp;(2) specific modifications needed in Federal, State, and tribal laws and programs to reduce the number of unfounded or unsubstantiated reports of child abuse or neglect while enhancing the ability to identify and substantiate legitimate cases of child abuse or neglect which place a child in danger; and
+&emsp;(2) specific modifications needed in Federal, State, and tribal laws and programs to reducethe number of unfounded or unsubstantiated reports of child abuse or neglect while enhancing the ability to identify and substantiate legitimate cases of child abuse or neglect which place a child in danger; and
 
 &emsp;(3) recommendations for modifications needed to facilitate coordinated national data collection with respect to child protection and child welfare.
 
@@ -92,11 +92,11 @@ Cl. (3). Pub. L. 98–457, §121(2), (3), added cl. (3).
 
 #### Effective Date of 1989 Amendment
 
-Section 8 of Pub. L. 101–126 provided that: “This Act and the amendments made by this Act \[see Short Title of 1989 Amendment note set out under section 5101 of this title\] shall take effect October 1, 1989, or upon the date of the enactment of this Act \[Oct. 25, 1989\], whichever occurs later.”
+Pub. L. 101–126, §8, Oct. 25, 1989, 103 Stat. 769, provided that: “This Act and the amendments made by this Act \[see Short Title of 1989 Amendment note set out under section 5101 of this title\] shall take effect October 1, 1989, or upon the date of the enactment of this Act \[Oct. 25, 1989\], whichever occurs later.”
 
 #### Effective Date of 1984 Amendment
 
-Section 128 of Pub. L. 98–457 provided that:
+Pub. L. 98–457, title I, §128, Oct. 9, 1984, 98 Stat. 1755, provided that:
 
 “(a) Except as provided in subsection (b), the provisions of this part or any amendment made by this part \[part B (§§121–128) of title I of Pub. L. 98–457, amending this section and section 5103 of this title and enacting provisions set out as notes under sections 5101 and 5103 of this title\] shall be effective on the date of the enactment of this Act \[Oct. 9, 1984\].
 

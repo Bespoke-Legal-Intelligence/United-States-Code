@@ -26,7 +26,7 @@
 
 (4)(A) This subsection shall be effective during the 3-year period that begins upon the expiration of the 2-month period that begins on the date of the enactment of this subsection.
 
-(B) Not later than 6 months before the date on which this subsection is scheduled to cease to be effective, the Office shall submit a report to Congress in which it shall evaluate the operation of this subsection and make recommendations as to whether or not this subsection should be continued beyond such date.
+(B) Not later than 6 months before the date on which this subsection is scheduled to cease to beeffective, the Office shall submit a report to Congress in which it shall evaluate the operation of this subsection and make recommendations as to whether or not this subsection should be continued beyond such date.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 520; Pub. L. 103–329, title VI, §629(b)(1), Sept. 30, 1994, 108 Stat. 2423; Pub. L. 103–388, §2, Oct. 22, 1994, 108 Stat. 4079.)
 
@@ -52,6 +52,10 @@ In subsection (c), the words “with pay” are added for clarity.
 
 Standard changes are made to conform with the definitions applicable and style of this title as outlined in the preface to the report.
 
+#### References in Text
+
+The date of the enactment of this subsection, referred to in subsec. (d)(4)(A), is the date of enactment of Pub. L. 103–388, which was approved Oct. 22, 1994.
+
 #### Amendments
 
 <b>1994</b>—Subsec. (c). Pub. L. 103–329, §629(b)(1)(B), added subsec. (c). Former subsec. (c) redesignated (d).
@@ -62,7 +66,7 @@ Pub. L. 103–329, §629(b)(1)(A), (C), redesignated subsec. (c) as (d) and inse
 
 #### Regulations
 
-Section 629(b)(3) of Pub. L. 103–329 provided that:
+Pub. L. 103–329, title VI, §629(b)(3), Sept. 30, 1994, 108 Stat. 2423, provided that:
 
 “(3)(A) The Office of Personnel Management shall prescribe regulations under which any employee who used or uses annual leave for an adoption-related purpose, after September 30, 1991, and before the date as of which sick leave first becomes available for such purpose as a result of the enactment of this subsection may, upon appropriate written application, elect to have such employee's leave accounts adjusted to reflect the amount of annual leave and sick leave, respectively, which would remain had sick leave been used instead of all or any portion of the annual leave actually used, as designated by the employee.
 

@@ -40,7 +40,7 @@ Factors.—In establishing or revising such system, the Postal Regulatory Commis
 
 &emsp;(5) the degree of preparation of mail for delivery into the postal system performed by the mailer and its effect upon reducing costs to the Postal Service;
 
-&emsp;(6) simplicity of structure for the entire schedule and simple, identifiable relationships between the rates or fees charged the various classes of mail for postal services;
+&emsp;(6) simplicity of structure for the entire schedule and simple, identifiable relationshipsbetween the rates or fees charged the various classes of mail for postal services;
 
 &emsp;(7) the importance of pricing flexibility to encourage increased mail volume and operational efficiency;
 
@@ -152,7 +152,7 @@ Scope.—The Postal Regulatory Commission shall ensure that such discounts do no
 
 &emsp;&emsp;&emsp;(i) associated with a new postal service, a change to an existing postal service, or with a new work share initiative related to an existing postal service; and
 
-&emsp;&emsp;&emsp;(ii) necessary to induce mailer behavior that furthers the economically efficient operation of the Postal Service and theportion of the discount in excess of the cost that the Postal Service avoids as a result of the workshare activity will be phased out over a limited period of time;
+&emsp;&emsp;&emsp;(ii) necessary to induce mailer behavior that furthers the economically efficient operation of the Postal Service and the portion of the discount in excess of the cost that the Postal Service avoids as a result of the workshare activity will be phased out over a limited period of time;
 
 &emsp;&emsp;(B) the amount of the discount above costs avoided—
 

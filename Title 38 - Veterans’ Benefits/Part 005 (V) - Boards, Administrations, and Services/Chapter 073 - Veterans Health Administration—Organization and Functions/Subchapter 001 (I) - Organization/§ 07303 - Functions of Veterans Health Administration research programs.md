@@ -40,11 +40,11 @@ Section 204(b)(3) of the Rehabilitation Act of 1973, referred to in subsec. (b),
 
 #### Amendments
 
-<b>2003</b>—Subsec. (e). Pub. L. 108–170 struck out subsec. (e) which read as follows: “Amounts for the activities of the field offices of the Office of Research Complianceand Assurance of the Department shall be derived from amounts appropriated for the Veterans Health Administration for Medical Care (rather than from amounts appropriated for the Veterans Health Administration for Medical and Prosthetic Research).”
+<b>2003</b>—Subsec. (e). Pub. L. 108–170 struck out subsec. (e) which read as follows: “Amounts for the activities of the field offices of the Office of Research Compliance and Assurance of the Department shall be derived from amounts appropriated for the Veterans Health Administration for Medical Care (rather than from amounts appropriated for the Veterans Health Administration for Medical and Prosthetic Research).”
 
 <b>2002</b>—Subsec. (e). Pub. L. 107–135 added subsec. (e).
 
-<b>1998</b>—Subsec. (b). Pub. L. 105–220 substituted “section 204(b)(3) of the Rehabilitation Act of 1973” for “section 204(b)(2) of the Rehabilitation Act of 1973 (29 U.S.C. 762(b)(2))”.
+<b>1998</b>—Subsec. (b). Pub. L. 105–220 substituted “section 204(b)(3) of the Rehabilitation Act of 1973” for “section204(b)(2) of the Rehabilitation Act of 1973 (29 U.S.C. 762(b)(2))”.
 
 <b>1994</b>—Pub. L. 103–452 transferred text of subsec. (c) to the end of subsec. (a)(1), struck out subsec. (c) designation, and added new subsecs. (c) and (d).
 
@@ -56,7 +56,7 @@ Pub. L. 107–135, title II, §205(b), Jan. 23, 2002, 115 Stat. 2460, related to
 
 #### Post-Traumatic Stress Disorder Research
 
-Section 122(a) of Pub. L. 102–405 provided that: “In carrying out research and awarding grants under chapter 73 of title 38, United States Code, the Secretary shall assign a high priority to the conduct of research on mental illness, including research regarding (1) post-traumatic stress disorder, (2) post-traumatic stress disorder in association with substance abuse, and (3) the treatment of those disorders.”
+Pub. L. 102–405, title I, §122(a), Oct. 9, 1992, 106 Stat. 1981, provided that: “In carrying out research and awarding grants under chapter 73 of title 38, United States Code, the Secretary shall assign a high priority to the conduct of research on mental illness, including research regarding (1) post-traumatic stress disorder, (2) post-traumatic stress disorder in association with substance abuse, and (3) the treatment of those disorders.”
 
 #### Research Relating to Women Veterans’ Health
 

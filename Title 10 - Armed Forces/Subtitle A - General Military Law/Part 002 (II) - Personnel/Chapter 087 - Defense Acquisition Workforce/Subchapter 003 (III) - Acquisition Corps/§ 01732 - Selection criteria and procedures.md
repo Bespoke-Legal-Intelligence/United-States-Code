@@ -104,5 +104,5 @@ Amendment by Pub. L. 103–89 effective Nov. 1, 1993, see section 3(c) of Pub. L
 
 #### Equivalent Training Under Subsection (b)(2)(B)(ii)
 
-Section 812(e)(2) of Pub. L. 102–484 provided that: “The Secretary of Defense shall prescribe equivalent training for purposes of clause (ii) of section 1732(b)(2)(B) of title 10, United States Code (as amended by paragraph (1)), not later than 120 days after the date of the enactment of this Act \[Oct. 23, 1992\].”
+Pub. L. 102–484, div. A, title VIII, §812(e)(2), Oct. 23, 1992, 106 Stat. 2451, provided that: “The Secretary of Defense shall prescribe equivalent training for purposes of clause (ii) of section 1732(b)(2)(B) of title 10, United States Code (as amended by paragraph (1)), not later than 120 days after the date of the enactment of this Act \[Oct. 23, 1992\].”
 

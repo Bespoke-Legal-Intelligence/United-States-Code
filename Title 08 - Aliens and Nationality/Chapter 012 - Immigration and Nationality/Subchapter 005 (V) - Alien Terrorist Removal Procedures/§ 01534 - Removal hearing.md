@@ -70,7 +70,7 @@ An alien who is the subject of a removal hearing under this subchapter shall be 
 
 &emsp;&emsp;(A) the Government is authorized to use in a removal proceedings <sup>1</sup> the fruits of electronic surveillance and unconsented physical searches authorized under the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.) without regard to subsections (c), (e), (f), (g), and (h) of section 106 of that Act \[50 U.S.C. 1806(c), (e), (f), (g), (h)\] and discovery of information derived pursuant to such Act, or otherwise collected for national security purposes, shall not be authorized if disclosure would present a risk to the national security of the United States;
 
-&emsp;&emsp;(B) an alien subject to removal under this subchapter shall not be entitled to suppress evidence that the alien alleges was unlawfully obtained; and
+&emsp;&emsp;(B) an alien subject to removal under this subchapter shall not be entitled to suppressevidence that the alien alleges was unlawfully obtained; and
 
 &emsp;&emsp;(C) section 3504 of title 18 and section 1806(c) of title 50 shall not apply if the Attorney General determines that public disclosure would pose a risk to the national security of the United States because it would disclose classified information or otherwise threaten the integrity of a pending investigation.
 
@@ -142,7 +142,7 @@ Following the receipt of evidence, the Government and the alien shall be given f
 
 #### (g) Burden of proof
 
-In the hearing, it is the Government's burden to prove, by the preponderance of the evidence, that the alien is subject to removal because the alien is an alien terrorist.
+In the hearing, it is the Government's burden to prove, by the preponderance of the evidence,that the alien is subject to removal because the alien is an alien terrorist.
 
 #### (h) Rules of evidence
 
@@ -172,7 +172,7 @@ At no time shall the judge consider or provide for relief from removal based on�
 
 &emsp;(6) registry under section 1259 of this title.
 
-#### (<i>l</i>) Report on terrorist removal proceedings
+#### (l) Report on terrorist removal proceedings
 
 Not later than 3 months from December 28, 2001, the Attorney General shall submit to Congress a report concerning the effect and efficacy of alien terrorist removal proceedings, including the reasons why proceedings pursuant to this section have not been used by the Attorney General in the past and the effect on the use of these proceedings after the enactment of the USA PATRIOT Act of 2001 (Public Law 107–56).
 
@@ -186,11 +186,11 @@ The Federal Rules of Evidence, referred to in subsec. (h), are set out in the Ap
 
 Section 1254a(e) of this title, referred to in subsec. (k)(4), was in the original a reference to “section 244(e)”, meaning section 244(e) of act June 27, 1952, which was classified to section 1254(e) of this title. Pub. L. 104–208, div. C, title III, §308(b)(7), Sept. 30, 1996, 110 Stat. 3009–615, repealed section 244 and renumbered section 244A as section 244, which is classified to section 1254a of this title. For provisions relating to voluntary departure, see section 1229c of this title.
 
-The USA PATRIOT Act of 2001, referred to in subsec. (<i>l</i>), is Pub. L. 107–56, Oct. 26, 2001, 115 Stat. 272, known as the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001 or the USA PATRIOT Act. For complete classification of this Act to the Code, see Short Title of 2001 Amendment note set out under section 1 of Title 18, Crimes and Criminal Procedure, and Tables.
+The USA PATRIOT Act of 2001, referred to in subsec. (l), is Pub. L. 107–56, Oct. 26, 2001, 115 Stat. 272, known as the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001 or the USA PATRIOT Act. For complete classification of this Act to the Code, see Short Title of 2001 Amendment note set out under section 1 of Title 18, Crimes and Criminal Procedure, and Tables.
 
 #### Amendments
 
-<b>2001</b>—Subsec. (<i>l</i>). Pub. L. 107–108 added subsec. (<i>l</i>).
+<b>2001</b>—Subsec. (l). Pub. L. 107–108 added subsec. (l).
 
 <b>1996</b>—Subsec. (e)(1)(A). Pub. L. 104–208, §354(b)(1)(A)(ii), substituted “pursuant to such Act” for “pursuant to the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.)”.
 

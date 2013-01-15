@@ -1,6 +1,6 @@
 ### §§41 to 50. Repealed. Pub. L. 104–128, §2, Apr. 9, 1996, 110 Stat. 1198
 
-Section 41, acts Mar. 2, 1897, ch. 358, §1, 29 Stat. 604; May 16, 1908, ch. 170, 35 Stat. 163; May 31, 1920, ch. 217, 41 Stat. 712; 1940 Reorg. Plan No. IV, §12, eff. June 30, 1940, 5 F.R. 2421, 54 Stat. 1237; 1953 Reorg. Plan No. 1, §5, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; May 24, 1962, Pub. L. 87–456, title III, §303(a), 76 Stat. 77; Aug. 23, 1988, Pub. L. 100–418, title I, §1214(<i>l</i>), 102 Stat. 1158, prohibited unlawful importation of substandard tea.
+Section 41, acts Mar. 2, 1897, ch. 358, §1, 29 Stat. 604; May 16, 1908, ch. 170, 35 Stat. 163; May 31, 1920, ch. 217, 41 Stat. 712; 1940 Reorg. Plan No. IV, §12, eff. June 30, 1940, 5 F.R. 2421, 54 Stat. 1237; 1953 Reorg. Plan No. 1, §5, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; May 24, 1962, Pub. L. 87–456, title III, §303(a), 76 Stat. 77; Aug. 23, 1988, Pub. L. 100–418, title I, §1214(l), 102 Stat. 1158, prohibited unlawful importation of substandard tea.
 
 Section 42, acts Mar. 2, 1897, ch. 358, §2, 29 Stat. 605; May 31, 1920, ch. 217, 41 Stat. 712; 1940 Reorg. Plan No. IV, §12, eff. June 30, 1940, 5 F.R. 2421, 54 Stat. 1237; July 12, 1943, ch. 221, title II, 57 Stat. 500; 1953 Reorg. Plan No. 1, §5, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695, related to establishment and composition of board of experts in teas.
 
@@ -24,11 +24,11 @@ Section 50, acts Mar. 2, 1897, ch. 358, §10, 29 Stat. 607; May 31, 1920, ch. 21
 
 #### Effective Date of Repeal
 
-Section 3 of Pub. L. 104–128 provided that: “This Act \[repealing this chapter\] shall take effect on the date of enactment of this Act \[Apr. 9, 1996\].”
+Pub. L. 104–128, §3, Apr. 9, 1996, 110 Stat. 1198, provided that: “This Act \[repealing this chapter\] shall take effect on the date of enactment of this Act \[Apr. 9, 1996\].”
 
 #### Short Title of Repeal
 
-Section 1 of Pub. L. 104–128 provided that: “This Act \[repealing this chapter\] may be cited as the ‘Federal Tea Tasters Repeal Act of 1996’.”
+Pub. L. 104–128, §1, Apr. 9, 1996, 110 Stat. 1198, provided that: “This Act \[repealing this chapter\] may be cited as the ‘Federal Tea Tasters Repeal Act of 1996’.”
 
 #### Short Title
 

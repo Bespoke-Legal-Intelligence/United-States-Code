@@ -50,11 +50,11 @@ Another prior section 416 of act Aug. 15, 1921, was classified to section 229a o
 
 #### Effective Date of Repeal
 
-Pub. L. 110–234, title XI, 11004(b), May 22, 2008, 122 Stat. 1356, and Pub. L. 110–246, §4(a), title XI, §11004(b), June 18, 2008, 122 Stat. 1664, 2118, provided that the repeal of this section is effective Sept. 30, 2012.
+Pub. L. 110–234, title XI, 11004(b), May 22, 2008, 122 Stat. 1356, and Pub. L. 110–246, §4(a), title XI, §11004(b), June 18, 2008, 122 Stat. 1664, 2118, provided that the repeal of this section is effective Sept. 30, 2012 \[extended to Sept. 30, 2013, see section 701(a) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under section 8701 of this title\].
 
 \[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.\]
 
 #### Effective Date
 
-Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 

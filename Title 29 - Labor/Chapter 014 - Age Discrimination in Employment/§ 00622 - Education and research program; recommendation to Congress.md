@@ -1,6 +1,6 @@
 ### §622. Education and research program; recommendation to Congress
 
-(a) The Secretary of Labor shall undertake studies and provide information to labor unions, management, and the general public concerning the needs and abilities of older workers, and their potentials for continued employment and contribution to the economy. In order to achieve the purposes of this chapter, the Secretary of Labor shall carry on a continuing program of education and information, under which he may, among other measures—
+(a) The Secretary of Labor shall undertake studies and provide information to labor unions, management, and the general public concerning the needs and abilities of older workers, and their potentials for continued employment andcontribution to the economy. In order to achieve the purposes of this chapter, the Secretary of Labor shall carry on a continuing program of education and information, under which he may, among other measures—
 
 &emsp;(1) undertake research, and promote research, with a view to reducing barriers to the employment of older persons, and the promotion of measures for utilizing their skills;
 

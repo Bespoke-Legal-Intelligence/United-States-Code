@@ -22,13 +22,13 @@
 
 (k) No person shall be imprisoned for debt.
 
-(<i>l</i>) The privilege of the writ of habeas corpus shall not be suspended, unless, when in cases of rebellion or invasion or imminent danger thereof, the public safety shall require it.
+(l) The privilege of the writ of habeas corpus shall not be suspended, unless, when in cases of rebellion or invasion or imminent danger thereof, the public safety shall require it.
 
 (m) No qualification with respect to property, income, political opinion, or any other matter apart from citizenship, civil capacity, and residence shall be imposed upon any voter.
 
 (n) No discrimination shall be made in Guam against any person on account of race, language, or religion, nor shall the equal protection of the laws be denied.
 
-(<i>o</i>) No person shall be convicted of treason against the United States unless on the testimony of two witnesses to the same overt act, or on confession in open court.
+(o) No person shall be convicted of treason against the United States unless on the testimony of two witnesses to the same overt act, or on confession in open court.
 
 (p) No public money or property shall ever be appropriated, supplied, donated, or used, directly or indirectly, for the use, benefit, or support of any sect, church, denomination, sectarian institution, or association, or system of religion, or for the use, benefit, or support of any priest, preacher, minister, or other religious teacher or dignitary as such.
 
@@ -52,5 +52,5 @@ All laws enacted by Congress with respect to Guam and all laws enacted by the te
 
 #### Effective Date of 1968 Amendment
 
-Section 10 of Pub. L. 90–497 provided that the amendment made by that section is effective on date of enactment of Pub. L. 90–497, which was approved Sept. 11, 1968.
+Pub. L. 90–497, §10, Sept. 11, 1968, 82 Stat. 847, provided that the amendment made by that section is effective on date of enactment of Pub. L. 90–497, which was approved Sept. 11, 1968.
 

@@ -6,7 +6,7 @@ Whenever the Secretary determines on the basis of a claim for benefits filed wit
 
 #### Prior Provisions
 
-Prior sections 1401, 1402, 1411 to 1419, 1421 to 1423, 1431 to 1436, and 1500 were renumbered sections 3001, 3002,3011 to 3019, 3021 to 3023, 3031 to 3036, and 3100 of this title, respectively.
+Prior sections 1401, 1402, 1411 to 1419, 1421 to 1423, 1431 to 1436, and 1500 were renumbered sections 3001, 3002, 3011 to 3019, 3021 to 3023, 3031 to former 3036, and 3100 of this title, respectively.
 
 #### Amendments
 

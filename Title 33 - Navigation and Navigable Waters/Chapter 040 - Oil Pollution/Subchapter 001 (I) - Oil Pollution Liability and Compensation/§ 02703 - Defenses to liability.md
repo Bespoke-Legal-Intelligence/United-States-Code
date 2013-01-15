@@ -140,7 +140,7 @@ Subsection (a) of this section does not apply with respect to a responsible part
 
 #### (5) Previous owner or operator
 
-&emsp;Nothing in this paragraph or in subsection (a)(3) of this section shall diminish the liability of any previous owner or operator of such facility who would otherwise be liable under this Act. Notwithstanding this paragraph, if a responsible party obtained actual knowledge of the discharge or substantial threat of discharge of oil at such facility when the responsible party owned the facility and then subsequently transferred ownership of the facility or the real property on which the facility is located to another person without disclosing such knowledge, the responsible party shall be treated as liable under 2702(a) <sup>1</sup> of this title and no defense under subsection (a) of this section shall be available to such responsible party.
+&emsp;Nothing in this paragraph or in subsection (a)(3) of this section shall diminish the liability of any previous owner or operator of such facility who would otherwise be liable under this Act. Notwithstanding this paragraph, if a responsible party obtained actual knowledge of the discharge or substantial threat of discharge of oil at such facility when the responsible party owned the facility and then subsequently transferred ownership of the facility or the real property on which the facility is located to another person without disclosing such knowledge, the responsible party shall be treated as liable under 2702(a) <sup>1</sup> of this titleand no defense under subsection (a) of this section shall be available to such responsible party.
 
 #### (6) Limitation on defense
 

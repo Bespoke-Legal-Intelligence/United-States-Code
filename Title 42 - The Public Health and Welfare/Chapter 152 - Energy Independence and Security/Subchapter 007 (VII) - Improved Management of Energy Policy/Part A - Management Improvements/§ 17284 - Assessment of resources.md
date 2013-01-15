@@ -54,7 +54,7 @@ Not later than 1 year after December 19, 2007, the Administrator shall submit to
 
 #### (e) Authorization of appropriations
 
-In addition to any other amounts made available to the Administrator, there are authorizedto be appropriated to the Administrator to carry out this section—
+In addition to any other amounts made available to the Administrator, there are authorized to be appropriated to the Administrator to carry out this section—
 
 &emsp;(1) $10,000,000 for fiscal year 2008;
 

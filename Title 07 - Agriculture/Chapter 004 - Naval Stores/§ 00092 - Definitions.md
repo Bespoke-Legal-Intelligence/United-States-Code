@@ -24,7 +24,7 @@ When used in this chapter—
 
 (k) “Person” includes partnerships, associations, and corporations, as well as individuals.
 
-(<i>l</i>) The term “commerce” means commerce between any State, Territory, or possession, or the District of Columbia, and any place outside thereof; or between points within the same State, Territory, or possession, or the District of Columbia, but through any place outside thereof; or within any Territory or possession or the District of Columbia.
+(l) The term “commerce” means commerce between any State, Territory, or possession, or the District of Columbia, and any place outside thereof; or between points within the same State, Territory, or possession, or the District of Columbia, but through any place outside thereof; or within any Territory or possession or the District of Columbia.
 
 (Mar. 3, 1923, ch. 217, §2, 42 Stat. 1435.)
 

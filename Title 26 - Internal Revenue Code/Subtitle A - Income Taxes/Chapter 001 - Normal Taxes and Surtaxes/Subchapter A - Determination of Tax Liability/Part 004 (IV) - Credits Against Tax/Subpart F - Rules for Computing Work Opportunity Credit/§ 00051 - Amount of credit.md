@@ -18,7 +18,7 @@ For purposes of this subpart—
 
 #### (3) Limitation on wages per year taken into account
 
-&emsp;The amount of the qualified first-year wages which may be taken into account with respect to any individual shall not exceed $6,000 per year ($12,000 per year in the case of any individual who is a qualified veteran by reason of subsection (d)(3)(A)(ii)(I), $14,000 per year in the case of any individual who is a qualified veteran by reason of subsection (d)(3)(A)(iv), and $24,000 per year in the case of any individual who is a qualified veteran by reason of subsection (d)(3)(A)(ii)(II)).
+&emsp;The amount of the qualified first-year wages which may be taken into account with respectto any individual shall not exceed $6,000 per year ($12,000 per year in the case of any individual who is a qualified veteran by reason of subsection (d)(3)(A)(ii)(I), $14,000 per year in the case of any individual who is a qualified veteran by reason of subsection (d)(3)(A)(iv), and $24,000 per year in the case of any individual who is a qualified veteran by reason of subsection (d)(3)(A)(ii)(II)).
 
 #### (c) Wages defined
 
@@ -54,11 +54,7 @@ For purposes of this subpart—
 
 &emsp;&emsp;(A) after December 31, 1994, and before October 1, 1996, or
 
-&emsp;&emsp;(B) after—
-
-&emsp;&emsp;&emsp;(i) December 31, 2012, in the case of a qualified veteran, and
-
-&emsp;&emsp;&emsp;(ii) December 31, 2011, in the case of any other individual.
+&emsp;&emsp;(B) after December 31, 2013 <sup>2</sup>
 
 #### (5) Coordination with payroll tax forgiveness
 
@@ -112,7 +108,7 @@ For purposes of this subpart—
 
 &emsp;&emsp;&emsp;&emsp;(I) having a hiring date which is not more that 1 year after having been discharged or released from active duty in the Armed Forces of the United States, or
 
-&emsp;&emsp;&emsp;&emsp;(II) having aggregate periods of unemployment during the 1-year period ending on the hiring date which equal or exceed 6 months <sup>2</sup>
+&emsp;&emsp;&emsp;&emsp;(II) having aggregate periods of unemployment during the 1-year period ending on the hiring date which equal or exceed 6 months <sup>3</sup>
 
 &emsp;&emsp;&emsp;(iii) having aggregate periods of unemployment during the 1-year period ending on the hiring date which equal or exceed 4 weeks (but less than 6 months), or
 
@@ -196,7 +192,7 @@ For purposes of this subpart—
 
 &emsp;&emsp;For purposes of applying this subpart to wages paid or incurred to any qualified summer youth employee—
 
-&emsp;&emsp;&emsp;(i) subsection (b)(2) shall be applied by substituting “any 90-day period betweenMay 1 and September 15” for “the 1-year period beginning with the day the individual begins work for the employer”, and
+&emsp;&emsp;&emsp;(i) subsection (b)(2) shall be applied by substituting “any 90-day period between May 1 and September 15” for “the 1-year period beginning with the day the individual begins work for the employer”, and
 
 &emsp;&emsp;&emsp;(ii) subsection (b)(3) shall be applied by substituting “$3,000” for “$6,000”.
 
@@ -206,7 +202,7 @@ For purposes of this subpart—
 
 &emsp;&emsp;Paragraph (5)(B) shall apply for purposes of subparagraph (A)(iv).
 
-#### (8) Qualified food stamp recipient <sup>3</sup>
+#### (8) Qualified food stamp recipient <sup>4</sup>
 
 #### (A) In general
 
@@ -218,7 +214,7 @@ For purposes of this subpart—
 
 &emsp;&emsp;&emsp;&emsp;(I) receiving assistance under a supplemental nutrition assistance program under the Food and Nutrition Act of 2008 for the 6-month period ending on the hiring date, or
 
-&emsp;&emsp;&emsp;&emsp;(II) receiving such assistance for at least 3 months of the 5-month period ending on the hiring date, in the case of a member of a family who ceases to be eligible for such assistance under section 6(<i>o</i>) of the Food and Nutrition Act of 2008.
+&emsp;&emsp;&emsp;&emsp;(II) receiving such assistance for at least 3 months of the 5-month period ending on the hiring date, in the case of a member of a family who ceases to be eligible for such assistance under section 6(o) of the Food and Nutrition Act of 2008.
 
 #### (B) Participation information
 
@@ -370,7 +366,7 @@ For purposes of this subpart—
 
 #### (A) Agricultural labor
 
-&emsp;&emsp;If the services performed by any employee for an employer during more than one-half of any pay period (within the meaning of section 3306(d)) taken into account with respect to any year constitute agricultural labor (within the meaning of section 3306(k)), the term “unemployment insurance wages” means, with respect to the remuneration paid by the employer to such employee for such year, an amount equal to so much of such remuneration as constitutes “wages” within the meaning of section 3121(a), except that the contribution and benefit base for each calendar year shall be deemed to be $6,000.
+&emsp;&emsp;If the services performed by any employee for an employer during more than one-half of any pay period (within the meaning of section 3306(d)) taken into account with respect to any year constitute agricultural labor (within the meaning of section 3306(k)), the term “unemployment insurance wages” means, with respect to the remuneration paid by the employer to such employee for such year, an amount equal to so much of such remuneration as constitutes“wages” within the meaning of section 3121(a), except that the contribution and benefit base for each calendar year shall be deemed to be $6,000.
 
 #### (B) Railway labor
 
@@ -386,7 +382,7 @@ For purposes of this subpart—
 
 &emsp;No wages shall be taken into account under subsection (a) with respect to an individual who—
 
-&emsp;&emsp;(A) bears any of the relationships described in subparagraphs (A) through (G) of section 152(d)(2) to the taxpayer, or, if the taxpayer is a corporation, to an individual who owns, directly or indirectly, more than 50 percent in value of the outstanding stock of the corporation, or, if the taxpayer is an entity other than a corporation, to any individual who owns, directly or indirectly, more than 50 percent of the capital and profits interests in the entity,<sup>4</sup> (determined with the application of section 267(c)),
+&emsp;&emsp;(A) bears any of the relationships described in subparagraphs (A) through (G) of section 152(d)(2) to the taxpayer, or, if the taxpayer is a corporation, to an individual who owns, directly or indirectly, more than 50 percent in value of the outstanding stock of the corporation, or, if the taxpayer is an entity other than a corporation, to any individual who owns, directly or indirectly, more than 50 percent of the capital and profits interests in the entity,<sup>5</sup> (determined with the application of section 267(c)),
 
 &emsp;&emsp;(B) if the taxpayer is an estate or trust, is a grantor, beneficiary, or fiduciary of the estate or trust, or is an individual who bears any of the relationships described in subparagraphs (A) through (G) of section 152(d)(2) to a grantor, beneficiary, or fiduciary of the estate or trust, or
 
@@ -430,13 +426,13 @@ For purposes of this subpart—
 
 &emsp;No credit shall be determined under this section with respect to remuneration paid by an employer to an employee for services performed by such employee for another person unless the amount reasonably expected to be received by the employer for such services from such other person exceeds the remuneration paid by the employer to such employee for such services.
 
-(Added Pub. L. 95–30, title II, §202(b), May 23, 1977, 91 Stat. 141; amended Pub. L. 95–600, title III, §321(a), Nov. 6, 1978, 92 Stat. 2830; Pub. L. 96–222, title I, §103(a)(6)(A), (E), (F), (G)(iii)–(ix),Apr. 1, 1980, 94 Stat. 209, 210; Pub. L. 97–34, title II, §261(a)–(b)(2)(A), (B)(ii)–(f)(1), Aug. 13, 1981, 95 Stat. 260–262; Pub. L. 97–248, title II, §233(a)–(d), (f), Sept. 3, 1982, 96 Stat. 501, 502; Pub. L. 97–448, title I, §102(<i>l</i>)(1), (3), (4), Jan. 12, 1983, 96 Stat. 2374; Pub. L. 98–369, div. A, title IV, §474(p)(1)–(3), title VII, §712(n), title X, §1041(a), (c)(1)–(4), div. B, title VI, §§2638(b), 2663(j)(5)(A), July 18, 1984, 98 Stat. 837, 955, 1042, 1043, 1144, 1171; Pub. L. 99–514, title XVII, §1701(a)–(c), title XVIII, §1878(f)(1), Oct. 22, 1986, 100 Stat. 2772, 2904; Pub. L. 100–203, title X, §10601(a), Dec. 22, 1987, 101 Stat. 1330–451; Pub. L. 100–485, title II, §202(c)(6), Oct. 13, 1988, 102 Stat. 2378; Pub. L. 100–647, title I, §1017(a), title IV, §4010(a), (c)(1), (d)(1), Nov. 10, 1988, 102 Stat. 3575, 3655; Pub. L. 101–239, title VII, §7103(a), (c)(1), Dec. 19, 1989, 103 Stat. 2305; Pub. L. 101–508, title XI, §11405(a), Nov. 5, 1990, 104 Stat. 1388–473; Pub. L. 102–227, title I, §105(a), Dec. 11, 1991, 105 Stat. 1687; Pub. L. 103–66, title XIII, §§13102(a), 13302(d), Aug. 10, 1993, 107 Stat. 420, 556; Pub. L. 104–188, title I, §1201(a)–(e)(1), (5), (f), Aug. 20, 1996, 110 Stat. 1768–1772; Pub. L. 104–193, title I, §110(<i>l</i>)(1), Aug. 22, 1996, 110 Stat. 2173; Pub. L. 105–33, title V, §5514(a)(1), Aug. 5, 1997, 111 Stat. 620; Pub. L. 105–34, title VI, §603(a)–(d), Aug. 5, 1997, 111 Stat. 862; Pub. L. 105–277, div. J, title I, §1002(a), title IV, §4006(c)(1), Oct. 21, 1998, 112 Stat. 2681–888, 2681–912; Pub. L. 106–170, title V, §505(a), (b), Dec. 17, 1999, 113 Stat. 1921; Pub. L. 106–554, §1(a)(7) \[title I, §102(a)–(c), title III, §316(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–600, 2763A–644; Pub. L. 107–147, title VI, §604(a), Mar. 9, 2002, 116 Stat. 59; Pub. L. 108–311, title II, §207(5), title III, §303(a)(1), Oct. 4, 2004, 118 Stat. 1177, 1179; Pub. L. 109–432, div. A, title I, §105(a)–(e)(3), Dec. 20, 2006, 120 Stat. 2936, 2937; Pub. L. 110–28, title VIII, §8211(a)–(d), May 25, 2007, 121 Stat. 191; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (D), (2)(O), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (D), (2)(O), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 111–5, div. B, title I, §1221(a), Feb. 17, 2009, 123 Stat. 337; Pub. L. 111–147, title I, §101(b), Mar. 18, 2010, 124 Stat. 74; Pub. L. 111–312, title VII, §757(a), Dec. 17, 2010, 124 Stat. 3322; Pub. L. 112–56, title II, §261(a)–(d), Nov. 21, 2011, 125 Stat. 729, 730.)
+(Added Pub. L. 95–30, title II, §202(b), May 23, 1977, 91 Stat. 141; amended Pub. L. 95–600, title III, §321(a), Nov. 6, 1978, 92 Stat. 2830; Pub. L. 96–222, title I, §103(a)(6)(A), (E), (F), (G)(iii)–(ix), Apr. 1, 1980, 94 Stat. 209, 210; Pub. L. 97–34, title II, §261(a)–(b)(2)(A), (B)(ii)–(f)(1), Aug. 13, 1981, 95 Stat. 260–262; Pub. L. 97–248, title II, §233(a)–(d), (f), Sept. 3, 1982, 96 Stat. 501, 502; Pub. L. 97–448, title I, §102(l)(1), (3), (4), Jan. 12, 1983, 96 Stat. 2374; Pub. L. 98–369, div. A, title IV, §474(p)(1)–(3), title VII, §712(n), title X, §1041(a), (c)(1)–(4), div. B, title VI, §§2638(b), 2663(j)(5)(A), July 18, 1984, 98 Stat. 837, 955, 1042, 1043, 1144, 1171; Pub. L. 99–514, title XVII, §1701(a)–(c), title XVIII, §1878(f)(1), Oct. 22, 1986, 100 Stat. 2772, 2904; Pub. L. 100–203, title X, §10601(a), Dec. 22, 1987, 101 Stat. 1330–451; Pub. L. 100–485, title II, §202(c)(6),Oct. 13, 1988, 102 Stat. 2378; Pub. L. 100–647, title I, §1017(a), title IV, §4010(a), (c)(1), (d)(1), Nov. 10, 1988, 102 Stat. 3575, 3655; Pub. L. 101–239, title VII, §7103(a), (c)(1), Dec. 19, 1989, 103 Stat. 2305; Pub. L. 101–508, title XI, §11405(a), Nov. 5, 1990, 104 Stat. 1388–473; Pub. L. 102–227, title I, §105(a), Dec. 11, 1991, 105 Stat. 1687; Pub. L. 103–66, title XIII, §§13102(a), 13302(d), Aug. 10, 1993, 107 Stat. 420, 556; Pub. L. 104–188, title I, §1201(a)–(e)(1), (5), (f), Aug. 20, 1996, 110 Stat. 1768–1772; Pub. L. 104–193, title I, §110(l)(1), Aug. 22, 1996, 110 Stat. 2173; Pub. L. 105–33, title V, §5514(a)(1), Aug. 5, 1997, 111 Stat. 620; Pub. L. 105–34, title VI, §603(a)–(d), Aug. 5, 1997, 111 Stat. 862; Pub. L. 105–277, div. J, title I, §1002(a), title IV, §4006(c)(1), Oct. 21, 1998, 112 Stat. 2681–888, 2681–912; Pub. L. 106–170, title V, §505(a), (b), Dec. 17, 1999, 113 Stat. 1921; Pub. L. 106–554, §1(a)(7) \[title I, §102(a)–(c), title III, §316(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–600, 2763A–644; Pub. L. 107–147, title VI, §604(a), Mar. 9, 2002, 116 Stat. 59; Pub. L. 108–311, title II, §207(5), title III, §303(a)(1), Oct. 4, 2004, 118 Stat. 1177, 1179; Pub. L. 109–432, div. A, title I, §105(a)–(e)(3), Dec. 20, 2006, 120 Stat. 2936, 2937; Pub. L. 110–28, title VIII, §8211(a)–(d), May 25, 2007, 121 Stat. 191; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (D), (2)(O), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (D), (2)(O), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 111–5, div. B, title I, §1221(a), Feb. 17, 2009, 123 Stat. 337; Pub. L. 111–147, title I, §101(b), Mar. 18, 2010, 124 Stat. 74; Pub. L. 111–312, title VII, §757(a), Dec. 17, 2010, 124 Stat. 3322; Pub. L. 112–56, title II, §261(a)–(d), Nov. 21, 2011, 125 Stat. 729, 730; Pub. L. 112–240, title III, §309(a), Jan. 2, 2013, 126 Stat. 2329.)
 
 #### References in Text
 
 The Social Security Act, referred to in subsecs. (c)(2)(B) and (d)(2)(B), (6)(B)(iii), (9), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Title XVI of the Act is classified generally to subchapter XVI (§1381 et seq.) of chapter 7 of Title 42. Section 482 of the Act, which was classified to section 682 of Title 42, was repealed by Pub. L. 104–193, title I, §108(e), Aug. 22, 1996, 110 Stat. 2167. Sections 1148(g) and 1616 of the Act are classified to sections 1320b–19(g) and 1382e, respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Food and Nutrition Act of 2008, referred to in subsec. (d)(3)(A)(i), (8)(A)(ii), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. Section 6(<i>o</i>) of the Act is classified to section 2015(<i>o</i>) of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food and Nutrition Act of 2008, referred to in subsec. (d)(3)(A)(i), (8)(A)(ii), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. Section 6(o) of the Act is classified to section 2015(o) of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 The Rehabilitation Act of 1973, referred to in subsec. (d)(6)(B)(i), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
@@ -453,6 +449,12 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 A prior section 51, added Pub. L. 90–364, title I, §102(a), June 28, 1968, 82 Stat. 252; amended Pub. L. 91–53, §5(a), Aug. 7, 1969, 83 Stat. 93; Pub. L. 91–172, title III, §301(b)(5), title VII, §701(a), Dec. 30, 1969, 83 Stat. 585, 657, related to the imposition of a tax surcharge, prior to repeal by Pub. L. 94–455, title XIX, §1901(a)(7), Oct. 4, 1976, 90 Stat. 1765.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (c)(4)(B). Pub. L. 112–240 substituted “after December 31, 2013” for “after—
+
+&emsp;“(i) December 31, 2012, in the case of a qualified veteran, and
+
+&emsp;“(ii) December 31, 2011, in the case of any other individual.”
 
 <b>2011</b>—Subsec. (b)(3). Pub. L. 112–56, §261(a), substituted “($12,000 per year in the case of any individual who is a qualified veteran by reason of subsection (d)(3)(A)(ii)(I), $14,000 per year in the case of any individual who is a qualified veteran by reason of subsection (d)(3)(A)(iv), and $24,000 per year in the case of any individual who is a qualified veteran by reason of subsection (d)(3)(A)(ii)(II))” for “($12,000 per year in the case of any individual who is a qualified veteran by reason of subsection (d)(3)(A)(ii))”.
 
@@ -480,13 +482,13 @@ Subsec. (d)(8)(A)(ii)(II). Pub. L. 110–246, §4002(b)(1)(B), (2)(O), substitut
 
 Subsec. (d)(8)(B). Pub. L. 110–246, §4002(b)(1)(A), (2)(O), substituted “supplemental nutrition assistance program” for “food stamp program”.
 
-<b>2007</b>—Subsec. (b)(3). Pub. L. 110–28, §8211(d)(2), substituted “Limitation on” for “Only first $6,000 of” in heading and inserted “($12,000 per year in the case ofany individual who is a qualified veteran by reason of subsection (d)(3)(A)(ii))” before period at end.
+<b>2007</b>—Subsec. (b)(3). Pub. L. 110–28, §8211(d)(2), substituted “Limitation on” for “Only first $6,000 of” in heading and inserted “($12,000 per year in the case of any individual who is a qualified veteran by reason of subsection (d)(3)(A)(ii))” before period at end.
 
 Subsec. (c)(4)(B). Pub. L. 110–28, §8211(a), substituted “August 31, 2011” for “December 31, 2007”.
 
 Subsec. (d)(1)(D). Pub. L. 110–28, §8211(b)(2), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “a high-risk youth,”.
 
-Subsec. (d)(3)(A). Pub. L. 110–28, §8211(d)(1)(A), substituted “agency as—” and cls. (i) and (ii) for “agency as being a member of a family receiving assistance under a food stamp program under the Food Stamp Act of 1977 for at least a 3-month period ending during the 12-month period ending on the hiring date.”
+Subsec. (d)(3)(A). Pub. L. 110–28, §8211(d)(1)(A), substituted “agency as—” and cls. (i) and (ii) for “agencyas being a member of a family receiving assistance under a food stamp program under the Food Stamp Act of 1977 for at least a 3-month period ending during the 12-month period ending on the hiring date.”
 
 Subsec. (d)(3)(C). Pub. L. 110–28, §8211(d)(1)(B), added subpar. (C).
 
@@ -568,7 +570,7 @@ Subsec. (d)(3)(A). Pub. L. 105–34, §603(b)(2), amended heading and text of su
 
 Subsec. (d)(9). Pub. L. 105–34, §603(c)(2), added par. (9). Former par. (9) redesignated (10).
 
-Pub. L. 105–33 repealed Pub. L. 104–193, §110(<i>l</i>)(1). See 1996 Amendment note below.
+Pub. L. 105–33 repealed Pub. L. 104–193, §110(l)(1). See 1996 Amendment note below.
 
 Subsec. (d)(10) to (12). Pub. L. 105–34, §603(c)(2), redesignated pars. (9) to (11) as (10) to (12), respectively.
 
@@ -588,7 +590,7 @@ Termination.—The term ‘wages’ shall not include any amount paid or incurre
 
 Subsec. (d). Pub. L. 104–188, §1201(b), reenacted heading without change and amended text generally, revising and restating as pars. (1) to (11) provisions formerly contained in pars. (1) to (16).
 
-Subsec. (d)(9). Pub. L. 104–193, §110(<i>l</i>)(1), which directed amendment of par. (9) by striking all that follows “agency as” and inserting “being eligible for financial assistance under part A of title IV of the Social Security Act and as having continually received such financial assistance during the 90-day period which immediately precedes the date on which such individual is hired by the employer.”, was repealed by Pub. L. 105–33.
+Subsec. (d)(9). Pub. L. 104–193, §110(l)(1), which directed amendment of par. (9) by striking all that follows “agency as” and inserting “being eligible for financial assistance under part A of title IV of the Social Security Act and as having continually received such financial assistance during the 90-day period which immediately precedes the date on which such individual is hired by the employer.”, was repealed by Pub. L. 105–33.
 
 Subsec. (g). Pub. L. 104–188, §1201(e)(1), substituted “work opportunity credit” for “targeted jobs credit”.
 
@@ -664,11 +666,11 @@ Subsec. (j). Pub. L. 98–369, §1041(c)(1), added subsec. (j) relating to treat
 
 Pub. L. 98–369, §474(p)(3), added subsec. (j) relating to election to have targeted jobs credit not apply.
 
-<b>1983</b>—Subsec. (d)(8)(D). Pub. L. 97–448, §102(<i>l</i>)(1), substituted “clauses (i), (ii), and (iii) of subparagraph (A)” for “subparagraph (A)”.
+<b>1983</b>—Subsec. (d)(8)(D). Pub. L. 97–448, §102(l)(1), substituted “clauses (i), (ii), and (iii) of subparagraph (A)” for “subparagraph (A)”.
 
-Subsec. (d)(9)(B). Pub. L. 97–448, §102(<i>l</i>)(3), substituted “section 432(b)(1) or 445” for “section 432(b)(1)”.
+Subsec. (d)(9)(B). Pub. L. 97–448, §102(l)(3), substituted “section 432(b)(1) or 445” for “section 432(b)(1)”.
 
-Subsec. (d)(11). Pub. L. 97–448, §102(<i>l</i>)(4), substituted “the earlier of the month in which such determination occurs or the month in which the hiring date occurs” for “the month in which such determination occurs”.
+Subsec. (d)(11). Pub. L. 97–448, §102(l)(4), substituted “the earlier of the month in which such determination occurs or the month in which the hiring date occurs” for “the month in which such determination occurs”.
 
 <b>1982</b>—Subsec. (c)(3). Pub. L. 97–248, §233(a), substituted “1984” for “1982”.
 
@@ -742,6 +744,10 @@ Subsec. (e). Pub. L. 96–222, §103(a)(6)(G)(ix), inserted “except as provide
 
 <b>1978</b>—Pub. L. 95–600 amended section generally and limited allowance of credit to the hiring of seven target groups with high unemployment rates.
 
+#### Effective Date of 2013 Amendment
+
+Pub. L. 112–240, title III, §309(b), Jan. 2, 2013, 126 Stat. 2329, provided that: “The amendment made by this section \[amending this section\] shall apply to individuals who begin work for the employer after December 31, 2011.”
+
 #### Effective Date of 2011 Amendment
 
 Pub. L. 112–56, title II, §261(g), Nov. 21, 2011, 125 Stat. 732, provided that: “The amendments made by this section \[amending this section and sections 52 and 3111 of this title\] shall apply to individuals who begin work for the employer after the date of the enactment of this Act \[Nov. 21, 2011\].”
@@ -810,13 +816,13 @@ Pub. L. 106–170, title V, §505(c), Dec. 17, 1999, 113 Stat. 1921, provided th
 
 Pub. L. 105–277, div. J, title I, §1002(b), Oct. 21, 1998, 112 Stat. 2681–888, provided that: “The amendment made by this section \[amending this section\] shall apply to individuals who begin work for the employer after June 30, 1998.”
 
-#### Effective Date of 1997 Amendments
+#### Effective Date of 1997 Amendment
 
-Section 603(e) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section\] shall apply to individuals who begin work for the employer after September 30, 1997.”
+Pub. L. 105–34, title VI, §603(e), Aug. 5, 1997, 111 Stat. 863, provided that: “The amendments made by this section \[amending this section\] shall apply to individuals who begin work for the employer after September 30, 1997.”
 
-Section 5518(c) of Pub. L. 105–33 provided that: “The amendments made by section 5514(a) of this Act \[amending this section and sections 3304, 6103, 6334, 6402, and 7523 of this title\] shall take effect as if the amendments had been included in section 110 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\] at the time such section 110 became law.”
+Pub. L. 105–33, title V, §5518(c), Aug. 5, 1997, 111 Stat. 621, provided that: “The amendments made by section 5514(a) of this Act \[amending this section and sections 3304, 6103, 6334, 6402, and 7523 of this title\] shall take effect as if the amendments had been included in section 110 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\] at the time such section 110 became law.”
 
-#### Effective Date of 1996 Amendments
+#### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of Title 42, The Public Health and Welfare.
 
@@ -824,15 +830,15 @@ Amendment by Pub. L. 104–188 applicable to individuals who begin work for the 
 
 #### Effective Date of 1993 Amendment
 
-Section 13102(b) of Pub. L. 103–66 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to individuals who begin work for the employer after June 30, 1992.”
+Pub. L. 103–66, title XIII, §13102(b), Aug. 10, 1993, 107 Stat. 420, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to individuals who begin work for the employer after June 30, 1992.”
 
 #### Effective Date of 1991 Amendment
 
-Section 105(b) of Pub. L. 102–227 provided that: “The amendment made by this section \[amending this section\] shall apply to individuals who begin work for the employer after December 31, 1991.”
+Pub. L. 102–227, title I, §105(b), Dec. 11, 1991, 105 Stat. 1687, provided that: “The amendment made by this section \[amending this section\] shall apply to individuals who begin work for the employer after December 31, 1991.”
 
 #### Effective Date of 1990 Amendment
 
-Section 11405(c) of Pub. L. 101–508 provided that:
+Pub. L. 101–508, title XI, §11405(c), Nov. 5, 1990, 104 Stat. 1388–473, provided that:
 
 “(1)
 
@@ -844,25 +850,25 @@ Authorization.—The amendment made by subsection (b) \[amending provisions set 
 
 #### Effective Date of 1989 Amendment
 
-Section 7103(c)(2) of Pub. L. 101–239 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to individuals who begin work for the employer after December 31, 1989.”
+Pub. L. 101–239, title VII, §7103(c)(2), Dec. 19, 1989, 103 Stat. 2305, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to individuals who begin work for the employer after December 31, 1989.”
 
-#### Effective Date of 1988 Amendments
+#### Effective Date of 1988 Amendment
 
 Amendment by section 1017(a) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Section 4010(c)(2) of Pub. L. 100–647 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to individuals who begin work for the employer after December 31, 1988.”
+Pub. L. 100–647, title IV, §4010(c)(2), Nov. 10, 1988, 102 Stat. 3655, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to individuals who begin work for the employer after December 31, 1988.”
 
-Section 4010(d)(2) of Pub. L. 100–647 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to individuals who begin work for the employer after December 31, 1988.”
+Pub. L. 100–647, title IV, §4010(d)(2), Nov. 10, 1988, 102 Stat. 3655, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to individuals who begin work for the employer after December 31, 1988.”
 
 Amendment by Pub. L. 100–485 effective Oct. 1, 1990, with provision for earlier effective dates in case of States making certain changes in their State plans and formally notifying the Secretary of Health and Human Services of their desire to become subject to the amendments made by title II of Pub. L. 100–485 on the earlier effective dates, see section 204 of Pub. L. 100–485, set out as a note under section 671 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1987 Amendment
 
-Section 10601(b) of Pub. L. 100–203 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to amounts paid or incurred on or after January 1, 1987, for services rendered on or after such date.”
+Pub. L. 100–203, title X, §10601(b), Dec. 22, 1987, 101 Stat. 1330–451, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to amounts paid or incurred on or after January 1, 1987, for services rendered on or after such date.”
 
 #### Effective Date of 1986 Amendment
 
-Section 1701(e) of Pub. L. 99–514 provided that: “The amendments made by this section \[amending this section and provisions set out below\] shall apply with respect to individuals who begin work for the employer after December 31, 1985.”
+Pub. L. 99–514, title XVII, §1701(e), Oct. 22, 1986, 100 Stat. 2772, provided that: “The amendments made by this section \[amending this section and provisions set out below\] shall apply with respect to individuals who begin work for the employer after December 31, 1985.”
 
 Amendment by section 1878(f)(1) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
@@ -872,31 +878,31 @@ Amendment by section 474(p)(1)–(3) of Pub. L. 98–369 applicable to taxable y
 
 Amendment by section 712 of Pub. L. 98–369 effective as if included in the provision of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section 715 of Pub. L. 98–369, set out as a note under section 31 of this title.
 
-Section 1041(c)(5) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, title XVIII, §1878(f)(2), Oct. 22, 1986, 100 Stat. 2095, 2904, provided that:
+Pub. L. 98–369, div. A, title X, §1041(c)(5), July 18, 1984, 98 Stat. 1043, as amended by Pub. L. 99–514, §2, title XVIII, §1878(f)(2), Oct. 22, 1986, 100 Stat. 2095, 2904, provided that:
 
 “(A)
 
-In general.—Except as provided in subparagraph (B), the amendments made by this section\[amending this section\] shall apply to individuals who begin work for the employer after the date of the enactment of this Act \[July 18, 1984\].
+In general.—Except as provided in subparagraph (B), the amendments made by this section \[amending this section\] shall apply to individuals who begin work for the employer after the date of the enactment of this Act \[July 18, 1984\].
 
 “(B)
 
 Special rule for employees performing services for other persons.—Paragraph (2) of section 51(k) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by this subsection) and the amendment made by paragraph (3) of this subsection \[amending this section\] shall apply to individuals who begin work for the employer after December 31, 1984.”
 
-Section 2638(c)(2) of Pub. L. 98–369 provided that: “The amendments made by subsection (b) \[amending this section\] shall apply with respect to payments made on or after the date of the enactment of this Act \[July 18, 1984\].”
+Pub. L. 98–369, div. B, title VI, §2638(c)(2), July 18, 1984, 98 Stat. 1144, provided that: “The amendments made by subsection (b) \[amending this section\] shall apply with respect to payments made on or after the date of the enactment of this Act \[July 18, 1984\].”
 
 Amendment by section 2663 of Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1983 Amendment
 
-Section 102(<i>l</i>)(4) of Pub. L. 97–448 provided that the amendment made by that section is effective with respect to certifications made after Jan. 12, 1983, with respect to individuals beginning work for an employer after May 11, 1982.
+Pub. L. 97–448, title I, §102(l)(4), Jan. 12, 1983, 96 Stat. 2374, provided that the amendment made by that section is effective with respect to certifications made after Jan. 12, 1983, with respect to individuals beginning work for an employer after May 11, 1982.
 
 Amendment by title I of Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in the provision of the Economic Recovery Tax Act of 1981, Pub. L. 97–34, to which such amendment relates, see section 109 of Pub. L. 97–448, set out as a note under section 1 of this title.
 
 #### Effective Date of 1982 Amendment
 
-Section 233(f) of Pub. L. 97–248 provided that the amendments made by that section are effective only with respect to individuals who begin work for the taxpayer after May 11, 1982.
+Pub. L. 97–248, title II, §233(f), Sept. 3, 1982, 96 Stat. 502, provided that the amendments made by that section are effective only with respect to individuals who begin work for the taxpayer after May 11, 1982.
 
-Section 233(g) of Pub. L. 97–248 provided that:
+Pub. L. 97–248, title II, §233(g), Sept. 3, 1982, 96 Stat. 503, provided that:
 
 “(1)
 
@@ -908,7 +914,7 @@ Subsection (d).—The amendments made by subsection (d) \[amending this section\
 
 #### Effective Date of 1981 Amendment
 
-Section 261(g) of Pub. L. 97–34, as amended by Pub. L. 97–448, title I, §102(<i>l</i>)(2), Jan. 12, 1983, 96 Stat. 2374; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 97–34, title II, §261(g), Aug. 13, 1981, 95 Stat. 263, as amended by Pub. L. 97–448, title I, §102(l)(2), Jan. 12, 1983, 96 Stat. 2374; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 
@@ -952,17 +958,17 @@ Limitation on qualified first-year wages.—The amendment made by subsection (e)
 
 #### Effective Date of 1980 Amendment
 
-Section 103(b)(1) of Pub. L. 96–222 provided that: “The amendment made by subsection (a)(5)(F) \[probably means subsec. (a)(6)(F), amending this section\] shall apply to wages paid or incurred on or after November 27, 1979, in taxable years ending on or after such date.”
+Pub. L. 96–222, title I, §103(b)(1), Apr. 1, 1980, 94 Stat. 214, provided that: “The amendment made by subsection (a)(5)(F) \[probably means subsec. (a)(6)(F), amending this section\] shall apply to wages paid or incurred on or after November 27, 1979, in taxable years ending on or after such date.”
 
 Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it had been included in the provisions of the Revenue Act of 1978, Pub. L. 95–600, to which such amendment relates, see section 201 of Pub. L. 96–222, set out as a note under section 32 of this title.
 
 #### Effective Date of 1978 Amendment
 
-Section 321(d)(1) of Pub. L. 95–600 provided that: “Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and sections 44B, 52, 53, and 6501 of this title\] shall apply to amounts paid or incurred after December 31, 1978, in taxable years ending after such date.”
+Pub. L. 95–600, title III, §321(d)(1), Nov. 6, 1978, 92 Stat. 2835, provided that: “Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and sections 44B, 52, 53, and 6501 of this title\] shall apply to amounts paid or incurred after December 31, 1978, in taxable years ending after such date.”
 
 #### Effective Date
 
-Section 202(e) of Pub. L. 95–30 provided that: “The amendments made by this section \[enacting this section and sections 44B, 52, 53, and 280C of this title and amending sections 56, 381, 383, 6096, 6411, 6501, 6511, 6601, and 6611 of this title\] shall apply to taxable years beginning after December 31, 1976, and to credit carrybacks from such years.”
+Pub. L. 95–30, title II, §202(e), May 23, 1977, 91 Stat. 151, provided that: “The amendments made by this section \[enacting this section and sections 44B, 52, 53, and 280C of this title and amending sections 56, 381, 383, 6096, 6411, 6501, 6511, 6601, and 6611 of this title\] shall apply to taxable years beginning after December 31, 1976, and to credit carrybacks from such years.”
 
 #### Returning Heroes and Wounded Warriors Work Opportunity Tax Credits; Treatment of Possessions of United States
 
@@ -1006,7 +1012,7 @@ Pub. L. 105–277, div. J, title IV, §4006(c)(1), Oct. 21, 1998, 112 Stat. 2681
 
 #### Authorization of Appropriations
 
-Section 261(f)(2) of Pub. L. 97–34, as amended by Pub. L. 97–248, title II, §233(e), Sept. 3, 1982, 96 Stat. 502; Pub. L. 98–369, div. A, title X, §1041(b), July 18, 1984, 98 Stat. 1042; Pub. L. 99–514, title XVII, §1701(d), Oct. 22, 1986, 100 Stat. 2772; Pub. L. 100–647, title IV, §4010(b), Nov. 10, 1988, 102 Stat. 3655; Pub. L. 101–239, title VII, §7103(b), Dec. 19, 1989, 103 Stat. 2305; Pub. L. 101–508, title XI, §11405(b), Nov. 5, 1990, 104 Stat. 1388–473, provided that: “There is authorized to be appropriated for each fiscal year such sums as may be necessary, to carry out the functions described by the amendments made by paragraph (1) \[amending this section\], except that, of the amounts appropriated pursuant to this paragraph—
+Pub. L. 97–34, title II, §261(f)(2), Aug. 13, 1981, 95 Stat. 263, as amended by Pub. L. 97–248, title II, §233(e), Sept. 3, 1982, 96 Stat. 502; Pub. L. 98–369, div. A, title X, §1041(b), July 18, 1984, 98 Stat. 1042; Pub. L. 99–514, title XVII, §1701(d), Oct. 22, 1986, 100 Stat. 2772; Pub. L. 100–647, title IV, §4010(b), Nov. 10, 1988, 102 Stat. 3655; Pub. L. 101–239, title VII, §7103(b), Dec. 19, 1989, 103 Stat. 2305; Pub. L. 101–508, title XI, §11405(b), Nov. 5, 1990, 104 Stat. 1388–473, provided that: “There is authorized to be appropriated for each fiscal year such sums as may be necessary, to carry out the functions described by the amendments made by paragraph (1) \[amending this section\], except that, of the amounts appropriated pursuant to this paragraph—
 
 &emsp;“(A) $5,000,000 shall be used to test whether individuals certified as members of targeted groups under section 51 of such Code are eligible for such certification (including the use of statistical sampling techniques), and
 
@@ -1024,7 +1030,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Special Rules for Newly Targeted Groups
 
-Section 321(d)(2) of Pub. L. 95–600, as amended by Pub. L. 96–222, title I, §103(a)(6)(C), (G)(xi), Apr. 1, 1980, 94 Stat. 209, 211; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 95–600, title III, §321(d)(2), Nov. 6, 1978, 92 Stat. 2835, as amended by Pub. L. 96–222, title I, §103(a)(6)(C), (G)(xi), Apr. 1, 1980, 94 Stat. 209, 211; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(A)
 
@@ -1038,11 +1044,11 @@ Individual must be hired after september 26, 1978.—In the case of a member of 
 
 &emsp;“(i) such individual meets the requirements of paragraph (1) of section 51(d) of such Code, and
 
-&emsp;“(ii) in the case of an individual meeting the requirements of subparagraph (A) of such paragraph (1), a credit was not claimed for such individual by the taxpayer for a taxable year beginning before January 1, 1979.”
+&emsp;“(ii) in the case of an individual meeting the requirements of subparagraph (A) of such paragraph (1), a credit was not claimed for such individual by thetaxpayer for a taxable year beginning before January 1, 1979.”
 
 #### Credit Allowable by Section 44B in Case of Taxable Year Beginning in 1978 and Ending After December 31, 1978
 
-Section 321(d)(3) of Pub. L. 95–600, as amended by Pub. L. 96–222, title I, §103(a)(6)(D), Apr. 1, 1980, 94 Stat. 209; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “In the case of a taxable year which begins in 1978 and ends after December 31, 1978, the amount of the credit determined under section 51 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall be the sum of—
+Pub. L. 95–600, title III, §321(d)(3), Nov. 6, 1978, 92 Stat. 2836, as amended by Pub. L. 96–222, title I, §103(a)(6)(D), Apr. 1, 1980, 94 Stat. 209; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “In the case of a taxable year which begins in 1978 and ends after December 31, 1978, the amount of the credit determined under section 51 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall be the sum of—
 
 &emsp;“(A) the amount of the credit which would be so determined without regard to the amendments made by this section, plus
 
@@ -1050,9 +1056,11 @@ Section 321(d)(3) of Pub. L. 95–600, as amended by Pub. L. 96–222, title I, 
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be followed by a comma.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be followed by a period.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “Qualified supplemental nutrition assistance program benefits recipient”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be followed by a comma.</i>
 
-<i><sup>4</sup></i><i> So in original. The comma probably should not appear.</i>
+<i><sup>4</sup></i><i> So in original. Probably should be “Qualified supplemental nutrition assistance program benefits recipient”.</i>
+
+<i><sup>5</sup></i><i> So in original. The comma probably should not appear.</i>
 

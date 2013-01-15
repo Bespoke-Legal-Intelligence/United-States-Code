@@ -1,8 +1,8 @@
 ### §1856d. Funds
 
-(a) Funds available to any agency head for fire protection on installations or in connection with activities under the jurisdiction of such agency may be used to carry out the purposes of this subchapter. All sums received by any agency head for fire protection rendered pursuant to this subchapter shall be covered into the Treasury as miscellaneous receipts.
+(a) Funds available to any agency head for fire protection on installations or in connectionwith activities under the jurisdiction of such agency may be used to carry out the purposes of this subchapter. All sums received by any agency head for fire protection rendered pursuant to this subchapter shall be covered into the Treasury as miscellaneous receipts.
 
-(b) Notwithstanding subsection (a), all sums received as reimbursements for costs incurred by any Department of Defense activity for fire protection rendered pursuant to this subchapter shall be credited to the same appropriation or fund from which the expenses were paid or, if the period of availability for obligation for thatappropriation has expired, to the appropriation or fund that is currently available to the activity for the same purpose. Amounts so credited shall be subject to the same provisions and restrictions as the appropriation or account to which credited.
+(b) Notwithstanding subsection (a), all sums received as reimbursements for costs incurred by any Department of Defense activity for fire protection rendered pursuant to this subchapter shall be credited to the same appropriation or fund from which the expenses were paid or, if the period of availability for obligation for that appropriation has expired, to the appropriation or fund that is currently available to the activity for the same purpose. Amounts so credited shall be subject to the same provisions and restrictions as the appropriation or account to which credited.
 
 (May 27, 1955, ch. 105, §5, 69 Stat. 67; Pub. L. 110–181, div. A, title X, §1080, Jan. 28, 2008, 122 Stat. 335; Pub. L. 112–81, div. A, title III, §364(a), Dec. 31, 2011, 125 Stat. 1380.)
 

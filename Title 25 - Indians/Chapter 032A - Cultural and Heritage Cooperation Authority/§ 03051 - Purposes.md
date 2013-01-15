@@ -12,7 +12,7 @@ The purposes of this chapter are—
 
 &emsp;(5) to authorize the Secretary to protect the confidentiality of certain information, including information that is culturally sensitive to Indian tribes;
 
-&emsp;(6) to increase the availability of Forest Service programs and resources to Indian tribes in support of the policy of the United States to promote tribal sovereignty and self-determination; and
+&emsp;(6) to increase the availability of Forest Service programs and resources to Indian tribes in support of the policy of the UnitedStates to promote tribal sovereignty and self-determination; and
 
 &emsp;(7) to strengthen support for the policy of the United States of protecting and preserving the traditional, cultural, and ceremonial rites and practices of Indian tribes, in accordance with Public Law 95–341 (commonly known as the American Indian Religious Freedom Act; 42 U.S.C. 1996).
 

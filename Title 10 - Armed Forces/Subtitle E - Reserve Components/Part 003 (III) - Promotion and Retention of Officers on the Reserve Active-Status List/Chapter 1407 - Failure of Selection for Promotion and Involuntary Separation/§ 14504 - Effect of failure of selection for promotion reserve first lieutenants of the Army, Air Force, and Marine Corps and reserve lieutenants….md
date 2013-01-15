@@ -6,7 +6,7 @@ General Rule.—A first lieutenant on the reserve active-status list of the Army
 
 (b)
 
-Exceptions.—Subsection (a) does not apply (1) in the case of an officer retained as providedby regulation of the Secretary of the military department concerned in order to meet planned mobilization needs for a period not in excess of 24 months beginning with the date on which the President approves the report of the selection board which resulted in the second failure, or (2) as provided in section 12646 or 12686 of this title.
+Exceptions.—Subsection (a) does not apply (1) in the case of an officer retained as provided by regulation of the Secretary of the military department concerned in order to meet planned mobilization needs for a period not in excess of 24 months beginning with the date on which the President approves the report of the selection board which resulted in the second failure, or (2) as provided in section 12646 or 12686 of this title.
 
 (c)
 

@@ -46,13 +46,23 @@ Until the date on which the Commission conducts its first meeting, the Secretary
 
 The Secretary may acquire easements within the park for the purpose of carrying out this subchapter. Such easements may be acquired only as provided in subsection (a)(1) of this section.
 
-(Pub. L. 95–290, title II, §202, June 5, 1978, 92 Stat. 293; Pub. L. 110–229, title III, §312(2), May 8, 2008, 122 Stat. 769.)
+#### (d) Exchange of land or interest in land
+
+(1) The Secretary may exchange any land or interest in land within the boundaries of the park for any land or interest in land owned by the Commonwealth of Massachusetts, the city of Lowell, or the University of Massachusetts Building Authority.
+
+(2) Except as provided in paragraph (3), an exchange under this subsection shall be subject to the laws, regulations, and policies applicable to exchanges of land administered by the National Park Service and any other terms and conditions that the Secretary determines to be necessary to protect the interests of the United States.
+
+(3) Where facilities or infrastructure required for the management and operation of the Lowell National Historical Park exists on the Federal land to be exchanged, and the non-Federal land or interest in land to be exchanged is not of equal value, the values shall be equalized by the payment of cash to the Secretary. The Secretary shall not be required to equalize the values of any exchange conducted under this subsection if the land or interest in land received by the Federal Government exceeds the value of the Federal land or interest in land exchanged.
+
+(Pub. L. 95–290, title II, §202, June 5, 1978, 92 Stat. 293; Pub. L. 110–229, title III, §312(2), May 8, 2008, 122 Stat. 769; Pub. L. 112–182, §2, Oct. 5, 2012, 126 Stat. 1420.)
 
 #### References in Text
 
 Section 410cc–11(a)(3) of this title, referred to in subsec. (a)(2)(G), was in the original “subsection (101)(a)(3)” and was translated as meaning section 101(a)(3) of Pub. L. 95–290, which is classified to section 410cc–11(a)(3) of this title, to reflect the probable intent of Congress.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (d). Pub. L. 112–182 added subsec. (d).
 
 <b>2008</b>—Subsec. (a)(2)(G). Pub. L. 110–229 added subpar. (G).
 

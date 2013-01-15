@@ -6,7 +6,7 @@ In this part:
 
 &emsp;(2) The term “bone marrow” means the cells found in adult bone marrow and peripheral blood.
 
-&emsp;(3) The term “outcomes database” means the database established by the Secretary under section 274<i>l</i> of this title.
+&emsp;(3) The term “outcomes database” means the database established by the Secretary under section 274l of this title.
 
 &emsp;(4) The term “Program” means the C.W. Bill Young Cell Transplantation Program established under section 274k of this title.
 

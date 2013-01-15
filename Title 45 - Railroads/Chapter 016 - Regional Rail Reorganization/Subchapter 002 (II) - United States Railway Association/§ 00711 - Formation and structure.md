@@ -6,7 +6,7 @@ There is established, in accordance with the provisions of this section, an inco
 
 #### (b) Administration
 
-The Association shall be directed by a Board of Directors. The individuals designated, pursuant to subsection (d)(2) of this section, as the Government members of such Board shall be deemed the incorporators of the Association and shall take whatever steps are necessary to establish the Association, including filing of articles of incorporation, and serving as an acting Board of Directors for a period of not more than 45 days after the date of incorporation of the Association.
+The Association shall be directed by a Board of Directors. The individuals designated, pursuant to subsection (d)(2) of this section, as the Government members of such Board shall be deemed the incorporators of the Association andshall take whatever steps are necessary to establish the Association, including filing of articles of incorporation, and serving as an acting Board of Directors for a period of not more than 45 days after the date of incorporation of the Association.
 
 #### (c) Status
 
@@ -34,7 +34,7 @@ The term of office of the Chairman of the Board of Directors of the Association 
 
 #### (f) Quorum
 
-Three members of the Board of Directors, or their representatives, shall constitute a quorumfor the transaction of any function of the Association.
+Three members of the Board of Directors, or their representatives, shall constitute a quorum for the transaction of any function of the Association.
 
 #### (g) Assumption of Finance Committee functions
 

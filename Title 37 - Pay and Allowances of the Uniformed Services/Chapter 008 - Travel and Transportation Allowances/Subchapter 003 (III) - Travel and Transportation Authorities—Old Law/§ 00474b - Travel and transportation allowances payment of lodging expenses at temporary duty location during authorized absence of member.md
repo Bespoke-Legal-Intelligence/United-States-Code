@@ -2,7 +2,7 @@
 
 (a)
 
-Payment or Reimbursement Authorized.—The Secretary concerned may pay or reimburse a member of the armed forces assigned to temporary duty as described in subsection (b) for lodging expenses incurred by the member at the temporary duty location during an authorized absence of the member from the temporary duty location.
+Payment or Reimbursement Authorized.—The Secretary concerned may pay or reimburse a member of the armed forces assignedto temporary duty as described in subsection (b) for lodging expenses incurred by the member at the temporary duty location during an authorized absence of the member from the temporary duty location.
 
 (b)
 
@@ -30,17 +30,15 @@ Authorized Absence Defined.—In this section, the term “authorized absence”
 
 Termination.—No payment or reimbursement may be provided under this section with respect to an authorized absence that begins after the travel authorities transition expiration date.
 
-(Added Pub. L. 108–136, div. A, title VI, §635(a), Nov. 24, 2003, 117 Stat. 1510, §404b; amended Pub. L. 109–163, div. A, title VI, §651(a), (b)(1), Jan. 6, 2006, 119 Stat. 3311; renumbered §474b and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(3), (f)(4)(A), Dec. 31, 2011, 125 Stat. 1460, 1461, 1465.)
-
-#### Codification
-
-Section 631(f)(4)(A) of Pub. L. 112–81, which directed that this title be amended by conforming any references to sections of this title which were transferred and redesignated by “subsection (c)” of section 631, was executed by conforming the references to those sections as transferred and redesignated by subsection (d) of section 631, to reflect the probable intent of Congress.
+(Added Pub. L. 108–136, div. A, title VI, §635(a), Nov. 24, 2003, 117 Stat. 1510, §404b; amended Pub. L. 109–163, div. A, title VI, §651(a), (b)(1), Jan. 6, 2006, 119 Stat. 3311; renumbered §474b and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(3), (f)(4)(A), Dec. 31, 2011, 125 Stat. 1460, 1461, 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
 
 #### Amendments
 
+<b>2013</b>—Subsec. (b)(2). Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, §631(f)(4)(A). See 2011 Amendment note below.
+
 <b>2011</b>—Pub. L. 112–81, §631(d)(2), renumbered section 404b of this title as this section.
 
-Subsec. (b)(2). Pub. L. 112–81, §631(f)(4)(A), substituted “474(a)(4)” for “404(a)(4)”. See Codification note above.
+Subsec. (b)(2). Pub. L. 112–81, §631(f)(4)(A), as amended by Pub. L. 112–239, §1076(a)(9), substituted “474(a)(4)” for “404(a)(4)”.
 
 Subsec. (e). Pub. L. 112–81, §631(e)(3), added subsec. (e).
 
@@ -55,4 +53,8 @@ Subsec. (b)(3). Pub. L. 109–163, §651(a)(2)(B), substituted “before the end
 Subsec. (c)(1). Pub. L. 109–163, §651(a)(3), substituted “during the authorized absence of the member” for “while the member was in an authorized leave status”.
 
 Subsec. (d). Pub. L. 109–163, §651(a)(4), added subsec. (d).
+
+#### Effective Date of 2013 Amendment
+
+Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
 

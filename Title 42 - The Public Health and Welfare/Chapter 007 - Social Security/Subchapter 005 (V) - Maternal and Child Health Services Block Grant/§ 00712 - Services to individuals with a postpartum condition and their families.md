@@ -6,7 +6,7 @@ In addition to any other payments made under this subchapter to a State, the Sec
 
 #### (b) Certain activities
 
-To the extent practicable and appropriate, the Secretary shall ensure that projects funded under subsection (a) provide education and services with respect to the diagnosis and management of postpartum conditions for individuals with or at risk for postpartum conditions and their families. The Secretary may allow such projects to include the following:
+To the extent practicable and appropriate, the Secretary shall ensure that projects fundedunder subsection (a) provide education and services with respect to the diagnosis and management of postpartum conditions for individuals with or at risk for postpartum conditions and their families. The Secretary may allow such projects to include the following:
 
 &emsp;(1) Delivering or enhancing outpatient and home-based health and support services, including case management and comprehensive treatment services.
 
@@ -44,7 +44,7 @@ The Secretary may provide technical assistance to entities seeking a grant under
 
 #### (2) Exceptions
 
-&emsp;The following provisions of this subchapter shall apply to a grant made under this section to the same extent and in the same manner assuch provisions apply to allotments made under section 702(c) of this title:
+&emsp;The following provisions of this subchapter shall apply to a grant made under this section to the same extent and in the same manner as such provisions apply to allotments made under section 702(c) of this title:
 
 &emsp;&emsp;(A) Section 704(b)(6) of this title (relating to prohibition on payments to excluded individuals and entities).
 

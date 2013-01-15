@@ -16,11 +16,11 @@ Any person who—
 
 &emsp;(2) makes or furnishes or causes another person to make or furnish (in connection with such organization or sale)—
 
-&emsp;&emsp;(A) a statement with respect to the allowability of any deduction or credit, the excludability of any income, or the securing of any other tax benefit by reason of holding an interest in the entity or participating in the plan or arrangement which the person knows or has reason to known is false or fraudulent as to any material matter, or
+&emsp;&emsp;(A) a statement with respect to the allowability of any deduction or credit, the excludability of any income, or the securing of any other tax benefit by reason of holding an interest in the entity or participating in theplan or arrangement which the person knows or has reason to know is false or fraudulent as to any material matter, or
 
 &emsp;&emsp;(B) a gross valuation overstatement as to any material matter,
 
-> shall pay, with respect to each activity described in paragraph (1), a penalty equal to the$1,000 or, if the person establishes that it is lesser, 100 percent of the gross income derived (or to be derived) by such person from such activity. For purposes of the preceding sentence, activities described in paragraph (1)(A) with respect to each entity or arrangement shall be treated as a separate activity and participation in each sale described in paragraph (1)(B) shall be so treated. Notwithstanding the first sentence, if an activity with respect to which a penalty imposed under this subsection involves a statement described in paragraph (2)(A), the amount of the penalty shall be equal to 50 percent of the gross income derived (or to be derived) from such activity by the person on which the penalty is imposed.
+> shall pay, with respect to each activity described in paragraph (1), a penalty equal to the $1,000 or, if the person establishes that it is lesser, 100 percent of the gross income derived (or to be derived) by such person from such activity. For purposes of the preceding sentence, activities described in paragraph (1)(A) with respect to each entity or arrangement shall be treated as a separate activity and participation in each sale described in paragraph (1)(B) shall be so treated. Notwithstanding the first sentence, if an activity with respect to which a penalty imposed under this subsection involves a statement described in paragraph (2)(A), the amount of the penalty shall be equal to 50 percent of the gross income derived (or to be derived) from such activity by the person on which the penalty is imposed.
 
 #### (b) Rules relating to penalty for gross valuation overstatements
 
@@ -60,13 +60,13 @@ Pub. L. 108–357, title VIII, §818(b), Oct. 22, 2004, 118 Stat. 1584, provided
 
 #### Effective Date of 1989 Amendment
 
-Section 7734(b) of Pub. L. 101–239 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to activities after December 31, 1989.”
+Pub. L. 101–239, title VII, §7734(b), Dec. 19, 1989, 103 Stat. 2403, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to activities after December 31, 1989.”
 
 #### Effective Date of 1984 Amendment
 
-Section 143(c) of Pub. L. 98–369 provided that: “The amendments made by this section \[amending this section and section 7408 of this title\] shall take effect on the day after the date of the enactment of this Act \[July 18, 1984\].”
+Pub. L. 98–369, div. A, title I, §143(c), July 18, 1984, 98 Stat. 682, provided that: “The amendments made by this section \[amending this section and section 7408 of this title\] shall take effect on the day after the date of the enactment of this Act \[July 18, 1984\].”
 
 #### Effective Date
 
-Section 320(c) of Pub. L. 97–248 provided that: “The amendments made by this section \[enacting this section\] shall take effect on the day after the date of the enactment of this Act \[Sept. 3, 1982\].”
+Pub. L. 97–248, title III, §320(c), Sept. 3, 1982, 96 Stat. 612, provided that: “The amendments made by this section \[enacting this section\] shall take effect on the day after the date of the enactment of this Act \[Sept. 3, 1982\].”
 

@@ -44,7 +44,7 @@ For purposes of this section, the terms used in this section shall have the same
 
 #### Codification
 
-Pub. L. 101–140 amended this section to read as if the amendments made by section 1011B(a)(27) of Pub. L. 100–647 (enacting subsec. (c)) had not been enacted. Subsequent to enactment by Pub. L. 100–647, subsec. (c) was amended by Pub. L. 100–647, §3021(a)(1)(C). See 1988 Amendment note below.
+Pub. L. 101–140 amended this section to read as if the amendments made by section 1011B(a)(27) of Pub. L.100–647 (enacting subsec. (c)) had not been enacted. Subsequent to enactment by Pub. L. 100–647, subsec. (c) was amended by Pub. L. 100–647, §3021(a)(1)(C). See 1988 Amendment note below.
 
 #### Amendments
 
@@ -72,7 +72,7 @@ Subsec. (d). Pub. L. 100–647, §1011B(a)(27)(A), redesignated former subsec. (
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–140 effective as if included in section 1151 of Pub. L. 99–514, see section 203(c) ofPub. L. 101–140, set out as a note under section 79 of this title.
+Amendment by Pub. L. 101–140 effective as if included in section 1151 of Pub. L. 99–514, see section 203(c) of Pub. L. 101–140, set out as a note under section 79 of this title.
 
 #### Effective Date of 1988 Amendment
 

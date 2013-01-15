@@ -139,12 +139,12 @@
 | [539i.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000539i%20-%20Fossil%20Ridge%20Recreation%20Management%20Area.md) | Fossil Ridge Recreation Management Area. |
 | [539j.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000539j%20-%20Bowen%20Gulch%20Protection%20Area.md) | Bowen Gulch Protection Area. |
 | [539k.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000539k%20-%20Kelly%20Butte%20Special%20Management%20Area.md) | Kelly Butte Special Management Area. |
-| 539<i>l</i>. | Designation of James Peak Protection Area, Colorado. |
-| 539<i>l</i>–1. | Inholdings. |
-| 539<i>l</i>–2. | James Peak Fall River trailhead. |
-| 539<i>l</i>–3. | Loop trail study; authorization. |
-| 539<i>l</i>–4. | Other administrative provisions. |
-| 539<i>l</i>–5. | Wilderness potential. |
+| [539l.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000539l%20-%20Designation%20of%20James%20Peak%20Protection%20Area%2C%20Colorado.md) | Designation of James Peak Protection Area, Colorado. |
+| 539l–1. | Inholdings. |
+| 539l–2. | James Peak Fall River trailhead. |
+| 539l–3. | Loop trail study; authorization. |
+| 539l–4. | Other administrative provisions. |
+| 539l–5. | Wilderness potential. |
 | [539m.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000539m%20-%20Findings%20and%20purposes.md) | Findings and purposes. |
 | 539m–1. | Definitions. |
 | 539m–2. | T'uf Shur Bien Preservation Trust Area. |

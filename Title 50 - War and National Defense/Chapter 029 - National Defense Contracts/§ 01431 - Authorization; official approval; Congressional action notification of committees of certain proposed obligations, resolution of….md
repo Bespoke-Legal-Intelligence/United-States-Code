@@ -16,7 +16,7 @@ Pub. L. 102–25, §705(f)(2), in fourth sentence, inserted “at the end of a C
 
 #### Effective Date of 1991 Amendment
 
-Section 705(f)(1) of Pub. L. 102–25 provided that the amendment made by that section is effective as of Nov. 6, 1990.
+Pub. L. 102–25, title VII, §705(f)(1), Apr. 6, 1991, 105 Stat. 120, provided that the amendment made by that section is effective as of Nov. 6, 1990.
 
 #### Nonapplicability of National Emergencies Act
 
@@ -28,7 +28,7 @@ Amendment by Pub. L. 93–155 not affecting the carrying out of any contract, lo
 
 #### Ex. Ord. No. 10789. Contracting Authority of Government Agencies in Connection With National Defense Functions
 
-Ex. Ord. No. 10789, Nov. 14, 1958, 23 F.R. 8897, as amended by Ex. Ord. No. 11051, Sept. 27, 1962, 27 F.R. 9683; Ex. Ord. No. 11382, Nov. 28, 1967, 32 F.R. 16247; Ex. Ord. No. 11610, July 22, 1971, 36 F.R. 13755; Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239; Ex. Ord. No. 12919, §904(b), June 3, 1994, 59 F.R. 29534; Ex. Ord. No. 13232, Oct. 20, 2001, 66 F.R. 53941; Ex. Ord. No. 13286, §73, Feb. 28, 2003, 68 F.R. 10630, provided:
+Ex. Ord. No. 10789, Nov. 14, 1958, 23 F.R. 8897, as amended by Ex. Ord. No. 11051, Sept. 27, 1962, 27 F.R. 9683; Ex. Ord. No. 11382, Nov. 28, 1967, 32 F.R. 16247; Ex. Ord. No. 11610, July 22, 1971, 36 F.R. 13755; Ex. Ord. No.12148, July 20, 1979, 44 F.R. 43239; Ex. Ord. No. 12919, §904(b), June 3, 1994, 59 F.R. 29534; Ex. Ord. No. 13232, Oct. 20, 2001, 66 F.R. 53941; Ex. Ord. No. 13286, §73, Feb. 28, 2003, 68 F.R. 10630, provided:
 
 By virtue of the authority vested in me by the act of August 28, 1958, 72 Stat. 972, hereinafter called the act \[this chapter\], and as President of the United States, and deeming that such action will facilitate the national defense, it is hereby ordered as follows:
 
@@ -88,7 +88,7 @@ Under such regulations, which shall be uniform to the extent practicable, as may
 
 “The Contractor warrants that no person or selling agency has been employed or retained to solicit or secure this contract upon an agreement or understanding for a commission, percentage, brokerage, or contingent fee, except bonafide employees or bonafide established commercial or selling agencies maintained by the Contractor for the purpose of securing business. For breach or violation of this warranty the Government shall have the right to annul this contract without liability or, in its discretion, to deduct from the contract price or consideration, or otherwise recover, the full amount of such commission, percentage, brokerage, or contingent fee.”
 
-11\. Except as provided in the Act of September 27, 1966, 80 Stat. 850 \[which amended section 1433 of this title, sections 2310 and 2313 of Title 10, Armed Forces, and section 254 of former Title 41, Public Contracts\] contracts entered into, amended, or modified pursuant to authority of this order shall include a clause to the effect that the Comptroller General of the UnitedStates or any of his duly authorized representatives shall, until the expiration of three years after final payment, have access to and the right to examine any directly pertinent books, documents, papers, and records of the contractor or any of his subcontractors engaged in the performance of, and involving transactions related to, such contracts or subcontracts. Before exercising the authority provided in the Act of September 27, 1966, 80 Stat. 850 the Secretaries of Defense, the Army, the Navy, or the Air Force, or their designees, shall first determine that all reasonable efforts have been made to include the clause prescribed above and that alternate sources of supply are not reasonably available.
+11\. Except as provided in the Act of September 27, 1966, 80 Stat. 850 \[which amended section 1433 of this title, sections 2310 and 2313 of Title 10, Armed Forces, and section 254 of former Title 41, Public Contracts\] contracts entered into, amended, or modified pursuant to authority of this order shall include a clause to the effect that the Comptroller General of the United States or any of his duly authorized representatives shall, until the expiration of three years after final payment, have access to and the right to examine any directly pertinent books, documents, papers, and records of the contractor or any of his subcontractors engaged in the performance of, and involving transactions related to, such contracts or subcontracts. Before exercising the authority provided in the Act of September 27, 1966, 80 Stat. 850 the Secretaries of Defense, the Army, the Navy, or the Air Force, or their designees, shall first determine that all reasonable efforts have been made to include the clause prescribed above and that alternate sources of supply are not reasonably available.
 
 12\. Nothing herein contained shall be construed to constitute authorization hereunder for—
 

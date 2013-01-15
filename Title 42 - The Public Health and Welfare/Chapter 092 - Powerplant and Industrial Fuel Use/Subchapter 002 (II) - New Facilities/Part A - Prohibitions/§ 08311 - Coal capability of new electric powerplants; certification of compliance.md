@@ -12,7 +12,7 @@ An electric powerplant has the capability to use coal or another alternate fuel 
 
 &emsp;(2) is not physically, structurally, or technologically precluded from using coal or another alternate fuel as its primary energy source.
 
-> Capability to use coal or another alternate fuel shall not be interpreted to require any suchpowerplant to be immediately able to use coal or another alternate fuel as its primary energy source on its initial day of operation.
+> Capability to use coal or another alternate fuel shall not be interpreted to require any such powerplant to be immediately able to use coal or another alternate fuel as its primary energy source on its initial day of operation.
 
 #### (c) Applicability to base load powerplants
 

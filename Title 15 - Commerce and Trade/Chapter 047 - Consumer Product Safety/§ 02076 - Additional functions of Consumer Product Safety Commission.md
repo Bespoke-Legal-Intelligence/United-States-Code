@@ -34,7 +34,7 @@ The Commission shall also have the power—
 
 &emsp;(10) to delegate any of its functions or powers, other than the power to issue subpenas under paragraph (3) (except as provided in paragraph (9)), to any officer or employee of the Commission.
 
-> An order issued under paragraph (1) shall contain a complete statement of the reason the Commission requires the report or answers specified in the order to carry out a specific regulatory or enforcement function of the Commission. Such an order shall be designed to place the least burden on the person subject to theorder as is practicable taking into account the purpose for which the order was issued.
+> An order issued under paragraph (1) shall contain a complete statement of the reason the Commission requires the report or answers specified in the order to carry out a specific regulatory or enforcement function of the Commission. Such an order shall be designed to place the least burden on the person subject to the order as is practicable taking into account the purpose for which the order was issued.
 
 #### (c) Noncompliance with subpena or Commission order; contempt
 
@@ -46,7 +46,7 @@ No person shall be subject to civil liability to any person (other than the Comm
 
 #### (e) Performance and technical data
 
-The Commission may by rule require any manufacturer of consumer products to provide to the Commission such performance and technical data related to performance and safety as may be required to carry out the purposes of this chapter, and to give such notification of such performance and technical data at the time of original purchase to prospective purchasers and to the first purchaser of such product for purposes other than resale, as it determines necessary to carry out the purposes of this chapter.
+The Commission may by rule require any manufacturer of consumer products to provide to the Commission such performance and technical data related to performance and safety as may be required to carry out the purposes of this chapter, and to give such notification of such performance and technical data at the timeof original purchase to prospective purchasers and to the first purchaser of such product for purposes other than resale, as it determines necessary to carry out the purposes of this chapter.
 
 #### (f) Purchase of consumer products by Commission
 
@@ -148,7 +148,7 @@ Subsec. (j)(5) to (13). Pub. L. 110–314, §209(a)(2), added pars. (5) and (6) 
 
 Subsec. (j)(10), (11). Pub. L. 97–35, §1209(c), added par. (10) and redesignated former par. (10) as (11).
 
-Subsec. (<i>l</i>). Pub. L. 97–35, §1207(b), struck out subsec. (<i>l</i>) which provided for reports to the House of Representatives and the Senate of proposed consumer product safety rules and regulations.
+Subsec. (l). Pub. L. 97–35, §1207(b), struck out subsec. (l) which provided for reports to the House of Representatives and the Senate of proposed consumer product safety rules and regulations.
 
 Subsec. (m). Pub. L. 97–35, §1211(d), struck out subsec. (m) which defined “rule”, provided for a study of all the rules in effect on Nov. 10, 1978, and required a report be made to Congress recommending deletion of particular rules or parts of particular rules and initiation of particular rulemaking proceedings.
 
@@ -162,7 +162,7 @@ Subsec. (c). Pub. L. 94–284, §11(d), substituted “(subject to subsection (b
 
 Subsec. (j). Pub. L. 94–273 substituted “at the beginning of each regular session of Congress” for “on or before October 1 of each year”.
 
-Subsec. (<i>l</i>). Pub. L. 94–284, §14, added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 94–284, §14, added subsec. (l).
 
 #### Effective Date of 2008 Amendment
 

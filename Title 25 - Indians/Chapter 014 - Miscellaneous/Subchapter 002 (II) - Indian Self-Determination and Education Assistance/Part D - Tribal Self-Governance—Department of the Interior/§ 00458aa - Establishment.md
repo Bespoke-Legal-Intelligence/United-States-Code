@@ -10,7 +10,7 @@ For short title of title II of Pub. L. 103–413, which enacted this part, as th
 
 #### Congressional Statement of Findings
 
-Section 202 of Pub. L. 103–413 provided that: “Congress finds that—
+Pub. L. 103–413, title II, §202, Oct. 25, 1994, 108 Stat. 4270, provided that: “Congress finds that—
 
 &emsp;“(1) the tribal right of self-government flows from the inherent sovereignty of Indian tribes and nations;
 
@@ -28,7 +28,7 @@ Section 202 of Pub. L. 103–413 provided that: “Congress finds that—
 
 #### Congressional Declaration of Policy
 
-Section 203 of title II of Pub. L. 103–413 provided that: “It is the policy of this title \[enacting this part\] to permanently establish and implement tribal self-governance—
+Pub. L. 103–413, title II, §203, Oct. 25, 1994, 108 Stat. 4271, provided that: “It is the policy of this title \[enacting this part\] to permanently establish and implement tribal self-governance—
 
 &emsp;“(1) to enable the United States to maintain and improve its unique and continuing relationship with, and responsibility to, Indian tribes;
 

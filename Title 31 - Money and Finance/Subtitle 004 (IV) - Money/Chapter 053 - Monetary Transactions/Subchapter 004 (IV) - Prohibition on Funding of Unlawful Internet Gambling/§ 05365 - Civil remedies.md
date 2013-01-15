@@ -56,7 +56,7 @@ Limitation Relating to Interactive Computer Services.—
 
 In general.—Relief granted under this section against an interactive computer service shall—
 
-&emsp;&emsp;(A) be limited to the removal of, or disabling of access to, an online site violating section 5363, or a hypertext link to an online site violating such section, that resides on a computer server that such service controls or operates, except that the limitation in this subparagraph shall not apply if the service is subject to liability under this section under section 5367;
+&emsp;&emsp;(A) be limited to the removal of, or disabling of access to, an online site violatingsection 5363, or a hypertext link to an online site violating such section, that resides on a computer server that such service controls or operates, except that the limitation in this subparagraph shall not apply if the service is subject to liability under this section under section 5367;
 
 &emsp;&emsp;(B) be available only after notice to the interactive computer service and an opportunity for the service to appear are provided;
 

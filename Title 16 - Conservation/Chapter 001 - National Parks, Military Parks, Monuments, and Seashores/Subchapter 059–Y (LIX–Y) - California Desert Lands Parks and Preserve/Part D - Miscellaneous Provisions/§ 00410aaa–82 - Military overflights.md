@@ -22,7 +22,7 @@ The Wilderness Act, referred to in subsecs. (a) and (b), is Pub. L. 88–577, Se
 
 #### Short Title and Findings
 
-Section 801 of title VIII of Pub. L. 103–433 provided that:
+Pub. L. 103–433, title VIII, §801, Oct. 31, 1994, 108 Stat. 4501, provided that:
 
 “(a)
 

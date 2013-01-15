@@ -30,7 +30,7 @@ Use of Fund Subject to Appropriations.—The authority of the Secretary of Defen
 
 (f)
 
-Expenditures.—The Secretary shall establish procedures for expending monies in theFund in support of the uses identified in subsection (d), including the following:
+Expenditures.—The Secretary shall establish procedures for expending monies in the Fund in support of the uses identified in subsection (d), including the following:
 
 &emsp;(1) Direct obligations from the Fund.
 

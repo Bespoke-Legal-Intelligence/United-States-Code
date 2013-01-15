@@ -28,13 +28,7 @@ The deduction allowed by this section shall include only such taxes as were actu
 
 (Added Pub. L. 107–16, title V, §532(b), June 7, 2001, 115 Stat. 73.)
 
-#### Termination of Section
+#### Effective Date
 
-<i>For termination of section by section 901 of Pub. L. 107–16, see Effective and Termination Dates note below.</i>
-
-#### Effective and Termination Dates
-
-Section applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as an Effective and Termination Dates of 2001 Amendment note under section 2011 of this title.
-
-Section inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if it had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+Section applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as an Effective Date of 2001 Amendment note under section 2011 of this title.
 

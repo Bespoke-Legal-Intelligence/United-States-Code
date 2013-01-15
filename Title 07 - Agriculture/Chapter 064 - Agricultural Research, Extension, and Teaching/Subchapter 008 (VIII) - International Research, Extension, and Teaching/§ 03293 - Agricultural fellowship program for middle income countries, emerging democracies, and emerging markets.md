@@ -14,7 +14,7 @@ Countries described in any of the following paragraphs shall be eligible to part
 
 #### (2) Ongoing relationship
 
-&emsp;A middle-income country that has never qualified for bilateral foreign aid assistance from the United States, but with respect towhich an ongoing relationship with the United States, including technical assistance and training, would provide mutual benefits to such country and the United States.
+&emsp;A middle-income country that has never qualified for bilateral foreign aid assistance from the United States, but with respect to which an ongoing relationship with the United States, including technical assistance and training, would provide mutual benefits to such country and the United States.
 
 #### (3) Type of government
 

@@ -58,7 +58,7 @@ In this section:
 
 &emsp;&emsp;Such term includes the following:
 
-&emsp;&emsp;&emsp;(i) A Federally qualified health center (as defined in section 1396d(<i>l</i>)(2)(B) of this title).
+&emsp;&emsp;&emsp;(i) A Federally qualified health center (as defined in section 1396d(l)(2)(B) of this title).
 
 &emsp;&emsp;&emsp;(ii) A community mental health center (as defined in section 1395x(ff)(3)(B) of this title).
 

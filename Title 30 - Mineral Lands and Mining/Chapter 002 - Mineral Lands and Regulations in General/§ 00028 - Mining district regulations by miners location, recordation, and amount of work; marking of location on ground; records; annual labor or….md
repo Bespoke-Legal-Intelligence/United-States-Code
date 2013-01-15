@@ -26,5 +26,5 @@ Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of
 
 #### Assessment Work Years, 1957–58 and 1958–59
 
-Section 2 of Pub. L. 85–736 provided that the period commencing in 1957 for the performance of annual assessment work under this section shall end at 12 o'clock meridian on the 1st day of July 1958, and the period commencing in 1958 for the performance of such annual assessment work shall commence at 12 o'clock meridian on the 1st day of July 1958, and shall continue to 12 o'clock meridian on Sept. 1, 1959.
+Pub. L. 85–736, §2, Aug. 23, 1958, 72 Stat. 829, provided that the period commencing in 1957 for the performance of annual assessment work under this section shall end at 12 o'clock meridian on the 1st day of July 1958, and the period commencing in 1958 for the performance of such annual assessment work shall commence at 12 o'clock meridian on the 1st day of July 1958, and shall continue to 12 o'clock meridian on Sept. 1, 1959.
 

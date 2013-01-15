@@ -194,7 +194,7 @@ Section 3(a)(43), (44), (34)(G), of the Securities Exchange Act of 1934, referre
 
 Subsec. (g)(2) to (4). Pub. L. 111–147, §502(d)(1), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follows: “An obligation is not a registration-required obligation if—
 
-&emsp;“(A) there are arrangements reasonably designed to ensure that the obligation will be sold (or resold inconnection with the original issue) only to a person that is not a United States person; and
+&emsp;“(A) there are arrangements reasonably designed to ensure that the obligation will be sold (or resold in connection with the original issue) only to a person that is not a United States person; and
 
 &emsp;“(B) for an obligation not in registered form—
 
@@ -212,7 +212,7 @@ Amendment by Pub. L. 111–147 applicable to obligations issued after the date w
 
 #### Effective Date of 1986 Amendment; Promulgation of Regulations
 
-Amendment by Pub. L. 99–571 effective 270 days after Oct. 28, 1986, except that the Secretary of the Treasury and each appropriate regulatory agency shall publish for notice and public comment within 120 days after Oct. 28, 1986, initial implementing regulations to become effective as temporary regulations 210 days after Oct. 28, 1986, and as final regulations not later than 270 days after Oct. 28, 1986, see title IV of Pub. L. 99–571, set out as an Effective Date note under section 78<i>o</i>–5 of Title 15, Commerce and Trade.
+Amendment by Pub. L. 99–571 effective 270 days after Oct. 28, 1986, except that the Secretary of the Treasury and each appropriate regulatory agency shall publish for notice and public comment within 120 days after Oct. 28, 1986, initial implementing regulations to become effective as temporary regulations 210 days after Oct. 28, 1986, and as final regulations not later than 270 days after Oct. 28, 1986, see title IV of Pub. L. 99–571, set out as an Effective Date note under section 78o–5 of Title 15, Commerce and Trade.
 
 #### Effective Date of 1983 Amendment
 
@@ -230,11 +230,11 @@ Pub. L. 98–216, §4(a), (b), Feb. 14, 1984, 98 Stat. 6, 7, as amended by Pub. 
 
 #### Transitional and Savings Provisions
 
-For transitional and savings provisions of Pub. L. 99–571, see section 301 of Pub. L. 99–571, set out as a note under section 78<i>o</i>–5 of Title 15, Commerce and Trade.
+For transitional and savings provisions of Pub. L. 99–571, see section 301 of Pub. L. 99–571, set out as a note under section 78o–5 of Title 15, Commerce and Trade.
 
 #### Collection of Definitive Security and Annual Maintenance Fees
 
-Pub. L. 103–329, title I, Sept. 30, 1994, 108 Stat. 2386, provided in part: “That in fiscal year 1995 and thereafter, the Secretary is authorized to collect fees of not less than $46 for each definitive security issue provided to customers, and an annual maintenance fee of not less than $25 for each Treasury Direct Investor Account exceeding $100,000 in par value: <i>Provided further</i>, That in fiscal year 1995 and thereafter, of the definitive security fees collected, not to exceed $600,000, and of the annual maintenance fees for Treasury Direct Investor Account collected, not to exceed $2,500,000, shall be retained and used in the current fiscal year for the specific purpose of offsetting costs of Bureau of the Public Debt's marketable security activities, and any fees collected in excess of said amounts shall be deposited as miscellaneous receipts in the Treasury”.
+Pub. L. 103–329, title I, Sept. 30, 1994, 108 Stat. 2386, provided in part: “That in fiscal year 1995 and thereafter, the Secretary is authorized to collect fees of not less than $46 for each definitive security issue provided to customers, and an annual maintenance fee of notless than $25 for each Treasury Direct Investor Account exceeding $100,000 in par value: <i>Provided further</i>, That in fiscal year 1995 and thereafter, of the definitive security fees collected, not to exceed $600,000, and of the annual maintenance fees for Treasury Direct Investor Account collected, not to exceed $2,500,000, shall be retained and used in the current fiscal year for the specific purpose of offsetting costs of Bureau of the Public Debt's marketable security activities, and any fees collected in excess of said amounts shall be deposited as miscellaneous receipts in the Treasury”.
 
 #### Treasury Auction Reforms
 
@@ -344,7 +344,7 @@ Report required.—The Secretary of the Treasury shall submit an annual report t
 
 &emsp;“(2)
 
-Delay in disclosure of information in certain cases.—The Secretary of the Treasury shall not be required to include in a report under paragraph (1) any information the disclosure of which could jeopardize an investigation by an agency described in paragraph (1)(C) for so long as such disclosure could jeopardize the investigation.”
+Delay in disclosure of information in certain cases.—The Secretary of the Treasury shall notbe required to include in a report under paragraph (1) any information the disclosure of which could jeopardize an investigation by an agency described in paragraph (1)(C) for so long as such disclosure could jeopardize the investigation.”
 
 #### Notice on Treasury Modifications to Auction Process
 

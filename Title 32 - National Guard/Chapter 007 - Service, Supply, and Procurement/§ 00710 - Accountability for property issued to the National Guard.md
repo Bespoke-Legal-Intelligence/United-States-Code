@@ -2,7 +2,7 @@
 
 (a) All military property issued by the United States to the National Guard remains the property of the United States.
 
-(b) The Secretary of the Army shall prescribe regulations for accounting for property issued by the United States to the Army National Guard and for the fixing of responsibility for that property. The Secretary of the Air Force shall prescribe regulations for accounting for property issued by the United States to the Air National Guard and for the fixing of responsibility for that property. So far as practicable, regulations prescribed under this section shall be uniform among the components of each service.
+(b) The Secretary of the Army shall prescribe regulations for accounting for property issuedby the United States to the Army National Guard and for the fixing of responsibility for that property. The Secretary of the Air Force shall prescribe regulations for accounting for property issued by the United States to the Air National Guard and for the fixing of responsibility for that property. So far as practicable, regulations prescribed under this section shall be uniform among the components of each service.
 
 (c) Under regulations prescribed by the Secretary concerned under subsection (b), liability for the value of property issued by the United States to the National Guard that is lost, damaged, or destroyed may be charged (1) to a member of the Army National Guard or the Air National Guard when in similar circumstances a member of the Army or Air Force serving on active duty would be so charged, or (2) to a State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands when the property is lost, damaged, or destroyed incident to duty directed pursuant to the laws of, and in support of the authorities of, such jurisdiction. Liability charged to a member of the Army National Guard or the Air National Guard shall be paid out of pay due to the member for duties performed as a member of the National Guard, unless the Secretary concerned shall for good cause remit or cancel that liability. Liability charged to a State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands shall be paid from its funds or from any other non-Federal funds.
 
@@ -86,7 +86,7 @@ In subsection (d), the last sentence is substituted for 32:47 (words between sem
 
 In subsection (e), the words “charged against it under subsection (c)” are substituted for the words “changed against such State, Territory, or the District of Columbia by the Secretary of the Army after survey by a disinterested officer appointed as hereinbefore provided”. The words “may bar it from receiving” are substituted for the words “is authorized to debar such State, Territory, or the District of Columbia from further participation in any and all”.
 
-In subsection (f), the words “Instead of the procedure prescribed by subsections (b)–(d)” are substituted for the words “and to constitute as to such property a discretional substitute for the examination, report, and disposition provided for elsewhere in this section”. The words “a finding of unserviceability because of that wear and tear” are substituted for the words “finding to that effect”.
+In subsection (f), the words “Instead of the procedure prescribed by subsections (b)–(d)” are substituted for the words “and to constitute as to such property a discretional substitute for the examination, report, and disposition provided for elsewhere in this section”. Thewords “a finding of unserviceability because of that wear and tear” are substituted for the words “finding to that effect”.
 
 #### 1958 Act
 
@@ -120,7 +120,7 @@ Subsec. (d). Pub. L. 96–513 substituted “4(b)(22) of the Permanent Appropria
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of Title 10, Armed Forces.
 
-Section 2 of Pub. L. 96–328 provided that: “The amendment made by subsection (a) of the first section of this Act \[amending subsecs. (b) and (c) of this section\] shall apply to liability for property issued by the United States to the National Guard that is lost, damaged, or destroyed on or after October 1, 1980. Liability for such property that is lost, damaged, or destroyed before such date shall be governed by the provisions of section 710 of title 32, United States Code, as in effect on the day before the date of the enactment of this Act \[Aug. 8, 1980\].”
+Pub. L. 96–328, §2, Aug. 8, 1980, 94 Stat. 1028, provided that: “The amendment made by subsection (a) of the first section of this Act \[amending subsecs. (b) and (c) of this section\] shall apply to liability for property issued by the United States to the National Guard that is lost, damaged, or destroyed on or after October 1, 1980. Liability for such property that is lost, damaged, or destroyed before such date shall be governed by the provisions of section 710 of title 32, United States Code, as in effect on the day before the date of the enactment of this Act \[Aug. 8, 1980\].”
 
 #### Effective Date of 1958 Amendment
 

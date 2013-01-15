@@ -52,7 +52,7 @@ Par. (2). Pub. L. 103–325, §602(d)(2), substituted “paragraph (1)(A)” for
 
 #### Effective Date of 1933 Amendment
 
-Section 4 of act June 16, 1933, provided that the amendment made by that section is effective July 1, 1932.
+Act June 16, 1933, ch. 89, §4, 48 Stat. 163, provided that the amendment made by that section is effective July 1, 1932.
 
 #### Additional Transfers for Fiscal Years 1997 and 1998
 

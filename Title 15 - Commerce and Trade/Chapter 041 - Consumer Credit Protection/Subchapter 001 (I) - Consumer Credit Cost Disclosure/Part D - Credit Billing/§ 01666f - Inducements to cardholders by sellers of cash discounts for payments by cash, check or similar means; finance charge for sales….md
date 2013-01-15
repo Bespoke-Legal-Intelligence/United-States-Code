@@ -2,7 +2,7 @@
 
 #### (a) Cash discounts
 
-With respect to credit card which may be used for extensions of credit in sales transactions in which the seller is a person other than the card issuer, the card issuer may not, by contract, or otherwise, prohibit any such seller from offering a discount to a cardholder to induce the cardholder to pay by cash, check, or similar means rather than use a credit card.
+With respect to credit <sup>1</sup> card which may be used for extensions of credit in sales transactions in which the seller is a person other than the card issuer, the card issuer may not, by contract or otherwise, prohibit any such seller from offering a discount to a cardholder to induce the cardholder to pay by cash, check, or similar means rather than use a credit card.
 
 #### (b) Finance charge
 
@@ -22,5 +22,7 @@ Section 3(c)(2) of Pub. L. 94–222, as amended by Pub. L. 95–630, title XV, �
 
 #### Nullification of Board Rules and Regulations Under Subsection (b) of This Section in Effect on July 26, 1981
 
-Section 103 of Pub. L. 97–25 provided that: “Any rule or regulation of the Board of Governors of the Federal Reserve System pursuant to section 167(b) of the Truth in Lending Act \[subsec. (b) of this section\], as such section was in effect on the day before the date of enactment of this Act \[July 27, 1981\], is null and void.”
+Pub. L. 97–25, title I, §103, July 27, 1981, 95 Stat. 144, provided that: “Any rule or regulation of the Board of Governors of the Federal Reserve System pursuant to section 167(b) of the Truth in Lending Act \[subsec. (b) of this section\], as such section was in effect on the day before the date of enactment of this Act \[July 27, 1981\], is null and void.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by “a”.</i>
 

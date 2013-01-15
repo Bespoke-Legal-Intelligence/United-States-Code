@@ -62,7 +62,7 @@
 
 #### (1) In general
 
-&emsp;The President shall carry out an import quota program that provides that wheneverthe Secretary determines and announces that the average price of the base quality of upland cotton, as determined by the Secretary, in the designated spot markets for a month exceeded 130 percent of the average price of such quality of cotton in the markets for the preceding 36 months, notwithstanding any other provision of law, there shall immediately be in effect a limited global import quota subject to the following conditions:
+&emsp;The President shall carry out an import quota program that provides that whenever the Secretary determines and announces that the average price of the base quality of uplandcotton, as determined by the Secretary, in the designated spot markets for a month exceeded 130 percent of the average price of such quality of cotton in the markets for the preceding 36 months, notwithstanding any other provision of law, there shall immediately be in effect a limited global import quota subject to the following conditions:
 
 #### (A) Quantity
 

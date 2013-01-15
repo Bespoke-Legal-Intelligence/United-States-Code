@@ -78,7 +78,7 @@ Pub. L. 106–170, title V, §533(b), Dec. 17, 1999, 113 Stat. 1931, provided th
 
 #### Effective Date
 
-Section 13252(d) of Pub. L. 103–66 provided that:
+Pub. L. 103–66, title XIII, §13252(d), Aug. 10, 1993, 107 Stat. 532, provided that:
 
 “(1)
 

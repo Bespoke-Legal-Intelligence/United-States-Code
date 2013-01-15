@@ -2,7 +2,11 @@
 
 Patents for designs shall be granted for the term of fourteen years from the date of grant.
 
-(July 19, 1952, ch. 950, 66 Stat. 805; Pub. L. 97–247, §16, Aug. 27, 1982, 96 Stat. 321; Pub. L. 103–465, title V, §532(c)(3), Dec. 8, 1994, 108 Stat. 4987.)
+(July 19, 1952, ch. 950, 66 Stat. 805; Pub. L. 97–247, §16, Aug. 27, 1982, 96 Stat. 321; Pub. L. 103–465, title V, §532(c)(3), Dec. 8, 1994, 108 Stat. 4987; Pub. L. 112–211, title I, §102(7), Dec. 18, 2012, 126 Stat. 1532.)
+
+#### Amendment of Section
+
+<i>Pub. L. 112–211, title I, §§102(7), 103, Dec. 18, 2012, 126 Stat. 1532, provided that, effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States, and applicable only to certain applications filed on and after that effective date and patents issuing thereon, this section is amended by substituting “15 years” for “fourteen years”. See 2012 Amendment note below.</i>
 
 #### Historical and Revision Notes
 
@@ -10,9 +14,15 @@ Based on Title 35, U.S.C., 1946 ed., §77 (R.S. 4931). Language is changed sligh
 
 #### Amendments
 
+<b>2012</b>—Pub. L. 112–211 substituted “15 years” for “fourteen years”.
+
 <b>1994</b>—Pub. L. 103–465 inserted “from the date of grant” after “years”.
 
 <b>1982</b>—Pub. L. 97–247 substituted “Patents for designs shall be granted for the term of fourteen years” for “Patents for designs may be granted for the term of three years and six months, or for seven years, or for fourteen years, as the applicant, in his application, elects”.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–211 effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States, and applicable only to certain applications filed on and after that effective date and patents issuing thereon, see section 103 of Pub. L. 112–211, set out as a note under section 100 of this title.
 
 #### Effective Date of 1994 Amendment
 

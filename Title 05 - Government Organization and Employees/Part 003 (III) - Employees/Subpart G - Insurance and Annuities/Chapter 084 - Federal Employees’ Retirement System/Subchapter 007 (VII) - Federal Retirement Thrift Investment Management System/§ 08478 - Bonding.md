@@ -1,6 +1,6 @@
 ### §8478. Bonding
 
-(a)(1) Except as provided in paragraph (2), each fiduciary and each person who handles funds orproperty of the Thrift Savings Fund shall be bonded as provided in this section.
+(a)(1) Except as provided in paragraph (2), each fiduciary and each person who handles funds or property of the Thrift Savings Fund shall be bonded as provided in this section.
 
 (2)(A) Bond shall not be required of a fiduciary (or of any officer or employee of such fiduciary) if such fiduciary—
 
@@ -54,7 +54,7 @@ Subsec. (c)(2). Pub. L. 99–556, §115, substituted “sections 9304 through 93
 
 #### Interim Bonding Regulations
 
-Section 113 of Pub. L. 99–556 provided that:
+Pub. L. 99–556, title I, §113, Oct. 27, 1986, 100 Stat. 3133, provided that:
 
 “(a)
 

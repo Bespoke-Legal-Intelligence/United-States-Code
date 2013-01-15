@@ -4,7 +4,7 @@
 
 Congress finds that—
 
-&emsp;(1) significant accomplishments have been made by the Secretary and cooperating States in the prevention and control of fires on forest lands and on nonforested watersheds for more than fifty years;
+&emsp;(1) significant accomplishments have been made by the Secretary and cooperating Statesin the prevention and control of fires on forest lands and on nonforested watersheds for more than fifty years;
 
 &emsp;(2) progress is being made by the Secretary and cooperating States and rural communities in the protection of human lives, agricultural crops and livestock, property and other improvements, and natural resources from fires in rural areas;
 
@@ -92,7 +92,7 @@ For transfer of all functions, personnel, assets, components, authorities, grant
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-Functions vested in Secretary of Commerce pursuant to provisions of Federal Fire Prevention Control Act of 1974, 15 U.S.C. 2201 et seq., transferred to Director of Federal Emergency Management Agency pursuant to Reorg. Plan No. 3 of 1978, §201, June 19, 1978, 43 F.R. 41944, 92 Stat. 3788, set out in the Appendix to Title 5, Government Organization and Employees, effectiveApr. 1, 1979, as provided by Ex. Ord. No. 12127, §§1–101, 1–103(a), Mar. 31, 1979, 44 F.R. 19637.
+Functions vested in Secretary of Commerce pursuant to provisions of Federal Fire Prevention Control Act of 1974, 15 U.S.C. 2201 et seq., transferred to Director of Federal Emergency Management Agency pursuant to Reorg. Plan No. 3 of 1978, §201, June 19, 1978, 43 F.R. 41944, 92 Stat. 3788, set out in the Appendix to Title 5, Government Organization and Employees, effective Apr. 1, 1979, as provided by Ex. Ord. No. 12127, §§1–101, 1–103(a), Mar. 31, 1979, 44 F.R. 19637.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

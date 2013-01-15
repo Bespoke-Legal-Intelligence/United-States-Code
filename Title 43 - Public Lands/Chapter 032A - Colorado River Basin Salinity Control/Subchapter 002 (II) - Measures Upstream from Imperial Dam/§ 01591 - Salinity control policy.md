@@ -6,7 +6,7 @@ The Secretary of the Interior shall implement the salinity control policy adopte
 
 #### (b) Expeditious investigation, planning, and implementation of salinity control program
 
-The Secretary is hereby directed to expedite the investigation, planning, and implementation of the salinity control program generally as described in chapter VI of the Secretary's report entitled, “Colorado River Water Quality Improvement Program, February 1972”. In determining the relative priority of implementing additional units or new self-contained portions of units authorized by section 1592 of this title, the Secretary or the Secretary of Agriculture, as the case may be, shall give preference to those additional units or new self-contained portions of units which reduce salinity of the Colorado River at the least cost per unit of salinity reduction.
+The Secretary is hereby directed to expedite the investigation, planning, and implementation of the salinity control program generally as described in chapter VI of the Secretary's report entitled, “Colorado River Water Quality Improvement Program, February 1972”. In determining the relative priority of implementing additional units or new self-contained portions ofunits authorized by section 1592 of this title, the Secretary or the Secretary of Agriculture, as the case may be, shall give preference to those additional units or new self-contained portions of units which reduce salinity of the Colorado River at the least cost per unit of salinity reduction.
 
 #### (c) Cooperation with other Federal agencies
 
@@ -24,5 +24,5 @@ The Federal Water Pollution Control Act, referred to in subsec. (a), which was f
 
 #### Effective Date of 1984 Amendment
 
-Section 6 of Pub. L. 98–569 provided that: “The amendments made by this Act \[amending this sectionand sections 620d, 1543, 1592, 1593, 1595, and 1598 of this title\] shall take effect upon enactment of this Act \[Oct. 30, 1984\].”
+Pub. L. 98–569, §6, Oct. 30, 1984, 98 Stat. 2939, provided that: “The amendments made by this Act \[amending this section and sections 620d, 1543, 1592, 1593, 1595, and 1598 of this title\] shall take effect upon enactment of this Act \[Oct. 30, 1984\].”
 

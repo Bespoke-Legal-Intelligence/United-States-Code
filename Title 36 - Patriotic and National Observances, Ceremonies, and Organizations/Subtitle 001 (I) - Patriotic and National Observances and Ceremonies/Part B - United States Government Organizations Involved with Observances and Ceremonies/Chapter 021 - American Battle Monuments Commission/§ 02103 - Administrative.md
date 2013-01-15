@@ -20,7 +20,7 @@ Disposition of Land.—Under conditions and in the manner the Commission decides
 
 (c)
 
-Contracting Out.—Notwithstanding the requirements of existing laws or regulations, the Commission, under conditions the Commission decides are necessary and proper, may contract for work, supplies, materials, and equipment outside or for use outside the United States and engage the services of architects and other technical and professional personnel.
+Contracting Out.—Notwithstanding the requirements of existing laws or regulations, the Commission, under conditions the Commissiondecides are necessary and proper, may contract for work, supplies, materials, and equipment outside or for use outside the United States and engage the services of architects and other technical and professional personnel.
 
 (d)
 
@@ -28,7 +28,7 @@ Delegation.—Under conditions the Commission may prescribe, the Commission may 
 
 (e)
 
-Solicitation and Receipt of Contributions.—(1) The Commission may solicit and receive funds and in-kind donations and gifts fromany State, municipal, or private source to carry out the purposes of this chapter. The Commission shall deposit such funds in a separate account in the Treasury. Funds from that account shall be disbursed upon vouchers approved by the Chairman of the Commission.
+Solicitation and Receipt of Contributions.—(1) The Commission may solicit and receive funds and in-kind donations and gifts from any State, municipal, or private source to carry out the purposes of this chapter. The Commission shall deposit such funds in a separate account in the Treasury. Funds from that account shall be disbursed upon vouchers approved by the Chairman of the Commission.
 
 (2) The Commission shall establish written guidelines setting forth the criteria to be used in determining whether the acceptance of funds and in-kind donations and gifts under paragraph (1) would—
 
@@ -46,17 +46,7 @@ Statements to President.—The Commission shall transmit to the President on Oct
 
 (h)
 
-Financial Statements and Audits.—(1) The Commission shall have a system of financial controls to enable the Commission to comply with the requirements of paragraph (2) of this subsection and with section 2106(d)(4) of this title.
-
-(2) The Commission shall—
-
-&emsp;(A) by March 1 of each year (beginning with 1998)—
-
-&emsp;&emsp;(i) prepare a financial statement which covers all accounts and associated activities of the Commission for the prior fiscal year and is consistent with the requirements of section 3515 of title 31; and
-
-&emsp;&emsp;(ii) submit the financial statement, together with a narrative summary, to the Committees on Veterans’ Affairs of the Senate and House of Representatives; and
-
-&emsp;(B) obtain an audit by the Comptroller General of each financial statement prepared under subparagraph (A) of this paragraph, which shall be conducted in accordance with applicable generally accepted government auditing standards and shall be in lieu of any audit otherwise required by law.
+Financial Statements and Audits.—The Commission shall have a system of financial controls to enable the Commission to comply with the requirements of section 3515 of title 31 and with section 2106(d)(4) of this title.
 
 (i)
 
@@ -70,7 +60,7 @@ Seal.—The Commission shall have a seal that shall be judicially noticed.
 
 Disbursements Outside Continental United States.—Disbursements for expenditures outside the continental United States may be made by a special disbursing agent designated by the Commission under regulations it prescribes.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1270; Pub. L. 106–117, title VI, §§602, 604(3), Nov. 30, 1999, 113 Stat. 1578, 1580; Pub. L. 107–217, §3(i)(1), Aug. 21, 2002, 116 Stat. 1300.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1270; Pub. L. 106–117, title VI, §§602, 604(3), Nov. 30, 1999, 113 Stat. 1578, 1580; Pub. L. 107–217, §3(i)(1), Aug. 21, 2002, 116 Stat. 1300; Pub. L. 112–234, §2(g), Dec. 28, 2012, 126 Stat. 1625.)
 
 Historical and Revision Notes
 
@@ -163,6 +153,8 @@ In subsection (b), the text of 36:137 is omitted as superseded. The words “whi
 In subsection (c), the words “in its discretion”, “by contract or otherwise”, and “firms of architects” are omitted as unnecessary.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (h). Pub. L. 112–234 substituted “of section 3515 of title 31” for “of paragraph (2) of this subsection”, struck out par. (1) designation before “The Commission”, and struck out par. (2) which required the Commission to prepare and submit a financial statement by March 1 of each year beginning with 1998 and to obtain an audit by the Comptroller General of each such financial statement.
 
 <b>2002</b>—Subsec. (a)(1). Pub. L. 107–217 substituted “section 3111 of title 40” for “section 355 of the Revised Statutes (40 U.S.C. 255)”.
 

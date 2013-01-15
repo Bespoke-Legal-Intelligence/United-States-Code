@@ -248,5 +248,5 @@ Section applicable with respect to any calendar year beginning, and contracts en
 
 #### Source of Payments
 
-Section 4438(b)(1) of Pub. L. 102–484 provided that: “Any amount which becomes payable by an agency as a result of the enactment of subsection (a) \[amending this section\] shall be paid out of funds or appropriations available for salaries and expenses of such agency.”
+Pub. L. 102–484, div. D, title XLIV, §4438(b)(1), Oct. 23, 1992, 106 Stat. 2725, provided that: “Any amount which becomes payable by an agency as a result of the enactment of subsection (a) \[amending this section\] shall be paid out of funds or appropriations available for salaries and expenses of such agency.”
 

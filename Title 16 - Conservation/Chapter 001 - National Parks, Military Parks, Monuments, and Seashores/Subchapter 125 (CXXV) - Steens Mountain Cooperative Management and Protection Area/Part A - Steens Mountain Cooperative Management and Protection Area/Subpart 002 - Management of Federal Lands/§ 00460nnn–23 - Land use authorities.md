@@ -52,7 +52,7 @@ The Secretary shall emphasize the restoration of the historic fire regime in the
 
 #### (4) Fencing and water systems
 
-&emsp;The Secretary shall also construct fencing and develop water systems as necessary toallow reasonable and efficient livestock use of the forage resources referred to in paragraph (3).
+&emsp;The Secretary shall also construct fencing and develop water systems as necessary to allow reasonable and efficient livestock use of the forage resources referred to in paragraph (3).
 
 #### (f) Prohibition on construction of facilities
 

@@ -2,7 +2,7 @@
 
 #### (a) Prohibition on decrease or elimination of duties or other import restrictions if such reduction or elimination would threaten to impair national security
 
-No action shall be taken pursuant to section 1821(a) of this title or pursuant to section 1351 of this title to decrease or eliminate the duty or other import restrictions on any article if the President determines that such reduction or elimination would threaten to impair the national security.
+No action shall be taken pursuant to section 1821(a) of this title or pursuant to section 1351 ofthis title to decrease or eliminate the duty or other import restrictions on any article if the President determines that such reduction or elimination would threaten to impair the national security.
 
 #### (b) Investigations by Secretary of Commerce to determine effects on national security of imports of articles; consultation with Secretary of Defense and other officials; hearings; assessment of defense requirements; report to President; publication in Federal Register; promulgation of regulations
 
@@ -60,7 +60,7 @@ No action shall be taken pursuant to section 1821(a) of this title or pursuant t
 
 #### (d) <sup>1</sup> Domestic production for national defense; impact of foreign competition on economic welfare of domestic industries
 
-For the purposes of this section, the Secretary and the President shall, in the light of the requirements of national security and without excluding other relevant factors, give consideration to domestic production needed for projected national defense requirements, the capacity of domestic industries to meet such requirements, existing and anticipated availabilities of the human resources, products, raw materials, and other supplies and services essential to the national defense, the requirements of growth ofsuch industries and such supplies and services including the investment, exploration, and development necessary to assure such growth, and the importation of goods in terms of their quantities, availabilities, character, and use as those affect such industries and the capacity of the United States to meet national security requirements. In the administration of this section, the Secretary and the President shall further recognize the close relation of the economic welfare of the Nation to our national security, and shall take into consideration the impact of foreign competition on the economic welfare of individual domestic industries; and any substantial unemployment, decrease in revenues of government, loss of skills or investment, or other serious effects resulting from the displacement of any domestic products by excessive imports shall be considered, without excluding other factors, in determining whether such weakening of our internal economy may impair the national security.
+For the purposes of this section, the Secretary and the President shall, in the light of the requirements of national security and without excluding other relevant factors, give consideration to domestic production needed for projected national defense requirements, the capacity of domestic industries to meet such requirements, existing and anticipated availabilities of the human resources, products, raw materials, and other supplies and services essential to the national defense, the requirements of growth of such industries and such supplies and services including the investment, exploration, and development necessary to assure such growth, and the importation of goods in terms of their quantities, availabilities, character, and use as those affect such industries and the capacity of the United States to meet national security requirements. In the administration of this section, the Secretary and the President shall further recognize the close relation of the economic welfare of the Nation to our national security, and shall take into consideration the impact of foreign competition on the economic welfare of individual domestic industries; and any substantial unemployment, decrease in revenues of government, loss of skills or investment, or other serious effects resulting from the displacement of any domestic products by excessive imports shall be considered, without excluding other factors, in determining whether such weakening of our internal economy may impair the national security.
 
 #### (d) <sup>1</sup> Report by Secretary of Commerce
 
@@ -118,7 +118,7 @@ Subsecs. (c), (d). Pub. L. 93–618, §127(d)(4), substituted “Secretary” fo
 
 #### Effective Date of 1988 Amendment
 
-Section 1501(d) of Pub. L. 100–418 provided that:
+Pub. L. 100–418, title I, §1501(d), Aug. 23, 1988, 102 Stat. 1259, provided that:
 
 “(1) Except as otherwise provided under this subsection, the amendments made by this section \[amending this section and repealing section 1863 of this title\] shall apply with respect to investigations initiated under section 232(b) of the Trade Expansion Act of 1962 \[19 U.S.C. 1862(b)\] on or after the date of enactment of this Act \[Aug. 23, 1988\].
 
@@ -160,7 +160,7 @@ NOW, THEREFORE, I, RONALD REAGAN, President of the United States of America, by 
 
 Section 1. Proclamation No. 3279, as amended, is revoked.
 
-Sec. 2. The Secretary of Energy shall continue to monitor imports of petroleum and petroleum products and shall, from time to time, in consultation with the Secretary of State, the Secretary of Commerce, and such other federal agencies as he deems appropriate, review the status of such imports with respect to the national security. The Secretary shall inform the President of any circumstances which in his opinion might indicate the need for further action by the President under Section 232 of the Trade Expansion Act \[this section\].
+Sec. 2. The Secretary of Energy shall continue to monitor imports of petroleum and petroleum products and shall, from time to time, in consultation with the Secretary of State, the Secretary of Commerce, and such other federal agencies as he deems appropriate, review the status of such imports with respect to the national security. The Secretary shall inform the President of any circumstances which in his opinion might indicate the need for further action by the Presidentunder Section 232 of the Trade Expansion Act \[this section\].
 
 Sec. 3. (a) No crude oil produced in Libya may be imported into the United States, its territories or possessions.
 

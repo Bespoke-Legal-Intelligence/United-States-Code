@@ -1,24 +1,16 @@
 ### §218. Alaska Highway
 
-(a) Recognizing the benefits that will accrue to the State of Alaska and to the United States from the reconstruction of the Alaska Highway from the Alaskan border to Haines Junction in Canada and the Haines Cutoff Highway from Haines Junction in Canada to Haines, the Secretary is authorized out of the funds appropriated for the purpose of this section to providefor necessary reconstruction of such highway. Such appropriations shall remain available until expended. Notwithstanding any other provision of law, in addition to such funds, upon agreement with the State of Alaska, the Secretary is authorized to expend on such highway or the Alaska Marine Highway System any Federal-aid highway funds apportioned to the State of Alaska under this title at a Federal share of 100 per centum. Notwithstanding any other provision of law, any obligation limitation enacted for fiscal year 1983 or for any other fiscal year thereafter, including any portion of any other fiscal year thereafter, shall not apply to projects authorized by the preceding sentence. No expenditures shall be made for the construction of the portion of such highways that are in Canada until an agreement has been reached by the Government of Canada and the Government of the United States which shall provide, in part, that the Canadian Government—
+(a) Notwithstanding any other provision of law upon agreement with the State of Alaska, the Secretary is authorized to expend on the Alaska Marine Highway System any Federal-aid highway funds apportioned to the State of Alaska under this title at a Federal share of 100 per centum.
 
-&emsp;(1) will provide, without participation of funds authorized under this title, all necessary right-of-way for the reconstruction of such highways;
+(b) For purposes of this section, the term “Alaska Marine Highway System” includes all existing or planned transportation facilities and equipment in Alaska, including the lease, purchase, or construction of vessels, terminals, docks, floats, ramps, staging areas, parking lots, bridges and approaches thereto, and necessary roads.
 
-&emsp;(2) will not impose any highway toll, or permit any such toll to be charged for the use of such highways by vehicles or persons;
-
-&emsp;(3) will not levy or assess, directly or indirectly, any fee, tax, or other charge for the use of such highways by vehicles or persons from the United States that does not apply equally to vehicles or persons of Canada;
-
-&emsp;(4) will continue to grant reciprocal recognition of vehicle registration and drivers’ licenses in accordance with agreements between the United States and Canada; and
-
-&emsp;(5) will maintain such highways after their completion in proper condition adequately to serve the needs of present and future traffic.
-
-(b) The survey and construction work undertaken in Canada pursuant to this section shall be under the general supervision of the Secretary.
-
-(c) For purposes of this section, the term “Alaska Marine Highway System” includes all existing or planned transportation facilities and equipment in Alaska, including the lease, purchase, or construction of vessels, terminals, docks, floats, ramps, staging areas, parking lots, bridges and approaches thereto, and necessary roads.
-
-(Added Pub. L. 93–87, title I, §127(a)(1), Aug. 13, 1973, 87 Stat. 264; amended Pub. L. 94–147, Dec. 12, 1975, 89 Stat. 803; Pub. L. 97–424, title I, §158, Jan. 6, 1983, 96 Stat. 2135; Pub. L. 105–277, div. A, §101(g) \[title III, §316\], Oct. 21, 1998, 112 Stat. 2681–439, 2681–468; Pub. L. 108–7, div. I, title III, §327, Feb. 20, 2003, 117 Stat. 413; Pub. L. 109–59, title IV, §4409, Aug. 10, 2005, 119 Stat. 1778.)
+(Added Pub. L. 93–87, title I, §127(a)(1), Aug. 13, 1973, 87 Stat. 264; amended Pub. L. 94–147, Dec. 12, 1975, 89 Stat. 803; Pub. L. 97–424, title I, §158, Jan. 6, 1983, 96 Stat. 2135; Pub. L. 105–277, div. A, §101(g) \[title III, §316\], Oct. 21, 1998, 112 Stat. 2681–439, 2681–468; Pub. L. 108–7, div. I, title III, §327, Feb. 20, 2003, 117 Stat. 413; Pub. L. 109–59, title IV, §4409, Aug. 10, 2005, 119 Stat. 1778; Pub. L. 112–141, div. A, title I, §1519(c)(11), July 6, 2012, 126 Stat. 576.)
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a). Pub. L. 112–141, §1519(c)(11)(A), designated third sentence as subsec. (a), struck out “, in addition to such funds,” after “provision of law” and “such highway or” after “expend on”, and struck out former first, second, fourth, and fifth sentences, including pars. (1) to (5), relating to reconstruction of the Alaska Highway from the Alaskan border to Haines Junction in Canada and the Haines Cutoff Highway from Haines Junction in Canada to Haines, appropriations for reconstruction, obligation limitation enacted for fiscal year 1983, and certain restrictions on expenditures for construction of highways in Canada.
+
+Subsecs. (b), (c). Pub. L. 112–141, §1519(c)(11)(B), (C), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “The survey and construction work undertaken in Canada pursuant to this section shall be under the general supervision of the Secretary.”
 
 <b>2005</b>—Subsec. (a). Pub. L. 109–59, §4409(1), struck out “prior to the date of the enactment of the reauthorization of the Transportation Equity Act for the 21st Century” before “shall not apply” in introductory provisions.
 
@@ -34,6 +26,10 @@ Subsec. (b). Pub. L. 105–277, §101(g) \[title III, §316(2)\], inserted “in
 
 <b>1975</b>—Subsec. (a)(1). Pub. L. 94–147 struck out provision requiring that the right-of-way granted by the Canadian Government shall forever be held inviolate as part of such highways in public use.
 
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
+
 #### Alaskan Roads Study; Investigation; Report to Congress
 
 Pub. L. 94–280, title I, §151, May 5, 1976, 90 Stat. 448, provided that:
@@ -44,5 +40,5 @@ Pub. L. 94–280, title I, §151, May 5, 1976, 90 Stat. 448, provided that:
 
 #### Appropriations Authorization
 
-Section 127(b) of Pub. L. 93–87 provided that: “For the purpose of completing necessary reconstruction of the Alaska Highway from the Alaskan border to Haines Junction in Canada and the Haines Cutoff Highway from Haines Junction in Canada to the south Alaskan border there is authorized to be appropriated the sum of $58,670,000 to be expended in accordance with the provisions of section 218 of title 23 of the United States Code.”
+Pub. L. 93–87, title I, §127(b), Aug. 13, 1973, 87 Stat. 264, provided that: “For the purpose of completing necessary reconstruction of the Alaska Highway from the Alaskan border to Haines Junction in Canada and the Haines Cutoff Highway from Haines Junction in Canada to the south Alaskan border there is authorized to be appropriated the sum of $58,670,000 to be expended in accordance with the provisions of section 218 of title 23 of the United States Code.”
 

@@ -110,13 +110,13 @@ Changes were made in translations and phraseology, and unnecessary words omitted
 
 #### Severability
 
-Section 301(d) of Pub. L. 104–294 provided that: “If any provision of this section \[amending this section and enacting provisions set out as notes below\], an amendment made by this section, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this section and the amendments made by this section shall not be affected thereby.”
+Pub. L. 104–294, title III, §301(d), Oct. 11, 1996, 110 Stat. 3495, provided that: “If any provision of this section \[amending this section and enacting provisions set out as notes below\], an amendment made by this section, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this section and the amendments made by this section shall not be affected thereby.”
 
 #### Transfer of Records
 
-Section 301(b) of Pub. L. 104–294 provided that: “Notwithstanding any provision of the District of Columbia Code or any other provision of law, the District of Columbia and St. Elizabeth's Hospital—
+Pub. L. 104–294, title III, §301(b), Oct. 11, 1996, 110 Stat. 3495, provided that: “Notwithstanding any provision of the District of Columbia Code or any other provision of law, the District of Columbia and St. Elizabeth's Hospital—
 
-&emsp;“(1) not later than 30 days after the date of enactment of this Act \[Oct. 11, 1996\], shall provide to theAttorney General copies of all records in the custody or control of the District or the Hospital on such date of enactment pertaining to persons described in section 4243(i) of title 18, United States Code (as added by subsection (a));
+&emsp;“(1) not later than 30 days after the date of enactment of this Act \[Oct. 11, 1996\], shall provide to the Attorney General copies of all records in the custody or control of the District or the Hospital on such date of enactment pertaining to persons described in section 4243(i) of title 18, United States Code (as added by subsection (a));
 
 &emsp;“(2) not later than 30 days after the creation of any records by employees, agents, or contractors of the District of Columbia or of St. Elizabeth's Hospital pertaining to persons described in section 4243(i) of title 18, United States Code, provide to the Attorney General copies of all such records created after the date of enactment of this Act;
 
@@ -126,5 +126,5 @@ Section 301(b) of Pub. L. 104–294 provided that: “Notwithstanding any provis
 
 #### Clarification of Effect on Certain Testimonial Privileges
 
-Section 301(c) of Pub. L. 104–294 provided that: “The amendments made by this section \[amending this section and enacting provisions set out as notes above\] shall not be construed to affect in any manner any doctor-patient or psychotherapist-patient testimonial privilege that may be otherwise applicable to persons found not guilty by reason of insanity and affected by this section.”
+Pub. L. 104–294, title III, §301(c), Oct. 11, 1996, 110 Stat. 3495, provided that: “The amendments made by this section \[amending this section and enacting provisions set out as notes above\] shall not be construed to affect in any manner any doctor-patient or psychotherapist-patient testimonial privilege that may be otherwise applicable to persons found not guilty by reason of insanity and affected by this section.”
 

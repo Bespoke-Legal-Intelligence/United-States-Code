@@ -30,7 +30,7 @@ Subchapter effective Sept. 15, 1981, but the authority to prescribe regulations 
 
 #### Transition From Grade of Commodore to Grade of Rear Admiral (Lower Half)
 
-Section 514(e) of Pub. L. 99–145 provided that:
+Pub. L. 99–145, title V, §514(e), Nov. 8, 1985, 99 Stat. 630, provided that:
 
 “(1) An officer who on the day before the date of the enactment of this Act \[Nov. 8, 1985\] is serving in or has the grade of commodore shall as of the date of the enactment of this Act be serving in or have the grade of rear admiral (lower half).
 
@@ -166,7 +166,7 @@ Parts A to C of title VI of Pub. L. 96–513, Dec. 12, 1980, 94 Stat. 2940, as a
 
 &emsp;“(3) who is promoted pursuant to section 601(a) to the regular grade equivalent to such temporary grade,
 
-> shall be subject to mandatory retirement for years of service in accordance with the laws applicable on the day before the effective date of this Act to officers in the permanent grade he held on such date. However,such an officer shall not be subject to a mandatory retirement date which is earlier than the first day of the month following the month of the thirtieth day after he completes 30 years of service as computed under section 3927(a) or 8927(a), as appropriate, of title 10, United States Code, as in effect on the day before the effective date of this Act.
+> shall be subject to mandatory retirement for years of service in accordance with the laws applicable on the day before the effective date of this Act to officers in the permanent grade he held on such date. However, such an officer shall not be subject to a mandatory retirement date which is earlier than the first day of the month following the month of the thirtieth day after he completes 30 years of service as computed under section 3927(a) or 8927(a), as appropriate, of title 10, United States Code, as in effect on the day before the effective date of this Act.
 
 “(b)(1) The Secretary of the Army or the Secretary of the Air Force, as appropriate, may convene selection boards under this section for the purpose of recommending from among officers described in subsection (a) officers to be selected to be subject to mandatory retirement for years of service in accordance with the laws applicable on the day before the effective date of this Act \[Sept. 15, 1981\] to officers in the permanent grade to which such officers were promoted pursuant to section 601(a) or to officers in a lower permanent grade higher than the permanent grade held by such officers on the day before the effective date of this Act.
 
@@ -366,7 +366,7 @@ Parts A to C of title VI of Pub. L. 96–513, Dec. 12, 1980, 94 Stat. 2940, as a
 
 “(b) Each officer of the Navy who on the effective date of this Act \[Sept. 15, 1981\] is serving in a staff corps under an appointment made under section 5590 of title 10, United States Code, shall be reappointed in that corps in the grade and with the date of rank held by such officer immediately before such reappointment. Each such reappointment shall be made in accordance with the provisions of such title as amended by this Act but notwithstanding any limitation otherwise applicable with regard to age, grade, or physical standards.
 
-“(c) Any officer who on the effective date of this Act \[Sept. 15, 1981\] is serving on the active list in the line of the Navy under an appointment made under section 5590 of title 10, United States Code, and who meets the qualifications for appointment in a staff corps of the Navy may, request appointment in a staff corps and, with the approval of the Secretary of the Navy, be appointed in that staff corps. Any appointment under this subsection shall be in lieu of the reappointment of the officer under subsection (a).
+“(c) Any officer who on the effective date of this Act \[Sept. 15, 1981\] is serving on the active list in the lineof the Navy under an appointment made under section 5590 of title 10, United States Code, and who meets the qualifications for appointment in a staff corps of the Navy may, request appointment in a staff corps and, with the approval of the Secretary of the Navy, be appointed in that staff corps. Any appointment under this subsection shall be in lieu of the reappointment of the officer under subsection (a).
 
 “(d) Each officer reappointed in a staff corps pursuant to subsection (b) or appointed in a staff corps under subsection (c) shall be considered for all purposes as having been originally appointed in such staff corps in accordance with the provisions of title 10, United States Code, as amended by this Act.
 
@@ -416,7 +416,7 @@ Parts A to C of title VI of Pub. L. 96–513, Dec. 12, 1980, 94 Stat. 2940, as a
 
 “Sec. 616. (a) An officer of the Regular Navy or Regular Marine Corps who on the effective date of this Act \[Sept. 15, 1981\] is an officer who was designated for limited duty before that date under section 5589 of title 10, United States Code, is subject to section 6383 of such title (as in effect on the day before the effective date of this Act), unless promoted to a higher permanent grade under chapter 36 of title 10, United States Code, as added by this Act.
 
-“(b) Any female member of the Navy who on April 2, 1981, was appointed under section 591 \[now 12201\] or 5590 of title 10, United States Code, in the grade of ensign as an officer designated for limited duty may after September 14, 1981, be reappointed as an officer designated for limited duty under section 5596 of title 10, UnitedStates Code, as amended by this Act. A member so reappointed shall have a date of rank as an ensign of April 2, 1981, and shall have the same permanent pay grade and status as that member held on April 1, 1981.
+“(b) Any female member of the Navy who on April 2, 1981, was appointed under section 591 \[now 12201\] or 5590 of title 10, United States Code, in the grade of ensign as an officer designated for limited duty may after September 14, 1981, be reappointed as an officer designated for limited duty under section 5596 of title 10, United States Code, as amended by this Act. A member so reappointed shall have a date of rank as an ensign of April 2, 1981, and shall have the same permanent pay grade and status as that member held on April 1, 1981.
 
 “(c) An officer of the Navy or Marine Corps who on September 15, 1981, was an officer designated for limited duty under section 5589 of title 10, United States Code, and who on the date of the enactment of this subsection \[Oct. 19, 1984\] is serving in a temporary grade above the grade of lieutenant, in the case of an officer of the Navy, or captain, in the case of an officer of the Marine Corps, may be reappointed under section 5589 of title 10, United States Code (as in effect on or after September 15, 1981), in the same permanent grade and with the same date of rank held by that officer on the active-duty list immediately before such reappointment if he is otherwise eligible for appointment under that section.
 
@@ -530,7 +530,7 @@ Sec. 620. Notwithstanding section 6389 of title 10, United States Code, an offic
 
 #### “savings provision for retired grade for officers not subsequently promoted
 
-“Sec. 629. In applying section 1370(a)(2) of title 10, United States Code, as added by this Act, to an officer of the Army, Navy, Air Force, or Marine Corps who was on active duty on the day before the effective date of this Act \[Sept. 15, 1981\] and who on or after the effective date of this Act is not promoted to a grade higher than the grade he held on the day before the effective date of this Act or, in the case of an officer who was on a list of officers recommended for promotion on such date, is not promoted to a grade higher than the grade to which he was recommended for promotion, ‘two years’ shall be substituted for ‘three years’. The Secretary of the military department concerned maywaive the requirements of this section and of section 1370(a)(2) of title 10, United States Code, as added by this Act, with respect to any officer described in the preceding sentence.
+“Sec. 629. In applying section 1370(a)(2) of title 10, United States Code, as added by this Act, to an officer of the Army, Navy, Air Force, or Marine Corps who was on active duty on the day before the effective date of this Act \[Sept. 15, 1981\] and who on or after the effective date of this Act is not promoted to a grade higher than the grade he held on the day before the effective date of this Act or, in the case of an officer who was on a list of officers recommended for promotion on such date, is not promoted to a grade higher than the grade to which he was recommended for promotion, ‘two years’ shall be substituted for ‘three years’. The Secretary of the military department concerned may waive the requirements of this section and of section 1370(a)(2) of title 10, United States Code, as added by this Act, with respect to any officer described in the preceding sentence.
 
 #### “exemption of certain officers from selective early retirement provisions
 
@@ -544,7 +544,7 @@ Sec. 620. Notwithstanding section 6389 of title 10, United States Code, an offic
 
 &emsp;“(2) after such date is involuntarily discharged or released from active duty under any provision of title 10, United States Code, as in effect after such date,
 
-> is entitled to receive any readjustment payment or severance pay to which he would have been entitled under laws in effect on Sept. 14, 1981, unless (in the case of a member discharged or released on or after the date of the enactment of the Department of Defense Authorization Act, 1985 \[Oct. 19, 1984\]) the Secretary concerned determines that the conditions under which the member is discharged or separated do not warrant such pay.
+> is entitled to receive any readjustment payment or severance pay to which he would have been entitled under laws in effect on Sept. 14, 1981, unless (in the case of amember discharged or released on or after the date of the enactment of the Department of Defense Authorization Act, 1985 \[Oct. 19, 1984\]) the Secretary concerned determines that the conditions under which the member is discharged or separated do not warrant such pay.
 
 “(b) If a member who is entitled to receive a readjustment payment or severance pay under subsection (a) is also eligible to receive separation pay under section 1174 of title 10, United States Code, as added by this Act, the member may not receive both the readjustment payment and severance pay under laws in effect on Sept. 14, 1981, and separation pay under such section, but shall elect which he will receive. If the number fails to make an election in a timely manner, he shall be paid the amount which is more favorable to him.
 

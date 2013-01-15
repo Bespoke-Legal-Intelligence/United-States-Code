@@ -40,7 +40,7 @@ For purposes of this chapter—
 
 &emsp;&emsp;&emsp;(ii) any Trust Territory of the United States;
 
-&emsp;(9) the term “combination” as applied to States or units of local government means any grouping or joining together of such States or units for the purpose of preparing, developing,or implementing a juvenile justice and delinquency prevention plan;
+&emsp;(9) the term “combination” as applied to States or units of local government means any grouping or joining together of such States or units for the purpose of preparing, developing, or implementing a juvenile justice and delinquency prevention plan;
 
 &emsp;(10) the term “construction” means acquisition, expansion, remodeling, and alteration of existing buildings, and initial equipment of any such buildings, or any combination of such activities (including architects’ fees but not the cost of acquisition of land for buildings);
 

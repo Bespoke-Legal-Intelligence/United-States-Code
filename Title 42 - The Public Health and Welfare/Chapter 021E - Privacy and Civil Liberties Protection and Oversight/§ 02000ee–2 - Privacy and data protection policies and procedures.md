@@ -48,7 +48,7 @@ The Inspector General of each agency shall periodically conduct a review of the 
 
 #### (f) Definition
 
-In this section, the definition of “identifiable form” is consistent with Public Law 107–347, theE-Government Act of 2002, and means any representation of information that permits the identity of an individual to whom the information applies to be reasonably inferred by either direct or indirect means.
+In this section, the definition of “identifiable form” is consistent with Public Law 107–347, the E-Government Act of 2002, and means any representation of information that permits the identity of an individual to whom the information applies to be reasonably inferred by either direct or indirect means.
 
 (Pub. L. 108–447, div. H, title V, §522, Dec. 8, 2004, 118 Stat. 3268; Pub. L. 110–161, div. D, title VII, §742(b), Dec. 26, 2007, 121 Stat. 2032.)
 

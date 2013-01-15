@@ -40,7 +40,7 @@ The Secretary shall establish a grassland reserve program (referred to in this s
 
 #### (B) Maximum enrollment
 
-&emsp;&emsp;The number of acres of land enrolled under the priority described in subparagraph (A) in a calendar year shall not exceed 10 percent of the total number of acres enrolled in the program in that calendar year.
+&emsp;&emsp;The number of acres of land enrolled under the priority described in subparagraph (A) ina calendar year shall not exceed 10 percent of the total number of acres enrolled in the program in that calendar year.
 
 #### (c) Eligible land defined
 

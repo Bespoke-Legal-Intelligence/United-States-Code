@@ -2,7 +2,7 @@
 
 #### (a) Maintenance and operation; admission of children
 
-(1) The Chief Administrative Officer of the House of Representatives shall maintain and operate a child care center (to be known as the “House of Representatives Child Care Center”) to furnish pre-school child care and (subject to the approval of regulations by the Committee on House Administration) child care for school age children other than during the course of the ordinary school day—
+(1) The Chief Administrative Officer of the House of Representatives shall maintain and operate a child care center (to be known as the “House of Representatives Child Care Center”) to furnish pre-school child care and (subject to the approval of regulations by the Committee on House Administration) child care for school agechildren other than during the course of the ordinary school day—
 
 &emsp;(A) for children of individuals whose pay is disbursed by the Chief Administrative Officer of the House of Representatives and children of support personnel of the House of Representatives;
 
@@ -68,7 +68,7 @@ As used in this section—
 
 #### Codification
 
-Section was classified to section 184g of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 184g of former Title 40, prior to the enactment of Title 40, Public Buildings,Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
 
 Section is comprised of section 312 of Pub. L. 102–90. Another subsec. (f) of section 312 of Pub. L. 102–90 repealed sections 184b to 184f of former Title 40, Public Buildings, Property, and Works.
 
@@ -122,7 +122,7 @@ Pub. L. 106–100, §1(b), Nov. 12, 1999, 113 Stat. 1332, provided that: “The 
 
 #### Effective Date of 1992 Amendment
 
-Section 319(b) of Pub. L. 102–392 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to fiscal years beginning after September 30, 1992.”
+Pub. L. 102–392, title III, §319(b), Oct. 6, 1992, 106 Stat. 1725, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to fiscal years beginning after September 30, 1992.”
 
 #### Transfer of Existing Account
 
@@ -158,7 +158,7 @@ Definitions.—For the purpose of this section—
 
 &emsp;“(B) the employee is subject to chapter 84 of such title as of the date of enactment of this Act.
 
-“(2) Credit for service described in paragraph (1)(A) shall not be allowed under this section unless there is paid into the Civil Service Retirement and Disability Fund, by or on behalf of the employee involved, an amount equal to the deductions from pay which would have been payable under applicable provisions of law, for the period of service involved, if such employee were then a Congressional employee, including interest (computed in the same way as interest under subsection (b)(2)). Retirement credit may not be allowed under this section for any such service unless the full amount of the deposit required under the preceding sentence has been paid.
+“(2) Credit for service described in paragraph (1)(A) shall not be allowed under this section unless there ispaid into the Civil Service Retirement and Disability Fund, by or on behalf of the employee involved, an amount equal to the deductions from pay which would have been payable under applicable provisions of law, for the period of service involved, if such employee were then a Congressional employee, including interest (computed in the same way as interest under subsection (b)(2)). Retirement credit may not be allowed under this section for any such service unless the full amount of the deposit required under the preceding sentence has been paid.
 
 “(d)
 
@@ -174,5 +174,5 @@ OPM Functions.—The Office of Personnel Management shall—
 
 #### Availability of Amounts Deposited in Account for Salaries and Expenses
 
-Section 307 of Pub. L. 102–392 provided that: “The amounts deposited in the account established by section 312(d)(1) of the Legislative Branch Appropriations Act, 1992 (40 U.S.C. 184g(d)(1)) \[now 2 U.S.C. 2062(d)(1)\] shall be available for salaries and expenses of the House of Representatives Child Care Center without fiscal year limitation, subject to the approval of the Committee on Appropriations of the House of Representatives.”
+Pub. L. 102–392, title III, §307, Oct. 6, 1992, 106 Stat. 1722, provided that: “The amounts deposited in the account established by section 312(d)(1) of the Legislative Branch Appropriations Act, 1992 (40 U.S.C. 184g(d)(1)) \[now 2 U.S.C. 2062(d)(1)\] shall be available for salaries and expenses of the House of Representatives Child Care Center without fiscal year limitation, subject to the approval of the Committee on Appropriations of the House of Representatives.”
 

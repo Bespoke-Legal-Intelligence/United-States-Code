@@ -20,5 +20,5 @@ For the purposes of this subchapter—
 
 #### Short Title
 
-Pub. L. 87–443, §1, provided: “That this Act \[enacting this subchapter\] may be cited as the ‘National Portrait Gallery Act’.”
+Pub. L. 87–443, §1, Apr. 27, 1962, 76 Stat. 62, provided: “That this Act \[enacting this subchapter\] may be cited as the ‘National Portrait Gallery Act’.”
 

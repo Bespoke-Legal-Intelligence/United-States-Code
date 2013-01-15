@@ -28,7 +28,7 @@
 
 #### Continuance of Position of Chief Judge
 
-Section 501(c) of Pub. L. 104–317 provided that:
+Pub. L. 104–317, title V, §501(c), Oct. 19, 1996, 110 Stat. 3856, provided that:
 
 “(1) Notwithstanding the provisions of section 258(a) of title 28, United States Code (as added by subsection (a) of this section), the chief judge of the United States Court of International Trade who is in office on the day before the date of enactment of this Act \[Oct. 19, 1996\] shall continue to be such chief judge on or after such date until any one of the following events occurs:
 

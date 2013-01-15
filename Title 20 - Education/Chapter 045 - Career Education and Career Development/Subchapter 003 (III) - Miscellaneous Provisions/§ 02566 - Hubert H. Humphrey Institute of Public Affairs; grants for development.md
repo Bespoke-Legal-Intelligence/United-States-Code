@@ -6,11 +6,11 @@ In recognition of the public service of Senator Hubert H. Humphrey, the Secretar
 
 #### Effective Date
 
-Section 4(d) of Pub. L. 95–270 provided that: “This Act \[enacting this section, sections 2567 to 2569 of this title, and provisions set out as a note below\] shall take effect October 1, 1978.”
+Pub. L. 95–270, §4(d), Apr. 27, 1978, 92 Stat. 220, provided that: “This Act \[enacting this section, sections 2567 to 2569 of this title, and provisions set out as a note below\] shall take effect October 1, 1978.”
 
 #### Short Title
 
-Section 1 of Pub. L. 95–270 provided: “That this Act \[enacting this section, sections 2567 to 2569 of this title, and provisions set out as a note above\] may be cited as the ‘Hubert H. Humphrey Institute of Public Affairs and the Everett McKinley Dirksen Congressional Leadership Research Center Assistance Act’.”
+Pub. L. 95–270, §1, Apr. 27, 1978, 92 Stat. 220, provided: “That this Act \[enacting this section, sections 2567 to 2569 of this title, and provisions set out as a note above\] may be cited as the ‘Hubert H. Humphrey Institute of Public Affairs and the Everett McKinley Dirksen Congressional Leadership Research Center Assistance Act’.”
 
 #### Transfer of Functions
 

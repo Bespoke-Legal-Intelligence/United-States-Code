@@ -62,19 +62,19 @@ Par. (8). Pub. L. 102–354, §5(b)(2), amended par. (8) generally. Prior to ame
 
 #### Termination Date; Savings Provision
 
-Section 11 of Pub. L. 101–552, as amended by Pub. L. 104–106, div. D, title XLIII, §4321(i)(5), Feb. 10, 1996, 110 Stat. 676, which provided that the authority of agencies to use dispute resolution proceedings under this Act \[see Short Title note below\] was to terminate on Oct. 1, 1995, except with respect to pending proceedings, was repealed by Pub. L. 104–320, §9, Oct. 19, 1996, 110 Stat. 3872.
+Pub. L. 101–552, §11, Nov. 15, 1990, 104 Stat. 2747, as amended by Pub. L. 104–106, div. D, title XLIII, §4321(i)(5), Feb. 10, 1996, 110 Stat. 676, which provided that the authority of agencies to use dispute resolution proceedings under this Act \[see Short Title note below\] was to terminate on Oct. 1, 1995, except with respect to pending proceedings, was repealed by Pub. L. 104–320, §9, Oct. 19, 1996, 110 Stat. 3872.
 
 #### Short Title of 1996 Amendment
 
-Section 1 of Pub. L. 104–320 provided that: “This Act \[enacting sections 570a and 584 of this title, amending this section, sections 569, 573 to 575, 580, 581, and 583 of this title, section 2304 of Title 10, Armed Forces, section 1491 of Title 28, Crimes and Criminal Procedure, section 173 of Title 29, Labor, section 3556 of Title 31, Money and Finance, and sections 253 and 605 of Title 41, Public Contracts, repealing section 582 of this title, enacting provisions set out as notes under section 563 of this title, section 1491 of Title 28, and section 3556 of Title 31, amending provisions set out as notes under this section, and repealing provisions set out as notes under this section and section 561 of this title\] may be cited as the ‘Administrative Dispute Resolution Act of 1996’.”
+Pub. L. 104–320, §1, Oct. 19, 1996, 110 Stat. 3870, provided that: “This Act \[enacting sections 570a and 584 of this title, amending this section, sections 569, 573 to 575, 580, 581, and 583 of this title, section 2304 of Title 10, Armed Forces, section 1491 of Title 28, Crimes and Criminal Procedure, section 173 of Title 29, Labor, section 3556 of Title 31, Money and Finance, and sections 253 and 605 of Title 41, Public Contracts, repealing section 582 of this title, enacting provisions set out as notes under section 563 of this title, section 1491 of Title 28, and section 3556 of Title 31, amending provisions set out as notes under this section, and repealing provisions set out as notes under this section and section 561 of this title\] may be cited as the ‘Administrative Dispute Resolution Act of 1996’.”
 
 #### Short Title
 
-Section 1 of Pub. L. 101–552 provided that: “This Act \[enacting this subchapter, amending section 556 of this title, section 10 of Title 9, Arbitration, section 2672 of Title 28, Judiciary and Judicial Procedure, section 173 of Title 29, Labor, section 3711 of Title 31, Money and Finance, and sections 605 and 607 of Title 41, Public Contracts, and enacting provisions set out as notes under this section\] may be cited as the ‘Administrative Dispute Resolution Act’.”
+Pub. L. 101–552, §1, Nov. 15, 1990, 104 Stat. 2736, provided that: “This Act \[enacting this subchapter, amending section 556 of this title, section 10 of Title 9, Arbitration, section 2672 of Title 28, Judiciary and Judicial Procedure, section 173 of Title 29, Labor, section 3711 of Title 31, Money and Finance, and sections 605 and 607 of Title 41, Public Contracts, and enacting provisions set out as notes under this section\] may be cited as the ‘Administrative Dispute Resolution Act’.”
 
 #### Congressional Findings
 
-Section 2 of Pub. L. 101–552 provided that: “The Congress finds that—
+Pub. L. 101–552, §2, Nov. 15, 1990, 104 Stat. 2736, provided that: “The Congress finds that—
 
 &emsp;“(1) administrative procedure, as embodied in chapter 5 of title 5, United States Code, and other statutes, is intended to offer a prompt, expert, and inexpensive means of resolving disputes as an alternative to litigation in the Federal courts;
 
@@ -94,13 +94,13 @@ Section 2 of Pub. L. 101–552 provided that: “The Congress finds that—
 
 #### Promotion of Alternative Means of Dispute Resolution
 
-Section 3 of Pub. L. 101–552, as amended by Pub. L. 104–320, §4(a), Oct. 19, 1996, 110 Stat. 3871, provided that:
+Pub. L. 101–552, §3, Nov. 15, 1990, 104 Stat. 2736, as amended by Pub. L. 104–320, §4(a), Oct. 19, 1996, 110 Stat. 3871, provided that:
 
 “(a)
 
 Promulgation of Agency Policy.—Each agency shall adopt a policy that addresses the use of alternative means of dispute resolution and case management. In developing such a policy, each agency shall—
 
-&emsp;“(1) consult with the agency designated by, or the interagency committee designated or established by,the President under section 573 of title 5, United States Code, to facilitate and encourage agency use of alternative dispute resolution under subchapter IV of chapter 5 of such title; and
+&emsp;“(1) consult with the agency designated by, or the interagency committee designated or established by, the President under section 573 of title 5, United States Code, to facilitate and encourage agency use of alternative dispute resolution under subchapter IV of chapter 5 of such title; and
 
 &emsp;“(2) examine alternative means of resolving disputes in connection with—
 
@@ -142,7 +142,7 @@ Procedures for Grants and Contracts.—
 
 #### Use of Nonattorneys
 
-Section 9 of Pub. L. 101–552 provided that:
+Pub. L. 101–552, §9, Nov. 15, 1990, 104 Stat. 2747, provided that:
 
 “(a)
 
@@ -172,5 +172,5 @@ Disqualification of Representation or Assistance.—Any agency that adopts regul
 
 #### Definitions
 
-Section 10 of Pub. L. 101–552, as amended by Pub. L. 102–354, §5(b)(6), Aug. 26, 1992, 106 Stat. 946, provided that: “As used in this Act \[see Short Title note above\], the terms ‘agency’, ‘administrative program’, and ‘alternative means of dispute resolution’ have the meanings given such terms in section 571 of title 5, United States Code (enacted as section 581 of title 5, United States Code, by section 4(b) of this Act, and redesignated as section 571 of such title by section 3(b) of the Administrative Procedure Technical Amendments Act of 1991 \[Pub. L. 102–354\]).”
+Pub. L. 101–552, §10, Nov. 15, 1990, 104 Stat. 2747, as amended by Pub. L. 102–354, §5(b)(6), Aug. 26, 1992, 106 Stat. 946, provided that: “As used in this Act \[see Short Title note above\], the terms ‘agency’, ‘administrative program’, and ‘alternative means of dispute resolution’ have the meanings given such terms in section 571 of title 5, United States Code (enacted as section 581 of title 5, United States Code, by section 4(b) of this Act, and redesignated as section 571 of such title by section 3(b) of the Administrative Procedure Technical Amendments Act of 1991 \[Pub. L. 102–354\]).”
 

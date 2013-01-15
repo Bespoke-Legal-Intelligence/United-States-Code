@@ -14,7 +14,7 @@ If—
 
 &emsp;(1) a tax is imposed under subsection (a)(1) on any unpaid minimum required contribution and such amount remains unpaid as of the close of the taxable period, or
 
-&emsp;(2) a tax is imposed under subsection (a)(2) on any accumulated funding deficiency andthe accumulated funding deficiency is not corrected within the taxable period,
+&emsp;(2) a tax is imposed under subsection (a)(2) on any accumulated funding deficiency and the accumulated funding deficiency is not corrected within the taxable period,
 
 > there is hereby imposed a tax equal to 100 percent of the unpaid minimum required contribution or accumulated funding deficiency, whichever is applicable, to the extent not so paid or corrected.
 
@@ -62,7 +62,7 @@ Before issuing a notice of deficiency with respect to the tax imposed by subsect
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), the tax imposed by subsection (a), (b), or (f) shall be paid by the employer responsible for contributing to or under the plan the amount described in section 412(a)(2).
+&emsp;Except as provided in paragraph (2), the tax imposed by subsection (a), (b), or (f) shall bepaid by the employer responsible for contributing to or under the plan the amount described in section 412(a)(2).
 
 #### (2) Joint and several liability where employer member of controlled group
 
@@ -72,7 +72,7 @@ Before issuing a notice of deficiency with respect to the tax imposed by subsect
 
 #### (B) Controlled group
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “controlled group” means any group treated as a single employer under subsection (b), (c), (m), or (<i>o</i>) of section 414.
+&emsp;&emsp;For purposes of subparagraph (A), the term “controlled group” means any group treated as a single employer under subsection (b), (c), (m), or (o) of section 414.
 
 #### (f) Failure to pay liquidity shortfall
 
@@ -186,7 +186,7 @@ Before issuing a notice of deficiency with respect to the tax imposed by subsect
 
 &emsp;&emsp;<b>For provisions concerning notification of Secretary of Labor of imposition of tax under this section, waiver of the tax imposed by subsection (b), and other coordination between Secretary of the Treasury and Secretary of Labor with respect to compliance with this section, see section 3002(b) of title III of the Employee Retirement Income Security Act of 1974.</b>
 
-(Added Pub. L. 93–406, title II, §1013(b), Sept. 2, 1974, 88 Stat. 920; amended Pub. L. 94–455, titleXIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–364, title II, §204, Sept. 26, 1980, 94 Stat. 1287; Pub. L. 96–596, §2(a)(1)(J), (2)(H), Dec. 24, 1980, 94 Stat. 3469, 3471; Pub. L. 100–203, title IX, §§9304(c)(1), 9305(a), Dec. 22, 1987, 101 Stat. 1330–348, 1330–351; Pub. L. 103–465, title VII, §751(a)(9)(B), Dec. 8, 1994, 108 Stat. 5020; Pub. L. 104–188, title I, §1464(a), Aug. 20, 1996, 110 Stat. 1824; Pub. L. 109–280, title I, §114(e)(1)–(4), title II, §212(b), Aug. 17, 2006, 120 Stat. 854, 855, 915; Pub. L. 110–458, title I, §§101(d)(2)(F), 102(b)(2)(I), (3)(A), Dec. 23, 2008, 122 Stat. 5099, 5103.)
+(Added Pub. L. 93–406, title II, §1013(b), Sept. 2, 1974, 88 Stat. 920; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–364, title II, §204, Sept. 26, 1980, 94 Stat. 1287; Pub. L. 96–596, §2(a)(1)(J), (2)(H), Dec. 24, 1980, 94 Stat. 3469, 3471; Pub. L. 100–203, title IX, §§9304(c)(1), 9305(a), Dec. 22, 1987, 101 Stat. 1330–348, 1330–351; Pub. L. 103–465, title VII, §751(a)(9)(B), Dec. 8, 1994, 108 Stat. 5020; Pub. L. 104–188, title I, §1464(a), Aug. 20, 1996, 110 Stat. 1824; Pub. L. 109–280, title I, §114(e)(1)–(4), title II, §212(b), Aug. 17, 2006, 120 Stat. 854, 855, 915; Pub. L. 110–458, title I, §§101(d)(2)(F), 102(b)(2)(I), (3)(A), Dec. 23, 2008, 122 Stat. 5099, 5103.)
 
 #### Amendment of Section
 
@@ -274,7 +274,7 @@ Amendment by section 212(b) of Pub. L. 109–280 inapplicable to plan years begi
 
 #### Effective Date of 1996 Amendment
 
-Section 1464(b) of Pub. L. 104–188 provided that: “The amendment made by this section \[amending this section\] shall take effect as if included in the amendment made by clause (ii) of section 751(a)(9)(B) of the Retirement Protection Act of 1994 \[Pub. L. 103–465\] (108 Stat. 5020).”
+Pub. L. 104–188, title I, §1464(b), Aug. 20, 1996, 110 Stat. 1825, provided that: “The amendment made by this section \[amending this section\] shall take effect as if included in the amendment made by clause (ii) of section 751(a)(9)(B) of the Retirement Protection Act of 1994 \[Pub. L. 103–465\] (108 Stat. 5020).”
 
 #### Effective Date of 1994 Amendment
 
@@ -282,7 +282,7 @@ Amendment by Pub. L. 103–465 applicable to plan years beginning after Dec. 31,
 
 #### Effective Date of 1987 Amendment
 
-Section 9304(c)(2) of Pub. L. 100–203 provided that: “The amendments made by this subsection \[amending this section\] shall apply to plan years beginning after 1988.”
+Pub. L. 100–203, title IX, §9304(c)(2), Dec. 22, 1987, 101 Stat. 1330–348, provided that: “The amendments made by this subsection \[amending this section\] shall apply to plan years beginning after 1988.”
 
 Amendment by section 9305(a) of Pub. L. 100–203 applicable with respect to plan years beginning after December 31, 1987, see section 9305(d) of Pub. L. 100–203, set out as a note under section 412 of this title.
 

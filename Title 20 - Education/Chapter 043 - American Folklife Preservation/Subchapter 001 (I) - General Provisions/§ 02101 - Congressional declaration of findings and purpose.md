@@ -10,7 +10,7 @@
 
 &emsp;(4) that it is appropriate and necessary for the Federal Government to support research and scholarship in American folklife in order to contribute to an understanding of the complex problems of the basic desires, beliefs, and values of the American people in both rural and urban areas;
 
-&emsp;(5) that the encouragement and support of American folklife, while primarily a matter for private and local initiative, is also an appropriate matter of concern to the Federal Government; and
+&emsp;(5) that the encouragement and support of American folklife, while primarily a matterfor private and local initiative, is also an appropriate matter of concern to the Federal Government; and
 
 &emsp;(6) that it is in the interest of the general welfare of the Nation to preserve, support, revitalize, and disseminate American folklife traditions and arts.
 

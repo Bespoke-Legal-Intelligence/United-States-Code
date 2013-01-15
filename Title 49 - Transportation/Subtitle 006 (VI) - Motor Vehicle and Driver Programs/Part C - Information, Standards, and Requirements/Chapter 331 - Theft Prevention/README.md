@@ -13,7 +13,7 @@
 | [33109\.](%C2%A7%2033109%20-%20National%20Stolen%20Passenger%20Motor%20Vehicle%20Information%20System.md) | National Stolen Passenger Motor Vehicle Information System. |
 | [33110\.](%C2%A7%2033110%20-%20Verifications%20involving%20junk%20and%20salvage%20motor%20vehicles.md) | Verifications involving junk and salvage motor vehicles. |
 | [33111\.](%C2%A7%2033111%20-%20Verifications%20involving%20motor%20vehicle%20major%20parts.md) | Verifications involving motor vehicle major parts. |
-| [33112\.](%C2%A7%2033112%20-%20Insurance%20reports%20and%20information.md) | Insurance reports and information. |
+| \[33112. | Repealed.\] |
 | [33113\.](%C2%A7%2033113%20-%20Theft%20reports.md) | Theft reports. |
 | [33114\.](%C2%A7%2033114%20-%20Prohibited%20acts.md) | Prohibited acts. |
 | [33115\.](%C2%A7%2033115%20-%20Civil%20penalties%20and%20enforcement.md) | Civil penalties and enforcement. |
@@ -22,6 +22,10 @@
 | [33118\.](%C2%A7%2033118%20-%20Preemption%20of%20State%20and%20local%20law.md) | Preemption of State and local law. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+<b>2012</b>—Pub. L. 112–141, div. C, title I, §31313(1), July 6, 2012, 126 Stat. 772, struck out item 33112 “Insurance reports and information”.
 
 
 ---
@@ -39,7 +43,7 @@
 - [&sect; 33109 - National Stolen Passenger Motor Vehicle Information System](%C2%A7%2033109%20-%20National%20Stolen%20Passenger%20Motor%20Vehicle%20Information%20System.md)
 - [&sect; 33110 - Verifications involving junk and salvage motor vehicles](%C2%A7%2033110%20-%20Verifications%20involving%20junk%20and%20salvage%20motor%20vehicles.md)
 - [&sect; 33111 - Verifications involving motor vehicle major parts](%C2%A7%2033111%20-%20Verifications%20involving%20motor%20vehicle%20major%20parts.md)
-- [&sect; 33112 - Insurance reports and information](%C2%A7%2033112%20-%20Insurance%20reports%20and%20information.md)
+- [&sect; 33112 - Repealed. Pub. L. 112&#8211;141, div. C, title I, &sect;31313(2), July 6, 2012, 126 Stat. 772](%C2%A7%2033112%20-%20Repealed.%20Pub.%20L.%20112%E2%80%93141%2C%20div.%20C%2C%20title%20I%2C%20%C2%A731313%282%29%2C%20July%206%2C%202012%2C%20126%20Stat.%20772.md)
 - [&sect; 33113 - Theft reports](%C2%A7%2033113%20-%20Theft%20reports.md)
 - [&sect; 33114 - Prohibited acts](%C2%A7%2033114%20-%20Prohibited%20acts.md)
 - [&sect; 33115 - Civil penalties and enforcement](%C2%A7%2033115%20-%20Civil%20penalties%20and%20enforcement.md)

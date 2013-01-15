@@ -28,7 +28,7 @@ By December 1, 1989, the Secretary of the Interior, with the advice of the Navaj
 
 #### (f) Termination of Trust Fund
 
-The Navajo Rehabilitation Trust Fund shall terminate when, upon petition by the Navajo Tribe, the Secretary determines that the goals of the Trust Fund have been met and the United States has been reimbursed for funds appropriated under subsection (f) of this section. All funds in the Trust Fund on such date shall be transferred to the general trust funds of the Navajo Tribe.
+The Navajo Rehabilitation Trust Fund shall terminate when, upon petition by the Navajo Tribe, the Secretary determines that the goals of the Trust Fund have been met and the United States has been reimbursed for funds appropriated under subsection (f) of this section. Allfunds in the Trust Fund on such date shall be transferred to the general trust funds of the Navajo Tribe.
 
 #### (g) Authorization of appropriations; reimbursement of General Fund
 

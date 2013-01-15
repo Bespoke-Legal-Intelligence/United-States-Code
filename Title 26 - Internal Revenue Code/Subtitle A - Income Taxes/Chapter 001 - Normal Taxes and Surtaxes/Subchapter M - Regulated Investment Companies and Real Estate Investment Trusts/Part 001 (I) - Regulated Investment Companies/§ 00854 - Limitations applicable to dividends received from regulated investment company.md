@@ -44,7 +44,7 @@ For purposes of section 1(h)(11) (relating to maximum rate of tax on dividends) 
 
 #### (i) Subparagraph (a)
 
-&emsp;&emsp;&emsp;The aggregate amount which may be reported as dividends under subparagraph\(A) shall not exceed the aggregate dividends received by the company for the taxable year.
+&emsp;&emsp;&emsp;The aggregate amount which may be reported as dividends under subparagraph (A) shall not exceed the aggregate dividends received by the company for the taxable year.
 
 #### (ii) Subparagraph (b)
 
@@ -90,23 +90,17 @@ For purposes of section 1(h)(11) (relating to maximum rate of tax on dividends) 
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 273; Pub. L. 88–272, title II, §§201(d)(8)–(10), 229(a)(4), Feb. 26, 1964, 78 Stat. 32, 99; Pub. L. 96–223, title IV, §404(b)(6), Apr. 2, 1980, 94 Stat. 307; Pub. L. 97–34, title III, §302(c)(4), (d)(1), Aug. 13, 1981, 95 Stat. 272, 274; Pub. L. 98–369, div. A, title I, §§16(a), 52(a)–(c), July 18, 1984, 98 Stat. 505, 564, 565; Pub. L. 99–514, title VI, §§612(b)(6), 655(a)(4), Oct. 22, 1986, 100 Stat. 2250, 2299; Pub. L. 100–203, title X, §10221(d)(3), Dec. 22, 1987, 101 Stat. 1330–409; Pub. L. 100–647, title I, §1006(b)(2), Nov. 10, 1988, 102 Stat. 3393; Pub. L. 108–27, title III, §302(c), May 28, 2003, 117 Stat. 762; Pub. L. 108–311, title IV, §402(a)(5)(A)–(D), Oct. 4, 2004, 118 Stat. 1184; Pub. L. 111–325, title III, §301(e), Dec. 22, 2010, 124 Stat. 3544.)
 
-#### Amendment of Section
-
-<i>For termination of amendment by section 301(i) of Pub. L. 111–325, see Effective and Termination Dates of 2010 Amendment note below.</i>
-
-<i>For termination of amendment by section 303 of Pub. L. 108–27, see Effective and Termination Dates of 2003 Amendment note below.</i>
-
 #### Amendments
 
 <b>2010</b>—Subsec. (b)(1)(A). Pub. L. 111–325, §301(e)(1)(A), in concluding provisions, substituted “reported by the regulated investment company as eligible for such deduction in written statements furnished to its shareholders” for “designated under this subparagraph by the regulated investment company”.
 
-Subsec. (b)(1)(B)(i). Pub. L. 111–325, §301(e)(1)(B), (i), in concluding provisions, temporarily substituted “reported by the regulated investment company as qualified dividend income in written statements furnished to its shareholders” for “designated by the regulated investment company”. See Effective and Termination Dates of 2010 Amendment note below.
+Subsec. (b)(1)(B)(i). Pub. L. 111–325, §301(e)(1)(B), in concluding provisions, substituted “reported by the regulated investment company as qualified dividend income in written statements furnished to its shareholders” for “designated by the regulated investment company”.
 
 Subsec. (b)(1)(C)(i). Pub. L. 111–325, §301(e)(1)(C), substituted “reported” for “designated”.
 
-Subsec. (b)(1)(C)(ii). Pub. L. 111–325, §301(e)(1)(D), (i), temporarily substituted “reported” for “designated” in introductory provisions. See Effective and Termination Dates of 2010 Amendment note below.
+Subsec. (b)(1)(C)(ii). Pub. L. 111–325, §301(e)(1)(D), substituted “reported” for “designated” in introductory provisions.
 
-Subsec. (b)(2) to (5). Pub. L. 111–325, §301(e)(2), redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2). Prior to amendment, text read as follows: “The amount of any distribution by a regulated investment company which may be taken into account as qualified dividend income for purposes of section 1(h)(11) and as dividends for purposes of the deduction under section 243 shall not exceed the amount so designated by the company in a written notice to its shareholders mailed not later than 60 days after the close of its taxable year.”
+Subsec. (b)(2) to (5). Pub. L. 111–325, §301(e)(2), redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2). Prior to amendment, text read as follows: “The amount of any distribution by a regulated investment company which may be taken into account as qualified dividend income for purposes of section 1(h)(11) and as dividends for purposes of the deduction under section 243 shall not exceed theamount so designated by the company in a written notice to its shareholders mailed not later than 60 days after the close of its taxable year.”
 
 <b>2004</b>—Subsec. (b)(1)(B)(i). Pub. L. 108–311, §402(a)(5)(A)(ii), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “If the aggregate dividends received by a regulated investment company during any taxable year are less than 95 percent of its gross income, then, in computing the maximum rate under section 1(h)(11), rules similar to the rules of subparagraph (A) shall apply.”
 
@@ -114,19 +108,19 @@ Subsec. (b)(1)(B)(iii), (iv). Pub. L. 108–311, §402(a)(5)(A)(i), struck out c
 
 Subsec. (b)(1)(C). Pub. L. 108–311, §402(a)(5)(B), amended heading and text of subpar. (C) generally. Prior to amendment, text read as follows: “The aggregate amount which may be designated as dividends under subparagraph (A) or (B) shall not exceed the aggregate dividends received by the company for the taxable year.”
 
-Subsec. (b)(2). Pub. L. 108–311, §402(a)(5)(C), substituted “as qualified dividend income for purposes ofsection 1(h)(11) and as dividends for purposes of” for “as a dividend for purposes of the maximum rate under section 1(h)(11) and”.
+Subsec. (b)(2). Pub. L. 108–311, §402(a)(5)(C), substituted “as qualified dividend income for purposes of section 1(h)(11) and as dividends for purposes of” for “as a dividend for purposes of the maximum rate under section 1(h)(11) and”.
 
 Subsec. (b)(5). Pub. L. 108–311, §402(a)(5)(D), amended heading and text of par. (5) generally. Prior to amendment, text read as follows: “For purposes of paragraph (1)(B), an amount shall be treated as a dividend only if the amount is qualified dividend income (within the meaning of section 1(h)(11)(B)).”
 
-<b>2003</b>—Subsec. (a). Pub. L. 108–27, §§302(c)(1), 303, temporarily inserted “section 1(h)(11) (relating to maximum rate of tax on dividends) and” after “For purposes of”. See Effective and Termination Dates of 2003 Amendment note below.
+<b>2003</b>—Subsec. (a). Pub. L. 108–27, §302(c)(1), inserted “section 1(h)(11) (relating to maximum rate of tax on dividends) and” after “For purposes of”.
 
-Subsec. (b)(1)(B). Pub. L. 108–27, §§302(c)(2), 303, temporarily added subpar. (B). Former subpar. (B) redesignated (C). See Effective and Termination Dates of 2003 Amendment note below.
+Subsec. (b)(1)(B). Pub. L. 108–27, §302(c)(2), added subpar. (B). Former subpar. (B) redesignated (C).
 
-Subsec. (b)(1)(C). Pub. L. 108–27, §§302(c)(2), (3), 303, temporarily redesignated subpar. (B) as (C) and substituted “subparagraph (A) or (B)” for “subparagraph (A)”. See Effective and Termination Dates of 2003 Amendment note below.
+Subsec. (b)(1)(C). Pub. L. 108–27, §302(c)(2), (3), redesignated subpar. (B) as (C) and substituted “subparagraph (A) or (B)” for “subparagraph (A)”.
 
-Subsec. (b)(2). Pub. L. 108–27, §§302(c)(4), 303, temporarily inserted “the maximum rate under section 1(h)(11) and” after “for purposes of”. See Effective and Termination Dates of 2003 Amendment note below.
+Subsec. (b)(2). Pub. L. 108–27, §302(c)(4), inserted “the maximum rate under section 1(h)(11) and” after “for purposes of”.
 
-Subsec. (b)(5). Pub. L. 108–27, §§302(c)(5), 303, temporarily added par. (5). See Effective and Termination Dates of 2003 Amendment note below.
+Subsec. (b)(5). Pub. L. 108–27, §302(c)(5), added par. (5).
 
 <b>1988</b>—Subsec. (b)(3). Pub. L. 100–647 substituted “Aggregate dividends” for “Definitions” in heading and amended text generally, substituting subpars. (A) to (C) for former subpars. (A) and (B).
 
@@ -162,17 +156,15 @@ Subsec. (b). Pub. L. 88–272, §§201(d)(9), (10), 229(a)(4), substituted “45
 
 Amendment by Pub. L. 111–325 applicable to taxable years beginning after Dec. 22, 2010, see section 301(h) of Pub. L. 111–325, set out as an Effective Date of 2010 Amendment note under section 852 of this title.
 
-Pub. L. 111–325, title III, §301(i), Dec. 22, 2010, 124 Stat. 3547, provided that: “Section 303 of the Jobs and Growth Tax Relief Reconciliation Act of 2003 \[Pub. L. 108–27, set out as an Effective and Termination Dates of 2003 Amendment note under section 1 of this title\] shall apply to the amendments made by subparagraphs (B) and (D) of subsection (e)(1) \[amending this section\] to the same extent and in the same manner as section 303 of such Act applies to the amendments made by section 302 of such Act \[amending this section and sections 1, 163, 301, 306, 338, 467, 531, 541, 584, 702, 857, 1255, and 1257 of this title and repealing section 341 of this title\].”
+Pub. L. 111–325, title III, §301(i), Dec. 22, 2010, 124 Stat. 3547, provided that: “Section 303 of the Jobs and Growth Tax Relief Reconciliation Act of 2003 \[Pub. L. 108–27, which was repealed by Pub. L. 112–240, title I, §102(a), Jan. 2, 2013, 126 Stat. 2318, was formerly set out as an Effective and Termination Dates of 2003 Amendment note under section 1 of this title\] shall apply to the amendments made by subparagraphs (B) and (D) of subsection (e)(1) \[amending this section\] to the same extent and in the same manner as section 303 of such Act applies to the amendments made by section 302 of such Act \[amending this section and sections 1, 163, 301, 306, 338, 467, 531, 541, 584, 702, 857, 1255, and 1257 of this title and repealing section 341 of this title\].”
 
 #### Effective Date of 2004 Amendment
 
 Amendment by Pub. L. 108–311 effective as if included in section 302 of the Jobs and Growth Tax Relief Reconciliation Act of 2003, Pub. L. 108–27, see section 402(b) of Pub. L. 108–311, set out a note under section 1 of this title.
 
-#### Effective and Termination Dates of 2003 Amendment
+#### Effective Date of 2003 Amendment
 
-Amendment by Pub. L. 108–27 applicable, except as otherwise provided, to taxable years beginning after Dec. 31, 2002, see section 302(f) of Pub. L. 108–27, set out as a note under section 1 of this title.
-
-Amendment by Pub. L. 108–27 inapplicable to taxable years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 303 of Pub. L. 108–27, as amended, set out as a note under section 1 of this title.
+Amendment by Pub. L. 108–27 applicable, except as otherwise provided, to taxable years beginning after Dec. 31, 2002, see section 302(f) of Pub. L. 108–27, set out as an Effective and Termination Dates of 2003 Amendment note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -192,7 +184,7 @@ Amendment by section 655(a)(4) of Pub. L. 99–514 applicable to taxable years b
 
 Amendment by section 16(a) of Pub. L. 98–369 applicable to taxable years ending after Dec. 31, 1983, see section 18(a) of Pub. L. 98–369, set out as a note under section 48 of this title.
 
-Section 52(d) of Pub. L. 98–369 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years of regulated investment companies beginning after the date of the enactment of this Act \[July 18, 1984\].”
+Pub. L. 98–369, div. A, title I, §52(d), July 18, 1984, 98 Stat. 565, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years of regulated investment companies beginning after the date of the enactment of this Act \[July 18, 1984\].”
 
 #### Effective and Termination Dates of 1980 Amendment
 

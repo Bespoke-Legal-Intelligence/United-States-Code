@@ -12,5 +12,5 @@ Section was not enacted as part of act Mar. 3, 1887, ch. 340, 24 Stat. 476, whic
 
 #### Repeals
 
-Section 2 of act Feb. 23, 1905, repealed all laws and parts of laws so far as they conflict with the provisions of this section.
+Act Feb. 23, 1905, ch. 733, §2, 33 Stat. 733, repealed all laws and parts of laws so far as they conflict with the provisions of this section.
 

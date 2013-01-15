@@ -86,7 +86,7 @@ Amendment by Pub. L. 91–172 applicable with respect to net capital losses sust
 
 #### Effective Date of 1958 Amendment
 
-Section 29(d) of Pub. L. 85–866, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 85–866, title I, §29(d), Sept. 2, 1958, 72 Stat. 1629, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 
@@ -110,5 +110,5 @@ Pub. L. 86–459, May 13, 1960, 74 Stat. 124, authorized any person who computed
 
 #### Election To Return to Former Method of Accounting
 
-Section 29(e) of Pub. L. 85–866 authorized an election by certain taxpayers, who, for any taxable years beginning after Dec. 31, 1953, and ending after Aug. 16, 1954, and before Sept. 2, 1958, computed their taxable incomes using different accounting methods in succeeding taxable years, to return to their first method of accounting, where the election was made within six months after Sept. 2, 1958. Claims for refunds of overpayments of tax resulting from the election were to be filed within one year after the date of the election. Such an election was to be considered a consent to an assessment of a deficiency resulting from the election, where the assessment is made within one year after the date of the election.
+Pub. L. 85–866, title I, §29(e), Sept. 2, 1958, 72 Stat. 1629, authorized an election by certain taxpayers, who, for any taxable years beginning after Dec. 31, 1953, and ending after Aug. 16, 1954, and before Sept. 2, 1958, computed their taxable incomes using different accounting methods in succeeding taxable years, to return to their first method of accounting, where the election was made within six months after Sept. 2, 1958. Claims for refunds of overpayments of tax resulting from the election were to be filed within one year after the date of the election. Such an election was to be considered a consent to an assessment of a deficiency resulting from the election, where the assessment is made within one year after the date of the election.
 

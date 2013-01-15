@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), this section shall apply to payment for drugs and biologicals that are described in section 1395u(<i>o</i>)(1)(C) of this title and that are furnished on or after January 1, 2005.
+&emsp;Except as provided in paragraph (2), this section shall apply to payment for drugs and biologicals that are described in section 1395u(o)(1)(C) of this title and that are furnished on or after January 1, 2005.
 
 #### (2) Election
 
@@ -86,13 +86,13 @@
 
 &emsp;Beginning with April 1, 2008, the payment amount for—
 
-&emsp;&emsp;(A) each single source drug or biological described in section 1395u(<i>o</i>)(1)(G) of this title that is treated as a multiple source drug because of the application of subsection (c)(6)(C)(ii) is the lower of—
+&emsp;&emsp;(A) each single source drug or biological described in section 1395u(o)(1)(G) of this title that is treated as a multiple source drug because of the application of subsection (c)(6)(C)(ii) is the lower of—
 
 &emsp;&emsp;&emsp;(i) the payment amount that would be determined for such drug or biological applying such subsection; or
 
 &emsp;&emsp;&emsp;(ii) the payment amount that would have been determined for such drug or biological if such subsection were not applied; and
 
-&emsp;&emsp;(B) a multiple source drug described in section 1395u(<i>o</i>)(1)(G) of this title (excluding a drug or biological that is treated as a multiple source drug because of the application of such subsection) is the lower of—
+&emsp;&emsp;(B) a multiple source drug described in section 1395u(o)(1)(G) of this title (excluding a drug or biological that is treated as a multiple source drug because of the application of such subsection) is the lower of—
 
 &emsp;&emsp;&emsp;(i) the payment amount that would be determined for such drug or biological taking into account the application of such subsection; or
 
@@ -300,7 +300,7 @@ For requirements for reporting the manufacturer's average sales price (and, if r
 
 #### (g) Judicial review
 
-There shall be no administrative or judicial review under section 1395ff of this title, section 1395<i>oo</i> of this title, or otherwise, of—
+There shall be no administrative or judicial review under section 1395ff of this title, section 1395oo of this title, or otherwise, of—
 
 &emsp;(1) determinations of payment amounts under this section, including the assignment of National Drug Codes to billing and payment codes;
 

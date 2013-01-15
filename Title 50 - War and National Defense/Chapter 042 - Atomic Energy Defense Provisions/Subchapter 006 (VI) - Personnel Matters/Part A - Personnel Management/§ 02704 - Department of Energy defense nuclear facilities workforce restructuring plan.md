@@ -10,7 +10,7 @@ Upon determination that a change in the workforce at a defense nuclear facility 
 
 #### (b) Consultation
 
-(1) In developing a plan referred to in subsection (a) and any updates of the plan under subsection (e), the Secretary shall consult with the Secretary of Labor, appropriate representatives of local and national collective-bargaining units of individuals employed at Department of Energy defense nuclear facilities, appropriate representatives of departments and agencies of State and local governments, appropriate representatives of State and local institutions of higher education, and appropriate representatives of community groups in communities affected by the restructuring plan.
+(1) In developing a plan referred to in subsection (a), the Secretary shall consult with the Secretary of Labor, appropriate representatives of local and national collective-bargaining units of individuals employed at Department of Energy defense nuclear facilities, appropriate representatives of departments and agencies of State and local governments, appropriate representatives of State and local institutions of higher education, and appropriate representatives of community groups in communities affected by the restructuring plan.
 
 (2) The Secretary shall determine appropriate representatives of the units, governments, institutions, and groups referred to in paragraph (1).
 
@@ -46,23 +46,13 @@ In preparing the plan required under subsection (a), the Secretary shall be guid
 
 The Secretary shall, subject to the availability of appropriations for such purpose, work on an ongoing basis with representatives of the Department of Labor, workforce bargaining units, and States and local communities in carrying out a plan required under subsection (a).
 
-#### (e) Plan updates
-
-Not later than one year after issuing a plan referred to in subsection (a) and on an annual basis thereafter, the Secretary shall issue an update of the plan. Each updated plan under this subsection shall—
-
-&emsp;(1) be guided by the objectives referred to in subsection (c), taking into account any changes in the function or mission of the Department of Energy defense nuclear facilities and any other changes in circumstances that the Secretary determines to be relevant;
-
-&emsp;(2) contain an evaluation by the Secretary of the implementation of the plan during the year preceding the report; and
-
-&emsp;(3) contain such other information and provide for such other matters as the Secretary determines to be relevant.
-
-#### (f) Submittal to Congress
+#### (e) Submittal to Congress
 
 (1) The Secretary shall submit to Congress a plan referred to in subsection (a) with respect to a defense nuclear facility within 90 days after the date on which a notice of changes described in subsection (c)(1)(B) is provided to employees of the facility, or 90 days after the date of the enactment of this Act,<sup>1</sup> whichever is later.
 
-(2) The Secretary shall submit to Congress any updates of the plan under subsection (e) immediately upon completion of any such update.
+(2) In addition to the plans submitted under paragraph (1), the Secretary shall submit to Congress every six months a report setting forth a description of, and the amount or value of, all local impact assistance provided during the preceding six months under subsection (c)(6).
 
-#### (g) Department of Energy defense nuclear facility defined
+#### (f) Department of Energy defense nuclear facility defined
 
 In this section, the term “Department of Energy defense nuclear facility” means—
 
@@ -70,7 +60,7 @@ In this section, the term “Department of Energy defense nuclear facility” me
 
 &emsp;(2) a nuclear waste storage or disposal facility that is under the control or jurisdiction of the Secretary;
 
-&emsp;(3) a testing and assembly facility that is under the control or jurisdiction of the Secretary and that is operated for national security purposes (including the Nevada Test Site, Nevada; the Pinnellas Plant, Florida; and the Pantex facility, Texas);
+&emsp;(3) a testing and assembly facility that is under the control or jurisdiction of the Secretary and that is operated for national security purposes (including the Nevada National Security Site, Nevada <sup>2</sup> and the Pantex facility, Texas);
 
 &emsp;(4) an atomic weapons research facility that is under the control or jurisdiction of the Secretary (including Lawrence Livermore, Los Alamos, and Sandia National Laboratories); or
 
@@ -82,25 +72,41 @@ In this section, the term “Department of Energy defense nuclear facility” me
 
 &emsp;&emsp;(C) was operated for national security purposes.
 
-(Pub. L. 107–314, div. D, title XLVI, §4604, formerly Pub. L. 102–484, div. C, title XXXI, §3161, Oct. 23, 1992, 106 Stat. 2644; Pub. L. 103–337, div. A, title X, §1070(c)(2), Oct. 5, 1994, 108 Stat. 2857; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(7)(A), (f)(6)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–430; Pub. L. 107–107, div. A, title X, §1048(h)(1), Dec. 28, 2001, 115 Stat. 1229; renumbered Pub. L. 107–314, div. D, title XLVI, §4604, and amended Pub. L. 108–136, div. C, title XXXI, §3141(i)(5), Nov. 24, 2003, 117 Stat. 1777.)
+(Pub. L. 107–314, div. D, title XLVI, §4604, formerly Pub. L. 102–484, div. C, title XXXI, §3161, Oct. 23, 1992, 106 Stat. 2644; Pub. L. 103–337, div. A, title X, §1070(c)(2), Oct. 5, 1994, 108 Stat. 2857; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(7)(A), (f)(6)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–430; Pub. L. 107–107, div. A, title X, §1048(h)(1), Dec. 28, 2001, 115 Stat. 1229; renumbered Pub. L. 107–314, div. D, title XLVI, §4604, and amended Pub. L. 108–136, div. C, title XXXI, §3141(i)(5), Nov. 24, 2003, 117 Stat. 1777; Pub. L. 112–239, div. C, title XXXI, §§3131(q)(1), (bb)(1)(A), (C), 3134(b)(1), Jan. 2, 2013, 126 Stat. 2183, 2185, 2193.)
 
 #### References in Text
 
 Section 3152 of the National Defense Authorization Act for Fiscal Years 1990 and 1991, referred to in subsec. (c)(2), is section 3152 of Pub. L. 101–189, div. C, title XXXI, Nov. 29, 1989, 103 Stat. 1682, which is not classified to the Code.
 
-The Workforce Investment Act of 1998, referred to in subsec. (c)(6)(A), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+The Workforce Investment Act of 1998, referred to in subsec. (c)(6)(A), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29,Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
 The Public Works and Economic Development Act of 1965, referred to in subsec. (c)(6)(C), is Pub. L. 89–136, Aug. 26, 1965, 79 Stat. 552, as amended. Title II of the Act is classified generally to subchapter II (§3141 et seq.) of chapter 38 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3121 of Title 42 and Tables.
 
-The date of the enactment of this Act, referred to in subsec. (f)(1), meant Oct. 23, 1992, the date of enactment of Pub. L. 102–484, in this section as originally enacted. As renumbered by Pub. L. 108–136, this section is now part of Pub. L. 107–314, which was approved Dec. 2, 2002.
+The date of the enactment of this Act, referred to in subsec. (e)(1), meant Oct. 23, 1992, the date of enactment of Pub. L. 102–484, in this section as originally enacted. As renumbered by Pub. L. 108–136, this section is now part of Pub. L. 107–314, which was approved Dec. 2, 2002.
 
-Executive Order Number 12344, referred to in subsec. (g)(1), is set out as a note under section 2511 of this title.
+Executive Order Number 12344, referred to in subsec. (f)(1), is set out as a note under section 2511 of this title.
 
 #### Codification
 
 Section was formerly classified to section 7274h of Title 42, The Public Health and Welfare, prior to renumbering by Pub. L. 108–136.
 
 #### Amendments
+
+Subsec. (b)(1). Pub. L. 112–239, §3134(b)(1)(A), struck out “and any updates of the plan under subsection (e)” after “plan referred to in subsection (a)”.
+
+Subsec. (e). Pub. L. 112–239, §3134(b)(1)(B), (D), redesignated subsec. (f) as (e) and struck out former subsec. (e), which required the Secretary to issue plan updates.
+
+Subsec. (f). Pub. L. 112–239, §3134(b)(1)(D), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
+
+Subsec. (f)(2). Pub. L. 112–239, §3134(b)(1)(C), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “The Secretary shall submit to Congress any updates of the plan under subsection (e) immediately upon completion of any such update.”
+
+Subsec. (f)(3). Pub. L. 112–239, §3134(b)(1)(C)(ii), redesignated par. (3) as (2).
+
+Pub. L. 112–239, §3131(q)(1), added par. (3).
+
+Subsec. (g). Pub. L. 112–239, §3134(b)(1)(D), redesignated subsec. (g) as (f).
+
+Subsec. (g)(3). Pub. L. 112–239, §3131(bb)(1)(A), (C), substituted “Nevada National Security Site” for “Nevada Test Site” and struck out “; the Pinnellas Plant, Florida;” before “and the Pantex facility”.
 
 <b>2003</b>—Subsec. (a). Pub. L. 108–136, §3141(i)(5)(D)(i), struck out “(hereinafter in this subtitle referred to as the ‘Secretary’)” after “Secretary of Energy”.
 
@@ -128,7 +134,9 @@ Amendment by section 101(f) \[title VIII, §405(d)(7)(A)\] of Pub. L. 105–277 
 
 #### Effective Date of 1994 Amendment
 
-Section 1070(c) of Pub. L. 103–337 provided that the amendment made by that section is effective as of Oct. 23, 1992, and as if included in the National Defense Authorization Act for Fiscal Year 1993, Pub. L. 102–484, as enacted.
+Pub. L. 103–337, div. A, title X, §1070(c), Oct. 5, 1994, 108 Stat. 2857, provided that the amendment made by that section is effective as of Oct. 23, 1992, and as if included in the National Defense Authorization Act for Fiscal Year 1993, Pub. L. 102–484, as enacted.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

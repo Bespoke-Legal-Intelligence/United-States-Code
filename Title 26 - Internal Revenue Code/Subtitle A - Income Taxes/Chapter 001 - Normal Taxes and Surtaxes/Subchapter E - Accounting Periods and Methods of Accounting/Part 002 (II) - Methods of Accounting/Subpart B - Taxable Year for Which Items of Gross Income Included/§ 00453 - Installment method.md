@@ -18,7 +18,7 @@ For purposes of this section—
 
 #### (A) Dealer dispositions
 
-&emsp;&emsp;Any dealer disposition (as defined in subsection (<i>l</i>)).
+&emsp;&emsp;Any dealer disposition (as defined in subsection (l)).
 
 #### (B) Inventories of personal property
 
@@ -294,7 +294,7 @@ In the case of—
 
 > subsection (a) shall not apply, and, for purposes of this title, all payments to be received shall be treated as received in the year of disposition. The Secretary may provide for the application of this subsection in whole or in part for transactions in which the rules of this subsection otherwise would be avoided through the use of related parties, pass-thru entities, or intermediaries.
 
-#### (<i>l</i>) Dealer dispositions
+#### (l) Dealer dispositions
 
 For purposes of subsection (b)(2)(A)—
 
@@ -382,7 +382,7 @@ A prior section 453, acts Aug. 16, 1954, ch. 736, 68A Stat. 154; Sept. 2, 1958, 
 
 <b>1999</b>—Subsec. (a). Pub. L. 106–170, §536(a)(1), which substituted “Use of installment method” for “General rule” in subsec. heading, designated existing provisions as par. (1) and inserted heading, and added heading and text of par. (2), text of which read as follows: “(2)
 
-Accrual method taxpayer.—The installment method shall not apply to income from an installment sale if such income would be reported under an accrual method of accounting without regard to this section. The preceding sentence shall not apply to a disposition described in subparagraph (A) or (B) of subsection (<i>l</i>)(2).”, was repealed by Pub. L. 106–573, §2(a). See Effective Date and Construction of 2000 Amendment note below.
+Accrual method taxpayer.—The installment method shall not apply to income from an installment sale if such income would be reported under an accrual method of accounting without regard to this section. The preceding sentence shall not apply to a disposition described in subparagraph (A) or (B) of subsection (l)(2).”, was repealed by Pub. L. 106–573, §2(a). See Effective Date and Construction of 2000 Amendment note below.
 
 Subsecs. (d)(1), (i)(1), (k). Pub. L. 106–170, §536(a)(2), which substituted “(a)(1)” for “(a)” wherever appearing, was repealed by Pub. L. 106–573. See Effective Date and Construction of 2000 Amendment note below.
 
@@ -418,11 +418,11 @@ Subsec. (k). Pub. L. 100–647, §2004(d)(5), struck out “and section 453A” 
 
 Pub. L. 100–647, §1008(g)(1), redesignated subsec. (j), relating to current inclusion in case of revolving credit plans, etc., as (k).
 
-Subsec. (<i>l</i>)(1)(A). Pub. L. 100–647, §2004(d)(1), inserted “of the same type” after “disposes of personal property”.
+Subsec. (l)(1)(A). Pub. L. 100–647, §2004(d)(1), inserted “of the same type” after “disposes of personal property”.
 
 <b>1987</b>—Subsec. (b)(2)(A). Pub. L. 100–203, §10202(b)(1), substituted “Dealer dispositions” for “Dealer disposition of personal property” in heading and amended text generally. Prior to amendment, text read as follows: “A disposition of personal property on the installment plan by a person who regularly sells or otherwise disposes of personal property on the installment plan.”
 
-Subsec. (<i>l</i>). Pub. L. 100–203, §10202(b)(2), added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 100–203, §10202(b)(2), added subsec. (l).
 
 <b>1986</b>—Subsec. (f)(1). Pub. L. 99–514, §642(a)(3), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Except for purposes of subsections (g) and (h), the term ‘related person’ means a person whose stock would be attributed under section 318(a) (other than paragraph (4) thereof) to the person first disposing of the property.”
 
@@ -482,7 +482,7 @@ Amendment by section 2004(d)(1), (5) of Pub. L. 100–647 effective, except as o
 
 #### Effective Date of 1987 Amendment
 
-Section 10202(e) of Pub. L. 100–203, as amended by Pub. L. 100–647, title II, §2004(d)(3), (4), (6), Nov. 10, 1988, 102 Stat. 3599, 3600, provided that:
+Pub. L. 100–203, title X, §10202(e), Dec. 22, 1987, 101 Stat. 1330–392, as amended by Pub. L. 100–647, title II, §2004(d)(3), (4), (6), Nov. 10, 1988, 102 Stat. 3599, 3600, provided that:
 
 “(1)
 
@@ -494,7 +494,7 @@ Special rules for dealers.—
 
 &emsp;“(A)
 
-In general.—In the case of dealer dispositions (within the meaning of section 453(<i>l</i>)(1) of the Internal Revenue Code of 1986 as added by this section), the amendments made by subsections (a) and (b) \[amending this section and repealing section 453C of this title\] shall apply to installment obligations arising from dispositions after December 31, 1987.
+In general.—In the case of dealer dispositions (within the meaning of section 453(l)(1) of the Internal Revenue Code of 1986 as added by this section), the amendments made by subsections (a) and (b) \[amending this section and repealing section 453C of this title\] shall apply to installment obligations arising from dispositions after December 31, 1987.
 
 &emsp;“(B)
 
@@ -560,7 +560,7 @@ Amendment by section 631(e)(8) of Pub. L. 99–514 applicable to any distributio
 
 Amendment by section 642(a)(1)(D), (3), (b) of Pub. L. 99–514 applicable to sales after Oct. 22, 1986, in taxableyears ending after such date, but not applicable to sales made after Aug. 14, 1986, which are made pursuant to a binding contract in effect on Aug. 14, 1986, and at all times thereafter, see section 642(c) of Pub. L. 99–514, set out as a note under section 1239 of this title.
 
-Section 812(c) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1008(g)(3)–(6), Nov. 10, 1988, 102 Stat. 3443, provided that:
+Pub. L. 99–514, title VIII, §812(c), Oct. 22, 1986, 100 Stat. 2372, as amended by Pub. L. 100–647, title I, §1008(g)(3)–(6), Nov. 10, 1988, 102 Stat. 3443, provided that:
 
 “(1)
 
@@ -668,7 +668,7 @@ Amendment by section 1809(c) of Pub. L. 99–514 effective, except as otherwise 
 
 #### Effective Date of 1984 Amendment
 
-Section 112(b) of Pub. L. 98–369 provided that:
+Pub. L. 98–369, div. A, title I, §112(b), July 18, 1984, 98 Stat. 635, provided that:
 
 “(1)
 
@@ -682,11 +682,11 @@ Exception.—The amendments made by this section shall not apply with respect to
 
 Special rule for certain dispositions before october 1, 1984.—The amendments made by this section shall not apply to any disposition before October 1, 1984, of all or substantially all of the personal property of a cable television business pursuant to a written offer delivered by the seller on June 20, 1984, but only if the last payment under the installment contract is due no later than October 1, 1989.”
 
-Amendment by section 421(b)(6)(B), (C) of Pub. L. 98–369 applicable to transfers after July 18, 1984, in taxable years ending after such date, subject to election to have amendment apply to transfers after 1983 or to transfers pursuant to existing decrees, see section 421(d) of Pub. L. 98–369, set out as an Effective Date note under section 1041 of this title.
+Amendment by section 421(b)(6)(B), (C) of Pub. L. 98–369 applicable to transfers after July 18, 1984, in taxable years ending after such date, subject to election tohave amendment apply to transfers after 1983 or to transfers pursuant to existing decrees, see section 421(d) of Pub. L. 98–369, set out as an Effective Date note under section 1041 of this title.
 
 #### Effective Date of 1983 Amendment
 
-Section 311(a) of Pub. L. 97–448 provided that: “The amendments made by sections 301, 302, and 303 \[amending this section and sections 453B and 1239 of this title\] shall apply to dispositions made after October 19, 1980, in taxable years ending after such date.”
+Pub. L. 97–448, title III, §311(a), Jan. 12, 1983, 96 Stat. 2411, provided that: “The amendments made by sections 301, 302, and 303 \[amending this section and sections 453B and 1239 of this title\] shall apply to dispositions made after October 19, 1980, in taxable years ending after such date.”
 
 #### Effective Date of 1981 Amendment
 
@@ -694,7 +694,7 @@ Amendment by Pub. L. 97–34 applicable to property placed in service after Dec.
 
 #### Effective Date; Application of Former Section 453(b) to Certain Dispositions
 
-Section 6(a) of Pub. L. 96–471, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided:
+Pub. L. 96–471, §6(a), Oct. 19, 1980, 94 Stat. 2256, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided:
 
 “(1)
 

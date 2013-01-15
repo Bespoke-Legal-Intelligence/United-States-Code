@@ -4,7 +4,7 @@ The Secretary of the Interior is authorized to contract for the delivery of wate
 
 #### (a) Amount and time of water delivery to Service
 
-&emsp;the public organizations or agencies contracting with the Secretary of the Interior, excluding the State of California, shall deliver annually to the United States Fish and Wildlife Service (hereinafter referred to as the “Service”), at no cost to the United States, not less than three thousand five hundred acre-feet of water during the period October 1 through November 30, inclusive, and not less than four thousand acre-feet of water during the period May 1 through September 30, inclusive, if available: <i>Provided</i>, That such amounts of water and times of delivery may be changed upon approval of the Secretary of the Interior;
+&emsp;the public organizations or agencies contracting with the Secretary of the Interior, excluding the State of California, shall deliver annually to the United States Fish and Wildlife Service (hereinafter referred to as the “Service”), at no cost to the United States, not less than three thousand five hundred acre-feet of water during the period October 1through November 30, inclusive, and not less than four thousand acre-feet of water during the period May 1 through September 30, inclusive, if available: <i>Provided</i>, That such amounts of water and times of delivery may be changed upon approval of the Secretary of the Interior;
 
 #### (b) Construction, operation, and maintenance of water conveyance facilities
 

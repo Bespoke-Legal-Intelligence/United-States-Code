@@ -104,7 +104,7 @@ Subsec. (d)(3). Pub. L. 108–136, §921(e)(2), substituted “National Geospati
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–293, §808(1), inserted “, in consultation with the Director of Central Intelligence,” after “Secretary of Defense” in introductory provisions.
 
-Subsec. (b)(2). Pub. L. 104–201 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “through the Central Imagery Office (except as otherwise directed by the President or the National Security Council), with appropriate representation from the intelligence community, the continued operation of an effective unified organization within the Department of Defense for carrying out tasking of imagery collection, for the coordination of imagery processing and exploitation activities, and for ensuring the dissemination of imagery in a timely manner to authorized recipients;”.
+Subsec. (b)(2). Pub. L. 104–201 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “through the Central Imagery Office (except as otherwise directed by the President or the National Security Council), with appropriate representation from the intelligence community, the continued operation of an effective unified organization within the Department ofDefense for carrying out tasking of imagery collection, for the coordination of imagery processing and exploitation activities, and for ensuring the dissemination of imagery in a timely manner to authorized recipients;”.
 
 Subsec. (d). Pub. L. 104–293, §808(2), added subsec. (d).
 

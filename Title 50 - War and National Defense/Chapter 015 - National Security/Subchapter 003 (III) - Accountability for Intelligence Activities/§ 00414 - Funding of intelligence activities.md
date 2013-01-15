@@ -24,7 +24,7 @@ Funds available to an intelligence agency may not be made available for any inte
 
 #### (c) Presidential finding required for expenditure of funds on covert action
 
-No funds appropriated for, or otherwise available to, any department, agency, or entity of the United States Government may be expended, or may be directed to be expended, for any covert action, as defined in section 413b(e) of this title,unless and until a Presidential finding required by subsection (a) of section 413b of this title has been signed or otherwise issued in accordance with that subsection.
+No funds appropriated for, or otherwise available to, any department, agency, or entity of the United States Government may be expended, or may be directed to be expended, for any covert action, as defined in section 413b(e) of this title, unless and until a Presidential finding required by subsection (a) of section 413b of this title has been signed or otherwise issued in accordance with that subsection.
 
 #### (d) Report to Congressional committees required for expenditure of nonappropriated funds for intelligence activity
 
@@ -50,7 +50,7 @@ As used in this section—
 
 &emsp;&emsp;(B) although the funds were not formally requested, the Congress both specifically authorized the appropriation of the funds for the activity and appropriated the funds for the activity.
 
-(July 26, 1947, ch. 343, title V, §504, formerly §502, as added Pub. L. 99–169, title IV, §401(a), Dec. 4, 1985, 99 Stat. 1004; renumbered §504 and amended Pub. L. 102–88, title VI, §§602(a)(1), (c)(1), 603, Aug. 14, 1991, 105 Stat. 441, 444; Pub. L. 107–306, title III, §353(b)(3)(D), Nov. 27, 2002, 116 Stat. 2402; Pub. L. 108–458, title I, §1071(a)(1)(Z), (AA), (5), Dec. 17, 2004, 118 Stat. 3689, 3690; Pub. L. 111–259, title III, §362, Oct. 7, 2010, 124 Stat. 2701.)
+(July 26, 1947, ch. 343, title V, §504, formerly §502, as added Pub. L. 99–169, title IV, §401(a),Dec. 4, 1985, 99 Stat. 1004; renumbered §504 and amended Pub. L. 102–88, title VI, §§602(a)(1), (c)(1), 603, Aug. 14, 1991, 105 Stat. 441, 444; Pub. L. 107–306, title III, §353(b)(3)(D), Nov. 27, 2002, 116 Stat. 2402; Pub. L. 108–458, title I, §1071(a)(1)(Z), (AA), (5), Dec. 17, 2004, 118 Stat. 3689, 3690; Pub. L. 111–259, title III, §362, Oct. 7, 2010, 124 Stat. 2701.)
 
 #### Amendments
 
@@ -96,7 +96,7 @@ Pub. L. 100–202, §101(b) \[title VIII, §8037\], Dec. 22, 1987, 101 Stat. 132
 
 #### Sense of Congress Regarding Disclosure of Annual Intelligence Budget
 
-Pub. L. 102–496, title III, §303, Oct. 24, 1992, 106 Stat. 3183, provided that: “It is the sense of Congress that, beginning in 1993, and in each year thereafter, the aggregate amount requested and authorized for, and spent on, intelligence and intelligence-related activitiesshould be disclosed to the public in an appropriate manner.” Similar provisions were contained in the following prior appropriation act: Pub. L. 102–183, title VII, §701, Dec. 4, 1991, 105 Stat. 1270.
+Pub. L. 102–496, title III, §303, Oct. 24, 1992, 106 Stat. 3183, provided that: “It is the sense of Congress that, beginning in 1993, and in each year thereafter, the aggregate amount requested and authorized for, and spent on, intelligence and intelligence-related activities should be disclosed to the public in an appropriate manner.” Similar provisions were contained in the following prior appropriation act: Pub. L. 102–183, title VII, §701, Dec. 4, 1991, 105 Stat. 1270.
 
 #### Limitation of Expenditure of Funds Appropriated for Department of Defense Intelligence Programs
 

@@ -256,7 +256,7 @@ Pub. L. 109–364, div. A, title X, §1031(a), (b), Oct. 17, 2006, 120 Stat. 238
 
 “(a)
 
-Findings.—Congress finds that the comprehensive examination of the defense program and policies ofthe United States that is undertaken by the Security \[Secretary of\] Defense every four years pursuant to section 118 of title 10, United States Code, known as the Quadrennial Defense Review, is—
+Findings.—Congress finds that the comprehensive examination of the defense program and policies of the United States that is undertaken by the Security \[Secretary of\] Defense every four years pursuant to section 118 of title 10, United States Code, known as the Quadrennial Defense Review, is—
 
 &emsp;“(1) vital in laying out the strategic military planning and threat objectives of the Department of Defense; and
 

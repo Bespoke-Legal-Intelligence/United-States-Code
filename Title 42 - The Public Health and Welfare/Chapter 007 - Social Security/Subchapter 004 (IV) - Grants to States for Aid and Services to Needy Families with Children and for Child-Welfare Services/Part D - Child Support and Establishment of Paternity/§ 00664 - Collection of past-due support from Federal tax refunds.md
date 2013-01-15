@@ -14,7 +14,7 @@
 
 (C) If the other person filing the joint return with the named individual owing the past-due support takes appropriate action to secure his or her proper share of a refund from which a withholding was made under paragraph (1) or (2), the Secretary of the Treasury shall pay such share to such other person. The Secretary of the Treasury shall deduct the amount of such payment from amounts subsequently payable to the State agency to which the amount originally withheld from such refund was paid.
 
-(D) In any case in which an amount was withheld under paragraph (1) or (2) and paid to a State, and the State subsequently determines that the amount certified as past-due support was in excess of the amount actually owed at the time the amount withheld is to be distributed to or on behalf of the child, the State shall pay the excess amount withheld to the named individual thought to have owed the past-due support (or, in the case of amounts withheld on the basis of a joint return, jointly to the parties filing such return).
+(D) In any case in which an amount was withheld under paragraph (1) or (2) and paid to a State, and the State subsequently determines that the amount certified as past-due supportwas in excess of the amount actually owed at the time the amount withheld is to be distributed to or on behalf of the child, the State shall pay the excess amount withheld to the named individual thought to have owed the past-due support (or, in the case of amounts withheld on the basis of a joint return, jointly to the parties filing such return).
 
 #### (b) Regulations; contents, etc.
 
@@ -22,7 +22,7 @@
 
 (2) In the case of withholdings made under subsection (a)(2) of this section, the regulations promulgated pursuant to this subsection shall include the following requirements:
 
-&emsp;(A) The withholding shall apply only in the case where the State determines that the amount of the past-due support which will be owed at the time the withholding is to be made, based upon the pattern of payment of support and other enforcement actions being pursued to collect the past-due support, is equal to or greater than $500. The State may limit the $500 threshold amount to amounts of past-due support accrued since the time that the State first began to enforce the child support order involved under the State plan, andmay limit the application of the withholding to past-due support accrued since such time.
+&emsp;(A) The withholding shall apply only in the case where the State determines that the amount of the past-due support which will be owed at the time the withholding is to be made, based upon the pattern of payment of support and other enforcement actions being pursued to collect the past-due support, is equal to or greater than $500. The State may limit the $500 threshold amount to amounts of past-due support accrued since the time that the State first began to enforce the child support order involved under the State plan, and may limit the application of the withholding to past-due support accrued since such time.
 
 &emsp;(B) The fee which the Secretary of the Treasury may impose to cover the costs of the withholding and notification may not exceed $25 per case submitted.
 
@@ -90,7 +90,7 @@ For provisions relating to effective date of title III of Pub. L. 104–193, see
 
 #### Effective Date of 1990 Amendment
 
-Section 5011(c) of Pub. L. 101–508 provided that: “The amendments made by subsection (b) \[amending this section\] shall take effect on January 1, 1991.”
+Pub. L. 101–508, title V, §5011(c), Nov. 5, 1990, 104 Stat. 1388–220, provided that: “The amendments made by subsection (b) \[amending this section\] shall take effect on January 1, 1991.”
 
 #### Effective Date of 1984 Amendment
 

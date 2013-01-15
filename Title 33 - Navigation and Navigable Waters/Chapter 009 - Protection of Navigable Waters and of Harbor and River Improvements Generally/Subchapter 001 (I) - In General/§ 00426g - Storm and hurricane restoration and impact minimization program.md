@@ -184,15 +184,15 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 #### Effective Date of 1986 Amendment
 
-Section 915(i) of Pub. L. 99–662 provided that: “The amendments made by this section \[amending this section and sections 426i, 577, 603a, 701g, 701r, and 701s of this title\] shall not apply to any project under contract for construction on the date of enactment of this Act \[Nov. 17, 1986\].”
+Pub. L. 99–662, title IX, §915(i), Nov. 17, 1986, 100 Stat. 4191, provided that: “The amendments made by this section \[amending this section and sections 426i, 577, 603a, 701g, 701r, and 701s of this title\] shall not apply to any project under contract for construction on the date of enactment of this Act \[Nov. 17, 1986\].”
 
 #### Effective Date of 1970 Amendment
 
-Section 112(c) of Pub. L. 91–611 provided that: “The amendments made by this section \[amending this section and section 577 of this title\] shall not apply to any project under contract for construction on the date of enactment of this Act \[Dec. 31, 1970\].”
+Pub. L. 91–611, title I, §112(c), Dec. 31, 1970, 84 Stat. 1821, provided that: “The amendments made by this section \[amending this section and section 577 of this title\] shall not apply to any project under contract for construction on the date of enactment of this Act \[Dec. 31, 1970\].”
 
 #### Transfer of Functions
 
-Functions, powers, and duties of Secretary of the Army and other offices and officers of Department of the Army under section 401 of this title to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, §6(g)(6)(A), Oct. 15, 1966, 80 Stat. 941, which created Department of Transportation. Pub. L. 97–449 amended section 401 of this title to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
+Functions, powers, and duties of Secretary of the Army and other offices and officers of Department of the Army under section 401 of this title to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, §6(g)(6)(A), Oct. 15, 1966, 80 Stat. 941, which created Department of Transportation.Pub. L. 97–449 amended section 401 of this title to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
 
 <i><sup>1</sup></i><i> So in original. Probably should be “demonstration”.</i>
 

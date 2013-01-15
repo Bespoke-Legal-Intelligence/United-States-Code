@@ -90,19 +90,15 @@ For purposes of this section—
 
 (Added Pub. L. 95–600, title I, §164(a), Nov. 6, 1978, 92 Stat. 2811; amended Pub. L. 98–611, §1(a)–(c), (d)(3)(B), (e), Oct. 31, 1984, 98 Stat. 3176–3178; Pub. L. 99–514, title XI, §§1114(b)(4), 1151(c)(4), (g)(3), 1162(a), Oct. 22, 1986, 100 Stat. 2450, 2503, 2507, 2510; Pub. L. 100–647, title I, §1011B(a)(31)(B), title IV, §4001(a), (b)(1), Nov. 10, 1988, 102 Stat. 3488, 3643; Pub. L. 101–140, title II, §203(a)(1), (2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title VII, §§7101(a)(1), 7814(a), Dec. 19, 1989, 103 Stat. 2304, 2413; Pub. L. 101–508, title XI, §11403(a), (b), Nov. 5, 1990, 104 Stat. 1388–473; Pub. L. 102–227, title I, §103(a)(1), Dec. 11, 1991, 105 Stat. 1687; Pub. L. 103–66, title XIII, §13101(a)(1), Aug. 10, 1993, 107 Stat. 420; Pub. L. 104–188, title I, §1202(a), (b), Aug. 20, 1996, 110 Stat. 1772, 1773; Pub. L. 105–34, title II, §221(a), Aug. 5, 1997, 111 Stat. 818; Pub. L. 106–170, title V, §506(a), Dec. 17, 1999, 113 Stat. 1922; Pub. L. 107–16, title IV, §411(a), (b), June 7, 2001, 115 Stat. 63.)
 
-#### Amendment of Section
-
-<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
-
 #### Prior Provisions
 
 A prior section 127 was renumbered section 140 of this title.
 
 #### Amendments
 
-<b>2001</b>—Subsec. (c)(1). Pub. L. 107–16, §§411(b), 901, temporarily struck out before period at end “, and such term also does not include any payment for, or the provision of any benefits with respect to, any graduate level course of a kind normally taken by an individual pursuing a program leading to a law, business, medical, or other advanced academic or professional degree”. See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Subsec. (c)(1). Pub. L. 107–16, §411(b), struck out before period at end “, and such term also does not include any payment for, or the provision of any benefits with respect to, any graduate level course of a kind normally taken by an individual pursuing a program leading to a law, business, medical, or other advanced academic or professional degree”.
 
-Subsecs. (d), (e). Pub. L. 107–16, §§411(a), 901, temporarily redesignated subsec. (e) as (d) and struck out heading and text of former subsec. (d). Text read as follows: “This section shall not apply to expenses paid with respect to courses beginning after December 31, 2001.” See Effective and Termination Dates of 2001 Amendment note below.
+Subsecs. (d), (e). Pub. L. 107–16, §411(a), redesignated subsec. (e) as (d) and struck out heading and text of former subsec. (d). Text read as follows: “This section shall not apply to expenses paid with respect to courses beginning after December 31, 2001.”
 
 <b>1999</b>—Subsec. (d). Pub. L. 106–170 substituted “December 31, 2001” for “May 31, 2000”.
 
@@ -164,11 +160,9 @@ Subsec. (d). Pub. L. 98–611, §1(a), substituted “December 31, 1985” for �
 
 Subsec. (e). Pub. L. 98–611, §1(d)(3)(B), added subsec. (e).
 
-#### Effective and Termination Dates of 2001 Amendment
+#### Effective Date of 2001 Amendment
 
 Pub. L. 107–16, title IV, §411(d), June 7, 2001, 115 Stat. 63, provided that: “The amendments made by this section \[amending this section and former section 51A of this title\] shall apply with respect to expenses relating to courses beginning after December 31, 2001.”
-
-Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1999 Amendment
 
@@ -176,11 +170,11 @@ Pub. L. 106–170, title V, §506(b), Dec. 17, 1999, 113 Stat. 1922, provided th
 
 #### Effective Date of 1997 Amendment
 
-Section 221(b) of Pub. L. 105–34 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1996.”
+Pub. L. 105–34, title II, §221(b), Aug. 5, 1997, 111 Stat. 818, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1996.”
 
 #### Effective Date of 1996 Amendment
 
-Section 1202(c)(1), (2) of Pub. L. 104–188 provided that:
+Pub. L. 104–188, title I, §1202(c)(1), (2), Aug. 20, 1996, 110 Stat. 1773, provided that:
 
 “(1)
 
@@ -192,15 +186,15 @@ Graduate education.—The amendment made by subsection (b) \[amending this secti
 
 #### Effective Date of 1993 Amendment
 
-Section 13101(c)(1) of Pub. L. 103–66 provided that: “The amendments made by subsection (a) \[amending this section and repealing provisions set out below\] shall apply to taxable years ending after June 30, 1992.”
+Pub. L. 103–66, title XIII, §13101(c)(1), Aug. 10, 1993, 107 Stat. 420, provided that: “The amendments made by subsection (a) \[amending this section and repealing provisions set out below\] shall apply to taxable years ending after June 30, 1992.”
 
 #### Effective Date of 1991 Amendment
 
-Section 103(b) of Pub. L. 102–227 provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1991.”
+Pub. L. 102–227, title I, §103(b), Dec. 11, 1991, 105 Stat. 1687, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1991.”
 
 #### Effective Date of 1990 Amendment
 
-Section 11403(d) of Pub. L. 101–508 provided that:
+Pub. L. 101–508, title XI, §11403(d), Nov. 5, 1990, 104 Stat. 1388–473, provided that:
 
 “(1)
 
@@ -210,9 +204,9 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 Subsection (b).—The amendment made by subsection (b) \[amending this section\] shall apply to taxable years beginning after December 31, 1990.”
 
-#### Effective Date of 1989 Amendments
+#### Effective Date of 1989 Amendment
 
-Section 7101(c) of Pub. L. 101–239 provided that: “The amendments made by this section \[amending this section and section 132 of this title\] shall apply to taxable years beginning after December 31, 1988.”
+Pub. L. 101–239, title VII, §7101(c), Dec. 19, 1989, 103 Stat. 2305, provided that: “The amendments made by this section \[amending this section and section 132 of this title\] shall apply to taxable years beginning after December 31, 1988.”
 
 Amendment by section 7814(a) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
@@ -234,7 +228,7 @@ Amendment by section 1162(a) of Pub. L. 99–514 applicable to taxable years beg
 
 #### Effective Date of 1984 Amendment
 
-Section 1(g) of Pub. L. 98–611, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–611, §1(g), Oct. 31, 1984, 98 Stat. 3178, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 
@@ -250,7 +244,7 @@ Subsection (f).—The amendment made by subsection (f) \[amending section 3231 o
 
 “(4)
 
-No penalties or interest on failure to withhold.—No penalty or interest shall be imposed on any failure to withhold under subtitle C of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to employment taxes) with respect to amounts excluded from gross income under section 127 of such Code (as amended by this section and determined without regard to subsection (a)(2) thereof) with respect to periods during 1984.
+No penalties or interest on failure to withhold.—No penalty or interest shall be imposed on any failure to withhold under subtitle C of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to employment taxes) with respect to amounts excludedfrom gross income under section 127 of such Code (as amended by this section and determined without regard to subsection (a)(2) thereof) with respect to periods during 1984.
 
 “(5)
 
@@ -258,7 +252,7 @@ Coordination with section 117(d).—In the case of education described in sectio
 
 #### Effective Date
 
-Section 164(d) of Pub. L. 95–600 provided that: “The amendments made by this section \[enacting this section and amending sections 3121, 3306, and 3401 of this title and section 409 of Title 42, The Public Health and Welfare\] shall apply with respect to taxable years beginning after December 31, 1978.”
+Pub. L. 95–600, title I, §164(d), Nov. 6, 1978, 92 Stat. 2814, provided that: “The amendments made by this section \[enacting this section and amending sections 3121, 3306, and 3401 of this title and section 409 of Title 42, The Public Health and Welfare\] shall apply with respect to taxable years beginning after December 31, 1978.”
 
 #### Regulations
 
@@ -266,13 +260,13 @@ Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final re
 
 #### Expedited Procedures for Refunds of Overpayments
 
-Section 1202(c)(3) of Pub. L. 104–188 provided that: “The Secretary of the Treasury shall establish expedited procedures for the refund of any overpayment of taxes imposed by the Internal Revenue Code of 1986 which is attributable to amounts excluded from gross income during 1995 or 1996 under section 127 of such Code, including procedures waiving the requirement that an employer obtain an employee's signature where the employer demonstrates to the satisfaction of the Secretary that any refund collected by the employer on behalf of the employee will be paid to the employee.”
+Pub. L. 104–188, title I, §1202(c)(3), Aug. 20, 1996, 110 Stat. 1773, provided that: “The Secretary of the Treasury shall establish expedited procedures for the refund of any overpayment of taxes imposed by the Internal Revenue Code of 1986 which is attributable to amounts excluded from gross income during 1995 or 1996 under section 127 of such Code, including procedures waiving the requirement that an employer obtain an employee's signature where the employer demonstrates to the satisfaction of the Secretary that any refund collected by the employer on behalf of the employee will be paid to the employee.”
 
 #### Special Rule for Certain Taxable Years
 
-Section 103(a)(2) of Pub. L. 102–227 provided that, in the case of any taxable year beginning in 1992, only amounts paid before July 1, 1992, by employer for educational assistance for employee be taken into account in determining amount excluded under this section with respect to such employee for such taxable year, prior to repeal by Pub. L. 103–66, title XIII, §13101(a)(2), Aug. 10, 1993, 107 Stat. 420.
+Pub. L. 102–227, title I, §103(a)(2), Dec. 11, 1991, 105 Stat. 1687, provided that, in the case of any taxable year beginning in 1992, only amounts paid before July 1, 1992, by employer for educational assistance for employee be taken into account in determining amount excluded under this section with respect to such employee for such taxable year, prior to repeal by Pub. L. 103–66, title XIII, §13101(a)(2), Aug. 10, 1993, 107 Stat. 420.
 
-Section 7101(a)(2) of Pub. L. 101–239 provided that, in the case of any taxable year beginning in 1990, only amounts paid before Oct. 1, 1990, by employer for educational assistance for employee be taken into account in determining amount excluded under this section with respect to such employee for such taxable year, prior to repeal by Pub. L. 101–508, title XI, §11403(c), Nov. 5, 1990, 104 Stat. 1388–473.
+Pub. L. 101–239, title VII, §7101(a)(2), Dec. 19, 1989, 103 Stat. 2304, provided that, in the case of any taxable year beginning in 1990, only amounts paid before Oct. 1, 1990, by employer for educational assistance for employee be taken into account in determining amount excluded under this section with respect to such employee for such taxable year, prior to repeal by Pub. L. 101–508, title XI, §11403(c), Nov. 5, 1990, 104 Stat. 1388–473.
 
 #### Nonenforcement of Amendment Made by Section 1151 of Pub. L. 99–514 for Fiscal Year 1990
 

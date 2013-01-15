@@ -54,11 +54,11 @@ Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 
 
 #### Short Title
 
-Section 105 of title I of Pub. L. 85–155 provided that: “This title \[amending this section and sections 3070, 3206, 3207, 3288, 3291, 3296 to 3299, 3304, 3305, 3888, 3915, 3916, 3927, and 3991 of this title\] may be cited as the ‘Army Nurse and Medical Specialist Act of 1957’.”
+Pub. L. 85–155, title I, §105, Aug. 21, 1957, 71 Stat. 381, provided that: “This title \[amending this section and sections 3070, 3206, 3207, 3288, 3291, 3296 to 3299, 3304, 3305, 3888, 3915, 3916, 3927, and 3991 of this title\] may be cited as the ‘Army Nurse and Medical Specialist Act of 1957’.”
 
 #### Savings Provision
 
-Section 104 of Pub. L. 85–155 provided that:
+Pub. L. 85–155, title I, §104, Aug. 21, 1957, 71 Stat. 380, provided that:
 
 “(a) This Act \[amending this section and sections 3070, 3206, 3207, 3288, 3291, 3296 to 3299, 3304, 3305, 3888, 3915, 3916, 3927, 3991, 5140, 5444, 5449, 5702, 5707, 5708, 5753, 5762, 5773, 5775, 5776, 5782, 6377 to 6379, 6381, 6388, 6395, 6396, 8206, 8207, 8212, 8285 to 8288, 8297, 8298 to 8301, 8303, 8305, 8888, 8915, 8927 and 8991 of this title, and repealing sections 3881, 3882, 3887, 3912, 3928, 8291, 8304, 8881, 8882, 8887, 8912 and 8928 of this title\] does not affect the appointment of an officer of the Army Nurse Corps, Regular Army, or the Army Medical Specialist Corps, Regular Army, on the active list on the effective date of this Act \[Aug. 21, 1957\].
 
@@ -72,9 +72,9 @@ Section 104 of Pub. L. 85–155 provided that:
 
 #### Authority To Suspend Mandatory Retirement, Discharge, Separation, or Transfer From Active Status
 
-Section 4(a) of Pub. L. 90–130 authorized the Secretary of the Army to suspend the operation of any provision of law relating to the mandatory retirement, discharge, separation, or transfer from an active status of an officer of the Army Nurse Corps, Army Medical Specialist Corps, or Woman's Army Corps for a period of five years following Nov. 8, 1967.
+Pub. L. 90–130, §4(a), Nov. 8, 1967, 81 Stat. 383, authorized the Secretary of the Army to suspend the operation of any provision of law relating to the mandatory retirement, discharge, separation, or transfer from an active status of an officer of the Army Nurse Corps, Army Medical Specialist Corps, or Woman's Army Corps for a period of five years following Nov. 8, 1967.
 
 #### Authority of Military Department Secretaries To Convene Boards To Recommend Deferment of Retirement or Separation of Nurses
 
-Section 4(f) of Pub. L. 90–130. Nov. 8, 1967, 81 Stat. 384, authorized until July 1, 1972, when the needs of the service required, the Secretary of the Army, the Secretary of the Navy, or the Secretary of the Air Force to convene annually boards of officers to consider officers of the Army Nurse Corps, officers of the Navy Nurse Corps, or Air Force nurses, respectively, who otherwise would be required to be retired or separated under this Act within the calendar or fiscal year in which the board is convened. Upon the recommendation of such a board, the Secretary concerned could defer the separation or retirement of such an officer for a term of not more than five years, unless recommended for further deferment by a subsequent board of officers, and in any case not beyond the month following her attaining age sixty or July 1, 1976, whichever was earlier.
+Pub. L. 90–130, §4(f), Nov. 8, 1967, 81 Stat. 384, authorized until July 1, 1972, when the needs of the service required, the Secretary of the Army, the Secretary of the Navy, or the Secretary of the Air Force to convene annually boards of officers to consider officers of the Army Nurse Corps, officers of the Navy Nurse Corps, or Air Force nurses, respectively, who otherwise would be required to be retired or separated under this Act within the calendar or fiscal year in which the board is convened. Upon the recommendation of such a board, the Secretary concerned could defer the separation or retirement of such an officer for a term of not more than five years, unless recommended for further deferment by a subsequent board of officers, and in any case not beyond the month following her attaining age sixty or July 1, 1976, whichever was earlier.
 

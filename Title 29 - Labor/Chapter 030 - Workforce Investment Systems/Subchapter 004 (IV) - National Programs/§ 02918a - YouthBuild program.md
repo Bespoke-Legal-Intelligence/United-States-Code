@@ -98,7 +98,7 @@ In this section:
 
 #### (1) Amounts of grants
 
-&emsp;The Secretary is authorized to make grants to applicants for the purpose of carrying outYouthBuild programs approved under this section.
+&emsp;The Secretary is authorized to make grants to applicants for the purpose of carrying out YouthBuild programs approved under this section.
 
 #### (2) Eligible activities
 
@@ -132,7 +132,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(viii) job search and assistance.
 
-&emsp;&emsp;(B) Supervision and training for participants in the rehabilitation or construction of housing, including residential housing for homeless individuals or low-income families, or transitional housing for homeless individuals.
+&emsp;&emsp;(B) Supervision and training for participants in the rehabilitation or construction of housing, including residential housing for homeless individuals or low-income families,or transitional housing for homeless individuals.
 
 &emsp;&emsp;(C) Supervision and training for participants in the rehabilitation or construction of community and other public facilities, except that not more than 10 percent of funds appropriated to carry out this section may be used for such supervision and training.
 
@@ -190,7 +190,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(I) the applicant;
 
-&emsp;&emsp;&emsp;&emsp;(II) recipients of other Federal, State or local housing and community development assistance who will sponsor any part of the rehabilitation, construction, operation and maintenance, or other housing and community development activities undertaken as part of the proposed program; or
+&emsp;&emsp;&emsp;&emsp;(II) recipients of other Federal, State or local housing and community development assistance who will sponsor any part of the rehabilitation, construction, operation and maintenance, or otherhousing and community development activities undertaken as part of the proposed program; or
 
 &emsp;&emsp;&emsp;&emsp;(III) entities carrying out other Federal, State, or local activities or activities conducted by Indian tribes, including vocational education programs, adult and language instruction educational programs, and job training provided with funds available under this chapter;
 
@@ -296,7 +296,7 @@ Residential housing units rehabilitated or constructed using funds made availabl
 
 #### (5) State and local standards
 
-&emsp;All educational programs and activities supported with funds provided under subsection (c) shall be consistent with applicable State and local educational standards. Standards and procedures for the programs and activities that relate to awarding academic credit for and certifying educational attainment in such programs and activities shall be consistentwith applicable State and local educational standards.
+&emsp;All educational programs and activities supported with funds provided under subsection (c) shall be consistent with applicable State and local educational standards. Standards and procedures for the programs and activities that relate to awarding academic credit for and certifying educational attainment in such programs and activities shall be consistent with applicable State and local educational standards.
 
 #### (f) Management and technical assistance
 
@@ -342,7 +342,7 @@ Each recipient of a grant under subsection (c) to carry out a YouthBuild program
 
 #### References in Text
 
-This chapter, referred to in subsecs. (b)(3)(C) and (c)(3)(B)(x), (xvi)(III), (4)(J)(iii), was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
+This chapter, referred to in subsecs. (b)(3)(C) and (c)(3)(B)(x), (xvi)(III), (4)(J)(iii), was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7,1998, 112 Stat. 939, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
 
 Act of August 16, 1937, commonly known as the National Apprenticeship Act, referred to in subsec. (b)(11)(A), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, which is classified generally to chapter 4C (§50 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 50 of this title and Tables.
 
@@ -440,7 +440,7 @@ Administrative actions relating to promulgation of regulations.—Any administra
 
 Separability.—If a provision of this section or its application to any person or circumstance is held invalid, neither the remainder of this section nor the application of the provision to other persons or circumstances shall be affected.
 
-“(<i>l</i>)
+“(l)
 
 Transition.—The Secretary of Labor is authorized to utilize—
 
@@ -458,7 +458,7 @@ Accomplishing Orderly Transfer.—Consistent with the requirements of this secti
 
 Administration of Prior Grants.—Notwithstanding any other provision of this Act \[See Short Title of 2006 Amendment note set out under section 2801 of this title\], grants awarded under subtitle D of title IV of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12899 et seq.) with funds appropriated for fiscal year 2006 or a preceding fiscal year shall be subject to the continuing authority of the Secretary of Housing and Urban Development under the provisions of such subtitle, as in effect on the day before the date of enactment of this Act \[Sept. 22, 2006\], until the authority to expend applicable funds for the grants, as specified by the Secretary of Housing and Urban Development, has expired and the Secretary has completed the administrative responsibilities associated with the grants.
 
-“(<i>o</i>)
+“(o)
 
 References.—A reference in any other Federal law, Executive order, rule, regulation, or delegation of authority, or any document of or relating to—
 

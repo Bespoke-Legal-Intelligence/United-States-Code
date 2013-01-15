@@ -44,11 +44,11 @@ Under regulations prescribed by the Secretary, no tax shall be imposed under sec
 
 Under regulations provided by the Secretary, no tax shall be imposed under section 4251 on any amount paid by a qualified blood collector organization (as defined in section 7701(a)(49)) for services or facilities furnished to such organization.
 
-#### (<i>l</i>) Filing of exemption certificates
+#### (l) Filing of exemption certificates
 
 #### (1) In general
 
-&emsp;In order to claim an exemption under subsection (c), (h), (i), (j), or (k), a person shall provide to the provider of communications services a statement (in such form and manner as the Secretary may provide) certifying that such person is entitled to such exemption.
+&emsp;In order to claim an exemption under subsection (c), (h), (i), (j), or (k), a person shall provide to the provider of communications services a statement (in such form and manneras the Secretary may provide) certifying that such person is entitled to such exemption.
 
 #### (2) Duration of certificate
 
@@ -72,11 +72,11 @@ Section 1207(c) of Pub. L. 109–280, which directed the amendment of section 42
 
 #### Amendments
 
-<b>2006</b>—Subsec. (k). Pub. L. 109–280, §1207(c)(1), added subsec. (k). Former subsec. (k) redesignated (<i>l</i>). See Codification note above.
+<b>2006</b>—Subsec. (k). Pub. L. 109–280, §1207(c)(1), added subsec. (k). Former subsec. (k) redesignated (l). See Codification note above.
 
-Subsec. (<i>l</i>). Pub. L. 109–280, §1207(c)(1), redesignated subsec. (k) as (<i>l</i>). See Codification note above.
+Subsec. (l). Pub. L. 109–280, §1207(c)(1), redesignated subsec. (k) as (l). See Codification note above.
 
-Subsec. (<i>l</i>)(1). Pub. L. 109–280, §1207(c)(2), substituted “(j), or (k)” for “or (j)”. See Codification note above.
+Subsec. (l)(1). Pub. L. 109–280, §1207(c)(2), substituted “(j), or (k)” for “or (j)”. See Codification note above.
 
 <b>1990</b>—Subsec. (k). Pub. L. 101–508 added subsec. (k).
 
@@ -110,7 +110,7 @@ Subsecs. (h) to (j). Pub. L. 89–44 struck out subsecs. (h) to (j), which relat
 
 <b>1958</b>—Subsec. (a). Pub. L. 85–859 substituted “general telephone service, or with respect to toll telephone service or telegraph service if the charge for such toll telephone service or telegraph service is less than 25 cents” for “local telephone service”.
 
-Subsec. (b). Pub. L. 85–859 substituted “general telephone service, on any payment received from any person for services used” for “local telephone service,upon any payment received from any person for services or facilities utilized”.
+Subsec. (b). Pub. L. 85–859 substituted “general telephone service, on any payment received from any person for services used” for “local telephone service, upon any payment received from any person for services or facilities utilized”.
 
 Subsec. (c). Pub. L. 85–859 substituted “on any payment received for services furnished to an international organization, or to the American National Red Cross” for “upon any payment received for services or facilities furnished to an international organization, or any organization created by act of Congress to act in matters of relief under the treaty of Geneva of August 22, 1864”.
 
@@ -128,7 +128,7 @@ Amendment by Pub. L. 109–280 effective Jan. 1, 2007, see section 1207(g)(1) of
 
 #### Effective Date of 1990 Amendment
 
-Section 11217(c)(2) of Pub. L. 101–508 provided that:
+Pub. L. 101–508, title XI, §11217(c)(2), Nov. 5, 1990, 104 Stat. 1388–438, provided that:
 
 “(A)
 
@@ -160,7 +160,7 @@ Amendment by Pub. L. 87–508 applicable with respect to services furnished on o
 
 #### Effective Date of 1959 Amendment
 
-Section 4(b) of Pub. L. 86–344, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 86–344, §4(b), Sept. 21, 1959, 73 Stat. 619, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1) Subject to the provisions of paragraph (2), the amendment made by subsection (a) \[amending this section\] shall apply with respect to amounts paid on or after January 1, 1959, for services rendered on or after such date.
 

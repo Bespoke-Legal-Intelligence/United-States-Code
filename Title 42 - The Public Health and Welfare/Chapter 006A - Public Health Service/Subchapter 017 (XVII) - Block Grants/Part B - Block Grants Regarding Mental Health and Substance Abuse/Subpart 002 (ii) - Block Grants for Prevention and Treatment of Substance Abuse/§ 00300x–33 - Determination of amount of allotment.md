@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(A) The percentage constituted by the ratio of—
 
-&emsp;&emsp;&emsp;(i) an amount equal to the sum of the total number of individuals who reside inthe State involved and are between 18 and 24 years of age (inclusive) and the number of individuals in the State who reside in urbanized areas of the State and are between such years of age; to
+&emsp;&emsp;&emsp;(i) an amount equal to the sum of the total number of individuals who reside in the State involved and are between 18 and 24 years of age (inclusive) and the number of individuals in the State who reside in urbanized areas of the State and are between such years of age; to
 
 &emsp;&emsp;&emsp;(ii) an amount equal to the total of the respective sums determined for the States under clause (i).
 
@@ -36,7 +36,7 @@
 
 #### (1) In general
 
-&emsp;With respect to fiscal year 2000, and each subsequent fiscal year, the amount of the allotment of a State under section 300x–21 of this title shall not be less than the amount the State received under such section for the previous fiscal year increased by an amount equal to 30.65 percent of the percentage by which the aggregate amount allotted to all States for such fiscal year exceeds the aggregate amount allotted to all States for the previous fiscal year.
+&emsp;With respect to fiscal year 2000, and each subsequent fiscal year, the amount of the allotment of a State under section 300x–21 of this title shall not be less than the amount theState received under such section for the previous fiscal year increased by an amount equal to 30.65 percent of the percentage by which the aggregate amount allotted to all States for such fiscal year exceeds the aggregate amount allotted to all States for the previous fiscal year.
 
 #### (2) Limitations
 
@@ -98,7 +98,7 @@
 
 &emsp;&emsp;(B) makes a determination that the members of such tribe or tribal organization would be better served by means of grants made directly by the Secretary under this; <sup>2</sup>
 
-> &emsp;the Secretary shall reserve from the allotment under section 300x–21 of this title for the State for the fiscal year involved an amount thatbears the same ratio to the allotment as the amount provided under this subpart to the tribe or tribal organization for fiscal year 1991 for activities relating to the prevention and treatment of the abuse of alcohol and other drugs bore to the amount of the portion of the allotment under this subpart for the State for such fiscal year that was expended for such activities.
+> &emsp;the Secretary shall reserve from the allotment under section 300x–21 of this title for the State for the fiscal year involved an amount that bears the same ratio to the allotment as the amount provided under this subpart to the tribe or tribal organization for fiscal year 1991 for activities relating to the prevention and treatment of the abuse of alcohol and other drugs bore to the amount of the portion of the allotment under this subpart for the State for such fiscal year that was expended for such activities.
 
 #### (2) Tribe or tribal organization as grantee
 
@@ -106,7 +106,7 @@
 
 #### (3) Application
 
-&emsp;In order for an Indian tribe or tribal organization to be eligible for a grant for a fiscal year under this paragraph,<sup>3</sup> it shall submit to the Secretary a plan for such fiscal year that meets such criteria as the Secretary may prescribe.
+&emsp;In order for an Indian tribe or tribal organization to be eligible for a grant for a fiscalyear under this paragraph,<sup>3</sup> it shall submit to the Secretary a plan for such fiscal year that meets such criteria as the Secretary may prescribe.
 
 #### (4) Definitions
 

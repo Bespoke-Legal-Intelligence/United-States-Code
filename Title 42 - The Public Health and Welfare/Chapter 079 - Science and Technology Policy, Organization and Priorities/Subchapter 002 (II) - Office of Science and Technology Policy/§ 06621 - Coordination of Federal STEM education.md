@@ -26,7 +26,7 @@ The committee established under subsection (a) shall—
 
 &emsp;&emsp;(D) with respect to subparagraph (A), describe the role of each agency in supporting programs and activities designed to achieve the objectives; and
 
-&emsp;(6) establish, periodically update, and maintain an inventory of federally sponsored STEM education programs and activities, including documentation of assessments of the effectiveness of such programs and activities and rates of participation by women, underrepresented minorities, and persons in rural areas in such programs and activities.
+&emsp;(6) establish, periodically update, and maintain an inventory of federally sponsored STEM education programs and activities, including documentation of assessments of the effectiveness of such programs and activities and ratesof participation by women, underrepresented minorities, and persons in rural areas in such programs and activities.
 
 #### (b) <sup>1</sup> Responsibilities of OSTP
 

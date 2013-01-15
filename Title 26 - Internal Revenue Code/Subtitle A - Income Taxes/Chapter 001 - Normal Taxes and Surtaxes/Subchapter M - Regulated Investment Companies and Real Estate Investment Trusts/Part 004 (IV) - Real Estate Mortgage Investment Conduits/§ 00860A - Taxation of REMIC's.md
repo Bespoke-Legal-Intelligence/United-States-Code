@@ -20,11 +20,11 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date
 
-Section 675(a)–(c) of subtitle H (§§671–675) of title VI of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1006(w)(1), Nov. 10, 1988, 102 Stat. 3427, provided that:
+Pub. L. 99–514, title VI, §675(a)–(c), Oct. 22, 1986, 100 Stat. 2320, as amended by Pub. L. 100–647, title I, §1006(w)(1), Nov. 10, 1988, 102 Stat. 3427, provided that:
 
 “(a)
 
-General Rule.—Except as otherwise provided in this section, the amendments made by this subtitle \[enacting this part and amending sections 582, 593, 856, 1272, 6049, and 7701 of this title\] shall take effect on January 1, 1987.
+General Rule.—Except as otherwise provided in this section, the amendments made by this subtitle \[subtitle H (§§671–675) of title VI of Pub. L. 99–514, enacting this part and amending sections 582, 593, 856, 1272, 6049, and 7701 of this title\] shall take effect on January 1, 1987.
 
 “(b)
 
@@ -48,5 +48,5 @@ Special rule for coordination with wash-sale rules.—Notwithstanding paragraphs
 
 #### Study of Amendments by Pub. L. 99–514
 
-Section 675(d) of Pub. L. 99–514, as added by Pub. L. 100–647, title I, §1006(w)(2), Nov. 10, 1988, 102 Stat. 3427, directed Secretary of the Treasury to conduct a study of the operation of the amendments made by this part \[this subtitle\] and their competitive impact on savings and loan institutions and similar financial institutions and, not later than Jan. 1, 1990, report to Congress, prior to repeal by Pub. L. 101–508, title XI, §11832(5), Nov. 5, 1990, 104 Stat. 1388–559.
+Pub. L. 99–514, title VI, §675(d), as added by Pub. L. 100–647, title I, §1006(w)(2), Nov. 10, 1988, 102 Stat. 3427, directed Secretary of the Treasury to conduct a study of the operation of the amendments made by this part \[this subtitle\] and their competitive impact on savingsand loan institutions and similar financial institutions and, not later than Jan. 1, 1990, report to Congress, prior to repeal by Pub. L. 101–508, title XI, §11832(5), Nov. 5, 1990, 104 Stat. 1388–559.
 

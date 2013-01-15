@@ -18,7 +18,7 @@ In this part:
 
 #### (3) Program administration funds
 
-&emsp;The term “program administration funds” means funds used by the program consortium to administer the program under this part, but not to exceed 10 percent of the total funds allocated under paragraphs (1) through (3) of section 16378(d) of this title.
+&emsp;The term “program administration funds” means funds used by the program consortium to administer the program under this part, butnot to exceed 10 percent of the total funds allocated under paragraphs (1) through (3) of section 16378(d) of this title.
 
 #### (4) Program consortium
 

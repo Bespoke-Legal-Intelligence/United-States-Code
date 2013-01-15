@@ -14,7 +14,7 @@ Each eligible entity receiving a grant under this division shall provide compreh
 
 &emsp;&emsp;(B) complete applications for and enroll in a program of postsecondary education.
 
-&emsp;(4) In the case of an eligible entity described in section 1070a–21(c)(1) of this title, providingfor the scholarships described in section 1070a–25 of this title.
+&emsp;(4) In the case of an eligible entity described in section 1070a–21(c)(1) of this title, providing for the scholarships described in section 1070a–25 of this title.
 
 #### (b) Permissible activities for States and partnerships
 

@@ -58,15 +58,15 @@ Subsequent taxable periods.—The applicable percentage for any taxable period b
 
 Amendment by section 1018(u)(17) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Section 7106(d) of Pub. L. 100–647 provided that: “The amendments made by this section \[amending this section and sections 3322, 6157, 6201, 6317, 6513, and 6601 of this title, omitting section 3323 of this title, and amending provisions set out as a note under section 231n of Title 45, Railroads\], and the provisions of subsection (b) \[set out below\], shall apply to remuneration paid after December 31, 1988.”
+Pub. L. 100–647, title VII, §7106(d), Nov. 10, 1988, 102 Stat. 3774, provided that: “The amendments made by this section \[amending this section and sections 3322, 6157, 6201, 6317, 6513, and 6601 of this title, omitting section 3323 of this title, and amending provisions set out as a note under section 231n of Title 45, Railroads\], and the provisions of subsection (b) \[set out below\], shall apply to remuneration paid after December 31, 1988.”
 
 #### Effective Date
 
-Section 231(d) of Pub. L. 98–76 provided that: “The amendments made by this section \[enacting this chapter and amending sections 6157, 6201, 6317, 6513, and 6601 of this title\] shall apply to remuneration paid after June 30, 1986.”
+Pub. L. 98–76, title II, §231(d), Aug. 12, 1983, 97 Stat. 429, provided that: “The amendments made by this section \[enacting this chapter and amending sections 6157, 6201, 6317, 6513, and 6601 of this title\] shall apply to remuneration paid after June 30, 1986.”
 
 #### Continuation of Surtax Rate Through 1990
 
-Section 7106(b) of Pub. L. 100–647 provided that:
+Pub. L. 100–647, title VII, §7106(b), Nov. 10, 1988, 102 Stat. 3773, provided that:
 
 “(1)
 

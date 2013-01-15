@@ -18,9 +18,9 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 #### Short Title
 
-Section 301 of title III of Pub. L. 102–182 provided that: “This title \[enacting this chapter, section 2798 of this title, and section 2410c of Title 50, Appendix, War and National Defense, amending sections 2798 and 5604 of this title and sections 2405 and 2410c of Title 50, Appendix, and repealing provisions which enacted this chapter, section 2798 of this title, and section 2410c of Title 50, Appendix, and which amended section 2405 of Title 50, Appendix\] may be cited as the ‘Chemical and Biological Weapons Control and Warfare Elimination Act of 1991’.”
+Pub. L. 102–182, title III, §301, Dec. 4, 1991, 105 Stat. 1245, provided that: “This title \[enacting this chapter, section 2798 of this title, and section 2410c of Title 50, Appendix, War and National Defense, amending sections 2798 and 5604 of this title and sections 2405 and 2410c of Title 50, Appendix, and repealing provisions which enacted this chapter, section 2798 of this title, and section 2410c of Title 50, Appendix, and which amended section 2405 of Title 50, Appendix\] may be cited as the ‘Chemical and Biological Weapons Control and Warfare Elimination Act of 1991’.”
 
-Pub. L. 102–138, title V, §501, Oct. 28, 1991, 105 Stat. 722, which provided that title V of Pub. L. 102–138, which enacted this chapter, section 2798 of this title, and section 2410c of Title 50, Appendix, War and National Defense, and amended section 2405 of Title 50, Appendix, was to be cited as the “Chemical and Biological Weapons Control and Warfare Elimination Act of 1991”, was repealed by section 309(a) of Pub. L. 102–182.
+Pub. L. 102–138, title V, §501, Oct. 28, 1991, 105 Stat. 722, which provided that title V of Pub. L. 102–138, which enacted this chapter, section 2798 of this title, and section 2410c of Title 50, Appendix, War and National Defense, and amended section 2405 of Title 50, Appendix, was to be cited as the “Chemical and Biological Weapons Control and Warfare Elimination Act of 1991”, was repealed by Pub. L. 102–182, title III, §309(a), Dec. 4, 1991, 105 Stat. 1258.
 
 #### Matters Relating to the Control of Biological Weapons
 
@@ -44,7 +44,7 @@ Compliance protocol.—The term ‘compliance protocol’ means that segment of 
 
 &emsp;“(3)
 
-Industry.—The term ‘industry’ means any corporate or private sector entity engaged in the research, development, production, import, and exportof peaceful pharmaceuticals and bio-technological and related products.
+Industry.—The term ‘industry’ means any corporate or private sector entity engaged in the research, development, production, import, and export of peaceful pharmaceuticals and bio-technological and related products.
 
 #### “SEC. 1123. FINDINGS.
 

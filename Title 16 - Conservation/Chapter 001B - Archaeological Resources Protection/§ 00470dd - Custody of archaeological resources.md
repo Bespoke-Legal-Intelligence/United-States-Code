@@ -12,7 +12,7 @@ The Secretary of the Interior may promulgate regulations providing for—
 
 #### References in Text
 
-Act of June 27, 1960 (16 U.S.C. 469–469c), referred to in par. (2), is act June 27, 1960, Pub. L. 86–523, 74 Stat. 220,as amended, which is classified generally to sections 469 to 469c–1 of this title. For complete classification of this Act to the Code, see Tables.
+Act of June 27, 1960 (16 U.S.C. 469–469c), referred to in par. (2), is act June 27, 1960, Pub. L. 86–523, 74 Stat. 220, as amended, which is classified generally to sections 469 to 469c–1 of this title. For complete classification of this Act to the Code, see Tables.
 
 Act of June 8, 1906 (16 U.S.C. 431–433), referred to in par. (2), is act June 8, 1906, ch. 3060, 34 Stat. 225, known as the Antiquities Act of 1906, which is classified generally to sections 431, 432, and 433 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 431 of this title and Tables.
 

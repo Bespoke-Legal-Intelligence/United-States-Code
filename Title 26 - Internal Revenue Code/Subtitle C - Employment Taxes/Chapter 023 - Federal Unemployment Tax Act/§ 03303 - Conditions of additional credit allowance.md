@@ -64,7 +64,7 @@ As used in this section—
 
 #### (6) Balance
 
-&emsp;The term “balance”, with respect to a reserve account or a guaranteed employment account, means the amount standing to the credit of the account as of the computation date; except that, if subsequent to January 1, 1940, any moneys have been paid into or credited to such account other than payments thereto bypersons having individuals in their employ, such term shall mean the amount in such account as of the computation date less the total of such other moneys paid into or credited to such account subsequent to January 1, 1940.
+&emsp;The term “balance”, with respect to a reserve account or a guaranteed employment account, means the amount standing to the credit of the account as of the computation date; except that, if subsequent to January 1, 1940, any moneys have been paid into or credited to such account other than payments thereto by persons having individuals in their employ, such term shall mean the amount in such account as of the computation date less the total of such other moneys paid into or credited to such account subsequent to January 1, 1940.
 
 #### (7) Computation date
 
@@ -102,7 +102,7 @@ To facilitate the orderly transition to coverage of service to which section 330
 
 #### Amendment of Section
 
-<i>Pub. L. 112–40, title II, §252, Oct. 21, 2011, 125 Stat. 421, 422, provided that, applicable to erroneous payments established after the end of the 2-year period beginning on Oct. 21, 2011, with certain exceptions, this section is amended by striking subsections (f) and (g) and adding the following new subsection:</i>
+<i>Pub. L. 112–40, title II, §252, Oct. 21, 2011, 125 Stat. 421, provided that, applicable to erroneous payments established after the end of the 2-year period beginning on Oct. 21, 2011, with certain exceptions, this section is amended by striking subsections (f) and (g) and adding the following new subsection:</i>
 
 #### <i>(f) Prohibition on noncharging due to employer fault</i>
 
@@ -116,7 +116,7 @@ To facilitate the orderly transition to coverage of service to which section 330
 
 #### <i>(2) State authority to impose stricter standards</i>
 
-&emsp;<i>Nothing in paragraph (1) shall limit the authority of a State to provide that an employer's account not be relieved of charges relating to a payment from the State unemployment fund for rea</i><i>sons other than the reasons described in subparagraphs (A) and (B) of such paragraph, such as after the first instance of a failure to respond timely or adequately to requests described in paragraph (1)(A).</i>
+&emsp;<i>Nothing in paragraph (1) shall limit the authority of a State to provide that an employer's account not be relieved of charges relating to a payment from the State unemployment fund for reasons other than the reasons described in subparagraphs (A) and (B) of such paragraph, such as after the first instance of a failure to respond timely or adequately to requests described in paragraph (1)(A).</i>
 
 <i>See 2011 Amendment notes below.</i>
 
@@ -158,7 +158,7 @@ Authority.—A State may amend its State law to apply such amendments to erroneo
 
 #### Effective Date of 1976 Amendments
 
-Section 122(c) of Pub. L. 94–566 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 20, 1976\]. The amendment made by subsection (b) \[amending this section\] shall take effect on January 1, 1970.”
+Pub. L. 94–566, title I, §122(c), Oct. 20, 1976, 90 Stat. 2676, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 20, 1976\]. The amendment made by subsection (b) \[amending this section\] shall take effect on January 1, 1970.”
 
 Amendment by section 1903(a)(13) of Pub. L. 94–455 applicable with respect to wages paid after Dec. 31, 1976, see section 1903(d) of Pub. L. 94–455, set out as a note under section 3101 of this title.
 
@@ -166,19 +166,19 @@ Amendment by section 1903(a)(13) of Pub. L. 94–455 applicable with respect to 
 
 Amendment by section 104(c) of Pub. L. 91–373 \[amending this section\] to take effect Jan. 1, 1970, see section 104(d)(1) of Pub. L. 91–373, set out as a note under section 3304 of this title.
 
-Section 122(b) of Pub. L. 91–373 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1971.”
+Pub. L. 91–373, title I, §122(b), Aug. 10, 1970, 84 Stat. 702, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1971.”
 
 Amendment by section 142(c)–(e) of Pub. L. 91–373 applicable with respect to taxable year 1972 and taxable years thereafter, see section 142(i) of Pub. L. 91–373, set out as a note under section 3302 of this title.
 
 #### Effective Date of 1954 Amendment
 
-Section 2 of act Sept. 1, 1954, provided that the amendment made by that section is effective after Dec. 31, 1954.
+Act Sept. 1, 1954, ch. 1212, §2, 68 Stat. 1130, provided that the amendment made by that section is effective after Dec. 31, 1954.
 
 #### Treatment of Certain Charitable Organizations Retroactively Determined To Be Described in Section 501(c)(3) of This Title
 
 Pub. L. 98–21, title V, §524, Apr. 20, 1983, 97 Stat. 149, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “If—
 
-&emsp;“(1) an organization did not make an election to make payments (in lieu of contributions) as provided in section 3309(a)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] before April 1, 1972, because such organization, as of such date, was treated as an organization described in section 501(c)(4) of such Code,
+&emsp;“(1) an organization did not make an election to make payments (in lieu of contributions) as provided in section 3309(a)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] before April 1, 1972, becausesuch organization, as of such date, was treated as an organization described in section 501(c)(4) of such Code,
 
 &emsp;“(2) the Internal Revenue Service subsequently determined that such organization was described in section 501(c)(3) of such Code, and
 

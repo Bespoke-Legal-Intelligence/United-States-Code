@@ -116,7 +116,7 @@ Section 6309 of this title, referred to in subsec. (b)(1)(B), was repealed by Pu
 
 #### Effective Date of 1983 Amendment
 
-Section 2 of Pub. L. 98–144 provided that: “The amendment made by the first section of this Act \[amending this section\] shall take effect on the first January 1 that occurs after the two-year period following the date of the enactment of this Act \[Nov. 2, 1983\].”
+Pub. L. 98–144, §2, Nov. 2, 1983, 97 Stat. 917, provided that: “The amendment made by the first section of this Act \[amending this section\] shall take effect on the first January 1 that occurs after the two-year period following the date of the enactment of this Act \[Nov. 2, 1983\].”
 
 #### Effective Date of 1975 Amendment
 
@@ -124,11 +124,11 @@ Pub. L. 94–97 provided that the amendment made by Pub. L. 94–97 is effective
 
 #### Effective Date of 1968 Amendment
 
-Section 2 of Pub. L. 90–363 provided that: “The amendment made by subsection (a) of the first section of this Act \[amending this section\] shall take effect on January 1, 1971.”
+Pub. L. 90–363, §2, June 28, 1968, 82 Stat. 251, provided that: “The amendment made by subsection (a) of the first section of this Act \[amending this section\] shall take effect on January 1, 1971.”
 
 #### References in Laws of the United States to Observances of Legal Public Holidays
 
-Section 1(b) of Pub. L. 90–363 provided that: “Any reference in a law of the United States (in effect on the effective date of the amendment made by subsection (a) of this section) \[January 1, 1971\] to the observance of a legal public holiday on a day other than the day prescribed for the observance of such holiday by section 6103(a) of title 5, United States Code, as amended by subsection (a), shall on and after such effective date be considered a reference to the day for the observance of such holiday prescribed in such amended section 6103(a).”
+Pub. L. 90–363, §1(b), June 28, 1968, 82 Stat. 250, provided that: “Any reference in a law of the United States (in effect on the effective date of the amendment made by subsection (a) of this section) \[January 1, 1971\] to the observance of a legal public holiday on a day other than the day prescribed for the observance of such holiday by section 6103(a) of title 5, United States Code, as amended by subsection (a), shall on and after such effective date be considered a reference to the day for the observance of such holiday prescribed in such amended section 6103(a).”
 
 #### Executive Order No. 10358
 

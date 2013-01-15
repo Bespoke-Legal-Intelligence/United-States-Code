@@ -76,7 +76,7 @@ Pub. L. 109–415, title VII, §703, Dec. 19, 2006, 120 Stat. 2820, which provid
 
 #### Effective Date of 1996 Amendment
 
-Section 13 of Pub. L. 104–146 provided that:
+Pub. L. 104–146, §13, May 20, 1996, 110 Stat. 1374, provided that:
 
 “(a)
 

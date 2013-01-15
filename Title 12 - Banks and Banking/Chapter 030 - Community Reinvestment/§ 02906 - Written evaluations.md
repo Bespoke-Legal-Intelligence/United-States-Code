@@ -68,7 +68,7 @@
 
 #### (2) Multistate metropolitan areas
 
-&emsp;In the case of a regulated financial institution that maintains domestic branches in 2 or more States within a multistate metropolitan area, the appropriate Federal financial supervisory agency shall prepare a separate written evaluation of the institution's record of performance within such metropolitan area under this chapter, as required by subsections (a), (b), and (c) of this section. If the agency prepares a written evaluation pursuant to this paragraph, the scope of the written evaluation required under paragraph (1)(B) shall be adjusted accordingly.
+&emsp;In the case of a regulated financial institution that maintains domestic branches in 2 ormore States within a multistate metropolitan area, the appropriate Federal financial supervisory agency shall prepare a separate written evaluation of the institution's record of performance within such metropolitan area under this chapter, as required by subsections (a), (b), and (c) of this section. If the agency prepares a written evaluation pursuant to this paragraph, the scope of the written evaluation required under paragraph (1)(B) shall be adjusted accordingly.
 
 #### (3) Content of State level evaluation
 

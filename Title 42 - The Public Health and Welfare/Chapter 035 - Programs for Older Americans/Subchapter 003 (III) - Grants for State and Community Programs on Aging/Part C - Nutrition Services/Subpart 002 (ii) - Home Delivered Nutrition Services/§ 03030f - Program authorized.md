@@ -2,7 +2,7 @@
 
 The Assistant Secretary shall establish and carry out a program to make grants to States under State plans approved under section 3027 of this title for the establishment and operation of nutrition projects for older individuals that provide—
 
-&emsp;(1) on 5 or more days a week (except in a rural area where such frequency is not feasible (as defined by the Assistant Secretary by rule)and a lesser frequency is approved by the State agency) at least 1 home delivered meal per day, which may consist of hot, cold, frozen, dried, canned, fresh, or supplemental foods and any additional meals that the recipient of a grant or contract under this subpart elects to provide; and
+&emsp;(1) on 5 or more days a week (except in a rural area where such frequency is not feasible (as defined by the Assistant Secretary by rule) and a lesser frequency is approved by the State agency) at least 1 home delivered meal per day, which may consist of hot, cold, frozen, dried, canned, fresh, or supplemental foods and any additional meals that the recipient of a grant or contract under this subpart elects to provide; and
 
 &emsp;(2) nutrition education, nutrition counseling, and other nutrition services, as appropriate, based on the needs of meal recipients.
 
@@ -14,7 +14,7 @@ The Assistant Secretary shall establish and carry out a program to make grants t
 
 <b>1993</b>—Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner” in two places.
 
-<b>1992</b>—Pub. L. 102–375 inserted “(except in a rural area where such frequency is not feasible (as defined by the Commissioner by regulation) and a lesser frequency is approved by the State agency)” after “week” and struck out before period at end “, each of which assures a minimum of one-third of the daily recommended dietary allowances as established by the Food and Nutrition Board of the National Academy of Sciences-National Research Council”.
+<b>1992</b>—Pub. L. 102–375 inserted “(except in a rural area where such frequency is not feasible (as defined by the Commissioner by regulation) and a lesser frequency is approved by the State agency)” after “week” and struck out before period at end “, each of which assures a minimum of one-third of the daily recommended dietary allowances as established by theFood and Nutrition Board of the National Academy of Sciences-National Research Council”.
 
 #### Effective Date
 

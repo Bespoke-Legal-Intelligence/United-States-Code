@@ -6,7 +6,7 @@ Section 33, act May 10, 1943, ch. 95, §3, 57 Stat. 81, defined “dependents”
 
 #### Effective Date of Repeal
 
-Repeal effective six months after June 7, 1956, see section 307 of act June 7, 1956.
+Repeal effective six months after June 7, 1956, see section 307 of act June 7, 1956, ch. 374, 70 Stat. 254.
 
 #### Repeal of Appropriations
 

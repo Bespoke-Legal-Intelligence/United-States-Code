@@ -18,7 +18,7 @@ Words “regular or special” were omitted and “regular” inserted after “
 
 <b>1990</b>—Pub. L. 101–647, §3580, inserted a comma after “information” the second place it appeared.
 
-Pub. L. 101–647, §2595(b), struck out “or, in the event of an appeal, within 60 days of the date the dismissal of the indictment or information becomes final,” after“the date of the dismissal of the indictment or information” and inserted such language after “within six calendar months of the expiration of the applicable statute of limitations,”.
+Pub. L. 101–647, §2595(b), struck out “or, in the event of an appeal, within 60 days of the date the dismissal of the indictment or information becomes final,” after “the date of the dismissal of the indictment or information” and inserted such language after “within six calendar months of the expiration of the applicable statute of limitations,”.
 
 Pub. L. 101–647, §1213, which directed the striking of “or, in the event of an appeal, within 60 days of the date the dismissal of the indictment or information becomes final,” and the insertion of such language after “within six months of the expiration of the statute of limitations,”, was repealed by Pub. L. 103–322, §330011(q)(2). See above.
 
@@ -30,5 +30,5 @@ Pub. L. 101–647, §1213, which directed the striking of “or, in the event of
 
 #### Effective Date of 1994 Amendment
 
-Section 330011(q)(2) of Pub. L. 103–322 provided that the amendment made by that section is effective as of the date on which section 1213 of Pub. L. 101–647 took effect.
+Pub. L. 103–322, title XXXIII, §330011(q)(2), Sept. 13, 1994, 108 Stat. 2145, provided that the amendment made by that section is effective as of the date on which section 1213 of Pub. L. 101–647 took effect.
 

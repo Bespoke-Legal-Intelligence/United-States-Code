@@ -6,7 +6,7 @@
 
 &emsp;The entities referred to in section 300ff–51(a) of this title are public entities and nonprofit private entities that are—
 
-&emsp;&emsp;(A) federally-qualified health centers under section 1905(<i>l</i>)(2)(B) of the Social Security Act \[42 U.S.C. 1396d(<i>l</i>)(2)(B)\];
+&emsp;&emsp;(A) federally-qualified health centers under section 1905(l)(2)(B) of the Social Security Act \[42 U.S.C. 1396d(l)(2)(B)\];
 
 &emsp;&emsp;(B) grantees under section 300 of this title (regarding family planning) other than States;
 
@@ -52,7 +52,7 @@ The Social Security Act, referred to in subsec. (b)(1), is act Aug. 14, 1935, ch
 
 <b>2006</b>—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
 
-Subsec. (a). Pub. L. 109–415, §302(a), amended heading and text of subsec. (a) generally, substituting provisions listing eligible entities and directing that suchentities serve underserved populations for provisions listing eligible entities.
+Subsec. (a). Pub. L. 109–415, §302(a), amended heading and text of subsec. (a) generally, substituting provisions listing eligible entities and directing that such entities serve underserved populations for provisions listing eligible entities.
 
 <b>2003</b>—Subsec. (a)(2). Pub. L. 108–163 substituted “254b(h)” for “256”.
 

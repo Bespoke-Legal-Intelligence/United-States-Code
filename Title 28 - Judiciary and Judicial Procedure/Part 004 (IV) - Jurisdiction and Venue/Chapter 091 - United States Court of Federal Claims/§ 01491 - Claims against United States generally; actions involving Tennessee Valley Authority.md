@@ -12,7 +12,7 @@
 
 (4) In any action under this subsection, the courts shall review the agency's decision pursuant to the standards set forth in section 706 of title 5.
 
-(5) If an interested party who is a member of the private sector commences an action described in paragraph (1) with respect to a public-private competition conducted under Office of Management and Budget Circular A–76 regarding the performance of an activity or function of a Federal agency, or a decision to convert a function performed by Federal employees to private sector performance without a competitionunder Office of Management and Budget Circular A–76, then an interested party described in section 3551(2)(B) of title 31 shall be entitled to intervene in that action.
+(5) If an interested party who is a member of the private sector commences an action described in paragraph (1) with respect to a public-private competition conducted under Office of Management and Budget Circular A–76 regarding the performance of an activity or function of a Federal agency, or a decision to convert a function performed by Federal employees to private sector performance without a competition under Office of Management and Budget Circular A–76, then an interested party described in section 3551(2)(B) of title 31 shall be entitled to intervene in that action.
 
 (6) Jurisdiction over any action described in paragraph (1) arising out of a maritime contract, or a solicitation for a proposed maritime contract, shall be governed by this section and shall not be subject to the jurisdiction of the district courts of the United States under the Suits in Admiralty Act (chapter 309 of title 46) or the Public Vessels Act (chapter 311 of title 46).
 
@@ -72,7 +72,7 @@ Subsec. (a)(2). Pub. L. 97–164 designated third, fourth, and fifth sentences o
 
 Subsec. (a)(3). Pub. L. 97–164 added par. (3).
 
-Subsec. (b). Pub. L. 97–164 designated existing second undesignated paragraph as subsec. (b) and substituted “United States Claims Court” for “Court of Claims”, “conduct of, the Tennessee Valley Authority, or” for “actions of, the Tennessee Valley Authority, nor”,“Tennessee Valley Authority Act of 1933” for “Tennessee Valley Authority Act of 1933, as amended,”, and “actions by or against the Authority” for “suits by or against the Authority”.
+Subsec. (b). Pub. L. 97–164 designated existing second undesignated paragraph as subsec. (b) and substituted “United States Claims Court” for “Court of Claims”, “conduct of, the Tennessee Valley Authority, or” for “actions of, the Tennessee Valley Authority, nor”, “Tennessee Valley Authority Act of 1933” for “Tennessee Valley Authority Act of 1933, as amended,”, and “actions by or against the Authority” for “suits by or against the Authority”.
 
 <b>1980</b>—Pub. L. 96–417 substituted “Court of Claims of any civil action within the exclusive jurisdiction of the Court of International Trade, or of any action” for “in suits” in second par.
 
@@ -106,13 +106,13 @@ Amendment by Pub. L. 110–161 applicable with respect to fiscal year 2008 and e
 
 #### Effective Date of 1996 Amendment
 
-Section 12(b) of Pub. L. 104–320 provided that: “This section \[amending this section and section 3556 of Title 31, Money and Finance, and enacting provisions set out as notes under this section and section 3556 of Title 31\] and the amendments made by this section shall take effect on December 31, 1996 and shall apply to all actions filed on or after that date.”
+Pub. L. 104–320, §12(b), Oct. 19, 1996, 110 Stat. 3875, provided that: “This section \[amending this section and section 3556 of Title 31, Money and Finance, and enacting provisions set out as notes under this section and section 3556 of Title 31\] and the amendments made by this section shall take effect on December 31, 1996 and shall apply to all actions filed on or after that date.”
 
 #### Effective Date of 1992 Amendment
 
 Amendment by section 902(a) of Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under section 171 of this title.
 
-Section 907(b)(2) of Pub. L. 102–572 provided that: “The amendment made by paragraph (1) \[amending this section\] shall be effective with respect to all actions filed before, on, or after the date of the enactment of this Act \[Oct. 29, 1992\], except for those actions which, before such date of enactment, have been the subject of—
+Pub. L. 102–572, title IX, §907(b)(2), Oct. 29, 1992, 106 Stat. 4519, provided that: “The amendment made by paragraph (1) \[amending this section\] shall be effective with respect to all actions filed before, on, or after the date of the enactment of this Act \[Oct. 29, 1992\], except for those actions which, before such date of enactment, have been the subject of—
 
 &emsp;“(A) a final judgment of the United States Claims Court, if the time for appeal of that judgment has expired without an appeal having been filed, or
 
@@ -132,7 +132,7 @@ Amendment by Pub. L. 95–563 effective with respect to contracts entered into 1
 
 #### Effective Date of 1972 Amendment
 
-Section 2 of Pub. L. 92–415 provided that: “This Act \[amending this section\] shall be applicable to all judicial proceedings pending on or instituted after the date of its enactment \[Aug. 29, 1972\].”
+Pub. L. 92–415, §2, Aug. 29, 1972, 86 Stat. 652, provided that: “This Act \[amending this section\] shall be applicable to all judicial proceedings pending on or instituted after the date of its enactment \[Aug. 29, 1972\].”
 
 #### Effective Date of 1970 Amendment
 
@@ -140,7 +140,7 @@ Amendment by Pub. L. 91–350 applicable to claims and civil actions dismissed b
 
 #### Savings Provision
 
-Section 12(e) of Pub. L. 104–320 provided that:
+Pub. L. 104–320, §12(e), Oct. 19, 1996, 110 Stat. 3875, provided that:
 
 “(1)
 
@@ -156,7 +156,7 @@ Proceedings and applications.—(A) a termination under subsection (d) shall not
 
 #### Sunset Provision
 
-Section 12(d) of Pub. L. 104–320 provided that: “The jurisdiction of the district courts of the United States over the actions described in section 1491(b)(1) of title 28, United States Code (as amended by subsection (a) of this section) shall terminate on January 1, 2001 unless extended by Congress. The savings provisions in subsection (e) \[set out above\] shall apply if the bid protest jurisdiction of the district courts of the United States terminates under this subsection.”
+Pub. L. 104–320, §12(d), Oct. 19, 1996, 110 Stat. 3875, provided that: “The jurisdiction of the district courts of the United States over the actions described in section 1491(b)(1) of title 28, United States Code (as amended by subsection (a) of this section) shall terminate on January 1, 2001 unless extended by Congress. The savings provisions in subsection (e) \[set out above\] shall apply if the bid protest jurisdiction of the district courts of the United States terminates under this subsection.”
 
 #### Transfer of Functions
 

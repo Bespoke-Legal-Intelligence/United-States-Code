@@ -2,7 +2,7 @@
 
 (a) The Secretary may, under contracts with entities described in subsection (f) of this section, or through facilities of the Veterans Health Administration, which possess a demonstrated capability to conduct programs of independent living services for severely handicapped persons, provide, under regulations which the Secretary shall prescribe, programs of independent living services and assistance under this chapter, in various geographic regions of the United States, to veterans described in subsection (b) of this section.
 
-(b) A program of independent living services and assistance may be made available under thissection only to a veteran who has a serious employment handicap resulting in substantial part from a service-connected disability described in section 3102(1)(A)(i) of this title and with respect to whom it is determined under section 3106(d) or (e) of this title that the achievement of a vocational goal currently is not reasonably feasible.
+(b) A program of independent living services and assistance may be made available under this section only to a veteran who has a serious employment handicap resulting in substantial part from a service-connected disability described in section 3102(1)(A)(i) of this title and with respect to whom it is determined under section 3106(d) or (e) of this title that the achievement of a vocational goal currently is not reasonably feasible.
 
 (c) The Secretary shall, to the maximum extent feasible, include among those veterans who are provided with programs of independent living services and assistance under this section substantial numbers of veterans described in subsection (b) of this section who are receiving long-term care in Department of Veterans Affairs hospitals and nursing homes and in nursing homes with which the Secretary contracts for the provision of care to veterans.
 
@@ -12,9 +12,23 @@
 
 (f) Entities described in this subsection are (1) public or nonprofit agencies or organizations, and (2) for-profit entities in cases in which the Secretary determines that services comparable in effectiveness to services available from such an entity are not available, or cannot be obtained cost-effectively from, public or nonprofit agencies or through facilities of the Veterans Health Administration.
 
-(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2185, §1520; amended Pub. L. 99–576, title III, §333(a), (b)(6), (c), Oct. 28, 1986, 100 Stat. 3279; Pub. L. 100–689, title II, §202(b), Nov. 18, 1988, 102 Stat. 4176; Pub. L. 101–237, title IV, §§404, 423(b)(1), Dec. 18, 1989, 103 Stat. 2080, 2092; renumbered §3120 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title XII, §1201(b)(1), (d)(11), Nov. 2, 1994, 108 Stat. 4682, 4684; Pub. L. 104–275, title I, §101(f)(2)(D), (i), Oct. 9, 1996, 110 Stat. 3325; Pub. L. 107–103, title V, §508(a), Dec. 27, 2001, 115 Stat. 997; Pub. L. 110–389, title III, §332, Oct. 10, 2008, 122 Stat. 4170; Pub. L. 111–275, title VIII, §801(a), Oct. 13, 2010, 124 Stat. 2888.)
+(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2185, §1520; amended Pub. L. 99–576, title III, §333(a), (b)(6), (c), Oct. 28, 1986, 100 Stat. 3279; Pub. L. 100–689, title II, §202(b), Nov. 18, 1988, 102 Stat. 4176; Pub. L. 101–237, title IV, §§404, 423(b)(1), Dec. 18, 1989, 103 Stat. 2080, 2092; renumbered §3120 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title XII, §1201(b)(1), (d)(11), Nov. 2, 1994, 108 Stat. 4682, 4684; Pub. L. 104–275, title I, §101(f)(2)(D), (i), Oct. 9, 1996, 110 Stat. 3325; Pub. L. 107–103, title V, §508(a), Dec. 27, 2001, 115 Stat. 997; Pub. L. 110–389, title III, §332, Oct. 10, 2008, 122 Stat. 4170; Pub. L. 111–275, title VIII, §801(a), Oct. 13, 2010, 124 Stat. 2888; Pub. L. 112–154, title VII, §701(c), Aug. 6, 2012, 126 Stat. 1203.)
+
+#### Amendment of Subsection (e)
+
+<i>Pub. L. 112–154, title VII, §701(c), (g), Aug. 6, 2012, 126 Stat. 1203, 1205, provided that, effective on the date that is one year after Aug. 6, 2012, subsection (e) of this section is amended as follows:</i>
+
+<i>(1) by inserting “(1)” before “Programs”; and</i>
+
+<i>(2) by adding at the end the following new paragraph:</i>
+
+<i>(2) The limitation in paragraph (1) shall not apply in any case in which the Secretary determines that a veteran described in subsection (b) has been displaced as the result of, or has otherwise been adversely affected in the areas covered by, a natural or other disaster, as determined by the Secretary.</i>
+
+<i>See 2012 Amendment note below.</i>
 
 #### Amendments
+
+<b>2012</b>—Subsec. (e). Pub. L. 112–154 designated existing provisions as par. (1) and added par. (2).
 
 <b>2010</b>—Subsec. (e). Pub. L. 111–275 substituted “2,700” for “2600”.
 
@@ -77,6 +91,10 @@ Subsec. (b). Pub. L. 99–576, §333(c), amended subsec. (b) generally. Prior to
 &emsp;“(1) the results of a study which the Administrator shall conduct of the accomplishments and cost-effectiveness of such programs, including the extent to which (A) such programs have met needs for comprehensive independent living services that would not otherwise have been met, (B) severely disabled veterans have achieved and maintained greater independence in daily living as a result of participation in the programs, and (C) costs of care in hospital, nursing home, and domiciliary facilities have been and may be avoided as the result of such programs; and
 
 &emsp;“(2) the Administrator's recommendations for any legislative changes with respect to the provision of independent living services and assistance to veterans for whom the achievement of a vocational goal is not feasible.”
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–154 effective on the date that is one year after Aug. 6, 2012, see section 701(g) of Pub. L. 112–154, set out as an Effective Date note under section 2109 of this title.
 
 #### Effective Date of 2010 Amendment
 

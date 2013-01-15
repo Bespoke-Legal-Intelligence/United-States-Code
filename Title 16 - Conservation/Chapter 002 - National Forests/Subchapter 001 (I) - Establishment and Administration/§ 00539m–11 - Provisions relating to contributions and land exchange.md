@@ -30,7 +30,7 @@
 
 #### (4) Treatment of land exchanged or conveyed
 
-&emsp;All land exchanged or conveyed to the Pueblo is declared to be held in trust for the Pueblo by the United States and added to the Pueblo's Reservation subject to all existing and outstanding rights and shall, as a condition of the conveyance, remain in its natural state and shall not be subject to commercial development of any kind. Land exchanged or conveyed to the Forest Service shall be subject to all limitations on use pertaining to the Area under sections 539m to 539m–12 of this title.
+&emsp;All land exchanged or conveyed to the Pueblo is declared to be held in trust for the Puebloby the United States and added to the Pueblo's Reservation subject to all existing and outstanding rights and shall, as a condition of the conveyance, remain in its natural state and shall not be subject to commercial development of any kind. Land exchanged or conveyed to the Forest Service shall be subject to all limitations on use pertaining to the Area under sections 539m to 539m–12 of this title.
 
 #### (5) Failure to make offer
 

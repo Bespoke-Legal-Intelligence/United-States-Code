@@ -82,7 +82,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) the aggregate amount of such payment and all previous payments described in such sections by the payor to the payee during such calendar year equals or exceeds $600,
 
-&emsp;&emsp;(B) the payor was required under section 6041(a) or 6041A(a) to file a return for thepreceding calendar year with respect to payments to the payee, or
+&emsp;&emsp;(B) the payor was required under section 6041(a) or 6041A(a) to file a return for the preceding calendar year with respect to payments to the payee, or
 
 &emsp;&emsp;(C) during the preceding calendar year, the payor made reportable payments to the payee with respect to which amounts were required to be deducted and withheld under subsection (a).
 
@@ -358,7 +358,7 @@ For purposes of this section—
 
 #### (4) Payor defined
 
-&emsp;The term “payor” means, with respect to any reportable payment, a person required tofile a return described in paragraph (2) or (3) of subsection (b) with respect to such payment.
+&emsp;The term “payor” means, with respect to any reportable payment, a person required to file a return described in paragraph (2) or (3) of subsection (b) with respect to such payment.
 
 #### (5) Broker
 
@@ -408,15 +408,11 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 (Added Pub. L. 98–67, title I, §104(a), Aug. 5, 1983, 97 Stat. 371; amended Pub. L. 98–369, div. A, title I, §152(a), title VII, §722(h)(1), (2), July 18, 1984, 98 Stat. 691, 975; Pub. L. 99–514, title XV, §§1521(b), 1523(b)(1), title XVIII, §1899A(46), Oct. 22, 1986, 100 Stat. 2746, 2748, 2961; Pub. L. 100–647, title I, §1018(u)(44), Nov. 10, 1988, 102 Stat. 3592; Pub. L. 102–486, title XIX, §1935(a), Oct. 24, 1992, 106 Stat. 3032; Pub. L. 107–16, title I, §101(c)(10), June 7, 2001, 115 Stat. 44; Pub. L. 110–289, div. C, title III, §3091(c), July 30, 2008, 122 Stat. 2911.)
 
-#### Amendment of Section
-
-<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
-
 #### Amendments
 
 <b>2008</b>—Subsec. (b)(3)(F). Pub. L. 110–289 added subpar. (F).
 
-<b>2001</b>—Subsec. (a)(1). Pub. L. 107–16, §§101(c)(10), 901, temporarily substituted “equal to the product of the fourth lowest rate of tax applicable under section 1(c) and such payment” for “equal to 31 percent of such payment” in concluding provisions. See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Subsec. (a)(1). Pub. L. 107–16 substituted “equal to the product of the fourth lowest rate of tax applicable under section 1(c) and such payment” for “equal to 31 percent of such payment” in concluding provisions.
 
 <b>1992</b>—Subsec. (a)(1). Pub. L. 102–486, in closing provisions, substituted “31 percent” for “20 percent”.
 
@@ -442,7 +438,7 @@ Pub. L. 110–289, div. C, title III, §3091(e), July 30, 2008, 122 Stat. 2911, 
 
 “(1)
 
-In general.—Except as otherwise provided in this subsection, the amendments made by this section \[enacting section 6050W of this title and amending thissection and section 6724 of this title\] shall apply to returns for calendar years beginning after December 31, 2010.
+In general.—Except as otherwise provided in this subsection, the amendments made by this section \[enacting section 6050W of this title and amending this section and section 6724 of this title\] shall apply to returns for calendar years beginning after December 31, 2010.
 
 “(2)
 
@@ -458,17 +454,15 @@ Eligibility for tin matching program.—Solely for purposes of carrying out any 
 
 &emsp;&emsp;“(i) the amendments made this section shall be treated as taking effect on the date of the enactment of this Act \[July 30, 2008\], and
 
-&emsp;&emsp;“(ii) each person responsible for setting the standards and mechanisms referred to in section 6050W(d)(2)(C) of such Code, as added by this section, for settling transactions involving payment cards shall be treated in the same manner as a payment settlement entity.”
+&emsp;&emsp;“(ii) each person responsible for setting the standards and mechanisms referred to in section6050W(d)(2)(C) of such Code, as added by this section, for settling transactions involving payment cards shall be treated in the same manner as a payment settlement entity.”
 
-#### Effective and Termination Dates of 2001 Amendment
+#### Effective Date of 2001 Amendment
 
-Amendment by Pub. L. 107–16 applicable to amounts paid after the 60th day after June 7, 2001, and references to income brackets and rates of tax in such amendment to be applied without regard to section 1(i)(1)(D) of this title, see section 101(d)(2) of Pub. L. 107–16, set out as a note under section 1 of this title.
-
-Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+Amendment by Pub. L. 107–16 applicable to amounts paid after the 60th day after June 7, 2001, and references to income brackets and rates of tax in such amendment to be applied without regard to section 1(i)(1)(D) of this title, see section 101(d)(2) of Pub. L. 107–16, set out as an Effective and Termination Dates of 2001 Amendment note under section 1 of this title.
 
 #### Effective Date of 1992 Amendment
 
-Section 1935(b) of Pub. L. 102–486 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to amounts paid after December 31, 1992.”
+Pub. L. 102–486, title XIX, §1935(b), Oct. 24, 1992, 106 Stat. 3032, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to amounts paid after December 31, 1992.”
 
 #### Effective Date of 1988 Amendment
 
@@ -482,7 +476,7 @@ Amendment by section 1523(b)(1) of Pub. L. 99–514 applicable to payments made 
 
 #### Effective Date of 1984 Amendment
 
-Section 152(b) of Pub. L. 98–369 provided that: “The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[July 18, 1984\].”
+Pub. L. 98–369, div. A, title I, §152(b), July 18, 1984, 98 Stat. 691, provided that: “The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[July 18, 1984\].”
 
 Amendment by section 722(h)(1), (2) of Pub. L. 98–369 applicable as if included in amendments made by Interest and Dividend Tax Compliance Act of 1983, Pub. L. 98–67, see section 722(h)(5)(A) of Pub. L. 98–369, set out as a note under section 643 of this title.
 

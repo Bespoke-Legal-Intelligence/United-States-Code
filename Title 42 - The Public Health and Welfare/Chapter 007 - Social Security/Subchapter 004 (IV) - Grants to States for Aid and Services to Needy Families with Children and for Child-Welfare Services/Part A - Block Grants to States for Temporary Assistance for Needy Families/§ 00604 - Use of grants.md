@@ -28,7 +28,7 @@ A State operating a program funded under this part may apply to a family the rul
 
 &emsp;Subject to paragraph (2), a State may use not more than 30 percent of the amount of any grant made to the State under section 603(a) of this title for a fiscal year to carry out a State program pursuant to any or all of the following provisions of law:
 
-&emsp;&emsp;(A) Division A <sup>1</sup> of subchapter XX of this chapter.
+&emsp;&emsp;(A) Division A of subchapter XX of this chapter.
 
 &emsp;&emsp;(B) The Child Care and Development Block Grant Act of 1990 \[42 U.S.C. 9858 et seq.\].
 
@@ -36,7 +36,7 @@ A State operating a program funded under this part may apply to a family the rul
 
 #### (A) In general
 
-&emsp;&emsp;A State may use not more than the applicable percent of the amount of any grant made to the State under section 603(a) of this title for a fiscal year to carry out State programs pursuant to division A <sup>1</sup> of subchapter XX of this chapter.
+&emsp;&emsp;A State may use not more than the applicable percent of the amount of any grant made to the State under section 603(a) ofthis title for a fiscal year to carry out State programs pursuant to division A <sup>1</sup> of subchapter XX of this chapter.
 
 #### (B) Applicable percent
 
@@ -86,7 +86,7 @@ A State to which a grant is made under section 603 of this title is encouraged t
 
 #### (ii) First home purchase
 
-&emsp;&emsp;&emsp;Qualified acquisition costs with respect to a qualified principal residence for a qualified first-time homebuyer, if paid from an individual development accountdirectly to the persons to whom the amounts are due.
+&emsp;&emsp;&emsp;Qualified acquisition costs with respect to a qualified principal residence for a qualified first-time homebuyer, if paid from an individual development account directly to the persons to whom the amounts are due.
 
 #### (iii) Business capitalization
 
@@ -176,15 +176,15 @@ A State to which a grant is made under section 603 of this title is encouraged t
 
 #### (I) Qualified principal residence
 
-&emsp;&emsp;The term “qualified principal residence” means a principal residence (within themeaning of section 1034 of the Internal Revenue Code of 1986), the qualified acquisition costs of which do not exceed 100 percent of the average area purchase price applicable to such residence (determined in accordance with paragraphs (2) and (3) of section 143(e) of such Code).
+&emsp;&emsp;The term “qualified principal residence” means a principal residence (within the meaning of section 1034 of the Internal Revenue Code of 1986), the qualified acquisition costs of which do not exceed 100 percent of the average area purchase price applicable to such residence (determined in accordance with paragraphs (2) and (3) of section 143(e) of such Code).
 
 #### (i) Sanction welfare recipients for failing to ensure that minor dependent children attend school
 
-A State to which a grant is made under section 603 of this title shall not be prohibited from sanctioning a family that includes an adult who has received assistance under any State program funded under this part attributable to funds provided by the Federal Government or under the supplemental nutrition assistance program, as defined in section 2012(<i>l</i>) of title 7, if such adult fails to ensure that the minor dependent children of such adult attend school as required by the law of the State in which the minor children reside.
+A State to which a grant is made under section 603 of this title shall not be prohibited from sanctioning a family that includes an adult who has received assistance under any State program funded under this part attributable to funds provided by the Federal Government or under the supplemental nutrition assistance program, as defined in section 2012(l) of title 7, if such adult fails to ensure that the minor dependent children of such adult attend school as required by the law of the State in which the minor children reside.
 
 #### (j) Requirement for high school diploma or equivalent
 
-A State to which a grant is made under section 603 of this title shall not be prohibited from sanctioning a family that includes an adult who is older than age 20 and younger than age 51 and who has received assistance under any State program funded under this part attributable to funds provided by the Federal Government or under the supplemental nutrition assistance program, as defined in section 2012(<i>l</i>) of title 7, if such adult does not have, or is not working toward attaining, a secondary school diploma or its recognized equivalent unless such adult has been determined in the judgment of medical, psychiatric, or other appropriate professionals to lack the requisite capacity to complete successfully a course of study that would lead to a secondary school diploma or its recognized equivalent.
+A State to which a grant is made under section 603 of this title shall not be prohibited from sanctioning a family that includes an adult who is older than age 20 and younger than age 51 and who has received assistance under any State program funded under this part attributable to funds provided by the Federal Government or under the supplemental nutrition assistance program, as defined in section 2012(l) of title 7, if such adult does not have, or is not working toward attaining, a secondary school diploma or its recognized equivalent unless such adult has been determined in the judgment of medical,psychiatric, or other appropriate professionals to lack the requisite capacity to complete successfully a course of study that would lead to a secondary school diploma or its recognized equivalent.
 
 #### (k) Limitations on use of grant for matching under certain Federal transportation program
 
@@ -216,25 +216,25 @@ A State to which a grant is made under section 603 of this title shall not be pr
 
 &emsp;The provision by a State of a transportation benefit under a program conducted under section 3037 of the Transportation Equity Act for the 21st Century, to an individual who is not otherwise a recipient of assistance under the State program funded under this part, using funds from a grant made under section 603(a) of this title, shall not be considered to be the provision of assistance to the individual under the State program funded under this part.
 
-(Aug. 14, 1935, ch. 531, title IV, §404, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2124; amended Pub. L. 105–33, title V, §§5002(a), 5503, 5514(c), Aug. 5, 1997, 111 Stat. 593, 609, 620; Pub. L. 105–178, title VIII, §8401(b), June 9, 1998, 112 Stat. 499; Pub. L. 105–200, title IV, §403(a), July 16, 1998, 112 Stat. 670; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §801(d)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–283; Pub. L. 106–169, title IV, §401(<i>l</i>), Dec. 14, 1999, 113 Stat. 1858; Pub. L. 110–234, title IV, §§4002(b)(1)(A), (B), (2)(V), 4115(c)(2)(G), May 22, 2008, 122 Stat. 1095–1097, 1110; Pub. L. 110–246, §4(a), title IV, §§4002(b)(1)(A), (B), (2)(V), 4115(c)(2)(G), June 18, 2008, 122 Stat. 1664, 1857, 1858, 1871; Pub. L. 111–5, div. B, title II, §2103, Feb. 17, 2009, 123 Stat. 449; Pub. L. 111–148, title VI, §6703(d)(2)(A), Mar. 23, 2010, 124 Stat. 803.)
+(Aug. 14, 1935, ch. 531, title IV, §404, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2124; amended Pub. L. 105–33, title V, §§5002(a), 5503, 5514(c), Aug. 5, 1997, 111 Stat. 593, 609, 620; Pub. L. 105–178, title VIII, §8401(b), June 9, 1998, 112 Stat. 499; Pub. L. 105–200, title IV, §403(a), July 16, 1998, 112 Stat. 670; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §801(d)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–283; Pub. L. 106–169, title IV, §401(l), Dec. 14, 1999, 113 Stat. 1858; Pub. L. 110–234, title IV, §§4002(b)(1)(A), (B), (2)(V), 4115(c)(2)(G), May 22, 2008, 122 Stat. 1095–1097, 1110; Pub. L. 110–246, §4(a), title IV, §§4002(b)(1)(A), (B), (2)(V), 4115(c)(2)(G), June 18, 2008, 122 Stat. 1664, 1857, 1858, 1871; Pub. L. 111–5, div. B, title II, §2103, Feb. 17, 2009, 123 Stat. 449; Pub. L. 111–148, title VI, §6703(d)(2)(A), Mar. 23, 2010, 124 Stat. 803; Pub. L. 112–96, title IV, §4005(a), Feb. 22, 2012, 126 Stat. 198.)
 
 #### References in Text
 
 Part F of this subchapter, referred to in subsec. (a)(2), was classified to section 681 et seq. of this title, prior to repeal by Pub. L. 104–193, title I, §108(e), Aug. 22, 1996, 110 Stat. 2167.
 
-Division A of subchapter XX, referred to in subsec. (d)(1)(A), (2), (3)(B), was in the original a reference to subtitle 1 of title XX, which was translated as if referring to subtitle A of title XX of the Social Security Act, to reflect the probable intent of Congress. Title XX of the Act, enacting subchapter XX of this chapter, does not contain a subtitle 1.
-
 The Child Care and Development Block Grant Act of 1990, referred to in subsec. (d)(1)(B), is subchapter C (§658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–236, which is classified generally to subchapter II–B (§9858 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of this title and Tables.
+
+Division A of subchapter XX, referred to in subsec. (d)(2), (3)(B), was in the original a reference to subtitle 1 of title XX, which was translated as if referring to subtitle A of title XX of the Social Security Act, to reflect the probable intent of Congress. Title XX of the Act, enacting subchapter XX of this chapter, does not contain a subtitle 1.
 
 The Internal Revenue Code of 1986, referred to in subsec. (h)(2)(C), (3)(B)(i), (4), (5)(I), is classified generally to Title 26, Internal Revenue Code.
 
-Section 1088(a) of title 20, referred to in subsec. (h)(5)(A)(i), was repealed and section 1088(d) was redesignated section 1088(a), by Pub. L. 105–244, title I, §101(c), Oct. 7, 1998, 112 Stat. 1617. Provisions similar tothose in former section 1088(a)(1) are now contained in section 1002(a)(1) of Title 20, Education.
+Section 1088(a) of title 20, referred to in subsec. (h)(5)(A)(i), was repealed and section 1088(d) was redesignated section 1088(a), by Pub. L. 105–244, title I, §101(c), Oct. 7, 1998, 112 Stat. 1617. Provisions similar to those in former section 1088(a)(1) are now contained in section 1002(a)(1) of Title 20, Education.
 
 Section 1141(a) of title 20, referred to in subsec. (h)(5)(A)(i), was repealed by Pub. L. 105–244, §3, title I, §101(b), title VII, §702, Oct. 7, 1998, 112 Stat. 1585, 1616, 1803, effective Oct. 1, 1998.
 
 Section 2471 of title 20, referred to in subsec. (h)(5)(A)(ii), was omitted in the general amendment of chapter 44 (§2301 et seq.) of Title 20, Education, by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076.
 
-Section 3037 of the Transportation Equity Act for the 21st Century, referred to in subsec. (k)(1), (3), is section 3037 of Pub. L. 105–178, title III, June 9, 1998, 112 Stat. 387, which is set out as a note under section 5309 of Title 49, Transportation.
+Section 3037 of the Transportation Equity Act for the 21st Century, referred to in subsec. (k)(1), (3), is section 3037 of Pub. L. 105–178, title III, June 9, 1998, 112 Stat. 387, which was formerly set out as a note under section 5309 of Title 49, Transportation, and was repealed by Pub. L. 109–59, title III, §3018(c), Aug. 10, 2005, 119 Stat. 1605, effective Oct. 1, 2005.
 
 #### Codification
 
@@ -242,9 +242,11 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Prior Provisions
 
-A prior section 604, acts Aug. 14, 1935, ch. 531, title IV, §404, 49 Stat. 628; Aug. 28, 1950, ch. 809, title III, pt. 6, §361(c), (d), 64 Stat. 558; May 8, 1961, Pub. L. 87–31, §4, 75 Stat. 77; July 25, 1962, Pub. L. 87–543, title I, §§104(a)(5)(B), 107(b), 76 Stat. 185, 189; Jan. 2, 1968, Pub. L. 90–248, title II, §§241(b)(4), 245, 81 Stat. 916, 918; Jan. 4, 1975, Pub. L. 93–647, §101(c)(6)(B), 88 Stat. 2360; July 18, 1984, Pub. L. 98–369, title VI, §2663(<i>l</i>)(1), 98 Stat. 1171, related to deviation from State plan, prior to repeal by Pub. L. 104–193, §103(a)(1), as amended by Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620.
+A prior section 604, acts Aug. 14, 1935, ch. 531, title IV, §404, 49 Stat. 628; Aug. 28, 1950, ch. 809, title III, pt. 6, §361(c), (d), 64 Stat. 558; May 8, 1961, Pub. L. 87–31, §4, 75 Stat. 77; July 25, 1962, Pub. L. 87–543, title I, §§104(a)(5)(B), 107(b), 76 Stat. 185, 189; Jan. 2, 1968, Pub. L. 90–248, title II, §§241(b)(4), 245, 81 Stat. 916, 918; Jan. 4, 1975, Pub. L. 93–647, §101(c)(6)(B), 88 Stat. 2360; July 18, 1984, Pub. L. 98–369, title VI, §2663(l)(1), 98 Stat. 1171, related to deviation from State plan, prior to repeal by Pub. L. 104–193, §103(a)(1), as amended by Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (d)(1)(A). Pub. L. 112–96 made technical amendment to reference in original act which appears in text as reference to division A of subchapter XX.
 
 <b>2010</b>—Subsec. (d)(1)(A). Pub. L. 111–148, §6703(d)(2)(A)(i), inserted “division A of” before “subchapter XX”.
 
@@ -258,7 +260,7 @@ Pub. L. 111–148, §6703(d)(2)(A)(i), inserted “division A of” before “su
 
 <b>2009</b>—Subsec. (e). Pub. L. 111–5 amended subsec. (e) generally. Prior to amendment, text read as follows: “A State or tribe may reserve amounts paid to the State or tribe under this part for any fiscal year for the purpose of providing, without fiscal year limitation, assistance under the State or tribal program funded under this part.”
 
-<b>2008</b>—Subsecs. (i), (j). Pub. L. 110–246, §4115(c)(2)(G), substituted “section 2012(<i>l</i>)” for “section 2012(h)”.
+<b>2008</b>—Subsecs. (i), (j). Pub. L. 110–246, §4115(c)(2)(G), substituted “section 2012(l)” for “section 2012(h)”.
 
 Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(V), substituted “supplemental nutrition assistance program” for “food stamp program” and made technical amendment to reference in original act which appears in text as reference to section 2012(h) of title 7.
 
@@ -286,7 +288,7 @@ Amendment by sections 4002(b)(1)(A), (B), (2)(V) and 4115(c)(2)(G) of Pub. L. 11
 
 #### Effective Date of 1999 Amendments
 
-Pub. L. 106–169, title IV, §401(<i>l</i>), Dec. 14, 1999, 113 Stat. 1858, provided that the amendment made by section 401(<i>l</i>) is effective Dec. 14, 1999.
+Pub. L. 106–169, title IV, §401(l), Dec. 14, 1999, 113 Stat. 1858, provided that the amendment made by section 401(l) is effective Dec. 14, 1999.
 
 For effective date of amendment by Pub. L. 106–113, see section 1000(a)(4) \[title VIII, §801(e)\] of Pub. L. 106–113, set out as a note under section 603 of this title.
 
@@ -296,7 +298,7 @@ Pub. L. 105–178, title VIII, §8401(c), June 9, 1998, 112 Stat. 499, provided 
 
 #### Effective Date of 1997 Amendment
 
-Section 5002(b) of Pub. L. 105–33 provided that: “The amendments made by subsection (a) of this section \[amending this section\] shall take effect as if included in the enactment of section 103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\].”
+Pub. L. 105–33, title V, §5002(b), Aug. 5, 1997, 111 Stat. 594, provided that: “The amendments made by subsection (a) of this section \[amending this section\] shall take effect as if included in the enactment of section 103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\].”
 
 Amendment by section 5503 of Pub. L. 105–33 effective as if included in section 103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, at the time such section 103(a) became law, see section 5518(a) of Pub. L. 105–33, set out as a note under section 602 of this title.
 
@@ -406,7 +408,7 @@ In general.—The term ‘qualified entity’ means—
 
 &emsp;&emsp;&emsp;“(i) one or more not-for-profit organizations described in section 501(c)(3) of the Internal Revenue Code of 1986 \[26 U.S.C. 501(c)(3)\] and exempt from taxation under section 501(a) of such Code;
 
-&emsp;&emsp;&emsp;“(ii) a State or local government agency, or a tribal government, submitting an applicationunder section 405 jointly with an organization described in clause (i); or
+&emsp;&emsp;&emsp;“(ii) a State or local government agency, or a tribal government, submitting an application under section 405 jointly with an organization described in clause (i); or
 
 &emsp;&emsp;&emsp;(iii) an entity that—
 
@@ -440,7 +442,7 @@ Tuition and fees.—Tuition and fees required for the enrollment or attendance o
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II)
 
-Fees, books, supplies, and equipment.—Fees, books, supplies, and equipment required for courses of instruction at an eligible educational institution.
+Fees, books, supplies, and equipment.—Fees, books, supplies, and equipment requiredfor courses of instruction at an eligible educational institution.
 
 &emsp;&emsp;&emsp;“(ii)
 
@@ -672,7 +674,7 @@ Unused Federal Grant Funds Transferred to the Secretary When Project Terminates.
 
 “(a)
 
-In General.—Any individual who is a member of a household that is eligible for assistance under the State temporary assistance for needy families program established under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.), or that meets each of the following requirements shall be eligible to participate in a demonstration project conducted under this title:
+In General.—Any individual who is a member of a household that is eligible for assistance under the State temporary assistance for needy families program established under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.), or that meets each of thefollowing requirements shall be eligible to participate in a demonstration project conducted under this title:
 
 &emsp;“(1)
 
@@ -780,7 +782,7 @@ Timing.—The first report required by subsection (a) shall be submitted not lat
 
 “(a)
 
-Authority To Terminate Demonstration Project.—If the Secretary determines that a qualified entity under this title is not operating a demonstration project in accordance with the entity's approved application under section 405 or the requirements of this title (and has not implemented any corrective recommendations directed by the Secretary), the Secretary shall terminate such entity's authority to conduct the demonstration project.
+Authority To Terminate Demonstration Project.—If the Secretary determines that a qualifiedentity under this title is not operating a demonstration project in accordance with the entity's approved application under section 405 or the requirements of this title (and has not implemented any corrective recommendations directed by the Secretary), the Secretary shall terminate such entity's authority to conduct the demonstration project.
 
 “(b)
 
@@ -862,7 +864,7 @@ Evaluation Expenses.—Of the amount appropriated under section 416 for a fiscal
 
 #### “SEC. 415. NO REDUCTION IN BENEFITS.
 
-“Notwithstanding any other provision of Federal law (other than the Internal Revenue Code of 1986 \[26 U.S.C.1 et seq.\]) that requires consideration of one or more financial circumstances of an individual, for the purpose of determining eligibility to receive, or the amount of, any assistance or benefit authorized by such law to be provided to or for the benefit of such individual, funds (including interest accruing) in an individual development account under this Act \[see Short Title of 1998 Amendment note set out under section 9801 of this title\] shall be disregarded for such purpose with respect to any period during which such individual maintains or makes contributions into such an account.
+“Notwithstanding any other provision of Federal law (other than the Internal Revenue Code of 1986 \[26 U.S.C. 1 et seq.\]) that requires consideration of one or more financial circumstances of an individual, for the purpose of determining eligibility to receive, or the amount of, any assistance or benefit authorized by such law to be provided to or for the benefit of such individual, funds (including interest accruing) in an individual development account under this Act \[see Short Title of 1998 Amendment note set out under section 9801 of this title\] shall be disregarded for such purpose with respect to any period during which such individual maintains or makes contributions into such an account.
 
 #### “SEC. 416. AUTHORIZATION OF APPROPRIATIONS.
 

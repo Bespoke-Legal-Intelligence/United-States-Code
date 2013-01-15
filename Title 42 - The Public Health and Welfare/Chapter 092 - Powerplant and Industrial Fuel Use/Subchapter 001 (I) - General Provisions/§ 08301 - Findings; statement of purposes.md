@@ -12,7 +12,7 @@ The Congress finds that—
 
 The purpose <sup>2</sup> of this chapter, which shall be carried out in a manner consistent with applicable environmental requirements, are—
 
-&emsp;(1) to reduce the importation of petroleum and increase the Nation's capability to use indigenous energy resources of the UnitedStates to the extent such reduction and use further the goal of national energy self-sufficiency and otherwise are in the best interests of the United States;
+&emsp;(1) to reduce the importation of petroleum and increase the Nation's capability to use indigenous energy resources of the United States to the extent such reduction and use further the goal of national energy self-sufficiency and otherwise are in the best interests of the United States;
 
 &emsp;(2) to encourage and foster the greater use of coal and other alternate fuels, in lieu of natural gas and petroleum, as a primary energy source;
 
@@ -48,21 +48,21 @@ Subsec. (b)(3), (4). Pub. L. 100–42, §1(c)(1)(B), redesignated pars. (4) and 
 
 Subsec. (b)(5). Pub. L. 100–42, §1(c)(1), redesignated par. (7) as (5) and struck out “and major fuel-burning installations” after “electric powerplants”. Former par. (5) redesignated (4).
 
-Subsec. (b)(6). Pub. L. 100–42, §1(c)(1), redesignated par. (8) as (6) and struck out “and major fuel-burning installations” after “electric powerplants”, and struck out former par. (6) which related to prohibition or minimization of use of natural gas and petroleum as a primary energy source.
+Subsec. (b)(6). Pub. L. 100–42, §1(c)(1), redesignated par. (8) as (6) and struck out “and major fuel-burninginstallations” after “electric powerplants”, and struck out former par. (6) which related to prohibition or minimization of use of natural gas and petroleum as a primary energy source.
 
 Subsec. (b)(7) to (10). Pub. L. 100–42, §1(c)(1)(B), redesignated former pars. (9) to (12) as (7) to (10), respectively. Former pars. (7) and (8) redesignated (5) and (6), respectively.
 
 #### Effective Date
 
-Section 901 of Pub. L. 95–620 provided that: “Unless otherwise provided in this Act \[see Short Title note set out below\] the provisions of this Act shall take effect 180 days after the date of the enactment of this Act \[Nov. 9, 1978\], except that the Secretary may issue rules pursuant to such provisions at any time after such date of enactment, which rules may take effect no earlier than 180 days after such date of enactment.”
+Pub. L. 95–620, title IX, §901, Nov. 9, 1978, 92 Stat. 3349, provided that: “Unless otherwise provided in this Act \[see Short Title note set out below\] the provisions of this Act shall take effect 180 days after the date of the enactment of this Act \[Nov. 9, 1978\], except that the Secretary may issue rules pursuant to such provisions at any time after such date of enactment, which rules may take effect no earlier than 180 days after such date of enactment.”
 
 #### Short Title
 
-Section 101(a) of Pub. L. 95–620 provided that: “This Act \[enacting this chapter, amending sections 6211 and 7193 of this title, section 796 of Title 15, Commerce and Trade, section 1202 of Title 19, Customs Duties, sections 821, 822 and 825 of Title 45, Railroads, and section 26b of former Title 49, Transportation, and enacting provisions set out as notes under this section and section 822 of Title 45\] may be cited as the ‘Powerplant and Industrial Fuel Use Act of 1978’.”
+Pub. L. 95–620, title I, §101(a), Nov. 9, 1978, 92 Stat. 3289, provided that: “This Act \[enacting this chapter, amending sections 6211 and 7193 of this title, section 796 of Title 15, Commerce and Trade, section 1202 of Title 19, Customs Duties, sections 821, 822 and 825 of Title 45, Railroads, and section 26b of former Title 49, Transportation, and enacting provisions set out as notes under this section and section 822 of Title 45\] may be cited as the ‘Powerplant and Industrial Fuel Use Act of 1978’.”
 
 #### Exemption for Certain Electric Powerplants and Temporary Exemption Issued Under Section 8321(d) as Effective Prior to 180 Days After November 9, 1978
 
-Section 902 of Pub. L. 95–620 provided that:
+Pub. L. 95–620, title IX, §902, Nov. 9, 1978, 92 Stat. 3349, provided that:
 
 “(a)
 

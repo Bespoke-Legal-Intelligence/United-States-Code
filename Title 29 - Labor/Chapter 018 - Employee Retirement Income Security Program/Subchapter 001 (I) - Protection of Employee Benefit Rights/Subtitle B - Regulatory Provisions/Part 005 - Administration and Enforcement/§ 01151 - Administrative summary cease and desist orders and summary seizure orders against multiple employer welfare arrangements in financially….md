@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary may issue a cease and desist (ex parte) order under this subchapter if it appears to the Secretary that the alleged conduct of a multiple employer welfare arrangement described in section 1002(40) of this title, other than a plan or arrangement described in subsection (g), is fraudulent, or creates an immediate danger to the public safety or welfare, or is causing or can be reasonably expected to cause significant, imminent, and irreparable public injury.
+The Secretary may issue a cease and desist (ex parte) order under this subchapter if it appearsto the Secretary that the alleged conduct of a multiple employer welfare arrangement described in section 1002(40) of this title, other than a plan or arrangement described in subsection (g), is fraudulent, or creates an immediate danger to the public safety or welfare, or is causing or can be reasonably expected to cause significant, imminent, and irreparable public injury.
 
 #### (b) Hearing
 

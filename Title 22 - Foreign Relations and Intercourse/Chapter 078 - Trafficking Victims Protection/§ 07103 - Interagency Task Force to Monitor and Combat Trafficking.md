@@ -48,9 +48,13 @@ The Task Force shall carry out the following activities:
 
 &emsp;&emsp;&emsp;(i) educational efforts for, and disciplinary actions taken against, members of the United States Armed Forces;
 
-&emsp;&emsp;&emsp;(ii) the development of materials used to train the armed forces of foreign countries; and
+&emsp;&emsp;&emsp;(ii) the development of materials used to train the armed forces of foreign countries;
 
-&emsp;&emsp;&emsp;(iii) efforts to ensure that United States Government contractors and their employees or United States Government subcontractors and their employees do not engage in trafficking in persons;
+&emsp;&emsp;&emsp;(iii) all known trafficking in persons cases reported to the Under Secretary of Defense for Personnel and Readiness;
+
+&emsp;&emsp;&emsp;(iv) efforts to ensure that United States Government contractors and their employees or United States Government subcontractors and their employees do not engage in trafficking in persons; and
+
+&emsp;&emsp;&emsp;(v) all trafficking in persons activities of contractors reported to the Under Secretary of Defense for Acquisition, Technology, and Logistics;
 
 &emsp;&emsp;(I) activities or actions by Federal departments and agencies to enforce—
 
@@ -112,13 +116,13 @@ The Task Force shall carry out the following activities:
 
 #### (4) Availability of information
 
-&emsp;Each Federal department or agency represented on the Operating Group shall fully share all information with such Group regarding the department or agency's plans, before and after final agency decisions are made, on all matters relating to grants, grant policies, and other significant actions regarding the international trafficking in persons and the implementation of this chapter.
+&emsp;Each Federal department or agency represented on the Operating Group shall fully share all information with such Group regarding the department or agency's plans, beforeand after final agency decisions are made, on all matters relating to grants, grant policies, and other significant actions regarding the international trafficking in persons and the implementation of this chapter.
 
 #### (5) Regulations
 
 &emsp;Not later than 90 days after December 19, 2003, the President shall promulgate regulations to implement this section, including regulations to carry out paragraph (4).
 
-(Pub. L. 106–386, div. A, §105, Oct. 28, 2000, 114 Stat. 1473; Pub. L. 108–193, §6(a)(1), (b)(1), (c)(1), Dec. 19, 2003, 117 Stat. 2880, 2881; Pub. L. 109–164, title I, §104(a), title II, §205, Jan. 10, 2006, 119 Stat. 3564, 3571; Pub. L. 110–457, title I, §§101, 102, title II, §231, title III, §304(a), Dec. 23, 2008, 122 Stat. 5045, 5072, 5087.)
+(Pub. L. 106–386, div. A, §105, Oct. 28, 2000, 114 Stat. 1473; Pub. L. 108–193, §6(a)(1), (b)(1), (c)(1), Dec. 19, 2003, 117 Stat. 2880, 2881; Pub. L. 109–164, title I, §104(a), title II, §205, Jan. 10, 2006, 119 Stat. 3564, 3571; Pub. L. 110–457, title I, §§101, 102, title II, §231, title III, §304(a), Dec. 23, 2008, 122 Stat. 5045, 5072, 5087; Pub. L. 112–239, div. A, title XVII, §1707, Jan. 2, 2013, 126 Stat. 2098.)
 
 #### References in Text
 
@@ -133,6 +137,8 @@ Executive Order 13107, referred to in subsec. (d)(7)(I)(iii), is set out as a no
 Executive Order No. 13257, referred to in subsec. (f)(2)(A), is set out as a note below.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (d)(7)(H)(iii) to (v). Pub. L. 112–239 added cls. (iii) and (v) redesignated former cl. (iii) as (iv).
 
 <b>2008</b>—Subsec. (b). Pub. L. 110–457, §101, inserted “the Secretary of Education,” after “the Secretary of Homeland Security,”.
 

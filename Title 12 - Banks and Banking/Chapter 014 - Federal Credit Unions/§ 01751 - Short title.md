@@ -20,7 +20,7 @@ Farm Credit Administration transferred to Department of Agriculture by Reorg. Pl
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–219, §1(a), Aug. 7, 1998, 112 Stat. 913, provided that: “This Act \[enacting sections 1757a and 1790d of this title, amending sections 1752a, 1759, 1782, and 1784 to 1787 of this title, repealing section 1762 of this title, and enacting provisions set out as notes underthis section and sections 1752a, 1757a, 1759, 1790d, 4801, and 4803 of this title\] may be cited as the ‘Credit Union Membership Access Act’.”
+Pub. L. 105–219, §1(a), Aug. 7, 1998, 112 Stat. 913, provided that: “This Act \[enacting sections 1757a and 1790d of this title, amending sections 1752a, 1759, 1782, and 1784 to 1787 of this title, repealing section 1762 of this title, and enacting provisions set out as notes under this section and sections 1752a, 1757a, 1759, 1790d, 4801, and 4803 of this title\] may be cited as the ‘Credit Union Membership Access Act’.”
 
 #### Short Title of 1987 Amendment
 

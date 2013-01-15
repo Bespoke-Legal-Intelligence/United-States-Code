@@ -48,9 +48,9 @@ The Board may issue such regulations and orders, including definitions consisten
 
 #### Effective Date
 
-Section 308(c) of Pub. L. 102–242 provided that: “The amendment made by this section \[enacting this section\] shall become effective 1 year after the date of enactment of this Act \[Dec. 19, 1991\].”
+Pub. L. 102–242, title III, §308(c), Dec. 19, 1991, 105 Stat. 2363, provided that: “The amendment made by this section \[enacting this section\] shall become effective 1 year after the date of enactment of this Act \[Dec. 19, 1991\].”
 
 #### Regulations
 
-Section 308(b) of Pub. L. 102–242 provided that: “The Board shall prescribe reasonable transition rules to facilitate compliance with section 23 of the Federal Reserve Act \[12 U.S.C. 371b–2\] (as added by subsection (a)).”
+Pub. L. 102–242, title III, §308(b), Dec. 19, 1991, 105 Stat. 2362, provided that: “The Board shall prescribe reasonable transition rules to facilitate compliance with section 23 of the Federal Reserve Act \[12 U.S.C. 371b–2\] (as added by subsection (a)).”
 

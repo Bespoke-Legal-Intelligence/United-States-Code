@@ -58,7 +58,7 @@
 
 #### (c) Regulations
 
-The Bureau shall prescribe regulations to implement the requirements of this section and,from time to time, provide guidance in order to further coordinate actions with the State attorneys general and other regulators.
+The Bureau shall prescribe regulations to implement the requirements of this section and, from time to time, provide guidance in order to further coordinate actions with the State attorneys general and other regulators.
 
 #### (d) Preservation of State authority
 

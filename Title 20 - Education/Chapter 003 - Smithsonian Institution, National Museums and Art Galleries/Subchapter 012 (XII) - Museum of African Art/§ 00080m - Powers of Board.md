@@ -2,7 +2,7 @@
 
 #### (a) Acquisition, retention, and disposition of property; research and education programs
 
-For the purpose of carrying out sections 80k and 80<i>l</i> of this title, the Board may—
+For the purpose of carrying out sections 80k and 80l of this title, the Board may—
 
 &emsp;(1) purchase, accept, borrow, or otherwise acquire additional works of art or any other real or personal property for the Museum;
 

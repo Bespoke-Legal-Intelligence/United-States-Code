@@ -30,5 +30,5 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 #### Effective Date
 
-Section 1234(c) of Pub. L. 98–525 provided that: “Section 2402 of title 10, United States Code (as added by subsection (a)), shall take effect at the end of the 180-day period beginning on the date of the enactment of this Act \[Oct. 19, 1984\].”
+Pub. L. 98–525, title XII, §1234(c), Oct. 19, 1984, 98 Stat. 2604, provided that: “Section 2402 of title 10, United States Code (as added by subsection (a)), shall take effect at the end of the 180-day period beginning on the date of the enactment of this Act \[Oct. 19, 1984\].”
 

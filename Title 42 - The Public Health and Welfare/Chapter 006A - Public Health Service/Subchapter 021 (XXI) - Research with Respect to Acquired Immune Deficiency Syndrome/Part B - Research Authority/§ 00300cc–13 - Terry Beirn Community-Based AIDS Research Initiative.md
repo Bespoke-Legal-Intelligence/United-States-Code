@@ -74,7 +74,7 @@ Reference to community health center, migrant health center, public housing heal
 
 #### Findings and Sense of Congress
 
-Section 2 of Pub. L. 102–96 provided that:
+Pub. L. 102–96, §2, Aug. 14, 1991, 105 Stat. 481, provided that:
 
 “(a)
 

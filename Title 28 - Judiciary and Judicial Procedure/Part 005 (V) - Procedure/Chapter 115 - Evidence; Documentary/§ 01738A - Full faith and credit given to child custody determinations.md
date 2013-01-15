@@ -86,7 +86,7 @@ Pub. L. 106–386, div. B, title III, §1303(a)–(c), Oct. 28, 2000, 114 Stat. 
 
 In General.—The Attorney General shall—
 
-&emsp;“(1) conduct a study of Federal and State laws relating to child custody, including custody provisions in protection orders, the Uniform Child Custody Jurisdiction and Enforcement Act adopted by the National Conference of Commissioners on Uniform State Laws in July 1997, the Parental Kidnaping Prevention Act of 1980 \[see Short Title of 1980 Amendments note set out under section 1305 of Title 42, The Public Health and Welfare\] and the amendments made by that Act, and the effect of those laws on child custody cases in which domestic violence is a factor; and
+&emsp;“(1) conduct a study of Federal and State laws relating to child custody, including custody provisionsin protection orders, the Uniform Child Custody Jurisdiction and Enforcement Act adopted by the National Conference of Commissioners on Uniform State Laws in July 1997, the Parental Kidnaping Prevention Act of 1980 \[see Short Title of 1980 Amendments note set out under section 1305 of Title 42, The Public Health and Welfare\] and the amendments made by that Act, and the effect of those laws on child custody cases in which domestic violence is a factor; and
 
 &emsp;“(2) submit to Congress a report describing the results of that study, including the effects of implementing or applying model State laws, and the recommendations of the Attorney General to reduce the incidence or pattern of violence against women or of sexual assault of the child.
 
@@ -102,7 +102,7 @@ Authorization of Appropriations.—There is authorized to be appropriated to car
 
 #### Congressional Findings and Declaration of Purpose
 
-Section 7 of Pub. L. 96–611 provided that:
+Pub. L. 96–611, §7, Dec. 28, 1980, 94 Stat. 3568, provided that:
 
 “(a) The Congress finds that—
 
@@ -132,7 +132,7 @@ Section 7 of Pub. L. 96–611 provided that:
 
 #### State Court Proceedings for Custody Determinations; Priority Treatment; Fees, Costs, and Other Expenses
 
-Section 8(c) of Pub. L. 96–611 provided that: “In furtherance of the purposes of section 1738A of title 28, United States Code, as added by subsection (a) of this section, State courts are encouraged to—
+Pub. L. 96–611, §8(c), Dec. 28, 1980, 94 Stat. 3571, provided that: “In furtherance of the purposes of section 1738A of title 28, United States Code, as added by subsection (a) of this section, State courts are encouraged to—
 
 &emsp;“(1) afford priority to proceedings for custody determinations; and
 

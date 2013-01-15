@@ -2,7 +2,7 @@
 
 (a) Any retired Chief Justice of the United States or Associate Justice of the Supreme Court may be designated and assigned by the Chief Justice of the United States to perform such judicial duties in any circuit, including those of a circuit justice, as he is willing to undertake.
 
-(b) Any judge of the United States who has retired from regular active service under section371(b) or 372(a) of this title shall be known and designated as a senior judge and may continue to perform such judicial duties as he is willing and able to undertake, when designated and assigned as provided in subsections (c) and (d).
+(b) Any judge of the United States who has retired from regular active service under section 371(b) or 372(a) of this title shall be known and designated as a senior judge and may continue to perform such judicial duties as he is willing and able to undertake, when designated and assigned as provided in subsections (c) and (d).
 
 (c) Any retired circuit or district judge may be designated and assigned by the chief judge or judicial council of his circuit to perform such judicial duties within the circuit as he is willing and able to undertake. Any other retired judge of the United States may be designated and assigned by the chief judge of his court to perform such judicial duties in such court as he is willing and able to undertake.
 
@@ -10,7 +10,7 @@
 
 (e) No retired justice or judge shall perform judicial duties except when designated and assigned.
 
-(June 25, 1948, ch. 646, 62 Stat. 901; July 9, 1956, ch. 517, §1(c), 70 Stat. 497; Pub. L. 85–219, Aug. 29, 1957, 71 Stat. 495; Pub. L. 85–755, §5, Aug. 25, 1958, 72 Stat. 849; Pub. L. 95–598, title II, §206, Nov. 6, 1978, 92 Stat. 2660.)
+(June 25, 1948, ch. 646, 62 Stat. 901; July 9, 1956, ch. 517, §1(c), 70 Stat. 497; Pub. L. 85–219, Aug. 29,1957, 71 Stat. 495; Pub. L. 85–755, §5, Aug. 25, 1958, 72 Stat. 849; Pub. L. 95–598, title II, §206, Nov. 6, 1978, 92 Stat. 2660.)
 
 #### Historical and Revision Notes
 

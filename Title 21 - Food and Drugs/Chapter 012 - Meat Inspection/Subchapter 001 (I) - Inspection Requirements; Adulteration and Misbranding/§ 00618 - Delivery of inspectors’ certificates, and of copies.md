@@ -2,7 +2,7 @@
 
 The inspectors provided for under this subchapter shall be authorized to give official certificates of the condition of the carcasses and products of amenable species; and one copy of every certificate granted under the provisions of this chapter shall be filed in the Department of Agriculture, another copy shall be delivered to the owner or shipper, and when the amenable species, or their carcasses and products are sent abroad, a third copy shall be delivered to the chief officer of the vessel on which the shipment shall be made.
 
-(Mar. 4, 1907, ch. 2907, title I, §18, formerly 16th par., 34 Stat. 1263; renumbered §18 and amended Pub. L. 90–201, §§1, 12(a), (h), Dec. 15, 1967, 81 Stat. 584, 592; Pub. L. 107–171, title X, §10418(b)(4), May 13, 2002, 116 Stat. 508; Pub. L. 109–97, title VII, §798\[(a)\](1), Nov. 10, 2005, 119 Stat. 2166.)
+(Mar. 4, 1907, ch. 2907, title I, §18, formerly 16th par., 34 Stat. 1263; renumbered §18 and amendedPub. L. 90–201, §§1, 12(a), (h), Dec. 15, 1967, 81 Stat. 584, 592; Pub. L. 107–171, title X, §10418(b)(4), May 13, 2002, 116 Stat. 508; Pub. L. 109–97, title VII, §798\[(a)\](1), Nov. 10, 2005, 119 Stat. 2166.)
 
 #### Codification
 

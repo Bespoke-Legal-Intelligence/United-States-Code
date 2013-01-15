@@ -1,6 +1,6 @@
 ### §305. Transportation investment standards and criteria
 
-(a) Subject to sections 301–304 of this title, the Secretary of Transportation shall develop standards and criteria to formulate and economically evaluate all proposals for investing amounts of the United States Government in transportation facilities and equipment. Based on experience, the Secretary shall revise the standards and criteria. When approved by Congress, the Secretary shall prescribe standards and criteria developed or revised under this subsection. This subsection does not apply to—
+(a) Subject to sections 301–304 <sup>1</sup> of this title, the Secretary of Transportation shall develop standards and criteria to formulate and economically evaluate all proposals for investing amounts of the United States Government in transportation facilities and equipment. Basedon experience, the Secretary shall revise the standards and criteria. When approved by Congress, the Secretary shall prescribe standards and criteria developed or revised under this subsection. This subsection does not apply to—
 
 &emsp;(1) the acquisition of transportation facilities or equipment by a department, agency, or instrumentality of the Government to provide transportation for its use;
 
@@ -61,4 +61,10 @@ In subsection (a), before clause (1), the words “consistent with national tran
 The text of 49:1656(a) (last par.) that provided that the Secretary of Transportation was a member of the Water Resources Council on matters pertaining to navigation features of water resource projects is omitted as superseded because 42:1962(a) gave the Secretary membership on the Council without limitation.
 
 In subsection (b)(2), the words “unit of” before “governments” are omitted as surplus. In clause (3), the word “thereafter” after “send” is omitted as surplus.
+
+#### References in Text
+
+Section 304 of this title, referred to in subsec. (a), was amended generally by Pub. L. 112–141, div. A, title I, §1314(a), July 6, 2012, 126 Stat. 547.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

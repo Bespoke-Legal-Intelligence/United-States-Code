@@ -8,7 +8,7 @@
 
 &emsp;(2) the time of such veteran's discharge or release from any period of active duty for training or inactive duty training, if such veteran's death results from service-connected disability incurred during such period and if such veteran was not thereafter discharged or released under conditions other than dishonorable from active duty.
 
-(c) The pay grade of any veteran described in section 106(b) of this title shall be that to which such veteran would have been assigned upon final acceptance or entry upon active duty.
+(c) The pay grade of any veteran described in section 106(b) of this title shall be that to whichsuch veteran would have been assigned upon final acceptance or entry upon active duty.
 
 (d) If a veteran has satisfactorily served on active duty for a period of six months or more in a pay grade higher than that specified in subsection (a) or (b) and any subsequent discharge or release from active duty was under conditions other than dishonorable, the higher pay grade shall be used if it will result in greater monthly payments to such veteran's surviving spouse under this chapter. The determination as to whether an individual has served satisfactorily for the required period in a higher pay grade shall be made by the Secretary of the department in which such higher pay grade was held.
 
@@ -40,7 +40,7 @@ Subsec. (e). Pub. L. 94–433, §405(3), substituted “such person's” for “
 
 <b>1969</b>—Pub. L. 91–96 substituted “Determination of pay grade” for “Computation of basic pay” in section catchline.
 
-Subsec. (a). Pub. L. 91–96 substituted provisions determining the pay grade of a veteran who died in the active service for provisions determining the basic pay of a veteran who died in the active service as that prescribed on Jan. 1, 1957, or on the date of his death\(whichever is the later date) for a member of a uniformed service on active duty of the same rank and years of service.
+Subsec. (a). Pub. L. 91–96 substituted provisions determining the pay grade of a veteran who died in the active service for provisions determining the basic pay of a veteran who died in the active service as that prescribed on Jan. 1, 1957, or on the date of his death (whichever is the later date) for a member of a uniformed service on active duty of the same rank and years of service.
 
 Subsec. (b). Pub. L. 91–96 substituted provisions determining the pay grade of a veteran who did not die in the active service for provisions determining the basic pay of a veteran who did not die in the active service as that prescribed on Jan. 1, 1957, or on the date of his death (whichever is the later date) for a member of a uniformed service on active duty of the same rank and years of service.
 
@@ -60,13 +60,13 @@ Amendment by Pub. L. 94–433 effective Oct. 1, 1976, see section 406 of Pub. L.
 
 #### Effective Date of 1971 Amendment
 
-Section 3 of Pub. L. 92–169 provided that: “For the purposes of chapter 13 of title 38, United States Code, this Act \[amending this section and section 552 of Title 37, Pay and Allowances of the Uniformed Services\] becomes effective upon the date of enactment \[Nov. 24, 1971\]. For all other purposes this Act becomes effective as of February 28, 1961.”
+Pub. L. 92–169, §3, Nov. 24, 1971, 85 Stat. 489, provided that: “For the purposes of chapter 13 of title 38, United States Code, this Act \[amending this section and section 552 of Title 37, Pay and Allowances of the Uniformed Services\] becomes effective upon the date of enactment \[Nov. 24, 1971\]. For all other purposes this Act becomes effective as of February 28, 1961.”
 
 #### Effective Date of 1969 Amendment
 
-Section 8 of Pub. L. 91–96 provided that: “This Act \[amending this section and sections 322 \[now 1122\], 401 \[now 1301\], 403, 411 \[now 1311\], and 421 \[now 1321\] of this title\] shall take effect on the first day of the second calendar month which begins after the date of enactment \[Oct. 27, 1969\].”
+Pub. L. 91–96, §8, Oct. 27, 1969, 83 Stat. 146, provided that: “This Act \[amending this section and sections 322 \[now 1122\], 401 \[now 1301\], 403, 411 \[now 1311\], and 421 \[now 1321\] of this title\] shall take effect on the first day of the second calendar month which begins after the date of enactment \[Oct. 27, 1969\].”
 
 #### Effective Date of 1966 Amendment
 
-Section 2 of Pub. L. 89–622 provided that: “The amendment made by this Act \[amending this section\] shall take effect on the first day of the second calendar month after the date of enactment of this Act \[Oct. 4, 1966\].”
+Pub. L. 89–622, §2, Oct. 4, 1966, 80 Stat. 873, provided that: “The amendment made by this Act \[amending this section\] shall take effect on the first day of the second calendar month after the date of enactment of this Act \[Oct. 4, 1966\].”
 

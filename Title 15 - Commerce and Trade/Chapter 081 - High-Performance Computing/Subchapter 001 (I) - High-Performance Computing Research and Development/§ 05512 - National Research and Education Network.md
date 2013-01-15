@@ -20,7 +20,7 @@ The Network shall—
 
 &emsp;(4) be designed, developed, and operated in a manner which promotes research and development leading to development of commercial data communications and telecommunications standards, whose development will encourage the establishment of privately operated high-speed commercial networks;
 
-&emsp;(5) be designed and operated so as to ensure the continued application of laws that providenetwork and information resources security measures, including those that protect copyright and other intellectual property rights, and those that control access to data bases and protect national security;
+&emsp;(5) be designed and operated so as to ensure the continued application of laws that provide network and information resources security measures, including those that protect copyright and other intellectual property rights, and those that control access to data bases and protect national security;
 
 &emsp;(6) have accounting mechanisms which allow users or groups of users to be charged for their usage of copyrighted materials available over the Network and, where appropriate and technically feasible, for their usage of the Network;
 
@@ -38,7 +38,7 @@ As part of the Program, the Department of Defense, through the Defense Advanced 
 
 #### (e) Information services
 
-The Director shall assist the President in coordinating the activities of appropriate agencies and departments to promote the development of information services that could be provided over the Network. These services may include the provision of directories of the users and services on computer networks, data bases of unclassified Federal scientific data, training of users of data bases and computer networks, access to commercial information services for users of the Network, and technology to support computer-based collaboration that allows researchers and educators around the Nation to share information and instrumentation.
+The Director shall assist the President in coordinating the activities of appropriate agencies and departments to promote the development ofinformation services that could be provided over the Network. These services may include the provision of directories of the users and services on computer networks, data bases of unclassified Federal scientific data, training of users of data bases and computer networks, access to commercial information services for users of the Network, and technology to support computer-based collaboration that allows researchers and educators around the Nation to share information and instrumentation.
 
 #### (f) Use of grant funds
 

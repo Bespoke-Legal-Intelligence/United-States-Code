@@ -40,7 +40,7 @@ In any Y2K action that is maintained as a class action, the court, in addition t
 
 &emsp;&emsp;(D) there are less than 100 members of the proposed plaintiff class.
 
-> &emsp;A party urging that any exception described in subparagraph (A), (B), (C), or (D) applies to anaction shall bear the full burden of demonstrating the applicability of the exception.
+> &emsp;A party urging that any exception described in subparagraph (A), (B), (C), or (D) applies to an action shall bear the full burden of demonstrating the applicability of the exception.
 
 #### (3) Procedure if requirements not met
 

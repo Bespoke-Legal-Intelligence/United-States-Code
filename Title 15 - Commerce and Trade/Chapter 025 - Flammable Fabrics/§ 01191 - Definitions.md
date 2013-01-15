@@ -32,7 +32,7 @@ The Federal Trade Commission Act, referred to in par. (j), is act Sept. 26, 1914
 
 <b>2008</b>—Par. (i). Pub. L. 110–314 added par. (i) and struck out former par. (i) which read as follows: “The term ‘Commission’ means the Federal Trade Commission.”
 
-<b>1967</b>—Par. (b). Pub. L. 90–189, §1(1), reduced from capital to lower-case the first letter of “territory” wherever appearing and redefined “commerce” to includecommerce between the Commonwealth of Puerto Rico and any State or territory or foreign nation or the District of Columbia.
+<b>1967</b>—Par. (b). Pub. L. 90–189, §1(1), reduced from capital to lower-case the first letter of “territory” wherever appearing and redefined “commerce” to include commerce between the Commonwealth of Puerto Rico and any State or territory or foreign nation or the District of Columbia.
 
 Par. (c). Pub. L. 90–189, §1(2), reduced from capital to lower-case the first letter of “territory” wherever appearing.
 
@@ -46,19 +46,19 @@ Pars. (g) to (j). Pub. L. 90–189, §1(5), (8), added pars. (g) and (h) and red
 
 #### Effective Date
 
-Section 12 of act June 30, 1953, provided: “This Act \[enacting this chapter\] shall take effect one year after the date of its passage \[June 30, 1953\].”
+Act June 30, 1953, ch. 164, §12, 67 Stat. 115, provided: “This Act \[enacting this chapter\] shall take effect one year after the date of its passage \[June 30, 1953\].”
 
 #### Short Title
 
-Section 1 of act June 30, 1953, provided: “This Act \[enacting this chapter\] may be cited as the ‘Flammable Fabrics Act’.”
+Act June 30, 1953, ch. 164, §1, 67 Stat. 111, provided: “This Act \[enacting this chapter\] may be cited as the ‘Flammable Fabrics Act’.”
 
 #### Savings Provision
 
-Section 11 of Pub. L. 90–189 provided that: “Notwithstanding the provisions of this Act \[amending this section and sections 1192 to 1195, 1197, 1198, and 1200 of this title and enacting sections 1201 to 1204 of this title\], the standards of flammability in effect under the provisions of the Flammable Fabrics Act, as amended \[this chapter\], on the day preceding the date of enactment of this Act \[Dec. 14, 1967\], shall continue in effect for the fabrics and articles of wearing apparel to which they are applicable until superseded or modified by the Secretary of Commerce pursuant to the authority conferred by the amendments made by this Act.”
+Pub. L. 90–189, §11, Dec. 14, 1967, 81 Stat. 574, provided that: “Notwithstanding the provisions of this Act \[amending this section and sections 1192 to 1195, 1197, 1198, and 1200 of this title and enacting sections 1201 to 1204 of this title\], the standards of flammability in effect under the provisions of the Flammable Fabrics Act, as amended \[this chapter\], on the day preceding the date of enactment of this Act \[Dec. 14, 1967\], shall continue in effect for the fabrics and articles of wearing apparel to which they are applicable until superseded or modified by the Secretary of Commerce pursuant to the authority conferred by the amendments made by this Act.”
 
 #### Appropriations
 
-Section 13 of act June 30, 1953, as amended by Pub. L. 90–189, §9, Dec. 14, 1967, 81 Stat. 573; Pub. L. 92–542, Oct. 25, 1972, 86 Stat. 1108, appropriated $1,500,000 for the fiscal year ending June 30, 1968, $2,250,000 each for the fiscal year ending June 30, 1969, and the fiscal year ending June 30, 1970, and $4,000,000 for the fiscal year ending June 30, 1973, to carry out the provisions of this chapter.
+Act June 30, 1953, ch. 164, §13, 67 Stat. 115, as amended by Pub. L. 90–189, §9, Dec. 14, 1967, 81 Stat. 573; Pub. L. 92–542, Oct. 25, 1972, 86 Stat. 1108, appropriated $1,500,000 for the fiscal year ending June 30, 1968, $2,250,000 each for the fiscal year ending June 30, 1969, and the fiscal year ending June 30, 1970, and $4,000,000 for the fiscal year ending June 30, 1973, to carry out the provisions of this chapter.
 
 #### Hazardous Substances
 

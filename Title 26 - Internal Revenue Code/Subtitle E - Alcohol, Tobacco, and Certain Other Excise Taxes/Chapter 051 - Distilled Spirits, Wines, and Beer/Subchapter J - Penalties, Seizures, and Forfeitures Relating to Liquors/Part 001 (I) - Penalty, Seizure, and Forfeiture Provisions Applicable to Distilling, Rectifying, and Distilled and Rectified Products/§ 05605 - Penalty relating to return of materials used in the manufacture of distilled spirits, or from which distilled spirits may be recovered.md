@@ -1,6 +1,6 @@
 ### §5605. Penalty relating to return of materials used in the manufacture of distilled spirits, or from which distilled spirits may be recovered
 
-Any person who willfully violates any provision of section 5291(a), or of any regulation issued pursuant thereto, and any officer, director, or agent of any such person who knowingly participates in such violation, shall be fined not more than $1,000, or imprisoned not more than 2 years, or both.
+Any person who willfully violates any provision of section 5291(a), or of any regulation issued pursuant thereto, and any officer, director,or agent of any such person who knowingly participates in such violation, shall be fined not more than $1,000, or imprisoned not more than 2 years, or both.
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1402.)
 

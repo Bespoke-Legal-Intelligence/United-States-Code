@@ -68,7 +68,7 @@ For purposes of this section—
 
 &emsp;The term “amount involved” means, with respect to any act of self-dealing, the greater of the amount of money and the fair market value of the other property given or the amount of money and the fair market value of the other property received; except that in the case of services described in subsection (d)(2)(C), the amount involved shall be only the excess compensation. For purposes of the preceding sentence, the fair market value—
 
-&emsp;&emsp;(A) in the case of the taxes imposed by subsection (a), shall be determined as of thedate on which the act of self-dealing occurs; and
+&emsp;&emsp;(A) in the case of the taxes imposed by subsection (a), shall be determined as of the date on which the act of self-dealing occurs; and
 
 &emsp;&emsp;(B) in the case of taxes imposed by subsection (b), shall be the highest fair market value during the taxable period.
 

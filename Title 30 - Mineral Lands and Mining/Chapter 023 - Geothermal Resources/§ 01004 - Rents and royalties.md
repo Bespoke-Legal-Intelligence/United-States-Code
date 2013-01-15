@@ -84,7 +84,7 @@ Any annual rental under this section that is paid with respect to a lease before
 
 #### (1) In general
 
-&emsp;Subject to paragraphs (2) and (3), if, at any time after commercial production under a lease is achieved, production ceases for any reason, the lease shall remain in full force and effect for a period of not more than an aggregate number of 10 years beginning on the date production ceases, if, during the period in which production is ceased, the lessee pays royalties in advance at the monthly average rate at which the royalty was paid during the period of production.
+&emsp;Subject to paragraphs (2) and (3), if, at any time after commercial production under a lease is achieved, production ceases for anyreason, the lease shall remain in full force and effect for a period of not more than an aggregate number of 10 years beginning on the date production ceases, if, during the period in which production is ceased, the lessee pays royalties in advance at the monthly average rate at which the royalty was paid during the period of production.
 
 #### (2) Reduction
 

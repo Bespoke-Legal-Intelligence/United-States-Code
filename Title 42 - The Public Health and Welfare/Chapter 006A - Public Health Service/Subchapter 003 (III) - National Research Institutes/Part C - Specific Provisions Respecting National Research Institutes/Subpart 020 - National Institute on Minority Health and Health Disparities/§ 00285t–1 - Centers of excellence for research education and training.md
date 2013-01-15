@@ -50,7 +50,7 @@ The period during which payments are made under a grant under subsection (a) of 
 
 #### (f) Certain expenditures
 
-The Director of the Institute may authorize a designated biomedical and behavioral research institution to expend a portion of an award under subsection (a) of this section for research endowments.
+The Director of the Institute may authorize a designated biomedical and behavioral researchinstitution to expend a portion of an award under subsection (a) of this section for research endowments.
 
 #### (g) Definitions
 

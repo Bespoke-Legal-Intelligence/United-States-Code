@@ -16,17 +16,15 @@
 
 (2) Fees collected under paragraph (1) shall be retained and deposited as an offsetting collection to any Department of State appropriation to recover the costs of providing such services. Such fees shall remain available for obligation until expended.
 
-#### (c) Restriction
-
-No funds collected under the authority of this section may be made available to an accrediting entity to carry out the purposes of this chapter.
-
-(Pub. L. 106–279, title IV, §403, Oct. 6, 2000, 114 Stat. 841; Pub. L. 107–228, div. A, title II, §211(a), Sept. 30, 2002, 116 Stat. 1365.)
+(Pub. L. 106–279, title IV, §403, Oct. 6, 2000, 114 Stat. 841; Pub. L. 107–228, div. A, title II, §211(a), Sept. 30, 2002, 116 Stat. 1365; Pub. L. 112–276, §3(a), Jan. 14, 2013, 126 Stat. 2467.)
 
 #### References in Text
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 106–279, Oct. 6, 2000, 114 Stat. 825, known as the Intercountry Adoption Act of 2000, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 14901 of this title and Tables.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (c). Pub. L. 112–276 struck out subsec. (c). Text read as follows: “No funds collected under the authority of this section may be made available to an accrediting entity to carry out the purposes of this chapter.”
 
 <b>2002</b>—Subsec. (b)(2). Pub. L. 107–228, §211(a)(1), inserted “Such fees shall remain available for obligation until expended.” at end.
 

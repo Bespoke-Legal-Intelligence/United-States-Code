@@ -50,7 +50,7 @@ The Director may delegate to officers and employees of the Agency any of the fun
 
 #### (1) In general
 
-&emsp;In enforcing any provision of this chapter, any regulation or order prescribed under this chapter, or any other provision of law, rule, regulation, or order, or in any other action, suit, or proceeding to which the Director is aparty or in which the Director is interested, and in the administration of conservatorships and receiverships, the Director may act in the Director's own name and through the Director's own attorneys.
+&emsp;In enforcing any provision of this chapter, any regulation or order prescribed under this chapter, or any other provision of law, rule, regulation, or order, or in any other action, suit, or proceeding to which the Director is a party or in which the Director is interested, and in the administration of conservatorships and receiverships, the Director may act in the Director's own name and through the Director's own attorneys.
 
 #### (2) Subject to suit
 

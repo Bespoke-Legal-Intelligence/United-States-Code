@@ -40,7 +40,7 @@ For the purpose of this subchapter and subchapter II of this chapter, the term�
 
 &emsp;(k) Repealed. Pub. L. 95–164, title II, §202(b), Nov. 9, 1977, 91 Stat. 1317.
 
-&emsp;(<i>l</i>) “coal mine” includes areas of adjoining mines connected underground.
+&emsp;(l) “coal mine” includes areas of adjoining mines connected underground.
 
 (Pub. L. 91–173, title III, §318, Dec. 30, 1969, 83 Stat. 791; Pub. L. 95–164, title II, §202(b), Nov. 9, 1977, 91 Stat. 1317; Pub. L. 102–285, §10(b), May 18, 1992, 106 Stat. 172.)
 

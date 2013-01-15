@@ -152,15 +152,15 @@ Subsec. (e)(2)(A). Pub. L. 108–189, §2(b)(2)(B), substituted “servicemember
 
 #### Short Title of 1986 Amendment
 
-Section 801 of title VIII of Pub. L. 99–399 provided that: “This title \[enacting this section, section 5570 of this title, sections 1051, 1095, and 2181 to 2185 of Title 10, Armed Forces, and sections 559 and 1013 of Title 37, Pay and Allowances of the Uniformed Services, amending section 6325 of this title, and enacting provisions set out as notes under this section, sections 1051, 1095, and 2181 of Title 10, and section 559 of Title 37\] may be cited as the ‘Victims of Terrorism Compensation Act’.”
+Pub. L. 99–399, title VIII, §801, Aug. 27, 1986, 100 Stat. 879, provided that: “This title \[enacting this section, section 5570 of this title, sections 1051, 1095, and 2181 to 2185 of Title 10, Armed Forces, and sections 559 and 1013 of Title 37, Pay and Allowances of the Uniformed Services, amending section 6325 of this title, and enacting provisions set out as notes under this section, sections 1051, 1095, and 2181 of Title 10, and section 559 of Title 37\] may be cited as the ‘Victims of Terrorism Compensation Act’.”
 
 #### Payment to Individuals Held in Captive Status Between November 4, 1979, and January 21, 1981
 
-Section 802 of title VIII of Pub. L. 99–399 provided that: “The amount of the payment for individuals in the Civil Service referred to in section 5569(d) of title 5, United States Code (as added by section 803 of this title), or for individuals in the uniformed services referred to in section 559(c) of title 37, United States Code (as added by section 806 of this title), as the case may be, shall be $50 for each day any such individual was held in captive status during a period commencing on or after November 4, 1979, and ending on or before January 21, 1981.”
+Pub. L. 99–399, title VIII, §802, Aug. 27, 1986, 100 Stat. 879, provided that: “The amount of the payment for individuals in the Civil Service referred to in section 5569(d) of title 5, United States Code (as added by section 803 of this title), or for individuals in the uniformed services referred to in section 559(c) of title 37, United States Code (as added by section 806 of this title), as the case may be, shall be $50 for each day any such individual was held in captive status during a period commencing on or after November 4, 1979, and ending on or before January 21, 1981.”
 
 #### Transition Provisions
 
-Section 805 of title VIII of Pub. L. 99–399 provided that:
+Pub. L. 99–399, title VIII, §805, Aug. 27, 1986, 100 Stat. 883, provided that:
 
 “(a)
 
@@ -178,11 +178,11 @@ Definition.—For the purpose of this subsection, ‘pay and allowances’ has t
 
 #### Regulations
 
-Section 807 of title VIII of Pub. L. 99–399 provided that: “Any regulation required by this title or by any amendment made by this title \[see Short Title note above\] shall take effect not later than 6 months after the date of enactment of this Act \[Aug. 27, 1986\].”
+Pub. L. 99–399, title VIII, §807, Aug. 27, 1986, 100 Stat. 889, provided that: “Any regulation required by this title or by any amendment made by this title \[see Short Title note above\] shall take effect not later than 6 months after the date of enactment of this Act \[Aug. 27, 1986\].”
 
 #### Effective Date of Entitlements
 
-Section 808 of title VIII of Pub. L. 99–399 provided that: “Provisions enacted by this title \[see Short Title note above\] which provide new spending authority described in section 401(c)(2)(C) of the Congressional Budget Act of 1974 \[2 U.S.C. 651(c)(2)(C)\] shall not be effective until October 1, 1986.”
+Pub. L. 99–399, title VIII, §808, Aug. 27, 1986, 100 Stat. 889, provided that: “Provisions enacted by this title \[see Short Title note above\] which provide new spending authority described in section 401(c)(2)(C) of the Congressional Budget Act of 1974 \[2 U.S.C. 651(c)(2)(C)\] shall not be effective until October 1, 1986.”
 
 #### Executive Order No. 12576
 

@@ -18,7 +18,7 @@
 
 #### (B) Crops specifically included
 
-&emsp;&emsp;The term “eligible crop” shall include floricultural, ornamental nursery, and Christmas tree crops, turfgrass sod, seed crops, aquaculture (including ornamental fish), sea grass and sea oats, camelina, and industrial crops.
+&emsp;&emsp;The term “eligible crop” shall include floricultural, ornamental nursery, and Christmas tree crops, turfgrass sod, seedcrops, aquaculture (including ornamental fish), sea grass and sea oats, camelina, and industrial crops.
 
 #### (C) Combination of similar types or varieties
 

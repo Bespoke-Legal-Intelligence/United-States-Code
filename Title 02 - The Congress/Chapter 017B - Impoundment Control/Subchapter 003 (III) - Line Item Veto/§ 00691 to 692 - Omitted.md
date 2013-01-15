@@ -20,6 +20,10 @@ Section 691f, Pub. L. 93–344, title X, §1027, as added Pub. L. 104–130, §2
 
 Section 692, Pub. L. 104–130, §3, Apr. 9, 1996, 110 Stat. 1211, provided for judicial review.
 
+#### Constitutionality
+
+See Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+
 #### Effective and Termination Dates
 
 Pub. L. 104–130, §5, Apr. 9, 1996, 110 Stat. 1212, provided that: “This Act \[enacting this subchapter and provisions set out as a note under section 681 of this title and amending provisions set out as notes under section 621 of this title\] and the amendments made by it shall take effect and apply to measures enacted on the earlier of—

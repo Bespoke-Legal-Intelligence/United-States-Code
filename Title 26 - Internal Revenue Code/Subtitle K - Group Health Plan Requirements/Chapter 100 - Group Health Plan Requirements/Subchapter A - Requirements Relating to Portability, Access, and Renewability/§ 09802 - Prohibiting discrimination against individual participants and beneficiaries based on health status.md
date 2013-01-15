@@ -160,7 +160,7 @@ Pub. L. 110–233, title I, §103(f)(2), May 21, 2008, 122 Stat. 899, provided t
 
 #### Effective Date of 1997 Amendment
 
-Section 1532(b) of Pub. L. 105–34 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect as if included in the amendments made by section 401(a) of the Health Insurance Portability and Accountability Act of 1996 \[Pub. L. 104–191\].”
+Pub. L. 105–34, title XV, §1532(b), Aug. 5, 1997, 111 Stat. 1085, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect as if included in the amendments made by section 401(a) of the Health Insurance Portability and Accountability Act of 1996 \[Pub. L. 104–191\].”
 
 #### Regulations
 

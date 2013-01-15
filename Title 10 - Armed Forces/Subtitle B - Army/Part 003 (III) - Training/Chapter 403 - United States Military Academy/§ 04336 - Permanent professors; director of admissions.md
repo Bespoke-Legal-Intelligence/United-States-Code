@@ -2,7 +2,7 @@
 
 (a) A permanent professor of the Academy, other than the Dean of the Academic Board, who is the head of a department of instruction, or who has served as such a professor for more than six years, has the grade of colonel. However, a permanent professor appointed from the Regular Army has the grade of colonel after the date when he completes six years of service as a professor, or after the date on which he would have been promoted had he been selected for promotion from among officers in the promotion zone, whichever is earlier. All other permanent professors have the grade of lieutenant colonel.
 
-(b) A person appointed as director of admissions of the Academy has the regular grade of lieutenant colonel, and, after he has served six years as director of admissions, has the regular grade of colonel. However, a person appointed from the Regular Army has the regular grade of colonel after the date when he completes six years of service as director of admissions, or after the date on which he would have been promoted had he been selected for promotion from among officers in the promotion zone, whichever is earlier.
+(b) A person appointed as director of admissions of the Academy has the regular grade oflieutenant colonel, and, after he has served six years as director of admissions, has the regular grade of colonel. However, a person appointed from the Regular Army has the regular grade of colonel after the date when he completes six years of service as director of admissions, or after the date on which he would have been promoted had he been selected for promotion from among officers in the promotion zone, whichever is earlier.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 239; Pub. L. 85–600, §1(11), Aug. 6, 1958, 72 Stat. 523; Pub. L. 85–861, §33(a)(46)(B), Sept. 2, 1958, 72 Stat. 1567; Pub. L. 95–551, §§2, 4(a), Oct. 30, 1978, 92 Stat. 2069; Pub. L. 96–513, title II, §218(a), title V, §502(25), Dec. 12, 1980, 94 Stat. 2886, 2911; Pub. L. 98–525, title V, §533(d)(1), Oct. 19, 1984, 98 Stat. 2528.)
 
@@ -56,5 +56,5 @@ Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub.
 
 #### Service Performed as Registrar Prior to Aug. 6, 1958
 
-Section 2 of Pub. L. 85–600 provided that: “No increase in pay or allowances accrues by reason of the enactment of this Act \[amending this section and sections 3075, 3204, 3205, 3283, 3296, 3883, 3886, 4331, 4333, 4334, 8075, 8204, 8205, 8296, 8883, 8886, 9331, 9333, 9334, and 9336 of this title\] for service performed before this Act takes effect \[Aug. 6, 1958\].”
+Pub. L. 85–600, §2, Aug. 6, 1958, 72 Stat. 524, provided that: “No increase in pay or allowances accrues by reason of the enactment of this Act \[amending this section and sections 3075, 3204, 3205, 3283, 3296, 3883, 3886, 4331, 4333, 4334, 8075, 8204, 8205, 8296, 8883, 8886, 9331, 9333, 9334, and 9336 of this title\] for service performed before this Act takes effect \[Aug. 6, 1958\].”
 

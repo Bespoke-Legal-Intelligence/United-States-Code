@@ -24,5 +24,5 @@ The second par. of this section is from act Apr. 5, 1910.
 
 #### Effective Date of 1948 Amendment
 
-Section 38 of act June 25, 1948, provided that the amendment made by that act is effective Sept. 1, 1948.
+Act June 25, 1948, ch. 646, §38, 62 Stat. 992, provided that the amendment made by that act is effective Sept. 1, 1948.
 

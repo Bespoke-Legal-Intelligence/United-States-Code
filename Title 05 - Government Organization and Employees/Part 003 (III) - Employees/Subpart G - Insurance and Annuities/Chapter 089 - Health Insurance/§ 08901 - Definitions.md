@@ -56,7 +56,7 @@ For the purpose of this chapter—
 
 &emsp;&emsp;&emsp;(i) an employee who dies as a result of injury or illness compensable under that subchapter; or
 
-&emsp;&emsp;&emsp;(ii) a former employee who is separated after having completed 5 or more years of service and who dies while receiving monthly compensation under that subchapter and who has been held by the Secretary to have been unable to return to duty;
+&emsp;&emsp;&emsp;(ii) a former employee who is separated after having completed 5 or more years of service and who dies while receivingmonthly compensation under that subchapter and who has been held by the Secretary to have been unable to return to duty;
 
 &emsp;(4) “service”, as used by paragraph (3) of this section, means service which is creditable under subchapter III of chapter 83 or chapter 84 of this title;
 
@@ -104,7 +104,7 @@ For the purpose of this chapter—
 
 &emsp;&emsp;&emsp;(ii) meets equivalent requirements (as prescribed by the Office).
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 600; Pub. L. 90–83, §1(95), Sept. 11, 1967, 81 Stat. 219; Pub. L. 91–418, §§2, 3(b), Sept. 25, 1970, 84 Stat. 869; Pub. L. 93–160, §1(b), Nov. 27, 1973, 87 Stat. 635; Pub. L. 95–368, §2, Sept. 17, 1978, 92 Stat. 606; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 95–583, §2, Nov. 2, 1978, 92 Stat. 2482; Pub. L. 96–54, §2(a)(52), Aug. 14, 1979, 93 Stat. 384; Pub. L. 96–70, title I, §1209(c), Sept. 27, 1979, 93 Stat. 463; Pub. L. 96–179, §2, Jan. 2, 1980,93 Stat. 1299; Pub. L. 98–615, §3(1), Nov. 8, 1984, 98 Stat. 3202; Pub. L. 99–53, §1(a), June 17, 1985, 99 Stat. 93; Pub. L. 99–251, title I, §105(a), Feb. 27, 1986, 100 Stat. 15; Pub. L. 99–335, title II, §207(<i>l</i>), June 6, 1986, 100 Stat. 598; Pub. L. 99–556, title V, §503, Oct. 27, 1986, 100 Stat. 3141; Pub. L. 100–679, §13(c), Nov. 17, 1988, 102 Stat. 4071; Pub. L. 101–508, title VII, §7202(<i>l</i>), Nov. 5, 1990, 104 Stat. 1388–339; Pub. L. 102–378, §2(75), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 105–266, §3(a), Oct. 19, 1998, 112 Stat. 2366; Pub. L. 110–74, §1, Aug. 9, 2007, 121 Stat. 723.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 600; Pub. L. 90–83, §1(95), Sept. 11, 1967, 81 Stat. 219; Pub. L. 91–418, §§2, 3(b), Sept. 25, 1970, 84 Stat. 869; Pub. L. 93–160, §1(b), Nov. 27, 1973, 87 Stat. 635; Pub. L. 95–368, §2, Sept. 17, 1978, 92 Stat. 606; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 95–583, §2, Nov. 2, 1978, 92 Stat. 2482; Pub. L. 96–54, §2(a)(52), Aug. 14, 1979, 93 Stat. 384; Pub. L. 96–70, title I, §1209(c), Sept. 27, 1979, 93 Stat. 463; Pub. L. 96–179, §2, Jan. 2, 1980, 93 Stat. 1299; Pub. L. 98–615, §3(1), Nov. 8, 1984, 98 Stat. 3202; Pub. L. 99–53, §1(a), June 17, 1985, 99 Stat. 93; Pub. L. 99–251, title I, §105(a), Feb. 27, 1986, 100 Stat. 15; Pub. L. 99–335, title II, §207(l), June 6, 1986, 100 Stat. 598; Pub. L. 99–556, title V, §503, Oct. 27, 1986, 100 Stat. 3141; Pub. L. 100–679, §13(c), Nov. 17, 1988, 102 Stat. 4071; Pub. L. 101–508, title VII, §7202(l), Nov. 5, 1990, 104 Stat. 1388–339; Pub. L. 102–378, §2(75), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 105–266, §3(a), Oct. 19, 1998, 112 Stat. 2366; Pub. L. 110–74, §1, Aug. 9, 2007, 121 Stat. 723.)
 
 Historical and Revision Notes<br>1966
 
@@ -186,17 +186,17 @@ Par. (10)(C)(ii). Pub. L. 102–378, §2(75)(B), inserted comma after “8341(h)
 
 <b>1988</b>—Par. (1)(H), (I). Pub. L. 100–679 added subpars. (H) and (I).
 
-<b>1986</b>—Par. (1)(E). Pub. L. 99–335, §207(<i>l</i>)(1), amended subpar. (E) generally, substituting “first employed” for “employed” and inserting “before October 1, 1987”.
+<b>1986</b>—Par. (1)(E). Pub. L. 99–335, §207(l)(1), amended subpar. (E) generally, substituting “first employed” for “employed” and inserting “before October 1, 1987”.
 
-Par. (3)(A). Pub. L. 99–335, §207(<i>l</i>)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “an employee who retires on an immediate annuity under subchapter III of chapter 83 of this title or another retirement system for employees of the Government, after 5 or more years of service or for disability”.
+Par. (3)(A). Pub. L. 99–335, §207(l)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “an employee who retires on an immediate annuity under subchapter III of chapter 83 of this title or another retirement system for employees of the Government, after 5 or more years of service or for disability”.
 
 Par. (3)(B). Pub. L. 99–556 inserted “(including a family member entitled to an amount under section 8442(b)(1)(A), whether or not such family member is entitled to an annuity under section 8442(b)(1)(B))”.
 
-Par. (4). Pub. L. 99–335, §207(<i>l</i>)(3), inserted “or chapter 84”.
+Par. (4). Pub. L. 99–335, §207(l)(3), inserted “or chapter 84”.
 
-Par. (10)(C)(i). Pub. L. 99–335, §207(<i>l</i>)(4), inserted “or 8467”, “or 8445”, and “or the Federal Employees’ Retirement System”.
+Par. (10)(C)(i). Pub. L. 99–335, §207(l)(4), inserted “or 8467”, “or 8445”, and “or the Federal Employees’ Retirement System”.
 
-Par. (10)(C)(ii). Pub. L. 99–335, §207(<i>l</i>)(5), substituted “8345(j), 8445, or 8467” for “or 8345(j)” and inserted “or the Federal Employees’ Retirement System” and “or 8417(b)”.
+Par. (10)(C)(ii). Pub. L. 99–335, §207(l)(5), substituted “8345(j), 8445, or 8467” for “or 8345(j)” and inserted “or the Federal Employees’ Retirement System” and “or 8417(b)”.
 
 Par. (11). Pub. L. 99–251 added par. (11).
 
@@ -224,7 +224,7 @@ Pub. L. 95–368 substituted “after December 31, 1978, and before January 1, 1
 
 <b>1970</b>—Par. (1)(ii). Pub. L. 91–418, §3(b), excluded from definition of “employee” a noncitizen employee whose permanent duty station is outside Panama Canal Zone.
 
-Par. (3)(B). Pub. L. 91–418, §2(a), redefined “annuitant” to be a member of a family who receives an immediate annuity as the survivor of an employee ratherthan as the survivor of an employee who dies after completing 5 or more years of service.
+Par. (3)(B). Pub. L. 91–418, §2(a), redefined “annuitant” to be a member of a family who receives an immediate annuity as the survivor of an employee rather than as the survivor of an employee who dies after completing 5 or more years of service.
 
 Par. (3)(D)(i). Pub. L. 91–418, §2(b), redefined “annuitant” to be a member of a family who receives monthly compensation as the surviving beneficiary of an employee who dies as a result of a compensable injury or illness rather than as the survivor of an employee who, having completed 5 or more years of service, so dies.
 
@@ -234,7 +234,7 @@ Gallaudet College, referred to in par. (1)(F), was redesignated Gallaudet Univer
 
 #### Effective Date of 1992 Amendment
 
-Amendment by section 2(75)(A) of Pub. L. 102–378 effective Nov. 5, 1990, and amendment by section 2(75)(B) of Pub. L. 102–378 effective Oct. 2, 1992, see section 9(a), (b)(6) of Pub. L. 102–378, set out as a note under section 6303 of this title.
+Amendment by section 2(75)(A) of Pub. L. 102–378 effective Nov. 5, 1990, and amendment by section 2(75)(B)of Pub. L. 102–378 effective Oct. 2, 1992, see section 9(a), (b)(6) of Pub. L. 102–378, set out as a note under section 6303 of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -244,7 +244,7 @@ Amendment by Pub. L. 101–508 applicable with respect to any individual who, on
 
 Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub. L. 99–335, set out as an Effective Date note under section 8401 of this title.
 
-Section 105(c) of Pub. L. 99–251 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 8902 of this title\] shall be effective with respect to contracts entered into or renewed for calendar years beginning after December 31, 1986.”
+Pub. L. 99–251, title I, §105(c), Feb. 27, 1986, 100 Stat. 15, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 8902 of this title\] shall be effective with respect to contracts entered into or renewed for calendar years beginning after December 31, 1986.”
 
 #### Effective Date of 1984 Amendment
 
@@ -280,7 +280,7 @@ Pub. L. 100–654, §1, Nov. 14, 1988, 102 Stat. 3837, provided that: “This Ac
 
 #### Short Title of 1986 Amendment
 
-Section 1 of Pub. L. 99–251 provided that: “This Act \[amending this section, sections 1103, 3502, 5334, 5924, 6312, 8332, 8339 to 8342, 8345, 8902, 8903, 8905, and 8909 of this title, and section 35 of Title 24, Hospitals and Asylums, enacting provisions set out as notes under this section and sections 7901, 8339, 8341, 8345, 8902, 8904, 8905, and 8909 of this title, and amending provisions set out as notes under sections 8341 and 8902 of this title\] may be cited as the ‘Federal Employees Benefits Improvement Act of 1986’.”
+Pub. L. 99–251, §1, Feb. 27, 1986, 100 Stat. 14, provided that: “This Act \[amending this section, sections 1103, 3502, 5334, 5924, 6312, 8332, 8339 to 8342, 8345, 8902, 8903, 8905, and 8909 of this title, and section 35 of Title 24, Hospitals and Asylums, enacting provisions set out as notes under this section and sections 7901, 8339, 8341, 8345, 8902, 8904, 8905, and 8909 of this title, and amending provisions set out as notes under sections 8341 and 8902 of this title\] may be cited as the ‘Federal Employees Benefits Improvement Act of 1986’.”
 
 #### Continuation of Health Benefits Coverage for Individuals Enrolled in a Plan Administered by the Overseas Private Investment Corporation
 
@@ -316,7 +316,7 @@ Unmarried dependent children.—An individual who, as of the enrollment eligibil
 
 &emsp;&emsp;“(A) shall be deemed to be entitled to continued coverage under section 8905a of such title as though the individual had ceased to meet the requirements for being considered an unmarried dependent child under chapter 89 of such title as of such date; and
 
-&emsp;&emsp;“(B) may enroll in an approved health benefits plan described under section 8903 or 8903a of such title in accordance with section 8905a for continued coverage effective on and after such date.
+&emsp;&emsp;“(B) may enroll in an approved health benefits plan described under section 8903 or 8903a of suchtitle in accordance with section 8905a for continued coverage effective on and after such date.
 
 “(c)
 
@@ -486,7 +486,7 @@ Administration and Regulations.—The Office of Personnel Management—
 
 #### Continued Coverage Under Certain Federal Employee Benefit Programs for Certain Employees of Saint Elizabeths Hospital
 
-For provisions relating to treatment of certain Federal employees of Saint Elizabeths Hospital under certain Federal employee benefit programs, see section 207(<i>o</i>) of Pub. L. 99–335, set out as a note under section 8331 of this title.
+For provisions relating to treatment of certain Federal employees of Saint Elizabeths Hospital under certain Federal employee benefit programs, see section 207(o) of Pub. L. 99–335, set out as a note under section 8331 of this title.
 
 <i><sup>1</sup></i><i> See Change of Name note below.</i>
 

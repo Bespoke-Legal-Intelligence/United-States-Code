@@ -23,7 +23,7 @@
 
 <b>2006</b>—Pub. L. 109–364, div. A, title V, §507(a)(1)(B), Oct. 17, 2006, 120 Stat. 2180, added item 722.
 
-<b>2003</b>—Pub. L. 108–136, div. A, title V, §503(b), Nov. 24, 2003, 117 Stat. 1456, struck out item 714 “Defense attache�AE1 in France: required grade”.
+<b>2003</b>—Pub. L. 108–136, div. A, title V, §503(b), Nov. 24, 2003, 117 Stat. 1456, struck out item 714 “Defense attaché in France: required grade”.
 
 <b>1997</b>—Pub. L. 105–85, div. A, title V, §§501(b), 597(b), Nov. 18, 1997, 111 Stat. 1724, 1766, added items 714 and 721.
 

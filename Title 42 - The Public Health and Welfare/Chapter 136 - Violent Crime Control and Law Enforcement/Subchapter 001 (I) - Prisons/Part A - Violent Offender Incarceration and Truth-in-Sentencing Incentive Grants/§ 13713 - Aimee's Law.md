@@ -48,7 +48,7 @@ In order to receive an amount under subsection (c) of this section, the chief ex
 
 #### (1) In general
 
-&emsp;Pursuant to regulations promulgated by the Attorney General hereunder, any amount under subsection (c) of this section shall be derived by reducing the amount of Federal law enforcement assistance funds received by the State pursuant to section 3755 of this title that convicted such individual of the prior offense before the distribution of the funds tothe State. No amount described under this section shall be subject to section 3335(b) or 6503(d) of title 31 <sup>1</sup>
+&emsp;Pursuant to regulations promulgated by the Attorney General hereunder, any amount under subsection (c) of this section shall be derived by reducing the amount of Federal law enforcement assistance funds received by the State pursuant to section 3755 of this title that convicted such individual of the prior offense before the distribution of the funds to the State. No amount described under this section shall be subject to section 3335(b) or 6503(d) of title 31 <sup>1</sup>
 
 #### (2) Payment schedule
 

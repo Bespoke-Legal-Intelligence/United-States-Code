@@ -48,7 +48,7 @@ For purposes of section 38, the advanced nuclear power facility production credi
 
 #### (A) In general
 
-&emsp;&emsp;The amount of the credit determined under subsection (a) shall be reduced by an amount which bears the same ratio to the amount of the credit (determined without regard to this paragraph) as—
+&emsp;&emsp;The amount of the credit determined under subsection (a) shall be reduced by anamount which bears the same ratio to the amount of the credit (determined without regard to this paragraph) as—
 
 &emsp;&emsp;&emsp;(i) the amount by which the reference price (as defined in section 45(e)(2)(C)) for the calendar year in which the sale occurs exceeds 8 cents, bears to
 

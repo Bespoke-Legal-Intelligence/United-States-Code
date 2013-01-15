@@ -44,7 +44,7 @@ In furtherance of the findings and policy stated in section 5951 of this title, 
 
 &emsp;(C) If all proposals submitted to the Secretary either fail to meet the minimum requirements or are rejected by the Secretary, the Secretary shall establish new minimum contract requirements and re-initiate the competitive selection process pursuant to this section.
 
-&emsp;(D) The Secretary may not execute a concessions contract which materially amends or does not incorporate the proposed terms and conditions of the concessions contract as setforth in the applicable prospectus. If proposed material amendments or changes are considered appropriate by the Secretary, the Secretary shall resolicit offers for the concessions contract incorporating such material amendments or changes.
+&emsp;(D) The Secretary may not execute a concessions contract which materially amends ordoes not incorporate the proposed terms and conditions of the concessions contract as set forth in the applicable prospectus. If proposed material amendments or changes are considered appropriate by the Secretary, the Secretary shall resolicit offers for the concessions contract incorporating such material amendments or changes.
 
 #### (5) Selection of the best proposal
 

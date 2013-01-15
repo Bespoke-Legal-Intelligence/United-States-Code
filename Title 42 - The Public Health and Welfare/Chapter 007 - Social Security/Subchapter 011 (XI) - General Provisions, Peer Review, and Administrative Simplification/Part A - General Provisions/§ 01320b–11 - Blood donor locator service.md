@@ -28,7 +28,7 @@ Any authorized person shall, as a condition for receiving address information fr
 
 &emsp;(4) provide such other safeguards which the Commissioner of Social Security determines (and which the Commissioner of Social Security prescribes in regulations) to be necessary or appropriate to protect the confidentiality of the address information and related blood donor records,
 
-&emsp;(5) furnish a report to the Commissioner of Social Security, at such time and containingsuch information as the Commissioner of Social Security may prescribe, which describes the procedures established and utilized by the authorized person for ensuring the confidentiality of address information and related blood donor records required under this subsection, and
+&emsp;(5) furnish a report to the Commissioner of Social Security, at such time and containing such information as the Commissioner of Social Security may prescribe, which describes the procedures established and utilized by the authorized person for ensuring the confidentiality of address information and related blood donor records required under this subsection, and
 
 &emsp;(6) destroy such address information and related blood donor records, upon completion of their use in providing the notification for which the information was obtained, so as to make such information and records undisclosable.
 
@@ -84,7 +84,7 @@ The Internal Revenue Code of 1986, referred to in subsecs. (b)(2) and (g), is cl
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–296, §108(b)(13)(A), (C), substituted “The Commissioner of Social Security” for“The Secretary” and struck out “under the direction of the Commissioner of Social Security,” before “which shall be used”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–296, §108(b)(13)(A), (C), substituted “The Commissioner of Social Security” for “The Secretary” and struck out “under the direction of the Commissioner of Social Security,” before “which shall be used”.
 
 Subsec. (b), (c). Pub. L. 103–296, §108(b)(13)(A), substituted “Commissioner of Social Security” for “Secretary” wherever appearing.
 
@@ -106,5 +106,5 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Time Limit for Establishment of Blood Donor Locator Service
 
-Section 8008(b)(2) of Pub. L. 100–647 provided that: “The Secretary of Health and Human Services shall establish the Blood Donor Locator Service pursuant to section 1141 of the Social Security Act \[this section\] not later than 180 days after the date of the enactment of this Act \[Nov. 10, 1988\].”
+Pub. L. 100–647, title VIII, §8008(b)(2), Nov. 10, 1988, 102 Stat. 3786, provided that: “The Secretary of Health and Human Services shall establish the Blood Donor Locator Service pursuant to section 1141 of the Social Security Act \[this section\] not later than 180 days after the date of the enactment of this Act \[Nov. 10, 1988\].”
 

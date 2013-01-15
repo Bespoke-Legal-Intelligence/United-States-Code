@@ -22,7 +22,7 @@ The purposes of the Program shall be to—
 
 #### Findings
 
-Section 3002 of Pub. L. 102–587 provided that: “The Congress finds the following:
+Pub. L. 102–587, title III, §3002, Nov. 4, 1992, 106 Stat. 5060, provided that: “The Congress finds the following:
 
 &emsp;“(1) Current stranding network participants have performed an undeniably valuable and ceaseless job of responding to marine mammal strandings over the last 15 years.
 

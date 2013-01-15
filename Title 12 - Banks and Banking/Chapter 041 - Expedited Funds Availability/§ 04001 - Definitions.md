@@ -66,7 +66,7 @@ For purposes of this chapter—
 
 #### (13) Local originating depository institution
 
-&emsp;The term “local originating depository institution” means any originating depositoryinstitution which is located in the same check processing region as the receiving depository institution.
+&emsp;The term “local originating depository institution” means any originating depository institution which is located in the same check processing region as the receiving depository institution.
 
 #### (14) Noncash item
 
@@ -142,7 +142,7 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 #### Effective Date
 
-Section 613 of title VI of Pub. L. 100–86 provided that:
+Pub. L. 100–86, title VI, §613, Aug. 10, 1987, 101 Stat. 652, provided that:
 
 “(a)
 
@@ -154,7 +154,7 @@ Year After Date of Enactment.—Sections 603, 604, 605, 606, 610, and 611 \[enac
 
 #### Short Title
 
-Section 601 of title VI of Pub. L. 100–86 provided that: “This title \[enacting this chapter, amending section 248a of this title, and enacting provisions set out as notes under this section and section 248a of this title\] may be cited as the ‘Expedited Funds Availability Act’.”
+Pub. L. 100–86, title VI, §601, Aug. 10, 1987, 101 Stat. 635, provided that: “This title \[enacting this chapter, amending section 248a of this title, and enacting provisions set out as notes under this section and section 248a of this title\] may be cited as the ‘Expedited Funds Availability Act’.”
 
 #### Separability
 

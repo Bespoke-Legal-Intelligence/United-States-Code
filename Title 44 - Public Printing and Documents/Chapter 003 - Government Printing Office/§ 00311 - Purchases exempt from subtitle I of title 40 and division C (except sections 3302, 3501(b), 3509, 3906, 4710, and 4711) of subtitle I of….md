@@ -6,7 +6,7 @@
 
 (c) Notwithstanding any other provision of law, section 6101(b) to (d) of title 41 shall apply with respect to purchases and contracts for the Government Printing Office as if the reference to “$25,000” in clause (1) of such section were a reference to “$100,000”.
 
-(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1242; Pub. L. 99–151, title III, §305(a), (b)(1), Nov. 13, 1985, 99 Stat. 808; Pub. L. 106–57, title II, §210(a), (b), Sept. 29, 1999, 113 Stat. 425; Pub. L. 107–217, §3(<i>l</i>)(1), Aug. 21, 2002, 116 Stat. 1301; Pub. L. 111–350, §5(m)(2), Jan. 4, 2011, 124 Stat. 3853.)
+(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1242; Pub. L. 99–151, title III, §305(a), (b)(1), Nov. 13, 1985, 99 Stat. 808; Pub. L. 106–57, title II, §210(a), (b), Sept. 29, 1999, 113 Stat. 425; Pub. L. 107–217, §3(l)(1), Aug. 21, 2002, 116 Stat. 1301; Pub. L. 111–350, §5(m)(2), Jan. 4, 2011, 124 Stat. 3853.)
 
 #### Historical and Revision Notes
 

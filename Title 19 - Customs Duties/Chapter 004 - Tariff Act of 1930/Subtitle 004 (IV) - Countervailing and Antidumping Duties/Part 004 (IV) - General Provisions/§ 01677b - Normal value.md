@@ -42,7 +42,7 @@ In determining under this subtitle whether subject merchandise is being, or is l
 
 #### (3) Exportation from an intermediate country
 
-&emsp;Where the subject merchandise is exported to the United States from an intermediatecountry, normal value shall be determined in the intermediate country, except that normal value may be determined in the country of origin of the subject merchandise if—
+&emsp;Where the subject merchandise is exported to the United States from an intermediate country, normal value shall be determined in the intermediate country, except that normal value may be determined in the country of origin of the subject merchandise if—
 
 &emsp;&emsp;(A) the producer knew at the time of the sale that the subject merchandise was destined for exportation;
 
@@ -106,7 +106,7 @@ In determining under this subtitle whether subject merchandise is being, or is l
 
 #### (1) Determination; sales disregarded
 
-&emsp;Whenever the administering authority has reasonable grounds to believe or suspect that sales of the foreign like product under consideration for the determination of normal value have been made at prices which represent less than the cost of production of that product,the administering authority shall determine whether, in fact, such sales were made at less than the cost of production. If the administering authority determines that sales made at less than the cost of production—
+&emsp;Whenever the administering authority has reasonable grounds to believe or suspect that sales of the foreign like product under consideration for the determination of normal value have been made at prices which represent less than the cost of production of that product, the administering authority shall determine whether, in fact, such sales were made at less than the cost of production. If the administering authority determines that sales made at less than the cost of production—
 
 &emsp;&emsp;(A) have been made within an extended period of time in substantial quantities, and
 
@@ -206,7 +206,7 @@ Whenever, in the course of an investigation under this subtitle, the administeri
 
 &emsp;(3) the normal value of the foreign like product produced in one or more of the facilities outside the exporting country is higher than the normal value of the foreign like product produced in the facilities located in the exporting country,
 
-> it shall determine the normal value of the subject merchandise by reference to the normal value at which the foreign like product is sold in substantial quantities from one or more facilities outside the exporting country. The administering authority, in making any determination under this paragraph, shall make adjustments for the difference between the cost of production (including taxes, labor, materials, and overhead) of the foreign like product produced in facilities outside the exporting country and costs of production of the foreign like product produced in facilities in the exporting country, if such differences are demonstrated to its satisfaction. For purposes of this subsection, in determining the normal value of the foreign like product produced in a country outside of the exporting country, the administering authority shall determine its price at the time of exportation from the exporting country and shall make any adjustments required by subsection (a) of this section for the cost of all containers and coverings and all other costs, charges, and expenses incident to placing the merchandise in condition packed ready for shipment to the United States by reference to such costs in the exporting country.
+> it shall determine the normal value of the subject merchandise by reference to the normal value at which the foreign like product is sold in substantial quantities from one or more facilities outside the exporting country. The administering authority, in making any determination under this paragraph, shall make adjustments for the difference between the cost of production (including taxes, labor, materials, and overhead) of the foreign like product producedin facilities outside the exporting country and costs of production of the foreign like product produced in facilities in the exporting country, if such differences are demonstrated to its satisfaction. For purposes of this subsection, in determining the normal value of the foreign like product produced in a country outside of the exporting country, the administering authority shall determine its price at the time of exportation from the exporting country and shall make any adjustments required by subsection (a) of this section for the cost of all containers and coverings and all other costs, charges, and expenses incident to placing the merchandise in condition packed ready for shipment to the United States by reference to such costs in the exporting country.
 
 #### (e) Constructed value
 

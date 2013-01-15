@@ -1,6 +1,6 @@
 ### §135a. Books and sound-reproduction records for blind and other physically handicapped residents; annual appropriations; purchases
 
-There is authorized to be appropriated annually to the Library of Congress, in addition to appropriations otherwise made to said Library, such sums for expenditure under the direction of the Librarian of Congress as may be necessary to provide books published either in raised characters, on sound-reproduction recordings or in any other form, and for purchase, maintenance, and replacement of reproducers for such sound-reproduction recordings, for the use of the blind and for other physically handicapped residents of the United States, including the several States, Territories, insular possessions, and the District of Columbia, all of which books, recordings, and reproducers will remain the property of the Library of Congress but will be loaned to blind and to other physically handicapped readers certified by competent authority as unable to read normal printed material as a result of physical limitations, under regulations prescribed by the Librarian of Congress for this service. In the purchase of books in either raised characters or in sound-reproduction recordings the Librarian of Congress, without reference to the provisions of section 6101 of title 41, shall give preference to nonprofit-making institutions or agencies whose activities are primarily concerned with the blind and with other physically handicapped persons, in all cases where the prices or bids submitted by such institutions oragencies are, by said Librarian, under all the circumstances and needs involved, determined to be fair and reasonable.
+There is authorized to be appropriated annually to the Library of Congress, in addition to appropriations otherwise made to said Library, such sums for expenditure under the direction of the Librarian of Congress as may be necessary to provide books published either in raised characters, on sound-reproduction recordings or in any other form, and for purchase, maintenance, and replacement of reproducers for such sound-reproduction recordings, for the use of the blind and for other physically handicapped residents of the United States, including the several States, Territories, insular possessions, and the District of Columbia, all of which books, recordings, and reproducers will remain the property of the Library of Congress but will be loaned to blind and to other physically handicapped readers certified by competent authority as unable to read normal printed material as a result of physical limitations, under regulations prescribed by the Librarian of Congress for this service. In the purchase of books in either raised characters or in sound-reproduction recordings the Librarian of Congress, without reference to the provisions of section 6101 of title 41, shall give preference to nonprofit-making institutions or agencies whose activities are primarily concerned with the blind and with other physically handicapped persons, in all cases where the prices or bids submitted by such institutions or agencies are, by said Librarian, under all the circumstances and needs involved, determined to be fair and reasonable.
 
 (Mar. 3, 1931, ch. 400, §1, 46 Stat. 1487; Mar. 4, 1933, ch. 279, 47 Stat. 1570; June 14, 1935, ch. 242, §1, 49 Stat. 374; Apr. 23, 1937, ch. 125, §1, 50 Stat. 72; June 7, 1939, ch. 191, 53 Stat. 812; June 6, 1940, ch. 255, 54 Stat. 245; Oct. 1, 1942, ch. 575, §1, 56 Stat. 764; June 13, 1944, ch. 246, §1, 58 Stat. 276; Aug. 8, 1946, ch. 868, §1, 60 Stat. 908; July 3, 1952, ch. 566, 66 Stat. 326; Pub. L. 85–308, §1, Sept. 7, 1957, 71 Stat. 630; Pub. L. 89–522, §1, July 30, 1966, 80 Stat. 330.)
 
@@ -34,21 +34,21 @@ In text, “section 6101 of title 41” substituted for “section 3709 of the R
 
 #### Effective Date of 1957 Amendment
 
-Section 2 of Pub. L. 85–308 provided that: “This Act \[amending this section\] shall be applicable with respect to the fiscal year ending June 30, 1958, and for each fiscal year thereafter.”
+Pub. L. 85–308, §2, Sept. 7, 1957, 71 Stat. 630, provided that: “This Act \[amending this section\] shall be applicable with respect to the fiscal year ending June 30, 1958, and for each fiscal year thereafter.”
 
 #### Effective Date of 1946 Amendment
 
-Section 2 of act Aug. 8, 1946, provided: “This Act \[amending this section\] shall be applicable with respect to the fiscal year ending June 30, 1947, and for each fiscal year thereafter.”
+Act Aug. 8, 1946, ch. 868, §2, 60 Stat. 908, provided: “This Act \[amending this section\] shall be applicable with respect to the fiscal year ending June 30, 1947, and for each fiscal year thereafter.”
 
 #### Effective Date of 1944 Amendment
 
-Section 2 of act June 13, 1944, provided: “This Act \[amending this section\] shall be applicable with respect to the fiscal year ending June 30, 1945, and for each fiscal year thereafter.”
+Act June 13, 1944, ch. 246, §2, 58 Stat. 276, provided: “This Act \[amending this section\] shall be applicable with respect to the fiscal year ending June 30, 1945, and for each fiscal year thereafter.”
 
 #### Effective Date of 1942 Amendment
 
-Section 2 of act Oct. 1, 1942, provided: “This Act \[amending this section\] shall be applicable with respect to the fiscal year ending June 30, 1943, and for each fiscal year thereafter.”
+Act Oct. 1, 1942, ch. 575, §2, 56 Stat. 764, provided: “This Act \[amending this section\] shall be applicable with respect to the fiscal year ending June 30, 1943, and for each fiscal year thereafter.”
 
 #### Effective Date of 1937 Amendment
 
-Section 2 of act Apr. 23, 1937, provided that: “This Act \[amending this section\] shall be applicable with respect to the fiscal year ending June 30, 1938, and for each fiscal year thereafter.”
+Act Apr. 23, 1937, ch. 125, §2, 50 Stat. 72, provided that: “This Act \[amending this section\] shall be applicable with respect to the fiscal year ending June 30, 1938, and for each fiscal year thereafter.”
 

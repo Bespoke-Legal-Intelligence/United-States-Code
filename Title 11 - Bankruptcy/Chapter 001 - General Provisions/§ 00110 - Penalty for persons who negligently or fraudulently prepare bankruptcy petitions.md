@@ -4,7 +4,7 @@
 
 &emsp;(1) “bankruptcy petition preparer” means a person, other than an attorney for the debtor or an employee of such attorney under the direct supervision of such attorney, who prepares for compensation a document for filing; and
 
-&emsp;(2) “document for filing” means a petition or any other document prepared for filing by adebtor in a United States bankruptcy court or a United States district court in connection with a case under this title.
+&emsp;(2) “document for filing” means a petition or any other document prepared for filing by a debtor in a United States bankruptcy court or a United States district court in connection with a case under this title.
 
 (b)(1) A bankruptcy petition preparer who prepares a document for filing shall sign the document and print on the document the preparer's name and address. If a bankruptcy petition preparer is not an individual, then an officer, principal, responsible person, or partner of the bankruptcy petition preparer shall be required to—
 
@@ -72,7 +72,7 @@
 
 (3)(A) The court shall disallow and order the immediate turnover to the bankruptcy trustee any fee referred to in paragraph (2)—
 
-&emsp;(i) found to be in excess of the value of any services rendered by the bankruptcy petition preparer during the 12-month period immediately preceding the date of the filing of the petition; or
+&emsp;(i) found to be in excess of the value of any services rendered by the bankruptcy petitionpreparer during the 12-month period immediately preceding the date of the filing of the petition; or
 
 &emsp;(ii) found to be in violation of any rule or guideline promulgated or prescribed under paragraph (1).
 
@@ -122,7 +122,7 @@
 
 (k) Nothing in this section shall be construed to permit activities that are otherwise prohibited by law, including rules and laws that prohibit the unauthorized practice of law.
 
-(<i>l</i>)(1) A bankruptcy petition preparer who fails to comply with any provision of subsection (b), (c), (d), (e), (f), (g), or (h) may be fined not more than $500 for each such failure.
+(l)(1) A bankruptcy petition preparer who fails to comply with any provision of subsection (b), (c), (d), (e), (f), (g), or (h) may be fined not more than $500 for each such failure.
 
 (2) The court shall triple the amount of a fine assessed under paragraph (1) in any case in which the court finds that a bankruptcy petition preparer—
 
@@ -152,13 +152,13 @@ The Federal Rules of Bankruptcy Procedure, referred to in subsec. (b)(2)(A), are
 
 Subsec. (h)(1). Pub. L. 111–327, §2(a)(7)(B)(i), in last sentence, substituted “filing for the debtor” for “filing for a debtor” and inserted “or on behalf of” after “from”.
 
-Subsec. (h)(3)(A). Pub. L. 111–327, §2(a)(7)(B)(ii)(I), struck out “found to be in excess of the value of anyservices” after “paragraph (2)” in introductory provisions.
+Subsec. (h)(3)(A). Pub. L. 111–327, §2(a)(7)(B)(ii)(I), struck out “found to be in excess of the value of any services” after “paragraph (2)” in introductory provisions.
 
 Subsec. (h)(3)(A)(i). Pub. L. 111–327, §2(a)(7)(B)(ii)(II), inserted “found to be in excess of the value of any services” after “(i)”.
 
 Subsec. (h)(4). Pub. L. 111–327, §2(a)(7)(B)(iii), substituted “paragraph (3)” for “paragraph (2)”.
 
-<b>2007</b>—Subsec. (<i>l</i>)(4)(A). Pub. L. 110–161 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Fines imposed under this subsection in judicial districts served by United States trustees shall be paid to the United States trustee, who shall deposit an amount equal to such fines in a special account of the United States Trustee System Fund referred to in section 586(e)(2) of title 28. Amounts deposited under this subparagraph shall be available to fund the enforcement of this section on a national basis.”
+<b>2007</b>—Subsec. (l)(4)(A). Pub. L. 110–161 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Fines imposed under this subsection in judicial districts served by United States trustees shall be paid to the United States trustee, who shall deposit an amount equal to such fines in a special account of the United States Trustee System Fund referred to in section 586(e)(2) of title 28. Amounts deposited under this subparagraph shall be available to fund the enforcement of this section on a national basis.”
 
 <b>2005</b>—Subsec. (a)(1). Pub. L. 109–8, §221(1), substituted “for the debtor or an employee of such attorney under the direct supervision of such attorney” for “or an employee of an attorney”.
 
@@ -204,7 +204,7 @@ Subsec. (j)(4). Pub. L. 109–8, §1205, substituted “attorneys” for “atto
 
 Pub. L. 109–8, §221(10)(B), redesignated par. (3) as (4).
 
-Subsec. (<i>l</i>). Pub. L. 109–8, §221(11), added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 109–8, §221(11), added subsec. (l).
 
 #### Effective Date of 2005 Amendment
 

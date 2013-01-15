@@ -40,7 +40,7 @@ Retention Special Pay.—(1) Under regulations prescribed under section 303a(a) 
 
 #### Amendments
 
-<b>2006</b>—Subsec. (b)(4). Pub. L. 109–163 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The Secretary concerned may terminate at any time the eligibility of an officer to receive retention special pay under paragraph (1). If such eligibility is terminated, the officer concerned shall receive such special pay only for the part of the period of active duty that the officer served and may be required to refund any amount in excess of that amount.”
+<b>2006</b>—Subsec. (b)(4). Pub. L. 109–163 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The Secretary concerned may terminate at any time the eligibility of an officer to receive retention special pay under paragraph (1). If such eligibility is terminated, the officer concerned shall receive such special pay only for the part of the period of active duty thatthe officer served and may be required to refund any amount in excess of that amount.”
 
 <b>2002</b>—Subsec. (b)(1). Pub. L. 107–314 substituted “$15,000” for “$6,000”.
 
@@ -68,7 +68,7 @@ Subsecs. (b), (c). Pub. L. 95–114 reenacted subsec. (b) without change and add
 
 #### Effective Date of 1977 Amendment
 
-Section 4 of Pub. L. 95–114 provided that: “The amendments made by sections 2 and 3 of this Act \[amending this section and section 303 of this title\] become effective on October 1, 1977.”
+Pub. L. 95–114, §4, Sept. 30, 1977, 91 Stat. 1047, provided that: “The amendments made by sections 2 and 3 of this Act \[amending this section and section 303 of this title\] become effective on October 1, 1977.”
 
 #### Effective Date of 1973 Amendment
 
@@ -76,7 +76,7 @@ Amendment by Pub. L. 93–64 effective July 1, 1973, see section 206 of Pub. L. 
 
 #### Effective Date
 
-Section 209 of title II of Pub. L. 92–129 provided that: “The foregoing provisions of this title \[enacting this section and section 428 of this title and amending sections 203 and 403 of this title and sections 2204 and 2207 of Title 50, Appendix, War and National Defense\] shall become effective on October 1, 1971, except that section 203 \[enacting section 308a of this title\] shall become effective on such date as shall be prescribed by the Secretary of Defense, but not earlier than February 1, 1971, and section 206 \[amending section 2203 of Title 50, Appendix\] shall become effective July 1, 1971.”
+Pub. L. 92–129, title II, §209, Sept. 28, 1971, 85 Stat. 359, provided that: “The foregoing provisions of this title \[enacting this section and section 428 of this title and amending sections 203 and 403 of this title and sections 2204 and 2207 of Title 50, Appendix, War and National Defense\] shall become effective on October 1, 1971, except that section 203 \[enacting section 308a of this title\] shall become effective on such date as shall be prescribed by the Secretary of Defense, but not earlier than February 1, 1971, and section 206 \[amending section 2203 of Title 50, Appendix\] shall become effective July 1, 1971.”
 
 #### Savings Provision
 

@@ -1,6 +1,4 @@
 
-17 U.S.C.<br>United States Code, 2011 Edition<br>Title 17 - COPYRIGHTS<br>From the U.S. Government Publishing Office, www.gpo.gov
-
 # TITLE 17—COPYRIGHTS
 
 <i>    This title was enacted by act July 30, 1947, ch. 391, 61 Stat. 652, and was revised in its entirety by     Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2541</i>
@@ -581,19 +579,19 @@ Title 17, as enacted by act July 30, 1947, ch. 391, 61 Stat. 652, consisting of 
 
 #### Effective Date
 
-Section 102 of Pub. L. 94–553, Oct. 19, 1976, 90 Stat. 2598, provided that: “This Act \[enacting this title and section 170 of Title 2, The Congress, amending section 131 of Title 2, section 290e of Title 15, Commerce and Trade, section 2318 of Title 18, Crimes and Criminal Procedure, section 543 of Title 26, Internal Revenue Code, section 1498 of Title 28, Judiciary and Judicial Procedure, sections 3203 and 3206 of Title 39, Postal Service, and sections 505 and 2117 of Title 44, Public Printing and Documents, and enacting provisions set out as notes below and under sections 104, 115, 304, 401, 407, 410, and 501 of this title\] becomes effective on January 1, 1978, except as otherwise expressly provided by this Act, including provisions of the first section of this Act. The provisions of sections 118, 304(b), and chapter 8 of title 17, as amended by the first section of this Act, take effect upon enactment of this Act \[Oct. 19, 1976\].”
+Pub. L. 94–553, title I, §102, Oct. 19, 1976, 90 Stat. 2598, provided that: “This Act \[enacting this title and section 170 of Title 2, The Congress, amending section 131 of Title 2, section 290e of Title 15, Commerce and Trade, section 2318 of Title 18, Crimes and Criminal Procedure, section 543 of Title 26, Internal Revenue Code, section 1498 of Title 28, Judiciary and Judicial Procedure, sections 3203 and 3206 of Title 39, Postal Service, and sections 505 and 2117 of Title 44, Public Printing and Documents, and enacting provisions set out as notes below and under sections 104, 115, 304, 401, 407, 410, and 501 of this title\] becomes effective on January 1, 1978, except as otherwise expressly provided by this Act, including provisions of the first section of this Act. The provisions of sections 118, 304(b), and chapter 8 of title 17, as amended by the first section of this Act, take effect upon enactment of this Act \[Oct. 19, 1976\].”
 
 #### Separability
 
-Section 115 of Pub. L. 94–553, Oct. 19, 1976, 90 Stat. 2602, provided that: “If any provision of title 17 \[this title\], as amended by the first section of this Act, is declared unconstitutional, the validity of the remainder of this title is not affected.”
+Pub. L. 94–553, title I, §115, Oct. 19, 1976, 90 Stat. 2602, provided that: “If any provision of title 17 \[this title\], as amended by the first section of this Act, is declared unconstitutional, the validity of the remainder of this title is not affected.”
 
 #### Authorization of Appropriations
 
-Section 114 of Pub. L. 94–553, Oct. 19, 1976, 90 Stat. 2602, provided that: “There are hereby authorized to be appropriated such funds as may be necessary to carry out the purposes of this Act \[this title\].”
+Pub. L. 94–553, title I, §114, Oct. 19, 1976, 90 Stat. 2602, provided that: “There are hereby authorized to be appropriated such funds as may be necessary to carry out the purposes of this Act \[this title\].”
 
 #### Lost and Expired Copyrights; Recording Rights
 
-Section 103 of Pub. L. 94–553, Oct. 19, 1976, 90 Stat. 2599, provided that: “This Act \[enacting this title\] does not provide copyright protection for any work that goes into the public domain before January 1, 1978. The exclusive rights, as provided by section 106 of title 17 as amended by the first section of this Act, to reproduce a work in phonorecords and to distribute phonorecords of the work, do not extend to any nondramatic musical work copyrighted before July 1, 1909.”
+Pub. L. 94–553, title I, §103, Oct. 19, 1976, 90 Stat. 2599, provided that: “This Act \[enacting this title\] does not provide copyright protection for any work that goes into the public domain before January 1, 1978. The exclusive rights, as provided by section 106 of title 17 as amended by the first section of this Act, to reproduce a work in phonorecords and to distribute phonorecords of the work, do not extend to any nondramatic musical work copyrighted before July 1, 1909.”
 
 
 ---

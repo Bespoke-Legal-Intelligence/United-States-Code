@@ -8,7 +8,7 @@
 
 #### (2) Private applicator
 
-&emsp;Any private applicator or other person not included in paragraph (1) who violates any provision of this subchapter subsequent to receiving a written warning from the Administrator or following a citation for a prior violation, may be assessed a civil penalty by the Administrator of not more than $1,000 for each offense, except that any applicator not included under paragraph (1) of this subsection who holds or applies registered pesticides, or uses dilutions of registered pesticides, only to provide a service of controlling pests without delivering any unapplied pesticide to any person so served, and who violates any provision of this subchapter may be assessed a civil penalty by the Administrator of not more than $500 for the first offense nor more than $1,000 for each subsequent offense.
+&emsp;Any private applicator or other person not included in paragraph (1) who violates anyprovision of this subchapter subsequent to receiving a written warning from the Administrator or following a citation for a prior violation, may be assessed a civil penalty by the Administrator of not more than $1,000 for each offense, except that any applicator not included under paragraph (1) of this subsection who holds or applies registered pesticides, or uses dilutions of registered pesticides, only to provide a service of controlling pests without delivering any unapplied pesticide to any person so served, and who violates any provision of this subchapter may be assessed a civil penalty by the Administrator of not more than $500 for the first offense nor more than $1,000 for each subsequent offense.
 
 #### (3) Hearing
 
@@ -48,7 +48,7 @@
 
 <b>1991</b>—Subsec. (a)(2). Pub. L. 102–237 substituted “, except that” for “: <i>Provided</i>, That” and “uses” for “use”.
 
-<b>1988</b>—Subsec. (b)(1). Pub. L. 100–532 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Any registrant, commercial applicator, wholesaler, dealer, retailer, or other distributor who knowinglyviolates any provision of this subchapter shall be guilty of a misdemeanor and shall on conviction be fined not more than $25,000, or imprisoned for not more than one year, or both.”
+<b>1988</b>—Subsec. (b)(1). Pub. L. 100–532 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Any registrant, commercial applicator, wholesaler, dealer, retailer, or other distributor who knowingly violates any provision of this subchapter shall be guilty of a misdemeanor and shall on conviction be fined not more than $25,000, or imprisoned for not more than one year, or both.”
 
 <b>1978</b>—Subsec. (a)(2). Pub. L. 95–396, §17(1), authorized assessment of a civil penalty of not more than $500 for a first offense and not more than $1,000 for each subsequent offense against any applicator providing a service of controlling pests for violations of this subchapter.
 

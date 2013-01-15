@@ -12,7 +12,7 @@ The Assistant Secretary of State for Democracy, Human Rights, and Labor shall be
 
 (1) Arms and ammunition may be provided under this part only if they are directly related to antiterrorism assistance.
 
-(2) The value (in terms of original acquisition cost) of all equipment and commodities providedunder this part in any fiscal year shall not exceed 30 percent of the funds made available to carry out this part for that fiscal year.
+(2) The value (in terms of original acquisition cost) of all equipment and commodities provided under this part in any fiscal year shall not exceed 30 percent of the funds made available to carry out this part for that fiscal year.
 
 #### (d) Information exchange activities
 
@@ -24,7 +24,7 @@ This part does not apply to information exchange activities conducted by agencie
 
 This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-The Arms Export Control Act, referred to in subsec. (a), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+The Arms Export Control Act, referred to in subsec. (a), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, asamended, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 #### Codification
 

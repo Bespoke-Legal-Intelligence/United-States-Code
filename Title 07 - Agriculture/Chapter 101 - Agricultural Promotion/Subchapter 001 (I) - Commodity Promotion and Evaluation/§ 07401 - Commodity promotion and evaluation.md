@@ -56,7 +56,7 @@ Congress finds the following:
 
 &emsp;(5) It has never been the intent of Congress for the generic commodity promotion programs established and funded by the commodity promotion laws to replace the individual advertising and promotion efforts of producers or processors.
 
-&emsp;(6) An individual producer's or processor's own advertising initiatives are typically designed to increase the share of the market held by that producer or processor rather than to increase or expand the overall size of the market.
+&emsp;(6) An individual producer's or processor's own advertising initiatives are typically designed to increase the share of the market held by that producer or processor rather thanto increase or expand the overall size of the market.
 
 &emsp;(7) In contrast, a generic commodity promotion program is intended and designed to maintain or increase the overall demand for the agricultural commodity covered by the program and increase the size of the market for that commodity, often by utilizing promotion methods and techniques that individual producers and processors typically are unable, or have no incentive, to employ.
 

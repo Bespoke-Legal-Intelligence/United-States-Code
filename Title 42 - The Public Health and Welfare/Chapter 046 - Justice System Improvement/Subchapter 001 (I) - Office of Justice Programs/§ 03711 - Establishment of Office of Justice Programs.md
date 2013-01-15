@@ -1,6 +1,6 @@
 ### §3711. Establishment of Office of Justice Programs
 
-There is hereby established an Office of Justice Programs within the Department of Justice under the general authority of the AttorneyGeneral. The Office of Justice Programs (hereinafter referred to in this chapter as the “Office”) shall be headed by an Assistant Attorney General (hereinafter in this chapter referred to as the “Assistant Attorney General”) appointed by the President, by and with the advice and consent of the Senate.
+There is hereby established an Office of Justice Programs within the Department of Justice under the general authority of the Attorney General. The Office of Justice Programs (hereinafter referred to in this chapter as the “Office”) shall be headed by an Assistant Attorney General (hereinafter in this chapter referred to as the “Assistant Attorney General”) appointed by the President, by and with the advice and consent of the Senate.
 
 (Pub. L. 90–351, title I, §101, as added Pub. L. 98–473, title II, §603(a), Oct. 12, 1984, 98 Stat. 2077.)
 
@@ -16,7 +16,7 @@ Another prior section 3711, Pub. L. 90–351, title I, §101, June 19, 1968, 82 
 
 #### Effective Date
 
-Section 609AA of Pub. L. 98–473 provided that:
+Pub. L. 98–473, title II, §609AA, Oct. 12, 1984, 98 Stat. 2107, provided that:
 
 “(a) Except as provided in subsection (b), this division and the amendments made by this title \[probably means division, see Short Title of 1984 Amendment note below\] shall take effect on the date of the enactment of this joint resolution \[Oct. 12, 1984\] or October 1, 1984, whichever is later.
 
@@ -24,11 +24,19 @@ Section 609AA of Pub. L. 98–473 provided that:
 
 “(2) Section 609Z \[repealing section 204 of Pub. L. 98–411, which had amended sections 3796 to 3796b of this title and enacted provisions set out as a note under section 3796 of this title\] shall take effect on October 1, 1984.”
 
+#### Short Title of 2013 Amendment
+
+Pub. L. 112–239, div. A, title X, §1086(a), Jan. 2, 2013, 126 Stat. 1964, provided that: “This section \[amending sections 3791, 3796 to 3796c–2, 3796d–1 to 3796d–3, 3796d–5, and 3796d–6 of this title and sections 101 and 402 of Title 26, Internal Revenue Code, and enacting provisions set out as a note under section 3791 of this title\] may be cited as the ‘Dale Long Public Safety Officers’ Benefits Improvements Act of 2012’.”
+
+#### Short Title of 2012 Amendment
+
+Pub. L. 112–189, §1, Oct. 5, 2012, 126 Stat. 1435, provided that: “This Act \[amending section 3796kk–5 of this title and repealing section 14102 of this title\] may be cited as the ‘Reporting Efficiency Improvement Act’.”
+
 #### Short Title of 2008 Amendment
 
 Pub. L. 110–421, §1, Oct. 15, 2008, 122 Stat. 4778, provided that: “This Act \[amending section 3793 of this title\] may be cited as the ‘Bulletproof Vest Partnership Grant Act of 2008’.”
 
-Pub. L. 110–416, §1(a), Oct. 14, 2008, 122 Stat. 4352, provided that: “This Act \[amending section 3797aa of this title and enacting provisions set out as a note under section 3797aa of this title\] may be cited as the ‘Mentally Ill Offender Treatment and Crime Reduction Reauthorization and Improvement Act of 2008’.”
+Pub. L. 110–416, §1(a), Oct. 14, 2008, 122 Stat. 4352, provided that: “This Act \[amending section 3797aa of this title and enacting provisions set out as a note undersection 3797aa of this title\] may be cited as the ‘Mentally Ill Offender Treatment and Crime Reduction Reauthorization and Improvement Act of 2008’.”
 
 Pub. L. 110–345, §1, Oct. 7, 2008, 122 Stat. 3938, provided that: “This Act \[amending section 3797cc–2 of this title\] may be cited as the ‘Drug Endangered Children Act of 2007’.”
 
@@ -46,7 +54,7 @@ Pub. L. 108–182, §1, Dec. 15, 2003, 117 Stat. 2649, provided that: “This Ac
 
 Pub. L. 107–273, div. A, title IV, §401, Nov. 2, 2002, 116 Stat. 1789, provided that: “This title \[enacting sections 3796gg–0 to 3796gg–0d of this title, amending sections 3796gg–1 to 3796gg–5 of this title, and enacting provisions set out as a note under section 3796gg–0 of this title\] may be cited as the ‘Violence Against Women Office Act’.”
 
-Pub. L. 107–273, div. B, title II, §2001, Nov. 2, 2002, 116 Stat. 1792, provided that: “This title \[enacting subchapter XVI of this chapter and sections 3797w and 3797w–1 of this title, amending sections 285<i>o</i>–2, 3793, 3796ff, 3796ff–1, and 3797ff–3 of this title, sections 3565 and 3583 of Title 18, Crimes and Criminal Procedure, and section 823 of Title 21, Food and Drugs, and enacting provisions set out as notes under sections 3722 and 3797u of this title and section 3601 of Title 18\] may be cited as the ‘Drug Abuse Education, Prevention, and Treatment Act of 2002’.”
+Pub. L. 107–273, div. B, title II, §2001, Nov. 2, 2002, 116 Stat. 1792, provided that: “This title \[enacting subchapter XVI of this chapter and sections 3797w and 3797w–1 of this title, amending sections 285o–2, 3793, 3796ff, 3796ff–1, and 3797ff–3 of this title, sections 3565 and 3583 of Title 18, Crimes and Criminal Procedure, and section 823 of Title 21, Food and Drugs, and enacting provisions set out as notes under sections 3722 and 3797u of this title and section 3601 of Title 18\] may be cited as the ‘Drug Abuse Education, Prevention, and Treatment Act of 2002’.”
 
 Pub. L. 107–273, div. C, title I, §11027(a), Nov. 2, 2002, 116 Stat. 1834, provided that: “This section \[enacting subchapter XVIII of this chapter\] may be cited as the ‘Crime-Free Rural States Act of 2002’.”
 
@@ -60,7 +68,7 @@ Pub. L. 106–572, §1, Dec. 28, 2000, 114 Stat. 3058, provided that: “This Ac
 
 Pub. L. 106–561, §1, Dec. 21, 2000, 114 Stat. 2787, provided that: “This Act \[enacting subchapter XV of this chapter, amending sections 3751, 3753, 3793, and 14601 of this title and section 983 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under section 14135 of this title and section 983 of Title 18\] may be cited as the ‘Paul Coverdell National Forensic Sciences Improvement Act of 2000’.”
 
-Pub. L. 106–517, §1, Nov. 13, 2000, 114 Stat. 2407, provided that: “This Act \[amending sections 3793 and 3796<i>ll</i> to 3796<i>ll–2</i> of this title and enacting provisions set out as notes under sections 3796<i>ll</i> and 3796<i>ll</i>–2 of this title\] may be cited as the ‘Bulletproof Vest Partnership Grant Act of 2000’.”
+Pub. L. 106–517, §1, Nov. 13, 2000, 114 Stat. 2407, provided that: “This Act \[amending sections 3793 and 3796ll to 3796<i>ll–2</i> of this title and enacting provisions set out as notes under sections 3796ll and 3796ll–2 of this title\] may be cited as the ‘Bulletproof Vest Partnership Grant Act of 2000’.”
 
 Pub. L. 106–515, §1, Nov. 13, 2000, 114 Stat. 2399, provided that: “This Act \[enacting subchapter XII–J of this chapter, amending section 3793 of this title, and enacting provisions set out as a note under section 3796ii of this title\] may be cited as the ‘America's Law Enforcement and Mental Health Project’.”
 
@@ -68,9 +76,9 @@ Pub. L. 106–177, title I, §101, Mar. 10, 2000, 114 Stat. 35, provided that: �
 
 #### Short Title of 1998 Amendments
 
-Pub. L. 105–390, §1, Nov. 13, 1998, 112 Stat. 3495, provided that: “This Act \[amending sections 3796d, 3796d–1,3796d–3, 3796d–5, and 3796d–6 of this title\] may be cited as the ‘Police, Fire, and Emergency Officers Educational Assistance Act of 1998’.”
+Pub. L. 105–390, §1, Nov. 13, 1998, 112 Stat. 3495, provided that: “This Act \[amending sections 3796d, 3796d–1, 3796d–3, 3796d–5, and 3796d–6 of this title\] may be cited as the ‘Police, Fire, and Emergency Officers Educational Assistance Act of 1998’.”
 
-Pub. L. 105–181, §1, June 16, 1998, 112 Stat. 512, provided that: “This Act \[enacting subchapter XII–M of this chapter, amending sections 3793 and 3797 of this title, and enacting provisions set out as a note under section 3796<i>ll</i> of this title\] may be cited as the ‘Bulletproof Vest Partnership Grant Act of 1998’.”
+Pub. L. 105–181, §1, June 16, 1998, 112 Stat. 512, provided that: “This Act \[enacting subchapter XII–M of this chapter, amending sections 3793 and 3797 of this title, and enacting provisions set out as a note under section 3796ll of this title\] may be cited as the ‘Bulletproof Vest Partnership Grant Act of 1998’.”
 
 Pub. L. 105–180, §1, June 16, 1998, 112 Stat. 511, provided that: “This Act \[amending sections 3796a–1 and 3796c of this title\] may be cited as the ‘Care for Police Survivors Act of 1998’.”
 
@@ -90,11 +98,11 @@ Pub. L. 99–570, title I, §1551, Oct. 27, 1986, 100 Stat. 3207–41, provided 
 
 #### Short Title of 1984 Amendment
 
-Section 601 of Pub. L. 98–473 provided that: “This division \[division I (§§601–609AA) of chapter VI of title II of Pub. L. 98–473, enacting chapter 111, this section, and sections 3712, 3741 to 3748, 3769 to 3769d, 3771, 3786 to 3789 of this title, amending sections 3721, 3722, 3731, 3732, 3761 to 3766, 3782 to 3785, 3789d to 3789g, 3789i, 3789<i>l</i>, 3791, 3793, 3795, 3795b, 3796 to 3796c, and 3797 of this title, sections 5314 and 5315 of Title 5, Government Organization and Employees, and section 1761 of Title 18, Crimes and Criminal Procedure, omitting sections 3713 and 3772 to 3775 of this title, repealing sections 3701, 3724, 3734, 3751 to 3755, 3781, 3786 to 3789c, 3789h, 3789<i>o</i>, 3793b, and 3796 to 3796b of this title, enacting provisions set out as notes under this section and section 1028 of Title 18, and amending provisions set out as a note under section 1761 of Title 18\] may be cited as the ‘Justice Assistance Act of 1984’.”
+Pub. L. 98–473, title II, §601, Oct. 12, 1984, 98 Stat. 2077, provided that: “This division \[division I (§§601–609AA) of chapter VI of title II of Pub. L. 98–473, enacting chapter 111, this section, and sections 3712, 3741 to 3748, 3769 to 3769d, 3771, 3786 to 3789 of this title, amending sections 3721, 3722, 3731, 3732, 3761 to 3766, 3782 to 3785, 3789d to 3789g, 3789i, 3789l, 3791, 3793, 3795, 3795b, 3796 to 3796c, and 3797 of this title, sections 5314 and 5315 of Title 5, Government Organization and Employees, and section 1761 of Title 18, Crimes and Criminal Procedure, omitting sections 3713 and 3772 to 3775 of this title, repealing sections 3701, 3724, 3734, 3751 to 3755, 3781, 3786 to 3789c, 3789h, 3789o, 3793b, and 3796 to 3796b of this title, enacting provisions set out as notes under this section andsection 1028 of Title 18, and amending provisions set out as a note under section 1761 of Title 18\] may be cited as the ‘Justice Assistance Act of 1984’.”
 
 #### Short Title of 1979 Amendment
 
-Section 1 of Pub. L. 96–157 provided: “That this Act \[enacting this chapter, amending sections 5314 and 5315 of Title 5, Government Organization and Employees, section 1761 of Title 18, Crimes and Criminal Procedure, and section 35 of Title 41, Public Contracts, and enacting provisions set out as a note under section 1761 of Title 18\] may be cited as the ‘Justice System Improvement Act of 1979’.”
+Pub. L. 96–157, §1, Dec. 27, 1979, 93 Stat. 1167, provided: “That this Act \[enacting this chapter, amending sections 5314 and 5315 of Title 5, Government Organization and Employees, section 1761 of Title 18, Crimes and Criminal Procedure, and section 35 of Title 41, Public Contracts, and enacting provisions set out as a note under section 1761 of Title 18\] may be cited as the ‘Justice System Improvement Act of 1979’.”
 
 #### Short Title of 1976 Amendments
 
@@ -112,17 +120,17 @@ Pub. L. 91–644, §1, Jan. 2, 1971, 84 Stat. 1880, provided: “That this Act \
 
 #### Short Title
 
-Section 1 of Pub. L. 90–351, June 19, 1968, 82 Stat. 197, provided: “That this Act \[enacting this chapter, sections 5315(90), 5316(126), and 7313 of Title 5, Government Organization and Employees, sections 921 to 928 (chapter 44), 2510 to 2520 (chapter 119), 3103a, 3501, and 3502 of Title 18, Crimes and Criminal Procedure, and Appendix to Title 18, amending section 3334(a) of this title, section 3731 of Title 18, and section 605 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, repealing sections 901 to 910 of Title 15, Commerce and Trade, enacting provisions set out as notes under sections 7313 of Title 5, sections 921 and 2510 of Title 18, and section 532 of Title 28, Judiciary and Judicial Procedure, and repealing provisions set out as a note preceding section 3001 of Title 18\] may be cited as the ‘Omnibus Crime Control and Safe Streets Act of 1968’.”
+Pub. L. 90–351, §1, June 19, 1968, 82 Stat. 197, provided: “That this Act \[enacting this chapter, sections 5315(90), 5316(126), and 7313 of Title 5, Government Organization and Employees, sections 921 to 928 (chapter 44), 2510 to 2520 (chapter 119), 3103a, 3501, and 3502 of Title 18, Crimes and Criminal Procedure, and Appendix to Title 18, amending section 3334(a) of this title, section 3731 of Title 18, and section 605 of Title 47, Telecommunications, repealing sections 901 to 910 of Title 15, Commerce and Trade, enacting provisions set out as notes under sections 7313 of Title 5, sections 921 and 2510 of Title 18, and section 532 of Title 28, Judiciary and Judicial Procedure, and repealing provisions set out as a note preceding section 3001 of Title 18\] may be cited as the ‘Omnibus Crime Control and Safe Streets Act of 1968’.”
 
 #### Separability
 
-Section 1601 of Pub. L. 90–351, title XI, June 19, 1968, 82 Stat. 239, provided that: “If the provisions of any part of this Act \[see Short Title note above\] or any amendments made thereby or the application thereof to any person or circumstances be held invalid, the provisions of the other parts and their application to other persons or circumstances shall not be affected thereby.” \[Another section 1601 of Pub. L. 90–351 is classified to section 3796cc of this title.\]
+Pub. L. 90–351, title XI, §1601, June 19, 1968, 82 Stat. 239, provided that: “If the provisions of any part of this Act \[see Short Title note above\] or any amendments made thereby or the application thereof to any person or circumstances be held invalid, the provisions of the other parts and their application to other persons or circumstances shall not be affected thereby.” \[Another section 1601 of Pub. L. 90–351 is classified to section 3796cc of this title.\]
 
 #### References in Other Laws
 
-Section 609I of Pub. L. 98–473 provided that:
+Pub. L. 98–473, title II, §609I, Oct. 12, 1984, 98 Stat. 2102, provided that:
 
-“(a) Any reference to the Law Enforcement Assistance Administration, or to the Administrator of theLaw Enforcement Assistance Administration, in any law other than this Act \[see Short Title of 1984 Amendment note set out above\] and the Omnibus Crime Control and Safe Streets Act of 1968 \[see Short Title note set out above\], applicable to activities, functions, powers, and duties that after the date of the enactment of this Act \[Oct. 12, 1984\] are carried out by the Bureau of Justice Assistance shall be deemed to be a reference to the Bureau of Justice Assistance, or to the Director of the Bureau of Justice Assistance, as the case may be.
+“(a) Any reference to the Law Enforcement Assistance Administration, or to the Administrator of the Law Enforcement Assistance Administration, in any law other than this Act \[see Short Title of 1984 Amendment note set out above\] and the Omnibus Crime Control and Safe Streets Act of 1968 \[see Short Title note set out above\], applicable to activities, functions, powers, and duties that after the date of the enactment of this Act \[Oct. 12, 1984\] are carried out by the Bureau of Justice Assistance shall be deemed to be a reference to the Bureau of Justice Assistance, or to the Director of the Bureau of Justice Assistance, as the case may be.
 
 “(b) Any reference to the Office of Justice Assistance, Research, and Statistics, or to the Director of the Office of Justice Assistance, Research, and Statistics, in any law other than this Act and the Omnibus Crime Control and Safe Streets Act of 1968, applicable to activities, functions, powers, and duties that after the date of the enactment of this Act are carried out by the Office of Justice Programs, the Bureau of Justice Assistance, the Bureau of Justice Statistics, the National Institute of Justice, or the Office of Juvenile Justice \[and\] Delinquency Prevention shall be deemed to be a reference to the Office of Justice Programs, the Bureau of Justice Assistance, the Bureau of Justice Statistics, National Institute of Justice, or Office of Juvenile Justice \[and\] Delinquency Prevention, or to the Director of the Office of Justice Programs, the Director of the Bureau of Justice Assistance, the Director of the Bureau of Justice Statistics, the Director of the National Institute of Justice, or the Administrator of the Office of Juvenile Justice and Delinquency Prevention, as the case may be.”
 

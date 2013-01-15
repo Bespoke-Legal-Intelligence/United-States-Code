@@ -2,11 +2,17 @@
 
 #### (a) In general
 
-The authority to initiate projects under this subchapter terminates on September 30, 2011.
+The authority to initiate projects under this subchapter terminates on September 30, 2012.
 
 #### (b) Availability
 
-Any county funds not obligated by September 30, 2012, shall be returned to the Treasury of the United States.
+Any county funds not obligated by September 30, 2013, shall be returned to the Treasury of the United States.
 
-(Pub. L. 106–393, title III, §304, as added Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3910.)
+(Pub. L. 106–393, title III, §304, as added Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3910; amended Pub. L. 112–141, div. F, title I, §100101(a)(2), (10), July 6, 2012, 126 Stat. 905, 906.)
+
+#### Amendments
+
+<b>2012</b>—Subsec. (a). Pub. L. 112–141, §100101(a)(2), substituted “2012” for “2011”.
+
+Subsec. (b). Pub. L. 112–141, §100101(a)(10), substituted “2013” for “2012”.
 

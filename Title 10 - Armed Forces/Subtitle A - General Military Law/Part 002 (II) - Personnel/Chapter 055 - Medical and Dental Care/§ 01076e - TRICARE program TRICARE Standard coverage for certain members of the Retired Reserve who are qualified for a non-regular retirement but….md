@@ -2,7 +2,7 @@
 
 (a)
 
-Eligibility.—(1) Except as provided in paragraph (2), a member of the Retired Reserve of a reserve component of the armed forces who is qualified for a non-regular retirement at age 60 under chapter 1223 of this title, but is not age60, is eligible for health benefits under TRICARE Standard as provided in this section.
+Eligibility.—(1) Except as provided in paragraph (2), a member of the Retired Reserve of a reserve component of the armed forces who is qualified for a non-regular retirement at age 60 under chapter 1223 of this title, but is not age 60, is eligible for health benefits under TRICARE Standard as provided in this section.
 
 (2) Paragraph (1) does not apply to a member who is enrolled, or is eligible to enroll, in a health benefits plan under chapter 89 of title 5.
 

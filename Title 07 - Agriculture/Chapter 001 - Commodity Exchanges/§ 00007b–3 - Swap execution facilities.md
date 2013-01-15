@@ -128,7 +128,7 @@ The goal of this section is to promote the trading of swaps on swap execution fa
 
 #### (A) In general
 
-&emsp;&emsp;The swap execution facility shall make public timely information on price, tradingvolume, and other trading data on swaps to the extent prescribed by the Commission.
+&emsp;&emsp;The swap execution facility shall make public timely information on price, trading volume, and other trading data on swaps to the extent prescribed by the Commission.
 
 #### (B) Capacity of swap execution facility
 
@@ -144,7 +144,7 @@ The goal of this section is to promote the trading of swaps on swap execution fa
 
 &emsp;&emsp;&emsp;(ii) report to the Commission, in a form and manner acceptable to the Commission, such information as the Commission determines to be necessary or appropriate for the Commission to perform the duties of the Commission under this chapter; and
 
-&emsp;&emsp;&emsp;(iii) shall keep any such records relating to swaps defined in section 1a(47)(A)(v) of this title open to inspection and examination by the Securities and Exchange Commission.
+&emsp;&emsp;&emsp;(iii) shall keep any such records relating to swaps defined in section 1a(47)(A)(v) of this title open to inspection and examination by the Securities and Exchange Commission.” <sup>1</sup>
 
 #### (B) Requirements
 
@@ -154,7 +154,7 @@ The goal of this section is to promote the trading of swaps on swap execution fa
 
 &emsp;Unless necessary or appropriate to achieve the purposes of this chapter, the swap execution facility shall not—
 
-&emsp;&emsp;(A) adopt any rules or taking <sup>1</sup> any actions that result in any unreasonable restraint of trade; or
+&emsp;&emsp;(A) adopt any rules or taking <sup>2</sup> any actions that result in any unreasonable restraint of trade; or
 
 &emsp;&emsp;(B) impose any material anticompetitive burden on trading or clearing.
 
@@ -260,5 +260,7 @@ The Commission shall prescribe rules governing the regulation of alternative swa
 
 Section effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 1a of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “take”.</i>
+<i><sup>1</sup></i><i> So in original. The closing quotation marks probably should not appear.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “take”.</i>
 

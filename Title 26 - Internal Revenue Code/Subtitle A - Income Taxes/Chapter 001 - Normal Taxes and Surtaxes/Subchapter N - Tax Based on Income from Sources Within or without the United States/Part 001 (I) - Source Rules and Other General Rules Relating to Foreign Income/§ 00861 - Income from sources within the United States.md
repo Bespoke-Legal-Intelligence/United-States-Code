@@ -44,7 +44,7 @@ The following items of gross income shall be treated as income from sources with
 
 &emsp;&emsp;&emsp;(ii) an individual who is a citizen or resident of the United States, a domestic partnership, or a domestic corporation, if such labor or services are performed for an office or place of business maintained in a foreign country or in a possession of the United States by such individual, partnership, or corporation.
 
-> &emsp;In addition, compensation for labor or services performed in the United States shall not be deemed to be income from sources within the United States if the labor or services are performed by a nonresident alien individual inconnection with the individual's temporary presence in the United States as a regular member of the crew of a foreign vessel engaged in transportation between the United States and a foreign country or a possession of the United States.
+> &emsp;In addition, compensation for labor or services performed in the United States shall not be deemed to be income from sources within the United States if the labor or services are performed by a nonresident alien individual in connection with the individual's temporary presence in the United States as a regular member of the crew of a foreign vessel engaged in transportation between the United States and a foreign country or a possession of the United States.
 
 #### (4) Rentals and royalties
 
@@ -94,7 +94,7 @@ For purposes of subsection (a)(2)(B), if the foreign corporation has no gross in
 
 &emsp;&emsp;(B) the use under such lease is expected to be use within the United States,
 
-> &emsp;all amounts includible in gross income by the taxpayer with respect to such railroad rolling stock (including gain from sale or other disposition of such railroad rolling stock) shall be treated as income from sources within the United States. The requirements of subparagraph (B) of the preceding sentence shall be treated as satisfied if the only expected use outside the United States is use by a person (whether or not a United States person) in Canada or Mexico on a temporary basis which is not expected to exceed a total of 90 days in any taxable year.
+> &emsp;all amounts includible in gross income by the taxpayer with respect to such railroad rolling stock (including gain from sale or other disposition of such railroad rolling stock) shall be treated as income from sources within the United States. The requirements of subparagraph (B) of the preceding sentence shall be treated as satisfied if the only expected use outside the United States is use by a person (whether or not a United States person) inCanada or Mexico on a temporary basis which is not expected to exceed a total of 90 days in any taxable year.
 
 #### (2) Paragraph (1) not to apply where lessor is a member of controlled group which includes a railroad
 
@@ -316,7 +316,7 @@ Amendment by section 7811(i)(2) of Pub. L. 101–239 effective, except as otherw
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1987 Amendment
 
@@ -330,7 +330,7 @@ Amendment by section 1211(b)(1)(B) of Pub. L. 99–514 applicable to taxable yea
 
 Amendment by section 1212(d) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with special rules for certain leased property and for certain ships leased by United States Navy, see section 1212(f) of Pub. L. 99–514, set out as a note under section 863 of this title.
 
-Section 1214(d) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1012(g)(1)(A), (2), Nov. 10, 1988, 102 Stat. 3500, 3501, provided that:
+Pub. L. 99–514, title XII, §1214(d), Oct. 22, 1986, 100 Stat. 2543, as amended by Pub. L. 100–647, title I, §1012(g)(1)(A), (2), Nov. 10, 1988, 102 Stat. 3500, 3501, provided that:
 
 “(1)
 
@@ -378,7 +378,7 @@ Qualified corporation.—For purposes of subparagraph (A), the term ‘qualified
 
 &emsp;&emsp;“(iii) the parent corporation of which is a resident of Sweden.”
 
-\[Section 1012(g)(1)(B) of Pub. L. 100–647 provided that: “A taxpayer may elect not to have the amendment made by subparagraph (A) \[amending section 1214(d)(1) of Pub. L. 99–514, set out above\] apply and to have section 1214(d)(1) of the Reform Act \[section 1214(d)(1) of Pub. L. 99–514, set out above\] apply as in effect before such amendment. Such election shall be made at such time and in such manner as the Secretary of the Treasury or his delegate may prescribe.”\]
+\[Pub. L. 100–647, title I, §1012(g)(1)(B), Nov. 10, 1988, 102 Stat. 3500, provided that: “A taxpayer may elect not to have the amendment made by subparagraph (A) \[amending section 1214(d)(1) of Pub. L. 99–514, set out above\] apply and to have section 1214(d)(1) of the Reform Act \[section 1214(d)(1) of Pub. L. 99–514, set out above\] apply as in effect before such amendment. Such election shall be made at such time and in such manner as the Secretary of the Treasury or his delegate may prescribe.”\]
 
 Amendment by section 1241(b) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 1241(e) of Pub. L. 99–514, set out as an Effective Date note under section 884 of this title.
 
@@ -386,15 +386,15 @@ Amendment by section 1241(b) of Pub. L. 99–514 applicable to taxable years beg
 
 Amendment by Pub. L. 98–21 applicable to benefits received after Dec. 31, 1983, in taxable years ending after such date, except for any portion of a lump-sum payment of social security benefits received after Dec. 31, 1983, if the generally applicable payment date for such portion was before Jan. 1, 1984, see section 121(g) of Pub. L. 98–21, set out as an Effective Date note under section 86 of this title.
 
-#### Effective Date of 1980 Amendments
+#### Effective Date of 1980 Amendment
 
-Section 104(b) of Pub. L. 96–605 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to property first leased after the date of the enactment of this Act \[Dec. 28, 1980\].”
+Pub. L. 96–605, title I, §104(b), Dec. 28, 1980, 94 Stat. 3523, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to property first leased after the date of the enactment of this Act \[Dec. 28, 1980\].”
 
 Amendment by Pub. L. 96–499 applicable to dispositions after June 18, 1980, see section 1125(a) of Pub. L. 96–499, set out as an Effective Date note under section 897 of this title.
 
 #### Effective Date of 1978 Amendment
 
-Section 370(b) of Pub. L. 95–600 provided that:
+Pub. L. 95–600, title III, §370(b), Nov. 6, 1978, 92 Stat. 2858, provided that:
 
 “(1)
 
@@ -408,13 +408,13 @@ to railroad rolling stock placed in service before date of enactment.
 
 &emsp;“(A)
 
-In general.—At the election of the taxpayer, the amendment made by subsection (a) shall also apply, for taxable years beginning after the date of the enactment of this Act, to all railroad rolling stock placed in service with respect to the taxpayer on or before such date of enactment. Such an election may not be revoked except with the consent of the Secretary of the Treasury or his delegate.
+In general.—At the election of the taxpayer, the amendment made by subsection (a) shall alsoapply, for taxable years beginning after the date of the enactment of this Act, to all railroad rolling stock placed in service with respect to the taxpayer on or before such date of enactment. Such an election may not be revoked except with the consent of the Secretary of the Treasury or his delegate.
 
 &emsp;“(B)
 
 Manner and time of election and revocation.—An election under subparagraph (A), and any revocation of such an election, shall be made in such manner and at such time as the Secretary of the Treasury or his delegate may by regulations prescribe.”
 
-Section 540(b) of Pub. L. 95–600 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Nov. 6, 1978\].”
+Pub. L. 95–600, title V, §540(b), Nov. 6, 1978, 92 Stat. 2887, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Nov. 6, 1978\].”
 
 #### Effective Date of 1977 Amendment
 
@@ -422,33 +422,33 @@ Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31
 
 #### Effective Date of 1976 Amendment
 
-Section 1036(c) of Pub. L. 94–455 provided that: “The amendments made by this section \[amending this section and section 862 of this title\] shall apply to taxable years beginning after December 31, 1976.”
+Pub. L. 94–455, title I, §1036(c), Oct. 4, 1976, 90 Stat. 1633, provided that: “The amendments made by this section \[amending this section and section 862 of this title\] shall apply to taxable years beginning after December 31, 1976.”
 
 For effective date of amendment by section 1051(h)(3) of Pub. L. 94–455, see section 1051(i)(1) of Pub. L. 94–455, set out as a note under section 27 of this title.
 
-Amendment by section 1901(b)(26)(A), (B), (c)(7) of Pub. L. 94–455 effective for taxable years beginningafter Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
+Amendment by section 1901(b)(26)(A), (B), (c)(7) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
 Amendment by section 1904(b)(10)(B) of Pub. L. 94–455 effective on first day of first month which begins more than 90 days after date of enactment of this Act \[Oct. 4, 1976\], see section 1904(d) of Pub. L. 94–455, set out as a note under section 4041 of this title.
 
 #### Effective Date of 1975 Amendment
 
-Section 9(c) of Pub. L. 93–625 provided that: “The amendment made by subsection (a) \[amending this section\] applies to interest paid after the date of enactment of this Act \[Jan. 3, 1975\], and the amendment made by subsection (b) \[amending section 2104 of this title\] applies with respect to estates of decedents dying after such date.”
+Pub. L. 93–625, §9(c), Jan. 3, 1975, 88 Stat. 2116, provided that: “The amendment made by subsection (a) \[amending this section\] applies to interest paid after the date of enactment of this Act \[Jan. 3, 1975\], and the amendment made by subsection (b) \[amending section 2104 of this title\] applies with respect to estates of decedents dying after such date.”
 
 #### Effective Date of 1971 Amendments
 
-Section 3(a)(3) of Pub. L. 92–9 provided that: “The amendments made by this subsection \[amending this section and section 4912 of this title\] shall take effect on the date of the enactment of this Act \[Apr. 1, 1971\].”
+Pub. L. 92–9, §3(a)(3), Apr. 1, 1971, 85 Stat. 15, provided that: “The amendments made by this subsection \[amending this section and section 4912 of this title\] shall take effect on the date of the enactment of this Act \[Apr. 1, 1971\].”
 
-Section 314(c) of Pub. L. 92–178 provided that: “The amendments made by this section \[amending this section and section 862 of this title\] shall apply to taxable years ending after August 15, 1971, but only with respect to leases entered into after such date.”
+Pub. L. 92–178, title III, §314(c), Dec. 10, 1971, 85 Stat. 528, provided that: “The amendments made by this section \[amending this section and section 862 of this title\] shall apply to taxable years ending after August 15, 1971, but only with respect to leases entered into after such date.”
 
 Amendment by section 503 of Pub. L. 92–178 applicable with respect to taxable years ending after Dec. 31, 1971, except that a corporation may not be a DISC for any taxable year beginning before Jan. 1, 1972, see section 507 of Pub. L. 92–178, set out as an Effective Date note under section 991 of this title.
 
 #### Effective Date of 1969 Amendment
 
-Section 435(a)(1) of Pub. L. 91–172 provided that the amendment made by that section is effective with respect to amounts paid or credited after Dec. 31, 1969.
+Pub. L. 91–172, title IV, §435(a)(1), Dec. 30, 1969, 83 Stat. 625, provided that the amendment made by that section is effective with respect to amounts paid or credited after Dec. 31, 1969.
 
 #### Effective Date of 1966 Amendment
 
-Section 102(e) of Pub. L. 89–809, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 89–809, title I, §102(e), Nov. 13, 1966, 80 Stat. 1547, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1) The amendments made by subsections (a), (c), and (d) \[amending this section and sections 864 and 895 of this title\] shall apply with respect to taxable years beginning after December 31, 1966; except that in applying section 864(c)(4)(B)(iii) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (d)) with respect to a binding contract entered into on or before February 24, 1966, activities in the United States on or before such date in negotiating or carrying out such contract shall not be taken into account.
 
@@ -464,11 +464,11 @@ Amendment by Pub. L. 86–779 applicable to dividends received after Dec. 31, 19
 
 #### Short Title of 1971 Amendment
 
-Section 1(a) of Pub. L. 92–9 provided that: “This Act \[amending this section and sections 4911, 4912, 4914 to 4916, 4919 to 4921, 6651, 6680, and 6681 of this title and enacting provisions set out as notes under this section and sections 6680 and 6681 of this title\] may be cited as the ‘Interest Equalization Tax Extension Act of 1971’.”
+Pub. L. 92–9, §1(a), Apr. 1, 1971, 85 Stat. 13, provided that: “This Act \[amending this section and sections 4911, 4912, 4914 to 4916, 4919 to 4921, 6651, 6680, and 6681 of this title and enacting provisions set out as notes under this section and sections 6680 and 6681 of this title\] may be cited as the ‘Interest Equalization Tax Extension Act of 1971’.”
 
 #### Short Title of 1966 Amendment
 
-Section 101 of title I of Pub. L. 89–809 provided that: “This title \[enacting sections 877, 896, 906, 981, 2107, 2108, and 6683 of this title, amending this section and sections 1, 11, 116, 154, 245, 301, 512, 542, 543, 545, 819, 821, 822, 831, 832, 841, 842, 864, 871, 872, 873, 874, 875, 881, 882, 884, 894, 895, 901, 904, 911, 931, 932, 952, 953, 1248, 1249, 1441, 1442, 1461, 2014, 2101, 2102, 2104, 2105, 2106, 2501, 2511, 3401, 6015, 6016, 6018, 6501, 6513, and 7701 of this title, redesignating former section 877 as 878, repealing section 1493, and enacting provisions set out as notes under this section and sections 11, 871, 874, 894, 901, 904, 931, 2101, 2501, and 6501 of this title\] may be cited as the ‘Foreign Investors Tax Act of 1966’.”
+Pub. L. 89–809, title I, §101, Nov. 13, 1966, 80 Stat. 1541, provided that: “This title \[enacting sections 877, 896, 906, 981, 2107, 2108, and 6683 of this title, amending this section and sections 1, 11, 116, 154, 245, 301, 512, 542, 543, 545, 819, 821, 822, 831, 832, 841, 842, 864, 871, 872, 873, 874, 875, 881, 882, 884, 894, 895, 901, 904, 911, 931, 932, 952, 953, 1248, 1249, 1441, 1442, 1461, 2014, 2101, 2102, 2104, 2105, 2106, 2501, 2511, 3401, 6015, 6016, 6018, 6501, 6513, and 7701 of this title, redesignating former section 877 as 878, repealing section 1493, and enacting provisions set out as notes under this section and sections 11, 871, 874, 894, 901, 904, 931, 2101, 2501, and 6501 of this title\] may be cited as the ‘Foreign Investors Tax Act of 1966’.”
 
 #### Savings Provision
 
@@ -480,7 +480,7 @@ Subsec. (a)(2)(B) of this section to be applied by substituting “100/80ths” 
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 
-Section 1012(aa)(2)–(4) of title I of Pub. L. 100–647 provided that:
+Pub. L. 100–647, title I, §1012(aa)(2)–(4), Nov. 10, 1988, 102 Stat. 3531, 3532, provided that:
 
 “(2)
 
@@ -500,7 +500,7 @@ Certain amendments not to apply to the extent inconsistent with treaties.—The 
 
 &emsp;&emsp;“(ii) such amendments relate to income of a nonresident from the sale or exchange of inventory property which would otherwise be sourced under section 865(e)(2) of the 1986 Code.
 
-&emsp;“(B) The amendments made by section 1212(a) of the Reform Act \[amending section 863 of this title\];except for purposes of determining the amount of the foreign tax credit.
+&emsp;“(B) The amendments made by section 1212(a) of the Reform Act \[amending section 863 of this title\]; except for purposes of determining the amount of the foreign tax credit.
 
 &emsp;“(C) The amendments made by subsections (b) and (c) of section 1212 of the Reform Act \[enacting section 887 of this title and amending sections 872 and 883 of this title\].
 
@@ -524,7 +524,7 @@ Treatment of technical corrections.—For purposes of paragraphs (2) and (3), an
 
 #### Qualified Research and Experimental Expenditures; Allocation and Apportionment; Definitions; Special Rules; Effective Dates
 
-Section 4009 of Pub. L. 100–647 provided that:
+Pub. L. 100–647, title IV, §4009, Nov. 10, 1988, 102 Stat. 3653, provided that:
 
 “(a)
 
@@ -596,7 +596,7 @@ In general.—Except as provided in this subsection, this section shall apply to
 
 &emsp;“(2)
 
-Reduction in amounts to which section applies.—Notwithstanding paragraph (1), this section shall only apply to that portion of the qualified research and experimental expenditures for the taxableyear referred to in paragraph (1) which bears the same ratio to the total amount of such expenditures as—
+Reduction in amounts to which section applies.—Notwithstanding paragraph (1), this section shall only apply to that portion of the qualified research and experimental expenditures for the taxable year referred to in paragraph (1) which bears the same ratio to the total amount of such expenditures as—
 
 &emsp;&emsp;“(A) the lesser of 4 months or the number of months in the taxable year, bears to
 
@@ -604,7 +604,7 @@ Reduction in amounts to which section applies.—Notwithstanding paragraph (1), 
 
 #### 1-Year Modification in Regulations Providing for Allocation of Research and Experimental Expenditures
 
-Section 1216 of Pub. L. 99–514 provided that:
+Pub. L. 99–514, title XII, §1216, Oct. 22, 1986, 100 Stat. 2549, provided that:
 
 “(a)
 
@@ -674,5 +674,5 @@ Special rule.—If the taxpayer's 4th taxable year beginning after August 13, 19
 
 #### Conformity of Amendments Made by Foreign Investors Tax Act of 1966 With Treaty Obligations of the United States
 
-Section 110 of title I of Pub. L. 89–809 provided that: “No amendment made by this title \[see Short Title note above\] shall apply in any case where its application would be contrary to any treaty obligation of the United States. For purposes of the preceding sentence, the extension of a benefit provided by any amendment made by this title shall not be deemed to be contrary to a treaty obligation of the United States.”
+Pub. L. 89–809, title I, §110, Nov. 13, 1966, 80 Stat. 1575, provided that: “No amendment made by this title \[see Short Title note above\] shall apply in any case where its application would be contrary to any treaty obligation of the United States. For purposes of the preceding sentence, the extension of a benefit provided by any amendment made by this title shall not be deemed to be contrary to a treaty obligation of the United States.”
 

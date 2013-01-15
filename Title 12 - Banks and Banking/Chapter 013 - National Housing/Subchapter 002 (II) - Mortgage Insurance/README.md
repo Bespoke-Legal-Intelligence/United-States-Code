@@ -8,7 +8,7 @@
 - [&sect; 01707 - Definitions](%C2%A7%2001707%20-%20Definitions.md)
 - [&sect; 01708 - Federal Housing Administration operations](%C2%A7%2001708%20-%20Federal%20Housing%20Administration%20operations.md)
 - [&sect; 01709 - Insurance of mortgages](%C2%A7%2001709%20-%20Insurance%20of%20mortgages.md)
-- [&sect; 01709&#8211;1 - Repealed. Pub. L. 98&#8211;181, title IV, &sect;404(a), Nov. 30, 1983, 97 Stat. 1208](%C2%A7%2001709%E2%80%931%20-%20Repealed.%20Pub.%20L.%2098%E2%80%93181%2C%20title%20IV%2C%20%C2%A7404%28a%29%2C%20Nov.%2030%2C%201983%2C%2097%20Stat.%201208.md)
+- [&sect; 01709&#8211;1 - Repealed. Pub. L. 98&#8211;181, title I \[title IV, &sect;404(a)\], Nov. 30, 1983, 97 Stat. 1208](%C2%A7%2001709%E2%80%931%20-%20Repealed.%20Pub.%20L.%2098%E2%80%93181%2C%20title%20I%20%5Btitle%20IV%2C%20%C2%A7404%28a%29%5D%2C%20Nov.%2030%2C%201983%2C%2097%20Stat.%201208.md)
 - [&sect; 01709&#8211;1a - State constitutional and legal limits upon interest chargeable on loans, mortgages, or other interim financing arrangements&#8230;](%C2%A7%2001709%E2%80%931a%20-%20State%20constitutional%20and%20legal%20limits%20upon%20interest%20chargeable%20on%20loans%2C%20mortgages%2C%20or%20other%20interim%20financing%20arrangements%E2%80%A6.md)
 - [&sect; 01709&#8211;2 - Equity skimming; penalty; persons liable; one dwelling exemption](%C2%A7%2001709%E2%80%932%20-%20Equity%20skimming%3B%20penalty%3B%20persons%20liable%3B%20one%20dwelling%20exemption.md)
 - [&sect; 01709a - Determination of loan-to-value ratios](%C2%A7%2001709a%20-%20Determination%20of%20loan-to-value%20ratios.md)

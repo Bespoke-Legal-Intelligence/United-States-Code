@@ -22,7 +22,7 @@ The authorization to enter into cooperative agreements, contracts or any other o
 
 #### (d) Prohibited uses of funds
 
-To ensure that funds made available under this chapter are used to supplement and improvethe operation of State courts, rather than to support basic court services, funds shall not be used—
+To ensure that funds made available under this chapter are used to supplement and improve the operation of State courts, rather than to support basic court services, funds shall not be used—
 
 &emsp;(1) to supplant State or local funds currently supporting a program or activity; or
 

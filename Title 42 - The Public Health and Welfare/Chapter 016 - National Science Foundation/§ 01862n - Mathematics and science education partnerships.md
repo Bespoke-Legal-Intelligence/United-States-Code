@@ -214,7 +214,7 @@
 
 #### (4) Report on coordination
 
-&emsp;The Director, in consultation with the Secretary of Education, shall provide an annual report to the Committee on Science of the House of Representatives, the Committee on Education and the Workforce of the House ofRepresentatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Health, Education, Labor, and Pensions of the Senate describing how the program authorized under this section has been and will be coordinated with the program authorized under part B of title II of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6661 et seq.\]. The report under this paragraph shall be submitted along with the President's annual budget request.
+&emsp;The Director, in consultation with the Secretary of Education, shall provide an annual report to the Committee on Science of the House of Representatives, the Committee on Education and the Workforce of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Health, Education, Labor, and Pensions of the Senate describing how the program authorized under this section has been and will be coordinated with the program authorized under part B of title II of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6661 et seq.\]. The report under this paragraph shall be submitted along with the President's annual budget request.
 
 #### (5) Technical assistance
 
@@ -284,11 +284,11 @@ Pub. L. 107–368, §2, Dec. 19, 2002, 116 Stat. 3034, provided that: “Congres
 
 &emsp;“(4) The research and education activities of the National Science Foundation promote the discovery, integration, dissemination, and application of new knowledge in service to society and prepare future generations of scientists, mathematicians, and engineers who will be necessary to ensure America's leadership in the global marketplace.
 
-&emsp;“(5) The National Science Foundation must be provided with sufficient resources to enable it to carry out its responsibilities to develop intellectual capital, strengthen the scientific infrastructure, integrate research and education, enhance the delivery of mathematics and science education in the United States, and improve the technological literacy of all people in the United States.
+&emsp;“(5) The National Science Foundation must be provided with sufficient resources to enable it to carry out its responsibilities to develop intellectual capital, strengthen the scientific infrastructure, integrate research and education, enhance the delivery of mathematics and science education in the UnitedStates, and improve the technological literacy of all people in the United States.
 
 &emsp;“(6) The emerging global economic, scientific, and technical environment challenges long-standing assumptions about domestic and international policy, requiring the National Science Foundation to play a more proactive role in sustaining the competitive advantage of the United States through superior research capabilities.
 
-&emsp;“(7) Commercial application of the results of Federal investment in basic and computing science is consistent with longstanding United States technology transfer policy and is a critical national priority, particularly with regard to cybersecurity and other homeland security applications, because of theurgent needs of commercial, academic, and individual users as well as the Federal and State Governments.”
+&emsp;“(7) Commercial application of the results of Federal investment in basic and computing science is consistent with longstanding United States technology transfer policy and is a critical national priority, particularly with regard to cybersecurity and other homeland security applications, because of the urgent needs of commercial, academic, and individual users as well as the Federal and State Governments.”
 
 #### Report on Foundation Budgetary and Programmatic Expansion
 

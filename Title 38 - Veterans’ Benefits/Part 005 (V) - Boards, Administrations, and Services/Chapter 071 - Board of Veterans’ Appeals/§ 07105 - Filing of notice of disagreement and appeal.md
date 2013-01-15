@@ -24,9 +24,15 @@
 
 (5) The Board of Veterans’ Appeals may dismiss any appeal which fails to allege specific error of fact or law in the determination being appealed.
 
-(Added Pub. L. 87–666, §1, Sept. 19, 1962, 76 Stat. 553, §4005; amended Pub. L. 99–576, title VII, §701(85), Oct. 28, 1986, 100 Stat. 3298; Pub. L. 100–687, div. A, title II, §§203(b), 206, Nov. 18, 1988, 102 Stat. 4111; renumbered §7105 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 107–14, §8(a)(16), June 5, 2001, 115 Stat. 35.)
+(e)(1) If, either at the time or after the agency of original jurisdiction receives a substantive appeal, the claimant or the claimant's representative, if any, submits evidence to either the agency of original jurisdiction or the Board of Veterans’ Appeals for consideration in connection with the issue or issues with which disagreement has been expressed, such evidence shall be subject to initial review by the Board unless the claimant or the claimant's representative, as the case may be, requests in writing that the agency of original jurisdiction initially review such evidence.
+
+(2) A request for review of evidence under paragraph (1) shall accompany the submittal of the evidence.
+
+(Added Pub. L. 87–666, §1, Sept. 19, 1962, 76 Stat. 553, §4005; amended Pub. L. 99–576, title VII, §701(85), Oct. 28, 1986, 100 Stat. 3298; Pub. L. 100–687, div. A, title II, §§203(b), 206, Nov. 18, 1988, 102 Stat. 4111; renumbered §7105 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 107–14, §8(a)(16), June 5, 2001, 115 Stat. 35; Pub. L. 112–154, title V, §501(a), Aug. 6, 2012, 126 Stat. 1190.)
 
 #### Amendments
+
+<b>2012</b>—Subsec. (e). Pub. L. 112–154 added subsec. (e).
 
 <b>2001</b>—Subsec. (b)(1). Pub. L. 107–14 substituted “hereinafter” for “hereafter”.
 
@@ -52,11 +58,15 @@ Subsec. (d)(5). Pub. L. 100–687, §203(b), struck out “will base its decisio
 
 Subsec. (d)(1), (3). Pub. L. 99–576, §701(85)(A), substituted “the claimant's” for “his”.
 
+#### Effective Date of 2012 Amendment
+
+Pub. L. 112–154, title V, §501(b), Aug. 6, 2012, 126 Stat. 1190, provided that: “Subsection (e) of such section \[38 U.S.C. 7105(e)\], as added by subsection (a), shall take effect on the date that is 180 days after the date of the enactment of this Act \[Aug. 6, 2012\], and shall apply with respect to claims for which a substantive appeal is filed on or after the date that is 180 days after the date of the enactment of this Act.”
+
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–687 effective Jan. 1, 1989, see section 401(d) of Pub. L. 100–687 set out as an Effective Date note under section 7251 of this title.
 
 #### Effective Date
 
-Section 3 of Pub. L. 87–666 provided that: “The amendments made by this Act \[enacting sections 4005, 4005A, and 4006 \[now 7105, 7105A, and 7106\] of this title, redesignating former section 4006 as 4007 \[now 7107\] of this title, and repealing former sections 4005 and 4007 of this title\] shall be effective January 1, 1963.”
+Pub. L. 87–666, §3, Sept. 19, 1962, 76 Stat. 554, provided that: “The amendments made by this Act \[enacting sections 4005, 4005A, and 4006 \[now 7105, 7105A, and 7106\] of this title, redesignating former section 4006 as 4007 \[now 7107\] of this title, and repealing former sections 4005 and 4007 of this title\] shall be effective January 1, 1963.”
 

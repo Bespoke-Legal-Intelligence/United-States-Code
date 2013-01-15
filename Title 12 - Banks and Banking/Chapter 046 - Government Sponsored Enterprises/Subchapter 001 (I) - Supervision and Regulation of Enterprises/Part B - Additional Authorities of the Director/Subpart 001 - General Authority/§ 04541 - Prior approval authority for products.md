@@ -68,7 +68,7 @@ If the Director approves the offering of any product by an enterprise, the Direc
 
 #### (A) Enterprise notice
 
-&emsp;&emsp;For any new activity that an enterprise considers not to be a product, the enterpriseshall provide written notice to the Director of such activity, and may not commence such activity until the date of receipt of a notice under subparagraph (B) or the expiration of the period described in subparagraph (C). The Director shall establish, by regulation, the form and content of such written notice.
+&emsp;&emsp;For any new activity that an enterprise considers not to be a product, the enterprise shall provide written notice to the Director of such activity, and may not commence such activity until the date of receipt of a notice under subparagraph (B) or the expiration of the period described in subparagraph (C). The Director shall establish, by regulation, the form and content of such written notice.
 
 #### (B) Director determination
 
@@ -90,5 +90,5 @@ Nothing in this section may be construed to restrict—
 
 #### Prior Provisions
 
-A prior section 4541, Pub. L. 102–550, title XIII, §1321, Oct. 28, 1992, 106 Stat. 3952, related to the Secretary of Housing and Urban Development's regulatory authority, prior to repeal by Pub. L. 110–289, div. A, title I, §1121(2), July 30, 2008, 122 Stat. 2689.
+A prior section 4541, Pub. L. 102–550, title XIII, §1321, Oct. 28, 1992, 106 Stat. 3952, related to the Secretary ofHousing and Urban Development's regulatory authority, prior to repeal by Pub. L. 110–289, div. A, title I, §1121(2), July 30, 2008, 122 Stat. 2689.
 

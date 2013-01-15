@@ -22,13 +22,13 @@ If—
 
 #### (2) Limitation
 
-&emsp;The amount of gain determined under paragraph (1) resulting from a reacquisition duringany taxable year beginning after the date of the enactment of this section shall not exceed the amount by which the price at which the real property was sold exceeded its adjusted basis, reduced by the sum of—
+&emsp;The amount of gain determined under paragraph (1) resulting from a reacquisition during any taxable year beginning after the date of the enactment of this section shall not exceed the amount by which the price at which the real property was sold exceeded its adjusted basis, reduced by the sum of—
 
 &emsp;&emsp;(A) the amount of the gain on the sale of such property returned as income for periods prior to the reacquisition of such property, and
 
 &emsp;&emsp;(B) the amount of money and the fair market value of other property (other than obligations of the purchaser received with respect to the sale of such property) paid or transferred by the seller in connection with the reacquisition of such property.
 
-> &emsp;For purposes of this paragraph, the price at which real property is sold is the gross sales price reduced by the selling commissions, legal fees, and other expenses incident to the sale of such property which are properly taken into account in determining gain or loss on such sale.
+> &emsp;For purposes of this paragraph, the price at which real property is sold is the gross sales price reduced by the selling commissions,legal fees, and other expenses incident to the sale of such property which are properly taken into account in determining gain or loss on such sale.
 
 #### (3) Gain recognized
 
@@ -108,21 +108,21 @@ Amendment by Pub. L. 105–34 applicable to sales and exchanges after May 6, 199
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1995, see section 1616(c) of Pub. L. 104–188, set out as a note under section 593 of this title.
+Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1995, see section 1616(c) ofPub. L. 104–188, set out as a note under section 593 of this title.
 
 #### Effective Date of 1980 Amendment
 
-Section 6(c) of Pub. L. 96–471 provided: “The amendment made by section 4 \[amending this section\] shall apply to acquisitions of real property by the taxpayer after the date of the enactment of this Act \[Oct. 19, 1980\].”
+Pub. L. 96–471, §6(c), Oct. 19, 1980, 94 Stat. 2256, provided: “The amendment made by section 4 \[amending this section\] shall apply to acquisitions of real property by the taxpayer after the date of the enactment of this Act \[Oct. 19, 1980\].”
 
 #### Effective Date of 1978 Amendment
 
 Amendment by section 404(c)(6) of Pub. L. 95–600 applicable to sales or exchanges after July 26, 1978, in taxable years ending after such date, see section 404(d)(1) of Pub. L. 95–600, set out as a note under section 121 of this title.
 
-Section 405(d) of Pub. L. 95–600 provided that: “The amendments made by this section \[amending this section and sections 1034, 1250, 6212, and 6504 of this title\] shall apply to sales and exchanges of residences after July 26, 1978, in taxable years ending after such date.”
+Pub. L. 95–600, title IV, §405(d), Nov. 6, 1978, 92 Stat. 2871, provided that: “The amendments made by this section \[amending this section and sections 1034, 1250, 6212, and 6504 of this title\] shall apply to sales and exchanges of residences after July 26, 1978, in taxable years ending after such date.”
 
 #### Effective Date; Election To Apply to Taxable Years Beginning After Dec. 31, 1957
 
-Section 2(c) of Pub. L. 88–570 provided that:
+Pub. L. 88–570, §2(c), Sept. 2, 1964, 78 Stat. 856, provided that:
 
 “(1) The amendments made by this section \[enacting this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Sept. 2, 1964\].
 

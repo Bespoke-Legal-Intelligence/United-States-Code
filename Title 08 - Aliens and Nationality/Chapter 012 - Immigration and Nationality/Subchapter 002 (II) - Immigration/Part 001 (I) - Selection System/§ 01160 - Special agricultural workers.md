@@ -208,7 +208,7 @@
 
 &emsp;No application fees collected by the Service pursuant to this subsection may be used by the Service to offset the costs of the special agricultural worker legalization program until the Service implements the program consistent with the statutory mandate as follows:
 
-&emsp;&emsp;(A) During the application period described in subsection (a)(1)(A) of this section the Service may grant temporary admission to the United States, work authorization, and provide an “employment authorized” endorsement or other appropriate work permit to any alien who presents a preliminary application for adjustment of status under subsection (a) of this section at a designated port of entry on the southern land border. An alien who does not enter through a port of entry is subject to deportation and removal as otherwise provided in this chapter.
+&emsp;&emsp;(A) During the application period described in subsection (a)(1)(A) of this section the Service may grant temporary admission to the United States, work authorization,and provide an “employment authorized” endorsement or other appropriate work permit to any alien who presents a preliminary application for adjustment of status under subsection (a) of this section at a designated port of entry on the southern land border. An alien who does not enter through a port of entry is subject to deportation and removal as otherwise provided in this chapter.
 
 &emsp;&emsp;(B) During the application period described in subsection (a)(1)(A) of this section any alien who has filed an application for adjustment of status within the United States as provided in subsection (b)(1)(A) of this section pursuant to the provision of 8 CFR section 210.1(j) is subject to paragraph (2) of this subsection.
 
@@ -242,7 +242,7 @@
 
 #### (f) Temporary disqualification of newly legalized aliens from receiving aid to families with dependent children
 
-During the five-year period beginning on the date an alien was granted lawful temporary resident status under subsection (a) of this section, and notwithstanding any other provision of law, the alien is not eligible for assistance under a State program funded under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\]. Notwithstanding the previous sentence, in the case of an alien who would be eligible for assistance under a State program funded under part A of title IV of the Social Security Act but for the previous sentence, the provisions of paragraph\(3) of section 1255a(h) of this title shall apply in the same manner as they apply with respect to paragraph (1) of such section and, for this purpose, any reference in section 1255a(h)(3) of this title to paragraph (1) is deemed a reference to the previous sentence.
+During the five-year period beginning on the date an alien was granted lawful temporary resident status under subsection (a) of this section, and notwithstanding any other provision of law, the alien is not eligible for assistance under a State program funded under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\]. Notwithstanding the previous sentence, in the case of an alien who would be eligible for assistance under a State program funded under part A of title IV of the Social Security Act but for the previous sentence, the provisions of paragraph (3) of section 1255a(h) of this title shall apply in the same manner as they apply with respect to paragraph (1) of such section and, for this purpose, any reference in section 1255a(h)(3) of this title to paragraph (1) is deemed a reference to the previous sentence.
 
 #### (g) Treatment of special agricultural workers
 
@@ -322,23 +322,23 @@ Subsec. (b)(6)(A). Pub. L. 101–238, §4(b), amended subpar. (A) generally. Pri
 
 Amendment by section 308(g)(2)(B) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
-Section 384(d)(2) of div. C of Pub. L. 104–208 provided that: “The amendments made by this subsection \[amending this section and section 1255a of this title\] shall apply to offenses occurring on or after the date of the enactment of this Act \[Sept. 30, 1996\].”
+Pub. L. 104–208, div. C, title III, §384(d)(2), Sept. 30, 1996, 110 Stat. 3009–653, provided that: “The amendments made by this subsection \[amending this section and section 1255a of this title\] shall apply to offenses occurring on or after the date of the enactment of this Act \[Sept. 30, 1996\].”
 
 Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1994 Amendment
 
-Section 219(z) of Pub. L. 103–416 provided that the amendment made by subsec. (z)(7) of that section is effective as if included in the Miscellaneous and Technical Immigration and Naturalization Amendments of 1991, Pub. L. 102–232.
+Pub. L. 103–416, title II, §219(z), Oct. 25, 1994, 108 Stat. 4318, provided that the amendment made by subsec. (z)(7) of that section is effective as if included in the Miscellaneous and Technical Immigration and Naturalization Amendments of 1991, Pub. L. 102–232.
 
 Amendment by section 219(d) of Pub. L. 103–416 effective as if included in the enactment of the Immigration Act of 1990, Pub. L. 101–649, see section 219(dd) of Pub. L. 103–416, set out as a note under section 1101 of this title.
 
 #### Effective Date of 1991 Amendment
 
-Section 307(j) of Pub. L. 102–232 provided that the amendment made by that section is effective as if included in section 603(a)(5) of the Immigration Act of 1990, Pub. L. 101–649.
+Pub. L. 102–232, title III, §307(j), Dec. 12, 1991, 105 Stat. 1756, provided that the amendment made by section 307(j) is effective as if included in section 603(a)(5) of the Immigration Act of 1990, Pub. L. 101–649.
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–649 applicable to applications for adjustment of status made on or after June 1, 1991, see section 601(e)(2) of Pub. L. 101–649, set out as a note under section 1101 of this title.
+Amendment by Pub. L. 101–649 applicable to applications for adjustment of status made on or after June 1,1991, see section 601(e)(2) of Pub. L. 101–649, set out as a note under section 1101 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -350,5 +350,5 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 #### Commission on Agricultural Workers
 
-Section 304 of Pub. L. 99–603, as amended by Pub. L. 101–649, title VII, §704, Nov. 29, 1990, 104 Stat. 5086; Pub. L. 102–232, title III, §308(c), Dec. 12, 1991, 105 Stat. 1757, established Commission on Agricultural Workers to evaluate special agricultural worker provisions and labor markets in agricultural industry, required Commission to report to Congress not later than six years after Nov. 6, 1986, on its reviews, and provided that Commission terminate at the end of the 75-month period beginning with the month after November 1986.
+Pub. L. 99–603, title III, §304, Nov. 6, 1986, 100 Stat. 3431, as amended by Pub. L. 101–649, title VII, §704, Nov. 29, 1990, 104 Stat. 5086; Pub. L. 102–232, title III, §308(c), Dec. 12, 1991, 105 Stat. 1757, established Commission on Agricultural Workers to evaluate special agricultural worker provisions and labor markets in agricultural industry, required Commission to report to Congress not later than six years after Nov. 6, 1986, on its reviews, and provided that Commission terminate at the end of the 75-month period beginning with the month after November 1986.
 

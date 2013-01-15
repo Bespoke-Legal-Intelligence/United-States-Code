@@ -4,7 +4,7 @@
 
 The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may (directly and through grants to public and nonprofit private entities) provide for programs to carry out the following:
 
-&emsp;(1) To cooperate with the States in implementing a national system to determine the incidence of hepatitis C virus infection (in this section referred to as “HCV infection”) and to assist the States in determining the prevalence of such infection, including the reporting of chronic HCV cases.
+&emsp;(1) To cooperate with the States in implementing a national system to determine theincidence of hepatitis C virus infection (in this section referred to as “HCV infection”) and to assist the States in determining the prevalence of such infection, including the reporting of chronic HCV cases.
 
 &emsp;(2) To identify, counsel, and offer testing to individuals who are at risk of HCV infection as a result of receiving blood transfusions prior to July 1992, or as a result of other risk factors.
 
@@ -84,5 +84,5 @@ Report to congress.—Not later than 180 days after the date on which all grants
 
 “(c)
 
-Authorization of Appropriations.—For the purpose of carrying out this section, there is authorized tobe appropriated to the Department of Health and Human Services and the Department of Labor $10,000,000 for fiscal year 2001.”
+Authorization of Appropriations.—For the purpose of carrying out this section, there is authorized to be appropriated to the Department of Health and Human Services and the Department of Labor $10,000,000 for fiscal year 2001.”
 

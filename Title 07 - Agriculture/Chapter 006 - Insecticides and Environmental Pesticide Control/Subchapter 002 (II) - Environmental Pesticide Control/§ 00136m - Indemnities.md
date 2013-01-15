@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) the registration in question is suspended under section 136d(c) of this title, and thereafter is canceled under section 136d(b), 136d(d), or 136d(f) of this title; and
 
-&emsp;&emsp;(C) any person who owned any quantity of the pesticide immediately before the notice to the registrant under subparagraph (A) suffered losses by reason of suspension or cancellation of the registration;
+&emsp;&emsp;(C) any person who owned any quantity of the pesticide immediately before the noticeto the registrant under subparagraph (A) suffered losses by reason of suspension or cancellation of the registration;
 
 > &emsp;the Administrator shall make an indemnity payment to the person.
 
@@ -64,7 +64,7 @@
 
 &emsp;&emsp;(iii) any person who, immediately before the notice to the registrant under clause (i)—
 
-&emsp;&emsp;&emsp;(I) had not been notified in writing by the seller, as provided under subparagraph\(A), that any quantity of the pesticide owned by such person is not subject to reimbursement by the seller in the event of suspension or cancellation of the pesticide; and
+&emsp;&emsp;&emsp;(I) had not been notified in writing by the seller, as provided under subparagraph (A), that any quantity of the pesticide owned by such person is not subject to reimbursement by the seller in the event of suspension or cancellation of the pesticide; and
 
 &emsp;&emsp;&emsp;(II) owned any quantity of the pesticide for purposes of—
 
@@ -90,7 +90,7 @@
 
 #### (4) Administrative settlement
 
-&emsp;An administrative settlement of a claim for such indemnity may be made in accordance with the third paragraph of section 2414 of title 28 and shall be regarded as if it were made under that section for purposes of section 1304 of title 31.
+&emsp;An administrative settlement of a claim for such indemnity may be made in accordancewith the third paragraph of section 2414 of title 28 and shall be regarded as if it were made under that section for purposes of section 1304 of title 31.
 
 #### (c) Amount of payment
 
@@ -110,7 +110,7 @@
 
 #### Effective Date of 1988 Amendment
 
-Section 501(a) of Pub. L. 100–532 provided that amendment made by Pub. L. 100–532 is effective 180 days after Oct. 25, 1988.
+Pub. L. 100–532, title V, §501(a), Oct. 25, 1988, 102 Stat. 2674, provided that amendment made by Pub. L. 100–532 is effective 180 days after Oct. 25, 1988.
 
 #### Effective Date
 
@@ -118,7 +118,7 @@ For effective date of section, see section 4 of Pub. L. 92–516, set out as a n
 
 #### Interim Payments
 
-Section 501(b) of Pub. L. 100–532 provided that:
+Pub. L. 100–532, title V, §501(b), Oct. 25, 1988, 102 Stat. 2676, provided that:
 
 “(1)
 

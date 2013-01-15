@@ -142,5 +142,5 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 #### Effect of 1996 Amendments on Existing Agreements
 
-Section 333(f) of Pub. L. 104–127 provided that: “The amendments made by this section \[amending this section and sections 3837a and 3837c of this title\] shall not affect the validity or terms of any agreements entered into by the Secretary of Agriculture under subchapter C of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3837 et seq.) before the date of enactment of this Act \[Apr. 4, 1996\] or any payments required to be made in connection with the agreements.”
+Pub. L. 104–127, title III, §333(f), Apr. 4, 1996, 110 Stat. 996, provided that: “The amendments made by this section \[amending this section and sections 3837a and 3837c of this title\] shall not affect the validity or terms of any agreements entered into by the Secretary of Agriculture under subchapter C of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3837 et seq.) before the date of enactment of this Act \[Apr. 4, 1996\] or any payments required to be made in connection with the agreements.”
 

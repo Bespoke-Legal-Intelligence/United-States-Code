@@ -28,7 +28,7 @@
 
 #### (5) Construction
 
-&emsp;Nothing in this subsection shall be construed to prohibit an employer from requiring an employee on leave under section 2612 of thistitle to report periodically to the employer on the status and intention of the employee to return to work.
+&emsp;Nothing in this subsection shall be construed to prohibit an employer from requiring an employee on leave under section 2612 of this title to report periodically to the employer on the status and intention of the employee to return to work.
 
 #### (b) Exemption concerning certain highly compensated employees
 

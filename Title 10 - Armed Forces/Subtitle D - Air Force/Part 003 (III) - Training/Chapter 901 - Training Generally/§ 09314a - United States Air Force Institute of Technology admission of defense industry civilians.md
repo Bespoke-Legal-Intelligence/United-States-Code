@@ -2,11 +2,11 @@
 
 (a)
 
-Admission Authorized.—(1) The Secretary of the Air Force may permit defense industry employees described in subsection (b) to receive instruction at the United States Air Force Institute of Technology in accordance with this section. Any such defense industry employee may be enrolled in, and may be provided instruction in, a program leading to a graduate degree in a defense focused curriculum related to aeronautics and astronautics, electrical and computer engineering, engineering physics, mathematics and statistics, operational sciences, or systems and engineering management.
+Admission Authorized.—(1) The Secretary of the Air Force may permit defense industry employees described in subsection (b) to receive instruction at the United States Air Force Institute of Technology in accordance with this section. Any such defense industry employee may be enrolled in, and may be provided instruction in, a program leading to a graduate degree or professional continuing education certificate in a defense focused curriculum related to aeronautics and astronautics, electrical and computer engineering, engineering physics, mathematics and statistics, operational sciences, or systems and engineering management.
 
 (2) No more than 125 defense industry employees may be enrolled at the United States Air Force Institute of Technology at any one time under the authority of paragraph (1).
 
-(3) Upon successful completion of the course of instruction at the United States Air Force Institute of Technology in which a defense industry employee is enrolled, the defense industry employee may be awarded an appropriate degree under section 9314 of this title.
+(3) Upon successful completion of the course of instruction at the United States Air Force Institute of Technology in which a defense industry employee is enrolled, the defense industry employee may be awarded an appropriate degree under section 9314 of this title or an appropriate professional continuing education certificate, as applicable.
 
 (b)
 
@@ -36,7 +36,13 @@ Tuition.—(1) The United States Air Force Institute of Technology shall charge 
 
 (f)
 
-Standards of Conduct.—While receiving instruction at the United States Air Force Institute of Technology, defense industry employees enrolled under this section, to the extent practicable, are subject to the same regulations governing academic performance, attendance, norms of behavior, and enrollment as apply to Government civilian employees receiving instruction at the school.
+Standards of Conduct.—While receiving instruction at the United States Air Force Institute of Technology, defense industry employeesenrolled under this section, to the extent practicable, are subject to the same regulations governing academic performance, attendance, norms of behavior, and enrollment as apply to Government civilian employees receiving instruction at the school.
 
-(Added Pub. L. 111–383, div. A, title V, §593(a), Jan. 7, 2011, 124 Stat. 4232.)
+(Added Pub. L. 111–383, div. A, title V, §593(a), Jan. 7, 2011, 124 Stat. 4232; amended Pub. L. 112–239, div. A, title V, §589(b), Jan. 2, 2013, 126 Stat. 1769.)
+
+#### Amendments
+
+<b>2013</b>—Subsec. (a)(1). Pub. L. 112–239, §589(b)(1), inserted “or professional continuing education certificate” after “graduate degree”.
+
+Subsec. (a)(3). Pub. L. 112–239, §589(b)(2), inserted “or an appropriate professional continuing education certificate, as applicable” before period at end.
 

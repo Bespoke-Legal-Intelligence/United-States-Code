@@ -36,13 +36,13 @@ The deadline for application pursuant to this section shall be established at on
 
 (3) Persons added to the Settlement Roll pursuant to appeals under this subsection shall not be considered in the calculations made pursuant to section 1300i–3 of this title.
 
-(4) For the sole purpose of preparing the Settlement Roll under this section, the Yurok Transition Team and the Hoopa Valley Business Council may review applications, make recommendations which the Secretary shall accept unless conflicting or erroneous, and may appeal the Secretary's decisions concerning the Settlement Roll. Full disclosure of relevant recordsshall be made to the Team and to the Council notwithstanding any other provision of law.
+(4) For the sole purpose of preparing the Settlement Roll under this section, the Yurok Transition Team and the Hoopa Valley Business Council may review applications, make recommendations which the Secretary shall accept unless conflicting or erroneous, and may appeal the Secretary's decisions concerning the Settlement Roll. Full disclosure of relevant records shall be made to the Team and to the Council notwithstanding any other provision of law.
 
 #### (e) Effect of exclusion from roll
 
 No person whose name is not included on the Settlement Roll shall have any interest in the tribal, communal, or unallotted land, property, resources, or rights within, or appertaining to, the Hoopa Valley Tribe, the Hoopa Valley Reservation, the Yurok Tribe, or the Yurok Reservation or in the Settlement Fund unless such person is subsequently enrolled in the Hoopa Valley Tribe or the Yurok Tribe under the membership criteria and ordinances of such tribes.
 
-(Pub. L. 100–580, §5, Oct. 31, 1988, 102 Stat. 2928; Pub. L. 101–301, §9(1), (2), May 24, 1990, 104 Stat. 210; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(Pub. L. 100–580, §5, Oct. 31, 1988, 102 Stat. 2928; Pub. L. 101–301, §9(1), (2), May 24, 1990, 104 Stat.210; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 #### Amendments
 

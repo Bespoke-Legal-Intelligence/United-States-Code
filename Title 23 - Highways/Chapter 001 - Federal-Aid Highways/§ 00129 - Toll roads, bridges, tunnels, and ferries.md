@@ -6,51 +6,125 @@ Basic Program.—
 
 &emsp;(1)
 
-Authorization for federal participation.—Notwithstanding section 301 of this title and subject to the provisions of this section, the Secretary shall permit Federal participation in—
+Authorization for federal participation.—Subject to the provisions of this section, Federal participation shall be permitted on the same basis and in the same manner asconstruction of toll-free highways is permitted under this chapter in the—
 
-&emsp;&emsp;(A) initial construction of a toll highway, bridge, or tunnel (other than a highway, bridge, or tunnel on the Interstate System) or approach thereto;
+&emsp;&emsp;(A) initial construction of a toll highway, bridge, or tunnel or approach to the highway, bridge, or tunnel;
 
-&emsp;&emsp;(B) reconstructing, resurfacing, restoring, and rehabilitating a toll highway, bridge, or tunnel (including a toll highway, bridge, or tunnel subject to an agreement entered into under this section or section 119(e) as in effect on the day before the date of the enactment of the Intermodal Surface Transportation Efficiency Act of 1991) or approach thereto;
+&emsp;&emsp;(B) initial construction of 1 or more lanes or other improvements that increase capacity of a highway, bridge, or tunnel (other than a highway on the Interstate System) and conversion of that highway, bridge, or tunnel to a tolled facility, if the number of toll-free lanes, excluding auxiliary lanes, after the construction is not less than the number of toll-free lanes, excluding auxiliary lanes, before the construction;
 
-&emsp;&emsp;(C) reconstruction or replacement of a toll-free bridge or tunnel and conversion of the bridge or tunnel to a toll facility;
+&emsp;&emsp;(C) initial construction of 1 or more lanes or other improvements that increase the capacity of a highway, bridge, or tunnel on the Interstate System and conversion of that highway, bridge, or tunnel to a tolled facility, if the number of toll-free non-HOV lanes, excluding auxiliary lanes, after such construction is not less than the number of toll-free non-HOV lanes, excluding auxiliary lanes, before such construction;
 
-&emsp;&emsp;(D) reconstruction of a toll-free Federal-aid highway (other than a highway on the Interstate System) and conversion of the highway to a toll facility; and
+&emsp;&emsp;(D) reconstruction, resurfacing, restoration, rehabilitation, or replacement of a toll highway, bridge, or tunnel or approach to the highway, bridge, or tunnel;
 
-&emsp;&emsp;(E) preliminary studies to determine the feasibility of a toll facility for which Federal participation is authorized under subparagraph (A), (B), (C), or (D);
+&emsp;&emsp;(E) reconstruction or replacement of a toll-free bridge or tunnel and conversion of the bridge or tunnel to a toll facility;
 
-> &emsp;on the same basis and in the same manner as in the construction of free highways under this chapter.
+&emsp;&emsp;(F) reconstruction of a toll-free Federal-aid highway (other than a highway on the Interstate System) and conversion of the highway to a toll facility;
+
+&emsp;&emsp;(G) reconstruction, restoration, or rehabilitation of a highway on the Interstate System if the number of toll-free non-HOV lanes, excluding auxiliary lanes, after reconstruction, restoration, or rehabilitation is not less than the number of toll-free non-HOV lanes, excluding auxiliary lanes, before reconstruction, restoration, or rehabilitation;
+
+&emsp;&emsp;(H) conversion of a high occupancy vehicle lane on a highway, bridge, or tunnel to a toll facility; and
+
+&emsp;&emsp;(I) preliminary studies to determine the feasibility of a toll facility for which Federal participation is authorized under this paragraph.
 
 &emsp;(2)
 
-Ownership.—Each highway, bridge, tunnel, or approach thereto constructed under this subsection must—
+Ownership.—Each highway, bridge, tunnel, or approach to the highway, bridge, or tunnel constructed under this subsection shall—
 
-&emsp;&emsp;(A) be publicly owned, or
+&emsp;&emsp;(A) be publicly owned; or
 
-&emsp;&emsp;(B) be privately owned if the public authority having jurisdiction over the highway, bridge, tunnel, or approach has entered into a contract with a private person or persons to design, finance, construct, and operate the facility and the public authority will be responsible for complying with all applicable requirements of this title with respect to the facility.
+&emsp;&emsp;(B) be privately owned if the public authority with jurisdiction over the highway, bridge, tunnel, or approach has entered into a contract with 1 or more private persons to design, finance, construct, and operate the facility and the public authority will be responsible for complying with all applicable requirements of this title with respect to the facility.
 
 &emsp;(3)
 
-Limitations on use of revenues.—Before the Secretary may permit Federal participation under this subsection in construction of a highway, bridge, or tunnel located in a State, the public authority (including the State transportation department) having jurisdiction over the highway, bridge, or tunnel must enter into an agreement with the Secretary which provides that all toll revenues received from operation of the toll facility will be used first for debt service, for reasonable return on investment of any private person financing the project, and for the costs necessary for the proper operation and maintenance of the toll facility, including reconstruction, resurfacing, restoration, and rehabilitation. If the State certifies annually that the tolled facility is being adequately maintained, the State may use any toll revenues in excess of amounts required under the preceding sentence for any purpose for which Federal funds may be obligated by a State under this title.
+Limitations on use of revenues.—
+
+&emsp;&emsp;(A)
+
+In general.—A public authority with jurisdiction over a toll facility shall use all toll revenues received from operation of the toll facility only for—
+
+&emsp;&emsp;&emsp;(i) debt service with respect to the projects on or for which the tolls are authorized, including funding of reasonable reserves and debt service on refinancing;
+
+&emsp;&emsp;&emsp;(ii) a reasonable return on investment of any private person financing the project, as determined by the State or interstate compact of States concerned;
+
+&emsp;&emsp;&emsp;(iii) any costs necessary for the improvement and proper operation and maintenance of the toll facility, including reconstruction, resurfacing, restoration, and rehabilitation;
+
+&emsp;&emsp;&emsp;(iv) if the toll facility is subject to a public-private partnership agreement, payments that the party holding the right to toll revenues owes to the other party under the public-private partnership agreement; and
+
+&emsp;&emsp;&emsp;(v) if the public authority certifies annually that the tolled facility is being adequately maintained, any other purpose for which Federal funds may be obligated by a State under this title.
+
+&emsp;&emsp;(B)
+
+Annual audit.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—A public authority with jurisdiction over a toll facility shall conduct or have an independent auditor conduct an annual audit of toll facility records to verify adequate maintenance and compliance with subparagraph (A), and report the results of the audits to the Secretary.
+
+&emsp;&emsp;&emsp;(ii)
+
+Records.—On reasonable notice, the public authority shall make all records of the public authority pertaining to the toll facility available for audit by the Secretary.
+
+&emsp;&emsp;(C)
+
+Noncompliance.—If the Secretary concludes that a public authority has not complied with the limitations on the use of revenues described in subparagraph (A), the Secretary may require the public authority to discontinue collecting tolls until an agreement with the Secretary is reached to achieve compliance with the limitation on the use of revenues described in subparagraph (A).
 
 &emsp;(4)
 
-Special rule for funding.—In the case of a toll highway, bridge, or tunnel under the jurisdiction of a public authority of a State (other than the State transportation department), upon request of the State transportation department and subject to such terms and conditions as such department and public authority may agree, the Secretary shall reimburse such public authority for the Federal share of the costs of construction of the project carried out on the toll facility under this subsection in the same manner and to the same extent as such department would be reimbursed if such project was being carried out by such department. The reimbursement of funds under this paragraph shall be from sums apportioned to the State under this chapter and available for obligations on projects on the Federal-aid system in such State on which the project is being carried out.
+Limitations on conversion of high occupancy vehicle facilities on interstate system.—
+
+&emsp;&emsp;(A)
+
+In general.—A public authority with jurisdiction over a high occupancy vehicle facility on the Interstate System may undertake reconstruction, restoration, or rehabilitation under paragraph (1)(G) on the facility, and may levy tolls on vehicles, excluding high occupancy vehicles, using the reconstructed, restored, or rehabilitated facility, if the public authority—
+
+&emsp;&emsp;&emsp;(i) in the case of a high occupancy vehicle facility that affects a metropolitan area, submits to the Secretary a written assurance that the metropolitan planning organization designated under section 5203 <sup>1</sup> of title 49 for the area has been consulted concerning the placement and amount of tolls on the converted facility;
+
+&emsp;&emsp;&emsp;(ii) develops, manages, and maintains a system that will automatically collect the toll; and
+
+&emsp;&emsp;&emsp;(iii) establishes policies and procedures—
+
+&emsp;&emsp;&emsp;&emsp;(I) to manage the demand to use the facility by varying the toll amount that is charged; and
+
+&emsp;&emsp;&emsp;&emsp;(II) to enforce sanctions for violations of use of the facility.
+
+&emsp;&emsp;(B)
+
+Exemption from tolls.—In levying tolls on a facility under subparagraph (A), a public authority may designate classes of vehicles that are exempt from the tolls or charge different toll rates for different classes of vehicles.
 
 &emsp;(5)
 
-Limitation on federal share.—The Federal share payable for a project described in paragraph (1) shall be a percentage determined by the State but not to exceed 80 percent.
+Special rule for funding.—
+
+&emsp;&emsp;(A)
+
+In general.—In the case of a toll facility under the jurisdiction of a public authority of a State (other than the State transportation department), on request of the State transportation department and subject to such terms and conditions as the department and public authority may agree, the Secretary, working through the State department of transportation, shall reimburse the public authority for the Federal share of the costs of construction of the project carried out on the toll facility under this subsection in the same manner and to the same extent as the department would be reimbursed if the project was being carried out by the department.
+
+&emsp;&emsp;(B)
+
+Source.—The reimbursement of funds under this paragraph shall be from sums apportioned to the State under this chapter and available for obligations on projects on the Federal-aid system in the State on which the project is being carried out.
 
 &emsp;(6)
 
-Modifications.—If a public authority (including a State transportation department) having jurisdiction over a toll highway, bridge, or tunnel subject to an agreement under this section or section 119(e), as in effect on the day before the effective date of title I of the Intermodal Surface Transportation Efficiency Act of 1991, requests modification of such agreement, the Secretary shall modify such agreement to allow the continuation of tolls in accordance with paragraph (3) without repayment of Federal funds.
+Limitation on federal share.—The Federal share payable for a project described in paragraph (1) shall be a percentage determined by the State, but not to exceed 80 percent.
 
 &emsp;(7)
+
+Modifications.—If a public authority (including a State transportation department) with jurisdiction over a toll facility subject to an agreement under this section or section 119(e), as in effect on the day before the effective date of title I of the Intermodal Surface Transportation Efficiency Act of 1991 (105 Stat. 1915), requests modification of the agreement, the Secretary shall modify the agreement to allow the continuation of tolls in accordance with paragraph (3) without repayment of Federal funds.
+
+&emsp;(8)
 
 Loans.—
 
 &emsp;&emsp;(A)
 
-In general.—A State may loan to a public or private entity constructing or proposing to construct under this section a toll facility or non-toll facility with a dedicated revenue source an amount equal to all or part of the Federal share of the cost of the project if the project has a revenue source specifically dedicated to it. Dedicated revenue sources for non-toll facilities include excise taxes, sales taxes, motor vehicle use fees, tax on real property, tax increment financing, and such other dedicated revenue sources as the Secretary determines appropriate.
+In general.—
+
+&emsp;&emsp;&emsp;(i)
+
+Loans.—Using amounts made available under this title, a State may loan to a public or private entity constructing or proposing to construct under this section a toll facility or non-toll facility with a dedicated revenue source an amount equal to all or part of the Federal share of the cost of the project if the project has a revenue source specifically dedicated to the project.
+
+&emsp;&emsp;&emsp;(ii)
+
+Dedicated revenue sources.—Dedicated revenue sources for non-toll facilities include excise taxes, sales taxes, motor vehicle use fees, tax on real property, tax increment financing, and such other dedicated revenue sources as the Secretary determines appropriate.
 
 &emsp;&emsp;(B)
 
@@ -82,15 +156,43 @@ Reuse of funds.—Amounts repaid to a State from a loan made under this paragrap
 
 &emsp;&emsp;&emsp;(i) for any purpose for which the loan funds were available under this title; and
 
-&emsp;&emsp;&emsp;(ii) for the purchase of insurance or for use as a capital reserve for other forms of credit enhancement for project debt in order to improve credit market access orto lower interest rates for projects eligible for assistance under this title.
+&emsp;&emsp;&emsp;(ii) for the purchase of insurance or for use as a capital reserve for other forms of credit enhancement for project debt in order to improve credit market access or to lower interest rates for projects eligible for assistance under this title.
 
 &emsp;&emsp;(I)
 
 Guidelines.—The Secretary shall establish procedures and guidelines for making loans under this paragraph.
 
-&emsp;(8)
+&emsp;(9)
 
-Initial construction defined.—For purposes of this subsection, the term “initial construction” means the construction of a highway, bridge, or tunnel at any time before it is open to traffic and does not include any improvement to a highway, bridge, or tunnel after it is open to traffic.
+State law permitting tolling.—If a State does not have a highway, bridge, or tunnel toll facility as of the date of enactment of the MAP–21, before commencing any activity authorized under this section, the State shall have in effect a law that permits tolling on a highway, bridge, or tunnel.
+
+&emsp;(10)
+
+Definitions.—In this subsection, the following definitions apply:
+
+&emsp;&emsp;(A)
+
+High occupancy vehicle; hov.—The term “high occupancy vehicle” or “HOV” means a vehicle with not fewer than 2 occupants.
+
+&emsp;&emsp;(B)
+
+Initial construction.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—The term “initial construction” means the construction of a highway, bridge, tunnel, or other facility at any time before it is open to traffic.
+
+&emsp;&emsp;&emsp;(ii)
+
+Exclusions.—The term “initial construction” does not include any improvement to a highway, bridge, tunnel, or other facility after it is open to traffic.
+
+&emsp;&emsp;(C)
+
+Public authority.—The term “public authority” means a State, interstate compact of States, or public entity designated by a State.
+
+&emsp;&emsp;(D)
+
+Toll facility.—The term “toll facility” means a toll highway, bridge, or tunnel or approach to the highway, bridge, or tunnel constructed under this subsection.
 
 (b) Notwithstanding the provisions of section 301 of this title, the Secretary may permit Federal participation under this title in the construction of a project constituting an approach to a ferry, whether toll or free, the route of which is a public road and has not been designated as a route on the Interstate System. Such ferry may be either publicly or privately owned and operated, but the operating authority and the amount of fares charged for passage shall be under the control of a State agency or official, and all revenues derived from publicly owned or operated ferries shall be applied to payment of the cost of construction or acquisition thereof, including debt service, and to actual and necessary costs of operation, maintenance, repair, and replacement.
 
@@ -102,21 +204,23 @@ Initial construction defined.—For purposes of this subsection, the term “ini
 
 &emsp;(3) Such ferry boat or ferry terminal facility shall be publicly owned or operated or majority publicly owned if the Secretary determines with respect to a majority publicly owned ferry or ferry terminal facility that such ferry boat or ferry terminal facility provides substantial public benefits.
 
-&emsp;(4) The operating authority and the amount of fares charged for passage on such ferry shall be under the control of the State or other public entity, and all revenues derived therefrom shall be applied to actual and necessary costs of operation, maintenance, and <sup>1</sup> repair, debt service, negotiated management fees, and, in the case of a privately operated toll ferry, for a reasonable rate of return.
+&emsp;(4) The operating authority and the amount of fares charged for passage on such ferry shall be under the control of the State or other public entity, and all revenues derived therefrom shall be applied to actual and necessary costs of operation, maintenance, and <sup>2</sup> repair, debt service, negotiated management fees, and, in the case of a privately operated toll ferry, for a reasonable rate of return.
 
 &emsp;(5) Such ferry may be operated only within the State (including the islands which comprise the State of Hawaii and the islands which comprise any territory of the United States) or between adjoining States or between a point in a State and a point in the Dominion of Canada. Except with respect to operations between the islands which comprise the State of Hawaii, operations between the islands which comprise any territory of the United States, operations between a point in a State and a point in the Dominion of Canada, and operations between any two points in Alaska and between Alaska and Washington, including stops at appropriate points in the Dominion of Canada, no part of such ferry operation shall be in any foreign or international waters.
 
 &emsp;(6) No such ferry shall be sold, leased, or otherwise disposed of without the approval of the Secretary. The Federal share of any proceeds from such a disposition shall be credited to the unprogramed balance of Federal-aid highway funds of the same class last apportioned to such State. Any amount so credited shall be in addition to all other funds then apportioned to such State and available for expenditure in accordance with the provisions of this title.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 902; Pub. L. 86–657, §§5, 8(a), July 14, 1960, 74 Stat. 523, 524; Pub. L. 90–495, §28, Aug. 23, 1968, 82 Stat. 829; Pub. L. 91–605, title I, §§133, 139, Dec. 31, 1970, 84 Stat. 1732, 1736; Pub. L. 92–434, §7, Sept. 26, 1972, 86 Stat. 732; Pub. L. 93–87, title I, §§118, 132, 139, Aug. 13, 1973, 87 Stat. 259, 267, 270; Pub. L. 93–643, §108, Jan. 4, 1975, 88 Stat. 2284; Pub. L. 94–280, title I, §121, May 5, 1976, 90 Stat. 438; Pub. L. 95–599, title I, §120, Nov. 6, 1978, 92 Stat. 2700; Pub. L. 100–17, title I, §120(a), (b), Apr. 2, 1987, 101 Stat. 157, 158; Pub. L. 100–202, §101(<i>l</i>) \[title III, §347(d)\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–388; Pub. L. 100–457, title III, §§326, 335, Sept. 30, 1988, 102 Stat. 2150, 2153; Pub. L. 102–240, title I, §1012(a), (c), Dec. 18, 1991, 105 Stat. 1936, 1938; Pub. L. 102–388, title IV, §410, Oct. 6, 1992, 106 Stat. 1565; Pub. L. 104–59, title III, §313(a)–(c), Nov. 28, 1995, 109 Stat. 585, 586; Pub. L. 105–178, title I, §§1106(c)(1)(C), 1207(a), 1211(f), formerly 1211(g), June 9, 1998, 112 Stat. 136, 185, 189; Pub. L. 105–206, title IX, §9003(d)(5), July 22, 1998, 112 Stat. 840; Pub. L. 109–59, title I, §1801(f), Aug. 10, 2005, 119 Stat. 1456.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 902; Pub. L. 86–657, §§5, 8(a), July 14, 1960, 74 Stat. 523, 524; Pub. L. 90–495, §28, Aug. 23, 1968, 82 Stat. 829; Pub. L. 91–605, title I, §§133, 139, Dec. 31, 1970, 84 Stat. 1732, 1736; Pub. L. 92–434, §7, Sept. 26, 1972, 86 Stat. 732; Pub. L. 93–87, title I, §§118, 132, 139, Aug. 13, 1973, 87 Stat. 259, 267, 270; Pub. L. 93–643, §108, Jan. 4, 1975, 88 Stat. 2284; Pub. L. 94–280, title I, §121, May 5, 1976, 90 Stat. 438; Pub. L. 95–599, title I, §120, Nov. 6, 1978, 92 Stat. 2700; Pub. L. 100–17, title I, §120(a), (b), Apr. 2, 1987, 101 Stat. 157, 158; Pub. L. 100–202, §101(l) \[title III, §347(d)\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–388; Pub. L. 100–457, title III, §§326, 335, Sept. 30, 1988, 102 Stat. 2150, 2153; Pub. L. 102–240, title I, §1012(a), (c), Dec. 18, 1991, 105 Stat. 1936, 1938; Pub. L. 102–388, title IV, §410, Oct. 6, 1992, 106 Stat. 1565; Pub. L. 104–59, title III, §313(a)–(c), Nov. 28, 1995, 109 Stat. 585, 586; Pub. L. 105–178, title I, §§1106(c)(1)(C), 1207(a), 1211(f), formerly 1211(g), June 9, 1998, 112 Stat. 136, 185, 189; Pub. L. 105–206, title IX, §9003(d)(5), July 22, 1998, 112 Stat. 840; Pub. L. 109–59, title I, §1801(f), Aug. 10, 2005, 119 Stat. 1456; Pub. L. 112–141, div. A, title I, §1512(a), July 6, 2012, 126 Stat. 567.)
 
 #### References in Text
 
-The date of the enactment of the Intermodal Surface Transportation Efficiency Act of 1991, referred to in subsec. (a)(1)(B), is the date of enactment of Pub. L. 102–240, which was approved Dec. 18, 1991.
+For the effective date of title I of the Intermodal Surface Transportation Efficiency Act of 1991, referred to in subsec. (a)(7), see section 1100 of Pub. L. 102–240, set out as an Effective Date of 1991 Amendment note under section 104 of this title.
 
-For the effective date of title I of the Intermodal Surface Transportation Efficiency Act of 1991, referred to in subsec. (a)(6), see section 1100 of Pub. L. 102–240, set out as an Effective Date of 1991 Amendment note under section 104 of this title.
+The date of enactment of the MAP–21, referred to in subsec. (a)(9), is deemed to be Oct. 1, 2012, see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of this title.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a). Pub. L. 112–141 amended subsec. (a) generally. Prior to amendment, subsec. (a) related to basic program and consisted of pars. (1) to (8).
 
 <b>2005</b>—Subsec. (c)(5). Pub. L. 109–59 substituted “any territory of the United States” for “the Commonwealth of Puerto Rico” in two places.
 
@@ -164,7 +268,7 @@ Subsec. (j). Pub. L. 102–240, §1012(c)(2), redesignated subsec. (j) as (d).
 
 Subsec. (k). Pub. L. 102–240, §1012(c)(1), struck out subsec. (k) which required operators of toll roads, tunnels, ferries and bridges on Federal-aid highway system to biennially certify to Governor of State that facilities were adequately maintained and that operator had ability to fund such facilities that were not adequately maintained without using Federal-aid highway funds,and which required Governor of each State to report biennially to Secretary on facilities required to so certify.
 
-<b>1988</b>—Subsec. (j)(1), (3). Pub. L. 100–457, §335, amended Pub. L. 100–202, §101(<i>l</i>) \[title III, §347(d)(1), (2)(A), (C)\], see 1987 Amendment note below.
+<b>1988</b>—Subsec. (j)(1), (3). Pub. L. 100–457, §335, amended Pub. L. 100–202, §101(l) \[title III, §347(d)(1), (2)(A), (C)\], see 1987 Amendment note below.
 
 Subsec. (j)(6). Pub. L. 100–457, §326(1), inserted “(and, in the case of the State of Texas, the Texas Turnpike Authority)” after “State highway department”.
 
@@ -172,11 +276,11 @@ Subsec. (j)(10). Pub. L. 100–457, §326(2), added par. (10).
 
 <b>1987</b>—Subsec. (j). Pub. L. 100–17, §120(a), added subsec. (j).
 
-Subsec. (j)(1). Pub. L. 100–202, §101(<i>l</i>) \[title III, §347(d)(1)\], as amended by Pub. L. 100–457, §335, which directed the amendment of par. (1) by substituting “(9)” for “(9)” was executed by substituting “9” for “7” as the probable intent of Congress.
+Subsec. (j)(1). Pub. L. 100–202, §101(l) \[title III, §347(d)(1)\], as amended by Pub. L. 100–457, §335, which directed the amendment of par. (1) by substituting “(9)” for “(9)” was executed by substituting “9” for “7” as the probable intent of Congress.
 
-Subsec. (j)(3). Pub. L. 100–202, §101(<i>l</i>) \[title III, §347(d)(2)(A)\], as amended by Pub. L. 100–457, §335, which directed the amendment of par. (3) by substituting “(9)” for “(7)” was executed by substituting “9” for “7” as the probable intent of Congress.
+Subsec. (j)(3). Pub. L. 100–202, §101(l) \[title III, §347(d)(2)(A)\], as amended by Pub. L. 100–457, §335, which directed the amendment of par. (3) by substituting “(9)” for “(7)” was executed by substituting “9” for “7” as the probable intent of Congress.
 
-Pub. L. 100–202, §101(<i>l</i>) \[title III, §347(d)(2)(B)–(D)\], as amended by Pub. L. 100–457, §335, substituted “States of Pennsylvania and West Virginia” for “State of Pennsylvania” in two places and inserted “States of Georgia and West Virginia,” and “The toll facility in Orange County, California, may be located in more than 1 highway corridor to relieve congestion on existing interstate routes in such County.”
+Pub. L. 100–202, §101(l) \[title III, §347(d)(2)(B)–(D)\], as amended by Pub. L. 100–457, §335, substituted “States of Pennsylvania and West Virginia” for “State of Pennsylvania” in two places and inserted “States of Georgia and West Virginia,” and “The toll facility in Orange County, California, may be located in more than 1 highway corridor to relieve congestion on existing interstate routes in such County.”
 
 Subsec. (k). Pub. L. 100–17, §120(b), added subsec. (k).
 
@@ -208,6 +312,10 @@ Subsec. (c). Pub. L. 86–657, §8(a), struck out “under prior Acts” after �
 
 Subsec. (e). Pub. L. 86–657, §5(a), added subsec. (e).
 
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
+
 #### Effective Date of 1998 Amendment
 
 Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of this title.
@@ -219,6 +327,10 @@ Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds 
 #### Effective Date of 1968 Amendment
 
 Amendment by Pub. L. 90–495 effective Aug. 23, 1968, see section 37 of Pub. L. 90–495, set out as a note under section 101 of this title.
+
+#### Electronic Toll Collection Interoperability Requirements
+
+Pub. L. 112–141, div. A, title I, §1512(b), July 6, 2012, 126 Stat. 572, provided that: “Not later than 4 years after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of this title\], all toll facilities on the Federal-aid highways shall implement technologies or business practices that provide for the interoperability of electronic toll collection programs.”
 
 #### Express Lanes Demonstration Program
 
@@ -448,7 +560,7 @@ Limitations on use of revenues; audits.—Before the Secretary \[of Transportati
 
 “(7)
 
-Limitation on use of interstate maintenance funds.—During the term of the pilot program, funds apportioned for Interstate maintenance under section 104(b)(4) of title 23, United States Code, may not be used on a facility for which tolls are being collected under the program.
+Limitation on use of interstate maintenance funds.—During the term of the pilot program, funds apportioned for Interstate maintenance under \[former\] section 104(b)(4) of title 23, United States Code, may not be used on a facility for which tolls are being collected under the program.
 
 “(8)
 
@@ -460,7 +572,7 @@ Interstate system defined.—In this section, the term ‘Interstate System’ h
 
 #### National Ferry Database
 
-Pub. L. 109–59, title I, §1801(e), Aug. 10, 2005, 119 Stat. 1456, provided that:
+Pub. L. 109–59, title I, §1801(e), Aug. 10, 2005, 119 Stat. 1456, as amended by Pub. L. 112–141, div. A, title I, §1121(b), July 6, 2012, 126 Stat. 494, provided that:
 
 “(1)
 
@@ -468,7 +580,7 @@ Establishment.—The Secretary \[of Transportation\], acting through the Bureau 
 
 “(2)
 
-Contents.—The database shall contain current information regarding ferry systems, including information regarding routes, vessels, passengers and vehicles carried, funding sources and such other information as the Secretary considers useful.
+Contents.—The database shall contain current information regarding ferry systems, including information regarding routes, vessels, passengers and vehicles carried, funding sources, including any Federal, State, and local government funding sources, and such other information as the Secretary considers useful.
 
 “(3)
 
@@ -480,9 +592,11 @@ Requirements.—The Secretary shall—
 
 &emsp;“(A) compile the database not later than 1 year after the date of enactment of this Act \[Aug. 10, 2005\] and update the database every 2 years thereafter;
 
-&emsp;“(B) ensure that the database is easily accessible to the public; and
+&emsp;“(B) ensure that the database is easily accessible to the public;
 
-&emsp;“(C) make available, from the amounts made available for the Bureau of Transportation Statistics by section 5101 of this Act \[119 Stat. 1779\], not more than $500,000 for each of fiscal years 2006 through 2009 to establish and maintain the database.”
+&emsp;“(C) ensure that the database is consistent with the national transit database maintained by the Federal Transit Administration; and
+
+&emsp;“(D) make available, from the amounts made available for the Bureau of Transportation Statistics by section 5101 of this Act \[119 Stat. 1779\], not more than $500,000 for each of fiscal years 2006 through 2014 to establish and maintain the database.”
 
 #### Ferry Transportation Study
 
@@ -570,7 +684,7 @@ Limitations on use of revenues; audits.—Before the Secretary may permit a Stat
 
 “(6)
 
-Limitation on use of interstate maintenance funds.—During the term of the pilot program, funds apportioned for Interstate maintenance under section 104(b)(4) of title 23, United States Code, may not be used on a facility for which tolls are being collected under the program.
+Limitation on use of interstate maintenance funds.—During the term of the pilot program, funds apportioned for Interstate maintenance under \[former\] section 104(b)(4) of title 23, United States Code, may not be used on a facility for which tolls are being collected under the program.
 
 “(7)
 
@@ -582,7 +696,7 @@ Interstate system defined.—In this subsection, the term ‘Interstate System�
 
 #### Continuation of Existing Agreements
 
-Section 1012(d) of title I of Pub. L. 102–240 provided that: “Unless modified under section 129(a)(6) of such title \[this title\], as amended by subsection (a) of this section, agreements entered into under section 119(e) or 129 of such title before the effective date of this title \[Dec. 18, 1991\] and in effect on the day before such effective date shall continue in effect on and after such effective date in accordance with the provisions of such agreement and such section 119(e) or 129.”
+Pub. L. 102–240, title I, §1012(d), Dec. 18, 1991, 105 Stat. 1939, provided that: “Unless modified under section 129(a)(6) of such title \[this title\], as amended by subsection (a) of this section, agreements entered into under section 119(e) or 129 of such title before the effective date of this title \[Dec. 18, 1991\] and in effect on the day before such effective date shall continue in effect on and after such effective date in accordance with the provisions of such agreement and such section 119(e) or 129.”
 
 #### Construction of Ferry Boats and Ferry Terminal Facilities
 
@@ -590,11 +704,13 @@ Pub. L. 102–240, title I, §1064, Dec. 18, 1991, 105 Stat. 2005, as amended by
 
 #### Study To Determine Extent of Bonded Indebtedness of States for Construction of Toll Roads Incorporated Into Interstate System
 
-Section 164 of Pub. L. 95–599, as amended by Pub. L. 96–106, §16, Nov. 19, 1979, 93 Stat. 798, directed Secretary of Transportation to report not later than July 1, 1980, respecting extent of outstanding bonded indebtedness for each State as of Jan. 1, 1979, incurred by each State or public authority prior to June 29, 1956, for road construction or portions incorporated within Interstate System, and methods of allocating bonded indebtedness and removal of toll provisions.
+Pub. L. 95–599, title I, §164, Nov. 6, 1978, 92 Stat. 2721, as amended by Pub. L. 96–106, §16, Nov. 19, 1979, 93 Stat. 798, directed Secretary of Transportation to report not later than July 1, 1980, respecting extent of outstanding bonded indebtedness for each State as of Jan. 1, 1979, incurred by each State or public authority prior to June 29, 1956, for road construction or portions incorporated within Interstate System, and methods of allocating bonded indebtedness and removal of toll provisions.
 
 #### Richmond-Petersburg Turnpike
 
-Section 131 of Pub. L. 91–605 provided that: “The Secretary of Transportation is authorized to amend any agreement heretofore entered into under the provisions of section 129(d) of title 23, United States Code, in order to permit the continuation of tolls on the existing Richmond-Petersburg Turnpike to finance the construction within the existing termini of such turnpike of two lanes thereon in addition to the lanes in existence on the date of enactment of this section \[Dec. 31, 1970\] necessary to meet traffic and highway safety requirements. Any amended agreement entered into for such purposes shall provide assurances that the existing turnpike (including the additional lanes) shall become free to the public upon the collection of tolls sufficient to liquidate all construction costs, and the costs of maintenance, operation, and debt service during the period of toll collections to liquidate such construction costs, but in no event shall tolls be collected after date of maturity of those bonds outstanding on the date of enactment of this section \[Dec. 31, 1970\] issued for construction of such turnpike having the latest maturity date.”
+Pub. L. 91–605, title I, §131, Dec. 31, 1970, 84 Stat. 1732, provided that: “The Secretary of Transportation is authorized to amend any agreement heretofore entered into under the provisions of section 129(d) of title 23, United States Code, in order to permit the continuation of tolls on the existing Richmond-Petersburg Turnpike to finance the construction within the existing termini of such turnpike of two lanes thereon in addition to the lanes in existence on the date of enactment of this section \[Dec. 31, 1970\] necessary to meet traffic and highway safety requirements. Any amended agreement entered into for such purposes shall provide assurances that the existing turnpike (including the additional lanes) shall become free to the public upon the collection of tolls sufficient to liquidate all construction costs, and the costs of maintenance, operation, and debt service during the period of toll collections to liquidate such construction costs, but in no event shall tolls be collected after date of maturity of those bonds outstanding on the date of enactment of this section \[Dec. 31, 1970\] issued for construction of such turnpike having the latest maturity date.”
 
-<i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “section 5303”.</i>
+
+<i><sup>2</sup></i><i> So in original. The word “and” probably should not appear.</i>
 

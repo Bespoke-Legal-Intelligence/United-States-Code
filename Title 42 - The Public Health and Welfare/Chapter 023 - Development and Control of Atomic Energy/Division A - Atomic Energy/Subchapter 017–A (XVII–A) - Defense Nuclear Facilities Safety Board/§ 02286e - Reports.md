@@ -2,7 +2,7 @@
 
 #### (a) Board report
 
-(1) The Board shall submit to the Committees on Armed Services and on Appropriations of the Senate and to the Speaker of the House of Representatives each year, at the same time that the President submits the budget to Congress pursuant to section 1105(a) of title 31, a written report concerning its activities under this subchapter, including all recommendations made by the Board, during the year preceding the year in which the report is submitted. The Board may also issue periodic unclassified reports on matters within the Board's responsibilities.
+(1) The Board shall submit to the Committees on Armed Services, Appropriations, and Energy and Commerce of the House of Representatives and the Committees on Armed Services, Appropriations, and Energy and Natural Resources of the Senate each year, at the same time that the President submits the budget to Congress pursuant to section 1105(a) of title 31, a written report concerning its activities under this subchapter, including all recommendations made by the Board, during the year preceding the year in which the report is submitted. The Board may also issue periodic unclassified reports on matters within the Board's responsibilities.
 
 (2) The annual report under paragraph (1) shall include an assessment of—
 
@@ -14,13 +14,17 @@
 
 #### (b) DOE report
 
-The Secretary of Energy shall submit to the Committees on Armed Services and on Appropriations of the Senate and to the Speaker of the House of Representatives each year, at the same time that the President submits the budget to Congress pursuant to section 1105(a) of title 31, a written report concerning the activities of the Department of Energy under this subchapter during the year preceding the year in which the report is submitted.
+The Secretary of Energy shall submit to the Committees on Armed Services, Appropriations, and Energy and Commerce of the House of Representatives and the Committees on Armed Services, Appropriations, and Energy and Natural Resources of the Senate each year, at the same time that the President submits the budget to Congress pursuant to section 1105(a) of title 31, a written report concerning the activities of the Department of Energy under this subchapter during the year preceding the year in which the report is submitted.
 
-(Aug. 1, 1946, ch. 724, title I, §316, as added Pub. L. 100–456, div. A, title XIV, §1441(a)(1), Sept. 29, 1988, 102 Stat. 2082; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
+(Aug. 1, 1946, ch. 724, title I, §316, as added Pub. L. 100–456, div. A, title XIV, §1441(a)(1), Sept. 29, 1988, 102 Stat. 2082; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; amended Pub. L. 112–239, div. C, title XXXII, §3202(d), Jan. 2, 2013, 126 Stat. 2220.)
+
+#### Amendments
+
+<b>2013</b>—Subsecs. (a)(1), (b). Pub. L. 112–239 substituted “Committees on Armed Services, Appropriations, and Energy and Commerce of the House of Representatives and the Committees on Armed Services, Appropriations, and Energy and Natural Resources of the Senate” for “Committees on Armed Services and on Appropriations of the Senate and to the Speaker of the House of Representatives”.
 
 #### Reporting Requirements
 
-Section 1441(c), (d) of Pub. L. 100–456 provided that:
+Pub. L. 100–456, div. A, title XIV, §1441(c), (d), Sept. 29, 1988, 102 Stat. 2084, provided that:
 
 “(c)
 

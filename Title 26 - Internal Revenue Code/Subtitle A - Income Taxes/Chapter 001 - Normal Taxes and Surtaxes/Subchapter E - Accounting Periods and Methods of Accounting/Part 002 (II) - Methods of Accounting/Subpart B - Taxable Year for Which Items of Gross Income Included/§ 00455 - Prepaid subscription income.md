@@ -70,5 +70,5 @@ Amendment by section 1901(a)(67) of Pub. L. 94–455 effective for taxable years
 
 #### Effective Date
 
-Section 28(c) of Pub. L. 85–866 provided that: “The amendments made by subsections (a) and (b) \[enacting this section\] shall apply with respect to taxable years beginning after December 31, 1957.”
+Pub. L. 85–866, title I, §28(c), Sept. 2, 1958, 72 Stat. 1626, provided that: “The amendments made by subsections (a) and (b) \[enacting this section\] shall apply with respect to taxable years beginning after December 31, 1957.”
 

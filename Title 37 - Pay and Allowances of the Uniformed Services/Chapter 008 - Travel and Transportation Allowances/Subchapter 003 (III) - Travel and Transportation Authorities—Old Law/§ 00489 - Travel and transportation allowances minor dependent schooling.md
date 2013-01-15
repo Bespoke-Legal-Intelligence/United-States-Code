@@ -8,7 +8,7 @@ Authority.—Under regulations to be prescribed by the Secretary of Defense, a m
 
 Termination.—No transportation or allowance may be provided under this section for travel that begins after the travel authorities transition expiration date.
 
-(Added Pub. L. 95–561, title XIV, §1407(e)(1)(A), formerly §1407(c)(1)(A), Nov. 1, 1978, 92 Stat. 2367, renumbered §1407(d)(1)(A), Pub. L. 101–510, div. A, title V, §504(a)(1), Nov. 5, 1990, 104 Stat. 1559, renumbered §1407(e)(1)(A), Pub. L. 107–107, div. A, title III, §353(1), Dec. 28, 2001, 115 Stat. 1063, §429; amended Pub. L. 99–145, title XIII, §1303(b)(10), Nov. 8, 1985, 99 Stat. 741; renumbered §489 and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(28), Dec. 31, 2011, 125 Stat. 1460, 1464.)
+(Added Pub. L. 95–561, title XIV, §1407(e)(1)(A), formerly §1407(c)(1)(A), Nov. 1, 1978, 92 Stat. 2367,renumbered §1407(d)(1)(A), Pub. L. 101–510, div. A, title V, §504(a)(1), Nov. 5, 1990, 104 Stat. 1559, renumbered §1407(e)(1)(A), Pub. L. 107–107, div. A, title III, §353(1), Dec. 28, 2001, 115 Stat. 1063, §429; amended Pub. L. 99–145, title XIII, §1303(b)(10), Nov. 8, 1985, 99 Stat. 741; renumbered §489 and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(28), Dec. 31, 2011, 125 Stat. 1460, 1464; Pub. L. 112–239, div. A, title X, §1076(a)(6), Jan. 2, 2013, 126 Stat. 1948.)
 
 #### References in Text
 
@@ -16,11 +16,17 @@ The Defense Dependents’ Education Act of 1978, referred to in subsec. (a), is 
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 112–81, §631(e)(28), which directed insertion of subsec. (a) designation and heading before “In addition” and addition of subsec. (b), was executed by inserting subsec. (a) designation and heading before “Under regulations” and adding subsec. (b), to reflect the probable intent of Congress.
+<b>2013</b>—Pub. L. 112–239, §1076(a)(6), made technical amendment to directory language of Pub. L. 112–81, §631(e)(28). See 2011 Amendment note below.
+
+<b>2011</b>—Pub. L. 112–81, §631(e)(28), as amended by Pub. L. 112–239, §1076(a)(6), inserted subsec. (a) designation and heading before “Under regulations” and added subsec. (b).
 
 Pub. L. 112–81, §631(d)(2), renumbered section 429 of this title as this section.
 
 <b>1985</b>—Pub. L. 99–145 inserted “(20 U.S.C. 921 et seq.)”.
+
+#### Effective Date of 2013 Amendment
+
+Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(6) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
 
 #### Effective Date
 

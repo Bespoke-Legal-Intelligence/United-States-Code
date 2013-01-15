@@ -40,7 +40,7 @@ If this subsection applies to a plan, notwithstanding any other provision of thi
 
 &emsp;&emsp;(B) then on the basis of their respective liabilities for contributions under the plan.
 
-> &emsp;For purposes of this subsection and the last sentence of section 4971(a),<sup>1</sup> an employer's withdrawal liability under part 1 of subtitle E of title IV of the Employee Retirement Income Security Act of 1974 shall not be treated as a liability for contributions under the plan.
+> &emsp;For purposes of this subsection and the last sentence of section 4971(a),<sup>1</sup> an employer'swithdrawal liability under part 1 of subtitle E of title IV of the Employee Retirement Income Security Act of 1974 shall not be treated as a liability for contributions under the plan.
 
 #### (7) Deduction limitations
 
@@ -108,7 +108,7 @@ In the case of a plan maintained by more than one employer—
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), allocations of amounts under paragraphs (4), (5), and (6) among the employers maintaining the plan shall not be inconsistent with regulations prescribed for this purpose by the Secretary.
+&emsp;&emsp;Except as provided in subparagraph (B), allocations of amounts under paragraphs (4),\(5), and (6) among the employers maintaining the plan shall not be inconsistent with regulations prescribed for this purpose by the Secretary.
 
 #### (B) Assets and liabilities of plan
 
@@ -122,7 +122,7 @@ The last sentence of section 4971(a), referred to in subsec. (b)(6), was struck 
 
 The Employee Retirement Income Security Act of 1974, referred to in subsec. (b)(6), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended. Part 1 of subtitle E of title IV of the Employee Retirement Income Security Act of 1974 is classified generally to part 1 (§1381 et seq.) of subtitle E of subchapter III of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
-The date of enactment of the Technical and Miscellaneous Revenue Act of 1988, referred to in subsec.\(c)(4)(B), is the date of enactment of Pub. L. 100–647, which was approved Nov. 10, 1988.
+The date of enactment of the Technical and Miscellaneous Revenue Act of 1988, referred to in subsec. (c)(4)(B), is the date of enactment of Pub. L. 100–647, which was approved Nov. 10, 1988.
 
 #### Amendments
 
@@ -146,7 +146,7 @@ Subsec. (c)(7). Pub. L. 100–647, §6058(c), added par. (7).
 
 Amendment by section 1011(h)(10) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Section 6058(d) of Pub. L. 100–647 provided that: “Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to plan years beginning after the date of the enactment of this Act \[Nov. 10, 1988\].”
+Pub. L. 100–647, title VI, §6058(d), Nov. 10, 1988, 102 Stat. 3699, provided that: “Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to plan years beginning after the date of the enactment of this Act \[Nov. 10, 1988\].”
 
 #### Effective Date of 1980 Amendment
 

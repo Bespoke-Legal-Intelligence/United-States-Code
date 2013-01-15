@@ -4,7 +4,7 @@ Congress finds that—
 
 &emsp;(1) it is in the mutual interest of the United States and the countries of sub-Saharan Africa to promote stable and sustainable economic growth and development in sub-Saharan Africa;
 
-&emsp;(2) the 48 countries of sub-Saharan Africa form a region richly endowed with both natural and human resources;
+&emsp;(2) the countries of sub-Saharan Africa form a region richly endowed with both natural and human resources;
 
 &emsp;(3) sub-Saharan Africa represents a region of enormous economic potential and of enduring political significance to the United States;
 
@@ -22,7 +22,15 @@ Congress finds that—
 
 &emsp;(10) encouraging the reciprocal reduction of trade and investment barriers in Africa will enhance the benefits of trade and investment for the region as well as enhance commercial and political ties between the United States and sub-Saharan Africa.
 
-(Pub. L. 106–200, title I, §102, May 18, 2000, 114 Stat. 252.)
+(Pub. L. 106–200, title I, §102, May 18, 2000, 114 Stat. 252; Pub. L. 112–163, §1(c), Aug. 10, 2012, 126 Stat. 1274.)
+
+#### Amendments
+
+<b>2012</b>—Par. (2). Pub. L. 112–163 struck out “48” before “countries”.
+
+#### Effective Date of 2012 Amendment
+
+Pub. L. 112–163, §1(d), Aug. 10, 2012, 126 Stat. 1274, provided that: “The amendments made by this section \[amending this section and sections 3706 and 3721 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 10, 2012\].”
 
 #### Short Title of 2006 Amendment
 
@@ -150,7 +158,7 @@ Requests.—Liquidation or reliquidation may be made under subsection (a) with r
 
 “(c)
 
-Payment of Amounts Owed.—Any amounts owed by the United States pursuant to the liquidation or reliquidation of any entry under subsection (a) shall be paid not later than 180 days after the date of such liquidation or reliquidation.
+Payment of Amounts Owed.—Any amounts owed by the United States pursuant to the liquidation or reliquidation of any entry under subsection (a) shall bepaid not later than 180 days after the date of such liquidation or reliquidation.
 
 “(d)
 
@@ -160,7 +168,7 @@ Entries.—The entries referred to in subsection (a) are entries of apparel arti
 
 “(a)
 
-Reports.—The President shall, by not later than 1 year after the date of the enactment of this Act \[July13, 2004\], conduct a study on each eligible sub-Saharan African country, that—
+Reports.—The President shall, by not later than 1 year after the date of the enactment of this Act \[July 13, 2004\], conduct a study on each eligible sub-Saharan African country, that—
 
 &emsp;“(1) identifies sectors of the economy of that country with the greatest potential for growth, including through export sales;
 

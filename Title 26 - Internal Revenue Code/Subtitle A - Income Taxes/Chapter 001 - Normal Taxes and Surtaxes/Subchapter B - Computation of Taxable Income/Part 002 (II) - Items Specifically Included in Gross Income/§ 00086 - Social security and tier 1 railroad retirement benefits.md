@@ -144,11 +144,7 @@ For purposes of—
 
 > any social security benefit shall be treated as an amount received as a pension or annuity.
 
-(Added and amended Pub. L. 98–21, title I, §121(a), title III, §335(b)(2)(A), Apr. 20, 1983, 97 Stat. 80, 130; Pub. L. 98–76, title II, §224(d), Aug. 12, 1983, 97 Stat. 424; Pub. L. 98–369, div. A, title IV, §474(r)(2), div. B, title VI, §2661(<i>o</i>)(1), July 18, 1984, 98 Stat. 839, 1158; Pub. L. 99–272, title XII, §12111(b), title XIII, §13204(a), Apr. 7, 1986, 100 Stat. 287, 313; Pub. L. 99–514, title I, §131(b)(2), title XIII, §1301(j)(8), title XVIII, §1847(b)(2), Oct. 22, 1986, 100 Stat. 2113, 2658, 2856; Pub. L. 100–647, title I, §1001(e), title VI, §6009(c)(1), Nov. 10, 1988, 102 Stat. 3351, 3690; Pub. L. 103–66, title XIII, §13215(a), (b), Aug. 10, 1993, 107 Stat. 475, 476; Pub. L. 103–296, title III, §309(d), Aug. 15, 1994, 108 Stat. 1523; Pub. L. 104–188, title I, §§1704(t)(3), 1807(c)(2), Aug. 20, 1996, 110 Stat. 1887, 1902; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(B), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 107–16, title IV, §431(c)(1), June 7, 2001, 115 Stat. 68; Pub. L. 108–357, title I, §102(d)(1), Oct. 22, 2004, 118 Stat. 1428.)
-
-#### Amendment of Section
-
-<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
+(Added and amended Pub. L. 98–21, title I, §121(a), title III, §335(b)(2)(A), Apr. 20, 1983, 97 Stat. 80, 130; Pub. L. 98–76, title II, §224(d), Aug. 12, 1983, 97 Stat. 424; Pub. L. 98–369, div. A, title IV, §474(r)(2), div. B, title VI, §2661(o)(1), July 18, 1984, 98 Stat. 839, 1158; Pub. L. 99–272, title XII, §12111(b), title XIII, §13204(a), Apr. 7, 1986, 100 Stat. 287, 313; Pub. L. 99–514, title I, §131(b)(2), title XIII, §1301(j)(8), title XVIII, §1847(b)(2), Oct. 22, 1986, 100 Stat. 2113, 2658, 2856; Pub. L. 100–647,title I, §1001(e), title VI, §6009(c)(1), Nov. 10, 1988, 102 Stat. 3351, 3690; Pub. L. 103–66, title XIII, §13215(a), (b), Aug. 10, 1993, 107 Stat. 475, 476; Pub. L. 103–296, title III, §309(d), Aug. 15, 1994, 108 Stat. 1523; Pub. L. 104–188, title I, §§1704(t)(3), 1807(c)(2), Aug. 20, 1996, 110 Stat. 1887, 1902; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(B), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 107–16, title IV, §431(c)(1), June 7, 2001, 115 Stat. 68; Pub. L. 108–357, title I, §102(d)(1), Oct. 22, 2004, 118 Stat. 1428.)
 
 #### References in Text
 
@@ -164,7 +160,7 @@ A prior section 86 was renumbered section 87 of this title.
 
 <b>2004</b>—Subsec. (b)(2)(A). Pub. L. 108–357 inserted “199,” before “221”.
 
-<b>2001</b>—Subsec. (b)(2)(A). Pub. L. 107–16, §§431(c)(1), 901, temporarily inserted “222,” after “221,”. See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Subsec. (b)(2)(A). Pub. L. 107–16 inserted “222,” after “221,”.
 
 <b>1998</b>—Subsec. (b)(2)(A). Pub. L. 105–277 inserted “221,” after “137,”.
 
@@ -202,11 +198,11 @@ Subsec. (d)(5). Pub. L. 99–272, §12111(b), added par. (5).
 
 Subsec. (f)(1). Pub. L. 99–514, §1847(b)(2), substituted “section 22(c)(3)(A)” for “section 37(c)(3)(A)”.
 
-<b>1984</b>—Subsec. (f)(1). Pub. L. 98–369, §2661(<i>o</i>)(1), added par. (1). Former par. (1) redesignated par. (2).
+<b>1984</b>—Subsec. (f)(1). Pub. L. 98–369, §2661(o)(1), added par. (1). Former par. (1) redesignated par. (2).
 
 Pub. L. 98–369, §474(r)(2), substituted “section 32(c)(2)” for “section 43(c)(2)”.
 
-Subsec. (f)(2)–(5). Pub. L. 98–369, §2661(<i>o</i>)(1), redesignated pars. (1) to (4) as (2) to (5), respectively.
+Subsec. (f)(2)–(5). Pub. L. 98–369, §2661(o)(1), redesignated pars. (1) to (4) as (2) to (5), respectively.
 
 <b>1983</b>—Subsec. (a). Pub. L. 98–21, §335(b)(2)(A), inserted “(notwithstanding section 207 of the Social Security Act)”.
 
@@ -216,15 +212,13 @@ Subsec. (d)(4). Pub. L. 98–76 inserted “3(f)(3),” after “3(a),”.
 
 Amendment by Pub. L. 108–357 applicable to taxable years beginning after Dec. 31, 2004, see section 102(e) of Pub. L. 108–357, set out as a note under section 56 of this title.
 
-#### Effective and Termination Dates of 2001 Amendment
+#### Effective Date of 2001 Amendment
 
 Amendment by Pub. L. 107–16 applicable to payments made in taxable years beginning after Dec. 31, 2001, see section 431(d) of Pub. L. 107–16, set out as a note under section 62 of this title.
 
-Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
-
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–277, div. J, title IV, §4003(<i>l</i>), Oct. 21, 1998, 112 Stat. 2681–910, provided that: “The amendments made by this section \[amending this section and sections 135, 137, 163, 172, 219, 221, 264, 351, 368, 469, 954, 2001, 6311, 6404, and 9510 of this title and amending provisions set out as a note under section 7508A of this title\] shall take effect as if included in the provisions of the 1997 Act \[Pub. L. 105–34\] to which they relate.”
+Pub. L. 105–277, div. J, title IV, §4003(l), Oct. 21, 1998, 112 Stat. 2681–910, provided that: “The amendments made by this section \[amending this section and sections 135, 137, 163, 172, 219, 221, 264, 351, 368, 469, 954, 2001, 6311, 6404, and 9510 of this title and amending provisions set out as a note under section 7508A of this title\] shall take effect as if included in the provisions of the 1997 Act \[Pub. L. 105–34\] to which they relate.”
 
 #### Effective Date of 1996 Amendment
 
@@ -232,19 +226,19 @@ Amendment by section 1807(c)(2) of Pub. L. 104–188 applicable to taxable years
 
 #### Effective Date of 1994 Amendment
 
-Section 309(e)(2) of Pub. L. 103–296 provided that: “The amendment made by subsection (d) \[amending this section\] shall apply with respect to benefits received after December 31, 1995, in taxable years ending after such date.”
+Pub. L. 103–296, title III, §309(e)(2), Aug. 15, 1994, 108 Stat. 1524, provided that: “The amendment made by subsection (d) \[amending this section\] shall apply with respect to benefits received after December 31, 1995, in taxable years ending after such date.”
 
 #### Effective Date of 1993 Amendment
 
-Section 13215(d) of Pub. L. 103–66 provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply to taxable years beginning after December 31, 1993.”
+Pub. L. 103–66, title XIII, §13215(d), Aug. 10, 1993, 107 Stat. 477, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply to taxable years beginning after December 31, 1993.”
 
 #### Effective Date of 1988 Amendment
 
 Amendment by section 1001(e) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Section 6009(d) of Pub. L. 100–647 provided that: “The amendments made by this section \[enacting section 135 of this title, amending this section and sections 219 and 469 of this title, and renumbering former section 135 as section 136 of this title\] shall apply to taxable years beginning after December 31, 1989.”
+Pub. L. 100–647, title VI, §6009(d), Nov. 10, 1988, 102 Stat. 3690, provided that: “The amendments made by this section \[enacting section 135 of this title, amending this section and sections 219 and 469 of this title,and renumbering former section 135 as section 136 of this title\] shall apply to taxable years beginning after December 31, 1989.”
 
-#### Effective Date of 1986 Amendments
+#### Effective Date of 1986 Amendment
 
 Amendment by section 131(b)(2) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 151(a) of Pub. L. 99–514, set out as a note under section 1 of this title.
 
@@ -254,7 +248,7 @@ Amendment by section 1847(b)(2) of Pub. L. 99–514 effective, except as otherwi
 
 Amendment by section 12111(b) of Pub. L. 99–272 applicable with respect to benefit checks issued for months ending after Apr. 7, 1986, see section 12111(c) of Pub. L. 99–272, set out as a note under section 909 of Title 42, The Public Health and Welfare.
 
-Section 13204(b) of Pub. L. 99–272 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to any monthly benefit for which the generally applicable payment date is after December 31, 1985.”
+Pub. L. 99–272, title XIII, §13204(b), Apr. 7, 1986, 100 Stat. 313, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to any monthly benefit for which the generally applicable payment date is after December 31, 1985.”
 
 #### Effective Date of 1984 Amendment
 
@@ -268,7 +262,7 @@ Amendment by Pub. L. 98–76 applicable to benefits received after Dec. 31, 1983
 
 #### Effective Date
 
-Section 121(g) of Pub. L. 98–21, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–21, title I, §121(g), Apr. 20, 1983, 97 Stat. 84, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 

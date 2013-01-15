@@ -4,7 +4,7 @@ As used in this chapter—
 
 (a) The term “gambling device” means—
 
-&emsp;(1) any so-called “slot machine” or any other machine or mechanical device an essential part of which is a drum or reel with insignia thereon, and (A) which when operated may deliver, as the result of the application of an element of chance, any money or property, or (B) by the operation of which a person may become entitled to receive, as the result of the application of an element of chance, any money or property; or
+&emsp;(1) any so-called “slot machine” or any other machine or mechanical device an essential part of which is a drum or reel with insignia thereon, and (A) which when operated may deliver, as the result of the application of anelement of chance, any money or property, or (B) by the operation of which a person may become entitled to receive, as the result of the application of an element of chance, any money or property; or
 
 &emsp;(2) any other machine or mechanical device (including, but not limited to, roulette wheels and similar devices) designed and manufactured primarily for use in connection with gambling, and (A) which when operated may deliver, as the result of the application of an element of chance, any money or property, or (B) by the operation of which a person may become entitled to receive, as the result of the application of an element of chance, any money or property; or
 
@@ -34,11 +34,11 @@ Subsecs. (d) and (e). Pub. L. 87–840, §3, added subsecs. (d) and (e).
 
 #### Effective Date of 1962 Amendment
 
-Section 7 of Pub. L. 87–840 provided that: “The amendments made by this Act \[enacting section 1178 of this title and amending this section and sections 1172 and 1173 of this title\] shall take effect on the sixtieth day after the date of its enactment \[Oct. 18, 1962\].”
+Pub. L. 87–840, §7, Oct. 18, 1962, 76 Stat. 1077, provided that: “The amendments made by this Act \[enacting section 1178 of this title and amending this section and sections 1172 and 1173 of this title\] shall take effect on the sixtieth day after the date of its enactment \[Oct. 18, 1962\].”
 
 #### Short Title of 1962 Amendment
 
-Section 1 of Pub. L. 87–840 provided: “That this Act \[enacting section 1178 of this title and amending this section and sections 1172 and 1173 of this title\] may be cited as the ‘Gambling Devices Act of 1962’.”
+Pub. L. 87–840, §1, Oct. 18, 1962, 76 Stat. 1075, provided: “That this Act \[enacting section 1178 of this title and amending this section and sections 1172 and 1173 of this title\] may be cited as the ‘Gambling Devices Act of 1962’.”
 
 #### Short Title
 
@@ -46,5 +46,5 @@ Act Jan. 2, 1951, which enacted this chapter and a note set out under this secti
 
 #### Separability
 
-Section 8 of act Jan. 2, 1951, provided that: “If any provision of this Act \[this chapter\] or the application thereof to any person or circumstance is held invalid, such invalidity shall not affect other provisions or applications of the Act \[this chapter\] which can be given effect without the invalid provision or application, and to this end the provisions of this Act \[this chapter\] are declared to be severable.”
+Act Jan. 2, 1951, ch. 1194, §8, 64 Stat. 1136, provided that: “If any provision of this Act \[this chapter\] or the application thereof to any person or circumstance is held invalid, such invalidity shall not affect other provisions or applications of the Act \[this chapter\] which can be given effect without the invalid provision or application, and to this end the provisions of this Act \[this chapter\] are declared to be severable.”
 

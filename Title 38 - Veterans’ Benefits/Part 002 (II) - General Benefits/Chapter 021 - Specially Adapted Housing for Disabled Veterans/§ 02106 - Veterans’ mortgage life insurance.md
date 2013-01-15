@@ -48,7 +48,7 @@ Subsec. (i). Pub. L. 110–289, §2602(b)(6)(E), (F), substituted “the individ
 
 <b>2002</b>—Subsec. (a). Pub. L. 107–330, §302(1), inserted “age 69 or younger” after “any eligible veteran”.
 
-Subsec. (i)(2) to (4). Pub. L. 107–330, §302(2), redesignated pars. (3) and (4) as (2) and (3), respectively, andstruck out former par. (2) which read as follows: “The veteran's seventieth birthday.”
+Subsec. (i)(2) to (4). Pub. L. 107–330, §302(2), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follows: “The veteran's seventieth birthday.”
 
 <b>1998</b>—Subsec. (e). Pub. L. 105–368 substituted “deposited in the Veterans Housing Benefit Program Fund established by section 3722 of this title” for “, as appropriate, deposited in either the direct loan or loan guaranty revolving fund established by section 3723 or 3724 of this title, respectively”.
 
@@ -98,7 +98,7 @@ Amendment by Pub. L. 102–568 effective Dec. 1, 1992, see section 205 of Pub. L
 
 #### Effective Date of 1988 Amendment
 
-Section 333(b) of Pub. L. 100–322 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the first day of the fourth month beginning after the date of the enactment of this Act \[May 20, 1988\].”
+Pub. L. 100–322, title III, §333(b), May 20, 1988, 102 Stat. 539, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the first day of the fourth month beginning after the date of the enactment of this Act \[May 20, 1988\].”
 
 #### Effective Date of 1976 Amendment
 
@@ -106,7 +106,7 @@ Amendment by Pub. L. 94–433 effective Oct. 1, 1976, see section 406 of Pub. L.
 
 #### Savings Provision; Discontinuance of Contract Program; Definition
 
-Section 333(c)–(e) of Pub. L. 100–322 provided that:
+Pub. L. 100–322, title III, §333(c)–(e), May 20, 1988, 102 Stat. 539, provided that:
 
 “(c)
 
@@ -114,7 +114,7 @@ Savings Provision.—Mortgage protection life insurance granted to any veteran u
 
 “(d)
 
-Discontinuance of Contract Program.—(1) Effective as of the effective date specified in subsection (b), the Administrator shall discontinue the policy of insurance purchased in accordance with the former section 806.
+Discontinuance of Contract Program.—(1) Effective as of the effective date specified in subsection (b), the Administrator shall discontinue the policy ofinsurance purchased in accordance with the former section 806.
 
 “(2) All premiums collected or received by the insurer on or after such effective date under a policy purchased under the former section 806 shall be promptly forwarded to the Administrator and shall be credited to the ‘Veterans Insurance and Indemnities’ appropriation account. Any positive balance of the contingency reserve maintained by the insurer under such policy remaining after all charges have been made shall be payable to the Administrator and shall be deposited by the Administrator in such account, except that such balance may, upon the election of the insurer, be paid by the insurer in equal monthly installments over a period of not more than two years beginning on the date, after such effective date, that the Administrator specifies.
 

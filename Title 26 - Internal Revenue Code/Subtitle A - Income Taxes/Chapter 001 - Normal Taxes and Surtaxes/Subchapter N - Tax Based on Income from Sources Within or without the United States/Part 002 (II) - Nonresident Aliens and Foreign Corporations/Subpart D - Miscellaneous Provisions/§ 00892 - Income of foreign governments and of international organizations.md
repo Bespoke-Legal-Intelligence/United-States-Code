@@ -68,7 +68,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Section 1247(b) of Pub. L. 99–514 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to amounts received on or after July 1, 1986, except that no amount shall be required to be deducted and withheld by reason of the amendment made by subsection (a) from any payment made before the date of the enactment of this Act \[Oct. 22, 1986\].”
+Pub. L. 99–514, title XII, §1247(b), Oct. 22, 1986, 100 Stat. 2584, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to amounts received on or after July 1, 1986, except that no amount shall be required to be deducted and withheld by reason of the amendment made by subsection (a) from any payment made before the date of the enactment of this Act \[Oct. 22, 1986\].”
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 

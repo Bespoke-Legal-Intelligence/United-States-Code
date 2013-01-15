@@ -8,7 +8,7 @@ This subpart shall be effective only for the 2008 through 2012 crop years for su
 
 The Secretary shall administer flexible marketing allotments for sugar for the 2007 crop year for sugar on the terms and conditions provided in this subpart as in effect on the day before the date of enactment of this section.
 
-(Feb. 16, 1938, ch. 30, title III, §359<i>l</i>, as added Pub. L. 110–234, title I, §1403(k), May 22, 2008, 122 Stat. 989, and Pub. L. 110–246, §4(a), title I, §1403(k), June 18, 2008, 122 Stat. 1664, 1717.)
+(Feb. 16, 1938, ch. 30, title III, §359l, as added Pub. L. 110–234, title I, §1403(k), May 22, 2008, 122 Stat. 989, and Pub. L. 110–246, §4(a), title I, §1403(k), June 18, 2008, 122 Stat. 1664, 1717.)
 
 #### References in Text
 

@@ -1,6 +1,6 @@
 ### §4765. Review and audit
 
-The Office, the head of the Federal agency concerned, and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access, for the purpose of audit and examination, to any books, documents, papers, and records of a grant recipient that are pertinent to the grant received.
+The Office, the head of the Federal agency concerned, and the Comptroller General of the United States, or any of their duly authorizedrepresentatives, shall have access, for the purpose of audit and examination, to any books, documents, papers, and records of a grant recipient that are pertinent to the grant received.
 
 (Pub. L. 91–648, title V, §505, Jan. 5, 1971, 84 Stat. 1927; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783.)
 

@@ -2,7 +2,7 @@
 
 (a) “Commission” means the North Pacific Fur Seal Commission established pursuant to article V of the Convention.
 
-(b) “Convention” means the Interim Convention on the Conservation of North Pacific Fur Seals signed at Washington on February 9, 1957, as amended by the protocol signed in Washington on October 8, 1963; by the exchange of notes among the party governments which became effective on September 3, 1969; by the protocol signed in Washington on May 7, 1976; and by the protocol signed in Washington on October 14, 1980, by the parties.
+(b) “Convention” means the Interim Convention on the Conservation of North Pacific FurSeals signed at Washington on February 9, 1957, as amended by the protocol signed in Washington on October 8, 1963; by the exchange of notes among the party governments which became effective on September 3, 1969; by the protocol signed in Washington on May 7, 1976; and by the protocol signed in Washington on October 14, 1980, by the parties.
 
 (c) “Cure” or “curing” means the performance of those post-harvest activities traditionally performed on the Pribilof Islands, including cooling, washing, removal of blubber, soaking in brine, draining, treating with salt or boric acid, and packing in containers for shipment of fur seal skins.
 
@@ -22,7 +22,7 @@
 
 (k) “Sealing” means the taking of fur seals.
 
-(<i>l</i>) “Secretary” means the Secretary of Commerce.
+(l) “Secretary” means the Secretary of Commerce.
 
 (m) “Take” or “taking” means to harass, hunt, capture, or kill, or attempt to harass, hunt, capture, or kill.
 
@@ -42,7 +42,7 @@
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–251 effective on date on which Agreement between United States and Union of Soviet Socialist Republics on the Maritime Boundary,signed June 1, 1990, enters into force for United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until date on which Agreement enters into force for United States, see section 308 of Pub. L. 102–251, set out as a note under section 773 of this title.
+Amendment by Pub. L. 102–251 effective on date on which Agreement between United States and Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until date on which Agreement enters into force for United States, see section 308 of Pub. L. 102–251, set out as a note under section 773 of this title.
 
 #### Short Title of 2000 Amendments
 
@@ -52,7 +52,7 @@ Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(e)(1)\], Dec. 21, 2000, 11
 
 #### Short Title of 1983 Amendment
 
-Section 1 of Pub. L. 98–129 provided: “That this Act \[amending this chapter generally, sections 8332 and 8334 of Title 5, Government Organization and Employees, and section 450i of Title 25, Indians\] may be cited as the ‘Fur Seal Act Amendments of 1983’.”
+Pub. L. 98–129, §1, Oct. 14, 1983, 97 Stat. 835, provided: “That this Act \[amending this chapter generally, sections 8332 and 8334 of Title 5, Government Organization and Employees, and section 450i of Title 25, Indians\] may be cited as the ‘Fur Seal Act Amendments of 1983’.”
 
 #### Short Title
 

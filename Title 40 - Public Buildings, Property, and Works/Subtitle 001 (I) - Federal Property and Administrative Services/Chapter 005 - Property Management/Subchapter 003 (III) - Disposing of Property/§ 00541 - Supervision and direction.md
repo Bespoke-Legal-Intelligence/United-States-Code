@@ -24,7 +24,7 @@ The words “shall supervise and direct the disposition of surplus property in a
 
 #### Transferred Properties; Requests Prior to November 30, 1983
 
-Pub. L. 98–181, title I, §126(a)(2), (3), Nov. 30, 1983, 97 Stat. 1175, provided that:
+Pub. L. 98–181, title I \[title I, §126(a)(2), (3)\], Nov. 30, 1983, 97 Stat. 1175, provided that:
 
 “(2) Notwithstanding paragraph (1) \[repealing former 40 U.S.C. 484b\], the Secretary of Housing and Urban Development and the Secretary of Agriculture may dispose of Federal surplus real property pursuant to the terms of section 414 of such Act \[former 40 U.S.C. 484b\] if, prior to the date of the enactment of this Act \[Nov. 30, 1983\], either Secretary had requested the Administrator of General Services to transfer such property for such disposition.
 

@@ -52,7 +52,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) the specific project for which the grant proposal is submitted, including the manner in which the grant will be used to develop, offer, or improve an educational or career training program that is suited to workers eligible for training under section 2296 of this title;
 
-&emsp;&emsp;&emsp;(ii) the extent to which the project for which the grant proposal is submitted will meet the educational or career training needs of workers in the community served by the eligible institution who are eligiblefor training under section 2296 of this title; and
+&emsp;&emsp;&emsp;(ii) the extent to which the project for which the grant proposal is submitted willmeet the educational or career training needs of workers in the community served by the eligible institution who are eligible for training under section 2296 of this title; and
 
 &emsp;&emsp;&emsp;(iii) any previous experience of the eligible institution in providing educational or career training programs to workers eligible for training under section 2296 of this title.
 
@@ -130,7 +130,7 @@ Section was formerly classified to section 2372 of this title prior to renumberi
 
 #### Prior Provisions
 
-A prior section 2371, Pub. L. 93–618, title II, §271, as added Pub. L. 111–5, div. B, title I, §1872(a), Feb. 17, 2009,123 Stat. 401, and Pub. L. 112–40, title II, §201(b), (c), Oct. 21, 2011, 125 Stat. 403, which defined terms, was repealed by Pub. L. 112–40, title II, §222(a)(1), Oct. 21, 2011, 125 Stat. 411.
+A prior section 2371, Pub. L. 93–618, title II, §271, as added Pub. L. 111–5, div. B, title I, §1872(a), Feb. 17, 2009, 123 Stat. 401, and Pub. L. 112–40, title II, §201(b), (c), Oct. 21, 2011, 125 Stat. 403, which defined terms, was repealed by Pub. L. 112–40, title II, §222(a)(1), Oct. 21, 2011, 125 Stat. 411.
 
 Another prior section 2371, Pub. L. 93–618, title II, §271, Jan. 3, 1975, 88 Stat. 2035, related to petitions and determinations and terminated Sept. 30, 1982, pursuant to section 285 of Pub. L. 93–618, set out as a Termination Date note preceding section 2271 of this title, prior to the general amendment of this part by Pub. L. 111–5.
 

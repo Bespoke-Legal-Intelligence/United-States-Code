@@ -56,7 +56,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;(D) A foreign government or an agency authorized by a foreign government to place children for adoption, in any case in which—
 
-&emsp;&emsp;&emsp;(i) the adopted child is entitled to automatic citizenship under section 320 of theImmigration and Nationality Act (8 U.S.C. 1431); or
+&emsp;&emsp;&emsp;(i) the adopted child is entitled to automatic citizenship under section 320 of the Immigration and Nationality Act (8 U.S.C. 1431); or
 
 &emsp;&emsp;&emsp;(ii) a certificate of citizenship has been issued for such child under section 322 of that Act (8 U.S.C. 1433).
 
@@ -82,7 +82,7 @@ Subsec. (g)(3). Pub. L. 104–201, §652(a)(2), added par. (3).
 
 #### Effective Date
 
-Section 651(c) of Pub. L. 102–190 provided that: “The amendments made by subsections (a) and (b) \[enacting this section and section 514 of Title 14, Coast Guard\] shall take effect on the date of the enactment of this Act \[Dec. 5, 1991\] and shall apply to adoptions completed on or after that date.”
+Pub. L. 102–190, div. A, title VI, §651(c), Dec. 5, 1991, 105 Stat. 1387, provided that: “The amendments made by subsections (a) and (b) \[enacting this section and section 514 of Title 14, Coast Guard\] shall take effect on the date of the enactment of this Act \[Dec. 5, 1991\] and shall apply to adoptions completed on or after that date.”
 
 #### Reimbursement for Adoptions Completed During Period Between Test and Permanent Program
 

@@ -252,11 +252,11 @@ Pub. L. 108–203, title IV, §434(b), Mar. 2, 2004, 118 Stat. 540, provided tha
 
 Amendment by Pub. L. 105–33 effective as if included in the enactment of title II of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5528(a) of Pub. L. 105–33, set out as a note under section 903 of this title.
 
-#### Effective Date of 1996 Amendments
+#### Effective Date of 1996 Amendment
 
 Amendment by section 204(c)(1) of Pub. L. 104–193 applicable to applications for benefits under this subchapter filed on or after Aug. 22, 1996, without regard to whether regulations have been issued to implement amendments by section 204 of Pub. L. 104–193, see section 204(d) of Pub. L. 104–193, set out as a note under section 1382 of this title.
 
-Section 211(d) of Pub. L. 104–193, as amended by Pub. L. 105–33, title V, §5101, Aug. 5, 1997, 111 Stat. 595, provided that:
+Pub. L. 104–193, title II, §211(d), Aug. 22, 1996, 110 Stat. 2190, as amended by Pub. L. 105–33, title V, §5101, Aug. 5, 1997, 111 Stat. 595, provided that:
 
 “(1)
 
@@ -336,29 +336,29 @@ Conforming amendment.—\[Amended section 103(d)(1) of Pub. L. 104–121, set ou
 
 Benefits under title xvi.—For purposes of this subsection, the term ‘benefits under title XVI of the Social Security Act’ includes supplementary payments pursuant to an agreement for Federal administration under section 1616(a) of the Social Security Act \[section 1382e(a) of this title\], and payments pursuant to an agreement entered into under section 212(b) of Public Law 93–66 \[set out as a note under section 1382 of this title\].”
 
-Section 212(d) of Pub. L. 104–193 provided that: “The amendments made by this section \[amending this section and repealing provisions set out as a note under section 1383 of this title\] shall apply to benefits for months beginning on or after the date of the enactment of this Act \[Aug. 22, 1996\], without regard to whether regulations have been issued to implement such amendments.”
+Pub. L. 104–193, title II, §212(d), Aug. 22, 1996, 110 Stat. 2194, provided that: “The amendments made by this section \[amending this section and repealing provisions set out as a note under section 1383 of this title\] shall apply to benefits for months beginning on or after the date of the enactment of this Act \[Aug. 22, 1996\], without regard to whether regulations have been issued to implement such amendments.”
 
 Amendment by Pub. L. 104–121 applicable to individual who applies for, or whose claim is finally adjudicated with respect to, supplemental security income benefits under this subchapter based on disability on or after Mar. 29, 1996, with special rule in case of individual who has applied for, and whose claim has been finally adjudicated with respect to, such benefits before Mar. 29, 1996, see section 105(b)(5) of Pub. L. 104–121, set out as a note under section 1382 of this title.
 
 #### Effective Date of 1994 Amendment
 
-Section 221(b) of Pub. L. 103–432 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to determinations made on or after the date of the enactment of this Act \[Oct. 31, 1994\].”
+Pub. L. 103–432, title II, §221(b), Oct. 31, 1994, 108 Stat. 4462, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to determinations made on or after the date of the enactment of this Act \[Oct. 31, 1994\].”
 
 Amendment by section 107(a)(4) of Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of this title.
 
-Section 201(b)(4)(B) of Pub. L. 103–296 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 15, 1994\].”
+Pub. L. 103–296, title II, §201(b)(4)(B), Aug. 15, 1994, 108 Stat. 1505, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 15, 1994\].”
 
 #### Effective Date of 1993 Amendment
 
 Amendment by section 13733(a) of Pub. L. 103–66 effective on first day of second month that begins after Aug. 10, 1993, see section 13733(c) of Pub. L. 103–66, set out as a note under section 1382a of this title.
 
-Section 13734(b) of Pub. L. 103–66 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the 1st day of the 3rd month that begins after the date of the enactment of this Act \[Aug. 10, 1993\].”
+Pub. L. 103–66, title XIII, §13734(b), Aug. 10, 1993, 107 Stat. 662, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the 1st day of the 3rd month that begins after the date of the enactment of this Act \[Aug. 10, 1993\].”
 
-#### Effective Date of 1990 Amendments
+#### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–649 effective Oct. 1, 1991, and applicable beginning with fiscal year 1992, see section 161(a) of Pub. L. 101–649, set out as a note under section 1101 of Title 8, Aliens and Nationality.
 
-Section 5036(b) of Pub. L. 101–508 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to determinations made 6 or more months after the date of the enactment of this Act \[Nov. 5, 1990\].”
+Pub. L. 101–508, title V, §5036(b), Nov. 5, 1990, 104 Stat. 1388–226, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to determinations made 6 or more months after the date of the enactment of this Act \[Nov. 5, 1990\].”
 
 #### Effective Date of 1989 Amendment
 
@@ -366,13 +366,13 @@ Amendment by section 8009(b) of Pub. L. 101–239 applicable with respect to ben
 
 Amendment by section 8010(a) of Pub. L. 101–239 effective on 1st day of 6th calendar month beginning after Dec. 19, 1989, see section 8010(c) of Pub. L. 101–239, set out as a note under section 1382 of this title.
 
-Section 8012(b) of Pub. L. 101–239 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1990.”
+Pub. L. 101–239, title VIII, §8012(b), Dec. 19, 1989, 103 Stat. 2464, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1990.”
 
 #### Effective Date of 1986 Amendment
 
 Amendment by Pub. L. 99–643 effective July 1, 1987, except as otherwise provided, see section 10(b) of Pub. L. 99–643, set out as a note under section 1396a of this title.
 
-#### Effective Date of 1984 Amendments
+#### Effective Date of 1984 Amendment
 
 Amendment by section 2(c) of Pub. L. 98–460 applicable to determinations made by the Secretary on or after Oct. 9, 1984, with certain enumerated exceptions and qualifications, see section 2(d) of Pub. L. 98–460, set out as a note under section 423 of this title.
 
@@ -386,7 +386,7 @@ Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed a
 
 #### Effective Date of 1980 Amendment
 
-Section 203(b) of Pub. L. 96–265 provided that: “The amendment made by subsection (a) \[amending this section\] shall become effective on October 1, 1980; except that the amendment made by such subsection shall not apply, in the case of any child who, in September 1980, was 18 or over and received a supplemental security income benefit for such month, during any period for which such benefit would be greater without the application of such amendment.”
+Pub. L. 96–265, title II, §203(b), June 9, 1980, 94 Stat. 449, provided that: “The amendment made by subsection (a) \[amending this section\] shall become effective on October 1, 1980; except that the amendment made by such subsection shall not apply, in the case of any child who, in September 1980, was 18 or over and received a supplemental security income benefit for such month, during any period for which such benefit would be greater without the application of such amendment.”
 
 Amendment by section 302(a)(2) of Pub. L. 96–265 applicable with respect to expenses incurred on or after the first day of the sixth month which begins after June 9, 1980, see section 302(c) of Pub. L. 96–265, set out as a note under section 423 of this title.
 
@@ -396,7 +396,7 @@ Amendment by section 504(a) of Pub. L. 96–265 effective with respect to indivi
 
 #### Effective Date
 
-Section 301 of Pub. L. 92–603 provided that this section is effective Jan. 1, 1974.
+Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1465, provided that this section is effective Jan. 1, 1974.
 
 #### Regulations
 

@@ -52,7 +52,7 @@ Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to ce
 
 #### Effective Date of 1984 Amendment
 
-Section 711 of Pub. L. 98–511 provided that:
+Pub. L. 98–511, title VII, §711, Oct. 19, 1984, 98 Stat. 2408, provided that:
 
 “(a) Except as provided in subsection (b), this Act and the amendments made by this Act \[see Tables for classification\] shall take effect on the date of enactment of this Act \[Oct. 19, 1984\] or October 1, 1984, whichever occurs later.
 

@@ -28,9 +28,9 @@ Pub. L. 105–228, §1, Aug. 12, 1998, 112 Stat. 1516, provided that: “This Ac
 
 #### Short Title
 
-Section 1(a) of Pub. L. 104–127 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Federal Agriculture Improvement and Reform Act of 1996’.”
+Pub. L. 104–127, §1(a), Apr. 4, 1996, 110 Stat. 888, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Federal Agriculture Improvement and Reform Act of 1996’.”
 
 #### Severability
 
-Section 928 of Pub. L. 104–127 provided that: “If any provision of this Act \[see Short Title note above\] or the application thereof to any person or circumstance is held invalid, the invalidity shall not affect other provisions or applications of this Act that can be given effect without regard to the invalid provision or application, and to this end the provisions of this Act are severable.”
+Pub. L. 104–127, title IX, §928, Apr. 4, 1996, 110 Stat. 1197, provided that: “If any provision of this Act \[see Short Title note above\] or the application thereof to any person or circumstance is held invalid, the invalidity shall not affect other provisions or applications of this Act that can be given effect without regard to the invalid provision or application, and to this end the provisions of this Act are severable.”
 

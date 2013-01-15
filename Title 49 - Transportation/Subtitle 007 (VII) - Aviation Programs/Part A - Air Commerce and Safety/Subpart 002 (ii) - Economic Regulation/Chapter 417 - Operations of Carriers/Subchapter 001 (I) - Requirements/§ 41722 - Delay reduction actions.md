@@ -36,3 +36,25 @@ Transcript.—The Administrator shall ensure that a transcript of the meeting is
 
 Section applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as an Effective Date of 2003 Amendment note under section 106 of this title.
 
+#### Schedule Reduction
+
+Pub. L. 112–95, title IV, §413, Feb. 14, 2012, 126 Stat. 89, provided that:
+
+“(a)
+
+In General.—If the Administrator of the Federal Aviation Administration determines that—
+
+&emsp;“(1) the aircraft operations of air carriers during any hour at an airport exceed the hourly maximum departure and arrival rate established by the Administrator for such operations; and
+
+&emsp;“(2) the operations in excess of the maximum departure and arrival rate for such hour at such airportare likely to have a significant adverse effect on the safe and efficient use of navigable airspace,
+
+> the Administrator shall convene a meeting of such carriers to reduce pursuant to section 41722 of title 49, United States Code, on a voluntary basis, the number of such operations so as not to exceed the maximum departure and arrival rate.
+
+“(b)
+
+No Agreement.—If the air carriers participating in a meeting with respect to an airport under subsection (a) are not able to agree to a reduction in the number of flights to and from the airport so as not to exceed the maximum departure and arrival rate, the Administrator shall take such action as is necessary to ensure such reduction is implemented.
+
+“(c)
+
+Subsequent Schedule Increases.—Subsequent to any reduction in operations under subsection (a) or (b) at an airport, if the Administrator determines that the hourly number of aircraft operations at that airport is less than the amount that can be handled safely and efficiently, the Administrator shall ensure that priority is given to United States air carriers in permitting additional aircraft operations with respect to that hour.”
+

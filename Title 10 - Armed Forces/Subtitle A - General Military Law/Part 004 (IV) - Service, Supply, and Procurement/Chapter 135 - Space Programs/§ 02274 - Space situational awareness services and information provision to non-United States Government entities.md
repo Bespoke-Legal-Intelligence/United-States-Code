@@ -30,13 +30,13 @@ Agreement.—The Secretary may not provide space situational awareness services 
 
 (d)
 
-Charges.—(1) As a condition of an agreement under subsection (c), the Secretary may (except as provided in paragraph (2)) require the non-United States Government entity entering into the agreement to pay to the Department of Defense such amounts as the Secretary determines appropriate to reimburse the Department for the costs to the Department of providingspace situational awareness services or information under the agreement.
+Charges.—(1) As a condition of an agreement under subsection (c), the Secretary may (except as provided in paragraph (2)) require the non-United States Government entity entering into the agreement to pay to the Department of Defense such amounts as the Secretary determines appropriate to reimburse the Department for the costs to the Department of providing space situational awareness services or information under the agreement.
 
 (2) The Secretary may not require the government of a State, or of a political subdivision of a State, to pay any amount under paragraph (1).
 
 (e)
 
-Crediting of Funds Received.—(1) Funds received for the provision of space situational awareness services or information pursuant to an agreement under this section shall be credited, at the election of the Secretary, to the following:
+Crediting of Funds Received.—(1) Funds received for the provision of space situationalawareness services or information pursuant to an agreement under this section shall be credited, at the election of the Secretary, to the following:
 
 &emsp;(A) The appropriation, fund, or account used in incurring the obligation.
 
@@ -60,19 +60,7 @@ Notice of Concerns of Disclosure of Information.—If the Secretary determines t
 
 #### Prior Provisions
 
-Prior sections 2274 to 2279 were repealed by Pub. L. 103–160, div. A, title VIII, §821(a)(1), Nov. 30, 1993, 107 Stat. 1704.
-
-Section 2274, act Aug. 10, 1956, ch. 1041, 70A Stat. 126, related to procurement for experimental purposes.
-
-Section 2275, act Aug. 10, 1956, ch. 1041, 70A Stat. 126, related to award of contracts and review of decisions.
-
-Section 2276, acts Aug. 10, 1956, ch. 1041, 70A Stat. 126; Sept. 7, 1962, Pub. L. 87–651, title I, §131, 76 Stat. 514, related to inspection and audit of plants and books of contractors and provided criminal penalties for violations.
-
-Section 2277, act Aug. 10, 1956, ch. 1041, 70A Stat. 127, related to availability of appropriations.
-
-Section 2278, act Aug. 10, 1956, ch. 1041, 70A Stat. 127, related to purchases of sample aircraft.
-
-Section 2279, act Aug. 10, 1956, ch. 1041, 70A Stat. 127, related to restrictions on alien employees of contractors as to access to plans and specifications.
+A prior section 2274, act Aug. 10, 1956, ch. 1041, 70A Stat. 126, which related to procurement for experimental purposes, was repealed by Pub. L. 103–160, div. A, title VIII, §821(a)(1), Nov. 30, 1993, 107 Stat. 1704.
 
 #### Amendments
 

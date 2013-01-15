@@ -6,11 +6,11 @@ As used in this chapter, except as otherwise specified, the following terms shal
 
 (b) The term “firm” means any partnership, association, or other unincorporated business organization.
 
-(c) The term “meat broker” means any person, firm, or corporation engaged in the business of buying or selling carcasses, parts of carcasses, meat, or meat food products of cattle, sheep, swine, goats, horses, mules, or other equines on commission, or otherwise negotiating purchases or sales of such articles other than for his own account or as an employee of another person, firm, or corporation.
+(c) The term “meat broker” means any person, firm, or corporation engaged in the businessof buying or selling carcasses, parts of carcasses, meat, or meat food products of cattle, sheep, swine, goats, horses, mules, or other equines on commission, or otherwise negotiating purchases or sales of such articles other than for his own account or as an employee of another person, firm, or corporation.
 
 (d) The term “renderer” means any person, firm, or corporation engaged in the business of rendering carcasses or parts or products of the carcasses, of cattle, sheep, swine, goats, horses, mules, or other equines, except rendering conducted under inspection or exemption under this subchapter.
 
-(e) The term “animal food manufacturer” means any person, firm, or corporation engagedin the business of manufacturing or processing animal food derived wholly or in part from carcasses, or parts or products of the carcasses, of cattle, sheep, swine, goats, horses, mules, or other equines.
+(e) The term “animal food manufacturer” means any person, firm, or corporation engaged in the business of manufacturing or processing animal food derived wholly or in part from carcasses, or parts or products of the carcasses, of cattle, sheep, swine, goats, horses, mules, or other equines.
 
 (f) The term “State” means any State of the United States and the Commonwealth of Puerto Rico.
 
@@ -24,7 +24,7 @@ As used in this chapter, except as otherwise specified, the following terms shal
 
 (k) The term “capable of use as human food” shall apply to any carcass, or part or product of a carcass, of any animal, unless it is denatured or otherwise identified as required by regulations prescribed by the Secretary to deter its use as human food, or it is naturally inedible by humans.
 
-(<i>l</i>) The term “prepared” means slaughtered, canned, salted, rendered, boned, cut up, or otherwise manufactured or processed.
+(l) The term “prepared” means slaughtered, canned, salted, rendered, boned, cut up, or otherwise manufactured or processed.
 
 (m) The term “adulterated” shall apply to any carcass, part thereof, meat or meat food product under one or more of the following circumstances:
 
@@ -62,7 +62,7 @@ As used in this chapter, except as otherwise specified, the following terms shal
 
 &emsp;(4) if its container is so made, formed, or filled as to be misleading;
 
-&emsp;(5) if in a package or other container unless it bears a label showing (A) the name and place of business of the manufacturer, packer, or distributor; and (B) an accurate statement of the quantity of the contents in terms of weight, measure, or numerical count: <i>Provided</i>,That under clause (B) of this subparagraph (5), reasonable variations may be permitted, and exemptions as to small packages may be established, by regulations prescribed by the Secretary;
+&emsp;(5) if in a package or other container unless it bears a label showing (A) the name and place of business of the manufacturer, packer, or distributor; and (B) an accurate statement of the quantity of the contents in terms of weight, measure, or numerical count: <i>Provided</i>, That under clause (B) of this subparagraph (5), reasonable variations may be permitted, and exemptions as to small packages may be established, by regulations prescribed by the Secretary;
 
 &emsp;(6) if any word, statement, or other information required by or under authority of this chapter to appear on the label or other labeling is not prominently placed thereon with such conspicuousness (as compared with other words, statements, designs, or devices, in the labeling) and in such terms as to render it likely to be read and understood by the ordinary individual under customary conditions of purchase and use;
 
@@ -78,7 +78,7 @@ As used in this chapter, except as otherwise specified, the following terms shal
 
 &emsp;(12) if it fails to bear, directly thereon or on its container, as the Secretary may by regulations prescribe, the inspection legend and, unrestricted by any of the foregoing, such other information as the Secretary may require in such regulations to assure that it will not have false or misleading labeling and that the public will be informed of the manner of handling required to maintain the article in a wholesome condition.
 
-(<i>o</i>) The term “label” means a display of written, printed, or graphic matter upon the immediate container (not including package liners) of any article.
+(o) The term “label” means a display of written, printed, or graphic matter upon the immediate container (not including package liners) of any article.
 
 (p) The term “labeling” means all labels and other written, printed, or graphic matter (1) upon any article or any of its containers or wrappers, or (2) accompanying such article.
 
@@ -102,7 +102,7 @@ As used in this chapter, except as otherwise specified, the following terms shal
 
 &emsp;(3) any additional species of livestock that the Secretary considers appropriate.
 
-(Mar. 4, 1907, ch. 2907, title I, §1, as added Pub. L. 90–201, §2, Dec. 15, 1967, 81 Stat. 584; amended Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 102–571, title I, §107(14), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 109–97, title VII, §798\[(a)\](2), Nov. 10, 2005, 119 Stat. 2166; Pub. L. 110–234, title XI, §11016(b)(1)(A), May 22, 2008, 122 Stat. 1369; Pub. L. 110–246, §4(a), title XI, §11016(b)(1)(A), June 18, 2008, 122 Stat. 1664, 2130.)
+(Mar. 4, 1907, ch. 2907, title I, §1, as added Pub. L. 90–201, §2, Dec. 15, 1967, 81 Stat. 584; amended Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93Stat. 695; Pub. L. 102–571, title I, §107(14), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 109–97, title VII, §798\[(a)\](2), Nov. 10, 2005, 119 Stat. 2166; Pub. L. 110–234, title XI, §11016(b)(1)(A), May 22, 2008, 122 Stat. 1369; Pub. L. 110–246, §4(a), title XI, §11016(b)(1)(A), June 18, 2008, 122 Stat. 1664, 2130.)
 
 #### References in Text
 
@@ -110,7 +110,7 @@ The Federal Food, Drug, and Cosmetic Act, referred to in pars. (q) and (r), is a
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 
@@ -138,7 +138,7 @@ Pub. L. 109–97, title VII, §798(b), Nov. 10, 2005, 119 Stat. 2166, provided t
 
 #### Effective Date
 
-Section 20 of Pub. L. 90–201 provided that: “This Act \[see Short Title note below\] shall become effective upon enactment \[Dec. 15, 1967\] except as provided in paragraphs (a) through (d):
+Pub. L. 90–201, §20, Dec. 15, 1967, 81 Stat. 601, provided that: “This Act \[see Short Title note below\] shall become effective upon enactment \[Dec. 15, 1967\] except as provided in paragraphs (a) through (d):
 
 “(a) The provisions of paragraph (b)(1) and (c) of section 10 and the provisions of section 20 of the Federal Meat Inspection Act, as amended by sections 7 and 10 of this Act \[sections 610 and 620 of this title\], and the provisions of section 18 of this Act repealing paragraph (b) of section 306 of the Tariff Act of 1930 \[section 1306(b) of Title 19, Customs Duties\], shall become effective upon the expiration of sixty days after enactment \[Dec. 15, 1967\], hereof.
 
@@ -158,9 +158,9 @@ Pub. L. 95–445, §1, Oct. 10, 1978, 92 Stat. 1069, provided: “That this Act 
 
 #### Short Title
 
-Section 1 of Pub. L. 90–201 provided in part: “That this Act \[enacting this section and sections 602, 624, 641 to 645, 661, 671 to 680, and 691 of this title, amending sections 603 to 623 of this title, repealing section 96 of this title and section 1306(b) of Title 19, Customs Duties, and enacting provisions set out as notes under this section\] may be cited as the ‘Wholesome Meat Act’.”
+Pub. L. 90–201, §1, Dec. 15, 1967, 81 Stat. 584, provided in part: “That this Act \[enacting this section and sections 602, 624, 641 to 645, 661, 671 to 680, and 691 of this title, amending sections 603 to 623 of this title, repealing section 96 of this title and section 1306(b) of Title 19, Customs Duties, and enacting provisions set out as notes under this section\] may be cited as the ‘Wholesome Meat Act’.”
 
-Section 1 of Pub. L. 90–201 provided in part that the provisions of act Mar. 4, 1907, as amended, classified to subchapters I to IV–A of this chapter, are designated as the “Federal Meat Inspection Act”.
+Pub. L. 90–201, §1, Dec. 15, 1967, 81 Stat. 584, provided in part that the provisions of act Mar. 4, 1907, as amended, classified to subchapters I to IV–A of this chapter, are designated as the “Federal Meat Inspection Act”.
 
 #### Regulations
 
@@ -170,5 +170,5 @@ Pub. L. 110–234, title XI, §11016(b)(2)(B), May 22, 2008, 122 Stat. 1370, and
 
 #### Separability
 
-Section 19 of Pub. L. 90–201 provided that: “If any provision of this Act or of the amendments made hereby \[see Short Title note above\] or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the Act and the remaining amendments \[see Short Title note above\] and of the application of such provision to other persons and circumstances shall not be affected thereby.”
+Pub. L. 90–201, §19, Dec. 15, 1967, 81 Stat. 601, provided that: “If any provision of this Act or of the amendments made hereby \[see Short Title note above\] or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the Act and the remaining amendments \[see Short Title note above\] and of the application of such provision to other persons and circumstances shall not be affected thereby.”
 

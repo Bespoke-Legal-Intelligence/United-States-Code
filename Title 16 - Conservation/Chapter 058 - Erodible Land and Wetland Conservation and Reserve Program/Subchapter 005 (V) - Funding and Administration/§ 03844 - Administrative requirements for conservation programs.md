@@ -50,7 +50,7 @@
 
 #### (A) Release and disclosure for enforcement
 
-&emsp;&emsp;The Secretary may release or disclose to the Attorney General information coveredby paragraph (1) to the extent necessary to enforce the natural resources conservation programs referred to in paragraph (1)(B)(i).
+&emsp;&emsp;The Secretary may release or disclose to the Attorney General information covered by paragraph (1) to the extent necessary to enforce the natural resources conservation programs referred to in paragraph (1)(B)(i).
 
 #### (B) Disclosure to cooperating persons and agencies
 
@@ -144,7 +144,7 @@ In the preparation and application of a conservation compliance plan under subch
 
 #### (4) Shelterbelts and windbreaks
 
-&emsp;The limitations established under paragraph (1) shall not apply to cropland that is subjectto an easement under subpart C of part I of subchapter IV <sup>2</sup> that is used for the establishment of shelterbelts and windbreaks.
+&emsp;The limitations established under paragraph (1) shall not apply to cropland that is subject to an easement under subpart C of part I of subchapter IV <sup>2</sup> that is used for the establishment of shelterbelts and windbreaks.
 
 #### (g) Compliance and performance
 
@@ -172,7 +172,7 @@ In carrying out any conservation program administered by the Secretary, the Secr
 
 #### (1) In general
 
-&emsp;In carrying out each conservation program under this chapter, the Secretary shall ensure that the application process used by producers and landowners is streamlined to minimize complexity and eliminate redundancy.
+&emsp;In carrying out each conservation program under this chapter, the Secretary shall ensurethat the application process used by producers and landowners is streamlined to minimize complexity and eliminate redundancy.
 
 #### (2) Review and streamlining
 

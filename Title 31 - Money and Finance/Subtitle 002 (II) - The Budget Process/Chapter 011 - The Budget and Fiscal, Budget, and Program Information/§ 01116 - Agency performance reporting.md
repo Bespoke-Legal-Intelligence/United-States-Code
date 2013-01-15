@@ -80,5 +80,21 @@ Section 9703, referred to in subsec. (c)(4), probably means the section 9703 add
 
 A prior section 1116, added Pub. L. 103–62, §4(b), Aug. 3, 1993, 107 Stat. 288; amended Pub. L. 106–531, §5(a)(1), (b), Nov. 22, 2000, 114 Stat. 2539; Pub. L. 107–296, title XIII, §1311(b), Nov. 25, 2002, 116 Stat. 2290, related to program performance reports, prior to repeal by Pub. L. 111–352, §4, Jan. 4, 2011, 124 Stat. 3871.
 
+#### Merit Systems Protection Board
+
+Pub. L. 112–199, title I, §116(b), Nov. 27, 2012, 126 Stat. 1474, provided that:
+
+“(1)
+
+In general.—Each report submitted annually by the Merit Systems Protection Board under section 1116 of title 31, United States Code, shall, with respect to the period covered by such report, include as an addendum the following:
+
+&emsp;“(A) Information relating to the outcome of cases decided by the Merit Systems Protection Board during the period covered by such report in which violations of section 2302(b)(8) or (9)(A)(i), (B)(i), (C), or (D) of title 5, United States Code, were alleged.
+
+&emsp;“(B) The number of such cases filed in the regional and field offices, and the number of petitions for review filed in such cases, during the period covered by such report, and the outcomes of any such cases or petitions for review (irrespective of when filed) decided during such period.
+
+“(2)
+
+First report.—The first report described under paragraph (1) submitted after the date of enactment of this Act \[Nov. 27, 2012\] shall include an addendum required under that paragraph that covers the period beginning on the effective date of this Act \[see Effective Date of 2012 Amendment note set out under section 1204 of Title 5, Government Organization and Employees\] and ending at the end of the fiscal year in which such effective date occurs.”
+
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

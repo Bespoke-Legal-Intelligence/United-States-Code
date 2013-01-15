@@ -36,10 +36,13 @@
 | [667\.](%C2%A7%2000667%20-%20Theft%20of%20livestock.md) | Theft of livestock. |
 | [668\.](%C2%A7%2000668%20-%20Theft%20of%20major%20artwork.md) | Theft of major artwork. |
 | [669\.](%C2%A7%2000669%20-%20Theft%20or%20embezzlement%20in%20connection%20with%20health%20care.md) | Theft or embezzlement in connection with health care. |
+| [670\.](%C2%A7%2000670%20-%20Theft%20of%20medical%20products.md) | Theft of medical products. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2012</b>—Pub. L. 112–186, §2(b), Oct. 5, 2012, 126 Stat. 1428, added item 670.
 
 <b>1996</b>—Pub. L. 104–294, title VI, §601(f)(7), Oct. 11, 1996, 110 Stat. 3500, inserted comma after “embezzlement” in item 656.
 
@@ -59,7 +62,7 @@ Pub. L. 104–191, title II, §243(b), Aug. 21, 1996, 110 Stat. 2017, added item
 
 #### Saint Lawrence Seaway Development Corporation
 
-Application of general penal statutes relating to larceny, embezzlement, or conversion of public moneys or property of the United States, to moneys and property of Saint Lawrence Seaway Development Corporation, see section 990 of Title 33, Navigation and Navigable Waters.
+Application of general penal statutes relating to larceny, embezzlement, or conversion of public moneys orproperty of the United States, to moneys and property of Saint Lawrence Seaway Development Corporation, see section 990 of Title 33, Navigation and Navigable Waters.
 
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
@@ -97,3 +100,4 @@ Application of general penal statutes relating to larceny, embezzlement, or conv
 - [&sect; 00667 - Theft of livestock](%C2%A7%2000667%20-%20Theft%20of%20livestock.md)
 - [&sect; 00668 - Theft of major artwork](%C2%A7%2000668%20-%20Theft%20of%20major%20artwork.md)
 - [&sect; 00669 - Theft or embezzlement in connection with health care](%C2%A7%2000669%20-%20Theft%20or%20embezzlement%20in%20connection%20with%20health%20care.md)
+- [&sect; 00670 - Theft of medical products](%C2%A7%2000670%20-%20Theft%20of%20medical%20products.md)

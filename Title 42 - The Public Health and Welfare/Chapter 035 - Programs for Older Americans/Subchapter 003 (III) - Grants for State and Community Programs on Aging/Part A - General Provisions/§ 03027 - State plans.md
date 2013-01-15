@@ -6,7 +6,7 @@ Except as provided in the succeeding sentence and section 3029(a) of this title,
 
 &emsp;(1) The plan shall—
 
-&emsp;&emsp;(A) require each area agency on aging designated under section 3025(a)(2)(A) of this title to develop and submit to the State agency for approval, in accordance with auniform format developed by the State agency, an area plan meeting the requirements of section 3026 of this title; and
+&emsp;&emsp;(A) require each area agency on aging designated under section 3025(a)(2)(A) of this title to develop and submit to the State agency for approval, in accordance with a uniform format developed by the State agency, an area plan meeting the requirements of section 3026 of this title; and
 
 &emsp;&emsp;(B) be based on such area plans.
 
@@ -64,7 +64,7 @@ Except as provided in the succeeding sentence and section 3029(a) of this title,
 
 &emsp;(C) The plan may specify that an area agency on aging is allowed to directly provide information and assistance services and outreach.
 
-&emsp;(9) The plan shall provide assurances that the State agency will carry out, through theOffice of the State Long-Term Care Ombudsman, a State Long-Term Care Ombudsman program in accordance with section 3058g of this title and this subchapter, and will expend for such purpose an amount that is not less than an amount expended by the State agency with funds received under this subchapter for fiscal year 2000, and an amount that is not less than the amount expended by the State agency with funds received under subchapter XI of this chapter for fiscal year 2000.
+&emsp;(9) The plan shall provide assurances that the State agency will carry out, through the Office of the State Long-Term Care Ombudsman, a State Long-Term Care Ombudsman program in accordance with section 3058g of this title and this subchapter, and will expend for such purpose an amount that is not less than an amount expended by the State agency with funds received under this subchapter for fiscal year 2000, and an amount that is not less than the amount expended by the State agency with funds received under subchapter XI of this chapter for fiscal year 2000.
 
 &emsp;(10) The plan shall provide assurances that the special needs of older individuals residing in rural areas will be taken into consideration and shall describe how those needs have been met and describe how funds have been allocated to meet those needs.
 
@@ -104,7 +104,7 @@ Except as provided in the succeeding sentence and section 3029(a) of this title,
 
 &emsp;&emsp;(B) describe the methods used to satisfy the service needs of the low-income minority older individuals described in subparagraph (A), including the plan to meet the needs of low-income minority older individuals with limited English proficiency.
 
-&emsp;(15) The plan shall provide assurances that, if a substantial number of the older individuals residing in any planning and service area in the State are of limited English-speakingability, then the State will require the area agency on aging for each such planning and service area—
+&emsp;(15) The plan shall provide assurances that, if a substantial number of the older individuals residing in any planning and service area in the State are of limited English-speaking ability, then the State will require the area agency on aging for each such planning and service area—
 
 &emsp;&emsp;(A) to utilize, in the delivery of outreach services under section 3026(a)(2)(A) of this title, the services of workers who are fluent in the language spoken by a predominant number of such older individuals who are of limited English-speaking ability; and
 
@@ -164,7 +164,7 @@ Except as provided in the succeeding sentence and section 3029(a) of this title,
 
 &emsp;(25) The plan shall include assurances that the State has in effect a mechanism to provide for quality in the provision of in-home services under this subchapter.
 
-&emsp;(26) The plan shall provide assurances that funds received under this subchapter will notbe used to pay any part of a cost (including an administrative cost) incurred by the State agency or an area agency on aging to carry out a contract or commercial relationship that is not carried out to implement this subchapter.
+&emsp;(26) The plan shall provide assurances that funds received under this subchapter will not be used to pay any part of a cost (including an administrative cost) incurred by the State agency or an area agency on aging to carry out a contract or commercial relationship that is not carried out to implement this subchapter.
 
 &emsp;(27) The plan shall provide assurances that area agencies on aging will provide, to the extent feasible, for the furnishing of services under this chapter, consistent with self-directed care.
 
@@ -176,7 +176,7 @@ Except as provided in the succeeding sentence and section 3029(a) of this title,
 
 &emsp;&emsp;(ii) an analysis of how such change may affect such individuals, including individuals with low incomes, individuals with greatest economic need, minority older individuals, older individuals residing in rural areas, and older individuals with limited English proficiency;
 
-&emsp;&emsp;(iii) an analysis of how the programs, policies, and services provided by the State can be improved, including coordinating with area agencies on aging, and how resource levels can be adjusted to meet the needs of the changing population of older individuals in the State; and
+&emsp;&emsp;(iii) an analysis of how the programs, policies, and services provided by the State canbe improved, including coordinating with area agencies on aging, and how resource levels can be adjusted to meet the needs of the changing population of older individuals in the State; and
 
 &emsp;&emsp;(iv) an analysis of how the change in the number of individuals age 85 and older in the State is expected to affect the need for supportive services.
 
@@ -256,7 +256,7 @@ Subsec. (a)(27) to (30). Pub. L. 109–365, §307(7), added pars. (27) to (30).
 
 <b>2000</b>—Subsec. (a)(1) to (5). Pub. L. 106–501, §306(1), added pars. (1) to (5) and struck out former pars. (1) to (5) which required each State plan to: in par. (1), contain assurances that the State plan would be based on area plans and that the State would distribute a uniform format for developing area plans, in par. (2), provide that each area agency on aging develop an area plan for approval by the State agency, in par. (3), provide that the State agency would evaluate the need for supportive services, nutrition services, and multipurpose senior centers within the State and spend not less than 105 percent of fiscal year 1978 expenditures for services to older individuals residing in rural areas in the State, in par. (4), provide methods of administration of the plan and any necessary reorganization and reassignment of functions to assure efficient administration, and, in par. (5), provide that the State agency would conduct hearings upon request by an area agency on aging submitting a plan, a service provider under a plan, or an applicant to provide service under a plan.
 
-Subsec. (a)(7)(C). Pub. L. 106–501, §306(2), struck out subpar. (C) which required the plan to provide assurances that the State agency and each area agency on aging would maintain the integrity and public purposeof services provided and service providers under the State plan in all contractual and commercial relationships, disclose the parties to and the nature of a contract or relationship relating to services to older individuals, demonstrate no loss or diminution in quantity or quality of services as a result of such contract or relationship, demonstrate enhancement of quantity and quality of services as a result of such contract or relationship, and disclose on request all sources and expenditures of funds the State agency and area agency on aging received or expended to provide services to older individuals.
+Subsec. (a)(7)(C). Pub. L. 106–501, §306(2), struck out subpar. (C) which required the plan to provide assurances that the State agency and each area agency on aging would maintain the integrity and public purpose of services provided and service providers under the State plan in all contractual and commercial relationships, disclose the parties to and the nature of a contract or relationship relating to services to older individuals, demonstrate no loss or diminution in quantity or quality of services as a result of such contract or relationship, demonstrate enhancement of quantity and quality of services as a result of such contract or relationship, and disclose on request all sources and expenditures of funds the State agency and area agency on aging received or expended to provide services to older individuals.
 
 Subsec. (a)(8), (9). Pub. L. 106–501, §306(3), added pars. (8) and (9) and struck out former pars. (8) and (9) which read as follows:
 
@@ -442,7 +442,7 @@ Subsec. (a)(21). Pub. L. 102–375, §307(k), amended par. (21) generally. Prior
 
 Subsec. (a)(22). Pub. L. 102–375, §102(b)(10)(E), substituted “area agency on aging” for “area agency” in two places.
 
-Subsec. (a)(24). Pub. L. 102–375, §307(<i>l</i>), amended par. (24) generally. Prior to amendment, par. (24) read as follows: “The plan shall provide assurances that the State agency will require outreach efforts that will—
+Subsec. (a)(24). Pub. L. 102–375, §307(l), amended par. (24) generally. Prior to amendment, par. (24) read as follows: “The plan shall provide assurances that the State agency will require outreach efforts that will—
 
 &emsp;“(A) identify older individuals who are eligible for assistance under this subchapter, with special emphasis on older individuals with greatest economic need (with particular attention to low-income minority individuals), older individuals with greatest social need (with particular attention to low-income minority individuals), and older individuals who reside in rural areas; and
 
@@ -454,7 +454,7 @@ Subsec. (a)(31). Pub. L. 102–375, §307(n), amended par. (31) generally, subst
 
 Subsec. (a)(32) to (44). Pub. L. 102–375, §307(n), added pars. (32) to (44).
 
-Subsec. (b)(1). Pub. L. 102–375, §307(<i>o</i>), inserted before period at end “, except the Commissioner may not approve such plan unless the Commissioner determines that the formula submitted under section 3025(a)(2)(D) of this title complies with the guidelines in effect under section 3025(a)(2)(C) of this title”.
+Subsec. (b)(1). Pub. L. 102–375, §307(o), inserted before period at end “, except the Commissioner may not approve such plan unless the Commissioner determines that the formula submitted under section 3025(a)(2)(D) of this title complies with the guidelines in effect under section 3025(a)(2)(C) of this title”.
 
 Subsec. (b)(2). Pub. L. 102–375, §904(a)(13)(B), substituted “described in paragraph” for “described in clause”.
 
@@ -580,7 +580,7 @@ Subsec. (a)(3)(A), (10). Pub. L. 97–115, §3(d), substituted “supportive ser
 
 Subsec. (a)(13)(A). Pub. L. 97–115, §7(b), substituted “aged 60 or older and to their spouses, and may be made available to handicapped or disabled individuals who have not attained 60 years of age but who reside in housing facilities occupied primarily by the elderly at which congregate nutrition services are provided” for “aged 60 or older, and to their spouses”.
 
-Subsec. (a)(13)(B). Pub. L. 97–115, §7(c), substituted “primary consideration shall be given to the provision of meals in a congregate setting, except that each area agency (i) may award funds made available under this subchapter to organizations for the provision of home delivered meals to older individuals in accordance with the provisions of subpart II of part C, based upon a determination of need made by the recipient of a grant or contract entered into under this subchapter, without requiring that such organizations also provide meals to older individuals in a congregate setting; and (ii) shall, in awarding such funds, select such organizations in a manner which complies with the provisions of subparagraph (H)” for “each project will provide meals in a congregate setting, except that each such project mayprovide home delivered meals based upon a determination of need made by the recipient of a grant or contract entered into under this subchapter”.
+Subsec. (a)(13)(B). Pub. L. 97–115, §7(c), substituted “primary consideration shall be given to the provision of meals in a congregate setting, except that each area agency (i) may award funds made available under this subchapter to organizations for the provision of home delivered meals to older individuals in accordance with the provisions of subpart II of part C, based upon a determination of need made by the recipient of a grant or contract entered into under this subchapter, without requiring that such organizations also provide meals to older individuals in a congregate setting; and (ii) shall, in awarding such funds, select such organizations in a manner which complies with the provisions of subparagraph (H)” for “each project will provide meals in a congregate setting, except that each such project may provide home delivered meals based upon a determination of need made by the recipient of a grant or contract entered into under this subchapter”.
 
 Subsec. (a)(13)(C)(ii). Pub. L. 97–115, §7(d), inserted “, to facilitate access to such meals, and to provide other supportive services directly related to nutrition services” after “the project involved”.
 
@@ -608,11 +608,11 @@ Amendment by Pub. L. 98–459 effective Oct. 9, 1984, see section 803(a) of Pub.
 
 #### Assessment of Unsatisfied Demand for Supportive Services Provided at Senior Centers and Other Sites
 
-Section 111 of Pub. L. 100–175 directed Commissioner on Aging, not later than Sept. 30, 1989, to submit to Congress a report assessing national unmet need for supportive services, nutrition services, and multipurpose senior centers by summarizing in detail for each State the results of the most recent evaluation conducted by the State agency under the then current plan submitted under 42 U.S.C. 3027(a)(3)(A) and containing recommendations of the Secretary with respect to need for administrative action and legislation relating to satisfying the demand for supportive services provided at senior centers and other sites.
+Pub. L. 100–175, title I, §111, Nov. 29, 1987, 101 Stat. 932, directed Commissioner on Aging, not later than Sept. 30, 1989, to submit to Congress a report assessing national unmet need for supportive services, nutrition services, and multipurpose senior centers by summarizing in detail for each State the results of the most recent evaluation conducted by the State agency under the then current plan submitted under 42 U.S.C. 3027(a)(3)(A) and containing recommendations of the Secretary with respect to need for administrative action and legislation relating to satisfying the demand for supportive services provided at senior centers and other sites.
 
 #### Study of Ombudsman Program
 
-Section 129(b) of Pub. L. 100–175 directed Commissioner on Aging, not later than Dec. 31, 1989, to conduct a study and submit a report to Congress concerning involvement in the ombudsman program established under 42 U.S.C. 3027(a)(12) and its impact upon issues and problems affecting residents of board and care facilities and other similar adult care homes who are older individuals as defined in 42 U.S.C. 3022(10), and the effectiveness of recruiting, supervising, and retaining volunteer ombudsmen.
+Pub. L. 100–175, title I, §129(b), Nov. 29, 1987, 101 Stat. 934, directed Commissioner on Aging, not later than Dec. 31, 1989, to conduct a study and submit a report to Congress concerning involvement in the ombudsman program established under 42 U.S.C. 3027(a)(12) and its impact upon issues and problems affecting residents of board and care facilities and other similar adult care homes who are older individuals as defined in 42 U.S.C. 3022(10), and the effectiveness of recruiting, supervising, and retaining volunteer ombudsmen.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

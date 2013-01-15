@@ -12,7 +12,7 @@ As used in this chapter, the term—
 
 &emsp;(5) “Convention” means the Convention for the Conservation of Anadromous Stocks of the North Pacific Ocean, signed in Moscow, February 11, 1992.
 
-&emsp;(6) “Convention area” means the waters of the North Pacific Ocean and its adjacent seas, north of 33 degrees North Latitude,<sup>1</sup> beyond 200 nautical miles from the baselines from which the breadth of the territorial sea is measured.
+&emsp;(6) “Convention area” means the waters of the North Pacific Ocean and its adjacent seas, north of 33 degrees North Latitude,<sup>1</sup> beyond200 nautical miles from the baselines from which the breadth of the territorial sea is measured.
 
 &emsp;(7) “Directed fishing” means fishing targeted at a particular species or stock of fish.
 

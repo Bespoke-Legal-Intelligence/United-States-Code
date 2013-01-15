@@ -1,6 +1,6 @@
 ### §430s. Authorization of appropriations
 
-There are hereby authorized to be appropriated such sums as may be necessary, but not more than $3,525,000 for the acquisition of lands and interests in lands, and not to exceed $500,000 for the development of essential public facilities. Within three years from October 21, 1976, the Secretary shall develop and transmit to the Committees on Interior and Insular Affairs of the United States Congress a final master plan for the full development of the battlefield consistent with the preservation objectives of sections 430j to 430m and 430<i>o</i> to 430s of this title, indicating:
+There are hereby authorized to be appropriated such sums as may be necessary, but not more than $3,525,000 for the acquisition of lands and interests in lands, and not to exceed $500,000 for the development of essential public facilities. Within three years from October 21, 1976, the Secretary shall develop and transmit to the Committees on Interior and Insular Affairs of the United States Congress a final master plan for the full development of the battlefield consistent with the preservation objectives of sections 430j to 430m and 430o to 430s of this title, indicating:
 
 &emsp;(1) the facilities needed to accommodate the health, safety, and interpretive needs of the visiting public;
 
@@ -14,7 +14,7 @@ There are hereby authorized to be appropriated such sums as may be necessary, bu
 
 #### Amendments
 
-<b>1976</b>—Pub. L. 94–578 substituting provisions authorizing appropriations of not more than $3,525,000 for the acquisition of lands and interests in lands, and not to exceed $500,000 for development of essential public facilities for provisions which authorized appropriation of $50,000 to carry out sections 430j to 430m and 430<i>o</i> to 430s of this title and inserted provisions for development and transmittal within three years from Oct. 21, 1976, of a final master plan for full development of the battlefield.
+<b>1976</b>—Pub. L. 94–578 substituting provisions authorizing appropriations of not more than $3,525,000 for the acquisition of lands and interests in lands, and not to exceed $500,000 for development of essential public facilities for provisions which authorized appropriation of $50,000 to carry out sections 430j to 430m and 430o to 430s of this title and inserted provisions for development and transmittal within three years from Oct. 21, 1976, of a final master plan for full development of the battlefield.
 
 #### Change of Name
 

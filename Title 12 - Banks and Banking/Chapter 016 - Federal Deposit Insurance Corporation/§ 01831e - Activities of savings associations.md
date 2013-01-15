@@ -44,35 +44,21 @@ Notwithstanding subsection (a)(1) of this section, if an activity (other than an
 
 &emsp;&emsp;With respect to any equity investment held by any savings association on May 1, 1989, the savings association shall be deemed not to be in violation of the prohibition in paragraph (1) or (2) on retaining such investment so long as the savings association complies with any applicable requirement established by the Corporation pursuant to subparagraph (A) for divesting such investments.
 
-#### (d) Corporate debt securities not of investment grade
+#### (d) Corporate debt securities
 
 #### (1) In general
 
-&emsp;No savings association may, directly or through a subsidiary, acquire or retain any corporate debt security not of investment grade.
+&emsp;No savings association may, directly or through a subsidiary, acquire or retain any corporate debt security that does not meet standards of credit-worthiness as established by the Corporation.
 
 #### (2) Exception for securities held by qualified affiliate
 
-&emsp;Paragraph (1) shall not apply with respect to any corporate debt security not of investment grade which is acquired and retained by any qualified affiliate of a savings association.
+&emsp;Paragraph (1) shall not apply with respect to any corporate debt security which is acquired and retained by any qualified affiliate of a savings association.
 
-#### (3) Transition rule
-
-#### (A) In general
-
-&emsp;&emsp;The Corporation shall require any savings association or any subsidiary of any savings association to divest any corporate debt security not of investment grade the retention of which is not permissible under paragraph (1) as quickly as can be prudently done, and in any event not later than July 1, 1994.
-
-#### (B) Treatment of noncompliance during divestment
-
-&emsp;&emsp;With respect to any corporate debt security not of investment grade held by any savings association or subsidiary on August 9, 1989, the savings association or subsidiary shall be deemed not to be in violation of the prohibition in paragraph (1) on retaining such investment so long as the association or subsidiary complies with any applicable requirement established by the Corporation pursuant to subparagraph (A) for divesting such securities.
-
-#### (4) Definitions
+#### (3) Definitions
 
 &emsp;For purposes of this section—
 
-#### (A) Investment grade
-
-&emsp;&emsp;Any corporate debt security is not of “investment grade” unless that security, when acquired by the savings association or subsidiary, was rated in one of the 4 highest rating categories by at least one nationally recognized statistical rating organization.
-
-#### (B) Qualified affiliate
+#### (A) Qualified affiliate
 
 &emsp;&emsp;The term “qualified affiliate” means—
 
@@ -80,15 +66,15 @@ Notwithstanding subsection (a)(1) of this section, if an activity (other than an
 
 &emsp;&emsp;&emsp;(ii) in the case of a mutual savings association, a subsidiary other than an insured depository institution, so long as all of the savings association's investments in and extensions of credit to the subsidiary are deducted from the savings association's capital.
 
-#### (C) Certain securities not included
+#### (B) Certain securities not included
 
-&emsp;&emsp;The term “corporate debt security not of investment grade” does not include any obligation issued or guaranteed by a corporation that may be held by a Federal savings association without limitation as to percentage of assets under subparagraph (D), (E), or (F) of section 1464(c)(1) of this title.
+&emsp;&emsp;The term “corporate debt security that does not meet standards of credit-worthiness as established by the Corporation” does not include any obligation issued or guaranteed by a corporation that may be held by a Federal savings association without limitation as to percentage of assets under subparagraph (D), (E), or (F) of section 1464(c)(1) of this title.
 
-#### (e) Transfer of corporate debt security not of investment grade in exchange for a qualified note
+#### (e) Transfer of corporate debt security in exchange for a qualified note
 
 #### (1) Acquisition of note
 
-&emsp;Notwithstanding subsections (a), (b), and (c) of section 1464 <sup>1</sup> of this title and any other provision of Federal or State law governing extensions of credit by savings associations, any insured savings association, and any subsidiary of any insured savings association, that, on August 9, 1989, holds any corporate debt security not of investment grade may acquire a qualified note in exchange for the transfer of such security to—
+&emsp;Notwithstanding subsections (a), (b), and (c) of section 1464 <sup>1</sup> of this title and any other provision of Federal or State law governing extensions of credit by savings associations, any insured savings association, and any subsidiary of any insured savings association, that, on August 9, 1989, holds any corporate debt security that does not meet standards of credit-worthiness as established by the Corporation may acquire a qualified note in exchange for the transfer of such security to—
 
 &emsp;&emsp;(A) any holding company which controls 80 percent or more of the shares of such insured savings association; or
 
@@ -106,37 +92,37 @@ Notwithstanding subsection (a)(1) of this section, if an activity (other than an
 
 &emsp;&emsp;&emsp;(ii) adopts and complies with a capital plan acceptable to the Comptroller of the Currency or the Corporation, as appropriate;
 
-&emsp;&emsp;(B) the company to which the corporate debt security not of investment grade is transferred is not a bank holding company, an insured savings association, or a direct or indirect subsidiary of such holding company or insured savings association;
+&emsp;&emsp;(B) the company to which the corporate debt security that does not meet standards of credit-worthiness established by the Corporation is transferred is not a bank holding company, an insured savings association, or a direct or indirect subsidiary of such holding company or insured savings association;
 
-&emsp;&emsp;(C) before the end of the 90-day period beginning on August 9, 1989, the insured savings association notifies the Comptroller of the Currency or the Corporation, as appropriate, of such association's intention to transfer the corporate debt security not of investment grade to the savings and loan holding company or the subsidiary of such holding company;
+&emsp;&emsp;(C) before the end of the 90-day period beginning on August 9, 1989, the insured savings association notifies the Comptroller of the Currency or the Corporation, as appropriate, of such association's intention to transfer the corporate debt security that does not meet standards of credit-worthiness established by the Corporation to the savings and loan holding company or the subsidiary of such holding company;
 
-&emsp;&emsp;(D) the transfer of the corporate debt security not of investment grade is completed—
+&emsp;&emsp;(D) the transfer of the corporate debt security that does not meet standards of credit-worthiness established by the Corporation is completed—
 
 &emsp;&emsp;&emsp;(i) before the end of the 1-year period beginning on August 9, 1989, in the case of an insured savings association that, as of August 9, 1989, is controlled by a savings and loan holding company; or
 
 &emsp;&emsp;&emsp;(ii) before the end of the 2-year period beginning on August 9, 1989, in the case of a savings association that is not, as of August 9, 1989, a subsidiary of a savings and loan holding company;
 
-&emsp;&emsp;(E) the insured savings association receives in exchange for the corporate debt security not of investment grade the fair market value of such security;
+&emsp;&emsp;(E) the insured savings association receives in exchange for the corporate debt security that does not meet standards of credit-worthiness established by the Corporation the fair market value of such security;
 
 &emsp;&emsp;(F) the Comptroller of the Currency or the Corporation, as appropriate has—
 
 &emsp;&emsp;&emsp;(i) approved the transaction; and
 
-&emsp;&emsp;&emsp;(ii) determined that the transfer represents a complete and effective divestiture of the corporate debt security not of investment grade and is in compliance with the provisions of this subsection; and
+&emsp;&emsp;&emsp;(ii) determined that the transfer represents a complete and effective divestiture of the corporate debt security that does not meet standards of credit-worthiness established by the Corporation and is in compliance with the provisions of this subsection; and
 
-&emsp;&emsp;(G) any gain on the sale of the corporate debt security not of investment grade is recognized, and included for applicable regulatory capital requirements, by the insured savings association only at such time and to the extent that the insured savings association receives payment of principal on the note in cash in excess of the fair market value of the transferred corporate debt security not of investment grade as carried on the accounts of the insured savings association immediately prior to the transfer.
+&emsp;&emsp;(G) any gain on the sale of the corporate debt security that does not meet standards of credit-worthiness established by the Corporation is recognized, and included for applicable regulatory capital requirements, by the insured savings association only at such time and to the extent that the insured savings association receives payment of principal on the note in cash in excess of the fair market value of the transferred corporate debt security that does not meet standards of credit-worthiness established by the Corporation as carried on the accounts of the insured savings association immediately prior to the transfer.
 
 #### (3) “Qualified note” defined
 
 &emsp;The term “qualified note” means any note that—
 
-&emsp;&emsp;(A) is at all times fully secured by the corporate debt security not of investment grade transferred in exchange for the note, or by other collateral of at least equivalent value that is acceptable to the Comptroller of the Currency or the Corporation, as appropriate;
+&emsp;&emsp;(A) is at all times fully secured by the corporate debt security that does not meet standards of credit-worthiness established by the Corporation transferred in exchange for the note, or by other collateral of at least equivalent value that is acceptable to the Comptroller of the Currency or the Corporation, as appropriate;
 
 &emsp;&emsp;(B) contains provisions acceptable to the Comptroller of the Currency or the Corporation, as appropriate, that would—
 
 &emsp;&emsp;&emsp;(i) prevent any action to encumber or impair the value of the collateral referred to in subparagraph (A); and
 
-&emsp;&emsp;&emsp;(ii) allow the sale of the corporate debt security not of investment grade if the proceeds of the sale are reinvested in assets of equivalent value;
+&emsp;&emsp;&emsp;(ii) allow the sale of the corporate debt security that does not meet standards of credit-worthiness established by the Corporation if the proceeds of the sale are reinvested in assets of equivalent value;
 
 &emsp;&emsp;(C) is on market terms, including interest rate, which must in all cases be above the insured savings association's borrowing rate for similar term funds;
 
@@ -176,53 +162,63 @@ This section may not be construed as limiting—
 
 &emsp;(2) any authority of the Comptroller of the Currency, of the Corporation, or of a State to impose more stringent restrictions.
 
-(Sept. 21, 1950, ch. 967, §2\[28\], as added Pub. L. 101–73, title II, §222, Aug. 9, 1989, 103 Stat. 269;amended Pub. L. 102–242, title I, §151(a)(3), Dec. 19, 1991, 105 Stat. 2284; Pub. L. 103–325, title VI, §602(a)(56)–(58), Sept. 23, 1994, 108 Stat. 2290, 2291; Pub. L. 104–208, div. A, title II, §2704(d)(14)(X), Sept. 30, 1996, 110 Stat. 3009–494; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §8(a)(32), Feb. 15, 2006, 119 Stat. 3615; Pub. L. 111–203, title III, §363(9), title IX, §939(a)(2), (3), July 21, 2010, 124 Stat. 1555, 1885.)
-
-#### Amendment of Subsections (d) and (e)
-
-<i>Pub. L. 111–203, title IX, §939(a)(2), (3), (g), July 21, 2010, 124 Stat. 1885, 1887, provided that, effective 2 years after July 21, 2010, this section is amended:</i>
-
-<i>(1) in subsection (d)—</i>
-
-<i>(A) in the heading, by striking out “Not of Investment Grade”;</i>
-
-<i>(B) in paragraph (1), by substituting “that does not meet standards of credit-worthiness as established by the Corporation” for “not of investment grade”;</i>
-
-<i>(C) in paragraph (2), by striking out “not of investment grade”;</i>
-
-<i>(D) by striking paragraph (3);</i>
-
-<i>(E) by redesignating paragraph (4) as (3); and</i>
-
-<i>(F) in paragraph (3), as so redesignated—</i>
-
-<i>(i) by striking out subparagraph (A);</i>
-
-<i>(ii) by redesignating subparagraphs (B) and (C) as (A) and (B), respectively; and</i>
-
-<i>(iii) in subparagraph (B), as so redesignated, by substituting “that does not meet standards of credit-worthiness as established by the Corporation” for “not of investment grade”; and</i>
-
-<i>(2) in subsection (e)—</i>
-
-<i>(A) in the heading, by striking out “Not of Investment Grade”;</i>
-
-<i>(B) in paragraph (1), by substituting “that does not meet standards of credit-worthiness as established by the Corporation” for “not of investment grade”; and</i>
-
-<i>(C) in paragraphs (2) and (3), by substituting “that does not meet standards of credit-worthiness established by the Corporation” for “not of investment grade” wherever appearing.</i>
-
-<i>See 2010 Amendment notes below.</i>
+(Sept. 21, 1950, ch. 967, §2\[28\], as added Pub. L. 101–73, title II, §222, Aug. 9, 1989, 103 Stat. 269; amended Pub. L. 102–242, title I, §151(a)(3), Dec. 19, 1991, 105 Stat. 2284; Pub. L. 103–325, title VI, §602(a)(56)–(58), Sept. 23, 1994, 108 Stat. 2290, 2291; Pub. L. 104–208, div. A, title II, §2704(d)(14)(X), Sept. 30, 1996, 110 Stat. 3009–494; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §8(a)(32), Feb. 15, 2006, 119 Stat. 3615; Pub. L. 111–203, title III, §363(9), title IX, §939(a)(2), (3), July 21, 2010, 124 Stat. 1555, 1885.)
 
 #### Amendments
 
-<b>2010</b>—Subsec. (e)(2)(A)(ii). Pub. L. 111–203, §363(9)(A)(i)(I), substituted “Comptroller of the Currency or the Corporation, as appropriate” for “Director of the Office of Thrift Supervision”.
+<b>2010</b>—Subsec. (d). Pub. L. 111–203, §939(a)(2)(A), struck out “not of investment grade” after “securities” in heading.
 
-Subsec. (e)(2)(C). Pub. L. 111–203, §363(9)(A)(i)(II), substituted “Comptroller of the Currency or the Corporation, as appropriate,” for “Director of the Office of Thrift Supervision”.
+Subsec. (d)(1). Pub. L. 111–203, §939(a)(2)(B), substituted “that does not meet standards of credit-worthiness as established by the Corporation” for “not of investment grade”.
+
+Subsec. (d)(2). Pub. L. 111–203, §939(a)(2)(C), struck out “not of investment grade” after “security”.
+
+Subsec. (d)(3). Pub. L. 111–203, §939(a)(2)(D), (E), redesignated par. (4) as (3) and struck out former par. (3). Prior to amendment, text of par. (3) read as follows:
+
+“(A)
+
+In general.—The Corporation shall require any savings association or any subsidiary of any savings association to divest any corporate debt security not of investment grade the retention of which is not permissible under paragraph (1) as quickly as can be prudently done, and in any event not later than July 1, 1994.
+
+“(B)
+
+Treatment of noncompliance during divestment.—With respect to any corporate debt security not of investment grade held by any savings association or subsidiary on August 9, 1989, the savings association or subsidiary shall be deemed not to be in violation of the prohibition in paragraph (1) on retaining such investment so long as the association or subsidiary complies with any applicable requirement established by the Corporation pursuant to subparagraph (A) for divesting such securities.”
+
+Subsec. (d)(3)(A). Pub. L. 111–203, §939(a)(2)(F)(i), (ii), redesignated subpar. (B) as (A) and struck out former subpar. (A). Prior to amendment, text of subpar. (A) read as follows: “Any corporate debt security is not of ‘investment grade’ unless that security, when acquired by the savings association or subsidiary, was rated in one of the 4 highest rating categories by at least one nationally recognized statistical rating organization.”
+
+Subsec. (d)(3)(B). Pub. L. 111–203, §939(a)(2)(F)(iii), substituted “that does not meet standards of credit-worthiness as established by the Corporation” for “not of investment grade”.
+
+Pub. L. 111–203, §939(a)(2)(F)(ii), redesignated subpar. (C) as (B). Former subpar. (B) redesignated (A).
+
+Subsec. (d)(3)(C). Pub. L. 111–203, §939(a)(2)(F)(ii), redesignated subpar. (C) as (B).
+
+Subsec. (d)(4). Pub. L. 111–203, §939(a)(2)(E), redesignated par. (4) as (3).
+
+Subsec. (e). Pub. L. 111–203, §939(a)(3)(A), struck out “not of investment grade” after “security” in heading.
+
+Subsec. (e)(1). Pub. L. 111–203, §939(a)(3)(B), substituted “that does not meet standards of credit-worthiness as established by the Corporation” for “not of investment grade” in introductory provisions.
+
+Subsec. (e)(2)(A)(ii). Pub. L. 111–203, §363(9)(A)(i)(I), substituted “Comptroller of the Currency or the Corporation, as appropriate” for “Director of the Office of Thrift Supervision”.
+
+Subsec. (e)(2)(B). Pub. L. 111–203, §939(a)(3)(C), substituted “that does not meet standards of credit-worthiness established by the Corporation” for “not of investment grade”.
+
+Subsec. (e)(2)(C). Pub. L. 111–203, §939(a)(3)(C), substituted “that does not meet standards of credit-worthiness established by the Corporation” for “not of investment grade”.
+
+Pub. L. 111–203, §363(9)(A)(i)(II), substituted “Comptroller of the Currency or the Corporation, as appropriate,” for “Director of the Office of Thrift Supervision”.
+
+Subsec. (e)(2)(D), (E). Pub. L. 111–203, §939(a)(3)(C), substituted “that does not meet standards of credit-worthiness established by the Corporation” for “not of investment grade”.
 
 Subsec. (e)(2)(F). Pub. L. 111–203, §363(9)(A)(i)(III), substituted “Comptroller of the Currency or the Corporation, as appropriate” for “Director of the Office of Thrift Supervision” in introductory provisions.
 
-Subsec. (e)(3)(A). Pub. L. 111–203, §363(9)(A)(ii)(I), substituted “Comptroller of the Currency or the Corporation, as appropriate” for “Director of the Office of Thrift Supervision”.
+Subsec. (e)(2)(F)(ii). Pub. L. 111–203, §939(a)(3)(C), substituted “that does not meet standards of credit-worthiness established by the Corporation” for “not of investment grade”.
 
-Subsec. (e)(3)(B). Pub. L. 111–203, §363(9)(A)(ii)(II), substituted “Comptroller of the Currency or the Corporation, as appropriate,” for “Director of the Office of Thrift Supervision” in introductory provisions.
+Subsec. (e)(2)(G). Pub. L. 111–203, §939(a)(3)(C), substituted “that does not meet standards of credit-worthiness established by the Corporation” for “not of investment grade” in two places.
+
+Subsec. (e)(3)(A). Pub. L. 111–203, §939(a)(3)(C), substituted “that does not meet standards of credit-worthiness established by the Corporation” for “not of investment grade”.
+
+Pub. L. 111–203, §363(9)(A)(ii)(I), substituted “Comptroller of the Currency or the Corporation, as appropriate” for “Director of the Office of Thrift Supervision”.
+
+Subsec. (e)(3)(B). Pub. L. 111–203, §939(a)(3)(C), substituted “that does not meet standards of credit-worthiness established by the Corporation” for “not of investment grade”.
+
+Pub. L. 111–203, §363(9)(A)(ii)(II), substituted “Comptroller of the Currency or the Corporation, as appropriate,” for “Director of the Office of Thrift Supervision” in introductory provisions.
 
 Subsec. (h)(2). Pub. L. 111–203, §363(9)(B), substituted “Comptroller of the Currency, of the Corporation,” for “Director of the Office of Thrift Supervision”.
 
@@ -230,7 +226,7 @@ Subsec. (h)(2). Pub. L. 111–203, §363(9)(B), substituted “Comptroller of th
 
 Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(14)(X). See 1996 Amendment note below.
 
-<b>1996</b>—Subsecs. (a)(1), (b)(1), (c)(2)(A). Pub. L. 104–208, §2704(d)(14)(X), which directed substitution of “Deposit Insurance Fund” for “affected deposit insurance fund”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+<b>1996</b>—Subsecs. (a)(1), (b)(1), (c)(2)(A). Pub. L. 104–208, §2704(d)(14)(X), which directed substitution of “Deposit Insurance Fund” for “affected deposit insurance fund”,was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
 <b>1994</b>—Subsec. (c)(2)(A)(i). Pub. L. 103–325, §602(a)(56), substituted “; or” for “, or”.
 
@@ -258,7 +254,7 @@ Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository 
 
 #### Effective Date of 1991 Amendment
 
-Section 151(a)(3) of Pub. L. 102–242 provided that the amendment made by that section is effective 1 year after Dec. 19, 1991.
+Pub. L. 102–242, title I, §151(a)(3), Dec. 19, 1991, 105 Stat. 2284, provided that the amendment made by that section is effective 1 year after Dec. 19, 1991.
 
 <i><sup>1</sup></i><i> So in original. Probably should be section “1468”.</i>
 

@@ -82,7 +82,7 @@ Undefinitized contractual action.—
 
 &emsp;&emsp;(A)
 
-In general.—Except as provided in subparagraph (B), the term “undefinitized contractual action” means a new procurement action entered into by the Coast Guardfor which the contractual terms, specifications, or price are not agreed upon before performance is begun under the action.
+In general.—Except as provided in subparagraph (B), the term “undefinitized contractual action” means a new procurement action entered into by the Coast Guard for which the contractual terms, specifications, or price are not agreed upon before performance is begun under the action.
 
 &emsp;&emsp;(B)
 

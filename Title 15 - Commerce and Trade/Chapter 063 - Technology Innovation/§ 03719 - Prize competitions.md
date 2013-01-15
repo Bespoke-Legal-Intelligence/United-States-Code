@@ -102,7 +102,7 @@ An individual or entity shall not be deemed ineligible under subsection (g) beca
 
 #### (1) Prohibition on the government acquiring intellectual property rights
 
-&emsp;The Federal Government may not gain an interest in intellectual property developed by a participant in a competition without the written consent of the participant.
+&emsp;The Federal Government may not gain an interest in intellectual property developed bya participant in a competition without the written consent of the participant.
 
 #### (2) Licenses
 
@@ -112,7 +112,7 @@ An individual or entity shall not be deemed ineligible under subsection (g) beca
 
 #### (1) In general
 
-&emsp;For each competition, the head of an agency, either directly or through an agreement under subsection (<i>l</i>), shall appoint one or more qualified judges to select the winner or winners of the prize competition on the basis described under subsection (f). Judges for each competition may include individuals from outside the agency, including from the private sector.
+&emsp;For each competition, the head of an agency, either directly or through an agreement under subsection (l), shall appoint one or more qualified judges to select the winner or winners of the prize competition on the basis described under subsection (f). Judges for each competition may include individuals from outside the agency, including from the private sector.
 
 #### (2) Restrictions
 
@@ -130,7 +130,7 @@ An individual or entity shall not be deemed ineligible under subsection (g) beca
 
 &emsp;The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to any committee, board, commission, panel, task force, or similar entity, created solely for the purpose of judging prize competitions under this section.
 
-#### (<i>l</i>) Administering the competition
+#### (l) Administering the competition
 
 The head of an agency may enter into an agreement with a private, nonprofit entity to administer a prize competition, subject to the provisions of this section.
 
@@ -162,7 +162,7 @@ The head of an agency may enter into an agreement with a private, nonprofit enti
 
 #### (A) Notice to Congress
 
-&emsp;&emsp;No prize competition under this section may offer a prize in an amount greater than $50,000,000 unless 30 days have elapsed after written notice has been transmitted to the Committee on Commerce, Science, andTransportation of the Senate and the Committee on Science and Technology of the House of Representatives.
+&emsp;&emsp;No prize competition under this section may offer a prize in an amount greater than $50,000,000 unless 30 days have elapsed after written notice has been transmitted to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science and Technology of the House of Representatives.
 
 #### (B) Approval of head of agency
 
@@ -172,7 +172,7 @@ The head of an agency may enter into an agreement with a private, nonprofit enti
 
 Not later than 180 days after January 4, 2011, the General Services Administration shall provide government wide services to share best practices and assist agencies in developing guidelines for issuing prize competitions. The General Services Administration shall develop a contract vehicle to provide agencies access to relevant products and services, including technical assistance in structuring and conducting prize competitions to take maximum benefit of the marketplace as they identify and pursue prize competitions to further the policy objectives of the Federal Government.
 
-#### (<i>o</i>) Compliance with existing law
+#### (o) Compliance with existing law
 
 #### (1) In general
 
@@ -186,7 +186,7 @@ Not later than 180 days after January 4, 2011, the General Services Administrati
 
 #### (1) In general
 
-&emsp;Not later than March 1 of each year, the Director shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science and Technology of the House of Representatives a report on the activities carried out during the preceding fiscal year under the authority in subsection (b).
+&emsp;Not later than March 1 of each year, the Director shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science and Technology of the House of Representatives areport on the activities carried out during the preceding fiscal year under the authority in subsection (b).
 
 #### (2) Information included
 

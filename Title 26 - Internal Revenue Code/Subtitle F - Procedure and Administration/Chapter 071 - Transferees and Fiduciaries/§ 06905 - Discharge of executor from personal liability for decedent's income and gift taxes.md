@@ -22,7 +22,7 @@ For purposes of this section, the term “executor” means the executor or admi
 
 #### Effective Date of 1970 Amendment
 
-Section 101(f) of Pub. L. 91–614 provided that the amendment made by that section is effective with respect to the estates of decedents dying after Dec. 31, 1973.
+Pub. L. 91–614, title I, §101(f), Dec. 31, 1970, 84 Stat. 1838, provided that the amendment made by that section is effective with respect to the estates of decedents dying after Dec. 31, 1973.
 
 #### Effective Date
 

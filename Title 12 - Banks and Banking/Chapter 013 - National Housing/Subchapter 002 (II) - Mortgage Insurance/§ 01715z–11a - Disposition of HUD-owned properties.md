@@ -2,7 +2,7 @@
 
 #### (a) Flexible authority for multifamily projects
 
-During fiscal year 1997 and fiscal years thereafter, the Secretary may manage and dispose of multifamily properties owned by the Secretary, including, for fiscal years 1997, 1998, 1999, 2000, and thereafter, the provision of grants and loans from the General Insurance Fund (12 U.S.C. 1735c) for the necessary costs of rehabilitation, demolition, or construction on the properties (which shall be eligible whether vacant or occupied), and multifamily mortgages held by the Secretary on such terms and conditions as the Secretary may determine, notwithstanding any other provision of law. A grant provided under this subsection during fiscal years 2006 through 2010 shall be available only to the extent that appropriations are made in advance for such purposes and shall not be derived from the General Insurance Fund.
+During fiscal year 1997 and fiscal years thereafter, the Secretary may manage and dispose of multifamily properties owned by the Secretary, including, for fiscal years 1997, 1998, 1999, 2000, and thereafter, the provision of grants and loans from the General Insurance Fund (12 U.S.C. 1735c) for the necessary costs of rehabilitation, demolition, or construction on the properties (which shall be eligible whether vacant or occupied), and multifamily mortgages held by the Secretary on such terms and conditions as theSecretary may determine, notwithstanding any other provision of law. A grant provided under this subsection during fiscal years 2006 through 2010 shall be available only to the extent that appropriations are made in advance for such purposes and shall not be derived from the General Insurance Fund.
 
 #### (b) Transfer of unoccupied and substandard housing to local governments and community development corporations
 
@@ -44,7 +44,7 @@ During fiscal year 1997 and fiscal years thereafter, the Secretary may manage an
 
 &emsp;&emsp;&emsp;(ii) the Secretary shall offer qualified HUD properties that are single family properties for purchase by units of general local government at a cost of $1 for each property, but only to the extent that the costs to the Federal Government of disposal at such price do not exceed the costs to the Federal Government of disposing of property subject to the procedures for single family property established by the Secretary pursuant to the authority under the last sentence of section 1710(g) of this title;
 
-&emsp;&emsp;&emsp;(iii) the Secretary may accept an offer to purchase a property made by a communitydevelopment corporation only if the offer provides for purchase on a cost recovery basis; and
+&emsp;&emsp;&emsp;(iii) the Secretary may accept an offer to purchase a property made by a community development corporation only if the offer provides for purchase on a cost recovery basis; and
 
 &emsp;&emsp;&emsp;(iv) the Secretary shall accept an offer to purchase such a property that is made during such period by such a unit or corporation and that complies with the requirements of this paragraph; and
 
@@ -68,7 +68,7 @@ During fiscal year 1997 and fiscal years thereafter, the Secretary may manage an
 
 #### (B) Upon acquisition
 
-&emsp;&emsp;Upon acquiring any residential property, the Secretary shall promptly determine whether the property is a qualified HUD property.
+&emsp;&emsp;Upon acquiring any residential property, the Secretary shall promptly determinewhether the property is a qualified HUD property.
 
 #### (C) Updates
 

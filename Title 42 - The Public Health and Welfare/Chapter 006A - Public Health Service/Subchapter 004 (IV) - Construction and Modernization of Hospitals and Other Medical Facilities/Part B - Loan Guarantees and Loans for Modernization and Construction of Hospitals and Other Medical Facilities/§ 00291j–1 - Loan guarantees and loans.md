@@ -4,11 +4,11 @@
 
 (1) In order to assist nonprofit private agencies to carry out needed projects for the modernization or construction of nonprofit private hospitals, facilities for long-term care, outpatient facilities, and rehabilitation facilities, the Secretary, during the period July 1, 1970, through June 30, 1974, may, in accordance with the provisions of this part, guarantee to non-Federal lenders making loans to such agencies for such projects, payment of principal of and interest on loans, made by such lenders, which are approved under this part.
 
-(2) In order to assist public agencies to carry out needed projects for the modernization or construction of public health centers, and public hospitals, facilities for long-term care, outpatient facilities, and rehabilitation facilities, the Secretary, during the period July 1, 1970, through June 30, 1974, may, in accordance with the provisions of this part, make loans to such agencies which shall be sold and guaranteed in accordance with section 291j–7 of this title.
+(2) In order to assist public agencies to carry out needed projects for the modernization or construction of public health centers, and publichospitals, facilities for long-term care, outpatient facilities, and rehabilitation facilities, the Secretary, during the period July 1, 1970, through June 30, 1974, may, in accordance with the provisions of this part, make loans to such agencies which shall be sold and guaranteed in accordance with section 291j–7 of this title.
 
 #### (b) Cost limitations
 
-(1) No loan guarantee under this part with respect to any modernization or construction project may apply to so much of the principal amount thereof as, when added to the amount ofany grant or loan under part A of this subchapter with respect to such project, exceeds 90 per centum of the cost of such project.
+(1) No loan guarantee under this part with respect to any modernization or construction project may apply to so much of the principal amount thereof as, when added to the amount of any grant or loan under part A of this subchapter with respect to such project, exceeds 90 per centum of the cost of such project.
 
 (2) No loan to a public agency under this part shall be made in an amount which, when added to the amount of any grant or loan under part A of this subchapter with respect to such project, exceeds 90 per centum of the cost of such project.
 

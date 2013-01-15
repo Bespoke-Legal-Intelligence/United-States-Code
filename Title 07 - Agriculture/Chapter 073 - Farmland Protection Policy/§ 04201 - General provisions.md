@@ -6,7 +6,7 @@ Congress finds that—
 
 &emsp;(1) the Nation's farmland is a unique natural resource and provides food and fiber necessary for the continued welfare of the people of the United States;
 
-&emsp;(2) each year, a large amount of the Nation's farmland is irrevocably converted from actualor potential agricultural use to nonagricultural use;
+&emsp;(2) each year, a large amount of the Nation's farmland is irrevocably converted from actual or potential agricultural use to nonagricultural use;
 
 &emsp;(3) continued decrease in the Nation's farmland base may threaten the ability of the United States to produce food and fiber in sufficient quantities to meet domestic needs and the demands of our export markets;
 
@@ -50,11 +50,11 @@ The effective date of this chapter, referred to in subsec. (c)(4), is six months
 
 #### Effective Date
 
-Section 1549 of Pub. L. 97–98 provided that: “The provisions of this subtitle \[subtitle I (§§1539–1549) of title XV of Pub. L. 97–98, enacting this chapter\] shall become effective six months after the date of enactment of this Act \[Dec. 22, 1981\].”
+Pub. L. 97–98, title XV, §1549, Dec. 22, 1981, 95 Stat. 1344, provided that: “The provisions of this subtitle \[subtitle I (§§1539–1549) of title XV of Pub. L. 97–98, enacting this chapter\] shall become effective six months after the date of enactment of this Act \[Dec. 22, 1981\].”
 
 #### Short Title
 
-Section 1539 of Pub. L. 97–98 provided that: “This subtitle \[subtitle I (§§1539–1549) of title XV of Pub. L. 97–98, enacting this chapter\] may be cited as the ‘Farmland Protection Policy Act’.”
+Pub. L. 97–98, title XV, §1539, Dec. 22, 1981, 95 Stat. 1341, provided that: “This subtitle \[subtitle I (§§1539–1549) of title XV of Pub. L. 97–98, enacting this chapter\] may be cited as the ‘Farmland Protection Policy Act’.”
 
 #### Termination of Trust Territory of the Pacific Islands
 
@@ -164,7 +164,7 @@ Required Purchases of Stock.—The Secretary shall promptly notify the Secretary
 
 “(e)
 
-Entitlements.—The Secretary is entitled to receive funds, and shall receive funds, from the Secretary of the Treasury in an amount equal to the total par-value of the stock issued to the Secretary of the Treasury. Each State trust fund is entitled to receive, and the Secretary of Agriculture shall promptly pay toeach such trust fund, amounts calculated under procedures described in subsection (b).
+Entitlements.—The Secretary is entitled to receive funds, and shall receive funds, from the Secretary of the Treasury in an amount equal to the total par-value of the stock issued to the Secretary of the Treasury. Each State trust fund is entitled to receive, and the Secretary of Agriculture shall promptly pay to each such trust fund, amounts calculated under procedures described in subsection (b).
 
 “(f)
 
@@ -204,7 +204,7 @@ In general.—Funds from eligible loans (including proceeds from the sale of bon
 
 &emsp;&emsp;“(D) to cover the costs of complying with any regulations issued by the Secretary under this program and the costs of implementing the farmland plan of operation, except that the guaranteed loan proceeds shall not be used to pay overhead expenses of the State trust fund (rent, utilities, salaries, wages, insurance premiums, and the like); and
 
-&emsp;&emsp;“(E) to generate earnings (including through investments not exceeding 10 years in duration for each eligible loan), to be used for future farmland preservation efforts, through investments in direct obligations of the United States or obligations guaranteed by the United States or an agency thereof or by depositing funds in any member bank of the Federal Reserve System or any federally insured State nonmember bank.
+&emsp;&emsp;“(E) to generate earnings (including through investments not exceeding 10 years in duration foreach eligible loan), to be used for future farmland preservation efforts, through investments in direct obligations of the United States or obligations guaranteed by the United States or an agency thereof or by depositing funds in any member bank of the Federal Reserve System or any federally insured State nonmember bank.
 
 &emsp;“(2)
 

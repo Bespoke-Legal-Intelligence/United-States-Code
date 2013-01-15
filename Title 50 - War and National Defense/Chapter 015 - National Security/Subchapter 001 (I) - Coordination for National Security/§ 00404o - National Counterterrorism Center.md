@@ -6,7 +6,7 @@ There is within the Office of the Director of National Intelligence a National C
 
 #### (b) Director of National Counterterrorism Center
 
-(1) There is a Director of the National Counterterrorism Center, who shall be the head of the National Counterterrorism Center, andwho shall be appointed by the President, by and with the advice and consent of the Senate.
+(1) There is a Director of the National Counterterrorism Center, who shall be the head of the National Counterterrorism Center, and who shall be appointed by the President, by and with the advice and consent of the Senate.
 
 (2) The Director of the National Counterterrorism Center may not simultaneously serve in any other capacity in the executive branch.
 
@@ -90,7 +90,7 @@ The Director of the National Counterterrorism Center shall establish and maintai
 
 (3) The Director of the National Counterterrorism Center shall monitor the implementation of strategic operational plans, and shall obtain information from each element of the intelligence community, and from each other department, agency, or element of the United States Government relevant for monitoring the progress of such entity in implementing such plans.
 
-(July 26, 1947, ch. 343, title I, §119, as added Pub. L. 108–458, title I, §1021, Dec. 17, 2004, 118 Stat. 3672; amended Pub. L. 111–259, title VIII, §804(5), Oct. 7, 2010, 124 Stat. 2747.)
+(July 26, 1947, ch. 343, title I, §119, as added Pub. L. 108–458, title I, §1021, Dec. 17, 2004, 118 Stat.3672; amended Pub. L. 111–259, title VIII, §804(5), Oct. 7, 2010, 124 Stat. 2747.)
 
 #### Amendments
 

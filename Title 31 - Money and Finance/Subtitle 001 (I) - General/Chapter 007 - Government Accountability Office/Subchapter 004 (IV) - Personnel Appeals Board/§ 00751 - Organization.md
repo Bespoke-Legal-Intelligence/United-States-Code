@@ -80,7 +80,7 @@ In subsection (c), the words “Except as provided in paragraph (2)” are omitt
 
 In subsection (d), the words “of the Board . . . from the Board”, “the members of”, and “proposed action of” are omitted as surplus. The words “prior to any vote of the members of the Board under paragraph (1)(A)” are omitted as surplus. The words “unless the member waives the opportunity in writing” are substituted for 31:52–3(c)(2)(last sentence) to eliminate unnecessary words.
 
-In subsection (e), the words “While carrying out a member's duties” are substituted for “for each day such member is engaged in the actual performance of duties as a member of the Board” to eliminate unnecessary words. The words “an officer or employee of” are substituted for “otherwise employed by” for consistency in the revised title and with other titles of the United States Code. The words “payable . . . under the General Schedule under section 5332 of title 5, United States Code” and 31:52–3(d)(2d sentence) are omitted as surplus.
+In subsection (e), the words “While carrying out a member's duties” are substituted for “for each daysuch member is engaged in the actual performance of duties as a member of the Board” to eliminate unnecessary words. The words “an officer or employee of” are substituted for “otherwise employed by” for consistency in the revised title and with other titles of the United States Code. The words “payable . . . under the General Schedule under section 5332 of title 5, United States Code” and 31:52–3(d)(2d sentence) are omitted as surplus.
 
 #### References in Text
 

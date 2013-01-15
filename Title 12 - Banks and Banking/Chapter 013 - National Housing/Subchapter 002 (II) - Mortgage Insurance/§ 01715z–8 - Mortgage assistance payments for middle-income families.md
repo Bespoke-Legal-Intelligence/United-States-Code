@@ -22,7 +22,7 @@ The interest subsidy payments authorized by this section shall cease when (1) th
 
 &emsp;(B) the term “acquisition of the property”, when used in subsection (b) of this section, means the family's application for a dwelling unit; and
 
-&emsp;(C) in the case of a cooperative mortgagor, subsection (c) of this section shall not apply and the interest subsidy payments shall cease when the mortgage is no longer held by the investor or the cooperative fails to limit membership to families whose incomes at the time of their application for a dwelling unit meets such requirements as are laid down by the Secretary pursuant to subsection (b) of this section.
+&emsp;(C) in the case of a cooperative mortgagor, subsection (c) of this section shall not apply and the interest subsidy payments shall cease when the mortgage is no longer held by the investor or the cooperative fails to limit membership to families whose incomes at the time of their application for a dwelling unit meets such requirements as are laid down by theSecretary pursuant to subsection (b) of this section.
 
 #### (e) Amount of interest subsidy payments
 
@@ -50,7 +50,7 @@ In determining the income of any family for the purposes of this section, income
 
 (1) The Secretary is authorized, upon application by the mortgagee, to insure a mortgage executed by a mortgagor who meets the eligibility requirements for assistance payments prescribed by the Secretary under subsection (b) of this section. Commitments for the insurance of such mortgages may be issued by the Secretary prior to the date of their execution or disbursement thereon, upon such terms and conditions as the Secretary may prescribe.
 
-(2) To be eligible for insurance under this subsection, a mortgage shall meet the requirementsof section 1715<i>l</i>(d)(2) or 1715y(c) of this title, except as such requirements are modified by this subsection: <i>Provided, however</i>, That in the discretion of the Secretary 25 per centum of the authority conferred by this section and subject to all the terms thereof may be used for mortgages on existing housing.
+(2) To be eligible for insurance under this subsection, a mortgage shall meet the requirements of section 1715l(d)(2) or 1715y(c) of this title, except as such requirements are modified by this subsection: <i>Provided, however</i>, That in the discretion of the Secretary 25 per centum of the authority conferred by this section and subject to all the terms thereof may be used for mortgages on existing housing.
 
 (3) A mortgage to be insured under this section shall—
 
@@ -74,7 +74,7 @@ Subsec. (j)(3)(ii). Pub. L. 98–479, §204(a)(15), substituted “; and” for
 
 #### Congressional Findings and Declaration of Purpose
 
-Section 501 of Pub. L. 91–351 provided that: “The Congress finds that—
+Pub. L. 91–351, title V, §501, July 24, 1970, 84 Stat. 458, provided that: “The Congress finds that—
 
 &emsp;“(1) periodic episodes of monetary stringency and high interest rates make it extremely difficult for families of middle income to obtain mortgage credit at rates which they can afford to pay;
 

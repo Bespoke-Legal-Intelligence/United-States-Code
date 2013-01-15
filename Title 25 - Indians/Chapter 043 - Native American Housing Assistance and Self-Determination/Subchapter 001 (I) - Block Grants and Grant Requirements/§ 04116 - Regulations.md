@@ -60,7 +60,7 @@ This section shall take effect on October 26, 1996.
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) and (b), was in the original “this Act”, meaning Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
+This chapter, referred to in subsecs. (a) and (b), was in the original “this Act”, meaning Pub. L. 104–330,Oct. 26, 1996, 110 Stat. 4016, known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
 For the effective date of this chapter, referred to in subsecs. (a)(1) and (b)(1), as Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as an Effective Date note under section 4101 of this title.
 

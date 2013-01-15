@@ -20,5 +20,5 @@ Pub. L. 107–295, title IV, §416(c), Nov. 25, 2002, 116 Stat. 2122, provided t
 
 #### Interim Authority for Selection of Commanders and Captains for Continuation on Active Duty
 
-Section 3(p) of Pub. L. 88–130 authorized officers who failed of selection for continuation to request their discharge with severance pay computed in accordance with this section.
+Pub. L. 88–130, §3(p), Sept. 24, 1963, 77 Stat. 192, authorized officers who failed of selection for continuation to request their discharge with severance pay computed in accordance with this section.
 

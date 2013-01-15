@@ -10,7 +10,7 @@ In general.—The Secretary or Administrator shall approve or deny an applicatio
 
 &emsp;(2)
 
-Extension.—On request by an applicant, the Secretary or Administrator may extend the 270-day period in paragraph (1) to a date not later than 2 years after the date on which the signed application was received by the Secretary or Administrator.
+Extension.—On request by an applicant, the Secretary or Administrator may extendthe 270-day period in paragraph (1) to a date not later than 2 years after the date on which the signed application was received by the Secretary or Administrator.
 
 (b)
 
@@ -44,7 +44,7 @@ June 29, 1936, ch. 858, title XI, §1104A(<i>l</i>), (n), as added Pub. L. 108�
 
 Pub. L. 110–181, §3522(a)(10)(B), incorporated the substance of the amendment by Pub. L. 109–163, §3507(a)(1)(D), (2)(G), (b)(7), into this section by inserting “or Administrator” after “Secretary” wherever appearing. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
 
-<b>2006</b>—Pub. L. 109–163, §3507(a)(1)(D), (2)(G), (b)(7), which directed the amendment of section 1274(<i>l</i>), (n) of the former Appendix to this title from which this section was derived, was repealed by Pub. L. 110–181, §3522(b). See 2008 Amendment notes and Historical and Revision notes above.
+<b>2006</b>—Pub. L. 109–163, §3507(a)(1)(D), (2)(G), (b)(7), which directed the amendment of section 1274(l), (n) of the former Appendix to this title from which this section was derived, was repealed by Pub. L. 110–181, §3522(b). See 2008 Amendment notes and Historical and Revision notes above.
 
 #### Review of Applications for Loans and Guarantees
 
@@ -54,7 +54,7 @@ Pub. L. 110–181, div. C, title XXXV, §3517, Jan. 28, 2008, 122 Stat. 595, pro
 
 Findings.—The Congress makes the following findings:
 
-&emsp;“(1) The maritime loan guarantee program was established by the Congress through the Merchant Marine Act, 1936 \[see Short Title of 1936 Amendmentnote set out under section 101 of this title\] to encourage domestic shipbuilding by making available federally backed loan guarantees for new construction to ship owners and operators.
+&emsp;“(1) The maritime loan guarantee program was established by the Congress through the Merchant Marine Act, 1936 \[see Short Title of 1936 Amendment note set out under section 101 of this title\] to encourage domestic shipbuilding by making available federally backed loan guarantees for new construction to ship owners and operators.
 
 &emsp;“(2) The maritime loan guarantee program has a long and successful history of ship construction with a low historical default rate.
 

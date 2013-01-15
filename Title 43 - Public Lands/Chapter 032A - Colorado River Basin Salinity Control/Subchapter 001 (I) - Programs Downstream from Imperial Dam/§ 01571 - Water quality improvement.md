@@ -30,7 +30,7 @@ Any desalted water not needed for the purposes of this subchapter may be exchang
 
 For the purpose of reducing the return flows from the division to one hundred and seventy-five thousand acre-feet or less, annually, the Secretary is authorized to:
 
-&emsp;(1) Accelerate the cooperative program of Irrigation Management Services with the Wellton-Mohawk Irrigation and Drainage District, hereinafter referred to as the district, for the purpose of improving irrigation efficiency. The district shall bear its share of the cost of such program as determined by the Secretary.
+&emsp;(1) Accelerate the cooperative program of Irrigation Management Services with theWellton-Mohawk Irrigation and Drainage District, hereinafter referred to as the district, for the purpose of improving irrigation efficiency. The district shall bear its share of the cost of such program as determined by the Secretary.
 
 &emsp;(2) Acquire by purchase or through eminent domain or exchange, to the extent determined by him to be appropriate, lands or interests in lands to reduce the existing seventy-five thousand developed and undeveloped irrigable acres authorized by the Act of July 30, 1947 (61 Stat. 628), known as the Gila Reauthorization Act \[43 U.S.C. 613 et seq.\]. The initial reduction in irrigable acreage shall be limited to approximately ten thousand acres. If the Secretary determines that the irrigable acreage of the division must be reduced below sixty-five thousand acres of irrigable lands to carry out the purpose of this section, the Secretary is authorized, with the consent of the district, to acquire additional lands, as may be deemed by him to be appropriate.
 
@@ -40,7 +40,7 @@ The Secretary is authorized to dispose of the acquired lands and interests there
 
 #### (h) Assistance to water users for installation of system improvements
 
-The Secretary is authorized, either in conjunction with or in lieu of land acquisition, to assist water users in the division in installing system improvements, such as ditch lining, change of field layouts, automatic equipment, sprinkler systems and bubbler systems, as a means of increasing irrigation efficiencies: <i>Provided, however</i>, That all costs associated with the improvements authorized herein and allocated to the water users on the basis of benefits received, asdetermined by the Secretary, shall be reimbursed to the United States in amounts and on terms and conditions satisfactory to the Secretary.
+The Secretary is authorized, either in conjunction with or in lieu of land acquisition, to assist water users in the division in installing system improvements, such as ditch lining, change of field layouts, automatic equipment, sprinkler systems and bubbler systems, as a means of increasing irrigation efficiencies: <i>Provided, however</i>, That all costs associated with the improvements authorized herein and allocated to the water users on the basis of benefits received, as determined by the Secretary, shall be reimbursed to the United States in amounts and on terms and conditions satisfactory to the Secretary.
 
 #### (i) Contract amendment
 
@@ -58,7 +58,7 @@ The Secretary is authorized to acquire through the Corps of Engineers fee title 
 
 To the extent desirable to carry out subsections (f)(1) and (h) of this section, the Secretary may transfer funds to the Secretary of Agriculture as may be required for technical assistance to farmers, conduct of research and demonstrations, and such related investigations as are required to achieve higher on-farm irrigation efficiencies.
 
-#### (<i>l</i>) Nonreimbursable costs
+#### (l) Nonreimbursable costs
 
 All cost associated with the desalting complex shall be nonreimbursable except as provided in subsections (f) and (h) of this section.
 
@@ -76,5 +76,5 @@ Subsec. (c). Pub. L. 96–336, §2, included replacement water studies covering 
 
 #### Short Title
 
-Section 1 of Pub. L. 93–320 provided: “That this Act \[enacting this chapter and amending sections 620d and 1543 of this title\] may be cited as the ‘Colorado River Basin Salinity Control Act’.”
+Pub. L. 93–320, §1, June 24, 1974, 88 Stat. 266, provided: “That this Act \[enacting this chapter and amending sections 620d and 1543 of this title\] may be cited as the ‘Colorado River Basin Salinity Control Act’.”
 

@@ -36,9 +36,9 @@ The State plan shall include—
 
 &emsp;&emsp;(ii) other activities authorized under this chapter;
 
-&emsp;&emsp;(iii) programs authorized under the Wagner-Peyser Act (29 U.S.C. 49 et seq.), title II of this Act \[20 U.S.C. 9201 et seq.\], title I of the Rehabilitation Act of 1973 (29 U.S.C. 720 et seq.), part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.), and section 6(d)(4) of the Food and Nutrition Act of 2008 (7 U.S.C. 2015(d)(4)), activities authorized under title V of the Older Americans Act of 1965 (42 U.S.C. 3056 et seq.), and career and technical education activities at the postsecondary level authorized under the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.);
+&emsp;&emsp;(iii) programs authorized under the Wagner-Peyser Act (29 U.S.C. 49 et seq.), title II of this Act \[20 U.S.C. 9201 et seq.\], title I of the Rehabilitation Act of 1973 (29 U.S.C. 720et seq.), part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.), and section 6(d)(4) of the Food and Nutrition Act of 2008 (7 U.S.C. 2015(d)(4)), activities authorized under title V of the Older Americans Act of 1965 (42 U.S.C. 3056 et seq.), and career and technical education activities at the postsecondary level authorized under the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.);
 
-&emsp;&emsp;(iv) work programs authorized under section 6(<i>o</i>) of the Food and Nutrition Act of 2008 (7 U.S.C. 2015(<i>o</i>));
+&emsp;&emsp;(iv) work programs authorized under section 6(o) of the Food and Nutrition Act of 2008 (7 U.S.C. 2015(o));
 
 &emsp;&emsp;(v) activities authorized under chapter 2 of title II of the Trade Act of 1974 (19 U.S.C. 2271 et seq.);
 
@@ -122,7 +122,7 @@ The Wagner-Peyser Act, referred to in subsecs. (a) and (b)(8)(A)(iii), is act Ju
 
 This chapter, referred to in subsecs. (a), (b)(8)(A)(i), (ii), (14), (16), and (c)(1), was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
 
-Title II of this Act, referred to in subsec. (b)(8)(A)(iii), is title II of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 1059, known as the Adult Education and Family LiteracyAct, which is classified principally to subchapter I (§9201 et seq.) of chapter 73 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20 and Tables.
+Title II of this Act, referred to in subsec. (b)(8)(A)(iii), is title II of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 1059, known as the Adult Education and Family Literacy Act, which is classified principally to subchapter I (§9201 et seq.) of chapter 73 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20 and Tables.
 
 The Rehabilitation Act of 1973, referred to in subsec. (b)(8)(A)(iii), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355. Title I of the Act is classified generally to subchapter I (§720 et seq.) of chapter 16 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
 
@@ -152,7 +152,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set outas an Effective Date note under section 8701 of Title 7, Agriculture.
 
 Amendment by section 4002(b)(1)(B), (2)(R) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 

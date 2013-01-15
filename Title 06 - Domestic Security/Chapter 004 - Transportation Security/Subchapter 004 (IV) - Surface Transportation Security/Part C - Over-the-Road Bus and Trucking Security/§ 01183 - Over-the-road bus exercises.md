@@ -20,7 +20,7 @@ Entities to be assessed under the program shall include—
 
 The Secretary shall ensure that the program—
 
-&emsp;(1) consolidates existing security exercises for over-the-road bus operators and terminals administered by the Department and the Department of Transportation, as jointly determined by the Secretary and the Secretary of Transportation, unless the Secretary waivesthis consolidation requirement, as appropriate;
+&emsp;(1) consolidates existing security exercises for over-the-road bus operators and terminals administered by the Department and the Department of Transportation, as jointly determined by the Secretary and the Secretary of Transportation, unless the Secretary waives this consolidation requirement, as appropriate;
 
 &emsp;(2) consists of exercises that are—
 

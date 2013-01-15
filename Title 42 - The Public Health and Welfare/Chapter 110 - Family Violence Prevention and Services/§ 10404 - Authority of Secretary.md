@@ -28,7 +28,7 @@ The Secretary shall—
 
 &emsp;&emsp;(B) collecting and reporting data on the provision of family violence, domestic violence, and dating violence services, including assistance and programs supported by Federal funds made available under this chapter and by other governmental or nongovernmental sources of funds; and
 
-&emsp;&emsp;(C) coordinating family violence, domestic violence, and dating violence research efforts within the Department of Health and Human Services with relevant research administered or carried out by other Federal agencies and other researchers, including research on the provision of assistance for adult and youth victims of family violence, domestic violence, or dating violence; and
+&emsp;&emsp;(C) coordinating family violence, domestic violence, and dating violence research efforts within the Department of Health and Human Services with relevant research administered or carried out by other Federal agencies and other researchers, including research on the provision of assistance foradult and youth victims of family violence, domestic violence, or dating violence; and
 
 &emsp;(4) support the development and implementation of effective policies, protocols, and programs within the Department and at other Federal agencies that address the safety and support needs of adult and youth victims of family violence, domestic violence, or dating violence.
 

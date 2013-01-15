@@ -34,7 +34,7 @@ The overall trade negotiating objectives of the United States for agreements sub
 
 #### (2) Trade in services
 
-&emsp;The principal negotiating objective of the United States regarding trade in services is to reduce or eliminate barriers to international trade in services, including regulatory and other barriers that deny national treatment and market access or unreasonably restrict the establishment or operations of service suppliers.
+&emsp;The principal negotiating objective of the United States regarding trade in services is to reduce or eliminate barriers to international trade in services, including regulatory and other barriers that deny national treatment and market access or unreasonably restrictthe establishment or operations of service suppliers.
 
 #### (3) Foreign investment
 
@@ -116,7 +116,7 @@ The overall trade negotiating objectives of the United States for agreements sub
 
 #### (7) Improvement of the WTO and multilateral trade agreements
 
-&emsp;The principal negotiating objectives of the United States regarding the improvement ofthe World Trade Organization, the Uruguay Round Agreements, and other multilateral and bilateral trade agreements are—
+&emsp;The principal negotiating objectives of the United States regarding the improvement of the World Trade Organization, the Uruguay Round Agreements, and other multilateral and bilateral trade agreements are—
 
 &emsp;&emsp;(A) to achieve full implementation and extend the coverage of the World Trade Organization and such agreements to products, sectors, and conditions of trade not adequately covered; and
 
@@ -222,7 +222,7 @@ The overall trade negotiating objectives of the United States for agreements sub
 
 &emsp;&emsp;(E) to reduce or eliminate government practices or policies that unduly threaten sustainable development;
 
-&emsp;&emsp;(F) to seek market access, through the elimination of tariffs and nontariff barriers, for United States environmental technologies, goods, and services; and
+&emsp;&emsp;(F) to seek market access, through the elimination of tariffs and nontariff barriers,for United States environmental technologies, goods, and services; and
 
 &emsp;&emsp;(G) to ensure that labor, environmental, health, or safety policies and practices of the parties to trade agreements with the United States do not arbitrarily or unjustifiably discriminate against United States exports or serve as disguised barriers to trade.
 
@@ -232,7 +232,7 @@ The overall trade negotiating objectives of the United States for agreements sub
 
 &emsp;&emsp;(A) to seek provisions in trade agreements providing for resolution of disputes between governments under those trade agreements in an effective, timely, transparent, equitable, and reasoned manner, requiring determinations based on facts and the principles of the agreements, with the goal of increasing compliance with the agreements;
 
-&emsp;&emsp;(B) to seek to strengthen the capacity of the Trade Policy Review Mechanism of theWorld Trade Organization to review compliance with commitments;
+&emsp;&emsp;(B) to seek to strengthen the capacity of the Trade Policy Review Mechanism of the World Trade Organization to review compliance with commitments;
 
 &emsp;&emsp;(C) to seek adherence by panels convened under the Dispute Settlement Understanding and by the Appellate Body to the standard of review applicable under the Uruguay Round Agreement involved in the dispute, including greater deference, where appropriate, to the fact-finding and technical expertise of national investigating authorities;
 
@@ -288,7 +288,7 @@ In order to address and maintain United States competitiveness in the global eco
 
 &emsp;(2) seek to establish consultative mechanisms among parties to trade agreements to strengthen the capacity of United States trading partners to promote respect for core labor standards (as defined in section 3813(6) of this title) and to promote compliance with ILO Convention No. 182 Concerning the Prohibition and Immediate Action for the Elimination of the Worst Forms of Child Labor, and report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on the content and operation of such mechanisms;
 
-&emsp;(3) seek to establish consultative mechanisms among parties to trade agreements to strengthen the capacity of United States trading partners to develop and implement standards for the protection of the environment and human health based on sound science, and report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on the content and operation of such mechanisms;
+&emsp;(3) seek to establish consultative mechanisms among parties to trade agreements tostrengthen the capacity of United States trading partners to develop and implement standards for the protection of the environment and human health based on sound science, and report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on the content and operation of such mechanisms;
 
 &emsp;(4) conduct environmental reviews of future trade and investment agreements, consistent with Executive Order 13141 of November 16, 1999, and its relevant guidelines, and report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on such reviews;
 

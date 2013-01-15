@@ -56,7 +56,7 @@ To be eligible for insurance under this section, a refinanced eligible mortgage 
 
 #### (B) Liability for repayment
 
-&emsp;&emsp;The mortgagor shall agree in writing that the mortgagor shall be liable to repay to the Secretary any direct financial benefit achieved from the reduction of indebtedness on the existing mortgage or mortgages on the residence refinanced under this section derived from misrepresentations made by the mortgagor in the certifications and documentation required under this paragraph, subject to the discretion of the Secretary.
+&emsp;&emsp;The mortgagor shall agree in writing that the mortgagor shall be liable to repay to the Secretary any direct financial benefit achieved from the reduction of indebtedness on the existing mortgage or mortgages on the residence refinanced under this sectionderived from misrepresentations made by the mortgagor in the certifications and documentation required under this paragraph, subject to the discretion of the Secretary.
 
 #### (C) Current borrower debt-to-income ratio
 
@@ -128,7 +128,7 @@ To be eligible for insurance under this section, a refinanced eligible mortgage 
 
 &emsp;&emsp;(C) be completed by an appraiser who meets the competency requirements of the Uniform Standards of Professional Appraisal Practice;
 
-&emsp;&emsp;(D) be wholly consistent with the appraisal standards, practices, and procedures under section 1708(e) <sup>2</sup> of this title that apply to all loans insured under this chapter; and
+&emsp;&emsp;(D) be wholly consistent with the appraisal standards, practices, and procedures undersection 1708(e) <sup>2</sup> of this title that apply to all loans insured under this chapter; and
 
 &emsp;&emsp;(E) comply with the requirements of subsection (g) of this section (relating to appraisal independence).
 
@@ -260,9 +260,9 @@ The Secretary shall establish—
 
 #### (2) Appreciation in value
 
-&emsp;For each eligible mortgage insured under this section, the Secretary may, upon any sale or disposition of the property to which the mortgage relates, be entitled to up to 50 percent of appreciation, up to the appraised value of the home at the time when the mortgage being refinanced under this section was originally made. The Secretary may share any amounts received under this paragraph with or assign the rights of any amounts due to the Secretary to the holder of the existing senior mortgage on the eligible mortgage, the holder of any existing subordinate mortgage on the eligible mortgage, or both.
+&emsp;For each eligible mortgage insured under this section, the Secretary may, upon any sale or disposition of the property to which the mortgage relates, be entitled to up to 50 percent of appreciation, up to the appraised valueof the home at the time when the mortgage being refinanced under this section was originally made. The Secretary may share any amounts received under this paragraph with or assign the rights of any amounts due to the Secretary to the holder of the existing senior mortgage on the eligible mortgage, the holder of any existing subordinate mortgage on the eligible mortgage, or both.
 
-#### (<i>l</i>) Establishment of HOPE Fund
+#### (l) Establishment of HOPE Fund
 
 #### (1) In general
 
@@ -292,7 +292,7 @@ The Secretary shall submit monthly reports to the Congress identifying the progr
 
 &emsp;(6) Any other information that the Secretary considers appropriate.
 
-#### (<i>o</i>) Required outreach efforts
+#### (o) Required outreach efforts
 
 The Secretary shall carry out outreach efforts to ensure that homeowners, lenders, and the general public are aware of the opportunities for assistance available under this section.
 
@@ -314,7 +314,7 @@ The Secretary shall take such actions as may be necessary to—
 
 #### (2) Guarantee authority
 
-&emsp;To carry out the purposes of section 1721 of this title, the Government National MortgageAssociation may enter into new commitments to issue guarantees of securities based on or backed by mortgages insured under this section, not exceeding $300,000,000,000. The amount of authority provided under the preceding sentence to enter into new commitments to issue guarantees is in addition to any amount of authority to make new commitments to issue guarantees that is provided to the Association under any other provision of law.
+&emsp;To carry out the purposes of section 1721 of this title, the Government National Mortgage Association may enter into new commitments to issue guarantees of securities based on or backed by mortgages insured under this section, not exceeding $300,000,000,000. The amount of authority provided under the preceding sentence to enter into new commitments to issue guarantees is in addition to any amount of authority to make new commitments to issue guarantees that is provided to the Association under any other provision of law.
 
 #### (r) Sunset
 
@@ -350,7 +350,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (5) Existing subordinate mortgage
 
-&emsp;The term “existing subordinate mortgage” means, with respect to a mortgage insured under this section, an existing mortgage that has subordinate priority to the existing senior mortgage.
+&emsp;The term “existing subordinate mortgage” means, with respect to a mortgage insuredunder this section, an existing mortgage that has subordinate priority to the existing senior mortgage.
 
 #### (6) HOPE for Homeowners Program
 
@@ -448,7 +448,7 @@ Section 4568(b) of this title, referred to in subsec. (w)(2), was in the origina
 
 #### Codification
 
-Pub. L. 111–22, §202(a)(2), which directed amendment of subsecs. (e), (h)(1), (h)(3), (j), (<i>l</i>), (n), (s)(3), and (v) by substituting “Secretary” for “Board” each place such term appeared, was not executed to subsec. (e)(4)(A), (9), or the heading for subsec. (n), to reflect the probable intent of Congress and the amendments by Pub. L. 111–22, §202(a)(3)(B)(i), (D)(ii), (7). See 2010 Amendment notes below.
+Pub. L. 111–22, §202(a)(2), which directed amendment of subsecs. (e), (h)(1), (h)(3), (j), (l), (n), (s)(3), and (v) by substituting “Secretary” for “Board” each place such term appeared, was not executed to subsec. (e)(4)(A), (9), or the heading for subsec. (n), to reflect the probable intent of Congress and the amendments by Pub. L. 111–22, §202(a)(3)(B)(i), (D)(ii), (7). See 2009 Amendment notes below.
 
 Another section 257 of act June 27, 1934, was renumbered section 258 and is classified to section 1715z–24 of this title.
 
@@ -476,7 +476,7 @@ Subsec. (e)(7). Pub. L. 111–22, §202(a)(3)(C), struck out “; and provided 
 
 Pub. L. 111–22, §202(a)(2), substituted “Secretary” for “Board”.
 
-Subsec. (e)(9). Pub. L. 111–22, §202(a)(3)(D), substituted “in accordance with procedures and standards that the Secretary shall establish (provided that such procedures and standards are consistent with section 1709(b) of this title to the maximum extent possible) which may include requiring the mortgagee to procure” for “by procuring (A) an income tax return transcript of the income tax returns of the mortgagor, or (B)” and struck out “and by any other method, in accordancewith procedures and standards that the Board shall establish” before period at end. See Codification note above.
+Subsec. (e)(9). Pub. L. 111–22, §202(a)(3)(D), substituted “in accordance with procedures and standards that the Secretary shall establish (provided that such procedures and standards are consistent with section 1709(b) of this title to the maximum extent possible) which may include requiring the mortgagee to procure” for “by procuring (A) an income tax return transcript of the income tax returns of the mortgagor, or (B)” and struck out “and by any other method, in accordance with procedures and standards that the Board shall establish” before period at end. See Codification note above.
 
 Subsec. (e)(10). Pub. L. 111–22, §202(a)(3)(E), designated existing provisions as subpar. (A), inserted subpar. (A) heading, and added subpar. (B).
 
@@ -500,7 +500,7 @@ Subsec. (k)(1). Pub. L. 111–22, §202(a)(6)(B), substituted “the mortgage be
 
 Subsec. (k)(2). Pub. L. 111–22, §202(a)(6)(C), substituted “may, upon any sale or disposition of the property to which the mortgage relates, be entitled to up to 50 percent of appreciation, up to the appraised value of the home at the time when the mortgage being refinanced under this section was originally made. The Secretary may share any amounts received under this paragraph with or assign the rights of any amounts due to the Secretary to the holder of the existing senior mortgage on the eligible mortgage, the holder of any existing subordinate mortgage on the eligible mortgage, or both.” for “and the mortgagor of such mortgage shall, upon any sale or disposition of the property to which such mortgage relates, each be entitled to 50 percent of any appreciation in value of the appraised value of such property that has occurred since the date that such mortgage was insured under this section.”
 
-Subsec. (<i>l</i>)(1). Pub. L. 111–22, §202(a)(2), substituted “Secretary” for “Board”.
+Subsec. (l)(1). Pub. L. 111–22, §202(a)(2), substituted “Secretary” for “Board”.
 
 Subsec. (n). Pub. L. 111–22, §202(a)(2), (7), substituted “Secretary” for “the Board” in heading and “Secretary” for “Board” in introductory provisions and in par. (6). See Codification note above.
 
@@ -512,7 +512,7 @@ Subsec. (s)(3)(A)(ii). Pub. L. 111–22, §202(a)(9)(B), substituted “such” 
 
 Pub. L. 111–22, §202(a)(2), substituted “Secretary” for “Board”.
 
-Subsec. (v). Pub. L. 111–22, §202(a)(2), (10), substituted “action of the Secretary” for “action of the Board” and inserted at end “The Secretary shall conform documents, forms, and procedures for mortgages insured under this section to those in place for mortgages insured under section 1709(b) of this title to the maximum extent possible consistent with the requirements of this section.”
+Subsec. (v). Pub. L. 111–22, §202(a)(2), (10), substituted “action of the Secretary” for “action of the Board” andinserted at end “The Secretary shall conform documents, forms, and procedures for mortgages insured under this section to those in place for mortgages insured under section 1709(b) of this title to the maximum extent possible consistent with the requirements of this section.”
 
 Subsecs. (x), (y). Pub. L. 111–22, §202(a)(11), added subsecs. (x) and (y).
 

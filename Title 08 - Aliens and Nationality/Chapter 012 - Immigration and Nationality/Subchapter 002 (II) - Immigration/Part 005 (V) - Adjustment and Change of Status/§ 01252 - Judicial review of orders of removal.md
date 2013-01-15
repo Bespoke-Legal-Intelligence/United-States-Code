@@ -22,7 +22,7 @@
 
 #### (B) Denials of discretionary relief
 
-&emsp;&emsp;Notwithstanding any other provision of law (statutory or nonstatutory), including section 2241 of title 28, or any other habeascorpus provision, and sections 1361 and 1651 of such title, and except as provided in subparagraph (D), and regardless of whether the judgment, decision, or action is made in removal proceedings, no court shall have jurisdiction to review—
+&emsp;&emsp;Notwithstanding any other provision of law (statutory or nonstatutory), including section 2241 of title 28, or any other habeas corpus provision, and sections 1361 and 1651 of such title, and except as provided in subparagraph (D), and regardless of whether the judgment, decision, or action is made in removal proceedings, no court shall have jurisdiction to review—
 
 &emsp;&emsp;&emsp;(i) any judgment regarding the granting of relief under section 1182(h), 1182(i), 1229b, 1229c, or 1255 of this title, or
 
@@ -30,7 +30,7 @@
 
 #### (C) Orders against criminal aliens
 
-&emsp;&emsp;Notwithstanding any other provision of law (statutory or nonstatutory), including section 2241 of title 28, or any other habeas corpus provision, and sections 1361 and 1651 of such title, and except as provided in subparagraph (D), no court shall have jurisdiction to review any final order of removal against an alien who is removable by reason of having committed a criminal offense covered in section 1182(a)(2) or 1227(a)(2)(A)(iii), (B), (C), or (D) of this title, or any offense covered by section 1227(a)(2)(A)(ii) of this title for which both predicate offenses are, without regard to their date of commission, otherwise covered by section 1227(a)(2)(A)(i) of this title.
+&emsp;&emsp;Notwithstanding any other provision of law (statutory or nonstatutory), including section 2241 of title 28, or any other habeas corpus provision, and sections 1361 and 1651 of such title, and except as provided in subparagraph (D), no court shall have jurisdiction to review any final order of removal against an alien who is removable by reason of having committed a criminal offense covered in section 1182(a)(2) or 1227(a)(2)(A)(iii), (B), (C), or (D) of this title, or any offense covered by section 1227(a)(2)(A)(ii) of this title for which both predicate offenses are, without regard to their date of commission,otherwise covered by section 1227(a)(2)(A)(i) of this title.
 
 #### (D) Judicial review of certain legal claims
 
@@ -228,7 +228,7 @@ A court may review a final order of removal only if—
 
 Except as provided in this section and notwithstanding any other provision of law (statutory or nonstatutory), including section 2241 of title 28, or any other habeas corpus provision, and sections 1361 and 1651 of such title, no court shall have jurisdiction to hear any cause or claim by or on behalf of any alien arising from the decision or action by the Attorney General to commence proceedings, adjudicate cases, or execute removal orders against any alien under this chapter.
 
-(June 27, 1952, ch. 477, title II, ch. 5, §242, 66 Stat. 208; Sept. 3, 1954, ch. 1263, §17, 68 Stat. 1232; Pub. L. 97–116, §18(h)(1), Dec. 29, 1981, 95 Stat. 1620; Pub. L. 98–473, title II, §220(b), Oct. 12, 1984, 98 Stat. 2028; Pub. L. 99–603, title VII, §701, Nov. 6, 1986, 100 Stat. 3445; Pub. L. 100–525, §9(n), Oct. 24, 1988, 102 Stat. 2620; Pub. L. 100–690, title VII, §7343(a), Nov. 18, 1988, 102 Stat. 4470; Pub. L. 101–649, title V, §§504(a), 545(e), title VI, §603(b)(2), Nov. 29, 1990, 104 Stat. 5049, 5066, 5085; Pub. L. 102–232, title III, §§306(a)(4), (c)(7), 307(m)(2), 309(b)(9), Dec. 12, 1991, 105 Stat. 1751, 1753, 1757, 1759; Pub. L. 103–322, title II, §20301(a), title XIII, §130001(a), Sept. 13, 1994, 108 Stat. 1823, 2023; Pub. L. 103–416, title II, §§219(h), 224(b), Oct. 25, 1994, 108 Stat. 4317, 4324; Pub. L. 104–132, title IV, §§436(a), (b)(1), 438(a), 440(c), (h), Apr. 24, 1996, 110 Stat. 1275, 1277, 1279; Pub. L. 104–208, div. C, title III, §§306(a), (d), 308(g)(10)(H), 371(b)(6), Sept. 30, 1996, 110 Stat. 3009–607, 3009–612, 3009–625, 3009–645; Pub. L. 109–13, div. B, title I, §§101(e), (f), 106(a), May 11, 2005, 119 Stat. 305, 310.)
+(June 27, 1952, ch. 477, title II, ch. 5, §242, 66 Stat. 208; Sept. 3, 1954, ch. 1263, §17, 68 Stat. 1232; Pub. L. 97–116, §18(h)(1), Dec. 29, 1981, 95 Stat. 1620; Pub. L. 98–473, title II, §220(b), Oct. 12, 1984, 98 Stat. 2028; Pub. L. 99–603, title VII, §701, Nov. 6, 1986, 100 Stat. 3445; Pub. L. 100–525, §9(n), Oct. 24, 1988, 102 Stat. 2620; Pub. L. 100–690, title VII, §7343(a), Nov. 18, 1988, 102 Stat. 4470; Pub. L. 101–649, title V, §§504(a), 545(e), title VI, §603(b)(2), Nov. 29, 1990, 104 Stat. 5049, 5066, 5085; Pub. L. 102–232, title III, §§306(a)(4), (c)(7), 307(m)(2), 309(b)(9), Dec. 12, 1991, 105 Stat. 1751, 1753, 1757, 1759; Pub. L. 103–322, title II, §20301(a), title XIII, §130001(a), Sept. 13, 1994, 108 Stat. 1823, 2023; Pub. L. 103–416, title II, §§219(h), 224(b), Oct. 25, 1994, 108 Stat. 4317, 4324; Pub. L. 104–132, title IV, §§436(a), (b)(1), 438(a), 440(c), (h), Apr. 24, 1996, 110 Stat. 1275, 1277, 1279; Pub. L. 104–208, div. C, title III, §§306(a), (d), 308(g)(10)(H), 371(b)(6),Sept. 30, 1996, 110 Stat. 3009–607, 3009–612, 3009–625, 3009–645; Pub. L. 109–13, div. B, title I, §§101(e), (f), 106(a), May 11, 2005, 119 Stat. 305, 310.)
 
 #### References in Text
 
@@ -280,7 +280,7 @@ Subsec. (c)(1). Pub. L. 104–132, §440(h)(1), designated existing provisions o
 
 Subsec. (c)(2). Pub. L. 104–132, §440(h)(2), as amended by Pub. L. 104–208, §§306(d), 308(g)(10)(H), added par. (2).
 
-Subsec. (h). Pub. L. 104–132, §438(a), amended subsec. (h) generally, restating prior single par. as par. (1) andadding pars. (2) and (3) authorizing the Attorney General to deport an alien prior to the completion of a sentence of imprisonment and requiring notice to deported aliens of penalties for reentry.
+Subsec. (h). Pub. L. 104–132, §438(a), amended subsec. (h) generally, restating prior single par. as par. (1) and adding pars. (2) and (3) authorizing the Attorney General to deport an alien prior to the completion of a sentence of imprisonment and requiring notice to deported aliens of penalties for reentry.
 
 Subsec. (i). Pub. L. 104–132, §436(b)(1), inserted at end “Nothing in this subsection shall be construed to create any substantive or procedural right or benefit that is legally enforceable by any party against the United States or its agencies or officers or any other person.”
 
@@ -344,7 +344,7 @@ Pub. L. 109–13, div. B, title I, §106(b), May 11, 2005, 119 Stat. 311, provid
 
 #### Effective Date of 1996 Amendments
 
-Section 306(c) of div. C of Pub. L. 104–208, as amended by Pub. L. 104–302, §2(1), Oct. 11, 1996, 110 Stat. 3657, provided that:
+Pub. L. 104–208, div. C, title III, §306(c), Sept. 30, 1996, 110 Stat. 3009–612, as amended by Pub. L. 104–302, §2(1), Oct. 11, 1996, 110 Stat. 3657, provided that:
 
 “(1)
 
@@ -354,9 +354,9 @@ In general.—Subject to paragraph (2), the amendments made by subsections (a) a
 
 Limitation.—Paragraph (1) shall not be considered to invalidate or to require the reconsideration of any judgment or order entered under section 106 of the Immigration and Nationality Act \[former 8 U.S.C. 1105a\], as amended by section 440 of Public Law 104–132.”
 
-\[Section 2 of Pub. L. 104–302 provided that the amendment made by that section to section 306(c)(1) of Pub. L. 104–208, set out above, is effective Sept. 30, 1996.\]
+\[Pub. L. 104–302, §2, Oct. 11, 1996, 110 Stat. 3657, provided that the amendment made by section 2 to section 306(c)(1) of Pub. L. 104–208, set out above, is effective Sept. 30, 1996.\]
 
-Section 306(d) of div. C of Pub. L. 104–208 provided that the amendment made by that section is effective as if included in the enactment of the Antiterrorism and Effective Death Penalty Act of 1996, Pub. L. 104–132.
+Pub. L. 104–208, div. C, title III, §306(d), Sept. 30, 1996, 110 Stat. 3009–612, provided that the amendment made by section 306(d) is effective as if included in the enactment of the Antiterrorism and Effective Death Penalty Act of 1996, Pub. L. 104–132.
 
 Amendment by section 308(g)(10)(H) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
@@ -364,27 +364,27 @@ Amendment by section 371(b)(6) of Pub. L. 104–208 effective Sept. 30, 1996, se
 
 For delayed effective date of amendment by section 440(c) of Pub. L. 104–132, see section 303(b)(2) of Pub. L. 104–208, set out as a note under section 1226 of this title.
 
-Section 436(b)(3) of Pub. L. 104–132 provided that: “The amendments made by this subsection \[amending this section and provisions set out as a note under section 1101 of this title\] shall take effect as if included in the enactment of the Immigration and Nationality Technical Corrections Act of 1994 (Public Law 103–416).”
+Pub. L. 104–132, title IV, §436(b)(3), Apr. 24, 1996, 110 Stat. 1275, provided that: “The amendments made by this subsection \[amending this section and provisions set out as a note under section 1101 of this title\] shall take effect as if included in the enactment of the Immigration and Nationality Technical Corrections Act of 1994 (Public Law 103–416).”
 
 #### Effective Date of 1994 Amendments
 
 Amendment by section 219(h) of Pub. L. 103–416 effective as if included in the enactment of the Immigration Act of 1990, Pub. L. 101–649, see section 219(dd) of Pub. L. 103–416, set out as a note under section 1101 of this title.
 
-Section 224(c) of Pub. L. 103–416 provided that: “The amendments made by this section \[amending this section and section 1252a of this title\] shall apply to all aliens whose adjudication of guilt or guilty plea is entered in the record after the date of enactment of this Act \[Oct. 25, 1994\].”
+Pub. L. 103–416, title II, §224(c), Oct. 25, 1994, 108 Stat. 4324, provided that: “The amendments made by this section \[amending this section and section 1252a of this title\] shall apply to all aliens whose adjudication of guilt or guilty plea is entered in the record after the date of enactment of this Act \[Oct. 25, 1994\].”
 
-Section 20301(b) of Pub. L. 103–322 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect October 1, 1994.”
+Pub. L. 103–322, title II, §20301(b), Sept. 13, 1994, 108 Stat. 1824, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect October 1, 1994.”
 
 #### Effective Date of 1991 Amendment
 
-Amendment by section 306(a)(4), (c)(7) of Pub. L. 102–232 effective as if included in the enactment of the Immigration Act of 1990, Pub. L. 101–649, see section 310(1) of Pub. L. 102–232, set out as a note under section 1101 of this title.
+Amendment by section 306(a)(4), (c)(7) of Pub. L. 102–232 effective as if included in the enactment of theImmigration Act of 1990, Pub. L. 101–649, see section 310(1) of Pub. L. 102–232, set out as a note under section 1101 of this title.
 
-Section 307(m)(2) of Pub. L. 102–232 provided that the amendment made by that section is effective as if included in section 603(b) of the Immigration Act of 1990, Pub. L. 101–649.
+Pub. L. 102–232, title III, §307(m), Dec. 12, 1991, 105 Stat. 1757, provided that the amendment made by section 307(m)(2) of Pub. L. 102–232 is effective as if included in section 603(b) of the Immigration Act of 1990, Pub. L. 101–649.
 
 #### Effective Date of 1990 Amendment
 
-Section 504(c) of Pub. L. 101–649 provided that: “The amendments made by this section \[amending this section and section 1226 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 29, 1990\].”
+Pub. L. 101–649, title V, §504(c), Nov. 29, 1990, 104 Stat. 5050, provided that: “The amendments made by this section \[amending this section and section 1226 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 29, 1990\].”
 
-Section 545(g) of Pub. L. 101–649, as amended by Pub. L. 104–208, div. C, title III, §308(b)(6)(B), Sept. 30, 1996, 110 Stat. 3009–623, provided that:
+Pub. L. 101–649, title V, §545(g), Nov. 29, 1990, 104 Stat. 5066, as amended by Pub. L. 104–208, div. C, title III, §308(b)(6)(B), Sept. 30, 1996, 110 Stat. 3009–623, provided that:
 
 “(1)
 
@@ -412,7 +412,7 @@ Amendment by section 603(b)(2) of Pub. L. 101–649 not applicable to deportatio
 
 #### Effective Date of 1988 Amendment
 
-Section 7343(c) of Pub. L. 100–690 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1254 of this title\] shall apply to any alien who has been convicted, on or after the date of the enactment of this Act \[Nov. 18, 1988\], of an aggravated felony.”
+Pub. L. 100–690, title VII, §7343(c), Nov. 18, 1988, 102 Stat. 4470, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1254 of this title\] shall apply to any alien who has been convicted, on or after the date of the enactment of this Act \[Nov. 18, 1988\], of an aggravated felony.”
 
 #### Effective Date of 1984 Amendment
 
@@ -424,7 +424,7 @@ Amendment by Pub. L. 97–116 effective Dec. 29, 1981, see section 21(a) of Pub.
 
 #### Regulations
 
-Section 545(d) of Pub. L. 101–649 provided that: “Within 6 months after the date of the enactment of this Act \[Nov. 29, 1990\], the Attorney General shall issue regulations with respect to—
+Pub. L. 101–649, title V, §545(d), Nov. 29, 1990, 104 Stat. 5066, provided that: “Within 6 months after the date of the enactment of this Act \[Nov. 29, 1990\], the Attorney General shall issue regulations with respect to—
 
 &emsp;“(1) the period of time in which motions to reopen and to reconsider may be offered in deportation proceedings, which regulations include a limitation on the number of such motions that may be filed and a maximum time period for the filing of such motions; and
 
@@ -440,7 +440,7 @@ Pub. L. 109–13, div. B, title I, §106(c), May 11, 2005, 119 Stat. 311, provid
 
 #### Transitional Rule Cases
 
-Pub. L. 109–13, div. B, title I, §106(d), May 11, 2005, 119 Stat. 311, provided that: “A petition for review filedunder former section 106(a) of the Immigration and Nationality Act \[8 U.S.C. 1105a(a)\] (as in effect before its repeal by section 306(b) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[Pub. L. 104–208, div. C\] (8 U.S.C. 1252 note)) shall be treated as if it had been filed as a petition for review under section 242 of the Immigration and Nationality Act (8 U.S.C. 1252), as amended by this section. Notwithstanding any other provision of law (statutory or nonstatutory), including section 2241 of title 28, United States Code, or any other habeas corpus provision, and sections 1361 and 1651 of such title, such petition for review shall be the sole and exclusive means for judicial review of an order of deportation or exclusion.”
+Pub. L. 109–13, div. B, title I, §106(d), May 11, 2005, 119 Stat. 311, provided that: “A petition for review filed under former section 106(a) of the Immigration and Nationality Act \[8 U.S.C. 1105a(a)\] (as in effect before its repeal by section 306(b) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[Pub. L. 104–208, div. C\] (8 U.S.C. 1252 note)) shall be treated as if it had been filed as a petition for review under section 242 of the Immigration and Nationality Act (8 U.S.C. 1252), as amended by this section. Notwithstanding any other provision of law (statutory or nonstatutory), including section 2241 of title 28, United States Code, or any other habeas corpus provision, and sections 1361 and 1651 of such title, such petition for review shall be the sole and exclusive means for judicial review of an order of deportation or exclusion.”
 
 #### References to Order of Removal Deemed To Include Order of Exclusion and Deportation
 
@@ -448,7 +448,7 @@ For purposes of carrying out this chapter, any reference in law to an order of r
 
 #### Authority To Accept Certain Assistance
 
-Section 130008 of Pub. L. 103–322 provided that:
+Pub. L. 103–322, title XIII, §130008, Sept. 13, 1994, 108 Stat. 2029, provided that:
 
 “(a)
 

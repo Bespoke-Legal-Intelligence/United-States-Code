@@ -104,7 +104,7 @@ Amendment by Pub. L. 99–514 applicable for purposes of determining interest fo
 
 #### Effective Date of 1979 Amendment
 
-Section 4(c)(1) of Pub. L. 96–167 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to levies made after the date of the enactment of this Act \[Dec. 29, 1979\].”
+Pub. L. 96–167, §4(c)(1), Dec. 29, 1979, 93 Stat. 1276, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to levies made after the date of the enactment of this Act \[Dec. 29, 1979\].”
 
 #### Effective Date of 1966 Amendment
 

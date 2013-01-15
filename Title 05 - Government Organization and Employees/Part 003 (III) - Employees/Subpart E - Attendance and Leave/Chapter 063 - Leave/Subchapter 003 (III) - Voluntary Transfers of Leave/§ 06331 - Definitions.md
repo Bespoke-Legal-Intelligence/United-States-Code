@@ -18,17 +18,17 @@ For the purpose of this subchapter—
 
 #### Effective Date of 1993 Amendment
 
-Section 6 of Pub. L. 103–103 provided that: “Except as provided in section 2 \[enacting and repealing provisions set out as notes under this section\], this Act \[amending this section and sections 6337, 6361, 6362, and 6373 of this title and enacting provisions set out as a note under section 6301 of this title\] and the amendments made by this Act shall take effect as of the 120th day after the date of the enactment of this Act \[Oct. 8, 1993\] or such earlier date as the Office of Personnel Management may by regulation prescribe.”
+Pub. L. 103–103, §6, Oct. 8, 1993, 107 Stat. 1024, provided that: “Except as provided in section 2 \[enacting and repealing provisions set out as notes under this section\], this Act \[amending this section and sections 6337, 6361, 6362, and 6373 of this title and enacting provisions set out as a note under section 6301 of this title\] and the amendments made by this Act shall take effect as of the 120th day after the date of the enactment of this Act \[Oct. 8, 1993\] or such earlier date as the Office of Personnel Management may by regulation prescribe.”
 
 #### Repeals
 
-Section 2(d) of Pub. L. 100–566, which provided for the repeal of subchapters III (§6331 et seq.) and IV (§6361 et seq.) of this chapter effective 5 years after Oct. 31, 1988, and which also contained savings provisions for continued availability of certain leave as if such program had not been terminated, was repealed by Pub. L. 103–103, §2, Oct. 8, 1993, 107 Stat. 1022, effective Oct. 30, 1993.
+Pub. L. 100–566, §2(d), Oct. 31, 1988, 102 Stat. 2844, which provided for the repeal of subchapters III (§6331 et seq.) and IV (§6361 et seq.) of this chapter effective 5 years after Oct. 31, 1988, and which also contained savings provisions for continued availability of certain leave as if such program had not been terminated, was repealed by Pub. L. 103–103, §2, Oct. 8, 1993, 107 Stat. 1022, effective Oct. 30, 1993.
 
-\[Section 2 of Pub. L. 103–103 provided that the repeal made by that section is effective Oct. 30, 1993.\]
+\[Pub. L. 103–103, §2, Oct. 8, 1993, 107 Stat. 1022, provided that the repeal made by that section is effective Oct. 30, 1993.\]
 
 #### Implementation of Leave Transfer and Leave Bank Programs
 
-Section 2(c) of Pub. L. 100–566 provided that:
+Pub. L. 100–566, §2(c), Oct. 31, 1988, 102 Stat. 2844, provided that:
 
 “(1) No later than 3 months after the date of the enactment of this Act \[Oct. 31, 1988\], the Office of Personnel Management shall prescribe regulations to implement leave transfer programs pursuant to the amendments made by this Act \[see Short Title of 1988 Amendment note set out under section 6301 of this title\].
 
@@ -42,7 +42,7 @@ Section 2(c) of Pub. L. 100–566 provided that:
 
 #### Report to Congress
 
-Section 2(e) of Pub. L. 100–566 provided that:
+Pub. L. 100–566, §2(e), Oct. 31, 1988, 102 Stat. 2845, provided that:
 
 “(1)(A) Within 2 years after the date of the enactment of this Act \[Oct. 31, 1988\] and again no later than 6 months before the scheduled termination date of any program under subchapter III or subchapter IV of chapter 63 of title 5, United States Code (excluding any program under sections 6339 and 6372 of such chapter) the Office of Personnel Management shall submit a written report to the Congress with respect to the operations of such programs.
 
@@ -52,5 +52,5 @@ Section 2(e) of Pub. L. 100–566 provided that:
 
 #### Continuation of Temporary Leave Transfer Programs
 
-Section 2(f) of Pub. L. 100–566 provided that: “Any temporary program allowing for transfers of leave among officers or employees of the Federal Government may, if such program is being implemented with respect to an agency (or any unit thereof) as of the date of the enactment of this Act \[Oct. 31, 1988\], continue to be implemented with respect to such agency (or unit), notwithstanding any provision of law which wouldotherwise terminate the authority for such program, pending the commencement of a leave transfer program with respect to such agency pursuant to amendments made by this Act \[see Short Title of 1988 Amendment note set out under section 6301 of this title\]. The Office of Personnel Management (or, in the case of a program established by another agency, such other agency) shall prescribe regulations to ensure that any leave which has been transferred to the credit of an officer or employee and which remains unused as of the date on which any such temporary program terminates (and a successor program commences pursuant to amendments made by this Act) shall not be lost by reason of that termination.”
+Pub. L. 100–566, §2(f), Oct. 31, 1988, 102 Stat. 2845, provided that: “Any temporary program allowing for transfers of leave among officers or employees of the Federal Government may, if such program is being implemented with respect to an agency (or any unit thereof) as of the date of the enactment of this Act \[Oct. 31, 1988\], continue to be implemented with respect to such agency (or unit), notwithstanding any provision of law which would otherwise terminate the authority for such program, pending the commencement of a leave transfer program with respect to such agency pursuant to amendments made by this Act \[see Short Title of 1988 Amendment note set out under section 6301 of this title\]. The Office of Personnel Management (or, in the case of a program established by another agency, such other agency) shall prescribe regulations to ensure that any leave which has been transferred to the credit of an officer or employee and which remains unused as of the date on which any such temporary program terminates (and a successor program commences pursuant to amendments made by this Act) shall not be lost by reason of that termination.”
 

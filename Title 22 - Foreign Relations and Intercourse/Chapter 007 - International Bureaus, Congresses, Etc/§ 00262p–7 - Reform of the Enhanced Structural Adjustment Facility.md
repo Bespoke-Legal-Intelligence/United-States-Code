@@ -1,10 +1,10 @@
 ### §262p–7. Reform of the Enhanced Structural Adjustment Facility
 
-The Secretary of the Treasury shall instruct the United States Executive Directors at the International Bank for Reconstruction and Development (World Bank) and the International Monetary Fund (IMF) to use the voice and vote of the United States to promote the establishment of poverty reduction strategy policies and procedures at the World Bank and the IMF that support countries’ efforts under programs developed and jointly administered by the World Bank and the IMF that have the following components:
+The Secretary of the Treasury shall instruct the United States Executive Directors at the International Bank for Reconstruction and Development (World Bank) and the International Monetary Fund (IMF) to use the voice and vote of the United States to promote the establishment of poverty reduction strategy policies andprocedures at the World Bank and the IMF that support countries’ efforts under programs developed and jointly administered by the World Bank and the IMF that have the following components:
 
 &emsp;(1) The development of country-specific poverty reduction strategies (Poverty Reduction Strategies) under the leadership of such countries that—
 
-&emsp;&emsp;(A) will be set out in poverty reduction strategy papers (PRSPs) that provide the basis for the lending operations of the International Development Association (IDA) andthe reformed Enhanced Structural Adjustment Facility (ESAF);
+&emsp;&emsp;(A) will be set out in poverty reduction strategy papers (PRSPs) that provide the basis for the lending operations of the International Development Association (IDA) and the reformed Enhanced Structural Adjustment Facility (ESAF);
 
 &emsp;&emsp;(B) will reflect the World Bank's role in poverty reduction and the IMF's role in macroeconomic issues;
 

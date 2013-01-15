@@ -92,7 +92,7 @@ Subsec. (f). Act June 25, 1938, §10(g), inserted second sentence.
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
+Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting anyright, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
 
 #### Effective Date of 1958 Amendment
 
@@ -100,11 +100,11 @@ Amendment by Pub. L. 85–927 effective Sept. 6, 1958, except as otherwise indic
 
 #### Effective Date of 1950 Amendment
 
-Section 404(c) of act Aug. 28, 1950, provided that: “The amendments made by subsections (a) and (b) of this section \[amending this section and section 1321 of this title\] shall be effective January 1, 1950.”
+Act Aug. 28, 1950, ch. 809, title IV, §404(c), 64 Stat. 560, provided that: “The amendments made by subsections (a) and (b) of this section \[amending this section and section 1321 of this title\] shall be effective January 1, 1950.”
 
 #### Termination Date
 
-Section 4 of act Aug. 6, 1947, provided: “Section 603 of the War Mobilization and Reconversion Act of 1944 \[formerly set out as a note under section 1651 of Appendix to Title 50, War and National Defense\] (terminating the provisions of such Act \[sections 1651 to 1678 of Appendix to title 50\] on June 30, 1947) shall not be applicable in the case of the amendments made by title IV of such Act \[amending sections 1666 and 1667 of Appendix to Title 50\] to the Social Security Act \[this section and section 1321 of this title\].”
+Act Aug. 6, 1947, ch. 510, §4, 61 Stat. 794, provided: “Section 603 of the War Mobilization and Reconversion Act of 1944 \[formerly set out as a note under section 1651 of Appendix to Title 50, War and National Defense\] (terminating the provisions of such Act \[sections 1651 to 1678 of Appendix to title 50\] on June 30, 1947) shall not be applicable in the case of the amendments made by title IV of such Act \[amending sections 1666 and 1667 of Appendix to Title 50\] to the Social Security Act \[this section and section 1321 of this title\].”
 
 #### Payments to States
 

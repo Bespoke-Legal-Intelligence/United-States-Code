@@ -10,7 +10,7 @@ As used in this section—
 
 &emsp;&emsp;(B) the Corporation, with respect to residential mortgage loans and mortgage-backed securities held by any bridge depository institution pursuant to section 1821(n) of this title; and
 
-&emsp;&emsp;(C) the Board, with respect to any mortgage or mortgage-backed securities or pool of securities held, owned, or controlled by or on behalf of a Federal reserve bank, other than mortgages or securities held, owned, or controlled in connection with open market operations under sections 348a and 353 to 359 of this title,<sup>1</sup> or as collateral for an advance or discount that is not in default;
+&emsp;&emsp;(C) the Board, with respect to any mortgage or mortgage-backed securities or poolof securities held, owned, or controlled by or on behalf of a Federal reserve bank, other than mortgages or securities held, owned, or controlled in connection with open market operations under sections 348a and 353 to 359 of this title,<sup>1</sup> or as collateral for an advance or discount that is not in default;
 
 &emsp;(2) the term “consumer” has the same meaning as in section 1602 of title 15;
 
@@ -82,7 +82,7 @@ In General.—In the case of any foreclosure on a federally-related mortgage loa
 
 &emsp;“(1) the provision, by such successor in interest of a notice to vacate to any bona fide tenant at least 90 days before the effective date of such notice; and
 
-&emsp;“(2) the rights of any bona fide tenant, as of the date of such notice of foreclosure—
+&emsp;“(2) the rights of any bona fide tenant—
 
 &emsp;&emsp;“(A) under any bona fide lease entered into before the notice of foreclosure to occupy the premises until the end of the remaining term of the lease, except that a successor in interest may terminate a lease effective on the date of sale of the unit to a purchaser who will occupy the unit as a primary residence, subject to the receipt by the tenant of the 90 day notice under paragraph (1); or
 
@@ -102,9 +102,7 @@ Bona Fide Lease or Tenancy.—For purposes of this section, a lease or tenancy s
 
 “(c)
 
-Definition.—For purposes of this section, the term ‘federally-related mortgage loan’ has the same meaning as in section 3 of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2602).”
-
-\[Pub. L. 111–203, title XIV, §§1400(c), 1484(1), July 21, 2010, 124 Stat. 2136, 2204, provided that, section 702 of Pub. L. 111–22, set out above, is amended, effective on the date on which final regulations implementing such amendment take effect, or on the date that is 18 months after the designated transfer date (defined in section 1495 of Pub. L. 111–203, set out as a note under section 1601 of Title 15, Commerce and Trade) if such regulations have not been issued by that date, in subsection (a)(2), by striking “, as of the date of such notice of foreclosure” and, in subsection (c), by inserting after the period the following: “For purposes of this section, the date of a notice of foreclosure shall be deemed to be the date on which complete title to a property is transferred to a successor entity or person as a result of an order of a court or pursuant to provisions in a mortgage, deed of trust, or security deed.”\]
+Definition.—For purposes of this section, the term ‘federally-related mortgage loan’ has the same meaning as in section 3 of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2602). For purposes of this section, the date of a notice of foreclosure shall bedeemed to be the date on which complete title to a property is transferred to a successor entity or person as a result of an order of a court or pursuant to provisions in a mortgage, deed of trust, or security deed.”
 
 \[Section 702 of Pub. L. 111–22, set out above, repealed Dec. 31, 2014, see section 704 of Pub. L. 111–22, set out as a Termination Date of 2009 Amendment note under section 1437f of Title 42, The Public Health and Welfare.\]
 

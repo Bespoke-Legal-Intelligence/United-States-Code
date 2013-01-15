@@ -32,7 +32,7 @@
 
 &emsp;&emsp;&emsp;(ii) the date of mailing of a determination described in clause (vi) of subparagraph (B),
 
-> &emsp;&emsp;an interested party who is a party to the proceeding in connection with which thematter arises may commence an action in the United States Court of International Trade by filing a summons, and within thirty days thereafter a complaint, each with the content and in the form, manner, and style prescribed by the rules of that court, contesting any factual findings or legal conclusions upon which the determination is based.
+> &emsp;&emsp;an interested party who is a party to the proceeding in connection with which the matter arises may commence an action in the United States Court of International Trade by filing a summons, and within thirty days thereafter a complaint, each with the content and in the form, manner, and style prescribed by the rules of that court, contesting any factual findings or legal conclusions upon which the determination is based.
 
 #### (B) Reviewable determinations
 
@@ -76,7 +76,7 @@
 
 &emsp;&emsp;&emsp;(ii) any interested party seeking review of the determination under paragraph (1), (2), or (3) of this subsection has provided timely notice under subsection (g)(3)(B) of this section.
 
-> &emsp;&emsp;If such an interested party files a summons and complaint under this subsection after dismissal by the binational panel, and if a request for an extraordinary challenge committee is made with respect to the decision by the binational panel to dismiss—
+> &emsp;&emsp;If such an interested party files a summons and complaint under this subsection afterdismissal by the binational panel, and if a request for an extraordinary challenge committee is made with respect to the decision by the binational panel to dismiss—
 
 &emsp;&emsp;&emsp;(I) judicial review under this subsection shall be stayed during consideration by the committee of the request, and
 
@@ -310,7 +310,7 @@ For purposes of this section—
 
 #### (B) General rule
 
-&emsp;&emsp;In the case of a determination for which binational panel review is requested pursuant to article 1904 of the NAFTA or of theAgreement, entries of merchandise covered by such determination shall be liquidated in accordance with the determination of the administering authority or the Commission, if they are entered, or withdrawn from warehouse, for consumption on or before the date of publication in the Federal Register by the administering authority of notice of a final decision of a binational panel, or of an extraordinary challenge committee, not in harmony with that determination. Such notice of a decision shall be published within 10 days of the date of the issuance of the panel or committee decision.
+&emsp;&emsp;In the case of a determination for which binational panel review is requested pursuant to article 1904 of the NAFTA or of the Agreement, entries of merchandise covered by such determination shall be liquidated in accordance with the determination of the administering authority or the Commission, if they are entered, or withdrawn from warehouse, for consumption on or before the date of publication in the Federal Register by the administering authority of notice of a final decision of a binational panel, or of an extraordinary challenge committee, not in harmony with that determination. Such notice of a decision shall be published within 10 days of the date of the issuance of the panel or committee decision.
 
 #### (C) Suspension of liquidation
 
@@ -342,7 +342,7 @@ For purposes of this section—
 
 #### (B) Application if subparagraph (A) held unconstitutional
 
-&emsp;&emsp;In the event that the provisions of subparagraph (A) are held unconstitutional under the provisions of subparagraphs (A) and (H) of paragraph (4), the provisions of this subparagraph shall take effect. In such event, the President is authorized on behalf of the United States to accept, as a whole, the decision of a binational panel or extraordinary challenge committee remanding the determination to the administering authority or the Commission within the period specified by the panel or committee. Upon acceptance by the President of such a decision, the administering authority or the Commission shall, within the period specified by the panel or committee, take action not inconsistent with such decision. Any action taken by the President, the administering authority, or the Commission under this subparagraph shall not be subject to judicial review, and no court of the United States shall have power or jurisdiction to review such action on any question of law or fact by an action in the nature of mandamus or otherwise.
+&emsp;&emsp;In the event that the provisions of subparagraph (A) are held unconstitutional under the provisions of subparagraphs (A) and (H) of paragraph (4), the provisions ofthis subparagraph shall take effect. In such event, the President is authorized on behalf of the United States to accept, as a whole, the decision of a binational panel or extraordinary challenge committee remanding the determination to the administering authority or the Commission within the period specified by the panel or committee. Upon acceptance by the President of such a decision, the administering authority or the Commission shall, within the period specified by the panel or committee, take action not inconsistent with such decision. Any action taken by the President, the administering authority, or the Commission under this subparagraph shall not be subject to judicial review, and no court of the United States shall have power or jurisdiction to review such action on any question of law or fact by an action in the nature of mandamus or otherwise.
 
 #### (8) Requests for binational panel review
 
@@ -350,7 +350,7 @@ For purposes of this section—
 
 #### (i) General rule
 
-&emsp;&emsp;&emsp;An interested party who was a party to the proceeding in which a determination is made may request binational panel review of such determination by filing a request with the United States Secretary by nolater than the date that is 30 days after the date described in subparagraph (A), (B), or (E) of subsection (a)(5) of this section that is applicable to such determination. Receipt of such request by the United States Secretary shall be deemed to be a request for binational panel review within the meaning of article 1904(4) of the NAFTA or of the Agreement. Such request shall contain such information and be in such form, manner, and style as the administering authority, in consultation with the Commission, shall prescribe by regulations.
+&emsp;&emsp;&emsp;An interested party who was a party to the proceeding in which a determination is made may request binational panel review of such determination by filing a request with the United States Secretary by no later than the date that is 30 days after the date described in subparagraph (A), (B), or (E) of subsection (a)(5) of this section that is applicable to such determination. Receipt of such request by the United States Secretary shall be deemed to be a request for binational panel review within the meaning of article 1904(4) of the NAFTA or of the Agreement. Such request shall contain such information and be in such form, manner, and style as the administering authority, in consultation with the Commission, shall prescribe by regulations.
 
 #### (ii) Suspension of time to request binational panel review under the NAFTA
 
@@ -443,6 +443,10 @@ For purposes of this section—
 &emsp;&emsp;&emsp;(III) an interested party that was a party to the proceeding in connection with which panel review was requested, but only if the time for filing notices of appearance in the panel review has not expired.
 
 (June 17, 1930, ch. 497, title IV, §516A, as added Pub. L. 96–39, title X, §1001(a), July 26, 1979, 93 Stat. 300; amended Pub. L. 96–417, title VI, §§601(7), 608, Oct. 10, 1980, 94 Stat. 1744, 1745; Pub. L. 96–542, §2, Dec. 17, 1980, 94 Stat. 3210; Pub. L. 97–164, title I, §163(a)(2), Apr. 2, 1982, 96 Stat. 49; Pub. L. 98–573, title VI, §623(a), Oct. 30, 1984, 98 Stat. 3040; Pub. L. 99–514, title XVIII, §1888(6), Oct. 22, 1986, 100 Stat. 2925; Pub. L. 100–449, title IV, §401, Sept. 28, 1988, 102 Stat. 1878; Pub. L. 101–382, title I, §134(a)(3), Aug. 20, 1990, 104 Stat. 649; Pub. L. 103–182, title IV, §411, Dec. 8, 1993, 107 Stat. 2140; Pub. L. 103–465, title I, §129(e), title II, §§220(b), 270(a)(1)(N), 271(b), Dec. 8, 1994, 108 Stat. 4838, 4864, 4917, 4921; Pub. L. 104–295, §§20(a)(1), 21(c)(3), 22, Oct. 11, 1996, 110 Stat. 3526, 3530, 3531; Pub. L. 109–432, div. D, title III, §3002, Dec. 20, 2006, 120 Stat. 3173.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 501(c) of Pub. L. 100–449, see Effective and Termination Dates of 1988 Amendment note below.</i>
 
 #### References in Text
 
@@ -542,13 +546,13 @@ Subsec. (g)(3)(A)(iv). Pub. L. 101–382, §134(a)(3)(B)(i), added cl. (iv).
 
 Subsec. (g)(3)(B). Pub. L. 101–382, §134(a)(3)(B)(ii), inserted “or (iv)” after “subparagraph (A)(i)”.
 
-<b>1988</b>—Subsec. (a)(5). Pub. L. 100–449, §401(a), added par. (5).
+<b>1988</b>—Subsec. (a)(5). Pub. L. 100–449, §401(a), temporarily added par. (5). See Effective and Termination Dates of 1988 Amendment note below.
 
-Subsec. (b)(3). Pub. L. 100–449, §401(d), added par. (3).
+Subsec. (b)(3). Pub. L. 100–449, §401(d), temporarily added par. (3). See Effective and Termination Dates of 1988 Amendment note below.
 
-Subsec. (f)(5) to (7). Pub. L. 100–449, §401(b), added pars. (5) to (7).
+Subsec. (f)(5) to (7). Pub. L. 100–449, §401(b), temporarily added pars. (5) to (7). See Effective and Termination Dates of 1988 Amendment note below.
 
-Subsec. (g). Pub. L. 100–449, §401(c), added subsec. (g).
+Subsec. (g). Pub. L. 100–449, §401(c), temporarily added subsec. (g). See Effective and Termination Dates of 1988 Amendment note below.
 
 <b>1986</b>—Subsec. (a)(3). Pub. L. 99–514 substituted “(2)(A)(i)(II)” for “(2)(A)(ii)”.
 
@@ -600,7 +604,7 @@ Amendment by Pub. L. 100–449 effective on date United States-Canada Free-Trade
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–573 applicable with respect to civil actions pending on, or filed on or after, Oct. 30, 1984, see section 626(b)(2) of Pub. L. 98–573, set out as a note under section 1671 of this title.
+Amendment by Pub. L. 98–573 applicable with respect to civil actions pending on, or filed on or after, Oct. 30,1984, see section 626(b)(2) of Pub. L. 98–573, set out as a note under section 1671 of this title.
 
 #### Effective Date of 1982 Amendment
 
@@ -608,7 +612,7 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 #### Effective Date of 1980 Amendments
 
-Section 3 of Pub. L. 96–542 provided that: “The amendments made by this Act \[amending this section and provisions set out as a note under section 251 of Title 28, Judiciary and Judicial Procedure\] shall be effective as of November 1, 1980.”
+Pub. L. 96–542, §3, Dec. 17, 1980, 94 Stat. 3210, provided that: “The amendments made by this Act \[amending this section and provisions set out as a note under section 251 of Title 28, Judiciary and Judicial Procedure\] shall be effective as of November 1, 1980.”
 
 Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respect to civil actions pending on or commenced on or after such date, see section 701(a) of Pub. L. 96–417, set out as a note under section 251 of title 28.
 
@@ -628,7 +632,7 @@ Transitional Rules.—
 
 Certain protests, petitions, actions, etc.—The amendments made by this title \[enacting this section and amending sections 1514, 1515, and 1516 of this title and sections 1541, 1582, 2632, 2633, and 2637 of Title 28, Judiciary and Judicial Procedure\] shall not apply with respect to—
 
-&emsp;&emsp;“(A) any protest, petition, or notice of desire to contest filed before the effective date \[Jan. 1, 1980\]under section 514, 516(a), or 516(d), respectively, of the Tariff Act of 1930 \[section 1514, 1516(a), or 1516(d) of this title\];
+&emsp;&emsp;“(A) any protest, petition, or notice of desire to contest filed before the effective date \[Jan. 1, 1980\] under section 514, 516(a), or 516(d), respectively, of the Tariff Act of 1930 \[section 1514, 1516(a), or 1516(d) of this title\];
 
 &emsp;&emsp;“(B) any civil action commenced before the effective date \[Jan. 1, 1980\] under section 2632 of title 28 of the United States Code; or
 

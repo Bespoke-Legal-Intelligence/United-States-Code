@@ -30,7 +30,7 @@ Except as otherwise provided in this chapter, the following conditions are appli
 
 &emsp;(8)(A) The Secretary shall notify the Governor and the appropriate local board and chief elected official of, and consult with the Governor and such board and official concerning, any activity to be funded by the Secretary under this chapter within the corresponding State or local area.
 
-&emsp;(B) The Governor shall notify the appropriate local board and chief elected official of,and consult with such board and official concerning, any activity to be funded by the Governor under this chapter within the corresponding local area.
+&emsp;(B) The Governor shall notify the appropriate local board and chief elected official of, and consult with such board and official concerning, any activity to be funded by the Governor under this chapter within the corresponding local area.
 
 &emsp;(9)(A) All education programs for youth supported with funds provided under part D of subchapter II shall be consistent with applicable State and local educational standards.
 

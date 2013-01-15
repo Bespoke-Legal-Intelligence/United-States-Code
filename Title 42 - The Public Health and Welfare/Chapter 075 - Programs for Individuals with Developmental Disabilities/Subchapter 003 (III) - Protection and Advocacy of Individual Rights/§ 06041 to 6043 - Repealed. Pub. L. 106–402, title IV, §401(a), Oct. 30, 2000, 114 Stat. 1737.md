@@ -4,7 +4,7 @@ Section 6041, Pub. L. 88–164, title I, §141, as added Pub. L. 98–527, §2, 
 
 A prior section 6041, Pub. L. 88–164, title I, §125, as added Pub. L. 94–103, title I, §105, Oct. 4, 1975, 89 Stat. 488, authorized construction, renovation, or modernization of buildings to be used by university-affiliated facilities, prior to the general amendment of former subchapter II of this chapter by Pub. L. 95–602, title V, §509, Nov. 6, 1978, 92 Stat. 3008.
 
-Section 6042, Pub. L. 88–164, title I, §142, as added Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2679; amended Pub. L. 100–146, title III, §301, Oct. 29, 1987, 101 Stat. 851; Pub. L. 101–496, §15, Oct. 31, 1990, 104 Stat. 1198; Pub. L. 103–230, title III, §303, Apr. 6, 1994, 108 Stat. 314; Pub. L. 105–12, §9(<i>l</i>)(2), Apr. 30, 1997, 111 Stat. 28, related to State systems to protect and advocate the rights of individuals with developmental disabilities.
+Section 6042, Pub. L. 88–164, title I, §142, as added Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2679; amended Pub. L. 100–146, title III, §301, Oct. 29, 1987, 101 Stat. 851; Pub. L. 101–496, §15, Oct. 31, 1990, 104 Stat. 1198; Pub. L. 103–230, title III, §303, Apr. 6, 1994, 108 Stat. 314; Pub. L. 105–12, §9(l)(2), Apr. 30, 1997, 111 Stat. 28, related to State systems to protect and advocate the rights of individuals with developmental disabilities.
 
 A prior section 6042, Pub. L. 88–164, title I, §126, as added Pub. L. 94–103, title I, §105, Oct. 4, 1975, 89 Stat. 488, related to grants for projects and to application requirements, prior to the general amendment of former subchapter II of this chapter by Pub. L. 95–602, title V, §509, Nov. 6, 1978, 92 Stat. 3008.
 

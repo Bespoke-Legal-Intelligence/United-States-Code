@@ -26,7 +26,7 @@
 
 &emsp;&emsp;&emsp;(i) a graduate or professional student shall not be eligible to receive a Federal Direct Stafford loan under this part; and
 
-&emsp;&emsp;&emsp;(ii) the maximum annual amount of Federal Direct Unsubsidized Stafford loans such a student may borrow in any academic year (as defined in section 1088(a)(2) of this title) or its equivalent shall be the maximum annual amount for such student determined under section 1078–8 of this title, plus an amount equal to the amount of Federal Direct Stafford loans the student would have received in the absence of this subparagraph.
+&emsp;&emsp;&emsp;(ii) the maximum annual amount of Federal Direct Unsubsidized Stafford loans such a student may borrow in any academic year (as defined in section 1088(a)(2)of this title) or its equivalent shall be the maximum annual amount for such student determined under section 1078–8 of this title, plus an amount equal to the amount of Federal Direct Stafford loans the student would have received in the absence of this subparagraph.
 
 #### (B) Exception
 
@@ -112,7 +112,7 @@
 
 #### (B) In school and grace period rules
 
-&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, with respect to any Federal Direct Stafford Loan or Federal Direct Unsubsidized Stafford Loan for which the first disbursement is made on or after July 1, 1998, and before October 1, 1998, the applicable rate of interest for interest which accrues—
+&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, with respect to any Federal Direct Stafford Loan or Federal Direct Unsubsidized Stafford Loan for which the first disbursement is made on or after July1, 1998, and before October 1, 1998, the applicable rate of interest for interest which accrues—
 
 &emsp;&emsp;&emsp;(i) prior to the beginning of the repayment period of the loan; or
 
@@ -196,7 +196,7 @@
 
 #### (D) Reduced rates for undergraduate FDSL
 
-&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection and subparagraph (A) of this paragraph, for Federal Direct Stafford Loans made to undergraduate students for which the first disbursement is made on or after July 1, 2006, and before July 1, 2012, the applicable rate of interest shall be as follows:
+&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection and subparagraph (A) of this paragraph, for Federal Direct Stafford Loans made to undergraduate students for which the first disbursement is made on or after July 1, 2006, and before July 1, 2013, the applicable rate of interest shall be as follows:
 
 &emsp;&emsp;&emsp;(i) For a loan for which the first disbursement is made on or after July 1, 2006, and before July 1, 2008, 6.8 percent on the unpaid principal balance of the loan.
 
@@ -206,7 +206,7 @@
 
 &emsp;&emsp;&emsp;(iv) For a loan for which the first disbursement is made on or after July 1, 2010, and before July 1, 2011, 4.5 percent on the unpaid principal balance of the loan.
 
-&emsp;&emsp;&emsp;(v) For a loan for which the first disbursement is made on or after July 1, 2011, and before July 1, 2012, 3.4 percent on the unpaid principal balance of the loan.
+&emsp;&emsp;&emsp;(v) For a loan for which the first disbursement is made on or after July 1, 2011, and before July 1, 2013, 3.4 percent on the unpaid principal balance of the loan.
 
 #### (8) Repayment incentives
 
@@ -250,7 +250,7 @@
 
 #### (1) Design and selection
 
-&emsp;Consistent with criteria established by the Secretary, the Secretary shall offer a borrower of a loan made under this part a variety of plans for repayment of such loan, including principal and interest on the loan. The borrower shall be entitled to accelerate, without penalty, repayment on the borrower's loans under this part. The borrower may choose—
+&emsp;Consistent with criteria established by the Secretary, the Secretary shall offer a borrower of a loan made under this part a variety of plans for repayment of such loan, including principal and interest on the loan. The borrower shall be entitled to accelerate, withoutpenalty, repayment on the borrower's loans under this part. The borrower may choose—
 
 &emsp;&emsp;(A) a standard repayment plan, consistent with subsection (a)(1) of this section and with section 1078(b)(9)(A)(i) of this title;
 
@@ -286,7 +286,7 @@
 
 #### (1) Information and procedures
 
-&emsp;The Secretary may obtain such information as is reasonably necessary regarding the income of a borrower (and the borrower's spouse, if applicable) of a loan made under this part that is, or may be, repaid pursuant to income contingent repayment, for the purpose of determining the annual repayment obligation of the borrower. Returns and return information (as defined in section 6103 of title 26) may beobtained under the preceding sentence only to the extent authorized by section 6103(<i>l</i>)(13) of title 26. The Secretary shall establish procedures for determining the borrower's repayment obligation on that loan for such year, and such other procedures as are necessary to implement effectively income contingent repayment.
+&emsp;The Secretary may obtain such information as is reasonably necessary regarding the income of a borrower (and the borrower's spouse, if applicable) of a loan made under this part that is, or may be, repaid pursuant to income contingent repayment, for the purpose of determining the annual repayment obligation of the borrower. Returns and return information (as defined in section 6103 of title 26) may be obtained under the preceding sentence only to the extent authorized by section 6103(l)(13) of title 26. The Secretary shall establish procedures for determining the borrower's repayment obligation on that loan for such year, and such other procedures as are necessary to implement effectively income contingent repayment.
 
 #### (2) Repayment based on adjusted gross income
 
@@ -308,7 +308,7 @@
 
 &emsp;The Secretary shall establish procedures under which a borrower of a loan made under this part who chooses or is required to repay such loan pursuant to income contingent repayment is notified of the terms and conditions of such plan, including notification of such borrower—
 
-&emsp;&emsp;(A) that the Internal Revenue Service will disclose to the Secretary tax return information as authorized under section 6103(<i>l</i>)(13) of title 26; and
+&emsp;&emsp;(A) that the Internal Revenue Service will disclose to the Secretary tax return information as authorized under section 6103(l)(13) of title 26; and
 
 &emsp;&emsp;(B) that if a borrower considers that special circumstances, such as a loss of employment by the borrower or the borrower's spouse, warrant an adjustment in the borrower's loan repayment as determined using the information described in subparagraph (A), or the alternative documentation described in paragraph (3), the borrower may contact the Secretary, who shall determine whether such adjustment is appropriate, in accordance with criteria established by the Secretary.
 
@@ -318,7 +318,7 @@
 
 &emsp;&emsp;(A) is not in default on any loan that is included in the income contingent repayment plan; and
 
-&emsp;&emsp;(B)(i) is in deferment due to an economic hardship described in section 1085(<i>o</i>) of this title;
+&emsp;&emsp;(B)(i) is in deferment due to an economic hardship described in section 1085(o) of this title;
 
 &emsp;&emsp;(ii) makes monthly payments under paragraph (1) or (6) of section 1098e(b) of this title;
 
@@ -364,7 +364,7 @@
 
 > &emsp;&emsp;and for the 180-day period following the demobilization date for the service described in clause (i) or (ii); or
 
-&emsp;&emsp;(D) not in excess of 3 years during which the Secretary determines, in accordance with regulations prescribed under section 1085(<i>o</i>) of this title, that the borrower has experienced or will experience an economic hardship.
+&emsp;&emsp;(D) not in excess of 3 years during which the Secretary determines, in accordance with regulations prescribed under section 1085(o) of this title, that the borrower has experienced or will experience an economic hardship.
 
 #### (3) “Borrower” defined
 
@@ -412,7 +412,7 @@ The common financial reporting form required in section 1090(a)(1) of this title
 
 &emsp;All transaction histories under this part shall be maintained using the same system designated by the Secretary for the provision of Federal Pell Grants under subpart 1 of part A of this subchapter.
 
-#### (<i>l</i>) Armed Forces student loan interest payment program
+#### (l) Armed Forces student loan interest payment program
 
 #### (1) Authority
 
@@ -420,7 +420,7 @@ The common financial reporting form required in section 1090(a)(1) of this title
 
 #### (2) Forbearance
 
-&emsp;During the period in which the Secretary is making payments on a loan under paragraph (1), the Secretary shall grant the borrower forbearance, in the form of a temporary cessationof all payments on the loan other than the payments of interest on the loan that are made under that paragraph.
+&emsp;During the period in which the Secretary is making payments on a loan under paragraph (1), the Secretary shall grant the borrower forbearance, in the form of a temporary cessation of all payments on the loan other than the payments of interest on the loan that are made under that paragraph.
 
 #### (m) Repayment plan for public service employees
 
@@ -470,7 +470,7 @@ The common financial reporting form required in section 1090(a)(1) of this title
 
 The Secretary shall take such steps as may be necessary to ensure that monthly Federal Direct Loan statements and other publications of the Department do not contain more than four digits of the Social Security number of any individual.
 
-#### (<i>o</i>) No accrual of interest for active duty service members
+#### (o) No accrual of interest for active duty service members
 
 #### (1) In general
 
@@ -496,15 +496,53 @@ The Secretary shall take such steps as may be necessary to ensure that monthly F
 
 #### (p) Disclosures
 
-Each institution of higher education with which the Secretary has an agreement undersection 1087c of this title, and each contractor with which the Secretary has a contract under section 1087f of this title, shall, with respect to loans under this part and in accordance with such regulations as the Secretary shall prescribe, comply with each of the requirements under section 1083 of this title that apply to a lender with respect to a loan under part B.
+Each institution of higher education with which the Secretary has an agreement under section 1087c of this title, and each contractor with which the Secretary has a contract under section 1087f of this title, shall, with respect to loans under this part and in accordance with such regulations as the Secretary shall prescribe, comply with each of the requirements under section 1083 of this title that apply to a lender with respect to a loan under part B.
 
-(Pub. L. 89–329, title IV, §455, as added Pub. L. 99–498, title IV, §404, Oct. 17, 1986, 100 Stat. 1439; amended Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 572; Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 346; Pub. L. 103–382, title III, §359, Oct. 20, 1994, 108 Stat. 3968; Pub. L. 105–178, title VIII, §8301(c), June 9, 1998, 112 Stat. 498; Pub. L. 105–244, title IV, §§401(g)(6), 452(a)(1), (b), (c), Oct. 7, 1998, 112 Stat. 1652, 1715–1717; Pub. L. 106–554, §1(a)(1) \[title III, §318(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–49; Pub. L. 107–139, §1(b), (c), Feb. 8, 2002, 116 Stat. 9; Pub. L. 107–314, div. A, title VI, §651(c), Dec. 2, 2002, 116 Stat. 2580; Pub. L. 109–171, title VIII, §§8007(b), 8008(b), (c)(2), (3), 8009(d), Feb. 8, 2006, 120 Stat. 160, 162–164; Pub. L. 110–84, title II, §§201(b), 202(b), 203(b)(3), 205, title IV, §401, Sept. 27, 2007, 121 Stat. 791, 795, 800; Pub. L. 110–315, title I, §103(b)(8), title IV, §§425(b)(3), 451, Aug. 14, 2008, 122 Stat. 3089, 3234, 3261; Pub. L. 111–39, title IV, §404(b)(2), July 1, 2009, 123 Stat. 1946; Pub. L. 111–152, title II, §2211(a), Mar. 30, 2010, 124 Stat. 1078; Pub. L. 112–25, title V, §§502, 503, Aug. 2, 2011, 125 Stat. 266.)
+#### (q) Eligibility for, and interest charges on, Federal Direct Stafford Loans for new borrowers on or after July 1, 2013
+
+#### (1) In general
+
+&emsp;Notwithstanding subsection (a) or any other provision of this subchapter, any borrower who was a new borrower on or after July 1, 2013, shall not be eligible for a Federal Direct Stafford Loan if the period of time for which the borrower has received Federal Direct Stafford Loans, in the aggregate, exceeds the period of enrollment described in paragraph (3). Such borrower may still receive any Federal Direct Unsubsidized Stafford Loan for which such borrower is otherwise eligible.
+
+#### (2) Accrual of interest on Federal Direct Stafford Loans
+
+&emsp;Notwithstanding subsection (f)(1)(A) or any other provision of this subchapter and beginning on the date upon which a borrower who is enrolled in a program of education or training (including a course of study or program described in paragraph (3)(B) or (4)(B) of section 1091(b) of this title) for which borrowers are otherwise eligible to receive Federal Direct Stafford Loans, becomes ineligible for such loan as a result of paragraph (1), interest on all Federal Direct Stafford Loans that were disbursed to such borrower on or after July 1, 2013, shall accrue. Such interest shall be paid or capitalized in the same manner as interest on a Federal Direct Unsubsidized Stafford Loan is paid or capitalized under section 1078–8(e)(2) of this title.
+
+#### (3) Period of enrollment
+
+#### (A) In general
+
+&emsp;&emsp;The aggregate period of enrollment referred to in paragraph (1) shall not exceed the lesser of—
+
+&emsp;&emsp;&emsp;(i) a period equal to 150 percent of the published length of the educational program in which the student is enrolled; or
+
+&emsp;&emsp;&emsp;(ii) in the case of a borrower who was previously enrolled in one or more other educational programs that began on or after July 1, 2013, and subject to subparagraph (B), a period of time equal to the difference between—
+
+&emsp;&emsp;&emsp;&emsp;(I) 150 percent of the published length of the longest educational program in which the borrower was, or is, enrolled; and
+
+&emsp;&emsp;&emsp;&emsp;(II) any periods of enrollment in which the borrower received a Federal Direct Stafford Loan.
+
+#### (B) Regulations
+
+&emsp;&emsp;The Secretary shall specify in regulation—
+
+&emsp;&emsp;&emsp;(i) how the aggregate period described in subparagraph (A) shall be calculated with respect to a borrower who was or is enrolled on less than a full-time basis; and
+
+&emsp;&emsp;&emsp;(ii) how such aggregate period shall be calculated to include a course of study or program described in paragraph (3)(B) or (4)(B) of section 1091(b) of this title, respectively.
+
+(Pub. L. 89–329, title IV, §455, as added Pub. L. 99–498, title IV, §404, Oct. 17, 1986, 100 Stat. 1439; amended Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 572; Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 346; Pub. L. 103–382, title III, §359, Oct. 20, 1994, 108 Stat. 3968; Pub. L. 105–178, title VIII, §8301(c), June 9, 1998, 112 Stat. 498; Pub. L. 105–244, title IV, §§401(g)(6), 452(a)(1), (b), (c), Oct. 7, 1998, 112 Stat. 1652, 1715–1717; Pub. L. 106–554, §1(a)(1) \[title III, §318(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–49; Pub. L. 107–139, §1(b), (c), Feb. 8, 2002, 116 Stat. 9; Pub. L. 107–314, div. A, title VI, §651(c), Dec. 2, 2002, 116 Stat. 2580; Pub. L. 109–171, title VIII, §§8007(b), 8008(b), (c)(2), (3), 8009(d), Feb. 8, 2006, 120 Stat. 160, 162–164; Pub. L. 110–84, title II, §§201(b), 202(b), 203(b)(3), 205, title IV, §401, Sept. 27, 2007, 121 Stat. 791, 795, 800; Pub. L. 110–315, title I, §103(b)(8), title IV, §§425(b)(3), 451, Aug. 14, 2008, 122 Stat. 3089, 3234, 3261; Pub. L. 111–39, title IV, §404(b)(2), July 1, 2009, 123 Stat. 1946; Pub. L. 111–152, title II, §2211(a), Mar. 30, 2010, 124 Stat. 1078; Pub. L. 112–25, title V, §§502, 503, Aug. 2, 2011, 125 Stat. 266; Pub. L. 112–141, div. F, title III, §§100301, 100302(a), July 6, 2012, 126 Stat. 979.)
 
 #### References in Text
 
 Sections 1077(a)(2)(C) and 1078(b)(1)(M) of this title as such sections were in effect on July 22, 1992, referred to in subsec. (f)(4), means sections 1077(a)(2)(C) and 1078(b)(1)(M) of this title prior to being amended generally by sections 414(b) and 416(e)(1), respectively, of Pub. L. 102–325, title IV, July 23, 1992, 106 Stat. 513, 519.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (b)(7)(D). Pub. L. 112–141, §100301(1), substituted “and before July 1, 2013,” for “and before July 1, 2012,” in introductory provisions.
+
+Subsec. (b)(7)(D)(v). Pub. L. 112–141, §100301(2), substituted “and before July 1, 2013,” for “and before July 1, 2012,”.
+
+Subsec. (q). Pub. L. 112–141, §100302(a), added subsec. (q).
 
 <b>2011</b>—Subsec. (a)(3). Pub. L. 112–25, §502, added par. (3).
 
@@ -540,7 +578,7 @@ Subsec. (m)(4). Pub. L. 110–315, §451(b)(2), added par. (4).
 
 Subsec. (n). Pub. L. 110–315, §451(c), added subsec. (n).
 
-Subsec. (<i>o</i>). Pub. L. 110–315, §451(d), added subsec. (<i>o</i>).
+Subsec. (o). Pub. L. 110–315, §451(d), added subsec. (o).
 
 Subsec. (p). Pub. L. 110–315, §451(e), added subsec. (p).
 
@@ -572,7 +610,7 @@ Subsec. (d)(1)(A) to (C). Pub. L. 109–171, §8008(b), added subpars. (A) to (C
 
 Subsec. (f)(2)(C), (D). Pub. L. 109–171, §8007(b), added subpar. (C) and redesignated former subpar. (C) as (D).
 
-Subsec. (g). Pub. L. 109–171, §8009(d)(3), substituted “To be eligible for a consolidation loan under this part, a borrower shall meet the eligibility criteria set forth in section 1078–3(a)(3) of this title. The Secretary, uponapplication for such a loan, shall comply with the requirements applicable to a lender under section 1078–3(b)(1)(F) of this title.” for “Loans made under this subsection shall be known as ‘Federal Direct Consolidation Loans’.”
+Subsec. (g). Pub. L. 109–171, §8009(d)(3), substituted “To be eligible for a consolidation loan under this part, a borrower shall meet the eligibility criteria set forth in section 1078–3(a)(3) of this title. The Secretary, upon application for such a loan, shall comply with the requirements applicable to a lender under section 1078–3(b)(1)(F) of this title.” for “Loans made under this subsection shall be known as ‘Federal Direct Consolidation Loans’.”
 
 <b>2002</b>—Subsec. (b)(6) to (9). Pub. L. 107–139, in par. (6) relating to interest rate provision for new loans substituted “
 
@@ -580,7 +618,7 @@ Subsec. (g). Pub. L. 109–171, §8009(d)(3), substituted “To be eligible for 
 
 2003” in heading and “July 1, 2006,” for “July 1, 2003,” wherever appearing in text, added par. (7), redesignated former par. (7) as (8), and redesignated par. (6) relating to publication of rate in Federal Register as (9).
 
-Subsec. (<i>l</i>). Pub. L. 107–314 added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 107–314 added subsec. (l).
 
 <b>2000</b>—Subsec. (b)(4)(A). Pub. L. 106–554 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “For Federal Direct PLUS Loans for which the first disbursement is made on or after July 1, 1994, the applicable rate of interest shall, during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to—
 

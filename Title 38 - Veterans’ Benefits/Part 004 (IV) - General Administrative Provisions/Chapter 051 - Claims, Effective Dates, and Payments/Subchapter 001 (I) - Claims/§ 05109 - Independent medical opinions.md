@@ -4,7 +4,7 @@
 
 (b) The Secretary shall make necessary arrangements with recognized medical schools, universities, or clinics to furnish such advisory medical opinions. Any such arrangement shall provide that the actual selection of the expert or experts to give the advisory opinion in an individual case shall be made by an appropriate official of such institution.
 
-(c) The Secretary shall furnish a claimant with notice that an advisory medical opinionhas been requested under this section with respect to the claimant's case and shall furnish the claimant with a copy of such opinion when it is received by the Secretary.
+(c) The Secretary shall furnish a claimant with notice that an advisory medical opinion has been requested under this section with respect to the claimant's case and shall furnish the claimant with a copy of such opinion when it is received by the Secretary.
 
 (Added Pub. L. 100–687, div. A, title I, §103(a)(1), Nov. 18, 1988, 102 Stat. 4107, §3009; renumbered §5109, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
 

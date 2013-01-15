@@ -10,13 +10,13 @@ Section was formerly classified to section 250 of Title 48, Territories and Insu
 
 #### Short Title
 
-Act Sept. 1, 1937, ch. 897, 500 Stat. 900, as amended, which enacted this subchapter, is popularly known as the “Reindeer Industry Act of 1937”.
+Act Sept. 1, 1937, ch. 897, 50 Stat. 900, as amended, which enacted this subchapter, is popularly known as the “Reindeer Industry Act of 1937”.
 
 #### Repeals
 
-Section 17 of act Sept. 1, 1937, provided: “All Acts of Congress or parts thereof which are inconsistent with the provisions of this Act are hereby repealed.”
+Act Sept. 1, 1937, ch. 897, §17, 50 Stat. 902, provided: “All Acts of Congress or parts thereof which are inconsistent with the provisions of this Act are hereby repealed.”
 
 #### Authorization of Appropriations
 
-Section 16 of act Sept. 1, 1937, authorized the appropriation of $2,000,000 for the use of the Secretary of the Interior in carrying out this subchapter.
+Act Sept. 1, 1937, ch. 897, §16, 50 Stat. 902, authorized the appropriation of $2,000,000 for the use of the Secretary of the Interior in carrying out this subchapter.
 

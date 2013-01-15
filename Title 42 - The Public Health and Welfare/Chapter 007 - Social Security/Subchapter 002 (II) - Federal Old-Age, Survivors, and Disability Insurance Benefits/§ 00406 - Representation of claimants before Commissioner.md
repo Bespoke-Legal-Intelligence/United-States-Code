@@ -16,7 +16,7 @@
 
 &emsp;(iii) the determination is favorable to the claimant,
 
-> then the Commissioner of Social Security shall approve that agreement at the time of the favorable determination, and (subject to paragraph (3)) the fee specified in the agreement shall bethe maximum fee. The Commissioner of Social Security may from time to time increase the dollar amount under clause (ii)(II) to the extent that the rate of increase in such amount, as determined over the period since January 1, 1991, does not at any time exceed the rate of increase in primary insurance amounts under section 415(i) of this title since such date. The Commissioner of Social Security shall publish any such increased amount in the Federal Register.
+> then the Commissioner of Social Security shall approve that agreement at the time of the favorable determination, and (subject to paragraph (3)) the fee specified in the agreement shall be the maximum fee. The Commissioner of Social Security may from time to time increase the dollar amount under clause (ii)(II) to the extent that the rate of increase in such amount, as determined over the period since January 1, 1991, does not at any time exceed the rate of increase in primary insurance amounts under section 415(i) of this title since such date. The Commissioner of Social Security shall publish any such increased amount in the Federal Register.
 
 (B) For purposes of this subsection, the term “past-due benefits” excludes any benefits with respect to which payment has been continued pursuant to subsection (g) or (h) of section 423 of this title.
 
@@ -56,11 +56,11 @@
 
 #### (b) Fees for representation before court
 
-(1)(A) Whenever a court renders a judgment favorable to a claimant under this subchapter whowas represented before the court by an attorney, the court may determine and allow as part of its judgment a reasonable fee for such representation, not in excess of 25 percent of the total of the past-due benefits to which the claimant is entitled by reason of such judgment, and the Commissioner of Social Security may, notwithstanding the provisions of section 405(i) of this title, but subject to subsection (d) of this section, certify the amount of such fee for payment to such attorney out of, and not in addition to, the amount of such past-due benefits. In case of any such judgment, no other fee may be payable or certified for payment for such representation except as provided in this paragraph.
+(1)(A) Whenever a court renders a judgment favorable to a claimant under this subchapter who was represented before the court by an attorney, the court may determine and allow as part of its judgment a reasonable fee for such representation, not in excess of 25 percent of the total of the past-due benefits to which the claimant is entitled by reason of such judgment, and the Commissioner of Social Security may, notwithstanding the provisions of section 405(i) of this title, but subject to subsection (d) of this section, certify the amount of such fee for payment to such attorney out of, and not in addition to, the amount of such past-due benefits. In case of any such judgment, no other fee may be payable or certified for payment for such representation except as provided in this paragraph.
 
 (B) For purposes of this paragraph—
 
-&emsp;(i) the term “past-due benefits” excludes any benefits with respect to which payment has been continued pursuant to subsection (g) or (h) of section 423 of this title, and
+&emsp;(i) the term “past-due benefits” excludes any benefits with respect to which paymenthas been continued pursuant to subsection (g) or (h) of section 423 of this title, and
 
 &emsp;(ii) amounts of past-due benefits shall be determined before any applicable reduction under section 1320a–6(a) of this title.
 
@@ -106,7 +106,7 @@ The Commissioner of Social Security shall notify each claimant in writing, toget
 
 (1) The Commissioner shall provide for the extension of the fee withholding procedures and assessment procedures that apply under the preceding provisions of this section to agents and other persons, other than attorneys, who represent claimants under this subchapter before the Commissioner.
 
-(2) Fee-withholding procedures may be extended under paragraph (1) to any nonattorney <sup>2</sup>representative only if such representative meets at least the following prerequisites:
+(2) Fee-withholding procedures may be extended under paragraph (1) to any nonattorney <sup>2</sup> representative only if such representative meets at least the following prerequisites:
 
 &emsp;(A) The representative has been awarded a bachelor's degree from an accredited institution of higher education, or has been determined by the Commissioner to have equivalent qualifications derived from training and work experience.
 
@@ -124,7 +124,7 @@ The Commissioner of Social Security shall notify each claimant in writing, toget
 
 (C) The fees authorized under this paragraph shall be collected and available for obligation only to the extent and in the amount provided in advance in appropriations Acts. Amounts so appropriated are authorized to remain available until expended for administering the prerequisites described in paragraph (2).
 
-(Aug. 14, 1935, ch. 531, title II, §206, 49 Stat. 624; Aug. 10, 1939, ch. 666, title II, §201, 53 Stat. 1362, 1372; Aug. 28, 1950, ch. 809, title I, §109(b)(1), 64 Stat. 523; Pub. L. 85–840, title III, §309, Aug. 28, 1958, 72 Stat. 1034; Pub. L. 89–97, title III, §332, July 30, 1965, 79 Stat. 403; Pub. L. 90–248, title I, §173, Jan. 2, 1968, 81 Stat. 877; Pub. L. 101–239, title X, §10307(a)(1), (b)(1), Dec. 19, 1989, 103 Stat. 2484, 2485; Pub. L. 98–369, title VI, §2663(<i>l</i>)(1), July 18, 1984, 98 Stat. 1171; Pub. L. 101–508, title V, §5106(a)(1), Nov. 5, 1990, 104 Stat. 1388–266; Pub. L. 103–296, title I, §107(a)(4), title III, §321(f)(3)(B)(i), (4), Aug. 15, 1994, 108 Stat. 1478, 1541, 1542; Pub. L. 106–170, title IV, §406(a), (b), Dec. 17, 1999, 113 Stat. 1911, 1912; Pub. L. 108–203, title II, §205, title III, §301(a), Mar. 2, 2004, 118 Stat. 512, 519; Pub. L. 111–142, §3(a), Feb. 27, 2010, 124 Stat. 38.)
+(Aug. 14, 1935, ch. 531, title II, §206, 49 Stat. 624; Aug. 10, 1939, ch. 666, title II, §201, 53 Stat. 1362, 1372; Aug. 28, 1950, ch. 809, title I, §109(b)(1), 64 Stat. 523; Pub. L. 85–840, title III, §309, Aug. 28, 1958, 72 Stat. 1034; Pub. L. 89–97, title III, §332, July 30, 1965, 79 Stat. 403; Pub. L. 90–248, title I, §173, Jan. 2, 1968, 81 Stat. 877; Pub. L. 101–239, title X, §10307(a)(1), (b)(1), Dec. 19, 1989, 103 Stat. 2484, 2485; Pub. L. 98–369, title VI, §2663(l)(1), July 18, 1984, 98 Stat. 1171; Pub. L. 101–508, title V, §5106(a)(1), Nov. 5, 1990, 104 Stat. 1388–266; Pub. L. 103–296, title I, §107(a)(4), title III, §321(f)(3)(B)(i), (4), Aug. 15, 1994, 108 Stat. 1478, 1541, 1542; Pub. L. 106–170, title IV, §406(a), (b), Dec. 17, 1999, 113 Stat. 1911, 1912; Pub. L. 108–203, title II, §205, title III, §301(a), Mar. 2, 2004, 118 Stat. 512, 519; Pub. L. 111–142, §3(a), Feb. 27, 2010, 124 Stat. 38.)
 
 #### References in Text
 
@@ -212,13 +212,13 @@ Amendment by Pub. L. 101–508 applicable with respect to determinations made on
 
 #### Effective Date of 1989 Amendment
 
-Section 10307(a)(3) of Pub. L. 101–239 provided that: “The amendments made by this subsection \[amending this section and section 1383 of this title\] shall take effect June 1, 1991.”
+Pub. L. 101–239, title X, §10307(a)(3), Dec. 19, 1989, 103 Stat. 2485, provided that: “The amendments made by this subsection \[amending this section and section 1383 of this title\] shall take effect June 1, 1991.”
 
-Section 10307(b)(3) of Pub. L. 101–239 provided that: “The amendments made by this subsection \[amending this section and section 1383 of this title\] shall apply with respect to adverse determinations made on or after January 1, 1991.”
+Pub. L. 101–239, title X, §10307(b)(3), Dec. 19, 1989, 103 Stat. 2485, provided that: “The amendments made by this subsection \[amending this section and section 1383 of this title\] shall apply with respect to adverse determinations made on or after January 1, 1991.”
 
 #### Effective Date of 1939 Amendment
 
-Section 201 of act Aug. 10, 1939, provided that the amendment made by that section is effective Jan. 1, 1940.
+Act Aug. 10, 1939, ch. 666, title II, §201, 53 Stat. 1362, provided that the amendment made by that section is effective Jan. 1, 1940.
 
 #### Nationwide Demonstration Project Providing for Extension of Fee Withholding Procedures to Non-Attorney Representatives
 
@@ -226,7 +226,7 @@ Pub. L. 108–203, title III, §303, Mar. 2, 2004, 118 Stat. 521, as amended by 
 
 “(a)
 
-In General.—The Commissioner of Social Security (hereafter in this section referred to as the ‘Commissioner’) shall develop and carry out a nationwide demonstration project under this section with respect to agents and other persons, other than attorneys, who represent claimants under titles II and XVI of the Social Security Act \[subchapters II and XVI of this chapter\] before the Commissioner. The demonstration project shall be designed to determine the potential results of extending to such representatives the fee withholding procedures and assessment procedures that apply under sections 206 and section \[sic\] 1631(d)(2) of such Act \[sections 406 and 1383(d)(2) of this title\] to attorneys seeking direct payment out of past due benefits under such titles and shall include an analysis of theeffect of such extension on claimants and program administration.
+In General.—The Commissioner of Social Security (hereafter in this section referred to as the ‘Commissioner’) shall develop and carry out a nationwide demonstration project under this section with respect to agents and other persons, other than attorneys, who represent claimants under titles II and XVI of the Social Security Act \[subchapters II and XVI of this chapter\] before the Commissioner. The demonstration project shall be designed to determine the potential results of extending to such representatives the fee withholding procedures and assessment procedures that apply under sections 206 and section \[sic\] 1631(d)(2) of such Act \[sections 406 and 1383(d)(2) of this title\] to attorneys seeking direct payment out of past due benefits under such titles and shall include an analysis of the effect of such extension on claimants and program administration.
 
 “(b)
 
@@ -234,7 +234,7 @@ Standards for Inclusion in Demonstration Project.—Fee-withholding procedures m
 
 &emsp;“(1) The representative has been awarded a bachelor's degree from an accredited institution of higher education, or has been determined by the Commissioner to have equivalent qualifications derived from training and work experience.
 
-&emsp;“(2) The representative has passed an examination, written and administered by the Commissioner, which tests knowledge of the relevant provisions of the Social Security Act \[this chapter\] and the most recent developments in agency and court decisions affecting titles II and XVI of such Act \[subchapters II and XVI of this chapter\].
+&emsp;“(2) The representative has passed an examination, written and administered by the Commissioner, which tests knowledge of the relevant provisions of the Social Security Act \[this chapter\] and the most recent developments in agency and court decisionsaffecting titles II and XVI of such Act \[subchapters II and XVI of this chapter\].
 
 &emsp;“(3) The representative has secured professional liability insurance, or equivalent insurance, which the Commissioner has determined to be adequate to protect claimants in the event of malpractice by the representative.
 

@@ -10,7 +10,7 @@ Erosion, floodwater, and sediment damages in the watersheds of the rivers and st
 
 #### Short Title
 
-Section 11 of act Aug. 4, 1954, as renumbered by act Aug. 7, 1956, ch. 1027, §1(g), 70 Stat. 1088, provided that: “This Act \[enacting this chapter, amending section 701b of Title 33, Navigation and Navigable Waters, and enacting provisions set out as notes under this section and section 701b of Title 33\] may be cited as the ‘Watershed Protection and Flood Prevention Act’.”
+Act Aug. 4, 1954, ch. 656, §11, formerly §9, 68 Stat. 668, as renumbered by act Aug. 7, 1956, ch. 1027, §1(g), 70 Stat. 1090, provided that: “This Act \[enacting this chapter, amending section 701b of Title 33, Navigation and Navigable Waters, and enacting provisions set out as notes under this section and section 701b of Title 33\] may be cited as the ‘Watershed Protection and Flood Prevention Act’.”
 
 #### Watershed Protection and Flood Prevention Projects Exempt From Requirements for Independent Water Project Review
 
@@ -18,5 +18,5 @@ For exemption of projects under this chapter from independent water project revi
 
 #### Extension of Benefits to Projects Authorized Before Aug. 7, 1956
 
-Section 2 of act Aug. 7, 1956, ch. 1027, 70 Stat. 1090, provided that sections 1006a and 1006b of this title and the amendments made by act Aug. 7, 1956 to sections 1002 to 1005 of this title should be applicable to all works of improvement and plans for such works under the provisions of this chapter and that any plans for works of improvement with respect to which the Secretary of Agriculture was authorized prior to Aug. 7, 1956 to participate in the installation of works of improvement in accordance with such plan, or any plan for works of improvement which had received prior to Aug. 7, 1956 the approval of congressional committees, need not be submitted to the congressional committees as required by this chapter.
+Act Aug. 7, 1956, ch. 1027, §2, 70 Stat. 1090, provided that sections 1006a and 1006b of this title and the amendments made by act Aug. 7, 1956 to sections 1002 to 1005 of this title should be applicable to all works of improvement and plans for such works under the provisions of this chapter and that any plans for works of improvement with respect to which the Secretary of Agriculture was authorized prior to Aug. 7, 1956 to participate in the installation of works of improvement in accordance with such plan, or any plan for works of improvement which had received prior to Aug. 7, 1956 the approval of congressional committees, need not be submitted to the congressional committees as required by this chapter.
 

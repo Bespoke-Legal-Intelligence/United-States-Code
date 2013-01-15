@@ -52,11 +52,11 @@ Appeals.—The authorization to appeal or have remedy from derivation proceeding
 
 #### Regulations
 
-Pub. L. 112–29, §6(f)(1), Sept. 16, 2011, 125 Stat. 311, provided that: “The Director \[Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office\] shall, not later than the date that is 1 year after the date of the enactment of this Act \[Sept. 16, 2011\], issue regulations to carry out chapter 32 of title 35, United States Code, as added by subsection (d) of this section.”
+Pub. L. 112–29, §6(f)(1), Sept. 16, 2011, 125 Stat. 311, provided that: “The Director \[Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office\] shall, not later than the date that is 1 year after the date of theenactment of this Act \[Sept. 16, 2011\], issue regulations to carry out chapter 32 of title 35, United States Code, as added by subsection (d) of this section.”
 
 #### Transitional Program for Covered Business Method Patents
 
-Pub. L. 112–29, §18, Sept. 16, 2011, 125 Stat. 329, provided that:
+Pub. L. 112–29, §18, Sept. 16, 2011, 125 Stat. 329, as amended by Pub. L. 112–274, §1(b), Jan. 14, 2013, 126 Stat. 2456, provided that:
 
 “(a)
 
@@ -72,7 +72,7 @@ Establishment.—Not later than the date that is 1 year after the date of the en
 
 &emsp;&emsp;“(C) A petitioner in a transitional proceeding who challenges the validity of 1 or more claims in a covered business method patent on a ground raised under section 102 or 103 of title 35, United States Code, as in effect on the day before the effective date set forth in section 3(n)(1) \[set out as an Effective Date of 2011 Amendment; Savings Provisions note under section 100 of this title\], may support such ground only on the basis of—
 
-&emsp;&emsp;&emsp;“(i) prior art that is described by section 102(a) of such title of such title \[sic\] (as in effect on the day before such effective date); or
+&emsp;&emsp;&emsp;“(i) prior art that is described by section 102(a) of such title (as in effect on the day before such effective date); or
 
 &emsp;&emsp;&emsp;“(ii) prior art that—
 
@@ -134,7 +134,7 @@ In general.—For purposes of this section, the term ‘covered business method 
 
 &emsp;“(2)
 
-Regulations.—To assist in implementing the transitional proceeding authorized by this subsection, the Director shall issue regulations for determining whether a patent is for a technological invention.
+Regulations.—To assist in implementing the transitional proceeding authorized by this section, the Director shall issue regulations for determining whether a patent is for a technological invention.
 
 “(e)
 

@@ -98,7 +98,7 @@
 
 &emsp;(B) paragraph (2)(A) of such subsection shall be considered to include (in addition to the provisions of law specified therein) sections 609(b)(1), 805, 806, and 856 of the Foreign Service Act of 1980; and
 
-&emsp;(C) paragraph (2)(B) of such subsection shall be applied by substituting for “Office of Personnel Management” the following: “Office of Personnel Management or the Secretary of State (to the extent that matters exclusively within the jurisdiction of the Secretary are concerned)”.
+&emsp;(C) paragraph (2)(B) of such subsection shall be applied by substituting for “Office of Personnel Management” the following: “Office of Personnel Management or the Secretary ofState (to the extent that matters exclusively within the jurisdiction of the Secretary are concerned)”.
 
 (Added Pub. L. 103–329, title VI, §633(b)(1), Sept. 30, 1994, 108 Stat. 2425; amended Pub. L. 104–19, title I, §§901, 902(a), July 27, 1995, 109 Stat. 230; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §206(b)(2)\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–378; Pub. L. 105–277, div. A, §101(b) \[title IV, §407(a), (c)(1)\], div. G, subdiv. B, title XXIII, §2316(a), (c)(1), Oct. 21, 1998, 112 Stat. 2681–50, 2681–101, 2681–102, 2681–828.)
 
@@ -106,7 +106,7 @@
 
 Title II of Public Law 99–399, referred to in subsecs. (a)(2) and (k)(1), is title II of Pub. L. 99–399, Aug. 27, 1986, 100 Stat. 858, as amended, which is classified generally to subchapter II (§4821 et seq.) of chapter 58 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 4801 of Title 22 and Tables.
 
-Sections 609(b)(1), 805, 806, and 856 of the Foreign Service Act of 1980, referred to in subsec. (k)(2)(B), areclassified to sections 4009(b)(1), 4045, 4046, and 4071e, respectively, of Title 22, Foreign Relations and Intercourse.
+Sections 609(b)(1), 805, 806, and 856 of the Foreign Service Act of 1980, referred to in subsec. (k)(2)(B), are classified to sections 4009(b)(1), 4045, 4046, and 4071e, respectively, of Title 22, Foreign Relations and Intercourse.
 
 #### Amendments
 
@@ -130,15 +130,15 @@ For effective date of amendment by Pub. L. 105–277, see section 101(b) \[title
 
 #### Effective Date of 1996 Amendment
 
-Section 101(f) \[title VI, §659 \[title II, §207\]\] of Pub. L. 104–208 provided that: “This title \[title II (§§201–207) of section 659 of section 101(f) of Pub. L. 104–208, amending this section and sections 8351, 8401, 8433, 8435, and 8440a to 8440c of this title, repealing section 8431 of this title, enacting provisions set out as notes under sections 8401 and 8433 of this title, and amending provisions set out as a note under section 5343 of this title\] shall take effect on the date of the enactment of this Act \[Sept. 30, 1996\] and withdrawals and elections as provided under the amendments made by this title shall be made at the earliest practicable date as determined by the Executive Director in regulations.”
+Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §207\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–378, provided that: “This title \[title II (§§201–207) of section 659 of section 101(f) of Pub. L. 104–208, amending this section and sections 8351, 8401, 8433, 8435, and 8440a to 8440c of this title, repealing section 8431 of this title, enacting provisions set out as notes under sections 8401 and 8433 of this title, and amending provisions set out as a note under section 5343 of this title\] shall take effect on the date of the enactment of this Act \[Sept. 30, 1996\] and withdrawals and elections as provided under the amendments made by this title shall be made at the earliest practicable date as determined by the Executive Director in regulations.”
 
 #### Effective Date of 1995 Amendment
 
-Section 902(b) of Pub. L. 104–19 provided that: “The amendment made by subsection (a) of this section \[amending this section\] shall take effect on the first day of the first applicable pay period which begins on or after the 30th day following the date of enactment of this Act \[July 27, 1995\].”
+Pub. L. 104–19, title I, §902(b), July 27, 1995, 109 Stat. 230, provided that: “The amendment made by subsection (a) of this section \[amending this section\] shall take effect on the first day of the first applicable pay period which begins on or after the 30th day following the date of enactment of this Act \[July 27, 1995\].”
 
 #### Effective Date
 
-Section 633(e) of Pub. L. 103–329 provided that: “The amendments made by this section \[enacting this section and amending sections 5542 and 5547 of this title and section 213 of Title 29, Labor\] shall take effect on the first day of the first applicable pay period which begins on or after the later of October 1, 1994, or the 30th day following the date of enactment of this Act \[Sept. 30, 1994\], except that:
+Pub. L. 103–329, title VI, §633(e), Sept. 30, 1994, 108 Stat. 2428, provided that: “The amendments made by this section \[enacting this section and amending sections 5542 and 5547 of this title and section 213 of Title 29, Labor\] shall take effect on the first day of the first applicable pay period which begins on or after the later of October 1, 1994, or the 30th day following the date of enactment of this Act \[Sept. 30, 1994\], except that:
 
 &emsp;“(1) Criminal investigators, employed in Offices of Inspectors General, who are not receiving administratively uncontrollable overtime compensation or who are receiving such premium pay at a rate less than 25 percent prior to the date of enactment of this Act, may implement availability pay at any time prior to September 30, 1995, after which date availability pay as authorized under this section shall be provided to such criminal investigators.
 
@@ -154,5 +154,5 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 #### Certification of Criminal Investigators
 
-Section 633(f) of Pub. L. 103–329 provided that: “Not later than the effective date of this section \[see Effective Date note above\], each criminal investigator under section 5545a of title 5, United States Code, as added by this section, and the appropriate supervisory officer, to be designated by the head of the agency, shall make an initial certification to the head of the agency that the criminal investigator is expected to meet the requirements of subsection (d) of such section 5545a. The head of a law enforcement agency may prescribe procedures necessary to administer this paragraph.”
+Pub. L. 103–329, title VI, §633(f), Sept. 30, 1994, 108 Stat. 2428, provided that: “Not later than the effective date of this section \[see Effective Date note above\], each criminal investigator under section 5545a of title 5, United States Code, as added by this section, and the appropriate supervisory officer, to be designated by the head of the agency, shall make an initial certification to the head of the agency that the criminal investigator is expected to meet the requirements of subsection (d) of such section 5545a. The head of a law enforcement agency may prescribe procedures necessary to administer this paragraph.”
 

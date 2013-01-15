@@ -68,7 +68,7 @@ Requirements Relating to Maintenance and Use of Data Banks.—The Secretary of t
 
 &emsp;&emsp;(B) the cataloguing of information in a manner that facilitates rapid retrieval by law enforcement personnel of meaningful data; and
 
-&emsp;&emsp;(C) a procedure that provides for a prompt initial review of suspicious activity reportsand other reports, or such other means as the Secretary may provide, to identify information that warrants immediate action; and
+&emsp;&emsp;(C) a procedure that provides for a prompt initial review of suspicious activity reports and other reports, or such other means as the Secretary may provide, to identify information that warrants immediate action; and
 
 &emsp;(2) in accordance with section 552a of title 5 and the Right to Financial Privacy Act of 1978, appropriate standards and guidelines for determining—
 

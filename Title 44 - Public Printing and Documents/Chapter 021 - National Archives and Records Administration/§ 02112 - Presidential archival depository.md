@@ -134,7 +134,7 @@
 
 #### Historical and Revision Notes
 
-Based on 44 U.S. Code, 1964 ed., §397(f) (June 30, 1949, ch. 288, title V, §507, as added Sept. 5, 1950, ch. 849, §6(d), 64 Stat. 583; and amended July 12, 1952, ch. 703, §1(<i>o</i>), (p), 66 Stat. 594; July 12, 1955, ch. 329, 69 Stat. 297; Aug. 12, 1955, ch. 859, 69 Stat. 695).
+Based on 44 U.S. Code, 1964 ed., §397(f) (June 30, 1949, ch. 288, title V, §507, as added Sept. 5, 1950, ch. 849, §6(d), 64 Stat. 583; and amended July 12, 1952, ch. 703, §1(o), (p), 66 Stat. 594; July 12, 1955, ch. 329, 69 Stat. 297; Aug. 12, 1955, ch. 859, 69 Stat. 695).
 
 #### Prior Provisions
 

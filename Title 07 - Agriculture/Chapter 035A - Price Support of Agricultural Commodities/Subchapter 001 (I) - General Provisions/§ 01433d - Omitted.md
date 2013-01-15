@@ -6,5 +6,5 @@ Section, act Oct. 31, 1949, ch. 792, title IV, §425, as added Dec. 19, 1989, Pu
 
 #### Effective and Termination Dates
 
-Section 1003(a) of Pub. L. 101–239 provided that this section is effective only for the 1990 crops.
+Pub. L. 101–239, title I, §1003(a), Dec. 19, 1989, 103 Stat. 2108, provided that this section is effective only for the 1990 crops.
 

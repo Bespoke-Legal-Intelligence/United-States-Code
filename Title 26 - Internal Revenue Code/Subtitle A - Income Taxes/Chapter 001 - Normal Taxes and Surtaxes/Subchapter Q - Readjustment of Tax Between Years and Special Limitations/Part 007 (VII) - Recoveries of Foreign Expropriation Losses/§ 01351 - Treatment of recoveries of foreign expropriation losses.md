@@ -28,7 +28,7 @@ For purposes of this section, the term “foreign expropriation loss” means an
 
 #### (1) In general
 
-&emsp;That part of the amount of a recovery of a foreign expropriation loss to which this section applies which, when added to the aggregate of the amounts of previous recoveries with respect to such loss, does not exceed the allowable deductions in prior taxable years onaccount of such loss shall be excluded from gross income for the taxable year of the recovery for purposes of computing the tax under this subtitle; but there shall be added to, and assessed and collected as a part of, the tax under this subtitle for such taxable year an amount equal to the total increase in the tax under this subtitle for all taxable years which would result by decreasing, in an amount equal to such part of the recovery so excluded, the deductions allowable in the prior taxable years on account of such loss. For purposes of this paragraph, if the loss to which the recovery relates was taken into account as a loss from the sale or exchange of a capital asset, the amount of the loss shall be treated as an allowable deduction even though there were no gains against which to allow such loss.
+&emsp;That part of the amount of a recovery of a foreign expropriation loss to which this section applies which, when added to the aggregate of the amounts of previous recoveries with respect to such loss, does not exceed the allowable deductions in prior taxable years on account of such loss shall be excluded from gross income for the taxable year of the recovery for purposes of computing the tax under this subtitle; but there shall be added to, and assessed and collected as a part of, the tax under this subtitle for such taxable year an amount equal to the total increase in the tax under this subtitle for all taxable years which would result by decreasing, in an amount equal to such part of the recovery so excluded, the deductions allowable in the prior taxable years on account of such loss. For purposes of this paragraph, if the loss to which the recovery relates was taken into account as a loss from the sale or exchange of a capital asset, the amount of the loss shall be treated as an allowable deduction even though there were no gains against which to allow such loss.
 
 #### (2) Computation
 
@@ -120,7 +120,7 @@ Amendment by section 474(r)(25) of Pub. L. 98–369 applicable to taxable years 
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, see section 301(c) of Pub. L. 95–600, set out as a note under section 11 of this title.
+Amendment by Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, see section 301(c) ofPub. L. 95–600, set out as a note under section 11 of this title.
 
 #### Effective Date of 1976 Amendment
 
@@ -128,7 +128,7 @@ Amendment by section 1031(b)(3) of Pub. L. 94–455 applicable to taxable years 
 
 #### Effective Date
 
-Section 2 of Pub. L. 89–384, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by section 1 (except subsection (b)) \[enacting this section and section 6167 of this title and amending sections 46, 901, 6503, and 6601 of this title\] shall apply with respect to amounts received after December 31, 1964, in respect of foreign expropriation losses (as defined in section 1351(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] added by section 1(a)) sustained after December 31, 1958.”
+Pub. L. 89–384, §2, Apr. 8, 1966, 80 Stat. 105, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by section 1 (except subsection (b)) \[enacting this section and section 6167 of this title and amending sections 46, 901, 6503, and 6601 of this title\] shall apply with respect to amounts received after December 31, 1964, in respect of foreign expropriation losses (as defined in section 1351(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] added by section 1(a)) sustained after December 31, 1958.”
 
 #### Plan Amendments Not Required Until January 1, 1989
 

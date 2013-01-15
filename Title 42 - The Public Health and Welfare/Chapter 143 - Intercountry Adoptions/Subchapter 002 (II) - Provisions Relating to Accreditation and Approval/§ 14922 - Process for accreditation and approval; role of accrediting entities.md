@@ -40,6 +40,14 @@ The duties described in this subsection are the following:
 
 &emsp;Collection of data, maintenance of records, and reporting to the Secretary, the United States central authority, State courts, and other entities (including on persons and agencies granted or denied approval or accreditation), to the extent and in the manner that the Secretary requires.
 
+#### (5) Report on use of Federal funding
+
+&emsp;Not later than 90 days after an accrediting entity receives Federal funding authorized by section 14943 of this title, the entity shall submit a report to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives that describes—
+
+&emsp;&emsp;(A) the amount of such funding the entity received; and
+
+&emsp;&emsp;(B) how such funding was, or will be, used by the entity.
+
 #### (c) Remedies for adverse action by accrediting entity
 
 #### (1) Correction of deficiency
@@ -58,11 +66,15 @@ The duties described in this subsection are the following:
 
 The amount of fees assessed by accrediting entities for the costs of accreditation shall be subject to approval by the Secretary. Such fees may not exceed the costs of accreditation. In reviewing the level of such fees, the Secretary shall consider the relative size of, the geographic location of, and the number of Convention adoption cases managed by the agencies or persons subject to accreditation or approval by the accrediting entity.
 
-(Pub. L. 106–279, title II, §202, Oct. 6, 2000, 114 Stat. 831.)
+(Pub. L. 106–279, title II, §202, Oct. 6, 2000, 114 Stat. 831; Pub. L. 112–276, §3(b), Jan. 14, 2013, 126 Stat. 2467.)
 
 #### References in Text
 
 This subchapter, referred to in subsec. (a)(1), was in the original “this title”, meaning title II of Pub. L. 106–279, Oct. 6, 2000, 114 Stat. 830, which is classified principally to this subchapter. For complete classification of title II to the Code, see Tables.
+
+#### Amendments
+
+<b>2013</b>—Subsec. (b)(5). Pub. L. 112–276 added par. (5).
 
 #### Effective Date
 

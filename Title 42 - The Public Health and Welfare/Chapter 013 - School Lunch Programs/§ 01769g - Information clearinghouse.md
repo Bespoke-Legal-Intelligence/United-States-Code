@@ -12,7 +12,7 @@ The nongovernmental organization referred to in subsection (a) of this section s
 
 &emsp;(2) be experienced in the establishment of a clearinghouse similar to the clearinghouse described in subsection (a) of this section;
 
-&emsp;(3) agree to contribute in-kind resources towards the establishment and maintenance of the clearinghouse and agree to provide clearinghouse information, free of charge, to the Secretary, States, counties, cities, antihunger groups, and grassroots organizations that assist individuals in becoming self-sufficient and self-reliant;
+&emsp;(3) agree to contribute in-kind resources towards the establishment and maintenance of the clearinghouse and agree to provide clearinghouse information, free of charge, to theSecretary, States, counties, cities, antihunger groups, and grassroots organizations that assist individuals in becoming self-sufficient and self-reliant;
 
 &emsp;(4) be sponsored by an organization, or be an organization, that—
 

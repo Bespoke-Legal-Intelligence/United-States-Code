@@ -56,5 +56,5 @@ Subsec. (e)(2). Pub. L. 110–181, §904(c), substituted “that the Director of
 
 #### First Review of Defense Agencies by Secretary of Defense
 
-Pub. L. 99–433, title III, §304(a), Oct. 1, 1986, 100 Stat. 1024, required the first review under subsec. (c) of this section to be completed not later than two years after the date that the report under Pub. L. 99–433, §303(e), formerly set out as a note under section 191 of this title, was required to be submitted to Congress (Oct. 1, 1987).
+Pub. L. 99–433, title III, §304(a), Oct. 1, 1986, 100 Stat. 1024, required the first review under subsec. (c) of this section to be completed not later than two years afterthe date that the report under Pub. L. 99–433, §303(e), formerly set out as a note under section 191 of this title, was required to be submitted to Congress (Oct. 1, 1987).
 

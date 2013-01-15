@@ -8,7 +8,7 @@ In this subchapter (unless the context otherwise requires):
 
 #### (2) Canola; rapeseed
 
-&emsp;The terms “canola” and “rapeseed” mean any brassica plant grown in the United States for the production of an oilseed, the oil of which is used for a food or nonfood use.
+&emsp;The terms “canola” and “rapeseed” mean any brassica plant grown in the United Statesfor the production of an oilseed, the oil of which is used for a food or nonfood use.
 
 #### (3) Canola or rapeseed product
 

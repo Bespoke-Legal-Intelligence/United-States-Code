@@ -76,7 +76,7 @@ For purposes of this part—
 
 #### (1) Treatment as a group health plan
 
-&emsp;Any plan, fund, or program which would not be (but for this subsection) an employee welfare benefit plan and which is established or maintained by a partnership, to the extent that such plan, fund, or program provides medical care (including items and services paid for as medical care) to present or former partners in the partnership or to their dependents (as defined under the terms of the plan, fund, or program), directly or through insurance, reimbursement, or otherwise, shall be treated (subject to paragraph (2)) as an employee welfare benefit plan which is a group health plan.
+&emsp;Any plan, fund, or program which would not be (but for this subsection) an employee welfare benefit plan and which is established ormaintained by a partnership, to the extent that such plan, fund, or program provides medical care (including items and services paid for as medical care) to present or former partners in the partnership or to their dependents (as defined under the terms of the plan, fund, or program), directly or through insurance, reimbursement, or otherwise, shall be treated (subject to paragraph (2)) as an employee welfare benefit plan which is a group health plan.
 
 #### (2) Employer
 
@@ -146,7 +146,7 @@ Subsec. (d). Pub. L. 111–148, §1563(c)(12)(C), formerly §1562(c)(12)(C), as 
 
 Pub. L. 111–148, §1563(a)(4)(A), formerly §1562(a)(4)(A), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted “subparts 1 and 2 shall not apply to any individual coverage or any group” for “subparts 1 through 3 shall not apply to any group” in introductory provisions.
 
-Pub. L. 111–148, §1563(a)(4)(B)(i), formerly §1562(a)(4)(B)(i), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted “subparts 1 and 2 shall notapply to any individual coverage or any group” for “subparts 1 through 3 shall not apply to any group” in introductory provisions.
+Pub. L. 111–148, §1563(a)(4)(B)(i), formerly §1562(a)(4)(B)(i), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted “subparts 1 and 2 shall not apply to any individual coverage or any group” for “subparts 1 through 3 shall not apply to any group” in introductory provisions.
 
 Subsec. (d)(2)(C). Pub. L. 111–148, §1563(a)(4)(B)(ii), formerly §1562(a)(4)(B)(ii), as renumbered by Pub. L. 111–148, §10107(b)(1), which directed amendment of subpar. (C) by inserting “or, with respect to individual coverage, under any health insurance coverage maintained by the same health insurance issuer” without language specifying placement, was executed by making the insertion before period at end to reflect the probable intent of Congress.
 

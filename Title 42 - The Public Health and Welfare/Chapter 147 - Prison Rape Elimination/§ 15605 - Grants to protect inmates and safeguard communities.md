@@ -6,7 +6,7 @@ From amounts made available for grants under this section, the Attorney General 
 
 #### (b) Use of grant amounts
 
-Amounts received by a grantee under this section may be used by the grantee, directly orthrough subgrants, only for one or more of the following activities:
+Amounts received by a grantee under this section may be used by the grantee, directly or through subgrants, only for one or more of the following activities:
 
 #### (1) Protecting inmates
 

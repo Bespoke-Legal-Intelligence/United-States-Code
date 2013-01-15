@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(C) one way to combat this complacency is to involve local citizens in the process of preparing, adopting, and revising oil spill contingency plans;
 
-&emsp;&emsp;(D) a mechanism should be established which fosters the long-term partnership ofindustry, government, and local communities in overseeing compliance with environmental concerns in the operation of crude oil terminals;
+&emsp;&emsp;(D) a mechanism should be established which fosters the long-term partnership of industry, government, and local communities in overseeing compliance with environmental concerns in the operation of crude oil terminals;
 
 &emsp;&emsp;(E) such a mechanism presently exists at the Sullom Voe terminal in the Shetland Islands and this terminal should serve as a model for others;
 
@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(G) the present system of regulation and oversight of crude oil terminals in the United States has degenerated into a process of continual mistrust and confrontation;
 
-&emsp;&emsp;(H) only when local citizens are involved in the process will the trust develop that is necessary to change the present system from confrontation to consensus;
+&emsp;&emsp;(H) only when local citizens are involved in the process will the trust develop that isnecessary to change the present system from confrontation to consensus;
 
 &emsp;&emsp;(I) a pilot program patterned after Sullom Voe should be established in Alaska to further refine the concepts and relationships involved; and
 
@@ -176,13 +176,13 @@
 
 &emsp;&emsp;&emsp;(iii) modifications of crude oil tanker operations and maintenance in Prince William Sound and Cook Inlet intended to minimize the risk and mitigate the impact of oil spills; and
 
-&emsp;&emsp;&emsp;(iv) modifications to the oil spill prevention and contingency plans for terminalfacilities and for crude oil tankers in Prince William Sound and Cook Inlet intended to enhance the ability to prevent and respond to an oil spill; and
+&emsp;&emsp;&emsp;(iv) modifications to the oil spill prevention and contingency plans for terminal facilities and for crude oil tankers in Prince William Sound and Cook Inlet intended to enhance the ability to prevent and respond to an oil spill; and
 
 &emsp;&emsp;(G) create additional committees of the Council as necessary to carry out the above functions, including a scientific and technical advisory committee to the Prince William Sound Council.
 
 #### (7) No estoppel
 
-&emsp;No Council shall be held liable under State or Federal law for costs or damages as a result of rendering advice under this section. Nor shall any advice given by a voting member of a Council, or program representative or agent, be grounds for estopping the interests represented by the voting Council members from seeking damages or other appropriate relief.
+&emsp;No Council shall be held liable under State or Federal law for costs or damages as a result of rendering advice under this section. Nor shall any advice given by a voting member of a Council, or program representative or agent,be grounds for estopping the interests represented by the voting Council members from seeking damages or other appropriate relief.
 
 #### (8) Scientific work
 
@@ -238,11 +238,11 @@
 
 #### (g) Agency cooperation
 
-On and after the expiration of the 180-day period following August 18, 1990, each Federal department, agency, or other instrumentality shall, with respect to all permits, site-specific regulations, and other matters governing the activities and actions of the terminal facilities which affect or may affect the vicinity of the terminal facilities, consult with the appropriate Council prior to taking substantive action with respect to the permit, site-specific regulation, or other matter. This consultation shall be carriedout with a view to enabling the appropriate Association and Council to review the permit, site-specific regulation, or other matters and make appropriate recommendations regarding operations, policy or agency actions. Prior consultation shall not be required if an authorized Federal agency representative reasonably believes that an emergency exists requiring action without delay.
+On and after the expiration of the 180-day period following August 18, 1990, each Federal department, agency, or other instrumentality shall, with respect to all permits, site-specific regulations, and other matters governing the activities and actions of the terminal facilities which affect or may affect the vicinity of the terminal facilities, consult with the appropriate Council prior to taking substantive action with respect to the permit, site-specific regulation, or other matter. This consultation shall be carried out with a view to enabling the appropriate Association and Council to review the permit, site-specific regulation, or other matters and make appropriate recommendations regarding operations, policy or agency actions. Prior consultation shall not be required if an authorized Federal agency representative reasonably believes that an emergency exists requiring action without delay.
 
 #### (h) Recommendations of Council
 
-In the event that the Association does not adopt, or significantly modifies before adoption, any recommendation of the Council made pursuant to the authority granted to the Council in subsection (d) of this section, the Association shall provide to the Council, in writing, within 5 days of its decision, notice of its decision and a written statement of reasons for its rejection or significant modification of the recommendation.
+In the event that the Association does not adopt, or significantly modifies before adoption, any recommendation of the Council made pursuant to the authority granted to the Council in subsection (d) of this section, the Associationshall provide to the Council, in writing, within 5 days of its decision, notice of its decision and a written statement of reasons for its rejection or significant modification of the recommendation.
 
 #### (i) Administrative actions
 
@@ -284,7 +284,7 @@ Appointments, designations, and selections of individuals to serve as members of
 
 &emsp;&emsp;(C) may be adjusted periodically upon the mutual consent of the owners or operators of terminal facilities, offshore facilities, or crude oil tankers operating in Cook Inlet and the Cook Inlet Council.
 
-#### (<i>l</i>) Reports
+#### (l) Reports
 
 #### (1) Associations and Councils
 
@@ -302,11 +302,11 @@ As used in this section, the term—
 
 &emsp;&emsp;(A) in the case of the Prince William Sound Program, the entire oil terminal complex located in Valdez, Alaska, consisting of approximately 1,000 acres including all buildings, docks (except docks owned by the City of Valdez if those docks are not used for loading of crude oil), pipes, piping, roads, ponds, tanks, crude oil tankers only while at the terminal dock, tanker escorts owned or operated by the operator of the terminal, vehicles, and other facilities associated with, and necessary for, assisting tanker movement of crude oil into and out of the oil terminal complex; and
 
-&emsp;&emsp;(B) in the case of the Cook Inlet Program, the entire oil terminal complex including all buildings, docks, pipes, piping, roads, ponds, tanks, vessels, vehicles, crude oil tankersonly while at the terminal dock, tanker escorts owned or operated by the operator of the terminal, emergency spill response vessels owned or operated by the operator of the terminal, and other facilities associated with, and necessary for, assisting tanker movement of crude oil into and out of the oil terminal complex;
+&emsp;&emsp;(B) in the case of the Cook Inlet Program, the entire oil terminal complex including all buildings, docks, pipes, piping, roads, ponds, tanks, vessels, vehicles, crude oil tankers only while at the terminal dock, tanker escorts owned or operated by the operator of the terminal, emergency spill response vessels owned or operated by the operator of the terminal, and other facilities associated with, and necessary for, assisting tanker movement of crude oil into and out of the oil terminal complex;
 
 &emsp;(2) “crude oil tanker” means a tanker (as that term is defined under section 2101 of title 46)—
 
-&emsp;&emsp;(A) in the case of the Prince William Sound Program, calling at the terminal facilities for the purpose of receiving and transporting oil to refineries, operating north of Middleston Island and bound for or exiting from Prince William Sound; and
+&emsp;&emsp;(A) in the case of the Prince William Sound Program, calling at the terminal facilities for the purpose of receiving and transporting oil to refineries, operatingnorth of Middleston Island and bound for or exiting from Prince William Sound; and
 
 &emsp;&emsp;(B) in the case of the Cook Inlet Program, calling at the terminal facilities for the purpose of receiving and transporting oil to refineries and operating in Cook Inlet and the Gulf of Alaska north of Amatuli Island, including tankers transiting to Cook Inlet from Prince William Sound;
 
@@ -328,9 +328,9 @@ As used in this section, the term—
 
 &emsp;This subsection is not intended to prevent the Association or Council from recommending to appropriate authorities that existing legal requirements should be modified or that new legal requirements should be adopted.
 
-#### (<i>o</i>) Alternative voluntary advisory group in lieu of Council
+#### (o) Alternative voluntary advisory group in lieu of Council
 
-The requirements of subsections (c) through (<i>l</i>) of this section, as such subsections apply respectively to the Prince William Sound Program and the Cook Inlet Program, are deemed to have been satisfied so long as the following conditions are met:
+The requirements of subsections (c) through (l) of this section, as such subsections apply respectively to the Prince William Sound Program and the Cook Inlet Program, are deemed to have been satisfied so long as the following conditions are met:
 
 #### (1) Prince William Sound
 
@@ -340,7 +340,7 @@ The requirements of subsections (c) through (<i>l</i>) of this section, as such 
 
 &emsp;With respect to the Cook Inlet Program, the terminal facilities, offshore facilities, or crude oil tanker owners and operators enter into a contract with a voluntary advisory organization to fund that organization on an annual basis and the President annually certifies that the organization fosters the general goals and purposes of this section and is broadly representative of the communities and interests in the vicinity of the terminal facilities and Cook Inlet.
 
-(Pub. L. 101–380, title V, §5002, Aug. 18, 1990, 104 Stat. 544; Pub. L. 109–241, title IX, §902(<i>l</i>)(2), July 11, 2006, 120 Stat. 568.)
+(Pub. L. 101–380, title V, §5002, Aug. 18, 1990, 104 Stat. 544; Pub. L. 109–241, title IX, §902(l)(2), July 11, 2006, 120 Stat. 568.)
 
 #### Amendments
 
@@ -352,13 +352,13 @@ General Accounting Office redesignated Government Accountability Office by secti
 
 #### Delegation of Functions
 
-Functions of President under subsecs. (c)(2)(D) and (<i>o</i>) of this section delegated to Secretary of the Department in which the Coast Guard is operating by section 8(f), (g) of Ex. Ord. No. 12777, Oct. 18, 1991, 56 F.R. 54769, as amended, set out as a note under section 1321 of this title.
+Functions of President under subsecs. (c)(2)(D) and (o) of this section delegated to Secretary of the Department in which the Coast Guard is operating by section 8(f), (g) of Ex. Ord. No. 12777, Oct. 18, 1991, 56 F.R. 54769, as amended, set out as a note under section 1321 of this title.
 
 #### Prince William Sound Regional Citizens Advisory Committee
 
 Certification of President of the United States, Mar. 21, 1991, 56 F.R. 12439, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 5002(<i>o</i>)(1) of the Oil Pollution Act of 1990 (Public Law 101–380, 104 Stat. 552) \[33 U.S.C. 2732(<i>o</i>)(1)\], I hereby certify for the year 1991 the following:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 5002(o)(1) of the Oil Pollution Act of 1990 (Public Law 101–380, 104 Stat. 552) \[33 U.S.C. 2732(o)(1)\], I hereby certify for the year 1991 the following:
 
 (1) that the Prince William Sound Regional Citizens Advisory Committee fosters the general goals and purposes of section 5002 of the Oil Pollution Act of 1990 for the year 1991; and
 
@@ -372,7 +372,7 @@ George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Certification of President of the United States, Aug. 6, 1991, 56 F.R. 37819, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 5002(<i>o</i>)(2) of the Oil Pollution Act of 1990 \[33 U.S.C. 2732(<i>o</i>)(2)\], I hereby certify for the year 1991 the following:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 5002(o)(2) of the Oil Pollution Act of 1990 \[33 U.S.C. 2732(o)(2)\], I hereby certify for the year 1991 the following:
 
 (1) that the Cook Inlet Regional Citizens Advisory Council has met the general goals and purposes of section 5002 of the Oil Pollution Act of 1990 for the year 1991; and
 

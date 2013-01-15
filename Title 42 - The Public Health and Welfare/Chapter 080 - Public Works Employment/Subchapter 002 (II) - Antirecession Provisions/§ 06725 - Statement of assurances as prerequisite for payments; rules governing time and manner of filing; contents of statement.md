@@ -8,7 +8,7 @@ Each State and unit of local government may receive payments under this subchapt
 
 &emsp;&emsp;(A) use fiscal, accounting, and audit procedures which conform to guidelines established therefor by the Secretary (after consultation with the Comptroller General of the United States), and
 
-&emsp;&emsp;(B) provide to the Secretary (and to the Comptroller General of the United States),on reasonable notice, access to, and the right to examine, such books, documents, papers, or records as the Secretary may reasonably require for purposes of reviewing compliance with this subchapter;
+&emsp;&emsp;(B) provide to the Secretary (and to the Comptroller General of the United States), on reasonable notice, access to, and the right to examine, such books, documents, papers, or records as the Secretary may reasonably require for purposes of reviewing compliance with this subchapter;
 
 &emsp;(3) an assurance that reasonable reports will be furnished to the Secretary in such form and containing such information as the Secretary may reasonably require to carry out the purposes of this subchapter and that such report shall be published in a newspaper of general circulation in the jurisdiction of such government unless the cost of such publication is excessive in relation to the amount of the payments received by such government under this subchapter or other means of publicizing such report is more appropriate, in which case such report shall be publicized pursuant to rules prescribed by the Secretary;
 

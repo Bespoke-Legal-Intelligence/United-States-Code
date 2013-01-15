@@ -6,7 +6,7 @@ The income-tax laws in force in the United States of America and those which may
 
 #### (b) Guam Territorial income tax
 
-The income-tax laws in force in Guam pursuant to subsection (a) of this section shall be deemed to impose a separate Territorial income tax, payable to the government of Guam, which tax is designated the “Guam Territorial income tax”.
+The income-tax laws in force in Guam pursuant to subsection (a) of this section shall bedeemed to impose a separate Territorial income tax, payable to the government of Guam, which tax is designated the “Guam Territorial income tax”.
 
 #### (c) Enforcement of tax
 
@@ -18,7 +18,7 @@ The administration and enforcement of the Guam Territorial income tax shall be p
 
 (2) The Governor or his delegate shall have the same administrative and enforcement powers and remedies with regard to the Guam Territorial income tax as the Secretary of the Treasury, and other United States officials of the executive branch, have with respect to the United States income tax. Needful rules and regulations not inconsistent with the regulations prescribed under section 7654(e) of the Internal Revenue Code of 1986 \[26 U.S.C. 7654(e)\] for enforcement of the Guam Territorial income tax shall be prescribed by the Governor. The Governor or his delegate shall have authority to issue, from time to time, in whole or in part, the text of the income-tax laws in force in Guam pursuant to subsection (a) of this section.
 
-(3) In applying as the Guam Territorial income tax the income-tax laws in force in Guam pursuant to subsection (a) of this section, the rate of tax under sections 871, 881, 884, 1441, 1442, 1443, 1445, and 1446 of the Internal Revenue Code of 1986 \[26 U.S.C. 871, 881, 884, 1441, 1442, 1443, 1445, and 1446\] on any item of income from sources within Guam shall be the same as the rate which would apply with respect to such item were Guam treated as part of the United States for purposes of the treaty obligations of the United States. The preceding sentence shall not applyto determine the rate of tax on any item of income received from a Guam payor if, for any taxable year, the taxes of the Guam payor were rebated under Guam law. For purposes of this subsection, the term “Guam payor” means the person from whom the item of income would be deemed to be received for purposes of claiming treaty benefits were Guam treated as part of the United States.
+(3) In applying as the Guam Territorial income tax the income-tax laws in force in Guam pursuant to subsection (a) of this section, the rate of tax under sections 871, 881, 884, 1441, 1442, 1443, 1445, and 1446 of the Internal Revenue Code of 1986 \[26 U.S.C. 871, 881, 884, 1441, 1442, 1443, 1445, and 1446\] on any item of income from sources within Guam shall be the same as the rate which would apply with respect to such item were Guam treated as part of the United States for purposes of the treaty obligations of the United States. The preceding sentence shall not apply to determine the rate of tax on any item of income received from a Guam payor if, for any taxable year, the taxes of the Guam payor were rebated under Guam law. For purposes of this subsection, the term “Guam payor” means the person from whom the item of income would be deemed to be received for purposes of claiming treaty benefits were Guam treated as part of the United States.
 
 #### (e) Substitution of terms
 
@@ -58,7 +58,7 @@ The Internal Revenue Code of 1986, referred to in subsecs. (d) to (f), is classi
 
 The Internal Revenue Code of 1939, referred to in subsecs. (d)(1), (e), and (f), was generally repealed by section 7851 of the Internal Revenue Code of 1986, Title 26. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of Title 26, Internal Revenue Code. See also section 7852(b) of Title 26, Internal Revenue Code, for provision that references in any other law to a provision of the 1939 Code, unless expressly incompatible with the intent thereof, shall be deemed a reference to the corresponding provision of the 1986 Code.
 
-Subtitle A (not including chapter 2 and section 931) and chapters 24 and 25 of subtitle C, referred to in subsec. (d)(1), and subtitle F and chapter 75, referred to in subsecs. (d)(1) and (f), mean subtitle A (§1 et seq.),chapter 2 (§1401 et seq.) of subtitle A, chapters 24 (§3401 et seq.) and 25 (§3501 et seq.) of subtitle C, subtitle F (§6001 et seq.) and chapter 75 (§7201 et seq.) of subtitle F, respectively, of Title 26.
+Subtitle A (not including chapter 2 and section 931) and chapters 24 and 25 of subtitle C, referred to in subsec. (d)(1), and subtitle F and chapter 75, referred to in subsecs. (d)(1) and (f), mean subtitle A (§1 et seq.), chapter 2 (§1401 et seq.) of subtitle A, chapters 24 (§3401 et seq.) and 25 (§3501 et seq.) of subtitle C, subtitle F (§6001 et seq.) and chapter 75 (§7201 et seq.) of subtitle F, respectively, of Title 26.
 
 #### Amendments
 
@@ -92,5 +92,5 @@ See section 1271 of Pub. L. 99–514, set out as a note under section 931 of Tit
 
 #### Ratification of Assessments and Collections Made Before August 20, 1958
 
-Section 2 of Pub. L. 85–688 provided that income taxes assessed prior to Aug. 20, 1958, by the authorities of the government of Guam pursuant to, or under color of, this section, the collection of such taxes, and all acts done to effectuate such assessment and collection were legalized, ratified and confirmed as fully, to all intents and purposes, as if subsecs. (b) to (h) of this section, had then been in full force and effect.
+Pub. L. 85–688, §2, Aug. 20, 1958, 72 Stat. 683, provided that income taxes assessed prior to Aug. 20, 1958, by the authorities of the government of Guam pursuant to, or under color of, this section, the collection of such taxes, and all acts done to effectuate such assessment and collection were legalized, ratified and confirmed as fully, to all intents and purposes, as if subsecs. (b) to (h) of this section, had then been in full force and effect.
 

@@ -98,11 +98,11 @@ For the purposes of this chapter:
 
 #### Effective Date of 1994 Amendment
 
-Section 15 of Pub. L. 103–349 provided that: “This Act \[amending this section and sections 2327, 2330, 2353, 2354, 2357, 2402, 2404, 2422, 2423, 2424, 2425, 2442, 2461, 2462, 2463, 2482, 2483, 2486, 2501, 2504, 2532, 2541, 2542, 2543, 2561, 2566, 2567, 2568, and 2570 of this title, repealing sections 2463, 2502 and 2503 of this title, and enacting provisions set out as notes under this section and section 2321 of this title\] and the amendments made by this Act shall become effective 180 days after the date of enactment of this Act \[Oct. 6, 1994\].”
+Pub. L. 103–349, §15, Oct. 6, 1994, 108 Stat. 3145, provided that: “This Act \[amending this section and sections 2327, 2330, 2353, 2354, 2357, 2402, 2404, 2422, 2423, 2424, 2425, 2442, 2461, 2462, 2463, 2482, 2483, 2486, 2501, 2504, 2532, 2541, 2542, 2543, 2561, 2566, 2567, 2568, and 2570 of this title, repealing sections 2463, 2502 and 2503 of this title, and enacting provisions set out as notes under this section and section 2321 of this title\] and the amendments made by this Act shall become effective 180 days after the date of enactment of this Act \[Oct. 6, 1994\].”
 
 #### Transitional Provisions for 1994 Amendment
 
-Section 14 of Pub. L. 103–349 provided that:
+Pub. L. 103–349, §14, Oct. 6, 1994, 108 Stat. 3144, provided that:
 
 “(a)
 

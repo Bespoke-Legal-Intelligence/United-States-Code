@@ -14,7 +14,7 @@ Section 1156, act May 30, 1894, ch. 87, 28 Stat. 84; 1946 Reorg. Plan No. 3, §4
 
 #### Effective Date of Repeal
 
-Section 705(a) of Pub. L. 94–579 provided that the repeal made by that section is effective on and after Oct. 21, 1976.
+Pub. L. 94–579, title VII, §705(a), Oct. 21, 1976, 90 Stat. 2792, provided that the repeal made by section 705(a) is effective on and after Oct. 21, 1976.
 
 #### Savings Provision
 

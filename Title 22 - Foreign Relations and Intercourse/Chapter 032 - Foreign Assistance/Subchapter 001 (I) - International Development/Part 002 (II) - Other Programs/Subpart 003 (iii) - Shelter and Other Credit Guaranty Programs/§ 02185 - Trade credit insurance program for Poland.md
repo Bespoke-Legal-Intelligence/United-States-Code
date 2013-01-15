@@ -48,7 +48,7 @@ The Bank shall provide, without reimbursement, such administrative and technical
 
 #### (j) Fees and premiums
 
-The Bank is authorized to charge fees and premiums, in connection with guarantees or insurance guaranteed by the administering agency under subsection (a) of this section, that are commensurate (in the judgment of the Bank) with the Bank's administrative costs and therisks covered by the agency's guarantees. Any amounts received by the Bank in excess of the estimated costs incurred by the Bank in administering such guarantees or insurance—
+The Bank is authorized to charge fees and premiums, in connection with guarantees or insurance guaranteed by the administering agency under subsection (a) of this section, that are commensurate (in the judgment of the Bank) with the Bank's administrative costs and the risks covered by the agency's guarantees. Any amounts received by the Bank in excess of the estimated costs incurred by the Bank in administering such guarantees or insurance—
 
 &emsp;(1) shall be credited to the reserve fund established pursuant to subsection (d) of this section,
 
@@ -60,7 +60,7 @@ The Bank is authorized to charge fees and premiums, in connection with guarantee
 
 Prohibitions on the use of foreign assistance funds for assistance for Poland shall not apply with respect to the funds made available to carry out this section.
 
-#### (<i>l</i>) Expiration of authority
+#### (l) Expiration of authority
 
 The President may not enter into any commitments to guarantee under subsection (a) of this section after September 30, 1992.
 
@@ -90,7 +90,7 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### Conforming Reference
 
-Section 304(c) of Pub. L. 101–179 provided that: “With respect to Poland, any reference in the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1990 \[Pub. L. 101–167, Nov. 21, 1989, 103 Stat. 1195\], to section 224 of the Foreign Assistance Act of 1961 \[22 U.S.C. 2184\] shall be deemed to be a reference to section 225 of that Act \[22 U.S.C. 2185\] (as enacted by this section).”
+Pub. L. 101–179, title III, §304(c), Nov. 28, 1989, 103 Stat. 1314, provided that: “With respect to Poland, any reference in the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1990 \[Pub. L. 101–167, Nov. 21, 1989, 103 Stat. 1195\], to section 224 of the Foreign Assistance Act of 1961 \[22 U.S.C. 2184\] shall be deemed to be a reference to section 225 of that Act \[22 U.S.C. 2185\] (as enacted by this section).”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “has”.</i>
 

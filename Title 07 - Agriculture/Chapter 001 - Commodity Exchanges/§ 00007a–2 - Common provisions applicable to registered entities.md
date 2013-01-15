@@ -14,7 +14,7 @@
 
 #### (1) In general
 
-&emsp;A contract market, derivatives transaction execution facility, or electronic trading facility with respect to a significant price discovery contract may comply with any applicable core principle through delegation of any relevant function to a registered futures association or a registered entity that is not an electronic trading facility.
+&emsp;A contract market, derivatives transaction execution facility, or electronic trading facility with respect to a significant price discovery contract may comply with any applicablecore principle through delegation of any relevant function to a registered futures association or a registered entity that is not an electronic trading facility.
 
 #### (2) Responsibility
 
@@ -42,7 +42,7 @@
 
 &emsp;&emsp;(i) withdraws the stay prior to that time; or
 
-&emsp;&emsp;(ii) notifies the registered entity during such period that it objects to the proposedcertification on the grounds that it is inconsistent with this chapter (including regulations under this chapter).
+&emsp;&emsp;(ii) notifies the registered entity during such period that it objects to the proposed certification on the grounds that it is inconsistent with this chapter (including regulations under this chapter).
 
 &emsp;(C) The Commission shall provide a not less than 30-day public comment period, within the 90-day period in which the stay is in effect as described in subparagraph (A), whenever the Commission reviews a rule or rule amendment pursuant to a notification by the Commission under this paragraph.
 
@@ -74,7 +74,7 @@
 
 #### (i) Event contracts
 
-&emsp;&emsp;&emsp;In connection with the listing of agreements, contracts, transactions, or swaps in excluded commodities that are based upon the occurrence, extent of an occurrence, or contingency (other than a change in the price, rate, value, or levels of a commodity described in section 1a(2)(i) <sup>2</sup> of this title), by a designated contract market or swap execution facility, the Commission may determine that such agreements, contracts, or transactions are contrary to the public interest if the agreements, contracts, or transactions involve—
+&emsp;&emsp;&emsp;In connection with the listing of agreements, contracts, transactions, or swaps in excluded commodities that are based upon the occurrence, extent of an occurrence, or contingency (other than a change in theprice, rate, value, or levels of a commodity described in section 1a(2)(i) <sup>2</sup> of this title), by a designated contract market or swap execution facility, the Commission may determine that such agreements, contracts, or transactions are contrary to the public interest if the agreements, contracts, or transactions involve—
 
 &emsp;&emsp;&emsp;&emsp;(I) activity that is unlawful under any Federal or State law;
 
@@ -118,11 +118,11 @@ Nothing in this section shall limit or in any way affect the emergency powers of
 
 #### (f) Rules to avoid duplicative regulation of dual registrants
 
-Consistent with this chapter, each designated contract market and registered derivatives transaction execution facility shall issue such rules as are necessary to avoid duplicative or conflicting rules applicable to any futures commission merchant registered with the Commission pursuant to section 6f(a) of this title (except paragraph (2) thereof), that is also registered with the Securities and Exchange Commission pursuant to section 78<i>o</i>(b) of title 15 (except paragraph (11) thereof) with respect to the application of—
+Consistent with this chapter, each designated contract market and registered derivatives transaction execution facility shall issue such rules as are necessary to avoid duplicative or conflicting rules applicable to any futures commission merchant registered with the Commission pursuant to section 6f(a) of this title (except paragraph (2) thereof), that is also registered with the Securities and Exchange Commission pursuant to section 78o(b) of title 15 (except paragraph (11) thereof) with respect to the application of—
 
 &emsp;(1) rules of such designated contract market or registered derivatives transaction execution facility of the type specified in section 6d(e) of this title involving security futures products; and
 
-&emsp;(2) similar rules of national securities associations registered pursuant to section 78<i>o</i>–3(a) of title 15 and national securities exchanges registered pursuant to section 78f(g) of title 15 involving security futures products.
+&emsp;(2) similar rules of national securities associations registered pursuant to section 78o–3(a) of title 15 and national securities exchanges registered pursuant to section 78f(g) of title 15 involving security futures products.
 
 (Sept. 21, 1922, ch. 369, §5c, as added and amended Pub. L. 106–554, §1(a)(5) \[title I, §113, title II, §251(h)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–399, 2763A–444; Pub. L. 110–234, title XIII, §§13105(e), (f), 13203(i)–(k), May 22, 2008, 122 Stat. 1434, 1440, 1441; Pub. L. 110–246, §4(a), title XIII, §§13105(e), (f), 13203(i)–(k), June 18, 2008, 122 Stat. 1664, 2196, 2202, 2203; Pub. L. 111–203, title VII, §§717(d), 721(e)(7), 745, 749(c), July 21, 2010, 124 Stat. 1652, 1671, 1735, 1747.)
 

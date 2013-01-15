@@ -17,23 +17,17 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Amendment of Analysis
-
-<i>For termination of amendment by section 304 of Pub. L. 111–312, see Effective and Termination Dates of 2010 Amendment note set out under section 121 of this title.</i>
-
-<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note set out under section 1 of this title.</i>
-
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–312, title III, §§301(a), 304, Dec. 17, 2010, 124 Stat. 3300, 3304, temporarily amended analysis to read as if amendment by Pub. L. 107–16, §501(c)(1), had never been enacted. See 2001 Amendment note below.
+<b>2010</b>—Pub. L. 111–312, title III, §301(a), Dec. 17, 2010, 124 Stat. 3300, amended analysis to read as if amendment by Pub. L. 107–16, §501(c)(1), had never been enacted. See 2001 Amendment note below.
 
 <b>2003</b>—Pub. L. 108–121, title I, §110(c)(2)(B), Nov. 11, 2003, 117 Stat. 1342, inserted “, deaths of astronauts,” after “Forces” in item 2201.
 
 <b>2002</b>—Pub. L. 107–134, title I, §103(c), Jan. 23, 2002, 115 Stat. 2431, substituted “Combat zone-related deaths of members of the Armed Forces and deaths of victims of certain terrorist attacks.” for “Members of the Armed Forces dying in combat zone or by reason of combat-zone-incurred wounds, etc.” in item 2201.
 
-<b>2001</b>—Pub. L. 107–16, title V, §501(c)(1), title IX, §901, June 7, 2001, 115 Stat. 69, 150, temporarily added item 2210 “Termination”.
+<b>2001</b>—Pub. L. 107–16, title V, §501(c)(1), June 7, 2001, 115 Stat. 69, added item 2210 “Termination”.
 
-<b>1989</b>—Pub. L. 101–239, title VII, §7304(b)(2)(C), Dec. 19, 1989, 103 Stat. 2353, struck out item 2210 “Liability for payment in case of transfer of employer securities toan employee stock ownership plan or a worker-owned cooperative”.
+<b>1989</b>—Pub. L. 101–239, title VII, §7304(b)(2)(C), Dec. 19, 1989, 103 Stat. 2353, struck out item 2210 “Liability for payment in case of transfer of employer securities to an employee stock ownership plan or a worker-owned cooperative”.
 
 <b>1988</b>—Pub. L. 100–647, title III, §3031(f)(2), Nov. 10, 1988, 102 Stat. 3638, added item 2207B.
 

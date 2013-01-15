@@ -8,7 +8,7 @@ Provision of development resources must be adapted to the needs and capabilities
 
 Bilateral assistance and United States participation in multilateral institutions shall emphasize programs in support of countries which pursue development strategies designed to meet basic human needs and achieve self-sustaining growth with equity.
 
-The Congress declares that the principal purpose of United States bilateral development assistance is to help the poor majority of people in developing countries to participate in a process of equitable growth through productive work and to influence decisions that shape their lives, with the goal of increasing their incomes and their access to public services which will enable them to satisfy their basic needs and lead lives of decency, dignity, and hope. Activities shall be emphasized that effectively involve the poor in development by expanding their access to the economy through services and institutions at the local level, increasing their participation inthe making of decisions that affect their lives, increasing labor-intensive production and the use of appropriate technology, expanding productive investment and services out from major cities to small towns and rural areas, and otherwise providing opportunities for the poor to improve their lives through their own efforts. Participation of the United States in multilateral institutions shall also place appropriate emphasis on these principles.
+The Congress declares that the principal purpose of United States bilateral development assistance is to help the poor majority of people in developing countries to participate in a process of equitable growth through productive work and to influence decisions that shape their lives, with the goal of increasing their incomes and their access to public services which will enable them to satisfy their basic needs and lead lives of decency, dignity, and hope. Activities shall be emphasized that effectively involve the poor in development by expanding their access to the economy through services and institutions at the local level, increasing their participation in the making of decisions that affect their lives, increasing labor-intensive production and the use of appropriate technology, expanding productive investment and services out from major cities to small towns and rural areas, and otherwise providing opportunities for the poor to improve their lives through their own efforts. Participation of the United States in multilateral institutions shall also place appropriate emphasis on these principles.
 
 #### (b) Form of assistance; principles governing assistance
 
@@ -50,7 +50,7 @@ Assistance under this part should be used not only for the purpose of transferri
 
 &emsp;(11) Assistance efforts of the United States shall be planned and furnished to the maximum extent practicable in coordination and cooperation with assistance efforts of other countries, including the planning and implementation of programs and projects on a multilateral and multidonor basis.
 
-&emsp;(12) United States bilateral development assistance should be concentrated on projectswhich do not involve large-scale capital transfers. However, to the extent that such assistance does involve large-scale capital transfers, it should be furnished in association with contributions from other countries working together in a multilateral framework.
+&emsp;(12) United States bilateral development assistance should be concentrated on projects which do not involve large-scale capital transfers. However, to the extent that such assistance does involve large-scale capital transfers, it should be furnished in association with contributions from other countries working together in a multilateral framework.
 
 &emsp;(13) United States encouragement of policy reforms is necessary if developing countries are to achieve economic growth with equity.
 
@@ -60,7 +60,7 @@ Assistance under this part should be used not only for the purpose of transferri
 
 &emsp;(16) United States assistance should focus on establishing and upgrading the institutional capacities of developing countries in order to promote long term development. An important component of institution building involves training to expand the human resource potential of people in developing countries.
 
-&emsp;(17) Economic reform and development of effective institutions of democratic governance are mutually reinforcing. The successful transition of a developing country is dependent upon the quality of its economic and governance institutions. Rule of law, mechanisms of accountability and transparency, security of person, property, and investments, are but a few of the critical governance and economic reforms that underpin the sustainability of broad-based economic growth. Programs in support of such reforms strengthen the capacity of people to hold their governments accountable and to create economic opportunity.
+&emsp;(17) Economic reform and development of effective institutions of democratic governance are mutually reinforcing. The successful transition of a developing country is dependent upon the quality of its economic and governance institutions. Rule of law, mechanisms of accountability and transparency, security of person, property, and investments, are but a few of the critical governance and economicreforms that underpin the sustainability of broad-based economic growth. Programs in support of such reforms strengthen the capacity of people to hold their governments accountable and to create economic opportunity.
 
 #### (c) Worldwide cooperative effort to overcome aspects of absolute poverty
 
@@ -90,7 +90,7 @@ Subsec. (b)(7). Pub. L. 96–53, §104(a)(2), inserted applicability to promotio
 
 #### Effective Date of 1985 Amendment
 
-Section 1301 of Pub. L. 99–83 provided that: “Except as otherwise provided in this Act, this Act \[see Short Title of 1985 Amendment note set out under section 2151 of this title\] shall take effect on October 1, 1985.”
+Pub. L. 99–83, title XIII, §1301, Aug. 8, 1985, 99 Stat. 280, provided that: “Except as otherwise provided in this Act, this Act \[see Short Title of 1985 Amendment note set out under section 2151 of this title\] shall take effect on October 1, 1985.”
 
 #### Effective Date of 1979 Amendment
 

@@ -42,7 +42,7 @@ The Federal Director shall—
 
 &emsp;(4) identify and every 5 years reassess improved or higher rating standards recommended by the Advisory Committee;
 
-&emsp;(5) ensure full coordination, dissemination of information regarding, and promotion of theresults of research and development information relating to Federal high-performance green building initiatives;
+&emsp;(5) ensure full coordination, dissemination of information regarding, and promotion of the results of research and development information relating to Federal high-performance green building initiatives;
 
 &emsp;(6) identify and develop Federal high-performance green building standards for all types of Federal facilities, consistent with the requirements of this part and section 6834(a)(3)(D) of this title;
 
@@ -132,7 +132,7 @@ The Office of Federal High-Performance Green Buildings shall carry out each plan
 
 &emsp;&emsp;&emsp;(ii) use of renewable energy sources;
 
-&emsp;&emsp;&emsp;(iii) improved indoor environmental quality through enhanced indoor air quality, thermal comfort, acoustics, day lighting, pollutant source control, and use of low-emission materials and building system controls;
+&emsp;&emsp;&emsp;(iii) improved indoor environmental quality through enhanced indoor air quality, thermal comfort, acoustics, day lighting, pollutant source control, and use oflow-emission materials and building system controls;
 
 &emsp;&emsp;&emsp;(iv) reduced impacts from transportation through building location and site design that promote access by public transportation; and
 

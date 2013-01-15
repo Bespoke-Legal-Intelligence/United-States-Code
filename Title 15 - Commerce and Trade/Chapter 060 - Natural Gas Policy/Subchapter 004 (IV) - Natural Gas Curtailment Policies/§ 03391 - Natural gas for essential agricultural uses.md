@@ -10,7 +10,7 @@ Not later than 120 days after November 9, 1978, the Secretary of Energy shall pr
 
 #### (b) Curtailment priority not applicable if alternative fuel available
 
-If the Commission, in consultation with the Secretary of Agriculture, determines, by rule or order, that use of a fuel (other than natural gas) is economically practicable and that the fuel is reasonably available as an alternative for any agricultural use of natural gas, the provisions of subsection (a) of this section shall not apply with respect to any curtailment of deliveries for such use.
+If the Commission, in consultation with the Secretary of Agriculture, determines, by rule or order, that use of a fuel (other than natural gas)is economically practicable and that the fuel is reasonably available as an alternative for any agricultural use of natural gas, the provisions of subsection (a) of this section shall not apply with respect to any curtailment of deliveries for such use.
 
 #### (c) Determination of essential agricultural use requirements
 

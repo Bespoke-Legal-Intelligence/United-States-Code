@@ -36,7 +36,7 @@ Exclusions.—Except as provided in paragraph (3), the term “consumer report�
 
 &emsp;&emsp;(C) any report in which a person who has been requested by a third party to make a specific extension of credit directly or indirectly to a consumer conveys his or her decision with respect to such request, if the third party advises the consumer of the name and address of the person to whom the request was made, and such person makes the disclosures to the consumer required under section 1681m of this title; or
 
-&emsp;&emsp;(D) a communication described in subsection (<i>o</i>) or (x) <sup>1</sup> of this section.
+&emsp;&emsp;(D) a communication described in subsection (o) or (x) <sup>1</sup> of this section.
 
 &emsp;(3)
 
@@ -110,7 +110,7 @@ Actions included.—The term “adverse action”—
 
 Applicable findings, decisions, commentary, and orders.—For purposes of any determination of whether an action is an adverse action under paragraph (1)(A), all appropriate final findings, decisions, commentary, and orders issued under section 1691(d)(6) of this title by the Bureau or any court shall apply.
 
-(<i>l</i>)
+(l)
 
 Firm Offer of Credit or Insurance.—The term “firm offer of credit or insurance” means any offer of credit or insurance to a consumer that will be honored if the consumer is determined, based on information in a consumer report on the consumer, to meet the specific criteria used to select the consumer for the offer, except that the offer may be further conditioned on one or more of the following:
 
@@ -144,7 +144,7 @@ Credit or Insurance Transaction That Is Not Initiated by the Consumer.—The ter
 
 State.—The term “State” means any State, the Commonwealth of Puerto Rico, the District of Columbia, and any territory or possession of the United States.
 
-(<i>o</i>)
+(o)
 
 Excluded Communications.—A communication is described in this subsection if it is a communication—
 
@@ -350,7 +350,7 @@ Subsecs. (w) to (y). Pub. L. 111–203, §1088(a)(1), added subsec. (w) and rede
 
 Subsec. (d)(2)(A). Pub. L. 108–159, §214(c)(1), inserted “subject to section 1681s–3 of this title,” after “(A)” in introductory provisions.
 
-Subsec. (d)(2)(D). Pub. L. 108–159, §611(b), inserted “or (x)” after “subsection (<i>o</i>)”.
+Subsec. (d)(2)(D). Pub. L. 108–159, §611(b), inserted “or (x)” after “subsection (o)”.
 
 Subsec. (d)(3). Pub. L. 108–159, §411(b)(2), added par. (3).
 
@@ -362,21 +362,21 @@ Subsec. (x). Pub. L. 108–159, §611(a), added subsec. (x).
 
 <b>1998</b>—Subsec. (d)(2)(A)(iii). Pub. L. 105–347, §6(1), struck out “any” before “communication of other”.
 
-Subsec. (<i>o</i>)(1). Pub. L. 105–347, §6(2), substituted “(d)(2)(D)” for “(d)(2)(E)”.
+Subsec. (o)(1). Pub. L. 105–347, §6(2), substituted “(d)(2)(D)” for “(d)(2)(E)”.
 
-Subsec. (<i>o</i>)(4). Pub. L. 105–347, §6(3), substituted “and” for “or” at end.
+Subsec. (o)(4). Pub. L. 105–347, §6(3), substituted “and” for “or” at end.
 
 <b>1996</b>—Subsec. (d). Pub. L. 104–208, §2402(e), inserted subsec. heading, designated existing provisions as par. (1) and inserted heading, redesignated cls. (1) to (3) as subpars. (A) to (C), respectively, added par. (2), and struck out at end “The term does not include (A) any report containing information solely as to transactions or experiences between the consumer and the person making the report; (B) any authorization or approval ofa specific extension of credit directly or indirectly by the issuer of a credit card or similar device; or (C) any report in which a person who has been requested by a third party to make a specific extension of credit directly or indirectly to a consumer conveys his decision with respect to such request, if the third party advises the consumer of the name and address of the person to whom the request was made and such person makes the disclosures to the consumer required under section 1681m of this title.”
 
 Subsec. (k). Pub. L. 104–208, §2402(a), added subsec. (k).
 
-Subsec. (<i>l</i>). Pub. L. 104–208, §2402(b), added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 104–208, §2402(b), added subsec. (l).
 
 Subsec. (m). Pub. L. 104–208, §2402(c), added subsec. (m).
 
 Subsec. (n). Pub. L. 104–208, §2402(d), added subsec. (n).
 
-Subsec. (<i>o</i>). Pub. L. 104–208, §2402(f), added subsec. (<i>o</i>).
+Subsec. (o). Pub. L. 104–208, §2402(f), added subsec. (o).
 
 Subsec. (p). Pub. L. 104–208, §2402(g), added subsec. (p).
 
@@ -402,7 +402,7 @@ Pub. L. 105–347, §7, Nov. 2, 1998, 112 Stat. 3211, provided that: “The amen
 
 #### Effective Date of 1996 Amendment
 
-Section 2420 of div. A of Pub. L. 104–208 provided that:
+Pub. L. 104–208, div. A, title II, §2420, Sept. 30, 1996, 110 Stat. 3009–454, provided that:
 
 “(a)
 
@@ -414,11 +414,11 @@ Early Compliance.—Any person or other entity that is subject to the requiremen
 
 #### Effective Date of 1992 Amendment
 
-Section 2(d) of Pub. L. 102–537 provided that: “The amendments made by this section \[enacting section 1681s–1 of this title and amending this section\] shall take effect on January 1, 1993.”
+Pub. L. 102–537, §2(d), Oct. 27, 1992, 106 Stat. 3532, provided that: “The amendments made by this section \[enacting section 1681s–1 of this title and amending this section\] shall take effect on January 1, 1993.”
 
 #### Construction of 1996 Amendment
 
-Section 2421 of div. A of Pub. L. 104–208 provided that: “Nothing in this chapter \[chapter 1 (§§2401–2422) of subtitle D of title II of div. A of Pub. L. 104–208, see Short Title of 1996 Amendment note set out under section 1601 of this title\] or the amendments made by this chapter shall be considered to supersede or otherwise affect section 2721 of title 18, United States Code, with respect to motor vehicle records for surveys, marketing, or solicitations.”
+Pub. L. 104–208, div. A, title II, §2421, Sept. 30, 1996, 110 Stat. 3009–454, provided that: “Nothing in this chapter \[chapter 1 (§§2401–2422) of subtitle D of title II of div. A of Pub. L. 104–208, see Short Title of 1996 Amendment note set out under section 1601 of this title\] or the amendments made by this chapter shall be considered to supersede or otherwise affect section 2721 of title 18, United States Code, with respect to motor vehicle records for surveys, marketing, or solicitations.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

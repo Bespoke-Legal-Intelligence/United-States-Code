@@ -18,7 +18,7 @@ State preservation plans shall be submitted in such form and in accordance with 
 
 &emsp;(5) an independent analysis of the performance of the multifamily housing inventory financed or otherwise monitored by the agency;
 
-&emsp;(6) a certification by the public official responsible for submitting the comprehensive housing affordability strategy under section 12705 of title 42 that the proposed activities are consistent with the approved housing strategy of the State within which the eligible low-income housing is located; and
+&emsp;(6) a certification by the public official responsible for submitting the comprehensivehousing affordability strategy under section 12705 of title 42 that the proposed activities are consistent with the approved housing strategy of the State within which the eligible low-income housing is located; and
 
 &emsp;(7) such other certifications or information that the Secretary determines to be necessary or appropriate to achieve the purposes of this subchapter.
 

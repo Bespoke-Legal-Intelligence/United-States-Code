@@ -2,23 +2,11 @@
 
 #### (a) Limitation based on amount of tax
 
-#### (1) In general
+The aggregate amount of credits allowed by this subpart for the taxable year shall not exceed the sum of—
 
-&emsp;The aggregate amount of credits allowed by this subpart (other than sections 23, 24, 25A(i), 25B, 25D, 30, 30B, and 30D) for the taxable year shall not exceed the excess (if any) of—
+&emsp;(1) the taxpayer's regular tax liability for the taxable year reduced by the foreign tax credit allowable under section 27(a), and
 
-&emsp;&emsp;(A) the taxpayer's regular tax liability for the taxable year, over
-
-&emsp;&emsp;(B) the tentative minimum tax for the taxable year (determined without regard to the alternative minimum tax foreign tax credit).
-
-> &emsp;For purposes of subparagraph (B), the taxpayer's tentative minimum tax for any taxable year beginning during 1999 shall be treated as being zero.
-
-#### (2) Special rule for taxable years 2000 through 2011
-
-&emsp;For purposes of any taxable year beginning during 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, or 2011, the aggregate amount of credits allowed by this subpart for the taxable year shall not exceed the sum of—
-
-&emsp;&emsp;(A) the taxpayer's regular tax liability for the taxable year reduced by the foreign tax credit allowable under section 27(a), and
-
-&emsp;&emsp;(B) the tax imposed by section 55(a) for the taxable year.
+&emsp;(2) the tax imposed by section 55(a) for the taxable year.
 
 #### (b) Regular tax liability
 
@@ -60,7 +48,7 @@ For purposes of this part—
 
 &emsp;&emsp;(N) section 884 (relating to branch profits tax),
 
-&emsp;&emsp;(O) sections 453(<i>l</i>)(3) and 453A(c) (relating to interest on certain deferred tax liabilities),
+&emsp;&emsp;(O) sections 453(l)(3) and 453A(c) (relating to interest on certain deferred tax liabilities),
 
 &emsp;&emsp;(P) section 860K <sup>1</sup> (relating to treatment of transfers of high-yield interests to disqualified holders),
 
@@ -70,7 +58,7 @@ For purposes of this part—
 
 &emsp;&emsp;(S) sections 106(e)(3)(A)(ii), 223(b)(8)(B)(i)(II), and 408(d)(9)(D)(i)(II) (relating to certain failures to maintain high deductible health plan coverage),
 
-&emsp;&emsp;(T) section 170(<i>o</i>)(3)(B) (relating to recapture of certain deductions for fractional gifts),
+&emsp;&emsp;(T) section 170(o)(3)(B) (relating to recapture of certain deductions for fractional gifts),
 
 &emsp;&emsp;(U) section 223(f)(4) (relating to additional tax on health savings account distributions not used for qualified medical expenses),
 
@@ -84,19 +72,15 @@ For purposes of this part—
 
 For purposes of this part, the term “tentative minimum tax” means the amount determined under section 55(b)(1).
 
-(Added §25, renumbered §26, Pub. L. 98–369, div. A, title IV, §472, title VI, §612(a), July 18, 1984, 98 Stat. 827, 905; amended Pub. L. 99–499, title V, §516(b)(1)(A), Oct. 17, 1986, 100 Stat. 1770; Pub. L. 99–514, title II, §261(c), title VI, §632(c)(1), title VII, §701(c)(1), Oct. 22, 1986, 100 Stat. 2214, 2277, 2340; Pub. L. 100–647, title I, §§1006(t)(16)(C), 1007(g)(1), 1011A(c)(10), 1012(q)(8), title IV, §4005(g)(4), title V, §5012(b)(2), Nov. 10, 1988, 102 Stat. 3425, 3434, 3476, 3524, 3650, 3662; Pub. L. 101–239, title VII, §§7811(c)(1), (2), 7821(a)(4)(A), Dec. 19, 1989, 103 Stat. 2406, 2407, 2424; Pub. L. 104–188, title I, §1621(b)(1), Aug. 20, 1996, 110 Stat. 1866; Pub. L. 105–34, title II, §213(e)(1), title XVI, §1602(a)(1), Aug. 5, 1997, 111 Stat. 817, 1093; Pub. L. 105–277, div. J, title II, §2001(a), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 106–170, title V, §501(a), Dec. 17, 1999, 113 Stat. 1918; Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–628; Pub. L. 107–16, title II, §§201(b)(2)(D), 202(f)(2)(C), title VI, §618(b)(2)(C), June 7, 2001, 115 Stat. 46, 49, 108; Pub. L. 107–22, §1(b)(2)(A), July 26, 2001, 115 Stat. 197; Pub. L. 107–147, title IV, §§415(a), 417(23)(B), title VI, §601(a), Mar. 9, 2002, 116 Stat. 54, 57, 59; Pub. L. 108–311, title III, §312(a), title IV, §§401(a)(1), 408(a)(5)(A), Oct. 4, 2004, 118 Stat. 1181, 1183, 1191; Pub. L. 109–135, title IV, §§403(hh)(1), 412(c), Dec. 21, 2005, 119 Stat. 2631, 2636; Pub. L. 109–222, title III, §302(a), May 17, 2006, 120 Stat. 353; Pub. L. 110–166, §3(a), Dec. 26, 2007, 121 Stat. 2461; Pub. L. 110–172, §11(a)(3), Dec. 29, 2007, 121 Stat. 2484; Pub. L. 110–289, div. C, title I, §3011(b)(1), July 30, 2008, 122 Stat. 2891; Pub. L. 110–343, div. B, title I, §106(e)(2)(D), title II, §205(d)(1)(D), div. C, title I, §101(a), title VIII, §801(b), Oct. 3, 2008, 122 Stat. 3817, 3839, 3863, 3931; Pub. L. 111–5, div. B, title I, §§1004(b)(3), 1011(a), 1142(b)(1)(D), 1144(b)(1)(D), Feb. 17, 2009, 123 Stat. 314, 319, 330, 332; Pub. L. 111–148, title X, §10909(b)(2)(E), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §101(b)(1), title II, §202(a), Dec. 17, 2010, 124 Stat. 3298, 3299.)
-
-#### Amendment of Section
-
-<i>For termination of amendment by section 10909(c) of Pub. L. 111–148, see Effective and Termination Dates of 2010 Amendment note below.</i>
-
-<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
+(Added §25, renumbered §26, Pub. L. 98–369, div. A, title IV, §472, title VI, §612(a), July 18, 1984, 98 Stat. 827, 905; amended Pub. L. 99–499, title V, §516(b)(1)(A), Oct. 17, 1986, 100 Stat. 1770; Pub. L. 99–514, title II, §261(c), title VI, §632(c)(1), title VII, §701(c)(1), Oct. 22, 1986, 100 Stat. 2214, 2277, 2340; Pub. L. 100–647, title I, §§1006(t)(16)(C), 1007(g)(1), 1011A(c)(10), 1012(q)(8), title IV, §4005(g)(4), title V, §5012(b)(2), Nov. 10, 1988, 102 Stat. 3425, 3434, 3476, 3524, 3650, 3662; Pub. L. 101–239, title VII, §§7811(c)(1), (2), 7821(a)(4)(A), Dec. 19, 1989, 103 Stat. 2406, 2407, 2424; Pub. L. 104–188, title I, §1621(b)(1), Aug. 20, 1996, 110 Stat. 1866; Pub. L. 105–34, title II, §213(e)(1), title XVI, §1602(a)(1), Aug. 5, 1997, 111 Stat. 817, 1093; Pub. L. 105–277, div. J, title II, §2001(a), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 106–170, title V, §501(a), Dec. 17, 1999, 113 Stat. 1918; Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–628; Pub. L. 107–16, title II, §§201(b)(2)(D), 202(f)(2)(C), title VI, §618(b)(2)(C), June 7, 2001, 115 Stat. 46, 49, 108; Pub. L. 107–22, §1(b)(2)(A), July 26, 2001, 115 Stat. 197; Pub. L. 107–147, title IV, §§415(a), 417(23)(B), title VI, §601(a), Mar. 9, 2002, 116 Stat. 54, 57, 59; Pub. L. 108–311, title III, §312(a), title IV, §§401(a)(1), 408(a)(5)(A), Oct. 4, 2004, 118 Stat. 1181, 1183, 1191; Pub. L. 109–135, title IV, §§403(hh)(1), 412(c), Dec. 21, 2005, 119 Stat. 2631, 2636; Pub. L. 109–222, title III, §302(a), May 17, 2006, 120 Stat. 353; Pub. L. 110–166, §3(a), Dec. 26, 2007, 121 Stat. 2461; Pub. L. 110–172, §11(a)(3), Dec. 29, 2007, 121 Stat. 2484; Pub. L. 110–289, div. C, title I, §3011(b)(1), July 30, 2008, 122 Stat. 2891; Pub. L. 110–343, div. B, title I, §106(e)(2)(D), title II, §205(d)(1)(D), div. C, title I, §101(a), title VIII, §801(b), Oct. 3, 2008, 122 Stat. 3817, 3839, 3863, 3931; Pub. L. 111–5, div. B, title I, §§1004(b)(3), 1011(a), 1142(b)(1)(D), 1144(b)(1)(D), Feb. 17, 2009, 123 Stat. 314, 319, 330, 332; Pub. L. 111–148, title X, §10909(b)(2)(E), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §101(b)(1), title II, §202(a), Dec. 17, 2010, 124 Stat. 3298, 3299; Pub. L. 112–240, title I, §104(c)(1), Jan. 2, 2013, 126 Stat. 2321.)
 
 #### References in Text
 
 Section 860K, referred to in subsec. (b)(2)(P), was repealed by Pub. L. 108–357, title VIII, §835(a), Oct. 22, 2004, 118 Stat. 1593.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (a). Pub. L. 112–240 amended subsec. (a) generally. Prior to amendment, subsec. (a) related to limitation based on amount of tax with a special rule for taxable years 2000 through 2011.
 
 <b>2010</b>—Subsec. (a)(1). Pub. L. 111–148, §10909(b)(2)(E), (c), as amended by Pub. L. 111–312, §101(b)(1), temporarily struck out “23,” before “24,” in introductory provisions. See Effective and Termination Dates of 2010 Amendment note below.
 
@@ -146,9 +130,9 @@ Subsec. (b)(2)(R). Pub. L. 107–147, §415(a), added subpar. (R).
 
 <b>2001</b>—Subsec. (a)(1). Pub. L. 107–16, §618(b)(2)(C), as amended by Pub. L. 107–147, §417(23)(B), substituted “, 24, and 25B” for “and 24” in introductory provisions.
 
-Pub. L. 107–16, §§202(f)(2)(C), 901, temporarily substituted “sections 23 and 24” for “section 24” in introductory provisions. See Effective and Termination Dates of 2001 Amendments note below.
+Pub. L. 107–16, §202(f)(2)(C), substituted “sections 23 and 24” for “section 24” in introductory provisions.
 
-Pub. L. 107–16, §§201(b)(2)(D), 901, temporarily inserted “(other than section 24)” after “this subpart” in introductory provisions. See Effective and Termination Dates of 2001 Amendments note below.
+Pub. L. 107–16, §201(b)(2)(D), inserted “(other than section 24)” after “this subpart” in introductory provisions.
 
 Subsec. (b)(2)(E). Pub. L. 107–22 substituted “Coverdell education savings” for “education individual retirement”.
 
@@ -192,7 +176,7 @@ Subsec. (b)(2)(L), (M). Pub. L. 101–239, §7811(c)(2), added subpars. (L) and 
 
 Subsec. (b)(2)(N). Pub. L. 101–239, §7821(a)(4)(A), which directed amendment of subsec. (b)(2) of this section “as amended by section 11811” by adding subpar. (N), was executed as if it directed amendment of subsec. (b)(2) of this section “as amended by section 7811”, to reflect the probable intent of Congress and the renumbering of section 11811 of H.R. 3299 as section 7811 prior to the enactment of H.R. 3299 into law as Pub. L. 101–239.
 
-<b>1988</b>—Subsec. (b)(2)(C). Pub. L. 100–647, §1011A(c)(10)(A), struck out “, (<i>o</i>)(2),” after “subsection (m)(5)(B)”.
+<b>1988</b>—Subsec. (b)(2)(C). Pub. L. 100–647, §1011A(c)(10)(A), struck out “, (o)(2),” after “subsection (m)(5)(B)”.
 
 Pub. L. 100–647, §5012(b)(2), substituted “(q), or (v)” for “or (q)”.
 
@@ -224,6 +208,10 @@ Pub. L. 99–514, §701(c)(1)(B)(iv), added subpar. (J).
 
 Subsec. (c). Pub. L. 99–514, §701(c)(1)(C), amended subsec. (c) generally, substituting provisions relating to tentative minimum tax for provisions referring to section 55(c) of this title for similar rule for alternative minimum tax for taxpayers other than corporations.
 
+#### Effective Date of 2013 Amendment
+
+Amendment by Pub. L. 112–240 applicable to taxable years beginning after Dec. 31, 2011, see section 104(d) of Pub. L. 112–240, set out as a note under section 23 of this title.
+
 #### Effective and Termination Dates of 2010 Amendment
 
 Pub. L. 111–312, title II, §202(b), Dec. 17, 2010, 124 Stat. 3299, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2009.”
@@ -252,7 +240,7 @@ Pub. L. 110–343, div. C, title I, §101(b), Oct. 3, 2008, 122 Stat. 3863, prov
 
 Amendment by section 801(b) of Pub. L. 110–343 applicable to amounts deferred which are attributable to services performed after Dec. 31, 2008, with certain exceptions, see section 801(d) of div. C of Pub. L. 110–343, set out as an Effective Date note under section 457A of this title.
 
-Pub. L. 110–289, div. C, title I, §3011(c), July 30, 2008, 122 Stat. 2891, provided that: “The amendments made by this section \[enacting section 36 of this title, amending this section and section 6211 of this title and section 1324 of Title 31, Money and Finance, and renumbering former section 36 of this title as section 37 of this title\] shall apply to residences purchased on or after April 9, 2008, in taxable years ending on or after such date.”
+Pub. L. 110–289, div. C, title I, §3011(c), July 30, 2008, 122 Stat. 2891, provided that: “The amendments madeby this section \[enacting section 36 of this title, amending this section and section 6211 of this title and section 1324 of Title 31, Money and Finance, and renumbering former section 36 of this title as section 37 of this title\] shall apply to residences purchased on or after April 9, 2008, in taxable years ending on or after such date.”
 
 #### Effective Date of 2007 Amendment
 
@@ -278,7 +266,7 @@ Pub. L. 107–147, title IV, §415(b), Mar. 9, 2002, 116 Stat. 54, provided that
 
 Pub. L. 107–147, title VI, §601(c), Mar. 9, 2002, 116 Stat. 59, provided that: “The amendments made by this section \[amending this section and section 904 of this title\] shall apply to taxable years beginning after December 31, 2001.”
 
-#### Effective and Termination Dates of 2001 Amendment
+#### Effective Date of 2001 Amendment
 
 Amendment by Pub. L. 107–16 inapplicable to taxable years beginning during 2004 or 2005, see section 312(b)(2) of Pub. L. 108–311, set out as a note under section 23 of this title.
 
@@ -292,8 +280,6 @@ Amendment by section 202(f)(2)(C) of Pub. L. 107–16 applicable to taxable year
 
 Amendment by section 618(b)(2)(C) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2001, see section 618(d) of Pub. L. 107–16, set out as a note under section 24 of this title.
 
-Amendment by sections 201(b)(2)(D) and 202(f)(2)(C) of Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
-
 #### Effective Date of 1999 Amendment
 
 Amendment by Pub. L. 106–170 applicable to taxable years beginning after Dec. 31, 1998, see section 501(c) of Pub. L. 106–170, set out as a note under section 24 of this title.
@@ -304,19 +290,19 @@ Amendment by Pub. L. 105–277 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 1997 Amendment
 
-Section 213(f) of Pub. L. 105–34 provided that: “The amendments made by this section \[enacting section 530 of this title and amending this section and sections 135, 4973, 4975, and 6693 of this title\] shall apply to taxable years beginning after December 31, 1997.”
+Pub. L. 105–34, title II, §213(f), Aug. 5, 1997, 111 Stat. 817, provided that: “The amendments made by this section \[enacting section 530 of this title and amending this section and sections 135, 4973, 4975, and 6693 of this title\] shall apply to taxable years beginning after December 31, 1997.”
 
-Section 1602(i) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section and sections 162, 220, 264, 877, 2107, 2501, 4975, 6050Q, 6652, 6693, 6724, and 7702B of this title, renumbering section 6039F of this title as section 6039G of this title, and amending provisions set out as a note under section 264 of this title\] shall take effect as if included in the provisions of the Health Insurance Portability and Accountability Act of 1996 \[Pub. L. 104–191\] to which such amendments relate.”
+Pub. L. 105–34, title XVI, §1602(i), Aug. 5, 1997, 111 Stat. 1096, provided that: “The amendments made by this section \[amending this section and sections 162, 220, 264, 877, 2107, 2501, 4975, 6050Q, 6652, 6693, 6724, and 7702B of this title, renumbering section 6039F of this title as section 6039G of this title, and amending provisions set out as a note under section 264 of this title\] shall take effect as if included in the provisions of the Health Insurance Portability and Accountability Act of 1996 \[Pub. L. 104–191\] to which such amendments relate.”
 
 #### Effective Date of 1996 Amendment
 
-Section 1621(d) of Pub. L. 104–188 provided that: “The amendments made by this section \[enacting sections860H to 860L of this title and amending this section and sections 56, 382, 582, 856, 860G, 1202, and 7701 of this title\] shall take effect on September 1, 1997.”
+Pub. L. 104–188, title I, §1621(d), Aug. 20, 1996, 110 Stat. 1867, provided that: “The amendments made by this section \[enacting sections 860H to 860L of this title and amending this section and sections 56, 382, 582, 856, 860G, 1202, and 7701 of this title\] shall take effect on September 1, 1997.”
 
 #### Effective Date of 1989 Amendment
 
 Amendment by section 7811(c)(1), (2) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
-Section 7823 of Pub. L. 101–239 provided that: “Except as otherwise provided in this part \[part II (§§7821–7823) of subtitle H of title VII of Pub. L. 101–239, amending this section and sections 453A, 842, 1503, 6427, 6655, 6863, 7519, 7611, 9502, 9503, and 9508 of this title and enacting provisions set out as notes under sections 56 and 7519 of this title\], any amendment made by this part shall take effect as if included in the provision of the 1987 Act \[Pub. L. 100–203, title X\] to which such amendment relates.”
+Pub. L. 101–239, title VII, §7823, Dec. 19, 1989, 103 Stat. 2425, provided that: “Except as otherwise provided in this part \[part II (§§7821–7823) of subtitle H of title VII of Pub. L. 101–239, amending this section and sections 453A, 842, 1503, 6427, 6655, 6863, 7519, 7611, 9502, 9503, and 9508 of this title and enacting provisions set out as notes under sections 56 and 7519 of this title\], any amendment made by this part shall take effect as if included in the provision of the 1987 Act \[Pub. L. 100–203, title X\] to which such amendment relates.”
 
 #### Effective Date of 1988 Amendment
 
@@ -326,9 +312,9 @@ Amendment by sections 1007(g)(1), 1011A(c)(10), and 1012(q)(8) of Pub. L. 100–
 
 Amendment by section 4005(g)(4) of Pub. L. 100–647 applicable, with certain exceptions, to financing provided, and mortgage credit certificates issued, after Dec. 31, 1990, see section 4005(h)(3) of Pub. L. 100–647, set out as a note under section 143 of this title.
 
-Amendment by section 5012(b)(2) of Pub. L. 100–647 applicable to contracts entered into on or after June 21, 1988, with special rule where death benefit increases by more than $150,000, certain other material changes taken into account, and certain exchanges permitted, see section 5012(e) of Pub. L. 100–647, set out as an Effective Date note under section 7702A of this title.
+Amendment by section 5012(b)(2) of Pub. L. 100–647 applicable to contracts entered into on or after June 21, 1988, with special rule where death benefit increases bymore than $150,000, certain other material changes taken into account, and certain exchanges permitted, see section 5012(e) of Pub. L. 100–647, set out as an Effective Date note under section 7702A of this title.
 
-#### Effective Date of 1986 Amendments
+#### Effective Date of 1986 Amendment
 
 Amendment by section 261(c) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 261(g) of Pub. L. 99–514, set out as an Effective Date note under section 7518 of this title.
 
@@ -338,7 +324,7 @@ Amendment by section 632(c)(1) of Pub. L. 99–514 not applicable in the case of
 
 Amendment by section 701(c)(1) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 701(f) of Pub. L. 99–514, set out as an Effective Date note under section 55 of this title.
 
-Section 516(c) of Pub. L. 99–499 provided that: “The amendments made by this section \[enacting section 59A of this title and amending this section and sections 164, 275, 936, 1561, 6154, 6425, and 6655 of this title\] shall apply to taxable years beginning after December 31, 1986.”
+Pub. L. 99–499, title V, §516(c), Oct. 17, 1986, 100 Stat. 1772, provided that: “The amendments made by this section \[enacting section 59A of this title and amending this section and sections 164, 275, 936, 1561, 6154, 6425, and 6655 of this title\] shall apply to taxable years beginning after December 31, 1986.”
 
 #### Effective Date
 
@@ -350,7 +336,7 @@ For applicability of amendment by section 701(c)(1) of Pub. L. 99–514 notwiths
 
 #### Treatment of Tax Imposed Under Former Section 409(c)
 
-Section 491(f)(5) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “For purposes of section 26(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by this Act), any tax imposed by section 409(c) of such Code (as in effect before its repeal by this section) shall be treated as a tax imposed by section 408(f) of such Code.”
+Pub. L. 98–369, div. A, title IV, §491(f)(5), July 18, 1984, 98 Stat. 853, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “For purposes of section 26(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by this Act), any tax imposed by section 409(c) of such Code (as in effect before its repeal by this section) shall be treated as a tax imposed by section 408(f) of such Code.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -20,7 +20,7 @@ For purposes of section 401(a)(29), a defined benefit plan which is a single-emp
 
 &emsp;&emsp;(A) in the case of paragraph (1)(A), the amount of the increase in the funding target of the plan (under section 430) for the plan year attributable to the occurrence referred to in paragraph (1), and
 
-&emsp;&emsp;(B) in the case of paragraph (1)(B), the amount sufficient to result in an adjustedfunding target attainment percentage of 60 percent.
+&emsp;&emsp;(B) in the case of paragraph (1)(B), the amount sufficient to result in an adjusted funding target attainment percentage of 60 percent.
 
 #### (3) Unpredictable contingent event benefit
 
@@ -90,7 +90,7 @@ For purposes of section 401(a)(29), a defined benefit plan which is a single-emp
 
 &emsp;For purpose of this subsection, the term “prohibited payment” means—
 
-&emsp;&emsp;(A) any payment, in excess of the monthly amount paid under a single life annuity\(plus any social security supplements described in the last sentence of section 411(a)(9)), to a participant or beneficiary whose annuity starting date (as defined in section 417(f)(2)) occurs during any period a limitation under paragraph (1) or (2) is in effect,
+&emsp;&emsp;(A) any payment, in excess of the monthly amount paid under a single life annuity (plus any social security supplements described in the last sentence of section 411(a)(9)), to a participant or beneficiary whose annuity starting date (as defined in section 417(f)(2)) occurs during any period a limitation under paragraph (1) or (2) is in effect,
 
 &emsp;&emsp;(B) any payment for the purchase of an irrevocable commitment from an insurer to pay benefits, and
 
@@ -166,7 +166,7 @@ Subsections (b), (c), and (e) shall not apply to a plan for the first 5 plan yea
 
 #### (1) Presumption of continued underfunding
 
-&emsp;In any case in which a benefit limitation under subsection (b), (c), (d), or (e) has beenapplied to a plan with respect to the plan year preceding the current plan year, the adjusted funding target attainment percentage of the plan for the current plan year shall be presumed to be equal to the adjusted funding target attainment percentage of the plan for the preceding plan year until the enrolled actuary of the plan certifies the actual adjusted funding target attainment percentage of the plan for the current plan year.
+&emsp;In any case in which a benefit limitation under subsection (b), (c), (d), or (e) has been applied to a plan with respect to the plan year preceding the current plan year, the adjusted funding target attainment percentage of the plan for the current plan year shall be presumed to be equal to the adjusted funding target attainment percentage of the plan for the preceding plan year until the enrolled actuary of the plan certifies the actual adjusted funding target attainment percentage of the plan for the current plan year.
 
 #### (2) Presumption of underfunding after 10th month
 
@@ -274,7 +274,7 @@ For purposes of this section—
 
 In the case of a plan which has designated a valuation date other than the first day of the plan year, the Secretary may prescribe rules for the application of this section which are necessary to reflect the alternate valuation date.
 
-#### (<i>l</i>) Single-employer plan
+#### (l) Single-employer plan
 
 For purposes of this section, the term “single-employer plan” means a plan which is not a multiemployer plan.
 
@@ -308,7 +308,7 @@ Subsec. (j)(3)(A). Pub. L. 110–458, §101(c)(2)(E)(i), struck out “without r
 
 Subsec. (j)(3)(C). Pub. L. 110–458, §101(c)(2)(E)(ii), substituted “without regard to the reduction in the value of assets under section 430(f)(4)” for “without regard to this paragraph” and inserted “beginning” before “after” in two places.
 
-Subsecs. (k) to (m). Pub. L. 110–458, §101(c)(2)(F), added subsecs. (k) and (<i>l</i>) and redesignated former subsec. (k) as (m).
+Subsecs. (k) to (m). Pub. L. 110–458, §101(c)(2)(F), added subsecs. (k) and (l) and redesignated former subsec. (k) as (m).
 
 #### Effective Date of 2010 Amendment
 
@@ -352,7 +352,7 @@ Collective bargaining exception.—In the case of a plan maintained pursuant to 
 
 Pub. L. 111–192, title II, §203(b), June 25, 2010, 124 Stat. 1300, provided that: “Section 203 of the Worker, Retiree, and Employer Recovery Act of 2008 \[Pub. L. 110–458, set out below\] shall apply to a plan for any plan year in lieu of the amendments made by this section applying to sections 206(g)(4) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1056(g)(4)\] and 436(e) of the Internal Revenue Code of 1986 only to the extent that such section produces a higher adjusted funding target attainment percentage for such plan for such year.”
 
-Pub. L. 110–458, title II, §203, Dec. 23, 2008, 122 Stat. 5118, provided that: “In the case of the first plan year beginning during the period beginning on October 1, 2008, and ending on September 30, 2009, sections 206(g)(4)(A) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1056(g)(4)(A)) and 436(e)(1) of the Internal Revenue Code of 1986 shall be applied by substituting the plan's adjusted funding target attainment percentage for the preceding plan year for such percentage for such plan year but only if the adjusted funding target attainment percentage for the preceding plan year is greater.”
+Pub. L. 110–458, title II, §203, Dec. 23, 2008, 122 Stat. 5118, provided that: “In the case of the first plan year beginning during the period beginning on October 1, 2008, and ending on September 30, 2009, sections206(g)(4)(A) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1056(g)(4)(A)) and 436(e)(1) of the Internal Revenue Code of 1986 shall be applied by substituting the plan's adjusted funding target attainment percentage for the preceding plan year for such percentage for such plan year but only if the adjusted funding target attainment percentage for the preceding plan year is greater.”
 
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 

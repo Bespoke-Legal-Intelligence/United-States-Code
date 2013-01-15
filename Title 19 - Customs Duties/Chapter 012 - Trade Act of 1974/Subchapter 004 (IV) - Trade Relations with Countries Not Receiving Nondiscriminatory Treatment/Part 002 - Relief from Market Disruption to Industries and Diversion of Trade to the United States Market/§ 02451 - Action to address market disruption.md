@@ -12,7 +12,7 @@ If a product of the People's Republic of China is being imported into the United
 
 (3) The provisions of subsections (a)(8) and (i) of section 2252 of this title, relating to treatment of confidential business information, shall apply to investigations conducted under this section.
 
-(4) Whenever a petition is filed, or a request or resolution is received, under this subsection, the Commission shall transmit a copy thereof to the President, the Trade Representative, the Committee on Ways and Means of the House of Representatives, and the Committee on Finance of the Senate, except that in the case of confidential business information, the copy may include only nonconfidential summaries of such information.
+(4) Whenever a petition is filed, or a request or resolution is received, under this subsection, theCommission shall transmit a copy thereof to the President, the Trade Representative, the Committee on Ways and Means of the House of Representatives, and the Committee on Finance of the Senate, except that in the case of confidential business information, the copy may include only nonconfidential summaries of such information.
 
 (5) The Commission shall publish notice of the commencement of any proceeding under this subsection in the Federal Register and shall, within a reasonable time thereafter, hold public hearings at which the Commission shall afford interested parties an opportunity to be present, to present evidence, to respond to the presentations of other parties, and otherwise to be heard.
 
@@ -108,7 +108,7 @@ If the Commission makes an affirmative determination under subsection (b) of thi
 
 (2) The President may determine under paragraph (1) that providing import relief is not in the national economic interest of the United States only if the President finds that the taking of such action would have an adverse impact on the United States economy clearly greater than the benefits of such action.
 
-#### (<i>l</i>) Publication of decision and reports
+#### (l) Publication of decision and reports
 
 (1) The President's decision, including the reasons therefor and the scope and duration of any action taken, shall be published in the Federal Register.
 
@@ -126,7 +126,7 @@ Import relief under this section shall take effect not later than 15 days after 
 
 (3) Upon the granting of relief under subsection (k) of this section, the Commission shall collect such data as is necessary to allow it to respond rapidly to a request by the President under paragraph (1).
 
-#### (<i>o</i>) Extension of action
+#### (o) Extension of action
 
 (1) Upon request of the President, or upon petition on behalf of the industry concerned filed with the Commission not earlier than the date which is 9 months, and not later than the date which is 6 months, before the date any relief provided under subsection (k) of this section is to terminate, the Commission shall investigate to determine whether action under this section continues to be necessary to prevent or remedy market disruption.
 

@@ -10,7 +10,7 @@
 
 (2) The penalties for misconduct that apply to a disbursing official apply to a deputy disbursing official designated under this subsection.
 
-(3) A disbursing official may make a designation under paragraph (1) only with the approval of the Secretary of Homeland Security (when the Coast Guard is not operating as a service in the Navy).
+(3) A disbursing official may make a designation under paragraph (1) only with the approval of the Secretary.
 
 (b)(1) If a disbursing official of the Coast Guard dies, becomes disabled, or is separated from office, a deputy disbursing official may continue the accounts and payments in the name of the former disbursing official until the last day of the second month after the month in which the death, disability, or separation occurs. The accounts and payments shall be allowed, audited, and settled as provided by law. The Secretary of the Treasury shall honor checks signed in the name of the former disbursing official in the same way as if the former disbursing official had continued in office.
 
@@ -20,13 +20,15 @@
 
 (2) A designation of a deputy disbursing official under subsection (a) that is made while the Coast Guard is not operating as a service in the Navy continues in effect for purposes of section 2773 of title 10 while the Coast Guard operates as a service in the Navy unless and until the designation is terminated by the disbursing official who made the designation or an official authorized to approve such a designation under subsection (a)(3) of such section.
 
-(Added Pub. L. 104–201, div. A, title X, §1009(a)(2)(A), Sept. 23, 1996, 110 Stat. 2634; amended Pub. L. 107–296, title XVII, §1704(a), Nov. 25, 2002, 116 Stat. 2314.)
+(Added Pub. L. 104–201, div. A, title X, §1009(a)(2)(A), Sept. 23, 1996, 110 Stat. 2634; amended Pub. L. 107–296, title XVII, §1704(a), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 112–213, title II, §217(11), Dec. 20, 2012, 126 Stat. 1558.)
 
 #### Codification
 
 Another section 673 was renumbered section 674 of this title.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a)(3). Pub. L. 112–213 struck out “of Homeland Security (when the Coast Guard is not operating as a service in the Navy)” after “Secretary”.
 
 <b>2002</b>—Subsec. (a)(3). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 

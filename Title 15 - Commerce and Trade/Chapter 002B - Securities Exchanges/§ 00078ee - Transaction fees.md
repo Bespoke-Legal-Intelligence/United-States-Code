@@ -58,7 +58,7 @@ The rates per $1,000,000 required by this section shall be applied pro rata to a
 
 #### (2) Mid-year adjustment
 
-&emsp;Subject to subsections (i)(1)(B) and (k), for each fiscal year, the Commission shall determine, by March 1 of such fiscal year, whether, based on the actual aggregate dollar volume of sales during the first 5 months of such fiscal year, the baseline estimate of the aggregate dollar volume of sales used under paragraph (1) for such fiscal year is reasonably likely to be 10 percent (or more) greater or less than the actual aggregate dollar volume of sales for such fiscal year. If the Commission so determines, the Commission shall by order, no later than March 1, adjust each of the rates applicable under subsections (b) and (c) for such fiscal year to a uniform adjusted rate that, when applied to the revised estimate of the aggregate dollar amount of sales for the remainder of such fiscal year, is reasonably likely to produce aggregate fee collections under this section (including fees collected during such five-month period and assessments collected under subsection (d) of this section) that are equal to the regular appropriation to the Commission by Congress for such fiscal year. In making such revised estimate, the Commission shall, after consultation with the Congressional Budget Office and the Office of Management and Budget, use the same methodology required by subsection (<i>l</i>).
+&emsp;Subject to subsections (i)(1)(B) and (k), for each fiscal year, the Commission shall determine, by March 1 of such fiscal year, whether, based on the actual aggregate dollar volume of sales during the first 5 months of such fiscal year, the baseline estimate of the aggregate dollar volume of sales used under paragraph (1) for such fiscal year is reasonably likely to be 10 percent (or more) greater or less than the actual aggregate dollar volume of sales for such fiscal year. If the Commission so determines, the Commission shall by order, no later than March 1, adjust each of the rates applicable under subsections (b) and (c) for such fiscal year to a uniform adjusted rate that, when applied to the revised estimate of the aggregate dollar amount of sales for the remainder of such fiscal year, is reasonably likely to produce aggregate fee collections under this section (including fees collected during such five-month period and assessments collected under subsection (d) of this section) that are equal to the regular appropriation to the Commission by Congress for such fiscal year. In making such revised estimate, the Commission shall, after consultation with the Congressional Budget Office and the Office of Management and Budget, use the same methodology required by subsection (l).
 
 #### (3) Review
 
@@ -82,7 +82,7 @@ The rates per $1,000,000 required by this section shall be applied pro rata to a
 
 If on the first day of a fiscal year a regular appropriation to the Commission has not been enacted, the Commission shall continue to collect (as offsetting collections) the fees and assessments under subsections (b), (c), and (d) of this section at the rate in effect during the preceding fiscal year, until 60 days after the date such a regular appropriation is enacted.
 
-#### (<i>l</i>) Baseline estimate of the aggregate dollar amount of sales
+#### (l) Baseline estimate of the aggregate dollar amount of sales
 
 The baseline estimate of the aggregate dollar amount of sales for any fiscal year is the baseline estimate of the aggregate dollar amount of sales of securities (other than bonds, debentures, other evidences of indebtedness, security futures products, and options on securities indexes (excluding a narrow-based security index)) to be transacted on each national securities exchange and by or through any member of each national securities association (otherwise than on a national securities exchange) during such fiscal year as determined by the Commission, after consultation with the Congressional Budget Office and the Office of Management and Budget, using the methodology required for making projections pursuant to section 907 of title 2.
 
@@ -108,6 +108,10 @@ The baseline estimate of the aggregate dollar amount of sales for any fiscal yea
 
 (June 6, 1934, ch. 404, title I, §31, 48 Stat. 904; Mar. 17, 1944, ch. 101, 58 Stat. 117; Pub. L. 94–29, §22, June 4, 1975, 89 Stat. 162; Pub. L. 104–290, title IV, §405(a), Oct. 11, 1996, 110 Stat. 3442; Pub. L. 105–353, title III, §301(b)(14), Nov. 3, 1998, 112 Stat. 3236; Pub. L. 106–554, §1(a)(5) \[title II, §206(f)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–432; Pub. L. 107–123, §§2, 3, Jan. 16, 2002, 115 Stat. 2390; Pub. L. 111–203, title IX, §991(a)(1), (d)(1), July 21, 2010, 124 Stat. 1950, 1954.)
 
+#### Adjustment of Fee Amount
+
+<i>For adjustment of certain fee amounts specified in this section, that is not reflected in text, see Annual Adjustment of Transaction Fee Rate note below.</i>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–203, §991(a)(1)(A), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Commission shall, in accordance with this section, collect transaction fees and assessments that are designed to recover the costs to the Government of the supervision and regulation of securities markets and securities professionals, and costs related to such supervision and regulation, including enforcement activities, policy and rulemaking activities, administration, legal services, and international regulatory activities.”
@@ -120,7 +124,7 @@ Subsec. (j). Pub. L. 111–203, §991(a)(1)(D), added subsec. (j) and struck out
 
 Subsec. (k). Pub. L. 111–203, §991(a)(1)(E), substituted “60 days” for “30 days”.
 
-Subsec. (<i>l</i>). Pub. L. 111–203, §991(a)(1)(F), substituted “Baseline estimate of the aggregate dollar amount of sales” for “Definitions” in heading and struck out introductory provisions “For purposes of this section:”, par. (2) designation and heading “Baseline estimate of the aggregate dollar amount of sales”, and par. (1) which provided table of target offsetting collection amounts for fiscal years 2002 through 2011.
+Subsec. (l). Pub. L. 111–203, §991(a)(1)(F), substituted “Baseline estimate of the aggregate dollar amount of sales” for “Definitions” in heading and struck out introductory provisions “For purposes of this section:”, par. (2) designation and heading “Baseline estimate of the aggregate dollar amount of sales”, and par. (1) which provided table of target offsetting collection amounts for fiscal years 2002 through 2011.
 
 Subsec. (m). Pub. L. 111–203, §991(d)(1), added subsec. (m).
 
@@ -150,7 +154,7 @@ Subsec. (i). Pub. L. 107–123, §3(a)(7), added subsec. (i).
 
 Pub. L. 107–123, §2(6), added subsec. (i).
 
-Subsecs. (j) to (<i>l</i>). Pub. L. 107–123, §3(b)(1), added subsecs. (j) to (<i>l</i>).
+Subsecs. (j) to (l). Pub. L. 107–123, §3(b)(1), added subsecs. (j) to (l).
 
 <b>2000</b>—Subsec. (a). Pub. L. 106–554, §1(a)(5) \[title II, §206(f)(1)\], inserted “and assessments” after “fees”.
 
@@ -256,5 +260,9 @@ Report to Congress.—Not later than 2 years after the date of the enactment of 
 
 #### Fees From National Securities Associations for Member Transactions Other Than on National Securities Exchanges
 
-Pub. L. 104–208, div. A, title I, §101(a) \[title V\], Sept. 30, 1996, 110 Stat. 3009, 3009–61, provided in part: “That effective January 1, 1997, every national securities association shall pay to the Commission a fee at a rate of one-three-hundredth of one percentum of the aggregate dollar amount of sales transacted by or through any member of such association otherwise than on a national securities exchange (other than bonds, debentures, and other evidences of indebtedness) subject to prompt last sale reporting pursuant to the rules of the Commission or a registered national securities association, excluding any sales for which a fee is paid under section 31 of the Securities Exchange Act of 1934 (15 U.S.C. 78ee), and such increase shall be deposited as an offsetting collection to this appropriation, to remain available until expended, to recover the costs to the Government of the supervision and regulation of securities markets and securities professionals: <i>Provided further</i>, That the fee due from every national securities association shall be paid on or before September 30, 1997, with respect to transactions and sales occurring during the period beginning on January 1, 1997, and ending at the close of August 31, 1997”.
+Pub. L. 104–208, div. A, title I, §101(a) \[title V\], Sept. 30, 1996, 110 Stat. 3009, 3009–61, provided in part: “That effective January 1, 1997, every national securities association shall pay to the Commission a fee at a rate of one-three-hundredth of one percentum of the aggregate dollar amount of sales transacted by or through any member of such association otherwise than on a national securities exchange (other than bonds, debentures, and other evidences of indebtedness) subject toprompt last sale reporting pursuant to the rules of the Commission or a registered national securities association, excluding any sales for which a fee is paid under section 31 of the Securities Exchange Act of 1934 (15 U.S.C. 78ee), and such increase shall be deposited as an offsetting collection to this appropriation, to remain available until expended, to recover the costs to the Government of the supervision and regulation of securities markets and securities professionals: <i>Provided further</i>, That the fee due from every national securities association shall be paid on or before September 30, 1997, with respect to transactions and sales occurring during the period beginning on January 1, 1997, and ending at the close of August 31, 1997”.
+
+#### Annual Adjustment of Transaction Fee Rate
+
+By order dated Jan. 20, 2012, the Securities and Exchange Commission adjusted the fee rates applicable under subsecs. (b) and (c) of this section to $18 per million dollars, effective Feb. 21, 2012, see 77 F.R. 3818.
 

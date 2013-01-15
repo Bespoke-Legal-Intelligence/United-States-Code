@@ -94,7 +94,7 @@ In this section:
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) and (d), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in subsecs. (a) and (d), was in the original “this Act”, meaning Pub. L. 87–195,Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Change of Name
 
@@ -190,7 +190,7 @@ Exception.—The restriction under subsection (a) should not apply to—
 
 “(a)
 
-In General.—Notwithstanding any other provision of law, and except as provided in subsection (b), the President should restrict the travel of officials and representatives of the Palestinian Authority and of the Palestine Liberation Organization, who are stationed at the United Nations in New York City to a 25-mile radius of the United Nations headquarters building during any period for which a certification described in section 620K(b) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2378b(b)\] (as added by section 2(b)(2) of this Act) is not in effect with respect to the Palestinian Authority.
+In General.—Notwithstanding any other provision of law, and except as provided in subsection (b), the President should restrict the travel of officials and representatives of the Palestinian Authority and of thePalestine Liberation Organization, who are stationed at the United Nations in New York City to a 25-mile radius of the United Nations headquarters building during any period for which a certification described in section 620K(b) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2378b(b)\] (as added by section 2(b)(2) of this Act) is not in effect with respect to the Palestinian Authority.
 
 “(b)
 
@@ -292,7 +292,7 @@ Determination of President of the United States, No. 2007–20, June 1, 2007, 72
 
 Memorandum for the Secretary of State
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 550(b) of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 2006 (FOAA)(Public Law 109–102), as amended by the Emergency Supplemental Appropriations Act for Defense, the Global War on Terror, and Hurricane Recovery, 2006 (Public Law 109–234), sections 620K(e) and 620L(b)(4) of the Foreign Assistance Act \[of 1961\], as added by the Palestinian Anti-Terrorism Act of 2006 (Public Law 109–446), and section 301 of title 3, United States Code, I hereby certify and report that:
+By the authority vested in me as President by the Constitution and the laws of the United States ofAmerica, including section 550(b) of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 2006 (FOAA)(Public Law 109–102), as amended by the Emergency Supplemental Appropriations Act for Defense, the Global War on Terror, and Hurricane Recovery, 2006 (Public Law 109–234), sections 620K(e) and 620L(b)(4) of the Foreign Assistance Act \[of 1961\], as added by the Palestinian Anti-Terrorism Act of 2006 (Public Law 109–446), and section 301 of title 3, United States Code, I hereby certify and report that:
 
 With respect to the provision of assistance for the administrative and personal security costs of the Office of the President of the Palestinian Authority; for the activities of the President of the Palestinian Authority to promote democracy, peaceful resolution of the Israeli-Palestinian conflict, and the rule of law and to fulfill his duties as President, including, among other things, to maintain control of the management and security of border crossings and to foster the Middle East peace process; and, with respect to independent agencies:
 

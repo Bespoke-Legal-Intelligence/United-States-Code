@@ -37,7 +37,7 @@
 
 Pub. L. 103–333, title I, §101(b)(2), Sept. 30, 1994, 108 Stat. 2548, substituted “or fraud to obtain Federal employee's compensation” for “to obtain Federal employees’ compensation” in item 1920.
 
-Pub. L. 103–322, title XXXIII, §330004(11), Sept. 13, 1994, 108 Stat. 2141, struck out items 1904 “Disclosure of information or speculation in securities affecting Reconstruction Finance Corporation” and 1908 “Disclosure of information by National Agricultural Credit Corporation examiner”.
+Pub. L. 103–322, title XXXIII, §330004(11), Sept. 13, 1994, 108 Stat. 2141, struck out items 1904 “Disclosure ofinformation or speculation in securities affecting Reconstruction Finance Corporation” and 1908 “Disclosure of information by National Agricultural Credit Corporation examiner”.
 
 <b>1990</b>—Pub. L. 101–647, title XXXV, §3556, Nov. 29, 1990, 104 Stat. 4927, substituted “from a bank examination report” for “by bank examiner” in item 1906 and struck out item 1914 “Salary of Government officials and employees payable only by United States”.
 

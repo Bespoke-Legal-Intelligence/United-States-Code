@@ -26,5 +26,5 @@ For purposes of this section—
 
 #### Effective Date
 
-Section 1248(c) of Pub. L. 99–514 provided that: “The amendments made by this section \[enacting this section\] shall apply to transactions entered into after March 18, 1986.”
+Pub. L. 99–514, title XII, §1248(c), Oct. 22, 1986, 100 Stat. 2584, provided that: “The amendments made by this section \[enacting this section\] shall apply to transactions entered into after March 18, 1986.”
 

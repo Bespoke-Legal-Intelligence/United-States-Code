@@ -48,7 +48,7 @@ If the President determines that a State or local government has identified natu
 
 &emsp;Technical and financial assistance provided under this section—
 
-&emsp;&emsp;(A) shall be used by States and local governments principally to implement predisaster hazard mitigation measures thatare cost-effective and are described in proposals approved by the President under this section; and
+&emsp;&emsp;(A) shall be used by States and local governments principally to implement predisaster hazard mitigation measures that are cost-effective and are described in proposals approved by the President under this section; and
 
 &emsp;&emsp;(B) may be used—
 
@@ -198,9 +198,9 @@ The President shall not provide financial assistance under this section in an am
 
 &emsp;&emsp;&emsp;(iii) other public uses.
 
-#### (<i>l</i>) Report on Federal and State administration
+#### (l) Report on Federal and State administration
 
-Not later than 18 months after October 30, 2000, the President, in consultation with State and local governments, shall submit to Congress a report evaluating efforts to implement this section and recommending a process for transferring greater authority and responsibility for administering the assistance program established under this section to capable States.
+Not later than 18 months after October 30, 2000, the President, in consultation with Stateand local governments, shall submit to Congress a report evaluating efforts to implement this section and recommending a process for transferring greater authority and responsibility for administering the assistance program established under this section to capable States.
 
 #### (m) Authorization of appropriations
 

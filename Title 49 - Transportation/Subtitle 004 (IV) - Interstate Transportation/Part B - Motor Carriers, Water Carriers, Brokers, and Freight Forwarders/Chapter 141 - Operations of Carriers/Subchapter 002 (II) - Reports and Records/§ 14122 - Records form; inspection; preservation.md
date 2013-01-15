@@ -6,7 +6,7 @@ Form of Records.—The Secretary or the Board, as applicable, may prescribe the 
 
 (b)
 
-Right of Inspection.—The Secretary or Board, or an employee designated by the Secretary or Board, may on demand and display of proper credentials—
+Right of Inspection.—The Secretary or Board, or an employee designated by the Secretary or Board, may on demand and display of proper credentials, in person or in writing—
 
 &emsp;(1) inspect and examine the lands, buildings, and equipment of a carrier or broker; and
 
@@ -20,9 +20,17 @@ Right of Inspection.—The Secretary or Board, or an employee designated by the 
 
 Period for Preservation of Records.—The Secretary or Board, as applicable, may prescribe the time period during which operating, accounting, and financial records must be preserved by carriers and brokers.
 
-(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 893.)
+(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 893; amended Pub. L. 112–141, div. C, title II, §32501(d), July 6, 2012, 126 Stat. 803.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 11144 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
+
+#### Amendments
+
+<b>2012</b>—Subsec. (b). Pub. L. 112–141 inserted “, in person or in writing” after “proper credentials”.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
 

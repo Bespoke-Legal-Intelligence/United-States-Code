@@ -30,7 +30,7 @@ The Secretary of Agriculture (referred to in this section as the “Secretary”
 
 #### (d) Priority
 
-Following the completion of a peer review process for grant proposals received under thissection, the Secretary shall give priority to those grant proposals that involve—
+Following the completion of a peer review process for grant proposals received under this section, the Secretary shall give priority to those grant proposals that involve—
 
 &emsp;(1) the cooperation of multiple entities; and
 

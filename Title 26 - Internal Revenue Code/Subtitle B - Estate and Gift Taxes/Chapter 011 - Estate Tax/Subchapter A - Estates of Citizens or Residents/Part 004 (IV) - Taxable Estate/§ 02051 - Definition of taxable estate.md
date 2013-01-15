@@ -10,5 +10,5 @@ For purposes of the tax imposed by section 2001, the value of the taxable estate
 
 #### Effective Date of 1978 Amendment
 
-Section 702(r)(5) of Pub. L. 95–600 provided that: “The amendments made by this subsection \[amending this section and sections 1016, 6324B, and 6698A of this title\] shall apply to estates of decedents dying after December 31, 1976.”
+Pub. L. 95–600, title VII, §702(r)(5), Nov. 6, 1978, 92 Stat. 2939, provided that: “The amendments made by this subsection \[amending this section and sections 1016, 6324B, and 6698A of this title\] shall apply to estates of decedents dying after December 31, 1976.”
 

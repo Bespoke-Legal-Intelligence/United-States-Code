@@ -8,7 +8,7 @@
 
 &emsp;(3) credited with advances from appropriations for activities to which services or supplies are to be furnished, and all other receipts resulting from the operation of the fund, including property returned to the supply system when no longer required by activities to which it had been furnished, the proceeds of disposal of scrap, excess or surplus personal property of the fund, and receipts from carriers and others for loss of or damage to personal property.
 
-(b) The Secretary may authorize the Secretary of Defense to make purchases through the fund in the same manner as activities of the Department. When services, equipment, or supplies are furnished to the Secretary of Defense through the fund, the reimbursement required by paragraph (2) of subsection (a) shall be made fromappropriations made to the Department of Defense, and when services or supplies are to be furnished to the Department of Defense, the fund may be credited, as provided in paragraph (3) of subsection (a), with advances from appropriations available to the Department of Defense.
+(b) The Secretary may authorize the Secretary of Defense to make purchases through the fund in the same manner as activities of the Department. When services, equipment, or supplies are furnished to the Secretary of Defense through the fund, the reimbursement required by paragraph (2) of subsection (a) shall be made from appropriations made to the Department of Defense, and when services or supplies are to be furnished to the Department of Defense, the fund may be credited, as provided in paragraph (3) of subsection (a), with advances from appropriations available to the Department of Defense.
 
 (c) At the end of each fiscal year, there shall be covered into the Treasury of the United States as miscellaneous receipts such amounts as the Secretary determines to be in excess of the requirements necessary for the maintenance of adequate inventory levels and for the effective financial management of the revolving supply fund.
 
@@ -42,7 +42,7 @@ Pub. L. 108–170, title IV, §403(b), Dec. 6, 2003, 117 Stat. 2062, provided th
 
 #### Effective Date of 1980 Amendment
 
-Section 402(b) of Pub. L. 96–330 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect as of October 1, 1979.”
+Pub. L. 96–330, title IV, §402(b), Aug. 26, 1980, 94 Stat. 1051, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect as of October 1, 1979.”
 
 #### Effective Date of 1976 Amendment
 

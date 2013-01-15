@@ -18,5 +18,5 @@ The purposes of sections 545 and 545a of this title with respect to the Mount Pl
 
 #### Short Title
 
-Section 1 of Pub. L. 103–314, as amended by Pub. L. 104–127, title IX, §915, Apr. 4, 1996, 110 Stat. 1187, provided that: “This Act \[enacting sections 545 and 545a of this title\] may be cited as the ‘Mount Pleasant National Scenic Area Act’.”
+Pub. L. 103–314, §1, Aug. 26, 1994, 108 Stat. 1703, as amended by Pub. L. 104–127, title IX, §915, Apr. 4, 1996, 110 Stat. 1187, provided that: “This Act \[enacting sections 545 and 545a of this title\] may be cited as the ‘Mount Pleasant National Scenic Area Act’.”
 

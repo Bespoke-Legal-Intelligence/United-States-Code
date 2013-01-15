@@ -30,7 +30,7 @@
 
 &emsp;(C) to give a guaranty or undertaking provided for in subsection (b) of this section which is false in any particular, except that a person who receives and relies upon a guaranty authorized under subsection (b) of this section may give a guaranty to the same effect, which guaranty shall contain, in addition to the person's own name and address, the name and address of the person residing in the United States from whom the person received the guaranty or undertaking;
 
-&emsp;(D) to use for the person's own advantage or to reveal, other than to the Administrator, or officials or employees of the EnvironmentalProtection Agency or other Federal executive agencies, or to the courts, or to physicians, pharmacists, and other qualified persons, needing such information for the performance of their duties, in accordance with such directions as the Administrator may prescribe, any information acquired by authority of this subchapter which is confidential under this subchapter;
+&emsp;(D) to use for the person's own advantage or to reveal, other than to the Administrator, or officials or employees of the Environmental Protection Agency or other Federal executive agencies, or to the courts, or to physicians, pharmacists, and other qualified persons, needing such information for the performance of their duties, in accordance with such directions as the Administrator may prescribe, any information acquired by authority of this subchapter which is confidential under this subchapter;
 
 &emsp;(E) who is a registrant, wholesaler, dealer, retailer, or other distributor to advertise a product registered under this subchapter for restricted use without giving the classification of the product assigned to it under section 136a of this title;
 
@@ -48,7 +48,7 @@
 
 &emsp;(L) who is a producer to violate any of the provisions of section 136e of this title;
 
-&emsp;(M) to knowingly falsify all or part of any application for registration, application for experimental use permit, any information submitted to the Administrator pursuant to section 136e of this title, any records required to be maintained pursuant to this subchapter, any report filed under this subchapter, or any information marked as confidential and submitted to the Administrator under any provision of this subchapter;
+&emsp;(M) to knowingly falsify all or part of any application for registration, application forexperimental use permit, any information submitted to the Administrator pursuant to section 136e of this title, any records required to be maintained pursuant to this subchapter, any report filed under this subchapter, or any information marked as confidential and submitted to the Administrator under any provision of this subchapter;
 
 &emsp;(N) who is a registrant, wholesaler, dealer, retailer, or other distributor to fail to file reports required by this subchapter;
 

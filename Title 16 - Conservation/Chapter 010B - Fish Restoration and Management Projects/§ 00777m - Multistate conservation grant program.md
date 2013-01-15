@@ -30,7 +30,7 @@
 
 #### (2) Use of submitted priority list of projects
 
-&emsp;The Secretary of the Interior may make grants under this section only for projects identified on a priority list of sport fish restoration projects described in paragraph (3).
+&emsp;The Secretary of the Interior may make grants under this section only for projectsidentified on a priority list of sport fish restoration projects described in paragraph (3).
 
 #### (3) Priority list of projects
 
@@ -126,7 +126,7 @@ Pub. L. 111–281, title IX, §903(a), Oct. 15, 2010, 124 Stat. 3010, provided t
 
 #### Effective Date of 2005 Amendments
 
-From Aug. 10, 2005, to end of fiscal year 2005, subsecs. (a)(1), (2)(B) and (e) of this section considered to read as immediately before enactment of Pub. L. 109–59, see section 101(b) of Pub. L. 109–74, set out as a note under section 777b of this title.
+From Aug. 10, 2005, to end of fiscal year 2005, subsecs. (a)(1), (2)(B) and (e) of this section considered to read asimmediately before enactment of Pub. L. 109–59, see section 101(b) of Pub. L. 109–74, set out as a note under section 777b of this title.
 
 Amendment by Pub. L. 109–59 effective Oct. 1, 2005, see section 10102 of Pub. L. 109–59, set out as a note under section 777b of this title.
 

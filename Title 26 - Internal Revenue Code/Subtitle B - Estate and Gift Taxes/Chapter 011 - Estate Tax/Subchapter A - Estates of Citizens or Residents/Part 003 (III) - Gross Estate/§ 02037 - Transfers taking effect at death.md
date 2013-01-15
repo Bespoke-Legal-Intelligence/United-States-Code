@@ -6,7 +6,7 @@ The value of the gross estate shall include the value of all property to the ext
 
 &emsp;(1) possession or enjoyment of the property can, through ownership of such interest, be obtained only by surviving the decedent, and
 
-&emsp;(2) the decedent has retained a reversionary interest in the property (but in the case of a transfer made before October 8, 1949, only ifsuch reversionary interest arose by the express terms of the instrument of transfer), and the value of such reversionary interest immediately before the death of the decedent exceeds 5 percent of the value of such property.
+&emsp;(2) the decedent has retained a reversionary interest in the property (but in the case of a transfer made before October 8, 1949, only if such reversionary interest arose by the express terms of the instrument of transfer), and the value of such reversionary interest immediately before the death of the decedent exceeds 5 percent of the value of such property.
 
 #### (b) Special rules
 

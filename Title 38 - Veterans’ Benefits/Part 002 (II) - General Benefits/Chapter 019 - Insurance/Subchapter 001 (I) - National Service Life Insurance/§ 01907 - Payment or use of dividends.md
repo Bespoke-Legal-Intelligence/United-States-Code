@@ -38,7 +38,7 @@ Subsec. (c). Pub. L. 92–188, §2(2), added subsec. (c).
 
 #### Effective Date of 1971 Amendment
 
-Section 4 of Pub. L. 92–188 provided that: “The amendments made by this Act \[amending this section and sections 703 and 741 \[now 1903 and 1941\] of this title\] shall take effect on a date established by the Administrator but in no event later than the first day of the first calendar month which begins more than six calendar months after the date of enactment of this Act \[Dec. 15, 1971\].”
+Pub. L. 92–188, §4, Dec. 15, 1971, 85 Stat. 645, provided that: “The amendments made by this Act \[amending this section and sections 703 and 741 \[now 1903 and 1941\] of this title\] shall take effect on a date established by the Administrator but in no event later than the first day of the first calendar month which begins more than six calendar months after the date of enactment of this Act \[Dec. 15, 1971\].”
 
 #### Effective Date of 1970 Amendment
 

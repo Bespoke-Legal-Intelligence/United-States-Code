@@ -168,7 +168,7 @@ The Secretary shall make the application described in subsection (d) publicly av
 
 #### (B) Quantitative comparisons
 
-&emsp;&emsp;The Secretary may also require, for purposes of subparagraph (A), that the percent (or fraction) of change and identity of the reference tobacco product and a quantitative comparison of the amount of the substance claimed to be reduced shall be stated in immediate proximity to the most prominent claim.
+&emsp;&emsp;The Secretary may also require, for purposes of subparagraph (A), that the percent (or fraction) of change and identity of thereference tobacco product and a quantitative comparison of the amount of the substance claimed to be reduced shall be stated in immediate proximity to the most prominent claim.
 
 #### (3) Label disclosure
 
@@ -222,7 +222,7 @@ The Secretary, after an opportunity for an informal hearing, shall withdraw an o
 
 A product for which the Secretary has issued an order pursuant to subsection (g) shall not be subject to subchapter IV or V.
 
-#### (<i>l</i>) Implementing regulations or guidance
+#### (l) Implementing regulations or guidance
 
 #### (1) Scientific evidence
 

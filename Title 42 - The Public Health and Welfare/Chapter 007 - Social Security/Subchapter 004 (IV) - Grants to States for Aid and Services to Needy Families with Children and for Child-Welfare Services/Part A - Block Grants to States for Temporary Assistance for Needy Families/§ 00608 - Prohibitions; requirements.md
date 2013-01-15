@@ -16,7 +16,7 @@
 
 #### (3) No assistance for families not assigning certain support rights to the State
 
-&emsp;A State to which a grant is made under section 603 of this title shall require, as a condition of paying assistance to a family under the State program funded under this part, that a member of the family assign to the State any right the family member may have (on behalf of the family member or of any other person for whom the family member has applied for or is receiving such assistance) to support from any other person, not exceeding the totalamount of assistance so paid to the family, which accrues during the period that the family receives assistance under the program.
+&emsp;A State to which a grant is made under section 603 of this title shall require, as a condition of paying assistance to a family under the State program funded under this part, that a member of the family assign to the State any right the family member may have (on behalf of the family member or of any other person for whom the family member has applied for or is receiving such assistance) to support from any other person, not exceeding the total amount of assistance so paid to the family, which accrues during the period that the family receives assistance under the program.
 
 #### (4) No assistance for teenage parents who do not attend high school or other equivalent training program
 
@@ -32,7 +32,7 @@
 
 #### (i) Requirement
 
-&emsp;&emsp;&emsp;Except as provided in subparagraph (B), a State to which a grant is made under section 603 of this title shall not use any part of the grant to provide assistance to an individual described in clause (ii) of this subparagraph if the individual and the minor child referred to in clause (ii)(II) do not reside in a place of residence maintained by a parent, legal guardian, or other adult relative of the individual as such parent's, guardian's, or adult relative's own home.
+&emsp;&emsp;&emsp;Except as provided in subparagraph (B), a State to which a grant is made under section 603 of this title shall not use any part of the grant to provide assistance to an individual described in clause (ii) of this subparagraph if the individual and the minor child referred to in clause (ii)(II) donot reside in a place of residence maintained by a parent, legal guardian, or other adult relative of the individual as such parent's, guardian's, or adult relative's own home.
 
 #### (ii) Individual described
 
@@ -100,7 +100,7 @@
 
 #### (ii) Limitation
 
-&emsp;&emsp;&emsp;The average monthly number of families with respect to which an exemption made by a State under clause (i) is in effect for a fiscal year shall not exceed 20 percent of the average monthly number of families to which assistance is provided under the State program funded under this part during the fiscal year or the immediately preceding fiscal year (but not both), as the State may elect.
+&emsp;&emsp;&emsp;The average monthly number of families with respect to which an exemption made by a State under clause (i) is in effect for a fiscal year shall not exceed 20 percent of the average monthly number of families to which assistance is provided under theState program funded under this part during the fiscal year or the immediately preceding fiscal year (but not both), as the State may elect.
 
 #### (iii) Battered or subject to extreme cruelty defined
 
@@ -152,7 +152,7 @@
 
 &emsp;&emsp;A State to which a grant is made under section 603 of this title shall not use any part of the grant to provide assistance to any individual who is—
 
-&emsp;&emsp;&emsp;(i) fleeing to avoid prosecution, or custody or confinement after conviction,under the laws of the place from which the individual flees, for a crime, or an attempt to commit a crime, which is a felony under the laws of the place from which the individual flees, or which, in the case of the State of New Jersey, is a high misdemeanor under the laws of such State; or
+&emsp;&emsp;&emsp;(i) fleeing to avoid prosecution, or custody or confinement after conviction, under the laws of the place from which the individual flees, for a crime, or an attempt to commit a crime, which is a felony under the laws of the place from which the individual flees, or which, in the case of the State of New Jersey, is a high misdemeanor under the laws of such State; or
 
 &emsp;&emsp;&emsp;(ii) violating a condition of probation or parole imposed under Federal or State law.
 
@@ -193,6 +193,38 @@
 #### (B) Child support
 
 &emsp;&emsp;A State to which a grant is made under section 603 of this title and which has a State plan approved under subchapter XIX of this chapter shall provide that in the case of a family that is treated (under section 1396u–1(b)(1)(A) of this title for purposes of subchapter XIX of this chapter) as receiving aid under a State plan approved under this part (as in effect on July 16, 1996), that would become ineligible for such aid as a result (wholly or partly) of the collection of child or spousal support under part D of this subchapter and that was so treated as receiving such aid in at least 3 of the 6 months immediately preceding the month in which such ineligibility begins, the family shall remain eligible for medical assistance under the State's plan approved under subchapter XIX of this chapter for an extended period or periods as provided in section 1396u–1(c)(1) of this title.
+
+#### (12) State requirement to prevent unauthorized spending of benefits
+
+#### (A) In general
+
+&emsp;&emsp;A State to which a grant is made under section 603 of this title shall maintain policies and practices as necessary to prevent assistance provided under the State program funded under this part from being used in any electronic benefit transfer transaction in—
+
+&emsp;&emsp;&emsp;(i) any liquor store;
+
+&emsp;&emsp;&emsp;(ii) any casino, gambling casino, or gaming establishment; or
+
+&emsp;&emsp;&emsp;(iii) any retail establishment which provides adult-oriented entertainment in which performers disrobe or perform in an unclothed state for entertainment.
+
+#### (B) Definitions
+
+&emsp;&emsp;For purposes of subparagraph (A)—
+
+#### (i) Liquor store
+
+&emsp;&emsp;&emsp;The term “liquor store” means any retail establishment which sells exclusively or primarily intoxicating liquor. Such term does not include a grocery store which sells both intoxicating liquor and groceries including staple foods (within the meaning of section 3(r) of the Food and Nutrition Act of 2008 (7 U.S.C. 2012(r))).
+
+#### (ii) Casino, gambling casino, or gaming establishment
+
+&emsp;&emsp;&emsp;The terms “casino”, “gambling casino”, and “gaming establishment” do not include—
+
+&emsp;&emsp;&emsp;&emsp;(I) a grocery store which sells groceries including such staple foods and which also offers, or is located within the same building or complex as, casino, gambling, or gaming activities; or
+
+&emsp;&emsp;&emsp;&emsp;(II) any other establishment that offers casino, gambling, or gaming activities incidental to the principal purpose of the business.
+
+#### (iii) Electronic benefit transfer transaction
+
+&emsp;&emsp;&emsp;The term “electronic benefit transfer transaction” means the use of a credit ordebit card service, automated teller machine, point-of-sale terminal, or access to an online system for the withdrawal of funds or the processing of a payment for merchandise or a service.
 
 #### (b) Individual responsibility plans
 
@@ -276,7 +308,7 @@ The following rules shall apply if a State elects to take the income or resource
 
 &emsp;&emsp;&emsp;(ii) the cash needs standard established by the State for purposes of determining eligibility for assistance under the State program funded under this part for a family of the same size and composition as the sponsor and any other individuals living in the same household as the sponsor who are claimed by the sponsor as dependents for purposes of determining the sponsor's Federal personal income tax liability but whose needs are not taken into account in determining whether the sponsor's family has met the cash needs standard;
 
-&emsp;&emsp;&emsp;(iii) any amounts paid by the sponsor or any such spouse to individuals not livingin the household who are claimed by the sponsor as dependents for purposes of determining the sponsor's Federal personal income tax liability; and
+&emsp;&emsp;&emsp;(iii) any amounts paid by the sponsor or any such spouse to individuals not living in the household who are claimed by the sponsor as dependents for purposes of determining the sponsor's Federal personal income tax liability; and
 
 &emsp;&emsp;&emsp;(iv) any payments of alimony or child support with respect to individuals not living in the household.
 
@@ -328,13 +360,13 @@ The following rules shall apply if a State elects to take the income or resource
 
 Each State to which a grant is made under section 603 of this title shall, at least 4 times annually and upon request of the Immigration and Naturalization Service, furnish the Immigration and Naturalization Service with the name and address of, and other identifying information on, any individual who the State knows is not lawfully present in the United States.
 
-(Aug. 14, 1935, ch. 531, title IV, §408, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2134; amended Pub. L. 105–33, title V, §§5001(d), (h)(1), 5505, 5514(c), 5532(b)(2), 5581(a), Aug. 5, 1997, 111 Stat. 591, 593, 610, 620, 626, 642; Pub. L. 109–171, title VII, §7301(a), Feb. 8, 2006, 120 Stat. 141; Pub. L. 110–234, title IV, §4002(b)(1)(B), (2)(V), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858.)
+(Aug. 14, 1935, ch. 531, title IV, §408, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2134; amended Pub. L. 105–33, title V, §§5001(d), (h)(1), 5505, 5514(c), 5532(b)(2), 5581(a), Aug. 5, 1997, 111 Stat. 591, 593, 610, 620, 626, 642; Pub. L. 109–171, title VII, §7301(a), Feb. 8, 2006, 120 Stat. 141; Pub. L. 110–234, title IV, §4002(b)(1)(B), (2)(V), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 112–96, title IV, §4004(a), Feb. 22, 2012, 126 Stat. 197.)
 
 #### References in Text
 
 Part D of this subchapter, referred to in subsec. (a)(2), (11)(B), is classified to section 651 et seq. of this title.
 
-The Food and Nutrition Act of 2008, referred to in subsec. (a)(8), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food and Nutrition Act of 2008, referred to in subsec. (a)(8), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 etseq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 For effective date of this part, referred to in subsec. (b)(2)(B)(i), see Effective Date note set out below.
 
@@ -342,7 +374,7 @@ The Age Discrimination Act of 1975, referred to in subsec. (d)(1), is title III 
 
 The Americans with Disabilities Act of 1990, referred to in subsec. (d)(3), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
 
-The Civil Rights Act of 1964, referred to in subsec. (d)(4), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V\(§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (d)(4), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 
 The Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in subsec. (e), is Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2105. Title IV of the Act is classified principally to chapter 14 (§1601 et seq.) of Title 8, Aliens and Nationality. For complete classification of title IV to the Code, see Tables.
 
@@ -357,6 +389,8 @@ A prior section 608, act Aug. 14, 1935, ch. 531, title IV, §408, as added Dec. 
 Another prior section 608, act Aug. 14, 1935, ch. 531, title IV, §408, as added May 8, 1961, Pub. L. 87–31, §2, 75 Stat. 76; amended July 25, 1962, Pub. L. 87–543, title I, §§101(b)(2)(D), 104(a)(3)(F), (G), 131(b), 135(a)–(d), 155(a), 76 Stat. 180, 185, 193, 196, 197, 207; Jan. 2, 1968, Pub. L. 90–248, title II, §§201(e)(4), 205(c), 81 Stat. 880, 892; June 17, 1980, Pub. L. 96–272, title I, §§101(a)(5)(A), 102(b), 94 Stat. 513, 515, related to payment to States for foster home care of dependent children, prior to repeal by Pub. L. 96–272, title I, §101(a)(2), June 17, 1980, 94 Stat. 512, effective, with certain exceptions, to expenditures made after Sept. 30, 1980.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a)(12). Pub. L. 112–96 added par. (12).
 
 <b>2008</b>—Subsec. (a)(8). Pub. L. 110–246, §4002(b)(1)(B), (2)(V), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
 
@@ -412,7 +446,7 @@ Pub. L. 109–171, title VII, §7301(e), Feb. 8, 2006, 120 Stat. 144, provided t
 
 “(1)
 
-In general.—Except as otherwise provided in this section, the amendments made by the preceding provisions of this section \[amending this section, sections 654 and 657 of this title, and section 6402 of Title 26, Internal Revenue Code\] shall take effect on October 1, 2009, and shall apply to payments under parts A and D of title IV of the Social Security Act \[this part and part D of this subchapter\] for calendar quarters beginning on or after such date, and without regard to whether regulations to implement the amendments (in the case of State programs operated under such part D) are promulgated by such date.
+In general.—Except as otherwise provided in this section, the amendments made by the preceding provisions of this section \[amending this section, sections 654 and 657 of this title, and section 6402 of Title 26, Internal Revenue Code\] shall take effect on October 1, 2009, and shall apply to payments under parts A and D of title IV of the Social Security Act \[this part and part D of this subchapter\] for calendar quarters beginning on or after such date, and without regard towhether regulations to implement the amendments (in the case of State programs operated under such part D) are promulgated by such date.
 
 “(2)
 
@@ -420,9 +454,9 @@ State option to accelerate effective date.—Notwithstanding paragraph (1), a St
 
 #### Effective Date of 1997 Amendment
 
-Section 5001(h)(2) of Pub. L. 105–33 provided that: “The amendments made by paragraph (1) \[amending this section\] shall take effect as if included in the enactment of section 103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\].”
+Pub. L. 105–33, title V, §5001(h)(2), Aug. 5, 1997, 111 Stat. 593, provided that: “The amendments made by paragraph (1) \[amending this section\] shall take effect as if included in the enactment of section 103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\].”
 
-Amendment by section 5505 of Pub. L. 105–33 effective as if included in section 103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of1996, Pub. L. 104–193, at the time such section 103(a) became law, see section 5518(a) of Pub. L. 105–33, set out as a note under section 602 of this title.
+Amendment by section 5505 of Pub. L. 105–33 effective as if included in section 103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, at the time such section 103(a) became law, see section 5518(a) of Pub. L. 105–33, set out as a note under section 602 of this title.
 
 Amendment by section 5514(c) of Pub. L. 105–33 effective as if included in the provision of Pub. L. 104–193 amended at the time the provision became law, see section 5518(d) of Pub. L. 105–33, set out as a note under section 862a of Title 21, Food and Drugs.
 
@@ -438,7 +472,7 @@ Exception.—The amendments made by section 5532(b)(2) of this Act \[amending th
 
 \[Pub. L. 105–200, title IV, §410(e)(2), July 16, 1998, 112 Stat. 673, provided that: “The amendment made by paragraph (1) \[amending section 5557 of Pub. L. 105–33, set out above\] shall take effect as if included in the enactment of section 5557 of the Balanced Budget Act of 1997 (Public Law 105–33; 111 Stat. 637).”\]
 
-Section 5581(a) of Pub. L. 105–33 provided that the amendment made by that section is effective July 1, 1997.
+Pub. L. 105–33, title V, §5581(a), Aug. 5, 1997, 111 Stat. 642, provided that the amendment made by that section is effective July 1, 1997.
 
 #### Effective Date
 

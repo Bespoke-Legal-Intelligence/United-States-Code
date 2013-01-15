@@ -10,7 +10,7 @@ The Board shall construct for the Smithsonian Institution, with funds raised by 
 
 &emsp;Substantially in accordance with the plan entitled “Site Master Plan—Drawing Number 1997–2 April 29, 1997,” and map number NCR 844/82571, the Board may design and construct—
 
-&emsp;&emsp;(A) an addition to the parking garage at each of the north and south ends of the JohnF. Kennedy Center for the Performing Arts; and
+&emsp;&emsp;(A) an addition to the parking garage at each of the north and south ends of the John F. Kennedy Center for the Performing Arts; and
 
 &emsp;&emsp;(B) site improvements and modifications.
 
@@ -28,9 +28,61 @@ The Board shall construct for the Smithsonian Institution, with funds raised by 
 
 &emsp;&emsp;(C) any project to acquire large screen format equipment for an interpretive theater, or to produce an interpretive film, that the Board specifically designates will be financed using sources other than appropriated funds.
 
-(Pub. L. 85–874, §3, Sept. 2, 1958, 72 Stat. 1699; Pub. L. 88–260, §1(2), Jan. 23, 1964, 78 Stat. 4; Pub. L. 105–95, §2, Nov. 19, 1997, 111 Stat. 2148.)
+#### (c) Expansion project
+
+#### (1) Authority to construct
+
+#### (A) In general
+
+&emsp;&emsp;Subject to the requirements of this subsection, the Board may undertake such activities as may be necessary to construct the expansion project.
+
+#### (B) Responsibilities of the Board
+
+&emsp;&emsp;The Board may construct the expansion project, and shall be responsible for the planning, design, engineering, and construction of the expansion project.
+
+#### (C) Limitations
+
+#### (i) Mission
+
+&emsp;&emsp;&emsp;All activities carried out under this paragraph shall be within the mission of the John F. Kennedy Center for the Performing Arts to serve as the national center for the performing arts.
+
+#### (ii) Funding
+
+&emsp;&emsp;&emsp;The costs of planning, design, engineering, and construction of the expansion project shall be paid for using nonappropriated funds.
+
+#### (2) Annual operations and maintenance costs
+
+#### (A) Estimates
+
+&emsp;&emsp;Before awarding a contract for construction of the expansion project, the Board shall estimate any additional annual operations and maintenance costs (or savings) associated with the project.
+
+#### (B) Budget requests
+
+&emsp;&emsp;The Board shall account for any additional costs identified under subparagraph (A) in making a budget request for fiscal year 2014 and each fiscal year thereafter.
+
+#### (C) Budget priorities
+
+&emsp;&emsp;The Board shall base a final determination on whether to proceed with the expansion project on the ability of the Board to accommodate any additional costs identified under subparagraph (A) within the other budget priorities of the Board.
+
+#### (3) Acknowledgments
+
+&emsp;The Board may acknowledge private contributions used in carrying out the expansion project in the interior of the project, but may not acknowledge such private contributions on the exterior of the project. Any acknowledgment of private contributions under this paragraph shall be consistent with the requirements of section 76j(b) of this title.
+
+#### (4) Expansion project defined
+
+&emsp;In this subsection, the term “expansion project” means an addition to the south end of the building of the John F. Kennedy Center for the Performing Arts that—
+
+&emsp;&emsp;(A) is less than 100,000 square feet;
+
+&emsp;&emsp;(B) will improve the existing (as of June 8, 2012) accessibility and education functions of the Center; and
+
+&emsp;&emsp;(C) will become part of the existing (as of June 8, 2012) structure of the Center.
+
+(Pub. L. 85–874, §3, Sept. 2, 1958, 72 Stat. 1699; Pub. L. 88–260, §1(2), Jan. 23, 1964, 78 Stat. 4; Pub. L. 105–95, §2, Nov. 19, 1997, 111 Stat. 2148; Pub. L. 112–131, §2, June 8, 2012, 126 Stat. 377.)
 
 #### Amendments
+
+<b>2012</b>—Subsec. (c). Pub. L. 112–131 added subsec. (c).
 
 <b>1997</b>—Pub. L. 105–95 substituted section catchline for former section catchline, designated existing provisions as subsec. (a) and inserted heading, and added subsec. (b).
 

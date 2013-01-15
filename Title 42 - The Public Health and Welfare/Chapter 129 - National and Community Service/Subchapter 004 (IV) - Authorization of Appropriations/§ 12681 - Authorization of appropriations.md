@@ -144,7 +144,7 @@ Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub
 
 #### Effective Date of 1993 Amendment
 
-Section 301(b) of Pub. L. 103–82 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1993.”
+Pub. L. 103–82, title III, §301(b), Sept. 21, 1993, 107 Stat. 898, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1993.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

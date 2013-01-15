@@ -12,7 +12,7 @@ Collection of DNA Samples.—(1) The Secretary concerned shall collect a DNA sam
 
 Analysis and Use of Samples.—The Secretary concerned shall furnish each DNA sample collected under subsection (a) to the Secretary of Defense. The Secretary of Defense shall—
 
-&emsp;(1) carry out a DNA analysis on each such DNA sample in a manner that complies with the requirements for inclusion of that analysis in CODIS; and
+&emsp;(1) carry out a DNA analysis on each such DNA sample in a manner that complies withthe requirements for inclusion of that analysis in CODIS; and
 
 &emsp;(2) furnish the results of each such analysis to the Director of the Federal Bureau of Investigation for inclusion in CODIS.
 

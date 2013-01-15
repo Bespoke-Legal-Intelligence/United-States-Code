@@ -4,7 +4,7 @@
 
 The expected family contribution—
 
-&emsp;(1) for a dependent student shall be determined in accordance with section 1087<i>oo</i> of this title;
+&emsp;(1) for a dependent student shall be determined in accordance with section 1087oo of this title;
 
 &emsp;(2) for a single independent student or a married independent student without dependents (other than a spouse) shall be determined in accordance with section 1087pp of this title; and
 

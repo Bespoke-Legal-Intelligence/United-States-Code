@@ -42,7 +42,7 @@ The Secretary of Agriculture shall prepare and submit to the President and to th
 
 (2) The Secretary shall transmit the results of the study described in paragraph (1) to each House of the Congress within one year after October 31, 1978.
 
-(July 15, 1949, ch. 338, title V, §506, 63 Stat. 435; Pub. L. 87–70, title VIII, §§804(b)(1), 805(a), June 30, 1961, 75 Stat. 188; Pub. L. 87–723, §4(c)(2), Sept. 28, 1962, 76 Stat. 672; Pub. L. 88–560, title V, §503(c), Sept. 2, 1964, 78 Stat. 798; Pub. L. 89–117, title X, §1005(d), Aug. 10, 1965, 79 Stat. 501; Pub. L. 89–348, §1(5), Nov. 8, 1965, 79 Stat. 1310; Pub. L. 93–383, title V, §§506, 519(a), Aug. 22, 1974, 88 Stat. 694, 699; Pub. L. 95–128, title V, §510, Oct. 12, 1977, 91 Stat. 1142; Pub. L. 95–557, title V, §502, Oct. 31, 1978, 92 Stat. 2111; Pub. L. 98–181, title V, §505, Nov. 30, 1983, 97 Stat. 1242; Pub. L. 104–66, title I, §1011(m), Dec. 21, 1995, 109 Stat. 710.)
+(July 15, 1949, ch. 338, title V, §506, 63 Stat. 435; Pub. L. 87–70, title VIII, §§804(b)(1), 805(a), June 30, 1961, 75 Stat. 188; Pub. L. 87–723, §4(c)(2), Sept. 28, 1962, 76 Stat. 672; Pub. L. 88–560, title V, §503(c), Sept. 2, 1964, 78 Stat. 798; Pub. L. 89–117, title X, §1005(d), Aug. 10, 1965, 79 Stat. 501; Pub. L. 89–348, §1(5), Nov. 8, 1965, 79 Stat. 1310; Pub. L. 93–383, title V, §§506, 519(a), Aug. 22, 1974, 88 Stat. 694, 699; Pub. L. 95–128, title V, §510, Oct. 12, 1977, 91 Stat. 1142; Pub. L. 95–557, title V, §502, Oct. 31, 1978, 92 Stat. 2111; Pub. L. 98–181, title I \[title V, §505\], Nov. 30, 1983, 97 Stat. 1242; Pub. L. 104–66, title I, §1011(m), Dec. 21, 1995, 109 Stat. 710.)
 
 #### References in Text
 
@@ -74,13 +74,13 @@ Subsec. (e). Pub. L. 89–348, which directed the repeal in subsec. (b) of the r
 
 <b>1962</b>—Subsec. (a). Pub. L. 87–723 substituted “sections 1484 and 1485” for “section 1484” wherever appearing.
 
-<b>1961</b>—Subsec. (a). Pub. L. 87–70, §§804(b)(1), 805(a)(1), inserted a reference to section 1484 of this title in two places, and struck out provisions which authorized theconduct of research and technical studies including the development, demonstration, and promotion of construction of adequate farm dwellings and other buildings for the purposes of stimulating construction, improving architectural design and utility, utilizing new and native materials, economies in materials and construction methods, and new methods of production, distribution, assembly, and construction, which provisions are now contained in subsec. (b) of this section.
+<b>1961</b>—Subsec. (a). Pub. L. 87–70, §§804(b)(1), 805(a)(1), inserted a reference to section 1484 of this title in two places, and struck out provisions which authorized the conduct of research and technical studies including the development, demonstration, and promotion of construction of adequate farm dwellings and other buildings for the purposes of stimulating construction, improving architectural design and utility, utilizing new and native materials, economies in materials and construction methods, and new methods of production, distribution, assembly, and construction, which provisions are now contained in subsec. (b) of this section.
 
-Subsecs. (b) to (e). Pub. L. 87–70, §805(a)(2), (3), added subsecs. (b) to (d) and redesignated former subsec. (b) as (e). Provisions of subsec. (b) were formerly contained in subsec. (a).
+Subsecs. (b) to (e). Pub. L. 87–70, §805(a)(2), (3), added subsecs. (b) to (d) and redesignated former subsec. (b) as\(e). Provisions of subsec. (b) were formerly contained in subsec. (a).
 
 #### Study of Emergency Potable Water and Sewage Program
 
-Section 508 of Pub. L. 95–557 required Secretary of Agriculture to determine the approximate number of rural housing units without access to sanitary toilet facilities or potable water, prepare a projection of the cost providing such facilities and supplies, and report to Congress not later than six months after Oct. 31, 1978.
+Pub. L. 95–557, title V, §508, Oct. 31, 1978, 92 Stat. 2114, required Secretary of Agriculture to determine the approximate number of rural housing units without access to sanitary toilet facilities or potable water, prepare a projection of the cost providing such facilities and supplies, and report to Congress not later than six months after Oct. 31, 1978.
 
 #### Report of Estimates of National Farm Housing Needs
 

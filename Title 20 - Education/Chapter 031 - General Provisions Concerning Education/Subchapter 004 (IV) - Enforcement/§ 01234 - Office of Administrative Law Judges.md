@@ -36,7 +36,7 @@ The judge shall review and may require that evidence be taken on the sufficiency
 
 #### (g) Discovery; scope, time, etc.; issue and enforcement of subpoenas
 
-(1) In order to secure a fair, expeditious, and economical resolution of cases and where thejudge determines that the discovered information is likely to elicit relevant information with respect to an issue in the case, is not sought primarily for the purposes of delay or harassment, and would serve the ends of justice, the judge may order a party to—
+(1) In order to secure a fair, expeditious, and economical resolution of cases and where the judge determines that the discovered information is likely to elicit relevant information with respect to an issue in the case, is not sought primarily for the purposes of delay or harassment, and would serve the ends of justice, the judge may order a party to—
 
 &emsp;(A) produce relevant documents;
 
@@ -68,7 +68,7 @@ The Federal Rules of Evidence, referred to in subsec. (h), are set out in the Ap
 
 #### Effective Date of 1988 Amendment
 
-Section 3501(b) of Pub. L. 100–297 provided that:
+Pub. L. 100–297, title III, §3501(b), Apr. 28, 1988, 102 Stat. 357, provided that:
 
 “(1) Except as provided in paragraph (2), the amendments made by this section \[enacting sections 1234f to 1234i of this title and amending this section and sections 1232d and 1234a to 1234e of this title\] shall be effective 180 days after the date of enactment of this Act \[Apr. 28, 1988\].
 

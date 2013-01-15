@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-Notwithstanding any other provision of this subchapter, the provisions of this section shall, in accordance with regulations prescribed by the Secretary, apply in the case of a charitable remainder annuity trust and a charitable remainder unitrust.
+Notwithstanding any other provision of this subchapter, the provisions of this section shall,in accordance with regulations prescribed by the Secretary, apply in the case of a charitable remainder annuity trust and a charitable remainder unitrust.
 
 #### (b) Character of distributions
 
@@ -22,7 +22,7 @@ Amounts distributed by a charitable remainder annuity trust or by a charitable r
 
 #### (1) Income tax
 
-&emsp;A charitable remainder annuity trust and a charitable remainder unitrust shall, for anytaxable year, not be subject to any tax imposed by this subtitle.
+&emsp;A charitable remainder annuity trust and a charitable remainder unitrust shall, for any taxable year, not be subject to any tax imposed by this subtitle.
 
 #### (2) Excise tax
 
@@ -84,7 +84,7 @@ Amounts distributed by a charitable remainder annuity trust or by a charitable r
 
 #### (e) Valuation for purposes of charitable contribution
 
-For purposes of determining the amount of any charitable contribution, the remainder interest of a charitable remainder annuity trust orcharitable remainder unitrust shall be computed on the basis that an amount equal to 5 percent of the net fair market value of its assets (or a greater amount, if required under the terms of the trust instrument) is to be distributed each year.
+For purposes of determining the amount of any charitable contribution, the remainder interest of a charitable remainder annuity trust or charitable remainder unitrust shall be computed on the basis that an amount equal to 5 percent of the net fair market value of its assets (or a greater amount, if required under the terms of the trust instrument) is to be distributed each year.
 
 #### (f) Certain contingencies permitted
 
@@ -140,13 +140,13 @@ For purposes of determining the amount of any charitable contribution, the remai
 
 &emsp;&emsp;(E) such securities are held in a suspense account under the plan to be allocated each year, up to the applicable limitation under paragraph (7) (determined on the basis of fair market value of securities when allocated to participants), after first allocating all other annual additions for the limitation year, up to the limitations under sections 415(c) and (e),<sup>1</sup> and
 
-&emsp;&emsp;(F) on termination of the plan, all securities so transferred which are not allocated to plan participants as of such termination are to be transferred to, or for the use of, an organization described in section 170(c).
+&emsp;&emsp;(F) on termination of the plan, all securities so transferred which are not allocated toplan participants as of such termination are to be transferred to, or for the use of, an organization described in section 170(c).
 
 > &emsp;For purposes of the preceding sentence, the term “independent trustee” means any trustee who is not a member of the family (within the meaning of section 2032A(e)(2)) of the decedent or a 5-percent shareholder. A plan shall not fail to be treated as meeting the requirements of section 401(a) by reason of meeting the requirements of this subsection.
 
 #### (4) Qualified employer securities
 
-&emsp;For purposes of this section, the term “qualified employer securities” means employer securities (as defined in section 409(<i>l</i>)) which are issued by a domestic corporation—
+&emsp;For purposes of this section, the term “qualified employer securities” means employer securities (as defined in section 409(l)) which are issued by a domestic corporation—
 
 &emsp;&emsp;(A) which has no outstanding stock which is readily tradable on an established securities market, and
 
@@ -166,7 +166,7 @@ For purposes of determining the amount of any charitable contribution, the remai
 
 #### (B) 5-percent shareholder
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “5-percent shareholder” means any person who owns (directly or through the application of section 318(a)) more than 5 percent of the outstanding stock of the corporation which issued such qualified employer securities or of any corporation which is a member of the same controlled group of corporations (within the meaning of section 409(<i>l</i>)(4)) as such corporation. For purposes of the preceding sentence, section 318(a) shall be applied without regard to the exception in paragraph (2)(B)(i) thereof.
+&emsp;&emsp;For purposes of subparagraph (A), the term “5-percent shareholder” means any person who owns (directly or through the application of section 318(a)) more than 5 percent of the outstanding stock of the corporation which issued such qualified employer securities or of any corporation which is a member of the same controlled group of corporations (within the meaning of section 409(l)(4)) as such corporation. For purposes of the preceding sentence, section 318(a) shall be applied without regard to the exception in paragraph (2)(B)(i) thereof.
 
 #### (C) Cross reference
 
@@ -262,9 +262,9 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1997 Amendment
 
-Section 1089(a)(2) of Pub. L. 105–34 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to transfers in trust after June 18, 1997.”
+Pub. L. 105–34, title X, §1089(a)(2), Aug. 5, 1997, 111 Stat. 960, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to transfers in trust after June 18, 1997.”
 
-Section 1089(b)(6) of Pub. L. 105–34 provided that:
+Pub. L. 105–34, title X, §1089(b)(6), Aug. 5, 1997, 111 Stat. 961, provided that:
 
 “(A)
 

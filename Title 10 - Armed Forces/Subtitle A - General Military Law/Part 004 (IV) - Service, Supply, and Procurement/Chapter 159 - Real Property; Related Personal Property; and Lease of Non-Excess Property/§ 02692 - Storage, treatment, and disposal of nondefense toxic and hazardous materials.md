@@ -1,6 +1,6 @@
 ### §2692. Storage, treatment, and disposal of nondefense toxic and hazardous materials
 
-(a)(1) Except as otherwise provided in this section, the Secretary of Defense may not permit the use of an installation of the Department of Defense for the storage, treatment, or disposalof any material that is a toxic or hazardous material and that is not owned either by the Department of Defense or by a member of the armed forces (or a dependent of the member) assigned to or provided military housing on the installation.
+(a)(1) Except as otherwise provided in this section, the Secretary of Defense may not permit the use of an installation of the Department of Defense for the storage, treatment, or disposal of any material that is a toxic or hazardous material and that is not owned either by the Department of Defense or by a member of the armed forces (or a dependent of the member) assigned to or provided military housing on the installation.
 
 (2) The Secretary of Defense shall define by regulation what materials are hazardous or toxic materials for the purposes of this section, including specification of the quantity of a material that serves to make it hazardous or toxic for the purposes of this section. The definition shall include materials referred to in section 101(14) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601(14)) and materials designated under section 102 of that Act (42 U.S.C. 9602) and shall include materials that are of an explosive, flammable, or pyrotechnic nature.
 
@@ -10,7 +10,7 @@
 
 &emsp;(2) The storage of strategic and critical materials in the National Defense Stockpile under an agreement for such storage with the Administrator of General Services.
 
-&emsp;(3) The temporary storage or disposal of explosives in order to protect the public or to assist agencies responsible for Federal, State, or local law enforcement in storing or disposing of explosives when no alternative solution is available, if such storage or disposal is made in accordance with an agreement between the Secretary of Defense and the head of the Federal, State, or local agency concerned.
+&emsp;(3) The temporary storage or disposal of explosives in order to protect the public or to assist agencies responsible for Federal, State, or local law enforcement in storing or disposing of explosives when no alternative solution is available, if such storage or disposal is made in accordance with an agreement between theSecretary of Defense and the head of the Federal, State, or local agency concerned.
 
 &emsp;(4) The temporary storage or disposal of explosives in order to provide emergency lifesaving assistance to civil authorities.
 
@@ -70,5 +70,5 @@ Subsec. (b)(11). Pub. L. 105–85, §343(f), added par. (11).
 
 #### Savings Provision
 
-Section 343(h) of Pub. L. 105–85 provided that: “Nothing in the amendments made by this section \[amending this section\] is intended to modify environmental laws or laws relating to the siting of facilities.”
+Pub. L. 105–85, div. A, title III, §343(h), Nov. 18, 1997, 111 Stat. 1688, provided that: “Nothing in the amendments made by this section \[amending this section\] is intended to modify environmental laws or laws relating to the siting of facilities.”
 

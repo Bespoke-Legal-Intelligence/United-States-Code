@@ -18,7 +18,7 @@ Pub. L. 102–16 substituted “Secretary” for “Secretary of Veterans Affair
 
 Subsec. (b). Pub. L. 102–83, §5(c)(1), substituted “3511” for “1711” and “3492” for “1692”.
 
-<b>1989</b>—Subsec. (a)(1). Pub. L. 101–237 substituted “assistance provided an eligible veteran under section 1691(a) (if pursued in a State) of this title and be paid an educational assistance allowance therefor in themanner prescribed by section 1691(b) of this title, except that the corresponding rate provisions of this chapter shall apply, as determined by the Secretary of Veterans Affairs, to such pursuit by an eligible person.” for “benefits provided an eligible veteran (with no dependents) under section 1691 (if pursued in a State) of this title.”
+<b>1989</b>—Subsec. (a)(1). Pub. L. 101–237 substituted “assistance provided an eligible veteran under section 1691(a) (if pursued in a State) of this title and be paid an educational assistance allowance therefor in the manner prescribed by section 1691(b) of this title, except that the corresponding rate provisions of this chapter shall apply, as determined by the Secretary of Veterans Affairs, to such pursuit by an eligible person.” for “benefits provided an eligible veteran (with no dependents) under section 1691 (if pursued in a State) of this title.”
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–689 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any eligible spouse or surviving spouse shall, without charge to any entitlement such spouse may have under section 1711 of this title, be entitled to the benefits provided an eligible veteran (with no dependents) under section 1691 (if pursued in a State) of this title.”
 

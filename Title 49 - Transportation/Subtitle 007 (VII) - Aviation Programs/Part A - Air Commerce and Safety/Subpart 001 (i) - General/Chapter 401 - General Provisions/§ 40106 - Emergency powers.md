@@ -10,7 +10,7 @@ Deviations From Regulations.—Appropriate military authority may authorize airc
 
 (b)
 
-Suspension of Authority.—(1) When the President decides that the government of a foreign country is acting inconsistently with the Convention for the Suppression of Unlawful Seizure of Aircraft or that the government of a foreign country allows territory under its jurisdiction to be used as a base of operations or training of, or as a sanctuary for, or arms, aids, or abets, a terrorist organization that knowingly uses the unlawful seizure, or the threat of an unlawful seizure, of an aircraft as an instrument of policy, the President may suspend the authority of—
+Suspension of Authority.—(1) When the President decides that the government of a foreign country is acting inconsistently with theConvention for the Suppression of Unlawful Seizure of Aircraft or that the government of a foreign country allows territory under its jurisdiction to be used as a base of operations or training of, or as a sanctuary for, or arms, aids, or abets, a terrorist organization that knowingly uses the unlawful seizure, or the threat of an unlawful seizure, of an aircraft as an instrument of policy, the President may suspend the authority of—
 
 &emsp;(A) an air carrier or foreign air carrier to provide foreign air transportation to and from that foreign country;
 

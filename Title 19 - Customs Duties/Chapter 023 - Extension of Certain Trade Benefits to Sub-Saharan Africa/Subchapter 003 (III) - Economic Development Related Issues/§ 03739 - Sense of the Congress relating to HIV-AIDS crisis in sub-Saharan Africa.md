@@ -4,7 +4,7 @@
 
 The Congress finds the following:
 
-&emsp;(1) Sustained economic development in sub-Saharan Africa depends in large measure upon successful trade with and foreign assistance to the countries of sub-Saharan Africa.
+&emsp;(1) Sustained economic development in sub-Saharan Africa depends in large measure uponsuccessful trade with and foreign assistance to the countries of sub-Saharan Africa.
 
 &emsp;(2) The HIV/AIDS crisis has reached epidemic proportions in sub-Saharan Africa, where more than 21,000,000 men, women, and children are infected with HIV.
 
@@ -18,7 +18,7 @@ The Congress finds the following:
 
 &emsp;(6) Clear evidence demonstrates that HIV/AIDS is destructive to the economies of sub-Saharan African countries.
 
-&emsp;(7) Sustained economic development is critical to creating the public and private sectorresources in sub-Saharan Africa necessary to fight the HIV/AIDS epidemic.
+&emsp;(7) Sustained economic development is critical to creating the public and private sector resources in sub-Saharan Africa necessary to fight the HIV/AIDS epidemic.
 
 #### (b) Sense of the Congress
 

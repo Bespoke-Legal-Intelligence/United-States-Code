@@ -30,7 +30,7 @@ In recognition of the fact that there are over 400,000,000 disabled people in th
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) to (c), was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act tothe Code, see Short Title note set out under section 2501 of this title and Tables.
+This chapter, referred to in subsecs. (a) to (c), was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
 
 #### Amendments
 
@@ -122,7 +122,7 @@ Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. 
 
 #### Effective Date of 1977 Amendment
 
-Section 3 of Pub. L. 95–102 provided that: “The amendments made by this Act \[amending this section\] shall take effect on October 1, 1977.”
+Pub. L. 95–102, §3, Aug. 15, 1977, 91 Stat. 841, provided that: “The amendments made by this Act \[amending this section\] shall take effect on October 1, 1977.”
 
 #### Delegation of Functions; Allocation of Funds
 
@@ -130,9 +130,9 @@ Functions of President under this section delegated to and funds available to Pr
 
 #### Applicability of Pub. L. 97–113 to Actions Prior to December 29, 1981
 
-Section 601(e)(2) of Pub. L. 97–113 provided that: “The amendment made by paragraph (1) of this subsection \[redesignating former subsec. (g) as (d) and striking out subsecs. (d) to (f) of this section\] shall not alter or affect (A) the validity of any action taken before the date of the enactment of this Act \[Dec. 29, 1981\] under those provisions of law repealed by that amendment, or (B) the liability of any person for any payment described in section 3(f) of the Peace Corps Act \[former subsec. (f) of this section\] as in effect immediately before the date of the enactment of this Act.”
+Pub. L. 97–113, title VI, §601(e)(2), Dec. 29, 1981, 95 Stat. 1542, provided that: “The amendment made by paragraph (1) of this subsection \[redesignating former subsec. (g) as (d) and striking out subsecs. (d) to (f) of this section\] shall not alter or affect (A) the validity of any action taken before the date of the enactment of this Act \[Dec. 29, 1981\] under those provisions of law repealed by that amendment, or (B) the liability of any person for any payment described in section 3(f) of the Peace Corps Act \[former subsec. (f) of this section\] as in effect immediately before the date of the enactment of this Act.”
 
 #### Payment of Readjustment Allowances From Amount Appropriated for Fiscal Year 1977; Limitation on Amount Available
 
-Section 3 of Pub. L. 94–281 provided that: “Of the amount appropriated for fiscal year 1977 to carry out the purposes of the Peace Corps Act \[see Short Title note set out under section 2501 of this title\], $10,100,000 shall be available only for payment of the readjustment allowances authorized by sections 5(c) and 6(1) of such Act \[sections 2504(c) and 2505(1) of this title\].”
+Pub. L. 94–281, §3, May 7, 1976, 90 Stat. 458, provided that: “Of the amount appropriated for fiscal year 1977 to carry out the purposes of the Peace Corps Act \[see Short Title note set out under section 2501 of this title\], $10,100,000 shall be available only for payment of the readjustment allowances authorized by sections 5(c) and 6(1) of such Act \[sections 2504(c) and 2505(1) of this title\].”
 

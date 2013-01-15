@@ -38,7 +38,7 @@ All employees treated as employed by a single employer under subsection (b), (c)
 
 Except as otherwise provided in regulations, this section shall apply only with respect to employment within the United States.
 
-(Added Pub. L. 98–369, div. A, title V, §531(e)(1), July 18, 1984, 98 Stat. 885; amended Pub. L. 99–514, title XVIII, §1853(c)(1), (2), Oct. 22, 1986, 100 Stat. 2871; Pub. L. 103–66, title XIII, §13213(d)(3)(D), Aug. 10, 1993, 107 Stat. 474; Pub. L. 104–188, title I, §1704(t)(66), Aug. 20, 1996, 110 Stat. 1890.)
+(Added Pub. L. 98–369, div. A, title V, §531(e)(1), July 18, 1984, 98 Stat. 885; amended Pub. L. 99–514, title XVIII, §1853(c)(1), (2), Oct. 22, 1986, 100 Stat. 2871; Pub. L. 103–66, title XIII, §13213(d)(3)(D), Aug. 10, 1993, 107 Stat. 474; Pub.L. 104–188, title I, §1704(t)(66), Aug. 20, 1996, 110 Stat. 1890.)
 
 #### Amendments
 
@@ -68,5 +68,5 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Application of Subsection (c) of this Section to Agricultural Cooperatives Incorporated in 1964
 
-Section 1853(c)(3) of Pub. L. 99–514 provided that: “For purposes of determining whether the requirements of section 4977(c) of the Internal Revenue Code of 1954 \[now 1986\] are met in the case of an agricultural cooperative incorporated in 1964, there shall not be taken into account employees of a member of the same controlled group as such cooperative which became a member during July 1980.”
+Pub. L. 99–514, title XVIII, §1853(c)(3), Oct. 22, 1986, 100 Stat. 2871, provided that: “For purposes of determining whether the requirements of section 4977(c) of the Internal Revenue Code of 1954 \[now 1986\] are met in the case of an agricultural cooperative incorporated in 1964, there shall not be taken into account employees of a member of the same controlled group as such cooperative which became a member during July 1980.”
 

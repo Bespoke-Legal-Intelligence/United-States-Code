@@ -88,7 +88,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### Extension of Term of Commissioner
 
-Section 235(b)(2) of Pub. L. 98–473, which provided that notwithstanding the provisions of section 4202 of this title as in effect on the day before Nov. 1, 1987 \[set out above\], the term of office of a Commissioner who is in office on Nov. 1, 1987, is extended to the end of the five-year period after Nov. 1, 1987, was repealed by Pub. L. 104–232, §4, Oct. 2, 1996, 110 Stat. 3056. Pub. L. 101–650, title III, §316, Dec. 1, 1990, 104 Stat. 5115, further extended the term of office of a Commissioner to a ten-year period after Nov. 1, 1987.
+Pub. L. 98–473, title II, §235(b)(2), Oct. 12, 1984, 98 Stat. 2032, which provided that notwithstanding the provisions of section 4202 of this title as in effect on the day before Nov. 1, 1987 \[set out above\], the term of office of a Commissioner who is in office on Nov. 1, 1987, is extended to the end of the five-year period after Nov. 1, 1987, was repealed by Pub. L. 104–232, §4, Oct. 2, 1996, 110 Stat. 3056. Pub. L. 101–650, title III, §316, Dec. 1, 1990, 104 Stat. 5115, further extended the term of office of a Commissioner to a ten-year period after Nov. 1, 1987.
 
 #### §4203. Powers and duties of the Commission
 
@@ -122,7 +122,7 @@ Section 235(b)(2) of Pub. L. 98–473, which provided that notwithstanding the p
 
 (d) Except as otherwise provided by law, any action taken by the Commission pursuant to subsection (a) of this section shall be taken by a majority vote of all individuals currently holding office as members of the Commission which shall maintain and make available for public inspection a record of the final vote of each member on statements of policy and interpretations adopted by it. In so acting, each Commissioner shall have equal responsibility and authority, shall have full access to all information relating to the performance of such duties and responsibilities, and shall have one vote.
 
-(e)(1) The Commission shall, upon the request of the head of any law enforcement agency of a State or of a unit of local government in a State, make available as expeditiously as possible to such agency, with respect to individuals who are under the jurisdiction of the Commission, who have been convicted of felony offenses against the United States, and who reside, are employed, or are supervised in the geographical area inwhich such agency has jurisdiction, the following information maintained by the Commission (to the extent that the Commission maintains such information)—
+(e)(1) The Commission shall, upon the request of the head of any law enforcement agency of a State or of a unit of local government in a State, make available as expeditiously as possible to such agency, with respect to individuals who are under the jurisdiction of the Commission, who have been convicted of felony offenses against the United States, and who reside, are employed, or are supervised in the geographical area in which such agency has jurisdiction, the following information maintained by the Commission (to the extent that the Commission maintains such information)—
 
 &emsp;(A) the names of such individuals;
 
@@ -264,7 +264,7 @@ In making a determination under this chapter (relating to release on parole) the
 
 &emsp;(3) any other information which, if disclosed, might result in harm, physical or otherwise, to any person.
 
-> If any document is deemed by either the Commission, the Bureau of Prisons, or any other agency to fall within the exclusionary provisions of subparagraphs (1), (2), or (3) of this subsection, then it shall become the duty of the Commission, the Bureau, or such other agency, as the case may be, to summarize the basic contents of the material withheld, bearing in mind the need for confidentiality or the impact on the inmate, or both, and furnish such summary to the inmate.
+> If any document is deemed by either the Commission, the Bureau of Prisons, or any other agency to fall within the exclusionary provisions of subparagraphs (1), (2), or (3) of this subsection, then it shall become the dutyof the Commission, the Bureau, or such other agency, as the case may be, to summarize the basic contents of the material withheld, bearing in mind the need for confidentiality or the impact on the inmate, or both, and furnish such summary to the inmate.
 
 (d)(1) During the period prior to the parole determination proceeding as provided in subsection (b) of this section, a prisoner may consult, as provided by the director, with a representative as referred to in subparagraph (2) of this subsection, and by mail or otherwise with any person concerning such proceeding.
 
@@ -314,7 +314,7 @@ In making a determination under this chapter (relating to release on parole) the
 
 #### References in Text
 
-The Sex Offender Registration and Notification Act, referred to in subsec. (a), is title I of Pub. L. 109–248,July 27, 2006, 120 Stat. 590, which is classified principally to subchapter I (§16901 et seq.) of chapter 151 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 16901 of Title 42 and Tables.
+The Sex Offender Registration and Notification Act, referred to in subsec. (a), is title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 590, which is classified principally to subchapter I (§16901 et seq.) of chapter 151 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 16901 of Title 42 and Tables.
 
 Sections 3 and 4 of the DNA Analysis Backlog Elimination Act of 2000, referred to in subsec. (a), are classified to sections 14135a and 14135b, respectively, of Title 42, The Public Health and Welfare.
 
@@ -388,7 +388,7 @@ Such prisoner when his parole becomes effective, shall be delivered to the duly 
 
 &emsp;(3) the possible action which may be taken by the Commission.
 
-(d) Any officer of any Federal penal or correctional institution, or any Federal officer authorized to servecriminal process within the United States, to whom a warrant issued under this section is delivered, shall execute such warrant by taking such parolee and returning him to the custody of the regional commissioner, or to the custody of the Attorney General, if the Commission shall so direct.
+(d) Any officer of any Federal penal or correctional institution, or any Federal officer authorized to serve criminal process within the United States, to whom a warrant issued under this section is delivered, shall execute such warrant by taking such parolee and returning him to the custody of the regional commissioner, or to the custody of the Attorney General, if the Commission shall so direct.
 
 > (Added Pub. L. 94–233, §2, Mar. 15, 1976, 90 Stat. 227.)
 
@@ -454,7 +454,7 @@ Such prisoner when his parole becomes effective, shall be delivered to the duly 
 
 #### Codification
 
-Pub. L. 98–473, §§235(a)(1), 238(f), (i), and Pub. L. 98–596, §12(a)(6), (9), (b), amended section as follows: Section 238(f) of Pub. L. 98–473 amended par. (1) effective pursuant to section 235(a)(1) of Pub. L. 98–473 the first day of the first calendar month beginning twenty-four months after Oct. 12, 1984. Section 12(a)(6) of Pub. L. 98–596 amended par. (1) to read as it had before amendment by Pub. L. 98–473, applicable pursuant to section 12(b) of Pub. L. 98–596 on and after the date of enactment of Pub. L. 98–473 (Oct. 12, 1984). Section 238(i) of Pub. L. 98–473 which repealed section 238 of Pub. L. 98–473 on the same date established by section 235(a)(1) of Pub. L. 98–473 was repealed by section 12(a)(9) of Pub. L. 98–596. The cumulative effect of the amendments resulted in no change in this section.
+Pub. L. 98–473, §§235(a)(1), 238(f), (i), and Pub. L. 98–596, §12(a)(6), (9), (b), amended section as follows: Section 238(f) of Pub. L. 98–473 amended par. (1) effective pursuant to section 235(a)(1) of Pub. L. 98–473 thefirst day of the first calendar month beginning twenty-four months after Oct. 12, 1984. Section 12(a)(6) of Pub. L. 98–596 amended par. (1) to read as it had before amendment by Pub. L. 98–473, applicable pursuant to section 12(b) of Pub. L. 98–596 on and after the date of enactment of Pub. L. 98–473 (Oct. 12, 1984). Section 238(i) of Pub. L. 98–473 which repealed section 238 of Pub. L. 98–473 on the same date established by section 235(a)(1) of Pub. L. 98–473 was repealed by section 12(a)(9) of Pub. L. 98–596. The cumulative effect of the amendments resulted in no change in this section.
 
 #### Effective Date of 1988 Amendment
 

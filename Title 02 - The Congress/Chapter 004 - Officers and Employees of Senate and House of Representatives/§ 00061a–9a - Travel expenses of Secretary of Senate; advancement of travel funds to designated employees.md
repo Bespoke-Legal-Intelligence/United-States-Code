@@ -16,17 +16,17 @@ For the purpose of carrying out his duties, the Secretary of the Senate is autho
 
 #### Effective Date of 1984 Amendment
 
-Section 1 of Pub. L. 98–367 provided that the amendment made by that section is effective with respect to fiscal years beginning on or after Oct. 1, 1983.
+Pub. L. 98–367, title I, §1, July 17, 1984, 98 Stat. 474, provided that the amendment made by section 1 is effective with respect to fiscal years beginning on or after Oct. 1, 1983.
 
 #### Effective Date of 1981 Amendment
 
-Section 102 of Pub. L. 97–12 provided that the amendment made by that section is effective with respect to fiscal years beginning on or after Oct. 1, 1980.
+Pub. L. 97–12, title I, §102, June 5, 1981, 95 Stat. 61, provided that the amendment made by section 102 is effective with respect to fiscal years beginning on or after Oct. 1, 1980.
 
 #### Effective Date of 1978 Amendment
 
-Section 101 of Pub. L. 95–355 provided that the amendment made by that section is effective with the fiscal year ending Sept. 30, 1978.
+Pub. L. 95–355, title I, §101, Sept. 8, 1978, 92 Stat. 533, provided that the amendment made by section 101 is effective with the fiscal year ending Sept. 30, 1978.
 
 #### Effective Date of 1977 Amendment
 
-Section 106 of Pub. L. 95–94 provided that the amendment made by that section is effective Oct. 1, 1977.
+Pub. L. 95–94, title I, §106, Aug. 5, 1977, 91 Stat. 661, provided that the amendment made by section 106 is effective Oct. 1, 1977.
 

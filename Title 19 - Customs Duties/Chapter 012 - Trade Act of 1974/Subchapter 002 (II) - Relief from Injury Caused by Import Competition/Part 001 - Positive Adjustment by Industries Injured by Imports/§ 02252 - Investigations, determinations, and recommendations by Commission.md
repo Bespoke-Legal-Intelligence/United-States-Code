@@ -2,7 +2,7 @@
 
 #### (a) Petitions and adjustment plans
 
-(1) A petition requesting action under this part for the purpose of facilitating positive adjustment to import competition may be filed with the Commission by an entity, including a trade association, firm, certified or recognized union, or group of workers, which is representative of an industry.
+(1) A petition requesting action under this part for the purpose of facilitating positive adjustment to import competition may be filedwith the Commission by an entity, including a trade association, firm, certified or recognized union, or group of workers, which is representative of an industry.
 
 (2) A petition under paragraph (1)—
 
@@ -40,7 +40,7 @@
 
 (7) Nothing in paragraphs (5) and (6) may be construed to provide immunity under the antitrust laws.
 
-(8) The procedures concerning the release of confidential business information set forth in section 332(g) of the Tariff Act of 1930 \[19 U.S.C. 1332(g)\] shall apply with respect to information received by the Commission in the course of investigations conducted under this part, part 1 of title III of the North American Free Trade Agreement Implementation Act \[19 U.S.C. 3351 et seq.\], title II of the United States-Jordan Free Trade Area Implementation Act, title III of the United States-Chile Free Trade Agreement Implementation Act, title III of the United States-Singapore Free Trade Agreement Implementation Act, title III of the United States-Australia Free Trade Agreement Implementation Act, title III of the United States-Morocco Free Trade Agreement Implementation Act, title III of the Dominican Republic-Central America-United States Free Trade Agreement Implementation Act \[19 U.S.C. 4051 et seq.\], title III of the United States-Bahrain Free Trade Agreement Implementation Act, title III of the United States-Oman Free Trade Agreement Implementation Act, title III of the United States-Peru Trade Promotion Agreement Implementation Act, and title III of the United States–Korea Free Trade Agreement Implementation Act. The Commission may request that parties providing confidential business information furnish nonconfidential summaries thereof or, if such parties indicate that the information in the submission cannot be summarized, the reasons why a summary cannot be provided. If the Commission finds that a request for confidentiality is not warranted and if the party concerned is either unwilling to make the information public or to authorize its disclosure in generalized or summarized form, the Commission may disregard the submission.
+(8) The procedures concerning the release of confidential business information set forth in section 332(g) of the Tariff Act of 1930 \[19 U.S.C. 1332(g)\] shall apply with respect to information received by the Commission in the course of investigations conducted under this part, part 1 of title III of the North American Free Trade Agreement Implementation Act \[19 U.S.C. 3351 et seq.\], title II of the United States-Jordan Free Trade Area Implementation Act, title III of the United States-Chile Free Trade Agreement Implementation Act, title III of the United States-Singapore Free Trade Agreement Implementation Act, title III of the United States-Australia Free Trade Agreement Implementation Act, title III of the United States-Morocco Free Trade Agreement Implementation Act, title III of the Dominican Republic-Central America-United States Free Trade Agreement Implementation Act \[19 U.S.C. 4051 et seq.\], title III of the United States-Bahrain Free Trade Agreement Implementation Act, title III of the United States-Oman Free Trade Agreement Implementation Act, title III of the United States-Peru Trade Promotion Agreement Implementation Act, title III of the United States–Korea Free Trade Agreement Implementation Act, title III of the United States–Colombia Trade Promotion Agreement Implementation Act, and title III of the United States–Panama Trade Promotion Agreement Implementation Act. The Commission may request that parties providing confidential business information furnish nonconfidential summaries thereof or, if such parties indicate that the information in the submission cannot be summarized, the reasons why a summary cannot be provided. If the Commission finds that a request for confidentiality is not warranted and if the party concerned is either unwilling to make the information public or to authorize its disclosure in generalized or summarized form, the Commission may disregard the submission.
 
 #### (b) Investigations and determinations by Commission
 
@@ -52,7 +52,7 @@
 
 (B) If before the 100th day after a petition is filed under subsection (a)(1) of this section the Commission determines that the investigation is extraordinarily complicated, the Commission shall make the determination under paragraph (1) within 150 days (210 days if the petition alleges that critical circumstances exist) after the date referred to in subparagraph (A).
 
-(3) The Commission shall publish notice of the commencement of any proceeding under this subsection in the Federal Register and shall, within a reasonable time thereafter, hold publichearings at which the Commission shall afford interested parties and consumers an opportunity to be present, to present evidence, to comment on the adjustment plan, if any, submitted under subsection (a) of this section, to respond to the presentations of other parties and consumers, and otherwise to be heard.
+(3) The Commission shall publish notice of the commencement of any proceeding under this subsection in the Federal Register and shall, within a reasonable time thereafter, hold public hearings at which the Commission shall afford interested parties and consumers an opportunity to be present, to present evidence, to comment on the adjustment plan, if any, submitted under subsection (a) of this section, to respond to the presentations of other parties and consumers, and otherwise to be heard.
 
 #### (c) Factors applied in making determinations
 
@@ -236,7 +236,7 @@
 
 &emsp;&emsp;(v) whether international negotiations may be constructive to address the injury or threat thereof or to facilitate adjustment.
 
-(6) Only those members of the Commission who agreed to the affirmative determination under subsection (b) of this section are eligible to vote on the recommendation required to be made under paragraph (1) or that may be made under paragraph (3). Members of the Commission who did not agree to the affirmative determination may submit, in the report required under subsection (f) of this section, separateviews regarding what action, if any, should be taken under section 2253 of this title.
+(6) Only those members of the Commission who agreed to the affirmative determination under subsection (b) of this section are eligible to vote on the recommendation required to be made under paragraph (1) or that may be made under paragraph (3). Members of the Commission who did not agree to the affirmative determination may submit, in the report required under subsection (f) of this section, separate views regarding what action, if any, should be taken under section 2253 of this title.
 
 #### (f) Report by Commission
 
@@ -290,15 +290,11 @@ If the Commission makes an affirmative determination under subsection (b)(1) of 
 
 The Commission shall promulgate regulations to provide access to confidential business information under protective order to authorized representatives of interested parties who are parties to an investigation under this section.
 
-(Pub. L. 93–618, title II, §202, Jan. 3, 1975, 88 Stat. 2014; Pub. L. 100–418, title I, §1401(a), Aug. 23, 1988, 102 Stat. 1225; Pub. L. 103–182, title III, §§315, 317(b), Dec. 8, 1993, 107 Stat. 2107, 2108; Pub. L. 103–465, title III, §§301(a)–(d)(2), (4), (e), (f), 302(b)(4)(B), 303(1)–(6), Dec. 8, 1994, 108 Stat. 4932–4934, 4936, 4937; Pub. L. 104–295, §20(c)(5), Oct. 11, 1996, 110 Stat. 3528; Pub. L. 107–43, title II, §222, Sept. 28, 2001, 115 Stat. 250; Pub. L. 108–77, title III, §316, Sept. 3, 2003, 117 Stat. 937; Pub. L. 108–78, title III, §316, Sept. 3, 2003, 117 Stat. 967; Pub. L. 108–286, title III, §316, Aug. 3, 2004, 118 Stat. 945; Pub. L. 108–302, title III, §316, Aug. 17, 2004, 118 Stat. 1120; Pub. L. 109–53, titleIII, §316, Aug. 2, 2005, 119 Stat. 492; Pub. L. 109–169, title III, §316, Jan. 11, 2006, 119 Stat. 3597; Pub. L. 109–283, title III, §316, Sept. 26, 2006, 120 Stat. 1207; Pub. L. 110–138, title III, §316, Dec. 14, 2007, 121 Stat. 1483; Pub. L. 112–41, title III, §316, Oct. 21, 2011, 125 Stat. 456; Pub. L. 112–42, title III, §316, Oct. 21, 2011, 125 Stat. 491; Pub. L. 112–43, title III, §316, Oct. 21, 2011, 125 Stat. 527.)
+(Pub. L. 93–618, title II, §202, Jan. 3, 1975, 88 Stat. 2014; Pub. L. 100–418, title I, §1401(a), Aug. 23, 1988, 102 Stat. 1225; Pub. L. 103–182, title III, §§315, 317(b), Dec. 8, 1993, 107 Stat. 2107, 2108; Pub. L. 103–465, title III, §§301(a)–(d)(2), (4), (e), (f), 302(b)(4)(B), 303(1)–(6), Dec. 8, 1994, 108 Stat. 4932–4934, 4936, 4937; Pub. L. 104–295, §20(c)(5), Oct. 11, 1996, 110 Stat. 3528; Pub. L. 107–43, title II, §222, Sept. 28, 2001, 115 Stat. 250; Pub. L. 108–77, title III, §316, Sept. 3, 2003, 117 Stat. 937; Pub. L. 108–78, title III, §316, Sept. 3, 2003, 117 Stat. 967; Pub. L. 108–286, title III, §316, Aug. 3, 2004, 118 Stat. 945; Pub. L. 108–302, title III, §316, Aug. 17, 2004, 118 Stat. 1120; Pub. L. 109–53, title III, §316, Aug. 2, 2005, 119 Stat. 492; Pub. L. 109–169, title III, §316, Jan. 11, 2006, 119 Stat. 3597; Pub. L. 109–283, title III, §316, Sept. 26, 2006, 120 Stat. 1207; Pub. L. 110–138, title III, §316, Dec. 14, 2007, 121 Stat. 1483; Pub. L. 112–41, title III, §316, Oct. 21, 2011, 125 Stat. 456; Pub. L. 112–42, title III, §316, Oct. 21, 2011, 125 Stat. 491; Pub. L. 112–43, title III, §316, Oct. 21, 2011, 125 Stat. 527.)
 
 #### Amendment of Section
 
-<i>Pub. L. 112–43, title I, §107(a), title III, §316, Oct. 21, 2011, 125 Stat. 501, 527, provided that, effective on the date on which the United States–Panama Trade Promotion Agreement enters into force, subsection (a)(8) of this section is amended in the first sentence by striking “and” and by inserting before the period at the end “, and title III of the United States–Panama Trade Promotion Agreement Implementation Act”. See 2011 Amendment note below.</i>
-
 <i>For termination of amendment by section 107(c) of Pub. L. 112–43, see Effective and Termination Dates of 2011 Amendment note below.</i>
-
-<i>Pub. L. 112–42, title I, §107(a), title III, §316, Oct. 21, 2011, 125 Stat. 466, 491, provided that, effective on the date the United States–Columbia Trade Promotion Agreement enters into force, subsection (a)(8) of this section is amended by striking “and” and by inserting before the period at the end “, and title III of the United States–Colombia Trade Promotion Agreement Implementation Act”. See 2011 Amendment note below.</i>
 
 <i>For termination of amendment by section 107(c) of Pub. L. 112–42, see Effective and Termination Dates of 2011 Amendment note below.</i>
 
@@ -346,13 +342,17 @@ Title III of the United States-Peru Trade Promotion Agreement Implementation Act
 
 Title III of the United States–Korea Free Trade Agreement Implementation Act, referred to in subsec. (a)(8), is title III of Pub. L. 112–41, Oct. 21, 2011, 125 Stat. 451, which is set out in a note under section 3805 of this title.
 
+Title III of the United States–Colombia Trade Promotion Agreement Implementation Act, referred to in subsec. (a)(8), is title III of Pub. L. 112–42, Oct. 21, 2011, 125 Stat. 487, which is set out in a note under section 3805 of this title.
+
+Title III of the United States–Panama Trade Promotion Agreement Implementation Act, referred to in subsec. (a)(8), is title III of Pub. L. 112–43, Oct. 21, 2011, 125 Stat. 523, which is set out in a note under section 3805 of this title.
+
 The Tariff Act of 1930, referred to in subsec. (c)(5), is act June 17, 1930, ch. 497, 46 Stat. 590, as amended. Subtitles A and B of title VII of the Tariff Act of 1930 are classified generally to parts I and II (§1671 et seq. and 1673 et seq., respectively) of subtitle IV of chapter 4 of this title. For complete classification of this Act to the Code, see section 1654 of this title and Tables.
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a)(8). Pub. L. 112–43, §§107(c), 316, in first sentence, temporarily struck out “and” before “title III of the United States–Colombia Trade Promotion Agreement Implementation Act” and inserted before period at end “, and title III of the United States–Panama Trade Promotion Agreement Implementation Act”. See Effective and Termination Dates of 2011 Amendment note below.
+<b>2011</b>—Subsec. (a)(8). Pub. L. 112–43, §§107(c), 316, in first sentence, temporarily struck out “and” before“title III of the United States–Colombia Trade Promotion Agreement Implementation Act” and inserted before period at end “, and title III of the United States–Panama Trade Promotion Agreement Implementation Act”. See Effective and Termination Dates of 2011 Amendment note below.
 
-Pub. L. 112–42, §§107(c), 316, in first sentence, temporarily struck out “and” before “title III of the United States–Korea Free Trade Agreement ImplementationAct” and inserted before period at end “, and title III of the United States–Colombia Trade Promotion Agreement Implementation Act”. See Effective and Termination Dates of 2011 Amendment note below.
+Pub. L. 112–42, §§107(c), 316, in first sentence, temporarily struck out “and” before “title III of the United States–Korea Free Trade Agreement Implementation Act” and inserted before period at end “, and title III of the United States–Colombia Trade Promotion Agreement Implementation Act”. See Effective and Termination Dates of 2011 Amendment note below.
 
 Pub. L. 112–41, §§107(c), 316, in first sentence, temporarily struck out “and” before “title III of the United States-Peru Trade Promotion Agreement Implementation Act” and inserted before period at end “, and title III of the United States–Korea Free Trade Agreement Implementation Act”. See Effective and Termination Dates of 2011 Amendment note below.
 
@@ -414,7 +414,7 @@ Subsec. (f)(1). Pub. L. 103–465, §301(d)(2)(B), inserted “(240 days if the 
 
 Subsec. (f)(2)(G)(ii). Pub. L. 103–465, §303(6), substituted “industry are located” for “industry is located”.
 
-Subsec. (h)(2). Pub. L. 103–465, §302(b)(4)(B), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “If an article was the subject of an investigation under this section that resulted in any action described in section 2253(a)(3)(A), (B), (C), or (E) of thistitle being taken under section 2253 of this title, no other investigation under this part may be initiated with respect to such article while such action is in effect or during the period beginning on the date on which such action terminates that is equal in duration to the period during which such action was in effect.”
+Subsec. (h)(2). Pub. L. 103–465, §302(b)(4)(B), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “If an article was the subject of an investigation under this section that resulted in any action described in section 2253(a)(3)(A), (B), (C), or (E) of this title being taken under section 2253 of this title, no other investigation under this part may be initiated with respect to such article while such action is in effect or during the period beginning on the date on which such action terminates that is equal in duration to the period during which such action was in effect.”
 
 Subsec. (h)(3). Pub. L. 103–465, §301(f), added par. (3).
 
@@ -432,9 +432,9 @@ Subsec. (d)(5). Pub. L. 103–182, §315(3), (4), added subpar. (A) and redesign
 
 #### Effective and Termination Dates of 2011 Amendment
 
-Amendment by Pub. L. 112–43 effective on the date the United States–Panama Trade Promotion Agreement enters into force and to cease to be effective on the date the Agreement terminates, see section 107(a), (c) of Pub. L. 112–43, set out in a note under section 3805 of this title.
+Amendment by Pub. L. 112–43 effective on the date the United States–Panama Trade Promotion Agreement enters into force (Oct. 31, 2012) and to cease to be effective on the date the Agreement terminates, see section 107(a), (c) of Pub. L. 112–43, set out in a note under section 3805 of this title.
 
-Amendment by Pub. L. 112–42 effective on the date the United States–Columbia Trade Promotion Agreement enters into force and to cease to be effective on the date the Agreement terminates, see section 107(a), (c) of Pub. L. 112–42, set out in a note under section 3805 of this title.
+Amendment by Pub. L. 112–42 effective on the date the United States–Colombia Trade Promotion Agreement enters into force (May 15, 2012) and to cease to be effective on the date the Agreement terminates, see section 107(a), (c) of Pub. L. 112–42, set out in a note under section 3805 of this title.
 
 Amendment by Pub. L. 112–41 effective on the date the United States–Korea Free Trade Agreement enters into force (Mar. 15, 2012) and to cease to be effective on the date the Agreement terminates, see section 107(a), (c) of Pub. L. 112–41, set out in a note under section 3805 of this title.
 
@@ -470,7 +470,7 @@ Amendment by Pub. L. 107–43 effective on the date the Agreement between the Un
 
 #### Effective Date of 1994 Amendment
 
-Section 304 of title III of Pub. L. 103–465 provided that:
+Pub. L. 103–465, title III, §304, Dec. 8, 1994, 108 Stat. 4938, provided that:
 
 “(a)
 
@@ -486,7 +486,7 @@ Amendment by Pub. L. 103–182 effective on the date the North American Free Tra
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–418 effective Aug. 23, 1988, and applicable with respect to investigations initiated under this part on or after that date, see section 1401(c) of Pub. L. 100–418, set out as a note under section 2251 of this title.
+Amendment by Pub. L. 100–418 effective Aug. 23, 1988, and applicable with respect to investigations initiatedunder this part on or after that date, see section 1401(c) of Pub. L. 100–418, set out as a note under section 2251 of this title.
 
 #### Uruguay Round Agreements: Entry Into Force
 

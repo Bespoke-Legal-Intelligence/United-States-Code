@@ -2,13 +2,17 @@
 
 (a)
 
-National Transit Database.—To help meet the needs of individual public transportation systems, the United States Government, State and local governments, and the public for information on which to base public transportation service planning, the Secretary of Transportation shall maintain a reporting system, using uniform categories to accumulate public transportation financial and operating information and using a uniform system of accounts. The reporting and uniform systems shall contain appropriate information to help any level of government make a public sector investment decision. The Secretary may request and receive appropriate information from any source.
+National Transit Database.—To help meet the needs of individual public transportation systems, the United States Government, State and local governments, and the public for information on which to base public transportation service planning, the Secretary shall maintain a reporting system, using uniform categories to accumulate public transportation financial, operating, and asset condition information and using a uniform system of accounts. The reporting and uniform systems shall contain appropriate information to help any level of government make a public sector investment decision. The Secretary may request and receive appropriate information from any source.
 
 (b)
 
 Reporting and Uniform Systems.—The Secretary may award a grant under section 5307 or 5311 only if the applicant, and any person that will receive benefits directly from the grant, are subject to the reporting and uniform systems.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 838; Pub. L. 104–287, §5(9), (18), Oct. 11, 1996, 110 Stat. 3389, 3390; Pub. L. 104–316, title I, §127(b), Oct. 19, 1996, 110 Stat. 3840; Pub. L. 105–178, title III, §3026, June 9, 1998, 112 Stat. 365; Pub. L. 109–59, title III, §§3002(b)(4), 3033(a), Aug. 10, 2005, 119 Stat. 1545, 1627.)
+(c)
+
+Data Required to Be Reported.—The recipient of a grant under this chapter shall report to the Secretary, for inclusion in the National Transit Database, any information relating to a transit asset inventory or condition assessment conducted by the recipient.
+
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 838; Pub. L. 104–287, §5(9), (18), Oct. 11, 1996, 110 Stat. 3389, 3390; Pub. L. 104–316, title I, §127(b), Oct. 19, 1996, 110 Stat. 3840; Pub. L. 105–178, title III, §3026, June 9, 1998, 112 Stat. 365; Pub. L. 109–59, title III, §§3002(b)(4), 3033(a), Aug. 10, 2005, 119 Stat. 1545, 1627; Pub. L. 112–141, div. B, §§20025(a), 20030(j), July 6, 2012, 126 Stat. 718, 731.)
 
 Historical and Revision Notes
 
@@ -82,6 +86,10 @@ This amends 49:5335(d)(2)(B) to amend an erroneous cross-reference.
 
 #### Amendments
 
+<b>2012</b>—Subsec. (a). Pub. L. 112–141, §§20025(a)(1), 20030(j), struck out “of Transportation” after “the Secretary” and substituted “public transportation financial, operating, and asset condition information” for “public transportation financial and operating information”.
+
+Subsec. (c). Pub. L. 112–141, §20025(a)(2), added subsec. (c).
+
 <b>2005</b>—Pub. L. 109–59, §3033(a), substituted “National transit database” for “Reports and audits” in section catchline, redesignated pars. (1) and (2) of subsec. (a) as subsecs. (a) and (b), respectively, inserted subsec. (b) heading, substituted “The Secretary may award a grant under section 5307 or 5311” for “The Secretary may make a grant under section 5307 of this title” in subsec. (b), and struck out former subsec. (b) which related to submission of a report in January- 1993, on carrying out former section 5307(b)(5) of this title.
 
 Subsec. (a)(1). Pub. L. 109–59, §3002(b)(4), substituted “public transportation” for “mass transportation” wherever appearing.
@@ -103,4 +111,16 @@ Subsec. (d). Pub. L. 104–316 struck out “and in January of every 2d year aft
 Pub. L. 104–287, §5(9), substituted “Transportation and Infrastructure” for “Public Works and Transportation” in introductory provisions.
 
 Subsec. (d)(2)(B). Pub. L. 104–287, §5(18), substituted “Americans with Disabilities Act” for “Americans With Disabilities Act”.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
+
+#### Data Accuracy and Reliability
+
+Pub. L. 112–141, div. B, §20025(b), July 6, 2012, 126 Stat. 718, provided that: “The Secretary \[of Transportation\] shall—
+
+&emsp;“(1) develop and implement appropriate internal control activities to ensure that public transportation safety incident data is reported accurately and reliably by public transportation systems and State safety oversight agencies to the State Safety Oversight Rail Accident Database; and
+
+&emsp;“(2) report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives within 1 year of enactment of the Federal Public Transportation Act of 2012 \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\] on the steps taken to improve the accuracy and reliability of public transportation safety incident data reported to the State Safety Oversight Rail Accident Database.”
 

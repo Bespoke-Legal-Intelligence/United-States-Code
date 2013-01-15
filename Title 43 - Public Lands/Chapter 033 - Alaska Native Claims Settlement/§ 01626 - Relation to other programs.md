@@ -52,7 +52,7 @@ Notwithstanding any other provision of law, Alaska Natives shall remain eligible
 
 (4)(A) Congress confirms that Federal procurement programs for tribes and Alaska Native Corporations are enacted pursuant to its authority under Article I, Section 8 of the United States Constitution.
 
-(B) Contracting with an entity defined in subsections <sup>1</sup> (e)(1) or (e)(2) of this section or section 1452(c) of title 25 shall be credited towards the satisfaction of a contractor's small or small disadvantaged business subcontracting goals under section 502 of P.L. 100–656, provided that wherelower tier subcontractors exist, the entity shall designate the appropriate contractor or contractors to receive such credit.
+(B) Contracting with an entity defined in subsections <sup>1</sup> (e)(1) or (e)(2) of this section or section 1452(c) of title 25 shall be credited towards the satisfaction of a contractor's small or small disadvantaged business subcontracting goals under section 502 of P.L. 100–656, provided that where lower tier subcontractors exist, the entity shall designate the appropriate contractor or contractors to receive such credit.
 
 (C) Any entity that satisfies subsection (e)(1) or (e)(2) of this section that has been certified under section 637 of title 15 is a Disadvantaged Business Enterprise for the purposes of Public Law 105–178.
 
@@ -72,7 +72,7 @@ The Social Security Act, referred to in subsec. (c)(2), is act Aug. 14, 1935, ch
 
 Section 502 of P.L. 100–656, referred to in subsec. (e)(4)(B), is section 502 of title V of Pub. L. 100–656, Nov. 15, 1988, 102 Stat. 3881, which amended section 644(g) of Title 15, Commerce and Trade.
 
-Public Law 105–178, referred to in subsec. (e)(4)(C), is Pub. L. 105–178, June 9, 1998, 112 Stat. 107, as amended, known as the Transportation Equity Act for the 21st Century. The Disadvantaged Business Enterprise provisions of the Act were contained in section 1101(b), formerly set out as a note under section 101 of Title 23, Highways. For complete classification of this Act to the Code, see Short Title of 1998 Amendment note set out under section 101 of Title 23 and Tables.
+Public Law 105–178, referred to in subsec. (e)(4)(C), is Pub. L. 105–178, June 9, 1998, 112 Stat. 107, as amended,known as the Transportation Equity Act for the 21st Century. The Disadvantaged Business Enterprise provisions of the Act were contained in section 1101(b), formerly set out as a note under section 101 of Title 23, Highways. For complete classification of this Act to the Code, see Short Title of 1998 Amendment note set out under section 101 of Title 23 and Tables.
 
 The Civil Rights Act of 1964, referred to in subsec. (g), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended, which is classified principally to subchapters II to IX (§2000a et seq.) of chapter 21 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 

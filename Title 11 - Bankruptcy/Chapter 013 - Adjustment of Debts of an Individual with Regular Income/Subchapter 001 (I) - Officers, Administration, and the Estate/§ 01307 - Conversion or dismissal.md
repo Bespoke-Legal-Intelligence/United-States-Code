@@ -46,7 +46,7 @@ Section 1307(a) is derived from the Senate amendment in preference to a comparab
 
 #### senate report no. 95–989
 
-Subsections (a) and (b) confirm, without qualification, the rights of a chapter 13 debtor to convert the case to a liquidating bankruptcy case under chapter 7 of title 11, at any time, or to have the chapter 13 case dismissed. Waiver of any such right is unenforceable. Subsection (c) specifies various conditions for the exercise of the power of the court to convert a chapter 13 case to one under chapter 7 or to dismiss the case. Subsection (d) deals with the conversion of a chapter 13 case to one under chapter 11. Subsection (e) prohibits conversion of the chapter 13 case filed by a farmer to chapter 7 or 11 except at the request of the debtor. No case is to be converted from chapter 13 to any other chapter, unless the debtor is an eligible debtor under the new chapter.
+Subsections (a) and (b) confirm, without qualification, the rights of a chapter 13 debtor to convert the case to a liquidating bankruptcy case under chapter 7 of title 11, at any time, or to have the chapter 13 case dismissed. Waiver of any such right is unenforceable. Subsection (c) specifies various conditions for the exercise of the power of the court to convert a chapter 13 case to one under chapter 7 or to dismiss the case. Subsection (d) deals with the conversion of a chapter 13 case to one under chapter 11. Subsection (e) prohibits conversion of the chapter 13 case filed by a farmer tochapter 7 or 11 except at the request of the debtor. No case is to be converted from chapter 13 to any other chapter, unless the debtor is an eligible debtor under the new chapter.
 
 #### house report no. 95–595
 
@@ -90,7 +90,7 @@ Subsec. (c)(8). Pub. L. 98–353, §§315(1), 527(b)(3), redesignated former par
 
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to casescommenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1986 Amendment
 

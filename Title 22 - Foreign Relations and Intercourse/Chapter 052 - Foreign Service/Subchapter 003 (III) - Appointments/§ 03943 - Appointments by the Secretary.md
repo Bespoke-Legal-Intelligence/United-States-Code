@@ -1,6 +1,6 @@
 ### §3943. Appointments by the Secretary
 
-The Secretary may appoint the members of the Service (other than the members of the Service who are in the personnel categories specified in section 3942(a) of this title) in accordance with this chapter and such regulations as the Secretary may prescribe.
+The Secretary may appoint the members of the Service (other than the members of theService who are in the personnel categories specified in section 3942(a) of this title) in accordance with this chapter and such regulations as the Secretary may prescribe.
 
 (Pub. L. 96–465, title I, §303, Oct. 17, 1980, 94 Stat. 2085.)
 
@@ -14,7 +14,7 @@ Pub. L. 100–204, title I, §157, Dec. 22, 1987, 101 Stat. 1354, provided that:
 
 “(a)
 
-Prohibition.—After September 30, 1990, no national of a Communist country may be employed as aforeign national employee in any area of a United States diplomatic or consular facility in any Communist country where classified materials are maintained.
+Prohibition.—After September 30, 1990, no national of a Communist country may be employed as a foreign national employee in any area of a United States diplomatic or consular facility in any Communist country where classified materials are maintained.
 
 “(b)
 

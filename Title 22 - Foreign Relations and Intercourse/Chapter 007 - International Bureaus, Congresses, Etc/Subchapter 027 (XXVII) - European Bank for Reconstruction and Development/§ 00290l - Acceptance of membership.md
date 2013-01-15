@@ -14,5 +14,5 @@ Another section 562(c) of Pub. L. 101–513, consisting of pars. (1) to (5), is 
 
 #### Short Title
 
-Section 562(c)(1) of Pub. L. 101–513 provided that: “This subsection \[enacting this subchapter and amending sections 262r and 276c–2 of this title and section 24 of Title 12, Banks and Banking\] may be cited as the ‘European Bank for Reconstruction and Development Act’.”
+Pub. L. 101–513, title V, §562(c)(1), Nov. 5, 1990, 104 Stat. 2031, provided that: “This subsection \[enacting this subchapter and amending sections 262r and 276c–2 of this title and section 24 of Title 12, Banks and Banking\] may be cited as the ‘European Bank for Reconstruction and Development Act’.”
 

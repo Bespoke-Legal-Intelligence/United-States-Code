@@ -2,7 +2,7 @@
 
 (a)
 
-Human Relations Training Required.—The Secretary of the Army shall include as part of the training program for drill sergeants a course in human relations. The course shall be a minimum of two days in duration.
+Human Relations Training Required.—The Secretary of the Army shall include as partof the training program for drill sergeants a course in human relations. The course shall be a minimum of two days in duration.
 
 (b)
 
@@ -12,11 +12,11 @@ Resources.—In developing a human relations course under this section, the Secr
 
 #### Effective Date
 
-Section 557(b) of Pub. L. 105–85, as amended by Pub. L. 106–65, div. A, title X, §1066(c)(1), Oct. 5, 1999, 113 Stat. 773, provided that: “Section 4318 of title 10, United States Code, as added by subsection (a), shall apply with respect to drill sergeant trainee classes that begin after the end of the 90-day period beginning on the date of the enactment of this Act \[Nov. 18, 1997\].”
+Pub. L. 105–85, div. A, title V, §557(b), Nov. 18, 1997, 111 Stat. 1750, as amended by Pub. L. 106–65, div. A, title X, §1066(c)(1), Oct. 5, 1999, 113 Stat. 773, provided that: “Section 4318 of title 10, United States Code, as added by subsection (a), shall apply with respect to drill sergeant trainee classes that begin after the end of the 90-day period beginning on the date of the enactment of this Act \[Nov. 18, 1997\].”
 
 #### Reform of Army Drill Sergeant Selection and Training Process
 
-Section 556 of Pub. L. 105–85 provided that:
+Pub. L. 105–85, div. A, title V, §556, Nov. 18, 1997, 111 Stat. 1749, provided that:
 
 “(a)
 

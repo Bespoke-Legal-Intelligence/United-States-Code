@@ -52,7 +52,7 @@ Notwithstanding subsection (a) of this section, exempted operational files shall
 
 #### (e) Supersedure of other laws
 
-The provisions of subsection (a) of this section may not be superseded except by a provision oflaw that is enacted after November 24, 2003, and that specifically cites and repeals or modifies such provisions.
+The provisions of subsection (a) of this section may not be superseded except by a provision of law that is enacted after November 24, 2003, and that specifically cites and repeals or modifies such provisions.
 
 #### (f) Allegation; improper withholding of records; judicial review
 
@@ -82,7 +82,7 @@ The provisions of subsection (a) of this section may not be superseded except by
 
 (1) Not less than once every 10 years, the Director of the National Security Agency and the Director of National Intelligence shall review the exemptions in force under subsection (a) of this section to determine whether such exemptions may be removed from a category of exempted files or any portion thereof. The Director of National Intelligence must approve any determination to remove such exemptions.
 
-(2) The review required by paragraph (1) shall include consideration of the historical value or other public interest in the subject matter of a particular category of files or portions thereof and the potential for declassifying a significant part of the information contained therein.
+(2) The review required by paragraph (1) shall include consideration of the historical value orother public interest in the subject matter of a particular category of files or portions thereof and the potential for declassifying a significant part of the information contained therein.
 
 (3) A complainant that alleges that the National Security Agency has improperly withheld records because of failure to comply with this subsection may seek judicial review in the district court of the United States of the district in which any of the parties reside, or in the District of Columbia. In such a proceeding, the court's review shall be limited to determining the following:
 

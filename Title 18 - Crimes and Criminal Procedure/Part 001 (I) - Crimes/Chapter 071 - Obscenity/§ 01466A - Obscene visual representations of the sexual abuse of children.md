@@ -38,7 +38,7 @@ Circumstances.—The circumstance referred to in subsections (a) and (b) is that
 
 &emsp;(1) any communication involved in or made in furtherance of the offense is communicated or transported by the mail, or in interstate or foreign commerce by any means, including by computer, or any means or instrumentality of interstate or foreign commerce is otherwise used in committing or in furtherance of the commission of the offense;
 
-&emsp;(2) any communication involved in or made in furtherance of the offense contemplates the transmission or transportation of a visual depiction by the mail, or in interstate or foreigncommerce by any means, including by computer;
+&emsp;(2) any communication involved in or made in furtherance of the offense contemplates the transmission or transportation of a visual depiction by the mail, or in interstate or foreign commerce by any means, including by computer;
 
 &emsp;(3) any person travels or is transported in interstate or foreign commerce in the course of the commission or in furtherance of the commission of the offense;
 
@@ -62,7 +62,7 @@ Affirmative Defense.—It shall be an affirmative defense to a charge of violati
 
 Definitions.—For purposes of this section—
 
-&emsp;(1) the term “visual depiction” includes undeveloped film and videotape, and data stored on a computer disk or by electronic means which is capable of conversion into a visual image, and also includes any photograph, film, video, picture, digital image or picture, computer image or picture, or computer generated image or picture, whether made or produced by electronic, mechanical, or other means;
+&emsp;(1) the term “visual depiction” includes undeveloped film and videotape, and data stored on a computer disk or by electronic means which is capable of conversion into a visual image, and also includes any photograph, film, video, picture, digital image or picture, computer image or picture, or computer generatedimage or picture, whether made or produced by electronic, mechanical, or other means;
 
 &emsp;(2) the term “sexually explicit conduct” has the meaning given the term in section 2256(2)(A) or 2256(2)(B); and
 

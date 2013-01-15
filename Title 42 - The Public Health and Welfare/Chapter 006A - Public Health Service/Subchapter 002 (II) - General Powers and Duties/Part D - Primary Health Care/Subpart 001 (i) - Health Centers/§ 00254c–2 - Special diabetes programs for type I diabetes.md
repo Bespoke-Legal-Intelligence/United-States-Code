@@ -8,7 +8,7 @@ The Secretary, directly or through grants, shall provide for research into the p
 
 #### (1) Transferred funds
 
-&emsp;Notwithstanding section 1397dd(a) of this title, from the amounts appropriated in suchsection for each of fiscal years 1998 through 2002, $30,000,000 is hereby transferred and made available in such fiscal year for grants under this section.
+&emsp;Notwithstanding section 1397dd(a) of this title, from the amounts appropriated in such section for each of fiscal years 1998 through 2002, $30,000,000 is hereby transferred and made available in such fiscal year for grants under this section.
 
 #### (2) Appropriations
 
@@ -18,11 +18,13 @@ The Secretary, directly or through grants, shall provide for research into the p
 
 &emsp;&emsp;(B) $100,000,000 for fiscal year 2003; and
 
-&emsp;&emsp;(C) $150,000,000 for each of fiscal years 2004 through 2013.
+&emsp;&emsp;(C) $150,000,000 for each of fiscal years 2004 through 2014.
 
-(July 1, 1944, ch. 373, title III, §330B, as added Pub. L. 105–33, title IV, §4921, Aug. 5, 1997, 111 Stat. 574; amended Pub. L. 105–34, title XVI, §1604(f)(1)(B), (C), Aug. 5, 1997, 111 Stat. 1098; Pub. L. 106–554, §1(a)(6) \[title IX, §931(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–585; Pub. L. 107–360, §1(a), Dec. 17, 2002, 116 Stat. 3019; Pub. L. 110–173, title III, §302(a), Dec. 29, 2007, 121 Stat. 2514; Pub. L. 110–275, title III, §303(a), July 15, 2008, 122 Stat. 2594; Pub. L. 111–309, title I, §112(1), Dec. 15, 2010, 124 Stat. 3289.)
+(July 1, 1944, ch. 373, title III, §330B, as added Pub. L. 105–33, title IV, §4921, Aug. 5, 1997, 111 Stat. 574; amended Pub. L. 105–34, title XVI, §1604(f)(1)(B), (C), Aug. 5, 1997, 111 Stat. 1098; Pub. L. 106–554, §1(a)(6) \[title IX, §931(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–585; Pub. L. 107–360, §1(a), Dec. 17, 2002, 116 Stat. 3019; Pub. L. 110–173, title III, §302(a), Dec. 29, 2007, 121 Stat. 2514; Pub. L. 110–275, title III, §303(a), July 15, 2008, 122 Stat. 2594; Pub. L. 111–309, title I, §112(1), Dec. 15, 2010, 124 Stat. 3289; Pub. L. 112–240, title VI, §625(a), Jan. 2, 2013, 126 Stat. 2352.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (b)(2)(C). Pub. L. 112–240 substituted “2014” for “2013”.
 
 <b>2010</b>—Subsec. (b)(2)(C). Pub. L. 111–309 substituted “2013” for “2011”.
 
@@ -42,7 +44,7 @@ Subsec. (a). Pub. L. 105–34, §1604(f)(1)(C)(ii), amended heading and text of 
 
 #### Effective Date of 1997 Amendment
 
-Section 1604(f)(4) of Pub. L. 105–34 provided that: “The provisions of, and amendments made by, this subsection \[amending this section and provisions set out as a note under section 5701 of Title 26, Internal Revenue Code\] shall take effect immediately after the sections referred to in this subsection \[sections 4921, 9302, 11104, and 11201 of Pub. L. 105–33\] take effect.”
+Pub. L. 105–34, title XVI, §1604(f)(4), Aug. 5, 1997, 111 Stat. 1099, provided that: “The provisions of, and amendments made by, this subsection \[amending this section and provisions set out as a note under section 5701 of Title 26, Internal Revenue Code\] shall take effect immediately after the sections referred to in this subsection \[sections 4921, 9302, 11104, and 11201 of Pub. L. 105–33\] take effect.”
 
 #### Report on Diabetes Grant Programs
 

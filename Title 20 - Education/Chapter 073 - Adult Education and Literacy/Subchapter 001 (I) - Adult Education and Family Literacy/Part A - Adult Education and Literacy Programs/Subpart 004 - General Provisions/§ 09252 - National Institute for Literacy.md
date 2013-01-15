@@ -38,7 +38,7 @@ The purpose of this section is to establish a National Institute for Literacy th
 
 &emsp;In order to provide leadership for the improvement and expansion of the system for delivery of literacy services, the Institute is authorized—
 
-&emsp;&emsp;(A) to establish a national electronic data base of information that disseminates information to the broadest possible audience within the literacy and basic skills field, and that includes—
+&emsp;&emsp;(A) to establish a national electronic data base of information that disseminates information to the broadest possible audiencewithin the literacy and basic skills field, and that includes—
 
 &emsp;&emsp;&emsp;(i) effective practices in the provision of literacy and basic skills instruction, including instruction in phonemic awareness, systematic phonics, fluency, and reading comprehension, and the integration of literacy and basic skills instruction with occupational skills training;
 
@@ -94,7 +94,7 @@ The purpose of this section is to establish a National Institute for Literacy th
 
 #### (A) In general
 
-&emsp;&emsp;There shall be a National Institute for Literacy Advisory Board (in this section referred to as the “Board”), which shall consist of 10 individuals appointed by the President with the advice and consent of the Senate.
+&emsp;&emsp;There shall be a National Institute for Literacy Advisory Board (in this section referred to as the “Board”), which shall consist of 10 individuals appointed by the President.
 
 #### (B) Composition
 
@@ -186,11 +186,11 @@ The Institute shall submit a report biennially to the Committee on Education and
 
 &emsp;(3) any additional minority, or dissenting views submitted by members of the Board.
 
-#### (<i>l</i>) Funding
+#### (l) Funding
 
 Any amounts appropriated to the Secretary, the Secretary of Labor, the Secretary of Health and Human Services, or any other department that participates in the Institute for purposes that the Institute is authorized to perform under this section may be provided to the Institute for such purposes.
 
-(Pub. L. 105–220, title II, §242, Aug. 7, 1998, 112 Stat. 1073; Pub. L. 110–154, §1(c)(2), Dec. 21, 2007, 121 Stat. 1827.)
+(Pub. L. 105–220, title II, §242, Aug. 7, 1998, 112 Stat. 1073; Pub. L. 110–154, §1(c)(2), Dec. 21, 2007, 121 Stat. 1827; Pub. L. 112–166, §2(dd), Aug. 10, 2012, 126 Stat. 1290.)
 
 #### References in Text
 
@@ -212,11 +212,17 @@ Provisions similar to this section were contained in section 1213c of this title
 
 #### Amendments
 
+<b>2012</b>—Subsec. (e)(1)(A). Pub. L. 112–166 struck out “with the advice and consent of the Senate” before period at end.
+
 <b>2007</b>—Subsecs. (a)(3)(A), (c)(1)(D). Pub. L. 110–154 substituted “Eunice Kennedy Shriver National Institute of Child Health and Human Development” for “National Institute of Child Health and Human Development”.
 
 #### Change of Name
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under section 113 of Title 6, Domestic Security.
 
 #### Termination of Advisory Boards
 

@@ -18,7 +18,7 @@
 
 (3) The report under subsection (a) shall also include a statement of the staff hours and estimated cost of work performed on audits, evaluations, investigations, and related work during each of the three fiscal years preceding the fiscal year in which the report is submitted, stated separately for each division of the Government Accountability Office by category as follows:
 
-&emsp;(A) A category for work requested by the chairman of a committee of Congress, the chairman of a subcommittee of such a committee, or any other Member of Congress.
+&emsp;(A) A category for work requested by the chairman of a committee of Congress, thechairman of a subcommittee of such a committee, or any other Member of Congress.
 
 &emsp;(B) A category for work required by law to be performed by the Comptroller General.
 
@@ -58,7 +58,7 @@
 
 (2) A copy of each list shall be sent to each committee of Congress and each member of Congress. On request, the Comptroller General promptly shall provide a copy of a report to a committee or member.
 
-(h) On request of a committee of Congress, the Comptroller General shall explain to and discusswith the committee or committee staff a report the Comptroller General makes that would help the committee—
+(h) On request of a committee of Congress, the Comptroller General shall explain to and discuss with the committee or committee staff a report the Comptroller General makes that would help the committee—
 
 &emsp;(1) evaluate a program or activity of an agency within the jurisdiction of the committee; or
 
@@ -162,7 +162,7 @@ In subsection (b)(2), the words “at any time” are omitted as surplus.
 
 In subsection (c), the word “agency” is substituted for “department or establishment” and “departments and establishments” because of section 701 of the revised title. In clause (1), the words “in any year” are omitted as surplus. In clause (2)(A), the word “audits” is substituted for “examination” for consistency. In clause (2)(B), the words “by an agency” are substituted for “departmental” because of the restatement. The word “officials” is substituted for “officers” for consistency.
 
-In subsection (d), before clause (1), the word “written” is omitted as surplus. In clause (1), the words “Comptroller General, the Commissioner of Internal Revenue, and the Director of the Bureau of Alcohol, Tobacco, and Firearms” are substituted for “General Accounting Office, the Internal Revenue Service, and the Bureau of Alcohol, Tobacco, and Firearms” for consistency. In clauses (2) and (3), the words “or other examination or review” are omitted as surplus.
+In subsection (d), before clause (1), the word “written” is omitted as surplus. In clause (1), the words“Comptroller General, the Commissioner of Internal Revenue, and the Director of the Bureau of Alcohol, Tobacco, and Firearms” are substituted for “General Accounting Office, the Internal Revenue Service, and the Bureau of Alcohol, Tobacco, and Firearms” for consistency. In clauses (2) and (3), the words “or other examination or review” are omitted as surplus.
 
 In subsections (e) and (g), the words “Governmental Affairs . . . of the Senate” are substituted for “Government Operations . . . of the two Houses” in 31:60(last sentence) and “Government Operations of the . . . Senate” in 31:1172 because of Rule 25.1(k) of the Standing Rules of the Senate (S. Doc. 96–1, 96th Cong., 1st Sess.).
 
@@ -260,7 +260,7 @@ Pub. L. 106–303, §6, Oct. 13, 2000, 114 Stat. 1069, provided that:
 
 Annual Reports.—The Comptroller General shall include in each report submitted to Congress under section 719(a) of title 31, United States Code, during the 5-year period beginning on the date of the enactment of this Act \[Oct. 13, 2000\]—
 
-&emsp;“(1) a review of all actions taken pursuant to sections 1 through 3 of this Act \[amending section 732 of this title and enacting provisions set out as notesunder section 732 of this title and sections 5597 and 8336 of Title 5, Government Organization and Employees\] during the period covered by the report, including—
+&emsp;“(1) a review of all actions taken pursuant to sections 1 through 3 of this Act \[amending section 732 of this title and enacting provisions set out as notes under section 732 of this title and sections 5597 and 8336 of Title 5, Government Organization and Employees\] during the period covered by the report, including—
 
 &emsp;&emsp;“(A) the number of officers or employees who separated from service pursuant to section 1 or 2 \[enacting provisions set out as notes under sections 5597 and 8336 of Title 5\], or who were released pursuant to a reduction in force conducted under the amendment made by section 3 \[amending section 732 of this title\], during such period;
 

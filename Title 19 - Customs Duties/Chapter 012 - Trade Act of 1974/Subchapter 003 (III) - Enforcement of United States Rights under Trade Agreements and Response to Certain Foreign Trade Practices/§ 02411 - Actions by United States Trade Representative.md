@@ -8,7 +8,7 @@
 
 &emsp;(B) an act, policy, or practice of a foreign country—
 
-&emsp;&emsp;(i) violates, or is inconsistent with, the provisions of, or otherwise denies benefits to the United States under, any trade agreement, or
+&emsp;&emsp;(i) violates, or is inconsistent with, the provisions of, or otherwise denies benefits tothe United States under, any trade agreement, or
 
 &emsp;&emsp;(ii) is unjustifiable and burdens or restricts United States commerce;
 
@@ -86,7 +86,7 @@ If the Trade Representative determines under section 2414(a)(1) of this title th
 
 &emsp;(ii) a determination to initiate an investigation is made by the Trade Representative under section 2412(b) of this title.
 
-(C) Before the Trade Representative takes any action under this section involving the imposition of fees or other restrictions on the services of a foreign country, the Trade Representativeshall, if the services involved are subject to regulation by any agency of the Federal Government or of any State, consult, as appropriate, with the head of the agency concerned.
+(C) Before the Trade Representative takes any action under this section involving the imposition of fees or other restrictions on the services of a foreign country, the Trade Representative shall, if the services involved are subject to regulation by any agency of the Federal Government or of any State, consult, as appropriate, with the head of the agency concerned.
 
 (3) The actions the Trade Representative is authorized to take under subsection (a) or (b) of this section may be taken against any goods or economic sector—
 
@@ -158,7 +158,7 @@ For purposes of this subchapter—
 
 &emsp;(D) For purposes of determining whether any act, policy, or practice is unreasonable, reciprocal opportunities in the United States for foreign nationals and firms shall be taken into account, to the extent appropriate.
 
-&emsp;(E) The term “export targeting” means any government plan or scheme consisting of acombination of coordinated actions (whether carried out severally or jointly) that are bestowed on a specific enterprise, industry, or group thereof, the effect of which is to assist the enterprise, industry, or group to become more competitive in the export of a class or kind of merchandise.
+&emsp;(E) The term “export targeting” means any government plan or scheme consisting of a combination of coordinated actions (whether carried out severally or jointly) that are bestowed on a specific enterprise, industry, or group thereof, the effect of which is to assist the enterprise, industry, or group to become more competitive in the export of a class or kind of merchandise.
 
 &emsp;(F)(i) For the purposes of subparagraph (B)(i)(II), adequate and effective protection of intellectual property rights includes adequate and effective means under the laws of the foreign country for persons who are not citizens or nationals of such country to secure, exercise, and enforce rights and enjoy commercial benefits relating to patents, trademarks, copyrights and related rights, mask works, trade secrets, and plant breeder's rights.
 
@@ -208,7 +208,7 @@ Subsec. (d)(3)(F). Pub. L. 103–465, §314(c)(2), added subpar. (F).
 
 <b>1988</b>—Pub. L. 100–418 amended section generally, substituting provisions relating to actions by United States Trade Representative for provisions relating to determinations and action by President.
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–573, §304(a), amended subsec. (a) generally, which prior to amendment provided that if the President determines that action by the United States is appropriate (1) to enforce the rights of the United States under any trade agreement; or (2) to respond to any act, policy, or practice of a foreign country or instrumentality that (A) is inconsistent with the provisions of, or otherwise denies benefits to the United States under, any trade agreement, or (B) is unjustifiable, unreasonable, or discriminatory and burdens or restricts United States commerce; the President shall take all appropriate and feasible action within his power to enforce such rights or to obtain the elimination of such act, policy, or practice and that action under this section may be taken on a nondiscriminatory basis or solely against the products or services of the foreign country or instrumentality involved.
+<b>1984</b>—Subsec. (a). Pub. L. 98–573, §304(a), amended subsec. (a) generally, which prior to amendment provided that if the President determines that action by the United States is appropriate (1) to enforce the rights ofthe United States under any trade agreement; or (2) to respond to any act, policy, or practice of a foreign country or instrumentality that (A) is inconsistent with the provisions of, or otherwise denies benefits to the United States under, any trade agreement, or (B) is unjustifiable, unreasonable, or discriminatory and burdens or restricts United States commerce; the President shall take all appropriate and feasible action within his power to enforce such rights or to obtain the elimination of such act, policy, or practice and that action under this section may be taken on a nondiscriminatory basis or solely against the products or services of the foreign country or instrumentality involved.
 
 Subsec. (b)(1). Pub. L. 98–573, §304(b)(1), struck out “and” at end.
 
@@ -226,7 +226,7 @@ Amendment by section 621(a)(9) of Pub. L. 103–465 effective on the date on whi
 
 #### Effective Date of 1988 Amendment
 
-Section 1301(c) of Pub. L. 100–418 provided that: “The amendments made by this section \[enacting sections 2417 to 2419 of this title and amending this section and sections 2412 to 2416 of this title\] shall apply to—
+Pub. L. 100–418, title I, §1301(c), Aug. 23, 1988, 102 Stat. 1176, provided that: “The amendments made by this section \[enacting sections 2417 to 2419 of this title and amending this section and sections 2412 to 2416 of this title\] shall apply to—
 
 &emsp;“(1) petitions filed, and investigations initiated, under section 302 of the Trade Act of 1974 \[19 U.S.C. 2412\] on or after the date of the enactment of this Act \[Aug. 23, 1988\]; and
 
@@ -234,13 +234,13 @@ Section 1301(c) of Pub. L. 100–418 provided that: “The amendments made by th
 
 #### Effective Date
 
-Section 903 of Pub. L. 96–39 provided that: “The amendments made by sections 901 and 902 \[enacting this subchapter and amending sections 1872, 2192, and 2194 of this title\] shall take effect on the date of the enactment of this Act \[July 26, 1979\]. Any petition for review filed with the Special Representative for Trade Negotiations under section 301 of the Trade Act of 1974 (as in effect on the day before such date of enactment) \[former section 2411 of this title\] and pending on such date of enactment shall be treated as an investigation initiated on such date of enactment under section 302(b)(2) of the Trade Act of 1974 (as added by section 901 of this Act) \[section 2412(b)(2) of this title\] and any information developed by, or submitted to, the Special Representative before such date of enactment under the review shall be treated as part of the information developed during such investigation.”
+Pub. L. 96–39, title IX, §903, July 26, 1979, 93 Stat. 300, provided that: “The amendments made by sections 901 and 902 \[enacting this subchapter and amending sections 1872, 2192, and 2194 of this title\] shall take effect on the date of the enactment of this Act \[July 26, 1979\]. Any petition for review filed with the Special Representative for Trade Negotiations under section 301 of the Trade Act of 1974 (as in effect on the day before such date of enactment) \[former section 2411 of this title\] and pending on such date of enactment shall be treated as an investigation initiated on such date of enactment under section 302(b)(2) of the Trade Act of 1974 (as added by section 901 of this Act) \[section 2412(b)(2) of this title\] and any information developed by, or submitted to, the Special Representative before such date of enactment under the review shall be treated as part of the information developed during such investigation.”
 
 #### Ex. Ord. No. 13155. Access to HIV/AIDS Pharmaceuticals and Medical Technologies
 
 Ex. Ord. No. 13155, May 10, 2000, 65 F.R. 30521, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 141 and chapter 1 of title III of the Trade Act of 1974, as amended (19 U.S.C. 2171, 2411–2420), section 307 of the Public Health Service Act (42 U.S.C. 242<i>l</i>), and section 104 of the Foreign Assistance Act of 1961, as amended (22 U.S.C. 2151b), and in accordance with executive branch policy on health-related intellectual property matters to promote access to essential medicines, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 141 and chapter 1 of title III of the Trade Act of 1974, as amended (19 U.S.C. 2171, 2411–2420), section 307 of the Public Health Service Act (42 U.S.C. 242l), and section 104 of the Foreign Assistance Act of 1961, as amended (22 U.S.C. 2151b), and in accordance with executive branch policy on health-related intellectual property matters to promote access to essential medicines, it is hereby ordered as follows:
 
 Section 1. <i>Policy</i>. (a) In administering sections 301–310 of the Trade Act of 1974 \[19 U.S.C. 2411–2420\], the United States shall not seek, through negotiation or otherwise, the revocation or revision of any intellectual property law or policy of a beneficiary sub-Saharan African country, as determined by the President, that regulates HIV/AIDS pharmaceuticals or medical technologies if the law or policy of the country:
 

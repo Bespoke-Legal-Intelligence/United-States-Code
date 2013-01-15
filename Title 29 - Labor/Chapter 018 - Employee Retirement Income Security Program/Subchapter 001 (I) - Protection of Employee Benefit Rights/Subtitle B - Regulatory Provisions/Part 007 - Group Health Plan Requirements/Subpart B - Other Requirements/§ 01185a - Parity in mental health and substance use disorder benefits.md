@@ -20,7 +20,7 @@
 
 #### (C) Rule in case of different limits
 
-&emsp;&emsp;In the case of a plan or coverage that is not described in subparagraph (A) or (B) and that includes no or different aggregate lifetime limits on different categories of medical and surgical benefits, the Secretary shall establish rules under which subparagraph (B) is applied to such plan or coverage with respect to mental health and substance use disorder benefits by substituting for the applicable lifetime limit an average aggregate lifetime limit that is computed taking into account the weighted average of the aggregate lifetime limits applicable to such categories.
+&emsp;&emsp;In the case of a plan or coverage that is not described in subparagraph (A) or (B) andthat includes no or different aggregate lifetime limits on different categories of medical and surgical benefits, the Secretary shall establish rules under which subparagraph (B) is applied to such plan or coverage with respect to mental health and substance use disorder benefits by substituting for the applicable lifetime limit an average aggregate lifetime limit that is computed taking into account the weighted average of the aggregate lifetime limits applicable to such categories.
 
 #### (2) Annual limits
 
@@ -74,7 +74,7 @@
 
 #### (5) Out-of-network providers
 
-&emsp;In the case of a plan or coverage that provides both medical and surgical benefits and mental health or substance use disorder benefits, if the plan or coverage provides coverage for medical or surgical benefits provided by out-of-network providers, the plan or coverage shall provide coverage for mental health or substance use disorder benefits provided by out-of-network providers in a manner that is consistent with the requirements of this section.
+&emsp;In the case of a plan or coverage that provides both medical and surgical benefits and mental health or substance use disorder benefits, if the plan or coverage provides coverage for medical or surgical benefits provided byout-of-network providers, the plan or coverage shall provide coverage for mental health or substance use disorder benefits provided by out-of-network providers in a manner that is consistent with the requirements of this section.
 
 #### (b) Construction
 
@@ -102,7 +102,7 @@ Nothing in this section shall be construed—
 
 #### (i) Application of aggregation rule for employers
 
-&emsp;&emsp;&emsp;Rules similar to the rules under subsections (b), (c), (m), and (<i>o</i>) of section 414 of title 26 shall apply for purposes of treating persons as a single employer.
+&emsp;&emsp;&emsp;Rules similar to the rules under subsections (b), (c), (m), and (o) of section 414 of title 26 shall apply for purposes of treating persons as a single employer.
 
 #### (ii) Employers not in existence in preceding year
 
@@ -144,7 +144,7 @@ Nothing in this section shall be construed—
 
 &emsp;&emsp;&emsp;A notification to the Secretary under clause (i) shall include—
 
-&emsp;&emsp;&emsp;&emsp;(I) a description of the number of covered lives under the plan (or coverage) involved at the time of the notification, and as applicable, at the time of any prior election of the cost-exemption under this paragraph by such plan (or coverage);
+&emsp;&emsp;&emsp;&emsp;(I) a description of the number of covered lives under the plan (or coverage)involved at the time of the notification, and as applicable, at the time of any prior election of the cost-exemption under this paragraph by such plan (or coverage);
 
 &emsp;&emsp;&emsp;&emsp;(II) for both the plan year upon which a cost exemption is sought and the year prior, a description of the actual total costs of coverage with respect to medical and surgical benefits and mental health and substance use disorder benefits under the plan; and
 
@@ -192,7 +192,7 @@ For purposes of this section—
 
 #### (f) Secretary report
 
-The Secretary shall, by January 1, 2012, and every two years thereafter, submit to the appropriate committees of Congress a report on compliance of group health plans (and health insurance coverage offered in connection with suchplans) with the requirements of this section. Such report shall include the results of any surveys or audits on compliance of group health plans (and health insurance coverage offered in connection with such plans) with such requirements and an analysis of the reasons for any failures to comply.
+The Secretary shall, by January 1, 2012, and every two years thereafter, submit to the appropriate committees of Congress a report on compliance of group health plans (and health insurance coverage offered in connection with such plans) with the requirements of this section. Such report shall include the results of any surveys or audits on compliance of group health plans (and health insurance coverage offered in connection with such plans) with such requirements and an analysis of the reasons for any failures to comply.
 
 #### (g) Notice and assistance
 
@@ -256,7 +256,7 @@ Amendment by Pub. L. 110–343 applicable with respect to group health plans for
 
 #### Effective Date
 
-Section 702(c) of Pub. L. 104–204 provided that: “The amendments made by this section \[enacting this section\] shall apply with respect to group health plans for plan years beginning on or after January 1, 1998.”
+Pub. L. 104–204, title VII, §702(c), Sept. 26, 1996, 110 Stat. 2946, provided that: “The amendments made by this section \[enacting this section\] shall apply with respect to group health plans for plan years beginning on or after January 1, 1998.”
 
 <i><sup>1</sup></i><i> So in original. The comma probably should be a period.</i>
 

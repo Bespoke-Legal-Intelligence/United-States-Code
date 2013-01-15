@@ -26,7 +26,7 @@ In this section:
 
 #### (5) Low-enriched uranium
 
-&emsp;The term “low-enriched uranium” means a uranium product in any form, including uranium hexafluoride (UF<sub>6</sub>) and uranium oxide\(UO<sub>2</sub>), in which the uranium contains less than 20 percent uranium-235, including natural uranium, without regard to whether the uranium is incorporated into fuel rods or complete fuel assemblies.
+&emsp;The term “low-enriched uranium” means a uranium product in any form, including uranium hexafluoride (UF<sub>6</sub>) and uranium oxide (UO<sub>2</sub>), in which the uranium contains less than 20 percent uranium-235, including natural uranium, without regard to whether the uranium is incorporated into fuel rods or complete fuel assemblies.
 
 #### (6) Russian HEU Agreement
 
@@ -56,7 +56,7 @@ It is the policy of the United States to support the continued downblending of h
 
 #### (A) In general
 
-&emsp;&emsp;After the completion of the Russian HEU Agreement, the importation into the United States of low-enriched uranium, including low-enriched uranium obtained under contracts for separative work units, that is produced in the Russian Federation, whether or not such low-enriched uranium is derived from highly enriched uranium of weapons origin, may not exceed—
+&emsp;&emsp;After the completion of the Russian HEU Agreement, the importation into the United States of low-enriched uranium, including low-enriched uranium obtained under contracts for separative work units, that is produced in the Russian Federation, whether ornot such low-enriched uranium is derived from highly enriched uranium of weapons origin, may not exceed—
 
 &emsp;&emsp;&emsp;(i) in calendar year 2014, 485,279 kilograms;
 
@@ -104,7 +104,7 @@ It is the policy of the United States to support the continued downblending of h
 
 &emsp;&emsp;&emsp;&emsp;(II) the Government of the Russian Federation has made reasonable efforts to avoid and mitigate the effects of the failure of the completion of the Russian HEU Agreement; and
 
-&emsp;&emsp;&emsp;(ii) the Secretary of Energy and the Secretary of State jointly notify Congress of, and publish in the Federal Register, thedetermination under clause (i) and the reasons for the determination.
+&emsp;&emsp;&emsp;(ii) the Secretary of Energy and the Secretary of State jointly notify Congress of, and publish in the Federal Register, the determination under clause (i) and the reasons for the determination.
 
 #### (B) Notice and wait
 

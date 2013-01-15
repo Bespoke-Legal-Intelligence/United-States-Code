@@ -58,7 +58,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### 1967 Act
 
-In the codification of 5 U.S.C. 5547, the words “premium pay under this subchapter” were substituted for “premium compensation provided by this Act” appearing in the source statute—section 603 of the Federal Employees Pay Act of 1945, as amended (former 5 U.S.C. 943). This amendment of 5 U.S.C. 5547 is made for clarity and precision of reference and in recognition that the source statutes for certain sections of subchapter V of chapter 55 of title 5 include statutes that were not a part of the Federal Employees Pay Act of 1949. Specifically, 5 U.S.C. 5544(a) is based in part on section 23 (2d proviso) of the act of March 28, 1934, as amended by 76Stat. 360; and 5 U.S.C. 5545(d) is based on section 804 of the Classification Act of 1949, as added by Public Law 89–512, 80 Stat. 318. Also, 5 U.S.C. 5541(2)(xi) in effect excludes employees subject to 5 U.S.C. 5544 from the operation of 5 U.S.C. 5547.
+In the codification of 5 U.S.C. 5547, the words “premium pay under this subchapter” were substituted for “premium compensation provided by this Act” appearing in the source statute—section 603 of the Federal Employees Pay Act of 1945, as amended (former 5 U.S.C. 943). This amendment of 5 U.S.C. 5547 is made for clarity and precision of reference and in recognition that the source statutes for certain sections of subchapter V of chapter 55 of title 5 include statutes that were not a part of the Federal Employees Pay Act of 1949. Specifically, 5 U.S.C. 5544(a) is based in part on section 23 (2d proviso) of the act of March 28, 1934, as amended by 76 Stat. 360; and 5 U.S.C. 5545(d) is based on section 804 of the Classification Act of 1949, as added by Public Law 89–512, 80 Stat. 318. Also, 5 U.S.C. 5541(2)(xi) in effect excludes employees subject to 5 U.S.C. 5544 from the operation of 5 U.S.C. 5547.
 
 #### References in Text
 
@@ -126,7 +126,7 @@ Amendment by Pub. L. 97–276 effective at 5 o'clock ante meridian eastern dayli
 
 #### Short Title of 1988 Amendment
 
-Section 1 of Pub. L. 100–523 provided: “That this Act \[amending this section\] may be cited as the ‘Forest Wildfire Emergency Pay Equity Act of 1988’.”
+Pub. L. 100–523, §1, Oct. 24, 1988, 102 Stat. 2605, provided: “That this Act \[amending this section\] may be cited as the ‘Forest Wildfire Emergency Pay Equity Act of 1988’.”
 
 #### Premium Pay for Protective Services of United States Secret Service
 

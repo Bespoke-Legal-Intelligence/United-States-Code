@@ -30,7 +30,7 @@ The Secretary may not make a grant under subsection (a) unless the applicant for
 
 #### (c) Case plan with respect to foster care
 
-The Secretary may not make a grant under subsection (a) unless the applicant for the grant agrees that, if the applicant expends the grant to carry out any program of providing care to infants and young children in foster homes or in other nonmedical residential settings away from their parents, the applicant will ensure that—
+The Secretary may not make a grant under subsection (a) unless the applicant for the grant agrees that, if the applicant expends the grant to carry out any program of providing care to infants and young children in foster homes or inother nonmedical residential settings away from their parents, the applicant will ensure that—
 
 &emsp;(1) a case plan of the type described in paragraph (1) of section 675 of this title is developed for each such infant and young child (to the extent that such infant and young child is not otherwise covered by such a plan); and
 
@@ -66,7 +66,7 @@ The Secretary may not make a grant under subsection (a) unless—
 
 #### (f) Technical assistance to grantees
 
-The Secretary may, without charge to any grantee under subsection (a), provide technicalassistance (including training) with respect to the planning, development, and operation of projects described in such subsection. The Secretary may provide such technical assistance directly, through contracts, or through grants.
+The Secretary may, without charge to any grantee under subsection (a), provide technical assistance (including training) with respect to the planning, development, and operation of projects described in such subsection. The Secretary may provide such technical assistance directly, through contracts, or through grants.
 
 #### (g) Technical assistance with respect to process of applying for grant
 

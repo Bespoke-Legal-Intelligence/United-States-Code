@@ -286,7 +286,7 @@ Amendment by Pub. L. 100–227 effective Dec. 1, 1987, see section 107 of Pub. L
 
 Amendment by Pub. L. 99–576 effective Dec. 1, 1986, but not effective unless benefit amounts payable under section 401 et seq. of Title 42, The Public Health and Welfare, are increased effective Dec. 1, 1986, as a result of a determination under section 415(i) of Title 42, see section 107 of Pub. L. 99–576, set out as a note under section 1114 of this title.
 
-Section 703(c) of Pub. L. 99–576 provided that: “The amendments made by this section \[amending this section and sections 524 and 525 \[now 1524 and 1525\] of this title and amending provisions set out as a note under section 1163 of this title\] shall take effect as if included in the Veterans’ Benefits Improvement Act of 1984 (Public Law 98–543).”
+Pub. L. 99–576, title VII, §703(c), Oct. 28, 1986, 100 Stat. 3303, provided that: “The amendments made by this section \[amending this section and sections 524 and 525 \[now 1524 and 1525\] of this title and amending provisions set out as a note under section 1163 of this title\] shall take effect as if included in the Veterans’ Benefits Improvement Act of 1984 (Public Law 98–543).”
 
 Amendment by Pub. L. 99–238 effective Dec. 1, 1985, see section 107 of Pub. L. 99–238, set out as a note under section 1114 of this title.
 
@@ -338,7 +338,7 @@ Amendment by Pub. L. 92–197 effective Jan. 1, 1972, see section 10 of Pub. L. 
 
 #### Effective Date of 1970 Amendment
 
-Section 4 of Pub. L. 91–262 provided that: “The amendments made by sections 2 and 3 of this Act \[amending this section and section 414 \[now 1314\] of this title\] shall become effective on the first day of the second calendar month following the month in which this Act is enacted \[May 1970\].”
+Pub. L. 91–262, §4, May 21, 1970, 84 Stat. 256, provided that: “The amendments made by sections 2 and 3 of this Act \[amending this section and section 414 \[now 1314\] of this title\] shall become effective on the first day of the second calendar month following the month in which this Act is enacted \[May 1970\].”
 
 #### Effective Date of 1966 Amendment
 
@@ -346,11 +346,11 @@ Amendment by Pub. L. 89–730 effective first day of second calendar month follo
 
 #### Effective Date of 1963 Amendment
 
-Amendment by Pub. L. 88–21 effective first day of second calendar month beginning after May 15, 1963, see section 5 of Pub. L. 88–21, set out as a note under section 1311 of this title.
+Amendment by Pub. L. 88–21 effective first day of second calendar month beginning after May 15, 1963, seesection 5 of Pub. L. 88–21, set out as a note under section 1311 of this title.
 
 #### Repeal
 
-Section 405(f) of Pub. L. 97–253, cited as a credit to this section, was repealed by Pub. L. 97–306, §§107, 108, Oct. 14, 1982, 96 Stat. 1431, 1432, eff. Oct. 1, 1982.
+Pub. L. 97–253, title IV, §405(f), Sept. 8, 1982, 96 Stat. 804, cited as a credit to this section, was repealed by Pub. L. 97–306, §§107, 108, Oct. 14, 1982, 96 Stat. 1431, 1432, eff. Oct. 1, 1982.
 
 #### Disability Compensation and Dependency and Indemnity Compensation Rate Increases
 

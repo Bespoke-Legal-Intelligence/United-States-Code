@@ -40,7 +40,7 @@ Regulations.—The Secretary of Defense shall prescribe regulations governing th
 
 &emsp;(4) Procedures for submission to, and approval by, the Secretary of Defense of revised baseline descriptions.
 
-(Added Pub. L. 99–500, §101(c) \[title X, §904(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–133, and Pub. L. 99–591, §101(c) \[title X, §904(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–133; Pub. L. 99–661, div. A, title IX, formerly title IV, §904(a)(1), Nov. 14, 1986, 100 Stat. 3912, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–26, §7(b)(6), Apr. 21, 1987, 101 Stat. 280; Pub. L. 100–180, div. A, title VIII, §803(a), Dec. 4, 1987, 101 Stat. 1125; Pub. L. 100–370, §1(i)(1), July 19, 1988, 102 Stat. 848; Pub. L. 100–456, div. A, title XII, §1233(<i>l</i>)(4), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 101–189, div. A, title VIII, §811(b), Nov. 29, 1989, 103 Stat. 1493; Pub. L. 101–510, div. A, title XII, §1207(b), title XIV, §1484(k)(11), Nov. 5, 1990, 104 Stat. 1665, 1719; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–355, title III, §3005(a), Oct. 13, 1994, 108 Stat. 3330; Pub. L. 107–107, div. A, title VIII, §821(d), title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1182, 1225; Pub. L. 109–163, div. A, title VIII, §802(d)(1), Jan. 6, 2006, 119 Stat. 3369; Pub. L. 109–364, div. A, title VIII, §806, Oct. 17, 2006, 120 Stat. 2315; Pub. L. 110–417, \[div. A\], title VIII, §811(d), Oct. 14, 2008, 122 Stat. 4524.)
+(Added Pub. L. 99–500, §101(c) \[title X, §904(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–133, and Pub. L. 99–591, §101(c) \[title X, §904(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–133; Pub. L. 99–661, div. A, title IX, formerly title IV, §904(a)(1), Nov. 14, 1986, 100 Stat. 3912, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–26, §7(b)(6), Apr. 21, 1987, 101 Stat. 280; Pub. L. 100–180, div. A, title VIII, §803(a), Dec. 4, 1987, 101 Stat. 1125; Pub. L. 100–370, §1(i)(1), July 19, 1988, 102 Stat. 848; Pub. L. 100–456, div. A, title XII, §1233(l)(4), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 101–189, div. A, title VIII, §811(b), Nov. 29, 1989, 103 Stat. 1493; Pub. L. 101–510, div. A, title XII, §1207(b), title XIV, §1484(k)(11), Nov. 5, 1990, 104 Stat. 1665, 1719; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–355, title III, §3005(a), Oct. 13, 1994, 108 Stat. 3330; Pub. L. 107–107, div. A, title VIII, §821(d), title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1182, 1225; Pub. L. 109–163, div. A, title VIII, §802(d)(1), Jan. 6, 2006, 119 Stat. 3369; Pub. L. 109–364, div. A, title VIII, §806, Oct. 17, 2006, 120 Stat. 2315; Pub. L. 110–417, \[div. A\], title VIII, §811(d), Oct. 14, 2008, 122 Stat. 4524.)
 
 #### Historical and Revision Notes
 
@@ -116,17 +116,17 @@ Amendment by Pub. L. 109–163 effective on Jan. 6, 2006, and applicable with re
 
 #### Effective Date of 1990 Amendment
 
-Section 1207(b) of Pub. L. 101–510 provided that the amendment made by that section is effective Oct. 1, 1991.
+Pub. L. 101–510, div. A, title XII, §1207(b), Nov. 5, 1990, 104 Stat. 1665, provided that the amendment made by that section is effective Oct. 1, 1991.
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–456 applicable as if included in the enactment of Pub. L. 100–180, see section 1233(<i>l</i>)(5) of Pub. L. 100–456 set out as a note under section 2366 of this title.
+Amendment by Pub. L. 100–456 applicable as if included in the enactment of Pub. L. 100–180, see section 1233(l)(5) of Pub. L. 100–456 set out as a note under section 2366 of this title.
 
 #### Effective Date
 
-Section 101(c) \[title IX, §904(b)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 904(b) of title IX, formerly title IV, of Pub. L. 99–661, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “Section 2435 of title 10, United States Code (as added by subsection (a)(1)), shall apply to major defense acquisition programs that enter full-scale engineering development or full-rate production after the date of the enactment of this Act \[Oct. 18, 1986\].”
+Pub. L. 99–500, §101(c) \[title X, §904(b)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–134, and Pub. L. 99–591, §101(c) \[title X, §904(b)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–134, and Pub. L. 99–661, div. A, title IX, formerly title IV, §904(b), Nov. 14, 1986, 100 Stat. 3914, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “Section 2435 of title 10, United States Code (as added by subsection (a)(1)), shall apply to major defense acquisition programs that enter full-scale engineering development or full-rate production after the date of the enactment of this Act \[Oct. 18, 1986\].”
 
 #### Review of Acquisition Program Cycle
 
-Section 5002(a) of Pub. L. 103–355 provided that: “The Secretary of Defense shall review the regulations of the Department of Defense to ensure that acquisition program cycle procedures are focused on achieving the goals that are consistent with the program baseline description established pursuant to section 2435 of title 10, United States Code.”
+Pub. L. 103–355, title V, §5002(a), Oct. 13, 1994, 108 Stat. 3350, provided that: “The Secretary of Defense shall review the regulations of the Department of Defense to ensure that acquisition program cycle procedures are focused on achieving the goals that are consistent with the program baseline description established pursuant to section 2435 of title 10, United States Code.”
 

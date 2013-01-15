@@ -44,7 +44,7 @@
 
 &emsp;(9) provide necessary services for the Assembly, the Council, and the committees of the Conference;
 
-&emsp;(10) organize and direct studies ordered by the Assembly or the Council, to contract for the performance of such studies with any public or private persons, firm, association, corporation, or institution under title III of the Federal Property and Administrative Services Act of 1949, as amended (41 U.S.C. 251–260), and to use from time to time, as appropriate, experts and consultants who may be employed in accordance with section 3109 of this title at rates not in excess of the maximum rate of pay for grade GS–15 as provided in section 5332 of this title;
+&emsp;(10) organize and direct studies ordered by the Assembly or the Council, to contract for the performance of such studies with any public or private persons, firm, association, corporation, or institution under title III of the Federal Property and Administrative ServicesAct of 1949, as amended (41 U.S.C. 251–260), and to use from time to time, as appropriate, experts and consultants who may be employed in accordance with section 3109 of this title at rates not in excess of the maximum rate of pay for grade GS–15 as provided in section 5332 of this title;
 
 &emsp;(11) utilize, with their consent, the services and facilities of Federal agencies and of State and private agencies and instrumentalities with or without reimbursement;
 
@@ -86,7 +86,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (c)(10), is act June 30, 1949, ch. 288, 63 Stat. 377. Title III of the Act was classified generally to subchapter IV (§251 et seq.) of chapter4 of former Title 41, Public Contracts, and was substantially repealed and restated in division C (§3101 et seq.) of subtitle I of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For complete classification of this Act to the Code, see Short Title of 1949 Act note set out under section 101 of Title 41 and Tables. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (c)(10), is act June 30, 1949, ch. 288, 63 Stat. 377. Title III of the Act was classified generally to subchapter IV (§251 et seq.) of chapter 4 of former Title 41, Public Contracts, and was substantially repealed and restated in division C (§3101 et seq.) of subtitle I of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For complete classification of this Act to the Code, see Short Title of 1949 Act note set out under section 101 of Title 41 and Tables. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
 
 #### Amendments
 

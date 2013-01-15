@@ -38,7 +38,7 @@ The following transactions by the United States Government are prohibited:
 
 &emsp;&emsp;(C) Selling, leasing, loaning, granting, or otherwise providing any munitions item to any recipient which is not the government of or a person in a country described in subsection (d) of this section if the United States person has reason to know that the munitions item will be made available to any country described in subsection (d) of this section.
 
-&emsp;&emsp;(D) Taking any other action which would facilitate the acquisition, directly or indirectly, of any munitions item by the government of any country described in subsection (d) of this section, or any person acting on behalf of that government, if the United States person has reason to know that thataction will facilitate the acquisition of that item by such a government or person.
+&emsp;&emsp;(D) Taking any other action which would facilitate the acquisition, directly or indirectly, of any munitions item by the government of any country described in subsection (d) of this section, or any person acting on behalf of that government, if the United States person has reason to know that that action will facilitate the acquisition of that item by such a government or person.
 
 #### (2) Liability for actions of foreign subsidiaries, etc.
 
@@ -46,7 +46,7 @@ The following transactions by the United States Government are prohibited:
 
 #### (3) Applicability to actions outside the United States
 
-&emsp;Paragraph (1) applies with respect to actions described in that paragraph which are taken either within or outside the United States by a United States person described in subsection (<i>l</i>)(3)(A) or (B) of this section. To the extent provided in regulations issued under subsection (<i>l</i>)(3)(D) of this section, paragraph (1) applies with respect to actions described in that paragraph which are taken outside the United States by a person designated as a United States person in those regulations.
+&emsp;Paragraph (1) applies with respect to actions described in that paragraph which are taken either within or outside the United States by a United States person described in subsection (l)(3)(A) or (B) of this section. To the extent provided in regulations issued under subsection (l)(3)(D) of this section, paragraph (1) applies with respect to actions described in that paragraph which are taken outside the United States by a person designated as a United States person in those regulations.
 
 #### (c) Transfers to governments and persons covered
 
@@ -58,7 +58,7 @@ This section applies with respect to—
 
 #### (d) Countries covered by prohibition
 
-The prohibitions contained in this section apply with respect to a country if the Secretary of State determines that the government of that country has repeatedly provided support for acts of international terrorism. For purposes of this subsection, such acts shall include all activities that the Secretary determines willfully aid or abet the international proliferation of nuclear explosive devices to individuals or groups, willfully aid or abet an individual or groups in acquiring unsafeguarded special nuclear material, or willfully aid or abet the efforts of an individual or group to use, develop, produce, stockpile, or otherwise acquire chemical, biological, or radiological weapons.
+The prohibitions contained in this section apply with respect to a country if the Secretary of State determines that the government of thatcountry has repeatedly provided support for acts of international terrorism. For purposes of this subsection, such acts shall include all activities that the Secretary determines willfully aid or abet the international proliferation of nuclear explosive devices to individuals or groups, willfully aid or abet an individual or groups in acquiring unsafeguarded special nuclear material, or willfully aid or abet the efforts of an individual or group to use, develop, produce, stockpile, or otherwise acquire chemical, biological, or radiological weapons.
 
 #### (e) Publication of determinations
 
@@ -122,7 +122,7 @@ The prohibitions contained in this section do not apply with respect to any tran
 
 #### (2) Section 614(a) waiver authority
 
-&emsp;If the authority of section 614(a) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2364(a)\] is used to permit a transaction under that Act \[22 U.S.C. 2151 et seq.\] or this chapter which is otherwise prohibited by this section, the written policy justification required by that section shall include the information specified in subsection (g)(2)(B) of this section.
+&emsp;If the authority of section 614(a) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2364(a)\] is used to permit a transaction under that Act \[22 U.S.C. 2151 et seq.\] or this chapter which isotherwise prohibited by this section, the written policy justification required by that section shall include the information specified in subsection (g)(2)(B) of this section.
 
 #### (j) Criminal penalty
 
@@ -132,7 +132,7 @@ Any person who willfully violates this section shall be fined for each violation
 
 In the enforcement of this section, the President is authorized to exercise the same powers concerning violations and enforcement which are conferred upon departments, agencies, and officials by sections 11(c), 11(e), 11(g), and 12(a) of the Export Administration Act of 1979 \[50 U.S.C. App. 2410(c), (e), (g), 2411(a)\] (subject to the same terms and conditions as are applicable to such powers under that Act \[50 U.S.C. App. 2401 et seq.\]), except that section 11(c)(2)(B) of such Act shall not apply, and instead, as prescribed in regulations issued under this section, the Secretary of State may assess civil penalties for violations of this chapter and regulations prescribed thereunder and further may commence a civil action to recover such civil penalties, and except further that, notwithstanding section 11(c) of that Act, the civil penalty for each violation of this section may not exceed $500,000.
 
-#### (<i>l</i>) Definitions
+#### (l) Definitions
 
 As used in this section—
 
@@ -164,7 +164,7 @@ As used in this section—
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(1), (2), (i)(1), and (k), was in the original “this Act”, and this chapter, referred to in subsec. (i)(2), was in the original “the Arms Export Control Act”, both of which mean Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, as amended, which isclassified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+This chapter, referred to in subsecs. (a)(1), (2), (i)(1), and (k), was in the original “this Act”, and this chapter, referred to in subsec. (i)(2), was in the original “the Arms Export Control Act”, both of which mean Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 The Foreign Assistance Act of 1961, referred to in subsecs. (a)(1), (2) and (i)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
@@ -186,7 +186,7 @@ The Export Administration Act of 1979, referred to in subsec. (k), is Pub. L. 96
 
 <b>1994</b>—Subsec. (d). Pub. L. 103–236, §822(a)(2)(A), inserted at end “For purposes of this subsection, such acts shall include all activities that the Secretary determines willfully aid or abet the international proliferation of nuclear explosive devices to individuals or groups or willfully aid or abet an individual or groups in acquiring unsafeguarded special nuclear material.”
 
-Subsec. (<i>l</i>). Pub. L. 103–236, §822(a)(2)(B), amended subsec. (<i>l</i>) by striking “and” after the semicolon in par. (2), substituting a semicolon for the period at the end of par. (3), and adding pars. (4) and (5).
+Subsec. (l). Pub. L. 103–236, §822(a)(2)(B), amended subsec. (l) by striking “and” after the semicolon in par. (2), substituting a semicolon for the period at the end of par. (3), and adding pars. (4) and (5).
 
 <b>1991</b>—Subsec. (f). Pub. L. 102–138, §321, designated existing provisions as par. (1), redesignated former par. (1) as subpar. (A) and former subpars. (A) to (C) as cls. (i) to (iii), respectively, redesignated former par. (2) as subpar. (B) and former subpars. (A) and (B) as cls. (i) and (ii), respectively, and added par. (2). So much of Pub. L. 102–138, §321(1), as directed that subpar. (C) of former par. (2) be redesignated cl. (iii) of par. (1)(B), could not be executed because no such subpar. (C) had been enacted.
 

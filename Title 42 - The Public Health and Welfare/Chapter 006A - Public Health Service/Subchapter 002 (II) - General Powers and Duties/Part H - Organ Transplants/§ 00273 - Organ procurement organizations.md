@@ -146,15 +146,15 @@ Subsec. (b)(2)(E). Pub. L. 100–607, §402(c)(1)(C), substituted “organs equi
 
 Subsec. (b)(2)(K). Pub. L. 100–607, §402(c)(1)(D), added subpar. (K).
 
-Subsec. (c). Pub. L. 100–607, §402(d), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “For grants under subsection (a) of this section there are authorized to be appropriated $5,000,000 for fiscal year 1985, $8,000,000 for fiscal year 1986, and $12,000,000 for fiscal year 1987.”
+Subsec. (c). Pub. L. 100–607, §402(d), amended subsec. (c) generally. Prior to amendment, subsec. (c) read asfollows: “For grants under subsection (a) of this section there are authorized to be appropriated $5,000,000 for fiscal year 1985, $8,000,000 for fiscal year 1986, and $12,000,000 for fiscal year 1987.”
 
 #### Effective Date of 1990 Amendment
 
-Section 207 of title II of Pub. L. 101–616 provided that: “Except as otherwise provided in this title, the amendments made by this title \[enacting sections 274f and 274g of this title, amending this section and sections 274 and 274b to 274d of this title, and repealing provisions set out as a note below\] shall become effective on October 1, 1990, or on the date of the enactment of this Act \[Nov. 16, 1990\], whichever occurs later.”
+Pub. L. 101–616, title II, §207, Nov. 16, 1990, 104 Stat. 3286, provided that: “Except as otherwise provided in this title, the amendments made by this title \[enacting sections 274f and 274g of this title, amending this section and sections 274 and 274b to 274d of this title, and repealing provisions set out as a note below\] shall become effective on October 1, 1990, or on the date of the enactment of this Act \[Nov. 16, 1990\], whichever occurs later.”
 
 #### Effective Date of 1988 Amendment
 
-Section 402(c)(3) of Pub. L. 100–607, as amended by Pub. L. 101–274, Apr. 23, 1990, 104 Stat. 139, which provided that the amendment made by section 402(c)(1)(A) of Pub. L. 100–607, amending this section, was not to apply to an organ procurement organization designated under section 1320b–8(b) of this title until Jan. 1, 1992, was repealed by Pub. L. 101–616, title II, §201(c)(2), Nov. 16, 1990, 104 Stat. 3283.
+Pub. L. 100–607, title IV, §402(c)(3), Nov. 4, 1988, 102 Stat. 3115, as amended by Pub. L. 101–274, Apr. 23, 1990, 104 Stat. 139, which provided that the amendment made by section 402(c)(1)(A) of Pub. L. 100–607, amending this section, was not to apply to an organ procurement organization designated under section 1320b–8(b) of this title until Jan. 1, 1992, was repealed by Pub. L. 101–616, title II, §201(c)(2), Nov. 16, 1990, 104 Stat. 3283.
 
 #### Short Title
 
@@ -162,7 +162,7 @@ For short title of Pub. L. 98–507, which enacted this part as the “National 
 
 #### Severability
 
-Section 301 of Pub. L. 101–616 provided that: “If any provision of this Act \[enacting sections 274f, 274g, 274k, and 274<i>l</i> of this title, amending this section and sections 274 to 274d of this title, enacting provisions set out as notes under this section and sections 274 and 274k of this title, and repealing provisions set out as a note above\], amendment made by this Act, or application of the provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this Act, the amendments made by this Act, and the application of the provisions or amendments to any person or circumstance shall not be affected.”
+Pub. L. 101–616, title III, §301, Nov. 16, 1990, 104 Stat. 3286, provided that: “If any provision of this Act \[enacting sections 274f, 274g, 274k, and 274l of this title, amending this section and sections 274 to 274d of this title, enacting provisions set out as notes under this section and sections 274 and 274k of this title, and repealing provisions set out as a note above\], amendment made by this Act, or application of the provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this Act, the amendments made by this Act, and the application of the provisions or amendments to any person or circumstance shall not be affected.”
 
 #### Certification of Organ Procurement Organizations
 
@@ -222,7 +222,7 @@ Pub. L. 98–507, title I, §§101–105, Oct. 19, 1984, 98 Stat. 2339–2342, d
 
 #### Bone Marrow Registry Demonstration and Study
 
-Section 401 of Pub. L. 98–507 directed Secretary of Health and Human Services to hold a conference on the feasibility of establishing and the effectiveness of a national registry of voluntary bone marrow donors not later than 9 months after Oct. 19, 1984, and if the conference found that it was feasible to establish a national registry of voluntary donors of bone marrow and that such a registry was likely to be effective in matching donors with recipients, the Secretary was to establish a registry of voluntary donors of bone marrow not later than six months after the completion of the conference, and further directed the Secretary, acting through the Assistant Secretary for Health, to study the establishment and implementation of the registry to identify the issues presented by the establishment of such a registry, to evaluate participation of bone marrow donors, to assess the implementation of the informed consent and confidentiality requirements, and to determine if the establishment of a permanent bone marrow registry was needed and appropriate, and to report the results of the study to Congress not later than two years after the date the registry was established.
+Pub. L. 98–507, title IV, §401, Oct. 19, 1984, 98 Stat. 3268, directed Secretary of Health and Human Services to hold a conference on the feasibility of establishing and the effectiveness of a national registry of voluntary bone marrow donors not later than 9 months after Oct. 19, 1984, and if the conference found that it was feasible to establish a national registry of voluntary donors of bone marrow and that such a registry was likely to be effective in matching donors with recipients, the Secretary was to establish a registry of voluntary donors of bone marrow not later than six months after the completion of the conference, and further directed the Secretary, acting through the Assistant Secretary for Health, to study the establishment and implementation of the registry to identify the issues presented by the establishment of such a registry, to evaluate participation of bone marrow donors, to assess the implementation of the informed consent and confidentiality requirements, and to determine if the establishment of a permanent bone marrow registry was needed and appropriate, and to report the results of the study to Congress not later than two years after the date the registry was established.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

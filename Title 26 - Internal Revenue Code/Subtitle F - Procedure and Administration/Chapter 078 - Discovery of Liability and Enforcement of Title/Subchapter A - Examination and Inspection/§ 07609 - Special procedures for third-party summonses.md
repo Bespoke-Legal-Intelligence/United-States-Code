@@ -8,7 +8,7 @@
 
 #### (2) Sufficiency of notice
 
-&emsp;Such notice shall be sufficient if, on or before such third day, such notice is served inthe manner provided in section 7603 (relating to service of summons) upon the person entitled to notice, or is mailed by certified or registered mail to the last known address of such person, or, in the absence of a last known address, is left with the person summoned. If such notice is mailed, it shall be sufficient if mailed to the last known address of the person entitled to notice or, in the case of notice to the Secretary under section 6903 of the existence of a fiduciary relationship, to the last known address of the fiduciary of such person, even if such person or fiduciary is then deceased, under a legal disability, or no longer in existence.
+&emsp;Such notice shall be sufficient if, on or before such third day, such notice is served in the manner provided in section 7603 (relating to service of summons) upon the person entitled to notice, or is mailed by certified or registered mail to the last known address of such person, or, in the absence of a last known address, is left with the person summoned. If such notice is mailed, it shall be sufficient if mailed to the last known address of the person entitled to notice or, in the case of notice to the Secretary under section 6903 of the existence of a fiduciary relationship, to the last known address of the fiduciary of such person, even if such person or fiduciary is then deceased, under a legal disability, or no longer in existence.
 
 #### (3) Nature of summons
 
@@ -48,7 +48,7 @@
 
 &emsp;&emsp;(B) issued to determine whether or not records of the business transactions or affairs of an identified person have been made or kept;
 
-&emsp;&emsp;(C) issued solely to determine the identity of any person having a numbered account (or similar arrangement) with a bank or other institution described in section 7603(b)(2)(A);
+&emsp;&emsp;(C) issued solely to determine the identity of any person having a numbered account (orsimilar arrangement) with a bank or other institution described in section 7603(b)(2)(A);
 
 &emsp;&emsp;(D) issued in aid of the collection of—
 
@@ -80,7 +80,7 @@ No examination of any records required to be produced under a summons as to whic
 
 #### (1) Subsection (b) action
 
-&emsp;If any person takes any action as provided in subsection (b) and such person is the person with respect to whose liability the summons is issued (or is the agent, nominee, or other person acting under the direction or control of such person), then the running of any period of limitations under section 6501 (relating to the assessment and collection of tax) or under section 6531 (relating to criminal prosecutions) with respect to such person shall be suspended for the period during which a proceeding, andappeals therein, with respect to the enforcement of such summons is pending.
+&emsp;If any person takes any action as provided in subsection (b) and such person is the person with respect to whose liability the summons is issued (or is the agent, nominee, or other person acting under the direction or control of such person), then the running of any period of limitations under section 6501 (relating to the assessment and collection of tax) or under section 6531 (relating to criminal prosecutions) with respect to such person shall be suspended for the period during which a proceeding, and appeals therein, with respect to the enforcement of such summons is pending.
 
 #### (2) Suspension after 6 months of service of summons
 
@@ -122,7 +122,7 @@ A summons is described in this subsection if, upon petition by the Secretary, th
 
 #### (2) Secretary may give summoned party certificate
 
-&emsp;The Secretary may issue a certificate to the summoned party that the period prescribed for beginning a proceeding to quash a summons has expired and that no such proceeding began within such period, or that the taxpayer consents to the examination.
+&emsp;The Secretary may issue a certificate to the summoned party that the period prescribed for beginning a proceeding to quash a summons has expired and that no such proceeding beganwithin such period, or that the taxpayer consents to the examination.
 
 #### (3) Protection for summoned party who discloses
 
@@ -136,7 +136,7 @@ A summons is described in this subsection if, upon petition by the Secretary, th
 
 Nothing in this section shall be construed to limit the Secretary's ability to obtain information, other than by summons, through formal or informal procedures authorized by sections 7601 and 7602.
 
-(Added Pub. L. 94–455, title XII, §1205(a), Oct. 4, 1976, 90 Stat. 1699; amended Pub. L. 95–599, title V, §505(c)(6), Nov. 6, 1978, 92 Stat. 2760; Pub. L. 95–600, title VII, §703(<i>l</i>)(4), Nov. 6, 1978, 92 Stat. 2943; Pub. L. 96–223, title II, §232(d)(4)(E), Apr. 2, 1980, 94 Stat. 278; Pub. L. 97–248, title III, §§311(b), 331(a)–(d), 332(a), Sept. 3, 1982, 96 Stat. 601, 620, 621; Pub. L. 97–424, title V, §515(b)(12), Jan. 6, 1983, 96 Stat. 2182; Pub. L. 98–369, div. A, title VII, §714(i), title IX, §911(d)(2)(G), July 18, 1984, 98 Stat. 962, 1007; Pub. L. 98–620, title IV, §402(28)(D), Nov. 8, 1984, 98 Stat. 3359; Pub. L. 99–514, title VI, §656(a), title XV, §1561(a), (b), title XVII, §1703(e)(2)(G), Oct. 22, 1986, 100 Stat. 2299, 2761, 2778; Pub. L. 100–647, title I, §§1015(<i>l</i>)(1), (2), 1017(c)(9), (12), Nov. 10, 1988, 102 Stat. 3571, 3572, 3576, 3577; Pub. L. 104–168, title X, §1001(a), July 30, 1996, 110 Stat. 1467; Pub. L. 105–206, title III, §3415(a)–(c), July 22, 1998, 112 Stat. 755; Pub. L. 109–135, title IV, §408(a), Dec. 21, 2005, 119 Stat. 2635.)
+(Added Pub. L. 94–455, title XII, §1205(a), Oct. 4, 1976, 90 Stat. 1699; amended Pub. L. 95–599, title V, §505(c)(6), Nov. 6, 1978, 92 Stat. 2760; Pub. L. 95–600, title VII, §703(l)(4), Nov. 6, 1978, 92 Stat. 2943; Pub. L. 96–223, title II, §232(d)(4)(E), Apr. 2, 1980, 94 Stat. 278; Pub. L. 97–248, title III, §§311(b), 331(a)–(d), 332(a), Sept. 3, 1982, 96 Stat. 601, 620, 621; Pub. L. 97–424, title V, §515(b)(12), Jan. 6, 1983, 96 Stat. 2182; Pub. L. 98–369, div. A, title VII, §714(i), title IX, §911(d)(2)(G), July 18, 1984, 98 Stat. 962, 1007; Pub. L. 98–620, title IV, §402(28)(D), Nov. 8, 1984, 98 Stat. 3359; Pub. L. 99–514, title VI, §656(a), title XV, §1561(a), (b), title XVII, §1703(e)(2)(G), Oct. 22, 1986, 100 Stat. 2299, 2761, 2778; Pub. L. 100–647, title I, §§1015(l)(1), (2), 1017(c)(9), (12), Nov. 10, 1988, 102 Stat. 3571, 3572, 3576, 3577; Pub. L. 104–168, title X, §1001(a), July 30, 1996, 110 Stat. 1467; Pub. L. 105–206, title III, §3415(a)–(c), July 22, 1998, 112 Stat. 755; Pub. L. 109–135, title IV, §408(a), Dec. 21, 2005, 119 Stat. 2635.)
 
 #### Prior Provisions
 
@@ -144,7 +144,7 @@ A prior section 7609 was renumbered section 7613 of this title.
 
 #### Amendments
 
-<b>2005</b>—Subsec. (c)(2)(D) to (F). Pub. L. 109–135, §408(a)(1), inserted “or” at end of subpar. (D), substituted period for “; or” at end of subpar. (E), andstruck out subpar. (F) which read as follows: “described in subsection (f) or (g).”
+<b>2005</b>—Subsec. (c)(2)(D) to (F). Pub. L. 109–135, §408(a)(1), inserted “or” at end of subpar. (D), substituted period for “; or” at end of subpar. (E), and struck out subpar. (F) which read as follows: “described in subsection (f) or (g).”
 
 Subsec. (c)(3), (4). Pub. L. 109–135, §408(a)(2), added par. (3) and redesignated former par. (3) as (4).
 
@@ -212,11 +212,11 @@ Subsec. (j). Pub. L. 105–206, §3415(b), added subsec. (j).
 
 Pub. L. 100–647, §1017(c)(9), substituted “6421(g)(2)” for “6421(f)(2)”.
 
-Subsec. (e)(2). Pub. L. 100–647, §1015(<i>l</i>)(1), inserted “or the summoned party's response to a summons described in subsection (f),” after “the summons described in subsection (c),” and substituted “the summons is issued” for “the summons is issued other”.
+Subsec. (e)(2). Pub. L. 100–647, §1015(l)(1), inserted “or the summoned party's response to a summons described in subsection (f),” after “the summons described in subsection (c),” and substituted “the summons is issued” for “the summons is issued other”.
 
-Subsec. (i). Pub. L. 100–647, §1015(<i>l</i>)(2)(B), inserted “and summoned party” after “recordkeeper” in heading.
+Subsec. (i). Pub. L. 100–647, §1015(l)(2)(B), inserted “and summoned party” after “recordkeeper” in heading.
 
-Subsec. (i)(4). Pub. L. 100–647, §1015(<i>l</i>)(2)(A), substituted “the summoned party” for “the third-party recordkeeper”.
+Subsec. (i)(4). Pub. L. 100–647, §1015(l)(2)(A), substituted “the summoned party” for “the third-party recordkeeper”.
 
 <b>1986</b>—Subsec. (a)(3)(H). Pub. L. 99–514, §656(a), added subpar. (H).
 
@@ -262,19 +262,19 @@ Pub. L. 105–206, title III, §3415(d), July 22, 1998, 112 Stat. 756, provided 
 
 #### Effective Date of 1996 Amendment
 
-Section 1001(b) of Pub. L. 104–168 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to summonses issued after the date of the enactment of this Act \[July 30, 1996\].”
+Pub. L. 104–168, title X, §1001(b), July 30, 1996, 110 Stat. 1468, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to summonses issued after the date of the enactment of this Act \[July 30, 1996\].”
 
 #### Effective Date of 1988 Amendment
 
-Section 1015(<i>l</i>)(3) of Pub. L. 100–647 provided that: “The amendments made by this subsection \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 10, 1988\].”
+Pub. L. 100–647, title I, §1015(l)(3), Nov. 10, 1988, 102 Stat. 3572, provided that: “The amendments made by this subsection \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 10, 1988\].”
 
 Amendment by section 1017(c)(9), (12) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 
-Section 656(b) of Pub. L. 99–514 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to summonses served after the date of the enactment of this Act \[Oct. 22, 1986\].”
+Pub. L. 99–514, title VI, §656(b), Oct. 22, 1986, 100 Stat. 2299, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to summonses served after the date of the enactment of this Act \[Oct. 22, 1986\].”
 
-Section 1561(c) of Pub. L. 99–514 provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 22, 1986\].”
+Pub. L. 99–514, title XV, §1561(c), Oct. 22, 1986, 100 Stat. 2761, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 22, 1986\].”
 
 Amendment by section 1703(e)(2)(G) of Pub. L. 99–514 applicable to gasoline removed (as defined in section 4082 of this title, as amended by section 1703 of Pub. L. 99–514) after Dec. 31, 1987, see section 1703(h) of Pub. L. 99–514, set out as a note under section 4081 of this title.
 
@@ -292,11 +292,11 @@ Amendment by Pub. L. 97–424 applicable with respect to articles sold after Jan
 
 #### Effective Date of 1982 Amendment
 
-Section 311(c)(2) of Pub. L. 97–248 provided that: “The amendments made by subsection (b) \[amending this section\] shall apply to summonses served after December 31, 1982.”
+Pub. L. 97–248, title III, §311(c)(2), Sept. 3, 1982, 96 Stat. 601, provided that: “The amendments made by subsection (b) \[amending this section\] shall apply to summonses served after December 31, 1982.”
 
-Section 331(e) of Pub. L. 97–248 provided that: “The amendments made by this section \[amending this section\] shall apply to summonses served after December 31, 1982.”
+Pub. L. 97–248, title III, §331(e), Sept. 3, 1982, 96 Stat. 621, provided that: “The amendments made by this section \[amending this section\] shall apply to summonses served after December 31, 1982.”
 
-Section 332(b) of Pub. L. 97–248 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to summonses served after December 31, 1982.”
+Pub. L. 97–248, title III, §332(b), Sept. 3, 1982, 96 Stat. 622, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to summonses served after December 31, 1982.”
 
 #### Effective Date of 1980 Amendment
 
@@ -310,5 +310,5 @@ Amendment by Pub. L. 95–599 effective Jan. 1, 1979, see section 505(d) of Pub.
 
 #### Effective Date
 
-Section 1205(c) of Pub. L. 94–455, as amended by Pub. L. 94–528, §2(b), Oct. 17, 1976, 90 Stat. 2483, provided that: “The amendments made by this section \[enacting this section and section 7610 of this title\] shall apply with respect to any summons issued after February 28, 1977.”
+Pub. L. 94–455, title XII, §1205(c), Oct. 4, 1976, 90 Stat. 1703, as amended by Pub. L. 94–528, §2(b), Oct. 17, 1976, 90 Stat. 2483, provided that: “The amendments made by this section \[enacting this section and section 7610 of this title\] shall apply with respect to any summons issued after February 28, 1977.”
 

@@ -46,7 +46,7 @@ Of amounts made available to carry out section 32 under subsection (b)(2)(A), th
 
 #### (e) Maintenance of funding
 
-The funding provided under subsections (c) and (d) shall supplement (and not supplant) other Federal funding (including section 32 funding) for programs carried out under—
+The funding provided under subsections (c) and (d) shall supplement (and not supplant)other Federal funding (including section 32 funding) for programs carried out under—
 
 &emsp;(1) the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.), except for section 19 of that Act \[42 U.S.C. 1769a\];
 

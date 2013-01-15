@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary of the Air Force may have remitted or cancelled any part of the indebtedness of a person to the United States or any instrumentality of the UnitedStates incurred while the person was serving on active duty as a member of the Air Force, but only if the Secretary considers such action to be in the best interest of the United States.
+In General.—The Secretary of the Air Force may have remitted or cancelled any part of the indebtedness of a person to the United States or any instrumentality of the United States incurred while the person was serving on active duty as a member of the Air Force, but only if the Secretary considers such action to be in the best interest of the United States.
 
 (b)
 

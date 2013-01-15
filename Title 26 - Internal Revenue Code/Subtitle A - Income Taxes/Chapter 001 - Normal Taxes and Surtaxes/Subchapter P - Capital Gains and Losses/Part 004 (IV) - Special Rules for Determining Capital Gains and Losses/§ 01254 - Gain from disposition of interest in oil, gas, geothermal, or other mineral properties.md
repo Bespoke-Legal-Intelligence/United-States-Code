@@ -76,7 +76,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Section 413(c) of Pub. L. 99–514 provided that:
+Pub. L. 99–514, title IV, §413(c), Oct. 22, 1986, 100 Stat. 2229, provided that:
 
 “(1)
 
@@ -96,5 +96,5 @@ Amendment by Pub. L. 95–618 applicable with respect to wells commenced on or a
 
 #### Effective Date
 
-Section 205(e) of Pub. L. 94–455 provided that: “The amendments made by this section \[enacting this section and amending sections 163, 170, 301, 312, 341, 453, and 751 of this title\] shall apply with respect to taxable years ending after December 31, 1975.”
+Pub. L. 94–455, title II, §205(e), Oct. 4, 1976, 90 Stat. 1535, provided that: “The amendments made by thissection \[enacting this section and amending sections 163, 170, 301, 312, 341, 453, and 751 of this title\] shall apply with respect to taxable years ending after December 31, 1975.”
 

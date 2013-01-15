@@ -30,9 +30,13 @@ Whoever, with intent to defraud, knowingly conceals, removes, disposes of, or co
 
 &emsp;(B) be subject to the administrative remedies prescribed by the Program Fraud Civil Remedies Act of 1986 (31 U.S.C. 3801–3812);
 
-&emsp;(C) be subject to suspension and debarment as specified in subpart 9.4 of title 48, Code of Federal Regulations (or any successor regulation) on the basis that such misrepresentation indicates a lack of business integrity that seriously and directly affects the present responsibility to perform any contract awarded by the Federal Government or a subcontract under such a contract; and
+&emsp;(C) be subject to suspension and debarment as specified in subpart 9.4 of title 48, Code of Federal Regulations (or any successor regulation); and
 
 &emsp;(D) be ineligible for participation in any program or activity conducted under the authority of this chapter or the Small Business Investment Act of 1958 (15 U.S.C. 661 et seq.) for a period not to exceed 3 years.
+
+(3)
+
+Limitation on liability.—This subsection shall not apply to any conduct in violation of subsection (a) if the defendant acted in good faith reliance on a written advisory opinion from a Small Business Development Center (as defined in this chapter), or an entity participating in the Procurement Technical Assistance Cooperative Agreement Program defined in chapter 142 of title 10; however nothing in this chapter shall obligate either entity to provide such a letter nor shall the provision of such a letter in any way render the providing entity liable to the business concern should the Administrator later determine that the concern is not a small business concern. Upon issuance of an advisory opinion under this paragraph, the entity issuing the advisory opinion shall remit a copy of the opinion to the General Counsel of the Administration, who may reject the advisory opinion. If the General Counsel of the Administration rejects the advisory opinion, the Administration shall notify the entity issuing the advisory opinion and the recipient of the opinion, after which time the business concern may not rely upon the opinion.
 
 #### (e) Representations under subsection (d) of this section to be in writing
 
@@ -42,7 +46,21 @@ Any representation of the status of any concern or person as a “small business
 
 Whoever falsely certifies past compliance with the requirements of section 636(j)(10)(I) of this title shall be subject to the penalties prescribed in subsection (d) of this section.
 
-(Pub. L. 85–536, §2\[16\], July 18, 1958, 72 Stat. 395; Pub. L. 88–264, §2, Feb. 5, 1964, 78 Stat. 8; Pub. L. 99–272, title XVIII, §18009, Apr. 7, 1986, 100 Stat. 368; Pub. L. 100–656, title IV, §405, Nov. 15, 1988, 102 Stat. 3875; Pub. L. 103–355, title VII, §7106(c), Oct. 13, 1994, 108 Stat. 3376; Pub. L. 105–85, div. A, title X, §1073(g)(4), Nov. 18, 1997, 111 Stat. 1906; Pub. L. 105–135, title VI, §603(c), Dec. 2, 1997, 111 Stat. 2632.)
+#### (g) Subcontracting limitations
+
+#### (1) In general
+
+&emsp;Whoever violates a requirement established under section 657s of this title shall be subject to the penalties prescribed in subsection (d), except that, for an entity that exceeded a limitation on subcontracting under such section, the fine described in subsection (d)(2)(A) shall be treated as the greater of—
+
+&emsp;&emsp;(A) $500,000; or
+
+&emsp;&emsp;(B) the dollar amount expended, in excess of permitted levels, by the entity on subcontractors.
+
+#### (2) Monitoring
+
+&emsp;Not later than 1 year after January 2, 2013, the Administrator shall take such actions as are necessary to ensure that an existing Federal subcontracting reporting system is modified to notify the Administrator, the appropriate Director of the Office of Small and Disadvantaged Business Utilization, and the appropriate contracting officer if a requirement established under section 657s of this title is violated.
+
+(Pub. L. 85–536, §2\[16\], July 18, 1958, 72 Stat. 395; Pub. L. 88–264, §2, Feb. 5, 1964, 78 Stat. 8; Pub. L. 99–272, title XVIII, §18009, Apr. 7, 1986, 100 Stat. 368; Pub. L. 100–656, title IV, §405, Nov. 15, 1988, 102 Stat. 3875; Pub. L. 103–355, title VII, §7106(c), Oct. 13, 1994, 108 Stat. 3376; Pub. L. 105–85, div. A, title X, §1073(g)(4), Nov. 18, 1997, 111 Stat. 1906; Pub. L. 105–135, title VI, §603(c), Dec. 2, 1997, 111 Stat. 2632; Pub. L. 112–239, div. A, title XVI, §§1652, 1681(a), 1682(a), Jan. 2, 2013, 126 Stat. 2081, 2085, 2086.)
 
 #### References in Text
 
@@ -52,9 +70,15 @@ The Small Business Investment Act of 1958, referred to in subsec. (d)(2)(D), is 
 
 #### Prior Provisions
 
-Prior similar provisions were contained in section 209 of act July 30, 1953, ch. 282, title II, 67 Stat. 237, which was previously classified to section 638 of this title. The provisions of section 216 of act July 30, 1953, formerly classified to this section, were transferred to section 2\[8\] of Pub. L. 85–536, which was classified to section 637(c) of this title prior to repeal by Pub. L. 102–191. See section 656 of this title.
+Prior similar provisions were contained in section 209 of act July 30, 1953, ch. 282, title II, 67 Stat. 237, whichwas previously classified to section 638 of this title. The provisions of section 216 of act July 30, 1953, formerly classified to this section, were transferred to section 2\[8\] of Pub. L. 85–536, which was classified to section 637(c) of this title prior to repeal by Pub. L. 102–191. See section 656 of this title.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (d)(2)(C). Pub. L. 112–239, §1682(a), struck out “on the basis that such misrepresentation indicates a lack of business integrity that seriously and directly affects the present responsibility to perform any contract awarded by the Federal Government or a subcontract under such a contract” after “regulation)”.
+
+Subsec. (d)(3). Pub. L. 112–239, §1681(a), added par. (3).
+
+Subsec. (g). Pub. L. 112–239, §1652, added subsec. (g).
 
 <b>1997</b>—Subsec. (d)(1). Pub. L. 105–135, §603(c)(1)(A), inserted “, a ‘qualified HUBZone small business concern’,” after “ ‘small business concern’,”.
 
@@ -85,6 +109,18 @@ Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 
 #### Effective Date of 1994 Amendment
 
 For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 2302 of Title 10, Armed Forces.
+
+#### Regulations
+
+Pub. L. 112–239, div. A, title XVI, §1681(b), Jan. 2, 2013, 126 Stat. 2085, provided that: “Not later than 270 days after the date of enactment of this part \[Jan. 2, 2013\], the Administrator of the Small Business Administration shall issue rules defining what constitutes an adequate advisory opinion for purposes of section 16(d)(3) of the Small Business Act \[15 U.S.C. 645(d)(3)\].”
+
+#### Development and Promulgation of Guidance
+
+Pub. L. 112–239, div. A, title XVI, §1682(b), Jan. 2, 2013, 126 Stat. 2086, provided that: “Not later than 270 days after the date of enactment of this part \[Jan. 2, 2013\], the Administrator of the Small Business Administration shall develop and promulgate guidance implementing this section \[amending this section and enacting provisions set out as a note below\].”
+
+#### Publication of Procedures Regarding Suspension and Debarment
+
+Pub. L. 112–239, div. A, title XVI, §1682(c), Jan. 2, 2013, 126 Stat. 2086, provided that: “Not later than 270 days after the date of enactment of this part \[Jan. 2, 2013\], the Administrator \[of the Small Business Administration\] shall publish and maintain on the \[Small Business\] Administration's Web site the current standard operating procedures of the Administration for suspension and debarment, and the name and contact information for the individual designated by the Administrator as the senior individual responsible for suspension and debarment proceedings.”
 
 <i><sup>1</sup></i><i> So in original. Following provision probably should be set flush with par. (1).</i>
 

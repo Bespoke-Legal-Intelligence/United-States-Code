@@ -140,17 +140,17 @@ Pub. L. 101–189, §727(a)(1), redesignated subsec. (g) as (h).
 
 #### Effective Date of 1994 Amendment
 
-Section 1070(b) of Pub. L. 103–337 provided that the amendment made by that section is effective as of Nov. 30, 1993, and as if included in the National Defense Authorization Act for Fiscal Year 1994, Pub. L. 103–160, as enacted.
+Pub. L. 103–337, div. A, title X, §1070(b), Oct. 5, 1994, 108 Stat. 2856, provided that the amendment made by that section is effective as of Nov. 30, 1993, and as if included in the National Defense Authorization Act for Fiscal Year 1994, Pub. L. 103–160, as enacted.
 
 #### Effective Date of 1990 Amendment
 
-Section 713(e) of Pub. L. 101–510 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to health care services provided in a medical facility of the uniformed services after the date of the enactment of this Act \[Nov. 5, 1990\], but not with respect to collection under any insurance, medical service, or health plan agreement entered into before the date of the enactment of this Act that the Secretary of Defense determines clearly excludes payment for such services. Such an exception shall apply until the amendment or renewal of such agreement after that date.”
+Pub. L. 101–510, div. A, title VII, §713(e), Nov. 5, 1990, 104 Stat. 1584, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to health care services provided in a medical facility of the uniformed services after the date of the enactment of this Act \[Nov. 5, 1990\], but not with respect to collection under any insurance, medical service, or health plan agreement entered into before the date of the enactment of this Act that the Secretary of Defense determines clearly excludes payment for such services. Such an exception shall apply until the amendment or renewal of such agreement after that date.”
 
 #### Effective Date of 1989 Amendment
 
-Section 727(b) of Pub. L. 101–189 provided that: “The amendment made by this section \[amending this section\] shall take effect on October 1, 1989, and shall apply to amounts collected under section 1095 of title 10, United States Code, on or after that date.”
+Pub. L. 101–189, div. A, title VII, §727(b), Nov. 29, 1989, 103 Stat. 1480, provided that: “The amendment made by this section \[amending this section\] shall take effect on October 1, 1989, and shall apply to amounts collected under section 1095 of title 10, United States Code, on or after that date.”
 
 #### Effective Date
 
-Section 2001(b) of Pub. L. 99–272 provided that: “Section 1095 of title 10, United States Code, as added by subsection (a), shall apply with respect to inpatient hospital care provided after September 30, 1986, but only with respect to an insurance, medical service, or health plan agreement entered into, amended, or renewed on or after the date of the enactment of this Act \[Apr. 7, 1986\].”
+Pub. L. 99–272, title II, §2001(b), Apr. 7, 1986, 100 Stat. 101, provided that: “Section 1095 of title 10, United States Code, as added by subsection (a), shall apply with respect to inpatient hospital care provided after September 30, 1986, but only with respect to an insurance, medical service, or health plan agreement entered into, amended, or renewed on or after the date of the enactment of this Act \[Apr. 7, 1986\].”
 

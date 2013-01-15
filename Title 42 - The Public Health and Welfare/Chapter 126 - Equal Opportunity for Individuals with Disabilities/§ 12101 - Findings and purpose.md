@@ -30,7 +30,7 @@ It is the purpose of this chapter—
 
 &emsp;(3) to ensure that the Federal Government plays a central role in enforcing the standards established in this chapter on behalf of individuals with disabilities; and
 
-&emsp;(4) to invoke the sweep of congressional authority, including the power to enforce the fourteenth amendment and to regulate commerce, in order to address the major areas ofdiscrimination faced day-to-day by people with disabilities.
+&emsp;(4) to invoke the sweep of congressional authority, including the power to enforce the fourteenth amendment and to regulate commerce, in order to address the major areas of discrimination faced day-to-day by people with disabilities.
 
 (Pub. L. 101–336, §2, July 26, 1990, 104 Stat. 328; Pub. L. 110–325, §3, Sept. 25, 2008, 122 Stat. 3554.)
 
@@ -54,7 +54,7 @@ Pub. L. 110–325, §1, Sept. 25, 2008, 122 Stat. 3553, provided that: “This A
 
 #### Short Title
 
-Section 1(a) of Pub. L. 101–336 provided that: “This Act \[enacting this chapter and section 225 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, amending section 706 of Title 29, Labor, and sections 152, 221, and 611 of Title 47, and enacting provisions set out as notes under sections 12111, 12131, 12141, 12161, and 12181 of this title\] may be cited as the ‘Americans with Disabilities Act of 1990’.”
+Pub. L. 101–336, §1(a), July 26, 1990, 104 Stat. 327, provided that: “This Act \[enacting this chapter and section 225 of Title 47, Telecommunications, amending section 706 of Title 29, Labor, and sections 152, 221, and 611 of Title 47, and enacting provisions set out as notes under sections 12111, 12131, 12141, 12161, and 12181 of this title\] may be cited as the ‘Americans with Disabilities Act of 1990’.”
 
 #### Findings and Purposes of Pub. L. 110–325
 
@@ -68,7 +68,7 @@ Findings.—Congress finds that—
 
 &emsp;“(2) in enacting the ADA, Congress recognized that physical and mental disabilities in no way diminish a person's right to fully participate in all aspects of society, but that people with physical or mental disabilities are frequently precluded from doing so because of prejudice, antiquated attitudes, or the failure to remove societal and institutional barriers;
 
-&emsp;“(3) while Congress expected that the definition of disability under the ADA would be interpreted consistently with how courts had applied the definition of a handicapped individual under the Rehabilitation Act of 1973 \[29 U.S.C. 701 et seq.\], that expectation has not been fulfilled;
+&emsp;“(3) while Congress expected that the definition of disability under the ADA would be interpreted consistently with how courts had applied the definitionof a handicapped individual under the Rehabilitation Act of 1973 \[29 U.S.C. 701 et seq.\], that expectation has not been fulfilled;
 
 &emsp;“(4) the holdings of the Supreme Court in Sutton v. United Air Lines, Inc., 527 U.S. 471 (1999) and its companion cases have narrowed the broad scope of protection intended to be afforded by the ADA, thus eliminating protection for many individuals whom Congress intended to protect;
 

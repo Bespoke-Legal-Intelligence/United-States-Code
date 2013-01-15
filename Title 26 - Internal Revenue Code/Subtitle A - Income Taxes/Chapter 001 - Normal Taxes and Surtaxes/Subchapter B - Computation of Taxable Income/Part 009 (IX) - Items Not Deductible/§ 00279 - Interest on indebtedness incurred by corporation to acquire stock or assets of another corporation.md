@@ -102,7 +102,7 @@ In applying this section—
 
 #### (3) Redetermination where control, etc., is acquired
 
-&emsp;If an obligation is determined to be corporate acquisition indebtedness as of the close of a taxable year of the issuing corporation inwhich clause (i) of subsection (c)(3)(A) applied, but would not be corporate acquisition indebtedness if the determination were made as of the close of the first taxable year of such corporation thereafter in which clause (ii) of subsection (c)(3)(A) could apply, such obligation shall be considered not to be corporate acquisition indebtedness for such later taxable year and all taxable years thereafter.
+&emsp;If an obligation is determined to be corporate acquisition indebtedness as of the close of a taxable year of the issuing corporation in which clause (i) of subsection (c)(3)(A) applied, but would not be corporate acquisition indebtedness if the determination were made as of the close of the first taxable year of such corporation thereafter in which clause (ii) of subsection (c)(3)(A) could apply, such obligation shall be considered not to be corporate acquisition indebtedness for such later taxable year and all taxable years thereafter.
 
 #### (4) Special 3-year rule
 
@@ -110,7 +110,7 @@ In applying this section—
 
 #### (5) 5 percent stock rule
 
-&emsp;In the case of obligations issued to provide consideration for the acquisition of stock in another corporation, such obligations shall be corporate acquisition indebtedness for a taxable year only if at some time after October 9, 1969, and before the close of such year the issuing corporation owns 5 percent or more of the total combined voting power of all classes of stock entitled to vote of such other corporation.
+&emsp;In the case of obligations issued to provide consideration for the acquisition of stock inanother corporation, such obligations shall be corporate acquisition indebtedness for a taxable year only if at some time after October 9, 1969, and before the close of such year the issuing corporation owns 5 percent or more of the total combined voting power of all classes of stock entitled to vote of such other corporation.
 
 #### (e) Certain nontaxable transactions
 
@@ -154,9 +154,9 @@ Subsec. (i). Pub. L. 94–514 struck out provisions that par. (2) would cease to
 
 #### Effective Date of 1976 Amendment
 
-Section 1(b) of Pub. L. 94–514 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years ending after October 9, 1969. If refund or credit of any overpayment of income tax resulting from the amendment made by subsection (a) \[amending this section\] is prevented on the date of the enactment of this Act \[Oct. 15, 1976\], or at any time within one year after such date, by the operation of any law or rule of law, refund or credit of such overpayment may, nevertheless, be made or allowed if claim therefor is filed within one year from such date.”
+Pub. L. 94–514, §1(b), Oct. 15, 1976, 90 Stat. 2443, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years ending after October 9, 1969. If refund or credit of any overpayment of income tax resulting from the amendment made by subsection (a) \[amending this section\] is prevented on the date of the enactment of this Act \[Oct. 15, 1976\], or at any time within one year after such date, by the operation of any law or rule of law, refund or credit of such overpayment may, nevertheless, be made or allowed if claim therefor is filed within one year from such date.”
 
 #### Effective Date
 
-Section 411(c) of Pub. L. 91–172 provided that: “The amendments made by this section \[enacting this section\] shall apply to the determination of the allowability of the deduction of interest paid or incurred with respect to indebtedness incurred after October 9, 1969.”
+Pub. L. 91–172, title IV, §411(c), Dec. 30, 1969, 83 Stat. 608, provided that: “The amendments made by this section \[enacting this section\] shall apply to the determination of the allowability of the deduction of interest paid or incurred with respect to indebtedness incurred after October 9, 1969.”
 

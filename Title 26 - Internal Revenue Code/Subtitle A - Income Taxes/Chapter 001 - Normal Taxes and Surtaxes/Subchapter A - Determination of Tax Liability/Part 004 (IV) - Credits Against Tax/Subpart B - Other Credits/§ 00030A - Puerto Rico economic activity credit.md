@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Except as otherwise provided in this section, if the conditions of both paragraph (1) and paragraph (2) of subsection (b) are satisfied with respect to a qualified domestic corporation, there shall be allowed as a credit against the tax imposed by this chapter an amount equal to the portion of the tax which is attributable to the taxable income, from sources without the United States, from—
+&emsp;Except as otherwise provided in this section, if the conditions of both paragraph (1) and paragraph (2) of subsection (b) are satisfied with respect to a qualified domestic corporation, there shall be allowed as a credit against the tax imposed by this chapter an amountequal to the portion of the tax which is attributable to the taxable income, from sources without the United States, from—
 
 &emsp;&emsp;(A) the active conduct of a trade or business within Puerto Rico, or
 
@@ -78,7 +78,7 @@ The amount of the credit determined under subsection (a) for any taxable year sh
 
 For purposes of this title—
 
-&emsp;(1) the provisions of section 936 (including any applicable election thereunder) shallapply in the same manner as if the credit under this section were a credit under section 936(a)(1)(A) for a domestic corporation to which section 936(a)(4)(A) applies,
+&emsp;(1) the provisions of section 936 (including any applicable election thereunder) shall apply in the same manner as if the credit under this section were a credit under section 936(a)(1)(A) for a domestic corporation to which section 936(a)(4)(A) applies,
 
 &emsp;(2) the credit under this section shall be treated in the same manner as the credit under section 936, and
 
@@ -114,7 +114,7 @@ Amendment by Pub. L. 105–34 effective as if included in the provisions of the 
 
 #### Effective Date
 
-Section 1601(c) of Pub. L. 104–188 provided that:
+Pub. L. 104–188, title I, §1601(c), Aug. 20, 1996, 110 Stat. 1833, provided that:
 
 “(1)
 
@@ -130,15 +130,19 @@ Special transition rule for payment of estimated tax installment.—In determini
 
 #### American Samoa Economic Development Credit
 
-Pub. L. 109–432, div. A, title I, §119, Dec. 20, 2006, 120 Stat. 2942, as amended by Pub. L. 110–343, div. C, title III, §309(a), Oct. 3, 2008, 122 Stat. 3869; Pub. L. 111–312, title VII, §756(a), Dec. 17, 2010, 124 Stat. 3322, provided that:
+Pub. L. 109–432, div. A, title I, §119, Dec. 20, 2006, 120 Stat. 2942, as amended by Pub. L. 110–343, div. C, title III, §309(a), Oct. 3, 2008, 122 Stat. 3869; Pub. L. 111–312, title VII, §756(a), Dec. 17, 2010, 124 Stat. 3322; Pub. L. 112–240, title III, §330(a), (b), Jan. 2, 2013, 126 Stat. 2335, provided that:
 
 “(a)
 
-In General.—For purposes of section 30A of the Internal Revenue Code of 1986, a domestic corporation shall be treated as a qualified domestic corporation to which such section applies if such corporation—
+In General.—For purposes of section 30A of the Internal Revenue Code of 1986, a domestic corporation shall be treated as a qualified domestic corporation to which such section applies if—
 
-&emsp;“(1) is an existing credit claimant with respect to American Samoa, and
+&emsp;“(1) in the case of a taxable year beginning before January 1, 2012, such corporation—
 
-&emsp;“(2) elected the application of section 936 of the Internal Revenue Code of 1986 for its last taxable year beginning before January 1, 2006.
+&emsp;&emsp;“(A) is an existing credit claimant with respect to American Samoa, and
+
+&emsp;&emsp;“(B) elected the application of section 936 of the Internal Revenue Code of 1986 for its last taxable year beginning before January 1, 2006, and
+
+&emsp;“(2) in the case of a taxable year beginning after December 31, 2011, such corporation meets the requirements of subsection (e).
 
 “(b)
 
@@ -162,7 +166,17 @@ Definitions.—For purposes of this section, any term which is used in this sect
 
 “(d)
 
-Application of Section.—Notwithstanding section 30A(h) or section 936(j) of such Code, this section (and so much of section 30A and section 936 of such Code as relates to this section) shall apply to the first 6 taxable years of a corporation to which subsection (a) applies which begin after December 31, 2005, and before January 1, 2012.”
+Application of Section.—Notwithstanding section 30A(h) or section 936(j) of such Code, this section (and so much of section 30A and section 936 of such Code as relates to this section) shall apply—
+
+&emsp;“(1) in the case of a corporation that meets the requirements of subparagraphs (A) and (B) of subsection (a)(1), to the first 8 taxable years of such corporation which begin after December 31, 2006, and before January 1, 2014, and
+
+&emsp;“(2) in the case of a corporation that does not meet the requirements of subparagraphs (A) and (B) of subsection (a)(1), to the first 2 taxable years of such corporation which begin after December 31, 2011, and before January 1, 2014.
+
+“(e)
+
+Qualified Production Activities Income Requirement.—A corporation meets the requirement of this subsection if such corporation has qualified production activities income, as defined in subsection (c) of section 199 of the Internal Revenue Code of 1986, determined by substituting ‘American Samoa’ for ‘the United States’ each place it appears in paragraphs (3), (4), and (6) of such subsection (c), for the taxable year.”
+
+\[Pub. L. 112–240, title III, §330(c), Jan. 2, 2013, 126 Stat. 2335, provided that: “The amendments made by this section \[amending section 119 of Pub. L. 109–432, set out above\] shall apply to taxable years beginning after December 31, 2011.”\]
 
 \[Pub. L. 111–312, title VII, §756(b), Dec. 17, 2010, 124 Stat. 3322, provided that: “The amendments made by this section \[amending section 119 of Pub. L. 109–432, set out above\] shall apply to taxable years beginning after December 31, 2009.”\]
 

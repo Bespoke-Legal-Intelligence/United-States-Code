@@ -250,7 +250,7 @@ If—
 
 If a small business corporation has made an election under subsection (a) and if such election has been terminated under subsection (d), such corporation (and any successor corporation) shall not be eligible to make an election under subsection (a) for any taxable year before its 5th taxable year which begins after the 1st taxable year for which such termination is effective, unless the Secretary consents to such election.
 
-(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1672; amended Pub. L. 98–369, div. A, title I,§102(d)(2), title VII, §721(g), (h), (<i>l</i>), (t), July 18, 1984, 98 Stat. 623, 968, 969, 971; Pub. L. 100–647, title I, §§1006(f)(6), 1007(g)(9), Nov. 10, 1988, 102 Stat. 3406, 3435; Pub. L. 104–188, title I, §§1305(a), (b), 1308(c), 1311(b)(1), Aug. 20, 1996, 110 Stat. 1779, 1780, 1783, 1784; Pub. L. 106–170, title V, §532(c)(2)(T), Dec. 17, 1999, 113 Stat. 1931; Pub. L. 108–357, title II, §§231(b), 237(a), 238(a), Oct. 22, 2004, 118 Stat. 1433, 1436; Pub. L. 109–135, title IV, §413(b), Dec. 21, 2005, 119 Stat. 2641; Pub. L. 110–28, title VIII, §8231(a), May 25, 2007, 121 Stat. 196; Pub. L. 110–172, §11(a)(25), Dec. 29, 2007, 121 Stat. 2487.)
+(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1672; amended Pub. L. 98–369, div. A, title I, §102(d)(2), title VII, §721(g), (h), (l), (t), July 18, 1984, 98 Stat. 623, 968, 969, 971; Pub. L. 100–647, title I, §§1006(f)(6), 1007(g)(9), Nov. 10, 1988, 102 Stat. 3406, 3435; Pub. L. 104–188, title I, §§1305(a), (b), 1308(c), 1311(b)(1), Aug. 20, 1996, 110 Stat. 1779, 1780, 1783, 1784; Pub. L. 106–170, title V, §532(c)(2)(T), Dec. 17, 1999, 113 Stat. 1931; Pub. L. 108–357, title II, §§231(b), 237(a), 238(a), Oct. 22, 2004, 118 Stat. 1433, 1436; Pub. L. 109–135, title IV, §413(b), Dec. 21, 2005, 119 Stat. 2641; Pub. L. 110–28, title VIII, §8231(a), May 25, 2007, 121 Stat. 196; Pub. L. 110–172, §11(a)(25), Dec. 29, 2007, 121 Stat. 2487.)
 
 #### Amendments
 
@@ -316,9 +316,9 @@ Subsec. (d)(3)(E). Pub. L. 100–647, §1006(f)(6)(B), added subpar. (E).
 
 Subsec. (e)(5)(B). Pub. L. 100–647, §1007(g)(9), substituted “Subsection (d)” for “Subsection (d)(2)”.
 
-<b>1984</b>—Subsec. (b)(3)(B). Pub. L. 98–369, §721(<i>l</i>)(2), substituted “on or before the 15th day of the 3rd month of the following taxable year” for “on or before the last day of such taxable year”.
+<b>1984</b>—Subsec. (b)(3)(B). Pub. L. 98–369, §721(l)(2), substituted “on or before the 15th day of the 3rd month of the following taxable year” for “on or before the last day of such taxable year”.
 
-Subsec. (b)(4). Pub. L. 98–369, §721(<i>l</i>)(1), added par. (4).
+Subsec. (b)(4). Pub. L. 98–369, §721(l)(1), added par. (4).
 
 Subsec. (d)(3)(D)(v). Pub. L. 98–369, §102(d)(2), added cl. (v).
 
@@ -352,7 +352,7 @@ Amendment by Pub. L. 106–170 applicable to any instrument held, acquired, or e
 
 #### Effective Date of 1996 Amendment
 
-Section 1305(c) of Pub. L. 104–188 provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply with respect to elections for taxable years beginning after December 31, 1982.”
+Pub. L. 104–188, title I, §1305(c), Aug. 20, 1996, 110 Stat. 1780, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply with respect to elections for taxable years beginning after December 31, 1982.”
 
 Amendment by sections 1308(c) and 1311(b)(1) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1317(a) of Pub. L. 104–188, set out as a note under section 641 of this title.
 
@@ -364,7 +364,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 Amendment by section 102(d)(2) of Pub. L. 98–369 applicable to positions established after July 18, 1984, in taxable years ending after that date except as otherwise provided, see section 102(f), (g) of Pub. L. 98–369, set out as a note under section 1256 of this title.
 
-Amendment by section 721(g), (h), (<i>l</i>), (t) of Pub. L. 98–369 effective as if included in the Subchapter S Revision Act of 1982, Pub. L. 97–354, except that amendment by section 721(g)(1) is not applicable to certain qualified stock purchases, amendment by section 721(<i>l</i>) is applicable to any election under this section (or any corresponding provision of prior law) made after Oct. 19, 1982, and amendment by section 721(t) is not applicable to certain S termination years, see section 721(y) of Pub. L. 98–369, set out as a note under section 1361 of this title.
+Amendment by section 721(g), (h), (l), (t) of Pub. L. 98–369 effective as if included in the Subchapter S Revision Act of 1982, Pub. L. 97–354, except that amendment by section 721(g)(1) is not applicable to certain qualified stock purchases, amendment by section 721(l) is applicable to any election under this section (or any corresponding provision of prior law) made after Oct. 19, 1982, and amendment by section 721(t) is not applicable to certain S termination years, see section 721(y) of Pub. L. 98–369, set out as a note under section 1361 of this title.
 
 #### Effective Date
 
@@ -372,11 +372,11 @@ Section applicable to taxable years beginning after Dec. 31, 1982, except that i
 
 #### Treatment of Certain Elections Under Prior Law
 
-Section 1317(b) of Pub. L. 104–188 provided that: “For purposes of section 1362(g) of the Internal Revenue Code of 1986 (relating to election after termination), any termination under section 1362(d) of such Code in a taxable year beginning before January 1, 1997, shall not be taken into account.”
+Pub. L. 104–188, title I, §1317(b), Aug. 20, 1996, 110 Stat. 1787, provided that: “For purposes of section 1362(g) of the Internal Revenue Code of 1986 (relating to election after termination), any termination under section 1362(d) of such Code in a taxable year beginning before January 1, 1997, shall not be taken into account.”
 
 #### Subchapter S Election
 
-Section 102(d)(3) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, title XVIII, §1808(a)(2), Oct. 22, 1986, 100 Stat. 2095, 2817, provided that: “If a commodities dealer or an options dealer—
+Pub. L. 98–369, div. A, title I, §102(d)(3), July 18, 1984, 98 Stat. 623, as amended by Pub. L. 99–514, §2, title XVIII, §1808(a)(2), Oct. 22, 1986, 100 Stat. 2095, 2817, provided that: “If a commodities dealer or an options dealer—
 
 &emsp;“(A) becomes a small business corporation (as defined in section 1361(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) at any time before the close of the 75th day after the date of the enactment of this Act \[July 18, 1984\], and
 

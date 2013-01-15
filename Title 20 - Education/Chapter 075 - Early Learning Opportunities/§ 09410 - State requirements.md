@@ -20,7 +20,7 @@ In awarding grants to Local Councils under this chapter, the State, to the maxim
 
 &emsp;(1) a Local Council that meets criteria, that are specified by the State and approved by the Secretary, for qualifying as serving an area of greatest need for early learning programs; and
 
-&emsp;(2) a Local Council that demonstrates, in the application submitted under section 9412 of this title, the Local Council's potential to increase collaboration as a means of maximizing use of resources provided under this chapter with other resources available for early learning programs.
+&emsp;(2) a Local Council that demonstrates, in the application submitted under section 9412 ofthis title, the Local Council's potential to increase collaboration as a means of maximizing use of resources provided under this chapter with other resources available for early learning programs.
 
 #### (c) Local preference
 

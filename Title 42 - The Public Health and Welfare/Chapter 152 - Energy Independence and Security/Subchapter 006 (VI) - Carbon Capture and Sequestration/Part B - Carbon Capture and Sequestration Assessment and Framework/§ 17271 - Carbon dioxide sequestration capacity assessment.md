@@ -50,7 +50,7 @@ Not later than 1 year after December 19, 2007, the Secretary shall develop a met
 
 #### (A) Consultation
 
-&emsp;&emsp;The Secretary shall consult with the Secretary of Energy and the Administrator of the Environmental Protection Agency on issues of data sharing, format, development of the methodology, and content of the assessment required under this section to ensure the maximum usefulness and success of the assessment.
+&emsp;&emsp;The Secretary shall consult with the Secretary of Energy and the Administrator ofthe Environmental Protection Agency on issues of data sharing, format, development of the methodology, and content of the assessment required under this section to ensure the maximum usefulness and success of the assessment.
 
 #### (B) Cooperation
 

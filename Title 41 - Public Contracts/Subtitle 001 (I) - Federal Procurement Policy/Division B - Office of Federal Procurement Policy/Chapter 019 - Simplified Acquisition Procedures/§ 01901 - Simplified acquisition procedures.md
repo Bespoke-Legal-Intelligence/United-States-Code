@@ -6,7 +6,7 @@ When Procedures Are To Be Used.—To promote efficiency and economy in contracti
 
 &emsp;(1) not greater than the simplified acquisition threshold; and
 
-&emsp;(2) greater than the simplified acquisition threshold but not greater than $5,000,000 for which the contracting officer reasonably expects, based on the nature of the property or services sought and on market research, that offers will include only commercial items.
+&emsp;(2) greater than the simplified acquisition threshold but not greater than $5,000,000 forwhich the contracting officer reasonably expects, based on the nature of the property or services sought and on market research, that offers will include only commercial items.
 
 (b)
 

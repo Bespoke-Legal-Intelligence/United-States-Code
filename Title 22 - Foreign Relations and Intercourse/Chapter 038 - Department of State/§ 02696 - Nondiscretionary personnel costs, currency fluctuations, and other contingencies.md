@@ -26,7 +26,7 @@ There are authorized to be appropriated for the Department of State, in addition
 
 (B) The balance of the Buying Power Maintenance account may not exceed $100,000,000 as a result of any transfer under this paragraph.
 
-(C) Any transfer pursuant to this paragraph shall be treated as a reprogramming of fundsunder section 2706 of this title and shall be available for obligation or expenditure only in accordance with the procedures under such section.
+(C) Any transfer pursuant to this paragraph shall be treated as a reprogramming of funds under section 2706 of this title and shall be available for obligation or expenditure only in accordance with the procedures under such section.
 
 (D) The authorities contained in this paragraph may be exercised only with respect to funds appropriated or otherwise made available after fiscal year 2008.
 
@@ -70,5 +70,5 @@ Subsec. (d). Pub. L. 102–138, §117(c), amended subsec. (d) generally. Prior t
 
 #### Effective Date
 
-Section 105(b) of Pub. L. 96–60 provided that: “The amendment made by subsection (a) \[enacting this section\] shall take effect on October 1, 1979.”
+Pub. L. 96–60, title I, §105(b), Aug. 15, 1979, 93 Stat. 396, provided that: “The amendment made by subsection (a) \[enacting this section\] shall take effect on October 1, 1979.”
 

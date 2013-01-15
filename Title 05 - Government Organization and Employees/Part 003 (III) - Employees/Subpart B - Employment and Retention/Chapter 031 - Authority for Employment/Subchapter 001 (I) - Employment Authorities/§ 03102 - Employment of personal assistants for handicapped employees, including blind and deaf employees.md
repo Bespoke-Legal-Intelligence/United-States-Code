@@ -28,7 +28,7 @@
 
 (c) The head of each agency may also employ or assign one or more personal assistants who the head of the agency determines are necessary to enable a handicapped employee of that agency to perform the employee's official duties. Such employment may include the employing of a reading assistant or assistants for a blind employee or an interpreting assistant or assistants for a deaf employee.
 
-(d)(1) In the case of any handicapped employee (including a blind or deaf employee) traveling on official business, the head of the agency may authorize the payment to an individual to accompany or assist (or both) the handicapped employee for all or a portion of the travel period involved. Any payment under this subsection to such an individual may be made either directly to that individual or by advancement or reimbursement to the handicapped employee.
+(d)(1) In the case of any handicapped employee (including a blind or deaf employee) traveling onofficial business, the head of the agency may authorize the payment to an individual to accompany or assist (or both) the handicapped employee for all or a portion of the travel period involved. Any payment under this subsection to such an individual may be made either directly to that individual or by advancement or reimbursement to the handicapped employee.
 
 (2) With respect to any individual paid to accompany or assist a handicapped employee under paragraph (1) of this subsection—
 
@@ -92,7 +92,7 @@ Subsec. (d). Pub. L. 95–454, §302(a)(4), added subsec. (d).
 
 #### Effective Date of 1980 Amendment
 
-Section 3 of Pub. L. 96–523 provided that: “The amendments made by this Act \[amending this section, section 7 of the Federal Advisory Committee Act, set out in the Appendix to this title, section 604 of Title 28, Judiciary and Judicial Procedure, and section 410 of Title 39, Postal Service\] shall take effect sixty days after the date of the enactment of this Act \[Dec. 12, 1980\].”
+Pub. L. 96–523, §3, Dec. 12, 1980, 94 Stat. 3040, provided that: “The amendments made by this Act \[amending this section, section 7 of the Federal Advisory Committee Act, set out in the Appendix to this title, section 604 of Title 28, Judiciary and Judicial Procedure, and section 410 of Title 39, Postal Service\] shall take effect sixty days after the date of the enactment of this Act \[Dec. 12, 1980\].”
 
 #### Effective Date of 1979 Amendment
 
@@ -104,5 +104,5 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90–623 intended to restate without substantive change the law in effect on Oct. 22, 1968, see section 6 of Pub. L. 90–623, set out as a note under section 5334 of this title.
+Amendment by Pub. L. 90–623 intended to restate without substantive change the law in effect on Oct. 22,1968, see section 6 of Pub. L. 90–623, set out as a note under section 5334 of this title.
 

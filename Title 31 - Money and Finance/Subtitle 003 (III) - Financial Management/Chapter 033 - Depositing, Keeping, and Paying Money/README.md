@@ -51,7 +51,7 @@
 
 Pub. L. 103–272, §4(f)(1)(G), July 5, 1994, 108 Stat. 1362, added item 3334.
 
-<b>1991</b>—Pub. L. 102–54, §13(<i>l</i>)(4)(B), June 13, 1991, 105 Stat. 277, substituted “Department of Veterans Affairs” for “Veterans’ Administration” in item 3330.
+<b>1991</b>—Pub. L. 102–54, §13(l)(4)(B), June 13, 1991, 105 Stat. 277, substituted “Department of Veterans Affairs” for “Veterans’ Administration” in item 3330.
 
 <b>1990</b>—Pub. L. 101–453, §4(b), Oct. 24, 1990, 104 Stat. 1059, added item 3335.
 

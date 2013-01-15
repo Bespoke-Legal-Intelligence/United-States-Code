@@ -54,11 +54,11 @@ This chapter, referred to in subsecs. (b) and (c)(1), was in the original “thi
 
 #### Effective Date
 
-Section 16 of Pub. L. 93–205 provided that: “This Act \[enacting this chapter, amending sections 460k–1, 460<i>l</i>–9, 668dd, 715i, 715s, 1362, 1371, 1372, and 1402 of this title and section 136 of Title 7, Agriculture, repealing sections 668aa to 668cc–6 of this title, and enacting provisions set out as notes under this section\] shall take effect on the date of its enactment \[Dec. 28, 1973\].”
+Pub. L. 93–205, §16, Dec. 28, 1973, 87 Stat. 903, provided that: “This Act \[enacting this chapter, amending sections 460k–1, 460l–9, 668dd, 715i, 715s, 1362, 1371, 1372, and 1402 of this title and section 136 of Title 7, Agriculture, repealing sections 668aa to 668cc–6 of this title, and enacting provisions set out as notes under this section\] shall take effect on the date of its enactment \[Dec. 28, 1973\].”
 
 #### Short Title of 1982 Amendment
 
-Section 1 of Pub. L. 97–304 provided: “That this Act \[amending this section and sections 1532, 1533, 1535, 1536, 1537a, 1538, 1539, 1540, and 1542 of this title and enacting provisions set out as notes under sections 1533, 1537a, and 1539 of this title\] may be cited as the ‘Endangered Species Act Amendments of 1982’.”
+Pub. L. 97–304, §1, Oct. 13, 1982, 96 Stat. 1411, provided: “That this Act \[amending this section and sections 1532, 1533, 1535, 1536, 1537a, 1538, 1539, 1540, and 1542 of this title and enacting provisions set out as notes under sections 1533, 1537a, and 1539 of this title\] may be cited as the ‘Endangered Species Act Amendments of 1982’.”
 
 #### Short Title of 1978 Amendment
 
@@ -66,11 +66,11 @@ Pub. L. 95–632, §1, Nov. 10, 1978, 92 Stat. 3751, provided: “That this Act 
 
 #### Short Title
 
-Section 1 of Pub. L. 93–205 provided: “That this Act \[enacting this chapter, amending sections 460k–1, 460<i>l</i>–9, 668dd, 715i, 715s, 1362, 1371, 1372, and 1402 of this title and section 136 of Title 7, Agriculture, repealing sections 668aa to 668cc–6 of this title, and enacting provisions set out as notes under this section\] may be cited as the ‘Endangered Species Act of 1973’.”
+Pub. L. 93–205, §1, Dec. 28, 1973, 87 Stat. 884, provided: “That this Act \[enacting this chapter, amending sections 460k–1, 460l–9, 668dd, 715i, 715s, 1362, 1371, 1372, and 1402 of this title and section 136 of Title 7, Agriculture, repealing sections 668aa to 668cc–6 of this title, and enacting provisions set out as notes under this section\] may be cited as the ‘Endangered Species Act of 1973’.”
 
 #### Relationship to Endangered Species Act of 1973
 
-Pub. L. 102–251, title III, §305, Mar. 9, 1992, 106 Stat. 66, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: “The special areas defined in section 3(24) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1802(24)) shall be considered places that are subject to the jurisdiction of the United States for the purposes of the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.).”
+Pub. L. 102–251, title III, §305, Mar. 9, 1992, 106 Stat. 66, as amended by Pub. L. 104–208, div. A, title I, §101(a)\[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: “The special areas defined in section 3(24) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1802(24)) shall be considered places that are subject to the jurisdiction of the United States for the purposes of the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.).”
 
 #### Minimization of Conflicts With Recreational Fisheries
 

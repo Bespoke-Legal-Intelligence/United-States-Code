@@ -10,7 +10,7 @@ Provisions similar to those comprising this section were contained in prior sect
 
 #### Amendments
 
-<b>1984</b>—Pub. L. 98–369 struck out “stamped,” before “labeled,” and struck out provision that section 5205(a)(1) shall not apply to alcohol bottled, stamped, and labeled as such under this section.
+<b>1984</b>—Pub. L. 98–369 struck out “stamped,” before “labeled,” and struck out provision that section 5205(a)(1)shall not apply to alcohol bottled, stamped, and labeled as such under this section.
 
 <b>1979</b>—Pub. L. 96–39 substituted “section 5205(a)(1) shall not apply” for “sections 5178(a)(4)(A), 5205(a)(1), and 5233 (relating to the bottling of distilled spirits in bond) shall not be applicable”.
 

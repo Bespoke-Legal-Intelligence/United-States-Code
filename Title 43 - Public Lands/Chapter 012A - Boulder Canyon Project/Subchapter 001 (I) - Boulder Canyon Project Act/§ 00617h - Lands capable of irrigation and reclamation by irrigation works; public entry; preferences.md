@@ -22,7 +22,7 @@ References to Naval Reserve, other than references to Naval Reserve regarding th
 
 #### Effective Date of 1976 Amendment
 
-Section 704(a) of Pub. L. 94–579 provided that amendment to this section striking out provision relating to withdrawal of public lands is effective on and after Oct. 21, 1976.
+Pub. L. 94–579, title VII, §704(a), Oct. 21, 1976, 90 Stat. 2792, provided that amendment to this section striking out provision relating to withdrawal of public lands is effective on and after Oct. 21, 1976.
 
 #### Savings Provision
 

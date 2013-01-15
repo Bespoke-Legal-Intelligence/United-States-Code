@@ -70,7 +70,7 @@ For purposes of this section—
 
 #### (ii) Exception where amounts paid in full
 
-&emsp;&emsp;&emsp;For purposes of subparagraph (A), a letter or notice shall be disregarded if, duringthe 30-day period beginning on the day on which it was sent, the taxpayer makes a payment equal to the amount shown as due in such letter or notice, as the case may be.
+&emsp;&emsp;&emsp;For purposes of subparagraph (A), a letter or notice shall be disregarded if, during the 30-day period beginning on the day on which it was sent, the taxpayer makes a payment equal to the amount shown as due in such letter or notice, as the case may be.
 
 #### (iii) Exception for letters or notices involving small amounts
 
@@ -96,7 +96,7 @@ For purposes of this section—
 
 To the extent that, for any period, interest is payable under subchapter A and allowable under subchapter B on equivalent underpayments and overpayments by the same taxpayer of tax imposed by this title, the net rate of interest under this section on such amounts shall be zero for such period.
 
-(Added Pub. L. 93–625, §7(a)(1), Jan. 3, 1975, 88 Stat. 2114; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–167, §4(b), Dec. 29, 1979, 93 Stat. 1275; Pub. L. 97–34, title VII, §711(a)–(c), Aug. 13, 1981, 95 Stat. 340; Pub. L. 97–248, title III, §345(a), Sept. 3, 1982, 96 Stat. 636; Pub. L. 98–369, div. A, title I, §144(a), July 18, 1984, 98 Stat. 682; Pub. L. 99–514, title XV, §§1511(a), (c)(1), 1535(a), Oct. 22, 1986, 100 Stat. 2744, 2750; Pub. L. 100–647, title I, §1015(d), Nov. 10, 1988, 102 Stat. 3569; Pub. L. 101–239, title VII, §7721(b), Dec. 19, 1989, 103 Stat. 2399; Pub. L. 101–508, title XI, §11341(a), Nov. 5, 1990, 104 Stat. 1388–470; Pub. L. 103–465, title VII, §713(a), Dec. 8, 1994, 108 Stat. 5001; Pub. L. 104–188, title I, §1702(c)(6), (7), Aug. 20, 1996, 110 Stat. 1870; Pub. L. 105–34, title XIV, §1463(a), title XVI, §1604(b)(1), Aug. 5, 1997, 111 Stat. 1057, 1097; Pub. L. 105–206, title III, §§3301(a), 3302(a), July 22, 1998, 112 Stat. 741.)
+(Added Pub. L. 93–625, §7(a)(1), Jan. 3, 1975, 88 Stat. 2114; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–167, §4(b), Dec. 29, 1979, 93 Stat. 1275; Pub. L. 97–34, title VII, §711(a)–(c), Aug. 13, 1981, 95 Stat. 340; Pub. L. 97–248, title III, §345(a), Sept. 3, 1982, 96 Stat. 636; Pub. L. 98–369, div. A, title I, §144(a), July 18, 1984, 98 Stat. 682; Pub. L. 99–514, title XV, §§1511(a), (c)(1), 1535(a), Oct. 22, 1986, 100 Stat. 2744, 2750; Pub. L. 100–647, title I, §1015(d), Nov. 10, 1988, 102 Stat. 3569; Pub. L. 101–239, title VII, §7721(b), Dec. 19, 1989, 103 Stat. 2399; Pub. L. 101–508, title XI, §11341(a), Nov. 5, 1990, 104 Stat. 1388–470; Pub. L. 103–465, title VII, §713(a), Dec. 8,1994, 108 Stat. 5001; Pub. L. 104–188, title I, §1702(c)(6), (7), Aug. 20, 1996, 110 Stat. 1870; Pub. L. 105–34, title XIV, §1463(a), title XVI, §1604(b)(1), Aug. 5, 1997, 111 Stat. 1057, 1097; Pub. L. 105–206, title III, §§3301(a), 3302(a), July 22, 1998, 112 Stat. 741.)
 
 #### Amendments
 
@@ -156,7 +156,7 @@ Pub. L. 105–206, title III, §3302(b), July 22, 1998, 112 Stat. 742, provided 
 
 #### Effective Date of 1997 Amendment
 
-Section 1463(b) of Pub. L. 105–34 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply for purposes of determining interest for periods after December 31, 1997.”
+Pub. L. 105–34, title XIV, §1463(b), Aug. 5, 1997, 111 Stat. 1058, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply for purposes of determining interest for periods after December 31, 1997.”
 
 Amendment by section 1604(b)(1) of Pub. L. 105–34 effective as if included in the sections of the Uruguay Round Agreements Act, Pub. L. 103–465, to which it relates, see section 1604(b)(4) of Pub. L. 105–34, set out as a note under section 412 of this title.
 
@@ -166,11 +166,11 @@ Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided
 
 #### Effective Date of 1994 Amendment
 
-Section 713(b) of Pub. L. 103–465 provided that: “The amendment made by this section \[amending this section\] shall apply for purposes of determining interest for periods after December 31, 1994.”
+Pub. L. 103–465, title VII, §713(b), Dec. 8, 1994, 108 Stat. 5002, provided that: “The amendment made by this section \[amending this section\] shall apply for purposes of determining interest for periods after December 31, 1994.”
 
 #### Effective Date of 1990 Amendment
 
-Section 11341(b) of Pub. L. 101–508 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply for purposes of determining interest for periods after December 31, 1990.”
+Pub. L. 101–508, title XI, §11341(b), Nov. 5, 1990, 104 Stat. 1388–471, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply for purposes of determining interest for periods after December 31, 1990.”
 
 #### Effective Date of 1989 Amendment
 
@@ -184,19 +184,19 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 Amendment by section 1511(a), (c)(1) of Pub. L. 99–514 applicable for purposes of determining interest for periods after Dec. 31, 1986, see section 1511(d) of Pub. L. 99–514, set out as a note under section 47 of this title.
 
-Section 1535(b) of Pub. L. 99–514 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to interest accruing after December 31, 1984; except that such amendment shall not apply in the case of any underpayment with respect to which there was a final court decision before the date of the enactment of this Act \[Oct. 22, 1986\].”
+Pub. L. 99–514, title XV, §1535(b), Oct. 22, 1986, 100 Stat. 2750, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to interest accruing after December 31, 1984; except that such amendment shall not apply in the case of any underpayment with respect to which there was a final court decision before the date of the enactment of this Act \[Oct. 22, 1986\].”
 
 #### Effective Date of 1984 Amendment
 
-Section 144(c) of Pub. L. 98–369 provided that: “The amendments made by this section \[amending this section and section 6214 of this title\] shall apply with respect to interest accruing after December 31, 1984.”
+Pub. L. 98–369, div. A, title I, §144(c), July 18, 1984, 98 Stat. 684, provided that: “The amendments made by this section \[amending this section and section 6214 of this title\] shall apply with respect to interest accruing after December 31, 1984.”
 
 #### Effective Date of 1982 Amendment
 
-Section 345(b) of Pub. L. 97–248, as amended by Pub. L. 98–369, div. A, title VII, §714(m), July 18, 1984, 98 Stat. 963, provided that: “The amendment made by this section \[amending this section\] shall apply to adjustments taking effect on or after January 1, 1983.”
+Pub. L. 97–248, title III, §345(b), Sept. 3, 1982, 96 Stat. 636, as amended by Pub. L. 98–369, div. A, title VII, §714(m), July 18, 1984, 98 Stat. 963, provided that: “The amendment made by this section \[amending this section\] shall apply to adjustments taking effect on or after January 1, 1983.”
 
 #### Effective Date of 1981 Amendment
 
-Section 711(d) of Pub. L. 97–34 provided that:
+Pub. L. 97–34, title VII, §711(d), Aug. 13, 1981, 95 Stat. 340, provided that:
 
 “(1)
 
@@ -210,13 +210,13 @@ For subsection (c).—The amendment made by subsection (c) \[amending this secti
 
 #### Effective Date of 1979 Amendment
 
-Section 4(c)(2) of Pub. L. 96–167 provided that: “The amendment made by subsection (b) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 29, 1979\].”
+Pub. L. 96–167, §4(c)(2), Dec. 29, 1979, 93 Stat. 1276, provided that: “The amendment made by subsection (b) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 29, 1979\].”
 
 #### Effective Date
 
-Section 7(e) of Pub. L. 93–625 provided that: “The amendments made by this section \[enacting this section and amending sections 514, 6163, 6166, 6167, 6332, 6504, 6601, 6602, 6611, 6654, 6655, and 7426 of this title and section 2411 of Title 28, Judiciary and Judicial Procedure\] shall take effect on July 1, 1975, and apply to amounts outstanding on such date or arising thereafter.”
+Pub. L. 93–625, §7(e), Jan. 3, 1975, 88 Stat. 2116, provided that: “The amendments made by this section \[enacting this section and amending sections 514, 6163, 6166, 6167, 6332, 6504, 6601, 6602, 6611, 6654, 6655, and 7426 of this title and section 2411 of Title 28, Judiciary and Judicial Procedure\] shall take effect on July 1, 1975, and apply to amounts outstanding on such date or arising thereafter.”
 
 #### Regulations
 
-Section 1511(b) of Pub. L. 99–514 provided that: “The Secretary of the Treasury or his delegate may issue regulations to coordinate section 6621 of the Internal Revenue Code of 1954 \[now 1986\] (as amended by this section) with section 6601(f) of such Code. Such regulations shall not apply to any period after the date 3 years after the date of the enactment of this Act \[Oct. 22, 1986\].”
+Pub. L. 99–514, title XV, §1511(b), Oct. 22, 1986, 100 Stat. 2744, provided that: “The Secretary of the Treasury or his delegate may issue regulations to coordinate section 6621 of the Internal Revenue Code of 1954 \[now 1986\] (as amended by this section) with section 6601(f) of such Code. Such regulations shall not apply to any period after the date 3 years after the date of the enactment of this Act \[Oct. 22, 1986\].”
 

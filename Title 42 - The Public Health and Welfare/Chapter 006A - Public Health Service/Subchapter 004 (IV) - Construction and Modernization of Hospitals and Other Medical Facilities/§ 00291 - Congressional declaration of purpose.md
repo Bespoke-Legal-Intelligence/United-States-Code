@@ -14,11 +14,11 @@ The purpose of this subchapter is—
 
 A prior section 291, act July 1, 1944, ch. 373, title VI, §601, as added Aug. 13, 1946, ch. 958, §2, 60 Stat. 1041; amended Oct. 25, 1949, ch. 722, §6, 63 Stat. 900; July 12, 1954, ch. 471, §4(a), 68 Stat. 464, related to subject matter similar to this section, prior to the general amendment of this subchapter by Pub. L. 88–443.
 
-Provisions similar to those comprising this section were contained in former section 291<i>o</i>, act July 1, 1944, ch. 373, title VI, §641, as added July 12, 1954, ch. 471, §2, 68 Stat. 461, prior to the general amendment of this subchapter by Pub. L. 88–443.
+Provisions similar to those comprising this section were contained in former section 291o, act July 1, 1944, ch. 373, title VI, §641, as added July 12, 1954, ch. 471, §2, 68 Stat. 461, prior to the general amendment of this subchapter by Pub. L. 88–443.
 
 #### Effective Date
 
-Section 3(b) of Pub. L. 88–443, as amended by Pub. L. 91–296, title I, §120, June 30, 1970, 84 Stat. 343, provided that: “The amendment made by subsection (a) \[enacting this section and sections 291a to 291j, 291k to 291m, 291n, and 291<i>o</i> of this title\] shall become effective upon the date of enactment of this Act \[Aug. 18, 1964\], except that—
+Section 3(b) of Pub. L. 88–443, as amended by Pub. L. 91–296, title I, §120, June 30, 1970, 84 Stat. 343, provided that: “The amendment made by subsection (a) \[enacting this section and sections 291a to 291j, 291k to 291m, 291n, and 291o of this title\] shall become effective upon the date of enactment of this Act \[Aug. 18, 1964\], except that—
 
 &emsp;“(1) all applications approved by the Surgeon General under title VI of the Public Health Service Act \[this subchapter\] prior to such date, and allotments of sums appropriated prior to such date, shall be governed by the provisions of such title VI in effect prior to such date;
 

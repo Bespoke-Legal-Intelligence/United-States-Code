@@ -98,7 +98,7 @@ Pub. L. 106–210, §1, May 26, 2000, 114 Stat. 321, provided that: “This Act 
 
 #### Short Title
 
-Section 1 of Pub. L. 104–272 provided that: “This Act \[enacting this chapter\] may be cited as the ‘Professional Boxing Safety Act of 1996’.”
+Pub. L. 104–272, §1, Oct. 9, 1996, 110 Stat. 3309, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Professional Boxing Safety Act of 1996’.”
 
 #### Findings
 

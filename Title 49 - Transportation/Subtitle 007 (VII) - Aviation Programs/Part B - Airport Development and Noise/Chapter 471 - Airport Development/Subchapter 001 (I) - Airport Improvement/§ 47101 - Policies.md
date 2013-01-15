@@ -50,9 +50,9 @@ National Transportation Policy.—(1) It is a goal of the United States to devel
 
 (6) Intermodality and flexibility are paramount issues in the process of developing an integrated system that will obtain the optimum yield of United States resources.
 
-(7) The United States transportation infrastructure must be reshaped to provide the economic underpinnings for the United States to compete in the 21st century global economy. The United States can no longer rely on the sheer size of its economy to dominate international economic rivals and must recognize fully that its economy is no longer a separate entity but is part of the global marketplace. The future economic prosperity of the United States depends on its ability to compete in an international marketplace that is teeming with competitors but in which a full one-quarter of theeconomic activity of the United States takes place.
+(7) The United States transportation infrastructure must be reshaped to provide the economic underpinnings for the United States to compete in the 21st century global economy. The United States can no longer rely on the sheer size of its economy to dominate international economic rivals and must recognize fully that its economy is no longer a separate entity but is part of the global marketplace. The future economic prosperity of the United States depends on its ability to compete in an international marketplace that is teeming with competitors but in which a full one-quarter of the economic activity of the United States takes place.
 
-(8) The United States must make a national commitment to rebuild its infrastructure through development of a national intermodal transportation system. The United States must provide the foundation for its industries to improve productivity and their ability to compete in the global economy with a system that will transport passengers and property in an efficient manner.
+(8) The United States must make a national commitment to rebuild its infrastructure through development of a national intermodal transportation system. The United States must provide the foundation for its industries to improve productivity and their ability to compete in the global economy with a system that willtransport passengers and property in an efficient manner.
 
 (c)
 
@@ -110,9 +110,11 @@ Goals for airport master and system plans.—Encourage airport sponsors and Stat
 
 &emsp;&emsp;(A) foster effective coordination between aviation planning and metropolitan planning;
 
-&emsp;&emsp;(B) include an evaluation of aviation needs within the context of multimodal planning; and
+&emsp;&emsp;(B) include an evaluation of aviation needs within the context of multimodal planning;
 
-&emsp;&emsp;(C) are integrated with metropolitan plans to ensure that airport development proposals include adequate consideration of land use and ground transportation access.
+&emsp;&emsp;(C) consider passenger convenience, airport ground access, and access to airport facilities; and
+
+&emsp;&emsp;(D) are integrated with metropolitan plans to ensure that airport development proposals include adequate consideration of land use and ground transportation access.
 
 &emsp;(3)
 
@@ -130,7 +132,7 @@ Consultation.—To carry out the policy of subsection (a)(6) of this section, th
 
 &emsp;(4) another factor affecting the environment.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1246; Pub. L. 103–305, title I, §§104, 110, Aug. 23, 1994, 108 Stat. 1571, 1573; Pub. L. 103–429, §6(62), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–264, title I, §141, Oct. 9, 1996, 110 Stat. 3220; Pub. L. 106–181, title I, §§121(a), (b), 137(a), Apr. 5, 2000, 114 Stat. 74, 85.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1246; Pub. L. 103–305, title I, §§104, 110, Aug. 23, 1994, 108 Stat. 1571, 1573; Pub. L. 103–429, §6(62), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–264, title I, §141, Oct. 9, 1996, 110 Stat. 3220; Pub. L. 106–181, title I, §§121(a), (b), 137(a), Apr. 5, 2000, 114 Stat. 74, 85; Pub. L. 112–95, title I, §131, Feb. 14, 2012, 126 Stat. 21.)
 
 Historical and Revision Notes
 
@@ -266,6 +268,8 @@ This amends 49:47101(a)(12) to translate a cross-reference to the Airport and Ai
 
 #### Amendments
 
+<b>2012</b>—Subsec. (g)(2)(C), (D). Pub. L. 112–95 added subpar. (C) and redesignated former subpar. (C) as (D).
+
 <b>2000</b>—Subsec. (a)(5). Pub. L. 106–181, §137(a), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “to encourage the development of transportation systems that use various modes of transportation in a way that will serve the States and local communities efficiently and effectively;”.
 
 Subsec. (a)(11). Pub. L. 106–181, §121(a), inserted “(including integrated in-pavement lighting systems for runways and taxiways and other runway and taxiway incursion prevention devices)” after “employ innovative technology”.
@@ -292,11 +296,55 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 
 #### Effective Date of 1996 Amendment
 
-Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construedas affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
+
+#### Runway Safety
+
+Pub. L. 112–95, title III, §314, Feb. 14, 2012, 126 Stat. 67, provided that:
+
+“(a)
+
+Strategic Runway Safety Plan.—
+
+&emsp;“(1)
+
+In general.—Not later than 6 months after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator of the Federal Aviation Administration shall develop and submit to Congress a report containing a strategic runway safety plan.
+
+&emsp;“(2)
+
+Contents of plan.—The strategic runway safety plan—
+
+&emsp;&emsp;“(A) shall include, at a minimum—
+
+&emsp;&emsp;&emsp;“(i) goals to improve runway safety;
+
+&emsp;&emsp;&emsp;“(ii) near- and long-term actions designed to reduce the severity, number, and rate of runway incursions, losses of standard separation, and operational errors;
+
+&emsp;&emsp;&emsp;“(iii) time frames and resources needed for the actions described in clause (ii);
+
+&emsp;&emsp;&emsp;“(iv) a continuous evaluative process to track performance toward the goals referred to in clause (i); and
+
+&emsp;&emsp;&emsp;“(v) a review with respect to runway safety of every commercial service airport (as defined in section 47102 of title 49, United States Code) in the United States and proposed action to improve airport lighting, provide better signs, and improve runway and taxiway markings at those airports; and
+
+&emsp;&emsp;“(B) shall address the increased runway safety risk associated with the expected increased volume of air traffic.
+
+“(b)
+
+Process.—Not later than 6 months after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator shall develop a process for tracking and investigating operational errors, losses of standard separation, and runway incursions that includes procedures for—
+
+&emsp;“(1) identifying who is responsible for tracking operational errors, losses of standard separation, and runway incursions, including a process for lower level employees to report to higher supervisory levels and for frontline managers to receive the information in a timely manner;
+
+&emsp;“(2) conducting periodic random audits of the oversight process; and
+
+&emsp;“(3) ensuring proper accountability.
+
+“(c)
+
+Plan for Installation and Deployment of Systems To Provide Alerts of Potential Runway Incursions.—Not later than June 30, 2012, the Administrator shall submit to Congress a report containing a plan for the installation and deployment of systems to alert air traffic controllers or flight crewmembers, or both, of potential runway incursions. The plan shall be integrated into the annual NextGen Implementation Plan of the Administration or any successor document.”
 
 #### Availability of Gates and Other Essential Services
 
@@ -312,11 +360,11 @@ Pub. L. 104–264, title I, §148, Oct. 9, 1996, 110 Stat. 3223, authorized the 
 
 #### Authority To Close Airport Located Near Closed or Realigned Military Base
 
-Section 1203 of Pub. L. 104–264 provided that: “Notwithstanding any other provision of a law, rule, or grant assurance, an airport that is not a commercial service airport may be closed by its sponsor without any obligation to repay grants made under chapter 471 of title 49, United States Code, the Airport and Airway Improvement Act of 1982 \[see References in Text note set out under section 47108 of this title\], or any other law if the airport is located within 2 miles of a United States Army depot which has been closed or realigned; except that in the case of disposal of the land associated with the airport, the part of the proceeds from the disposal that is proportional to the Government's share of the cost of acquiring the land shall be paid to the Secretary of Transportation for deposit in the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 (26 U.S.C. 9502).”
+Pub. L. 104–264, title XII, §1203, Oct. 9, 1996, 110 Stat. 3280, provided that: “Notwithstanding any other provision of a law, rule, or grant assurance, an airport that is not a commercial service airport may be closed by its sponsor without any obligation to repay grants made under chapter 471 of title 49, United States Code, the Airport and Airway Improvement Act of 1982 \[see References in Text note set out under section 47108 of this title\], or any other law if the airport is located within 2 miles of a United States Army depot which has been closed or realigned; except that in the case of disposal of the land associated with the airport, the part of the proceeds from the disposal that is proportional to the Government's share of the cost of acquiring the land shall be paid to the Secretary of Transportation for deposit in the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 (26 U.S.C. 9502).”
 
 #### Study on Innovative Financing
 
-Section 520 of Pub. L. 103–305 provided that:
+Pub. L. 103–305, title V, §520, Aug. 23, 1994, 108 Stat. 1601, provided that:
 
 “(a)
 

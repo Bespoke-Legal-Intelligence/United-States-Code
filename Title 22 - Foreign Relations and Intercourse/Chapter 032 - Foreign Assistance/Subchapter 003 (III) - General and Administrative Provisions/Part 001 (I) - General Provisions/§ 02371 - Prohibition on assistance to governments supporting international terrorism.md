@@ -84,5 +84,5 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### Self-Defense in Accordance With International Law
 
-Section 10 of Pub. L. 101–222 provided that: “The use by any government of armed force in the exercise of individual or collective self-defense in accordance with applicable international agreements and customary international law shall not be considered an act of international terrorism for purposes of the amendments made by this Act \[see Short Title of 1989 Amendment note, set out under section 2151 of this title\].”
+Pub. L. 101–222, §10, Dec. 12, 1989, 103 Stat. 1900, provided that: “The use by any government of armed force in the exercise of individual or collective self-defense in accordance with applicable international agreements and customary international law shall not be considered an act of international terrorism for purposes of the amendments made by this Act \[see Short Title of 1989 Amendment note, set out under section 2151 of this title\].”
 

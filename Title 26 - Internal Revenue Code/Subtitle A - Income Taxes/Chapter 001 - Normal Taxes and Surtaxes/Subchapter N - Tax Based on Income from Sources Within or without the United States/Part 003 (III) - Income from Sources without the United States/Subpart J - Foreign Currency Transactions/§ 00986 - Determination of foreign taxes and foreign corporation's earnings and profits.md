@@ -74,7 +74,7 @@ For purposes of determining the tax under this subtitle—
 
 #### (1) In general
 
-&emsp;Foreign currency gain or loss with respect to distributions of previously taxed earnings and profits (as described in section 959 or 1293(c))attributable to movements in exchange rates between the times of deemed and actual distribution shall be recognized and treated as ordinary income or loss from the same source as the associated income inclusion.
+&emsp;Foreign currency gain or loss with respect to distributions of previously taxed earnings and profits (as described in section 959 or 1293(c)) attributable to movements in exchange rates between the times of deemed and actual distribution shall be recognized and treated as ordinary income or loss from the same source as the associated income inclusion.
 
 #### (2) Distributions through tiers
 
@@ -126,7 +126,7 @@ Pub. L. 108–357, title IV, §408(c), Oct. 22, 2004, 118 Stat. 1500, provided t
 
 #### Effective Date of 1997 Amendment
 
-Section 1102(c)(1) of Pub. L. 105–34 provided that: “The amendments made by subsections (a)(1) and (b) \[amending this section and section 989 of this title\] shall apply to taxes paid or accrued in taxable years beginning after December 31, 1997.”
+Pub. L. 105–34, title XI, §1102(c)(1), Aug. 5, 1997, 111 Stat. 966, provided that: “The amendments made by subsections (a)(1) and (b) \[amending this section and section 989 of this title\] shall apply to taxes paid or accrued in taxable years beginning after December 31, 1997.”
 
 #### Effective Date of 1988 Amendment
 

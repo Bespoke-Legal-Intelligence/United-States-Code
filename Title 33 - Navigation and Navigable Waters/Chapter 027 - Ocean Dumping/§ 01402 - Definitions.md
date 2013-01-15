@@ -24,7 +24,7 @@ For the purposes of this Act the term—
 
 (k) “Medical waste” means isolation wastes; infectious agents; human blood and blood products; pathological wastes; sharps; body parts; contaminated bedding; surgical wastes and potentially contaminated laboratory wastes; dialysis wastes; and such additional medical items as the Administrator shall prescribe by regulation.
 
-(<i>l</i>) “Transport” or “transportation” refers to the carriage and related handling of any material by a vessel, or by any other vehicle, including aircraft.
+(l) “Transport” or “transportation” refers to the carriage and related handling of any material by a vessel, or by any other vehicle, including aircraft.
 
 (m) “Convention” means the Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter.
 
@@ -42,11 +42,11 @@ The Atomic Energy Act of 1954, as amended, referred to in subsec. (f), is act Au
 
 #### Amendments
 
-<b>1988</b>—Subsecs. (k) to (m). Pub. L. 100–688 added subsec. (k) and redesignated former subsecs. (k) and (<i>l</i>) as (<i>l</i>) and (m), respectively.
+<b>1988</b>—Subsecs. (k) to (m). Pub. L. 100–688 added subsec. (k) and redesignated former subsecs. (k) and (l) as (l) and (m), respectively.
 
 <b>1974</b>—Subsec. (c). Pub. L. 93–254, §1(2)(A), substituted “sewage from vessels within the meaning of section 1322 of this title. Oil within the meaning of section 1321 of this title shall be included only to the extent that such oil is taken on board a vessel or aircraft for the purpose of dumping.” for “oil within the meaning of section 11 of the Federal Water Pollution Control Act and does not mean sewage from vessels within the meaning of section 13 of such Act.”
 
-Subsec. (<i>l</i>). Pub. L. 93–254, §1(2)(C), added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 93–254, §1(2)(C), added subsec. (l).
 
 #### Effective Date of 1974 Amendment
 

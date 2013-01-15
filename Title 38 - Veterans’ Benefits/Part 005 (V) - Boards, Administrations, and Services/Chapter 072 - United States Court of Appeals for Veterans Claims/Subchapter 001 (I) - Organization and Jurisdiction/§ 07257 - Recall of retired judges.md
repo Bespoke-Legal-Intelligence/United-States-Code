@@ -40,5 +40,5 @@ Subsec. (d). Pub. L. 110–389, §603(b)(3), amended subsec. (d) generally. Prio
 
 “(d)(1) The pay of a recall-eligible retired judge who retired under section 7296 of this title is specified in subsection (c) of that section.
 
-“(2) A judge who is recalled under this section who retired under chapter 83 or 84 of title 5 shall be paid, during the period for which the judge serves in recall status, pay at the rate of pay in effect under section 7253(e) of this title for a judge performing active service, less the amount of the judge's annuity under the applicable provisions of chapter 83 or 84 of title 5.”
+“(2) A judge who is recalled under this section who retired under chapter 83 or 84 of title 5 shall be paid,during the period for which the judge serves in recall status, pay at the rate of pay in effect under section 7253(e) of this title for a judge performing active service, less the amount of the judge's annuity under the applicable provisions of chapter 83 or 84 of title 5.”
 

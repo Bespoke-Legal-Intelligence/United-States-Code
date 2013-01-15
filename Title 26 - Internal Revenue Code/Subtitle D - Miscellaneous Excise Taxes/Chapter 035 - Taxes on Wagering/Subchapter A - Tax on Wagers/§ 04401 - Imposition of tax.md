@@ -32,13 +32,13 @@ Each person who is engaged in the business of accepting wagers shall be liable f
 
 #### Effective Date of 1982 Amendment
 
-Section 109(c)(1) of Pub. L. 97–362 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 1983.”
+Pub. L. 97–362, title I, §109(c)(1), Oct. 25, 1982, 96 Stat. 1731, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 1983.”
 
 #### Effective Date of 1974 Amendment
 
-Section 3(d)(1) of Pub. L. 93–499 provided that: “The amendments made by this section \[enacting section 4424 and amending this section and section 4411 of this title\] take effect on December 1, 1974, and shall apply only with respect to wagers placed on or after such date.”
+Pub. L. 93–499, §3(d)(1), Oct. 29, 1974, 88 Stat. 1551, provided that: “The amendments made by this section \[enacting section 4424 and amending this section and section 4411 of this title\] take effect on December 1, 1974, and shall apply only with respect to wagers placed on or after such date.”
 
 #### Effective Date of 1958 Amendment
 
-Section 151(b) of Pub. L. 85–859 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to wagers received after the date of the enactment of this Act \[Sept. 2, 1958\].”
+Pub. L. 85–859, title I, §151(b), Sept. 2, 1958, 72 Stat. 1304, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to wagers received after the date of the enactment of this Act \[Sept. 2, 1958\].”
 

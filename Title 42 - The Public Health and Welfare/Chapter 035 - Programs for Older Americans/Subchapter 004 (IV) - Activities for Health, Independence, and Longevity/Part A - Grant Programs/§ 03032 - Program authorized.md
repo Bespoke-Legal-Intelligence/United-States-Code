@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For the purpose of carrying out this section, the Assistant Secretary may make grants to andenter into contracts with States, public agencies, private nonprofit agencies, institutions of higher education, and organizations, including tribal organizations, for—
+For the purpose of carrying out this section, the Assistant Secretary may make grants to and enter into contracts with States, public agencies, private nonprofit agencies, institutions of higher education, and organizations, including tribal organizations, for—
 
 &emsp;(1) education and training to develop an adequately trained workforce to work with and on behalf of older individuals;
 

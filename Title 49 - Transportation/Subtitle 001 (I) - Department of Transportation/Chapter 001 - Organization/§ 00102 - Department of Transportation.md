@@ -12,7 +12,25 @@
 
 (d) The Department has an Under Secretary of Transportation for Policy appointed by the President, by and with the advice and consent of the Senate. The Under Secretary shall provide leadership in the development of policy for the Department, supervise the policy activities of Assistant Secretaries with primary responsibility for aviation, international, and other transportation policy development and carry out other powers and duties prescribed by the Secretary. The Under Secretary acts for the Secretary when the Secretary and the Deputy Secretary are absent or unable to serve, or when the offices of Secretary and Deputy Secretary are vacant.
 
-(e) The Department has 4 Assistant Secretaries and a General Counsel appointed by the President, by and with the advice and consent of the Senate. The Department also has an Assistant Secretary of Transportation for Administration appointed in the competitive service by the Secretary, with the approval of the President. They shall carry out duties and powers prescribed by the Secretary. An Assistant Secretary or the General Counsel, in the order prescribed by the Secretary, acts for the Secretary when the Secretary, Deputy Secretary, and Under Secretary of Transportation for Policy are absent or unable to serve, or when the offices of the Secretary, Deputy Secretary, and Under Secretary of Transportation for Policy are vacant.
+(e)
+
+Assistant Secretaries; General Counsel.—
+
+&emsp;(1)
+
+Appointment.—The Department has 5 Assistant Secretaries and a General Counsel, including—
+
+&emsp;&emsp;(A) an Assistant Secretary for Aviation and International Affairs, an Assistant Secretary for Governmental Affairs, and an Assistant Secretary for Transportation Policy, who shall each be appointed by the President, with the advice and consent of the Senate;
+
+&emsp;&emsp;(B) an Assistant Secretary for Budget and Programs who shall be appointed by the President;
+
+&emsp;&emsp;(C) an Assistant Secretary for Administration, who shall be appointed by the Secretary, with the approval of the President; and
+
+&emsp;&emsp;(D) a General Counsel, who shall be appointed by the President, with the advice and consent of the Senate.
+
+&emsp;(2)
+
+Duties and powers.—The officers set forth in paragraph (1) shall carry out duties and powers prescribed by the Secretary. An Assistant Secretary or the General Counsel, in the order prescribed by the Secretary, acts for the Secretary when the Secretary, Deputy Secretary, and Under Secretary of Transportation for Policy are absent or unable to serve, or when the offices of the Secretary, Deputy Secretary, and Under Secretary of Transportation for Policy are vacant.
 
 (f)
 
@@ -52,7 +70,7 @@ Clearinghouse.—The Office shall establish a clearinghouse of solutions, includ
 
 (h) The Department shall have a seal that shall be judicially recognized.
 
-(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2414; Pub. L. 98–557, §26(a), Oct. 30, 1984, 98 Stat. 2873; Pub. L. 103–272, §4(j)(1), July 5, 1994, 108 Stat. 1365; Pub. L. 107–295, title II, §215(a), (c), Nov. 25, 2002, 116 Stat. 2101, 2102; Pub. L. 109–59, title I, §1119(<i>l</i>), Aug. 10, 2005, 119 Stat. 1189; Pub. L. 110–140, title XI, §1101(a), Dec. 19, 2007, 121 Stat. 1756.)
+(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2414; Pub. L. 98–557, §26(a), Oct. 30, 1984, 98 Stat. 2873;Pub. L. 103–272, §4(j)(1), July 5, 1994, 108 Stat. 1365; Pub. L. 107–295, title II, §215(a), (c), Nov. 25, 2002, 116 Stat. 2101, 2102; Pub. L. 109–59, title I, §1119(l), Aug. 10, 2005, 119 Stat. 1189; Pub. L. 110–140, title XI, §1101(a), Dec. 19, 2007, 121 Stat. 1756; Pub. L. 112–166, §2(k)(1), Aug. 10, 2012, 126 Stat. 1286.)
 
 Historical and Revision Notes
 
@@ -102,6 +120,8 @@ In subsection (e), the words “The Secretary shall cause a . . . of office”
 
 #### Amendments
 
+<b>2012</b>—Subsec. (e). Pub. L. 112–166 substituted subsec. (e) designation and heading, par. (1), par. (2) designation and heading, and “The officers set forth in paragraph (1) shall carry out duties and powers prescribed by the Secretary. An Assistant Secretary” for “(e) The Department has 4 Assistant Secretaries and a General Counsel appointed by the President, by and with the advice and consent of the Senate. The Department also has an Assistant Secretary of Transportation for Administration appointed in the competitive service by the Secretary, with the approval of the President. They shall carry out duties and powers prescribed by the Secretary. An Assistant Secretary”.
+
 <b>2007</b>—Subsecs. (g), (h). Pub. L. 110–140 added subsec. (g) and redesignated former subsec. (g) as (h).
 
 <b>2005</b>—Subsecs. (f), (g). Pub. L. 109–59, which directed amendment of this section by adding subsec. (f) and redesignating former subsecs. (f) and (g) as (g) and (h), respectively, was executed by adding subsec. (f) and redesignating former subsec. (f) as (g), to reflect the probable intent of Congress. See 2002 Amendment note below.
@@ -117,6 +137,10 @@ Pub. L. 107–295, §215(a)(1), redesignated subsec. (d) as (g).
 <b>1994</b>—Subsecs. (e), (f). Pub. L. 103–272 redesignated subsec. (e), relating to judicial recognition of Department seal, as (f).
 
 <b>1984</b>—Subsecs. (d), (e). Pub. L. 98–557 added subsec. (d) and redesignated former subsec. (d), relating to Assistant Secretaries and General Counsel, as (e).
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under section 113 of Title 6, Domestic Security.
 
 #### Effective Date of 2007 Amendment
 
@@ -140,7 +164,7 @@ Pub. L. 109–59, title V, §5510, Aug. 10, 2005, 119 Stat. 1828, provided that:
 
 “(a)
 
-Notice of Reprogramming.—If any funds authorized for carrying out this title \[see Tables for classification\] or the amendments made by this title are subject to a reprogramming action that requires notice to be provided to the Committees on Appropriations, Transportation and Infrastructure, and Science \[now Science, Space, and Technology\] of the House of Representatives and the Committees on Appropriations and Environment and Public Works of the Senate, notice of that action shall be concurrently provided to the Committee of Transportation and Infrastructure and the Committee on Science \[now Committee on Science, Space, and Technology\] of the House of Representatives and the Committee on Environment and Public Works of the Senate.
+Notice of Reprogramming.—If any funds authorized for carrying out this title \[see Tables for classification\] or the amendments made by this title are subject to a reprogramming action that requires notice to be provided to the Committees on Appropriations,Transportation and Infrastructure, and Science \[now Science, Space, and Technology\] of the House of Representatives and the Committees on Appropriations and Environment and Public Works of the Senate, notice of that action shall be concurrently provided to the Committee of Transportation and Infrastructure and the Committee on Science \[now Committee on Science, Space, and Technology\] of the House of Representatives and the Committee on Environment and Public Works of the Senate.
 
 “(b)
 
@@ -150,7 +174,7 @@ Pub. L. 105–178, title V, §5003, June 9, 1998, 112 Stat. 422, provided that:
 
 “(a)
 
-Notice of Reprogramming.—If any funds authorized for carrying out this title \[see Tables for classification\] or the amendments made by this title are subject to a reprogramming action that requires notice to be provided to the Committees on Appropriations of the House of Representatives and the Senate, notice of such action shall concurrently be provided to the Committee on Transportation and Infrastructure and theCommittee on Science \[now Committee on Science, Space, and Technology\] of the House of Representatives and the Committee on Environment and Public Works of the Senate.
+Notice of Reprogramming.—If any funds authorized for carrying out this title \[see Tables for classification\] or the amendments made by this title are subject to a reprogramming action that requires notice to be provided to the Committees on Appropriations of the House of Representatives and the Senate, notice of such action shall concurrently be provided to the Committee on Transportation and Infrastructure and the Committee on Science \[now Committee on Science, Space, and Technology\] of the House of Representatives and the Committee on Environment and Public Works of the Senate.
 
 “(b)
 
@@ -170,7 +194,7 @@ Report.—The Secretary shall report to Congress on the findings of the study co
 
 #### Person Holding Position of Associate Deputy Secretary Until April 15, 1985
 
-Section 26(c) of Pub. L. 98–557 provided that: “Notwithstanding any other provision of law, until April 15, 1985, the position created by subsection (a) of this section \[adding subsec. (d) of this section\] may be held by a person named by the President alone from among qualified individuals.”
+Pub. L. 98–557, §26(c), Oct. 30, 1984, 98 Stat. 2873, provided that: “Notwithstanding any other provision of law, until April 15, 1985, the position created by subsection (a) of this section \[adding subsec. (d) of this section\] may be held by a person named by the President alone from among qualified individuals.”
 
 #### Ex. Ord. No. 11340. Effective Date
 

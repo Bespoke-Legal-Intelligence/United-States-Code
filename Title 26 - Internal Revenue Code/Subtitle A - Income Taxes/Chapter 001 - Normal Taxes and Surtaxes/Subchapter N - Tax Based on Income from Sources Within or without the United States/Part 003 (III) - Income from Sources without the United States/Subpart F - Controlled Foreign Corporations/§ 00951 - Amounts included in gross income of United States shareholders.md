@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(B) the amount of distributions received by any other person during such year as a dividend with respect to such stock, but only to the extent of the dividend which would have been received if the distribution by the corporation had been the amount (i) which bears the same ratio to the subpart F income of such corporation for the taxable year, as (ii) the part of such year during which such shareholder did not own (within the meaning of section 958(a)) such stock bears to the entire year.
 
-> &emsp;For purposes of subparagraph (B), any gain included in the gross income of any person as adividend under section 1248 shall be treated as a distribution received by such person with respect to the stock involved.
+> &emsp;For purposes of subparagraph (B), any gain included in the gross income of any person as a dividend under section 1248 shall be treated as a distribution received by such person with respect to the stock involved.
 
 #### (3) Limitation on pro rata share of previously excluded subpart F income withdrawn from investment
 
@@ -98,7 +98,7 @@ Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporatio
 
 #### Effective Date of 1997 Amendment
 
-Section 1112(a)(2) of Pub. L. 105–34 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to dispositions after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title XI, §1112(a)(2), Aug. 5, 1997, 111 Stat. 969, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to dispositions after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 #### Effective Date of 1996 Amendment
 
@@ -106,9 +106,9 @@ Amendment by Pub. L. 104–188 applicable to taxable years of foreign corporatio
 
 #### Effective Date of 1993 Amendment
 
-Section 13231(e) of Pub. L. 103–66 provided that: “The amendments made by this section \[enacting section 956A of this title and amending this section and sections 959, 989, 1293, 1296, and 1297 of this title\] shall apply to taxable years of foreign corporations beginning after September 30, 1993, and to taxable years of United States shareholders in which or with which such taxable years of foreign corporations end.”
+Pub. L. 103–66, title XIII, §13231(e), Aug. 10, 1993, 107 Stat. 501, provided that: “The amendments made bythis section \[enacting section 956A of this title and amending this section and sections 959, 989, 1293, 1296, and 1297 of this title\] shall apply to taxable years of foreign corporations beginning after September 30, 1993, and to taxable years of United States shareholders in which or with which such taxable years of foreign corporations end.”
 
-Section 13232(d) of Pub. L. 103–66 provided that: “The amendments made by this section \[amending this section and section 956 of this title\] shall apply to taxable years of controlled foreign corporations beginning after September 30, 1993, and to taxable years of United States shareholders in which or with which such taxable years of controlled foreign corporations end.”
+Pub. L. 103–66, title XIII, §13232(d), Aug. 10, 1993, 107 Stat. 502, provided that: “The amendments made by this section \[amending this section and section 956 of this title\] shall apply to taxable years of controlled foreign corporations beginning after September 30, 1993, and to taxable years of United States shareholders in which or with which such taxable years of controlled foreign corporations end.”
 
 #### Effective Date of 1988 Amendment
 
@@ -122,7 +122,7 @@ Amendment by section 1876(c)(2) of Pub. L. 99–514 effective, except as otherwi
 
 #### Effective Date of 1984 Amendment
 
-Section 132(d)(2)(A) of Pub. L. 98–369 provided that: “The amendment made by paragraph (1) of subsection (c) \[amending this section\] shall apply to taxable years of United States shareholders beginning after the date of the enactment of this Act \[July 18, 1984\].”
+Pub. L. 98–369, div. A, title I, §132(d)(2)(A), July 18, 1984, 98 Stat. 667, provided that: “The amendment made by paragraph (1) of subsection (c) \[amending this section\] shall apply to taxable years of United States shareholders beginning after the date of the enactment of this Act \[July 18, 1984\].”
 
 Amendment by section 801(d)(4) of Pub. L. 98–369 applicable to transactions after Dec. 31, 1984, in taxable years ending after such date, see section 805(a)(1) of Pub. L. 98–369, as amended, set out as a note under section 245 of this title.
 
@@ -132,7 +132,7 @@ Amendment by Pub. L. 94–12 applicable to taxable years of foreign corporations
 
 #### Effective Date
 
-Section 12(c) of Pub. L. 87–834 provided that: “The amendments made by this section \[enacting this section and sections 952 to 964 and 970 to 972 of this title and amending sections 901, 904, and 1016 of this title\] shall apply with respect to taxable years of foreign corporations beginning after December 31, 1962, and to taxable year of United States shareholders within which or with which such taxable years of such foreign corporations end.”
+Pub. L. 87–834, §12(c), Oct. 16, 1962, 76 Stat. 1031, provided that: “The amendments made by this section \[enacting this section and sections 952 to 964 and 970 to 972 of this title and amending sections 901, 904, and 1016 of this title\] shall apply with respect to taxable years of foreign corporations beginning after December 31, 1962, and to taxable year of United States shareholders within which or with which such taxable years of such foreign corporations end.”
 
 #### Plan Amendments Not Required Until January 1, 1989
 

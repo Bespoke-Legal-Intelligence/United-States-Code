@@ -18,7 +18,7 @@ In this part—
 
 &emsp;“law enforcement position” means employment as an officer in a State or local police force, or correctional institution.
 
-&emsp;“State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, American Samoa, Guam, and the Commonwealth of the Northern Mariana Islands.
+&emsp;“State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, American Samoa, Guam, andthe Commonwealth of the Northern Mariana Islands.
 
 (Pub. L. 103–322, title XX, §200202, Sept. 13, 1994, 108 Stat. 2057; Pub. L. 105–244, title I, §102(a)(13)(P), Oct. 7, 1998, 112 Stat. 1621.)
 

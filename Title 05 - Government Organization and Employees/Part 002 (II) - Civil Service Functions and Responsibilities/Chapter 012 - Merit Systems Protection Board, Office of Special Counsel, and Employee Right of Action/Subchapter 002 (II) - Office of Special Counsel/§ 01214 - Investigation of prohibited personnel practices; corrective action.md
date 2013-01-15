@@ -12,7 +12,7 @@
 
 &emsp;(i) within 90 days after notice is provided under subparagraph (B), notify the person who made the allegation of the status of the investigation and any action taken by the Office of the Special Counsel since the filing of the allegation;
 
-&emsp;(ii) notify such person of the status of the investigation and any action taken by the Office of the Special Counsel since the last notice, atleast every 60 days after notice is given under clause (i); and
+&emsp;(ii) notify such person of the status of the investigation and any action taken by the Office of the Special Counsel since the last notice, at least every 60 days after notice is given under clause (i); and
 
 &emsp;(iii) notify such person of the status of the investigation and any action taken by the Special Counsel at such time as determined appropriate by the Special Counsel.
 
@@ -30,7 +30,7 @@
 
 (B) A written statement under subparagraph (A) may not be admissible as evidence in any judicial or administrative proceeding, without the consent of the person who received such statement under subparagraph (A).
 
-(3) Except in a case in which an employee, former employee, or applicant for employment has the right to appeal directly to the Merit Systems Protection Board under any law, rule, or regulation, any such employee, former employee, or applicant shall seek corrective action from the Special Counsel before seeking corrective action from the Board. An employee, former employee, or applicant for employment may seek corrective action from the Board under section 1221, if such employee, former employee, or applicant seeks corrective action for a prohibited personnel practice described in section 2302(b)(8) from the Special Counsel and—
+(3) Except in a case in which an employee, former employee, or applicant for employment has the right to appeal directly to the Merit Systems Protection Board under any law, rule, or regulation, any such employee, former employee, or applicant shall seek corrective action from the Special Counsel before seeking corrective action from the Board. An employee, former employee, or applicant for employment may seek corrective action from the Board under section 1221, if such employee, former employee, or applicant seeks corrective action for a prohibited personnel practice described in section 2302(b)(8) or section 2302(b)(9)(A)(i), (B), (C), or (D) from the Special Counsel and—
 
 &emsp;(A)(i) the Special Counsel notifies such employee, former employee, or applicant that an investigation concerning such employee, former employee, or applicant has been terminated; and
 
@@ -44,7 +44,7 @@
 
 (b)(1)(A)(i) The Special Counsel may request any member of the Merit Systems Protection Board to order a stay of any personnel action for 45 days if the Special Counsel determines that there are reasonable grounds to believe that the personnel action was taken, or is to be taken, as a result of a prohibited personnel practice.
 
-(ii) Any member of the Board requested by the Special Counsel to order a stay under clause (i) shall order such stay unless the member determines that, under the facts and circumstances involved, such a stay would not be appropriate.
+(ii) Any member of the Board requested by the Special Counsel to order a stay under clause (i)shall order such stay unless the member determines that, under the facts and circumstances involved, such a stay would not be appropriate.
 
 (iii) Unless denied under clause (ii), any stay under this subparagraph shall be granted within 3 calendar days (excluding Saturdays, Sundays, and legal holidays) after the date of the request for the stay by the Special Counsel.
 
@@ -62,7 +62,7 @@
 
 (ii) If the Special Counsel is unable to make the required determination within the 240-day period specified under clause (i) and the person submitting the allegation of a prohibited personnel practice agrees to an extension of time, the determination shall be made within such additional period of time as shall be agreed upon between the Special Counsel and the person submitting the allegation.
 
-(B) If, in connection with any investigation, the Special Counsel determines that there are reasonable grounds to believe that a prohibited personnel practice has occurred, exists, or is to be taken which requires corrective action, theSpecial Counsel shall report the determination together with any findings or recommendations to the Board, the agency involved and to the Office of Personnel Management, and may report such determination, findings and recommendations to the President. The Special Counsel may include in the report recommendations for corrective action to be taken.
+(B) If, in connection with any investigation, the Special Counsel determines that there are reasonable grounds to believe that a prohibited personnel practice has occurred, exists, or is to be taken which requires corrective action, the Special Counsel shall report the determination together with any findings or recommendations to the Board, the agency involved and to the Office of Personnel Management, and may report such determination, findings and recommendations to the President. The Special Counsel may include in the report recommendations for corrective action to be taken.
 
 (C) If, after a reasonable period of time, the agency does not act to correct the prohibited personnel practice, the Special Counsel may petition the Board for corrective action.
 
@@ -76,11 +76,11 @@
 
 &emsp;(B) written comments by any individual who alleges to be the subject of the prohibited personnel practice.
 
-(4)(A) The Board shall order such corrective action as the Board considers appropriate, if the Board determines that the Special Counsel has demonstrated that a prohibited personnel practice, other than one described in section 2302(b)(8), has occurred, exists, or is to be taken.
+(4)(A) The Board shall order such corrective action as the Board considers appropriate, if the Board determines that the Special Counsel has demonstrated that a prohibited personnel practice, other than one described in section 2302(b)(8) or section 2302(b)(9)(A)(i), (B), (C), or (D), has occurred, exists, or is to be taken.
 
-(B)(i) Subject to the provisions of clause (ii), in any case involving an alleged prohibited personnel practice as described under section 2302(b)(8), the Board shall order such corrective action as the Board considers appropriate if the Special Counsel has demonstrated that a disclosure described under section 2302(b)(8) was a contributing factor in the personnel action which was taken or is to be taken against the individual.
+(B)(i) Subject to the provisions of clause (ii), in any case involving an alleged prohibited personnel practice as described under section 2302(b)(8) or section 2302(b)(9)(A)(i), (B), (C), or (D), the Board shall order such corrective action as the Board considers appropriate if the Special Counsel has demonstrated that a disclosure or protected activity described under section 2302(b)(8) or section 2302(b)(9)(A)(i), (B), (C), or (D) was a contributing factor in the personnel action which was taken or is to be taken against the individual.
 
-(ii) Corrective action under clause (i) may not be ordered if the agency demonstrates by clear and convincing evidence that it would have taken the same personnel action in the absence of such disclosure.
+(ii) Corrective action under clause (i) may not be ordered if, after a finding that a protected disclosure was a contributing factor, the agency demonstrates by clear and convincing evidence that it would have taken the same personnel action in the absence of such disclosure.
 
 (c)(1) Judicial review of any final order or decision of the Board under this section may be obtained by any employee, former employee, or applicant for employment adversely affected by such order or decision.
 
@@ -106,11 +106,23 @@
 
 &emsp;(1) that the individual be placed, as nearly as possible, in the position the individual would have been in had the prohibited personnel practice not occurred; and
 
-&emsp;(2) reimbursement for attorney's fees, back pay and related benefits, medical costs incurred, travel expenses, and any other reasonable and foreseeable consequential damages.
+&emsp;(2) reimbursement for attorney's fees, back pay and related benefits, medical costs incurred, travel expenses, any other reasonable and foreseeable consequential damages, and compensatory damages (including interest, reasonable expert witness fees, and costs).
 
-(Added Pub. L. 101–12, §3(a)(13), Apr. 10, 1989, 103 Stat. 23; amended Pub. L. 103–424, §§3(c), (d), 8(a), Oct. 29, 1994, 108 Stat. 4362, 4364.)
+(h) Any corrective action ordered under this section to correct a prohibited personnel practice may include fees, costs, or damages reasonably incurred due to an agency investigation of the employee, if such investigation was commenced, expanded, or extended in retaliation for the disclosure or protected activity that formed the basis of the corrective action.
+
+(Added Pub. L. 101–12, §3(a)(13), Apr. 10, 1989, 103 Stat. 23; amended Pub. L. 103–424, §§3(c), (d), 8(a), Oct. 29, 1994, 108 Stat. 4362, 4364; Pub. L. 112–199, title I, §§101(b)(1)(A), (2)(A), 104(c)(1), 107(b), 114(a), Nov. 27, 2012, 126 Stat. 1465, 1468, 1469, 1472.)
 
 #### Amendments
+
+<b>2012</b>—Subsecs. (a)(3), (b)(4)(A). Pub. L. 112–199, §101(b)(1)(A), inserted “or section 2302(b)(9)(A)(i), (B), (C), or (D)” after “section 2302(b)(8)”.
+
+Subsec. (b)(4)(B)(i). Pub. L. 112–199, §101(b)(1)(A), (2)(A), inserted “or section 2302(b)(9)(A)(i), (B), (C), or (D)” after “section 2302(b)(8)” in two places and inserted “or protected activity” after “disclosure”.
+
+Subsec. (b)(4)(B)(ii). Pub. L. 112–199, §114(a), inserted “, after a finding that a protected disclosure was a contributing factor,” after “ordered if”.
+
+Subsec. (g)(2). Pub. L. 112–199, §107(b), substituted “any other reasonable and foreseeable consequential damages, and compensatory damages (including interest, reasonable expert witness fees, and costs).” for “and any other reasonable and foreseeable consequential damages.”
+
+Subsec. (h). Pub. L. 112–199, §104(c)(1), added subsec. (h).
 
 <b>1994</b>—Subsec. (a)(1)(D). Pub. L. 103–424, §3(c)(1), added subpar. (D).
 
@@ -120,7 +132,11 @@ Subsec. (b)(2). Pub. L. 103–424, §3(d), added subpars. (A) and (E) and redesi
 
 Subsec. (g). Pub. L. 103–424, §8(a), added subsec. (g).
 
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–199 effective 30 days after Nov. 27, 2012, see section 202 of Pub. L. 112–199, set out as a note under section 1204 of this title.
+
 #### Termination Statement
 
-Section 12(b) of Pub. L. 103–424 provided that: “The Special Counsel shall include in any letter terminating an investigation under section 1214(a)(2) of title 5, United States Code, the name and telephone number of an employee of the Special Counsel who is available to respond to reasonable questions from the person regarding the investigation or review conducted by the Special Counsel, the relevant facts ascertained by the Special Counsel, and the law applicable to the person's allegations.”
+Pub. L. 103–424, §12(b), Oct. 29, 1994, 108 Stat. 4367, provided that: “The Special Counsel shall include in any letter terminating an investigation under section 1214(a)(2) of title 5, United States Code, the name and telephone number of an employee of the Special Counsel who is available to respond to reasonable questions from the person regarding the investigation or review conducted by the Special Counsel, the relevant facts ascertained by the Special Counsel, and the law applicable to the person's allegations.”
 

@@ -12,7 +12,7 @@ As used in this subchapter:
 
 > whether such application be by injection, inhalation, ingestion, or any other means.
 
-(3) The term “agent” means an authorized person who acts on behalf of or at the direction of a manufacturer, distributor, or dispenser; except that such term does not include a common or contract carrier, public warehouseman, or employee of the carrier or warehouseman, whenacting in the usual and lawful course of the carrier's or warehouseman's business.
+(3) The term “agent” means an authorized person who acts on behalf of or at the direction of a manufacturer, distributor, or dispenser; except that such term does not include a common or contract carrier, public warehouseman, or employee of the carrier or warehouseman, when acting in the usual and lawful course of the carrier's or warehouseman's business.
 
 (4) The term “Drug Enforcement Administration” means the Drug Enforcement Administration in the Department of Justice.
 
@@ -46,7 +46,7 @@ As used in this subchapter:
 
 (15) The term “manufacture” means the production, preparation, propagation, compounding, or processing of a drug or other substance, either directly or indirectly or by extraction from substances of natural origin, or independently by means of chemical synthesis or by a combination of extraction and chemical synthesis, and includes any packaging or repackaging of such substance or labeling or relabeling of its container; except that such term does not include the preparation, compounding, packaging, or labeling of a drug or other substance in conformity with applicable State or local law by a practitioner as an incident to his administration or dispensing of such drug or substance in the course of his professional practice. The term “manufacturer” means a person who manufactures a drug or other substance.
 
-(16) The term “marihuana” means all parts of the plant Cannabis sativa L., whether growing or not; the seeds thereof; the resin extracted from any part of such plant; and every compound, manufacture, salt, derivative, mixture, or preparation of such plant, its seeds or resin. Such term does not include the mature stalks of such plant, fiber produced from such stalks, oil or cake made from the seeds of such plant, any other compound, manufacture, salt, derivative, mixture, or preparation of such mature stalks (except the resin extracted therefrom), fiber, oil, or cake, or the sterilized seed of such plant which is incapable of germination.
+(16) The term “marihuana” means all parts of the plant Cannabis sativa L., whether growingor not; the seeds thereof; the resin extracted from any part of such plant; and every compound, manufacture, salt, derivative, mixture, or preparation of such plant, its seeds or resin. Such term does not include the mature stalks of such plant, fiber produced from such stalks, oil or cake made from the seeds of such plant, any other compound, manufacture, salt, derivative, mixture, or preparation of such mature stalks (except the resin extracted therefrom), fiber, oil, or cake, or the sterilized seed of such plant which is incapable of germination.
 
 (17) The term “narcotic drug” means any of the following whether produced directly or indirectly by extraction from substances of vegetable origin, or independently by means of chemical synthesis, or by a combination of extraction and chemical synthesis:
 
@@ -108,7 +108,7 @@ As used in this subchapter:
 
 &emsp;(ii) which has a stimulant, depressant, or hallucinogenic effect on the central nervous system that is substantially similar to or greater than the stimulant, depressant, or hallucinogenic effect on the central nervous system of a controlled substance in schedule I or II; or
 
-&emsp;(iii) with respect to a particular person, which such person represents or intends to have a stimulant, depressant, or hallucinogenic effect on the central nervous system that is substantially similar to or greater than the stimulant, depressant, or hallucinogenic effect on the central nervous system of a controlled substance in schedule I or II.
+&emsp;(iii) with respect to a particular person, which such person represents or intends to have a stimulant, depressant, or hallucinogenic effect on the central nervous system that is substantially similar to or greater than the stimulant, depressant, or hallucinogeniceffect on the central nervous system of a controlled substance in schedule I or II.
 
 (B) The designation of gamma butyrolactone or any other chemical as a listed chemical pursuant to paragraph (34) or (35) does not preclude a finding pursuant to subparagraph (A) of this paragraph that the chemical is a controlled substance analogue.
 
@@ -360,7 +360,7 @@ As used in this subchapter:
 
 &emsp;(xlx) <sup>1</sup> any salt, ester, or ether of a drug or substance described in this paragraph.
 
-> The substances excluded under this subparagraph may at any time be scheduled by the Attorney General in accordance with the authorityand requirements of subsections (a) through (c) of section 811 of this title.
+> The substances excluded under this subparagraph may at any time be scheduled by the Attorney General in accordance with the authority and requirements of subsections (a) through (c) of section 811 of this title.
 
 (B)(i) Except as provided in clause (ii), such term does not include an anabolic steroid which is expressly intended for administration through implants to cattle or other nonhuman species and which has been approved by the Secretary of Health and Human Services for such administration.
 
@@ -422,7 +422,7 @@ As used in this subchapter:
 
 &emsp;&emsp;(iv) a health care facility owned or operated by an Indian tribe or tribal organization, only to the extent such facility is carrying out a contract or compact under the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\];
 
-&emsp;&emsp;(v) any agent or employee of any hospital or facility referred to in clause (iii) or (iv), provided such agent or employee is lawfully acting in the usual course of business or employment, and within the scope of the official duties of such agent or employee, with such hospital or facility, and, with respectto agents or employees of health care facilities specified in clause (iv), only to the extent such individuals are furnishing services pursuant to the contracts or compacts described in such clause;
+&emsp;&emsp;(v) any agent or employee of any hospital or facility referred to in clause (iii) or (iv), provided such agent or employee is lawfully acting in the usual course of business or employment, and within the scope of the official duties of such agent or employee, with such hospital or facility, and, with respect to agents or employees of health care facilities specified in clause (iv), only to the extent such individuals are furnishing services pursuant to the contracts or compacts described in such clause;
 
 &emsp;&emsp;(vi) mere advertisements that do not attempt to facilitate an actual transaction involving a controlled substance;
 
@@ -478,7 +478,7 @@ As used in this subchapter:
 
 &emsp;(C) is being conducted by a practitioner—
 
-&emsp;&emsp;(i) who is an employee or contractor of the Indian Health Service, or is working for an Indian tribe or tribal organization under its contract or compact with the Indian Health Service under the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\];
+&emsp;&emsp;(i) who is an employee or contractor of the Indian Health Service, or is working for an Indian tribe or tribal organization under its contract or compact with the Indian Health Service under the Indian Self-Determinationand Education Assistance Act \[25 U.S.C. 450 et seq.\];
 
 &emsp;&emsp;(ii) acting within the scope of the employment, contract, or compact described in clause (i); and
 
@@ -498,7 +498,7 @@ As used in this subchapter:
 
 &emsp;&emsp;&emsp;(II) that prevents the patient from being physically present at a hospital or clinic operated by the Department of Veterans Affairs registered under section 823(f) of this title;
 
-&emsp;&emsp;&emsp;(III) during which the primary care practitioner of the patient or a practitionerotherwise practicing telemedicine within the meaning of this paragraph is unable to provide care or consultation; and
+&emsp;&emsp;&emsp;(III) during which the primary care practitioner of the patient or a practitioner otherwise practicing telemedicine within the meaning of this paragraph is unable to provide care or consultation; and
 
 &emsp;&emsp;&emsp;(IV) that requires immediate intervention by a health care practitioner using controlled substances to prevent what the practitioner reasonably believes in good faith will be imminent and serious clinical consequences, such as further injury or death; and
 
@@ -526,7 +526,7 @@ As used in this subchapter:
 
 &emsp;(C) the practitioner, acting in the usual course of professional practice, determines there is a legitimate medical purpose for the issuance of the new prescription.
 
-(Pub. L. 91–513, title II, §102, Oct. 27, 1970, 84 Stat. 1242; Pub. L. 93–281, §2, May 14, 1974, 88 Stat. 124; Pub. L. 95–633, title I, §102(b), Nov. 10, 1978, 92 Stat. 3772; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 96–132, §16(a), Nov. 30, 1979, 93 Stat. 1049; Pub. L. 98–473, title II, §507(a), (b), Oct. 12, 1984, 98 Stat. 2071; Pub. L. 98–509, title III, §301(a), Oct. 19, 1984, 98 Stat. 2364; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, §§1003(b), 1203, 1870, Oct. 27, 1986, 100 Stat. 3207–6, 3207–13, 3207–56; Pub. L. 99–646, §83, Nov. 10, 1986, 100 Stat. 3619; Pub. L. 100–690, title VI, §6054, Nov. 18, 1988, 102 Stat. 4316; Pub. L. 101–647, title XIX, §1902(b), title XXIII, §2301, title XXXV, §3599I, Nov. 29, 1990, 104 Stat. 4852, 4858, 4932; Pub. L. 103–200, §§2(a), 7–9(a), Dec. 17, 1993, 107 Stat. 2333, 2340; Pub. L. 103–322, title IX, §90105(d), title XXXIII, §330024(a), (b), (d)(1), Sept. 13, 1994, 108 Stat. 1988, 2150; Pub. L. 104–237, title II, §§204(a), 209, title IV, §401(a), (b), Oct. 3, 1996, 110 Stat. 3102, 3104, 3106, 3107; Pub. L. 104–294, title VI, §§604(b)(4), 607(j), Oct. 11, 1996, 110 Stat. 3506, 3512; Pub. L. 105–115, title I, §126(c)(3), Nov. 21, 1997, 111 Stat. 2328; Pub. L. 106–172, §§3(c), 5(a), Feb. 18, 2000, 114 Stat. 9, 10; Pub. L. 106–310, div. B, title XXXVI, §3622(a), Oct. 17, 2000, 114 Stat. 1231; Pub. L. 107–273, div. B, title IV, §4002(c)(1), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 108–358, §2(a), Oct. 22, 2004, 118 Stat. 1661; Pub. L. 109–162, title XI, §1180, Jan. 5, 2006, 119 Stat. 3126; Pub. L. 109–177, title VII, §§711(a)(1), (2)(A), 712(a)(1), Mar. 9, 2006, 120 Stat. 256, 257, 263; Pub. L. 110–425, §3(a), Oct. 15, 2008, 122 Stat. 4821.)
+(Pub. L. 91–513, title II, §102, Oct. 27, 1970, 84 Stat. 1242; Pub. L. 93–281, §2, May 14, 1974, 88 Stat. 124; Pub. L. 95–633, title I, §102(b), Nov. 10, 1978, 92 Stat. 3772; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 96–132, §16(a), Nov. 30, 1979, 93 Stat. 1049; Pub. L. 98–473, title II, §507(a), (b), Oct. 12, 1984, 98 Stat. 2071; Pub. L. 98–509, title III, §301(a), Oct. 19, 1984, 98 Stat. 2364; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, §§1003(b), 1203, 1870, Oct. 27, 1986, 100 Stat. 3207–6, 3207–13, 3207–56; Pub. L. 99–646, §83, Nov. 10, 1986, 100 Stat. 3619; Pub. L. 100–690, title VI, §6054, Nov. 18, 1988, 102 Stat. 4316; Pub. L. 101–647, title XIX, §1902(b), title XXIII, §2301, title XXXV, §3599I, Nov. 29, 1990, 104 Stat. 4852, 4858, 4932; Pub. L. 103–200, §§2(a), 7–9(a), Dec. 17, 1993, 107 Stat. 2333, 2340; Pub. L. 103–322, title IX, §90105(d), title XXXIII, §330024(a), (b), (d)(1), Sept. 13, 1994, 108 Stat. 1988, 2150; Pub. L. 104–237, title II, §§204(a), 209, title IV, §401(a), (b), Oct. 3, 1996, 110 Stat. 3102, 3104, 3106, 3107; Pub. L. 104–294, title VI, §§604(b)(4), 607(j), Oct. 11, 1996, 110 Stat. 3506, 3512; Pub. L. 105–115, title I, §126(c)(3), Nov. 21, 1997, 111 Stat. 2328; Pub. L. 106–172, §§3(c), 5(a), Feb. 18, 2000, 114 Stat. 9, 10; Pub. L. 106–310, div. B, title XXXVI, §3622(a), Oct. 17, 2000, 114 Stat. 1231; Pub. L. 107–273, div. B, title IV, §4002(c)(1), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 108–358, §2(a), Oct. 22, 2004, 118 Stat. 1661; Pub. L. 109–162, title XI, §1180,Jan. 5, 2006, 119 Stat. 3126; Pub. L. 109–177, title VII, §§711(a)(1), (2)(A), 712(a)(1), Mar. 9, 2006, 120 Stat. 256, 257, 263; Pub. L. 110–425, §3(a), Oct. 15, 2008, 122 Stat. 4821.)
 
 #### References in Text
 
@@ -736,23 +736,23 @@ Amendment by Pub. L. 105–115 effective 90 days after Nov. 21, 1997, except as 
 
 Amendment by section 604(b)(4) of Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under section 13 of Title 18, Crimes and Criminal Procedure.
 
-Section 401(g) of Pub. L. 104–237 provided that: “Notwithstanding any other provision of this Act \[see section 1(a) of Pub. L. 104–237, set out as a Short Title of 1996 Amendments note under section 801 of this title\],this section \[amending this section and section 814 of this title and enacting provisions set out as a note below\] shall not apply to the sale of any pseudoephedrine or phenylpropanolamine product prior to 12 months after the date of enactment of this Act \[Oct. 3, 1996\], except that, on application of a manufacturer of a particular pseudoephedrine or phenylpropanolamine drug product, the Attorney General may, in her sole discretion, extend such effective date up to an additional six months. Notwithstanding any other provision of law, the decision of the Attorney General on such an application shall not be subject to judicial review.”
+Pub. L. 104–237, title IV, §401(g), Oct. 3, 1996, 110 Stat. 3110, provided that: “Notwithstanding any other provision of this Act \[see section 1(a) of Pub. L. 104–237, set out as a Short Title of 1996 Amendments note under section 801 of this title\], this section \[amending this section and section 814 of this title and enacting provisions set out as a note below\] shall not apply to the sale of any pseudoephedrine or phenylpropanolamine product prior to 12 months after the date of enactment of this Act \[Oct. 3, 1996\], except that, on application of a manufacturer of a particular pseudoephedrine or phenylpropanolamine drug product, the Attorney General may, in her sole discretion, extend such effective date up to an additional six months. Notwithstanding any other provision of law, the decision of the Attorney General on such an application shall not be subject to judicial review.”
 
 #### Effective Date of 1994 Amendment
 
-Section 330024(f) of Pub. L. 103–322 provided that: “The amendments made by this section \[amending this section and sections 824, 960, and 971 of this title\] shall take effect as of the date that is 120 days after the date of enactment of the Domestic Chemical Diversion Control Act of 1993 \[Dec. 17, 1993\].”
+Pub. L. 103–322, title XXXIII, §330024(f), Sept. 13, 1994, 108 Stat. 2151, provided that: “The amendments made by this section \[amending this section and sections 824, 960, and 971 of this title\] shall take effect as of the date that is 120 days after the date of enactment of the Domestic Chemical Diversion Control Act of 1993 \[Dec. 17, 1993\].”
 
 #### Effective Date of 1993 Amendment
 
-Section 11 of Pub. L. 103–200 provided that: “This Act \[enacting section 814 of this title, amending this section and sections 821 to 824, 830, 843, 880, 957, 958, 960, and 971 of this title, and enacting provisions set out as a note under section 801 of this title\] and the amendments made by this Act shall take effect on the date that is 120 days after the date of enactment of this Act \[Dec. 17, 1993\].”
+Pub. L. 103–200, §11, Dec. 17, 1993, 107 Stat. 2341, provided that: “This Act \[enacting section 814 of this title, amending this section and sections 821 to 824, 830, 843, 880, 957, 958, 960, and 971 of this title, and enacting provisions set out as a note under section 801 of this title\] and the amendments made by this Act shall take effect on the date that is 120 days after the date of enactment of this Act \[Dec. 17, 1993\].”
 
 #### Effective Date of 1990 Amendment
 
-Section 1902(d) of Pub. L. 101–647 provided that: “This section \[amending this section and section 812 of this title and enacting provisions set out as a note under section 829 of this title\] and the amendment made by this section shall take effect 90 days after the date of enactment of this Act \[Nov. 29, 1990\].”
+Pub. L. 101–647, title XIX, §1902(d), Nov. 29, 1990, 104 Stat. 4852, provided that: “This section \[amending this section and section 812 of this title and enacting provisions set out as a note under section 829 of this title\] and the amendment made by this section shall take effect 90 days after the date of enactment of this Act \[Nov. 29, 1990\].”
 
 #### Effective Date of 1988 Amendment
 
-Section 6061 of title VI of Pub. L. 100–690 provided that: “Except as otherwise provided in this subtitle, this subtitle \[subtitle A (§§6051–6061) of title VI of Pub. L. 100–690, enacting section 971 of this title, amending this section and sections 830, 841 to 843, 872, 876, 881, 960, and 961 of this title, and enacting provisions set out as notes under this section and section 971 of this title\] shall take effect 120 days after the enactment of this Act \[Nov. 18, 1988\].”
+Pub. L. 100–690, title VI, §6061, Nov. 18, 1988, 102 Stat. 4320, provided that: “Except as otherwise provided in this subtitle, this subtitle \[subtitle A (§§6051–6061) of title VI of Pub. L. 100–690, enacting section 971 of this title, amending this section and sections 830, 841 to 843, 872, 876, 881, 960, and 961 of this title, and enacting provisions set out as notes under this section and section 971 of this title\] shall take effect 120 days after the enactment of this Act \[Nov. 18, 1988\].”
 
 #### Effective Date of 1978 Amendment
 
@@ -762,7 +762,7 @@ Amendment by Pub. L. 95–633 effective on date the Convention on Psychotropic S
 
 Pub. L. 110–425, §3(k)(1), Oct. 15, 2008, 122 Stat. 4833, provided that: “The Attorney General may promulgate and enforce any rules, regulations, and procedures which may be necessary and appropriate for the efficient execution of functions under this Act \[see Short Title of 2008 Amendment note set out under section 801 of this title\] or the amendments made by this Act, and, with the concurrence of the Secretary of Health and Human Services where this Act or the amendments made by this Act so provide, promulgate any interim rules necessary for the implementation of this Act or the amendments made by this Act, prior to its effective date \[see Effective Date of 2008 Amendment note above\].”
 
-Section 301(b) of Pub. L. 98–509 provided that: “The Secretary of Health and Human Services shall, within ninety days of the date of the enactment of this Act \[Oct. 19, 1984\], promulgate regulations for the administration of section 102(28) of the Controlled Substances Act \[21 U.S.C. 802(29)\] as amended by subsection (a) and shall include in the first report submitted under section 505(b) \[503(b)\] of the Public Health Service Act \[former 42 U.S.C. 290aa–2(b)\] after the expiration of such ninety days the findings of the Secretary with respect to the effect of the amendment made by subsection (a).”
+Pub. L. 98–509, title III, §301(b), Oct. 19, 1984, 98 Stat. 2364, provided that: “The Secretary of Health and Human Services shall, within ninety days of the date of the enactment of this Act \[Oct. 19, 1984\], promulgate regulations for the administration of section 102(28) of the Controlled Substances Act \[21 U.S.C. 802(29)\] as amended by subsection (a) and shall include in the first report submitted under section 505(b) \[503(b)\] of the Public Health Service Act \[former 42 U.S.C. 290aa–2(b)\] after the expiration of such ninety days the findings of the Secretary with respect to the effect of the amendment made by subsection (a).”
 
 #### Construction of 2008 Amendment
 
@@ -810,7 +810,7 @@ Regulation of Retail Sales.—
 
 &emsp;“(1)
 
-In general.—Notwithstanding section 401(d) of the Comprehensive Methamphetamine Control Act of 1996 \[Pub. L. 104–237\] (21 U.S.C. 802 note) and subjectto paragraph (2), the Attorney General shall establish by regulation a single-transaction limit of not less than 24 grams of ordinary, over-the-counter pseudoephedrine or phenylpropanolamine (as the case may be) for retail distributors, if the Attorney General finds, in the report under subsection (b), that—
+In general.—Notwithstanding section 401(d) of the Comprehensive Methamphetamine Control Act of 1996 \[Pub. L. 104–237\] (21 U.S.C. 802 note) and subject to paragraph (2), the Attorney General shall establish by regulation a single-transaction limit of not less than 24 grams of ordinary, over-the-counter pseudoephedrine or phenylpropanolamine (as the case may be) for retail distributors, if the Attorney General finds, in the report under subsection (b), that—
 
 &emsp;&emsp;“(A) there is a significant number of instances (as set forth in paragraph (3)(A) of such section 401(d) for purposes of such section) where ordinary, over-the-counter pseudoephedrine products, phenylpropanolamine products, or both such products that were purchased from retail distributors were widely used in the clandestine production of illicit drugs; and
 

@@ -10,7 +10,7 @@ The Director shall give priority in the selection of awards and the allocation o
 
 #### (c) Limitation
 
-Nothing in this section shall be construed to restrict or bias the grant selection processagainst funding other areas of research deemed by the Foundation to be consistent with its mandate nor to change the core mission of the Foundation.
+Nothing in this section shall be construed to restrict or bias the grant selection process against funding other areas of research deemed by the Foundation to be consistent with its mandate nor to change the core mission of the Foundation.
 
 (Pub. L. 110–69, title VII, §7018, Aug. 9, 2007, 121 Stat. 684.)
 
@@ -20,5 +20,5 @@ Section was enacted as part of the America COMPETES Act, also known as the Ameri
 
 #### Definitions
 
-For definitions of terms used in this section, see section 7001 of Pub. L. 110–69, set out as a note under section 1862<i>o</i> of this title.
+For definitions of terms used in this section, see section 7001 of Pub. L. 110–69, set out as a note under section 1862o of this title.
 

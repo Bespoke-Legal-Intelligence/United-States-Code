@@ -66,7 +66,7 @@ The Secretary may, through grants to public and private, nonprofit agencies, pro
 
 #### (c) Report
 
-For each fiscal year, the Secretary shall prepare and submit, to the Committee on Education and the Workforce of the House of Representatives and the Committee on Labor andHuman Resources of the Senate, a report concerning the grants made under this section. Such report shall include—
+For each fiscal year, the Secretary shall prepare and submit, to the Committee on Education and the Workforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate, a report concerning the grants made under this section. Such report shall include—
 
 &emsp;(1) a list of grant recipients;
 

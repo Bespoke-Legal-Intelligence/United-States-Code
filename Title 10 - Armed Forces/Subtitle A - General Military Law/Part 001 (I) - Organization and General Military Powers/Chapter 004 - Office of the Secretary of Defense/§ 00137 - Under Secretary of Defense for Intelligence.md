@@ -34,7 +34,7 @@ Elements.—The plan required by paragraph (1) shall—
 
 &emsp;&emsp;“(A) include an assessment of all the current and planned advanced query and correlation systems which operate on large centralized databases that are deployed or to be deployed in elements of the Defense Intelligence Information Enterprise; and
 
-&emsp;&emsp;“(B) determine where duplication can be eliminated, how use of these systems can be expanded,whether these systems can be operated collaboratively, and whether they can and should be integrated with the enterprise-wide query and correlation capability required pursuant to paragraph (1).
+&emsp;&emsp;“(B) determine where duplication can be eliminated, how use of these systems can be expanded, whether these systems can be operated collaboratively, and whether they can and should be integrated with the enterprise-wide query and correlation capability required pursuant to paragraph (1).
 
 “(b)
 

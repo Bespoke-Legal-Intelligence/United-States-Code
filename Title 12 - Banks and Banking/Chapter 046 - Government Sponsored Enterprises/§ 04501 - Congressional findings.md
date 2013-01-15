@@ -8,7 +8,7 @@ The Congress finds that—
 
 &emsp;(3) considering the current operating procedures of the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, and the Federal Home Loan Banks, the enterprises and the Banks currently pose low financial risk of insolvency;
 
-&emsp;(4) neither the enterprises nor the Banks, nor any securities or obligations issued by theenterprises or the Banks, are backed by the full faith and credit of the United States;
+&emsp;(4) neither the enterprises nor the Banks, nor any securities or obligations issued by the enterprises or the Banks, are backed by the full faith and credit of the United States;
 
 &emsp;(5) an entity regulating the Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation should have sufficient autonomy from the enterprises and special interest groups;
 
@@ -32,5 +32,5 @@ Pub. L. 110–289, div. A, §1001, July 30, 2008, 122 Stat. 2659, provided that:
 
 #### Short Title
 
-Section 1301 of title XIII of Pub. L. 102–550 provided that: “This title \[enacting this chapter, amending sections 1422a, 1430, 1430b, 1451 to 1456, 1716 to 1719, 1723, 1723a, and 1723c of this title, sections 3132 and 5313 of Title 5, Government Organization and Employees, section 1905 of Title 18, Crimes and Criminal Procedure, and section 3534 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under sections 1451, 1452, 1723, and 4562 of this title, and amending provisions set out as a note under section 1451 of this title\] may be cited as the ‘Federal Housing Enterprises Financial Safety and Soundness Act of 1992’.”
+Pub. L. 102–550, title XIII, §1301, Oct. 28, 1992, 106 Stat. 3941, provided that: “This title \[enacting this chapter, amending sections 1422a, 1430, 1430b, 1451 to 1456, 1716 to 1719, 1723, 1723a, and 1723c of this title, sections 3132 and 5313 of Title 5, Government Organization and Employees, section 1905 of Title 18, Crimes and Criminal Procedure, and section 3534 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under sections 1451, 1452, 1723, and 4562 of this title, and amending provisions set out as a note under section 1451 of this title\] may be cited as the ‘Federal Housing Enterprises Financial Safety and Soundness Act of 1992’.”
 

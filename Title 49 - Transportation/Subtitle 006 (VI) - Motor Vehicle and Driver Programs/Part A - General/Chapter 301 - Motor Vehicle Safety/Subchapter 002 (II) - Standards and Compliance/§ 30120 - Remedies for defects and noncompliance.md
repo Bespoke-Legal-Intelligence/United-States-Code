@@ -12,9 +12,9 @@ Ways To Remedy.—(1) Subject to subsections (f) and (g) of this section, when n
 
 &emsp;&emsp;(iii) by refunding the purchase price, less a reasonable allowance for depreciation.
 
-&emsp;(B) if replacement equipment, by repairing the equipment or replacing the equipment with identical or reasonably equivalent equipment.
+&emsp;(B) if replacement equipment, by repairing the equipment, replacing the equipment with identical or reasonably equivalent equipment, or by refunding the purchase price.
 
-(2) The Secretary of Transportation may prescribe regulations to allow the manufacturer toimpose conditions on the replacement of a motor vehicle or refund of its price.
+(2) The Secretary of Transportation may prescribe regulations to allow the manufacturer to impose conditions on the replacement of a motor vehicle or refund of its price.
 
 (b)
 
@@ -68,7 +68,7 @@ Exemptions.—On application of a manufacturer, the Secretary shall exempt the m
 
 (i)
 
-Limitation on Sale or Lease.—(1) If notification is required by an order under section 30118(b) of this title or is required under section 30118(c) of this title and the manufacturer hasprovided to a dealer (including retailers of motor vehicle equipment) notification about a new motor vehicle or new item of replacement equipment in the dealer's possession at the time of notification that contains a defect related to motor vehicle safety or does not comply with an applicable motor vehicle safety standard prescribed under this chapter, the dealer may sell or lease the motor vehicle or item of replacement equipment only if—
+Limitation on Sale or Lease of New Vehicles or Equipment.—(1) If notification is required by an order under section 30118(b) of this title or is required under section 30118(c) of this title and the manufacturer has provided to a dealer (including retailers of motor vehicle equipment) notification about a new motor vehicle or new item of replacement equipment in the dealer's possession at the time of notification that contains a defect related to motor vehicle safety or does not comply with an applicable motor vehicle safety standard prescribed under this chapter, the dealer may sell or lease the motor vehicle or item of replacement equipment only if—
 
 &emsp;(A) the defect or noncompliance is remedied as required by this section before delivery under the sale or lease; or
 
@@ -78,13 +78,13 @@ Limitation on Sale or Lease.—(1) If notification is required by an order under
 
 (j)
 
-Prohibition on Sales of Replaced Equipment.—No person may sell or lease any motor vehicle equipment (including a tire), for installation on a motor vehicle, that is the subject of a decision under section 30118(b) or a notice required under section 30118(c) in a condition that it may be reasonably used for its original purpose unless—
+Prohibition on Sales of Replacement Equipment.—No person may sell or lease any motor vehicle equipment (including a tire), for installation on a motor vehicle, that is the subject of a decision under section 30118(b) or a notice required under section 30118(c) in a condition that it may be reasonably used for its original purpose unless—
 
 &emsp;(1) the defect or noncompliance is remedied as required by this section before delivery under the sale or lease; or
 
 &emsp;(2) notification of the defect or noncompliance is required under section 30118(b) but enforcement of the order is set aside in a civil action to which section 30121(d) applies.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 952; Pub. L. 105–178, title VII, §7106(a), June 9, 1998, 112 Stat. 467; Pub. L. 106–414, §§4, 6–8, Nov. 1, 2000, 114 Stat. 1803–1805.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 952; Pub. L. 105–178, title VII, §7106(a), June 9, 1998, 112 Stat. 467; Pub. L. 106–414, §§4, 6–8, Nov. 1, 2000, 114 Stat. 1803–1805; Pub. L. 112–141, div. C, title I, §31311, July 6, 2012, 126 Stat. 771.)
 
 Historical and Revision Notes
 
@@ -202,6 +202,20 @@ In subsection (h), the words “any requirement under”, “or to remedy”, an
 
 #### Amendments
 
+<b>2012</b>—Subsec. (a)(1)(B). Pub. L. 112–141, §31311(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “if replacement equipment, by repairing the equipment or replacing the equipment with identical or reasonably equivalent equipment.”
+
+Subsec. (i). Pub. L. 112–141, §31311(2), inserted “of New Vehicles or Equipment” after “Lease” in heading.
+
+Subsec. (j). Pub. L. 112–141, §31311(3), which directed substitution of “
+
+replacement” for “
+
+replaced” in heading, was executed by substituting “
+
+Replacement” for “
+
+Replaced”, to reflect the probable intent of Congress.
+
 <b>2000</b>—Subsec. (c)(3). Pub. L. 106–414, §6(a), added par. (3).
 
 Subsec. (d). Pub. L. 106–414, §7, inserted at end “In the case of a remedy program involving the replacement of tires, the manufacturer shall include a plan addressing how to prevent, to the extent reasonably within the control of the manufacturer, replaced tires from being resold for installation on a motor vehicle, and how to limit, to the extent reasonably within the control of the manufacturer, the disposal of replaced tires in landfills, particularly through shredding, crumbling, recycling, recovery, and other alternative beneficial non-vehicular uses. The manufacturer shall include information about the implementation of such plan with each quarterly report to the Secretary regarding the progress of any notification or remedy campaigns.”
@@ -213,4 +227,8 @@ Subsec. (g)(1). Pub. L. 106–414, §4, substituted “10 calendar years” for 
 Subsec. (j). Pub. L. 106–414, §8, added subsec. (j).
 
 <b>1998</b>—Subsec. (i)(1). Pub. L. 105–178 inserted “(including retailers of motor vehicle equipment)” after “provided to a dealer” in introductory provisions.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
 

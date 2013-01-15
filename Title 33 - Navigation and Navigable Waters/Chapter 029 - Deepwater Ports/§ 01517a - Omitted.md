@@ -8,9 +8,9 @@ Similar provisions were contained in the following prior appropriation acts:
 
 Pub. L. 100–457, title I, Sept. 30, 1988, 102 Stat. 2128.
 
-Pub. L. 100–202, §101(<i>l</i>) \[title I\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–361.
+Pub. L. 100–202, §101(l) \[title I\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–361.
 
-Pub. L. 99–500, §101(<i>l</i>) \[H.R. 5205, title I\], Oct. 18, 1986, 100 Stat. 1783–308, and Pub. L. 99–591, §101(<i>l</i>) \[H.R. 5205, title I\], Oct. 30, 1986, 100 Stat. 3341–308.
+Pub. L. 99–500, §101(l) \[H.R. 5205, title I\], Oct. 18, 1986, 100 Stat. 1783–308, and Pub. L. 99–591, §101(l) \[H.R. 5205, title I\], Oct. 30, 1986, 100 Stat. 3341–308.
 
 Pub. L. 99–190, §101(e) \[title I\], Dec. 19, 1985, 99 Stat. 1267, 1270.
 

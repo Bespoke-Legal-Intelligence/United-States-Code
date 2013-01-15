@@ -2,19 +2,19 @@
 
 #### (a) Establishment
 
-There is hereby established an honorary award for the recognition of outstanding and distinguished service by public safety officers to be known as the Director's Award For Distinguished Public Safety Service (“Director's Award”).
+There is hereby established an honorary award for the recognition of outstanding and distinguished service by public safety officers to be known as the Administrator's Award For Distinguished Public Safety Service (“Administrator's Award”).
 
 #### (b) Description
 
-The Director's Award shall be presented by the Director or by the Attorney General to public safety officers for distinguished service in the field of public safety.
+The Administrator's Award shall be presented by the Administrator of FEMA or by the Attorney General to public safety officers for distinguished service in the field of public safety.
 
 #### (c) Award
 
-Each Director's Award shall consist of an appropriate citation.
+Each Administrator's Award shall consist of an appropriate citation.
 
 #### (d) Regulations
 
-The Director and the Attorney General are authorized and directed to issue jointly such regulations as may be necessary to carry out this section.
+The Administrator of FEMA and the Attorney General are authorized and directed to issue jointly such regulations as may be necessary to carry out this section.
 
 #### (e) “Public safety officer” defined
 
@@ -26,9 +26,13 @@ As used in this section, the term “public safety officer” means a person ser
 
 &emsp;(3) a civil defense officer.
 
-(Pub. L. 93–498, §15, Oct. 29, 1974, 88 Stat. 1544; Pub. L. 98–241, title II, §202, Mar. 22, 1984, 98 Stat. 96; Pub. L. 106–503, title I, §110(a)(2)(B)(iv), (v), (C), Nov. 13, 2000, 114 Stat. 2302; Pub. L. 107–12, §8, May 30, 2001, 115 Stat. 22.)
+(Pub. L. 93–498, §15, Oct. 29, 1974, 88 Stat. 1544; Pub. L. 98–241, title II, §202, Mar. 22, 1984, 98 Stat. 96; Pub. L. 106–503, title I, §110(a)(2)(B)(iv), (v), (C), Nov. 13, 2000, 114 Stat. 2302; Pub. L. 107–12, §8, May 30, 2001, 115 Stat. 22; Pub. L. 112–239, div. A, title XVIII, §1802(b), Jan. 2, 2013, 126 Stat. 2100.)
 
 #### Amendments
+
+<b>2013</b>—Pub. L. 112–239, §1802(b)(2), substituted “Administrator's Award” for “Director's Award” wherever appearing.
+
+Pub. L. 112–239, §1802(b)(1), substituted “Administrator of FEMA” for “Director” in two places.
 
 <b>2001</b>—Subsec. (a). Pub. L. 107–12, §8(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “There are hereby established two classes of honorary awards for the recognition of outstanding and distinguished service by public safety officers—
 
@@ -36,7 +40,7 @@ As used in this section, the term “public safety officer” means a person ser
 
 &emsp;“(2) the Director's Award For Distinguished Public Safety Service (‘Director's Award’).”
 
-Subsec. (b). Pub. L. 107–12, §8(2), struck out pars. (1) and (2) designations and text of par. (1) which read asfollows: “The President's Award shall be presented by the President of the United States to public safety officers for extraordinary valor in the line of duty or for outstanding contribution to public safety.”
+Subsec. (b). Pub. L. 107–12, §8(2), struck out pars. (1) and (2) designations and text of par. (1) which read as follows: “The President's Award shall be presented by the President of the United States to public safety officers for extraordinary valor in the line of duty or for outstanding contribution to public safety.”
 
 Subsec. (c). Pub. L. 107–12, §8(3), (4), redesignated subsec. (e) as (c) and struck out pars. (1) and (2) designations and text of par. (1), which read as follows: “Each President's Award shall consist of—
 

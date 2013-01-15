@@ -52,7 +52,7 @@ If the Supreme Court orders a rehearing; or if the case is remanded by the court
 
 As used in this section the term “mandate”, in case a mandate has been recalled prior to the expiration of thirty days from the date of issuance thereof, means the final mandate.
 
-#### (<i>l</i>) Penalties
+#### (l) Penalties
 
 Any person who violates any order issued by the commission, board, or Secretary under subsection (b) of this section after such order has become final, and while such order is in effect, shall forfeit and pay to the United States a civil penalty of not more than $5,000 for each violation, which shall accrue to the United States and may be recovered in a civil action brought by the United States. Each separate violation of any such order shall be a separate offense, except that in the case of a violation through continuing failure or neglect to obey a final order of the commission, board, or Secretary each day of continuance of such failure or neglect shall be deemed a separate offense.
 
@@ -80,9 +80,9 @@ Subsec. (e). Pub. L. 98–620 struck out provision that such proceedings in the 
 
 Pub. L. 98–443, §9(m)(3), substituted “commission, board, or Secretary” for “commission or board”.
 
-Subsecs. (f) to (j), (<i>l</i>). Pub. L. 98–443, §9(m)(3), substituted “commission, board, or Secretary” for “commission or board” wherever appearing.
+Subsecs. (f) to (j), (l). Pub. L. 98–443, §9(m)(3), substituted “commission, board, or Secretary” for “commission or board” wherever appearing.
 
-<b>1959</b>—Pub. L. 86–107 amended section generally, and among other changes, authorized the Commission or Board, upon notice and opportunity for hearing, in cases where a petition for review has not been filed within the time allowed, to reopen and alter, modify, or set aside, in whole or in part, any report or order, whenever conditions of fact or law have so changed as to require such action or if the public interest so requires, and added subsecs. (g) to (k), providing for finality of orders, and subsec. (<i>l</i>), prescribing the civil penalty for violation of orders.
+<b>1959</b>—Pub. L. 86–107 amended section generally, and among other changes, authorized the Commission or Board, upon notice and opportunity for hearing, in cases where a petition for review has not been filed within the time allowed, to reopen and alter, modify, or set aside, in whole or in part, any report or order, whenever conditions of fact or law have so changed as to require such action or if the public interest so requires, and added subsecs. (g) to (k), providing for finality of orders, and subsec. (l), prescribing the civil penalty for violation of orders.
 
 <b>1958</b>—Pub. L. 85–791, §4(a), struck out “a transcript of” after “Until” in last sentence of second par.
 

@@ -70,7 +70,7 @@
 
 &emsp;&emsp;&emsp;(ii) any claimed violation, misinterpretation, or misapplication of any law, rule, or regulation affecting conditions of employment;
 
-&emsp;(10) “supervisor” means an individual employed by an agency having authority in theinterest of the agency to hire, direct, assign, promote, reward, transfer, furlough, layoff, recall, suspend, discipline, or remove employees, to adjust their grievances, or to effectively recommend such action, if the exercise of the authority is not merely routine or clerical in nature but requires the consistent exercise of independent judgment, except that, with respect to any unit which includes firefighters or nurses, the term “supervisor” includes only those individuals who devote a preponderance of their employment time to exercising such authority;
+&emsp;(10) “supervisor” means an individual employed by an agency having authority in the interest of the agency to hire, direct, assign, promote, reward, transfer, furlough, layoff, recall, suspend, discipline, or remove employees, to adjust their grievances, or to effectively recommend such action, if the exercise of the authority is not merely routine or clerical in nature but requires the consistent exercise of independent judgment, except that, with respect to any unit which includes firefighters or nurses, the term “supervisor” includes only those individuals who devote a preponderance of their employment time to exercising such authority;
 
 &emsp;(11) “management official” means an individual employed by an agency in a position the duties and responsibilities of which require or authorize the individual to formulate, determine, or influence the policies of the agency;
 
@@ -158,7 +158,7 @@ Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 1635 of Pub. 
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of Title 22, Foreign Relations and Intercourse.
+Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L.96–465, set out as an Effective Date note under section 3901 of Title 22, Foreign Relations and Intercourse.
 
 #### Transfer of Functions
 
@@ -454,7 +454,7 @@ Section 1. <i>Suspensions</i>. With regard to United States citizen employees of
 
 (b) The provisions of 5 U.S.C. 7102(2), 7114(a)(1), 7114(a)(4), 7116(a)(5), and 7117(c) are suspended with respect to any matter proposed for bargaining which would substantially impair the implementation by the United States Forces of any treaty or agreement, including any minutes or understandings thereto, between the United States and the Government of the host nation;
 
-(c) The provisions of 5 U.S.C. 7116(a)(7) and 7117(b) are suspended with regard to any regulation governing the implementation by the United States Forces of any treaty or agreement, including any minutes or understandings thereto, between the United States and the Government of the host nations; and
+(c) The provisions of 5 U.S.C. 7116(a)(7) and 7117(b) are suspended with regard to any regulation governing theimplementation by the United States Forces of any treaty or agreement, including any minutes or understandings thereto, between the United States and the Government of the host nations; and
 
 (d) The provisions of 5 U.S.C. 7121(b)(3)(C) are suspended with respect to any grievance involving the implementation by the United States Forces of any treaty or agreement, including any minutes or understandings thereto, between the United States and the Government of the host nation.
 

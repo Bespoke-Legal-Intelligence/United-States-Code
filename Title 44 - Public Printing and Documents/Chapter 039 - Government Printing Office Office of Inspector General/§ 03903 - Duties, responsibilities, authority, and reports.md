@@ -1,6 +1,6 @@
 ### §3903. Duties, responsibilities, authority, and reports
 
-(a) Sections 4, 5, 6 (other than subsection (a)(7) and (8) thereof), and 7 of the Inspector GeneralAct of 1978 (Public Law 95–452; 5 U.S.C. App. 3) shall apply to the Inspector General of the Government Printing Office and the Office of such Inspector General and such sections shall be applied to the Government Printing Office and the Public Printer by substituting—
+(a) Sections 4, 5, 6 (other than subsection (a)(7) and (8) thereof), and 7 of the Inspector General Act of 1978 (Public Law 95–452; 5 U.S.C. App. 3) shall apply to the Inspector General of the Government Printing Office and the Office of such Inspector General and such sections shall be applied to the Government Printing Office and the Public Printer by substituting—
 
 &emsp;(1) “Government Printing Office” for “establishment”; and
 

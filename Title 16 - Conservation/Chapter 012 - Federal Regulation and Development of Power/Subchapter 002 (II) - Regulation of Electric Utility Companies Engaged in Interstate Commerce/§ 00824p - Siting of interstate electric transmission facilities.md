@@ -6,13 +6,13 @@
 
 (2) After considering alternatives and recommendations from interested parties (including an opportunity for comment from affected States), the Secretary shall issue a report, based on the study, which may designate any geographic area experiencing electric energy transmission capacity constraints or congestion that adversely affects consumers as a national interest electric transmission corridor.
 
-(3) The Secretary shall conduct the study and issue the report in consultation with any appropriate regional entity referred to in section 824<i>o</i> of this title.
+(3) The Secretary shall conduct the study and issue the report in consultation with any appropriate regional entity referred to in section 824o of this title.
 
 (4) In determining whether to designate a national interest electric transmission corridor under paragraph (2), the Secretary may consider whether—
 
 &emsp;(A) the economic vitality and development of the corridor, or the end markets served by the corridor, may be constrained by lack of adequate or reasonably priced electricity;
 
-&emsp;(B)(i) economic growth in the corridor, or the end markets served by the corridor, maybe jeopardized by reliance on limited sources of energy; and
+&emsp;(B)(i) economic growth in the corridor, or the end markets served by the corridor, may be jeopardized by reliance on limited sources of energy; and
 
 &emsp;(ii) a diversification of supply is warranted;
 
@@ -44,7 +44,7 @@ Except as provided in subsection (i) of this section, the Commission may, after 
 
 &emsp;(3) the proposed construction or modification is consistent with the public interest;
 
-&emsp;(4) the proposed construction or modification will significantly reduce transmission congestion in interstate commerce and protects or benefits consumers;
+&emsp;(4) the proposed construction or modification will significantly reduce transmissioncongestion in interstate commerce and protects or benefits consumers;
 
 &emsp;(5) the proposed construction or modification is consistent with sound national energy policy and will enhance energy independence; and
 
@@ -154,7 +154,7 @@ Nothing in this section precludes any person from constructing or modifying any 
 
 &emsp;(ii) with appropriate authority to manage the right-of-way for reliability and environmental protection.
 
-(B) On the expiration of the authorization (including an authorization issued before August 8,2005), the authorization shall be reviewed for renewal taking fully into account reliance on such electricity infrastructure, recognizing the importance of the authorization for public health, safety, and economic welfare and as a legitimate use of Federal land.
+(B) On the expiration of the authorization (including an authorization issued before August 8, 2005), the authorization shall be reviewed for renewal taking fully into account reliance on such electricity infrastructure, recognizing the importance of the authorization for public health, safety, and economic welfare and as a legitimate use of Federal land.
 
 (9) In exercising the responsibilities under this section, the Secretary shall consult regularly with—
 

@@ -22,7 +22,7 @@
 
 #### (2) Under Secretary for Arms Control and International Security
 
-&emsp;There shall be in the Department of State, among the Under Secretaries authorized by paragraph (1), an Under Secretary for Arms Control and International Security, who shall assist the Secretary and the Deputy Secretary in matters related to international security policy, arms control, and nonproliferation. Subject to the direction of the President, theUnder Secretary may attend and participate in meetings of the National Security Council in his role as Senior Advisor to the President and the Secretary of State on Arms Control and Nonproliferation Matters.
+&emsp;There shall be in the Department of State, among the Under Secretaries authorized by paragraph (1), an Under Secretary for Arms Control and International Security, who shall assist the Secretary and the Deputy Secretary in matters related to international security policy, arms control, and nonproliferation. Subject to the direction of the President, the Under Secretary may attend and participate in meetings of the National Security Council in his role as Senior Advisor to the President and the Secretary of State on Arms Control and Nonproliferation Matters.
 
 #### (3) Under Secretary for Public Diplomacy
 
@@ -46,7 +46,7 @@
 
 #### (1) In general
 
-&emsp;There shall be in the Department of State not more than 24 Assistant Secretaries of State, each of whom shall be appointed by the President, by and with the advice and consent of the Senate, and who shall be compensated at the rate provided for at level IV of the Executive Schedule under section 5315 of title 5.
+&emsp;There shall be in the Department of State not more than 24 Assistant Secretaries of State who shall be compensated at the rate provided for at level IV of the Executive Schedule under section 5315 of title 5. Each Assistant Secretary of State shall be appointed by the President, by and with the advice and consent of the Senate, except that the appointments of the Assistant Secretary forPublic Affairs and the Assistant Secretary for Administration shall not be subject to the advice and consent of the Senate.
 
 #### (2) Assistant Secretary of State for Democracy, Human Rights, and Labor
 
@@ -188,7 +188,7 @@ In addition to officials of the Department of State who are otherwise authorized
 
 &emsp;The officer of the Department of State with primary responsibility for assisting the Secretary with respect to international narcotics and law enforcement, or that officer's principal deputy, shall have substantial professional qualifications in the fields of (A) management, and (B) law enforcement or international narcotics policy.
 
-(Aug. 1, 1956, ch. 841, title I, §1, 70 Stat. 890; renumbered title I and amended Pub. L. 97–241, title II, §202(a), Aug. 24, 1982, 96 Stat. 282; Pub. L. 103–236, title I, §161(a), Apr. 30, 1994, 108 Stat. 402; Pub. L. 103–415, §1(f)(1), Oct. 25, 1994, 108 Stat. 4299; Pub. L. 105–277, div. G, subdiv. A, title XII, §1213, title XIII, §1313, subdiv. B, title XXIII, §§2301(a), 2303–2305(a)(1), (b)(1), (c), 2306, Oct. 21, 1998, 112 Stat. 2681–767, 2681–776, 2681–824,2681–825, 2681–826; Pub. L. 106–553, §1(a)(2) \[title IV, §404(a)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–96; Pub. L. 107–228, div. A, title III, §303, Sept. 30, 2002, 116 Stat. 1377; Pub. L. 108–25, title I, §102(a), May 27, 2003, 117 Stat. 721; Pub. L. 108–458, title VII, §7109(b)(1), Dec. 17, 2004, 118 Stat. 3793; Pub. L. 110–293, title I, §102, July 30, 2008, 122 Stat. 2933.)
+(Aug. 1, 1956, ch. 841, title I, §1, 70 Stat. 890; renumbered title I and amended Pub. L. 97–241, title II, §202(a), Aug. 24, 1982, 96 Stat. 282; Pub. L. 103–236, title I, §161(a), Apr. 30, 1994, 108 Stat. 402; Pub. L. 103–415, §1(f)(1), Oct. 25, 1994, 108 Stat. 4299; Pub. L. 105–277, div. G, subdiv. A, title XII, §1213, title XIII, §1313, subdiv. B, title XXIII, §§2301(a), 2303–2305(a)(1), (b)(1), (c), 2306, Oct. 21, 1998, 112 Stat. 2681–767, 2681–776, 2681–824, 2681–825, 2681–826; Pub. L. 106–553, §1(a)(2) \[title IV, §404(a)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–96; Pub. L. 107–228, div. A, title III, §303, Sept. 30, 2002, 116 Stat. 1377; Pub. L. 108–25, title I, §102(a), May 27, 2003, 117 Stat. 721; Pub. L. 108–458, title VII, §7109(b)(1), Dec. 17, 2004, 118 Stat. 3793; Pub. L. 110–293, title I, §102, July 30, 2008, 122 Stat. 2933; Pub. L. 112–166, §2(j), Aug. 10, 2012, 126 Stat. 1286.)
 
 #### References in Text
 
@@ -203,6 +203,8 @@ Section was formerly classified to section 2662 of this title.
 Section was also formerly classified to section 170f of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (c)(1). Pub. L. 112–166 struck out “, each of whom shall be appointed by the President, by and with the advice and consent of the Senate, and” after “Secretaries of State” and inserted at end “Each Assistant Secretary of State shall be appointed by the President, by and with the advice and consent of the Senate, except that the appointments of the Assistant Secretary for Public Affairs and the Assistant Secretary for Administration shall not be subject to the advice and consent of the Senate.”
 
 <b>2008</b>—Subsec. (f)(2)(A). Pub. L. 110–293, §102(1), which directed insertion of “, partner country finance, health, and other relevant ministries,” after “community based organizations)” wherever appearing, was executed by making the insertion after “community-based organizations)” in introductory provisions and in cl. (iii), to reflect the probable intent of Congress.
 
@@ -268,6 +270,10 @@ Subsec. (a)(2). Pub. L. 103–415 inserted “and the Deputy Secretary of State�
 
 <b>1982</b>—Pub. L. 97–241 substituted “The Secretary” for “That the Secretary”.
 
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under section 113 of Title 6, Domestic Security.
+
 #### Effective Date of 1998 Amendment
 
 Amendment by section 1213 of Pub. L. 105–277 effective Apr. 1, 1999, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of this title.
@@ -276,7 +282,7 @@ Amendment by section 1313 of Pub. L. 105–277 effective Oct. 1, 1999, see secti
 
 #### Effective Date of 1994 Amendment
 
-Section 161(b) of Pub. L. 103–236, as amended by Pub. L. 103–415, §1(f)(2), Oct. 25, 1994, 108 Stat. 4300, provided that: “The amendments made by this section and section 162 \[amending this section, sections 2151n, 2304, 2314, 2349aa–2, 2384, 2652b, 2655a, 2669, 2670, 2707, 2755, 4302 to 4305, 4308, 4801, 4802, 4806, 4821 to 4823, and 4852 of this title, sections 5314 and 5315 of Title 5, Government Organization and Employees, sections 1101, 1104, 1105, and 1521 to 1523 of Title 8, Aliens and Nationality, repealing sections 811a, 2652, 2652a, 2653 to 2655, 2658, 4803, and 4804 of this title and section 1525 of Title 8, and amending provisions set out as a note under section 113 of Title 10, Armed Forces\] shall apply with respect to officials, offices, and bureaus of the Department of State when executive orders, regulations, or departmental directives implementing such amendments become effective, or 90 days after the date of enactment of this Act \[Apr. 30, 1994\], whichever comes earlier.”
+Pub. L. 103–236, title I, §161(b), Apr. 30, 1994, 108 Stat. 404, as amended by Pub. L. 103–415, §1(f)(2), Oct. 25, 1994, 108 Stat. 4300, provided that: “The amendments made by this section and section 162 \[amending this section, sections 2151n, 2304, 2314, 2349aa–2, 2384, 2652b, 2655a, 2669, 2670, 2707, 2755, 4302 to 4305, 4308, 4801, 4802, 4806, 4821 to 4823, and 4852 of this title, sections 5314 and 5315 of Title 5, Government Organization and Employees, sections 1101, 1104, 1105, and 1521 to 1523 of Title 8, Aliens and Nationality, repealing sections 811a, 2652, 2652a, 2653 to 2655, 2658, 4803, and 4804 of this title and section 1525 of Title 8, and amending provisions set out as a note under section 113 of Title 10, Armed Forces\] shall apply with respect to officials, offices, and bureaus of the Department of State when executive orders, regulations, or departmental directives implementing such amendments become effective, or 90 days after the date of enactment of this Act \[Apr. 30, 1994\], whichever comes earlier.”
 
 #### Effective Date of 1982 Amendment
 
@@ -296,7 +302,7 @@ Coordinator.—There shall be established within the Department of State in the 
 
 Responsibilities.—That \[sic\] the Coordinator shall have primary responsibility for the oversight and coordination of all resources and international activities of the United States Government that provide assistance in developing countries for basic education. The individual serving as the Coordinator may not hold any other position in the Federal Government during the individual's time of service as Coordinator.”
 
-\[Pub. L. 111–117, div. F, title VII, §7064(a)(2), Dec. 16, 2009, 123 Stat. 3383, provided that: “There shall continue to be a Coordinator of United States Government Actions to Provide Basic Education Assistance in developing countries as established in section 664 of division J of Public Law 110–161 \[set out above\].”\]
+\[Pub. L. 111–117, div. F, title VII, §7064(a)(2), Dec. 16, 2009, 123 Stat. 3383, provided that: “There shall continueto be a Coordinator of United States Government Actions to Provide Basic Education Assistance in developing countries as established in section 664 of division J of Public Law 110–161 \[set out above\].”\]
 
 \[Pub. L. 111–8, div. H, title VII, §7064(a)(2), Mar. 11, 2009, 123 Stat. 899, provided that: “There shall continue to be a Coordinator of United States government actions to provide basic education assistance in developing countries as established in section 664 of division J of Public Law 110–161 \[set out above\].”\]
 
@@ -346,7 +352,7 @@ Pub. L. 108–447, div. B, title IV, §408, Dec. 8, 2004, 118 Stat. 2904, provid
 
 &emsp;“(5) coordinating with relevant Executive agencies the development of interagency contingency plans for such response efforts; and
 
-&emsp;“(6) coordinating the training of civilian personnel to perform stabilization and reconstruction activitiesin response to crises in such countries or regions described in paragraph (1).”
+&emsp;“(6) coordinating the training of civilian personnel to perform stabilization and reconstruction activities in response to crises in such countries or regions described in paragraph (1).”
 
 #### Comprehensive Workforce Plan
 
@@ -452,21 +458,21 @@ Duties.—The Adviser shall—
 
 #### Transition; Reappointment of Officers Holding Office as of April 30, 1994, Not Required
 
-Section 161(c) of Pub. L. 103–236 provided that: “Any officer of the Department of State holding office on the date of the enactment of this Act \[Apr. 30, 1994\] shall not be required to be reappointed to any other office, at the Department of State at the same level performing similar functions, as determined by the President, by reason of the enactment of the amendments made by this section and section 162 \[see Effective Date of 1994 Amendment note above for classification\].”
+Pub. L. 103–236, title I, §161(c), Apr. 30, 1994, 108 Stat. 404, provided that: “Any officer of the Department of State holding office on the date of the enactment of this Act \[Apr. 30, 1994\] shall not be required to be reappointed to any other office, at the Department of State at the same level performing similar functions, as determined by the President, by reason of the enactment of the amendments made by this section and section 162 \[see Effective Date of 1994 Amendment note above for classification\].”
 
-\[Functions of President under section 161(c) of Pub. L. 103–236, set out above, delegated to Secretary ofState by Memorandum of President of the United States, July 26, 1994, 59 F.R. 40205, set out as a note under section 2370a of this title.\]
+\[Functions of President under section 161(c) of Pub. L. 103–236, set out above, delegated to Secretary of State by Memorandum of President of the United States, July 26, 1994, 59 F.R. 40205, set out as a note under section 2370a of this title.\]
 
 #### References to Officials and Offices of Department of State Whose Authority Is vested in Secretary of State Deemed References to Secretary of State or Department of State
 
-Section 161(d) of Pub. L. 103–236 provided that: “Except as specifically provided in this Act \[see Tables for classification\], or the amendments made by this Act, a reference in any other provision of law to an official or office of the Department of State affected by the amendment made by subsection (a) \[amending this section\] (other than the Inspector General of the Department of State and the Chief Financial Officer of the Department of State) shall be deemed to be a reference to the Secretary of State or the Department of State, as may be appropriate.”
+Pub. L. 103–236, title I, §161(d), Apr. 30, 1994, 108 Stat. 404, provided that: “Except as specifically provided in this Act \[see Tables for classification\], or the amendments made by this Act, a reference in any other provision of law to an official or office of the Department of State affected by the amendment made by subsection (a) \[amending this section\] (other than the Inspector General of the Department of State and the Chief Financial Officer of the Department of State) shall be deemed to be a reference to the Secretary of State or the Department of State, as may be appropriate.”
 
 #### Office of Coordinator for Counterterrorism
 
-Section 161(e) of Pub. L. 103–236, which established for not less than one year after Apr. 30, 1994, an Office of the Coordinator for Counterterrorism in the Department of State having the same responsibilities and functions as such office had as of Jan. 20, 1993, was repealed by Pub. L. 105–277, div. G, subdiv. B, title XXIII, §2301(b), Oct. 21, 1998, 112 Stat. 2681–824.
+Pub. L. 103–236, title I, §161(e), Apr. 30, 1994, 108 Stat. 404, which established for not less than one year after Apr. 30, 1994, an Office of the Coordinator for Counterterrorism in the Department of State having the same responsibilities and functions as such office had as of Jan. 20, 1993, was repealed by Pub. L. 105–277, div. G, subdiv. B, title XXIII, §2301(b), Oct. 21, 1998, 112 Stat. 2681–824.
 
 #### Deputy Assistant Secretary for Burdensharing
 
-Section 161(f) of Pub. L. 103–236, as amended by Pub. L. 103–415, §1(f)(3), Oct. 25, 1994, 108 Stat. 4300, which conditioned availability of 1995 appropriations upon establishment of position within Department of State of Deputy Assistant Secretary for Burdensharing and set forth responsibilities of position, was repealed by Pub. L. 105–277, div. G, subdiv. B, title XXIII, §2302, Oct. 21, 1998, 112 Stat. 2681–825.
+Pub. L. 103–236, title I, §161(f), Apr. 30, 1994, 108 Stat. 404, as amended by Pub. L. 103–415, §1(f)(3), Oct. 25, 1994, 108 Stat. 4300, which conditioned availability of 1995 appropriations upon establishment of position within Department of State of Deputy Assistant Secretary for Burdensharing and set forth responsibilities of position, was repealed by Pub. L. 105–277, div. G, subdiv. B, title XXIII, §2302, Oct. 21, 1998, 112 Stat. 2681–825.
 
 #### Authorization To Redelegate Certain Responsibilities Vested in the President and Delegated to the Secretary of State
 

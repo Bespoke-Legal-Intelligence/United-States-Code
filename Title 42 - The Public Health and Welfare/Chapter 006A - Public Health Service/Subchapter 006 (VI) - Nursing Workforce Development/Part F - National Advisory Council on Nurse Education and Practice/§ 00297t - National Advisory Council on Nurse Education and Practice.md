@@ -28,7 +28,7 @@ The Secretary shall establish an advisory council to be known as the National Ad
 
 #### (3) Minority representation
 
-&emsp;In appointing the members of the Advisory Council under paragraph (1), the Secretary shall ensure the adequate representation of minorities.
+&emsp;In appointing the members of the Advisory Council under paragraph (1), the Secretaryshall ensure the adequate representation of minorities.
 
 #### (c) Vacancies
 

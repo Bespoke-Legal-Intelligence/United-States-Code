@@ -138,13 +138,13 @@ Subsec. (b). Pub. L. 98–525 amended subsec. (b) generally, thereby including t
 
 #### Effective Date of 1986 Amendment
 
-Section 604(g) of Pub. L. 99–661 provided that: “The amendments made by this section \[amending this section, sections 1076, 1086, 1204–1206, 1475, 1476, 1481, 3723, and 8723 of this title, and sections 204 and 206 of Title 37, Pay and Allowances of the Uniformed Services and repealing sections 3687, 3721, 3722, 6148, 8687, 8721, and 8722 of this title and sections 318–321 of Title 32, National Guard\] shall apply with respect to persons who, after the date of enactment of this Act \[Nov. 14, 1986\], incur or aggravate an injury, illness, or disease or die.”
+Pub. L. 99–661, div. A, title VI, §604(g), Nov. 14, 1986, 100 Stat. 3878, provided that: “The amendments made by this section \[amending this section, sections 1076, 1086, 1204–1206, 1475, 1476, 1481, 3723, and 8723 of this title, and sections 204 and 206 of Title 37, Pay and Allowances of the Uniformed Services and repealing sections 3687, 3721, 3722, 6148, 8687, 8721, and 8722 of this title and sections 318–321 of Title 32, National Guard\] shall apply with respect to persons who, after the date of enactment of this Act \[Nov. 14, 1986\], incur or aggravate an injury, illness, or disease or die.”
 
 #### Effective Date of 1984 Amendment
 
-Section 631(c) of Pub. L. 98–525 provided that: “The amendments made by this section \[amending this section and section 6148 of this title\] shall apply only with respect to injuries incurred or aggravated and diseases or illnesses contracted or aggravated after September 30, 1984.”
+Pub. L. 98–525, title VI, §631(c), Oct. 19, 1984, 98 Stat. 2543, provided that: “The amendments made by this section \[amending this section and section 6148 of this title\] shall apply only with respect to injuries incurred or aggravated and diseases or illnesses contracted or aggravated after September 30, 1984.”
 
 #### Effective Date
 
-Section 1012(c) of Pub. L. 98–94 provided that: “The amendments made by subsections (a) and (b) \[enacting this section and amending section 204 of Title 37, Pay and Allowances of the Uniformed Services\] shall apply only in cases of injuries incurred or aggravated on or after the date of the enactment of this Act \[Sept. 24, 1983\].”
+Pub. L. 98–94, title X, §1012(c), Sept. 24, 1983, 97 Stat. 665, provided that: “The amendments made by subsections (a) and (b) \[enacting this section and amending section 204 of Title 37, Pay and Allowances of the Uniformed Services\] shall apply only in cases of injuries incurred or aggravated on or after the date of the enactment of this Act \[Sept. 24, 1983\].”
 

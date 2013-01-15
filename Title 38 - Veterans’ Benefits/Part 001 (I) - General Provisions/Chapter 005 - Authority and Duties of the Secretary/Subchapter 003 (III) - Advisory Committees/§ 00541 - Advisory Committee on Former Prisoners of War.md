@@ -6,7 +6,7 @@
 
 &emsp;(i) appropriate representatives of veterans who are former prisoners of war;
 
-&emsp;(ii) individuals who are recognized authorities in fields pertinent to disabilities prevalentamong former prisoners of war, including authorities in epidemiology, mental health, nutrition, geriatrics, and internal medicine; and
+&emsp;(ii) individuals who are recognized authorities in fields pertinent to disabilities prevalent among former prisoners of war, including authorities in epidemiology, mental health, nutrition, geriatrics, and internal medicine; and
 
 &emsp;(iii) appropriate representatives of disabled veterans.
 

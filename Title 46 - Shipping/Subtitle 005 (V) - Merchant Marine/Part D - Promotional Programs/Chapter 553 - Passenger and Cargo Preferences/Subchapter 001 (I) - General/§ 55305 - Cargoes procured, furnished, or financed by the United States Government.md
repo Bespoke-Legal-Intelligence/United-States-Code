@@ -20,7 +20,7 @@ Waivers.—The President, the Secretary of Defense, or Congress (by concurrent r
 
 Programs of Other Agencies.—
 
-&emsp;(1) Each department or agency that has responsibility for a program under this section shall administer that program with respect to this section under regulations and guidance issued by the Secretary of Transportation. The Secretary, after consulting with the department or agency or organization or person involved, shall have the sole responsibility for determining if a program is subject to the requirements of this section.
+&emsp;(1) Each department or agency that has responsibility for a program under this section shall administer that program with respect tothis section under regulations and guidance issued by the Secretary of Transportation. The Secretary, after consulting with the department or agency or organization or person involved, shall have the sole responsibility for determining if a program is subject to the requirements of this section.
 
 &emsp;(2) The Secretary—
 
@@ -32,7 +32,17 @@ Programs of Other Agencies.—
 
 &emsp;&emsp;(D) may take other measures as appropriate under the Federal Acquisition Regulations issued pursuant to section 25(c)(1) <sup>1</sup> of the Office of Federal Procurement Policy Act (41 U.S.C. 421(c)(1) <sup>2</sup> or contract with respect to each violation.
 
-(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1642; Pub. L. 110–417, div. C, title XXXV, §3511(a), (b), Oct. 14, 2008, 122 Stat. 4769.)
+(e)
+
+Security of Government-Impelled Cargo.—
+
+&emsp;(1) In order to ensure the safety of vessels and crewmembers transporting equipment, materials, or commodities under this section, the Secretary of Transportation shall direct each department or agency (except the Department of Defense), when responsible for the carriage of such equipment, materials, or commodities, to provide armed personnel aboard vessels of the United States carrying such equipment, materials, or commodities if the vessels are transiting high-risk waters.
+
+&emsp;(2) The Secretary of Transportation shall direct each department or agency responsible to provide armed personnel under paragraph (1) to reimburse, subject to the availability of appropriations, the owners or operators of applicable vessels for the cost of providing armed personnel.
+
+&emsp;(3) In this subsection, the term “high-risk waters” means waters so designated by the Commandant of the Coast Guard in the Port Security Advisory in effect on the date on which an applicable voyage begins.
+
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1642; Pub. L. 110–417, div. C, title XXXV, §3511(a), (b), Oct. 14, 2008, 122 Stat. 4769; Pub. L. 112–213, title V, §503, Dec. 20, 2012, 126 Stat. 1575.)
 
 Historical and Revision Notes
 
@@ -68,9 +78,11 @@ In subsection (a), the words “the provisions of this subsection shall not appl
 
 #### References in Text
 
-Section 25(c)(1) of the Office of Federal Procurement Policy Act, referred to in subsec. (d)(2)(D), was classified to section 421(c)(1) of former Title 41, Public Contracts, and was repealed and restated as section 1303(a)(1) of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. Fordisposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
+Section 25(c)(1) of the Office of Federal Procurement Policy Act, referred to in subsec. (d)(2)(D), was classified to section 421(c)(1) of former Title 41, Public Contracts, and was repealed and restated as section 1303(a)(1) of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (e). Pub. L. 112–213 added subsec. (e).
 
 <b>2008</b>—Subsec. (b). Pub. L. 110–417, §3511(a), substituted “foreign country, organization, or persons” for “foreign country”, “commodities, or provides financing in any way with Federal funds for the account of any persons unless otherwise exempted, within” for “commodities, within”, and “furnishing or obtaining” for “furnishing”.
 

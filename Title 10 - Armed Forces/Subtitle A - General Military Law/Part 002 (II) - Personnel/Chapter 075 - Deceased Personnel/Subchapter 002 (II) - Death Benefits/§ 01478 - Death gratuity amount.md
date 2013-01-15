@@ -192,7 +192,7 @@ Pub. L. 108–121, title I, §102(a)(2), Nov. 11, 2003, 117 Stat. 1337, provided
 
 #### Effective Date of 1991 Amendment; Transition Provision
 
-Section 652(b) of Pub. L. 102–190 provided that:
+Pub. L. 102–190, div. A, title VI, §652(b), Dec. 5, 1991, 105 Stat. 1388, provided that:
 
 “(1) The amendments made by subsection (a) \[amending this section\] shall take effect as of August 2, 1990.
 

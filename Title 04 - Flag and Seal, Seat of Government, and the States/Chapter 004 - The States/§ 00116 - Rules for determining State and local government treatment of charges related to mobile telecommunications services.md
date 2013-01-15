@@ -34,9 +34,9 @@ Specific Exceptions.—This section through <sup>1</sup> 126 of this title—
 
 #### References in Text
 
-Section 254 of the Communications Act of 1934, referred to in subsec. (b)(5), is classified to section 254 of Title 47, Telegraphs, Telephones, and Radiotelegraphs.
+Section 254 of the Communications Act of 1934, referred to in subsec. (b)(5), is classified to section 254 of Title 47, Telecommunications.
 
-The Internet Tax Freedom Act, referred to in subsec. (c)(2), is title XI of Pub. L. 105–277, div. C, Oct. 21, 1998, 112 Stat. 2681–719, which is set out as a note under section 151 of Title 47, Telegraphs, Telephones, and Radiotelegraphs.
+The Internet Tax Freedom Act, referred to in subsec. (c)(2), is title XI of Pub. L. 105–277, div. C, Oct. 21, 1998, 112 Stat. 2681–719, which is set out as a note under section 151 of Title 47, Telecommunications.
 
 #### Effective Date; Application of Amendment
 
@@ -48,7 +48,7 @@ Effective Date.—Except as provided in subsection (b), this Act \[enacting this
 
 “(b)
 
-Application of Act.—The amendment made by this Act \[enacting this section and sections 117 to 126 ofthis title\] shall apply only to customer bills issued after the first day of the first month beginning more than 2 years after the date of the enactment of this Act \[July 28, 2000\].”
+Application of Act.—The amendment made by this Act \[enacting this section and sections 117 to 126 of this title\] shall apply only to customer bills issuedafter the first day of the first month beginning more than 2 years after the date of the enactment of this Act \[July 28, 2000\].”
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “section”.</i>
 

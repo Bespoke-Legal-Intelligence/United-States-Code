@@ -6,7 +6,7 @@ No person to whom has been sold a Migratory Bird Hunting and Conservation Stamp,
 
 #### (b) Alteration
 
-Except as provided in clauses (i) and (ii) of section 504(<i>l</i>)(D) <sup>1</sup> of title 18, no person shall alter, mutilate, imitate, or counterfeit any stamp authorized by this subchapter, or imitate or counterfeit any die, plate, or engraving therefor, or make, print, or knowingly use, sell, or have in his possession any such counterfeit, die, plate, or engraving.
+Except as provided in clauses (i) and (ii) of section 504(l)(D) <sup>1</sup> of title 18, no person shall alter, mutilate, imitate, or counterfeit any stamp authorized by this subchapter, or imitate or counterfeit any die, plate, or engraving therefor, or make, print, or knowingly use, sell, or have in his possession any such counterfeit, die, plate, or engraving.
 
 #### (c) Reproduction
 
@@ -26,7 +26,7 @@ Notwithstanding the provisions of subsection (b) of this section, or the prohibi
 
 Subsec. (a). Pub. L. 109–266, §10(f)(1), inserted heading and substituted “Migratory Bird Hunting and Conservation Stamp” for “migratory-bird hunting stamp” in text.
 
-Subsec. (b). Pub. L. 109–266, §10(f)(2), inserted heading and substituted “Except as provided in clauses (i) and (ii) of section 504(<i>l</i>)(D) of title 18, no person shall alter” for “Except as provided in clauses (i) and (ii) of section 504(1)(D) of title 18, no person shall alter” in text.
+Subsec. (b). Pub. L. 109–266, §10(f)(2), inserted heading and substituted “Except as provided in clauses (i) and (ii) of section 504(l)(D) of title 18, no person shall alter” for “Except as provided in clauses (i) and (ii) of section 504(1)(D) of title 18, no person shall alter” in text.
 
 Subsec. (c). Pub. L. 109–266, §10(f)(3)(C)(ii), which directed substitution of “shall be paid, after deducting expenses for marketing, into the Migratory Bird Conservation Fund” for “shall be paid into the migratory bird conservation fund” in concluding provisions, was executed by making the substitution for “shall be paid, after deducting expenses for marketing, into the migratory bird conservation fund” to reflect the probable intent of Congress.
 
@@ -42,7 +42,7 @@ Subsec. (c). Pub. L. 98–369, §1077(a), added subsec. (c).
 
 #### Effective Date of 1984 Amendment
 
-Section 1077(c) of Pub. L. 98–369 provided that: “The amendments made by this section \[amending this section and section 504 of Title 18, Crimes and Criminal Procedure\] shall take effect on the date of the enactment of this Act \[July 18, 1984\].”
+Pub. L. 98–369, div. A, title X, §1077(c), July 18, 1984, 98 Stat. 1055, provided that: “The amendments made by this section \[amending this section and section 504 of Title 18, Crimes and Criminal Procedure\] shall take effect on the date of the enactment of this Act \[July 18, 1984\].”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “504(1)(D)”.</i>
 

@@ -58,7 +58,7 @@ Not later than 180 days after March 30, 2009, the Secretary shall establish a pr
 
 #### (I) Determination
 
-&emsp;&emsp;&emsp;&emsp;For each year of a first-phase grant, not later than 270 days after the date on which a grant recipient first receives grant funds for the year, the Secretary shall determine whether the grant recipient has made sufficient progress during the year to justify additional funding.
+&emsp;&emsp;&emsp;&emsp;For each year of a first-phase grant, not later than 270 days after the date onwhich a grant recipient first receives grant funds for the year, the Secretary shall determine whether the grant recipient has made sufficient progress during the year to justify additional funding.
 
 #### (II) Effect of determination
 
@@ -126,7 +126,7 @@ Not later than 180 days after March 30, 2009, the Secretary shall establish a pr
 
 #### (ii) Mandatory use of funds
 
-&emsp;&emsp;&emsp;A grant recipient that receives a third-phase grant shall use the funds to plan andcarry out at least 1 watershed management project.
+&emsp;&emsp;&emsp;A grant recipient that receives a third-phase grant shall use the funds to plan and carry out at least 1 watershed management project.
 
 #### (3) Authorizing use of funds for administrative and other costs
 

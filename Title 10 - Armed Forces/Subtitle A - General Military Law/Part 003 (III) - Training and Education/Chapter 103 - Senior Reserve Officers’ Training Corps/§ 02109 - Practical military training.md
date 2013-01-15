@@ -40,9 +40,9 @@ Subsec. (b). Pub. L. 100–456, §633(a)(2), inserted “, with respect to prac
 
 #### Effective Date of 1988 Amendment
 
-Section 633(e) of Pub. L. 100–456 provided that: “The amendments made by this section \[amending this section, section 8140 of Title 5, Government Organization and Employees, section 209 of Title 37, Pay and Allowances of the Uniformed Services, and section 101 of Title 38, Veterans’ Benefits\] shall apply only with respect to training performed after September 30, 1988.”
+Pub. L. 100–456, div. A, title VI, §633(e), Sept. 29, 1988, 102 Stat. 1987, provided that: “The amendments made by this section \[amending this section, section 8140 of Title 5, Government Organization and Employees, section 209 of Title 37, Pay and Allowances of the Uniformed Services, and section 101 of Title 38, Veterans’ Benefits\] shall apply only with respect to training performed after September 30, 1988.”
 
 #### Effective Date of 1965 Amendment
 
-Section 4 of Pub. L. 89–51 provided that: “The effective date of this Act \[amending this section and section 209 of Title 37, Pay and Allowances of the Uniformed Services, and enacting provisions set out as a note under section 2107 of this title\] is October 13, 1964.”
+Pub. L. 89–51, §4, June 28, 1965, 79 Stat. 173, provided that: “The effective date of this Act \[amending this section and section 209 of Title 37, Pay and Allowances of the Uniformed Services, and enacting provisions set out as a note under section 2107 of this title\] is October 13, 1964.”
 

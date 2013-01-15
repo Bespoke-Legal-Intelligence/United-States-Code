@@ -62,7 +62,7 @@ In subsection (d), the words “and 1101” are omitted, since section 1321 of t
 
 Subsec. (b)(2). Pub. L. 107–107, §533(a)(2)(A), struck out “unless a written waiver of reimbursement is granted by the Secretary of Defense” before period at end of first sentence.
 
-Subsec. (b)(3). Pub. L. 107–107, §533(a)(2)(B), added par. (3) and struck out former par. (3) which read as follows: “The amount of reimbursement waived under paragraph (2) may not exceed 50 percent of the per-person reimbursement amount otherwise required to be paid by a foreign country under such paragraph, except in the case of not more than 20 persons receiving instruction at the Academy under this section at any one time.”
+Subsec. (b)(3). Pub. L. 107–107, §533(a)(2)(B), added par. (3) and struck out former par. (3) which read as follows:“The amount of reimbursement waived under paragraph (2) may not exceed 50 percent of the per-person reimbursement amount otherwise required to be paid by a foreign country under such paragraph, except in the case of not more than 20 persons receiving instruction at the Academy under this section at any one time.”
 
 <b>2000</b>—Subsec. (a)(3). Pub. L. 106–398 added par. (3).
 
@@ -92,7 +92,7 @@ Subsec. (d). Pub. L. 98–94 reenacted subsec. (d) without change.
 
 Pub. L. 107–107, div. A, title V, §533(a)(3), Dec. 28, 2001, 115 Stat. 1105, provided that: “The amendments made by paragraph (2) \[amending this section\] shall not apply with respect to any person who entered the United States Military Academy to receive instruction under section 4344 of title 10, United States Code, before the date of the enactment of this Act \[Dec. 28, 2001\].”
 
-Pub. L. 107–107, div. A, title V, §533(d), Dec. 28, 2001, 115 Stat. 1106, provided that: “The amendments madeby this section \[amending this section and sections 6957 and 9344 of this title\] shall not apply with respect to any academic year that began before the date of the enactment of this Act \[Dec. 28, 2001\].”
+Pub. L. 107–107, div. A, title V, §533(d), Dec. 28, 2001, 115 Stat. 1106, provided that: “The amendments made by this section \[amending this section and sections 6957 and 9344 of this title\] shall not apply with respect to any academic year that began before the date of the enactment of this Act \[Dec. 28, 2001\].”
 
 #### Effective Date of 2000 Amendment
 
@@ -104,11 +104,11 @@ Pub. L. 106–65, div. A, title V, §534(d), Oct. 5, 1999, 113 Stat. 605, provid
 
 #### Effective Date of 1997 Amendment
 
-Section 543(d) of Pub. L. 105–85 provided that: “The amendments made by this section \[amending this section and sections 6957 and 9344 of this title\] apply with respect to students from a foreign country entering the United States Military Academy, the United States Naval Academy, or the United States Air Force Academy on or after May 1, 1998.”
+Pub. L. 105–85, div. A, title V, §543(d), Nov. 18, 1997, 111 Stat. 1744, provided that: “The amendments made by this section \[amending this section and sections 6957 and 9344 of this title\] apply with respect to students from a foreign country entering the United States Military Academy, the United States Naval Academy, or the United States Air Force Academy on or after May 1, 1998.”
 
 #### Effective Date of 1983 Amendment
 
-Section 1004(d) of Pub. L. 98–94 provided that:
+Pub. L. 98–94, title X, §1004(d), Sept. 24, 1983, 97 Stat. 660, provided that:
 
 “Sections 4344(b)(2), 6957(b)(2), and 9344(b)(2) of title 10, United States Code, as added by this section, do not apply to the cost of providing instruction to a person who, before the effective date of this section, entered the United States Military Academy, the United States Naval Academy, or the United States Air Force Academy under section 4344, 4345, 6957, 9344, or 9345 of such title, as in effect on the day before such date. Any such person shall be counted against the maximum of 40 persons who may attend the Academy concerned at any time under any of those sections.
 
@@ -118,7 +118,7 @@ Section 1004(d) of Pub. L. 98–94 provided that:
 
 Pub. L. 89–802, Nov. 9, 1966, 80 Stat. 1518, provided that:
 
-“(a) Notwithstanding any other provision of law, upon designation by the President, the Secretary of the Army, the Secretary of the Navy, and the Secretary of the Air Force, respectively, may permit persons from foreign countries to receive instruction at the Military Academy, the Naval Academy, and the Air Force Academy.
+“(a) Notwithstanding any other provision of law, upon designation by the President, the Secretary of the Army, the Secretary of the Navy, and the Secretary ofthe Air Force, respectively, may permit persons from foreign countries to receive instruction at the Military Academy, the Naval Academy, and the Air Force Academy.
 
 “(b) A person may not be admitted to an Academy for instruction under this Act unless his country at the time of his admission is assisting the United States in Vietnam by the provision of manpower or bases.
 

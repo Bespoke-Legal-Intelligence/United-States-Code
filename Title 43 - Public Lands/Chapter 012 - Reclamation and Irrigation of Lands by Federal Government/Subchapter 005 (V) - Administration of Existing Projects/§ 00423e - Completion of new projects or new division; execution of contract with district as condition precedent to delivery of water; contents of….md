@@ -20,5 +20,5 @@ Pub. L. 96–570, §4, Dec. 22, 1980, 94 Stat. 3340, provided that: “The follo
 
 #### Amendment of Existing Contracts
 
-Section 3 of act July 11, 1956, provided that: “The Secretary of the Interior is authorized, upon request of any holder of an existing contract under the Federal reclamation laws (Act of June 17, 1902, 32 Stat. 388, and Acts amendatory thereof or supplementary thereto), to amend the contract to conform to the provisions of sections 1 and 2 of this Act \[amending sections 423e and 544 of this title\].”
+Act July 11, 1956, ch. 563, §3, 70 Stat. 524, provided that: “The Secretary of the Interior is authorized, upon request of any holder of an existing contract under the Federal reclamation laws (Act of June 17, 1902, 32 Stat. 388, and Acts amendatory thereof or supplementary thereto), to amend the contract to conform to the provisions of sections 1 and 2 of this Act \[amending sections 423e and 544 of this title\].”
 

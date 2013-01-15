@@ -76,7 +76,7 @@ Section 5581(b)(5) of this title does not affect the validity of any right, duty
 
 #### (2) Continuation of suits
 
-&emsp;No provision of this Act shall abate any proceeding commenced by or against the Directorof the Office of Thrift Supervision (or the Office of Thrift Supervision) with respect to any consumer financial protection function of the Director of the Office of Thrift Supervision transferred to the Bureau by this title <sup>1</sup> before the designated transfer date, except that the Bureau, subject to sections 5514, 5515, and 5516 of this title, shall be substituted for the Director (or the Office of Thrift Supervision) as a party to any such proceeding as of the designated transfer date.
+&emsp;No provision of this Act shall abate any proceeding commenced by or against the Director of the Office of Thrift Supervision (or the Office of Thrift Supervision) with respect to any consumer financial protection function of the Director of the Office of Thrift Supervision transferred to the Bureau by this title <sup>1</sup> before the designated transfer date, except that the Bureau, subject to sections 5514, 5515, and 5516 of this title, shall be substituted for the Director (or the Office of Thrift Supervision) as a party to any such proceeding as of the designated transfer date.
 
 #### (g) Department of Housing and Urban Development
 
@@ -128,7 +128,7 @@ This title, where footnoted in text, is title X of Pub. L. 111–203, July 21, 2
 
 This Act, referred to in subsecs. (a)(2), (b)(2), (d)(2), (e)(2), and (f)(2), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376, known as the Dodd-Frank Wall Street Reform and Consumer Protection Act, which enacted this chapter and chapters 108 (§8201 et seq.) and 109 (§8301 et seq.) of Title 15, Commerce and Trade, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-The Real Estate Settlement Procedures Act of 1974, referred to in subsec. (g)(1)(A), is Pub. L. 93–533, Dec. 22,1974, 88 Stat. 1724, which is classified principally to chapter 27 (§2601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of this title and Tables.
+The Real Estate Settlement Procedures Act of 1974, referred to in subsec. (g)(1)(A), is Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, which is classified principally to chapter 27 (§2601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of this title and Tables.
 
 The Secure and Fair Enforcement for Mortgage Licensing Act of 2008, referred to in subsec. subsec. (g)(1)(A), is title V of div. A of Pub. L. 110–289, July 30, 2008, 122 Stat. 2810, also known as the S.A.F.E. Mortgage Licensing Act of 2008, which is classified generally to chapter 51 (§5101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of this title and Tables.
 

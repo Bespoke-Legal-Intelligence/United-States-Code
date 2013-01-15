@@ -54,7 +54,7 @@ Subsec. (c). Pub. L. 97–98 struck out subsec. (c) which related to loans, purc
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–213 amended subsec. (a) generally, temporarily substituting provisions relating to requiring producers not to exceed the acreage on the farm normally planted to designated crops, as reduced, for the 1980 and 1981 crops of wheat, feed grains, upland cotton, and rice, for provisions relating to reduction of acreage normally planted to designated crops by the acreage set-aside or diversion for the 1978 through 1981 crops of wheat, feed grains, upland cotton, and rice. See Effective and Termination Dates of 1980 Amendment note below.
 
-Subsec. (b). Pub. L. 96–213 amended subsec. (b) generally, temporarily substituting provisions relating to increases of the established price as compensation to producers for not exceeding the acreage in accordance with subsection (a) and participating in set-asides for1980 and 1980 crops for provisions relating to increases of the established prices to compensate producers for participation in set-asides for 1978 through 1981 crops. See Effective and Termination Dates of 1980 Amendment note below.
+Subsec. (b). Pub. L. 96–213 amended subsec. (b) generally, temporarily substituting provisions relating to increases of the established price as compensation to producers for not exceeding the acreage in accordance with subsection (a) and participating in set-asides for 1980 and 1980 crops for provisions relating to increases of the established prices to compensate producers for participation in set-asides for 1978 through 1981 crops. See Effective and Termination Dates of 1980 Amendment note below.
 
 Subsec. (c). Pub. L. 96–213, in amending section generally, temporarily added subsec. (c). See Effective and Termination Dates of 1980 Amendment note below.
 
@@ -72,13 +72,13 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 
 #### Effective and Termination Dates of 1980 Amendment
 
-Section 6 of Pub. L. 96–213 provided that the amendment made by that section is effective for 1980 and 1981 crops.
+Pub. L. 96–213, §6, Mar. 18, 1980, 94 Stat. 120, provided that the amendment made by that section is effective for the 1980 and 1981 crops.
 
 #### Effective Date of 1978 Amendments
 
-Section 501(b) of Pub. L. 95–334 provided that: “This section \[amending this section\] shall become effective October 1, 1978, and any producers who, prior to such date, receive payments on the 1978 crop of rice as computed under the Agricultural Act of 1949 \[see Short Title note set out under section 1421 of this title\], as amended by the Food and Agriculture Act of 1977 \[see Short Title of 1977 Amendment note set out under section 1281 of this title\], may elect after September 30, 1978, to receive payments as computed under section 1001(b) of the Food and Agriculture Act of 1977, as amended by this section.”
+Pub. L. 95–334, title V, §501(b), Aug. 4, 1978, 92 Stat. 434, provided that: “This section \[amending this section\] shall become effective October 1, 1978, and any producers who, prior to such date, receive payments on the 1978 crop of rice as computed under the Agricultural Act of 1949 \[see Short Title note set out under section 1421 of this title\], as amended by the Food and Agriculture Act of 1977 \[see Short Title of 1977 Amendment note set out under section 1281 of this title\], may elect after September 30, 1978, to receive payments as computed under section 1001(b) of the Food and Agriculture Act of 1977, as amended by this section.”
 
-Section 103 of title I of Pub. L. 95–279 provided that: “Sections 101 and 102 \[amending this section and section 1444 of this title\] of this title shall become effective October 1, 1978, and any producers who, prior to such date, receive loans and payments on the 1978 crop of the commodity as computed under the Agricultural Act of 1949 \[see Short Title note set out under section 1421 of this title\], as amended by the Food and Agriculture Act of 1977 \[see Short Title of 1977 Amendment note set out under section 1281 of this title\] may elect after September 30, 1978, to receive loans and payments as computed under this title.”
+Pub. L. 95–279, title I, §103, May 15, 1978, 92 Stat. 241, provided that: “Sections 101 and 102 \[amending this section and section 1444 of this title\] of this title shall become effective October 1, 1978, and any producers who, prior to such date, receive loans and payments on the 1978 crop of the commodity as computed under the Agricultural Act of 1949 \[see Short Title note set out under section 1421 of this title\], as amended by the Food and Agriculture Act of 1977 \[see Short Title of 1977 Amendment note set out under section 1281 of this title\] may elect after September 30, 1978, to receive loans and payments as computed under this title.”
 
 #### Effective Date
 

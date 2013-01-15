@@ -28,11 +28,11 @@ The notice provided under subsection (a) of this section shall include—
 
 &emsp;(4) a toll-free telephone number maintained by the Inspector General in the Department of Health and Human Services for the receipt of complaints and information about waste, fraud, and abuse in the provision or billing of services under this subchapter.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1804, as added Pub. L. 100–360, title II, §223(a), July 1, 1988, 102 Stat. 747; amended Pub. L. 103–432, title I,§171(j)(1), Oct. 31, 1994, 108 Stat. 4450; Pub. L. 105–33, title IV, §4311(a)(1), Aug. 5, 1997, 111 Stat. 384; Pub. L. 108–173, title IX, §923(d)(1), Dec. 8, 2003, 117 Stat. 2394.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1804, as added Pub. L. 100–360, title II, §223(a), July 1, 1988, 102 Stat. 747; amended Pub. L. 103–432, title I, §171(j)(1), Oct. 31, 1994, 108 Stat. 4450; Pub. L. 105–33, title IV, §4311(a)(1), Aug. 5, 1997, 111 Stat. 384; Pub. L. 108–173, title IX, §923(d)(1), Dec. 8, 2003, 117 Stat. 2394.)
 
 #### Amendments
 
-<b>2003</b>—Subsec. (b). Pub. L. 108–173 inserted at end “The Secretary shall provide, through the toll-free telephone number 1–800–MEDICARE, for a means by which individuals seeking information about, or assistance with, such programs who phone such toll-free number are transferred (without charge) to appropriate entities for the provision of such information or assistance. Such toll-free number shall be the toll-free number listed for general information and assistance in the annual notice under subsection (a) of this section instead of the listing of numbers of individual contractors.”
+<b>2003</b>—Subsec. (b). Pub. L. 108–173 inserted at end “The Secretary shall provide, through the toll-free telephonenumber 1–800–MEDICARE, for a means by which individuals seeking information about, or assistance with, such programs who phone such toll-free number are transferred (without charge) to appropriate entities for the provision of such information or assistance. Such toll-free number shall be the toll-free number listed for general information and assistance in the annual notice under subsection (a) of this section instead of the listing of numbers of individual contractors.”
 
 <b>1997</b>—Subsec. (c). Pub. L. 105–33 added subsec. (c).
 
@@ -40,15 +40,15 @@ The notice provided under subsection (a) of this section shall include—
 
 #### Effective Date of 1997 Amendment
 
-Section 4311(a)(2) of Pub. L. 105–33 provided that: “The amendment made by this subsection \[amending this section\] shall apply to notices provided on or after January 1, 1998.”
+Pub. L. 105–33, title IV, §4311(a)(2), Aug. 5, 1997, 111 Stat. 384, provided that: “The amendment made by this subsection \[amending this section\] shall apply to notices provided on or after January 1, 1998.”
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–432 effective as if included in the enactment of Pub. L. 101–508, see section 171(<i>l</i>) of Pub. L. 103–432, set out as a note under section 1395ss of this title.
+Amendment by Pub. L. 103–432 effective as if included in the enactment of Pub. L. 101–508, see section 171(l) of Pub. L. 103–432, set out as a note under section 1395ss of this title.
 
 #### Effective Date
 
-Section 223(d)(1) of Pub. L. 100–360 provided that: “The Secretary of Health and Human Services shall first distribute the notice required by the amendment made by subsection (a) \[enacting this section\] not later than January 31, 1989.”
+Pub. L. 100–360, title II, §223(d)(1), July 1, 1988, 102 Stat. 748, provided that: “The Secretary of Health and Human Services shall first distribute the notice required by the amendment made by subsection (a) \[enacting this section\] not later than January 31, 1989.”
 
 #### Monitoring Accuracy
 
@@ -68,7 +68,7 @@ For provisions relating to changes required to conform State regulatory programs
 
 #### Demonstration Projects
 
-Section 4361(b) of Pub. L. 101–508 provided that: “The Secretary of Health and Human Services is authorized to conduct demonstration projects in up to 5 States for the purpose of establishing statewide toll-free telephone numbers for providing information on medicare benefits, medicare supplemental policies available in the State, and benefits under the State medicaid program.”
+Pub. L. 101–508, title IV, §4361(b), Nov. 5, 1990, 104 Stat. 1388–141, provided that: “The Secretary of Health and Human Services is authorized to conduct demonstration projects in up to 5 States for the purpose of establishing statewide toll-free telephone numbers for providing information on medicare benefits, medicare supplemental policies available in the State, and benefits under the State medicaid program.”
 
 #### Notice of Changes Under Repeal of Medicare Catastrophic Coverage
 
@@ -76,5 +76,5 @@ Pub. L. 101–234, title II, §203(c), Dec. 13, 1989, 103 Stat. 1984, provided t
 
 #### Benefits Counseling and Assistance Demonstration Project for Certain Medicare and Medicaid Beneficiaries
 
-Section 424 of Pub. L. 100–360, which directed Secretary of Health and Human Services to establish a demonstration project to demonstrate that its volunteers were adequately trained and competent to render effective benefits counseling and assistance to the elderly, was repealed by Pub. L. 101–234, title III, §301(a), Dec. 13, 1989, 103 Stat. 1985.
+Pub. L. 100–360, title IV, §424, July 1, 1988, 102 Stat. 812, which directed Secretary of Health and Human Services to establish a demonstration project to demonstrate that its volunteers were adequately trained and competent to render effective benefits counseling and assistance to the elderly, was repealed by Pub. L. 101–234, title III, §301(a), Dec. 13, 1989, 103 Stat. 1985.
 

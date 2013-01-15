@@ -14,11 +14,17 @@ In General.—Whoever, intending or knowing that the offense will benefit any fo
 
 &emsp;(5) conspires with one or more other persons to commit any offense described in any of paragraphs (1) through (3), and one or more of such persons do any act to effect the object of the conspiracy,
 
-> shall, except as provided in subsection (b), be fined not more than $500,000 or imprisoned not more than 15 years, or both.
+> shall, except as provided in subsection (b), be fined not more than $5,000,000 or imprisoned not more than 15 years, or both.
 
 (b)
 
-Organizations.—Any organization that commits any offense described in subsection (a) shall be fined not more than $10,000,000.
+Organizations.—Any organization that commits any offense described in subsection (a) shall be fined not more than the greater of $10,000,000 or 3 times the value of the stolen trade secret to the organization, including expenses for research and design and other costs of reproducing the trade secret that the organization has thereby avoided.
 
-(Added Pub. L. 104–294, title I, §101(a), Oct. 11, 1996, 110 Stat. 3488.)
+(Added Pub. L. 104–294, title I, §101(a), Oct. 11, 1996, 110 Stat. 3488; amended Pub. L. 112–269, §2, Jan. 14, 2013, 126 Stat. 2442.)
+
+#### Amendments
+
+<b>2013</b>—Subsec. (a). Pub. L. 112–269, §2(a), substituted “not more than $5,000,000” for “not more than $500,000” in concluding provisions.
+
+Subsec. (b). Pub. L. 112–269, §2(b), substituted “not more than the greater of $10,000,000 or 3 times the value of the stolen trade secret to the organization, including expenses for research and design and other costs of reproducing the trade secret that the organization has thereby avoided” for “not more than $10,000,000”.
 

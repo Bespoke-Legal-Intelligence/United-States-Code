@@ -18,11 +18,11 @@ In making an assignment of a Corps member to an entity that has had an applicati
 
 #### (3) Extent of counseling services
 
-&emsp;With respect to individuals who have entered into contracts for obligated service under the Scholarship or Loan Repayment Program, this subsection shall be carried out regarding such individuals throughout the period of obligated service (and, additionally,throughout the period specified in paragraph (2)(B), in the case of the Scholarship Program). With respect to Corps members generally, this subsection shall be carried out to the extent practicable.
+&emsp;With respect to individuals who have entered into contracts for obligated service under the Scholarship or Loan Repayment Program, this subsection shall be carried out regarding such individuals throughout the period of obligated service (and, additionally, throughout the period specified in paragraph (2)(B), in the case of the Scholarship Program). With respect to Corps members generally, this subsection shall be carried out to the extent practicable.
 
 #### (c) Grants regarding preparation of students for practice
 
-With respect to individuals who have entered into contracts for obligated service under the Scholarship or Loan Repayment Program, the Secretary may make grants to, and enter into contracts with, public and nonprofit private entities (including health professions schools) for the conduct of programs designed to prepare such individuals for the effective provision of primary health services in the health professional shortage areas to which the individuals are assigned.
+With respect to individuals who have entered into contracts for obligated service under the Scholarship or Loan Repayment Program, the Secretary may make grants to, and enter intocontracts with, public and nonprofit private entities (including health professions schools) for the conduct of programs designed to prepare such individuals for the effective provision of primary health services in the health professional shortage areas to which the individuals are assigned.
 
 #### (d) Professional development and training
 
@@ -80,7 +80,7 @@ With respect to individuals who have entered into contracts for obligated servic
 
 #### (f) Determinations regarding effective service
 
-In carrying out subsection (a) of this section and sections 254<i>l</i>(d) and 254<i>l</i>–1(d) of this title, the Secretary shall carry out activities to determine—
+In carrying out subsection (a) of this section and sections 254l(d) and 254l–1(d) of this title, the Secretary shall carry out activities to determine—
 
 &emsp;(1) the characteristics of physicians, dentists, and other health professionals who are more likely to remain in practice in health professional shortage areas after the completion of the period of service in the Corps;
 

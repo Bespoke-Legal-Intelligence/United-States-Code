@@ -28,7 +28,7 @@ Under this section the court may authorize the trustee to abandon any property o
 
 <b>1984</b>—Subsecs. (a), (b). Pub. L. 98–353, §468(a), inserted “and benefit” after “value”.
 
-Subsec. (c). Pub. L. 98–353, §468(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Unless the court orders otherwise, any property that is scheduled under section 521(1) of this title and that is not administered before a case is closed under section 350 of this title is deemed abandoned.”
+Subsec. (c). Pub. L. 98–353, §468(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read asfollows: “Unless the court orders otherwise, any property that is scheduled under section 521(1) of this title and that is not administered before a case is closed under section 350 of this title is deemed abandoned.”
 
 Subsec. (d). Pub. L. 98–353, §468(c), struck out “section (a) or (b) of” after “not abandoned under”.
 

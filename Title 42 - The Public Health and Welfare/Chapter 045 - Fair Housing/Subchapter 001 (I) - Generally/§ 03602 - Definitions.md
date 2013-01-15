@@ -42,7 +42,7 @@ As used in this subchapter—
 
 > The protections afforded against discrimination on the basis of familial status shall apply to any person who is pregnant or is in the process of securing legal custody of any individual who has not attained the age of 18 years.
 
-(<i>l</i>) “Conciliation” means the attempted resolution of issues raised by a complaint, or by the investigation of such complaint, through informal negotiations involving the aggrieved person, the respondent, and the Secretary.
+(l) “Conciliation” means the attempted resolution of issues raised by a complaint, or by the investigation of such complaint, through informal negotiations involving the aggrieved person, the respondent, and the Secretary.
 
 (m) “Conciliation agreement” means a written agreement setting forth the resolution of the issues in conciliation.
 
@@ -52,7 +52,7 @@ As used in this subchapter—
 
 &emsp;(2) any other person or entity identified in the course of investigation and notified as required with respect to respondents so identified under section 3610(a) of this title.
 
-(<i>o</i>) “Prevailing party” has the same meaning as such term has in section 1988 of this title.
+(o) “Prevailing party” has the same meaning as such term has in section 1988 of this title.
 
 (Pub. L. 90–284, title VIII, §802, Apr. 11, 1968, 82 Stat. 81; Pub. L. 95–598, title III, §331, Nov. 6, 1978, 92 Stat. 2679; Pub. L. 100–430, §5, Sept. 13, 1988, 102 Stat. 1619.)
 
@@ -60,7 +60,7 @@ As used in this subchapter—
 
 <b>1988</b>—Subsec. (f). Pub. L. 100–430, §5(a), substituted “3606, or 3617” for “or 3606”.
 
-Subsecs. (h) to (<i>o</i>). Pub. L. 100–430, §5(b), added subsecs. (h) to (<i>o</i>).
+Subsecs. (h) to (o). Pub. L. 100–430, §5(b), added subsecs. (h) to (o).
 
 <b>1978</b>—Subsec. (d). Pub. L. 95–598 substituted “trustees in cases under title 11” for “trustees in bankruptcy”.
 

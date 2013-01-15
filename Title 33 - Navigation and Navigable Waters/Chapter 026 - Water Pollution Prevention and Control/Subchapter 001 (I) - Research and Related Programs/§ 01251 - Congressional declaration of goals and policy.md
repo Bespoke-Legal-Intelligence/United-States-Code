@@ -70,7 +70,7 @@ Pub. L. 107–303, title II, §201, Nov. 27, 2002, 116 Stat. 2358, provided that
 
 Pub. L. 106–457, title II, §201, Nov. 7, 2000, 114 Stat. 1967, provided that: “This title \[amending section 1267 of this title and enacting provisions set out as a note under section 1267 of this title\] may be cited as the ‘Chesapeake Bay Restoration Act of 2000’.”
 
-Pub. L. 106–457, title IV, §401, Nov. 7, 2000, 114 Stat. 1973, provided that: “This title \[amending section 1269 of this title\] may be cited as the ‘Long Island Sound Restoration Act’.”
+Pub. L. 106–457, title IV, §401, Nov. 7, 2000, 114 Stat. 1973, provided that: “This title \[amending section 1269of this title\] may be cited as the ‘Long Island Sound Restoration Act’.”
 
 Pub. L. 106–457, title V, §501, Nov. 7, 2000, 114 Stat. 1973, provided that: “This title \[enacting section 1273 of this title\] may be cited as the ‘Lake Pontchartrain Basin Restoration Act of 2000’.”
 
@@ -114,9 +114,9 @@ Section 519, formerly section 518, of Act June 30, 1948, ch. 758, title V, as ad
 
 #### Savings Provision
 
-Section 4 of Pub. L. 92–500 provided that:
+Pub. L. 92–500, §4, Oct. 18, 1972, 86 Stat. 896, provided that:
 
-“(a) No suit, action, or other proceeding lawfully commenced by or against the Administrator or anyother officer or employee of the United States in his official capacity or in relation to the discharge of his official duties under the Federal Water Pollution Control Act as in effect immediately prior to the date of enactment of this Act \[Oct. 18, 1972\] shall abate by reason of the taking effect of the amendment made by section 2 of this Act \[which enacted this chapter\]. The court may, on its own motion or that of any party made at any time within twelve months after such taking effect, allow the same to be maintained by or against the Administrator or such officer or employee.
+“(a) No suit, action, or other proceeding lawfully commenced by or against the Administrator or any other officer or employee of the United States in his official capacity or in relation to the discharge of his official duties under the Federal Water Pollution Control Act as in effect immediately prior to the date of enactment of this Act \[Oct. 18, 1972\] shall abate by reason of the taking effect of the amendment made by section 2 of this Act \[which enacted this chapter\]. The court may, on its own motion or that of any party made at any time within twelve months after such taking effect, allow the same to be maintained by or against the Administrator or such officer or employee.
 
 “(b) All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, or other actions duly issued, made, or taken by or pursuant to the Federal Water Pollution Control Act as in effect immediately prior to the date of enactment of this Act \[Oct. 18, 1972\], and pertaining to any functions, powers, requirements, and duties under the Federal Water Pollution Control Act as in effect immediately prior to the date of enactment of this Act \[Oct. 18, 1972\] shall continue in full force and effect after the date of enactment of this Act \[Oct. 18, 1972\] until modified or rescinded in accordance with the Federal Water Pollution Control Act as amended by this Act \[this chapter\].
 
@@ -124,7 +124,7 @@ Section 4 of Pub. L. 92–500 provided that:
 
 #### Separability
 
-Section 512 of act June 30, 1948, ch. 758, title V, as added Oct. 18, 1972, Pub. L. 92–500, §2, 86 Stat. 894, provided that: “If any provision of this Act \[this chapter\], or the application of any provision of this Act \[this chapter\] to any person or circumstance, is held invalid, the application of such provision to other persons or circumstances, and the remainder of this Act \[this chapter\], shall not be affected thereby.”
+Act June 30, 1948, ch. 758, title V, §512, as added by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 894, provided that: “If any provision of this Act \[this chapter\], or the application of any provision of this Act \[this chapter\] to any person or circumstance, is held invalid, the application of such provision to other persons or circumstances, and the remainder of this Act \[this chapter\], shall not be affected thereby.”
 
 #### National Shellfish Indicator Program
 
@@ -222,11 +222,11 @@ For provisions relating to the responsibility of the head of each Executive agen
 
 #### Oversight Study
 
-Section 5 of Pub. L. 92–500 authorized the Comptroller General of the United States to conduct a study and review of the research, pilot, and demonstration programs related to prevention and control of water pollution conducted, supported, or assisted by any Federal agency pursuant to any Federal law or regulation and assess conflicts between these programs and their coordination and efficacy, and to report to Congress thereon by Oct. 1, 1973.
+Pub. L. 92–500, §5, Oct. 18, 1972, 86 Stat. 897, authorized the Comptroller General of the United States to conduct a study and review of the research, pilot, and demonstration programs related to prevention and control of water pollution conducted, supported, or assisted by any Federal agency pursuant to any Federal law or regulation and assess conflicts between these programs and their coordination and efficacy, and to report to Congress thereon by Oct. 1, 1973.
 
 #### International Trade Study
 
-Section 6 of Pub. L. 92–500 provided that:
+Pub. L. 92–500, §6, Oct. 18, 1972, 86 Stat. 897, provided that:
 
 “(a) The Secretary of Commerce, in cooperation with other interested Federal agencies and with representatives of industry and the public, shall undertake immediately an investigation and study to determine—
 
@@ -250,19 +250,19 @@ Section 6 of Pub. L. 92–500 provided that:
 
 #### International Agreements
 
-Section 7 of Pub. L. 92–500 provided that: “The President shall undertake to enter into international agreement to apply uniform standards of performance for the control of the discharge and emission of pollutants from new sources, uniform controls over the discharge and emission of toxic pollutants, and uniform controls over the discharge of pollutants into the ocean. For this purpose the President shall negotiate multilateral treaties, conventions, resolutions, or other agreements, and formulate, present, or support proposals at the United Nations and other appropriate international forums.”
+Pub. L. 92–500, §7, Oct. 18, 1972, 86 Stat. 898, provided that: “The President shall undertake to enter into international agreement to apply uniform standards of performance for the control of the discharge and emission of pollutants from new sources, uniform controls over the discharge and emission of toxic pollutants, and uniform controls over the discharge of pollutants into the ocean. For this purpose the President shall negotiate multilateral treaties, conventions, resolutions, or other agreements, and formulate, present, or support proposals at the United Nations and other appropriate international forums.”
 
 #### National Policies and Goal Study
 
-Section 10 of Pub. L. 92–500 directed President to make a full and complete investigation and study of allnational policies and goals established by law to determine what the relationship should be between these policies and goals, taking into account the resources of the Nation, and to report results of his investigation and study together with his recommendations to Congress not later than two years after Oct. 18, 1972.
+Pub. L. 92–500, §10, Oct. 18, 1972, 86 Stat. 899, directed President to make a full and complete investigation and study of all national policies and goals established by law to determine what the relationship should be between these policies and goals, taking into account the resources of the Nation, and to report results of his investigation and study together with his recommendations to Congress not later than two years after Oct. 18, 1972.
 
 #### Efficiency Study
 
-Section 11 of Pub. L. 92–500 directed President, by utilization of the General Accounting Office, to conduct a full and complete investigation and study of ways and means of most effectively using all of the various resources, facilities, and personnel of the Federal Government in order to most efficiently carry out the provisions of this chapter and to report results of his investigation and study together with his recommendations to Congress not later than two hundred and seventy days after Oct. 18, 1972.
+Pub. L. 92–500, §11, Oct. 18, 1972, 86 Stat. 899, directed President, by utilization of the General Accounting Office, to conduct a full and complete investigation and study of ways and means of most effectively using all of the various resources, facilities, and personnel of the Federal Government in order to most efficiently carry out the provisions of this chapter and to report results of his investigation and study together with his recommendations to Congress not later than two hundred and seventy days after Oct. 18, 1972.
 
 #### Sex Discrimination
 
-Section 13 of Pub. L. 92–500 provided that: “No person in the United States shall on the ground of sex be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any program or activity receiving Federal assistance under this Act \[see Short Title note above\] the Federal Water Pollution Control Act \[this chapter\], or the Environmental Financing Act \[set out as a note under section 1281 of this title\]. This section shall be enforced through agency provisions and rules similar to those already established, with respect to racial and other discrimination, under title VI of the Civil Rights Act of 1964 \[section 2000d et seq. of Title 42, The Public Health and Welfare\]. However, this remedy is not exclusive and will not prejudice or cut off any other legal remedies available to a discriminatee.”
+Pub. L. 92–500, §13, Oct. 18, 1972, 86 Stat. 903, provided that: “No person in the United States shall on the ground of sex be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any program or activity receiving Federal assistance under this Act \[see Short Title note above\] the Federal Water Pollution Control Act \[this chapter\], or the Environmental Financing Act \[set out as a note under section 1281 of this title\]. This section shall be enforced through agency provisions and rules similar to those already established, with respect to racial and other discrimination, under title VI of the Civil Rights Act of 1964 \[section 2000d et seq. of Title 42, The Public Health and Welfare\]. However, this remedy is not exclusive and will not prejudice or cut off any other legal remedies available to a discriminatee.”
 
 #### Contiguous Zone of United States
 
@@ -274,7 +274,7 @@ Ex. Ord. No. 12088, Oct. 13, 1978, 43 F.R. 47707, set out as a note under sectio
 
 #### Executive Order No. 11548
 
-Ex. Ord. No. 11548, July 20, 1970, 35 F.R. 11677, which related to the delegation of Presidential functions, was superseded by Ex. Ord. No. 11735, Aug. 3, 1973, 38 F.R. 21243, formerly set out as a note under section 1321 of this title.
+Ex. Ord. No. 11548, July 20, 1970, 35 F.R. 11677, which related to the delegation of Presidential functions, wassuperseded by Ex. Ord. No. 11735, Aug. 3, 1973, 38 F.R. 21243, formerly set out as a note under section 1321 of this title.
 
 #### Ex. Ord. No. 11742. Delegation of Functions to Secretary of State Respecting the Negotiation of International Agreements Relating to the Enhancement of the Environment
 
@@ -286,5 +286,5 @@ Richard Nixon.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Definition of “Administrator”
 
-Section 1(d) of Pub. L. 100–4 provided that: “For purposes of this Act \[see Short Title of 1987 Amendment note above\], the term ‘Administrator’ means the Administrator of the Environmental Protection Agency.”
+Pub. L. 100–4, §1(d), Feb. 4, 1987, 101 Stat. 8, provided that: “For purposes of this Act \[see Short Title of 1987 Amendment note above\], the term ‘Administrator’ means the Administrator of the Environmental Protection Agency.”
 

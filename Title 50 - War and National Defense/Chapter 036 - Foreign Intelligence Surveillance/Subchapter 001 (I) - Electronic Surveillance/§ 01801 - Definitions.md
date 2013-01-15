@@ -36,7 +36,7 @@ As used in this subchapter:
 
 &emsp;&emsp;&emsp;(A) knowingly engages in clandestine intelligence gathering activities for or on behalf of a foreign power, which activities involve or may involve a violation of the criminal statutes of the United States;
 
-&emsp;&emsp;&emsp;(B) pursuant to the direction of an intelligence service or network of a foreign power, knowingly engages in any other clandestine intelligence activities for oron behalf of such foreign power, which activities involve or are about to involve a violation of the criminal statutes of the United States;
+&emsp;&emsp;&emsp;(B) pursuant to the direction of an intelligence service or network of a foreign power, knowingly engages in any other clandestine intelligence activities for or on behalf of such foreign power, which activities involve or are about to involve a violation of the criminal statutes of the United States;
 
 &emsp;&emsp;&emsp;(C) knowingly engages in sabotage or international terrorism, or activities that are in preparation therefor, for or on behalf of a foreign power;
 
@@ -92,9 +92,9 @@ As used in this subchapter:
 
 &emsp;&emsp;(1) specific procedures, which shall be adopted by the Attorney General, that are reasonably designed in light of the purpose and technique of the particular surveillance, to minimize the acquisition and retention, and prohibit the dissemination, of nonpublicly available information concerning unconsenting United States persons consistent with the need of the United States to obtain, produce, and disseminate foreign intelligence information;
 
-&emsp;&emsp;(2) procedures that require that nonpublicly available information, which is not foreign intelligence information, as defined in subsection (e)(1) of this section, shall not be disseminated in a manner that identifies any United States person, without such person's consent, unless such person's identity is necessary to understand foreign intelligence information or assess its importance;
+&emsp;&emsp;(2) procedures that require that nonpublicly available information, which is not foreign intelligence information, as defined in subsection (e)(1) of this section, shall not be disseminated in a manner that identifies any United States person, without such person'sconsent, unless such person's identity is necessary to understand foreign intelligence information or assess its importance;
 
-&emsp;&emsp;(3) notwithstanding paragraphs (1) and (2), procedures that allow for the retention anddissemination of information that is evidence of a crime which has been, is being, or is about to be committed and that is to be retained or disseminated for law enforcement purposes; and
+&emsp;&emsp;(3) notwithstanding paragraphs (1) and (2), procedures that allow for the retention and dissemination of information that is evidence of a crime which has been, is being, or is about to be committed and that is to be retained or disseminated for law enforcement purposes; and
 
 &emsp;&emsp;(4) notwithstanding paragraphs (1), (2), and (3), with respect to any electronic surveillance approved pursuant to section 1802(a) of this title, procedures that require that no contents of any communication to which a United States person is a party shall be disclosed, disseminated, or used for any purpose or retained for longer than 72 hours unless a court order under section 1805 of this title is obtained or unless the Attorney General determines that the information indicates a threat of death or serious bodily harm to any person.
 
@@ -104,13 +104,13 @@ As used in this subchapter:
 
 &emsp;(k) “Aggrieved person” means a person who is the target of an electronic surveillance or any other person whose communications or activities were subject to electronic surveillance.
 
-&emsp;(<i>l</i>) “Wire communication” means any communication while it is being carried by a wire, cable, or other like connection furnished or operated by any person engaged as a common carrier in providing or operating such facilities for the transmission of interstate or foreign communications.
+&emsp;(l) “Wire communication” means any communication while it is being carried by a wire, cable, or other like connection furnished or operated by any person engaged as a common carrier in providing or operating such facilities for the transmission of interstate or foreign communications.
 
 &emsp;(m) “Person” means any individual, including any officer or employee of the Federal Government, or any group, entity, association, corporation, or foreign power.
 
 &emsp;(n) “Contents”, when used with respect to a communication, includes any information concerning the identity of the parties to such communication or the existence, substance, purport, or meaning of that communication.
 
-&emsp;(<i>o</i>) “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Trust Territory of the Pacific Islands, and any territory or possession of the United States.
+&emsp;(o) “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Trust Territory of the Pacific Islands, and any territory or possession of the United States.
 
 &emsp;(p) “Weapon of mass destruction” means—
 
@@ -156,7 +156,7 @@ Pub. L. 110–261, title IV, §402, July 10, 2008, 122 Stat. 2473, provided that
 
 #### Termination Date of 2004 Amendment
 
-Pub. L. 108–458, title VI, §6001(b), Dec. 17, 2004, 118 Stat. 3742, as amended by Pub. L. 109–177, title I, §103, Mar. 9, 2006, 120 Stat. 195; Pub. L. 111–118, div. B, §1004(b), Dec. 19, 2009, 123 Stat. 3470; Pub. L. 111–141, §1(b), Feb. 27, 2010, 124 Stat. 37; Pub. L. 112–3, §2(b), Feb. 25, 2011, 125 Stat. 5; Pub. L. 112–14, §2(b), May 26, 2011, 125 Stat. 216, provided that:
+Pub. L. 108–458, title VI, §6001(b), Dec. 17, 2004, 118 Stat. 3742, as amended by Pub. L. 109–177, title I, §103,Mar. 9, 2006, 120 Stat. 195; Pub. L. 111–118, div. B, §1004(b), Dec. 19, 2009, 123 Stat. 3470; Pub. L. 111–141, §1(b), Feb. 27, 2010, 124 Stat. 37; Pub. L. 112–3, §2(b), Feb. 25, 2011, 125 Stat. 5; Pub. L. 112–14, §2(b), May 26, 2011, 125 Stat. 216, provided that:
 
 “(1)
 
@@ -173,6 +173,10 @@ Pub. L. 107–108, title III, §314(c), Dec. 28, 2001, 115 Stat. 1402, provided 
 #### Effective Date; Exception
 
 Pub. L. 95–511, title VII, §701, formerly title III, §301, Oct. 25, 1978, 92 Stat. 1798, as renumbered title IV, §401, and amended by Pub. L. 103–359, title VIII, §807(a)(1), (2), Oct. 14, 1994, 108 Stat. 3443; renumbered title VI, §601, and amended Pub. L. 105–272, title VI, §§601(1), 603(a), Oct. 20, 1998, 112 Stat. 2404, 2412; renumbered title VII, §701, Pub. L. 108–458, title VI, §6002(a)(1), Dec. 17, 2004, 118 Stat. 3743, which provided that the provisions of this Act \[enacting this chapter, amending sections 2511, 2518, and 2519 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as a note below\] (other than titles III, IV, and V \[enacting subchapters II, III, and IV, respectively, of this chapter\]) and the amendments made hereby shall become effective upon the date of enactment of this Act \[Oct. 25, 1978\], except that any electronic surveillance approved by the Attorney General to gather foreign intelligence information shall not be deemed unlawful for failure to follow the procedures of this Act, if that surveillance is terminated or an order approving that surveillance is obtained under title I of this Act \[enacting this subchapter\] within ninety days following the designation of the first judge pursuant to section 103 of this Act \[section 1803 of this title\], was repealed by Pub. L. 110–261, title I, §101(a)(1), July 10, 2008, 122 Stat. 2437.
+
+#### Short Title of 2012 Amendment
+
+Pub. L. 112–238, §1, Dec. 30, 2012, 126 Stat. 1631, provided that: “This Act \[amending sections 1881 to 1881g of this title and provisions set out as notes under this section, section 1881 of this title, and section 2511 of Title 18, Crimes and Criminal Procedure\] may be cited as the ‘FISA Amendments Act Reauthorization Act of 2012’.”
 
 #### Short Title of 2011 Amendment
 
@@ -194,7 +198,7 @@ Pub. L. 106–567, title VI, §601, Dec. 27, 2000, 114 Stat. 2850, provided that
 
 #### Short Title
 
-Section 1 of Pub. L. 95–511 provided in part: “That this Act \[enacting this chapter, amending sections 2511, 2518, and 2519 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as a note above\] may be cited as the ‘Foreign Intelligence Surveillance Act of 1978’.”
+Pub. L. 95–511, §1, Oct. 25, 1978, 92 Stat. 1783, provided in part: “That this Act \[enacting this chapter, amending sections 2511, 2518, and 2519 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as a note above\] may be cited as the ‘Foreign Intelligence Surveillance Act of 1978’.”
 
 #### Severability
 
@@ -204,7 +208,7 @@ Pub. L. 106–567, title VI, §608, Dec. 27, 2000, 114 Stat. 2856, provided that
 
 #### Transition Procedures
 
-Pub. L. 110–261, title IV, §404, July 10, 2008, 122 Stat. 2474, provided that:
+Pub. L. 110–261, title IV, §404, July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, §2(b), Dec. 30, 2012, 126 Stat. 1631, provided that:
 
 “(a)
 
@@ -220,7 +224,7 @@ Continued effect of orders, authorizations, directives.—Except as provided in 
 
 Applicability of protect america act of 2007 to continued orders, authorizations, directives.—Notwithstanding any other provision of this Act \[see Short Title of 2008 Amendment note above\], any amendment made by this Act, or the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.)—
 
-&emsp;&emsp;“(A) subject to paragraph (3), section 105A of such Act \[50 U.S.C. 1805a\], as added by section 2 of the Protect America Act of 2007 (Public Law 110–55; 121 Stat. 552), shall continue to apply to any acquisition conducted pursuant to an order, authorization, or directive referred to in paragraph (1); and
+&emsp;&emsp;“(A) subject to paragraph (3), section 105A of such Act \[50 U.S.C. 1805a\], as added by section 2 of theProtect America Act of 2007 (Public Law 110–55; 121 Stat. 552), shall continue to apply to any acquisition conducted pursuant to an order, authorization, or directive referred to in paragraph (1); and
 
 &emsp;&emsp;“(B) sections 105B and 105C of the Foreign Intelligence Surveillance Act of 1978 \[50 U.S.C. 1805b, 1805c\], as added by sections 2 and 3, respectively, of the Protect America Act of 2007, shall continue to apply with respect to an order, authorization, or directive referred to in paragraph (1) until the later of—
 
@@ -230,11 +234,11 @@ Applicability of protect america act of 2007 to continued orders, authorizations
 
 &emsp;“(3)
 
-Use of information.—Information acquired from an acquisition conducted pursuant to an order,authorization, or directive referred to in paragraph (1) shall be deemed to be information acquired from an electronic surveillance pursuant to title I of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.) for purposes of section 106 of such Act (50 U.S.C. 1806), except for purposes of subsection (j) of such section.
+Use of information.—Information acquired from an acquisition conducted pursuant to an order, authorization, or directive referred to in paragraph (1) shall be deemed to be information acquired from an electronic surveillance pursuant to title I of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.) for purposes of section 106 of such Act (50 U.S.C. 1806), except for purposes of subsection (j) of such section.
 
 &emsp;“(4)
 
-Protection from liability.—Subsection (<i>l</i>) of section 105B of the Foreign Intelligence Surveillance Act of 1978 \[50 U.S.C. 1805b(<i>l</i>)\], as added by section 2 of the Protect America Act of 2007, shall continue to apply with respect to any directives issued pursuant to such section 105B.
+Protection from liability.—Subsection (l) of section 105B of the Foreign Intelligence Surveillance Act of 1978 \[50 U.S.C. 1805b(l)\], as added by section 2 of the Protect America Act of 2007, shall continue to apply with respect to any directives issued pursuant to such section 105B.
 
 &emsp;“(5)
 
@@ -288,7 +292,7 @@ Provisions.—
 
 &emsp;“(1)
 
-Orders in effect on december 31, 2012.—Notwithstanding any other provision of this Act, any amendment made by this Act, or the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.), any order, authorization, or directive issued or made under title VII of the Foreign Intelligence Surveillance Act of 1978 \[50 U.S.C. 1881 et seq.\], as amended by section 101(a), shall continue in effect until the date of the expiration of such order, authorization, or directive.
+Orders in effect on december 31, 2017.—Notwithstanding any other provision of this Act, any amendment made by this Act, or the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.), any order, authorization, or directive issued or made under title VII of the Foreign Intelligence Surveillance Act of 1978 \[50 U.S.C. 1881 et seq.\], as amended by section 101(a), shall continue in effect until the date of the expiration of such order, authorization, or directive.
 
 &emsp;“(2)
 
@@ -306,7 +310,7 @@ Challenge of directives; protection from liability; use of information.—Notwit
 
 &emsp;&emsp;“(B) section 702(h)(3) of such Act (as so added) shall continue to apply with respect to any directive issued pursuant to section 702(h) of such Act (as so added);
 
-&emsp;&emsp;“(C) section 703(e) of such Act \[50 U.S.C. 1881b(e)\] (as so added) shall continue to apply with respect to an order or request for emergency assistance under that section;
+&emsp;&emsp;“(C) section 703(e) of such Act \[50 U.S.C. 1881b(e)\] (as so added) shall continue to apply with respect toan order or request for emergency assistance under that section;
 
 &emsp;&emsp;“(D) section 706 of such Act \[50 U.S.C. 1881e\] (as so added) shall continue to apply to an acquisition conducted under section 702 or 703 of such Act (as so added); and
 
@@ -318,7 +322,7 @@ Reporting requirements.—
 
 &emsp;&emsp;“(A)
 
-Continued applicability.—Notwithstanding any other provision of this Act or of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.), section 601(a) of such Act (50 U.S.C. 1871(a)), as amended by section 101(c)(2), and sections 702(<i>l</i>) and 707 of such Act, \[50 U.S.C. 1881a(<i>l</i>), 1881f\] asadded by section 101(a), shall continue to apply until the date that the certification described in subparagraph (B) is submitted.
+Continued applicability.—Notwithstanding any other provision of this Act or of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.), section 601(a) of such Act (50 U.S.C. 1871(a)), as amended by section 101(c)(2), and sections 702(l) and 707 of such Act, \[50 U.S.C. 1881a(l), 1881f\] as added by section 101(a), shall continue to apply until the date that the certification described in subparagraph (B) is submitted.
 
 &emsp;&emsp;“(B)
 
@@ -330,7 +334,7 @@ Certification.—The certification described in this subparagraph is a certifica
 
 &emsp;&emsp;&emsp;“(iii) that states that there will be no further acquisitions carried out under title VII of the Foreign Intelligence Surveillance Act of 1978 \[50 U.S.C. 1881 et seq.\], as amended by section 101(a), after the date of such certification; and
 
-&emsp;&emsp;&emsp;“(iv) that states that the information required to be included in a review, assessment, or report under section 601 of such Act \[50 U.S.C. 1871\], as amended by section 101(c), or section 702(<i>l</i>) or 707 of such Act, as added by section 101(a), relating to any acquisition conducted under title VII of such Act, as amended by section 101(a), has been included in a review, assessment, or report under such section 601, 702(<i>l</i>), or 707.
+&emsp;&emsp;&emsp;“(iv) that states that the information required to be included in a review, assessment, or report under section 601 of such Act \[50 U.S.C. 1871\], as amended by section 101(c), or section 702(l) or 707 of such Act, as added by section 101(a), relating to any acquisition conducted under title VII of such Act, as amended by section 101(a), has been included in a review, assessment, or report under such section 601, 702(l), or 707.
 
 &emsp;“(5)
 

@@ -12,13 +12,13 @@ A State may only elect the option under subsection (a) if the following conditio
 
 &emsp;The State has established an income eligibility level—
 
-&emsp;&emsp;(A) for pregnant women under subsection (a)(10)(A)(i)(III), (a)(10)(A)(i)(IV), or (<i>l</i>)(1)(A) of section 1396a of this title that is at least 185 percent (or such higher percent as the State has in effect with regard to pregnant women under this subchapter) of the poverty line applicable to a family of the size involved, but in no case lower than the percent in effect under any such subsection as of July 1, 2008; and
+&emsp;&emsp;(A) for pregnant women under subsection (a)(10)(A)(i)(III), (a)(10)(A)(i)(IV), or (l)(1)(A) of section 1396a of this title that is at least 185 percent (or such higher percent as the State has in effect with regard to pregnant women under this subchapter) of the poverty line applicable to a family of the size involved, but in no case lower than the percent in effect under any such subsection as of July 1, 2008; and
 
 &emsp;&emsp;(B) for children under 19 years of age under this subchapter (or subchapter XIX) that is at least 200 percent of the poverty line applicable to a family of the size involved.
 
 #### (2) No CHIP income eligibility level for pregnant women lower than the State's Medicaid level
 
-&emsp;The State does not apply an effective income level for pregnant women under the State plan amendment that is lower than the effective income level (expressed as a percent of the poverty line and considering applicable income disregards) specified under subsection (a)(10)(A)(i)(III), (a)(10)(A)(i)(IV), or (<i>l</i>)(1)(A) of section 1396a of this title, on February 4, 2009, to be eligible for medical assistance as a pregnant woman.
+&emsp;The State does not apply an effective income level for pregnant women under the State plan amendment that is lower than the effective income level (expressed as a percent of the poverty line and considering applicable income disregards) specified under subsection (a)(10)(A)(i)(III), (a)(10)(A)(i)(IV), or (l)(1)(A) of section 1396a of this title, on February 4, 2009, to be eligible for medical assistance as a pregnant woman.
 
 #### (3) No coverage for higher income pregnant women without covering lower income pregnant women
 
@@ -38,7 +38,7 @@ A State may only elect the option under subsection (a) if the following conditio
 
 #### (7) No waiting list for children
 
-&emsp;The State does not impose, with respect to the enrollment under the State child healthplan of targeted low-income children during the quarter, any enrollment cap or other numerical limitation on enrollment, any waiting list, any procedures designed to delay the consideration of applications for enrollment, or similar limitation with respect to enrollment.
+&emsp;The State does not impose, with respect to the enrollment under the State child health plan of targeted low-income children during the quarter, any enrollment cap or other numerical limitation on enrollment, any waiting list, any procedures designed to delay the consideration of applications for enrollment, or similar limitation with respect to enrollment.
 
 #### (c) Option to provide presumptive eligibility
 

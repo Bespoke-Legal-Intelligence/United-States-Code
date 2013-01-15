@@ -26,11 +26,15 @@ Amendment by Pub. L. 91–596 effective 120 days after Dec. 29, 1970 see section
 
 For transfer of functions of other officers, employees, and agencies of Department of Labor, with certain exceptions, to Secretary of Labor, with power to delegate, see Reorg. Plan No. 6, of 1950, §§1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
+#### Assistant Secretaries for Administration and Management and Public Affairs
+
+Pub. L. 112–166, §2(i)(1), Aug. 10, 2012, 126 Stat. 1285, provided that: “Notwithstanding section 2 of the Act of April 17, 1946 (29 U.S.C. 553), the appointment of individuals to serve as the Assistant Secretary for Administration and Management and the Assistant Secretary for Public Affairs within the Department of Labor, shall not be subject to the advice and consent of the Senate.”
+
 #### References in Other Laws
 
-Section 2(b)(3) of Pub. L. 99–619 provided that: “Any reference in any law, regulation, certificate, directive, or other document to the Assistant Secretary of Labor for Veterans’ Employment in force on the date of enactment of this Act \[Nov. 6, 1986\] shall be deemed to be a reference to the Assistant Secretary of Labor for Veterans’ Employment and Training.”
+Pub. L. 99–619, §2(b)(3), Nov. 6, 1986, 100 Stat. 3491, provided that: “Any reference in any law, regulation, certificate, directive, or other document to the Assistant Secretary of Labor for Veterans’ Employment in force on the date of enactment of this Act \[Nov. 6, 1986\] shall be deemed to be a reference to the Assistant Secretary of Labor for Veterans’ Employment and Training.”
 
 #### Present Incumbent
 
-Section 2(f)(2) of Pub. L. 99–619 provided that: “The incumbent in the position of Assistant Secretary of Labor for Veterans’ Employment on the date of enactment of this Act \[Nov. 6, 1986\] may serve as Assistant Secretary of Labor for Veterans’ Employment and Training at the pleasure of the President after such date and the amendments made by subsection (b)(2) \[amending section 5315 of Title 5, Government Organization and Employees\] shall apply to such incumbent.”
+Pub. L. 99–619, §2(f)(2), Nov. 6, 1986, 100 Stat. 3492, provided that: “The incumbent in the position of Assistant Secretary of Labor for Veterans’ Employment on the date of enactment of this Act \[Nov. 6, 1986\] may serve as Assistant Secretary of Labor for Veterans’ Employment and Training at the pleasure of the President after such date and the amendments made by subsection (b)(2) \[amending section 5315 of Title 5, Government Organization and Employees\] shall apply to such incumbent.”
 

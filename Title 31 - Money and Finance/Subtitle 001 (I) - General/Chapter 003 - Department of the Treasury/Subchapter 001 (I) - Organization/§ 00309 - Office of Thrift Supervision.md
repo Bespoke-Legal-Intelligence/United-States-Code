@@ -18,7 +18,7 @@ A prior section 309 was renumbered section 315 of this title.
 
 #### Transfer of Functions
 
-Office of Thrift Supervision abolished and functions transferred to the Board of Governors of the FederalReserve System, the Office of the Comptroller of the Currency and the Comptroller of the Currency, and the Federal Deposit Insurance Corporation by sections 5412 and 5413 of Title 12, Banks and Banking.
+Office of Thrift Supervision abolished and functions transferred to the Board of Governors of the Federal Reserve System, the Office of the Comptroller of the Currency and the Comptroller of the Currency, and the Federal Deposit Insurance Corporation by sections 5412 and 5413 of Title 12, Banks and Banking.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

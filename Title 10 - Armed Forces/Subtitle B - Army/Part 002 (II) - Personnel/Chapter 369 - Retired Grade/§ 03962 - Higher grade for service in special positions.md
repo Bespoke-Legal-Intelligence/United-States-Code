@@ -74,7 +74,7 @@ In subsection (b), or 10:156c (1st 6, and 9th through 43d, words) is omitted as 
 
 In subsection (c), 10:166g(b) (proviso) is omitted as executed.
 
-In subsection (d), the words “Upon retirement” are substituted for the words “When \* \* \* is retired”. The word “allowances” is omitted, since retired officers are not entitled to allowances. The words “grade is below brigadier general” are inserted, since any permanent professor who has the grade of brigadier general retires in that grade under section 4335 of this title.
+In subsection (d), the words “Upon retirement” are substituted for the words “When \* \* \* is retired”. The word “allowances” is omitted, since retired officers arenot entitled to allowances. The words “grade is below brigadier general” are inserted, since any permanent professor who has the grade of brigadier general retires in that grade under section 4335 of this title.
 
 1958
 
@@ -120,13 +120,13 @@ Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. 
 
 #### Appointment by President of Retired Commissioned Officer of Reserve Component to Higher Retired Grade; Recalculation of Pay
 
-Section 13(c) of Pub. L. 96–343 provided that:
+Pub. L. 96–343, §13(c), Sept. 8, 1980, 94 Stat. 1132, provided that:
 
-“(1) The President may, by and with the advice and consent of the Senate, appoint any commissioned officer of a reserve component of the Armed Forces who retired after December 31, 1967, to the retired grade inwhich such officer could have been retired had such officer retired on or after the date of the enactment of this Act \[Sept. 8, 1980\].
+“(1) The President may, by and with the advice and consent of the Senate, appoint any commissioned officer of a reserve component of the Armed Forces who retired after December 31, 1967, to the retired grade in which such officer could have been retired had such officer retired on or after the date of the enactment of this Act \[Sept. 8, 1980\].
 
 “(2) The retired pay of any retired officer who is appointed to a higher retired grade under paragraph (1) shall be recalculated as if such officer had retired in the grade to which appointed, but any increase in such retired pay by virtue of such appointment or this subsection shall be effective only with respect to periods beginning on or after the date on which such appointment is made.”
 
 #### Retired Grade for Certain General Officers
 
-Section 38 of act Aug. 10, 1956, provided that the President, by and with the advice and consent of the Senate, could extend privilege granted by former sections 3962(a) and 8962(a) of this title to retired officers who served in grade of general or lieutenant general after Dec. 7, 1941, and before July 1, 1946.
+Act Aug. 10, 1956, ch. 1041, §38, 70A Stat. 635, provided that the President, by and with the advice and consent of the Senate, could extend privilege granted by former sections 3962(a) and 8962(a) of this title to retired officers who served in grade of general or lieutenant general after Dec. 7, 1941, and before July 1, 1946.
 

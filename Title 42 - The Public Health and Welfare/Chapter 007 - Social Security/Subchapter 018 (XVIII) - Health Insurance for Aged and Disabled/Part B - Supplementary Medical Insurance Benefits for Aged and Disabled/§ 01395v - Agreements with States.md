@@ -16,7 +16,7 @@ An agreement entered into with any State pursuant to subsection (a) of this sect
 
 #### (c) Eligible individuals
 
-For purposes of this section, an individual shall be treated as an eligible individual only if he is an eligible individual (within the meaning of section 1395<i>o</i> of this title) on the date an agreement covering him is entered into under subsection (a) of this section or he becomes an eligible individual (within the meaning of such section) at any time after such date; and he shall be treated as receiving money payments described in subsection (b) of this section if he receives such payments for the month in which the agreement is entered into or any month thereafter.
+For purposes of this section, an individual shall be treated as an eligible individual only if he is an eligible individual (within the meaning of section 1395o of this title) on the date an agreement covering him is entered into under subsection (a) of this section or he becomes an eligible individual (within the meaning of such section) at any time after such date; and he shall be treated as receiving money payments described in subsection (b) of this section if he receives such payments for the month in which the agreement is entered into or any month thereafter.
 
 #### (d) Monthly premiums; coverage periods
 
@@ -70,7 +70,7 @@ With respect to eligible individuals receiving money payments under the plan of 
 
 For provisions relating to enrollment of qualified medicare beneficiaries under part A of this subchapter, see section 1395i–2(g) of this title.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1843, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 312; amended Pub. L. 89–384, §4(a), (b), Apr. 8, 1966, 80 Stat. 105; Pub. L. 90–248, title II, §§222(a), (b), (e), 241(e), Jan. 2, 1968, 81 Stat. 900, 901, 917; Pub. L. 93–233, §18(<i>l</i>), Dec. 31, 1973, 87 Stat. 970; Pub. L. 93–445, title III, §308, Oct. 16, 1974, 88 Stat. 1358; Pub. L. 96–499, title IX, §§945(e), 947(a), (c), Dec. 5, 1980, 94 Stat. 2642, 2643; Pub. L. 98–21, title VI, §606(a)(3)(E), Apr. 20, 1983, 97 Stat. 171; Pub. L. 98–369, div. B, title III, §2354(b)(15), July 18, 1984, 98 Stat. 1101; Pub. L. 100–360, title III, §301(e)(1), July 1, 1988, 102 Stat. 749; Pub. L. 100–485, title VI, §608(d)(14)(H), Oct. 13, 1988, 102 Stat. 2416; Pub. L. 101–239, title VI, §6013(b), Dec. 19, 1989, 103 Stat. 2164; Pub. L. 101–508, title IV, §4501(d), Nov. 5, 1990, 104 Stat. 1388–165.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1843, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 312; amended Pub. L. 89–384, §4(a), (b), Apr. 8, 1966, 80 Stat. 105; Pub. L. 90–248, title II, §§222(a), (b), (e), 241(e), Jan. 2, 1968, 81 Stat. 900, 901, 917; Pub. L. 93–233, §18(l), Dec. 31, 1973, 87 Stat. 970; Pub. L. 93–445, title III, §308, Oct. 16, 1974, 88 Stat. 1358; Pub. L. 96–499, title IX, §§945(e), 947(a), (c), Dec. 5, 1980, 94 Stat. 2642, 2643; Pub. L. 98–21, title VI, §606(a)(3)(E), Apr. 20, 1983, 97 Stat. 171; Pub. L. 98–369, div. B, title III, §2354(b)(15), July 18, 1984, 98 Stat. 1101; Pub. L. 100–360, title III, §301(e)(1), July 1, 1988, 102 Stat. 749; Pub. L. 100–485, title VI, §608(d)(14)(H), Oct. 13, 1988, 102 Stat. 2416; Pub. L. 101–239, title VI, §6013(b), Dec. 19, 1989, 103 Stat. 2164; Pub. L. 101–508, title IV, §4501(d), Nov. 5, 1990, 104 Stat. 1388–165.)
 
 #### References in Text
 
@@ -142,11 +142,11 @@ Amendment by Pub. L. 101–508 applicable to calendar quarters beginning on or a
 
 Amendment by Pub. L. 101–239 effective Jan. 1, 1990, see section 6013(c) of Pub. L. 101–239, set out as a note under section 1395i–2 of this title.
 
-#### Effective Date of 1988 Amendments
+#### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–485 effective as if included in the enactment of the Medicare Catastrophic Coverage Act of 1988, Pub. L. 100–360, see section 608(g)(1) of Pub. L. 100–485, set out as a note under section 704 of this title.
 
-Section 301(e)(3) of Pub. L. 100–360 provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on January 1, 1989, and the amendments made by paragraph (2) \[amending section 1396a of this title\] shall take effect on July 1, 1989.”
+Pub. L. 100–360, title III, §301(e)(3), July 1, 1988, 102 Stat. 750, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on January 1, 1989, and the amendments made by paragraph (2) \[amending section 1396a of this title\] shall take effect on July 1, 1989.”
 
 #### Effective Date of 1984 Amendment
 
@@ -158,7 +158,7 @@ Amendment by Pub. L. 98–21 applicable to premiums for months beginning with Ja
 
 #### Effective Date of 1980 Amendment
 
-Section 947(d) of Pub. L. 96–499 provided that: “The amendments made by this section \[amending this section and section 1395q of this title\] apply to notices filed after the third calendar month beginning after the date of the enactment of this Act \[Dec. 5, 1980\].”
+Pub. L. 96–499, title IX, §947(d), Dec. 5, 1980, 94 Stat. 2643, provided that: “The amendments made by this section \[amending this section and section 1395q of this title\] apply to notices filed after the third calendar month beginning after the date of the enactment of this Act \[Dec. 5, 1980\].”
 
 #### Effective Date of 1974 Amendment
 
@@ -166,15 +166,15 @@ Amendment by Pub. L. 93–445 effective Jan. 1, 1975, see section 603 of Pub. L.
 
 #### Effective Date of 1973 Amendment
 
-Amendment by Pub. L. 93–233 effective Jan. 1, 1974, see section 18(z–3)(1) of Pub. L. 93–233.
+Amendment by Pub. L. 93–233 effective Jan. 1, 1974, see Pub. L. 93–233, §18(z–3)(1), Dec. 31, 1973, 87 Stat. 974.
 
 #### Termination Period for Certain Individuals Covered Pursuant to State Agreements
 
-Section 947(e) of Pub. L. 96–499 provided that: “The coverage period under part B of title XVIII of the Social Security Act \[this part\] of an individual whose coverage period attributable to a State agreement under section 1843 of such Act \[this section\] is terminated and who has filed notice before the end of the third calendar month beginning after the date of the enactment of this Act \[Dec. 5, 1980\] that he no longer wishes to participate in the insurance program established by part B of title XVIII shall terminate on the earlier of (1) the day specified in section 1838 \[section 1395q of this title\] without the amendments made by this section, or (2) (unless the individual files notice before the day specified in this clause that he wishes his coverage period to terminate as provided in clause (1)) the day on which his coverage period would terminate if the individual filed notice in the fourth calendar month beginning after the date of the enactment of this Act.”
+Pub. L. 96–499, title IX, §947(e), Dec. 5, 1980, 94 Stat. 2643, provided that: “The coverage period under part B of title XVIII of the Social Security Act \[this part\] of an individual whose coverage period attributable to a State agreement under section 1843 of such Act \[this section\] is terminated and who has filed notice before the end of the third calendar month beginning after the date of the enactment of this Act \[Dec. 5, 1980\] that he no longer wishes to participate in the insurance program established by part B of title XVIII shall terminate on the earlier of (1) the day specified in section 1838 \[section 1395q of this title\] without the amendments made by this section, or (2) (unless the individual files notice before the day specified in this clause that he wishes his coverage period to terminate as provided in clause (1)) the day on which his coverage period would terminate if the individual filed notice in the fourth calendar month beginning after the date of the enactment of this Act.”
 
 #### District of Columbia; Agreement of Commissioner With Secretary for Supplementary Medical Insurance
 
-Pub. L. 90–227, §2, Dec. 27, 1967, 81 Stat. 745, provided that: “The Commissioner \[now Mayor of District of Columbia\] may enter into an agreement (and any modifications of such agreement) with the Secretary under section 1843 of the Social Security Act \[this section\] pursuant to which (1) eligible individuals (as defined in section 1836 of the Social Security Act) \[section 1395<i>o</i> of this title\] who are eligible to receive medical assistance under the District of Columbia's plan for medical assistance approved under title XIX of the Social Security Act \[subchapter XIX of this chapter\] will be enrolled in the supplementary medical insurance program established under part B of title XVIII of the Social Security Act \[this part\], and (2) provisions will be made for payment of the monthly premiums of such individuals for such program.”
+Pub. L. 90–227, §2, Dec. 27, 1967, 81 Stat. 745, provided that: “The Commissioner \[now Mayor of District of Columbia\] may enter into an agreement (and any modifications of such agreement) with the Secretary under section 1843 of the Social Security Act \[this section\] pursuant to which (1) eligible individuals (as defined in section 1836 of the Social Security Act) \[section 1395o of this title\] who are eligible to receive medical assistance under the District of Columbia's plan for medical assistance approved under title XIX of the Social Security Act \[subchapter XIX of this chapter\] will be enrolled in the supplementary medical insurance program established under part B of title XVIII of the Social Security Act \[this part\], and (2) provisions will be made for payment of the monthly premiums of such individuals for such program.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

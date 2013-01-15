@@ -58,7 +58,7 @@ There are transferred to the Secretary—
 
 There are transferred to the Department—
 
-&emsp;(1) all offices in the Office of the Assistant Secretary for Education or in the Education Division of the Department of Health, Education, and Welfare;
+&emsp;(1) all offices in the Office of the Assistant Secretary for Education or in the EducationDivision of the Department of Health, Education, and Welfare;
 
 &emsp;(2) all offices in the Department of Health, Education, and Welfare established under the provisions of law listed in subparagraphs (A) through (Q) of subsection (a)(2) of this section;
 
@@ -68,7 +68,7 @@ There are transferred to the Department—
 
 &emsp;(5) the Federal Education Data Acquisition Council; and
 
-&emsp;(6) any advisory committee of the Department of Health, Education, and Welfare givingadvice or making recommendations that primarily concern education functions transferred by this section.
+&emsp;(6) any advisory committee of the Department of Health, Education, and Welfare giving advice or making recommendations that primarily concern education functions transferred by this section.
 
 #### (c) Administrative functions transferred to Secretary
 
@@ -114,7 +114,7 @@ The Career Education Incentive Act, referred to in subsec. (a)(2)(L), is Pub. L.
 
 The Model Secondary School for the Deaf Act, referred to in subsec. (a)(2)(N), is Pub. L. 89–694, Oct. 15, 1966, 80 Stat. 1027, which was classified to subchapter II (§693 et seq.) of chapter 20B of this title, and was repealed by Pub. L. 99–371, title IV, §410(c), Aug. 4, 1986, 100 Stat. 794. See section 4321 et seq. of this title.
 
-The Communications Act of 1934, referred to in subsec. (a)(2)(O), is act June 19, 1934, ch. 652, 48 Stat. 1064. Subpart A of part IV of title III of the Act (which is classified principally to subpart A (§390 et seq.) of part IV of subchapter III of chapter 5 of Title 47, Telegraphs, Telephones, and Radiotelegraphs) was amended by section 201 of Pub. L. 95–567, Nov. 2, 1978, 92 Stat. 2409, and, as so amended, the provisions relating to telecommunications demonstrations which had appeared in subpart A were restated in a new subpart B (§395 et seq.). Subpart B was subsequently redesignated subpart C by Pub. L. 101–437, title II, §203(a)(2), Oct. 17, 1990, 104 Stat. 998. For complete classification of the 1934 Act to the Code, see section 609 of Title 47 and Tables.
+The Communications Act of 1934, referred to in subsec. (a)(2)(O), is act June 19, 1934, ch. 652, 48 Stat. 1064.Subpart A of part IV of title III of the Act (which is classified principally to subpart A (§390 et seq.) of part IV of subchapter III of chapter 5 of Title 47, Telecommunications) was amended by section 201 of Pub. L. 95–567, Nov. 2, 1978, 92 Stat. 2409, and, as so amended, the provisions relating to telecommunications demonstrations which had appeared in subpart A were restated in a new subpart B (§395 et seq.). Subpart B was subsequently redesignated subpart C by Pub. L. 101–437, title II, §203(a)(2), Oct. 17, 1990, 104 Stat. 998. For complete classification of the 1934 Act to the Code, see section 609 of Title 47 and Tables.
 
 The Alcohol and Drug Abuse Education Act, referred to in subsec. (a)(2)(Q), is Pub. L. 91–527, Dec. 3, 1970, 84 Stat. 1385, which was classified generally to chapter 14 (§1001 et seq.) of Title 21, Food and Drugs, prior to repeal by Pub. L. 97–35, title V, §587(a)(3), Aug. 13, 1981, 95 Stat. 480.
 

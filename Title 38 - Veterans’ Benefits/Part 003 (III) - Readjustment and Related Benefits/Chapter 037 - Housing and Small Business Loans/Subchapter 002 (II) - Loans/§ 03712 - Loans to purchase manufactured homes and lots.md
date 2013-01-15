@@ -1,6 +1,6 @@
 ### §3712. Loans to purchase manufactured homes and lots
 
-(a)(1) Notwithstanding any other provision of this chapter, any loan to a veteran eligible for the housing loan benefits of this chapter, if made pursuant to the provisions of this section, may be guaranteed if such loan is for one of the following purposes:
+(a)(1) Notwithstanding any other provision of this chapter, any loan to a veteran eligible forthe housing loan benefits of this chapter, if made pursuant to the provisions of this section, may be guaranteed if such loan is for one of the following purposes:
 
 &emsp;(A) To purchase a lot on which to place a manufactured home already owned by the veteran.
 
@@ -64,7 +64,7 @@
 
 (2) The Secretary shall restore entitlement to all housing loan benefits under this chapter for the veteran when the conditions prescribed in section 3702(b) of this title have been met.
 
-(c)(1) Loans for any of the purposes authorized by subsection (a) of this section shall be submitted to the Secretary for approval prior to the closing of the loan, except that the Secretary may exempt any lender of a class listed in section 3702(d) of this title from compliance withsuch prior approval requirement if the Secretary determines that the experience of such lender or class of lenders in manufactured home financing warrants such exemption.
+(c)(1) Loans for any of the purposes authorized by subsection (a) of this section shall be submitted to the Secretary for approval prior to the closing of the loan, except that the Secretary may exempt any lender of a class listed in section 3702(d) of this title from compliance with such prior approval requirement if the Secretary determines that the experience of such lender or class of lenders in manufactured home financing warrants such exemption.
 
 (2) Upon determining that a loan submitted for prior approval is eligible for guaranty for purposes specified in this section, the Secretary shall issue a commitment to guarantee such loan and shall thereafter guarantee the loan when made if such loan qualifies therefor in all respects.
 
@@ -154,15 +154,15 @@
 
 &emsp;(3) a manufacturer of manufactured homes who has engaged in procedures or practices determined by the Secretary to be unfair or prejudicial to veterans or the Government.
 
-(k) Subject to notice and opportunity for a hearing, the Secretary may refuse to approve as acceptable any site in a manufactured home park or subdivision owned or operated by any person whose rental or sale methods, procedures, requirements, or practices are determined by the Secretary to be unfair or prejudicial to veterans renting or purchasing such sites. The Secretary may also refuse to guarantee or make direct loans for veterans to purchase manufactured homes offered for sale by any dealer if substantial deficiencies have been discovered in such homes, or if the Secretary determines that there has been a failure or indicated inability of the dealer to discharge contractual liabilities to veterans, or that the type of contract of sale or methods, procedures, or practices pursued by the dealer in the marketing of such properties have been unfair or prejudicial to veteran purchasers.
+(k) Subject to notice and opportunity for a hearing, the Secretary may refuse to approve as acceptable any site in a manufactured home park or subdivision owned or operated by any person whose rental or sale methods, procedures, requirements, or practices are determined by the Secretary to be unfair or prejudicial to veterans renting or purchasing such sites. The Secretary may also refuse to guarantee or makedirect loans for veterans to purchase manufactured homes offered for sale by any dealer if substantial deficiencies have been discovered in such homes, or if the Secretary determines that there has been a failure or indicated inability of the dealer to discharge contractual liabilities to veterans, or that the type of contract of sale or methods, procedures, or practices pursued by the dealer in the marketing of such properties have been unfair or prejudicial to veteran purchasers.
 
-(<i>l</i>) The provisions of sections 3704(d) and 3721 of this title shall be fully applicable to lenders making guaranteed manufactured home loans and manufactured home lot loans and holders of such loans.
+(l) The provisions of sections 3704(d) and 3721 of this title shall be fully applicable to lenders making guaranteed manufactured home loans and manufactured home lot loans and holders of such loans.
 
-(Added Pub. L. 91–506, §5, Oct. 23, 1970, 84 Stat. 1110, §1819; amended Pub. L. 93–569, §5, Dec. 31, 1974, 88 Stat. 1864; Pub. L. 94–324, §§5, 7(20)–(23), June 30, 1976, 90 Stat. 720, 722; Pub. L. 95–476, title I, §107, Oct. 18, 1978, 92 Stat. 1500; Pub. L. 96–385, title IV, §§401(b), 402(c), Oct. 7, 1980, 94 Stat. 1532, 1533; Pub. L. 97–66, title V, §503, Oct. 17, 1981, 95 Stat. 1032; Pub. L. 97–72, title III, §303(h), (i), Nov. 3, 1981, 95 Stat. 1060; Pub. L. 97–295, §4(66), Oct. 12, 1982, 96 Stat. 1310; Pub. L. 97–306, title IV, §406(a), (c)(2), Oct. 14, 1982, 96 Stat. 1444, 1445; Pub. L. 98–223, title II, §205(b), Mar. 2, 1984, 98 Stat. 43; Pub. L. 99–576, title IV, §402(c)(2), Oct. 28, 1986, 100 Stat. 3281; Pub. L. 100–198, §§3(b), 7(b), 8(b), Dec. 21, 1987, 101 Stat. 1315, 1318, 1320; Pub. L. 100–253, §3(b), Feb. 29, 1988, 102 Stat. 20; renumbered §1812 and amendedPub. L. 100–322, title IV, §415(b)(4), May 20, 1988, 102 Stat. 551; Pub. L. 101–237, title III, §313(b)(1), (7), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 101–508, title VIII, §8031(a), Nov. 5, 1990, 104 Stat. 1388–348; Pub. L. 102–54, §14(c)(8), June 13, 1991, 105 Stat. 285; renumbered §3712 and amended Pub. L. 102–83, §§4(a)(2)(A)(v), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403, 406; Pub. L. 102–547, §6(2), Oct. 28, 1992, 106 Stat. 3636; Pub. L. 103–446, title IX, §906, title XII, §1201(e)(14), Nov. 2, 1994, 108 Stat. 4677, 4685; Pub. L. 104–66, title I, §1141(b), Dec. 21, 1995, 109 Stat. 726.)
+(Added Pub. L. 91–506, §5, Oct. 23, 1970, 84 Stat. 1110, §1819; amended Pub. L. 93–569, §5, Dec. 31, 1974, 88 Stat. 1864; Pub. L. 94–324, §§5, 7(20)–(23), June 30, 1976, 90 Stat. 720, 722; Pub. L. 95–476, title I, §107, Oct. 18, 1978, 92 Stat. 1500; Pub. L. 96–385, title IV, §§401(b), 402(c), Oct. 7, 1980, 94 Stat. 1532, 1533; Pub. L. 97–66, title V, §503, Oct. 17, 1981, 95 Stat. 1032; Pub. L. 97–72, title III, §303(h), (i), Nov. 3, 1981, 95 Stat. 1060; Pub. L. 97–295, §4(66), Oct. 12, 1982, 96 Stat. 1310; Pub. L. 97–306, title IV, §406(a), (c)(2), Oct. 14, 1982, 96 Stat. 1444, 1445; Pub. L. 98–223, title II, §205(b), Mar. 2, 1984, 98 Stat. 43; Pub. L. 99–576, title IV, §402(c)(2), Oct. 28, 1986, 100 Stat. 3281; Pub. L. 100–198, §§3(b), 7(b), 8(b), Dec. 21, 1987, 101 Stat. 1315, 1318, 1320; Pub. L. 100–253, §3(b), Feb. 29, 1988, 102 Stat. 20; renumbered §1812 and amended Pub. L. 100–322, title IV, §415(b)(4), May 20, 1988, 102 Stat. 551; Pub. L. 101–237, title III, §313(b)(1), (7), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 101–508, title VIII, §8031(a), Nov. 5, 1990, 104 Stat. 1388–348; Pub. L. 102–54, §14(c)(8), June 13, 1991, 105 Stat. 285; renumbered §3712 and amended Pub. L. 102–83, §§4(a)(2)(A)(v), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403, 406; Pub. L. 102–547, §6(2), Oct. 28, 1992, 106 Stat. 3636; Pub. L. 103–446, title IX, §906, title XII, §1201(e)(14), Nov. 2, 1994, 108 Stat. 4677, 4685; Pub. L. 104–66, title I, §1141(b), Dec. 21, 1995, 109 Stat. 726.)
 
 #### Amendments
 
-<b>1995</b>—Subsecs. (<i>l</i>), (m). Pub. L. 104–66 redesignated subsec. (m) as (<i>l</i>) and struck out former subsec. (<i>l</i>) which read as follows: “The Secretary's annual report to Congress shall include a report on operations under this section, including experience with compliance with the warranty required by subsection (i) and the experience regarding defaults and foreclosures.”
+<b>1995</b>—Subsecs. (l), (m). Pub. L. 104–66 redesignated subsec. (m) as (l) and struck out former subsec. (l) which read as follows: “The Secretary's annual report to Congress shall include a report on operations under this section, including experience with compliance with the warranty required by subsection (i) and the experience regarding defaults and foreclosures.”
 
 <b>1994</b>—Subsec. (c)(3)(D). Pub. L. 103–446, §1201(e)(14)(A)(i), inserted “of” after “subparagraph (B)” in introductory provisions.
 
@@ -172,7 +172,7 @@ Subsec. (h)(2). Pub. L. 103–446, §906(a), amended par. (2) generally. Prior t
 
 Subsec. (j). Pub. L. 103–446, §906(b), substituted “in the case of—” and pars. (1) to (3) for “in the case of manufactured homes constructed by any manufacturer who refuses to permit the inspections provided for in subsection (h) of this section; or in the case of manufactured homes which are determined by the Secretary not to conform to the aforesaid standards; or where the manufacturer of manufactured homes fails or is unable to discharge the manufacturer's obligations under the warranty.”
 
-Subsec. (<i>l</i>). Pub. L. 103–446, §906(c), struck out “the results of inspections required by subsection (h) of this section,” after “including” and “of this section” after “subsection (i)”.
+Subsec. (l). Pub. L. 103–446, §906(c), struck out “the results of inspections required by subsection (h) of this section,” after “including” and “of this section” after “subsection (i)”.
 
 Subsec. (m). Pub. L. 103–446, §1201(e)(14)(B), substituted “sections 3704(d) and 3721 of this title” for “section 3704(d) and section 3721 of this chapter”.
 
@@ -204,7 +204,7 @@ Subsec. (e)(2). Pub. L. 102–83, §5(c)(1), substituted “3710(g)” for “18
 
 Subsec. (e)(5). Pub. L. 102–83, §5(c)(1), substituted “3704(c)(2)” for “1804(c)(2)”.
 
-Subsec. (<i>l</i>). Pub. L. 102–54, §14(c)(8)(B), struck out “, beginning 12 months following October 23, 1970,” after “shall”.
+Subsec. (l). Pub. L. 102–54, §14(c)(8)(B), struck out “, beginning 12 months following October 23, 1970,” after “shall”.
 
 Subsec. (m). Pub. L. 102–83, §5(c)(1), substituted “3704(d)” for “1804(d)” and “3721” for “1821”.
 
@@ -214,7 +214,7 @@ Subsec. (m). Pub. L. 102–83, §5(c)(1), substituted “3704(d)” for “1804(
 
 Subsec. (h)(2)(B). Pub. L. 101–237, §313(b)(7), substituted “Secretary of Housing and Urban Development pursuant” for “Secretary pursuant” and substituted “Secretary of Veterans Affairs” for “Administrator” wherever appearing.
 
-Subsecs. (i) to (<i>l</i>). Pub. L. 101–237, §313(b)(1), substituted “Secretary” and “Secretary's” for “Administrator” and “Administrator's”, respectively, wherever appearing.
+Subsecs. (i) to (l). Pub. L. 101–237, §313(b)(1), substituted “Secretary” and “Secretary's” for “Administrator” and “Administrator's”, respectively, wherever appearing.
 
 <b>1988</b>—Pub. L. 100–322, §415(b)(4)(C), renumbered section 1819 of this title as this section.
 
@@ -264,7 +264,7 @@ Subsec. (a)(5). Pub. L. 97–306, §406(a)(4), added par. (5).
 
 Subsecs. (b)(1), (c)(1), (d)(1)(B), (C), (D), (e)(3), (4)(A), (B), (6), (f), (h) to (k). Pub. L. 97–306, §406(c)(2)(A), substituted “manufactured” for “mobile” wherever appearing.
 
-Subsec. (<i>l</i>). Pub. L. 97–295 substituted “October 23, 1970” for “the date of enactment of the Veterans’ Housing Act of 1970”.
+Subsec. (l). Pub. L. 97–295 substituted “October 23, 1970” for “the date of enactment of the Veterans’ Housing Act of 1970”.
 
 Subsec. (m). Pub. L. 97–306, §406(c)(2)(A), substituted “manufactured” for “mobile” wherever appearing.
 
@@ -306,11 +306,11 @@ Subsec. (i). Pub. L. 95–476, §107(e), (g)(1), redesignated subsec. (j) as (i)
 
 Subsec. (j). Pub. L. 95–476, §107(e), (g)(1), redesignated subsec. (k) as (j) and substituted “subsection (h)” for “subsection (i)”. Former subsec. (j) redesignated (i).
 
-Subsec. (k). Pub. L. 95–476, §107(e), redesignated subsec. (<i>l</i>) as (k). Former subsec. (k) redesignated (j).
+Subsec. (k). Pub. L. 95–476, §107(e), redesignated subsec. (l) as (k). Former subsec. (k) redesignated (j).
 
-Subsec. (<i>l</i>). Pub. L. 95–476, §107(e), (g), redesignated subsec. (m) as (<i>l</i>) and substituted “subsection (h)” and “subsection (i)” for “subsection (i)” and “subsection (j)”, respectively. Former subsec. (<i>l</i>) redesignated (k).
+Subsec. (l). Pub. L. 95–476, §107(e), (g), redesignated subsec. (m) as (l) and substituted “subsection (h)” and “subsection (i)” for “subsection (i)” and “subsection (j)”, respectively. Former subsec. (l) redesignated (k).
 
-Subsecs. (m), (n). Pub. L. 95–476, §107(e), redesignated subsec. (n) as (m). Former subsec. (m) redesignated (<i>l</i>).
+Subsecs. (m), (n). Pub. L. 95–476, §107(e), redesignated subsec. (n) as (m). Former subsec. (m) redesignated (l).
 
 <b>1976</b>—Subsec. (c)(1). Pub. L. 94–324, §7(20), substituted “the Administrator determines” for “he determines”.
 
@@ -330,7 +330,7 @@ Subsec. (h). Pub. L. 94–324, §7(23), substituted “the Administrator determi
 
 Subsec. (k). Pub. L. 94–324, §7(23), substituted “the manufacturer's obligations” for “his obligations”.
 
-Subsec. (<i>l</i>). Pub. L. 94–324, §7(23), substituted “the Administrator determines” for “he determines”.
+Subsec. (l). Pub. L. 94–324, §7(23), substituted “the Administrator determines” for “he determines”.
 
 <b>1974</b>—Subsec. (a). Pub. L. 93–569, §5(1), inserted “or the mobile home lot loan guaranty benefit, or both,” after “loan guaranty benefit” wherever appearing, and struck out “mobile home” before “loan guaranteed under this section”.
 
@@ -358,11 +358,11 @@ Subsec. (i). Pub. L. 93–569, §5(9), inserted provision prohibiting the guaran
 
 Subsec. (n). Pub. L. 93–569, §5(10), inserted “and mobile home lot loans” after “mobile home loans”.
 
-Subsec. (<i>o</i>). Pub. L. 93–569, §5(11), struck out subsec. (<i>o</i>) which prohibited the making or guaranteeing of loans on and after July 1, 1975, except upon prior commitment.
+Subsec. (o). Pub. L. 93–569, §5(11), struck out subsec. (o) which prohibited the making or guaranteeing of loans on and after July 1, 1975, except upon prior commitment.
 
 #### Effective Date of 1990 Amendment
 
-Section 8031(b) of Pub. L. 101–508 provided that: “The amendment made by this section \[amending this section\] shall apply to claims filed with the Secretary of Veterans Affairs on or after the date of the enactment of this Act \[Nov. 5, 1990\].”
+Pub. L. 101–508, title VIII, §8031(b), Nov. 5, 1990, 104 Stat. 1388–348, provided that: “The amendment made by this section \[amending this section\] shall apply to claims filed with the Secretary of Veterans Affairs on or after the date of the enactment of this Act \[Nov. 5, 1990\].”
 
 #### Effective Date of 1988 Amendment
 
@@ -370,7 +370,7 @@ Amendment by Pub. L. 100–253 applicable to loans closed on or after Feb. 1, 19
 
 #### Effective Date of 1987 Amendment
 
-Amendment by section 3(b) of Pub. L. 100–198 applicable to loans closed on or after Feb. 1, 1988, but not applicable to any loan for which a guaranty commitment is made on or before Dec. 31, 1987, see section 3(d) of Pub. L. 100–198, set out as a note under section 3703 of this title.
+Amendment by section 3(b) of Pub. L. 100–198 applicable to loans closed on or after Feb. 1, 1988, but not applicable to any loan for which a guaranty commitmentis made on or before Dec. 31, 1987, see section 3(d) of Pub. L. 100–198, set out as a note under section 3703 of this title.
 
 Amendment by section 7(b) of Pub. L. 100–198 applicable to loans made more than 30 days after Dec. 21, 1987, see section 7(d) of Pub. L. 100–198, set out as a note under section 3710 of this title.
 
@@ -400,5 +400,5 @@ Amendment by Pub. L. 93–569 effective Dec. 31, 1974, see section 10 of Pub. L.
 
 #### Effective Date
 
-Section 8 of Pub. L. 91–506 provided that: “Section 5 of this Act \[enacting this section\] shall become effective sixty days following the date of enactment \[Oct. 23, 1970\].”
+Pub. L. 91–506, §8, Oct. 23, 1970, 84 Stat. 1114, provided that: “Section 5 of this Act \[enacting this section\] shall become effective sixty days following the date of enactment \[Oct. 23, 1970\].”
 

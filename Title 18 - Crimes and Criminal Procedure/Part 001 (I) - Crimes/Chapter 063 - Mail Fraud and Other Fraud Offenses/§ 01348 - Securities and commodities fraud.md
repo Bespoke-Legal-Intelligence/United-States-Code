@@ -2,9 +2,9 @@
 
 Whoever knowingly executes, or attempts to execute, a scheme or artifice—
 
-&emsp;(1) to defraud any person in connection with any commodity for future delivery, or any option on a commodity for future delivery, or any security of an issuer with a class of securities registered under section 12 of the Securities Exchange Act of 1934 (15 U.S.C. 78<i>l</i>) or that is required to file reports under section 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78<i>o</i>(d)); or
+&emsp;(1) to defraud any person in connection with any commodity for future delivery, or any option on a commodity for future delivery, or any security of an issuer with a class of securities registered under section 12 of the Securities Exchange Act of 1934 (15 U.S.C. 78l) or that is required to file reports under section 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78o(d)); or
 
-&emsp;(2) to obtain, by means of false or fraudulent pretenses, representations, or promises, any money or property in connection with the purchase or sale of any commodity for future delivery, or any option on a commodity for future delivery, or any security of an issuer with a class of securities registered under section 12 of the Securities Exchange Act of 1934 (15 U.S.C. 78<i>l</i>) or that is required to file reports under section 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78<i>o</i>(d));
+&emsp;(2) to obtain, by means of false or fraudulent pretenses, representations, or promises, any money or property in connection with the purchase or sale of any commodity for future delivery, or any option on a commodity for future delivery, or any security of an issuer with a class of securities registered under section 12 of the Securities Exchange Act of 1934 (15 U.S.C. 78l) or that is required to file reports under section 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78o(d));
 
 > shall be fined under this title, or imprisoned not more than 25 years, or both.
 

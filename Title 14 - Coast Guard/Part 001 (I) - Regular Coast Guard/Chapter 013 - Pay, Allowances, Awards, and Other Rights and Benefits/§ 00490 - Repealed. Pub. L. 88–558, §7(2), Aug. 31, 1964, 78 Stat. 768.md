@@ -4,7 +4,7 @@ Section, acts Aug. 4, 1949, ch. 393, §1, 63 Stat. 534; Aug. 3, 1950, ch. 536, �
 
 #### Effective Date of Repeal
 
-Section 7 of Pub. L. 88–558 provided that the repeal of this section is effective two years from Aug. 31, 1964.
+Pub. L. 88–558, §7, Aug. 31, 1964, 78 Stat. 768, provided that the repeal of this section is effective two years from Aug. 31, 1964.
 
 #### Repeals
 

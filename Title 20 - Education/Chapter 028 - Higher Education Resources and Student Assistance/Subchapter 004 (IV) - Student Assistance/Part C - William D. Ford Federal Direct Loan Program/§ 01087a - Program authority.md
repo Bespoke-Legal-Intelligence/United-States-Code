@@ -28,7 +28,7 @@ A prior section 1087a, Pub. L. 89–329, title IV, §451, as added Pub. L. 90–
 
 <b>1993</b>—Pub. L. 103–66 amended section generally, substituting provisions relating to program authority for former provisions relating to program and payment authority.
 
-<b>1992</b>—Pub. L. 102–325 amended section generally, substituting provisions relating to program and payment authority for Federal direct loan demonstration program for former provisions relating to statement of purpose of income contingent direct loan demonstration project.
+<b>1992</b>—Pub. L. 102–325 amended section generally, substituting provisions relating to program and paymentauthority for Federal direct loan demonstration program for former provisions relating to statement of purpose of income contingent direct loan demonstration project.
 
 #### Effective Date of 1992 Amendment
 
@@ -36,7 +36,7 @@ Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 
 
 #### Income Contingent Loan Distribution of Funds
 
-Section 452 of Pub. L. 102–325 provided that:
+Pub. L. 102–325, title IV, §452, July 23, 1992, 106 Stat. 575, provided that:
 
 “(a)
 

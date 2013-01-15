@@ -54,7 +54,7 @@ In the case of failure by an employee to report to his employer on the date and 
 
 #### (A) Penalty on organization or trust
 
-&emsp;&emsp;In the case of a failure to file a return required under section 6034 (relating to returns by certain trusts) or section 6043(b) (relating to terminations, etc., of exempt organizations), on the date and in the manner prescribed therefor (determined with regard to any extension of time for filing), there shall be paid by the exempt organization or trust failing so to file $10 for each day during which such failure continues, but the total amount imposed under this subparagraph on any organization or trust for failure to file any 1 return shall not exceed $5,000.
+&emsp;&emsp;In the case of a failure to file a return required under section 6034 (relating to returnsby certain trusts) or section 6043(b) (relating to terminations, etc., of exempt organizations), on the date and in the manner prescribed therefor (determined with regard to any extension of time for filing), there shall be paid by the exempt organization or trust failing so to file $10 for each day during which such failure continues, but the total amount imposed under this subparagraph on any organization or trust for failure to file any 1 return shall not exceed $5,000.
 
 #### (B) Managers
 
@@ -94,7 +94,7 @@ In the case of failure by an employee to report to his employer on the date and 
 
 #### (4) Reasonable cause exception
 
-&emsp;No penalty shall be imposed under this subsection with respect to any failure if it isshown that such failure is due to reasonable cause.
+&emsp;No penalty shall be imposed under this subsection with respect to any failure if it is shown that such failure is due to reasonable cause.
 
 #### (5) Other special rules
 
@@ -150,7 +150,7 @@ In the case of failure to make a report required by section 219(f)(4) which cont
 
 #### (h) Failure to give notice to recipients of certain pension, etc., distributions
 
-In the case of each failure to provide notice as required by section 3405(e)(10)(B), at the timeprescribed therefor, unless it is shown that such failure is due to reasonable cause and not to willful neglect, there shall be paid, on notice and demand of the Secretary and in the same manner as tax, by the person failing to provide such notice, an amount equal to $10 for each such failure, but the total amount imposed on such person for all such failures during any calendar year shall not exceed $5,000.
+In the case of each failure to provide notice as required by section 3405(e)(10)(B), at the time prescribed therefor, unless it is shown that such failure is due to reasonable cause and not to willful neglect, there shall be paid, on notice and demand of the Secretary and in the same manner as tax, by the person failing to provide such notice, an amount equal to $10 for each such failure, but the total amount imposed on such person for all such failures during any calendar year shall not exceed $5,000.
 
 #### (i) Failure to give written explanation to recipients of certain qualifying rollover distributions
 
@@ -162,9 +162,9 @@ In the case of each failure to provide a certification as required by section 14
 
 #### (k) <sup>1</sup> Failure to make reports required under section 1202
 
-In the case of a failure to make a report required under section 1202(d)(1)(C) which contains the information required by such section on the date prescribed therefor (determined with regard to any extension of time for filing), there shall be paid (on notice and demand by the Secretary and in the same manner as tax) by the person failing to make such report, an amount equal to $50 for each report with respect to which there was such a failure. In the case of any failure due to negligence or intentional disregard, the preceding sentence shall be applied by substituting “$100” for “$50”. In the case of a report covering periods in 2 or more years, the penalty determined under preceding provisions of this subsection shall be multiplied by the number of such years. No penalty shall be imposed under this subsection on any failure which is shown to be due to reasonable cause and not willful neglect.
+In the case of a failure to make a report required under section 1202(d)(1)(C) which contains the information required by such section on the date prescribed therefor (determined with regard to any extension of time for filing), there shall be paid (on notice and demand by the Secretary and in the same manner as tax) by the personfailing to make such report, an amount equal to $50 for each report with respect to which there was such a failure. In the case of any failure due to negligence or intentional disregard, the preceding sentence shall be applied by substituting “$100” for “$50”. In the case of a report covering periods in 2 or more years, the penalty determined under preceding provisions of this subsection shall be multiplied by the number of such years. No penalty shall be imposed under this subsection on any failure which is shown to be due to reasonable cause and not willful neglect.
 
-#### (<i>l</i>) Failure to file return with respect to certain corporate transactions
+#### (l) Failure to file return with respect to certain corporate transactions
 
 In the case of any failure to make a return required under section 6043(c) containing the information required by such section on the date prescribed therefor (determined with regard to any extension of time for filing), unless it is shown that such failure is due to reasonable cause, there shall be paid (on notice and demand by the Secretary and in the same manner as tax) by the person failing to file such return, an amount equal to $500 for each day during which such failure continues, but the total amount imposed under this subsection with respect to any return shall not exceed $100,000.
 
@@ -176,9 +176,9 @@ In the case of any failure to make a return required under section 6043(c) conta
 
 #### Codification
 
-Sections 1201(b)(2) and 1223(d) of Pub. L. 109–280, which directed the amendment of section 6652 without specifying the act to be amended, were executed to thissection, which is section 6652 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
+Sections 1201(b)(2) and 1223(d) of Pub. L. 109–280, which directed the amendment of section 6652 without specifying the act to be amended, were executed to this section, which is section 6652 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
 
-Pub. L. 101–140, §203(a)(1), amended this section to read as if the amendments made by section 1151(b) of Pub. L. 99–514 (enacting subsec. (<i>l</i>)) had not been enacted. Subsequent to enactment by Pub. L. 99–514, subsec. (<i>l</i>) was amended by Pub. L. 100–203, Pub. L. 100–647, and Pub. L. 101–239. See 1989, 1988, and 1987 Amendment notes below.
+Pub. L. 101–140, §203(a)(1), amended this section to read as if the amendments made by section 1151(b) of Pub. L. 99–514 (enacting subsec. (l)) had not been enacted. Subsequent to enactment by Pub. L. 99–514, subsec. (l) was amended by Pub. L. 100–203, Pub. L. 100–647, and Pub. L. 101–239. See 1989, 1988, and 1987 Amendment notes below.
 
 #### Amendments
 
@@ -208,7 +208,7 @@ Subsec. (c)(1)(D). Pub. L. 105–277, §1004(b)(2)(C), substituted “section 61
 
 <b>1997</b>—Subsec. (e). Pub. L. 105–34, §1602(d)(2)(B), substituted “section 6724(d)(2)(Y)” for “section 6724(d)(2)(X)”.
 
-Subsec. (g). Pub. L. 105–34, §1281(a), inserted at end “No penalty shall be imposed under this subsection on any failure which is shown to be due to reasonable cause and not willful neglect.”
+Subsec. (g). Pub. L. 105–34, §1281(a), inserted at end “No penalty shall be imposed under this subsection onany failure which is shown to be due to reasonable cause and not willful neglect.”
 
 Subsec. (k). Pub. L. 105–34, §1281(b), inserted at end “No penalty shall be imposed under this subsection on any failure which is shown to be due to reasonable cause and not willful neglect.”
 
@@ -226,17 +226,17 @@ Subsec. (i). Pub. L. 104–188, §1455(c), substituted “$100” and “$50,000
 
 <b>1992</b>—Subsec. (h). Pub. L. 102–318 substituted “3405(e)(10)(B)” for “3405(d)(10)(B)”.
 
-<b>1989</b>—Subsec. (k). Pub. L. 101–239, §7841(d)(5)(B), redesignated the subsec. (k), relating to alcohol and tobacco taxes, as (<i>l</i>).
+<b>1989</b>—Subsec. (k). Pub. L. 101–239, §7841(d)(5)(B), redesignated the subsec. (k), relating to alcohol and tobacco taxes, as (l).
 
 Pub. L. 101–239, §7841(d)(5)(A), redesignated the subsection relating to information with respect to includible employee benefits as (k), see Codification note above.
 
 Pub. L. 101–140 amended this section to read as if amendments by Pub. L. 99–514, §1151(b), had not been enacted, see Codification note above and 1986 Amendment note below.
 
-Subsec. (<i>l</i>). Pub. L. 101–239, §7208(b)(2), added subsec. (<i>l</i>) and redesignated former subsec. (<i>l</i>) as (m).
+Subsec. (l). Pub. L. 101–239, §7208(b)(2), added subsec. (l) and redesignated former subsec. (l) as (m).
 
-Pub. L. 101–239, §7841(d)(5)(B), redesignated subsec. (k), relating to alcohol and tobacco taxes, as (<i>l</i>).
+Pub. L. 101–239, §7841(d)(5)(B), redesignated subsec. (k), relating to alcohol and tobacco taxes, as (l).
 
-Subsec. (m). Pub. L. 101–239, §7208(b)(2), redesignated subsec. (<i>l</i>) as (m).
+Subsec. (m). Pub. L. 101–239, §7208(b)(2), redesignated subsec. (l) as (m).
 
 <b>1988</b>—Subsec. (j). Pub. L. 100–647, §1017(b), amended subsec. (j) as it existed prior to its repeal by Pub. L. 100–203, §10502(d)(11), by inserting “(and the corresponding provision of section 4041(d)(1))” after “section 4041(a)(1)”, see 1987 Amendment note below.
 
@@ -250,7 +250,7 @@ Subsec. (k)(4). Pub. L. 100–647, §1018(u)(36), substituted “or part II of s
 
 Subsec. (j). Pub. L. 100–203, §10502(d)(11), struck out subsec. (j), as added by section 1702(b) of Pub. L. 99–514, which related to failure to give written notice to certain sellers of diesel fuel.
 
-Subsecs. (k), (<i>l</i>). Pub. L. 100–203, §10502(d)(11), redesignated subsec. (<i>l</i>), relating to information with respect to includible employee benefits, as (k), and directed the redesignation of a nonexistent subsec. (m) as (<i>l</i>). See Codification note above.
+Subsecs. (k), (l). Pub. L. 100–203, §10502(d)(11), redesignated subsec. (l), relating to information with respect to includible employee benefits, as (k), and directed the redesignation of a nonexistent subsec. (m) as (l). See Codification note above.
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–514, §1501(d)(1)(A), redesignated subsec. (b) as (a), substituted “Returns with respect to certain payments aggregating less than $10” for “Other returns” in heading, and struck out former subsec. (a) which provided penalties for failure to file returns relating to information at source, payments of dividends, etc. and certain transfers of stock.
 
@@ -264,7 +264,7 @@ Pub. L. 99–514, §1810(f)(9)(C), struck out “etc.,” after “Returns” in
 
 Subsec. (g)(1). Pub. L. 99–514, §1810(f)(9)(A), in amending par. (1) generally, struck out “(A)” after “In the case of each failure”, and struck out “(B) to furnish a statement required by section 6039C(b)(3),” before “on the date required”.
 
-Subsec. (g)(3). Pub. L. 99–514, §1810(f)(9)(B), in amending par. (3) generally, designated former subpar. (B) of par. (3) as the entire paragraph, struck out former subpar. (A) setting a limitation of $25,000 with respect toeach subsection for failure to meet the requirements of subsection (a) or (b) of section 6039C, struck out former subpar. (B) heading “For failure to meet requirements of section 6039C(c)” and in text substituted “requirements of section 6039C” for “requirements of subsection (c) of section 6039C” and inserted “(A)” before “$25,000” and “(B)” before “5 percent”.
+Subsec. (g)(3). Pub. L. 99–514, §1810(f)(9)(B), in amending par. (3) generally, designated former subpar. (B) of par. (3) as the entire paragraph, struck out former subpar. (A) setting a limitation of $25,000 with respect to each subsection for failure to meet the requirements of subsection (a) or (b) of section 6039C, struck out former subpar. (B) heading “For failure to meet requirements of section 6039C(c)” and in text substituted “requirements of section 6039C” for “requirements of subsection (c) of section 6039C” and inserted “(A)” before “$25,000” and “(B)” before “5 percent”.
 
 Subsecs. (h), (i). Pub. L. 99–514, §1501(d)(1)(A)(i), redesignated subsecs. (i) and (j) as (h) and (i), respectively. Former subsec. (h) redesignated (g).
 
@@ -276,7 +276,7 @@ Pub. L. 99–514, §1501(d)(1)(A)(i), redesignated subsec. (k), relating to alco
 
 Subsec. (k). Pub. L. 99–514, §1501(d)(1)(A)(i), redesignated subsec. (k), relating to alcohol and tobacco taxes, as (j). Subsequently, such subsec. (j) was redesignated as subsec. (k) by section 1301(g) of Pub. L. 99–514, and also by section 1702(b) of Pub. L. 99–514.
 
-Subsecs. (<i>l</i>), (m). Pub. L. 99–514, §1151(b), directed the redesignation of a nonexistent subsec. (<i>l</i>) as (m), and added a new subsec. (<i>l</i>) relating to information with respect to includible employee benefits.
+Subsecs. (l), (m). Pub. L. 99–514, §1151(b), directed the redesignation of a nonexistent subsec. (l) as (m), and added a new subsec. (l) relating to information with respect to includible employee benefits.
 
 <b>1984</b>—Subsec. (a)(1)(B)(v). Pub. L. 98–369, §145(b)(1), added cl. (v).
 
@@ -294,7 +294,7 @@ Pub. L. 98–369, §146(b)(2), substituted “, 6050H or 6050I” for “or sec
 
 Pub. L. 98–369, §145(b)(2), inserted “or section 6050H” after “section 6041A(b)”.
 
-Subsec. (f). Pub. L. 98–611, §1(d)(2), and Pub. L. 98–612, §1(b)(2), made identical amendments, substituting “6039D (relating to returns and records with respect to certain fringe benefit plans)” for “125(h) (relating to information with respect to cafeteria plans)”.
+Subsec. (f). Pub. L. 98–611, §1(d)(2), and Pub. L. 98–612, §1(b)(2), made identical amendments, substituting“6039D (relating to returns and records with respect to certain fringe benefit plans)” for “125(h) (relating to information with respect to cafeteria plans)”.
 
 Pub. L. 98–369, §531(b)(4)(B)(i), which directed the amendment of subsec. (f) by striking out “or 6047 (relating to information relating to certain trusts and annuity and bond purchase plans)” and inserting in lieu thereof “, 6047 (relating to information relating to certain trusts and annuity and bond purchase plans), or 125(h) (relating to information with respect to cafeteria plans)”, was executed by substituting the quoted phrase for “or 6047 (relating to information relating to certain trusts and annuity plans)”, as the probable intent of Congress.
 
@@ -332,7 +332,7 @@ Subsecs. (h), (i). Pub. L. 97–34, §311(f), added subsec. (h) and redesignated
 
 <b>1980</b>—Subsec. (b). Pub. L. 96–223 inserted reference to statement required by section 6050C (relating to information regarding windfall profit tax on crude oil).
 
-Subsec. (d)(3). Pub. L. 96–603 substituted in heading “returns” for “reports” and in text “failure to comply” for “failure to file a report required under section 6056\(relating to annual reports by private foundations) or to comply”, “failing to meet such requirements” for “failing so to file or meet the publicity requirement”, and “failure with respect” for “failure to file or comply with the requirements of section 6104(d) with regard”.
+Subsec. (d)(3). Pub. L. 96–603 substituted in heading “returns” for “reports” and in text “failure to comply” for “failure to file a report required under section 6056 (relating to annual reports by private foundations) or to comply”, “failing to meet such requirements” for “failing so to file or meet the publicity requirement”, and “failure with respect” for “failure to file or comply with the requirements of section 6104(d) with regard”.
 
 Subsecs. (g), (h). Pub. L. 96–499 added subsec. (g) and redesignated former subsec. (g) as (h).
 
@@ -388,7 +388,7 @@ Amendment by Pub. L. 105–277 applicable to requests made after the later of De
 
 #### Effective Date of 1997 Amendment
 
-Section 1281(e) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section and sections 6683 and 7519 of this title\] shall apply to taxable years beginning after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title XII, §1281(e), Aug. 5, 1997, 111 Stat. 1037, provided that: “The amendments made by this section \[amending this section and sections 6683 and 7519 of this title\] shall apply to taxable years beginning after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 Amendment by section 1602(d)(2)(B) of Pub. L. 105–34 effective as if included in the provisions of the Health Insurance Portability and Accountability Act of 1996, Pub. L. 104–191, to which such amendment relates, see section 1602(i) of Pub. L. 105–34, set out as a note under section 26 of this title.
 
@@ -396,7 +396,7 @@ Amendment by section 1602(d)(2)(B) of Pub. L. 105–34 effective as if included 
 
 Amendment by section 1455(c), (d)(2) of Pub. L. 104–188 applicable to returns, reports, and other statements the due date for which (determined without regard to extensions) is after Dec. 31, 1996, see section 1455(e) of Pub. L. 104–188, set out as a note under section 408 of this title.
 
-Section 1314(c) of Pub. L. 104–168 provided that: “The amendments made by this section \[amending this section\] shall apply to returns for taxable years ending on or after the date of the enactment of this Act \[July 30, 1996\].”
+Pub. L. 104–168, title XIII, §1314(c), July 30, 1996, 110 Stat. 1481, provided that: “The amendments made by this section \[amending this section\] shall apply to returns for taxable years ending on or after the date of the enactment of this Act \[July 30, 1996\].”
 
 #### Effective Date of 1993 Amendment
 
@@ -410,7 +410,7 @@ Amendment by Pub. L. 102–318 applicable, except as otherwise provided, to dist
 
 Amendment by section 7208(b)(2) of Pub. L. 101–239 applicable to transactions after Mar. 31, 1990, see section 7208(b)(4) of Pub. L. 101–239, set out as a note under section 6043 of this title.
 
-Amendment by Pub. L. 101–140 effective as if included in section 1151 of Pub. L. 99–514, see section 203(c) ofPub. L. 101–140, set out as a note under section 79 of this title.
+Amendment by Pub. L. 101–140 effective as if included in section 1151 of Pub. L. 99–514, see section 203(c) of Pub. L. 101–140, set out as a note under section 79 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -422,7 +422,7 @@ Amendment by section 3021(a)(10) of Pub. L. 100–647 effective as if included i
 
 Amendment by section 10502(d)(11) of Pub. L. 100–203 applicable to sales after Mar. 31, 1988, see section 10502(e) of Pub. L. 100–203, set out as a note under section 40 of this title.
 
-Section 10704(d) of Pub. L. 100–203 provided that: “The amendments made by this section \[amending this section and sections 6685 and 7207 of this title\] shall apply—
+Pub. L. 100–203, title X, §10704(d), Dec. 22, 1987, 101 Stat. 1330–463, provided that: “The amendments made by this section \[amending this section and sections 6685 and 7207 of this title\] shall apply—
 
 &emsp;“(1) to returns for years beginning after December 31, 1986, and
 
@@ -440,13 +440,13 @@ Amendment by section 1301(g) of Pub. L. 99–514 applicable to bonds issued afte
 
 Amendment by section 1501(d)(1)(A) of Pub. L. 99–514 applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1986, see section 1501(e) of Pub. L. 99–514, set out as an Effective Date note under section 6721 of this title.
 
-Amendment by section 1702(b) of Pub. L. 99–514 applicable to sales after first calendar quarter beginning more than 60 days after Oct. 22, 1986, see section 1702(c) of Pub. L. 99–514, set out as a note under section 4041 of this title.
+Amendment by section 1702(b) of Pub. L. 99–514 applicable to sales after first calendar quarter beginningmore than 60 days after Oct. 22, 1986, see section 1702(c) of Pub. L. 99–514, set out as a note under section 4041 of this title.
 
 Amendment by sections 1810(f)(9) and 1811(c)(2) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date of 1984 Amendments
 
-Amendment by Pub. L. 98–612 effective Jan. 1, 1985, see section 1(d)(2) of Pub. L. 98–612.
+Amendment by Pub. L. 98–612 effective Jan. 1, 1985, see section 1(d)(2) of Pub. L. 98–612, Oct. 31, 1984, 98 Stat. 3181.
 
 Amendment by Pub. L. 98–611 effective Jan. 1, 1985, see section 1(g)(2) of Pub. L. 98–611, set out as a note under section 127 of this title.
 
@@ -504,15 +504,15 @@ No withholding by reason of condensate provision.—No withholding of tax shall 
 
 #### Effective Date of 1982 Amendment
 
-Amendment by section 309(b)(2) of Pub. L. 97–248 applicable to amounts paid (or treated as paid) after Dec.31, 1982, see section 309(c) of Pub. L. 97–248, set out as a note under section 6049 of this title.
+Amendment by section 309(b)(2) of Pub. L. 97–248 applicable to amounts paid (or treated as paid) after Dec. 31, 1982, see section 309(c) of Pub. L. 97–248, set out as a note under section 6049 of this title.
 
-Section 315(d) of Pub. L. 97–248 provided that: “The amendments made by this section \[amending this section and section 6678 of this title\] shall apply with respect to returns or statements the due date for the filing of which (without regard to extensions) is after December 31, 1982.”
+Pub. L. 97–248, title III, §315(d), Sept. 3, 1982, 96 Stat. 607, provided that: “The amendments made by this section \[amending this section and section 6678 of this title\] shall apply with respect to returns or statements the due date for the filing of which (without regard to extensions) is after December 31, 1982.”
 
 #### Effective Date of 1981 Amendment
 
 Amendment by section 311(f) of Pub. L. 97–34 applicable to taxable years beginning after Dec. 31, 1981, see section 311(i)(1) of Pub. L. 97–34, set out as a note under section 219 of this title.
 
-Section 723(c) of Pub. L. 97–34 provided that: “The amendments made by this section \[amending this section and sections 6041 and 6678 of this title\] shall apply to returns and statements required to be furnished after December 31, 1981.”
+Pub. L. 97–34, title VII, §723(c), Aug. 13, 1981, 95 Stat. 344, provided that: “The amendments made by this section \[amending this section and sections 6041 and 6678 of this title\] shall apply to returns and statements required to be furnished after December 31, 1981.”
 
 #### Effective Date of 1980 Amendments
 
@@ -524,7 +524,7 @@ Amendment by Pub. L. 96–223 applicable to periods after Feb. 29, 1980, see sec
 
 #### Effective Date of 1979 Amendment
 
-Section 7(c) of Pub. L. 96–167 provided that: “The amendments made by this section \[amending this section and sections 6039 and 6678 of this title\] shall apply with respect to calendar years beginning after 1979.”
+Pub. L. 96–167, §7(c), Dec. 29, 1979, 93 Stat. 1277, provided that: “The amendments made by this section \[amending this section and sections 6039 and 6678 of this title\] shall apply with respect to calendar years beginning after 1979.”
 
 #### Effective Date of 1976 Amendment
 

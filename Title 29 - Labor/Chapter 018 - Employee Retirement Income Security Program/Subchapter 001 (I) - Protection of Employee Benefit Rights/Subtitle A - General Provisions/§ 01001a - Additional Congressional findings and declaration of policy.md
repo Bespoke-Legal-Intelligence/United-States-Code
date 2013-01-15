@@ -50,5 +50,5 @@ Section effective Sept. 26, 1980, see section 1461(e)(1) of this title.
 
 #### Study and Report Respecting Collective Bargaining for Contributions to, and Benefits From, Multiemployer Plans
 
-Section 412(b) of Pub. L. 96–364 directed Secretary of Labor to study feasibility of requiring collective bargaining on both issues of contributions to, and benefits from, multiemployer plans, and submit a report on the study to Congress within 3 years of Sept. 26, 1980.
+Pub. L. 96–364, title IV, §412(b), Sept. 26, 1980, 94 Stat. 1309, directed Secretary of Labor to study feasibility of requiring collective bargaining on both issues of contributions to, and benefits from, multiemployer plans, and submit a report on the study to Congress within 3 years of Sept. 26, 1980.
 

@@ -52,7 +52,7 @@ Complaints by Employees.—
 
 &emsp;(2) The Inspector General shall not, after receipt of a complaint or information from an employee, disclose the identity of the employee without the consent of the employee, unless the Inspector General determines such disclosure is unavoidable during the course of the investigation.
 
-&emsp;(3) Any employee who has authority to take, direct others to take, recommend, or approve any personnel action, shall not, with respect to such authority, take or threaten to take any action against any employee as a reprisal for making a complaint or disclosing information to the Inspector General, unless the complaint was made or the information disclosed with the knowledge that it was false or with willful disregard for its truth or falsity.
+&emsp;(3) Any employee who has authority to take, direct others to take, recommend, or approve any personnel action, shall not, with respect to such authority, take or threaten to take any action against any employee as a reprisal for making a complaint or disclosing information to the Inspector General, unless the complaint was made or the information disclosedwith the knowledge that it was false or with willful disregard for its truth or falsity.
 
 (e)
 
@@ -86,7 +86,7 @@ Experts and consultants.—The Inspector General may procure temporary and inter
 
 &emsp;(3)
 
-Independence in appointing staff.—No individual may carry out any of the duties or responsibilities of the Office of the Inspector General unless the individual is appointed bythe Inspector General, or provides services obtained by the Inspector General, pursuant to this paragraph.
+Independence in appointing staff.—No individual may carry out any of the duties or responsibilities of the Office of the Inspector General unless the individual is appointed by the Inspector General, or provides services obtained by the Inspector General, pursuant to this paragraph.
 
 &emsp;(4)
 

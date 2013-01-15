@@ -8,7 +8,7 @@ Criteria for Performance Incentive Awards.—(1) For purposes of carrying out a 
 
 &emsp;(B) recognize eligible employees and employment service offices for excellence in the provision of such services or for having made demonstrable improvements in the provision of such services.
 
-(2) The Secretary shall establish such criteria in consultation with representatives of States, political subdivisions of States, and other providers of employment, training, and placement services under the Workforce Investment Act of 1998 consistent with the performance measures established under section 4102A(b)(7) of this title.
+(2) The Secretary shall establish such criteria in consultation with representatives of States,political subdivisions of States, and other providers of employment, training, and placement services under the Workforce Investment Act of 1998 consistent with the performance measures established under section 4102A(b)(7) of this title.
 
 (b)
 

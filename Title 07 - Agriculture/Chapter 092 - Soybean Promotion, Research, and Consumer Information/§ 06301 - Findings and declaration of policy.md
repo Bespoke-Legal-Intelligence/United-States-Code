@@ -20,7 +20,7 @@ Congress finds that—
 
 #### (b) Policy
 
-Congress declares that it is in the public interest to authorize the establishment, through the exercise of the powers provided in this chapter, of an orderly procedure for developing, financing through assessments on domestically-produced soybeans, and implementing a program of promotion, research, consumer information, and industry information designed to strengthen the soybean industry's position in the marketplace, to maintain and expand existing domestic and foreign markets and uses for soybeans and soybean products, and to develop new markets and uses for soybeans and soybean products.
+Congress declares that it is in the public interest to authorize the establishment, through the exercise of the powers provided in this chapter, of an orderly procedure for developing, financing through assessments on domestically-produced soybeans, and implementing a program of promotion, research, consumer information, and industry information designed to strengthen the soybean industry's position in the marketplace,to maintain and expand existing domestic and foreign markets and uses for soybeans and soybean products, and to develop new markets and uses for soybeans and soybean products.
 
 #### (c) Construction
 
@@ -30,5 +30,5 @@ Nothing in this chapter may be construed to provide for the control of productio
 
 #### Short Title
 
-Section 1965 of Pub. L. 101–624 provided that: “This subtitle \[subtitle E (§§1965–1976) of title XIX of Pub. L. 101–624, enacting this chapter\] may be cited as the ‘Soybean Promotion, Research, and Consumer Information Act’.”
+Pub. L. 101–624, title XIX, §1965, Nov. 28, 1990, 104 Stat. 3881, provided that: “This subtitle \[subtitle E (§§1965–1976) of title XIX of Pub. L. 101–624, enacting this chapter\] may be cited as the ‘Soybean Promotion, Research, and Consumer Information Act’.”
 

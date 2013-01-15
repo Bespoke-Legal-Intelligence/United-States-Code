@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(B) each monetary limitation on or monetary allowance for pay applicable to any such employee or class of employees;
 
-> &emsp;by an amount rounded to the nearest $100 and computed on the basis of a percentage equal or equivalent, insofar as practicable and with such variations as the Chief Administrative Officer considers appropriate, to the percentage of the adjustment under such section 5303;
+> &emsp;by an amount rounded to the nearest $100 and computed on the basis of a percentage equal orequivalent, insofar as practicable and with such variations as the Chief Administrative Officer considers appropriate, to the percentage of the adjustment under such section 5303;
 
 &emsp;(2) shall determine, with respect to the employees and classes of employees within the purview of this section whose pay is disbursed by the Chief Administrative Officer, the respective amounts of pay adjustments which are equal or equivalent, insofar as practicable and with such exceptions and modifications as may be necessary to provide for appropriate pay relationships between positions, to corresponding increases in pay, as determined by the Chief Administrative Officer, made by the pay adjustment by the President; and
 
@@ -82,7 +82,7 @@ June 11, 1968, increases eff. July 1, 1968, Cong. Rec., vol. 114, pt. 13, p. 167
 
 The following acts provided increases in compensation for elected officers and certain employees of the House of Representatives:
 
-June 20, 1958, Pub. L. 85–462, §4(k), (<i>l</i>), 72 Stat. 209.
+June 20, 1958, Pub. L. 85–462, §4(k), (l), 72 Stat. 209.
 
 June 28, 1955, ch. 189, §4(c), 69 Stat. 176.
 

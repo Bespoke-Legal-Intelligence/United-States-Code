@@ -10,7 +10,7 @@ The Secretary concerned may make a decision to approve a project submitted by a 
 
 &emsp;(3) The project has been approved by the resource advisory committee in accordance with section 7125 of this title, including the procedures issued under subsection (e) of that section.
 
-&emsp;(4) A project description has been submitted by the resource advisory committee to theSecretary concerned in accordance with section 7123 of this title.
+&emsp;(4) A project description has been submitted by the resource advisory committee to the Secretary concerned in accordance with section 7123 of this title.
 
 &emsp;(5) The project will improve the maintenance of existing infrastructure, implement stewardship objectives that enhance forest ecosystems, and restore and improve land health and water quality.
 
@@ -102,7 +102,7 @@ Once the Secretary concerned accepts a project for review under section 7123 of 
 
 &emsp;&emsp;&emsp;(ii) For fiscal year 2009, 45 percent.
 
-&emsp;&emsp;&emsp;(iii) For each of fiscal years 2010 and 2011, 50 percent.
+&emsp;&emsp;&emsp;(iii) For each of fiscal years 2010 through 2012, 50 percent.
 
 #### (C) Inclusion in pilot program
 
@@ -112,7 +112,7 @@ Once the Secretary concerned accepts a project for review under section 7123 of 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary concerned may use funds from any appropriated account availableto the Secretary for the Federal land to assist in the administration of projects conducted under the pilot program.
+&emsp;&emsp;&emsp;The Secretary concerned may use funds from any appropriated account available to the Secretary for the Federal land to assist in the administration of projects conducted under the pilot program.
 
 #### (ii) Maximum amount of assistance
 
@@ -136,9 +136,13 @@ The Secretary shall ensure that at least 50 percent of all project funds be used
 
 &emsp;(2) to restoration of streams and watersheds.
 
-(Pub. L. 106–393, title II, §204, as added Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3902.)
+(Pub. L. 106–393, title II, §204, as added Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3902; amended Pub. L. 112–141, div. F, title I, §100101(a)(6), July 6, 2012, 126 Stat. 906.)
 
 #### Prior Provisions
 
 A prior section 204 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3893.
+
+#### Amendments
+
+<b>2012</b>—Subsec. (e)(3)(B)(iii). Pub. L. 112–141 substituted “through 2012” for “and 2011”.
 

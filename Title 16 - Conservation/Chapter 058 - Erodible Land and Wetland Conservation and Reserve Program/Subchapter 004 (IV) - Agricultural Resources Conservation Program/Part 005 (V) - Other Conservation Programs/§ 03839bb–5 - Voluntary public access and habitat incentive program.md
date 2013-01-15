@@ -46,13 +46,27 @@ The Secretary shall promulgate such regulations as are necessary to carry out th
 
 #### (f) Funding
 
-Of the funds of the Commodity Credit Corporation, the Secretary shall use, to the maximum extent practicable, $50,000,000 for the period of fiscal years 2009 through 2012.
+#### (1) Fiscal years 2009 through 2012
 
-(Pub. L. 99–198, title XII, §1240R, as added Pub. L. 110–234, title II, §2606, May 22, 2008, 122 Stat. 1070, and Pub. L. 110–246, §4(a), title II, §2606, June 18, 2008, 122 Stat. 1664, 1798.)
+&emsp;Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section, to the maximum extent practicable, $50,000,000 for the period of fiscal years 2009 through 2012.
+
+#### (2) Authorization of appropriations
+
+&emsp;There is authorized to be appropriated to carry out this section $10,000,000 for fiscal year 2013.
+
+(Pub. L. 99–198, title XII, §1240R, as added Pub. L. 110–234, title II, §2606, May 22, 2008, 122 Stat. 1070, and Pub. L. 110–246, §4(a), title II, §2606, June 18, 2008, 122 Stat. 1664, 1798; amended Pub. L. 112–240, title VII, §701(c)(2), Jan. 2, 2013, 126 Stat. 2363.)
 
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Amendments
+
+<b>2013</b>—Subsec. (f). Pub. L. 112–240 added subsec. (f) and struck out former subsec. (f). Prior to amendment, text read as follows: “Of the funds of the Commodity Credit Corporation, the Secretary shall use, to the maximum extent practicable, $50,000,000 for the period of fiscal years 2009 through 2012.”
+
+#### Effective Date of 2013 Amendment
+
+Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under section 8701 of Title 7, Agriculture.
 
 #### Effective Date
 

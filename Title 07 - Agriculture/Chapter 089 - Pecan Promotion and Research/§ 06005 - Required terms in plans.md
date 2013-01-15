@@ -196,7 +196,7 @@ The plan shall define the powers and duties of the Board, which shall include th
 
 #### (4) Paying expenses
 
-&emsp;The funds to cover the expenses referred to in paragraph (3) shall be paid by the Board from assessments collected under section 6007 of this title or funds borrowed pursuant to paragraph (5).
+&emsp;The funds to cover the expenses referred to in paragraph (3) shall be paid by the Boardfrom assessments collected under section 6007 of this title or funds borrowed pursuant to paragraph (5).
 
 #### (5) Authority to borrow
 

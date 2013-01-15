@@ -10,7 +10,7 @@ A State may, subject to subsection (f), use amounts provided under a grant award
 
 &emsp;&emsp;(A) essential health services such as case management services, medical, nursing, substance abuse treatment, mental health treatment, and dental care, diagnostics, monitoring, prophylactic treatment for opportunistic infections, treatment education to take place in the context of health care delivery, and medical follow-up services, mental health, developmental, and rehabilitation services, home health and hospice care; and
 
-&emsp;&emsp;(B) essential support services such as transportation services, attendant care, homemaker services, day or respite care, benefits advocacy, advocacy services provided through public and nonprofit private entities, and services that are incidental to the provision of health care services for individuals with HIV/AIDS including nutrition services, housing referral services, and child welfare and family services (including foster care and adoption services).
+&emsp;&emsp;(B) essential support services such as transportation services, attendant care, homemaker services, day or respite care, benefits advocacy, advocacy services provided through public and nonprofit private entities, and services that are incidental tothe provision of health care services for individuals with HIV/AIDS including nutrition services, housing referral services, and child welfare and family services (including foster care and adoption services).
 
 > An entity or entities of the type described in this subsection shall hereinafter be referred to in this subchapter as a “consortium” or “consortia”.
 
@@ -28,7 +28,7 @@ A State may, subject to subsection (f), use amounts provided under a grant award
 
 #### (2) Exception
 
-&emsp;Subparagraph (C) of paragraph (1) shall not apply to any applicant consortium that theState determines will operate in a community or locality in which it has been demonstrated by the applicant consortium that—
+&emsp;Subparagraph (C) of paragraph (1) shall not apply to any applicant consortium that the State determines will operate in a community or locality in which it has been demonstrated by the applicant consortium that—
 
 &emsp;&emsp;(A) subpopulations exist within the community to be served that have unique service requirements; and
 
@@ -98,7 +98,7 @@ In providing assistance under subsection (a) of this section, the State shall, a
 
 #### (f) Allocation of funds; treatment as support services
 
-For purposes of the requirement of section 300ff–22(b)(1) of this title, expenditures of grants under section 300ff–21 of this title for or through consortia under this section are deemed to besupport services, not core medical services. The preceding sentence may not be construed as having any legal effect on the provisions of subsection (a) that relate to authorized expenditures of the grant.
+For purposes of the requirement of section 300ff–22(b)(1) of this title, expenditures of grants under section 300ff–21 of this title for or through consortia under this section are deemed to be support services, not core medical services. The preceding sentence may not be construed as having any legal effect on the provisions of subsection (a) that relate to authorized expenditures of the grant.
 
 (July 1, 1944, ch. 373, title XXVI, §2613, as added Pub. L. 101–381, title II, §201, Aug. 18, 1990, 104 Stat. 586; amended Pub. L. 104–146, §3(c)(2), May 20, 1996, 110 Stat. 1354; Pub. L. 106–345, title II, §203, Oct. 20, 2000, 114 Stat. 1331; Pub. L. 109–415, title II, §§201(b), 204(a), title VII, §§702(3), 703, Dec. 19, 2006, 120 Stat. 2787, 2796, 2820; Pub. L. 111–87, §2(a)(1), (3)(A), Oct. 30, 2009, 123 Stat. 2885.)
 
@@ -108,7 +108,7 @@ Another section 3(c)(2) of Pub. L. 104–146 amended section 300ff–22 of this 
 
 #### Prior Provisions
 
-A prior section 2613 of act July 1, 1944, was successively renumbered by subsequent acts and transferred, see section 238<i>l</i> of this title.
+A prior section 2613 of act July 1, 1944, was successively renumbered by subsequent acts and transferred, see section 238l of this title.
 
 #### Amendments
 

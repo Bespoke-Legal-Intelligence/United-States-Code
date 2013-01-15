@@ -42,7 +42,7 @@
 
 (4) The authority of the Secretary under this subsection terminates on September 30, 2020.
 
-(Added Pub. L. 99–272, title XIX, §19012(b)(1), Apr. 7, 1986, 100 Stat. 380, §603; amended Pub. L. 99–166, title I, §102(b)(1), Dec. 3, 1985, 99 Stat. 943;Pub. L. 99–272, title XIX, §19012(c)(5)(A), Apr. 7, 1986, 100 Stat. 382; Pub. L. 100–322, title I, §§101(e)(3), 104, 112(a), May 20, 1988, 102 Stat. 492, 493, 499; Pub. L. 100–687, div. B, title XV, §1503(a)(1), Nov. 18, 1988, 102 Stat. 4133; Pub. L. 102–54, §14(b)(9), June 13, 1991, 105 Stat. 283; renumbered §1703 and amended Pub. L. 102–83, §§4(a)(1), (3)–(5), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 102–585, title V, §501, Nov. 4, 1992, 106 Stat. 4955; Pub. L. 104–262, title I, §104(b), Oct. 9, 1996, 110 Stat. 3184; Pub. L. 108–422, title VI, §601, Nov. 30, 2004, 118 Stat. 2396; Pub. L. 109–13, div. A, title VI, §6080, May 11, 2005, 119 Stat. 302; Pub. L. 110–387, title VIII, §802, Oct. 10, 2008, 122 Stat. 4141; Pub. L. 112–37, §10(a), Oct. 5, 2011, 125 Stat. 396.)
+(Added Pub. L. 99–272, title XIX, §19012(b)(1), Apr. 7, 1986, 100 Stat. 380, §603; amended Pub. L. 99–166, title I, §102(b)(1), Dec. 3, 1985, 99 Stat. 943; Pub. L. 99–272, title XIX, §19012(c)(5)(A), Apr. 7, 1986, 100 Stat. 382; Pub. L. 100–322, title I, §§101(e)(3), 104, 112(a), May 20, 1988, 102 Stat. 492, 493, 499; Pub. L. 100–687, div. B, title XV, §1503(a)(1), Nov. 18, 1988, 102 Stat. 4133; Pub. L. 102–54, §14(b)(9), June 13, 1991, 105 Stat. 283; renumbered §1703 and amended Pub. L. 102–83, §§4(a)(1), (3)–(5), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 102–585, title V, §501, Nov. 4, 1992, 106 Stat. 4955; Pub. L. 104–262, title I, §104(b), Oct. 9, 1996, 110 Stat. 3184; Pub. L. 108–422, title VI, §601, Nov. 30, 2004, 118 Stat. 2396; Pub. L. 109–13, div. A, title VI, §6080, May 11, 2005, 119 Stat. 302; Pub. L. 110–387, title VIII, §802, Oct. 10, 2008, 122 Stat. 4141; Pub. L. 112–37, §10(a), Oct. 5, 2011, 125 Stat. 396.)
 
 #### References in Text
 
@@ -126,15 +126,15 @@ Subsec. (c). Pub. L. 100–322, §112(a), added subsec. (c).
 
 <b>1985</b>—Subsec. (a)(5). Pub. L. 99–166, §102(b)(1), as amended by Pub. L. 99–272, §19012(c)(5)(A), inserted “(other than the Commonwealth of Puerto Rico)” after “in a State” and substituted “contiguous States and the Commonwealth of Puerto Rico” for “contiguous States, but the authority of the Administrator under this paragraph with respect to the Commonwealth of Puerto Rico shall expire on September 30, 1988, and until such date the Administrator may, if necessary to prevent hardship, waive the applicability to the Commonwealth of Puerto Rico of the restrictions in this paragraph with respect to hospital patient loads and the incidence of the furnishing of medical services”.
 
-#### Effective Date of 1988 Amendments
+#### Effective Date of 1988 Amendment
 
-Section 1503(b) of Pub. L. 100–687 provided that: “The amendments made by subsection (a)(1) \[amending this section\] shall apply with respect to the furnishing of medical services by contract to veterans who apply to the Veterans’ Administration for medical services after June 30, 1988.”
+Pub. L. 100–687, div. B, title XV, §1503(b), Nov. 18, 1988, 102 Stat. 4134, provided that: “The amendments madeby subsection (a)(1) \[amending this section\] shall apply with respect to the furnishing of medical services by contract to veterans who apply to the Veterans’ Administration for medical services after June 30, 1988.”
 
-Section 101(i) of Pub. L. 100–322 provided that: “The amendments made by this section \[amending this section and sections 612 and 617 \[now 1712 and 1717\] of this title\] shall apply with respect to the furnishing of medical services to veterans who apply for such services after June 30, 1988.”
+Pub. L. 100–322, title I, §101(i), May 20, 1988, 102 Stat. 492, provided that: “The amendments made by this section \[amending this section and sections 612 and 617 \[now 1712 and 1717\] of this title\] shall apply with respect to the furnishing of medical services to veterans who apply for such services after June 30, 1988.”
 
 #### Effective Date of 1985 Amendment
 
-Section 102(b)(1) of Pub. L. 99–166, as amended by Pub. L. 99–272, title XIX, §19012(c)(5)(A), Apr. 7, 1986, 100 Stat. 382, provided that the amendment made by that section is effective Oct. 1, 1988.
+Pub. L. 99–166, title I, §102(b)(1), Dec. 3, 1985, 99 Stat. 943, as amended by Pub. L. 99–272, title XIX, §19012(c)(5)(A), Apr. 7, 1986, 100 Stat. 382, provided that the amendment made by that section is effective Oct. 1, 1988.
 
 #### Demonstration Projects on Alternatives for Expanding Care for Veterans in Rural Areas
 
@@ -238,7 +238,7 @@ Exchange of Medical Information.—In conducting the pilot program under this se
 
 “(h)
 
-Reports.—Not later than the 30 days after the end of each year in which the pilot program under this section is conducted, the Secretary shall submit to the Committee of Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report which includes—
+Reports.—Not later than the 30 days after the end of each year in which the pilot program under thissection is conducted, the Secretary shall submit to the Committee of Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report which includes—
 
 &emsp;“(1) the assessment of the Secretary of the pilot program during the preceding year, including its cost, volume, quality, patient satisfaction, benefit to veterans, and such other findings and conclusions with respect to pilot program as the Secretary considers appropriate; and
 
@@ -256,5 +256,5 @@ Section 1503(c) of Pub. L. 100–687 ratified actions of the Administrator in co
 
 #### Puerto Rico Contract Care; Limitation on Incurring of Obligations
 
-Section 102(b)(2)–(5) of Pub. L. 99–166, as amended by Pub. L. 99–272, title XIX, §19012(c)(5)(B), Apr. 7, 1986, 100 Stat. 382, limited Administrator's authority to incur obligations for medical services for veterans residing in Puerto Rico during fiscal years 1986 to 1988.
+Pub. L. 99–166, title I, §102(b)(2)–(5), Dec. 3, 1985, 99 Stat. 943, as amended by Pub. L. 99–272, title XIX, §19012(c)(5)(B), Apr. 7, 1986, 100 Stat. 382, limited Administrator's authority to incur obligations for medical services for veterans residing in Puerto Rico during fiscal years 1986 to 1988.
 

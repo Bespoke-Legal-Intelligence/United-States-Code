@@ -21,7 +21,7 @@ Assessment.—The Administrator \[of NASA\] shall enter into an arrangement for 
 
 &emsp;“(2) opportunities for augmenting the impact of space science and engineering workforce development activities and for expanding proven, effective programs; and
 
-&emsp;“(3) best practices and lessons learned, as identified through the assessment, to help maximize the effectiveness of existing and future programs to increase the participation of minority and underrepresentedgroups in the space science and engineering workforce at NASA.
+&emsp;“(3) best practices and lessons learned, as identified through the assessment, to help maximize the effectiveness of existing and future programs to increase the participation of minority and underrepresented groups in the space science and engineering workforce at NASA.
 
 “(b)
 
@@ -101,7 +101,7 @@ Sec. 2. <i>Mission and Functions</i>. The Task Force shall work with local stake
 
 The Task Force will perform the following functions, to the extent permitted by law:
 
-(a) provide leadership and coordination of Federal Government resources to facilitate workforce and economic development opportunities for aerospace communities and workers affected by new developments in America's space exploration program. Such support may include the use of personnel, technical expertise, and available financial resources, and may be used to provide a coordinated Federal response to the needs of individual States, regions, municipalities, and communities adversely affected by space industry changes;
+(a) provide leadership and coordination of Federal Government resources to facilitate workforce and economic development opportunities for aerospace communities and workers affected by new developments in America's space exploration program. Such support may include the use of personnel, technical expertise, and available financial resources, and may be used to provide a coordinated Federal response to the needs ofindividual States, regions, municipalities, and communities adversely affected by space industry changes;
 
 (b) provide recommendations to the President on ways Federal policies and programs can address issues of special importance to aerospace communities and workers; and
 

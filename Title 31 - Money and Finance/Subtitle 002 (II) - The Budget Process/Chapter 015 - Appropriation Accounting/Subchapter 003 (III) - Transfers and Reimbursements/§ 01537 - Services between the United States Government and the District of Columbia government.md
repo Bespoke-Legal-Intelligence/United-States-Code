@@ -12,7 +12,7 @@
 
 &emsp;(B) approved by the Director of the Office of Management and Budget and the Mayor of the District of Columbia.
 
-(2) Each agreement shall provide that the cost of providing the services shall be borne in the way provided in subsection (c) of this section bythe government to which the services are provided at rates or charges based on the actual cost of providing the services.
+(2) Each agreement shall provide that the cost of providing the services shall be borne in the way provided in subsection (c) of this section by the government to which the services are provided at rates or charges based on the actual cost of providing the services.
 
 (3) To carry out an agreement made under this subsection, the agreement may provide for the delegation of duties and powers of officers and employees of—
 

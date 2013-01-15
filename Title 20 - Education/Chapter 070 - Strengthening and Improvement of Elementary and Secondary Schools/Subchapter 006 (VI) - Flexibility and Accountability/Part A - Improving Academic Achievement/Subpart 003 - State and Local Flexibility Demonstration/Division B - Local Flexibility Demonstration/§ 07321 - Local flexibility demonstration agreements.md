@@ -120,7 +120,7 @@ The Secretary shall—
 
 #### (B) Disapproval
 
-&emsp;&emsp;The Secretary shall not finally disapprove the proposed amendment, except after giving the local educational agency notice and an opportunity for a hearing.
+&emsp;&emsp;The Secretary shall not finally disapprove the proposed amendment, except after givingthe local educational agency notice and an opportunity for a hearing.
 
 #### (C) Notification
 
@@ -136,7 +136,7 @@ The Secretary shall—
 
 #### (D) Response
 
-&emsp;&emsp;If the local educational agency responds to the Secretary's notification described in subparagraph (C)(ii) during the 45-day period beginning on the date on which the agency received the notification, and resubmits theproposed amendment with the requested information described in subparagraph (C)(ii)(II), the Secretary shall approve or disapprove such proposed amendment prior to the later of—
+&emsp;&emsp;If the local educational agency responds to the Secretary's notification described in subparagraph (C)(ii) during the 45-day period beginning on the date on which the agency received the notification, and resubmits the proposed amendment with the requested information described in subparagraph (C)(ii)(II), the Secretary shall approve or disapprove such proposed amendment prior to the later of—
 
 &emsp;&emsp;&emsp;(i) the expiration of the 45-day period beginning on the date on which the proposed amendment is resubmitted; or
 

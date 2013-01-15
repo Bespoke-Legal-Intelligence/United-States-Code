@@ -14,5 +14,9 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 Pub. L. 111–8, which directed that title 43 U.S.C. 1473 be amended by substituting “in fiscal years 2008 and 2009 only” for “in fiscal year 2008 only”, was executed to section 101(h) \[title I, §100\] of Pub. L. 99–591, which is classified to this section, to reflect the probable intent of Congress.
 
-<b>2007</b>—Pub. L. 110–161 which directed that title 43 U.S.C. 1473 be amended by inserting before period at end of section “, including, in fiscal year 2008 only, contributions of money and services to conduct work in support of the orderly exploration and development of Outer Continental Shelf resources, including but not limited to, preparation of environmental documents such as impact statements and assessments, studies, and related research”, was executed to section 101(h) \[title I, §100\] of Pub. L. 99–591, which is classified to this section, to reflect the probable intent of Congress.
+<b>2007</b>—Pub. L. 110–161 which directed that title 43 U.S.C. 1473 be amended by inserting before period at end of section “, including, in fiscal year 2008 only, contributions of money and services to conduct work in support of the orderly exploration and development ofOuter Continental Shelf resources, including but not limited to, preparation of environmental documents such as impact statements and assessments, studies, and related research”, was executed to section 101(h) \[title I, §100\] of Pub. L. 99–591, which is classified to this section, to reflect the probable intent of Congress.
+
+#### Transfer of Functions
+
+The Minerals Management Service was abolished and functions divided among the Office of Natural Resources Revenue, the Bureau of Ocean Energy Management, and the Bureau of Safety and Environmental Enforcement. See Secretary of the Interior Orders No. 3299 of May 19, 2010, and No. 3302 of June 18, 2010, and chapters II, V, and XII of title 30, Code of Federal Regulations, as revised by final rules of the Department of the Interior at 75 F.R. 61051 and 76 F.R. 64432.
 

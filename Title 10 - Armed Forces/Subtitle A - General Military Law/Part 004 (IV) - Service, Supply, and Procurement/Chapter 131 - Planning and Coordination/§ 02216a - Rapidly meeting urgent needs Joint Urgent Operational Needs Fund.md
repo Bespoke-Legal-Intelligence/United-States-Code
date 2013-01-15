@@ -40,19 +40,21 @@ Transfer Authority.—(1) Amounts in the Fund may be transferred by the Secretar
 
 (e)
 
-Sunset.—The authority to make expenditures or transfers from the Fund shall expire on the last day of the third fiscal year that begins after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2012.
+Sunset.—The authority to make expenditures or transfers from the Fund shall expire on September 30, 2015.
 
-(Added Pub. L. 112–81, div. A, title VIII, §846(a)(1), Dec. 31, 2011, 125 Stat. 1516.)
+(Added Pub. L. 112–81, div. A, title VIII, §846(a)(1), Dec. 31, 2011, 125 Stat. 1516; amended Pub. L. 112–239, div. A, title X, §1076(e)(2), Jan. 2, 2013, 126 Stat. 1951.)
 
 #### References in Text
 
 Section 804(b) of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011, referred to in subsec. (c)(1), is section 804(b) of Pub. L. 111–383, which is set out as a note under section 2302 of this title.
 
-The date of the enactment of the National Defense Authorization Act for Fiscal Year 2012, referred to in subsec. (e), is the date of enactment of Pub. L. 112–81, which was approved Dec. 31, 2011.
-
 #### Prior Provisions
 
 A prior section 2216a, added Pub. L. 104–106, div. A, title III, §371(a)(1), Feb. 10, 1996, 110 Stat. 277, §2216; renumbered §2216a and amended Pub. L. 104–201, div. A, title III, §§363(c), 364, title X, §1074(a)(10), Sept. 23, 1996, 110 Stat. 2493, 2494, 2659, related to Defense Business Operations Fund, prior to repeal by Pub. L. 105–261, div. A, title X, §1008(b), Oct. 17, 1998, 112 Stat. 2117.
+
+#### Amendments
+
+<b>2013</b>—Subsec. (e). Pub. L. 112–239 substituted “on September 30, 2015.” for “on the last day of the third fiscal year that begins after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2012.”
 
 #### Limitation on Commencement of Expenditures From Fund
 

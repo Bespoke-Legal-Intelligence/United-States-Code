@@ -2,7 +2,7 @@
 
 Payment of Federal unemployment tax for a calendar quarter or other period within a calendar year pursuant to section 6157 shall be considered payment on account of the tax imposed by chapter 23 of such calendar year.
 
-(Added Pub. L. 91–53, §2(c), Aug. 7, 1969, 83 Stat. 92; amended Pub. L. 98–76, title II, §231(b)(2)(B), Aug. 12, 1983, 97 Stat. 429; Pub. L. 100–647, title VII, §7106(c)(3), Nov. 10, 1988, 102 Stat. 3773.)
+(Added Pub. L. 91–53, §2(c), Aug. 7, 1969, 83 Stat. 92; amended Pub. L. 98–76, title II, §231(b)(2)(B),Aug. 12, 1983, 97 Stat. 429; Pub. L. 100–647, title VII, §7106(c)(3), Nov. 10, 1988, 102 Stat. 3773.)
 
 #### Amendments
 

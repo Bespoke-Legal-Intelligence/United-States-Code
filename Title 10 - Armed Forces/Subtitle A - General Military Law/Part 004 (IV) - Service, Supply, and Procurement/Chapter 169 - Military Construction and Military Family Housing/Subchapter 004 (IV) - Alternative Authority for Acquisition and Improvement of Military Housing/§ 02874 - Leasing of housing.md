@@ -2,7 +2,7 @@
 
 (a)
 
-Lease Authorized.—The Secretary concerned may enter into contracts for the lease of housing units that the Secretary determines are suitable for use as military family housing or military unaccompanied housing.
+Lease Authorized.—The Secretary concerned may enter into contracts for the lease ofhousing units that the Secretary determines are suitable for use as military family housing or military unaccompanied housing.
 
 (b)
 

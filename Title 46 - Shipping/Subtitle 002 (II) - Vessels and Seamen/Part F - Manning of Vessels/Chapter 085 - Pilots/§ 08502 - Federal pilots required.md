@@ -74,7 +74,7 @@ Subsec. (i). Pub. L. 101–595, §307(2), added subsec. (i).
 
 <b>1986</b>—Subsec. (a)(4)(A). Pub. L. 99–307 substituted “part” for “Part”.
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–557, §29(f)(1), amended subsec. (a) generally, which prior to amendment read as follows: “A coastwise seagoing vessel, when not sailingon register and when underway (except on the high seas), shall be under the direction and control of a pilot licensed under section 7101 of this title if the vessel is—
+<b>1984</b>—Subsec. (a). Pub. L. 98–557, §29(f)(1), amended subsec. (a) generally, which prior to amendment read as follows: “A coastwise seagoing vessel, when not sailing on register and when underway (except on the high seas), shall be under the direction and control of a pilot licensed under section 7101 of this title if the vessel is—
 
 &emsp;“(1) propelled by machinery and subject to inspection under part B of this subtitle; or
 

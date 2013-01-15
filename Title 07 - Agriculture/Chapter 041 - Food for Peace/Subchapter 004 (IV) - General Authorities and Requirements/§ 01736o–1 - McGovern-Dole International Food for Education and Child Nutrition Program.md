@@ -6,7 +6,7 @@ In this section, the term “agricultural commodity” means an agricultural com
 
 #### (b) Program
 
-Subject to subsection (<i>l</i>) of this section, the Secretary may establish a program, to be knownas “McGovern-Dole International Food for Education and Child Nutrition Program”, requiring the procurement of agricultural commodities and the provision of financial and technical assistance to carry out—
+Subject to subsection (l) of this section, the Secretary may establish a program, to be known as “McGovern-Dole International Food for Education and Child Nutrition Program”, requiring the procurement of agricultural commodities and the provision of financial and technical assistance to carry out—
 
 &emsp;(1) preschool and school food for education programs in foreign countries to improve food security, reduce the incidence of hunger, and improve literacy and primary education, particularly with respect to girls; and
 
@@ -134,7 +134,7 @@ An agreement with an eligible organization under this section shall include prov
 
 The requirement of section 1733(a) of this title applies with respect to the availability of commodities under this section.
 
-#### (<i>l</i>) Funding
+#### (l) Funding
 
 #### (1) Use of Commodity Credit Corporation funds
 
@@ -168,13 +168,13 @@ Subsecs. (h), (i). Pub. L. 110–246, §3106(1), substituted “Secretary” for
 
 Subsec. (k). Pub. L. 110–246, §3001(b)(1)(A), (2)(G), made technical amendment to reference in original act which appears in text as reference to section 1733(a) of this title.
 
-Subsec. (<i>l</i>)(1). Pub. L. 110–246, §3106(4)(A), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “Of the funds of the Commodity Credit Corporation, the Secretary shall use $100,000,000 for fiscal year 2003 to carry out this section.”
+Subsec. (l)(1). Pub. L. 110–246, §3106(4)(A), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “Of the funds of the Commodity Credit Corporation, the Secretary shall use $100,000,000 for fiscal year 2003 to carry out this section.”
 
 Pub. L. 110–246, §3106(1), substituted “Secretary” for “President”.
 
-Subsec. (<i>l</i>)(2). Pub. L. 110–246, §3106(4)(B), substituted “2008 through 2012” for “2004 through 2007”.
+Subsec. (l)(2). Pub. L. 110–246, §3106(4)(B), substituted “2008 through 2012” for “2004 through 2007”.
 
-Subsec. (<i>l</i>)(3). Pub. L. 110–246, §3106(4)(C), substituted “the Department of Agriculture or any other Federal agency assisting” for “any Federal agency implementing or assisting”.
+Subsec. (l)(3). Pub. L. 110–246, §3106(4)(C), substituted “the Department of Agriculture or any other Federal agency assisting” for “any Federal agency implementing or assisting”.
 
 #### Change of Name
 
@@ -190,7 +190,7 @@ Memorandum of President of the United States, Mar. 11, 2003, 68 F.R. 12569, prov
 
 Memorandum for the Secretary of Agriculture
 
-Effective upon the publication of this memorandum in the Federal Register, there is established the program relating to food for education and child nutrition authorized by subsection 3107(b) of the Farm Security and Rural Investment Act of 2002 (Public Law 107–171) (7 U.S.C. 17360–1 \[1736<i>o</i>–1\]). Pursuant to subsection 3107(d) of the Act, the Department of Agriculture is designated to take actions specified in that subsection. The authorities and duties of the President under section 3107 (except the authority to designate under 3107(d)) are delegated to the Secretary of Agriculture.
+Effective upon the publication of this memorandum in the Federal Register, there is established the program relating to food for education and child nutrition authorized by subsection 3107(b) of the Farm Security and Rural Investment Act of 2002 (Public Law 107–171) (7 U.S.C. 17360–1 \[1736o–1\]). Pursuant to subsection 3107(d) of the Act, the Department of Agriculture is designated to take actions specified in that subsection. The authorities and duties of the President under section 3107 (except the authority to designate under 3107(d)) are delegated to the Secretary of Agriculture.
 
 In the implementation of a program for which section 3107 provides, the Secretary of Agriculture shall consult as appropriate with the Food Policy Assistance Council established by section 3 of Executive Order 12752 of February 25, 1991, as amended \[7 U.S.C. 1691 note\], and such heads of Federal departments and agencies as the Secretary determines appropriate.
 

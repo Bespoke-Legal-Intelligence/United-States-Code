@@ -8,7 +8,7 @@ Applications.—(1) A person may apply to the Secretary of Transportation for a 
 
 (b)
 
-Requirements.—(1) Except as provided in this subsection, all requirements of the laws of the United States applicable to the launch of alaunch vehicle or the operation of a launch site or a reentry site, or the reentry of a reentry vehicle, are requirements for a license or permit under this chapter.
+Requirements.—(1) Except as provided in this subsection, all requirements of the laws of the United States applicable to the launch of a launch vehicle or the operation of a launch site or a reentry site, or the reentry of a reentry vehicle, are requirements for a license or permit under this chapter.
 
 (2) The Secretary may prescribe—
 
@@ -64,7 +64,7 @@ Safety Regulations.—(1) The Secretary may issue regulations governing the desi
 
 &emsp;(D) be issued with a description of the instance or instances when the design feature or operating practice being restricted or prohibited contributed to a result or event described in subparagraph (C).
 
-(3) Beginning 8 years after the date of enactment of the Commercial Space Launch Amendments Act of 2004, the Secretary may propose regulations under this subsection without regard to paragraph (2)(C) and (D). Any such regulations shall take into consideration the evolving standards of safety in the commercial space flight industry.
+(3) Beginning on October 1, 2015, the Secretary may propose regulations under this subsection without regard to paragraph (2)(C) and (D). Any such regulations shall take into consideration the evolving standards of safety in the commercial space flight industry.
 
 (4) Nothing in this subsection shall be construed to limit the authority of the Secretary to issue requirements or regulations to protect the public health and safety, safety of property, national security interests, and foreign policy interests of the United States.
 
@@ -72,7 +72,7 @@ Safety Regulations.—(1) The Secretary may issue regulations governing the desi
 
 Procedures and Timetables.—The Secretary shall establish procedures and timetables that expedite review of a license or permit application and reduce the regulatory burden for an applicant.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1333, §70105 of title 49; Pub. L. 105–303, title I, §102(a)(6), Oct. 28, 1998, 112 Stat. 2848; Pub. L. 108–492, §2(c)(6)–(15), Dec. 23, 2004, 118 Stat. 3976–3979; renumbered §70105 then §50905 of title 51 and amended Pub. L. 111–314, §4(d)(2), (3)(E), (5)(F), Dec. 18, 2010, 124 Stat. 3440, 3441.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1333, §70105 of title 49; Pub. L. 105–303, title I, §102(a)(6), Oct. 28, 1998, 112 Stat. 2848; Pub. L. 108–492, §2(c)(6)–(15), Dec. 23, 2004, 118 Stat. 3976–3979; renumbered §70105 then §50905 of title 51 and amended Pub. L. 111–314, §4(d)(2), (3)(E), (5)(F), Dec. 18, 2010, 124 Stat. 3440, 3441; Pub. L. 112–95, title VIII, §827, Feb. 14, 2012, 126 Stat. 133.)
 
 Historical and Revision Notes
 
@@ -126,9 +126,11 @@ In subsection (b)(2)(C), the words “that would otherwise apply to the launch o
 
 Subsection (b)(2)(D), referred to in subsec. (a)(1), was redesignated subsection (b)(2)(E) by Pub. L. 108–492, §2(c)(10), Dec. 23, 2004, 118 Stat. 3977.
 
-The date of enactment of the Commercial Space Launch Amendments Act of 2004, referred to in subsecs. (b)(4)(B), (6) and (c)(3), is the date of enactment of Pub. L. 108–492, which was approved Dec. 23, 2004.
+The date of enactment of the Commercial Space Launch Amendments Act of 2004, referred to in subsec. (b)(4)(B), (6), is the date of enactment of Pub. L. 108–492, which was approved Dec. 23, 2004.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (c)(3). Pub. L. 112–95 substituted “Beginning on October 1, 2015,” for “Beginning 8 years after the date of enactment of the Commercial Space Launch Amendments Act of 2004,”.
 
 <b>2010</b>—Pub. L. 111–314, §4(d)(2), (3)(E), successively renumbered section 70105 of title 49 and section 70105 of this title as this section.
 

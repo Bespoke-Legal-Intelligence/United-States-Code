@@ -36,7 +36,7 @@ For purposes of this section—
 
 &emsp;(2) the terms “members of a mission” and “family” have the same meanings as is ascribed to them by paragraphs (1) and (2) of section 254a of this title.
 
-(Aug. 1, 1956, ch. 841, title II, §204A, as added Pub. L. 98–164, title VI, §603, Nov. 22, 1983, 97 Stat. 1042; amended Pub. L. 103–236, title I, §162(<i>o</i>)(4), Apr. 30, 1994, 108 Stat. 410.)
+(Aug. 1, 1956, ch. 841, title II, §204A, as added Pub. L. 98–164, title VI, §603, Nov. 22, 1983, 97 Stat. 1042; amended Pub. L. 103–236, title I, §162(o)(4), Apr. 30, 1994, 108 Stat. 410.)
 
 #### Amendments
 

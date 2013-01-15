@@ -2,7 +2,7 @@
 
 #### (a) General
 
-On the date when the Corporation is required to deposit securities with the special court pursuant to section 743(a)(1) of this title, the Association shall deposit with the special court the certificates of value of the Association required by this section. The Secretary shall guarantee the payment of all certificates of value delivered in accordance with this subchapter. All guarantees entered by the Secretary under this section shall constitute general obligations of the United States of America for the payment or redemption of which its full faith and credit are pledged. Such guarantees shall be valid and incontestable except as to mutual mistake of fact or as to fraud or material misrepresentation by the holder of such certificates or the transferor of rail properties to which certificates of value of any series so guaranteed are issued.
+On the date when the Corporation is required to deposit securities with the special court pursuant to section 743(a)(1) of this title, the Association shall deposit with the special court the certificates of value of the Association required by this section. The Secretary shall guarantee the payment of all certificates of value delivered in accordance with this subchapter. All guarantees entered by the Secretary under this section shall constitute general obligations of the United States of America for the payment or redemption of which its full faith and credit are pledged. Such guarantees shall be valid and incontestable except as to mutual mistake of fact or as to fraud or material misrepresentation bythe holder of such certificates or the transferor of rail properties to which certificates of value of any series so guaranteed are issued.
 
 #### (b) Number and distribution
 
@@ -16,7 +16,7 @@ A separate series of certificates of value shall be issued to each railroad in r
 
 &emsp;(A) the sum of the fair market value of the series B preferred stock applicable to such certificate, the fair market value of the common stock applicable to such certificate, and all cash dividends theretofore paid on any such series B preferred stock and on any such common stock; and
 
-&emsp;(B) any sums paid to a transferor of rail properties to whom such series of certificates of value was issued resulting from sales or leases by the Corporation of properties transferred to it by such transferor divided by thenumber of certificates of value distributed to such transferor.
+&emsp;(B) any sums paid to a transferor of rail properties to whom such series of certificates of value was issued resulting from sales or leases by the Corporation of properties transferred to it by such transferor divided by the number of certificates of value distributed to such transferor.
 
 (3) The number of shares of series B preferred stock and common stock applicable to each certificate of value of any series, pursuant to paragraph (2) of this subsection, shall be—
 

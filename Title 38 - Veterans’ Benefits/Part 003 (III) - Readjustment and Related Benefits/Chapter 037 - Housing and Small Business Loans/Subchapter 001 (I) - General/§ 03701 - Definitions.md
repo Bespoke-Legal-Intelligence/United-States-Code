@@ -8,7 +8,7 @@
 
 &emsp;(2) The term “veteran” includes the surviving spouse of any veteran (including a person who died in the active military, naval, or air service) who died from a service-connected disability, but only if such surviving spouse is not eligible for benefits under this chapter on the basis of the spouse's own active duty. The active duty or service in the Selected Reserve of the deceased spouse shall be deemed to have been active duty or service in the Selected Reserve by such surviving spouse for the purposes of this chapter.
 
-&emsp;(3) The term “veteran” also includes, for purposes of home loans, the spouse of any member of the Armed Forces serving on active duty who is listed, pursuant to section 556 of title 37, United States Code, and regulations issued thereunder, by the Secretary concerned in one or more of the following categories and has been so listed for a total of more than ninety days: (A) missing in action, (B) captured in line of duty by a hostile force, or (C) forcibly detained or interned in line of duty by a foreign government or power. The active duty of the member shall be deemed to have been active duty by such spouse for the purposes of this chapter. The loan eligibility of such spouse under this paragraph shall be limited to one loan guaranteed or made for the acquisition of a home, and entitlement to suchloan shall terminate automatically, if not used, upon receipt by such spouse of official notice that the member is no longer listed in one of the categories specified in the first sentence of this paragraph.
+&emsp;(3) The term “veteran” also includes, for purposes of home loans, the spouse of any member of the Armed Forces serving on active duty who is listed, pursuant to section 556 of title 37, United States Code, and regulations issued thereunder, by the Secretary concerned in one or more of the following categories and has been so listed for a total of more than ninety days: (A) missing in action, (B) captured in line of duty by a hostile force, or (C) forcibly detained or interned in line of duty by a foreign government or power. The active duty of the member shall be deemed to have been active duty by such spouse for the purposes of this chapter. The loan eligibility of such spouse under this paragraph shall be limited to one loan guaranteed or made for the acquisition of a home, and entitlement to such loan shall terminate automatically, if not used, upon receipt by such spouse of official notice that the member is no longer listed in one of the categories specified in the first sentence of this paragraph.
 
 &emsp;(4) The term “veteran” also includes an individual serving on active duty.
 
@@ -16,15 +16,25 @@
 
 &emsp;(B) The term “Selected Reserve” means the Selected Reserve of the Ready Reserve of any of the reserve components (including the Army National Guard of the United States and the Air National Guard of the United States) of the Armed Forces, as required to be maintained under section 10143(a) of title 10.
 
+&emsp;(6) The term “veteran” also includes, for purposes of home loans, the surviving spouse of a veteran who died and who was in receipt of or entitled to receive (or but for the receipt of retired or retirement pay was entitled to receive) compensation at the time of death for a service-connected disability rated totally disabling if—
+
+&emsp;&emsp;(A) the disability was continuously rated totally disabling for a period of 10 or more years immediately preceding death;
+
+&emsp;&emsp;(B) the disability was continuously rated totally disabling for a period of not less than five years from the date of such veteran's discharge or other release from active duty; or
+
+&emsp;&emsp;(C) the veteran was a former prisoner of war who died after September 30, 1999, and the disability was continuously rated totally disabling for a period of not less than one year immediately preceding death.
+
 (c) Benefits shall not be afforded under this chapter to any individual on account of service as a commissioned officer of the National Oceanic and Atmospheric Administration (or predecessor entity), or of the Regular or Reserve Corps of the Public Health Service, unless such service would have qualified such individual for benefits under title III of the Servicemen's Readjustment Act of 1944.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1203, §1801; Pub. L. 91–584, §5(a), Dec. 24, 1970, 84 Stat. 1576; Pub. L. 94–324, §7(1), (2), June 30, 1976, 90 Stat. 721; Pub. L. 97–72, title III, §303(a), Nov. 3, 1981, 95 Stat. 1059; Pub. L. 97–295, §4(62), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 100–322, title IV, §415(c)(1), May 20, 1988, 102 Stat. 551; Pub. L. 101–237, title III, §313(a), Dec. 18, 1989, 103 Stat. 2077; renumbered §3701 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, §2(a)(1), Oct. 28, 1992, 106 Stat. 3633; Pub. L. 103–446, title IX, §901, Nov. 2, 1994, 108 Stat. 4675; Pub. L. 104–106, div. A, title XV, §1501(e)(2)(B), Feb. 10, 1996, 110 Stat. 501.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1203, §1801; Pub. L. 91–584, §5(a), Dec. 24, 1970, 84 Stat. 1576; Pub. L. 94–324, §7(1), (2), June 30, 1976, 90 Stat. 721; Pub. L. 97–72, title III, §303(a), Nov. 3, 1981, 95 Stat. 1059; Pub. L. 97–295, §4(62), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 100–322, title IV, §415(c)(1), May 20, 1988, 102 Stat. 551; Pub. L. 101–237, title III, §313(a), Dec. 18, 1989, 103 Stat. 2077; renumbered §3701 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, §2(a)(1), Oct. 28, 1992, 106 Stat. 3633; Pub. L. 103–446, title IX, §901, Nov. 2, 1994, 108 Stat. 4675; Pub. L. 104–106, div. A, title XV, §1501(e)(2)(B), Feb. 10, 1996, 110 Stat. 501; Pub. L. 112–154, title II, §206(a), Aug. 6, 2012, 126 Stat. 1178.)
 
 #### References in Text
 
-The Servicemen's Readjustment Act of 1944, referred to in subsec. (c), is act June 22, 1944, ch. 268, 58 Stat. 284, as amended. Title III of the Servicemen's Readjustment Act of 1944 was classified generally to subchapter II (§694 et seq.) of chapter 11C of former Title 38, Pensions, Bonuses, and Veterans’ Relief, which was repealed and the provisions thereof reenacted as this chapter by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105.
+The Servicemen's Readjustment Act of 1944, referred to in subsec. (c), is act June 22, 1944, ch. 268, 58 Stat. 284, as amended. Title III of the Servicemen's ReadjustmentAct of 1944 was classified generally to subchapter II (§694 et seq.) of chapter 11C of former Title 38, Pensions, Bonuses, and Veterans’ Relief, which was repealed and the provisions thereof reenacted as this chapter by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (b)(6). Pub. L. 112–154 added par. (6).
 
 <b>1996</b>—Subsec. (b)(5)(B). Pub. L. 104–106 substituted “section 10143(a) of title 10” for “section 268(b) of title 10”.
 
@@ -56,6 +66,10 @@ Subsec. (a)(3). Pub. L. 94–324, §7(2), substituted “spouse” and “the sp
 
 <b>1970</b>—Subsec. (a)(3). Pub. L. 91–584 added par. (3).
 
+#### Effective Date of 2012 Amendment
+
+Pub. L. 112–154, title II, §206(b), Aug. 6, 2012, 126 Stat. 1178, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to a loan guaranteed after the date of the enactment of this Act \[Aug. 6, 2012\].”
+
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of Title 10, Armed Forces.
@@ -66,9 +80,13 @@ Amendment by Pub. L. 97–72 effective at end of 180-day period beginning on Nov
 
 #### Effective Date of 1976 Amendment
 
-Section 9 of Pub. L. 94–324 provided that:
+Pub. L. 94–324, §9, June 30, 1976, 90 Stat. 723, provided that:
 
 “(a) Except as provided in subsection (b), the provisions of this Act \[see Tables for classification\] shall become effective on the date of enactment \[June 30, 1976\].
 
 “(b) Sections 2 \[enacting section 1807 of this title\] and 3 \[amending section 1811 \[now 3711\] of this title\] shall become effective on October 1, 1976. Section 5 \[amending section 1819 \[now 3712\] of this title\] shall become effective on July 1, 1976.”
+
+#### Clarification With Respect to Certain Fees
+
+Pub. L. 112–154, title II, §206(c), Aug. 6, 2012, 126 Stat. 1179, provided that: “Fees shall be collected under section 3729 of title 38, United States Code, from a person described in paragraph (6) of section 3701(b) of such title, as added by subsection (a) of this section, in the same manner as such fees are collected from a person described in paragraph (2) of section 3701(b) of such title.”
 

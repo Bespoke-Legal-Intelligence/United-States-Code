@@ -106,11 +106,15 @@ Other Authority Not Affected.—Nothing in subsection (c) affects—
 
 &emsp;(2) the exercise of authority under section 91 of this title and the provisions of law codified at sections 191 through 195 of title 50 on the date of enactment of this paragraph.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 504; Aug. 3, 1950, ch. 536, §2, 64 Stat. 406; Oct. 31, 1951, ch. 654, §§1(33), 2(10), 4(1), 65 Stat. 702, 707, 709; Pub. L. 94–546, §1(9), Oct. 18, 1976, 90 Stat. 2519; Pub. L. 97–136, §6(d), Dec. 29, 1981, 95 Stat. 1706; Pub. L. 97–276, §143, Oct. 2, 1982, 96 Stat. 1199; Pub. L. 97–295, §2(4), Oct. 12, 1982, 96 Stat. 1301; Pub. L. 97–322, title I, §115(c), Oct. 15, 1982, 96 Stat. 1586; Pub. L. 102–241, §7, Dec. 19, 1991, 105 Stat. 2212; Pub. L. 103–206, title II, §202, title III, §316, Dec. 20, 1993, 107 Stat. 2420, 2426; Pub. L. 104–324, title II, §207(a), Oct. 19, 1996, 110 Stat. 3908; Pub. L. 105–383, title II, §§202, 203, Nov. 13, 1998, 112 Stat. 3414, 3415; Pub. L. 107–217, §3(c)(2), Aug. 21, 2002, 116 Stat. 1298; Pub. L. 108–293, title II, §§201, 217, Aug. 9, 2004, 118 Stat. 1031, 1038; Pub. L. 109–241, title IX, §901(a), (c), July 11, 2006, 120 Stat. 564; Pub. L. 111–259, title IV, §442(1), Oct. 7, 2010, 124 Stat. 2733; Pub. L. 111–281, title V, §523, Oct. 15, 2010, 124 Stat. 2958; Pub. L. 111–350, §5(c)(2), Jan. 4, 2011, 124 Stat. 3847.)
+(e)
+
+Operation and Maintenance of Coast Guard Assets and Facilities.—All authority, including programmatic budget authority, for the operation and maintenance of Coast Guard vessels, aircraft, systems, aids to navigation, infrastructure, and other assets or facilities shall be allocated to and vested in the Coast Guard and the department in which the Coast Guard is operating.
+
+(Aug. 4, 1949, ch. 393, 63 Stat. 504; Aug. 3, 1950, ch. 536, §2, 64 Stat. 406; Oct. 31, 1951, ch. 654, §§1(33), 2(10), 4(1), 65 Stat. 702, 707, 709; Pub. L. 94–546, §1(9), Oct. 18, 1976, 90 Stat. 2519; Pub. L. 97–136, §6(d), Dec. 29, 1981, 95 Stat. 1706; Pub. L. 97–276, §143, Oct. 2, 1982, 96 Stat. 1199; Pub. L. 97–295, §2(4), Oct. 12, 1982, 96 Stat. 1301; Pub. L. 97–322, title I, §115(c), Oct. 15, 1982, 96 Stat. 1586; Pub. L. 102–241, §7, Dec. 19, 1991, 105 Stat. 2212; Pub. L. 103–206, title II, §202, title III, §316, Dec. 20, 1993, 107 Stat. 2420, 2426; Pub. L. 104–324, title II, §207(a), Oct. 19, 1996, 110 Stat. 3908; Pub. L. 105–383, title II, §§202, 203, Nov. 13, 1998, 112 Stat. 3414, 3415; Pub. L. 107–217, §3(c)(2), Aug. 21, 2002, 116 Stat. 1298; Pub. L. 108–293, title II, §§201, 217, Aug. 9, 2004, 118 Stat. 1031, 1038; Pub. L. 109–241, title IX, §901(a), (c), July 11, 2006, 120 Stat. 564; Pub. L. 111–259, title IV, §442(1), Oct. 7, 2010, 124 Stat. 2733; Pub. L. 111–281, title V, §523, Oct. 15, 2010, 124 Stat. 2958; Pub. L. 111–350, §5(c)(2), Jan. 4, 2011, 124 Stat. 3847; Pub. L. 112–213, title II, §202, Dec. 20, 2012, 126 Stat. 1543.)
 
 #### Historical and Revision Notes
 
-This section grants powers to the Commandant concerning, in general, operations within the Service and the internal functioning of the Service. Many of the powers are contained in existing law, but some are enlarged, and some additional powers are added as explained following.
+This section grants powers to the Commandant concerning, in general, operations within the Service and the internal functioning of the Service. Many of thepowers are contained in existing law, but some are enlarged, and some additional powers are added as explained following.
 
 Subsection (a) is derived from title 14, U.S.C., 1946 ed., §53, and title 34, U.S.C., 1946 ed., §471 (R.S. 1536). The authority to order vessels to cruise along the coasts should be in the operational head of the Service, and not in the President. This section is changed to cover adequately the necessary present day cruising and patrolling.
 
@@ -136,13 +140,13 @@ Subsection (k) is based on title 14, U.S.C., 1946 ed., §31b (June 6, 1941, ch. 
 
 Inasmuch as the act cited above applies to the Navy as well as the Coast Guard it is not scheduled for repeal but is being amended by section 13 of this act to eliminate reference to the Coast Guard.
 
-Subsection (<i>l</i>) is new and is deemed desirable in order to give legislative authority for existing yards, and for the procurement of needed equipment and material in case such is not normally or economically obtainable from private contractors.
+Subsection (l) is new and is deemed desirable in order to give legislative authority for existing yards, and for the procurement of needed equipment and material in case such is not normally or economically obtainable from private contractors.
 
 Subsection (m) is based on title 14, U.S.C., 1946 ed., §§110, 192 (June 20, 1874, ch. 344, §6, 18 Stat. 127; June 18, 1878, ch. 265, §10, 20 Stat. 165; July 3, 1926, ch. 742, §9, 44 Stat. 817). The power to accept volunteer services is enlarged to include all services offered in time of emergency, to save life or protect property, and the restrictive provisions relating to lifeboat stations only have been eliminated.
 
 Subsection (n) is new and grants authority to the Commandant to lease real property under the control of the Coast Guard, when not immediately needed in Coast Guard operations. Such authority will be advantageous to the Government, on the basis of past experience.
 
-Subsection (<i>o</i>) is new and is supplementary to subsection (n) of this section. It grants further authority to the Commandant permitting him to grant minor interests in land which is under control of the Coast Guard. This will avoid the necessity of special acts of Congress in each of such instances.
+Subsection (o) is new and is supplementary to subsection (n) of this section. It grants further authority to the Commandant permitting him to grant minor interests in land which is under control of the Coast Guard. This will avoid the necessity of special acts of Congress in each of such instances.
 
 Subsection (p) is new and is necessary to give proper authority for the maintenance of networks of wires and cables, in some cases over or along private property or public highways. These networks are in existence at the present time and are essential for the Service to carry out its functions.
 
@@ -158,6 +162,8 @@ The date of enactment of this paragraph, referred to in subsec. (d)(2), is the d
 
 #### Amendments
 
+<b>2012</b>—Subsec. (e). Pub. L. 112–213 added subsec. (e).
+
 <b>2011</b>—Subsec. (a)(8). Pub. L. 111–350, which directed amendment of subsec. (h) by substituting “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)”, was executed by making the substitution in subsec. (a)(8) to reflect the probable intent of Congress and the amendment by Pub. L. 108–293, §201. See 2004 Amendment note below.
 
 <b>2010</b>—Subsec. (a)(4). Pub. L. 111–259 substituted “function, including research, development, test, or evaluation related to intelligence systems and capabilities,” for “function”.
@@ -168,9 +174,9 @@ Subsecs. (c), (d). Pub. L. 111–281 added subsecs. (c) and (d).
 
 Subsec. (a)(24). Pub. L. 109–241, §901(c), redesignated par. (y) as (24).
 
-<b>2004</b>—Pub. L. 108–293, §201, designated existing provisions as subsec. (a), redesignated former subsecs. (a) to (j) and (<i>l</i>) to (w) as pars. (1) to (23), respectively, of subsec. (a), substituted semicolon for comma at end of par. (18), and added subsec. (b).
+<b>2004</b>—Pub. L. 108–293, §201, designated existing provisions as subsec. (a), redesignated former subsecs. (a) to (j) and (l) to (w) as pars. (1) to (23), respectively, of subsec. (a), substituted semicolon for comma at end of par. (18), and added subsec. (b).
 
-Pub. L. 108–293, §217, which directed amendment of this section by striking out “and” after semicolon at end of “paragraph (w)”, substituting “; and” for period at end of “paragraph (x)”, and adding a paragraph designated “(y)” at the end, was executed to this section prior to the amendment by Pub. L. 108–293, §201, to reflect the probable intent of Congress. See above.
+Pub. L. 108–293, §217, which directed amendment of this section by striking out “and” after semicolon atend of “paragraph (w)”, substituting “; and” for period at end of “paragraph (x)”, and adding a paragraph designated “(y)” at the end, was executed to this section prior to the amendment by Pub. L. 108–293, §201, to reflect the probable intent of Congress. See above.
 
 <b>2002</b>—Subsec. (h). Pub. L. 107–217 inserted “subtitle I of title 40 and title III of” before “the Federal Property and Administrative Services Act of 1949” and substituted “(41 U.S.C. 251 et seq.)” for “(40 U.S.C. 471 et seq.)”.
 
@@ -200,7 +206,7 @@ Subsec. (i). Act Oct. 31, 1951, §4(1), inserted provision permitting discontinu
 
 Subsec. (k). Act Oct. 31, 1951, §1(33), repealed subsec. (k) which empowered the Commandant to exchange aircraft, vehicles, and parts thereof, and obsolete, unsuitable, or unserviceable machines, tools, aids to navigation, appliances, equipment, and supplies in part payment for new items of the same or similar character.
 
-<b>1950</b>—Subsec. (<i>o</i>). Act Aug. 3, 1950, struck out “and” after the semicolon.
+<b>1950</b>—Subsec. (o). Act Aug. 3, 1950, struck out “and” after the semicolon.
 
 Subsec. (p). Act Aug. 3, 1950, substituted “; and” for the period at end.
 

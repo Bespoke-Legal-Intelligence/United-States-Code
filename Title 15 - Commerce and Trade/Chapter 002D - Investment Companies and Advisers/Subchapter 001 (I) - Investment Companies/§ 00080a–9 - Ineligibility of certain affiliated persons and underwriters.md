@@ -120,13 +120,13 @@ In any proceeding in which the Commission may impose a penalty under this sectio
 
 #### (B) Applicability
 
-&emsp;&emsp;This paragraph shall apply only to a respondent that acts, or, at the time of the alleged misconduct acted, as a broker, dealer, investment adviser, investment company, municipal securities dealer, government securities broker, government securities dealer, or transfer agent, or is, or was at the time of the alleged misconduct, an associated person of, or a person seeking to become associated with, any of the foregoing.
+&emsp;&emsp;This paragraph shall apply only to a respondent that acts, or, at the time of the alleged misconduct acted, as a broker, dealer, investment adviser, investment company, municipal securities dealer, government securities broker, government securities dealer, or transfer agent, or is, or was at thetime of the alleged misconduct, an associated person of, or a person seeking to become associated with, any of the foregoing.
 
 #### (4) Review of temporary orders
 
 #### (A) Commission review
 
-&emsp;&emsp;At any time after the respondent has been served with a temporary cease-and-desistorder pursuant to paragraph (3), the respondent may apply to the Commission to have the order set aside, limited, or suspended. If the respondent has been served with a temporary cease-and-desist order entered without a prior Commission hearing, the respondent may, within 10 days after the date on which the order was served, request a hearing on such application and the Commission shall hold a hearing and render a decision on such application at the earliest possible time.
+&emsp;&emsp;At any time after the respondent has been served with a temporary cease-and-desist order pursuant to paragraph (3), the respondent may apply to the Commission to have the order set aside, limited, or suspended. If the respondent has been served with a temporary cease-and-desist order entered without a prior Commission hearing, the respondent may, within 10 days after the date on which the order was served, request a hearing on such application and the Commission shall hold a hearing and render a decision on such application at the earliest possible time.
 
 #### (B) Judicial review
 
@@ -154,7 +154,7 @@ In any proceeding in which the Commission may impose a penalty under this sectio
 
 For the purposes of this section, the term “investment adviser” includes a corporate or other trustee performing the functions of an investment adviser.
 
-(Aug. 22, 1940, ch. 686, title I, §9, 54 Stat. 805; Pub. L. 91–547, §4, Dec. 14, 1970, 84 Stat. 1415; Pub. L. 94–29, §28(6), June 4, 1975, 89 Stat. 166; Pub. L. 99–571, title I, §102(<i>l</i>), Oct. 28, 1986, 100 Stat. 3220; Pub. L. 100–181, title VI, §609, Dec. 4, 1987, 101 Stat. 1261; Pub. L. 101–429, title III, §301, Oct. 15, 1990, 104 Stat. 941; Pub. L. 101–550, title II, §205(a), Nov. 15, 1990, 104 Stat. 2718; Pub. L. 106–102, title II, §222, Nov. 12, 1999, 113 Stat. 1401; Pub. L. 109–291, §4(b)(2)(B), Sept. 29, 2006, 120 Stat. 1337; Pub. L. 111–203, title IX, §§929P(a)(3), 985(d)(2), July 21, 2010, 124 Stat. 1863, 1934.)
+(Aug. 22, 1940, ch. 686, title I, §9, 54 Stat. 805; Pub. L. 91–547, §4, Dec. 14, 1970, 84 Stat. 1415; Pub. L. 94–29, §28(6), June 4, 1975, 89 Stat. 166; Pub. L. 99–571, title I, §102(l), Oct. 28, 1986, 100 Stat. 3220; Pub. L. 100–181, title VI, §609, Dec. 4, 1987, 101 Stat. 1261; Pub. L. 101–429, title III, §301, Oct. 15, 1990, 104 Stat. 941; Pub. L. 101–550, title II, §205(a), Nov. 15, 1990, 104 Stat. 2718; Pub. L. 106–102, title II, §222, Nov. 12, 1999, 113 Stat. 1401; Pub. L. 109–291, §4(b)(2)(B), Sept. 29, 2006, 120 Stat. 1337; Pub. L. 111–203, title IX, §§929P(a)(3), 985(d)(2), July 21, 2010, 124 Stat. 1863, 1934.)
 
 #### References in Text
 
@@ -188,13 +188,13 @@ Pub. L. 101–429, §301(1), redesignated subsec. (d) as (g).
 
 “(2) any person who, by reason of any misconduct, is permanently or temporarily enjoined by order, judgment, or decree of any court of competent jurisdiction from acting as an underwriter, broker, dealer, investment adviser, municipal securities dealer, government securities broker, government securities dealer, or entity or person required to be registered under the Commodity Exchange Act, or as an affiliated person, salesman, or employee of any investment company, bank, insurance company, or entity or person required to be registered under the Commodity Exchange Act, or from engaging in or continuing any conduct or practice in connection with any such activity or in connection with the purchase or sale of any security; or”.
 
-<b>1986</b>—Subsec. (a)(1), (2). Pub. L. 99–571, §102(<i>l</i>)(1), inserted pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
+<b>1986</b>—Subsec. (a)(1), (2). Pub. L. 99–571, §102(l)(1), inserted pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 
 “(1) any person who within ten years has been convicted of any felony or misdemeanor involving the purchase or sale of any security or arising out of such person's conduct as an underwriter, broker, dealer, or investment adviser, or as an affiliated person, salesman, or employee of any investment company, bank, or insurance company;
 
 “(2) any person who, by reason of any misconduct, is permanently or temporarily enjoined by order, judgment, or decree of any court of competent jurisdiction from acting as an underwriter, broker, dealer, or investment adviser, or as an affiliated person, salesman, or employee of any investment company, bank, or insurance company, or from engaging in or continuing any conduct or practice in connection with any such activity or in connection with the purchase or sale of any security; or”.
 
-Subsec. (b)(2), (3). Pub. L. 99–571, §102(<i>l</i>)(2), (3), inserted reference to Commodity Exchange Act.
+Subsec. (b)(2), (3). Pub. L. 99–571, §102(l)(2), (3), inserted reference to Commodity Exchange Act.
 
 <b>1975</b>—Subsec. (d). Pub. L. 94–29 added subsec. (d).
 
@@ -216,7 +216,7 @@ Amendment by Pub. L. 101–429 effective Oct. 15, 1990, with provisions relating
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–571 effective 270 days after Oct. 28, 1986, see section 401 of Pub. L. 99–571, set out as an Effective Date note under section 78<i>o</i>–5 of this title.
+Amendment by Pub. L. 99–571 effective 270 days after Oct. 28, 1986, see section 401 of Pub. L. 99–571, set out as an Effective Date note under section 78o–5 of this title.
 
 #### Effective Date of 1975 Amendment
 

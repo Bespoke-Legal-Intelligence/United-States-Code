@@ -42,7 +42,7 @@ Limited access privilege, quota share, or other limited access system authorizat
 
 &emsp;&emsp;(F) specify the goals of the program;
 
-&emsp;&emsp;(G) include provisions for the regular monitoring and review by the Council and the Secretary of the operations of the program, including determining progress in meeting the goals of the program and this chapter,and any necessary modification of the program to meet those goals, with a formal and detailed review 5 years after the implementation of the program and thereafter to coincide with scheduled Council review of the relevant fishery management plan (but no less frequently than once every 7 years);
+&emsp;&emsp;(G) include provisions for the regular monitoring and review by the Council and the Secretary of the operations of the program, including determining progress in meeting the goals of the program and this chapter, and any necessary modification of the program to meet those goals, with a formal and detailed review 5 years after the implementation of the program and thereafter to coincide with scheduled Council review of the relevant fishery management plan (but no less frequently than once every 7 years);
 
 &emsp;&emsp;(H) include an effective system for enforcement, monitoring, and management of the program, including the use of observers or electronic monitoring systems;
 
@@ -74,7 +74,7 @@ Limited access privilege, quota share, or other limited access system authorizat
 
 &emsp;&emsp;&emsp;&emsp;(III) consist of residents who conduct commercial or recreational fishing, processing, or fishery-dependent support businesses within the Council's management area; and
 
-&emsp;&emsp;&emsp;&emsp;(IV) develop and submit a community sustainability plan to the Council and the Secretary that demonstrates how the plan will address the social and economic development needs of coastal communities, including those that have not historically had the resources to participate in the fishery, for approval based on criteria developed by the Council that have been approved by the Secretary and published in the Federal Register.
+&emsp;&emsp;&emsp;&emsp;(IV) develop and submit a community sustainability plan to the Council and the Secretary that demonstrates how the plan will address the social and economic development needs of coastal communities, including those that have not historically had the resources to participate in the fishery, for approvalbased on criteria developed by the Council that have been approved by the Secretary and published in the Federal Register.
 
 #### (ii) Failure to comply with plan
 
@@ -116,7 +116,7 @@ Limited access privilege, quota share, or other limited access system authorizat
 
 #### (B) Failure to comply with plan
 
-&emsp;&emsp;The Secretary shall deny or revoke limited access privileges granted under this sectionto any person participating in a regional fishery association who fails to comply with the requirements of the regional fishery association plan.
+&emsp;&emsp;The Secretary shall deny or revoke limited access privileges granted under this section to any person participating in a regional fishery association who fails to comply with the requirements of the regional fishery association plan.
 
 #### (C) Participation criteria
 
@@ -180,7 +180,7 @@ Limited access privilege, quota share, or other limited access system authorizat
 
 #### (D) New England and Gulf referendum
 
-&emsp;&emsp;(i) Except as provided in clause (iii) for the Gulf of Mexico commercial red snapper fishery, the New England and Gulf Councils may not submit, and the Secretary may not approve or implement, a fishery management plan or amendment that creates an individual fishing quota program, including a Secretarial plan, unless such a system, as ultimately developed, has been approved by more than 2/3 of those voting in a referendum among eligible permit holders, or other persons described in clause (v), with respect to the New England Council, and by a majority of those voting in the referendum among eligible permit holders with respect to the GulfCouncil. For multispecies permits in the Gulf of Mexico, only those participants who have substantially fished the species proposed to be included in the individual fishing quota program shall be eligible to vote in such a referendum. If an individual fishing quota program fails to be approved by the requisite number of those voting, it may be revised and submitted for approval in a subsequent referendum.
+&emsp;&emsp;(i) Except as provided in clause (iii) for the Gulf of Mexico commercial red snapper fishery, the New England and Gulf Councils may not submit, and the Secretary may not approve or implement, a fishery management plan or amendment that creates an individual fishing quota program, including a Secretarial plan, unless such a system, as ultimately developed, has been approved by more than 2/3 of those voting in a referendum among eligible permit holders, or other persons described in clause (v), with respect to the New England Council, and by a majority of those voting in the referendum among eligible permit holders with respect to the Gulf Council. For multispecies permits in the Gulf of Mexico, only those participants who have substantially fished the species proposed to be included in the individual fishing quota program shall be eligible to vote in such a referendum. If an individual fishing quota program fails to be approved by the requisite number of those voting, it may be revised and submitted for approval in a subsequent referendum.
 
 &emsp;&emsp;(ii) The Secretary shall conduct a referendum under this subparagraph, including notifying all persons eligible to participate in the referendum and making available to them information concerning the schedule, procedures, and eligibility requirements for the referendum process and the proposed individual fishing quota program. Within 1 year after January 12, 2007, the Secretary shall publish guidelines and procedures to determine procedures and voting eligibility requirements for referenda and to conduct such referenda in a fair and equitable manner.
 

@@ -6,7 +6,7 @@ The value of the allotment which State agencies shall be authorized to issue to 
 
 #### (b) Benefits not deemed income or resources for certain purposes
 
-The value of benefits that may be provided under this chapter shall not be considered income or resources for any purpose under anyFederal, State, or local laws, including, but not limited to, laws relating to taxation, welfare, and public assistance programs, and no participating State or political subdivision thereof shall decrease any assistance otherwise provided an individual or individuals because of the receipt of benefits under this chapter.
+The value of benefits that may be provided under this chapter shall not be considered income or resources for any purpose under any Federal, State, or local laws, including, but not limited to, laws relating to taxation, welfare, and public assistance programs, and no participating State or political subdivision thereof shall decrease any assistance otherwise provided an individual or individuals because of the receipt of benefits under this chapter.
 
 #### (c) First month benefits prorated
 
@@ -22,7 +22,7 @@ Optional combined allotment for expedited households.—A State agency may provi
 
 #### (1) In general
 
-&emsp;If the benefits of a household are reduced under a Federal, State, or local law relating to a means-tested public assistance program for the failure of a member of the household to perform an action required under the law or program, for the duration of the reduction—
+&emsp;If the benefits of a household are reduced under a Federal, State, or local law relating to a means-tested public assistance program for the failure of a member of the household toperform an action required under the law or program, for the duration of the reduction—
 
 &emsp;&emsp;(A) the household may not receive an increased allotment as the result of a decrease in the income of the household to the extent that the decrease is the result of the reduction; and
 
@@ -68,7 +68,7 @@ Optional combined allotment for expedited households.—A State agency may provi
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The State agency shall issue an allotment determined under this paragraph to acovered facility as the authorized representative of the residents of the covered facility.
+&emsp;&emsp;&emsp;The State agency shall issue an allotment determined under this paragraph to a covered facility as the authorized representative of the residents of the covered facility.
 
 #### (ii) Adjustment
 
@@ -108,7 +108,7 @@ Optional combined allotment for expedited households.—A State agency may provi
 
 #### (A) In general
 
-&emsp;&emsp;Before the Secretary authorizes implementation of paragraph (1) in all States, the Secretary shall carry out, at the request of 1 or more State agencies and in 1 or more areas of the United States, such number of pilot projects as the Secretary determines to be sufficient to test the feasibility of determining and issuing allotments to residents of covered facilities under paragraph (1) in lieu of subsection (a) of this section.
+&emsp;&emsp;Before the Secretary authorizes implementation of paragraph (1) in all States, the Secretary shall carry out, at the request of 1 or more State agencies and in 1 or more areas of the United States, such number of pilot projects as the Secretary determines to besufficient to test the feasibility of determining and issuing allotments to residents of covered facilities under paragraph (1) in lieu of subsection (a) of this section.
 
 #### (B) Project plan
 
@@ -152,7 +152,7 @@ Optional combined allotment for expedited households.—A State agency may provi
 
 &emsp;&emsp;&emsp;&emsp;(bb) authorization of implementation of paragraph (1) in all States is not in the best interest of the supplemental nutrition assistance program.
 
-(Pub. L. 88–525, §8, Aug. 31, 1964, 78 Stat. 705; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 968; Pub. L. 97–35, title I, §§104(b), 110, Aug. 13, 1981, 95 Stat. 359, 361; Pub. L. 97–253, title I, §§143(c), 152(b), 163, 164, Sept. 8, 1982, 96 Stat. 773, 776, 778; Pub. L. 99–198, title XV, §1520, Dec. 23, 1985, 99 Stat. 1578; Pub. L. 100–387, title V, §502(a), Aug. 11, 1988, 102 Stat. 960; Pub. L.100–435, title II, §203(a), Sept. 19, 1988, 102 Stat. 1656; Pub. L. 101–624, title XVII, §§1730, 1732, Nov. 28, 1990, 104 Stat. 3790; Pub. L. 102–237, title IX, §§909, 910, Dec. 13, 1991, 105 Stat. 1887; Pub. L. 103–66, title XIII, §13916, Aug. 10, 1993, 107 Stat. 674; Pub. L. 103–296, title I, §108(f)(1), Aug. 15, 1994, 108 Stat. 1486; Pub. L. 104–193, title VIII, §§826–830, 854(c)(1), Aug. 22, 1996, 110 Stat. 2327, 2342; Pub. L. 107–171, title IV, §4112(a), (b)(3), May 13, 2002, 116 Stat. 310, 313; Pub. L. 110–234, title IV, §§4001(b), 4107, 4115(b)(5), May 22, 2008, 122 Stat. 1092, 1101, 1106; Pub. L. 110–246, §4(a), title IV, §§4001(b), 4107, 4115(b)(5), June 18, 2008, 122 Stat. 1664, 1853, 1863, 1868.)
+(Pub. L. 88–525, §8, Aug. 31, 1964, 78 Stat. 705; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 968; Pub. L. 97–35, title I, §§104(b), 110, Aug. 13, 1981, 95 Stat. 359, 361; Pub. L. 97–253, title I, §§143(c), 152(b), 163, 164, Sept. 8, 1982, 96 Stat. 773, 776, 778; Pub. L. 99–198, title XV, §1520, Dec. 23, 1985, 99 Stat. 1578; Pub. L. 100–387, title V, §502(a), Aug. 11, 1988, 102 Stat. 960; Pub. L. 100–435, title II, §203(a), Sept. 19, 1988, 102 Stat. 1656; Pub. L. 101–624, title XVII, §§1730, 1732, Nov. 28, 1990, 104 Stat. 3790; Pub. L. 102–237, title IX, §§909, 910, Dec. 13, 1991, 105 Stat. 1887; Pub. L. 103–66, title XIII, §13916, Aug. 10, 1993, 107 Stat. 674; Pub. L. 103–296, title I, §108(f)(1), Aug. 15, 1994, 108 Stat. 1486; Pub. L. 104–193, title VIII, §§826–830, 854(c)(1), Aug. 22, 1996, 110 Stat. 2327, 2342; Pub. L. 107–171, title IV, §4112(a), (b)(3), May 13, 2002, 116 Stat. 310, 313; Pub. L. 110–234, title IV, §§4001(b), 4107, 4115(b)(5), May 22, 2008, 122 Stat. 1092, 1101, 1106; Pub. L. 110–246, §4(a), title IV, §§4001(b), 4107, 4115(b)(5), June 18, 2008, 122 Stat. 1664, 1853, 1863, 1868.)
 
 #### References in Text
 
@@ -182,7 +182,7 @@ Subsec. (f)(1)(D), (3)(B). Pub. L. 110–246, §4001(b), substituted “suppleme
 
 Subsec. (f). Pub. L. 107–171, §4112(a), added subsec. (f).
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–193, §826, struck out before period at end “, and shall be adjusted on each October 1 to reflect the percentage change in the cost of the thrifty food plan without regard to the special adjustments under section 2012(<i>o</i>) of this title for the 12-month period ending the preceding June, with the result rounded to the nearest $5”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–193, §826, struck out before period at end “, and shall be adjusted on each October 1 to reflect the percentage change in the cost of the thrifty food plan without regard to the special adjustments under section 2012(o) of this title for the 12-month period ending the preceding June, with the result rounded to the nearest $5”.
 
 Subsec. (c)(2)(B). Pub. L. 104–193, §827, struck out “of more than one month” after “following any period”.
 
@@ -210,7 +210,7 @@ Subsec. (c)(1). Pub. L. 102–237, §910(1), inserted at end “Households shall
 
 Subsec. (c)(2)(B). Pub. L. 102–237, §910(2), substituted “the expiration of a certification period or after the termination of the certification of a household, during a certification period, when the household ceased to be eligible after notice and an opportunity for a hearing under section 2020(e)(10) of this title” for “previous participation in such program”.
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–624, §1730, inserted before period at end “, and shall be adjusted on each October 1 to reflect the percentage change in the cost of the thrifty food plan without regard to the special adjustments under section 2012(<i>o</i>) of this title for the 12-month period ending the preceding June, with the result rounded to the nearest $5”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–624, §1730, inserted before period at end “, and shall be adjusted on each October 1 to reflect the percentage change in the cost of the thrifty food plan without regard to the special adjustments under section 2012(o) of this title for the 12-month period ending the preceding June, with the result rounded to the nearest $5”.
 
 Subsec. (c)(3). Pub. L. 101–624, §1732, amended par. (3) generally. Prior to amendment, par. (3) read as follows: “An eligible household applying after the 15th day of the month shall receive, in lieu of its initial allotment and its regular allotment for the following month, an allotment that is the aggregate of the initial allotment and the first regular allotment, which shall be provided in accordance with paragraphs (3) and (9) of section 2020(e) of this title.”
 
@@ -282,5 +282,5 @@ Amendment by Pub. L. 97–35 effective and implemented upon such dates as Secret
 
 #### Effective Date of 1977 Amendment
 
-Section 1301 of Pub. L. 95–113 provided that the amendment made by that section is effective Oct. 1, 1977.
+Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 958, provided that the amendment made by section 1301 is effective Oct. 1, 1977.
 

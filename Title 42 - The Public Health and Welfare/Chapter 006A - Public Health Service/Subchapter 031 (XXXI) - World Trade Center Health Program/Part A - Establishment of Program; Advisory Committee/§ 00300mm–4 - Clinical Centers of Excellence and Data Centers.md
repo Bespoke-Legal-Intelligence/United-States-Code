@@ -130,7 +130,7 @@ Not later than July 1, 2011, the Comptroller General shall submit to the Committ
 
 #### References in Text
 
-Section 300mm–1(b) of this title, referred to in subsec. (a)(2)(A)(v), was in the original “section 3002(b)” andwas translated as meaning section 3302(b) of act July 1, 1944, to reflect the probable intent of Congress.
+Section 300mm–1(b) of this title, referred to in subsec. (a)(2)(A)(v), was in the original “section 3002(b)” and was translated as meaning section 3302(b) of act July 1, 1944, to reflect the probable intent of Congress.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

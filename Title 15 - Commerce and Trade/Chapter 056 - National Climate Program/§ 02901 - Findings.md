@@ -18,7 +18,7 @@ The Congress finds and declares the following:
 
 #### Short Title
 
-Section 1 of Pub. L. 95–367 provided: “That this Act \[enacting this chapter, amending section 25 of former Title 31, Money and Finance, and enacting provisions set out as a note under section 25 of former Title 31\] may be cited as the ‘National Climate Program Act’.”
+Pub. L. 95–367, §1, Sept. 17, 1978, 92 Stat. 601, provided: “That this Act \[enacting this chapter, amending section 25 of former Title 31, Money and Finance, and enacting provisions set out as a note under section 25 of former Title 31\] may be cited as the ‘National Climate Program Act’.”
 
 #### Global Climate Protection
 

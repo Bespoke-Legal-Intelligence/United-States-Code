@@ -24,7 +24,7 @@
 
 #### (b) Records on historic properties to be altered or demolished; deposit in Library of Congress or other appropriate agency
 
-Each Federal agency shall initiate measures to assure that where, as a result of Federal action or assistance carried out by such agency, an historic property is to be substantially altered or demolished, timely steps are taken to make or have made appropriate records, and that such records then be deposited, in accordance with section 470a(a) of this title, in the Library of Congress or with such other appropriate agency as may be designated by the Secretary, for future use and reference.
+Each Federal agency shall initiate measures to assure that where, as a result of Federal action or assistance carried out by such agency, an historic property is to be substantially altered or demolished, timely steps are taken to make or have made appropriate records, and that suchrecords then be deposited, in accordance with section 470a(a) of this title, in the Library of Congress or with such other appropriate agency as may be designated by the Secretary, for future use and reference.
 
 #### (c) Agency Preservation Officer; responsibilities; qualifications
 
@@ -36,7 +36,7 @@ Consistent with the agency's missions and mandates, all Federal agencies shall c
 
 #### (e) Review of plans of transferees of surplus federally owned historic properties
 
-The Secretary shall review and approve the plans of transferees of surplus federally ownedhistoric properties not later than ninety days after his receipt of such plans to ensure that the prehistorical, historical, architectural, or culturally significant values will be preserved or enhanced.
+The Secretary shall review and approve the plans of transferees of surplus federally owned historic properties not later than ninety days after his receipt of such plans to ensure that the prehistorical, historical, architectural, or culturally significant values will be preserved or enhanced.
 
 #### (f) Planning and actions to minimize harm to National Historic Landmarks
 
@@ -62,7 +62,7 @@ The Secretary shall promulgate regulations under which the requirements of this 
 
 Each Federal agency shall ensure that the agency will not grant a loan, loan guarantee, permit, license, or other assistance to an applicant who, with intent to avoid the requirements of section 470f of this title, has intentionally significantly adversely affected a historic property to which the grant would relate, or having legal power to prevent it, allowed such significant adverse effect to occur, unless the agency, after consultation with the Council, determines that circumstances justify granting such assistance despite the adverse effect created or permitted by the applicant.
 
-#### (<i>l</i>) Documentation of decisions respecting undertakings
+#### (l) Documentation of decisions respecting undertakings
 
 With respect to any undertaking subject to section 470f of this title which adversely affects any property included in or eligible for inclusion in the National Register, and for which a Federal agency has not entered into an agreement pursuant to regulations issued by the Council, the head of such agency shall document any decision made pursuant to section 470f of this title. The head of such agency may not delegate his or her responsibilities pursuant to such section. Where a section 106 \[16 U.S.C. 470f\] memorandum of agreement has been executed with respect to an undertaking, such memorandum shall govern the undertaking and all of its parts.
 
@@ -76,11 +76,11 @@ The National Environmental Policy Act of 1969, referred to in subsec. (i), is Pu
 
 #### Amendments
 
-<b>2004</b>—Subsec. (<i>l</i>). Pub. L. 108–352 amended directory language of Pub. L. 106–208, §5(a)(8). See 2000 Amendment note below.
+<b>2004</b>—Subsec. (l). Pub. L. 108–352 amended directory language of Pub. L. 106–208, §5(a)(8). See 2000 Amendment note below.
 
 <b>2000</b>—Subsec. (a)(1). Pub. L. 106–208, §4, substituted “agency, in accordance with Executive Order No. 13006, issued May 21, 1996 (61 Fed. Reg. 26071).” for “agency.” in second sentence.
 
-Subsec. (<i>l</i>). Pub. L. 106–208, §5(a)(8), as amended by Pub. L. 108–352, substituted “pursuant to regulations issued by the Council” for “with the Council”,.
+Subsec. (l). Pub. L. 106–208, §5(a)(8), as amended by Pub. L. 108–352, substituted “pursuant to regulations issued by the Council” for “with the Council”,.
 
 <b>1992</b>—Subsec. (a)(1). Pub. L. 102–575, §4012(1), substituted “section 470a(g)” for “section 470a(f)”.
 
@@ -88,7 +88,7 @@ Subsec. (a)(2). Pub. L. 102–575, §4012(2), amended par. (2) generally. Prior 
 
 Subsec. (c). Pub. L. 102–575, §4006(b), substituted “section 470a(h)” for “section 470a(g)”.
 
-Subsecs. (k), (<i>l</i>). Pub. L. 102–575, §4012(3), added subsecs. (k) and (<i>l</i>).
+Subsecs. (k), (l). Pub. L. 102–575, §4012(3), added subsecs. (k) and (l).
 
 #### Ex. Ord. No. 13287. Preserve America
 
@@ -108,7 +108,7 @@ Sec. 3. <i>Improving Federal Agency Planning and Accountability</i>. (a) Accurat
 
 (d) Agencies may use existing information gathering and reporting systems to fulfill the assessment and reporting requirements of subsections 3(a)–(c) of this order. To assist agencies, the Council, in consultation with the Secretary, shall, by September 30, 2003, prepare advisory guidelines for agencies to use at their discretion.
 
-(e) No later than June 30, 2003, the head of each agency shall designate a senior policy level official to have policy oversight responsibility for the agency's historic preservation program and notify the Council and the Secretary of the designation. This senior official shall be an assistant secretary, deputy assistant secretary, or the equivalent, as appropriate to the agency organization. This official, or a subordinate employee reporting directly to the official, shall serve as the agency's Federal Preservation Officer in accordance with section 110(c) of the NHPA. The senior official shall ensure that the Federal Preservation Officer is qualified consistent with guidelines established by the Secretary for that position and has access to adequate expertise and support to carry out the duties of the position.
+(e) No later than June 30, 2003, the head of each agency shall designate a senior policy level official to have policy oversight responsibility for the agency's historic preservation program and notify the Council and the Secretary of the designation. This senior official shall be an assistant secretary, deputy assistant secretary, or the equivalent, as appropriate to the agency organization. This official, or a subordinate employee reporting directly to the official, shall serve as the agency's Federal Preservation Officer in accordance with section 110(c) of the NHPA. The senior official shall ensure thatthe Federal Preservation Officer is qualified consistent with guidelines established by the Secretary for that position and has access to adequate expertise and support to carry out the duties of the position.
 
 Sec. 4. <i>Improving Federal Stewardship of Historic Properties</i>. (a) Each agency shall ensure that the management of historic properties in its ownership is conducted in a manner that promotes the long-term preservation and use of those properties as Federal assets and, where consistent with agency missions, governing law, and the nature of the properties, contributes to the local community and its economy.
 

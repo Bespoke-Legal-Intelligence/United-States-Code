@@ -20,7 +20,7 @@
 
 &emsp;&emsp;&emsp;(iii) undergoing that hospitalization or treatment at the expense of the United States.
 
-&emsp;(4) Any citizen of the United States who, during any war in which the United States is or has been engaged, served in the armed forces of any government allied with the United States during that war, and whose last such service terminated honorably.
+&emsp;(4) Any citizen of the United States who, during any war in which the United States is or has been engaged, served in the armedforces of any government allied with the United States during that war, and whose last such service terminated honorably.
 
 &emsp;(5) The spouse, surviving spouse (which for purposes of this chapter includes a surviving spouse who had a subsequent remarriage), minor child (which for purposes of this chapter includes a child under 21 years of age, or under 23 years of age if pursuing a course of instruction at an approved educational institution), and, in the discretion of the Secretary, unmarried adult child of any of the persons listed in paragraphs (1) through (4) and paragraph (7).
 
@@ -68,7 +68,7 @@ Par. (8). Pub. L. 106–419, §331(a), added par. (8).
 
 <b>1998</b>—Pub. L. 105–368 substituted “under the control of the National Cemetery Administration” for “in the National Cemetery System” in introductory provisions.
 
-<b>1996</b>—Par. (5). Pub. L. 104–275 inserted “(which for purposes of this chapter includes a child under 21 yearsof age, or under 23 years of age if pursuing a course of instruction at an approved educational institution)” after “minor child”.
+<b>1996</b>—Par. (5). Pub. L. 104–275 inserted “(which for purposes of this chapter includes a child under 21 years of age, or under 23 years of age if pursuing a course of instruction at an approved educational institution)” after “minor child”.
 
 <b>1994</b>—Par. (5). Pub. L. 103–446 inserted “spouse,” after “The” and “(which for purposes of this chapter includes an unremarried surviving spouse who had a subsequent remarriage which was terminated by death or divorce)” after “surviving spouse”.
 
@@ -99,6 +99,10 @@ Pub. L. 108–183, title V, §502(b), Dec. 16, 2003, 117 Stat. 2667, provided th
 #### Effective Date of 2000 Amendment
 
 Amendment by section 331(a) of Pub. L. 106–419 applicable with respect to deaths occurring on or after Nov. 1, 2000, see section 331(c) of Pub. L. 106–419, set out as a note under section 107 of this title.
+
+#### Identification of Unclaimed or Abandoned Human Remains
+
+Pub. L. 112–260, title I, §104(a), Jan. 10, 2013, 126 Stat. 2420, provided that: “The Secretary of Veterans Affairs shall cooperate with veterans service organizations to assist entities in possession of unclaimed or abandoned human remains in determining if any such remains are the remains of veterans or other individuals eligible for burial in a national cemetery under the jurisdiction of the Secretary.”
 
 #### Guidance Required
 

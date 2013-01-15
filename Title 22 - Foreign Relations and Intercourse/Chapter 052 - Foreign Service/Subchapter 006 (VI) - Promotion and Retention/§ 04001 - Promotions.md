@@ -70,5 +70,5 @@ Pub. L. 101–246, title I, §163, Feb. 16, 1990, 104 Stat. 47, as amended by Pu
 
 #### Language Proficiency in Employee Evaluation Report
 
-Pub. L. 101–246, title I, §164, Feb. 16, 1990, 104 Stat. 47, required revision of employee and officer evaluation reports for Foreign Service officers of Department of State and Agency for International Development to include separate assessment of employee's effectiveness in using foreign language and required that precedence in promotion be given to officers achieving certain levels of proficiency in foreign language, prior to repeal by Pub. L. 103–236, title I, §191(b), Apr. 30, 1994, 108 Stat. 418. See section 191(a) of Pub. L. 103–236, set out as a note under section 3926 of this title.
+Pub. L. 101–246, title I, §164, Feb. 16, 1990, 104 Stat. 47, required revision of employee and officer evaluation reports for Foreign Service officers of Department of State and Agency for International Development to include separate assessment of employee's effectiveness in using foreign language and required that precedence in promotion be given to officers achieving certain levels of proficiency in foreign language, prior to repeal by Pub. L. 103–236, title I, §191(b), Apr. 30, 1994, 108 Stat.418. See section 191(a) of Pub. L. 103–236, set out as a note under section 3926 of this title.
 

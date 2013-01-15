@@ -6,7 +6,7 @@ Mandatory Retirement.—(1) Except as provided in subsection (k), each regular o
 
 (2) Except as provided in subsection (k), each regular officer of the Navy designated for limited duty who is serving in the grade of commander, has failed of selection for promotion to the grade of captain for the second time, and is not on a list of officers recommended for promotion to the grade of captain shall—
 
-&emsp;(A) if eligible for retirement as a commissioned officer under any provision of law, be retired under that provision of law on the date requested by the officer and approved by the Secretary of the Navy, except that the date of retirement may not be later than the first day of the seventh month beginning after the month in which the President approves the report of the selection board in which the officer is considered as having failed for promotion to the grade of captain for a second time; or
+&emsp;(A) if eligible for retirement as a commissioned officer under any provision of law, be retired under that provision of law on the date requested by the officer and approved by the Secretary of the Navy, except that the date ofretirement may not be later than the first day of the seventh month beginning after the month in which the President approves the report of the selection board in which the officer is considered as having failed for promotion to the grade of captain for a second time; or
 
 &emsp;(B) if not eligible for retirement as a commissioned officer, be retired on the date requested by the officer and approved by the Secretary of the Navy after the officer becomes eligible for retirement as a commissioned officer, except that the date of retirement may not be later than the first day of the seventh calendar month beginning after the month in which the officer becomes eligible for retirement as a commissioned officer.
 
@@ -36,7 +36,7 @@ Officers in Pay Grades O–2
 
 and O–1
 
-Who Twice Fail of Selection for Promotion or Are Found Not Qualified for Promotion.—(1) Each regular officer on the active-duty list of the Navy serving in the grade of lieutenant (junior grade) who is an officer designated for limited duty, and each regular officer on the active-duty list of the Marine Corps serving in the grade of first lieutenant who is an officer designated for limited duty, who is considered as having failed of selection for promotion to the grade of lieutenant (in the case of an officer of the Navy) or captain (in the case of an officer of the Marine Corps) for the second time shall be honorably discharged on the date requested by the officer and approved by the Secretary of the Navy, but not later than the first day of the seventh calendar month beginning after the month in which the President approves the report of the selection board in which the officer is considered ashaving failed of selection for promotion to the grade of lieutenant or captain, respectively, for the second time.
+Who Twice Fail of Selection for Promotion or Are Found Not Qualified for Promotion.—(1) Each regular officer on the active-duty list of the Navy serving in the grade of lieutenant (junior grade) who is an officer designated for limited duty, and each regular officer on the active-duty list of the Marine Corps serving in the grade of first lieutenant who is an officer designated for limited duty, who is considered as having failed of selection for promotion to the grade of lieutenant (in the case of an officer of the Navy) or captain (in the case of an officer of the Marine Corps) for the second time shall be honorably discharged on the date requested by the officer and approved by the Secretary of the Navy, but not later than the first day of the seventh calendar month beginning after the month in which the President approves the report of the selection board in which the officer is considered as having failed of selection for promotion to the grade of lieutenant or captain, respectively, for the second time.
 
 (2) Each regular officer on the active-duty list of the Navy serving in the grade of ensign who is an officer designated for limited duty, and each regular officer on the active-duty list of the Marine Corps serving in the grade of second lieutenant who is an officer designated for limited duty, who is found not qualified for promotion to the grade of lieutenant (junior grade) (in the case of an officer of the Navy) or first lieutenant (in the case of an officer of the Marine Corps) shall be honorably discharged on the date requested by the officer and approved by the Secretary of the Navy, but not later than the first day of the seventh calendar month beginning after the month in which the officer was found not qualified for promotion.
 
@@ -72,7 +72,7 @@ Separation Pay for Officers Discharged.—An officer discharged under this secti
 
 Selective Retention Boards for LDOs.—Under such regulations as he may prescribe, whenever the needs of the service require, the Secretary of the Navy may defer the retirement under subsection (a) or (b) or the discharge under subsection (b) or (d) of any officer designated for limited duty upon recommendation of a board of officers convened under section 611(b) of this title and with the consent of the officer concerned. An officer whose retirement is deferred under this subsection and who is not subsequently promoted may not be continued on active duty beyond 20 years active commissioned service, if in the grade of lieutenant or captain, beyond 24 years active commissioned service, if in the grade of lieutenant commander or major, or beyond 28 years active commissioned service, if in the grade of lieutenant colonel, or beyond age 62, whichever is earlier.
 
-(<i>l</i>)
+(l)
 
 Applicability of Section Only to Permanent LDOs.—This section does not apply to officers designated for limited duty under section 5596 of this title.
 
@@ -172,7 +172,7 @@ The second proviso in §312(g) of the Officer Personnel Act of 1947 (34 U.S.C. 4
 
 In subsection (f) the words “to which he would otherwise become entitled” are omitted as surplusage and the words “based on the service for which he has received payment” are substituted for the words “attributable to the active service in respect of which lump-sum payment shall have been made to him”.
 
-The second proviso in §312(f) of the Officer Personnel Act of 1947 (34 U.S.C. 410j(f)), which provides that officers who exercise their option to revert to a warrant officer grade shall be retired upon completing 30 years of active naval service, is omitted as superseded by §14(b)(2) of the Warrant Officer Act of 1954 (34 U.S.C. 430(b)(2)), codified in §1305 of this title.
+The second proviso in §312(f) of the Officer Personnel Act of 1947 (34 U.S.C. 410j(f)), which provides that officers who exercise their option to revert to a warrant officer grade shall be retired upon completing 30 years ofactive naval service, is omitted as superseded by §14(b)(2) of the Warrant Officer Act of 1954 (34 U.S.C. 430(b)(2)), codified in §1305 of this title.
 
 #### Amendments
 
@@ -196,11 +196,11 @@ Subsecs. (g), (h). Pub. L. 103–337, §503(a)(2), added subsecs. (g) and (h). F
 
 Subsec. (i). Pub. L. 103–337, §503(a)(1), (d)(6), redesignated subsec. (g) as (i) and inserted heading. Former subsec. (i) redesignated (k).
 
-Subsec. (j). Pub. L. 103–337, §503(a)(1), (d)(7), redesignated subsec. (h) as (j) and inserted heading. Former subsec. (j) redesignated (<i>l</i>).
+Subsec. (j). Pub. L. 103–337, §503(a)(1), (d)(7), redesignated subsec. (h) as (j) and inserted heading. Former subsec. (j) redesignated (l).
 
 Subsec. (k). Pub. L. 103–337, §503(a)(1), (b), (d)(8), redesignated subsec. (i) as (k), inserted heading, and substituted “or the discharge under subsection (b) or (d)” for “or the discharge under subsection (d)”.
 
-Subsec. (<i>l</i>). Pub. L. 103–337, §503(a)(1), (d)(9), redesignated subsec. (j) as (<i>l</i>) and inserted heading.
+Subsec. (l). Pub. L. 103–337, §503(a)(1), (d)(9), redesignated subsec. (j) as (l) and inserted heading.
 
 <b>1993</b>—Subsecs. (a)(5), (i). Pub. L. 103–160 substituted “October 1, 1999” for “October 1, 1995”.
 
@@ -218,7 +218,7 @@ Subsec. (k). Pub. L. 99–348, §203(b)(7)(B), struck out subsec. (k) which prov
 
 Subsec. (d). Pub. L. 98–525, §529(c)(2), substituted “Except as provided in subsection (i), each” for “Each”.
 
-Subsec. (i). Pub. L. 98–525, §529(c)(3), inserted “or the discharge under subsection (d)” after “the retirement under subsection (a) or (b)” and substituted “An officer whose retirement is deferred under this subsection and who is not subsequently promoted may not be continued on active duty beyond 20 years active commissioned service, if in the grade of lieutenant or captain,beyond 24 years active commissioned service, if in the grade of lieutenant commander or major, or beyond 28 years active commissioned service, if in the grade of lieutenant colonel, or beyond age 62, whichever is earlier” for “An officer whose retirement is deferred under this subsection and who is not subsequently promoted may not be continued on active duty beyond 24 years active commissioned service, if in the grade of lieutenant commander or major or 28 years active commissioned service, if in the grade of commander or lieutenant colonel, or beyond age 62, whichever is earlier”.
+Subsec. (i). Pub. L. 98–525, §529(c)(3), inserted “or the discharge under subsection (d)” after “the retirement under subsection (a) or (b)” and substituted “An officer whose retirement is deferred under this subsection and who is not subsequently promoted may not be continued on active duty beyond 20 years active commissioned service, if in the grade of lieutenant or captain, beyond 24 years active commissioned service, if in the grade of lieutenant commander or major, or beyond 28 years active commissioned service, if in the grade of lieutenant colonel, or beyond age 62, whichever is earlier” for “An officer whose retirement is deferred under this subsection and who is not subsequently promoted may not be continued on active duty beyond 24 years active commissioned service, if in the grade of lieutenant commander or major or 28 years active commissioned service, if in the grade of commander or lieutenant colonel, or beyond age 62, whichever is earlier”.
 
 <b>1983</b>—Subsec. (k). Pub. L. 98–94 added subsec. (k).
 
@@ -234,7 +234,7 @@ Subsec. (c)(2). Pub. L. 96–513, §513(17), substituted “September 8, 1980”
 
 Pub. L. 96–342, designated existing provisions as subpar. (A), inserted provision limiting applicability to officers who became members of the uniformed services before the date of the enactment of the Department of Defense Authorization Act, 1981, and added subpar. (B).
 
-Subsec. (d). Pub. L. 96–513, §336(d), provided that Navy lieutenants designated for limited duty and Marine Corps captains similarly designated who were considered as having failed of selection for promotion were to be honorably discharged on a date requested by the officer concerned and approved by the Secretary of the Navy but not later than the first day of the seventh calendar month beginning after the month in which the President approved the report of the selection board rather than on June 30th of the fiscal year in which he was considered as having failed of selection.
+Subsec. (d). Pub. L. 96–513, §336(d), provided that Navy lieutenants designated for limited duty and Marine Corps captains similarly designated who were considered as having failed of selection for promotion were tobe honorably discharged on a date requested by the officer concerned and approved by the Secretary of the Navy but not later than the first day of the seventh calendar month beginning after the month in which the President approved the report of the selection board rather than on June 30th of the fiscal year in which he was considered as having failed of selection.
 
 Subsec. (e). Pub. L. 96–513, §336(d), designated existing provisions as par. (1), provided that Navy lieutenants (junior grade) designated for limited duty and Marine Corps first lieutenants similarly designated who were considered as having failed of selection for promotion were to be honorably discharged on a date requested by the officer concerned and approved by the Secretary of the Navy but not later than the first day of the seventh calendar month beginning after the month in which the President approved the report of the selection board rather than on June 30th of the fiscal year in which he was considered as having failed of selection, and added par. (2).
 

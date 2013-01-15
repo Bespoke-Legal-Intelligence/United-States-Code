@@ -80,7 +80,7 @@
 
 &emsp;(C) the balance between the components of the Program, including funding levels for the Program Component Areas;
 
-&emsp;(D) whether the research and development undertaken pursuant to the Program is helping to maintain United States leadership inhigh-performance computing, networking technology, and related software; and
+&emsp;(D) whether the research and development undertaken pursuant to the Program is helping to maintain United States leadership in high-performance computing, networking technology, and related software; and
 
 &emsp;(E) other issues identified by the Director.
 
@@ -154,7 +154,7 @@ Advisory committees established after Jan. 5, 1973, to terminate not later than 
 
 #### Delegation of Functions
 
-President's Council of Advisors on Science and Technology to serve as the advisory committee identified insections 5511(b) and 5513(b) of this title and to be known as the President's Innovation and Technology Advisory Committee when so serving, see section 2(a)(iii) of Ex. Ord. No. 13539, set out as a note under section 6601 of Title 42, The Public Health and Welfare.
+President's Council of Advisors on Science and Technology to serve as the advisory committee identified in sections 5511(b) and 5513(b) of this title and to be known as the President's Innovation and Technology Advisory Committee when so serving, see section 2(a)(iii) of Ex. Ord. No. 13539, set out as a note under section 6601 of Title 42, The Public Health and Welfare.
 
 #### Ex. Ord. No. 13035. President's Information Technology Advisory Committee
 

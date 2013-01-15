@@ -4,11 +4,11 @@ For the purposes of this subchapter, the following definitions apply:
 
 #### (1) Conservation Area
 
-&emsp;The term “Conservation Area” means the Las Cienegas National Conservation Area established by section 460<i>ooo</i>–3(a) of this title.
+&emsp;The term “Conservation Area” means the Las Cienegas National Conservation Area established by section 460ooo–3(a) of this title.
 
 #### (2) Acquisition Planning District
 
-&emsp;The term “Acquisition Planning District” means the Sonoita Valley Acquisition Planning District established by section 460<i>ooo</i>–1(a) of this title.
+&emsp;The term “Acquisition Planning District” means the Sonoita Valley Acquisition Planning District established by section 460ooo–1(a) of this title.
 
 #### (3) Management plan
 

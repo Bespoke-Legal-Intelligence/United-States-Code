@@ -16,7 +16,7 @@ In sections 27 to 27f of this title, the term “bank” means—
 
 &emsp;(6) any trust company; or
 
-&emsp;(7) any subsidiary of any entity described in paragraph <sup>1</sup> (1) through (6) of this subsection, if the subsidiary is regulated as if the subsidiary were part of the entity and is not a broker ordealer (as such terms are defined in section 78c of title 15) or a futures commission merchant (as defined in section 1a of this title).
+&emsp;(7) any subsidiary of any entity described in paragraph <sup>1</sup> (1) through (6) of this subsection, if the subsidiary is regulated as if the subsidiary were part of the entity and is not a broker or dealer (as such terms are defined in section 78c of title 15) or a futures commission merchant (as defined in section 1a of this title).
 
 #### (b) Identified banking product
 

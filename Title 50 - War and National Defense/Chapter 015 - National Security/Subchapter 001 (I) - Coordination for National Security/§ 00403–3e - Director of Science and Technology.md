@@ -24,7 +24,7 @@ The Director of Science and Technology shall—
 
 #### (d) Director of National Intelligence Science and Technology Committee
 
-(1) There is within the Office of the Director of Science and Technology a Director of NationalIntelligence Science and Technology Committee.
+(1) There is within the Office of the Director of Science and Technology a Director of National Intelligence Science and Technology Committee.
 
 (2) The Committee shall be composed of the principal science officers of the National Intelligence Program.
 

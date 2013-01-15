@@ -132,7 +132,7 @@ In this section:
 
 &emsp;&emsp;(E) natural and cultural resource management strategies for the Outstanding Natural Area, to be developed in consultation with appropriate departments of the State, the Local Partners, and the Commandant, with an emphasis on resource conservation in the Outstanding Natural Area and the interpretive, educational, and long-term scientific uses of the resources; and
 
-&emsp;&emsp;(F) recreational use strategies for the Outstanding Natural Area, to be prepared inconsultation with the Local Partners, appropriate departments of the State, and the Coast Guard, with an emphasis on passive recreation.
+&emsp;&emsp;(F) recreational use strategies for the Outstanding Natural Area, to be prepared in consultation with the Local Partners, appropriate departments of the State, and the Coast Guard, with an emphasis on passive recreation.
 
 #### (5) Interim plan
 

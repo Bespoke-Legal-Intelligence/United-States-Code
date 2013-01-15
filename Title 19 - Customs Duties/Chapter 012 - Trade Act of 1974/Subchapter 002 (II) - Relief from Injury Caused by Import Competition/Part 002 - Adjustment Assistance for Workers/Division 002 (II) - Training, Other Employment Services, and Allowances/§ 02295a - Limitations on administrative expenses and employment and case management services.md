@@ -2,7 +2,7 @@
 
 Of the funds made available to a State to carry out sections 2295 through 2298 of this title for a fiscal year, the State shall use—
 
-&emsp;(1) not more than 10 percent for the administration of the trade adjustment assistance forworkers program under this part, including for—
+&emsp;(1) not more than 10 percent for the administration of the trade adjustment assistance for workers program under this part, including for—
 
 &emsp;&emsp;(A) processing waivers of training requirements under section 2291 of this title;
 

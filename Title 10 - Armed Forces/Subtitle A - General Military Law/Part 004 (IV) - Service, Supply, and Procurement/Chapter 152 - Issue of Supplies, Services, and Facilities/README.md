@@ -30,7 +30,9 @@ Chapter was comprised of subchapter I, former section 2540, and subchapter II, s
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 112–81, div. A, title V, §589(b), Dec. 31, 2011, 125 Stat. 1438, which directed amendment of table of sections at the beginning of this chapter by adding item 2564a after the item relating to section 717, was executed by adding item 2564a after item 2564, to reflect the probable intent of Congress.
+<b>2013</b>—Pub. L. 112–239, div. A, title X, §1076(a)(4), Jan. 2, 2013, 126 Stat. 1948, made technical amendment to directory language of Pub. L. 112–81, §589(b). See 2011 Amendment note below.
+
+<b>2011</b>—Pub. L. 112–81, div. A, title V, §589(b), Dec. 31, 2011, 125 Stat. 1438, as amended by Pub. L. 112–239, div. A, title X, §1076(a)(4), Jan. 2, 2013, 126 Stat. 1948, added item 2564a.
 
 Pub. L. 111–383, div. A, title X, §1074(b)(2), Jan. 7, 2011, 124 Stat. 4368, substituted “Excess nonlethal supplies: availability for humanitarian relief, domestic emergency assistance, and homeless veterans assistance” for “Excess nonlethal supplies: availability for homeless veteran initiatives and humanitarian relief” in item 2557.
 

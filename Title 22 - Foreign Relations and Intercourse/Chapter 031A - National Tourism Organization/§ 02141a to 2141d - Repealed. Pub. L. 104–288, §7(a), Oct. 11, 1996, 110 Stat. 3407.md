@@ -6,7 +6,7 @@ Section 2141b, Pub. L. 104–288, §4, Oct. 11, 1996, 110 Stat. 3404, related to
 
 Section 2141c, Pub. L. 104–288, §5, Oct. 11, 1996, 110 Stat. 3406, related to design and use by Organization of symbols, emblems, trademarks, and names.
 
-Section 2141d, Pub. L. 104–288, §6, Oct. 11, 1996, 110 Stat. 3406; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1335(<i>o</i>), Oct. 21, 1998, 112 Stat. 2681–789, related to United States Government cooperation.
+Section 2141d, Pub. L. 104–288, §6, Oct. 11, 1996, 110 Stat. 3406; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1335(o), Oct. 21, 1998, 112 Stat. 2681–789, related to United States Government cooperation.
 
 #### Effective Date of Repeal
 

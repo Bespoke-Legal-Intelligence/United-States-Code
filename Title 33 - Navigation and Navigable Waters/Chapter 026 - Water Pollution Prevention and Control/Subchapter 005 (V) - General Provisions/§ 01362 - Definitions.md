@@ -2,7 +2,7 @@
 
 Except as otherwise specifically provided, when used in this chapter:
 
-(1) The term “State water pollution control agency” means the State agency designated by the Governor having responsibility for enforcing State laws relating to the abatement of pollution.
+(1) The term “State water pollution control agency” means the State agency designated by the Governor having responsibility for enforcingState laws relating to the abatement of pollution.
 
 (2) The term “interstate agency” means an agency of two or more States established by or pursuant to an agreement or compact approved by the Congress, or any other agency of two or more States, having substantial powers or duties pertaining to the control of pollution as determined and approved by the Administrator.
 
@@ -142,5 +142,5 @@ For extension of territorial sea and contiguous zone of United States, see Proc.
 
 #### Definition of “Point Source”
 
-Section 507 of Pub. L. 100–4 provided that: “For purposes of the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\], the term ‘point source’ includes a landfill leachate collection system.”
+Pub. L. 100–4, title V, §507, Feb. 4, 1987, 101 Stat. 78, provided that: “For purposes of the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\], the term ‘point source’ includes a landfill leachate collection system.”
 

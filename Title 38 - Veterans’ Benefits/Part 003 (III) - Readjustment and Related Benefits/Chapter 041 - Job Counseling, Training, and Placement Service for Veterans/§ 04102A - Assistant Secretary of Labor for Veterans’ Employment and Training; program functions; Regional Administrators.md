@@ -60,7 +60,7 @@ Conditions for Receipt of Funds.—(1) The distribution and use of funds under s
 
 &emsp;(iv) Such additional information as the Secretary may require to make a determination with respect to awarding a grant or contract to the State.
 
-(B)(i) Subject to the succeeding provisions of this subparagraph, of the amount availableunder subsection (b)(5) for a fiscal year, the Secretary shall make available to each State with an application approved by the Secretary an amount of funding in proportion to the number of veterans seeking employment using such criteria as the Secretary may establish in regulation, including civilian labor force and unemployment data, for the State on an annual basis. The proportion of funding shall reflect the ratio of—
+(B)(i) Subject to the succeeding provisions of this subparagraph, of the amount available under subsection (b)(5) for a fiscal year, the Secretary shall make available to each State with an application approved by the Secretary an amount of funding in proportion to the number of veterans seeking employment using such criteria as the Secretary may establish in regulation, including civilian labor force and unemployment data, for the State on an annual basis. The proportion of funding shall reflect the ratio of—
 
 &emsp;(I) the total number of veterans residing in the State that are seeking employment; to
 
@@ -102,6 +102,34 @@ Conditions for Receipt of Funds.—(1) The distribution and use of funds under s
 
 (C) The Secretary may establish such reasonable exceptions to the completion of training otherwise required under subparagraph (A) as the Secretary considers appropriate.
 
+(9)(A) As a condition of a grant or contract under which funds are made available to a State in order to carry out section 4103A or 4104 of this title for any program year, the Secretary may require the State—
+
+&emsp;(i) to demonstrate that when the State approves or denies a certification or license described in subparagraph (B) for a veteran the State takes into consideration any training received or experience gained by the veteran while serving on active duty in the Armed Forces; and
+
+&emsp;(ii) to disclose to the Secretary in writing the following:
+
+&emsp;&emsp;(I) Criteria applicants must satisfy to receive a certification or license described in subparagraph (B) by the State.
+
+&emsp;&emsp;(II) A description of the standard practices of the State for evaluating training received by veterans while serving on active duty in the Armed Forces and evaluating the documented work experience of such veterans during such service for purposes of approving or denying a certification or license described in subparagraph (B).
+
+&emsp;&emsp;(III) Identification of areas in which training and experience described in subclause (II) fails to meet criteria described in subclause (I).” <sup>1</sup>
+
+(B) A certification or license described in this subparagraph is any of the following:
+
+&emsp;(i) A license to be a nonemergency medical professional.
+
+&emsp;(ii) A license to be an emergency medical professional.
+
+&emsp;(iii) A commercial driver's license.
+
+(C) The Secretary shall share the information the Secretary receives under subparagraph (A)(ii) with the Secretary of Defense to help the Secretary of Defense improve training for military occupational specialties so that individuals who receive such training are able to receive a certification or license described in subparagraph (B) from a State.
+
+(D) The Secretary shall publish on the Internet website of the Department available to the public—
+
+&emsp;(i) any guidance the Secretary gives the Secretary of Defense with respect to carrying out this section; and
+
+&emsp;(ii) any information the Secretary receives from a State pursuant to subparagraph (A).
+
 (d)
 
 Participation in Other Federally Funded Job Training Programs.—The Assistant Secretary of Labor for Veterans’ Employment and Training shall promote and monitor participation of qualified veterans and eligible persons in employment and training opportunities under title I of the Workforce Investment Act of 1998 and other federally funded employment and training programs.
@@ -114,7 +142,7 @@ Regional Administrators.—(1) The Secretary shall assign to each region for whi
 
 (f)
 
-Establishment of Performance Standards and Outcomes Measures.—(1) The Assistant Secretary of Labor for Veterans’ Employment and Training shall establish and implement a comprehensive performance accountability system to measure the performance of employment service delivery systems, includingdisabled veterans’ outreach program specialists and local veterans’ employment representatives providing employment, training, and placement services under this chapter in a State to provide accountability of that State to the Secretary for purposes of subsection (c).
+Establishment of Performance Standards and Outcomes Measures.—(1) The Assistant Secretary of Labor for Veterans’ Employment and Training shall establish and implement a comprehensive performance accountability system to measure the performance of employment service delivery systems, including disabled veterans’ outreach program specialists and local veterans’ employment representatives providing employment, training, and placement services under this chapter in a State to provide accountability of that State to the Secretary for purposes of subsection (c).
 
 (2) Such standards and measures shall—
 
@@ -136,9 +164,9 @@ Consolidation of Disabled Veterans’ Outreach Program Specialists and Veterans�
 
 &emsp;&emsp;(B) does not hinder the provision of services to veterans and employers; and
 
-(2) the Governor submits to the Secretary a proposal therefor at such time, in such manner, and containing such information as the Secretary may require.
+&emsp;(2) the Governor submits to the Secretary a proposal therefor at such time, in such manner, and containing such information as the Secretary may require.
 
-(Added Pub. L. 94–502, title VI, §601(b)(1), Oct. 15, 1976, 90 Stat. 2404, §2002A; amended Pub. L. 96–466, title V, §504(a)(3), (4), Oct. 17, 1980, 94 Stat. 2203; Pub. L. 97–306, title III, §303, Oct. 14, 1982, 96 Stat. 1437; Pub. L. 98–160, title VII, §702(15), Nov. 21, 1983, 97 Stat. 1010; Pub. L. 100–323, §§2(a), (e)(3)(A), 15(a)(2), (b)(1), May 20, 1988, 102 Stat. 556, 559, 574; Pub. L. 101–237, title IV, §423(b)(8)(A), Dec. 18, 1989, 103 Stat. 2093; renumbered §4102A and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–446, title VII, §701(a), title XII, §1201(a)(4), Nov. 2, 1994, 108 Stat. 4674, 4682; Pub. L. 104–275, title III, §301, Oct. 9, 1996, 110 Stat. 3332; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(29)(A), (f)(21)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–424, 2681–432; Pub. L. 105–368, title X, §1005(b)(13), Nov. 11, 1998, 112 Stat. 3365; Pub. L. 107–288, §4(a)(1), Nov. 7, 2002, 116 Stat. 2038; Pub. L. 108–183, title VII, §708(b)(1)(A), (2), Dec. 16, 2003, 117 Stat. 2673; Pub. L. 109–233, title II, §201, title V, §503(11), June 15, 2006, 120 Stat. 402, 416; Pub. L. 109–461, title VI, §601(a), (b), Dec. 22, 2006, 120 Stat. 3436; Pub. L. 111–275, title I, §103(a), title X, §1001(k), Oct. 13, 2010, 124 Stat. 2866, 2897; Pub. L. 112–56, title II, §241(c), Nov. 21, 2011, 125 Stat. 728.)
+(Added Pub. L. 94–502, title VI, §601(b)(1), Oct. 15, 1976, 90 Stat. 2404, §2002A; amended Pub. L. 96–466, title V, §504(a)(3), (4), Oct. 17, 1980, 94 Stat. 2203; Pub. L. 97–306, title III, §303, Oct. 14, 1982, 96 Stat. 1437; Pub. L. 98–160, title VII, §702(15), Nov. 21, 1983, 97 Stat. 1010; Pub. L. 100–323, §§2(a), (e)(3)(A), 15(a)(2), (b)(1), May 20, 1988, 102 Stat. 556, 559, 574; Pub. L. 101–237, title IV, §423(b)(8)(A), Dec. 18, 1989, 103 Stat. 2093; renumbered §4102A and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–446, title VII, §701(a), title XII, §1201(a)(4), Nov. 2, 1994, 108 Stat. 4674, 4682; Pub. L. 104–275, title III, §301, Oct. 9, 1996, 110 Stat. 3332; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(29)(A), (f)(21)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–424, 2681–432; Pub. L. 105–368, title X, §1005(b)(13), Nov. 11, 1998, 112 Stat. 3365; Pub. L. 107–288, §4(a)(1), Nov. 7, 2002, 116 Stat. 2038; Pub. L. 108–183, title VII, §708(b)(1)(A), (2), Dec. 16, 2003, 117 Stat. 2673; Pub. L. 109–233, title II, §201, title V, §503(11), June 15, 2006, 120 Stat. 402, 416; Pub. L. 109–461, title VI, §601(a), (b), Dec. 22, 2006, 120 Stat. 3436; Pub. L. 111–275, title I, §103(a), title X, §1001(k), Oct. 13, 2010, 124 Stat. 2866, 2897; Pub. L. 112–56, title II, §241(c), Nov. 21, 2011, 125 Stat. 728; Pub. L. 112–239, div. A, title V, §544(a), Jan. 2, 2013, 126 Stat. 1737.)
 
 #### References in Text
 
@@ -149,6 +177,8 @@ The Workforce Investment Act of 1998, referred to in subsecs. (c)(6) and (d), is
 The Wagner-Peyser Act, referred to in subsec. (c)(6), is act June 6, 1933, ch. 49, 48 Stat. 113, as amended, which is classified generally to chapter 4B (§49 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 49 of Title 29 and Tables.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (c)(9). Pub. L. 112–239 added par. (9).
 
 <b>2011</b>—Subsec. (h). Pub. L. 112–56 added subsec. (h).
 
@@ -220,6 +250,10 @@ Subsecs. (b) to (e). Pub. L. 100–323, §2(a), added subsecs. (b) to (e).
 
 <b>1980</b>—Pub. L. 96–466 struck out “Deputy” before “Assistant Secretary” in section catchline and text.
 
+#### Effective Date of 2013 Amendment
+
+Pub. L. 112–239, div. A, title V, §544(b), Jan. 2, 2013, 126 Stat. 1738, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to a program year beginning on or after the date of the enactment of this Act \[Jan. 2, 2013\].”
+
 #### Effective Date of 2010 Amendment
 
 Pub. L. 111–275, title I, §103(b), Oct. 13, 2010, 124 Stat. 2866, provided that:
@@ -230,7 +264,7 @@ Applicability to new employees.—The amendment made by subsection (a) \[amendin
 
 “(2)
 
-Applicability to previously-hired employees.—In the case of such a State employee who is so assigned on or after January 1, 2006, and before the date of the enactment of this Act, the Secretary of Labor shall require the State to require, as a condition of a grant or contract under which funds are made available to the State in order to carry out section 4103A or 4104 of title 38, United States Code, each such employee to satisfactorily complete the training described in section 4102A(c)(8)(A) of such title by not later than the date that is 18 months after the date of the enactment of this Act.”
+Applicability to previously-hired employees.—In the case of such a State employee who is so assigned on or after January 1, 2006, and before the date of the enactment of this Act, the Secretary of Labor shall require the State to require, as a condition of a grant or contract under which funds are made available to the State in order to carry out section 4103A or 4104 of title 38, United States Code, each such employee to satisfactorily complete the training described in section 4102A(c)(8)(A) of such title by not later than thedate that is 18 months after the date of the enactment of this Act.”
 
 #### Effective Date of 2006 Amendment
 
@@ -262,7 +296,7 @@ Section effective Dec. 1, 1976, see section 703(c) of Pub. L. 94–502, set out 
 
 #### References to and Continuation of Position of Deputy Assistant Secretary of Labor for Veterans’ Employment
 
-Section 504(b), (c) of Pub. L. 96–466 provided that:
+Pub. L. 96–466, title V, §504(b), (c), Oct. 17, 1980, 94 Stat. 2203, provided that:
 
 “(b) Any reference in any law, regulation, directive, or other document to the Deputy Assistant Secretary of Labor for Veterans’ Employment shall be deemed to be a reference to the Assistant Secretary of Labor for Veterans’ Employment.
 
@@ -270,5 +304,7 @@ Section 504(b), (c) of Pub. L. 96–466 provided that:
 
 \[Reference to Assistant Secretary of Labor for Veterans’ Employment in any law in force on Nov. 6, 1986, deemed to be a reference to Assistant Secretary of Labor for Veterans’ Employment and Training, see section 2(b)(3) of Pub. L. 99–619, set out as a References in Other Laws note under section 553 of Title 29, Labor.\]
 
-\[Section 802(e) of Pub. L. 96–466 provided that section 504(b), (c) are effective Oct. 1, 1980.\]
+\[Pub. L. 96–466, title VIII, §802(e), Oct. 17, 1980, 94 Stat. 2218, provided that section 504(b), (c) are effective Oct. 1, 1980.\]
+
+<i><sup>1</sup></i><i> So in original. The quotation marks probably should not appear.</i>
 

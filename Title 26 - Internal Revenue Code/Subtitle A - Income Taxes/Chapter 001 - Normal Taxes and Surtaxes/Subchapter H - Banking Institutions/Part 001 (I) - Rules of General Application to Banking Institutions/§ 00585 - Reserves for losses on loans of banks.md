@@ -50,7 +50,7 @@
 
 #### (2) Large banks
 
-&emsp;For purposes of this subsection, a bank is a large bank if, for the taxable year (or for anypreceding taxable year beginning after December 31, 1986)—
+&emsp;For purposes of this subsection, a bank is a large bank if, for the taxable year (or for any preceding taxable year beginning after December 31, 1986)—
 
 &emsp;&emsp;(A) the average adjusted bases of all assets of such bank exceeded $500,000,000, or
 
@@ -216,11 +216,11 @@ Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1987 Amendment
 
-Section 10301(c) of Pub. L. 100–203 provided that: “The amendments made by this section \[amending this section and sections 6201, 6425, 6601, 6651, and 6655 of this title and repealing section 6154 of this title\] shall apply to taxable years beginning after December 31, 1987.”
+Pub. L. 100–203, title X, §10301(c), Dec. 22, 1987, 101 Stat. 1330–429, provided that: “The amendments made by this section \[amending this section and sections 6201, 6425, 6601, 6651, and 6655 of this title and repealing section 6154 of this title\] shall apply to taxable years beginning after December 31, 1987.”
 
 #### Effective Date of 1986 Amendment
 
@@ -228,11 +228,11 @@ Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1981 Amendment
 
-Section 267(b) of Pub. L. 97–34 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after 1981.”
+Pub. L. 97–34, title II, §267(b), Aug. 13, 1981, 95 Stat. 267, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after 1981.”
 
 #### Effective Date
 
-Section 431(d) of Pub. L. 91–172 provided that: “The amendments made by subsections (a) \[enacting this section and section 586 of this title\] and (c) \[amending section 166 of this title\] shall apply to taxable years beginning after July 11, 1969.”
+Pub. L. 91–172, title IV, §431(d), Dec. 30, 1969, 83 Stat. 620, provided that: “The amendments made by subsections (a) \[enacting this section and section 586 of this title\] and (c) \[amending section 166 of this title\] shall apply to taxable years beginning after July 11, 1969.”
 
 #### Savings Provision
 

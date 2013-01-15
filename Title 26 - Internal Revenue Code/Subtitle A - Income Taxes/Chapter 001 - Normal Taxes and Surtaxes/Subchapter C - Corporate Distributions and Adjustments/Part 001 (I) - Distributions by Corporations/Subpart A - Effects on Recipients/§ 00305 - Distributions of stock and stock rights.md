@@ -64,7 +64,7 @@ For purposes of this section and section 301, the Secretary shall prescribe regu
 
 #### (1) In general
 
-&emsp;If any person purchases after April 30, 1993, any stripped preferred stock, then such person, while holding such stock, shall include in gross income amounts equal to the amounts which would have been so includible if suchstripped preferred stock were a bond issued on the purchase date and having original issue discount equal to the excess, if any, of—
+&emsp;If any person purchases after April 30, 1993, any stripped preferred stock, then such person, while holding such stock, shall include in gross income amounts equal to the amounts which would have been so includible if such stripped preferred stock were a bond issued on the purchase date and having original issue discount equal to the excess, if any, of—
 
 &emsp;&emsp;(A) the redemption price for such stock, over
 
@@ -138,7 +138,7 @@ Subsecs. (e), (f). Pub. L. 101–508, §11801(a)(17), (c)(7)(B), redesignated su
 
 <b>1983</b>—Subsec. (e)(3)(A). Pub. L. 97–448, §103(f)(1), substituted “placed in service qualified long-life public utility property having a cost equal to at least 60 percent of the aggregate cost of all tangible property described in subparagraph (A) or (B) of section 1245(a)(3) placed in service by the corporation during such period” for “acquired public utility recovery property having a cost equal to at least 60 percent of the aggregate cost of all tangible property described in section 1245(a)(3) (other than subparagraphs (C) and (D) thereof) acquired by the corporation during such period”.
 
-Subsec. (e)(3)(C)(ii). Pub. L. 97–448, §103(f)(2), substituted definition of “qualified long-life public utility property” for definition of “public utility recovery property” which had been defined as public utility property (within the meaning of section 167(<i>l</i>)(3)(A)) which was recovery property which was 10-year property or 15-year public utility property (within the meaning of section 168), except that any requirement that the property be placed in service after December 31, 1980, did not apply.
+Subsec. (e)(3)(C)(ii). Pub. L. 97–448, §103(f)(2), substituted definition of “qualified long-life public utility property” for definition of “public utility recovery property” which had been defined as public utility property (within the meaning of section 167(l)(3)(A)) which was recovery property which was 10-year property or 15-year public utility property (within the meaning of section 168), except that any requirement that the property be placed in service after December 31, 1980, did not apply.
 
 <b>1981</b>—Subsec. (d)(1). Pub. L. 97–34, §321(b), inserted “(other than subsection (e))” after “this section”.
 
@@ -162,7 +162,7 @@ Amendment by Pub. L. 103–66 effective Apr. 30, 1993, see section 13206(c)(3) o
 
 #### Effective Date of 1990 Amendment
 
-Section 11322(b) of Pub. L. 101–508 provided that:
+Pub. L. 101–508, title XI, §11322(b), Nov. 5, 1990, 104 Stat. 1388–464, provided that:
 
 “(1)
 
@@ -180,15 +180,15 @@ Exception.—The amendment made by subsection (a) shall not apply to any stock i
 
 #### Effective Date of 1983 Amendment
 
-Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in the provision of the Economic Recovery Tax Act of 1981, Pub. L. 97–34, to which such amendment relates, see section 109 of Pub. L. 97–448, set out as a note under section 1 of this title.
+Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in theprovision of the Economic Recovery Tax Act of 1981, Pub. L. 97–34, to which such amendment relates, see section 109 of Pub. L. 97–448, set out as a note under section 1 of this title.
 
 #### Effective Date of 1981 Amendment
 
-Section 321(c) of Pub. L. 97–34 provided that: “The amendments made by this section \[amending this section\] shall apply to distributions after December 31, 1981, in taxable years ending after such date.”
+Pub. L. 97–34, title III, §321(c), Aug. 13, 1981, 95 Stat. 289, provided that: “The amendments made by this section \[amending this section\] shall apply to distributions after December 31, 1981, in taxable years ending after such date.”
 
 #### Effective Date of 1969 Amendment
 
-Section 421(b) of Pub. L. 91–172, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 91–172, title IV, §421(b), Dec. 30, 1969, 83 Stat. 615, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1) Except as otherwise provided in this subsection, the amendment made by subsection (a) \[amending this section\] shall apply with respect to distributions (or deemed distributions) made after January 10, 1969, in taxable years ending after such date.
 

@@ -24,7 +24,7 @@ As used in this section—
 
 &emsp;&emsp;&emsp;(i) standard informational material related to a loan, default aversion, default prevention, or financial literacy;
 
-&emsp;&emsp;&emsp;(ii) food, refreshments, training, or informational material furnished to an officer, employee, or agent of a covered educational institution, as an integral part of a training session or through participation in an advisory council that is designed to improve the service of the private educational lender to the covered educational institution, if such training or participation contributes to the professional development of the officer, employee, or agent of the covered educational institution;
+&emsp;&emsp;&emsp;(ii) food, refreshments, training, or informational material furnished to an officer,employee, or agent of a covered educational institution, as an integral part of a training session or through participation in an advisory council that is designed to improve the service of the private educational lender to the covered educational institution, if such training or participation contributes to the professional development of the officer, employee, or agent of the covered educational institution;
 
 &emsp;&emsp;&emsp;(iii) favorable terms, conditions, and borrower benefits on a private education loan provided to a student employed by the covered educational institution, if such terms, conditions, or benefits are not provided because of the student's employment with the covered educational institution;
 
@@ -42,7 +42,7 @@ As used in this section—
 
 &emsp;(3) the term “institution of higher education” has the same meaning as in section 102 of the Higher Education Act of 1965 (20 U.S.C. 1002);
 
-&emsp;(4) the term “postsecondary educational expenses” means any of the expenses that are included as part of the cost of attendance of a student, as defined under section 472 of the Higher Education Act of 1965 (20 U.S.C. 1087<i>ll</i>);
+&emsp;(4) the term “postsecondary educational expenses” means any of the expenses that are included as part of the cost of attendance of a student, as defined under section 472 of the Higher Education Act of 1965 (20 U.S.C. 1087ll);
 
 &emsp;(5) the term “preferred lender arrangement” has the same meaning as in section 151 of the Higher Education Act of 1965 \[20 U.S.C. 1019\];
 
@@ -86,7 +86,7 @@ A private educational lender may not use the name, emblem, mascot, or logo of th
 
 #### (d) Advisory Board compensation
 
-Any person who is employed in the financial aid office of a covered educational institution,or who otherwise has responsibilities with respect to private education loans or other financial aid of the institution, and who serves on an advisory board, commission, or group established by a private educational lender or group of such lenders shall be prohibited from receiving anything of value from the private educational lender or group of lenders. Nothing in this subsection prohibits the reimbursement of reasonable expenses incurred by an employee of a covered educational institution as part of their service on an advisory board, commission, or group described in this subsection.
+Any person who is employed in the financial aid office of a covered educational institution, or who otherwise has responsibilities with respect to private education loans or other financial aid of the institution, and who serves on an advisory board, commission, or group established by a private educational lender or group of such lenders shall be prohibited from receiving anything of value from the private educational lender or group of lenders. Nothing in this subsection prohibits the reimbursement of reasonable expenses incurred by an employee of a covered educational institution as part of their service on an advisory board, commission, or group described in this subsection.
 
 #### (e) Prohibition on prepayment or repayment fees or penalty
 

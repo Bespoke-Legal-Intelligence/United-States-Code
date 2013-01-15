@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) property of the estate, after the date of the filing of the petition;
 
-&emsp;(3) the debtor has concealed, destroyed, mutilated, falsified, or failed to keep or preserveany recorded information, including books, documents, records, and papers, from which the debtor's financial condition or business transactions might be ascertained, unless such act or failure to act was justified under all of the circumstances of the case;
+&emsp;(3) the debtor has concealed, destroyed, mutilated, falsified, or failed to keep or preserve any recorded information, including books, documents, records, and papers, from which the debtor's financial condition or business transactions might be ascertained, unless such act or failure to act was justified under all of the circumstances of the case;
 
 &emsp;(4) the debtor knowingly and fraudulently, in or in connection with the case—
 
@@ -46,7 +46,7 @@
 
 &emsp;(10) the court approves a written waiver of discharge executed by the debtor after the order for relief under this chapter;
 
-&emsp;(11) after filing the petition, the debtor failed to complete an instructional course concerning personal financial management described in section 111, except that this paragraph shall not apply with respect to a debtor who is a person described in section 109(h)(4) or who resides in a district for which the United States trustee (or the bankruptcy administrator, if any) determines that the approved instructional courses are not adequate to service the additional individuals who would otherwise be required to complete such instructional courses under this section (The United States trustee (or the bankruptcy administrator, if any) who makes a determination described in this paragraph shall review such determination not later than 1 year after the date of such determination, and not less frequently than annually thereafter.); or
+&emsp;(11) after filing the petition, the debtor failed to complete an instructional course concerning personal financial management described in section 111, except that this paragraph shall not apply with respect to a debtor who is a person described in section 109(h)(4) or who resides in a district for which the United States trustee (or the bankruptcy administrator, if any) determines that the approved instructional courses are not adequate to service the additional individuals who would otherwise be required to complete such instructional courses under this section (TheUnited States trustee (or the bankruptcy administrator, if any) who makes a determination described in this paragraph shall review such determination not later than 1 year after the date of such determination, and not less frequently than annually thereafter.); or
 
 &emsp;(12) the court after notice and a hearing held not more than 10 days before the date of the entry of the order granting the discharge finds that there is reasonable cause to believe that—
 
@@ -72,7 +72,7 @@
 
 &emsp;&emsp;(A) a material misstatement in an audit referred to in section 586(f) of title 28; or
 
-&emsp;&emsp;(B) a failure to make available for inspection all necessary accounts, papers, documents, financial records, files, and all other papers, things, or property belonging to thedebtor that are requested for an audit referred to in section 586(f) of title 28.
+&emsp;&emsp;(B) a failure to make available for inspection all necessary accounts, papers, documents, financial records, files, and all other papers, things, or property belonging to the debtor that are requested for an audit referred to in section 586(f) of title 28.
 
 (e) The trustee, a creditor, or the United States trustee may request a revocation of a discharge—
 
@@ -96,7 +96,7 @@ It is expected that the Rules of Bankruptcy Procedure will contain a provision p
 
 Section 727(a)(10) of the House amendment clarifies a provision contained in section 727(a)(9) of the House bill and Senate amendment indicating that a discharge may be barred if the court approves a waiver of discharge executed in writing by the debtor after the order for relief under chapter 7.
 
-Section 727(b) of the House amendment adopts a similar provision contained in the Senate amendment modifying the effect of discharge. The provision makes clear that the debtor is discharged from all debts that arose before the date of the order for relief under chapter 7 in addition to any debt which is determined under section 502 as if it were a prepetition claim. Thus, if a case is converted from chapter 11 or chapter 13 to a case under chapter 7, all debts prior to the time of conversion are discharged, in addition to debts determined after the date of conversion of a kind specified in section 502, that are to be determined as prepetition claims. This modification is particularly important with respect to an individual debtor who files a petition under chapter 11 or chapter 13 of title 11 if the case is converted to chapter 7. The logical result of the House amendment is to equate the result that obtains whether the case is converted from another chapter to chapter 7, or whether the other chapter proceeding is dismissed and a new case is commenced by filing a petition under chapter 7.
+Section 727(b) of the House amendment adopts a similar provision contained in the Senate amendment modifying the effect of discharge. The provision makes clear that the debtor is discharged from all debts that arose before the date of the order for relief under chapter 7 in addition to any debt which is determined under section 502 as if it were a prepetition claim. Thus, if a case is converted from chapter 11 or chapter 13 to a case under chapter 7, all debts prior to the time of conversion are discharged, in addition to debts determinedafter the date of conversion of a kind specified in section 502, that are to be determined as prepetition claims. This modification is particularly important with respect to an individual debtor who files a petition under chapter 11 or chapter 13 of title 11 if the case is converted to chapter 7. The logical result of the House amendment is to equate the result that obtains whether the case is converted from another chapter to chapter 7, or whether the other chapter proceeding is dismissed and a new case is commenced by filing a petition under chapter 7.
 
 #### senate report no. 95–989
 

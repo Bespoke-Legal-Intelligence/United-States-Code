@@ -28,7 +28,7 @@
 | [1011i.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/Part%20B%20-%20Additional%20General%20Provisions/%C2%A7%2001011i%20-%20Drug%20and%20alcohol%20abuse%20prevention.md) | Drug and alcohol abuse prevention. |
 | [1011j.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/Part%20B%20-%20Additional%20General%20Provisions/%C2%A7%2001011j%20-%20Prior%20rights%20and%20obligations.md) | Prior rights and obligations. |
 | [1011k.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/Part%20B%20-%20Additional%20General%20Provisions/%C2%A7%2001011k%20-%20Recovery%20of%20payments.md) | Recovery of payments. |
-| 1011<i>l</i>. | Diploma mills. |
+| [1011l.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/Part%20B%20-%20Additional%20General%20Provisions/%C2%A7%2001011l%20-%20Diploma%20mills.md) | Diploma mills. |
 | [1011m.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/Part%20B%20-%20Additional%20General%20Provisions/%C2%A7%2001011m%20-%20Certification%20regarding%20the%20use%20of%20certain%20Federal%20funds.md) | Certification regarding the use of certain Federal funds. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -249,7 +249,7 @@
 | [1067i.](Subchapter%20003%20%28III%29%20-%20Institutional%20Aid/Part%20E%20-%20Minority%20Science%20and%20Engineering%20Improvement%20Program/Subpart%20003%20-%20Administrative%20and%20General%20Provisions/%C2%A7%2001067i%20-%20Cross%20program%20and%20cross%20agency%20cooperation.md) | Cross program and cross agency cooperation. |
 | [1067j.](Subchapter%20003%20%28III%29%20-%20Institutional%20Aid/Part%20E%20-%20Minority%20Science%20and%20Engineering%20Improvement%20Program/Subpart%20003%20-%20Administrative%20and%20General%20Provisions/%C2%A7%2001067j%20-%20Administrative%20provisions.md) | Administrative provisions. |
 | [1067k.](Subchapter%20003%20%28III%29%20-%20Institutional%20Aid/Part%20E%20-%20Minority%20Science%20and%20Engineering%20Improvement%20Program/Subpart%20003%20-%20Administrative%20and%20General%20Provisions/%C2%A7%2001067k%20-%20Definitions.md) | Definitions. |
-| 1067<i>l</i>. | Repealed. |
+| [1067l.](Subchapter%20003%20%28III%29%20-%20Institutional%20Aid/Part%20E%20-%20Minority%20Science%20and%20Engineering%20Improvement%20Program/Subpart%20003%20-%20Administrative%20and%20General%20Provisions/%C2%A7%2001067l%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93244%2C%20title%20III%2C%20%C2%A7301%28a%29%288%29%2C%20Oct.%207%2C%201998%2C%20112%20Stat.%201636.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1022,11 +1022,11 @@
 |  |  |
 | :--- | ---: |
 | 1161<i>l.</i> | Student safety and campus emergency management. |
-| 1161<i>l</i>–1. | Model emergency response policies, procedures, and practices. |
-| 1161<i>l</i>–2. | Preparation for future disasters plan by the Secretary. |
-| 1161<i>l</i>–3. | Education Disaster and Emergency Relief Loan Program. |
-| 1161<i>l</i>–4. | Guidance on mental health disclosures for student safety. |
-| 1161<i>l</i>–5. | Rule of construction. |
+| 1161l–1. | Model emergency response policies, procedures, and practices. |
+| 1161l–2. | Preparation for future disasters plan by the Secretary. |
+| 1161l–3. | Education Disaster and Emergency Relief Loan Program. |
+| 1161l–4. | Guidance on mental health disclosures for student safety. |
+| 1161l–5. | Rule of construction. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

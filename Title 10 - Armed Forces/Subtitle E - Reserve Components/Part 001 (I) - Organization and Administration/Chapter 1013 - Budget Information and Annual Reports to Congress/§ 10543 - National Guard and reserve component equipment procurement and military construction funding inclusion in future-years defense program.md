@@ -36,9 +36,9 @@ Report.—(1) If the aggregate of the amounts specified in paragraphs (1) and (2
 
 #### Effective Date
 
-Section 1257(b) of Pub. L. 104–201 provided that: “Section 10543 of title 10, United States Code, as added by subsection (a), shall apply with respect to each future-years defense program submitted to Congress after the date of the enactment of this Act \[Sept. 23, 1996\].”
+Pub. L. 104–201, div. A, title XII, §1257(b), Sept. 23, 1996, 110 Stat. 2699, provided that: “Section 10543 of title 10, United States Code, as added by subsection (a), shall apply with respect to each future-years defense program submitted to Congress after the date of the enactment of this Act \[Sept. 23, 1996\].”
 
 #### Required Level of Detail
 
-Section 1009(b) of Pub. L. 105–85 provided that: “The level of detail provided for procurement and military construction in the future-years defense programs for fiscal years after fiscal year 1998 may not be less than the level of detail provided for procurement and military construction in the future-years defense program for fiscal year 1998.”
+Pub. L. 105–85, div. A, title X, §1009(b), Nov. 18, 1997, 111 Stat. 1872, provided that: “The level of detail provided for procurement and military construction in the future-years defense programs for fiscal years after fiscal year 1998 may not be less than the level of detail provided for procurement and military construction in the future-years defense program for fiscal year 1998.”
 

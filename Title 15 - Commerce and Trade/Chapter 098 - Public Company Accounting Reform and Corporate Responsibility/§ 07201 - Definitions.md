@@ -40,7 +40,7 @@ Except as otherwise specifically provided in this Act, in this Act, the followin
 
 #### (7) Issuer
 
-&emsp;The term “issuer” means an issuer (as defined in section 78c of this title), the securitiesof which are registered under section 78<i>l</i> of this title, or that is required to file reports under section 78<i>o</i>(d) of this title, or that files or has filed a registration statement that has not yet become effective under the Securities Act of 1933 (15 U.S.C. 77a et seq.), and that it has not withdrawn.
+&emsp;The term “issuer” means an issuer (as defined in section 78c of this title), the securities of which are registered under section 78l of this title, or that is required to file reports under section 78o(d) of this title, or that files or has filed a registration statement that has not yet become effective under the Securities Act of 1933 (15 U.S.C. 77a et seq.), and that it has not withdrawn.
 
 #### (8) Non-audit services
 
@@ -110,7 +110,7 @@ Except as otherwise specifically provided in this Act, in this Act, the followin
 
 #### (15) Securities laws
 
-&emsp;The term “securities laws” means the provisions of law referred to in section 78c(a)(47) of this title and includes the rules, regulations,and orders issued by the Commission thereunder.
+&emsp;The term “securities laws” means the provisions of law referred to in section 78c(a)(47) of this title and includes the rules, regulations, and orders issued by the Commission thereunder.
 
 #### (16) State
 
@@ -128,7 +128,7 @@ This Act, referred to in text, is Pub. L. 107–204, July 30, 2002, 116 Stat. 74
 
 The Securities Act of 1933, referred to in par. (7), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
-Title II, referred to in par. (10)(B), means title II of Pub. L. 107–204, July 30, 2002, 116 Stat. 771, which enacted subchapter II of this chapter and amended sections 78c, 78j–1, 78<i>l</i> and 78q of this title. For complete classification of title II to the Code, see Tables.
+Title II, referred to in par. (10)(B), means title II of Pub. L. 107–204, July 30, 2002, 116 Stat. 771, which enacted subchapter II of this chapter and amended sections 78c, 78j–1, 78l and 78q of this title. For complete classification of title II to the Code, see Tables.
 
 #### Amendments
 

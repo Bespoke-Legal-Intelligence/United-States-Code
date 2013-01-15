@@ -4,7 +4,7 @@ In this subchapter:
 
 &emsp;(1)
 
-Law enforcement agency.—The term “law enforcement agency” means an agency of a State, a political subdivision of a State, or a Federally recognized tribe that is authorizedby law to supervise the prevention, detection, investigation, or prosecution of any violation of criminal law.
+Law enforcement agency.—The term “law enforcement agency” means an agency of a State, a political subdivision of a State, or a Federally recognized tribe that is authorized by law to supervise the prevention, detection, investigation, or prosecution of any violation of criminal law.
 
 &emsp;(2)
 

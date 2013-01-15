@@ -12,6 +12,7 @@
 | :--- | ---: |
 | [4331\.](Subchapter%20001%20%28I%29%20-%20Policies%20and%20Goals/%C2%A7%2004331%20-%20Congressional%20declaration%20of%20national%20environmental%20policy.md) | Congressional declaration of national environmental policy. |
 | [4332\.](Subchapter%20001%20%28I%29%20-%20Policies%20and%20Goals/%C2%A7%2004332%20-%20Cooperation%20of%20agencies%3B%20reports%3B%20availability%20of%20information%3B%20recommendations%3B%20international%20and%20national%20coordination%20of%20efforts.md) | Cooperation of agencies; reports; availability of information; recommendations; international and national coordination of efforts. |
+| [4332a.](Subchapter%20001%20%28I%29%20-%20Policies%20and%20Goals/%C2%A7%2004332a%20-%20Accelerated%20decisionmaking%20in%20environmental%20reviews.md) | Accelerated decisionmaking in environmental reviews. |
 | [4333\.](Subchapter%20001%20%28I%29%20-%20Policies%20and%20Goals/%C2%A7%2004333%20-%20Conformity%20of%20administrative%20procedures%20to%20national%20environmental%20policy.md) | Conformity of administrative procedures to national environmental policy. |
 | [4334\.](Subchapter%20001%20%28I%29%20-%20Policies%20and%20Goals/%C2%A7%2004334%20-%20Other%20statutory%20obligations%20of%20agencies.md) | Other statutory obligations of agencies. |
 | [4335\.](Subchapter%20001%20%28I%29%20-%20Policies%20and%20Goals/%C2%A7%2004335%20-%20Efforts%20supplemental%20to%20existing%20authorizations.md) | Efforts supplemental to existing authorizations. |

@@ -1,14 +1,14 @@
 ### §2084. Audits by the Comptroller General
 
-The Comptroller General shall conduct annual audits of the transactions of the Commission and shall report the results of each audit to the Congress.
+The Comptroller General shall conduct periodic audits of the transactions of the Commission, which shall be conducted at least once every 3 years, unless the Chairman or the Ranking Member of the Committee on Rules and Administration of the Senate or the Committee on House Administration of the House of Representatives, the Secretary of the Senate, or the Clerk of the House of Representatives requests that an audit be conducted at an earlier date, and shall report the results of each audit to the Congress.
 
-(Pub. L. 100–696, title VIII, §804, Nov. 18, 1988, 102 Stat. 4610.)
+(Pub. L. 100–696, title VIII, §804, Nov. 18, 1988, 102 Stat. 4610; Pub. L. 112–234, §2(a), Dec. 28, 2012, 126 Stat. 1624.)
 
 #### Codification
 
 Section was classified to section 188a–3 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
 
-#### Termination of Reporting Requirements
+#### Amendments
 
-For termination, effective May 15, 2000, of provisions in this section relating to the requirement that the Comptroller General report the results of annual audits to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 2 of House Document No. 103–7.
+<b>2012</b>—Pub. L. 112–234 substituted “periodic audits of the transactions of the Commission, which shall be conducted at least once every 3 years, unless the Chairman or the Ranking Member of the Committee on Rules and Administration of the Senate or the Committee on House Administration of the House of Representatives, the Secretary of the Senate, or the Clerk of the House of Representatives requests that an audit be conducted at an earlier date,” for “annual audits of the transactions of the Commission”.
 

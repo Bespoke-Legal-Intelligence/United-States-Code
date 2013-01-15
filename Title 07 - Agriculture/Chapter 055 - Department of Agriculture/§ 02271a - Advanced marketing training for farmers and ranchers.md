@@ -6,7 +6,7 @@ The Secretary of Agriculture may establish a program to train farmers and ranche
 
 #### Study and Report of Marketing Practices of Applicants and Borrowers of Farm Loans
 
-Section 206(a) of Pub. L. 99–641 provided that:
+Pub. L. 99–641, title II, §206(a), Nov. 10, 1986, 100 Stat. 3563, provided that:
 
 “(1)
 

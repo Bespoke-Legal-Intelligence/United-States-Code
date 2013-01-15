@@ -26,5 +26,5 @@ This chapter, referred to in subsec. (b)(2), was in the original “this Act”,
 
 #### Short Title
 
-Section 1101 of title XI of Pub. L. 101–628 provided that: “This title \[enacting this chapter\] may be cited as the ‘Take Pride in America Act’.”
+Pub. L. 101–628, title XI, §1101, Nov. 28, 1990, 104 Stat. 4502, provided that: “This title \[enacting this chapter\] may be cited as the ‘Take Pride in America Act’.”
 

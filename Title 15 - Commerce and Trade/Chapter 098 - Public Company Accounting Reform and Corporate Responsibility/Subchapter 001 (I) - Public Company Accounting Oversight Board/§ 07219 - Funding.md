@@ -46,7 +46,7 @@ The amount of fees collected under this section for a fiscal year on behalf of t
 
 #### (g) Allocation of accounting support fees among issuers
 
-Any amount due from issuers (or a particular class of issuers) under this section to fund thebudget of the Board or the standard setting body referred to in subsection (a) of this section shall be allocated among and payable by each issuer (or each issuer in a particular class, as applicable) in an amount equal to the total of such amount, multiplied by a fraction—
+Any amount due from issuers (or a particular class of issuers) under this section to fund the budget of the Board or the standard setting body referred to in subsection (a) of this section shall be allocated among and payable by each issuer (or each issuer in a particular class, as applicable) in an amount equal to the total of such amount, multiplied by a fraction—
 
 &emsp;(1) the numerator of which is the average monthly equity market capitalization of the issuer for the 12-month period immediately preceding the beginning of the fiscal year to which such budget relates; and
 
@@ -60,7 +60,7 @@ Any amount due from issuers (or a particular class of issuers) under this sectio
 
 #### (2) Allocation
 
-&emsp;Any amount due from a broker or dealer (or from a particular class of brokers and dealers) under this section shall be allocated among brokers and dealers and payable by the broker or dealer (or the brokers and dealers in the particular class, as applicable).
+&emsp;Any amount due from a broker or dealer (or from a particular class of brokers and dealers)under this section shall be allocated among brokers and dealers and payable by the broker or dealer (or the brokers and dealers in the particular class, as applicable).
 
 #### (3) Proportionality
 

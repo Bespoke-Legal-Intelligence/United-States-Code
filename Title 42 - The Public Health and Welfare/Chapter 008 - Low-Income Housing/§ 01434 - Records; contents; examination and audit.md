@@ -26,5 +26,5 @@ Section was formerly classified to sections 1446 of this title and 1715s of Titl
 
 #### Effective Date
 
-The fourth sentence of section 814 of act Aug. 2, 1954 (prior to the amendment by section 908 of act June 30, 1961) provided that this section is effective on first day after first calendar month following the date of approval of the act (Aug. 2, 1954).
+The fourth sentence of section 814 of act Aug. 2, 1954, ch. 649, 68 Stat. 647 (prior to the amendment by section 908 of Pub. L. 87–70), provided that this section is effective on first day after first calendar month following the date of approval of the act (Aug. 2, 1954).
 

@@ -134,7 +134,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For purposes of this paragraph, the term “qualified nonguaranteed contract” meansany insurance contract (including a reasonable premium stabilization reserve held thereunder) if—
+&emsp;&emsp;&emsp;For purposes of this paragraph, the term “qualified nonguaranteed contract” means any insurance contract (including a reasonable premium stabilization reserve held thereunder) if—
 
 &emsp;&emsp;&emsp;&emsp;(I) there is no guarantee of a renewal of such contract, and
 
@@ -192,7 +192,7 @@ Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if inc
 
 #### Effective Date
 
-Section 511(e) of Pub. L. 98–369, as amended by Pub. L. 99–514, title XVIII, §1851(a)(12), (14), Oct. 22, 1986, 100 Stat. 2862, provided that:
+Pub. L. 98–369, div. A, title V, §511(e), July 18, 1984, 98 Stat. 862, as amended by Pub. L. 99–514, title XVIII, §1851(a)(12), (14), Oct. 22, 1986, 100 Stat. 2862, provided that:
 
 “(1)
 
@@ -238,9 +238,9 @@ Amendments related to excise taxes on certain welfare benefit plans.—The amend
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Effective Date of Regulations
 
-Section 1851(a)(8)(B) of Pub. L. 99–514 provided that: “Except in the case of a reserve for post-retirement medical or life insurance benefits and any other arrangement between an insurance company and an employer under which the employer has a contractual right to a refund or dividend based solely on the experience of such employer, any account held for an employer by any person and defined as a fund in regulations issued pursuant to section 419(e)(3)(C) of the Internal Revenue Code of 1954 \[now 1986\] shall be considered a ‘fund’ no earlier than 6 months following the date such regulations are published in final form.”
+Pub. L. 99–514, title XVIII, §1851(a)(8)(B), Oct. 22, 1986, 100 Stat. 2860, provided that: “Except in the case of a reserve for post-retirement medical or life insurance benefits and any other arrangement between an insurance company and an employer under which the employer has a contractual right to a refund or dividend based solely on the experience of such employer, any account held for an employer by any person and defined as a fund in regulations issued pursuant to section 419(e)(3)(C) of the Internal Revenue Code of 1954 \[now 1986\] shall be considered a ‘fund’ no earlier than 6 months following the date such regulations are published in final form.”
 

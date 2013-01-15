@@ -70,7 +70,7 @@ A food additive shall, with respect to any particular use or intended use of suc
 
 #### (d) Regulation issued on Secretary's initiative
 
-The Secretary may at any time, upon his own initiative, propose the issuance of a regulation prescribing, with respect to any particular useof a food additive, the conditions under which such additive may be safely used, and the reasons therefor. After the thirtieth day following publication of such a proposal, the Secretary may by order establish a regulation based upon the proposal.
+The Secretary may at any time, upon his own initiative, propose the issuance of a regulation prescribing, with respect to any particular use of a food additive, the conditions under which such additive may be safely used, and the reasons therefor. After the thirtieth day following publication of such a proposal, the Secretary may by order establish a regulation based upon the proposal.
 
 #### (e) Publication and effective date of orders
 
@@ -104,7 +104,7 @@ Any order, including any regulation established by such order, issued under subs
 
 (B) A decision by the Secretary to object to a notification shall constitute final agency action subject to judicial review.
 
-(C) In this paragraph, the term “food contact substance” means the substance that is the subject of a notification submitted under paragraph\(1), and does not include a similar or identical substance manufactured or prepared by a person other than the manufacturer identified in the notification.
+(C) In this paragraph, the term “food contact substance” means the substance that is the subject of a notification submitted under paragraph (1), and does not include a similar or identical substance manufactured or prepared by a person other than the manufacturer identified in the notification.
 
 (3)(A) The process in this subsection shall be utilized for authorizing the marketing of a food contact substance except where the Secretary determines that submission and review of a petition under subsection (b) of this section is necessary to provide adequate assurance of safety, or where the Secretary and any manufacturer or supplier agree that such manufacturer or supplier may submit a petition under subsection (b) of this section.
 
@@ -122,7 +122,7 @@ Any order, including any regulation established by such order, issued under subs
 
 &emsp;(I) an appropriation equal to or exceeding the applicable amount under clause (iii) is made for the last six months of fiscal year 1999 for carrying out such program during such period; and
 
-&emsp;(II) the Secretary certifies that the amount appropriated for such period for the Center for Food Safety and Applied Nutrition of the Food and Drug Administration (exclusive of the appropriation referred to in subclause (I)) equals or exceeds an amount equivalent to one-half the amount appropriated for the Center for fiscal year 1997, excluding any amount appropriated for new programs.
+&emsp;(II) the Secretary certifies that the amount appropriated for such period for the Center for Food Safety and Applied Nutrition of the Food and Drug Administration (exclusive of the appropriation referred to in subclause (I)) equals or exceeds an amount equivalent to one-halfthe amount appropriated for the Center for fiscal year 1997, excluding any amount appropriated for new programs.
 
 (iii) For the last six months of fiscal year 1999, the applicable amount under this clause is $1,500,000, or the amount specified in the budget request of the President for the six-month period involved for carrying out the notification program in fiscal year 1999, whichever is less.
 
@@ -146,7 +146,7 @@ Without regard to subsections (b) to (i), inclusive, of this section, the Secret
 
 #### Amendments
 
-<b>1997</b>—Subsec. (a). Pub. L. 105–115, §309(a)(4), in closing provisions, substituted “While such a regulation relating to a food additive, or such a notification under subsection (h)(1) of this section relating to a food additive that is a food contact substance, is in effect, and has not been revoked pursuant to subsection (i) of this section, a food shall not, by reason of bearing or containing such a food additive in accordance with the regulation or notification, be considered adulterated undersection 342(a)(1) of this title.” for “While such a regulation relating to a food additive is in effect, a food shall not, by reason of bearing or containing such an additive in accordance with the regulation, be considered adulterated within the meaning of clause (1) of section 342(a) of this title.”
+<b>1997</b>—Subsec. (a). Pub. L. 105–115, §309(a)(4), in closing provisions, substituted “While such a regulation relating to a food additive, or such a notification under subsection (h)(1) of this section relating to a food additive that is a food contact substance, is in effect, and has not been revoked pursuant to subsection (i) of this section, a food shall not, by reason of bearing or containing such a food additive in accordance with the regulation or notification, be considered adulterated under section 342(a)(1) of this title.” for “While such a regulation relating to a food additive is in effect, a food shall not, by reason of bearing or containing such an additive in accordance with the regulation, be considered adulterated within the meaning of clause (1) of section 342(a) of this title.”
 
 Subsec. (a)(1). Pub. L. 105–115, §309(a)(1), substituted “subsection (j)” for “subsection (i)”.
 
@@ -176,7 +176,7 @@ Amendment by Pub. L. 105–115 effective 90 days after Nov. 21, 1997, except as 
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, see section 403 of Pub. L. 98–620, set out as an Effective Date note under section 1657 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, see section 403 of Pub. L. 98–620,set out as an Effective Date note under section 1657 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1962 Amendment; Exceptions
 
@@ -188,7 +188,7 @@ Section effective Sept. 6, 1958, see section 6(a) of Pub. L. 85–929, set out a
 
 #### Glass and Ceramic Ware
 
-Section 308 of Pub. L. 105–115 provided that:
+Pub. L. 105–115, title III, §308, Nov. 21, 1997, 111 Stat. 2353, provided that:
 
 “(a)
 
@@ -214,5 +214,5 @@ Pub. L. 95–203, §3, Nov. 23, 1977, 91 Stat. 1452, as amended by Pub. L. 96–
 
 > solely on the basis of the carcinogenic or other toxic effect of saccharin as determined by any study made available to the Secretary before the date of the enactment of this Act \[Nov. 23, 1977\] which involved human studies or animal testing, or both.”
 
-For definition of “saccharin” as used in this note, see section 2(d) of Pub. L. 95–203.
+\[Definition of “saccharin” as used in section 3 of Pub. L. 95–203, set out above, to include calcium saccharin, sodium saccharin, and ammonium saccharin, see Pub. L. 95–203, §2(d), Nov. 23, 1997, 91 Stat. 1452.\]
 

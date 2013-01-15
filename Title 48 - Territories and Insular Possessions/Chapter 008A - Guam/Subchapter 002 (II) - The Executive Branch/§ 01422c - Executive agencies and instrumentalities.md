@@ -2,7 +2,7 @@
 
 #### (a) Appointment of heads; establishment of merit system; Civil Service Commission
 
-The Governor shall, except as otherwise provided in this chapter or the laws of Guam, appoint, by and with the advice and consent of thelegislature, all heads of executive agencies and instrumentalities. The legislature shall establish a merit system and, as far as practicable, appointments and promotions shall be made in accordance with such merit system. The Government of Guam may by law establish a Civil Service Commission to administer the merit system. Members of the commission may be removed as provided by the laws of Guam.
+The Governor shall, except as otherwise provided in this chapter or the laws of Guam, appoint, by and with the advice and consent of the legislature, all heads of executive agencies and instrumentalities. The legislature shall establish a merit system and, as far as practicable, appointments and promotions shall be made in accordance with such merit system. The Government of Guam may by law establish a Civil Service Commission to administer the merit system. Members of the commission may be removed as provided by the laws of Guam.
 
 #### (b) Powers and duties of officers
 
@@ -28,7 +28,7 @@ Subsec. (b). Pub. L. 90–497, §4(b), struck out provision authorizing the Gove
 
 #### Effective Date of 1968 Amendment
 
-Section 4(a) of Pub. L 90–497 provided that the amendment made by such section 4(a) is effective on date of enactment of Pub. L. 90–497, which was approved on Sept. 11, 1968.
+Pub. L 90–497, §4(a), Sept. 11, 1968, 82 Stat. 845, provided that the amendment made by such section 4(a) is effective on date of enactment of Pub. L. 90–497, which was approved on Sept. 11, 1968.
 
 Amendment by Pub. L. 90–497 necessary to authorize the holding of an election for Governor and Lieutenant Governor on Nov. 3, 1970, effective Jan. 1, 1970, and all other amendments unless otherwise provided effective Jan. 4, 1971, see section 13 of Pub. L. 90–497, set out as a note under section 1422 of this title.
 

@@ -40,7 +40,7 @@ Section 1335, acts Mar. 4, 1911, ch. 285, §6, 36 Stat. 1452; Sept. 26, 1950, ch
 
 Section 1336, acts Aug. 24, 1912, ch. 390, §7, 37 Stat. 564; Sept. 21, 1922, ch. 370, §1, 42 Stat. 1004; Feb. 16, 1933, ch. 91, §1, 47 Stat. 1038, related to notaries public.
 
-Section 1336a, acts June 30, 1932, ch. 314, §§501, 502, 47 Stat. 415; Feb. 16, 1933, ch. 88, §1, 47 Stat. 811, related to rules and regulations of steamboat inspection.
+Section 1336a, acts June 30, 1932, ch. 314, pt. II, title V, §§501, 502, 47 Stat. 415; Feb. 16, 1933, ch. 88, §1, 47 Stat. 811, related to rules and regulations of steamboat inspection.
 
 Section 1336b, act Feb. 16, 1933, ch. 88, §2, 47 Stat. 811, related to inspection of foreign vessels.
 
@@ -48,7 +48,7 @@ Section 1336c, acts Feb. 16, 1933, ch. 88, §3, 47 Stat. 811; Sept. 26, 1950, ch
 
 Section 1336d, act Feb. 16, 1933, ch. 88, §4, 47 Stat. 811, related to refusal of certificate.
 
-Section 1336e, acts June 30, 1932, ch. 314, §501, 47 Stat. 415; Feb. 16, 1933, ch. 88, §5, 47 Stat. 811; May 27, 1936, ch. 463, §1, 49 Stat. 1380; Sept. 26, 1950, ch. 1049, (2)(a), (1), 64 Stat. 1038, related to navigating waters without lawful certificate.
+Section 1336e, acts June 30, 1932, ch. 314, pt. II, title V, §501, 47 Stat. 415; Feb. 16, 1933, ch. 88, §5, 47 Stat. 811; May 27, 1936, ch. 463, §1, 49 Stat. 1380; Sept. 26, 1950, ch. 1049, (2)(a), (1), 64 Stat. 1038, related to navigating waters without lawful certificate.
 
 Section 1336f, acts Feb. 16, 1933, ch. 88, §6, 47 Stat. 811; Sept. 26, 1950, ch. 1049, §2(a)(1), 64 Stat. 1038, related to revocation of certificate.
 

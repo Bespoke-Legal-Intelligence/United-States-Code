@@ -18,7 +18,7 @@ The Secretary may terminate a right of use and occupancy retained pursuant to th
 
 #### (e) “Improved property” defined
 
-The term “improved property”, as used in this section shall mean a detached, noncommercial residential dwelling, the construction of which was begun before January 1, 1975 (hereafter referred to as “dwelling”), together with so much of the land on which the dwelling is situated, the said land being in the same ownership as the dwelling, as the Secretary shall designate to be reasonably necessary for the enjoyment of the dwelling for the sole purpose of noncommercial residential use, together with any structures accessory to the dwelling which are situated on the land so designated.
+The term “improved property”, as used in this section shall mean a detached, noncommercialresidential dwelling, the construction of which was begun before January 1, 1975 (hereafter referred to as “dwelling”), together with so much of the land on which the dwelling is situated, the said land being in the same ownership as the dwelling, as the Secretary shall designate to be reasonably necessary for the enjoyment of the dwelling for the sole purpose of noncommercial residential use, together with any structures accessory to the dwelling which are situated on the land so designated.
 
 (Pub. L. 94–337, §2, July 4, 1976, 90 Stat. 796; Pub. L. 96–287, title III, §301(1), June 28, 1980, 94 Stat. 601; Pub. L. 103–437, §6(a)(3), Nov. 2, 1994, 108 Stat. 4583.)
 

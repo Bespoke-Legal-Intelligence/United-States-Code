@@ -6,7 +6,7 @@ Subject to subsection (b) of this section, any alien who—
 
 &emsp;(1) has been denied admission, excluded, deported, or removed or has departed the United States while an order of exclusion, deportation, or removal is outstanding, and thereafter
 
-&emsp;(2) enters, attempts to enter, or is at any time found in, the United States, unless (A) prior to his reembarkation at a place outside the United States or his application for admission from foreign contiguous territory, the Attorney General has expressly consented to such alien's reapplying for admission; or (B) with respect to an alien previously denied admission and removed, unless such alien shall establish that he was not required to obtain such advance consent under this chapter or any prior Act,
+&emsp;(2) enters, attempts to enter, or is at any time found in, the United States, unless (A) prior to his reembarkation at a place outsidethe United States or his application for admission from foreign contiguous territory, the Attorney General has expressly consented to such alien's reapplying for admission; or (B) with respect to an alien previously denied admission and removed, unless such alien shall establish that he was not required to obtain such advance consent under this chapter or any prior Act,
 
 > shall be fined under title 18, or imprisoned not more than 2 years, or both.
 
@@ -72,7 +72,7 @@ Subsec. (c). Pub. L. 104–132, §438(b), added subsec. (c).
 
 Subsec. (d). Pub. L. 104–132, §441(a), added subsec. (d).
 
-<b>1994</b>—Subsec. (b). Pub. L. 103–322, in par. (1), inserted “three or more misdemeanors involving drugs, crimes against the person, or both, or” after “commission of” and substituted “10” for “5”, in par. (2), substituted “20” for “15”, and added concluding sentence.
+<b>1994</b>—Subsec. (b). Pub. L. 103–322, in par. (1), inserted “three or more misdemeanors involving drugs, crimesagainst the person, or both, or” after “commission of” and substituted “10” for “5”, in par. (2), substituted “20” for “15”, and added concluding sentence.
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–649 substituted “shall be fined under title 18, or imprisoned not more than 2 years” for “shall be guilty of a felony, and upon conviction thereof, be punished by imprisonment of not more than two years, or by a fine of not more than $1,000”.
 
@@ -82,11 +82,11 @@ Subsec. (d). Pub. L. 104–132, §441(a), added subsec. (d).
 
 Amendment by sections 305(b) and 308(d)(4)(J), (e)(1)(K), (14)(A) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
-Section 324(c) of div. C of Pub. L. 104–208 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to departures that occurred before, on, or after the date of the enactment of this Act \[Sept. 30, 1996\], but only with respect to entries (and attempted entries) occurring on or after such date.”
+Pub. L. 104–208, div. C, title III, §324(c), Sept. 30, 1996, 110 Stat. 3009–629, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to departures that occurred before, on, or after the date of the enactment of this Act \[Sept. 30, 1996\], but only with respect to entries (and attempted entries) occurring on or after such date.”
 
-Section 401(f) of Pub. L. 104–132 provided that: “The amendments made by this section \[enacting sections 1531 to 1537 of this title and amending this section and section 1105a of this title\] shall take effect on the date of enactment of this Act \[Apr. 24, 1996\] and shall apply to all aliens without regard to the date of entry or attempted entry into the United States.”
+Pub. L. 104–132, title IV, §401(f), Apr. 24, 1996, 110 Stat. 1268, provided that: “The amendments made by this section \[enacting sections 1531 to 1537 of this title and amending this section and section 1105a of this title\] shall take effect on the date of enactment of this Act \[Apr. 24, 1996\] and shall apply to all aliens without regard to the date of entry or attempted entry into the United States.”
 
-Section 441(b) of Pub. L. 104–132 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to criminal proceedings initiated after the date of enactment of this Act \[Apr. 24, 1996\].”
+Pub. L. 104–132, title IV, §441(b), Apr. 24, 1996, 110 Stat. 1279, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to criminal proceedings initiated after the date of enactment of this Act \[Apr. 24, 1996\].”
 
 #### Effective Date of 1990 Amendment
 
@@ -94,7 +94,7 @@ Amendment by Pub. L. 101–649 applicable to actions taken after Nov. 29, 1990, 
 
 #### Effective Date of 1988 Amendment
 
-Section 7345(b) of Pub. L. 100–690 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to any alien who enters, attempts to enter, or is found in, the United States on or after the date of the enactment of this Act \[Nov. 18, 1988\].”
+Pub. L. 100–690, title VII, §7345(b), Nov. 18, 1988, 102 Stat. 4471, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to any alien who enters, attempts to enter, or is found in, the United States on or after the date of the enactment of this Act \[Nov. 18, 1988\].”
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

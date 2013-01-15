@@ -2,11 +2,11 @@
 
 #### (a) In general
 
-The Secretary shall manage the Conservation Area in a manner that conserves, protects, and enhances its resources and values, including the resources and values specified in section 460<i>ooo</i>–3(a) of this title, pursuant to the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 et seq.) and other applicable law, including this subchapter.
+The Secretary shall manage the Conservation Area in a manner that conserves, protects, and enhances its resources and values, including the resources and values specified in section 460ooo–3(a) of this title, pursuant to the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 et seq.) and other applicable law, including this subchapter.
 
 #### (b) Uses
 
-The Secretary shall allow only such uses of the Conservation Area as the Secretary finds will further the purposes for which the Conservation Area is established as set forth in section 460<i>ooo</i>–3(a) of this title.
+The Secretary shall allow only such uses of the Conservation Area as the Secretary finds will further the purposes for which the Conservation Area is established as set forth in section 460ooo–3(a) of this title.
 
 #### (c) Grazing
 
@@ -16,9 +16,9 @@ The Secretary of the Interior shall permit grazing subject to all applicable law
 
 Except where needed for administrative purposes or to respond to an emergency, use of motorized vehicles on public lands in the Conservation Area shall be allowed only—
 
-&emsp;(1) before the effective date of a management plan prepared pursuant to section 460<i>ooo</i>–5 of this title, on roads and trails designated for use of motorized vehicles in the management plan that applies on December 6, 2000; and
+&emsp;(1) before the effective date of a management plan prepared pursuant to section 460ooo–5 of this title, on roads and trails designated for use of motorized vehicles in the management plan that applies on December 6, 2000; and
 
-&emsp;(2) after the effective date of a management plan prepared pursuant to section 460<i>ooo</i>–5 ofthis title, on roads and trails designated for use of motor vehicles in that management plan.
+&emsp;(2) after the effective date of a management plan prepared pursuant to section 460ooo–5 of this title, on roads and trails designated for use of motor vehicles in that management plan.
 
 #### (e) Military airspace
 

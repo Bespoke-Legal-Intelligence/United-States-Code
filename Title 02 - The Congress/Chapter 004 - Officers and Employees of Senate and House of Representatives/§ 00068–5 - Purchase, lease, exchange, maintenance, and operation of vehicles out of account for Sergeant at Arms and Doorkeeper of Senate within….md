@@ -18,7 +18,7 @@ Section is from the Supplemental Appropriations Act, 1985.
 
 #### Effective Date of 1987 Amendment
 
-Section 101(i) \[title I, §3(b)\] of Pub. L. 100–202 provided that: “The amendments made by subsection (a) \[amending this section\] shall be effective in the case of fiscal years ending after September 30, 1986.”
+Pub. L. 100–202, §101(i) \[title I, §3(b)\], Dec. 22, 1987, 101 Stat. 1329–290, 1329–294, provided that: “The amendments made by subsection (a) \[amending this section\] shall be effective in the case of fiscal years ending after September 30, 1986.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

@@ -86,6 +86,10 @@ The Controlled Substances Act, referred to in par. (6)(A), is title II of Pub. L
 
 This chapter, referred to in par. (10)(B)(i), was in the original “this Act”, meaning Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
 
+#### Constitutionality
+
+For constitutionality of section 101 of Pub. L. 101–336, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+
 #### Amendments
 
 <b>2008</b>—Par. (8). Pub. L. 110–325 struck out “with a disability” after “individual” in heading and the first two places appearing in text.
@@ -102,5 +106,5 @@ Amendment by Pub. L. 102–166 inapplicable to conduct occurring before Nov. 21,
 
 #### Effective Date
 
-Section 108 of title I of Pub. L. 101–336 provided that: “This title \[enacting this subchapter\] shall become effective 24 months after the date of enactment \[July 26, 1990\].”
+Pub. L. 101–336, title I, §108, July 26, 1990, 104 Stat. 337, provided that: “This title \[enacting this subchapter\] shall become effective 24 months after the date of enactment \[July 26, 1990\].”
 

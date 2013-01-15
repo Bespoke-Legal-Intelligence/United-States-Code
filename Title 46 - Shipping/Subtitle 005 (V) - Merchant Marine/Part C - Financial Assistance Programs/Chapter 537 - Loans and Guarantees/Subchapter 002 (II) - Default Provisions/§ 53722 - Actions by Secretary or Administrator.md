@@ -44,7 +44,7 @@ Additional Responses.—If there is a default on an obligation, the Secretary or
 
 &emsp;(4) requires appraisal of assets by an independent appraiser.
 
-(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1618; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(C),\(F), Jan. 6, 2006, 119 Stat. 3555; Pub. L. 110–181, div. C, title XXXV, §3522(a)(10)(B), (11), (b), Jan. 28, 2008, 122 Stat. 598.)
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1618; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(C), (F), Jan. 6, 2006, 119 Stat. 3555; Pub. L. 110–181, div. C, title XXXV, §3522(a)(10)(B), (11), (b), Jan. 28, 2008, 122 Stat. 598.)
 
 Historical and Revision Notes
 

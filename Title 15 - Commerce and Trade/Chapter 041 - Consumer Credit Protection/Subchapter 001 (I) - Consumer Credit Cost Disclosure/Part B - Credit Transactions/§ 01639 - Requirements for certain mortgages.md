@@ -46,9 +46,9 @@
 
 &emsp;The Bureau may, if it finds that such action is necessary to permit homeowners to meet bona fide personal financial emergencies, prescribe regulations authorizing the modification or waiver of rights created under this subsection, to the extent and under the circumstances set forth in those regulations.
 
-#### (c) No Prepayment penalty
+#### (c) No prepayment penalty
 
-#### (1) In general
+#### (1) In general <sup>2</sup>
 
 #### (A) Limitation on terms
 
@@ -58,29 +58,13 @@
 
 &emsp;&emsp;For purposes of this subsection, any method of computing a refund of unearned scheduled interest is a prepayment penalty if it is less favorable to the consumer than the actuarial method (as that term is defined in section 1615(d) of this title).
 
-#### (2) Exception
-
-&emsp;Notwithstanding paragraph (1), a mortgage referred to in section 1602(aa) <sup>1</sup> of this title may contain a prepayment penalty (including terms calculating a refund by a method that is not prohibited under section 1615(b) of this title for the transaction in question) if—
-
-&emsp;&emsp;(A) at the time the mortgage is consummated—
-
-&emsp;&emsp;&emsp;(i) the consumer is not liable for an amount of monthly indebtedness payments (including the amount of credit extended or to be extended under the transaction) that is greater than 50 percent of the monthly gross income of the consumer; and
-
-&emsp;&emsp;&emsp;(ii) the income and expenses of the consumer are verified by a financial statement signed by the consumer, by a credit report, and in the case of employment income, by payment records or by verification from the employer of the consumer (which verification may be in the form of a copy of a pay stub or other payment record supplied by the consumer);
-
-&emsp;&emsp;(B) the penalty applies only to a prepayment made with amounts obtained by the consumer by means other than a refinancing by the creditor under the mortgage, or an affiliate of that creditor;
-
-&emsp;&emsp;(C) the penalty does not apply after the end of the 5-year period beginning on the date on which the mortgage is consummated; and
-
-&emsp;&emsp;(D) the penalty is not prohibited under other applicable law.
-
 #### (d) Limitations after default
 
-A mortgage referred to in section 1602(aa) <sup>1</sup> of this title may not provide for an interest rate applicable after default that is higher than the interest rate that applies before default. If the date of maturity of a mortgage referred to in subsection <sup>2</sup> 1602(aa) <sup>1</sup> of this title is accelerated due to default and the consumer is entitled to a rebate of interest, that rebate shall be computed by any method that is not less favorable than the actuarial method (as that term is defined in section 1615(d) of this title).
+A mortgage referred to in section 1602(aa) <sup>1</sup> of this title may not provide for an interest rate applicable after default that is higher than the interest rate that applies before default. If the date of maturity of a mortgage referred to in subsection <sup>3</sup> 1602(aa) <sup>1</sup> of this title is accelerated due to default and the consumer is entitled to a rebate of interest, that rebate shall be computed by any method that is not less favorable than the actuarial method (as that term is defined in section 1615(d) of this title).
 
 #### (e) No balloon payments
 
-A mortgage referred to in section 1602(aa) <sup>1</sup> of this title having a term of less than 5 years may not include terms under which the aggregate amount of the regular periodic payments would not fully amortize the outstanding principal balance.
+No high-cost mortgage may contain a scheduled payment that is more than twice as large as the average of earlier scheduled payments. This subsection shall not apply when the payment schedule is adjusted to the seasonal or irregular income of the consumer.
 
 #### (f) No negative amortization
 
@@ -102,15 +86,53 @@ A creditor shall not make a payment to a contractor under a home improvement con
 
 &emsp;(2) at the election of the consumer, by a third party escrow agent in accordance with terms established in a written agreement signed by the consumer, the creditor, and the contractor before the date of payment.
 
-#### (j) Consequence of failure to comply
+#### (j) Recommended default
+
+No creditor shall recommend or encourage default on an existing loan or other debt prior to and in connection with the closing or planned closing of a high-cost mortgage that refinances all or any portion of such existing loan or debt.
+
+#### (k) Late fees
+
+#### (1) In general
+
+&emsp;No creditor may impose a late payment charge or fee in connection with a high-cost mortgage—
+
+&emsp;&emsp;(A) in an amount in excess of 4 percent of the amount of the payment past due;
+
+&emsp;&emsp;(B) unless the loan documents specifically authorize the charge or fee;
+
+&emsp;&emsp;(C) before the end of the 15-day period beginning on the date the payment is due, or in the case of a loan on which interest on each installment is paid in advance, before the end of the 30-day period beginning on the date the payment is due; or
+
+&emsp;&emsp;(D) more than once with respect to a single late payment.
+
+#### (2) Coordination with subsequent late fees
+
+&emsp;If a payment is otherwise a full payment for the applicable period and is paid on its due date or within an applicable grace period, and the only delinquency or insufficiency of payment is attributable to any late fee or delinquency charge assessed on any earlier payment, no late fee or delinquency charge may be imposed on such payment.
+
+#### (3) Failure to make installment payment
+
+&emsp;If, in the case of a loan agreement the terms of which provide that any payment shall first be applied to any past due principal balance, the consumer fails to make an installment payment and the consumer subsequently resumes making installment payments but has not paid all past due installments, the creditor may impose a separate late payment charge or fee for any principal due (without deduction due to late fees or related fees) until the default is cured.
+
+#### (l) Acceleration of debt
+
+No high-cost mortgage may contain a provision which permits the creditor to accelerate the indebtedness, except when repayment of the loan has been accelerated by default in payment, or pursuant to a due-on-sale provision, or pursuant to a material violation of some other provision of the loan document unrelated to payment schedule.
+
+#### (m) Restriction on financing points and fees
+
+No creditor may directly or indirectly finance, in connection with any high-cost mortgage, any of the following:
+
+&emsp;(1) Any prepayment fee or penalty payable by the consumer in a refinancing transaction if the creditor or an affiliate of the creditor is the noteholder of the note being refinanced.
+
+&emsp;(2) Any points or fees.
+
+#### (n) Consequence of failure to comply
 
 Any mortgage that contains a provision prohibited by this section shall be deemed a failure to deliver the material disclosures required under this subchapter, for the purpose of section 1635 of this title.
 
-#### (k) “Affiliate” defined
+#### (o) “Affiliate” defined
 
 For purposes of this section, the term “affiliate” has the same meaning as in section 1841(k) of title 12.
 
-#### (<i>l</i>) Discretionary regulatory authority of Bureau
+#### (p) Discretionary regulatory authority of Bureau
 
 #### (1) Exemptions
 
@@ -128,143 +150,83 @@ For purposes of this section, the term “affiliate” has the same meaning as i
 
 &emsp;&emsp;(B) refinancing of mortgage loans that the Bureau finds to be associated with abusive lending practices, or that are otherwise not in the interest of the borrower.
 
-#### (m) Civil penalties in Federal Trade Commission enforcement actions
+#### (q) Civil penalties in Federal Trade Commission enforcement actions
 
-For purposes of enforcement by the Federal Trade Commission, any violation of a regulation issued by the Bureau pursuant to subsection\(<i>l</i>)(2) shall be treated as a violation of a rule promulgated under section 57a of this title regarding unfair or deceptive acts or practices.
+For purposes of enforcement by the Federal Trade Commission, any violation of a regulation issued by the Bureau pursuant to subsection (l)(2) shall be treated as a violation of a rule promulgated under section 57a of this title regarding unfair or deceptive acts or practices.
+
+#### (r) Prohibitions on evasions, structuring of transactions, and reciprocal arrangements
+
+A creditor may not take any action in connection with a high-cost mortgage—
+
+&emsp;(1) to structure a loan transaction as an open-end credit plan or another form of loan for the purpose and with the intent of evading the provisions of this subchapter; or
+
+&emsp;(2) to divide any loan transaction into separate parts for the purpose and with the intent of evading provisions of this subchapter.
+
+#### (s) Modification and deferral fees prohibited
+
+A creditor, successor in interest, assignee, or any agent of any of the above, may not charge a consumer any fee to modify, renew, extend, or amend a high-cost mortgage, or to defer any payment due under the terms of such mortgage.
+
+#### (t) Payoff statement
+
+#### (1) Fees
+
+#### (A) In general
+
+&emsp;&emsp;Except as provided in subparagraph (B), no creditor or servicer may charge a fee for informing or transmitting to any person the balance due to pay off the outstanding balance on a high-cost mortgage.
+
+#### (B) Transaction fee
+
+&emsp;&emsp;When payoff information referred to in subparagraph (A) is provided by facsimile transmission or by a courier service, a creditor or servicer may charge a processing fee to cover the cost of such transmission or service in an amount not to exceed an amount that is comparable to fees imposed for similar services provided in connection with consumer credit transactions that are secured by the consumer's principal dwelling and are not high-cost mortgages.
+
+#### (C) Fee disclosure
+
+&emsp;&emsp;Prior to charging a transaction fee as provided in subparagraph (B), a creditor or servicer shall disclose that payoff balances are available for free pursuant to subparagraph (A).
+
+#### (D) Multiple requests
+
+&emsp;&emsp;If a creditor or servicer has provided payoff information referred to in subparagraph (A) without charge, other than the transaction fee allowed by subparagraph (B), on 4 occasions during a calendar year, the creditor or servicer may thereafter charge a reasonable fee for providing such information during the remainder of the calendar year.
+
+#### (2) Prompt delivery
+
+&emsp;Payoff balances shall be provided within 5 business days after receiving a request by a consumer or a person authorized by the consumer to obtain such information.
+
+#### (u) Pre-loan counseling
+
+#### (1) In general
+
+&emsp;A creditor may not extend credit to a consumer under a high-cost mortgage without first receiving certification from a counselor that is approved by the Secretary of Housing and Urban Development, or at the discretion of the Secretary, a State housing finance authority, that the consumer has received counseling on the advisability of the mortgage. Such counselor shall not be employed by the creditor or an affiliate of the creditor or be affiliated with the creditor.
+
+#### (2) Disclosures required prior to counseling
+
+&emsp;No counselor may certify that a consumer has received counseling on the advisability of the high-cost mortgage unless the counselor can verify that the consumer has received each statement required (in connection with such loan) by this section or the Real Estate Settlement Procedures Act of 1974 \[12 U.S.C. 2601 et seq.\] with respect to the transaction.
+
+#### (3) Regulations
+
+&emsp;The Board <sup>4</sup> may prescribe such regulations as the Board determines to be appropriate to carry out the requirements of paragraph (1).
+
+#### (v) Corrections and unintentional violations
+
+A creditor or assignee in a high-cost mortgage who, when acting in good faith, fails to comply with any requirement under this section will not be deemed to have violated such requirement if the creditor or assignee establishes that either—
+
+&emsp;(1) within 30 days of the loan closing and prior to the institution of any action, the consumer is notified of or discovers the violation, appropriate restitution is made, and whatever adjustments are necessary are made to the loan to either, at the choice of the consumer—
+
+&emsp;&emsp;(A) make the loan satisfy the requirements of this part; or
+
+&emsp;&emsp;(B) in the case of a high-cost mortgage, change the terms of the loan in a manner beneficial to the consumer so that the loan will no longer be a high-cost mortgage; or
+
+&emsp;(2) within 60 days of the creditor's discovery or receipt of notification of an unintentional violation or bona fide error and prior to the institution of any action, the consumer is notified of the compliance failure, appropriate restitution is made, and whatever adjustments are necessary are made to the loan to either, at the choice of the consumer—
+
+&emsp;&emsp;(A) make the loan satisfy the requirements of this part; or
+
+&emsp;&emsp;(B) in the case of a high-cost mortgage, change the terms of the loan in a manner beneficial so that the loan will no longer be a high-cost mortgage.
 
 (Pub. L. 90–321, title I, §129, as added Pub. L. 103–325, title I, §152(d), Sept. 23, 1994, 108 Stat. 2191; amended Pub. L. 111–8, div. D, title VI, §626(c), Mar. 11, 2009, 123 Stat. 679; Pub. L. 111–203, title X, §1100A(2), (9), title XIV, §§1432, 1433, July 21, 2010, 124 Stat. 2107, 2109, 2160.)
-
-#### Amendment of Section
-
-<i>Pub. L. 111–203, title XIV, §§1400(c), 1432, 1433, July 21, 2010, 124 Stat. 2136, 2160, provided that, effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, this section is amended as follows:</i>
-
-<i>(1) by repealing subsection (c)(2);</i>
-
-<i>(2) by amending subsection (e) to read as follows:</i>
-
-#### <i>“(e) No balloon payments</i>
-
-<i>“No high-cost mortgage may contain a scheduled payment that is more than twice as large as the average of earlier scheduled payments. This subsection shall not apply when the payment schedule is adjusted to the seasonal or irregular income of the consumer.”;</i>
-
-<i>(3) by redesignating subsections (j), (k), (l) and (m) as subsections (n), (o), (p), and (q) respectively;</i>
-
-<i>(4) by inserting after subsection (i) the following new subsections:</i>
-
-#### <i>“(j) Recommended default</i>
-
-<i>“No creditor shall recommend or encourage default on an existing loan or other debt prior to and in connection with the closing or planned closing of a high-cost mortgage that refinances all or any portion of such existing loan or debt.</i>
-
-#### <i>“(k) Late fees</i>
-
-#### <i>“(1) In general</i>
-
-&emsp;<i>“No creditor may impose a late payment charge or fee in connection with a high-cost mortgage—</i>
-
-&emsp;&emsp;<i>“(A) in an amount in excess of 4 percent of the amount of the payment past due;</i>
-
-&emsp;&emsp;<i>“(B) unless the loan documents specifically authorize the charge or fee;</i>
-
-&emsp;&emsp;<i>“(C) before the end of the 15-day period beginning on the date the payment is due, or in the case of a loan on which interest on each installment is paid in advance, before the end of the 30-day period beginning on the date the payment is due; or</i>
-
-&emsp;&emsp;<i>“(D) more than once with respect to a single late payment.</i>
-
-#### <i>“(2) Coordination with subsequent late fees</i>
-
-&emsp;<i>“If a payment is otherwise a full payment for the applicable period and is paid on its due date or within an applicable grace period, and the only delinquency or insufficiency of payment is attributable to any late fee or delinquency charge assessed on any earlier payment, no late fee or delinquency charge may be imposed on such payment.</i>
-
-#### <i>“(3) Failure to make installment payment</i>
-
-&emsp;<i>“If, in the case of a loan agreement the terms of which provide that any payment shall first be applied to any past due principal balance, the consumer fails to make an installment payment and the consumer subsequently resumes making installment payments but has not paid all past due installments, the creditor may impose a separate late payment charge or fee for any principal due (without deduction due to late fees or related fees) until the default is cured.</i>
-
-#### <i>“(l) Acceleration of debt</i>
-
-<i>“No high-cost mortgage may contain a provision which permits the creditor to accelerate the indebtedness, except when repayment of the loan has been accelerated by default in payment, or pursuant to a due-on-sale provision, or pursuant to a material violation of some other provision of the loan document unrelated to payment schedule.</i>
-
-#### <i>“(m) Restriction on financing points and fees</i>
-
-<i>“No creditor may directly or indirectly finance, in connection with any high-cost mortgage, any of the following:</i>
-
-&emsp;<i>“(1) Any prepayment fee or penalty payable by the consumer in a refinancing transaction if the creditor or an affiliate of the creditor is the noteholder of the note being refinanced.</i>
-
-&emsp;<i>“(2) Any points or fees.”; and</i>
-
-<i>(5) by inserting after subsection (q) (as redesignated above) the following new subsections:</i>
-
-#### <i>“(r) Prohibitions on evasions, structuring of transactions, and reciprocal arrangements</i>
-
-<i>“A creditor may not take any action in connection with a high-cost mortgage—</i>
-
-&emsp;<i>“(1) to structure a loan transaction as an open-end credit plan or another form of loan for the purpose and with the intent of evading the provisions of this subchapter; or</i>
-
-&emsp;<i>“(2) to divide any loan transaction into separate parts for the purpose and with the intent of evading provisions of this subchapter.</i>
-
-#### <i>“(s) Modification and deferral fees prohibited</i>
-
-<i>“A creditor, successor in interest, assignee, or any agent of any of the above, may not charge a consumer any fee to modify, renew, extend, or amend a high-cost mortgage, or to defer any payment due under the terms of such mortgage.</i>
-
-#### <i>“(t) Payoff statement</i>
-
-#### <i>“(1) Fees</i>
-
-#### <i>“(A) In general</i>
-
-&emsp;&emsp;<i>“Except as provided in subparagraph (B), no creditor or servicer may charge a fee for informing or transmitting to any person the balance due to pay off the outstanding balance on a high-cost mortgage.</i>
-
-#### <i>“(B) Transaction fee</i>
-
-&emsp;&emsp;<i>“When payoff information referred to in subparagraph (A) is provided by facsimile transmission or by a courier service, a creditor or servicer may charge a processing fee to cover the cost of such transmission or service in an amount not to exceed an amount that is comparable to fees imposed for similar services provided in connection with consumer credit transactions that are secured by the consumer's principal dwelling and are not high-cost mortgages.</i>
-
-#### <i>“(C) Fee disclosure</i>
-
-&emsp;&emsp;<i>“Prior to charging a transaction fee as provided in subparagraph (B), a creditor or serv</i><i>icer shall disclose that payoff balances are available for free pursuant to subparagraph (A).</i>
-
-#### <i>“(D) Multiple requests</i>
-
-&emsp;&emsp;<i>“If a creditor or servicer has provided payoff information referred to in subparagraph (A) without charge, other than the transaction fee allowed by subparagraph (B), on 4 occasions during a calendar year, the creditor or servicer may thereafter charge a reasonable fee for providing such information during the remainder of the calendar year.</i>
-
-#### <i>“(2) Prompt delivery</i>
-
-&emsp;<i>“Payoff balances shall be provided within 5 business days after receiving a request by a consumer or a person authorized by the consumer to obtain such information.</i>
-
-#### <i>“(u) Pre-loan counseling</i>
-
-#### <i>“(1) In general</i>
-
-&emsp;<i>“A creditor may not extend credit to a consumer under a high-cost mortgage without first receiving certification from a counselor that is approved by the Secretary of Housing and Urban Development, or at the discretion of the Secretary, a State housing finance authority, that the consumer has received counseling on the advisability of the mortgage. Such counselor shall not be employed by the creditor or an affiliate of the creditor or be affiliated with the creditor.</i>
-
-#### <i>“(2) Disclosures required prior to counseling</i>
-
-&emsp;<i>“No counselor may certify that a consumer has received counseling on the advisability of the high-cost mortgage unless the counselor can verify that the consumer has received each statement required (in connection with such loan) by this section or the Real Estate Settlement Procedures Act of 1974 with respect to the transaction.</i>
-
-#### <i>“(3) Regulations</i>
-
-&emsp;<i>“The Board may prescribe such regulations as the Board determines to be appropriate to carry out the requirements of paragraph (1).</i>
-
-#### <i>“(v) Corrections and unintentional violations</i>
-
-<i>“A creditor or assignee in a high-cost mortgage who, when acting in good faith, fails to comply with any requirement under this section will not be deemed to have violated such requirement if the creditor or assignee establishes that either—</i>
-
-&emsp;<i>“(1) within 30 days of the loan closing and prior to the institution of any action, the consumer is notified of or discovers the violation, appropriate restitution is made, and whatever adjustments are necessary are made to the loan to either, at the choice of the consumer—</i>
-
-&emsp;&emsp;<i>“(A) make the loan satisfy the requirements of this part; or</i>
-
-&emsp;&emsp;<i>“(B) in the case of a high-cost mortgage, change the terms of the loan in a manner beneficial to the consumer so that the loan will no longer be a high-cost mortgage; or</i>
-
-&emsp;<i>“(2) within 60 days of the creditor's discovery or receipt of notification of an unintentional violation or bona fide error and prior to the institution of any action, the consumer is notified of the compliance failure, appropriate restitution is made, and whatever adjustments are necessary are made to the loan to either, at the choice of the consumer—</i>
-
-&emsp;&emsp;<i>“(A) make the loan satisfy the requirements of this part; or</i>
-
-&emsp;&emsp;<i>“(B) in the case of a high-cost mortgage, change the terms of the loan in a manner beneficial so that the loan will no longer be a high-cost mortgage.”</i>
-
-<i>See Effective Date of 2010 Amendment notes below.</i>
 
 #### References in Text
 
 Section 1602(aa) of this title, referred to in text, was redesignated section 1602(bb) of this title by Pub. L. 111–203, title X, §1100A(1)(A), July 21, 2010, 124 Stat. 2107.
 
-#### Codification
-
-Another section 129 of Pub. L. 90–321 is classified to section 1639a of this title.
+The Real Estate Settlement Procedures Act of 1974, referred to in subsec. (u)(2), is Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, which is classified principally to chapter 27 (§2601 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 12 and Tables.
 
 #### Prior Provisions
 
@@ -274,7 +236,19 @@ A prior section 1639, Pub. L. 90–321, title I, §129, May 29, 1968, 82 Stat. 1
 
 <b>2010</b>—Pub. L. 111–203, §1100A(2), substituted “Bureau” for “Board” wherever appearing.
 
-Subsec. (m). Pub. L. 111–203, §1100A(9), added subsec. (m) and struck out former subsec. (m). Prior to amendment, text read as follows: “For purposes of enforcement by the Federal Trade Commission, any violation of a regulation issued by the Federal Reserve Board pursuant to subsection (<i>l</i>)(2) of this section shall be treated as a violation of a rule promulgated under section 57a of this title regarding unfair or deceptive acts or practices.”
+Subsec. (c)(2). Pub. L. 111–203, §1432(a), struck out par. (2) which related to exception to prepayment penalty prohibition.
+
+Subsec. (e). Pub. L. 111–203, §1432(b), amended subsec. (e) generally. Prior to amendment, text read as follows: “A mortgage referred to in section 1602(aa) of this title having a term of less than 5 years may not include terms under which the aggregate amount of the regular periodic payments would not fully amortize the outstanding principal balance.”
+
+Subsecs. (j) to (l). Pub. L. 111–203, §1433(a)(2), added subsecs. (j) to (l). Former subsecs. (j) to (l) redesignated (n) to (p), respectively.
+
+Subsec. (m). Pub. L. 111–203, §1433(a)(2), added subsec. (m). Former subsec. (m) redesignated (q).
+
+Pub. L. 111–203, §1100A(9), added subsec. (m) and struck out former subsec. (m). Prior to amendment, text read as follows: “For purposes of enforcement by the Federal Trade Commission, any violation of a regulation issued by the Federal Reserve Board pursuant to subsection (l)(2) of this section shall be treated as a violation of a rule promulgated under section 57a of this title regarding unfair or deceptive acts or practices.”
+
+Subsecs. (n) to (q). Pub. L. 111–203, §1433(a)(1), redesignated former subsecs. (j) to (m) as (n) to (q), respectively.
+
+Subsecs. (r) to (v). Pub. L. 111–203, §1433(b)–(f), added subsecs. (r) to (v).
 
 <b>2009</b>—Subsec. (m). Pub. L. 111–8 added subsec. (m).
 
@@ -286,5 +260,9 @@ Amendment by sections 1432 and 1433 of Pub. L. 111–203 effective on the date o
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “section”.</i>
+<i><sup>2</sup></i><i> So in original. There is no par. (2).</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be “section”.</i>
+
+<i><sup>4</sup></i><i> So in original. Probably should be “Bureau”.</i>
 

@@ -1,6 +1,6 @@
 ### \[§714. Repealed. Pub. L. 108–136, div. A, title V, §503(a), Nov. 24, 2003, 117 Stat. 1456\]
 
-Section, added Pub. L. 105–85, div. A, title V, §597(a), Nov. 18, 1997, 111 Stat. 1766, related to required grade of officer selected for assignment to position of defense attache�AE1 to United States embassy in France.
+Section, added Pub. L. 105–85, div. A, title V, §597(a), Nov. 18, 1997, 111 Stat. 1766, related to required grade of officer selected for assignment to position of defense attaché to United States embassy in France.
 
 #### Prior Provisions
 

@@ -52,7 +52,7 @@ The following are declared to be the national goals for the wind, photovoltaics,
 
 #### (4) Alcohol from biomass
 
-&emsp;(A) In general, the goal of the Alcohol From Biomass Program shall be to advance research and development to a point where alcohol from biomass technology is cost-competitive with conventional hydrocarbon transportation fuels, and to promote the integration of this technology into the transportation fuel sector of the economy.
+&emsp;(A) In general, the goal of the Alcohol From Biomass Program shall be to advance research and development to a point where alcohol from biomass technology is cost-competitive with conventional hydrocarbon transportation fuels, and to promote the integration of thistechnology into the transportation fuel sector of the economy.
 
 &emsp;(B)(i) Specific goals for producing ethanol from biomass shall be to—
 

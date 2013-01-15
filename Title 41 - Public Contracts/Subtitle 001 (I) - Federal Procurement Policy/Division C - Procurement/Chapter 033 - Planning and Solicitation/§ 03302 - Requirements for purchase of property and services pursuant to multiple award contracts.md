@@ -28,7 +28,7 @@ Sole source task or delivery order.—The term “sole source task or delivery o
 
 (b)
 
-Regulations Required.—The Federal Acquisition Regulation shall require enhanced competition in the purchase of property andservices by all executive agencies pursuant to multiple award contracts.
+Regulations Required.—The Federal Acquisition Regulation shall require enhanced competition in the purchase of property and services by all executive agencies pursuant to multiple award contracts.
 
 (c)
 
@@ -112,7 +112,7 @@ Historical and Revision Notes
 
 Pub. L. 110–417, \[div. A\], title VIII, §863(a)–(e), Oct. 14, 2008, 122 Stat. 4547.
 
-In subsection (b), the words “Not later than one year after the date of the enactment of this Act” are omitted because of section 6(f) of the bill. The words “shall require” are substituted for “shall be amended to require” to reflect the permanence of the provision.
+In subsection (b), the words “Not later than one year after the date of the enactment of this Act” are omitted because of section 6(f) of the bill. The words “shallrequire” are substituted for “shall be amended to require” to reflect the permanence of the provision.
 
 In subsection (c)(2)(A), the words “except as provided in paragraph (3)” are omitted as unnecessary.
 

@@ -2,7 +2,7 @@
 
 Notwithstanding any other provision of law—
 
-&emsp;(1) the Librarian of Congress shall be compensated at an annual rate of pay which is equal to the annual rate of basic pay payable for positions at level II of the Executive Schedule under section 5313 of title 5; and
+&emsp;(1) the Librarian of Congress shall be compensated at an annual rate of pay which isequal to the annual rate of basic pay payable for positions at level II of the Executive Schedule under section 5313 of title 5; and
 
 &emsp;(2) the Deputy Librarian of Congress shall be compensated at an annual rate of pay which is equal to the annual rate of basic pay payable for positions at level III of the Executive Schedule under section 5314 of title 5.
 

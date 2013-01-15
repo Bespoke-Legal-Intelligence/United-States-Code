@@ -22,7 +22,7 @@
 
 &emsp;(B) a person furnishing cars or protective service against heat or cold to a rail carrier to file reports with the Secretary containing answers to questions about those cars or service.
 
-(c) The Secretary, or an employee (and, in the case of a motor carrier, a contractor) designated by the Secretary, may on demand and display of proper credentials—
+(c) The Secretary, or an employee (and, in the case of a motor carrier, a contractor, or an employee of the recipient of a grant issued under section 31102 of this title) designated by the Secretary, may on demand and display of proper credentials, in person or in writing—
 
 &emsp;(1) inspect the equipment of a carrier or lessor; and
 
@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(A) a carrier, lessor, or association;
 
-&emsp;&emsp;(B) a person controlling, controlled by, or under common control with a carrier, if theSecretary considers inspection relevant to that person's relation to, or transaction with, that carrier; and
+&emsp;&emsp;(B) a person controlling, controlled by, or under common control with a carrier, if the Secretary considers inspection relevant to that person's relation to, or transaction with, that carrier; and
 
 &emsp;&emsp;(C) a person furnishing cars or protective service against heat or cold to or for a rail carrier if the Secretary prescribed the form of that record.
 
@@ -42,7 +42,7 @@
 
 (f) No part of a report of an accident occurring in operations of a motor carrier, motor carrier of migrant workers, or motor private carrier and required by the Secretary, and no part of a report of an investigation of the accident made by the Secretary, may be admitted into evidence or used in a civil action for damages related to a matter mentioned in the report or investigation.
 
-(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2433; Pub. L. 105–178, title IV, §4006(b), June 9, 1998, 112 Stat. 401.)
+(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2433; Pub. L. 105–178, title IV, §4006(b), June 9, 1998, 112 Stat. 401; Pub. L. 112–141, div. C, title II, §32501(a), July 6, 2012, 126 Stat. 802.)
 
 Historical and Revision Notes
 
@@ -110,5 +110,11 @@ In subsection (f), the words “the course of the” are omitted as surplus. The
 
 #### Amendments
 
+<b>2012</b>—Subsec. (c). Pub. L. 112–141 inserted “, or an employee of the recipient of a grant issued under section 31102 of this title” after “a contractor” and “, in person or in writing” after “proper credentials” in introductory provisions.
+
 <b>1998</b>—Subsec. (c). Pub. L. 105–178 inserted “(and, in the case of a motor carrier, a contractor)” after “employee” in introductory provisions.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
 

@@ -18,9 +18,9 @@ A passport shall be valid for a period of ten years from the date of issue, exce
 
 #### Effective Date of 1982 Amendment
 
-Section 116(b)(2) of Pub. L. 97–241 provided that: “The amendment made by this subsection \[amending thissection\] applies with respect to passports issued after the date of enactment of this Act \[Aug. 24, 1982\].”
+Pub. L. 97–241, title I, §116(b)(2), Aug. 24, 1982, 96 Stat. 279, provided that: “The amendment made by this subsection \[amending this section\] applies with respect to passports issued after the date of enactment of this Act \[Aug. 24, 1982\].”
 
 #### Effective Date of 1968 Amendment
 
-Section 4 of Pub. L. 90–428 provided that: “This Act \[amending this section and sections 213 and 214 of this title\] shall take effect on the thirtieth day following the date of its enactment \[July 26, 1968\].”
+Pub. L. 90–428, §4, July 26, 1968, 82 Stat. 446, provided that: “This Act \[amending this section and sections 213 and 214 of this title\] shall take effect on the thirtieth day following the date of its enactment \[July 26, 1968\].”
 

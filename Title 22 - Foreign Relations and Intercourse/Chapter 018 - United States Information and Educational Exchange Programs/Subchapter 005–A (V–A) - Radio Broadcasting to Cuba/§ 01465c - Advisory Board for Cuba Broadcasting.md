@@ -2,7 +2,7 @@
 
 #### (a) Establishment; membership; chairperson
 
-There is established within the Office of the President the Advisory Board for Cuba Broadcasting (in this subchapter <sup>1</sup> referred to as the“Advisory Board”). The Advisory Board shall consist of nine members, appointed by the President by and with the advice and consent of the Senate, of whom not more than five shall be members of the same political party. The President shall designate one member of the Advisory Board to serve as chairperson.
+There is established within the Office of the President the Advisory Board for Cuba Broadcasting (in this subchapter <sup>1</sup> referred to as the “Advisory Board”). The Advisory Board shall consist of nine members, appointed by the President by and with the advice and consent of the Senate, of whom not more than five shall be members of the same political party. The President shall designate one member of the Advisory Board to serve as chairperson.
 
 #### (b) Review; recommendations
 
@@ -72,15 +72,15 @@ Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. 
 
 #### Former References to Advisory Board for Radio Broadcasting to Cuba
 
-Section 245(b) of Pub. L. 101–246 provided that: “A reference in any provision of law to the ‘Advisory Board for Radio Broadcasting to Cuba’ shall be considered to be a reference to the ‘Advisory Board for Cuba Broadcasting’.”
+Pub. L. 101–246, title II, §245(b), Feb. 16, 1990, 104 Stat. 61, provided that: “A reference in any provision of law to the ‘Advisory Board for Radio Broadcasting to Cuba’ shall be considered to be a reference to the ‘Advisory Board for Cuba Broadcasting’.”
 
 #### Continued Service of Board Members
 
-Section 245(c) of Pub. L. 101–246 provided that: “Each member of the Advisory Board for Radio Broadcasting to Cuba as in existence on the day before the effective date of the amendment made by subsection (a) \[Feb. 16, 1990\] shall continue to serve for the remainder of the term to which such member was appointed as a member of the Advisory Board for Cuba Broadcasting.”
+Pub. L. 101–246, title II, §245(c), Feb. 16, 1990, 104 Stat. 61, provided that: “Each member of the Advisory Board for Radio Broadcasting to Cuba as in existence on the day before the effective date of the amendment made by subsection (a) \[Feb. 16, 1990\] shall continue to serve for the remainder of the term to which such member was appointed as a member of the Advisory Board for Cuba Broadcasting.”
 
 #### Staff Director
 
-Section 245(d) of Pub. L. 101–246, as amended by Pub. L. 105–277, div. G, subdiv. A, title XIII, §1325(5), Oct. 21, 1998, 112 Stat. 2681–782, provided that: “The Advisory Board shall have a staff director who shall be appointed by the Chairperson of the Advisory Board for Cuba Broadcasting.”
+Pub. L. 101–246, title II, §245(d), Feb. 16, 1990, 104 Stat. 62, as amended by Pub. L. 105–277, div. G, subdiv. A, title XIII, §1325(5), Oct. 21, 1998, 112 Stat. 2681–782, provided that: “The Advisory Board shall have a staff director who shall be appointed by the Chairperson of the Advisory Board for Cuba Broadcasting.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

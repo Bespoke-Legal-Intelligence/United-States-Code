@@ -130,7 +130,7 @@ Socially disadvantaged farmer or rancher.—The term “socially disadvantaged f
 
 &emsp;(25)
 
-Technical assistance.—The term “technical assistance” means technical expertise, information, and tools necessary for the conservation of natural resources on land active in agricultural, forestry, or related uses. The term includes the following:
+Technical assistance.—The term “technical assistance” means technical expertise,information, and tools necessary for the conservation of natural resources on land active in agricultural, forestry, or related uses. The term includes the following:
 
 &emsp;&emsp;(A) Technical services provided directly to farmers, ranchers, and other eligible entities, such as conservation planning, technical consultation, and assistance with design and implementation of conservation practices.
 
@@ -170,7 +170,7 @@ This Act, referred to in subsec. (a)(27), is Pub. L. 99–198, Dec. 23, 1985, 99
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 
@@ -212,11 +212,11 @@ Pub. L. 106–387, §1(a) \[title XI, §1101\], Oct. 28, 2000, 114 Stat. 1549, 1
 
 #### Short Title of 1990 Amendment
 
-Section 1401 of title XIV of Pub. L. 101–624 provided that: “This title \[enacting sections 1003a, 1010, 3824, 3830, 3835a, 3837 to 3837f, 3838 to 3838f, 3839 to 3839d, 3846, 3847, 3861, and 3862 of this title and sections 136i–1, 2814, 3130, 5401 to 5403, 5501 to 5506 and 5822 of Title 7, Agriculture, amending this section, sections 590p, 1002, 1003, 3459, 3461, 3811, 3812, 3821 to 3823, 3831, 3832, 3834, 3835, 3836, 3843, and 3845 of this title, and sections 136a, 136a–1, 136d, 136w–3, 450i, and 4202 of Title 7, and enacting provisions set out as notes under this section and sections 2101 and 3831 of this title and sections 136a and 4201 of Title 7\] may be cited as the ‘Conservation Program Improvements Act’.”
+Pub. L. 101–624, title XIV, §1401, Nov. 28, 1990, 104 Stat. 3568, provided that: “This title \[enacting sections1003a, 1010, 3824, 3830, 3835a, 3837 to 3837f, 3838 to 3838f, 3839 to 3839d, 3846, 3847, 3861, and 3862 of this title and sections 136i–1, 2814, 3130, 5401 to 5403, 5501 to 5506 and 5822 of Title 7, Agriculture, amending this section, sections 590p, 1002, 1003, 3459, 3461, 3811, 3812, 3821 to 3823, 3831, 3832, 3834, 3835, 3836, 3843, and 3845 of this title, and sections 136a, 136a–1, 136d, 136w–3, 450i, and 4202 of Title 7, and enacting provisions set out as notes under this section and sections 2101 and 3831 of this title and sections 136a and 4201 of Title 7\] may be cited as the ‘Conservation Program Improvements Act’.”
 
 #### Short Title
 
-Title XII of Pub. L. 99–198, which is classified principally to this chapter, is popularly known as the “Sodbuster Law”.
+Pub. L. 99–198, title XII, Dec. 23, 1985, 99 Stat. 1504, which is classified principally to this chapter, is popularly known as the “Sodbuster Law”.
 
 #### Regulations
 

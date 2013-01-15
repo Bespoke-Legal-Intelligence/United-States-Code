@@ -6,7 +6,7 @@ In the case of a System institution that requests certification under section 22
 
 &emsp;(1) require the institution to obtain approval from the Assistance Board before implementing business, operating, and investment plans and policies;
 
-&emsp;(2) if one or more of the conditions described in section 2183(b) of this title are met, as determined by the Farm Credit Administration, direct the Farm Credit Administration Board to appoint a conservator for the institution, in accordance with such section, and to instruct the conservator to evaluate the operations of the institution and report to the Farm CreditAdministration Board and the Assistance Board on the possibility of restoring the institution to sound financial condition;
+&emsp;(2) if one or more of the conditions described in section 2183(b) of this title are met, as determined by the Farm Credit Administration, direct the Farm Credit Administration Board to appoint a conservator for the institution, in accordance with such section, and to instruct the conservator to evaluate the operations of the institution and report to the Farm Credit Administration Board and the Assistance Board on the possibility of restoring the institution to sound financial condition;
 
 &emsp;(3) request that the Farm Credit Administration Board or the Farm Credit Administration, as appropriate—
 
@@ -24,7 +24,7 @@ In the case of a System institution that requests certification under section 22
 
 &emsp;&emsp;(B) loans primarily secured by real estate mortgages not exceed 85 percent of the appraised agricultural value of the real estate security, or 75 percent of the then current market value of the real estate security, whichever is greater;
 
-&emsp;(6) require the institution to obtain approval from the Assistance Board for the design of management information and accounting systems at the institution, and of the continued use by the institution of regulatory accounting practices in accordance with sections 2159(b) and 2254(b) of this title;
+&emsp;(6) require the institution to obtain approval from the Assistance Board for the design ofmanagement information and accounting systems at the institution, and of the continued use by the institution of regulatory accounting practices in accordance with sections 2159(b) and 2254(b) of this title;
 
 &emsp;(7) require that the plans and policies of the institution resulting from the merger of System banks reduce the overhead costs of such institution, to the maximum extent practicable, with respect to the delivery of services to, and performance of duties for, System associations in the district;
 

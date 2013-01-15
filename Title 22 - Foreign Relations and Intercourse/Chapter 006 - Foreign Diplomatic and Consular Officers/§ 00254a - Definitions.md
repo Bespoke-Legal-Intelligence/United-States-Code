@@ -40,9 +40,9 @@ Amendment by Pub. L. 97–241 effective Oct. 1, 1982, see section 204 of Pub. L.
 
 #### Effective Date
 
-Section 9 of Pub. L. 95–393 provided that: “This Act \[see Short Title note below\] shall take effect at the end of the ninety-day period beginning on the date of its enactment \[Sept. 30, 1978\]”.
+Pub. L. 95–393, §9, Sept. 30, 1978, 92 Stat. 810, provided that: “This Act \[see Short Title note below\] shall take effect at the end of the ninety-day period beginning on the date of its enactment \[Sept. 30, 1978\]”.
 
 #### Short Title
 
-Section 1 of Pub. L. 95–393 provided that: “This Act \[enacting this section, sections 254b to 254e of this title, and section 1364 of Title 28, Judiciary and Judicial Procedure, amending sections 1251 and 1351 of Title 28, repealing sections 252 to 254 of this title, and enacting provisions set out as a note under this section\] may be cited as the ‘Diplomatic Relations Act’.”
+Pub. L. 95–393, §1, Sept. 30, 1978, 92 Stat. 808, provided that: “This Act \[enacting this section, sections 254b to 254e of this title, and section 1364 of Title 28, Judiciary and Judicial Procedure, amending sections 1251 and 1351 of Title 28, repealing sections 252 to 254 of this title, and enacting provisions set out as a note under this section\] may be cited as the ‘Diplomatic Relations Act’.”
 

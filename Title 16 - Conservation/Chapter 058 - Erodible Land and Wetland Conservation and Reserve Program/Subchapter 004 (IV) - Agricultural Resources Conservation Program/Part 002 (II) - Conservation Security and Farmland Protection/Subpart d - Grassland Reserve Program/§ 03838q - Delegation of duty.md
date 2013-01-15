@@ -118,7 +118,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 <b>2004</b>—Subsec. (a). Pub. L. 108–447, §797(1), substituted “transfer title of ownership to an easement under this subpart to” for “permit” in introductory provisions.
 
-Subsec. (d). Pub. L. 108–447, §797(2), added subsec. (d) and struck out heading and text of former subsec. (d).Text consisted of pars. (1) and (2) relating to reassignment of easements to new private organizations or the Secretary.
+Subsec. (d). Pub. L. 108–447, §797(2), added subsec. (d) and struck out heading and text of former subsec. (d). Text consisted of pars. (1) and (2) relating to reassignment of easements to new private organizations or the Secretary.
 
 #### Effective Date of 2008 Amendment
 

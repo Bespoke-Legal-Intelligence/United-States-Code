@@ -6,7 +6,7 @@ Section 1512, Pub. L. 97–300, title I, §102, Oct. 13, 1982, 96 Stat. 1328; Pu
 
 Section 1513, Pub. L. 97–300, title I, §103, Oct. 13, 1982, 96 Stat. 1330; Pub. L. 97–404, §1(a), Dec. 31, 1982, 96 Stat. 2026, related to functions of private industry councils.
 
-Section 1514, Pub. L. 97–300, title I, §104, Oct. 13, 1982, 96 Stat. 1331; Pub. L. 100–628, title VII, §714(a), Nov. 7,1988, 102 Stat. 3255; Pub. L. 102–235, §4, Dec. 12, 1991, 105 Stat. 1807; Pub. L. 102–367, title I, §113, Sept. 7, 1992, 106 Stat. 1027, related to job training plan.
+Section 1514, Pub. L. 97–300, title I, §104, Oct. 13, 1982, 96 Stat. 1331; Pub. L. 100–628, title VII, §714(a), Nov. 7, 1988, 102 Stat. 3255; Pub. L. 102–235, §4, Dec. 12, 1991, 105 Stat. 1807; Pub. L. 102–367, title I, §113, Sept. 7, 1992, 106 Stat. 1027, related to job training plan.
 
 Section 1515, Pub. L. 97–300, title I, §105, Oct. 13, 1982, 96 Stat. 1332; Pub. L. 102–367, title I, §114, Sept. 7, 1992, 106 Stat. 1030, related to review and approval of plan.
 

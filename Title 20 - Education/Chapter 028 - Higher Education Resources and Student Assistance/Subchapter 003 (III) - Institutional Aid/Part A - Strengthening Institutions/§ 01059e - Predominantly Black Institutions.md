@@ -138,7 +138,7 @@ In this section:
 
 #### (2) Graduates basis
 
-&emsp;From the amounts appropriated to carry out this section for any fiscal year, the Secretary shall allot to each Predominantly Black Institution having an application approved under subsection (f) a sum that bears the same ratio to one-fourth of that amount as the number of graduates for such academic year at such institution, bears to the total number of graduates for such academic year at all such institutions.
+&emsp;From the amounts appropriated to carry out this section for any fiscal year, the Secretaryshall allot to each Predominantly Black Institution having an application approved under subsection (f) a sum that bears the same ratio to one-fourth of that amount as the number of graduates for such academic year at such institution, bears to the total number of graduates for such academic year at all such institutions.
 
 #### (3) Graduates seeking a higher degree basis
 

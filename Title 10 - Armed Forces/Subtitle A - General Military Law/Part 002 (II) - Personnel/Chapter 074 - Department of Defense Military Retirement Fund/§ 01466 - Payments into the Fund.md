@@ -4,7 +4,7 @@
 
 &emsp;(1) The product of—
 
-&emsp;&emsp;(A) the level percentage of basic pay determined using all the methods and assumptions approved for the most recent (as of the first day of the current fiscal year) actuarial valuation under section 1465(c)(1)(A) of this title (except that any statutory change in the military retirement and survivor benefit systems that is effective after the date of that valuation and on or before the first day of the current fiscal year shall be used in such determination); and
+&emsp;&emsp;(A) the level percentage of basic pay determined using all the methods and assumptions approved for the most recent (as of the first day of the current fiscal year) actuarialvaluation under section 1465(c)(1)(A) of this title (except that any statutory change in the military retirement and survivor benefit systems that is effective after the date of that valuation and on or before the first day of the current fiscal year shall be used in such determination); and
 
 &emsp;&emsp;(B) the total amount of basic pay accrued for that month for active duty (other than the Coast Guard) and for full-time National Guard duty (other than full-time National Guard duty for training only), but excluding the amount expected to be paid for any duty that would be excluded for active-duty end strength purposes by section 115(i) of this title.
 
@@ -100,7 +100,7 @@ Pub. L. 106–65, div. A, title VI, §651(c), Oct. 5, 1999, 113 Stat. 664, provi
 
 #### Effective Date of 1987 Amendment
 
-Section 12(b) of Pub. L. 100–26 provided that: “The amendments made by section 4 \[amending this section and provisions set out as a note under section 1014 of Title 37, Pay and Allowances of the Uniformed Services\] shall apply as if included in Public Laws 99–500 and 99–591 when enacted on October 18, 1986, and October 30, 1986, respectively.”
+Pub. L. 100–26, §12(b), Apr. 21, 1987, 101 Stat. 289, provided that: “The amendments made by section 4 \[amending this section and provisions set out as a note under section 1014 of Title 37, Pay and Allowances of the Uniformed Services\] shall apply as if included in Public Laws 99–500 and 99–591 when enacted on October 18, 1986, and October 30, 1986, respectively.”
 
 #### Effective Date of 1986 Amendments
 

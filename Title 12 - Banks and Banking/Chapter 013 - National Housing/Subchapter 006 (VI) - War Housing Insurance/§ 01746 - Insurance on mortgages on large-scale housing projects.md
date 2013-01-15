@@ -10,7 +10,7 @@ To be eligible for insurance under this section, a mortgage shall—
 
 &emsp;(1) have been made to and be held by a mortgagee approved by the Secretary as responsible and able to service the mortgage properly;
 
-&emsp;(2) cover property, held by a mortgagor approved by the Secretary, upon which there is to be constructed or erected dwelling units for not less than twenty-five families consisting of a group of single-family dwellings approved by the Secretary for mortgage insurance prior to the beginning of construction: <i>Provided</i>, That during the course of construction there may be located upon the mortgaged property a plant for the fabrication or storage of such dwellings or sections or parts thereof, and the Secretary may consent to the removal or release of such plant from the lien of the mortgage upon such terms and conditions as he may approve;
+&emsp;(2) cover property, held by a mortgagor approved by the Secretary, upon which there is to be constructed or erected dwelling units for not less than twenty-five families consisting of a group of single-family dwellings approved by the Secretary for mortgage insurance prior to the beginning of construction: <i>Provided</i>,That during the course of construction there may be located upon the mortgaged property a plant for the fabrication or storage of such dwellings or sections or parts thereof, and the Secretary may consent to the removal or release of such plant from the lien of the mortgage upon such terms and conditions as he may approve;
 
 &emsp;(3) involve a principal obligation in an amount—
 

@@ -46,7 +46,7 @@ Conditions.—An activity authorized by subsection (b) may be carried out at an 
 
 &emsp;&emsp;(A) in any case of willful misconduct or gross negligence; and
 
-&emsp;&emsp;(B) in the case of a claim by a purchaser of articles or services under this section that damages or injury arose from the failure ofthe United States to comply with quality, schedule, or cost performance requirements in the contract to carry out the activity.
+&emsp;&emsp;(B) in the case of a claim by a purchaser of articles or services under this section that damages or injury arose from the failure of the United States to comply with quality, schedule, or cost performance requirements in the contract to carry out the activity.
 
 (d)
 
@@ -72,7 +72,7 @@ Approval Authority.—The authority of an Army industrial facility to enter into
 
 (g)
 
-Commercial Sales.—Except in the case of work performed for the Department of Defense, for a contract of the Department of Defense, for foreign military sales, or for authorized foreign direct commercial sales (defense articles or defense services sold to a foreign government or international organization under export controls), a sale of articles or services may be made under this section only if the approval authority described in subsection (f) determines that the articles or services are not available from a commercial source located in the United States in the required quantity or quality, or within the time required.
+Commercial Sales.—Except in the case of work performed for the Department of Defense, for a contract of the Department of Defense, for foreign military sales, or for authorized foreigndirect commercial sales (defense articles or defense services sold to a foreign government or international organization under export controls), a sale of articles or services may be made under this section only if the approval authority described in subsection (f) determines that the articles or services are not available from a commercial source located in the United States in the required quantity or quality, or within the time required.
 
 (h)
 
@@ -146,7 +146,7 @@ Subsec. (k). Pub. L. 109–163, §321(b)(2), redesignated subsec. (j) as (k).
 
 #### Reports
 
-Pub. L. 110–181, div. A, title III, §328(b), Jan. 28, 2008, 122 Stat. 66, as amended by Pub. L. 111–84, div. A, title III, §324(b), Oct. 28, 2009, 123 Stat. 2253; Pub. L. 112–81, div. A, title III, §323(b), Dec. 31, 2011, 125 Stat. 1362, provided that:
+Pub. L. 110–181, div. A, title III, §328(b), Jan. 28, 2008, 122 Stat. 66, as amended by Pub. L. 111–84, div. A, title III, §324(b), Oct. 28, 2009, 123 Stat. 2253; Pub. L. 112–81, div. A, title III, §323(b), Dec. 31, 2011, 125 Stat. 1362; Pub. L. 112–239, div. A, title X, §1076(a)(2), Jan. 2, 2013, 126 Stat. 1948, provided that:
 
 “(1)
 
@@ -162,5 +162,5 @@ Analysis of use of authority.—Not later than September 30, 2012, the Secretary
 
 &emsp;“(C) assessing the impact of the use of such authority on the availability of facilities needed by the Army and on the private sector; and
 
-&emsp;“(D) describing the steps taken to comply with the requirements under section 4544(g) of title 10, United States Code.”\[Pub. L. 112–81, div. A, title III, §323(b), Dec. 31, 2011, 125 Stat. 1362, which directed substitution of “the effect of the use of such authority on the rates charged by each Army industrial facility when bidding on contracts for the Army or for a Defense agency and providing recommendations to improve the ability of each category of Army industrial facility (as defined in section 4544(j) of title 10, United States Code) to compete for such contracts” for “the advisability of making such authority permanent and eliminating the limitation on the number of contracts or cooperative arrangements that may be entered into pursuant to such authority” in section 328(b)(A) of Pub. L. 110–181, was executed by making the substitution in section 328(b)(2)(A) of Pub. L. 110–181, set out above, to reflect the probable intent of Congress.\]
+&emsp;“(D) describing the steps taken to comply with the requirements under section 4544(g) of title 10, United States Code.”
 

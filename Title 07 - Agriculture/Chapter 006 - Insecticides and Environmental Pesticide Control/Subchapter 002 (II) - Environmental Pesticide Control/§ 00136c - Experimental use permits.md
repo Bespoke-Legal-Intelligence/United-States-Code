@@ -28,7 +28,7 @@ Notwithstanding the foregoing provisions of this section, the Administrator shal
 
 Notwithstanding the foregoing provisions of this section, the Administrator may issue an experimental use permit for a pesticide to any public or private agricultural research agency or educational institution which applies for such permit. Each permit shall not exceed more than a one-year period or such other specific time as the Administrator may prescribe. Such permit shall be issued under such terms and conditions restricting the use of the pesticide as the Administrator may require. Such pesticide may be used only by such research agency or educational institution for purposes of experimentation.
 
-(June 25, 1947, ch. 125, §5, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 983; amended Pub. L.94–140, §10, Nov. 28, 1975, 89 Stat. 754; Pub. L. 95–396, §10, Sept. 30, 1978, 92 Stat. 828; Pub. L. 100–532, title VIII, §801(d), (q)(1)(D), Oct. 25, 1988, 102 Stat. 2681, 2683; Pub. L. 102–237, title X, §1006(b)(1), Dec. 13, 1991, 105 Stat. 1895.)
+(June 25, 1947, ch. 125, §5, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 983; amended Pub. L. 94–140, §10, Nov. 28, 1975, 89 Stat. 754; Pub. L. 95–396, §10, Sept. 30, 1978, 92 Stat. 828; Pub. L. 100–532, title VIII, §801(d), (q)(1)(D), Oct. 25, 1988, 102 Stat. 2681, 2683; Pub. L. 102–237, title X, §1006(b)(1), Dec. 13, 1991, 105 Stat. 1895.)
 
 #### Prior Provisions
 

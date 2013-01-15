@@ -40,7 +40,7 @@ Encircling the shield and crest an arc of thirteen stars and below the shield th
 
 On a band encircling the whole the inscriptions “Department of the Air Force” and “United States of America.”
 
-When illustrating the seal in color the background shall be ultramarine blue, the shield a light blue and white, and the thunderbolt in gold with flames in natural color. The twists of the wreath shall be alternated white and blue, and the eagle shall be in natural color in front of a white cloud. The thirteen stars shall be white, and the Roman numerals shall be gold. The encircling band shall be white edged in gold with black letters.
+When illustrating the seal in color the background shall be ultramarine blue, the shield a light blue and white, and the thunderbolt in gold with flames in natural color. The twists of the wreath shall be alternated white and blue, and the eagle shall be in natural color in front of a white cloud. The thirteen stars shall bewhite, and the Roman numerals shall be gold. The encircling band shall be white edged in gold with black letters.
 
 AND WHEREAS it appears that such seal is of suitable design and is appropriate for establishment as the official seal of the Department of the Air Force:
 

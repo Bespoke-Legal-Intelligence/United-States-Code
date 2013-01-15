@@ -26,9 +26,9 @@ Subsec. (b). Pub. L. 103–189, §8(k)(2), inserted “, or imported into the U
 
 #### Short Title of 1993 Amendment
 
-Section 1(a) of Pub. L. 103–189 provided that: “This Act \[amending this section and sections 4902 to 4904, 4906, 4908, and 4911 to 4914 of this title\] may be cited as the ‘Watermelon Research and Promotion Improvement Act of 1993’.”
+Pub. L. 103–189, §1(a), Dec. 14, 1993, 107 Stat. 2259, provided that: “This Act \[amending this section and sections 4902 to 4904, 4906, 4908, and 4911 to 4914 of this title\] may be cited as the ‘Watermelon Research and Promotion Improvement Act of 1993’.”
 
 #### Short Title
 
-Section 1641 of Pub. L. 99–198 provided that: “This subtitle \[subtitle C (§§1641–1657) of Pub. L. 99–198, enacting this chapter\] may be cited as the ‘Watermelon Research and Promotion Act’.”
+Pub. L. 99–198, title XVI, §1641, Dec. 23, 1985, 99 Stat. 1622, provided that: “This subtitle \[subtitle C (§§1641–1657) of Pub. L. 99–198, enacting this chapter\] may be cited as the ‘Watermelon Research and Promotion Act’.”
 

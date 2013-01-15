@@ -14,7 +14,7 @@ Subsecs. (a), (b). Pub. L. 98–525 amended subsecs. (a) and (b) generally, subs
 
 #### Effective Date of 1984 Amendment
 
-Section 524(b)(3) of Pub. L. 98–525 provided that: “The amendments made by paragraphs (1) and (2) \[amending this section and the analysis to this chapter\] shall take effect on the first day of the first month that begins more than 60 days after the date of the enactment of this Act \[Oct. 19, 1984\], but shall not apply to any case in which, before that date, a board of officers has been ordered to convene under the provisions of section 1181 of title 10, United States Code, as in effect before that date.”
+Pub. L. 98–525, title V, §524(b)(3), Oct. 19, 1984, 98 Stat. 2524, provided that: “The amendments made by paragraphs (1) and (2) \[amending this section and the analysis to this chapter\] shall take effect on the first day of the first month that begins more than 60 days after the date of the enactment of this Act \[Oct. 19, 1984\], but shall not apply to any case in which, before that date, a board of officers has been ordered to convene under the provisions of section 1181 of title 10, United States Code, as in effect before that date.”
 
 #### Effective Date
 

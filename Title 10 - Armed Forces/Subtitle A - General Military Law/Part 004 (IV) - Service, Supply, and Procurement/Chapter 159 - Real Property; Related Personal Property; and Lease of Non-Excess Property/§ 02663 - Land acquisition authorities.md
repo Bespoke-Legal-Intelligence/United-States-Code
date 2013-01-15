@@ -82,7 +82,7 @@ Land Acquisition Options in Advance of Military Construction Projects.—(1) The
 
 (2) As consideration for an option acquired under paragraph (1), the Secretary may pay, from funds available to the military department under the jurisdiction of the Secretary for real property activities, an amount that is not more than 12 percent of the appraised fair market value of the property.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 147; Pub. L. 85–861, §33(a)(14), Sept. 2, 1958, 72 Stat. 1565; Pub.L. 109–163, div. B, title XXVIII, §2821(a), Jan. 6, 2006, 119 Stat. 3511; Pub. L. 109–364, div. B, title XXVIII, §2821(b), Oct. 17, 2006, 120 Stat. 2474; Pub. L. 110–181, div. B, title XXVIII, §2822(a), Jan. 28, 2008, 122 Stat. 544; Pub. L. 111–383, div. A, title X, §1075(g)(6), Jan. 7, 2011, 124 Stat. 4377.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 147; Pub. L. 85–861, §33(a)(14), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 109–163, div. B, title XXVIII, §2821(a), Jan. 6, 2006, 119 Stat. 3511; Pub. L. 109–364, div. B, title XXVIII, §2821(b), Oct. 17, 2006, 120 Stat. 2474; Pub. L. 110–181, div. B, title XXVIII, §2822(a), Jan. 28, 2008, 122 Stat. 544; Pub. L. 111–383, div. A, title X, §1075(g)(6), Jan. 7, 2011, 124 Stat. 4377.)
 
 Historical and Revision Notes<br>1956
 
@@ -162,7 +162,7 @@ Pub. L. 109–163, §2821(a)(1)(D), redesignated subsec. (c) as (b).
 
 Subsec. (d). Pub. L. 109–163, §2821(a)(6)–(9), redesignated subsecs. (a), (c), and (b) of section 2672a of this title as pars. (1), (2), and (3), respectively, of subsec. (d) of this section, inserted subsec. heading, in par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, in par. (2), substituted “this subsection” for “this section”, and in par. (3), substituted “this subsection” for “this section” in first sentence and struck out second sentence which read as follows: “The authority to acquire an interest in land under this section includes authority to make surveys and acquire interests in land (including temporary use), by gift, purchase, exchange of land owned by the United States, or otherwise.”
 
-Pub. L. 109–163, §2821(a)(1)(E), struck out subsec. (d) which read as follows: “The Secretary of the militarydepartment concerned may accept for the United States a gift of any interest in land, including temporary use, for any purpose named in subsection (a).”
+Pub. L. 109–163, §2821(a)(1)(E), struck out subsec. (d) which read as follows: “The Secretary of the military department concerned may accept for the United States a gift of any interest in land, including temporary use, for any purpose named in subsection (a).”
 
 Subsec. (e). Pub. L. 109–163, §2821(a)(10), (11), redesignated subsec. (b) of section 2676 of this title as subsec. (e) of this section and inserted heading.
 

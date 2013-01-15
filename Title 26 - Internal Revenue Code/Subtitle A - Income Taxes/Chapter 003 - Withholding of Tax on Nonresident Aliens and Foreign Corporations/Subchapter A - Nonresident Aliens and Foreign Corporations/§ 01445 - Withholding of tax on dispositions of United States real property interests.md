@@ -140,7 +140,7 @@ Except as otherwise provided in this section, in the case of any disposition of 
 
 &emsp;&emsp;&emsp;(ii) any transferee's agent or qualified substitute, such agent or substitute has actual knowledge that such affidavit is false,
 
-> &emsp;&emsp;such agent or qualified substitute shall so notify the transferee at such time and in such manner as the Secretary shall require by regulations.
+> &emsp;&emsp;such agent or qualified substitute shall so notify the transferee at such time and insuch manner as the Secretary shall require by regulations.
 
 #### (2) Failure to furnish notice
 
@@ -180,7 +180,7 @@ Except as otherwise provided in this section, in the case of any disposition of 
 
 #### (1) Certain domestic partnerships, trusts, and estates
 
-&emsp;In the case of any disposition of a United States real property interest as defined in section 897(c) (other than a disposition described in paragraph (4) or (5)) by a domestic partnership, domestic trust, or domestic estate, such partnership, the trustee of such trust, or the executor of such estate (as the case may be) shall be required to deduct and withhold under subsection (a) a tax equal to 35 percent (or, to the extent provided in regulations, 15 percent) of the gain realized to the extent such gain—
+&emsp;In the case of any disposition of a United States real property interest as defined in section 897(c) (other than a disposition described in paragraph (4) or (5)) by a domestic partnership, domestic trust, or domestic estate, such partnership, the trustee of such trust, or the executor of such estate (as the case may be) shall be required to deduct and withhold under subsection (a) a tax equal to 35 percent (or, to the extent provided in regulations, 20 percent) of the gain realized to the extent such gain—
 
 &emsp;&emsp;(A) is allocable to a foreign person who is a partner or beneficiary of such partnership, trust, or estate, or
 
@@ -204,7 +204,7 @@ Except as otherwise provided in this section, in the case of any disposition of 
 
 #### (6) Distributions by regulated investment companies and real estate investment trusts
 
-&emsp;If any portion of a distribution from a qualified investment entity (as defined in section 897(h)(4)) to a nonresident alien individual or a foreign corporation is treated under section 897(h)(1) as gain realized by such individual or corporation from the sale or exchange of a United States real property interest, the qualified investment entity shall deduct and withhold under subsection (a) a tax equal to 35 percent (or, to the extent provided in regulations, 15 percent (20 percent in the case of taxable years beginning after December 31, 2010)) of the amount so treated.
+&emsp;If any portion of a distribution from a qualified investment entity (as defined in section 897(h)(4)) to a nonresident alien individual or a foreign corporation is treated under section 897(h)(1) as gain realized by such individual or corporation from the sale or exchange of a United States real property interest, the qualified investment entity shall deduct andwithhold under subsection (a) a tax equal to 35 percent (or, to the extent provided in regulations, 20 percent) of the amount so treated.
 
 #### (7) Regulations
 
@@ -246,13 +246,13 @@ For purposes of this section—
 
 &emsp;&emsp;(B) the transferee's agent.
 
-(Added Pub. L. 98–369, div. A, title I, §129(a)(1), July 18, 1984, 98 Stat. 655; amended Pub. L. 99–514, title III, §311(b)(4), title XVIII, §1810(f)(2)–(4)(A), (5), (6), (8), Oct. 22, 1986, 100 Stat. 2219, 2827, 2828; Pub. L. 100–647, title I, §1003(b)(3), Nov. 10, 1988, 102 Stat. 3384; Pub. L. 103–66, title XIII, §13221(c)(3), Aug. 10, 1993, 107 Stat. 477; Pub. L. 104–188, title I, §1704(c)(1), Aug. 20, 1996, 110 Stat. 1878; Pub. L. 105–34, title III, §311(c)(1), Aug. 5, 1997, 111 Stat. 835; Pub. L. 108–27, title III, §301(a)(2)(C), May 28, 2003, 117 Stat. 758; Pub. L. 109–222, title V, §§505(b), 506(b), May 17, 2006, 120 Stat. 356, 358; Pub. L. 110–289, div. C, title I, §3024(a)–(c), July 30, 2008, 122 Stat. 2895.)
-
-#### Amendment of Section
-
-<i>For termination of amendment by section 303 of Pub. L. 108–27, see Effective and Termination Dates of 2003 Amendment note below.</i>
+(Added Pub. L. 98–369, div. A, title I, §129(a)(1), July 18, 1984, 98 Stat. 655; amended Pub. L. 99–514, title III, §311(b)(4), title XVIII, §1810(f)(2)–(4)(A), (5), (6), (8), Oct. 22, 1986, 100 Stat. 2219, 2827, 2828; Pub. L. 100–647, title I, §1003(b)(3), Nov. 10, 1988, 102 Stat. 3384; Pub. L. 103–66, title XIII, §13221(c)(3), Aug. 10, 1993, 107 Stat. 477; Pub. L. 104–188, title I, §1704(c)(1), Aug. 20, 1996, 110 Stat. 1878; Pub. L. 105–34, title III, §311(c)(1), Aug. 5, 1997, 111 Stat. 835; Pub. L. 108–27, title III, §301(a)(2)(C), May 28, 2003, 117 Stat. 758; Pub. L. 109–222, title V, §§505(b), 506(b), May 17, 2006, 120 Stat. 356, 358; Pub. L. 110–289, div. C, title I, §3024(a)–(c), July 30, 2008, 122 Stat. 2895; Pub. L. 112–240, title I, §102(c)(1)(C), (3), Jan. 2, 2013, 126 Stat. 2319.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (e)(1). Pub. L. 112–240, §102(c)(1)(C), substituted “20 percent” for “15 percent” in introductory provisions.
+
+Subsec. (e)(6). Pub. L. 112–240, §102(c)(3), substituted “20 percent” for “15 percent (20 percent in the case of taxable years beginning after December 31, 2010)”.
 
 <b>2008</b>—Subsec. (b)(7). Pub. L. 110–289, §3024(c)(1), amended par. (7) generally. Prior to amendment, par. (7) related to special rules for paragraphs (2) and (3).
 
@@ -270,7 +270,7 @@ Subsec. (f)(6). Pub. L. 110–289, §3024(b), added par. (6).
 
 Subsec. (e)(6), (7). Pub. L. 109–222, §505(b), added par. (6) and redesignated former par. (6) as (7).
 
-<b>2003</b>—Subsec. (e)(1). Pub. L. 108–27, §§301(a)(2)(C), 303, temporarily substituted “15 percent” for “20 percent”. See Effective and Termination Dates of 2003 Amendment note below.
+<b>2003</b>—Subsec. (e)(1). Pub. L. 108–27 substituted “15 percent” for “20 percent”.
 
 <b>1997</b>—Subsec. (e)(1). Pub. L. 105–34 substituted “20 percent” for “28 percent” in introductory provisions.
 
@@ -280,7 +280,7 @@ Subsec. (e)(6), (7). Pub. L. 109–222, §505(b), added par. (6) and redesignate
 
 <b>1988</b>—Subsec. (e)(1). Pub. L. 100–647 inserted “(or, to the extent provided in regulations, 28 percent)” after “to 34 percent”.
 
-<b>1986</b>—Subsec. (b)(3). Pub. L. 99–514, §1810(f)(2), amended par. (3) generally, substituting “interests in corporation not United States real property interests” for “itis not a United States real property holding corporation” in heading, striking out the comma before “if the domestic corporation” in introductory provisions, inserting subpar. (A) designation and adding subpar. (B).
+<b>1986</b>—Subsec. (b)(3). Pub. L. 99–514, §1810(f)(2), amended par. (3) generally, substituting “interests in corporation not United States real property interests” for “it is not a United States real property holding corporation” in heading, striking out the comma before “if the domestic corporation” in introductory provisions, inserting subpar. (A) designation and adding subpar. (B).
 
 Subsec. (d)(1)(A). Pub. L. 99–514, §1810(f)(3)(B), substituted “paragraph (2)” for “paragraph (2)(A)”.
 
@@ -308,6 +308,10 @@ Subsec. (e)(4). Pub. L. 99–514, §1810(f)(6), substituted “section 897” fo
 
 Subsec. (e)(6). Pub. L. 99–514, §1810(f)(8), inserted “and regulations for the application of this subsection in the case of payments through 1 or more entities”.
 
+#### Effective Date of 2013 Amendment
+
+Amendment by Pub. L. 112–240 applicable to taxable years beginning after Dec. 31, 2012 and applicable to amounts paid on or after Jan. 1, 2013, see section 102(d) of Pub. L. 112–240, set out as a note under section 1 of this title.
+
 #### Effective Date of 2008 Amendment
 
 Pub. L. 110–289, div. C, title I, §3024(d), July 30, 2008, 122 Stat. 2896, provided that: “The amendments made by this section \[amending this section\] shall apply to dispositions of United States real property interests after the date of the enactment of this Act \[July 30, 2008\].”
@@ -318,11 +322,9 @@ Amendment by section 505(b) of Pub. L. 109–222 applicable to taxable years of 
 
 Amendment by section 506(b) of Pub. L. 109–222 applicable to taxable years beginning after Dec. 31, 2005, except that such amendments shall not apply to any distribution, or substitute dividend payment, occurring before the date that is 30 days after May 17, 2006, see section 506(c) of Pub. L. 109–222, set out as a note under section 897 of this title.
 
-#### Effective and Termination Dates of 2003 Amendment
+#### Effective Date of 2003 Amendment
 
-Amendment by Pub. L. 108–27 applicable to amounts paid after May 28, 2003, see section 301(d)(2) of Pub. L. 108–27, set out as a note under section 1 of this title.
-
-Amendment by Pub. L. 108–27 inapplicable to taxable years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 303 of Pub. L. 108–27, as amended, set out as a note under section 1 of this title.
+Amendment by Pub. L. 108–27 applicable to amounts paid after May 28, 2003, see section 301(d)(2) of Pub. L. 108–27, set out as an Effective and Termination Dates of 2003 Amendment note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -330,11 +332,11 @@ Amendment by Pub. L. 105–34 applicable only to amounts paid after Aug. 5, 1997
 
 #### Effective Date of 1996 Amendment
 
-Section 1704(c)(2) of Pub. L. 104–188 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to distributions after the date of the enactment of this Act \[Aug. 20, 1996\].”
+Pub. L. 104–188, title I, §1704(c)(2), Aug. 20, 1996, 110 Stat. 1878, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to distributions after the date of the enactment of this Act \[Aug. 20, 1996\].”
 
 #### Effective Date of 1988 Amendment
 
-Section 1003(b)(3) of Pub. L. 100–647 provided that the amendment made by that section is effective for taxable years beginning after Dec. 31, 1987.
+Pub. L. 100–647, title I, §1003(b)(3), Nov. 10, 1988, 102 Stat. 3384, provided that the amendment made by that section is effective for taxable years beginning after Dec. 31, 1987.
 
 #### Effective Date of 1986 Amendment
 
@@ -342,11 +344,11 @@ Amendment by section 311(b)(4) of Pub. L. 99–514 applicable to payments made a
 
 Amendment by section 1810(f)(2), (3), (5), (6), (8) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
-Section 1810(f)(4)(B) of Pub. L. 99–514 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply to dispositions after the day 30 days after the date of the enactment of this Act \[Oct. 22, 1986\].”
+Pub. L. 99–514, title XVIII, §1810(f)(4)(B), Oct. 22, 1986, 100 Stat. 2827, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply to dispositions after the day 30 days after the date of the enactment of this Act \[Oct. 22, 1986\].”
 
 #### Effective Date
 
-Section 129(c)(1) of Pub. L. 98–369 provided that: “The amendment made by subsection (a) \[enacting this section\] shall apply to any disposition on or after January 1, 1985.”
+Pub. L. 98–369, div. A, title I, §129(c)(1), July 18, 1984, 98 Stat. 660, provided that: “The amendment made by subsection (a) \[enacting this section\] shall apply to any disposition on or after January 1, 1985.”
 
 #### Plan Amendments Not Required Until January 1, 1989
 

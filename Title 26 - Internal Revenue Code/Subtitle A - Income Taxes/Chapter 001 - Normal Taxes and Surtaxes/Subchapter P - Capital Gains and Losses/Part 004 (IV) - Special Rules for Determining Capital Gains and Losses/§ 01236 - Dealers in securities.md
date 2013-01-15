@@ -62,7 +62,7 @@ Amendment by Pub. L. 98–369 applicable to positions entered into after July 18
 
 #### Effective Date of 1983 Amendment
 
-Section 105(d)(2) of Pub. L. 97–448 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to securities acquired after September 22, 1982, in taxable years ending after such date.”
+Pub. L. 97–448, title I, §105(d)(2), Jan. 12, 1983, 96 Stat. 2387, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to securities acquired after September 22, 1982, in taxable years ending after such date.”
 
 #### Effective Date of 1981 Amendment
 

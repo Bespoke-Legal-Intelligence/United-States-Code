@@ -40,7 +40,7 @@
 
 #### (2) Applications
 
-&emsp;An application for a grant under this subsection shall be submitted by an individual scientist at such time as the Director may require.
+&emsp;An application for a grant under this subsection shall be submitted by an individualscientist at such time as the Director may require.
 
 #### (3) Limitations
 

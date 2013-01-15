@@ -8,7 +8,7 @@ Congress finds that—
 
 &emsp;(2) it is imperative to facilitate private landowner-centered and results-oriented efforts that promote efficient and innovative ways to protect and enhance natural resources;
 
-&emsp;(3) there is no readily available source of technical biological information that the public can access to assist with the application of state-of-the-art techniques to restore, enhance, and manage fish and wildlife habitats;
+&emsp;(3) there is no readily available source of technical biological information that the public can access to assist with the application ofstate-of-the-art techniques to restore, enhance, and manage fish and wildlife habitats;
 
 &emsp;(4) a voluntary cost-effective program that leverages public and private funds to assist private landowners in the conduct of state-of-the-art fish and wildlife habitat restoration, enhancement, and management projects is needed;
 

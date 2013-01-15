@@ -90,7 +90,7 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 <b>2007</b>—Subsec. (a). Pub. L. 110–140, §133(2), added subsec. (a). Former subsec. (a) redesignated (b).
 
-Subsec. (b). Pub. L. 110–140, §133(1), (3), redesignated subsec. (a) as (b), designated existing provisions as par.\(1), inserted par. heading, and added par. (2). Former subsec. (b) redesignated (c).
+Subsec. (b). Pub. L. 110–140, §133(1), (3), redesignated subsec. (a) as (b), designated existing provisions as par. (1), inserted par. heading, and added par. (2). Former subsec. (b) redesignated (c).
 
 Subsec. (c). Pub. L. 110–140, §133(1), (4), redesignated subsec. (b) as (c) and substituted “subsection (b)” for “subsection (a)”. Former subsec. (c) redesignated (d).
 

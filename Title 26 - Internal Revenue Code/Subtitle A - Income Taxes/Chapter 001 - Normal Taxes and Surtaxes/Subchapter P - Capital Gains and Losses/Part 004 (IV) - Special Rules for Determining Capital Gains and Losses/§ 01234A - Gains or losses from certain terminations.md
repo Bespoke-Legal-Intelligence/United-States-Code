@@ -32,7 +32,7 @@ Amendment by Pub. L. 107–147 effective as if included in the provisions of the
 
 #### Effective Date of 1997 Amendment
 
-Section 1003(a)(2) of Pub. L. 105–34 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to terminations more than 30 days after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title X, §1003(a)(2), Aug. 5, 1997, 111 Stat. 910, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to terminations more than 30 days after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 #### Effective Date of 1984 Amendment
 

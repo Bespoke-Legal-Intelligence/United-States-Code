@@ -6,9 +6,15 @@
 
 (c) The Secretary shall, pursuant to section 3694 of this title, enter into an agreement with the Federal Trade Commission to utilize, where appropriate, its services and facilities, consistent with its available resources, in carrying out investigations and making the Secretary's determinations under subsection (a) of this section. Such agreement shall provide that cases arising under subsection (a) of this section or any similar matters with respect to any of the requirements of this chapter or chapters 34 and 35 of this title shall be referred to the Federal Trade Commission which in its discretion will conduct an investigation and make preliminary findings. The findings and results of any such investigations shall be referred to the Secretary who shall take appropriate action in such cases within ninety days after such referral.
 
-(Added Pub. L. 93–508, title II, §212(a), Dec. 3, 1974, 88 Stat. 1585, §1796; amended Pub. L. 94–502, title V, §§512, 513(a)(22), Oct. 15, 1976, 90 Stat. 2402, 2403; Pub. L. 98–543, title IV, §401, Oct. 24, 1984, 98 Stat. 2749; Pub. L. 101–237, title IV, §423(b)(1)(A), (2), Dec. 18, 1989, 103 Stat. 2092; renumbered §3696 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
+(d)(1) The Secretary shall not approve under this chapter any course offered by an educational institution if the educational institution provides any commission, bonus, or other incentive payment based directly or indirectly on success in securing enrollments or financial aid to any persons or entities engaged in any student recruiting or admission activities or in making decisions regarding the award of student financial assistance.
+
+(2) To the degree practicable, the Secretary shall carry out paragraph (1) in a manner that is consistent with the Secretary of Education's enforcement of section 487(a)(20) of the Higher Education Act of 1965 (20 U.S.C. 1094(a)(20)).
+
+(Added Pub. L. 93–508, title II, §212(a), Dec. 3, 1974, 88 Stat. 1585, §1796; amended Pub. L. 94–502, title V, §§512, 513(a)(22), Oct. 15, 1976, 90 Stat. 2402, 2403; Pub. L. 98–543, title IV, §401, Oct. 24, 1984, 98 Stat. 2749; Pub. L. 101–237, title IV, §423(b)(1)(A), (2), Dec. 18, 1989, 103 Stat. 2092; renumbered §3696 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 112–249, §2, Jan. 10, 2013, 126 Stat. 2401.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (d). Pub. L. 112–249 added subsec. (d).
 
 <b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1796 of this title as this section.
 

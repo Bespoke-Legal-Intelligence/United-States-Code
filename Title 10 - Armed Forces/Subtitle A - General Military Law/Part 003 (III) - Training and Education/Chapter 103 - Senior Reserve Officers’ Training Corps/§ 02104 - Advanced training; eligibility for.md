@@ -106,7 +106,7 @@ June 30, 1954, ch. 432, title VII, §731, 68 Stat. 356.
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–525, §543(a)(1), struck out “, who have at least two academic years remaining at such educational institution” after “in the program”.
 
-Subsec. (b)(6). Pub. L. 98–525, §543(a)(2), inserted initial word “either”, redesignated existing subpars. (A) and (B) as cls. (i) and (ii) of subpar. (A), and added subpar. (B).
+Subsec. (b)(6). Pub. L. 98–525, §543(a)(2), inserted initial word “either”, redesignated existing subpars. (A)and (B) as cls. (i) and (ii) of subpar. (A), and added subpar. (B).
 
 Subsec. (b)(7). Pub. L. 98–525, §1401(h), added par. (7).
 
@@ -114,7 +114,7 @@ Subsec. (b)(7). Pub. L. 98–525, §1401(h), added par. (7).
 
 #### Effective Date of 1984 Amendment
 
-Section 543(b) of Pub. L. 98–525 provided that: “The amendments made by subsection (a) \[amending this section\] do not constitute authority for the enactment of new budget authority for a fiscal year beginning before October 1, 1984.”
+Pub. L. 98–525, title V, §543(b), Oct. 19, 1984, 98 Stat. 2530, provided that: “The amendments made by subsection (a) \[amending this section\] do not constitute authority for the enactment of new budget authority for a fiscal year beginning before October 1, 1984.”
 
 Amendment by section 1401(h) of Pub. L. 98–525 effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as an Effective Date note under section 520b of this title.
 

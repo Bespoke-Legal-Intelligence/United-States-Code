@@ -10,7 +10,7 @@
 
 (ii) Not later than 15 calendar days after the date an agency of the Department of Agriculture receives a request for information made pursuant to clause (i), the agency shall provide the Secretary with the requested information.
 
-(iii) If, not later than 20 calendar days after the date a request is made pursuant to clause (i)with respect to an application, the Secretary has not received the information requested, the Secretary shall notify the applicant and the district office of the Farmers Home Administration, in writing, of the outstanding information.
+(iii) If, not later than 20 calendar days after the date a request is made pursuant to clause (i) with respect to an application, the Secretary has not received the information requested, the Secretary shall notify the applicant and the district office of the Farmers Home Administration, in writing, of the outstanding information.
 
 (iv) A county office shall notify the district office of the Farmers Home Administration of each application for an operating loan or loan guarantee under subchapter II of this chapter that is pending more than 45 days after receipt, and the reasons the application is pending.
 
@@ -32,7 +32,7 @@
 
 (1) Except as provided in paragraph (2), if an application for an insured loan under this chapter is approved by the Secretary, the Secretary shall provide the loan proceeds to the applicant not later than 15 days (or such longer period as the applicant may approve) after the application for the loan is approved by the Secretary.
 
-(2) If the Secretary is unable to provide the loan proceeds to the applicant within such 15-day period because sufficient funds are not available to the Secretary for such purpose, the Secretary shall provide the loan proceeds to the applicant as soon as practicable (but in no event later than 15 days unless the applicant agrees to a longer period) after sufficient funds for such purpose become available to the Secretary.
+(2) If the Secretary is unable to provide the loan proceeds to the applicant within such 15-day period because sufficient funds are not available to the Secretary for such purpose, theSecretary shall provide the loan proceeds to the applicant as soon as practicable (but in no event later than 15 days unless the applicant agrees to a longer period) after sufficient funds for such purpose become available to the Secretary.
 
 #### (c) Reconsideration of applications; time for action by Secretary
 
@@ -140,7 +140,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 <b>2002</b>—Subsec. (g). Pub. L. 107–171, §6019, added subsec. (g) and struck out former subsec. (g) which read as follows:
 
-“(1) The Secretary shall provide to lenders a short, simplified application form for guarantees under thischapter of loans the principal amount of which is $125,000 or less.
+“(1) The Secretary shall provide to lenders a short, simplified application form for guarantees under this chapter of loans the principal amount of which is $125,000 or less.
 
 “(2) In developing the application, the Secretary shall—
 
@@ -180,7 +180,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 #### Effective Date
 
-Section 1312(b) of Pub. L. 99–198 provided that: “The amendment made by subsection (a) \[enacting this section\] shall be effective with respect to applications for loans or loan guarantees under the Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.) received by the Secretary of Agriculture after the date of enactment of this Act \[Dec. 23, 1985\].”
+Pub. L. 99–198, title XIII, §1312(b), Dec. 23, 1985, 99 Stat. 1525, provided that: “The amendment made by subsection (a) \[enacting this section\] shall be effective with respect to applications for loans or loan guarantees under the Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.) received by the Secretary of Agriculture after the date of enactment of this Act \[Dec. 23, 1985\].”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

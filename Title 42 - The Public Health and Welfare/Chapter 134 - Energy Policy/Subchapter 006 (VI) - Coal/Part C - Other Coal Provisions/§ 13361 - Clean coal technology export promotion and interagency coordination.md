@@ -30,9 +30,9 @@ The Secretary, acting through the CCT Subgroup, shall—
 
 &emsp;(4) encourage the training in, and understanding of, clean coal technologies by representatives of foreign companies or countries intending to use coal or clean coal technologies by providing technical or financial support for training programs, workshops, and other educational programs sponsored by United States firms;
 
-&emsp;(5) educate loan officers and other officers of international lending institutions, commercial and energy attache�AE1s of the United States, and such other personnel as the CCT Subgroup considers appropriate, for the purposes of providing information about clean coal technologies to foreign governments or potential project sponsors of clean coal technology projects;
+&emsp;(5) educate loan officers and other officers of international lending institutions, commercial and energy attachés of the United States, and such other personnel as the CCT Subgroup considers appropriate, for the purposes of providing information about clean coal technologies to foreign governments or potential project sponsors of clean coal technology projects;
 
-&emsp;(6) develop policies and practices to be conducted by commercial and energy attache�AE1s of the United States, and such other personnel as the CCT Subgroup considers appropriate, in order to promote the exports of clean coal technologies to those countries interested in or intending to utilize coal resources;
+&emsp;(6) develop policies and practices to be conducted by commercial and energy attachés of the United States, and such other personnel as the CCT Subgroup considers appropriate, in order to promote the exports of clean coal technologies to those countries interested in or intending to utilize coal resources;
 
 &emsp;(7) augment budgets for trade and development programs supported by Federal agencies for the purpose of financially supporting prefeasibility or feasibility studies for projects in foreign countries that will utilize clean coal technologies;
 
@@ -50,7 +50,7 @@ The Secretary, acting through the CCT Subgroup, shall—
 
 (2) The Secretary, acting through the CCT Subgroup, shall assess and prioritize foreign markets that have the most potential for the export of clean coal technologies that are developed, manufactured, or controlled by United States firms. Such assessment shall include—
 
-&emsp;(A) an analysis of the financing requirements for clean coal technology projects in foreign countries and whether such projects are dependent upon financial assistance from foreign countries or multilateral institutions;
+&emsp;(A) an analysis of the financing requirements for clean coal technology projects in foreign countries and whether such projectsare dependent upon financial assistance from foreign countries or multilateral institutions;
 
 &emsp;(B) the availability of other fuel or energy resources that may be available to meet the energy requirements intended to be met by the clean coal technology projects;
 

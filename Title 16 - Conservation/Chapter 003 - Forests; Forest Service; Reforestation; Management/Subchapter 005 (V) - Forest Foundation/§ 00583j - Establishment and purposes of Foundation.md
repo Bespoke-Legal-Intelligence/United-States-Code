@@ -36,5 +36,5 @@ Pub. L. 103–106, §1, Oct. 12, 1993, 107 Stat. 1031, provided that: “This Ac
 
 #### Short Title
 
-Section 401 of title IV of Pub. L. 101–593 provided that: “This title \[enacting this subchapter\] may be cited as the ‘National Forest Foundation Act’.”
+Pub. L. 101–593, title IV, §401, Nov. 16, 1990, 104 Stat. 2969, provided that: “This title \[enacting this subchapter\] may be cited as the ‘National Forest Foundation Act’.”
 

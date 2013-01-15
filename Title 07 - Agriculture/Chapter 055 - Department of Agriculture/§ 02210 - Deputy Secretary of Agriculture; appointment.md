@@ -24,5 +24,5 @@ Functions of all officers, agencies, and employees of Department of Agriculture 
 
 #### Status of Incumbent Under Secretary of Agriculture
 
-Section 1(d) of Pub. L. 94–561 provided that: “The officer occupying the position of Under Secretary of Agriculture, on the date of enactment of this Act \[Oct. 19, 1976\], may assume the duties of the Deputy Secretary of Agriculture. The individual assuming such duties shall not be required to be reappointed by reason of the enactment of this Act.”
+Pub. L. 94–561, §1(d), Oct. 19, 1976, 90 Stat. 2643, provided that: “The officer occupying the position of Under Secretary of Agriculture, on the date of enactment of this Act \[Oct. 19, 1976\], may assume the duties of the Deputy Secretary of Agriculture. The individual assuming such duties shall not be required to be reappointed by reason of the enactment of this Act.”
 

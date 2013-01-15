@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(bb) not less than 25 percent shall be available to the Secretary to support a State-based training and technical assistance system, or a national system, described in section 9843(e) of this title for supporting program quality; and
 
-&emsp;&emsp;(cc) the remainder of the portion set aside under this subclause shall be available to the Secretary to assist Head Start agencies in meeting and exceeding the standards described in section 9836a(a)(1) of this title bycarrying out activities described in subsections (a), (b), (c), (f), and (g) of section 9843 of this title, including helping Head Start programs address weaknesses identified by monitoring activities conducted by the Secretary under section 9836a(c) of this title, except that not less than $3,000,000 of the remainder shall be made available to carry out activities described in section 9843(a)(3)(B)(ii) of this title.
+&emsp;&emsp;(cc) the remainder of the portion set aside under this subclause shall be available to the Secretary to assist Head Start agencies in meeting and exceeding the standards described in section 9836a(a)(1) of this title by carrying out activities described in subsections (a), (b), (c), (f), and (g) of section 9843 of this title, including helping Head Start programs address weaknesses identified by monitoring activities conducted by the Secretary under section 9836a(c) of this title, except that not less than $3,000,000 of the remainder shall be made available to carry out activities described in section 9843(a)(3)(B)(ii) of this title.
 
 (ii) In determining the portion set aside under clause (i)(I) and the amount reserved under this subparagraph, the Secretary shall consider the number of Early Head Start programs newly funded for that fiscal year.
 
@@ -54,7 +54,7 @@
 
 &emsp;&emsp;(I) for each of fiscal years 2008, 2009, and 2010—
 
-&emsp;&emsp;&emsp;(aa) subject to subparagraph (B), provide 5 percent of that amount for Indian Head Start programs (including Early Head Start programs), and 5 percent of that amount for migrant and seasonal Head Start programs, to increase enrollment in the programs involved; and
+&emsp;&emsp;&emsp;(aa) subject to subparagraph (B), provide 5 percent of that amount for Indian HeadStart programs (including Early Head Start programs), and 5 percent of that amount for migrant and seasonal Head Start programs, to increase enrollment in the programs involved; and
 
 &emsp;&emsp;&emsp;(bb) use 90 percent of that amount to provide, for each Head Start agency (including each Early Head Start agency) funded as described in clause (i)(I), the same percentage (but not less than 50 percent) of the cost of living increase described in clause (i); and
 
@@ -112,7 +112,7 @@
 
 &emsp;(ii) for any fiscal year after the last fiscal year for which Indian Head Start programs receive funds under the special expansion provisions, use 3 percent for Head Start programs funded under paragraph (2)(B)(ii) (other than Early Head Start programs), except that the Secretary may increase that percentage if the Secretary determines that the results of the study conducted under section 9844(k) of this title indicate that the percentage should be increased;
 
-&emsp;(iii) for any fiscal year after the last fiscal year for which migrant or seasonal Head Start programs receive funds under the special expansion provisions, use 4.5 percent for Head Start programs funded under paragraph (2)(B)(iii) (other than Early Head Start programs), except that the Secretary may increase that percentage if the Secretary determines that the results of the study conducted under section 9844(<i>l</i>) of this title indicate that the percentage should be increased; and
+&emsp;(iii) for any fiscal year after the last fiscal year for which migrant or seasonal Head Start programs receive funds under the special expansion provisions, use 4.5 percent for Head Start programs funded under paragraph (2)(B)(iii) (other than Early Head Start programs), except that the Secretary may increase that percentage if the Secretary determines that the results of the study conducted under section 9844(l) of this title indicate that the percentage should be increased; and
 
 &emsp;(iv) from the remainder of the reserved amount—
 
@@ -220,7 +220,7 @@ The Secretary shall adopt appropriate administrative measures to assure that the
 
 #### (f) Guidelines for local service delivery models
 
-(1) Not later than 1 year after December 12, 2007, the Secretary shall establish procedures to enable Head Start agencies to develop locally designed or specialized service delivery models to address local community needs, including models that leverage the capacity and capabilities of the delivery system of early childhood education and development services or programs.
+(1) Not later than 1 year after December 12, 2007, the Secretary shall establish procedures to enable Head Start agencies to develop locally designed or specialized service delivery models to address local community needs, including models that leverage the capacity and capabilities of the delivery system of early childhoodeducation and development services or programs.
 
 (2) In establishing the procedures the Secretary shall establish procedures to provide for—
 
@@ -276,7 +276,7 @@ Financial assistance provided under this subchapter may be used by each Head Sta
 
 #### (i) Vehicle safety regulations
 
-The Secretary shall issue regulations establishing requirements for the safety features, and the safe operation, of vehicles used by Head Start agencies to transport children participating in Head Start programs. The regulations shall also establish requirements to ensure the appropriate supervision of, and appropriate background checks for, individuals with whom the agencies contract to transport those children.
+The Secretary shall issue regulations establishing requirements for the safety features, and the safe operation, of vehicles used by HeadStart agencies to transport children participating in Head Start programs. The regulations shall also establish requirements to ensure the appropriate supervision of, and appropriate background checks for, individuals with whom the agencies contract to transport those children.
 
 #### (j) Compensation of staff
 
@@ -294,7 +294,7 @@ Any agency that receives financial assistance under this subchapter to improve t
 
 (2) The provisions of this subsection shall not be construed to restrict the authority of the Secretary to fund alternative program variations authorized under section 1306.35 of title 45 of the Code of Federal Regulations in effect on May 18, 1994.
 
-#### (<i>l</i>) Frequent relocation of migrant families
+#### (l) Frequent relocation of migrant families
 
 (1) With funds made available under this subchapter to expand migrant and seasonal Head Start programs, the Secretary shall give priority to migrant and seasonal Head Start programs that serve eligible children of migrant or seasonal farmworker families whose work requires them to relocate most frequently.
 
@@ -328,11 +328,11 @@ The Secretary shall issue rules to establish policies and procedures to remove b
 
 Nothing in this subchapter shall be construed to require a State to establish a publicly funded program of early childhood education and development, or to require any child to participate in such a publicly funded program, including a State-funded preschool program, or to participate in any initial screening before participating in a publicly funded program of early childhood education and development, except as provided under sections 612(a)(3) and 635(a)(5) of the Individuals with Disabilities Education Act (20 U.S.C. 1412(a)(3), 1435(a)(5)).
 
-#### (<i>o</i>) Curricula
+#### (o) Curricula
 
 All curricula funded under this subchapter shall be based on scientifically valid research, and be age and developmentally appropriate. The curricula shall reflect all areas of child development and learning and be aligned with the Head Start Child Outcomes Framework. Parents shall have the opportunity to examine any such curricula or instructional materials funded under this subchapter.
 
-(Pub. L. 97–35, title VI, §640, Aug. 13, 1981, 95 Stat. 499; Pub. L. 98–558, title I, §103, Oct. 30, 1984, 98 Stat. 2878; Pub. L. 99–425, title I, §102, Sept. 30, 1986, 100 Stat. 966; Pub. L. 101–476, title IX, §901(d), Oct. 30, 1990, 104 Stat. 1151; Pub. L. 101–501, title I, §§104(a), 105, 123(b), Nov. 3, 1990, 104 Stat. 1224, 1228, 1237; Pub. L. 102–119, §26(g), Oct. 7, 1991, 105 Stat. 607; Pub. L. 102–401, §2(a)–(d), (k)(1), Oct. 7, 1992, 106 Stat. 1956, 1958; Pub. L. 103–252, title I, §105, May 18, 1994, 108 Stat. 626; Pub. L. 104–193, title I, §110(t), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 105–285, title I, §106(a)–(d), Oct. 27, 1998, 112 Stat. 2705–2711; Pub. L. 108–446, title III, §305(<i>l</i>)(1), (2), Dec. 3, 2004, 118 Stat. 2806; Pub. L. 110–134, §6, Dec. 12, 2007, 121 Stat. 1367.)
+(Pub. L. 97–35, title VI, §640, Aug. 13, 1981, 95 Stat. 499; Pub. L. 98–558, title I, §103, Oct. 30, 1984, 98 Stat. 2878; Pub. L. 99–425, title I, §102, Sept. 30, 1986, 100 Stat. 966; Pub. L. 101–476, title IX, §901(d), Oct. 30, 1990, 104 Stat. 1151; Pub. L. 101–501, title I, §§104(a), 105, 123(b), Nov. 3, 1990, 104 Stat. 1224, 1228, 1237; Pub. L. 102–119, §26(g), Oct. 7, 1991, 105 Stat. 607; Pub. L. 102–401, §2(a)–(d), (k)(1), Oct. 7, 1992, 106 Stat. 1956, 1958; Pub. L. 103–252, title I, §105, May 18, 1994, 108 Stat. 626; Pub. L. 104–193, title I, §110(t), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 105–285, title I, §106(a)–(d), Oct. 27, 1998, 112 Stat. 2705–2711; Pub. L. 108–446, title III, §305(l)(1), (2), Dec. 3, 2004, 118 Stat. 2806; Pub. L. 110–134, §6, Dec. 12, 2007, 121 Stat. 1367.)
 
 #### References in Text
 
@@ -378,17 +378,17 @@ Subsec. (g)(3), (4). Pub. L. 110–134, §6(d)(1), (4), added par. (3) and struc
 
 Subsec. (i). Pub. L. 110–134, §6(e), inserted at end “The regulations shall also establish requirements to ensure the appropriate supervision of, and appropriate background checks for, individuals with whom the agencies contract to transport those children.”
 
-Subsec. (<i>l</i>)(1). Pub. L. 110–134, §6(f)(1), substituted “With funds made available under this subchapter to expand migrant and seasonal Head Start programs,” for “With funds made available under subsection (a)(2) of this section to migrant and seasonal Head Start programs,” and “children of migrant or seasonal farmworker families” for “children of migrant and seasonal farmworker families”.
+Subsec. (l)(1). Pub. L. 110–134, §6(f)(1), substituted “With funds made available under this subchapter to expand migrant and seasonal Head Start programs,” for “With funds made available under subsection (a)(2) of this section to migrant and seasonal Head Start programs,” and “children of migrant or seasonal farmworker families” for “children of migrant and seasonal farmworker families”.
 
-Subsec. (<i>l</i>)(2). Pub. L. 110–134, §6(f)(2), substituted “In determining” for “For purposes of subsection (a)(2)(A) of this section, in determining”, “children of migrant farmworker families” for “children of migrant farmworkers”, “under this subchapter” for “under such subsection”, “children of seasonal farmworker families” for “children of seasonal farmworkers” in two places, and “children of such farmworker families” for “children of such farmworkers”.
+Subsec. (l)(2). Pub. L. 110–134, §6(f)(2), substituted “In determining” for “For purposes of subsection (a)(2)(A) of this section, in determining”, “children of migrant farmworker families” for “children of migrant farmworkers”, “under this subchapter” for “under such subsection”, “children of seasonal farmworker families” for “children of seasonal farmworkers” in two places, and “children of such farmworker families” for “children of such farmworkers”.
 
-Subsec. (<i>l</i>)(3), (4). Pub. L. 110–134, §6(f)(3), added pars. (3) and (4) and struck out former par. (3) which read as follows: “In carrying out this subchapter, the Secretary shall continue the administrative arrangement responsible for meeting the needs of children of migrant and seasonal farmworkers and Indian children and shall ensure that appropriate funding is provided to meet such needs.”
+Subsec. (l)(3), (4). Pub. L. 110–134, §6(f)(3), added pars. (3) and (4) and struck out former par. (3) which read as follows: “In carrying out this subchapter, the Secretary shall continue the administrative arrangement responsible for meeting the needs of children of migrant and seasonal farmworkers and Indian children and shall ensure that appropriate funding is provided to meet such needs.”
 
-Subsecs. (m) to (<i>o</i>). Pub. L. 110–134, §6(g), added subsecs. (m) to (<i>o</i>).
+Subsecs. (m) to (o). Pub. L. 110–134, §6(g), added subsecs. (m) to (o).
 
-<b>2004</b>—Subsec. (a)(5)(C)(iv). Pub. L. 108–446, §305(<i>l</i>)(1), substituted “1431–1444” for “1431–1445”.
+<b>2004</b>—Subsec. (a)(5)(C)(iv). Pub. L. 108–446, §305(l)(1), substituted “1431–1444” for “1431–1445”.
 
-Subsec. (d). Pub. L. 108–446, §305(<i>l</i>)(2), substituted “U.S.C.” for “U.S.C” and “1431–1444” for “1431–1445”.
+Subsec. (d). Pub. L. 108–446, §305(l)(2), substituted “U.S.C.” for “U.S.C” and “1431–1444” for “1431–1445”.
 
 <b>1998</b>—Subsec. (a)(2). Pub. L. 105–285, §106(a)(1)(F), inserted at end of concluding provisions “No Freely Associated State may receive financial assistance under this subchapter after fiscal year 2002.”
 
@@ -414,7 +414,7 @@ Subsec. (a)(3)(B)(vi). Pub. L. 105–285, §106(a)(2)(B)(iv), inserted before pe
 
 Subsec. (a)(3)(B)(vii), (viii). Pub. L. 105–285, §106(a)(2)(B)(v), (vi), added cl. (vii) and redesignated former cl. (vii) as (viii).
 
-Subsec. (a)(3)(C)(i)(I). Pub. L. 105–285, §106(a)(2)(C)(i)(I), substituted “this paragraph” for “this subparagraph”, “of classroom teachers and otherstaff” for “of staff”, and “qualified staff, including recruitment and retention pursuant to achieving the requirements set forth in section 9843a(a) of this title” for “such staff”, and inserted at end “Preferences in awarding salary increases, in excess of cost-of-living allowances, with such funds shall be granted to classroom teachers and staff who obtain additional training or education related to their responsibilities as employees of a Head Start program.”
+Subsec. (a)(3)(C)(i)(I). Pub. L. 105–285, §106(a)(2)(C)(i)(I), substituted “this paragraph” for “this subparagraph”, “of classroom teachers and other staff” for “of staff”, and “qualified staff, including recruitment and retention pursuant to achieving the requirements set forth in section 9843a(a) of this title” for “such staff”, and inserted at end “Preferences in awarding salary increases, in excess of cost-of-living allowances, with such funds shall be granted to classroom teachers and staff who obtain additional training or education related to their responsibilities as employees of a Head Start program.”
 
 Subsec. (a)(3)(C)(i)(II). Pub. L. 105–285, §106(a)(2)(C)(i)(II), substituted “this subparagraph” for “the subparagraph”.
 
@@ -468,7 +468,7 @@ Subsec. (g)(2)(G), (H). Pub. L. 105–285, §106(c)(1)(E), (F), added subpars. (
 
 Subsec. (g)(4). Pub. L. 105–285, §106(c)(2), added par. (4).
 
-Subsec. (<i>l</i>). Pub. L. 105–285, §106(d), designated existing provisions as par. (1), substituted “migrant and seasonal Head Start programs” for “migrant Head Start programs” in two places and “migrant and seasonal farmworker families” for “migrant families”, and added pars. (2) and (3).
+Subsec. (l). Pub. L. 105–285, §106(d), designated existing provisions as par. (1), substituted “migrant and seasonal Head Start programs” for “migrant Head Start programs” in two places and “migrant and seasonal farmworker families” for “migrant families”, and added pars. (2) and (3).
 
 <b>1996</b>—Subsec. (a)(4)(B)(i). Pub. L. 104–193 substituted “State program of assistance funded” for “program of aid to families with dependent children under a State plan approved”.
 
@@ -480,7 +480,7 @@ Subsec. (a)(2)(D). Pub. L. 103–252, §105(b)(2)(B), inserted “(including pay
 
 Subsec. (a)(3)(A), (B). Pub. L. 103–252, §105(a)(2), added subpars. (A) and (B). Former subpars. (A) and (B) redesignated subpars. (C) and (D), respectively.
 
-Subsec. (a)(3)(C). Pub. L. 103–252, §105(a)(1)–(3), redesignated subpar. (A) as (C), substituted in introductory provisions “Quality improvement funds shall be used to carry out any or all of the following activities:” for “For any fiscal year for which the amount appropriated under section 9834(a) of this title exceeds the adjusted appropriation, the Secretary shall reserve the qualityimprovement funds for such fiscal year, for one or more of the following quality improvement activities:”, and added cl. (vii).
+Subsec. (a)(3)(C). Pub. L. 103–252, §105(a)(1)–(3), redesignated subpar. (A) as (C), substituted in introductory provisions “Quality improvement funds shall be used to carry out any or all of the following activities:” for “For any fiscal year for which the amount appropriated under section 9834(a) of this title exceeds the adjusted appropriation, the Secretary shall reserve the quality improvement funds for such fiscal year, for one or more of the following quality improvement activities:”, and added cl. (vii).
 
 Subsec. (a)(3)(D). Pub. L. 103–252, §105(a)(1), redesignated subpar. (B) as (D).
 
@@ -512,7 +512,7 @@ Subsec. (g). Pub. L. 103–252, §105(c), designated existing provisions as par.
 
 Subsec. (h). Pub. L. 103–252, §105(d), substituted “Financial assistance provided under this subchapter may be used by each Head Start program to” for “Each Head Start program may”.
 
-Subsecs. (j) to (<i>l</i>). Pub. L. 103–252, §105(e), added subsecs. (j) to (<i>l</i>).
+Subsecs. (j) to (l). Pub. L. 103–252, §105(e), added subsecs. (j) to (l).
 
 <b>1992</b>—Subsec. (a)(2)(A). Pub. L. 102–401, §2(k)(1)(A)(i)(I), inserted “children” after “handicapped”.
 
@@ -578,11 +578,11 @@ Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules rel
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–252 effective May 18, 1994, but not applicable to Head Start agencies and other recipients of financial assistance under the Head Start Act (42 U.S.C. 9831 et seq.) until Oct. 1, 1994, see section 127 of Pub. L. 103–252, set out as a note under section 9832 of this title.
+Amendment by Pub. L. 103–252 effective May 18, 1994, but not applicable to Head Start agencies and other recipients of financial assistance under the Head Start Act (42 U.S.C. 9831 et seq.) until Oct. 1, 1994, see section127 of Pub. L. 103–252, set out as a note under section 9832 of this title.
 
 #### Effective Date of 1992 Amendment
 
-Section 4 of Pub. L. 102–401 provided that:
+Pub. L. 102–401, §4, Oct. 7, 1992, 106 Stat. 1959, provided that:
 
 “(a)
 

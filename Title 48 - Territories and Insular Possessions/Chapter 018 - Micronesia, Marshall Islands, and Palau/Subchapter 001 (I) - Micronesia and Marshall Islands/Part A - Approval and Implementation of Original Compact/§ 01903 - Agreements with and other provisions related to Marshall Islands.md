@@ -12,7 +12,7 @@
 
 #### (B) Narcotics and control of illegal substances
 
-&emsp;&emsp;The United States and the Marshall Islands will take all reasonable and necessary steps, as mutually agreed, based upon consultations in which the Attorney General or other designated official of each Government participates, to prevent the use of the lands, waters, and facilities of the United States or the Marshall Islands for the purposes of cultivation of, production of, smuggling of, trafficking in, and abuse of any controlled substance as defined in section 802(6) of title 21 and Schedules I through V of SubchapterII of the Controlled Substances Act of the Marshall Islands, or for the distribution of any such substance to or from the Marshall Islands or to or from the United States or any of its territories or commonwealths.
+&emsp;&emsp;The United States and the Marshall Islands will take all reasonable and necessary steps, as mutually agreed, based upon consultations in which the Attorney General or other designated official of each Government participates, to prevent the use of the lands, waters, and facilities of the United States or the Marshall Islands for the purposes of cultivation of, production of, smuggling of, trafficking in, and abuse of any controlled substance as defined in section 802(6) of title 21 and Schedules I through V of Subchapter II of the Controlled Substances Act of the Marshall Islands, or for the distribution of any such substance to or from the Marshall Islands or to or from the United States or any of its territories or commonwealths.
 
 #### (C) Other criminal laws
 
@@ -20,11 +20,11 @@
 
 #### (2) Technical and training assistance
 
-&emsp;Pursuant to sections 224 and 226 of the Compact, the United States shall provide non-reimbursable technical and training assistance as appropriate, including training and equipment for postal inspection of illicit drugs and other contraband, to enable the Government of the Marshall Islands to develop and adequately enforce laws of the Marshall Islands and to cooperate with the United States in the enforcement of criminal laws of the United States. Funds appropriated pursuant to section 1905(<i>l</i>) of this title may be used to reimburse State or local agencies providing such assistance.
+&emsp;Pursuant to sections 224 and 226 of the Compact, the United States shall provide non-reimbursable technical and training assistance as appropriate, including training and equipment for postal inspection of illicit drugs and other contraband, to enable the Government of the Marshall Islands to develop and adequately enforce laws of the Marshall Islands and to cooperate with the United States in the enforcement of criminal laws of the United States. Funds appropriated pursuant to section 1905(l) of this title may be used to reimburse State or local agencies providing such assistance.
 
 #### (3) Consultation
 
-&emsp;Any official, designated by this joint resolution or by the President to negotiate any agreement under this section, shall consult with affected law enforcement agencies prior to entering into such an agreement on behalf of the United States.
+&emsp;Any official, designated by this joint resolution or by the President to negotiate any agreement under this section, shall consult with affected law enforcement agencies priorto entering into such an agreement on behalf of the United States.
 
 #### (4) Report
 
@@ -64,7 +64,7 @@
 
 #### (1) Statement of policy
 
-&emsp;The Congress of the United States hereby declares that it is the policy of the United Statesthat payment of funds by the Government of the Marshall Islands to the landowners of Kwajalein Atoll in accordance with the land use agreement dated October 19, 1982, and the related allocation agreements, is required in order to ensure that the Government of the United States will be able to fulfill its obligations and responsibilities under Title Three of the Compact and the subsidiary agreements concluded pursuant thereto.
+&emsp;The Congress of the United States hereby declares that it is the policy of the United States that payment of funds by the Government of the Marshall Islands to the landowners of Kwajalein Atoll in accordance with the land use agreement dated October 19, 1982, and the related allocation agreements, is required in order to ensure that the Government of the United States will be able to fulfill its obligations and responsibilities under Title Three of the Compact and the subsidiary agreements concluded pursuant thereto.
 
 #### (2) Failure to pay
 
@@ -72,7 +72,7 @@
 
 #### (3) Assistance
 
-&emsp;The President is hereby authorized to make loans and grants to the Government of the Marshall Islands for the sole use of the Kwajalein Atoll Development Authority for the benefit of the Kwajalein landowners of amounts sought by such authority for development purposes, pursuant to a development plan for Kwajalein Atoll which such authority has adopted in accordance with applicable laws of the Marshall Islands. Such loans and grants shall be subject to such other terms and conditions as the President, in his discretion, may determine appropriate and necessary.
+&emsp;The President is hereby authorized to make loans and grants to the Government of the Marshall Islands for the sole use of the Kwajalein Atoll Development Authority for the benefit of the Kwajalein landowners of amounts sought by such authority for development purposes, pursuant to a development plan for Kwajalein Atoll which such authority has adopted in accordance with applicable laws ofthe Marshall Islands. Such loans and grants shall be subject to such other terms and conditions as the President, in his discretion, may determine appropriate and necessary.
 
 #### (e) Section 177 Agreement
 
@@ -104,7 +104,7 @@ In approving the Compact, the Congress understands and intends that the peoples 
 
 #### (2) Agricultural and food programs
 
-&emsp;Notwithstanding any other provision of law, upon the request of the Government of the Marshall Islands, for the first fifteen years after the effective date of the Compact, the President (either through an appropriate department or agency of the United States or by contract with a United States firm or by a grant to the Government of the Republic of the Marshall Islands which may further contract only with a United States firm or a Republic of the Marshall Islands firm, the owners, officers and majority of the employees of which are citizens of the United States or the Republic of the Marshall Islands) shall provide technical and other assistance—
+&emsp;Notwithstanding any other provision of law, upon the request of the Government of the Marshall Islands, for the first fifteen years after the effective date of the Compact, the President (either through an appropriate department or agency of the United States or by contract with a United States firm or by a grant to the Government of the Republic ofthe Marshall Islands which may further contract only with a United States firm or a Republic of the Marshall Islands firm, the owners, officers and majority of the employees of which are citizens of the United States or the Republic of the Marshall Islands) shall provide technical and other assistance—
 
 &emsp;&emsp;(A) without reimbursement, to continue the planting and agricultural maintenance program on Enewetak;
 
@@ -156,13 +156,13 @@ Notwithstanding any other provision of law, the Secretary of the Treasury shall 
 
 #### (5) Interest from Fund
 
-&emsp;Prior to and during the distribution of the corpus of the Fund pursuant to paragraphs (3) and (4) of this subsection, the people of Enjebi may, if they so request, receive the interestearned by the Fund on no less frequent a basis than quarterly.
+&emsp;Prior to and during the distribution of the corpus of the Fund pursuant to paragraphs (3) and (4) of this subsection, the people of Enjebi may, if they so request, receive the interest earned by the Fund on no less frequent a basis than quarterly.
 
 #### (6) Disclaimer of liability
 
 &emsp;Neither under the laws of the Marshall Islands nor under the laws of the United States, shall the Government of the United States be liable for any loss or damage to person or property in respect to the resettlement of Enjebi by the people of Enjebi, pursuant to the provision of this subsection or otherwise.
 
-#### (<i>l</i>) Bikini Atoll cleanup
+#### (l) Bikini Atoll cleanup
 
 #### (1) Declaration of policy
 
@@ -216,7 +216,7 @@ In accordance with section 233 of the Compact, the President of the United State
 
 #### (6) Cooperation by Marshall Islands
 
-&emsp;The Government of the Marshall Islands will cooperate fully with the Comptroller General of the United States in the conduct of such audits as the Comptroller General determines necessary to enable the Comptroller Generalto fully discharge his responsibilities under this joint resolution.
+&emsp;The Government of the Marshall Islands will cooperate fully with the Comptroller General of the United States in the conduct of such audits as the Comptroller General determines necessary to enable the Comptroller General to fully discharge his responsibilities under this joint resolution.
 
 (Pub. L. 99–239, title I, §103, Jan. 14, 1986, 99 Stat. 1778; Pub. L. 100–446, title I, §115, Sept. 27, 1988, 102 Stat. 1802; Pub. L. 102–247, title III, §304, Feb. 24, 1992, 106 Stat. 39; Pub. L. 105–209, §2, July 29, 1998, 112 Stat. 880.)
 
@@ -276,7 +276,7 @@ Pub. L. 95–134, title I, §106, as added by Pub. L. 96–205, title I, §102, 
 
 &emsp;“(3) an education and information program to enable the people of such atolls to more fully understand nuclear radiation and its effects;
 
-“(b)(1) The Secretary shall submit the plan to the Congress no later than January 1, 1981, together with his recommendations, if any, for further legislation. The plan shall set forth the specific agencies responsible for implementing the various elements of the plan. With respect to general health care the Secretary shall consider, and shall include in his recommendations, the feasibility of using the Public Health Service. After consultation with the Chairman of the National Academy of Sciences, the Secretary of Energy, the Secretary of Defense, and the Secretary of Health and Human Services, the Secretary shall establish ascientific advisory committee to review and evaluate the implementation of the plan and to make such recommendations for its improvement as such committee deems advisable.
+“(b)(1) The Secretary shall submit the plan to the Congress no later than January 1, 1981, together with his recommendations, if any, for further legislation. The plan shall set forth the specific agencies responsible for implementing the various elements of the plan. With respect to general health care the Secretary shall consider, and shall include in his recommendations, the feasibility of using the Public Health Service. After consultation with the Chairman of the National Academy of Sciences, the Secretary of Energy, the Secretary of Defense, and the Secretary of Health and Human Services, the Secretary shall establish a scientific advisory committee to review and evaluate the implementation of the plan and to make such recommendations for its improvement as such committee deems advisable.
 
 “(2) At the request of the Secretary, any Federal agency shall provide such information, personnel, facilities, logistical support, or other assistance as the Secretary deems necessary to carry out the functions of this program; the costs of all such assistance shall be reimbursed to the provider thereof out of the sums appropriated pursuant to this section.
 
@@ -284,7 +284,7 @@ Pub. L. 95–134, title I, §106, as added by Pub. L. 96–205, title I, §102, 
 
 “(c) The Secretary shall report to the appropriate committees of the Congress, and to the people of the affected atolls annually, or more frequently if necessary, on the implementation of the plan. Each such report shall include a description of the health status of the individuals examined and treated under the plan, an evaluation by the scientific advisory committee, and any recommendations for improvement of the plan. The first such report shall be submitted not later than January 1, 1982.”
 
-Pub. L. 98–213, §8, Dec. 8, 1983, 97 Stat. 1460, provided that: “The Secretary of the Interior is directed to implement the health care program required by section 106 of Public Law 95–134 (91 Stat. 1159) \[set out above\] for the populations of the four atolls in the Marshall Islands identified in such section immediately upon enactment of this section and shall promptly notify the Committee on Interior and Insular Affairs and the Committee on Appropriations of the House of Representatives and the Committee on Energy and Natural Resources and the Committee on Appropriations of the Senate if he finds that the populations of other atolls should be included in the program setting forth the basis for his finding and the estimated cost of extension of the program. The Secretary of Energy shall transmit annually to the Committees on Interior and Insular Affairs \[now Committee on Natural Resources\] and Appropriations of the House of Representatives and the Committees on Energy and Natural Resources and Appropriations of the Senate together with the proposed budget for the next fiscal year, a description of the program and the estimated costs for implementation together with any recommendations which he may have for improvements in such program.”
+Pub. L. 98–213, §8, Dec. 8, 1983, 97 Stat. 1460, provided that: “The Secretary of the Interior is directed to implement the health care program required by section 106 of Public Law 95–134 (91 Stat. 1159) \[set out above\] for the populations of the four atolls in the Marshall Islands identified in such section immediately upon enactment of this section and shall promptly notify the Committee on Interior and Insular Affairs and the Committee on Appropriations of the House of Representatives and the Committee on Energy and Natural Resources and the Committee on Appropriations of the Senate if he finds that the populations of other atolls should be included in the program setting forth the basis for his finding and the estimated cost of extension of the program. The Secretary of Energy shall transmit annually to the Committees on Interior and Insular Affairs \[now Committee on Natural Resources\] and Appropriations of the House of Representatives and the Committees on Energy and Natural Resources and Appropriations of the Senate together with the proposedbudget for the next fiscal year, a description of the program and the estimated costs for implementation together with any recommendations which he may have for improvements in such program.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

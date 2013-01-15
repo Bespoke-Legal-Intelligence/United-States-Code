@@ -122,7 +122,7 @@ Pub. L. 105–261, div. A, title VI, §645(c), Oct. 17, 1998, 112 Stat. 2050, pr
 
 #### Effective Date of 1994 Amendment
 
-Section 652(a)(3) of Pub. L. 103–337 provided that: “The amendments made by this subsection \[amending this section and section 1482 of this title\] shall apply with respect to the remains of, and incidental expenses incident to the recovery, care, and disposition of, an individual who dies after the date of the enactment of this Act \[Oct. 5, 1994\].”
+Pub. L. 103–337, div. A, title VI, §652(a)(3), Oct. 5, 1994, 108 Stat. 2794, provided that: “The amendments made by this subsection \[amending this section and section 1482 of this title\] shall apply with respect to the remains of, and incidental expenses incident to the recovery, care, and disposition of, an individual who dies after the date of the enactment of this Act \[Oct. 5, 1994\].”
 
 #### Effective Date of 1986 Amendment
 

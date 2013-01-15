@@ -30,7 +30,7 @@
 
 &emsp;Notwithstanding any other provision of this part, the Secretary shall maintain responsibility for the development and promulgation of policy and regulations relating to the programs of student financial assistance under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42. In the exercise of its functions, the PBO shall be subject to the direction of the Secretary. The Secretary shall—
 
-&emsp;&emsp;(A) request the advice of, and work in cooperation with, the Chief Operating Officer in developing regulations, policies, administrative guidance, or procedures affecting the Federal student financial assistance programs authorized under subchapter IV ofthis chapter and part C of subchapter I of chapter 34 of title 42;
+&emsp;&emsp;(A) request the advice of, and work in cooperation with, the Chief Operating Officer in developing regulations, policies, administrative guidance, or procedures affecting the Federal student financial assistance programs authorized under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42;
 
 &emsp;&emsp;(B) request cost estimates from the Chief Operating Officer for system changes required by specific policies proposed by the Secretary; and
 

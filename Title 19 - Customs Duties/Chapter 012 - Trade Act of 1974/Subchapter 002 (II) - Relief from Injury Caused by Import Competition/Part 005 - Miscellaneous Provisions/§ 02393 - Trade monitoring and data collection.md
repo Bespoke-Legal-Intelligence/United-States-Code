@@ -30,11 +30,11 @@ Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination o
 
 <b>2009</b>—Pub. L. 111–5, §§1804(a)(1), 1893, temporarily substituted “and data collection” for “system” in section catchline. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Pub. L. 111–5, §§1804(a)(2), (3), 1893, temporarily designated existing provisions as subsec. (a), inserted heading, inserted “and services” after “imports of articles”, “and domestic supply of services” after “domestic production”, “or supplying services” after “producing articles”, and “, or supply of services,” after “changes in production”, and added subsec. (b). See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+Pub. L. 111–5, §§1804(a)(2), (3), 1893, temporarily designated existing provisions as subsec. (a), insertedheading, inserted “and services” after “imports of articles”, “and domestic supply of services” after “domestic production”, “or supplying services” after “producing articles”, and “, or supply of services,” after “changes in production”, and added subsec. (b). See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
 #### Effective and Termination Dates of 2011 Revival
 
-For temporary revival and applicability of provisions as in effect on Feb. 12, 2011, see sections 201(b), (c) and233 of Pub. L. 112–40, set out as notes preceding section 2271 of this title. For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to section 233(b) of Pub. L. 112–40, see section 233 of Pub. L. 112–40, set out as a note preceding section 2271 of this title.
+For temporary revival and applicability of provisions as in effect on Feb. 12, 2011, see sections 201(b), (c) and 233 of Pub. L. 112–40, set out as notes preceding section 2271 of this title. For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to section 233(b) of Pub. L. 112–40, see section 233 of Pub. L. 112–40, set out as a note preceding section 2271 of this title.
 
 #### Effective and Termination Dates of 2009 Amendment
 

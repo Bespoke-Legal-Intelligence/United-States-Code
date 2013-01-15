@@ -14,7 +14,7 @@ It shall be unlawful for any person to act as floor trader in executing purchase
 
 #### Effective Date of 1992 Amendment
 
-Section 207(c) of Pub. L. 102–546 provided that: “The amendments made by this section \[amending this section and sections 6f, 6g, 12a, and 13a–2 of this title\] shall become effective one hundred and eighty days after the date of enactment of this Act \[Oct. 28, 1992\], and the Commodity Futures Trading Commission shall issue any regulations necessary to implement the amendments made by this section no later than one hundred and eighty days after the date of enactment of this Act.”
+Pub. L. 102–546, title II, §207(c), Oct. 28, 1992, 106 Stat. 3604, provided that: “The amendments made by this section \[amending this section and sections 6f, 6g, 12a, and 13a–2 of this title\] shall become effective one hundred and eighty days after the date of enactment of this Act \[Oct. 28, 1992\], and the Commodity Futures Trading Commission shall issue any regulations necessary to implement the amendments made by this section no later than one hundred and eighty days after the date of enactment of this Act.”
 
 #### Effective Date of 1974 Amendment
 

@@ -54,7 +54,7 @@
 
 &emsp;An indemnification agreement may be provided under this subsection only if the President determines that each of the following requirements are met:
 
-&emsp;&emsp;(A) The liability covered by the indemnification agreement exceeds or is not covered by insurance available, at a fair and reasonable price, to the contractor at thetime the contractor enters into the contract to provide response action, and adequate insurance to cover such liability is not generally available at the time the response action contract is entered into.
+&emsp;&emsp;(A) The liability covered by the indemnification agreement exceeds or is not covered by insurance available, at a fair and reasonable price, to the contractor at the time the contractor enters into the contract to provide response action, and adequate insurance to cover such liability is not generally available at the time the response action contract is entered into.
 
 &emsp;&emsp;(B) The response action contractor has made diligent efforts to obtain insurance coverage from non-Federal sources to cover such liability.
 
@@ -82,7 +82,7 @@
 
 #### (D) RCRA facilities
 
-&emsp;&emsp;No owner or operator of a facility regulated under the Solid Waste Disposal Act \[42 U.S.C. 6901 et seq.\] may be indemnified under this subsection with respect to such facility.
+&emsp;&emsp;No owner or operator of a facility regulated under the Solid Waste Disposal Act \[42U.S.C. 6901 et seq.\] may be indemnified under this subsection with respect to such facility.
 
 #### (E) Persons retained or hired
 
@@ -148,7 +148,7 @@ Response action contractors and subcontractors for program management, construct
 
 #### (g) Surety bonds
 
-(1) If under sections 3131 and 3133 of title 40, surety bonds are required for any direct Federal procurement of any response action contract and are not waived pursuant to section 3134 of title 40, they shall be issued in accordance with sections 3131 and 3133 of title 40.
+(1) If under sections 3131 and 3133 of title 40, surety bonds are required for any direct Federalprocurement of any response action contract and are not waived pursuant to section 3134 of title 40, they shall be issued in accordance with sections 3131 and 3133 of title 40.
 
 (2) If under applicable Federal law surety bonds are required for any direct Federal procurement of any response action contract, no right of action shall accrue on the performance bond issued on such response action contract to or for the use of any person other than the obligee named in the bond.
 
@@ -164,7 +164,7 @@ Response action contractors and subcontractors for program management, construct
 
 This chapter, referred to in subsecs. (b)(1), (e)(1), (2)(A)(iii), and (f), was in the original “this Act”, meaning Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
 
-The Solid Waste Disposal Act, referred to in subsec. (c)(5)(D), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generallyto chapter 82 (§6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
+The Solid Waste Disposal Act, referred to in subsec. (c)(5)(D), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
 
 Section 9660a of this title, referred to in subsec. (e)(2)(A)(iii), was in the original “section 126” probably meaning section 126 of Pub. L. 99–499, title I, Oct. 17, 1986, 100 Stat. 1690. Subsecs. (a) to (f) of section 126, which relate to worker protection standards, are set out as a note under section 655 of Title 29, Labor. Subsec. (g) of section 126, which relates to grants for training and education of workers who are or may be engaged in activities related to hazardous waste removal, etc., is classified to section 9660a of this title.
 

@@ -250,7 +250,7 @@ In general.—Notwithstanding any other provision of law, the payments described
 
 Private payments described.—The payments described in this subsection are—
 
-&emsp;&emsp;“(A) payments made from any fund established pursuant to a class settlement in the case of Susan Walker v. Bayer Corporation, et al., 96–C–5024 (N.D. Ill.); and
+&emsp;&emsp;“(A) payments made from any fund established pursuant to a class settlement in the case of SusanWalker v. Bayer Corporation, et al., 96–C–5024 (N.D. Ill.); and
 
 &emsp;&emsp;“(B) payments made pursuant to a release of all claims in a case—
 

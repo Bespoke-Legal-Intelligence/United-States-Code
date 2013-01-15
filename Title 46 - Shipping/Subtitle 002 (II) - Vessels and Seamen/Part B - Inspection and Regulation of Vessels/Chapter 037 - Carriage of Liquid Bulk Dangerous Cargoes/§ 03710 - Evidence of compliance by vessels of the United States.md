@@ -18,7 +18,7 @@ Historical and Revision Notes
 
 46:391a(8)(E)
 
-Section 3710 prohibits any vessels of the United States subject to this chapter from having on board oil or hazardous material in bulk as cargo or in residue, unless it has a required Certificate of Inspection endorsed to indicate vessel compliance with applicable regulations. Certificates shall be valid for a period not to exceed two years and may be renewed as specified by the Secretary. The Secretary may issue temporary certificates of not more than thirty days duration and may revoke or suspend any certificate under designated circumstances.
+Section 3710 prohibits any vessels of the United States subject to this chapter from having on board oil or hazardous material in bulk as cargo or in residue, unless it has a required Certificate of Inspection endorsed to indicate vessel compliance with applicableregulations. Certificates shall be valid for a period not to exceed two years and may be renewed as specified by the Secretary. The Secretary may issue temporary certificates of not more than thirty days duration and may revoke or suspend any certificate under designated circumstances.
 
 #### Amendments
 

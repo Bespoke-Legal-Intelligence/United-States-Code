@@ -24,7 +24,7 @@ The Board is authorized—
 
 (k) Upon the requisition of the Secretary of the Army, the Corporation shall allot and deliver without charge to the Department of the Army so much power as shall be necessary in the judgment of said Department for use in operation of all locks, lifts, or other facilities in aid of navigation.
 
-(<i>l</i>) To produce, distribute, and sell electric power, as herein particularly specified.
+(l) To produce, distribute, and sell electric power, as herein particularly specified.
 
 (May 18, 1933, ch. 32, §5, 48 Stat. 61; Aug. 31, 1935, ch. 836, §4, 49 Stat. 1076; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; July 3, 1952, ch. 570, §2(a), 66 Stat. 334; Pub. L. 86–137, §3, Aug. 6, 1959, 73 Stat. 285; Pub. L. 94–412, title V, §501(d), Sept. 14, 1976, 90 Stat. 1258; Pub. L. 108–447, div. C, title VI, §603(a)(2), Dec. 8, 2004, 118 Stat. 2966.)
 
@@ -42,7 +42,7 @@ Former subsec. (n) authorized President within twelve months after May 18, 1933,
 
 <b>1952</b>—Subsec. (m). Joint Res. July 3, 1952, inserted “or, until six months after the termination of the national emergency proclaimed by the President on December 16, 1950, or until such earlier date or dates as the Congress by concurrent resolution or the President may provide but in no event after April 1, 1953, to nations associated with the United States in defense activities”.
 
-<b>1935</b>—Subsec. (c). Act Aug. 31, 1935, inserted “with farmers, landowners, and associations of farmers and landowners,” after “demonstration farms” and “and for promoting the prevention of soil erosion by the use of fertilizers and otherwise” after “period of their introduction”.
+<b>1935</b>—Subsec. (c). Act Aug. 31, 1935, inserted “with farmers, landowners, and associations of farmers andlandowners,” after “demonstration farms” and “and for promoting the prevention of soil erosion by the use of fertilizers and otherwise” after “period of their introduction”.
 
 #### Change of Name
 
@@ -54,7 +54,7 @@ Amendment by Pub. L. 108–447 effective on the later of the date on which at le
 
 #### Effective Date of 1952 Amendment
 
-Section 7 of Joint Res. July 3, 1952, provided that the amendment is effective June 16, 1952.
+Joint Res. July 3, 1952, ch. 570, §7, 66 Stat. 334, provided that the amendment is effective June 16, 1952.
 
 #### Repeal of Prior Acts Continuing Subsection (m)
 
@@ -70,7 +70,7 @@ For transfer of certain functions insofar as they pertain to Air Force, and to e
 
 #### Termination of Foreign Sales
 
-Section 1 of Joint Res. Mar. 31, 1953, ch. 13, 67 Stat. 18, provided for the extension of certain emergency provisions (previously extended to April 1, 1953, by Joint Res. July 3, 1952, ch. 570, §2(a), 66 Stat. 334) until July 1, 1953. Section 2 of said Joint Res. Mar. 31, 1953, provided that such extension did not apply to the provisions of this section.
+Joint Res. Mar. 31, 1953, ch. 13, §1, 67 Stat. 18, provided for the extension of certain emergency provisions (previously extended to April 1, 1953, by Joint Res. July 3, 1952, ch. 570, §2(a), 66 Stat. 334) until July 1, 1953. Section 2 of said Joint Res. Mar. 31, 1953, provided that such extension did not apply to the provisions of this section.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Board's”.</i>
 

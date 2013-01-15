@@ -16,7 +16,7 @@ The Commission shall issue regulations to prohibit the privilege of dual trading
 
 #### (b) “Dual trading” defined
 
-As used in this section, the term “dual trading” means the execution of customer orders bya floor broker during the same trading session in which the floor broker executes any trade in the same contract market or registered derivatives transaction execution facility for—
+As used in this section, the term “dual trading” means the execution of customer orders by a floor broker during the same trading session in which the floor broker executes any trade in the same contract market or registered derivatives transaction execution facility for—
 
 &emsp;(1) the account of such floor broker;
 
@@ -54,7 +54,7 @@ Subsec. (d). Pub. L. 102–546, §102(a), added subsec. (d).
 
 #### Effective Date of 1992 Amendment
 
-Section 102(b) of Pub. L. 102–546 provided that: “The amendment made by subsection (a) \[amending this section\] shall become effective two hundred and seventy days after the date of enactment of this Act \[Oct. 28, 1992\].”
+Pub. L. 102–546, title I, §102(b), Oct. 28, 1992, 106 Stat. 3594, provided that: “The amendment made by subsection (a) \[amending this section\] shall become effective two hundred and seventy days after the date of enactment of this Act \[Oct. 28, 1992\].”
 
 #### Effective Date
 

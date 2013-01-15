@@ -106,7 +106,7 @@ Pub. L. 110–343, div. C, title VIII, §801(d), Oct. 3, 2008, 122 Stat. 3931, p
 
 “(1)
 
-In general.—Except as otherwise provided in this subsection, the amendments made by this section \[enacting this section and amending section 26 of this title\] shall apply to amounts deferred which are attributable to services performed after December 31, 2008.
+In general.—Except as otherwise provided in this subsection, the amendments made by this section \[enacting this section and amending section 26 of thistitle\] shall apply to amounts deferred which are attributable to services performed after December 31, 2008.
 
 “(2)
 

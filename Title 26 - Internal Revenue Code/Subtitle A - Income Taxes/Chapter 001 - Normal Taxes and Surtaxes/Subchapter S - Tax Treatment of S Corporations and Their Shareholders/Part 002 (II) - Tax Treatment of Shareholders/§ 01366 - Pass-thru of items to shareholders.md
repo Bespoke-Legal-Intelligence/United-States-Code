@@ -42,7 +42,7 @@ In any case where it is necessary to determine the gross income of a shareholder
 
 #### (B) Transfers of stock between spouses or incident to divorce
 
-&emsp;&emsp;In the case of any transfer described in section 1041(a) of stock of an S corporation, any loss or deduction described in subparagraph (A) with respect such stock shall be treated as incurred by the corporation in thesucceeding taxable year with respect to the transferee.
+&emsp;&emsp;In the case of any transfer described in section 1041(a) of stock of an S corporation, any loss or deduction described in subparagraph (A) with respect such stock shall be treated as incurred by the corporation in the succeeding taxable year with respect to the transferee.
 
 #### (3) Carryover of disallowed losses and deductions to post-termination transition period
 
@@ -148,7 +148,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 632(c)(2) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, but only in cases where the return for the taxable year is filed pursuant to an S election made after Dec. 31, 1986, with exceptions and special and transitional rules, see section 633 of Pub. L. 99–514, as amended, set out as an Effective Date note under section 336 of this title.
+Amendment by section 632(c)(2) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986,but only in cases where the return for the taxable year is filed pursuant to an S election made after Dec. 31, 1986, with exceptions and special and transitional rules, see section 633 of Pub. L. 99–514, as amended, set out as an Effective Date note under section 336 of this title.
 
 Amendment by section 701(e)(4)(K) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 701(f) of Pub. L. 99–514, set out as an Effective Date note under section 55 of this title.
 

@@ -38,9 +38,9 @@
 
 #### (b) Qualified individual defined
 
-For purposes of subsection (a), the term “qualified individual” means an individual who is a participant or beneficiary in a health plan or with coverage described in subsection (a)(1) and who meets the following conditions:
+For purposes of subsection (a), the term “qualified individual” means an individual whois a participant or beneficiary in a health plan or with coverage described in subsection (a)(1) and who meets the following conditions:
 
-&emsp;(1) The individual is eligible to participate in an approved clinical trial according to the trial protocol with respect to treatment ofcancer or other life-threatening disease or condition.
+&emsp;(1) The individual is eligible to participate in an approved clinical trial according to the trial protocol with respect to treatment of cancer or other life-threatening disease or condition.
 
 &emsp;(2) Either—
 

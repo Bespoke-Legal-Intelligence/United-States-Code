@@ -114,7 +114,7 @@ Subsec. (f)(2), (3). Pub. L. 110–343, §405(b)(1), added par. (2) and struck o
 
 “(1)
 
-In general.—Except as provided in paragraph (2), the Oil Spill Liability Trust Fund financing rate under subsection (c) shall apply after December 31, 1989, and before January 1, 1995.
+In general.—Except as provided in paragraph (2), the Oil Spill Liability Trust Fund financing rate undersubsection (c) shall apply after December 31, 1989, and before January 1, 1995.
 
 “(2)
 
@@ -178,7 +178,7 @@ Pub. L. 110–343, div. B, title IV, §405(b)(3), Oct. 3, 2008, 122 Stat. 3861, 
 
 #### Effective Date of 1989 Amendment
 
-Section 8(b) of Pub. L. 101–221 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of enactment of this Act \[Dec. 12, 1989\].”
+Pub. L. 101–221, §8(b), Dec. 12, 1989, 103 Stat. 1891, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of enactment of this Act \[Dec. 12, 1989\].”
 
 #### Effective Date of 1986 Amendments
 
@@ -192,15 +192,15 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 Coordination with superfund reauthorization.—The amendments made by this section shall take effect only if the Superfund Amendments and Reauthorization Act of 1986 \[Pub. L. 99–499, approved Oct. 17, 1986\] is enacted.”
 
-\[Section 7505(d)(1) of Pub. L. 101–239 provided that: “For purposes of sections 8032(d) and 8033(c) of the Omnibus Budget Reconciliation Act of 1986 \[Pub. L. 99–509, set out as notes above and under section 9509 of this title\], the commencement date is January 1, 1990.”\]
+\[Pub. L. 101–239, title VII, §7505(d)(1), Dec. 19, 1989, 103 Stat. 2363, provided that: “For purposes of sections 8032(d) and 8033(c) of the Omnibus Budget Reconciliation Act of 1986 \[Pub. L. 99–509, set out as notes above and under section 9509 of this title\], the commencement date is January 1, 1990.”\]
 
-Section 511(c) of Pub. L. 99–499 provided that: “The amendments made by this section \[amending this section and repealing section 9653 of Title 42, The Public Health and Welfare\] shall take effect on January 1, 1987.”
+Pub. L. 99–499, title V, §511(c), Oct. 17, 1986, 100 Stat. 1761, provided that: “The amendments made by this section \[amending this section and repealing section 9653 of Title 42, The Public Health and Welfare\] shall take effect on January 1, 1987.”
 
-Section 512(d) of Pub. L. 99–499 provided that: “The amendments made by this section \[amending this section and section 4612 of this title\] shall take effect on January 1, 1987.”
+Pub. L. 99–499, title V, §512(d), Oct. 17, 1986, 100 Stat. 1761, provided that: “The amendments made by this section \[amending this section and section 4612 of this title\] shall take effect on January 1, 1987.”
 
 #### Effective Date
 
-Section 211(c) of Pub. L. 96–510 provided that: “The amendments made by this section \[enacting subchapters A and B of this chapter\] shall take effect on April 1, 1981.”
+Pub. L. 96–510, title II, §211(c), Dec. 11, 1980, 94 Stat. 2801, provided that: “The amendments made by this section \[enacting subchapters A and B of this chapter\] shall take effect on April 1, 1981.”
 
 #### Short Title
 

@@ -22,7 +22,7 @@ For purposes of this chapter—
 
 &emsp;(10) The term “commerce” includes services associated with international trade.
 
-(Pub. L. 93–618, title VI, §601, Jan. 3, 1975, 88 Stat. 2071; Pub. L. 96–39, title II, §202(c)(1), title XI, §1106(h)(1), July 26, 1979, 93 Stat. 202, 313; Pub. L. 100–418, title I, §1214(j)(5), Aug. 23, 1988,102 Stat. 1158; Pub. L. 105–206, title V, §5003(b)(2)(B), July 22, 1998, 112 Stat. 789.)
+(Pub. L. 93–618, title VI, §601, Jan. 3, 1975, 88 Stat. 2071; Pub. L. 96–39, title II, §202(c)(1), title XI, §1106(h)(1), July 26, 1979, 93 Stat. 202, 313; Pub. L. 100–418, title I, §1214(j)(5), Aug. 23, 1988, 102 Stat. 1158; Pub. L. 105–206, title V, §5003(b)(2)(B), July 22, 1998, 112 Stat. 789.)
 
 #### References in Text
 

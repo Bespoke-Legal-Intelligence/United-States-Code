@@ -24,7 +24,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;A merger transaction may be approved pursuant to paragraph (1) before June 1, 1997, if the home State of each bank involved inthe transaction has in effect, as of the date of the approval of such transaction, a law that—
+&emsp;&emsp;A merger transaction may be approved pursuant to paragraph (1) before June 1, 1997, if the home State of each bank involved in the transaction has in effect, as of the date of the approval of such transaction, a law that—
 
 &emsp;&emsp;&emsp;(i) applies equally to all out-of-State banks; and
 
@@ -100,7 +100,7 @@
 
 #### (C) Effectiveness of State deposit caps
 
-&emsp;&emsp;No provision of this subsection shall be construed as affecting the authority of any State to limit, by statute, regulation, or order, the percentage of the total amount ofdeposits of insured depository institutions in the State which may be held or controlled by any bank or bank holding company (including all insured depository institutions which are affiliates of the bank or bank holding company) to the extent the application of such limitation does not discriminate against out-of-State banks, out-of-State bank holding companies, or subsidiaries of such banks or holding companies.
+&emsp;&emsp;No provision of this subsection shall be construed as affecting the authority of any State to limit, by statute, regulation, or order, the percentage of the total amount of deposits of insured depository institutions in the State which may be held or controlled by any bank or bank holding company (including all insured depository institutions which are affiliates of the bank or bank holding company) to the extent the application of such limitation does not discriminate against out-of-State banks, out-of-State bank holding companies, or subsidiaries of such banks or holding companies.
 
 #### (D) Exceptions to subparagraph (B)
 
@@ -176,7 +176,7 @@
 
 #### (1) Continued operations
 
-&emsp;A resulting bank may, subject to the approval of the appropriate Federal bankingagency, retain and operate, as a main office or a branch, any office that any bank involved in an interstate merger transaction was operating as a main office or a branch immediately before the merger transaction.
+&emsp;A resulting bank may, subject to the approval of the appropriate Federal banking agency, retain and operate, as a main office or a branch, any office that any bank involved in an interstate merger transaction was operating as a main office or a branch immediately before the merger transaction.
 
 #### (2) Additional branches
 
@@ -248,7 +248,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (1) Adequately capitalized
 
-&emsp;The term “adequately capitalized” has the same meaning as in section 1831<i>o</i> of this title.
+&emsp;The term “adequately capitalized” has the same meaning as in section 1831o of this title.
 
 #### (2) Antitrust laws
 
@@ -272,7 +272,7 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(ii) with respect to a State bank, the State by which the bank is chartered; and
 
-&emsp;&emsp;(B) with respect to a bank holding company, has the same meaning as in section 1841(<i>o</i>)(4) of this title.
+&emsp;&emsp;(B) with respect to a bank holding company, has the same meaning as in section 1841(o)(4) of this title.
 
 #### (5) Host State
 

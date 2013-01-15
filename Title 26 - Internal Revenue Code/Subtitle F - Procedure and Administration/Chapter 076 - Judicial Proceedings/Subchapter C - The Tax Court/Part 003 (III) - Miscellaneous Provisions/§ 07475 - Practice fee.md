@@ -20,5 +20,5 @@ Pub. L. 109–280, title VIII, §860(b), Aug. 17, 2006, 120 Stat. 1020, provided
 
 #### Effective Date
 
-Section 1553(c) of Pub. L. 99–514 provided that: “The amendments made by this section \[enacting this section and amending sections 7472 and 7473 of this title\] shall take effect on January 1, 1987.”
+Pub. L. 99–514, title XV, §1553(c), Oct. 22, 1986, 100 Stat. 2754, provided that: “The amendments made by this section \[enacting this section and amending sections 7472 and 7473 of this title\] shall take effect on January 1, 1987.”
 

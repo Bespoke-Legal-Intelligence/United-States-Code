@@ -6,7 +6,7 @@ Laws now applicable to lands or resources in the Territory of Alaska shall conti
 
 #### Codification
 
-Section was formerly classified to section 471<i>o</i> of Title 48, Territories and Insular Possessions.
+Section was formerly classified to section 471o of Title 48, Territories and Insular Possessions.
 
 #### Admission of Alaska as State
 

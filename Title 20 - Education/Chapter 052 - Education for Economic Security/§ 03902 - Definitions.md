@@ -26,7 +26,7 @@ For the purpose of this chapter—
 
 &emsp;(12) The term “State educational agency” has the meaning given that term under section 7801 of this title.
 
-(Pub. L. 98–377, §3, Aug. 11, 1984, 98 Stat. 1267; Pub. L. 99–159, title II, §221, Nov. 22, 1985, 99 Stat. 897; Pub. L. 105–244, title I, §102(a)(6)(F), Oct. 7, 1998, 112 Stat. 1618; Pub. L. 107–110, title X, §1076(<i>l</i>)(1), Jan. 8, 2002, 115 Stat. 2092; Pub. L. 109–270, §2(d), Aug. 12, 2006, 120 Stat. 747.)
+(Pub. L. 98–377, §3, Aug. 11, 1984, 98 Stat. 1267; Pub. L. 99–159, title II, §221, Nov. 22, 1985, 99 Stat. 897; Pub. L. 105–244, title I, §102(a)(6)(F), Oct. 7, 1998, 112 Stat. 1618; Pub. L. 107–110, title X, §1076(l)(1), Jan. 8, 2002, 115 Stat. 2092; Pub. L. 109–270, §2(d), Aug. 12, 2006, 120 Stat. 747.)
 
 #### References in Text
 
@@ -38,11 +38,11 @@ This chapter, referred to in par. (11), was in the original “this title” and
 
 <b>2006</b>—Par. (1). Pub. L. 109–270 substituted “area career and technical education school” for “area vocational education school” and “section 2302(3) of this title.” for “section 2471(3) of this title..”
 
-<b>2002</b>—Par. (3). Pub. L. 107–110, §1076(<i>l</i>)(1)(A), substituted “7801 of this title” for “198(a)(7) of the Elementary and Secondary Education Act of 1965”.
+<b>2002</b>—Par. (3). Pub. L. 107–110, §1076(l)(1)(A), substituted “7801 of this title” for “198(a)(7) of the Elementary and Secondary Education Act of 1965”.
 
-Par. (7). Pub. L. 107–110, §1076(<i>l</i>)(1)(B), substituted “7801 of this title” for “198(a)(10) of the Elementary and Secondary Education Act of 1965”.
+Par. (7). Pub. L. 107–110, §1076(l)(1)(B), substituted “7801 of this title” for “198(a)(10) of the Elementary and Secondary Education Act of 1965”.
 
-Par. (12). Pub. L. 107–110, §1076(<i>l</i>)(1)(C), substituted “7801 of this title” for “198(a)(17) of the Elementary and Secondary Education Act of 1965”.
+Par. (12). Pub. L. 107–110, §1076(l)(1)(C), substituted “7801 of this title” for “198(a)(17) of the Elementary and Secondary Education Act of 1965”.
 
 <b>1998</b>—Par. (6). Pub. L. 105–244 substituted “section 1001” for “section 1141(a)”.
 
@@ -50,7 +50,7 @@ Par. (12). Pub. L. 107–110, §1076(<i>l</i>)(1)(C), substituted “7801 of thi
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of this title.
+Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub.L. 107–110, set out as an Effective Date note under section 6301 of this title.
 
 #### Effective Date of 1998 Amendment
 

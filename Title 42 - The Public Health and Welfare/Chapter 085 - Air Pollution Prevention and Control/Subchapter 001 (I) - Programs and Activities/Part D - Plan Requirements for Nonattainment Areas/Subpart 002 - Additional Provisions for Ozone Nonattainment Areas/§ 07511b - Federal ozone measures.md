@@ -106,7 +106,7 @@ Within 1 year after November 15, 1990, the Administrator shall provide guidance 
 
 #### (9) State consultation
 
-&emsp;Any State which proposes regulations other than those adopted under this subsection shallconsult with the Administrator regarding whether any other State or local subdivision has promulgated or is promulgating regulations on any products covered under this part. The Administrator shall establish a clearinghouse of information, studies, and regulations proposed and promulgated regarding products covered under this subsection and disseminate such information collected as requested by State or local subdivisions.
+&emsp;Any State which proposes regulations other than those adopted under this subsection shall consult with the Administrator regarding whether any other State or local subdivision has promulgated or is promulgating regulations on any products covered under this part. The Administrator shall establish a clearinghouse of information, studies, and regulations proposed and promulgated regarding products covered under this subsection and disseminate such information collected as requested by State or local subdivisions.
 
 #### (f) Tank vessel standards
 

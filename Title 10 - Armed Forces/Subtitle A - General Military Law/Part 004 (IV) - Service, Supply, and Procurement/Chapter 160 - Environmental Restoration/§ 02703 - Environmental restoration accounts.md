@@ -50,9 +50,21 @@ Sole Source of Funds for Operation and Monitoring of Environmental Remedies.—(
 
 Sole Source of Funds for Environmental Remediation at Certain Base Realignment and Closure Sites.—In the case of property disposed of pursuant to a base closure law and subject to a covenant that was required to be provided by paragraphs (3) and (4) of section 120(h) of CERCLA (42 U.S.C. 9620(h)), the sole source of funds for services procured under section 2701(d)(1) of this title shall be the applicable Department of Defense base closure account. The limitation in this subsection shall expire upon the closure of the applicable base closure account.
 
-(Added Pub. L. 99–499, title II, §211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1722; amended Pub. L. 103–337, div. A, title III, §321, Oct. 5, 1994, 108 Stat. 2710; Pub. L. 104–106, div. A, title III, §322, Feb. 10, 1996, 110 Stat. 252; Pub. L. 104–201, div. A, title III, §322(a)(1), Sept. 23, 1996, 110 Stat. 2477; Pub. L. 106–65, div. A, title III, §321, title X, §1066(a)(27), Oct. 5, 1999, 113 Stat. 560, 772; Pub. L. 106–398, §1 \[\[div. A\], title III, §§311, 312\], Oct. 30, 2000, 114 Stat. 1654, 1654A–53, 1654A–54; Pub. L. 107–107, div. A, title III, §312, Dec. 28, 2001, 115 Stat. 1051; Pub. L. 108–136, div. A, title III, §313(a), Nov. 24, 2003, 117 Stat. 1430; Pub. L. 108–375, div. A, title X, §1084(d)(26), Oct. 28, 2004, 118 Stat. 2063; Pub. L. 109–163, div. A, title III, §312(b), title X, §1056(c)(7), Jan. 6, 2006, 119 Stat. 3191, 3439; Pub. L. 109–364, div. A, title X, §1071(a)(23), Oct. 17, 2006, 120 Stat. 2399.)
+(Added Pub. L. 99–499, title II, §211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1722; amended Pub. L. 103–337, div. A, title III, §321, Oct. 5, 1994, 108 Stat. 2710; Pub. L. 104–106, div. A, title III, §322, Feb. 10, 1996, 110 Stat. 252; Pub. L. 104–201, div. A, title III, §322(a)(1), Sept. 23, 1996, 110 Stat. 2477; Pub. L. 106–65, div. A, title III, §321, title X, §1066(a)(27), Oct. 5, 1999, 113 Stat. 560, 772; Pub. L. 106–398, §1 \[\[div. A\], title III, §§311, 312\], Oct. 30, 2000, 114 Stat. 1654, 1654A–53, 1654A–54; Pub. L. 107–107, div. A, title III, §312, Dec. 28, 2001, 115 Stat. 1051; Pub. L. 108–136, div. A, title III, §313(a), Nov. 24, 2003, 117 Stat. 1430; Pub. L. 108–375, div. A, title X, §1084(d)(26), Oct. 28, 2004, 118 Stat. 2063; Pub. L. 109–163, div. A, title III, §312(b), title X, §1056(c)(7), Jan. 6, 2006, 119 Stat. 3191, 3439; Pub. L. 109–364, div. A, title X, §1071(a)(23), Oct. 17, 2006, 120 Stat. 2399; Pub. L. 112–239, div. B, title XXVII, §2711(c)(4)(B), Jan. 2, 2013, 126 Stat. 2144.)
+
+#### Amendment of Subsection (h)
+
+<i>Pub. L. 112–239, div. B, title XXVII, §2711(c)(4)(B), (d), Jan. 2, 2013, 126 Stat. 2144, provided that, effective on the later of Oct. 1, 2013, or the date of the enactment of an Act authorizing funds for military construction for fiscal year 2014, subsection (h) of this section is amended:</i>
+
+<i>(i) by striking “the applicable Department of Defense base closure account” and inserting “the Department of Defense Base Closure Account established under section 2906 of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note)”; and</i>
+
+<i>(ii) by striking “the applicable base closure account” and inserting “such base closure account”.</i>
+
+<i>See 2013 Amendment note below.</i>
 
 #### Amendments
+
+<b>2013</b>—Subsec. (h). Pub. L. 112–239 substituted “the Department of Defense Base Closure Account established under section 2906 of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note)” for “the applicable Department of Defense base closure account” and “such base closure account” for “the applicable base closure account”.
 
 <b>2006</b>—Subsec. (b). Pub. L. 109–163, §1056(c)(7), substituted “In this subsection, the terms ‘discarded military munitions’ and” for “For purposes of the preceding sentence, the terms ‘unexploded ordnance’, ‘discarded military munitions’, and”.
 
@@ -76,7 +88,7 @@ Pub. L. 109–163, §312(b)(2), added subsec. (h).
 
 Subsec. (c)(2). Pub. L. 108–136, §313(a)(3), redesignated par. (4) as (2) and struck out second sentence which read as follows: “Not more than 5 percent of the funds deposited in an account under subsection (a) for a fiscal year may be used to pay relocation costs under paragraph (1)(B).”
 
-Pub. L. 108–136, §313(a)(2), struck out par. (2) which read as follows: “The authority provided by paragraph\(1)(B) expires September 30, 2003. The Secretary of Defense or the Secretary of a military department may not pay the costs of permanently relocating a facility under such paragraph unless the Secretary—
+Pub. L. 108–136, §313(a)(2), struck out par. (2) which read as follows: “The authority provided by paragraph (1)(B) expires September 30, 2003. The Secretary of Defense or the Secretary of a military department may not pay the costs of permanently relocating a facility under such paragraph unless the Secretary—
 
 &emsp;“(A) determines that permanent relocation—
 
@@ -122,13 +134,17 @@ Amounts Recovered Under CERCLA.—Amounts recovered under section 107 of CERCLA 
 
 <b>1994</b>—Subsec. (f). Pub. L. 103–337 added subsec. (f).
 
+#### Effective Date of 2013 Amendment
+
+Amendment by section 2711 of Pub. L. 112–239 effective on the later of Oct. 1, 2013, or the date of the enactment of an Act authorizing funds for military construction for fiscal year 2014, see section 2711(d) of Pub. L. 112–239, set out as a note under section 2701 of this title.
+
 #### Effective Date of 2003 Amendment
 
 Pub. L. 108–136, div. A, title III, §313(a), Nov. 24, 2003, 117 Stat. 1430, provided that the amendment made by that section is effective Oct. 1, 2003.
 
 #### Effective Date of 1996 Amendment
 
-Section 322(e) of Pub. L. 104–201 provided that: “The amendments made by this section \[amending this section and section 2705 of this title\] shall take effect on the later of—
+Pub. L. 104–201, div. A, title III, §322(e), Sept. 23, 1996, 110 Stat. 2479, provided that: “The amendments made by this section \[amending this section and section 2705 of this title\] shall take effect on the later of—
 
 &emsp;“(1) October 1, 1996; or
 
@@ -136,7 +152,7 @@ Section 322(e) of Pub. L. 104–201 provided that: “The amendments made by thi
 
 #### Effective Date
 
-Section 211(c) of Pub. L. 99–499 provided that: “Section 2703(a)(2) of title 10, United States Code, as added by subsection (a), shall apply with respect to funds appropriated for fiscal years beginning after September 30, 1986.”
+Pub. L. 99–499, title II, §211(c), Oct. 17, 1986, 100 Stat. 1726, provided that: “Section 2703(a)(2) of title 10, United States Code, as added by subsection (a), shall apply with respect to funds appropriated for fiscal years beginning after September 30, 1986.”
 
 #### Effect of Amendment by Pub. L. 108–136 on Existing Agreements
 
@@ -144,9 +160,9 @@ Pub. L. 108–136, div. A, title III, §313(b), Nov. 24, 2003, 117 Stat. 1430, p
 
 #### References to Defense Environmental Restoration Account
 
-Section 322(b) of Pub. L. 104–201 provided that: “Any reference to the Defense Environmental Restoration Account in any Federal law, Executive Order, regulation, delegation of authority, or document shall be deemed to refer to the appropriate environmental restoration account established under section 2703(a)(1) of title 10, United States Code (as amended by subsection (a)(1)).”
+Pub. L. 104–201, div. A, title III, §322(b), Sept. 23, 1996, 110 Stat. 2478, provided that: “Any reference to the Defense Environmental Restoration Account in any Federal law, Executive Order, regulation, delegation of authority, or document shall be deemed to refer to the appropriate environmental restoration account established under section 2703(a)(1) of title 10, United States Code (as amended by subsection (a)(1)).”
 
 #### Unobligated Balances in Defense Environmental Restoration Account
 
-Section 322(d) of Pub. L. 104–201 provided that: “Any unobligated balances that remain in the Defense Environmental Restoration Account under section 2703(a) of title 10, United States Code, as of the effective date specified in subsection (e) \[Oct. 1, 1996\] shall be transferred on such date to the Environmental Restoration Account, Defense, established under section 2703(a)(1) of title 10, United States Code (as amended by subsection (a)(1)).”
+Pub. L. 104–201, div. A, title III, §322(d), Sept. 23, 1996, 110 Stat. 2479, provided that: “Any unobligated balances that remain in the Defense Environmental Restoration Account under section 2703(a) of title 10, United States Code, as of the effective date specified in subsection (e) \[Oct. 1, 1996\] shall be transferred on such date to the Environmental Restoration Account, Defense, established under section 2703(a)(1) of title 10, United States Code (as amended by subsection (a)(1)).”
 

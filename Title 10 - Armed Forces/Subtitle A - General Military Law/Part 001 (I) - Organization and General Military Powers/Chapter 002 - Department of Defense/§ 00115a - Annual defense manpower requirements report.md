@@ -8,7 +8,7 @@
 
 &emsp;(3) the projected number of contractor personnel full-time equivalents required to provide contract services (as that term is defined in section 235 of this title) for each component of the Department of Defense for the next fiscal year and the contractor personnel full-time equivalents that provided contract services for each component of the Department of Defense for the prior fiscal year as reported in the inventory of contracts for services required by section 2330a(c) of this title.
 
-(b)(1) The Secretary shall include in each report under subsection (a) justification for the strength levels recommended and an explanation of the relationship between the personnel strength levels recommended for that fiscal year and the national security policies of the United States in effect at the time.
+(b)(1) The Secretary shall include in each report under subsection (a) justification for the strength levels recommended and an explanation of the relationship between the personnelstrength levels recommended for that fiscal year and the national security policies of the United States in effect at the time.
 
 (2) The justification and explanation shall specify in detail for all major military force units (including each land force division, carrier and other major combatant vessel, air wing, and other comparable unit) the following:
 
@@ -70,7 +70,17 @@
 
 &emsp;(4) The amount of any adjustment in the limitation on personnel made by the Secretary of Defense or the Secretary of a military department, and, for each adjustment made pursuant to section 1111(b)(2) of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 (10 U.S.C. 143 note), the purpose of the adjustment.
 
-\[(g) Redesignated (e)\]
+(g) In each report submitted under subsection (a) during fiscal years 2013 through 2017, the Secretary shall also include a detailed discussion of the following:
+
+&emsp;(1) The progress made in implementing the plan required by section 656 of this title to accurately measure the efforts of the Department to reflect the diverse population of the United States eligible to serve in the armed forces.
+
+&emsp;(2) The number of members of the armed forces, including reserve components, listed by gender and race or ethnicity for each rank under each military department.
+
+&emsp;(3) The number of members of the armed forces, including reserve components, who were promoted during the year covered by the report, listed by gender and race or ethnicity for each rank under each military department.
+
+&emsp;(4) The number of members of the armed forces, including reserve components, who reenlisted or otherwise extended the commitment to military service during the year covered by the report, listed by gender and race or ethnicity for each rank under each military department.
+
+&emsp;(5) The available pool of qualified candidates for the general officer grades of general and lieutenant general and the flag officer grades of admiral and vice admiral.
 
 (h) In each such report, the Secretary shall include a separate report on the Army and Air Force military technician programs. The report shall include a presentation, shown by reserve component and shown both as of the end of the preceding fiscal year and for the next fiscal year, of the following (displayed in the aggregate and separately for military technicians (dual status) and non-dual status military technicians):
 
@@ -82,7 +92,7 @@
 
 &emsp;&emsp;(B) the number applicable to high-priority units and organizations (as specified in section 10216(a) of this title).
 
-(Added Pub. L. 101–510, div. A, title XIV, §1483(a), Nov. 5, 1990, 104 Stat. 1711; amended Pub. L. 102–190, div. A, title X, §1061(a)(1), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 104–106, div. A, title V, §513(e), title X, §1061(d), Feb. 10, 1996, 110 Stat. 307, 442; Pub. L. 105–85, div. A, title V, §522(i)(2), Nov. 18, 1997, 111 Stat. 1736; Pub. L. 105–261, div. A, title IV, §403, Oct. 17, 1998, 112 Stat. 1996; Pub. L. 111–84, div. A, title XI, §1109(b)(1)–(2)(B)(i), Oct. 28, 2009, 123 Stat. 2492,2493; Pub. L. 112–81, div. A, title IX, §934, Dec. 31, 2011, 125 Stat. 1544.)
+(Added Pub. L. 101–510, div. A, title XIV, §1483(a), Nov. 5, 1990, 104 Stat. 1711; amended Pub. L. 102–190, div. A, title X, §1061(a)(1), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 104–106, div. A, title V, §513(e), title X, §1061(d), Feb. 10, 1996, 110 Stat. 307, 442; Pub. L. 105–85, div. A, title V, §522(i)(2), Nov. 18, 1997, 111 Stat. 1736; Pub. L. 105–261, div. A, title IV, §403, Oct. 17, 1998, 112 Stat. 1996; Pub. L. 111–84, div. A, title XI, §1109(b)(1)–(2)(B)(i), Oct. 28, 2009, 123 Stat. 2492, 2493; Pub. L. 112–81, div. A, title IX, §934, Dec. 31, 2011, 125 Stat. 1544; Pub. L. 112–239, div. A, title V, §519(b), Jan. 2, 2013, 126 Stat. 1721.)
 
 #### References in Text
 
@@ -93,6 +103,8 @@ Section 1111(b)(2) of the Duncan Hunter National Defense Authorization Act for F
 Provisions similar to those in this section were contained in section 115(b)(1)(D), (3), (c)(2) of this title, prior to repeal by Pub. L. 101–510, §1483(a).
 
 #### Amendments
+
+<b>2013</b>—Subsec. (g). Pub. L. 112–239 added subsec. (g).
 
 <b>2011</b>—Subsec. (a)(2), (3). Pub. L. 112–81 added pars. (2) and (3) and struck out former par. (2) which read as follows: “the annual civilian personnel end-strength level for each component of the Department of Defense for the next fiscal year.”
 
@@ -152,5 +164,5 @@ Subsec. (h). Pub. L. 104–106, §513(e), added subsec. (h).
 
 #### Assessment of Structure and Mix of Active and Reserve Forces
 
-Section 402 of Pub. L. 102–190, as amended by Pub. L. 102–484, div. A, title V, §513(b), Oct. 23, 1992, 106 Stat. 2406, required Secretary of Defense to submit to Congress a report containing an assessment of alternatives relating to structure and mix of active and reserve forces appropriate for carrying out assigned missions in mid- to late-1990s and an evaluation and recommendations of Secretary and Chairman of Joint Chiefs of Staff as to mix or mixes of reserve and active forces considered acceptable to carry out expected future missions, and further provided for matters to be included in report and evaluation, commencement of assessment, submission of interim and final reports, and funding for assessment.
+Pub. L. 102–190, div. A, title IV, §402, Dec. 5, 1991, 105 Stat. 1349, as amended by Pub. L. 102–484, div. A, title V, §513(b), Oct. 23, 1992, 106 Stat. 2406, required Secretary of Defense to submit to Congress a report containing an assessment of alternatives relating to structure and mix of active and reserve forces appropriate for carrying out assigned missions in mid- to late-1990s and an evaluation and recommendations of Secretary and Chairman of Joint Chiefs of Staff as to mix or mixes of reserve and active forces considered acceptable to carry out expected future missions, and further provided for matters to be included in report and evaluation, commencement of assessment, submission of interim and final reports, and funding for assessment.
 

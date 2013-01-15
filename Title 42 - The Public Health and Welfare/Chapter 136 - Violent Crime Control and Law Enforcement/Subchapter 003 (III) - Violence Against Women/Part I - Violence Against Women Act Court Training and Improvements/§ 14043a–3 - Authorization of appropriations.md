@@ -18,7 +18,7 @@ Funds appropriated under this section shall remain available until expended and 
 
 &emsp;The requirements of this section shall not apply to funds allocated for the program described in paragraph (1).
 
-(Pub. L. 103–322, title IV, §41006, as added Pub. L. 109–162, title I, §105(a), Jan. 5, 2006, 119 Stat. 2981; amended Pub. L. 109–271, §7(c)(2), Aug. 12, 2006, 120 Stat. 765.)
+(Pub. L. 103–322, title IV, §41006, as added Pub. L. 109–162, title I, §105(a), Jan. 5, 2006, 119 Stat. 2981;amended Pub. L. 109–271, §7(c)(2), Aug. 12, 2006, 120 Stat. 765.)
 
 #### Amendments
 

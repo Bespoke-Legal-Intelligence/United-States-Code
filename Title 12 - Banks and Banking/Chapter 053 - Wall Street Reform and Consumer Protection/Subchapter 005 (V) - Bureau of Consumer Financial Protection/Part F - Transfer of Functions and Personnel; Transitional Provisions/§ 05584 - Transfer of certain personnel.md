@@ -70,7 +70,7 @@
 
 &emsp;&emsp;&emsp;(i) jointly determine the number of employees of the Office of Thrift Supervision necessary to perform or support the consumer financial protection functions of the Office of Thrift Supervision that are transferred to the Bureau by this title; <sup>1</sup> and
 
-&emsp;&emsp;&emsp;(ii) consistent with the number determined under clause (i), jointly identify employees of the Office of Thrift Supervisionfor transfer to the Bureau, in a manner that the Bureau and the Office of Thrift Supervision, in their sole discretion, determine equitable.
+&emsp;&emsp;&emsp;(ii) consistent with the number determined under clause (i), jointly identify employees of the Office of Thrift Supervision for transfer to the Bureau, in a manner that the Bureau and the Office of Thrift Supervision, in their sole discretion, determine equitable.
 
 #### (B) Identified employees transferred
 
@@ -264,7 +264,7 @@ Examiners transferred to the Bureau are not subject to any additional certificat
 
 #### (i) Election
 
-&emsp;&emsp;&emsp;Any Federal Reserve System transferred employee who was enrolled in the Federal Reserve System Retirement Plan on the day before the date of his or her transfer to the Bureau may, during the 1-year period beginning 6 months after the designated transfer date, elect to be subject to the Federal Employee Retirement Program.
+&emsp;&emsp;&emsp;Any Federal Reserve System transferred employee who was enrolled in the FederalReserve System Retirement Plan on the day before the date of his or her transfer to the Bureau may, during the 1-year period beginning 6 months after the designated transfer date, elect to be subject to the Federal Employee Retirement Program.
 
 #### (ii) Effective date of coverage
 
@@ -296,7 +296,7 @@ Examiners transferred to the Bureau are not subject to any additional certificat
 
 #### (v) Controlled group status
 
-&emsp;&emsp;&emsp;The Bureau is the same employer as the Federal Reserve System (as comprised of the Board of Governors and each of the 12 Federal reserve banks prior to July 21, 2010) for purposes of subsections (b), (c), (m), and (<i>o</i>) of section 414 of title 26.
+&emsp;&emsp;&emsp;The Bureau is the same employer as the Federal Reserve System (as comprised of the Board of Governors and each of the 12 Federal reserve banks prior to July 21, 2010) for purposes of subsections (b), (c), (m), and (o) of section 414 of title 26.
 
 #### (D) Definitions
 
@@ -326,7 +326,7 @@ Examiners transferred to the Bureau are not subject to any additional certificat
 
 #### (B) Medical, dental, vision, or life insurance after first year
 
-&emsp;&emsp;If, at the end of the 1-year period beginning on the designated transfer date, the Bureau has not established its own, or arranged for participation in another entity's, medical, dental, vision, or life insurance program, an employee transferred pursuant tothis part who was a member of such a program at the agency or Federal reserve bank from which the employee transferred may, before the coverage of that employee ends under subparagraph (A)(i), elect to enroll, without regard to any regularly scheduled open season, in—
+&emsp;&emsp;If, at the end of the 1-year period beginning on the designated transfer date, the Bureau has not established its own, or arranged for participation in another entity's, medical, dental, vision, or life insurance program, an employee transferred pursuant to this part who was a member of such a program at the agency or Federal reserve bank from which the employee transferred may, before the coverage of that employee ends under subparagraph (A)(i), elect to enroll, without regard to any regularly scheduled open season, in—
 
 &emsp;&emsp;&emsp;(i) the enhanced dental benefits program established under chapter 89A of title 5;
 
@@ -384,9 +384,9 @@ In administering the provisions of this section, the Bureau—
 
 &emsp;(1) shall take no action that would unfairly disadvantage transferred employees relative to each other based on their prior employment by the Board of Governors, the Federal Deposit Insurance Corporation, the Department of Housing and Urban Development, the National Credit Union Administration, the Office of the Comptroller of the Currency, the Office of Thrift Supervision, a Federal reserve bank, a Federal home loan bank, or a joint office of the Federal home loan banks; and
 
-&emsp;(2) may take such action as is appropriate in individual cases so that employees transferred under this section receive equitable treatment, with respect to the status, tenure, pay, benefits (other than benefits under programs administered by the Office of Personnel Management), and accrued leave or vacation time of those employees, for prior periods of service with any Federal agency, including the Boardof Governors, the Corporation, the Department of Housing and Urban Development, the National Credit Union Administration, the Office of the Comptroller of the Currency, the Office of Thrift Supervision, a Federal reserve bank, a Federal home loan bank, or a joint office of the Federal home loan banks.
+&emsp;(2) may take such action as is appropriate in individual cases so that employees transferred under this section receive equitable treatment, with respect to the status, tenure, pay, benefits (other than benefits under programs administered by the Office of Personnel Management), and accrued leave or vacation time of those employees, for prior periods of service with any Federal agency, including the Board of Governors, the Corporation, the Department of Housing and Urban Development, the National Credit Union Administration, the Office of the Comptroller of the Currency, the Office of Thrift Supervision, a Federal reserve bank, a Federal home loan bank, or a joint office of the Federal home loan banks.
 
-#### (<i>l</i>) Implementation
+#### (l) Implementation
 
 In implementing the provisions of this section, the Bureau shall coordinate with the Office of Personnel Management and other entities having expertise in matters related to employment to ensure a fair and orderly transition for affected employees.
 

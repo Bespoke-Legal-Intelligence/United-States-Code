@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary, acting through the Service, shall establish, consistent with section 1665a of this title, in every Service area, programs involving treatment for—
+The Secretary, acting through the Service, shall establish, consistent with section 1665a ofthis title, in every Service area, programs involving treatment for—
 
 &emsp;(1) victims of sexual abuse who are Indian children or children in an Indian household; and
 
@@ -36,5 +36,5 @@ Section 713 of Pub. L. 94–437 is based on section 181 of title I of S. 1790, O
 
 #### Prior Provisions
 
-A prior section 1665<i>l</i>, Pub. L. 94–437, title VII, §713, as added Pub. L. 102–573, title VII, §702(a), Oct. 29, 1992, 106 Stat. 4581, provided for the conduct of the Alaska Native drug and alcohol abuse demonstration project, prior to the general amendment of this subchapter by Pub. L. 111–148.
+A prior section 1665l, Pub. L. 94–437, title VII, §713, as added Pub. L. 102–573, title VII, §702(a), Oct. 29, 1992, 106 Stat. 4581, provided for the conduct of the Alaska Native drug and alcohol abuse demonstration project, prior to the general amendment of this subchapter by Pub. L. 111–148.
 

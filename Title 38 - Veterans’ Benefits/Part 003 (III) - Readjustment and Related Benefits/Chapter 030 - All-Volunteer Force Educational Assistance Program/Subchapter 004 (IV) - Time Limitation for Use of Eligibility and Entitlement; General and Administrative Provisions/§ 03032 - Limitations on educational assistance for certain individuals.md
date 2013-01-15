@@ -18,7 +18,7 @@
 
 &emsp;(C) for each of the months following the first 12 months of the individual's pursuit of such program, 35 percent of such monthly educational assistance allowance.
 
-(2) In any month in which an individual pursuing a program of education consisting of a program of apprenticeship or other on-job training fails to complete 120 hours of training, the amount of monthly educational assistance allowance payable under this chapter to the individual shall be limited to the same proportion of the applicable rate determined under paragraph (1) of this subsection as the number of hours worked during such month, rounded to the nearest eight hours, bears to 120 hours.
+(2) In any month in which an individual pursuing a program of education consisting of a program of apprenticeship or other on-job training fails to complete 120 hours of training, the amount of monthly educational assistance allowance payable under this chapter to the individual shall be limited to the same proportion of the applicable rate determined under paragraph\(1) of this subsection as the number of hours worked during such month, rounded to the nearest eight hours, bears to 120 hours.
 
 (3)(A) Except as provided in subparagraph (B) of this paragraph, for each month that an individual is paid a monthly educational assistance allowance under this chapter, the individual's entitlement under this chapter shall be charged at the rate of—
 
@@ -46,7 +46,7 @@
 
 (2) No educational assistance allowance may be paid under this chapter to an individual for any month during which such individual is pursuing a program of education consisting exclusively of flight training until the Secretary has received from that individual and the institution providing such training a certification of the flight training received by the individual during that month and the tuition and other fees charged for that training.
 
-(3) The number of months of entitlement charged in the case of any individual for a program of education described in paragraph (1) of this subsection shall be equal to the number (including any fraction) determined by dividing the total amount of educational assistance paid such individual for such program by the monthly rate of educational assistance which, except for paragraph (1) of this subsection, such individual would otherwise be paid under subsection\(a)(1), (b)(1), (d), or (e)(1) of section 3015 of this title, as the case may be.
+(3) The number of months of entitlement charged in the case of any individual for a program of education described in paragraph (1) of this subsection shall be equal to the number (including any fraction) determined by dividing the total amount of educational assistance paid such individual for such program by the monthly rate of educational assistance which, except for paragraph (1) of this subsection, such individual would otherwise be paid under subsection (a)(1), (b)(1), (d), or (e)(1) of section 3015 of this title, as the case may be.
 
 (4) The number of solo flying hours for which an individual may be paid an educational assistance allowance under this subsection may not exceed the minimum number of solo flying hours required by the Federal Aviation Administration for the flight rating or certification which is the goal of the individual's flight training.
 
@@ -62,7 +62,7 @@
 
 (3) In no event shall payment of educational assistance under this subsection for a test described in paragraph (1) exceed the amount of the individual's available entitlement under this chapter.
 
-(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2561, §1432; amended Pub. L. 99–576, title III, §301(b), (d)(1), Oct. 28, 1986, 100 Stat. 3267, 3268; Pub. L. 100–689, title I, §§108(a)(2), 111(a)(7)(A), (8), Nov. 18, 1988, 102 Stat. 4169, 4172; Pub. L. 101–237, title IV, §422(a)(2), Dec. 18, 1989, 103 Stat. 2089; Pub. L. 102–16, §10(a)(3), Mar. 22, 1991, 105 Stat. 55; renumbered §3032 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §310(a), Oct. 29, 1992, 106 Stat. 4329; Pub. L. 103–446, title XII, §1201(d)(6), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 104–275, title I, §105(a), Oct. 9, 1996, 110 Stat. 3327; Pub. L. 106–419, title I, §122(b)(1), Nov. 1, 2000, 114 Stat. 1833; Pub. L. 107–14, §7(b)(2)(B), June 5, 2001, 115 Stat. 32; Pub. L. 108–454, title I, §106(b)(1), Dec. 10, 2004, 118 Stat. 3602.)
+(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2561, §1432; amended Pub. L. 99–576, title III, §301(b), (d)(1), Oct. 28, 1986, 100 Stat. 3267, 3268; Pub. L. 100–689, title I, §§108(a)(2), 111(a)(7)(A), (8), Nov. 18, 1988, 102 Stat. 4169, 4172; Pub. L. 101–237, title IV,§422(a)(2), Dec. 18, 1989, 103 Stat. 2089; Pub. L. 102–16, §10(a)(3), Mar. 22, 1991, 105 Stat. 55; renumbered §3032 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §310(a), Oct. 29, 1992, 106 Stat. 4329; Pub. L. 103–446, title XII, §1201(d)(6), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 104–275, title I, §105(a), Oct. 9, 1996, 110 Stat. 3327; Pub. L. 106–419, title I, §122(b)(1), Nov. 1, 2000, 114 Stat. 1833; Pub. L. 107–14, §7(b)(2)(B), June 5, 2001, 115 Stat. 32; Pub. L. 108–454, title I, §106(b)(1), Dec. 10, 2004, 118 Stat. 3602.)
 
 #### Amendments
 

@@ -36,7 +36,7 @@ In this division:
 
 &emsp;&emsp;&emsp;(i) assisting the State educational agency in making adequate yearly progress, as defined under section 6311(b)(2) of this title; and
 
-&emsp;&emsp;&emsp;(ii) aligning State and local reforms and assisting the local educational agencies that enter into performance agreements with the State educational agency underparagraph (2) in making such adequate yearly progress;
+&emsp;&emsp;&emsp;(ii) aligning State and local reforms and assisting the local educational agencies that enter into performance agreements with the State educational agency under paragraph (2) in making such adequate yearly progress;
 
 &emsp;&emsp;(B) the performance agreements that the State educational agency proposes to enter into with eligible local educational agencies under paragraph (2);
 
@@ -70,7 +70,7 @@ In this division:
 
 #### (A) In general
 
-&emsp;&emsp;A State educational agency that wishes to receive flexibility authority under this subpart shall propose performance agreements that meet the requirements of clauses (i) and (ii) of subsection (b)(1)(B) of this section (subject to approval of the application or amendment involved under subsection (d) or (e) of this section).
+&emsp;&emsp;A State educational agency that wishes to receive flexibility authority under this subpart shall propose performance agreementsthat meet the requirements of clauses (i) and (ii) of subsection (b)(1)(B) of this section (subject to approval of the application or amendment involved under subsection (d) or (e) of this section).
 
 #### (B) Performance agreements
 

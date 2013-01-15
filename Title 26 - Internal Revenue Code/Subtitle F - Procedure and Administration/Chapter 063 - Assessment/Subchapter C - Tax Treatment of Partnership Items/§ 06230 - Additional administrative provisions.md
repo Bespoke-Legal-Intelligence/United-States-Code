@@ -114,7 +114,7 @@
 
 #### (5) Overpayments refunded without requirement that partner file claim
 
-&emsp;In the case of any overpayment by a partner which is attributable to a partnership item (or an affected item) and which may be refundedunder this subchapter, to the extent practicable credit or refund of such overpayment shall be allowed or made without any requirement that the partner file a claim therefor.
+&emsp;In the case of any overpayment by a partner which is attributable to a partnership item (or an affected item) and which may be refunded under this subchapter, to the extent practicable credit or refund of such overpayment shall be allowed or made without any requirement that the partner file a claim therefor.
 
 #### (6) Subchapter B of chapter 66 not applicable
 
@@ -122,7 +122,7 @@
 
 #### (e) Tax matters partner required to furnish names of partners to Secretary
 
-If the Secretary mails to any partnership the notice specified in paragraph (1) of section 6223(a) with respect to any partnership taxable year, the tax matters partner shall furnish to the Secretary the name, address, profits interest, and taxpayer identification number of each person who was a partner in such partnership at any time during such taxable year. If the tax matters partner later discovers that the information furnished to the Secretary was incorrect or incomplete, the tax matters partner shall furnish such revised or additional information as may be necessary.
+If the Secretary mails to any partnership the notice specified in paragraph (1) of section6223(a) with respect to any partnership taxable year, the tax matters partner shall furnish to the Secretary the name, address, profits interest, and taxpayer identification number of each person who was a partner in such partnership at any time during such taxable year. If the tax matters partner later discovers that the information furnished to the Secretary was incorrect or incomplete, the tax matters partner shall furnish such revised or additional information as may be necessary.
 
 #### (f) Failure of tax matters partner, etc., to fulfill responsibility does not affect applicability of proceeding
 
@@ -158,11 +158,11 @@ For purposes of sections 6226 and 6228, a principal place of business located ou
 
 The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this subchapter. Any reference in this subchapter to regulations is a reference to regulations prescribed by the Secretary.
 
-#### (<i>l</i>) Court rules
+#### (l) Court rules
 
 Any action brought under any provision of this subchapter shall be conducted in accordance with such rules of practice and procedure as may be prescribed by the Court in which the action is brought.
 
-(Added Pub. L. 97–248, title IV, §402(a), Sept. 3, 1982, 96 Stat. 660; amended Pub. L. 98–369, div. A, title VII, §714(p)(2)(A), July 18, 1984, 98 Stat. 964; Pub. L. 99–514, title XVIII, §1875(d)(2)(A), Oct. 22, 1986, 100 Stat. 2896; Pub. L. 100–647, title I, §1018(<i>o</i>)(1), Nov. 10, 1988, 102 Stat. 3584; Pub. L. 102–572, title IX, §902(b)(2), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 105–34, title XII, §§1237(a)–(c)(1), 1238(b)(2)–(6), 1239(c)(1), Aug. 5, 1997, 111 Stat. 1025–1028; Pub. L. 105–206, title III, §3201(e)(2), July 22, 1998, 112 Stat. 740; Pub. L. 110–172, §11(a)(36), Dec. 29, 2007, 121 Stat. 2487.)
+(Added Pub. L. 97–248, title IV, §402(a), Sept. 3, 1982, 96 Stat. 660; amended Pub. L. 98–369, div. A, title VII, §714(p)(2)(A), July 18, 1984, 98 Stat. 964; Pub. L. 99–514, title XVIII, §1875(d)(2)(A), Oct. 22, 1986, 100 Stat. 2896; Pub. L. 100–647, title I, §1018(o)(1), Nov. 10, 1988, 102 Stat. 3584; Pub. L. 102–572, title IX, §902(b)(2), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 105–34, title XII, §§1237(a)–(c)(1), 1238(b)(2)–(6), 1239(c)(1), Aug. 5, 1997, 111 Stat. 1025–1028; Pub. L. 105–206, title III, §3201(e)(2), July 22, 1998, 112 Stat. 740; Pub. L. 110–172, §11(a)(36), Dec. 29, 2007, 121 Stat. 2487.)
 
 #### Amendments
 
@@ -204,11 +204,11 @@ Subsec. (d)(6). Pub. L. 105–34, §1239(c)(1), struck out “(or an affected it
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–206 applicable to any liability for tax arising after July 22, 1998, and any liability for tax arising on or before such date but remaining unpaid as of such date, see section 3201(g)(1) of Pub. L. 105–206, set out as a note under section 6015 of this title.
+Amendment by Pub. L. 105–206 applicable to any liability for tax arising after July 22, 1998, and any liability for tax arising on or before such date but remainingunpaid as of such date, see section 3201(g)(1) of Pub. L. 105–206, set out as a note under section 6015 of this title.
 
 #### Effective Date of 1997 Amendment
 
-Section 1237(d) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section and section 6503 of this title\] shall take effect as if included in the amendments made by section 402 of the Tax Equity and Fiscal Responsibility Act of 1982 \[Pub. L. 97–248\].”
+Pub. L. 105–34, title XII, §1237(d), Aug. 5, 1997, 111 Stat. 1026, provided that: “The amendments made by this section \[amending this section and section 6503 of this title\] shall take effect as if included in the amendments made by section 402 of the Tax Equity and Fiscal Responsibility Act of 1982 \[Pub. L. 97–248\].”
 
 Amendment by section 1238(b)(2)–(6) of Pub. L. 105–34 applicable to partnership taxable years ending after Aug. 5, 1997, see section 1238(c) of Pub. L. 105–34, set out as a note under section 6221 of this title.
 
@@ -224,7 +224,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Section 1875(d)(2)(C) of Pub. L. 99–514 provided that: “The amendments made by this paragraph \[amending this section and sections 6213 and 6503 of this title\] shall take effect as if included in the Tax Equity and Fiscal Responsibility Act of 1982 \[Pub. L. 97–248\].”
+Pub. L. 99–514, title XVIII, §1875(d)(2)(C), Oct. 22, 1986, 100 Stat. 2896, provided that: “The amendments made by this paragraph \[amending this section and sections 6213 and 6503 of this title\] shall take effect as if included in the Tax Equity and Fiscal Responsibility Act of 1982 \[Pub. L. 97–248\].”
 
 #### Effective Date of 1984 Amendment
 

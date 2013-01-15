@@ -96,7 +96,7 @@ A State shall be eligible to receive funding to evaluate the State program funde
 
 #### (1) In general
 
-&emsp;Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated $15,000,000 for each of fiscal years 1997 through 2002 for the purpose of paying—
+&emsp;Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated $15,000,000 for fiscal year 2012 for the purpose of paying—
 
 &emsp;&emsp;(A) the cost of conducting the research described in subsection (a) of this section;
 
@@ -140,7 +140,7 @@ A State shall be eligible to receive funding to evaluate the State program funde
 
 #### (4) Compliance with plan
 
-&emsp;A State that submits a corrective action plan that the Secretary has found contains the information required by this subsection shall implement the corrective action plan until the State determines that the child poverty rate in the State is less than the lowest child poverty rate on the basis of which the State was required to submit the corrective action plan.
+&emsp;A State that submits a corrective action plan that the Secretary has found contains the information required by this subsection shallimplement the corrective action plan until the State determines that the child poverty rate in the State is less than the lowest child poverty rate on the basis of which the State was required to submit the corrective action plan.
 
 #### (5) Methodology
 
@@ -180,7 +180,7 @@ A State shall be eligible to receive funding to evaluate the State program funde
 
 &emsp;&emsp;Not later than January 1, 2001,<sup>2</sup> (or at a later date, if the Secretary informs the Committees of the Congress with jurisdiction over the subject matter of the report) the Secretary shall submit a final report on the matter described in subparagraph (A).
 
-(Aug. 14, 1935, ch. 531, title IV, §413, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2153; amended Pub. L. 105–33, title V, §§5001(f), 5509, 5514(c), Aug. 5, 1997, 111 Stat. 592, 618, 620; Pub. L. 105–200, title IV, §410(a), July 16, 1998, 112 Stat. 673; Pub. L. 106–169, title IV, §401(c), Dec. 14, 1999, 113 Stat. 1858; Pub. L. 110–234, title IV, §4002(b)(1)(D), (2)(V), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(D), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858.)
+(Aug. 14, 1935, ch. 531, title IV, §413, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2153; amended Pub. L. 105–33, title V, §§5001(f), 5509, 5514(c), Aug. 5, 1997, 111 Stat. 592, 618, 620; Pub. L. 105–200, title IV, §410(a), July 16, 1998, 112 Stat. 673; Pub. L. 106–169, title IV, §401(c), Dec. 14, 1999, 113 Stat. 1858; Pub. L. 110–234, title IV, §4002(b)(1)(D), (2)(V), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(D), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 112–96, title IV, §4002(e), Feb. 22, 2012, 126 Stat. 195.)
 
 #### References in Text
 
@@ -195,6 +195,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 A prior section 613, act Aug. 14, 1935, ch. 531, title IV, §413, as added June 9, 1980, Pub. L. 96–265, title IV, §406(c), 94 Stat. 467, related to technical assistance for developing management information systems, prior to repeal by Pub. L. 104–193, §103(a)(1), as amended by Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (h)(1). Pub. L. 112–96 substituted “fiscal year 2012” for “each of fiscal years 1997 through 2002” in introductory provisions.
 
 <b>2008</b>—Subsec. (i)(5). Pub. L. 110–246, §4002(b)(1)(D), (2)(V), substituted “supplemental nutrition assistance program benefits” for “food stamp”.
 

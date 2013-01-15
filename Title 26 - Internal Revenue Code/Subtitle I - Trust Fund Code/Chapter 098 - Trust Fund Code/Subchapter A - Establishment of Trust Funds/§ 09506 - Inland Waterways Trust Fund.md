@@ -12,7 +12,7 @@ There are hereby appropriated to the Inland Waterways Trust Fund amounts equival
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), amounts in the Inland Waterways Trust Fund shall be available, as provided by appropriation Acts, for making construction and rehabilitation expenditures for navigation on the inland and coastal waterways of the United States described in section 206 of the Inland Waterways Revenue Act of 1978, as in effect on the date of the enactment of this section.
+&emsp;Except as provided in paragraph (2), amounts in the Inland Waterways Trust Fund shall be available, as provided by appropriation Acts, for making construction and rehabilitation expenditures for navigation on theinland and coastal waterways of the United States described in section 206 of the Inland Waterways Revenue Act of 1978, as in effect on the date of the enactment of this section.
 
 #### (2) Exception for certain projects
 
@@ -42,7 +42,7 @@ Amendment by Pub. L. 99–499 effective Jan. 1, 1987, see section 521(e) of Pub.
 
 #### Effective Date
 
-Section 1405(d) of Pub. L. 99–662 provided that:
+Pub. L. 99–662, title XIV, §1405(d), Nov. 17, 1986, 100 Stat. 4271, provided that:
 
 “(1)
 

@@ -14,5 +14,5 @@ Amendment by Pub. L. 89–809 applicable with respect to taxable years beginning
 
 #### Effective Date
 
-Section 1(c) of Pub. L. 87–29 provided that: “The amendments made by subsections (a) and (b) \[enacting this section and amending analysis preceding section 891 of this title\] shall be effective with respect to income received in taxable years beginning after December 31, 1960.”
+Pub. L. 87–29, §1(c), May 4, 1961, 75 Stat. 64, provided that: “The amendments made by subsections (a) and (b) \[enacting this section and amending analysis preceding section 891 of this title\] shall be effective with respect to income received in taxable years beginning after December 31, 1960.”
 

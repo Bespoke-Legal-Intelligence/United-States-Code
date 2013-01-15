@@ -32,7 +32,7 @@ Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provi
 
 Functions vested in President by subsec. (a) of this section concerning authority to prescribe regulations relating to cost of living allowances delegated to Secretary of State pursuant to Ex. Ord. No. 12228, July 24, 1980, 45 F.R. 49903, set out as a note under section 707 of Title 38, Veterans’ Benefits.
 
-Functions of President under subsec. (a) of this section delegated to Director of Bureau of the Budget, nowDirector of Office of Management and Budget, see section 1(10) of Ex. Ord. No. 11230, June 28, 1965, 30 F.R. 8447, set out as a note under section 301 of Title 3, The President.
+Functions of President under subsec. (a) of this section delegated to Director of Bureau of the Budget, now Director of Office of Management and Budget, see section 1(10) of Ex. Ord. No. 11230, June 28, 1965, 30 F.R. 8447, set out as a note under section 301 of Title 3, The President.
 
 Secretary of State empowered to prescribe regulations relating to quarters and quarters allowance, see section 4(a) of Ex. Ord. No. 10903, Jan. 11, 1961, 26 F.R. 217, set out as a note under section 5921 of Title 5, Government Organization and Employees.
 

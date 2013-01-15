@@ -78,7 +78,7 @@ Section effective Oct. 1, 1980, see section 608 of title VI of Pub. L. 96–418,
 
 #### Promulgation of Regulations and Applicability of 1984 Amendments
 
-Section 801(b) of Pub. L. 98–407 provided that:
+Pub. L. 98–407, title VIII, §801(b), Aug. 28, 1984, 98 Stat. 1518, provided that:
 
 “(1) Regulations shall be prescribed under subsection (e) of section 2775 of title 10, United States Code, as amended by subsection (a), not later than 180 days after the date of the enactment of this Act \[Aug. 28, 1984\]. That section shall apply with respect to the liability of a member under such section for damage or loss to an unaccompanied personnel housing unit (or the equipment or furnishings of an unaccompanied personnel housing unit) or for damage or loss caused by a guest of the member or of a dependent of the member to a family housing unit (or the equipment or furnishings of a family housing unit) only in the case of damage or loss caused on or after the date that such regulations take effect.
 

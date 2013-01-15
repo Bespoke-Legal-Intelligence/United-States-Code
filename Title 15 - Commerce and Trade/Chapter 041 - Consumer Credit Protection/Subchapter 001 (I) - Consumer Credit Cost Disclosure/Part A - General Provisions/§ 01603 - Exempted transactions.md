@@ -16,7 +16,7 @@ This subchapter does not apply to the following:
 
 &emsp;(7) Loans made, insured, or guaranteed pursuant to a program authorized by title IV of the Higher Education Act of 1965 \[20 U.S.C. 1070 et seq., 42 U.S.C. 2751 et seq.\].
 
-(Pub. L. 90–321, title I, §104, May 29, 1968, 82 Stat. 147; Pub. L. 93–495, title IV, §402, Oct. 28, 1974, 88 Stat. 1517; Pub. L. 96–221, title VI, §603(c), Mar. 31, 1980, 94 Stat. 169; Pub. L. 97–320, title VII, §701(a), Oct. 15, 1982, 96 Stat. 1538; Pub. L. 104–208, div. A, title II, §2102(a), Sept. 30, 1996, 110 Stat. 3009–398; Pub. L. 110–315, title X, §1022, Aug. 14, 2008, 122 Stat. 3488; Pub. L. 111–203, title X, §§1100A(2), 1100E(a)(1), July 21, 2010, 124 Stat. 2107, 2111.)
+(Pub. L. 90–321, title I, §104, May 29, 1968, 82 Stat. 147; Pub. L. 93–495, title IV, §402, Oct. 28, 1974, 88 Stat. 1517; Pub. L. 96–221, title VI, §603(c), Mar. 31, 1980, 94 Stat. 169; Pub. L. 97–320, title VII, §701(a), Oct. 15, 1982, 96 Stat. 1538; Pub. L. 104–208, div. A, title II, §2102(a), Sept. 30, 1996, 110Stat. 3009–398; Pub. L. 110–315, title X, §1022, Aug. 14, 2008, 122 Stat. 3488; Pub. L. 111–203, title X, §§1100A(2), 1100E(a)(1), July 21, 2010, 124 Stat. 2107, 2111.)
 
 #### Adjustments for Inflation
 
@@ -64,7 +64,7 @@ Amendment by Pub. L. 93–495 effective Oct. 28, 1974, see section 416 of Pub. L
 
 #### Exceptions in Areas Where Major Disaster Exists
 
-Board of Governors of Federal Reserve System authorized to make exceptions to requirements of this subchapter for transactions within an area in which the President has determined that a major disaster exists, if Board determines that exception can reasonably be expected to alleviate hardships to the public that outweigh possible adverse effects, see section 2 of Pub. L. 103–76, set out as a note under section 4008 of Title 12, Banks and Banking.
+Board of Governors of Federal Reserve System authorized to make exceptions to requirements of this subchapter for transactions within an area in which the President has determined that a major disaster exists, if Board determines that exception can reasonably be expected to alleviate hardships to the public that outweigh possible adverse effects, see section 50002 of Pub. L. 105–18, set out as a note under section 4008 of Title 12, Banks and Banking, and similar provisions listed thereunder.
 
 #### Adjustments for Inflation
 

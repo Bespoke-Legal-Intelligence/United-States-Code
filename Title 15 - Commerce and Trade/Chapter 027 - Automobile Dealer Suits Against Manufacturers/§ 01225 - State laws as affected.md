@@ -4,5 +4,5 @@ This chapter shall not invalidate any provision of the laws of any State except 
 
 (Aug. 8, 1956, ch. 1038, §5, 70 Stat. 1126.)
 
-<i><sup>1</sup></i><i> So in original. Should be “cannot”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “cannot”.</i>
 

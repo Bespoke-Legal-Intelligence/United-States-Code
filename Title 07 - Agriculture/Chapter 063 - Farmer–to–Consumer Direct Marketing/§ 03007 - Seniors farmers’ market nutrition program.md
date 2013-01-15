@@ -2,7 +2,7 @@
 
 #### (a) Funding
 
-Of the funds of the Commodity Credit Corporation, the Secretary of Agriculture shall use tocarry out and expand the seniors farmers’ market nutrition program $20,600,000 for each of fiscal years 2008 through 2012.
+Of the funds of the Commodity Credit Corporation, the Secretary of Agriculture shall use to carry out and expand the seniors farmers’ market nutrition program $20,600,000 for each of fiscal years 2008 through 2012.
 
 #### (b) Program purposes
 
@@ -28,7 +28,7 @@ The Secretary may promulgate such regulations as the Secretary considers to be n
 
 #### (f) Federal law not applicable
 
-Section 1693<i>o</i>–2 of title 15 shall not apply to electronic benefit transfer systems established under this section.
+Section 1693o–2 of title 15 shall not apply to electronic benefit transfer systems established under this section.
 
 (Pub. L. 107–171, title IV, §4402, May 13, 2002, 116 Stat. 334; Pub. L. 110–234, title IV, §§4231, 4406(c)(1), May 22, 2008, 122 Stat. 1124, 1142; Pub. L. 110–246, §4(a), title IV, §§4231, 4406(c)(1), June 18, 2008, 122 Stat. 1664, 1886, 1903; Pub. L. 111–203, title X, §1075(c), July 21, 2010, 124 Stat. 2074.)
 

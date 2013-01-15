@@ -88,7 +88,7 @@ Subsecs. (c), (d). Pub. L. 96–513, §412(3), (4), redesignated subsec. (d) as 
 
 Subsec. (e). Pub. L. 96–513, §412(3), struck out subsec. (e) relating to uniform allowances for temporary officers or warrant officers.
 
-<b>1979</b>—Subsec. (d). Pub. L. 96–76 in cl. (1) inserted provisions for applicability to officers on inactive duty training status, and struck out cl. (3) setting forth applicability to officers entitled to basic pay of pay grade O–1, O–2, or O–3.
+<b>1979</b>—Subsec. (d). Pub. L. 96–76 in cl. (1) inserted provisions for applicability to officers on inactive dutytraining status, and struck out cl. (3) setting forth applicability to officers entitled to basic pay of pay grade O–1, O–2, or O–3.
 
 <b>1970</b>—Subsec. (e). Pub. L. 91–278 provided for entitlement to uniform allowance of enlisted member appointed a warrant officer under section 213 of title 14.
 
@@ -106,7 +106,7 @@ Pub. L. 106–398, §1 \[\[div. A\], title VI, §610(c)\], Oct. 30, 2000, 114 St
 
 #### Effective Date of 1981 Amendment
 
-Section 10(c) of Pub. L. 97–22 provided that the amendment made by that section is effective Sept. 15, 1981.
+Pub. L. 97–22, §10(c), July 10, 1981, 95 Stat. 137, provided that the amendment made by that section is effective Sept. 15, 1981.
 
 #### Effective Date of 1980 Amendment
 

@@ -18,7 +18,7 @@ Each local educational agency desiring a grant under this subpart shall submit a
 
 &emsp;(5) Any cooperation or collaboration among community agencies, organizations, businesses, and others to develop or implement a plan to create the smaller learning community or communities.
 
-&emsp;(6) The training and professional development activities that will be offered to teachersand others involved in the activities assisted under this subpart.
+&emsp;(6) The training and professional development activities that will be offered to teachers and others involved in the activities assisted under this subpart.
 
 &emsp;(7) The objectives of the activities assisted under this subpart, including a description of how such activities will better enable all students to reach challenging State academic content standards and State student academic achievement standards.
 

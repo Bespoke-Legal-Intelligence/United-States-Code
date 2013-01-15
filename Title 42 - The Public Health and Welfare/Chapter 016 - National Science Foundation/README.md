@@ -15,7 +15,7 @@
 | [1862i.](%C2%A7%2001862i%20-%20Scientific%20and%20technical%20education.md) | Scientific and technical education. |
 | [1862j.](%C2%A7%2001862j%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [1862k.](%C2%A7%2001862k%20-%20Findings%3B%20core%20strategies.md) | Findings; core strategies. |
-| 1862<i>l</i>. | National research facilities. |
+| [1862l.](%C2%A7%2001862l%20-%20National%20research%20facilities.md) | National research facilities. |
 | [1862m.](%C2%A7%2001862m%20-%20Financial%20disclosure.md) | Financial disclosure. |
 | [1862n.](%C2%A7%2001862n%20-%20Mathematics%20and%20science%20education%20partnerships.md) | Mathematics and science education partnerships. |
 | 1862n–1. | Robert Noyce Teacher Scholarship Program. |
@@ -29,22 +29,22 @@
 | 1862n–8. | Evaluations. |
 | 1862n–9. | Astronomy and Astrophysics Advisory Committee. |
 | 1862n–10. | Minority-serving institutions undergraduate program. |
-| 1862<i>o</i>. | Postdoctoral research fellows. |
-| 1862<i>o</i>–1. | Responsible conduct of research. |
-| 1862<i>o</i>–2. | Reporting of research results. |
-| 1862<i>o</i>–3. | Sharing research results. |
-| 1862<i>o</i>–4. | Funding for successful science, technology, engineering, and mathematics education programs. |
-| 1862<i>o</i>–5. | Meeting critical national science needs. |
-| 1862<i>o</i>–6. | Research on innovation and inventiveness. |
-| 1862<i>o</i>–7. | Cyberinfrastructure. |
-| 1862<i>o</i>–8. | Pilot program of grants for new investigators. |
-| 1862<i>o</i>–9. | Broader impacts merit review criterion. |
-| 1862<i>o</i>–10. | Advanced information and communications technology research. |
-| 1862<i>o</i>–11. | Evaluation and report. |
-| 1862<i>o</i>–12. | Hispanic-serving institutions undergraduate program. |
-| 1862<i>o</i>–13. | Professional science master's degree programs. |
-| 1862<i>o</i>–14. | Major research instrumentation. |
-| 1862<i>o</i>–15. | Limit on proposals. |
+| [1862o.](%C2%A7%2001862o%20-%20Postdoctoral%20research%20fellows.md) | Postdoctoral research fellows. |
+| 1862o–1. | Responsible conduct of research. |
+| 1862o–2. | Reporting of research results. |
+| 1862o–3. | Sharing research results. |
+| 1862o–4. | Funding for successful science, technology, engineering, and mathematics education programs. |
+| 1862o–5. | Meeting critical national science needs. |
+| 1862o–6. | Research on innovation and inventiveness. |
+| 1862o–7. | Cyberinfrastructure. |
+| 1862o–8. | Pilot program of grants for new investigators. |
+| 1862o–9. | Broader impacts merit review criterion. |
+| 1862o–10. | Advanced information and communications technology research. |
+| 1862o–11. | Evaluation and report. |
+| 1862o–12. | Hispanic-serving institutions undergraduate program. |
+| 1862o–13. | Professional science master's degree programs. |
+| 1862o–14. | Major research instrumentation. |
+| 1862o–15. | Limit on proposals. |
 | [1862p.](%C2%A7%2001862p%20-%20National%20Center%20for%20Science%20and%20Engineering%20Statistics.md) | National Center for Science and Engineering Statistics. |
 | 1862p–1. | National Science Foundation manufacturing research and education. |
 | 1862p–2. | Partnerships for innovation. |

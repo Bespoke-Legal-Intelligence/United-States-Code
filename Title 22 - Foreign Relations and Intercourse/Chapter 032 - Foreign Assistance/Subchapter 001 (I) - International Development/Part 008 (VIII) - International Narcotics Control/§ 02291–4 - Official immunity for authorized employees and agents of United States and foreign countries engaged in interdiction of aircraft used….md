@@ -60,13 +60,15 @@ Subsecs. (c), (d). Pub. L. 107–108, §503(b), added subsec. (c) and redesignat
 
 #### Delegation of Functions
 
-Functions of President under subsec. (c) of this section delegated to Secretary of State, see Memorandumof President of the United States, July 21, 2010, 75 F.R. 43795, set out as a note under section 5202 of this title.
+Functions of President under subsec. (c) of this section delegated to Secretary of State, see Memorandum of President of the United States, July 21, 2010, 75 F.R. 43795, set out as a note under section 5202 of this title.
 
 #### Presidential Determinations Relating to Interdiction
 
 The President made the determination required by subsec. (a)(2) of this section for the following countries:
 
-Brazil.—Determination No. 2012–02, Oct. 14, 2011, 76 F.R. 70635.
+Brazil.—Determination No. 2013–01, Oct. 11, 2012, 77 F.R. 65457.
+
+Determination No. 2012–02, Oct. 14, 2011, 76 F.R. 70635.
 
 Determination No. 2011–03, Oct. 15, 2010, 75 F.R. 75853.
 
@@ -82,7 +84,9 @@ Determination No. 2006–02, Oct. 16, 2005, 70 F.R. 62227.
 
 Determination No. 2005–03, Oct. 16, 2004, 69 F.R. 62797.
 
-Colombia.—Determination No. 2011–13, Aug. 10, 2011, 76 F.R. 53299.
+Colombia.—Determination No. 2012–13, Aug. 10, 2012, 77 F.R. 50559.
+
+Determination No. 2011–13, Aug. 10, 2011, 76 F.R. 53299.
 
 Determination No. 2010–11, Aug. 10, 2010, 75 F.R. 67011, 68405.
 

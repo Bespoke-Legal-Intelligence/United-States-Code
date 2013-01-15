@@ -52,7 +52,7 @@ A person that clears 1 or more agreements, contracts, or transactions that are n
 
 &emsp;&emsp;&emsp;&emsp;(I) enable the organization to meet its financial obligations to its members and participants notwithstanding a default by the member or participant creating the largest financial exposure for that organization in extreme but plausible market conditions; and
 
-&emsp;&emsp;&emsp;&emsp;(II) enable the derivatives clearing organization to cover the operating costs of the derivatives clearing organization for a period of 1 year (as calculated on a rolling basis).
+&emsp;&emsp;&emsp;&emsp;(II) enable the derivatives clearing organization to cover the operating costsof the derivatives clearing organization for a period of 1 year (as calculated on a rolling basis).
 
 #### (C) Participant and product eligibility
 
@@ -238,7 +238,7 @@ A person that clears 1 or more agreements, contracts, or transactions that are n
 
 &emsp;&emsp;&emsp;(i) enter into, and abide by the terms of, each appropriate and applicable domestic and international information-sharing agreement; and
 
-&emsp;&emsp;&emsp;(ii) use relevant information obtained from each agreement described in clause (i) in carrying out the risk management program of the derivatives clearing organization.
+&emsp;&emsp;&emsp;(ii) use relevant information obtained from each agreement described in clause\(i) in carrying out the risk management program of the derivatives clearing organization.
 
 #### (N) Antitrust considerations
 

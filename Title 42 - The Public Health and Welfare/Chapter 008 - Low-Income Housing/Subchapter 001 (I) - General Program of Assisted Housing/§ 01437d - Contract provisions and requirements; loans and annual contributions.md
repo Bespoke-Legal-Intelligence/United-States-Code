@@ -36,7 +36,7 @@ Every contract for contributions shall provide that—
 
 &emsp;(5) the public housing agency shall comply with such procedures and requirements as the Secretary may prescribe to assure that sound management practices will be followed in the operation of the project, including requirements pertaining to—
 
-&emsp;&emsp;(A) making dwelling units in public housing available for occupancy, which shall provide that the public housing agency may establish a system for making dwelling units available that provides preference for such occupancy to families having certain characteristics; each system of preferences established pursuant to this subparagraph shall be based upon local housing needs and priorities, as determined by the public housing agency using generally accepted data sources, including any information obtainedpursuant to an opportunity for public comment as provided under section 1437c–1(f) of this title and under the requirements applicable to the comprehensive housing affordability strategy for the relevant jurisdiction;
+&emsp;&emsp;(A) making dwelling units in public housing available for occupancy, which shall provide that the public housing agency may establish a system for making dwelling units available that provides preference for such occupancy to families having certain characteristics; each system of preferences established pursuant to this subparagraph shall be based upon local housing needs and priorities, as determined by the public housing agency using generally accepted data sources, including any information obtained pursuant to an opportunity for public comment as provided under section 1437c–1(f) of this title and under the requirements applicable to the comprehensive housing affordability strategy for the relevant jurisdiction;
 
 &emsp;&emsp;(B) the establishment of satisfactory procedures designed to assure the prompt payment and collection of rents and the prompt processing of evictions in the case of nonpayment of rent;
 
@@ -62,7 +62,7 @@ Every contract for contributions with respect to a low-income housing project sh
 
 #### (2) Federal standards
 
-&emsp;The Secretary shall establish housing quality standards under this paragraph that ensure that public housing dwelling units are safe and habitable. Such standards shall include requirements relating to habitability, including maintenance, health and sanitation factors, condition, and construction of dwellings, and shall, to the greatest extent practicable, be consistent with the standards established under section 1437f(<i>o</i>)(8)(B)(i) of this title. The Secretary may determine whether the laws, regulations, standards, or codes of any State or local jurisdiction meet or exceed these standards, for purposes of this subsection.
+&emsp;The Secretary shall establish housing quality standards under this paragraph that ensure that public housing dwelling units are safe and habitable. Such standards shall include requirements relating to habitability, including maintenance, health and sanitation factors, condition, and construction of dwellings, and shall, to the greatest extent practicable, be consistent with the standards established under section 1437f(o)(8)(B)(i) of this title. The Secretary may determine whether the laws, regulations, standards, or codes of any State or local jurisdiction meet or exceed these standards, for purposes of this subsection.
 
 #### (3) Annual inspections
 
@@ -76,7 +76,7 @@ Every contract for contributions (including contracts which amend or supersede c
 
 &emsp;(2) the Secretary shall be obligated to reconvey or redeliver possession of the project as constituted at the time of reconveyance or redelivery, to such public housing agency or to its successor (if such public housing agency or a successor exists) upon such terms as shall be prescribed in such contract, and as soon as practicable (i) after the Secretary is satisfied that all defaults with respect to the project have been cured, and that the project will, in order to fulfill the purposes of this chapter, thereafter be operated in accordance with the terms of such contract; or (ii) after the termination of the obligation to make annual contributions available unless there are any obligations or covenants of the public housing agency to the Secretary which are then in default. Any prior conveyances and reconveyances or deliveries and redeliveries of possession shall not exhaust the right to require a conveyance or delivery of possession of the project to the Secretary pursuant to subparagraph (1) upon the subsequent occurrence of a substantial default.
 
-> Whenever such a contract for annual contributions includes provisions which the Secretary in such contract determines are in accordance with this subsection, and the portion of the annual contribution payable for debt service requirements pursuant to such contract has been pledged by the public housing agency as security for the payment of the principal and interest on any of its obligations, the Secretary (notwithstanding any other provisions of this chapter) shall continue to make such annual contributions available for the project so long as any of such obligations remain outstanding, and may covenant in such contract that in any event such annual contributions shall in each year be at least equal to an amount which, together with such income or other funds as are actually available from the project for the purpose at the time such annual contribution is made, will suffice for the payment of all installments, falling due within the next succeeding twelve months, of principal and interest on the obligations for which the annual contributions provided for in the contract shall have been pledged as security. In no case shall such annual contributions be in excess of the maximum sum specified in the contract involved, nor for longer than the remainder of the maximum period fixed by the contract.
+> Whenever such a contract for annual contributions includes provisions which the Secretary insuch contract determines are in accordance with this subsection, and the portion of the annual contribution payable for debt service requirements pursuant to such contract has been pledged by the public housing agency as security for the payment of the principal and interest on any of its obligations, the Secretary (notwithstanding any other provisions of this chapter) shall continue to make such annual contributions available for the project so long as any of such obligations remain outstanding, and may covenant in such contract that in any event such annual contributions shall in each year be at least equal to an amount which, together with such income or other funds as are actually available from the project for the purpose at the time such annual contribution is made, will suffice for the payment of all installments, falling due within the next succeeding twelve months, of principal and interest on the obligations for which the annual contributions provided for in the contract shall have been pledged as security. In no case shall such annual contributions be in excess of the maximum sum specified in the contract involved, nor for longer than the remainder of the maximum period fixed by the contract.
 
 #### (h) New construction contracts
 
@@ -126,9 +126,9 @@ The Secretary may, upon application by a public housing agency in connection wit
 
 &emsp;&emsp;(2) reflect in the weights assigned to the various indicators the differences in the difficulty of managing individual projects that result from their physical condition and their neighborhood environment; and
 
-&emsp;&emsp;(3) determine a public housing agency's status as “troubled with respect to the program under section 1437<i>l</i> <sup>5</sup> of this title” based upon factors solely related to its ability to carry out that program.
+&emsp;&emsp;(3) determine a public housing agency's status as “troubled with respect to the program under section 1437l <sup>5</sup> of this title” based upon factors solely related to its ability to carry out that program.
 
-(2)(A)(i) The Secretary shall, under the rulemaking procedures under section 553 of title 5, establish procedures for designating troubled public housing agencies, which procedures shall include identification of serious and substantial failure to perform as measured by the performance indicators specified under paragraph (1) and such other factors as the Secretary may deem to be appropriate. Such procedures shall provide that an agency that fails on a widespread basis to provide acceptable basic housing conditions for its residents shall be designated as a troubled public housing agency. The Secretary may use a simplified set of indicators for public housing agencies with less than 250 public housing units. The Secretary shall also designate, by rule under section 553 of title 5, agencies that are troubled with respect to the program for assistance from the Capital Fund under section 1437g(d) of this title.
+(2)(A)(i) The Secretary shall, under the rulemaking procedures under section 553 of title 5, establish procedures for designating troubled public housing agencies, which procedures shall include identification of serious and substantial failure to perform as measured by the performance indicators specified under paragraph (1) and such other factors as the Secretary may deem to be appropriate. Such procedures shallprovide that an agency that fails on a widespread basis to provide acceptable basic housing conditions for its residents shall be designated as a troubled public housing agency. The Secretary may use a simplified set of indicators for public housing agencies with less than 250 public housing units. The Secretary shall also designate, by rule under section 553 of title 5, agencies that are troubled with respect to the program for assistance from the Capital Fund under section 1437g(d) of this title.
 
 (ii) The Secretary may also, in consultation with national organizations representing public housing agencies and public officials (as the Secretary determines appropriate), identify and commend public housing agencies that meet the performance standards established under paragraph (1) in an exemplary manner.
 
@@ -136,7 +136,7 @@ The Secretary may, upon application by a public housing agency in connection wit
 
 (B)(i) Upon designating a public housing agency with more than 250 units as troubled pursuant to subparagraph (A) and determining that an assessment under this subparagraph will not duplicate any comparable and recent review, the Secretary shall provide for an on-site, independent assessment of the management of the agency.
 
-(ii) To the extent the Secretary deems appropriate (taking into account an agency's performance under the indicators specified under paragraph (1)), the assessment team shall also consider issues relating to the agency's resident population and physical inventory, including the extent to which (I) the agency's comprehensive plan prepared pursuant to section 1437<i>l</i> <sup>5</sup> of this title adequately and appropriately addresses the rehabilitation needs of the agency's inventory, (II) residents of the agency are involved in and informed of significant management decisions, and (III) any projects in the agency's inventory are severely distressed and eligible for assistance pursuant to section 1437v of this title.
+(ii) To the extent the Secretary deems appropriate (taking into account an agency's performance under the indicators specified under paragraph (1)), the assessment team shall also consider issues relating to the agency's resident population and physical inventory, including the extent to which (I) the agency's comprehensive plan prepared pursuant to section 1437l <sup>5</sup> of this title adequately and appropriately addresses the rehabilitation needs of the agency's inventory, (II) residents of the agency are involved in and informed of significant management decisions, and (III) any projects in the agency's inventory are severely distressed and eligible for assistance pursuant to section 1437v of this title.
 
 (iii) An independent assessment under this subparagraph shall be carried out by a team of knowledgeable individuals selected by the Secretary (referred to in this section as the “assessment team”) with expertise in public housing and real estate management. In conducting an assessment, the assessment team shall consult with the residents and with public and private entities in the jurisdiction in which the public housing is located. The assessment team shall provide to the Secretary and the public housing agency a written report, which shall contain, at a minimum, recommendations for such management improvements as are necessary to eliminate or substantially remedy existing deficiencies.
 
@@ -154,7 +154,7 @@ The Secretary may, upon application by a public housing agency in connection wit
 
 (3)(A) Notwithstanding any other provision of law or of any contract for contributions, upon the occurrence of events or conditions that constitute a substantial default by a public housing agency with respect to the covenants or conditions to which the public housing agency is subject or an agreement entered into under paragraph (2), the Secretary may—
 
-&emsp;(i) solicit competitive proposals from other public housing agencies and private housing management agents which (I) in the discretion of the Secretary, may be selected by existing public housing residents through administrative procedures established by the Secretary,and (II) if appropriate, shall provide for such agents to manage all, or part, of the housing administered by the public housing agency or all or part of the other programs of the agency;
+&emsp;(i) solicit competitive proposals from other public housing agencies and private housing management agents which (I) in the discretion of the Secretary, may be selected by existing public housing residents through administrative procedures established by the Secretary, and (II) if appropriate, shall provide for such agents to manage all, or part, of the housing administered by the public housing agency or all or part of the other programs of the agency;
 
 &emsp;(ii) petition for the appointment of a receiver (which may be another public housing agency or a private management corporation) of the public housing agency to any district court of the United States or to any court of the State in which the real property of the public housing agency is situated, that is authorized to appoint a receiver for the purposes and having the powers prescribed in this subsection;
 
@@ -248,7 +248,7 @@ Termination of compliance action.—If the Secretary takes action under subparag
 
 &emsp;&emsp;(ii) in the case of action under clause (ii) or (v) of subparagraph (A), make withheld amounts available as the Secretary considers appropriate to ensure that the agency complies with the provisions of this chapter relating to such program;
 
-&emsp;&emsp;(iii) in the case of action under subparagraph (A)(iv), release such restrictions at the time that the Secretary first determines that the agency will comply with the provisions of this chapter relating to such program; or
+&emsp;&emsp;(iii) in the case of action under subparagraph (A)(iv), release such restrictions atthe time that the Secretary first determines that the agency will comply with the provisions of this chapter relating to such program; or
 
 &emsp;&emsp;(iv) in the case of action under subparagraph (vi), cease such action at the time that the Secretary first determines that the agency will comply with the provisions of this chapter relating to such program.
 
@@ -278,7 +278,7 @@ The Secretary shall by regulation require each public housing agency receiving a
 
 &emsp;(1) be advised of the specific grounds of any proposed adverse public housing agency action;
 
-&emsp;(2) have an opportunity for a hearing before an impartial party upon timely request within any period applicable under subsection (<i>l</i>) of this section;
+&emsp;(2) have an opportunity for a hearing before an impartial party upon timely request within any period applicable under subsection (l) of this section;
 
 &emsp;(3) have an opportunity to examine any documents or records or regulations related to the proposed action;
 
@@ -290,7 +290,7 @@ The Secretary shall by regulation require each public housing agency receiving a
 
 > For any grievance concerning an eviction or termination of tenancy that involves any activity that threatens the health, safety, or right to peaceful enjoyment of the premises of other tenants or employees of the public housing agency or any violent or drug-related criminal activity on or off such premises, or any activity resulting in a felony conviction, the agency may (A) establish an expedited grievance procedure as the Secretary shall provide by rule under section 553 of title 5, or (B) exclude from its grievance procedure any such grievance, in any jurisdiction which requires that prior to eviction, a tenant be given a hearing in court which the Secretary determines provides the basic elements of due process (which the Secretary shall establish by rule under section 553 of title 5). Such elements of due process shall not include a requirement that the tenant be provided an opportunity to examine relevant documents within the possession of the public housing agency. The agency shall provide to the tenant a reasonable opportunity, prior to hearing or trial, to examine any relevant documents, records, or regulations directly related to the eviction or termination.
 
-#### (<i>l</i>) Leases; terms and conditions; maintenance; termination
+#### (l) Leases; terms and conditions; maintenance; termination
 
 Each public housing agency shall utilize leases which—
 
@@ -334,9 +334,9 @@ The Secretary shall not impose any unnecessarily duplicative or burdensome repor
 
 #### (n) Notice to post office regarding eviction for criminal activity
 
-When a public housing agency evicts an individual or family from a dwelling unit for engaging in criminal activity, including drug-related criminal activity, the public housing agency shall notify the local post office serving that dwelling unit that such individual or family is no longer residing in the dwelling unit.
+When a public housing agency evicts an individual or family from a dwelling unit for engaging in criminal activity, including drug-related criminal activity, the public housing agencyshall notify the local post office serving that dwelling unit that such individual or family is no longer residing in the dwelling unit.
 
-#### (<i>o</i>) Public housing assistance for foster care children
+#### (o) Public housing assistance for foster care children
 
 In providing housing in low-income housing projects, each public housing agency may coordinate with any local public agencies involved in providing for the welfare of children to make available dwelling units to—
 
@@ -386,7 +386,7 @@ In providing housing in low-income housing projects, each public housing agency 
 
 #### (5) Confidentiality
 
-&emsp;A public housing agency receiving information under this subsection may use such information only for the purposes provided in this subsection and such information may not be disclosed to any person who is not an officer, employee, or authorized representative of the agency and who has a job-related need to have access to the information in connection with admission of applicants, eviction of tenants,or termination of assistance. For judicial eviction proceedings, disclosures may be made to the extent necessary. The Secretary shall, by regulation, establish procedures necessary to ensure that information provided under this subsection to a public housing agency is used, and confidentiality of such information is maintained, as required under this subsection. The Secretary shall establish standards for confidentiality of information obtained under this subsection by public housing agencies on behalf of owners.
+&emsp;A public housing agency receiving information under this subsection may use such information only for the purposes provided in this subsection and such information may not be disclosed to any person who is not an officer, employee, or authorized representative of the agency and who has a job-related need to have access to the information in connection with admission of applicants, eviction of tenants, or termination of assistance. For judicial eviction proceedings, disclosures may be made to the extent necessary. The Secretary shall, by regulation, establish procedures necessary to ensure that information provided under this subsection to a public housing agency is used, and confidentiality of such information is maintained, as required under this subsection. The Secretary shall establish standards for confidentiality of information obtained under this subsection by public housing agencies on behalf of owners.
 
 #### (6) Penalty
 
@@ -394,7 +394,7 @@ In providing housing in low-income housing projects, each public housing agency 
 
 #### (7) Civil action
 
-&emsp;Any applicant for, or tenant of, covered housing assistance affected by (A) a negligent or knowing disclosure of information referred to in this subsection about such person by an officer, employee, or authorized representative of any public housing agency, which disclosure is not authorized by this subsection, or (B) any other negligent or knowing action that is inconsistent with this subsection, may bring a civil action for damages and such other relief as may be appropriate against any public housing agency responsible for such unauthorized action. The district court of the United States in the district in which the affected applicant or tenant resides, in which such unauthorized action occurred, or in which the officer, employee, or representative alleged to be responsible for any such unauthorized action resides, shall have jurisdiction in such matters. Appropriate relief that may be ordered by such district courts shall include reasonable attorney's fees and other litigation costs.
+&emsp;Any applicant for, or tenant of, covered housing assistance affected by (A) a negligentor knowing disclosure of information referred to in this subsection about such person by an officer, employee, or authorized representative of any public housing agency, which disclosure is not authorized by this subsection, or (B) any other negligent or knowing action that is inconsistent with this subsection, may bring a civil action for damages and such other relief as may be appropriate against any public housing agency responsible for such unauthorized action. The district court of the United States in the district in which the affected applicant or tenant resides, in which such unauthorized action occurred, or in which the officer, employee, or representative alleged to be responsible for any such unauthorized action resides, shall have jurisdiction in such matters. Appropriate relief that may be ordered by such district courts shall include reasonable attorney's fees and other litigation costs.
 
 #### (8) Definitions
 
@@ -532,17 +532,17 @@ A public housing agency may require, as a condition of providing admission to th
 
 #### (A) In general
 
-&emsp;&emsp;A public housing agency responding to subsection (<i>l</i>)(5) and (6) of this section may request that an individual certify via a HUD approved certification form that the individual is a victim of domestic violence, dating violence, or stalking, and that the incidentor incidents in question are bona fide incidents of such actual or threatened abuse and meet the requirements set forth in the aforementioned paragraphs. Such certification shall include the name of the perpetrator. The individual shall provide such certification within 14 business days after the individual receives a request for such certification from the public housing agency.
+&emsp;&emsp;A public housing agency responding to subsection (l)(5) and (6) of this section may request that an individual certify via a HUD approved certification form that the individual is a victim of domestic violence, dating violence, or stalking, and that the incident or incidents in question are bona fide incidents of such actual or threatened abuse and meet the requirements set forth in the aforementioned paragraphs. Such certification shall include the name of the perpetrator. The individual shall provide such certification within 14 business days after the individual receives a request for such certification from the public housing agency.
 
 #### (B) Failure to provide certification
 
-&emsp;&emsp;If the individual does not provide the certification within 14 business days after the individual has received a request in writing for such certification from the public housing agency, nothing in this subsection, or in paragraph (5) or (6) of subsection (<i>l</i>) of this section, may be construed to limit the authority of the public housing agency to evict any tenant or lawful occupant that commits violations of a lease. The public housing agency may extend the 14-day deadline at its discretion.
+&emsp;&emsp;If the individual does not provide the certification within 14 business days after the individual has received a request in writing for such certification from the public housing agency, nothing in this subsection, or in paragraph (5) or (6) of subsection (l) of this section, may be construed to limit the authority of the public housing agency to evict any tenant or lawful occupant that commits violations of a lease. The public housing agency may extend the 14-day deadline at its discretion.
 
 #### (C) Contents
 
 &emsp;&emsp;An individual may satisfy the certification requirement of subparagraph (A) by—
 
-&emsp;&emsp;&emsp;(i) providing the requesting public housing agency with documentation signed by an employee, agent, or volunteer of a victim service provider, an attorney, or a medical professional, from whom the victim has sought assistance in addressing domestic violence, dating violence, or stalking, or the effects of the abuse, in which the professional attests under penalty of perjury (28 U.S.C. 1746) to the professional's belief that the incident or incidents in question are bona fide incidents of abuse, and the victim of domestic violence, dating violence, or stalking has signed or attested to the documentation; or
+&emsp;&emsp;&emsp;(i) providing the requesting public housing agency with documentation signed by an employee, agent, or volunteer of a victim service provider, an attorney, or a medical professional, from whom the victim has sought assistance in addressingdomestic violence, dating violence, or stalking, or the effects of the abuse, in which the professional attests under penalty of perjury (28 U.S.C. 1746) to the professional's belief that the incident or incidents in question are bona fide incidents of abuse, and the victim of domestic violence, dating violence, or stalking has signed or attested to the documentation; or
 
 &emsp;&emsp;&emsp;(ii) producing a Federal, State, tribal, territorial, or local police or court record.
 
@@ -556,7 +556,7 @@ A public housing agency may require, as a condition of providing admission to th
 
 #### (F) Compliance not sufficient to constitute evidence of unreasonable act
 
-&emsp;&emsp;Compliance with this statute by a public housing agency, or assisted housing provider based on the certification specified in subparagraphs (A) and (B) of this subsection <sup>14</sup> or based solely on the victim's statement or other corroborating evidence, as permitted by subparagraph (D) of this subsection,<sup>14</sup> shall not alone be sufficient to constitute evidence of an unreasonable act or omission by a public housing agency or employee thereof. Nothing in this subparagraph shall be construed to limit liability for failure to comply with the requirements of subsection (<i>l</i>)(5) and (6) of this section.
+&emsp;&emsp;Compliance with this statute by a public housing agency, or assisted housing provider based on the certification specified in subparagraphs (A) and (B) of this subsection <sup>14</sup> or based solely on the victim's statement or other corroborating evidence, as permitted by subparagraph (D) of this subsection,<sup>14</sup> shall not alone be sufficient to constitute evidence of an unreasonable act or omission by a public housing agency or employee thereof. Nothing in this subparagraph shall be construed to limit liability for failure to comply with the requirements of subsection (l)(5) and (6) of this section.
 
 #### (2) Confidentiality
 
@@ -566,17 +566,17 @@ A public housing agency may require, as a condition of providing admission to th
 
 &emsp;&emsp;&emsp;(i) requested or consented to by the individual in writing;
 
-&emsp;&emsp;&emsp;(ii) required for use in an eviction proceeding under subsection (<i>l</i>)(5) or (6) of this section; or
+&emsp;&emsp;&emsp;(ii) required for use in an eviction proceeding under subsection (l)(5) or (6) of this section; or
 
 &emsp;&emsp;&emsp;(iii) otherwise required by applicable law.
 
 #### (B) Notification
 
-&emsp;&emsp;Public housing agencies must provide notice to tenants assisted under this section of their rights under this subsection and subsection (<i>l</i>)(5) and (6) of this section, including their right to confidentiality and the limits thereof.
+&emsp;&emsp;Public housing agencies must provide notice to tenants assisted under this section of their rights under this subsection and subsection (l)(5) and (6) of this section, including their right to confidentiality and the limits thereof.
 
 #### (3) Definitions
 
-&emsp;For purposes of this subsection, subsection (c)(3) of this section, and subsection (<i>l</i>)(5) and (6) of this section—
+&emsp;For purposes of this subsection, subsection (c)(3) of this section, and subsection (l)(5) and (6) of this section—
 
 &emsp;&emsp;(A) the term “domestic violence” has the same meaning given the term in section 13925 of this title;
 
@@ -602,7 +602,7 @@ A public housing agency may require, as a condition of providing admission to th
 
 &emsp;&emsp;&emsp;(ii) any other person living in the household of that person and related to that person by blood or marriage.
 
-(Sept. 1, 1937, ch. 896, title I, §6, as added Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 659; amended Pub. L. 96–153, title II, §206(a), Dec. 21, 1979, 93 Stat. 1108; Pub. L. 96–399, title II, §§201(c), (e), 202(c), Oct. 8, 1980, 94 Stat. 1625, 1629; Pub. L. 97–35, title III, §322(c), (d), Aug. 13, 1981, 95 Stat. 402; Pub. L. 98–181, title II, §§201(c), 203(a), 204, 205, 214(b), Nov. 30, 1983, 97 Stat. 1177–1179, 1185; Pub. L. 98–479, title I, §102(b)(4), (5), title II, §204(b)(1), Oct. 17, 1984, 98 Stat. 2221, 2233; Pub. L. 99–160, title I, §101, Nov. 25, 1985, 99 Stat. 910; Pub. L. 100–242, title I, §§112(b)(2), 116, 170(d), Feb. 5, 1988, 101 Stat. 1824, 1826, 1867; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; Pub. L. 100–628, title X, §§1001(b), 1014(a)(1), Nov. 7, 1988, 102 Stat. 3263, 3269; Pub. L. 100–690, title V, §5101, Nov. 18, 1988, 102 Stat. 4300; Pub. L. 101–144, title II, Nov. 9, 1989, 103 Stat. 846; Pub. L. 101–625, title V, §§501, 502(a), (c)(1), 503(a), (b), 504–506, 572, Nov. 28, 1990, 104 Stat. 4180, 4181, 4183–4185, 4236; Pub. L. 102–139, title II, Oct. 28, 1991, 105 Stat. 756, 757; Pub. L. 102–550, title I, §§112, 113, title VI, §§622(b), 625(a)(2), 682(a), Oct. 28, 1992, 106 Stat. 3689, 3817, 3820, 3830; Pub. L. 103–233, title I, §101(c)(1), title III, §303, Apr. 11, 1994, 108 Stat. 357, 370; Pub. L. 103–327, title II, Sept. 28, 1994, 108 Stat. 2315; Pub. L. 104–99, title IV, §402(d)(1), (6)(A)(i), Jan. 26, 1996, 110 Stat. 41, 42; Pub. L. 104–120, §9(a)–(c), Mar. 28, 1996, 110 Stat. 836, 837; Pub. L. 104–193, title IX, §903(a)(1), Aug. 22, 1996, 110 Stat. 2348; Pub. L. 104–330, title V, §501(b)(3), Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, title V, §§511(d), 512(b), 514(a)(1), (2)(A), 519(b), 520(b), 521, 525, 529, 530, 564, 565(a), 575, 576(d)(1), Oct. 21, 1998, 112 Stat. 2539, 2543, 2547, 2561, 2563, 2568, 2569, 2627, 2628, 2634, 2640; Pub. L. 109–162, title VI, §607, Jan. 5, 2006, 119 Stat. 3048; Pub. L. 109–271, §5(f), Aug. 12, 2006, 120 Stat. 761.)
+(Sept. 1, 1937, ch. 896, title I, §6, as added Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 659; amended Pub. L. 96–153, title II, §206(a), Dec. 21, 1979, 93 Stat. 1108; Pub. L. 96–399, title II, §§201(c), (e), 202(c), Oct. 8, 1980, 94 Stat. 1625, 1629; Pub. L. 97–35, title III, §322(c), (d), Aug. 13, 1981, 95 Stat. 402; Pub. L. 98–181, title I \[title II, §§201(c), 203(a), 204, 205, 214(b)\], Nov. 30, 1983, 97 Stat. 1177–1179, 1185; Pub. L. 98–479, title I, §102(b)(4), (5), title II, §204(b)(1), Oct. 17, 1984, 98 Stat. 2221, 2233; Pub. L. 99–160, title I, §101, Nov. 25, 1985, 99 Stat. 910; Pub. L. 100–242, title I, §§112(b)(2), 116, 170(d), Feb. 5, 1988, 101 Stat. 1824, 1826, 1867; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; Pub. L. 100–628, title X, §§1001(b), 1014(a)(1), Nov. 7, 1988, 102 Stat. 3263, 3269; Pub. L. 100–690, title V, §5101, Nov. 18, 1988, 102 Stat. 4300; Pub. L. 101–144, title II, Nov. 9, 1989, 103 Stat. 846; Pub. L. 101–625, title V, §§501, 502(a), (c)(1), 503(a), (b), 504–506, 572, Nov. 28, 1990, 104 Stat. 4180, 4181, 4183–4185, 4236; Pub. L. 102–139, title II, Oct. 28, 1991, 105 Stat. 756, 757; Pub. L. 102–550, title I, §§112, 113, title VI, §§622(b), 625(a)(2), 682(a), Oct. 28, 1992, 106 Stat. 3689, 3817, 3820, 3830; Pub. L. 103–233, title I, §101(c)(1), title III, §303, Apr. 11, 1994, 108 Stat. 357, 370; Pub. L. 103–327, title II, Sept. 28, 1994, 108 Stat. 2315; Pub. L. 104–99, title IV, §402(d)(1),\(6)(A)(i), Jan. 26, 1996, 110 Stat. 41, 42; Pub. L. 104–120, §9(a)–(c), Mar. 28, 1996, 110 Stat. 836, 837; Pub. L. 104–193, title IX, §903(a)(1), Aug. 22, 1996, 110 Stat. 2348; Pub. L. 104–330, title V, §501(b)(3), Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, title V, §§511(d), 512(b), 514(a)(1), (2)(A), 519(b), 520(b), 521, 525, 529, 530, 564, 565(a), 575, 576(d)(1), Oct. 21, 1998, 112 Stat. 2539, 2543, 2547, 2561, 2563, 2568, 2569, 2627, 2628, 2634, 2640; Pub. L. 109–162, title VI, §607, Jan. 5, 2006, 119 Stat. 3048; Pub. L. 109–271, §5(f), Aug. 12, 2006, 120 Stat. 761.)
 
 #### References in Text
 
@@ -612,9 +612,9 @@ The Housing and Community Development Act of 1974, referred to in subsec. (b)(3)
 
 The Housing and Community Development Act of 1992, referred to in subsec. (c)(5)(F), is Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3672. Subtitle C of title VI of the Act is classified generally to subchapter I (§13601 et seq.) of chapter 135 of this title. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under section 5301 of this title and Tables.
 
-Section 1437<i>l</i> of this title, referred to in subsec. (j)(1)(I)(3), (2)(B)(ii), was repealed by Pub. L. 105–276, title V, §522(a), Oct. 21, 1998, 112 Stat. 2564.
+Section 1437l of this title, referred to in subsec. (j)(1)(I)(3), (2)(B)(ii), was repealed by Pub. L. 105–276, title V, §522(a), Oct. 21, 1998, 112 Stat. 2564.
 
-Paragraph (5), referred to in the concluding provisions of subsec. (<i>l</i>), was redesignated as par. (6) by Pub. L. 105–276, title V, §512(b)(1), Oct. 21, 1998, 112 Stat. 2543.
+Paragraph (5), referred to in the concluding provisions of subsec. (l), was redesignated as par. (6) by Pub. L. 105–276, title V, §512(b)(1), Oct. 21, 1998, 112 Stat. 2543.
 
 The Civil Rights Act of 1964, referred to in subsec. (r)(1), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 
@@ -630,11 +630,11 @@ A prior section 6 of act Sept. 1, 1937, ch. 896, 50 Stat. 890, as amended, enume
 
 <b>2006</b>—Subsec. (c)(3) to (5). Pub. L. 109–162, §607(1), (2), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
 
-Subsec. (<i>l</i>)(5). Pub. L. 109–162, §607(3), inserted “, and that an incident or incidents of actual or threatened domestic violence, dating violence, or stalking will not be construed as a serious or repeated violation of the lease by the victim or threatened victim of that violence and will not be good cause for terminating the tenancy or occupancy rights of the victim of such violence” before semicolon at end.
+Subsec. (l)(5). Pub. L. 109–162, §607(3), inserted “, and that an incident or incidents of actual or threatened domestic violence, dating violence, or stalking will not be construed as a serious or repeated violation of the lease by the victim or threatened victim of that violence and will not be good cause for terminating the tenancy or occupancy rights of the victim of such violence” before semicolon at end.
 
-Subsec. (<i>l</i>)(6). Pub. L. 109–162, §607(4), inserted before semicolon at end “; except that: (A) criminal activity directly relating to domestic violence, dating violence, or stalking, engaged in by a member of a tenant's household or any guest or other person under the tenant's control, shall not be cause for termination of the tenancy or occupancy rights, if the tenant or immediate member of the tenant's family is a victim of that domestic violence, dating violence, or stalking; (B) notwithstanding subparagraph (A), a public housing agency under this section may bifurcate a lease under this section, in order to evict, remove, or terminate assistance to any individual who is a tenant or lawful occupant and who engages in criminal acts of physical violence against family members or others, without evicting, removing, terminating assistance to, or otherwise penalizing the victim of such violence who is also a tenant or lawful occupant; (C) nothing in subparagraph (A) may be construed to limit the authority of a public housing agency, when notified, to honor court orders addressing rights of access to or control of the property, including civil protection orders issued to protect the victim and issued to address the distribution or possession of property among the household members in cases where a family breaks up; (D) nothing in subparagraph (A) limits any otherwise available authority of a public housing agency to evict a tenant for any violation of a lease not premised on the act or acts of violence in question against the tenant or a member of the tenant's household, provided that the public housing agency does not subject an individual who is or has been a victim of domestic violence, dating violence, or stalking to a more demanding standard than other tenants in determining whether to evict or terminate; (E) nothing in subparagraph (A) may be construed to limit the authority of a public housing agency to terminate the tenancy of any tenant if the public housing agency can demonstrate an actual and imminent threat to other tenants or those employed at or providing service to the property if that tenant's tenancy is not terminated; and (F) nothing in this section shall be construed to supersede any provision of any Federal, State, or local law that provides greater protectionthan this section for victims of domestic violence, dating violence, or stalking.”
+Subsec. (l)(6). Pub. L. 109–162, §607(4), inserted before semicolon at end “; except that: (A) criminal activity directly relating to domestic violence, dating violence, or stalking, engaged in by a member of a tenant's household or any guest or other person under the tenant's control, shall not be cause for termination of the tenancy or occupancy rights, if the tenant or immediate member of the tenant's family is a victim of that domestic violence, dating violence, or stalking; (B) notwithstanding subparagraph (A), a public housing agency under this section may bifurcate a lease under this section, in order to evict, remove, or terminate assistance to any individual who is a tenant or lawful occupant and who engages in criminal acts of physical violence against family members or others, without evicting, removing, terminating assistance to, or otherwise penalizing the victim of such violence who is also a tenant or lawful occupant; (C) nothing in subparagraph (A) may be construed to limit the authority of a public housing agency, when notified, to honor court orders addressing rights of access to or control of the property, including civil protection orders issued to protect the victim and issued to address the distribution or possession of property among the household members in cases where a family breaks up; (D) nothing in subparagraph (A) limits any otherwise available authority of a public housing agency to evict a tenant for any violation of a lease not premised on the act or acts of violence in question against the tenant or a member of the tenant's household, provided that the public housing agency does not subject an individual who is or has been a victim of domestic violence, dating violence, or stalking to a more demanding standard than other tenants in determining whether to evict or terminate; (E) nothing in subparagraph (A) may be construed to limit the authority of a public housing agency to terminate the tenancy of any tenant if the public housing agency can demonstrate an actual and imminent threat to other tenants or those employed at or providing service to the property if that tenant's tenancy is not terminated; and (F) nothing in this section shall be construed to supersede any provision of any Federal, State, or local law that provides greater protection than this section for victims of domestic violence, dating violence, or stalking.”
 
-Subsec. (<i>l</i>)(6)(B). Pub. L. 109–271, §5(f)(1), added subpar. (B) and struck out former subpar. (B) which read as follows: “notwithstanding subparagraph (A), a public housing agency under this section may bifurcate a lease under this section, in order to evict, remove, or terminate assistance to any individual who is a tenant or lawful occupant and who engages in criminal acts of physical violence against family members or others, without evicting, removing, terminating assistance to, or otherwise penalizing the victim of such violence who is also a tenant or lawful occupant;”.
+Subsec. (l)(6)(B). Pub. L. 109–271, §5(f)(1), added subpar. (B) and struck out former subpar. (B) which read as follows: “notwithstanding subparagraph (A), a public housing agency under this section may bifurcate a lease under this section, in order to evict, remove, or terminate assistance to any individual who is a tenant or lawful occupant and who engages in criminal acts of physical violence against family members or others, without evicting, removing, terminating assistance to, or otherwise penalizing the victim of such violence who is also a tenant or lawful occupant;”.
 
 Subsec. (u). Pub. L. 109–162, §607(5), added subsec. (u).
 
@@ -656,7 +656,7 @@ Subsec. (e). Pub. L. 105–276, §529(2), struck out subsec. (e) which read as f
 
 Subsec. (f). Pub. L. 105–276, §530, added subsec. (f).
 
-Subsec. (j)(1)(B). Pub. L. 105–276, §564(1)(A), added subpar. (B) and struck out former subpar. (B) which read as follows: “The amount and percentage of funds obligated to the public housing agency under section 1437<i>l</i> of this title which remain unexpended after 3 years.”
+Subsec. (j)(1)(B). Pub. L. 105–276, §564(1)(A), added subpar. (B) and struck out former subpar. (B) which read as follows: “The amount and percentage of funds obligated to the public housing agency under section 1437l of this title which remain unexpended after 3 years.”
 
 Subsec. (j)(1)(D). Pub. L. 105–276, §564(1)(B), substituted “utility” for “energy”.
 
@@ -664,17 +664,17 @@ Subsec. (j)(1)(E). Pub. L. 105–276, §564(1)(C), which directed the transfer a
 
 Subsec. (j)(1)(H) to (K). Pub. L. 105–276, §564(1)(D), (E), added subpars. (H), (I), relating to extent to which agency implements and coordinates strategies, and (J), and redesignated former subpar. (H) as (K).
 
-Subsec. (j)(2)(A)(i). Pub. L. 105–276, §564(2)(A), inserted after first sentence “Such procedures shall provide that an agency that fails on a widespread basis to provide acceptable basic housing conditions for its residents shall be designated as a troubled public housing agency. The Secretary may use a simplified set of indicators for public housing agencies with less than 250 public housing units.” and, in last sentence, substituted “for assistance from the Capital Fund under section 1437g(d) of this title” for “under section 1437<i>l</i> of this title”.
+Subsec. (j)(2)(A)(i). Pub. L. 105–276, §564(2)(A), inserted after first sentence “Such procedures shall provide that an agency that fails on a widespread basis to provide acceptable basic housing conditions for its residents shall be designated as a troubled public housing agency. The Secretary may use a simplified set of indicators for public housing agencies with less than 250 public housing units.” and, in last sentence, substituted “for assistance from the Capital Fund under section 1437g(d) of this title” for “under section 1437l of this title”.
 
-Subsec. (j)(2)(A)(iii). Pub. L. 105–276, §564(2)(B), substituted “for assistance from the Capital Fund under section 1437g(d) of this title” for “under section 1437<i>l</i> of this title”.
+Subsec. (j)(2)(A)(iii). Pub. L. 105–276, §564(2)(B), substituted “for assistance from the Capital Fund under section 1437g(d) of this title” for “under section 1437l of this title”.
 
-Subsec. (j)(2)(B)(i). Pub. L. 105–276, §564(2)(C), inserted “with more than 250 units” after “public housing agency” and substituted “comparable and recent review” for “review conducted under section 1437<i>l</i>(p) of this title”.
+Subsec. (j)(2)(B)(i). Pub. L. 105–276, §564(2)(C), inserted “with more than 250 units” after “public housing agency” and substituted “comparable and recent review” for “review conducted under section 1437l(p) of this title”.
 
 Subsec. (j)(2)(C). Pub. L. 105–276, §564(2)(D), inserted “(if applicable)” after “subparagraph (B)” in first sentence.
 
 Subsec. (j)(3)(A)(i). Pub. L. 105–276, §565(a)(1)(A), added cl. (i) and struck out former cl. (i) which read as follows: “solicit competitive proposals from other public housing agencies and private housing management agents (which may be selected by existing tenants through administrative procedures established by the Secretary) in the eventuality that these agents may be needed for managing all, or part, of the housing administered by a public housing agency;”.
 
-Subsec. (j)(3)(A)(iii). Pub. L. 105–276, §565(a)(1)(B), substituted “from the Capital Fund under section 1437g(d) of this title” for “under section 1437<i>l</i> of this title”.
+Subsec. (j)(3)(A)(iii). Pub. L. 105–276, §565(a)(1)(B), substituted “from the Capital Fund under section 1437g(d) of this title” for “under section 1437l of this title”.
 
 Subsec. (j)(3)(A)(iv), (v). Pub. L. 105–276, §565(a)(1)(C), added cls. (iv) and (v) and struck out former cl. (iv) which read as follows: “require the agency to make other arrangements acceptable to the Secretary and in the best interests of the public housing residents for managing all, or part of, such housing.”
 
@@ -688,23 +688,23 @@ Subsec. (j)(3)(B) to (H). Pub. L. 105–276, §565(a)(2), added subpars. (B) to 
 
 Subsec. (j)(4), (5). Pub. L. 105–276, §521, added par. (4) and redesignated former par. (4) as (5).
 
-Subsec. (j)(5)(F). Pub. L. 105–276, §564(3), substituted “program for assistance from the Capital Fund under section 1437g(d) of this title and specifies the amount of assistance the agency received under such program.” for “program under section 1437<i>l</i> of this title and specifies the amount of assistance the agency received under section 1437<i>l</i> of this title and any credits accumulated by the agency under section 1437<i>l</i>(k)(5)(D) of this title.”
+Subsec. (j)(5)(F). Pub. L. 105–276, §564(3), substituted “program for assistance from the Capital Fund under section 1437g(d) of this title and specifies the amount of assistance the agency received under such program.” for “program under section 1437l of this title and specifies the amount of assistance the agency received under section 1437l of this title and any credits accumulated by the agency under section 1437l(k)(5)(D) of this title.”
 
 Subsec. (j)(6), (7). Pub. L. 105–276, §564(4), added pars. (6) and (7).
 
 Subsec. (k). Pub. L. 105–276, §575(a), in first sentence of concluding provisions, inserted “violent or” before “drug-related” and “or any activity resulting in a felony conviction,” after “on or off such premises,”.
 
-Subsec. (<i>l</i>)(1) to (3). Pub. L. 105–276, §512(b)(1), (3), added par. (1) and redesignated former pars. (1) to (3) as (2) to (4), respectively.
+Subsec. (l)(1) to (3). Pub. L. 105–276, §512(b)(1), (3), added par. (1) and redesignated former pars. (1) to (3) as (2) to (4), respectively.
 
-Subsec. (<i>l</i>)(4). Pub. L. 105–276, §512(b)(1), redesignated par. (3) as (4). Former par. (4) redesignated (5).
+Subsec. (l)(4). Pub. L. 105–276, §512(b)(1), redesignated par. (3) as (4). Former par. (4) redesignated (5).
 
-Subsec. (<i>l</i>)(4)(A). Pub. L. 105–276, §575(b)(1)(A), added subpar. (A) and struck out former subpar. (A) whichread as follows: “a reasonable time, but not to exceed 30 days, when the health or safety of other tenants or public housing agency employees is threatened;”.
+Subsec. (l)(4)(A). Pub. L. 105–276, §575(b)(1)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: “a reasonable time, but not to exceed 30 days, when the health or safety of other tenants or public housing agency employees is threatened;”.
 
-Subsec. (<i>l</i>)(4)(C). Pub. L. 105–276, §575(b)(1)(B), inserted “, except that if a State or local law provides for a shorter period of time, such shorter period shall apply” before semicolon at end.
+Subsec. (l)(4)(C). Pub. L. 105–276, §575(b)(1)(B), inserted “, except that if a State or local law provides for a shorter period of time, such shorter period shall apply” before semicolon at end.
 
-Subsec. (<i>l</i>)(5), (6). Pub. L. 105–276, §512(b)(1), redesignated pars. (4) and (5) as (5) and (6), respectively. Former par. (6) redesignated (7), relating to specification that tenant be informed of opportunity to examine documents.
+Subsec. (l)(5), (6). Pub. L. 105–276, §512(b)(1), redesignated pars. (4) and (5) as (5) and (6), respectively. Former par. (6) redesignated (7), relating to specification that tenant be informed of opportunity to examine documents.
 
-Subsec. (<i>l</i>)(7). Pub. L. 105–276, §575(b)(4), added par. (7) relating to termination for illegal drug use and alcohol abuse.
+Subsec. (l)(7). Pub. L. 105–276, §575(b)(4), added par. (7) relating to termination for illegal drug use and alcohol abuse.
 
 Pub. L. 105–276, §575(b)(2), struck out “and” at end.
 
@@ -712,11 +712,11 @@ Pub. L. 105–276, §512(b)(2), which directed the redesignation of par. (7) as 
 
 Pub. L. 105–276, §512(b)(1), redesignated par. (6) as (7), relating to specification that tenant be informed of opportunity to examine documents.
 
-Subsec. (<i>l</i>)(9). Pub. L. 105–276, §512(b)(2), which directed the redesignation of par. (7) as (9), was executed by redesignating the par. (7), relating to termination of tenancy if tenant is fleeing prosecution or in violation of parole, as (9), to reflect the probable intent of Congress.
+Subsec. (l)(9). Pub. L. 105–276, §512(b)(2), which directed the redesignation of par. (7) as (9), was executed by redesignating the par. (7), relating to termination of tenancy if tenant is fleeing prosecution or in violation of parole, as (9), to reflect the probable intent of Congress.
 
-Subsec. (<i>o</i>). Pub. L. 105–276, §514(a)(2)(A), substituted “In” for “Subject” and all that follows through “, in” in introductory provisions.
+Subsec. (o). Pub. L. 105–276, §514(a)(2)(A), substituted “In” for “Subject” and all that follows through “, in” in introductory provisions.
 
-Subsec. (p). Pub. L. 105–276, §519(b), struck out subsec. (p) which read as follows: “With respect to amounts available for obligation on or after October 1, 1991, the criteria established under section 1439(d)(5)(B) of this title for any competition for assistance for new construction, acquisition, or acquisition and rehabilitation of public housing shall give preference to applications for housing to be located in a local market area that has an inadequate supply of housing available for use by very low-income families. The Secretary shall establish criteria for determining that the housing supply of a local market area is inadequate, which shall require—
+Subsec. (p). Pub. L. 105–276, §519(b), struck out subsec. (p) which read as follows: “With respect to amountsavailable for obligation on or after October 1, 1991, the criteria established under section 1439(d)(5)(B) of this title for any competition for assistance for new construction, acquisition, or acquisition and rehabilitation of public housing shall give preference to applications for housing to be located in a local market area that has an inadequate supply of housing available for use by very low-income families. The Secretary shall establish criteria for determining that the housing supply of a local market area is inadequate, which shall require—
 
 &emsp;“(1)(A) information regarding housing market conditions showing that the supply of rental housing affordable by very low-income families is inadequate, taking into account vacancy rates in such housing and other market indicators; and
 
@@ -758,7 +758,7 @@ Subsec. (c)(4)(A). Pub. L. 104–99, §402(d)(1), (f), temporarily amended subpa
 
 &emsp;“(i) for not less than 50 percent of the units that are made available for occupancy in a given fiscal year, give preference to families that occupy substandard housing (including families that are homeless or living in a shelter for homeless families), are paying more than 50 percent of family income for rent, or are involuntarily displaced (including displacement because of disposition of a multifamily housing project under section 1701z–11 of title 12) at the time they are seeking assistance under this chapter;
 
-&emsp;“(ii) for any remaining units to be made available for occupancy, give preference in accordance with a system of preferences established by the public housing agency in writing and after public hearing to respond to local housing needs and priorities, which may include (I) assisting very low-income families who either reside in transitional housing assisted under title IV of the Stewart B. McKinney Homeless Assistance Act, or participate in a program designed to provide public assistance recipients with greater access to employment and educational opportunities; (II) assisting families in accordance with subsection (u)(2); (III) assisting families identified by local public agencies involved in providing for the welfare of children as having a lack of adequate housing that is a primary factor in the imminent placement of a child in foster care, or in preventing the discharge of a child from foster care and reunification with his or her family; (IV) assisting youth, upon discharge from foster care, in cases in which return to the family or extended family or adoption is not available; (V) assisting families that include one or more adult members who are employed; and (VI) achieving other objectives of national housing policy as affirmed byCongress; subclause (V) shall be effective only during fiscal year 1995;
+&emsp;“(ii) for any remaining units to be made available for occupancy, give preference in accordance with a system of preferences established by the public housing agency in writing and after public hearing to respond to local housing needs and priorities, which may include (I) assisting very low-income families who either reside in transitional housing assisted under title IV of the Stewart B. McKinney Homeless Assistance Act, or participate in a program designed to provide public assistance recipients with greater access to employment and educational opportunities; (II) assisting families in accordance with subsection (u)(2); (III) assisting families identified by local public agencies involved in providing for the welfare of children as having a lack of adequate housing that is a primary factor in the imminent placement of a child in foster care, or in preventing the discharge of a child from foster care and reunification with his or her family; (IV) assisting youth, upon discharge from foster care, in cases in which return to the family or extended family or adoption is not available; (V) assisting families that include one or more adult members who are employed; and (VI) achieving other objectives of national housing policy as affirmed by Congress; subclause (V) shall be effective only during fiscal year 1995;
 
 &emsp;“(iii) prohibit any individual or family evicted from housing assisted under the chapter by reason of drug-related criminal activity from having a preference under any provision of this subparagraph for 3 years unless the evicted tenant successfully completes a rehabilitation program approved by the agency, except that the agency may waive the application of this clause under standards established by the Secretary (which shall include waiver for any member of a family of an individual prohibited from tenancy under this clause who the agency determines clearly did not participate in and had no knowledge of such criminal activity or when circumstances leading to eviction no longer exist); and
 
@@ -768,11 +768,11 @@ Subsec. (c)(4)(A). Pub. L. 104–99, §402(d)(1), (f), temporarily amended subpa
 
 Subsec. (k). Pub. L. 104–120, §9(a)(1), in concluding provisions, substituted “involves any activity” for “involves any criminal activity” and “on or off such premises” for “on or near such premises”.
 
-Subsec. (<i>l</i>)(5). Pub. L. 104–120, §9(a)(2), substituted “on or off such premises” for “on or near such premises”.
+Subsec. (l)(5). Pub. L. 104–120, §9(a)(2), substituted “on or off such premises” for “on or near such premises”.
 
-Subsec. (<i>l</i>)(7). Pub. L. 104–193 added par. (7).
+Subsec. (l)(7). Pub. L. 104–193 added par. (7).
 
-Subsec. (<i>o</i>). Pub. L. 104–99, §402(d)(6)(A)(i), (f), in introductory provisions, temporarily substituted “written system of preferences for selection established pursuant to” for “preference rules specified in”. See Effective and Termination Dates of 1996 Amendments note below.
+Subsec. (o). Pub. L. 104–99, §402(d)(6)(A)(i), (f), in introductory provisions, temporarily substituted “written system of preferences for selection established pursuant to” for “preference rules specified in”. See Effective and Termination Dates of 1996 Amendments note below.
 
 Subsec. (q). Pub. L. 104–120, §9(b), added subsec. (q).
 
@@ -824,15 +824,15 @@ Subsec. (c)(4)(E). Pub. L. 101–625, §502(c)(1), added subpar. (E).
 
 Subsecs. (d), (e). Pub. L. 101–625, §572(2), substituted “low-income housing” for “lower income housing” wherever appearing.
 
-Subsec. (j). Pub. L. 101–625, §502(a), amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: “On or after October 1, 1983, in entering intocommitments for the development of public housing, the Secretary shall give a priority to projects for the construction, acquisition, or acquisition and rehabilitation of housing suitable for occupancy by families requiring three or more bedrooms.”
+Subsec. (j). Pub. L. 101–625, §502(a), amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: “On or after October 1, 1983, in entering into commitments for the development of public housing, the Secretary shall give a priority to projects for the construction, acquisition, or acquisition and rehabilitation of housing suitable for occupancy by families requiring three or more bedrooms.”
 
 Subsec. (k). Pub. L. 101–625, §503(a), added concluding provisions and struck out former concluding provisions which read as follows: “An agency may exclude from its procedure any grievance concerning an eviction or termination of tenancy in any jurisdiction which requires that, prior to eviction, a tenant be given a hearing in court which the Secretary determines provides the basic elements of due process.”
 
-Subsec. (<i>l</i>)(5). Pub. L. 101–625, §504, amended par. (5) generally. Prior to amendment, par. (5) read as follows: “provide that a public housing tenant, any member of the tenant's household, or a guest or other person under the tenant's control shall not engage in criminal activity, including drug-related criminal activity, on or near public housing premises, while the tenant is a tenant in public housing, and such criminal activity shall be cause for termination of tenancy.”
+Subsec. (l)(5). Pub. L. 101–625, §504, amended par. (5) generally. Prior to amendment, par. (5) read as follows: “provide that a public housing tenant, any member of the tenant's household, or a guest or other person under the tenant's control shall not engage in criminal activity, including drug-related criminal activity, on or near public housing premises, while the tenant is a tenant in public housing, and such criminal activity shall be cause for termination of tenancy.”
 
-Subsec. (<i>l</i>)(6). Pub. L. 101–625, §503(b), added par. (6).
+Subsec. (l)(6). Pub. L. 101–625, §503(b), added par. (6).
 
-Subsecs. (n), (<i>o</i>). Pub. L. 101–625, §§505, 506, added subsecs. (n) and (<i>o</i>).
+Subsecs. (n), (o). Pub. L. 101–625, §§505, 506, added subsecs. (n) and (o).
 
 <b>1989</b>—Subsec. (b). Pub. L. 101–144 added subsec. (b).
 
@@ -856,7 +856,7 @@ Subsec. (h). Pub. L. 100–242, §116, inserted “in the neighborhood where the
 
 Subsec. (k)(4), (5). Pub. L. 100–242, §170(d)(3), substituted “their” for “his”.
 
-Subsec. (<i>l</i>). Pub. L. 100–690 added par. (5) and concluding provisions defining term “drug-related criminal activity” for purposes of par. (5).
+Subsec. (l). Pub. L. 100–690 added par. (5) and concluding provisions defining term “drug-related criminal activity” for purposes of par. (5).
 
 <b>1985</b>—Subsec. (b). Pub. L. 99–160 struck out subsec. (b) which related to cost of construction and equipment of a project, and prototype costs.
 
@@ -872,7 +872,7 @@ Subsec. (f). Pub. L. 98–181, §214(b), repealed subsec. (f) which provided for
 
 Subsecs. (h) to (j). Pub. L. 98–181, §201(c), added subsecs. (h) to (j).
 
-Subsecs. (k), (<i>l</i>). Pub. L. 98–181, §204, added subsecs. (k) and (<i>l</i>).
+Subsecs. (k), (l). Pub. L. 98–181, §204, added subsecs. (k) and (l).
 
 Subsec. (m). Pub. L. 98–181, §205, added subsec. (m).
 
@@ -886,7 +886,7 @@ Subsecs. (d), (e). Pub. L. 97–35, §322(c), substituted references to lower in
 
 Subsec. (c)(4)(A). Pub. L. 96–399, §201(e), inserted exception relating to application of this clause to projects specifically designated for elderly families.
 
-Subsec. (f). Pub. L. 96–399, §202(c), inserted “pursuant to section 1437<i>l</i> of this title” wherever appearing.
+Subsec. (f). Pub. L. 96–399, §202(c), inserted “pursuant to section 1437l of this title” wherever appearing.
 
 <b>1979</b>—Subsec. (c)(4)(A). Pub. L. 96–153 substituted “tenant selection criteria which gives preference to families which occupy substandard housing or are involuntarily displaced at the time they are seeking assistance under this chapter and which is designed” for “tenant selection criteria designed”.
 
@@ -910,7 +910,7 @@ Pub. L. 104–120, §13, Mar. 28, 1996, 110 Stat. 845, provided that:
 
 “(a)
 
-Applicability.—This Act \[enacting section 1490p–2 of this title, amending this section, sections 1437e, 1437n, 1479, 1485, 1490p–2, and 5308 of this title, andsections 1715z–20, 1715z–22, and 1721 of Title 12, Banks and Banking, and enacting provisions set out as notes under sections 1437f, 5305, and 12805 of this title and sections 1701 and 4101 of Title 12\] and the amendments made by this Act shall be construed to have become effective on October 1, 1995.
+Applicability.—This Act \[enacting section 1490p–2 of this title, amending this section, sections 1437e, 1437n, 1479, 1485, 1490p–2, and 5308 of this title, and sections 1715z–20, 1715z–22, and 1721 of Title 12, Banks and Banking, and enacting provisions set out as notes under sections 1437f, 5305, and 12805 of this title and sections 1701 and 4101 of Title 12\] and the amendments made by this Act shall be construed to have become effective on October 1, 1995.
 
 “(b)
 
@@ -930,15 +930,15 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 
 
 Pub. L. 105–276, title V, §565(d), Oct. 21, 1998, 112 Stat. 2632, provided that: “The Secretary may administer the amendments made by subsection (a) \[amending this section\] as necessary to ensure the efficient and effective initial implementation of this section \[amending this section and section 1437f of this title and enacting provisions set out as notes under this section\].”
 
-Section 502(c)(2) of Pub. L. 101–625, as amended by Pub. L. 102–550, title I, §130, Oct. 28, 1992, 106 Stat. 3712, provided that: “The Secretary of Housing and Urban Development shall, under the rulemaking procedures under section 553 of title 5, United States Code, establish guidelines and timetables appropriate to implement the amendment made by paragraph (1)(C) \[amending this section\], taking into account the requirements of public housing agencies of different sizes and characteristics, to achieve compliance with requirements established by such amendment not later than January 1, 1993 for public housing agencies with 500 or more units and not later than January 1, 1994 for public housing agencies with less than 500 units.”
+Pub. L. 101–625, title V, §502(c)(2), Nov. 28, 1990, 104 Stat. 4184, as amended by Pub. L. 102–550, title I, §130, Oct. 28, 1992, 106 Stat. 3712, provided that: “The Secretary of Housing and Urban Development shall, under the rulemaking procedures under section 553 of title 5, United States Code, establish guidelines and timetables appropriate to implement the amendment made by paragraph (1)(C) \[amending this section\], taking into account the requirements of public housing agencies of different sizes and characteristics, to achieve compliance with requirements established by such amendment not later than January 1, 1993 for public housing agencies with 500 or more units and not later than January 1, 1994 for public housing agencies with less than 500 units.”
 
 #### Regulations
 
 For provisions requiring Secretary of Housing and Urban Development to issue regulations necessary to implement amendment to this section by section 101(c) of Pub. L. 103–233, see section 101(f) of Pub. L. 103–233, set out as a note under section 1701z–11 of Title 12, Banks and Banking.
 
-Section 104 of Pub. L. 102–550 provided that: “Not later than the expiration of the 180-day period beginning on the date of the enactment of this Act \[Oct. 28, 1992\], the Secretary of Housing and Urban Development shall issue regulations implementing the amendments made by sections 501 and 545 of the Cranston-Gonzalez National Affordable Housing Act \[Pub. L. 101–625, amending this section and section 1437f of this title\]. The regulations shall be issued after notice and opportunity for public comment pursuant to the provisions of section 553 of title 5, United States Code (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section) and shall take effect upon issuance.”
+Pub. L. 102–550, title I, §104, Oct. 28, 1992, 106 Stat. 3684, provided that: “Not later than the expiration of the 180-day period beginning on the date of the enactment of this Act \[Oct. 28, 1992\], the Secretary of Housing and Urban Development shall issue regulations implementing the amendments made by sections 501 and 545 of the Cranston-Gonzalez National Affordable Housing Act \[Pub. L. 101–625, amending this section and section 1437f of this title\]. The regulations shall be issued after notice and opportunity for public comment pursuant to the provisions of section 553 of title 5, United States Code (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section) and shall take effect upon issuance.”
 
-Section 503(c) of Pub. L. 101–625 provided that: “The Secretary of Housing and Urban Development shall issue, and publish in the Federal Register for comment, proposed rules implementing the amendments made by this section \[amending this section\] not later than the expiration of the 60-day period beginning on the date of the enactment of this Act \[Nov. 28, 1990\] and shall issue final rules implementing the amendments not later than the expiration of the 180-day period beginning on the date of the enactment of this Act.”
+Pub. L. 101–625, title V, §503(c), Nov. 28, 1990, 104 Stat. 4185, provided that: “The Secretary of Housing and Urban Development shall issue, and publish in the Federal Register for comment, proposed rules implementing the amendments made by this section \[amending this section\] not later than the expiration of the 60-day period beginning on the date of the enactment of this Act \[Nov. 28, 1990\] and shall issue final rules implementing the amendments not later than the expiration of the 180-day period beginning on the date of the enactment of this Act.”
 
 #### Study of Alternative Methods for Evaluating Public Housing Agencies
 
@@ -1032,7 +1032,7 @@ Effective Date.—This section shall take effect on the date of the enactment of
 
 #### References in Other Laws to Preferences for Assistance
 
-Section 402(d)(6)(D) of Pub. L. 104–99, which provided that certain references to preferences for assistance under sections 1437d(c)(4)(A)(i) and 1437f(d)(1)(A)(i), (<i>o</i>)(3)(B) of this title, as such sections existed on the day before Jan. 26, 1996, were to be considered to refer to the written system of preferences for selection established pursuant to sections 1437d(c)(4)(A) and 1437f(d)(1)(A), (<i>o</i>)(3)(B) of this title, respectively, as amended by section 402 of Pub. L. 104–99, was repealed by Pub. L. 105–276, title V, §514(b)(2)(D), Oct. 21, 1998, 112 Stat. 2548.
+Pub. L. 104–99, title IV, §402(d)(6)(D), Jan. 26, 1996, 110 Stat. 43, which provided that certain references to preferences for assistance under sections 1437d(c)(4)(A)(i) and 1437f(d)(1)(A)(i), (o)(3)(B) of this title, as such sections existed on the day before Jan. 26, 1996, were to be considered to refer to the written system of preferences for selection established pursuant to sections 1437d(c)(4)(A) and 1437f(d)(1)(A), (o)(3)(B) of this title, respectively, as amended by section 402 of Pub. L. 104–99, was repealed by Pub. L. 105–276, title V, §514(b)(2)(D), Oct. 21, 1998, 112 Stat. 2548.
 
 #### Inapplicability of Certain 1992 Amendments to Indian Public Housing
 
@@ -1040,23 +1040,23 @@ Amendment by sections 622(b) and 625(a)(2) of Pub. L. 102–550 not applicable w
 
 #### Report on Training and Certification Standards
 
-Section 502(b) of Pub. L. 101–625 directed Secretary to submit to Congress, not later than 12 months after Nov. 28, 1990, a report regarding the feasibility and effectiveness of establishing uniform standards for training and certification of executive directors and other officers and members of local, regional, and State public housing agencies.
+Pub. L. 101–625, title V, §502(b), Nov. 28, 1990, 104 Stat. 4183, directed Secretary to submit to Congress, not later than 12 months after Nov. 28, 1990, a report regarding the feasibility and effectiveness of establishing uniform standards for training and certification of executive directors and other officers and members of local, regional, and State public housing agencies.
 
 #### Applicability
 
-Section 503(d) of Pub. L. 101–625 provided that: “Any exclusion of grievances by a public housing agency pursuant to a determination or waiver by the Secretary (under section 6(k) of the United States Housing Act of 1937 \[42 U.S.C. 1437d(k)\], as such section existed before the date of the enactment of this Act \[Nov. 28, 1990\]) that a jurisdiction requires a hearing in court providing the basic elements of due process shall be effective after the date of the enactment of this Act only to the extent that the exclusion complies with the amendments made by this section, except that any such waiver provided before the date of the enactment of this Act shall remain in effect until the earlier of the effective date of the final rules implementing the amendments made by this section or 180 days after the date of the enactment.”
+Pub. L. 101–625, title V, §503(d), Nov. 28, 1990, 104 Stat. 4185, provided that: “Any exclusion of grievances by a public housing agency pursuant to a determination or waiver by the Secretary (under section 6(k) of the United States Housing Act of 1937 \[42 U.S.C. 1437d(k)\], as such section existed before the date of the enactment of this Act \[Nov. 28, 1990\]) that a jurisdiction requires a hearing in court providing the basic elements of due process shall be effective after the date of the enactment of this Act only to the extent that the exclusion complies with the amendments made by this section, except that any such waiver provided before the date of the enactment of this Act shall remain in effect until the earlier of the effective date of the final rules implementing the amendments made by this section or 180 days after the date of the enactment.”
 
 #### Report on Impact of Public Housing Lease and Grievance Regulation on Ability of Public Housing Agencies To Take Action Against Tenants Engaging in Drug Crimes
 
-Section 5103 of Pub. L. 100–690 provided that: “The Secretary of Housing and Urban Development shall submit to the Congress a report on the impact of the implementation of the public housing tenancy and administrative grievance procedure regulations issued under section 6(k) of the United States Housing Act of 1937 (42 U.S.C. 1437d(k)) on the ability of public housing agencies to evict or take other appropriate action against tenants engaging in criminal activity, especially with respect to the manufacture, sale, distribution, use, or possession of controlled substances (as defined in section 102 of the Controlled Substances Act (21 U.S.C. 802)). The report shall be submitted not later than 12 months after the date of the enactment of this Act \[Nov. 18, 1988\].”
+Pub. L. 100–690, title V, §5103, Nov. 18, 1988, 102 Stat. 4300, provided that: “The Secretary of Housing and Urban Development shall submit to the Congress a report on the impact of the implementation of the public housing tenancy and administrative grievance procedure regulations issued under section 6(k) of the United States Housing Act of 1937 (42 U.S.C. 1437d(k)) on the ability of public housing agencies to evict or take other appropriate action against tenants engaging in criminal activity, especially with respect to the manufacture, sale, distribution, use, or possession of controlled substances (as defined in section 102 of the Controlled Substances Act (21 U.S.C. 802)). The report shall be submitted not later than 12 months after the date of the enactment of this Act \[Nov. 18, 1988\].”
 
 #### Indian Housing
 
-Section 1014(a)(2) of Pub. L. 100–628 provided that: “In accordance with section 201(b)(2) of the United States Housing Act of 1937 \[former section 1437aa(b)(2) of this title\], the amendments made by paragraph (1) \[amending this section\] shall also apply to public housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian housing authority.”
+Pub. L. 100–628, title X, §1014(a)(2), Nov. 7, 1988, 102 Stat. 3269, provided that: “In accordance with section 201(b)(2) of the United States Housing Act of 1937 \[former section 1437aa(b)(2) of this title\], the amendments made by paragraph (1) \[amending this section\] shall also apply to public housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian housing authority.”
 
 #### Study of Payments in Lieu of Taxes; Report to Congress
 
-Pub. L. 95–128, title II, §201(g), Oct. 12, 1977, 91 Stat. 1129, provided that the Secretary of Housing and UrbanDevelopment conduct a study of payment in lieu of taxes made under subsec. (d) of this section and report to the Congress on the status and adequacy of such payments not later than 12 months after Oct. 12, 1977.
+Pub. L. 95–128, title II, §201(g), Oct. 12, 1977, 91 Stat. 1129, provided that the Secretary of Housing and Urban Development conduct a study of payment in lieu of taxes made under subsec. (d) of this section and report to the Congress on the status and adequacy of such payments not later than 12 months after Oct. 12, 1977.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “is”.</i>
 

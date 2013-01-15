@@ -1,28 +1,14 @@
 ### §48103. Airport planning and development and noise compatibility planning and programs
 
-The total amounts which shall be available after September 30, 2003, to the Secretary ofTransportation out of the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 (26 U.S.C. 9502) to make grants for airport planning and airport development under section 47104 of this title, airport noise compatibility planning under section 47505(a)(2) of this title, and carrying out noise compatibility programs under section 47504(c) of this title shall be—
+(a)
 
-&emsp;(1) $3,400,000,000 for fiscal year 2004;
+In General.—There shall be available to the Secretary of Transportation out of the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 to make grants for airport planning and airport development under section 47104, airport noise compatibility planning under section 47505(a)(2), and carrying out noise compatibility programs under section 47504(c) $3,350,000,000 for each of fiscal years 2012 through 2015.
 
-&emsp;(2) $3,500,000,000 for fiscal year 2005;
+(b)
 
-&emsp;(3) $3,600,000,000 for fiscal year 2006;
+Availability of Amounts.—Amounts made available under subsection (a) shall remain available until expended.
 
-&emsp;(4) $3,700,000,000 for fiscal year 2007;
-
-&emsp;(5) $3,675,000,000 for fiscal year 2008;
-
-&emsp;(6) $3,900,000,000 for fiscal year 2009;
-
-&emsp;(7) $3,515,000,000 for fiscal year 2010;
-
-&emsp;(8) $3,515,000,000 for fiscal year 2011; and
-
-&emsp;(9) $1,181,270,492 for the period beginning on October 1, 2011, and ending on January 31, 2012.
-
-> Such sums shall remain available until expended.
-
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1296; Pub. L. 103–305, title I, §101(a), Aug. 23, 1994, 108 Stat. 1570; Pub. L. 104–264, title I, §101(a), Oct. 9, 1996, 110 Stat. 3216; Pub. L. 105–277, div. C, title I, §110(b)(1), Oct. 21, 1998, 112 Stat. 2681–587; Pub. L. 106–6, §2(a), Mar. 31, 1999, 113 Stat. 10; Pub. L. 106–31, title VI, §6002(a), May 21, 1999, 113 Stat. 113; Pub. L. 106–59, §1(a), Sept. 29, 1999, 113 Stat. 482; Pub. L. 106–181, title I, §101(a), Apr. 5, 2000, 114 Stat. 65; Pub. L. 108–176, title I, §101(a), Dec. 12, 2003, 117 Stat. 2494; Pub. L. 110–190, §4(a)(1), Feb. 28, 2008, 122 Stat. 643; Pub. L. 110–253, §4(a), June 30, 2008, 122 Stat. 2418; Pub. L. 110–330, §4(a)(1), Sept. 30, 2008, 122 Stat. 3717; Pub. L. 111–12, §4(a), Mar. 30, 2009, 123 Stat. 1457; Pub. L. 111–69, §4(a)(1), Oct. 1, 2009, 123 Stat. 2054; Pub. L. 111–116, §4(a)(1), Dec. 16, 2009, 123 Stat. 3031; Pub. L. 111–153, §4(a)(1), Mar. 31, 2010, 124 Stat. 1084; Pub. L. 111–161, §4(a)(1), Apr. 30, 2010, 124 Stat. 1126; Pub. L. 111–197, §4(a)(1), July 2, 2010, 124 Stat. 1353; Pub. L. 111–249, §4(a)(1), Sept. 30, 2010, 124 Stat. 2627; Pub. L. 111–329, §4(a)(1), Dec. 22, 2010, 124 Stat. 3566; Pub. L. 112–7, §4(a)(1), Mar. 31, 2011, 125 Stat. 31; Pub. L. 112–16, §4(a)(1), May 31, 2011, 125 Stat. 218; Pub. L. 112–21, §4(a)(1), June 29, 2011, 125 Stat. 233; Pub. L. 112–27, §4(a)(1), Aug. 5, 2011, 125 Stat. 270; Pub. L. 112–30, title II, §204(a)(1), Sept. 16, 2011, 125 Stat. 357.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1296; Pub. L. 103–305, title I, §101(a), Aug. 23, 1994, 108 Stat. 1570; Pub. L. 104–264, title I, §101(a), Oct. 9, 1996, 110 Stat. 3216; Pub. L. 105–277, div. C, title I, §110(b)(1), Oct. 21, 1998, 112 Stat. 2681–587; Pub. L. 106–6, §2(a), Mar. 31, 1999, 113 Stat. 10; Pub. L. 106–31, title VI, §6002(a), May 21, 1999, 113 Stat. 113; Pub. L. 106–59, §1(a), Sept. 29, 1999, 113 Stat. 482; Pub. L. 106–181, title I, §101(a), Apr. 5, 2000, 114 Stat. 65; Pub. L. 108–176, title I, §101(a), Dec. 12, 2003, 117 Stat. 2494; Pub. L. 110–190, §4(a)(1), Feb. 28, 2008, 122 Stat. 643; Pub. L. 110–253, §4(a), June 30, 2008, 122 Stat. 2418; Pub. L. 110–330, §4(a)(1), Sept. 30, 2008, 122 Stat. 3717; Pub. L. 111–12, §4(a), Mar. 30, 2009, 123 Stat. 1457; Pub. L. 111–69, §4(a)(1), Oct. 1, 2009, 123 Stat. 2054; Pub. L. 111–116, §4(a)(1), Dec. 16, 2009, 123 Stat. 3031; Pub. L. 111–153, §4(a)(1), Mar. 31, 2010, 124 Stat. 1084; Pub. L. 111–161, §4(a)(1), Apr. 30, 2010, 124 Stat. 1126; Pub. L. 111–197, §4(a)(1), July 2, 2010, 124 Stat. 1353; Pub. L. 111–249, §4(a)(1), Sept. 30, 2010, 124 Stat. 2627; Pub. L. 111–329, §4(a)(1), Dec. 22, 2010, 124 Stat. 3566; Pub. L. 112–7, §4(a)(1), Mar. 31, 2011, 125 Stat. 31; Pub. L. 112–16, §4(a)(1), May 31, 2011, 125 Stat. 218; Pub. L. 112–21, §4(a)(1), June 29, 2011, 125 Stat. 233; Pub. L. 112–27, §4(a)(1), Aug. 5, 2011, 125 Stat. 270; Pub. L. 112–30, title II, §204(a)(1), Sept. 16, 2011, 125 Stat. 357; Pub. L. 112–91, §4(a)(1), Jan. 31, 2012, 126 Stat. 3; Pub. L. 112–95, title I, §101(a), Feb. 14, 2012, 126 Stat. 15.)
 
 Historical and Revision Notes
 
@@ -48,7 +34,15 @@ Sept. 3, 1982, Pub. L. 97–248, §505(a) (2d sentence), 96 Stat. 676; Jan. 6, 1
 
 In this section, references to the aggregate amounts for fiscal years ending before October 1, 1987–1992, are omitted as obsolete. The words “of which $475,000,000 shall be credited to the supplementary discretionary fund established by section 2206(a)(3)(B)” are omitted as executed. In restating section 505(a) (2d sentence) of the Airport and Airway Improvement Act of 1982 (Public Law 97–248, 96 Stat. 676), the cross-reference to the discretionary fund was retained but is incorrect because of the restatement of section 507 of the Airport and Airway Improvement Act of 1982 (Public Law 97–248, 96 Stat. 679) by section 426(a) of the Highway Improvement Act of 1982 (Public Law 97–424, 96 Stat. 2167). See section 47115 of the revised title.
 
+#### References in Text
+
+Section 9502 of the Internal Revenue Code of 1986, referred to in subsec. (a), is classified to section 9502 of Title 26, Internal Revenue Code.
+
 #### Amendments
+
+<b>2012</b>—Pub. L. 112–95 amended section generally. Prior to amendment, section listed amounts available out of the Airport and Airway Trust Fund for fiscal years 2004 through 2011 and for the period beginning on Oct. 1, 2011, and ending on Feb. 17, 2012.
+
+Par. (9). Pub. L. 112–91 amended par. (9) generally. Prior to amendment, par. (9) read as follows: “$1,181,270,492 for the period beginning on October 1, 2011, and ending on January 31, 2012.”
 
 <b>2011</b>—Par. (8). Pub. L. 112–30 added par. (8) and struck out former par. (8) which read as follows: “$3,380,178,082 for the period beginning on October 1, 2010, and ending on September 16, 2011.”
 

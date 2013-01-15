@@ -18,7 +18,7 @@ In any case in which a single-employer plan is terminated in a distress terminat
 
 #### (B) Special rule in case of subsequent insufficiency
 
-&emsp;&emsp;For purposes of subparagraph (A), in any case described in section 1341(c)(3)(C)(ii) of this title, actuarial present values shall be determined as of the date of the notice to the corporation (or the finding by the corporation) described in such section.
+&emsp;&emsp;For purposes of subparagraph (A), in any case described in section 1341(c)(3)(C)(ii) ofthis title, actuarial present values shall be determined as of the date of the notice to the corporation (or the finding by the corporation) described in such section.
 
 #### (2) Payment of liability
 
@@ -28,7 +28,7 @@ In any case in which a single-employer plan is terminated in a distress terminat
 
 #### (B) Special rule
 
-&emsp;&emsp;Payment of so much of the liability under paragraph (1)(A) as exceeds 30 percent of the collective net worth of all persons described in subsection (a) of this section (including interest) shall be made under commercially reasonable terms prescribed by the corporation. The parties involved shall make a reasonable effort to reach agreement on such commercially reasonable terms. Any such terms prescribed by the corporation shall provide for deferral of 50 percent of anyamount of liability otherwise payable for any year under this subparagraph if a person subject to such liability demonstrates to the satisfaction of the corporation that no person subject to such liability has any individual pre-tax profits for such person's fiscal year ending during such year.
+&emsp;&emsp;Payment of so much of the liability under paragraph (1)(A) as exceeds 30 percent of the collective net worth of all persons described in subsection (a) of this section (including interest) shall be made under commercially reasonable terms prescribed by the corporation. The parties involved shall make a reasonable effort to reach agreement on such commercially reasonable terms. Any such terms prescribed by the corporation shall provide for deferral of 50 percent of any amount of liability otherwise payable for any year under this subparagraph if a person subject to such liability demonstrates to the satisfaction of the corporation that no person subject to such liability has any individual pre-tax profits for such person's fiscal year ending during such year.
 
 #### (3) Alternative arrangements
 
@@ -82,7 +82,7 @@ A person described in subsection (a) of this section shall be subject to liabili
 
 If an employer ceases operations at a facility in any location and, as a result of such cessation of operations, more than 20 percent of the total number of his employees who are participants under a plan established and maintained by him are separated from employment, the employer shall be treated with respect to that plan as if he were a substantial employer under a plan under which more than one employer makes contributions and the provisions of sections 1363, 1364, and 1365 of this title shall apply.
 
-(Pub. L. 93–406, title IV, §4062, Sept. 2, 1974, 88 Stat. 1029; Pub. L. 95–598, title III, §321(b), Nov. 6, 1978, 92 Stat. 2678; Pub. L. 96–364, title IV,§403(g), Sept. 26, 1980, 94 Stat. 1301; Pub. L. 99–272, title XI, §11011(a), (b), Apr. 7, 1986, 100 Stat. 253, 257; Pub. L. 100–203, title IX, §9312(b)(1), (2)(A), (B)(ii), Dec. 22, 1987, 101 Stat. 1330–361; Pub. L. 101–239, title VII, §§7881(f)(2), (10)(A), (B), 7891(a)(1), Dec. 19, 1989, 103 Stat. 2440, 2441, 2445; Pub. L. 109–280, title I, §108(b)(4), formerly §107(b)(4), Aug. 17, 2006, 120 Stat. 819, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297.)
+(Pub. L. 93–406, title IV, §4062, Sept. 2, 1974, 88 Stat. 1029; Pub. L. 95–598, title III, §321(b), Nov. 6, 1978, 92 Stat. 2678; Pub. L. 96–364, title IV, §403(g), Sept. 26, 1980, 94 Stat. 1301; Pub. L. 99–272, title XI, §11011(a), (b), Apr. 7, 1986, 100 Stat. 253, 257; Pub. L. 100–203, title IX, §9312(b)(1), (2)(A), (B)(ii), Dec. 22, 1987, 101 Stat. 1330–361; Pub. L. 101–239, title VII, §§7881(f)(2), (10)(A), (B), 7891(a)(1), Dec. 19, 1989, 103 Stat. 2440, 2441, 2445; Pub. L. 109–280, title I, §108(b)(4), formerly §107(b)(4), Aug. 17, 2006, 120 Stat. 819, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297.)
 
 #### Amendments
 
@@ -144,7 +144,7 @@ Subsec. (f). Pub. L. 99–272, §11011(a)(1), (b), redesignated former subsec. (
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–364 substituted “single-employee plan” for “plan (other than a multiemployer plan)”.
 
-<b>1978</b>—Subsec. (c)(2). Pub. L. 95–598 substituted “title 11” and “a debtor in a case under chapter 7 of such title” for “the Bankruptcy Act” and “the subject of a proceeding under that Act”, respectively.
+<b>1978</b>—Subsec. (c)(2). Pub. L. 95–598 substituted “title 11” and “a debtor in a case under chapter 7 of suchtitle” for “the Bankruptcy Act” and “the subject of a proceeding under that Act”, respectively.
 
 #### Effective Date of 2006 Amendment
 
@@ -158,7 +158,7 @@ Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherw
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–203 applicable with respect to plan terminations under section 1341 of this title with respect to which notices of intent to terminate are provided under section 1341(a)(2) of this title after Dec. 17, 1987, and plan terminations with respect to which proceedings are instituted by the Pension Benefit Guaranty Corporation under section 1342 of thistitle after that date, see section 9312(d)(1) of Pub. L. 100–203, as amended, set out as a note under section 1301 of this title.
+Amendment by Pub. L. 100–203 applicable with respect to plan terminations under section 1341 of this title with respect to which notices of intent to terminate are provided under section 1341(a)(2) of this title after Dec. 17, 1987, and plan terminations with respect to which proceedings are instituted by the Pension Benefit Guaranty Corporation under section 1342 of this title after that date, see section 9312(d)(1) of Pub. L. 100–203, as amended, set out as a note under section 1301 of this title.
 
 #### Effective Date of 1986 Amendment
 

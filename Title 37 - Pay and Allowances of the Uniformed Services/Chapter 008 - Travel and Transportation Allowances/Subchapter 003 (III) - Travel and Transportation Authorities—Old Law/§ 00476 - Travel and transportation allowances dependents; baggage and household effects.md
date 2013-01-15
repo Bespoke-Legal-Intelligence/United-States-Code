@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(II) the customary port of embarkation which is nearest to the member's port of embarkation if delivery of the motor vehicle to the port of embarkation is made in conjunction with the member's travel to the member's port of embarkation;
 
-> &emsp;whichever is most cost-effective for the Government considering all operational, travel, and transportation requirements incident to such change of station; and
+> &emsp;whichever is most cost-effective for the Government considering all operational, travel,and transportation requirements incident to such change of station; and
 
 &emsp;(ii) from the customary port of debarkation which has been designated by the Government as most cost-effective for the Government considering all operational, travel, and transportation requirements incident to such change of station to the new duty station.
 
@@ -181,17 +181,33 @@
 
 (k) A member of the armed forces who relocates from leased or rental housing by reason of the foreclosure of such housing is entitled to transportation of baggage and household effects under subsection (b)(1) in the same manner, and subject to the same conditions and limitations, as similarly circumstanced members entitled to transportation of baggage and household effects under that subsection.
 
-(<i>l</i>) For the purposes of this section, the residence of a dependent of a member who is a student not living with the member while at school shall be considered to be the permanent duty station of the member or the designated residence of dependents of the member if the member's dependents are not authorized to reside with the member.
+(l)(1) A member described in paragraph (2) is entitled to the travel and transportation allowances, including allowances with respect to dependents, authorized by this section upon filling a vacancy as described in that paragraph as if the member were undergoing a permanent change of station under orders in filling such vacancy.
 
-(m) No carrier, port agent, warehouseman, freight forwarder, or other person involved in the transportation of property may have any lien on, or hold, impound, or otherwise interfere with, the movement of baggage and household goods being transported under this section.
+(2) A member described in this paragraph is a member who is filling a vacancy in a Selected Reserve unit at a duty station that is more than 150 miles from the member's residence if—
 
-(n) No transportation, reimbursement, allowance, or per diem may be provided under this section—
+&emsp;(A) during the three years preceding filling the vacancy, the member was involuntarily separated under other than adverse conditions (as characterized by the Secretary concerned) while assigned to a unit of the Selected Reserve certified by the Secretary concerned as having been adversely affected by force structure reductions during the period beginning on October 1, 2012, and ending on December 31, 2018;
 
-&emsp;(1) with respect to a change of temporary or permanent station for which orders are issued after the travel authorities transition expiration date; or
+&emsp;(B) the involuntary separation occurred during the period beginning on October 1, 2012, and ending on December 31, 2018; and
+
+&emsp;(C) the member is—
+
+&emsp;&emsp;(i) qualified in a skill designated as critically short by the Secretary concerned; or
+
+&emsp;&emsp;(ii) filling a vacancy in a Selected Reserve unit with a critical manpower shortage, or in a pay grade with a critical manpower shortage in such unit.
+
+(3) Any allowances authorized by this section that are payable under this subsection may be payable in advance if payable in advance to a member undergoing a permanent change of station under orders under the applicable provision of this section.
+
+(m) For the purposes of this section, the residence of a dependent of a member who is a student not living with the member while at school shall be considered to be the permanent duty station of the member or the designated residence of dependents of the member if the member's dependents are not authorized to reside with the member.
+
+(n) No carrier, port agent, warehouseman, freight forwarder, or other person involved in the transportation of property may have any lien on, or hold, impound, or otherwise interfere with, the movement of baggage and household goods being transported under this section.
+
+(o) No transportation, reimbursement, allowance, or per diem may be provided under this section—
+
+&emsp;(1) with respect to a change of temporary or permanent station for which orders are issuedafter the travel authorities transition expiration date; or
 
 &emsp;(2) in a case covered by this section when such orders are not issued, with respect to a movement of baggage or household effects that begins after such date.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 473, §406; Pub. L. 88–431, §1(a), Aug. 14, 1964, 78 Stat. 439; Pub. L. 89–101, §2, July 30, 1965, 79 Stat. 425; Pub. L. 89–680, §1(2), (3), Oct. 15, 1966, 80 Stat. 957; Pub. L. 89–718, §§58, 59, Nov. 2, 1966, 80 Stat. 1123; Pub. L. 90–623, §3(6), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 96–107, title VIII, §814, Nov. 9, 1979, 93 Stat. 817; Pub. L. 96–513, title V, §506(7), Dec. 12, 1980, 94 Stat. 2919; Pub. L. 97–60, title I, §121(b), Oct. 14, 1981, 95 Stat. 1000; Pub. L. 97–86, title IV, §404, Dec. 1, 1981, 95 Stat. 1105; Pub. L. 97–258, §2(i)(1), Sept. 13, 1982, 96 Stat. 1061; Pub. L. 97–295, §3(4), Oct. 12, 1982, 96 Stat. 1303; Pub. L. 98–94, title IX, §909, Sept. 24, 1983, 97 Stat. 638; Pub. L. 99–145, title VI, §§612(b), 614(a), 617(a), title XIII, §1303(b)(9), Nov. 8, 1985, 99 Stat. 639–641, 741; Pub. L. 99–433, title VI, §602(f)(2), Oct. 1, 1986, 100 Stat. 1070; Pub. L. 99–661, div. A, title VI, §§617(a), 620(a), (b)(1), 652(a), (b), Nov. 14, 1986, 100 Stat. 3880, 3882, 3888; Pub. L. 100–180, div. A, title VI, §616(b), Dec. 4, 1987, 101 Stat. 1096; Pub. L. 100–456, div. A, title VI, §602(a), Sept. 29, 1988, 102 Stat. 1976; Pub. L. 101–189, div. A, title VI, §623(a), (b), Nov. 29, 1989, 103 Stat. 1447; Pub. L. 101–510, div. A, title V, §503(b), title VI, §§621, 622(a), title XIV, §1484(i)(9), Nov. 5, 1990, 104 Stat. 1558, 1580, 1718; Pub. L. 102–25, title VII, §702(b)(1)–(3), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title XI, §1111(d)(4), Dec. 5, 1991, 105 Stat. 1492; Pub. L. 102–241, §12, Dec. 19, 1991, 105 Stat. 2213; Pub. L. 102–484, div. A, title VI, §622(a), title X, §1054(a)(4), Oct. 23, 1992, 106 Stat. 2422, 2502; Pub. L. 103–160, div. A, title V, §561(<i>l</i>)(1), title XI, §1182(d)(1), Nov. 30, 1993, 107 Stat. 1668, 1773; Pub. L. 104–106, div. A, title VI, §§623, 642(a)(1), title XV, §§1502(b), 1505(d), Feb. 10, 1996, 110 Stat. 363, 368, 506, 514; Pub. L. 104–201, div. A, title III, §368(b), title VI, §§621(a), 624, Sept. 23, 1996, 110 Stat. 2498, 2548; Pub. L. 105–85, div. A, title VI, §§603(d)(1)(B), 631, Nov. 18, 1997, 111 Stat. 1782, 1795; Pub. L. 105–261, div. A, title V, §561(f), title VI, §§631(a), (b)(1), 632, 653(b), Oct. 17, 1998, 112 Stat. 2025, 2043, 2044, 2051; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(f), title VI, §§642(a), 643\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134, 1654A–161; Pub. L. 107–107, div. A, title VI, §§633(a), 634(a), Dec. 28, 2001, 115 Stat. 1144; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title V, §571, title VI, §631(b), Nov. 24, 2003, 117 Stat. 1484, 1508; Pub. L. 109–163, div. A, title VI, §§652, 654(a), Jan. 6, 2006, 119 Stat. 3312, 3313; Pub. L. 110–289, div. B, title VI, §2609, July 30, 2008, 122 Stat. 2862; Pub. L. 110–417, \[div. A\], title VI, §§621, 622, Oct. 14, 2008, 122 Stat. 4491, 4492; renumbered §476 and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(6), (f)(4)(A), Dec. 31, 2011, 125 Stat. 1460, 1462, 1465.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 473, §406; Pub. L. 88–431, §1(a), Aug. 14, 1964, 78 Stat. 439; Pub. L. 89–101, §2, July 30, 1965, 79 Stat. 425; Pub. L. 89–680, §1(2), (3), Oct. 15, 1966, 80 Stat. 957; Pub. L. 89–718, §§58, 59, Nov. 2, 1966, 80 Stat. 1123; Pub. L. 90–623, §3(6), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 96–107, title VIII, §814, Nov. 9, 1979, 93 Stat. 817; Pub. L. 96–513, title V, §506(7), Dec. 12, 1980, 94 Stat. 2919; Pub. L. 97–60, title I, §121(b), Oct. 14, 1981, 95 Stat. 1000; Pub. L. 97–86, title IV, §404, Dec. 1, 1981, 95 Stat. 1105; Pub. L. 97–258, §2(i)(1), Sept. 13, 1982, 96 Stat. 1061; Pub. L. 97–295, §3(4), Oct. 12, 1982, 96 Stat. 1303; Pub. L. 98–94, title IX, §909, Sept. 24, 1983, 97 Stat. 638; Pub. L. 99–145, title VI, §§612(b), 614(a), 617(a), title XIII, §1303(b)(9), Nov. 8, 1985, 99 Stat. 639–641, 741; Pub. L. 99–433, title VI, §602(f)(2), Oct. 1, 1986, 100 Stat. 1070; Pub. L. 99–661, div. A, title VI, §§617(a), 620(a), (b)(1), 652(a), (b), Nov. 14, 1986, 100 Stat. 3880, 3882, 3888; Pub. L. 100–180, div. A, title VI, §616(b), Dec. 4, 1987, 101 Stat. 1096; Pub. L. 100–456, div. A, title VI, §602(a), Sept. 29, 1988, 102 Stat. 1976; Pub. L. 101–189, div. A, title VI, §623(a), (b), Nov. 29, 1989, 103 Stat. 1447; Pub. L. 101–510, div. A, title V, §503(b), title VI, §§621, 622(a), title XIV, §1484(i)(9), Nov. 5, 1990, 104 Stat. 1558, 1580, 1718; Pub. L. 102–25, title VII, §702(b)(1)–(3), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title XI, §1111(d)(4), Dec. 5, 1991, 105 Stat. 1492; Pub. L. 102–241, §12, Dec. 19, 1991, 105 Stat. 2213; Pub. L. 102–484, div. A, title VI, §622(a), title X, §1054(a)(4), Oct. 23, 1992, 106 Stat. 2422, 2502; Pub. L. 103–160, div. A, title V, §561(l)(1), title XI, §1182(d)(1), Nov. 30, 1993, 107 Stat. 1668, 1773; Pub. L. 104–106, div. A, title VI, §§623, 642(a)(1), title XV, §§1502(b), 1505(d), Feb. 10, 1996, 110 Stat. 363, 368, 506, 514; Pub. L. 104–201, div. A, title III, §368(b), title VI, §§621(a), 624, Sept. 23, 1996, 110 Stat. 2498, 2548; Pub. L. 105–85, div. A, title VI, §§603(d)(1)(B), 631, Nov. 18, 1997, 111 Stat. 1782, 1795; Pub. L. 105–261, div. A, title V, §561(f), title VI, §§631(a), (b)(1), 632, 653(b), Oct. 17, 1998, 112 Stat. 2025, 2043, 2044, 2051; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(f), title VI, §§642(a), 643\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134, 1654A–161; Pub. L. 107–107, div. A, title VI, §§633(a), 634(a), Dec. 28, 2001, 115 Stat. 1144; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title V, §571, title VI, §631(b), Nov. 24, 2003, 117 Stat. 1484, 1508; Pub. L. 109–163, div. A, title VI, §§652, 654(a), Jan. 6, 2006, 119 Stat. 3312, 3313; Pub. L. 110–289, div. B, title VI, §2609, July 30, 2008, 122 Stat. 2862; Pub. L. 110–417, \[div. A\], title VI, §§621, 622, Oct. 14, 2008, 122 Stat. 4491, 4492; renumbered §476 and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(6), (f)(4)(A), Dec. 31, 2011, 125 Stat. 1460, 1462, 1465; Pub. L. 112–239, div. A, title VI, §621(b), title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1779, 1948.)
 
 Historical and Revision Notes<br>1962
 
@@ -279,17 +295,13 @@ The text of 31:650a (related to a member of an armed force) is omitted as unnece
 
 The words “to carry out subsection (b) of this section” are substituted for “for providing transportation of household effects of members of the armed forces pursuant to section 406(b) of title 37, United States Code” to eliminate unnecessary words.
 
-#### Codification
-
-Section 631(f)(4)(A) of Pub. L. 112–81, which directed that this title be amended by conforming any references to sections of this title which were transferred and redesignated by “subsection (c)” of section 631, was executed by conforming the references to those sections as transferred and redesignated by subsection (d) of section 631, to reflect the probable intent of Congress.
-
 #### Prior Provisions
 
 Act Aug. 1, 1953, cited as the source of subsec. (j) of this section in the Historical and Revision Notes above, is known as the Department of Defense Appropriation Act, 1954. Similar provisions were contained in the following prior appropriation acts:
 
 July 10, 1952, ch. 630, title VI, §605, 66 Stat. 531.
 
-Oct. 18, 1951, ch. 512, title VI, §605, 65 Stat. 423.
+Oct. 18, 1951, ch. 512, title VI, §605, 65 Stat. 445.
 
 Sept. 6, 1950, ch. 896, ch. X, title VI, §605, 64 Stat. 752.
 
@@ -321,7 +333,11 @@ July 1, 1937, ch. 423, 50 Stat. 448.
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 112–81, §631(f)(4)(A), substituted “474” for “404” wherever appearing and “475” for “405” in the introductory provisions of subsec. (c). See Codification note above.
+<b>2013</b>—Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, §631(f)(4)(A). See 2011 Amendment note below.
+
+Subsecs. (l) to (o). Pub. L. 112–239, §621, added subsec. (l) and redesignated former subsecs. (l) to (n) as (m) to (o), respectively.
+
+<b>2011</b>—Pub. L. 112–81, §631(f)(4)(A), as amended by Pub. L. 112–239, §1076(a)(9), substituted “474” for “404” wherever appearing and “475” for “405” in the introductory provisions of subsec. (c).
 
 Pub. L. 112–81, §631(d)(2), renumbered section 406 of this title as this section.
 
@@ -331,7 +347,7 @@ Subsec. (n). Pub. L. 112–81, §631(e)(6), added subsec. (n).
 
 Subsec. (b)(1)(H). Pub. L. 110–417, §622, added subpar. (H).
 
-Subsecs. (k) to (m). Pub. L. 110–289 added subsec. (k) and redesignated former subsecs. (k) and (<i>l</i>) as (<i>l</i>) and (m), respectively.
+Subsecs. (k) to (m). Pub. L. 110–289 added subsec. (k) and redesignated former subsecs. (k) and (l) as (l) and (m), respectively.
 
 <b>2006</b>—Subsec. (b)(1)(C). Pub. L. 109–163, §654(a), in table, increased the weight allowances for pay grades E–7, E–8, and E–9. Prior to amendment, the weight allowances for members without dependents and for members with dependents, respectively, were 10,500 and 12,500 for pay grade E–7, 11,000 and 13,500 for pay grade E–8, and 12,000 and 14,500 for pay grade E–9.
 
@@ -369,7 +385,7 @@ Subsec. (g)(1)(C). Pub. L. 105–261, §561(f), substituted “during the period
 
 Subsec. (h)(3). Pub. L. 105–261, §653(b), added par. (3).
 
-Subsecs. (j) to (m). Pub. L. 105–261, §631(b)(1), redesignated subsecs. (k) to (m) as (j) to (<i>l</i>), respectively, and struck out former subsec. (j) which authorized the Secretary concerned to pay monetary allowance to member of armed forces or of Commissioned Corps of the Public Health Service who participates in a program in which member's baggage and household effects are transported by privately owned or rental vehicle or in which member provides labor in connection with transportation of baggage and household effects.
+Subsecs. (j) to (m). Pub. L. 105–261, §631(b)(1), redesignated subsecs. (k) to (m) as (j) to (l), respectively, and struck out former subsec. (j) which authorized the Secretary concerned to pay monetary allowance to member of armed forces or of Commissioned Corps of the Public Health Service who participates in a program in which member's baggage and household effects are transported by privately owned or rental vehicle or in which member provides labor in connection with transportation of baggage and household effects.
 
 <b>1997</b>—Subsec. (c). Pub. L. 105–85, §603(d)(1)(B), substituted “sections 403(c), 404, and 405” for “sections 404 and 405” in introductory provisions.
 
@@ -397,13 +413,13 @@ Subsec. (j)(1). Pub. L. 104–201, §624(1), substituted “The Secretary concer
 
 Subsec. (j)(3). Pub. L. 104–201, §624(2), added par. (3).
 
-Subsecs. (k) to (n). Pub. L. 104–106, §642(a)(1), redesignated subsecs. (<i>l</i>) to (n) as (k) to (m), respectively. Former subsec. (k) redesignated (j).
+Subsecs. (k) to (n). Pub. L. 104–106, §642(a)(1), redesignated subsecs. (l) to (n) as (k) to (m), respectively. Former subsec. (k) redesignated (j).
 
-<b>1993</b>—Subsec. (a)(2)(B)(v). Pub. L. 103–160, §561(<i>l</i>)(1), substituted “nine-year period” for “five-year period”.
+<b>1993</b>—Subsec. (a)(2)(B)(v). Pub. L. 103–160, §561(l)(1), substituted “nine-year period” for “five-year period”.
 
 Subsec. (b)(1)(E). Pub. L. 103–160, §1182(d)(1), made technical amendment to directory language of Pub. L. 102–241. See 1991 Amendment note below.
 
-Subsec. (g)(1)(C). Pub. L. 103–160, §561(<i>l</i>)(1), substituted “nine-year period” for “five-year period”.
+Subsec. (g)(1)(C). Pub. L. 103–160, §561(l)(1), substituted “nine-year period” for “five-year period”.
 
 <b>1992</b>—Subsec. (g)(1)(A). Pub. L. 102–484, §1054(a)(4), inserted a semicolon after “title 10”.
 
@@ -479,15 +495,15 @@ Subsec. (i). Pub. L. 99–433 struck out “quarter” after “fiscal year” i
 
 Subsec. (j). Pub. L. 99–661, §617(a)(4), inserted “plus a per diem for the member's dependents,” after “household effects”.
 
-Subsecs. (<i>l</i>), (m). Pub. L. 99–661, §620(b)(1), added subsec. (<i>l</i>) and redesignated former subsec. (<i>l</i>) as (m).
+Subsecs. (l), (m). Pub. L. 99–661, §620(b)(1), added subsec. (l) and redesignated former subsec. (l) as (m).
 
 <b>1985</b>—Subsec. (a)(1). Pub. L. 99–145, §612(b), substituted “, reimbursement therefor, or a monetary allowance in place of the cost of transportation, plus a per diem, for the member's dependents at rates prescribed by the Secretaries concerned” for “for his dependents, to reimbursement therefor, or to a monetary allowance in place of that transportation in kind at a rate to be prescribed”.
 
 Subsec. (k). Pub. L. 99–145, §1303(b)(9), substituted “for providing transportation of household effects of members of the armed forces under subsection (b)” for “to carry out subsection (b)”.
 
-Pub. L. 99–145, §614, which designated existing provisions as par. (1), inserted “or in which a member provides all or a part of the labor in connection with the transportation of the baggage and household effects of the member (including packing, crating, and loading)”, and added par. (2), expired Sept. 30, 1989, pursuant to section 614(b) of Pub. L. 99–145, set out as an Effective and Termination Dates of 1985 Amendment note below. Section 614(b) of Pub. L. 99–145 was repealed and the amendment made by section 614(a) of Pub. L. 99–145 was revived effective Oct. 1, 1989, by Pub. L. 101–510, §621, set out as a Revival of Expired Amendment note below.
+Pub. L. 99–145, §614(a), which designated existing provisions as par. (1), inserted “or in which a member provides all or a part of the labor in connection with the transportation of the baggage and household effects of the member (including packing, crating, and loading)”, and added par. (2), expired Sept. 30, 1989, pursuant to section 614(b) of Pub. L. 99–145, set out as an Effective and Termination Dates of 1985 Amendment note below. Section 614(b) of Pub. L. 99–145 was repealed and the amendment made by section 614(a) of Pub. L. 99–145 was revived effective Oct. 1, 1989, by Pub. L. 101–510, §621, set out as a Revival of Expired Amendment note below.
 
-Subsec. (<i>l</i>). Pub. L. 99–145, §617(a), added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 99–145, §617(a), added subsec. (l).
 
 <b>1983</b>—Subsec. (b)(1). Pub. L. 98–94 designated existing provisions as subpar. (A), struck out provisions relating to a monetary allowance for transportation of a motor vehicle on change of permanent station, and added subpar. (B) relating to a monetary allowance for transportation of a motor vehicle on permanent change of station.
 
@@ -495,7 +511,7 @@ Subsec. (<i>l</i>). Pub. L. 99–145, §617(a), added subsec. (<i>l</i>).
 
 Subsec. (k). Pub. L. 97–295 added subsec. (k).
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–60, §121(b)(1), designated existing provisions as par. (1), inserted “paragraph (2)of this subsection and” before “subsection (i) of this section”, and added pars. (2) and (3).
+<b>1981</b>—Subsec. (a). Pub. L. 97–60, §121(b)(1), designated existing provisions as par. (1), inserted “paragraph (2) of this subsection and” before “subsection (i) of this section”, and added pars. (2) and (3).
 
 Subsec. (a)(1). Pub. L. 97–86, §404(1), struck out “and subsection (i) of this section” after “Except as provided in paragraph (2) of this subsection”.
 
@@ -531,6 +547,10 @@ Pub. L. 89–680, §1(3), inserted, in authorization for transportation for depe
 
 <b>1964</b>—Subsec. (h). Pub. L. 88–431 added subsec. (h).
 
+#### Effective Date of 2013 Amendment
+
+Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
+
 #### Effective Date of 2006 Amendment
 
 Pub. L. 109–163, div. A, title VI, §654(b), Jan. 6, 2006, 119 Stat. 3313, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 2006, and apply with respect to an order in connection with a change of temporary or permanent station issued on or after that date.”
@@ -559,13 +579,13 @@ Amendment by section 603(d)(1)(B) of Pub. L. 105–85 effective Jan. 1, 1998, se
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 368(b) of Pub. L. 104–201 effective Apr. 1, 1997, see section 368(c) of Pub. L. 104–201, setout as a note under section 2634 of Title 10, Armed Forces.
+Amendment by section 368(b) of Pub. L. 104–201 effective Apr. 1, 1997, see section 368(c) of Pub. L. 104–201, set out as a note under section 2634 of Title 10, Armed Forces.
 
-Section 621(b) of Pub. L. 104–201 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 1997.”
+Pub. L. 104–201, div. A, title VI, §621(b), Sept. 23, 1996, 110 Stat. 2548, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 1997.”
 
 #### Effective Date of 1993 Amendment
 
-Section 1182(d)(1) of Pub. L. 103–160 provided in part that the amendment made by that section is effective as of Dec. 19, 1991.
+Pub. L. 103–160, div. A, title XI, §1182(d)(1), Nov. 30, 1993, 107 Stat. 1773, provided in part that the amendment made by that section is effective as of Dec. 19, 1991.
 
 #### Effective Date of 1991 Amendment
 
@@ -573,29 +593,27 @@ Amendment by Pub. L. 102–190 effective Feb. 1, 1992, see section 1132 of Pub. 
 
 #### Effective Date of 1990 Amendment
 
-Section 622(b) of Pub. L. 101–510 provided that: “The amendment made by subsection (a) \[amending this section\] shall be applicable to baggage and household effects transported on or after the date of the enactment of this Act \[Nov. 5, 1990\].”
+Pub. L. 101–510, div. A, title VI, §622(b), Nov. 5, 1990, 104 Stat. 1580, provided that: “The amendment made by subsection (a) \[amending this section\] shall be applicable to baggage and household effects transported on or after the date of the enactment of this Act \[Nov. 5, 1990\].”
 
 #### Effective Date of 1989 Amendment
 
-Section 623(c) of Pub. L. 101–189 provided that: “The authority provided in subparagraph (D) \[37 U.S.C. 476(b)(1)(D)\], as added by subsection (a), shall apply with respect to the transportation of baggage and household effects occurring after June 30, 1989.”
+Pub. L. 101–189, div. A, title VI, §623(c), Nov. 29, 1989, 103 Stat. 1447, provided that: “The authority provided in subparagraph (D) \[37 U.S.C. 476(b)(1)(D)\], as added by subsection (a), shall apply with respect to the transportation of baggage and household effects occurring after June 30, 1989.”
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–456, div. A, title VI, §602(b), Sept. 29, 1988, 102 Stat. 1977, as amended by Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465, provided that: “The weight allowances in section 476(b)(1)(C) of title 37, United States Code (as added by subsection (a)), shall apply with respect to transportation of baggage and household effects occurring after June 30, 1989.”
-
-\[Amendment by Pub. L. 112–81 to section 602(b) of Pub. L. 100–456, set out above, was executed to reflect the probable intent of Congress, notwithstanding an error in the directory language.\]
+Pub. L. 100–456, div. A, title VI, §602(b), Sept. 29, 1988, 102 Stat. 1977, as amended by Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that: “The weight allowances in section 476(b)(1)(C) of title 37, United States Code (as added by subsection (a)), shall apply with respect to transportation of baggage and household effects occurring after June 30, 1989.”
 
 #### Effective Date of 1986 Amendment
 
-Section 617(b) of Pub. L. 99–661 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to travel performed after the date of the enactment of this Act \[Nov. 14, 1986\].”
+Pub. L. 99–661, div. A, title VI, §617(b), Nov. 14, 1986, 100 Stat. 3880, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to travel performed after the date of the enactment of this Act \[Nov. 14, 1986\].”
 
-Section 620(c) of Pub. L. 99–661 provided that:
+Pub. L. 99–661, div. A, title VI, §620(c), Nov. 14, 1986, 100 Stat. 3883, provided that:
 
 “(1) The amendment made by subsection (a) \[amending this section\] shall apply to members whose baggage and household goods enter nontemporary storage on or after the date of the enactment of this Act \[Nov. 14, 1986\].
 
 “(2) The amendments made by subsection (b) \[amending this section and section 2634 of Title 10, Armed Forces\] shall apply only with respect to members whose dependents are unable to accompany them to an overseas permanent duty station because of circumstances arising on or after the date of the enactment of this Act \[Nov. 14, 1986\].”
 
-Pub. L. 99–661, div. A, title VI, §652(e)(1), (2), Nov. 14, 1986, 100 Stat. 3890, as amended by Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465, provided that:
+Pub. L. 99–661, div. A, title VI, §652(e)(1), (2), Nov. 14, 1986, 100 Stat. 3890, as amended by Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that:
 
 “(1) The amendment made by subsection (a) \[amending this section\] shall apply only with respect to members discharged or released from active duty on or after the date of the enactment of this Act \[Nov. 14, 1986\].
 
@@ -603,15 +621,13 @@ Pub. L. 99–661, div. A, title VI, §652(e)(1), (2), Nov. 14, 1986, 100 Stat. 3
 
 “(B) In the case of a member described in section 476(h)(2)(c) \[probably should be “476(h)(2)(C)”\] of such title 37 (as added by subsection (b)), the benefits provided for the dependents of the member shall accrue on the date that the sentence is approved under section 860 of title 10, United States Code.”
 
-\[Amendment by Pub. L. 112–81 to section 652(e)(2)(B) of Pub. L. 99–661, set out above, was executed to reflect the probable intent of Congress, notwithstanding an error in the directory language.\]
-
 #### Effective and Termination Dates of 1985 Amendment
 
 Amendment by section 612(b) of Pub. L. 99–145 applicable to travel performed after Sept. 30, 1985, see section 612(c) of Pub. L. 99–145, set out as an Effective Date of 1985 Amendment note under section 474 of this title.
 
-Section 614(b) of Pub. L. 99–145, which provided that the amendments by section 614(a) of Pub. L. 99–145, amending this section, were to expire Sept. 30, 1989, was repealed by Pub. L. 101–510, div. A, title VI, §621, Nov. 5, 1990, 104 Stat. 1580. See Revival of Expired Amendment note below.
+Pub. L. 99–145, title VI, §614(b), Nov. 8, 1985, 99 Stat. 640, which provided that the amendments by section 614(a) of Pub. L. 99–145, amending this section, were to expire Sept. 30, 1989, was repealed by Pub. L. 101–510, div. A, title VI, §621, Nov. 5, 1990, 104 Stat. 1580. See Revival of Expired Amendment note below.
 
-Section 617(b) of Pub. L. 99–145 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to orders to change a permanent station that are effective after September 30, 1985.”
+Pub. L. 99–145, title VI, §617(b), Nov. 8, 1985, 99 Stat. 642, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to orders to change a permanent station that are effective after September 30, 1985.”
 
 #### Effective Date of 1981 Amendment
 
@@ -635,7 +651,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Storage of Household Effects
 
-Pub. L. 101–510, div. A, title V, §503(c), Nov. 5, 1990, 104 Stat. 1558, as amended by Pub. L. 103–160, div. A, titleV, §561(<i>l</i>)(2), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 105–261, div. A, title V, §561(f), Oct. 17, 1998, 112 Stat. 2025; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(f)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134; Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465, provided that:
+Pub. L. 101–510, div. A, title V, §503(c), Nov. 5, 1990, 104 Stat. 1558, as amended by Pub. L. 103–160, div. A, title V, §561(l)(2), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 105–261, div. A, title V, §561(f), Oct. 17, 1998, 112 Stat. 2025; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(f)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134; Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that:
 
 “(1) The Secretary of a military department shall exercise the authority provided by section 476 of title 37, United States Code, to provide nontemporary storage of baggage and household effects for a period not longer than one year in the case of individuals who are involuntarily separated during the period beginning on October 1, 1990, and ending on December 31, 2001.
 
@@ -643,7 +659,7 @@ Pub. L. 101–510, div. A, title V, §503(c), Nov. 5, 1990, 104 Stat. 1558, as a
 
 #### Revival of Expired Amendment
 
-Section 621 of Pub. L. 101–510 provided that: “Subsection (b) of section 614 of the Department of Defense Authorization Act, 1986 \[Pub. L. 99–145, set out as an Effective and Termination Dates of 1985 Amendment note above\] (37 U.S.C. note) is repealed. The amendments made by subsection (a) of that section \[amending this section\] are hereby revived effective as of October 1, 1989.”
+Pub. L. 101–510, div. A, title VI, §621, Nov. 5, 1990, 104 Stat. 1580, provided that: “Subsection (b) of section 614 of the Department of Defense Authorization Act, 1986 \[Pub. L. 99–145, set out as an Effective and Termination Dates of 1985 Amendment note above\] (37 U.S.C. note) is repealed. The amendments made by subsection (a) of that section \[amending this section\] are hereby revived effective as of October 1, 1989.”
 
 #### Prohibition on Retroactive Payments Under 1985 Amendment
 

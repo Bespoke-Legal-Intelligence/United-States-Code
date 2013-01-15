@@ -1,14 +1,14 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title43",
- "package": "USCODE-2011-title43",
+ "package": "USCODE-2012-title43",
  "pieces": [
   {
    "id": "43_",
    "marks": [
     [
      "L",
-     3,
+     1,
      "[Page 1]",
      true
     ]
@@ -1920,7 +1920,7 @@
   {
    "id": "43_270-11",
    "marks": [],
-   "path": "Chapter 007 - Homesteads/Subchapter 008 (VIII) - Alaska Homesteads/§ 00270–11 - Repealed. Pub. L. 94–579, title VII, §703(a), Oct. 21, 1976, 90 Stat. 2787.md",
+   "path": "Chapter 007 - Homesteads/Subchapter 008 (VIII) - Alaska Homesteads/§ 00270–11 - Repealed. Pub. L. 94–579, title VII, §703(a), Oct. 21, 1976, 90 Stat. 2789.md",
    "printed_pages": [
     41,
     41
@@ -2094,10 +2094,10 @@
    "marks": [
     [
      "I",
-     26,
+     25,
      [
       [
-       85,
+       26,
        "[Page 48]"
       ]
      ]
@@ -2135,7 +2135,7 @@
      2,
      [
       [
-       134,
+       91,
        "[Page 49]"
       ]
      ]
@@ -8391,7 +8391,7 @@
      4,
      [
       [
-       907,
+       900,
        "[Page 187]"
       ]
      ]
@@ -9106,7 +9106,7 @@
      2,
      [
       [
-       184,
+       137,
        "[Page 211]"
       ]
      ]
@@ -9140,10 +9140,14 @@
    "id": "43_620h",
    "marks": [
     [
-     "L",
-     4,
-     "[Page 212]",
-     true
+     "I",
+     2,
+     [
+      [
+       333,
+       "[Page 212]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 012B - Colorado River Storage Project/§ 00620h - Saving provisions.md",
@@ -9174,14 +9178,10 @@
    "id": "43_620k",
    "marks": [
     [
-     "I",
-     22,
-     [
-      [
-       212,
-       "[Page 213]"
-      ]
-     ]
+     "L",
+     20,
+     "[Page 213]",
+     true
     ]
    ],
    "path": "Chapter 012B - Colorado River Storage Project/§ 00620k - Authorization of appropriations.md",
@@ -9225,7 +9225,7 @@
      26,
      [
       [
-       326,
+       98,
        "[Page 214]"
       ]
      ]
@@ -9263,7 +9263,7 @@
      2,
      [
       [
-       965,
+       716,
        "[Page 215]"
       ]
      ]
@@ -9295,30 +9295,26 @@
   },
   {
    "id": "43_624",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     14,
+     "[Page 216]",
+     true
+    ]
+   ],
    "path": "Chapter 013 - Federal Lands Included in State Irrigation Districts/§ 00624 - Entry of approval on land records.md",
    "printed_pages": [
     215,
-    215
+    216
    ]
   },
   {
    "id": "43_625",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       91,
-       "[Page 216]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 013 - Federal Lands Included in State Irrigation Districts/§ 00625 - Release of unentered land from lien on noncompletion of irrigation project.md",
    "printed_pages": [
-    215,
+    216,
     216
    ]
   },
@@ -9348,7 +9344,7 @@
      6,
      [
       [
-       901,
+       659,
        "[Page 217]"
       ]
      ]
@@ -9395,7 +9391,7 @@
      2,
      [
       [
-       1093,
+       850,
        "[Page 218]"
       ]
      ]
@@ -9442,7 +9438,7 @@
      2,
      [
       [
-       241,
+       91,
        "[Page 219]"
       ]
      ]
@@ -9507,7 +9503,7 @@
      2,
      [
       [
-       873,
+       732,
        "[Page 220]"
       ]
      ]
@@ -9550,10 +9546,14 @@
    "id": "43_662",
    "marks": [
     [
-     "L",
-     22,
-     "[Page 221]",
-     true
+     "I",
+     20,
+     [
+      [
+       107,
+       "[Page 221]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 015 - Appropriation of Waters; Reservoir Sites/§ 00662 - Reservation of reservoir sites generally.md",
@@ -9600,26 +9600,30 @@
   },
   {
    "id": "43_-ch16",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     7,
+     [
+      [
+       23,
+       "[Page 222]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 016 - Sale and Disposal of Public Lands/README.md",
    "printed_pages": [
     221,
-    221
+    222
    ]
   },
   {
    "id": "43_671",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 222]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 016 - Sale and Disposal of Public Lands/§ 00671 - Repealed. Pub. L. 94–579, title VII, §703(a), Oct. 21, 1976, 90 Stat. 2789.md",
    "printed_pages": [
-    221,
+    222,
     222
    ]
   },
@@ -9682,10 +9686,10 @@
    "marks": [
     [
      "I",
-     16,
+     12,
      [
       [
-       110,
+       116,
        "[Page 223]"
       ]
      ]
@@ -9741,7 +9745,7 @@
      2,
      [
       [
-       337,
+       193,
        "[Page 224]"
       ]
      ]
@@ -9794,7 +9798,7 @@
    "marks": [
     [
      "L",
-     20,
+     18,
      "[Page 225]",
      true
     ]
@@ -9846,10 +9850,10 @@
    "marks": [
     [
      "I",
-     10,
+     8,
      [
       [
-       72,
+       62,
        "[Page 226]"
       ]
      ]
@@ -9869,7 +9873,7 @@
      42,
      [
       [
-       200,
+       98,
        "[Page 227]"
       ]
      ]
@@ -9907,7 +9911,7 @@
      6,
      [
       [
-       553,
+       457,
        "[Page 228]"
       ]
      ]
@@ -9963,7 +9967,7 @@
      2,
      [
       [
-       377,
+       234,
        "[Page 229]"
       ]
      ]
@@ -9995,30 +9999,26 @@
   },
   {
    "id": "43_762",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 230]",
+     true
+    ]
+   ],
    "path": "Chapter 018 - Survey of Public Lands/§ 00762 - Deposits made by settlers for surveys to go in part payment of lands.md",
    "printed_pages": [
     229,
-    229
+    230
    ]
   },
   {
    "id": "43_763",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       87,
-       "[Page 230]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 018 - Survey of Public Lands/§ 00763 - Deposits in Louisiana applicable to resurveys.md",
    "printed_pages": [
-    229,
+    230,
     230
    ]
   },
@@ -10093,7 +10093,7 @@
      2,
      [
       [
-       461,
+       272,
        "[Page 231]"
       ]
      ]
@@ -10136,10 +10136,14 @@
    "id": "43_781",
    "marks": [
     [
-     "L",
-     4,
-     "[Page 232]",
-     true
+     "I",
+     2,
+     [
+      [
+       117,
+       "[Page 232]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 019 - Bounty Lands/§ 00781 - Repealed. June 29, 1936, ch. 867, title III, §303, 49 Stat. 2033.md",
@@ -10213,30 +10217,26 @@
   },
   {
    "id": "43_841",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     8,
+     "[Page 233]",
+     true
+    ]
+   ],
    "path": "Chapter 019 - Bounty Lands/§ 00841 - Repealed. June 25, 1948, ch. 645, §21, 62 Stat. 862.md",
    "printed_pages": [
     232,
-    232
+    233
    ]
   },
   {
    "id": "43_842_to_844",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       119,
-       "[Page 233]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 019 - Bounty Lands/§ 00842 to 844 - Repealed. June 17, 1957, Pub. L. 85–56, title XXII, §2202(1), 71 Stat. 162.md",
    "printed_pages": [
-    232,
+    233,
     233
    ]
   },
@@ -10253,14 +10253,10 @@
    "id": "43_851",
    "marks": [
     [
-     "I",
-     12,
-     [
-      [
-       112,
-       "[Page 234]"
-      ]
-     ]
+     "L",
+     10,
+     "[Page 234]",
+     true
     ]
    ],
    "path": "Chapter 020 - Reservations and Grants to States for Public Purposes/§ 00851 - Deficiencies in grants to State by reason of settlements, etc., on designated sections generally.md",
@@ -10277,7 +10273,7 @@
      22,
      [
       [
-       799,
+       752,
        "[Page 235]"
       ]
      ]
@@ -10525,7 +10521,7 @@
      2,
      [
       [
-       1186,
+       1139,
        "[Page 242]"
       ]
      ]
@@ -10594,7 +10590,7 @@
      12,
      [
       [
-       272,
+       178,
        "[Page 245]"
       ]
      ]
@@ -10632,7 +10628,7 @@
      8,
      [
       [
-       329,
+       215,
        "[Page 246]"
       ]
      ]
@@ -10688,7 +10684,7 @@
      2,
      [
       [
-       143,
+       95,
        "[Page 247]"
       ]
      ]
@@ -10735,7 +10731,7 @@
      4,
      [
       [
-       130,
+       86,
        "[Page 248]"
       ]
      ]
@@ -10778,10 +10774,14 @@
    "id": "43_891",
    "marks": [
     [
-     "L",
-     4,
-     "[Page 249]",
-     true
+     "I",
+     2,
+     [
+      [
+       454,
+       "[Page 249]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 021 - Grants in Aid of Railroads and Wagon Roads/§ 00891 - Abandoned railroad lands; reentry.md",
@@ -10843,7 +10843,7 @@
      2,
      [
       [
-       477,
+       281,
        "[Page 250]"
       ]
      ]
@@ -10890,7 +10890,7 @@
      2,
      [
       [
-       1188,
+       997,
        "[Page 251]"
       ]
      ]
@@ -10946,7 +10946,7 @@
      2,
      [
       [
-       899,
+       708,
        "[Page 252]"
       ]
      ]
@@ -10971,10 +10971,14 @@
    "id": "43_908",
    "marks": [
     [
-     "L",
-     10,
-     "[Page 253]",
-     true
+     "I",
+     8,
+     [
+      [
+       108,
+       "[Page 253]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 021 - Grants in Aid of Railroads and Wagon Roads/§ 00908 - Deposits by railroad companies for costs of surveying and conveying unsurveyed lands granted.md",
@@ -13040,10 +13044,14 @@
    "id": "43_1303",
    "marks": [
     [
-     "L",
-     18,
-     "[Page 296]",
-     true
+     "I",
+     16,
+     [
+      [
+       391,
+       "[Page 296]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 029 - Submerged Lands/Subchapter 001 (I) - General Provisions/§ 01303 - Amendment, modification, or repeal of other laws.md",
@@ -13066,7 +13074,7 @@
    "marks": [
     [
      "L",
-     28,
+     24,
      "[Page 297]",
      true
     ]
@@ -13127,10 +13135,10 @@
    "marks": [
     [
      "I",
-     8,
+     6,
      [
       [
-       90,
+       229,
        "[Page 298]"
       ]
      ]
@@ -13140,46 +13148,38 @@
      52,
      [
       [
-       618,
+       324,
        "[Page 299]"
       ]
      ]
     ],
     [
-     "I",
-     130,
-     [
-      [
-       105,
-       "[Page 300]"
-      ]
-     ]
+     "L",
+     118,
+     "[Page 300]",
+     true
     ],
     [
      "I",
-     272,
+     264,
      [
       [
-       151,
+       98,
        "[Page 301]"
       ]
      ]
     ],
     [
      "L",
-     400,
+     388,
      "[Page 302]",
      true
     ],
     [
-     "I",
-     490,
-     [
-      [
-       113,
-       "[Page 303]"
-      ]
-     ]
+     "L",
+     484,
+     "[Page 303]",
+     true
     ]
    ],
    "path": "Chapter 029 - Submerged Lands/Subchapter 003 (III) - Outer Continental Shelf Lands/§ 01331 - Definitions.md",
@@ -13202,23 +13202,19 @@
    "marks": [
     [
      "I",
-     8,
+     6,
      [
       [
-       147,
+       283,
        "[Page 304]"
       ]
      ]
     ],
     [
-     "I",
-     56,
-     [
-      [
-       493,
-       "[Page 305]"
-      ]
-     ]
+     "L",
+     52,
+     "[Page 305]",
+     true
     ]
    ],
    "path": "Chapter 029 - Submerged Lands/Subchapter 003 (III) - Outer Continental Shelf Lands/§ 01333 - Laws and regulations governing lands.md",
@@ -13232,33 +13228,29 @@
    "marks": [
     [
      "I",
-     18,
+     12,
      [
       [
-       229,
+       99,
        "[Page 306]"
       ]
      ]
     ],
     [
      "I",
-     56,
+     52,
      [
       [
-       457,
+       191,
        "[Page 307]"
       ]
      ]
     ],
     [
-     "I",
-     108,
-     [
-      [
-       272,
-       "[Page 308]"
-      ]
-     ]
+     "L",
+     104,
+     "[Page 308]",
+     true
     ]
    ],
    "path": "Chapter 029 - Submerged Lands/Subchapter 003 (III) - Outer Continental Shelf Lands/§ 01334 - Administration of leasing.md",
@@ -13271,12 +13263,18 @@
    "id": "43_1335",
    "marks": [
     [
+     "L",
+     20,
+     "[Page 309]",
+     true
+    ],
+    [
      "I",
-     22,
+     52,
      [
       [
-       365,
-       "[Page 309]"
+       208,
+       "[Page 310]"
       ]
      ]
     ]
@@ -13284,26 +13282,15 @@
    "path": "Chapter 029 - Submerged Lands/Subchapter 003 (III) - Outer Continental Shelf Lands/§ 01335 - Validation and maintenance of prior leases.md",
    "printed_pages": [
     308,
-    309
+    310
    ]
   },
   {
    "id": "43_1336",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       88,
-       "[Page 310]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 029 - Submerged Lands/Subchapter 003 (III) - Outer Continental Shelf Lands/§ 01336 - Controversies over jurisdiction; agreements; payments; final settlement or adjudication; approval of notice concerning oil and gas….md",
    "printed_pages": [
-    309,
+    310,
     310
    ]
   },
@@ -13312,84 +13299,96 @@
    "marks": [
     [
      "I",
-     24,
+     20,
      [
       [
-       141,
+       90,
        "[Page 311]"
       ]
      ]
     ],
     [
-     "I",
-     52,
-     [
-      [
-       379,
-       "[Page 312]"
-      ]
-     ]
-    ],
-    [
      "L",
-     84,
-     "[Page 313]",
+     50,
+     "[Page 312]",
      true
     ],
     [
      "I",
-     130,
+     80,
      [
       [
-       88,
+       95,
+       "[Page 313]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     124,
+     [
+      [
+       92,
        "[Page 314]"
       ]
      ]
     ],
     [
-     "L",
-     170,
-     "[Page 315]",
-     true
-    ],
-    [
-     "L",
-     202,
-     "[Page 316]",
-     true
+     "I",
+     168,
+     [
+      [
+       711,
+       "[Page 315]"
+      ]
+     ]
     ],
     [
      "I",
-     256,
+     196,
      [
       [
-       234,
+       562,
+       "[Page 316]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     250,
+     [
+      [
+       141,
        "[Page 317]"
       ]
      ]
     ],
     [
      "I",
-     338,
+     328,
      [
       [
-       164,
+       113,
        "[Page 318]"
       ]
      ]
     ],
     [
-     "L",
-     390,
-     "[Page 319]",
-     true
+     "I",
+     380,
+     [
+      [
+       288,
+       "[Page 319]"
+      ]
+     ]
     ],
     [
      "I",
-     474,
+     456,
      [
       [
-       105,
+       216,
        "[Page 320]"
       ]
      ]
@@ -13412,26 +13411,26 @@
   },
   {
    "id": "43_1338a",
-   "marks": [],
-   "path": "Chapter 029 - Submerged Lands/Subchapter 003 (III) - Outer Continental Shelf Lands/§ 01338a - Moneys received as a result of forfeiture by Outer Continental Shelf permittee, lessee, or right-of-way holder; return of excess amounts.md",
-   "printed_pages": [
-    320,
-    320
-   ]
-  },
-  {
-   "id": "43_1339",
    "marks": [
     [
      "L",
-     8,
+     14,
      "[Page 321]",
      true
     ]
    ],
-   "path": "Chapter 029 - Submerged Lands/Subchapter 003 (III) - Outer Continental Shelf Lands/§ 01339 - Repealed. Pub. L. 104–185, §8(b), Aug. 13, 1996, 110 Stat. 1717.md",
+   "path": "Chapter 029 - Submerged Lands/Subchapter 003 (III) - Outer Continental Shelf Lands/§ 01338a - Moneys received as a result of forfeiture by Outer Continental Shelf permittee, lessee, or right-of-way holder; return of excess amounts.md",
    "printed_pages": [
     320,
+    321
+   ]
+  },
+  {
+   "id": "43_1339",
+   "marks": [],
+   "path": "Chapter 029 - Submerged Lands/Subchapter 003 (III) - Outer Continental Shelf Lands/§ 01339 - Repealed. Pub. L. 104–185, §8(b), Aug. 13, 1996, 110 Stat. 1717.md",
+   "printed_pages": [
+    321,
     321
    ]
   },
@@ -13440,10 +13439,10 @@
    "marks": [
     [
      "I",
-     50,
+     32,
      [
       [
-       93,
+       92,
        "[Page 322]"
       ]
      ]
@@ -13460,10 +13459,10 @@
    "marks": [
     [
      "I",
-     30,
+     16,
      [
       [
-       284,
+       658,
        "[Page 323]"
       ]
      ]
@@ -13498,23 +13497,19 @@
    "marks": [
     [
      "I",
-     44,
+     26,
      [
       [
-       314,
+       231,
        "[Page 324]"
       ]
      ]
     ],
     [
-     "I",
-     84,
-     [
-      [
-       192,
-       "[Page 325]"
-      ]
-     ]
+     "L",
+     74,
+     "[Page 325]",
+     true
     ]
    ],
    "path": "Chapter 029 - Submerged Lands/Subchapter 003 (III) - Outer Continental Shelf Lands/§ 01344 - Outer Continental Shelf leasing program.md",
@@ -13525,11 +13520,18 @@
   },
   {
    "id": "43_1345",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     22,
+     "[Page 326]",
+     true
+    ]
+   ],
    "path": "Chapter 029 - Submerged Lands/Subchapter 003 (III) - Outer Continental Shelf Lands/§ 01345 - Coordination and consultation with affected State and local governments.md",
    "printed_pages": [
     325,
-    325
+    326
    ]
   },
   {
@@ -13537,38 +13539,27 @@
    "marks": [
     [
      "I",
-     8,
+     42,
      [
       [
-       144,
-       "[Page 326]"
+       108,
+       "[Page 327]"
       ]
      ]
     ]
    ],
    "path": "Chapter 029 - Submerged Lands/Subchapter 003 (III) - Outer Continental Shelf Lands/§ 01346 - Environmental studies.md",
    "printed_pages": [
-    325,
-    326
+    326,
+    327
    ]
   },
   {
    "id": "43_1347",
-   "marks": [
-    [
-     "I",
-     8,
-     [
-      [
-       482,
-       "[Page 327]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 029 - Submerged Lands/Subchapter 003 (III) - Outer Continental Shelf Lands/§ 01347 - Safety and health regulations.md",
    "printed_pages": [
-    326,
+    327,
     327
    ]
   },
@@ -13577,10 +13568,10 @@
    "marks": [
     [
      "I",
-     26,
+     10,
      [
       [
-       233,
+       230,
        "[Page 328]"
       ]
      ]
@@ -13597,11 +13588,21 @@
    "marks": [
     [
      "I",
-     16,
+     4,
      [
       [
-       432,
+       458,
        "[Page 329]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     40,
+     [
+      [
+       184,
+       "[Page 330]"
       ]
      ]
     ]
@@ -13609,23 +13610,27 @@
    "path": "Chapter 029 - Submerged Lands/Subchapter 003 (III) - Outer Continental Shelf Lands/§ 01349 - Citizens suits, jurisdiction and judicial review.md",
    "printed_pages": [
     328,
-    329
+    330
    ]
   },
   {
    "id": "43_1350",
    "marks": [
     [
-     "L",
-     6,
-     "[Page 330]",
-     true
+     "I",
+     36,
+     [
+      [
+       214,
+       "[Page 331]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 029 - Submerged Lands/Subchapter 003 (III) - Outer Continental Shelf Lands/§ 01350 - Remedies and penalties.md",
    "printed_pages": [
-    329,
-    330
+    330,
+    331
    ]
   },
   {
@@ -13633,38 +13638,24 @@
    "marks": [
     [
      "I",
-     8,
+     46,
      [
       [
-       187,
-       "[Page 331]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     50,
-     [
-      [
-       1438,
+       319,
        "[Page 332]"
       ]
      ]
     ],
     [
-     "I",
-     90,
-     [
-      [
-       312,
-       "[Page 333]"
-      ]
-     ]
+     "L",
+     80,
+     "[Page 333]",
+     true
     ]
    ],
    "path": "Chapter 029 - Submerged Lands/Subchapter 003 (III) - Outer Continental Shelf Lands/§ 01351 - Oil and gas development and production.md",
    "printed_pages": [
-    330,
+    331,
     333
    ]
   },
@@ -13673,20 +13664,20 @@
    "marks": [
     [
      "I",
-     26,
+     14,
      [
       [
-       467,
+       143,
        "[Page 334]"
       ]
      ]
     ],
     [
      "I",
-     66,
+     50,
      [
       [
-       325,
+       415,
        "[Page 335]"
       ]
      ]
@@ -13702,10 +13693,14 @@
    "id": "43_1353",
    "marks": [
     [
-     "L",
-     36,
-     "[Page 336]",
-     true
+     "I",
+     20,
+     [
+      [
+       394,
+       "[Page 336]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 029 - Submerged Lands/Subchapter 003 (III) - Outer Continental Shelf Lands/§ 01353 - Federal purchase and disposition of oil and gas.md",
@@ -13716,77 +13711,74 @@
   },
   {
    "id": "43_1354",
-   "marks": [],
-   "path": "Chapter 029 - Submerged Lands/Subchapter 003 (III) - Outer Continental Shelf Lands/§ 01354 - Limitations on export of oil or gas.md",
-   "printed_pages": [
-    336,
-    336
-   ]
-  },
-  {
-   "id": "43_1355",
    "marks": [
     [
-     "I",
-     12,
-     [
-      [
-       452,
-       "[Page 337]"
-      ]
-     ]
+     "L",
+     20,
+     "[Page 337]",
+     true
     ]
    ],
-   "path": "Chapter 029 - Submerged Lands/Subchapter 003 (III) - Outer Continental Shelf Lands/§ 01355 - Restrictions on employment of former officers or employees of Department of the Interior.md",
+   "path": "Chapter 029 - Submerged Lands/Subchapter 003 (III) - Outer Continental Shelf Lands/§ 01354 - Limitations on export of oil or gas.md",
    "printed_pages": [
     336,
     337
    ]
   },
   {
-   "id": "43_1356",
+   "id": "43_1355",
    "marks": [],
-   "path": "Chapter 029 - Submerged Lands/Subchapter 003 (III) - Outer Continental Shelf Lands/§ 01356 - Documentary, registry and manning requirements.md",
+   "path": "Chapter 029 - Submerged Lands/Subchapter 003 (III) - Outer Continental Shelf Lands/§ 01355 - Restrictions on employment of former officers or employees of Department of the Interior.md",
    "printed_pages": [
     337,
     337
    ]
   },
   {
-   "id": "43_1356a",
+   "id": "43_1356",
    "marks": [
     [
      "I",
-     16,
+     28,
      [
       [
-       90,
+       98,
        "[Page 338]"
       ]
      ]
-    ],
-    [
-     "I",
-     104,
-     [
-      [
-       91,
-       "[Page 339]"
-      ]
-     ]
-    ],
+    ]
+   ],
+   "path": "Chapter 029 - Submerged Lands/Subchapter 003 (III) - Outer Continental Shelf Lands/§ 01356 - Documentary, registry and manning requirements.md",
+   "printed_pages": [
+    337,
+    338
+   ]
+  },
+  {
+   "id": "43_1356a",
+   "marks": [
     [
      "L",
-     192,
-     "[Page 340]",
+     80,
+     "[Page 339]",
      true
     ],
     [
      "I",
-     268,
+     162,
      [
       [
-       102,
+       137,
+       "[Page 340]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     258,
+     [
+      [
+       92,
        "[Page 341]"
       ]
      ]
@@ -13794,7 +13786,7 @@
    ],
    "path": "Chapter 029 - Submerged Lands/Subchapter 003 (III) - Outer Continental Shelf Lands/§ 01356a - Coastal impact assistance program.md",
    "printed_pages": [
-    337,
+    338,
     341
    ]
   },
@@ -13818,11 +13810,18 @@
   },
   {
    "id": "43_1361_to_1364",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     20,
+     "[Page 342]",
+     true
+    ]
+   ],
    "path": "Chapter 030 - Administration of Public Lands/Subchapter 001 (I) - General Provisions/§ 01361 to 1364 - Repealed. Pub. L. 94–579, title VII, §705(a), Oct. 21, 1976, 90 Stat. 2792.md",
    "printed_pages": [
     341,
-    341
+    342
    ]
   },
   {
@@ -13830,27 +13829,16 @@
    "marks": [],
    "path": "Chapter 030 - Administration of Public Lands/Subchapter 002 (II) - Service Charges and Excess Payments/README.md",
    "printed_pages": [
-    341,
-    341
+    342,
+    342
    ]
   },
   {
    "id": "43_1371,_1372",
-   "marks": [
-    [
-     "I",
-     30,
-     [
-      [
-       110,
-       "[Page 342]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 030 - Administration of Public Lands/Subchapter 002 (II) - Service Charges and Excess Payments/§ 01371, 1372 - Repealed. Pub. L. 94–579, title VII, §705(a), Oct. 21, 1976, 90 Stat. 2792.md",
    "printed_pages": [
-    341,
+    342,
     342
    ]
   },
@@ -13910,11 +13898,18 @@
   },
   {
    "id": "43_1411_to_1418",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     12,
+     "[Page 343]",
+     true
+    ]
+   ],
    "path": "Chapter 030 - Administration of Public Lands/Subchapter 005 (V) - Classification of Lands to Provide for Disposal or Interim Management/§ 01411 to 1418 - Omitted.md",
    "printed_pages": [
     342,
-    342
+    343
    ]
   },
   {
@@ -13922,27 +13917,16 @@
    "marks": [],
    "path": "Chapter 030 - Administration of Public Lands/Subchapter 006 (VI) - Sale of Public Land/README.md",
    "printed_pages": [
-    342,
-    342
+    343,
+    343
    ]
   },
   {
    "id": "43_1421_to_1427",
-   "marks": [
-    [
-     "I",
-     18,
-     [
-      [
-       223,
-       "[Page 343]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 030 - Administration of Public Lands/Subchapter 006 (VI) - Sale of Public Land/§ 01421 to 1427 - Omitted.md",
    "printed_pages": [
-    342,
+    343,
     343
    ]
   },
@@ -13984,69 +13968,66 @@
   },
   {
    "id": "43_1442",
-   "marks": [],
-   "path": "Chapter 030 - Administration of Public Lands/Subchapter 008 (VIII) - Public Airports/§ 01442 - Terms of lease; public lands for public airports.md",
-   "printed_pages": [
-    343,
-    343
-   ]
-  },
-  {
-   "id": "43_1443",
    "marks": [
     [
      "I",
-     2,
+     14,
      [
       [
-       95,
+       155,
        "[Page 344]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 030 - Administration of Public Lands/Subchapter 008 (VIII) - Public Airports/§ 01443 - Cancellation of leases of public lands used as airports made under law in force May 24, 1928.md",
+   "path": "Chapter 030 - Administration of Public Lands/Subchapter 008 (VIII) - Public Airports/§ 01442 - Terms of lease; public lands for public airports.md",
    "printed_pages": [
     343,
     344
    ]
   },
   {
-   "id": "43_-ch31",
+   "id": "43_1443",
    "marks": [],
-   "path": "Chapter 031 - Department of the Interior/README.md",
+   "path": "Chapter 030 - Administration of Public Lands/Subchapter 008 (VIII) - Public Airports/§ 01443 - Cancellation of leases of public lands used as airports made under law in force May 24, 1928.md",
    "printed_pages": [
     344,
     344
+   ]
+  },
+  {
+   "id": "43_-ch31",
+   "marks": [
+    [
+     "I",
+     49,
+     [
+      [
+       96,
+       "[Page 345]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 031 - Department of the Interior/README.md",
+   "printed_pages": [
+    344,
+    345
    ]
   },
   {
    "id": "43_1451",
    "marks": [
     [
-     "I",
-     18,
-     [
-      [
-       217,
-       "[Page 345]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     90,
-     [
-      [
-       105,
-       "[Page 346]"
-      ]
-     ]
+     "L",
+     68,
+     "[Page 346]",
+     true
     ]
    ],
    "path": "Chapter 031 - Department of the Interior/§ 01451 - Establishment.md",
    "printed_pages": [
-    344,
+    345,
     346
    ]
   },
@@ -14061,30 +14042,30 @@
   },
   {
    "id": "43_1453",
-   "marks": [],
-   "path": "Chapter 031 - Department of the Interior/§ 01453 - Assistant Secretaries of the Interior.md",
-   "printed_pages": [
-    346,
-    346
-   ]
-  },
-  {
-   "id": "43_1453a",
    "marks": [
     [
      "I",
-     2,
+     16,
      [
       [
-       92,
+       108,
        "[Page 347]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 031 - Department of the Interior/§ 01453a - Additional Assistant Secretary of the Interior; appointment; duties; compensation.md",
+   "path": "Chapter 031 - Department of the Interior/§ 01453 - Assistant Secretaries of the Interior.md",
    "printed_pages": [
     346,
+    347
+   ]
+  },
+  {
+   "id": "43_1453a",
+   "marks": [],
+   "path": "Chapter 031 - Department of the Interior/§ 01453a - Additional Assistant Secretary of the Interior; appointment; duties; compensation.md",
+   "printed_pages": [
+    347,
     347
    ]
   },
@@ -14108,11 +14089,18 @@
   },
   {
    "id": "43_1456",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     14,
+     "[Page 348]",
+     true
+    ]
+   ],
    "path": "Chapter 031 - Department of the Interior/§ 01456 - Chief clerk.md",
    "printed_pages": [
     347,
-    347
+    348
    ]
   },
   {
@@ -14120,8 +14108,8 @@
    "marks": [],
    "path": "Chapter 031 - Department of the Interior/§ 01456a - Repealed. Pub. L. 95–164, title III, §306(b), Nov. 9, 1977, 91 Stat. 1322.md",
    "printed_pages": [
-    347,
-    347
+    348,
+    348
    ]
   },
   {
@@ -14129,36 +14117,34 @@
    "marks": [
     [
      "L",
-     16,
-     "[Page 348]",
-     true
-    ],
-    [
-     "L",
-     80,
+     70,
      "[Page 349]",
      true
     ],
     [
      "I",
-     142,
+     114,
      [
       [
-       413,
+       542,
        "[Page 350]"
       ]
      ]
     ],
     [
-     "L",
-     184,
-     "[Page 351]",
-     true
+     "I",
+     172,
+     [
+      [
+       157,
+       "[Page 351]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 031 - Department of the Interior/§ 01457 - Duties of Secretary.md",
    "printed_pages": [
-    347,
+    348,
     351
    ]
   },
@@ -14167,11 +14153,21 @@
    "marks": [
     [
      "I",
-     46,
+     14,
+     [
+      [
+       180,
+       "[Page 352]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     86,
      [
       [
        108,
-       "[Page 352]"
+       "[Page 353]"
       ]
      ]
     ]
@@ -14179,7 +14175,7 @@
    "path": "Chapter 031 - Department of the Interior/§ 01457a - Authorization of appropriations for particular programs.md",
    "printed_pages": [
     351,
-    352
+    353
    ]
   },
   {
@@ -14187,48 +14183,41 @@
    "marks": [],
    "path": "Chapter 031 - Department of the Interior/§ 01457b - Use of cooperative agreements.md",
    "printed_pages": [
-    352,
-    352
+    353,
+    353
    ]
   },
   {
    "id": "43_1458",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 353]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 031 - Department of the Interior/§ 01458 - Secretary to exercise certain powers over Territories.md",
    "printed_pages": [
-    352,
+    353,
     353
    ]
   },
   {
    "id": "43_1459",
-   "marks": [],
-   "path": "Chapter 031 - Department of the Interior/§ 01459 - Expenditures of department.md",
-   "printed_pages": [
-    353,
-    353
-   ]
-  },
-  {
-   "id": "43_1460",
    "marks": [
     [
      "L",
-     6,
+     12,
      "[Page 354]",
      true
     ]
    ],
-   "path": "Chapter 031 - Department of the Interior/§ 01460 - Copies of records, documents, etc.; charges; disposition of receipts.md",
+   "path": "Chapter 031 - Department of the Interior/§ 01459 - Expenditures of department.md",
    "printed_pages": [
     353,
+    354
+   ]
+  },
+  {
+   "id": "43_1460",
+   "marks": [],
+   "path": "Chapter 031 - Department of the Interior/§ 01460 - Copies of records, documents, etc.; charges; disposition of receipts.md",
+   "printed_pages": [
+    354,
     354
    ]
   },
@@ -14261,11 +14250,22 @@
   },
   {
    "id": "43_1464",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       468,
+       "[Page 355]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 031 - Department of the Interior/§ 01464 - Agents or attorneys representing claimants before department.md",
    "printed_pages": [
     354,
-    354
+    355
    ]
   },
   {
@@ -14273,27 +14273,16 @@
    "marks": [],
    "path": "Chapter 031 - Department of the Interior/§ 01465 - Annual reports of department and its bureaus.md",
    "printed_pages": [
-    354,
-    354
+    355,
+    355
    ]
   },
   {
    "id": "43_1466",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       274,
-       "[Page 355]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 031 - Department of the Interior/§ 01466 - Administration of oaths, affirmations, etc., by employees of Division of Investigations; force and effect.md",
    "printed_pages": [
-    354,
+    355,
     355
    ]
   },
@@ -14317,11 +14306,22 @@
   },
   {
    "id": "43_1468",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     8,
+     [
+      [
+       110,
+       "[Page 356]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 031 - Department of the Interior/§ 01468 - Working capital fund; availability for uniforms or allowances therefor.md",
    "printed_pages": [
     355,
-    355
+    356
    ]
   },
   {
@@ -14329,8 +14329,8 @@
    "marks": [],
    "path": "Chapter 031 - Department of the Interior/§ 01469 - Employment and compensation of personnel to perform work occasioned by emergencies.md",
    "printed_pages": [
-    355,
-    355
+    356,
+    356
    ]
   },
   {
@@ -14338,23 +14338,16 @@
    "marks": [],
    "path": "Chapter 031 - Department of the Interior/§ 01470 - Appropriations; availability for certain administrative expenses.md",
    "printed_pages": [
-    355,
-    355
+    356,
+    356
    ]
   },
   {
    "id": "43_1471",
-   "marks": [
-    [
-     "L",
-     10,
-     "[Page 356]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 031 - Department of the Interior/§ 01471 - Appropriations; availability for payment of property damages.md",
    "printed_pages": [
-    355,
+    356,
     356
    ]
   },
@@ -14389,10 +14382,14 @@
    "id": "43_1471c-1",
    "marks": [
     [
-     "L",
-     52,
-     "[Page 357]",
-     true
+     "I",
+     2,
+     [
+      [
+       436,
+       "[Page 357]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 031 - Department of the Interior/§ 01471c–1 - Availability of appropriations for operation of warehouses, garages, shops, and similar facilities.md",
@@ -14421,24 +14418,6 @@
   },
   {
    "id": "43_1471f",
-   "marks": [],
-   "path": "Chapter 031 - Department of the Interior/§ 01471f - Availability of appropriations for incremental funding of research work orders for cooperative agreements.md",
-   "printed_pages": [
-    357,
-    357
-   ]
-  },
-  {
-   "id": "43_1471g",
-   "marks": [],
-   "path": "Chapter 031 - Department of the Interior/§ 01471g - Availability of appropriations to support Memorial Day and Fourth of July ceremonies and activities in National Capital Region.md",
-   "printed_pages": [
-    357,
-    357
-   ]
-  },
-  {
-   "id": "43_1471h",
    "marks": [
     [
      "L",
@@ -14447,48 +14426,73 @@
      true
     ]
    ],
-   "path": "Chapter 031 - Department of the Interior/§ 01471h - Availability of appropriations for uniforms or allowances.md",
+   "path": "Chapter 031 - Department of the Interior/§ 01471f - Availability of appropriations for incremental funding of research work orders for cooperative agreements.md",
    "printed_pages": [
     357,
     358
    ]
   },
   {
-   "id": "43_1471i",
+   "id": "43_1471g",
    "marks": [],
-   "path": "Chapter 031 - Department of the Interior/§ 01471i - Availability of appropriations for services or rentals.md",
+   "path": "Chapter 031 - Department of the Interior/§ 01471g - Availability of appropriations to support Memorial Day and Fourth of July ceremonies and activities in National Capital Region.md",
    "printed_pages": [
     358,
     358
    ]
   },
   {
-   "id": "43_1472",
+   "id": "43_1471h",
+   "marks": [],
+   "path": "Chapter 031 - Department of the Interior/§ 01471h - Availability of appropriations for uniforms or allowances.md",
+   "printed_pages": [
+    358,
+    358
+   ]
+  },
+  {
+   "id": "43_1471i",
    "marks": [
     [
-     "I",
-     4,
-     [
-      [
-       656,
-       "[Page 359]"
-      ]
-     ]
+     "L",
+     28,
+     "[Page 359]",
+     true
     ]
    ],
-   "path": "Chapter 031 - Department of the Interior/§ 01472 - Bureau of Reclamation working capital fund.md",
+   "path": "Chapter 031 - Department of the Interior/§ 01471i - Availability of appropriations for services or rentals.md",
    "printed_pages": [
     358,
     359
    ]
   },
   {
-   "id": "43_1473",
+   "id": "43_1472",
    "marks": [],
-   "path": "Chapter 031 - Department of the Interior/§ 01473 - Acceptance of contributions from private and public sources by Mineral Management Service.md",
+   "path": "Chapter 031 - Department of the Interior/§ 01472 - Bureau of Reclamation working capital fund.md",
    "printed_pages": [
     359,
     359
+   ]
+  },
+  {
+   "id": "43_1473",
+   "marks": [
+    [
+     "I",
+     16,
+     [
+      [
+       273,
+       "[Page 360]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 031 - Department of the Interior/§ 01473 - Acceptance of contributions from private and public sources by Mineral Management Service.md",
+   "printed_pages": [
+    359,
+    360
    ]
   },
   {
@@ -14496,23 +14500,16 @@
    "marks": [],
    "path": "Chapter 031 - Department of the Interior/§ 01473a - Acceptance of contributions by Secretary; cooperation with prosecution of projects.md",
    "printed_pages": [
-    359,
-    359
+    360,
+    360
    ]
   },
   {
    "id": "43_1473b",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 360]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 031 - Department of the Interior/§ 01473b - Awards for contributions to Department of the Interior programs.md",
    "printed_pages": [
-    359,
+    360,
     360
    ]
   },
@@ -14536,11 +14533,22 @@
   },
   {
    "id": "43_1473e",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       175,
+       "[Page 361]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 031 - Department of the Interior/§ 01473e - Acceptance of donations and bequests for Natural Resources Library.md",
    "printed_pages": [
     360,
-    360
+    361
    ]
   },
   {
@@ -14548,8 +14556,8 @@
    "marks": [],
    "path": "Chapter 031 - Department of the Interior/§ 01474 - Availability of receipts from administrative fees for program operations in Mining Law Administration.md",
    "printed_pages": [
-    360,
-    360
+    361,
+    361
    ]
   },
   {
@@ -14557,8 +14565,8 @@
    "marks": [],
    "path": "Chapter 031 - Department of the Interior/§ 01474a - Emergency Department of the Interior Firefighting Fund; amounts considered “emergency requirements”.md",
    "printed_pages": [
-    360,
-    360
+    361,
+    361
    ]
   },
   {
@@ -14566,34 +14574,35 @@
    "marks": [
     [
      "L",
-     6,
-     "[Page 361]",
+     44,
+     "[Page 362]",
      true
-    ],
-    [
-     "I",
-     54,
-     [
-      [
-       2458,
-       "[Page 362]"
-      ]
-     ]
     ]
    ],
    "path": "Chapter 031 - Department of the Interior/§ 01474b - Natural Resource Damage Assessment and Restoration Fund; availability of assessments.md",
    "printed_pages": [
-    360,
+    361,
     362
    ]
   },
   {
    "id": "43_1474b-1",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     30,
+     [
+      [
+       166,
+       "[Page 363]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 031 - Department of the Interior/§ 01474b–1 - Transfer of funds from Natural Resource Damage Assessment and Restoration Fund.md",
    "printed_pages": [
     362,
-    362
+    363
    ]
   },
   {
@@ -14601,47 +14610,40 @@
    "marks": [],
    "path": "Chapter 031 - Department of the Interior/§ 01474c - North American Wetlands Conservation Fund; availability of fines or forfeitures.md",
    "printed_pages": [
-    362,
-    362
+    363,
+    363
    ]
   },
   {
    "id": "43_1474d",
    "marks": [
     [
-     "I",
-     32,
-     [
-      [
-       136,
-       "[Page 363]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     84,
-     [
-      [
-       162,
-       "[Page 364]"
-      ]
-     ]
+     "L",
+     72,
+     "[Page 364]",
+     true
     ]
    ],
    "path": "Chapter 031 - Department of the Interior/§ 01474d - Environmental Improvement and Restoration Fund.md",
    "printed_pages": [
-    362,
+    363,
     364
    ]
   },
   {
    "id": "43_1474e",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     16,
+     "[Page 365]",
+     true
+    ]
+   ],
    "path": "Chapter 031 - Department of the Interior/§ 01474e - Sums received by the Bureau of Land Management for the sale of seeds.md",
    "printed_pages": [
     364,
-    364
+    365
    ]
   },
   {
@@ -14649,8 +14651,8 @@
    "marks": [],
    "path": "Chapter 031 - Department of the Interior/§ 01474f - Sums received by the Bureau of Land Management from vendors under enterprise information technology-procurements.md",
    "printed_pages": [
-    364,
-    364
+    365,
+    365
    ]
   },
   {
@@ -14658,52 +14660,45 @@
    "marks": [],
    "path": "Chapter 031 - Department of the Interior/§ 01475 - Bureau of Reclamation acceptance of services of volunteers.md",
    "printed_pages": [
-    364,
-    364
+    365,
+    365
    ]
   },
   {
    "id": "43_1475a",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 365]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 031 - Department of the Interior/§ 01475a - Participation of non-Federal entities in contract negotiations and source selection proceedings.md",
    "printed_pages": [
-    364,
+    365,
     365
    ]
   },
   {
    "id": "43_1475b",
-   "marks": [],
-   "path": "Chapter 031 - Department of the Interior/§ 01475b - Volunteer authority.md",
-   "printed_pages": [
-    365,
-    365
-   ]
-  },
-  {
-   "id": "43_-ch32",
    "marks": [
     [
      "I",
-     32,
+     38,
      [
       [
-       58,
+       96,
        "[Page 366]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 032 - Colorado River Basin Project/README.md",
+   "path": "Chapter 031 - Department of the Interior/§ 01475b - Volunteer authority.md",
    "printed_pages": [
     365,
+    366
+   ]
+  },
+  {
+   "id": "43_-ch32",
+   "marks": [],
+   "path": "Chapter 032 - Colorado River Basin Project/README.md",
+   "printed_pages": [
+    366,
     366
    ]
   },
@@ -14721,7 +14716,7 @@
    "marks": [
     [
      "L",
-     50,
+     20,
      "[Page 367]",
      true
     ]
@@ -14752,11 +14747,22 @@
   },
   {
    "id": "43_1511a",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     8,
+     [
+      [
+       110,
+       "[Page 368]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 032 - Colorado River Basin Project/Subchapter 002 (II) - Investigations and Planning/§ 01511a - Cooperation and participation by Secretary of the Army with Federal, State, and local agencies.md",
    "printed_pages": [
     367,
-    367
+    368
    ]
   },
   {
@@ -14764,27 +14770,16 @@
    "marks": [],
    "path": "Chapter 032 - Colorado River Basin Project/Subchapter 002 (II) - Investigations and Planning/§ 01512 - Mexican Water Treaty.md",
    "printed_pages": [
-    367,
-    367
+    368,
+    368
    ]
   },
   {
    "id": "43_1513",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       96,
-       "[Page 368]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 032 - Colorado River Basin Project/Subchapter 002 (II) - Investigations and Planning/§ 01513 - Importation of water; protection of exporting areas.md",
    "printed_pages": [
-    367,
+    368,
     368
    ]
   },
@@ -14811,10 +14806,10 @@
    "marks": [
     [
      "I",
-     12,
+     4,
      [
       [
-       96,
+       1383,
        "[Page 369]"
       ]
      ]
@@ -14831,10 +14826,10 @@
    "marks": [
     [
      "I",
-     16,
+     4,
      [
       [
-       614,
+       1355,
        "[Page 370]"
       ]
      ]
@@ -14851,10 +14846,10 @@
    "marks": [
     [
      "I",
-     20,
+     8,
      [
       [
-       173,
+       502,
        "[Page 371]"
       ]
      ]
@@ -14871,19 +14866,23 @@
    "marks": [
     [
      "I",
-     24,
+     10,
      [
       [
-       85,
+       565,
        "[Page 372]"
       ]
      ]
     ],
     [
-     "L",
-     56,
-     "[Page 373]",
-     true
+     "I",
+     42,
+     [
+      [
+       163,
+       "[Page 373]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 032 - Colorado River Basin Project/Subchapter 003 (III) - Authorized Units; Protection of Existing Uses/§ 01524 - Water furnished from Central Arizona Project.md",
@@ -14921,11 +14920,22 @@
   },
   {
    "id": "43_1528",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       97,
+       "[Page 374]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 032 - Colorado River Basin Project/Subchapter 003 (III) - Authorized Units; Protection of Existing Uses/§ 01528 - Authorization of appropriations.md",
    "printed_pages": [
     373,
-    373
+    374
    ]
   },
   {
@@ -14933,27 +14943,16 @@
    "marks": [],
    "path": "Chapter 032 - Colorado River Basin Project/Subchapter 004 (IV) - Lower Colorado River Basin Development Fund/README.md",
    "printed_pages": [
-    373,
-    373
+    374,
+    374
    ]
   },
   {
    "id": "43_1541",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       857,
-       "[Page 374]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 032 - Colorado River Basin Project/Subchapter 004 (IV) - Lower Colorado River Basin Development Fund/§ 01541 - Allocation of costs; repayment.md",
    "printed_pages": [
-    373,
+    374,
     374
    ]
   },
@@ -14970,61 +14969,60 @@
    "id": "43_1543",
    "marks": [
     [
-     "I",
-     20,
-     [
-      [
-       316,
-       "[Page 375]"
-      ]
-     ]
+     "L",
+     10,
+     "[Page 375]",
+     true
     ],
     [
      "I",
-     64,
+     48,
      [
       [
-       279,
+       99,
        "[Page 376]"
       ]
      ]
     ],
     [
      "I",
-     122,
+     90,
      [
       [
-       174,
+       221,
        "[Page 377]"
       ]
      ]
     ],
     [
+     "I",
+     160,
+     [
+      [
+       1001,
+       "[Page 378]"
+      ]
+     ]
+    ],
+    [
      "L",
-     184,
-     "[Page 378]",
+     228,
+     "[Page 379]",
      true
     ]
    ],
    "path": "Chapter 032 - Colorado River Basin Project/Subchapter 004 (IV) - Lower Colorado River Basin Development Fund/§ 01543 - Lower Colorado River Basin Development Fund.md",
    "printed_pages": [
     374,
-    378
+    379
    ]
   },
   {
    "id": "43_1544",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 379]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 032 - Colorado River Basin Project/Subchapter 004 (IV) - Lower Colorado River Basin Development Fund/§ 01544 - Annual report to Congress.md",
    "printed_pages": [
-    378,
+    379,
     379
    ]
   },
@@ -15039,40 +15037,51 @@
   },
   {
    "id": "43_1551",
-   "marks": [],
-   "path": "Chapter 032 - Colorado River Basin Project/Subchapter 005 (V) - General Provisions/§ 01551 - Construction of Colorado River Basin Act.md",
-   "printed_pages": [
-    379,
-    379
-   ]
-  },
-  {
-   "id": "43_1552",
    "marks": [
     [
      "I",
-     10,
+     28,
      [
       [
-       97,
+       112,
        "[Page 380]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 032 - Colorado River Basin Project/Subchapter 005 (V) - General Provisions/§ 01552 - Criteria for long-range operation of reservoirs.md",
+   "path": "Chapter 032 - Colorado River Basin Project/Subchapter 005 (V) - General Provisions/§ 01551 - Construction of Colorado River Basin Act.md",
    "printed_pages": [
     379,
     380
    ]
   },
   {
-   "id": "43_1553",
+   "id": "43_1552",
    "marks": [],
-   "path": "Chapter 032 - Colorado River Basin Project/Subchapter 005 (V) - General Provisions/§ 01553 - Upper Colorado River Basin; rights to consumptive uses not to be reduced or prejudiced; duties and powers of Commission not impaired.md",
+   "path": "Chapter 032 - Colorado River Basin Project/Subchapter 005 (V) - General Provisions/§ 01552 - Criteria for long-range operation of reservoirs.md",
    "printed_pages": [
     380,
     380
+   ]
+  },
+  {
+   "id": "43_1553",
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       90,
+       "[Page 381]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 032 - Colorado River Basin Project/Subchapter 005 (V) - General Provisions/§ 01553 - Upper Colorado River Basin; rights to consumptive uses not to be reduced or prejudiced; duties and powers of Commission not impaired.md",
+   "printed_pages": [
+    380,
+    381
    ]
   },
   {
@@ -15080,27 +15089,16 @@
    "marks": [],
    "path": "Chapter 032 - Colorado River Basin Project/Subchapter 005 (V) - General Provisions/§ 01554 - Federal reclamation laws.md",
    "printed_pages": [
-    380,
-    380
+    381,
+    381
    ]
   },
   {
    "id": "43_1555",
-   "marks": [
-    [
-     "I",
-     8,
-     [
-      [
-       220,
-       "[Page 381]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 032 - Colorado River Basin Project/Subchapter 005 (V) - General Provisions/§ 01555 - Federal Power Act inapplicable to Colorado River between Hoover Dam and Glen Canyon Dam.md",
    "printed_pages": [
-    380,
+    381,
     381
    ]
   },
@@ -15136,20 +15134,20 @@
    "marks": [
     [
      "I",
-     12,
+     8,
      [
       [
-       89,
+       91,
        "[Page 382]"
       ]
      ]
     ],
     [
      "I",
-     42,
+     32,
      [
       [
-       480,
+       87,
        "[Page 383]"
       ]
      ]
@@ -15166,10 +15164,10 @@
    "marks": [
     [
      "I",
-     12,
+     4,
      [
       [
-       370,
+       524,
        "[Page 384]"
       ]
      ]
@@ -15183,30 +15181,30 @@
   },
   {
    "id": "43_1573",
-   "marks": [],
-   "path": "Chapter 032A - Colorado River Basin Salinity Control/Subchapter 001 (I) - Programs Downstream from Imperial Dam/§ 01573 - Construction and maintenance of well fields; land acquisition; land replacement; nonreimbursable costs.md",
-   "printed_pages": [
-    384,
-    384
-   ]
-  },
-  {
-   "id": "43_1574",
    "marks": [
     [
      "I",
-     2,
+     10,
      [
       [
-       91,
+       830,
        "[Page 385]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 032A - Colorado River Basin Salinity Control/Subchapter 001 (I) - Programs Downstream from Imperial Dam/§ 01574 - Modification of projects.md",
+   "path": "Chapter 032A - Colorado River Basin Salinity Control/Subchapter 001 (I) - Programs Downstream from Imperial Dam/§ 01573 - Construction and maintenance of well fields; land acquisition; land replacement; nonreimbursable costs.md",
    "printed_pages": [
     384,
+    385
+   ]
+  },
+  {
+   "id": "43_1574",
+   "marks": [],
+   "path": "Chapter 032A - Colorado River Basin Salinity Control/Subchapter 001 (I) - Programs Downstream from Imperial Dam/§ 01574 - Modification of projects.md",
+   "printed_pages": [
+    385,
     385
    ]
   },
@@ -15251,10 +15249,10 @@
    "marks": [
     [
      "I",
-     12,
+     2,
      [
       [
-       291,
+       577,
        "[Page 386]"
       ]
      ]
@@ -15298,10 +15296,10 @@
    "marks": [
     [
      "I",
-     26,
+     8,
      [
       [
-       99,
+       368,
        "[Page 387]"
       ]
      ]
@@ -15318,54 +15316,64 @@
    "marks": [
     [
      "I",
-     16,
+     14,
      [
       [
-       977,
+       1014,
        "[Page 388]"
       ]
      ]
     ],
     [
+     "I",
+     58,
+     [
+      [
+       1680,
+       "[Page 389]"
+      ]
+     ]
+    ],
+    [
      "L",
-     72,
-     "[Page 389]",
+     118,
+     "[Page 390]",
      true
     ]
    ],
    "path": "Chapter 032A - Colorado River Basin Salinity Control/Subchapter 002 (II) - Measures Upstream from Imperial Dam/§ 01592 - Authorization to construct, operate, and maintain salinity control units and salinity control programs.md",
    "printed_pages": [
     387,
-    389
+    390
    ]
   },
   {
    "id": "43_1593",
-   "marks": [
-    [
-     "I",
-     36,
-     [
-      [
-       130,
-       "[Page 390]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 032A - Colorado River Basin Salinity Control/Subchapter 002 (II) - Measures Upstream from Imperial Dam/§ 01593 - Planning reports; research and demonstration projects.md",
    "printed_pages": [
-    389,
+    390,
     390
    ]
   },
   {
    "id": "43_1594",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     16,
+     [
+      [
+       484,
+       "[Page 391]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 032A - Colorado River Basin Salinity Control/Subchapter 002 (II) - Measures Upstream from Imperial Dam/§ 01594 - Colorado River Basin Salinity Control Advisory Council.md",
    "printed_pages": [
     390,
-    390
+    391
    ]
   },
   {
@@ -15373,26 +15381,20 @@
    "marks": [
     [
      "I",
-     6,
+     24,
      [
       [
-       1331,
-       "[Page 391]"
+       417,
+       "[Page 392]"
       ]
      ]
     ],
     [
-     "L",
-     34,
-     "[Page 392]",
-     true
-    ],
-    [
      "I",
-     90,
+     72,
      [
       [
-       768,
+       101,
        "[Page 393]"
       ]
      ]
@@ -15400,36 +15402,32 @@
    ],
    "path": "Chapter 032A - Colorado River Basin Salinity Control/Subchapter 002 (II) - Measures Upstream from Imperial Dam/§ 01595 - Salinity control units; authority and functions of Secretary of the Interior.md",
    "printed_pages": [
-    390,
+    391,
     393
    ]
   },
   {
    "id": "43_1596",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     14,
+     "[Page 394]",
+     true
+    ]
+   ],
    "path": "Chapter 032A - Colorado River Basin Salinity Control/Subchapter 002 (II) - Measures Upstream from Imperial Dam/§ 01596 - Biennial report to President, Congress, and Advisory Council.md",
    "printed_pages": [
     393,
-    393
+    394
    ]
   },
   {
    "id": "43_1597",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       1252,
-       "[Page 394]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 032A - Colorado River Basin Salinity Control/Subchapter 002 (II) - Measures Upstream from Imperial Dam/§ 01597 - Construction of provisions of subchapter.md",
    "printed_pages": [
-    393,
+    394,
     394
    ]
   },
@@ -15438,10 +15436,10 @@
    "marks": [
     [
      "I",
-     22,
+     8,
      [
       [
-       121,
+       809,
        "[Page 395]"
       ]
      ]
@@ -15473,30 +15471,30 @@
   },
   {
    "id": "43_1600",
-   "marks": [],
-   "path": "Chapter 032B - Colorado River Floodway/§ 01600 - Findings and purposes.md",
-   "printed_pages": [
-    395,
-    395
-   ]
-  },
-  {
-   "id": "43_1600a",
    "marks": [
     [
      "I",
-     16,
+     32,
      [
       [
-       107,
+       115,
        "[Page 396]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 032B - Colorado River Floodway/§ 01600a - Definitions.md",
+   "path": "Chapter 032B - Colorado River Floodway/§ 01600 - Findings and purposes.md",
    "printed_pages": [
     395,
+    396
+   ]
+  },
+  {
+   "id": "43_1600a",
+   "marks": [],
+   "path": "Chapter 032B - Colorado River Floodway/§ 01600a - Definitions.md",
+   "printed_pages": [
+    396,
     396
    ]
   },
@@ -15504,10 +15502,14 @@
    "id": "43_1600b",
    "marks": [
     [
-     "L",
-     64,
-     "[Page 397]",
-     true
+     "I",
+     48,
+     [
+      [
+       97,
+       "[Page 397]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 032B - Colorado River Floodway/§ 01600b - Colorado River Floodway Task Force.md",
@@ -15539,34 +15541,33 @@
    "marks": [
     [
      "L",
-     20,
+     4,
      "[Page 398]",
      true
-    ]
-   ],
-   "path": "Chapter 032B - Colorado River Floodway/§ 01600e - Exceptions.md",
-   "printed_pages": [
-    397,
-    398
-   ]
-  },
-  {
-   "id": "43_1600f",
-   "marks": [
+    ],
     [
      "I",
-     8,
+     46,
      [
       [
-       160,
+       365,
        "[Page 399]"
       ]
      ]
     ]
    ],
+   "path": "Chapter 032B - Colorado River Floodway/§ 01600e - Exceptions.md",
+   "printed_pages": [
+    397,
+    399
+   ]
+  },
+  {
+   "id": "43_1600f",
+   "marks": [],
    "path": "Chapter 032B - Colorado River Floodway/§ 01600f - Certification of compliance.md",
    "printed_pages": [
-    398,
+    399,
     399
    ]
   },
@@ -15590,30 +15591,26 @@
   },
   {
    "id": "43_1600i",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 400]",
+     true
+    ]
+   ],
    "path": "Chapter 032B - Colorado River Floodway/§ 01600i - Reports to Congress.md",
    "printed_pages": [
     399,
-    399
+    400
    ]
   },
   {
    "id": "43_1600j",
-   "marks": [
-    [
-     "I",
-     16,
-     [
-      [
-       93,
-       "[Page 400]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 032B - Colorado River Floodway/§ 01600j - Federal leases.md",
    "printed_pages": [
-    399,
+    400,
     400
    ]
   },
@@ -15628,30 +15625,30 @@
   },
   {
    "id": "43_1600l",
-   "marks": [],
-   "path": "Chapter 032B - Colorado River Floodway/§ 01600l - Authorization of appropriations.md",
-   "printed_pages": [
-    400,
-    400
-   ]
-  },
-  {
-   "id": "43_-ch33",
    "marks": [
     [
      "I",
-     22,
+     12,
      [
       [
-       208,
+       160,
        "[Page 401]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 033 - Alaska Native Claims Settlement/README.md",
+   "path": "Chapter 032B - Colorado River Floodway/§ 01600l - Authorization of appropriations.md",
    "printed_pages": [
     400,
+    401
+   ]
+  },
+  {
+   "id": "43_-ch33",
+   "marks": [],
+   "path": "Chapter 033 - Alaska Native Claims Settlement/README.md",
+   "printed_pages": [
+    401,
     401
    ]
   },
@@ -15659,20 +15656,20 @@
    "id": "43_1601",
    "marks": [
     [
-     "I",
-     40,
-     [
-      [
-       108,
-       "[Page 402]"
-      ]
-     ]
+     "L",
+     20,
+     "[Page 402]",
+     true
     ],
     [
-     "L",
-     118,
-     "[Page 403]",
-     true
+     "I",
+     96,
+     [
+      [
+       96,
+       "[Page 403]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 033 - Alaska Native Claims Settlement/§ 01601 - Congressional findings and declaration of policy.md",
@@ -15685,14 +15682,10 @@
    "id": "43_1602",
    "marks": [
     [
-     "I",
-     40,
-     [
-      [
-       93,
-       "[Page 404]"
-      ]
-     ]
+     "L",
+     26,
+     "[Page 404]",
+     true
     ]
    ],
    "path": "Chapter 033 - Alaska Native Claims Settlement/§ 01602 - Definitions.md",
@@ -15714,17 +15707,21 @@
    "id": "43_1604",
    "marks": [
     [
-     "L",
-     18,
-     "[Page 405]",
-     true
+     "I",
+     4,
+     [
+      [
+       94,
+       "[Page 405]"
+      ]
+     ]
     ],
     [
      "I",
-     40,
+     32,
      [
       [
-       439,
+       2035,
        "[Page 406]"
       ]
      ]
@@ -15740,14 +15737,10 @@
    "id": "43_1605",
    "marks": [
     [
-     "I",
-     50,
-     [
-      [
-       112,
-       "[Page 407]"
-      ]
-     ]
+     "L",
+     42,
+     "[Page 407]",
+     true
     ]
    ],
    "path": "Chapter 033 - Alaska Native Claims Settlement/§ 01605 - Alaska Native Fund.md",
@@ -15760,85 +15753,68 @@
    "id": "43_1606",
    "marks": [
     [
-     "I",
-     56,
-     [
-      [
-       316,
-       "[Page 408]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     138,
-     [
-      [
-       97,
-       "[Page 409]"
-      ]
-     ]
+     "L",
+     44,
+     "[Page 408]",
+     true
     ],
     [
      "L",
-     208,
+     112,
+     "[Page 409]",
+     true
+    ],
+    [
+     "L",
+     178,
      "[Page 410]",
      true
     ],
     [
      "I",
-     260,
+     246,
      [
       [
-       392,
+       142,
        "[Page 411]"
       ]
      ]
     ],
     [
+     "L",
+     306,
+     "[Page 412]",
+     true
+    ],
+    [
      "I",
-     322,
+     344,
      [
       [
-       276,
-       "[Page 412]"
+       419,
+       "[Page 413]"
       ]
      ]
     ],
     [
-     "I",
-     356,
-     [
-      [
-       318,
-       "[Page 413]"
-      ]
-     ]
+     "L",
+     398,
+     "[Page 414]",
+     true
     ]
    ],
    "path": "Chapter 033 - Alaska Native Claims Settlement/§ 01606 - Regional Corporations.md",
    "printed_pages": [
     407,
-    413
+    414
    ]
   },
   {
    "id": "43_1607",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       93,
-       "[Page 414]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 033 - Alaska Native Claims Settlement/§ 01607 - Village Corporations.md",
    "printed_pages": [
-    413,
+    414,
     414
    ]
   },
@@ -15846,12 +15822,18 @@
    "id": "43_1608",
    "marks": [
     [
+     "L",
+     10,
+     "[Page 415]",
+     true
+    ],
+    [
      "I",
-     20,
+     58,
      [
       [
-       241,
-       "[Page 415]"
+       219,
+       "[Page 416]"
       ]
      ]
     ]
@@ -15859,26 +15841,15 @@
    "path": "Chapter 033 - Alaska Native Claims Settlement/§ 01608 - Revenue sharing.md",
    "printed_pages": [
     414,
-    415
+    416
    ]
   },
   {
    "id": "43_1609",
-   "marks": [
-    [
-     "I",
-     14,
-     [
-      [
-       107,
-       "[Page 416]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 033 - Alaska Native Claims Settlement/§ 01609 - Limitation of actions.md",
    "printed_pages": [
-    415,
+    416,
     416
    ]
   },
@@ -15887,19 +15858,15 @@
    "marks": [
     [
      "L",
-     162,
+     58,
      "[Page 417]",
      true
     ],
     [
-     "I",
-     436,
-     [
-      [
-       95,
-       "[Page 418]"
-      ]
-     ]
+     "L",
+     338,
+     "[Page 418]",
+     true
     ]
    ],
    "path": "Chapter 033 - Alaska Native Claims Settlement/§ 01610 - Withdrawal of public lands.md",
@@ -15912,92 +15879,96 @@
    "id": "43_1611",
    "marks": [
     [
+     "L",
+     12,
+     "[Page 419]",
+     true
+    ],
+    [
      "I",
-     26,
+     44,
      [
       [
-       332,
-       "[Page 419]"
+       415,
+       "[Page 420]"
       ]
      ]
     ],
     [
      "L",
-     58,
-     "[Page 420]",
+     118,
+     "[Page 421]",
      true
     ],
     [
      "I",
-     170,
+     258,
      [
       [
-       201,
-       "[Page 421]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     314,
-     [
-      [
-       252,
+       149,
        "[Page 422]"
       ]
      ]
     ],
     [
      "I",
-     374,
+     350,
      [
       [
-       112,
+       157,
        "[Page 423]"
       ]
      ]
     ],
     [
      "I",
-     404,
+     398,
      [
       [
-       565,
+       1218,
        "[Page 424]"
       ]
      ]
     ],
     [
-     "L",
-     430,
-     "[Page 425]",
-     true
+     "I",
+     418,
+     [
+      [
+       106,
+       "[Page 425]"
+      ]
+     ]
     ],
     [
      "I",
-     454,
+     442,
      [
       [
-       113,
+       111,
        "[Page 426]"
       ]
      ]
     ],
     [
      "I",
-     478,
+     472,
      [
       [
-       160,
+       111,
        "[Page 427]"
       ]
      ]
     ],
     [
-     "L",
-     552,
-     "[Page 428]",
-     true
+     "I",
+     528,
+     [
+      [
+       654,
+       "[Page 428]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 033 - Alaska Native Claims Settlement/§ 01611 - Native land selections.md",
@@ -16020,46 +15991,46 @@
    "marks": [
     [
      "I",
-     32,
+     26,
      [
       [
-       138,
+       144,
        "[Page 429]"
       ]
      ]
     ],
     [
      "I",
-     90,
+     72,
      [
       [
-       88,
+       230,
        "[Page 430]"
       ]
      ]
     ],
     [
-     "I",
-     136,
-     [
-      [
-       319,
-       "[Page 431]"
-      ]
-     ]
-    ],
-    [
      "L",
-     184,
-     "[Page 432]",
+     124,
+     "[Page 431]",
      true
     ],
     [
      "I",
-     220,
+     160,
      [
       [
-       431,
+       228,
+       "[Page 432]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     216,
+     [
+      [
+       484,
        "[Page 433]"
       ]
      ]
@@ -16073,30 +16044,30 @@
   },
   {
    "id": "43_1613a",
-   "marks": [],
-   "path": "Chapter 033 - Alaska Native Claims Settlement/§ 01613a - ANCSA amendment.md",
-   "printed_pages": [
-    433,
-    433
-   ]
-  },
-  {
-   "id": "43_1614",
    "marks": [
     [
      "I",
-     4,
+     2,
      [
       [
-       699,
+       571,
        "[Page 434]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 033 - Alaska Native Claims Settlement/§ 01614 - Timber sale contracts; modification; timber from contingency area.md",
+   "path": "Chapter 033 - Alaska Native Claims Settlement/§ 01613a - ANCSA amendment.md",
    "printed_pages": [
     433,
+    434
+   ]
+  },
+  {
+   "id": "43_1614",
+   "marks": [],
+   "path": "Chapter 033 - Alaska Native Claims Settlement/§ 01614 - Timber sale contracts; modification; timber from contingency area.md",
+   "printed_pages": [
+    434,
     434
    ]
   },
@@ -16105,10 +16076,10 @@
    "marks": [
     [
      "I",
-     36,
+     34,
      [
       [
-       594,
+       141,
        "[Page 435]"
       ]
      ]
@@ -16125,11 +16096,21 @@
    "marks": [
     [
      "I",
-     14,
+     8,
      [
       [
-       225,
+       180,
        "[Page 436]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     36,
+     [
+      [
+       110,
+       "[Page 437]"
       ]
      ]
     ]
@@ -16137,42 +16118,32 @@
    "path": "Chapter 033 - Alaska Native Claims Settlement/§ 01616 - Joint Federal-State Land Use Planning Commission for Alaska.md",
    "printed_pages": [
     435,
-    436
+    437
    ]
   },
   {
    "id": "43_1617",
    "marks": [
     [
-     "I",
-     20,
-     [
-      [
-       136,
-       "[Page 437]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     80,
-     [
-      [
-       95,
-       "[Page 438]"
-      ]
-     ]
-    ],
-    [
      "L",
-     170,
-     "[Page 439]",
+     42,
+     "[Page 438]",
      true
+    ],
+    [
+     "I",
+     98,
+     [
+      [
+       322,
+       "[Page 439]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 033 - Alaska Native Claims Settlement/§ 01617 - Revocation of Indian allotment authority in Alaska.md",
    "printed_pages": [
-    436,
+    437,
     439
    ]
   },
@@ -16181,29 +16152,35 @@
    "marks": [
     [
      "I",
-     38,
+     8,
      [
       [
-       441,
+       93,
        "[Page 440]"
       ]
      ]
     ],
     [
      "I",
-     78,
+     52,
      [
       [
-       93,
+       96,
        "[Page 441]"
       ]
      ]
+    ],
+    [
+     "L",
+     92,
+     "[Page 442]",
+     true
     ]
    ],
    "path": "Chapter 033 - Alaska Native Claims Settlement/§ 01618 - Revocation of reserved rights; excepted reserve; acquisition of title to surface and subsurface estates in reserve; election of Village….md",
    "printed_pages": [
     439,
-    441
+    442
    ]
   },
   {
@@ -16211,59 +16188,55 @@
    "marks": [
     [
      "I",
-     8,
+     30,
      [
       [
-       137,
-       "[Page 442]"
+       378,
+       "[Page 443]"
       ]
      ]
     ],
     [
      "I",
-     50,
+     64,
      [
       [
-       93,
-       "[Page 443]"
+       212,
+       "[Page 444]"
       ]
      ]
     ]
    ],
    "path": "Chapter 033 - Alaska Native Claims Settlement/§ 01619 - Attorney and consultant fees.md",
    "printed_pages": [
-    441,
-    443
+    442,
+    444
    ]
   },
   {
    "id": "43_1620",
    "marks": [
     [
-     "I",
-     16,
-     [
-      [
-       1196,
-       "[Page 444]"
-      ]
-     ]
+     "L",
+     24,
+     "[Page 445]",
+     true
     ],
     [
      "I",
-     48,
+     62,
      [
       [
-       92,
-       "[Page 445]"
+       114,
+       "[Page 446]"
       ]
      ]
     ]
    ],
    "path": "Chapter 033 - Alaska Native Claims Settlement/§ 01620 - Taxation.md",
    "printed_pages": [
-    443,
-    445
+    444,
+    446
    ]
   },
   {
@@ -16271,50 +16244,47 @@
    "marks": [
     [
      "I",
-     4,
+     14,
      [
       [
-       428,
-       "[Page 446]"
+       424,
+       "[Page 447]"
       ]
      ]
     ],
     [
-     "L",
-     32,
-     "[Page 447]",
-     true
-    ],
-    [
-     "L",
-     64,
-     "[Page 448]",
-     true
-    ]
-   ],
-   "path": "Chapter 033 - Alaska Native Claims Settlement/§ 01621 - Miscellaneous provisions.md",
-   "printed_pages": [
-    445,
-    448
-   ]
-  },
-  {
-   "id": "43_1622",
-   "marks": [
-    [
      "I",
-     2,
+     46,
      [
       [
-       188,
+       93,
+       "[Page 448]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     84,
+     [
+      [
+       618,
        "[Page 449]"
       ]
      ]
     ]
    ],
+   "path": "Chapter 033 - Alaska Native Claims Settlement/§ 01621 - Miscellaneous provisions.md",
+   "printed_pages": [
+    446,
+    449
+   ]
+  },
+  {
+   "id": "43_1622",
+   "marks": [],
    "path": "Chapter 033 - Alaska Native Claims Settlement/§ 01622 - Annual reports to Congress until 1984; submission in 1985 of report of status of Natives, summary of actions taken, and recommendations.md",
    "printed_pages": [
-    448,
+    449,
     449
    ]
   },
@@ -16340,14 +16310,10 @@
    "id": "43_1625",
    "marks": [
     [
-     "I",
-     58,
-     [
-      [
-       112,
-       "[Page 450]"
-      ]
-     ]
+     "L",
+     20,
+     "[Page 450]",
+     true
     ]
    ],
    "path": "Chapter 033 - Alaska Native Claims Settlement/§ 01625 - Securities laws exemption.md",
@@ -16360,12 +16326,18 @@
    "id": "43_1626",
    "marks": [
     [
+     "L",
+     14,
+     "[Page 451]",
+     true
+    ],
+    [
      "I",
-     54,
+     74,
      [
       [
-       305,
-       "[Page 451]"
+       114,
+       "[Page 452]"
       ]
      ]
     ]
@@ -16373,38 +16345,35 @@
    "path": "Chapter 033 - Alaska Native Claims Settlement/§ 01626 - Relation to other programs.md",
    "printed_pages": [
     450,
-    451
+    452
    ]
   },
   {
    "id": "43_1627",
    "marks": [
     [
-     "L",
-     6,
-     "[Page 452]",
-     true
+     "I",
+     12,
+     [
+      [
+       140,
+       "[Page 453]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 033 - Alaska Native Claims Settlement/§ 01627 - Merger of Native corporations.md",
    "printed_pages": [
-    451,
-    452
+    452,
+    453
    ]
   },
   {
    "id": "43_1628",
-   "marks": [
-    [
-     "L",
-     20,
-     "[Page 453]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 033 - Alaska Native Claims Settlement/§ 01628 - Assignments by Regional Corporations of rights to receive payments from Fund.md",
    "printed_pages": [
-    452,
+    453,
     453
    ]
   },
@@ -16413,11 +16382,21 @@
    "marks": [
     [
      "I",
-     52,
+     20,
      [
       [
-       93,
+       90,
        "[Page 454]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     58,
+     [
+      [
+       835,
+       "[Page 455]"
       ]
      ]
     ]
@@ -16425,26 +16404,15 @@
    "path": "Chapter 033 - Alaska Native Claims Settlement/§ 01629 - Cape Krusenstern National Monument land exchange between United States and NANA Regional Corporation, Inc.md",
    "printed_pages": [
     453,
-    454
+    455
    ]
   },
   {
    "id": "43_1629a",
-   "marks": [
-    [
-     "I",
-     12,
-     [
-      [
-       467,
-       "[Page 455]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 033 - Alaska Native Claims Settlement/§ 01629a - Relinquishment by NANA Regional Corporation, Inc., of lands compact and contiguous to public lands in Cape Krusenstern National Monument.md",
    "printed_pages": [
-    454,
+    455,
     455
    ]
   },
@@ -16453,23 +16421,19 @@
    "marks": [
     [
      "I",
-     40,
+     6,
      [
       [
-       382,
+       93,
        "[Page 456]"
       ]
      ]
     ],
     [
-     "I",
-     96,
-     [
-      [
-       111,
-       "[Page 457]"
-      ]
-     ]
+     "L",
+     58,
+     "[Page 457]",
+     true
     ]
    ],
    "path": "Chapter 033 - Alaska Native Claims Settlement/§ 01629b - Procedures for considering amendments and resolutions.md",
@@ -16482,30 +16446,30 @@
    "id": "43_1629c",
    "marks": [
     [
-     "I",
-     48,
-     [
-      [
-       139,
-       "[Page 458]"
-      ]
-     ]
+     "L",
+     20,
+     "[Page 458]",
+     true
     ],
     [
      "I",
-     88,
+     60,
      [
       [
-       91,
+       574,
        "[Page 459]"
       ]
      ]
     ],
     [
-     "L",
-     138,
-     "[Page 460]",
-     true
+     "I",
+     102,
+     [
+      [
+       188,
+       "[Page 460]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 033 - Alaska Native Claims Settlement/§ 01629c - Duration of alienability restrictions.md",
@@ -16518,55 +16482,54 @@
    "id": "43_1629d",
    "marks": [
     [
-     "L",
-     52,
-     "[Page 461]",
-     true
+     "I",
+     6,
+     [
+      [
+       180,
+       "[Page 461]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     74,
+     [
+      [
+       144,
+       "[Page 462]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 033 - Alaska Native Claims Settlement/§ 01629d - Dissenters rights.md",
    "printed_pages": [
     460,
-    461
+    462
    ]
   },
   {
    "id": "43_1629e",
    "marks": [
     [
-     "I",
-     48,
-     [
-      [
-       93,
-       "[Page 462]"
-      ]
-     ]
+     "L",
+     74,
+     "[Page 463]",
+     true
     ]
    ],
    "path": "Chapter 033 - Alaska Native Claims Settlement/§ 01629e - Settlement Trust option.md",
    "printed_pages": [
-    461,
-    462
+    462,
+    463
    ]
   },
   {
    "id": "43_1629f",
-   "marks": [
-    [
-     "I",
-     12,
-     [
-      [
-       92,
-       "[Page 463]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 033 - Alaska Native Claims Settlement/§ 01629f - Claims arising from contamination of transferred lands.md",
    "printed_pages": [
-    462,
+    463,
     463
    ]
   },
@@ -16575,50 +16538,49 @@
    "marks": [
     [
      "L",
-     72,
+     18,
      "[Page 464]",
+     true
+    ],
+    [
+     "L",
+     100,
+     "[Page 465]",
      true
     ]
    ],
    "path": "Chapter 033 - Alaska Native Claims Settlement/§ 01629g - Open season for certain Alaska Native veterans for allotments.md",
    "printed_pages": [
     463,
-    464
+    465
    ]
   },
   {
    "id": "43_1629h",
    "marks": [
     [
-     "L",
-     18,
-     "[Page 465]",
-     true
-    ]
-   ],
-   "path": "Chapter 033 - Alaska Native Claims Settlement/§ 01629h - Kake Tribal Corporation land transfer.md",
-   "printed_pages": [
-    464,
-    465
-   ]
-  },
-  {
-   "id": "43_-ch33A",
-   "marks": [
-    [
      "I",
-     8,
+     36,
      [
       [
-       44,
+       88,
        "[Page 466]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 033A - Implementation of Alaska Native Claims Settlement and Alaska Statehood/README.md",
+   "path": "Chapter 033 - Alaska Native Claims Settlement/§ 01629h - Kake Tribal Corporation land transfer.md",
    "printed_pages": [
     465,
+    466
+   ]
+  },
+  {
+   "id": "43_-ch33A",
+   "marks": [],
+   "path": "Chapter 033A - Implementation of Alaska Native Claims Settlement and Alaska Statehood/README.md",
+   "printed_pages": [
+    466,
     466
    ]
   },
@@ -16627,19 +16589,25 @@
    "marks": [
     [
      "I",
-     38,
+     14,
      [
       [
-       167,
+       670,
        "[Page 467]"
       ]
      ]
+    ],
+    [
+     "L",
+     66,
+     "[Page 468]",
+     true
     ]
    ],
    "path": "Chapter 033A - Implementation of Alaska Native Claims Settlement and Alaska Statehood/§ 01631 - Ownership of submerged lands.md",
    "printed_pages": [
     466,
-    467
+    468
    ]
   },
   {
@@ -16647,8 +16615,8 @@
    "marks": [],
    "path": "Chapter 033A - Implementation of Alaska Native Claims Settlement and Alaska Statehood/§ 01632 - Statute of limitations on decisions of Secretary and reconveyance of land by Village Corporation.md",
    "printed_pages": [
-    467,
-    467
+    468,
+    468
    ]
   },
   {
@@ -16656,19 +16624,19 @@
    "marks": [
     [
      "I",
-     12,
+     30,
      [
       [
-       139,
-       "[Page 468]"
+       164,
+       "[Page 469]"
       ]
      ]
     ]
    ],
    "path": "Chapter 033A - Implementation of Alaska Native Claims Settlement and Alaska Statehood/§ 01633 - Administrative provisions.md",
    "printed_pages": [
-    467,
-    468
+    468,
+    469
    ]
   },
   {
@@ -16676,57 +16644,11 @@
    "marks": [
     [
      "I",
-     20,
+     30,
      [
       [
-       91,
-       "[Page 469]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     50,
-     [
-      [
-       944,
+       94,
        "[Page 470]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     84,
-     [
-      [
-       92,
-       "[Page 471]"
-      ]
-     ]
-    ],
-    [
-     "L",
-     142,
-     "[Page 472]",
-     true
-    ]
-   ],
-   "path": "Chapter 033A - Implementation of Alaska Native Claims Settlement and Alaska Statehood/§ 01634 - Alaska Native allotments.md",
-   "printed_pages": [
-    468,
-    472
-   ]
-  },
-  {
-   "id": "43_1635",
-   "marks": [
-    [
-     "I",
-     24,
-     [
-      [
-       876,
-       "[Page 473]"
       ]
      ]
     ],
@@ -16735,42 +16657,88 @@
      54,
      [
       [
-       187,
+       1690,
+       "[Page 471]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     110,
+     "[Page 472]",
+     true
+    ]
+   ],
+   "path": "Chapter 033A - Implementation of Alaska Native Claims Settlement and Alaska Statehood/§ 01634 - Alaska Native allotments.md",
+   "printed_pages": [
+    469,
+    472
+   ]
+  },
+  {
+   "id": "43_1635",
+   "marks": [
+    [
+     "I",
+     6,
+     [
+      [
+       286,
+       "[Page 473]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     38,
+     [
+      [
+       521,
        "[Page 474]"
       ]
      ]
     ],
     [
      "I",
-     98,
+     80,
      [
       [
-       1175,
+       270,
        "[Page 475]"
       ]
      ]
     ],
     [
      "I",
-     130,
+     110,
      [
       [
-       1243,
+       89,
        "[Page 476]"
       ]
      ]
     ],
     [
      "L",
-     206,
+     154,
      "[Page 477]",
      true
+    ],
+    [
+     "I",
+     262,
+     [
+      [
+       107,
+       "[Page 478]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 033A - Implementation of Alaska Native Claims Settlement and Alaska Statehood/§ 01635 - State selections and conveyances.md",
    "printed_pages": [
     472,
-    477
+    478
    ]
   },
   {
@@ -16778,45 +16746,45 @@
    "marks": [
     [
      "I",
-     4,
+     14,
      [
       [
-       326,
-       "[Page 478]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     36,
-     [
-      [
-       230,
+       403,
        "[Page 479]"
       ]
      ]
     ],
     [
      "L",
-     94,
+     66,
      "[Page 480]",
      true
     ],
     [
      "I",
-     160,
+     130,
      [
       [
-       98,
+       99,
        "[Page 481]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     190,
+     [
+      [
+       324,
+       "[Page 482]"
       ]
      ]
     ]
    ],
    "path": "Chapter 033A - Implementation of Alaska Native Claims Settlement and Alaska Statehood/§ 01636 - Alaska land bank.md",
    "printed_pages": [
-    477,
-    481
+    478,
+    482
    ]
   },
   {
@@ -16824,8 +16792,8 @@
    "marks": [],
    "path": "Chapter 033A - Implementation of Alaska Native Claims Settlement and Alaska Statehood/§ 01637 - Use of protraction diagrams.md",
    "printed_pages": [
-    481,
-    481
+    482,
+    482
    ]
   },
   {
@@ -16833,37 +16801,37 @@
    "marks": [],
    "path": "Chapter 033A - Implementation of Alaska Native Claims Settlement and Alaska Statehood/§ 01638 - National Environmental Policy Act.md",
    "printed_pages": [
-    481,
-    481
+    482,
+    482
    ]
   },
   {
    "id": "43_1639",
+   "marks": [],
+   "path": "Chapter 033A - Implementation of Alaska Native Claims Settlement and Alaska Statehood/§ 01639 - Construction with Alaska Native Claims Settlement Act.md",
+   "printed_pages": [
+    482,
+    482
+   ]
+  },
+  {
+   "id": "43_1640",
    "marks": [
     [
      "I",
      2,
      [
       [
-       95,
-       "[Page 482]"
+       1492,
+       "[Page 483]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 033A - Implementation of Alaska Native Claims Settlement and Alaska Statehood/§ 01639 - Construction with Alaska Native Claims Settlement Act.md",
-   "printed_pages": [
-    481,
-    482
-   ]
-  },
-  {
-   "id": "43_1640",
-   "marks": [],
    "path": "Chapter 033A - Implementation of Alaska Native Claims Settlement and Alaska Statehood/§ 01640 - Relinquishment of selections partly within conservation units.md",
    "printed_pages": [
     482,
-    482
+    483
    ]
   },
   {
@@ -16871,20 +16839,10 @@
    "marks": [
     [
      "I",
-     12,
+     16,
      [
       [
-       256,
-       "[Page 483]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     42,
-     [
-      [
-       396,
+       287,
        "[Page 484]"
       ]
      ]
@@ -16892,17 +16850,28 @@
    ],
    "path": "Chapter 033A - Implementation of Alaska Native Claims Settlement and Alaska Statehood/§ 01641 - Conveyances to Village Corporations.md",
    "printed_pages": [
-    482,
+    483,
     484
    ]
   },
   {
    "id": "43_1642",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       425,
+       "[Page 485]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 033A - Implementation of Alaska Native Claims Settlement and Alaska Statehood/§ 01642 - Land conveyances.md",
    "printed_pages": [
     484,
-    484
+    485
    ]
   },
   {
@@ -16910,8 +16879,8 @@
    "marks": [],
    "path": "Chapter 034 - Trans-Alaska Pipeline/README.md",
    "printed_pages": [
-    484,
-    484
+    485,
+    485
    ]
   },
   {
@@ -16919,19 +16888,19 @@
    "marks": [
     [
      "I",
-     24,
+     36,
      [
       [
-       496,
-       "[Page 485]"
+       1449,
+       "[Page 486]"
       ]
      ]
     ]
    ],
    "path": "Chapter 034 - Trans-Alaska Pipeline/§ 01651 - Congressional findings and declaration.md",
    "printed_pages": [
-    484,
-    485
+    485,
+    486
    ]
   },
   {
@@ -16939,49 +16908,45 @@
    "marks": [
     [
      "I",
-     12,
+     16,
      [
       [
-       699,
-       "[Page 486]"
+       1705,
+       "[Page 487]"
       ]
      ]
     ]
    ],
    "path": "Chapter 034 - Trans-Alaska Pipeline/§ 01652 - Authorizations for construction.md",
    "printed_pages": [
-    485,
-    486
+    486,
+    487
    ]
   },
   {
    "id": "43_1653",
    "marks": [
     [
-     "I",
-     8,
-     [
-      [
-       92,
-       "[Page 487]"
-      ]
-     ]
+     "L",
+     20,
+     "[Page 488]",
+     true
     ],
     [
      "I",
-     68,
+     100,
      [
       [
-       270,
-       "[Page 488]"
+       173,
+       "[Page 489]"
       ]
      ]
     ]
    ],
    "path": "Chapter 034 - Trans-Alaska Pipeline/§ 01653 - Liability for damages.md",
    "printed_pages": [
-    486,
-    488
+    487,
+    489
    ]
   },
   {
@@ -16989,8 +16954,8 @@
    "marks": [],
    "path": "Chapter 034 - Trans-Alaska Pipeline/§ 01654 - Antitrust laws.md",
    "printed_pages": [
-    488,
-    488
+    489,
+    489
    ]
   },
   {
@@ -16998,37 +16963,37 @@
    "marks": [],
    "path": "Chapter 034 - Trans-Alaska Pipeline/§ 01655 - Roads and airports.md",
    "printed_pages": [
-    488,
-    488
+    489,
+    489
    ]
   },
   {
    "id": "43_1656",
-   "marks": [
-    [
-     "I",
-     26,
-     [
-      [
-       709,
-       "[Page 489]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 034 - Trans-Alaska Pipeline/§ 01656 - Civil penalties.md",
    "printed_pages": [
-    488,
+    489,
     489
    ]
   },
   {
    "id": "43_-ch35",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     21,
+     [
+      [
+       92,
+       "[Page 490]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 035 - Federal Land Policy and Management/README.md",
    "printed_pages": [
     489,
-    489
+    490
    ]
   },
   {
@@ -17036,8 +17001,8 @@
    "marks": [],
    "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 001 (I) - General Provisions/README.md",
    "printed_pages": [
-    489,
-    489
+    490,
+    490
    ]
   },
   {
@@ -17045,60 +17010,45 @@
    "marks": [
     [
      "L",
-     6,
-     "[Page 490]",
+     22,
+     "[Page 491]",
      true
     ],
     [
      "L",
-     64,
-     "[Page 491]",
+     92,
+     "[Page 492]",
      true
     ]
    ],
    "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 001 (I) - General Provisions/§ 01701 - Congressional declaration of policy.md",
    "printed_pages": [
-    489,
-    491
+    490,
+    492
    ]
   },
   {
    "id": "43_1702",
    "marks": [
     [
-     "I",
-     26,
-     [
-      [
-       90,
-       "[Page 492]"
-      ]
-     ]
+     "L",
+     40,
+     "[Page 493]",
+     true
     ]
    ],
    "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 001 (I) - General Provisions/§ 01702 - Definitions.md",
    "printed_pages": [
-    491,
-    492
+    492,
+    493
    ]
   },
   {
    "id": "43_1703",
-   "marks": [
-    [
-     "I",
-     18,
-     [
-      [
-       265,
-       "[Page 493]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 001 (I) - General Provisions/§ 01703 - Cooperative action and sharing of resources by Secretaries of the Interior and Agriculture.md",
    "printed_pages": [
-    492,
+    493,
     493
    ]
   },
@@ -17113,43 +17063,58 @@
   },
   {
    "id": "43_1711",
-   "marks": [],
-   "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 002 (II) - Land Use Planning and Land Acquisition and Disposition/§ 01711 - Continuing inventory and identification of public lands; preparation and maintenance.md",
-   "printed_pages": [
-    493,
-    493
-   ]
-  },
-  {
-   "id": "43_1712",
    "marks": [
     [
      "L",
-     32,
+     8,
      "[Page 494]",
      true
     ]
    ],
-   "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 002 (II) - Land Use Planning and Land Acquisition and Disposition/§ 01712 - Land use plans.md",
+   "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 002 (II) - Land Use Planning and Land Acquisition and Disposition/§ 01711 - Continuing inventory and identification of public lands; preparation and maintenance.md",
    "printed_pages": [
     493,
     494
    ]
   },
   {
+   "id": "43_1712",
+   "marks": [
+    [
+     "I",
+     42,
+     [
+      [
+       720,
+       "[Page 495]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 002 (II) - Land Use Planning and Land Acquisition and Disposition/§ 01712 - Land use plans.md",
+   "printed_pages": [
+    494,
+    495
+   ]
+  },
+  {
    "id": "43_1713",
    "marks": [
     [
-     "L",
-     8,
-     "[Page 495]",
-     true
+     "I",
+     18,
+     [
+      [
+       791,
+       "[Page 496]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 002 (II) - Land Use Planning and Land Acquisition and Disposition/§ 01713 - Sales of public land tracts.md",
    "printed_pages": [
-    494,
-    495
+    495,
+    496
    ]
   },
   {
@@ -17157,35 +17122,39 @@
    "marks": [
     [
      "I",
-     4,
+     14,
      [
       [
-       231,
-       "[Page 496]"
+       610,
+       "[Page 497]"
       ]
      ]
     ],
     [
-     "L",
-     42,
-     "[Page 497]",
-     true
+     "I",
+     58,
+     [
+      [
+       138,
+       "[Page 498]"
+      ]
+     ]
     ],
     [
      "I",
      84,
      [
       [
-       93,
-       "[Page 498]"
+       2184,
+       "[Page 499]"
       ]
      ]
     ]
    ],
    "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 002 (II) - Land Use Planning and Land Acquisition and Disposition/§ 01714 - Withdrawals of lands.md",
    "printed_pages": [
-    495,
-    498
+    496,
+    499
    ]
   },
   {
@@ -17193,19 +17162,19 @@
    "marks": [
     [
      "I",
-     4,
+     20,
      [
       [
-       764,
-       "[Page 499]"
+       92,
+       "[Page 500]"
       ]
      ]
     ]
    ],
    "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 002 (II) - Land Use Planning and Land Acquisition and Disposition/§ 01715 - Acquisitions of public lands and access over non-Federal lands to National Forest System units.md",
    "printed_pages": [
-    498,
-    499
+    499,
+    500
    ]
   },
   {
@@ -17213,39 +17182,31 @@
    "marks": [
     [
      "I",
-     8,
+     18,
      [
       [
-       1724,
-       "[Page 500]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     44,
-     [
-      [
-       94,
+       339,
        "[Page 501]"
       ]
      ]
     ],
     [
-     "I",
-     82,
-     [
-      [
-       373,
-       "[Page 502]"
-      ]
-     ]
+     "L",
+     50,
+     "[Page 502]",
+     true
+    ],
+    [
+     "L",
+     102,
+     "[Page 503]",
+     true
     ]
    ],
    "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 002 (II) - Land Use Planning and Land Acquisition and Disposition/§ 01716 - Exchanges of public lands or interests therein within the National Forest System.md",
    "printed_pages": [
-    499,
-    502
+    500,
+    503
    ]
   },
   {
@@ -17253,37 +17214,33 @@
    "marks": [],
    "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 002 (II) - Land Use Planning and Land Acquisition and Disposition/§ 01717 - Qualifications of conveyees.md",
    "printed_pages": [
-    502,
-    502
+    503,
+    503
    ]
   },
   {
    "id": "43_1718",
-   "marks": [
-    [
-     "I",
-     8,
-     [
-      [
-       112,
-       "[Page 503]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 002 (II) - Land Use Planning and Land Acquisition and Disposition/§ 01718 - Documents of conveyance; terms, covenants, etc.md",
    "printed_pages": [
-    502,
+    503,
     503
    ]
   },
   {
    "id": "43_1719",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 504]",
+     true
+    ]
+   ],
    "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 002 (II) - Land Use Planning and Land Acquisition and Disposition/§ 01719 - Mineral interests; reservation and conveyance requirements and procedures.md",
    "printed_pages": [
     503,
-    503
+    504
    ]
   },
   {
@@ -17291,28 +17248,24 @@
    "marks": [],
    "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 002 (II) - Land Use Planning and Land Acquisition and Disposition/§ 01720 - Coordination by Secretary of the Interior with State and local governments.md",
    "printed_pages": [
-    503,
-    503
+    504,
+    504
    ]
   },
   {
    "id": "43_1721",
    "marks": [
     [
-     "I",
-     8,
-     [
-      [
-       760,
-       "[Page 504]"
-      ]
-     ]
+     "L",
+     22,
+     "[Page 505]",
+     true
     ]
    ],
    "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 002 (II) - Land Use Planning and Land Acquisition and Disposition/§ 01721 - Conveyances of public lands to States, local governments, etc.md",
    "printed_pages": [
-    503,
-    504
+    504,
+    505
    ]
   },
   {
@@ -17323,36 +17276,32 @@
      8,
      [
       [
-       762,
-       "[Page 505]"
+       2673,
+       "[Page 506]"
       ]
      ]
     ]
    ],
    "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 002 (II) - Land Use Planning and Land Acquisition and Disposition/§ 01722 - Sale of public lands subject to unintentional trespass.md",
    "printed_pages": [
-    504,
-    505
+    505,
+    506
    ]
   },
   {
    "id": "43_1723",
    "marks": [
     [
-     "I",
-     24,
-     [
-      [
-       488,
-       "[Page 506]"
-      ]
-     ]
+     "L",
+     40,
+     "[Page 507]",
+     true
     ]
    ],
    "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 002 (II) - Land Use Planning and Land Acquisition and Disposition/§ 01723 - Temporary revocation authority.md",
    "printed_pages": [
-    505,
-    506
+    506,
+    507
    ]
   },
   {
@@ -17360,23 +17309,16 @@
    "marks": [],
    "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 003 (III) - Administration/README.md",
    "printed_pages": [
-    506,
-    506
+    507,
+    507
    ]
   },
   {
    "id": "43_1731",
-   "marks": [
-    [
-     "L",
-     28,
-     "[Page 507]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 003 (III) - Administration/§ 01731 - Bureau of Land Management.md",
    "printed_pages": [
-    506,
+    507,
     507
    ]
   },
@@ -17385,11 +17327,21 @@
    "marks": [
     [
      "I",
-     18,
+     8,
      [
       [
-       325,
+       795,
        "[Page 508]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     30,
+     [
+      [
+       231,
+       "[Page 509]"
       ]
      ]
     ]
@@ -17397,7 +17349,7 @@
    "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 003 (III) - Administration/§ 01732 - Management of use, occupancy, and development of public lands.md",
    "printed_pages": [
     507,
-    508
+    509
    ]
   },
   {
@@ -17405,35 +17357,31 @@
    "marks": [
     [
      "L",
-     10,
-     "[Page 509]",
+     16,
+     "[Page 510]",
      true
     ]
    ],
    "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 003 (III) - Administration/§ 01733 - Enforcement authority.md",
    "printed_pages": [
-    508,
-    509
+    509,
+    510
    ]
   },
   {
    "id": "43_1734",
    "marks": [
     [
-     "I",
-     4,
-     [
-      [
-       224,
-       "[Page 510]"
-      ]
-     ]
+     "L",
+     20,
+     "[Page 511]",
+     true
     ]
    ],
    "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 003 (III) - Administration/§ 01734 - Fees, charges, and commissions.md",
    "printed_pages": [
-    509,
-    510
+    510,
+    511
    ]
   },
   {
@@ -17441,28 +17389,24 @@
    "marks": [],
    "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 003 (III) - Administration/§ 01734a - Availability of excess fees.md",
    "printed_pages": [
-    510,
-    510
+    511,
+    511
    ]
   },
   {
    "id": "43_1735",
    "marks": [
     [
-     "I",
-     18,
-     [
-      [
-       168,
-       "[Page 511]"
-      ]
-     ]
+     "L",
+     50,
+     "[Page 512]",
+     true
     ]
    ],
    "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 003 (III) - Administration/§ 01735 - Forfeitures and deposits.md",
    "printed_pages": [
-    510,
-    511
+    511,
+    512
    ]
   },
   {
@@ -17470,37 +17414,33 @@
    "marks": [],
    "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 003 (III) - Administration/§ 01736 - Working capital fund.md",
    "printed_pages": [
-    511,
-    511
+    512,
+    512
    ]
   },
   {
    "id": "43_1736a",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       516,
-       "[Page 512]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 003 (III) - Administration/§ 01736a - Revolving fund derived from disposal of salvage timber.md",
    "printed_pages": [
-    511,
+    512,
     512
    ]
   },
   {
    "id": "43_1737",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     14,
+     "[Page 513]",
+     true
+    ]
+   ],
    "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 003 (III) - Administration/§ 01737 - Implementation provisions.md",
    "printed_pages": [
     512,
-    512
+    513
    ]
   },
   {
@@ -17508,28 +17448,24 @@
    "marks": [],
    "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 003 (III) - Administration/§ 01738 - Contracts for surveys and resource protection; renewals; funding requirements.md",
    "printed_pages": [
-    512,
-    512
+    513,
+    513
    ]
   },
   {
    "id": "43_1739",
    "marks": [
     [
-     "I",
-     4,
-     [
-      [
-       495,
-       "[Page 513]"
-      ]
-     ]
+     "L",
+     30,
+     "[Page 514]",
+     true
     ]
    ],
    "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 003 (III) - Administration/§ 01739 - Advisory councils.md",
    "printed_pages": [
-    512,
-    513
+    513,
+    514
    ]
   },
   {
@@ -17537,27 +17473,16 @@
    "marks": [],
    "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 003 (III) - Administration/§ 01740 - Rules and regulations.md",
    "printed_pages": [
-    513,
-    513
+    514,
+    514
    ]
   },
   {
    "id": "43_1741",
-   "marks": [
-    [
-     "I",
-     22,
-     [
-      [
-       270,
-       "[Page 514]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 003 (III) - Administration/§ 01741 - Annual reports.md",
    "printed_pages": [
-    513,
+    514,
     514
    ]
   },
@@ -17572,40 +17497,51 @@
   },
   {
    "id": "43_1743",
-   "marks": [],
-   "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 003 (III) - Administration/§ 01743 - Disclosure of financial interests by officers or employees.md",
-   "printed_pages": [
-    514,
-    514
-   ]
-  },
-  {
-   "id": "43_1744",
    "marks": [
     [
      "I",
-     12,
+     20,
      [
       [
-       615,
+       229,
        "[Page 515]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 003 (III) - Administration/§ 01744 - Recordation of mining claims.md",
+   "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 003 (III) - Administration/§ 01743 - Disclosure of financial interests by officers or employees.md",
    "printed_pages": [
     514,
     515
    ]
   },
   {
-   "id": "43_1745",
+   "id": "43_1744",
    "marks": [],
-   "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 003 (III) - Administration/§ 01745 - Disclaimer of interest in lands.md",
+   "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 003 (III) - Administration/§ 01744 - Recordation of mining claims.md",
    "printed_pages": [
     515,
     515
+   ]
+  },
+  {
+   "id": "43_1745",
+   "marks": [
+    [
+     "I",
+     8,
+     [
+      [
+       140,
+       "[Page 516]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 003 (III) - Administration/§ 01745 - Disclaimer of interest in lands.md",
+   "printed_pages": [
+    515,
+    516
    ]
   },
   {
@@ -17613,43 +17549,32 @@
    "marks": [],
    "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 003 (III) - Administration/§ 01746 - Correction of conveyance documents.md",
    "printed_pages": [
-    515,
-    515
+    516,
+    516
    ]
   },
   {
    "id": "43_1747",
    "marks": [
     [
-     "I",
-     10,
-     [
-      [
-       145,
-       "[Page 516]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 003 (III) - Administration/§ 01747 - Loans to States and political subdivisions; purposes; amounts; allocation; terms and conditions; interest rate; security; limitations….md",
-   "printed_pages": [
-    515,
-    516
-   ]
-  },
-  {
-   "id": "43_1748",
-   "marks": [
-    [
      "L",
-     20,
+     24,
      "[Page 517]",
      true
     ]
    ],
-   "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 003 (III) - Administration/§ 01748 - Funding requirements.md",
+   "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 003 (III) - Administration/§ 01747 - Loans to States and political subdivisions; purposes; amounts; allocation; terms and conditions; interest rate; security; limitations….md",
    "printed_pages": [
     516,
+    517
+   ]
+  },
+  {
+   "id": "43_1748",
+   "marks": [],
+   "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 003 (III) - Administration/§ 01748 - Funding requirements.md",
+   "printed_pages": [
+    517,
     517
    ]
   },
@@ -17657,21 +17582,17 @@
    "id": "43_1748a",
    "marks": [
     [
-     "I",
-     92,
-     [
-      [
-       134,
-       "[Page 518]"
-      ]
-     ]
+     "L",
+     32,
+     "[Page 518]",
+     true
     ],
     [
      "I",
-     180,
+     120,
      [
       [
-       87,
+       220,
        "[Page 519]"
       ]
      ]
@@ -17685,11 +17606,18 @@
   },
   {
    "id": "43_1748b",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     22,
+     "[Page 520]",
+     true
+    ]
+   ],
    "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 003 (III) - Administration/§ 01748b - Cohesive wildfire management strategy.md",
    "printed_pages": [
     519,
-    519
+    520
    ]
   },
   {
@@ -17697,58 +17625,46 @@
    "marks": [],
    "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 004 (IV) - Range Management/README.md",
    "printed_pages": [
-    519,
-    519
+    520,
+    520
    ]
   },
   {
    "id": "43_1751",
    "marks": [
     [
-     "I",
-     4,
-     [
-      [
-       1598,
-       "[Page 520]"
-      ]
-     ]
+     "L",
+     24,
+     "[Page 521]",
+     true
     ]
    ],
    "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 004 (IV) - Range Management/§ 01751 - Grazing fees; feasibility study; contents; submission of report; annual distribution and use of range betterment funds; nature of….md",
    "printed_pages": [
-    519,
-    520
+    520,
+    521
    ]
   },
   {
    "id": "43_1752",
    "marks": [
     [
-     "I",
-     22,
-     [
-      [
-       496,
-       "[Page 521]"
-      ]
-     ]
+     "L",
+     28,
+     "[Page 522]",
+     true
     ],
     [
-     "I",
-     58,
-     [
-      [
-       219,
-       "[Page 522]"
-      ]
-     ]
+     "L",
+     84,
+     "[Page 523]",
+     true
     ]
    ],
    "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 004 (IV) - Range Management/§ 01752 - Grazing leases and permits.md",
    "printed_pages": [
-    520,
-    522
+    521,
+    523
    ]
   },
   {
@@ -17756,8 +17672,8 @@
    "marks": [],
    "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 004 (IV) - Range Management/§ 01753 - Grazing advisory boards.md",
    "printed_pages": [
-    522,
-    522
+    523,
+    523
    ]
   },
   {
@@ -17765,72 +17681,62 @@
    "marks": [],
    "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 005 (V) - Rights-of-Way/README.md",
    "printed_pages": [
-    522,
-    522
+    523,
+    523
    ]
   },
   {
    "id": "43_1761",
    "marks": [
     [
-     "I",
-     8,
-     [
-      [
-       98,
-       "[Page 523]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     48,
-     [
-      [
-       284,
-       "[Page 524]"
-      ]
-     ]
-    ],
-    [
      "L",
-     90,
-     "[Page 525]",
+     24,
+     "[Page 524]",
      true
+    ],
+    [
+     "I",
+     60,
+     [
+      [
+       238,
+       "[Page 525]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 005 (V) - Rights-of-Way/§ 01761 - Grant, issue, or renewal of rights-of-way.md",
    "printed_pages": [
-    522,
+    523,
     525
    ]
   },
   {
    "id": "43_1762",
-   "marks": [],
-   "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 005 (V) - Rights-of-Way/§ 01762 - Roads.md",
-   "printed_pages": [
-    525,
-    525
-   ]
-  },
-  {
-   "id": "43_1763",
    "marks": [
     [
      "I",
      12,
      [
       [
-       759,
+       139,
        "[Page 526]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 005 (V) - Rights-of-Way/§ 01763 - Right-of-way corridors; criteria and procedures applicable for designation.md",
+   "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 005 (V) - Rights-of-Way/§ 01762 - Roads.md",
    "printed_pages": [
     525,
+    526
+   ]
+  },
+  {
+   "id": "43_1763",
+   "marks": [],
+   "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 005 (V) - Rights-of-Way/§ 01763 - Right-of-way corridors; criteria and procedures applicable for designation.md",
+   "printed_pages": [
+    526,
     526
    ]
   },
@@ -17839,11 +17745,21 @@
    "marks": [
     [
      "I",
-     28,
+     12,
      [
       [
-       1948,
+       89,
        "[Page 527]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     38,
+     [
+      [
+       230,
+       "[Page 528]"
       ]
      ]
     ]
@@ -17851,36 +17767,36 @@
    "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 005 (V) - Rights-of-Way/§ 01764 - General requirements.md",
    "printed_pages": [
     526,
-    527
+    528
    ]
   },
   {
    "id": "43_1765",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       370,
-       "[Page 528]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 005 (V) - Rights-of-Way/§ 01765 - Terms and conditions.md",
    "printed_pages": [
-    527,
+    528,
     528
    ]
   },
   {
    "id": "43_1766",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       610,
+       "[Page 529]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 005 (V) - Rights-of-Way/§ 01766 - Suspension or termination; grounds; procedures applicable.md",
    "printed_pages": [
     528,
-    528
+    529
    ]
   },
   {
@@ -17888,23 +17804,16 @@
    "marks": [],
    "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 005 (V) - Rights-of-Way/§ 01767 - Rights-of-way for Federal departments and agencies.md",
    "printed_pages": [
-    528,
-    528
+    529,
+    529
    ]
   },
   {
    "id": "43_1768",
-   "marks": [
-    [
-     "L",
-     14,
-     "[Page 529]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 005 (V) - Rights-of-Way/§ 01768 - Conveyance of lands covered by right-of-way; terms and conditions.md",
    "printed_pages": [
-    528,
+    529,
     529
    ]
   },
@@ -17919,26 +17828,30 @@
   },
   {
    "id": "43_1770",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       286,
+       "[Page 530]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 005 (V) - Rights-of-Way/§ 01770 - Applicability of provisions to other Federal laws.md",
    "printed_pages": [
     529,
-    529
+    530
    ]
   },
   {
    "id": "43_1771",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 530]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 005 (V) - Rights-of-Way/§ 01771 - Coordination of applications.md",
    "printed_pages": [
-    529,
+    530,
     530
    ]
   },
@@ -17956,11 +17869,21 @@
    "marks": [
     [
      "I",
-     44,
+     16,
      [
       [
-       91,
+       361,
        "[Page 531]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     68,
+     [
+      [
+       110,
+       "[Page 532]"
       ]
      ]
     ]
@@ -17968,36 +17891,36 @@
    "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 006 (VI) - Designated Management Areas/§ 01781 - California Desert Conservation Area.md",
    "printed_pages": [
     530,
-    531
+    532
    ]
   },
   {
    "id": "43_1781a",
-   "marks": [
-    [
-     "I",
-     10,
-     [
-      [
-       108,
-       "[Page 532]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 006 (VI) - Designated Management Areas/§ 01781a - Acceptance of donation of certain existing permits or leases.md",
    "printed_pages": [
-    531,
+    532,
     532
    ]
   },
   {
    "id": "43_1782",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     8,
+     [
+      [
+       275,
+       "[Page 533]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 006 (VI) - Designated Management Areas/§ 01782 - Bureau of Land Management Wilderness Study.md",
    "printed_pages": [
     532,
-    532
+    533
    ]
   },
   {
@@ -18005,24 +17928,18 @@
    "marks": [
     [
      "I",
-     4,
+     22,
      [
       [
-       362,
-       "[Page 533]"
+       92,
+       "[Page 534]"
       ]
      ]
-    ],
-    [
-     "L",
-     40,
-     "[Page 534]",
-     true
     ]
    ],
    "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 006 (VI) - Designated Management Areas/§ 01783 - Yaquina Head Outstanding Natural Area.md",
    "printed_pages": [
-    532,
+    533,
     534
    ]
   },
@@ -18031,17 +17948,23 @@
    "marks": [
     [
      "L",
-     92,
+     10,
      "[Page 535]",
      true
     ],
     [
+     "L",
+     114,
+     "[Page 536]",
+     true
+    ],
+    [
      "I",
-     142,
+     160,
      [
       [
-       402,
-       "[Page 536]"
+       141,
+       "[Page 537]"
       ]
      ]
     ]
@@ -18049,7 +17972,7 @@
    "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 006 (VI) - Designated Management Areas/§ 01784 - Lands in Alaska; designation as wilderness; management by Bureau of Land Management pending Congressional action.md",
    "printed_pages": [
     534,
-    536
+    537
    ]
   },
   {
@@ -18057,29 +17980,25 @@
    "marks": [
     [
      "I",
-     4,
+     38,
      [
       [
-       186,
-       "[Page 537]"
+       179,
+       "[Page 538]"
       ]
      ]
     ],
     [
-     "I",
-     84,
-     [
-      [
-       105,
-       "[Page 538]"
-      ]
-     ]
+     "L",
+     106,
+     "[Page 539]",
+     true
     ]
    ],
    "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 006 (VI) - Designated Management Areas/§ 01785 - Fossil Forest Research Natural Area.md",
    "printed_pages": [
-    536,
-    538
+    537,
+    539
    ]
   },
   {
@@ -18087,29 +18006,29 @@
    "marks": [
     [
      "I",
-     46,
+     70,
      [
       [
-       360,
-       "[Page 539]"
+       93,
+       "[Page 540]"
       ]
      ]
     ],
     [
      "I",
-     100,
+     128,
      [
       [
-       141,
-       "[Page 540]"
+       320,
+       "[Page 541]"
       ]
      ]
     ]
    ],
    "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 006 (VI) - Designated Management Areas/§ 01786 - Piedras Blancas Historic Light Station.md",
    "printed_pages": [
-    538,
-    540
+    539,
+    541
    ]
   },
   {
@@ -18117,69 +18036,74 @@
    "marks": [
     [
      "L",
-     34,
-     "[Page 541]",
+     68,
+     "[Page 542]",
      true
     ],
     [
      "I",
-     134,
+     160,
      [
       [
-       95,
-       "[Page 542]"
+       139,
+       "[Page 543]"
       ]
      ]
-    ],
-    [
-     "L",
-     206,
-     "[Page 543]",
-     true
     ]
    ],
    "path": "Chapter 035 - Federal Land Policy and Management/Subchapter 006 (VI) - Designated Management Areas/§ 01787 - Jupiter Inlet Lighthouse Outstanding Natural Area.md",
    "printed_pages": [
-    540,
+    541,
     543
    ]
   },
   {
    "id": "43_-ch36",
-   "marks": [],
-   "path": "Chapter 036 - Outer Continental Shelf Resource Management/README.md",
-   "printed_pages": [
-    543,
-    543
-   ]
-  },
-  {
-   "id": "43_1801",
    "marks": [
     [
      "I",
-     30,
+     4,
      [
       [
-       93,
+       34,
        "[Page 544]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 036 - Outer Continental Shelf Resource Management/§ 01801 - Congressional findings.md",
+   "path": "Chapter 036 - Outer Continental Shelf Resource Management/README.md",
    "printed_pages": [
     543,
     544
    ]
   },
   {
-   "id": "43_1802",
+   "id": "43_1801",
    "marks": [],
-   "path": "Chapter 036 - Outer Continental Shelf Resource Management/§ 01802 - Congressional declaration of purposes.md",
+   "path": "Chapter 036 - Outer Continental Shelf Resource Management/§ 01801 - Congressional findings.md",
    "printed_pages": [
     544,
     544
+   ]
+  },
+  {
+   "id": "43_1802",
+   "marks": [
+    [
+     "I",
+     6,
+     [
+      [
+       142,
+       "[Page 545]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 036 - Outer Continental Shelf Resource Management/§ 01802 - Congressional declaration of purposes.md",
+   "printed_pages": [
+    544,
+    545
    ]
   },
   {
@@ -18187,24 +18111,28 @@
    "marks": [],
    "path": "Chapter 036 - Outer Continental Shelf Resource Management/Subchapter 001 (I) - Offshore Oil Spill Pollution Fund/README.md",
    "printed_pages": [
-    544,
-    544
+    545,
+    545
    ]
   },
   {
    "id": "43_1811_to_1824",
    "marks": [
     [
-     "L",
-     14,
-     "[Page 545]",
-     true
+     "I",
+     40,
+     [
+      [
+       98,
+       "[Page 546]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 036 - Outer Continental Shelf Resource Management/Subchapter 001 (I) - Offshore Oil Spill Pollution Fund/§ 01811 to 1824 - Repealed. Pub. L. 101–380, title II, §2004, Aug. 18, 1990, 104 Stat. 507.md",
    "printed_pages": [
-    544,
-    545
+    545,
+    546
    ]
   },
   {
@@ -18212,8 +18140,8 @@
    "marks": [],
    "path": "Chapter 036 - Outer Continental Shelf Resource Management/Subchapter 002 (II) - Fishermen's Contingency Fund/README.md",
    "printed_pages": [
-    545,
-    545
+    546,
+    546
    ]
   },
   {
@@ -18221,34 +18149,23 @@
    "marks": [
     [
      "L",
-     38,
-     "[Page 546]",
+     54,
+     "[Page 547]",
      true
     ]
    ],
    "path": "Chapter 036 - Outer Continental Shelf Resource Management/Subchapter 002 (II) - Fishermen's Contingency Fund/§ 01841 - Definitions.md",
    "printed_pages": [
-    545,
-    546
+    546,
+    547
    ]
   },
   {
    "id": "43_1842",
-   "marks": [
-    [
-     "I",
-     40,
-     [
-      [
-       337,
-       "[Page 547]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 036 - Outer Continental Shelf Resource Management/Subchapter 002 (II) - Fishermen's Contingency Fund/§ 01842 - Fishermen's Contingency Fund.md",
    "printed_pages": [
-    546,
+    547,
     547
    ]
   },
@@ -18257,7 +18174,7 @@
    "marks": [
     [
      "L",
-     44,
+     6,
      "[Page 548]",
      true
     ]
@@ -18270,11 +18187,22 @@
   },
   {
    "id": "43_1844",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     6,
+     [
+      [
+       137,
+       "[Page 549]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 036 - Outer Continental Shelf Resource Management/Subchapter 002 (II) - Fishermen's Contingency Fund/§ 01844 - Burden of proof.md",
    "printed_pages": [
     548,
-    548
+    549
    ]
   },
   {
@@ -18282,25 +18210,29 @@
    "marks": [
     [
      "I",
-     18,
+     36,
      [
       [
-       427,
-       "[Page 549]"
+       90,
+       "[Page 550]"
       ]
      ]
     ],
     [
-     "L",
-     72,
-     "[Page 550]",
-     true
+     "I",
+     84,
+     [
+      [
+       321,
+       "[Page 551]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 036 - Outer Continental Shelf Resource Management/Subchapter 002 (II) - Fishermen's Contingency Fund/§ 01845 - Claims procedure.md",
    "printed_pages": [
-    548,
-    550
+    549,
+    551
    ]
   },
   {
@@ -18308,8 +18240,8 @@
    "marks": [],
    "path": "Chapter 036 - Outer Continental Shelf Resource Management/Subchapter 002 (II) - Fishermen's Contingency Fund/§ 01846 - Repealed. Pub. L. 104–66, title I, §1021(f), Dec. 21, 1995, 109 Stat. 713.md",
    "printed_pages": [
-    550,
-    550
+    551,
+    551
    ]
   },
   {
@@ -18317,8 +18249,8 @@
    "marks": [],
    "path": "Chapter 036 - Outer Continental Shelf Resource Management/Subchapter 002 (II) - Fishermen's Contingency Fund/§ 01847 - Repealed. Pub. L. 97–212, §6(a), June 30, 1982, 96 Stat. 147.md",
    "printed_pages": [
-    550,
-    550
+    551,
+    551
    ]
   },
   {
@@ -18326,8 +18258,8 @@
    "marks": [],
    "path": "Chapter 036 - Outer Continental Shelf Resource Management/Subchapter 003 (III) - Miscellaneous Provisions/README.md",
    "printed_pages": [
-    550,
-    550
+    551,
+    551
    ]
   },
   {
@@ -18335,28 +18267,24 @@
    "marks": [],
    "path": "Chapter 036 - Outer Continental Shelf Resource Management/Subchapter 003 (III) - Miscellaneous Provisions/§ 01861 - Repealed. Pub. L. 99–367, §2(b), July 31, 1986, 100 Stat. 774.md",
    "printed_pages": [
-    550,
-    550
+    551,
+    551
    ]
   },
   {
    "id": "43_1862",
    "marks": [
     [
-     "I",
-     4,
-     [
-      [
-       92,
-       "[Page 551]"
-      ]
-     ]
+     "L",
+     20,
+     "[Page 552]",
+     true
     ]
    ],
    "path": "Chapter 036 - Outer Continental Shelf Resource Management/Subchapter 003 (III) - Miscellaneous Provisions/§ 01862 - Natural gas distribution.md",
    "printed_pages": [
-    550,
-    551
+    551,
+    552
    ]
   },
   {
@@ -18364,8 +18292,8 @@
    "marks": [],
    "path": "Chapter 036 - Outer Continental Shelf Resource Management/Subchapter 003 (III) - Miscellaneous Provisions/§ 01863 - Unlawful employment practices; regulations.md",
    "printed_pages": [
-    551,
-    551
+    552,
+    552
    ]
   },
   {
@@ -18373,19 +18301,19 @@
    "marks": [
     [
      "I",
-     10,
+     36,
      [
       [
-       206,
-       "[Page 552]"
+       272,
+       "[Page 553]"
       ]
      ]
     ]
    ],
    "path": "Chapter 036 - Outer Continental Shelf Resource Management/Subchapter 003 (III) - Miscellaneous Provisions/§ 01864 - Disclosure of financial interests by officers and employees of Department of the Interior.md",
    "printed_pages": [
-    551,
-    552
+    552,
+    553
    ]
   },
   {
@@ -18393,110 +18321,103 @@
    "marks": [],
    "path": "Chapter 036 - Outer Continental Shelf Resource Management/Subchapter 003 (III) - Miscellaneous Provisions/§ 01865 - Investigation of reserves of oil and gas in Outer Continental Shelf.md",
    "printed_pages": [
-    552,
-    552
+    553,
+    553
    ]
   },
   {
    "id": "43_1866",
+   "marks": [],
+   "path": "Chapter 036 - Outer Continental Shelf Resource Management/Subchapter 003 (III) - Miscellaneous Provisions/§ 01866 - Relationship to existing law.md",
+   "printed_pages": [
+    553,
+    553
+   ]
+  },
+  {
+   "id": "43_-ch37",
+   "marks": [
+    [
+     "I",
+     11,
+     [
+      [
+       44,
+       "[Page 554]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 037 - Public Rangelands Improvement/README.md",
+   "printed_pages": [
+    553,
+    554
+   ]
+  },
+  {
+   "id": "43_1901",
+   "marks": [],
+   "path": "Chapter 037 - Public Rangelands Improvement/§ 01901 - Congressional findings and declaration of policy.md",
+   "printed_pages": [
+    554,
+    554
+   ]
+  },
+  {
+   "id": "43_1902",
    "marks": [
     [
      "I",
      10,
      [
       [
-       555,
-       "[Page 553]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Chapter 036 - Outer Continental Shelf Resource Management/Subchapter 003 (III) - Miscellaneous Provisions/§ 01866 - Relationship to existing law.md",
-   "printed_pages": [
-    552,
-    553
-   ]
-  },
-  {
-   "id": "43_-ch37",
-   "marks": [],
-   "path": "Chapter 037 - Public Rangelands Improvement/README.md",
-   "printed_pages": [
-    553,
-    553
-   ]
-  },
-  {
-   "id": "43_1901",
-   "marks": [
-    [
-     "L",
-     28,
-     "[Page 554]",
-     true
-    ]
-   ],
-   "path": "Chapter 037 - Public Rangelands Improvement/§ 01901 - Congressional findings and declaration of policy.md",
-   "printed_pages": [
-    553,
-    554
-   ]
-  },
-  {
-   "id": "43_1902",
-   "marks": [],
-   "path": "Chapter 037 - Public Rangelands Improvement/§ 01902 - Definitions.md",
-   "printed_pages": [
-    554,
-    554
-   ]
-  },
-  {
-   "id": "43_1903",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       834,
+       229,
        "[Page 555]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 037 - Public Rangelands Improvement/§ 01903 - Rangelands inventory and management; public availability.md",
+   "path": "Chapter 037 - Public Rangelands Improvement/§ 01902 - Definitions.md",
    "printed_pages": [
     554,
     555
    ]
   },
   {
-   "id": "43_1904",
+   "id": "43_1903",
    "marks": [],
-   "path": "Chapter 037 - Public Rangelands Improvement/§ 01904 - Range improvement funding.md",
+   "path": "Chapter 037 - Public Rangelands Improvement/§ 01903 - Rangelands inventory and management; public availability.md",
    "printed_pages": [
     555,
     555
    ]
   },
   {
-   "id": "43_1905",
+   "id": "43_1904",
    "marks": [
     [
      "I",
      12,
      [
       [
-       774,
+       88,
        "[Page 556]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 037 - Public Rangelands Improvement/§ 01905 - Grazing fees; economic value of use of land; fair market value components; annual percentage change limitation.md",
+   "path": "Chapter 037 - Public Rangelands Improvement/§ 01904 - Range improvement funding.md",
    "printed_pages": [
     555,
+    556
+   ]
+  },
+  {
+   "id": "43_1905",
+   "marks": [],
+   "path": "Chapter 037 - Public Rangelands Improvement/§ 01905 - Grazing fees; economic value of use of land; fair market value components; annual percentage change limitation.md",
+   "printed_pages": [
+    556,
     556
    ]
   },
@@ -18511,11 +18432,18 @@
   },
   {
    "id": "43_1907",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 557]",
+     true
+    ]
+   ],
    "path": "Chapter 037 - Public Rangelands Improvement/§ 01907 - National Grasslands; exemptions.md",
    "printed_pages": [
     556,
-    556
+    557
    ]
   },
   {
@@ -18523,8 +18451,8 @@
    "marks": [],
    "path": "Chapter 037 - Public Rangelands Improvement/§ 01908 - Experimental stewardship program.md",
    "printed_pages": [
-    556,
-    556
+    557,
+    557
    ]
   },
   {
@@ -18532,27 +18460,16 @@
    "marks": [],
    "path": "Chapter 038 - Crude Oil Transportation Systems/README.md",
    "printed_pages": [
-    556,
-    556
+    557,
+    557
    ]
   },
   {
    "id": "43_2001",
-   "marks": [
-    [
-     "I",
-     16,
-     [
-      [
-       232,
-       "[Page 557]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 038 - Crude Oil Transportation Systems/§ 02001 - Findings.md",
    "printed_pages": [
-    556,
+    557,
     557
    ]
   },
@@ -18567,11 +18484,22 @@
   },
   {
    "id": "43_2003",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     6,
+     [
+      [
+       91,
+       "[Page 558]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 038 - Crude Oil Transportation Systems/§ 02003 - Definitions.md",
    "printed_pages": [
     557,
-    557
+    558
    ]
   },
   {
@@ -18579,43 +18507,36 @@
    "marks": [],
    "path": "Chapter 038 - Crude Oil Transportation Systems/§ 02004 - Applications for approval of proposed crude oil transportation systems.md",
    "printed_pages": [
-    557,
-    557
+    558,
+    558
    ]
   },
   {
    "id": "43_2005",
    "marks": [
     [
-     "L",
-     16,
-     "[Page 558]",
-     true
-    ]
-   ],
-   "path": "Chapter 038 - Crude Oil Transportation Systems/§ 02005 - Review schedule.md",
-   "printed_pages": [
-    557,
-    558
-   ]
-  },
-  {
-   "id": "43_2006",
-   "marks": [
-    [
      "I",
-     12,
+     38,
      [
       [
-       180,
+       92,
        "[Page 559]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 038 - Crude Oil Transportation Systems/§ 02006 - Environmental impact statements.md",
+   "path": "Chapter 038 - Crude Oil Transportation Systems/§ 02005 - Review schedule.md",
    "printed_pages": [
     558,
+    559
+   ]
+  },
+  {
+   "id": "43_2006",
+   "marks": [],
+   "path": "Chapter 038 - Crude Oil Transportation Systems/§ 02006 - Environmental impact statements.md",
+   "printed_pages": [
+    559,
     559
    ]
   },
@@ -18623,10 +18544,14 @@
    "id": "43_2007",
    "marks": [
     [
-     "L",
-     56,
-     "[Page 560]",
-     true
+     "I",
+     4,
+     [
+      [
+       1458,
+       "[Page 560]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 038 - Crude Oil Transportation Systems/§ 02007 - Decision of President.md",
@@ -18637,11 +18562,18 @@
   },
   {
    "id": "43_2008",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     16,
+     "[Page 561]",
+     true
+    ]
+   ],
    "path": "Chapter 038 - Crude Oil Transportation Systems/§ 02008 - Procedures for waiver of Federal law.md",
    "printed_pages": [
     560,
-    560
+    561
    ]
   },
   {
@@ -18649,8 +18581,8 @@
    "marks": [],
    "path": "Chapter 038 - Crude Oil Transportation Systems/§ 02009 - Expedited procedures for issuance of permits enforcement of rights-of-way.md",
    "printed_pages": [
-    560,
-    560
+    561,
+    561
    ]
   },
   {
@@ -18658,68 +18590,21 @@
    "marks": [],
    "path": "Chapter 038 - Crude Oil Transportation Systems/§ 02010 - Negotiations with Government of Canada.md",
    "printed_pages": [
-    560,
-    560
+    561,
+    561
    ]
   },
   {
    "id": "43_2011",
-   "marks": [
-    [
-     "I",
-     8,
-     [
-      [
-       564,
-       "[Page 561]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 038 - Crude Oil Transportation Systems/§ 02011 - Judicial review.md",
    "printed_pages": [
-    560,
+    561,
     561
    ]
   },
   {
    "id": "43_2012",
-   "marks": [],
-   "path": "Chapter 038 - Crude Oil Transportation Systems/§ 02012 - Authorization for appropriation.md",
-   "printed_pages": [
-    561,
-    561
-   ]
-  },
-  {
-   "id": "43_-ch39",
-   "marks": [],
-   "path": "Chapter 039 - Abandoned Shipwrecks/README.md",
-   "printed_pages": [
-    561,
-    561
-   ]
-  },
-  {
-   "id": "43_2101",
-   "marks": [],
-   "path": "Chapter 039 - Abandoned Shipwrecks/§ 02101 - Findings.md",
-   "printed_pages": [
-    561,
-    561
-   ]
-  },
-  {
-   "id": "43_2102",
-   "marks": [],
-   "path": "Chapter 039 - Abandoned Shipwrecks/§ 02102 - Definitions.md",
-   "printed_pages": [
-    561,
-    561
-   ]
-  },
-  {
-   "id": "43_2103",
    "marks": [
     [
      "L",
@@ -18728,19 +18613,66 @@
      true
     ]
    ],
-   "path": "Chapter 039 - Abandoned Shipwrecks/§ 02103 - Rights of access.md",
+   "path": "Chapter 038 - Crude Oil Transportation Systems/§ 02012 - Authorization for appropriation.md",
    "printed_pages": [
     561,
     562
    ]
   },
   {
-   "id": "43_2104",
+   "id": "43_-ch39",
    "marks": [],
-   "path": "Chapter 039 - Abandoned Shipwrecks/§ 02104 - Preparation of guidelines.md",
+   "path": "Chapter 039 - Abandoned Shipwrecks/README.md",
    "printed_pages": [
     562,
     562
+   ]
+  },
+  {
+   "id": "43_2101",
+   "marks": [],
+   "path": "Chapter 039 - Abandoned Shipwrecks/§ 02101 - Findings.md",
+   "printed_pages": [
+    562,
+    562
+   ]
+  },
+  {
+   "id": "43_2102",
+   "marks": [],
+   "path": "Chapter 039 - Abandoned Shipwrecks/§ 02102 - Definitions.md",
+   "printed_pages": [
+    562,
+    562
+   ]
+  },
+  {
+   "id": "43_2103",
+   "marks": [],
+   "path": "Chapter 039 - Abandoned Shipwrecks/§ 02103 - Rights of access.md",
+   "printed_pages": [
+    562,
+    562
+   ]
+  },
+  {
+   "id": "43_2104",
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       327,
+       "[Page 563]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 039 - Abandoned Shipwrecks/§ 02104 - Preparation of guidelines.md",
+   "printed_pages": [
+    562,
+    563
    ]
   },
   {
@@ -18748,23 +18680,16 @@
    "marks": [],
    "path": "Chapter 039 - Abandoned Shipwrecks/§ 02105 - Rights of ownership.md",
    "printed_pages": [
-    562,
-    562
+    563,
+    563
    ]
   },
   {
    "id": "43_2106",
-   "marks": [
-    [
-     "L",
-     10,
-     "[Page 563]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 039 - Abandoned Shipwrecks/§ 02106 - Relationship to other laws.md",
    "printed_pages": [
-    562,
+    563,
     563
    ]
   },
@@ -18779,11 +18704,18 @@
   },
   {
    "id": "43_2201",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     12,
+     "[Page 564]",
+     true
+    ]
+   ],
    "path": "Chapter 040 - Reclamation States Emergency Drought Relief/§ 02201 - Definitions.md",
    "printed_pages": [
     563,
-    563
+    564
    ]
   },
   {
@@ -18791,27 +18723,16 @@
    "marks": [],
    "path": "Chapter 040 - Reclamation States Emergency Drought Relief/Subchapter 001 (I) - Drought Program/README.md",
    "printed_pages": [
-    563,
-    563
+    564,
+    564
    ]
   },
   {
    "id": "43_2211",
-   "marks": [
-    [
-     "I",
-     32,
-     [
-      [
-       297,
-       "[Page 564]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 040 - Reclamation States Emergency Drought Relief/Subchapter 001 (I) - Drought Program/§ 02211 - Assistance during drought; water purchases.md",
    "printed_pages": [
-    563,
+    564,
     564
    ]
   },
@@ -18820,10 +18741,10 @@
    "marks": [
     [
      "I",
-     36,
+     14,
      [
       [
-       878,
+       272,
        "[Page 565]"
       ]
      ]
@@ -18837,26 +18758,30 @@
   },
   {
    "id": "43_2213",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       646,
+       "[Page 566]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 040 - Reclamation States Emergency Drought Relief/Subchapter 001 (I) - Drought Program/§ 02213 - Loans.md",
    "printed_pages": [
     565,
-    565
+    566
    ]
   },
   {
    "id": "43_2214",
-   "marks": [
-    [
-     "L",
-     26,
-     "[Page 566]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 040 - Reclamation States Emergency Drought Relief/Subchapter 001 (I) - Drought Program/§ 02214 - Applicable period of drought program.md",
    "printed_pages": [
-    565,
+    566,
     566
    ]
   },
@@ -18889,26 +18814,30 @@
   },
   {
    "id": "43_2222",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       429,
+       "[Page 567]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 040 - Reclamation States Emergency Drought Relief/Subchapter 002 (II) - Drought Contingency Planning/§ 02222 - Drought contingency plans.md",
    "printed_pages": [
     566,
-    566
+    567
    ]
   },
   {
    "id": "43_2223",
-   "marks": [
-    [
-     "L",
-     48,
-     "[Page 567]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 040 - Reclamation States Emergency Drought Relief/Subchapter 002 (II) - Drought Contingency Planning/§ 02223 - Plan elements.md",
    "printed_pages": [
-    566,
+    567,
     567
    ]
   },
@@ -18932,11 +18861,22 @@
   },
   {
    "id": "43_2226",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     8,
+     [
+      [
+       312,
+       "[Page 568]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 040 - Reclamation States Emergency Drought Relief/Subchapter 002 (II) - Drought Contingency Planning/§ 02226 - Technical assistance and transfer of precipitation management technology.md",
    "printed_pages": [
     567,
-    567
+    568
    ]
   },
   {
@@ -18944,8 +18884,8 @@
    "marks": [],
    "path": "Chapter 040 - Reclamation States Emergency Drought Relief/Subchapter 003 (III) - General and Miscellaneous Provisions/README.md",
    "printed_pages": [
-    567,
-    567
+    568,
+    568
    ]
   },
   {
@@ -18953,8 +18893,8 @@
    "marks": [],
    "path": "Chapter 040 - Reclamation States Emergency Drought Relief/Subchapter 003 (III) - General and Miscellaneous Provisions/§ 02241 - Authorization of appropriations.md",
    "printed_pages": [
-    567,
-    567
+    568,
+    568
    ]
   },
   {
@@ -18962,23 +18902,16 @@
    "marks": [],
    "path": "Chapter 040 - Reclamation States Emergency Drought Relief/Subchapter 003 (III) - General and Miscellaneous Provisions/§ 02242 - Authority of Secretary.md",
    "printed_pages": [
-    567,
-    567
+    568,
+    568
    ]
   },
   {
    "id": "43_2243",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 568]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 040 - Reclamation States Emergency Drought Relief/Subchapter 003 (III) - General and Miscellaneous Provisions/§ 02243 - Temperature control at Shasta Dam, Central Valley Project.md",
    "printed_pages": [
-    567,
+    568,
     568
    ]
   },
@@ -19002,11 +18935,18 @@
   },
   {
    "id": "43_2246",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 569]",
+     true
+    ]
+   ],
    "path": "Chapter 040 - Reclamation States Emergency Drought Relief/Subchapter 003 (III) - General and Miscellaneous Provisions/§ 02246 - Report.md",
    "printed_pages": [
     568,
-    568
+    569
    ]
   },
   {
@@ -19014,8 +18954,8 @@
    "marks": [],
    "path": "Chapter 040 - Reclamation States Emergency Drought Relief/Subchapter 003 (III) - General and Miscellaneous Provisions/§ 02247 - Federal Reclamation laws.md",
    "printed_pages": [
-    568,
-    568
+    569,
+    569
    ]
   },
   {
@@ -19023,106 +18963,95 @@
    "marks": [],
    "path": "Chapter 041 - Federal Land Transaction Facilitation/README.md",
    "printed_pages": [
-    568,
-    568
+    569,
+    569
    ]
   },
   {
    "id": "43_2301",
-   "marks": [
-    [
-     "I",
-     38,
-     [
-      [
-       97,
-       "[Page 569]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 041 - Federal Land Transaction Facilitation/§ 02301 - Findings.md",
    "printed_pages": [
-    568,
+    569,
     569
    ]
   },
   {
    "id": "43_2302",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     12,
+     [
+      [
+       221,
+       "[Page 570]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 041 - Federal Land Transaction Facilitation/§ 02302 - Definitions.md",
    "printed_pages": [
     569,
-    569
+    570
    ]
   },
   {
    "id": "43_2303",
-   "marks": [
-    [
-     "L",
-     26,
-     "[Page 570]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 041 - Federal Land Transaction Facilitation/§ 02303 - Identification of inholdings.md",
    "printed_pages": [
-    569,
+    570,
     570
    ]
   },
   {
    "id": "43_2304",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     26,
+     "[Page 571]",
+     true
+    ]
+   ],
    "path": "Chapter 041 - Federal Land Transaction Facilitation/§ 02304 - Disposal of public land.md",
    "printed_pages": [
     570,
-    570
+    571
    ]
   },
   {
    "id": "43_2305",
-   "marks": [
-    [
-     "I",
-     62,
-     [
-      [
-       92,
-       "[Page 571]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 041 - Federal Land Transaction Facilitation/§ 02305 - Federal Land Disposal Account.md",
    "printed_pages": [
-    570,
+    571,
     571
    ]
   },
   {
    "id": "43_2306",
-   "marks": [],
-   "path": "Chapter 041 - Federal Land Transaction Facilitation/§ 02306 - Special provisions.md",
-   "printed_pages": [
-    571,
-    571
-   ]
-  },
-  {
-   "id": "43_-ch42",
    "marks": [
     [
      "L",
-     39,
+     10,
      "[Page 572]",
      true
     ]
    ],
-   "path": "Chapter 042 - Rural Water Supply/README.md",
+   "path": "Chapter 041 - Federal Land Transaction Facilitation/§ 02306 - Special provisions.md",
    "printed_pages": [
     571,
+    572
+   ]
+  },
+  {
+   "id": "43_-ch42",
+   "marks": [],
+   "path": "Chapter 042 - Rural Water Supply/README.md",
+   "printed_pages": [
+    572,
     572
    ]
   },
@@ -19139,14 +19068,10 @@
    "id": "43_2401",
    "marks": [
     [
-     "I",
-     108,
-     [
-      [
-       115,
-       "[Page 573]"
-      ]
-     ]
+     "L",
+     34,
+     "[Page 573]",
+     true
     ]
    ],
    "path": "Chapter 042 - Rural Water Supply/Subchapter 001 (I) - Reclamation Rural Water Supply/§ 02401 - Definitions.md",
@@ -19157,26 +19082,26 @@
   },
   {
    "id": "43_2402",
-   "marks": [],
-   "path": "Chapter 042 - Rural Water Supply/Subchapter 001 (I) - Reclamation Rural Water Supply/§ 02402 - Rural water supply program.md",
-   "printed_pages": [
-    573,
-    573
-   ]
-  },
-  {
-   "id": "43_2403",
    "marks": [
     [
      "L",
-     28,
+     34,
      "[Page 574]",
      true
     ]
    ],
-   "path": "Chapter 042 - Rural Water Supply/Subchapter 001 (I) - Reclamation Rural Water Supply/§ 02403 - Rural water programs assessment.md",
+   "path": "Chapter 042 - Rural Water Supply/Subchapter 001 (I) - Reclamation Rural Water Supply/§ 02402 - Rural water supply program.md",
    "printed_pages": [
     573,
+    574
+   ]
+  },
+  {
+   "id": "43_2403",
+   "marks": [],
+   "path": "Chapter 042 - Rural Water Supply/Subchapter 001 (I) - Reclamation Rural Water Supply/§ 02403 - Rural water programs assessment.md",
+   "printed_pages": [
+    574,
     574
    ]
   },
@@ -19185,15 +19110,21 @@
    "marks": [
     [
      "L",
-     88,
+     32,
      "[Page 575]",
+     true
+    ],
+    [
+     "L",
+     124,
+     "[Page 576]",
      true
     ]
    ],
    "path": "Chapter 042 - Rural Water Supply/Subchapter 001 (I) - Reclamation Rural Water Supply/§ 02404 - Appraisal investigations.md",
    "printed_pages": [
     574,
-    575
+    576
    ]
   },
   {
@@ -19201,25 +19132,21 @@
    "marks": [
     [
      "L",
-     48,
-     "[Page 576]",
+     74,
+     "[Page 577]",
      true
     ],
     [
-     "I",
-     132,
-     [
-      [
-       96,
-       "[Page 577]"
-      ]
-     ]
+     "L",
+     168,
+     "[Page 578]",
+     true
     ]
    ],
    "path": "Chapter 042 - Rural Water Supply/Subchapter 001 (I) - Reclamation Rural Water Supply/§ 02405 - Feasibility studies.md",
    "printed_pages": [
-    575,
-    577
+    576,
+    578
    ]
   },
   {
@@ -19227,27 +19154,16 @@
    "marks": [],
    "path": "Chapter 042 - Rural Water Supply/Subchapter 001 (I) - Reclamation Rural Water Supply/§ 02406 - Miscellaneous.md",
    "printed_pages": [
-    577,
-    577
+    578,
+    578
    ]
   },
   {
    "id": "43_2407",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       229,
-       "[Page 578]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 042 - Rural Water Supply/Subchapter 001 (I) - Reclamation Rural Water Supply/§ 02407 - Reports.md",
    "printed_pages": [
-    577,
+    578,
     578
    ]
   },
@@ -19280,65 +19196,72 @@
   },
   {
    "id": "43_2421",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     8,
+     "[Page 579]",
+     true
+    ]
+   ],
    "path": "Chapter 042 - Rural Water Supply/Subchapter 002 (II) - Twenty-First Century Water Works/§ 02421 - Definitions.md",
    "printed_pages": [
     578,
-    578
+    579
    ]
   },
   {
    "id": "43_2422",
-   "marks": [
-    [
-     "I",
-     16,
-     [
-      [
-       96,
-       "[Page 579]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 042 - Rural Water Supply/Subchapter 002 (II) - Twenty-First Century Water Works/§ 02422 - Project eligibility.md",
    "printed_pages": [
-    578,
+    579,
     579
    ]
   },
   {
    "id": "43_2423",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     14,
+     [
+      [
+       92,
+       "[Page 580]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 042 - Rural Water Supply/Subchapter 002 (II) - Twenty-First Century Water Works/§ 02423 - Loan guarantees.md",
    "printed_pages": [
     579,
-    579
+    580
    ]
   },
   {
    "id": "43_2424",
-   "marks": [
-    [
-     "L",
-     36,
-     "[Page 580]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 042 - Rural Water Supply/Subchapter 002 (II) - Twenty-First Century Water Works/§ 02424 - Defaults.md",
    "printed_pages": [
-    579,
+    580,
     580
    ]
   },
   {
    "id": "43_2425",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     12,
+     "[Page 581]",
+     true
+    ]
+   ],
    "path": "Chapter 042 - Rural Water Supply/Subchapter 002 (II) - Twenty-First Century Water Works/§ 02425 - Operations, maintenance, and replacement costs.md",
    "printed_pages": [
     580,
-    580
+    581
    ]
   },
   {
@@ -19346,8 +19269,8 @@
    "marks": [],
    "path": "Chapter 042 - Rural Water Supply/Subchapter 002 (II) - Twenty-First Century Water Works/§ 02426 - Title to newly constructed facilities.md",
    "printed_pages": [
-    580,
-    580
+    581,
+    581
    ]
   },
   {
@@ -19355,8 +19278,8 @@
    "marks": [],
    "path": "Chapter 042 - Rural Water Supply/Subchapter 002 (II) - Twenty-First Century Water Works/§ 02427 - Water rights.md",
    "printed_pages": [
-    580,
-    580
+    581,
+    581
    ]
   },
   {
@@ -19364,8 +19287,8 @@
    "marks": [],
    "path": "Chapter 042 - Rural Water Supply/Subchapter 002 (II) - Twenty-First Century Water Works/§ 02428 - Interagency coordination and cooperation.md",
    "printed_pages": [
-    580,
-    580
+    581,
+    581
    ]
   },
   {
@@ -19373,8 +19296,8 @@
    "marks": [],
    "path": "Chapter 042 - Rural Water Supply/Subchapter 002 (II) - Twenty-First Century Water Works/§ 02429 - Records; audits.md",
    "printed_pages": [
-    580,
-    580
+    581,
+    581
    ]
   },
   {
@@ -19382,27 +19305,16 @@
    "marks": [],
    "path": "Chapter 042 - Rural Water Supply/Subchapter 002 (II) - Twenty-First Century Water Works/§ 02430 - Full faith and credit.md",
    "printed_pages": [
-    580,
-    580
+    581,
+    581
    ]
   },
   {
    "id": "43_2431",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       333,
-       "[Page 581]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 042 - Rural Water Supply/Subchapter 002 (II) - Twenty-First Century Water Works/§ 02431 - Report.md",
    "printed_pages": [
-    580,
+    581,
     581
    ]
   },
@@ -19426,14 +19338,21 @@
   },
   {
    "id": "43_2434",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 582]",
+     true
+    ]
+   ],
    "path": "Chapter 042 - Rural Water Supply/Subchapter 002 (II) - Twenty-First Century Water Works/§ 02434 - Termination of authority.md",
    "printed_pages": [
     581,
-    581
+    582
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2011-title43 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2012-title43 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 43 - Public Lands"
 }

@@ -52,5 +52,5 @@ Pub. L. 100–526, title I, §107, Oct. 24, 1988, 102 Stat. 2625, authorized Pre
 
 #### Waiver of Qualifications for Appointment as Vice Chairman of Joint Chiefs of Staff
 
-Section 204(c) of Pub. L. 99–433 authorized President, until Oct. 1, 1990, to waive certain requirements otherwise applicable for appointment of an officer as Vice Chairman of Joint Chiefs of Staff.
+Pub. L. 99–433, title II, §204(c), Oct. 1, 1986, 100 Stat. 1011, authorized President, until Oct. 1, 1990, to waive certain requirements otherwise applicable for appointment of an officer as Vice Chairman of Joint Chiefs of Staff.
 

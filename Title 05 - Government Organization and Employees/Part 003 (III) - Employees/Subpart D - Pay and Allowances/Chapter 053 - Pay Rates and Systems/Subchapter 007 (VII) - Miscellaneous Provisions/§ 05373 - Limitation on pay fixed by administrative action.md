@@ -48,7 +48,7 @@ Sections 2B(b) and 21A(e)(4) of the Federal Home Loan Bank Act, referred to in s
 
 Section 2A(i) of the Home Owners’ Loan Act, referred to in subsec. (a)(1), probably should be a reference to section 3(g) of the Home Owners’ Loan Act, act June 13, 1933, ch. 64, as amended by Pub. L. 101–73, title III, §301, Aug. 9, 1989, 103 Stat. 278, which was classified to section 1462a(g) of Title 12, Banks and Banking, prior to repeal by Pub. L. 111–203, title III, §369(3)(B), July 21, 2010, 124 Stat. 1558.
 
-Sections 5.11 and 5.58 of the Farm Credit Act of 1971, referred to in subsec. (a)(1), are classified to sections 2245 and 2277a–7, respectively, of Title 12, Banks and Banking.
+Sections 5.11 and 5.58 of the Farm Credit Act of 1971, referred to in subsec. (a)(1), are classified to sections2245 and 2277a–7, respectively, of Title 12, Banks and Banking.
 
 Section 403e–1 of Title 50, War and National Defense, included within the reference to sections 403e–403h of Title 50 in subsec. (a)(3), was enacted by Pub. L. 98–215, title IV, §402, Dec. 9, 1983, 97 Stat. 1477, after subsec. (a)(3) was enacted.
 

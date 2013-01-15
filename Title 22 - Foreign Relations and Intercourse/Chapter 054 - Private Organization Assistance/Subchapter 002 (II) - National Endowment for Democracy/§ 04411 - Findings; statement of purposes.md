@@ -20,5 +20,5 @@
 
 #### Short Title
 
-Section 501 of title V of Pub. L. 98–164 provided that: “This title \[enacting this subchapter\] may be cited as the ‘National Endowment for Democracy Act’.”
+Pub. L. 98–164, title V, §501, Nov. 22, 1983, 97 Stat. 1039, provided that: “This title \[enacting this subchapter\] may be cited as the ‘National Endowment for Democracy Act’.”
 

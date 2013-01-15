@@ -4,7 +4,7 @@
 
 (2) If the debtor is an individual in a case under chapter 7 or 13, such value with respect to personal property securing an allowed claim shall be determined based on the replacement value of such property as of the date of the filing of the petition without deduction for costs of sale or marketing. With respect to property acquired for personal, family, or household purposes, replacement value shall mean the price a retail merchant would charge for property of that kind considering the age and condition of the property at the time value is determined.
 
-(b) To the extent that an allowed secured claim is secured by property the value of which,after any recovery under subsection (c) of this section, is greater than the amount of such claim, there shall be allowed to the holder of such claim, interest on such claim, and any reasonable fees, costs, or charges provided for under the agreement or State statute under which such claim arose.
+(b) To the extent that an allowed secured claim is secured by property the value of which, after any recovery under subsection (c) of this section, is greater than the amount of such claim, there shall be allowed to the holder of such claim, interest on such claim, and any reasonable fees, costs, or charges provided for under the agreement or State statute under which such claim arose.
 
 (c) The trustee may recover from property securing an allowed secured claim the reasonable, necessary costs and expenses of preserving, or disposing of, such property to the extent of any benefit to the holder of such claim, including the payment of all ad valorem property taxes with respect to the property.
 
@@ -50,13 +50,13 @@ Subsection (d) permits liens to pass through the bankruptcy case unaffected. How
 
 Subsec. (b). Pub. L. 109–8, §712(d)(1), inserted “or State statute” after “agreement”.
 
-Subsec. (c). Pub. L. 109–8, §712(d)(2), inserted “, including the payment of all ad valorem property taxes with respect to the property” before period at end.
+Subsec. (c). Pub. L. 109–8, §712(d)(2), inserted “, including the payment of all ad valorem propertytaxes with respect to the property” before period at end.
 
 <b>1984</b>—Subsec. (b). Pub. L. 98–353, §448(a), inserted “for” after “provided”.
 
 Subsec. (d)(1). Pub. L. 98–353, §448(b), substituted “such claim was disallowed only under section 502(b)(5) or 502(e) of this title” for “a party in interest has not requested that the court determine and allow or disallow such claim under section 502 of this title”.
 
-Subsec. (d)(2). Pub. L. 98–353, §448(b), substituted “such claim is not an allowed secured claim due onlyto the failure of any entity to file a proof of such claim under section 501 of this title” for “such claim was disallowed only under section 502(e) of this title”.
+Subsec. (d)(2). Pub. L. 98–353, §448(b), substituted “such claim is not an allowed secured claim due only to the failure of any entity to file a proof of such claim under section 501 of this title” for “such claim was disallowed only under section 502(e) of this title”.
 
 #### Effective Date of 2005 Amendment
 

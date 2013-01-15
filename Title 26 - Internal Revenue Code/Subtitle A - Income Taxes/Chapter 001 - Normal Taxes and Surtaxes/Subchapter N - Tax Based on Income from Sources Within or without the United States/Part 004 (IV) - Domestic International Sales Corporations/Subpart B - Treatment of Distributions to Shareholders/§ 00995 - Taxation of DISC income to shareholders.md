@@ -36,7 +36,7 @@ A shareholder of a DISC or former DISC shall be subject to taxation on the earni
 
 &emsp;(A) A shareholder of a corporation which revoked its election to be treated as a DISC or failed to satisfy the conditions of section 992(a)(1) for a taxable year shall be deemed to have received (at the time specified in subparagraph (B)) a distribution taxable as a dividend equal to his pro rata share of the DISC income of such corporation accumulated during the immediately preceding consecutive taxable years for which the corporation was a DISC.
 
-&emsp;(B) Distributions described in subparagraph (A) shall be deemed to be received in equal installments on the last day of each of the 10 taxable years of the corporation following the year of the termination or disqualification described in subparagraph (A) (but in no case over more than twice the number immediately preceding consecutive taxable years during which the corporation was a DISC).
+&emsp;(B) Distributions described in subparagraph (A) shall be deemed to be received in equal installments on the last day of each of the 10 taxable years of the corporation following the year of the termination or disqualification described in subparagraph (A) (but in no caseover more than twice the number immediately preceding consecutive taxable years during which the corporation was a DISC).
 
 #### (3) Taxable income attributable to military property
 
@@ -60,7 +60,7 @@ A shareholder of a DISC or former DISC shall be subject to taxation on the earni
 
 #### (B) Allocation
 
-&emsp;&emsp;The dollar amount under paragraph (1)(E) shall be allocated among the DISC's whichare members of the same controlled group in a manner provided in regulations prescribed by the Secretary.
+&emsp;&emsp;The dollar amount under paragraph (1)(E) shall be allocated among the DISC's which are members of the same controlled group in a manner provided in regulations prescribed by the Secretary.
 
 #### (c) Gain on disposition of stock in a DISC
 
@@ -122,7 +122,7 @@ For the purposes of this part—
 
 &emsp;&emsp;(D) one-half the earnings and profits of foreign members of such group and foreign branches of domestic members of such group for taxable years beginning after December 31, 1971.
 
-> &emsp;As used in this subsection, the term “domestic member” means a domestic corporation which is a member of a controlled group (as defined in section 993(a)(3)), and the term “foreign member” means a foreign corporation which is a member of such a controlled group.
+> &emsp;As used in this subsection, the term “domestic member” means a domestic corporation whichis a member of a controlled group (as defined in section 993(a)(3)), and the term “foreign member” means a foreign corporation which is a member of such a controlled group.
 
 #### (4) Uncommitted transitional funds
 
@@ -218,7 +218,7 @@ If—
 
 #### (4) Base period T-bill rate
 
-&emsp;For purposes of this subsection, the term “base period T-bill rate” means the annual rate of interest determined by the Secretary to be equivalent to the average of the 1-year constant maturity Treasury yields, as published by the Board of Governors of the Federal Reserve System, for the 1-year period ending on September 30 of the calendar year ending with (or of the most recent calendar yearending before) the close of the taxable year of the shareholder.
+&emsp;For purposes of this subsection, the term “base period T-bill rate” means the annual rate of interest determined by the Secretary to be equivalent to the average of the 1-year constant maturity Treasury yields, as published by the Board of Governors of the Federal Reserve System, for the 1-year period ending on September 30 of the calendar year ending with (or of the most recent calendar year ending before) the close of the taxable year of the shareholder.
 
 #### (5) Short years
 
@@ -274,7 +274,7 @@ Subsec. (f)(4) to (6). Pub. L. 99–514, §1876(p)(1), redesignated as pars. (4)
 
 Subsec. (f)(7). Pub. L. 99–514, §1876(g), added par. (7).
 
-<b>1984</b>—Subsec. (b)(1)(E). Pub. L. 98–369, §802(b)(1), substituted “of the DISC attributable to qualified export receipts of the DISC for the taxable year which exceed $10,000,000” for “for the taxable year attributable to base period export gross receipts (as defined in subsection (e))”.
+<b>1984</b>—Subsec. (b)(1)(E). Pub. L. 98–369, §802(b)(1), substituted “of the DISC attributable to qualified exportreceipts of the DISC for the taxable year which exceed $10,000,000” for “for the taxable year attributable to base period export gross receipts (as defined in subsection (e))”.
 
 Subsec. (b)(1)(F)(i). Pub. L. 98–369, §68(d), substituted “one-seventeenth” for “one/half”.
 
@@ -294,7 +294,7 @@ Subsec. (c)(1). Pub. L. 95–600, §701(u)(12)(B), inserted provision relating t
 
 Subsec. (b)(1)(D), (E). Pub. L. 94–455, §1101(a)(1), added subpars. (D) and (E) and redesignated former subpars. (D) and (E) as (F) and (G), respectively.
 
-Subsec. (b)(1)(F). Pub. L. 94–455, §§1063(a), 1065(a)(2), 1101(a)(1), redesignated former subpar. (D) as (F), madeexisting provision cl. (i), added cls. (ii) and (iii), and substituted “(C), (D), and (E)” for “(C)” after “(B), and”.
+Subsec. (b)(1)(F). Pub. L. 94–455, §§1063(a), 1065(a)(2), 1101(a)(1), redesignated former subpar. (D) as (F), made existing provision cl. (i), added cls. (ii) and (iii), and substituted “(C), (D), and (E)” for “(C)” after “(B), and”.
 
 Subsec. (b)(1)(G). Pub. L. 94–455, §1101(a)(1), redesignated former subpar. (E) as (G).
 
@@ -318,7 +318,7 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1988 Amendment
 
-Section 1012(bb)(6)(B) of Pub. L. 100–647 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply to taxable years beginning after December 31, 1987.”
+Pub. L. 100–647, title X, §1012(bb)(6)(B), Nov. 10, 1988, 102 Stat. 3536, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply to taxable years beginning after December 31, 1987.”
 
 Amendment by section 1006(e)(15) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
@@ -334,7 +334,7 @@ Amendment by section 802(a), (b) of Pub. L. 98–369 applicable to transactions 
 
 #### Effective Date of 1978 Amendment
 
-Section 701(u)(12)(C) of Pub. L. 95–600 provided that: “The amendment made by subparagraph (B) \[amending this section\] shall apply to dispositions made after December 31, 1976, in taxable years ending after such date.”
+Pub. L. 95–600, title VII, §701(u)(12)(C), Nov. 6, 1978, 92 Stat. 2918, provided that: “The amendment made by subparagraph (B) \[amending this section\] shall apply to dispositions made after December 31, 1976, in taxable years ending after such date.”
 
 Amendment by section 703(i)(1), (2) of Pub. L. 95–600 effective on Oct. 4, 1976, see section 703(r) of Pub. L. 95–600, set out as a note under section 46 of this title.
 
@@ -344,9 +344,9 @@ Amendment by section 1063(a) of Pub. L. 94–455 applicable to participation in 
 
 Amendment by section 1065(a)(2) of Pub. L. 94–455 applicable to payments described in section 162(c) of this title made more than 30 days after Oct. 4, 1976, see section 1066(b) of Pub. L. 94–455, set out as a note under section 952 of this title.
 
-Section 1101(g)(1) of Pub. L. 94–455 provided that: “The amendments made by subsections (a) and (e) \[amending this section and section 996 of this title\] shall apply to taxable years beginning after December 31, 1975.”
+Pub. L. 94–455, title XI, §1101(g)(1), Oct. 4, 1976, 90 Stat. 1659, provided that: “The amendments made by subsections (a) and (e) \[amending this section and section 996 of this title\] shall apply to taxable years beginning after December 31, 1975.”
 
-Section 1101(g)(4) of Pub. L. 94–455, as amended by Pub. L. 95–600, title VII, §701(u)(12)(A), Nov. 6, 1978, 92 Stat. 2918, provided that: “The amendments made by subsection (d) \[amending this section and section 751 of this title\] shall apply to sales, exchanges, or other dispositions after December 31, 1976, in taxable years ending after such date.”
+Pub. L. 94–455, title XI, §1101(g)(4), Oct. 4, 1976, 90 Stat. 1659, as amended by Pub. L. 95–600, title VII, §701(u)(12)(A), Nov. 6, 1978, 92 Stat. 2918, provided that: “The amendments made by subsection (d) \[amending this section and section 751 of this title\] shall apply to sales, exchanges, or other dispositions after December 31, 1976, in taxable years ending after such date.”
 
 Amendment by section 1901(b)(3)(K) of Pub. L. 94–455 applicable with respect to taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
@@ -356,5 +356,5 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Proration of Base Period in Case of Fixed Contracts
 
-Section 1101(g)(5) of Pub. L. 94–455, as amended by Pub. L. 95–600, title VII, §703(i)(4), Nov. 6, 1978, 92 Stat. 2940; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “For purposes of determining adjusted base period export gross receipts (under section 995(e)(3) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as amended by this section), if any DISC has export gross receipts from export property by reason of paragraph (2) of section 603(b) of the Tax Reduction Act of 1975, \[set out as an Effective Date of 1975 Amendment note under section 993 of this title\], then the export gross receipts of such DISC for the taxable years of the base period shall be increased by an amount equal to the amount of gross receipts which were excluded from export gross receipts during each taxable year of the base period by reason of the last sentence of section 995(e)(3) of such Code multiplied by a fraction, the numerator of which is the amount of the gross receipts in the taxable year which are export gross receipts by reason of paragraph (2) of section 603(b) of the Tax Reduction Act of 1975 and the denominator of which is the amount of total gross receipts which are excluded from export gross receipts in the taxable year by reason of subparagraph (C) or (D) of paragraph (2) of section 993(c) (determined without regard to paragraph (2) of section 603(b) of the Tax Reduction Act of 1975).”
+Pub. L. 94–455, title XI, §1101(g)(5), Oct. 4, 1976, 90 Stat. 1659, as amended by Pub. L. 95–600, title VII, §703(i)(4), Nov. 6, 1978, 92 Stat. 2940; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “For purposes of determining adjusted base period export gross receipts (under section 995(e)(3) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as amended by this section), if any DISC has export gross receipts from export property by reason of paragraph (2) of section 603(b) of the Tax Reduction Act of 1975, \[set out as an Effective Date of 1975 Amendment note under section 993 of this title\], then the export gross receipts of such DISC for the taxable years of the base period shall be increased by an amount equal to the amount of gross receipts which were excluded from export gross receipts during each taxable year of the base period by reason of the last sentence of section 995(e)(3) of such Code multiplied by a fraction, the numerator of which is the amount of the gross receipts in the taxable year which are export gross receipts by reason of paragraph (2) of section 603(b) of the Tax Reduction Act of 1975 and the denominator of which is the amount of total gross receipts which are excluded from export gross receipts in the taxable year by reason of subparagraph (C) or (D) of paragraph (2) of section 993(c) (determined without regard to paragraph (2) of section 603(b) of the Tax Reduction Act of 1975).”
 

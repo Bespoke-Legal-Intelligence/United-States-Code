@@ -20,7 +20,7 @@ Maximum Annual Amount.—(1) Subject to paragraph (2), the amount of education d
 
 (2) The total amount payable to a participant in such Program for any year may not exceed the amount of the principal and interest on loans referred to in subsection (a) that is paid by the individual during such year.
 
-(3)(A) The Secretary may waive the limitations under paragraphs (1) and (2) in the case of a participant described in subparagraph (B). In the case of such a waiver, the total amount of education debt repayments payable to that participant is the total amount of the principal and the interest on the participant's loans referred to in subsection (a).
+(3)(A) The Secretary may waive the limitations under paragraphs (1) and (2) in the case of a participant described in subparagraph (B). In the case of such a waiver, the total amount ofeducation debt repayments payable to that participant is the total amount of the principal and the interest on the participant's loans referred to in subsection (a).
 
 (B) A participant described in this subparagraph is a participant in the Program who the Secretary determines serves in a position for which there is a shortage of qualified employees by reason of either the location or the requirements of the position.
 

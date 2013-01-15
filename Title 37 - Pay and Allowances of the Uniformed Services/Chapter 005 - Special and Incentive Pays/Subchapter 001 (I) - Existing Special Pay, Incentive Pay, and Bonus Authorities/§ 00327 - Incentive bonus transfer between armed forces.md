@@ -48,11 +48,13 @@ Regulations.—The Secretaries concerned shall prescribe regulations to carry ou
 
 (h)
 
-Termination of Authority.—No agreement under this section may be entered into after December 31, 2012.
+Termination of Authority.—No agreement under this section may be entered into after December 31, 2013.
 
-(Added and amended Pub. L. 109–163, div. A, title VI, §§641(a), 687(b)(35), Jan. 6, 2006, 119 Stat. 3304, 3333; Pub. L. 109–364, div. A, title VI, §§614(h), 620(a), Oct. 17, 2006, 120 Stat. 2249, 2252; Pub. L. 111–84, div. A, title VI, §615(7), Oct. 28, 2009, 123 Stat. 2354; Pub. L. 111–383, div. A, title VI, §615(7), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §615(7), Dec. 31, 2011, 125 Stat. 1451.)
+(Added and amended Pub. L. 109–163, div. A, title VI, §§641(a), 687(b)(35), Jan. 6, 2006, 119 Stat. 3304, 3333; Pub. L. 109–364, div. A, title VI, §§614(h), 620(a), Oct. 17, 2006, 120 Stat. 2249, 2252; Pub. L. 111–84, div. A, title VI, §615(7), Oct. 28, 2009, 123 Stat. 2354; Pub. L. 111–383, div. A, title VI, §615(7), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §615(7), Dec. 31, 2011, 125 Stat. 1451; Pub. L. 112–239, div. A, title VI, §615(7), Jan. 2, 2013, 126 Stat. 1777.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (h). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
 
 <b>2011</b>—Subsec. (h). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
 
@@ -74,7 +76,7 @@ Subsec. (h). Pub. L. 109–364, §614(h), substituted “2009” for “2006”.
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–364, div. A, title VI, §620(b), Oct. 17, 2006, 120 Stat. 2252, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 2006, and shall apply to agreements entered into or revised under section 327 of title 37, United States Code, on or after that date.”
+Pub. L. 109–364, div. A, title VI, §620(b), Oct. 17, 2006, 120 Stat. 2252, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effecton October 1, 2006, and shall apply to agreements entered into or revised under section 327 of title 37, United States Code, on or after that date.”
 
 #### Savings Provision
 

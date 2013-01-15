@@ -4,7 +4,7 @@ The purposes of the corporation are to—
 
 &emsp;(1) encourage, accept, and administer private gifts to promote and ensure the preservation and public accessibility of the nation's film heritage held at the Library of Congress and other public and nonprofit archives throughout the United States and the repatriation of American films from foreign archives;
 
-&emsp;(2) further the goals of the Library of Congress and the National Film Preservation Board in connection with their activities under the National Film Preservation Act of 1996 (2 U.S.C. 179<i>l</i>–179w); and
+&emsp;(2) further the goals of the Library of Congress and the National Film Preservation Board in connection with their activities under the National Film Preservation Act of 1996 (2 U.S.C. 179l–179w); and
 
 &emsp;(3) conduct activities, alone or in cooperation with other film related institutions and organizations, to further the preservation and public accessibility of films made in the United States, particularly films not protected by private interests, for the benefit of present and future generations of Americans.
 
@@ -28,7 +28,7 @@ Oct. 11, 1996, Pub. L. 104–285, title II, §202(b), 110 Stat. 3382.
 
 #### References in Text
 
-The National Film Preservation Act of 1996, referred to in par. (2), is title I of Pub. L. 104–285, Oct. 11, 1996, 110 Stat. 3377, which is classified principally to section 179<i>l</i> et seq. of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 179<i>l</i> of Title 2 and Tables.
+The National Film Preservation Act of 1996, referred to in par. (2), is title I of Pub. L. 104–285, Oct. 11, 1996, 110 Stat. 3377, which is classified principally to section 179l et seq. of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 179l of Title 2 and Tables.
 
 #### Amendments
 

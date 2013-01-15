@@ -10,7 +10,7 @@ The Chief Administrative Officer of the House of Representatives is authorized a
 
 As used in this section—
 
-&emsp;(1) the term “Member of the House of Representatives” means a Representative in, or a Delegate or Resident Commissioner to, the Congress; and
+&emsp;(1) the term “Member of the House of Representatives” means a Representative in, or aDelegate or Resident Commissioner to, the Congress; and
 
 &emsp;(2) the term “official records and papers” means books, records, papers, and official files which could be sent as franked mail.
 
@@ -26,7 +26,7 @@ Sections 1 and 2 of House Resolution No. 1297 were redesignated subsecs. (a) and
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–186, §203(21)(A)–(C), substituted “applicable accounts” for “contingent fund” in first par. and “Chief Administrative Officer of the House of Representatives” for “Clerk of the House ofRepresentatives” and “House Oversight” for “House Administration” in second par.
+<b>1996</b>—Subsec. (a). Pub. L. 104–186, §203(21)(A)–(C), substituted “applicable accounts” for “contingent fund” in first par. and “Chief Administrative Officer of the House of Representatives” for “Clerk of the House of Representatives” and “House Oversight” for “House Administration” in second par.
 
 Subsec. (b)(1). Pub. L. 104–186, §203(21)(D), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the term ‘Member’ means a Representative, a Resident Commissioner in the House, and a Delegate to the House; and”.
 

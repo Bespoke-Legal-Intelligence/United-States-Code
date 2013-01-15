@@ -6,7 +6,7 @@
 
 (b)(1) Except as otherwise provided in this subsection, the provisions of this subchapter and subchapter VII shall apply with respect to justices and judges making contributions to the Thrift Savings Fund.
 
-(2) The amount contributed by a justice or judge for any pay period shall not exceed the maximum percentage of such justice's or judge's basic pay for such pay period allowable under section 8440f.
+(2) The amount contributed by a justice or judge for any pay period shall not exceed themaximum percentage of such justice's or judge's basic pay for such pay period allowable under section 8440f.
 
 (3) No contributions shall be made for the benefit of a justice or judge under section 8432(c) of this title.
 

@@ -88,7 +88,7 @@ In the case of insurance proceeds received as a result of destruction or damage 
 
 #### (5) Other definitions
 
-&emsp;For purposes of this subsection, the terms “qualified individual”, “qualified financial institution”, and “deposit” have the same respective meanings as when used in section 165(<i>l</i>).
+&emsp;For purposes of this subsection, the terms “qualified individual”, “qualified financial institution”, and “deposit” have the same respective meanings as when used in section 165(l).
 
 #### (h) Special rule for cash options for receipt of qualified prizes
 
@@ -146,7 +146,7 @@ In the case of insurance proceeds received as a result of destruction or damage 
 
 #### (3) Qualifying electric transmission transaction
 
-&emsp;For purposes of this subsection, the term “qualifying electric transmission transaction” means any sale or other disposition before January 1, 2008 (before January 1, 2012, in the case of a qualified electric utility), of—
+&emsp;For purposes of this subsection, the term “qualifying electric transmission transaction” means any sale or other disposition before January 1, 2008 (before January 1, 2014, in the case of a qualified electric utility), of—
 
 &emsp;&emsp;(A) property used in the trade or business of providing electric transmission services, or
 
@@ -194,7 +194,7 @@ In the case of insurance proceeds received as a result of destruction or damage 
 
 #### (6) Qualified electric utility
 
-&emsp;For purposes of this subsection, the term “qualified electric utility” means a person that, as of the date of the qualifying electric transmission transaction, is vertically integrated, in that it is both—
+&emsp;For purposes of this subsection, the term “qualified electric utility” means a personthat, as of the date of the qualifying electric transmission transaction, is vertically integrated, in that it is both—
 
 &emsp;&emsp;(A) a transmitting utility (as defined in section 3(23) of the Federal Power Act (16 U.S.C. 796(23))) with respect to the transmission facilities to which the election under this subsection applies, and
 
@@ -224,7 +224,7 @@ In the case of insurance proceeds received as a result of destruction or damage 
 
 &emsp;Section 453 shall not apply to any qualifying electric transmission transaction with respect to which an election to apply this subsection is made.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 152; Pub. L. 89–97, title III, §313(b), July 30, 1965, 79 Stat. 382; Pub. L. 91–172, title II, §215(a), Dec. 30, 1969, 83 Stat. 573; Pub. L. 94–455, title XIX, §1906(b)(13)(A), title XXI, §§2102(a), (b), 2141(a), Oct. 4, 1976, 90 Stat. 1834, 1900, 1933; Pub. L. 99–514, title VIII, §821(a), title IX, §905(b), Oct. 22, 1986, 100 Stat. 2372, 2386; Pub. L. 100–647, title I, §1009(d)(3), title VI, §§6030(a), 6033(a), Nov. 10, 1988, 102 Stat. 3450, 3694, 3695; Pub. L. 105–34, title IX, §913(a), Aug. 5, 1997, 111 Stat. 878; Pub. L. 105–277, div. J, title V, §5301(a), Oct. 21, 1998, 112 Stat. 2681–918; Pub. L. 108–357, title III, §311(c), title VIII, §909(a), Oct. 22, 2004, 118 Stat. 1467, 1657; Pub. L. 109–58, title XIII, §1305(a), (b), Aug. 8, 2005, 119 Stat. 997; Pub. L. 110–343, div. B, title I, §109(a)–(c), Oct. 3, 2008, 122 Stat. 3821; Pub. L. 111–312, title VII, §705(a), Dec. 17, 2010, 124 Stat. 3311.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 152; Pub. L. 89–97, title III, §313(b), July 30, 1965, 79 Stat. 382; Pub. L. 91–172, title II, §215(a), Dec. 30, 1969, 83 Stat. 573; Pub. L. 94–455, title XIX, §1906(b)(13)(A), title XXI, §§2102(a), (b), 2141(a), Oct. 4, 1976, 90 Stat. 1834, 1900, 1933; Pub. L. 99–514, title VIII, §821(a), title IX, §905(b), Oct. 22, 1986, 100 Stat. 2372, 2386; Pub. L. 100–647, title I, §1009(d)(3), title VI, §§6030(a), 6033(a), Nov. 10, 1988, 102 Stat. 3450, 3694, 3695; Pub. L. 105–34, title IX, §913(a), Aug. 5, 1997, 111 Stat. 878; Pub. L. 105–277, div. J, title V, §5301(a), Oct. 21, 1998, 112 Stat. 2681–918; Pub. L. 108–357, title III, §311(c), title VIII, §909(a), Oct. 22, 2004, 118 Stat. 1467, 1657; Pub. L. 109–58, title XIII, §1305(a), (b), Aug. 8, 2005, 119 Stat. 997; Pub. L. 110–343, div. B, title I, §109(a)–(c), Oct. 3, 2008, 122 Stat. 3821; Pub. L. 111–312, title VII, §705(a), Dec. 17, 2010, 124 Stat. 3311; Pub. L. 112–240, title IV, §411(a), Jan. 2, 2013, 126 Stat. 2343.)
 
 #### References in Text
 
@@ -233,6 +233,8 @@ The Agricultural Act of 1949, as amended, referred to in subsec. (d), is act Oct
 The Disaster Assistance Act of 1988, referred to in subsec. (d), is Pub. L. 100–387, Aug. 11, 1988, 102 Stat. 924. Title II of the Disaster Assistance Act of 1988 is set out as a note under section 1421 of Title 7. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (i)(3). Pub. L. 112–240 substituted “January 1, 2014” for “January 1, 2012” in introductory provisions.
 
 <b>2010</b>—Subsec. (i)(3). Pub. L. 111–312 substituted “January 1, 2012” for “January 1, 2010” in introductory provisions.
 
@@ -266,13 +268,17 @@ Subsecs. (f), (g). Pub. L. 100–647, §1009(d)(3), redesignated subsec. (f), re
 
 Pub. L. 99–514, §821(a), added subsec. (f) relating to special rule for utility services.
 
-<b>1976</b>—Subsec. (d). Pub. L. 94–455, §§1906(b)(13)(A), 2102(a), (b), inserted reference to disaster payments in heading, provided that payments received under the Agricultural Act of 1949, as amended, be treated as insurance proceeds received as a result of destruction or damage to crops if the payments are received as the result of destruction or damage from drought, flood, or other natural disaster, or as the result of inability to plant crops because of drought, flood, or other natural disaster, and struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (d). Pub. L. 94–455, §§1906(b)(13)(A), 2102(a), (b), inserted reference to disaster payments in heading, provided that payments received under the Agricultural Act of 1949, as amended, be treated as insurance proceeds received as a result of destruction or damage to crops if the payments are received as the result of destruction or damage from drought, flood, or other natural disaster, or as the result of inability to plant crops because of drought, flood, or other naturaldisaster, and struck out “or his delegate” after “Secretary”.
 
 Subsec. (e). Pub. L. 94–455, §2141(a), added subsec. (e).
 
 <b>1969</b>—Subsec. (d). Pub. L. 91–172 added subsec. (d).
 
 <b>1965</b>—Subsec. (c). Pub. L. 89–97 added subsec. (c).
+
+#### Effective Date of 2013 Amendment
+
+Pub. L. 112–240, title IV, §411(b), Jan. 2, 2013, 126 Stat. 2343, provided that: “The amendment made by this section \[amending this section\] shall apply to dispositions after December 31, 2011.”
 
 #### Effective Date of 2005 Amendment
 
@@ -330,19 +336,19 @@ Transition rule.—The amendment made by this section shall apply to any prize t
 
 #### Effective Date of 1997 Amendment
 
-Section 913(c) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section and section 1033 of this title\] shall apply to sales and exchanges after December 31, 1996.”
+Pub. L. 105–34, title IX, §913(c), Aug. 5, 1997, 111 Stat. 878, provided that: “The amendments made by this section \[amending this section and section 1033 of this title\] shall apply to sales and exchanges after December 31, 1996.”
 
 #### Effective Date of 1988 Amendment
 
 Amendment by section 1009(d)(3) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Section 6030(b) of Pub. L. 100–647 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to sales or exchanges occurring after December 31, 1987.”
+Pub. L. 100–647, title VI, §6030(b), Nov. 10, 1988, 102 Stat. 3694, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to sales or exchanges occurring after December 31, 1987.”
 
-Section 6033(b) of Pub. L. 100–647, as amended by Pub. L. 101–239, title VII, §7816(g), Dec. 19, 1989, 103 Stat. 2421, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to payments received before, on, or after the date of enactment of this Act \[Nov. 10, 1988\].”
+Pub. L. 100–647, title VI, §6033(b), Nov. 10, 1988, 102 Stat. 3695, as amended by Pub. L. 101–239, title VII, §7816(g), Dec. 19, 1989, 103 Stat. 2421, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to payments received before, on, or after the date of enactment of this Act \[Nov. 10, 1988\].”
 
 #### Effective Date of 1986 Amendment
 
-Section 821(b) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1008(h), Nov. 10, 1988, 102 Stat. 3444, provided that:
+Pub. L. 99–514, title VIII, §821(b), Oct. 22, 1986, 100 Stat. 2373, as amended by Pub. L. 100–647, title I, §1008(h), Nov. 10, 1988, 102 Stat. 3444, provided that:
 
 “(1)
 
@@ -362,7 +368,7 @@ Change in method of accounting.—If a taxpayer is required by the amendments ma
 
 Special rule for certain cycle billing.—If a taxpayer for any taxable year beginning before August 16, 1986, for purposes of chapter 1 of the Internal Revenue Code of 1986 took into account income from services described in section 451(f) of such Code (as added by subsection (a)) on the basis of the period in which the customers’ meters were read, then such treatment for such year shall be deemed to be proper. The preceding sentence shall also apply to any taxable year beginning after August 16, 1986, and before January 1, 1987, if the taxpayer treated such income in the same manner for the taxable year preceding such taxable year.”
 
-Section 905(c) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1009(d)(2), Nov. 10, 1988, 102 Stat. 3450, provided that:
+Pub. L. 99–514, title IX, §905(c), Oct. 22, 1986, 100 Stat. 2387, as amended by Pub. L. 100–647, title I, §1009(d)(2), Nov. 10, 1988, 102 Stat. 3450, provided that:
 
 “(1)
 
@@ -374,17 +380,17 @@ Special rules for subsection (b).—
 
 &emsp;“(A) The amendment made by subsection (b) \[amending this section\] shall apply to taxable years beginning after December 31, 1982, and before January 1, 1987, only if the qualified individual elects to have such amendment apply for all such taxable years.
 
-&emsp;“(B) In the case of interest attributable to the period beginning January 1, 1983, and ending December 31, 1987, the interest deduction of financial institutions shall be determined without regard to paragraph (3) of section 451(f) of the Internal Revenue Code of 1986 (as added by subsection (b)).”
+&emsp;“(B) In the case of interest attributable to the period beginning January 1, 1983, and ending December31, 1987, the interest deduction of financial institutions shall be determined without regard to paragraph (3) of section 451(f) of the Internal Revenue Code of 1986 (as added by subsection (b)).”
 
 #### Effective Date of 1976 Amendment
 
-Section 2102(c) of Pub. L. 94–455 provided that: “The amendments made by this section \[amending this section\] shall apply to payments received after December 31, 1973, in taxable years ending after such date.”
+Pub. L. 94–455, title XXI, §2102(c), Oct. 4, 1976, 90 Stat. 1900, provided that: “The amendments made by this section \[amending this section\] shall apply to payments received after December 31, 1973, in taxable years ending after such date.”
 
-Section 2141(b) of Pub. L. 94–455 provided that: “The amendment made by this section \[amending this section\] applies to taxable years beginning after December 31, 1975.”
+Pub. L. 94–455, title XXI, §2141(b), Oct. 4, 1976, 90 Stat. 1933, provided that: “The amendment made by this section \[amending this section\] applies to taxable years beginning after December 31, 1975.”
 
 #### Effective Date of 1969 Amendment
 
-Section 215(b) of Pub. L. 91–172 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[Dec. 30, 1969\].”
+Pub. L. 91–172, title II, §215(b), Dec. 30, 1969, 83 Stat. 573, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[Dec. 30, 1969\].”
 
 #### Effective Date of 1965 Amendment
 

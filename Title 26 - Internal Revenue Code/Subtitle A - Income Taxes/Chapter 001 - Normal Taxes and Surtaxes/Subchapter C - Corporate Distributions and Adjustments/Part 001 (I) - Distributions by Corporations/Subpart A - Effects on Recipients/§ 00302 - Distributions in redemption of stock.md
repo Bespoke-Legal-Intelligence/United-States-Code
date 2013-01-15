@@ -58,7 +58,7 @@ If a corporation redeems its stock (within the meaning of section 317(b)), and i
 
 #### (6) Application of paragraphs
 
-&emsp;In determining whether a redemption meets the requirements of paragraph (1), the fact that such redemption fails to meet the requirements of paragraph (2), (3), or (4) shall not be taken into account. If a redemption meets the requirements of paragraph (3) and also the requirements of paragraph (1), (2), or (4), then so much of subsection (c)(2) as would (but for this sentence) apply in respect of the acquisition of an interest in the corporation within the 10-year period beginning on the date of the distribution shall not apply.
+&emsp;In determining whether a redemption meets the requirements of paragraph (1), the fact that such redemption fails to meet the requirements of paragraph (2), (3), or (4) shall not be taken into account. If a redemption meets the requirements of paragraph (3) andalso the requirements of paragraph (1), (2), or (4), then so much of subsection (c)(2) as would (but for this sentence) apply in respect of the acquisition of an interest in the corporation within the 10-year period beginning on the date of the distribution shall not apply.
 
 #### (c) Constructive ownership of stock
 
@@ -108,7 +108,7 @@ If a corporation redeems its stock (within the meaning of section 317(b)), and i
 
 #### (d) Redemptions treated as distributions of property
 
-Except as otherwise provided in this subchapter, if a corporation redeems its stock\(within the meaning of section 317(b)), and if subsection (a) of this section does not apply, such redemption shall be treated as a distribution of property to which section 301 applies.
+Except as otherwise provided in this subchapter, if a corporation redeems its stock (within the meaning of section 317(b)), and if subsection (a) of this section does not apply, such redemption shall be treated as a distribution of property to which section 301 applies.
 
 #### (e) Partial liquidation defined
 
@@ -126,7 +126,7 @@ Except as otherwise provided in this subchapter, if a corporation redeems its st
 
 &emsp;&emsp;(A) The distribution is attributable to the distributing corporation's ceasing to conduct, or consists of the assets of, a qualified trade or business.
 
-&emsp;&emsp;(B) Immediately after the distribution, the distributing corporation is actively engaged in the conduct of a qualified trade or business.
+&emsp;&emsp;(B) Immediately after the distribution, the distributing corporation is actively engagedin the conduct of a qualified trade or business.
 
 #### (3) Qualified trade or business
 
@@ -188,9 +188,9 @@ Amendment by Pub. L. 98–369 effective as if included in the provision of the T
 
 #### Effective Date of 1982 Amendment; Partial Liquidations
 
-Section 228(b) of Pub. L. 97–248 provided that: “The amendment made by subsection (a) \[amending this section\]” shall apply with respect to distributions after August 31, 1982, in taxable years ending after such date.”
+Pub. L. 97–248, title II, §228(b), Sept. 3, 1982, 96 Stat. 493, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to distributions after August 31, 1982, in taxable years ending after such date.”
 
-Section 222(f) of Pub. L. 97–248, as amended by Pub. L. 97–448, title III, §306(a)(6)(A), Jan. 12, 1983, 96 Stat. 2402; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 97–248, title II, §222(f), Sept. 3, 1982, 96 Stat. 481, as amended by Pub. L. 97–448, title III, §306(a)(6)(A), Jan. 12, 1983, 96 Stat. 2402; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 
@@ -208,7 +208,7 @@ Ruling requests.—The amendments made by this section shall not apply to distri
 
 &emsp;&emsp;“(II) within the period beginning on July 12, 1981, and ending on July 22, 1982, the Internal Revenue Service granted a ruling to such corporation that the distributions would qualify as a partial liquidation, and
 
-&emsp;&emsp;“(ii) such distributions are pursuant to a plan of partial liquidation adopted before October 1, 1982\(or, if later, 90 days after the date on which the Internal Revenue Service granted a ruling pursuant to the request described in clause (i)(I)).
+&emsp;&emsp;“(ii) such distributions are pursuant to a plan of partial liquidation adopted before October 1, 1982 (or, if later, 90 days after the date on which the Internal Revenue Service granted a ruling pursuant to the request described in clause (i)(I)).
 
 &emsp;“(B)
 
@@ -236,7 +236,7 @@ Extension of time for adopting plan where acquisition subject to federal regulat
 
 &emsp;&emsp;“(iii)
 
-Special rule where offer subject to approval by foreign regulatory body.—In any case where an offer to acquire stock in a corporation was subject to intervention by a foreign regulatory body and a public announcement of such an offer resulted in the intervention by such foreign regulatory body before July 23, 1982—
+Special rule where offer subject to approval by foreign regulatory body.—In any case where an offer to acquire stock in a corporationwas subject to intervention by a foreign regulatory body and a public announcement of such an offer resulted in the intervention by such foreign regulatory body before July 23, 1982—
 
 &emsp;&emsp;&emsp;“(I) such public announcement shall be treated as a tender offer, and
 
@@ -278,5 +278,5 @@ Amendment by Pub. L. 96–589 applicable to stock which is issued after Dec. 31,
 
 #### Savings Provisions
 
-Applicability of subsec. (b)(1) to the determination of gross investment income under sections 4940 and 4948(a) of this title, see section 101(<i>l</i>)(8) of Pub. L. 91–172, set out as a note under section 4940 of this title.
+Applicability of subsec. (b)(1) to the determination of gross investment income under sections 4940 and 4948(a) of this title, see section 101(l)(8) of Pub. L. 91–172, set out as a note under section 4940 of this title.
 

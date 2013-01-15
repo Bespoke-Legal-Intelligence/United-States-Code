@@ -14,5 +14,5 @@ Section was enacted as part of the America COMPETES Act, also known as the Ameri
 
 #### Definitions
 
-For definitions of terms used in this section, see section 7001 of Pub. L. 110–69, set out as a note under section 1862<i>o</i> of this title.
+For definitions of terms used in this section, see section 7001 of Pub. L. 110–69, set out as a note under section 1862o of this title.
 

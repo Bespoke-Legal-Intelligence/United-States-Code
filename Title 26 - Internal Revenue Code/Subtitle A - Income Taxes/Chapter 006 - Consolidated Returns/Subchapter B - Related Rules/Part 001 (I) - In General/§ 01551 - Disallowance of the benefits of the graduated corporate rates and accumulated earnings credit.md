@@ -30,7 +30,7 @@ For purposes of subsection (a), the term “control” means—
 
 The provisions of section 269(c) and the authority of the Secretary under such section, shall, to the extent not inconsistent with the provisions of this section, be applicable to this section.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 371; Pub. L. 85–866, title II, §205(a), Sept. 2, 1958, 72 Stat. 1680; Pub. L. 88–272, title II, §235(b), Feb. 26, 1964, 78 Stat. 125; Pub. L. 94–12, title III, §304(b), Mar. 29, 1975, 89 Stat. 45; Pub. L. 94–455, title XIX, §§1901(a)(158), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1790, 1834; Pub. L. 95–600, title III, §301(b)(18)(A), (B), Nov. 6, 1978, 92 Stat. 2823; Pub. L. 97–34, title II, §232(b)(2), Aug. 13, 1981, 95 Stat. 250; Pub. L. 99–514, title XVIII, §1899A(36), Oct. 22, 1986, 100 Stat. 2960.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 371; Pub. L. 85–866, title II, §205(a), Sept. 2, 1958, 72 Stat. 1680;Pub. L. 88–272, title II, §235(b), Feb. 26, 1964, 78 Stat. 125; Pub. L. 94–12, title III, §304(b), Mar. 29, 1975, 89 Stat. 45; Pub. L. 94–455, title XIX, §§1901(a)(158), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1790, 1834; Pub. L. 95–600, title III, §301(b)(18)(A), (B), Nov. 6, 1978, 92 Stat. 2823; Pub. L. 97–34, title II, §232(b)(2), Aug. 13, 1981, 95 Stat. 250; Pub. L. 99–514, title XVIII, §1899A(36), Oct. 22, 1986, 100 Stat. 2960.)
 
 #### Amendments
 
@@ -68,7 +68,7 @@ Amendment by Pub. L. 94–12 applicable to taxable years beginning after Dec. 31
 
 #### Effective Date of 1964 Amendment
 
-Section 235(d) of Pub. L. 88–272 provided that: “The amendments made by subsections (a) and (c) \[enacting sections 1561 to 1563 of this title and amending sections 269, 441, and 802 of this title\] shall apply with respect to taxable years ending after December 31, 1963. The amendment made by subsection (b) \[amending this section\] shall apply with respect to transfers made after June 12, 1963.”
+Pub. L. 88–272, title II, §235(d), Feb. 26, 1964, 78 Stat. 127, provided that: “The amendments made by subsections (a) and (c) \[enacting sections 1561 to 1563 of this title and amending sections 269, 441, and 802 of this title\] shall apply with respect to taxable years ending after December 31, 1963. The amendment made by subsection (b) \[amending this section\] shall apply with respect to transfers made after June 12, 1963.”
 
 #### Effective Date of 1958 Amendment
 

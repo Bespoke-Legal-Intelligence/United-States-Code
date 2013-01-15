@@ -8,7 +8,7 @@ The Bank shall have the power to make and service loans, commitments for credit,
 
 &emsp;(3) elect by its Board of Directors a president, one or more vice presidents, a secretary, a treasurer, and provide for such other officers, employees, and agents as may be necessary, and define their duties in accordance with regulations and standards adopted by the Board, and require surety bonds or make other provisions against losses occasioned by acts of employees;
 
-&emsp;(4) prescribe by its Board of Directors its bylaws not inconsistent with law, which shall establish the terms of office and the procedure for election of elective members; provide in a manner not inconsistent with this chapter for the classes of its stock and the manner in which its stock shall be issued, transferred, and retired; and prescribe the manner in which its officers, employees, and agents are elected or selected, its property acquired, held and transferred, its loans, commitments, other financial assistance, guarantees and appraisals may be made, its general business conducted, and the privilege granted it by law exercised and enjoyed;
+&emsp;(4) prescribe by its Board of Directors its bylaws not inconsistent with law, which shall establish the terms of office and the procedure for election of elective members; provide in a manner not inconsistent with this chapter for the classes of its stock and the manner in which its stock shall be issued, transferred, and retired; and prescribe the manner in which its officers, employees, and agents are elected or selected, its property acquired, held and transferred, its loans, commitments, other financial assistance, guarantees and appraisalsmay be made, its general business conducted, and the privilege granted it by law exercised and enjoyed;
 
 &emsp;(5) enter into contracts and make advance, progress, or other payments with respect to such contracts, without regard to the provisions of section 3324(a) and (b) of title 31;
 
@@ -56,9 +56,9 @@ In pars. (5) and (10), “section 3324(a) and (b) of title 31” substituted for
 
 #### Effective Date of 1981 Amendment
 
-Section 394(d)(2) of Pub. L. 97–35 provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on the day after the Final Government Equity Redemption Date \[Dec. 31, 1981\].” See section 396(a) of Pub. L. 97–35 set out below.
+Pub. L. 97–35, title III, §394(d)(2), Aug. 13, 1981, 95 Stat. 436, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on the day after the Final Government Equity Redemption Date \[Dec. 31, 1981\].” See section 396(a) of Pub. L. 97–35 set out below.
 
 #### “Final Government Equity Redemption Date” Defined
 
-Section 396(a) of subtitle C of title III of Pub. L. 97–35 provided that: “For purposes of this subtitle \[see Short Title of 1981 Amendment note set out under section 3001 of this title\], the term ‘Final Government Equity Redemption Date’ shall have the same meaning given such term in section 101(5) of the National Consumer Cooperative Bank Act (12 U.S.C. 3011(5)).”
+Pub. L. 97–35, title III, §396(a), Aug. 13, 1981, 95 Stat. 439, provided that: “For purposes of this subtitle \[see Short Title of 1981 Amendment note set out under section 3001 of this title\], the term ‘Final Government Equity Redemption Date’ shall have the same meaning given such term in section 101(5) of the National Consumer Cooperative Bank Act (12 U.S.C. 3011(5)).”
 

@@ -28,7 +28,7 @@ In this subchapter:
 
 #### Short Title
 
-For short title of this subchapter as the “Noxious Weed Control and Eradication Act of 2004”, see section 451 of Pub. L. 106–224, set out as a note under section 7701 of this title.
+For short title of this subchapter as the “Noxious Weed Control and Eradication Act of 2004”, see section451 of Pub. L. 106–224, set out as a note under section 7701 of this title.
 
 #### Salt Cedar and Russian Olive Control
 
@@ -262,7 +262,7 @@ In general.—There are authorized to be appropriated to carry out this Act—
 
 Administrative costs.—Not more than 15 percent of amounts made available under paragraph (1) shall be used to pay the administrative costs of carrying out the program established under subsection (a).
 
-“(<i>l</i>)
+“(l)
 
 Termination of Authority.—This Act and the authority provided by this Act terminate on the date that is 5 years after the date of the enactment of this Act \[Oct. 11, 2006\].”
 

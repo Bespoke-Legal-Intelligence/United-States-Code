@@ -50,7 +50,7 @@
 | 715k–3. | Authorization of appropriations for the preservation of wetlands and other waterfowl habitat. |
 | 715k–4. | Accounting and use of appropriations. |
 | 715k–5. | Acquisition of lands. |
-| 715<i>l</i>, 715m. Repealed. |  |
+| 715l, 715m. Repealed. |  |
 | [715n.](Subchapter%20003%20%28III%29%20-%20Migratory%20Bird%20Conservation/%C2%A7%2000715n%20-%20%E2%80%9CTake%E2%80%9D%20defined.md) | “Take” defined. |
 | 715<i>o.</i> | National forest and power sites; use for migratory bird reservations. |
 | [715p.](Subchapter%20003%20%28III%29%20-%20Migratory%20Bird%20Conservation/%C2%A7%2000715p%20-%20Cooperation%20of%20State%20in%20enforcement%20of%20provisions.md) | Cooperation of State in enforcement of provisions. |

@@ -30,7 +30,7 @@ The items of income referred to in subsection (a) are interest (other than origi
 
 #### (2) Owner unknown
 
-&emsp;The Secretary may authorize the tax under subsection (a) to be deducted and withheldfrom the interest upon any securities the owners of which are not known to the withholding agent.
+&emsp;The Secretary may authorize the tax under subsection (a) to be deducted and withheld from the interest upon any securities the owners of which are not known to the withholding agent.
 
 #### (3) Bonds with extended maturity dates
 
@@ -94,13 +94,13 @@ For purposes of this section, the term “nonresident alien individual” includ
 
 &emsp;<b>For provision treating 85 percent of social security benefits as subject to withholding under this section, see section 871(a)(3).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 357; Aug. 26, 1954, ch. 937, title V, §544(f), as added July 18, 1956, ch. 627, §11(a), 70 Stat. 563; amended Pub. L. 85–141, §11(b)(1), Aug. 14, 1957, 71 Stat. 365; Pub. L. 85–866, title I, §40(b), Sept. 2, 1958, 72 Stat. 1638; Pub. L. 87–256, §110(d), Sept. 21, 1961, 75 Stat. 536; Pub. L. 88–272, title III, §302(c), Feb. 26, 1964, 78 Stat. 146; Pub. L. 89–809, title I, §103(h), Nov. 13, 1966, 80 Stat. 1553; Pub. L. 91–172, title V, §505(b), Dec. 30, 1969, 83 Stat. 634; Pub. L. 92–178, title III, §313(a), (d), Dec. 10, 1971, 85 Stat. 526, 527; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–21, title I, §121(c)(2), Apr. 20, 1983, 97 Stat. 82; Pub. L. 98–369, div. A, title I, §§42(a)(13), 127(e)(1), title IV, §474(r)(29)(G),\(H), July 18, 1984, 98 Stat. 557, 652, 845; Pub. L. 99–514, title I, §123(b)(2), title XII, §1214(c)(3), title XVIII, §1810(d)(3)(D), Oct. 22, 1986, 100 Stat. 2113, 2542, 2825; Pub. L. 100–647, title I, §1001(d)(2)(A), title VI, §6134(a)(2), Nov. 10, 1988, 102 Stat. 3350, 3721; Pub. L. 101–508, title XI, §11704(a)(14), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 102–318, title V, §521(b)(32), (33), July 3, 1992, 106 Stat. 312; Pub. L. 103–66, title XIII, §13237(c)(4), Aug. 10, 1993, 107 Stat. 508; Pub. L. 103–296, title III, §320(a)(1)(B), Aug. 15, 1994, 108 Stat. 1535; Pub. L. 105–34, title XVI, §1604(g)(3), Aug. 5, 1997, 111 Stat. 1099; Pub. L. 108–357, title IV, §411(a)(3)(A), Oct. 22, 2004, 118 Stat. 1503.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 357; Aug. 26, 1954, ch. 937, title V, §544(f), as added July 18, 1956, ch. 627, §11(a), 70 Stat. 563; amended Pub. L. 85–141, §11(b)(1), Aug. 14, 1957, 71 Stat. 365; Pub. L. 85–866, title I, §40(b), Sept. 2, 1958, 72 Stat. 1638; Pub. L. 87–256, §110(d), Sept. 21, 1961, 75 Stat. 536; Pub. L. 88–272, title III, §302(c), Feb. 26, 1964, 78 Stat. 146; Pub. L. 89–809, title I, §103(h), Nov. 13, 1966, 80 Stat. 1553; Pub. L. 91–172, title V, §505(b), Dec. 30, 1969, 83 Stat. 634; Pub. L. 92–178, title III, §313(a), (d), Dec. 10, 1971, 85 Stat. 526, 527; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–21, title I, §121(c)(2), Apr. 20, 1983, 97 Stat. 82; Pub. L. 98–369, div. A, title I, §§42(a)(13), 127(e)(1), title IV, §474(r)(29)(G), (H), July 18, 1984, 98 Stat. 557, 652, 845; Pub. L. 99–514, title I, §123(b)(2), title XII, §1214(c)(3), title XVIII, §1810(d)(3)(D), Oct. 22, 1986, 100 Stat. 2113, 2542, 2825; Pub. L. 100–647, title I, §1001(d)(2)(A), title VI, §6134(a)(2), Nov. 10, 1988, 102 Stat. 3350, 3721; Pub. L. 101–508, title XI, §11704(a)(14), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 102–318, title V, §521(b)(32), (33), July 3, 1992, 106 Stat. 312; Pub. L. 103–66, title XIII, §13237(c)(4), Aug. 10, 1993, 107 Stat. 508; Pub. L. 103–296, title III, §320(a)(1)(B), Aug. 15, 1994, 108 Stat. 1535; Pub. L. 105–34, title XVI, §1604(g)(3), Aug. 5, 1997, 111 Stat. 1099; Pub. L. 108–357, title IV, §411(a)(3)(A), Oct. 22, 2004, 118 Stat. 1503.)
 
 #### References in Text
 
 Section 101(a)(15) of the Immigration and Nationality Act, as amended, referred to in subsec. (b), is classified to section 1101(a)(15) of Title 8, Aliens and Nationality.
 
-The Mutual Educational and Cultural Exchange Act of 1961, referred to in subsec. (b)(2)(C), is Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, as amended, which is classified principally to chapter 33 (§2451 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of Title 22 and Tables.
+The Mutual Educational and Cultural Exchange Act of 1961, referred to in subsec. (b)(2)(C), is Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, as amended, which is classified principally to chapter 33 (§2451 et seq.) of Title 22,Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of Title 22 and Tables.
 
 The Tax Reform Act of 1984, referred to in subsec. (c)(3), is division A \[§§5 to 1082\] of Pub. L. 98–369, July 18, 1984, 98 Stat. 494, which was approved July 18, 1984. For complete classification of this Act to the Code, see Short Title of 1984 Amendments note set out under section 1 of this title and Tables.
 
@@ -156,7 +156,7 @@ Subsec. (c)(8). Pub. L. 92–178, §313(d), added par. (8).
 
 Subsec. (b). Pub. L. 89–809, §103(h)(2)–(4), struck out “(except interest on deposits with persons carrying on the banking business paid to persons not engaged in business in the United States)” after “The items of income referred to in subsection (a) are interest” and substituted “gains described in section 402(a)(2), 403(a)(2), or 631(b) or (c), amounts subject to tax under section 871(a)(1)(C), gains subject to tax under section 871(a)(1)(D), and gains on transfers described in section 1235 made on or before October 4, 1966” for “and amounts described in section 402(a)(2), section 403(a)(2), section 631(b) and (c), and section 1235, which are considered to be gains from the sale or exchange of capital assets” in text preceding par. (1), and inserted provision for treatment of items of income referred to in subsec. (a) in the case of nonresident alien individuals who are members of domestic partnerships.
 
-Subsec. (c)(1). Pub. L. 89–809, §103(h)(5), substituted “in the case of any item of income (other than compensation for personal services) which is effectively connected with the conduct of a trade or business within the United States and which is included in the gross income of the recipient under section 871(b)(2) for the taxable year” for “in the case of dividends paid by a foreign corporation unless (A) such corporation is engaged in trade or business within the United States, and (B) more than 85 percent of the gross income of such corporation for the 3-year period ending with the close of its taxable year preceding the declaration of such dividends (or for such part of such period as thecorporation has been in existence) was derived from sources within the United States as determined under part I of subchapter N of chapter 1” after “shall be required”.
+Subsec. (c)(1). Pub. L. 89–809, §103(h)(5), substituted “in the case of any item of income (other than compensation for personal services) which is effectively connected with the conduct of a trade or business within the United States and which is included in the gross income of the recipient under section 871(b)(2) for the taxable year” for “in the case of dividends paid by a foreign corporation unless (A) such corporation is engaged in trade or business within the United States, and (B) more than 85 percent of the gross income of such corporation for the 3-year period ending with the close of its taxable year preceding the declaration of such dividends (or for such part of such period as the corporation has been in existence) was derived from sources within the United States as determined under part I of subchapter N of chapter 1” after “shall be required”.
 
 Subsec. (c)(4). Pub. L. 89–809, §103(h)(6), struck out provisions which had served to limit to compensation for personal services of nonresident alien individuals who enter and leave the United States at frequent intervals and of nonresident alien individuals for the period they are temporarily present in the United States as a nonimmigrant under subparagraph (F) and (J) of section 101(a)(15) of the Immigration and Nationality Act, as amended, the application of the exemption from deduction and withholding under subsec. (a), leaving the exemption under subsec. (a) applicable to compensation for personal services without further limitation.
 
@@ -232,7 +232,7 @@ Amendment by Pub. L. 88–272 applicable to payments made after seventh day foll
 
 #### Effective Date of 1961 Amendment
 
-Section 110(h)(2) of Pub. L. 87–256 provided that: “The amendments made by subsection (d) of this section \[amending this section\] shall apply with respect to payments made after December 31, 1961.”
+Pub. L. 87–256, §110(h)(2), Sept. 21, 1961, 75 Stat. 537, provided that: “The amendments made by subsection (d) of this section \[amending this section\] shall apply with respect to payments made after December 31, 1961.”
 
 #### Effective Date of 1958 Amendment
 
@@ -248,7 +248,7 @@ For nonapplication of amendments by sections 123(b)(2) and 1214(c)(3) of Pub. L.
 
 #### Plan Amendments Not Required Until January 1, 1994
 
-For provisions directing that if any amendments made by subtitle B \[§§521–523\] of title V of Pub. L. 102–318 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 523 of Pub. L. 102–318, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle B \[§§521–523\] of title V of Pub. L. 102–318 require an amendment to any plan, such plan amendment shall not be required to be made before thefirst plan year beginning on or after Jan. 1, 1994, see section 523 of Pub. L. 102–318, set out as a note under section 401 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

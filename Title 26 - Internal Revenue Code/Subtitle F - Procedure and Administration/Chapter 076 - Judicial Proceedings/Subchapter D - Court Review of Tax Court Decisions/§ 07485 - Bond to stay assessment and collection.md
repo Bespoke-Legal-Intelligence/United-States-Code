@@ -4,7 +4,7 @@
 
 Notwithstanding any provision of law imposing restrictions on the assessment and collection of deficiencies, the review under section 7483 shall not operate as a stay of assessment or collection of any portion of the amount of the deficiency determined by the Tax Court unless a notice of appeal in respect of such portion is duly filed by the taxpayer, and then only if the taxpayer—
 
-&emsp;(1) on or before the time his notice of appeal is filed has filed with the Tax Court a bond in a sum fixed by the Tax Court not exceeding double the amount of the portion of the deficiency in respect of which the notice of appeal is filed, and with surety approved by the Tax Court, conditioned upon the payment of the deficiency as finally determined, together with any interest, additional amounts, or additions to the tax provided for by law, or
+&emsp;(1) on or before the time his notice of appeal is filed has filed with the Tax Court a bond in a sum fixed by the Tax Court not exceeding double the amount of the portion of the deficiency in respect of which the notice of appeal is filed, and with surety approved by the TaxCourt, conditioned upon the payment of the deficiency as finally determined, together with any interest, additional amounts, or additions to the tax provided for by law, or
 
 &emsp;(2) has filed a jeopardy bond under the income or estate tax laws.
 
@@ -40,7 +40,7 @@ Subsec. (c)(2). Pub. L. 97–258 substituted “section 9303 of title 31, United
 
 Amendment by section 1222(b)(4) of Pub. L. 105–34 applicable to partnership taxable years beginning after Dec. 31, 1997, see section 1226 of Pub. L. 105–34, as amended, set out as a note under section 6011 of this title.
 
-Section 1241(b) of Pub. L. 105–34 provided that: “The amendment made by this section \[amending this section\] shall take effect as if included in the amendments made by section 402 of the Tax Equity and Fiscal Responsibility Act of 1982 \[Pub. L. 97–248\].”
+Pub. L. 105–34, title XII, §1241(b), Aug. 5, 1997, 111 Stat. 1029, provided that: “The amendment made by this section \[amending this section\] shall take effect as if included in the amendments made by section 402 of the Tax Equity and Fiscal Responsibility Act of 1982 \[Pub. L. 97–248\].”
 
 #### Effective Date of 1982 Amendment
 

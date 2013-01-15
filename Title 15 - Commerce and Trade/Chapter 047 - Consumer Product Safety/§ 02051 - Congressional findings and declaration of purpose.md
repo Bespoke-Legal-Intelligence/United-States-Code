@@ -40,11 +40,15 @@ Certain delayed effective dates.—The amendments made by sections 103(c) \[amen
 
 #### Effective Date
 
-Section 34 of Pub. L. 92–573 provided that: “This Act \[enacting this chapter\] shall take effect on the sixtieth day following the date of its enactment \[Oct. 27, 1972\], except—
+Pub. L. 92–573, §34, Oct. 27, 1972, 86 Stat. 1233, provided that: “This Act \[enacting this chapter\] shall take effect on the sixtieth day following the date of its enactment \[Oct. 27, 1972\], except—
 
 &emsp;“(1) sections 4 and 32 \[sections 2053 and 2081 of this title\] shall take effect on the date of enactment of this Act \[Oct. 27, 1972\], and
 
 &emsp;“(2) section 30 \[section 2079 of this title\] shall take effect on the later of (A) 150 days after the date of enactment of this Act \[Oct. 27, 1972\], or (B) the date on which at least three members of the Commission first take office.”
+
+#### Short Title of 2013 Amendment
+
+Pub. L. 112–266, §1, Jan. 14, 2013, 126 Stat. 2437, provided that: “This Act \[enacting section 2056c of this title and provisions set out as notes under section 2056c of this title\] may be cited as the ‘Drywall Safety Act of 2012’.”
 
 #### Short Title of 2008 Amendment
 
@@ -68,7 +72,7 @@ Pub. L. 94–284, §1, May 11, 1976, 90 Stat. 503, provided that: “This Act \[
 
 #### Short Title
 
-Section 1 of Pub. L. 92–573 provided that: “This Act \[enacting this chapter, amending sections 5314 and 5315 of Title 5, Government Organization and Employees, and enacting provisions set out as notes under this section\] may be cited as the ‘Consumer Product Safety Act’.”
+Pub. L. 92–573, §1, Oct. 27, 1972, 86 Stat. 1207, provided that: “This Act \[enacting this chapter, amending sections 5314 and 5315 of Title 5, Government Organization and Employees, and enacting provisions set out as notes under this section\] may be cited as the ‘Consumer Product Safety Act’.”
 
 #### Authority To Issue Implementing Regulations
 
@@ -78,7 +82,7 @@ Pub. L. 110–314, §3, Aug. 14, 2008, 122 Stat. 3017, provided that: “The Com
 
 Pub. L. 110–314, title II, §239(b), Aug. 14, 2008, 122 Stat. 3076, provided that: “If any provision of this Act \[see Short Title of 2008 Amendment note above\] or the amendments made by this Act, or the application of such provision to any person or circumstance, is held invalid, the remainder of this Act and the amendments made by this Act, and the application of such provision to other persons not similarly situated or to other circumstances, shall not be affected by such invalidation.”
 
-Section 33 of Pub. L. 92–573 provided that: “If any provision of this Act \[see Short Title note above\], or the application of such provision to any person or circumstances, shall be held invalid, the remainder of this Act, or the application of such provisions to persons or circumstances other than those as to which it is held invalid, shall not be affected thereby.”
+Pub. L. 92–573, §33, Oct. 27, 1972, 86 Stat. 1233, provided that: “If any provision of this Act \[see Short Title note above\], or the application of such provision to any person or circumstance, shall be held invalid, the remainder of this Act, or the application of such provisions to persons or circumstances other than those as to which it is held invalid, shall not be affected thereby.”
 
 #### Preemption
 

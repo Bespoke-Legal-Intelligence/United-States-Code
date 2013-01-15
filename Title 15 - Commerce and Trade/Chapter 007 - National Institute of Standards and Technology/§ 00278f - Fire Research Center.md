@@ -86,7 +86,7 @@ Pub. L. 90–259, §§101, 103, 104, and 201–207, established the National Com
 
 #### Executive Order No. 11654
 
-Ex. Ord. No. 11654, Mar. 13, 1972, 37 F.R. 5361, which established in the Department of Commerce the Federal Fire Council and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12379, §19, Aug. 17, 1982, 47 F.R. 36100, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 11654, Mar. 13, 1972, 37 F.R. 5361, which established in the Department of Commerce the Federal Fire Council and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12379, §19, Aug. 17, 1982, 47 F.R. 36100, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

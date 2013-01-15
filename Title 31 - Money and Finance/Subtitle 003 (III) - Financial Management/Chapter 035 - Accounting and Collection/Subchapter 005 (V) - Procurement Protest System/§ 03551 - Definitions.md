@@ -48,7 +48,7 @@ Par. (2)(B)(i). Pub. L. 111–84, §327(b), amended cl. (i) generally. Prior to 
 
 “(2)(A) The term ‘interested party’, with respect to a contract or a solicitation or other request for offers described in paragraph (1), means an actual or prospective bidder or offeror whose direct economic interest would be affected by the award of the contract or by failure to award the contract.
 
-“(B) The term includes the official responsible for submitting the Federal agency tender in a public-private competition conducted under Office of Management and Budget Circular A–76 regarding an activity or function of a Federal agency performed by more than 65 full-time equivalent employees of the Federal agency.”
+“(B) The term includes the official responsible for submitting the Federal agency tender in a public-private competition conducted under Office of Management and Budget Circular A–76 regarding an activity orfunction of a Federal agency performed by more than 65 full-time equivalent employees of the Federal agency.”
 
 <b>2004</b>—Par. (2). Pub. L. 108–375 designated existing provisions as subpar. (A) and added subpar. (B).
 
@@ -82,7 +82,7 @@ Par. (2)(B) of this section, as added by Pub. L. 110–181, applicable to a prot
 
 #### Effective Date of 2007 Amendment
 
-Paragraph (2)(B) of this section applicable to protests and civil actions that challenge final selections ofsources of performance of an activity or function of a Federal agency that are made pursuant to studies initiated under Office of Management and Budget Circular A–76 on or after Jan. 1, 2004; and to any other protests and civil actions that relate to public-private competitions initiated under Office of Management and Budget Circular A–76, or a decision to convert a function performed by Federal employees to private sector performance without a competition under Office of Management and Budget Circular A–76, on or after Dec. 26, 2007, see section 739(c)(3) of Pub. L. 110–161, set out as a note under section 501 of this title.
+Paragraph (2)(B) of this section applicable to protests and civil actions that challenge final selections of sources of performance of an activity or function of a Federal agency that are made pursuant to studies initiated under Office of Management and Budget Circular A–76 on or after Jan. 1, 2004; and to any other protests and civil actions that relate to public-private competitions initiated under Office of Management and Budget Circular A–76, or a decision to convert a function performed by Federal employees to private sector performance without a competition under Office of Management and Budget Circular A–76, on or after Dec. 26, 2007, see section 739(c)(3) of Pub. L. 110–161, set out as a note under section 501 of this title.
 
 Amendment by Pub. L. 110–161 applicable with respect to fiscal year 2008 and each succeeding fiscal year, see section 739(e) of Pub. L. 110–161, set out as a note under section 501 of this title.
 

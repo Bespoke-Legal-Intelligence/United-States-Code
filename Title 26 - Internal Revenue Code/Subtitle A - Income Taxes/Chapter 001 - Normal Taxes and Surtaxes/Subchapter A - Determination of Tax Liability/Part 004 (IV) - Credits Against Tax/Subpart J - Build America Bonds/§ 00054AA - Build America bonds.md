@@ -20,7 +20,7 @@ The amount of the credit determined under this subsection with respect to any in
 
 #### (2) Carryover of unused credit
 
-&emsp;If the credit allowable under subsection (a) exceeds the limitation imposed by paragraph\(1) for such taxable year, such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection (a) for such taxable year (determined before the application of paragraph (1) for such succeeding taxable year).
+&emsp;If the credit allowable under subsection (a) exceeds the limitation imposed by paragraph (1) for such taxable year, such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection (a) for such taxable year (determined before the application of paragraph (1) for such succeeding taxable year).
 
 #### (d) Build America bond
 

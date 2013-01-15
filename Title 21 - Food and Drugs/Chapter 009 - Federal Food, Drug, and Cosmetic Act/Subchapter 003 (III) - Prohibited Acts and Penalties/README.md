@@ -16,3 +16,4 @@
 - [&sect; 00335c - Authority to withdraw approval of abbreviated drug applications](%C2%A7%2000335c%20-%20Authority%20to%20withdraw%20approval%20of%20abbreviated%20drug%20applications.md)
 - [&sect; 00336 - Report of minor violations](%C2%A7%2000336%20-%20Report%20of%20minor%20violations.md)
 - [&sect; 00337 - Proceedings in name of United States; provision as to subpoenas](%C2%A7%2000337%20-%20Proceedings%20in%20name%20of%20United%20States%3B%20provision%20as%20to%20subpoenas.md)
+- [&sect; 00337a - Extraterritorial jurisdiction](%C2%A7%2000337a%20-%20Extraterritorial%20jurisdiction.md)

@@ -8,7 +8,7 @@ Any person (as defined in section 6671(b)) who—
 
 > shall, in addition to other penalties provided by law, be liable for a penalty of 50 percent of the total amount of the underpayment of the tax.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 822; Pub. L. 85–866, title I, §86, Sept. 2, 1958, 72 Stat. 1665; Pub. L. 91–172, title I, §101(j)(50), title IX, §943(c)(6), Dec. 30, 1969, 83 Stat. 531, 729; Pub. L. 91–679, §2, Jan. 12, 1971, 84 Stat. 2063; Pub. L. 93–406, title II, §1016(a)(18), Sept. 2, 1974, 88 Stat.931; Pub. L. 96–223, title I, §101(f)(8), Apr. 2, 1980, 94 Stat. 253; Pub. L. 97–34, title V, §501(b), title VII, §722(b)(1), Aug. 13, 1981, 95 Stat. 326, 342; Pub. L. 97–248, title III, §325(a), Sept. 3, 1982, 96 Stat. 616; Pub. L. 97–448, title I, §§105(a)(1)(D), 107(a)(3), Jan. 12, 1983, 96 Stat. 2384, 2391; Pub. L. 98–67, title I, §106, Aug. 5, 1983, 97 Stat. 382; Pub. L. 98–369, div. A, title I, §179(b)(3), July 18, 1984, 98 Stat. 718; Pub. L. 99–44, §1(b), May 24, 1985, 99 Stat. 77; Pub. L. 99–514, title XV, §1503(a), (b), (c)(2), (3), (d)(1), Oct. 22, 1986, 100 Stat. 2742, 2743; Pub. L. 100–647, title I, §1015(b)(2)(A), (B), (3), Nov. 10, 1988, 102 Stat. 3569; Pub. L. 101–239, title VII, §7721(c)(1), Dec. 19, 1989, 103 Stat. 2399.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 822; Pub. L. 85–866, title I, §86, Sept. 2, 1958, 72 Stat. 1665; Pub. L. 91–172, title I, §101(j)(50), title IX, §943(c)(6), Dec. 30, 1969, 83 Stat. 531, 729; Pub. L. 91–679, §2, Jan. 12, 1971, 84 Stat. 2063; Pub. L. 93–406, title II, §1016(a)(18), Sept. 2, 1974, 88 Stat. 931; Pub. L. 96–223, title I, §101(f)(8), Apr. 2, 1980, 94 Stat. 253; Pub. L. 97–34, title V, §501(b), title VII, §722(b)(1), Aug. 13, 1981, 95 Stat. 326, 342; Pub. L. 97–248, title III, §325(a), Sept. 3, 1982, 96 Stat. 616; Pub. L. 97–448, title I, §§105(a)(1)(D), 107(a)(3), Jan. 12, 1983, 96 Stat. 2384, 2391; Pub. L. 98–67, title I, §106, Aug. 5, 1983, 97 Stat. 382; Pub. L. 98–369, div. A, title I, §179(b)(3), July 18, 1984, 98 Stat. 718; Pub. L. 99–44, §1(b), May 24, 1985, 99 Stat. 77; Pub. L. 99–514, title XV, §1503(a), (b), (c)(2), (3), (d)(1), Oct. 22, 1986, 100 Stat. 2742, 2743; Pub. L. 100–647, title I, §1015(b)(2)(A), (B), (3), Nov. 10, 1988, 102 Stat. 3569; Pub. L. 101–239, title VII, §7721(c)(1), Dec. 19, 1989, 103 Stat. 2399.)
 
 #### Amendments
 
@@ -24,7 +24,7 @@ Subsec. (b)(1). Pub. L. 100–647, §1015(b)(2)(B), amended par. (1) generally. 
 
 &emsp;“(A) 75 percent of the portion of the underpayment which is attributable to fraud, and
 
-&emsp;“(B) an amount equal to 50 percent of the interest payable under section 6601 with respect to such portion for the period beginning on the last day prescribed by law for payment of such underpayment (determined without regard to any extension) and ending on the date of the assessment of the tax or, if earlier, the date of the payment of the tax.”
+&emsp;“(B) an amount equal to 50 percent of the interest payable under section 6601 with respect to such portion for the period beginning on the last day prescribed by law for payment of such underpayment (determined without regard to any extension) andending on the date of the assessment of the tax or, if earlier, the date of the payment of the tax.”
 
 Subsec. (g). Pub. L. 100–647, §1015(b)(3), inserted at end “If any penalty is imposed under subsection (a) by reason of the preceding sentence, only the portion of the underpayment which is attributable to the failure described in the preceding sentence shall be taken into account in determining the amount of the penalty under subsection (a).”
 
@@ -82,7 +82,7 @@ Amendment by section 1015(b)(3) of Pub. L. 100–647 effective, except as otherw
 
 #### Effective Date of 1986 Amendment
 
-Section 1503(e) of Pub. L. 99–514 provided that: “The amendments made by this section \[amending this section and section 6222 of this title\] shall apply to returns the due date for which (determined without regard to extensions) is after December 31, 1986.”
+Pub. L. 99–514, title XV, §1503(e), Oct. 22, 1986, 100 Stat. 2743, provided that: “The amendments made by this section \[amending this section and section 6222 of this title\] shall apply to returns the due date for which (determined without regard to extensions) is after December 31, 1986.”
 
 #### Effective Date of 1985 Amendment
 
@@ -100,13 +100,13 @@ Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it 
 
 #### Effective Date of 1982 Amendment
 
-Section 325(b) of Pub. L. 97–248 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to taxes the last day prescribed by law for payment of which (determined without regard to any extension) is after the date of enactment of this Act \[Sept. 3, 1982\].”
+Pub. L. 97–248, title III, §325(b), Sept. 3, 1982, 96 Stat. 617, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to taxes the last day prescribed by law for payment of which (determined without regard to any extension) is after the date of enactment of this Act \[Sept. 3, 1982\].”
 
 #### Effective Date of 1981 Amendment
 
-Amendment by section 501(b) of Pub. L. 97–34 applicable to property acquired and positions established by the taxpayer after June 23, 1981, in taxable years ending after such date, and applicable when so elected with respect to property held on June 23, 1981, see section 508 of Pub. L. 97–34, set out as an Effective Date note under section 1092 of this title.
+Amendment by section 501(b) of Pub. L. 97–34 applicable to property acquired and positions established bythe taxpayer after June 23, 1981, in taxable years ending after such date, and applicable when so elected with respect to property held on June 23, 1981, see section 508 of Pub. L. 97–34, set out as an Effective Date note under section 1092 of this title.
 
-Section 722(b)(2) of Pub. L. 97–34 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to taxes the last date prescribed for payment of which is after December 31, 1981.”
+Pub. L. 97–34, title VII, §722(b)(2), Aug. 13, 1981, 95 Stat. 343, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to taxes the last date prescribed for payment of which is after December 31, 1981.”
 
 #### Effective Date of 1980 Amendment
 

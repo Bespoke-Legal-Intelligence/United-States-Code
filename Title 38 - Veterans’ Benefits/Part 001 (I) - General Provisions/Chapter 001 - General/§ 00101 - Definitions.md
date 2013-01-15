@@ -38,7 +38,7 @@ For the purposes of this title—
 
 (5) The term “parent” means (except for purposes of chapter 19 of this title) a father, a mother, a father through adoption, a mother through adoption, or an individual who for a period of not less than one year stood in the relationship of a parent to a veteran at any time before the veteran's entry into active military, naval, or air service or if two persons stood in the relationship of a father or a mother for one year or more, the person who last stood in the relationship of father or mother before the veteran's last entry into active military, naval, or air service.
 
-(6) The term “Spanish-American War” (A) means the period beginning on April 21, 1898, and ending on July 4, 1902, (B) includes the Philippine Insurrection and the Boxer Rebellion, and\(C) in the case of a veteran who served with the United States military forces engaged in hostilities in the Moro Province, means the period beginning on April 21, 1898, and ending on July 15, 1903.
+(6) The term “Spanish-American War” (A) means the period beginning on April 21, 1898, and ending on July 4, 1902, (B) includes the Philippine Insurrection and the Boxer Rebellion, and (C) in the case of a veteran who served with the United States military forces engaged in hostilities in the Moro Province, means the period beginning on April 21, 1898, and ending on July 15, 1903.
 
 (7) The term “World War I” (A) means the period beginning on April 6, 1917, and ending on November 11, 1918, and (B) in the case of a veteran who served with the United States military forces in Russia, means the period beginning on April 6, 1917, and ending on April 1, 1920.
 
@@ -88,7 +88,7 @@ For the purposes of this title—
 
 &emsp;(C) in the case of members of the Army National Guard or Air National Guard of any State, full-time duty under section 316, 502, 503, 504, or 505 of title 32, or the prior corresponding provisions of law;
 
-&emsp;(D) duty performed by a member of a Senior Reserve Officers’ Training Corps program when ordered to such duty for the purpose oftraining or a practice cruise under chapter 103 of title 10 for a period of not less than four weeks and which must be completed by the member before the member is commissioned; and
+&emsp;(D) duty performed by a member of a Senior Reserve Officers’ Training Corps program when ordered to such duty for the purpose of training or a practice cruise under chapter 103 of title 10 for a period of not less than four weeks and which must be completed by the member before the member is commissioned; and
 
 &emsp;(E) authorized travel to or from such duty.
 
@@ -168,7 +168,7 @@ For the purposes of this title—
 
 (33) The term “Persian Gulf War” means the period beginning on August 2, 1990, and ending on the date thereafter prescribed by Presidential proclamation or by law.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1106; Pub. L. 86–195, Aug. 25, 1959, 73 Stat. 424; Pub. L. 87–674, §1, Sept. 19, 1962, 76 Stat. 558; Pub. L. 87–815, §3, Oct. 15, 1962, 76 Stat. 927; Pub. L. 88–450, §4(c), (d), Aug. 19, 1964, 78 Stat. 504; Pub. L. 89–311, §2(c)(1), Oct. 31, 1965, 79 Stat. 1155; Pub. L. 89–358, §4(d), Mar. 3, 1966, 80 Stat. 24; Pub. L. 90–77, title II, §201, Aug. 31, 1967, 81 Stat. 181;Pub. L. 91–24, §§1(a), (b), 16, June 11, 1969, 83 Stat. 33, 35; Pub. L. 91–262, §1, May 21, 1970, 84 Stat. 256; Pub. L. 91–588, §9(a), (b), Dec. 24, 1970, 84 Stat. 1584; Pub. L. 91–621, §6(a)(1), (2), Dec. 31, 1970, 84 Stat. 1864; Pub. L. 92–198, §5(a), Dec. 15, 1971, 85 Stat. 664; Pub. L. 92–540, title IV, §407, Oct. 24, 1972, 86 Stat. 1092; Pub. L. 94–169, title I, §101(1), Dec. 23, 1975, 89 Stat. 1013; Pub. L. 94–417, §1(b), Sept. 21, 1976, 90 Stat. 1277; Pub. L. 95–126, §3, Oct. 8, 1977, 91 Stat. 1108; Pub. L. 95–202, title III, §309(a), Nov. 23, 1977, 91 Stat. 1446; Pub. L. 95–588, title III, §301, Nov. 4, 1978, 92 Stat. 2506; Pub. L. 96–22, title IV, §401, June 13, 1979, 93 Stat. 62; Pub. L. 97–37, §3(a), Aug. 14, 1981, 95 Stat. 936; Pub. L. 97–295, §4(2), (95)(A), Oct. 12, 1982, 96 Stat. 1304, 1313; Pub. L. 97–306, title I, §113(a), Oct. 14, 1982, 96 Stat. 1432; Pub. L. 98–223, title II, §201, Mar. 2, 1984, 98 Stat. 41; Pub. L. 99–576, title VII, §702(1), Oct. 28, 1986, 100 Stat. 3301; Pub. L. 100–322, title I, §103(a), title III, §311, May 20, 1988, 102 Stat. 493, 534; Pub. L. 100–456, div. A, title VI, §633(c), Sept. 29, 1988, 102 Stat. 1987; Pub. L. 101–237, §2(a), Dec. 18, 1989, 103 Stat. 2062; Pub. L. 102–25, title III, §332, Apr. 6, 1991, 105 Stat. 88; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; Pub. L. 102–54, §14(a)(1), June 13, 1991, 105 Stat. 282; Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–446, title XII, §1201(a)(1), Nov. 2, 1994, 108 Stat. 4682; Pub. L. 104–275, title V, §505(a), Oct. 9, 1996, 110 Stat. 3342; Pub. L. 106–419, title III, §301(a), Nov. 1, 2000, 114 Stat. 1852; Pub. L. 107–14, §4(a)(2), June 5, 2001, 115 Stat. 26; Pub. L. 107–296, title XVII, §1704(d), Nov. 25, 2002, 116 Stat. 2315; Pub. L. 109–163, div. A, title V, §515(e)(1), Jan. 6, 2006, 119 Stat. 3236; Pub. L. 109–444, §8(b)(1), Dec. 21, 2006, 120 Stat. 3313; Pub. L. 109–461, title X, §§1004(b)(1), 1006(b), Dec. 22, 2006, 120 Stat. 3466, 3468; Pub. L. 110–389, title IV, §402(b), Oct. 10, 2008, 122 Stat. 4174.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1106; Pub. L. 86–195, Aug. 25, 1959, 73 Stat. 424; Pub. L. 87–674, §1, Sept. 19, 1962, 76 Stat. 558; Pub. L. 87–815, §3, Oct. 15, 1962, 76 Stat. 927; Pub. L. 88–450, §4(c), (d), Aug. 19, 1964, 78 Stat. 504; Pub.L. 89–311, §2(c)(1), Oct. 31, 1965, 79 Stat. 1155; Pub. L. 89–358, §4(d), Mar. 3, 1966, 80 Stat. 24; Pub. L. 90–77, title II, §201, Aug. 31, 1967, 81 Stat. 181; Pub. L. 91–24, §§1(a), (b), 16, June 11, 1969, 83 Stat. 33, 35; Pub. L. 91–262, §1, May 21, 1970, 84 Stat. 256; Pub. L. 91–588, §9(a), (b), Dec. 24, 1970, 84 Stat. 1584; Pub. L. 91–621, §6(a)(1), (2), Dec. 31, 1970, 84 Stat. 1864; Pub. L. 92–198, §5(a), Dec. 15, 1971, 85 Stat. 664; Pub. L. 92–540, title IV, §407, Oct. 24, 1972, 86 Stat. 1092; Pub. L. 94–169, title I, §101(1), Dec. 23, 1975, 89 Stat. 1013; Pub. L. 94–417, §1(b), Sept. 21, 1976, 90 Stat. 1277; Pub. L. 95–126, §3, Oct. 8, 1977, 91 Stat. 1108; Pub. L. 95–202, title III, §309(a), Nov. 23, 1977, 91 Stat. 1446; Pub. L. 95–588, title III, §301, Nov. 4, 1978, 92 Stat. 2506; Pub. L. 96–22, title IV, §401, June 13, 1979, 93 Stat. 62; Pub. L. 97–37, §3(a), Aug. 14, 1981, 95 Stat. 936; Pub. L. 97–295, §4(2), (95)(A), Oct. 12, 1982, 96 Stat. 1304, 1313; Pub. L. 97–306, title I, §113(a), Oct. 14, 1982, 96 Stat. 1432; Pub. L. 98–223, title II, §201, Mar. 2, 1984, 98 Stat. 41; Pub. L. 99–576, title VII, §702(1), Oct. 28, 1986, 100 Stat. 3301; Pub. L. 100–322, title I, §103(a), title III, §311, May 20, 1988, 102 Stat. 493, 534; Pub. L. 100–456, div. A, title VI, §633(c), Sept. 29, 1988, 102 Stat. 1987; Pub. L. 101–237, §2(a), Dec. 18, 1989, 103 Stat. 2062; Pub. L. 102–25, title III, §332, Apr. 6, 1991, 105 Stat. 88; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; Pub. L. 102–54, §14(a)(1), June 13, 1991, 105 Stat. 282; Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–446, title XII, §1201(a)(1), Nov. 2, 1994, 108 Stat. 4682; Pub. L. 104–275, title V, §505(a), Oct. 9, 1996, 110 Stat. 3342; Pub. L. 106–419, title III, §301(a), Nov. 1, 2000, 114 Stat. 1852; Pub. L. 107–14, §4(a)(2), June 5, 2001, 115 Stat. 26; Pub. L. 107–296, title XVII, §1704(d), Nov. 25, 2002, 116 Stat. 2315; Pub. L. 109–163, div. A, title V, §515(e)(1), Jan. 6, 2006, 119 Stat. 3236; Pub. L. 109–444, §8(b)(1), Dec. 21, 2006, 120 Stat. 3313; Pub. L. 109–461, title X, §§1004(b)(1), 1006(b), Dec. 22, 2006, 120 Stat. 3466, 3468; Pub. L. 110–389, title IV, §402(b), Oct. 10, 2008, 122 Stat. 4174.)
 
 #### References in Text
 
@@ -232,7 +232,7 @@ Par. (31). Pub. L. 99–576, §702(1)(B), struck out “and the term ‘survivin
 
 <b>1984</b>—Par. (4)(A). Pub. L. 98–223 inserted provision that a person described in cl. (ii) of first sentence of subpar. (A) who was a member of a veteran's household at the time the person became 18 years of age and who is adopted by the veteran be recognized as a legally adopted child of the veteran regardless of the age of such person at the time of the adoption.
 
-<b>1982</b>—Par. (4)(A). Pub. L. 97–295, §4(2), substituted “before August 26, 1961, or within two years after the veteran's death” for “within two years after the veteran's death or the date of enactment of this sentence”.
+<b>1982</b>—Par. (4)(A). Pub. L. 97–295, §4(2), substituted “before August 26, 1961, or within two years after theveteran's death” for “within two years after the veteran's death or the date of enactment of this sentence”.
 
 Par. (22)(C). Pub. L. 97–306, §113(a)(1), struck out “and” after “of law;”.
 
@@ -330,15 +330,15 @@ Pub. L. 107–14, §4(g), June 5, 2001, 115 Stat. 30, provided that:
 
 #### Effective Date of 1996 Amendment
 
-Section 505(d) of Pub. L. 104–275 provided that: “The amendments made by this section \[amending this section and sections 1116 and 1710 of this title\] shall take effect on January 1, 1997. No benefit may be paid or provided by reason of such amendments for any period before such date.”
+Pub. L. 104–275, title V, §505(d), Oct. 9, 1996, 110 Stat. 3342, provided that: “The amendments made by this section \[amending this section and sections 1116 and1710 of this title\] shall take effect on January 1, 1997. No benefit may be paid or provided by reason of such amendments for any period before such date.”
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–456 applicable only with respect to training performed after Sept. 30, 1988, seesection 633(e) of Pub. L. 100–456, set out as a note under section 2109 of Title 10, Armed Forces.
+Amendment by Pub. L. 100–456 applicable only with respect to training performed after Sept. 30, 1988, see section 633(e) of Pub. L. 100–456, set out as a note under section 2109 of Title 10, Armed Forces.
 
 #### Effective Date of 1982 Amendment
 
-Section 113(d) of Pub. L. 97–306, as amended by Pub. L. 98–223, title II, §210, Mar. 2, 1984, 98 Stat. 45, provided that: “The amendments made by subsections (a) \[amending this section\] and (b) \[repealing former section 403 of this title\] and the provisions of subsection (c) \[set out as a note under section 8140 of Title 5, Government Organization and Employees\]—
+Pub. L. 97–306, title I, §113(d), Oct. 14, 1982, 96 Stat. 1433, as amended by Pub. L. 98–223, title II, §210, Mar. 2, 1984, 98 Stat. 45, provided that: “The amendments made by subsections (a) \[amending this section\] and (b) \[repealing former section 403 of this title\] and the provisions of subsection (c) \[set out as a note under section 8140 of Title 5, Government Organization and Employees\]—
 
 &emsp;“(1) with respect to deaths and disabilities resulting from diseases or injuries incurred or aggravated after September 30, 1982, shall take effect as of October 1, 1982; and
 
@@ -346,17 +346,17 @@ Section 113(d) of Pub. L. 97–306, as amended by Pub. L. 98–223, title II, §
 
 #### Effective Date of 1978 Amendment
 
-Section 401 of Pub. L. 95–588 provided that: “The amendments made by this Act \[see Tables for classification\] to title 38, United States Code, shall become effective on January 1, 1979.”
+Pub. L. 95–588, title IV, §401, Nov. 4, 1978, 92 Stat. 2511, provided that: “The amendments made by this Act \[see Tables for classification\] to title 38, United States Code, shall become effective on January 1, 1979.”
 
 #### Effective Date of 1977 Amendments
 
-Section 501 of Pub. L. 95–202 provided that: “The provisions of this Act \[see Tables for classification\] shall become effective on the first day of the first month beginning 60 days after the date of enactment of this Act \[Nov. 23, 1977\], except that the provisions of title I and section 304(a)(1)(A) shall be effective retroactively to October 1, 1977, the provisions of sections 201 and 202 shall become effective on January 1, 1978, the provisions of section 203 shall be effective retroactively to May 31, 1976, and the provisions of sections 301, 302(2), 304(a)(1)(B), 304(a)(2), 305(a)(3), 305(b)(2), 305(b)(3), 305(b)(4), 305(c), 306, 307, 308, 309, and 310 and of title IV shall be effective upon enactment \[Nov. 23, 1977\].”
+Pub. L. 95–202, title V, §501, Nov. 23, 1977, 91 Stat. 1450, provided that: “The provisions of this Act \[see Tables for classification\] shall become effective on the first day of the first month beginning 60 days after the date of enactment of this Act \[Nov. 23, 1977\], except that the provisions of title I and section 304(a)(1)(A) shall be effective retroactively to October 1, 1977, the provisions of sections 201 and 202 shall become effective on January 1, 1978, the provisions of section 203 shall be effective retroactively to May 31, 1976, and the provisions of sections 301, 302(2), 304(a)(1)(B), 304(a)(2), 305(a)(3), 305(b)(2), 305(b)(3), 305(b)(4), 305(c), 306, 307, 308, 309, and 310 and of title IV shall be effective upon enactment \[Nov. 23, 1977\].”
 
 Amendment by Pub. L. 95–126 effective Oct. 8, 1977, see section 5 of Pub. L. 95–126, set out as a note under section 5303 of this title.
 
 #### Effective Date of 1975 Amendment
 
-Section 101 of Pub. L. 94–169 provided that the amendment made by that section is effective Jan. 1, 1976.
+Pub. L. 94–169, title I, §101, Dec. 23, 1975, 89 Stat. 1013, provided that the amendment made by that section is effective Jan. 1, 1976.
 
 #### Effective Date of 1971 Amendment
 
@@ -368,7 +368,7 @@ Amendment by Pub. L. 91–588 effective Jan. 1, 1971, see section 10(a) of Pub. 
 
 #### Effective Date of 1967 Amendment
 
-Section 405 of Pub. L. 90–77 provided that:
+Pub. L. 90–77, title IV, §405, Aug. 31, 1967, 81 Stat. 191, provided that:
 
 “(a) Except as provided in subsections (b) and (c) of this section, this Act \[see Tables for classification\] shall become effective on the first day of the first calendar month which begins more than ten days after the date of enactment of this Act \[Aug. 31, 1967\].
 
@@ -380,11 +380,27 @@ Section 405 of Pub. L. 90–77 provided that:
 
 Amendment by Pub. L. 89–311 effective first day of second calendar month following Oct. 31, 1965, see section 9 of Pub. L. 89–311, set out as a note under section 1114 of this title.
 
+#### Short Title of 2013 Amendment
+
+Pub. L. 112–260, §1(a), Jan. 10, 2013, 126 Stat. 2417, provided that: “This Act \[enacting sections 111A and 2414 of this title, amending sections 111, 111A, 2302, 2306, 2308, 2404, 2411, 5503, 7253, and 7255 of this title, enacting provisions set out as notes under sections 527, 2302, 2306, 2402, 2404, 2411, 2414, 7253, and 7255 of this title, section 1144 of Title 10, Armed Forces, and section 2104 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations, and amending provisions set out as a note under section 1712A of this title\] may be cited as the ‘Dignified Burial and Other Veterans’ Benefits Improvement Act of 2012’.”
+
+#### Short Title of 2012 Amendment
+
+Pub. L. 112–198, §1, Nov. 27, 2012, 126 Stat. 1463, provided that: “This Act \[enacting provisions set out as notes under section 1114 of this title\] may be cited as the ‘Veterans’ Compensation Cost-of-Living Adjustment Act of 2012’.”
+
+Pub. L. 112–191, §1(a), Oct. 5, 2012, 126 Stat. 1437, provided that: “This Act \[amending sections 315, 2031, 2033, 2041, 2066, and 3732 of this title, enacting provisions set out as a note under section 315 of this title, and amending provisions set out as a note under section 5101 of this title\] may be cited as the ‘VA Major Construction Authorization and Expiring Authorities Extension Act of 2012’.”
+
+Pub. L. 112–154, §1(a), Aug. 6, 2012, 126 Stat. 1165, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Honoring America's Veterans and Caring for Camp Lejeune Families Act of 2012’.”
+
+Pub. L. 112–154, title I, §101, Aug. 6, 2012, 126 Stat. 1167, provided that: “This title \[enacting sections 1709, 1709A, 1722B, and 1787 of this title, amending sections 901, 1710, 1710C to 1710E, 1720, 1729, 1745, and 7308 of this title, and enacting provisions set out as notes under sections 1710, 1720, 1729A, and 7406 of this title\] may be cited as the ‘Janey Ensminger Act’.”
+
+Pub. L. 112–154, title II, §201, Aug. 6, 2012, 126 Stat. 1176, provided that: “This title \[enacting section 8168 of this title, amending sections 2101, 2102, 2102A, 3701, 3704, 3707, 3707A, 3729, 8161, 8162, 8164 to 8167, and 8169 of this title, and enacting provisions set out as notes under sections 2101, 2102, 2102A, 3701, 8162, and 8168 of this title\] may be cited as the ‘Andrew Connolly Veterans Housing Act’.”
+
 #### Short Title of 2011 Amendment
 
 Pub. L. 112–56, title II, §201, Nov. 21, 2011, 125 Stat. 712, provided that: “This title \[see Tables for classification\] may be cited as the ‘VOW to Hire Heroes Act of 2011’.”
 
-Pub. L. 112–53, §1, Nov. 9, 2011, 125 Stat. 548, provided that: “This Act \[enacting provisions set out as notes under section 1114 of this title\] may be cited as the ‘Veterans’ Compensation Cost-of-Living Adjustment Act of 2011’.”
+Pub. L. 112–53, §1, Nov. 9, 2011, 125 Stat. 548, provided that: “This Act \[enacting provisions set out as notesunder section 1114 of this title\] may be cited as the ‘Veterans’ Compensation Cost-of-Living Adjustment Act of 2011’.”
 
 Pub. L. 112–37, §1(a), Oct. 5, 2011, 125 Stat. 392, provided that: “This Act \[amending sections 1703, 2013, 2021, 2031, 2033, 2041, 2044, 2061, 2066, 2102A, 3729, 5317, 5317A, 8104, and 8118 of this title and section 653 of Title 42, The Public Health and Welfare\] may be cited as the ‘Veterans Health Care Facilities Capital Improvement Act of 2011’.”
 
@@ -400,7 +416,7 @@ Pub. L. 111–275, title I, §104(a), Oct. 13, 2010, 124 Stat. 2867, provided th
 
 Pub. L. 111–275, title V, §502(a), Oct. 13, 2010, 124 Stat. 2882, provided that: “This section \[amending sections 107, 2301, 2306, and 2402 of this title and enacting provisions set out as notes under sections 107 and 2402 of this title\] may be cited as the ‘Corey Shea Act’.”
 
-Pub. L. 111–247, §1, Sept. 30, 2010, 124 Stat. 2623, provided that: “This Act \[enacting provisions set out asnotes under section 1114 of this title\] may be cited as \[the\] ‘Veterans’ Compensation Cost-of-Living Adjustment Act of 2010’.”
+Pub. L. 111–247, §1, Sept. 30, 2010, 124 Stat. 2623, provided that: “This Act \[enacting provisions set out as notes under section 1114 of this title\] may be cited as \[the\] ‘Veterans’ Compensation Cost-of-Living Adjustment Act of 2010’.”
 
 Pub. L. 111–163, §1(a), May 5, 2010, 124 Stat. 1130, provided that: “This Act \[enacting chapter 75 and sections 118, 1720G, 1730A, 1786, 7311A, 7321A, 7459, and 7618 of this title, amending sections 111, 542, 544, 902, 903, 1705, 1710, 1710E, 1712A, 1717, 1720, 1720D, 1729, 1781, 1782, 2012, 7306, 7311, 7332, 7361 to 7364, 7366, 7401, 7403 to 7405, 7410, 7431, 7451 to 7456, 7456A, 7612, 7618, and 7681 to 7683 of this title, renumbering sections 7364A and 7618 of this title as sections 7365 and 7619, respectively, repealing sections 7365 and 8107 of this title, enacting provisions set out as notes under sections 111, 523, 542, 1703, 1710, 1712, 1712A, 1717, 1720G, 7306, 7404, 7431, 7501, and 7681 of this title, and amending provisions set out as notes under sections 527 and 1703 of this title\] may be cited as the ‘Caregivers and Veterans Omnibus Health Services Act of 2010’.”
 
@@ -426,7 +442,7 @@ Pub. L. 110–252, title V, §5001, June 30, 2008, 122 Stat. 2357, provided that
 
 Pub. L. 110–157, §1(a), Dec. 26, 2007, 121 Stat. 1831, provided that: “This Act \[enacting section 5317A of this title, amending sections 1114, 1160, 2306, 2408, and 3485 of this title and section 653 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under sections 2306 and 2408 of this title\] may be cited as the ‘Dr. James Allen Veteran Vision Equity Act of 2007’.”
 
-Pub. L. 110–111, §1, Nov. 5, 2007, 121 Stat. 1035, provided that: “This Act \[enacting provisions set out as notes under section 1114 of this title\] may be cited as the ‘Veterans’ Compensation Cost-of-Living Adjustment Act of 2007’.”
+Pub. L. 110–111, §1, Nov. 5, 2007, 121 Stat. 1035, provided that: “This Act \[enacting provisions set out asnotes under section 1114 of this title\] may be cited as the ‘Veterans’ Compensation Cost-of-Living Adjustment Act of 2007’.”
 
 Pub. L. 110–110, §1, Nov. 5, 2007, 121 Stat. 1031, provided that: “This Act \[enacting section 1720F of this title and provisions set out as a note under section 1720F of this title\] may be cited as the ‘Joshua Omvig Veterans Suicide Prevention Act’.”
 
@@ -476,7 +492,7 @@ Pub. L. 107–330, §1(a), Dec. 6, 2002, 116 Stat. 2820, provided that: “This 
 
 Pub. L. 107–288, §1(a), Nov. 7, 2002, 116 Stat. 2033, provided that: “This Act \[enacting sections 4112 and 4215 of this title, amending sections 3117, 4101 to 4104, 4106, 4107, 4109, 4211, 4212, and 4214 of this title, repealing section 4104A of this title, and enacting provisions set out as notes under sections 4100, 4101, 4102, 4102A, 4103A, 4106, 4107, 4211, 4214, and 4215 of this title\] may be cited as the ‘Jobs for Veterans Act’.”
 
-Pub. L. 107–287, §1, Nov. 7, 2002, 116 Stat. 2024, provided that: “This Act \[enacting sections 1785, 7325, 7326, and 8117 of this title, amending sections 308 and 8111A of this title and section 5315 of Title 5, Government Organization and Employees, enacting provisions set out as notes under sections 7325 and 7326 of this title, and amending provisions set out as a note preceding section 8117 of this title\] may be cited as the ‘Department of Veterans Affairs Emergency Preparedness Act of 2002’.”
+Pub. L. 107–287, §1, Nov. 7, 2002, 116 Stat. 2024, provided that: “This Act \[enacting sections 1785, 7325, 7326, and 8117 of this title, amending sections 308 and 8111A of this title and section 5315 of Title 5, Government Organization and Employees, enacting provisions set out as notes under sections 7325 and 7326 of this title, and amending provisions set out as a note preceding section8117 of this title\] may be cited as the ‘Department of Veterans Affairs Emergency Preparedness Act of 2002’.”
 
 Pub. L. 107–247, §1, Oct. 23, 2002, 116 Stat. 1517, provided that: “This Act \[enacting provisions set out as notes under section 1114 of this title\] may be cited as the ‘Veterans’ Compensation Cost-of-Living Adjustment Act of 2002’.”
 
@@ -494,7 +510,7 @@ Pub. L. 107–14, §1(a), June 5, 2001, 115 Stat. 25, provided that: “This Act
 
 #### Short Title of 2000 Amendments
 
-Pub. L. 106–475, §1, Nov. 9, 2000, 114 Stat. 2096, provided that: “This Act \[enacting sections 5100, 5102 to 5103A, and 5126 of this title, amending sections 5106 and 5107 of this title, repealing former sections 5102 and 5103of this title, and enacting provisions set out as a note under section 5107 of this title\] may be cited as the ‘Veterans Claims Assistance Act of 2000’.”
+Pub. L. 106–475, §1, Nov. 9, 2000, 114 Stat. 2096, provided that: “This Act \[enacting sections 5100, 5102 to 5103A, and 5126 of this title, amending sections 5106 and 5107 of this title, repealing former sections 5102 and 5103 of this title, and enacting provisions set out as a note under section 5107 of this title\] may be cited as the ‘Veterans Claims Assistance Act of 2000’.”
 
 Pub. L. 106–419, §1(a), Nov. 1, 2000, 114 Stat. 1822, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Veterans Benefits and Health Care Improvement Act of 2000’.”
 
@@ -530,9 +546,9 @@ Pub. L. 105–33, title VIII, §8001(a), Aug. 5, 1997, 111 Stat. 663, provided t
 
 #### Short Title of 1996 Amendments
 
-Section 1(a) of Pub. L. 104–275 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Veterans’ Benefits Improvements Act of 1996’.”
+Pub. L. 104–275, §1(a), Oct. 9, 1996, 110 Stat. 3322, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Veterans’ Benefits Improvements Act of 1996’.”
 
-Section 401 of title IV of Pub. L. 104–275 provided that: “This title \[amending sections 1315, 1965, 1967 to 1971, 1973, 1974, 1977, 3017, and 3224 of this title and enacting provisions set out as notes under sections 1965 and 1968 of this title\] may be cited as the ‘Veterans’ Insurance Reform Act of 1996’.”
+Pub. L. 104–275, title IV, §401, Oct. 9, 1996, 110 Stat. 3337, provided that: “This title \[amending sections 1315, 1965, 1967 to 1971, 1973, 1974, 1977, 3017, and 3224 of this title and enacting provisions set out as notes under sections 1965 and 1968 of this title\] may be cited as the ‘Veterans’ Insurance Reform Act of 1996’.”
 
 Pub. L. 104–263, §1, Oct. 9, 1996, 110 Stat. 3212, provided that: “This Act \[enacting provisions set out as a note under section 1114 of this title\] may be cited as the ‘Veterans’ Compensation Cost-of-Living Adjustment Act of 1996’.”
 
@@ -548,9 +564,9 @@ Pub. L. 104–57, §1, Nov. 22, 1995, 109 Stat. 555, provided that: “This Act 
 
 Pub. L. 103–452, §1(a), Nov. 2, 1994, 108 Stat. 4783, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Veterans Health Programs Extension Act of 1994’.”
 
-Section 1(a) of Pub. L. 103–446 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Veterans’ Benefits Improvements Act of 1994’.”
+Pub. L. 103–446, §1(a), Nov. 2, 1994, 108 Stat. 4645, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Veterans’ Benefits Improvements Act of 1994’.”
 
-Section 101 of title I of Pub. L. 103–446 provided that: “This Act \[probably means title I of Pub. L. 103–446, see Tables for classification\] may be cited as the ‘Persian Gulf War Veterans’ Benefits Act’.”
+Pub. L. 103–446, title I, §101, Nov. 2, 1994, 108 Stat. 4647, provided that: “This Act \[probably means title I of Pub. L. 103–446, see Tables for classification\] may be cited as the ‘Persian Gulf War Veterans’ Benefits Act’.”
 
 Pub. L. 103–418, §1, Oct. 25, 1994, 108 Stat. 4336, provided that: “This Act \[enacting provisions set out as notes under section 1114 of this title\] may be cited as the ‘Veterans’ Compensation Cost-of-Living Adjustment Act of 1994’.”
 
@@ -590,17 +606,17 @@ Pub. L. 102–152, §1(a), Nov. 12, 1991, 105 Stat. 985, provided that: “This 
 
 Pub. L. 102–127, §1, Oct. 10, 1991, 105 Stat. 619, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Veterans’ Educational Assistance Amendments of 1991’.”
 
-Section 1(a) of Pub. L. 102–86 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Veterans’ Benefits Programs Improvement Act of 1991’.”
+Pub. L. 102–86, §1(a), Aug. 14, 1991, 105 Stat. 414, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Veterans’ Benefits Programs Improvement Act of 1991’.”
 
-Section 1(a) of Pub. L. 102–83 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Department of Veterans Affairs Codification Act’.”
+Pub. L. 102–83, §1(a), Aug. 6, 1991, 105 Stat. 378, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Department of Veterans Affairs Codification Act’.”
 
-Section 1(a) of Pub. L. 102–40 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Department of Veterans Affairs Health-Care Personnel Act of 1991’.”
+Pub. L. 102–40, §1(a), May 7, 1991, 105 Stat. 187, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Department of Veterans Affairs Health-Care Personnel Act of 1991’.”
 
-Section 101 of title I of Pub. L. 102–40 provided that: “This title \[see Tables for classification\] may be cited as the ‘Department of Veterans Affairs Physician and Dentist Recruitment and Retention Act of 1991’.”
+Pub. L. 102–40, title I, §101, May 7, 1991, 105 Stat. 187, provided that: “This title \[see Tables for classification\] may be cited as the ‘Department of Veterans Affairs Physician and Dentist Recruitment and Retention Act of 1991’.”
 
-Section 201 of title II of Pub. L. 102–40 provided that: “This title \[see Tables for classification\] may be cited as the ‘Department of Veterans Affairs Labor Relations Improvement Act of 1991’.”
+Pub. L. 102–40, title II, §201, May 7, 1991, 105 Stat. 200, provided that: “This title \[see Tables for classification\] may be cited as the ‘Department of Veterans Affairs Labor Relations Improvement Act of 1991’.”
 
-Section 331 of Pub. L. 102–25 provided that: “This part \[part C (§§331–341) of title III of Pub. L. 102–25, see Tables for classification\] may be cited as the ‘Persian Gulf War Veterans’ Benefits Act of 1991’.”
+Pub. L. 102–25, title III, §331, Apr. 6, 1991, 105 Stat. 88, provided that: “This part \[part C (§§331–341) of title III of Pub. L. 102–25, see Tables for classification\] may be cited as the ‘Persian Gulf War Veterans’ Benefits Act of 1991’.”
 
 Pub. L. 102–4, §1, Feb. 6, 1991, 105 Stat. 11, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Agent Orange Act of 1991’.”
 
@@ -612,11 +628,11 @@ Pub. L. 101–366, §1, Aug. 15, 1990, 104 Stat. 430, provided that: “This Act
 
 #### Short Title of 1989 Amendments
 
-Section 1(a) of Pub. L. 101–237 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Veterans’ Benefits Amendments of 1989’.”
+Pub. L. 101–237, §1(a), Dec. 18, 1989, 103 Stat. 2062, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Veterans’ Benefits Amendments of 1989’.”
 
-Section 301 of title III of Pub. L. 101–237 provided that: “This title \[see Tables for classification\] may be cited as the ‘Veterans Home Loan Indemnity and Restructuring Act of 1989’.”
+Pub. L. 101–237, title III, §301, Dec. 18, 1989, 103 Stat. 2069, provided that: “This title \[see Tables for classification\] may be cited as the ‘Veterans Home Loan Indemnity and Restructuring Act of 1989’.”
 
-Section 401 of title IV of Pub. L. 101–237 provided that: “This title \[see Tables for classification\] may be cited as the ‘Veterans Education and Employment Amendments of 1989’.”
+Pub. L. 101–237, title IV, §401, Dec. 18, 1989, 103 Stat. 2078, provided that: “This title \[see Tables for classification\] may be cited as the ‘Veterans Education and Employment Amendments of 1989’.”
 
 Pub. L. 101–94, §1, Aug. 16, 1989, 103 Stat. 617, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Court of Veterans Appeals Judges Retirement Act’.”
 
@@ -632,7 +648,7 @@ For short title of Pub. L. 100–527 as the “Department of Veterans Affairs Ac
 
 Pub. L. 100–323, §1(a), May 20, 1988, 102 Stat. 556, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Veterans’ Employment, Training, and Counseling Amendments of 1988’.”
 
-Section 1(a) of Pub. L. 100–322 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Veterans’ Benefits and Services Act of 1988’.”
+Pub. L. 100–322, §1(a), May 20, 1988, 102 Stat. 487, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Veterans’ Benefits and Services Act of 1988’.”
 
 Pub. L. 100–321, §1, May 20, 1988, 102 Stat. 485, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Radiation-Exposed Veterans Compensation Act of 1988’.”
 
@@ -648,7 +664,7 @@ Pub. L. 100–48, §1, June 1, 1987, 101 Stat. 331, provided that: “This Act \
 
 #### Short Title of 1986 Amendments
 
-Section 1(a) of Pub. L. 99–576 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Veterans’ Benefits Improvement and Health-Care Authorization Act of 1986’.”
+Pub. L. 99–576, §1(a), Oct. 28, 1986, 100 Stat. 3248, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Veterans’ Benefits Improvement and Health-Care Authorization Act of 1986’.”
 
 Pub. L. 99–272, title XIX, §19001(a), Apr. 7, 1986, 100 Stat. 372, provided that: “This title \[see Tables for classification\] may be cited as the ‘Veterans’ Health-Care Amendments of 1986’.”
 
@@ -656,7 +672,7 @@ Pub. L. 99–238, §1, Jan. 13, 1986, 99 Stat. 1765, provided that: “This Act 
 
 #### Short Title of 1985 Amendment
 
-Pub. L. 99–166, §1(a), Dec. 3, 1985, 99 Stat. 941, provided that: “This Act \[see Tables for classification\] may becited as the ‘Veterans’ Administration Health-Care Amendments of 1985’.”
+Pub. L. 99–166, §1(a), Dec. 3, 1985, 99 Stat. 941, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Veterans’ Administration Health-Care Amendments of 1985’.”
 
 #### Short Title of 1984 Amendments
 
@@ -668,7 +684,7 @@ Pub. L. 98–528, §1(a), Oct. 19, 1984, 98 Stat. 2686, provided that: “This A
 
 Pub. L. 98–525, title VII, §701, Oct. 19, 1984, 98 Stat. 2553, as amended by Pub. L. 100–48, §2, June 1, 1987, 101 Stat. 331, provided that: “This title \[see Tables for classification\] may be cited as the ‘Montgomery GI Bill Act of 1984’.”
 
-Section 1 of Pub. L. 98–223 provided in part: “That (a) this Act \[see Tables for classification\] may be cited as the ‘Veterans’ Compensation and Program Improvements Amendments of 1984’.”
+Pub. L. 98–223, §1(a), Mar. 2, 1984, 98 Stat. 37, provided: “That (a) this Act \[see Tables for classification\] may be cited as the ‘Veterans’ Compensation and Program Improvements Amendments of 1984’.”
 
 #### Short Title of 1983 Amendment
 
@@ -676,7 +692,7 @@ Pub. L. 98–160, §1(a), Nov. 21, 1983, 97 Stat. 993, provided that: “This Ac
 
 #### Short Title of 1982 Amendments
 
-Section 1(a) of Pub. L. 97–306 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Veterans’ Compensation, Education, and Employment Amendments of 1982’.”
+Pub. L. 97–306, §1(a), Oct. 14, 1982, 96 Stat. 1429, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Veterans’ Compensation, Education, and Employment Amendments of 1982’.”
 
 Pub. L. 97–251, §1(a), Sept. 8, 1982, 96 Stat. 711, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Veterans’ Administration Health-Care Programs Improvement and Extension Act of 1982’.”
 
@@ -704,13 +720,13 @@ Pub. L. 96–330, §1(a), Aug. 26, 1980, 94 Stat. 1030, provided that: “this A
 
 Pub. L. 96–151, §1(a), Dec. 20, 1979, 93 Stat. 1092, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Veterans Health Programs Extension and Improvement Act of 1979’.”
 
-Pub. L. 96–128, §1, Nov. 28, 1979, 93 Stat. 982, provided: “That this Act \[see Tables for classification\] may be cited as the ‘Veterans’ Disability Compensation and Survivors’ Benefits Amendments of 1979’.”
+Pub. L. 96–128, §1, Nov. 28, 1979, 93 Stat. 982, provided: “That this Act \[see Tables for classification\] may becited as the ‘Veterans’ Disability Compensation and Survivors’ Benefits Amendments of 1979’.”
 
-Section 1(a) of Pub. L. 96–22 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Veterans’ Health Care Amendments of 1979’.”
+Pub. L. 96–22, §1(a), June 13, 1979, 93 Stat. 47, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Veterans’ Health Care Amendments of 1979’.”
 
 #### Short Title of 1978 Amendments
 
-Section 1 of Pub. L. 95–588 provided: “That this Act \[see Tables for classification\] may be cited as the ‘Veterans’ and Survivors’ Pension Improvement Act of 1978’.”
+Pub. L. 95–588, §1, Nov. 4, 1978, 92 Stat. 2497, provided: “That this Act \[see Tables for classification\] may be cited as the ‘Veterans’ and Survivors’ Pension Improvement Act of 1978’.”
 
 Pub. L. 95–520, §1, Oct. 26, 1978, 92 Stat. 1820, provided: “That this Act \[see Tables for classification\] may be cited as the ‘Veterans’ Administration Programs Extension Act of 1978’.”
 
@@ -722,7 +738,7 @@ Pub. L. 95–476, §1(a), Oct. 18, 1978, 92 Stat. 1497, provided that: “This A
 
 Pub. L. 95–204, §1, Dec. 2, 1977, 91 Stat. 1455, provided: “That this Act \[see Tables for classification\] be cited as the ‘Veterans and Survivors Pension Adjustment Act of 1977’.”
 
-Section 1 of Pub. L. 95–202 provided: “That this Act \[see Tables for classification\] may be cited as the ‘GI Bill Improvement Act of 1977’.”
+Pub. L. 95–202, §1, Nov. 23, 1977, 91 Stat. 1433, provided: “That this Act \[see Tables for classification\] may be cited as the ‘GI Bill Improvement Act of 1977’.”
 
 Pub. L. 95–201, §1, Nov. 23, 1977, 91 Stat. 1429, provided: “That this Act \[see Tables for classification\] may be cited as the ‘Veterans’ Administration Physician and Dentist Pay Comparability Amendments of 1977’.”
 
@@ -744,11 +760,11 @@ Pub. L. 94–433, §1, Sept. 30, 1976, 90 Stat. 1374, provided: “That this Act
 
 Pub. L. 94–432, §1, Sept. 30, 1976, 90 Stat. 1369, provided: “That this Act \[see Tables for classification\] may be cited as the ‘Veterans and Survivors Pension Adjustment Act of 1976’.”
 
-Pub. L. 94–324, §1, June 30, 1976, 90 Stat. 720, provided that: “This Act \[see Tables for classification\] may becited as the ‘Veterans Housing Amendments Act of 1976’.”
+Pub. L. 94–324, §1, June 30, 1976, 90 Stat. 720, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Veterans Housing Amendments Act of 1976’.”
 
 #### Short Title of 1975 Amendments
 
-Section 1 of Pub. L. 94–169 provided: “That this Act \[see Tables for classification\] may be cited as the ‘Veterans and Survivors Pension Interim Adjustment Act of 1975’.”
+Pub. L. 94–169, §1, Dec. 23, 1975, 89 Stat. 1013, provided: “That this Act \[see Tables for classification\] may be cited as the ‘Veterans and Survivors Pension Interim Adjustment Act of 1975’.”
 
 Pub. L. 94–123, §1, Oct. 22, 1975, 89 Stat. 669, provided: “That this Act \[see Tables for classification\] may be cited as the ‘Veterans’ Administration Physician and Dentist Pay Comparability Act of 1975’.”
 
@@ -780,9 +796,9 @@ Pub. L. 93–43, §1, June 18, 1973, 87 Stat. 75, provided: “That this Act \[s
 
 Pub. L. 92–541, §1, Oct. 24, 1972, 86 Stat. 1100, provided: “That this Act \[see Tables for classification\] may be cited as the ‘Veterans’ Administration Medical School Assistance and Health Manpower Training Act of 1972’.”
 
-Section 1 of Pub. L. 92–540 provided: “That this Act \[see Tables for classification\] may be cited as the ‘Vietnam Era Veterans’ Readjustment Assistance Act of 1972’.”
+Pub. L. 92–540, §1, Oct. 24, 1972, 86 Stat. 1074, provided: “That this Act \[see Tables for classification\] may be cited as the ‘Vietnam Era Veterans’ Readjustment Assistance Act of 1972’.”
 
-Section 501 of title V of Pub. L. 92–540 provided that: “This title \[see Tables for classification\] may be cited as the ‘Veterans’ Employment and Readjustment Act of 1972’.”
+Pub. L. 92–540, title V, §501, Oct. 24, 1972, 86 Stat. 1094, provided that: “This title \[see Tables for classification\] may be cited as the ‘Veterans’ Employment and Readjustment Act of 1972’.”
 
 Pub. L. 92–328, §1, June 30, 1972, 86 Stat. 393, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Veterans’ Compensation and Relief Act of 1972’.”
 
@@ -794,17 +810,17 @@ Pub. L. 91–666, §1, Jan. 11, 1971, 84 Stat. 1998, provided: “That this Act 
 
 Pub. L. 91–506, §1, Oct. 23, 1970, 84 Stat. 1108, provided: “That this Act \[see Tables for classification\] may be cited as the ‘Veterans’ Housing Act of 1970’.”
 
-Pub. L. 91–219, §1, Mar. 26, 1970, 84 Stat. 76, provided: “That this Act \[see Tables for classification\] may be cited as the ‘Veterans Education and Training Amendments Act of 1970’.”
+Pub. L. 91–219, §1, Mar. 26, 1970, 84 Stat. 76, provided: “That this Act \[see Tables for classification\] may becited as the ‘Veterans Education and Training Amendments Act of 1970’.”
 
 #### Short Title of 1967 Amendment
 
-Section 1 of Pub. L. 90–77 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Veterans’ Pension and Readjustment Assistance Act of 1967’.”
+Pub. L. 90–77, §1, Aug. 31, 1967, 81 Stat. 178, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Veterans’ Pension and Readjustment Assistance Act of 1967’.”
 
 #### Short Title of 1966 Amendments
 
 Pub. L. 89–785, §1, Nov. 7, 1966, 80 Stat. 1368, provided: “That this Act \[see Tables for classification\] may be cited as the ‘Veterans Hospitalization and Medical Services Modernization Amendments of 1966’.”
 
-Section 1 of Pub. L. 89–358 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Veterans’ Readjustment Benefits Act of 1966’.”
+Pub. L. 89–358, §1, Mar. 3, 1966, 80 Stat. 12, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Veterans’ Readjustment Benefits Act of 1966’.”
 
 #### Short Title of 1959 Amendment
 
@@ -820,7 +836,7 @@ Pub. L. 109–461, title X, §1006(b), Dec. 22, 2006, 120 Stat. 3468, provided t
 
 #### Redesignation of Sections; Coordination of Redesignations With Other Amendments by Pub. L. 102–83
 
-Section 5 of Pub. L. 102–83 provided that:
+Pub. L. 102–83, §5, Aug. 6, 1991, 105 Stat. 406, provided that:
 
 “(a)
 
@@ -848,7 +864,7 @@ Pub. L. 96–22, title IV, §402, June 13, 1979, 93 Stat. 63, authorized Adminis
 
 #### Disability Compensation or Dependency and Indemnity Compensation Award; Effective Date
 
-Section 6(b) of Pub. L. 91–621 provided effective date for an award by Veteran's Administration arising from injury or death occurring prior to Dec. 31, 1970, and based on a claim arising from amendments made to pars. (21)(C) and (25)(F) of this section and section 5305 of this title, prior to repeal by Pub. L. 107–372, title II, §271(3), Dec. 19, 2002, 116 Stat. 3094.
+Pub. L. 91–621, §6(b), Dec. 31, 1970, 84 Stat. 1864, provided effective date for an award by Veteran's Administration arising from injury or death occurring prior to Dec. 31, 1970, and based on a claim arising from amendments made to pars. (21)(C) and (25)(F) of this section and section 5305 of this title, prior to repeal by Pub. L. 107–372, title II, §271(3), Dec. 19, 2002, 116 Stat. 3094.
 
 #### Proc. No. 4373. Terminal Date Respecting Service During Vietnam Era
 
@@ -876,5 +892,5 @@ Pub. L. 106–117, §3, Nov. 30, 1999, 113 Stat. 1547, provided that: “For pur
 
 Pub. L. 100–687, div. B, §1002, Nov. 18, 1988, 102 Stat. 4122, provided that: “For purposes of this division \[see Tables for classification\], the term ‘Administrator’ means the Administrator of Veterans’ Affairs.”
 
-Section 3 of Pub. L. 100–322 provided that: “For purposes of this Act \[see Tables for classification\], the term ‘Administrator’ means the Administrator of Veterans’ Affairs.”
+Pub. L. 100–322, §3, May 20, 1988, 102 Stat. 489, provided that: “For purposes of this Act \[see Tables for classification\], the term ‘Administrator’ means the Administrator of Veterans’ Affairs.”
 

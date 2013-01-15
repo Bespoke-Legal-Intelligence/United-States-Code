@@ -20,7 +20,7 @@ In determining whether to delegate authority to a mortgagee under this section, 
 
 #### (d) Termination of mortgagee's authority
 
-If a mortgagee to which the Secretary has made a delegation under this section violates the requirements and procedures established by the Secretary or the Secretary determines thatother good cause exists, the Secretary may cancel a delegation of authority under this section to the mortgagee by giving notice to the mortgagee. Such a cancellation shall be effective upon receipt of the notice by the mortgagee or at a later date specified by the Secretary. A decision by the Secretary to cancel a delegation shall be final and conclusive and shall not be subject to judicial review.
+If a mortgagee to which the Secretary has made a delegation under this section violates the requirements and procedures established by the Secretary or the Secretary determines that other good cause exists, the Secretary may cancel a delegation of authority under this section to the mortgagee by giving notice to the mortgagee. Such a cancellation shall be effective upon receipt of the notice by the mortgagee or at a later date specified by the Secretary. A decision by the Secretary to cancel a delegation shall be final and conclusive and shall not be subject to judicial review.
 
 #### (e) Requirements and procedures
 

@@ -1,6 +1,6 @@
 ### §1473. Revenue and customs or tariff treatment of deep seabed mining unaffected
 
-Except as otherwise provided in sections 4495 to 4498 <sup>1</sup> of title 26, nothing in this chapter shallaffect the application of title 26. Nothing in this chapter shall affect the application of the customs or tariff laws of the United States.
+Except as otherwise provided in sections 4495 to 4498 <sup>1</sup> of title 26, nothing in this chapter shall affect the application of title 26. Nothing in this chapter shall affect the application of the customs or tariff laws of the United States.
 
 (Pub. L. 96–283, title IV, §404, June 28, 1980, 94 Stat. 586; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
 

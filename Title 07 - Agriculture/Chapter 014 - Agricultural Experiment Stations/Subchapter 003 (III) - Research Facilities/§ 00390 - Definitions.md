@@ -58,9 +58,9 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 #### Effective Date
 
-Section 884(b) of Pub. L. 104–127 provided that: “The amendment made by subsection (a) \[enacting this subchapter\], other than section 4 of the Research Facilities Act \[section 390b of this title\] (as amended by subsection (a)), shall not apply to any project for an agricultural research facility for which funds have been made available for a feasibility study or for any phase of the project prior to October 1, 1995.”
+Pub. L. 104–127, title VIII, §884(b), Apr. 4, 1996, 110 Stat. 1179, provided that: “The amendment made by subsection (a) \[enacting this subchapter\], other than section 4 of the Research Facilities Act \[section 390b of this title\] (as amended by subsection (a)), shall not apply to any project for an agricultural research facility for which funds have been made available for a feasibility study or for any phase of the project prior to October 1, 1995.”
 
 #### Short Title
 
-Section 1 of Pub. L. 88–74, as added by Pub. L. 104–127, title VIII, §884(a), Apr. 4, 1996, 110 Stat. 1176, provided that: “This Act \[enacting this subchapter\] may be cited as the ‘Research Facilities Act’.”
+Pub. L. 88–74, §1, as added by Pub. L. 104–127, title VIII, §884(a), Apr. 4, 1996, 110 Stat. 1176, provided that: “This Act \[enacting this subchapter\] may be cited as the ‘Research Facilities Act’.”
 

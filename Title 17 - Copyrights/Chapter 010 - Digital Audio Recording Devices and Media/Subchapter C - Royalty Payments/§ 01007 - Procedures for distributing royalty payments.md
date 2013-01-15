@@ -46,7 +46,7 @@ Subsec. (c). Pub. L. 103–198, §6(b)(4)(C), substituted first sentence for “
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–303 effective as if included in the Copyright Royalty and Distribution Reform Actof 2004, Pub. L. 108–419, see section 6 of Pub. L. 109–303, set out as a note under section 111 of this title.
+Amendment by Pub. L. 109–303 effective as if included in the Copyright Royalty and Distribution Reform Act of 2004, Pub. L. 108–419, see section 6 of Pub. L. 109–303, set out as a note under section 111 of this title.
 
 #### Effective Date of 2004 Amendment
 

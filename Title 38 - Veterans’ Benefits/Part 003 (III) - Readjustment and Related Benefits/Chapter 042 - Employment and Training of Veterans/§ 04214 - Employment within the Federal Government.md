@@ -52,7 +52,7 @@
 
 (g) To further the policy stated in subsection (a) of this section, the Secretary may give preference to qualified covered veterans for employment in the Department as veterans’ benefits counselors and veterans’ claims examiners and in positions to provide the outreach services required under section 6303 of this title, to serve as veterans’ representatives at certain educational institutions as provided in section 6305 of this title, or to provide readjustment counseling under section 1712A of this title.
 
-(Added Pub. L. 93–508, title IV, §403(a), Dec. 3, 1974, 88 Stat. 1593, §2014; amended Pub. L. 95–202, title III, §308, Nov. 23, 1977, 91 Stat. 1445; Pub. L. 95–520, §6(b), Oct. 26, 1978, 92 Stat. 1821; Pub. L. 96–466, title V, §510, title VIII, §801(<i>l</i>), Oct. 17, 1980, 94 Stat. 2207, 2217; Pub. L. 97–72, title II, §202(a), Nov. 3, 1981, 95 Stat. 1054; Pub. L. 97–295, §4(95)(A), Oct. 12, 1982, 96 Stat. 1313; Pub. L. 98–543, title II, §211, Oct. 24, 1984, 98 Stat. 2743; Pub. L. 99–576, title III, §332, Oct. 28, 1986, 100Stat. 3279; Pub. L. 101–237, title IV, §407(a)(1), (b), Dec. 18, 1989, 103 Stat. 2082; Pub. L. 102–16, §9(a), (b), Mar. 22, 1991, 105 Stat. 54; renumbered §4214 and amended Pub. L. 102–83, §§2(c)(5), 4(a)(1), (3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 402–406; Pub. L. 102–127, §4, Oct. 10, 1991, 105 Stat. 622; Pub. L. 102–568, title V, §505, Oct. 29, 1992, 106 Stat. 4340; Pub. L. 107–288, §2(c)(1)–(3), Nov. 7, 2002, 116 Stat. 2036; Pub. L. 109–233, title IV, §402(e)(3), June 15, 2006, 120 Stat. 411.)
+(Added Pub. L. 93–508, title IV, §403(a), Dec. 3, 1974, 88 Stat. 1593, §2014; amended Pub. L. 95–202, title III, §308, Nov. 23, 1977, 91 Stat. 1445; Pub. L. 95–520, §6(b), Oct. 26, 1978, 92 Stat. 1821; Pub. L. 96–466, title V, §510, title VIII, §801(l), Oct. 17, 1980, 94 Stat. 2207, 2217; Pub. L. 97–72, title II, §202(a), Nov. 3, 1981, 95 Stat. 1054; Pub. L. 97–295, §4(95)(A), Oct. 12, 1982, 96 Stat. 1313; Pub. L. 98–543, title II, §211, Oct. 24, 1984, 98 Stat. 2743; Pub. L. 99–576, title III, §332, Oct. 28, 1986, 100 Stat. 3279; Pub. L. 101–237, title IV, §407(a)(1), (b), Dec. 18, 1989, 103 Stat. 2082; Pub. L. 102–16, §9(a), (b), Mar. 22, 1991, 105 Stat. 54; renumbered §4214 and amended Pub. L. 102–83, §§2(c)(5), 4(a)(1), (3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 402–406; Pub. L. 102–127, §4, Oct. 10, 1991, 105 Stat. 622; Pub. L. 102–568, title V, §505, Oct. 29, 1992, 106 Stat. 4340; Pub. L. 107–288, §2(c)(1)–(3), Nov. 7, 2002, 116 Stat. 2036; Pub. L. 109–233, title IV, §402(e)(3), June 15, 2006, 120 Stat. 411.)
 
 #### References in Text
 
@@ -170,15 +170,15 @@ Subsec. (e). Pub. L. 98–543, §211(d), substituted provisions listing informat
 
 <b>1981</b>—Subsec. (b)(2). Pub. L. 97–72 substituted “September 30, 1984” for “September 30, 1981”.
 
-<b>1980</b>—Subsec. (b)(1). Pub. L. 96–466, §801(<i>l</i>)(1), substituted “Office of Personnel Management” for “Civil Service Commission”.
+<b>1980</b>—Subsec. (b)(1). Pub. L. 96–466, §801(l)(1), substituted “Office of Personnel Management” for “Civil Service Commission”.
 
-Subsec. (b)(2), (3). Pub. L. 96–466, §801(<i>l</i>)(2), redesignated par. (3) as (2). Former par. (2), which provided that in this subsection “veteran of the Vietnam era” had the meaning given such term in section 2011(2)(A) of this title, was struck out.
+Subsec. (b)(2), (3). Pub. L. 96–466, §801(l)(2), redesignated par. (3) as (2). Former par. (2), which provided that in this subsection “veteran of the Vietnam era” had the meaning given such term in section 2011(2)(A) of this title, was struck out.
 
-Subsec. (c). Pub. L. 96–466, §801(<i>l</i>)(1), (3), substituted “the Rehabilitation Act of 1973 (29 U.S.C. 791(b))” for “Public Law 93–112 (87 Stat. 391)” and “Office of Personnel Management” for “Civil Service Commission”.
+Subsec. (c). Pub. L. 96–466, §801(l)(1), (3), substituted “the Rehabilitation Act of 1973 (29 U.S.C. 791(b))” for “Public Law 93–112 (87 Stat. 391)” and “Office of Personnel Management” for “Civil Service Commission”.
 
-Subsec. (d). Pub. L. 96–466, §801(<i>l</i>)(1), substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively.
+Subsec. (d). Pub. L. 96–466, §801(l)(1), substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively.
 
-Subsec. (e). Pub. L. 96–466, §801(<i>l</i>)(1), (4), substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively, and “the Rehabilitation Act of 1973 (29 U.S.C. 791(d))” for “such Public Law 93–112”.
+Subsec. (e). Pub. L. 96–466, §801(l)(1), (4), substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively, and “the Rehabilitation Act of 1973 (29 U.S.C. 791(d))” for “such Public Law 93–112”.
 
 Subsec. (g). Pub. L. 96–466, §510, added subsec. (g).
 
@@ -196,11 +196,11 @@ Pub. L. 107–288, §2(c)(4), Nov. 7, 2002, 116 Stat. 2036, provided that: “Th
 
 #### Effective Date of 1991 Amendment
 
-Section 9(d) of Pub. L. 102–16, as amended by Pub. L. 102–86, title V, §506(c), Aug. 14, 1991, 105 Stat. 426; Pub. L. 103–353, §6(a), Oct. 13, 1994, 108 Stat. 3174, provided that: “The amendments made by this section \[amending this section\] shall apply only to appointments made after the date of the enactment of this Act \[Mar. 22, 1991\].”
+Pub. L. 102–16, §9(d), Mar. 22, 1991, 105 Stat. 55, as amended by Pub. L. 102–86, title V, §506(c), Aug. 14, 1991, 105 Stat. 426; Pub. L. 103–353, §6(a), Oct. 13, 1994, 108 Stat. 3174, provided that: “The amendments made by this section \[amending this section\] shall apply only to appointments made after the date of the enactment of this Act \[Mar. 22, 1991\].”
 
-\[Section 6(b) of Pub. L. 103–353 provided that: “The amendment made by subsection (a) \[amending section 9(d) of Pub. L. 102–16, set out above\] shall take effect as if included in Public Law 102–16 to which such amendment relates.”\]
+\[Pub. L. 103–353, §6(b), Oct. 13, 1994, 108 Stat. 3174, provided that: “The amendment made by subsection (a) \[amending section 9(d) of Pub. L. 102–16, set out above\] shall take effect as if included in Public Law 102–16 to which such amendment relates.”\]
 
-\[Section 506(c) of Pub. L. 102–86 provided that the amendment made by that section to section 9(d) of Pub. L. 102–16, set out above, is effective as of Mar. 22, 1991.\]
+\[Pub. L. 102–86, title V, §506(c), Aug. 14, 1991, 105 Stat. 426, provided that the amendment made by that section to section 9(d) of Pub. L. 102–16, set out above, is effective as of Mar. 22, 1991.\]
 
 #### Effective Date of 1989 Amendment
 
@@ -208,13 +208,13 @@ Amendment by Pub. L. 101–237 effective Jan. 1, 1990, see section 407(c) of Pub
 
 #### Effective Date of 1981 Amendment
 
-Section 202(b) of Pub. L. 97–72 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as of October 1, 1981.”
+Pub. L. 97–72, title II, §202(b), Nov. 3, 1981, 95 Stat. 1054, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as of October 1, 1981.”
 
 #### Effective Date of 1980 Amendment
 
 Amendment by section 510 of Pub. L. 96–466 effective Oct. 1, 1980, see section 802(e) of Pub. L. 96–466, set out as a note under section 4101 of this title.
 
-Amendment by section 801(<i>l</i>) of Pub. L. 96–466 effective Oct. 1, 1980, see section 802(h) of Pub. L. 96–466, set out as a note under section 3452 of this title.
+Amendment by section 801(l) of Pub. L. 96–466 effective Oct. 1, 1980, see section 802(h) of Pub. L. 96–466, set out as a note under section 3452 of this title.
 
 #### Effective Date of 1977 Amendment
 

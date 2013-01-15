@@ -46,9 +46,9 @@ Commodity only schools shall be eligible to receive donated commodities equal in
 
 #### (g) Extension of alternative means of assistance
 
-(1) As used in this subsection, the term “eligible school district” has the same meaning given such term in section 1581(a) of the Food Security Act of 1985.
+(1) As used in this subsection, the term “eligible school district” has the same meaning givensuch term in section 1581(a) of the Food Security Act of 1985.
 
-(2) In accordance with the terms and conditions of section 1581 of such Act, the Secretary shall permit an eligible school district to continue to receive assistance in the form of cash orcommodity letters of credit assistance, in lieu of commodities, to carry out the school lunch program operated in the district.
+(2) In accordance with the terms and conditions of section 1581 of such Act, the Secretary shall permit an eligible school district to continue to receive assistance in the form of cash or commodity letters of credit assistance, in lieu of commodities, to carry out the school lunch program operated in the district.
 
 #### (h) Notice of irradiated food products
 
@@ -186,7 +186,7 @@ Amendment by Pub. L. 103–448 effective Oct. 1, 1994, see section 401 of Pub. L
 
 #### Effective Date of 1989 Amendment
 
-Section 103(b)(2)(B) of Pub. L. 101–147 provided that: “The amendments made by subparagraph (A) \[amending this section\] shall take effect as if such amendments had been effective on June 28, 1988.”
+Pub. L. 101–147, title I, §103(b)(2)(B), Nov. 10, 1989, 103 Stat. 882, provided that: “The amendments made by subparagraph (A) \[amending this section\] shall take effect as if such amendments had been effective on June 28, 1988.”
 
 #### Effective Date of 1984 Amendment
 
@@ -202,7 +202,7 @@ Amendment by Pub. L. 95–627 effective Oct. 1, 1978, see section 14 of Pub. L. 
 
 #### Study of Effect of Combining Federally Donated and Federally Inspected Meat or Poultry
 
-Section 304 of Pub. L. 103–448 directed Comptroller General of the United States to conduct study on incidence and effect of States restricting or prohibiting legally contracted commercial entity from physically combining federally donated and inspected meat or poultry from another State and to submit report to Congress not later than Sept. 1, 1996.
+Pub. L. 103–448, title III, §304, Nov. 2, 1994, 108 Stat. 4750, directed Comptroller General of the United States to conduct study on incidence and effect of States restricting or prohibiting legally contracted commercial entity from physically combining federally donated and inspected meat or poultry from another State and to submit report to Congress not later than Sept. 1, 1996.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -42,7 +42,7 @@ As used in this subchapter, the term—
 
 #### Effective Date of 1982 Amendment
 
-Section 9 of Pub. L. 97–212 provided that:
+Pub. L. 97–212, §9, June 30, 1982, 96 Stat. 147, provided that:
 
 “(a) Except as provided for in subsection (b), the amendments made by this Act \[amending this section and sections 1842 to 1845 of this title, repealing section 1847 of this title, enacting a provision set out as a note under section 1823 of Title 16, Conservation, and amending a provision set out as a note under section 1823 of Title 16\] shall apply with respect to claims for damages that are filed, on or after the date of the enactment of this Act \[June 30, 1982\], with the Secretary of Commerce under section 405(a) of the Outer Continental Shelf Lands Act Amendments of 1978 \[section 1845(a) of this title\].
 

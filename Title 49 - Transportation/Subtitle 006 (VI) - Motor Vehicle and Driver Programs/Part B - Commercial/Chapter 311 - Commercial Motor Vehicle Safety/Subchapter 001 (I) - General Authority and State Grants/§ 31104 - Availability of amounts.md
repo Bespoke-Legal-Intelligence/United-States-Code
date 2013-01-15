@@ -16,9 +16,11 @@ In General.—Subject to subsection (f), there are authorized to be appropriated
 
 &emsp;(6) $209,000,000 for fiscal year 2010;
 
-&emsp;(7) $209,000,000 for fiscal year 2011; and
+&emsp;(7) $209,000,000 for fiscal year 2011;
 
-&emsp;(8) $106,000,000 for the period beginning on October 1, 2011, and ending on March 31, 2012.
+&emsp;(8) $215,000,000 for fiscal year 2013; and
+
+&emsp;(9) $218,000,000 for fiscal year 2014.
 
 (b)
 
@@ -66,11 +68,13 @@ Authorization of appropriations.—There are authorized to be appropriated from 
 
 &emsp;&emsp;(E) $234,000,000 for fiscal year 2009;
 
-&emsp;&emsp;(F) “(F) <sup>1</sup> $239,828,000 for fiscal year 2010;
+&emsp;&emsp;(F) $239,828,000 for fiscal year 2010;
 
-&emsp;&emsp;(G) $244,144,000 for fiscal year 2011; and
+&emsp;&emsp;(G) $244,144,000 for fiscal year 2011;
 
-&emsp;&emsp;(H) $122,072,000 for the period beginning on October 1, 2011, and ending on March 31, 2012.
+&emsp;&emsp;(H) $251,000,000 for fiscal year 2013; and
+
+&emsp;&emsp;(I) $259,000,000 for fiscal year 2014.
 
 &emsp;(2)
 
@@ -102,7 +106,7 @@ Criteria.—The Secretary shall establish safety performance criteria to be used
 
 &emsp;(2)
 
-Set aside.—The Secretary may set aside from amounts made available by subsection (a) up to $15,000,000 for each of fiscal years 2006 through 2011 and $7,500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012, for States, local governments, and organizations representing government agencies or officials described in paragraph (3) for carrying out high priority activities and projects that improve commercial motor vehicle safety and compliance with commercial motor vehicle safety regulations (including activities and projects that are national in scope), increase public awareness and education, demonstrate new technologies, and reduce the number and rate of accidents involving commercial motor vehicles.
+Set aside.—The Secretary may set aside from amounts made available by subsection (a) up to $15,000,000 for each of fiscal years 2006 through 2014 for States, local governments, and organizations representing government agencies or officials described in paragraph (3) for carrying out high priority activities and projects that improve commercial motor vehicle safety and compliance with commercial motor vehicle safety regulations (including activities and projects that are national in scope), increase public awareness and education, demonstrate new technologies, and reduce the number and rate of accidents involving commercial motor vehicles.
 
 &emsp;(3)
 
@@ -112,7 +116,7 @@ Description of recipients.—Amounts set aside under this subsection shall be al
 
 Limitation.—At least 90 percent of the amounts set aside for a fiscal year under this subsection shall be awarded in grants to State agencies and local government agencies.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 987; Pub. L. 105–130, §7, Dec. 1, 1997, 111 Stat. 2559; Pub. L. 105–178, title IV, §4003(e)–(g), June 9, 1998, 112 Stat. 397; Pub. L. 108–88, §7(b), Sept. 30, 2003, 117 Stat. 1120; Pub. L. 108–202, §11(b), Feb. 29, 2004, 118 Stat. 490; Pub. L. 108–224, §9(b), Apr. 30, 2004, 118 Stat. 638; Pub. L. 108–263, §9(b), June 30, 2004, 118 Stat. 709; Pub. L. 108–280, §9(b), July 30, 2004, 118 Stat. 886; Pub. L. 108–310, §7(b), Sept. 30, 2004, 118 Stat. 1153; Pub. L. 109–14, §6(b), May 31, 2005, 119 Stat. 330; Pub. L. 109–20, §6(b), July 1, 2005, 119 Stat. 352; Pub. L. 109–35, §6(b), July 20, 2005, 119 Stat. 385; Pub. L. 109–37, §6(b), July 22, 2005, 119 Stat. 400; Pub. L. 109–40, §6(b), July 28, 2005, 119 Stat. 417; Pub. L. 109–59, title IV, §§4101(a), (b), 4107(a), Aug. 10, 2005, 119 Stat. 1714, 1719; Pub. L. 110–244, title III, §301(a), June 6, 2008, 122 Stat. 1616; Pub. L. 111–147, title IV, §422(a), (b), (d), Mar. 18, 2010, 124 Stat. 86, 87; Pub. L. 111–322, title II, §2202(a), (b), (d), Dec. 22, 2010, 124 Stat. 3524, 3525; Pub. L. 112–5, title II, §202(a), (b), (d), Mar. 4, 2011, 125 Stat. 16, 17; Pub. L. 112–30, title I, §122(a), (b), (d), Sept. 16, 2011, 125 Stat. 348, 349.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 987; Pub. L. 105–130, §7, Dec. 1, 1997, 111 Stat. 2559; Pub. L. 105–178, title IV, §4003(e)–(g), June 9, 1998, 112 Stat. 397; Pub. L. 108–88, §7(b), Sept. 30, 2003, 117 Stat. 1120; Pub. L. 108–202, §11(b), Feb. 29, 2004, 118 Stat. 490; Pub. L. 108–224, §9(b), Apr. 30, 2004, 118 Stat. 638; Pub. L. 108–263, §9(b), June 30, 2004, 118 Stat. 709; Pub. L. 108–280, §9(b), July 30, 2004, 118 Stat. 886; Pub. L. 108–310, §7(b), Sept. 30, 2004, 118 Stat. 1153; Pub. L. 109–14, §6(b), May 31, 2005, 119 Stat. 330; Pub. L. 109–20, §6(b), July 1, 2005, 119 Stat. 352; Pub. L. 109–35, §6(b), July 20, 2005, 119 Stat. 385; Pub. L. 109–37, §6(b), July 22, 2005, 119 Stat. 400; Pub. L. 109–40, §6(b), July 28, 2005, 119 Stat. 417; Pub. L. 109–59, title IV, §§4101(a), (b), 4107(a), Aug. 10, 2005, 119 Stat. 1714, 1719; Pub. L. 110–244, title III, §301(a), June 6, 2008, 122 Stat. 1616; Pub. L. 111–147, title IV, §422(a), (b), (d), Mar. 18, 2010, 124 Stat. 86, 87; Pub. L. 111–322, title II, §2202(a), (b), (d), Dec. 22, 2010, 124 Stat. 3524, 3525; Pub. L. 112–5, title II, §202(a), (b), (d), Mar. 4, 2011, 125 Stat. 16, 17; Pub. L. 112–30, title I, §122(a), (b), (d), Sept. 16, 2011, 125 Stat. 348, 349; Pub. L. 112–102, title II, §202(a), (b), (d), Mar. 30, 2012, 126 Stat. 273, 274; Pub. L. 112–140, title II, §202(a), (b), (d), June 29, 2012, 126 Stat. 394, 395; Pub. L. 112–141, div. C, title II, §32603(a), (b), (d), div. G, title II, §112002(a), (b), July 6, 2012, 126 Stat. 807, 808, 982.)
 
 Historical and Revision Notes
 
@@ -206,6 +210,38 @@ In subsection (j), the words “Not later than 9 months after December 18, 1991�
 
 #### Amendments
 
+<b>2012</b>—Subsec. (a)(7). Pub. L. 112–141, §32603(a)(1), struck out “and” at end.
+
+Subsec. (a)(8). Pub. L. 112–141, §112002(a), amended par. (8) generally. Prior to amendment, par. (8) read as follows: “$159,000,000 for the period beginning on October 1, 2011, and ending on June 30, 2012.”
+
+Pub. L. 112–141, §32603(a)(2), (3), added par. (8) and struck out former par. (8) which read as follows: “$212,000,000 for fiscal year 2012.”
+
+Pub. L. 112–140, §§1(c), 202(a), temporarily amended par. (8) generally, authorizing $161,120,000 for the period beginning on Oct. 1, 2011, and ending on July 6, 2012. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102, §202(a), amended par. (8) generally. Prior to amendment, par. (8) read as follows: “$106,000,000 for the period beginning on October 1, 2011, and ending on March 31, 2012.”
+
+Subsec. (a)(9). Pub. L. 112–141, §32603(a)(3), added par. (9).
+
+Subsec. (i)(1)(F). Pub. L. 112–141, §112002(b)(2), struck out open quotation marks and duplicate subpar. (F) designation after “(F)”.
+
+Subsec. (i)(1)(G). Pub. L. 112–141, §32603(b)(1), struck out “and” at end.
+
+Subsec. (i)(1)(H). Pub. L. 112–141, §112002(b)(1), amended subpar. (H) generally. Prior to amendment, subpar. (H) read as follows: “$183,108,000 for the period beginning on October 1, 2011, and ending on June 30, 2012.”
+
+Pub. L. 112–141, §32603(b)(2), (3), added subpar. (H) and struck out former subpar. (H) which read as follows: “$244,144,000 for fiscal year 2012.”
+
+Pub. L. 112–140, §§1(c), 202(b), temporarily amended subpar. (H) generally, authorizing $185,549,440 for the period beginning on Oct. 1, 2011, and ending on July 6, 2012. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102, §202(b), amended subpar. (H) generally. Prior to amendment, subpar. (H) read as follows: “$122,072,000 for the period beginning on October 1, 2011, and ending on March 31, 2012.”
+
+Subsec. (i)(1)(I). Pub. L. 112–141, §32603(b)(3), added subpar. (I).
+
+Subsec. (k)(2). Pub. L. 112–141, §32603(d), substituted “2014” for “2011 and $11,250,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,”.
+
+Pub. L. 112–140, §§1(c), 202(d), temporarily substituted “2011 and $11,400,000 for the period beginning on October 1, 2011, and ending on July 6, 2012,” for “2011 and $11,250,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,”. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102, §202(d), substituted “2011 and $11,250,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,” for “2011 and $7,500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,”.
+
 <b>2011</b>—Subsec. (a)(7). Pub. L. 112–5, §202(a), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “$88,753,000 for the period beginning October 1, 2010, and ending on March 4, 2011.”
 
 Subsec. (a)(8). Pub. L. 112–30, §122(a), added par. (8).
@@ -290,6 +326,14 @@ Subsec. (j). Pub. L. 105–178, §4003(g)(4), redesignated subsec. (j) as (h).
 
 <b>1997</b>—Subsec. (a). Pub. L. 105–130 substituted “Not more” for “not more” in pars. (1) to (5) and added par. (6).
 
+#### Effective and Termination Dates of 2012 Amendment
+
+Amendment by section 32603(a), (b) of Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as a note under section 101 of Title 23, Highways.
+
+Amendment by section 112002(a), (b) of Pub. L. 112–141 effective July 1, 2012, see section 114001 of Pub. L. 112–141, set out as a note under section 5305 of this title.
+
+Amendment by Pub. L. 112–140 to cease to be effective on July 6, 2012, with text as amended by Pub. L. 112–140 to revert back to read as it did on the day before June 29, 2012, and amendments by Pub. L. 112–141 to be executed as if Pub. L. 112–140 had not been enacted, see section 1(c) of Pub. L. 112–140, set out as a note under section 101 of Title 23, Highways.
+
 #### Funding
 
 Pub. L. 109–59, title IV, §4116(d), Aug. 10, 2005, 119 Stat. 1728, provided that: “Amounts made available pursuant to section 31104(i) of title 49, United States Code, shall be used by the Secretary \[of Transportation\] to carry out section 31149 of title 49, United States Code.”
@@ -297,6 +341,4 @@ Pub. L. 109–59, title IV, §4116(d), Aug. 10, 2005, 119 Stat. 1728, provided t
 #### Increased Authorizations for Motor Carrier Safety Grants
 
 Pub. L. 105–178, title IV, §4003(i), as added by Pub. L. 106–159, title I, §103(b)(1), Dec. 9, 1999, 113 Stat. 1753, provided that: “The amount made available to incur obligations to carry out section 31102 of title 49, United States Code, by section 31104(a) of such title for each of fiscal years 2001 through 2003 shall be increased by $65,000,000.”
-
-<i><sup>1</sup></i><i> So in original.</i>
 

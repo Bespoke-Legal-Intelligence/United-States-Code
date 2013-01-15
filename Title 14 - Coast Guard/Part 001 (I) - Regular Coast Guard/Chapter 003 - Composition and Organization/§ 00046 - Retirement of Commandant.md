@@ -10,7 +10,7 @@
 
 #### Historical and Revision Notes
 
-Based on title 14, U.S.C., 1946 ed., §161 (Jan. 12, 1923, ch. 25, §2, 42 Stat. 1130; June 25, 1936, ch. 808, 49 Stat. 1924; June 9, 1937, ch. 309, §1, 50 Stat. 252; June 6, 1940, ch. 257, §1(a), 54 Stat. 246).
+Based on title 14, U.S.C., 1946 ed., §161 (Jan. 12, 1923, ch. 25, §2, 42 Stat. 1130; June 25, 1936, ch. 808, 49 Stat.1924; June 9, 1937, ch. 309, §1, 50 Stat. 252; June 6, 1940, ch. 257, §1(a), 54 Stat. 246).
 
 Provision is added for retirement of the Commandant with the grade and pay of vice admiral after 3 years service, in the discretion of the President, regardless of total length of service. Provision is also added for retirement with the grade and pay of vice admiral in case of physical disability. 81st Congress, House Report No. 557.
 

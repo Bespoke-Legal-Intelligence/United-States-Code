@@ -42,7 +42,7 @@ A system established in a State under section 10803 of this title to protect and
 
 &emsp;&emsp;&emsp;(iii) such representative has failed or refused to act on behalf of the individual;
 
-&emsp;(5) have an arrangement with the Secretary and the agency of the State which administersthe State plan under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] for the furnishing of the information required by subsection (b) of this section;
+&emsp;(5) have an arrangement with the Secretary and the agency of the State which administers the State plan under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] for the furnishing of the information required by subsection (b) of this section;
 
 &emsp;(6) establish an advisory council—
 
@@ -116,7 +116,7 @@ Subsec. (c). Pub. L. 100–509, §4(2), added subsec. (c).
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–12 effective Apr. 30, 1997, and applicable to Federal payments made pursuant to obligations incurred after Apr. 30, 1997, for items and services provided on or after such date, subject to also being applicable with respect to contracts entered into, renewed, or extended after Apr. 30, 1997, as well as contracts entered into before Apr. 30, 1997, to the extent permitted under such contracts, see section 11 of Pub. L. 105–12, set out as an Effective Date note under section 14401 of this title.
+Amendment by Pub. L. 105–12 effective Apr. 30, 1997, and applicable to Federal payments made pursuant toobligations incurred after Apr. 30, 1997, for items and services provided on or after such date, subject to also being applicable with respect to contracts entered into, renewed, or extended after Apr. 30, 1997, as well as contracts entered into before Apr. 30, 1997, to the extent permitted under such contracts, see section 11 of Pub. L. 105–12, set out as an Effective Date note under section 14401 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “an”.</i>
 

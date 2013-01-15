@@ -114,7 +114,7 @@ Definition.—For purposes of this section, the term ‘force structure allowanc
 
 #### Limitation on Reduction in Number of Reserve Component Medical Personnel
 
-Pub. L. 102–484, div. A, title V, §518, Oct. 23, 1992, 106 Stat. 2407, as amended by Pub. L. 103–337, div. A, title VII, §716, Oct. 5, 1994, 108 Stat. 2803, prohibited Secretary of Defense from reducing number of medical personnel in any reserve component below number of such personnel in that component on Sept. 30, 1992, unless Secretary certified to Congress that number of such personnel to be reduced in particular military department was excess to current and projected needs for personnel in Selected Reserve of that department, and required that assessment of such needs be consistent with wartime requirements for Selected Reserve personnel identified in final report on comprehensive study of military medical care system prepared pursuant to section 733 of Pub. L. 102–190, formerly set out as a note under section 1071 of this title, prior to repeal by Pub. L. 104–106, div. A, title V, §564(d)(3), Feb. 10, 1996, 110 Stat. 327.
+Pub. L. 102–484, div. A, title V, §518, Oct. 23, 1992, 106 Stat. 2407, as amended by Pub. L. 103–337, div. A, title VII, §716, Oct. 5, 1994, 108 Stat. 2803, prohibited Secretary of Defense from reducing number of medical personnel in any reserve component below number of such personnel in that component on Sept. 30, 1992, unless Secretary certified to Congress that number of such personnel to be reduced in particular military department was excess to current and projected needs for personnel in Selected Reserve of that department, and required that assessment of such needs be consistent with wartime requirements for Selected Reserve personnel identified in final report on comprehensive study ofmilitary medical care system prepared pursuant to section 733 of Pub. L. 102–190, formerly set out as a note under section 1071 of this title, prior to repeal by Pub. L. 104–106, div. A, title V, §564(d)(3), Feb. 10, 1996, 110 Stat. 327.
 
 #### Program for Active Component Support of Reserves
 
@@ -156,7 +156,7 @@ Personnel To Be Assigned.—(1) The Secretary shall assign not less than 3,500 a
 
 “(d)
 
-Action on the Basis of Program Results.—Based on the experience under the pilot program, the Secretary of the Army shall by April 1, 1993, submit to the Committees on Armed Services of the Senate and House of Representatives a report containing the Secretary's evaluation of the program to that date. As partof the budget submission for fiscal year 1995, the Secretary shall submit any recommendations for expansion or modification of the program, together with a proposal for any statutory changes that the Secretary considers necessary to implement the program on a permanent basis. In no case may the number of active duty personnel assigned to the program decrease below the number specified for the pilot program.”
+Action on the Basis of Program Results.—Based on the experience under the pilot program, the Secretary of the Army shall by April 1, 1993, submit to the Committees on Armed Services of the Senate and House of Representatives a report containing the Secretary's evaluation of the program to that date. As part of the budget submission for fiscal year 1995, the Secretary shall submit any recommendations for expansion or modification of the program, together with a proposal for any statutory changes that the Secretary considers necessary to implement the program on a permanent basis. In no case may the number of active duty personnel assigned to the program decrease below the number specified for the pilot program.”
 
 #### Reserve Forces Readiness
 
@@ -170,7 +170,7 @@ Pub. L. 98–525, title V, §552(a)–(e), (g), Oct. 19, 1984, 98 Stat. 2530, as
 
 “(2) As part of the report under subsection (a)(2), the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the study carried out under paragraph (1).
 
-“(c) It is the sense of Congress that the number of members of the Army Reserve and of the Army National Guard assigned to full-time manning duty should be increased to 14 percent of the total membership of the Army Reserve and of the Army National Guard, respectively, by fiscal year 1989.
+“(c) It is the sense of Congress that the number of members of the Army Reserve and of the Army National Guard assigned to full-time manning duty should be increased to 14 percent of the total membership ofthe Army Reserve and of the Army National Guard, respectively, by fiscal year 1989.
 
 “(d)(1)(A) The Secretary of Defense, acting through the Assistant Secretary of Defense for Reserve Affairs, shall conduct a study of the benefits of a longer training program for certain units of the reserve components and shall conduct a test of such a program. The test program should begin at the earliest realistic date.
 

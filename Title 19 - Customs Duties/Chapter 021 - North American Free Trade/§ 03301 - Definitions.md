@@ -38,9 +38,9 @@ This Act, referred to in text, is Pub. L. 103–182, Dec. 8, 1993, 107 Stat. 205
 
 The North American Free Trade Agreement, referred to in par. (1), is not set out in the Code.
 
-The Harmonized Tariff Schedule of the United States, referred to in par. (2), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
+The Harmonized Tariff Schedule of the United States, referred to in par. (2), is not set out in the Code. SeePublication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 
 #### Short Title
 
-Section 1(a) of Pub. L. 103–182 provided that: “This Act \[see Tables for classification\] may be cited as the ‘North American Free Trade Agreement Implementation Act’.”
+Pub. L. 103–182, §1(a), Dec. 8, 1993, 107 Stat. 2057, provided that: “This Act \[see Tables for classification\] may be cited as the ‘North American Free Trade Agreement Implementation Act’.”
 

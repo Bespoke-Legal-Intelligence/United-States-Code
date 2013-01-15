@@ -1,6 +1,6 @@
 ### §15902. Enforcement by the Board
 
-The Board may bring a civil action to enforce an order of the Board, except a civil action toenforce an order for the payment of money, when it is violated by a pipeline carrier providing transportation subject to this part.
+The Board may bring a civil action to enforce an order of the Board, except a civil action to enforce an order for the payment of money, when it is violated by a pipeline carrier providing transportation subject to this part.
 
 (Added Pub. L. 104–88, title I, §106(a), Dec. 29, 1995, 109 Stat. 927.)
 

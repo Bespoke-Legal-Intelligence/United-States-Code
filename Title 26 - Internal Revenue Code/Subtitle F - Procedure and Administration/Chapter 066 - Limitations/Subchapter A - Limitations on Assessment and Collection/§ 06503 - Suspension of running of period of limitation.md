@@ -8,7 +8,7 @@
 
 #### (2) Corporation joining in consolidated income tax return
 
-&emsp;If a notice under section 6212(a) in respect of a deficiency in tax imposed by subtitle A for any taxable year is mailed to a corporation, the suspension of the running of the period oflimitations provided in paragraph (1) of this subsection shall apply in the case of corporations with which such corporation made a consolidated income tax return for such taxable year.
+&emsp;If a notice under section 6212(a) in respect of a deficiency in tax imposed by subtitle A for any taxable year is mailed to a corporation, the suspension of the running of the period of limitations provided in paragraph (1) of this subsection shall apply in the case of corporations with which such corporation made a consolidated income tax return for such taxable year.
 
 #### (b) Assets of taxpayer in control or custody of court
 
@@ -20,7 +20,7 @@ The running of the period of limitations on collection after assessment prescrib
 
 #### (d) Extensions of time for payment of estate tax
 
-The running of the period of limitation for collection of any tax imposed by chapter 11 shall be suspended for the period of any extension of time for payment granted under the provisions of section 6161(a)(2) or (b)(2) or under the provisions of section 6163 or 6166.
+The running of the period of limitation for collection of any tax imposed by chapter 11 shall be suspended for the period of any extension oftime for payment granted under the provisions of section 6161(a)(2) or (b)(2) or under the provisions of section 6163 or 6166.
 
 #### (e) Extensions of time for payment of tax attributable to recoveries of foreign expropriation losses
 
@@ -68,7 +68,7 @@ The running of any period of limitations for collection of any amount of undistr
 
 &emsp;&emsp;&emsp;(i) with respect to such summons, or
 
-&emsp;&emsp;&emsp;(ii) with respect to any other summons which is issued during the 30-day period which begins on the date on which such designated summons is issued and whichrelates to the same return as such designated summons, and
+&emsp;&emsp;&emsp;(ii) with respect to any other summons which is issued during the 30-day period which begins on the date on which such designated summons is issued and which relates to the same return as such designated summons, and
 
 &emsp;&emsp;(B) if the court in any proceeding referred to in paragraph (3) requires any compliance with a summons referred to in subparagraph (A), during the 120-day period beginning with the 1st day after the close of the suspension under subparagraph (A).
 
@@ -144,23 +144,23 @@ Subsec. (j)(1). Pub. L. 104–168, §1002(b), which directed substitution of “
 
 Subsec. (j)(2)(A). Pub. L. 104–168, §1002(a), which directed addition of cl. (i) and redesignation of former cls. (i) and (ii) as (ii) and (iii), respectively, in subsec. (k)(2)(A), was executed by making the amendment in subsec. (j)(2)(A) to reflect the probable intent of Congress and the amendment by Pub. L. 101–508, §11801(c)(20)(A), which redesignated subsec. (k) as (j). See 1990 Amendment note below.
 
-Subsec. (k). Pub. L. 104–188, §1702(h)(17)(B), redesignated the subsection relating to cross references (subsec. (<i>l</i>)) as (k).
+Subsec. (k). Pub. L. 104–188, §1702(h)(17)(B), redesignated the subsection relating to cross references (subsec. (l)) as (k).
 
 Pub. L. 104–188, §1702(h)(17)(A), which directed that the subsection relating to extension in case of certain summonses be redesignated as (j), could not be executed, because that subsection (formerly subsec. (k)) was previously redesignated (j) by Pub. L. 101–508, §11801(c)(20)(A). See 1990 Amendment note below.
 
 Pub. L. 104–168, §1002(c), which directed that subsec. (k) be redesignated as (j), could not be executed, because that subsection was redesignated (j) by Pub. L. 101–508, §11801(c)(20)(A). See 1990 Amendment note below.
 
-Subsec. (<i>l</i>). Pub. L. 104–188, §1702(h)(17)(B), redesignated the subsection relating to cross references (subsec. (<i>l</i>)) as (k).
+Subsec. (l). Pub. L. 104–188, §1702(h)(17)(B), redesignated the subsection relating to cross references (subsec. (l)) as (k).
 
-Pub. L. 104–168, §1002(c), which directed that subsec. (<i>l</i>) be redesignated as (k), could not be executed, because that subsection was redesignated (k) by Pub. L. 104–188, §1702(h)(17). See above and see Effective Date of 1996 Amendments note below.
+Pub. L. 104–168, §1002(c), which directed that subsec. (l) be redesignated as (k), could not be executed, because that subsection was redesignated (k) by Pub. L. 104–188, §1702(h)(17). See above and see Effective Date of 1996 Amendments note below.
 
 <b>1990</b>—Subsecs. (h) to (j). Pub. L. 101–508, §11801(c)(20)(A), redesignated subsecs. (i) and (j) as (h) and (i), respectively, and struck out former subsec. (h) “Extension of time for collecting tax attributable to divestitures pursuant to Bank Holding Company Act Amendments of 1970” which read as follows: “The running of the period of limitations for collection of the tax attributable to a sale with respect to which the taxpayer makes an election under section 6158(a) shall be suspended for the period during which there are any unpaid installments of such tax.”
 
 Subsec. (k). Pub. L. 101–508, §11801(c)(20)(A), redesignated subsec. (k) as (j).
 
-Pub. L. 101–508, §11311(a), added subsec. (k). Former subsec. (k) redesignated (<i>l</i>).
+Pub. L. 101–508, §11311(a), added subsec. (k). Former subsec. (k) redesignated (l).
 
-Subsec. (<i>l</i>). Pub. L. 101–508, §11311(a), redesignated subsec. (k) as (<i>l</i>).
+Subsec. (l). Pub. L. 101–508, §11311(a), redesignated subsec. (k) as (l).
 
 <b>1987</b>—Subsec. (g). Pub. L. 100–203 struck out “4951, 4952,” before “4971”.
 
@@ -244,11 +244,11 @@ Amendment by Pub. L. 105–34 effective as if included in the amendments made by
 
 Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
 
-Section 1002(d) of Pub. L. 104–168 provided that: “The amendments made by this section \[amending this section\] shall apply to summonses issued after the date of the enactment of this Act \[July 30, 1996\].”
+Pub. L. 104–168, title X, §1002(d), July 30, 1996, 110 Stat. 1468, provided that: “The amendments made by this section \[amending this section\] shall apply to summonses issued after the date of the enactment of this Act \[July 30, 1996\].”
 
 #### Effective Date of 1990 Amendment
 
-Section 11311(b) of Pub. L. 101–508 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to any tax (whether imposed before, on, or after the date of the enactment of this Act \[Nov. 5, 1990\]) if the period prescribed by section 6501 of the Internal Revenue Code of 1986 for the assessment of such tax (determined with regard to extensions) has not expired on such date of the \[sic\] enactment.”
+Pub. L. 101–508, title XI, §11311(b), Nov. 5, 1990, 104 Stat. 1388–453, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to any tax (whether imposed before, on, or after the date of the enactment of this Act \[Nov. 5, 1990\]) if the period prescribed by section 6501 of the Internal Revenue Code of 1986 for the assessment of such tax (determined with regard to extensions) has not expired on such date of the \[sic\] enactment.”
 
 #### Effective Date of 1987 Amendment
 
@@ -318,11 +318,11 @@ Amendment by act Aug. 6, 1956, applicable in the case of decedents dying after A
 
 #### Savings Provision
 
-For provisions that nothing in amendment by section 11801(c)(20)(A) of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+For provisions that nothing in amendment by section 11801(c)(20)(A) of Pub. L. 101–508 be construed to affecttreatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Annual Report to Congress Concerning Designated Summonses
 
-Section 1003 of Pub. L. 104–168 provided that: “Not later than December 31 of each calendar year after 1995, the Secretary of the Treasury or his delegate shall report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on the number of designated summonses (as defined in section 6503(j) of the Internal Revenue Code of 1986) which were issued during the preceding 12 months.”
+Pub. L. 104–168, title X, §1003, July 30, 1996, 110 Stat. 1468, provided that: “Not later than December 31 of each calendar year after 1995, the Secretary of the Treasury or his delegate shall report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on the number of designated summonses (as defined in section 6503(j) of the Internal Revenue Code of 1986) which were issued during the preceding 12 months.”
 
 #### Plan Amendments Not Required Until January 1, 1989
 
@@ -330,7 +330,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Application of Prior Amendments
 
-Section 2(a)(4)(F) of Pub. L. 96–596, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by sections 1203(h)(1) and 1601(f)(2) of the Tax Reform Act of 1976 \[Pub. L. 94–455\], and the amendment made by section 362(d)(5) of the Revenue Act of 1978 \[Pub. L. 95–600\], shall be deemed to be amendments to section 6503(i) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954, subsec. (j), as redesignated by section 6(a) of Pub. L. 96–589\] (as redesignated by subparagraph (E) \[redesignating subsec. (j) as (i)\]).”
+Pub. L. 96–596, §2(a)(4)(F), Dec. 24, 1980, 94 Stat. 3472, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by sections 1203(h)(1) and 1601(f)(2) of the Tax Reform Act of 1976 \[Pub. L. 94–455\], and the amendment made by section 362(d)(5) of the Revenue Act of 1978 \[Pub. L. 95–600\], shall be deemed to be amendments to section 6503(i) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954, subsec. (j), as redesignated by section 6(a) of Pub. L. 96–589\] (as redesignated by subparagraph (E) \[redesignating subsec. (j) as (i)\]).”
 
 <i><sup>1</sup></i><i> So in original.</i>
 

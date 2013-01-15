@@ -58,7 +58,7 @@
 
 (B) In providing a grant under this subsection, the Director shall give priority to any application received from an Indian tribe with inadequate electric service (as determined by the Director).
 
-(C) In providing a grant under this subsection for an activity to provide, or expand the provision of, electricity on Indian land, the Directorshall encourage cooperative arrangements between Indian tribes and utilities that provide service to Indian tribes, as the Director determines to be appropriate.
+(C) In providing a grant under this subsection for an activity to provide, or expand the provision of, electricity on Indian land, the Director shall encourage cooperative arrangements between Indian tribes and utilities that provide service to Indian tribes, as the Director determines to be appropriate.
 
 (5) The Secretary of Energy may issue such regulations as the Secretary determines to be necessary to carry out this subsection.
 

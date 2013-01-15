@@ -38,7 +38,7 @@ Subsec. (c)(1). Pub. L. 94–455, §1901(b)(3)(K), substituted “ordinary incom
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, see section 215 ofPub. L. 98–369, set out as an Effective Date note under section 801 of this title.
+Amendment by Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, see section 215 of Pub. L. 98–369, set out as an Effective Date note under section 801 of this title.
 
 #### Effective Date of 1976 Amendment
 
@@ -46,5 +46,5 @@ Amendment by section 1901(b)(3)(K) of Pub. L. 94–455 applicable with respect t
 
 #### Effective Date
 
-Section 1(b)(3) of Pub. L. 89–384, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this subsection \[enacting this section\] shall apply to taxable years beginning after December 31, 1965, but only with respect to losses described in section 80(a)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by paragraph (1) of this subsection) which were sustained after December 31, 1958.”
+Pub. L. 89–384, §1(b)(3), Apr. 8, 1966, 80 Stat. 102, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this subsection \[enacting this section\] shall apply to taxable years beginning after December 31, 1965, but only with respect to losses described in section 80(a)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by paragraph (1) of this subsection) which were sustained after December 31, 1958.”
 

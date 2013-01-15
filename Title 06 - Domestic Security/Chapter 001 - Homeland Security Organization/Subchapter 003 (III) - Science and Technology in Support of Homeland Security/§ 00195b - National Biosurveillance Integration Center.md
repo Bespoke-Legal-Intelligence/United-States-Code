@@ -78,7 +78,7 @@ The NBIC shall detect, as early as possible, a biological event of national conc
 
 &emsp;Each Member Agency shall—
 
-&emsp;&emsp;(A) use its best efforts to integrate biosurveillance information into the NBIC, with the goal of promoting information sharing between Federal, State, local, and tribal governments to detect biological events of national concern;
+&emsp;&emsp;(A) use its best efforts to integrate biosurveillance information into the NBIC, with the goal of promoting information sharing between Federal, State, local, andtribal governments to detect biological events of national concern;
 
 &emsp;&emsp;(B) provide timely information to assist the NBIC in maintaining biological situational awareness for accurate detection and response purposes;
 

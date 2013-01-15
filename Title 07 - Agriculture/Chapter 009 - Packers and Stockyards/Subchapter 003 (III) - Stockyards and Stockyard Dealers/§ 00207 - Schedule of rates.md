@@ -30,7 +30,7 @@ Whoever fails to comply with the provisions of this section or of any regulation
 
 #### (h) Intentional violations; penalty
 
-Whoever willfully fails to comply with the provisions of this section or of any regulation or order of the Secretary made thereunder shall on conviction be fined not more than $1,000, or imprisoned not more than one year, or both.
+Whoever willfully fails to comply with the provisions of this section or of any regulation or order of the Secretary made thereunder shall onconviction be fined not more than $1,000, or imprisoned not more than one year, or both.
 
 (Aug. 15, 1921, ch. 64, title III, §306, 42 Stat. 164; Pub. L. 94–410, §3(c), Sept. 13, 1976, 90 Stat. 1249.)
 

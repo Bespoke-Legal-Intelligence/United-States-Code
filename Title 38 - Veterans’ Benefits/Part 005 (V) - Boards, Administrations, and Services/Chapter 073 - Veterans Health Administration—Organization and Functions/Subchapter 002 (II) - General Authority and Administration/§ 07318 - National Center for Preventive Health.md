@@ -24,13 +24,13 @@
 
 &emsp;(3) In order to encourage the effective provision of preventive health services by Veterans Health Administration personnel—
 
-&emsp;&emsp;(A) ensure the dissemination to such personnel of any appropriate information onsuch services that is derived from research carried out by the Administration; and
+&emsp;&emsp;(A) ensure the dissemination to such personnel of any appropriate information on such services that is derived from research carried out by the Administration; and
 
 &emsp;&emsp;(B) acquire and ensure the dissemination to such personnel of any appropriate information on research and clinical practices relating to such services that are carried out by researchers, clinicians, and educators who are not affiliated with the Administration.
 
 &emsp;(4) Facilitate the optimal use of the unique resources of the Department for cooperative research into health outcomes by initiating recommendations, and responding to requests of the Under Secretary for Health and the Director of the Medical and Prosthetic Research Service, for such research into preventive health services.
 
-&emsp;(5) Provide advisory services to personnel of Department health-care facilities with respect to the planning or furnishing of preventive health services by such personnel.
+&emsp;(5) Provide advisory services to personnel of Department health-care facilities with respectto the planning or furnishing of preventive health services by such personnel.
 
 (d) There is authorized to be appropriated $1,500,000 to the Medical Care General and Special Fund of the Department of Veterans Affairs for each fiscal year for the purpose of permitting the National Center for Preventive Health to carry out research, clinical, educational, and administrative activities under this section. Such activities shall be considered to be part of the operation of health-care facilities of the Department without regard to the location at which such activities are carried out.
 
@@ -44,5 +44,5 @@
 
 #### Selection of Facility at Which Center To Be Established
 
-Section 511(c) of Pub. L. 102–585, as amended by Pub. L. 103–446, title XII, §1202(e)(2), Nov. 2, 1994, 108 Stat. 4689, provided that: “In order to establish the National Center for Preventive Health pursuant to section 7318 of title 38, United States Code, as added by subsection (a), the Under Secretary for Health of the Department of Veterans Affairs shall solicit proposals from Department health care facilities to establish the center. The Under Secretary for Health shall establish such center at the facility or facilities which the Under Secretary for Health determines, on the basis of a review and analysis of such proposals, would most effectively carry out the purposes set forth in subsection (b) of such section.”
+Pub. L. 102–585, title V, §511(c), Nov. 4, 1992, 106 Stat. 4956, as amended by Pub. L. 103–446, title XII, §1202(e)(2), Nov. 2, 1994, 108 Stat. 4689, provided that: “In order to establish the National Center for Preventive Health pursuant to section 7318 of title 38, United States Code, as added by subsection (a), the Under Secretary for Health of the Department of Veterans Affairs shall solicit proposals from Department health care facilities to establish the center. The Under Secretary for Health shall establish such center at the facility or facilities which the Under Secretary for Health determines, on the basis of a review and analysis of such proposals, would most effectively carry out the purposes set forth in subsection (b) of such section.”
 

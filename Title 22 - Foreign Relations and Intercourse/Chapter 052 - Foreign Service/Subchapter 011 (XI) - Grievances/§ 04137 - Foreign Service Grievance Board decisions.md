@@ -36,7 +36,7 @@ Except as provided in subsection (d) of this section, decisions of the Board und
 
 &emsp;(ii) request that the Board reconsider its recommendation or, if less than the entirety is rejected, that the Board reconsider the portion rejected.
 
-(B)(i) Within 30 days after receiving a request under subparagraph (A), the Board shall, afterreviewing the Secretary's decision, make a recommendation to the Secretary either confirming, modifying, or vacating its original recommendation or, if less than the entirety was rejected, the portion involved.
+(B)(i) Within 30 days after receiving a request under subparagraph (A), the Board shall, after reviewing the Secretary's decision, make a recommendation to the Secretary either confirming, modifying, or vacating its original recommendation or, if less than the entirety was rejected, the portion involved.
 
 (ii) Reconsideration under this subparagraph shall be limited to the question of whether implementing the Board's original recommendation, either in whole or in part, as applicable, would be contrary to law.
 

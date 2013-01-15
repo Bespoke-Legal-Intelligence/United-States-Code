@@ -48,7 +48,7 @@ The administration of this part shall be conducted through contracts with medica
 
 #### (j) Denial of claim; notification and reconsideration
 
-A contract with a medicare administrative contractor under section 1395kk–1 of this titlewith respect to the administration of this part shall require that, with respect to a claim for home health services, extended care services, or post-hospital extended care services submitted by a provider to such medicare administrative contractor that is denied, such medicare administrative contractor—
+A contract with a medicare administrative contractor under section 1395kk–1 of this title with respect to the administration of this part shall require that, with respect to a claim for home health services, extended care services, or post-hospital extended care services submitted by a provider to such medicare administrative contractor that is denied, such medicare administrative contractor—
 
 &emsp;(1) furnish the provider and the individual with respect to whom the claim is made with a written explanation of the denial and of the statutory or regulatory basis for the denial; and
 
@@ -58,9 +58,9 @@ A contract with a medicare administrative contractor under section 1395kk–1 of
 
 A contract with a medicare administrative contractor under section 1395kk–1 of this title with respect to the administration of this part shall require that such medicare administrative contractor submit an annual report to the Secretary describing the steps taken to recover payments made for items or services for which payment has been or could be made under a primary plan (as defined in section 1395y(b)(2)(A) of this title).
 
-#### (<i>l</i>) Repealed. Pub. L. 108–173, title IX, §911(b)(7), Dec. 8, 2003, 117 Stat. 2383
+#### (l) Repealed. Pub. L. 108–173, title IX, §911(b)(7), Dec. 8, 2003, 117 Stat. 2383
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1816, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 297; amended Pub. L. 92–603, title II, §243(b), Oct. 30, 1972, 86 Stat. 1422; Pub. L. 95–142, §14(a), Oct. 25, 1977, 91 Stat. 1198; Pub. L. 96–499, title IX, §930(<i>o</i>), Dec. 5, 1980, 94 Stat. 2632; Pub. L. 97–248, title I, §122(c)(3), Sept. 3, 1982, 96 Stat. 359; Pub. L. 98–369, div. B, title III, §2326(b), (c)(1), (d)(1), July 18, 1984, 98 Stat. 1087; Pub. L. 99–509, title IX, §§9311(b), 9352(a)(2), Oct. 21, 1986, 100 Stat. 1997, 2044; Pub. L. 100–203, title IV, §§4031(a)(1), 4032(a), (b), 4035(a)(1), 4085(d)(1), Dec. 22, 1987, 101 Stat. 1330–75 to 1330–78, 1330–130; Pub. L. 100–360, title II, §203(f), title IV, §411(e)(1)(B), July 1, 1988, 102 Stat. 725, 775; Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–239, title VI, §§6003(g)(3)(D)(vi), 6202(d)(1), Dec. 19, 1989, 103 Stat. 2153, 2234; Pub. L. 101–508, title IV, §4005(c)(1)(A), Nov. 5, 1990, 104 Stat. 1388–41; Pub. L. 103–66, title XIII, §13568(a), (b), Aug. 10, 1993, 107 Stat. 608; Pub. L. 103–432, title I, §§110(d)(2), 151(b)(1)(A), (2)(A), Oct. 31, 1994, 108 Stat. 4408, 4433, 4434; Pub. L. 104–191, title II, §202(b)(1), Aug. 21, 1996, 110 Stat. 1998; Pub. L. 105–33, title IV, §4201(c)(1), Aug. 5, 1997, 111 Stat. 373; Pub. L. 108–173, title VII, §736(a)(4), title IX, §911(b), Dec. 8, 2003, 117 Stat. 2355, 2383; Pub. L. 109–171, title V, §5202(a)(1), Feb. 8, 2006, 120 Stat. 47.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1816, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 297; amended Pub. L. 92–603, title II, §243(b), Oct. 30, 1972, 86 Stat. 1422; Pub. L. 95–142, §14(a), Oct. 25, 1977, 91 Stat. 1198; Pub. L. 96–499, title IX, §930(o), Dec. 5, 1980, 94 Stat. 2632; Pub. L. 97–248, title I, §122(c)(3), Sept. 3, 1982, 96 Stat. 359; Pub. L. 98–369, div. B, title III, §2326(b), (c)(1), (d)(1), July 18, 1984, 98 Stat. 1087; Pub. L. 99–509, title IX, §§9311(b), 9352(a)(2), Oct. 21, 1986, 100 Stat. 1997, 2044; Pub. L. 100–203, title IV, §§4031(a)(1), 4032(a), (b), 4035(a)(1), 4085(d)(1), Dec. 22, 1987, 101 Stat. 1330–75 to 1330–78, 1330–130; Pub. L. 100–360, title II, §203(f), title IV, §411(e)(1)(B), July 1, 1988, 102 Stat. 725, 775; Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–239, title VI, §§6003(g)(3)(D)(vi), 6202(d)(1), Dec. 19, 1989, 103 Stat. 2153, 2234; Pub. L. 101–508, title IV, §4005(c)(1)(A), Nov. 5, 1990, 104 Stat. 1388–41; Pub. L. 103–66, title XIII, §13568(a), (b), Aug. 10, 1993, 107 Stat. 608; Pub. L. 103–432, title I, §§110(d)(2), 151(b)(1)(A), (2)(A), Oct. 31, 1994, 108 Stat. 4408, 4433, 4434; Pub. L. 104–191, title II, §202(b)(1), Aug. 21, 1996, 110 Stat. 1998; Pub. L. 105–33, title IV, §4201(c)(1), Aug. 5, 1997, 111 Stat. 373; Pub. L. 108–173, title VII, §736(a)(4), title IX, §911(b), Dec. 8, 2003, 117 Stat. 2355, 2383; Pub. L. 109–171, title V, §5202(a)(1), Feb. 8, 2006, 120 Stat. 47.)
 
 #### Amendments
 
@@ -88,11 +88,11 @@ Subsec. (j). Pub. L. 108–173, §911(b)(6), in introductory provisions, substit
 
 Subsec. (k). Pub. L. 108–173, §911(b)(6), substituted “A contract with a medicare administrative contractor under section 1395kk–1 of this title with respect to the administration of this part” for “An agreement with an agency or organization under this section” and “such medicare administrative contractor” for “such agency or organization”.
 
-Subsec. (<i>l</i>). Pub. L. 108–173, §911(b)(7), struck out subsec. (<i>l</i>), which prohibited any activity pursuant to an agreement under this section that is carried out pursuant to a contract under the Medicare Integrity Program.
+Subsec. (l). Pub. L. 108–173, §911(b)(7), struck out subsec. (l), which prohibited any activity pursuant to an agreement under this section that is carried out pursuant to a contract under the Medicare Integrity Program.
 
 <b>1997</b>—Subsec. (c)(2)(C). Pub. L. 105–33 substituted “critical access” for “rural primary care”.
 
-<b>1996</b>—Subsec. (<i>l</i>). Pub. L. 104–191 added subsec. (<i>l</i>).
+<b>1996</b>—Subsec. (l). Pub. L. 104–191 added subsec. (l).
 
 <b>1994</b>—Subsec. (f)(1)(A). Pub. L. 103–432, §151(b)(2)(A), inserted “(including the agency's or organization's success in recovering payments made under this subchapter for services for which payment has been or could be made under a primary plan (as defined in section 1395y(b)(2)(A) of this title))” after “processing”.
 
@@ -108,7 +108,7 @@ Subsec. (c)(3)(B). Pub. L. 103–66, §13568(a), added cls. (i) and (ii) and str
 
 “(ii) with respect to claims received in the 12-month period beginning October 1, 1988, 14 days.”
 
-<b>1990</b>—Subsec. (f). Pub. L. 101–508 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, struck out “Such standards and criteria” and all that follows, which was executed by striking out “Such standards and criteria shall be published in the Federal Register, and opportunity shall be provided for public commentprior to implementation. Such standards and criteria shall include with respect to claims for services furnished under this part by any provider of services other than a hospital whether such agency or organization is able to process 75 percent of reconsiderations within 60 days (except in the case of the fiscal year 1989, 66 percent of reconsiderations) and 90 percent of reconsiderations within 90 days and the extent to which its determinations are reversed on appeal.”, and added par. (2).
+<b>1990</b>—Subsec. (f). Pub. L. 101–508 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, struck out “Such standards and criteria” and all that follows, which was executed by striking out “Such standards and criteria shall be published in the Federal Register, and opportunity shall be provided for public comment prior to implementation. Such standards and criteria shall include with respect to claims for services furnished under this part by any provider of services other than a hospital whether such agency or organization is able to process 75 percent of reconsiderations within 60 days (except in the case of the fiscal year 1989, 66 percent of reconsiderations) and 90 percent of reconsiderations within 90 days and the extent to which its determinations are reversed on appeal.”, and added par. (2).
 
 <b>1989</b>—Subsec. (c)(1). Pub. L. 101–239, §6202(d)(1), inserted at end “The Secretary may not require, as a condition of entering into or renewing an agreement under this section or under section 1395hh of this title, that a fiscal intermediary match data obtained other than in its activities under this part with data used in the administration of this part for purposes of identifying situations in which the provisions of section 1395y(b) of this title may apply.”
 
@@ -142,9 +142,9 @@ Subsec. (f). Pub. L. 98–369, §2326(c)(1), struck out in cl. (2) “, by regu
 
 <b>1982</b>—Subsec. (e)(5). Pub. L. 97–248 added par. (5).
 
-<b>1980</b>—Subsec. (e)(2). Pub. L. 96–499, §930(<i>o</i>)(1), inserted “(subject to the provisions of paragraph (4))”.
+<b>1980</b>—Subsec. (e)(2). Pub. L. 96–499, §930(o)(1), inserted “(subject to the provisions of paragraph (4))”.
 
-Subsec. (e)(4). Pub. L. 96–499, §930(<i>o</i>)(2), added par. (4).
+Subsec. (e)(4). Pub. L. 96–499, §930(o)(2), added par. (4).
 
 <b>1977</b>—Subsec. (a). Pub. L. 95–142, §14(a)(1), inserted provisions relating to applicability to providers assigned to the agency or organization under subsec. (e) of this section.
 
@@ -156,7 +156,7 @@ Subsec. (g). Pub. L. 95–142, §14(a)(3), (4), redesignated former subsec. (e) 
 
 Subsecs. (h), (i). Pub. L. 95–142, §14(a)(4), redesignated former subsecs. (f) and (g) as (h) and (i), respectively.
 
-<b>1972</b>—Subsec. (a). Pub. L. 92–603 inserted reference to provisions of section 1395<i>oo</i> of this title.
+<b>1972</b>—Subsec. (a). Pub. L. 92–603 inserted reference to provisions of section 1395oo of this title.
 
 #### Effective Date of 2006 Amendment
 
@@ -172,15 +172,15 @@ Amendment by Pub. L. 105–33 applicable to services furnished on or after Oct. 
 
 #### Effective Date of 1994 Amendment
 
-Section 151(b)(4) of Pub. L. 103–432 provided that: “The amendments made by paragraphs (1) and (2) \[amending this section and section 1395u of this title\] shall apply to contracts with fiscal intermediaries and carriers under title XVIII of the Social Security Act \[this subchapter\] for contract years beginning with 1995.”
+Pub. L. 103–432, title I, §151(b)(4), Oct. 31, 1994, 108 Stat. 4435, provided that: “The amendments made by paragraphs (1) and (2) \[amending this section and section 1395u of this title\] shall apply to contracts with fiscal intermediaries and carriers under title XVIII of the Social Security Act \[this subchapter\] for contract years beginning with 1995.”
 
 #### Effective Date of 1993 Amendment
 
-Section 13568(c) of Pub. L. 103–66 provided that: “The amendments made by this section \[amending this section and section 1395u of this title\] shall apply to claims received on or after October 1, 1993.”
+Pub. L. 103–66, title XIII, §13568(c), Aug. 10, 1993, 107 Stat. 608, provided that: “The amendments made by this section \[amending this section and section 1395u of this title\] shall apply to claims received on or after October 1, 1993.”
 
-#### Effective Date of 1989 Amendments
+#### Effective Date of 1989 Amendment
 
-Section 6202(d)(3) of Pub. L. 101–239 provided that: “The amendments made by this subsection \[amending this section and section 1395u of this title\] shall apply to agreements and contracts entered into or renewed on or after the date of the enactment of this Act \[Dec. 19, 1989\].”
+Pub. L. 101–239, title VI, §6202(d)(3), Dec. 19, 1989, 103 Stat. 2234, provided that: “The amendments made by this subsection \[amending this section and section 1395u of this title\] shall apply to agreements and contracts entered into or renewed on or after the date of the enactment of this Act \[Dec. 19, 1989\].”
 
 Amendment by Pub. L. 101–234 effective Jan. 1, 1990, see section 201(c) of Pub. L. 101–234, set out as a note under section 1320a–7a of this title.
 
@@ -192,17 +192,17 @@ Except as specifically provided in section 411 of Pub. L. 100–360, amendment b
 
 #### Effective Date of 1987 Amendment
 
-Section 4031(a)(3)(A) of Pub. L. 100–203 provided that: “The amendments made by paragraphs (1) and (2) \[amending this section and section 1395u of this title\] shall apply to claims received on or after July 1, 1988.”
+Pub. L. 100–203, title IV, §4031(a)(3)(A), Dec. 22, 1987, 101 Stat. 1330–76, provided that: “The amendments made by paragraphs (1) and (2) \[amending this section and section 1395u of this title\] shall apply to claims received on or after July 1, 1988.”
 
-Section 4032(c)(1) of Pub. L. 100–203, as amended by Pub. L. 100–360, title IV, §411(e)(1)(C), July 1, 1988, 102 Stat. 775, provided that:
+Pub. L. 100–203, title IV, §4032(c)(1), Dec. 22, 1987, 101 Stat. 1330–77, as amended by Pub. L. 100–360, title IV, §411(e)(1)(C), July 1, 1988, 102 Stat. 775, provided that:
 
 “(A) The amendment made by subsection (a) \[amending this section\] shall apply with respect to claims received on or after January 1, 1988.
 
 “(B) The amendment made by subsection (b) \[amending this section\] shall apply with respect to reconsiderations requested on or after October 1, 1988.”
 
-Section 4035(a)(3) of Pub. L. 100–203 provided that: “The amendments made by this section \[amending this section and sections 1395u and 1395hh of this title\] shall take effect on the date of the enactment of this Act \[Dec. 22, 1987\] and shall apply to budgets for fiscal years beginning with fiscal year 1989.”
+Pub. L. 100–203, title IV, §4035(a)(3), Dec. 22, 1987, 101 Stat. 1330–78, provided that: “The amendments made by this section \[amending this section and sections 1395u and 1395hh of this title\] shall take effect on the date of the enactment of this Act \[Dec. 22, 1987\] and shall apply to budgets for fiscal years beginning with fiscal year 1989.”
 
-Section 4085(d)(2) of Pub. L. 100–203 provided that:
+Pub. L. 100–203, title IV, §4085(d)(2), Dec. 22, 1987, 101 Stat. 1330–131, provided that:
 
 “(A) The amendment made by paragraph (1) \[amending this section\] shall apply to claims received on or after the date of enactment of this Act \[Dec. 22, 1987\].
 
@@ -210,7 +210,7 @@ Section 4085(d)(2) of Pub. L. 100–203 provided that:
 
 #### Effective Date of 1986 Amendment
 
-Section 9311(d) of Pub. L. 99–509 provided that:
+Pub. L. 99–509, title IX, §9311(d), Oct. 21, 1986, 100 Stat. 1999, provided that:
 
 “(1) Except as provided in paragraph (2), the amendments made by subsections (b) and (c) \[amending this section and section 1395u of this title\] shall apply to claims received on or after November 1, 1986.
 
@@ -222,7 +222,7 @@ Amendment by section 9352(a)(2) of Pub. L. 99–509 to be implemented by Secreta
 
 #### Effective Date of 1984 Amendment
 
-Section 2326(d)(3) of Pub. L. 98–369 provided that: “The amendments made by this subsection \[amending this section and section 1395u of this title\] shall apply to agreements and contracts entered into or renewed after September 30, 1984.”
+Pub. L. 98–369, div. B, title III, §2326(d)(3), July 18, 1984, 98 Stat. 1088, provided that: “The amendments made by this subsection \[amending this section and section 1395u of this title\] shall apply to agreements and contracts entered into or renewed after September 30, 1984.”
 
 #### Effective Date of 1982 Amendment
 
@@ -234,7 +234,7 @@ Amendment by Pub. L. 96–499 effective Dec. 5, 1980, see section 930(s)(1) of P
 
 #### Effective Date of 1977 Amendment
 
-Section 14(c), (d) of Pub. L. 95–142 provided that:
+Pub. L. 95–142, §14(c), (d), Oct. 25, 1977, 91 Stat. 1200, provided that:
 
 “(c) The amendment made by paragraphs (2) and (3) of subsection (a) \[amending this section\] to the extent that they require application of standards, criteria, and procedures developed under section 1816(f) of the Social Security Act \[subsec. (f) of this section\] shall apply to the entering into, renewal, or termination of agreements on and after October 1, 1978.
 
@@ -242,31 +242,31 @@ Section 14(c), (d) of Pub. L. 95–142 provided that:
 
 #### Effective Date of 1972 Amendment
 
-Amendment by Pub. L. 92–603 applicable with respect to cost reports of providers of services for accounting periods ending on or after June 30, 1973, see section 243(c) of Pub. L. 92–603, set out as an Effective Date note under section 1395<i>oo</i> of this title.
+Amendment by Pub. L. 92–603 applicable with respect to cost reports of providers of services for accounting periods ending on or after June 30, 1973, see section 243(c) of Pub. L. 92–603, set out as an Effective Date note under section 1395oo of this title.
 
 #### Advisory Committee on Medicare Home Health Claims
 
-Section 427 of Pub. L. 100–360, which provided that the Administrator of the Health Care Financing Administration was to establish an advisory committee to be known as the Advisory Committee on Medicare Home Health Claims to study the reasons for the increase in the denial of claims for home health services during 1986 and 1987, the ramifications of such increase, and the need to reform the process involved in such denials, was repealed by Pub. L. 101–234, title III, §301(a), Dec. 13, 1989, 103 Stat. 1985.
+Pub. L. 100–360, title IV, §427, July 1, 1988, 102 Stat. 814, which provided that the Administrator of the Health Care Financing Administration was to establish an advisory committee to be known as the Advisory Committee on Medicare Home Health Claims to study the reasons for the increase in the denial of claims for home health services during 1986 and 1987, the ramifications of such increase, and the need to reform the process involved in such denials, was repealed by Pub. L. 101–234, title III, §301(a), Dec. 13, 1989, 103 Stat. 1985.
 
 #### Amendments to Agreements and Contracts Necessary To Implement Section 4031(a) of Pub. L. 100–203
 
-Section 4031(a)(3)(B) of Pub. L. 100–203 provided that: “The Secretary of Health and Human Services shall provide for such timely amendments to agreements under section 1816 of the Social Security Act \[this section\] and contracts under section 1842 of such Act \[section 1395u of this title\], and regulations, to such extent as may be necessary to implement the provisions of this subsection \[amending this section and section 1395u of this title\] on a timely basis.”
+Pub. L. 100–203, title IV, §4031(a)(3)(B), Dec. 22, 1987, 101 Stat. 1330–76, provided that: “The Secretary of Health and Human Services shall provide for such timely amendments to agreements under section 1816 of the Social Security Act \[this section\] and contracts under section 1842 of such Act \[section 1395u of this title\], and regulations, to such extent as may be necessary to implement the provisions of this subsection \[amending this section and section 1395u of this title\] on a timely basis.”
 
 #### Prohibition of Policies Other Than as Provided by Section 4031 of Pub. L. 100–203 Intended To Slow Down Medicare Payments; Budget Considerations
 
-Section 4031(b), (c) of Pub. L. 100–203 provided that, notwithstanding any other provision of law, the Secretary of Health and Human Services was not authorized to issue, after Dec. 22, 1987, and before Oct. 1, 1990, any final regulation, instruction, or other policy change which was primarily intended to have the effect of slowing down claims processing, or delaying payment of claims, under this subchapter, and that section 4031 of Pub. L. 100–203, amending this section and section 1395u of this title and enacting provisions set out as notes under this section, was a necessary (but secondary) result of a significant policy change.
+Pub. L. 100–203, title IV, §4031(b), (c), Dec. 22, 1987, 101 Stat. 1330–76, provided that, notwithstanding any other provision of law, the Secretary of Health and Human Services was not authorized to issue, after Dec. 22, 1987, and before Oct. 1, 1990, any final regulation, instruction, or other policy change which was primarily intended to have the effect of slowing down claims processing, or delaying payment of claims, under this subchapter, and that section 4031 of Pub. L. 100–203, amending this section and section 1395u of this title and enacting provisions set out as notes under this section, was a necessary (but secondary) result of a significant policy change.
 
 #### Amendments to Agreements and Contracts Necessary To Implement Section 4032(a), (b) of Pub. L. 100–203
 
-Section 4032(c)(2) provided that: “The Secretary of Health and Human Services shall provide for such timely amendments to agreements under section 1816 \[thissection\] and contracts under section 1842 of the Social Security Act \[section 1395u of this title\], and regulations, to such extent as may be necessary to implement the amendments made by subsections (a) and (b) \[amending this section\] on a timely basis.”
+Pub. L. 100–203, title IV, §4032(c)(2), Dec. 22, 1987, 101 Stat. 1330–77, provided that: “The Secretary of Health and Human Services shall provide for such timely amendments to agreements under section 1816 \[this section\] and contracts under section 1842 of the Social Security Act \[section 1395u of this title\], and regulations, to such extent as may be necessary to implement the amendments made by subsections (a) and (b) \[amending this section\] on a timely basis.”
 
 #### Replacement of Agency, Organization, or Carrier Processing Medicare Claims; Number of Agreements and Contracts Authorized for Fiscal Years 1985 Through 1993
 
-Section 2326(a) of Pub. L. 98–369, as amended by Pub. L. 98–617, §3(a)(2), Nov. 8, 1984, 98 Stat. 3295; Pub. L. 99–509, title IX, §9321(b), Oct. 21, 1986, 100 Stat. 2016; Pub. L. 101–239, title VI, §6215(a), Dec. 19, 1989, 103 Stat. 2252; Pub. L. 103–432, title I, §159(a), Oct. 31, 1994, 108 Stat. 4443, provided that: “During each fiscal year (beginning with fiscal year 1985 and ending with fiscal year 1993), the Secretary of Health and Human Services may enter into not more than two agreements under section 1816 of the Social Security Act \[this section\], and not more than two contracts under section 1842 of such Act \[section 1395u of this title\], on the basis of competitive bidding, without regard to the nominating process under section 1816(a) of such Act or cost reimbursement provisions under sections 1816(c) or 1842(c) of such Act during the term of the agreement. Such procedure may be used only for the purpose of replacing an agency or organization or carrier which over a 2-year period of time has been in the lowest 20th percentile of agencies and organizations or carriers having agreements or contracts under the respective section, as measured by the Secretary's cost and performance criteria. In addition, beginning with fiscal year 1990 and any subsequent fiscal year the Secretary may enter into such additional agreements and contracts without regard to such cost reimbursement provisions if the fiscal intermediary or carrier involved and the Secretary agree to waive such provisions, but the Secretary may not take any action that has the effect of requiring that the intermediary or carrier agree to waive such provisions, including requiring such a waiver as a condition for entering into or renewing such an agreement or contract. Any agency or organization or carrier selected on the basis of competitive bidding must perform all of the duties listed in section 1816(a) of such Act, or the duties listed in paragraphs (1) through (4) of section 1842(a) of such Act, as the case may be, and must be a health insuring organization (as determined by the Secretary).”
+Pub. L. 98–369, div. B, title III, §2326(a), July 18, 1984, 98 Stat. 1087, as amended by Pub. L. 98–617, §3(a)(2), Nov. 8, 1984, 98 Stat. 3295; Pub. L. 99–509, title IX, §9321(b), Oct. 21, 1986, 100 Stat. 2016; Pub. L. 101–239, title VI, §6215(a), Dec. 19, 1989, 103 Stat. 2252; Pub. L. 103–432, title I, §159(a), Oct. 31, 1994, 108 Stat. 4443, provided that: “During each fiscal year (beginning with fiscal year 1985 and ending with fiscal year 1993), the Secretary of Health and Human Services may enter into not more than two agreements under section 1816 of the Social Security Act \[this section\], and not more than two contracts under section 1842 of such Act \[section 1395u of this title\], on the basis of competitive bidding, without regard to the nominating process under section 1816(a) of such Act or cost reimbursement provisions under sections 1816(c) or 1842(c) of such Act during the term of the agreement. Such procedure may be used only for the purpose of replacing an agency or organization or carrier which over a 2-year period of time has been in the lowest 20th percentile of agencies and organizations or carriers having agreements or contracts under the respective section, as measured by the Secretary's cost and performance criteria. In addition, beginning with fiscal year 1990 and any subsequent fiscal year the Secretary may enter into such additional agreements and contracts without regard to such cost reimbursement provisions if the fiscal intermediary or carrier involved and the Secretary agree to waive such provisions, but the Secretary may not take any action that has the effect of requiring that the intermediary or carrier agree to waive such provisions, including requiring such a waiver as a condition for entering into or renewing such an agreement or contract. Any agency or organization or carrier selected on the basis of competitive bidding must perform all of the duties listed in section 1816(a) of such Act, or the duties listed in paragraphs (1) through (4) of section 1842(a) of such Act, as the case may be, and must be a health insuring organization (as determined by the Secretary).”
 
-\[Section 159(b) of Pub. L. 103–432 provided that: “The amendment made by subsection (a) \[amending section 2326(a) of Pub. L. 98–369, set out above\] shall apply beginning with fiscal year 1994.”\]
+\[Pub. L. 103–432, title I, §159(b), Oct. 31, 1994, 108 Stat. 4443, provided that: “The amendment made by subsection (a) \[amending section 2326(a) of Pub. L. 98–369, set out above\] shall apply beginning with fiscal year 1994.”\]
 
-\[Section 6215(b) of Pub. L. 101–239 provided that: “The amendments made by subsection (a) \[amending section 2326(a) of Pub. L. 98–369, set out above\] shall apply beginning with fiscal year 1990.”\]
+\[Pub. L. 101–239, title VI, §6215(b), Dec. 19, 1989, 103 Stat. 2252, provided that: “The amendments made by subsection (a) \[amending section 2326(a) of Pub. L. 98–369, set out above\] shall apply beginning with fiscal year 1990.”\]
 
 #### Audit and Medical Claims Review
 
@@ -274,5 +274,5 @@ Pub. L. 97–248, title I, §118, Sept. 3, 1982, 96 Stat. 355, as amended by Pub
 
 #### Developmental Date for Standards, Criteria, and Procedures Pursuant to Subsec. (f) of This Section
 
-Section 14(b) of Pub. L. 95–142 directed the Secretary of Health, Education, and Welfare to develop the standards, criteria, and procedures described in subsection (f) of section 1816 of the Social Security Act \[subsec. (f) of this section\] (as added by subsection (a)(5)) not later than Oct. 1, 1978.
+Pub. L. 95–142, §14(b), Oct. 15, 1977, 91 Stat. 1200, directed the Secretary of Health, Education, and Welfare to develop the standards, criteria, and procedures described in subsection (f) of section 1816 of the Social Security Act \[subsec. (f) of this section\] (as added by subsection (a)(5)) not later than Oct. 1, 1978.
 

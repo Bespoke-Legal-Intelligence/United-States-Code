@@ -110,7 +110,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### References in Text
 
-The Fair Labor Standards Act of 1938, referred to in subsec. (c)(1)(C), is act June 25, 1938, ch. 676, 52 Stat. 1060, as amended, which is classified generally to chapter 8 (§201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
+The Fair Labor Standards Act of 1938, referred to in subsec. (c)(1)(C), is act June 25, 1938, ch. 676, 52 Stat.1060, as amended, which is classified generally to chapter 8 (§201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
 
 #### Amendments
 
@@ -146,7 +146,7 @@ Subsec. (c)(1). Pub. L. 96–54, §2(a)(6), amended subsec. (c)(1) in same manne
 
 #### Effective Date of 1996 Amendment
 
-Section 370(e) of Pub. L. 104–201 provided that: “The amendments made by this section \[amending this section and section 6971 of Title 10, Armed Forces, and repealing section 6970 of Title 10\] shall take effect on October 1, 1996.”
+Pub. L. 104–201, div. A, title III, §370(e), Sept. 23, 1996, 110 Stat. 2499, provided that: “The amendments made by this section \[amending this section and section 6971 of Title 10, Armed Forces, and repealing section 6970 of Title 10\] shall take effect on October 1, 1996.”
 
 #### Effective Date of 1993 Amendment
 
@@ -154,7 +154,7 @@ Amendment by Pub. L. 103–3 effective 6 months after Feb. 5, 1993, see section 
 
 #### Effective Date of 1990 Amendment
 
-Section 7202(m) of Pub. L. 101–508 provided that:
+Pub. L. 101–508, title VII, §7202(m), Nov. 5, 1990, 104 Stat. 1388–339, provided that:
 
 “(1) The amendments made by this section \[amending this section and sections 3502, 5334, 5335, 5365, 5551, 6308, 6312, 8331, 8347, 8401, 8461, and 8901 of this title\] shall apply with respect to any individual who, on or after January 1, 1987—
 
@@ -162,7 +162,7 @@ Section 7202(m) of Pub. L. 101–508 provided that:
 
 &emsp;“(B) moves without a break in service from employment in the Department of Defense or the Coast Guard that is not described in such section 2105(c) to employment in a nonappropriated fund instrumentality of the Department of Defense or the Coast Guard, respectively, that is described in such section 2105(c).
 
-“(2) The Secretary of Defense, the Secretary of Transportation, the Director of the Office of Personnel Management, and the Executive Director of the Federal Retirement Thrift Investment Board, as applicable, shall take such actions as may be practicable to ensure that each individual who has moved as describedunder paragraph (1) on or after January 1, 1987, and before the date of enactment of this Act \[Nov. 5, 1990\], receives the benefit of the amendments made by this section as if such amendments had been in effect at the time such individual so moved. Each such individual who wishes to make an election of retirement coverage under the amendments made by subsection (j) or (k) of this section \[amending sections 8331, 8347, 8401, and 8461 of this title\] shall complete such election within 180 days after the date of enactment of this Act.”
+“(2) The Secretary of Defense, the Secretary of Transportation, the Director of the Office of Personnel Management, and the Executive Director of the Federal Retirement Thrift Investment Board, as applicable, shall take such actions as may be practicable to ensure that each individual who has moved as described under paragraph (1) on or after January 1, 1987, and before the date of enactment of this Act \[Nov. 5, 1990\], receives the benefit of the amendments made by this section as if such amendments had been in effect at the time such individual so moved. Each such individual who wishes to make an election of retirement coverage under the amendments made by subsection (j) or (k) of this section \[amending sections 8331, 8347, 8401, and 8461 of this title\] shall complete such election within 180 days after the date of enactment of this Act.”
 
 #### Effective Date of 1986 Amendment
 
@@ -194,7 +194,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Treatment of Individuals Electing To Remain Subject to Their Former Retirement System
 
-Section 7202(n) of Pub. L. 101–508, as amended by Pub. L. 102–378, §5(a)(2), Oct. 2, 1992, 106 Stat. 1358, provided that:
+Pub. L. 101–508, title VII, §7202(n), Nov. 5, 1990, 104 Stat. 1388–340, as amended by Pub. L. 102–378, §5(a)(2), Oct. 2, 1992, 106 Stat. 1358, provided that:
 
 “(1) For the purpose of this section \[amending this section and sections 3502, 5334, 5335, 5365, 5551, 6308, 6312, 8331, 8347, 8401, 8461, and 8901 of this title and enacting provisions set out as notes under this section and section 2101 of this title\], the term ‘nonappropriated fund instrumentality’ means a nonappropriated fund instrumentality of the Department of Defense or the Coast Guard, described in section 2105(c) of title 5, United States Code.
 

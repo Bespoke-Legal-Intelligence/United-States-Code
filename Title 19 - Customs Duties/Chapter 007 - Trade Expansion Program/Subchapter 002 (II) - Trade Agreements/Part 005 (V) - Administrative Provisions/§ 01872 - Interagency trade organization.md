@@ -84,7 +84,7 @@ For provisions establishing an interagency group within the interagency organiza
 
 #### Sense of Congress Respecting Role of Interagency Organization
 
-Section 1621(b) of Pub. L. 100–418 provided that: “It is the sense of Congress that the interagency organization established under subsection (a) \[amending this section\] should be the principal interagency forum within the executive branch on international trade policy matters.”
+Pub. L. 100–418, title I, §1621(b), Aug. 23, 1988, 102 Stat. 1264, provided that: “It is the sense of Congress that the interagency organization established under subsection (a) \[amending this section\] should be the principal interagency forum within the executive branch on international trade policy matters.”
 
 #### Transfer of Functions From East-West Foreign Trade Board
 

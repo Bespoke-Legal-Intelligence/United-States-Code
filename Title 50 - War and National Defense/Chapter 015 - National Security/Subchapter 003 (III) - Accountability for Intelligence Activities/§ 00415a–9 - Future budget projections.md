@@ -84,7 +84,7 @@ Similar provisions were contained in the following appropriation acts:
 
 Pub. L. 112–10, div. A, title VIII, §8094, Apr. 15, 2011, 125 Stat. 77.
 
-Pub. L. 111–118, div. A, title VIII, §8104, Dec. 19, 2009, 123 Stat. 3451, repealed by Pub. L. 111–259, title III,§325(c)(2), Oct. 7, 2010, 124 Stat. 2683 (former 50 U.S.C. 415a–3).
+Pub. L. 111–118, div. A, title VIII, §8104, Dec. 19, 2009, 123 Stat. 3451, repealed by Pub. L. 111–259, title III, §325(c)(2), Oct. 7, 2010, 124 Stat. 2683 (former 50 U.S.C. 415a–3).
 
 Pub. L. 110–329, div. C, title VIII, §8112, Sept. 30, 2008, 122 Stat. 3645 (former 50 U.S.C. 415a–3).
 

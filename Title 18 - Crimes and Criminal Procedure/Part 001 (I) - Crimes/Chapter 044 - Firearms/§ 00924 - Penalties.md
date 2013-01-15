@@ -6,13 +6,13 @@
 
 &emsp;(B) knowingly violates subsection (a)(4), (f), (k), or (q) of section 922;
 
-&emsp;(C) knowingly imports or brings into the United States or any possession thereof any firearm or ammunition in violation of section 922(<i>l</i>); or
+&emsp;(C) knowingly imports or brings into the United States or any possession thereof any firearm or ammunition in violation of section 922(l); or
 
 &emsp;(D) willfully violates any other provision of this chapter,
 
 > shall be fined under this title, imprisoned not more than five years, or both.
 
-(2) Whoever knowingly violates subsection (a)(6), (d), (g), (h), (i), (j), or (<i>o</i>) of section 922 shall be fined as provided in this title, imprisoned not more than 10 years, or both.
+(2) Whoever knowingly violates subsection (a)(6), (d), (g), (h), (i), (j), or (o) of section 922 shall be fined as provided in this title, imprisoned not more than 10 years, or both.
 
 (3) Any licensed dealer, licensed importer, licensed manufacturer, or licensed collector who knowingly—
 
@@ -90,7 +90,7 @@
 
 &emsp;&emsp;(ii) if the killing is manslaughter (as defined in section 1112), be punished as provided in section 1112.
 
-(d)(1) Any firearm or ammunition involved in or used in any knowing violation of subsection\(a)(4), (a)(6), (f), (g), (h), (i), (j), or (k) of section 922, or knowing importation or bringing into the United States or any possession thereof any firearm or ammunition in violation of section 922(<i>l</i>), or knowing violation of section 924, or willful violation of any other provision of this chapter or any rule or regulation promulgated thereunder, or any violation of any other criminal law of the United States, or any firearm or ammunition intended to be used in any offense referred to in paragraph (3) of this subsection, where such intent is demonstrated by clear and convincing evidence, shall be subject to seizure and forfeiture, and all provisions of the Internal Revenue Code of 1986 relating to the seizure, forfeiture, and disposition of firearms, as defined in section 5845(a) of that Code, shall, so far as applicable, extend to seizures and forfeitures under the provisions of this chapter: <i>Provided</i>, That upon acquittal of the owner or possessor, or dismissal of the charges against him other than upon motion of the Government prior to trial, or lapse of or court termination of the restraining order to which he is subject, the seized or relinquished firearms or ammunition shall be returned forthwith to the owner or possessor or to a person delegated by the owner or possessor unless the return of the firearms or ammunition would place the owner or possessor or his delegate in violation of law. Any action or proceeding for the forfeiture of firearms or ammunition shall be commenced within one hundred and twenty days of such seizure.
+(d)(1) Any firearm or ammunition involved in or used in any knowing violation of subsection (a)(4), (a)(6), (f), (g), (h), (i), (j), or (k) of section 922, or knowing importation or bringing into the United States or any possession thereof any firearm or ammunition in violation of section 922(l), or knowing violation of section 924, or willful violation of any other provision of this chapter or any rule or regulation promulgated thereunder, or any violation of any other criminal law of the United States, or any firearm or ammunition intended to be used in any offense referred to in paragraph (3) of this subsection, where such intent is demonstrated by clear and convincing evidence, shall be subject to seizure and forfeiture, and all provisions of the Internal Revenue Code of 1986 relating to the seizure, forfeiture, and disposition of firearms, as defined in section 5845(a) of that Code, shall, so far as applicable, extend to seizures and forfeitures under the provisions of this chapter: <i>Provided</i>, That upon acquittal of the owner or possessor, or dismissal of the charges against him other than upon motion of the Government prior to trial, or lapse of or court termination of the restraining order to which he is subject, the seized or relinquished firearms or ammunition shall be returned forthwith to the owner or possessor or to a person delegated by the owner or possessor unless the return of the firearms or ammunition would place the owner or possessor or his delegate in violation of law. Any action or proceeding for the forfeiture of firearms or ammunition shall be commenced within one hundred and twenty days of such seizure.
 
 (2)(A) In any action or proceeding for the return of firearms or ammunition seized under the provisions of this chapter, the court shall allow the prevailing party, other than the United States, a reasonable attorney's fee, and the United States shall be liable therefor.
 
@@ -106,11 +106,11 @@
 
 &emsp;(B) any offense punishable under the Controlled Substances Act (21 U.S.C. 801 et seq.) or the Controlled Substances Import and Export Act (21 U.S.C. 951 et seq.);
 
-&emsp;(C) any offense described in section 922(a)(1), 922(a)(3), 922(a)(5), or 922(b)(3) of this title, where the firearm or ammunition intended to be used in any such offense is involved in a pattern of activities which includes a violation of any offense described in section 922(a)(1), 922(a)(3), 922(a)(5), or 922(b)(3) of this title;
+&emsp;(C) any offense described in section 922(a)(1), 922(a)(3), 922(a)(5), or 922(b)(3) of this title, where the firearm or ammunition intended tobe used in any such offense is involved in a pattern of activities which includes a violation of any offense described in section 922(a)(1), 922(a)(3), 922(a)(5), or 922(b)(3) of this title;
 
 &emsp;(D) any offense described in section 922(d) of this title where the firearm or ammunition is intended to be used in such offense by the transferor of such firearm or ammunition;
 
-&emsp;(E) any offense described in section 922(i), 922(j), 922(<i>l</i>), 922(n), or 924(b) of this title; and
+&emsp;(E) any offense described in section 922(i), 922(j), 922(l), 922(n), or 924(b) of this title; and
 
 &emsp;(F) any offense which may be prosecuted in a court of the United States which involves the exportation of firearms or ammunition.
 
@@ -168,13 +168,13 @@
 
 > smuggles or knowingly brings into the United States a firearm, or attempts to do so, shall be imprisoned not more than 10 years, fined under this title, or both.
 
-(<i>l</i>) A person who steals any firearm which is moving as, or is a part of, or which has moved in, interstate or foreign commerce shall be imprisoned for not more than 10 years, fined under this title, or both.
+(l) A person who steals any firearm which is moving as, or is a part of, or which has moved in, interstate or foreign commerce shall be imprisoned for not more than 10 years, fined under this title, or both.
 
 (m) A person who steals any firearm from a licensed importer, licensed manufacturer, licensed dealer, or licensed collector shall be fined under this title, imprisoned not more than 10 years, or both.
 
-(n) A person who, with the intent to engage in conduct that constitutes a violation of section 922(a)(1)(A), travels from any State or foreign country into any other State and acquires, or attempts to acquire, a firearm in such other State in furtherance of such purpose shall be imprisoned for not more than 10 years.
+(n) A person who, with the intent to engage in conduct that constitutes a violation of section922(a)(1)(A), travels from any State or foreign country into any other State and acquires, or attempts to acquire, a firearm in such other State in furtherance of such purpose shall be imprisoned for not more than 10 years.
 
-(<i>o</i>) A person who conspires to commit an offense under subsection (c) shall be imprisoned for not more than 20 years, fined under this title, or both; and if the firearm is a machinegun or destructive device, or is equipped with a firearm silencer or muffler, shall be imprisoned for any term of years or life.
+(o) A person who conspires to commit an offense under subsection (c) shall be imprisoned for not more than 20 years, fined under this title, or both; and if the firearm is a machinegun or destructive device, or is equipped with a firearm silencer or muffler, shall be imprisoned for any term of years or life.
 
 (p)
 
@@ -200,7 +200,7 @@ Review.—An action of the Secretary under this paragraph may be reviewed only a
 
 Administrative remedies.—The suspension or revocation of a license or the imposition of a civil penalty under paragraph (1) shall not preclude any administrative remedy that is otherwise available to the Secretary.
 
-(Added Pub. L. 90–351, title IV, §902, June 19, 1968, 82 Stat. 233; amended Pub. L. 90–618, title I, §102, Oct. 22, 1968, 82 Stat. 1223; Pub. L. 91–644, title II, §13, Jan. 2, 1971, 84 Stat. 1889; Pub. L. 98–473, title II, §§223(a), 1005(a), Oct. 12, 1984, 98 Stat. 2028, 2138; Pub. L. 99–308, §104(a), May 19, 1986, 100 Stat. 456; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, §1402, Oct. 27, 1986, 100 Stat. 3207–39; Pub. L. 100–649, §2(b), (f)(2)(B), (D), Nov. 10, 1988, 102 Stat. 3817, 3818; Pub. L. 100–690, title VI, §§6211, 6212, 6451, 6460, 6462, title VII, §§7056, 7060(a), Nov. 18, 1988, 102 Stat. 4359, 4360, 4371, 4373, 4374, 4402, 4403; Pub. L. 101–647, title XI, §1101, title XVII, §1702(b)(3), title XXII, §§2203(d), 2204(c), title XXXV, §§3526–3529, Nov. 29, 1990, 104 Stat. 4829, 4845, 4857, 4924; Pub. L. 103–159, title I, §102(c), title III, §302(d), Nov. 30, 1993, 107 Stat. 1541, 1545; Pub. L. 103–322, title VI, §60013, title XI, §§110102(c), 110103(c), 110105(2), 110201(b), 110401(e), 110503, 110504(a), 110507, 110510, 110515(a), 110517, 110518(a), title XXXIII, §§330002(h), 330003(f)(2), 330011(i), (j), 330016(1)(H), (K), (L), Sept. 13, 1994, 108 Stat. 1973, 1998–2000, 2011, 2015, 2016, 2018–2020, 2140, 2141, 2145, 2147; Pub. L. 104–294, title VI, §603(m)(1), (n)–(p)(1), (q)–(s), Oct. 11, 1996, 110 Stat. 3505; Pub. L. 105–386, §1(a), Nov. 13, 1998, 112 Stat. 3469; Pub. L. 107–273, div. B, title IV, §4002(d)(1)(E), div. C, title I, §11009(e)(3), Nov. 2, 2002, 116 Stat. 1809, 1821; Pub. L. 108–174, §1(2), (3), Dec. 9, 2003, 117 Stat. 2481; Pub. L. 109–92, §§5(c)(2), 6(b), Oct. 26, 2005, 119 Stat. 2100, 2102;Pub. L. 109–304, §17(d)(3), Oct. 6, 2006, 120 Stat. 1707.)
+(Added Pub. L. 90–351, title IV, §902, June 19, 1968, 82 Stat. 233; amended Pub. L. 90–618, title I, §102, Oct. 22, 1968, 82 Stat. 1223; Pub. L. 91–644, title II, §13, Jan. 2, 1971, 84 Stat. 1889; Pub. L. 98–473, title II, §§223(a), 1005(a), Oct. 12, 1984, 98 Stat. 2028, 2138; Pub. L. 99–308, §104(a), May 19, 1986, 100 Stat. 456; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, §1402, Oct. 27, 1986, 100 Stat. 3207–39; Pub. L. 100–649, §2(b), (f)(2)(B), (D), Nov. 10, 1988, 102 Stat. 3817, 3818; Pub. L. 100–690, title VI, §§6211, 6212, 6451, 6460, 6462, title VII, §§7056, 7060(a), Nov. 18, 1988, 102 Stat. 4359, 4360, 4371, 4373, 4374, 4402, 4403; Pub. L. 101–647, title XI, §1101, title XVII, §1702(b)(3), title XXII, §§2203(d), 2204(c), title XXXV, §§3526–3529, Nov. 29, 1990, 104 Stat. 4829, 4845, 4857, 4924; Pub. L. 103–159, title I, §102(c), title III, §302(d), Nov. 30, 1993, 107 Stat. 1541, 1545; Pub. L. 103–322, title VI, §60013, title XI, §§110102(c), 110103(c), 110105(2), 110201(b), 110401(e), 110503, 110504(a), 110507, 110510, 110515(a), 110517, 110518(a), title XXXIII, §§330002(h), 330003(f)(2), 330011(i), (j), 330016(1)(H), (K), (L), Sept. 13, 1994, 108 Stat. 1973, 1998–2000, 2011, 2015, 2016, 2018–2020, 2140, 2141, 2145, 2147; Pub. L. 104–294, title VI, §603(m)(1), (n)–(p)(1), (q)–(s), Oct. 11, 1996, 110 Stat. 3505; Pub. L. 105–386, §1(a), Nov. 13, 1998, 112 Stat. 3469; Pub. L. 107–273, div. B, title IV, §4002(d)(1)(E), div. C, title I, §11009(e)(3), Nov. 2, 2002, 116 Stat. 1809, 1821; Pub. L. 108–174, §1(2), (3), Dec. 9, 2003, 117 Stat. 2481; Pub. L. 109–92, §§5(c)(2), 6(b), Oct. 26, 2005, 119 Stat. 2100, 2102; Pub. L. 109–304, §17(d)(3), Oct. 6, 2006, 120 Stat. 1707.)
 
 #### Amendment of Section
 
@@ -234,7 +234,7 @@ Subsec. (p). Pub. L. 109–92, §5(c)(2)(B), added subsec. (p).
 
 Subsec. (e)(1). Pub. L. 107–273, §4002(d)(1)(E), substituted “under this title” for “not more than $25,000”.
 
-<b>1998</b>—Subsec. (c)(1). Pub. L. 105–386, §1(a)(1), added par. (1) and struck out former par. (1) which read as follows: “Whoever, during and in relation to any crime of violence or drug trafficking crime (including a crime of violence or drug trafficking crime which provides for an enhanced punishment if committed by the use of a deadly or dangerous weapon or device) for which he may be prosecuted in a court of the United States, uses or carries a firearm, shall, in addition to the punishment provided for such crime of violence or drug trafficking crime, be sentenced to imprisonment for five years, and if the firearm is a short-barreled rifle, short-barreled shotgun, or semiautomatic assault weapon, to imprisonment for ten years, and if the firearm is a machinegun, or a destructive device, or is equipped with a firearm silencer or firearm muffler, to imprisonment for thirty years. In the case of his second or subsequent conviction under this subsection, such person shall be sentenced to imprisonment for twenty years, and if the firearm is a machinegun, or a destructive device, or is equipped with a firearm silencer or firearm muffler, to life imprisonment without release. Notwithstanding any other provision of law, the court shall not place on probation or suspend the sentence of any person convicted of a violation of this subsection, nor shall the term of imprisonment imposed under this subsection run concurrently with any other term of imprisonment including that imposed for the crime of violence or drug trafficking crime in which the firearm was used or carried.”
+<b>1998</b>—Subsec. (c)(1). Pub. L. 105–386, §1(a)(1), added par. (1) and struck out former par. (1) which read as follows: “Whoever, during and in relation to any crime of violence or drug trafficking crime (including a crime of violence or drug trafficking crime which provides for an enhanced punishment if committed by the use of a deadly or dangerous weapon or device) for which he may be prosecuted in a court of the United States, uses or carries a firearm, shall, in addition to the punishment provided for such crime of violence or drug trafficking crime, be sentenced to imprisonment for five years, and if the firearm is a short-barreled rifle, short-barreled shotgun, or semiautomatic assault weapon, to imprisonment for ten years, and if the firearm is a machinegun, or a destructive device, or is equipped with afirearm silencer or firearm muffler, to imprisonment for thirty years. In the case of his second or subsequent conviction under this subsection, such person shall be sentenced to imprisonment for twenty years, and if the firearm is a machinegun, or a destructive device, or is equipped with a firearm silencer or firearm muffler, to life imprisonment without release. Notwithstanding any other provision of law, the court shall not place on probation or suspend the sentence of any person convicted of a violation of this subsection, nor shall the term of imprisonment imposed under this subsection run concurrently with any other term of imprisonment including that imposed for the crime of violence or drug trafficking crime in which the firearm was used or carried.”
 
 Subsec. (c)(4). Pub. L. 105–386, §1(a)(2), added par. (4).
 
@@ -244,7 +244,7 @@ Pub. L. 104–294, §603(m)(1)(A), amended directory language of Pub. L. 103–3
 
 Subsec. (a)(2). Pub. L. 104–294, §603(m)(1)(B), amended directory language of Pub. L. 103–322, §110507(2). See 1994 Amendment note below.
 
-Subsec. (a)(5), (6). Pub. L. 104–294, §603(<i>o</i>), redesignated par. (5), relating to punishment for juveniles, as (6).
+Subsec. (a)(5), (6). Pub. L. 104–294, §603(o), redesignated par. (5), relating to punishment for juveniles, as (6).
 
 Subsec. (c)(1). Pub. L. 104–294, §603(p)(1), amended directory language of Pub. L. 103–322, §110102(c)(2). See 1994 Amendment note below.
 
@@ -254,13 +254,13 @@ Subsec. (j). Pub. L. 104–294, §603(r), redesignated subsec. (i) as (j). Forme
 
 Subsec. (j)(3). Pub. L. 104–294, §603(q), inserted closing parenthesis before comma at end.
 
-Subsec. (k). Pub. L. 104–294, §603(r), redesignated subsec. (j) as (k). Former subsec. (k) redesignated (<i>l</i>).
+Subsec. (k). Pub. L. 104–294, §603(r), redesignated subsec. (j) as (k). Former subsec. (k) redesignated (l).
 
-Subsec. (<i>l</i>). Pub. L. 104–294, §603(s), amended directory language of Pub. L. 103–322, §110504. See 1994 Amendment note below.
+Subsec. (l). Pub. L. 104–294, §603(s), amended directory language of Pub. L. 103–322, §110504. See 1994 Amendment note below.
 
-Pub. L. 104–294, §603(r), redesignated subsec. (k) as (<i>l</i>). Former subsec. (<i>l</i>) redesignated (m).
+Pub. L. 104–294, §603(r), redesignated subsec. (k) as (l). Former subsec. (l) redesignated (m).
 
-Subsecs. (m) to (<i>o</i>). Pub. L. 104–294, §603(r), redesignated subsecs. (<i>l</i>) to (n) as (m) to (<i>o</i>), respectively.
+Subsecs. (m) to (o). Pub. L. 104–294, §603(r), redesignated subsecs. (l) to (n) as (m) to (o), respectively.
 
 <b>1994</b>—Subsec. (a)(1). Pub. L. 103–322, §330016(1)(K), substituted “fined under this title” for “fined not more than $5,000” in concluding provisions.
 
@@ -308,7 +308,7 @@ Subsec. (j). Pub. L. 103–322, §110503, added subsec. (j).
 
 Subsec. (k). Pub. L. 103–322, §110504(a), as amended by Pub. L. 104–294, §603(s), added subsec. (k).
 
-Subsec. (<i>l</i>). Pub. L. 103–322, §110515(a), added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 103–322, §110515(a), added subsec. (l).
 
 Subsec. (m). Pub. L. 103–322, §110517, added subsec. (m).
 
@@ -334,7 +334,7 @@ Subsec. (a)(4). Pub. L. 101–647, §1702(b)(3), added par. (4).
 
 Subsec. (c)(1). Pub. L. 101–647, §3527, as amended by Pub. L. 103–322, §330011(j), struck out “imprisonment for” before “life imprisonment without release”.
 
-Pub. L. 101–647, §1101(2), which directed amendment of first sentence by “inserting ‘or a destructive device,’ after ‘a machinegun,’ wherever the term ‘machine gun’ appears, in section 924(c)(1)”, was executed by inserting the new language after “a machinegun,” once in the first sentence and once in the second sentence to reflect the probable intent of Congress.
+Pub. L. 101–647, §1101(2), which directed amendment of first sentence by “inserting ‘or a destructive device,’after ‘a machinegun,’ wherever the term ‘machine gun’ appears, in section 924(c)(1)”, was executed by inserting the new language after “a machinegun,” once in the first sentence and once in the second sentence to reflect the probable intent of Congress.
 
 Pub. L. 101–647, §1101(1), inserted “and if the firearm is a short-barreled rifle, short-barreled shotgun to imprisonment for ten years,” after “sentenced to imprisonment for five years,”.
 
@@ -366,7 +366,7 @@ Subsec. (g). Pub. L. 100–690, §6211, added subsec. (g).
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–308, §104(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Whoever violates any provision of this chapter or knowingly makes any false statement or representation with respect to the information required by the provisions of this chapter to be kept in the records of a person licensed under this chapter, or in applying for any license or exemption or relief from disability under the provisions of this chapter, shall be fined not more than $5,000, or imprisoned not more than five years, or both, and shall become eligible for parole as the Board of Parole shall determine.”
 
-Subsec. (c)(1). Pub. L. 99–308, §104(a)(2)(C)–(E), designated existing provision as par. (1), and substituted “violence or drug trafficking crime,” for “violence” infour places and inserted “, and if the firearm is a machinegun, or is equipped with a firearm silencer or firearm muffler, to imprisonment for ten years” after “five years”, “, and if the firearm is a machinegun, or is equipped with a firearm silencer or firearm muffler, to imprisonment for twenty years” after “ten years”, and “or drug trafficking crime” before “in which the firearm was used or carried”.
+Subsec. (c)(1). Pub. L. 99–308, §104(a)(2)(C)–(E), designated existing provision as par. (1), and substituted “violence or drug trafficking crime,” for “violence” in four places and inserted “, and if the firearm is a machinegun, or is equipped with a firearm silencer or firearm muffler, to imprisonment for ten years” after “five years”, “, and if the firearm is a machinegun, or is equipped with a firearm silencer or firearm muffler, to imprisonment for twenty years” after “ten years”, and “or drug trafficking crime” before “in which the firearm was used or carried”.
 
 Subsec. (c)(2), (3). Pub. L. 99–308, §104(a)(2)(F), added pars. (2) and (3).
 
@@ -398,23 +398,23 @@ Amendment by section 5(c)(2) of Pub. L. 109–92 effective 180 days after Oct. 2
 
 #### Effective Date of 1996 Amendment
 
-Section 603(m)(2) of Pub. L. 104–294 provided that: “The amendments made by paragraph (1) \[amending this section\] shall take effect as if the amendments had been included in section 110507 of the Act referred to in paragraph (1) \[Pub. L. 103–322\] on the date of the enactment of such Act \[Sept. 13, 1994\].”
+Pub. L. 104–294, title VI, §603(m)(2), Oct. 11, 1996, 110 Stat. 3505, provided that: “The amendments made byparagraph (1) \[amending this section\] shall take effect as if the amendments had been included in section 110507 of the Act referred to in paragraph (1) \[Pub. L. 103–322\] on the date of the enactment of such Act \[Sept. 13, 1994\].”
 
-Section 603(p)(2) of Pub. L. 104–294 provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect as if the amendment had been included in section 110102(c)(2) of the Act referred to in paragraph (1) \[Pub. L. 103–322\] on the date of the enactment of such Act \[Sept. 13, 1994\].”
+Pub. L. 104–294, title VI, §603(p)(2), Oct. 11, 1996, 110 Stat. 3505, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect as if the amendment had been included in section 110102(c)(2) of the Act referred to in paragraph (1) \[Pub. L. 103–322\] on the date of the enactment of such Act \[Sept. 13, 1994\].”
 
 #### Effective and Termination Dates of 1994 Amendment
 
 Amendment by sections 110102(c) and 110103(c) of Pub. L. 103–322 repealed 10 years after Sept. 13, 1994, see section 110105(2) of Pub. L. 103–322, formerly set out as a note under section 921 of this title.
 
-Section 330011(i) of Pub. L. 103–322 provided that the amendment made by that section is effective as of the date on which section 3528 of Pub. L. 101–647 took effect.
+Pub. L. 103–322, title XXXIII, §330011(i), Sept. 13, 1994, 108 Stat. 2145, provided that the amendment made by that section is effective as of the date on which section 3528 of Pub. L. 101–647 took effect.
 
-Section 330011(j) of Pub. L. 103–322 provided that the amendment made by that section is effective as of the date on which section 3527 of Pub. L. 101–647 took effect.
+Pub. L. 103–322, title XXXIII, §330011(j), Sept. 13, 1994, 108 Stat. 2145, provided that the amendment made by that section is effective as of the date on which section 3527 of Pub. L. 101–647 took effect.
 
 #### Effective Date of 1990 Amendment
 
 Amendment by section 1702(b)(3) of Pub. L. 101–647 applicable to conduct engaged in after end of 60-day period beginning on Nov. 29, 1990, see section 1702(b)(4) of Pub. L. 101–647, set out as a note under section 921 of this title.
 
-Section 2203(d) of Pub. L. 101–647 provided that the amendment by that section is effective with respect to any offense committed after Nov. 1, 1987.
+Pub. L. 101–647, title XXII, §2203(d), Nov. 29, 1990, 104 Stat. 4857, provided that the amendment by that section is effective with respect to any offense committed after Nov. 1, 1987.
 
 #### Effective Date of 1988 Amendment; Sunset Provision
 

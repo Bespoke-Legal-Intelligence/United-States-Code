@@ -114,7 +114,7 @@ Whenever grain is stored under this section, the Secretary may buy and sell at a
 
 The Secretary shall use the Commodity Credit Corporation, to the extent feasible, to fulfill the purposes of this section. To the maximum extent practicable consistent with the fulfillment of the purposes of this section and the effective and efficient administration of this section, the Secretary shall utilize the usual and customary channels, facilities, and arrangements of trade and commerce.
 
-#### (<i>l</i>) Use of commodity certificates
+#### (l) Use of commodity certificates
 
 Notwithstanding any other provision of law, if a producer has substituted purchased or other commodities for the commodities originally pledged as collateral for a loan made under this section, the Secretary may allow a producer to repay the loan using a generic commodity certificate that may be exchanged for commodities owned by the Commodity Credit Corporation, if the substitute commodities have been pledged as loan collateral and redeemed only within the same county.
 
@@ -126,7 +126,7 @@ The authority provided by this section shall be in addition to other authorities
 
 The Secretary of Agriculture shall issue such regulations as are necessary to carry out this section not later than 60 days after November 28, 1990.
 
-#### (<i>o</i>) Review
+#### (o) Review
 
 In announcing the terms and conditions of the producer storage program under this section, the Secretary shall review standards concerning the quality of grain that shall be allowed to be stored under the program, and such standards should encourage only quality grain, as determined by the Secretary, to be pledged as collateral for such loans. The Secretary shall review inspection, maintenance, and stock rotation requirements and take the necessary steps to maintain the quality of such grain.
 
@@ -138,15 +138,15 @@ Notwithstanding any other provision of law, this section shall become effective 
 
 #### Amendments
 
-<b>1991</b>—Subsec. (k). Pub. L. 102–237, §113(7)(C)(i), redesignated subsec. (k), relating to review, as (<i>o</i>).
+<b>1991</b>—Subsec. (k). Pub. L. 102–237, §113(7)(C)(i), redesignated subsec. (k), relating to review, as (o).
 
 Subsec. (n). Pub. L. 102–237, §113(7)(A), substituted “November 28, 1990” for “the date of enactment of this section”.
 
-Subsec. (<i>o</i>). Pub. L. 102–237, §113(7)(C), redesignated subsec. (k), relating to review, as (<i>o</i>), inserted heading, and substituted “this section” for “subsection (e)(1)”.
+Subsec. (o). Pub. L. 102–237, §113(7)(C), redesignated subsec. (k), relating to review, as (o), inserted heading, and substituted “this section” for “subsection (e)(1)”.
 
-Pub. L. 102–237, §113(7)(B), redesignated subsec. (<i>o</i>) as (p).
+Pub. L. 102–237, §113(7)(B), redesignated subsec. (o) as (p).
 
-Subsec. (p). Pub. L. 102–237, §113(7)(B), redesignated subsec. (<i>o</i>) as (p).
+Subsec. (p). Pub. L. 102–237, §113(7)(B), redesignated subsec. (o) as (p).
 
 <b>1990</b>—Pub. L. 101–624, §1123, amended section generally, substituting provisions relating to the farmer owned reserve program for provisions relating to the establishment and maintenance of the producer reserve program for wheat and feed grains.
 
@@ -216,21 +216,21 @@ Amendment by section 1123 of Pub. L. 101–624 effective beginning with 1991 cro
 
 #### Effective and Termination Dates of 1988 Amendment
 
-Section 303(b) of Pub. L. 100–387 provided that the amendment made by that section is effective only for 1988 marketing year for wheat and feed grains.
+Pub. L. 100–387, title III, §303(b), Aug. 11, 1988, 102 Stat. 947, provided that the amendment made by section 303(b) is effective only for the 1988 marketing year for wheat and feed grains.
 
 #### Effective Date of 1985 Amendment
 
-Section 1012(a) of Pub. L. 99–198 provided that, except as provided in section 1012(b) of Pub. L. 99–198 \[set out below\], the amendments by section 1012(a) are effective beginning with 1986 crops.
+Pub. L. 99–198, title X, §1012(a), Dec. 23, 1985, 99 Stat. 1455, provided that, except as provided in section 1012(b) of Pub. L. 99–198 (set out below), the amendments by section 1012(a) are effective beginning with the 1986 crops.
 
-Section 1012(b) of Pub. L. 99–198 provided that: “The amendment made by subsection (a)(2)(B) of this section \[amending this section\] shall take effect with respect to any loan made under section 110 of the Agricultural Act of 1949 (7 U.S.C. 1445e) the date for repayment of which occurs after the date of enactment of this Act \[Dec. 23, 1985\].”
+Pub. L. 99–198, title X, §1012(b), Dec. 23, 1985, 99 Stat. 1456, provided that: “The amendment made by subsection (a)(2)(B) of this section \[amending this section\] shall take effect with respect to any loan made under section 110 of the Agricultural Act of 1949 (7 U.S.C. 1445e) the date for repayment of which occurs after the date of enactment of this Act \[Dec. 23, 1985\].”
 
 #### Effective Date of 1981 Amendment
 
-Section 1001 of Pub. L. 97–98 provided that the amendment made by that section is effective beginning with 1982 crops.
+Pub. L. 97–98, title X, §1001, Dec. 22, 1981, 95 Stat. 1257, provided that the amendment made by section 1001 is effective beginning with the 1982 crops.
 
 #### Effective Date of 1980 Amendment
 
-Section 203(b) of Pub. L. 96–494 provided that: “Subsection (a) of this section \[amending this section\] shall become effective October 1, 1980, and any producers who, prior to such date, receive loans on the 1980 crop of the commodity as computed under the Agricultural Act of 1949, as \[see Short Title note set out under section 1421 of this title\] amended prior to the enactment of this Act \[see Short Title note set out under section 4001 of this title\], may elect after September 30, 1980, to receive loans as authorized under subsection (a) of this section.”
+Pub. L. 96–494, title II, §203(b), Dec. 3, 1980, 94 Stat. 2571, provided that: “Subsection (a) of this section \[amending this section\] shall become effective October 1, 1980, and any producers who, prior to such date, receive loans on the 1980 crop of the commodity as computed under the Agricultural Act of 1949 \[see Short Title note set out under section 1421 of this title\], as amended prior to the enactment of this Act \[Dec. 3, 1980\], may elect after September 30, 1980, to receive loans as authorized under subsection (a) of this section.”
 
 Amendment by sections 204 and 205 of Pub. L. 96–494 effective Dec. 3, 1980, see section 213 of Pub. L. 96–494, set out as an Effective Date note under section 4001 of this title.
 
@@ -246,9 +246,9 @@ Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, an
 
 #### Comparability of Storage Payments
 
-Section 1124 of Pub. L. 101–624, as amended by Pub. L. 102–237, title I, §114(a)(1), Dec. 13, 1991, 105 Stat. 1838, provided that: “In making storage payments to producers under section 110 of the Agricultural Act of 1949 (7 U.S.C. 1445e) and to commercial warehousemen in accordance with the Commodity Credit Corporation Charter Act (15 U.S.C. 714 et seq.), the Commodity Credit Corporation and the Secretary of Agriculture shall, to the extent practicable, ensure that the rates of the storage payments made to producers are equivalent to average rates paid for commercial storage, taking into account the current demand for storage for commodities, efficiency, location, regulatory compliance costs, bonding requirements, and impact of user fees as determined by the Secretary, except that the rates paid to producers and commercial warehousemen shall be established at rates that will result in no increase in current or projected combined outlays of the Commodity Credit Corporation for the storage payments made to producers and commercial warehousemen as a result of the adjustment of storage rates under this section.”
+Pub. L. 101–624, title XI, §1124, Nov. 28, 1990, 104 Stat. 3506, as amended by Pub. L. 102–237, title I, §114(a)(1), Dec. 13, 1991, 105 Stat. 1838, provided that: “In making storage payments to producers under section 110 of the Agricultural Act of 1949 (7 U.S.C. 1445e) and to commercial warehousemen in accordance with the Commodity Credit Corporation Charter Act (15 U.S.C. 714 et seq.), the Commodity Credit Corporation and the Secretary of Agriculture shall, to the extent practicable, ensure that the rates of the storage payments made to producers are equivalent to average rates paid for commercial storage, taking into account the current demand for storage for commodities, efficiency, location, regulatory compliance costs, bonding requirements, and impact of user fees as determined by the Secretary, except that the rates paid to producers and commercial warehousemen shall be established at rates that will result in no increase in current or projected combined outlays of the Commodity Credit Corporation for the storage payments made to producers and commercial warehousemen as a result of the adjustment of storage rates under this section.”
 
 #### Repayment of Loans Without Penalty
 
-Section 303(a) of Pub. L. 100–387 provided that: “Effective for the 1988 marketing year for wheat or feed grains, once the market price described in clause (5) of the third sentence of subsection (b) of section 110 of the Agricultural Act of 1949 (7 U.S.C. 1445e) has been reached at any time during such marketing year with respect to such commodity, producers may repay loans made under section 110 for such commodity during the remainder of such marketing year without the payment of a penalty, regardless of the then current market price.”
+Pub. L. 100–387, title III, §303(a), Aug. 11, 1988, 102 Stat. 947, provided that: “Effective for the 1988 marketing year for wheat or feed grains, once the market price described in clause (5) of the third sentence of subsection (b) of section 110 of the Agricultural Act of 1949 (7 U.S.C. 1445e) has been reached at any time during such marketing year with respect to such commodity, producers may repay loans made under section 110 for such commodity during the remainder of such marketing year without the payment of a penalty, regardless of the then current market price.”
 

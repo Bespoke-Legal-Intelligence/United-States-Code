@@ -10,7 +10,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;Not later than 5 years after March 23, 2010, and every 5 years thereafter, a State shall submit to the Secretary a report concerning activities conducted within the State under PRAMS.
+&emsp;&emsp;Not later than 5 years after March 23, 2010, and every 5 years thereafter, a State shallsubmit to the Secretary a report concerning activities conducted within the State under PRAMS.
 
 #### (ii) Measurements
 

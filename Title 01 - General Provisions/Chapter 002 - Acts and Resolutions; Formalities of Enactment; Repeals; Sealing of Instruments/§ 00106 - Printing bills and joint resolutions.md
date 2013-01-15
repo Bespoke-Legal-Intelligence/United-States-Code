@@ -14,7 +14,7 @@ Reference.—In this section, the term ‘OBRA’ refers to the Omnibus Budget R
 
 “(2)
 
-Effective date.—Except as specifically provided in this section, the amendments made by this section \[amending sections 254<i>o</i>, 294f, 300aa–12, 300aa–15, 300aa–21, 426, 704, 912, 1320a–7, 1320a–7a, 1320a–7b, 1320b–5, 1320b–7, 1320b–8, 1320c–3, 1320c–5, 1320c–9, 1395e, 1395h, 1395i–2, 1395i–3, 1395k, 1395<i>l</i>, 1395m, 1395u, 1395w–1, 1395w–2, 1395x, 1395y, 1395aa, 1395bb, 1395cc, 1395dd, 1395gg, 1395mm, 1395ss, 1395tt, 1395ww, 1395aaa, 1395bbb, 1395ccc, 1396a, 1396b, 1396d, 1396j, 1396n, 1396<i>o</i>, 1396p, 1396r, 1396r–1, 1396r–3, 1396r–4, 1396s, and 1397d of Title 42, The Public Health and Welfare, amending provisions set out as notes under sections 426, 1320a–7a, 1320c–2, 1320c–3, 1395b–1, 1395h, 1395i–3, 1395<i>l</i>, 1395m, 1395n, 1395u, 1395w–1, 1395x, 1395aa, 1395dd, 1395mm, 1395ss, 1395ww, 1395bbb, 1396a, 1396b, and 1396r of Title 42, and repealing provisions set out as notes under section 1395<i>l</i> of Title 42\], as they relate to a provision in OBRA, shall be effective as if they were included in the enactment of that provision in OBRA.
+Effective date.—Except as specifically provided in this section, the amendments made by this section \[amending sections 254o, 294f, 300aa–12, 300aa–15, 300aa–21, 426, 704, 912, 1320a–7, 1320a–7a, 1320a–7b, 1320b–5, 1320b–7, 1320b–8, 1320c–3, 1320c–5, 1320c–9, 1395e, 1395h, 1395i–2, 1395i–3, 1395k, 1395l, 1395m, 1395u, 1395w–1, 1395w–2, 1395x, 1395y, 1395aa, 1395bb, 1395cc, 1395dd, 1395gg, 1395mm, 1395ss, 1395tt, 1395ww, 1395aaa, 1395bbb, 1395ccc, 1396a, 1396b, 1396d, 1396j, 1396n, 1396o, 1396p, 1396r, 1396r–1, 1396r–3, 1396r–4, 1396s, and 1397d of Title 42, The Public Health and Welfare, amending provisions set out as notes under sections 426, 1320a–7a, 1320c–2, 1320c–3, 1395b–1, 1395h, 1395i–3, 1395l, 1395m, 1395n, 1395u, 1395w–1, 1395x, 1395aa, 1395dd, 1395mm, 1395ss, 1395ww, 1395bbb, 1396a, 1396b, and 1396r of Title 42, and repealingprovisions set out as notes under section 1395l of Title 42\], as they relate to a provision in OBRA, shall be effective as if they were included in the enactment of that provision in OBRA.
 
 “(3)
 
@@ -22,7 +22,7 @@ Ratification of enrollment corrections and printed enrollment.—
 
 &emsp;“(A)
 
-In general.—Except as provided in subparagraph (B), the enrollment corrections noted in footnotes numbered 9 through 72 of OBRA are hereby ratified and shall be considered to have been enactedas part of OBRA. The printed enrollment of title IV of OBRA \[Pub. L. 100–203, title IV, Dec. 22, 1987, 101 Stat. 1330–39\], as prepared and printed under section 8004 of OBRA \[section 8004 of Pub. L. 100–203, set out below\] (including the footnote corrections described in subparagraph (B) and as incorporating the clarifications described in subparagraph (C)), shall be deemed to constitute title IV of OBRA as enacted.
+In general.—Except as provided in subparagraph (B), the enrollment corrections noted in footnotes numbered 9 through 72 of OBRA are hereby ratified and shall be considered to have been enacted as part of OBRA. The printed enrollment of title IV of OBRA \[Pub. L. 100–203, title IV, Dec. 22, 1987, 101 Stat. 1330–39\], as prepared and printed under section 8004 of OBRA \[section 8004 of Pub. L. 100–203, set out below\] (including the footnote corrections described in subparagraph (B) and as incorporating the clarifications described in subparagraph (C)), shall be deemed to constitute title IV of OBRA as enacted.
 
 &emsp;“(B)
 
@@ -102,7 +102,7 @@ Reconciliation bill.—The term ‘reconciliation bill’ means a bill that is a
 
 Identical provisions were contained in Pub. L. 104–54, title II, §§201, 202, Nov. 19, 1995, 109 Stat. 545.
 
-Pub. L. 102–387, Oct. 6, 1992, 106 Stat. 1519, provided: “That the provisions of sections 106 and 107 of title 1, United States Code, are waived with respect to the printing (on parchment or otherwise) of the enrollment of any appropriation bill of the One Hundred Second Congress hereafter to be presented to the President. Such an enrollment shall be in such form as the Committee on House Administration of the House of Representatives certifies to be a true enrollment. As used in this resolution, the term ‘appropriation bill’ meansa bill or joint resolution making or continuing appropriations for the fiscal year ending September 30, 1993.”
+Pub. L. 102–387, Oct. 6, 1992, 106 Stat. 1519, provided: “That the provisions of sections 106 and 107 of title 1, United States Code, are waived with respect to the printing (on parchment or otherwise) of the enrollment of any appropriation bill of the One Hundred Second Congress hereafter to be presented to the President. Such an enrollment shall be in such form as the Committee on House Administration of the House of Representatives certifies to be a true enrollment. As used in this resolution, the term ‘appropriation bill’ means a bill or joint resolution making or continuing appropriations for the fiscal year ending September 30, 1993.”
 
 Pub. L. 102–260, Mar. 20, 1992, 106 Stat. 85, provided that:
 
@@ -294,9 +294,9 @@ Pub. L. 100–202, §101(n), Dec. 22, 1987, 101 Stat. 1329–432, provided that:
 
 “(4) Upon certification by the President that a printed enrollment transmitted pursuant to subsection (n)(3) is a correct printing of the hand enrollment of this resolution, such printed enrollment shall be considered for all purposes as the original enrollment of this resolution and as valid evidence of the enactment of this resolution.
 
-“(5) A printed enrollment certified by the President under subsection (n)(4) shall be transmitted to the Archivist of the United States, who shall preserve it with the hand enrollment. In preparing this resolution for publication in slip form and in the United States Statutes at Large pursuant to section 112 of title 1, United States Code, the Archivist of the United States shall use the printed enrollment certified by the President under subsection (n)(4) in lieu of the hand enrollment.
+“(5) A printed enrollment certified by the President under subsection (n)(4) shall be transmitted to the Archivist of the United States, who shall preserve it with the hand enrollment. In preparing this resolution forpublication in slip form and in the United States Statutes at Large pursuant to section 112 of title 1, United States Code, the Archivist of the United States shall use the printed enrollment certified by the President under subsection (n)(4) in lieu of the hand enrollment.
 
-“(6) As used in this section, the term ‘hand enrollment’ means enrollment in a form other than the printed form required by sections 106 and 107 of title 1, United States Code, as authorized by the joint resolution entitled ‘Joint resolution authorizing the hand enrollment of the budget reconciliation bill and of thefull-year continuing resolution for fiscal year 1988’, approved December 1987 (H.J. Res. 426 of the 100th Congress) \[Pub. L. 100–199, Dec. 21, 1987, 101 Stat. 1326\].”
+“(6) As used in this section, the term ‘hand enrollment’ means enrollment in a form other than the printed form required by sections 106 and 107 of title 1, United States Code, as authorized by the joint resolution entitled ‘Joint resolution authorizing the hand enrollment of the budget reconciliation bill and of the full-year continuing resolution for fiscal year 1988’, approved December 1987 (H.J. Res. 426 of the 100th Congress) \[Pub. L. 100–199, Dec. 21, 1987, 101 Stat. 1326\].”
 
 #### Certification of Printed Enrollments of Certain Public Laws
 

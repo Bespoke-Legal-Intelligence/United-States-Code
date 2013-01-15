@@ -2,7 +2,7 @@
 
 (a)
 
-Destruction or Removal of Property To Prevent Seizure.—Whoever, before, during, or after any search for or seizure of property by any person authorized to make such search or seizure, knowingly destroys, damages, wastes, disposes of, transfers, or otherwise takes any action, or knowingly attempts to destroy, damage, waste, dispose of, transfer, or otherwise take any action, for the purpose of preventing or impairing the Government's lawful authority totake such property into its custody or control or to continue holding such property under its lawful custody and control, shall be fined under this title or imprisoned not more than 5 years, or both.
+Destruction or Removal of Property To Prevent Seizure.—Whoever, before, during, or after any search for or seizure of property by any person authorized to make such search or seizure, knowingly destroys, damages, wastes, disposes of, transfers, or otherwise takes any action, or knowingly attempts to destroy, damage, waste, dispose of, transfer, or otherwise take any action, for the purpose of preventing or impairing the Government's lawful authority to take such property into its custody or control or to continue holding such property under its lawful custody and control, shall be fined under this title or imprisoned not more than 5 years, or both.
 
 (b)
 
@@ -10,7 +10,7 @@ Impairment of In Rem Jurisdiction.—Whoever, knowing that property is subject t
 
 (c)
 
-Notice of Search or Execution of Seizure Warrant or Warrant of Arrest In Rem.—Whoever, having knowledge that any person authorized to make searches and seizures, or to execute a seizure warrant or warrant of arrest in rem, in order to prevent the authorized seizing or securing of any person or property, gives notice or attempts to give notice in advance of the search, seizure, or execution of a seizure warrant or warrant of arrest in rem, to any person shall be fined under this title or imprisoned not more than 5 years, or both.
+Notice of Search or Execution of Seizure Warrant or Warrant of Arrest In Rem.—Whoever, having knowledge that any person authorized to make searches and seizures, or to execute a seizure warrant or warrant of arrest in rem, in order to prevent the authorized seizing or securing of any person or property, givesnotice or attempts to give notice in advance of the search, seizure, or execution of a seizure warrant or warrant of arrest in rem, to any person shall be fined under this title or imprisoned not more than 5 years, or both.
 
 (d)
 

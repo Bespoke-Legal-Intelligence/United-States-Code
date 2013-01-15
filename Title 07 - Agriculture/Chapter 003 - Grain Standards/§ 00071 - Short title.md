@@ -24,7 +24,7 @@ Pub. L. 106–472, §1(a), Nov. 9, 2000, 114 Stat. 2058, provided that: “This 
 
 #### Short Title of 1993 Amendment
 
-Pub. L. 103–156, §1(a), Nov. 24, 1993, 107 Stat. 1525, provided that: “This Act \[amending sections 75 to 77, 79 to79b, 79d, 84 to 87e, 87f, 87f–1, 87h, 87j, and 87k of this title, enacting provisions set out as a note under section 75 of this title, and repealing provisions set out as a note under section 79 of this title\] may be cited as the ‘United States Grain Standards Act Amendments of 1993’.”
+Pub. L. 103–156, §1(a), Nov. 24, 1993, 107 Stat. 1525, provided that: “This Act \[amending sections 75 to 77, 79 to 79b, 79d, 84 to 87e, 87f, 87f–1, 87h, 87j, and 87k of this title, enacting provisions set out as a note under section 75 of this title, and repealing provisions set out as a note under section 79 of this title\] may be cited as the ‘United States Grain Standards Act Amendments of 1993’.”
 
 #### Short Title of 1990 Amendment
 
@@ -40,5 +40,5 @@ Pub. L. 99–641, title III, §301, Nov. 10, 1986, 100 Stat. 3564, provided that
 
 #### Short Title of 1976 Amendment
 
-Section 1 of Pub. L. 94–582, Oct. 21, 1976, 90 Stat. 2867, provided: “That this Act \[enacting sections 75a, 79a, 79b, 87e–1, 87f–1, and 87f–2 of this title, amending sections 74, 75, 76, 77, 78, 79, 84, 85, 86, 87, 87a, 87b, 87c, 87e, 87f, 87g, and 87h of this title, section 5316 of Title 5, Government Organization and Employees, and section 1114 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under sections 74, 75a, 76, and 79 of this title\] may be cited as the ‘United States Grain Standards Act of 1976’.”
+Pub. L. 94–582, §1, Oct. 21, 1976, 90 Stat. 2867, provided: “That this Act \[enacting sections 75a, 79a, 79b, 87e–1, 87f–1, and 87f–2 of this title, amending sections 74, 75, 76, 77, 78, 79, 84, 85, 86, 87, 87a, 87b, 87c, 87e, 87f, 87g, and 87h of this title, section 5316 of Title 5, Government Organization and Employees, and section 1114 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under sections 74, 75a, 76, and 79 of this title\] may be cited as the ‘United States Grain Standards Act of 1976’.”
 

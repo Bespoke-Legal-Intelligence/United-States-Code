@@ -103,19 +103,15 @@ The credit provided by this section shall not exceed the amount of the tax impos
 
 This section shall not apply to the estates of decedents dying after December 31, 2004.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 374; Feb. 20, 1956, ch. 63, §3, 70 Stat. 24; Pub. L. 85–866, title I, §§65(a), 102(c)(1), Sept. 2, 1958, 72 Stat. 1657, 1674; Pub. L. 86–175, §3, Aug. 21, 1959, 73 Stat. 397; Pub. L. 94–455, title XIX, §§1902(a)(12)(B), 1906(b)(13)(A), title XX, §§2001(c)(1)(A), 2004(f)(3), Oct. 4, 1976, 90 Stat. 1806, 1834, 1849, 1872; Pub. L.97–34, title IV, §422(e)(2), Aug. 13, 1981, 95 Stat. 316; Pub. L. 107–16, title V, §§531(a), 532(a), June 7, 2001, 115 Stat. 72, 73; Pub. L. 107–134, title I, §103(b)(1), Jan. 23, 2002, 115 Stat. 2431.)
-
-#### Amendment of Section
-
-<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
+(Aug. 16, 1954, ch. 736, 68A Stat. 374; Feb. 20, 1956, ch. 63, §3, 70 Stat. 24; Pub. L. 85–866, title I, §§65(a), 102(c)(1), Sept. 2, 1958, 72 Stat. 1657, 1674; Pub. L. 86–175, §3, Aug. 21, 1959, 73 Stat. 397; Pub. L. 94–455, title XIX, §§1902(a)(12)(B), 1906(b)(13)(A), title XX, §§2001(c)(1)(A), 2004(f)(3), Oct. 4, 1976, 90 Stat. 1806, 1834, 1849, 1872; Pub. L. 97–34, title IV, §422(e)(2), Aug. 13, 1981, 95 Stat. 316; Pub. L. 107–16, title V, §§531(a), 532(a), June 7, 2001, 115 Stat. 72, 73; Pub. L. 107–134, title I, §103(b)(1), Jan. 23, 2002, 115 Stat. 2431.)
 
 #### Amendments
 
 <b>2002</b>—Subsecs. (d) to (g). Pub. L. 107–134 redesignated subsecs. (e) to (g) as (d) to (f), respectively, and struck out heading and text of former subsec. (d). Text read as follows: “The basic estate tax and the estate tax imposed by the Revenue Act of 1926 shall be 125 percent of the amount determined to be the maximum credit provided by subsection (b). The additional estate tax shall be the difference between the tax imposed by section 2001 or 2101 and the basic estate tax.”
 
-<b>2001</b>—Subsec. (b). Pub. L. 107–16, §§531(a), 901, temporarily designated existing provisions as pars. (1) and (3), inserted headings, in par. (1) substituted “Except as provided in paragraph (2), the credit allowed” for “The credit allowed”, and added par. (2). See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Subsec. (b). Pub. L. 107–16, §531(a), designated existing provisions as pars. (1) and (3), inserted headings, in par. (1) substituted “Except as provided in paragraph (2), the credit allowed” for “The credit allowed”, and added par. (2).
 
-Subsec. (g). Pub. L. 107–16, §§532(a), 901, temporarily added subsec. (g). See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (g). Pub. L. 107–16, §532(a), added subsec. (g).
 
 <b>1981</b>—Subsec. (c)(2). Pub. L. 97–34 struck out reference to section 6166A.
 
@@ -155,13 +151,11 @@ Effective date.—The amendments made by this section \[amending this section an
 
 Waiver of limitations.—If refund or credit of any overpayment of tax resulting from the amendments made by this section is prevented at any time before the close of the 1-year period beginning on the date of the enactment of this Act \[Jan. 23, 2002\] by the operation of any law or rule of law (including res judicata), such refund or credit may nevertheless be made or allowed if claim therefor is filed before the close of such period.”
 
-#### Effective and Termination Dates of 2001 Amendment
+#### Effective Date of 2001 Amendment
 
 Pub. L. 107–16, title V, §531(b), June 7, 2001, 115 Stat. 73, as amended by Pub. L. 108–311, title IV, §408(b)(6), Oct. 4, 2004, 118 Stat. 1192, provided that: “The amendments made by this section \[amending this section\] shall apply to estates of decedents dying after December 31, 2001.”
 
 Pub. L. 107–16, title V, §532(d), June 7, 2001, 115 Stat. 75, provided that: “The amendments made by this section \[enacting section 2058 of this title and amending this section and sections 2012 to 2016, 2053, 2056A, 2102, 2106, 2107, 2201, 2604, 6511, and 6612 of this title\] shall apply to estates of decedents dying, and generation-skipping transfers, after December 31, 2004.”
-
-Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1981 Amendment
 
@@ -169,7 +163,7 @@ Amendment by Pub. L. 97–34 applicable to estates of decedents dying after Dec.
 
 #### Effective Date of 1976 Amendment
 
-Section 1902(c)(1) of Pub. L. 94–455, as amended by Pub. L. 95–600, title VII, §703(j)(12), Nov. 6, 1978, 92 Stat. 2942, provided that: “The amendments made by paragraphs (1) through (8), and paragraphs (12)(A), (B), and (C), of subsection (a) and by subsection (b) \[amending this section and sections 2012, 2013, 2016, 2038, 2053, 2055, 2056, 2106, 2107, 2108, 2201, 6167, and 6503 of this title, repealing section 2202 of this title, and enacting provisions set out as a note under section 2201 of this title\] shall apply in the case of estates of decedents dying after the date of the enactment of this Act \[Oct. 4, 1976\], and the amendment made by paragraph (9) of subsection (a) \[amending section 2204 of this title\] shall apply in the case of estates of decedents dying after December 31, 1970.”
+Pub. L. 94–455, title XIX, §1902(c)(1), Oct. 4, 1976, 90 Stat. 1806, as amended by Pub. L. 95–600, title VII, §703(j)(12), Nov. 6, 1978, 92 Stat. 2942, provided that: “The amendments made by paragraphs (1) through (8), and paragraphs (12)(A), (B), and (C), of subsection (a) and by subsection (b) \[amending this section and sections 2012, 2013, 2016, 2038, 2053, 2055, 2056, 2106, 2107, 2108, 2201, 6167, and 6503 of this title, repealing section 2202 of this title, and enacting provisions set out as a note under section 2201 of this title\] shall apply in the case of estates of decedents dying after the date of the enactment of this Act \[Oct. 4, 1976\], and the amendment made by paragraph (9) of subsection (a) \[amending section 2204 of this title\] shall apply in the case of estates of decedents dying after December 31, 1970.”
 
 Amendment by section 1902(a)(12)(B) of Pub. L. 94–455 applicable with respect to gifts made after Dec. 31, 1976, see section 1902(c)(2) of Pub. L. 94–455, set out as a note under section 2501 of this title.
 
@@ -183,9 +177,9 @@ Amendment by Pub. L. 86–175 applicable with respect to estates of decedents dy
 
 #### Effective Date of 1958 Amendment
 
-Section 65(c) of Pub. L. 85–866 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to estates of decedents dying after August 16, 1954. The amendment made by subsection (b) \[amending this section\] shall apply with respect to estates of decedents dying after February 10, 1939, and on or before August 16, 1954.”
+Pub. L. 85–866, title I, §65(c), Sept. 2, 1958, 72 Stat. 1657, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to estates of decedents dying after August 16, 1954. The amendment made by subsection (b) \[amending this section\] shall apply with respect to estates of decedents dying after February 10, 1939, and on or before August 16, 1954.”
 
-Section 102(d) of Pub. L. 85–866 provided that: “The amendments made by this section (other than by subsection (b)) \[enacting section 2208 of this title and amending this section and sections 2104 and 2053 of thistitle\] shall apply to the estates of decedents dying after the date of the enactment of this Act \[Sept. 2, 1958\]. The amendment made by subsection (b) \[amending section 2501 of this title\] shall apply to gifts made after the date of the enactment of this Act.”
+Pub. L. 85–866, title I, §102(d), Sept. 2, 1958, 72 Stat. 1675, provided that: “The amendments made by this section (other than by subsection (b)) \[enacting section 2208 of this title and amending this section and sections 2104 and 2053 of this title\] shall apply to the estates of decedents dying after the date of the enactment of this Act \[Sept. 2, 1958\]. The amendment made by subsection (b) \[amending section 2501 of this title\] shall apply to gifts made after the date of the enactment of this Act.”
 
 #### Effective Date of 1956 Amendment
 

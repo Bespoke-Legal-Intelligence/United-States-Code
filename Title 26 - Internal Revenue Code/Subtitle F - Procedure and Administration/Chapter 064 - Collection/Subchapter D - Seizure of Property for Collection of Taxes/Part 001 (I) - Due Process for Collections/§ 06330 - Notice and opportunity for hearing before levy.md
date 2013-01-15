@@ -74,7 +74,7 @@ In the case of any hearing conducted under this section—
 
 #### (B) Underlying liability
 
-&emsp;&emsp;The person may also raise at the hearing challenges to the existence or amount of the underlying tax liability for any tax period if the person did not receive any statutory notice of deficiency for such tax liability or didnot otherwise have an opportunity to dispute such tax liability.
+&emsp;&emsp;The person may also raise at the hearing challenges to the existence or amount of the underlying tax liability for any tax period if the person did not receive any statutory notice of deficiency for such tax liability or did not otherwise have an opportunity to dispute such tax liability.
 
 #### (3) Basis for the determination
 
@@ -146,13 +146,13 @@ For purposes of subsection (f)—
 
 #### (1) Disqualified employment tax levy
 
-&emsp;A disqualified employment tax levy is any levy in connection with the collection of employment taxes for any taxable period if the person subject to the levy (or any predecessor thereof) requested a hearing under this section with respect to unpaid employment taxes arising in the most recent 2-year period before the beginning of the taxable period with respect to which the levy is served. For purposes of the preceding sentence, the term “employment taxes” means any taxes under chapter 21, 22, 23, or 24.
+&emsp;A disqualified employment tax levy is any levy in connection with the collection of employment taxes for any taxable period if the person subject to the levy (or any predecessor thereof) requested a hearing under this sectionwith respect to unpaid employment taxes arising in the most recent 2-year period before the beginning of the taxable period with respect to which the levy is served. For purposes of the preceding sentence, the term “employment taxes” means any taxes under chapter 21, 22, 23, or 24.
 
 #### (2) Federal contractor levy
 
 &emsp;A Federal contractor levy is any levy if the person whose property is subject to the levy (or any predecessor thereof) is a Federal contractor.
 
-(Added Pub. L. 105–206, title III, §3401(b), July 22, 1998, 112 Stat. 747; amended Pub. L. 106–554, §1(a)(7) \[title III, §313(b)(2)(A), (d)\], Dec. 21, 2000,114 Stat. 2763, 2763A–642, 2763A–643; Pub. L. 109–280, title VIII, §855(a), Aug. 17, 2006, 120 Stat. 1019; Pub. L. 109–432, div. A, title IV, §407(b), Dec. 20, 2006, 120 Stat. 2961; Pub. L. 110–28, title VIII, §8243(a), (b), May 25, 2007, 121 Stat. 200; Pub. L. 111–240, title II, §2104(a)–(c), Sept. 27, 2010, 124 Stat. 2565.)
+(Added Pub. L. 105–206, title III, §3401(b), July 22, 1998, 112 Stat. 747; amended Pub. L. 106–554, §1(a)(7) \[title III, §313(b)(2)(A), (d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–642, 2763A–643; Pub. L. 109–280, title VIII, §855(a), Aug. 17, 2006, 120 Stat. 1019; Pub. L. 109–432, div. A, title IV, §407(b), Dec. 20, 2006, 120 Stat. 2961; Pub. L. 110–28, title VIII, §8243(a), (b), May 25, 2007, 121 Stat. 200; Pub. L. 111–240, title II, §2104(a)–(c), Sept. 27, 2010, 124 Stat. 2565.)
 
 #### Amendments
 

@@ -52,7 +52,7 @@ The system required under subsection (a) shall include collection of and reporti
 
 &emsp;(A) A summary of the quarterly reports required under section 2311(j) of this title.
 
-&emsp;(B) A summary of the data on workers in the quarterly reports required under section 2311(j) of this title classified by the age, pre-program educational level, and post-program credential attainment of the workers.
+&emsp;(B) A summary of the data on workers in the quarterly reports required under section2311(j) of this title classified by the age, pre-program educational level, and post-program credential attainment of the workers.
 
 &emsp;(C) The average earnings of workers described in section 2311(j)(2)(A)(i) of this title in the second, third, and fourth calendar quarters following the calendar quarter in which such workers cease receiving benefits under this part, expressed as a percentage of the average earnings of such workers in the 3 calendar quarters before the calendar quarter in which such workers began receiving benefits under this part.
 

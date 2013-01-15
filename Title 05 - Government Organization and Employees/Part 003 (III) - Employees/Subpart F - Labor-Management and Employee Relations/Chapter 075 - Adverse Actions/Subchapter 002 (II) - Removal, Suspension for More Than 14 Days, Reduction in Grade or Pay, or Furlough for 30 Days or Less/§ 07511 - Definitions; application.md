@@ -56,11 +56,11 @@
 
 &emsp;(9) who is described in section 5102(c)(11) of this title; or
 
-&emsp;(10) who holds a position within the Veterans Health Administration which has been excluded from the competitive service by or under a provision of title 38, unless such employee was appointed to such position under section 7401(3) of such title.
+&emsp;(10) who holds a position within the Veterans Health Administration which has been excluded from the competitive service by orunder a provision of title 38, unless such employee was appointed to such position under section 7401(3) of such title.
 
 (c) The Office may provide for the application of this subchapter to any position or group of positions excepted from the competitive service by regulation of the Office which is not otherwise covered by this subchapter.
 
-(Added Pub. L. 95–454, title II, §204(a), Oct. 13, 1978, 92 Stat. 1135; amended Pub. L. 101–376, §2(a), Aug. 17, 1990, 104 Stat. 461; Pub. L. 102–378, §6(a), Oct. 2, 1992, 106 Stat. 1358; Pub. L. 103–359, title V, §501(<i>l</i>), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–201, div. A, title XVI, §1634(b), Sept. 23, 1996, 110 Stat. 2752; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–435, title VI, §604(b), (f), Dec. 20, 2006, 120 Stat. 3241, 3242.)
+(Added Pub. L. 95–454, title II, §204(a), Oct. 13, 1978, 92 Stat. 1135; amended Pub. L. 101–376, §2(a), Aug. 17, 1990, 104 Stat. 461; Pub. L. 102–378, §6(a), Oct. 2, 1992, 106 Stat. 1358; Pub. L. 103–359, title V, §501(l), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–201, div. A, title XVI, §1634(b), Sept. 23, 1996, 110 Stat. 2752; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–435, title VI, §604(b), (f), Dec. 20, 2006, 120 Stat. 3241, 3242.)
 
 #### References in Text
 
@@ -122,7 +122,7 @@ Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 1635 of Pub. 
 
 #### Effective Date of 1992 Amendment
 
-Section 6(b) of Pub. L. 102–378 provided that:
+Pub. L. 102–378, §6(b), Oct. 2, 1992, 106 Stat. 1359, provided that:
 
 “(1) The amendments made by subsection (a) \[amending this section\] shall apply with respect to any personnel action taking effect on or after the date of enactment of this Act \[Oct. 2, 1992\].
 

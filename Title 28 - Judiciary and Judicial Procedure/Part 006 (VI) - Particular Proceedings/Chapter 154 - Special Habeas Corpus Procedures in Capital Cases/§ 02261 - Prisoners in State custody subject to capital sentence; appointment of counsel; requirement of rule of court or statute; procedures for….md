@@ -36,5 +36,5 @@ Amendment by Pub. L. 109–177 applicable to cases pending on or after Mar. 9, 2
 
 #### Effective Date
 
-Section 107(c) of Pub. L. 104–132 provided that: “Chapter 154 of title 28, United States Code (as added by subsection (a)) shall apply to cases pending on or after the date of enactment of this Act \[Apr. 24, 1996\].”
+Pub. L. 104–132, title I, §107(c), Apr. 24, 1996, 110 Stat. 1226, provided that: “Chapter 154 of title 28, United States Code (as added by subsection (a)) shall apply to cases pending on or after the date of enactment of this Act \[Apr. 24, 1996\].”
 

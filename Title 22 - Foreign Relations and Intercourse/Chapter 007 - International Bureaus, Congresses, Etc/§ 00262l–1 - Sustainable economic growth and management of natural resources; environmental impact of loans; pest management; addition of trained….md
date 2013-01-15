@@ -36,7 +36,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 #### (f) Support of donor nations for additional trained professionals
 
-No later than March 30, 1988, the Secretary of State and the Administrator of the Agency for International Development shall initiate discussions with other donor nations, to explore ways in which said donor nations can support the addition of professionals trained in environmental and socio-cultural impact analysis to the Inter-American Development Bank, Asian Development Bank and African Development Bank. On the basis of such discussions the Secretary of State and the Administrator of the Agency for International Development shall provide resources, including professional staff on loan, and/or financial support, to ensure with other donor nations the addition of sufficient staff trained in environmental and socio-cultural impact analysis to each of the above named regional development banks.
+No later than March 30, 1988, the Secretary of State and the Administrator of the Agency for International Development shall initiate discussions with other donor nations, to explore ways in which said donor nations can support the addition of professionals trained in environmental and socio-cultural impact analysis to the Inter-American Development Bank, Asian Development Bank and African Development Bank. On the basis of such discussions the Secretary of State and the Administrator of the Agency for International Development shall provide resources, including professional staff on loan, and/or financial support, to ensure with other donor nations the addition of sufficient stafftrained in environmental and socio-cultural impact analysis to each of the above named regional development banks.
 
 #### (g) Bilateral and multilateral discussions to strengthen environmental performance of Multilateral Development Banks
 
@@ -58,7 +58,7 @@ If a review required by subsection (h) identifies adverse impacts to the environ
 
 #### (j) Report by February 1, 1988
 
-The Committee on Health and Environment of the Agency for International Development, called for in section 262<i>l</i>(i) of this title, shall report its findings to the Committees on Appropriations by February 1, 1988.
+The Committee on Health and Environment of the Agency for International Development, called for in section 262l(i) of this title, shall report its findings to the Committees on Appropriations by February 1, 1988.
 
 #### (k) Report by August 1, 1988
 
@@ -76,7 +76,7 @@ The Secretary of State, in consultation with the Secretary of the Treasury, the 
 
 Section is from the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1988.
 
-Section was formerly classified to section 262<i>l</i> of this title.
+Section was formerly classified to section 262l of this title.
 
 #### Amendments
 

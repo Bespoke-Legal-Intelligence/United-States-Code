@@ -22,5 +22,5 @@ For purposes of this section—
 
 #### Effective Date
 
-Section 2813(c) of Pub. L. 98–369 provided that: “The amendments made by this section \[enacting this section and amending section 1795b of this title and section 501 of Title 26, Internal Revenue Code\] shall take effect on October 1, 1979.”
+Pub. L. 98–369, div. B, title VIII, §2813(c), July 18, 1984, 98 Stat. 1207, provided that: “The amendments made by this section \[enacting this section and amending section 1795b of this title and section 501 of Title 26, Internal Revenue Code\] shall take effect on October 1, 1979.”
 

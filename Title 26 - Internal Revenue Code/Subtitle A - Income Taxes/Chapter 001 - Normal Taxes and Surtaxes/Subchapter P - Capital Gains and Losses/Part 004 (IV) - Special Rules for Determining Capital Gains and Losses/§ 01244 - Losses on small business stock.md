@@ -110,11 +110,11 @@ Subsec. (d)(3). Pub. L. 94–455, §1901(b)(3)(G), substituted “an ordinary lo
 
 #### Effective Date of 1984 Amendment
 
-Section 481(b) of Pub. L. 98–369 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to stock issued after the date of the enactment of this Act \[July 18, 1984\] in taxable years ending after such date.”
+Pub. L. 98–369, div. A, title IV, §481(b), July 18, 1984, 98 Stat. 847, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to stock issued after the date of the enactment of this Act \[July 18, 1984\] in taxable years ending after such date.”
 
 #### Effective Date of 1978 Amendment
 
-Section 345(e) of Pub. L. 95–600, as amended by Pub. L. 96–222, title I, §103(a)(9), Apr. 1, 1980, 94 Stat. 212, provided that:
+Pub. L. 95–600, title III, §345(e), Nov. 6, 1978, 92 Stat. 2845, as amended by Pub. L. 96–222, title I, §103(a)(9), Apr. 1, 1980, 94 Stat. 212, provided that:
 
 “(1)
 

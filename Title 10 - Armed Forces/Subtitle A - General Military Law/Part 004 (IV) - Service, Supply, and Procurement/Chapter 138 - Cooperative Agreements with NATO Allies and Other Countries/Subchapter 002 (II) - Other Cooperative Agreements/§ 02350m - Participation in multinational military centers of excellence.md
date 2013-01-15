@@ -30,7 +30,7 @@ Use of Department of Defense Facilities and Equipment.—Facilities and equipmen
 
 (e)
 
-Annual Reports on Use of Authority.—(1) Not later than October 31, 2009, and annually thereafter, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the use of the authority in this section during the preceding fiscal year.
+Annual Reports on Use of Authority.—(1) Not later than October 31 each year, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the use of the authority in this section during the preceding fiscal year.
 
 (2) Each report required by paragraph (1) shall include, for the fiscal year covered by such report, the following:
 
@@ -44,7 +44,7 @@ Annual Reports on Use of Authority.—(1) Not later than October 31, 2009, and a
 
 &emsp;&emsp;(iii) a statement of the costs of the Department for such participation, including—
 
-&emsp;&emsp;&emsp;(I) a statement of the United States share of the expenses of such center and a statement of the percentage of the United States share of the expenses of such center to the total expenses of such center; and
+&emsp;&emsp;&emsp;(I) a statement of the United States share of the expenses of such center and astatement of the percentage of the United States share of the expenses of such center to the total expenses of such center; and
 
 &emsp;&emsp;&emsp;(II) a statement of the amount of such costs (including a separate statement of the amount of costs paid for under the authority of this section by category of costs).
 
@@ -60,7 +60,11 @@ Multinational Military Center of Excellence Defined.—In this section, the term
 
 &emsp;(4) validate concepts through experimentation.
 
-(Added Pub. L. 110–417, \[div. A\], title XII, §1232(a)(1), Oct. 14, 2008, 122 Stat. 4637.)
+(Added Pub. L. 110–417, \[div. A\], title XII, §1232(a)(1), Oct. 14, 2008, 122 Stat. 4637; amended Pub. L. 112–239, div. A, title X, §1076(f)(25), Jan. 2, 2013, 126 Stat. 1953.)
+
+#### Amendments
+
+<b>2013</b>—Subsec. (e)(1). Pub. L. 112–239 substituted “Not later than October 31 each year” for “Not later than October 31, 2009, and annually thereafter”.
 
 #### Effective Date
 

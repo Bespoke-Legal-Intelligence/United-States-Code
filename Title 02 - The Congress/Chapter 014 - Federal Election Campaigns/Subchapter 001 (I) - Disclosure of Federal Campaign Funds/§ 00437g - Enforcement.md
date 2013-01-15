@@ -14,7 +14,7 @@
 
 (B)(i) No action by the Commission or any person, and no information derived, in connection with any conciliation attempt by the Commission under subparagraph (A) may be made public by the Commission without the written consent of the respondent and the Commission.
 
-(ii) If a conciliation agreement is agreed upon by the Commission and the respondent, the Commission shall make public any conciliation agreement signed by both the Commission and the respondent. If the Commission makes a determination that a person has not violated this Act or chapter 95 or chapter 96 of title 26, theCommission shall make public such determination.
+(ii) If a conciliation agreement is agreed upon by the Commission and the respondent, the Commission shall make public any conciliation agreement signed by both the Commission and the respondent. If the Commission makes a determination that a person has not violated this Act or chapter 95 or chapter 96 of title 26, the Commission shall make public such determination.
 
 (C)(i) Notwithstanding subparagraph (A), in the case of a violation of any requirement of section 434(a) of this title, the Commission may—
 

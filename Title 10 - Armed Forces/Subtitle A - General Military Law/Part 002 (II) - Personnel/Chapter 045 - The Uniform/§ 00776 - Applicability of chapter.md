@@ -8,7 +8,7 @@ This chapter applies in—
 
 &emsp;(3) all other places under the jurisdiction of the United States.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 36, §774; Pub. L. 99–661, div. A, title XIII, §1343(a)(1), Nov. 14, 1986, 100 Stat. 3992; Pub. L. 100–26, §3(6), Apr. 21, 1987, 101 Stat. 273; renumbered §775, Pub. L. 100–180, div. A, title V, §508(a)(1), Dec. 4, 1987, 101 Stat. 1086; renumbered §776, Pub. L. 102–484, div. A, title III, §377(a)(1), Oct. 23, 1992, 106 Stat. 2386.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 36, §774; Pub. L. 99–661, div. A, title XIII, §1343(a)(1), Nov. 14, 1986,100 Stat. 3992; Pub. L. 100–26, §3(6), Apr. 21, 1987, 101 Stat. 273; renumbered §775, Pub. L. 100–180, div. A, title V, §508(a)(1), Dec. 4, 1987, 101 Stat. 1086; renumbered §776, Pub. L. 102–484, div. A, title III, §377(a)(1), Oct. 23, 1992, 106 Stat. 2386.)
 
 Historical and Revision Notes
 
@@ -38,5 +38,5 @@ Pub. L. 100–26 amended directory language of Pub. L. 99–661. See 1986 Amendm
 
 #### Effective Date of 1987 Amendment
 
-Section 12(a) of Pub. L. 100–26 provided that: “The amendments made by section 3 \[amending this section and sections 1032, 1408, 1450, 1588, 2007, 2364, and 5150 of this title, and section 4703 of Title 20, Education, and amending provisions set out as a note under section 1006 of Title 37, Pay and Allowances of the Uniformed Services\] shall apply as if included in Public Law 99–661 when enacted on November 14, 1986.”
+Pub. L. 100–26, §12(a), Apr. 21, 1987, 101 Stat. 289, provided that: “The amendments made by section 3 \[amending this section and sections 1032, 1408, 1450, 1588, 2007, 2364, and 5150 of this title, and section 4703 of Title 20, Education, and amending provisions set out as a note under section 1006 of Title 37, Pay and Allowances of the Uniformed Services\] shall apply as if included in Public Law 99–661 when enacted on November 14, 1986.”
 

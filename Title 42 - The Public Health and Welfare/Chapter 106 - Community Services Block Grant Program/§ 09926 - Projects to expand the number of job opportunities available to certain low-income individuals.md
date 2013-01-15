@@ -82,7 +82,7 @@ Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules rel
 
 #### Effective Date of 1994 Amendment
 
-Section 261(b) of Pub. L. 103–432 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 1993.”
+Pub. L. 103–432, title II, §261(b), Oct. 31, 1994, 108 Stat. 4467, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 1993.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “under part”.</i>
 

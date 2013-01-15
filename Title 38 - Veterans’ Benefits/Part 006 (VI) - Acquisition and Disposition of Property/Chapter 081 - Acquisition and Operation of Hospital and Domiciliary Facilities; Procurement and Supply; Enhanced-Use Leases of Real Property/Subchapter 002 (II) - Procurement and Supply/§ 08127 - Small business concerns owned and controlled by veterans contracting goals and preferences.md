@@ -10,7 +10,7 @@ Contracting Goals.—(1) In order to increase contracting opportunities for smal
 
 (2) The goal for a fiscal year for participation under paragraph (1)(A) shall be determined by the Secretary.
 
-(3) The goal for a fiscal year for participation under paragraph (1)(B) shall be not less than the Government-wide goal for that fiscal year for participation by small business concerns owned and controlled by veterans with service-connected disabilities under section 15(g)(1) of the Small Business Act (15 U.S.C. 644(g)(1)).
+(3) The goal for a fiscal year for participation under paragraph (1)(B) shall be not less than theGovernment-wide goal for that fiscal year for participation by small business concerns owned and controlled by veterans with service-connected disabilities under section 15(g)(1) of the Small Business Act (15 U.S.C. 644(g)(1)).
 
 (4) The Secretary shall establish a review mechanism to ensure that, in the case of a subcontract of a Department contract that is counted for purposes of meeting a goal established pursuant to this section, the subcontract was actually awarded to a business concern that may be counted for purposes of meeting that goal.
 
@@ -34,7 +34,7 @@ Use of Restricted Competition.—Except as provided in subsections (b) and (c), 
 
 (e)
 
-Eligibility of Small Business Concerns.—A small business concern may be awarded a contract under this section only if thesmall business concern and the veteran owner of the small business concern are listed in the database of veteran-owned businesses maintained by the Secretary under subsection (f).
+Eligibility of Small Business Concerns.—A small business concern may be awarded a contract under this section only if the small business concern and the veteran owner of the small business concern are listed in the database of veteran-owned businesses maintained by the Secretary under subsection (f).
 
 (f)
 
@@ -58,11 +58,15 @@ Database of Veteran-Owned Businesses.—(1) Subject to paragraphs (2) through (6
 
 (g)
 
-Enforcement Penalties for Misrepresentation.—Any business concern that is determined by the Secretary to have misrepresented the status of that concern as a small business concern owned and controlled by veterans or as a small business concern owned and controlled by service-disabled veterans for purposes of this subsection shall be debarred from contracting with the Department for a reasonable period of time, as determined by the Secretary.
+Enforcement Penalties for Misrepresentation.—(1) Any business concern that is determined by the Secretary to have willfully and intentionally misrepresented the status of that concern as a small business concern owned and controlled by veterans or as a small business concern owned and controlled by service-disabled veterans for purposes of this subsection shall be debarred from contracting with the Department for a period of not less than five years.
+
+(2) In the case of a debarment under paragraph (1), the Secretary shall commence debarment action against the business concern by not later than 30 days after determining that the concern willfully and intentionally misrepresented the status of the concern as described in paragraph (1) and shall complete debarment actions against such concern by not later than 90 days after such determination.
+
+(3) The debarment of a business concern under paragraph (1) includes the debarment of all principals in the business concern for a period of not less than five years.
 
 (h)
 
-Treatment of Businesses After Death of Veteran-Owner.—(1) Subject to paragraph (3), if the death of a veteran causes a small business concern to be less than 51 percent owned by one or more veterans, the surviving spouse of such veteran who acquires ownership rights in such small business concern shall, for the period described in paragraph (2), be treated as if the surviving spouse were that veteran for the purpose of maintaining the status of the small business concern as a small business concern owned and controlled by veterans.
+Treatment of Businesses After Death of Veteran-Owner.—(1) Subject to paragraph (3), if the death of a veteran causes a small business concern to be less than 51 percent owned by oneor more veterans, the surviving spouse of such veteran who acquires ownership rights in such small business concern shall, for the period described in paragraph (2), be treated as if the surviving spouse were that veteran for the purpose of maintaining the status of the small business concern as a small business concern owned and controlled by veterans.
 
 (2) The period referred to in paragraph (1) is the period beginning on the date on which the veteran dies and ending on the earliest of the following dates:
 
@@ -108,7 +112,7 @@ Annual Reports.—Not later than December 31 each year, the Secretary shall subm
 
 &emsp;(4) The percentage of the total amount of all contracts awarded by each such Administration during that fiscal year that were awarded to small business concerns owned and controlled by veterans with service-connected disabilities.
 
-(<i>l</i>)
+(l)
 
 Definitions.—In this section:
 
@@ -122,13 +126,15 @@ Definitions.—In this section:
 
 &emsp;&emsp;(B) not less than 51 percent of which is owned by one or more veterans with service-connected disabilities that are permanent and total who are unable to manage the daily business operations of such concern or, in the case of a publicly owned business, not less than 51 percent of the stock of which is owned by one or more such veterans.
 
-(Added Pub. L. 109–461, title V, §502(a)(1), Dec. 22, 2006, 120 Stat. 3431; amended Pub. L. 110–389, title VIII, §806, Oct. 10, 2008, 122 Stat. 4189; Pub. L. 111–275, title I, §104(b)(1), Oct. 13, 2010, 124 Stat. 2867; Pub. L. 111–350, §5(j)(7), Jan. 4, 2011, 124 Stat. 3850.)
+(Added Pub. L. 109–461, title V, §502(a)(1), Dec. 22, 2006, 120 Stat. 3431; amended Pub. L. 110–389, title VIII, §806, Oct. 10, 2008, 122 Stat. 4189; Pub. L. 111–275, title I, §104(b)(1), Oct. 13, 2010, 124 Stat. 2867; Pub. L. 111–350, §5(j)(7), Jan. 4, 2011, 124 Stat. 3850; Pub. L. 112—154, title VII, §706, Aug. 6, 2012, 126 Stat. 1206.)
 
 #### References in Text
 
 The Small Business Act, referred to in subsec. (j)(2), is Pub. L. 85–536, §2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (g). Pub. L. 112–154 designated existing provisions as par. (1), inserted “willfully and intentionally” before “misrepresented”, substituted “a period of not less than five years” for “a reasonable period of time, as determined by the Secretary”, and added pars. (2) and (3).
 
 <b>2011</b>—Subsecs. (b), (c)(2). Pub. L. 111–350 substituted “section 134 of title 41” for “section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403)”.
 
@@ -140,7 +146,7 @@ Subsec. (f)(4). Pub. L. 111–275, §104(b)(1)(B), added par. (4) and struck out
 
 &emsp;“(B) In the case of a veteran who indicates a service-connected disability, verification of the service-disabled status of such veteran.”
 
-<b>2008</b>—Subsecs. (j) to (<i>l</i>). Pub. L. 110–389 added subsec. (j) and redesignated former subsecs. (j) and (k) as (k) and (<i>l</i>), respectively.
+<b>2008</b>—Subsecs. (j) to (l). Pub. L. 110–389 added subsec. (j) and redesignated former subsecs. (j) and (k) as (k) and (l), respectively.
 
 #### Effective Date
 

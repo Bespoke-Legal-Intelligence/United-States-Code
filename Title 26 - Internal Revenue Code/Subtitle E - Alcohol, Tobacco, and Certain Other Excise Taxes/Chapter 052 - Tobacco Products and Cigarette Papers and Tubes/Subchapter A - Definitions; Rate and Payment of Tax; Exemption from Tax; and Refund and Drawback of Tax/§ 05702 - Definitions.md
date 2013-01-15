@@ -26,6 +26,8 @@ When used in this chapter—
 
 &emsp;(2) a proprietor of a customs bonded manufacturing warehouse with respect to the operation of such warehouse.
 
+> Such term shall include any person who for commercial purposes makes available for consumer use (including such consumer's personal consumption or use under paragraph (1)) a machine capable of making cigarettes, cigars, or other tobacco products. A person making such a machine available for consumer use shall be deemed the person making the removal as defined by subsection (j) with respect to any tobacco products manufactured by such machine. A person who sells a machine directly to a consumer at retail for a consumer's personal home use is not making a machine available for commercial purposes if such machine is not used at a retail premises and is designed to produce tobacco products only in personal use quantities.
+
 #### (e) Cigarette paper
 
 “Cigarette paper” means paper, or any other material except tobacco, prepared for use as a cigarette wrapper.
@@ -36,7 +38,7 @@ When used in this chapter—
 
 #### (g) Manufacturer of cigarette papers and tubes
 
-“Manufacturer of cigarette papers and tubes” means any person who manufactures cigarettepaper, or makes up cigarette paper into tubes, except for his own personal use or consumption.
+“Manufacturer of cigarette papers and tubes” means any person who manufactures cigarette paper, or makes up cigarette paper into tubes, except for his own personal use or consumption.
 
 #### (h) Export warehouse
 
@@ -54,7 +56,7 @@ When used in this chapter—
 
 “Importer” means any person in the United States to whom nontaxpaid tobacco products or cigarette papers or tubes, or any processed tobacco, manufactured in a foreign country, Puerto Rico, the Virgin Islands, or a possession of the United States are shipped or consigned; any person who removes cigars or cigarettes for sale or consumption in the United States from a customs bonded manufacturing warehouse; and any person who smuggles or otherwise unlawfully brings tobacco products or cigarette papers or tubes, or any processed tobacco, into the United States.
 
-#### (<i>l</i>) Determination of price on cigars
+#### (l) Determination of price on cigars
 
 In determining price for purposes of section 5701(a)(2)—
 
@@ -86,7 +88,7 @@ In determining price for purposes of section 5701(a)(2)—
 
 The term “pipe tobacco” means any tobacco which, because of its appearance, type, packaging, or labeling, is suitable for use and likely to be offered to, or purchased by, consumers as tobacco to be smoked in a pipe.
 
-#### (<i>o</i>) Roll-your-own tobacco
+#### (o) Roll-your-own tobacco
 
 The term “roll-your-own tobacco” means any tobacco which, because of its appearance, type, packaging, or labeling, is suitable for use and likely to be offered to, or purchased by, consumers as tobacco for making cigarettes or cigars, or for use as wrappers thereof.
 
@@ -100,9 +102,11 @@ The term “roll-your-own tobacco” means any tobacco which, because of its app
 
 &emsp;The processing of tobacco shall not include the farming or growing of tobacco or the handling of tobacco solely for sale, shipment, or delivery to a manufacturer of tobacco products or processed tobacco.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 706; Pub. L. 85–859, title II, §202, Sept. 2, 1958, 72 Stat. 1415; Pub. L. 89–44, title V, §502(b)(3), title VIII, §808(a), June 21, 1965, 79 Stat. 151, 164; Pub. L. 94–455, title XIX, §1906(b)(13)(A), title XXI, §2128(b), Oct. 4, 1976, 90 Stat. 1834, 1921; Pub. L. 99–272, title XIII, §13202(b)(2)–(4), Apr. 7, 1986, 100 Stat. 312; Pub. L. 100–647, title V, §5061(b)–(c)(2), Nov. 10, 1988, 102 Stat. 3679; Pub. L. 101–508, title XI, §11202(g), Nov. 5, 1990, 104 Stat. 1388–419; Pub. L. 105–33, title IX, §9302(g)(2)–(3)(B), (h)(4), Aug. 5, 1997, 111 Stat. 672, 674; Pub. L. 106–554, §1(a)(7) \[title III, §315(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–644; Pub. L. 111–3, title VII, §702(a)(4), (5), (d)(1), Feb. 4, 2009, 123 Stat. 108, 110.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 706; Pub. L. 85–859, title II, §202, Sept. 2, 1958, 72 Stat. 1415; Pub. L. 89–44, title V, §502(b)(3), title VIII, §808(a), June 21, 1965, 79 Stat. 151, 164; Pub. L. 94–455, title XIX, §1906(b)(13)(A), title XXI, §2128(b), Oct. 4, 1976, 90 Stat. 1834, 1921; Pub. L. 99–272, title XIII, §13202(b)(2)–(4), Apr. 7, 1986, 100 Stat. 312; Pub. L. 100–647, title V, §5061(b)–(c)(2), Nov. 10, 1988, 102 Stat. 3679; Pub. L. 101–508, title XI, §11202(g), Nov. 5, 1990, 104 Stat. 1388–419; Pub. L. 105–33, title IX, §9302(g)(2)–(3)(B), (h)(4), Aug. 5, 1997, 111 Stat. 672, 674; Pub. L. 106–554, §1(a)(7) \[title III, §315(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–644; Pub. L. 111–3, title VII, §702(a)(4), (5), (d)(1), Feb. 4, 2009, 123 Stat. 108, 110; Pub. L. 112–141, div. F, title I, §100122(a), July 6, 2012, 126 Stat. 914.)
 
 #### Amendments
+
+<b>2012</b>—Subsec. (d). Pub. L. 112–141 inserted concluding provisions.
 
 <b>2009</b>—Subsec. (h). Pub. L. 111–3, §702(a)(5)(A), substituted “tobacco products or cigarette papers or tubes or any processed tobacco” for “tobacco products and cigarette papers and tubes”.
 
@@ -110,7 +114,7 @@ Subsec. (j). Pub. L. 111–3, §702(a)(5)(B), inserted “, or any processed to
 
 Subsec. (k). Pub. L. 111–3, §702(a)(5)(B), which directed insertion of “, or any processed tobacco,” after “tobacco products or cigarette papers or tubes”, was executed by making the insertion after “tobacco products or cigarette papers or tubes” both places it appeared to reflect the probable intent of Congress.
 
-Subsec. (<i>o</i>). Pub. L. 111–3, §702(d)(1), inserted “or cigars, or for use as wrappers thereof” before period.
+Subsec. (o). Pub. L. 111–3, §702(d)(1), inserted “or cigars, or for use as wrappers thereof” before period.
 
 Subsec. (p). Pub. L. 111–3, §702(a)(4), added subsec. (p).
 
@@ -120,9 +124,9 @@ Subsec. (g). Pub. L. 106–554, §1(a)(7) \[title III, §315(a)(2)(B)\], redesig
 
 Subsec. (h). Pub. L. 106–554, §1(a)(7) \[title III, §315(a)(2)(B)\], redesignated subsec. (i) as (h). Former subsec. (h) redesignated (g).
 
-Pub. L. 106–554, §1(a)(7) \[title III, §315(a)(2)(A)\], amended heading and text of subsec. (h) generally. Prior to amendment, text read as follows: “ ‘Manufacturer of cigarette papers and tubes’ means any personwho makes up cigarette paper into books or sets containing more than 25 papers each, or into tubes, except for his own personal use or consumption.”
+Pub. L. 106–554, §1(a)(7) \[title III, §315(a)(2)(A)\], amended heading and text of subsec. (h) generally. Prior to amendment, text read as follows: “ ‘Manufacturer of cigarette papers and tubes’ means any person who makes up cigarette paper into books or sets containing more than 25 papers each, or into tubes, except for his own personal use or consumption.”
 
-Subsecs. (i) to (p). Pub. L. 106–554, §1(a)(7) \[title III, §315(a)(2)(B)\], redesignated subsecs. (i) to (p) as (h) to (<i>o</i>), respectively.
+Subsecs. (i) to (p). Pub. L. 106–554, §1(a)(7) \[title III, §315(a)(2)(B)\], redesignated subsecs. (i) to (p) as (h) to (o), respectively.
 
 <b>1997</b>—Subsec. (c). Pub. L. 105–33, §9302(g)(3)(A), substituted “pipe tobacco, and roll-your-own tobacco” for “and pipe tobacco”.
 
@@ -134,13 +138,13 @@ Subsec. (k). Pub. L. 105–33, §9302(h)(4), inserted “under section 5704” a
 
 Subsec. (p). Pub. L. 105–33, §9302(g)(2), added subsec. (p).
 
-<b>1990</b>—Subsec. (m). Pub. L. 101–508 substituted heading for one which read: “Wholesale price” and amended text generally. Prior to amendment, text read as follows: “ ‘Wholesale price’ means the manufacturer's, or importer's, suggested delivered price at which the cigars are to be sold to retailers, inclusive of the tax imposed by this chapter or section 7652, but exclusive of any State or local taxes imposed on cigars as a commodity, and before any trade, cash, or other discounts, or any promotion, advertising, display, or similar allowances. Where the manufacturer's or importer's suggested delivered price to retailers is not adequately supported by bona fide arm's length sales, or where the manufacturer or importer has no suggested delivered price to retailers, the wholesale price shall be the price for which cigars of comparable retail price are sold to retailers in the ordinary course of trade as determined by the Secretary.”
+<b>1990</b>—Subsec. (m). Pub. L. 101–508 substituted heading for one which read: “Wholesale price” and amendedtext generally. Prior to amendment, text read as follows: “ ‘Wholesale price’ means the manufacturer's, or importer's, suggested delivered price at which the cigars are to be sold to retailers, inclusive of the tax imposed by this chapter or section 7652, but exclusive of any State or local taxes imposed on cigars as a commodity, and before any trade, cash, or other discounts, or any promotion, advertising, display, or similar allowances. Where the manufacturer's or importer's suggested delivered price to retailers is not adequately supported by bona fide arm's length sales, or where the manufacturer or importer has no suggested delivered price to retailers, the wholesale price shall be the price for which cigars of comparable retail price are sold to retailers in the ordinary course of trade as determined by the Secretary.”
 
 <b>1988</b>—Subsec. (c). Pub. L. 100–647, §5061(c)(1), inserted reference to pipe tobacco.
 
 Subsec. (d). Pub. L. 100–647, §5061(c)(2), inserted reference to pipe tobacco in introductory provisions and in par. (1).
 
-Subsec. (<i>o</i>). Pub. L. 100–647, §5061(b), added subsec. (<i>o</i>).
+Subsec. (o). Pub. L. 100–647, §5061(b), added subsec. (o).
 
 <b>1986</b>—Subsec. (c). Pub. L. 99–272, §13202(b)(2), inserted reference to smokeless tobacco.
 
@@ -162,11 +166,11 @@ Subsec. (d). Pub. L. 89–44, §502(b)(3)(A), (C), redesignated subsec. (e) as (
 
 Subsecs. (e) to (k). Pub. L. 89–44, §502(b)(3)(A) redesignated subsecs. (f) to (k) and (n) as (e) to (j) and (k), respectively. Former subsec. (e) redesignated (d).
 
-Subsec. (<i>l</i>). Pub. L. 89–44, §502(b)(3)(A), redesignated subsec. (<i>o</i>) as (<i>l</i>) and repealed former subsec. (<i>l</i>) which related to tobacco materials.
+Subsec. (l). Pub. L. 89–44, §502(b)(3)(A), redesignated subsec. (o) as (l) and repealed former subsec. (l) which related to tobacco materials.
 
 Subsec. (m). Pub. L. 89–44, §502(b)(3)(A), repealed subsec. (m) which related to tobacco dealers.
 
-Subsecs. (n), (<i>o</i>). Pub. L. 89–44, §502(b)(3)(A), redesignated subsec. (n) and (<i>o</i>) as (k) and (<i>l</i>), respectively.
+Subsecs. (n), (o). Pub. L. 89–44, §502(b)(3)(A), redesignated subsec. (n) and (o) as (k) and (l), respectively.
 
 <b>1958</b>—Subsec. (a). Pub. L. 85–859 inserted the term “for removal, or merely removed”.
 
@@ -182,21 +186,25 @@ Subsec. (i). Pub. L. 85–859 substituted “into books or sets containing more 
 
 Subsec. (j). Pub. L. 85–859 substituted provisions defining “export warehouse” for provisions which defined “article” as manufactured tobacco, cigars, cigarettes, and cigarette papers and tubes.
 
-Subsec. (k). Pub. L. 85–859 added subsec. (k) and redesignated former subsec. (k) as (<i>l</i>).
+Subsec. (k). Pub. L. 85–859 added subsec. (k) and redesignated former subsec. (k) as (l).
 
-Subsec. (<i>l</i>). Pub. L. 85–859 redesignated former subsec. (k) as (<i>l</i>) and substituted “other than manufactured tobacco, cigars, and cigarettes” for “in process, leaf tobacco, and tobacco scraps, cuttings, clippings, siftings, dust, stems, and waste”. Former subsec. (<i>l</i>) redesignated (m).
+Subsec. (l). Pub. L. 85–859 redesignated former subsec. (k) as (l) and substituted “other than manufactured tobacco, cigars, and cigarettes” for “in process, leaf tobacco, and tobacco scraps, cuttings, clippings, siftings, dust, stems, and waste”. Former subsec. (l) redesignated (m).
 
-Subsec. (m). Pub. L. 85–859 redesignated former subsec. (<i>l</i>) as (m) and included within the definition persons who receive tobacco materials, other than stems and waste, for use in the production of fertilizer, insecticide, or nicotine, required associations of farmers or growers of tobacco to maintain records of all leaf tobacco acquired or received and sold or otherwise disposed of, and excluded from the definition persons who buy leaf tobacco without taking physical possession of the tobacco and qualified manufacturers of tobacco products. Former subsec. (m) redesignated (n).
+Subsec. (m). Pub. L. 85–859 redesignated former subsec. (l) as (m) and included within the definition persons who receive tobacco materials, other than stems and waste, for use in the production of fertilizer, insecticide, or nicotine, required associations of farmers or growers of tobacco to maintain records of all leaf tobacco acquired or received and sold or otherwise disposed of, and excluded from the definition persons who buy leaf tobacco without taking physical possession of the tobacco and qualified manufacturers of tobacco products. Former subsec. (m) redesignated (n).
 
-Subsec. (n). Pub. L. 85–859 redesignated former subsec. (m) as (n) and substituted “tobacco products or cigarette papers or tubes” for “articles”. Former subsec. (n) redesignated (<i>o</i>).
+Subsec. (n). Pub. L. 85–859 redesignated former subsec. (m) as (n) and substituted “tobacco products or cigarette papers or tubes” for “articles”. Former subsec. (n) redesignated (o).
 
-Subsec. (<i>o</i>). Pub. L. 85–859 redesignated former subsec. (n) as (<i>o</i>) and substituted “tobacco products or cigarette papers or tubes” for “articles” in two places, and inserted provisions to include within the definition persons who remove cigars or cigarettes for sale or consumption in the United States from a customs bonded manufacturing warehouse.
+Subsec. (o). Pub. L. 85–859 redesignated former subsec. (n) as (o) and substituted “tobacco products or cigarette papers or tubes” for “articles” in two places, and inserted provisions to include within the definition persons who remove cigars or cigarettes for sale or consumption in the United States from a customs bonded manufacturing warehouse.
+
+#### Effective Date of 2012 Amendment
+
+Pub. L. 112–141, div. F, title I, §100122(b), July 6, 2012, 126 Stat. 915, provided that: “The amendment made by this section \[amending this section\] shall apply to articles removed after the date of the enactment of this Act \[July 6, 2012\].”
 
 #### Effective Date of 2009 Amendment
 
 Except as otherwise provided, amendment by Pub. L. 111–3 effective Apr. 1, 2009, see section 3 of Pub. L. 111–3, set out as an Effective Date note under section 1396 of Title 42, The Public Health and Welfare.
 
-Pub. L. 111–3, title VII, §702(a)(6), Feb. 4, 2009, 123 Stat. 109, provided that: “The amendments made by this subsection \[amending this section and sections5712, 5713, 5721, 5722, 5723, and 5741 of this title\] shall take effect on April 1, 2009.”
+Pub. L. 111–3, title VII, §702(a)(6), Feb. 4, 2009, 123 Stat. 109, provided that: “The amendments made by this subsection \[amending this section and sections 5712, 5713, 5721, 5722, 5723, and 5741 of this title\] shall take effect on April 1, 2009.”
 
 Pub. L. 111–3, title VII, §702(d)(2), Feb. 4, 2009, 123 Stat. 110, provided that: “The amendment made by this subsection \[amending this section\] shall apply to articles removed (as defined in section 5702(j) of the Internal Revenue Code of 1986) after March 31, 2009.”
 
@@ -228,7 +236,7 @@ Amendment by section 2128(b) of Pub. L. 94–455 effective on first month which 
 
 Amendment by section 502(b)(3) of Pub. L. 89–44 applicable on and after Jan. 1, 1966, see section 701(d) of Pub. L. 89–44, set out as a note under section 5701 of this title.
 
-Section 808(d)(1) of Pub. L. 89–44 provided that: “The amendments made by subsections (a) and (b)(3) \[amending this section and section 7652 of this title\] shall take effect on July 1, 1965.”
+Pub. L. 89–44, title VIII, §808(d)(1), June 21, 1965, 79 Stat. 165, provided that: “The amendments made by subsections (a) and (b)(3) \[amending this section and section 7652 of this title\] shall take effect on July 1, 1965.”
 
 #### Effective Date of 1958 Amendment
 

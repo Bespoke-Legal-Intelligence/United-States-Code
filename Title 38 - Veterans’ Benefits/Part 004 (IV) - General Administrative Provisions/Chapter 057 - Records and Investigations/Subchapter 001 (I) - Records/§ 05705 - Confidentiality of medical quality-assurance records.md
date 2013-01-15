@@ -14,7 +14,7 @@
 
 (2) The name of and other identifying information regarding any individual patient or employee of the Department, or any other individual associated with the Department for purposes of a medical quality-assurance program, contained in a record or document described in subsection (a) of this section shall be deleted from any record or document before any disclosure made under this subsection if disclosure of such name and identifying information would constitute a clearly unwarranted invasion of personal privacy.
 
-(3) No person or entity to whom a record or document has been disclosed under this subsection shall make further disclosure of such record or document except for a purpose provided in this subsection.
+(3) No person or entity to whom a record or document has been disclosed under this subsection shall make further disclosure of suchrecord or document except for a purpose provided in this subsection.
 
 (4) Nothing in this section shall be construed as authority to withhold any record or document from a committee of either House of Congress or any joint committee of Congress, if such record or document pertains to any matter within the jurisdiction of such committee or joint committee.
 
@@ -28,7 +28,7 @@
 
 &emsp;(2) with respect to any activity carried out on or after October 7, 1980, a Department systematic health-care review activity designated by the Secretary to be carried out by or for the Department for either such purpose.
 
-(d)(1) The Secretary shall prescribe regulations to carry out this section. In prescribing such regulations, the Secretary shall specify those activities carried out before October 7, 1980, which the Secretary determines meet the definition of medical quality-assurance programin subsection (c)(1) of this section and those activities which the Secretary has designated under subsection (c)(2) of this section. The Secretary shall, to the extent appropriate, incorporate into such regulations the provisions of the administrative guidelines and procedures governing such programs in existence on October 7, 1980.
+(d)(1) The Secretary shall prescribe regulations to carry out this section. In prescribing such regulations, the Secretary shall specify those activities carried out before October 7, 1980, which the Secretary determines meet the definition of medical quality-assurance program in subsection (c)(1) of this section and those activities which the Secretary has designated under subsection (c)(2) of this section. The Secretary shall, to the extent appropriate, incorporate into such regulations the provisions of the administrative guidelines and procedures governing such programs in existence on October 7, 1980.
 
 (2) An activity may not be considered as having been designated as a medical quality-assurance program for the purposes of subsection (c)(2) of this section unless the designation has been specified in such regulations.
 

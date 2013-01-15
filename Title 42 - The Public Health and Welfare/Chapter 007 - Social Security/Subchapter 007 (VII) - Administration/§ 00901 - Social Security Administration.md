@@ -18,7 +18,7 @@ Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pu
 
 #### Transfers to New Social Security Administration
 
-Section 105 of title I of Pub. L. 103–296 provided that:
+Pub. L. 103–296, title I, §105, Aug. 15, 1994, 108 Stat. 1472, provided that:
 
 “(a)
 
@@ -38,7 +38,7 @@ In general.—Subject to subparagraph (B), the Social Security Administration sh
 
 &emsp;&emsp;&emsp;“(i) the functions of the Department of Health and Human Services, including functions relating to titles XVIII and XIX of the Social Security Act \[subchapters XVIII and IX of this chapter\] (including adjudications, subject to final decisions by the Secretary of Health and Human Services), that the Social Security Administration in such Department performed as of immediately before the date of the enactment of this Act \[Aug. 15, 1994\], and
 
-&emsp;&emsp;&emsp;“(ii) the functions of any other agency for which administrative responsibility was vested inthe Social Security Administration in the Department of Health and Human Services as of immediately before the date of the enactment of this Act.
+&emsp;&emsp;&emsp;“(ii) the functions of any other agency for which administrative responsibility was vested in the Social Security Administration in the Department of Health and Human Services as of immediately before the date of the enactment of this Act.
 
 &emsp;&emsp;“(B)
 
@@ -82,7 +82,7 @@ Special rules.—
 
 &emsp;“(4)
 
-Office space.—Notwithstanding section 7 of the Public Buildings Act of 1959 (40 U.S.C. 606) \[now 40 U.S.C. 3305(b)(2)(B), 3307\], and subject to available appropriations, the Administrator of General Services may, after consultation with the Commissioner of Social Security and under such terms and conditions as the Administrator finds to be in the interests of the United States—
+Office space.—Notwithstanding section 7 of the Public Buildings Act of 1959 (40 U.S.C. 606) \[now40 U.S.C. 3305(b)(2)(B), 3307\], and subject to available appropriations, the Administrator of General Services may, after consultation with the Commissioner of Social Security and under such terms and conditions as the Administrator finds to be in the interests of the United States—
 
 &emsp;&emsp;“(A) acquire occupiable space in the metropolitan area of Washington, District of Columbia, for housing the Social Security Administration, and
 
@@ -96,7 +96,7 @@ Inter-Agency Transfer Arrangement.—The Secretary of Health and Human Services 
 
 #### Transition Rules
 
-Section 106 of title I of Pub. L. 103–296 provided that:
+Pub. L. 103–296, title I, §106, Aug. 15, 1994, 108 Stat. 1474, provided that:
 
 “(a)
 
@@ -120,7 +120,7 @@ Compensation for initial officers and board members before effective date of new
 
 &emsp;“(5)
 
-Interim role of current commissioner after effective date of new agency.—In the event that, as of March 31, 1995, an individual appointed to serve as the initial Commissioner of Social Security has not taken office, until such initial Commissioner has taken office, the officer serving on March 31, 1995, asCommissioner of Social Security (or Acting Commissioner of Social Security, if applicable) in the Department of Health and Human Services shall, while continuing to serve as such Commissioner of Social Security (or Acting Commissioner of Social Security), serve as Commissioner of Social Security (or Acting Commissioner of Social Security, respectively) in the Social Security Administration established under such section 701 and shall assume the powers and duties under such Act \[this chapter\] (as amended by this Act) of the Commissioner of Social Security in the Social Security Administration as so established under such section 701. In the event that, as of March 31, 1995, the President has not nominated an individual for appointment to the office of Commissioner of Social Security in the Social Security Administration established under such section 701, then the individual serving as Commissioner of Social Security (or Acting Commissioner of Social Security, if applicable) in the Department of Health and Human Services shall become the Acting Commissioner of Social Security in the Social Security Administration as so established under such section 701.
+Interim role of current commissioner after effective date of new agency.—In the event that, as of March 31, 1995, an individual appointed to serve as the initial Commissioner of Social Security has not taken office, until such initial Commissioner has taken office, the officer serving on March 31, 1995, as Commissioner of Social Security (or Acting Commissioner of Social Security, if applicable) in the Department of Health and Human Services shall, while continuing to serve as such Commissioner of Social Security (or Acting Commissioner of Social Security), serve as Commissioner of Social Security (or Acting Commissioner of Social Security, respectively) in the Social Security Administration established under such section 701 and shall assume the powers and duties under such Act \[this chapter\] (as amended by this Act) of the Commissioner of Social Security in the Social Security Administration as so established under such section 701. In the event that, as of March 31, 1995, the President has not nominated an individual for appointment to the office of Commissioner of Social Security in the Social Security Administration established under such section 701, then the individual serving as Commissioner of Social Security (or Acting Commissioner of Social Security, if applicable) in the Department of Health and Human Services shall become the Acting Commissioner of Social Security in the Social Security Administration as so established under such section 701.
 
 &emsp;“(6)
 
@@ -172,11 +172,11 @@ Exercise of Functions.—In the exercise of the functions vested in the Commissi
 
 #### Rules of Construction
 
-Section 109 of title I of Pub. L. 103–296 provided that:
+Pub. L. 103–296, title I, §109, Aug. 15, 1994, 108 Stat. 1489, provided that:
 
 “(a)
 
-References to the Department of Health and Human Services.—Whenever any reference is made inany provision of law (other than this title \[see Tables for classification\] or a provision of law amended by this title), regulation, rule, record, or document to the Department of Health and Human Services with respect to such Department's functions under the old-age, survivors, and disability insurance program under title II of the Social Security Act \[subchapter II of this chapter\] or the supplemental security income program under title XVI of such Act \[subchapter XVI of this chapter\] or other functions performed by the Social Security Administration pursuant to section 105(a)(2) of this Act \[set out above\], such reference shall be considered a reference to the Social Security Administration.
+References to the Department of Health and Human Services.—Whenever any reference is made in any provision of law (other than this title \[see Tables for classification\] or a provision of law amended by this title), regulation, rule, record, or document to the Department of Health and Human Services with respect to such Department's functions under the old-age, survivors, and disability insurance program under title II of the Social Security Act \[subchapter II of this chapter\] or the supplemental security income program under title XVI of such Act \[subchapter XVI of this chapter\] or other functions performed by the Social Security Administration pursuant to section 105(a)(2) of this Act \[set out above\], such reference shall be considered a reference to the Social Security Administration.
 
 “(b)
 

@@ -76,7 +76,7 @@ Section was enacted as part of the Omnibus Budget Reconciliation Act of 1990, an
 
 #### Medicare Enrollment Assistance
 
-Pub. L. 110–275, title I, §119, July 15, 2008, 122 Stat. 2508, as amended by Pub. L. 111–148, title III, §3306, Mar. 23, 2010, 124 Stat. 470, provided that:
+Pub. L. 110–275, title I, §119, July 15, 2008, 122 Stat. 2508, as amended by Pub. L. 111–148, title III, §3306, Mar. 23, 2010, 124 Stat. 470; Pub. L. 112–240, title VI, §610, Jan. 2, 2013, 126 Stat. 2351, provided that:
 
 “(a)
 
@@ -94,9 +94,11 @@ In general.—The Secretary of Health and Human Services (in this section referr
 
 Funding.—For purposes of making grants under this subsection, the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1817 of the Social Security Act (42 U.S.C. 1395i) and the Federal Supplementary Medical Insurance Trust Fund under section 1841 of such Act (42 U.S.C. 1395t), in the same proportion as the Secretary determines under section 1853(f) of such Act (42 U.S.C. 1395w–23(f)), to the Centers for Medicare \& Medicaid Services Program Management Account—
 
-&emsp;&emsp;&emsp;“(i) for fiscal year 2009, of $7,500,000; and
+&emsp;&emsp;&emsp;“(i) for fiscal year 2009, of $7,500,000;
 
-&emsp;&emsp;&emsp;“(ii) for the period of fiscal years 2010 through 2012, of $15,000,000.
+&emsp;&emsp;&emsp;“(ii) for the period of fiscal years 2010 through 2012, of $15,000,000; and
+
+&emsp;&emsp;&emsp;“(iii) for fiscal year 2013, of $7,500,000.
 
 &nbsp;&nbsp;Amounts appropriated under this subparagraph shall remain available until expended.
 
@@ -136,15 +138,17 @@ In general.—The Secretary, acting through the Assistant Secretary for Aging, s
 
 Funding.—For purposes of making grants under this subsection, the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1817 of the Social Security Act (42 U.S.C. 1395i) and the Federal Supplementary Medical Insurance Trust Fund under section 1841 of such Act (42 U.S.C. 1395t), in the same proportion as the Secretary determines under section 1853(f) of such Act (42 U.S.C. 1395w–23(f)), to the Administration on Aging—
 
-&emsp;&emsp;&emsp;“(i) for fiscal year 2009, of $7,500,000; and
+&emsp;&emsp;&emsp;“(i) for fiscal year 2009, of $7,500,000;
 
-&emsp;&emsp;&emsp;“(ii) for the period of fiscal years 2010 through 2012, of $15,000,000.
+&emsp;&emsp;&emsp;“(ii) for the period of fiscal years 2010 through 2012, of $15,000,000; and
+
+&emsp;&emsp;&emsp;“(iii) for fiscal year 2013, of $7,500,000.
 
 &nbsp;&nbsp;Amounts appropriated under this subparagraph shall remain available until expended.
 
 &emsp;“(2)
 
-Amount of grant and allocation to states based on percentage of low-income and rural beneficiaries.—The amount of a grant to a State under this subsection from the total amount made available under paragraph (1) shall be determined in the same manner as the amount of a grant to a State under subsection (a), from the total amount made available under paragraph (1) of such subsection, is determined under paragraph (2) and subparagraphs (A) and (B) of paragraph (3) of such subsection.
+Amount of grant and allocation to states based on percentage of low-income and rural beneficiaries.—The amount of a grant to a State under this subsection from the total amount made available under paragraph (1) shall be determined in the same manner as the amount of a grant to a Stateunder subsection (a), from the total amount made available under paragraph (1) of such subsection, is determined under paragraph (2) and subparagraphs (A) and (B) of paragraph (3) of such subsection.
 
 &emsp;“(3)
 
@@ -174,9 +178,11 @@ In general.—The Secretary shall make grants to Aging and Disability Resource C
 
 Funding.—For purposes of making grants under this subsection, the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1817 of the Social Security Act (42 U.S.C. 1395i) and the Federal Supplementary Medical Insurance Trust Fund under section 1841 of such Act (42 U.S.C. 1395t), in the same proportion as the Secretary determines under section 1853(f) of such Act (42 U.S.C. 1395w–23(f)), to the Administration on Aging—
 
-&emsp;&emsp;&emsp;“(i) for fiscal year 2009, of $5,000,000; and
+&emsp;&emsp;&emsp;“(i) for fiscal year 2009, of $5,000,000;
 
-&emsp;&emsp;&emsp;“(ii) for the period of fiscal years 2010 through 2012, of $10,000,000.
+&emsp;&emsp;&emsp;“(ii) for the period of fiscal years 2010 through 2012, of $10,000,000; and
+
+&emsp;&emsp;&emsp;“(iii) for fiscal year 2013, of $5,000,000.
 
 &nbsp;&nbsp;Amounts appropriated under this subparagraph shall remain available until expended.
 
@@ -204,9 +210,11 @@ In general.—The Secretary, acting through the Assistant Secretary for Aging, i
 
 Funding.—For purposes of making a grant or entering into a contract under paragraph (1), the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1817 of the Social Security Act (42 U.S.C. 1395i) and the Federal Supplementary Medical Insurance Trust Fund under section 1841 of such Act (42 U.S.C. 1395t), in the same proportion as the Secretary determines under section 1853(f) of such Act (42 U.S.C. 1395w–23(f)), to the Administration on Aging—
 
-&emsp;&emsp;“(i) for fiscal year 2009, of $5,000,000; and
+&emsp;&emsp;“(i) for fiscal year 2009, of $5,000,000;
 
-&emsp;&emsp;“(ii) for the period of fiscal years 2010 through 2012, of $5,000,000.
+&emsp;&emsp;“(ii) for the period of fiscal years 2010 through 2012, of $5,000,000; and
+
+&emsp;&emsp;“(iii) for fiscal year 2013, of $5,000,000.
 
 > &emsp;Amounts appropriated under this subparagraph shall remain available until expended.
 

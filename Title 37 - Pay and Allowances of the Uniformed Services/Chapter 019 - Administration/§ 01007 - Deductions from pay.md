@@ -1,6 +1,6 @@
 ### §1007. Deductions from pay
 
-(a) The pay of an officer of an armed force may be withheld, under section 5512 of title 5, only for an indebtedness to the United States admitted by the officer or shown by the judgment of a court, or upon a special order issued in the discretion of the Secretary of Defense (or the Secretary of Homeland Security, in the case of anofficer of the Coast Guard when the Coast Guard is not operating as a service in the Navy), or upon the denial of relief of an officer pursuant to section 3527 of title 31.
+(a) The pay of an officer of an armed force may be withheld, under section 5512 of title 5, only for an indebtedness to the United States admitted by the officer or shown by the judgment of a court, or upon a special order issued in the discretion of the Secretary of Defense (or the Secretary of Homeland Security, in the case of an officer of the Coast Guard when the Coast Guard is not operating as a service in the Navy), or upon the denial of relief of an officer pursuant to section 3527 of title 31.
 
 (b) An amount due to the United States from an enlisted member of the Army or the Air Force for articles sold to him on credit under section 4621(a)(1) or 9621(a)(1) of title 10, as the case may be, shall be deducted from the next pay due him after the sale is reported.
 
@@ -44,7 +44,7 @@
 
 (2) Amounts deducted under paragraph (1) shall be deposited in the Armed Forces Retirement Home Trust Fund.
 
-(3) The Secretary of Defense or, in the case of the Coast Guard, the Commandant, after consultation with the Armed Forces Retirement Home Board, shall determine from time to time the amount to be deducted under paragraph (1)from the pay of enlisted members, warrant officers, and limited duty officers on the basis of the financial needs of the Armed Forces Retirement Home. The amount to be deducted may be fixed at different amounts on the basis of grade or length of service, or both.
+(3) The Secretary of Defense or, in the case of the Coast Guard, the Commandant, after consultation with the Armed Forces Retirement Home Board, shall determine from time to time the amount to be deducted under paragraph (1) from the pay of enlisted members, warrant officers, and limited duty officers on the basis of the financial needs of the Armed Forces Retirement Home. The amount to be deducted may be fixed at different amounts on the basis of grade or length of service, or both.
 
 (4) This subsection does not apply to an enlisted member, warrant officer, or limited duty officer of a reserve component.
 
@@ -220,7 +220,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 #### Effective Date of 1994 Amendment
 
-Section 371(d)(1) of Pub. L. 103–337 provided that: “(1) The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 1995, and apply to years that begin on or after that date.”
+Pub. L. 103–337, div. A, title III, §371(d)(1), Oct. 5, 1994, 108 Stat. 2735, provided that: “(1) The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 1995, and apply to years that begin on or after that date.”
 
 #### Effective Date of 1990 Amendment
 
@@ -228,7 +228,7 @@ Amendment by Pub. L. 101–510 effective one year after Nov. 5, 1990, see sectio
 
 #### Effective Date of 1989 Amendment
 
-Section 343(b) of Pub. L. 101–189 provided that:
+Pub. L. 101–189, div. A, title III, §343(b), Nov. 29, 1989, 103 Stat. 1421, provided that:
 
 “(1) Except as provided in paragraph (2), subsection (i) of section 1007 of title 37, United States Code, as added by subsection (a), shall take effect on the first day of the first month beginning after the date of the enactment of this Act \[Nov. 29, 1989\].
 
@@ -236,7 +236,7 @@ Section 343(b) of Pub. L. 101–189 provided that:
 
 #### Effective Date of 1987 Amendment
 
-Section 633(b) of Pub. L. 100–180 provided that: “Subsection (h) of section 1007 of title 37, United States Code (as added by subsection (a)), shall apply with respect to debts incurred by members of the uniformed services after the date of the enactment of this Act \[Dec. 4, 1987\].”
+Pub. L. 100–180, div. A, title VI, §633(b), Dec. 4, 1987, 101 Stat. 1106, provided that: “Subsection (h) of section 1007 of title 37, United States Code (as added by subsection (a)), shall apply with respect to debts incurred by members of the uniformed services after the date of the enactment of this Act \[Dec. 4, 1987\].”
 
 #### Transfer of Functions
 

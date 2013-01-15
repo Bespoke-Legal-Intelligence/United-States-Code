@@ -48,7 +48,7 @@ The activities conducted and assistance provided as required by subsection (a)(1
 
 #### (1) In general
 
-&emsp;Any food service management institute established as authorized by subsection (a)(2) of this section shall carry out activities to improve the general operation and quality of—
+&emsp;Any food service management institute established as authorized by subsection (a)(2) ofthis section shall carry out activities to improve the general operation and quality of—
 
 &emsp;&emsp;(A) food service programs assisted under this chapter;
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of Health and Human Services, acting through the Director of the Centers forDisease Control and Prevention and in consultation with the Commissioner of Food and Drugs, shall improve (including by educating physicians and other health care providers) the collection of, and publish as it becomes available, national data on—
+The Secretary of Health and Human Services, acting through the Director of the Centers for Disease Control and Prevention and in consultation with the Commissioner of Food and Drugs, shall improve (including by educating physicians and other health care providers) the collection of, and publish as it becomes available, national data on—
 
 &emsp;(1) the prevalence of food allergies;
 
@@ -18,5 +18,5 @@ For the purpose of carrying out this section, there are authorized to be appropr
 
 #### Codification
 
-Section was enacted as part of the Food Allergen Labeling and Consumer Protection Act of 2004, and not as part of the Public Health Service Act which comprises this chapter.
+Section was enacted as part of the Food Allergen Labeling and Consumer Protection Act of 2004, and not aspart of the Public Health Service Act which comprises this chapter.
 

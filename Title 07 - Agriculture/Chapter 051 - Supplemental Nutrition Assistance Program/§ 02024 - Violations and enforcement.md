@@ -6,7 +6,7 @@ Notwithstanding any other provision of this chapter, the Secretary may provide f
 
 #### (b) Unauthorized use, transfer, acquisition, alteration, or possession of benefits
 
-(1) Subject to the provisions of paragraph (2) of this subsection, whoever knowingly uses, transfers, acquires, alters, or possesses benefits in any manner contrary to this chapter or the regulations issued pursuant to this chapter shall, if such benefits are of a value of $5,000 or more, be guilty of a felony and shall be fined not more than $250,000 or imprisoned for not more than twenty years, or both, and shall, if such benefits are of a value of $100 or more, but less than $5,000, or if the item used, transferred, acquired, altered, or possessed is an <sup>1</sup> benefit that has a value of $100 or more, but less than $5,000, be guilty of a felony and shall, upon the first conviction thereof, be fined not more than $10,000 or imprisoned for not more than five years, or both, and, upon the second and any subsequent conviction thereof, shall be imprisoned for not less than six months nor more than five years and may also be fined not more than $10,000 or, if such benefits are of a value of less than $100, or if the item used, transferred, acquired, altered, or processed is an <sup>1</sup> benefit that has a value of less than $100, shall be guilty of a misdemeanor, and, upon the first conviction thereof, shall be fined not more than $1,000 or imprisoned for not more than one year, or both, and upon the second and any subsequent conviction thereof, shall be imprisoned for not more than one year and may also be fined not more than $1,000. In addition to such penalties, any person convicted of a felony or misdemeanor violation under this subsection may be suspended by the court from participation in the supplemental nutrition assistance program for an additional period of up to eighteen monthsconsecutive to that period of suspension mandated by section 2015(b)(1) of this title.
+(1) Subject to the provisions of paragraph (2) of this subsection, whoever knowingly uses, transfers, acquires, alters, or possesses benefits in any manner contrary to this chapter or the regulations issued pursuant to this chapter shall, if such benefits are of a value of $5,000 or more, be guilty of a felony and shall be fined not more than $250,000 or imprisoned for not more than twenty years, or both, and shall, if such benefits are of a value of $100 or more, but less than $5,000, or if the item used, transferred, acquired, altered, or possessed is an <sup>1</sup> benefit that has a value of $100 or more, but less than $5,000, be guilty of a felony and shall, upon the first conviction thereof, be fined not more than $10,000 or imprisoned for not more than five years, or both, and, upon the second and any subsequent conviction thereof, shall be imprisoned for not less than six months nor more than five years and may also be fined not more than $10,000 or, if such benefits are of a value of less than $100, or if the item used, transferred, acquired, altered, or processed is an <sup>1</sup> benefit that has a value of less than $100, shall be guilty of a misdemeanor, and, upon the first conviction thereof, shall be fined not more than $1,000 or imprisoned for not more than one year, or both, and upon the second and any subsequent conviction thereof, shall be imprisoned for not more than one year and may also be fined not more than $1,000. In addition to such penalties, any person convicted of a felony or misdemeanor violation under this subsection may be suspended by the court from participation in the supplemental nutrition assistance program for an additional period of up to eighteen months consecutive to that period of suspension mandated by section 2015(b)(1) of this title.
 
 (2) In the case of any individual convicted of an offense under paragraph (1) of this subsection, the court may permit such individual to perform work approved by the court for the purpose of providing restitution for losses incurred by the United States and the State agency as a result of the offense for which such individual was convicted. If the court permits such individual to perform such work and such individual agrees thereto, the court shall withhold the imposition of the sentence on the condition that such individual perform the assigned work. Upon the successful completion of the assigned work the court may suspend such sentence.
 
@@ -26,7 +26,7 @@ The Secretary may subject to forfeiture and denial of property rights any nonfoo
 
 #### (1) In general
 
-&emsp;In imposing a sentence on a person convicted of an offense in violation of subsection (b) or (c) of this section, a court shall order, in addition to any other sentence imposed under this section, that the person forfeit to the United States all property described in paragraph (2).
+&emsp;In imposing a sentence on a person convicted of an offense in violation of subsection\(b) or (c) of this section, a court shall order, in addition to any other sentence imposed under this section, that the person forfeit to the United States all property described in paragraph (2).
 
 #### (2) Property subject to forfeiture
 
@@ -58,7 +58,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–246, §4115(b)(10)(A), substituted “benefits” for “coupons”.
 
-Subsec. (b)(1). Pub. L. 110–246, §4115(b)(10)(B), substituted “possesses benefits” for “possesses coupons,authorization cards, or access devices”, “such benefits are of a value of $5,000” for “such coupons, authorization cards, or access devices are of a value of $5,000”, “such benefits are of a value of $100” for “such coupons or authorization cards are of a value of $100”, and “such benefits are of a value of less than $100” for “such coupons or authorization cards are of a value of less than $100”, and substituted “benefit” for “access device” in two places.
+Subsec. (b)(1). Pub. L. 110–246, §4115(b)(10)(B), substituted “possesses benefits” for “possesses coupons, authorization cards, or access devices”, “such benefits are of a value of $5,000” for “such coupons, authorization cards, or access devices are of a value of $5,000”, “such benefits are of a value of $100” for “such coupons or authorization cards are of a value of $100”, and “such benefits are of a value of less than $100” for “such coupons or authorization cards are of a value of less than $100”, and substituted “benefit” for “access device” in two places.
 
 Pub. L. 110–246, §4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
 
@@ -112,7 +112,7 @@ Amendment by Pub. L. 97–98 effective upon such date as Secretary of Agricultur
 
 #### Effective Date of 1977 Amendment
 
-Section 1301 of Pub. L. 95–113 provided that the amendment made by that section is effective Oct. 1, 1977.
+Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 958, provided that the amendment made by section 1301 is effective Oct. 1, 1977.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “a”.</i>
 

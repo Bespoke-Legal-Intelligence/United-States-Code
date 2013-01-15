@@ -4,7 +4,7 @@
 
 #### (1) 1-year carryback and 20-year carryforward
 
-&emsp;If the sum of the business credit carryforwards to the taxable year plus the amount of the current year business credit for the taxable year exceeds the amount of the limitation imposed by subsection (c) of section 38 for such taxable year (hereinafter in this section referred to as the “unused credit year”), such excess (to the extent attributable to the amount of the current year business credit) shall be—
+&emsp;If the sum of the business credit carryforwards to the taxable year plus the amountof the current year business credit for the taxable year exceeds the amount of the limitation imposed by subsection (c) of section 38 for such taxable year (hereinafter in this section referred to as the “unused credit year”), such excess (to the extent attributable to the amount of the current year business credit) shall be—
 
 &emsp;&emsp;(A) a business credit carryback to the taxable year preceding the unused credit year, and
 
@@ -70,7 +70,7 @@ The amount of the unused credit which may be taken into account under section 38
 
 No portion of the unused business credit for any taxable year which is attributable to a credit specified in section 38(b) or any portion thereof may be carried back to any taxable year before the first taxable year for which such specified credit or such portion is allowable (without regard to subsection (a)).
 
-(Added Pub. L. 98–369, div. A, title IV, §473, July 18, 1984, 98 Stat. 828; amended Pub. L. 99–514,title II, §231(d)(3)(C)(i), title XVIII, §1846, Oct. 22, 1986, 100 Stat. 2179, 2856; Pub. L. 100–647, title I, §1002(<i>l</i>)(26), Nov. 10, 1988, 102 Stat. 3381; Pub. L. 101–508, title XI, §§11511(b)(2), 11611(b)(2), 11801(a)(2), Nov. 5, 1990, 104 Stat. 1388–485, 1388–503, 1388–520; Pub. L. 102–486, title XIX, §1914(c), Oct. 24, 1992, 106 Stat. 3023; Pub. L. 103–66, title XIII, §§13302(a)(2), 13322(d), 13443(b)(2), Aug. 10, 1993, 107 Stat. 555, 563, 569; Pub. L. 104–188, title I, §§1205(c), 1703(n)(1), Aug. 20, 1996, 110 Stat. 1775, 1877; Pub. L. 105–34, title VII, §701(b)(1), title X, §1083(a), Aug. 5, 1997, 111 Stat. 869, 951; Pub. L. 105–206, title VI, §6010(n), July 22, 1998, 112 Stat. 816; Pub. L. 106–554, §1(a)(7) \[title I, §121(b)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–610; Pub. L. 107–16, title VI, §619(c)(1), June 7, 2001, 115 Stat. 110; Pub. L. 108–357, title II, §245(b)(1), title III, §341(c), Oct. 22, 2004, 118 Stat. 1447, 1487; Pub. L. 109–135, title IV, §412(g), Dec. 21, 2005, 119 Stat. 2637; Pub. L. 111–240, title II, §2012(a), (b), Sept. 27, 2010, 124 Stat. 2554.)
+(Added Pub. L. 98–369, div. A, title IV, §473, July 18, 1984, 98 Stat. 828; amended Pub. L. 99–514, title II, §231(d)(3)(C)(i), title XVIII, §1846, Oct. 22, 1986, 100 Stat. 2179, 2856; Pub. L. 100–647, title I, §1002(l)(26), Nov. 10, 1988, 102 Stat. 3381; Pub. L. 101–508, title XI, §§11511(b)(2), 11611(b)(2), 11801(a)(2), Nov. 5, 1990, 104 Stat. 1388–485, 1388–503, 1388–520; Pub. L. 102–486, title XIX, §1914(c), Oct. 24, 1992, 106 Stat. 3023; Pub. L. 103–66, title XIII, §§13302(a)(2), 13322(d), 13443(b)(2), Aug. 10, 1993, 107 Stat. 555, 563, 569; Pub. L. 104–188, title I, §§1205(c), 1703(n)(1), Aug. 20, 1996, 110 Stat. 1775, 1877; Pub. L. 105–34, title VII, §701(b)(1), title X, §1083(a), Aug. 5, 1997, 111 Stat. 869, 951; Pub. L. 105–206, title VI, §6010(n), July 22, 1998, 112 Stat. 816; Pub. L. 106–554, §1(a)(7) \[title I, §121(b)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–610; Pub. L. 107–16, title VI, §619(c)(1), June 7, 2001, 115 Stat. 110; Pub. L. 108–357, title II, §245(b)(1), title III, §341(c), Oct. 22, 2004, 118 Stat. 1447, 1487; Pub. L. 109–135, title IV, §412(g), Dec. 21, 2005, 119 Stat. 2637; Pub. L. 111–240, title II, §2012(a), (b), Sept. 27, 2010, 124 Stat. 2554.)
 
 #### Prior Provisions
 
@@ -146,7 +146,7 @@ Amendment by section 341(c) of Pub. L. 108–357 applicable to production in tax
 
 #### Effective Date of 2001 Amendment
 
-Amendment by Pub. L. 107–16 applicable to costs paid or incurred in taxable years beginning after Dec. 31, 2001, with respect to qualified employer plans first effective after such date, see section 619(d) of Pub. L. 107–16, as amended, set out as an Effective and Termination Dates of 2001 Amendment note under section 38 of this title.
+Amendment by Pub. L. 107–16 applicable to costs paid or incurred in taxable years beginning after Dec. 31, 2001, with respect to qualified employer plans first effective after such date, see section 619(d) of Pub. L. 107–16, set out as a note under section 38 of this title.
 
 #### Effective Date of 2000 Amendment
 
@@ -158,15 +158,15 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1997 Amendment
 
-Section 701(d) of Pub. L. 105–34 provided that: “Except as provided in subsection (c) \[amending table of subchapters for this chapter\], the amendments made bythis section \[enacting subchapter W of this chapter and amending this section and section 1016 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title VII, §701(d), Aug. 5, 1997, 111 Stat. 869, provided that: “Except as provided in subsection (c) \[amending table of subchapters for this chapter\], the amendments made by this section \[enacting subchapter W of this chapter and amending this section and section 1016 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 5, 1997\].”
 
-Section 1083(b) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section\] shall apply to credits arising in taxable years beginning after December 31, 1997.”
+Pub. L. 105–34, title X, §1083(b), Aug. 5, 1997, 111 Stat. 951, provided that: “The amendments made by this section \[amending this section\] shall apply to credits arising in taxable years beginning after December 31, 1997.”
 
 #### Effective Date of 1996 Amendment
 
 Amendment by section 1205(c) of Pub. L. 104–188 applicable to amounts paid or incurred in taxable years ending after June 30, 1996, see section 1205(e) of Pub. L. 104–188, set out as a note under section 45K of this title.
 
-Section 1703(<i>o</i>) of Pub. L. 104–188 provided that: “Any amendment made by this section \[amending this section and sections 40, 59, 108, 117, 135, 143, 163, 904, 956A, 958, 1017, 1044, 1201, 1245, 1297, 1394, 1397B, 1561, 4001, 6033, 6427, 6501, 6655, and 9502 of this title, renumbering section 6714 of this title as section 6715, and amending provisions set out as notes under sections 38, 42, 197, and 1258 of this title and section 401 of Title 42, The Public Health and Welfare\] shall take effect as if included in the provision of the Revenue Reconciliation Act of 1993 \[Pub. L. 103–66, title XIII, ch. I, §§13001–13444\] to which such amendment relates.”
+Pub. L. 104–188, title I, §1703(o), Aug. 20, 1996, 110 Stat. 1878, provided that: “Any amendment made by this section \[amending this section and sections 40, 59, 108, 117, 135, 143, 163, 904, 956A, 958, 1017, 1044, 1201, 1245, 1297, 1394, 1397B, 1561, 4001, 6033, 6427, 6501, 6655, and 9502 of this title, renumbering section 6714 of this title as section 6715, and amending provisions set out as notes under sections 38, 42, 197, and 1258 of this title and section 401 of Title 42, The Public Health and Welfare\] shall take effect as if included in the provision of the Revenue Reconciliation Act of 1993 \[Pub. L. 103–66, title XIII, ch. I, §§13001–13444\] to which such amendment relates.”
 
 #### Effective Date of 1993 Amendment
 

@@ -14,7 +14,7 @@ An application submitted under this section shall contain a specification by the
 
 #### (d) Linkages
 
-An application submitted under this section shall contain a description of the linkages withrelevant educational and health care entities, including training programs for other health professionals as appropriate, that the project to be funded under the grant or contract will establish. To the extent practicable, grantees under this section shall establish linkages with health care providers who provide care for underserved communities and populations.
+An application submitted under this section shall contain a description of the linkages with relevant educational and health care entities, including training programs for other health professionals as appropriate, that the project to be funded under the grant or contract will establish. To the extent practicable, grantees under this section shall establish linkages with health care providers who provide care for underserved communities and populations.
 
 (July 1, 1944, ch. 373, title VII, §796, as added Pub. L. 105–392, title I, §106(a)(2)(F), Nov. 13, 1998, 112 Stat. 3557.)
 

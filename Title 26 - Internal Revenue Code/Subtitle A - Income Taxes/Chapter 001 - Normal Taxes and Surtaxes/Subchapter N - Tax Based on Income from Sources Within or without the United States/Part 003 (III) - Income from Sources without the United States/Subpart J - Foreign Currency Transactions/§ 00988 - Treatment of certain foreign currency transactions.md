@@ -158,7 +158,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) at all times during the taxable year (and during each preceding taxable year to which an election under subclause (V) applied), such partnership has at least 20 partners and no single partner owns more than 20 percent of the interests in the capital or profits of the partnership,
 
-&emsp;&emsp;&emsp;&emsp;(II) the principal activity of such partnership for such taxable year (and each such preceding taxable year) consists of buying and selling options, futures, or forwards with respect to commodities,
+&emsp;&emsp;&emsp;&emsp;(II) the principal activity of such partnership for such taxable year (and each such preceding taxable year) consists ofbuying and selling options, futures, or forwards with respect to commodities,
 
 &emsp;&emsp;&emsp;&emsp;(III) at least 90 percent of the gross income of the partnership for the taxable year (and for each such preceding taxable year) consisted of income or gains described in subparagraph (A), (B), or (G) of section 7704(d)(1) or gain from the sale or disposition of capital assets held for the production of interest or dividends,
 
@@ -166,7 +166,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(V) an election under this subclause applies to the taxable year.
 
-&emsp;&emsp;&nbsp;An election under subclause (V) for any taxable year shall be made on or before the1st day of such taxable year (or, if later, on or before the 1st day during such year on which the partnership holds an instrument referred to in clause (i)). Any such election shall apply to the taxable year for which made and all succeeding taxable years unless revoked with the consent of the Secretary.
+&emsp;&emsp;&nbsp;An election under subclause (V) for any taxable year shall be made on or before the 1st day of such taxable year (or, if later, on or before the 1st day during such year on which the partnership holds an instrument referred to in clause (i)). Any such election shall apply to the taxable year for which made and all succeeding taxable years unless revoked with the consent of the Secretary.
 
 #### (iv) Treatment of certain currency contracts
 
@@ -234,13 +234,13 @@ For purposes of this section—
 
 #### (5) Special rules where taxpayer takes or makes delivery
 
-&emsp;If the taxpayer takes or makes delivery in connection with any section 988 transaction described in paragraph (1)(B)(iii), any gain or loss (determined as if the taxpayer sold the contract, option, or instrument on the date on which he took or made delivery for its fair market value on such date) shall be recognized in the same manner as if such contract, option, or instrument were so sold.
+&emsp;If the taxpayer takes or makes delivery in connection with any section 988 transactiondescribed in paragraph (1)(B)(iii), any gain or loss (determined as if the taxpayer sold the contract, option, or instrument on the date on which he took or made delivery for its fair market value on such date) shall be recognized in the same manner as if such contract, option, or instrument were so sold.
 
 #### (d) Treatment of 988 hedging transactions
 
 #### (1) In general
 
-&emsp;To the extent provided in regulations, if any section 988 transaction is part of a 988 hedging transaction, all transactions which are part of such 988 hedging transaction shall be integrated and treated as a single transaction or otherwise treated consistently for purposes of this subtitle. For purposes of the preceding sentence, the determination of whether any transaction is a section 988 transaction shallbe determined without regard to whether such transaction would otherwise be marked-to-market under section 475 or 1256 and such term shall not include any transaction with respect to which an election is made under subsection (a)(1)(B). Sections 475, 1092, and 1256 shall not apply to a transaction covered by this subsection.
+&emsp;To the extent provided in regulations, if any section 988 transaction is part of a 988 hedging transaction, all transactions which are part of such 988 hedging transaction shall be integrated and treated as a single transaction or otherwise treated consistently for purposes of this subtitle. For purposes of the preceding sentence, the determination of whether any transaction is a section 988 transaction shall be determined without regard to whether such transaction would otherwise be marked-to-market under section 475 or 1256 and such term shall not include any transaction with respect to which an election is made under subsection (a)(1)(B). Sections 475, 1092, and 1256 shall not apply to a transaction covered by this subsection.
 
 #### (2) 988 hedging transaction
 
@@ -322,11 +322,11 @@ Amendment by Pub. L. 106–170 applicable to any instrument held, acquired, or e
 
 #### Effective Date of 1997 Amendment
 
-Section 1104(b) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1997.”
+Pub. L. 105–34, title XI, §1104(b), Aug. 5, 1997, 111 Stat. 967, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1997.”
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–66 applicable to all taxable years ending on or after Dec. 31, 1993, with specialrules for taxpayers required to change accounting methods and for floor specialists and market makers, see section 13223(c) of Pub. L. 103–66, set out as an Effective Date note under section 475 of this title.
+Amendment by Pub. L. 103–66 applicable to all taxable years ending on or after Dec. 31, 1993, with special rules for taxpayers required to change accounting methods and for floor specialists and market makers, see section 13223(c) of Pub. L. 103–66, set out as an Effective Date note under section 475 of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -334,11 +334,11 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1988 Amendment
 
-Section 1012(v)(2)(B) of Pub. L. 100–647 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall not apply in any case in which the taxpayer takes or makes delivery before June 11, 1987.”
+Pub. L. 100–647, title I, §1012(v)(2)(B), Nov. 10, 1988, 102 Stat. 3529, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall not apply in any case in which the taxpayer takes or makes delivery before June 11, 1987.”
 
 Amendment by section 1012(v)(3), (4), (6)–(8) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Section 6130(d) of Pub. L. 100–647 provided that:
+Pub. L. 100–647, title VI, §6130(d), Nov. 10, 1988, 102 Stat. 3719, provided that:
 
 “(1)
 

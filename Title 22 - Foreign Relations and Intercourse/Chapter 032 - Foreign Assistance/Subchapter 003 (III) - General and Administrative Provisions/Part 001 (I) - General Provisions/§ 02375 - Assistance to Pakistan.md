@@ -56,7 +56,7 @@ This chapter, referred to in subsec. (e), was in the original “this Act”, me
 
 #### Codification
 
-Amendment by Pub. L. 102–145 is based on section 572(a) of H.R. 2621, One Hundred Second Congress, 1stSession, as passed by the House of Representatives on June 19, 1991, which was enacted into law by Pub. L. 102–145, §118, as added by Pub. L. 102–266, §102, Apr. 1, 1992, 106 Stat. 93. Section 118 of Pub. L. 102–145 provided that the authority and conditions provided in such section 572 shall be applicable to funds appropriated by Pub. L. 102–145 (and are hereby enacted) in lieu of the authority and conditions provided in section 574 of Pub. L. 101–513. See 1990, 1991, and 1992 Amendment notes below.
+Amendment by Pub. L. 102–145 is based on section 572(a) of H.R. 2621, One Hundred Second Congress, 1st Session, as passed by the House of Representatives on June 19, 1991, which was enacted into law by Pub. L. 102–145, §118, as added by Pub. L. 102–266, §102, Apr. 1, 1992, 106 Stat. 93. Section 118 of Pub. L. 102–145 provided that the authority and conditions provided in such section 572 shall be applicable to funds appropriated by Pub. L. 102–145 (and are hereby enacted) in lieu of the authority and conditions provided in section 574 of Pub. L. 101–513. See 1990, 1991, and 1992 Amendment notes below.
 
 #### Amendments
 
@@ -136,7 +136,7 @@ Congressional Findings.—Congress finds the following:
 
 &emsp;&emsp;&emsp;“(i) the continued operation of the Taliban's Quetta shura, as noted by then-North Atlantic Treaty Organization Supreme Allied Commander General James Jones in testimony before the Senate Foreign Relations Committee on September 21, 2006; and
 
-&emsp;&emsp;&emsp;“(ii) the continued operation of al Qaeda affiliates Lashkar-e Taiba and Jaish-e Muhammad, sometimes under different names, as demonstrated by the lack of meaningful action taken against Hafiz Muhammad Saeed, Maulana Masood Azhar, and other known leaders and members of such terrorist organizations; and
+&emsp;&emsp;&emsp;“(ii) the continued operation of al Qaeda affiliates Lashkar-e Taiba and Jaish-e Muhammad, sometimes under different names, as demonstrated by the lack of meaningful action taken against Hafiz Muhammad Saeed, Maulana MasoodAzhar, and other known leaders and members of such terrorist organizations; and
 
 &emsp;&emsp;“(D) increased commitment on the part of the Government of the United States in regard to working with all elements of Pakistan \[sic\] society in helping to achieve the correlative goals described in subparagraphs (A) through (H) of paragraph (4).
 

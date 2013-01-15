@@ -10,7 +10,7 @@
 
 &emsp;(B) the physical location of and relationship among agency staff units, and other individuals or organizations performing tasks for the State agency, and standards for the availability to applicants and beneficiaries of facilities for making disability determinations,
 
-&emsp;(C) State agency performance criteria, including the rate of accuracy of decisions, the time periods within which determinations must be made, the procedures for and the scope of review by the Commissioner of Social Security, and, as the Commissioner finds appropriate, by the State, of its performance in individual cases and in classes of cases, and rules governing access of appropriate Federal officials to State offices and to State records relating to its administration of the disability determination function,
+&emsp;(C) State agency performance criteria, including the rate of accuracy of decisions, thetime periods within which determinations must be made, the procedures for and the scope of review by the Commissioner of Social Security, and, as the Commissioner finds appropriate, by the State, of its performance in individual cases and in classes of cases, and rules governing access of appropriate Federal officials to State offices and to State records relating to its administration of the disability determination function,
 
 &emsp;(D) fiscal control procedures that the State agency may be required to adopt, and
 
@@ -26,7 +26,7 @@
 
 (3)(A) The Commissioner of Social Security shall develop and initiate all appropriate procedures to implement a plan with respect to any partial or complete assumption by the Commissioner of Social Security of the disability determination function from a State agency, as provided in this section, under which employees of the affected State agency who are capable of performing duties in the disability determination process for the Commissioner of Social Security shall, notwithstanding any other provision of law, have a preference over any other individual in filling an appropriate employment position with the Commissioner of Social Security (subject to any system established by the Commissioner of Social Security for determining hiring priority among such employees of the State agency) unless any such employee is the administrator, the deputy administrator, or assistant administrator (or his equivalent) of the State agency, in which case the Commissioner of Social Security may accord such priority to such employee.
 
-(B) The Commissioner of Social Security shall not make such assumption of the disability determination function until such time as the Secretary of Labor determines that, with respect to employees of such State agency who will be displaced from their employment on account ofsuch assumption by the Commissioner of Social Security and who will not be hired by the Commissioner of Social Security to perform duties in the disability determination process, the State has made fair and equitable arrangements to protect the interests of employees so displaced. Such protective arrangements shall include only those provisions which are provided under all applicable Federal, State and local statutes including, but not limited to, (i) the preservation of rights, privileges, and benefits (including continuation of pension rights and benefits) under existing collective-bargaining agreements; (ii) the continuation of collective-bargaining rights; (iii) the assignment of affected employees to other jobs or to retraining programs; (iv) the protection of individual employees against a worsening of their positions with respect to their employment; (v) the protection of health benefits and other fringe benefits; and (vi) the provision of severance pay, as may be necessary.
+(B) The Commissioner of Social Security shall not make such assumption of the disability determination function until such time as the Secretary of Labor determines that, with respect to employees of such State agency who will be displaced from their employment on account of such assumption by the Commissioner of Social Security and who will not be hired by the Commissioner of Social Security to perform duties in the disability determination process, the State has made fair and equitable arrangements to protect the interests of employees so displaced. Such protective arrangements shall include only those provisions which are provided under all applicable Federal, State and local statutes including, but not limited to, (i) the preservation of rights, privileges, and benefits (including continuation of pension rights and benefits) under existing collective-bargaining agreements; (ii) the continuation of collective-bargaining rights; (iii) the assignment of affected employees to other jobs or to retraining programs; (iv) the protection of individual employees against a worsening of their positions with respect to their employment; (v) the protection of health benefits and other fringe benefits; and (vi) the provision of severance pay, as may be necessary.
 
 #### (c) Review of determination by Commissioner
 
@@ -94,7 +94,7 @@ The Commissioner of Social Security shall prescribe regulations which set forth,
 
 (2) Regulations promulgated under paragraph (1) shall be subject to the rulemaking procedures established under section 553 of title 5.
 
-#### (<i>l</i>) Special notice to blind individuals with respect to hearings and other official actions
+#### (l) Special notice to blind individuals with respect to hearings and other official actions
 
 (1) In any case where an individual who is applying for or receiving benefits under this subchapter on the basis of disability by reason of blindness is entitled to receive notice from the Commissioner of Social Security of any decision or determination made or other action taken or proposed to be taken with respect to his or her rights under this subchapter, such individual shall at his or her election be entitled either (A) to receive a supplementary notice of such decision, determination, or action, by telephone, within 5 working days after the initial notice is mailed, (B) to receive the initial notice in the form of a certified letter, or (C) to receive notification by some alternative procedure established by the Commissioner of Social Security and agreed to by the individual.
 
@@ -116,7 +116,7 @@ The Commissioner of Social Security shall prescribe regulations which set forth,
 
 &emsp;(B) termination of benefits under this subchapter in the event that the individual has earnings that exceed the level of earnings established by the Commissioner to represent substantial gainful activity.
 
-(Aug. 14, 1935, ch. 531, title II, §221, as added Sept. 1, 1954, ch. 1206, title I, §106(g), 68 Stat. 1081; amended Aug. 1, 1956, ch. 836, title I, §103(c)(7), (8), (h), 70 Stat. 818, 823; Pub. L. 90–248, title I, §158(c)(3), (4), Jan. 2, 1968, 81 Stat. 869; Pub. L. 96–265, title III, §§304(a)–(f), 311(a), June 9, 1980, 94 Stat. 453–456, 460; Pub. L. 97–455, §§3(a), 6, Jan. 12, 1983, 96 Stat. 2499, 2500; Pub. L. 98–369, div. B, title VI, §2663(a)(14), July 18, 1984, 98 Stat. 1164; Pub. L. 98–460, §§6(a), 8(a), 9(a)(1), 10(a), 17(a), Oct. 9, 1984, 98 Stat. 1802, 1804, 1805, 1811; Pub. L. 99–514, title XVIII, §1883(a)(9), Oct. 22, 1986, 100 Stat. 2916; Pub. L. 100–647, title VIII, §8012(a), Nov. 10, 1988, 102 Stat. 3789; Pub. L. 101–239, title X, §10306(a)(1), Dec. 19, 1989, 103 Stat. 2484; Pub. L. 101–508, title V, §5128(a), Nov. 5, 1990, 104 Stat. 1388–286; Pub. L. 103–296, title I, §107(a)(4), Aug. 15, 1994, 108 Stat. 1478; Pub. L. 106–170, title I, §§101(b)(1)(A), 111(a), Dec. 17, 1999, 113 Stat. 1873, 1881; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(Aug. 14, 1935, ch. 531, title II, §221, as added Sept. 1, 1954, ch. 1206, title I, §106(g), 68 Stat. 1081; amended Aug. 1, 1956, ch. 836, title I, §103(c)(7), (8), (h), 70 Stat. 818, 823; Pub. L. 90–248,title I, §158(c)(3), (4), Jan. 2, 1968, 81 Stat. 869; Pub. L. 96–265, title III, §§304(a)–(f), 311(a), June 9, 1980, 94 Stat. 453–456, 460; Pub. L. 97–455, §§3(a), 6, Jan. 12, 1983, 96 Stat. 2499, 2500; Pub. L. 98–369, div. B, title VI, §2663(a)(14), July 18, 1984, 98 Stat. 1164; Pub. L. 98–460, §§6(a), 8(a), 9(a)(1), 10(a), 17(a), Oct. 9, 1984, 98 Stat. 1802, 1804, 1805, 1811; Pub. L. 99–514, title XVIII, §1883(a)(9), Oct. 22, 1986, 100 Stat. 2916; Pub. L. 100–647, title VIII, §8012(a), Nov. 10, 1988, 102 Stat. 3789; Pub. L. 101–239, title X, §10306(a)(1), Dec. 19, 1989, 103 Stat. 2484; Pub. L. 101–508, title V, §5128(a), Nov. 5, 1990, 104 Stat. 1388–286; Pub. L. 103–296, title I, §107(a)(4), Aug. 15, 1994, 108 Stat. 1478; Pub. L. 106–170, title I, §§101(b)(1)(A), 111(a), Dec. 17, 1999, 113 Stat. 1873, 1881; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### Prior Provisions
 
@@ -140,7 +140,7 @@ Subsec. (m). Pub. L. 106–170, §111(a), added subsec. (m).
 
 &emsp;“(C) at least 65 percent of all such determinations made by State agencies in any fiscal year after the fiscal year 1982.”
 
-<b>1989</b>—Subsec. (<i>l</i>). Pub. L. 101–239 added subsec. (<i>l</i>).
+<b>1989</b>—Subsec. (l). Pub. L. 101–239 added subsec. (l).
 
 <b>1988</b>—Subsec. (i)(3). Pub. L. 100–647 substituted “semiannually” for “annually”.
 
@@ -150,7 +150,7 @@ Subsec. (m). Pub. L. 106–170, §111(a), added subsec. (m).
 
 Subsec. (b)(1). Pub. L. 98–460, §17(a)(1), (b), temporarily amended par. (1) generally. Prior to amendment, par. (1) read as follows: “If the Secretary finds, after notice and opportunity for a hearing, that a State agency is substantially failing to make disability determinations in a manner consistent with his regulations and other written guidelines, the Secretary shall, not earlier than 180 days following his finding, and after he has complied with the requirements of paragraph (3), make the disability determinations referred to in subsection (a)(1) of this section.” See Effective and Termination Dates of 1984 Amendments note below.
 
-Subsec. (b)(3). Pub. L. 98–460, §17(a)(3), (b), temporarily substituted “Except as provided in subparagraph\(D)(i) of paragraph (1), the Secretary” for “The Secretary” in subpars. (A) and (B). See Effective and Termination Dates of 1984 Amendments note below.
+Subsec. (b)(3). Pub. L. 98–460, §17(a)(3), (b), temporarily substituted “Except as provided in subparagraph (D)(i) of paragraph (1), the Secretary” for “The Secretary” in subpars. (A) and (B). See Effective and Termination Dates of 1984 Amendments note below.
 
 Subsec. (d). Pub. L. 98–460, §17(a)(4), (b), temporarily substituted “Except as provided in subsection (b)(1)(D) of this section, any individual” for “Any individual”. See Effective and Termination Dates of 1984 Amendments note below.
 
@@ -204,45 +204,45 @@ Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pu
 
 #### Effective Date of 1990 Amendment
 
-Section 5128(b) of Pub. L. 101–508 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to determinations made by State agencies in fiscal years after fiscal year 1990.”
+Pub. L. 101–508, title V, §5128(b), Nov. 5, 1990, 104 Stat. 1388–287, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to determinations made by State agencies in fiscal years after fiscal year 1990.”
 
 #### Effective Date of 1989 Amendment
 
-Section 10306(a)(3) of Pub. L. 101–239 provided that: “The amendment made by this section \[amending this section\] shall apply with respect to notices issued on or after July 1, 1990.”
+Pub. L. 101–239, title X, §10306(a)(3), Dec. 19, 1989, 103 Stat. 2484, provided that: “The amendment made by this section \[amending this section\] shall apply with respect to notices issued on or after July 1, 1990.”
 
 #### Effective Date of 1988 Amendment
 
-Section 8012(b) of Pub. L. 100–647 provided that: “The amendment made by this section \[amending this section\] shall apply to reports required to be submitted after the date of the enactment of this Act \[Nov. 10, 1988\].”
+Pub. L. 100–647, title VIII, §8012(b), Nov. 10, 1988, 102 Stat. 3789, provided that: “The amendment made by this section \[amending this section\] shall apply to reports required to be submitted after the date of the enactment of this Act \[Nov. 10, 1988\].”
 
-#### Effective and Termination Dates of 1984 Amendments
+#### Effective and Termination Dates of 1984 Amendment
 
-Section 8(c) of Pub. L. 98–460 provided that: “The amendments made by this section \[amending this section and section 1382c of this title\] shall apply to determinations made after 60 days after the date of the enactment of this Act \[Oct. 9, 1984\].”
+Pub. L. 98–460, §8(c), Oct. 9, 1984, 98 Stat. 1804, provided that: “The amendments made by this section \[amending this section and section 1382c of this title\] shall apply to determinations made after 60 days after the date of the enactment of this Act \[Oct. 9, 1984\].”
 
-Section 17(b) of Pub. L. 98–460 provided that: “The amendments made by subsection (a) of this section \[amending this section\] shall become effective on the date of the enactment of this Act \[Oct. 9, 1984\] and shall expire on December 31, 1987. The provisions of the Social Security Act amended by subsection (a) of this section (as such provisions were in effect immediately before the date of the enactment of this Act) shall be effective after December 31, 1987.”
+Pub. L. 98–460, §17(b), Oct. 9, 1984, 98 Stat. 1812, provided that: “The amendments made by subsection (a) of this section \[amending this section\] shall become effective on the date of the enactment of this Act \[Oct. 9, 1984\] and shall expire on December 31, 1987. The provisions of the Social Security Act amended by subsection (a) of this section (as such provisions were in effect immediately before the date of the enactment of this Act) shall be effective after December 31, 1987.”
 
 Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
 
 #### Effective Date of 1983 Amendment
 
-Section 3(b) of Pub. L. 97–455 provided that: “The amendments made by subsection (a) \[amending this section\] shall become effective on the date of the enactment of this Act \[Jan. 12, 1983\].”
+Pub. L. 97–455, §3(b), Jan. 12, 1983, 96 Stat. 2499, provided that: “The amendments made by subsection (a) \[amending this section\] shall become effective on the date of the enactment of this Act \[Jan. 12, 1983\].”
 
 #### Effective Date of 1980 Amendment
 
-Section 304(h) of Pub. L. 96–265 provided that: “The amendments made by subsections (a), (b), (d), (e), and (f) \[amending this section\] shall be effective beginning with the twelfth month following the month in which this Act is enacted \[June 1980\]. Any State that, on the effective date of the amendments made by this section, has in effect an agreement with the Secretary of Health and Human Services under section 221(a) of the Social Security Act \[subsec. (a) of this section\] (as in effect prior to such amendments) will be deemed to have given to the Secretary the notice specified in section 221(a)(1) of such Act as amended by this section, in lieu of continuing such agreement in effect after the effective date of such amendments. Thereafter, a State may notify the Secretary in writing that it no longer wishes to make disability determinations, effective not less than 180 days after the notification is given.”
+Pub. L. 96–265, title III, §304(h), June 9, 1980, 94 Stat. 456, provided that: “The amendments made by subsections (a), (b), (d), (e), and (f) \[amending this section\] shall be effective beginning with the twelfth month following the month in which this Act is enacted \[June 1980\]. Any State that, on the effective date of the amendments made by this section, has in effect an agreement with the Secretary of Health and Human Services under section 221(a) of the Social Security Act \[subsec. (a) of this section\] (as in effect prior to such amendments) will be deemed to have given to the Secretary the notice specified in section 221(a)(1) of such Act as amended by this section, in lieu of continuing such agreement in effect after the effective date of such amendments. Thereafter, a State may notify the Secretary in writing that it no longer wishes to make disability determinations, effective not less than 180 days after the notification is given.”
 
-Section 311(b) of Pub. L. 96–265 provided that: “The amendment made by subsection (a) \[amending this section\] shall become effective on January 1, 1982.”
+Pub. L. 96–265, title III, §311(b), June 9, 1980, 94 Stat. 460, provided that: “The amendment made by subsection (a) \[amending this section\] shall become effective on January 1, 1982.”
 
 #### Effective Date of 1968 Amendment
 
 Amendment by Pub. L. 90–248 applicable with respect to application for disability insurance benefits under section 423 of this title and to disability determinations under section 416(i) of this title, see section 158(e) of Pub. L. 90–248, set out as a note under section 423 of this title.
 
-#### Election Under Subsection (<i>l</i>)(1) by Current Recipients
+#### Election Under Subsection (l)(1) by Current Recipients
 
-Section 10306(a)(2) of Pub. L. 101–239 provided that: “Not later than July 1, 1990, the Secretary of Health and Human Services shall provide every individual receiving benefits under title II of the Social Security Act \[this subchapter\] on the basis of disability by reason of blindness an opportunity to make an election under section 221(<i>l</i>)(1) of such Act \[subsec. (<i>l</i>)(1) of this section\] (as added by paragraph (1)).”
+Pub. L. 101–239, title X, §10306(a)(2), Dec. 19, 1989, 103 Stat. 2484, provided that: “Not later than July 1, 1990, the Secretary of Health and Human Services shall provide every individual receiving benefits under title II of the Social Security Act \[this subchapter\] on the basis of disability by reason of blindness an opportunity to make an election under section 221(l)(1) of such Act \[subsec. (l)(1) of this section\] (as added by paragraph (1)).”
 
 #### Moratorium on Mental Impairment Reviews
 
-Section 5 of Pub. L. 98–460 provided that:
+Pub. L. 98–460, §5, Oct. 9, 1984, 98 Stat. 1801, provided that:
 
 “(a) The Secretary of Health and Human Services (hereafter in this section referred to as the ‘Secretary’) shall revise the criteria embodied under the category ‘Mental Disorders’ in the ‘Listing of Impairments’ in effect on the date of the enactment of this Act \[Oct. 9, 1984\] under appendix 1 to subpart P of part 404 of title 20 of the Code of Federal Regulations. The revised criteria and listings, alone and in combination with assessments of the residual functional capacity of the individuals involved, shall be designed to realistically evaluate the ability of a mentally impaired individual to engage in substantial gainful activity in a competitive workplace environment. Regulations establishing such revised criteria and listings shall be published no later than 120 days after the date of the enactment of this Act.
 
@@ -254,7 +254,7 @@ Section 5 of Pub. L. 98–460 provided that:
 
 > For purposes of this paragraph and subsection (c)(1) the term ‘continuing eligibility review’, when used to refer to a review of a previous determination of disability, includes any reconsideration of or hearing on the initial decision rendered in such review as well as such initial decision itself, and any review by the Appeals Council of the hearing decision.
 
-“(2) Paragraph (1) shall not apply in any case where the Secretary determines that fraud was involved in the prior determination, or where an individual (other than an individual eligible to receive benefits under section 1619 of the Social Security Act \[section 1382h of this title\]) is determined by the Secretary to be engaged in substantial gainful activity (or gainful activity, in the case of a widow, surviving divorced wife, widower, or surviving divorced husband for purposes of section 202(e) and (f) of such Act \[section 402(e), (f) of this title\]).
+“(2) Paragraph (1) shall not apply in any case where the Secretary determines that fraud was involved inthe prior determination, or where an individual (other than an individual eligible to receive benefits under section 1619 of the Social Security Act \[section 1382h of this title\]) is determined by the Secretary to be engaged in substantial gainful activity (or gainful activity, in the case of a widow, surviving divorced wife, widower, or surviving divorced husband for purposes of section 202(e) and (f) of such Act \[section 402(e), (f) of this title\]).
 
 “(c)(1) Any initial determination that an individual is not under a disability by reason of a mental impairment and any determination that an individual is not under a disability by reason of a mental impairment in a reconsideration of or hearing on an initial disability determination, made or held under title II or XVI of the Social Security Act \[this subchapter or subchapter XVI of this chapter\] after the date of the enactment of this Act \[Oct. 9, 1984\] and prior to the date on which revised criteria are established by regulation in accordance with subsection (a), and any determination that an individual is not under a disability by reason of a mental impairment made under or in accordance with title II or XVI of such Act in a reconsideration of, hearing on, review by the Appeals Council of, or judicial review of a decision rendered in any continuing eligibility review to which subsection (b)(1) applies, shall be redetermined by the Secretary as soon as feasible after the date on which such criteria are so established, applying such revised criteria.
 
@@ -264,7 +264,7 @@ Section 5 of Pub. L. 98–460 provided that:
 
 #### Institution of Notification System
 
-Section 6(c) of Pub. L. 98–460 provided that: “The Secretary shall institute a system of notification required by the amendments made by subsections (a) and (b) \[amending this section and section 1383b of this title\] as soon as is practicable after the date of the enactment of this Act \[Oct. 9, 1984\].”
+Pub. L. 98–460, §6(c), Oct. 9, 1984, 98 Stat. 1802, provided that: “The Secretary shall institute a system of notification required by the amendments made by subsections (a) and (b) \[amending this section and section 1383b of this title\] as soon as is practicable after the date of the enactment of this Act \[Oct. 9, 1984\].”
 
 #### Demonstration Projects; Opportunity for Personal Appearance Prior to Disability Determinations; Report to Congressional Committees
 
@@ -272,11 +272,11 @@ Pub. L. 98–460, §6(d), (e), Oct. 9, 1984, 98 Stat. 1802, 1803, required the S
 
 #### Promulgation of Regulations
 
-Section 9(a)(2) of Pub. L. 98–460 provided that: “The Secretary of Health and Human Services shall prescribe regulations required under section 221(j) of the Social Security Act \[subsec. (j) of this section\] not later than 180 days after the date of the enactment of this Act \[Oct. 9, 1984\].”
+Pub. L. 98–460, §9(a)(2), Oct. 9, 1984, 98 Stat. 1805, provided that: “The Secretary of Health and Human Services shall prescribe regulations required under section 221(j) of the Social Security Act \[subsec. (j) of this section\] not later than 180 days after the date of the enactment of this Act \[Oct. 9, 1984\].”
 
 #### Frequency of Continuing Eligibility Reviews
 
-Section 15 of Pub. L. 98–460 provided that: “The Secretary of Health and Human Services shall promulgate final regulations, within 180 days after the date of the enactment of this Act \[Oct. 9, 1984\], which establish the standards to be used by the Secretary in determining the frequency of reviews under section 221(i) of the Social Security Act \[subsec. (j) of this section\]. Until such regulations have been issued as final regulations, no individual may be reviewed more than once under section 221(i) of the Social Security Act.”
+Pub. L. 98–460, §15, Oct. 9, 1984, 98 Stat. 1808, provided that: “The Secretary of Health and Human Services shall promulgate final regulations, within 180 days after the date of the enactment of this Act \[Oct. 9, 1984\], which establish the standards to be used by the Secretary in determining the frequency of reviews under section 221(i) of the Social Security Act \[subsec. (j) of this section\]. Until such regulations have been issued as final regulations, no individual may be reviewed more than once under section 221(i) of the Social Security Act.”
 
 #### Travel Expenses for Medical Examinations, Reconsideration Interviews, and Proceedings Before Administrative Law Judges
 
@@ -328,9 +328,9 @@ Aug. 1, 1955, ch. 437, title II, 69 Stat. 408.
 
 #### Review of Decisions Rendered by Administrative Law Judges as Result of Disability Hearings; Report to Congress
 
-Section 304(g) of Pub. L. 96–265 provided that: “The Secretary of Health and Human Services shall implement a program of reviewing, on his own motion, decisions rendered by administrative law judges as a result of hearings under section 221(d) of the Social Security Act \[subsec. (d) of this section\], and shall report to the Congress by January 1, 1982, on his progress.”
+Pub. L. 96–265, title III, §304(g), June 9, 1980, 94 Stat. 456, provided that: “The Secretary of Health and Human Services shall implement a program of reviewing, on his own motion, decisions rendered by administrative law judges as a result of hearings under section 221(d) of the Social Security Act \[subsec. (d) of this section\], and shall report to the Congress by January 1, 1982, on his progress.”
 
 #### Assumption by Secretary of Functions and Operations of State Disability Determination Units
 
-Section 304(i) of Pub. L. 96–265 directed Secretary of Health and Human Services to submit to Congress by July 1, 1980, a detailed plan on how he intended to assume functions and operations of a State disability determination unit when this became necessary under amendments made by this section \[amending this section\], and how he intended to meet requirements of section 221(b)(3) of Social Security Act \[subsec. (b)(3) of this section\]. Such plan was to assume the uninterrupted operation of disability determination function and utilization of best qualified personnel to carry out such function, and was to include recommendations for any amendment of Federal law or regulation required to carry out such plan.
+Pub. L. 96–265, title III, §304(i), June 9, 1980, 94 Stat. 457, directed Secretary of Health and Human Services to submit to Congress by July 1, 1980, a detailed plan on how he intended to assume functions and operations of a State disability determination unit when this became necessary under amendments made by this section \[amending this section\], and how he intended to meet requirements of section 221(b)(3) of Social Security Act \[subsec. (b)(3) of this section\]. Such plan was to assume the uninterrupted operation of disability determination function and utilization of best qualified personnel to carry out such function, and was to include recommendations for any amendment of Federal law or regulation required to carry out such plan.
 

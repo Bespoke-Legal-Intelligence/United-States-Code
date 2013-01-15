@@ -10,7 +10,7 @@ For purposes of this subtitle, any insured depository institution, or a qualifie
 
 &emsp;&emsp;(B) controls any community development corporation, or maintains any community development unit within the institution, which meets the requirements of subsection (c) of this section;
 
-&emsp;&emsp;(C) invests in accounts in any community development credit union designated as a low-income credit union, subject to restrictions established for such credit unions bythe National Credit Union Administration Board; or
+&emsp;&emsp;(C) invests in accounts in any community development credit union designated as a low-income credit union, subject to restrictions established for such credit unions by the National Credit Union Administration Board; or
 
 &emsp;&emsp;(D) invests in a community development organization jointly controlled by two or more institutions;
 

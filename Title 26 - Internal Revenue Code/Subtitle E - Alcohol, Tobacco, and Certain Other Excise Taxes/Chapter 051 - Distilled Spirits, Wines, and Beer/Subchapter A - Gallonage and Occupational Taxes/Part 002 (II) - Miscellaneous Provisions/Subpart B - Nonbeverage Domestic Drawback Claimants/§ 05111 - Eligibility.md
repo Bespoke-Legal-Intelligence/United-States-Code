@@ -1,6 +1,6 @@
 ### §5111. Eligibility
 
-Any person using distilled spirits on which the tax has been determined, in the manufacture or production of medicines, medicinal preparations, food products, flavors, flavoring extracts, or perfume, which are unfit for beverage purposes shall be eligible for drawback at the time when such distilled spirits are used in the manufacture of such products as provided for in this subpart.
+Any person using distilled spirits on which the tax has been determined, in the manufacture or production of medicines, medicinal preparations, food products, flavors, flavoring extracts, or perfume, which are unfit for beverage purposes shall be eligible for drawback at the timewhen such distilled spirits are used in the manufacture of such products as provided for in this subpart.
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1345, §5131; amended Pub. L. 94–455, title XIX, §1905(a)(11), Oct. 4, 1976, 90 Stat. 1819; Pub. L. 100–203, title X, §10512(d), Dec. 22, 1987, 101 Stat. 1330–448; Pub. L. 103–465, title I, §136(b), Dec. 8, 1994, 108 Stat. 4841; renumbered §5111 and amended Pub. L. 109–59, title XI, §11125(a)(2), (b)(3)(A), (C), Aug. 10, 2005, 119 Stat. 1953, 1954.)
 

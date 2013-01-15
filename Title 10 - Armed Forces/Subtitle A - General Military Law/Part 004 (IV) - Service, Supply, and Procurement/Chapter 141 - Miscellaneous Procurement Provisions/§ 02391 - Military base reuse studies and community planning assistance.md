@@ -56,7 +56,7 @@ Research and Technical Assistance.—The Secretary of Defense may make grants to
 
 Definitions.—In this section:
 
-&emsp;(1) The terms “military installation” and “realignment” have the meanings given those terms in section 2687(e) of this title. For purposes of subsection (b)(1)(D), the term “military installation” includes a military facility owned and operated by any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, or the Virgin Islands, even though the facility is not under the jurisdiction of the Department of Defense, if the Secretary of Defense determines that the military facility is subject to significant use for training by the armed forces.
+&emsp;(1) The terms “military installation” and “realignment” have the meanings given those terms in section 2687 of this title. For purposes of subsection (b)(1)(D), the term “military installation” includes a military facility owned and operated by any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, or the Virgin Islands, even though the facility is not under the jurisdiction of the Department of Defense, if the Secretary of Defense determines that the military facility is subject to significant use for training by the armed forces.
 
 &emsp;(2) The term “defense facility” means any private facility producing goods or services pursuant to a defense contract.
 
@@ -66,7 +66,7 @@ Definitions.—In this section:
 
 Assistance Subject to Appropriations.—The authority of the Secretary of Defense to make grants under this section in any fiscal year is subject to the availability of appropriations for that purpose.
 
-(Added Pub. L. 97–86, title IX, §912(a)(1), Dec. 1, 1981, 95 Stat. 1122; amended Pub. L. 98–115, title VIII, §808, Oct. 11, 1983, 97 Stat. 789; Pub. L. 100–26, §7(k)(3), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–456, div. B, title XXVIII, §2805, Sept. 29, 1988, 102 Stat. 2116; Pub. L. 101–510, div. D, title XLI, §4102(b), Nov. 5, 1990, 104 Stat. 1851; Pub. L. 102–25, title VII, §701(j)(3), Apr. 6, 1991, 105 Stat. 116; Pub. L. 102–484, div. A, title X, §1052(28), div. D, title XLIII, §4301(a)–(c), Oct. 23, 1992, 106 Stat. 2500, 2696, 2697; Pub. L. 103–35, title II, §202(a)(15), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. B, title XXIX, §2913, Nov. 30, 1993, 107 Stat. 1925; Pub. L. 103–337, div. A, title XI, §§1122(a), 1123(a), (b), Oct. 5, 1994, 108 Stat. 2870, 2871; Pub. L.104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 104–201, div. B, title XXVIII, §2814, Sept. 23, 1996, 110 Stat. 2790; Pub. L. 105–85, div. B, title XXVIII, §2822, Nov. 18, 1997, 111 Stat. 1997; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–314, div. A, title X, §1041(a)(13), Dec. 2, 2002, 116 Stat. 2645; Pub. L. 109–163, div. B, title XXVIII, §2832, Jan. 6, 2006, 119 Stat. 3520; Pub. L. 109–364, div. B, title XXVIII, §§2861, 2862, Oct. 17, 2006, 120 Stat. 2498; Pub. L. 110–417, div. B, title XXVIII, §2823(b), Oct. 14, 2008, 122 Stat. 4730.)
+(Added Pub. L. 97–86, title IX, §912(a)(1), Dec. 1, 1981, 95 Stat. 1122; amended Pub. L. 98–115, title VIII, §808, Oct. 11, 1983, 97 Stat. 789; Pub. L. 100–26, §7(k)(3), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–456, div. B, title XXVIII, §2805, Sept. 29, 1988, 102 Stat. 2116; Pub. L. 101–510, div. D, title XLI, §4102(b), Nov. 5, 1990, 104 Stat. 1851; Pub. L. 102–25, title VII, §701(j)(3), Apr. 6, 1991, 105 Stat. 116; Pub. L. 102–484, div. A, title X, §1052(28), div. D, title XLIII, §4301(a)–(c), Oct. 23, 1992, 106 Stat. 2500, 2696, 2697; Pub. L. 103–35, title II, §202(a)(15), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. B, title XXIX, §2913, Nov. 30, 1993, 107 Stat. 1925; Pub. L. 103–337, div. A, title XI, §§1122(a), 1123(a), (b), Oct. 5, 1994, 108 Stat. 2870, 2871; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 104–201, div. B, title XXVIII, §2814, Sept. 23, 1996, 110 Stat. 2790; Pub. L. 105–85, div. B, title XXVIII, §2822, Nov. 18, 1997, 111 Stat. 1997; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–314, div. A, title X, §1041(a)(13), Dec. 2, 2002, 116 Stat. 2645; Pub. L. 109–163, div. B, title XXVIII, §2832, Jan. 6, 2006, 119 Stat. 3520; Pub. L. 109–364, div. B, title XXVIII, §§2861, 2862, Oct. 17, 2006, 120 Stat. 2498; Pub. L. 110–417, div. B, title XXVIII, §2823(b), Oct. 14, 2008, 122 Stat. 4730; Pub. L. 112–239, div. B, title XXVII, §2712(c)(1), Jan. 2, 2013, 126 Stat. 2145.)
 
 #### References in Text
 
@@ -75,6 +75,8 @@ The National Environmental Policy Act of 1969, referred to in subsec. (a), is Pu
 Executive Order 12788, referred to in subsec. (c), is set out below.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (d)(1). Pub. L. 112–239 substituted “section 2687” for “section 2687(e)”.
 
 <b>2008</b>—Subsec. (d)(1). Pub. L. 110–417 inserted “the Commonwealth of the Northern Mariana Islands,” after “Guam,”.
 
@@ -140,7 +142,7 @@ Subsec. (e). Pub. L. 102–484, §4301(c)(4), inserted heading.
 
 “(6) Not more than $2,000,000 in assistance may be provided under this subsection in any fiscal year.”
 
-<b>1988</b>—Subsec. (b)(1). Pub. L. 100–456, §2805(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Secretary of Defense may make grants, conclude cooperative agreements, and supplement funds made available under Federal programs administered by agencies other than the Department of Defense in order to assist State and local governments, and regional organizations composed of State and localgovernments, in planning community adjustments required (A) by the proposed or actual establishment, realignment, or closure of a military installation, or (B) by the cancellation or termination of a Department of Defense contract or the failure to proceed with an approved major weapon system program, if the Secretary of Defense determines that the action is likely to impose a significant impact on the affected community.”
+<b>1988</b>—Subsec. (b)(1). Pub. L. 100–456, §2805(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Secretary of Defense may make grants, conclude cooperative agreements, and supplement funds made available under Federal programs administered by agencies other than the Department of Defense in order to assist State and local governments, and regional organizations composed of State and local governments, in planning community adjustments required (A) by the proposed or actual establishment, realignment, or closure of a military installation, or (B) by the cancellation or termination of a Department of Defense contract or the failure to proceed with an approved major weapon system program, if the Secretary of Defense determines that the action is likely to impose a significant impact on the affected community.”
 
 Subsec. (b)(4) to (6). Pub. L. 100–456, §2805(b), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
 
@@ -154,23 +156,23 @@ Amendment by Pub. L. 103–35 applicable as if included in the enactment of Pub.
 
 #### Effective Date of 1988 Amendment
 
-Section 2702 of title XXVII of div. B of Pub. L. 100–456 provided that: “Except as otherwise specifically provided, this division \[amending this section and sections 2662, 2672, 2809, and 2828 of this title and enacting provisions set out as a note under this section\] shall take effect on October 1, 1988, or the date of enactment of this Act \[Sept. 29, 1988\], whichever is later.”
+Pub. L. 100–456, div. B, title XXVII, §2702, Sept. 29, 1988, 102 Stat. 2115, provided that: “Except as otherwise specifically provided, this division \[amending this section and sections 2662, 2672, 2809, and 2828 of this title and enacting provisions set out as a note under this section\] shall take effect on October 1, 1988, or the date of enactment of this Act \[Sept. 29, 1988\], whichever is later.”
 
 #### Effective Date of 1983 Amendment
 
-Section 808 of Pub. L. 98–115 provided that the amendment made by that section is effective Oct. 1, 1983.
+Pub. L. 98–115, title VIII, §808, Oct. 11, 1983, 97 Stat. 789, provided that the amendment made by that section is effective Oct. 1, 1983.
 
 #### Advance Adjustment Planning
 
-Section 4301(d) of Pub. L. 102–484 authorized Secretary of Defense, during fiscal year 1993, to make grants and other assistance available under 10 U.S.C. 2391(b) to assist a State or local government in planning community adjustments and economic diversification even though the State or local government currently failed to meet the criteria for assistance under such section if the Secretary determined that a substantial portion of the economic activity or population of the geographic area to be subjected to the adjustment or diversification planning was dependent on Department of Defense expenditures.
+Pub. L. 102–484, div. D, title XLIII, §4301(d), Oct. 23, 1992, 106 Stat. 2697, authorized Secretary of Defense, during fiscal year 1993, to make grants and other assistance available under 10 U.S.C. 2391(b) to assist a State or local government in planning community adjustments and economic diversification even though the State or local government currently failed to meet the criteria for assistance under such section if the Secretary determined that a substantial portion of the economic activity or population of the geographic area to be subjected to the adjustment or diversification planning was dependent on Department of Defense expenditures.
 
 #### Effect of 1992 Amendments on Efforts of Economic Development Administration
 
-Section 4301(f) of Pub. L. 102–484 provided that: “Nothing in this section \[amending this section and enacting provisions set out as a note above\] is intended to replace the efforts of the economic development program administered by the Economic Development Administration of the Department of Commerce.”
+Pub. L. 102–484, div. D, title XLIII, §4301(f), Oct. 23, 1992, 106 Stat. 2698, provided that: “Nothing in this section \[amending this section and enacting provisions set out as a note above\] is intended to replace the efforts of the economic development program administered by the Economic Development Administration of the Department of Commerce.”
 
 #### Pilot Project To Improve Economic Adjustment Planning
 
-Section 4302 of Pub. L. 102–484, as amended by Pub. L. 103–160, div. A, title XIII, §1323(a), Nov. 30, 1993, 107 Stat. 1790, authorized Secretary of Defense, during fiscal years 1993 and 1994, to conduct a pilot project to examine methods to improve the provision of economic adjustment and diversification assistance under 10 U.S.C. 2391(b)(1) to State and local governments adversely affected by the closure of military installations, the cancellation or completion of defense contracts, or reductions in defense spending.
+Pub. L. 102–484, div. D, title XLIII, §4302, Oct. 23, 1992, 106 Stat. 2698, as amended by Pub. L. 103–160, div. A, title XIII, §1323(a), Nov. 30, 1993, 107 Stat. 1790, authorized Secretary of Defense, during fiscal years 1993 and 1994, to conduct a pilot project to examine methods to improve the provision of economic adjustment and diversification assistance under 10 U.S.C. 2391(b)(1) to State and local governments adversely affected by the closure of military installations, the cancellation or completion of defense contracts, or reductions in defense spending.
 
 #### Donation of Real Property to Nonprofit Entities Providing Support to Children With Life-Threatening Diseases
 
@@ -268,7 +270,7 @@ Chairman.—The Secretary of Defense shall be the chairman of the Committee.
 
 “(c)
 
-Executive Council.—Until October 1, 1997, the National Defense Technology and Industrial Base Council shall function as an Executive Council of the Committee. Under the direction of the chairman of the Committee, the Executive Council shall develop policies and procedures to ensure that communities, businesses, and workers substantially and seriously affected by reductions in defense expenditures are advised of the assistance available to such communities, businesses, and workers under programs administered by the departments and agency comprising the Council.
+Executive Council.—Until October 1, 1997, the National Defense Technology and Industrial Base Council shall function as an Executive Council of the Committee. Under the direction of the chairman of theCommittee, the Executive Council shall develop policies and procedures to ensure that communities, businesses, and workers substantially and seriously affected by reductions in defense expenditures are advised of the assistance available to such communities, businesses, and workers under programs administered by the departments and agency comprising the Council.
 
 “(d)
 
@@ -358,7 +360,7 @@ Report of feasibility.—Before September 30, 1990, the President, acting with t
 
 &emsp;“(3)
 
-Transition to nondefense production required to be considered.—In determining whether to provide financial support for an export transaction, the Export-Import Bank of the United States shall take into account, to the extent feasible and in accordance with applicable standards and procedures established by the bank in consultation with the Committee, the fact that the product or service is produced or provided by any business or group of workers which—
+Transition to nondefense production required to be considered.—In determining whether to provide financial support for an export transaction, the Export-Import Bank of the United States shall take into account, to the extent feasible and in accordance with applicable standards and proceduresestablished by the bank in consultation with the Committee, the fact that the product or service is produced or provided by any business or group of workers which—
 
 &emsp;&emsp;“(A) was substantially and seriously affected by defense budget reductions; and
 
@@ -404,7 +406,7 @@ Section 2819 of Pub. L. 100–456, as amended by Pub. L. 101–510, div. B, titl
 
 #### Submission Date for First Report
 
-Section 912(c) of Pub. L. 97–86 required the first report under subsec. (c) of this section to be submitted not later than Dec. 1, 1982.
+Pub. L. 97–86, title IX, §912(c), Dec. 1, 1981, 95 Stat. 1123, required the first report under subsec. (c) of this section to be submitted not later than Dec. 1, 1982.
 
 #### Ex. Ord. No. 12682. Commission on Alternative Utilization of Military Facilities
 
@@ -438,7 +440,7 @@ George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 12788, Jan. 15, 1992, 57 F.R. 2213, as amended by Ex. Ord. No. 13286, §33, Feb. 28, 2003, 68 F.R. 10625; Ex. Ord. No. 13378, May 12, 2005, 70 F.R. 28413, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including 10 U.S.C. 2391 and the Defense Economic Adjustment, Diversification, Conversion, and Stabilization Act of 1990, enacted as Division D, section 4001 <i>et seq</i>., of the National Defense Authorization Act for Fiscal Year 1991, Public Law 101–510 \[set out above\], and to provide coordinated Federal economic adjustment assistance necessitated by changes in Department of Defense activities, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States ofAmerica, including 10 U.S.C. 2391 and the Defense Economic Adjustment, Diversification, Conversion, and Stabilization Act of 1990, enacted as Division D, section 4001 <i>et seq</i>., of the National Defense Authorization Act for Fiscal Year 1991, Public Law 101–510 \[set out above\], and to provide coordinated Federal economic adjustment assistance necessitated by changes in Department of Defense activities, it is hereby ordered as follows:
 
 Section 1. <i>Function of the Secretary of Defense</i>. The Secretary of Defense shall, through the Economic Adjustment Committee, design and establish a Defense Economic Adjustment Program.
 
@@ -468,7 +470,7 @@ Sec. 3. <i>Functions of the Defense Economic Adjustment Program</i>. The Defense
 
 (k) Assist in the diversification of local economies to lessen dependence on Defense activities;
 
-(<i>l</i>) Encourage and facilitate private sector interim use of lands and buildings to generate jobs as military activities diminish;, \[sic\]
+(l) Encourage and facilitate private sector interim use of lands and buildings to generate jobs as military activities diminish;, \[sic\]
 
 (m) Develop ways to streamline property disposal procedures to enable Defense-impacted communities to acquire base property to generate jobs as military activities diminish; and
 

@@ -10,9 +10,9 @@ All amounts received from charges, use fees, and natural resource utilization, i
 
 #### (c) Payments by the Tennessee Valley Authority
 
-After the transfer of administrative jurisdiction is made under section 460<i>lll</i>–41 of this title—
+After the transfer of administrative jurisdiction is made under section 460lll–41 of this title—
 
-&emsp;(1) the Tennessee Valley Authority shall continue to calculate the amount of payments to be made to States and counties under section 831<i>l</i> of this title; and
+&emsp;(1) the Tennessee Valley Authority shall continue to calculate the amount of payments to be made to States and counties under section 831l of this title; and
 
 &emsp;(2) each State (including, for the purposes of this subsection, the State of Kentucky, the State of Tennessee, and any other State) that receives a payment under that section shall continue to calculate the amounts to be distributed to the State and local governments, as though the transfer had not been made.
 

@@ -62,5 +62,5 @@ Pub. L. 108–199, div. A, title VII, §770, Jan. 23, 2004, 118 Stat. 40, provid
 
 #### Use of Department of Agriculture Programs for Promotion of Wood and Processed Wood Products
 
-Section 4404 of Pub. L. 100–418 provided that: “The Secretary of Agriculture shall actively use Department of Agriculture concessional programs and export credit guarantee programs to promote the export of wood and processed wood products.”
+Pub. L. 100–418, title IV, §4404, Aug. 23, 1988, 102 Stat. 1402, provided that: “The Secretary of Agriculture shall actively use Department of Agriculture concessional programs and export credit guarantee programs to promote the export of wood and processed wood products.”
 

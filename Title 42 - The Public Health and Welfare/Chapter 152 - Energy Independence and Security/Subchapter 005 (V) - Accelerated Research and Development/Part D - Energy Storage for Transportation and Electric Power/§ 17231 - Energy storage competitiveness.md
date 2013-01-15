@@ -118,7 +118,7 @@ In carrying out the activities of this section, the Secretary shall coordinate r
 
 #### (2) Nanoscience centers
 
-&emsp;The Secretary, in cooperation with the Council, shall coordinate the activities of thenanoscience centers of the Department to help the energy storage research centers of the Department maintain a globally competitive posture in energy storage systems for electric drive vehicles, stationary applications, and electricity transmission and distribution.
+&emsp;The Secretary, in cooperation with the Council, shall coordinate the activities of the nanoscience centers of the Department to help the energy storage research centers of the Department maintain a globally competitive posture in energy storage systems for electric drive vehicles, stationary applications, and electricity transmission and distribution.
 
 #### (3) Funding
 
@@ -298,7 +298,7 @@ The Secretary shall carry out a program of research, development, and demonstrat
 
 &emsp;(2) technologies and processes for final recycling and disposal of the devices.
 
-#### (<i>l</i>) Cost sharing
+#### (l) Cost sharing
 
 The Secretary shall carry out the programs established under this section in accordance with section 16352 of this title.
 
@@ -310,7 +310,7 @@ The Secretary shall carry out the programs established under subsections (i), (j
 
 To the maximum extent practicable, the Secretary shall coordinate activities under this section with other programs and laboratories of the Department and other Federal research programs.
 
-#### (<i>o</i>) Review by National Academy of Sciences
+#### (o) Review by National Academy of Sciences
 
 On the business day that is 5 years after December 19, 2007, the Secretary shall offer to enter into an arrangement with the National Academy of Sciences to assess the performance of the Department in carrying out this section.
 

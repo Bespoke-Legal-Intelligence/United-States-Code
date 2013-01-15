@@ -24,7 +24,7 @@ Rights and privileges.—The Secretary of the Navy shall provide for cadets of t
 
 Coordination.—The Secretary of the Navy shall carry out paragraphs (1) and (2) in coordination with the Secretary of Transportation.
 
-(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1575; Pub. L. 109–163, div. A, title V, §515(g)(2), Jan. 6, 2006, 119 Stat. 3236; Pub. L. 110–181, div. C, title XXXV, §3523(a)(1), (b), Jan. 28, 2008, 122 Stat. 598, 600.)
+(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1575; Pub. L. 109–163, div. A, title V, §515(g)(2), Jan. 6,2006, 119 Stat. 3236; Pub. L. 110–181, div. C, title XXXV, §3523(a)(1), (b), Jan. 28, 2008, 122 Stat. 598, 600.)
 
 Historical and Revision Notes
 

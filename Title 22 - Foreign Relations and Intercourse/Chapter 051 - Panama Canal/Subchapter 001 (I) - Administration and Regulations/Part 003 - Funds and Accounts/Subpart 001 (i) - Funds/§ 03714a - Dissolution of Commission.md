@@ -12,7 +12,7 @@
 
 #### (b) Termination office
 
-The Commission shall during fiscal year 1998 establish an office to close out the affairs of the Commission that are still pending after the termination of the Panama Canal Treaty of 1977.
+The Commission shall during fiscal year 1998 establish an office to close out the affairs of theCommission that are still pending after the termination of the Panama Canal Treaty of 1977.
 
 #### (c) Panama Canal Commission Dissolution Fund
 
@@ -24,7 +24,7 @@ The Commission shall during fiscal year 1998 establish an office to close out th
 
 &emsp;(ii) the costs and liabilities associated with dissolution of the Commission, including such costs incurred or identified after the termination of the Panama Canal Treaty of 1977.
 
-(B) Payments from the Fund made during the period beginning on October 1, 1998, and endingwith the termination of the Panama Canal Treaty of 1977 shall be subject to the approval of the Board provided for in section 3612 of this title.
+(B) Payments from the Fund made during the period beginning on October 1, 1998, and ending with the termination of the Panama Canal Treaty of 1977 shall be subject to the approval of the Board provided for in section 3612 of this title.
 
 (3) The Fund shall consist of—
 

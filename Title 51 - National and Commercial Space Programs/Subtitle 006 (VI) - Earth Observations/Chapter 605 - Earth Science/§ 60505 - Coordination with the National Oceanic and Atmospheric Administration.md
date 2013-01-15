@@ -6,7 +6,7 @@ Joint Working Group.—The Administrator and the Administrator of the National O
 
 (b)
 
-Coordination Report.—Not later than February 15 of each year, the Administrator and the Administrator of the National Oceanic and Atmospheric Administration shall jointly transmit a report to the Committee on Science and Technology of the House of Representatives andthe Committee on Commerce, Science, and Transportation of the Senate on how the Earth science programs of the Administration and the National Oceanic and Atmospheric Administration will be coordinated during the fiscal year following the fiscal year in which the report is transmitted.
+Coordination Report.—Not later than February 15 of each year, the Administrator and the Administrator of the National Oceanic and Atmospheric Administration shall jointly transmit a report to the Committee on Science and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on how the Earth science programs of the Administration and the National Oceanic and Atmospheric Administration will be coordinated during the fiscal year following the fiscal year in which the report is transmitted.
 
 (c)
 
@@ -36,7 +36,7 @@ Pub. L. 109–155, title III, §306, Dec. 30, 2005, 119 Stat. 2919.
 
 In subsection (b), the words “beginning with the first fiscal year after the date of enactment of this Act \[December 30, 2005\]” are omitted as obsolete.
 
-In subsection (b), the words “Committee on Science and Technology” are substituted for “Committee on Science” on authority of Rule X(1)(<i>o</i>) of the Rules of the House of Representatives, adopted by House Resolution No. 6 (110th Congress, January 5, 2007).
+In subsection (b), the words “Committee on Science and Technology” are substituted for “Committee on Science” on authority of Rule X(1)(o) of the Rules of the House of Representatives, adopted by House Resolution No. 6 (110th Congress, January 5, 2007).
 
 #### Change of Name
 

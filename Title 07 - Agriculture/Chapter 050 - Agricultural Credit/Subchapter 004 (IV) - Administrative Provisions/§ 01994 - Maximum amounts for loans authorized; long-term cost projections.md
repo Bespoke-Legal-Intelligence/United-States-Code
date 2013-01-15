@@ -34,7 +34,7 @@ Effective October 1, 1979, the aggregate principal amount of loans under the pro
 
 #### (II) Down payment loans; joint financing arrangements
 
-&emsp;&emsp;&emsp;&emsp;Of the amounts reserved for a fiscal year under subclause (I), the Secretary shall reserve an amount not less than 2/3 of the amount for the down payment loan program under section 1935 of this title and joint financing arrangements under section 1927(a)(3)(D) of this title until April 1 of the fiscal year.
+&emsp;&emsp;&emsp;&emsp;Of the amounts reserved for a fiscal year under subclause (I), the Secretaryshall reserve an amount not less than 2/3 of the amount for the down payment loan program under section 1935 of this title and joint financing arrangements under section 1927(a)(3)(D) of this title until April 1 of the fiscal year.
 
 #### (ii) Operating loans
 
@@ -76,7 +76,7 @@ Effective October 1, 1979, the aggregate principal amount of loans under the pro
 
 &emsp;&emsp;&emsp;(i) beginning on August 1 of each fiscal year, the Secretary shall use available unsubsidized guaranteed farm operating loan funds to provide direct farm ownership loans approved by the Secretary to qualified beginning farmers and ranchers under the down payment loan program established under section 1935 of this title, if sufficient direct farm ownership loan funds are not otherwise available; and
 
-&emsp;&emsp;&emsp;(ii) beginning on September 1 of each fiscal year, the Secretary shall use available unsubsidized guaranteed farm operating loan funds to provide direct farm ownership loans approved by the Secretary toqualified beginning farmers and ranchers, if sufficient direct farm ownership loan funds are not otherwise available.
+&emsp;&emsp;&emsp;(ii) beginning on September 1 of each fiscal year, the Secretary shall use available unsubsidized guaranteed farm operating loan funds to provide direct farm ownership loans approved by the Secretary to qualified beginning farmers and ranchers, if sufficient direct farm ownership loan funds are not otherwise available.
 
 #### (B) Limitation
 
@@ -102,7 +102,7 @@ The Secretary shall develop long-term cost projections for loan program authoriz
 
 #### (d) Low-income, limited-resource borrowers
 
-(1) Notwithstanding any other provision of law, not less than 25 per centum of the loans for farm ownership purposes under subchapter I of this chapter, and not less than 25 per centum of the loans for farm operating purposes under subchapter II of this chapter, authorized to be insured, or made to be sold and insured, from the Agricultural Credit Insurance Fund during each fiscal year shall be for low-income, limited-resource borrowers.
+(1) Notwithstanding any other provision of law, not less than 25 per centum of the loans for farm ownership purposes under subchapter I ofthis chapter, and not less than 25 per centum of the loans for farm operating purposes under subchapter II of this chapter, authorized to be insured, or made to be sold and insured, from the Agricultural Credit Insurance Fund during each fiscal year shall be for low-income, limited-resource borrowers.
 
 (2) The Secretary shall provide notification to farm borrowers under this chapter, as soon as practicable after April 10, 1984, and in the normal course of loan making and loan servicing operations, of the provisions of this chapter relating to low-income, limited-resource borrowers and the procedures by which persons may apply for loans under the low-income, limited-resource borrower program.
 
@@ -174,7 +174,7 @@ Amendment by Pub. L. 101–508 effective Nov. 29, 1990, see section 1301 of Pub.
 
 #### Construction of 1990 Amendment
 
-Section 702(i) of Pub. L. 102–237 provided that: “Subsection (i) of section 2388 of the Food, Agriculture, Conservation, and Trade Act of 1990 (104 Stat. 4053) \[Pub. L. 101–624, amending this section\] is hereby repealed and the Consolidated Farm and Rural Development Act \[see Short Title note set out under section 1921 of this title\] shall be applied and administered as if the amendments made by such subsection had never been enacted.”
+Pub. L. 102–237, title VII, §702(i), Dec. 13, 1991, 105 Stat. 1881, provided that: “Subsection (i) of section 2388 of the Food, Agriculture, Conservation, and Trade Act of 1990 (104 Stat. 4053) \[Pub. L. 101–624, amending this section\] is hereby repealed and the Consolidated Farm and Rural Development Act \[title III of Pub. L. 87–128, see Short Title note set out under section 1921 of this title\] shall be applied and administered as if the amendments made by such subsection had never been enacted.”
 
 #### Nullification of Reservation of Funds During Fiscal Year 1999 for Guaranteed Loans for Qualified Beginning Farmers and Ranchers
 

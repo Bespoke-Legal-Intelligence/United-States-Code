@@ -138,6 +138,10 @@ In subsection (h), the words “authorized and” and “for wear during such co
 
 In subsection (i), the words “Air Force school” are substituted for the words “Air Force advanced flying schools or Air Force service schools”. The words “in such manner” are omitted as surplusage.
 
+#### Constitutionality
+
+For information regarding constitutionality of certain provisions of this section as enacted by act Aug. 10, 1956, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+
 #### Amendments
 
 <b>1996</b>—Subsec. (h). Pub. L. 104–201 inserted before period at end “if the wear of such uniform is specifically authorized under regulations prescribed by the Secretary of the military department concerned”.

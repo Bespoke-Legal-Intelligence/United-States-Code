@@ -78,7 +78,7 @@ From the amounts appropriated under subsection (i), the Secretary is authorized 
 
 &emsp;&emsp;&emsp;(iii) be awarded in the amount of $1,000 for each of two semesters (prorated for quarters or other equivalents), or $2,000 for an academic year;
 
-&emsp;&emsp;&emsp;(iv) not exceed the student's cost of attendance, as defined in section 1087<i>ll</i> of this title; and
+&emsp;&emsp;&emsp;(iv) not exceed the student's cost of attendance, as defined in section 1087ll of this title; and
 
 &emsp;&emsp;&emsp;(v) be paid, for each of the two semesters, in increments of—
 

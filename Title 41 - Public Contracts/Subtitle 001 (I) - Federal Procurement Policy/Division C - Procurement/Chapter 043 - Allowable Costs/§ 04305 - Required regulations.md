@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Federal Acquisition Regulation shall contain provisions on the allowability of contractor costs. Those provisions shall define in detail and in specific terms the costs that are unallowable, in whole or in part, under covered contracts.
+In General.—The Federal Acquisition Regulation shall contain provisions on the allowability of contractor costs. Those provisions shall define in detail and in specific terms thecosts that are unallowable, in whole or in part, under covered contracts.
 
 (b)
 

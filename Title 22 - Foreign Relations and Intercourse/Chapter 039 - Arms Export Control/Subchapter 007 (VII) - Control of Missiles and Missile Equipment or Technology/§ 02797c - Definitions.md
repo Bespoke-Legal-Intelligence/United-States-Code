@@ -4,7 +4,7 @@
 
 For purposes of this subchapter—
 
-&emsp;(1) the term “missile” means a category I system as defined in the MTCR Annex, andany other unmanned delivery system of similar capability, as well as the specially designed production facilities for these systems;
+&emsp;(1) the term “missile” means a category I system as defined in the MTCR Annex, and any other unmanned delivery system of similar capability, as well as the specially designed production facilities for these systems;
 
 &emsp;(2) the term “Missile Technology Control Regime” or “MTCR” means the policy statement, between the United States, the United Kingdom, the Federal Republic of Germany, France, Italy, Canada, and Japan, announced on April 16, 1987, to restrict sensitive missile-relevant transfers based on the MTCR Annex, and any amendments thereto;
 

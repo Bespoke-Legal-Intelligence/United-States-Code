@@ -14,7 +14,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to the extent of amounts made available in appropriations Acts, a grant made for purposes of this paragraph to an eligible area shall be made in an amount equal to the product of—
+&emsp;&emsp;Subject to the extent of amounts made available in appropriations Acts, a grantmade for purposes of this paragraph to an eligible area shall be made in an amount equal to the product of—
 
 &emsp;&emsp;&emsp;(i) an amount equal to the amount available for distribution under paragraph (2) for the fiscal year involved; and
 
@@ -76,7 +76,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) fiscal year 2007 was the first year in which the count of living non-AIDS cases of HIV in such area, for purposes of this section, was based on a names-based reporting system; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(cc) the amount of funding that such area received under this part for fiscal year 2007 was less than 70 percent of the amount of funding (exclusive of funds that were identified as being for purposes of the Minority AIDS Initiative) that such area received under such part for fiscal year 2006.
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) the amount of funding that such area received under this part for fiscalyear 2007 was less than 70 percent of the amount of funding (exclusive of funds that were identified as being for purposes of the Minority AIDS Initiative) that such area received under such part for fiscal year 2006.
 
 #### (vii) Multiple political jurisdictions
 
@@ -148,7 +148,7 @@
 
 #### (ii) Pro rata reduction
 
-&emsp;&emsp;&emsp;If the amounts referred to in clause (i) for a fiscal year are insufficient to fully comply with subparagraph (A) for the year, the Secretary, in order to provide the additional funds necessary for such compliance, shall reduce on a pro rata basis the amount of each grant pursuant to this subsection for the fiscal year, other than grants for eligible areas for which increases under subparagraph (A) apply. A reduction under the preceding sentence may not be made in an amount that wouldresult in the eligible area involved becoming eligible for such an increase.
+&emsp;&emsp;&emsp;If the amounts referred to in clause (i) for a fiscal year are insufficient to fully comply with subparagraph (A) for the year, the Secretary, in order to provide the additional funds necessary for such compliance, shall reduce on a pro rata basis the amount of each grant pursuant to this subsection for the fiscal year, other than grants for eligible areas for which increases under subparagraph (A) apply. A reduction under the preceding sentence may not be made in an amount that would result in the eligible area involved becoming eligible for such an increase.
 
 #### (C) Limitation
 
@@ -220,7 +220,7 @@
 
 #### (D) Increased adjustment for certain areas previously using code-based reporting
 
-&emsp;&emsp;For purposes of this subsection for each of fiscal years 2010 through 2012, the Secretary shall deem the applicable number of living cases of HIV/AIDS in an area that were reported to and confirmed by the Centers for Disease Control and Prevention to be 3 percent higher than the actual number if theconditions described in items (aa) through (cc) of subsection (a)(3)(C)(vi)(III) are all satisfied.
+&emsp;&emsp;For purposes of this subsection for each of fiscal years 2010 through 2012, the Secretary shall deem the applicable number of living cases of HIV/AIDS in an area that were reported to and confirmed by the Centers for Disease Control and Prevention to be 3 percent higher than the actual number if the conditions described in items (aa) through (cc) of subsection (a)(3)(C)(vi)(III) are all satisfied.
 
 #### (3) Remainder of amounts
 
@@ -270,7 +270,7 @@
 
 &emsp;&emsp;&emsp;(i) The unobligated funds are available for expenditure by the eligible area involved for the one-year period beginning upon the expiration of the grant year (referred to in this subsection as the “carryover year”).
 
-&emsp;&emsp;&emsp;(ii) If the funds are not expended by the end of the carryover year, the Secretary shall cancel that unexpended balance of the award, and shall require the eligible area to return any amounts from such balance that have been disbursed to the area.
+&emsp;&emsp;&emsp;(ii) If the funds are not expended by the end of the carryover year, the Secretary shall cancel that unexpended balance of the award, and shall require the eligiblearea to return any amounts from such balance that have been disbursed to the area.
 
 #### (C) Use of cancelled balances
 
@@ -520,7 +520,7 @@ Amount relating to per capita incidence of cases.—The amount referred to in cl
 
 &emsp;&emsp;“(I) the per capita incidence of cumulative cases of acquired immune deficiency syndrome in the eligible area involved (computed on the basis of the most recently available data on the population of the area); to
 
-&emsp;&emsp;“(II) the per capita incidence of such cumulative cases in all eligible areas for which an application for a grant under paragraph (1) has been approved (computed on the basis of the most recently available data on the population of such areas).”
+&emsp;&emsp;“(II) the per capita incidence of such cumulative cases in all eligible areas for which an applicationfor a grant under paragraph (1) has been approved (computed on the basis of the most recently available data on the population of such areas).”
 
 #### Effective Date of 2009 Amendment; Revival of Section
 

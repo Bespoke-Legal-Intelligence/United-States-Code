@@ -2,7 +2,7 @@
 
 #### (a) Purpose; designation
 
-In order to preserve for the benefit and inspiration of the people a representative segment ofthe Great Basin of the Western United States possessing outstanding resources and significant geological and scenic values, there is hereby established the Great Basin National Park (hereinafter in this subchapter referred to as the “park”).
+In order to preserve for the benefit and inspiration of the people a representative segment of the Great Basin of the Western United States possessing outstanding resources and significant geological and scenic values, there is hereby established the Great Basin National Park (hereinafter in this subchapter referred to as the “park”).
 
 #### (b) Composition; filing of map; public inspection
 
@@ -30,5 +30,5 @@ Committee on Interior and Insular Affairs of the House of Representatives change
 
 #### Short Title
 
-Section 1 of Pub. L. 99–565 provided that: “This Act \[enacting this subchapter\] may be known as the ‘Great Basin National Park Act of 1986’.”
+Pub. L. 99–565, §1, Oct. 27, 1986, 100 Stat. 3181, provided that: “This Act \[enacting this subchapter\] may be known as the ‘Great Basin National Park Act of 1986’.”
 

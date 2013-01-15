@@ -54,7 +54,7 @@ Pub. L. 100–647, §1012(p)(37)(A), inserted sentence at end of par. (2) permit
 
 Amendment by section 1012(p)(37)(A) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Section 6127(c) of Pub. L. 100–647 provided that:
+Pub. L. 100–647, title VI, §6127(c), Nov. 10, 1988, 102 Stat. 3715, provided that:
 
 “(1)
 
@@ -70,5 +70,5 @@ Section applicable to taxable years of foreign corporations beginning after Dec.
 
 #### Expiration of Subsection (b) Election Period
 
-Section 1012(p)(37)(B) of Pub. L. 100–647 provided that: “The period during which an election under section 1295(b) of the 1986 Code may be made shall in no event expire before the date 60 days after the date of enactment of this Act \[Nov. 10, 1988\].”
+Pub. L. 100–647, title I, §1012(p)(37)(B), Nov. 10, 1988, 102 Stat. 3522, provided that: “The period during which an election under section 1295(b) of the 1986 Code may be made shall in no event expire before the date 60 days after the date of enactment of this Act \[Nov. 10, 1988\].”
 

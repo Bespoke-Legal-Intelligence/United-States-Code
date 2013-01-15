@@ -1,6 +1,6 @@
 ### §484. Travel and transportation; dependents; household and personal effects; trailers; additional movements; motor vehicles; sale of bulky items; claims for proceeds; appropriation chargeable
 
-(a) In this section, “household and personal effects” and “household effects” may include, in addition to other authorized weight allowances, two privately owned motor vehicles which may be shipped at United States expense. Under regulations prescribed by the Secretaries concerned, and in place of the transportation of household and personal effects, a dependent, who would otherwise be entitled to transportation of household and personal effects under this section, may transport a house trailer or mobile dwelling within and between the areas specified in section 479 of this title for use as a residence by one of the following means—
+(a) In this section, “household and personal effects” and “household effects” may include, in addition to other authorized weight allowances, two privately owned motor vehicles which may be shipped at United States expense. Under regulations prescribed by the Secretaries concerned, and in place of the transportation of household and personal effects, a dependent,who would otherwise be entitled to transportation of household and personal effects under this section, may transport a house trailer or mobile dwelling within and between the areas specified in section 479 of this title for use as a residence by one of the following means—
 
 &emsp;(1) transport it and be reimbursed by the United States;
 
@@ -30,7 +30,7 @@
 
 &emsp;(2) a monetary allowance at the prescribed rate for all, or that part, of the travel for which transportation in kind is not furnished.
 
-(f) The Secretary concerned may store the household and personal effects of a member described in subsection (b) until proper disposition can be made. The cost of the storage and transportation (including packing, crating, drayage, temporary storage, and unpacking) of householdand personal effects shall be charged against appropriations currently available.
+(f) The Secretary concerned may store the household and personal effects of a member described in subsection (b) until proper disposition can be made. The cost of the storage and transportation (including packing, crating, drayage, temporary storage, and unpacking) of household and personal effects shall be charged against appropriations currently available.
 
 (g) The Secretary concerned may, when he determines that there is an emergency and a sale would be in the best interests of the United States, provide for the public or private sale of motor vehicles and other bulky items of household and personal effects of a member described in subsection (b). Before a sale, and if practicable, a reasonable effort shall be made to determine the desires of the interested persons. The net proceeds received from the sale shall, under regulations prescribed by the Secretary concerned, be sent to the owner or other persons. If there are no such persons, or if they or their addresses are not known within one year from the date of sale, the net proceeds may be covered into the Treasury as miscellaneous receipts.
 
@@ -48,7 +48,7 @@
 
 (k) No transportation, allowance, or reimbursement may be provided under this section for a move that begins after the travel authorities transition expiration date.
 
-(Added Pub. L. 89–554, §5(b), Sept. 6, 1966, 80 Stat. 627, §554; amended Pub. L. 90–83, §5(2), Sept. 11, 1967, 81 Stat. 221; Pub. L. 90–236, Jan. 2, 1968, 81 Stat. 764; Pub. L. 90–623, §3(7), Oct. 22, 1968, 82 Stat. 1315; Pub. L. 92–477, §1, Oct. 9, 1972, 86 Stat. 793; Pub. L. 93–548, §3, Dec. 26, 1974, 88 Stat. 1743; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title X, §1063(a), Dec. 5, 1991, 105 Stat. 1476; Pub. L. 104–316, title II, §202(s), Oct. 19, 1996, 110 Stat. 3845; Pub. L. 105–261, div. A, title VI, §653(d), Oct. 17, 1998, 112 Stat. 2052; Pub. L. 107–314, div. A, title VI, §622(a), (b), Dec. 2, 2002, 116 Stat. 2571; renumbered §484 and amended Pub. L. 112–81, div. A, title VI, §631(d)(3), (e)(26), (f)(4)(A), Dec. 31, 2011, 125 Stat. 1461, 1464, 1465.)
+(Added Pub. L. 89–554, §5(b), Sept. 6, 1966, 80 Stat. 627, §554; amended Pub. L. 90–83, §5(2), Sept. 11, 1967, 81 Stat. 221; Pub. L. 90–236, Jan. 2, 1968, 81 Stat. 764; Pub. L. 90–623, §3(7), Oct. 22, 1968, 82 Stat. 1315; Pub. L. 92–477, §1, Oct. 9, 1972, 86 Stat. 793; Pub. L. 93–548, §3, Dec. 26, 1974, 88 Stat. 1743; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title X, §1063(a), Dec. 5, 1991, 105 Stat. 1476; Pub. L. 104–316, title II, §202(s), Oct. 19, 1996, 110 Stat. 3845; Pub. L. 105–261, div. A, title VI, §653(d), Oct. 17, 1998, 112 Stat. 2052; Pub. L. 107–314, div. A, title VI, §622(a), (b), Dec. 2, 2002, 116 Stat. 2571; renumbered §484 and amended Pub. L. 112–81, div. A, title VI, §631(d)(3), (e)(26), (f)(4)(A), Dec. 31, 2011, 125 Stat. 1461, 1464, 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
 
 Historical and Revision Notes
 
@@ -110,7 +110,7 @@ In subsection (a), the words “Beginning June 25, 1950, and” are omitted as e
 
 In subsection (b), the words “Transportation . . . may be provided” are substituted for “may be moved”. The words “a member of a uniformed service on active duty . . . or absent for a period of more than 29 days in a missing status” are substituted for “any person in active service . . . absent for a period of thirty days or more in any status listed in section 2 of this Act”, for clarity and to conform to the definitions in 37 U.S.C. 101(20) and (23) and revised section 551(2) of this chapter. In clause (1), the words “the member's” are substituted for “for any such person”. In clause (2), the words “under . . . prescribed . . . Secretary concerned” are substituted for “in accordance with . . . issued . . . head of the department concerned”. In clause (3), the words “on request of the member” are substituted for “upon the person's application”. The words “other person described in clause (2)” are substituted for “such . . . other person”. The words “Secretary concerned, or his designee” are substituted for “head of the department concerned or by such person as he may designate”.
 
-In subsection (c), the words “a member described in subsection (b) of this section” are substituted for “the person”. The words “transportation . . . authorized by this section” are substituted for “the movement . . .provided for herein”. The words “provided . . . when” are substituted for “authorized . . . in cases where”.
+In subsection (c), the words “a member described in subsection (b) of this section” are substituted for “the person”. The words “transportation . . . authorized by this section” are substituted for “the movement . . . provided for herein”. The words “provided . . . when” are substituted for “authorized . . . in cases where”.
 
 In subsection (d), the words “requested by a dependent may be authorized under . . . only” are substituted for “No . . . shall be authorized pursuant to . . . upon application by dependents unless”. The words “condition and” are omitted as unnecessary.
 
@@ -124,15 +124,13 @@ In subsection (h), the words “under subsection (g) of this section” are subs
 
 In subsection (i), the words “the provisions of” are omitted as unnecessary. Clause (3) is substituted for “the Federal Tort Claims Act (60 Stat. 842–847), as amended,” to reflect the correct citation of that Act.
 
-#### Codification
-
-Section 631(f)(4)(A) of Pub. L. 112–81, which directed that this title be amended by conforming any references to sections of this title which were transferred and redesignated by “subsection (c)” of section 631, was executed by conforming the references to those sections as transferred and redesignated by subsection (d) of section 631, to reflect the probable intent of Congress.
-
 #### Amendments
+
+<b>2013</b>—Subsec. (a). Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, §631(f)(4)(A). See 2011 Amendment note below.
 
 <b>2011</b>—Pub. L. 112–81, §631(d)(2), renumbered section 554 of this title as this section.
 
-Subsec. (a). Pub. L. 112–81, §631(f)(4)(A), substituted “479” for “409” in introductory provisions. See Codification note above.
+Subsec. (a). Pub. L. 112–81, §631(f)(4)(A), as amended by Pub. L. 112–239, §1076(a)(9), substituted “479” for “409” in introductory provisions.
 
 Subsec. (k). Pub. L. 112–81, §631(e)(26), added subsec. (k).
 
@@ -168,11 +166,13 @@ Pub. L. 90–236 inserted provision authorizing nontemporary storage of househol
 
 <b>1967</b>—Subsec. (a). Pub. L. 90–83 struck out “when it is located outside the United States, or in Alaska or Hawaii” after “shipped at United States expense”.
 
+#### Effective Date of 2013 Amendment
+
+Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
+
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–314, div. A, title VI, §622(c), Dec. 2, 2002, 116 Stat. 2571, as amended by Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to members whose eligibility for benefits under section 484 of title 37, United States Code, commences on or after the date of the enactment of this Act \[Dec. 2, 2002\].”
-
-\[Amendment by Pub. L. 112–81 to section 622(c) of Pub. L. 107–314, set out above, was executed to reflect the probable intent of Congress, notwithstanding an error in the directory language.\]
+Pub. L. 107–314, div. A, title VI, §622(c), Dec. 2, 2002, 116 Stat. 2571, as amended by Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to members whose eligibility for benefits under section 484 of title 37, United States Code, commences on or after the date of the enactment of this Act \[Dec. 2, 2002\].”
 
 #### Effective Date of 1998 Amendment
 
@@ -180,7 +180,7 @@ For provisions relating to the applicability of amendment by Pub. L. 105–261, 
 
 #### Effective Date of 1974 Amendment
 
-Section 4 of Pub. L. 93–548 provided that: “The amendments made by section 3 of this Act \[amending this section\] shall apply with respect to members of the uniformed services incapacitated by illness on or after January 1, 1974.”
+Pub. L. 93–548, §4, Dec. 26, 1974, 88 Stat. 1743, provided that: “The amendments made by section 3 of this Act \[amending this section\] shall apply with respect to members of the uniformed services incapacitated by illness on or after January 1, 1974.”
 
 #### Effective Date of 1968 Amendment
 

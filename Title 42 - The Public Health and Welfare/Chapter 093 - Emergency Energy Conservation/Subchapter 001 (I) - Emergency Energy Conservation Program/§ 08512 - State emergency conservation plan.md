@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(iii) a tax, tariff, or user fee not authorized by State law.
 
-(2) Any measure contained in a State plan shall become effective in that State on the datethe Secretary approves the plan under this subsection or such later date as may be prescribed in, or pursuant to, the plan.
+(2) Any measure contained in a State plan shall become effective in that State on the date the Secretary approves the plan under this subsection or such later date as may be prescribed in, or pursuant to, the plan.
 
 #### (d) State administration and enforcement
 

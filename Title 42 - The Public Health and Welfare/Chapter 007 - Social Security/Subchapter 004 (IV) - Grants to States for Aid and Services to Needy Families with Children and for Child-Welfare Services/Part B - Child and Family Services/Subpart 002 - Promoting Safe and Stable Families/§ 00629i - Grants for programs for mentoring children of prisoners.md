@@ -212,7 +212,7 @@ In awarding grants under this section, the Secretary shall take into considerati
 
 #### (D) Monitor and oversee delivery of mentoring services
 
-&emsp;&emsp;To satisfy specific requirements of the Secretary for monitoring and overseeing the delivery of mentoring services under the demonstration project, which shall include a requirement to ensure that providers of mentoring services under the project report data on the children served and the types of mentoring services provided.
+&emsp;&emsp;To satisfy specific requirements of the Secretary for monitoring and overseeing the delivery of mentoring services under thedemonstration project, which shall include a requirement to ensure that providers of mentoring services under the project report data on the children served and the types of mentoring services provided.
 
 #### (E) Records, reports, and audits
 
@@ -306,7 +306,7 @@ In awarding grants under this section, the Secretary shall take into considerati
 
 #### (1) Limitations on authorization of appropriations
 
-&emsp;To carry out this section, there are authorized to be appropriated to the Secretary suchsums as may be necessary for fiscal years 2007 through 2011.
+&emsp;To carry out this section, there are authorized to be appropriated to the Secretary such sums as may be necessary for fiscal years 2007 through 2011.
 
 #### (2) Reservations
 
@@ -372,7 +372,7 @@ Amendment by Pub. L. 109–288 effective Oct. 1, 2006, and applicable to payment
 
 #### Effective Date
 
-Section effective Jan. 17, 2002, with delay permitted if State legislation is required, see section 301 of Pub. L. 107–133, set out as an Effective Date of 2002 Amendment note under section 629 of this title.
+Section effective Jan. 17, 2002, with delay permitted if State legislation is required, see section 301 of Pub. L.107–133, set out as an Effective Date of 2002 Amendment note under section 629 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “parent”.</i>
 

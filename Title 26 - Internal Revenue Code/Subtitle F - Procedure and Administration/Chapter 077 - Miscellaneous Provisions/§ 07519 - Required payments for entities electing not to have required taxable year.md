@@ -80,7 +80,7 @@ For purposes of this section—
 
 #### (C) Certain limitations disregarded
 
-&emsp;&emsp;For purposes of subparagraph (A) or (B), any limitation on the amount of any itemdescribed in either such paragraph which may be taken into account for purposes of computing the taxable income of a partner or shareholder shall be disregarded.
+&emsp;&emsp;For purposes of subparagraph (A) or (B), any limitation on the amount of any item described in either such paragraph which may be taken into account for purposes of computing the taxable income of a partner or shareholder shall be disregarded.
 
 #### (3) Applicable payments
 
@@ -252,7 +252,7 @@ Amendment by Pub. L. 105–34 applicable to taxable years beginning after Aug. 5
 
 Amendment by section 7721(c)(12) of Pub. L. 101–239 applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1989, see section 7721(d) of Pub. L. 101–239, set out as a note under section 461 of this title.
 
-Section 7821(b) of Pub. L. 101–239 provided that the amendment made by that section is effective with respect to taxable years beginning after 1988.
+Pub. L. 101–239, title VII, §7821(b), Dec. 19, 1989, 103 Stat. 2424, provided that the amendment made by that section is effective with respect to taxable years beginning after 1988.
 
 #### Effective Date of 1988 Amendment
 

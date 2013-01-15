@@ -68,5 +68,5 @@ Sections 6802, 6804 and 6806 of this title, referred to in text, were in the ori
 
 #### Short Title
 
-Pub. L. 108–447, div. J, title VIII, §801(a), Dec. 8, 2004, 118 Stat. 3377, provided that: “This title \[enacting this chapter, amending section 460<i>l</i>–6a of this title, repealing sections 3911, 5982, and 5991 to 5995 of this title, and repealing provisions set out as a note under 460<i>l</i>–6a of this title\] may be cited as the ‘Federal Lands Recreation Enhancement Act’.”
+Pub. L. 108–447, div. J, title VIII, §801(a), Dec. 8, 2004, 118 Stat. 3377, provided that: “This title \[enacting this chapter, amending section 460l–6a of this title, repealing sections 3911, 5982, and 5991 to 5995 of this title, and repealing provisions set out as a note under 460l–6a of this title\] may be cited as the ‘Federal Lands Recreation Enhancement Act’.”
 

@@ -76,7 +76,7 @@ The Commercial Service shall place primary emphasis on the promotion of exports 
 
 #### (2) Consul General
 
-&emsp;In any United States consulate in which a vacancy occurs in the position of Consul General, the Secretary of State, in consultation with the Secretary, shall consider filling that vacancy with a Commercial Service Officer if the primary functions of the consulate are of a commercial nature and if there are significant business opportunities for United States exporters in the region in which the consulate is located.
+&emsp;In any United States consulate in which a vacancy occurs in the position of Consul General, the Secretary of State, in consultation with the Secretary, shall consider filling that vacancy with a Commercial Service Officer if the primary functions of the consulate are of a commercial nature and if there are significant business opportunities for United Statesexporters in the region in which the consulate is located.
 
 #### (e) Information dissemination
 
@@ -134,7 +134,7 @@ For purposes of this section—
 
 #### References in Text
 
-The Foreign Service Act of 1980, referred to in subsec. (c)(4)(B), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, which is classified principally to chapter 52\(§3901 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
+The Foreign Service Act of 1980, referred to in subsec. (c)(4)(B), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, which is classified principally to chapter 52 (§3901 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
 
 #### Codification
 

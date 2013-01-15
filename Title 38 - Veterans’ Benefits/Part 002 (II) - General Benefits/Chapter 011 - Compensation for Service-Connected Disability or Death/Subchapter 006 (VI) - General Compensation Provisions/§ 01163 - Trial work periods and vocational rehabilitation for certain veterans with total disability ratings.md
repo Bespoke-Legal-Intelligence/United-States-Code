@@ -58,11 +58,11 @@ Subsec. (c)(4). Pub. L. 100–687, §1301(b)(1), struck out par. (4) which read 
 
 #### Effective Date of 1992 Amendment
 
-Section 2(d) of Pub. L. 102–291 provided that: “The amendments made by subsections (a) through (c) \[amending this section and sections 1524 and 1525 of this title\] shall take effect as of January 31, 1992.”
+Pub. L. 102–291, §2(d), May 20, 1992, 106 Stat. 178, provided that: “The amendments made by subsections (a) through (c) \[amending this section and sections 1524 and 1525 of this title\] shall take effect as of January 31, 1992.”
 
 #### Ratification of Actions of Secretary of Veterans Affairs During Lapsed Period
 
-Section 2(e) of Pub. L. 102–291 provided that: “The following actions of the Secretary of Veterans Affairs during the period beginning on February 1, 1992, and ending on the date of the enactment of this Act \[May 20, 1992\] are hereby ratified with respect to that period:
+Pub. L. 102–291, §2(e), May 20, 1992, 106 Stat. 178, provided that: “The following actions of the Secretary of Veterans Affairs during the period beginning on February 1, 1992, and ending on the date of the enactment of this Act \[May 20, 1992\] are hereby ratified with respect to that period:
 
 &emsp;“(1) A failure to reduce the disability rating of a veteran who began to engage in a substantially gainful occupation during that period.
 
@@ -72,9 +72,9 @@ Section 2(e) of Pub. L. 102–291 provided that: “The following actions of the
 
 #### Information; Temporary Program; Administrator
 
-Section 111(b) of Pub. L. 98–543 directed Administrator of Veterans’ Affairs to provide, not later than Apr. 1, 1985, to certain veterans with service-connected disabilities, a statement containing information explaining subsec. (b) of this section, information explaining purposes and availability of and eligibility for, and procedures for pursuing, a vocational rehabilitation program under chapter 31 of this title, and a summary description of scope of services and assistance available under chapter 31.
+Pub. L. 98–543, title I, §111(b), Oct. 24, 1984, 98 Stat. 2739, directed Administrator of Veterans’ Affairs to provide, not later than Apr. 1, 1985, to certain veterans with service-connected disabilities, a statement containing information explaining subsec. (b) of this section, information explaining purposes and availability of and eligibility for, and procedures for pursuing, a vocational rehabilitation program under chapter 31 of this title, and a summary description of scope of services and assistance available under chapter 31.
 
 #### Report to Congressional Committees; Trial Program
 
-Section 111(c) of Pub. L. 98–543, as amended by Pub. L. 99–576, title VII, §703(a)(2), Oct. 28, 1986, 100 Stat. 3303, directed Administrator of Veterans’ Affairs to submit, not later than Apr. 15, 1988, to Committees on Veterans’ Affairs of Senate and House of Representatives a report on results of implementation of this section during the three-year period beginning on Feb. 1, 1985.
+Pub. L. 98–543, title I, §111(c), Oct. 24, 1984, 98 Stat. 2739, as amended by Pub. L. 99–576, title VII, §703(a)(2), Oct. 28, 1986, 100 Stat. 3303, directed Administrator of Veterans’ Affairs to submit, not later than Apr. 15, 1988, to Committees on Veterans’ Affairs of Senate and House of Representatives a report on results of implementation of this section during the three-year period beginning on Feb. 1, 1985.
 

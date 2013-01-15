@@ -6,7 +6,7 @@ Sections 1500c–1 to 1500d–1 were omitted pursuant to section 5316 of this ti
 
 Section 1500c–1, Pub. L. 87–70, title VII, §705, as added Pub. L. 89–117, title IX, §906, Aug. 10, 1965, 79 Stat. 496; amended Pub. L. 90–19, §18(c), May 25, 1967, 81 Stat. 25; Pub. L. 91–609, title IV, §401, Dec. 31, 1970, 84 Stat. 1782, related to conversions of land involving historic or architectural purposes.
 
-Section 1500c–2, Pub. L. 87–70, title VII, §706, as added Pub. L. 89–117, title IX, §906, Aug. 10, 1965, 79 Stat. 496; amended Pub. L. 89–754, title VI, §605(e), Nov. 3, 1966, 80 Stat. 1280; Pub. L. 90–19, §18(c), May 25, 1967, 81 Stat. 25; Pub. L. 91–609, title IV, §401, Dec. 31, 1970, 84 Stat. 1783; Pub. L. 98–181, title I, §126(b)(3), Nov. 30, 1983, 97 Stat. 1175, related to acquisition of interests to guide urban development.
+Section 1500c–2, Pub. L. 87–70, title VII, §706, as added Pub. L. 89–117, title IX, §906, Aug. 10, 1965, 79 Stat. 496; amended Pub. L. 89–754, title VI, §605(e), Nov. 3, 1966, 80 Stat. 1280; Pub. L. 90–19, §18(c), May 25, 1967, 81 Stat. 25; Pub. L. 91–609, title IV, §401, Dec. 31, 1970, 84 Stat. 1783; Pub. L. 98–181, title I \[title I, §126(b)(3)\], Nov. 30, 1983, 97 Stat. 1175, related to acquisition of interests to guide urban development.
 
 Section 1500c–3, Pub. L. 87–70, title VII, §707, as added Pub. L. 89–117, title IX, §907, Aug. 10, 1965, 79 Stat. 496; amended Pub. L. 90–19, §18(c), May 25, 1967, 81 Stat. 25; Pub. L. 91–609, title IV, §401, Dec. 31, 1970, 84 Stat. 1783, related to labor standards.
 

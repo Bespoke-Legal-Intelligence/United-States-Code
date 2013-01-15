@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall establish and carry out a program for the identification and on-going medical evaluation of current and former Department of Energy employees who are subject to significant health risks as a result of the exposure of such employees to hazardous or radioactive substances during such employment.
+The Secretary shall establish and carry out a program for the identification and on-goingmedical evaluation of current and former Department of Energy employees who are subject to significant health risks as a result of the exposure of such employees to hazardous or radioactive substances during such employment.
 
 #### (b) Implementation of program
 
@@ -48,17 +48,19 @@ Not later than April 23, 1993, the Secretary shall enter into an agreement with 
 
 In this section:
 
-&emsp;(1) The term “Department of Energy defense nuclear facility” has the meaning given that term in section 2704(g) of this title.
+&emsp;(1) The term “Department of Energy defense nuclear facility” has the meaning given that term in section 2704(f) of this title.
 
 &emsp;(2) The term “Department of Energy employee” means any employee of the Department of Energy employed at a Department of Energy defense nuclear facility, including any employee of a contractor or subcontractor of the Department of Energy employed at such a facility.
 
-(Pub. L. 107–314, div. D, title XLVI, §4643, formerly Pub. L. 102–484, div. C, title XXXI, §3162, Oct. 23, 1992, 106 Stat. 2646; renumbered Pub. L. 107–314, div. D, title XLVI, §4643, and amended Pub. L. 108–136, div. C, title XXXI, §3141(i)(14), Nov. 24, 2003, 117 Stat. 1779.)
+(Pub. L. 107–314, div. D, title XLVI, §4643, formerly Pub. L. 102–484, div. C, title XXXI, §3162, Oct. 23, 1992, 106 Stat. 2646; renumbered Pub. L. 107–314, div. D, title XLVI, §4643, and amended Pub. L. 108–136, div. C, title XXXI, §3141(i)(14), Nov. 24, 2003, 117 Stat. 1779; Pub. L. 112–239, div. C, title XXXI, §3134(b)(2), Jan. 2, 2013, 126 Stat. 2193.)
 
 #### Codification
 
 Section was formerly classified to section 7274i of Title 42, The Public Health and Welfare, prior to renumbering by Pub. L. 108–136.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (d)(1). Pub. L. 112–239 substituted “section 2704(f)” for “section 2704(g)”.
 
 <b>2003</b>—Subsec. (b)(6). Pub. L. 108–136, §3141(i)(14)(D)(i), substituted “October 23, 1993” for “1 year after October 23, 1992”.
 

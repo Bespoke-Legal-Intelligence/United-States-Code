@@ -6,7 +6,7 @@ Notwithstanding section 302 of this title, and where adequate competition exists
 
 &emsp;(1) bid on a diplomatic construction or design project which has an estimated total project value exceeding $10,000,000; and
 
-&emsp;(2) bid on a diplomatic construction or design project which involves technical security,unless the project involves low-level technology, as determined by the Secretary of State.
+&emsp;(2) bid on a diplomatic construction or design project which involves technical security, unless the project involves low-level technology, as determined by the Secretary of State.
 
 #### (b) Exception
 
@@ -78,7 +78,7 @@ Subsec. (a)(2). Pub. L. 102–138, §131(2), amended par. (2) generally. Prior t
 
 &emsp;“(C) does not exceed a total value of $500,000.”
 
-<b>1990</b>—Subsec. (a)(2). Pub. L. 101–246 amended par. (2) generally. Prior to amendment, par. (2) read as follows:“bid on a diplomatic construction or design project which involves physical or technical security.”
+<b>1990</b>—Subsec. (a)(2). Pub. L. 101–246 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “bid on a diplomatic construction or design project which involves physical or technical security.”
 
 #### Effective Date of 1994 Amendment
 
@@ -86,5 +86,5 @@ Amendment by Pub. L. 103–236 applicable with respect to officials, offices, an
 
 #### Construction of United States Embassy in Ottawa
 
-Section 125 of Pub. L. 101–246 provided that: “Section 402(a) of the Diplomatic Security Act (22 U.S.C. 4852(a)) shall not apply to the construction or renovation of the United States Embassy in Ottawa, Canada.”
+Pub. L. 101–246, title I, §125, Feb. 16, 1990, 104 Stat. 27, provided that: “Section 402(a) of the Diplomatic Security Act (22 U.S.C. 4852(a)) shall not apply to the construction or renovation of the United States Embassy in Ottawa, Canada.”
 

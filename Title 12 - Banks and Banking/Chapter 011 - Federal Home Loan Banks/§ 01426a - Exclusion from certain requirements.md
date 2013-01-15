@@ -6,7 +6,7 @@ The Federal Home Loan Banks shall be exempt from compliance with—
 
 &emsp;(1) sections 78m(e), 78n(a), and 78n(c) of title 15, and related Commission regulations;
 
-&emsp;(2) section 78<i>o</i> of title 15, and related Commission regulations, with respect to transactions in the capital stock of a Federal Home Loan Bank;
+&emsp;(2) section 78o of title 15, and related Commission regulations, with respect to transactions in the capital stock of a Federal Home Loan Bank;
 
 &emsp;(3) section 78q–1 of title 15, and related Commission regulations, with respect to the transfer of the securities of a Federal Home Loan Bank; and
 
@@ -24,7 +24,7 @@ The members of the Federal Home Loan Bank System shall be exempt from compliance
 
 &emsp;&emsp;(A) exempted securities, within the meaning of section 77c(a)(2) of title 15; and
 
-&emsp;&emsp;(B) exempted securities, within the meaning of section 78c(a)(12)(A) of title 15, except to the extent provided in section 78<i>oo</i> of title 15.
+&emsp;&emsp;(B) exempted securities, within the meaning of section 78c(a)(12)(A) of title 15, except to the extent provided in section 78oo of title 15.
 
 #### (2) Other obligations
 

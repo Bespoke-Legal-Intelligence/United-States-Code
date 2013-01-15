@@ -10,5 +10,5 @@ Section is based on section 205(a) of House Resolution No. 988, Ninety-third Con
 
 #### Effective Date
 
-Section 101 of Pub. L. 93–554 provided that the enactment of House Resolution No. 988, Ninety-third Congress, Oct. 8, 1974, into permanent law is effective on Jan. 2, 1975. This chapter is derived from enactment into permanent law of section 205 of House Resolution No. 988.
+Pub. L. 93–554, title I, ch. III, Dec. 27, 1974, 88 Stat. 1777, provided that the enactment of House Resolution No. 988, Ninety-third Congress, Oct. 8, 1974, into permanent law is effective on Jan. 2, 1975. This chapter is derived from enactment into permanent law of section 205 of House Resolution No. 988.
 

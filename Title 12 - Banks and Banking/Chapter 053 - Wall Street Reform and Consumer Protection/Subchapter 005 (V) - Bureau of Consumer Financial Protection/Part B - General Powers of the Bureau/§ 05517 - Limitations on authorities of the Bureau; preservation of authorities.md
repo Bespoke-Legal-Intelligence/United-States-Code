@@ -280,7 +280,7 @@
 
 &emsp;For purposes of this subsection, the term “person regulated by the Farm Credit Administration” means any Farm Credit System institution that is chartered and subject to the provisions of the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.).
 
-#### (<i>l</i>) Exclusion for activities relating to charitable contributions
+#### (l) Exclusion for activities relating to charitable contributions
 
 #### (1) In general
 
@@ -296,13 +296,13 @@ The Bureau may not define as a financial product or service, by regulation or ot
 
 #### (n) Limited authority of the Bureau
 
-Notwithstanding subsections (a) through (h) and (<i>l</i>), a person subject to or described in one or more of such provisions—
+Notwithstanding subsections (a) through (h) and (l), a person subject to or described in one or more of such provisions—
 
 &emsp;(1) may be a service provider; and
 
 &emsp;(2) may be subject to requests from, or requirements imposed by, the Bureau regarding information in order to carry out the responsibilities and functions of the Bureau and in accordance with section 5512, 5562, or 5563 of this title.
 
-#### (<i>o</i>) No authority to impose usury limit
+#### (o) No authority to impose usury limit
 
 No provision of this title <sup>1</sup> shall be construed as conferring authority on the Bureau to establish a usury limit applicable to an extension of credit offered or made by a covered person to a consumer, unless explicitly authorized by law.
 

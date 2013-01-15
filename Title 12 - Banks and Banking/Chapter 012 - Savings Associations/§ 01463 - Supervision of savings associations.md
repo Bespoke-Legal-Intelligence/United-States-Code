@@ -14,7 +14,7 @@
 
 #### (2) Regulations for savings associations
 
-&emsp;The Comptroller may prescribe regulations with respect to savings associations, as the Comptroller determines to be appropriate to carry out the purposes of this chapter.
+&emsp;The Comptroller may prescribe regulations with respect to savings associations, as theComptroller determines to be appropriate to carry out the purposes of this chapter.
 
 #### (3) Safe and sound housing credit to be encouraged
 
@@ -24,7 +24,7 @@
 
 #### (1) In general
 
-&emsp;The Comptroller shall, by regulation, prescribe uniform accounting and disclosurestandards for savings associations, to be used in determining savings associations’ compliance with all applicable regulations.
+&emsp;The Comptroller shall, by regulation, prescribe uniform accounting and disclosure standards for savings associations, to be used in determining savings associations’ compliance with all applicable regulations.
 
 #### (2) Specific requirements for accounting standards
 
@@ -104,7 +104,7 @@ The savings accounts and share accounts of savings associations insured by the C
 
 #### (f) Federally related mortgage loan disclosures
 
-A savings association may not make a federally related mortgage loan to an agent, trustee, nominee, or other person acting in a fiduciary capacity without requiring that the identity of the person receiving the beneficial interest of such loan shall at all times be revealed to the savings association. At the request of the appropriate Federal banking agency, the savings association shall report to the appropriate Federal banking agency the identity of such person and the nature and amount of the loan.
+A savings association may not make a federally related mortgage loan to an agent, trustee,nominee, or other person acting in a fiduciary capacity without requiring that the identity of the person receiving the beneficial interest of such loan shall at all times be revealed to the savings association. At the request of the appropriate Federal banking agency, the savings association shall report to the appropriate Federal banking agency the identity of such person and the nature and amount of the loan.
 
 #### (g) Preemption of State usury laws
 

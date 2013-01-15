@@ -110,7 +110,65 @@ Amended standards.—The final rule shall contain any amended standards.
 
 (3)(A) The Secretary shall publish a final rule no later than January 1, 1994, to determine whether the standards established under paragraph (1) should be amended. Such rule shall contain such amendment, if any, and provide that the amendment shall apply to products manufactured on or after January 1, 1999. The Secretary shall publish a final rule no later than January 1, 1994, to determine whether the standards established under paragraph (2) shall be amended. Such rule shall contain such amendment, if any, and provide that the amendment shall apply to products manufactured on or after January 1, 2002.
 
-(B) The Secretary shall publish a final rule after January 1, 1994, and no later than January 1, 2001, to determine whether the standards in effect for central air conditioners and central air conditioning heat pumps should be amended. Such rule shall provide that any amendmentshall apply to products manufactured on or after January 1, 2006.
+(B) The Secretary shall publish a final rule after January 1, 1994, and no later than January 1, 2001, to determine whether the standards in effect for central air conditioners and central air conditioning heat pumps should be amended. Such rule shall provide that any amendment shall apply to products manufactured on or after January 1, 2006.
+
+(4)
+
+Standards for through-the-wall central air conditioners, through-the-wall central air conditioning heat pumps, and small duct, high velocity systems.—
+
+&emsp;(A)
+
+Definitions.—In this paragraph:
+
+&emsp;&emsp;(i)
+
+Small duct, high velocity system.—The term “small duct, high velocity system” means a heating and cooling product that contains a blower and indoor coil combination that—
+
+&emsp;&emsp;&emsp;(I) is designed for, and produces, at least 1.2 inches of external static pressure when operated at the certified air volume rate of 220–350 CFM per rated ton of cooling; and
+
+&emsp;&emsp;&emsp;(II) when applied in the field, uses high velocity room outlets generally greater than 1,000 fpm that have less than 6.0 square inches of free area.
+
+&emsp;&emsp;(ii)
+
+Through-the-wall central air conditioner; through-the-wall central air conditioning heat pump.—The terms “through-the-wall central air conditioner” and “through-the-wall central air conditioning heat pump” mean a central air conditioner or heat pump, respectively, that is designed to be installed totally or partially within a fixed-size opening in an exterior wall, and—
+
+&emsp;&emsp;&emsp;(I) is not weatherized;
+
+&emsp;&emsp;&emsp;(II) is clearly and permanently marked for installation only through an exterior wall;
+
+&emsp;&emsp;&emsp;(III) has a rated cooling capacity no greater than 30,000 Btu/hr;
+
+&emsp;&emsp;&emsp;(IV) exchanges all of its outdoor air across a single surface of the equipment cabinet; and
+
+&emsp;&emsp;&emsp;(V) has a combined outdoor air exchange area of less than 800 square inches (split systems) or less than 1,210 square inches (single packaged systems) as measured on the surface area described in subclause (IV).
+
+&emsp;&emsp;(iii)
+
+Revision.—The Secretary may revise the definitions contained in this subparagraph through publication of a final rule.
+
+&emsp;(B)
+
+Small-duct high-velocity systems.—
+
+&emsp;&emsp;(i)
+
+Seasonal energy efficiency ratio.—The seasonal energy efficiency ratio for small-duct high-velocity systems shall be not less than—
+
+&emsp;&emsp;&emsp;(I) 11.00 for products manufactured on or after January 23, 2006; and
+
+&emsp;&emsp;&emsp;(II) 12.00 for products manufactured on or after January 1, 2015.
+
+&emsp;&emsp;(ii)
+
+Heating seasonal performance factor.—The heating seasonal performance factor for small-duct high-velocity systems shall be not less than—
+
+&emsp;&emsp;&emsp;(I) 6.8 for products manufactured on or after January 23, 2006; and
+
+&emsp;&emsp;&emsp;(II) 7.2 for products manufactured on or after January 1, 2015.
+
+&emsp;(C)
+
+Subsequent rulemakings.—The Secretary shall conduct subsequent rulemakings for through-the-wall central air conditioners, through-the-wall central air conditioning heat pumps, and small duct, high velocity systems as part of any rulemaking under this section used to review or revise standards for other central air conditioners and heat pumps.
 
 #### (e) Standards for water heaters; pool heaters; direct heating equipment
 
@@ -157,6 +215,120 @@ Amended standards.—The final rule shall contain any amended standards.
 (4)(A) The Secretary shall publish final rules no later than January 1, 1992, to determine whether the standards established by paragraph (1), (2), or (3) for water heaters, pool heaters, and direct heating equipment should be amended. Such rule shall provide that any amendment shall apply to products manufactured on or after January 1, 1995.
 
 (B) The Secretary shall publish a final rule no later than January 1, 2000, to determine whether standards in effect for such products should be amended. Such rule shall provide that any such amendment shall apply to products manufactured on or after January 1, 2005.
+
+(5)
+
+Uniform efficiency descriptor for covered water heaters.—
+
+&emsp;(A)
+
+Definitions.—In this paragraph:
+
+&emsp;&emsp;(i)
+
+Covered water heater.—The term “covered water heater” means—
+
+&emsp;&emsp;&emsp;(I) a water heater; and
+
+&emsp;&emsp;&emsp;(II) a storage water heater, instantaneous water heater, and unfired hot water storage tank (as defined in section 6311 of this title).
+
+&emsp;&emsp;(ii)
+
+Final rule.—The term “final rule” means the final rule published under this paragraph.
+
+&emsp;(B)
+
+Publication of final rule.—Not later than 1 year after December 18, 2012, the Secretary shall publish a final rule that establishes a uniform efficiency descriptor and accompanying test methods for covered water heaters.
+
+&emsp;(C)
+
+Purpose.—The purpose of the final rule shall be to replace with a uniform efficiency descriptor—
+
+&emsp;&emsp;(i) the energy factor descriptor for water heaters established under this subsection; and
+
+&emsp;&emsp;(ii) the thermal efficiency and standby loss descriptors for storage water heaters, instantaneous water heaters, and unfired water storage tanks established under section 6313(a)(5) of this title.
+
+&emsp;(D)
+
+Effect of final rule.—
+
+&emsp;&emsp;(i)
+
+In general.—Notwithstanding any other provision of this subchapter, effective beginning on the effective date of the final rule, the efficiency standard for covered water heaters shall be denominated according to the efficiency descriptor established by the final rule.
+
+&emsp;&emsp;(ii)
+
+Effective date.—The final rule shall take effect 1 year after the date of publication of the final rule under subparagraph (B).
+
+&emsp;(E)
+
+Conversion factor.—
+
+&emsp;&emsp;(i)
+
+In general.—The Secretary shall develop a mathematical conversion factor for converting the measurement of efficiency for covered water heaters from the test procedures in effect on December 18, 2012, to the new energy descriptor established under the final rule.
+
+&emsp;&emsp;(ii)
+
+Application.—The conversion factor shall apply to models of covered water heaters affected by the final rule and tested prior to the effective date of the final rule.
+
+&emsp;&emsp;(iii)
+
+Effect on efficiency requirements.—The conversion factor shall not affect the minimum efficiency requirements for covered water heaters otherwise established under this subchapter.
+
+&emsp;&emsp;(iv)
+
+Use.—During the period described in clause (v), a manufacturer may apply the conversion factor established by the Secretary to rerate existing models of covered water heaters that are in existence prior to the effective date of the rule described in clause (v)(II) to comply with the new efficiency descriptor.
+
+&emsp;&emsp;(v)
+
+Period.—Clause (iv) shall apply during the period—
+
+&emsp;&emsp;&emsp;(I) beginning on the date of publication of the conversion factor in the Federal Register; and
+
+&emsp;&emsp;&emsp;(II) ending on the later of 1 year after the date of publication of the conversion factor, or December 31, 2015.
+
+&emsp;(F)
+
+Exclusions.—The final rule may exclude a specific category of covered water heaters from the uniform efficiency descriptor established under this paragraph if the Secretary determines that the category of water heaters—
+
+&emsp;&emsp;(i) does not have a residential use and can be clearly described in the final rule; and
+
+&emsp;&emsp;(ii) are <sup>1</sup> effectively rated using the thermal efficiency and standby loss descriptors applied (as of December 18, 2012) to the category under section 6313(a)(5) of this title.
+
+&emsp;(G)
+
+Options.—The descriptor set by the final rule may be—
+
+&emsp;&emsp;(i) a revised version of the energy factor descriptor in use as of December 18, 2012;
+
+&emsp;&emsp;(ii) the thermal efficiency and standby loss descriptors in use as of that date;
+
+&emsp;&emsp;(iii) a revised version of the thermal efficiency and standby loss descriptors;
+
+&emsp;&emsp;(iv) a hybrid of descriptors; or
+
+&emsp;&emsp;(v) a new approach.
+
+&emsp;(H)
+
+Application.—The efficiency descriptor and accompanying test method established under the final rule shall apply, to the maximum extent practicable, to all water heating technologies in use as of December 18, 2012, and to future water heating technologies.
+
+&emsp;(I)
+
+Participation.—The Secretary shall invite interested stakeholders to participate in the rulemaking process used to establish the final rule.
+
+&emsp;(J)
+
+Testing of alternative descriptors.—In establishing the final rule, the Secretary shall contract with the National Institute ofStandards and Technology, as necessary, to conduct testing and simulation of alternative descriptors identified for consideration.
+
+&emsp;(K)
+
+Existing covered water heaters.—A covered water heater shall be considered to comply with the final rule on and after the effective date of the final rule and with any revised labeling requirements established by the Federal Trade Commission to carry out the final rule if the covered water heater—
+
+&emsp;&emsp;(i) was manufactured prior to the effective date of the final rule; and
+
+&emsp;&emsp;(ii) complied with the efficiency standards and labeling requirements in effect prior to the final rule.
 
 #### (f) Standards for furnaces and boilers
 
@@ -206,7 +378,7 @@ In general.—The manufacturer shall equip each gas, oil, and electric hot water
 
 &emsp;&emsp;(ii)
 
-Single input rate.—For a boiler that fires at 1 input rate, the requirements of this subparagraph may be satisfied by providingan automatic means that allows the burner or heating element to fire only when the means has determined that the inferred heat load cannot be met by the residual heat of the water in the system.
+Single input rate.—For a boiler that fires at 1 input rate, the requirements of this subparagraph may be satisfied by providing an automatic means that allows the burner or heating element to fire only when the means has determined that the inferred heat load cannot be met by the residual heat of the water in the system.
 
 &emsp;&emsp;(iii)
 
@@ -226,7 +398,7 @@ Exception.—A boiler that is manufactured to operate without any need for elect
 
 (C) After January 1, 1997, and before January 1, 2007, the Secretary shall publish a final rule to determine whether standards in effect for such products should be amended. Such rule shall contain such amendment, if any, and provide that any amendment shall apply to products manufactured on or after January 1, 2012.
 
-(D) Notwithstanding any other provision of this chapter, if the requirements of subsection (<i>o</i>) of this section are met, not later than December 31, 2013, the Secretary shall consider and prescribe energy conservation standards or energy use standards for electricity used for purposes of circulating air through duct work.
+(D) Notwithstanding any other provision of this chapter, if the requirements of subsection\(o) of this section are met, not later than December 31, 2013, the Secretary shall consider and prescribe energy conservation standards or energy use standards for electricity used for purposes of circulating air through duct work.
 
 #### (g) Standards for dishwashers; clothes washers; clothes dryers; fluorescent lamp ballasts
 
@@ -283,7 +455,7 @@ Exception.—A boiler that is manufactured to operate without any need for elect
 
 (7)(A) The Secretary shall publish a final rule no later than January 1, 1992, to determine if the standards established under paragraph (5) should be amended, including whether such standards should be amended so that they would be applicable to ballasts described in paragraph (6) and other fluorescent lamp ballasts. Such rule shall contain such amendment, if any, and provide that the amendment shall apply to products manufactured on or after January 1, 1995.
 
-(B) After January 1, 1992, the Secretary shall publish a final rule no later than five years afterthe date of publication of a previous final rule. The Secretary shall determine in such rule whether to amend the standards in effect for fluorescent lamp ballasts, including whether such standards should be amended so that they would be applicable to additional fluorescent lamp ballasts.
+(B) After January 1, 1992, the Secretary shall publish a final rule no later than five years after the date of publication of a previous final rule. The Secretary shall determine in such rule whether to amend the standards in effect for fluorescent lamp ballasts, including whether such standards should be amended so that they would be applicable to additional fluorescent lamp ballasts.
 
 (C) Any amendment prescribed under subparagraph (B) shall apply to products manufactured after a date which is five years after—
 
@@ -326,7 +498,7 @@ Exception.—A boiler that is manufactured to operate without any need for elect
 
 &emsp;(i) a ballast that is designed for dimming to 50 percent or less of the maximum output of the ballast;
 
-&emsp;(ii) a ballast that is designed for use with 2 F96T12HO lamps at ambient temperatures of 20°F or less and for use in an outdoor sign; or
+&emsp;(ii) a ballast that is designed for use with 2 F96T12HO lamps at ambient temperatures of negative 20°F or less and for use in an outdoor sign; or
 
 &emsp;(iii) a ballast that has a power factor of less than 0.90 and is designed and labeled for use only in residential applications.
 
@@ -452,7 +624,7 @@ Lamps between 2.25–2.75 inches in diameter.—The standards specified in subpa
 
 (4) Not less than eight years after October 24, 1992, the Secretary shall initiate a rulemaking procedure and shall publish a final rule not later than nine years and six months after October 24, 1992, to determine if the standards in effect for fluorescent lamps and incandescent lamps should be amended. Such rule shall contain such amendment, if any, and provide that the amendment shall apply to products manufactured on or after the 36-month period beginning on the date such final rule is published.
 
-(5) Not later than the end of the 24-month period beginning on the date labeling requirements under section 6294(a)(2)(C) <sup>1</sup> of this title become effective, the Secretary shall initiate a rulemaking procedure to determine if the standards in effect for fluorescent lamps and incandescent lamps should be amended so that they would be applicable to additional general service fluorescent <sup>2</sup> and shall publish, not later than 18 months after initiating such rulemaking, a final rule including such amended standards, if any. Such rule shall provide that the amendment shall apply to products manufactured after a date which is 36 months after the date such rule is published.
+(5) Not later than the end of the 24-month period beginning on the date labeling requirements under section 6294(a)(2)(C) <sup>2</sup> of this title become effective, the Secretary shall initiate a rulemaking procedure to determine if the standards in effect for fluorescent lamps and incandescent lamps should be amended so that they would be applicable to additional general service fluorescent <sup>3</sup> and shall publish, not later than 18 months after initiating such rulemaking, a final rule including such amended standards, if any. Such rule shall provide that the amendment shall apply to products manufactured after a date which is 36 months after the date such rule is published.
 
 (6)
 
@@ -484,7 +656,7 @@ Amended standards.—If the Secretary determines that the standards in effect fo
 
 &emsp;&emsp;(iv)
 
-Phased-in effective dates.—The Secretary shall consider phased-in effectivedates under this subparagraph after considering—
+Phased-in effective dates.—The Secretary shall consider phased-in effective dates under this subparagraph after considering—
 
 &emsp;&emsp;&emsp;(I) the impact of any amendment on manufacturers, retiring and repurposing existing equipment, stranded investments, labor contracts, workers, and raw materials; and
 
@@ -556,17 +728,17 @@ Phased-in effective dates.—The Secretary shall consider phased-in effective da
 
 (3)(A) If the maximum flow rate requirements or the design requirements of ASME/ANSI Standard A112.18.1M–1989 are amended to improve the efficiency of water use of any type or class of showerhead or faucet and are approved by ANSI, the Secretary shall, not later than 12 months after the date of such amendment, publish a final rule establishing an amended uniform national standard for that product at the level specified in the amended ASME/ANSI Standard A112.18.1M and providing that such standard shall apply to products manufactured after a date which is 12 months after the publication of such rule, unless the Secretary determines, by rule published in the Federal Register, that adoption of a uniform national standard at the level specified in such amended ASME/ANSI Standard A112.18.1M—
 
-&emsp;(i) is not technologically feasible and economically justified under subsection (<i>o</i>) of this section;
+&emsp;(i) is not technologically feasible and economically justified under subsection (o) of this section;
 
 &emsp;(ii) is not consistent with the maintenance of public health and safety; or
 
 &emsp;(iii) is not consistent with the purposes of this chapter.
 
-(B)(i) As part of the rulemaking conducted under subparagraph (A), the Secretary shall also determine if adoption of a uniform national standard for any type or class of showerhead or faucet more stringent than such amended ASME/ANSI Standard A112.18.1M—
+(B)(i) As part of the rulemaking conducted under subparagraph (A), the Secretary shall also determine if adoption of a uniform national standard for any type or class of showerhead orfaucet more stringent than such amended ASME/ANSI Standard A112.18.1M—
 
 &emsp;(I) would result in additional conservation of energy or water;
 
-&emsp;(II) would be technologically feasible and economically justified under subsection (<i>o</i>) of this section; and
+&emsp;(II) would be technologically feasible and economically justified under subsection (o) of this section; and
 
 &emsp;(III) would be consistent with the maintenance of public health and safety.
 
@@ -612,7 +784,7 @@ Phased-in effective dates.—The Secretary shall consider phased-in effective da
 
 (3)(A) If the maximum flush volume requirements of ASME Standard A112.19.6–1990 are amended to improve the efficiency of water use of any low consumption water closet or low consumption urinal and are approved by ANSI, the Secretary shall, not later than 12 months after the date of such amendment, publish a final rule establishing an amended uniform national standard for that product at the level specified in amended ASME/ANSI Standard A112.19.6 and providing that such standard shall apply to products manufactured after a date which is one year after the publication of such rule, unless the Secretary determines, by rule published in the Federal Register, that adoption of a uniform national standard at the level specified in such amended ASME/ANSI Standard A112.19.6—
 
-&emsp;(i) is not technologically feasible and economically justified under subsection (<i>o</i>) of this section;
+&emsp;(i) is not technologically feasible and economically justified under subsection (o) of this section;
 
 &emsp;(ii) is not consistent with the maintenance of public health and safety; or
 
@@ -622,11 +794,11 @@ Phased-in effective dates.—The Secretary shall consider phased-in effective da
 
 &emsp;(I) would result in additional conservation of energy or water;
 
-&emsp;(II) would be technologically feasible and economically justified under subsection (<i>o</i>) of this section; and
+&emsp;(II) would be technologically feasible and economically justified under subsection (o) of this section; and
 
 &emsp;(III) would be consistent with the maintenance of public health and safety.
 
-(ii) If the Secretary makes an affirmative determination under clause (i), the final rule published under subparagraph (A) shall waive the provisions of section 6297(c) of this title with respect to any State regulation concerning the water use or water efficiency of such type orclass of low consumption water closet or low consumption urinal if such State regulation—
+(ii) If the Secretary makes an affirmative determination under clause (i), the final rule published under subparagraph (A) shall waive the provisions of section 6297(c) of this title with respect to any State regulation concerning the water use or water efficiency of such type or class of low consumption water closet or low consumption urinal if such State regulation—
 
 &emsp;(I) is more stringent than amended ASME/ANSI Standard A112.19.6 for such type or class of low consumption water closet or low consumption urinal and the standard in effect for such product on the day before the date on which a final rule is published under subparagraph (A); and
 
@@ -638,9 +810,9 @@ Phased-in effective dates.—The Secretary shall consider phased-in effective da
 
 &emsp;(ii) is applicable to any sale or installation of all products in such type or class of water closet or urinal.
 
-#### (<i>l</i>) Standards for other covered products
+#### (l) Standards for other covered products
 
-(1) The Secretary may prescribe an energy conservation standard for any type (or class) of covered products of a type specified in paragraph (19) <sup>1</sup> of section 6292(a) of this title if the requirements of subsections (<i>o</i>) and (p) of this section are met and the Secretary determines that—
+(1) The Secretary may prescribe an energy conservation standard for any type (or class) of covered products of a type specified in paragraph (19) <sup>2</sup> of section 6292(a) of this title if the requirements of subsections (o) and (p) of this section are met and the Secretary determines that—
 
 &emsp;(A) the average per household energy use within the United States by products of such type (or class) exceeded 150 kilowatt-hours (or its Btu equivalent) for any 12-month period ending before such determination;
 
@@ -650,9 +822,9 @@ Phased-in effective dates.—The Secretary shall consider phased-in effective da
 
 &emsp;(D) the application of a labeling rule under section 6294 of this title to such type (or class) is not likely to be sufficient to induce manufacturers to produce, and consumers and other persons to purchase, covered products of such type (or class) which achieve the maximum energy efficiency which is technologically feasible and economically justified.
 
-(2) Any new or amended standard for covered products of a type specified in paragraph (19) <sup>1</sup> of section 6292(a) of this title shall not apply to products manufactured within five years after the publication of a final rule establishing such standard.
+(2) Any new or amended standard for covered products of a type specified in paragraph (19) <sup>2</sup> of section 6292(a) of this title shall not apply to products manufactured within five years after the publication of a final rule establishing such standard.
 
-(3) The Secretary may, in accordance with subsections (<i>o</i>) and (p) of this section, prescribe an energy conservation standard for television sets. Any such standard may not become effective with respect to products manufactured before January 1, 1992.
+(3) The Secretary may, in accordance with subsections (o) and (p) of this section, prescribe an energy conservation standard for television sets. Any such standard may not become effective with respect to products manufactured before January 1, 1992.
 
 (4)
 
@@ -660,7 +832,7 @@ Energy efficiency standards for certain lamps.—
 
 &emsp;(A)
 
-In general.—The Secretary shall prescribe an energy efficiency standard for rough service lamps, vibration service lamps, 3-way incandescent lamps, 2,601–3,300 lumen general service incandescent lamps, and shatter-resistant lamps only in accordance with this paragraph.
+In general.—The Secretary shall prescribe an energy efficiency standard for rough service lamps, vibration service lamps, 3-way incandescent lamps, 2,601–3,300 lumen general service incandescent lamps, and shatter-resistant lamps in accordance with this paragraph.
 
 &emsp;(B)
 
@@ -722,7 +894,7 @@ Vibration service lamps.—
 
 &emsp;&emsp;(i)
 
-In general.—Effective beginning with the first year that the reported annual sales rate for vibration service lamps demonstrates actual unit sales of vibration service lamps that achieve levels that are at least 100 percent higher than modeled unit sales for that same year, the Secretary shall—
+In general.—Effective beginning with the first year that the reported annual sales rate for vibration service lamps demonstrates actual unit sales of vibration service lamps that achieve levels that are at least 100 percent higher than modeled unitsales for that same year, the Secretary shall—
 
 &emsp;&emsp;&emsp;(I) not later than 90 days after the end of the previous calendar year, issue a finding that the index has been exceeded; and
 
@@ -752,7 +924,7 @@ In general.—Effective beginning with the first year that the reported annual s
 
 Backstop requirement.—If the Secretary fails to complete an accelerated rulemaking in accordance with clause (i)(II), effective beginning 1 year after the date of issuance of the finding under clause (i)(I), the Secretary shall require that—
 
-&emsp;&emsp;&emsp;(I) each filament in a 3-way incandescent lamp meet the new maximum wattage requirements for the respective lumen range established under subsection (i)(1)(A) <sup>1</sup> ; and
+&emsp;&emsp;&emsp;(I) each filament in a 3-way incandescent lamp meet the new maximum wattage requirements for the respective lumen range established under subsection (i)(1)(A) <sup>2</sup> ; and
 
 &emsp;&emsp;&emsp;(II) 3-way lamps be sold at retail only in a package containing 1 lamp.
 
@@ -794,7 +966,7 @@ In general.—Except as provided in clause (ii), if the Secretary issues a final
 
 &emsp;&emsp;(ii)
 
-Backstop requirement.—If the Secretary imposes a backstop requirement as aresult of a failure to complete an accelerated rulemaking in accordance with clause (i)(II) of any of subparagraphs (D) through (G),<sup>3</sup> the requirement to collect and model data for the applicable type of lamp shall continue for an additional 2 years after the effective date of the backstop requirement.
+Backstop requirement.—If the Secretary imposes a backstop requirement as a result of a failure to complete an accelerated rulemaking in accordance with clause (i)(II) of any of subparagraphs (D) through (G),<sup>4</sup> the requirement to collect and model data for the applicable type of lamp shall continue for an additional 2 years after the effective date of the backstop requirement.
 
 #### (m) Amendment of standards
 
@@ -804,7 +976,7 @@ Backstop requirement.—If the Secretary imposes a backstop requirement as aresu
 
 &emsp;&emsp;(A) a notice of the determination of the Secretary that standards for the product do not need to be amended, based on the criteria established under subsection (n)(2); or
 
-&emsp;&emsp;(B) a notice of proposed rulemaking including new proposed standards based on the criteria established under subsection (<i>o</i>) and the procedures established under subsection (p).
+&emsp;&emsp;(B) a notice of proposed rulemaking including new proposed standards based on the criteria established under subsection (o) and the procedures established under subsection (p).
 
 #### (2) Notice
 
@@ -856,19 +1028,31 @@ Backstop requirement.—If the Secretary imposes a backstop requirement as aresu
 
 &emsp;(B) amended standards are technologically feasible; and
 
-&emsp;(C) amended standards are cost effective as described in subsection (<i>o</i>)(2)(B)(i)(II) of this section.
+&emsp;(C) amended standards are cost effective as described in subsection (o)(2)(B)(i)(II) of this section.
 
 > The grant of a petition by the Secretary under this subsection creates no presumption with respect to the Secretary's determination of any of the criteria in a rulemaking under this section.
 
-(3) An amendment prescribed under this subsection shall apply to products manufactured after a date which is 5 years after—
+(3)
+
+Notice of decision.—Not later than 180 days after the date of receiving a petition, the Secretary shall publish in the Federal Register a notice of, and explanation for, the decision of the Secretary to grant or deny the petition.
+
+(4)
+
+New or amended standards.—Not later than 3 years after the date of granting a petition for new or amended standards, the Secretary shall publish in the Federal Register—
+
+&emsp;(A) a final rule that contains the new or amended standards; or
+
+&emsp;(B) a determination that no new or amended standards are necessary.
+
+(5) An amendment prescribed under this subsection shall apply to products manufactured after a date which is 5 years after—
 
 &emsp;(A) the effective date of the previous amendment pursuant to this part; or
 
 &emsp;(B) if the previous final rule published under this part did not amend the standard, the earliest date by which a previous amendment could have been in effect, except that in no case may an amended standard apply to products manufactured within 3 years (for refrigerators, refrigerator-freezers, and freezers, room air conditioners, dishwashers, clothes washers, clothes dryers, fluorescent lamp ballasts, general service fluorescent lamps, incandescent reflector lamps, and kitchen ranges and ovens) or 5 years (for central air conditioners and heat pumps, water heaters, pool heaters, direct heating equipment and furnaces) after publication of the final rule establishing a standard.
 
-#### (<i>o</i>) Criteria for prescribing new or amended standards
+#### (o) Criteria for prescribing new or amended standards
 
-(1) The Secretary may not prescribe any amended standard which increases the maximum allowable energy use, or, in the case ofshowerheads, faucets, water closets, or urinals, water use, or decreases the minimum required energy efficiency, of a covered product.
+(1) The Secretary may not prescribe any amended standard which increases the maximum allowable energy use, or, in the case of showerheads, faucets, water closets, or urinals, water use, or decreases the minimum required energy efficiency, of a covered product.
 
 (2)(A) Any new or amended energy conservation standard prescribed by the Secretary under this section for any type (or class) of covered product shall be designed to achieve the maximum improvement in energy efficiency, or, in the case of showerheads, faucets, water closets, or urinals, water efficiency, which the Secretary determines is technologically feasible and economically justified.
 
@@ -1058,7 +1242,7 @@ Information disclosure.—
 
 &emsp;&emsp;(i)
 
-In general.—Not later than 90 days after the date of the publication of a final rule that establishes a regional standard for a product, the Federal Trade Commission shall undertake a rulemaking to determine the appropriate 1 or more methods for disclosing information so that consumers, distributors, contractors, and installers can easily determine whether a specific piece of equipment that is installed in a specific building is in conformance with the regional standard that applies to the building.
+In general.—Not later than 90 days after the date of the publication of a final rule that establishes a regional standard for a product, the Federal Trade Commission shall undertake a rulemaking to determine the appropriate 1 or more methods for disclosing information so that consumers, distributors, contractors, and installers can easily determine whether a specific piece of equipment that is installed in a specificbuilding is in conformance with the regional standard that applies to the building.
 
 &emsp;&emsp;(ii)
 
@@ -1080,7 +1264,7 @@ Any new or amended energy conservation standard shall be prescribed in accordanc
 
 &emsp;(2) After the publication of such proposed rulemaking, the Secretary shall, in accordance with section 6306 of this title, afford interested persons an opportunity, during a period of not less than 60 days, to present oral and written comments (including an opportunity to question those who make such presentations, as provided in such section) on matters relating to such proposed rule, including—
 
-&emsp;&emsp;(A) whether the standard to be prescribed is economically justified (taking into account those factors which the Secretary must consider under subsection (<i>o</i>)(2) of this section) or will result in the effects described in subsection (<i>o</i>)(4) of this section;
+&emsp;&emsp;(A) whether the standard to be prescribed is economically justified (taking into account those factors which the Secretary must consider under subsection (o)(2) of this section) or will result in the effects described in subsection (o)(4) of this section;
 
 &emsp;&emsp;(B) whether the standard will achieve the maximum improvement in energy efficiency which is technologically feasible;
 
@@ -1098,7 +1282,7 @@ Direct final rules.—
 
 In general.—On receipt of a statement that is submitted jointly by interested persons that are fairly representative of relevant points of view (including representatives of manufacturers of covered products, States, and efficiency advocates), as determined by the Secretary, and contains recommendations with respect to an energy or water conservation standard—
 
-&emsp;&emsp;&emsp;(i) if the Secretary determines that the recommended standard contained in the statement is in accordance with subsection (<i>o</i>) or section 6313(a)(6)(B) of this title, as applicable, the Secretary may issue a final rule that establishes an energy or water conservation standard and is published simultaneously with a notice of proposed rulemaking that proposes a new or amended energy or water conservation standard that is identical to the standard established in the final rule to establish the recommended standard (referred to in this paragraph as a “direct final rule”); or
+&emsp;&emsp;&emsp;(i) if the Secretary determines that the recommended standard contained in the statement is in accordance with subsection (o) or section 6313(a)(6)(B) of this title, as applicable, the Secretary may issue a final rule that establishes an energy or water conservation standard and is published simultaneously with a notice of proposed rulemaking that proposes a new or amended energy or water conservation standard that is identical to the standard established in the final rule to establish the recommended standard (referred to in this paragraph as a “direct final rule”); or
 
 &emsp;&emsp;&emsp;(ii) if the Secretary determines that a direct final rule cannot be issued based on the statement, the Secretary shall publish a notice of the determination, together with an explanation of the reasons for the determination.
 
@@ -1114,9 +1298,9 @@ Withdrawal of direct final rules.—
 
 In general.—Not later than 120 days after the date on which a direct final rule issued under subparagraph (A)(i) is published in the Federal Register, the Secretary shall withdraw the direct final rule if—
 
-&emsp;&emsp;&emsp;&emsp;(I) the Secretary receives 1 or more adverse public comments relating to the direct final rule under subparagraph (B)(i) <sup>4</sup> or any alternative joint recommendation; and
+&emsp;&emsp;&emsp;&emsp;(I) the Secretary receives 1 or more adverse public comments relating to the direct final rule under subparagraph (B)(i) <sup>5</sup> or any alternative joint recommendation; and
 
-&emsp;&emsp;&emsp;&emsp;(II) based on the rulemaking record relating to the direct final rule, the Secretary determines that such adverse public comments or alternative joint recommendation may provide a reasonable basis for withdrawing the direct final rule under subsection (<i>o</i>), section 6313(a)(6)(B) of this title, or any other applicable law.
+&emsp;&emsp;&emsp;&emsp;(II) based on the rulemaking record relating to the direct final rule, the Secretary determines that such adverse public comments or alternative joint recommendation may provide a reasonable basis for withdrawing the direct final rule under subsection (o), section 6313(a)(6)(B) of this title, or any other applicable law.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -1128,7 +1312,7 @@ Action on withdrawal.—On withdrawal of a direct final rule under clause (i), t
 
 &emsp;&emsp;&emsp;(iii)
 
-Treatment of withdrawn direct final rules.—A direct final rule that is withdrawn under clause (i) shall not be considered to be a final rule for purposes of subsection (<i>o</i>).
+Treatment of withdrawn direct final rules.—A direct final rule that iswithdrawn under clause (i) shall not be considered to be a final rule for purposes of subsection (o).
 
 &emsp;&emsp;(D)
 
@@ -1192,11 +1376,11 @@ External power supplies.—Not later than 2 years after August 8, 2005, the Secr
 
 &emsp;&emsp;(II)
 
-Battery chargers.—Not later than July 1, 2011, the Secretary shall issue a finalrule that prescribes energy conservation standards for battery chargers or classes of battery chargers or determine that no energy conservation standard is technically feasible and economically justified.
+Battery chargers.—Not later than July 1, 2011, the Secretary shall issue a final rule that prescribes energy conservation standards for battery chargers or classes of battery chargers or determine that no energy conservation standard is technically feasible and economically justified.
 
 (ii) For each product class, any energy conservation standards issued under clause (i) shall be set at the lowest level of energy use that—
 
-&emsp;(I) meets the criteria and procedures of subsections (<i>o</i>), (p), (q), (r), (s), and (t) of this section; and
+&emsp;(I) meets the criteria and procedures of subsections (o), (p), (q), (r), (s), and (t) of this section; and
 
 &emsp;(II) would result in significant overall annual energy savings, considering standby mode and other operating modes.
 
@@ -1322,15 +1506,15 @@ Administration.—In carrying out this subparagraph, the Secretary shall—
 
 &emsp;&emsp;&emsp;(II) restrict the eligibility of external power supplies for the exemption provided under this subparagraph on a finding that a substantial number of the external power supplies are being marketed to or installed in applications other than security or life safety alarm or surveillance systems.
 
-(7) <sup>5</sup>
+(4)
 
-End-use products.—An energy conservation standard for external power supplies shall not constitute an energy conservation standard for the separate end-use product to which the external power supplies is connected.
+End-use products.—An energy conservation standard for external power supplies shall not constitute an energy conservation standard for the separate end-use product to which the external power supply is connected.
 
 #### (v) Refrigerated beverage vending machines
 
 (1) Not later than 4 years after August 8, 2005, the Secretary shall prescribe, by rule, energy conservation standards for refrigerated bottle or canned beverage vending machines.
 
-(2) In establishing energy conservation standards under this subsection, the Secretary shall use the criteria and procedures prescribed under subsections (<i>o</i>) and (p) of this section.
+(2) In establishing energy conservation standards under this subsection, the Secretary shall use the criteria and procedures prescribed under subsections (o) and (p) of this section.
 
 (3) Any energy conservation standard prescribed under this subsection shall apply to products manufactured 3 years after the date of publication of a final rule establishing the energy conservation standard.
 
@@ -1447,7 +1631,7 @@ Dehumidifiers manufactured on or after october 1, 2012.—Dehumidifiers manufact
 
 #### (dd) Commercial prerinse spray valves
 
-Commercial prerinse spray valves manufactured on or after January 1, 2006, shall have a flow rate of not more than 1.6 gallons per minute.
+Commercial prerinse spray valves manufactured on or after January 1, 2006, shall have aflow rate of not more than 1.6 gallons per minute.
 
 #### (ee) Mercury vapor lamp ballasts
 
@@ -1495,11 +1679,11 @@ Mercury vapor lamp ballasts (other than specialty application mercury vapor lamp
 
 &emsp;(ii) shall be packaged with lamps to fill all sockets.
 
-(5)(A) After January 1, 2010, the Secretary may consider, and issue, if the requirements of subsections (<i>o</i>) and (p) of this section are met, amended energy efficiency standards for ceiling fan light kits.
+(5)(A) After January 1, 2010, the Secretary may consider, and issue, if the requirements of subsections (o) and (p) of this section are met, amended energy efficiency standards for ceiling fan light kits.
 
 (B) Any amended standards issued under subparagraph (A) shall apply to products manufactured not earlier than 2 years after the date of publication of the final rule establishing the amended standard.
 
-(6)(A) Notwithstanding any other provision of this chapter, the Secretary may consider, and issue, if the requirements of subsections (<i>o</i>) and (p) of this section are met, energy efficiency or energy use standards for electricity used by ceiling fans to circulate air in a room.
+(6)(A) Notwithstanding any other provision of this chapter, the Secretary may consider, and issue, if the requirements of subsections (o) and (p) of this section are met, energy efficiency or energy use standards for electricity used by ceiling fans to circulate air in a room.
 
 (B) In issuing the standards under subparagraph (A), the Secretary shall consider—
 
@@ -1585,11 +1769,11 @@ Mercury vapor lamp ballasts (other than specialty application mercury vapor lamp
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), based on the test procedures required under paragraph (2), any final rule establishing or revising a standard for a covered product, adopted after July 1, 2010, shall incorporate standby mode and off mode energy use into a single amended or new standard, pursuant to subsection (<i>o</i>), if feasible.
+&emsp;&emsp;Subject to subparagraph (B), based on the test procedures required under paragraph (2), any final rule establishing or revising a standard for a covered product, adopted after July 1, 2010, shall incorporate standby mode and off mode energy use into a single amended or new standard, pursuant to subsection (o), if feasible.
 
 #### (B) Separate standards
 
-&emsp;&emsp;If not feasible, the Secretary shall prescribe within the final rule a separate standard for standby mode and off mode energy consumption, if justified under subsection (<i>o</i>).
+&emsp;&emsp;If not feasible, the Secretary shall prescribe within the final rule a separate standard for standby mode and off mode energy consumption, if justified under subsection (o).
 
 #### (hh) Metal halide lamp fixtures
 
@@ -1651,7 +1835,7 @@ Mercury vapor lamp ballasts (other than specialty application mercury vapor lamp
 
 #### (A) In general
 
-&emsp;&emsp;Not later than January 1, 2019, the Secretary shall publish a final rule to determine whether the standards then in effect should be amended.
+&emsp;&emsp;Not later than January 1, 2019, the Secretary shall publish a final rule to determinewhether the standards then in effect should be amended.
 
 #### (B) Administration
 
@@ -1669,11 +1853,11 @@ Mercury vapor lamp ballasts (other than specialty application mercury vapor lamp
 
 Section 6297 of this title applies—
 
-&emsp;(1) to products for which energy conservation standards are to be established under subsection (<i>l</i>), (u), or (v) of this section beginning on the date on which a final rule is issued by the Secretary, except that any State or local standard prescribed or enacted for the product before the date on which the final rule is issued shall not be preempted until the energy conservation standard established under subsection (<i>l</i>), (u), or (v) of this section for the product takes effect; and
+&emsp;(1) to products for which energy conservation standards are to be established under subsection (l), (u), or (v) of this section beginning on the date on which a final rule is issued by the Secretary, except that any State or local standard prescribed or enacted for the product before the date on which the final rule is issued shall not be preempted until the energy conservation standard established under subsection (l), (u), or (v) of this section for the product takes effect; and
 
 &emsp;(2) to products for which energy conservation standards are established under subsections (w) through (hh) of this section on August 8, 2005, except that any State or local standard prescribed or enacted before August 8, 2005, shall not be preempted until the energy conservation standards established under subsections (w) through (hh) of this section take effect.
 
-(Pub. L. 94–163, title III, §325, Dec. 22, 1975, 89 Stat. 923; Pub. L. 94–385, title I, §161, Aug. 14, 1976, 90 Stat. 1140; Pub. L. 95–619, title IV, §422, Nov. 9, 1978, 92 Stat. 3259; Pub. L. 100–12, §5, Mar. 17, 1987, 101 Stat. 107; Pub. L. 100–357, §2(e), June 28, 1988, 102 Stat. 673; Pub. L. 102–486, title I, §123(f), Oct. 24, 1992, 106 Stat. 2824; Pub. L. 105–388, §5(a)(5), Nov. 13, 1998, 112 Stat. 3478; Pub. L. 109–58, title I, §135(c), Aug. 8, 2005, 119 Stat. 628; Pub. L. 110–140, title III, §§301(c), 303–305(a), 306(a), 307, 308(a), 309–311(a), 316(c)(2), (d), 321(a)(3), 322(b), 324(e), Dec. 19, 2007, 121 Stat. 1550, 1552, 1553, 1556, 1559–1561, 1563, 1573, 1577, 1588, 1593; Pub. L. 111–360, §1, Jan. 4, 2011, 124 Stat. 4051.)
+(Pub. L. 94–163, title III, §325, Dec. 22, 1975, 89 Stat. 923; Pub. L. 94–385, title I, §161, Aug. 14, 1976, 90 Stat. 1140; Pub. L. 95–619, title IV, §422, Nov. 9, 1978, 92 Stat. 3259; Pub. L. 100–12, §5, Mar. 17, 1987, 101 Stat. 107; Pub. L. 100–357, §2(e), June 28, 1988, 102 Stat. 673; Pub. L. 102–486, title I, §123(f), Oct. 24, 1992, 106 Stat. 2824; Pub. L. 105–388, §5(a)(5), Nov. 13, 1998, 112 Stat. 3478; Pub. L. 109–58, title I, §135(c), Aug. 8, 2005, 119 Stat. 628; Pub. L. 110–140, title III, §§301(c), 303–305(a), 306(a), 307, 308(a), 309–311(a), 316(c)(2), (d), 321(a)(3), 322(b), 324(e), Dec. 19, 2007, 121 Stat. 1550, 1552, 1553, 1556, 1559–1561, 1563, 1573, 1577, 1588, 1593; Pub. L. 111–360, §1, Jan. 4, 2011, 124 Stat. 4051; Pub. L. 112–210, §§3, 5(a), (c), 10(a)(1), (8), (11), (b)(1), Dec. 18, 2012, 126 Stat. 1514, 1517, 1519, 1522, 1524, 1525.)
 
 #### References in Text
 
@@ -1681,11 +1865,27 @@ This chapter, referred to in subsecs. (f)(4)(D), (j)(3)(A)(iii), (k)(3)(A)(iii),
 
 Subpar. (C) of section 6294(a)(2) of this title, referred to in subsec. (i)(5), was redesignated (D) and a new subpar. (C) was added by Pub. L. 110–140, title III, §324(d), Dec. 19, 2007, 121 Stat. 1593.
 
-Paragraph (19) of section 6292(a) of this title, referred to in subsec. (<i>l</i>)(1), (2), was redesignated (20) and a new par. (19) was added by Pub. L. 110–140, title III, §324(b), Dec. 19, 2007, 121 Stat. 1593.
+Paragraph (19) of section 6292(a) of this title, referred to in subsec. (l)(1), (2), was redesignated (20) and a new par. (19) was added by Pub. L. 110–140, title III, §324(b), Dec. 19, 2007, 121 Stat. 1593.
 
-Subsection (i), referred to in subsec. (<i>l</i>)(4)(F)(ii)(I), was amended by Pub. L. 110–140, title III, §322(b), Dec. 19, 2007, 121 Stat. 1588, by striking out par. (1) and adding a new par. (1), and as so amended, subsec. (i)(1)(A) does not relate to maximum wattage requirements. However, provisions similar to those contained in former subsec. (i)(1)(A) are now contained in subsec. (i)(1)(B). See 2007 Amendment notes below.
+Subsection (i), referred to in subsec. (l)(4)(F)(ii)(I), was amended by Pub. L. 110–140, title III, §322(b), Dec. 19, 2007, 121 Stat. 1588, by striking out par. (1) and adding a new par. (1), and as so amended, subsec. (i)(1)(A) does not relate to maximum wattage requirements. However, provisions similar to those contained in former subsec. (i)(1)(A) are now contained in subsec. (i)(1)(B). See 2007 Amendment notes below.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (d)(4). Pub. L. 112–210, §5(a), added par. (4).
+
+Subsec. (e)(5). Pub. L. 112–210, §3, added par. (5).
+
+Subsec. (g)(8)(C)(ii). Pub. L. 112–210, §10(b)(1), substituted “negative 20°F” for “20°F”.
+
+Subsec. (i)(1). Pub. L. 112–210, §10(a)(11), made technical amendment to directory language of Pub. L. 110–140, §322(b). See 2007 Amendment note below.
+
+Subsec. (l)(4)(A). Pub. L. 112–210, §10(a)(8), struck out “only” before “in accordance with this paragraph”.
+
+Subsec. (n)(3) to (5). Pub. L. 112–210, §5(c), added pars. (3) and (4) and redesignated former par. (3) as (5).
+
+Subsec. (u)(4). Pub. L. 112–210, §10(a)(1), redesignated par. (7) as (4) and substituted “supply is connected” for “supplies is connected”.
+
+Subsec. (u)(7). Pub. L. 112–210, §10(a)(1)(A), redesignated par. (7) as (4).
 
 <b>2011</b>—Subsec. (u)(3)(A). Pub. L. 111–360, §1(1), substituted “(E)” for “(D)”.
 
@@ -1703,7 +1903,7 @@ Subsec. (g)(9), (10). Pub. L. 110–140, §311(a)(2), added pars. (9) and (10).
 
 Subsec. (i). Pub. L. 110–140, §321(a)(3)(A)(i), which directed amendment of subsec. (i) by inserting “, general service incandescent lamps, intermediate base incandescent lamps, candelabra base incandescent lamps,” after “fluorescent lamps” in “section heading”, was executed by making the insertion in subsec. (i) heading to reflect the probable intent of Congress.
 
-Subsec. (i)(1). Pub. L. 110–140, §322(b), added par. (1) and struck out former par. (1) which related to, in subpar. (A), lamp efficacy, new maximum wattage, and CRI standards for general service fluorescent lamps, general service incandescent lamps, intermediate base incandescent lamps, candelabra base incandescent lamps, and incandescent reflector lamps, in subpar. (B), color rendering index requirements of certain general service or general illumination application lamps, in subpar. (C), maximum wattage of candelabra incandescent lamps and intermediate base incandescent lamps, in subpar. (D), petition for exemption from requirements, in subpar. (E), petition to establish standards, and, in subpar. (F), definition of effective date.
+Subsec. (i)(1). Pub. L. 110–140, §322(b), as amended by Pub. L. 112–210, §10(a)(11), added par. (1) and struck out former par. (1) which related to, in subpar. (A), lamp efficacy, new maximum wattage, and CRI standards for general service fluorescent lamps, general service incandescent lamps, intermediate base incandescent lamps, candelabra base incandescent lamps, and incandescent reflector lamps, in subpar. (B), color rendering index requirements of certain general service or general illumination application lamps, in subpar. (C), maximum wattage of candelabra incandescent lamps and intermediate base incandescent lamps, in subpar. (D), petition for exemption from requirements, in subpar. (E), petition to establish standards, and, in subpar. (F), definition of effective date.
 
 Pub. L. 110–140, §321(a)(3)(A)(ii), in subpar. (A), in introductory provisions, inserted “, general service incandescent lamps, intermediate base incandescent lamps, candelabra base incandescent lamps,” after “fluorescent lamps” and “, new maximum wattage,” after “lamp efficacy”, inserted tables relating to general service incandescent lamps and modified spectrum general service incandescent lamps, added subpars. (B) to (F), and struck out former subpar. (B) which read as follows: “For the purposes of the tables set forth in subparagraph (A), the term ‘effective date’ means the last day of the month set forth in the table which follows October 24, 1992.”
 
@@ -1711,11 +1911,11 @@ Subsec. (i)(5). Pub. L. 110–140, §321(a)(3)(A)(iii), struck out “and genera
 
 Subsec. (i)(6) to (8). Pub. L. 110–140, §321(a)(3)(A)(iv), (v), added par. (6) and redesignated former pars. (6) and (7) as (7) and (8), respectively.
 
-Subsec. (<i>l</i>)(4). Pub. L. 110–140, §321(a)(3)(B), added par. (4).
+Subsec. (l)(4). Pub. L. 110–140, §321(a)(3)(B), added par. (4).
 
 Subsec. (m). Pub. L. 110–140, §305(a), added subsec. (m) and struck out former subsec. (m) which related to further rulemaking.
 
-Subsec. (<i>o</i>)(6). Pub. L. 110–140, §306(a), added par. (6).
+Subsec. (o)(6). Pub. L. 110–140, §306(a), added par. (6).
 
 Subsec. (p)(1) to (3). Pub. L. 110–140, §307, redesignated pars. (2) to (4) as (1) to (3), respectively, and struck out former par. (1) which read as follows: “The Secretary—
 
@@ -1773,7 +1973,7 @@ Subsec. (g)(6)(B). Pub. L. 109–58, §135(c)(2)(A), inserted “and labeled” 
 
 Subsec. (g)(8). Pub. L. 109–58, §135(c)(2)(B), added par. (8).
 
-Subsec. (<i>o</i>)(5). Pub. L. 109–58, §135(c)(3), added par. (5).
+Subsec. (o)(5). Pub. L. 109–58, §135(c)(3), added par. (5).
 
 Subsecs. (u) to (gg). Pub. L. 109–58, §135(c)(4), added subsecs. (u) to (gg).
 
@@ -1781,15 +1981,15 @@ Subsecs. (u) to (gg). Pub. L. 109–58, §135(c)(4), added subsecs. (u) to (gg).
 
 Subsec. (g). Pub. L. 105–388, §5(a)(5)(B), substituted “ballasts” for “ballasts;” in heading.
 
-<b>1992</b>—Subsecs. (i) to (k). Pub. L. 102–486, §123(f)(2), added subsecs. (i) to (k). Former subsecs. (i) to (k) redesignated (<i>l</i>) to (n), respectively.
+<b>1992</b>—Subsecs. (i) to (k). Pub. L. 102–486, §123(f)(2), added subsecs. (i) to (k). Former subsecs. (i) to (k) redesignated (l) to (n), respectively.
 
-Subsec. (<i>l</i>). Pub. L. 102–486, §123(f)(1), redesignated subsec. (i) as (<i>l</i>). Former subsec. (<i>l</i>) redesignated (<i>o</i>).
+Subsec. (l). Pub. L. 102–486, §123(f)(1), redesignated subsec. (i) as (l). Former subsec. (l) redesignated (o).
 
-Subsec. (<i>l</i>)(1). Pub. L. 102–486, §123(f)(3), substituted “paragraph (19)” for “paragraph (14)” and “subsections (<i>o</i>) and (p)” for “subsections (<i>l</i>) and (m)”.
+Subsec. (l)(1). Pub. L. 102–486, §123(f)(3), substituted “paragraph (19)” for “paragraph (14)” and “subsections (o) and (p)” for “subsections (l) and (m)”.
 
-Subsec. (<i>l</i>)(2). Pub. L. 102–486, §123(f)(3)(A), substituted “(19)” for “(14)”.
+Subsec. (l)(2). Pub. L. 102–486, §123(f)(3)(A), substituted “(19)” for “(14)”.
 
-Subsec. (<i>l</i>)(3). Pub. L. 102–486, §123(f)(3)(B), substituted “(<i>o</i>) and (p)” for “(<i>l</i>) and (m)”.
+Subsec. (l)(3). Pub. L. 102–486, §123(f)(3)(B), substituted “(o) and (p)” for “(l) and (m)”.
 
 Subsec. (m). Pub. L. 102–486, §123(f)(1), (4), redesignated subsec. (j) as (m) and substituted “(i)” for “(h)” in introductory provisions. Former subsec. (m) redesignated (p).
 
@@ -1797,27 +1997,27 @@ Subsec. (n). Pub. L. 102–486, §123(f)(1), redesignated subsec. (k) as (n). Fo
 
 Subsec. (n)(1). Pub. L. 102–486, §123(f)(5)(A), substituted “, and in paragraphs (13) and (14)” for “and in paragraph (13)” and “subsections (b) through (i)” for “subsections (b) through (h)”.
 
-Subsec. (n)(2)(C). Pub. L. 102–486, §123(f)(5)(B), substituted “subsection (<i>o</i>)(2)(B)(i)(II)” for “subsection (<i>l</i>)(2)(B)(i)(II)”.
+Subsec. (n)(2)(C). Pub. L. 102–486, §123(f)(5)(B), substituted “subsection (o)(2)(B)(i)(II)” for “subsection (l)(2)(B)(i)(II)”.
 
 Subsec. (n)(3)(B). Pub. L. 102–486, §123(f)(5)(C), inserted “general service fluorescent lamps, incandescent reflector lamps,” after “fluorescent lamp ballasts,”.
 
-Subsec. (<i>o</i>). Pub. L. 102–486, §123(f)(1), redesignated subsec. (<i>l</i>) as (<i>o</i>). Former subsec. (<i>o</i>) redesignated (r).
+Subsec. (o). Pub. L. 102–486, §123(f)(1), redesignated subsec. (l) as (o). Former subsec. (o) redesignated (r).
 
-Subsec. (<i>o</i>)(1). Pub. L. 102–486, §123(f)(6)(A), inserted “or, in the case of showerheads, faucets, water closets, or urinals, water use,” after “energy use,”.
+Subsec. (o)(1). Pub. L. 102–486, §123(f)(6)(A), inserted “or, in the case of showerheads, faucets, water closets, or urinals, water use,” after “energy use,”.
 
-Subsec. (<i>o</i>)(2)(A). Pub. L. 102–486, §123(f)(6)(B), inserted “, or, in the case of showerheads, faucets, water closets, or urinals, water efficiency,” after “energy efficiency”.
+Subsec. (o)(2)(A). Pub. L. 102–486, §123(f)(6)(B), inserted “, or, in the case of showerheads, faucets, water closets, or urinals, water efficiency,” after “energy efficiency”.
 
-Subsec. (<i>o</i>)(2)(B)(i)(III). Pub. L. 102–486, §123(f)(6)(C), inserted “, or as applicable, water,” after “energy”.
+Subsec. (o)(2)(B)(i)(III). Pub. L. 102–486, §123(f)(6)(C), inserted “, or as applicable, water,” after “energy”.
 
-Subsec. (<i>o</i>)(2)(B)(i)(VI). Pub. L. 102–486, §123(f)(6)(D), inserted “and water” after “energy”.
+Subsec. (o)(2)(B)(i)(VI). Pub. L. 102–486, §123(f)(6)(D), inserted “and water” after “energy”.
 
-Subsec. (<i>o</i>)(2)(B)(iii). Pub. L. 102–486, §123(f)(6)(E), substituted “energy, and as applicable, water, savings” for “energy savings”.
+Subsec. (o)(2)(B)(iii). Pub. L. 102–486, §123(f)(6)(E), substituted “energy, and as applicable, water, savings” for “energy savings”.
 
-Subsec. (<i>o</i>)(3)(B). Pub. L. 102–486, §123(f)(6)(F), inserted “, in the case of showerheads, faucets, water closets, or urinals, water, or” after “energy or”.
+Subsec. (o)(3)(B). Pub. L. 102–486, §123(f)(6)(F), inserted “, in the case of showerheads, faucets, water closets, or urinals, water, or” after “energy or”.
 
 Subsec. (p). Pub. L. 102–486, §123(f)(1), redesignated subsec. (m) as (p). Former subsec. (p) redesignated (s).
 
-Subsec. (p)(3)(A). Pub. L. 102–486, §123(f)(7), substituted “subsection (<i>o</i>)(2)” for “subsection (<i>l</i>)(2)” and “subsection (<i>o</i>)(4)” for “subsection (<i>l</i>)(4)”.
+Subsec. (p)(3)(A). Pub. L. 102–486, §123(f)(7), substituted “subsection (o)(2)” for “subsection (l)(2)” and “subsection (o)(4)” for “subsection (l)(4)”.
 
 Subsecs. (q) to (t). Pub. L. 102–486, §123(f)(1), redesignated subsecs. (n) to (q) as (q) to (t), respectively.
 
@@ -1851,6 +2051,12 @@ Subsecs. (e) to (j). Pub. L. 95–619 added subsecs. (e) to (j).
 
 Subsec. (a)(2). Pub. L. 94–385, §161(b), transferred authority to determine energy targets from the Administrator to the National Bureau of Standards and substituted one year after August 14, 1976, for one year after December 22, 1975, for the promulgation of rules by the Administrator.
 
+#### Effective Date of 2012 Amendment
+
+Amendment by section 10(a)(1), (8), (11) of Pub. L. 112–210 effective as if included in the Energy Independence and Security Act of 2007, Pub. L. 110–140, see section 10(a)(13) of Pub. L. 112–210, set out as a note under section 6291 of this title.
+
+Pub. L. 112–210, §10(b)(2), Dec. 18, 2012, 126 Stat. 1525, provided that: “This subsection \[amending this section\] and the amendment made by this subsection take effect as if included in the Energy Policy Act of 2005 (Public Law 109–58; 119 Stat. 594).”
+
 #### Effective Date of 2007 Amendment
 
 Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
@@ -1875,13 +2081,13 @@ Authorization of appropriations.—There are authorized to be appropriated to ca
 
 Termination of authority.—The program under this subsection shall terminate on September 30, 2015.”
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “is”.</i>
 
-<i><sup>2</sup></i><i> So in original. The word “lamps” probably should appear after “fluorescent”.</i>
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 
-<i><sup>3</sup></i><i> So in original. Subpar. (G) does not contain a cl. (i)(II).</i>
+<i><sup>3</sup></i><i> So in original. The word “lamps” probably should appear after “fluorescent”.</i>
 
-<i><sup>4</sup></i><i> So in original. Probably should be “subparagraph (A)(i)”.</i>
+<i><sup>4</sup></i><i> So in original. Subpar. (G) does not contain a cl. (i)(II).</i>
 
-<i><sup>5</sup></i><i> So in original. Probably should be “(4)”.</i>
+<i><sup>5</sup></i><i> So in original. Probably should be “subparagraph (A)(i)”.</i>
 

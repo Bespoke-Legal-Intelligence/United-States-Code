@@ -12,7 +12,7 @@ Of the amounts appropriated to carry out this part for any fiscal year, the Corp
 
 #### (A) Allotments based on school-age youth
 
-&emsp;&emsp;From 50 percent of such remainder, the Corporation shall allot to each State an amount that bears the same ratio to 50 percent of such remainder as the number of school-age youth in the State bears to the total number of school-age youth in all States.
+&emsp;&emsp;From 50 percent of such remainder, the Corporation shall allot to each State an amount that bears the same ratio to 50 percent of such remainder as the number of school-age youth in the State bears to thetotal number of school-age youth in all States.
 
 #### (B) Allotments based on allocations under Elementary and Secondary Education Act of 1965
 

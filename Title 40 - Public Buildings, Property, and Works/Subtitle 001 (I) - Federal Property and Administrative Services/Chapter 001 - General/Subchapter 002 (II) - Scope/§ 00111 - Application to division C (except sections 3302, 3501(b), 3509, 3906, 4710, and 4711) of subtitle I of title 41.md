@@ -54,7 +54,7 @@ In the following provisions, the words “this subtitle” are deemed to refer a
 
 &emsp;(26) Section 572(b)(4) of this title.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1065; Pub. L. 111–350, §5(<i>l</i>)(3), Jan. 4, 2011, 124 Stat. 3850.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1065; Pub. L. 111–350, §5(l)(3), Jan. 4, 2011, 124 Stat. 3850.)
 
 Historical and Revision Notes
 

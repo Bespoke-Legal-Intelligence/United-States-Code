@@ -4,7 +4,7 @@
 
 (2) Payments under this subsection are limited to payments which would otherwise be payable under section 2733 or 2734 of this title or section 715 of title 32.
 
-(3) The Secretary of a military department may delegate the authority to make payments under this subsection to the Judge Advocate General of an armed force under the jurisdiction of the Secretary. The Secretary may delegate such authority to any other officer or employee under the jurisdiction of the Secretary, but only with respect to the payment of amounts of $25,000 or less.
+(3) The Secretary of a military department may delegate the authority to make payments under this subsection to the Judge Advocate General of an armed force under the jurisdictionof the Secretary. The Secretary may delegate such authority to any other officer or employee under the jurisdiction of the Secretary, but only with respect to the payment of amounts of $25,000 or less.
 
 (4) Payments under this subsection shall be made under regulations prescribed by the Secretary of the military department concerned.
 
@@ -28,5 +28,5 @@ Subsec. (a). Pub. L. 90–521 substituted “under circumstances” for “as th
 
 #### Effective Date of 1988 Amendment
 
-Section 735(b) of Pub. L. 100–456 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to any claim which would otherwise be payable under section 2733 or 2734 of title 10, United States Code, or under section 715 of title 32, United States Code, and which has not been finally settled on or before the date of the enactment of this Act \[Sept. 29, 1988\].”
+Pub. L. 100–456, div. A, title VII, §735(b), Sept. 29, 1988, 102 Stat. 2006, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to any claim which would otherwise be payable under section 2733 or 2734 of title 10, United States Code, or under section 715 of title 32, United States Code, and which has not been finally settled on or before the date of the enactment of this Act \[Sept. 29, 1988\].”
 

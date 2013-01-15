@@ -43,6 +43,7 @@
 | [3696\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003696%20-%20Limitation%20on%20certain%20advertising%2C%20sales%2C%20and%20enrollment%20practices.md) | Limitation on certain advertising, sales, and enrollment practices. |
 | [3697\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003697%20-%20Funding%20of%20contract%20educational%20and%20vocational%20counseling.md) | Funding of contract educational and vocational counseling. |
 | [3697A.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003697A%20-%20Educational%20and%20vocational%20counseling.md) | Educational and vocational counseling. |
+| [3698\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003698%20-%20Comprehensive%20policy%20on%20providing%20education%20information%20to%20veterans.md) | Comprehensive policy on providing education information to veterans. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -50,11 +51,13 @@
 
 |  |
 | :--- |
-| \[3698, 3699. Repealed.\] |
+| \[3699. Repealed.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2013</b>—Pub. L. 112–249, §1(a)(2), Jan. 10, 2013, 126 Stat. 2400, added item 3698.
 
 <b>2008</b>—Pub. L. 110–389, title III, §326(a)(2)(B), Oct. 10, 2008, 122 Stat. 4169, substituted “Approval activities: cooperation and coordination of activities” for “Cooperation” in item 3673.
 

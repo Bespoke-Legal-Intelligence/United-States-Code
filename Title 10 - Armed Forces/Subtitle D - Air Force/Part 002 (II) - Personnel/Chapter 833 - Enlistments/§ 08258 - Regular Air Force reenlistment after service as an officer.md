@@ -44,7 +44,7 @@ Subsec. (b)(2). Pub. L. 110–181, §506(b)(2)(B), substituted “the commission
 
 <b>1992</b>—Pub. L. 102–484 designated existing provisions as subsec. (a), added subsec. (b), and struck out at end of subsec. (a) “However, if his service as an officer terminated by a general discharge, he may, under regulations to be prescribed by the Secretary of the Air Force, be so reenlisted.”
 
-<b>1958</b>—Pub. L. 85–603 limited entitlement to be reenlisted in enlisted grade to those officers whose serviceterminated by an honorable discharge and those relieved from active duty for a purpose other than to await appellate review of a sentence that includes dismissal or dishonorable discharge, and provided that persons whose service terminated by a general discharge, may, under regulations to be prescribed by the Secretary of the Air Force, be so reenlisted.
+<b>1958</b>—Pub. L. 85–603 limited entitlement to be reenlisted in enlisted grade to those officers whose service terminated by an honorable discharge and those relieved from active duty for a purpose other than to await appellate review of a sentence that includes dismissal or dishonorable discharge, and provided that persons whose service terminated by a general discharge, may, under regulations to be prescribed by the Secretary of the Air Force, be so reenlisted.
 
 #### Effective Date of 1992 Amendment
 

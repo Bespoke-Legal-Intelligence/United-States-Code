@@ -12,9 +12,9 @@
 
 #### Effective Date
 
-Section 6 of act Aug. 5, 1954, as amended by Pub. L. 86–121, §2, July 31, 1959, 73 Stat. 268, provided that: “Sections 1 to 5, inclusive, of this Act \[enacting this subchapter and repealing sections 444 to 449 of Title 25, Indians\] shall take effect July 1, 1959.”
+Act Aug. 5, 1954, ch. 658, §6, 68 Stat. 675, as amended by Pub. L. 86–121, §2, July 31, 1959, 73 Stat. 268, provided that: “Sections 1 to 5, inclusive, of this Act \[enacting this subchapter and repealing sections 444 to 449 of Title 25, Indians\] shall take effect July 1, 1959.”
 
 #### Transfer of Functions
 
-Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 

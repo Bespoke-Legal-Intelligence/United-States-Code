@@ -4,7 +4,7 @@
 
 #### (1) Statements of policy
 
-&emsp;(A) International narcotics trafficking poses an unparalleled transnational threat in today's world, and its suppression is among themost important foreign policy objectives of the United States.
+&emsp;(A) International narcotics trafficking poses an unparalleled transnational threat in today's world, and its suppression is among the most important foreign policy objectives of the United States.
 
 &emsp;(B) Under the Single Convention on Narcotic Drugs, 1961, and under the United Nations Convention Against Illicit Traffic in Narcotic Drugs and Psychotropic Substances, the parties are required to criminalize certain drug-related activities, provide appropriately severe penalties, and cooperate in the extradition of accused offenders.
 
@@ -64,7 +64,7 @@
 
 #### (1) Monitoring
 
-&emsp;The President, with the assistance of appropriate Federal agencies, shall monitor any useunder this part of a herbicide for aerial eradication in order to determine the impact of such use on the environment and on the health of individuals.
+&emsp;The President, with the assistance of appropriate Federal agencies, shall monitor any use under this part of a herbicide for aerial eradication in order to determine the impact of such use on the environment and on the health of individuals.
 
 #### (2) Annual reports
 
@@ -126,11 +126,11 @@ For purposes of this part and other provisions of this chapter relating specific
 
 &emsp;(8) the term “appropriate congressional committees” means the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate.
 
-(Pub. L. 87–195, pt. I, §481, as added Pub. L. 92–352, title V, §503, July 13, 1972, 86 Stat. 496; amended Pub. L. 93–189, §11(a), Dec. 17, 1973, 87 Stat. 719; Pub. L. 94–329, title V, §504(b), June 30, 1976, 90 Stat. 764; Pub. L. 95–384, §§3, 4, Sept. 26, 1978, 92 Stat. 730; Pub. L. 96–92, §3(b), Oct. 29, 1979, 93 Stat. 702; Pub. L. 97–113, title V, §502(a)(1), (b), title VII, §734(a)(1), Dec. 29, 1981, 95 Stat. 1538, 1539, 1560; Pub. L. 98–164, title X, §1003, Nov. 22, 1983, 97 Stat. 1053; Pub. L. 99–83, title VI, §§604–606, 618, Aug. 8, 1985, 99 Stat. 228, 229, 233; Pub. L. 99–570, title II, §§2005, 2008, 2009, 2017, Oct. 27, 1986, 100 Stat. 3207–61, 3207–64, 3207–68; Pub. L. 100–202, §101(e) \[title V, §585(a)\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–184; Pub. L. 100–204, title VIII, §805, Dec. 22, 1987, 101 Stat. 1397; Pub. L. 100–461, title V, §578(e)(2), (g)(1), (3), (h), (i), Oct. 1, 1988, 102 Stat. 2268–47, 2268–48; Pub. L. 100–690, title IV, §4202(b), 4401–4403, 4405(a), 4407(a), (b)(1), 4502, 4802(b), Nov. 18, 1988, 102 Stat. 4267, 4275–4277, 4281, 4285, 4294; Pub. L. 101–231, §§15, 17(a)–(f), Dec. 13, 1989, 103 Stat. 1963–1965; Pub. L. 102–550, title XV, §1519, Oct. 28, 1992, 106 Stat. 4060; Pub. L. 102–583, §§4(a)–(d), 5(b), 6(b)(1)–(3), 11(a), Nov. 2, 1992, 106 Stat. 4914, 4915, 4931, 4932, 4934; Pub. L. 103–447, title I, §101(a),\(b), Nov. 2, 1994, 108 Stat. 4691; Pub. L. 104–164, title I, §131(a), July 21, 1996, 110 Stat. 1429; Pub. L. 105–20, §2(b), June 27, 1997, 111 Stat. 234; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(Q), June 18, 2008, 122 Stat. 1820.)
+(Pub. L. 87–195, pt. I, §481, as added Pub. L. 92–352, title V, §503, July 13, 1972, 86 Stat. 496; amended Pub. L. 93–189, §11(a), Dec. 17, 1973, 87 Stat. 719; Pub. L. 94–329, title V, §504(b), June 30, 1976, 90 Stat. 764; Pub. L. 95–384, §§3, 4, Sept. 26, 1978, 92 Stat. 730; Pub. L. 96–92, §3(b), Oct. 29, 1979, 93 Stat. 702; Pub. L. 97–113, title V, §502(a)(1), (b), title VII, §734(a)(1), Dec. 29, 1981, 95 Stat. 1538, 1539, 1560; Pub. L. 98–164, title X, §1003, Nov. 22, 1983, 97 Stat. 1053; Pub. L. 99–83, title VI, §§604–606, 618, Aug. 8, 1985, 99 Stat. 228, 229, 233; Pub. L. 99–570, title II, §§2005, 2008, 2009, 2017, Oct. 27, 1986, 100 Stat. 3207–61, 3207–64, 3207–68; Pub. L. 100–202, §101(e) \[title V, §585(a)\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–184; Pub. L. 100–204, title VIII, §805, Dec. 22, 1987, 101 Stat. 1397; Pub. L. 100–461, title V, §578(e)(2), (g)(1), (3), (h), (i), Oct. 1, 1988, 102 Stat. 2268–47, 2268–48; Pub. L. 100–690, title IV, §4202(b), 4401–4403, 4405(a), 4407(a), (b)(1), 4502, 4802(b), Nov. 18, 1988, 102 Stat. 4267, 4275–4277, 4281, 4285, 4294; Pub. L. 101–231, §§15, 17(a)–(f), Dec. 13, 1989, 103 Stat. 1963–1965; Pub. L. 102–550, title XV, §1519, Oct. 28, 1992, 106 Stat. 4060; Pub. L. 102–583, §§4(a)–(d), 5(b), 6(b)(1)–(3), 11(a), Nov. 2, 1992, 106 Stat. 4914, 4915, 4931, 4932, 4934; Pub. L. 103–447, title I, §101(a), (b), Nov. 2, 1994, 108 Stat. 4691; Pub. L. 104–164, title I, §131(a), July 21, 1996, 110 Stat. 1429; Pub. L. 105–20, §2(b), June 27, 1997, 111 Stat. 234; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(Q), June 18, 2008, 122 Stat. 1820.)
 
 #### References in Text
 
-The National Narcotics Leadership Act of 1988, referred to in subsec. (b)(1), is subtitle A of title I of Pub. L. 100–690, Nov. 18, 1988, 102 Stat. 4181, as amended. Chapter 1 of the Act was classified principally to subchapter I (§1501 et seq.) of chapter 20 of Title 21, Food and Drugs, prior to repeal by Pub. L. 100–690, title I, §1009, Nov. 18, 1988, 102 Stat. 4188. For complete classification of this Act to the Code, see Tables.
+The National Narcotics Leadership Act of 1988, referred to in subsec. (b)(1), is subtitle A of title I of Pub. L. 100–690, Nov. 18, 1988, 102 Stat. 4181, as amended. Chapter 1 of the Act was classified principally to subchapter I (§1501 et seq.) of chapter 20 of Title 21, Foodand Drugs, prior to repeal by Pub. L. 100–690, title I, §1009, Nov. 18, 1988, 102 Stat. 4188. For complete classification of this Act to the Code, see Tables.
 
 Executive Order Number 12333, referred to in subsec. (b)(2), is set out as a note under section 401 of Title 50, War and National Defense.
 
@@ -190,7 +190,7 @@ Subsec. (c)(4). Pub. L. 102–583, §4(d), inserted “or archipelagic waters”
 
 Subsec. (d)(3). Pub. L. 102–583, §6(b)(1), substituted “section 2291h(a) of this title” for “subsection (e) of this section”.
 
-Subsec. (e). Pub. L. 102–583, §§6(b)(2), (3), 11(a), redesignated subsec. (i) as (e), substituted “Except as provided in sections 2291j(h) and (i) of this title with respect to the definition of major illicit drug producing country and major drug-transit country, for purposes of this part and other provisions of this chapter relating specifically to international narcotics matters” for “As used in this section” in introductory provisions, substituted “; and” for period at end of par. (5), added par. (6), and struck out former subsec. (e) which directed President to make annual reports to the Speaker of the House of Representatives and the Committeeon Foreign Relations of the Senate related to United States policy to promote an international strategy against the cultivation, and manufacture of and traffic in controlled substances, and described contents of those reports.
+Subsec. (e). Pub. L. 102–583, §§6(b)(2), (3), 11(a), redesignated subsec. (i) as (e), substituted “Except as provided in sections 2291j(h) and (i) of this title with respect to the definition of major illicit drug producing country and major drug-transit country, for purposes of this part and other provisions of this chapter relating specifically to international narcotics matters” for “As used in this section” in introductory provisions, substituted “; and” for period at end of par. (5), added par. (6), and struck out former subsec. (e) which directed President to make annual reports to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate related to United States policy to promote an international strategy against the cultivation, and manufacture of and traffic in controlled substances, and described contents of those reports.
 
 Pub. L. 102–550, §1519(b), added par. (7) and redesignated former pars. (7) and (8) as (8) and (9), respectively. As added, par. (7) read as follows:
 
@@ -266,7 +266,7 @@ Subsec. (h)(2)(B)(v). Pub. L. 101–231, §17(d)(3), substituted “essential pr
 
 Subsec. (h)(3)(D). Pub. L. 101–231, §17(d)(4), substituted “illicit production” for “production”.
 
-Subsec. (i)(2). Pub. L. 101–231, §17(e), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the term ‘major illicit drug producing country’ means a country producing five metric tons or more of opium or opium derivative during a fiscal year or producing five hundred metric tons or more of coca or marijuana (as the case may be) during a fiscal year;”.
+Subsec. (i)(2). Pub. L. 101–231, §17(e), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the term ‘major illicit drug producing country’ means a country producing five metric tons or more of opium or opium derivative during a fiscal year or producingfive hundred metric tons or more of coca or marijuana (as the case may be) during a fiscal year;”.
 
 Subsec. (k)(4). Pub. L. 101–231, §17(f), struck out par. (4) which required that reports under subsec. (e) discuss changes made since notification provided pursuant to subsec. (k)(2) and (3).
 
@@ -324,7 +324,7 @@ Subsec. (c). Pub. L. 99–570, §2009, amended subsec. (c) generally. Prior to a
 
 “(1) Notwithstanding any other provision of law, no officer or employee of the United States may engage or participate in any direct police arrest action in any foreign country with respect to narcotics control efforts. No such officer or employee may interrogate or be present during the interrogation of any United States person arrested in any foreign country with respect to narcotics control efforts without the written consent of such person. The provisions of this paragraph shall not apply to the activities of the United States Armed Forces in carrying out their responsibilities under applicable Status of Forces arrangements.
 
-“(2) Paragraph (1) of this subsection shall not prohibit officers and employees of the United States frombeing present during direct police arrest actions with respect to narcotic control efforts in a foreign country to the extent that the Secretary of State and the government of that country agree to such an exemption. The Secretary of State shall report any such agreement to the Congress before the agreement takes effect.”
+“(2) Paragraph (1) of this subsection shall not prohibit officers and employees of the United States from being present during direct police arrest actions with respect to narcotic control efforts in a foreign country to the extent that the Secretary of State and the government of that country agree to such an exemption. The Secretary of State shall report any such agreement to the Congress before the agreement takes effect.”
 
 Subsec. (e)(1). Pub. L. 99–570, §2005(b), substituted “March” for “February”.
 
@@ -386,7 +386,7 @@ Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. 
 
 #### Effective Date of 1987 Amendment
 
-Section 101(e) \[title V, §585(b)\] of Pub. L. 100–202 provided that: “The amendments made by paragraph (1) \[probably means subsec. (a) which amended this section\] shall apply with respect to any certification of the President under section 481(h)(2)(A) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2291(h)(2)(A)\] made on or after March 1, 1989.”
+Pub. L. 100–202, §101(e) \[title V, §585(b)\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–185, provided that: “The amendments made by paragraph (1) \[probably means subsec. (a) which amended this section\] shall apply with respect to any certification of the President under section 481(h)(2)(A) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2291(h)(2)(A)\] made on or after March 1, 1989.”
 
 #### Effective Date of 1985 Amendment
 
@@ -504,7 +504,7 @@ Definitions.—As used in this section—
 
 #### Debt-for-Drugs Exchanges
 
-Section 10 of Pub. L. 101–231 provided that:
+Pub. L. 101–231, §10, Dec. 13, 1989, 103 Stat. 1961, provided that:
 
 “(a)
 
@@ -536,27 +536,27 @@ Pub. L. 101–167, title V, §569(d), Nov. 21, 1989, 103 Stat. 1244, provided th
 
 #### Definition of Terms Used in International Narcotics Control Act of 1988
 
-Section 4003 of title IV of Pub. L. 100–690 defined terms “drug” and “narcotic” to mean narcotic and psychotropic drugs and other controlled substances as defined in subsec. (i)(3) of this section for purposes of title IV of Pub. L. 100–690, prior to repeal by Pub. L. 102–583, §6(e)(1), Nov. 2, 1992, 106 Stat. 4933.
+Pub. L. 100–690, title IV, §4003, Nov. 18, 1988, 102 Stat. 4263, defined terms “drug” and “narcotic” to mean narcotic and psychotropic drugs and other controlled substances as defined in subsec. (i)(3) of this section for purposes of title IV of Pub. L. 100–690, prior to repeal by Pub. L. 102–583, §6(e)(1), Nov. 2, 1992, 106 Stat. 4933.
 
 #### Regional Anti-Narcotics Forces
 
-Section 4101 of Pub. L. 100–690 stated need for anti-narcotics multinational force in Western Hemisphere and authorized diplomatic efforts toward creation of such a force, prior to repeal by Pub. L. 102–583, §6(e)(1), Nov. 2, 1992, 106 Stat. 4933.
+Pub. L. 100–690, title IV, §4101, Nov. 18, 1988, 102 Stat. 4263, stated need for anti-narcotics multinational force in Western Hemisphere and authorized diplomatic efforts toward creation of such a force, prior to repeal by Pub. L. 102–583, §6(e)(1), Nov. 2, 1992, 106 Stat. 4933.
 
 #### Determining Major Drug-Transit Countries With Respect to Fiscal Year 1989
 
-Section 4405(b) of Pub. L. 100–690 directed Secretary of State to make determination of major drug-transit countries with respect to fiscal year 1989, prior to repeal by Pub. L. 102–583, §6(e)(1), Nov. 2, 1992, 106 Stat. 4933.
+Pub. L. 100–690, title IV, §4405(b), Nov. 18, 1988, 102 Stat. 4276, directed Secretary of State to make determination of major drug-transit countries with respect to fiscal year 1989, prior to repeal by Pub. L. 102–583, §6(e)(1), Nov. 2, 1992, 106 Stat. 4933.
 
 #### Bilateral Narcotics Agreements Required for Certifications for Fiscal Year 1989 and Thereafter
 
-Section 101(e) \[title V, §585(c)\] of Pub. L. 100–202, as amended by Pub. L. 100–461, title V, §578(g)(2), Oct. 1, 1988, 102 Stat. 2268–47, provided that beginning with certifications with respect to fiscal year 1989 and each subsequent year, a country which in the previous year had been designated a major drug producing or drug transit country would not be deemed as cooperating fully unless it had in place a bilateral narcotics agreement with the United States, or a multilateral agreement which achieves the objectives of this section, prior to repeal by Pub. L. 100–690, title IV, §4407(b)(2), Nov. 18, 1988, 102 Stat. 4281.
+Pub. L. 100–202, §101(e) \[title V, §585(c)\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–185, as amended by Pub. L. 100–461, title V, §578(g)(2), Oct. 1, 1988, 102 Stat. 2268–47, provided that beginning with certifications with respect to fiscal year 1989 and each subsequent year, a country which in the previous year had been designated a major drug producing or drug transit country would not be deemed as cooperating fully unless it had in place a bilateral narcotics agreement with the United States, or a multilateral agreement which achieves the objectives of this section, prior to repeal by Pub. L. 100–690, title IV, §4407(b)(2), Nov. 18, 1988, 102 Stat. 4281.
 
 #### Review of Effectiveness of International Narcotics Control Assistance Program
 
-Section 2007 of Pub. L. 99–570 directed Comptroller General to review effectiveness of assistance provided under this part, prior to repeal by Pub. L. 102–583, §6(e)(2), Nov. 2, 1992, 106 Stat. 4933.
+Pub. L. 99–570, title II, §2007, Oct. 27, 1986, 100 Stat. 3207–64, directed Comptroller General to review effectiveness of assistance provided under this part, prior to repeal by Pub. L. 102–583, §6(e)(2), Nov. 2, 1992, 106 Stat. 4933.
 
 #### Multilateral Development Bank Assistance for Drug Eradication and Crop Substitution Programs
 
-Section 2018 of Pub. L. 99–570 provided that:
+Pub. L. 99–570, title II, §2018, Oct. 27, 1986, 100 Stat. 3207–68, provided that:
 
 “(a)
 
@@ -588,7 +588,7 @@ Narcotic drug and controlled substance.—The terms ‘narcotic drug’ and ‘c
 
 #### Reports to Congress on Drug Education Programs Abroad
 
-Section 2029 of Pub. L. 99–570 directed Director of United States Information Agency and Administrator of Agency for International Development to include in their annual reports to Congress a description of drug education programs carried out by their respective agencies, prior to repeal by Pub. L. 103–447, title I, §103(c), Nov. 2, 1994, 108 Stat. 4694.
+Pub. L. 99–570, title II, §2029, Oct. 27, 1986, 100 Stat. 3207–72, directed Director of United States Information Agency and Administrator of Agency for International Development to include in their annual reports to Congress a description of drug education programs carried out by their respective agencies, prior to repeal by Pub. L. 103–447, title I, §103(c), Nov. 2, 1994, 108 Stat. 4694.
 
 #### United States Senate Caucus on International Narcotics Control
 
@@ -636,7 +636,7 @@ Report to Senate.—The Caucus is authorized and directed to report to the Senat
 
 “(g)
 
-Authorization of Appropriations.—(1) There are authorized to be appropriated to the Caucus $370,000for each fiscal year, to remain available until expended, to assist in meeting the expenses of the Caucus for the purpose of carrying out the provisions of this section.
+Authorization of Appropriations.—(1) There are authorized to be appropriated to the Caucus $370,000 for each fiscal year, to remain available until expended, to assist in meeting the expenses of the Caucus for the purpose of carrying out the provisions of this section.
 
 “(2) For purposes of section 502(b) of the Mutual Security Act of 1954 (22 U.S.C. 1754(b)), the Caucus shall be deemed to be a standing committee of the Senate and shall be entitled to the use of funds in accordance with such section.
 
@@ -656,7 +656,7 @@ Pub. L. 99–151, title III, §306, Nov. 13, 1985, 99 Stat. 808, provided that:
 
 #### Drug Trafficking and Problem of Total Confidentiality of Certain Foreign Bank Accounts
 
-Section 619 of Pub. L. 99–83 provided that:
+Pub. L. 99–83, title VI, §619, Aug. 8, 1985, 99 Stat. 233, provided that:
 
 “(a)
 
@@ -680,7 +680,7 @@ Policy.—The Congress—
 
 #### Use of Funds Appropriated Prior to December 29, 1981, for Herbicide Eradication of Marihuana and Colombian Anti-Narcotics Enforcement Program
 
-Section 502(a)(2)–(4) of Pub. L. 97–113 provided that:
+Pub. L. 97–113, title V, §502(a)(2)–(4), Dec. 29, 1981, 95 Stat. 1539, provided that:
 
 “(2) Assistance provided from funds appropriated, before the enactment of this Act \[Dec. 29, 1981\], to carry out section 481 of the Foreign Assistance Act of 1961 \[this section\] may be made available for purposes prohibited by subsection (d) of such section as in effect immediately before the enactment of this subsection \[Dec. 29, 1981\].
 
@@ -690,7 +690,7 @@ Section 502(a)(2)–(4) of Pub. L. 97–113 provided that:
 
 #### United States Citizens Imprisoned in Mexico
 
-Section 408 of Pub. L. 94–329, title IV, June 30, 1976, 90 Stat. 759, as amended by Pub. L. 95–384, §29(b), Sept. 26, 1978, 92 Stat. 747, provided that:
+Pub. L. 94–329, title IV, §408, June 30, 1976, 90 Stat. 759, as amended by Pub. L. 95–384, §29(b), Sept. 26, 1978, 92 Stat. 747, provided that:
 
 “(a) The Congress, while sharing the concern of the President over the urgent need for international cooperation to restrict traffic in dangerous drugs, is convinced that such efforts must be consistent with respect for fundamental human rights. The Congress, therefore, calls upon the President to take steps to insure that United States efforts to secure stringent international law enforcement measures are combined with efforts to secure fair and humane treatment for citizens of all countries.
 

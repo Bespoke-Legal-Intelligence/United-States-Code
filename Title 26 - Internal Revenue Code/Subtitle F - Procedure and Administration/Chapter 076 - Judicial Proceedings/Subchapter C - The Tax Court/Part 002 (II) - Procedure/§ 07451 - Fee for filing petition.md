@@ -22,11 +22,11 @@ Pub. L. 109–280, title VIII, §859(b), Aug. 17, 2006, 120 Stat. 1020, provided
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning after Sept. 3, 1982, withprovision for the applicability of the amendment to any partnership taxable year ending after Sept. 3, 1982, if the partnership, each partner, and each indirect partner requests such application and the Secretary of the Treasury or his delegate consents to such application, see section 407(a)(1), (3) of Pub. L. 97–248, set out as an Effective Date note under section 6221 of this title.
+Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning after Sept. 3, 1982, with provision for the applicability of the amendment to any partnership taxable year ending after Sept. 3, 1982, if the partnership, each partner, and each indirect partner requests such application and the Secretary of the Treasury or his delegate consents to such application, see section 407(a)(1), (3) of Pub. L. 97–248, set out as an Effective Date note under section 6221 of this title.
 
 #### Effective Date of 1981 Amendment
 
-Section 751(b) of Pub. L. 97–34 provided that: “The amendment made by this section \[amending this section\] shall apply to petitions filed after December 31, 1981.”
+Pub. L. 97–34, title VII, §751(b), Aug. 13, 1981, 95 Stat. 349, provided that: “The amendment made by this section \[amending this section\] shall apply to petitions filed after December 31, 1981.”
 
 #### Effective Date of 1976 Amendment
 

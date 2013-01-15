@@ -38,7 +38,7 @@
 
 #### Effective Date of 1976 Amendment
 
-Section 27 of Pub. L. 94–582, as amended by Pub. L. 95–113, title XVI, §§1602(d), 1605(b), 1607(b), 1608, Sept. 29, 1977, 91 Stat. 1025, 1030, 1031; Pub. L. 106–472, title I, §110(c), Nov. 9, 2000, 114 Stat. 2061, provided that: “This Act \[see Short Title of 1976 Amendment note set out under section 71 of this title\] shall become effective thirty days after enactment hereof \[Oct. 21, 1976\].
+Pub. L. 94–582, §27, Oct. 21, 1976, 90 Stat. 2889, as amended by Pub. L. 95–113, title XVI, §§1602(d), 1605(b), 1607(b), 1608, Sept. 29, 1977, 91 Stat. 1025, 1030, 1031; Pub. L. 106–472, title I, §110(c), Nov. 9, 2000, 114 Stat. 2061, provided that: “This Act \[see Short Title of 1976 Amendment note set out under section 71 of this title\] shall become effective thirty days after enactment hereof \[Oct. 21, 1976\].
 
 #### Effective Date of 1968 Amendment
 

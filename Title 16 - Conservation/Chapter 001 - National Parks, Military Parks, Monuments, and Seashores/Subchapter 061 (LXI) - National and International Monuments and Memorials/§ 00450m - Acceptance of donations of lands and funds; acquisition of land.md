@@ -6,7 +6,7 @@ The Secretary of the Interior is authorized to accept donations of land, interes
 
 #### References in Text
 
-Hereunder, referred to in text, means act Aug. 21, 1935, which is classified to sections 450<i>l</i> to 450n of this title. For complete classification of this Act to the Code, see Tables.
+Hereunder, referred to in text, means act Aug. 21, 1935, which is classified to sections 450l to 450n of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 

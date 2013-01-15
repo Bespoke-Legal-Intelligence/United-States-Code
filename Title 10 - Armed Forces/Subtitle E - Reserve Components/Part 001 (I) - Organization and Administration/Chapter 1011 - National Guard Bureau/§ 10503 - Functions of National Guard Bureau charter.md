@@ -8,7 +8,7 @@ The Secretary of Defense, in consultation with the Chairman of the Joint Chiefs 
 
 &emsp;(3) Prescribing the training discipline and training requirements for the Army National Guard and the Air National Guard and the allocation of Federal funds for the training of the Army National Guard and the Air National Guard.
 
-&emsp;(4) Ensuring that units and members of the Army National Guard and the Air National Guard are trained by the States in accordance with approved programs and policies of, andguidance from, the Chief, the Secretary of the Army, and the Secretary of the Air Force.
+&emsp;(4) Ensuring that units and members of the Army National Guard and the Air National Guard are trained by the States in accordance with approved programs and policies of, and guidance from, the Chief, the Secretary of the Army, and the Secretary of the Air Force.
 
 &emsp;(5) Monitoring and assisting the States in the organization, maintenance, and operation of National Guard units so as to provide well-trained and well-equipped units capable of augmenting the active forces in time of war or national emergency.
 
@@ -34,15 +34,15 @@ The Secretary of Defense, in consultation with the Chairman of the Joint Chiefs 
 
 &emsp;&emsp;(ii) The Adjutants General of the States.
 
-&emsp;&emsp;(iii) The United States Joint Forces Command.
-
-&emsp;&emsp;(iv) The combatant command the geographic area of responsibility of which includes the United States.
+&emsp;&emsp;(iii) The combatant command the geographic area of responsibility of which includes the United States.
 
 &emsp;(14) Such other functions as the Secretary of Defense may prescribe.
 
-(Added Pub. L. 103–337, div. A, title IX, §904(a), Oct. 5, 1994, 108 Stat. 2825; amended Pub. L. 110–181, div. A, title XVIII, §1813(a)–(c)(1), Jan. 28, 2008, 122 Stat. 497, 498.)
+(Added Pub. L. 103–337, div. A, title IX, §904(a), Oct. 5, 1994, 108 Stat. 2825; amended Pub. L. 110–181, div. A, title XVIII, §1813(a)–(c)(1), Jan. 28, 2008, 122 Stat. 497, 498; Pub. L. 112–239, div. A, title X, §1081(3), Jan. 2, 2013, 126 Stat. 1960.)
 
 #### Amendments
+
+<b>2013</b>—Par. (13)(B)(iii), (iv). Pub. L. 112–239 redesignated cl. (iv) as (iii) and struck out former cl. (iii)which read as follows: “The United States Joint Forces Command.”
 
 <b>2008</b>—Pub. L. 110–181, §1813(c)(1), substituted “charter” for “charter from Secretaries of the Army and Air Force” in section catchline.
 

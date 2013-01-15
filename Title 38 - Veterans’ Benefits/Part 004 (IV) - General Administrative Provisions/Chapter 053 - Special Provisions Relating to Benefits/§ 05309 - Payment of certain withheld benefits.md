@@ -4,7 +4,7 @@
 
 (b) No payments shall be made for any period before the date claim therefor is filed under this section to any person whose award was terminated, or whose benefits were not paid, before July 1, 1954, because such person was a citizen or subject of Germany or Japan residing in Germany or Japan.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1232, §3109; Pub. L. 97–258, §3(k)(4), Sept. 13, 1982, 96 Stat.1065; Pub. L. 99–576, title VII, §701(75), Oct. 28, 1986, 100 Stat. 3297; renumbered §5309 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(a)(1), (3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1232, §3109; Pub. L. 97–258, §3(k)(4), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 99–576, title VII, §701(75), Oct. 28, 1986, 100 Stat. 3297; renumbered §5309 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(a)(1), (3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405.)
 
 #### Amendments
 

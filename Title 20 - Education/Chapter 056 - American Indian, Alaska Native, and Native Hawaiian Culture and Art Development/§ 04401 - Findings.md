@@ -28,5 +28,5 @@ Pub. L. 103–239, title VII, §721, May 4, 1994, 108 Stat. 606, provided that: 
 
 #### Short Title
 
-Section 1501 of title XV of Pub. L. 99–498 provided that: “This title \[enacting this chapter\] may be cited as the ‘American Indian, Alaska Native, and Native Hawaiian Culture and Art Development Act’.”
+Pub. L. 99–498, title XV, §1501, Oct. 17, 1986, 100 Stat. 1600, provided that: “This title \[enacting this chapter\] may be cited as the ‘American Indian, Alaska Native, and Native Hawaiian Culture and Art Development Act’.”
 

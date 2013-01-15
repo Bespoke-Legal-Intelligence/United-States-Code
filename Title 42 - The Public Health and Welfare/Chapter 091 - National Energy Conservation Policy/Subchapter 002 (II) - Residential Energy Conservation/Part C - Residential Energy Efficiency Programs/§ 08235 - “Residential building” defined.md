@@ -10,7 +10,7 @@ Section 6834 of this title, referred to in text, was repealed by Pub. L. 97–35
 
 #### Statement of Purpose
 
-Section 561 of subtitle C (§§562–563) of title V of Pub. L. 96–294 provided that: “It is the purpose of this subtitle \[enacting this part\]—
+Pub. L. 96–294, title V, §561, June 30, 1980, 94 Stat. 746, provided that: “It is the purpose of this subtitle \[subtitle C (§§561–563) of title V of Pub. L. 96–294, enacting this part\]—
 
 &emsp;“(1) to establish a program under which the Secretary of Energy may provide assistance to State and local governments to encourage up to four demonstration programs that make energy conservation measures available without charge to residential property owners and tenants under a plan designed to maximize the energy savings available in residential buildings in designated areas; and
 

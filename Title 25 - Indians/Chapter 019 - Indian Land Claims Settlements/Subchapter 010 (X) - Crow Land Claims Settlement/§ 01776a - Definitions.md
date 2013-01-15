@@ -20,7 +20,7 @@ As used in this subchapter:
 
 #### (5) Northern Cheyenne Tribe
 
-&emsp;The term “Northern Cheyenne Tribe” means the Northern Cheyenne Tribe of Indians, with the Northern Cheyenne Tribal Council as the duly recognized governing body of the Northern Cheyenne Indian Reservation.
+&emsp;The term “Northern Cheyenne Tribe” means the Northern Cheyenne Tribe of Indians, withthe Northern Cheyenne Tribal Council as the duly recognized governing body of the Northern Cheyenne Indian Reservation.
 
 #### (6) 107th meridian boundary dispute
 

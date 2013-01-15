@@ -18,7 +18,7 @@ Obligation of Funds.—Funds made available for a fiscal year may be obligated f
 
 #### Historical and Revision Notes
 
-Section is based on Pub. L. 99–190, §101(b) \[title VIII, §8005(e), (h), (<i>l</i>)\], Dec. 19, 1985, 99 Stat. 1185, 1202.
+Section is based on Pub. L. 99–190, §101(b) \[title VIII, §8005(e), (h), (l)\], Dec. 19, 1985, 99 Stat. 1185, 1202.
 
 #### Amendments
 

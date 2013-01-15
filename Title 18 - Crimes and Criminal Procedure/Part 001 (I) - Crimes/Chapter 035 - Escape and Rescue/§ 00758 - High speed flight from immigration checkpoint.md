@@ -10,7 +10,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 #### Congressional Findings
 
-Section 108(a) of div. C of Pub. L. 104–208 provided that: “The Congress finds as follows:
+Pub. L. 104–208, div. C, title I, §108(a), Sept. 30, 1996, 110 Stat. 3009–557, provided that: “The Congress finds as follows:
 
 &emsp;“(1) Immigration checkpoints are an important component of the national strategy to prevent illegal immigration.
 

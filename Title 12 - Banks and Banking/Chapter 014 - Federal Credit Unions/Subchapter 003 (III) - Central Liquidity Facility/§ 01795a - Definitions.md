@@ -6,13 +6,13 @@ As used in this subchapter, the term—
 
 &emsp;&emsp;(A) short-term adjustment credit available to assist in meeting temporary requirements for funds or to cushion more persistent outflows of funds pending an orderly adjustment of credit union assets and liabilities;
 
-&emsp;&emsp;(B) seasonal credit available for longer periods to assist in meeting seasonal needs forfunds arising from a combination of expected patterns of movement in share and deposit accounts and loans; and
+&emsp;&emsp;(B) seasonal credit available for longer periods to assist in meeting seasonal needs for funds arising from a combination of expected patterns of movement in share and deposit accounts and loans; and
 
-&emsp;&emsp;(C) protracted adjustment credit available in the event of unusual or emergency circumstances of a longer term nature resulting from national, regional or local difficulties.
+&emsp;&emsp;(C) protracted adjustment credit available in the event of unusual or emergency circumstances of a longer term nature resulting from national, regional or local difficulties.<sup>1</sup>
 
 &emsp;(2) “Central Liquidity Facility” or “Facility” means the National Credit Union Central Liquidity Facility;
 
-&emsp;(3) “paid-in and unimpaired capital and surplus” means the balance of the paid-in share accounts and deposits as of a given date, less any loss that may have been incurred for which there is no reserve or which has not been charged against undivided earnings, plus the credit balance (or less the debit balance) of the undivided earnings account as of a given date, after all losses have been provided for and net earnings or net losses have been added thereto or deducted therefrom. Reserves shall not be considered as part of surplus, and
+&emsp;(3) “paid-in and unimpaired capital and surplus” means the balance of the paid-in share accounts and deposits as of a given date, less any loss that may have been incurred for which there is no reserve or which has not been charged against undivided earnings, plus the credit balance (or less the debit balance) of the undivided earnings account as of a given date, after all losses have been provided for and net earnings or net losses have been added thereto or deducted therefrom. Reserves shall not be considered as part of surplus,<sup>2</sup> and
 
 &emsp;(4) “member” means a Regular or an Agent member of the Facility.
 
@@ -25,4 +25,8 @@ Section 309(b)(1) of Pub. L. 96–221 redesignated subch. III as title III of ac
 #### Amendments
 
 <b>1980</b>—Pub. L. 96–221, §309(b)(2), substituted “title” for “subchapter”, which for purposes of codification has been editorially translated as “subchapter”, thereby requiring no further change in text.
+
+<i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
+
+<i><sup>2</sup></i><i> So in original. The comma probably should be a semicolon.</i>
 

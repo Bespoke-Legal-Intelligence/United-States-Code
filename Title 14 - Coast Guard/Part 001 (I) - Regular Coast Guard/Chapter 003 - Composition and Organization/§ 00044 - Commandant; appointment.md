@@ -6,7 +6,7 @@ The President may appoint, by and with the advice and consent of the Senate, one
 
 #### Historical and Revision Notes
 
-Based on title 14, U.S.C., 1946 ed., §11 (Apr. 16, 1908, ch. 145, §§1, 2, 35 Stat. 61; Jan. 28, 1915, ch. 20, §1, 38Stat. 800; Jan. 12, 1923, ch. 25, §2, 42 Stat. 1130; Apr. 23, 1930, ch. 211, 46 Stat. 253; June 9, 1937, ch. 309, §1, 50 Stat. 252; June 6, 1940, ch. 257, §1(a), 54 Stat. 246).
+Based on title 14, U.S.C., 1946 ed., §11 (Apr. 16, 1908, ch. 145, §§1, 2, 35 Stat. 61; Jan. 28, 1915, ch. 20, §1, 38 Stat. 800; Jan. 12, 1923, ch. 25, §2, 42 Stat. 1130; Apr. 23, 1930, ch. 211, 46 Stat. 253; June 9, 1937, ch. 309, §1, 50 Stat. 252; June 6, 1940, ch. 257, §1(a), 54 Stat. 246).
 
 Said section has been divided. The provisions of the first proviso are placed in section 45 of this title, and the remainder is placed in this section.
 

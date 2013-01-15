@@ -18,7 +18,7 @@ Section was not enacted as part of the Solid Waste Disposal Act which comprises 
 
 #### Congressional Findings
 
-Section 101 of Pub. L. 100–556 provided that: “The Congress finds that—
+Pub. L. 100–556, title I, §101, Oct. 28, 1988, 102 Stat. 2779, provided that: “The Congress finds that—
 
 &emsp;“(1) plastic ring carrier devices have been found in large quantities in the marine environment;
 

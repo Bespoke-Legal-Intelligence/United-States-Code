@@ -4,5 +4,5 @@ Section, act Mar. 8, 1902, ch. 140, §8, 32 Stat. 55, made, “except as otherwi
 
 #### Savings Provision
 
-Subsec. (<i>l</i>) of section 56 of act Oct. 31, 1951, provided that the repeal of this section shall not affect any rights or liabilities existing hereunder on the effective date of such repeal \[Oct. 31, 1951.\].
+Act Oct. 31, 1951, ch. 655, §56(l), 65 Stat. 730, provided that the repeal of this section shall not affect any rights or liabilities existing hereunder on the effective date of such repeal \[Oct. 31, 1951\].
 

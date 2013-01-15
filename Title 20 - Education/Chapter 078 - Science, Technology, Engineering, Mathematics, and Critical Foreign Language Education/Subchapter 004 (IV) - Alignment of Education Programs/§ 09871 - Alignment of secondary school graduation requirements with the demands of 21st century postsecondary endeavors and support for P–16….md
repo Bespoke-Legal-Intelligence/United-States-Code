@@ -4,7 +4,7 @@
 
 It is the purpose of this section—
 
-&emsp;(1) to promote more accountability with respect to preparation for higher education, the 21st century workforce, and the Armed Forces, by aligning—
+&emsp;(1) to promote more accountability with respect to preparation for higher education, the21st century workforce, and the Armed Forces, by aligning—
 
 &emsp;&emsp;(A) student knowledge, student skills, State academic content standards and assessments, and curricula, in elementary and secondary education, especially with respect to mathematics, science, reading, and, where applicable, engineering and technology; with
 

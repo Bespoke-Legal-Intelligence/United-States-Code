@@ -14,9 +14,9 @@ For the purposes of this subchapter—
 
 #### Short Title of 1987 Amendment
 
-Section 1 of Pub. L. 100–139 provided: “That this Act \[amending this section and sections 712a to 712c of this title\] may be cited as the ‘Cow Creek Band of Umpqua Tribe of Indians Distribution of Judgment Funds Act of 1987’.”
+Pub. L. 100–139, §1, Oct. 26, 1987, 101 Stat. 822, provided: “That this Act \[amending this section and sections 712a to 712c of this title\] may be cited as the ‘Cow Creek Band of Umpqua Tribe of Indians Distribution of Judgment Funds Act of 1987’.”
 
 #### Short Title
 
-Section 1 of Pub. L. 97–391 provided that: “This Act \[enacting this subchapter\] may be cited as the ‘Cow Creek Band of Umpqua Tribe of Indians Recognition Act’.”
+Pub. L. 97–391, §1, Dec. 29, 1982, 96 Stat. 1960, provided that: “This Act \[enacting this subchapter\] may be cited as the ‘Cow Creek Band of Umpqua Tribe of Indians Recognition Act’.”
 

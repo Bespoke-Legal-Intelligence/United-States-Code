@@ -10,7 +10,7 @@ If Impeachment Warranted.—
 
 &emsp;(1)
 
-In general.—If the Judicial Conference concurs in the determination of the judicial council, or makes its own determination, that consideration of impeachment may be warranted, it shall so certify and transmit the determination and the record of proceedings to the House of Representatives for whatever action the House of Representatives considers to be necessary. Upon receipt of the determination and record of proceedings in the House of Representatives, the Clerk of the House of Representatives shall make available to thepublic the determination and any reasons for the determination.
+In general.—If the Judicial Conference concurs in the determination of the judicial council, or makes its own determination, that consideration of impeachment may be warranted, it shall so certify and transmit the determination and the record of proceedings to the House of Representatives for whatever action the House of Representatives considers to be necessary. Upon receipt of the determination and record of proceedings in the House of Representatives, the Clerk of the House of Representatives shall make available to the public the determination and any reasons for the determination.
 
 &emsp;(2)
 

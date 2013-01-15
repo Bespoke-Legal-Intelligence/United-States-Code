@@ -10,8 +10,13 @@
 | [1906\.](%C2%A7%2001906%20-%20List%20of%20laws%20inapplicable%20to%20procurements%20of%20commercial%20items.md) | List of laws inapplicable to procurements of commercial items. |
 | [1907\.](%C2%A7%2001907%20-%20List%20of%20laws%20inapplicable%20to%20procurements%20of%20commercially%20available%20off-the-shelf%20items.md) | List of laws inapplicable to procurements of commercially available off-the-shelf items. |
 | [1908\.](%C2%A7%2001908%20-%20Inflation%20adjustment%20of%20acquisition-related%20dollar%20thresholds.md) | Inflation adjustment of acquisition-related dollar thresholds. |
+| [1909\.](%C2%A7%2001909%20-%20Management%20of%20purchase%20cards.md) | Management of purchase cards. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+<b>2012</b>—Pub. L. 112–194, §2(a)(2), Oct. 5, 2012, 126 Stat. 1447, added item 1909.
 
 
 ---
@@ -26,3 +31,4 @@
 - [&sect; 01906 - List of laws inapplicable to procurements of commercial items](%C2%A7%2001906%20-%20List%20of%20laws%20inapplicable%20to%20procurements%20of%20commercial%20items.md)
 - [&sect; 01907 - List of laws inapplicable to procurements of commercially available off-the-shelf items](%C2%A7%2001907%20-%20List%20of%20laws%20inapplicable%20to%20procurements%20of%20commercially%20available%20off-the-shelf%20items.md)
 - [&sect; 01908 - Inflation adjustment of acquisition-related dollar thresholds](%C2%A7%2001908%20-%20Inflation%20adjustment%20of%20acquisition-related%20dollar%20thresholds.md)
+- [&sect; 01909 - Management of purchase cards](%C2%A7%2001909%20-%20Management%20of%20purchase%20cards.md)

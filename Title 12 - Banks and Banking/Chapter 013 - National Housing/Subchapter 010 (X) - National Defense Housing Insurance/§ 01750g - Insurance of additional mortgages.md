@@ -24,7 +24,7 @@ To be eligible for insurance under this section a mortgage shall meet the follow
 
 #### (c) Default; debentures; cash adjustment; certificate of claim
 
-The mortgagee shall be entitled to receive debentures in connection with mortgages insuredunder this section in the amount and under the conditions specified in subsection (g) of section 1713 of this title, and the references in said subsection (g) to the cash adjustment provided for in subsection (j) of section 1713 and to the certificate of claim provided for in subsection (h) of section 1713 shall be deemed to refer respectively to the cash adjustment provided for in subsection (c) of section 1750c of this title and to the certificate of claim provided for in subsection (d) of this section.
+The mortgagee shall be entitled to receive debentures in connection with mortgages insured under this section in the amount and under the conditions specified in subsection (g) of section 1713 of this title, and the references in said subsection (g) to the cash adjustment provided for in subsection (j) of section 1713 and to the certificate of claim provided for in subsection (h) of section 1713 shall be deemed to refer respectively to the cash adjustment provided for in subsection (c) of section 1750c of this title and to the certificate of claim provided for in subsection (d) of this section.
 
 #### (d) Certificate of claim; contents and payment
 
@@ -34,9 +34,9 @@ The certificate of claim issued by the Secretary to any mortgagee under this sec
 
 Debentures issued under this section shall be issued in accordance with the provisions of section 1750c(c) and (d) of this title except that such debentures shall be dated as of the date of default as determined in subsection (c) of this section, and shall bear interest from such date.
 
-#### (f) Applicability of section 1713(k), (<i>l</i>) of this title
+#### (f) Applicability of section 1713(k), (l) of this title
 
-The provisions of section 1713(k) and (<i>l</i>) of this title shall be applicable to mortgages insured under this section and to property acquired by the Secretary hereunder, except that, as applied to such mortgages and property, the reference therein to subsection (g) shall be construed to refer to subsection (c) of this section.
+The provisions of section 1713(k) and (l) of this title shall be applicable to mortgages insured under this section and to property acquired by the Secretary hereunder, except that, as applied to such mortgages and property, the reference therein to subsection (g) shall be construed to refer to subsection (c) of this section.
 
 #### (g) Applications under section 1743; credit for fees upon reapplication under this section
 
@@ -46,7 +46,7 @@ In any case where an application for insurance under section 1743 of this title 
 
 The Secretary shall grant preference to applications for insurance under this subchapter to mortgages covering housing of lower rents.
 
-(June 27, 1934, ch. 847, title IX, §908, as added Sept. 1, 1951, ch. 378, title II, §201, 65 Stat. 301; amended June 30, 1953, ch. 170, §10(c), 67 Stat. 124; Aug. 2, 1954, ch. 649, title I, §130, 68 Stat. 609; Pub. L. 89–117, title XI, §1108(z), Aug. 10, 1965, 79 Stat. 507; Pub. L. 90–19, §1(a)(2), (3), May 25, 1967, 81 Stat. 17.)
+(June 27, 1934, ch. 847, title IX, §908, as added Sept. 1, 1951, ch. 378, title II, §201, 65 Stat. 301; amended June 30, 1953, ch. 170, §10(c), 67 Stat.124; Aug. 2, 1954, ch. 649, title I, §130, 68 Stat. 609; Pub. L. 89–117, title XI, §1108(z), Aug. 10, 1965, 79 Stat. 507; Pub. L. 90–19, §1(a)(2), (3), May 25, 1967, 81 Stat. 17.)
 
 #### References in Text
 
@@ -62,7 +62,7 @@ Subsec. (g). Pub. L. 90–19, §1(a)(2), substituted “Secretary of Housing and
 
 Subsec. (d). Pub. L. 89–117, §1108(z)(2), struck out provision that reference in section 1713(h) of this title to “the Housing Insurance Fund” shall be deemed for the purposes of this section to be a reference to the National Defense Housing Insurance Fund.
 
-Subsec. (f). Pub. L. 89–117, §1108(z)(3), struck out provision that references in subsections (k) and (<i>l</i>) of section 1713 of this title “Housing Fund” shall be construed to refer to the “National Defense Housing Insurance Fund”.
+Subsec. (f). Pub. L. 89–117, §1108(z)(3), struck out provision that references in subsections (k) and (l) of section 1713 of this title “Housing Fund” shall be construed to refer to the “National Defense Housing Insurance Fund”.
 
 <b>1954</b>—Subsec. (b)(3). Act Aug. 2, 1954, substituted requirement that mortgagor shall enter into the agreement required by section 1715r of this title for former provisions relating to certification of builders’ costs, such certifications now being prescribed in said section 1715r.
 

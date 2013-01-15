@@ -52,7 +52,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Not later than 90 days after the date on which a notice is published under subparagraph (A)(i), the court shall consider any motion made by a purported class member in response to the notice, including any motion by a class member who is not individually named as a plaintiff in the complaint or complaints, and shall appoint as lead plaintiff the member or members of the purported plaintiff class that the court determines to be most capable of adequately representing the interests of class members (hereafter in this paragraph referred to as the “most adequate plaintiff”) in accordance with this subparagraph.
+&emsp;&emsp;&emsp;Not later than 90 days after the date on which a notice is published under subparagraph (A)(i), the court shall consider any motion made by a purported class member in response to the notice, including any motion by a class member who is not individually named as a plaintiff in the complaint or complaints, and shall appoint aslead plaintiff the member or members of the purported plaintiff class that the court determines to be most capable of adequately representing the interests of class members (hereafter in this paragraph referred to as the “most adequate plaintiff”) in accordance with this subparagraph.
 
 #### (ii) Consolidated actions
 
@@ -88,7 +88,7 @@
 
 #### (vi) Restrictions on professional plaintiffs
 
-&emsp;&emsp;&emsp;Except as the court may otherwise permit, consistent with the purposes of this section, a person may be a lead plaintiff, or an officer, director, or fiduciary of a lead plaintiff, in no more than 5 securitiesclass actions brought as plaintiff class actions pursuant to the Federal Rules of Civil Procedure during any 3-year period.
+&emsp;&emsp;&emsp;Except as the court may otherwise permit, consistent with the purposes of this section, a person may be a lead plaintiff, or an officer, director, or fiduciary of a lead plaintiff, in no more than 5 securities class actions brought as plaintiff class actions pursuant to the Federal Rules of Civil Procedure during any 3-year period.
 
 #### (4) Recovery by plaintiffs
 
@@ -156,7 +156,7 @@
 
 #### (3) Sanction for willful violation
 
-&emsp;A party aggrieved by the willful failure of an opposing party to comply with paragraph (2)may apply to the court for an order awarding appropriate sanctions.
+&emsp;A party aggrieved by the willful failure of an opposing party to comply with paragraph (2) may apply to the court for an order awarding appropriate sanctions.
 
 #### (4) Circumvention of stay of discovery
 
@@ -186,7 +186,7 @@
 
 &emsp;&emsp;The presumption described in subparagraph (A) may be rebutted only upon proof by the party or attorney against whom sanctions are to be imposed that—
 
-&emsp;&emsp;&emsp;(i) the award of attorneys’ fees and other expenses will impose an unreasonable burden on that party or attorney and would be unjust, and the failure to make such an award would not impose a greater burden on the party in whose favor sanctions are to be imposed; or
+&emsp;&emsp;&emsp;(i) the award of attorneys’ fees and other expenses will impose an unreasonable burden on that party or attorney and would be unjust, and the failure to make such anaward would not impose a greater burden on the party in whose favor sanctions are to be imposed; or
 
 &emsp;&emsp;&emsp;(ii) the violation of Rule 11(b) of the Federal Rules of Civil Procedure was de minimis.
 
@@ -216,7 +216,7 @@ Amendment by section 101(a)(2) of Pub. L. 105–353 not to affect or apply to an
 
 #### Effective Date
 
-Section not to affect or apply to any private action arising under this subchapter or title I of the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.), commenced before and pending on Dec. 22, 1995, see section 108 of Pub. L. 104–67, set out as an Effective Date of 1995 Amendment note under section 77<i>l</i> of this title.
+Section not to affect or apply to any private action arising under this subchapter or title I of the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.), commenced before and pending on Dec. 22, 1995, see section 108 of Pub. L. 104–67, set out as an Effective Date of 1995 Amendment note under section 77l of this title.
 
 #### Construction
 

@@ -6,7 +6,7 @@ In order to satisfy section 654(20)(A) of this title, each State must have in ef
 
 &emsp;(1)(A) Procedures described in subsection (b) of this section for the withholding from income of amounts payable as support in cases subject to enforcement under the State plan.
 
-&emsp;(B) Procedures under which the income of a person with a support obligation imposed by a support order issued (or modified) in the Statebefore January 1, 1994, if not otherwise subject to withholding under subsection (b) of this section, shall become subject to withholding as provided in subsection (b) of this section if arrearages occur, without the need for a judicial or administrative hearing.
+&emsp;(B) Procedures under which the income of a person with a support obligation imposed by a support order issued (or modified) in the State before January 1, 1994, if not otherwise subject to withholding under subsection (b) of this section, shall become subject to withholding as provided in subsection (b) of this section if arrearages occur, without the need for a judicial or administrative hearing.
 
 &emsp;(2) Expedited administrative and judicial procedures (including the procedures specified in subsection (c) of this section) for establishing paternity and for establishing, modifying, and enforcing support obligations. The Secretary may waive the provisions of this paragraph with respect to one or more political subdivisions within the State on the basis of the effectiveness and timeliness of support order issuance and enforcement or paternity establishment within the political subdivision (in accordance with the general rule for exemptions under subsection (d) of this section).
 
@@ -44,7 +44,7 @@ Procedures concerning genetic testing.—
 
 &emsp;&emsp;&emsp;(i)
 
-Genetic testing required in certain contested cases.—Procedures under which the State is required, in a contested paternity case (unless otherwise barred by State law) to require the child and all other parties (other than individuals found under section 654(29) of this title to have good cause and other exceptions for refusing to cooperate) to submit to genetic tests upon the request of any such party, if the request is supported by a sworn statement by the party—
+Genetic testing required in certain contested cases.—Procedures under which the State is required, in a contestedpaternity case (unless otherwise barred by State law) to require the child and all other parties (other than individuals found under section 654(29) of this title to have good cause and other exceptions for refusing to cooperate) to submit to genetic tests upon the request of any such party, if the request is supported by a sworn statement by the party—
 
 &emsp;&emsp;&emsp;&emsp;(I) alleging paternity, and setting forth facts establishing a reasonable possibility of the requisite sexual contact between the parties; or
 
@@ -156,7 +156,7 @@ Temporary support order based on probable paternity in contested cases.—Proced
 
 &emsp;&emsp;(K)
 
-Proof of certain support and paternity establishment costs.—Proceduresunder which bills for pregnancy, childbirth, and genetic testing are admissible as evidence without requiring third-party foundation testimony, and shall constitute prima facie evidence of amounts incurred for such services or for testing on behalf of the child.
+Proof of certain support and paternity establishment costs.—Procedures under which bills for pregnancy, childbirth, and genetic testing are admissible as evidence without requiring third-party foundation testimony, and shall constitute prima facie evidence of amounts incurred for such services or for testing on behalf of the child.
 
 &emsp;&emsp;(L)
 
@@ -194,7 +194,7 @@ Safeguards.—Procedures ensuring that, in carrying out subparagraph (A), inform
 
 &emsp;&emsp;(iii) The requirements of paragraphs (2), (5), (6), (7), (8), (9), and (10) of subsection (b) of this section, where applicable.
 
-&emsp;&emsp;(iv) Withholding from income of amounts payable as support must be carried out in full compliance with all procedural due process requirements of the State.
+&emsp;&emsp;(iv) Withholding from income of amounts payable as support must be carried out infull compliance with all procedural due process requirements of the State.
 
 &emsp;(9) Procedures which require that any payment or installment of support under any child support order, whether ordered through the State judicial system or through the expedited processes required by paragraph (2), is (on and after the date it is due)—
 
@@ -222,7 +222,7 @@ In general.—Procedures under which every 3 years (or such shorter cycle as the
 
 &emsp;&emsp;&emsp;&emsp;(II) apply a cost-of-living adjustment to the order in accordance with a formula developed by the State; or
 
-&emsp;&emsp;&emsp;&emsp;(III) use automated methods (including automated comparisons with wage or State income tax data) to identify orders eligible for review, conduct the review, identify orders eligible for adjustment,and apply the appropriate adjustment to the orders eligible for adjustment under any threshold that may be established by the State.
+&emsp;&emsp;&emsp;&emsp;(III) use automated methods (including automated comparisons with wage or State income tax data) to identify orders eligible for review, conduct the review, identify orders eligible for adjustment, and apply the appropriate adjustment to the orders eligible for adjustment under any threshold that may be established by the State.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -294,7 +294,7 @@ High-volume automated administrative enforcement.—In this part, the term “hi
 
 &emsp;(15)
 
-Procedures to ensure that persons owing overdue support work or have a plan for payment of such support.—Procedures under which the State has the authority, in any case in which an individual owes overduesupport with respect to a child receiving assistance under a State program funded under part A of this subchapter, to issue an order or to request that a court or an administrative process established pursuant to State law issue an order that requires the individual to—
+Procedures to ensure that persons owing overdue support work or have a plan for payment of such support.—Procedures under which the State has the authority, in any case in which an individual owes overdue support with respect to a child receiving assistance under a State program funded under part A of this subchapter, to issue an order or to request that a court or an administrative process established pursuant to State law issue an order that requires the individual to—
 
 &emsp;&emsp;(A) pay such support in accordance with a plan approved by the court, or, at the option of the State, a plan approved by the State agency administering the State program under this part; or
 
@@ -374,7 +374,7 @@ The procedures referred to in subsection (a)(1)(A) of this section (relating to 
 
 &emsp;(2) Such withholding must be provided without the necessity of any application therefor in the case of a child (whether or not eligible for assistance under a State program funded under part A of this subchapter) with respect to whom services are already being provided under the State plan under this part, and must be provided in accordance with this subsection on the basis of an application for services under the State plan in the case of any other child in whose behalf a support order has been issued or modified in the State. In either case such withholding must occur without the need for any amendment to the support order involved or for any further action (other than those actions required under this part) by the court or other entity which issued such order.
 
-&emsp;(3)(A) The income of a noncustodial parent shall be subject to such withholding, regardless of whether support payments by such parent are in arrears, in the case of a support order being enforced under this part that is issued or modified on or after the first day of the 25th month beginning after October 13, 1988, on the effective date of the order; except that such income shall not be subject to such withholding under this subparagraph in any case where (i) one of the parties demonstrates, and the court (or administrative process) finds, that there is good cause not to require immediate income withholding, or (ii) a written agreement is reached between both parties which provides for an alternative arrangement.
+&emsp;(3)(A) The income of a noncustodial parent shall be subject to such withholding, regardless of whether support payments by such parent are in arrears, in the case of a support order being enforced under this part that is issued or modified on or after the first day of the 25th month beginning after October 13, 1988, on the effective date of the order; except that such income shall not be subject to such withholding under this subparagraph in any case where (i) one of the parties demonstrates,and the court (or administrative process) finds, that there is good cause not to require immediate income withholding, or (ii) a written agreement is reached between both parties which provides for an alternative arrangement.
 
 &emsp;(B) The income of a noncustodial parent shall become subject to such withholding, in the case of income not subject to withholding under subparagraph (A), on the date on which the payments which the noncustodial parent has failed to make under a support order are at least equal to the support payable for one month or, if earlier, and without regard to whether there is an arrearage, the earliest of—
 
@@ -572,7 +572,7 @@ The Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(
 
 #### Codification
 
-October 13, 1988, referred to in subsec. (b)(3)(A), was in the original “the date of enactment of this paragraph”, which was translated as meaning the date of enactmentof Pub. L. 100–485, which amended par. (3) of this section generally, to reflect the probable intent of Congress.
+October 13, 1988, referred to in subsec. (b)(3)(A), was in the original “the date of enactment of this paragraph”, which was translated as meaning the date of enactment of Pub. L. 100–485, which amended par. (3) of this section generally, to reflect the probable intent of Congress.
 
 #### Amendments
 
@@ -650,7 +650,7 @@ Pub. L. 104–193, §108(c)(14), substituted “section 608(a)(3)” for “sect
 
 Subsec. (a)(4). Pub. L. 104–193, §368, inserted heading and amended text of par. (4) generally. Prior to amendment, text read as follows: “Procedures under which liens are imposed against real and personal property for amounts of overdue support owed by an absent parent who resides or owns property in the State.”
 
-Subsec. (a)(5). Pub. L. 104–193, §331(a), inserted heading and amended text of par. (5) generally. Prior toamendment, text related to establishment of child's paternity prior to child's eighteenth birthday.
+Subsec. (a)(5). Pub. L. 104–193, §331(a), inserted heading and amended text of par. (5) generally. Prior to amendment, text related to establishment of child's paternity prior to child's eighteenth birthday.
 
 Subsec. (a)(6). Pub. L. 104–193, §395(d)(1)(H), (2)(D), substituted “a noncustodial parent give security” for “an absent parent give security” and “noncustodial parent of the proposed action” for “absent parent of the proposed action”.
 
@@ -708,7 +708,7 @@ Subsec. (b)(6)(A)(iii). Pub. L. 104–193, §314(a)(2)(D)(iii), added cl. (iii).
 
 Subsec. (b)(6)(C). Pub. L. 104–193, §314(b)(2)(A), substituted “income” for “wages”.
 
-Subsec. (b)(6)(D). Pub. L. 104–193, §314(a)(2)(E), substituted “any employer who—” for “any employer who discharges from employment, refuses to employ, or takes disciplinary action against any absent parent subject to wage withholding required by this subsection because of the existence of such withholding and theobligations or additional obligations which it imposes upon the employer.” and added cls. (i) and (ii).
+Subsec. (b)(6)(D). Pub. L. 104–193, §314(a)(2)(E), substituted “any employer who—” for “any employer who discharges from employment, refuses to employ, or takes disciplinary action against any absent parent subject to wage withholding required by this subsection because of the existence of such withholding and the obligations or additional obligations which it imposes upon the employer.” and added cls. (i) and (ii).
 
 Subsec. (b)(7). Pub. L. 104–193, §314(b)(2)(A), substituted “income” for “wages”.
 
@@ -758,7 +758,7 @@ Subsec. (b)(3). Pub. L. 100–485, §101(a), amended par. (3) generally. Prior t
 
 #### Effective Date of 2006 Amendment
 
-Amendment by sections 7301(g) and 7307(a)(1), (2)(A)(ii) of Pub. L. 109–171 effective as if enacted on Oct. 1, 2005, except as otherwise provided, see section 7701 of Pub. L. 109–171, set out as a note under section 603 of this title.
+Amendment by sections 7301(g) and 7307(a)(1), (2)(A)(ii) of Pub. L. 109–171 effective as if enacted on Oct. 1, 2005, except as otherwise provided, see section7701 of Pub. L. 109–171, set out as a note under section 603 of this title.
 
 Pub. L. 109–171, title VII, §7302(b), Feb. 8, 2006, 120 Stat. 145, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 2007.”
 
@@ -784,17 +784,17 @@ For effective date of amendments by title III of Pub. L. 104–193, see section 
 
 #### Effective Date of 1994 Amendment
 
-Section 212(b) of Pub. L. 103–432 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 1995.”
+Pub. L. 103–432, title II, §212(b), Oct. 31, 1994, 108 Stat. 4461, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 1995.”
 
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–66 effective with respect to a State on later of Oct. 1, 1993, or date of enactment by legislature of such State of all laws required by such amendments made by section 13721 of Pub. L. 103–66, but in no event later than first day of first calendar quarter beginning after close of first regular session of State legislature that begins after Aug. 10, 1993, and, in case of State that has 2-year legislative session, each year of such session deemed to be separate regular session of State legislature, see section 13721(c) of Pub. L. 103–66, set out as a note under section 652 of this title.
 
-#### Effective Date of 1988 Amendments
+#### Effective Date of 1988 Amendment
 
-Section 8105 of Pub. L. 100–647 provided that amendments made by that section, amending sections 607 and 669 of this title and amending provisions of Pub. L. 100–485 which are classified to this section and section 607 of this title, are effective on date of enactment of Family Support Act of 1988, Pub. L. 100–485, which was approved Oct. 13, 1988.
+Pub. L. 100–647, title VIII, §8105, Nov. 10, 1988, 102 Stat. 3797, provided that amendments made by that section, amending sections 607 and 669 of this title and amending provisions of Pub. L. 100–485 which are classified to this section and section 607 of this title, are effective on date of enactment of Family Support Act of 1988, Pub. L. 100–485, which was approved Oct. 13, 1988.
 
-Section 101(d) of Pub. L. 100–485 provided that:
+Pub. L. 100–485, title I, §101(d), Oct. 13, 1988, 102 Stat. 2346, provided that:
 
 “(1) The amendment made by subsection (a) \[amending this section\] shall become effective on the first day of the 25th month beginning after the date of the enactment of this Act \[Oct. 13, 1988\].
 
@@ -802,7 +802,7 @@ Section 101(d) of Pub. L. 100–485 provided that:
 
 “(3) Subsection (c) \[set out below\] shall become effective on the date of the enactment of this Act.”
 
-Section 103(f) of Pub. L. 100–485 provided that: “The amendments made by subsections (a), (b), and (c) \[amending this section and section 667 of this title\] shall become effective one year after the date of the enactment of this Act \[Oct. 13, 1988\].”
+Pub. L. 100–485, title I, §103(f), Oct. 13, 1988, 102 Stat. 2348, provided that: “The amendments made by subsections (a), (b), and (c) \[amending this section and section 667 of this title\] shall become effective one year after the date of the enactment of this Act \[Oct. 13, 1988\].”
 
 Amendment by section 111(b) of Pub. L. 100–485 effective on first day of first month beginning one year or more after Oct. 13, 1988, see section 111(f)(2) of Pub. L. 100–485, set out as a note under section 654 of this title.
 
@@ -810,7 +810,7 @@ Amendment by section 111(e) of Pub. L. 100–485 effective Oct. 13, 1988, see se
 
 #### Effective Date of 1986 Amendment
 
-Section 9103(b) of Pub. L. 99–509 provided that:
+Pub. L. 99–509, title IX, §9103(b), Oct. 21, 1986, 100 Stat. 1973, provided that:
 
 “(1) Except as provided in paragraph (2), the amendment made by subsection (a) \[amending this section\] shall become effective on the date of the enactment of this Act \[Oct. 21, 1986\].
 
@@ -822,17 +822,17 @@ Section effective Oct. 1, 1985, except that subsec. (e) effective with respect t
 
 #### Study on Making Immediate Income Withholding Mandatory in All Cases
 
-Section 101(c) of Pub. L. 100–485 directed Secretary of Health and Human Services to conduct a study of administrative feasibility, cost implications, and other effects of requiring immediate income withholding with respect to all child support awards in a State and report on results of such study not later than 3 years after Oct. 13, 1988.
+Pub. L. 100–485, title I, §101(c), Oct. 13, 1988, 102 Stat. 2345, directed Secretary of Health and Human Services to conduct a study of administrative feasibility, cost implications, and other effects of requiring immediate income withholding with respect to all child support awards in a State and report on results of such study not later than 3 years after Oct. 13, 1988.
 
 #### Study of Impact of Extending Periodic Review Requirements to All Other Cases
 
-Section 103(d) of Pub. L. 100–485 directed Secretary of Health and Human Resources, within 2 years after Oct. 13, 1988, to conduct and complete a study to determine impact on child support awards and the courts of requiring each State to periodically review all child support orders in effect in the State.
+Pub. L. 100–485, title I, §103(d), Oct. 13, 1988, 102 Stat. 2347, directed Secretary of Health and Human Resources, within 2 years after Oct. 13, 1988, to conduct and complete a study to determine impact on child support awards and the courts of requiring each State to periodically review all child support orders in effect in the State.
 
 #### Demonstration Projects for Evaluating Model Procedures for Reviewing Child Support Awards
 
-Section 103(e) of Pub. L. 100–485 authorized an agreement between Secretary of Health and Human Services and each State submitting an application for purpose of conducting a demonstration project to test and evaluate model procedures for reviewing child support award amounts, directed that such projects be commenced not later than Sept. 30, 1989, and be conducted for a 2-year period, and directed Secretary to report results of such projects to Congress not later than 6 months after all projects are completed.
+Pub. L. 100–485, title I, §103(e), Oct. 13, 1988, 102 Stat. 2347, authorized an agreement between Secretary of Health and Human Services and each State submitting an application for purpose of conducting a demonstration project to test and evaluate model procedures for reviewing child support award amounts, directed that such projects be commenced not later than Sept. 30, 1989, and be conducted for a 2-year period, and directed Secretary to report results of such projects to Congress not later than 6 months after all projects are completed.
 
 #### Commission on Interstate Child Support
 
-Section 126 of Pub. L. 100–485, as amended by Pub. L. 101–508, title V, §5012(a), Nov. 5, 1990, 104 Stat. 1388–221; Pub. L. 102–318, title V, §534(a), July 3, 1992, 106 Stat. 317, established Commission on Interstate Child Support to hold national conferences on interstate child support reform and prepare report to Congress containing recommendations for improving interstate establishment and enforcement of child support awards and for revising Uniform Reciprocal Enforcement of Support Act and provided for powers of the Commission, appropriations, and termination of the Commission on Sept. 30, 1992.
+Pub. L. 100–485, title I, §126, Oct. 13, 1988, 102 Stat. 2354, as amended by Pub. L. 101–508, title V, §5012(a), Nov. 5, 1990, 104 Stat. 1388–221; Pub. L. 102–318, title V, §534(a), July 3, 1992, 106 Stat. 317, established Commission on Interstate Child Support to hold national conferences on interstate child support reform and prepare report to Congress containing recommendations for improving interstate establishment and enforcement of child support awards and for revising Uniform Reciprocal Enforcement of Support Act and provided for powers of the Commission, appropriations, and termination of the Commission on Sept. 30, 1992.
 

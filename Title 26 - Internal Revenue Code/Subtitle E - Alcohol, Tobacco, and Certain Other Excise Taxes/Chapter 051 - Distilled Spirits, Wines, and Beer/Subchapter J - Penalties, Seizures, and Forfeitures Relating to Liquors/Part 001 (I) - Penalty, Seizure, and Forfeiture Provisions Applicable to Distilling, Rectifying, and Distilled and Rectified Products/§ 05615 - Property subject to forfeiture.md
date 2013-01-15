@@ -150,7 +150,7 @@ A prior section 5647, act Aug. 16, 1954, ch. 736, 68A Stat. 693, related to pena
 
 A prior section 5648, act Aug. 16, 1954, ch. 736, 68A Stat. 694, related to penalty and forfeiture for fraudulent claims for export drawback or unlawful relanding, prior to the general revision of this chapter by Pub. L. 85–859. See section 5608 of this title.
 
-A prior section 5649, act Aug. 16, 1954, ch. 736, 68A Stat. 694, related to burden of proof in cases of seizure of spirits, prior to the general revision of this chapter by Pub. L. 85–859. See section 5614 of this title.
+A prior section 5649, act Aug. 16, 1954, ch. 736, 68A Stat. 694, related to burden of proof in cases of seizureof spirits, prior to the general revision of this chapter by Pub. L. 85–859. See section 5614 of this title.
 
 A prior section 5650, act Aug. 16, 1954, ch. 736, 68A Stat. 695, related to penalty and forfeiture for operating distillery after giving notice of suspension, prior to the general revision of this chapter by Pub. L. 85–859. See sections 5601 and 5615 of this title.
 

@@ -62,7 +62,7 @@ For purposes of this section, a foreign incorporated entity shall be treated as 
 
 #### (4) Other definitions
 
-&emsp;The terms “person”, “domestic”, and “foreign” have the meanings given such terms byparagraphs (1), (4), and (5) of section 7701(a) of title 26, respectively.
+&emsp;The terms “person”, “domestic”, and “foreign” have the meanings given such terms by paragraphs (1), (4), and (5) of section 7701(a) of title 26, respectively.
 
 #### (d) Waivers
 

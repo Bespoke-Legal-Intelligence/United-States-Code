@@ -42,7 +42,7 @@ Definition of Covered Educational Institution.—In this section the term “cov
 
 &emsp;(2) an accredited postsecondary minority institution.
 
-(Added Pub. L. 111–84, div. A, title II, §252(a), Oct. 28, 2009, 123 Stat. 2242; amended Pub. L. 111–383, div. A, title IX, §901(a)(2), title X, §1075(b)(32), Jan. 7, 2011, 124 Stat. 4317, 4370; Pub. L. 112–81, div. A, title II, §219, Dec. 31, 2011, 125 Stat. 1335.)
+(Added Pub. L. 111–84, div. A, title II, §252(a), Oct. 28, 2009, 123 Stat. 2242; amended Pub. L. 111–383, div. A, title X, §1075(b)(32), Jan. 7, 2011, 124 Stat. 4370; Pub. L. 112–81, div. A, title II, §219, Dec. 31, 2011, 125 Stat. 1335; Pub. L. 112–239, div. A, title X, §1076(c)(2)(A)(i), Jan. 2, 2013, 126 Stat. 1949.)
 
 #### References in Text
 
@@ -54,6 +54,8 @@ A prior section 2362, added Pub. L. 99–145, title I, §123(a)(1), Nov. 8, 1985
 
 #### Amendments
 
+<b>2013</b>—Subsec. (a)(1). Pub L. 112–239 substituted “Assistant Secretary of Defense for Research and Engineering” for “Director of Defense Research and Engineering”.
+
 <b>2011</b>—Subsec. (a). Pub. L. 112–81, §219(a), designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (b). Pub. L. 112–81, §219(b)(1), substituted “established by subsection (a)(1)” for “established under subsection (a)” in introductory provisions.
@@ -61,8 +63,4 @@ Subsec. (b). Pub. L. 112–81, §219(b)(1), substituted “established by subsec
 Subsec. (c). Pub. L. 112–81, §219(b)(2), substituted “subsection (a)(1)” for “subsection (a)” in introductory provisions.
 
 Subsec. (e)(1). Pub. L. 111–383, §1075(b)(32), substituted “title III or V” for “title III or IV”.
-
-#### Change of Name
-
-“Assistant Secretary of Defense for Research and Engineering” substituted for “Director of Defense Research and Engineering” in subsec. (a) on authority of section 901(a)(2) of Pub. L. 111–383, set out as a note under section 131 of this title.
 

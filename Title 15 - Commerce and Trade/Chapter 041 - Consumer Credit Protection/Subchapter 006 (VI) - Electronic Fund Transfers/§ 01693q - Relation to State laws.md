@@ -8,7 +8,7 @@ This subchapter does not annul, alter, or affect the laws of any State relating 
 
 Another section 922 of Pub. L. 90–321 is classified to section 1693r of this title.
 
-Renumbering of section 919 of Pub. L. 90–321 as section 920 by section 401(1) of Pub. L. 111–24 was executed prior to the renumberings of section 920 of Pub. L. 90–321 as section 921 and then as section 922 by sections 1073(a)(3) and 1075(a)(1) of Pub. L. 111–203 as the probable intent of Congress, notwithstanding section 403 of Pub. L. 111–24, set out as an Effective Date note under section 1693<i>l</i>–1 of this title and section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking, which provided that the renumbering by Pub. L. 111–24 was effective 15 months after May 22, 2009, and the renumberings by Pub. L. 111–203 were effective 1 day after July 21, 2010.
+Renumbering of section 919 of Pub. L. 90–321 as section 920 by section 401(1) of Pub. L. 111–24 was executed prior to the renumberings of section 920 of Pub. L. 90–321 as section 921 and then as section 922 by sections 1073(a)(3) and 1075(a)(1) of Pub. L. 111–203 as the probable intent of Congress, notwithstanding section 403 of Pub. L. 111–24, set out as an Effective Date note under section 1693l–1 of this title and section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking, which provided that the renumbering by Pub. L. 111–24 was effective 15 months after May 22, 2009, and the renumberings by Pub. L. 111–203 were effective 1 day after July 21, 2010.
 
 #### Prior Provisions
 
@@ -26,5 +26,5 @@ Amendment by section 1084(1) of Pub. L. 111–203 effective on the designated tr
 
 #### Effective Date of 2009 Amendment
 
-Amendment by Pub. L. 111–24 effective 15 months after May 22, 2009, see section 403 of Pub. L. 111–24, set out as an Effective Date note under section 1693<i>l</i>–1 of this title.
+Amendment by Pub. L. 111–24 effective 15 months after May 22, 2009, see section 403 of Pub. L. 111–24, set out as an Effective Date note under section 1693l–1 of this title.
 

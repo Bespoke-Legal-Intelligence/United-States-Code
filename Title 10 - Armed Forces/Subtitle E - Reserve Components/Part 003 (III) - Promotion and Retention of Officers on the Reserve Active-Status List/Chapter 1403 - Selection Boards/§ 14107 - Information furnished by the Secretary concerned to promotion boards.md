@@ -10,13 +10,13 @@ Integrity of the Promotion Selection Board Process.—(1) The Secretary of Defen
 
 &emsp;(B) Other information that is determined by the Secretary of the military department concerned, after review by that Secretary in accordance with standards and procedures set out in the regulations prescribed by the Secretary of Defense pursuant to paragraph (1), to be substantiated, relevant information that could reasonably and materially affect the deliberations of the promotion board.
 
-&emsp;(C) Subject to such limitations as may be prescribed in those regulations, information communicated to the board by the officer inaccordance with this section, section 14106 of this title (including any comment on information referred to in subparagraph (A) regarding that officer), or other applicable law.
+&emsp;(C) Subject to such limitations as may be prescribed in those regulations, information communicated to the board by the officer in accordance with this section, section 14106 of this title (including any comment on information referred to in subparagraph (A) regarding that officer), or other applicable law.
 
 &emsp;(D) A factual summary of the information described in subparagraphs (A), (B), and (C) that, in accordance with the regulations prescribed pursuant to paragraph (1) is prepared by administrative personnel for the purpose of facilitating the work of the selection board.
 
 (3) In the case of an eligible officer considered for promotion to a grade above colonel or, in the case of the Navy, captain, any credible information of an adverse nature, including any substantiated adverse finding or conclusion from an officially documented investigation or inquiry, shall be furnished to the selection board in accordance with standards and procedures set out in the regulations prescribed by the Secretary of Defense pursuant to paragraph (1).
 
-(4) Information provided to a promotion board in accordance with paragraphs (2) and (3) shall be made available to all members of the board and shall be made a part of the record of the board. Communication of such information shall be in a written form or in the form of an audio or video recording. If a communication is in the form of an audio or video recording, a written transcription of the recording shall also be made a part of the record of the promotion board.
+(4) Information provided to a promotion board in accordance with paragraphs (2) and (3) shall be made available to all members of the board and shall be made a part of the record of the board. Communication of such information shallbe in a written form or in the form of an audio or video recording. If a communication is in the form of an audio or video recording, a written transcription of the recording shall also be made a part of the record of the promotion board.
 
 (5) Paragraphs (2), (3), and (4) do not apply to the furnishing of appropriate administrative processing information to the promotion board by an administrative staff designated to assist the board, but only to the extent that oral communications are necessary to facilitate the work of the board.
 

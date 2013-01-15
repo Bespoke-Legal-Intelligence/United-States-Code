@@ -50,7 +50,7 @@ The Secretary shall furnish to each individual for whom payment has been made un
 
 #### Effective Date
 
-Section 4311(b)(3) of Pub. L. 105–33 provided that:
+Pub. L. 105–33, title IV, §4311(b)(3), Aug. 5, 1997, 111 Stat. 386, provided that:
 
 “(A)
 

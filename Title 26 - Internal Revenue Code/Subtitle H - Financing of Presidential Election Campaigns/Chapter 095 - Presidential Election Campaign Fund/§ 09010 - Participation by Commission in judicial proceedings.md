@@ -6,7 +6,7 @@ The Commission is authorized to appear in and defend against any action filed un
 
 #### (b) Recovery of certain payments
 
-The Commission is authorized through attorneys and counsel described in subsection (a) to appear in the district courts of the United States to seek recovery of any amounts determined to be payable to the Secretary of the Treasury as a result of examination and audit made pursuant to section 9007.
+The Commission is authorized through attorneys and counsel described in subsection (a) toappear in the district courts of the United States to seek recovery of any amounts determined to be payable to the Secretary of the Treasury as a result of examination and audit made pursuant to section 9007.
 
 #### (c) Declaratory and injunctive relief
 

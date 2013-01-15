@@ -12,7 +12,7 @@ Congress finds that—
 
 &emsp;(4) mushrooms must be high quality, readily available, handled properly, and marketed efficiently to ensure that the benefits of this important product are available to the people of the United States;
 
-&emsp;(5) the maintenance and expansion of existing markets and uses, and the development of new markets and uses, for mushrooms are vital to the welfare of producers and thoseconcerned with marketing and using mushrooms, as well as to the agricultural economy of the Nation;
+&emsp;(5) the maintenance and expansion of existing markets and uses, and the development of new markets and uses, for mushrooms are vital to the welfare of producers and those concerned with marketing and using mushrooms, as well as to the agricultural economy of the Nation;
 
 &emsp;(6) the cooperative development, financing, and implementation of a coordinated program of mushroom promotion, research, and consumer information are necessary to maintain and expand existing markets for mushrooms; and
 
@@ -34,7 +34,11 @@ Nothing in this chapter may be construed to provide for the control of productio
 
 (Pub. L. 101–624, title XIX, §1922, Nov. 28, 1990, 104 Stat. 3855.)
 
+#### Constitutionality
+
+For information regarding constitutionality of subtitle B of title XIX of Pub. L. 101–624, which enacted this chapter, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+
 #### Short Title
 
-Section 1921 of Pub. L. 101–624 provided that: “This subtitle \[subtitle B (§§1921–1933) of title XIX of Pub. L. 101–624, enacting this chapter\] may be cited as the ‘Mushroom Promotion, Research, and Consumer Information Act of 1990’.”
+Pub. L. 101–624, title XIX, §1921, Nov. 28, 1990, 104 Stat. 3854, provided that: “This subtitle \[subtitle B (§§1921–1933) of title XIX of Pub. L. 101–624, enacting this chapter\] may be cited as the ‘Mushroom Promotion, Research, and Consumer Information Act of 1990’.”
 

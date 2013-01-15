@@ -38,7 +38,7 @@ The Secretary shall, subject to the availability of funds under this section, es
 
 &emsp;&emsp;&emsp;(iv) an assurance that the Head Start agency will develop a collaborative partnership with the State (or a State agency) and other providers of early childhood education and development programs and services in the local community involved to conduct activities under subsection (d);
 
-&emsp;&emsp;&emsp;(v) a nomination letter from the Governor, or appropriate regional office, demonstrating the agency's ability to provide the coordination, transition, and training services of the program to be carried out under the bonus grant involved, includingcoordination of activities with State and local agencies that provide early childhood education and development to children and families in the community served by the agency, and carry out the activities described under subsection (d)(1); and
+&emsp;&emsp;&emsp;(v) a nomination letter from the Governor, or appropriate regional office, demonstrating the agency's ability to provide the coordination, transition, and training services of the program to be carried out under the bonus grant involved, including coordination of activities with State and local agencies that provide early childhood education and development to children and families in the community served by the agency, and carry out the activities described under subsection (d)(1); and
 
 &emsp;&emsp;&emsp;(vi) a description of how the center involved, in order to expand accessibility and continuity of quality early childhood education and development services and programs, will coordinate activities, as appropriate, assisted under this section with—
 
@@ -62,7 +62,7 @@ The Secretary shall, subject to the availability of funds under this section, es
 
 #### (3) Priority
 
-&emsp;In making bonus grant determinations under this section, the Secretary shall give priority to agencies that, through their applications, demonstrate that their programs are of exceptional quality and would serve as exemplary models for programs in the same geographic region. The Secretary may also consider the populations served by the applicants, such as agencies that serve large proportions of families of limited English proficient children or other underserved populations, and may make bonus grants to agencies that do an exceptional job meeting the needs of children in such populations.
+&emsp;In making bonus grant determinations under this section, the Secretary shall give priority to agencies that, through their applications, demonstrate that their programs are of exceptional quality and would serve as exemplary models for programs in the same geographic region. The Secretary may also consider the populations served by the applicants, such as agencies that serve large proportions of families of limited English proficient children orother underserved populations, and may make bonus grants to agencies that do an exceptional job meeting the needs of children in such populations.
 
 #### (4) Term of designation
 
@@ -102,7 +102,7 @@ A center of excellence that receives a bonus grant under subsection (b)—
 
 &emsp;&emsp;(E) to provide effective transitions between Head Start programs and elementary schools and to facilitate ongoing communication between Head Start and elementary school teachers concerning children receiving Head Start services to improve the teachers’ ability to work effectively with low-income, at-risk children and their families;
 
-&emsp;&emsp;(F) to develop or maintain partnerships with institutions of higher education and nonprofit organizations, including community-based organizations, that recruit, train,place, and support college students to serve as mentors and reading partners to preschool children in Head Start programs; and
+&emsp;&emsp;(F) to develop or maintain partnerships with institutions of higher education and nonprofit organizations, including community-based organizations, that recruit, train, place, and support college students to serve as mentors and reading partners to preschool children in Head Start programs; and
 
 &emsp;&emsp;(G) to carry out other activities determined by the center to improve the overall quality of the Head Start program carried out by the agency and the program carried out under the bonus grant involved.
 

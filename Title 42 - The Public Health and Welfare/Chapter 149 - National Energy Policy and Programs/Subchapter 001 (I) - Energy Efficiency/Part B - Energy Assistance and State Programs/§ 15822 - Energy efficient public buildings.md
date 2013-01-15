@@ -2,7 +2,7 @@
 
 #### (a) Grants
 
-The Secretary may make grants to the State agency responsible for developing State energy conservation plans under section 6322 of this title, or, if no such agency exists, a State agency designated by the Governor of the State, to assist units of local government in the State in improving the energy efficiency of public buildings and facilities—
+The Secretary may make grants to the State agency responsible for developing State energyconservation plans under section 6322 of this title, or, if no such agency exists, a State agency designated by the Governor of the State, to assist units of local government in the State in improving the energy efficiency of public buildings and facilities—
 
 &emsp;(1) through construction of new energy efficient public buildings that use at least 30 percent less energy than a comparable public building constructed in compliance with standards prescribed in the most recent version of the International Energy Conservation Code, or a similar State code intended to achieve substantially equivalent efficiency levels; or
 

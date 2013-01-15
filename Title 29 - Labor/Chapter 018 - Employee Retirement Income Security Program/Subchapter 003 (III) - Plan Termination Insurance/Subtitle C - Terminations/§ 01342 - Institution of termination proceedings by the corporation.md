@@ -88,7 +88,7 @@ Reasonable charges.—A plan sponsor may charge a reasonable fee for any informa
 
 &emsp;(ii) to require the transfer of all (or any part) of the assets and records of the plan to himself as trustee;
 
-&emsp;(iii) to invest any assets of the plan which he holds in accordance with the provisions of theplan, regulations of the corporation, and applicable rules of law;
+&emsp;(iii) to invest any assets of the plan which he holds in accordance with the provisions of the plan, regulations of the corporation, and applicable rules of law;
 
 &emsp;(iv) to limit payment of benefits under the plan to basic benefits or to continue payment of some or all of the benefits which were being paid prior to his appointment;
 
@@ -136,11 +136,11 @@ Reasonable charges.—A plan sponsor may charge a reasonable fee for any informa
 
 #### (e) Filing of application notwithstanding pendency of other proceedings
 
-An application by the corporation under this section may be filed notwithstanding the pendency in the same or any other court of any bankruptcy, mortgage foreclosure, or equity receivership proceeding, or any proceeding to reorganize, conserve, or liquidate such plan or its property, or any proceeding to enforce a lien against property of the plan.
+An application by the corporation under this section may be filed notwithstanding the pendency in the same or any other court of any bankruptcy, mortgage foreclosure, or equity receivership proceeding, or any proceeding to reorganize, conserve, or liquidate such plan or itsproperty, or any proceeding to enforce a lien against property of the plan.
 
 #### (f) Exclusive jurisdiction; stay of other proceedings
 
-Upon the filing of an application for the appointment of a trustee or the issuance of a decree under this section, the court to which an application is made shall have exclusive jurisdiction of the plan involved and its property wherever located with the powers, to the extent consistent with the purposes of this section, of a court of the United States having jurisdiction over cases under chapter 11 of title 11. Pending an adjudication under subsection (c) of this section such court shall stay, and upon appointment by it of a trustee, as provided in this section such court shall continue the stay of, any pending mortgage foreclosure, equity receivership, or other proceeding to reorganize, conserve, or liquidate the plan or its property and any other suit against any receiver, conservator, or trustee of the plan or its property. Pendingsuch adjudication and upon the appointment by it of such trustee, the court may stay any proceeding to enforce a lien against property of the plan or any other suit against the plan.
+Upon the filing of an application for the appointment of a trustee or the issuance of a decree under this section, the court to which an application is made shall have exclusive jurisdiction of the plan involved and its property wherever located with the powers, to the extent consistent with the purposes of this section, of a court of the United States having jurisdiction over cases under chapter 11 of title 11. Pending an adjudication under subsection (c) of this section such court shall stay, and upon appointment by it of a trustee, as provided in this section such court shall continue the stay of, any pending mortgage foreclosure, equity receivership, or other proceeding to reorganize, conserve, or liquidate the plan or its property and any other suit against any receiver, conservator, or trustee of the plan or its property. Pending such adjudication and upon the appointment by it of such trustee, the court may stay any proceeding to enforce a lien against property of the plan or any other suit against the plan.
 
 #### (g) Venue
 
@@ -218,7 +218,7 @@ Amendment by Pub. L. 109–280 applicable to any plan termination under this sub
 
 #### Effective Date of 1994 Amendment
 
-Section 771(f) of Pub. L. 103–465 provided that: “The amendments made by this section \[amending this section and section 1343 of this title\] shall be effective for events occurring 60 days or more after the date of enactment of this Act \[Dec. 8, 1994\].”
+Pub. L. 103–465, title VII, §771(f), Dec. 8, 1994, 108 Stat. 5043, provided that: “The amendments made by this section \[amending this section and section 1343 of this title\] shall be effective for events occurring 60 days or more after the date of enactment of this Act \[Dec. 8, 1994\].”
 
 #### Effective Date of 1989 Amendment
 

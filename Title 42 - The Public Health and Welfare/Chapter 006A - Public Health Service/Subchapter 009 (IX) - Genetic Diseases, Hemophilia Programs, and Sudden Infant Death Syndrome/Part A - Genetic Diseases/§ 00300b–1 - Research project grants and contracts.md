@@ -10,7 +10,7 @@ A prior section 300b–1, act July 1, 1944, ch. 373, title XI, §1102, as added 
 
 #### Effective Date
 
-Section 403(c) of Pub. L. 94–278 provided that: “The amendments made by subsections (a) and (b) \[see section 401 of Pub. L. 94–278, set out as a Short Title of 1976 Amendment note under section 201 of this title\] shall take effect July 1, 1976.”
+Pub. L. 94–278, title IV, §403(c), Apr. 22, 1976, 90 Stat. 410, provided that: “The amendments made by subsections (a) and (b) \[see section 401 of Pub. L. 94–278, set out as a Short Title of 1976 Amendment note under section 201 of this title\] shall take effect July 1, 1976.”
 
 #### Short Title of 1976 Amendment
 
@@ -118,7 +118,7 @@ Eligible entity.—The term ‘eligible entity’ means a Federally-qualified he
 
 &emsp;“(C)
 
-Federally-qualified health center.—The term ‘Federally-qualified health center’ has the meaning given that term in section 1905(<i>l</i>)(2)(B) of the Social Security Act (42 U.S.C. 1396d(<i>l</i>)(2)(B)).
+Federally-qualified health center.—The term ‘Federally-qualified health center’ has the meaning given that term in section 1905(l)(2)(B) of the Social Security Act (42 U.S.C. 1396d(l)(2)(B)).
 
 “(6)
 

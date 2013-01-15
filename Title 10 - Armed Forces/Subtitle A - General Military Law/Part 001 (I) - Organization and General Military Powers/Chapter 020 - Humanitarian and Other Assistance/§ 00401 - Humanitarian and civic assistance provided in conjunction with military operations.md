@@ -18,7 +18,7 @@
 
 (4) Nothing in this section may be interpreted to preclude the incurring of minimal expenditures by the Department of Defense for purposes of humanitarian and civic assistance out of funds other than funds appropriated pursuant to paragraph (1), except that funds appropriated to the Department of Defense for operation and maintenance (other than funds appropriated pursuant to such paragraph) may be obligated for humanitarian and civic assistance under this section only for incidental costs of carrying out such assistance.
 
-(d) The Secretary of Defense shall submit to the Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on Armed Services and the Committee on International Relations of the House of Representatives a report, not later than March 1 of each year, on activities carried out under this section during the preceding fiscal year. The Secretary shall include in each such report—
+(d) The Secretary of Defense shall submit to the Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives a report, not later than March 1 of each year, on activities carried out under this section during the preceding fiscal year. The Secretary shall include in each such report—
 
 &emsp;(1) a list of the countries in which humanitarian and civic assistance activities were carried out during the preceding fiscal year;
 
@@ -36,9 +36,11 @@
 
 &emsp;(4) Rudimentary construction and repair of public facilities.
 
-(Added Pub. L. 99–661, div. A, title III, §333(a)(1), Nov. 14, 1986, 100 Stat. 3857; amended Pub. L. 100–180, div. A, title III, §332(b)(1)–(5), Dec. 4, 1987, 101 Stat. 1080; Pub. L. 100–456, div. A, title XII, §1233(g)(1), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 103–160, div. A, title XI, §1182(a)(1), title XV, §1504(b), Nov. 30, 1993, 107 Stat. 1771, 1839; Pub. L. 104–106, div. A, title XIII, §1313(a), (b), title XV, §1502(a)(8), Feb. 10, 1996, 110 Stat. 474, 475, 503; Pub. L. 104–201, div. A, title X, §1074(a)(2), title XIII, §1304, Sept. 23, 1996, 110 Stat. 2658, 2704; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[\[div. A\], title XII, §1235\], Oct. 30, 2000, 114 Stat. 1654, 1654A–331; Pub. L. 108–375, div. A, title XII, §1221, Oct. 28, 2004, 118 Stat. 2089; Pub. L. 109–163, div. A, title XII, §1201, Jan. 6, 2006, 119 Stat. 3455; Pub. L. 109–364, div. A, title XII, §1203(a), Oct. 17, 2006, 120 Stat. 2413.)
+(Added Pub. L. 99–661, div. A, title III, §333(a)(1), Nov. 14, 1986, 100 Stat. 3857; amended Pub. L. 100–180, div. A, title III, §332(b)(1)–(5), Dec. 4, 1987, 101 Stat. 1080; Pub. L. 100–456, div. A, title XII, §1233(g)(1), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 103–160, div. A, title XI, §1182(a)(1), title XV, §1504(b), Nov. 30, 1993, 107 Stat. 1771, 1839; Pub. L. 104–106, div. A, title XIII, §1313(a), (b), title XV, §1502(a)(8), Feb. 10, 1996, 110 Stat. 474, 475, 503; Pub. L. 104–201, div. A, title X, §1074(a)(2), title XIII, §1304, Sept. 23, 1996, 110 Stat. 2658, 2704; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[\[div. A\], title XII, §1235\], Oct. 30, 2000, 114 Stat. 1654, 1654A–331; Pub. L. 108–375, div. A, title XII, §1221, Oct. 28, 2004, 118 Stat. 2089; Pub. L. 109–163, div. A, title XII, §1201, Jan. 6, 2006, 119 Stat. 3455; Pub. L. 109–364, div. A, title XII, §1203(a), Oct. 17, 2006, 120 Stat. 2413; Pub. L. 112–239, div. A, title X, §1076(f)(7), Jan. 2, 2013, 126 Stat. 1952.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (d). Pub. L. 112–239 substituted “Committee on Foreign Affairs” for “Committee on International Relations” in introductory provisions.
 
 <b>2006</b>—Subsec. (a)(4). Pub. L. 109–364, §1203(a)(1), struck out par. (4) which read as follows: “The Secretary of Defense shall ensure that no member of the armed forces, while providing assistance under this section that is described in subsection (e)(5)—
 
@@ -64,7 +66,7 @@ Subsec. (e)(5). Pub. L. 109–364, §1203(a)(4), struck out par. (5) which read 
 
 <b>2004</b>—Subsec. (a)(4)(A). Pub. L. 108–375, §1221(b)(1), inserted “or other explosive remnants of war” after “landmines”.
 
-Subsec. (c)(2)(B). Pub. L. 108–375, §1221(b)(2), substituted “equipment or supplies for clearing landmines or other explosive remnants of war” for “landmine clearing equipment or supplies”.
+Subsec. (c)(2)(B). Pub. L. 108–375, §1221(b)(2), substituted “equipment or supplies for clearing landminesor other explosive remnants of war” for “landmine clearing equipment or supplies”.
 
 Subsec. (e)(5). Pub. L. 108–375, §1221(a), inserted “and other explosive remnants of war” after “landmines” in two places.
 
@@ -116,9 +118,31 @@ Subsec. (e). Pub. L. 100–180, §332(b)(4), (5), struck out section catchline o
 
 Subsec. (f). Pub. L. 100–180, §332(b)(4), (5), struck out section catchline of former section 406 “Expenditure limitation”, designated text of former section 406 as subsec. (f) of this section, and substituted “section” for “chapter”.
 
-#### Change of Name
+#### Requirement To Ensure the Effectiveness and Efficiency of Health Engagements
 
-Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Pub. L. 112–239, div. A, title VII, §715, Jan. 2, 2013, 126 Stat. 1803, provided that:
+
+“(a)
+
+In General.—The Secretary of Defense, in coordination with the Under Secretary of Defense for Policy and the Assistant Secretary of Defense for Health Affairs, shall develop a process to ensure that health engagements conducted by the Department of Defense are effective and efficient in meeting the national security goals of the United States.
+
+“(b)
+
+Process Goals.—The Assistant Secretary of Defense for Health Affairs shall ensure that each process developed under subsection (a)—
+
+&emsp;“(1) assesses the operational mission capabilities of the health engagement;
+
+&emsp;“(2) uses the collective expertise of the Federal Government and non-governmental organizations to ensure collaboration and partnering activities; and
+
+&emsp;“(3) assesses the stability and resiliency of the host nation of such engagement.
+
+“(c)
+
+Assessment Tool.—The Assistant Secretary of Defense for Health Affairs may establish a measure of effectiveness learning tool to assess the process developed under subsection (a) to ensure the applicability of the process to health engagements conducted by the Department of Defense.
+
+“(d)
+
+Health Engagement Defined.—In this section, the term ‘health engagement’ means a health stability operation conducted by the Department of Defense outside the United States in coordination with a foreign government or international organization to establish, reconstitute, or maintain the health sector of a foreign country.”
 
 #### Humanitarian Assistance Program for Clearing Landmines
 
@@ -126,11 +150,11 @@ Pub. L. 103–337, div. A, title XIV, §1413, Oct. 5, 1994, 108 Stat. 2913, requ
 
 #### Humanitarian and Civic Assistance
 
-Section 1504 of Pub. L. 103–160 provided that:
+Pub. L. 103–160, div. A, title XV, §1504, Nov. 30, 1993, 107 Stat. 1839, provided that:
 
 “(a)
 
-Regulations.—The regulations required to be prescribed under section 401 of title 10, United States Code, shall be prescribed not later than March 1, 1994. In prescribing such regulations, the Secretary of Defense shall consult with the Secretary of State.
+Regulations.—The regulations required to be prescribed under section 401 of title 10, United States Code, shall be prescribed not later than March 1, 1994.In prescribing such regulations, the Secretary of Defense shall consult with the Secretary of State.
 
 “(b)
 
@@ -164,7 +188,7 @@ Pub. L. 102–396, title II, Oct. 6, 1992, 106 Stat. 1884, provided: “That whe
 
 #### Appropriation of Funds for Humanitarian and Civic Assistance; Annual Report to Congress on Obligations; Use of Civic Action Teams in Trust Territories of Pacific Islands and Freely Associated States of Micronesia
 
-Pub. L. 109–148, div. A, title VIII, §8009, Dec. 30, 2005, 119 Stat. 2699, which appropriated funds pursuant tothis section and authorized obligations for humanitarian and civic assistance costs under this chapter, with such obligations being reported as required by subsec. (d) of this section, and authorized the use of Civic Action Teams for the provision of assistance in the Trust Territories of the Pacific Islands and freely associated states of Micronesia and the provision of medical services at Army medical facilities in Hawaii upon a determination by the Secretary of the Army, was from the Department of Defense Appropriations Act, 2006 and was repeated in provisions of subsequent appropriations acts which are not set out in the Code. Similar provisions were contained in the following prior appropriations acts:
+Pub. L. 109–148, div. A, title VIII, §8009, Dec. 30, 2005, 119 Stat. 2699, which appropriated funds pursuant to this section and authorized obligations for humanitarian and civic assistance costs under this chapter, with such obligations being reported as required by subsec. (d) of this section, and authorized the use of Civic Action Teams for the provision of assistance in the Trust Territories of the Pacific Islands and freely associated states of Micronesia and the provision of medical services at Army medical facilities in Hawaii upon a determination by the Secretary of the Army, was from the Department of Defense Appropriations Act, 2006 and was repeated in provisions of subsequent appropriations acts which are not set out in the Code. Similar provisions were contained in the following prior appropriations acts:
 
 Pub. L. 108–287, title VIII, §8009, Aug. 5, 2004, 118 Stat. 971.
 

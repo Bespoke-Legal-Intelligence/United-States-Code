@@ -6,7 +6,7 @@ To be accredited as a certifying agent under section 6514 of this title, a gover
 
 #### (b) Inspectors
 
-Any certifying agent shall employ a sufficient number of inspectors to implement the applicable organic certification program established under this chapter, as determined by the Secretary.
+Any certifying agent shall employ a sufficient number of inspectors to implement the applicable organic certification program establishedunder this chapter, as determined by the Secretary.
 
 #### (c) Recordkeeping
 

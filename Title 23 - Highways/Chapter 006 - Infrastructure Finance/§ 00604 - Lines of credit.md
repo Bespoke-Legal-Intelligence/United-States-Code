@@ -6,7 +6,7 @@ In General.—
 
 &emsp;(1)
 
-Agreements.—Subject to paragraphs (2) through (4), the Secretary may enter into agreements to make available lines of credit to 1 or more obligors in the form of direct loans to be made by the Secretary at future dates on the occurrence of certain events for any project selected under section 602.
+Agreements.—Subject to paragraphs (2) through (4), the Secretary may enter into agreements to make available to 1 or more obligors lines of credit in the form of direct loans to be made by the Secretary at future dates on the occurrence of certain events for any project selected under section 602.
 
 &emsp;(2)
 
@@ -14,11 +14,11 @@ Use of proceeds.—The proceeds of a line of credit made available under this se
 
 &emsp;(3)
 
-Risk assessment.—Before entering into an agreement under this subsection, the Secretary, in consultation with the Director of the Office of Management and Budget and each rating agency providing a preliminary rating opinion letter under section 602(b)(2)(B), shall determine an appropriate capital reserve subsidy amount for each line of credit, taking into account such letter.
+Risk assessment.—Before entering into an agreement under this subsection, the Secretary, in consultation with the Director of the Office of Management and Budget and each rating agency providing a preliminary rating opinion letter under section 602(b)(3), shall determine an appropriate capital reserve subsidy amount for each line of credit, taking into account the rating opinion letter.
 
 &emsp;(4)
 
-Investment-grade rating requirement.—The funding of a line of credit under this section shall be contingent on the project's senior obligations receiving an investment-grade rating from at least 1 rating agency.
+Investment-grade rating requirement.—The funding of a line of credit under this section shall be contingent on the senior obligations of the project receiving an investment-grade rating from 2 rating agencies.
 
 (b)
 
@@ -26,35 +26,47 @@ Terms and Limitations.—
 
 &emsp;(1)
 
-In general.—A line of credit under this section with respect to a project shall be on such terms and conditions and contain such covenants, representations, warranties, and requirements (including requirements for audits) as the Secretary determines appropriate.
+In general.—A line of credit under this section with respect to a project shall be on such terms and conditions and contain such covenants, representations, warranties, and requirements (including requirements for audits) as the Secretary determines to be appropriate.
 
 &emsp;(2)
 
-Maximum amounts.—The total amount of the line of credit shall not exceed 33 percent of the reasonably anticipated eligible project costs.
+Maximum amounts.—The total amount of a line of credit under this section shall not exceed 33 percent of the reasonably anticipated eligible project costs.
 
 &emsp;(3)
 
-Draws.—Any draw on the line of credit shall represent a direct loan and shall be made only if net revenues from the project (including capitalized interest but not including reasonably required financing reserves) are insufficient to pay the costs specified in subsection (a)(2).
+Draws.—Any draw on a line of credit under this section shall—
+
+&emsp;&emsp;(A) represent a direct loan; and
+
+&emsp;&emsp;(B) be made only if net revenues from the project (including capitalized interest, but not including reasonably required financing reserves) are insufficient to pay the costs specified in subsection (a)(2).
 
 &emsp;(4)
 
-Interest rate.—The interest rate on a direct loan resulting from a draw on the line of credit shall be not less than the yield on 30-year United States Treasury securities as of the date of execution of the line of credit agreement.
+Interest rate.—Except as provided in subparagraphs (B) and (C) of section 603(b)(4), the interest rate on a direct loan resulting from a draw on the line of credit shall be not less than the yield on 30-year United States Treasury securities, as of the date of execution of the line of credit agreement.
 
 &emsp;(5)
 
-Security.—The line of credit—
+Security.—A line of credit issued under this section—
 
 &emsp;&emsp;(A) shall—
 
-&emsp;&emsp;&emsp;(i) be payable, in whole or in part, from tolls, user fees, or other dedicated revenue sources that also secure the senior project obligations; and
+&emsp;&emsp;&emsp;(i) be payable, in whole or in part, from—
+
+&emsp;&emsp;&emsp;&emsp;(I) tolls;
+
+&emsp;&emsp;&emsp;&emsp;(II) user fees;
+
+&emsp;&emsp;&emsp;&emsp;(III) payments owing to the obligor under a public-private partnership; or
+
+&emsp;&emsp;&emsp;&emsp;(IV) other dedicated revenue sources that also secure the senior project obligations; and
 
 &emsp;&emsp;&emsp;(ii) include a rate covenant, coverage requirement, or similar security feature supporting the project obligations; and
 
-&emsp;&emsp;(B) may have a lien on revenues described in subparagraph (A) subject to any lien securing project obligations.
+&emsp;&emsp;(B) may have a lien on revenues described in subparagraph (A), subject to any lien securing project obligations.
 
 &emsp;(6)
 
-Period of availability.—The full amount of the line of credit, to the extent not drawn upon, shall be available during the period beginning on the date of substantial completion of the project and ending not later than 10 years after that date.
+Period of availability.—The full amount of a line of credit under this section, to the extent not drawn upon, shall be available during the 10-year period beginning on the date of substantial completion of the project.
 
 &emsp;(7)
 
@@ -62,15 +74,45 @@ Rights of third-party creditors.—
 
 &emsp;&emsp;(A)
 
-Against federal government.—A third-party creditor of the obligor shall not have any right against the Federal Government with respect to any draw on the line of credit.
+Against federal government.—A third-party creditor of the obligor shall not have any right against the Federal Government with respect to any draw on a line of credit under this section.
 
 &emsp;&emsp;(B)
 
-Assignment.—An obligor may assign the line of credit to 1 or more lenders or to a trustee on the lenders’ behalf.
+Assignment.—An obligor may assign a line of credit under this section to—
+
+&emsp;&emsp;&emsp;(i) 1 or more lenders; or
+
+&emsp;&emsp;&emsp;(ii) a trustee on the behalf of such a lender.
 
 &emsp;(8)
 
-Nonsubordination.—A direct loan under this section shall not be subordinated to the claims of any holder of project obligations in the event of bankruptcy, insolvency, or liquidation of the obligor.
+Nonsubordination.—
+
+&emsp;&emsp;(A)
+
+In general.—Except as provided in subparagraph (B), a direct loan under this section shall not be subordinated to the claims of any holder of project obligations in the event of bankruptcy, insolvency, or liquidation of the obligor.
+
+&emsp;&emsp;(B)
+
+Pre-existing indenture.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—The Secretary shall waive the requirement of subparagraph (A) for a public agency borrower that is financing ongoing capital programs and has outstanding senior bonds under a preexisting indenture, if—
+
+&emsp;&emsp;&emsp;&emsp;(I) the line of credit is rated in the A category or higher;
+
+&emsp;&emsp;&emsp;&emsp;(II) the TIFIA program loan resulting from a draw on the line of credit is payable from pledged revenues not affected by project performance, such as a tax-backed revenue pledge or a system-backed pledge of project revenues; and
+
+&emsp;&emsp;&emsp;&emsp;(III) the TIFIA program share of eligible project costs is 33 percent or less.
+
+&emsp;&emsp;&emsp;(ii)
+
+Limitation.—If the Secretary waives the nonsubordination requirement under this subparagraph—
+
+&emsp;&emsp;&emsp;&emsp;(I) the maximum credit subsidy to be paid by the Federal Government shall be not more than 10 percent of the principal amount of the secured loan; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the obligor shall be responsible for paying the remainder of the subsidy cost.
 
 &emsp;(9)
 
@@ -78,7 +120,7 @@ Fees.—The Secretary may establish fees at a level sufficient to cover all or a
 
 &emsp;(10)
 
-Relationship to other credit instruments.—A project that receives a line of credit under this section also shall not receive a secured loan or loan guarantee under section 603 of an amount that, combined with the amount of the line of credit, exceeds 33 percent of eligible project costs.
+Relationship to other credit instruments.—A project that receives a line of credit under this section also shall not receive a secured loan or loan guarantee under section 603 in an amount that, combined with the amount of the line of credit, exceeds 49 percent of eligible project costs.
 
 (c)
 
@@ -86,15 +128,25 @@ Repayment.—
 
 &emsp;(1)
 
-Terms and conditions.—The Secretary shall establish repayment terms and conditions for each direct loan under this section based on the projected cash flow from project revenues and other repayment sources.
+Terms and conditions.—The Secretary shall establish repayment terms and conditions for each direct loan under this section based on—
+
+&emsp;&emsp;(A) the projected cash flow from project revenues and other repayment sources; and
+
+&emsp;&emsp;(B) the useful life of the asset being financed.
 
 &emsp;(2)
 
-Timing.—All repayments of principal or interest on a direct loan under this section shall be scheduled to commence not later than 5 years after the end of the period of availability specified in subsection (b)(6) and to conclude, with full repayment of principal and interest, by the date that is 25 years after theend of the period of availability specified in subsection (b)(6).
+Timing.—All repayments of principal or interest on a direct loan under this section shall be scheduled—
 
-(Added Pub. L. 105–178, title I, §1503(a), June 9, 1998, 112 Stat. 247, §184; renumbered §604 and amended Pub. L. 109–59, title I, §§1601(e), 1602(b)(4), (d), Aug. 10, 2005, 119 Stat. 1241, 1247.)
+&emsp;&emsp;(A) to commence not later than 5 years after the end of the period of availability specified in subsection (b)(6); and
+
+&emsp;&emsp;(B) to conclude, with full repayment of principal and interest, by the date that is 25 years after the end of the period of availability specified in subsection (b)(6).
+
+(Added Pub. L. 105–178, title I, §1503(a), June 9, 1998, 112 Stat. 247, §184; renumbered §604 and amended Pub. L. 109–59, title I, §§1601(e), 1602(b)(4), (d), Aug. 10, 2005, 119 Stat. 1241, 1247; Pub. L. 112–141, div. A, title II, §2002, July 6, 2012, 126 Stat. 617.)
 
 #### Amendments
+
+<b>2012</b>—Pub. L. 112–141 amended section generally. Prior to amendment, section related to lines of credit.
 
 <b>2005</b>—Pub. L. 109–59, §1602(d), renumbered section 184 of this title as this section.
 
@@ -125,4 +177,8 @@ Subsec. (b)(10). Pub. L. 109–59, §1602(b)(4)(C), substituted “603” for �
 Subsec. (c)(2). Pub. L. 109–59, §1601(e)(2)(A), struck out “scheduled” before “repayments”, inserted “be scheduled to” after “shall”, and substituted “to conclude, with full repayment of principal and interest,” for “be fully repaid, with interest,”.
 
 Subsec. (c)(3). Pub. L. 109–59, §1601(e)(2)(B), struck out heading and text of par. (3). Text read as follows: “The sources of funds for scheduled loan repayments under this section shall include tolls, user fees, or other dedicated revenue sources.”
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
 

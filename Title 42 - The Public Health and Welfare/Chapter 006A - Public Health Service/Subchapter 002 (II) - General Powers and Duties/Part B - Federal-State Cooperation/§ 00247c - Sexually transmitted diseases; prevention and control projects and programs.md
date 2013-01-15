@@ -78,7 +78,7 @@ Subsec. (e). Pub. L. 103–183, §401(a)(1), redesignated subsec. (d), relating 
 
 Subsec. (e)(1). Pub. L. 103–183, §401(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “For the purpose of making grants under subsections (b) and (c) of this section there are authorized to be appropriated $45,000,000 for the fiscal year ending September 30, 1979, $51,500,000 for the fiscal year ending September 30, 1980, $59,000,000 for the fiscal year ending September 30, 1981, $40,000,000 for the fiscal year ending September 30, 1982, $46,500,000 for the fiscal year ending September 30, 1983, $50,000,000 for the fiscal year ending September 30, 1984, $57,000,000 for the fiscal year ending September 30, 1985, $62,500,000 for the fiscal year ending September 30, 1986, $68,000,000 for the fiscal year ending September 30, 1987, $78,000,000 for fiscal year 1989, and such sums as may be necessary for each of the fiscal years 1990 and 1991. For grants under subsection (b) of this section in any fiscal year, the Secretary shall obligate not less than 10 per centum of the amount appropriated for such fiscal year under the preceding sentence. Grants made under subsection (b) or (c) of this section shall be made on such terms and conditions as the Secretary finds necessary to carry out the purposes of such subsection, and payments under any such grants shall be made in advance or by way of reimbursement and in such installments as the Secretary finds necessary.”
 
-Subsec. (e)(5). Pub. L. 103–183, §401(c)(3), as amended by Pub. L. 105–392, §401(c), substituted “form; or” for“form, or” in subpar. (A) and “purposes;” for “purposes,” in subpar. (B).
+Subsec. (e)(5). Pub. L. 103–183, §401(c)(3), as amended by Pub. L. 105–392, §401(c), substituted “form; or” for “form, or” in subpar. (A) and “purposes;” for “purposes,” in subpar. (B).
 
 <b>1988</b>—Pub. L. 100–607, §311(1), amended section catchline.
 
@@ -88,7 +88,7 @@ Subsec. (d)(1). Pub. L. 100–607, §311(4), substituted “(b) and (c)” for �
 
 Subsecs. (e) to (g). Pub. L. 100–607, §311(2), (3), struck out subsec. (f) which related to conditional limitation on use of funds and redesignated subsecs. (e) and (g) as (d) and (e), respectively.
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–555, §3(b)(1), substituted “research in, and training and public health programs for, the prevention and control of sexually transmitted diseases” for “research, training, and public health programs for the prevention and control of venereal disease”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–555, §3(b)(1), substituted “research in, and training and public health programs for, the prevention and control of sexually transmitteddiseases” for “research, training, and public health programs for the prevention and control of venereal disease”.
 
 Subsec. (b). Pub. L. 98–555, §3(b)(2), in amending subsec. (b) generally, designated existing provisions as pars. (1) to (3), added par. (4), and substituted references to sexually transmitted diseases for reference to venereal disease.
 
@@ -144,7 +144,7 @@ Pub. L. 100–202, §101(h) \[title II\], Dec. 22, 1987, 101 Stat. 1329–256, 1
 
 #### Congressional Findings and Declarations
 
-Section 204(a) of Pub. L. 95–626 provided that: “The Congress finds and declares that—
+Pub. L. 95–626, title II, §204(a), Nov. 10, 1978, 92 Stat. 3582, provided that: “The Congress finds and declares that—
 
 &emsp;“(1) the number of reported cases of venereal disease persists in epidemic proportions in the United States;
 
@@ -168,7 +168,7 @@ Section 204(a) of Pub. L. 95–626 provided that: “The Congress finds and decl
 
 &emsp;“(11) an increasing number of sexually transmissible diseases besides syphilis and gonorrhea have become a public health hazard.”
 
-Section 203(a) of Pub. L. 94–317 provided that: “The Congress finds and declares that—
+Pub. L. 94–317, title II, §203(a), June 23, 1976, 90 Stat. 703, provided that: “The Congress finds and declares that—
 
 &emsp;“(1) the number of reported cases of venereal disease continues in epidemic proportions in the United States;
 
@@ -192,7 +192,7 @@ Section 203(a) of Pub. L. 94–317 provided that: “The Congress finds and decl
 
 &emsp;“(11) a variety of other sexually transmitted diseases, in addition to syphilis and gonorrhea, have become of public health significance.”
 
-Section 202 of Pub. L. 92–449 provided that:
+Pub. L. 92–449, title II, §202, Sept. 30, 1972, 86 Stat. 750, provided that:
 
 “(a) The Congress finds and declares that—
 

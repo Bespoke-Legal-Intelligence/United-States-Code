@@ -4,7 +4,7 @@
 
 #### (1) Grants
 
-&emsp;Out of the funds made available to carry out this part, the Secretary may pay the cost of competitive grants that are intended to stimulate innovative approaches to leveraging the Federal investment in environmental enhancement and protection, in conjunction with agricultural production or forest resource management, through the program.
+&emsp;Out of the funds made available to carry out this part, the Secretary may pay the cost of competitive grants that are intended to stimulate innovative approaches to leveraging theFederal investment in environmental enhancement and protection, in conjunction with agricultural production or forest resource management, through the program.
 
 #### (2) Use
 

@@ -12,5 +12,5 @@ The administrative provisions of sections 3782 and 3783 of this title shall appl
 
 #### Prior Provisions
 
-A prior section 13707, Pub. L. 103–322, title II, §20107, Sept. 13, 1994, 108 Stat. 1818, related to evaluation ofprograms prior to the general amendment of this part by Pub. L. 104–134.
+A prior section 13707, Pub. L. 103–322, title II, §20107, Sept. 13, 1994, 108 Stat. 1818, related to evaluation of programs prior to the general amendment of this part by Pub. L. 104–134.
 

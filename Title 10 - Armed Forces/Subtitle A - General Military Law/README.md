@@ -20,8 +20,9 @@
 | [<b>18.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20018%20-%20Military%20Support%20for%20Civilian%20Law%20Enforcement%20Agencies/README.md) | <b>Military Support for Civilian Law Enforcement Agencies</b> | <b>371</b> |
 | [<b>20.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20020%20-%20Humanitarian%20and%20Other%20Assistance/README.md) | <b>Humanitarian and Other Assistance</b> | <b>401</b> |
 | [<b>21.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20021%20-%20Department%20of%20Defense%20Intelligence%20Matters/README.md) | <b>Department of Defense Intelligence Matters</b> | <b>421</b> |
-| [<b>22.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20022%20-%20National%20Geospatial-Intelligence%20Agency/README.md) | <b>National Geospatial-Intelligence Agency</b> | <b>441</b> |
+| [<b>22.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20022%20-%20National%20Geospatial-Intelligence%20Agency/README.md) | <b>National Geospatial  -  Intelligence Agency</b> | <b>441</b> |
 | [<b>23.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20023%20-%20Miscellaneous%20Studies%20and%20Reports/README.md) | <b>Miscellaneous Studies and Reports</b> | <b>480</b> |
+| [<b>24.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20024%20-%20Nuclear%20Posture/README.md) | <b>Nuclear posture </b><b><sup>1</sup></b> | <b>491</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -142,6 +143,8 @@
 
 #### Amendments
 
+<b>2013</b>—Pub. L. 112–239, div. A, title X, §1031(b)(2), Jan. 2, 2013, 126 Stat. 1918, added item for chapter 24.
+
 <b>2011</b>—Pub. L. 111–383, div. A, title VIII, §861(b), title X, §1075(b)(1), Jan. 7, 2011, 124 Stat. 4292, 4368, substituted “1030” for “1031” in item for chapter 53 and added item for chapter 149.
 
 <b>2009</b>—Pub. L. 111–84, div. A, title X, §1073(a)(1), Oct. 28, 2009, 123 Stat. 2472, substituted “1580” for “1581” in item for chapter 81 and “2551” for “2541” in item for chapter 152.
@@ -178,7 +181,7 @@ Pub. L. 103–337, div. A, title V, §554(a)(2), Oct. 5, 1994, 108 Stat. 2773, a
 
 <b>1992</b>—Pub. L. 102–484, div. A, title XIII, §1322(a)(2), div. D, title XLII, §4271(b)(1), Oct. 23, 1992, 106 Stat. 2553, 2695, added items for chapters 89 and 148 and struck out former items for chapters 148 “Defense Industrial Base”, 149 “Manufacturing Technology”, and 150 “Development of Dual-Use Critical Technologies”.
 
-<b>1991</b>—Pub. L. 102–190, div. A, title X, §1061(a)(26)(C)(ii), Dec. 5, 1991, 105 Stat. 1474, effective Oct. 1, 1993, struck out item for chapter 85 “Procurement Management Personnel”.
+<b>1991</b>—Pub. L. 102–190, div. A, title X, §1061(a)(26)(C)(ii), Dec. 5, 1991, 105 Stat. 1474, effective Oct. 1, 1993, struckout item for chapter 85 “Procurement Management Personnel”.
 
 Pub. L. 102–190, div. A, title VIII, §821(f), title X, §§1002(a)(2), 1061(a)(27)(A), title XI, §1112(b)(2), Dec. 5, 1991, 105 Stat. 1432, 1455, 1474, 1501, substituted “Defense Budget Matters” for “Regular Components” and inserted “221” in item for chapter 9, substituted “Original Appointments of Regular Officers in Grades Above Warrant Officer Grades” for “Appointments in Regular Components” in item for chapter 33, added item for chapter 33A, substituted “Manufacturing” for “Maufacturing” in item for chapter 149, added items for chapters 150 and 152, struck out item for former chapter 150 “Issue to Armed Forces” and struck out item for former chapter 151 “Issue of Serviceable Material Other Than to Armed Forces”.
 
@@ -248,7 +251,9 @@ Pub. L. 87–649, §3(2), Sept. 7, 1962, 76 Stat. 493, added item for chapter 40
 
 <b>1961</b>—Pub. L. 87–381, §1(2), Oct. 4, 1961, 75 Stat. 810, substituted “Retired Serviceman's Family Protection Plan” for “Annuities Based on Retired or Retainer Pay” in item for chapter 73.
 
-<b>1958</b>—Pub. L. 85–861, §§1(21), (26), (33), 33(a)(4)(B), Sept. 2, 1958, 72 Stat. 1443, 1450, 1455, 1564, substituted “General Service Requirements” for “Service Requirements for Reserves” in item for chapter 37, “971” for “\[No present sections\]” in item for chapter 49, “Medical and Dental Care” for “Voting by Members of ArmedForces” in item for chapter 55, and struck out “Care of the Dead” and substituted “1475” for “1481” in item for chapter 75.
+<b>1958</b>—Pub. L. 85–861, §§1(21), (26), (33), 33(a)(4)(B), Sept. 2, 1958, 72 Stat. 1443, 1450, 1455, 1564, substituted “General Service Requirements” for “Service Requirements for Reserves” in item for chapter 37, “971” for “\[No present sections\]” in item for chapter 49, “Medical and Dental Care” for “Voting by Members of Armed Forces” in item for chapter 55, and struck out “Care of the Dead” and substituted “1475” for “1481” in item for chapter 75.
+
+<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 
 
 ---

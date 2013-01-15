@@ -56,7 +56,7 @@ The predictive analytics technologies used by the Secretary shall—
 
 #### (6) Option for refinement and evaluation
 
-&emsp;If, with respect to the first, second, or third implementation year, the Inspector General of the Department of Health and Human Services certifies as part of the report required under subsection (e) for that year no or only nominal actual savings to the Medicare fee-for-service program, the Secretary may impose a moratorium, not to exceed 12 months, on the expansion of the use of predictive analytics technologies under this section for the succeeding year in order to refine the use of predictive analytics technologies to achieve more than nominal savings before further expansion. If a moratorium is imposed in accordance with this paragraph, the implementation dates applicable for the succeeding year or years shall be adjusted to reflect the length of the moratorium period.
+&emsp;If, with respect to the first, second, or third implementation year, the Inspector General of the Department of Health and Human Services certifies as part of the report required under subsection (e) for that year no or only nominal actual savings to the Medicare fee-for-service program, the Secretary may impose a moratorium, not to exceed 12 months, on the expansion of the use of predictive analytics technologies under this section for the succeeding year in order to refine the use of predictive analytics technologies to achieve more thannominal savings before further expansion. If a moratorium is imposed in accordance with this paragraph, the implementation dates applicable for the succeeding year or years shall be adjusted to reflect the length of the moratorium period.
 
 #### (d) Contractor selection, qualifications, and data access requirements
 
@@ -104,7 +104,7 @@ The predictive analytics technologies used by the Secretary shall—
 
 &emsp;&emsp;&emsp;(i) specifies the actual and projected savings to the Medicare fee-for-service program as a result of the use of predictive analytics technologies, including estimates of the amounts of such savings with respect to both improper payments recovered and improper payments avoided;
 
-&emsp;&emsp;&emsp;(ii) the actual and projected savings to the Medicare fee-for-service program as aresult of such use of predictive analytics technologies relative to the return on investment for the use of such technologies and in comparison to other strategies or technologies used to prevent and detect fraud, waste, and abuse in the Medicare fee-for-service program; and
+&emsp;&emsp;&emsp;(ii) the actual and projected savings to the Medicare fee-for-service program as a result of such use of predictive analytics technologies relative to the return on investment for the use of such technologies and in comparison to other strategies or technologies used to prevent and detect fraud, waste, and abuse in the Medicare fee-for-service program; and
 
 &emsp;&emsp;&emsp;(iii) includes recommendations regarding—
 
@@ -172,7 +172,7 @@ In this section:
 
 #### (1) Commonwealths and territories
 
-&emsp;The term “commonwealth and territories” includes the Commonwealth of Puerto Rico,the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other territory or possession of the United States in which the Medicare fee-for-service program, Medicaid, or CHIP operates.
+&emsp;The term “commonwealth and territories” includes the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other territory or possession of the United States in which the Medicare fee-for-service program, Medicaid, or CHIP operates.
 
 #### (2) CHIP
 

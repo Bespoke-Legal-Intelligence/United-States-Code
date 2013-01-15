@@ -4,7 +4,7 @@
 
 (b)(1) In any one leave year, a leave donor may donate no more than a total of one-half of the amount of annual leave such donor would be entitled to accrue during the leave year in which the donation is made.
 
-(2) A leave donor who is projected to have annual leave that otherwise would be subject toforfeiture at the end of the leave year under section 6304(a) may donate no more than the number of hours remaining in the leave year (as of the date of the transfer) for which the leave donor is scheduled to work and receive pay.
+(2) A leave donor who is projected to have annual leave that otherwise would be subject to forfeiture at the end of the leave year under section 6304(a) may donate no more than the number of hours remaining in the leave year (as of the date of the transfer) for which the leave donor is scheduled to work and receive pay.
 
 (3) The employing agency of a leave donor may waive the limitation under paragraphs (1) and (2). Any such waiver shall be made in writing.
 

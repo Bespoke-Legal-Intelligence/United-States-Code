@@ -62,7 +62,7 @@ The provisions of subsection (a) shall be applicable to loss of distilled spirit
 
 &emsp;(5) the customs bonded warehouse in the case of withdrawal under sections 5066 and 5214(a)(9).
 
-> The provisions of subsection (a) shall be applicable to loss of distilled spirits withdrawn from bonded premises without payment of tax under section 5214(a)(10) for certain research, development, or testing, until such distilled spirits are used as provided by law.
+> The provisions of subsection (a) shall be applicable to loss of distilled spirits withdrawn frombonded premises without payment of tax under section 5214(a)(10) for certain research, development, or testing, until such distilled spirits are used as provided by law.
 
 #### (e) Other laws applicable
 
@@ -128,7 +128,7 @@ Subsec. (c)(5). Pub. L. 91–659, §2(b), permits distilled spirits returned to 
 
 #### Effective Date of 1997 Amendment
 
-Section 1411(b) of Pub. L. 105–34 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the 1st day of the 1st calendar quarter that begins at least 180 days after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title XIV, §1411(b), Aug. 5, 1997, 111 Stat. 1046, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the 1st day of the 1st calendar quarter that begins at least 180 days after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 #### Effective Date of 1979 Amendment
 
@@ -148,7 +148,7 @@ Amendment by Pub. L. 91–659 effective on first day of first calendar month whi
 
 #### Effective Date of 1968 Amendment
 
-Section 4 of Pub. L. 90–630 provided that:
+Pub. L. 90–630, §4, Oct. 22, 1968, 82 Stat. 1329, provided that:
 
 “(a) For purposes of subsection (b), the effective date of this Act is the first day of the first calendar month which begins more than 90 days after the date of the enactment of this Act \[Oct. 22, 1968\].
 
@@ -156,7 +156,7 @@ Section 4 of Pub. L. 90–630 provided that:
 
 #### Effective Date of 1965 Amendment
 
-Section 805(g)(1) of Pub. L. 89–44 provided that: “The amendments made by subsections (a), (c), (e), and (f)(6) \[amending this section and sections 5062, 5215, and 5608 of this title\] shall take effect on July 1, 1965.”
+Pub. L. 89–44, title VIII, §805(g)(1), June 21, 1965, 79 Stat. 162, provided that: “The amendments made by subsections (a), (c), (e), and (f)(6) \[amending this section and sections 5062, 5215, and 5608 of this title\] shall take effect on July 1, 1965.”
 
 #### Distilled Spirits Returned to Bonded Premises of Distilled Spirits Plant During 1980
 

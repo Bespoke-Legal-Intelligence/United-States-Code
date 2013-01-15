@@ -26,7 +26,7 @@ No provision of this subchapter shall affect or otherwise impair—
 
 #### (d) Exemption from State assessment
 
-Any land held in trust by the Secretary for the benefit of the Wampanoag Tribal Council of Gay Head, Inc. shall be exempt from taxation or lien or “in lieu of payment” or other assessment bythe State or any political subdivision of the State to the extent provided by the Settlement Agreement: <i>Provided, however</i>, That such taxation or lien or “in lieu of payment” or other assessment will only apply to lands which are zoned and utilized as commercial: <i>Provided further</i>, That this section shall not be interpreted as restricting the Tribe from entering into an agreement with the town of Gay Head to reimburse such town for the delivery of specific public services on the tribal lands.
+Any land held in trust by the Secretary for the benefit of the Wampanoag Tribal Council of Gay Head, Inc. shall be exempt from taxation or lien or “in lieu of payment” or other assessment by the State or any political subdivision of the State to the extent provided by the Settlement Agreement: <i>Provided, however</i>, That such taxation or lien or “in lieu of payment” or other assessment will only apply to lands which are zoned and utilized as commercial: <i>Provided further</i>, That this section shall not be interpreted as restricting the Tribe from entering into an agreement with the town of Gay Head to reimburse such town for the delivery of specific public services on the tribal lands.
 
 (Pub. L. 100–95, §7, Aug. 18, 1987, 101 Stat. 707.)
 

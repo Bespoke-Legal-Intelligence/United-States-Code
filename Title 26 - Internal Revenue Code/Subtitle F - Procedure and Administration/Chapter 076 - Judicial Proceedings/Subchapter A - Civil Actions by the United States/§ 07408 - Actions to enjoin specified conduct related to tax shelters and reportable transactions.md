@@ -52,5 +52,5 @@ Amendment by Pub. L. 98–369 effective on day after July 18, 1984, see section 
 
 #### Effective Date
 
-Section 321(c) of Pub. L. 97–248 provided that: “The amendments made by this section \[enacting this section\] shall take effect on the day after the date of the enactment of this Act \[Sept. 3, 1982\].”
+Pub. L. 97–248, title III, §321(c), Sept. 3, 1982, 96 Stat. 612, provided that: “The amendments made by this section \[enacting this section\] shall take effect on the day after the date of the enactment of this Act \[Sept. 3, 1982\].”
 

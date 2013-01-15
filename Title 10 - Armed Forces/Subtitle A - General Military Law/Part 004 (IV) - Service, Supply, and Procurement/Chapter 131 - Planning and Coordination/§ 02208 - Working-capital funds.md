@@ -22,7 +22,7 @@
 
 (f) The requisitioning agency may not incur a cost for supplies drawn from inventories, or services or work performed by industrial-type or commercial-type activities for which working-capital funds may be established under this section, that is more than the amount of appropriations or other funds available for those purposes.
 
-(g) The appraised value of supplies returned to working-capital funds by a department, activity, or agency may be charged to that fund. The proceeds thereof shall be credited to current applicable appropriations and are available for expenditure for the same purposes that those appropriations are so available. Credits may not be made to appropriations under this subsection as the result of capitalization of inventories under subsection (d).
+(g) The appraised value of supplies returned to working-capital funds by a department, activity, or agency may be charged to that fund. Theproceeds thereof shall be credited to current applicable appropriations and are available for expenditure for the same purposes that those appropriations are so available. Credits may not be made to appropriations under this subsection as the result of capitalization of inventories under subsection (d).
 
 (h) The Secretary of Defense shall prescribe regulations governing the operation of activities and use of inventories authorized by this section. The regulations may, if the needs of the Department of Defense require it and it is otherwise authorized by law, authorize supplies to be sold to, or services to be rendered or work performed for, persons outside the Department of Defense. However, supplies available in inventories financed by working capital funds established under this section may be sold to contractors for use in performing contracts with the Department of Defense. Working-capital funds shall be reimbursed for supplies so sold, services so rendered, or work so performed by charges to applicable appropriations or payments received in cash.
 
@@ -48,7 +48,7 @@
 
 &emsp;(D) Any other capital improvement.
 
-(<i>l</i>)(1) An advance billing of a customer of a working-capital fund may be made if the Secretary of the military department concerned submits to Congress written notification of the advance billing within 30 days after the end of the month in which the advanced billing was made. The notification shall include the following:
+(l)(1) An advance billing of a customer of a working-capital fund may be made if the Secretary of the military department concerned submits to Congress written notification of the advance billing within 30 days after the end of the month in which the advanced billing was made. The notification shall include the following:
 
 &emsp;(A) The reasons for the advance billing.
 
@@ -78,7 +78,7 @@ Capital Asset Subaccounts.—Amounts charged for depreciation of capital assets 
 
 Separate Accounting, Reporting, and Auditing of Funds and Activities.—The Secretary of Defense, with respect to the working-capital funds of each Defense Agency, and the Secretary of each military department, with respect to the working-capital funds of the military department, shall provide for separate accounting, reporting, and auditing of funds and activities managed through the working-capital funds.
 
-(<i>o</i>)
+(o)
 
 Charges for Goods and Services Provided Through the Fund.—(1) Charges for goods and services provided for an activity through a working-capital fund shall include the following:
 
@@ -216,7 +216,7 @@ Subsec. (k)(2). Pub. L. 111–383, §1403(2), substituted “$250,000” for “
 
 Subsec. (k)(2)(A). Pub. L. 112–81, §2802(c)(1)(A), substituted “section 2805(c)” for “section 2805(c)(1)”.
 
-Subsec. (<i>o</i>)(2)(A). Pub. L. 112–81, §2802(c)(1)(B), substituted “section 2805(c)” for “section 2805(c)(1)”.
+Subsec. (o)(2)(A). Pub. L. 112–81, §2802(c)(1)(B), substituted “section 2805(c)” for “section 2805(c)(1)”.
 
 <b>2004</b>—Subsec. (r). Pub. L. 108–375 added subsec. (r).
 
@@ -224,15 +224,15 @@ Subsec. (<i>o</i>)(2)(A). Pub. L. 112–81, §2802(c)(1)(B), substituted “sect
 
 <b>1999</b>—Subsec. (j). Pub. L. 106–65, §§331(a)(1), 332, designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, substituted “, remanufacturing, and engineering” for “or remanufacturing” in introductory provisions, inserted “or a subcontract under a Department of Defense contract” before the semicolon in subpar. (A), substituted “solicitation for the contract or subcontract” for “Department of Defense solicitation for such contract” in subpar. (B), and added par. (2).
 
-Subsec. (<i>l</i>)(2)(A). Pub. L. 106–65, §1066(a)(16), inserted “of” after “during a period”.
+Subsec. (l)(2)(A). Pub. L. 106–65, §1066(a)(16), inserted “of” after “during a period”.
 
-<b>1998</b>—Subsec. (<i>l</i>)(3), (4). Pub. L. 105–261, §1007(e)(1), and Pub. L. 105–262 amended subsec. (<i>l</i>) identically, adding par. (3) and redesignating former par. (3) as (4).
+<b>1998</b>—Subsec. (l)(3), (4). Pub. L. 105–261, §1007(e)(1), and Pub. L. 105–262 amended subsec. (l) identically, adding par. (3) and redesignating former par. (3) as (4).
 
 Subsecs. (m) to (q). Pub. L. 105–261, §1008(a), added subsecs. (m) to (q).
 
 <b>1997</b>—Subsec. (k). Pub. L. 105–85, §1011(a), added subsec. (k) and struck out former subsec. (k) which read as follows: “The Secretary of Defense shall provide that of the total amount of payments received in a fiscal year by funds established under this section for industrial-type activities, not less than 3 percent during fiscal year 1985, not less than 4 percent during fiscal year 1986, and not less than 5 percent during fiscal year 1987 shall be used for the acquisition of capital equipment for such activities.”
 
-Subsec. (<i>l</i>). Pub. L. 105–85, §1011(b), added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 105–85, §1011(b), added subsec. (l).
 
 <b>1993</b>—Subsec. (i). Pub. L. 103–160 amended subsec. (i) generally. Prior to amendment, subsec. (i) required that regulations under subsec. (h) authorize working-capital funded Army industrial facilities to sell manufactured articles and services to persons outside the Department of Defense in specified cases.
 
@@ -266,33 +266,33 @@ Subsec. (k). Pub. L. 101–510, §1301(6), struck out subsec. (k) which read as 
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–261, div. A, title X, §1007(e)(2), Oct. 17, 1998, 112 Stat. 2115, and Pub. L. 105–262, title VIII, §8146(d)(2), Oct. 17, 1998, 112 Stat. 2340, provided that: “Section 2208(<i>l</i>)(3) of such title, as added by paragraph (1), applies to fiscal years after fiscal year 1999.”
+Pub. L. 105–261, div. A, title X, §1007(e)(2), Oct. 17, 1998, 112 Stat. 2115, and Pub. L. 105–262, title VIII, §8146(d)(2), Oct. 17, 1998, 112 Stat. 2340, provided that: “Section 2208(l)(3) of such title, as added by paragraph (1), applies to fiscal years after fiscal year 1999.”
 
 #### Effective Date of 1983 Amendment
 
-Section 1204(b) of Pub. L. 98–94 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply only with respect to appropriations for fiscal years beginning after September 30, 1984.”
+Pub. L. 98–94, title XII, §1204(b), Sept. 24, 1983, 97 Stat. 683, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply only with respect to appropriations for fiscal years beginning after September 30, 1984.”
 
 #### Advance Billing for Fiscal Year 2006
 
-Pub. L. 109–234, title I, §1206, June 15, 2006, 120 Stat. 430, provided in part that: “Notwithstanding 10 U.S.C. 2208(<i>l</i>), the total amount of advance billings rendered or imposed for all working capital funds of the Department of Defense in fiscal year 2006 shall not exceed $1,200,000,000”.
+Pub. L. 109–234, title I, §1206, June 15, 2006, 120 Stat. 430, provided in part that: “Notwithstanding 10 U.S.C. 2208(l), the total amount of advance billings rendered or imposed for all working capital funds of the Department of Defense in fiscal year 2006 shall not exceed $1,200,000,000”.
 
 #### Advance Billing for Fiscal Year 2005
 
-Pub. L. 109–13, div. A, title I, §1005, May 11, 2005, 119 Stat. 243, provided that for fiscal year 2005, the limitation under subsec. (<i>l</i>)(3) of this section on the total amount of advance billings rendered or imposed for all working capital funds of the Department of Defense in a fiscal year would be applied by substituting “$1,500,000,000” for “$1,000,000,000”.
+Pub. L. 109–13, div. A, title I, §1005, May 11, 2005, 119 Stat. 243, provided that for fiscal year 2005, the limitation under subsec. (l)(3) of this section on the total amount of advance billings rendered or imposed for all working capital funds of the Department of Defense in a fiscal year would be applied by substituting “$1,500,000,000” for “$1,000,000,000”.
 
 #### Oversight of Defense Business Operations Fund
 
-Pub. L. 103–337, div. A, title III, §311(b)–(e), Oct. 5, 1994, 108 Stat. 2708, which related to purchase from other sources, limitation on inclusion of certain costs in DBOF charges, procedures for accumulation of funds, and annual reports and budget, was repealed and restated in section 2216a(d)(2)(B), (f) to (h)(3) of this title by Pub. L. 104–106, div. A, title III, §371(a)(1), (b)(1), Feb. 10, 1996, 110 Stat. 277–279.
+Pub. L. 103–337, div. A, title III, §311(b)–(e), Oct. 5, 1994, 108 Stat. 2708, which related to purchase fromother sources, limitation on inclusion of certain costs in DBOF charges, procedures for accumulation of funds, and annual reports and budget, was repealed and restated in section 2216a(d)(2)(B), (f) to (h)(3) of this title by Pub. L. 104–106, div. A, title III, §371(a)(1), (b)(1), Feb. 10, 1996, 110 Stat. 277–279.
 
 Pub. L. 103–337, div. A, title III, §311(f), (g), Oct. 5, 1994, 108 Stat. 2709, required Secretary of Defense to submit to congressional defense committees, not later than Feb. 1, 1995, a report on progress made in implementing the Defense Business Operations Fund Improvement Plan, dated September 1993, and required Comptroller General to monitor and evaluate the Department of Defense implementation of the Plan and to report to congressional defense committees not later than Mar. 1, 1995.
 
 #### Charges for Goods and Services Provided Through Defense Business Operations Fund
 
-Section 333(a), (b) of Pub. L. 103–160, which provided that charges for goods and services provided through Defense Business Operations Fund were to include amounts necessary to recover full costs of development, implementation, operation, and maintenance of systems supporting wholesale supply and maintenance activities of Department of Defense and use of military personnel in provision of goods and services, and were not to include amounts necessary to recover costs of military construction project other than minor construction project financed by Defense Business Operations Fund pursuant to section 2805(c)(1) of this title, and which required full cost of operation of Defense Finance Accounting Service to be financed within Defense Business Operations Fund through charges for goods and services provided through Fund, was repealed and restated in section 2216a(d)(1)(A), (C), (2)(A) of this title by Pub. L. 104–106, div. A, title III, §371(a)(1), (b)(2), Feb. 10, 1996, 110 Stat. 277–279.
+Pub. L. 103–160, div. A, title III, §333(a), (b), Nov. 30, 1993, 107 Stat. 1621, which provided that charges for goods and services provided through Defense Business Operations Fund were to include amounts necessary to recover full costs of development, implementation, operation, and maintenance of systems supporting wholesale supply and maintenance activities of Department of Defense and use of military personnel in provision of goods and services, and were not to include amounts necessary to recover costs of military construction project other than minor construction project financed by Defense Business Operations Fund pursuant to section 2805(c)(1) of this title, and which required full cost of operation of Defense Finance Accounting Service to be financed within Defense Business Operations Fund through charges for goods and services provided through Fund, was repealed and restated in section 2216a(d)(1)(A), (C), (2)(A) of this title by Pub. L. 104–106, div. A, title III, §371(a)(1), (b)(2), Feb. 10, 1996, 110 Stat. 277–279.
 
 #### Capital Asset Subaccount
 
-Section 342 of Pub. L. 102–484, as amended by Pub. L. 103–160, div. A, title III, §333(c), Nov. 30, 1993, 107 Stat.1622, which provided that charges for goods and services provided through the Defense Business Operations Fund include amounts for depreciation of capital assets which were to be credited to a separate capital asset subaccount in the Fund, authorized Secretary of Defense to award contracts for capital assets of the Fund in advance of availability of funds in the subaccount, required Secretary to submit annual reports to congressional defense committees, authorized appropriations to the Fund for fiscal years 1993 and 1994, and defined terms, was repealed and restated in section 2216a(d)(1)(B), (e), (h)(4), and (i) of this title by Pub. L. 104–106, div. A, title III, §371(a)(1), (b)(3), Feb. 10, 1996, 110 Stat. 277–279.
+Pub. L. 102–484, div. A, title III, §342, Oct. 23, 1992, 106 Stat. 2376, as amended by Pub. L. 103–160, div. A, title III, §333(c), Nov. 30, 1993, 107 Stat. 1622, which provided that charges for goods and services provided through the Defense Business Operations Fund include amounts for depreciation of capital assets which were to be credited to a separate capital asset subaccount in the Fund, authorized Secretary of Defense to award contracts for capital assets of the Fund in advance of availability of funds in the subaccount, required Secretary to submit annual reports to congressional defense committees, authorized appropriations to the Fund for fiscal years 1993 and 1994, and defined terms, was repealed and restated in section 2216a(d)(1)(B), (e), (h)(4), and (i) of this title by Pub. L. 104–106, div. A, title III, §371(a)(1), (b)(3), Feb. 10, 1996, 110 Stat. 277–279.
 
 #### Limitations on Use of Defense Business Operations Fund
 
@@ -300,7 +300,7 @@ Pub. L. 102–190, div. A, title III, §316, Dec. 5, 1991, 105 Stat. 1338, as am
 
 #### Defense Business Operations Fund
 
-Section 8121 of Pub. L. 102–172, which established on the books of the Treasury a fund entitled the “Defense Business Operations Fund” to be operated as a working capital fund under the provisions of this section and to include certain existing organizations including the Defense Finance and Accounting Service, the Defense Commissary Agency, the Defense Technical Information Center, the Defense Reutilization and Marketing Service, and the Defense Industrial Plant Equipment Service, directed transfer of assets and balances of those organizations to the Fund, provided for budgeting and accounting of charges for supplies and services provided by the Fund, and directed that capital asset charges collected be credited to a subaccount of the Fund, was repealed by Pub. L. 104–106, div. A, title III, §371(b)(5), Feb. 10, 1996, 110 Stat. 280.
+Pub. L. 102–172, title VIII, §8121, Nov. 26, 1991, 105 Stat. 1204, which established on the books of the Treasury a fund entitled the “Defense Business Operations Fund” to be operated as a working capital fund under the provisions of this section and to include certain existing organizations including the Defense Finance and Accounting Service, the Defense Commissary Agency, the Defense Technical Information Center, the Defense Reutilization and Marketing Service, and the Defense Industrial Plant Equipment Service, directed transfer of assets and balances of those organizations to the Fund, provided for budgeting and accounting of charges for supplies and services provided by the Fund, and directed that capital asset charges collected be credited to a subaccount of the Fund, was repealed by Pub. L. 104–106, div. A, title III, §371(b)(5), Feb. 10, 1996, 110 Stat. 280.
 
 #### Sale of Inventories for Performance of Contracts With Defense Department
 

@@ -40,7 +40,7 @@ Additional Terms and Conditions.—The Administrator may require such terms and 
 
 (d)
 
-Relationship to Other Lease Authority.—The authority under this section to lease property of the Administration is in addition toany other authority to lease property of the Administration under law.
+Relationship to Other Lease Authority.—The authority under this section to lease property of the Administration is in addition to any other authority to lease property of the Administration under law.
 
 (e)
 

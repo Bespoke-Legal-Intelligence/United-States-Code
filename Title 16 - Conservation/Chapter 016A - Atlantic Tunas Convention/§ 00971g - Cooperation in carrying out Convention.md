@@ -18,7 +18,7 @@ None of the prohibitions deriving from this chapter, or contained in the laws or
 
 (2) In the event a State does not request a formal hearing and after notice by the Secretary, the regulations promulgated pursuant to this chapter to implement recommendations of the Commission shall apply within the boundaries of any State bordering on any Convention area if the Secretary determines that any such State—
 
-&emsp;(A) has not, within a reasonable period of time after the promulgation of regulations pursuant to this chapter, enacted laws or promulgated regulations which implement any such recommendation of the Commission within the boundaries of such State; or
+&emsp;(A) has not, within a reasonable period of time after the promulgation of regulationspursuant to this chapter, enacted laws or promulgated regulations which implement any such recommendation of the Commission within the boundaries of such State; or
 
 &emsp;(B) has enacted laws or promulgated regulations which (i) are less restrictive than the regulations promulgated pursuant to this chapter, or (ii) are not effectively enforced.
 

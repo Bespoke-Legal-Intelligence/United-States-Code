@@ -16,11 +16,15 @@ The Board shall be composed of the following individuals or the representatives 
 
 &emsp;(4) The Secretary of Commerce.
 
-&emsp;(5) The Director of Central Intelligence.
+&emsp;(5) The Secretary of Homeland Security.
 
-&emsp;(6) The Chairperson of the National Endowment for the Humanities.
+&emsp;(6) The Secretary of Energy.
 
-&emsp;(7) Six individuals appointed by the President, who shall be experts in the fields of international, language, area, and counterproliferation studies education and who may not be officers or employees of the Federal Government.
+&emsp;(7) The Director of National Intelligence.
+
+&emsp;(8) The Chairperson of the National Endowment for the Humanities.
+
+&emsp;(9) Six individuals appointed by the President, who shall be experts in the fields of international, language, area, and counterproliferation studies education and who may not be officers or employees of the Federal Government.
 
 #### (c) Term of appointees
 
@@ -56,9 +60,25 @@ The Board shall perform the following functions:
 
 &emsp;(8) Review the administration of the program required under this chapter.
 
-(Pub. L. 102–183, title VIII, §803, Dec. 4, 1991, 105 Stat. 1273; Pub. L. 102–496, title IV, §404(d), Oct. 24, 1992, 106 Stat. 3186; Pub. L. 104–201, div. A, title X, §1078(e), Sept. 23, 1996, 110 Stat. 2666; Pub. L. 105–272, title III, §305(a)(3), (b), Oct. 20, 1998, 112 Stat. 2401; Pub. L. 105–277, div. G, title XIII, §1335(g), Oct. 21, 1998, 112 Stat. 2681–788; Pub. L. 107–306, title III, §333(a)(4), Nov. 27, 2002, 116 Stat. 2396; Pub. L. 108–487, title VI, §603(a)(3), Dec. 23, 2004, 118 Stat. 3954; Pub. L. 112–81, div. A, title X, §1087, Dec. 31, 2011, 125 Stat. 1603.)
+&emsp;(9) To the extent provided by the Secretary of Defense, oversee and coordinate the activities of the National Language Service Corps under section 1913 of this title, including—
+
+&emsp;&emsp;(A) assessing on a periodic basis whether the Corps is addressing the needs identified by the heads of departments and agencies of the Federal Government for personnel with skills in various foreign languages;
+
+&emsp;&emsp;(B) recommending plans for the Corps to address foreign language shortfalls and requirements of the departments and agencies of the Federal Government;
+
+&emsp;&emsp;(C) recommending effective ways to increase public awareness of the need for foreign languages skills and career paths in the Federal Government that use those skills; and
+
+&emsp;&emsp;(D) overseeing the Corps efforts to work with Executive agencies and State and Local <sup>1</sup> governments to respond to interagency plans and agreements to address overall foreign language shortfalls and to utilize personnel to address the various types of crises that warrant foreign language skills.
+
+(Pub. L. 102–183, title VIII, §803, Dec. 4, 1991, 105 Stat. 1273; Pub. L. 102–496, title IV, §404(d), Oct. 24, 1992, 106 Stat. 3186; Pub. L. 104–201, div. A, title X, §1078(e), Sept. 23, 1996, 110 Stat. 2666; Pub. L. 105–272, title III, §305(a)(3), (b), Oct. 20, 1998, 112 Stat. 2401; Pub. L. 105–277, div. G, title XIII, §1335(g), Oct. 21, 1998, 112 Stat. 2681–788; Pub. L. 107–306, title III, §333(a)(4), Nov. 27, 2002, 116 Stat. 2396; Pub. L. 108–487, title VI, §603(a)(3), Dec. 23, 2004, 118 Stat. 3954; Pub. L. 112–81, div. A, title X, §1087, Dec. 31, 2011, 125 Stat. 1603; Pub. L. 112–166, §2(c)(2), Aug. 10, 2012, 126 Stat. 1284; Pub. L. 112–239, div. A, title IX, §954(b), Jan. 2, 2013, 126 Stat. 1896.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (b)(5) to (9). Pub. L. 112–239, §954(b)(1), added pars. (5) to (7), redesignated former pars. (6) and (7) as (8) and (9), respectively, and struck out former par. (5) which read as follows: “The Director of Central Intelligence.”
+
+Subsec. (d)(9). Pub. L. 112–239, §954(b)(2), added par. (9).
+
+<b>2012</b>—Subsec. (b)(7). Pub. L. 112–166, which directed striking the phrase “by and with the advice and consent of the Senate,”, could not be executed because the phrase did not appear after execution of amendment by Pub. L. 112–81, §1087(a). See 2011 Amendment note below.
 
 <b>2011</b>—Subsec. (b)(7). Pub. L. 112–81, §1087(a), struck out “by and with the advice and consent of the Senate,” after “President,”.
 
@@ -100,6 +120,10 @@ Subsec. (b)(8). Pub. L. 102–496, §404(d)(1), (3), redesignated par. (7) as (8
 
 Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of this title.
 
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under section 113 of Title 6, Domestic Security.
+
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–306 effective on the date the Secretary of Defense submits the report required under section 334 of Pub. L. 107–306 and notifies the appropriate committees of Congress that the programs carried out under this chapter are being managed in a fiscally and programmatically sound manner, see section 333(c) of Pub. L. 107–306, set out as a note under section 1902 of this title.
@@ -107,4 +131,6 @@ Amendment by Pub. L. 107–306 effective on the date the Secretary of Defense su
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–277 effective on earlier of Oct. 1, 1999, or date of abolition of the United States Information Agency pursuant to reorganization plan described in section 6601 of Title 22, Foreign Relations and Intercourse, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of Title 22.
+
+<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

@@ -8,5 +8,5 @@ A prior section 3043, Pub. L. 89–73, title V, §503, as added Pub. L. 90–42,
 
 #### Effective Date of Repeal
 
-Section 501(a) of Pub. L. 94–478 provided that the repeal by that section is effective at the close of Sept. 30, 1978.
+Pub. L. 95–478, title V, §501(a), Oct. 18, 1978, 92 Stat. 1558, provided that the repeal by that section is effective at the close of Sept. 30, 1978.
 

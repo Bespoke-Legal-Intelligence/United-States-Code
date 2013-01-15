@@ -10,5 +10,5 @@ This Act, referred to in text, is act Feb. 8, 1887, ch. 119, 24 Stat. 388, as am
 
 #### Codification
 
-Provisions relating to the grant of citizenship to certain Indians born within the territorial limits of the United States were omitted in view of act June 2, 1924, ch. 233, 43 Stat. 253, which granted citizenship to all non-citizen Indians born within the territorial limits of the United States. See section 1401 of Title 8, Aliens and Nationality.
+Provisions relating to the grant of citizenship to certain Indians born within the territorial limits of the United States were omitted in view of act June 2, 1924, ch. 233, 43 Stat. 253, which granted citizenship to allnon-citizen Indians born within the territorial limits of the United States. See section 1401 of Title 8, Aliens and Nationality.
 

@@ -2,17 +2,27 @@
 
 (a)
 
-Transition for Involuntarily Separated Members.—(1) The Secretary of a military department may, pursuant to regulations prescribed by the Secretary of Defense, permit individuals who are involuntarily separated during the period beginning on October 1, 1990, and ending on December 31, 2001, to continue for not more than 180 days after the date of such separation to reside (along with other members of the individual's household) in military family housing provided or leased by the Department of Defense to such individual as a member of the armed forces.
+Transition for Involuntarily Separated Members.—(1) The Secretary of a military department may, pursuant to regulations prescribed by the Secretary of Defense, permit individuals who are involuntarily separated during the period beginning on October 1, 2012, and ending on December 31, 2018, to continue for not more than 180 days after the date of such separation to reside (along with other members of the individual's household) in military family housing provided or leased by the Department of Defense to such individual as a member of the armed forces.
 
-(2) The Secretary of Transportation may prescribe regulations to permit members of the Coast Guard who are involuntarily separated during the period beginning on October 1, 1994, and ending on December 31, 2001, to continue for not more than 180 days after the date of such separation to reside (along with others of the member's household) in military family housing provided or leased by the Coast Guard to the individual as a member of the armed forces.
+(2) The Secretary concerned may prescribe regulations to permit members of the Coast Guard who are involuntarily separated during the period beginning on October 1, 2012, and ending on December 31, 2018, to continue for not more than 180 days after the date of such separation to reside (along with others of the member's household) in military family housing provided or leased by the Coast Guard to the individual as a member of the armed forces.
 
 (b)
 
 Rental Charges.—The Secretary concerned, pursuant to such regulations, shall require a reasonable rental charge for the continued use of military family housing under subsection (a), except that such Secretary may waive all or any portion of such charge in any case of hardship.
 
-(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1556; amended Pub. L. 103–160, div. A, title V, §561(i), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–337, div. A, title V, §542(a)(6), Oct. 5, 1994, 108 Stat. 2768; Pub. L. 105–261, div. A, title V, §561(j), Oct. 17, 1998, 112 Stat. 2026; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(j)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–135.)
+(c)
+
+No Transitional Basic Allowance for Housing.—Nothing in this section shall be construed to authorize the Secretary concerned to continue to provide for any period of time to an individual who is involuntarily separated all or any portion of a basic allowance for housing to which the individual was entitled under section 403 of title 37 immediately before being involuntarily separated, even in cases in which the individual or members of the individual's household continue to reside after the separation in a housing unit acquired or constructed under the alternative authority of subchapter IV of chapter 169 of this title that is not owned or leased by the United States.
+
+(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1556; amended Pub. L. 103–160, div. A, title V, §561(i), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–337, div. A, title V, §542(a)(6), Oct. 5, 1994, 108 Stat. 2768; Pub. L. 105–261, div. A, title V, §561(j), Oct. 17, 1998, 112 Stat. 2026; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(j)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–135; Pub. L. 112–239, div. A, title VI, §632, Jan. 2, 2013, 126 Stat. 1782.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (a)(1). Pub. L. 112–239, §632(a)(1), substituted “October 1, 2012, and ending on December 31, 2018” for “October 1, 1990, and ending on December 31, 2001”.
+
+Subsec. (a)(2). Pub. L. 112–239, §632(a)(2), (c), substituted “The Secretary concerned” for “The Secretaryof Transportation” and “October 1, 2012, and ending on December 31, 2018” for “October 1, 1994, and ending on December 31, 2001”.
+
+Subsec. (c). Pub. L. 112–239, §632(b), added subsec. (c).
 
 <b>2000</b>—Subsec. (a). Pub. L. 106–398 substituted “December 31, 2001” for “September 30, 2001” in pars. (1) and (2).
 

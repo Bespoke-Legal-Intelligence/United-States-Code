@@ -40,7 +40,7 @@ Grants under this section shall be used for the following:
 
 &emsp;(1) To carry out the policies set forth in section 11431 of this title in the State.
 
-&emsp;(2) To provide activities for, and services to, homeless children, including preschool-aged homeless children, and youths that enable such children and youths to enroll in, attend,and succeed in school, or, if appropriate, in preschool programs.
+&emsp;(2) To provide activities for, and services to, homeless children, including preschool-aged homeless children, and youths that enable such children and youths to enroll in, attend, and succeed in school, or, if appropriate, in preschool programs.
 
 &emsp;(3) To establish or designate an Office of Coordinator for Education of Homeless Children and Youths in the State educational agency in accordance with subsection (f) of this section.
 
@@ -106,7 +106,7 @@ Grants under this section shall be used for the following:
 
 &emsp;&emsp;&emsp;&emsp;(I) is complying with clauses (i) and (ii); and
 
-&emsp;&emsp;&emsp;&emsp;(II) is meeting (as of the date of submission of the application) the same Federal and State standards, regulations, and mandates as other public schools in the State (such as complying with sections 1111 and 1116 of the Elementary and Secondary Education Actof 1965 \[20 U.S.C. 6311, 6316\] and providing a full range of education and related services, including services applicable to students with disabilities).
+&emsp;&emsp;&emsp;&emsp;(II) is meeting (as of the date of submission of the application) the same Federal and State standards, regulations, and mandates as other public schools in the State (such as complying with sections 1111 and 1116 of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6311, 6316\] and providing a full range of education and related services, including services applicable to students with disabilities).
 
 #### (D) School ineligibility
 
@@ -252,7 +252,7 @@ The Coordinator for Education of Homeless Children and Youths established in eac
 
 &emsp;&emsp;&emsp;&emsp;(I) If the homeless child or youth continues to live in the area served by the local educational agency in which the school of origin is located, the child's or youth's transportation to and from the school of origin shall be provided or arranged by the local educational agency in which the school of origin is located.
 
-&emsp;&emsp;&emsp;&emsp;(II) If the homeless child's or youth's living arrangements in the area served by the local educational agency of origin terminate and the child or youth, though continuing his or her education in the school of origin, begins living in an area served by another local educationalagency, the local educational agency of origin and the local educational agency in which the homeless child or youth is living shall agree upon a method to apportion the responsibility and costs for providing the child with transportation to and from the school of origin. If the local educational agencies are unable to agree upon such method, the responsibility and costs for transportation shall be shared equally.
+&emsp;&emsp;&emsp;&emsp;(II) If the homeless child's or youth's living arrangements in the area served by the local educational agency of origin terminate and the child or youth, though continuing his or her education in the school of origin, begins living in an area served by another local educational agency, the local educational agency of origin and the local educational agency in which the homeless child or youth is living shall agree upon a method to apportion the responsibility and costs for providing the child with transportation to and from the school of origin. If the local educational agencies are unable to agree upon such method, the responsibility and costs for transportation shall be shared equally.
 
 #### (2) Compliance
 
@@ -308,7 +308,7 @@ The Coordinator for Education of Homeless Children and Youths established in eac
 
 &emsp;&emsp;If a dispute arises over school selection or enrollment in a school—
 
-&emsp;&emsp;&emsp;(i) the child or youth shall be immediately admitted to the school in which enrollment is sought, pending resolution of the dispute;
+&emsp;&emsp;&emsp;(i) the child or youth shall be immediately admitted to the school in whichenrollment is sought, pending resolution of the dispute;
 
 &emsp;&emsp;&emsp;(ii) the parent or guardian of the child or youth shall be provided with a written explanation of the school's decision regarding school selection or enrollment, including the rights of the parent, guardian, or youth to appeal the decision;
 
@@ -322,7 +322,7 @@ The Coordinator for Education of Homeless Children and Youths established in eac
 
 #### (G) School of origin defined
 
-&emsp;&emsp;In this paragraph, the term “school of origin” means the school that the child oryouth attended when permanently housed or the school in which the child or youth was last enrolled.
+&emsp;&emsp;In this paragraph, the term “school of origin” means the school that the child or youth attended when permanently housed or the school in which the child or youth was last enrolled.
 
 #### (H) Contact information
 
@@ -396,7 +396,7 @@ The Coordinator for Education of Homeless Children and Youths established in eac
 
 #### (A) In general
 
-&emsp;&emsp;Each State educational agency and local educational agency that receives assistance under this part shall review and revise anypolicies that may act as barriers to the enrollment of homeless children and youths in schools that are selected under paragraph (3).
+&emsp;&emsp;Each State educational agency and local educational agency that receives assistance under this part shall review and revise any policies that may act as barriers to the enrollment of homeless children and youths in schools that are selected under paragraph (3).
 
 #### (B) Consideration
 

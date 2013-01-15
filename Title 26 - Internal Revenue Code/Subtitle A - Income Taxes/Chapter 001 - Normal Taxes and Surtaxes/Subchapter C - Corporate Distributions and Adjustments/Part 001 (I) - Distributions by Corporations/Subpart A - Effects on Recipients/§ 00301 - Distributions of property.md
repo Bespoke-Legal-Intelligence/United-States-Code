@@ -42,7 +42,7 @@ In the case of a distribution to which subsection (a) applies—
 
 #### (B) Distributions out of increase in value accrued before March 1, 1913
 
-&emsp;&emsp;That portion of the distribution which is not a dividend, to the extent that it exceedsthe adjusted basis of the stock and to the extent that it is out of increase in value accrued before March 1, 1913, shall be exempt from tax.
+&emsp;&emsp;That portion of the distribution which is not a dividend, to the extent that it exceeds the adjusted basis of the stock and to the extent that it is out of increase in value accrued before March 1, 1913, shall be exempt from tax.
 
 #### (d) Basis
 
@@ -84,13 +84,9 @@ The basis of property received in a distribution to which subsection (a) applies
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 84; Pub. L. 87–403, §2(a), Feb. 2, 1962, 76 Stat. 5; Pub. L. 87–834, §§5(a), (b), 13(f)(2), Oct. 16, 1962, 76 Stat. 977, 1035; Pub. L. 88–272, title II, §231(b)(2), Feb. 26, 1964, 78 Stat. 105; Pub. L. 88–484, §1(b)(1), Aug. 22, 1964, 78 Stat. 597; Pub. L. 89–570, §1(b)(2), Sept. 12, 1966, 80 Stat. 762; Pub. L. 89–809, title I, §104(f), Nov. 13, 1966, 80 Stat. 1559; Pub. L. 91–172, title II, §211(b)(1), (2), title IX, §905(b)(2), Dec. 30, 1969, 83 Stat. 570, 714; Pub. L. 92–178, title III, §312(a), Dec. 10, 1971, 85 Stat. 526; Pub. L. 94–455, title II, §205(c)(1)(B), (C), title XIX, §§1901(a)(41), (b)(32)(A), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1535, 1771, 1800, 1834; Pub. L. 95–628, §3(a), (b), Nov. 10, 1978, 92 Stat. 3627; Pub. L. 98–369, div. A, title I, §§54(b), 61(d), title VII, §712(i)(1), July 18, 1984, 98 Stat. 569, 582, 948; Pub. L. 99–514, title VI, §612(b)(1), title XVIII, §1804(f)(2)(B), Oct. 22, 1986, 100 Stat. 2250, 2805; Pub. L. 100–203, title X, §10222(b)(1), Dec. 22, 1987, 101 Stat. 1330–411; Pub. L. 100–647, title I, §1006(e)(10)–(12), title II, §2004(j)(3)(B), Nov. 10, 1988, 102 Stat. 3401, 3402, 3605; Pub. L. 108–27, title III, §302(e)(2), May 28, 2003, 117 Stat. 763.)
 
-#### Amendment of Section
-
-<i>For termination of amendment by section 303 of Pub. L. 108–27, see Effective and Termination Dates of 2003 Amendment note below.</i>
-
 #### Amendments
 
-<b>2003</b>—Subsec. (f)(4). Pub. L. 108–27, §§302(e)(2), 303, temporarily added par. (4). See Effective and Termination Dates of 2003 Amendment note below.
+<b>2003</b>—Subsec. (f)(4). Pub. L. 108–27 added par. (4).
 
 <b>1988</b>—Subsec. (b)(1). Pub. L. 100–647, §1006(e)(10), amended par. (1) generally. Prior to amendment, par. (1) contained subpars. (A) to (D) which provided what the amount of any distribution would be for noncorporate distributees, corporate distributees, certain corporate distributees of foreign corporations, and foreign corporate distributees.
 
@@ -172,11 +168,9 @@ Subsec. (d)(3). Pub. L. 87–834, §5(b), added par. (3).
 
 Subsecs. (f), (g). Pub. L. 87–403 added subsec. (f) and redesignated former subsec. (f) as (g).
 
-#### Effective and Termination Dates of 2003 Amendment
+#### Effective Date of 2003 Amendment
 
-Amendment by Pub. L. 108–27 applicable, except as otherwise provided, to taxable years beginning after Dec. 31, 2002, see section 302(f) of Pub. L. 108–27, set out as a note under section 1 of this title.
-
-Amendment by Pub. L. 108–27 inapplicable to taxable years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 303 of Pub. L. 108–27, as amended, set out as a note under section 1 of this title.
+Amendment by Pub. L. 108–27 applicable, except as otherwise provided, to taxable years beginning after Dec. 31, 2002, see section 302(f) of Pub. L. 108–27, set out as an Effective and Termination Dates of 2003 Amendment note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -186,7 +180,7 @@ Amendment by section 2004(j)(3)(B) of Pub. L. 100–647 effective, except as oth
 
 #### Effective Date of 1987 Amendment
 
-Section 10222(b)(2) of Pub. L. 100–203, as amended by Pub. L. 100–647, title II, §2004(j)(4), Nov. 10, 1988, 102 Stat. 3605, provided that:
+Pub. L. 100–203, title X, §10222(b)(2), Dec. 22, 1987, 101 Stat. 1330–411, as amended by Pub. L. 100–647, title II, §2004(j)(4), Nov. 10, 1988, 102 Stat. 3605, provided that:
 
 “(A)
 
@@ -202,7 +196,7 @@ Exception.—The amendment made by paragraph (1) shall not apply for purposes of
 
 #### Effective Date of 1986 Amendment
 
-Section 612(c) of Pub. L. 99–514 provided that: “The amendments made by this section \[amending this section and sections 584, 642, 643, 702, 854, and 857 of this title, repealing section 116 of this title, and enacting provisions set out as a note under section 584 of this title\] shall apply to taxable years beginning after December 31, 1986.”
+Pub. L. 99–514, title VI, §612(c), Oct. 22, 1986, 100 Stat. 2251, provided that: “The amendments made by this section \[amending this section and sections 584, 642, 643, 702, 854, and 857 of this title, repealing section 116 of this title, and enacting provisions set out as a note under section 584 of this title\] shall apply to taxable years beginning after December 31, 1986.”
 
 Amendment by section 1804(f)(2)(B) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
@@ -210,13 +204,13 @@ Amendment by section 1804(f)(2)(B) of Pub. L. 99–514 effective, except as othe
 
 Amendment by section 54(b) of Pub. L. 98–369 applicable to distributions after July 18, 1984, in taxable years ending after July 18, 1984, see section 54(d)(2) of Pub. L. 98–369, set out as a note under section 311 of this title.
 
-Section 61(e)(4) of Pub. L. 98–369 provided that: “The amendment made by subsection (d) \[amending this section\] shall apply to distributions after the date of the enactment of this Act \[July 18, 1984\] in taxable years ending after such date.”
+Pub. L. 98–369, div. A, title I, §61(e)(4), July 18, 1984, 98 Stat. 583, provided that: “The amendment made by subsection (d) \[amending this section\] shall apply to distributions after the date of the enactment of this Act \[July 18, 1984\] in taxable years ending after such date.”
 
 Amendment by section 712(i)(1) of Pub. L. 98–369 effective as if included in the provision of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section 715 of Pub. L. 98–369, set out as a note under section 31 of this title.
 
 #### Effective Date of 1978 Amendment
 
-Section 3(d) of Pub. L. 95–628 provided that: “The amendments made by this section \[amending this section and section 312 of this title\] shall apply to distributions made after the date of the enactment of this Act \[Nov. 10, 1978\].”
+Pub. L. 95–628, §3(d), Nov. 10, 1978, 92 Stat. 3628, provided that: “The amendments made by this section \[amending this section and section 312 of this title\] shall apply to distributions made after the date of the enactment of this Act \[Nov. 10, 1978\].”
 
 #### Effective Date of 1976 Amendment
 
@@ -226,37 +220,37 @@ Amendment by section 1901(a)(41), (b)(32)(A) of Pub. L. 94–455 effective for t
 
 #### Effective Date of 1971 Amendment
 
-Section 312(b) of Pub. L. 92–178 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to distributions made after November 8, 1971.”
+Pub. L. 92–178, title III, §312(b), Dec. 10, 1971, 85 Stat. 526, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to distributions made after November 8, 1971.”
 
 #### Effective Date of 1969 Amendment
 
-Section 211(c) of Pub. L. 91–172 provided that: “The amendments made by this section \[enacting section 1251 of this title and amending this section and sections 312, 341, 453, and 751 of this title\] shall apply to taxable years beginning after December 31, 1969.”
+Pub. L. 91–172, title II, §211(c), Dec. 30, 1969, 83 Stat. 570, provided that: “The amendments made by this section \[enacting section 1251 of this title and amending this section and sections 312, 341, 453, and 751 of this title\] shall apply to taxable years beginning after December 31, 1969.”
 
 Amendment by section 905(b)(2) of Pub. L. 91–172 effective with respect to distributions made after Nov. 30, 1969, see section 905(c) of Pub. L. 91–172, set out as a note under section 311 of this title.
 
-#### Effective Date of 1966 Amendments
+#### Effective Date of 1966 Amendment
 
 Amendment by Pub. L. 89–809 applicable with respect to taxable years beginning after Dec. 31, 1966, see section 104(n) of Pub. L. 89–809, set out as a note under section 11 of this title.
 
 Amendment by Pub. L. 89–570 applicable to taxable years ending after Sept. 12, 1966, but only in respect of expenditures paid or incurred after such date, see section 3 of Pub. L. 89–570, set out as an Effective Date note under section 617 of this title.
 
-#### Effective Date of 1964 Amendments
+#### Effective Date of 1964 Amendment
 
-Pub. L. 88–484, §2, Aug. 22, 1964, 78 Stat. 597, provided that: “The amendments made by the first section of this Act \[amending this section and sections 312, 341, and 453 of this title\] shall apply with respect to transactions after the date of the enactment of this Act \[Aug. 22, 1964\] in taxable years ending after such date.”
+Pub. L. 88–484, §2, Aug. 22, 1964, 78 Stat. 597, provided that: “The amendments made by the first section ofthis Act \[amending this section and sections 312, 341, and 453 of this title\] shall apply with respect to transactions after the date of the enactment of this Act \[Aug. 22, 1964\] in taxable years ending after such date.”
 
 Amendment by Pub. L. 88–272 applicable to dispositions after Dec. 31, 1963, in taxable years ending after such date, see section 231(c) of Pub. L. 88–272, set out as an Effective Date note under section 1250 of this title.
 
 #### Effective Date of 1962 Amendments
 
-Section 5(d) of Pub. L. 87–834 provided that: “The amendments made by this section \[amending this section and section 245 of this title\] shall apply to distributions made after December 31, 1962.”
+Pub. L. 87–834, §5(d), Oct. 16, 1962, 76 Stat. 977, provided that: “The amendments made by this section \[amending this section and section 245 of this title\] shall apply to distributions made after December 31, 1962.”
 
 Amendment by section 13(f)(2) of Pub. L. 87–834 applicable to taxable years beginning after Dec. 31, 1962, see section 13(g) of Pub. L. 87–834, set out as an Effective Date note under section 1245 of this title.
 
-Section 2(b) of Pub. L. 87–403 provided that: “The amendments made by this section \[amending this section\] shall apply only with respect to distributions made after the date of the enactment of this Act \[Feb. 2, 1962\].”
+Pub. L. 87–403, §2(b), Feb. 2, 1962, 76 Stat. 6, provided that: “The amendments made by this section \[amending this section\] shall apply only with respect to distributions made after the date of the enactment of this Act \[Feb. 2, 1962\].”
 
 #### Study of Corporate Provisions
 
-Section 634 of Pub. L. 99–514 directed Secretary of the Treasury or his delegate to conduct a study of proposals to reform the provisions of subchapter C of chapter 1 of the Internal Revenue Code of 1986, and not later than Jan. 1, 1988 (due date extended to Jan. 1, 1992, by Pub. L. 101–508, title XI, §11831(b), Nov. 5, 1990, 104 Stat. 1388–559), to submit to Committee on Ways and Means of House of Representatives and Committee on Finance of Senate a report on the study conducted (together with such recommendations he deemed advisable).
+Pub. L. 99–514, title VI, §634, Oct. 22, 1986, 100 Stat. 2282, directed Secretary of the Treasury or his delegate to conduct a study of proposals to reform the provisions of subchapter C of chapter 1 of the Internal Revenue Code of 1986, and not later than Jan. 1, 1988 (due date extended to Jan. 1, 1992, by Pub. L. 101–508, title XI, §11831(b), Nov. 5, 1990, 104 Stat. 1388–559), to submit to Committee on Ways and Means of House of Representatives and Committee on Finance of Senate a report on the study conducted (together with such recommendations he deemed advisable).
 
 #### Plan Amendments Not Required Until January 1, 1989
 

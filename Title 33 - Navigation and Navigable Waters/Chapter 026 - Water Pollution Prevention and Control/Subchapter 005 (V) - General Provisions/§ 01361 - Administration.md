@@ -40,5 +40,5 @@ Section 9 of Pub. L. 92–500 authorized the President, acting through the Attor
 
 #### Transfer of Public Health Service Officers
 
-Pub. L. 89–234, §2(b)–(k), Oct. 2, 1965, 79 Stat. 904, 905, authorized the transfer of certain commissioned officers of the Public Health Service to classified positions in the Federal Water Pollution Control Administration, now the Environmental Protection Agency, where such transfer was requested within six months after theestablishment of the Administration and made certain administrative provisions relating to pension and retirement rights of the transferees, sick leave benefits, group life insurance, and certain other miscellaneous provisions.
+Pub. L. 89–234, §2(b)–(k), Oct. 2, 1965, 79 Stat. 904, 905, authorized the transfer of certain commissioned officers of the Public Health Service to classified positions in the Federal Water Pollution Control Administration, now the Environmental Protection Agency, where such transfer was requested within six months after the establishment of the Administration and made certain administrative provisions relating to pension and retirement rights of the transferees, sick leave benefits, group life insurance, and certain other miscellaneous provisions.
 

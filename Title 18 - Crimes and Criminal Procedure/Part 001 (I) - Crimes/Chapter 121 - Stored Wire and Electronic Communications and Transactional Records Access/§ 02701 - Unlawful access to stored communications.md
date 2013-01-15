@@ -60,7 +60,7 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 #### Effective Date
 
-Section 202 of title II of Pub. L. 99–508 provided that: “This title and the amendments made by this title \[enacting this chapter\] shall take effect ninety days after the date of the enactment of this Act \[Oct. 21, 1986\] and shall, in the case of conduct pursuant to a court order or extension, apply only with respect to court orders or extensions made after this title takes effect.”
+Pub. L. 99–508, title II, §202, Oct. 21, 1986, 100 Stat. 1868, provided that: “This title and the amendments made by this title \[enacting this chapter\] shall take effect ninety days after the date of the enactment of this Act \[Oct. 21, 1986\] and shall, in the case of conduct pursuant to a court order or extension, apply only with respect to court orders or extensions made after this title takes effect.”
 
 #### Short Title of 1988 Amendment
 

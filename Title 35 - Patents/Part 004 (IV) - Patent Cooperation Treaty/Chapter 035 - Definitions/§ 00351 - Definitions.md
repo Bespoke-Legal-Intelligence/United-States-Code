@@ -42,17 +42,17 @@ Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see secti
 
 #### Effective Date of 1986 Amendment
 
-Section 9 of Pub. L. 99–616 provided that: “Sections 2 through 8 of this Act \[amending this section and sections 361, 362, 364, 368, 371, and 376 of this title\] shall come into force on the same day as the effective date of entry into force of chapter II of the Patent Cooperation Treaty with respect to the United States, by virtue of the withdrawal of the declaration under article 64(1)(a) of the Patent Cooperation Treaty. It shall apply to all international applications pending before or after its effective date.”
+Pub. L. 99–616, §9, Nov. 6, 1986, 100 Stat. 3487, provided that: “Sections 2 through 8 of this Act \[amending this section and sections 361, 362, 364, 368, 371, and 376 of this title\] shall come into force on the same day as the effective date of entry into force of chapter II of the Patent Cooperation Treaty with respect to the United States, by virtue of the withdrawal of the declaration under article 64(1)(a) of the Patent Cooperation Treaty. It shall apply to all international applications pending before or after its effective date.”
 
 \[The Patent Cooperation Treaty became effective for the United States on Jan. 24, 1978. The United States, however, was one of six countries (out of the 40 countries who have ratified or acceded to the Treaty) which had reservations not to be bound by Chapter II. The document removing the reservation as to Chapter II was deposited with the Director General of the World Intellectual Property Organization on Apr. 1, 1987. Accordingly, Chapter II of the Treaty for the United States of America and Pub. L. 99–616 became effective 3 months later on July 1, 1987. See 52 F.R. 20038, 20041, May 28, 1987.\]
 
 #### Effective Date of 1984 Amendment
 
-Section 406(a) of Pub. L. 98–622 provided that: “Section 404 of this Act \[set out as a note under section 41 of this title\] and the amendments made by section 403 of this Act \[amending this section and sections 104, 361, 362, 363, 364, 365, 367, 368, 371, 372, 373, and 376 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 8, 1984\].”
+Pub. L. 98–622, title IV, §406(a), Nov. 8, 1984, 98 Stat. 3393, provided that: “Section 404 of this Act \[set out as a note under section 41 of this title\] and the amendments made by section 403 of this Act \[amending this section and sections 104, 361, 362, 363, 364, 365, 367, 368, 371, 372, 373, and 376 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 8, 1984\].”
 
 #### Effective Date
 
-Section 11 of Pub. L. 94–131 provided that:
+Pub. L. 94–131, §11, Nov. 14, 1975, 89 Stat. 692, provided that:
 
 “(a) Section 1 of this Act \[enacting this part\] shall come into force on the same day as the entry into force of the Patent Cooperation Treaty with respect to the United States. It shall apply to international and national applications filed on and after this effective date, even though entitled to the benefit of an earlier filing date, and to patents issued on such applications.
 
@@ -64,5 +64,5 @@ Section 11 of Pub. L. 94–131 provided that:
 
 #### Short Title of 1986 Amendment
 
-Section 1 of Pub. L. 99–616 provided: “That this Act \[amending this section and sections 361, 362, 364, 368, 371, and 376 of this title and enacting provisions set out as a note above\] may be cited as the ‘Act to authorize the United States to participate in chapter II of the Patent Cooperation Treaty’.”
+Pub. L. 99–616, §1, Nov. 6, 1986, 100 Stat. 3485, provided: “That this Act \[amending this section and sections 361, 362, 364, 368, 371, and 376 of this title and enacting provisions set out as a note above\] may be cited as the ‘Act to authorize the United States to participate in chapter II of the Patent Cooperation Treaty’.”
 

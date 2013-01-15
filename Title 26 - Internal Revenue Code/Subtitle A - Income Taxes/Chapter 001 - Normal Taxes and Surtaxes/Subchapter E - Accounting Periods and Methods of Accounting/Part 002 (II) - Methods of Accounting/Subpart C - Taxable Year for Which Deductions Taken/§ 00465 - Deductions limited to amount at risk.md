@@ -406,7 +406,7 @@
 
 #### (d) Definition of loss
 
-For purposes of this section, the term “loss” means the excess of the deductions allowable under this chapter for the taxable year (determined without regard to the first sentence of subsection (a)) and allocable to an activity towhich this section applies over the income received or accrued by the taxpayer during the taxable year from such activity (determined without regard to subsection (e)(1)(A)).
+For purposes of this section, the term “loss” means the excess of the deductions allowable under this chapter for the taxable year (determined without regard to the first sentence of subsection (a)) and allocable to an activity to which this section applies over the income received or accrued by the taxpayer during the taxable year from such activity (determined without regard to subsection (e)(1)(A)).
 
 #### (e) Recapture of losses where amount at risk is less than zero
 
@@ -476,7 +476,7 @@ Subsec. (e)(2)(A). Pub. L. 96–222, §102(a)(1)(C), inserted “by reason of lo
 
 <b>1978</b>—Pub. L. 95–600, §201(c)(1), substituted “Deductions limited to amount at risk” for “Deductions limited to amount at risk in case of certain activities” in section catchline.
 
-Subsec. (a). Pub. L. 95–600, §202, redesignated existing provisions as par. (1), substituted provisions relating to limitations with respect to an individual, an electing small business corporation defined under section 1371(b) of this title, and a corporation meeting the stock ownership requirements of section 542(a)(2) of this title and the rules of section 318 of this title, for provisions relating to limitations with respect to a taxpayer otherthan a corporation which is neither an electing small business corporation defined under section 1371(b) of this title, nor a personal holding company defined under section 542 of this title, and added par. (2).
+Subsec. (a). Pub. L. 95–600, §202, redesignated existing provisions as par. (1), substituted provisions relating to limitations with respect to an individual, an electing small business corporation defined under section 1371(b) of this title, and a corporation meeting the stock ownership requirements of section 542(a)(2) of this title and the rules of section 318 of this title, for provisions relating to limitations with respect to a taxpayer other than a corporation which is neither an electing small business corporation defined under section 1371(b) of this title, nor a personal holding company defined under section 542 of this title, and added par. (2).
 
 Subsec. (c)(1)(E). Pub. L. 95–618, §402(d)(1), added subpar. (E).
 
@@ -502,7 +502,7 @@ Amendment by section 201(d)(7)(A) of Pub. L. 99–514 applicable to property pla
 
 Amendment by section 201(d)(7)(A) of Pub. L. 99–514 not applicable to any property placed in service before Jan. 1, 1994, if such property placed in service as part of specified rehabilitations, and not applicable to certain additional rehabilitations, see section 251(d)(2), (3) of Pub. L. 99–514, set out as a note under section 46 of this title.
 
-Section 503(c) of Pub. L. 99–514 provided that:
+Pub. L. 99–514, title V, §503(c), Oct. 22, 1986, 100 Stat. 2244, provided that:
 
 “(1)
 
@@ -520,7 +520,7 @@ Amendment by section 1011(b)(1) of Pub. L. 99–514 applicable to taxable years 
 
 #### Effective Date of 1984 Amendment
 
-Section 432(d) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1983; except that any loss from an activity described in section 465(c)(7)(A) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by this section) which (but for the amendments made by this section) would have been treated as a deduction for the taxpayer's first taxable year beginning after December 31, 1983, under section 465(a)(2) of such Code shall be allowed as a deduction for such first taxable year notwithstanding such amendments.”
+Pub. L. 98–369, div. A, title IV, §432(d), July 18, 1984, 98 Stat. 815, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1983; except that any loss from an activity described in section 465(c)(7)(A) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by this section) which (but for the amendments made by this section) would have been treated as a deduction for the taxpayer's first taxable year beginning after December 31, 1983, under section 465(a)(2) of such Code shall be allowed as a deduction for such first taxable year notwithstanding such amendments.”
 
 Amendment by section 721(x)(2) of Pub. L. 98–369 effective as if included in the Subchapter S Revision Act of 1982, Pub. L. 97–354, see section 721(y)(1) of Pub. L. 98–369, set out as a note under section 1361 of this title.
 
@@ -532,17 +532,17 @@ Amendment by Pub. L. 97–354 applicable to taxable years beginning after Dec. 3
 
 Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it had been included in the provisions of the Revenue Act of 1978, Pub. L. 95–600, to which such amendment relates, see section 201 of Pub. L. 96–222, set out as a note under section 32 of this title.
 
-#### Effective Date of 1978 Amendments
+#### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–618 applicable with respect to wells commenced on or after Oct. 1, 1978, in taxable years ending on or after such date, see section 402(e) of Pub. L. 95–618, set out as a note under section 263 of this title.
 
-Section 204(a) of Pub. L. 95–600 provided that: “The amendments made by this subtitle \[amending this section and section 704 of this title and enacting provisions set out as notes under this section and section 704 of this title\] shall apply to taxable years beginning after December 31, 1978.”
+Pub. L. 95–600, title II, §204(a), Nov. 6, 1978, 92 Stat. 2817, provided that: “The amendments made by this subtitle \[amending this section and section 704 of this title and enacting provisions set out as notes under this section and section 704 of this title\] shall apply to taxable years beginning after December 31, 1978.”
 
-Section 701(k)(3) of Pub. L. 95–600 provided that: “The amendments made by this subsection \[amending this section and provisions set out below\] shall take effect on October 4, 1976.”
+Pub. L. 95–600, title VII, §701(k)(3), Nov. 6, 1978, 92 Stat. 2906, provided that: “The amendments made by this subsection \[amending this section and provisions set out below\] shall take effect on October 4, 1976.”
 
 #### Effective Date and Transitional Rules
 
-Section 204(c) of Pub. L. 94–455, as amended by Pub. L. 95–600, title VII, §701(k)(1), Nov. 6, 1978, 92 Stat. 2906; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 94–455, title II, §204(c), Oct. 4, 1976, 90 Stat. 1532, as amended by Pub. L. 95–600, title VII, §701(k)(1), Nov. 6, 1978, 92 Stat. 2906; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 &emsp;“(1)
 
@@ -600,7 +600,7 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 #### Transitional Rules for Recapture Provisions and Leasing Activities
 
-Section 204(b) of Pub. L. 95–600, as amended by Pub. L. 96–222, title I, §102(a)(1)(E), Apr. 1, 1980, 94 Stat. 208; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 95–600, title II, §204(b), Nov. 6, 1978, 92 Stat. 2817, as amended by Pub. L. 96–222, title I, §102(a)(1)(E), Apr. 1, 1980, 94 Stat. 208; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 

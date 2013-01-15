@@ -72,7 +72,7 @@ The Secretary of Health and Human Services (in this section referred to as the �
 
 &emsp;&emsp;&emsp;(viii) describe and test methods that reduce duplicative fingerprinting, including providing for the development of “rap back” capability such that, if a direct patient access employee of a long-term care facility or provider is convicted of a crime following the initial criminal history background check conducted with respect to such employee, and the employee's fingerprints match the prints on file with the State law enforcement department—
 
-&emsp;&emsp;&emsp;&emsp;(I) the department will immediately inform the State agency designated under clause (v) and such agency will immediately inform the facility or providerwhich employs the direct patient access employee of such conviction; and
+&emsp;&emsp;&emsp;&emsp;(I) the department will immediately inform the State agency designated under clause (v) and such agency will immediately inform the facility or provider which employs the direct patient access employee of such conviction; and
 
 &emsp;&emsp;&emsp;&emsp;(II) the State will provide, or will require the facility to provide, to the employee a copy of the results of the criminal history background check conducted with respect to the employee at no charge in the case where the individual requests such a copy.
 

@@ -1,8 +1,8 @@
 ### §7152. Authorization of appropriations
 
-There are authorized to be appropriated such sums as are necessary to carry out this chapter for each of fiscal years 2008 through 2011.
+There are authorized to be appropriated such sums as are necessary to carry out this chapter for each of fiscal years 2008 through 2012.
 
-(Pub. L. 106–393, title IV, §402, as added Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3910.)
+(Pub. L. 106–393, title IV, §402, as added Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3910; amended Pub. L. 112–141, div. F, title I, §100101(a)(2), July 6, 2012, 126 Stat. 905.)
 
 #### References in Text
 
@@ -11,4 +11,8 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 #### Prior Provisions
 
 A prior section 402 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3893.
+
+#### Amendments
+
+<b>2012</b>—Pub. L. 112–141 substituted “2012” for “2011”.
 

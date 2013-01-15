@@ -108,23 +108,23 @@ Pub. L. 105–206, title III, §3307(c), July 22, 1998, 112 Stat. 744, provided 
 
 #### Effective Date of 1996 Amendment
 
-Section 901(b) of Pub. L. 104–168 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to proposed assessments made after June 30, 1996.”
+Pub. L. 104–168, title IX, §901(b), July 30, 1996, 110 Stat. 1466, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to proposed assessments made after June 30, 1996.”
 
-Section 903(b) of Pub. L. 104–168 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to penalties assessed after the date of the enactment of this Act \[July 30, 1996\].”
+Pub. L. 104–168, title IX, §903(b), July 30, 1996, 110 Stat. 1466, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to penalties assessed after the date of the enactment of this Act \[July 30, 1996\].”
 
 #### Effective Date of 1989 Amendment
 
 Amendment by section 7721(c)(9) of Pub. L. 101–239 applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1989, see section 7721(d) of Pub. L. 101–239, set out as a note under section 461 of this title.
 
-Section 7737(b) of Pub. L. 101–239 provided that: “The amendment made by subsection (a) \[amending this section and sections 6694 and 6703 of this title\] shall take effect on the date of the enactment of this Act \[Dec. 19, 1989\].”
+Pub. L. 101–239, title VII, §7737(b), Dec. 19, 1989, 103 Stat. 2404, provided that: “The amendment made by subsection (a) \[amending this section and sections 6694 and 6703 of this title\] shall take effect on the date of the enactment of this Act \[Dec. 19, 1989\].”
 
 #### Effective Date of 1978 Amendment
 
-Section 9(c) of Pub. L. 95–628 provided that: “The amendments made by this section \[amending this section and sections 7103 and 7421 of this title\] shall apply with respect to penalties assessed more than 60 days after the date of the enactment of this Act \[Nov. 10, 1978\].”
+Pub. L. 95–628, §9(c), Nov. 10, 1978, 92 Stat. 3633, provided that: “The amendments made by this section \[amending this section and sections 7103 and 7421 of this title\] shall apply with respect to penalties assessed more than 60 days after the date of the enactment of this Act \[Nov. 10, 1978\].”
 
 #### Public Information To Ensure Employee Awareness of Responsibilities and Liabilities Under Tax Depository System
 
-Section 904(b) of Pub. L. 104–168 provided that:
+Pub. L. 104–168, title IX, §904(b), July 30, 1996, 110 Stat. 1467, provided that:
 
 “(1)
 

@@ -12,7 +12,7 @@
 | [147a.](%C2%A7%2000147a%20-%20Department%20of%20Health%20and%20Human%20Services.md) | Department of Health and Human Services. |
 | [148\.](%C2%A7%2000148%20-%20Maritime%20instruction.md) | Maritime instruction. |
 | [149\.](%C2%A7%2000149%20-%20Assistance%20to%20foreign%20governments%20and%20maritime%20authorities.md) | Assistance to foreign governments and maritime authorities. |
-| [150\.](%C2%A7%2000150%20-%20Coast%20Guard%20officers%20as%20attache%EF%BF%BDAE1s%20to%20missions.md) | Coast Guard officers as attache�AE1s to missions. |
+| [150\.](%C2%A7%2000150%20-%20Coast%20Guard%20officers%20as%20attach%C3%A9s%20to%20missions.md) | Coast Guard officers as attachés to missions. |
 | [151\.](%C2%A7%2000151%20-%20Contracts%20with%20Government-owned%20establishments%20for%20work%20and%20material.md) | Contracts with Government-owned establishments for work and material. |
 | [152\.](%C2%A7%2000152%20-%20Nonappropriated%20fund%20instrumentalities%20contracts%20with%20other%20agencies%20and%20instrumentalities%20to%20provide%20or%20obtain%20goods%20and%20services.md) | Nonappropriated fund instrumentalities: contracts with other agencies and instrumentalities to provide or obtain goods and services. |
 | [153\.](%C2%A7%2000153%20-%20Appointment%20of%20judges.md) | Appointment of judges. |
@@ -54,7 +54,7 @@ In connection with its maritime police, promoting safety of life and property at
 - [&sect; 00147a - Department of Health and Human Services](%C2%A7%2000147a%20-%20Department%20of%20Health%20and%20Human%20Services.md)
 - [&sect; 00148 - Maritime instruction](%C2%A7%2000148%20-%20Maritime%20instruction.md)
 - [&sect; 00149 - Assistance to foreign governments and maritime authorities](%C2%A7%2000149%20-%20Assistance%20to%20foreign%20governments%20and%20maritime%20authorities.md)
-- [&sect; 00150 - Coast Guard officers as attache&#65533;AE1s to missions](%C2%A7%2000150%20-%20Coast%20Guard%20officers%20as%20attache%EF%BF%BDAE1s%20to%20missions.md)
+- [&sect; 00150 - Coast Guard officers as attach&#233;s to missions](%C2%A7%2000150%20-%20Coast%20Guard%20officers%20as%20attach%C3%A9s%20to%20missions.md)
 - [&sect; 00151 - Contracts with Government-owned establishments for work and material](%C2%A7%2000151%20-%20Contracts%20with%20Government-owned%20establishments%20for%20work%20and%20material.md)
 - [&sect; 00152 - Nonappropriated fund instrumentalities contracts with other agencies and instrumentalities to provide or obtain goods and services](%C2%A7%2000152%20-%20Nonappropriated%20fund%20instrumentalities%20contracts%20with%20other%20agencies%20and%20instrumentalities%20to%20provide%20or%20obtain%20goods%20and%20services.md)
 - [&sect; 00153 - Appointment of judges](%C2%A7%2000153%20-%20Appointment%20of%20judges.md)

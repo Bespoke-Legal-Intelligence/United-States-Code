@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(A) First, community claims against the debtor or the debtor's spouse shall be paid from property of the kind specified in section 541(a)(2) of this title, except to the extent that such property is solely liable for debts of the debtor.
 
-&emsp;&emsp;(B) Second, to the extent that community claims against the debtor are not paid under subparagraph (A) of this paragraph, such community claims shall be paid from property of the kind specified in section 541(a)(2) of this title that is solely liable for debts of the debtor.
+&emsp;&emsp;(B) Second, to the extent that community claims against the debtor are not paid undersubparagraph (A) of this paragraph, such community claims shall be paid from property of the kind specified in section 541(a)(2) of this title that is solely liable for debts of the debtor.
 
 &emsp;&emsp;(C) Third, to the extent that all claims against the debtor including community claims against the debtor are not paid under subparagraph (A) or (B) of this paragraph such claims shall be paid from property of the estate other than property of the kind specified in section 541(a)(2) of this title.
 

@@ -62,7 +62,7 @@ For purposes of this subtitle, the term “personal holding company income” me
 
 &emsp;&emsp;(B) the personal holding company income for the taxable year computed—
 
-&emsp;&emsp;&emsp;(i) without regard to copyright royalties, other than royalties received for the use of, or right to use, copyrights or interestsin copyrights in works created in whole, or in part, by any shareholder owning more than 10 percent of the total outstanding capital stock of the corporation,
+&emsp;&emsp;&emsp;(i) without regard to copyright royalties, other than royalties received for the use of, or right to use, copyrights or interests in copyrights in works created in whole, or in part, by any shareholder owning more than 10 percent of the total outstanding capital stock of the corporation,
 
 &emsp;&emsp;&emsp;(ii) without regard to dividends from any corporation in which the taxpayer owns at least 50 percent of all classes of stock entitled to vote and at least 50 percent of the total value of all classes of stock and which corporation meets the requirements of this subparagraph and subparagraphs (A) and (C), and
 
@@ -286,7 +286,7 @@ In the case of an insurance company other than a life insurance company, the ter
 
 &emsp;&emsp;For purposes of this paragraph, the term “affiliated group” has the meaning given such term by section 1504(a).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 186; Pub. L. 86–435, §1(a), (b), Apr. 22, 1960, 74 Stat. 77; Pub. L. 87–403, §3(c), Feb. 2, 1962, 76 Stat. 6; Pub. L. 88–272, title II, §225(d), (k)(2), Feb. 26, 1964, 78 Stat. 81, 93; Pub. L. 88–484, §3(a), Aug. 22, 1964, 78 Stat. 598; Pub. L. 89–809, title I, §104(h)(2), title II, §206(a), (b), Nov. 13, 1966, 80 Stat. 1559, 1578, 1579; Pub. L. 94–455, title II, §211(a), title XIX,§§1901(b)(32)(D), 1906(b)(13)(A), title XXI, §2106(a), Oct. 4, 1976, 90 Stat. 1544, 1800, 1834, 1902; Pub. L. 94–553, §105(d), Oct. 19, 1976, 90 Stat. 2599; Pub. L. 97–248, title II, §222(e)(6), Sept. 3, 1982, 96 Stat. 480; Pub. L. 98–369, div. A, title VII, §712(i)(3), July 18, 1984, 98 Stat. 948; Pub. L. 99–514, title VI, §645(a)(1), (2), (4), title XVIII, §1899A(18), Oct. 22, 1986, 100 Stat. 2289, 2291, 2959; Pub. L. 100–647, title I, §1010(f)(5), title VI, §6279(a), Nov. 10, 1988, 102 Stat. 3454, 3754; Pub. L. 104–188, title I, §1704(t)(6), Aug. 20, 1996, 110 Stat. 1887; Pub. L. 105–206, title VI, §6023(9), July 22, 1998, 112 Stat. 825; Pub. L. 106–170, title V, §532(c)(2)(E), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 108–357, title IV, §413(c)(8), Oct. 22, 2004, 118 Stat. 1507; Pub. L. 109–304, §17(e)(3), Oct. 6, 2006, 120 Stat. 1708.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 186; Pub. L. 86–435, §1(a), (b), Apr. 22, 1960, 74 Stat. 77; Pub. L. 87–403, §3(c), Feb. 2, 1962, 76 Stat. 6; Pub. L. 88–272, title II, §225(d), (k)(2), Feb. 26, 1964, 78 Stat. 81, 93; Pub. L. 88–484, §3(a), Aug. 22, 1964, 78 Stat. 598; Pub. L. 89–809, title I, §104(h)(2), title II, §206(a), (b), Nov. 13, 1966, 80 Stat. 1559, 1578, 1579; Pub. L. 94–455, title II, §211(a), title XIX, §§1901(b)(32)(D), 1906(b)(13)(A), title XXI, §2106(a), Oct. 4, 1976, 90 Stat. 1544, 1800, 1834, 1902; Pub. L. 94–553, §105(d), Oct. 19, 1976, 90 Stat. 2599; Pub. L. 97–248, title II, §222(e)(6), Sept. 3, 1982, 96 Stat. 480; Pub. L. 98–369, div. A, title VII, §712(i)(3), July 18, 1984, 98 Stat. 948; Pub. L. 99–514, title VI, §645(a)(1), (2), (4), title XVIII, §1899A(18), Oct. 22, 1986, 100 Stat. 2289, 2291, 2959; Pub. L. 100–647, title I, §1010(f)(5), title VI, §6279(a), Nov. 10, 1988, 102 Stat. 3454, 3754; Pub. L. 104–188, title I, §1704(t)(6), Aug. 20, 1996, 110 Stat. 1887; Pub. L. 105–206, title VI, §6023(9), July 22, 1998, 112 Stat. 825; Pub. L. 106–170, title V, §532(c)(2)(E), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 108–357, title IV, §413(c)(8), Oct. 22, 2004, 118 Stat. 1507; Pub. L. 109–304, §17(e)(3), Oct. 6, 2006, 120 Stat. 1708.)
 
 #### References in Text
 
@@ -342,7 +342,7 @@ Subsec. (b)(2)(D). Pub. L. 89–809, §206(b)(2), added subpar. (D).
 
 Subsec. (b)(3). Pub. L. 89–809, §206(a), struck out “amounts constituting personal holding company income under subsection (a)(6), nor copyright royalties (as defined in subsection (a)(4)), nor produced film rents (as defined in subsection (a)(5)(B)).” after “but does not include”, and added subpars. (A) to (D).
 
-<b>1964</b>—Subsec. (a). Pub. L. 88–272, §225(d), amended subsec. (a) generally, and among other changes, substituted “adjusted ordinary gross income” for “gross income”, provided, relative to rental income, that in addition to the 50-percent test of par. (2)(A), now applied on the basis of adjusted income from rents and adjusted ordinary gross income, a second test for exclusion shall be whether the sum on the dividends paid during the taxable year, the dividends paid on the last day of the year, and the consent dividends for the taxable year, equals or exceeds the amount by which the personal holding company income for the year exceeds 10 percent of the ordinary gross income, relative to mineral, oil, and gas royalties, that in addition to the 50-percent test of par. (3)(A), now applied on the basis of adjusted ordinary gross income, and the 15-percent test of par. (3)(C), from which test have been excluded deductions “specifically allowable under sections other than section 162” and is also now applied on the basis of adjusted gross income, the royalties shall be excluded if the personal holding company income for the taxable year is not more than 10 percent of the ordinary gross income, relative to copyright royalties, retained the 50-percent test as in par. (4)(A), making it applicable to ordinary gross income, included in the computation of the income for the taxable year the adjusted income from rents and the adjusted income from mineral, oil, and gas royalties, excluded from the sum of deductions allocable to royalties, deductions specifically allowable under sections other than 162, and changed the requirement that deductions constitute 50 percent or more of gross income to provide that they must equal 25 percent of ordinary gross income reduced by royalties paid and by depreciation deductions with respect to copyrights, relative to produced film rents, that they be treated on their own basis and not as rentals, and defined “produced film rents”, relative to use of corporation property by shareholders, that personal holding company income includes copyright royalties and the adjusted income from mineral, oil, and gas royalties, eliminated gains from the sale or other disposition of any interest in an estate or trust, from the sale or exchange of stock or securities, and from futurestransactions in any commodity, and also definition of “rents”. See subsec. (b)(3).
+<b>1964</b>—Subsec. (a). Pub. L. 88–272, §225(d), amended subsec. (a) generally, and among other changes, substituted “adjusted ordinary gross income” for “gross income”, provided, relative to rental income, that in addition to the 50-percent test of par. (2)(A), now applied on the basis of adjusted income from rents and adjusted ordinary gross income, a second test for exclusion shall be whether the sum on the dividends paid during the taxable year, the dividends paid on the last day of the year, and the consent dividends for the taxable year, equals or exceeds the amount by which the personal holding company income for the year exceeds 10 percent of the ordinary gross income, relative to mineral, oil, and gas royalties, that in addition to the 50-percent test of par. (3)(A), now applied on the basis of adjusted ordinary gross income, and the 15-percent test of par. (3)(C), from which test have been excluded deductions “specifically allowable under sections other than section 162” and is also now applied on the basis of adjusted gross income, the royalties shall be excluded if the personal holding company income for the taxable year is not more than 10 percent of the ordinary gross income, relative to copyright royalties, retained the 50-percent test as in par. (4)(A), making it applicable to ordinary gross income, included in the computation of the income for the taxable year the adjusted income from rents and the adjusted income from mineral, oil, and gas royalties, excluded from the sum of deductions allocable to royalties, deductions specifically allowable under sections other than 162, and changed the requirement that deductions constitute 50 percent or more of gross income to provide that they must equal 25 percent of ordinary gross income reduced by royalties paid and by depreciation deductions with respect to copyrights, relative to produced film rents, that they be treated on their own basis and not as rentals, and defined “produced film rents”, relative to use of corporation property by shareholders, that personal holding company income includes copyright royalties and the adjusted income from mineral, oil, and gas royalties, eliminated gains from the sale or other disposition of any interest in an estate or trust, from the sale or exchange of stock or securities, and from futures transactions in any commodity, and also definition of “rents”. See subsec. (b)(3).
 
 Subsec. (a)(2). Pub. L. 88–484 inserted sentence requiring royalties received for the use of, or for the privilege of using, a patent, invention, model, or design (whether or not patented), secret formula or process, or any other similar property right to be treated as rent, if such property right is also used by the corporation receiving such royalties in the manufacture or production of tangible personal property held for lease to customers, and if the amount (computed without regard to this sentence) constituting rent from such leases to customers meets the requirements of subparagraph (A).
 
@@ -372,11 +372,11 @@ Amendment by Pub. L. 106–170 applicable to any instrument held, acquired, or e
 
 Amendment by section 1010(f)(5) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Section 6279(b) of Pub. L. 100–647 provided that: “The amendments made by this section \[amending this section\] shall apply to interest received after the date of the enactment of this Act \[Nov. 10, 1988\], in taxable years ending after such date.”
+Pub. L. 100–647, title VI, §6279(b), Nov. 10, 1988, 102 Stat. 3754, provided that: “The amendments made by this section \[amending this section\] shall apply to interest received after the date of the enactment of this Act \[Nov. 10, 1988\], in taxable years ending after such date.”
 
 #### Effective Date of 1986 Amendment
 
-Section 645(e) of Pub. L. 99–514 provided that: “The amendments made by subsection (a) \[amending this section and section 553 of this title\] shall apply to royalties received before, on, and after December 31, 1986.”
+Pub. L. 99–514, title VI, §645(e), Oct. 22, 1986, 100 Stat. 2292, provided that: “The amendments made by subsection (a) \[amending this section and section 553 of this title\] shall apply to royalties received before, on, and after December 31, 1986.”
 
 #### Effective Date of 1984 Amendment
 
@@ -386,27 +386,27 @@ Amendment by Pub. L. 98–369 effective as if included in the provision of the T
 
 Amendment by Pub. L. 97–248 applicable to distributions after Aug. 31, 1982, with exceptions for certain partial liquidations, see section 222(f) of Pub. L. 97–248, set out as a note under section 302 of this title.
 
-#### Effective Date of 1976 Amendments
+#### Effective Date of 1976 Amendment
 
 Amendment by Pub. L. 94–553 effective Jan. 1, 1978, see section 102 of Pub. L. 94–553, set out as an Effective Date note preceding section 101 of Title 17, Copyrights.
 
-Section 211(b) of Pub. L. 94–455 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years ending on or after December 31, 1975.”
+Pub. L. 94–455, title II, §211(b), Oct. 4, 1976, 90 Stat. 1545, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years ending on or after December 31, 1975.”
 
 Amendment by section 1901(b)(32)(D) of Pub. L. 94–455 applicable with respect to taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
-Section 2106(b) of Pub. L. 94–455 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1976.”
+Pub. L. 94–455, title XXI, §2106(b), Oct. 4, 1976, 90 Stat. 1903, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1976.”
 
 #### Effective Date of 1966 Amendment
 
 Amendment by section 104(h)(2) of Pub. L. 89–809 applicable with respect to taxable years beginning after Dec. 31, 1966, see section 104(n) of Pub. L. 89–809, set out as a note under section 11 of this title.
 
-Section 206(c) of Pub. L. 89–809 provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Nov. 13, 1966\]. Such amendments shall also apply, at the election of the taxpayer (made at such time and in such manner as the Secretary or his delegate may prescribe), to taxable years beginning on or before such date and ending after December 31, 1965.”
+Pub. L. 89–809, title II, §206(c), Nov. 13, 1966, 80 Stat. 1579, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Nov. 13, 1966\]. Such amendments shall also apply, at the election of the taxpayer (made at such time and in such manner as the Secretary or his delegate may prescribe), to taxable years beginning on or before such date and ending after December 31, 1965.”
 
-#### Effective Date of 1964 Amendments
+#### Effective Date of 1964 Amendment
 
-Section 3(b) of Pub. L. 88–484 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1963.”
+Pub. L. 88–484, §3(b), Aug. 22, 1964, 78 Stat. 598, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1963.”
 
-Amendment by Pub. L. 88–272 applicable to taxable years beginning after Dec. 31, 1963, see section 225(<i>l</i>) of Pub. L. 88–272, set out as a note under section 316 of this title.
+Amendment by Pub. L. 88–272 applicable to taxable years beginning after Dec. 31, 1963, see section 225(l) of Pub. L. 88–272, set out as a note under section 316 of this title.
 
 #### Effective Date of 1962 Amendment
 
@@ -414,11 +414,11 @@ Amendment by Pub. L. 87–403 applicable only with respect to distributions made
 
 #### Effective Date of 1960 Amendment
 
-Section 2 of Pub. L. 86–435 provided that: “The amendments made by the first section of this Act \[amending this section and sections 544 and 553 of this title\] shall apply only with respect to taxable years beginning after December 31, 1959.”
+Pub. L. 86–435, §2, Apr. 22, 1960, 74 Stat. 78, provided that: “The amendments made by the first section of this Act \[amending this section and sections 544 and 553 of this title\] shall apply only with respect to taxable years beginning after December 31, 1959.”
 
 #### Treatment of Certain Bank Holding Companies
 
-Section 6280 of Pub. L. 100–647 provided that:
+Pub. L. 100–647, title VI, §6280, Nov. 10, 1988, 102 Stat. 3754, provided that:
 
 “(a)
 

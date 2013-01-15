@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(M) child abuse and neglect issues facing Indians, Alaska Natives, and Native Hawaiians, including providing recommendations for improving the collection of child abuse and neglect data from Indian tribes and Native Hawaiian communities;
 
-&emsp;&emsp;(N) the information on the national incidence of child abuse and neglect specified in clauses (i) through (x) <sup>1</sup> of subparagraph (O); and
+&emsp;&emsp;(N) the information on the national incidence of child abuse and neglect specified inclauses (i) through (x) <sup>1</sup> of subparagraph (O); and
 
 &emsp;&emsp;(O) the national incidence of child abuse and neglect, including—
 
@@ -62,7 +62,7 @@
 
 &emsp;&emsp;&emsp;(x) the extent to which reports of suspected or known instances of child abuse or neglect involving a potential combination of jurisdictions, such as intrastate, interstate, Federal-State, and State-Tribal, are being screened out solely on the basis of the cross-jurisdictional complications; and
 
-&emsp;&emsp;&emsp;(xi) the incidence and outcomes of child abuse and neglect allegations reportedwithin the context of divorce, custody, or other family court proceedings, and the interaction between this venue and the child protective services system.
+&emsp;&emsp;&emsp;(xi) the incidence and outcomes of child abuse and neglect allegations reported within the context of divorce, custody, or other family court proceedings, and the interaction between this venue and the child protective services system.
 
 #### (2) Research
 
@@ -142,7 +142,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;To enhance the quality and usefulness of research in the field of child abuse and neglect, the Secretary shall, in consultation with experts in the field and other Federal agencies, establish a formal, rigorous, and meritorious peer review process for purposes of evaluating and reviewing applications for assistance through a grant or contract under this section and determining the relativemerits of the project for which such assistance is requested.
+&emsp;&emsp;To enhance the quality and usefulness of research in the field of child abuse and neglect, the Secretary shall, in consultation with experts in the field and other Federal agencies, establish a formal, rigorous, and meritorious peer review process for purposes of evaluating and reviewing applications for assistance through a grant or contract under this section and determining the relative merits of the project for which such assistance is requested.
 
 #### (B) Members
 
@@ -218,7 +218,7 @@ A prior section 104 of Pub. L. 93–247 was renumbered section 103 and is classi
 
 Subsec. (a)(1)(B). Pub. L. 111–320, §113(a)(1)(B), substituted “child abuse and neglect on” for “abuse and neglect on”.
 
-Subsec. (a)(1)(C) to (N). Pub. L. 111–320, §113(a)(1)(C)–(K), added subpars. (C), (G), (I), and (K) to (M), redesignated subpars. (C), (D), (E), (F), (G), and (H) as (D), (E), (F), (H), (J), and (N), respectively, in subpar. (D), inserted “and neglect” before semicolon at end, insubpar. (E), inserted “, including best practices to meet the needs of special populations,” after “best practices” and substituted “(14)” for “(12)”, in subpar. (J), substituted “low-income” for “low income”, and, in subpar. (N), substituted “clauses (i) through (x) of subparagraph (O)” for “clauses (i) through (xi) of subparagraph (H)”. Former subpar. (I) redesignated (O).
+Subsec. (a)(1)(C) to (N). Pub. L. 111–320, §113(a)(1)(C)–(K), added subpars. (C), (G), (I), and (K) to (M), redesignated subpars. (C), (D), (E), (F), (G), and (H) as (D), (E), (F), (H), (J), and (N), respectively, in subpar. (D), inserted “and neglect” before semicolon at end, in subpar. (E), inserted “, including best practices to meet the needs of special populations,” after “best practices” and substituted “(14)” for “(12)”, in subpar. (J), substituted “low-income” for “low income”, and, in subpar. (N), substituted “clauses (i) through (x) of subparagraph (O)” for “clauses (i) through (xi) of subparagraph (H)”. Former subpar. (I) redesignated (O).
 
 Subsec. (a)(1)(O). Pub. L. 111–320, §113(a)(1)(C), (L), redesignated subpar. (I) as (O), in cls. (i) and (ii), inserted “and neglect” after “abuse”, in cl. (v), substituted “child abuse and neglect have” for “child abuse have”, added cl. (x) and redesignated former cl. (x) as (xi), and, in cl. (xi), substituted “child abuse and neglect” for “abuse”.
 
@@ -294,7 +294,7 @@ Subsec. (a)(1)(D). Pub. L. 104–235, §105(a)(1)(B), (E), redesignated subpar. 
 
 “(iii) the incidence of substantiated reported child abuse cases that result in civil child protection proceedings or criminal proceedings, including the number of such cases with respect to which the court makes a finding that abuse or neglect exists and the disposition of such cases.”
 
-Subsec. (a)(2). Pub. L. 104–235, §105(a)(2), struck out “and demonstration” after “research”, substituted “paragraph (1)” for “paragraph (1)(A) and activities under section 5106 of this title” in subpar. (A) andstruck out “and demonstration” after “research” in introductory provisions of subpar. (B).
+Subsec. (a)(2). Pub. L. 104–235, §105(a)(2), struck out “and demonstration” after “research”, substituted “paragraph (1)” for “paragraph (1)(A) and activities under section 5106 of this title” in subpar. (A) and struck out “and demonstration” after “research” in introductory provisions of subpar. (B).
 
 Subsec. (b). Pub. L. 104–235, §105(b), (c), redesignated subsec. (c) as (b)(1), inserted par. heading, struck out “, through the Center,” after “Secretary shall”, inserted “State and local” before “public and nonprofit” and “assessment,” before “identification”, added pars. (2) and (3), and struck out heading and text of former subsec. (b) consisting of pars. (1) to (5) which related to publication and dissemination of information.
 
@@ -348,19 +348,19 @@ Subsec. (c). Pub. L. 95–266, §105(3), substituted provisions setting forth co
 
 #### Child Abuse and Disability
 
-Section 102 of Pub. L. 100–294 directed Director of National Center on Child Abuse and Neglect to conduct a study of incidence of child abuse among children with handicaps, including children in out-of-home placements, the relationship between child abuse and children's handicapping conditions, and incidence of children who have developed handicapping conditions as a result of child abuse or neglect, and not later than 2 years after Apr. 25, 1988, to report to appropriate committees of Congress with respect to the study, such report to include information and data gathered, an analysis of such information and data, and recommendations on how to prevent abuse of disabled children.
+Pub. L. 100–294, title I, §102, Apr. 25, 1988, 102 Stat. 118, directed Director of National Center on Child Abuse and Neglect to conduct a study of incidence of child abuse among children with handicaps, including children in out-of-home placements, the relationship between child abuse and children's handicapping conditions, and incidence of children who have developed handicapping conditions as a result of child abuse or neglect, and not later than 2 years after Apr. 25, 1988, to report to appropriate committees of Congress with respect to the study, such report to include information and data gathered, an analysis of such information and data, and recommendations on how to prevent abuse of disabled children.
 
 #### Child Abuse and Alcoholic Families
 
-Section 103 of Pub. L. 100–294 directed Director of National Center on Child Abuse and Neglect to conduct astudy of incidence of child abuse in alcoholic families and relationship between child abuse and familial alcoholism, and not later than 2 years after Apr. 25, 1988, to report to appropriate committees of Congress with respect to the study, such report to include information and data gathered, an analysis of such information and data, and recommendations on how to prevent child abuse in alcoholic families.
+Pub. L. 100–294, title I, §103, Apr. 25, 1988, 102 Stat. 118, directed Director of National Center on Child Abuse and Neglect to conduct a study of incidence of child abuse in alcoholic families and relationship between child abuse and familial alcoholism, and not later than 2 years after Apr. 25, 1988, to report to appropriate committees of Congress with respect to the study, such report to include information and data gathered, an analysis of such information and data, and recommendations on how to prevent child abuse in alcoholic families.
 
 #### Study of Guardian-Ad-Litem
 
-Section 104 of Pub. L. 100–294 directed Director of National Center on Child Abuse and Neglect to conduct a study of how individual legal representation of children in cases of child abuse or neglect has been provided in each State, and effectiveness of legal representation of children in cases of abuse or neglect through use of guardian-ad-litem and court appointed special advocates, and not later than 2 years after Apr. 25, 1988, to report to appropriate committees of Congress with respect to the study, such report to include information and data gathered, an analysis of such information and data, and recommendations on how to improve legal representation of children in cases of abuse or neglect.
+Pub. L. 100–294, title I, §104, Apr. 25, 1988, 102 Stat. 118, directed Director of National Center on Child Abuse and Neglect to conduct a study of how individual legal representation of children in cases of child abuse or neglect has been provided in each State, and effectiveness of legal representation of children in cases of abuse or neglect through use of guardian-ad-litem and court appointed special advocates, and not later than 2 years after Apr. 25, 1988, to report to appropriate committees of Congress with respect to the study, such report to include information and data gathered, an analysis of such information and data, and recommendations on how to improve legal representation of children in cases of abuse or neglect.
 
 #### High Risk Study
 
-Section 105 of Pub. L. 100–294 directed the Director of National Center on Child Abuse and Neglect to conduct a study to identify groups which have been historically underserved or unserved by programs relating to child abuse and neglect, and to report incidence of child abuse and neglect among children who are members of such groups, and not later than 2 years after Apr. 25, 1988, to report to appropriate committees of Congress with respect to the study, such report to include information and data gathered, an analysis of such information and data, and recommendations on how to better meet needs of underserved or unserved groups.
+Pub. L. 100–294, title I, §105, Apr. 25, 1988, 102 Stat. 118, directed the Director of National Center on Child Abuse and Neglect to conduct a study to identify groups which have been historically underserved or unserved by programs relating to child abuse and neglect, and to report incidence of child abuse and neglect among children who are members of such groups, and not later than 2 years after Apr. 25, 1988, to report to appropriate committees of Congress with respect to the study, such report to include information and data gathered, an analysis of such information and data, and recommendations on how to better meet needs of underserved or unserved groups.
 
 <i><sup>1</sup></i><i> So in original. Probably should refer to clauses (i) through (xi).</i>
 

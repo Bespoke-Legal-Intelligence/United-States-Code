@@ -68,9 +68,9 @@ The Secretary shall establish a Rural Energy Self-Sufficiency Initiative to prov
 
 #### (d) Authorization of appropriations
 
-There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2009 through 2012.
+There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2009 through 2013.
 
-(Pub. L. 107–171, title IX, §9009, as added Pub. L. 110–234, title IX, §9001(a), May 22, 2008, 122 Stat. 1324, and Pub. L. 110–246, §4(a), title IX, §9001(a), June 18, 2008, 122 Stat. 1664, 2085.)
+(Pub. L. 107–171, title IX, §9009, as added Pub. L. 110–234, title IX, §9001(a), May 22, 2008, 122 Stat. 1324, and Pub. L. 110–246, §4(a), title IX, §9001(a), June 18, 2008, 122 Stat. 1664, 2085; amended Pub. L. 112–240, title VII, §701(f)(8), Jan. 2, 2013, 126 Stat. 2365.)
 
 #### Codification
 
@@ -81,4 +81,12 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 A prior section 8109, Pub. L. 107–171, title IX, §9011, as added Pub. L. 108–199, div. A, title VII, §778(b), Jan. 23, 2004, 118 Stat. 41, related to research, extension, and educational programs on biobased energy technologies and products, prior to the general amendment of this chapter by Pub. L. 110–246. See section 8114 of this title.
 
 A prior section 9009 of Pub. L. 107–171 amended section 6711 of this title.
+
+#### Amendments
+
+<b>2013</b>—Subsec. (d). Pub. L. 112–240 substituted “2013” for “2012”.
+
+#### Effective Date of 2013 Amendment
+
+Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under section 8701 of this title.
 

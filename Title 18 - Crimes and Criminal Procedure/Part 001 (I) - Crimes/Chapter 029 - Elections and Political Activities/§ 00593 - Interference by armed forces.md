@@ -2,7 +2,7 @@
 
 Whoever, being an officer or member of the Armed Forces of the United States, prescribes or fixes or attempts to prescribe or fix, whether by proclamation, order or otherwise, the qualifications of voters at any election in any State; or
 
-Whoever, being such officer or member, prevents or attempts to prevent by force, threat, intimidation, advice or otherwise any qualified voter of any State from fully exercising theright of suffrage at any general or special election; or
+Whoever, being such officer or member, prevents or attempts to prevent by force, threat, intimidation, advice or otherwise any qualified voter of any State from fully exercising the right of suffrage at any general or special election; or
 
 Whoever, being such officer or member, orders or compels or attempts to compel any election officer in any State to receive a vote from a person not legally qualified to vote; or
 

@@ -72,9 +72,9 @@ Amendment by Pub. L. 109–432 effective on the date that is 6 months after Dec.
 
 #### Effective Date
 
-Section 203(c)(1) of Pub. L. 103–432 provided that: “The amendment made by subsection (a) \[enacting this section\] shall take effect on the date of the enactment of this Act \[Oct. 31, 1994\].”
+Pub. L. 103–432, title II, §203(c)(1), Oct. 31, 1994, 108 Stat. 4456, provided that: “The amendment made by subsection (a) \[enacting this section\] shall take effect on the date of the enactment of this Act \[Oct. 31, 1994\].”
 
 #### Regulations
 
-Section 203(c)(3) of Pub. L. 103–432 provided that: “The Secretary shall promulgate the regulations referred to in section 1123(a) \[now 1123A(a)\] of the Social Security Act \[subsec. (a) of this section\] (as added by this section) not later than July 1, 1995, to take effect on April 1, 1996.”
+Pub. L. 103–432, title II, §203(c)(3), Oct. 31, 1994, 108 Stat. 4456, provided that: “The Secretary shall promulgate the regulations referred to in section 1123(a) \[now 1123A(a)\] of the Social Security Act \[subsec. (a) of this section\] (as added by this section) not later than July 1, 1995, to take effect on April 1, 1996.”
 

@@ -80,7 +80,7 @@ Following the completion of a peer review process for grant proposals received u
 
 #### (11) Wetlands use research and extension
 
-&emsp;Research and extension grants may be made under this section for the purpose of better use of wetlands in diverse ways to provide various economic, agricultural, and environmental benefits.
+&emsp;Research and extension grants may be made under this section for the purpose of better useof wetlands in diverse ways to provide various economic, agricultural, and environmental benefits.
 
 #### (12) Food safety, including pathogen detection and limitation, research and extension
 
@@ -128,7 +128,7 @@ Following the completion of a peer review process for grant proposals received u
 
 #### (23) Environment and private lands research and extension
 
-&emsp;Research and extension grants may be made under this section for the purpose of researching the use of computer models to aid in assessment of best management practices on a watershed basis, working with government, industry, and private landowners to help craft industry-led solutions to identified environmental issues, researching and monitoring water, air, or soil environmental quality toaid in the development of new approaches to local environmental concerns, and working with local, State, and federal officials to help craft effective environmental solutions that respect private property rights and agricultural production realities.
+&emsp;Research and extension grants may be made under this section for the purpose of researching the use of computer models to aid in assessment of best management practices on a watershed basis, working with government, industry, and private landowners to help craft industry-led solutions to identified environmental issues, researching and monitoring water, air, or soil environmental quality to aid in the development of new approaches to local environmental concerns, and working with local, State, and federal officials to help craft effective environmental solutions that respect private property rights and agricultural production realities.
 
 #### (24) Livestock disease research and extension
 
@@ -136,7 +136,7 @@ Following the completion of a peer review process for grant proposals received u
 
 #### (25) Plant gene expression
 
-&emsp;Research grants may be made under this section for the purpose of plant gene expression research to accelerate the application of basic plant genomic science to the development and testing of new varieties of enhanced food crops, crops that can be used as renewable energy sources, and other alternative uses of agricultural crops.
+&emsp;Research grants may be made under this section for the purpose of plant gene expression research to accelerate the application of basic plant genomic science to the development and testing of new varieties of enhanced foodcrops, crops that can be used as renewable energy sources, and other alternative uses of agricultural crops.
 
 #### (26) Animal infectious diseases research
 
@@ -204,7 +204,7 @@ Following the completion of a peer review process for grant proposals received u
 
 #### (41) Pasture-based beef systems research initiative
 
-&emsp;Research and extension grants may be made under this section to study the development of forage sequences and combinations for cow-calf, heifer development, stocker, and finishing systems, to deliver optimal nutritive value for efficient production of cattle for pasture finishing, to optimize forage systems to improve marketability of pasture-finished beef, and to assess the effect of forage quality on reproductive fitness.
+&emsp;Research and extension grants may be made under this section to study the development offorage sequences and combinations for cow-calf, heifer development, stocker, and finishing systems, to deliver optimal nutritive value for efficient production of cattle for pasture finishing, to optimize forage systems to improve marketability of pasture-finished beef, and to assess the effect of forage quality on reproductive fitness.
 
 #### (42) Agricultural practices relating to climate change
 
@@ -264,7 +264,7 @@ Following the completion of a peer review process for grant proposals received u
 
 #### (1) Task force
 
-&emsp;The Secretary shall establish a task force pursuant to subsection (b)(2) of this section regarding the control, management, and eradication of imported fire ants. The Secretary shall solicit and evaluate grant proposalsunder this subsection in consultation with the task force.
+&emsp;The Secretary shall establish a task force pursuant to subsection (b)(2) of this section regarding the control, management, and eradication of imported fire ants. The Secretary shall solicit and evaluate grant proposals under this subsection in consultation with the task force.
 
 #### (2) Initial grants
 
@@ -280,7 +280,7 @@ Following the completion of a peer review process for grant proposals received u
 
 #### (A) Evaluation of initial grants
 
-&emsp;&emsp;If the Secretary awards grants under paragraph (2)(B), the Secretary shall evaluate all of the research or demonstration projects conducted under the grants for their use as the basis of a national plan for the control, management, and possible eradication of imported fire ants by the Federal Government, State and local governments, and owners and operators of land.
+&emsp;&emsp;If the Secretary awards grants under paragraph (2)(B), the Secretary shall evaluate allof the research or demonstration projects conducted under the grants for their use as the basis of a national plan for the control, management, and possible eradication of imported fire ants by the Federal Government, State and local governments, and owners and operators of land.
 
 #### (B) Selection
 
@@ -364,7 +364,7 @@ Following the completion of a peer review process for grant proposals received u
 
 #### (3) Honey bee pest and pathogen surveillance
 
-&emsp;There is authorized to be appropriated to conduct a nationwide honey bee pest and pathogen surveillance program $2,750,000 for each of fiscal years 2008 through 2012.
+&emsp;There is authorized to be appropriated to conduct a nationwide honey bee pest andpathogen surveillance program $2,750,000 for each of fiscal years 2008 through 2012.
 
 #### (4) Annual report on response to honey bee colony collapse disorder
 

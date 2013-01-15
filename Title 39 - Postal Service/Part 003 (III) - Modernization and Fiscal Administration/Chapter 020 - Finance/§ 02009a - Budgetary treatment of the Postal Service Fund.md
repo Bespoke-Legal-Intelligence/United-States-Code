@@ -10,7 +10,7 @@ Notwithstanding any other provision of law, the receipts and disbursements of th
 
 &emsp;(2) shall be exempt from any general budget limitation imposed by statute on expenditures and net lending (budget outlays) of the United States Government; and
 
-&emsp;(3) shall be exempt from any order issued under part C of the Balanced Budget and Emergency Deficit Control Act of 1985, and shall not be counted for purposes of calculating the deficit under section 3(6) of the Congressional Budget and Impoundment Control Act of 1974 for purposes of comparison with the maximum deficit amount under the Balanced Budget and Emergency Deficit Control Act of 1985 nor counted in calculating the excess deficit for purposes of sections 251 and 252 <sup>1</sup> of the Balanced Budget and Emergency Deficit Control Act of 1985, for any fiscal year.
+&emsp;(3) shall be exempt from any order issued under part C of the Balanced Budget and Emergency Deficit Control Act of 1985, and shall not be counted for purposes of calculating the deficit under section 3(6) of the Congressional Budget and Impoundment Control Act of 1974 for purposes of comparison with the maximum deficit amount under the BalancedBudget and Emergency Deficit Control Act of 1985 nor counted in calculating the excess deficit for purposes of sections 251 and 252 <sup>1</sup> of the Balanced Budget and Emergency Deficit Control Act of 1985, for any fiscal year.
 
 (Added Pub. L. 101–239, title IV, §4001(a)(1), Dec. 19, 1989, 103 Stat. 2133.)
 
@@ -22,11 +22,11 @@ Section 3(6) of the Congressional Budget and Impoundment Control Act of 1974, re
 
 #### Effective Date
 
-Section 4001(c) of Pub. L. 101–239 provided that: “The amendments made by this section \[enacting this section\] shall apply with respect to budgets for fiscal years beginning after September 30, 1989.”
+Pub. L. 101–239, title IV, §4001(c), Dec. 19, 1989, 103 Stat. 2133, provided that: “The amendments made by this section \[enacting this section\] shall apply with respect to budgets for fiscal years beginning after September 30, 1989.”
 
 #### Construction
 
-Section 4001(b) of Pub. L. 101–239 provided that: “Nothing in any amendment made by subsection (a) \[enacting this section\] shall be considered to diminish the oversight responsibilities or authority of the Congress under law, rule, or regulation with respect to the budget and operations of the United States Postal Service.”
+Pub. L. 101–239, title IV, §4001(b), Dec. 19, 1989, 103 Stat. 2133, provided that: “Nothing in any amendment made by subsection (a) \[enacting this section\] shall be considered to diminish the oversight responsibilities or authority of the Congress under law, rule, or regulation with respect to the budget and operations of the United States Postal Service.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -58,7 +58,7 @@ Notwithstanding any other provision of this Act—
 
 #### References in Text
 
-Act of June 18, 1934, and this Act, referred to in subsecs. (f) and (h), is act of June 18, 1934, ch. 576, 48 Stat. 984, popularly known as the Indian Reorganization Act, which is classified generally to this subchapter. Forcomplete classification of this Act to the Code, see Short Title note set out under section 461 of this title and Tables.
+Act of June 18, 1934, and this Act, referred to in subsecs. (f) and (h), is act of June 18, 1934, ch. 576, 48 Stat. 984, popularly known as the Indian Reorganization Act, which is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 461 of this title and Tables.
 
 #### Codification
 
@@ -76,7 +76,7 @@ May 31, 1994, referred to in subsec. (g), was in the original “the date of ena
 
 #### Definitions Applicable
 
-Section 102 of title I of Pub. L. 100–581 provided that: “For the purpose of this Act \[probably means title I of Pub. L. 100–581 which amended this section and enacted provisions set out below\], the term—
+Pub. L. 100–581, title I, §102, Nov. 1, 1988, 102 Stat. 2939, provided that: “For the purpose of this Act \[probably means title I of Pub. L. 100–581 which amended this section and enacted provisions set out below\], the term—
 
 &emsp;“(1) ‘applicable laws’ means any treaty, Executive order or Act of Congress or any final decision of the Federal courts which are applicable to the tribe, and any other laws which are applicable to the tribe pursuant to an Act of Congress or by any final decision of the Federal courts;
 
@@ -86,5 +86,5 @@ Section 102 of title I of Pub. L. 100–581 provided that: “For the purpose of
 
 #### Amendment of Tribal Constitution and Bylaws
 
-Section 103 of title I of Pub. L. 100–581 provided that: “Nothing in this Act \[probably means title I of Pub. L. 100–581 which amended this section and enacted provisions set out above\] is intended to amend, revoke, or affect any tribal constitution, bylaw, or amendment ratified and approved prior to this Act.”
+Pub. L. 100–581, title I, §103, Nov. 1, 1988, 102 Stat. 2939, provided that: “Nothing in this Act \[probably means title I of Pub. L. 100–581 which amended this section and enacted provisions set out above\] is intended to amend, revoke, or affect any tribal constitution, bylaw, or amendment ratified and approved prior to this Act.”
 

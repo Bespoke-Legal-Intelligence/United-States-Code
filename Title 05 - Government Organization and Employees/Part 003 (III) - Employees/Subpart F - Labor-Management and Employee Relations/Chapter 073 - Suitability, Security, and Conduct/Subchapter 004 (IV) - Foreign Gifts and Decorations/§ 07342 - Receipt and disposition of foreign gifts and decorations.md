@@ -62,7 +62,7 @@
 
 &emsp;&emsp;(ii) an employee may accept gifts of travel or expenses for travel taking place entirely outside the United States (such as transportation, food, and lodging) of more than minimal value if such acceptance is appropriate, consistent with the interests of the United States, and permitted by the employing agency and any regulations which may be prescribed by the employing agency.
 
-(2) Within 60 days after accepting a tangible gift of more than minimal value (other than a gift described in paragraph (1)(B)(ii)), an employee shall—
+(2) Within 60 days after accepting a tangible gift of more than minimal value (other than agift described in paragraph (1)(B)(ii)), an employee shall—
 
 &emsp;(A) deposit the gift for disposal with his or her employing agency; or
 
@@ -184,7 +184,7 @@ Section 108A of the Mutual Educational and Cultural Exchange Act of 1961, referr
 
 #### Amendments
 
-<b>2011</b>—Subsec. (e)(1). Pub. L. 111–350 substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and4711) of subtitle I of title 41” for “title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)”.
+<b>2011</b>—Subsec. (e)(1). Pub. L. 111–350 substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)”.
 
 <b>2010</b>—Subsec. (f)(4). Pub. L. 111–259 amended par. (4) generally. Prior to amendment, par. (4) read as follows:
 
@@ -234,7 +234,7 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 
 #### Effective Date of 1977 Amendment
 
-Section 515(a)(2) of Pub. L. 95–105 provided that: “The amendment made by paragraph (1) of this subsection \[amending this section\] shall take effect on January 1, 1978.”
+Pub. L. 95–105, title V, §515(a)(2), Aug. 17, 1977, 91 Stat. 866, provided that: “The amendment made by paragraph (1) of this subsection \[amending this section\] shall take effect on January 1, 1978.”
 
 #### Transfer of Functions
 
@@ -242,11 +242,11 @@ Certain functions of Clerk of House of Representatives transferred to Director o
 
 #### Leasing of Space and Facilities for Storing and Safeguarding Property
 
-Section 712(d) of Pub. L. 95–426 provided that: “In the event that the space and facilities available to the Secretary of the Senate for carrying out his responsibilities in storing and safeguarding property in his custody under section 7342 of title 5, United States Code, are insufficient for such purpose, he may, with the approval of the Committee on Rules and Administration of the Senate, lease such space and facilities as may be necessary for such purpose. Rental payments under any such lease and expenses incurred in connection therewith shall be paid from the contingent fund of the Senate upon vouchers approved by the Secretary of the Senate.”
+Pub. L. 95–426, title VII, §712(d), Oct. 7, 1978, 92 Stat. 995, provided that: “In the event that the space and facilities available to the Secretary of the Senate for carrying out his responsibilities in storing and safeguarding property in his custody under section 7342 of title 5, United States Code, are insufficient for such purpose, he may, with the approval of the Committee on Rules and Administration of the Senate, lease such space and facilities as may be necessary for such purpose. Rental payments under any such lease and expenses incurred in connection therewith shall be paid from the contingent fund of the Senate upon vouchers approved by the Secretary of the Senate.”
 
 #### Wearing of Certain Decorations
 
-Section 33A of act Aug. 10, 1956, ch. 1041, as added by Pub. L. 85–861, Sept. 2, 1958, §33(e), 72 Stat. 1567, provided: “A member or former member of an armed force of the United States holding any office of profit or trust under the United States may wear any decoration, order, medal, or emblem accepted (1) under the Act of July 20, 1942, chapter 508 (56 Stat. 662), or (2) before August 1, 1947, from the government of a cobelligerent or neutral nation or an American Republic.”
+Act Aug. 10, 1956, ch. 1041, §33A, 70 Stat. 1126, as added by Pub. L. 85–861, Sept. 2, 1958, §33(e), 72 Stat. 1567, provided: “A member or former member of an armed force of the United States holding any office of profit or trust under the United States may wear any decoration, order, medal, or emblem accepted (1) under the Act of July 20, 1942, chapter 508 (56 Stat. 662), or (2) before August 1, 1947, from the government of a cobelligerent or neutral nation or an American Republic.”
 
 #### Executive Order No. 11320
 

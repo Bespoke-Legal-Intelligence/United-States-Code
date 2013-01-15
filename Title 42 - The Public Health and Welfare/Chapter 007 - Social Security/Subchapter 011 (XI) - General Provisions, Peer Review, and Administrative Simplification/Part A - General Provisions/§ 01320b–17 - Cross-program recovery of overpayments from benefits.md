@@ -16,7 +16,7 @@ Subject to subsection (b) of this section, whenever the Commissioner of Social S
 
 &emsp;&emsp;&emsp;(i) the amount of the benefit payable to the person for that month; or
 
-&emsp;&emsp;&emsp;(ii) an amount equal to 10 percent of the person's income for that month (includingsuch monthly benefit but excluding payments under subchapter II of this chapter when recovery is also made from subchapter II payments and excluding income excluded pursuant to section 1382a(b) of this title).
+&emsp;&emsp;&emsp;(ii) an amount equal to 10 percent of the person's income for that month (including such monthly benefit but excluding payments under subchapter II of this chapter when recovery is also made from subchapter II payments and excluding income excluded pursuant to section 1382a(b) of this title).
 
 #### (2) Exception
 

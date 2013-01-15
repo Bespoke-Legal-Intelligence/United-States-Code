@@ -8,7 +8,7 @@
 
 (3) The remedies under paragraphs (1) and (2) are in addition to any other remedies under Federal, State, local, or other law.
 
-(4) Nothing in this chapter shall be construed to expand, restrict, or otherwise modify anyright of an authorized State official to proceed in State court, or take other enforcement actions, on the basis of an alleged violation of State or other law.
+(4) Nothing in this chapter shall be construed to expand, restrict, or otherwise modify any right of an authorized State official to proceed in State court, or take other enforcement actions, on the basis of an alleged violation of State or other law.
 
 (5) Nothing in this chapter shall be construed to expand, restrict, or otherwise modify any right of an authorized local government official to proceed in State court, or take other enforcement actions, on the basis of an alleged violation of local or other law.
 

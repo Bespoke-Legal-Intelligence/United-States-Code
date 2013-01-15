@@ -20,13 +20,21 @@ Procedures.—(1) The Secretary shall establish by regulation procedures for ent
 
 (2) Upon the establishment of the procedures under paragraph (1), the Secretary may exempt contracts covered by this section from the competitive contracting requirements specified in section 2304 of this title or any other similar requirements of law.
 
+(3) The procedures established under paragraph (1) may provide for a contracting officer to authorize a contractor to enter into a subcontract for personal services on behalf of the agency upon a determination that the subcontract is—
+
+&emsp;(A) consistent with the requirements of this section and the procedures established under paragraph (1); and
+
+&emsp;(B) in the best interests of the agency.
+
 (d)
 
 Exceptions.—The procedures and exemptions provided under subsection (c) shall not apply to personal services contracts entered into under subsection (a) with entities other than individuals or to any contract that is not an authorized personal services contract under subsection (a).
 
-(Added Pub. L. 98–94, title IX, §932(a)(1), Sept. 24, 1983, 97 Stat. 649; amended Pub. L. 101–510, div. A, title VII, §714, Nov. 5, 1990, 104 Stat. 1584; Pub. L. 103–160, div. A, title VII, §712(a)(1), Nov. 30, 1993, 107 Stat. 1688; Pub. L. 104–106, div. A, title VII, §733(a), Feb. 10, 1996, 110 Stat. 381; Pub. L. 105–85, div. A, title VII, §736(a), Nov. 18, 1997, 111 Stat. 1814; Pub. L. 105–261, div. A, title VII, §733(a), Oct. 17, 1998, 112 Stat. 2072; Pub. L. 106–398, §1 \[\[div. A\], title VII, §705\], Oct. 30, 2000, 114 Stat. 1654, 1654A–175; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VII, §707, Dec. 2, 2002, 116 Stat. 2585; Pub. L. 108–136, div. A, title VII, §721, Nov. 24, 2003, 117 Stat. 1531.)
+(Added Pub. L. 98–94, title IX, §932(a)(1), Sept. 24, 1983, 97 Stat. 649; amended Pub. L. 101–510, div. A, title VII, §714, Nov. 5, 1990, 104 Stat. 1584; Pub. L. 103–160, div. A, title VII, §712(a)(1), Nov. 30, 1993, 107 Stat. 1688; Pub. L. 104–106, div. A, title VII, §733(a), Feb. 10, 1996, 110 Stat. 381; Pub. L. 105–85, div. A, title VII, §736(a), Nov. 18, 1997, 111 Stat. 1814; Pub. L. 105–261, div. A, title VII, §733(a), Oct. 17, 1998, 112 Stat. 2072; Pub. L. 106–398, §1 \[\[div. A\], title VII, §705\], Oct. 30, 2000, 114 Stat. 1654, 1654A–175; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VII, §707, Dec. 2, 2002, 116 Stat. 2585; Pub. L. 108–136, div. A, title VII, §721, Nov. 24, 2003, 117 Stat. 1531; Pub. L. 112–239, div. A, title VII, §713(b), Jan. 2, 2013, 126 Stat. 1803.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (c)(3). Pub. L. 112–239 added par. (3).
 
 <b>2003</b>—Subsec. (a)(2). Pub. L. 108–136 struck out at end “The Secretary may not enter into a contract under this paragraph after December 31, 2003.”
 
@@ -56,19 +64,19 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 #### Effective Date of 1996 Amendment
 
-Section 733(c) of Pub. L. 104–106 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect as of October 1, 1995.”
+Pub. L. 104–106, div. A, title VII, §733(c), Feb. 10, 1996, 110 Stat. 381, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect as of October 1, 1995.”
 
 #### Effective Date
 
-Section 932(f) of Pub. L. 98–94 provided that: “The amendments made by this section \[enacting this section, amending section 201 of Title 37, Pay and Allowances of the Uniformed Services, and repealing sections 4022 and 9022 of this title and section 421 of Title 37\] shall take effect on October 1, 1983. Any contract of employment entered into under the authority of section 4022 or 9022 of title 10, United States Code, before the effective date of this section and which is in effect on such date shall remain in effect in accordance with the terms of such contract.”
+Pub. L. 98–94, title IX, §932(f), Sept. 24, 1983, 97 Stat. 650, provided that: “The amendments made by this section \[enacting this section, amending section 201 of Title 37, Pay and Allowances of the Uniformed Services, and repealing sections 4022 and 9022 of this title and section 421 of Title 37\] shall take effect on October 1, 1983. Any contract of employment entered into under the authority of section 4022 or 9022 of title 10, United States Code, before the effective date of this section and which is in effect on such date shall remain in effect in accordance with the terms of such contract.”
 
 #### Test of Alternative Process for Conducting Medical Screenings for Enlistment Qualification
 
-Pub. L. 105–261, div. A, title VII, §733(b), Oct. 17, 1998, 112 Stat. 2072, as amended by Pub. L. 106–65, div. A, title X, §1067(3), Oct. 5, 1999, 113 Stat. 774, directed the Secretary of Defense to conduct a test to determine whether an alternative to the system used by the Department of Defense of employing fee-basis physicians for determining the medical qualifications for enlistment of applicants for military service would reduce the number of disqualifying medical conditions detected during the initial entry training of such applicants, and whether an alternative system would meet or exceed the cost, responsiveness, and timeliness standards of the systemin use or achieve any savings or cost avoidance, and to submit to committees of Congress a report on the results and findings of the test not later than Mar. 1, 2000.
+Pub. L. 105–261, div. A, title VII, §733(b), Oct. 17, 1998, 112 Stat. 2072, as amended by Pub. L. 106–65, div. A, title X, §1067(3), Oct. 5, 1999, 113 Stat. 774, directed the Secretary of Defense to conduct a test to determine whether an alternative to the system used by the Department of Defense of employing fee-basis physicians for determining the medical qualifications for enlistment of applicants for military service would reduce the number of disqualifying medical conditions detected during the initial entry training of such applicants, and whether an alternative system would meet or exceed the cost, responsiveness, and timeliness standards of the system in use or achieve any savings or cost avoidance, and to submit to committees of Congress a report on the results and findings of the test not later than Mar. 1, 2000.
 
 #### Ratification of Existing Contracts
 
-Section 733(b) of Pub. L. 104–106 provided that: “Any exercise of authority under section 1091 of title 10, United States Code, to enter into a personal services contract on behalf of the Coast Guard before the effective date of the amendments made by subsection (a) \[Oct. 1, 1995\] is hereby ratified.”
+Pub. L. 104–106, div. A, title VII, §733(b), Feb. 10, 1996, 110 Stat. 381, provided that: “Any exercise of authority under section 1091 of title 10, United States Code, to enter into a personal services contract on behalf of the Coast Guard before the effective date of the amendments made by subsection (a) \[Oct. 1, 1995\] is hereby ratified.”
 
 #### Personal Service Contracts To Provide Care
 

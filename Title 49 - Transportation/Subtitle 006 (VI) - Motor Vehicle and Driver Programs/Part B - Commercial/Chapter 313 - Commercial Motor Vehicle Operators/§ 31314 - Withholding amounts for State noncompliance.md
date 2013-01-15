@@ -2,17 +2,27 @@
 
 (a)
 
-First Fiscal Year.—The Secretary of Transportation shall withhold up to 5 percent of the amount required to be apportioned to a State under section 104(b)(1), (3), and (4) of title 23 on the first day of the fiscal year after the first fiscal year beginning after September 30, 1992, throughout which the State does not comply substantially with a requirement of section 31311(a) of this title.
+First Fiscal Year.—The Secretary of Transportation shall withhold up to 5 percent of the amount required to be apportioned to a State under section 104(b)(1), (3), and (4) <sup>1</sup> of title 23 on the first day of the fiscal year after the first fiscal year beginning after September 30, 1992, throughout which the State does not comply substantially with a requirement of section 31311(a) of this title.
 
 (b)
 
-Second Fiscal Year.—The Secretary shall withhold up to 10 percent of the amount required to be apportioned to a State under section 104(b)(1), (3), and (4) of title 23 on the first day of each fiscal year after the 2d fiscal year beginning after September 30, 1992, throughout which the State does not comply substantially with a requirement of section 31311(a) of this title.
+Second Fiscal Year.—The Secretary shall withhold up to 10 percent of the amount required to be apportioned to a State under section 104(b)(1), (3), and (4) <sup>1</sup> of title 23 on the first day of each fiscal year after the 2d fiscal year beginning after September 30, 1992, throughout which the State does not comply substantially with a requirement of section 31311(a) of this title.
 
 (c)
 
+Penalties Imposed in Fiscal Year 2012
+
+and Thereafter.—Effective beginning on October 1, 2011—
+
+&emsp;(1) the penalty for the first instance of noncompliance by a State under this section shall be not more than an amount equal to 4 percent of funds required to be apportioned to the noncompliant State under paragraphs (1) and (2) of section 104(b) of title 23; and
+
+&emsp;(2) the penalty for subsequent instances of noncompliance shall be not more than an amount equal to 8 percent of funds required to be apportioned to the noncompliant State under paragraphs (1) and (2) of section 104(b) of title 23.
+
+(d)
+
 Availability for Apportionment.—Amounts withheld under this section from apportionment to a State after September 30, 1995, are not available for apportionment to the State.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1028; Pub. L. 105–178, title IV, §4011(g), (h), June 9, 1998, 112 Stat. 408; Pub. L. 105–206, title IX, §9010, July 22, 1998, 112 Stat. 863; Pub. L. 109–59, title IV, §4124(c), Aug. 10, 2005, 119 Stat. 1738.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1028; Pub. L. 105–178, title IV, §4011(g), (h), June 9, 1998, 112 Stat. 408; Pub. L. 105–206, title IX, §9010, July 22, 1998, 112 Stat. 863; Pub. L. 109–59, title IV, §4124(c), Aug. 10, 2005, 119 Stat. 1738; Pub. L. 112–141, div. A, title I, §1404(j), July 6, 2012, 126 Stat. 559.)
 
 Historical and Revision Notes
 
@@ -50,7 +60,13 @@ In this section, the word “amounts” is substituted for “funds” and “su
 
 In subsection (e), the words “by the Secretary” are omitted as surplus.
 
+#### References in Text
+
+Section 104(b)(1), (3), and (4) of title 23, referred to in subsecs. (a) and (b), probably refers to section 104(b)(1),\(3), and (4) of title 23 prior to the general amendment of section 104 by Pub. L. 112–141, div. A, title I, §1105(a), July 6, 2012, 126 Stat. 427.
+
 #### Amendments
+
+<b>2012</b>—Subsecs. (c), (d). Pub. L. 112–141 added subsec. (c) and redesignated former subsec. (c) as (d).
 
 <b>2005</b>—Subsecs. (a), (b). Pub. L. 109–59 inserted “up to” after “withhold”.
 
@@ -74,7 +90,13 @@ Pub. L. 105–178, §4011(g)(3), (4), redesignated subsec. (e) as (d) and struck
 
 Subsec. (e). Pub. L. 105–178, §4011(g)(4), redesignated subsec. (e) as (d).
 
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
+
 #### Effective Date of 1998 Amendment
 
 Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of Title 23, Highways.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

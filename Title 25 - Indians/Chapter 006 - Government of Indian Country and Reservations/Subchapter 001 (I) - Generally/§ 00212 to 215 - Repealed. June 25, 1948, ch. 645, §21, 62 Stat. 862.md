@@ -10,5 +10,5 @@ Section 215, R.S. §2144, related to forgery and depredations on the mails. See 
 
 #### Effective Date of Repeal
 
-Repeal effective Sept. 1, 1948, see section 20 of act June 25, 1948.
+Repeal effective Sept. 1, 1948, see act June 25, 1948, ch. 645, §20, 62 Stat. 862.
 

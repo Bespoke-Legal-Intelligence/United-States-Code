@@ -8,7 +8,7 @@ The Congress finds that—
 
 &emsp;(2) among the many chemical substances and mixtures which are constantly being developed and produced, there are some whose manufacture, processing, distribution in commerce, use, or disposal may present an unreasonable risk of injury to health or the environment; and
 
-&emsp;(3) the effective regulation of interstate commerce in such chemical substances and mixtures also necessitates the regulation of intrastate commerce in such chemical substances and mixtures.
+&emsp;(3) the effective regulation of interstate commerce in such chemical substances and mixtures also necessitates the regulation ofintrastate commerce in such chemical substances and mixtures.
 
 #### (b) Policy
 
@@ -44,11 +44,11 @@ Pub. L. 102–550, title X, §1021(c), Oct. 28, 1992, 106 Stat. 3924, provided t
 
 #### Short Title of 1986 Amendment
 
-Section 1 of Pub. L. 99–519 provided that: “This Act \[enacting sections 2641 to 2654 of this title and section 4022 of Title 20, Education, amending sections 2614, 2618, and 2619 of this title and sections 4014 and 4021 of Title 20, and enacting provisions set out as a note under section 4014 of Title 20\] may be cited as the ‘Asbestos Hazard Emergency Response Act of 1986’.”
+Pub. L. 99–519, §1, Oct. 22, 1986, 100 Stat. 2970, provided that: “This Act \[enacting sections 2641 to 2654 of this title and section 4022 of Title 20, Education, amending sections 2614, 2618, and 2619 of this title and sections 4014 and 4021 of Title 20, and enacting provisions set out as a note under section 4014 of Title 20\] may be cited as the ‘Asbestos Hazard Emergency Response Act of 1986’.”
 
 #### Short Title
 
-Section 1 of title I of Pub. L. 94–469; renumbered title I, Pub. L. 99–519, §3(c), Oct. 22, 1986, 100 Stat. 2989, provided that: “This Act \[enacting this chapter and provisions set out as notes under this section\] may be cited as the ‘Toxic Substances Control Act’.”
+Pub. L. 94–469, §1, Oct. 11, 1976, 90 Stat. 2003; renumbered title I, Pub. L. 99–519, §3(c), Oct. 22, 1986, 100 Stat. 2989, provided that: “This Act \[enacting this chapter and provisions set out as notes under this section\] may be cited as the ‘Toxic Substances Control Act’.”
 
 #### Federal Compliance With Pollution Control Standards
 

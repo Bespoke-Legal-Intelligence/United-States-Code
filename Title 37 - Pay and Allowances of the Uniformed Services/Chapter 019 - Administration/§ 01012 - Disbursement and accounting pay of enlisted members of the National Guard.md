@@ -30,5 +30,5 @@ The words “the Secretary concerned” are substituted for “officers and agen
 
 #### Effective Date of 1985 Amendment
 
-Section 1303(b)(13)(D) of Pub. L. 99–145 provided that: “The amendments made by this paragraph \[amending this section\] shall take effect as if included in the enactment of section 2(i) of Public Law 97–258 \[enacting this section\].”
+Pub. L. 99–145, title XIII, §1303(b)(13)(D), Nov. 8, 1985, 99 Stat. 741, provided that: “The amendments made by this paragraph \[amending this section\] shall take effect as if included in the enactment of section 2(i) of Public Law 97–258 \[enacting this section\].”
 

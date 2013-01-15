@@ -70,7 +70,7 @@ The State may designate all or part of the State, or all or part of the client p
 
 &emsp;&emsp;&emsp;(ii) the Secretary has determined have a record of successfully providing services under the Low-Income Home Energy Assistance Program; and
 
-&emsp;&emsp;&emsp;(iii) receive weatherization assistance program funds under part A of title IV ofthe Energy Conservation and Production Act \[42 U.S.C. 6861 et seq.\];
+&emsp;&emsp;&emsp;(iii) receive weatherization assistance program funds under part A of title IV of the Energy Conservation and Production Act \[42 U.S.C. 6861 et seq.\];
 
 > &emsp;&emsp;except that a State may not require any such entity to operate a R.E.A.Ch. program;
 

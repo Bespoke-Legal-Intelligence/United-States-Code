@@ -12,7 +12,7 @@ The provision of the Act of August 31, 1951, referred to in text, is set out as 
 
 <b>2005</b>—Pub. L. 109–59 substituted “Sport Fish Restoration and Boating Trust Fund” for “Sport Fish Restoration Account”, “that Trust Fund, except as provided in section 9504(c) of title 26” for “that Account”, “during succeeding fiscal years” for “during the succeeding fiscal year”, and “to supplement the 57 percent of the balance of each annual appropriation to be apportioned among the States, as provided for in section 777c(c) of this title” for “in carrying on the research program of the Fish and Wildlife Service in respect to fish of material value for sport and recreation”.
 
-<b>1986</b>—Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”,which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 <b>1984</b>—Pub. L. 98–369 substituted “To carry out the provisions of this chapter for fiscal years after September 30, 1984, there are authorized to be appropriated from the Sport Fish Restoration Account established by section 9504(a) of title 26 the amounts paid, transferred, or otherwise credited to that Account. For purposes of the provision of the Act of August 31, 1951, which refers to this section, such amounts shall be treated as the amounts that are equal to the revenues described in this section” for “To carry out the provisions of this chapter, there is hereby authorized to be appropriated an amount equal to the revenue accruing from tax imposed by section 3406 of the Internal Revenue Code, as heretofore of hereafter extended and amended, on fishing rods, creels, reels, and artificial lures, baits, and flies during the fiscal year ending June 30, 1951, and each fiscal year thereafter”.
 
@@ -34,5 +34,5 @@ Transfer of functions to Secretary of Commerce from Secretary of the Interior by
 
 #### Availability of Funds Until Expended
 
-Section 101 of act Aug. 31, 1951, ch. 375, title I, 65 Stat. 262, provided that: “For carrying out the provisions of the Act of August 9, 1950 (Public Law 681) \[this chapter\], amounts equal to the revenues described in section 3 of said Act \[this section\] and credited during the next preceding fiscal year and each fiscal year thereafter, to remain available until expended.”
+Act Aug. 31, 1951, ch. 375, title I, §101, 65 Stat. 262, provided that: “For carrying out the provisions of the Act of August 9, 1950 (Public Law 681) \[this chapter\], amounts equal to the revenues described in section 3 of said Act \[this section\] and credited during the next preceding fiscal year and each fiscal year thereafter, to remain available until expended.”
 

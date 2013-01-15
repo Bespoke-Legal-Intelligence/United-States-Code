@@ -40,7 +40,7 @@ The Secretary of Health and Human Services, or the Secretary's designee, shallâ€
 
 #### (2) National plan
 
-&emsp;The Secretary of Health and Human Services, or the Secretary's designee, shall carry out an annual assessment of the Nation's progress in preparing for the escalating burden of Alzheimer's, including both implementation steps and recommendations for priority actions based on the assessment.
+&emsp;The Secretary of Health and Human Services, or the Secretary's designee, shall carryout an annual assessment of the Nation's progress in preparing for the escalating burden of Alzheimer's, including both implementation steps and recommendations for priority actions based on the assessment.
 
 #### (e) Advisory Council
 

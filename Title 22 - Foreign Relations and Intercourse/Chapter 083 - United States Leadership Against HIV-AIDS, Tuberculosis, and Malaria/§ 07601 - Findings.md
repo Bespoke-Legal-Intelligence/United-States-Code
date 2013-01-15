@@ -18,7 +18,7 @@ Congress makes the following findings:
 
 &emsp;(6) HIV/AIDS threatens personal security by affecting the health, lifespan, and productive capacity of the individual and the social cohesion and economic well-being of the family.
 
-&emsp;(7) HIV/AIDS undermines the economic security of a country and individual businesses in that country by weakening the productivity and longevity of the labor force across a broad array of economic sectors and by reducing the potential for economic growth over the long term.
+&emsp;(7) HIV/AIDS undermines the economic security of a country and individual businesses in that country by weakening the productivity and longevity of the labor force across a broad array of economic sectors and by reducing thepotential for economic growth over the long term.
 
 &emsp;(8) HIV/AIDS destabilizes communities by striking at the most mobile and educated members of society, many of whom are responsible for security at the local level and governance at the national and subnational levels as well as many teachers, health care personnel, and other community workers vital to community development and the effort to combat HIV/AIDS. In some countries the overwhelming challenges of the HIV/AIDS epidemic are accelerating the outward migration of critically important health care professionals.
 
@@ -48,7 +48,7 @@ Congress makes the following findings:
 
 &emsp;(18) Nongovernmental organizations, including faith-based organizations, with experience in health care and HIV/AIDS counseling, have proven effective in combating the HIV/AIDS pandemic and can be a resource in assisting indigenous organizations in severely affected countries in their efforts to provide treatment and care for individuals infected with HIV/AIDS.
 
-&emsp;(19) Faith-based organizations are making an important contribution to HIV prevention and AIDS treatment programs around the world. Successful HIV prevention programs in Uganda, Jamaica, and elsewhere have included local churches and faith-based groups in efforts to promote behavior changes to prevent HIV, to reduce stigma associated with HIV infection, to treat those afflicted with the disease, and to care for orphans. The Catholic Church alone currently cares for one in four people being treated for AIDS worldwide. Faith-based organizations possess infrastructure, experience, and knowledge that will be needed to carry out these programs in the future and should be an integral part of United States efforts.
+&emsp;(19) Faith-based organizations are making an important contribution to HIV prevention and AIDS treatment programs around the world. Successful HIV prevention programs in Uganda, Jamaica, and elsewhere have included local churches and faith-based groups in efforts to promote behavior changes to prevent HIV, to reduce stigma associated with HIV infection, to treat those afflicted with the disease, and to care for orphans. The Catholic Church alone currently cares for one in four people being treated for AIDS worldwide.Faith-based organizations possess infrastructure, experience, and knowledge that will be needed to carry out these programs in the future and should be an integral part of United States efforts.
 
 &emsp;(20)(A) Uganda has experienced the most significant decline in HIV rates of any country in Africa, including a decrease among pregnant women from 20.6 percent in 1991 to 7.9 percent in 2000.
 
@@ -162,7 +162,7 @@ Congress makes the following findings:
 
 &emsp;&emsp;(B) committed “TO TAKE PERSONAL RESPONSIBILITY AND PROVIDE LEADERSHIP for the activities of the National AIDS Commissions/Councils”;
 
-&emsp;&emsp;(C) resolved “to lead from the front the battle against HIV/AIDS, Tuberculosis and Other Related Infectious Diseases by personally ensuring that such bodies were properlyconvened in mobilizing our societies as a whole and providing focus for unified national policymaking and programme implementation, ensuring coordination of all sectors at all levels with a gender perspective and respect for human rights, particularly to ensure equal rights for people living with HIV/AIDS”; and
+&emsp;&emsp;(C) resolved “to lead from the front the battle against HIV/AIDS, Tuberculosis and Other Related Infectious Diseases by personally ensuring that such bodies were properly convened in mobilizing our societies as a whole and providing focus for unified national policymaking and programme implementation, ensuring coordination of all sectors at all levels with a gender perspective and respect for human rights, particularly to ensure equal rights for people living with HIV/AIDS”; and
 
 &emsp;&emsp;(D) pledged “to set a target of allocating at least 15% of our annual budget to the improvement of the health sector”.
 

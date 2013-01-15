@@ -16,7 +16,7 @@
 
 &emsp;Each territory shall be entitled to receive from the Secretary for each fiscal year a grant in an amount equal to 75 percent of the amount (if any) by which—
 
-&emsp;&emsp;(A) the total expenditures of the territory during the fiscal year under the territory programs funded under parts A and E of subchapter IV of this chapter, including any amount paid to the State under part A of subchapter IV of this chapter that is transferred in accordance with section 604(d) of this title and expended under the program to which transferred; exceeds
+&emsp;&emsp;(A) the total expenditures of the territory during the fiscal year under the territory programs funded under parts A and E of subchapter IV of this chapter, including anyamount paid to the State under part A of subchapter IV of this chapter that is transferred in accordance with section 604(d) of this title and expended under the program to which transferred; exceeds
 
 &emsp;&emsp;(B) the sum of—
 
@@ -26,7 +26,7 @@
 
 #### (2) Appropriation
 
-&emsp;Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated for fiscal years 1997 through 2003, such sums as are necessary for grants under this paragraph.
+&emsp;Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated for fiscal year 2012, such sums as are necessary for grants under this paragraph.
 
 #### (c) Definitions
 
@@ -142,13 +142,15 @@ Subject to subsection (g) of this section and section 1396u–5(e)(1)(B) of this
 
 &emsp;The Secretary shall increase the amounts otherwise determined under this subsection for Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, and American Samoa (after the application of subsection (f) and the preceding paragraphs of this subsection) for the period beginning July 1, 2011, and ending on September 30, 2019, by such amounts that the total additional payments under subchapter XIX to such territories equals $6,300,000,000 for such period. The Secretary shall increase such amounts in proportion to the amounts applicable to such territories under this subsection and subsection (f) on March 30, 2010.
 
-(Aug. 14, 1935, ch. 531, title XI, §1108, as added Aug. 28, 1950, ch. 809, title III, pt. 6, §361(g), 64 Stat. 558; amended Aug. 1, 1956, ch. 836, title III, §351(c), 70 Stat. 855; Pub. L. 85–840, title V, §§507, 508, Aug. 28, 1958, 72 Stat. 1051; Pub. L. 86–778, title VI, §602, Sept. 13, 1960, 74 Stat. 992; Pub. L. 87–31, §6(a)(1), (2), (b), May 8, 1961, 75 Stat. 78; Pub. L. 87–64, title III, §303(d), June 30, 1961, 75 Stat. 143; Pub. L. 87–543, title I, §151, July 25, 1962, 76 Stat. 206; Pub. L. 89–97, title II, §208(a)(2), title IV, §408(a), July 30, 1965, 79 Stat. 355, 422; Pub. L. 90–248, title II, §248(a)(1), Jan. 2, 1968, 81 Stat. 918; Pub. L. 92–603, title II, §§271(a), (b), 272(b), Oct. 30, 1972, 86 Stat. 1451; Pub. L. 93–647, §3(i), Jan. 4, 1975, 88 Stat. 2350; Pub. L. 95–600, title VIII, §802(b), Nov. 6, 1978, 92 Stat. 2945; Pub. L. 96–272, title II, §207(c), title III, §§305(a), (b), June 17, 1980, 94 Stat. 526, 529, 530; Pub. L. 97–35, title XXI, §§2162(b)(1), 2193(c)(1), title XXIII, §2353(f), Aug. 13, 1981, 95 Stat. 806, 827, 872; Pub. L. 97–248, title I, §§136(b), 160(a), Sept. 3, 1982, 96 Stat. 375, 400; Pub. L. 98–369, div. B, title III, §2365(a), July 18, 1984, 98 Stat. 1108; Pub. L. 100–203, title IV, §4111(a), Dec. 22, 1987, 101 Stat. 1330–148; Pub. L. 100–485, title II, §202(c)(2), (3), title VI, §§601(b), (c)(2), 602(a), Oct. 13, 1988, 102 Stat. 2378, 2407, 2408; Pub. L. 103–66, title XIII, §13641(a), Aug. 10, 1993, 107 Stat. 646; Pub. L. 104–193, title I, §103(b), Aug. 22, 1996, 110 Stat. 2160; Pub. L. 105–33, title IV, §4726, title V, §§5001(b), 5512, Aug. 5, 1997, 111 Stat. 519, 589, 619; Pub. L. 108–40, §3(b), June 30, 2003, 117 Stat. 836; Pub. L. 108–173, title I, §103(d)(2), Dec. 8, 2003, 117 Stat. 2159; Pub. L. 109–171, title VI, §6055, Feb. 8, 2006, 120 Stat. 96; Pub. L. 111–3, title I, §109, Feb. 4, 2009, 123 Stat. 25; Pub. L. 111–5, div. B, title II, §2101(c), (d)(1), Feb. 17, 2009, 123 Stat. 449; Pub. L. 111–148, title II, §2005(a), (b), title X, §10201(d), Mar. 23, 2010, 124 Stat. 283, 919; Pub. L. 111–152, title I, §1204(b)(1), (2)(A), Mar. 30, 2010, 124 Stat. 1056.)
+(Aug. 14, 1935, ch. 531, title XI, §1108, as added Aug. 28, 1950, ch. 809, title III, pt. 6, §361(g), 64 Stat. 558; amended Aug. 1, 1956, ch. 836, title III, §351(c), 70 Stat. 855; Pub. L. 85–840, title V, §§507, 508, Aug. 28, 1958, 72 Stat. 1051; Pub. L. 86–778, title VI, §602, Sept. 13, 1960, 74 Stat. 992; Pub. L. 87–31, §6(a)(1), (2), (b), May 8, 1961, 75 Stat. 78; Pub. L. 87–64, title III, §303(d), June 30, 1961, 75 Stat. 143; Pub. L. 87–543, title I, §151, July 25, 1962, 76 Stat. 206; Pub. L. 89–97, title II, §208(a)(2), title IV, §408(a), July 30, 1965, 79 Stat. 355, 422; Pub. L. 90–248, title II, §248(a)(1), Jan. 2, 1968, 81 Stat. 918; Pub. L. 92–603, title II, §§271(a), (b), 272(b), Oct. 30, 1972, 86 Stat. 1451; Pub. L. 93–647, §3(i), Jan. 4, 1975, 88 Stat. 2350; Pub. L. 95–600, title VIII, §802(b), Nov. 6, 1978, 92 Stat. 2945; Pub. L. 96–272, title II, §207(c), title III, §§305(a), (b), June 17, 1980, 94 Stat. 526, 529, 530; Pub. L. 97–35, title XXI, §§2162(b)(1), 2193(c)(1), title XXIII, §2353(f), Aug. 13, 1981, 95 Stat. 806, 827, 872; Pub. L. 97–248, title I, §§136(b), 160(a), Sept. 3, 1982, 96 Stat. 375, 400; Pub. L. 98–369, div. B, title III, §2365(a), July 18, 1984, 98 Stat. 1108; Pub. L. 100–203, title IV, §4111(a), Dec. 22, 1987, 101 Stat. 1330–148; Pub. L. 100–485, title II, §202(c)(2), (3), title VI, §§601(b), (c)(2), 602(a), Oct. 13, 1988, 102 Stat. 2378, 2407, 2408; Pub. L. 103–66, title XIII, §13641(a), Aug. 10, 1993, 107 Stat. 646; Pub. L. 104–193, title I, §103(b), Aug. 22, 1996, 110 Stat. 2160; Pub. L. 105–33, title IV, §4726, title V, §§5001(b), 5512, Aug. 5, 1997, 111 Stat. 519, 589, 619; Pub. L. 108–40, §3(b), June 30, 2003, 117 Stat. 836; Pub. L. 108–173, title I, §103(d)(2), Dec. 8, 2003, 117 Stat. 2159; Pub. L. 109–171, title VI, §6055, Feb. 8, 2006, 120 Stat. 96; Pub. L. 111–3, title I, §109, Feb. 4, 2009, 123 Stat. 25; Pub. L. 111–5, div. B, title II, §2101(c), (d)(1), Feb. 17, 2009, 123 Stat. 449; Pub. L.111–148, title II, §2005(a), (b), title X, §10201(d), Mar. 23, 2010, 124 Stat. 283, 919; Pub. L. 111–152, title I, §1204(b)(1), (2)(A), Mar. 30, 2010, 124 Stat. 1056; Pub. L. 112–96, title IV, §4002(h), Feb. 22, 2012, 126 Stat. 195.)
 
 #### References in Text
 
 Subsection (e) of this section, referred to in subsec. (c)(2), was repealed by Pub. L. 105–33, title V, §5512(c), Aug. 5, 1997, 111 Stat. 619.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (b)(2). Pub. L. 112–96 substituted “fiscal year 2012” for “fiscal years 1997 through 2003”.
 
 <b>2010</b>—Subsec. (g)(2). Pub. L. 111–152, §1204(b)(1)(A), inserted “and section 18043(a)(2) of this title” after “subject to” in introductory provisions.
 
@@ -254,7 +256,7 @@ Subsec. (c). Pub. L. 97–35, §2162(b)(1), in par. (1) increased the amount fro
 
 Subsec. (d). Pub. L. 97–35, §2193(c)(1), substituted “section 621 of this title” for “sections 702(a) and 712(a) of this title, and the provisions of sections 621, 703(1), and 704(1) of this title as amended by the Social Security Amendments of 1967”.
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–272 substituted “section 1397a(a)(2)(C) of this title” for “section 1397a(a)(2)(D) of this title” and “under parts A and E” for “under part A” in provisions preceding par. (1), substituted “with respect to each of the fiscal years 1972 through 1978” for “with respect to the fiscal year 1972 and each fiscal year thereafter other than the fiscal year 1979” in pars. (1)(E), (2)(E), and (3)(E), and substituted “with respectto the fiscal year 1979 and each fiscal year thereafter” for “with respect to the fiscal year 1979” in pars. (1)(F), (2)(F), and (3)(F).
+<b>1980</b>—Subsec. (a). Pub. L. 96–272 substituted “section 1397a(a)(2)(C) of this title” for “section 1397a(a)(2)(D) of this title” and “under parts A and E” for “under part A” in provisions preceding par. (1), substituted “with respect to each of the fiscal years 1972 through 1978” for “with respect to the fiscal year 1972 and each fiscal year thereafter other than the fiscal year 1979” in pars. (1)(E), (2)(E), and (3)(E), and substituted “with respect to the fiscal year 1979 and each fiscal year thereafter” for “with respect to the fiscal year 1979” in pars. (1)(F), (2)(F), and (3)(F).
 
 <b>1978</b>—Subsec. (a)(1)(E). Pub. L. 95–600, §802(b)(1)(B), inserted “other than the fiscal year 1979, or”.
 
@@ -286,7 +288,7 @@ Subsec. (d). Pub. L. 92–603, §272(b), inserted “, American Samoa, and the 
 
 Pub. L. 87–31 increased the grant to Puerto Rico for fiscal year ending June 30, 1961, from $9,000,000 to $9,075,000 and for fiscal year ending June 30, 1962, to $9,425,000; the grants to Virgin Islands and Guam from $315,000 and $420,000 to $318,750 and $425,000, respectively; and payments under section 303(a)(2)(B) of this title to Puerto Rico, Virgin Islands and Guam from $500,000, $15,000 and $20,000 to $625,000, $18,750 and $25,000, respectively. See also Limitation on Payments note below.
 
-<b>1960</b>—Pub. L. 86–778 substituted “$9,000,000, of which $500,000 may be used only for payments certified with respect to section 303(a)(2)(B) of this title” for “$8,500,000”, “$315,000, of which $15,000 may be used only for payments certified in respect to section 303(a)(2)(B) of this title” for “$300,000”, “$420,000, of which $20,000 may be used only for payments certified in respect to section 303(a)(2)(B) of this title” for “$400,000”, and “subchapters I (other than section 303(a)(3) thereof)” for “subchapters I”.
+<b>1960</b>—Pub. L. 86–778 substituted “$9,000,000, of which $500,000 may be used only for payments certified withrespect to section 303(a)(2)(B) of this title” for “$8,500,000”, “$315,000, of which $15,000 may be used only for payments certified in respect to section 303(a)(2)(B) of this title” for “$300,000”, “$420,000, of which $20,000 may be used only for payments certified in respect to section 303(a)(2)(B) of this title” for “$400,000”, and “subchapters I (other than section 303(a)(3) thereof)” for “subchapters I”.
 
 <b>1958</b>—Pub. L. 85–840, §§507, 508, amended section. Section 507(a) substituted “$8,500,000” for “$5,312,500” and “$300,000” for “$200,000”, and limited the total amount certified for payment to Guam with respect to any fiscal year to not more than $400,000. Section 507(b) amended catchline to include Guam. Section 508 inserted provisions requiring the Secretary, in lieu of the allotments specified in sections 702(a)(2), 712(a)(2) and 722(a) of this title, to allot such smaller amounts as he may deem appropriate to Guam, notwithstanding provisions of such sections and until such time as the Congress may by appropriation or other law otherwise provide.
 
@@ -308,7 +310,7 @@ Amendment by Pub. L. 104–193 effective Oct. 1, 1996, see section 116(a)(3) of 
 
 #### Effective Date of 1993 Amendment
 
-Section 13641(b) of Pub. L. 103–66 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply beginning with fiscal year 1994.”
+Pub. L. 103–66, title XIII, §13641(b), Aug. 10, 1993, 107 Stat. 647, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply beginning with fiscal year 1994.”
 
 #### Effective Date of 1988 Amendment
 
@@ -316,15 +318,15 @@ Amendment by section 202(c)(2), (3) of Pub. L. 100–485 effective Oct. 1, 1990,
 
 Amendment by section 601(b), (c)(2) of Pub. L. 100–485 effective Oct. 1, 1988, see section 601(d) of Pub. L. 100–485, set out as an Effective and Termination Dates of 1988 Amendment note under section 1301 of this title.
 
-Section 602(b) of Pub. L. 100–485 provided that: “The amendments made by subsection (a) \[amending this section\] shall become effective on October 1, 1988.”
+Pub. L. 100–485, title VI, §602(b), Oct. 13, 1988, 102 Stat. 2408, provided that: “The amendments made by subsection (a) \[amending this section\] shall become effective on October 1, 1988.”
 
 #### Effective Date of 1987 Amendment
 
-Section 4111(b) of Pub. L. 100–203 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to payments for fiscal years beginning with fiscal year 1988.”
+Pub. L. 100–203, title IV, §4111(b), Dec. 22, 1987, 101 Stat. 1330–148, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to payments for fiscal years beginning with fiscal year 1988.”
 
 #### Effective Date of 1984 Amendment
 
-Section 2365(b) of Pub. L. 98–369 provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective for fiscal years beginning on or after October 1, 1983.”
+Pub. L. 98–369, div. B, title III, §2365(b), July 18, 1984, 98 Stat. 1108, provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective for fiscal years beginning on or after October 1, 1983.”
 
 #### Effective Date of 1982 Amendment
 
@@ -334,7 +336,7 @@ Amendment by section 160(a) of Pub. L. 97–248 effective Oct. 1, 1981, see sect
 
 #### Effective Date of 1981 Amendment
 
-Section 2162(b)(2) of Pub. L. 97–35 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to fiscal years beginning with fiscal year 1982.”
+Pub. L. 97–35, title XXI, §2162(b)(2), Aug. 13, 1981, 95 Stat. 806, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to fiscal years beginning with fiscal year 1982.”
 
 For effective date, savings, and transitional provisions relating to amendment by section 2193(c)(1) of Pub. L. 97–35, see section 2194 of Pub. L. 97–35, set out as a note under section 701 of this title.
 
@@ -346,27 +348,27 @@ Amendment by Pub. L. 93–647 effective with respect to payments under sections 
 
 #### Effective Date of 1972 Amendment
 
-Section 271(c) of Pub. L. 92–603 provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply with respect to fiscal years beginning after June 30, 1971.”
+Pub. L. 92–603, title II, §271(c), Oct. 30, 1972, 86 Stat. 1451, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply with respect to fiscal years beginning after June 30, 1971.”
 
 Amendment by section 272(b) of Pub. L. 92–603 applicable with respect to fiscal years beginning after June 30, 1971, see section 272(c) of Pub. L. 92–603, set out as a note under section 1301 of this title.
 
 #### Effective Date of 1968 Amendment
 
-Section 248(a)(2) of Pub. L. 90–248 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to fiscal years beginning after June 30, 1967.”
+Pub. L. 90–248, title II, §248(a)(2), Jan. 2, 1968, 81 Stat. 919, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to fiscal years beginning after June 30, 1967.”
 
 #### Effective Date of 1965 Amendment
 
-Amendment by section 208(a)(2) Pub. L. 89–97 effective Jan. 1, 1966, see section 208(d) of Pub. L. 89–97.
+Amendment by section 208(a)(2) Pub. L. 89–97 effective Jan. 1, 1966, see Pub. L. 89–97, title II, §208(d), July 30, 1965, 79 Stat. 356.
 
-Section 408(b) of Pub. L. 89–97 provided that: “The amendments made by subsection (a) \[amending this section\] shall be effective in the case of Puerto Rico, the Virgin Islands, or Guam with respect to fiscal years beginning on or after the date on which its plan under title XIX of the Social Security Act \[section 1396 et seq. of this title\] is approved.”
+Pub. L. 89–97, title IV, §408(b), July 30, 1965, 79 Stat. 422, provided that: “The amendments made by subsection (a) \[amending this section\] shall be effective in the case of Puerto Rico, the Virgin Islands, or Guam with respect to fiscal years beginning on or after the date on which its plan under title XIX of the Social Security Act \[section 1396 et seq. of this title\] is approved.”
 
 #### Effective Date of 1962 Amendment
 
-Section 151 of Pub. L. 87–543 provided that the amendment made by that section is effective for fiscal years ending after June 30, 1962.
+Pub. L. 87–543, title I, §151, July 25, 1962, 76 Stat. 206, provided that the amendment made by that section is effective for fiscal years ending after June 30, 1962.
 
-#### Effective and Termination Dates of 1961 Amendments
+#### Effective and Termination Dates of 1961 Amendment
 
-Section 132(d) of Pub. L. 87–543 repealed section 303(d) of Pub. L. 87–64, which had provided that the amendment by section 303(d) of Pub. L. 87–64 shall be effective only for fiscal year ending June 30, 1962, and section 6 of Pub. L. 87–31, which had provided that the amendment by section 6(b) of Pub. L. 87–31 shall be effective for fiscal years ending after June 30, 1961. Such repeal applicable in the case of fiscal years beginning after June 30, 1962, see section 202(b) of Pub. L. 87–543, set out as an Effective Date of 1962 Amendment note under section 906 of this title.
+Section 132(d) of Pub. L. 87–543 repealed section 303(d) of Pub. L. 87–64, which had provided that the amendment by section 303(d) of Pub. L. 87–64 shall be effective only for fiscal year ending June 30, 1962, and section 6 of Pub. L. 87–31, which had provided that the amendment by section 6(b) of Pub. L. 87–31 shall be effective for fiscal years ending after June 30, 1961. Such repeal applicable in the case of fiscal years beginning after June 30, 1962, see section 202(b) of Pub. L. 87–543, set outas an Effective Date of 1962 Amendment note under section 906 of this title.
 
 #### Effective Date of 1960 Amendment
 
@@ -378,7 +380,7 @@ For effective date of amendments made by sections 507 and 508 of Pub. L. 85–84
 
 #### Effective Date of 1956 Amendment
 
-Section 351(d) of act Aug. 1, 1956, provided that: “The amendments made by this section \[amending this section and sections 603 and 606 of this title\] shall be effective with respect to the fiscal year ending June 30, 1957, and all succeeding fiscal years.”
+Act Aug. 1, 1956, ch. 836, title III, §351(d), 70 Stat. 855, provided that: “The amendments made by this section \[amending this section and sections 603 and 606 of this title\] shall be effective with respect to the fiscal year ending June 30, 1957, and all succeeding fiscal years.”
 
 #### Repeals: Effective Date
 

@@ -84,7 +84,7 @@ Imported peanuts shall be subject to the same quality and handling standards as 
 
 #### (2) Funds
 
-&emsp;The Secretary may transfer any funds available to carry out the activities of the Peanut Administrative Committee to the Peanut Standards Board to carry out the duties of the Board described in this section.
+&emsp;The Secretary may transfer any funds available to carry out the activities of the PeanutAdministrative Committee to the Peanut Standards Board to carry out the duties of the Board described in this section.
 
 #### (3) Transition period
 

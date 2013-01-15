@@ -22,7 +22,7 @@ The Institute may provide financial assistance, in the form of summer stipends d
 
 &emsp;&emsp;(A) shall be a full-time student at an institution of higher education who is accepted into a program funded under this part; and
 
-&emsp;&emsp;(B) shall use such scholarship to pay costs related to the cost of attendance, as defined in section 1087<i>ll</i> of this title, at the institution of higher education in which the student is enrolled.
+&emsp;&emsp;(B) shall use such scholarship to pay costs related to the cost of attendance, as defined in section 1087ll of this title, at the institution of higher education in which the student is enrolled.
 
 #### (2) Amount and duration
 

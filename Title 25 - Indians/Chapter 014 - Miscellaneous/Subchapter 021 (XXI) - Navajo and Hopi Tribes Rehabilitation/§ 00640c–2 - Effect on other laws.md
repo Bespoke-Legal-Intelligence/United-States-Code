@@ -1,8 +1,8 @@
 ### §640c–2. Effect on other laws
 
-(a) Except as specifically provided by law, eligibility for assistance under sections 640a to 640c–3 of this title shall not, by itself, preclude the eligibility of Dine�AE1 College to receive Federal financial assistance under any program authorized under the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq., 42 U.S.C. 2751 et seq.\] or any other applicable program for the benefit of institutions of higher education, community colleges, or postsecondary educational institutions.
+(a) Except as specifically provided by law, eligibility for assistance under sections 640a to 640c–3 of this title shall not, by itself, preclude the eligibility of Diné College to receive Federal financial assistance under any program authorized under the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq., 42 U.S.C. 2751 et seq.\] or any other applicable program for the benefit of institutions of higher education, community colleges, or postsecondary educational institutions.
 
-(b) Notwithstanding any other provision of law, funds provided under sections 640a to 640c–3 of this title to Dine�AE1 College may be treated as non-Federal, private funds of the College for purposes of any provision of Federal law which requires that non-Federal or private funds of the College be used in a project or for a specific purpose.
+(b) Notwithstanding any other provision of law, funds provided under sections 640a to 640c–3 of this title to Diné College may be treated as non-Federal, private funds of the College for purposes of any provision of Federal law which requires that non-Federal or private funds of the College be used in a project or for a specific purpose.
 
 (Pub. L. 92–189, §6, as added Pub. L. 96–374, title XIII, §1351(c), Oct. 3, 1980, 94 Stat. 1501; amended Pub. L. 100–297, title V, §5403(b), Apr. 28, 1988, 102 Stat. 416; Pub. L. 110–315, title IX, §946(e), Aug. 14, 2008, 122 Stat. 3469.)
 
@@ -16,9 +16,9 @@ Section was not enacted as part of act Apr. 19, 1950, ch. 92, 64 Stat. 44, which
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–315, §946(e)(1), substituted “Dine�AE1 College” for “the Navajo Community College”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–315, §946(e)(1), substituted “Diné College” for “the Navajo Community College”.
 
-Subsec. (b). Pub. L. 110–315 substituted “Dine�AE1 College” for “the Navajo Community College” and “College be used” for “college be used”.
+Subsec. (b). Pub. L. 110–315 substituted “Diné College” for “the Navajo Community College” and “College be used” for “college be used”.
 
 <b>1988</b>—Pub. L. 100–297 designated existing provisions as subsec. (a) and added subsec. (b).
 

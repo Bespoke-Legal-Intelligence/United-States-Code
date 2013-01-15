@@ -92,11 +92,11 @@ Amendment by Pub. L. 106–65 effective 180 days after Oct. 30, 2000, unless pos
 
 #### Effective Date
 
-Section 4(e), (f) of Pub. L. 103–353 provided that:
+Pub. L. 103–353, §4(e), (f), Oct. 13, 1994, 108 Stat. 3172, 3173, provided that:
 
 “(e)
 
-Effective Date; Applicability.—This section \[enacting this section and amending sections 8351, 8432,and 8433 of this title\] and the amendments made by this section—
+Effective Date; Applicability.—This section \[enacting this section and amending sections 8351, 8432, and 8433 of this title\] and the amendments made by this section—
 
 &emsp;“(1) shall take effect on the date of enactment of this Act \[Oct. 13, 1994\]; and
 

@@ -1,6 +1,6 @@
 ### §7430. Disposition of products
 
-(a) In administering the naval petroleum reserves under this chapter, the Secretary shall use, store, or sell the petroleum produced fromthe naval petroleum reserves and lands covered by joint, unit, or other cooperative plans.
+(a) In administering the naval petroleum reserves under this chapter, the Secretary shall use, store, or sell the petroleum produced from the naval petroleum reserves and lands covered by joint, unit, or other cooperative plans.
 
 (b)(1) Subject to paragraph (2) and notwithstanding any other provision of law, each sale of the United States share of petroleum shall be made by the Secretary at public sale to the highest qualified bidder, at such time, in such amounts, and after such advertising as the Secretary considers proper and without regard to Federal, State, or local regulations controlling sales or allocation of petroleum products. Each sale of the United States share of petroleum shall be for periods of not more than one year, except that a sale of natural gas may be made for a period of more than one year.
 
@@ -22,7 +22,7 @@
 
 (e) Any petroleum produced from the naval petroleum reserves, except such petroleum which is either exchanged in similar quantities for convenience or increased efficiency of transportation with persons or the government of an adjacent foreign state, or which is temporarily exported for convenience or increased efficiency of transportation across parts of an adjacent foreign state and reenters the United States, shall be subject to all of the limitations and licensing requirements of the Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.) and, in addition, before any petroleum subject to this section may be exported under the limitations and licensing requirement and penalty and enforcement provisions of the Export Administration Act of 1979, the President must make and publish an express finding that such exports will not diminish the total quality or quantity of petroleum available to the United States and that such exports are in the national interest and are in accord with the Export Administration Act of 1979.
 
-(f) During the period of production or any extension thereof authorized by section 7422(c) of this title, the consultation and approval requirements of section 7431(a)(3) of this title are waived.
+(f) During the period of production or any extension thereof authorized by section 7422(c) ofthis title, the consultation and approval requirements of section 7431(a)(3) of this title are waived.
 
 (g)(1) Prior to the promulgation of any rules and regulations, plans of development and amendments thereto, and in the entering and making of contracts and operating agreements relating to the development, production, or sale of petroleum in or from the reserves, the Secretary shall consult with and give due consideration to the views of the Attorney General of the United States with respect to matters which may affect competition.
 
@@ -42,7 +42,7 @@
 
 &emsp;(5) sections 2, 3, and 4 of the Act of June 19, 1936 (commonly referred to as the “Robinson-Patman Act”) (15 U.S.C. 13a, 13b, and 21a).
 
-(j) Any pipeline which accepts, conveys, or transports any petroleum produced from Naval Petroleum Reserves Numbered 1 or Numbered 3 shall accept, convey, and transport without discrimination and at reasonable rates any such petroleum as a common carrier insofar as petroleum from such reserves is concerned. Every contract entered into by the Secretary for the sale of any petroleum owned by the UnitedStates which is produced from such reserves shall contain provisions implementing the requirements of the preceding sentence if the contractor owns a controlling interest in any pipeline or any company operating any pipeline, or is the operator of any pipeline, which carries any petroleum produced from such naval petroleum reserves. The Secretary may promulgate rules and regulations for the purpose of carrying out the provisions of this section and he, or the Secretary of the Interior where the authority extends to him, may declare forfeit any contract, operating agreement, right-of-way, permit, or easement held by any person violating any such rule or regulation. This section shall not apply to any natural gas common carrier pipeline operated by any person subject to regulation under the Natural Gas Act (15 U.S.C. 717 et seq.) or any public utility subject to regulation by a State or municipal regulatory agency having jurisdiction to regulate the rates and charges for the sale of natural gas to consumers within the State or municipality.
+(j) Any pipeline which accepts, conveys, or transports any petroleum produced from Naval Petroleum Reserves Numbered 1 or Numbered 3 shall accept, convey, and transport without discrimination and at reasonable rates any such petroleum as a common carrier insofar as petroleum from such reserves is concerned. Every contract entered into by the Secretary for the sale of any petroleum owned by the United States which is produced from such reserves shall contain provisions implementing the requirements of the preceding sentence if the contractor owns a controlling interest in any pipeline or any company operating any pipeline, or is the operator of any pipeline, which carries any petroleum produced from such naval petroleum reserves. The Secretary may promulgate rules and regulations for the purpose of carrying out the provisions of this section and he, or the Secretary of the Interior where the authority extends to him, may declare forfeit any contract, operating agreement, right-of-way, permit, or easement held by any person violating any such rule or regulation. This section shall not apply to any natural gas common carrier pipeline operated by any person subject to regulation under the Natural Gas Act (15 U.S.C. 717 et seq.) or any public utility subject to regulation by a State or municipal regulatory agency having jurisdiction to regulate the rates and charges for the sale of natural gas to consumers within the State or municipality.
 
 (k)(1) With respect to all or any part of the United States share of petroleum produced from the naval petroleum reserves, the President may direct that the Secretary—
 
@@ -52,7 +52,7 @@
 
 (2) The requirements of section 159 of the Energy Policy and Conservation Act (42 U.S.C. 6239) do not apply to actions taken under this subsection.
 
-(<i>l</i>)(1) Notwithstanding any other provision of this chapter (but subject to paragraph (2)), during any period in which the production of petroleum is authorized from Naval Petroleum Reserves Numbered 1, 2, or 3, the Secretary, at the request of the Secretary of Defense, may provide any portion of the United States share of petroleum so produced to the Department of Defense for its use, exchange, or sale in order to meet petroleum product requirements of the Department of Defense.
+(l)(1) Notwithstanding any other provision of this chapter (but subject to paragraph (2)), during any period in which the production of petroleum is authorized from Naval Petroleum Reserves Numbered 1, 2, or 3, the Secretary, at the request of the Secretary of Defense, may provide any portion of the United States share of petroleum so produced to the Department of Defense for its use, exchange, or sale in order to meet petroleum product requirements of the Department of Defense.
 
 (2) Petroleum may be provided to the Department of Defense under paragraph (1) either directly or by such exchange as the Secretary deems appropriate. Appropriate reimbursement reasonably reflecting the fair market value shall be provided by the Secretary of Defense for petroleum provided under this subsection.
 
@@ -96,7 +96,7 @@ The Clayton Act, referred to in subsec. (i)(2), is act Oct. 15, 1914, ch. 323, 3
 
 The Federal Trade Commission Act, referred to in subsec. (i)(3), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of Title 15. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables.
 
-Sections 73 and 74 of the Wilson Tariff Act, referred to in subsec. (i)(4), are sections 73 and 74 of act Aug. 27,1894, ch. 349, 28 Stat. 570, which enacted sections 8 and 9, respectively, of Title 15.
+Sections 73 and 74 of the Wilson Tariff Act, referred to in subsec. (i)(4), are sections 73 and 74 of act Aug. 27, 1894, ch. 349, 28 Stat. 570, which enacted sections 8 and 9, respectively, of Title 15.
 
 Act of June 19, 1936, referred to in subsec. (i)(5), is act June 19, 1936, ch. 592, 49 Stat. 1526, popularly known as the Robinson-Patman Antidiscrimination Act and also as the Robinson-Patman Price Discrimination Act, which enacted sections 13a, 13b, and 21a of Title 15 and amended section 13 of Title 15. For complete classification of this Act to the Code, see Short Title note set out under section 13 of Title 15 and Tables.
 
@@ -122,7 +122,7 @@ Subsec. (g)(2). Pub. L. 99–413, §1(c), substituted “15 days” for “30 da
 
 Subsec. (g)(2). Pub. L. 98–525, §1405(53)(B), substituted “30 days” for “thirty days” and “30-day” for “thirty day”.
 
-Subsec. (<i>l</i>)(4). Pub. L. 98–525, §1405(53)(C), struck out “of this section” after “subsection (d)” and “subsection (k)”.
+Subsec. (l)(4). Pub. L. 98–525, §1405(53)(C), struck out “of this section” after “subsection (d)” and “subsection (k)”.
 
 <b>1981</b>—Subsec. (e). Pub. L. 97–22 substituted “Export Administration Act of 1979” for “Export Administration Act of 1969” in three places.
 
@@ -140,7 +140,7 @@ Subsec. (j). Pub. L. 96–513, §513(34)(E), inserted “(15 U.S.C. 717 et seq.)
 
 Subsec. (k). Pub. L. 96–294, §804(b), amended subsec. (k) generally, inserting references to the Secretary, provision authorizing the exchange of petroleum under terms and conditions determined appropriate without regard to Federal procurement statutes and regulations, and provision making 42 U.S.C. 6239 inapplicable.
 
-Subsec. (<i>l</i>). Pub. L. 96–294, §804(c), added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 96–294, §804(c), added subsec. (l).
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–258 substituted provisions setting forth requirements for Secretary in administering naval petroleum reserves under this chapter, for provisions setting forth requirements for Secretary of the Navy in administering naval petroleum and oil shale reserves under this chapter.
 

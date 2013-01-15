@@ -4,7 +4,7 @@
 
 (b) If no child of the veteran is in the custody of the surviving spouse, pension shall be paid to the surviving spouse at the annual rate of $7,933, reduced by the amount of the surviving spouse's annual income.
 
-(c) If there is a child of the veteran in the custody of the surviving spouse, pension shall be paid to the surviving spouse at the annual rate of $10,385. If the surviving spouse has custody of two or more such children, the annual pension rate shall be increased by $2,020 for each such child in excess of one. In each case, the rate payable shall be reduced by the amount of the surviving spouse's annual income and, subject tosubsection (g) of this section, the annual income of each such child.
+(c) If there is a child of the veteran in the custody of the surviving spouse, pension shall be paid to the surviving spouse at the annual rate of $10,385. If the surviving spouse has custody of two or more such children, the annual pension rate shall be increased by $2,020 for each such child in excess of one. In each case, the rate payable shall be reduced by the amount of the surviving spouse's annual income and, subject to subsection (g) of this section, the annual income of each such child.
 
 (d)(1) If a surviving spouse who is entitled to pension under subsection (b) of this section is in need of regular aid and attendance, the annual rate of pension payable to such surviving spouse shall be $12,681, reduced by the amount of the surviving spouse's annual income.
 
@@ -58,7 +58,7 @@ Subsec. (h). Pub. L. 102–83, §5(c)(1), substituted “1542” for “542”.
 
 Subsec. (b). Pub. L. 95–588 qualified parental requirement of this subsection by inserting custody provision, substituted a fixed pension amount of $2,379 for a formula for determining such annual pension based upon annual income of the veteran, and struck out minimum and maximum monthly payment requirements.
 
-Subsec. (c). Pub. L. 95–588 qualified parental requirement of this subsection by inserting custody provision, substituted a fixed pension amount of $3,116 for a formula for determining such annual pension based upon annual income of the veteran, and inserted a provision authorizing an annual pension rate increase of $600 for each family member of an eligible veteran in excess of one.
+Subsec. (c). Pub. L. 95–588 qualified parental requirement of this subsection by inserting custody provision, substituted a fixed pension amount of $3,116 for a formula for determining such annual pension based upon annual income of the veteran, and inserted a provision authorizing an annual pension rate increase of $600 foreach family member of an eligible veteran in excess of one.
 
 Subsec. (d). Pub. L. 95–588 substituted provisions prescribing a fixed amount of $3,806, as reduced by an annual income deduction, as the annual rate of pension payable to a surviving spouse entitled to a pension under subsec. (b) of this section and in need of regular aid and attendance and a fixed amount of $4,543, subject to a similar deduction for income of spouse and child, as the annual rate of pension payable to a surviving spouse entitled to a pension under subsec. (c) of this section and in need of such aid for provision prescribing the monthly rate of pension payable under subsec. (c) of this section where there is a surviving spouse and more than one child.
 
@@ -126,7 +126,7 @@ Subsec. (d). Pub. L. 92–198, §1(e), substituted “$17” for “$16”.
 
 Subsec. (a). Pub. L. 91–588, §9(d)(1), inserted reference to Mexican border period.
 
-Subsec. (b). Pub. L. 91–588, §1(c), provided new annual income limits to measure monthly pension rates of widow without child by inserting minimum income limits of $2,000, $2,100, and $2,200 with maximum limits of $2,100, $2,200, and $2,300 for monthly benefits of $29, $23, and $17, respectively, and within existing annual income limits from a maximum of $300 to a maximum of $2,000, as well as the in-between limits set out in one-hundred dollar increments, the applicable monthly benefit for each limit was amended, respectively, by substituting in column II “$81” for “$74”, “80” for “73”, “79” for “72”, “78” for “70”, “76” for “67”, “73” for “64”, “70” for “61”, “67” for “58”, “64” for “55”, “61” for “51”, “58” for “48”, “55” for “45”, “51” for “41”, “48” for “37”, “45” for “33”, “41” for “29”, “37” for “23”, and “33” for “17”.
+Subsec. (b). Pub. L. 91–588, §1(c), provided new annual income limits to measure monthly pension rates of widow without child by inserting minimum income limits of $2,000, $2,100, and $2,200 with maximum limits of $2,100, $2,200, and $2,300 for monthly benefits of $29, $23, and $17, respectively, and within existing annual income limits from a maximum of $300 to a maximumof $2,000, as well as the in-between limits set out in one-hundred dollar increments, the applicable monthly benefit for each limit was amended, respectively, by substituting in column II “$81” for “$74”, “80” for “73”, “79” for “72”, “78” for “70”, “76” for “67”, “73” for “64”, “70” for “61”, “67” for “58”, “64” for “55”, “61” for “51”, “58” for “48”, “55” for “45”, “51” for “41”, “48” for “37”, “45” for “33”, “41” for “29”, “37” for “23”, and “33” for “17”.
 
 Subsec. (c). Pub. L. 91–588, §1(d), provided new annual income limits to measure monthly pension rates of widow with one child by inserting minimum income limits of $3,200, $3,300, and $3,400 with maximum limits of $3,300, $3,400, and $3,500 for monthly benefits of $45, $43, and $41, respectively, and within existing annual income limits from a maximum of $600 to a maximum of $3,200, as well as the in-between limits set out in one-hundred dollar increments, the applicable monthly benefit for each limit was amended, respectively, by substituting in column II “$99” for “$90”, “98” for “89”, “97” for “88”, “96” for “87”, “95” for “86”, “94” for “85”, “92” for “83”, “90” for “81”, “88” for “79”, “86” for “77”, “84” for “75”, “82” for “73”, “80” for “71”, “78” for “69”, “76” for “67”, “74” for “65”, “72” for “63”, “70” for “61”, “68” for “59”, “66” for “57”, “64” for “55”, “62” for “53”, “59” for “51”, “56” for “48”, “53” for “45”, “51” for “43”, and “48” for “41”.
 
@@ -178,9 +178,9 @@ Amendment by Pub. L. 94–432 effective Jan. 1, 1977, see section 405(b) of Pub.
 
 #### Effective Date of 1975 Amendment
 
-Sections 101 and 106 of Pub. L. 94–169 provided that the amendments made by those sections are effective Jan. 1, 1976.
+Pub. L. 94–169, title I, §§101, 106, Dec. 23, 1975, 89 Stat. 1013, 1017, provided that the amendments made by those sections are effective Jan. 1, 1976.
 
-Section 103 of Pub. L. 94–169, as amended by section 101 of Pub. L. 94–432, eff. Sept. 30, 1976, provided that the amendment made by that section is effective Jan. 1, 1976.
+Pub. L. 94–169, title I, §103, Dec. 23, 1975, 89 Stat. 1016, as amended by Pub. L. 94–432, title I, §101, Sept. 30, 1976, 90 Stat. 1369, eff. Sept. 30, 1976, provided that the amendment made by that section is effective Jan. 1, 1976.
 
 #### Effective Date of 1974 Amendment
 

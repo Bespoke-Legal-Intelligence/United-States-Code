@@ -10,7 +10,7 @@ The Secretary, in consultation with the Director of NIH, may establish a pediatr
 
 #### (b) Application of other provisions
 
-The provisions of sections 254<i>l</i>–1, 254m, and 254<i>o</i> of this title shall, except as inconsistent with paragraph (1), apply to the program established under such paragraph to the same extent and in the same manner as such provisions apply to the National Health Service Corps Loan Repayment Program established under subpart III of part D of subchapter II of this chapter.
+The provisions of sections 254l–1, 254m, and 254o of this title shall, except as inconsistent with paragraph (1), apply to the program established under such paragraph to the same extent and in the same manner as such provisions apply to the National Health Service Corps Loan Repayment Program established under subpart III of part D of subchapter II of this chapter.
 
 #### (c) Funding
 
@@ -20,7 +20,7 @@ The provisions of sections 254<i>l</i>–1, 254m, and 254<i>o</i> of this title 
 
 #### (2) Availability of funds
 
-&emsp;Amounts made available to carry out this section shall remain available until the expiration of the second fiscal year beginning afterthe fiscal year for which such amounts were made available.
+&emsp;Amounts made available to carry out this section shall remain available until the expiration of the second fiscal year beginning after the fiscal year for which such amounts were made available.
 
 (July 1, 1944, ch. 373, title IV, §487F, as added Pub. L. 106–310, div. A, title X, §1002(b), Oct. 17, 2000, 114 Stat. 1129; amended Pub. L. 110–85, title V, §503(b), Sept. 27, 2007, 121 Stat. 890.)
 

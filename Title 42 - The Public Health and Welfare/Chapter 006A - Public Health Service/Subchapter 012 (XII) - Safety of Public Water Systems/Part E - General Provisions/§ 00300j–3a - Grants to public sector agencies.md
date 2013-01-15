@@ -34,5 +34,5 @@ Section was enacted as part of the Environmental Research, Development, and Demo
 
 #### Effective Date of 1978 Amendment
 
-Section 7(a)(2) of Pub. L. 95–477 provided that: “This subsection \[amending this section\] shall become effective October 1, 1978.”
+Pub. L. 95–477, §7(a)(2), Oct. 18, 1978, 92 Stat. 1511, provided that: “This subsection \[amending this section\] shall become effective October 1, 1978.”
 

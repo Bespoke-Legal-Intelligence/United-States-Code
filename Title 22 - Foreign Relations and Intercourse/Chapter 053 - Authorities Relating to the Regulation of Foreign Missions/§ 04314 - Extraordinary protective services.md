@@ -44,7 +44,7 @@ Pub. L. 109–177, §605(d)(3), which directed amendment of section 214(a) of th
 
 #### Effective Date
 
-Section 126(e) of Pub. L. 99–93 provided that: “The amendments made by this section \[enacting this section and amending section 4304 of this title and section 208 of Title 3, The President\] shall take effect on October 1, 1985.”
+Pub. L. 99–93, title I, §126(e), Aug. 16, 1985, 99 Stat. 418, provided that: “The amendments made by this section \[enacting this section and amending section 4304 of this title and section 208 of Title 3, The President\] shall take effect on October 1, 1985.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “enforcement”.</i>
 

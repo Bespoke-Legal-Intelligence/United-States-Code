@@ -4,5 +4,5 @@ Section, act Aug. 14, 1935, ch. 531, title XI, §1171, as added Oct. 25, 1977, P
 
 #### Effective Date of Repeal
 
-Repeal applicable to agreements with Professional Standards Review Organizations entered into on or after Oct. 1, 1981, see section 2113(<i>o</i>) of Pub. L. 97–35, set out as an Effective Date of 1981 Amendment note under section 1396a of this title.
+Repeal applicable to agreements with Professional Standards Review Organizations entered into on or after Oct. 1, 1981, see section 2113(o) of Pub. L. 97–35, set out as an Effective Date of 1981 Amendment note under section 1396a of this title.
 

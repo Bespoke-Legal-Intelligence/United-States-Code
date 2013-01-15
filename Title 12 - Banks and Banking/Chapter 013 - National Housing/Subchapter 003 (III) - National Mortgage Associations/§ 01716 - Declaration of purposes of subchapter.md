@@ -78,7 +78,7 @@ Subsec. (c)(4). Act June 3, 1939, inserted “Alaska, Hawaii or Puerto Rico”.
 
 <b>1938</b>—Subsec. (a). Act Feb. 3, 1938, amended provisions generally, and among other changes, substituted “60 per centum” in subsec. (a)(3), for “80 per centum”.
 
-Subsec. (d). Act Feb. 3, 1938, substituted “$2,000,000” for “$5,000,000,” and “that at least 25 per centum thereof has been paid in cash,” for “paid in full in cash”, and inserted “or in first mortgages or such other first liens as are described in section 301 (a) hereof, which mortgages or liens shall be taken at such value as the Administrator may determine, not exceeding (except as to mortgages insured under title II of this Act) 60 per centum of the appraised value of the property as of the date of subscription, and that the remainder of the subscription to such capital stock is payable in the same manner and at such time as may be determined by the Administrator: <i>Provided</i>, That no association shallissue notes, bonds, debentures, or other such obligations until such time as such subscriptions are paid in full in cash or Government securities at their par value or in mortgages or other liens as hereinbefore set forth”.
+Subsec. (d). Act Feb. 3, 1938, substituted “$2,000,000” for “$5,000,000,” and “that at least 25 per centum thereof has been paid in cash,” for “paid in full in cash”, and inserted “or in first mortgages or such other first liens as are described in section 301 (a) hereof, which mortgages or liens shall be taken at such value as the Administrator may determine, not exceeding (except as to mortgages insured under title II of this Act) 60 per centum of the appraised value of the property as of the date of subscription, and that the remainder of the subscription to such capital stock is payable in the same manner and at such time as may be determined by the Administrator: <i>Provided</i>, That no association shall issue notes, bonds, debentures, or other such obligations until such time as such subscriptions are paid in full in cash or Government securities at their par value or in mortgages or other liens as hereinbefore set forth”.
 
 <b>1935</b>—Subsec. (d). Act May 28, 1935, substituted “$5,000,000” for “$2,000,000”.
 
@@ -88,11 +88,7 @@ For effective date of amendment by title VIII of Pub. L. 90–448, see section 8
 
 #### Effective Date of 1949 Amendment
 
-Section 7 of Joint Res. Oct. 25, 1949, provided in part: “That the amendment made by this section 7 with respect to mortgages guaranteed under section 501 of the Servicemen's Readjustment Act of 1944, as amended \[this section\], shall apply only to such mortgages guaranteed after the date of enactment of this Act \[Oct. 25, 1949\].”
-
-#### Short Title
-
-Section 312 of title III of act June 27, 1934, as added Aug. 2, 1954, ch. 649, §201, 68 Stat. 622, provided: “This title III \[this subchapter\] may be referred to as the ‘Federal National Mortgage Association Charter Act’.”
+Joint Res. Oct. 25, 1949, ch. 729, §7, 63 Stat. 906, provided in part: “That the amendment made by this section 7 with respect to mortgages guaranteed under section 501 of the Servicemen's Readjustment Act of 1944, as amended \[this section\], shall apply only to such mortgages guaranteed after the date of enactment of this Act \[Oct. 25, 1949\].”
 
 #### Delegation of Functions
 
@@ -100,5 +96,5 @@ Functions of President under this section delegated to Secretary of Housing and 
 
 #### Service or Sale of Mortgages Purchased Prior to July 1, 1948; Fulfillment of Prior Commitments
 
-Section 2 of act July 1, 1948, provided that: “Nothing in the amendment made by the first section of this Act \[amending sections 1716, 1717 to 1721 of this title\] shall limit the authority of the Federal National Mortgage Association to service or sell any mortgage purchased prior to the date of the enactment of this Act \[July 1, 1948\], or to purchase, service, or sell any mortgage with respect to which a commitment to purchase was made prior to the date of the enactment of this Act \[July 1, 1948\].”
+Act July 1, 1948, ch. 784, §2, 62 Stat. 1209, provided that: “Nothing in the amendment made by the first section of this Act \[amending sections 1716, 1717 to 1721 of this title\] shall limit the authority of the Federal National Mortgage Association to service or sell any mortgage purchased prior to the date of the enactment of this Act \[July 1, 1948\], or to purchase, service, or sell any mortgage with respect to which a commitment to purchase was made prior to the date of the enactment of this Act \[July 1, 1948\].”
 

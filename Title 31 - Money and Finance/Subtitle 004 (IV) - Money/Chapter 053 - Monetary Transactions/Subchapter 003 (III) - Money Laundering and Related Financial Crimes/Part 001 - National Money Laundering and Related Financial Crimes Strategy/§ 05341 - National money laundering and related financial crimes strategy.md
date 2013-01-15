@@ -26,7 +26,7 @@ Goals, objectives, and priorities.—Comprehensive, research-based goals, object
 
 &emsp;(2)
 
-Prevention.—Coordination of regulatory and other efforts to prevent the exploitationof financial systems in the United States for money laundering and related financial crimes, including a requirement that the Secretary shall—
+Prevention.—Coordination of regulatory and other efforts to prevent the exploitation of financial systems in the United States for money laundering and related financial crimes, including a requirement that the Secretary shall—
 
 &emsp;&emsp;(A) regularly review enforcement efforts under this subchapter and other provisions of law and, when appropriate, modify existing regulations or prescribe new regulations for purposes of preventing such criminal activity; and
 
@@ -38,7 +38,7 @@ Detection and prosecution initiatives.—A description of operational initiative
 
 &emsp;(4)
 
-Enhancement of the role of the private financial sector in prevention.—The enhancement of partnerships between the private financial sector and law enforcement agencies with regard to the prevention and detection of money laundering and related financial crimes, including providing incentives to strengthen internal controls and to adopt on an industrywide basis more effective policies.
+Enhancement of the role of the private financial sector in prevention.—Theenhancement of partnerships between the private financial sector and law enforcement agencies with regard to the prevention and detection of money laundering and related financial crimes, including providing incentives to strengthen internal controls and to adopt on an industrywide basis more effective policies.
 
 &emsp;(5)
 

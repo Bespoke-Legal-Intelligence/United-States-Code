@@ -1,6 +1,6 @@
 ### §3101. Public debt limit
 
-(a) In this section, the current redemption value of an obligation issued on a discount basis and redeemable before maturity at the option of its holder is deemed to be the face amount of the obligation.
+(a) In this section, the current redemption value of an obligation issued on a discount basisand redeemable before maturity at the option of its holder is deemed to be the face amount of the obligation.
 
 (b) The face amount of obligations issued under this chapter and the face amount of obligations whose principal and interest are guaranteed by the United States Government (except guaranteed obligations held by the Secretary of the Treasury) may not be more than $14,294,000,000,000, outstanding at one time, subject to changes periodically made in that amount as provided by law through the congressional budget process described in Rule XLIX <sup>1</sup> of the Rules of the House of Representatives or as provided by section 3101A or otherwise.
 
@@ -112,7 +112,7 @@ The public debt limit set forth in this section was temporarily increased for li
 
 Oct. 28, 1990, Pub. L. 101–467, §106, 104 Stat. 1087—Increase to $3,230,000,000,000 for the period Oct. 28, 1990, to Nov. 5, 1990.
 
-Aug. 9, 1990, Pub. L. 101–350, §1, 104 Stat. 403, as amended Oct. 2, 1990, Pub. L. 101–405, §1, 104 Stat. 878; Oct. 9, 1990, Pub. L. 101–412, §114, 104 Stat. 897; Oct. 19, 1990, Pub. L. 101–444, §114, 104 Stat. 1033; Oct. 25, 1990,Pub. L. 101–461, §114, 104 Stat. 1078—Increase to $3,195,000,000,000 for the period Aug. 9, 1990, to Oct. 27, 1990.
+Aug. 9, 1990, Pub. L. 101–350, §1, 104 Stat. 403, as amended Oct. 2, 1990, Pub. L. 101–405, §1, 104 Stat. 878; Oct. 9, 1990, Pub. L. 101–412, §114, 104 Stat. 897; Oct. 19, 1990, Pub. L. 101–444, §114, 104 Stat. 1033; Oct. 25, 1990, Pub. L. 101–461, §114, 104 Stat. 1078—Increase to $3,195,000,000,000 for the period Aug. 9, 1990, to Oct. 27, 1990.
 
 Aug. 7, 1989, Pub. L. 101–72, §1, 103 Stat. 182—Increase of $70,000,000,000 for the period Aug. 7, 1989, to Oct. 31, 1989.
 

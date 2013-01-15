@@ -14,7 +14,7 @@ In coordination with the National Constitution Center, the Secretary shall devel
 
 #### (d) Cooperative agreements
 
-The Secretary may enter into cooperative agreements with the owners or administrators of historic sites closely associated with the Constitution, pursuant to which the Secretary may provide technical assistance in the preservation and interpretation of such sites.
+The Secretary may enter into cooperative agreements with the owners or administratorsof historic sites closely associated with the Constitution, pursuant to which the Secretary may provide technical assistance in the preservation and interpretation of such sites.
 
 #### (e) Research and education
 

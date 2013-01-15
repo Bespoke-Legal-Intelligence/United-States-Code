@@ -14,7 +14,7 @@ The Congress finds that the Youth Conservation Corps has demonstrated a high deg
 
 #### Effective Date of 1993 Amendment
 
-Section 123 of title I of Pub. L. 103–82 provided that: “This title \[see Tables for classification\], and the amendments made by this title, shall take effect on October 1, 1993.”
+Pub. L. 103–82, title I, §123, Sept. 21, 1993, 107 Stat. 867, provided that: “This title \[see Tables for classification\], and the amendments made by this title, shall take effect on October 1, 1993.”
 
 #### Short Title of 2005 Amendment
 
@@ -22,7 +22,7 @@ Pub. L. 109–154, §1, Dec. 30, 2005, 119 Stat. 2890, provided that: “This Ac
 
 #### Short Title
 
-Title I of Pub. L. 91–378, Aug. 13, 1970, 84 Stat. 794, which enacted this subchapter, is popularly known as the “Youth Conservation Corps Act of 1970”.
+Pub. L. 91–378, title I, Aug. 13, 1970, 84 Stat. 794, which enacted this subchapter, is popularly known as the “Youth Conservation Corps Act of 1970”.
 
-Section 201 of title II of Pub. L. 91–378, as added by Pub. L. 103–82, title I, §105(6), Sept. 21, 1993, 107 Stat. 848, provided that: “This title \[enacting subchapter II of this chapter\] may be cited as the ‘Public Lands Corps Act of 1993’.”
+Pub. L. 91–378, title II, §201, as added by Pub. L. 103–82, title I, §105(6), Sept. 21, 1993, 107 Stat. 848, provided that: “This title \[enacting subchapter II of this chapter\] may be cited as the ‘Public Lands Corps Act of 1993’.”
 

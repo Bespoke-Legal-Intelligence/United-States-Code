@@ -28,5 +28,5 @@ Minor changes in phraseology were made.
 
 Pub. L. 99–145, title IX, §931(a), Nov. 8, 1985, 99 Stat. 699, provided that: “Notwithstanding sections 287 and 3623 of title 18, United States Code, the maximum fine that may be imposed under such section for making or presenting any claim upon or against the United States related to a contract with the Department of Defense, knowing such claim to be false, fictitious, or fraudulent, is $1,000,000.”
 
-\[Section 931(c) of Pub. L. 99–145 provided that section 931(a) is applicable to claims made or presented on or after Nov. 8, 1985.\]
+\[Pub. L. 99–145, title IX, §931(c), Nov. 8, 1985, 99 Stat. 699, provided that section 931(a) is applicable to claims made or presented on or after Nov. 8, 1985.\]
 

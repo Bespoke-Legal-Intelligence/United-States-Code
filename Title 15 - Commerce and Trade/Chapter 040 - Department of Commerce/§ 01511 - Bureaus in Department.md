@@ -14,7 +14,7 @@ The following named bureaus, administrations, services, offices, and programs of
 
 &emsp;(6) such other bureaus or other organizational units as the Secretary of Commerce may from time to time establish in accordance with law.
 
-(Feb. 14, 1903, ch. 552, §§4, 12, 32 Stat. 826, 830; June 17, 1910, ch. 301, §4, 36 Stat. 537; Aug. 23, 1912, ch. 350, §1, 37 Stat. 407; Mar. 4, 1913, ch. 141, §3, 37 Stat. 737; Jan. 5, 1923, ch. 23, §1, 42 Stat. 1109; June 30, 1932, ch. 314, §501, 47 Stat. 415; Feb. 22, 1934, Ex. Ord. 6611; May 27, 1936, ch. 463, §1, 49 Stat. 1380; 1939 Reorg. Plan No. II, §§2(a), 4(e), 6, eff. July 1, 1936, 4 F.R. 2731, 53 Stat. 1432; 1940 Reorg. Plan No. IV, §§7, 8, eff. June 30, 1940, 5 F.R. 2422, 54 Stat. 1235, 1236; 1946 Reorg. Plan No. 3, §§101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097; June 30, 1949, ch. 288, title I, §103(a), 63 Stat. 380; Aug. 4, 1949, ch. 393, §20, 63 Stat. 561; 1949 Reorg. Plan No. 7, §1, eff. Aug. 19, 1949, 14 F.R. 5228, 63 Stat. 1070; 1950 Reorg. Plan No. 21, §§101, 106, 201, 15 F.R. 3178, 64 Stat. 1273; Pub. L. 93–498, §23, Oct. 29, 1974, 88 Stat. 1549; Pub. L. 93–596, §3, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 95–422, §2(c), Oct. 5, 1978, 92 Stat. 932; Pub. L. 97–31, §12(6), Aug. 6, 1981, 95 Stat. 154; Pub. L. 97–63, §4(a)(1), Oct. 16, 1981, 95 Stat. 1014; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(6)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 106–503, title I, §110(b), Nov. 13, 2000, 114 Stat. 2302.)
+(Feb. 14, 1903, ch. 552, §§4, 12, 32 Stat. 826, 830; June 17, 1910, ch. 301, §4, 36 Stat. 537; Aug. 23, 1912, ch. 350, §1, 37 Stat. 407; Mar. 4, 1913, ch. 141, §3, 37 Stat. 737; Jan. 5, 1923, ch. 23, §1, 42 Stat. 1109; June 30, 1932, ch. 314, pt. II, title V, §501, 47 Stat. 415; Feb. 22, 1934, Ex. Ord. 6611; May 27, 1936, ch. 463, §1, 49 Stat. 1380; 1939 Reorg. Plan No. II, §§2(a), 4(e), 6, eff. July 1, 1936, 4 F.R. 2731, 53 Stat. 1432; 1940 Reorg. Plan No. IV, §§7, 8, eff. June 30, 1940, 5 F.R. 2422, 54 Stat. 1235, 1236; 1946 Reorg. Plan No. 3, §§101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097; June 30, 1949, ch. 288, title I, §103(a), 63 Stat. 380; Aug. 4, 1949, ch. 393, §20, 63 Stat. 561; 1949 Reorg. Plan No. 7, §1, eff. Aug. 19, 1949, 14 F.R. 5228, 63 Stat. 1070; 1950 Reorg. Plan No. 21, §§101, 106, 201, 15 F.R. 3178, 64 Stat. 1273; Pub. L. 93–498, §23, Oct. 29, 1974, 88 Stat. 1549; Pub. L. 93–596, §3, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 95–422, §2(c), Oct. 5, 1978, 92 Stat. 932; Pub. L. 97–31, §12(6), Aug. 6, 1981, 95 Stat. 154; Pub. L. 97–63, §4(a)(1), Oct. 16, 1981, 95 Stat. 1014; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(6)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 106–503, title I, §110(b), Nov. 13, 2000, 114 Stat. 2302.)
 
 #### Codification
 
@@ -36,7 +36,7 @@ Section was formerly classified to section 597 of Title 5 prior to the general r
 
 #### Change of Name
 
-“United States Travel and Tourism Administration” substituted for “United States Travel Service” in par.\(b), pursuant to section 4(a)(1) of Pub. L. 97–63, which established United States Travel and Tourism Administration in place of United States Travel Service, effective Oct. 1, 1981. See section 2124 of Title 22, Foreign Relations and Intercourse.
+“United States Travel and Tourism Administration” substituted for “United States Travel Service” in par. (b), pursuant to section 4(a)(1) of Pub. L. 97–63, which established United States Travel and Tourism Administration in place of United States Travel Service, effective Oct. 1, 1981. See section 2124 of Title 22, Foreign Relations and Intercourse.
 
 “Patent and Trademark Office” substituted for “Patent Office”, in par. (d) \[now par. (4)\] pursuant to section 3 of Pub. L. 93–596, set out as a note under section 1 of Title 35, Patents.
 
@@ -50,7 +50,7 @@ Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see secti
 
 Act June 17, 1910, ch. 301, §4, 36 Stat. 537, cited as a credit to this section, was repealed by act Aug. 4, 1949, ch. 393, §20, 63 Stat. 561.
 
-Act June 30, 1932, ch. 314, §501, 47 Stat. 415, cited as a credit to this section, was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 648 and Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, 1074.
+Act June 30, 1932, ch. 314, pt. II, title V, §501, 47 Stat. 415, cited as a credit to this section, was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 648 and Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, 1074.
 
 Act May 27, 1936, ch. 463, §1, 49 Stat. 1380, cited as a credit to this section, was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 649.
 
@@ -106,7 +106,7 @@ Functions, powers, and duties of Office of Audits and Investigations and Inspect
 
 #### <b>REORGANIZATION PLAN NO. 4 OF 1970</b>
 
-#### Eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, as amended Pub. L. 94–461, §4(c)(1), Oct. 8, 1976, 90 Stat. 1969; Pub. L. 95–219, §3(a)(1), Dec. 28, 1977, 91 Stat. 1613; Pub. L. 98–498, title III, §320(c)(3), Oct. 19, 1984, 98 Stat. 2309; Pub. L. 99–659, title IV, §407(d), Nov. 14, 1986, 100 Stat. 3739
+#### Eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, as amended Pub. L. 94–461, §4(c)(1), Oct. 8, 1976, 90 Stat. 1969; Pub. L. 95–219, §3(a)(1), Dec. 28, 1977, 91 Stat. 1613; Pub. L. 98–498, title III, §320(c)(3), Oct. 19, 1984, 98 Stat. 2309; Pub. L. 99–659, title IV, §407(d), Nov. 14, 1986, 100 Stat. 3739; Pub. L. 112–166, §2(b)(1), Aug. 10, 2012, 126 Stat. 1283
 
 Prepared by the President and transmitted to the Senate and the House of Representatives in Congress assembled, July 9, 1970, pursuant to the provisions of Chapter 9 of Title 5 of the United States Code.
 
@@ -136,7 +136,7 @@ The following are hereby transferred to the Secretary of Commerce:
 
 (c) There shall be in the Administration a Deputy Administrator of the National Oceanic and Atmospheric Administration who shall be appointed by the President, by and with the advice and consent of the Senate, and shall be compensated at the rate now or hereafter provided for Level IV of the Executive Schedule Pay Rates (5 U.S.C. 5315). The Deputy Administrator shall perform such functions as the Administrator shall from time to time assign or delegate, and shall act as Administrator during the absence or disability of the Administrator or in the event of a vacancy in the office of Administrator.
 
-(d) There shall be in the Administration a Chief Scientist of the National Oceanic and Atmospheric Administration who shall be appointed by the President, by and with the advice and consent of the Senate, and shall be compensated at the rate now or hereafter provided for Level V of the Executive Schedule Pay Rates (5 U.S.C. 5316). The Chief Scientist shall be the principal scientific adviser to the Administrator, and shall perform such other duties as the Administrator may direct. The Chief Scientist shall be an individual who is, by reason of scientific education and experience, knowledgeable in the principles of oceanic, atmospheric, or other scientific disciplines important to the work of the Administration. \[As amended Pub. L. 94–461, §4(c)(1), Oct. 8, 1976, 90 Stat. 1969; Pub. L. 99–659, title IV, §407(d), Nov. 14, 1986, 100 Stat. 3739.\]
+(d) There shall be in the Administration a Chief Scientist of the National Oceanic and Atmospheric Administration who shall be appointed by the President and shall be compensated at the rate now or hereafter provided for Level V of the Executive Schedule Pay Rates (5 U.S.C. 5316). The Chief Scientist shall be the principal scientific adviser to the Administrator, and shall perform such other duties as the Administrator may direct. The Chief Scientist shall be an individual who is, by reason of scientific education and experience, knowledgeable in the principles of oceanic, atmospheric, or other scientific disciplines important to the work of the Administration. \[As amended Pub. L. 94–461, §4(c)(1), Oct. 8, 1976, 90 Stat. 1969; Pub. L. 99–659, title IV, §407(d), Nov. 14, 1986, 100 Stat. 3739; Pub. L. 112–166, §2(b)(1), Aug. 10, 2012, 126 Stat. 1283.\]
 
 (e)(1) There shall be in the Administration a General Counsel and five Assistant Administrators, one of whom shall be the Assistant Administrator for Coastal Zone Management and one of whom shall be the Assistant Administrator for Fisheries. The General Counsel and each Assistant Administrator shall be appointed by the Secretary, subject to approval of the President, and shall be compensated at a rate now or hereafter provided for level V of the Executive Schedule Pay Rates (5 U.S.C. 5316).
 
@@ -156,7 +156,7 @@ The provisions of sections 2 and 4 of Reorganization Plan No. 5 of 1950 (64 Stat
 
 #### Sec. 4. Incidental Transfers
 
-(a) So much of the personnel, property, records, and unexpended balances of appropriations, allocations, and other funds employed, used, held, available, or to be made available in connection with the functions transferred to the Secretary of Commerce by this reorganization plan as the Director of the Office of Management and Budget shall determine shall be transferred to the Department of Commerce at such time or times as the Director shall direct.
+(a) So much of the personnel, property, records, and unexpended balances of appropriations, allocations, and other funds employed, used, held, available, or to be made available in connection with the functions transferred to the Secretary of Commerce by this reorganization plan as the Director of the Office of Management and Budget shall determine shall be transferredto the Department of Commerce at such time or times as the Director shall direct.
 
 (b) Such further measures and dispositions as the Director of the Office of Management and Budget shall deem to be necessary in order to effectuate the transfers referred to in subsection (a) of this section shall be carried out in such manner as he shall direct and by such agencies as he shall designate.
 

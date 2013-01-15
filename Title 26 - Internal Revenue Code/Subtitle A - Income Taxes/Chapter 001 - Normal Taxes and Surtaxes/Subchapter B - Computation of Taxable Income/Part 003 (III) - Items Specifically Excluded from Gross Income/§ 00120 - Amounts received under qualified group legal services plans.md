@@ -50,7 +50,7 @@ For purposes of this section—
 
 #### (3) Allocations
 
-&emsp;Allocations of amounts contributed under the plan shall be made in accordance with regulations prescribed by the Secretary and shall take into account the expected relative utilization of benefits to be provided from such contributions or plan assets and the manner in which any premium or other charge was developed.
+&emsp;Allocations of amounts contributed under the plan shall be made in accordance with regulations prescribed by the Secretary and shall take into account the expected relative utilization of benefits to be provided from suchcontributions or plan assets and the manner in which any premium or other charge was developed.
 
 #### (4) Dependent
 
@@ -66,7 +66,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) ownership of stock in a corporation shall be determined in accordance with the rules provided under subsections (d) and (e) of section 1563 (without regard to section 1563(e)(3)(C)), and
 
-&emsp;&emsp;(B) the interest of an employee in a trade or business which is not incorporated shallbe determined in accordance with regulations prescribed by the Secretary, which shall be based on principles similar to the principles which apply in the case of subparagraph (A).
+&emsp;&emsp;(B) the interest of an employee in a trade or business which is not incorporated shall be determined in accordance with regulations prescribed by the Secretary, which shall be based on principles similar to the principles which apply in the case of subparagraph (A).
 
 #### (7) Time of notice to Secretary
 
@@ -132,15 +132,15 @@ Amendment by Pub. L. 108–311 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 1991 Amendment
 
-Section 104(b) of Pub. L. 102–227 provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1991.”
+Pub. L. 102–227, title I, §104(b), Dec. 11, 1991, 105 Stat. 1687, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1991.”
 
 #### Effective Date of 1990 Amendment
 
-Section 11404(c) of Pub. L. 101–508 provided that: “The amendments made by this section \[amending this section and repealing provisions set out below\] shall apply to taxable years beginning after December 31, 1989.”
+Pub. L. 101–508, title XI, §11404(c), Nov. 5, 1990, 104 Stat. 1388–473, provided that: “The amendments made by this section \[amending this section and repealing provisions set out below\] shall apply to taxable years beginning after December 31, 1989.”
 
-#### Effective Date of 1989 Amendments
+#### Effective Date of 1989 Amendment
 
-Section 7102(b) of Pub. L. 101–239 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years ending after December 31, 1988.”
+Pub. L. 101–239, title VII, §7102(b), Dec. 19, 1989, 103 Stat. 2305, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years ending after December 31, 1988.”
 
 Amendment by Pub. L. 101–140 effective as if included in section 1151 of Pub. L. 99–514, see section 203(c) of Pub. L. 101–140, set out as a note under section 79 of this title.
 
@@ -148,7 +148,7 @@ Amendment by Pub. L. 101–140 effective as if included in section 1151 of Pub. 
 
 Amendment by section 1011B(a)(31)(B) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Section 4002(c) of Pub. L. 100–647 provided that: “The amendments made by this section \[amending this section and section 125 of this title\] shall apply to taxable years ending after December 31, 1987.”
+Pub. L. 100–647, title IV, §4002(c), Nov. 10, 1988, 102 Stat. 3643, provided that: “The amendments made by this section \[amending this section and section 125 of this title\] shall apply to taxable years ending after December 31, 1987.”
 
 #### Effective Date of 1986 Amendment
 
@@ -156,7 +156,7 @@ Amendment by section 1114(b)(3) of Pub. L. 99–514 applicable to years beginnin
 
 Amendment by section 1151(c)(3), (g)(1) of Pub. L. 99–514 applicable, with certain qualifications and exceptions, to years beginning after Dec. 31, 1988, see section 1151(k) of Pub. L. 99–514, as amended, set out as a note under section 79 of this title.
 
-Section 1162(c) of Pub. L. 99–514 provided that:
+Pub. L. 99–514, title XI, §1162(c), Oct. 22, 1986, 100 Stat. 2510, provided that:
 
 “(1)
 
@@ -172,7 +172,7 @@ Cafeteria plan with group legal benefits.—If, within 60 days after the date of
 
 #### Effective Date of 1984 Amendment
 
-Section 1(d)(1) of Pub. L. 98–612 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years ending after December 31, 1984.”
+Pub. L. 98–612, §1(d)(1), Oct. 31, 1984, 98 Stat. 3181, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years ending after December 31, 1984.”
 
 Amendment by section 1(b)(3)(A) of Pub. L. 98–612 effective Jan. 1, 1985, see section 1(d)(2) of Pub. L. 98–612.
 
@@ -182,7 +182,7 @@ Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it 
 
 #### Effective Date
 
-Section 2134(e) of Pub. L. 94–455, as amended by Pub. L. 95–600, title VII, §703(b)(1), Nov. 6, 1978, 92 Stat. 2939; Pub. L. 97–34, title VIII, §802(b), Aug. 13, 1981, 95 Stat. 349; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 94–455, title XXI, §2134(e), Oct. 4, 1976, 90 Stat. 1928, as amended by Pub. L. 95–600, title VII, §703(b)(1), Nov. 6, 1978, 92 Stat. 2939; Pub. L. 97–34, title VIII, §802(b), Aug. 13, 1981, 95 Stat. 349; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 &emsp;“(1)
 
@@ -212,11 +212,11 @@ Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final re
 
 #### Extension of Employer-Provided Group Legal Services
 
-Section 104(a)(2) of Pub. L. 102–227 provided that: “In the case of any taxable year beginning in 1992, only amounts paid before July 1, 1992, by the employer for coverage for the employee, his spouse, or his dependents, under a qualified group legal services plan for periods before July 1, 1992, shall be taken into account in determining the amount excluded under section 120 of the Internal Revenue Code of 1986 with respect to such employee for such taxable year.”
+Pub. L. 102–227, title I, §104(a)(2), Dec. 11, 1991, 105 Stat. 1687, provided that: “In the case of any taxable year beginning in 1992, only amounts paid before July 1, 1992, by the employer for coverage for the employee, his spouse, or his dependents, under a qualified group legal services plan for periods before July 1, 1992, shall be taken into account in determining the amount excluded under section 120 of the Internal Revenue Code of 1986 with respect to such employee for such taxable year.”
 
 #### Special Rule for Taxable Years Beginning in 1990
 
-Section 7102(a)(2) of Pub. L. 101–239 provided that in the case of any taxable year beginning in 1990, only amounts paid before October 1, 1990, by the employer for coverage for the employee, his spouse, or his dependents under a qualified group legal services plan for periods before October 1, 1990, would be taken into account in determining the amount excluded under this section with respect to such employee for such taxable year, prior to repeal by Pub. L. 101–508, title XI, §11404(b), Nov. 5, 1990, 104 Stat. 1388–473.
+Pub. L. 101–239, title VII, §7102(a)(2), Dec. 19, 1989, 103 Stat. 2305, provided that in the case of any taxable year beginning in 1990, only amounts paid before October 1, 1990, by the employer for coverage for the employee, his spouse, or his dependents under a qualified group legal services plan for periods before October 1, 1990, would be taken into account in determining the amount excluded under this section with respect to such employee for such taxable year, prior to repeal by Pub. L. 101–508, title XI, §11404(b), Nov. 5, 1990, 104 Stat. 1388–473.
 
 #### Nonenforcement of Amendment Made by Section 1151 of Pub. L. 99–514 for Fiscal Year 1990
 
@@ -228,5 +228,5 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Study and Report
 
-Section 2134(d) of Pub. L. 94–455 provided that a complete study and investigation with respect to the desirability and feasibility of continuing the exclusion from income of certain prepaid group legal services benefits under section 120 of the Internal Revenue Code of 1954 be made by the Secretary of Labor and the Secretary of the Treasury, with a report to the President and the Congress not later than Dec. 31, 1980.
+Pub. L. 94–455, title XXI, §2134(d), Oct. 4, 1976, 90 Stat. 1928, provided that a complete study and investigation with respect to the desirability and feasibility of continuing the exclusion from income of certain prepaid group legal services benefits under section 120 of the Internal Revenue Code of 1954 be made by the Secretary of Labor and the Secretary of the Treasury, with a report to the President and the Congress not later than Dec. 31, 1980.
 

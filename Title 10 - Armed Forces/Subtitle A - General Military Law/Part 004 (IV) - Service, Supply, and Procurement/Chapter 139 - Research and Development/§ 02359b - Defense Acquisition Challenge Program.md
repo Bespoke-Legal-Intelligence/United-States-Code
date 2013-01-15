@@ -14,7 +14,7 @@ Panels.—The Under Secretary shall establish one or more panels of highly quali
 
 Preliminary Evaluation by Panels.—(1) Under procedures prescribed by the Under Secretary, a person or activity within or outside the Department of Defense may submit challenge proposals to a Panel, through the unsolicited proposal process or in response to a broad agency announcement.
 
-(2) The Under Secretary shall establish procedures pursuant to which appropriate officials of the Department of Defense may identify proposals submitted through the unsolicited proposal process as challenge proposals. The procedures shall provide for the expeditious referral of such proposals to a Panel for preliminary evaluation under this subsection.
+(2) The Under Secretary shall establish procedures pursuant to which appropriate officials of the Department of Defense may identify proposals submitted through the unsolicited proposalprocess as challenge proposals. The procedures shall provide for the expeditious referral of such proposals to a Panel for preliminary evaluation under this subsection.
 
 (3) The Under Secretary shall issue on an annual basis not less than one such broad agency announcement inviting interested parties to submit challenge proposals. Such announcements may also identify particular technology areas and acquisition programs that will be given priority in the evaluation of challenge proposals.
 
@@ -62,11 +62,11 @@ Action Upon Favorable Full Review and Evaluation.—(1) Under procedures prescri
 
 (f)
 
-Action Upon Unfavorable Full Review and Evaluation.—Under procedures prescribedby the Under Secretary, if a challenge proposal is determined by a Panel to satisfy each of the criteria specified in subsection (c)(5), but is not determined under a full review and evaluation to satisfy such criteria, the following provisions apply:
+Action Upon Unfavorable Full Review and Evaluation.—Under procedures prescribed by the Under Secretary, if a challenge proposal is determined by a Panel to satisfy each of the criteria specified in subsection (c)(5), but is not determined under a full review and evaluation to satisfy such criteria, the following provisions apply:
 
 &emsp;(1) The office carrying out the full review and evaluation shall provide to the Panel that conducted the preliminary evaluation a statement containing a summary of the rationale for the unfavorable evaluation.
 
-&emsp;(2) If the Panel disagrees with the rationale provided under paragraph (1), the Panel may return the challenge proposal to the office for further consideration.
+&emsp;(2) If the Panel disagrees with the rationale provided under paragraph (1), the Panel mayreturn the challenge proposal to the office for further consideration.
 
 (g)
 
@@ -132,23 +132,23 @@ Level of performance.—The term “level of performance”, with respect to a n
 
 &emsp;(5)
 
-Sunset.—The authority to carry out the pilot program under this subsection shall terminate on the date that is five years after the date of the enactment of this Act.
+Sunset.—The authority to carry out the pilot program under this subsection shall terminate on January 7, 2016.
 
-(Added Pub. L. 107–314, div. A, title II, §243(a), Dec. 2, 2002, 116 Stat. 2495; amended Pub. L. 109–364, div. A, title II, §213(b), (d)–(g), Oct. 17, 2006, 120 Stat. 2121–2123; Pub. L. 110–417, \[div. A\], title VIII, §821, Oct. 14, 2008, 122 Stat. 4531; Pub. L. 111–383, div. A, title VIII, §827, Jan. 7, 2011, 124 Stat. 4270.)
+(Added Pub. L. 107–314, div. A, title II, §243(a), Dec. 2, 2002, 116 Stat. 2495; amended Pub. L. 109–364, div. A, title II, §213(b), (d)–(g), Oct. 17, 2006, 120 Stat. 2121–2123; Pub. L. 110–417, \[div. A\], title VIII, §821, Oct. 14, 2008, 122 Stat. 4531; Pub. L. 111–383, div. A, title VIII, §827, Jan. 7, 2011, 124 Stat. 4270; Pub. L. 112–239, div. A, title X, §1076(e)(3), Jan. 2, 2013, 126 Stat. 1951.)
 
 #### References in Text
 
-Section 4 of the Office of Federal Procurement Policy Act, referred to in subsec. (k)(4)(A), is section 4 of Pub.L. 93–400, which was classified to section 403 of former Title 41, Public Contracts, and was repealed and the provisions thereof restated in sections 102, 103, 105, 107 to 116, 131 to 134, and 1301 of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
+Section 4 of the Office of Federal Procurement Policy Act, referred to in subsec. (k)(4)(A), is section 4 of Pub. L. 93–400, which was classified to section 403 of former Title 41, Public Contracts, and was repealed and the provisions thereof restated in sections 102, 103, 105, 107 to 116, 131 to 134, and 1301 of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
 
 The Small Business Act, referred to in subsec. (k)(4)(B), is Pub. L. 85–536, §2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
 
-The date of the enactment of this Act, referred to in subsec. (k)(5), probably means the date of enactment of Pub. L. 111–383, which enacted subsec. (k) and was approved Jan. 4, 2011.
-
 #### Amendments
 
-<b>2011</b>—Subsecs. (j) to (<i>l</i>). Pub. L. 111–383 redesignated subsec. (<i>l</i>) as (j), added subsec. (k), and struck out former subsecs. (j) and (k) which related to annual report and termination of authority, respectively.
+<b>2013</b>—Subsec. (k)(5). Pub. L. 112–239 substituted “January 7, 2016” for “the date that is five years after the date of the enactment of this Act”.
 
-<b>2008</b>—Subsec. (<i>l</i>). Pub. L. 110–417 added subsec. (<i>l</i>).
+<b>2011</b>—Subsecs. (j) to (l). Pub. L. 111–383 redesignated subsec. (l) as (j), added subsec. (k), and struck out former subsecs. (j) and (k) which related to annual report and termination of authority, respectively.
+
+<b>2008</b>—Subsec. (l). Pub. L. 110–417 added subsec. (l).
 
 <b>2006</b>—Subsec. (c)(4), (5). Pub. L. 109–364, §213(b)(1), added par. (4) and redesignated former par. (4) as (5). Former par. (5) redesignated (6).
 

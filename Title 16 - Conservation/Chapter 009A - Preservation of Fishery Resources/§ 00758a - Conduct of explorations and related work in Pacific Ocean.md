@@ -2,7 +2,7 @@
 
 The Secretary of Commerce is authorized and directed to conduct such fishing explorations and such necessary related work as oceanographical, biological, technological, statistical, and economic studies to insure maximum development and utilization of the high seas fishery resources of the United States and its island possessions in the tropical and subtropical Pacific Ocean and intervening areas as may be consistent with developing and sustaining such fishery resources at maximum levels of production in perpetuity and to provide for the best possible utilization thereof.
 
-(Aug. 4, 1947, ch. 451, §2, 61 Stat. 726; Pub. L. 86–624, §11(a), July 12, 1960, 74 Stat. 412; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
+(Aug. 4, 1947, ch. 451, §2, 61 Stat. 726; Pub. L. 86–624, §11(a), July 12, 1960, 74 Stat. 412; 1970Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
 
 #### Amendments
 
@@ -18,5 +18,5 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 #### Dogfish Sharks: Research To Control and Eradicate or To Discover Commercial Uses
 
-Pub. L. 85–887, Sept. 2, 1958, 72 Stat. 1710, directed Secretary of the Interior to prosecute, for a period ofnot to exceed four years from Sept. 2, 1958, investigations of the abundance and distribution of dogfish sharks, experiments to develop control measures, and a vigorous program for the elimination and eradication or development of economic uses of dogfish shark populations.
+Pub. L. 85–887, Sept. 2, 1958, 72 Stat. 1710, directed Secretary of the Interior to prosecute, for a period of not to exceed four years from Sept. 2, 1958, investigations of the abundance and distribution of dogfish sharks, experiments to develop control measures, and a vigorous program for the elimination and eradication or development of economic uses of dogfish shark populations.
 

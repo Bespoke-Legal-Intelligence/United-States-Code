@@ -68,7 +68,7 @@ Matters Included.—The strategy required by subsection (b) shall include each o
 
 &emsp;“(7) A description of the current processes by which the Department of Defense and the intelligence community program and budget for capabilities (including capabilities that are incorporated into single programs and capabilities that span multiple programs), an assessment of the adequacy of those processes, and an identification of the actions of the Department and the intelligence community for addressing any inadequacies in those processes.
 
-&emsp;“(8) A description of the organizational and management structure of the Department of Defense and the intelligence community for addressing policy, planning, acquisition, and operations with respect to capabilities, a description of the roles and responsibilities of each organization, and an identification of the actions of the Department and the intelligence community for addressing any inadequacies in that structure.
+&emsp;“(8) A description of the organizational and management structure of the Department of Defense and the intelligence community for addressing policy, planning, acquisition, and operations with respect to capabilities, a description of the roles and responsibilities of each organization, and an identificationof the actions of the Department and the intelligence community for addressing any inadequacies in that structure.
 
 “(d)
 

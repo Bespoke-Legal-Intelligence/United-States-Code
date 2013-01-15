@@ -8,7 +8,7 @@ For the purpose of carrying out his authority under section 6381 of this titleâ€
 
 &emsp;&emsp;(A) sign and issue subpenas for the attendance and testimony of witnesses and the production of books, records, papers, and other documents;
 
-&emsp;&emsp;(B) require any person, by general or special order, to submit answers in writing to interrogatories, to submit books, records, papers, or other documents, or to submit any other information or reports, and such answers or other submissions shall be made within such reasonable period, and under oath or otherwise, as the Comptroller General may determine; and
+&emsp;&emsp;(B) require any person, by general or special order, to submit answers in writing to interrogatories, to submit books, records,papers, or other documents, or to submit any other information or reports, and such answers or other submissions shall be made within such reasonable period, and under oath or otherwise, as the Comptroller General may determine; and
 
 &emsp;&emsp;(C) administer oaths.
 

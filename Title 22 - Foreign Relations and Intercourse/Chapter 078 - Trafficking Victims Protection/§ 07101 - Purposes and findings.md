@@ -46,7 +46,7 @@ Congress finds that:
 
 &emsp;(19) Victims of severe forms of trafficking should not be inappropriately incarcerated, fined, or otherwise penalized solely for unlawful acts committed as a direct result of being trafficked, such as using false documents, entering the country without documentation, or working without documentation.
 
-&emsp;(20) Because victims of trafficking are frequently unfamiliar with the laws, cultures, and languages of the countries into which they have been trafficked, because they are often subjected to coercion and intimidation including physical detention and debt bondage, and because they often fear retribution and forcible removal to countries in which they will face retribution or other hardship, these victims often find it difficult or impossible to report the crimes committed against them or to assist in the investigation and prosecution of such crimes.
+&emsp;(20) Because victims of trafficking are frequently unfamiliar with the laws, cultures, and languages of the countries into which they have been trafficked, because they are often subjected to coercion and intimidation including physical detention and debt bondage, and because they often fear retribution and forcible removal to countries in which they willface retribution or other hardship, these victims often find it difficult or impossible to report the crimes committed against them or to assist in the investigation and prosecution of such crimes.
 
 &emsp;(21) Trafficking of persons is an evil requiring concerted and vigorous action by countries of origin, transit or destination, and by international organizations.
 
@@ -96,7 +96,7 @@ Relationship Among Federal and State Law.—Nothing in this Act \[see Short Titl
 
 Model State Criminal Provisions.—In addition to any model State antitrafficking statutes in effect on the date of the enactment of this Act \[Dec. 23, 2008\], the Attorney General shall facilitate the promulgation of a model State statute that—
 
-&emsp;“(1) furthers a comprehensive approach to investigation and prosecution through modernization ofState and local prostitution and pandering statutes; and
+&emsp;“(1) furthers a comprehensive approach to investigation and prosecution through modernization of State and local prostitution and pandering statutes; and
 
 &emsp;“(2) is based in part on the provisions of the Act of August 15, 1935 (49 Stat. 651; D.C. Code 22–2701 et seq.) (relating to prostitution and pandering).
 

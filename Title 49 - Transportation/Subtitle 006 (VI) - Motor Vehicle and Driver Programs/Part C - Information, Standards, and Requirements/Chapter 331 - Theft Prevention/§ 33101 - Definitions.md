@@ -150,7 +150,7 @@ Pub. L. 103–429, §6(44)(A), substituted “section 33104” for “sections 3
 
 #### Effective Date of 1996 Amendment
 
-Section 6(d) of Pub. L. 104–287 provided that the amendment made by that section is effective Oct. 31, 1994.
+Pub. L. 104–287, §6(d), Oct. 11, 1996, 110 Stat. 3398, provided that the amendment made by section 6(d)(1)(B) is effective Oct. 31, 1994.
 
 #### Effective Date of 1994 Amendment
 

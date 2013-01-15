@@ -96,7 +96,7 @@ Financial responsibility under this section may be established by any one, or by
 
 &emsp;A claim may be asserted pursuant to paragraph (1) directly against a guarantor providing evidence of financial responsibility under subsection (c)(1) of this section with respect to an offshore facility only if—
 
-&emsp;&emsp;(A) the responsible party for whom evidence of financial responsibility has been provided has denied or failed to pay a claim under this Act on the basis of being insolvent, as defined under section 101(32) of title11, and applying generally accepted accounting principles;
+&emsp;&emsp;(A) the responsible party for whom evidence of financial responsibility has been provided has denied or failed to pay a claim under this Act on the basis of being insolvent, as defined under section 101(32) of title 11, and applying generally accepted accounting principles;
 
 &emsp;&emsp;(B) the responsible party for whom evidence of financial responsibility has been provided has filed a petition for bankruptcy under title 11; or
 
@@ -144,7 +144,7 @@ Subsec. (g). Pub. L. 104–324, §1125(a)(3), reenacted heading without change a
 
 #### Effective Date of 1996 Amendment
 
-Section 1125(b) of Pub. L. 104–324 provided that: “The amendment made by subsection (a)(2) \[amending this section\] shall not apply to any final rule issued before the date of enactment of this section \[Oct. 19, 1996\].”
+Pub. L. 104–324, title XI, §1125(b), Oct. 19, 1996, 110 Stat. 3983, provided that: “The amendment made by subsection (a)(2) \[amending this section\] shall not apply to any final rule issued before the date of enactment of this section \[Oct. 19, 1996\].”
 
 #### Delegation of Functions
 

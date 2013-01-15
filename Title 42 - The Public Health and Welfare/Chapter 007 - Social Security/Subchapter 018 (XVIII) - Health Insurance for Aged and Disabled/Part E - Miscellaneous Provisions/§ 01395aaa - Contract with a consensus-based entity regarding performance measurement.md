@@ -54,9 +54,7 @@ The duties described in this subsection are the following:
 
 &emsp;The entity shall establish and implement a process to ensure that measures endorsed under paragraph (2) are updated (or retired if obsolete) as new evidence is developed.
 
-#### (4) Promotion of the development of electronic health records
-
-&emsp;The entity shall promote the development and use of electronic health records that contain the functionality for automated collection, aggregation, and transmission of performance measurement information.
+#### (4) Repealed. Pub. L. 112–240, title VI, §609(a)(2), Jan. 2, 2013, 126 Stat. 2349
 
 #### (5) Annual report to Congress and the Secretary; secretarial publication and comment
 
@@ -108,7 +106,7 @@ The duties described in this subsection are the following:
 
 &emsp;&emsp;&emsp;Subject to clause (ii), the quality and efficiency measures described in this subparagraph are quality and efficiency measures—
 
-&emsp;&emsp;&emsp;&emsp;(I) for use pursuant to sections 1395f(i)(5)(D), 1395<i>l</i>(i)(7), 1395<i>l</i>(t)(17), 1395w–4(k)(2)(C), 1395cc(k)(3), 1395rr(h)(2)(A)(iii), 1395ww(b)(3)(B)(viii), 1395ww(j)(7)(D), 1395ww(m)(5)(D), 1395ww(<i>o</i>)(2), 1395ww(s)(4)(D), and 1395fff(b)(3)(B)(v) of this title;
+&emsp;&emsp;&emsp;&emsp;(I) for use pursuant to sections 1395f(i)(5)(D), 1395l(i)(7), 1395l(t)(17), 1395w–4(k)(2)(C), 1395cc(k)(3), 1395rr(h)(2)(A)(iii), 1395ww(b)(3)(B)(viii), 1395ww(j)(7)(D), 1395ww(m)(5)(D), 1395ww(o)(2), 1395ww(s)(4)(D), and 1395fff(b)(3)(B)(v) of this title;
 
 &emsp;&emsp;&emsp;&emsp;(II) for use in reporting performance information to the public; and
 
@@ -184,9 +182,9 @@ The requirements described in this subsection are the following:
 
 #### (d) Funding
 
-For purposes of carrying out this section, the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1395i of this title and the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title (in such proportion as the Secretary determines appropriate), of $10,000,000 to the Centers for Medicare \& Medicaid Services Program Management Account for each of fiscal years 2009 through 2012.
+For purposes of carrying out this section, the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1395i of this title and the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title (in such proportion as the Secretary determines appropriate), of $10,000,000 to the Centers for Medicare \& Medicaid Services Program Management Account for each of fiscal years 2009 through 2013.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1890, as added Pub. L. 110–275, title I, §183(a)(1), July 15, 2008, 122 Stat. 2583; amended Pub. L. 111–148, title III, §§3003(b), 3014(a), title X, §§10304, 10322(b), Mar. 23, 2010, 124 Stat. 367, 384, 938, 954.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1890, as added Pub. L. 110–275, title I, §183(a)(1), July 15, 2008, 122 Stat. 2583; amended Pub. L. 111–148, title III, §§3003(b), 3014(a), title X, §§10304, 10322(b), Mar. 23, 2010, 124 Stat. 367, 384, 938, 954; Pub. L. 112–240, title VI, §609(a), Jan. 2, 2013, 126 Stat. 2349.)
 
 #### References in Text
 
@@ -194,13 +192,17 @@ Section 12(d) of the National Technology Transfer and Advancement Act of 1995, r
 
 #### Codification
 
-In subsec. (a)(4), “section 132 of title 41” substituted for “section 4(5) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(5))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a)(4), “section 132 of title 41” substituted for “section 4(5) of the Office of Federal ProcurementPolicy Act (41 U.S.C. 403(5))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Prior Provisions
 
 A prior section 1395aaa, act Aug. 14, 1935, ch. 531, title XVIII, §1890, as added Aug. 18, 1987, Pub. L. 100–93, §10, 101 Stat. 696, which related to limitation of liability of beneficiaries with respect to services furnished by excluded individuals and entities, was amended and transferred to section 1862(e)(2) of act Aug. 14, 1935, by Pub. L. 100–360, title IV, §411(i)(4)(D)(ii), July 1, 1988, 102 Stat. 790, as amended by Pub. L. 100–485, title VI, §608(d)(24)(C)(ii), Oct. 13, 1988, 102 Stat. 2421, and is classified to section 1395y(e)(2) of this title.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (b)(4). Pub. L. 112–240, §609(a)(2), struck out par. (4). Text read as follows: “The entity shall promote the development and use of electronic health records that contain the functionality for automated collection, aggregation, and transmission of performance measurement information.”
+
+Subsec. (d). Pub. L. 112–240, §609(a)(1), substituted “fiscal years 2009 through 2013” for “fiscal years 2009 through 2012”.
 
 <b>2010</b>—Subsec. (b)(5)(A)(iv) to (vi). Pub. L. 111–148, §3014(a)(2), added cls. (iv) to (vi).
 
@@ -212,7 +214,7 @@ Pub. L. 111–148, §3014(a)(1), added par. (7).
 
 Subsec. (b)(7)(B). Pub. L. 111–148, §10304, which directed substitution of “quality and efficiency” for “quality” wherever appearing, was executed by substituting “Quality and efficiency” for “Quality” in subpar. heading to reflect the probable intent of Congress.
 
-Subsec. (b)(7)(B)(i)(I). Pub. L. 111–148, §10322(b), inserted “1395ww(s)(4)(D),” after “1395ww(<i>o</i>)(2),”.
+Subsec. (b)(7)(B)(i)(I). Pub. L. 111–148, §10322(b), inserted “1395ww(s)(4)(D),” after “1395ww(o)(2),”.
 
 Subsec. (b)(8). Pub. L. 111–148, §3014(a)(1), added par. (8).
 

@@ -8,5 +8,5 @@ Section 7274i, Pub. L. 102–484, div. C, title XXXI, §3162, Oct. 23, 1992, 106
 
 #### Semiannual Report to Congress of Local Impact Assistance
 
-Pub. L. 105–85, div. C, title XXXI, §3153(f), Nov. 18, 1997, 111 Stat. 2044, which was formerly set out as a note under section 7274h of this title, was renumbered section 4851 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(k)(15)(A)–(C)(ii), Nov. 24, 2003, 117 Stat. 1786, and is classified to section 2821 of Title 50, War and National Defense.
+Pub. L. 105–85, div. C, title XXXI, §3153(f), Nov. 18, 1997, 111 Stat. 2044, which was formerly set out as a note under section 7274h of this title, was renumbered section 4851 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(k)(15)(A)–(C)(ii), Nov. 24, 2003, 117 Stat. 1786, and was classified to section 2821 of Title 50, War and National Defense, prior to repeal by Pub. L. 112–239, div. C, title XXXI, §3131(q)(2), Jan. 2, 2013, 126 Stat. 2183.
 

@@ -10,7 +10,7 @@ For purposes of carrying out the provisions of this chapter, there are authorize
 
 > Funds authorized by this section shall be in addition to, and not in lieu of, funds authorized by any other Act.
 
-(Pub. L. 96–362, §10, Sept. 26, 1980, 94 Stat. 1205; Pub. L. 98–623, title IV, §402, Nov. 8, 1984, 98 Stat. 3407; Pub. L. 99–198, title XVII, §1737, Dec. 23, 1985, 99 Stat. 1643; Pub. L. 101–624, title XVI, §1614(d), Nov. 28, 1990, 104 Stat. 3728; Pub. L. 105–185, title III, §301(i), June 23, 1998, 112 Stat. 563; Pub. L. 107–171, title VII, §7139, May 13, 2002, 116 Stat. 436; Pub. L. 110–234, title VII, §7414, May 22, 2008, 122 Stat. 1256; Pub. L. 110–246, §4(a), title VII, §7414, June 18, 2008, 122 Stat. 1664, 2017.)
+(Pub. L. 96–362, §10, Sept. 26, 1980, 94 Stat. 1205; Pub. L. 98–623, title IV, §402, Nov. 8, 1984, 98 Stat. 3407; Pub. L. 99–198, title XVII, §1737, Dec. 23, 1985, 99 Stat. 1643; Pub. L. 101–624, title XVI, §1614(d), Nov. 28, 1990, 104 Stat. 3728; Pub. L. 105–185, title III, §301(i), June 23, 1998, 112 Stat. 563; Pub. L. 107–171, title VII, §7139, May 13, 2002,116 Stat. 436; Pub. L. 110–234, title VII, §7414, May 22, 2008, 122 Stat. 1256; Pub. L. 110–246, §4(a), title VII, §7414, June 18, 2008, 122 Stat. 1664, 2017.)
 
 #### Codification
 

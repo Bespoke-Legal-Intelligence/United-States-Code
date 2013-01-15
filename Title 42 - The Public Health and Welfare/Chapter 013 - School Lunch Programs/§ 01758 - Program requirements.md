@@ -2,7 +2,7 @@
 
 #### (a) Nutritional requirements
 
-(1)(A) Lunches served by schools participating in the school lunch program under this chaptershall meet minimum nutritional requirements prescribed by the Secretary on the basis of tested nutritional research, except that the minimum nutritional requirements—
+(1)(A) Lunches served by schools participating in the school lunch program under this chapter shall meet minimum nutritional requirements prescribed by the Secretary on the basis of tested nutritional research, except that the minimum nutritional requirements—
 
 &emsp;(i) shall not be construed to prohibit the substitution of foods to accommodate the medical or other special dietary needs of individual students; and
 
@@ -136,7 +136,7 @@ Household applications.—
 
 &emsp;(A)
 
-Definition of household application.—In this paragraph, the term “household application” means an application for a child of a household to receive free or reduced price school lunches under this chapter, or free or reduced price school breakfasts under the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.), for which an eligibility determination is made other than under paragraph (4) or (5).
+Definition of household application.—In this paragraph, the term “household application” means an application for a child of a household to receive free or reduced price school lunches under this chapter, or free or reduced price school breakfasts under the Child Nutrition Act of 1966 (42 U.S.C. 1771 etseq.), for which an eligibility determination is made other than under paragraph (4) or (5).
 
 &emsp;(B)
 
@@ -306,9 +306,9 @@ Free meals.—Public agency records that may be obtained and used under clause (
 
 &emsp;&emsp;&emsp;(II) the State plan for medical assistance under title XIX of the Social Security Act (42 U.S.C. 1396 et seq.) in—
 
-&emsp;&emsp;&emsp;&emsp;(aa) a State in which the income eligibility limit applied under section 1902(<i>l</i>)(2)(C) of that Act (42 U.S.C. 1396a(<i>l</i>)(2)(C)) is not more than 133 percent of the official poverty line described in section 1902(<i>l</i>)(2)(A) of that Act (42 U.S.C. 1396a(<i>l</i>)(2)(A)); or
+&emsp;&emsp;&emsp;&emsp;(aa) a State in which the income eligibility limit applied under section 1902(l)(2)(C) of that Act (42 U.S.C. 1396a(l)(2)(C)) is not more than 133 percent of the official poverty line described in section 1902(l)(2)(A) of that Act (42 U.S.C. 1396a(l)(2)(A)); or
 
-&emsp;&emsp;&emsp;&emsp;(bb) a State that otherwise identifies households that have income that is not more than 133 percent of the official poverty line described in section 1902(<i>l</i>)(2)(A) of that Act (42 U.S.C. 1396a(<i>l</i>)(2)(A)).
+&emsp;&emsp;&emsp;&emsp;(bb) a State that otherwise identifies households that have income that is not more than 133 percent of the official poverty line described in section 1902(l)(2)(A) of that Act (42 U.S.C. 1396a(l)(2)(A)).
 
 &emsp;&emsp;(iii)
 
@@ -318,9 +318,9 @@ Reduced price meals.—Public agency records that may be obtained and used under
 
 &emsp;&emsp;&emsp;(II) the State plan for medical assistance under title XIX of the Social Security Act (42 U.S.C. 1396 et seq.) in—
 
-&emsp;&emsp;&emsp;&emsp;(aa) a State in which the income eligibility limit applied under section 1902(<i>l</i>)(2)(C) of that Act (42 U.S.C. 1396a(<i>l</i>)(2)(C)) is not more than 185 percent of the official poverty line described in section 1902(<i>l</i>)(2)(A) of that Act (42 U.S.C. 1396a(<i>l</i>)(2)(A)); or
+&emsp;&emsp;&emsp;&emsp;(aa) a State in which the income eligibility limit applied under section1902(l)(2)(C) of that Act (42 U.S.C. 1396a(l)(2)(C)) is not more than 185 percent of the official poverty line described in section 1902(l)(2)(A) of that Act (42 U.S.C. 1396a(l)(2)(A)); or
 
-&emsp;&emsp;&emsp;&emsp;(bb) a State that otherwise identifies households that have income that is not more than 185 percent of the official poverty line described in section 1902(<i>l</i>)(2)(A) of that Act (42 U.S.C. 1396a(<i>l</i>)(2)(A)).
+&emsp;&emsp;&emsp;&emsp;(bb) a State that otherwise identifies households that have income that is not more than 185 percent of the official poverty line described in section 1902(l)(2)(A) of that Act (42 U.S.C. 1396a(l)(2)(A)).
 
 &emsp;&emsp;(iv)
 
@@ -434,7 +434,7 @@ Procedures.—Subject to paragraph (6), the agreement shall establish procedures
 
 &emsp;(C)
 
-Certification.—Subject to paragraph (6), under the agreement, the local educationalagency conducting eligibility determinations for a school lunch program under this chapter and a school breakfast program under the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) shall certify a child who is a member of a household receiving assistance under the supplemental nutrition assistance program as eligible for free lunches under this chapter and free breakfasts under the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.), without further application.
+Certification.—Subject to paragraph (6), under the agreement, the local educational agency conducting eligibility determinations for a school lunch program under this chapter and a school breakfast program under the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) shall certify a child who is a member of a household receiving assistance under the supplemental nutrition assistance program as eligible for free lunches under this chapter and free breakfasts under the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.), without further application.
 
 &emsp;(D)
 
@@ -530,7 +530,7 @@ In general.—A State that is required to develop and implement a continuous imp
 
 Requirements.—At a minimum, a continuous improvement plan under subclause (I) shall include—
 
-&emsp;&emsp;&emsp;&emsp;(aa) specific measures that the State will use to identify more children who are eligible for direct certification, including improvements or modifications to technology, information systems, or databases;
+&emsp;&emsp;&emsp;&emsp;(aa) specific measures that the State will use to identify more children whoare eligible for direct certification, including improvements or modifications to technology, information systems, or databases;
 
 &emsp;&emsp;&emsp;&emsp;(bb) a timeline for the State to implement those measures; and
 
@@ -550,7 +550,7 @@ Clarification.—A requirement that a household return a letter notifying the ho
 
 (5)
 
-Discretionary certification.—Subject to paragraph (6), any local educational agency may certify any child as eligible for free lunches orbreakfasts, without further application, by directly communicating with the appropriate State or local agency to obtain documentation of the status of the child as—
+Discretionary certification.—Subject to paragraph (6), any local educational agency may certify any child as eligible for free lunches or breakfasts, without further application, by directly communicating with the appropriate State or local agency to obtain documentation of the status of the child as—
 
 &emsp;(A) a member of a family that is receiving assistance under the temporary assistance for needy families program funded under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.) that the Secretary determines complies with standards established by the Secretary that ensure that the standards under the State program are comparable to or more restrictive than those in effect on June 1, 1995;
 
@@ -858,7 +858,7 @@ School lunch programs under this chapter shall be operated on a nonprofit basis.
 
 &emsp;(B) documentation showing that the household is participating in the supplemental nutrition assistance program under the Food and Nutrition Act of 2008 \[7 U.S.C. 2011 et seq.\] has been provided to the appropriate local educational agency;
 
-&emsp;(C) documentation has been provided to the appropriate local educational agency showing that the family is receiving assistance under the State program funded under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\] that the Secretary determines complies with standards established by the Secretarythat ensure that the standards under the State program are comparable to or more restrictive than those in effect on June 1, 1995;
+&emsp;(C) documentation has been provided to the appropriate local educational agency showing that the family is receiving assistance under the State program funded under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\] that the Secretary determines complies with standards established by the Secretary that ensure that the standards under the State program are comparable to or more restrictive than those in effect on June 1, 1995;
 
 &emsp;(D) documentation has been provided to the appropriate local educational agency showing that the child meets the criteria specified in clauses (iv) or (v) of subsection (b)(12)(A) of this section;
 
@@ -1002,7 +1002,7 @@ The Secretary shall—
 
 &emsp;There are authorized to be appropriated to carry out this subsection such sums as are necessary for each of fiscal years 2011 through 2015.
 
-#### (<i>l</i>) Food donation program
+#### (l) Food donation program
 
 #### (1) In general
 
@@ -1024,9 +1024,9 @@ The Secretary shall—
 
 #### (4) Definition
 
-&emsp;In this subsection, the term “eligible local food banks or charitable organizations” means any food bank or charitable organization which is exempt from tax under section 501(c)(3) of title 26.
+&emsp;In this subsection, the term “eligible local food banks or charitable organizations” meansany food bank or charitable organization which is exempt from tax under section 501(c)(3) of title 26.
 
-(June 4, 1946, ch. 281, §9, 60 Stat. 233; Pub. L. 90–302, §2(b), May 8, 1968, 82 Stat. 117; Pub. L. 91–248, §6(a), (b), (d), (e), May 14, 1970, 84 Stat. 210; Pub. L. 92–153, §5, Nov. 5, 1971, 85 Stat. 420; Pub. L. 92–433, §5, Sept. 26, 1972, 86 Stat. 726; Pub. L. 93–150, §9, Nov. 7, 1973, 87 Stat. 564; Pub. L. 93–326, §4, June 30, 1974, 88 Stat. 286; Pub. L.94–105, §6, Oct. 7, 1975, 89 Stat. 512; Pub. L. 95–166, §8, Nov. 10, 1977, 91 Stat. 1335; Pub. L. 95–627, §8, Nov. 10, 1978, 92 Stat. 3622; Pub. L. 97–35, title VIII, §§803(a), (b), 811, Aug. 13, 1981, 95 Stat. 524, 525, 529; Pub. L. 99–500, title III, §§322–324, Oct. 18, 1986, 100 Stat. 1783–361, and Pub. L. 99–591, title III, §§322–324, Oct. 30, 1986, 100 Stat. 3341–364; Pub. L. 99–661, div. D, title II, §§4202–4204, Nov. 14, 1986, 100 Stat. 4072; Pub. L. 100–356, §1, June 28, 1988, 102 Stat. 669; Pub. L. 101–147, title I, §101, title II, §202(a)(1), (2)(A), (b), title III, §§305, 312(1), (2), Nov. 10, 1989, 103 Stat. 878, 908, 914, 916; Pub. L. 103–448, title I, §§105(a), 106–109(a), 110, Nov. 2, 1994, 108 Stat. 4701–4705; Pub. L. 104–149, §2, May 29, 1996, 110 Stat. 1379; Pub. L. 104–193, title I, §109(g), title VII, §§702, 703, Aug. 22, 1996, 110 Stat. 2170, 2288, 2289; Pub. L. 105–336, title I, §102, Oct. 31, 1998, 112 Stat. 3144; Pub. L. 106–224, title II, §242(a), June 20, 2000, 114 Stat. 411; Pub. L. 107–171, title IV, §§4302(a), 4303, May 13, 2002, 116 Stat. 330, 331; Pub. L. 108–134, §1, Nov. 22, 2003, 117 Stat. 1389; Pub. L. 108–211, §1, Mar. 31, 2004, 118 Stat. 566; Pub. L. 108–265, title I, §§102–104(b)(1), (d)(1), (2), 105(a), 106–108(a), 109–112, June 30, 2004, 118 Stat. 731–734, 737, 738, 745–747; Pub. L. 108–447, div. A, title VII, §788(a), Dec. 8, 2004, 118 Stat. 2851; Pub. L. 110–134, §29(c)(1), Dec. 12, 2007, 121 Stat. 1449; Pub. L. 110–234, title IV, §§4002(b)(1)(A), (B), (E), (2)(Z), 4302, May 22, 2008, 122 Stat. 1095–1097, 1125; Pub. L. 110–246, §4(a), title IV, §§4002(b)(1)(A), (B), (E), (2)(Z), 4302, June 18, 2008, 122 Stat. 1664, 1857, 1859, 1887; Pub. L. 111–80, title VII, §§734(a), 749(b), (c), Oct. 21, 2009, 123 Stat. 2125, 2131; Pub. L. 111–296, title I, §§101—103(b), title II, §§202, 203, 209, 242, title III, §§301, 302, title IV, §§402, 441(a)(1), Dec. 13, 2010, 124 Stat. 3185–3191, 3216, 3222, 3236, 3240, 3259, 3261; Pub. L. 112–55, div. A, title VII, §734, Nov. 18, 2011, 125 Stat. 587.)
+(June 4, 1946, ch. 281, §9, 60 Stat. 233; Pub. L. 90–302, §2(b), May 8, 1968, 82 Stat. 117; Pub. L. 91–248, §6(a), (b), (d), (e), May 14, 1970, 84 Stat. 210; Pub. L. 92–153, §5, Nov. 5, 1971, 85 Stat. 420; Pub. L. 92–433, §5, Sept. 26, 1972, 86 Stat. 726; Pub. L. 93–150, §9, Nov. 7, 1973, 87 Stat. 564; Pub. L. 93–326, §4, June 30, 1974, 88 Stat. 286; Pub. L. 94–105, §6, Oct. 7, 1975, 89 Stat. 512; Pub. L. 95–166, §8, Nov. 10, 1977, 91 Stat. 1335; Pub. L. 95–627, §8, Nov. 10, 1978, 92 Stat. 3622; Pub. L. 97–35, title VIII, §§803(a), (b), 811, Aug. 13, 1981, 95 Stat. 524, 525, 529; Pub. L. 99–500, title III, §§322–324, Oct. 18, 1986, 100 Stat. 1783–361, and Pub. L. 99–591, title III, §§322–324, Oct. 30, 1986, 100 Stat. 3341–364; Pub. L. 99–661, div. D, title II, §§4202–4204, Nov. 14, 1986, 100 Stat. 4072; Pub. L. 100–356, §1, June 28, 1988, 102 Stat. 669; Pub. L. 101–147, title I, §101, title II, §202(a)(1), (2)(A), (b), title III, §§305, 312(1), (2), Nov. 10, 1989, 103 Stat. 878, 908, 914, 916; Pub. L. 103–448, title I, §§105(a), 106–109(a), 110, Nov. 2, 1994, 108 Stat. 4701–4705; Pub. L. 104–149, §2, May 29, 1996, 110 Stat. 1379; Pub. L. 104–193, title I, §109(g), title VII, §§702, 703, Aug. 22, 1996, 110 Stat. 2170, 2288, 2289; Pub. L. 105–336, title I, §102, Oct. 31, 1998, 112 Stat. 3144; Pub. L. 106–224, title II, §242(a), June 20, 2000, 114 Stat. 411; Pub. L. 107–171, title IV, §§4302(a), 4303, May 13, 2002, 116 Stat. 330, 331; Pub. L. 108–134, §1, Nov. 22, 2003, 117 Stat. 1389; Pub. L. 108–211, §1, Mar. 31, 2004, 118 Stat. 566; Pub. L. 108–265, title I, §§102–104(b)(1), (d)(1), (2), 105(a), 106–108(a), 109–112, June 30, 2004, 118 Stat. 731–734, 737, 738, 745–747; Pub. L. 108–447, div. A, title VII, §788(a), Dec. 8, 2004, 118 Stat. 2851; Pub. L. 110–134, §29(c)(1), Dec. 12, 2007, 121 Stat. 1449; Pub. L. 110–234, title IV, §§4002(b)(1)(A), (B), (E), (2)(Z), 4302, May 22, 2008, 122 Stat. 1095–1097, 1125; Pub. L. 110–246, §4(a), title IV, §§4002(b)(1)(A), (B), (E), (2)(Z), 4302, June 18, 2008, 122 Stat. 1664, 1857, 1859, 1887; Pub. L. 111–80, title VII, §§734(a), 749(b), (c), Oct. 21, 2009, 123 Stat. 2125, 2131; Pub. L. 111–296, title I, §§101—103(b), title II, §§202, 203, 209, 242, title III, §§301, 302, title IV, §§402, 441(a)(1), Dec. 13, 2010, 124 Stat. 3185–3191, 3216, 3222, 3236, 3240, 3259, 3261; Pub. L. 112–55, div. A, title VII, §734, Nov. 18, 2011, 125 Stat. 587.)
 
 #### References in Text
 
@@ -1048,7 +1048,7 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-<b>2011</b>—Subsec. (<i>l</i>). Pub. L. 112–55 added subsec. (<i>l</i>).
+<b>2011</b>—Subsec. (l). Pub. L. 112–55 added subsec. (l).
 
 <b>2010</b>—Subsec. (a)(2)(A)(i). Pub. L. 111–296, §202, added cl. (i) and struck out former cl. (i) which read as follows: “shall offer students fluid milk in a variety of fat contents;”.
 
@@ -1100,7 +1100,7 @@ Subsec. (b)(12)(A)(i). Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(Z), substitu
 
 Subsec. (b)(12)(B). Pub. L. 110–246, §4002(b)(1)(E), (2)(Z), substituted “supplemental nutrition assistance program benefits” for “food stamps”.
 
-Subsec. (d)(2)(B). Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(Z), substituted “supplemental nutrition assistanceprogram” for “food stamp program” and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
+Subsec. (d)(2)(B). Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(Z), substituted “supplemental nutrition assistance program” for “food stamp program” and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
 
 Subsec. (j). Pub. L. 110–246, §4302, amended subsec. (j) generally. Prior to amendment, subsec. (j) related to encouragement of purchases of locally produced foods, provision of startup grants, and authorization of appropriations.
 
@@ -1210,7 +1210,7 @@ Subsec. (i). Pub. L. 105–336, §102(d), added subsec. (i).
 
 <b>1996</b>—Subsec. (a)(2). Pub. L. 104–193, §702(a)(1), redesignated par. (2)(A) as (2) and cls. (i) and (ii) of former subpar. (A) as subpars. (A) and (B), respectively, and struck out former subpar. (B) which read as follows:
 
-“(B)(i) The Secretary shall purchase in each calendar year to carry out the school lunch program under thischapter, and the school breakfast program under section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773), lowfat cheese on a bid basis in a quantity that is the milkfat equivalent of the quantity of milkfat the Secretary estimates the Commodity Credit Corporation will purchase each calendar year as a result of the elimination of the requirement that schools offer students fluid whole milk and fluid unflavored lowfat milk, based on data provided by the Director of Office of Management and Budget.
+“(B)(i) The Secretary shall purchase in each calendar year to carry out the school lunch program under this chapter, and the school breakfast program under section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773), lowfat cheese on a bid basis in a quantity that is the milkfat equivalent of the quantity of milkfat the Secretary estimates the Commodity Credit Corporation will purchase each calendar year as a result of the elimination of the requirement that schools offer students fluid whole milk and fluid unflavored lowfat milk, based on data provided by the Director of Office of Management and Budget.
 
 “(ii) Not later than 30 days after the Secretary provides an estimate required under clause (i), the Director of the Congressional Budget Office shall provide to the appropriate committees of Congress a report on whether the Director concurs with the estimate of the Secretary.
 
@@ -1244,7 +1244,7 @@ Subsec. (f)(2)(D). Pub. L. 104–149 added subpar. (D) and struck out former sub
 
 Subsec. (f)(3). Pub. L. 104–193, §702(c)(5), redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, and subcls. (I) and (II) of subpar. (A) as cls. (i) and (ii), respectively.
 
-Subsec. (f)(4). Pub. L. 104–193, §702(c)(6), redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, in subpar. (A), redesignated subcls. (I) and (II) as cls. (i) and (ii), respectively, and in subpar. (A)(ii), substituted “paragraph (3)” for “subparagraph (C)”.
+Subsec. (f)(4). Pub. L. 104–193, §702(c)(6), redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, in subpar. (A), redesignated subcls. (I) and (II) as cls. (i)and (ii), respectively, and in subpar. (A)(ii), substituted “paragraph (3)” for “subparagraph (C)”.
 
 Subsec. (h). Pub. L. 104–193, §702(d), struck out subsec. (h) which read as follows: “In carrying out this chapter and the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.), a State educational agency may use resources provided through the nutrition education and training program authorized under section 19 of the Child Nutrition Act of 1966 (42 U.S.C. 1788) for training aimed at improving the quality and acceptance of school meals.”
 
@@ -1306,9 +1306,9 @@ Subsec. (d). Pub. L. 97–35, §803(b), added subsec. (d).
 
 <b>1975</b>—Subsec. (a). Pub. L. 94–105, §6(a), directed Secretary to establish administrative procedures designed to diminish food waste in school lunch programs and made provision for senior high school students to refuse food which they do not intend to consume without affecting lunch charges or payments to schools for lunches served.
 
-Subsec. (b)(1). Pub. L. 94–105, §6(b), designated existing provisions as subsec. (b)(1), struck out “if a school elects to serve reduced-price lunches” after “reduced price not to exceed 20 cents”, inserted provision for a reduced price lunch for any child eligible under reduced price lunch income guidelines, established income guidelines for reduced price lunches, beginning with fiscal year ending June 30, 1976, at 95 per centum above applicable family size income levels in income poverty guidelines, and provided for a reduced price lunch not to exceed 20 cents to any child belonging to a household whose income falls between guidelines for a free lunch and 95 per centum above income levels in the income poverty guidelines.
+Subsec. (b)(1). Pub. L. 94–105, §6(b), designated existing provisions as subsec. (b)(1), struck out “if a school elects to serve reduced-price lunches” after “reduced price not to exceed 20 cents”, inserted provision for a reduced price lunch for any child eligible under reduced price lunch income guidelines, established incomeguidelines for reduced price lunches, beginning with fiscal year ending June 30, 1976, at 95 per centum above applicable family size income levels in income poverty guidelines, and provided for a reduced price lunch not to exceed 20 cents to any child belonging to a household whose income falls between guidelines for a free lunch and 95 per centum above income levels in the income poverty guidelines.
 
-Pub. L. 94–105, §6(c), substituted provision adjusting income poverty guidelines that take effect July 1 of each year according to percentage change in Consumer Price Index for 12-month period ending in April of that year, except that the first adjustment, effective July 1,1976, shall be made according to percentage change between average Consumer Price Index for 1974, on which the 1975–1976 guidelines are based, and Consumer Price Index for April 1976 for provision basing the guidelines on average Consumer Price Index for previous calendar year.
+Pub. L. 94–105, §6(c), substituted provision adjusting income poverty guidelines that take effect July 1 of each year according to percentage change in Consumer Price Index for 12-month period ending in April of that year, except that the first adjustment, effective July 1, 1976, shall be made according to percentage change between average Consumer Price Index for 1974, on which the 1975–1976 guidelines are based, and Consumer Price Index for April 1976 for provision basing the guidelines on average Consumer Price Index for previous calendar year.
 
 Subsec. (b)(2). Pub. L. 94–105, §6(d), added par. (2).
 
@@ -1376,15 +1376,15 @@ Amendment by section 109(g) of Pub. L. 104–193 effective July 1, 1997, with tr
 
 Amendment by sections 105(a) and 106 to 108 of Pub. L. 103–448 effective Oct. 1, 1994, see section 401 of Pub. L. 103–448, set out as a note under section 1755 of this title.
 
-Section 109(c) of Pub. L. 103–448 provided that: “The amendments made by this section \[amending this section and section 1766 of this title\] shall become effective on September 25, 1995.”
+Pub. L. 103–448, title I, §109(c), Nov. 2, 1994, 108 Stat. 4705, provided that: “The amendments made by this section \[amending this section and section 1766 of this title\] shall become effective on September 25, 1995.”
 
 #### Effective Date of 1989 Amendment
 
-Section 202(a)(2)(B) of Pub. L. 101–147 provided that: “The amendments made by subparagraph (A) \[amending this section\] shall take effect as if such amendments had been effective on June 28, 1988.”
+Pub. L. 101–147, title II, §202(a)(2)(B), Nov. 10, 1989, 103 Stat. 908, provided that: “The amendments made by subparagraph (A) \[amending this section\] shall take effect as if such amendments had been effective on June 28, 1988.”
 
 #### Effective Date of 1986 Amendment
 
-Sections 322 to 324 of Pub. L. 99–500 and Pub. L. 99–591 and sections 4202 to 4204 of Pub. L. 99–661 provided that the amendments made by those sections are effective July 1, 1986.
+Pub. L. 99–500, title III, §§322–324, Oct. 18, 1986, 100 Stat. 1783–361, Pub. L. 99–591, title III, §§322–324, Oct. 30, 1986, 100 Stat. 3341–364, and Pub. L. 99–661, div. D, title II, §§4202–4204, Nov. 14, 1986, 100 Stat. 4072, provided that the amendments made by those sections are effective July 1, 1986.
 
 #### Effective Date of 1981 Amendment
 
@@ -1396,7 +1396,7 @@ Amendment by Pub. L. 95–627 effective July 1, 1979, except as specifically pro
 
 #### Effective Date of 1975 Amendment
 
-Section 6(c) of Pub. L. 94–105 provided that the amendment made by that section is effective Jan. 1, 1976.
+Pub. L. 94–105, §6(c), Oct. 7, 1975, 89 Stat. 512, provided that the amendment made by that section is effective Jan. 1, 1976.
 
 #### Regulations
 
@@ -1414,7 +1414,7 @@ Interim Final Regulations.—The Secretary may promulgate interim final regulati
 
 Regulations.—Not later than 2 years after the date of enactment of this Act \[June 30, 2004\], the Secretary shall promulgate final regulations to implement the amendments described in subsection (a).”
 
-Section 202(c) of Pub. L. 101–147 provided that: “Not later than July 1, 1990, the Secretary of Agriculture shall issue final regulations to implement the amendments made by subsection (b) \[amending this section\].”
+Pub. L. 101–147, title II, §202(c), Nov. 10, 1989, 103 Stat. 909, provided that: “Not later than July 1, 1990, the Secretary of Agriculture shall issue final regulations to implement the amendments made by subsection (b) \[amending this section\].”
 
 #### Review of Local Policies on Meal Charges and Provision of Alternate Meals
 
@@ -1474,15 +1474,15 @@ Pub. L. 96–499, title II, §203(a)–(c), Dec. 5, 1980, 94 Stat. 2600, as amen
 
 #### Verification of Eligibility Data Submitted on a Sample of Applications for Free and Reduced-Price Meals
 
-Section 803(c) of Pub. L. 97–35 provided that: “Notwithstanding any other provision of law, the Secretary of Agriculture shall conduct a pilot study to verify the data submitted on a sample of applications for free and reduced-price meals. In conducting the pilot study, the Secretary may require households included in the study to furnish social security numbers of all household members and such other information as the Secretary may require, including, but not limited to, pay stubs, documentation of the current status of household members who are recipients of public assistance, unemployment insurance documents, and written statements from employers, as a condition for receipt of free or reduced-price meals.”
+Pub. L. 97–35, title VIII, §803(c), Aug. 13, 1981, 95 Stat. 525, provided that: “Notwithstanding any other provision of law, the Secretary of Agriculture shall conduct a pilot study to verify the data submitted on a sample of applications for free and reduced-price meals. In conducting the pilot study, the Secretary may require households included in the study to furnish social security numbers of all household members and such other information as the Secretary may require, including, but not limited to, pay stubs, documentation of the current status of household members who are recipients of public assistance, unemployment insurance documents, and written statements from employers, as a condition for receipt of free or reduced-price meals.”
 
 #### Procedures for Implementing New Income Eligibility Guidelines for Free and Reduced-Price Lunches
 
-Section 803(d) of Pub. L. 97–35 provided that for school year ending June 30, 1982, Secretary could prescribe procedures for implementing the revisions made by section 803 of Pub. L. 97–35, amending this section, to the income eligibility guidelines for free and reduced-price lunches under this section, and that such procedures could allow school food authorities to useapplications distributed at beginning of school year when making eligibility determinations or to distribute new applications.
+Pub. L. 97–35, title VIII, §803(d), Aug. 13, 1981, 95 Stat. 526, provided that for school year ending June 30, 1982, Secretary could prescribe procedures for implementing the revisions made by section 803 of Pub. L. 97–35, amending this section, to the income eligibility guidelines for free and reduced-price lunches under this section, and that such procedures could allow school food authorities to use applications distributed at beginning of school year when making eligibility determinations or to distribute new applications.
 
 #### Lowering Minimum Standard of Eligibility and Reduction in Number of Children Served, Fiscal Year 1972
 
-Section 6 of Pub. L. 92–153 provided that: “The Secretary shall not lower minimum standards of eligibility for free and reduced price meals nor require a reduction in the number of children served in any school district during a fiscal year to be effective for that fiscal year. This section shall apply to fiscal year 1972.”
+Pub. L. 92–153, §6, Nov. 5, 1971, 85 Stat. 420, provided that: “The Secretary shall not lower minimum standards of eligibility for free and reduced price meals nor require a reduction in the number of children served in any school district during a fiscal year to be effective for that fiscal year. This section shall apply to fiscal year 1972.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “be”.</i>
 

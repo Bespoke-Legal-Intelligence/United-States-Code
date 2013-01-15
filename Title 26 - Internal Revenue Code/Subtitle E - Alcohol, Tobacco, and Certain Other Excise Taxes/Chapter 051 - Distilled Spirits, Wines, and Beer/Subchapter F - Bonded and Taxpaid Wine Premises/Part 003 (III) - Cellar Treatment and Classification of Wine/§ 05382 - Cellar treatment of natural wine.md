@@ -56,7 +56,7 @@ The practices and procedures specifically enumerated in this subsection shall be
 
 &emsp;&emsp;(B) to natural fruit wine (other than grape or berry) of the winemaker's own production, of volatile fruit-flavor concentrate produced from the same kind of fruit at such a plant,
 
-> &emsp;so long as the proportion of the volatile fruit-flavor concentrate to the wine does not exceedthe proportion of the volatile fruit-flavor concentrate to the original juice or must from which it was produced. The transfer of volatile fruit-flavor concentrate from a plant qualified under section 5511 to a bonded wine cellar and its storage and use in such a cellar shall be under such applications and bonds, and under such other requirements, as may be provided in regulations prescribed by the Secretary.
+> &emsp;so long as the proportion of the volatile fruit-flavor concentrate to the wine does not exceed the proportion of the volatile fruit-flavor concentrate to the original juice or must from which it was produced. The transfer of volatile fruit-flavor concentrate from a plant qualified under section 5511 to a bonded wine cellar and its storage and use in such a cellar shall be under such applications and bonds, and under such other requirements, as may be provided in regulations prescribed by the Secretary.
 
 #### (c) Other authorized treatment
 
@@ -106,5 +106,5 @@ Amendment by Pub. L. 89–44 effective Jan. 1, 1966, see section 806(d)(2) of Pu
 
 #### Effective Date of 1964 Amendment
 
-Section 4 of Pub. L. 88–653 provided that: “The amendments made by the first section \[amending this section\] and sections 2 and 3 of this Act \[amending this section and section 5511 of this title\] shall take effect on the first day of the second month which begins more than 10 days after the date on which this Act is enacted \[Oct. 13, 1964\].”
+Pub. L. 88–653, §4, Oct. 13, 1964, 78 Stat. 1085, provided that: “The amendments made by the first section \[amending this section\] and sections 2 and 3 of this Act \[amending this section and section 5511 of this title\] shall take effect on the first day of the second month which begins more than 10 days after the date on which this Act is enacted \[Oct. 13, 1964\].”
 

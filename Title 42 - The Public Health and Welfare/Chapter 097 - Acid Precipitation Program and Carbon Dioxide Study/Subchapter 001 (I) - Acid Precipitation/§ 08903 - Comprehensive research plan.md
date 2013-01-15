@@ -54,7 +54,7 @@ The Task Force shall convene as necessary, but no less than twice during each fi
 
 #### (e) Submission of annual report to President and Congress by Task Force
 
-The Task Force shall submit to the President and the Congress by January 15 of each year an annual report which shall detail the progress of the research program under this subchapter and which shall contain such recommendations as are developed under subsection (b)(14) of this section.
+The Task Force shall submit to the President and the Congress by January 15 of each year anannual report which shall detail the progress of the research program under this subchapter and which shall contain such recommendations as are developed under subsection (b)(14) of this section.
 
 #### (f) Applicability of other statutory provisions to Task Force or plan
 

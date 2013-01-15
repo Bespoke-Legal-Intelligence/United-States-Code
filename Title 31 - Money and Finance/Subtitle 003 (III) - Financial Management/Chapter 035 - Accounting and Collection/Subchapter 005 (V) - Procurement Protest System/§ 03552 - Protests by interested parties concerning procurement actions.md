@@ -6,7 +6,7 @@
 
 (2) The determination of an agency tender official under paragraph (1) whether or not to file a protest is not subject to administrative or judicial review. An agency tender official shall provide written notification to Congress whenever the official makes a determination under paragraph (1) that there is no reasonable basis for a protest.
 
-(Added Pub. L. 98–369, div. B, title VII, §2741(a), July 18, 1984, 98 Stat. 1199; amended Pub. L. 103–272, §4(f)(1)(L), July 5, 1994, 108 Stat. 1362; Pub. L. 103–355, title X, §10005(d), Oct. 13, 1994, 108 Stat. 3408; Pub. L. 104–106, div. E, title LVI, §5603, Feb. 10, 1996, 110 Stat. 700; Pub. L. 108–375, div. A, title III, §326(b), Oct. 28, 2004, 118 Stat. 1848.)
+(Added Pub. L. 98–369, div. B, title VII, §2741(a), July 18, 1984, 98 Stat. 1199; amended Pub. L. 103–272, §4(f)(1)(L), July 5, 1994, 108 Stat. 1362; Pub. L. 103–355, title X, §10005(d), Oct. 13, 1994, 108 Stat. 3408; Pub. L. 104–106, div. E, title LVI, §5603, Feb. 10, 1996, 110 Stat. 700; Pub. L. 108–375,div. A, title III, §326(b), Oct. 28, 2004, 118 Stat. 1848.)
 
 #### Amendments
 

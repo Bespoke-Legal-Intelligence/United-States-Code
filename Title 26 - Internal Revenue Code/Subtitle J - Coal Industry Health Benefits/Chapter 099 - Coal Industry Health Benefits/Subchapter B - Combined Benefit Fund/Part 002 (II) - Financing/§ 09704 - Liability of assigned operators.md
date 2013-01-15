@@ -18,7 +18,7 @@ For purposes of this chapter—
 
 #### (1) In general
 
-&emsp;The health benefit premium for any plan year for any assigned operator shall be an amount equal to the product of the per beneficiary premium for the plan year multiplied by the number of eligible beneficiaries assigned to such operator under section 9706.
+&emsp;The health benefit premium for any plan year for any assigned operator shall be anamount equal to the product of the per beneficiary premium for the plan year multiplied by the number of eligible beneficiaries assigned to such operator under section 9706.
 
 #### (2) Per beneficiary premium
 
@@ -54,7 +54,7 @@ The death benefit premium for any plan year for any assigned operator shall be e
 
 #### (B) Inadequate transfers
 
-&emsp;&emsp;If, for any plan year beginning on or after October 1, 2006, the amounts transferred under section 9705(b) are less than the amounts required to be transferred to the Combined Fund under subsection (h)(2)(A) or (i) of section 402 of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1232)),<sup>1</sup> then the unassigned beneficiariespremium for any assigned operator shall be equal to the operator's applicable percentage of the amount required to be so transferred which was not so transferred.
+&emsp;&emsp;If, for any plan year beginning on or after October 1, 2006, the amounts transferred under section 9705(b) are less than the amounts required to be transferred to the Combined Fund under subsection (h)(2)(A) or (i) of section 402 of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1232)),<sup>1</sup> then the unassigned beneficiaries premium for any assigned operator shall be equal to the operator's applicable percentage of the amount required to be so transferred which was not so transferred.
 
 #### (e) Premium accounts; adjustments
 
@@ -88,7 +88,7 @@ The death benefit premium for any plan year for any assigned operator shall be e
 
 #### (C) No authority for increased payments
 
-&emsp;&emsp;Nothing in this paragraph shall be construed to allow expenditures for health care benefits for any plan year in excess of the limit under section 9703(b)(2).
+&emsp;&emsp;Nothing in this paragraph shall be construed to allow expenditures for health carebenefits for any plan year in excess of the limit under section 9703(b)(2).
 
 #### (f) Applicable percentage
 

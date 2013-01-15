@@ -40,5 +40,5 @@ Subsec. (c)(2), (3). Pub. L. 101–510, §2852(a), added par. (2) and struck out
 
 #### Submission Date for First Report
 
-Section 801(a)(3) of Pub. L. 97–321 required the first report under subsec. (b)(2) of this section to be submitted not later than two years after Oct. 15, 1982.
+Pub. L. 97–321, title VIII, §801(a)(3), Oct. 15, 1982, 96 Stat. 1571, required the first report under subsec. (b)(2) of this section to be submitted not later than two years after Oct. 15, 1982.
 

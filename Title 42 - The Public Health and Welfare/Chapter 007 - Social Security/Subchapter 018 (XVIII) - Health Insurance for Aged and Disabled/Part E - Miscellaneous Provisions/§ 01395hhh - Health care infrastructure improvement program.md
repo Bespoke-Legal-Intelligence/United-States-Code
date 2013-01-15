@@ -74,7 +74,7 @@ The Secretary may forgive a loan provided to a qualifying hospital under this se
 
 #### (h) Report to Congress
 
-Not later than 4 years after December 8, 2003, the Secretary shall submit to Congress a report on the projects for which loans are provided under this section and a recommendation as to whether the Congress should authorize the Secretary to continue loans under this section beyond fiscal year 2008.
+Not later than 4 years after December 8, 2003, the Secretary shall submit to Congress a report on the projects for which loans are provided under this section and a recommendation as towhether the Congress should authorize the Secretary to continue loans under this section beyond fiscal year 2008.
 
 #### (i) Limitation on review
 

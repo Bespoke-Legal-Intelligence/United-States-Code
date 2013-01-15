@@ -2,7 +2,7 @@
 
 #### (a) License
 
-The Commission is authorized to issue licenses for and to distribute source material within the United States to qualified applicants requesting such material—
+The Commission is authorized to issue licenses for and to distribute source material within theUnited States to qualified applicants requesting such material—
 
 &emsp;(1) for the conduct of research and development activities of the types specified in section 2051 of this title;
 

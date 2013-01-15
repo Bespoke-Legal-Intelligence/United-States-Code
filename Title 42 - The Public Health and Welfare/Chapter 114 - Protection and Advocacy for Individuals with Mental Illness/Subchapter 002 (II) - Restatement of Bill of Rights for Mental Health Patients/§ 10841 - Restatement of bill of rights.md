@@ -10,7 +10,7 @@ It is the sense of the Congress that, as previously stated in title V of the Men
 
 &emsp;&emsp;&emsp;(ii) restrict such liberty only to the extent necessary consistent with such person's treatment needs, applicable requirements of law, and applicable judicial orders.
 
-&emsp;&emsp;(B) The right to an individualized, written, treatment or service plan (such plan to be developed promptly after admission of such person), the right to treatment based on such plan, the right to periodic review and reassessment of treatment and related service needs, and the right to appropriate revision of such plan, including any revision necessary to provide a description of mentalhealth services that may be needed after such person is discharged from such program or facility.
+&emsp;&emsp;(B) The right to an individualized, written, treatment or service plan (such plan to be developed promptly after admission of such person), the right to treatment based on such plan, the right to periodic review and reassessment of treatment and related service needs, and the right to appropriate revision of such plan, including any revision necessary to provide a description of mental health services that may be needed after such person is discharged from such program or facility.
 
 &emsp;&emsp;(C) The right to ongoing participation, in a manner appropriate to such person's capabilities, in the planning of mental health services to be provided such person (including the right to participate in the development and periodic revision of the plan described in subparagraph (B)), and, in connection with such participation, the right to be provided with a reasonable explanation, in terms and language appropriate to such person's condition and ability to understand, of—
 
@@ -76,7 +76,7 @@ It is the sense of the Congress that, as previously stated in title V of the Men
 
 &emsp;(B) Nothing in this section should—
 
-&emsp;&emsp;(i) obligate an individual mental health or health professional to administer treatment contrary to such professional's clinical judgment;
+&emsp;&emsp;(i) obligate an individual mental health or health professional to administer treatmentcontrary to such professional's clinical judgment;
 
 &emsp;&emsp;(ii) prevent any program or facility from discharging any person for whom the provision of appropriate treatment, consistent with the clinical judgment of the mental health professional primarily responsible for such person's treatment, is or has become impossible as a result of such person's refusal to consent to such treatment;
 

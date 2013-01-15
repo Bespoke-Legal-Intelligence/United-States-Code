@@ -2,7 +2,7 @@
 
 (a) No eligible person shall be entitled to receive more than one automobile or other conveyance under the provisions of this chapter, and no payment shall be made under this chapter for the repair, maintenance, or replacement of an automobile or other conveyance.
 
-(b) Except as provided in subsection (d) of section 3902 of this title, no eligible person shall be provided an automobile or other conveyance under this chapter until it is established to the satisfaction of the Secretary, in accordance with regulations the Secretary shall prescribe, that the eligible person will be able to operate the automobile or other conveyance in a manner consistent with such person's own safety and the safety of others and will satisfy the applicable standards of licensure to operate the automobile or other conveyance established by the State of such person's residency or other proper licensing authority.
+(b) Except as provided in subsection (d) of section 3902 of this title, no eligible person shall be provided an automobile or other conveyance under this chapter until it is established to thesatisfaction of the Secretary, in accordance with regulations the Secretary shall prescribe, that the eligible person will be able to operate the automobile or other conveyance in a manner consistent with such person's own safety and the safety of others and will satisfy the applicable standards of licensure to operate the automobile or other conveyance established by the State of such person's residency or other proper licensing authority.
 
 (c)(1) An eligible person shall not be entitled to adaptive equipment under this chapter for more than two automobiles or other conveyances at any one time or (except as provided in paragraph (2) of this subsection) during any four-year period.
 
@@ -16,13 +16,35 @@
 
 (3) Notwithstanding any other provision of law, the Secretary may obtain, by purchase, lease, gift, or otherwise, any automobile, motor vehicle, or other conveyance deemed necessary to carry out the purposes of this subsection, and may sell, assign, transfer, or convey any such automobile, vehicle, or conveyance to which the Department obtains title for such price and upon such terms as the Secretary deems appropriate; and any proceeds received from any such disposition shall be credited to the applicable Department appropriation.
 
-(Added Pub. L. 91–666, §2(a), Jan. 11, 1971, 84 Stat. 2000, §1903; amended Pub. L. 93–538, §4(a), (b), Dec. 22, 1974, 88 Stat. 1736, 1737; Pub. L. 94–581, title I, §108, Oct. 21, 1976, 90 Stat. 2847; Pub. L. 97–66, title III, §303, Oct. 17, 1981, 95 Stat. 1030; Pub. L. 98–543, title III, §305(b), Oct. 24, 1984, 98 Stat. 2748; renumbered §3903 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 106–117, title VIII, §804, Nov. 30, 1999, 113 Stat. 1586.)
+(Added Pub. L. 91–666, §2(a), Jan. 11, 1971, 84 Stat. 2000, §1903; amended Pub. L. 93–538, §4(a), (b), Dec. 22, 1974, 88 Stat. 1736, 1737; Pub. L. 94–581, title I, §108, Oct. 21, 1976, 90 Stat. 2847; Pub. L. 97–66, title III, §303, Oct. 17, 1981, 95 Stat. 1030; Pub. L. 98–543, title III, §305(b), Oct. 24, 1984, 98 Stat. 2748; renumbered §3903 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 106–117, title VIII, §804, Nov. 30, 1999, 113 Stat. 1586; Pub. L. 112–154, title VII, §701(e), Aug. 6, 2012, 126 Stat. 1204.)
+
+#### Amendment of Subsection (a)
+
+<i>Pub. L. 112–154, title VII, §701(e), (g), Aug. 6, 2012, 126 Stat. 1204, 1205, provided that, effective on the date that is one year after Aug. 6, 2012, subsection (a) of this section is amended as follows:</i>
+
+<i>(1) by striking “No” and inserting “(1) Except as provided in paragraph (2), no”; and</i>
+
+<i>(2) by adding at the end the following new paragraph:</i>
+
+<i>(2) The Secretary may provide or assist in providing an eligible person with a second automobile or other conveyance under this chapter if—</i>
+
+&emsp;<i>(A) the Secretary receives satisfactory evidence that the automobile or other conveyance previously purchased with assistance under this chapter was destroyed—</i>
+
+&emsp;&emsp;<i>(i) as a result of a natural or other disaster, as determined by the Secretary; and</i>
+
+&emsp;&emsp;<i>(ii) through no fault of the eligible person; and</i>
+
+&emsp;<i>(B) the eligible person does not otherwise receive from a property insurer compensation for the loss.</i>
+
+<i>See 2012 Amendment note below.</i>
 
 #### Prior Provisions
 
 Provisions similar to those comprising this section were contained in former sections 1902 and 1904 of this title prior to the general revision of this chapter by Pub. L. 91–666.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a). Pub. L. 112–154 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), no” for “No” and added par. (2).
 
 <b>1999</b>—Subsec. (e)(2). Pub. L. 106–117 struck out “(not owned by the Government)” after “automobiles and other conveyances”.
 
@@ -56,9 +78,13 @@ Subsec. (e)(3). Pub. L. 94–581, §108(2), added par. (3).
 
 Subsec. (e). Pub. L. 93–538, §4(a), added subsec. (e).
 
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–154 effective on the date that is one year after Aug. 6, 2012, see section 701(g) of Pub. L. 112–154, set out as an Effective Date note under section 2109 of this title.
+
 #### Effective Date of 1984 Amendment
 
-Section 305(c) of Pub. L. 98–543 provided that:
+Pub. L. 98–543, title III, §305(c), Oct. 24, 1984, 98 Stat. 2748, provided that:
 
 “(1) The amendments made by this section \[amending this section and section 1902 \[now 3902\] of this title\] shall take effect on January 1, 1985.
 

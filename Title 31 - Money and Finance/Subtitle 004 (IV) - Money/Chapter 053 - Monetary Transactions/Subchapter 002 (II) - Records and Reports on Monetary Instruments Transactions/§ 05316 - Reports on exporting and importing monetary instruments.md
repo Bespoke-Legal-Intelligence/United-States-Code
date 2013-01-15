@@ -70,5 +70,5 @@ Subsec. (d). Pub. L. 99–570, §1358(a), added subsec. (d).
 
 #### Effective Date of Regulations Prescribed Under 1986 Amendment
 
-Section 1364(d) of Pub. L. 99–570 provided that: “Any regulation prescribed under the amendments made by section 1358 \[amending this section\] shall apply with respect to transactions completed after the effective date of such regulation.”
+Pub. L. 99–570, title I, §1364(d), Oct. 27, 1986, 100 Stat. 3207–34, provided that: “Any regulation prescribed under the amendments made by section 1358 \[amending this section\] shall apply with respect to transactions completed after the effective date of such regulation.”
 

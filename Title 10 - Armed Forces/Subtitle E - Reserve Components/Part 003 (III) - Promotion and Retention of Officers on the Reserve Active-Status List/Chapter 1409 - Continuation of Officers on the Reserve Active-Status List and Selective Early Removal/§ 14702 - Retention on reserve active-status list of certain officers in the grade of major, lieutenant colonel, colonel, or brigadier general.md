@@ -2,7 +2,7 @@
 
 (a)
 
-Retention.—Notwithstanding the provisions of section 14506, 14507, or 14508 of this title,the Secretary of the military department concerned may, with the officer's consent, retain on the reserve active-status list an officer in the grade of major, lieutenant colonel, colonel, or brigadier general who is—
+Retention.—Notwithstanding the provisions of section 14506, 14507, or 14508 of this title, the Secretary of the military department concerned may, with the officer's consent, retain on the reserve active-status list an officer in the grade of major, lieutenant colonel, colonel, or brigadier general who is—
 
 &emsp;(1) an officer of the Army National Guard of the United States and assigned to a headquarters or headquarters detachment of a State; or
 

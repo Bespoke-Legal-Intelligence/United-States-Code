@@ -24,7 +24,7 @@ The Secretary shall carry out section 1320d–2 of this title not later than 18 
 
 #### (ii) Additional rules
 
-&emsp;&emsp;&emsp;If a code set is modified under this subsection, the modified code set shall include instructions on how data elements of health information that were encoded prior to the modification may be converted or translated so as to preserve the informational value of the data elements that existed before the modification. Any modification to a code set under this subsection shall be implemented in a manner that minimizes the disruption and cost of complying with such modification.
+&emsp;&emsp;&emsp;If a code set is modified under this subsection, the modified code set shall includeinstructions on how data elements of health information that were encoded prior to the modification may be converted or translated so as to preserve the informational value of the data elements that existed before the modification. Any modification to a code set under this subsection shall be implemented in a manner that minimizes the disruption and cost of complying with such modification.
 
 (Aug. 14, 1935, ch. 531, title XI, §1174, as added Pub. L. 104–191, title II, §262(a), Aug. 21, 1996, 110 Stat. 2026.)
 

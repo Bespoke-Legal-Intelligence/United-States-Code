@@ -72,7 +72,7 @@ In general.—No grant may be made or renewed under this part to any State or lo
 
 &emsp;(2)
 
-Scope of application.—Paragraph (1) shall not apply to any amount received by aState or local law enforcement agency or prosecutor pursuant to any criminal or civil forfeiture referred to in such paragraph in excess of the aggregate amount of grants received by such agency or prosecutor under this part.
+Scope of application.—Paragraph (1) shall not apply to any amount received by a State or local law enforcement agency or prosecutor pursuant to any criminal or civil forfeiture referred to in such paragraph in excess of the aggregate amount of grants received by such agency or prosecutor under this part.
 
 (d)
 

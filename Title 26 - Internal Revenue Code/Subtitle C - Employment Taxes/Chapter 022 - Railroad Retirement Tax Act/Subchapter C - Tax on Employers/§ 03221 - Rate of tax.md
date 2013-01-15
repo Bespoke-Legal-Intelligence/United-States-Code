@@ -60,7 +60,7 @@ In addition to other taxes, there is hereby imposed on every employer an excise 
 
 &emsp;&emsp;<b>For application of different contribution bases with respect to the taxes imposed by subsections (a) and (b), see section 3231(e)(2).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 433; Aug. 31, 1954, ch. 1164, pt. II, §206(a), 68 Stat. 1040; Pub. L. 86–28, pt. II, §201(d), May 19, 1959, 73 Stat. 29; Pub. L. 88–133, title II, §202, Oct. 5, 1963, 77 Stat.221; Pub. L. 89–97, title I, §§105(b)(3), 111(c)(3), July 30, 1965, 79 Stat. 335, 342; Pub. L. 89–212, §§4, 5(c), Sept. 29, 1965, 79 Stat. 861, 862; Pub. L. 89–699, title III, §301(c), (e), Oct. 30, 1966, 80 Stat. 1078; Pub. L. 89–700, title III, §§301(iii), (v), (vi), 302, Oct. 30, 1966, 80 Stat. 1088, 1089; Pub. L. 91–215, §5(a), (b)(1), Mar. 17, 1970, 84 Stat. 71; Pub. L. 93–69, title I, §102(d)–(f), July 10, 1973, 87 Stat. 162, 163; Pub. L. 93–445, title V, §501, Oct. 16, 1974, 88 Stat. 1359; Pub. L. 94–93, title II, §203, Aug. 9, 1975, 89 Stat. 466; Pub. L. 94–455, title XIX, §§1903(a)(9), 1906(b)(13)(G), Oct. 4, 1976, 90 Stat. 1808, 1835; Pub. L. 97–34, title VII, §741(c), Aug. 13, 1981, 95 Stat. 347; Pub. L. 98–76, title II, §§211(b), 222, Aug. 12, 1983, 97 Stat. 419, 420; Pub. L. 100–203, title IX, §9032(a), Dec. 22, 1987, 101 Stat. 1330–296; Pub. L. 101–508, title V, §5125(c), Nov. 5, 1990, 104 Stat. 1388–286; Pub. L. 107–90, title II, §§203(b), 204(a), Dec. 21, 2001, 115 Stat. 891; Pub. L. 111–147, title I, §101(d)(1), Mar. 18, 2010, 124 Stat. 74.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 433; Aug. 31, 1954, ch. 1164, pt. II, §206(a), 68 Stat. 1040; Pub. L. 86–28, pt. II, §201(d), May 19, 1959, 73 Stat. 29; Pub. L. 88–133, title II, §202, Oct. 5, 1963, 77 Stat. 221; Pub. L. 89–97, title I, §§105(b)(3), 111(c)(3), July 30, 1965, 79 Stat. 335, 342; Pub. L. 89–212, §§4, 5(c), Sept. 29, 1965, 79 Stat. 861, 862; Pub. L. 89–699, title III, §301(c), (e), Oct. 30, 1966, 80 Stat. 1078; Pub. L. 89–700, title III, §§301(iii), (v), (vi), 302, Oct. 30, 1966, 80 Stat. 1088, 1089; Pub. L. 91–215, §5(a), (b)(1), Mar. 17, 1970, 84 Stat. 71; Pub. L. 93–69, title I, §102(d)–(f), July 10, 1973, 87 Stat. 162, 163; Pub. L. 93–445, title V, §501, Oct. 16, 1974, 88 Stat. 1359; Pub. L. 94–93, title II, §203, Aug. 9, 1975, 89 Stat. 466; Pub. L. 94–455, title XIX, §§1903(a)(9), 1906(b)(13)(G), Oct. 4, 1976, 90 Stat. 1808, 1835; Pub. L. 97–34, title VII, §741(c), Aug. 13, 1981, 95 Stat. 347; Pub. L. 98–76, title II, §§211(b), 222, Aug. 12, 1983, 97 Stat. 419, 420; Pub. L. 100–203, title IX, §9032(a), Dec. 22, 1987, 101 Stat. 1330–296; Pub. L. 101–508, title V, §5125(c), Nov. 5, 1990, 104 Stat. 1388–286; Pub. L. 107–90, title II, §§203(b), 204(a), Dec. 21, 2001, 115 Stat. 891; Pub. L. 111–147, title I, §101(d)(1), Mar. 18, 2010, 124 Stat. 74.)
 
 #### References in Text
 
@@ -116,7 +116,7 @@ Subsec. (c). Pub. L. 94–455, §§1903(a)(9)(C), 1906(b)(13)(G), struck out “
 
 Subsec. (d). Pub. L. 93–445, §501(b), substituted “section 2(b) of the Railroad Retirement Act of 1974” for “section 3(j) of the Railroad Retirement Act of 1937” and “section 2(b) of such Act” for “section 3(j) of such Act”.
 
-<b>1973</b>—Subsec. (a). Pub. L. 93–69, §102(d), (e), substituted new tax rate provisions on employers for services rendered after Sept. 30, 1973, for former provisions which prescribed 6¼, 6½, 7, 7¼, and 7½ percent on income for services rendered after Sept. 30, 1965; Dec. 31, 1965; Dec. 31, 1966; Dec. 31, 1967; and Dec. 31, 1968, respectively, as is, with respect to any employee for any calendar month, not in excess of (i) $450, or (ii) an amount equal to one-twelfth of the current maximum annual taxable “wages” as defined in section 3121 of the Internal Revenue Code of 1954, whichever is greater, for any month after Sept. 30, 1965, and, in first sentence, substituted “1973” for “1965” wherever appearing, struck out “(i) $450, or (ii)” before “an amount equal to” in two places, and struck out “, whichever is greater,”after “Internal Revenue Code of 1954” in two places, respectively.
+<b>1973</b>—Subsec. (a). Pub. L. 93–69, §102(d), (e), substituted new tax rate provisions on employers for services rendered after Sept. 30, 1973, for former provisions which prescribed 6¼, 6½, 7, 7¼, and 7½ percent on income for services rendered after Sept. 30, 1965; Dec. 31, 1965; Dec. 31, 1966; Dec. 31, 1967; and Dec. 31, 1968, respectively, as is, with respect to any employee for any calendar month, not in excess of (i) $450, or (ii) an amount equal to one-twelfth of the current maximum annual taxable “wages” as defined in section 3121 of the Internal Revenue Code of 1954, whichever is greater, for any month after Sept. 30, 1965, and, in first sentence, substituted “1973” for “1965” wherever appearing, struck out “(i) $450, or (ii)” before “an amount equal to” in two places, and struck out “, whichever is greater,” after “Internal Revenue Code of 1954” in two places, respectively.
 
 Subsec. (b). Pub. L. 93–69, §102(f), substituted “1973” for “1965” and “by the rate of tax imposed with respect to wages by section 3111(a) of the Internal Revenue Code of 1954 plus the rate imposed by section 3111(b) of such Code”, for “by a number of percentage points (including fractional points) equal at any given time to the number of percentage points (including fractional points) by which the rate of the tax imposed with respect to wages by section 3111(a) plus the rate imposed by section 3111(b) at such time exceeds 2¾ percent (the rate provided by paragraph (2) of section 3111 as amended by the Social Security Amendments of 1956)”.
 
@@ -146,17 +146,17 @@ Subsec. (b). Pub. L. 86–28, §201(d)(2)(C), added subsec. (b).
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–147 applicable to compensation paid after Mar. 18, 2010, see section 101(e) of Pub. L. 111–147, set out as a note under section 51 of this title.
+Amendment by Pub. L. 111–147 applicable to compensation paid after Mar. 18, 2010, see section 101(e) ofPub. L. 111–147, set out as a note under section 51 of this title.
 
 #### Effective Date of 2001 Amendment
 
 Amendment by section 203(b) of Pub. L. 107–90 applicable to calendar years beginning after Dec. 31, 2001, see section 203(c) of Pub. L. 107–90, set out as a note under section 3211 of this title.
 
-Amendment by section 204(a) of Pub. L. 107–90 applicable to calendar years beginning after Dec. 31, 2001, see section 204(f) of Pub. L. 107–90, set out as an Effective and Termination Dates of 2001 Amendments note under section 24 of this title.
+Amendment by section 204(a) of Pub. L. 107–90 applicable to calendar years beginning after Dec. 31, 2001, see section 204(f) of Pub. L. 107–90, set out as a note under section 24 of this title.
 
 #### Effective Date of 1987 Amendment
 
-Section 9032(b) of Pub. L. 100–203 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to compensation paid after December 31, 1987.”
+Pub. L. 100–203, title IX, §9032(b), Dec. 22, 1987, 101 Stat. 1330–296, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to compensation paid after December 31, 1987.”
 
 #### Effective and Termination Dates of 1983 Amendment
 
@@ -174,11 +174,11 @@ Amendment by section 1903(a)(9) of Pub. L. 94–455 applicable with respect to c
 
 #### Effective Date of 1975 Amendment
 
-Amendment by Pub. L. 94–93 applicable for taxable years ending on or after Aug. 9, 1975, and for taxableyears ending before Aug. 9, 1975, as to which the period for assessment and collection of tax or the filing of a claim for credit or refund has not expired on Aug. 9, 1975, see section 207 of Pub. L. 94–93, set out as a note under section 3201 of this title.
+Amendment by Pub. L. 94–93 applicable for taxable years ending on or after Aug. 9, 1975, and for taxable years ending before Aug. 9, 1975, as to which the period for assessment and collection of tax or the filing of a claim for credit or refund has not expired on Aug. 9, 1975, see section 207 of Pub. L. 94–93, set out as a note under section 3201 of this title.
 
 #### Effective Date of 1974 Amendment
 
-Section 604 of Pub. L. 93–445 provided that: “The amendments made by the provisions of title V of this Act \[amending this section and section 6413 of this title\] shall become effective on January 1, 1975, and shall apply only with respect to compensation paid for services rendered on or after that date.”
+Pub. L. 93–445, title VI, §604, Oct. 16, 1974, 88 Stat. 1361, provided that: “The amendments made by the provisions of title V of this Act \[amending this section and section 6413 of this title\] shall become effective on January 1, 1975, and shall apply only with respect to compensation paid for services rendered on or after that date.”
 
 #### Effective Date of 1973 Amendment
 
@@ -210,5 +210,5 @@ For provision that no penalties or interest shall be assessed on account of any 
 
 #### Excise Taxes on Employers; Employees Covered by Certain Supplemental Pension Plans
 
-Section 5(b)(2) of Pub. L. 91–215 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to (A) supplemental annuities paid on or after April 1, 1970, and (B) man-hours with respect to which compensation is paid for services rendered to such employer on or after such day.”
+Pub. L. 91–215, §5(b)(2), Mar. 17, 1970, 84 Stat. 71, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to (A) supplemental annuities paid on or after April 1, 1970, and (B) man-hours with respect to which compensation is paid for services rendered to such employer on or after such day.”
 

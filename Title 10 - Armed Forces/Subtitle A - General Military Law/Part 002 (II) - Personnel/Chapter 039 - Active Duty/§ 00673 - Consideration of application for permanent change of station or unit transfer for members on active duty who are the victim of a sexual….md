@@ -2,7 +2,7 @@
 
 (a)
 
-Timely Consideration and Action.—The Secretary concerned shall provide for timely determination and action on an application for consideration of a change of station or unit transfer submitted by a member of the armed forces serving on active duty who was a victim of a sexual assault or other offense covered by section 920, 920a, or 920c of this title (article 120, 120a, or 120c) so as to reduce the possibility of retaliation against the member for reporting the sexual assault or other offense.
+Timely Consideration and Action.—The Secretary concerned shall provide for timely determination and action on an application for consideration of a change of station or unittransfer submitted by a member of the armed forces serving on active duty who was a victim of a sexual assault or other offense covered by section 920, 920a, or 920c of this title (article 120, 120a, or 120c) so as to reduce the possibility of retaliation against the member for reporting the sexual assault or other offense.
 
 (b)
 

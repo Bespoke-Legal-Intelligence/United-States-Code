@@ -24,7 +24,7 @@ Section 1855jjj, Pub. L. 91–79, §11, Oct. 1, 1969, 83 Stat. 129, authorized t
 
 Section 1855kkk, Pub. L. 91–79, §12, Oct. 1, 1969, 83 Stat. 129, provided for unemployment assistance to persons unemployed as result of a major disaster.
 
-Section 1855<i>lll</i>, Pub. L. 91–79, §13, Oct. 1, 1969, 83 Stat. 129, covered grants and loans for funds used in the suppression of fire on forest or grass lands which threatens destruction as to constitute a major disaster.
+Section 1855lll, Pub. L. 91–79, §13, Oct. 1, 1969, 83 Stat. 129, covered grants and loans for funds used in the suppression of fire on forest or grass lands which threatens destruction as to constitute a major disaster.
 
 Section 1855mmm, Pub. L. 91–79, §14, Oct. 1, 1969, 83 Stat. 130, authorized grants for removal of debris.
 

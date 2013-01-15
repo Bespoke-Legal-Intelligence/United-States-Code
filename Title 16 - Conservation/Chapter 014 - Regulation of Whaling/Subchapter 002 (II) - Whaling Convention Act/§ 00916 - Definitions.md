@@ -24,21 +24,21 @@ When used in this subchapter—
 
 (k) Regulations of the Commission: The words “regulations of the Commission” mean the whaling regulations in the schedule annexed to and constituting a part of the convention in their original form or as modified, revised, or amended by the Commission from time to time, in pursuance of article V of the convention.
 
-(<i>l</i>) Regulations of the Secretary of Commerce: The words “regulations of the Secretary of Commerce” mean such regulations as may be issued by the Secretary of Commerce, from time to time, in accordance with sections 916i and 916j of this title.
+(l) Regulations of the Secretary of Commerce: The words “regulations of the Secretary of Commerce” mean such regulations as may be issued by the Secretary of Commerce, from time to time, in accordance with sections 916i and 916j of this title.
 
 (Aug. 9, 1950, ch. 653, §2, 64 Stat. 421; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
 
 #### Short Title
 
-Section 1 of act Aug. 9, 1950, provided: “That this Act \[enacting this subchapter\] may be cited as the ‘Whaling Convention Act of 1949’.”
+Act Aug. 9, 1950, ch. 653, §1, 64 Stat. 421, provided: “That this Act \[enacting this subchapter\] may be cited as the ‘Whaling Convention Act of 1949’.”
 
 #### Separability
 
-Section 15 of act Aug. 9, 1950, provided that: “If any provision of this Act \[this subchapter\] or the application of such provisions to any circumstances or persons shall be held invalid, the validity of the remainder of the Act and the applicability of such provision to other circumstances or persons shall not be affected thereby.”
+Act Aug. 9, 1950, ch. 653, §15, 64 Stat. 425, provided that: “If any provision of this Act \[this subchapter\] orthe application of such provisions to any circumstances or persons shall be held invalid, the validity of the remainder of the Act and the applicability of such provision to other circumstances or persons shall not be affected thereby.”
 
 #### Transfer of Functions
 
-In subsec. (<i>l</i>), “Secretary of Commerce” substituted for “Secretary of the Interior” in view of: creation of National Oceanic and Atmospheric Administration in Department of Commerce and Office of Administrator of such Administration; abolition of Bureau of Commercial Fisheries in Department of the Interior and Office of Director of such Bureau; transfers of functions, including functions formerly vested by law in Secretary of the Interior or Department of the Interior which were administered through Bureau of Commercial Fisheries or were primarily related to such Bureau, exclusive of certain enumerated functions with respect to Great Lakes fishery research, Missouri River Reservoir research, Gulf Breeze Biological Laboratory, and Trans-Alaska pipeline investigations; and transfer of marine sport fish program of Bureau of Sport Fisheries and Wildlife by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5, Government Organization and Employees.
+In subsec. (l), “Secretary of Commerce” substituted for “Secretary of the Interior” in view of: creation of National Oceanic and Atmospheric Administration in Department of Commerce and Office of Administrator of such Administration; abolition of Bureau of Commercial Fisheries in Department of the Interior and Office of Director of such Bureau; transfers of functions, including functions formerly vested by law in Secretary of the Interior or Department of the Interior which were administered through Bureau of Commercial Fisheries or were primarily related to such Bureau, exclusive of certain enumerated functions with respect to Great Lakes fishery research, Missouri River Reservoir research, Gulf Breeze Biological Laboratory, and Trans-Alaska pipeline investigations; and transfer of marine sport fish program of Bureau of Sport Fisheries and Wildlife by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Wildlife Sanctuary for Humpback Whales in West Indies
 

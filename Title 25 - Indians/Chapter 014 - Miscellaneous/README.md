@@ -491,7 +491,7 @@
 | [637\.](Subchapter%20021%20%28XXI%29%20-%20Navajo%20and%20Hopi%20Tribes%20Rehabilitation/%C2%A7%2000637%20-%20Use%20of%20Navajo%20tribal%20funds.md) | Use of Navajo tribal funds. |
 | [638\.](Subchapter%20021%20%28XXI%29%20-%20Navajo%20and%20Hopi%20Tribes%20Rehabilitation/%C2%A7%2000638%20-%20Participation%20by%20Tribal%20Councils%3B%20recommendations.md) | Participation by Tribal Councils; recommendations. |
 | 639, 640. | Repealed. |
-| [640a.](Subchapter%20021%20%28XXI%29%20-%20Navajo%20and%20Hopi%20Tribes%20Rehabilitation/%C2%A7%2000640a%20-%20Dine%EF%BF%BDAE1%20College%3B%20purpose.md) | Dine�AE1 College; purpose. |
+| [640a.](Subchapter%20021%20%28XXI%29%20-%20Navajo%20and%20Hopi%20Tribes%20Rehabilitation/%C2%A7%2000640a%20-%20Din%C3%A9%20College%3B%20purpose.md) | Diné College; purpose. |
 | [640b.](Subchapter%20021%20%28XXI%29%20-%20Navajo%20and%20Hopi%20Tribes%20Rehabilitation/%C2%A7%2000640b%20-%20Grants.md) | Grants. |
 | [640c.](Subchapter%20021%20%28XXI%29%20-%20Navajo%20and%20Hopi%20Tribes%20Rehabilitation/%C2%A7%2000640c%20-%20Study%20of%20facilities%20needs.md) | Study of facilities needs. |
 | 640c–1. | Authorization of appropriations. |
@@ -1598,13 +1598,13 @@
 |  |  |
 | :--- | ---: |
 | 1300<i>l.</i> | Restoration of Federal recognition, rights, and privileges. |
-| 1300<i>l</i>–1. | Economic development. |
-| 1300<i>l</i>–2. | Transfer of land to be held in trust. |
-| 1300<i>l</i>–3. | Membership rolls. |
-| 1300<i>l</i>–4. | Interim government. |
-| 1300<i>l</i>–5. | Tribal constitution. |
-| 1300<i>l</i>–6. | Definitions. |
-| 1300<i>l</i>–7. | Regulations. |
+| 1300l–1. | Economic development. |
+| 1300l–2. | Transfer of land to be held in trust. |
+| 1300l–3. | Membership rolls. |
+| 1300l–4. | Interim government. |
+| 1300l–5. | Tribal constitution. |
+| 1300l–6. | Definitions. |
+| 1300l–7. | Regulations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

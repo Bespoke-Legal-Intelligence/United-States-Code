@@ -14,7 +14,7 @@ salaries, officers and employees” may be transferred among and merged with the
 
 #### (c) Transfers among various appropriations headings
 
-(1) Amounts appropriated for any fiscal year for the House of Representatives under the headings specified in paragraph (2) may be transferred among and merged with such headings, effective upon the expiration of the 21-day period (or such alternative period that may be imposed by the Committee on Appropriations of theHouse of Representatives) which begins on the date such Committee has been notified of the transfer.
+(1) Amounts appropriated for any fiscal year for the House of Representatives under the headings specified in paragraph (2) may be transferred among and merged with such headings, effective upon the expiration of the 21-day period (or such alternative period that may be imposed by the Committee on Appropriations of the House of Representatives) which begins on the date such Committee has been notified of the transfer.
 
 (2) The headings referred to in paragraph (1) are “House Leadership Offices”, “Members’ Representational Allowances”, “Committee Employees”, “Salaries, Officers and Employees”, and “Allowances and Expenses”.
 

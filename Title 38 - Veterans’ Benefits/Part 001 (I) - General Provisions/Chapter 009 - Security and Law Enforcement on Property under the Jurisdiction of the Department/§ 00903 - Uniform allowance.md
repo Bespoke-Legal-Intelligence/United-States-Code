@@ -12,7 +12,7 @@
 
 (c) The allowance established under subsection (b) shall be paid at the beginning of a Department police officer's employment for those appointed on or after October 1, 2010. In the case of any other Department police officer, an allowance in the amount established under subsection (b) shall be paid upon the request of the officer.
 
-(d) A police officer who resigns as a police officer less than one year after receiving an allowance in an amount established under this section shall repay to the Department a pro rata share of the amount paid, based on the number of months the officer was actually employed as such an officer during the twelve-month period following the date on which such officer began such employment or the date on which the officer submitted a request for such an allowance, as the case may be.
+(d) A police officer who resigns as a police officer less than one year after receiving an allowance in an amount established under this section shall repay to the Department a pro rata share of the amount paid, based on the number of months the officer was actually employed as such an officer during the twelve-month period following the date on which such officer begansuch employment or the date on which the officer submitted a request for such an allowance, as the case may be.
 
 (e) An allowance may not be paid to a Department police officer under this section and under section 5901 of title 5 for the same fiscal year.
 

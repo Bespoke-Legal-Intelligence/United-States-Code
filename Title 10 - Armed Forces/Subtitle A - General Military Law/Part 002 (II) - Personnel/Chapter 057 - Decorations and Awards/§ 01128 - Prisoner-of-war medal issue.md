@@ -4,41 +4,45 @@
 
 &emsp;(1) while engaged in an action against an enemy of the United States;
 
-&emsp;(2) while engaged in military operations involving conflict with an opposing foreign force;
+&emsp;(2) while engaged in military operations involving conflict with an opposing foreign force; or
 
-&emsp;(3) while serving with friendly forces engaged in an armed conflict against an opposing armed force in which the United States is not a belligerent party; or
+&emsp;(3) while serving with friendly forces engaged in an armed conflict against an opposing armed force in which the United States is not a belligerent party.
 
-&emsp;(4) by foreign armed forces that are hostile to the United States, under circumstances which the Secretary concerned finds to have been comparable to those under which persons have generally been held captive by enemy armed forces during periods of armed conflict.
+(b) Under uniform regulations prescribed by the Secretary of Defense, the Secretary concerned may issue a prisoner-of-war medal to any person who, while serving in any capacity with the armed forces, was held captive under circumstances not covered by paragraph (1), (2), or (3) of subsection (a), but which the Secretary concerned finds were comparable to those circumstances under which persons have generally been held captive by enemy armed forces during periods of armed conflict.
 
-(b) The prisoner-of-war medal shall be of appropriate design, with ribbons and appurtenances.
+(c) The prisoner-of-war medal shall be of appropriate design, with ribbons and appurtenances.
 
-(c) In prescribing regulations establishing the order of precedence of awards and decorations authorized to be displayed on the uniforms of members of the armed forces, the Secretary concerned shall accord the prisoner-of-war medal a position of precedence, in relation to other awards and decorations authorized to be displayed—
+(d) In prescribing regulations establishing the order of precedence of awards and decorations authorized to be displayed on the uniforms of members of the armed forces, the Secretary concerned shall accord the prisoner-of-war medal a position of precedence, in relation to other awards and decorations authorized to be displayed—
 
 &emsp;(1) immediately following decorations awarded for individual heroism, meritorious achievement, or meritorious service, and
 
 &emsp;(2) before any other service medal, campaign medal, or service ribbon authorized to be displayed.
 
-(d) Not more than one prisoner-of-war medal may be issued to a person. However, for each succeeding service that would otherwise justify the issuance of such a medal, the Secretary concerned may issue a suitable device to be worn as the Secretary determines.
+(e) Not more than one prisoner-of-war medal may be issued to a person. However, for each succeeding service that would otherwise justify the issuance of such a medal, the Secretary concerned may issue a suitable device to be worn as the Secretary determines.
 
-(e) For a person to be eligible for issuance of a prisoner-of-war medal, the person's conduct must have been honorable for the period of captivity which serves as the basis for the issuance.
+(f) For a person to be eligible for issuance of a prisoner-of-war medal, the person's conduct must have been honorable for the period of captivity which serves as the basis for the issuance.
 
-(f) If a person dies before the issuance of a prisoner-of-war medal to which he is entitled, the medal may be issued to the person's representative, as designated by the Secretary concerned.
+(g) If a person dies before the issuance of a prisoner-of-war medal to which he is entitled, the medal may be issued to the person's representative, as designated by the Secretary concerned.
 
-(g) Under regulations to be prescribed by the Secretary concerned, a prisoner-of-war medal that is lost, destroyed, or rendered unfit for use without fault or neglect on the part of the person to whom it was issued may be replaced without charge.
+(h) Under regulations to be prescribed by the Secretary concerned, a prisoner-of-war medal that is lost, destroyed, or rendered unfit for use without fault or neglect on the part of the person to whom it was issued may be replaced without charge.
 
-(h) The Secretary of Defense shall ensure that regulations prescribed by the Secretaries of the military departments under this section are uniform so far as practicable.
+(i) The Secretary of Defense shall ensure that regulations prescribed by the Secretaries of the military departments under this section are uniform so far as practicable.
 
-(Added Pub. L. 99–145, title V, §532(a)(1), Nov. 8, 1985, 99 Stat. 633; amended Pub. L. 101–189, div. A, title V, §516(a), Nov. 29, 1989, 103 Stat. 1441.)
+(Added Pub. L. 99–145, title V, §532(a)(1), Nov. 8, 1985, 99 Stat. 633; amended Pub. L. 101–189, div.A, title V, §516(a), Nov. 29, 1989, 103 Stat. 1441; Pub. L. 112–239, div. A, title V, §584, Jan. 2, 2013, 126 Stat. 1767.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (a)(2) to (4). Pub. L. 112–239, §584(1), inserted “or” at end of par. (2), substituted period at end for “; or” in par. (3), and struck out par. (4) which read as follows: “by foreign armed forces that are hostile to the United States, under circumstances which the Secretary concerned finds to have been comparable to those under which persons have generally been held captive by enemy armed forces during periods of armed conflict.”
+
+Subsecs. (b) to (i). Pub. L. 112–239, §584(2), (3), added subsec. (b) and redesignated former subsecs. (b) to (h) as (c) to (i), respectively.
 
 <b>1989</b>—Subsec. (a)(4). Pub. L. 101–189 added par. (4).
 
 #### Effective Date of 1989 Amendment
 
-Section 516(b) of Pub. L. 101–189 provided that: “Paragraph (4) of section 1128(a) of title 10, United States Code, as added by subsection (a), applies with respect to periods of captivity after April 5, 1917.”
+Pub. L. 101–189, div. A, title V, §516(b), Nov. 29, 1989, 103 Stat. 1442, provided that: “Paragraph (4) of section 1128(a) of title 10, United States Code, as added by subsection (a), applies with respect to periods of captivity after April 5, 1917.”
 
 #### Effective Date
 
-Section 532(b) of Pub. L. 99–145 provided that: “Section 1128 of title 10, United States Code, as added by subsection (a), applies with respect to any person taken prisoner and held captive after April 5, 1917.”
+Pub. L. 99–145, title V, §532(b), Nov. 8, 1985, 99 Stat. 634, provided that: “Section 1128 of title 10, United States Code, as added by subsection (a), applies with respect to any person taken prisoner and held captive after April 5, 1917.”
 

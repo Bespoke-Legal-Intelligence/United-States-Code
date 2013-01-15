@@ -140,7 +140,7 @@ Partnerships in existence on July 14, 1999.—In the case of a corporation which
 
 #### Effective Date of 1997 Amendment
 
-Section 1061(b) of Pub. L. 105–34 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to distributions after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title X, §1061(b), Aug. 5, 1997, 111 Stat. 946, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to distributions after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 Amendment by section 1062(b)(3) of Pub. L. 105–34 applicable to sales, exchanges, and distributions after Aug. 5, 1997, but not applicable to any sale or exchange pursuant to a written binding contract in effect on June 8, 1997, and at all times thereafter before such sale or exchange, see section 1062(c) of Pub. L. 105–34, set out as a note under section 724 of this title.
 

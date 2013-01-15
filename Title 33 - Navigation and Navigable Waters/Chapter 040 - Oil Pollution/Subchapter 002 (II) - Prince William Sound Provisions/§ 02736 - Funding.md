@@ -2,7 +2,7 @@
 
 #### (a) Sections 2731, 2733, and 2734
 
-Amounts in the Fund shall be available, without further appropriations and without fiscal year limitation, to carry out section 2731 of this title in the amount as determined in subsection (b) of this section, and to carry out sections 2733 and 2734 of this title, in an amount not to exceed $5,000,000.
+Amounts in the Fund shall be available, without further appropriations and without fiscal year limitation, to carry out section 2731 of thistitle in the amount as determined in subsection (b) of this section, and to carry out sections 2733 and 2734 of this title, in an amount not to exceed $5,000,000.
 
 #### (b) Use of interest only
 
@@ -45,4 +45,8 @@ Pub. L. 106–246 added subsec. (c) relating to section 2738.
 &emsp;“(2) $2,000,000 shall be available for each of the 9 fiscal years following the fiscal year described in paragraph (1).”
 
 Subsecs. (b), (c). Pub. L. 104–324, §1102(b)(4), added subsecs. (b) and (c). Former subsec. (b) redesignated (a).
+
+#### Investment Amount
+
+Pub. L. 112–213, title VII, §710, Dec. 20, 2012, 126 Stat. 1581, provided that: “Not later than 30 days after the date of enactment of this Act \[Dec. 20, 2012\], the Secretary of the Treasury shall increase the $22,500,000 invested in income-producing securities for purposes of section 5006(b) of the Oil Pollution Act of 1990 (33 U.S.C. 2736(b)) by $12,851,340.”
 

@@ -120,7 +120,7 @@ Regulations.—The Comptroller of the Currency, the Board, and the Federal Depos
 
 Notice Under This Section After Separation From Service.—The resignation, termination of employment or participation, or separation of an institution-affiliated party (within the meaning of section 1813(u) of this title) with respect to such a bank (including a separation caused by the closing of such a bank) shall not affect the jurisdiction and authority of the appropriate Federal banking agency to issue any notice and proceed under this section against any such party, if such notice is served before the end of the 6-year period beginning on the date such party ceased to be such a party with respect to such bank (whether such date occurs before, on, or after August 9, 1989).
 
-(Pub. L. 91–607, title I, §106(b), Dec. 31, 1970, 84 Stat. 1766; Pub. L. 95–630, title VIII, §801, Nov. 10, 1978, 92 Stat. 3690; Pub. L. 97–320, title IV, §§410(f), 424(c), (d)(11), (e), 428, Oct. 15, 1982, 96 Stat. 1520, 1523, 1526; Pub. L. 101–73, title IX, §§905(h), 907(i), Aug. 9, 1989, 103 Stat. 461, 473; Pub. L. 102–242, title III, §306(j), Dec. 19, 1991, 105 Stat. 2359; Pub. L. 104–208, div. A, title II, §2216(a), Sept. 30, 1996, 110 Stat. 3009–413; Pub. L. 109–351, title VI, §601(b), Oct. 13, 2006, 120 Stat. 1978; Pub. L. 111–203, title III, §355, July 21, 2010, 124 Stat. 1547.)
+(Pub. L. 91–607, title I, §106(b), Dec. 31, 1970, 84 Stat. 1766; Pub. L. 95–630, title VIII, §801, Nov. 10, 1978, 92 Stat. 3690; Pub. L. 97–320, title IV, §§410(f), 424(c), (d)(11), (e), 428, Oct. 15, 1982, 96 Stat. 1520, 1523, 1526; Pub. L. 101–73, title IX, §§905(h), 907(i), Aug. 9, 1989, 103 Stat. 461, 473;Pub. L. 102–242, title III, §306(j), Dec. 19, 1991, 105 Stat. 2359; Pub. L. 104–208, div. A, title II, §2216(a), Sept. 30, 1996, 110 Stat. 3009–413; Pub. L. 109–351, title VI, §601(b), Oct. 13, 2006, 120 Stat. 1978; Pub. L. 111–203, title III, §355, July 21, 2010, 124 Stat. 1547.)
 
 #### Amendments
 
@@ -158,11 +158,11 @@ Amendment by Pub. L. 111–203 effective on the transfer date, see section 351 o
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–242 effective upon earlier of date on which final regulations under section 306(m)(1) of Pub. L. 102–242 become effective or 150 days after Dec. 19, 1991, see section 306(<i>l</i>) of Pub. L. 102–242, set out as a note under section 375b of this title.
+Amendment by Pub. L. 102–242 effective upon earlier of date on which final regulations under section 306(m)(1) of Pub. L. 102–242 become effective or 150 days after Dec. 19, 1991, see section 306(l) of Pub. L. 102–242, set out as a note under section 375b of this title.
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 907(i) of Pub. L. 101–73 applicable to conduct engaged in after Aug. 9, 1989, except that increased maximum penalties of $5,000 and $25,000 may apply to conduct engaged in before such date if such conduct is not already subject to a notice issued by the appropriate agency and occurred after completion of the last report of the examination of the institution by the appropriate agency occurring before Aug. 9, 1989, see section 907(<i>l</i>) of Pub. L. 101–73, set out as a note under section 93 of this title.
+Amendment by section 907(i) of Pub. L. 101–73 applicable to conduct engaged in after Aug. 9, 1989, except that increased maximum penalties of $5,000 and $25,000 may apply to conduct engaged in before such date if such conduct is not already subject to a notice issued by the appropriate agency and occurred after completion of the last report of the examination of the institution by the appropriate agency occurring before Aug. 9, 1989, see section 907(l) of Pub. L. 101–73, set out as a note under section 93 of this title.
 
 #### Effective Date of 1982 Amendment
 

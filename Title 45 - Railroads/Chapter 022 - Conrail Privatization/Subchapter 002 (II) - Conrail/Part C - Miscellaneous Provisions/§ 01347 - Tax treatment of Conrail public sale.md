@@ -46,7 +46,7 @@ For purposes of this section—
 
 #### (2) Public sale
 
-&emsp;The term “public sale” means the sale of stock in Conrail pursuant to a public offering under the Conrail Privatization Act \[45 U.S.C. 1301 et seq.\]. If there is more than 1 public offering under such Act, such term means the sale pursuant to the initial public offering under such Act.
+&emsp;The term “public sale” means the sale of stock in Conrail pursuant to a public offering under the Conrail Privatization Act \[45 U.S.C.1301 et seq.\]. If there is more than 1 public offering under such Act, such term means the sale pursuant to the initial public offering under such Act.
 
 #### (3) Secretary
 
@@ -62,7 +62,7 @@ The Conrail Privatization Act, referred to in subsec. (e)(2), is subtitle A (§�
 
 #### Codification
 
-This section was enacted as part of the Omnibus Budget Reconciliation Act of 1986, and not as part ofsubtitle A of title IV of that Act, known as the Conrail Privatization Act, which comprises this chapter.
+This section was enacted as part of the Omnibus Budget Reconciliation Act of 1986, and not as part of subtitle A of title IV of that Act, known as the Conrail Privatization Act, which comprises this chapter.
 
 #### Amendments
 

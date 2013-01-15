@@ -14,11 +14,11 @@ This chapter, referred to in text, was in the original “this title”, and was
 
 #### Short Title
 
-Section 851 of Pub. L. 101–625 provided that: “This subtitle \[subtitle D (§§851–863) of title VIII of Pub. L. 101–625, enacting this chapter\] may be cited as the ‘AIDS Housing Opportunity Act’.”
+Pub. L. 101–625, title VIII, §851, Nov. 28, 1990, 104 Stat. 4375, provided that: “This subtitle \[subtitle D (§§851–863) of title VIII of Pub. L. 101–625, enacting this chapter\] may be cited as the ‘AIDS Housing Opportunity Act’.”
 
 #### Regulations
 
-Section 606(k) of Pub. L. 102–550 provided that:
+Pub. L. 102–550, title VI, §606(k), Oct. 28, 1992, 106 Stat. 3811, provided that:
 
 “(1)
 

@@ -2,7 +2,7 @@
 
 (a) A discharge in a case under this title—
 
-&emsp;(1) voids any judgment at any time obtained, to the extent that such judgment is a determination of the personal liability of the debtor with respect to any debt discharged under section 727, 944, 1141, 1228, or 1328 of this title, whether or not discharge of such debt is waived;
+&emsp;(1) voids any judgment at any time obtained, to the extent that such judgment is a determination of the personal liability of the debtor with respect to any debt discharged undersection 727, 944, 1141, 1228, or 1328 of this title, whether or not discharge of such debt is waived;
 
 &emsp;(2) operates as an injunction against the commencement or continuation of an action, the employment of process, or an act, to collect, recover or offset any such debt as a personal liability of the debtor, whether or not discharge of such debt is waived; and
 
@@ -120,7 +120,7 @@
 
 &emsp;(ii) relieve any such entity of the duty to comply with, or of liability under, any Federal or State law regarding the making of a fraudulent conveyance in a transaction described in subparagraph (A)(ii) or (iii); or
 
-&emsp;(iii) relieve a debtor of the debtor's obligation to comply with the terms of the plan of reorganization, or affect the power of the court to exercise its authority under sections 1141 and 1142 to compel the debtor to do so.
+&emsp;(iii) relieve a debtor of the debtor's obligation to comply with the terms of the plan of reorganization, or affect the power of thecourt to exercise its authority under sections 1141 and 1142 to compel the debtor to do so.
 
 (4)(A)(i) Subject to subparagraph (B), an injunction described in paragraph (1) shall be valid and enforceable against all entities that it addresses.
 
@@ -188,7 +188,7 @@ Application to Existing Injunctions.—For purposes of subsection (g)—
 
 &emsp;&emsp;(B) if such trust meets such requirements on the date such stay is lifted or dissolved, such trust shall be considered to have met such requirements continuously from the date of the enactment of this Act.
 
-(i) The willful failure of a creditor to credit payments received under a plan confirmed under this title, unless the order confirming the plan is revoked, the plan is in default, or the creditor has not received payments required to be made under the plan in the manner required by the plan (including crediting the amounts required under the plan), shall constitute a violation of an injunction under subsection (a)(2) if the act of the creditor to collect and failure to credit payments in the manner required by the plan caused material injury to the debtor.
+(i) The willful failure of a creditor to credit payments received under a plan confirmed underthis title, unless the order confirming the plan is revoked, the plan is in default, or the creditor has not received payments required to be made under the plan in the manner required by the plan (including crediting the amounts required under the plan), shall constitute a violation of an injunction under subsection (a)(2) if the act of the creditor to collect and failure to credit payments in the manner required by the plan caused material injury to the debtor.
 
 (j) Subsection (a)(2) does not operate as an injunction against an act by a creditor that is the holder of a secured claim, if—
 
@@ -238,7 +238,7 @@ Application to Existing Injunctions.—For purposes of subsection (g)—
 
 &emsp;&emsp;&emsp;(III) if the entity making the disclosure elects, to disclose the annual percentage rate under (I) and the simple interest rate under (II).
 
-&emsp;(F) If the underlying debt transaction was disclosed as a variable rate transaction on the most recent disclosure given under the Truth in Lending Act, by stating “The interest rate on your loan may be a variable interest rate which changes from time to time, so that the annual percentage rate disclosed here may be higher or lower.”.
+&emsp;(F) If the underlying debt transaction was disclosed as a variable rate transaction on themost recent disclosure given under the Truth in Lending Act, by stating “The interest rate on your loan may be a variable interest rate which changes from time to time, so that the annual percentage rate disclosed here may be higher or lower.”.
 
 &emsp;(G) If the debt is secured by a security interest which has not been waived in whole or in part or determined to be void by a final order of the court at the time of the disclosure, by disclosing that a security interest or lien in goods or property is asserted over some or all of the debts the debtor is reaffirming and listing the items and their original purchase price that are subject to the asserted security interest, or if not a purchase-money security interest then listing by items or types and the original amount of the loan.
 
@@ -246,7 +246,7 @@ Application to Existing Injunctions.—For purposes of subsection (g)—
 
 &emsp;&emsp;(i) by making the statement: “Your first payment in the amount of $\_\_\_\_\_\_ is due on \_\_\_\_\_\_ but the future payment amount may be different. Consult your reaffirmation agreement or credit agreement, as applicable.”, and stating the amount of the first payment and the due date of that payment in the places provided;
 
-&emsp;&emsp;(ii) by making the statement: “Your payment schedule will be:”, and describing the repayment schedule with the number,amount, and due dates or period of payments scheduled to repay the debts reaffirmed to the extent then known by the disclosing party; or
+&emsp;&emsp;(ii) by making the statement: “Your payment schedule will be:”, and describing the repayment schedule with the number, amount, and due dates or period of payments scheduled to repay the debts reaffirmed to the extent then known by the disclosing party; or
 
 &emsp;&emsp;(iii) by describing the debtor's repayment obligations with reasonable specificity to the extent then known by the disclosing party.
 
@@ -276,7 +276,7 @@ Application to Existing Injunctions.—For purposes of subsection (g)—
 
 “Are you required to enter into a reaffirmation agreement by any law? No, you are not required to reaffirm a debt by any law. Only agree to reaffirm a debt if it is in your best interest. Be sure you can afford the payments you agree to make.
 
-“What if your creditor has a security interest or lien? Your bankruptcy discharge does not eliminate any lien on your property. A ‘lien’ is often referred to as a security interest, deed of trust, mortgage or security deed. Even if you do not reaffirm and your personal liability on the debt is discharged, because of the lien your creditor may still have the right to take the property securing the lien if you do not pay the debt or default on it. If the lien is on an item of personal property that is exempt under your State's law or that the trustee has abandoned, you may be able to redeem the item rather than reaffirm the debt. To redeem, you must make a single payment to the creditor equal to the amount of the allowed secured claim, as agreed by the parties or determined by the court.”.
+“What if your creditor has a security interest or lien? Your bankruptcy discharge does not eliminate any lien on your property. A ‘lien’ isoften referred to as a security interest, deed of trust, mortgage or security deed. Even if you do not reaffirm and your personal liability on the debt is discharged, because of the lien your creditor may still have the right to take the property securing the lien if you do not pay the debt or default on it. If the lien is on an item of personal property that is exempt under your State's law or that the trustee has abandoned, you may be able to redeem the item rather than reaffirm the debt. To redeem, you must make a single payment to the creditor equal to the amount of the allowed secured claim, as agreed by the parties or determined by the court.”.
 
 &emsp;(ii) In the case of a reaffirmation under subsection (m)(2), numbered paragraph 6 in the disclosures required by clause (i) of this subparagraph shall read as follows:
 
@@ -340,7 +340,7 @@ Application to Existing Injunctions.—For purposes of subsection (g)—
 
 “Court Order: The court grants the debtor's motion and approves the reaffirmation agreement described above.”.
 
-(<i>l</i>) Notwithstanding any other provision of this title the following shall apply:
+(l) Notwithstanding any other provision of this title the following shall apply:
 
 &emsp;(1) A creditor may accept payments from a debtor before and after the filing of an agreement of the kind specified in subsection (c) with the court.
 
@@ -348,11 +348,11 @@ Application to Existing Injunctions.—For purposes of subsection (g)—
 
 &emsp;(3) The requirements of subsections (c)(2) and (k) shall be satisfied if disclosures required under those subsections are given in good faith.
 
-(m)(1) Until 60 days after an agreement of the kind specified in subsection (c) is filed with the court (or such additional period as the court, after notice and a hearing and for cause, orders before the expiration of such period), it shall be presumed that such agreement is an undue hardship on the debtor if the debtor's monthly income less the debtor's monthly expenses as shown on the debtor's completed and signed statement in support of such agreement required under subsection (k)(6)(A) is less than the scheduled payments on the reaffirmed debt. This presumption shall be reviewed by the court. The presumption may be rebutted in writing by the debtor if the statement includes an explanation that identifies additional sources of funds to make the payments as agreed upon under the terms of such agreement. If the presumption is not rebutted to the satisfaction of the court, the court may disapprove such agreement. No agreement shall be disapproved without notice and a hearing to the debtor and creditor, and such hearing shall be concluded before the entry of the debtor's discharge.
+(m)(1) Until 60 days after an agreement of the kind specified in subsection (c) is filed with the court (or such additional period as the court, after notice and a hearing and for cause, orders before the expiration of such period), it shall bepresumed that such agreement is an undue hardship on the debtor if the debtor's monthly income less the debtor's monthly expenses as shown on the debtor's completed and signed statement in support of such agreement required under subsection (k)(6)(A) is less than the scheduled payments on the reaffirmed debt. This presumption shall be reviewed by the court. The presumption may be rebutted in writing by the debtor if the statement includes an explanation that identifies additional sources of funds to make the payments as agreed upon under the terms of such agreement. If the presumption is not rebutted to the satisfaction of the court, the court may disapprove such agreement. No agreement shall be disapproved without notice and a hearing to the debtor and creditor, and such hearing shall be concluded before the entry of the debtor's discharge.
 
 (2) This subsection does not apply to reaffirmation agreements where the creditor is a credit union, as defined in section 19(b)(1)(A)(iv) of the Federal Reserve Act.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2592; Pub. L. 98–353, title III, §§308, 455, July 10, 1984, 98 Stat. 354, 376; Pub. L. 99–554, title II, §§257(<i>o</i>), 282, 283(k), Oct. 27, 1986, 100 Stat. 3115–3117; Pub. L. 103–394, title I, §§103, 111(a), title V, §501(d)(14), Oct. 22, 1994, 108 Stat. 4108, 4113, 4145; Pub. L. 109–8, title II, §§202, 203(a), title XII, §1210, Apr.20, 2005, 119 Stat. 43, 194; Pub. L. 111–327, §2(a)(19), Dec. 22, 2010, 124 Stat. 3559.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2592; Pub. L. 98–353, title III, §§308, 455, July 10, 1984, 98 Stat. 354, 376; Pub. L. 99–554, title II, §§257(o), 282, 283(k), Oct. 27, 1986, 100 Stat. 3115–3117; Pub. L. 103–394, title I, §§103, 111(a), title V, §501(d)(14), Oct. 22, 1994, 108 Stat. 4108, 4113, 4145; Pub. L. 109–8, title II, §§202, 203(a), title XII, §1210, Apr. 20, 2005, 119 Stat. 43, 194; Pub. L. 111–327, §2(a)(19), Dec. 22, 2010, 124 Stat. 3559.)
 
 #### Historical and Revision Notes
 
@@ -418,13 +418,13 @@ Subsec. (d)(1)(B)(ii). Pub. L. 103–394, §501(d)(14)(C), inserted “and” at
 
 Subsecs. (g), (h). Pub. L. 103–394, §111(a), added subsecs. (g) and (h).
 
-<b>1986</b>—Subsec. (a)(1). Pub. L. 99–554, §257(<i>o</i>)(1), inserted reference to section 1228 of this title.
+<b>1986</b>—Subsec. (a)(1). Pub. L. 99–554, §257(o)(1), inserted reference to section 1228 of this title.
 
-Subsec. (a)(3). Pub. L. 99–554, §257(<i>o</i>)(2), which directed the substitution of “, 1228(a)(1), or 1328(a)(1)” for “or 1328(a)(1)” was executed by making the substitution for “or 1328(c)(1)” to reflect the probable intent of Congress. See 1994 Amendment note above.
+Subsec. (a)(3). Pub. L. 99–554, §257(o)(2), which directed the substitution of “, 1228(a)(1), or 1328(a)(1)” for “or 1328(a)(1)” was executed by making the substitution for “or 1328(c)(1)” to reflect the probable intent of Congress. See 1994 Amendment note above.
 
-Subsec. (c)(1). Pub. L. 99–554, §257(<i>o</i>)(1), inserted reference to section 1228 of this title.
+Subsec. (c)(1). Pub. L. 99–554, §257(o)(1), inserted reference to section 1228 of this title.
 
-Subsec. (d). Pub. L. 99–554, §257(<i>o</i>)(1), inserted reference to section 1228 of this title.
+Subsec. (d). Pub. L. 99–554, §257(o)(1), inserted reference to section 1228 of this title.
 
 Pub. L. 99–554, §282, substituted “shall” for “may” before “hold” in first sentence, inserted “any” after “At” in second sentence, and inserted “the court shall hold a hearing at which the debtor shall appear in person and” after “then” in third sentence.
 
@@ -466,5 +466,5 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 #### Construction
 
-Section 111(b) of Pub. L. 103–394 provided that: “Nothing in subsection (a), or in the amendments made by subsection (a) \[amending this section\], shall be construed to modify, impair, or supersede any other authority the court has to issue injunctions in connection with an order confirming a plan of reorganization.”
+Pub. L. 103–394, title I, §111(b), Oct. 22, 1994, 108 Stat. 4117, provided that: “Nothing in subsection (a), or in the amendments made by subsection (a) \[amending this section\], shall be construed to modify, impair, or supersede any other authority the court has to issue injunctions in connection with an order confirming a plan of reorganization.”
 

@@ -10,7 +10,7 @@ There shall be allowed as a deduction for the taxable year an amount equal to th
 
 #### (b) Allocation to taxable year
 
-In the case of a contribution described in subsection (a) which relates to any specified periodof time which includes more than one taxable year, the amount properly allocable to any taxable year in such period shall be determined by prorating such amounts to such taxable years under regulations prescribed by the Secretary.
+In the case of a contribution described in subsection (a) which relates to any specified period of time which includes more than one taxable year, the amount properly allocable to any taxable year in such period shall be determined by prorating such amounts to such taxable years under regulations prescribed by the Secretary.
 
 #### (c) Disallowance of deduction
 
@@ -24,7 +24,7 @@ Section 4223(h) of the Employee Retirement Income Security Act of 1974, referred
 
 #### Effective Date of 1983 Amendment
 
-Section 311(c)(2) of Pub. L. 97–448 provided that: “The amendments made by subsection (b) of section 305 \[redesignating section 194 of this title, relating to contributions to employer liability trusts, as this section\] shall take effect on October 14, 1980.”
+Pub. L. 97–448, title III, §311(c)(2), Jan. 12, 1983, 96 Stat. 2411, provided that: “The amendments made by subsection (b) of section 305 \[redesignating section 194 of this title, relating to contributions to employer liability trusts, as this section\] shall take effect on October 14, 1980.”
 
 #### Effective Date
 

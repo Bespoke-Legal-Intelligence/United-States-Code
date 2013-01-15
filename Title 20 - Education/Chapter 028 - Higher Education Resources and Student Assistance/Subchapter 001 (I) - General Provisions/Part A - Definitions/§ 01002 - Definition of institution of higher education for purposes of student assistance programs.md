@@ -38,7 +38,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) the nursing school has an agreement with an accredited school of nursing located in the United States providing that the students graduating from the nursing school located outside of the United States also receive a degree from the accredited school of nursing located in the United States;
 
-&emsp;&emsp;&emsp;&emsp;(III) the nursing school certifies only Federal Direct Stafford Loans under section 1087e(a)(2)(A) of this title, FederalDirect Unsubsidized Stafford Loans under section 1087e(a)(2)(D) of this title, or Federal Direct PLUS Loans under section 1087e(a)(2)(B) of this title for students attending the institution;
+&emsp;&emsp;&emsp;&emsp;(III) the nursing school certifies only Federal Direct Stafford Loans under section 1087e(a)(2)(A) of this title, Federal Direct Unsubsidized Stafford Loans under section 1087e(a)(2)(D) of this title, or Federal Direct PLUS Loans under section 1087e(a)(2)(B) of this title for students attending the institution;
 
 &emsp;&emsp;&emsp;&emsp;(IV) the nursing school reimburses the Secretary for the cost of any loan defaults for current and former students included in the calculation of the institution's cohort default rate during the previous fiscal year; and
 
@@ -108,15 +108,15 @@
 
 #### (D) Special rule
 
-&emsp;&emsp;If, pursuant to this paragraph, an institution loses eligibility to participate in the programs under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, then a student enrolled at such institution may, notwithstanding such loss of eligibility, continue to be eligible to receive a loan under part C of subchapter IVwhile attending such institution for the academic year succeeding the academic year in which such loss of eligibility occurred.
+&emsp;&emsp;If, pursuant to this paragraph, an institution loses eligibility to participate in the programs under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, then a student enrolled at such institution may, notwithstanding such loss of eligibility, continue to be eligible to receive a loan under part C of subchapter IV while attending such institution for the academic year succeeding the academic year in which such loss of eligibility occurred.
 
 #### (3) Limitations based on course of study or enrollment
 
 &emsp;An institution shall not be considered to meet the definition of an institution of higher education in paragraph (1) if such institution—
 
-&emsp;&emsp;(A) offers more than 50 percent of such institution's courses by correspondence (excluding courses offered by telecommunications as defined in section 1091(<i>l</i>)(4) <sup>1</sup> of this title), unless the institution is an institution that meets the definition in section 2302(3)(C) of this title;
+&emsp;&emsp;(A) offers more than 50 percent of such institution's courses by correspondence (excluding courses offered by telecommunications as defined in section 1091(l)(4) <sup>1</sup> of this title), unless the institution is an institution that meets the definition in section 2302(3)(C) of this title;
 
-&emsp;&emsp;(B) enrolls 50 percent or more of the institution's students in correspondence courses (excluding courses offered by telecommunications as defined in section 1091(<i>l</i>)(4) <sup>1</sup> of this title), unless the institution is an institution that meets the definition in such section, except that the Secretary, at the request of such institution, may waive the applicability of this subparagraph to such institution for good cause, as determined by the Secretary in the case of an institution of higher education that provides a 2- or 4-year program of instruction (or both) for which the institution awards an associate or baccalaureate degree, respectively;
+&emsp;&emsp;(B) enrolls 50 percent or more of the institution's students in correspondence courses (excluding courses offered by telecommunications as defined in section 1091(l)(4) <sup>1</sup> of this title), unless the institution is an institution that meets the definition in such section, except that the Secretary, at the request of such institution, may waive the applicability of this subparagraph to such institution for good cause, as determined by the Secretary in the case of an institution of higher education that provides a 2- or 4-year program of instruction (or both) for which the institution awards an associate or baccalaureate degree, respectively;
 
 &emsp;&emsp;(C) has a student enrollment in which more than 25 percent of the students are incarcerated, except that the Secretary may waive the limitation contained in this subparagraph for a nonprofit institution that provides a 2- or 4-year program of instruction (or both) for which the institution awards a bachelor's degree, or an associate's degree or a postsecondary diploma, respectively; or
 
@@ -128,7 +128,7 @@
 
 &emsp;&emsp;(A) the institution, or an affiliate of the institution that has the power, by contract or ownership interest, to direct or cause the direction of the management or policies of the institution, has filed for bankruptcy, except that this paragraph shall not apply to a nonprofit institution, the primary function of which is to provide health care educational services (or an affiliate of such an institution that has the power, by contract or ownership interest, to direct or cause the direction of the institution's management or policies) that files for bankruptcy under chapter 11 of title 11 between July 1, 1998, and December 1, 1998; or
 
-&emsp;&emsp;(B) the institution, the institution's owner, or the institution's chief executive officer has been convicted of, or has pled nolo contendere or guilty to, a crime involving the acquisition, use, or expenditure of funds under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, or has been judicially determined to have committed fraud involving funds under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42.
+&emsp;&emsp;(B) the institution, the institution's owner, or the institution's chief executive officer has been convicted of, or has pled nolo contendere or guilty to, a crime involving the acquisition, use, or expenditure of funds under subchapter IV of this chapterand part C of subchapter I of chapter 34 of title 42, or has been judicially determined to have committed fraud involving funds under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42.
 
 #### (5) Certification
 
@@ -192,7 +192,7 @@
 
 Section 1101 of the Higher Education Opportunity Act, referred to in subsec. (a)(2)(B)(iii)(II)(gg), is section 1101 of title XI of 110–315, Aug. 14, 2008, 122 Stat. 3490, which is not classified to the Code.
 
-Section 1091(<i>l</i>) of this title, referred to in subsec. (a)(3)(A), (B), was struck out and a new section 1091(<i>l</i>) was added by Pub. L. 110–315, title IV, §485(a)(5), Aug. 14, 2008, 122 Stat. 3288. As so amended, section 1091(<i>l</i>) no longer contains a par. (4) or a definition of “telecommunications”.
+Section 1091(l) of this title, referred to in subsec. (a)(3)(A), (B), was struck out and a new section 1091(l) was added by Pub. L. 110–315, title IV, §485(a)(5), Aug. 14, 2008, 122 Stat. 3288. As so amended, section 1091(l) no longer contains a par. (4) or a definition of “telecommunications”.
 
 #### Prior Provisions
 
@@ -242,9 +242,9 @@ Subsec. (c)(2). Pub. L. 110–315, §102(d)(1)(B), added par. (2) and struck out
 
 <b>2006</b>—Subsec. (a)(3)(A). Pub. L. 109–270 substituted “2302(3)(C) of this title” for “2471(4)(C) of this title”.
 
-Pub. L. 109–171, §8002(1), inserted “(excluding courses offered by telecommunications as defined in section 1091(<i>l</i>)(4) of this title)” after “courses by correspondence”.
+Pub. L. 109–171, §8002(1), inserted “(excluding courses offered by telecommunications as defined in section 1091(l)(4) of this title)” after “courses by correspondence”.
 
-Subsec. (a)(3)(B). Pub. L. 109–171, §8002(2), inserted “(excluding courses offered by telecommunications as defined in section 1091(<i>l</i>)(4) of this title)” after “correspondence courses”.
+Subsec. (a)(3)(B). Pub. L. 109–171, §8002(2), inserted “(excluding courses offered by telecommunications as defined in section 1091(l)(4) of this title)” after “correspondence courses”.
 
 <b>2003</b>—Subsec. (a)(2)(A). Pub. L. 108–98 amended subpar. (A) generally. Prior to amendment, subpar. (A) required the Secretary to establish criteria for approval of institutions outside the United States for purposes of par. (1)(C), including certain requirements for graduate medical or veterinary schools.
 

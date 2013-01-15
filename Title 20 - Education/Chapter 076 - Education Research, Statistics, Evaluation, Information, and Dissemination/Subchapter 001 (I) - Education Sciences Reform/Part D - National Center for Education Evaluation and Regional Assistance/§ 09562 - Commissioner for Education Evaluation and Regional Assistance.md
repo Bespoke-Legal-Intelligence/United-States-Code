@@ -70,7 +70,7 @@ The Director shall continue awards for the support of the Educational Resources 
 
 &emsp;&emsp;(A) products and publications developed through, or supported by, the Institute; and
 
-&emsp;&emsp;(B) other relevant and useful education-related research, statistics, and evaluationmaterials and other information, projects, and publications that are—
+&emsp;&emsp;(B) other relevant and useful education-related research, statistics, and evaluation materials and other information, projects, and publications that are—
 
 &emsp;&emsp;&emsp;(i) consistent with—
 

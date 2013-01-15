@@ -48,9 +48,9 @@ As used in this chapter—
 
 #### Effective Date
 
-Section 11 of Pub. L. 100–379 provided that: “This Act \[enacting this chapter\] shall take effect on the date which is 6 months after the date of enactment of this Act \[Aug. 4, 1988\], except that the authority of the Secretary of Labor under section 8 \[section 2107 of this title\] is effective upon enactment.”
+Pub. L. 100–379, §11, Aug. 4, 1988, 102 Stat. 895, provided that: “This Act \[enacting this chapter\] shall take effect on the date which is 6 months after the date of enactment of this Act \[Aug. 4, 1988\], except that the authority of the Secretary of Labor under section 8 \[section 2107 of this title\] is effective upon enactment.”
 
 #### Short Title
 
-Section 1(a) of Pub. L. 100–379 provided that: “This Act \[enacting this chapter\] may be cited as the ‘Worker Adjustment and Retraining Notification Act’.”
+Pub. L. 100–379, §1(a), Aug. 4, 1988, 102 Stat. 890, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Worker Adjustment and Retraining Notification Act’.”
 

@@ -42,7 +42,7 @@ In providing scholarships under subsection (b) of this section, the Secretary an
 
 &emsp;&emsp;&emsp;(i) tuition expenses, other reasonable educational expenses, and reasonable living expenses incurred in attendance at the educational institution; and
 
-&emsp;&emsp;&emsp;(ii) payment to the recipient of a monthly stipend of not more than the amount authorized by section 254<i>l</i>(g)(1)(B) of title 42, such amount to be reduced pro rata (as determined by the Secretary) based on the number of hours such student is enrolled; and
+&emsp;&emsp;&emsp;(ii) payment to the recipient of a monthly stipend of not more than the amount authorized by section 254l(g)(1)(B) of title 42, such amount to be reduced pro rata (as determined by the Secretary) based on the number of hours such student is enrolled; and
 
 &emsp;&emsp;(B) may not exceed, for any year of attendance for which the scholarship is provided, the total amount required for the year for the purposes authorized in subparagraph (A);
 
@@ -64,7 +64,7 @@ In providing scholarships under subsection (b) of this section, the Secretary an
 
 > in lieu of any service obligation arising under such contract, shall be liable to the United States for the Federal share of the amount which has been paid to him, or on his behalf, under the contract.
 
-(2) If for any reason not specified in paragraph (1), an individual breaches his written contract by failing either to begin such individual's service obligation required under such contract or to complete such service obligation, the United States shall be entitled to recover from the individual an amount determined in accordance with the formula specified in subsection (<i>l</i>) of section 1616a of this title in the manner provided for in such subsection.
+(2) If for any reason not specified in paragraph (1), an individual breaches his written contract by failing either to begin such individual's service obligation required under such contract or to complete such service obligation, the United States shall be entitled to recover from the individual an amount determined in accordance with the formula specified in subsection (l) of section 1616a of this title in the manner provided for in such subsection.
 
 (3) The Secretary may carry out this subsection on the basis of information submitted by the tribes or tribal organizations involved, or on the basis of information collected through such other means as the Secretary determines to be appropriate.
 

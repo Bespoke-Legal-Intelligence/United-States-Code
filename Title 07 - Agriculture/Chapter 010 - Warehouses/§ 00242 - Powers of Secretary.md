@@ -50,7 +50,7 @@ Subject to the other provisions of this chapter, the Secretary may prescribe the
 
 #### (i) Examination and audits
 
-In addition to the authority provided under subsection (<i>l</i>) of this section, on request of the person, State agency, or commodity exchange, the Secretary may conduct an examination, audit, or similar activity with respect to—
+In addition to the authority provided under subsection (l) of this section, on request of the person, State agency, or commodity exchange, the Secretary may conduct an examination, audit, or similar activity with respect to—
 
 &emsp;(1) any person that is engaged in the business of storing an agricultural product that is subject to this chapter;
 
@@ -84,7 +84,7 @@ The Secretary may issue to any warehouse operator a license for the operation of
 
 &emsp;As a condition of a license issued under paragraph (1), the licensee shall agree to comply with this chapter (including regulations promulgated under this chapter).
 
-#### (<i>l</i>) Examination of books, records, papers, and accounts
+#### (l) Examination of books, records, papers, and accounts
 
 The Secretary may examine and audit, using designated officers, employees, or agents of the Department, all books, records, papers, and accounts relating to activities subject to this chapter of—
 

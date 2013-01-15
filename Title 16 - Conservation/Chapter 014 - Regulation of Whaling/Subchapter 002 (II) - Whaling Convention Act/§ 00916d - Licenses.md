@@ -28,7 +28,7 @@ Any person, in making application for a license to operate a whale catcher, must
 
 #### (e) Additional conditions
 
-Any person, in making application for a license to operate a land station or a factory ship must furnish evidence or affidavits to the satisfaction of the Secretary of Commerce that, in addition to conforming to other applicable laws and regulations, such land station or factory ship is adequately equipped to comply with provisions of the convention, of the regulations of the Commission, and of the regulations of the Secretary of Commerce with respect to the processing of whales or the manufacture of whale products.
+Any person, in making application for a license to operate a land station or a factory ship must furnish evidence or affidavits to the satisfaction of the Secretary of Commerce that, in addition to conforming to other applicable laws and regulations, such land station or factoryship is adequately equipped to comply with provisions of the convention, of the regulations of the Commission, and of the regulations of the Secretary of Commerce with respect to the processing of whales or the manufacture of whale products.
 
 (Aug. 9, 1950, ch. 653, §6, 64 Stat. 422; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
 
@@ -38,5 +38,5 @@ Transfer of functions to Secretary of Commerce from Secretary of the Interior by
 
 #### Refund of License Fees Paid Under Subchapter I of This Chapter
 
-Section 16 of act Aug. 9, 1950, provided in part that the Secretary of the Interior is authorized to refund any part of a license fee paid under former section 908 of this title that is in excess of the license fee required under this section.
+Act Aug. 9, 1950, ch. 653, §16, 64 Stat. 425, provided in part that the Secretary of the Interior is authorized to refund any part of a license fee paid under former section 908 of this title that is in excess of the license fee required under this section.
 

@@ -128,7 +128,7 @@ In general.—The base period proportions for determining the magnitude of chang
 
 &emsp;&emsp;(ii)
 
-Initial review.—In the case of the initial review required under subparagraph (E)(ii), the base period proportions shall be the proportions determined by the Honey Board for fiscal year 1996.
+Initial review.—In the case of the initial review required under subparagraph (E)(ii), the base period proportions shall bethe proportions determined by the Honey Board for fiscal year 1996.
 
 (5)
 
@@ -304,7 +304,7 @@ Inapplicability.—If a person no longer meets the requirements of clause (i) fo
 
 &emsp;&emsp;(I) file a report with the Honey Board in the form and manner prescribed by the Honey Board; and
 
-&emsp;&emsp;(II) pay an assessment on or before March 15 of the subsequent year on all honey or honey products produced, imported, or handled by the person during the year in which the person no longer meets the requirements of clause (i) for an exemption.
+&emsp;&emsp;(II) pay an assessment on or before March 15 of the subsequent year on all honey orhoney products produced, imported, or handled by the person during the year in which the person no longer meets the requirements of clause (i) for an exemption.
 
 (5) If a producer, producer-packer handler,,<sup>2</sup> or importer does not pay any assessments under this chapter due to the applicability to such person of the exemptions from assessments provided in paragraph (4), then such producer, producer-packer handler,,<sup>2</sup> or importer shall not be considered a producer, handler, or importer for purposes of voting in any referendum conducted under this chapter during the period the person's exemption from all assessments is in effect.
 
@@ -346,7 +346,7 @@ The Honey Board shall maintain books and records and prepare and submit to the S
 
 #### (k) Honey Board; property interests
 
-Any patent on any product, copyright on any material, or any invention, product formulationor publication developed through the use of funds collected by the Honey Board shall be the property of the Honey Board. The funds generated from any such patent, copyright, invention, product formulation, or publication shall inure to the benefit of the Honey Board.
+Any patent on any product, copyright on any material, or any invention, product formulation or publication developed through the use of funds collected by the Honey Board shall be the property of the Honey Board. The funds generated from any such patent, copyright, invention, product formulation, or publication shall inure to the benefit of the Honey Board.
 
 (Pub. L. 98–590, §7, Oct. 30, 1984, 98 Stat. 3117; Pub. L. 101–624, title XIX, §§1983, 1984(a), Nov. 28, 1990, 104 Stat. 3905; Pub. L. 105–185, title VI, §605(f), June 23, 1998, 112 Stat. 590; Pub. L. 105–277, div. A, §101(a) \[title VII, §753(b)\], Oct. 21, 1998, 112 Stat. 2681, 2681–33; Pub. L. 110–234, title X, §10401, May 22, 2008, 122 Stat. 1348; Pub. L. 110–246, §4(a), title X, §10401, June 18, 2008, 122 Stat. 1664, 2109.)
 

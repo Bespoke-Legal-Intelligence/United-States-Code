@@ -28,7 +28,7 @@ Act
 
 Feb. 15, 1980, Pub. L. 96–191, §4(<i>l</i>), 94 Stat. 31.
 
-In the section, before clause (1), the first sentence is substituted for 31:52–3(<i>l</i>)(1)(1st sentence) for consistency with other titles of the United States Code. The word “review” is substituted for “appeal” for consistency. The words “the procedures of”, “any other provision of law”, “of a final decision of the Board . . . the date . . . of the Board”, and “In any case filed under paragraph (1) . . . review the record and” are omitted as surplus. The words “final decision” are substituted for “agencyaction, findings, or conclusions” for consistency. Clause (2) is substituted for 31:52–3(<i>l</i>)(2)(B) to eliminate unnecessary words.
+In the section, before clause (1), the first sentence is substituted for 31:52–3(l)(1)(1st sentence) for consistency with other titles of the United States Code. The word “review” is substituted for “appeal” for consistency. The words “the procedures of”, “any other provision of law”, “of a final decision of the Board . . . the date . . . of the Board”, and “In any case filed under paragraph (1) . . . review the record and” are omitted as surplus. The words “final decision” are substituted for “agency action, findings, or conclusions” for consistency. Clause (2) is substituted for 31:52–3(l)(2)(B) to eliminate unnecessary words.
 
 #### 1984 Act
 
@@ -54,7 +54,7 @@ Subsec. (b). Pub. L. 100–426, §103(b)(2), added subsec. (b).
 
 #### Effective Date of 1988 Amendment
 
-Section 103(c) of Pub. L. 100–426 provided that: “Nothing in any of the amendments made by this section \[amending this section\] shall apply with respect to an appeal pending on the date of the enactment of this Act \[Sept. 9, 1988\].”
+Pub. L. 100–426, title I, §103(c), Sept. 9, 1988, 102 Stat. 1599, provided that: “Nothing in any of the amendments made by this section \[amending this section\] shall apply with respect to an appeal pending on the date of the enactment of this Act \[Sept. 9, 1988\].”
 
 #### Application of Provisions Amended by Pub. L. 103–283
 

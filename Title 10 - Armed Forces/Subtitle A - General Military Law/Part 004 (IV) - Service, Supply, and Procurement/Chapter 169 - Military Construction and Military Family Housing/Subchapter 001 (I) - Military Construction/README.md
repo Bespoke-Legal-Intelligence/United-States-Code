@@ -30,7 +30,7 @@
 
 <b>1999</b>—Pub. L. 106–65, div. B, title XXVIII, §2802(a)(2), Oct. 5, 1999, 113 Stat. 848, added item 2814.
 
-<b>1996</b>—Pub. L. 104–201, div. B, title XXVIII, §2802(c)(2), Sept. 23, 1996, 110 Stat. 2787, substituted “Organizations Security Investment” for “Organization Infrastructure” in item 2806.
+<b>1996</b>—Pub. L. 104–201, div. B, title XXVIII, §2802(c)(2), Sept. 23, 1996, 110 Stat. 2787, substituted “OrganizationsSecurity Investment” for “Organization Infrastructure” in item 2806.
 
 Pub. L. 104–106, div. A, title XV, §1503(a)(31), Feb. 10, 1996, 110 Stat. 512, inserted period at end of item 2811.
 

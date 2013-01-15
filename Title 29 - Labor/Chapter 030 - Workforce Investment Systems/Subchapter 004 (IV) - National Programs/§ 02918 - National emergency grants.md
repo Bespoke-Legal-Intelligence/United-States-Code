@@ -50,7 +50,7 @@ The Secretary shall designate a dislocated worker office to coordinate the funct
 
 &emsp;&emsp;&emsp;&emsp;(II)(aa) is involuntarily separated (as defined in section 1141 of title 10) from active duty or full-time National Guard duty; or
 
-&emsp;&emsp;&emsp;&emsp;(bb) is separated from active duty or full-time National Guard duty pursuant to a special separation benefits program under section 1174a of title 10 or the voluntary separation incentive program under section 1175 of that title;
+&emsp;&emsp;&emsp;&emsp;(bb) is separated from active duty or full-time National Guard duty pursuant to a special separation benefits programunder section 1174a of title 10 or the voluntary separation incentive program under section 1175 of that title;
 
 &emsp;&emsp;&emsp;&emsp;(III) is not entitled to retired or retained pay incident to the separation described in subclause (II); and
 
@@ -134,7 +134,7 @@ The Secretary shall designate a dislocated worker office to coordinate the funct
 
 #### (A) Health insurance coverage for eligible individuals in order to obtain qualified health insurance that has guaranteed issue and other consumer protections
 
-&emsp;&emsp;Funds made available to a State or entity under paragraph (4)(A) of subsection (a) may be used to provide an eligible individual described in paragraph (4)(C) and such individual's qualifying family members with health insurance coverage for the 3-month period that immediately precedes the first eligible coverage month (as defined in section 35(b) of title 26) in which such eligible individual and such individual's qualifying family members are covered by qualified health insurance that meets the requirements described in clauses (i) through (v) <sup>2</sup> of section 35(e)(2)(A) of title 26 (or such longer minimum period as is necessary in order for such eligible individual and such individual's qualifying family members to be covered by qualified health insurance that meets such requirements).
+&emsp;&emsp;Funds made available to a State or entity under paragraph (4)(A) of subsection (a) may be used to provide an eligible individual described in paragraph (4)(C) and such individual's qualifying family members with healthinsurance coverage for the 3-month period that immediately precedes the first eligible coverage month (as defined in section 35(b) of title 26) in which such eligible individual and such individual's qualifying family members are covered by qualified health insurance that meets the requirements described in clauses (i) through (v) <sup>2</sup> of section 35(e)(2)(A) of title 26 (or such longer minimum period as is necessary in order for such eligible individual and such individual's qualifying family members to be covered by qualified health insurance that meets such requirements).
 
 #### (B) Additional uses
 
@@ -162,7 +162,7 @@ The Secretary shall designate a dislocated worker office to coordinate the funct
 
 #### (iii) Outreach
 
-&emsp;&emsp;&emsp;To pay for outreach to eligible individuals to inform such individuals of available health insurance and qualified health insurance options, including outreach consisting of notice to eligible individuals of such options made available after February 17, 2009, and direct assistance to helppotentially eligible individuals and such individual's qualifying family members qualify and remain eligible for the credit established under section 35 of title 26 and advance payment of such credit under section 7527 of such title.
+&emsp;&emsp;&emsp;To pay for outreach to eligible individuals to inform such individuals of available health insurance and qualified health insurance options, including outreach consisting of notice to eligible individuals of such options made available after February 17, 2009, and direct assistance to help potentially eligible individuals and such individual's qualifying family members qualify and remain eligible for the credit established under section 35 of title 26 and advance payment of such credit under section 7527 of such title.
 
 #### (iv) Bridge funding
 
@@ -278,7 +278,7 @@ The Secretary shall designate a dislocated worker office to coordinate the funct
 
 &emsp;&emsp;In the case of the death of an eligible individual—
 
-&emsp;&emsp;&emsp;(i) any spouse of such individual (determined at the time of such death) shall be treated as an eligible individual for purposes of this subsection for a period of 24 months beginning with the date of such death, except that the only qualifying family members who may be taken into account with respect to such spouse are those individuals who were qualifying family members immediately before such death, and
+&emsp;&emsp;&emsp;(i) any spouse of such individual (determined at the time of such death) shall be treated as an eligible individual for purposes of this subsection for a period of 24 months beginning with the date of such death, except that the only qualifying family members who may be taken intoaccount with respect to such spouse are those individuals who were qualifying family members immediately before such death, and
 
 &emsp;&emsp;&emsp;(ii) any individual who was a qualifying family member of the decedent immediately before such death shall be treated as an eligible individual for purposes <sup>4</sup> this subsection for a period of 24 months beginning with the date of such death, except that no qualifying family members may be taken into account with respect to such individual.
 
@@ -308,7 +308,7 @@ The Secretary shall designate a dislocated worker office to coordinate the funct
 
 &emsp;&emsp;&emsp;(i) not later than 15 days after the date on which the Secretary receives a completed application from a State or entity, notify the State or entity of the determination of the Secretary with respect to the approval or disapproval of such application;
 
-&emsp;&emsp;&emsp;(ii) in the case of an application of a State or entity that is disapproved by the Secretary, provide technical assistance, at the request of the State or entity, in atimely manner to enable the State or entity to submit an approved application; and
+&emsp;&emsp;&emsp;(ii) in the case of an application of a State or entity that is disapproved by the Secretary, provide technical assistance, at the request of the State or entity, in a timely manner to enable the State or entity to submit an approved application; and
 
 &emsp;&emsp;&emsp;(iii) develop procedures to expedite the provision of funds to States and entities with approved applications.
 

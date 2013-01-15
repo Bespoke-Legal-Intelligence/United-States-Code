@@ -8,7 +8,7 @@ It is the purpose of the Congress in this chapter to reduce the risks of life an
 
 &emsp;(3) the implementation to the greatest extent practicable, in all areas of high or moderate seismic risk, of a system (including personnel, technology, and procedures) for predicting damaging earthquakes and for identifying, evaluating, and accurately characterizing seismic hazards;
 
-&emsp;(4) the development, publication, and promotion, in conjunction with State and localofficials and professional organizations, of model building codes and other means to encourage consideration of information about seismic risk in making decisions about land-use policy and construction activity;
+&emsp;(4) the development, publication, and promotion, in conjunction with State and local officials and professional organizations, of model building codes and other means to encourage consideration of information about seismic risk in making decisions about land-use policy and construction activity;
 
 &emsp;(5) the development, in areas of seismic risk, of improved understanding of, and capability with respect to, earthquake-related issues, including methods of mitigating the risks from earthquakes, planning to prevent such risks, disseminating warnings of earthquakes, organization emergency services, and planning for reconstruction and redevelopment after an earthquake;
 

@@ -14,6 +14,8 @@ Joint Professional Military Education.—Joint professional military education c
 
 &emsp;(5) Joint force and joint requirements development.
 
+&emsp;(6) Operational contract support.
+
 (b)
 
 Other Definitions.—In this chapter:
@@ -40,9 +42,15 @@ Other Definitions.—In this chapter:
 
 &emsp;(3) The term “joint intermediate level school” includes the National Defense Intelligence College.
 
-(Added Pub. L. 108–375, div. A, title V, §532(a)(2), Oct. 28, 2004, 118 Stat. 1897; amended Pub. L. 112–81, div. A, title V, §552(a)(2), Dec. 31, 2011, 125 Stat. 1412.)
+(Added Pub. L. 108–375, div. A, title V, §532(a)(2), Oct. 28, 2004, 118 Stat. 1897; amended Pub. L. 112–81, div. A, title V, §552(a)(2), Dec. 31, 2011, 125 Stat. 1412; Pub. L. 112–239, div. A, title VIII, §845(c), Jan. 2, 2013, 126 Stat. 1848.)
 
 #### Amendments
 
+<b>2013</b>—Subsec. (a)(6). Pub. L. 112–239 added par. (6).
+
 <b>2011</b>—Subsec. (b)(3). Pub. L. 112–81 added par. (3).
+
+#### Change of Name
+
+National Defense Intelligence College changed to National Intelligence University by Department of Defense Instruction 3305.01 on Feb. 9, 2011.
 

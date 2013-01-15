@@ -30,5 +30,5 @@ The purposes of this chapter are to—
 
 #### Short Title
 
-Section 1 of Pub. L. 103–399 provided that: “This Act \[enacting this chapter\] may be cited as the ‘Indian Lands Open Dump Cleanup Act of 1994’.”
+Pub. L. 103–399, §1, Oct. 22, 1994, 108 Stat. 4164, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Indian Lands Open Dump Cleanup Act of 1994’.”
 

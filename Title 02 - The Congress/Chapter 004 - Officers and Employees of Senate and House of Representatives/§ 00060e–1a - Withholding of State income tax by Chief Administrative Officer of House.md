@@ -18,7 +18,7 @@ Any agreement entered into under subsection (a) of this section shall not requir
 
 (1) A Member or employee may have in effect at any time only one request for withholding under subsection (a) of this section, and such Member or employee may not have more than two such requests in effect with respect to different States during any one calendar year. The request for withholding is effective on the first day of the month in which the request is processed by the Chief Administrative Officer, but in no event later than on the first day of the first month beginning after the day on which such request is received by the Chief Administrative Officer, except that—
 
-&emsp;(A) when the Chief Administrative Officer first enters into an agreement with a State under subsection (a) of this section, a request for withholding shall be effective on such date as the Chief Administrative Officer may determine;
+&emsp;(A) when the Chief Administrative Officer first enters into an agreement with a Stateunder subsection (a) of this section, a request for withholding shall be effective on such date as the Chief Administrative Officer may determine;
 
 &emsp;(B) when an individual first receives an appointment as an employee, the request shall be effective on the day of appointment, if the individual makes the request at the time of appointment; and
 

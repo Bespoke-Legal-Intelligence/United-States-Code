@@ -14,7 +14,7 @@ Subject to such rules as may be adopted by the Commission, the Commission may pr
 
 #### (d) Detail
 
-Upon request of the Commission, the head of any Federal agency represented by a member on the Commission may detail, on a reimbursable basis, any of the personnel of such agency to the Commission to assist it in carrying out its duties under this subchapter.
+Upon request of the Commission, the head of any Federal agency represented by a member on the Commission may detail, on a reimbursablebasis, any of the personnel of such agency to the Commission to assist it in carrying out its duties under this subchapter.
 
 #### (e) Administrative support
 

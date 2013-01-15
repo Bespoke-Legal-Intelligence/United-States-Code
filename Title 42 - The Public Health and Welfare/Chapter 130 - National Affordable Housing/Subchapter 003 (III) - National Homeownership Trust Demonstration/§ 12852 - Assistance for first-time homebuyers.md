@@ -22,7 +22,7 @@ The Trust shall provide assistance payments for first-time homebuyers (including
 
 #### (5) Capitalization of revolving loan funds
 
-&emsp;Grants to public organizations or agencies to establish revolving loan funds to providehomeownership assistance to eligible first-time homebuyers consistent with the requirements of this subchapter. Such grants shall be matched by an equal amount of local investment in such revolving loan funds. Any proceeds or repayments from loans made under this paragraph shall be returned to the revolving loan fund established under this paragraph to be used for purposes related to this section.
+&emsp;Grants to public organizations or agencies to establish revolving loan funds to provide homeownership assistance to eligible first-time homebuyers consistent with the requirements of this subchapter. Such grants shall be matched by an equal amount of local investment in such revolving loan funds. Any proceeds or repayments from loans made under this paragraph shall be returned to the revolving loan fund established under this paragraph to be used for purposes related to this section.
 
 #### (b) Eligibility requirements
 
@@ -90,7 +90,7 @@ Assistance payments under this subchapter may be made only to homebuyers and for
 
 #### (3) Repayment upon increased income
 
-&emsp;If the aggregate annual income of the homebuyer (and family of the homebuyer) assisted under this subchapter exceeds the applicable maximum income allowable under subsection (b)(2) of this section for any 2-year period aftersuch assistance is provided, the Board of Directors may provide for the repayment, on a monthly basis, of all or a portion of such assistance payments, based on the amount of assistance provided and the income of the homebuyer (and family of the homebuyer).
+&emsp;If the aggregate annual income of the homebuyer (and family of the homebuyer) assisted under this subchapter exceeds the applicable maximum income allowable under subsection (b)(2) of this section for any 2-year period after such assistance is provided, the Board of Directors may provide for the repayment, on a monthly basis, of all or a portion of such assistance payments, based on the amount of assistance provided and the income of the homebuyer (and family of the homebuyer).
 
 #### (4) Repayment if property ceases to be principal residence
 
@@ -108,7 +108,7 @@ Amounts available in any fiscal year for assistance under this subchapter shall 
 
 #### (1) Authority
 
-&emsp;The Trust shall provide assistance for first-time homebuyers in the form of interest rate buydowns and downpayment assistance under this subsection. Such assistance shall be available only with respect to mortgages for the purchase of residences (A) financed with the proceeds of a qualified mortgage bond (as such term is defined in section 143 of title 26), or (B) for which a credit is allowable under section 25 of title 26.
+&emsp;The Trust shall provide assistance for first-time homebuyers in the form of interest rate buydowns and downpayment assistance under this subsection. Such assistance shall be available only with respect to mortgages for the purchase of residences (A) financed with theproceeds of a qualified mortgage bond (as such term is defined in section 143 of title 26), or (B) for which a credit is allowable under section 25 of title 26.
 
 #### (2) Eligibility
 

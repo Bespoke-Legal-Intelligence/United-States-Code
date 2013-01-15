@@ -2,7 +2,7 @@
 
 (a)
 
-Position on List.—Officers shall be carried on the reserve active-status list of the armed force of which they are members in the order of seniority of the grade in which they are serving in an active status. Officers serving in the same grade shall be carried in the order of their rank in that grade.
+Position on List.—Officers shall be carried on the reserve active-status list of the armed force of which they are members in the order ofseniority of the grade in which they are serving in an active status. Officers serving in the same grade shall be carried in the order of their rank in that grade.
 
 (b)
 

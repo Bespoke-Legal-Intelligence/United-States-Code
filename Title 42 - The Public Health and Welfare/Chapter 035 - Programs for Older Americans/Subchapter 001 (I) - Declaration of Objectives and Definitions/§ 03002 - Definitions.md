@@ -80,7 +80,7 @@ For the purposes of this chapter—
 
 &emsp;(12) The term “civic engagement” means an individual or collective action designed to address a public concern or an unmet human, educational, health care, environmental, or public safety need.
 
-&emsp;(13) The term “disability” means (except when such term is used in the phrase “severe disability”, “developmental disabilities”, “physical or mental disability”, “physical and mental disabilities”, or “physical disabilities”) a disability attributable to mental or physical impairment, or a combination of mental and physical impairments, that results in substantial functional limitations in 1 or more of the following areas of major life activity: (A) self-care, (B) receptive and expressive language, (C) learning, (D) mobility, (E) self-direction, (F) capacity for independent living, (G) economic self-sufficiency, (H) cognitive functioning, and (I) emotional adjustment.
+&emsp;(13) The term “disability” means (except when such term is used in the phrase “severe disability”, “developmental disabilities”,“physical or mental disability”, “physical and mental disabilities”, or “physical disabilities”) a disability attributable to mental or physical impairment, or a combination of mental and physical impairments, that results in substantial functional limitations in 1 or more of the following areas of major life activity: (A) self-care, (B) receptive and expressive language, (C) learning, (D) mobility, (E) self-direction, (F) capacity for independent living, (G) economic self-sufficiency, (H) cognitive functioning, and (I) emotional adjustment.
 
 &emsp;(14) The term “disease prevention and health promotion services” means—
 
@@ -376,7 +376,7 @@ Pars. (44) to (54). Pub. L. 109–365, §101(a)(7), added pars. (44) to (54).
 
 Par. (12). Pub. L. 106–501, §101(2), added par. (12) and struck out former par. (12) which read as follows: “The term ‘Trust Territory of the Pacific Islands’ includes the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau.”
 
-Par. (18). Pub. L. 106–501, §101(3), redesignated par. (19) as (18) and struck out former par. (18) which read as follows: “The term ‘art therapy’ means the use of art and artistic processes specifically selected and administered by an art therapist, to accomplish the restoration, maintenance, or improvement of the mental, emotional, or social functioning of an older individual.”
+Par. (18). Pub. L. 106–501, §101(3), redesignated par. (19) as (18) and struck out former par. (18) which readas follows: “The term ‘art therapy’ means the use of art and artistic processes specifically selected and administered by an art therapist, to accomplish the restoration, maintenance, or improvement of the mental, emotional, or social functioning of an older individual.”
 
 Par. (19). Pub. L. 106–501, §101(4), added par. (19) and struck out former par. (19) which read as follows: “The term ‘caregiver’ means an individual who has the responsibility for the care of an older individual, either voluntarily, by contract, by receipt of payment for care, or as a result of the operation of law.”
 

@@ -28,19 +28,19 @@ The President shall, pursuant to the International Emergency Economic Powers Act
 
 &emsp;&emsp;(B) may impose sanctions pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) with respect to the Central Bank of Iran.
 
-#### (2) Exception for sales of food, medicine, and medical devices
+#### (2) Exception for sales of agricultural commodities, food, medicine, and medical devices
 
-&emsp;The President may not impose sanctions under paragraph (1) with respect to any person for conducting or facilitating a transaction for the sale of food, medicine, or medical devices to Iran.
+&emsp;The President may not impose sanctions under paragraph (1) with respect to any person for conducting or facilitating a transaction for the sale of agricultural commodities, food, medicine, or medical devices to Iran.
 
 #### (3) Applicability of sanctions with respect to foreign central banks
 
-&emsp;Except as provided in paragraph (4), sanctions imposed under paragraph (1)(A) shall apply with respect to a foreign financial institution owned or controlled by the government of a foreign country, including a central bank of a foreign country, only insofar as it engages in a financial transaction for the sale or purchase of petroleum or petroleum products to or from Iran conducted or facilitated on or after that date that is 180 days after December 31, 2011.
+&emsp;Except as provided in paragraph (4), sanctions imposed under paragraph (1)(A) shall apply with respect to a central bank of a foreign country, only insofar as it engages in a financial transaction for the sale or purchase of petroleum or petroleum products to or from Iran conducted or facilitated on or after that date that is 180 days after December 31, 2011.
 
 #### (4) Applicability of sanctions with respect to petroleum transactions
 
 #### (A) Report required
 
-&emsp;&emsp;Not later than 60 days after December 31, 2011, and every 60 days thereafter, the Administrator of the Energy Information Administration, in consultation with the Secretary of the Treasury, the Secretary of State, and the Director of National Intelligence, shall submit to Congress a report on the availability and price of petroleum and petroleum products produced in countries other than Iran in the 60-day period preceding the submission of the report.
+&emsp;&emsp;Not later than October 25, 2012, and the last Thursday of every other month thereafter, the Administrator of the Energy Information Administration, in consultation with the Secretary of the Treasury, the Secretary of State, and the Director of National Intelligence, shall submit to Congress a report on the availability and price of petroleum and petroleum products produced in countries other than Iran in the 2-month period preceding the submission of the report.
 
 #### (B) Determination required
 
@@ -52,7 +52,21 @@ The President shall, pursuant to the International Emergency Economic Powers Act
 
 #### (D) Exception
 
-&emsp;&emsp;Sanctions imposed pursuant to paragraph (1) shall not apply with respect to a foreign financial institution if the President determines and reports to Congress, not later than 90 days after the date on which the President makes the determination required by subparagraph (B), and every 180 days thereafter, that the country with primary jurisdiction over the foreign financial institution has significantly reduced its volume of crude oil purchases from Iran during the period beginning on the date on which the President submitted the last report with respect to the country under this subparagraph.
+#### (i) In general
+
+&emsp;&emsp;&emsp;Sanctions imposed pursuant to paragraph (1) shall not apply with respect to a financial transaction described in clause (ii) conducted or facilitated by a foreign financial institution if the President determines and reports to Congress, not later than 90 days after the date on which the President makes the determination required by subparagraph (B), and every 180 days thereafter, that the country with primary jurisdiction over the foreign financial institution—
+
+&emsp;&emsp;&emsp;&emsp;(I) has significantly reduced reduced <sup>1</sup> its volume of crude oil purchases from Iran during the period beginning on the date on which the President submitted the last report with respect to the country under this subparagraph; or
+
+&emsp;&emsp;&emsp;&emsp;(II) in the case of a country that has previously received an exception under this subparagraph, has, after receiving the exception, reduced its crude oil purchases from Iran to zero.
+
+#### (ii) Financial transactions described
+
+&emsp;&emsp;&emsp;A financial transaction conducted or facilitated by a foreign financial institution is described in this clause if—
+
+&emsp;&emsp;&emsp;&emsp;(I) the financial transaction is only for trade in goods or services between the country with primary jurisdiction over the foreign financial institution and Iran; and
+
+&emsp;&emsp;&emsp;&emsp;(II) any funds owed to Iran as a result of such trade are credited to an account located in the country with primary jurisdiction over the foreign financial institution.
 
 #### (5) Waiver
 
@@ -62,9 +76,11 @@ The President shall, pursuant to the International Emergency Economic Powers Act
 
 &emsp;&emsp;(B) submits to Congress a report—
 
-&emsp;&emsp;&emsp;(i) providing a justification for the waiver; and
+&emsp;&emsp;&emsp;(i) providing a justification for the waiver;
 
-&emsp;&emsp;&emsp;(ii) that includes any concrete cooperation the President has received or expects to receive as a result of the waiver.
+&emsp;&emsp;&emsp;(ii) certifying that the country with primary jurisdiction over the foreign financial institution otherwise subject to the sanctions faced exceptional circumstances that prevented the country from being able to reduce significantly its purchases of petroleum and petroleum products from Iran; and
+
+&emsp;&emsp;&emsp;(iii) that includes any concrete cooperation the President has received or expects to receive as a result of the waiver.
 
 #### (e) Multilateral diplomacy initiative
 
@@ -82,13 +98,13 @@ The President shall, pursuant to the International Emergency Economic Powers Act
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) in the Annex to the Missile Technology Control Regime Guidelines;
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) in the Annex on Chemicals to the Convention on the Prohibition ofthe Development, Production, Stockpiling and Use of Chemical Weapons and on their Destruction, done at Paris January 13, 1993, and entered into force April 29, 1997 (commonly known as the “Chemical Weapons Convention”);
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) in the Annex on Chemicals to the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on their Destruction, done at Paris January 13, 1993, and entered into force April 29, 1997 (commonly known as the “Chemical Weapons Convention”);
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(cc) in Part 1 or 2 of the Nuclear Suppliers Group Guidelines; or
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(dd) on a control list of the Wassenaar Arrangement on Export Controls for Conventional Arms and Dual-Use Goods and Technologies; or
 
-&emsp;&emsp;&emsp;&emsp;(II) any other item that could contribute to Iran's conventional, nuclear, chemical, or biological weapons program; and
+&emsp;&emsp;&emsp;&emsp;(II) any other item that could contribute to Iran's conventional, nuclear,chemical, or biological weapons program; and
 
 &emsp;&emsp;(B) conduct outreach to petroleum-producing countries to encourage those countries to increase their output of crude oil to ensure there is a sufficient supply of crude oil from countries other than Iran and to minimize any impact on the price of oil resulting from the imposition of sanctions under this section.
 
@@ -122,7 +138,11 @@ In this section:
 
 &emsp;The term “foreign financial institution” has the meaning of that term as determined by the Secretary of the Treasury pursuant to section 8513(i) of this title.
 
-#### (3) United states person
+#### (3) Significant reductions
+
+&emsp;The terms “reduce significantly”, “significant reduction”, and “significantly reduced”, with respect to purchases from Iran of petroleum and petroleum products, include a reduction in such purchases in terms of price or volume toward a complete cessation of such purchases.
+
+#### (4) United States person
 
 &emsp;The term “United States person” means—
 
@@ -130,7 +150,11 @@ In this section:
 
 &emsp;&emsp;(B) an entity that is organized under the laws of the United States or a jurisdiction within the United States.
 
-(Pub. L. 112–81, div. A, title XII, §1245, Dec. 31, 2011, 125 Stat. 1647.)
+#### (i) Termination
+
+The provisions of this section shall terminate on the date that is 30 days after the date on which the President submits to Congress the certification described in section 8551(a) of this title.
+
+(Pub. L. 112–81, div. A, title XII, §1245, Dec. 31, 2011, 125 Stat. 1647; Pub. L. 112–158, title V, §§503(a)(1), (b)(1), 504(a), Aug. 10, 2012, 126 Stat. 1260, 1261; Pub. L. 112–239, div. A, title XII, §1250, Jan. 2, 2013, 126 Stat. 2016.)
 
 #### References in Text
 
@@ -139,4 +163,46 @@ The International Emergency Economic Powers Act, referred to in subsecs. (c) and
 #### Codification
 
 Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2012, and not as part of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 which comprises this chapter.
+
+#### Amendments
+
+<b>2013</b>—Subsec. (d)(5)(B)(ii), (iii). Pub. L. 112–239 added cl. (ii) and redesignated former cl. (ii) as (iii).
+
+<b>2012</b>—Subsec. (d)(2). Pub. L. 112–158, §503(a)(1), inserted “agricultural commodities,” after “sales of” in heading and after “sale of” in text.
+
+Subsec. (d)(3). Pub. L. 112–158, §504(a)(1)(A), struck out “a foreign financial institution owned or controlled by the government of a foreign country, including” after “with respect to”.
+
+Subsec. (d)(4)(A). Pub. L. 112–158, §503(b)(1), substituted “October 25, 2012, and the last Thursday of every other month thereafter” for “60 days after December 31, 2011, and every 60 days thereafter” and “2-month period” for “60-day period”.
+
+Subsec. (d)(4)(D)(i). Pub. L. 112–158, §504(a)(1)(B)(i), (ii), designated existing provisions as cl. (i) and inserted cl. heading, substituted “a financial transaction described in clause (ii) conducted or facilitated by a foreign financial institution” for “a foreign financial institution” and “institution—” for “institution has significantly”, inserted subcl. (I) designation and “has significantly reduced” before “reduced its volume”, and added subcl. (II).
+
+Subsec. (d)(4)(D)(ii). Pub. L. 112–158, §504(a)(1)(B)(iii), added cl. (ii).
+
+Subsec. (h)(3), (4). Pub. L. 112–158, §504(a)(2), added par. (3) and redesignated former par. (3) as (4).
+
+Subsec. (i). Pub. L. 112–158, §504(a)(3), added subsec. (i).
+
+#### Effective Date of 2012 Amendment
+
+Pub. L. 112–158, title V, §503(a)(2), Aug. 10, 2012, 126 Stat. 1261, provided that: “The amendments made by paragraph (1) \[amending this section\] shall take effect as if included in the National Defense Authorization Act for Fiscal Year 2012 (Public Law 112–81; 125 Stat. 1298).”
+
+Pub. L. 112–158, title V, §503(b)(2), Aug. 10, 2012, 126 Stat. 1261, provided that: “The amendments made by paragraph (1) \[amending this section\] shall take effect on September 1, 2012.”
+
+Pub. L. 112–158, title V, §504(b), Aug. 10, 2012, 126 Stat. 1262, provided that: “The amendments made by paragraphs (1) and (2) of subsection (a) \[amending this section\] shall apply with respect to financial transactions conducted or facilitated on or after the date that is 180 days after the date of the enactment of this Act \[Aug. 10, 2012\].”
+
+#### Delegation of Functions
+
+Ex. Ord. No. 13599, Feb. 5, 2012, 77 F.R. 6659, which is listed in a table under section 1701 of Title 50, War and National Defense, provided in section 10 that the Secretary of the Treasury, in consultation with the Secretary of State, is authorized to exercise the functions and authorities conferred upon the President by subsecs. (d)(1)(A) and (g)(1) of this section and to redelegate such functions and authorities consistent with applicable law; and provided in section 11 that the Secretary of State, in consultation with the Secretary of the Treasury, the Secretary of Energy, and the Director of National Intelligence, is authorized to exercise the functions and authorities conferred upon the President by subsec. (d)(4)(D) of this section and that the Secretary of State, in consultation with the Secretary of the Treasury, is authorized to exercise the functions and authorities conferred upon the President by subsecs. (e)(1), (2) and (g)(1) of this section and to redelegate all such functions and authorities consistent with applicable law.
+
+#### Presidential Determinations Relating to Petroleum or Petroleum Products from Iran
+
+The following Presidential Determinations related to the existence of sufficient supplies of petroleum and petroleum products from countries other than Iran pursuant to subsec. (d)(4)(B) and (C) of this section:
+
+Determination of President of the United States, No. 2013–03, Dec. 7, 2012, 77 F.R. 76213.
+
+Determination of President of the United States, No. 2012–09, June 11, 2012, 77 F.R. 36387.
+
+Determination of President of the United States, No. 2012–05, Mar. 30, 2012, 77 F.R. 21387.
+
+<i><sup>1</sup></i><i> So in original.</i>
 

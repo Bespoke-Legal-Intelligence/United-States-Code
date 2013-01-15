@@ -10,7 +10,7 @@ Notwithstanding any other provision of law (including any provision of law enact
 
 #### (c) Definition
 
-For purposes of this section, the term “authorized investigative agency” means an agency authorized by law or regulation to conduct a counterintelligence investigation or investigations of persons who are proposed for access to classified information to ascertain whether such persons satisfy the criteria for obtaining and retaining access to such information.
+For purposes of this section, the term “authorized investigative agency” means an agencyauthorized by law or regulation to conduct a counterintelligence investigation or investigations of persons who are proposed for access to classified information to ascertain whether such persons satisfy the criteria for obtaining and retaining access to such information.
 
 (Pub. L. 106–65, div. C, title XXXII, §3235, Oct. 5, 1999, 113 Stat. 961.)
 

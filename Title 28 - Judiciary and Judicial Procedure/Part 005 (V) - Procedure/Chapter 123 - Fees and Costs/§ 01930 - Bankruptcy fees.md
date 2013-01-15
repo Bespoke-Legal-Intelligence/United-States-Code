@@ -8,9 +8,9 @@
 
 &emsp;&emsp;(B) chapter 13 of title 11, $235.
 
-&emsp;(2) For a case commenced under chapter 9 of title 11, equal to the fee specified in paragraph (3) for filing a case under chapter 11 of title 11. The amount by which the fee payable under this paragraph exceeds $300 shall be deposited in the fund established under section 1931 of this title.
+&emsp;(2) For a case commenced under chapter 9 of title 11, equal to the fee specified in paragraph\(3) for filing a case under chapter 11 of title 11. The amount by which the fee payable under this paragraph exceeds $300 shall be deposited in the fund established under section 1931 of this title.
 
-&emsp;(3) For a case commenced under chapter 11 of title 11 that does not concern a railroad, as defined in section 101 of title 11, $1,000.
+&emsp;(3) For a case commenced under chapter 11 of title 11 that does not concern a railroad, as defined in section 101 of title 11, $1,167.
 
 &emsp;(4) For a case commenced under chapter 11 of title 11 concerning a railroad, as so defined, $1,000.
 
@@ -36,7 +36,7 @@
 
 (3) This subsection does not restrict the district court or the bankruptcy court from waiving, in accordance with Judicial Conference policy, fees prescribed under this section for other debtors and creditors.
 
-(Added Pub. L. 95–598, title II, §246(a), Nov. 6, 1978, 92 Stat. 2671; amended Pub. L. 98–353, title I, §111(a), (b), July 10, 1984, 98 Stat. 342; Pub. L. 99–500, §101(b) \[title IV, §407(b)\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–64, and Pub. L. 99–591, §101(b) \[title IV, §407(b)\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–64; Pub. L. 99–554, title I, §§117, 144(f), Oct. 27, 1986, 100 Stat. 3095, 3097; Pub. L. 101–162, title IV, §406(a), Nov. 21, 1989, 103 Stat. 1016; Pub. L. 102–140, title I, §111(a), Oct. 28, 1991, 105 Stat. 795; Pub. L. 103–121, title I, §111(a)(1), (b)(1), Oct. 27, 1993, 107 Stat. 1164; Pub. L. 104–91, title I, §101(a), Jan. 6, 1996, 110 Stat. 11, amended Pub. L. 104–99, title II, §211, Jan. 26, 1996, 110 Stat. 37; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §109(a)\], Sept. 30, 1996, 110 Stat. 3009, 3009–18; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §113\], Nov. 29, 1999, 113 Stat. 1535, 1501A–20; Pub. L. 106–518, title I, §§103–105, Nov. 13, 2000, 114 Stat. 2411, 2412; Pub. L. 109–8, title III, §325(a), title IV, §418, Apr. 20, 2005, 119 Stat. 98, 108; Pub. L. 109–13, div. A, title VI, §6058(a), May 11, 2005, 119 Stat. 297; Pub. L. 109–171, title X, §10101(a), Feb. 8, 2006, 120 Stat. 184; Pub. L. 110–161, div. B, title II, §213(a), Dec. 26, 2007, 121 Stat. 1914.)
+(Added Pub. L. 95–598, title II, §246(a), Nov. 6, 1978, 92 Stat. 2671; amended Pub. L. 98–353, title I, §111(a), (b), July 10, 1984, 98 Stat. 342; Pub. L. 99–500, §101(b) \[title IV, §407(b)\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–64, and Pub. L. 99–591, §101(b) \[title IV, §407(b)\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–64; Pub. L. 99–554, title I, §§117, 144(f), Oct. 27, 1986, 100 Stat. 3095, 3097; Pub. L. 101–162, title IV, §406(a), Nov. 21, 1989, 103 Stat. 1016; Pub. L. 102–140, title I, §111(a), Oct. 28, 1991, 105 Stat. 795; Pub. L. 103–121, title I, §111(a)(1), (b)(1), Oct. 27, 1993, 107 Stat. 1164; Pub. L. 104–91, title I, §101(a), Jan. 6, 1996, 110 Stat. 11, amended Pub. L. 104–99, title II, §211, Jan. 26, 1996, 110 Stat. 37; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §109(a)\], Sept. 30, 1996, 110 Stat. 3009, 3009–18; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §113\], Nov. 29, 1999, 113 Stat. 1535, 1501A–20; Pub. L. 106–518, title I, §§103–105, Nov. 13, 2000, 114 Stat. 2411, 2412; Pub. L. 109–8, title III, §325(a), title IV, §418, Apr. 20, 2005, 119 Stat. 98, 108; Pub. L. 109–13, div. A, title VI, §6058(a), May 11, 2005, 119 Stat. 297; Pub. L. 109–171, title X, §10101(a), Feb. 8, 2006, 120 Stat. 184; Pub. L. 110–161, div. B, title II, §213(a), Dec. 26, 2007, 121 Stat. 1914; Pub. L. 112–121, §3(a), May 25, 2012, 126 Stat. 348.)
 
 #### References in Text
 
@@ -50,7 +50,9 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-<b>2007</b>—Subsec. (a)(6). Pub. L. 110–161 substituted last two sentences for former last two sentences which readas follows: “The fee shall be $250 for each quarter in which disbursements total less than $15,000; $500 for each quarter in which disbursements total $15,000 or more but less than $75,000; $750 for each quarter in which disbursements total $75,000 or more but less than $150,000; $1,250 for each quarter in which disbursements total $150,000 or more but less than $225,000; $1,500 for each quarter in which disbursements total $225,000 or more but less than $300,000; $3,750 for each quarter in which disbursements total $300,000 or more but less than $1,000,000; $5,000 for each quarter in which disbursements total $1,000,000 or more but less than $2,000,000; $7,500 for each quarter in which disbursements total $2,000,000 or more but less than $3,000,000; $8,000 for each quarter in which disbursements total $3,000,000 or more but less than $5,000,000; $10,000 for each quarter in which disbursements total $5,000,000 or more. The fee shall be payable on the last day of the calendar month following the calendar quarter for which the fee is owed.”
+<b>2012</b>—Subsec. (a)(3). Pub. L. 112–121 substituted “$1,167” for “$1,000”.
+
+<b>2007</b>—Subsec. (a)(6). Pub. L. 110–161 substituted last two sentences for former last two sentences which read as follows: “The fee shall be $250 for each quarter in which disbursements total less than $15,000; $500 for each quarter in which disbursements total $15,000 or more but less than $75,000; $750 for each quarter in which disbursements total $75,000 or more but less than $150,000; $1,250 for each quarter in which disbursements total $150,000 or more but less than $225,000; $1,500 for each quarter in which disbursements total $225,000 or more but less than $300,000; $3,750 for each quarter in which disbursements total $300,000 or more but less than $1,000,000; $5,000 for each quarter in which disbursements total $1,000,000 or more but less than $2,000,000; $7,500 for each quarter in which disbursements total $2,000,000 or more but less than $3,000,000; $8,000 for each quarter in which disbursements total $3,000,000 or more but less than $5,000,000; $10,000 for each quarter in which disbursements total $5,000,000 or more. The fee shall be payable on the last day of the calendar month following the calendar quarter for which the fee is owed.”
 
 <b>2006</b>—Subsec. (a)(1). Pub. L. 109–171, §10101(a)(1), substituted “$245” for “$220” in subpar. (A) and “$235” for “$150” in subpar. (B).
 
@@ -102,6 +104,10 @@ Subsec. (a)(5), (6). Pub. L. 99–554, §117(4), added pars. (5) and (6).
 
 Subsecs. (a), (c), (e). Pub. L. 98–353, §111(a), substituted “clerk of the court” for “clerk of the bankruptcy court”.
 
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–121 effective 180 days after May 25, 2012, see section 3(e) of Pub. L. 112–121, set out as a note under section 589a of this title.
+
 #### Effective Date of 2007 Amendment
 
 Pub. L. 110–161, div. B, title II, §213(b), Dec. 26, 2007, 121 Stat. 1914, provided that: “This section \[amending this section\] and the amendment made by this section shall take effect January 1, 2008, or the date of the enactment of this Act \[Dec. 26, 2007\], whichever is later.”
@@ -122,17 +128,17 @@ Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §113\], Nov. 29, 1999, 113 S
 
 #### Effective Date of 1993 Amendment
 
-Section 111(a) of Pub. L. 103–121 provided in part that the amendment made by that section is effective 30 days after Oct. 27, 1993.
+Pub. L. 103–121, title I, §111(a), Oct. 27, 1993, 107 Stat. 1164, provided in part that the amendment made by that section is effective 30 days after Oct. 27, 1993.
 
-Section 111(b) of Pub. L. 103–121 provided in part that the amendment made by that section is effective 30 days after Oct. 27, 1993.
+Pub. L. 103–121, title I, §111(b), Oct. 27, 1993, 107 Stat. 1164, provided in part that the amendment made by that section is effective 30 days after Oct. 27, 1993.
 
 #### Effective Date of 1991 Amendment
 
-Section 111 of Pub. L. 102–140 provided that the amendment made by that section is effective 60 days after Oct. 28, 1991.
+Pub. L. 102–140, title I, §111, Oct. 28, 1991, 105 Stat. 795, provided that the amendment made by that section is effective 60 days after Oct. 28, 1991.
 
 #### Effective Date of 1989 Amendment; Miscellaneous Fees
 
-Section 406(a) of Pub. L. 101–162 provided that: “Section 1930(a)(1) of title 28, United States Code, is amended by striking out ‘$90’ and inserting in lieu thereof ‘$120’. Pursuant to section 1930(b) of title 28, the Judicial Conference of the United States shall prescribe a fee of $60 on motions seeking relief from the automatic stay under 11 U.S.C. section 362(b) and motions to compel abandonment of property of the estate. The fees established pursuant to the preceding two sentences shall take effect 30 days after the enactment of this Act \[Nov. 21, 1989\].”
+Pub. L. 101–162, title IV, §406(a), Nov. 21, 1989, 103 Stat. 1016, provided that: “Section 1930(a)(1) of title 28, United States Code, is amended by striking out ‘$90’ and inserting in lieu thereof ‘$120’. Pursuant to section 1930(b) of title 28, the Judicial Conference of the United States shall prescribe a fee of $60 on motions seeking relief from the automatic stay under 11 U.S.C. section 362(b) and motions to compel abandonment of property of the estate. The fees established pursuant to the preceding two sentences shall take effect 30 days after the enactment of this Act \[Nov. 21, 1989\].”
 
 #### Effective Date of 1986 Amendment
 
@@ -152,11 +158,11 @@ Pub. L. 109–8, title III, §325(e), Apr. 20, 2005, 119 Stat. 99, which provide
 
 #### Accrual and Payment of Quarterly Fees in Chapter 11 Cases After Jan. 27, 1996; Confirmation Status of Plans
 
-Section 101(a) of Pub. L. 104–91, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title I, §109(d)\], Sept. 30, 1996, 110 Stat. 3009, 3009–19, provided in part: “That, notwithstanding any other provision of law, the fees under 28 U.S.C. 1930(a)(6) shall accrue and be payable from and after January 27, 1996, in all cases (including, without limitation, any cases pending as of that date), regardless of confirmation status of their plans”.
+Pub. L. 104–91, title I, §101(a), Jan. 6, 1996, 110 Stat. 10, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title I, §109(d)\], Sept. 30, 1996, 110 Stat. 3009, 3009–19, provided in part: “That, notwithstanding any other provision of law, the fees under 28 U.S.C. 1930(a)(6) shall accrue and be payable from and after January 27, 1996, in all cases (including, without limitation, any cases pending as of that date), regardless of confirmation status of their plans”.
 
 #### Report on Bankruptcy Fees
 
-Section 111(d) of Pub. L. 103–121 provided that:
+Pub. L. 103–121, title I, §111(d), Oct. 27, 1993, 107 Stat. 1165, provided that:
 
 “(1)
 
@@ -188,9 +194,9 @@ Judicial Conference to prescribe reasonable fees for collection by courts under 
 
 #### Issuance of Notices to Creditors and Other Interested Parties
 
-Section 403 of Pub. L. 101–162 provided that: “Notwithstanding any other provision of law, for fiscal year 1990 and hereafter, (a) The Administrative Office of the United States Courts, or any other agency or instrumentality of the United States, is prohibited from restricting solely to staff of the Clerks of the United States Bankruptcy Courts the issuance of notices to creditors and other interested parties. (b) The Administrative Office shall permit and encourage the preparation and mailing of such notices to be performed by or at the expense of the debtors, trustees or such other interested parties as the Court may direct and approve. (c) The Director of the Administrative Office of the United States Courts shall make appropriate provisions for the use of and accounting for any postage required pursuant to such directives.”
+Pub. L. 101–162, title IV, §403, Nov. 21, 1989, 103 Stat. 1013, provided that: “Notwithstanding any other provision of law, for fiscal year 1990 and hereafter, (a) The Administrative Office of the United States Courts, or any other agency or instrumentality of the United States, is prohibited from restricting solely to staff of the Clerks of the United States Bankruptcy Courts the issuance of notices to creditors and other interested parties. (b) The Administrative Office shall permit and encourage the preparation and mailing of such notices to be performed by or at the expense of the debtors, trustees or such other interested parties as the Court may direct and approve. (c) The Director of the Administrative Office of the United States Courts shall make appropriate provisions for the use of and accounting for any postage required pursuant to such directives.”
 
 #### Collection and Disposition of Fees in Bankruptcy Cases
 
-Section 404(a) of Pub. L. 101–162 provided that: “For fiscal year 1990 and hereafter, such fees as shall be collected for the preparation and mailing of notices in bankruptcy cases as prescribed by the Judicial Conference of the United States pursuant to 28 U.S.C. 1930(b) shall be deposited to the ‘Courts of Appeals, District Courts, and Other Judicial Services, Salaries and Expenses’ appropriation to be used for salaries and other expenses incurred in providing these services.”
+Pub. L. 101–162, title IV, §404(a), Nov. 21, 1989, 103 Stat. 1013, provided that: “For fiscal year 1990 and hereafter, such fees as shall be collected for the preparation and mailing of notices in bankruptcy cases as prescribed by the Judicial Conference of the United States pursuant to 28 U.S.C. 1930(b) shall be deposited to the ‘Courts of Appeals, District Courts, and Other Judicial Services, Salaries and Expenses’ appropriation to be used for salaries and other expenses incurred in providing these services.”
 

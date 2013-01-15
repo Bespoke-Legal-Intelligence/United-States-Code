@@ -20,15 +20,15 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 #### Effective Date
 
-Section 17 of Pub. L. 88–652 provided that: “This Act \[enacting this chapter and amending sections 88c and 123b of this title\] shall become effective on January 1, 1965.”
+Pub. L. 88–652, §17, Oct. 13, 1964, 78 Stat. 1084, provided that: “This Act \[enacting this chapter and amending sections 88c and 123b of this title\] shall become effective on January 1, 1965.”
 
 #### Short Title
 
-Section 1 of Pub. L. 88–652 provided that: “This Act \[enacting this chapter and amending sections 88c and 123b of this title\] may be cited as the ‘House Employees Position Classification Act’.”
+Pub. L. 88–652, §1, Oct. 13, 1964, 78 Stat. 1079, provided that: “This Act \[enacting this chapter and amending sections 88c and 123b of this title\] may be cited as the ‘House Employees Position Classification Act’.”
 
 #### Savings Provision
 
-Section 15 of Pub. L. 88–652 provided that:
+Pub. L. 88–652, §15, Oct. 13, 1964, 78 Stat. 1084, provided that:
 
 “(a) Notwithstanding any provision of this Act \[this chapter\], the aggregate (gross) rate of compensation of any employee immediately prior to the effective date of this Act \[Jan. 1, 1965\] shall not be reduced by reason of the enactment of this Act.
 

@@ -6,7 +6,7 @@
 
 (2) Notwithstanding any other provision of statute, regulation, or administrative limitation, no limitation shall terminate the period within which suit may be filed, a judgment may be enforced, or an offset, garnishment, or other action initiated or taken by—
 
-&emsp;(A) an institution that receives funds under this subchapter and part C of subchapter I of chapter 34 of title 42 that is seeking to collect a refund due from a student on a grant made, or work assistance awarded, under this subchapter and part C of subchapter I of chapter 34 of title 42;
+&emsp;(A) an institution that receives funds under this subchapter and part C of subchapter I ofchapter 34 of title 42 that is seeking to collect a refund due from a student on a grant made, or work assistance awarded, under this subchapter and part C of subchapter I of chapter 34 of title 42;
 
 &emsp;(B) a guaranty agency that has an agreement with the Secretary under section 1078(c) of this title that is seeking the repayment of the amount due from a borrower on a loan made under part B of this subchapter after such guaranty agency reimburses the previous holder of the loan for its loss on account of the default of the borrower;
 
@@ -58,5 +58,5 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Effective Date of 1991 Amendment
 
-Section 3(c) of Pub. L. 102–26, as amended by Pub. L. 102–325, title XV, §1551, July 23, 1992, 105 Stat. 838, provided that: “The amendments made by this section \[amending this section\] shall be effective as if enacted by the Consolidated Omnibus Budget Reconciliation Act of 1985 (Public Law 99–272), and shall apply to any actions pending on or after the date of enactment of the Higher Education Technical Amendments of 1991 \[Apr. 9, 1991\].”
+Pub. L. 102–26, §3(c), Apr. 9, 1991, 105 Stat. 125, as amended by Pub. L. 102–325, title XV, §1551, July 23, 1992, 105 Stat. 838, provided that: “The amendments made by this section \[amending this section\] shall be effective as if enacted by the Consolidated Omnibus Budget Reconciliation Act of 1985 (Public Law 99–272), and shall apply to any actions pending on or after the date of enactment of the Higher Education Technical Amendments of 1991 \[Apr. 9, 1991\].”
 

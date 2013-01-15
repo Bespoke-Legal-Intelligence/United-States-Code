@@ -6,7 +6,7 @@ Under such regulations as the Secretary of State may prescribe, special agents o
 
 &emsp;(1) conduct investigations concerning illegal passport or visa issuance or use;
 
-&emsp;(2) obtain and execute search and arrest warrants, as well as obtain and serve subpoenas and summonses issued under the authority of the United States;
+&emsp;(2) obtain and execute search and arrest warrants, as well as obtain and serve subpoenasand summonses issued under the authority of the United States;
 
 &emsp;(3) protect and perform protective functions directly related to maintaining the security and safety of—
 

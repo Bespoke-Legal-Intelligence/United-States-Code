@@ -30,7 +30,7 @@ Termination of Assistance.—No educational assistance shall be afforded any eli
 
 #### Prior Provisions
 
-Provisions similar to those comprising subsecs. (a) and (b) of this section were contained in Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1176, which was classified toformer sections 1612(c) and 1613(a), and 1612(a) of this title, respectively, prior to repeal by section 4(a) of Pub. L. 89–358.
+Provisions similar to those comprising subsecs. (a) and (b) of this section were contained in Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1176, which was classified to former sections 1612(c) and 1613(a), and 1612(a) of this title, respectively, prior to repeal by section 4(a) of Pub. L. 89–358.
 
 #### Amendments
 
@@ -102,11 +102,11 @@ Pub. L. 108–183, title III, §306(h)(1), Dec. 16, 2003, 117 Stat. 2661, provid
 
 #### Effective Date of 1982 Amendment
 
-Section 206(c) of Pub. L. 97–306 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect as of January 1, 1982.”
+Pub. L. 97–306, title II, §206(c), Oct. 14, 1982, 96 Stat. 1435, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect as of January 1, 1982.”
 
 #### Effective Date of 1981 Amendments
 
-Section 201(b) of Pub. L. 97–72 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 1982.”
+Pub. L. 97–72, title II, §201(b), Nov. 3, 1981, 95 Stat. 1054, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 1982.”
 
 Amendment by Pub. L. 97–35 effective Oct. 1, 1981, except as otherwise provided, see section 2006 of Pub. L. 97–35, set out as a note under section 3231 of this title.
 
@@ -130,7 +130,7 @@ Amendment by Pub. L. 90–77 effective first day of first calendar month which b
 
 #### Proposal of Regulations
 
-Section 206(b) of Pub. L. 97–306 directed Administrator of Veterans’ Affairs to publish, not later than 30 days after Oct. 14, 1982, proposed regulations under subsec. (a)(3)(C)(i) of this section and to publish, not later than 90 days after Oct. 14, 1982, final regulations under subsec. (a)(3)(C)(i).
+Pub. L. 97–306, title II, §206(b), Oct. 14, 1982, 96 Stat. 1435, directed Administrator of Veterans’ Affairs to publish, not later than 30 days after Oct. 14, 1982, proposed regulations under subsec. (a)(3)(C)(i) of this section and to publish, not later than 90 days after Oct. 14, 1982, final regulations under subsec. (a)(3)(C)(i).
 
 #### Extension of Time for Pursuit of Educational Programs
 

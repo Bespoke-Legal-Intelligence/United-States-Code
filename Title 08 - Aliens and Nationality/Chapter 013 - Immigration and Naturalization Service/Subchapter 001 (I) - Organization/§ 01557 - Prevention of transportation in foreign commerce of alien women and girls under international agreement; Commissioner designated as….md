@@ -10,11 +10,11 @@ This Act, referred to in text, is act June 25, 1910, ch. 395, 36 Stat. 825, know
 
 #### Codification
 
-Section was originally classified to section 402(1) of Title 18 prior to the general revision and enactment of Title 18, Crimes and Criminal Procedure, by act June 25, 1948, ch. 645, 62 Stat. 683. Thereafter, it was classified to section 342<i>l</i> of Title 5 prior to enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378, and was subsequently classified to section 238 of this title prior to transfer to this section.
+Section was originally classified to section 402(1) of Title 18 prior to the general revision and enactment of Title 18, Crimes and Criminal Procedure, by act June 25, 1948, ch. 645, 62 Stat. 683. Thereafter, it was classified to section 342l of Title 5 prior to enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378, and was subsequently classified to section 238 of this title prior to transfer to this section.
 
 #### Transfer of Functions
 
-Functions vested by law in Attorney General, Department of Justice, or any other officer or any agency of that Department, with respect to inspection at regular inspection locations at ports of entry of persons, and documents of persons, entering or leaving United States, were to have been transferred to Secretary of the Treasury by 1973 Reorg. Plan No. 2, §2, eff. July 1, 1973, 38 F.R. 15932, 87 Stat. 1091, set out in the Appendix to Title 5, Government Organization and Employees. The transfer was negated by section 1(a)(1), (b) of Pub. L. 93–253, Mar. 16, 1974, 88 Stat. 50, which repealed section 2 of 1973 Reorg. Plan No. 2, eff. July 1, 1973.
+Functions vested by law in Attorney General, Department of Justice, or any other officer or any agency of that Department, with respect to inspection at regular inspection locations at ports of entry of persons, and documents of persons, entering or leaving United States, were to have been transferred to Secretary of the Treasury by 1973 Reorg. Plan No. 2, §2, eff. July 1, 1973, 38 F.R. 15932, 87 Stat. 1091, set out in the Appendixto Title 5, Government Organization and Employees. The transfer was negated by section 1(a)(1), (b) of Pub. L. 93–253, Mar. 16, 1974, 88 Stat. 50, which repealed section 2 of 1973 Reorg. Plan No. 2, eff. July 1, 1973.
 
 Functions of all other officers of Department of Justice and functions of all agencies and employees of such Department, with a few exceptions, transferred to Attorney General, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by 1950 Reorg. Plan No. 2, §§1, 2, eff. May 24, 1950, 15 F.R. 3173, 64 Stat. 1261, set out in the Appendix to Title 5. See sections 509 and 510 of Title 28, Judiciary and Judicial Procedure.
 
@@ -24,5 +24,5 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 #### History of Immigration and Naturalization Agencies
 
-Ex. Ord. No. 6166, §14, June 10, 1933, set out as a note under section 901 of Title 5, Government Organizationand Employees, consolidated the two formerly separate bureaus known as the Bureau of Immigration and the Bureau of Naturalization to form the Immigration and Naturalization Service under a Commissioner of Immigration and Naturalization. See note set out under section 1551 of this title.
+Ex. Ord. No. 6166, §14, June 10, 1933, set out as a note under section 901 of Title 5, Government Organization and Employees, consolidated the two formerly separate bureaus known as the Bureau of Immigration and the Bureau of Naturalization to form the Immigration and Naturalization Service under a Commissioner of Immigration and Naturalization. See note set out under section 1551 of this title.
 

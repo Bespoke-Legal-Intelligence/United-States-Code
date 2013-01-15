@@ -1,6 +1,6 @@
 ### §2001. Sale of realty generally
 
-(a) Any realty or interest therein sold under any order or decree of any court of the United States shall be sold as a whole or in separate parcels at public sale at the courthouse of the county, parish, or city in which the greater part of the property is located, or upon the premises or some parcel thereof located therein, as thecourt directs. Such sale shall be upon such terms and conditions as the court directs.
+(a) Any realty or interest therein sold under any order or decree of any court of the United States shall be sold as a whole or in separate parcels at public sale at the courthouse of the county, parish, or city in which the greater part of the property is located, or upon the premises or some parcel thereof located therein, as the court directs. Such sale shall be upon such terms and conditions as the court directs.
 
 Property in the possession of a receiver or receivers appointed by one or more district courts shall be sold at public sale in the district wherein any such receiver was first appointed, at the courthouse of the county, parish, or city situated therein in which the greater part of the property in such district is located, or on the premises or some parcel thereof located in such county, parish, or city, as such court directs, unless the court orders the sale of the property or one or more parcels thereof in one or more ancillary districts.
 

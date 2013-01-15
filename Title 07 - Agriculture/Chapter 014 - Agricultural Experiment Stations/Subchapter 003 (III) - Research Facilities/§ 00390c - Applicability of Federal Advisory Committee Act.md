@@ -12,7 +12,7 @@ The Food and Agriculture Act of 1977, referred to in text, is Pub. L. 95–113, 
 
 #### Prior Provisions
 
-A prior section 390c, Pub. L. 88–74, §4, July 22, 1963, 77 Stat. 91; Pub. L. 95–113, title XIV, §1416(2), Sept. 29, 1977, 91 Stat. 994; Pub. L. 97–98, title XIV, §1416, Dec. 22, 1981, 95 Stat. 1304; Pub. L. 99–198, title XIV, §1411(d), Dec. 23,1985, 99 Stat. 1548; Pub. L. 101–624, title XVI, §1601(a), Nov. 28, 1990, 104 Stat. 3703, related to appropriations and administrative authority, prior to the general amendment of this subchapter by Pub. L. 104–127.
+A prior section 390c, Pub. L. 88–74, §4, July 22, 1963, 77 Stat. 91; Pub. L. 95–113, title XIV, §1416(2), Sept. 29, 1977, 91 Stat. 994; Pub. L. 97–98, title XIV, §1416, Dec. 22, 1981, 95 Stat. 1304; Pub. L. 99–198, title XIV, §1411(d), Dec. 23, 1985, 99 Stat. 1548; Pub. L. 101–624, title XVI, §1601(a), Nov. 28, 1990, 104 Stat. 3703, related to appropriations and administrative authority, prior to the general amendment of this subchapter by Pub. L. 104–127.
 
 A prior section 5 of Pub. L. 88–74 was classified to section 390d of this title prior to the general amendment of this subchapter by Pub. L. 104–127.
 

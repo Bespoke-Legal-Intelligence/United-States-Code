@@ -2,7 +2,7 @@
 
 #### (a) Method, source, timing, terms, and conditions of sale of obligations issued or sold by Federal agencies
 
-To insure the orderly and coordinated marketing of Treasury and Federal agency obligations and appropriate financing planning with respect thereto, and to facilitate the effective financing of programs authorized by law subject to the applicable provisions of such law, the prior approval of the Secretary of the Treasury shall be required with respect to—
+To insure the orderly and coordinated marketing of Treasury and Federal agency obligations and appropriate financing planning with respectthereto, and to facilitate the effective financing of programs authorized by law subject to the applicable provisions of such law, the prior approval of the Secretary of the Treasury shall be required with respect to—
 
 &emsp;(1) the method of financing,
 

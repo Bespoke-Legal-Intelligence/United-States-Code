@@ -12,7 +12,7 @@ Of the amounts appropriated for the purposes of this subchapter—
 
 &emsp;(2) 2.5 percent shall be available for grants for State domestic violence coalitions under section 3796gg(c) of this title, with the coalition for each State, the coalition for the District of Columbia, the coalition for the Commonwealth of Puerto Rico, the coalition for Guam, the coalition for American Samoa, the coalition for the United States Virgin Islands, and the coalition for the Commonwealth of the Northern Mariana Islands.,<sup>1</sup> each receiving an amount equal to 1/56 of the total amount made available under this paragraph for each fiscal year;
 
-&emsp;(3) 2.5 percent shall be available for grants for State sexual assault coalitions under section 3796gg(c) of this title, with the coalition for each State, the coalition for the District of Columbia, the coalition for the Commonwealth of Puerto Rico, coalitions for Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands, each receiving an amount equal to 1/56 of the total amount made available under this paragraph for each fiscal year;
+&emsp;(3) 2.5 percent shall be available for grants for State sexual assault coalitions under section 3796gg(c) of this title, with the coalition for each State, the coalition for the District of Columbia, the coalition for the Commonwealth of Puerto Rico, coalitions for Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the NorthernMariana Islands, each receiving an amount equal to 1/56 of the total amount made available under this paragraph for each fiscal year;
 
 &emsp;(4) 1/56 shall be available for grants under section 3796gg(d) of this title;
 
@@ -108,11 +108,11 @@ Funds appropriated by the Congress for the activities of any agency of an Indian
 
 &emsp;&emsp;(C) a report under paragraph (1) or accompanying assessments demonstrate to the Attorney General that the program is ineffective or financially unsound.
 
-(Pub. L. 90–351, title I, §2007, formerly §2002, as added Pub. L. 103–322, title IV, §40121(a)(3), Sept. 13, 1994, 108 Stat. 1911; amended Pub. L. 106–386, div. B, title I, §§1102(a)(2), 1103(b)(2), Oct. 28, 2000, 114 Stat. 1494, 1496; renumbered §2007 and amended Pub. L. 107–273, div. A, title IV, §402(1), (2), Nov. 2, 2002, 116 Stat. 1789; Pub. L. 108–405, title III, §310(b), (c), Oct. 30, 2004, 118 Stat. 2276; Pub. L. 109–162, title I, §101(c)–(e), title IX, §906(b), title XI, §1134(a), Jan. 5, 2006, 119 Stat. 2973, 2974, 3081, 3108; Pub. L. 109–271, §§2(d), (f)(1), (g), (<i>l</i>), 7(a)(2), 8(b), Aug. 12, 2006, 120 Stat. 752, 754, 763, 766.)
+(Pub. L. 90–351, title I, §2007, formerly §2002, as added Pub. L. 103–322, title IV, §40121(a)(3), Sept. 13, 1994, 108 Stat. 1911; amended Pub. L. 106–386, div. B, title I, §§1102(a)(2), 1103(b)(2), Oct. 28, 2000, 114 Stat. 1494, 1496; renumbered §2007 and amended Pub. L. 107–273, div. A, title IV, §402(1), (2), Nov. 2, 2002, 116 Stat. 1789; Pub. L. 108–405, title III, §310(b), (c), Oct. 30, 2004, 118 Stat. 2276; Pub. L. 109–162, title I, §101(c)–(e), title IX, §906(b), title XI, §1134(a), Jan. 5, 2006, 119 Stat. 2973, 2974, 3081, 3108; Pub. L. 109–271, §§2(d), (f)(1), (g), (l), 7(a)(2), 8(b), Aug. 12, 2006, 120 Stat. 752, 754, 763, 766.)
 
 #### References in Text
 
-This subchapter, referred to in subsecs. (c)(4), the second place it appears, and (f), was in the original “this subtitle”, and was translated as reading “this part”,meaning part T of title I of Pub. L. 90–351, to reflect the probable intent of Congress. Title I of Pub. L. 90–351 does not contain subtitles.
+This subchapter, referred to in subsecs. (c)(4), the second place it appears, and (f), was in the original “this subtitle”, and was translated as reading “this part”, meaning part T of title I of Pub. L. 90–351, to reflect the probable intent of Congress. Title I of Pub. L. 90–351 does not contain subtitles.
 
 Section 3763 of this title, referred to in subsecs. (d) and (e)(1)(B), was in the original “section 513”, and was translated as reading “section 517”, meaning section 517 of title I of Pub. L. 90–351, to reflect the probable intent of Congress. Pub. L. 90–351 does not contain a section 513, but section 3763 of this title was section 513 of Pub. L. 90–351 prior to renumbering as section 517 by Pub. L. 101–647, title XVIII, §1801(a)(6), Nov. 29, 1990, 104 Stat. 4847.
 
@@ -138,11 +138,11 @@ Subsec. (b)(4). Pub. L. 109–162, §101(d)(1)(D), substituted “1/56” for �
 
 Subsec. (c)(2). Pub. L. 109–162, §101(c)(1), inserted “and describe how the State will address the needs of underserved populations” before semicolon at end.
 
-Subsec. (c)(3)(A). Pub. L. 109–271, §2(<i>l</i>), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “not less than 25 percent shall be allocated to police and not less than 25 percent shall be allocated to prosecutors;”.
+Subsec. (c)(3)(A). Pub. L. 109–271, §2(l), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “not less than 25 percent shall be allocated to police and not less than 25 percent shall be allocated to prosecutors;”.
 
 Pub. L. 109–162, §1134(a)(1), which directed substitution of “law enforcement” for “police”, was repealed by Pub. L. 109–271, §§2(d) and 8(b).
 
-Subsec. (c)(3)(B). Pub. L. 109–271, §2(<i>l</i>), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “not less than 30 percent shall be allocated to victim services, of which at least 10 percent shall be distributed to culturally specific community-based organization; and”.
+Subsec. (c)(3)(B). Pub. L. 109–271, §2(l), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “not less than 30 percent shall be allocated to victim services, of which at least 10 percent shall be distributed to culturally specific community-based organization; and”.
 
 Pub. L. 109–162, §101(d)(2), inserted “, of which at least 10 percent shall be distributed to culturally specific community-based organization” after “victim services”.
 

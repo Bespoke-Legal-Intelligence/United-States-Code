@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;In order for a State to meet the requirements of this section, the State agency must establish and operate a unit (which shall beknown as the “State disbursement unit”) for the collection and disbursement of payments under support orders—
+&emsp;In order for a State to meet the requirements of this section, the State agency must establish and operate a unit (which shall be known as the “State disbursement unit”) for the collection and disbursement of payments under support orders—
 
 &emsp;&emsp;(A) in all cases being enforced by the State pursuant to section 654(4) of this title; and
 
@@ -64,7 +64,7 @@ Amendment by Pub. L. 105–33 effective as if included in the enactment of title
 
 #### Effective Date
 
-Section 312(d) of Pub. L. 104–193 provided that:
+Pub. L. 104–193, title III, §312(d), Aug. 22, 1996, 110 Stat. 2209, provided that:
 
 “(1)
 

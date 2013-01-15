@@ -120,7 +120,7 @@ In considering applications for grants under this section, the Administrator sha
 
 Each State that receives a grant under this section shall certify that the grant is used for the purpose for which the funds were intended and in compliance with the State's approved Statewide Interoperable Communications Plan.
 
-#### (<i>l</i>) State responsibilities
+#### (l) State responsibilities
 
 #### (1) Availability of funds to local and tribal governments
 
@@ -154,7 +154,7 @@ Each State that receives a grant under this section shall certify that the grant
 
 Nothing in this section shall be construed or interpreted to preclude a State from using a grant awarded under this section for interim or long-term Internet Protocol-based interoperable solutions.
 
-#### (<i>o</i>) Authorization of appropriations
+#### (o) Authorization of appropriations
 
 There are authorized to be appropriated for grants under this section—
 

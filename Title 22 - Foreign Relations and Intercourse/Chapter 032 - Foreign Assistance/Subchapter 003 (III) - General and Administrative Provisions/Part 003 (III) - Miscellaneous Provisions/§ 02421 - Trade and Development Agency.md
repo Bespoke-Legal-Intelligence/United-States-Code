@@ -114,7 +114,7 @@ Subsec. (f)(2)(A). Pub. L. 106–158, §5(c)(2), substituted “in carrying out 
 
 <b>1992</b>—Pub. L. 102–549 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) which authorized a trade and development program to facilitate access to natural resources of interest to the United States and to stimulate reimbursable aid programs, established an agency called the Trade and Development Program to carry out the program, established an advisory board, and authorized appropriations for purposes of section.
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–418, §2204(b)(1), inserted sentence providing for use of funds for project planning,development, management, and procurement for bilateral and multilateral projects, for purpose of promoting use of United States exports in such projects.
+<b>1988</b>—Subsec. (a). Pub. L. 100–418, §2204(b)(1), inserted sentence providing for use of funds for project planning, development, management, and procurement for bilateral and multilateral projects, for purpose of promoting use of United States exports in such projects.
 
 Subsecs. (b) to (d). Pub. L. 100–418, §2204(b)(2), added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
 
@@ -134,7 +134,7 @@ Subsecs. (b) to (d). Pub. L. 100–418, §2204(b)(2), added subsecs. (b) and (c)
 
 #### Change of Name
 
-Section 202(a), (e) of Pub. L. 102–549 provided that:
+Pub. L. 102–549, title II, §202(a), (e), Oct. 28, 1992, 106 Stat. 3657, 3658, provided that:
 
 “(a)
 
@@ -162,7 +162,7 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### Appointment of Present Director Not Affected
 
-Section 202(b) of title II of Pub. L. 102–549 provided that: “The enactment of this title \[amending this section and section 5401 of this title, section 5314 of Title 5, Government Organization and Employees, and sections 635q to 635s of Title 12, Banks and Banking, enacting provisions set out as a note above, and amending provisions set out as a note under section 2151 of this title\] shall not affect the appointment of the individual who is the Director of the Trade and Development Program on the effective date of this section \[Oct. 28, 1992\].”
+Pub. L. 102–549, title II, §202(b), Oct. 28, 1992, 106 Stat. 3657, provided that: “The enactment of this title \[amending this section and section 5401 of this title, section 5314 of Title 5, Government Organization and Employees, and sections 635q to 635s of Title 12, Banks and Banking, enacting provisions set out as a note above, and amending provisions set out as a note under section 2151 of this title\] shall not affect the appointment of the individual who is the Director of the Trade and Development Program on the effective date of this section \[Oct. 28, 1992\].”
 
 #### Trade and Development Program Activities for Poland and Hungary
 
@@ -170,5 +170,5 @@ Pub. L. 101–179, title III, §305, Nov. 28, 1989, 103 Stat. 1314, authorized a
 
 #### Trade and Development Program; Reaffirmation of Support
 
-Section 2204(a) of Pub. L. 100–418 provided that: “The Congress reaffirms its support for the Trade and Development Program \[now Trade and Development Agency\], and believes that the Program's \[Agency's\] ability to support high priority development projects in developing countries would be enhanced by an increase in the funds authorized for the Program as well as by a clarification of the Program's status as a separate component of the International Development Cooperation Agency.”
+Pub. L. 100–418, title II, §2204(a), Aug. 23, 1988, 102 Stat. 1328, provided that: “The Congress reaffirms its support for the Trade and Development Program \[now Trade and Development Agency\], and believes that the Program's \[Agency's\] ability to support high priority development projects in developing countries would be enhanced by an increase in the funds authorized for the Program as well as by a clarification of the Program's status as a separate component of the International Development Cooperation Agency.”
 

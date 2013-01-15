@@ -54,7 +54,7 @@ Amendment by Pub. L. 111–22 effective on the earlier of 18 months after May 20
 
 #### Effective Date of 1990 Amendment
 
-Section 836(b) of Pub. L. 101–625 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1991.”
+Pub. L. 101–625, title VIII, §836(b), Nov. 28, 1990, 104 Stat. 4366, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1991.”
 
 #### Evaluation of Programs
 

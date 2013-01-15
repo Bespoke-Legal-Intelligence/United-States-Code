@@ -24,7 +24,7 @@ Act May 27, 1937, ch. 269, §11, as added by Mar. 10, 1943, ch. 14, 57 Stat. 20,
 
 #### Separability
 
-Act May 27, 1937, ch. 269, §10, as added by Mar. 10, 1943, ch. 14, 57 Stat. 20, provided that: “If any provision of this Act \[see Short Title note above\] or the application of such provision to any person or circumstances shall be held invalid, the remainder of the Act and the application of such provision to persons or circumstances other than those as to which it is held invalid shall not be affected thereby.”
+Act May 27, 1937, ch. 269, §10, as added by Mar. 10, 1943, ch. 14, 57 Stat. 20, provided that: “If any provisionof this Act \[see Short Title note above\] or the application of such provision to any person or circumstances shall be held invalid, the remainder of the Act and the application of such provision to persons or circumstances other than those as to which it is held invalid shall not be affected thereby.”
 
 #### Transfer of Functions
 

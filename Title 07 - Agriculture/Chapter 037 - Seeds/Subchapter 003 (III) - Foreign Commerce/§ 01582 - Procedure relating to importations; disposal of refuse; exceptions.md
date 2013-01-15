@@ -16,7 +16,11 @@
 
 &emsp;(2) when seed is imported for sowing for experimental or breeding purposes and not for sale: <i>Provided</i>, That declarations are filed, and importations are limited in quantity, as provided for in the rules and regulations prescribed under section 1592 of this title, to assure that the importations are for experimental or breeding purposes.
 
-(Aug. 9, 1939, ch. 615, title III, §302, 53 Stat. 1283; Pub. L. 85–581, §§13, 14, Aug. 1, 1958, 72 Stat. 478, 479; Pub. L. 89–686, §§15–17, Oct. 15, 1966, 80 Stat. 979; Pub. L. 97–439, §5(b)(2), (3), Jan. 8, 1983, 96 Stat. 2288; Pub. L. 100–449, title III, §301(e), Sept. 28, 1988, 102 Stat. 1868; Pub. L. 103–182, title III, §361(a), Dec. 8, 1993, 107 Stat. 2122; Pub. L. 103–465, title IV, §441(2), Dec. 8, 1994, 108 Stat. 4973.)
+(Aug. 9, 1939, ch. 615, title III, §302, 53 Stat. 1283; Pub. L. 85–581, §§13, 14, Aug. 1, 1958, 72 Stat. 478, 479; Pub. L. 89–686, §§15–17, Oct. 15, 1966, 80 Stat. 979; Pub. L. 97–439, §5(b)(2), (3), Jan. 8, 1983, 96 Stat. 2288; Pub. L. 100–449, title III, §301(e), Sept. 28, 1988, 102 Stat. 1868; Pub. L. 103–182, title III, §361(a), Dec. 8, 1993, 107 Stat. 2122; Pub. L.103–465, title IV, §441(2), Dec. 8, 1994, 108 Stat. 4973.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 501(c) of Pub. L. 100–449, see Effective and Termination Dates of 1988 Amendment note below.</i>
 
 #### Amendments
 
@@ -30,7 +34,7 @@ Subsec. (e). Pub. L. 103–465, §441(2)(B), struck out subsec. (e) which read a
 
 <b>1993</b>—Subsec. (e)(1). Pub. L. 103–182 inserted “or Mexico” after “Canada”.
 
-<b>1988</b>—Pub. L. 100–449 amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The provisions of this subchapter requiring certain seeds to be stained shall not apply when such seed will not be sold within the United States and will be used for seed production only by or for the importer or consignee: <i>Provided</i>, That the importer of record or consignee files a statement in accordance with the rules and regulations prescribed under section 1592 of this title certifying that such seed will be used only for seed production by or for the importer or consignee.”
+<b>1988</b>—Pub. L. 100–449 temporarily amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The provisions of this subchapter requiring certain seeds to be stained shall not apply when such seed will not be sold within the United States and will be used for seed production only by or for the importer or consignee: <i>Provided</i>, That the importer of record or consignee files a statement in accordance with the rules and regulations prescribed under section 1592 of this title certifying that such seed will be used only for seed production by or for the importer or consignee.” See Effective and Termination Dates of 1988 Amendment note below.
 
 <b>1983</b>—Subsec. (a). Pub. L. 97–439, §5(b)(2), struck out provision that Secretary may apply statistical sampling and inspection techniques to samples and screenings to determine whether pure-live seed requirement of any kind of seed was being met, in event of which he was to advise importer of each lot of seed not examined for pure-live seed percentage.
 

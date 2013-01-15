@@ -43,7 +43,7 @@ Pub. L. 104–106, div. A, title XV, §§1502(a)(28)(B), 1503(b)(4), Feb. 10, 19
 
 <b>1976</b>—Pub. L. 94–258, title II, §201(20), Apr. 5, 1976, 90 Stat. 313, added item 7420 and substituted “Naval petroleum reserve special account” for “Expenditures; appropriations chargeable” in item 7432.
 
-<b>1962</b>—Pub. L. 87–796, §1(13), Oct. 11, 1962, 76 Stat. 906, substituted “Rifle, Colorado, plant; possession, use, and transfer of” for “Exclusion of naval oil shale reserves” in item 7438.
+<b>1962</b>—Pub. L. 87–796, §1(13), Oct. 11, 1962, 76 Stat. 906, substituted “Rifle, Colorado, plant; possession, use, andtransfer of” for “Exclusion of naval oil shale reserves” in item 7438.
 
 
 ---

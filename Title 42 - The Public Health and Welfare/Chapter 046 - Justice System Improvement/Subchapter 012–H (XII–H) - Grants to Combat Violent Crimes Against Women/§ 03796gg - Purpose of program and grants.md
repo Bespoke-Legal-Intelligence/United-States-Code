@@ -22,7 +22,7 @@ Grants under this subchapter shall provide personnel, training, technical assist
 
 &emsp;(7) developing, enlarging, or strengthening programs addressing the needs and circumstances of Indian tribes in dealing with violent crimes against women, including the crimes of sexual assault and domestic violence;
 
-&emsp;(8) supporting formal and informal statewide, multidisciplinary efforts, to the extent not supported by State funds, to coordinate the response of State law enforcement agencies, prosecutors, courts, victim services agencies, and other State agencies and departments, to violent crimes against women, including the crimes of sexual assault, domestic violence, and dating violence;
+&emsp;(8) supporting formal and informal statewide, multidisciplinary efforts, to the extentnot supported by State funds, to coordinate the response of State law enforcement agencies, prosecutors, courts, victim services agencies, and other State agencies and departments, to violent crimes against women, including the crimes of sexual assault, domestic violence, and dating violence;
 
 &emsp;(9) training of sexual assault forensic medical personnel examiners in the collection and preservation of evidence, analysis, prevention, and providing expert testimony and treatment of trauma related to sexual assault;
 

@@ -4,7 +4,7 @@
 
 Period for Which Payment May Be Made.—Payment of educational assistance or subsistence allowances to eligible veterans or eligible persons pursuing a program of education or training, other than a program by correspondence, in an educational institution under chapter 31, 34, or 35 of this title shall be paid as provided in this section and, as applicable, in section 3108, 3482, 3491, or 3532 of this title. Such payments shall be paid only for the period of such veterans’ or persons’ enrollment in, and pursuit of, such program, but no amount shall be paid—
 
-&emsp;(1) to any eligible veteran or eligible person for any period when such veteran or person is not pursuing such veteran's or person's course in accordance with the regularly established policies and regulations of the educational institution, with the provisions of such regulations as may be prescribed by the Secretary pursuant to subsection (g) of this section, and with the requirements of this chapter or of chapter 34 or 35 of this title, but payment may be made for an actual period of pursuit of one or more unit subjects pursued for a period of time shorter than the enrollment period at the educational institution;
+&emsp;(1) to any eligible veteran or eligible person for any period when such veteran or person is not pursuing such veteran's or person's course in accordance with the regularly established policies and regulations of the educational institution, with the provisions of such regulations as may be prescribed by the Secretary pursuant to subsection (g) of this section, and with the requirements of this chapter or of chapter 34 or 35 of this title, but payment may be made for an actual period of pursuit of oneor more unit subjects pursued for a period of time shorter than the enrollment period at the educational institution;
 
 &emsp;(2) to any eligible veteran or person for auditing a course; or
 
@@ -48,7 +48,7 @@ Advance Payment of Initial Educational Assistance or Subsistence Allowance.—(1
 
 (4) The advance payment authorized by paragraph (2) of this subsection shall, in the case of an eligible veteran or eligible person, be (A) drawn in favor of the veteran or person; (B) mailed to the educational institution listed on the application form for temporary care and delivery to the veteran or person by such institution; and (C) delivered to the veteran or person upon such veteran's or person's registration at such institution, but in no event shall such delivery be made earlier than thirty days before the program of education is to commence.
 
-(5) Upon delivery of the advance payment pursuant to paragraph (4) of this subsection, the institution shall submit to the Secretary a certification of such delivery. If such delivery is not effected within thirty days after commencementof the program of education in question, such institution shall return such payment to the Secretary forthwith.
+(5) Upon delivery of the advance payment pursuant to paragraph (4) of this subsection, the institution shall submit to the Secretary a certification of such delivery. If such delivery is not effected within thirty days after commencement of the program of education in question, such institution shall return such payment to the Secretary forthwith.
 
 (e)
 
@@ -84,7 +84,7 @@ Determination of Enrollment, Pursuit, and Attendance.—(1) The Secretary may, p
 
 <b>2006</b>—Pub. L. 109–233 revised style of subsec. headings.
 
-<b>2001</b>—Subsec. (g). Pub. L. 107–103 amended heading and text of subsec. (g) generally. Prior to amendment, text read as follows: “The Secretary may, pursuant to regulations which the Secretary shall prescribe, determine and define enrollment in, pursuit of, and attendance at, any program of education or training or course by an eligible veteran or eligible person for any period for which the veteran or person receives an educational assistance or subsistence allowance under this chapter for pursuing such program or course. Subject to such reports and proof as the Secretary may require to show an eligible veteran's or eligible person's enrollment in and satisfactory pursuit of such person's program, the Secretary may withhold payment of benefits to such eligible veteran or eligible person until the required proof is received and the amount of the payment is appropriately adjusted. The Secretary may accept such veteran's or person's monthly certification of enrollment in and satisfactory pursuit of such veteran's or person's program as sufficient proof of the certified matters.”
+<b>2001</b>—Subsec. (g). Pub. L. 107–103 amended heading and text of subsec. (g) generally. Prior to amendment, text read as follows: “The Secretary may, pursuant to regulations which the Secretary shall prescribe, determine and define enrollment in, pursuit of, and attendance at, any program of education or training or course by an eligible veteran or eligible person for any period for which the veteran or person receives an educational assistance or subsistence allowance under this chapterfor pursuing such program or course. Subject to such reports and proof as the Secretary may require to show an eligible veteran's or eligible person's enrollment in and satisfactory pursuit of such person's program, the Secretary may withhold payment of benefits to such eligible veteran or eligible person until the required proof is received and the amount of the payment is appropriately adjusted. The Secretary may accept such veteran's or person's monthly certification of enrollment in and satisfactory pursuit of such veteran's or person's program as sufficient proof of the certified matters.”
 
 <b>2000</b>—Subsec. (a)(C). Pub. L. 106–419 amended subcl. (C) generally. Prior to amendment, subcl. (C) read as follows: “during periods between a semester, term, or quarter where the educational institution certifies the enrollment of the eligible veteran or eligible person on an individual semester, term, or quarter basis if the interval between such periods does not exceed one full calendar month.”
 
@@ -142,9 +142,9 @@ Subsec. (a)(A) to (C). Pub. L. 97–295, §4(52)(C), inserted “of this subsect
 
 <b>1981</b>—Subsec. (a). Pub. L. 97–35 struck out applicability to flight training program.
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–466, §§341(a), 342, 602(c), in provisions preceding cl. (1) inserted “in, and pursuit of, such program” after “enrollment”, in cl. (1) inserted reference to not pursuing a course in accordance with provisions of regulations prescribed by the Administrator pursuant to subsec. (g) of this section and reference to payment for an actual period of pursuit of one or more unit subjects pursued for a period of time shorter than the enrollment period at the educational institution, in cl. (2) inserted reference to periods when the institution is not in session because of teacher conferences or teacher training sessions, and added cl. (6).
+<b>1980</b>—Subsec. (a). Pub. L. 96–466, §§341(a), 342, 602(c), in provisions preceding cl. (1) inserted “in, and pursuit of,such program” after “enrollment”, in cl. (1) inserted reference to not pursuing a course in accordance with provisions of regulations prescribed by the Administrator pursuant to subsec. (g) of this section and reference to payment for an actual period of pursuit of one or more unit subjects pursued for a period of time shorter than the enrollment period at the educational institution, in cl. (2) inserted reference to periods when the institution is not in session because of teacher conferences or teacher training sessions, and added cl. (6).
 
-Subsec. (d)(2). Pub. L. 96–466, §601(c)(1), struck out “(other than under subchapter VI of chapter 34)” after“who is pursuing a program of education” and substituted “paragraphs (4)(B) and (C) and (5)” for “paragraphs 5(B) and (C) and (6)”.
+Subsec. (d)(2). Pub. L. 96–466, §601(c)(1), struck out “(other than under subchapter VI of chapter 34)” after “who is pursuing a program of education” and substituted “paragraphs (4)(B) and (C) and (5)” for “paragraphs 5(B) and (C) and (6)”.
 
 Subsec. (d)(3). Pub. L. 96–466, §601(c)(2), (3), redesignated par. (4) as (3). Former par. (3), which related to the entitlement of a person eligible for education or training under the provisions of subchapter VI of chapter 34 of this title to a lump-sum educational assistance allowance advance payment, was struck out.
 
@@ -194,11 +194,11 @@ Amendment by section 605(a)(2)(B) of Pub. L. 103–446 applicable with respect t
 
 #### Effective Date of 1991 Amendment
 
-Section 6(b) of Pub. L. 102–127 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect as of August 1, 1990.”
+Pub. L. 102–127, §6(b), Oct. 10, 1991, 105 Stat. 623, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect as of August 1, 1990.”
 
 #### Effective Date of 1988 Amendment
 
-Section 121(b) of Pub. L. 100–689 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply so as to require that mitigating circumstances be considered to exist only with respect to withdrawals from a course or courses being pursued with assistance under title 38, United States Code, that occur on or after June 1, 1989.”
+Pub. L. 100–689, title I, §121(b), Nov. 18, 1988, 102 Stat. 4174, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply so as to require that mitigating circumstances be considered to exist only with respect to withdrawals from a course or courses being pursued with assistance under title 38, United States Code, that occur on or after June 1, 1989.”
 
 #### Effective Date of 1981 Amendment
 
@@ -212,9 +212,9 @@ Amendment by sections 601(c), (d) and 602(c) of Pub. L. 96–466 effective Oct. 
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 505 of Pub. L. 94–502 effective Dec. 1, 1976, and amendment by sections 506 and 513(a)(5), (6), (11), (12) of Pub. L. 94–502 effective Oct. 15, 1976, see section 703(b), (c) of Pub. L. 94–502, set out as an Effective Date note under section 3693 of this title.
+Amendment by section 505 of Pub. L. 94–502 effective Dec. 1, 1976, and amendment by sections 506 and513(a)(5), (6), (11), (12) of Pub. L. 94–502 effective Oct. 15, 1976, see section 703(b), (c) of Pub. L. 94–502, set out as an Effective Date note under section 3693 of this title.
 
-Section 513(b) of Pub. L. 94–502 provided that: “The amendments made by paragraphs (7), (8), (9), and (10) of subsection (a) \[amending this section\] shall take effect June 1, 1977, and shall apply with respect to educational assistance allowances and subsistence allowances paid under title 38, United States Code, for months after May 1977.”
+Pub. L. 94–502, title V, §513(b), Oct. 15, 1976, 90 Stat. 2404, provided that: “The amendments made by paragraphs (7), (8), (9), and (10) of subsection (a) \[amending this section\] shall take effect June 1, 1977, and shall apply with respect to educational assistance allowances and subsistence allowances paid under title 38, United States Code, for months after May 1977.”
 
 #### Effective Date of 1974 Amendment
 
@@ -222,7 +222,7 @@ Amendment by Pub. L. 93–508 effective Dec. 3, 1974, see section 503 of Pub. L.
 
 #### Effective Date
 
-Section 603 of Pub. L. 92–540 provided that:
+Pub. L. 92–540, title VI, §603, Oct. 24, 1972, 86 Stat. 1099, provided that:
 
 “(a) The prepayment provisions of subsection (e) of section 1780 \[now 3680\] of title 38, United States Code (as added by section 201 of this Act), shall become effective on November 1, 1972.
 
@@ -230,7 +230,7 @@ Section 603 of Pub. L. 92–540 provided that:
 
 #### Study of Tuition Assistance Allowance Program Abuses
 
-Section 105 of Pub. L. 93–508 authorized the Administrator to study the potential administrative difficulties and abuses that would arise if some form of variable tuition assistance allowance program were enacted after consideration of past difficulties and abuses which arose after the Second World War and such difficulties and abuses as were being experienced by the Veterans’ Administration in managing certain current programs, and to report to the Congress and the President his findings and recommendations for legislative and administrative action no later than one year after Dec. 3, 1974.
+Pub. L. 93–508, title I, §105, Dec. 3, 1974, 88 Stat. 1581, authorized the Administrator to study the potential administrative difficulties and abuses that would arise if some form of variable tuition assistance allowance program were enacted after consideration of past difficulties and abuses which arose after the Second World War and such difficulties and abuses as were being experienced by the Veterans’ Administration in managing certain current programs, and to report to the Congress and the President his findings and recommendations for legislative and administrative action no later than one year after Dec. 3, 1974.
 
 #### Ex. Ord. No. 12020. Payment of Benefits When Schools Are Temporarily Closed To Conserve Energy
 

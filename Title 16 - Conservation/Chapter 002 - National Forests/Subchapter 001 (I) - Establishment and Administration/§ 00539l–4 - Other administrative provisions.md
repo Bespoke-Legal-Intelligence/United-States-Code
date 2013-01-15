@@ -12,5 +12,5 @@ If requested by one or more of the Colorado Counties of Grand, Gilpin, and Bould
 
 #### References in Text
 
-This Act, referred to in subsec. (a), is Pub. L. 107–216, Aug. 21, 2002, 116 Stat. 1055, which is classified principally to sections 539<i>l</i> to 539<i>l</i>–5 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 539<i>l</i> of this title and Tables.
+This Act, referred to in subsec. (a), is Pub. L. 107–216, Aug. 21, 2002, 116 Stat. 1055, which is classified principally to sections 539l to 539l–5 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 539l of this title and Tables.
 

@@ -8,7 +8,7 @@ Methods of Payment.—(1) The monthly premium for coverage of a member of the Se
 
 (b)
 
-Advance Pay for Premium.—The Secretary concerned may advance to an insured member the amount equal to the first insurance premium payment due under this chapter. The advance may be paid out of appropriations for military pay. An advance to a member shall be collected from the member either by deducting and withholding the amount from basic pay payable for the member or by collecting it from the member directly. No disbursing or certifying officer shall be responsible for any loss resulting from an advance under this subsection.
+Advance Pay for Premium.—The Secretary concerned may advance to an insured member the amount equal to the first insurance premium payment due under this chapter. The advance may be paid out of appropriations for military pay. An advance to a member shall becollected from the member either by deducting and withholding the amount from basic pay payable for the member or by collecting it from the member directly. No disbursing or certifying officer shall be responsible for any loss resulting from an advance under this subsection.
 
 (c)
 
@@ -26,5 +26,5 @@ Subsec. (a)(2). Pub. L. 104–201, §547(2), added par. (2) and struck out forme
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department ofHomeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 

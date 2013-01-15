@@ -66,7 +66,7 @@ If any partner files a request for an administrative adjustment (other than a re
 
 #### (e) Requests with respect to bad debts or worthless securities
 
-In the case of that portion of any request for an administrative adjustment which relates to the deductibility by the partnership under section 166 of a debt as a debt which became worthless, or under section 165(g) of a loss from worthlessness of a security, the period prescribed in subsection (a)(1) shall be 7 years from the last day for filing the partnership return for the year with respect to which such request is made (determined without regard to extensions).
+In the case of that portion of any request for an administrative adjustment which relates tothe deductibility by the partnership under section 166 of a debt as a debt which became worthless, or under section 165(g) of a loss from worthlessness of a security, the period prescribed in subsection (a)(1) shall be 7 years from the last day for filing the partnership return for the year with respect to which such request is made (determined without regard to extensions).
 
 (Added Pub. L. 97–248, title IV, §402(a), Sept. 3, 1982, 96 Stat. 655; amended Pub. L. 105–34, title XII, §§1236(a), 1243(a), Aug. 5, 1997, 111 Stat. 1025, 1029; Pub. L. 107–147, title IV, §417(19)(A), Mar. 9, 2002, 116 Stat. 56.)
 
@@ -80,9 +80,9 @@ Subsec. (e). Pub. L. 105–34, §1243(a), added subsec. (e).
 
 #### Effective Date of 1997 Amendment
 
-Section 1236(b) of Pub. L. 105–34 provided that: “The amendment made by this section \[amending this section\] shall take effect as if included in the amendments made by section 402 of the Tax Equity and Fiscal Responsibility Act of 1982 \[Pub. L. 97–248\].”
+Pub. L. 105–34, title XII, §1236(b), Aug. 5, 1997, 111 Stat. 1025, provided that: “The amendment made by this section \[amending this section\] shall take effect as if included in the amendments made by section 402 of the Tax Equity and Fiscal Responsibility Act of 1982 \[Pub. L. 97–248\].”
 
-Section 1243(b) of Pub. L. 105–34 provided that:
+Pub. L. 105–34, title XII, §1243(b), Aug. 5, 1997, 111 Stat. 1029, provided that:
 
 “(1)
 

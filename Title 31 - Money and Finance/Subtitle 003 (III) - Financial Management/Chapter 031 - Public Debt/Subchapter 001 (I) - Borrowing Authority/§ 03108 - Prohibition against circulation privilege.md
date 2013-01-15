@@ -36,5 +36,5 @@ Sept. 24, 1917, ch. 56, 40 Stat. 288, §22A(c)(last sentence); added Nov. 8, 196
 
 Sept. 24, 1917, ch. 56, §7(1st sentence), 40 Stat. 291.
 
-The reference in 31:758 to certificates authorized under 31:757 is omitted because the authority under 31:757 was ended by section 2(b)(3) of the Public Debt Act of 1941 (ch. 7, 55 Stat. 7).
+The reference in 31:758 to certificates authorized under 31:757 is omitted because the authority under31:757 was ended by section 2(b)(3) of the Public Debt Act of 1941 (ch. 7, 55 Stat. 7).
 

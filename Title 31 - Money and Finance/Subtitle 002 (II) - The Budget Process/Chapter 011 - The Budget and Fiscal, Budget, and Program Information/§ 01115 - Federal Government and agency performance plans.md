@@ -22,7 +22,7 @@ Federal Government Performance Plans.—In carrying out the provisions of sectio
 
 (b)
 
-Agency Performance Plans.—Not later than the first Monday in February of each year, the head of each agency shall make available on a public website of the agency, and notify the President and the Congress of its availability, a performance plan covering each program activity set forth in the budget of such agency. Such plan shall—
+Agency Performance Plans.—Not later than the first Monday in February of each year, the head of each agency shall make available on a public website of the agency, and notify the President and the Congress of its availability, aperformance plan covering each program activity set forth in the budget of such agency. Such plan shall—
 
 &emsp;(1) establish performance goals to define the level of performance to be achieved during the year in which the plan is submitted and the next fiscal year;
 
@@ -52,7 +52,7 @@ Agency Performance Plans.—Not later than the first Monday in February of each 
 
 &emsp;(7) provide a basis for comparing actual program results with the established performance goals;
 
-&emsp;(8) a description of how the agency will ensure the accuracy and reliability of the dataused to measure progress towards its performance goals, including an identification of—
+&emsp;(8) a description of how the agency will ensure the accuracy and reliability of the data used to measure progress towards its performance goals, including an identification of—
 
 &emsp;&emsp;(A) the means to be used to verify and validate measured values;
 
@@ -372,7 +372,7 @@ Sec. 6. <i>Establishment and Operation of Performance Improvement Council</i>. (
 
 (d) To assist in implementing the policy set forth in section 1 of this order, the Council shall:
 
-(i) develop and submit to the Director, or when appropriate to the President through the Director, at timesand in such formats as the Chair may specify, recommendations concerning:
+(i) develop and submit to the Director, or when appropriate to the President through the Director, at times and in such formats as the Chair may specify, recommendations concerning:
 
 (A) performance management policies and requirements; and
 

@@ -24,5 +24,5 @@ Except as provided in subsection (b), all reports of the Tax Court and all evide
 
 #### Effective Date of 1984 Amendment
 
-Section 465(b) of Pub. L. 98–369 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[July 18, 1984\].”
+Pub. L. 98–369, div. A, title IV, §465(b), July 18, 1984, 98 Stat. 825, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[July 18, 1984\].”
 

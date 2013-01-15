@@ -6,9 +6,9 @@ The lands of full-blooded members of any of the Five Civilized Tribes are made s
 
 #### Choctaw Tribe; Sale of Lands and Interests Therein; Transfer to Tribal Corporation or Foundation; Per Capita Distribution
 
-Pub. L. 91–386, §1, Aug. 24, 1970, 84 Stat. 828, repealed Pub. L. 86–192, §§1–12, Aug. 25, 1959, 73 Stat. 420, as amended by Pub. L. 87–609, §§1, 2, Aug. 24, 1962, 76 Stat. 405; Pub. L. 89–107, Aug. 4, 1965, 79 Stat. 432; Pub. L. 90–476, Aug. 11, 1968, 82 Stat. 703, which provided for termination of Federal supervision over affairs of the Choctaw Tribe, including termination of eligibility of individual Choctaw members for certain Federal services and benefits provided Indians because of their status as Indians; authority to establish a trustee, corporation, or other legal entity under State law as a successor in interest to the tribal entity; and authority for Secretary of the Interior to sell land and interest in land owned by the Choctaw Tribe for benefit of the tribe, to convey to the successor entity certain lands and mineral interests of the Choctaw Tribe, and to distribute per capita funds held by the United States for benefit of the Choctaw Tribe.
+Pub. L. 91–386, §1, Aug. 24, 1970, 84 Stat. 828, repealed Pub. L. 86–192, §§1–12, Aug. 25, 1959, 73 Stat. 420, asamended by Pub. L. 87–609, §§1, 2, Aug. 24, 1962, 76 Stat. 405; Pub. L. 89–107, Aug. 4, 1965, 79 Stat. 432; Pub. L. 90–476, Aug. 11, 1968, 82 Stat. 703, which provided for termination of Federal supervision over affairs of the Choctaw Tribe, including termination of eligibility of individual Choctaw members for certain Federal services and benefits provided Indians because of their status as Indians; authority to establish a trustee, corporation, or other legal entity under State law as a successor in interest to the tribal entity; and authority for Secretary of the Interior to sell land and interest in land owned by the Choctaw Tribe for benefit of the tribe, to convey to the successor entity certain lands and mineral interests of the Choctaw Tribe, and to distribute per capita funds held by the United States for benefit of the Choctaw Tribe.
 
-Section 2 of Pub. L. 91–386 provided that: “Repeal of the Act of August 25, 1959 \[see note above\] shall not be construed to abrogate, impair, annul, or otherwise affect any right or interest which may have vested under the provisions of said Act nor shall repeal affect any legal action pending on the date of enactment of this Act \[Aug. 24, 1970\].”
+Pub. L. 91–386, §2, Aug. 20, 1970, 84 Stat. 828, provided that: “Repeal of the Act of August 25, 1959 \[see note above\] shall not be construed to abrogate, impair, annul, or otherwise affect any right or interest which may have vested under the provisions of said Act nor shall repeal affect any legal action pending on the date of enactment of this Act \[Aug. 24, 1970\].”
 
 #### Extension of Period of Restrictions on Lands
 
@@ -18,7 +18,7 @@ Act Aug. 11, 1955, ch. 786, 69 Stat. 666, extended for the lives of the Indians 
 
 Act Aug. 4, 1947, ch. 458, 61 Stat. 731, provided that death removed restrictions on land; clarified the laws relating to the approval of conveyances of restricted lands; defined the jurisdiction of Oklahoma State courts over certain classes of Indian litigation; set out the procedure governing the removal of cases to the Federal courts and authorized appeals from orders of remand; and limited the tax-exempt acreage of restricted Indian lands.
 
-Section 6(e) of act Aug. 4, 1947, was amended by act Aug. 12, 1953, ch. 409, §2, 67 Stat. 558, by permitting the filing of a list of nontaxable lands that have been sold during the preceding year, instead of cumulative lists showing all restricted lands of the Five Civilized Tribes that are tax exempt.
+Act Aug. 4, 1947, ch. 458, §6(e), 61 Stat. 733, was amended by act Aug. 12, 1953, ch. 409, §2, 67 Stat. 558, by permitting the filing of a list of nontaxable lands that have been sold during the preceding year, instead of cumulative lists showing all restricted lands of the Five Civilized Tribes that are tax exempt.
 
 #### Validation of Land Titles and Court Judgments
 
@@ -30,7 +30,7 @@ Act Jan. 27, 1933, ch. 23, 47 Stat. 777, as amended by act Aug. 4, 1947, ch. 458
 
 #### Removal of Restrictions From Part of Allotted Lands; Leases; Taxation; Appointment of Local Agents
 
-Act May 27, 1908, ch. 199, 35 Stat. 312, as amended by act Apr. 12, 1926, ch. 115, §1, 44 Stat. 239, provided in part for the removal of restrictions from part of the lands of allottees; authorized leases of allotted lands; made unrestricted lands subject to taxation; voided alienation or incumbrance of restricted lands; and authorized appointment of local agents to investigate estates of minors and to advise and represent allottees.
+Act May 27, 1908, ch. 199, 35 Stat. 312, as amended by act Apr. 12, 1926, ch. 115, §1, 44 Stat. 239, provided in part for the removal of restrictions from part of the lands of allottees; authorized leases of allotted lands; made unrestricted lands subject to taxation; voided alienation or incumbrance of restricted lands; and authorized appointment of local agents to investigate estates of minors and to advise and represent allottees. \[For information regarding constitutionality of certain provisions of act May 27, 1908, formerly set out above, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.\]
 
 #### Final Disposition of Affairs of the Five Civilized Tribes
 

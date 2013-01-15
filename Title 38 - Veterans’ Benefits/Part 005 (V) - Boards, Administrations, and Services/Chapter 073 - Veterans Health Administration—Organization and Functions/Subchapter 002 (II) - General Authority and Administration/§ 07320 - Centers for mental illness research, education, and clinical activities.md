@@ -70,7 +70,7 @@
 
 (g) The Under Secretary for Health shall ensure that at least three centers designated under this section emphasize research into means of improving the quality of care for veterans suffering from mental illness through the development of community-based alternatives to institutional treatment for such illness.
 
-(h) The Under Secretary for Health shall ensure that information produced by the research, education and training, and clinical activities of centers established under this section that may be useful for other activities of the Veterans Health Administration is disseminated throughout the Veterans Health Administration. Such dissemination shall be made through publications, through programs of continuing medical and related education provided through regional medical education centers under subchapter VI of chapter 74 of this title, and through other means. Such programs of continuing medical education shall receive priority in the award of funding.
+(h) The Under Secretary for Health shall ensure that information produced by the research,education and training, and clinical activities of centers established under this section that may be useful for other activities of the Veterans Health Administration is disseminated throughout the Veterans Health Administration. Such dissemination shall be made through publications, through programs of continuing medical and related education provided through regional medical education centers under subchapter VI of chapter 74 of this title, and through other means. Such programs of continuing medical education shall receive priority in the award of funding.
 
 (i) The official within the central office of the Veterans Health Administration responsible for mental health and behavioral sciences matters shall be responsible for supervising the operation of the centers established pursuant to this section and shall provide for ongoing evaluation of the centers and their compliance with the requirements of this section.
 
@@ -94,7 +94,7 @@ The Federal Advisory Committee Act, referred to in subsec. (e)(4), is Pub. L. 92
 
 #### Annual Reports On and Designation of Centers
 
-Section 334(b), (c) of Pub. L. 104–262 provided that:
+Pub. L. 104–262, title III, §334(b), (c), Oct. 9, 1996, 110 Stat. 3203, 3204, provided that:
 
 “(b)
 

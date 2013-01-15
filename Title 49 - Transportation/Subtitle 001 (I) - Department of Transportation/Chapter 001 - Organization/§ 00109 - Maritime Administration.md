@@ -2,7 +2,7 @@
 
 (a)
 
-Organization.—The Maritime Administration is an administration in the Department of Transportation.
+Organization and Mission.—The Maritime Administration is an administration in the Department of Transportation. The mission of the Maritime Administration is to foster, promote, and develop the merchant maritime industry of the United States.
 
 (b)
 
@@ -82,7 +82,7 @@ Limitations.—Only those amounts specifically authorized by law may be appropri
 
 Training Vessels.—Amounts may not be appropriated for the purchase or construction of training vessels for State maritime academies unless the Secretary has approved a plan for sharing training vessels between State maritime academies.
 
-(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2417; Pub. L. 103–272, §5(m)(5), July 5, 1994, 108 Stat. 1375; Pub. L. 109–304, §12, Oct. 6, 2006, 120 Stat. 1698; Pub. L. 111–84, div. C, title XXXV, §3508, Oct. 28, 2009, 123 Stat. 2721; Pub. L. 111–383, div. A, title X, §1075(d)(26), Jan. 7, 2011, 124 Stat. 4374.)
+(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2417; Pub. L. 103–272, §5(m)(5), July 5, 1994, 108 Stat. 1375; Pub. L. 109–304, §12, Oct. 6, 2006, 120 Stat. 1698; Pub. L. 111–84, div. C, title XXXV, §3508, Oct. 28, 2009, 123 Stat. 2721; Pub. L. 111–383, div. A, title X, §1075(d)(26), Jan. 7, 2011, 124 Stat. 4374; Pub. L. 112–213, title IV, §409, Dec. 20, 2012, 126 Stat. 1572.)
 
 Historical and Revision Notes
 
@@ -208,6 +208,8 @@ In subsection (i)(2), the words “Notwithstanding any other provision of this c
 
 #### Amendments
 
+<b>2012</b>—Subsec. (a). Pub. L. 112–213 substituted “Organization and Mission” for “Organization” in heading and inserted at end of text “The mission of the MaritimeAdministration is to foster, promote, and develop the merchant maritime industry of the United States.”
+
 <b>2011</b>—Subsec. (h). Pub. L. 111–383 made technical amendment to directory language of Pub. L. 111–84, §3508(1). See 2009 Amendment note below.
 
 <b>2009</b>—Subsec. (h). Pub. L. 111–84, §3508(1), as amended by Pub. L. 111–383, substituted “Contracts, Cooperative Agreements, and Audits” for “Contracts and Audits” in heading.
@@ -228,7 +230,7 @@ Subsecs. (i), (j). Pub. L. 111–84, §3508(6), added subsec. (i) and redesignat
 
 #### Effective Date of 2011 Amendment
 
-Pub. L. 111–383, div. A, title X, §1075(d), Jan. 7, 2011, 124 Stat. 4372, provided that the amendment by section1075(d)(26) is effective as of Oct. 28, 2009, and as if included in Pub. L. 111–84 as enacted.
+Pub. L. 111–383, div. A, title X, §1075(d), Jan. 7, 2011, 124 Stat. 4372, provided that the amendment by section 1075(d)(26) is effective as of Oct. 28, 2009, and as if included in Pub. L. 111–84 as enacted.
 
 #### References in Other Federal Laws to Functions or Offices Transferred
 

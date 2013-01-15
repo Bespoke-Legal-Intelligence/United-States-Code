@@ -10,7 +10,7 @@ Third. To arrest and take into custody any witness or witnesses to such unlawful
 
 Fourth. To go on board of any towboat having in tow scows or boats loaded with such prohibited material, and accompany the same to the place of dumping, whenever such action appears to be necessary to secure compliance with the requirements of this subchapter and of the Act aforesaid.
 
-Fifth. To enter gas and oil works and all other manufacturing works for the purpose of discovering the disposition made of sludge, acid, or other injurious material, whenever there is good reason to believe that such sludge, acid, or other injurious material is allowed to run into tidal waters of the harbor in violation of section 441 of this title.
+Fifth. To enter gas and oil works and all other manufacturing works for the purpose of discovering the disposition made of sludge, acid, or other injurious material, whenever there is good reason to believe that such sludge, acid, or other injurious material is allowed to run into tidalwaters of the harbor in violation of section 441 of this title.
 
 (June 29, 1888, ch. 496, §3, 25 Stat. 209; Aug. 18, 1894, ch. 299, §3, 28 Stat. 360; May 28, 1908, ch. 212, §8, 35 Stat. 427; Pub. L. 85–802, §1(3), Aug. 28, 1958, 72 Stat. 970; Pub. L. 90–578, title IV, §402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
 

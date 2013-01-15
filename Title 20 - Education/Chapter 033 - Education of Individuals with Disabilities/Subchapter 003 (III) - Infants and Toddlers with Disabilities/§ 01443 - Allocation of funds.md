@@ -18,7 +18,7 @@
 
 #### (2) Allocation
 
-&emsp;For each fiscal year, the Secretary of the Interior shall distribute the entire payment received under paragraph (1) by providing to each tribe, tribal organization, or consortium an amount based on the number of infants and toddlers residing on the reservation, as determined annually, divided by the total of such children served by all tribes, tribal organizations, or consortia.
+&emsp;For each fiscal year, the Secretary of the Interior shall distribute the entire payment received under paragraph (1) by providing to each tribe, tribal organization, or consortium an amount based on the number of infants andtoddlers residing on the reservation, as determined annually, divided by the total of such children served by all tribes, tribal organizations, or consortia.
 
 #### (3) Information
 

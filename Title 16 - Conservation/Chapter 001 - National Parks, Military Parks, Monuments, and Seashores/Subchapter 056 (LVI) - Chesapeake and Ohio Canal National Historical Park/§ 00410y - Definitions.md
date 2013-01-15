@@ -20,7 +20,7 @@ As used in this subchapter—
 
 #### Short Title
 
-Section 1 of Pub. L. 91–664, Jan. 8, 1971, 84 Stat. 1978, provided: “That this Act \[enacting this subchapter\] shall be known as the ‘Chesapeake and Ohio Canal Development Act’.”
+Pub. L. 91–664, §1, Jan. 8, 1971, 84 Stat. 1978, provided: “That this Act \[enacting this subchapter\] shall be known as the ‘Chesapeake and Ohio Canal Development Act’.”
 
 #### Dedication to Justice William O. Douglas
 

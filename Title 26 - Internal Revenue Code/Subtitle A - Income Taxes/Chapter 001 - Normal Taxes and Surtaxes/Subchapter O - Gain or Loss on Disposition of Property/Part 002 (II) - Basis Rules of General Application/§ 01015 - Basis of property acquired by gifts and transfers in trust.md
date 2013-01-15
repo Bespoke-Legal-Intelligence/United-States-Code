@@ -92,7 +92,7 @@ Amendment by Pub. L. 97–34 applicable with respect to gifts made after Dec. 31
 
 Amendment by section 1901(a)(122) of Pub. L. 94–455 applicable with respect to taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
-Section 2005(f) of Pub. L. 94–455, as amended by Pub. L. 95–600, title V, §515(6), Nov. 6, 1978, 92 Stat. 2884, provided that:
+Pub. L. 94–455, title XX, §2005(f), Oct. 4, 1976, 90 Stat. 1878, as amended by Pub. L. 95–600, title V, §515(6), Nov. 6, 1978, 92 Stat. 2884, provided that:
 
 “(1) Except as provided in paragraph (2), the amendments made by this section \[enacting sections 1023, 1040, 6039A, and 6694 of this title, amending sections 691, 1016, and 1246 of this title, and renumbering former section 1023 as 1024\] shall apply in respect of decedents dying after December 31, 1979.
 

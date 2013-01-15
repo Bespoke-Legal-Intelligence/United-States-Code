@@ -450,7 +450,7 @@ Subsec. (f)(2)(A) to (C). Pub. L. 104–208, §2703(a)(1)(B), added subpars. (A)
 
 Subsec. (k). Pub. L. 104–208, §2703(a)(2)(A), substituted “section, the following definitions shall apply:” for “section—” in introductory provisions.
 
-Subsec. (k)(1). Pub. L. 104–208, §2703(a)(2)(B), (C), redesignated par. (2) as (1) and struck out heading and text of former par. (1). Text read as follows: “The term ‘Savings Association Insurance Fund member’ means a savings association which is a Savings Association Insurance Fund member as defined by section 7(<i>l</i>) of the Federal Deposit Insurance Act.”
+Subsec. (k)(1). Pub. L. 104–208, §2703(a)(2)(B), (C), redesignated par. (2) as (1) and struck out heading and text of former par. (1). Text read as follows: “The term ‘Savings Association Insurance Fund member’ means a savings association which is a Savings Association Insurance Fund member as defined by section 7(l) of the Federal Deposit Insurance Act.”
 
 Subsec. (k)(2) to (4). Pub. L. 104–208, §2703(a)(2)(C), (D), added pars. (3) and (4) and redesignated former pars. (2) and (3) as (1) and (2), respectively.
 
@@ -538,7 +538,7 @@ Subsec. (j). Pub. L. 101–73, §713, redesignated subsec. (k) as (j). Former su
 
 Pub. L. 101–73, §512(2), substituted “Federal Housing Finance Board” for “Board”.
 
-Subsec. (k). Pub. L. 101–73, §713, redesignated subsec. (<i>l</i>) as (k). Former subsec. (k) redesignated (j).
+Subsec. (k). Pub. L. 101–73, §713, redesignated subsec. (l) as (k). Former subsec. (k) redesignated (j).
 
 Subsec. (k)(1). Pub. L. 101–73, §512(17)(A), substituted definition of “Savings Association Insurance Fund member” for definition of “insured institution”.
 
@@ -546,7 +546,7 @@ Subsec. (k)(2). Pub. L. 101–73, §512(17)(B), redesignated par. (3) as (2) and
 
 Subsec. (k)(3), (4). Pub. L. 101–73, §512(10), (17)(B), added par. (4) and redesignated pars. (3) and (4) as (2) and (3), respectively.
 
-Subsec. (<i>l</i>). Pub. L. 101–73, §713, redesignated subsec. (<i>l</i>) as (k).
+Subsec. (l). Pub. L. 101–73, §713, redesignated subsec. (l) as (k).
 
 #### Effective Date of 2006 Amendment
 
@@ -554,7 +554,7 @@ Amendment by Pub. L. 109–173 effective Mar. 31, 2006, see section 9(j) of Pub.
 
 #### Effective and Termination Dates of 1996 Amendment
 
-Section 2703(c) of Pub. L. 104–208 provided that:
+Pub. L. 104–208, div. A, title II, §2703(c), Sept. 30, 1996, 110 Stat. 3009–485, provided that:
 
 “(1)
 
@@ -570,11 +570,11 @@ Termination of certain assessment rates.—Subparagraph (A) of section 21(f)(2) 
 
 #### Effective Date of 1992 Amendment
 
-Section 1618 of Pub. L. 102–550 provided that: “Except as otherwise provided by a specific provision of this subtitle \[subtitle B (§§1611–1618) of title XVI of Pub. L. 102–550, amending this section, sections 1441a, 1441b, 1821, 3345, and 3348 of this title and provisions set out as a note under section 1441a of this title\], the amendments made by this subtitle to the Resolution Trust Corporation Refinancing, Restructuring, and Improvement Act of 1991 \[Pub. L. 102–233; see Short Title of 1991 Amendment note set out under section 1421 of this title\] and the Federal Home Loan Bank Act \[12 U.S.C. 1421 et seq.\] shall take effect as if such amendments had been included in the Resolution Trust Corporation Refinancing, Restructuring, and Improvement Act of 1991 \[Pub. L. 102–233\] as of the date of the enactment of such Act \[Dec. 12, 1991\].”
+Pub. L. 102–550, title XVI, §1618, Oct. 28, 1992, 106 Stat. 4097, provided that: “Except as otherwise provided by a specific provision of this subtitle \[subtitle B (§§1611–1618) of title XVI of Pub. L. 102–550, amending this section, sections 1441a, 1441b, 1821, 3345, and 3348 of this title and provisions set out as a note under section 1441a of this title\], the amendments made by this subtitle to the Resolution Trust Corporation Refinancing, Restructuring, and Improvement Act of 1991 \[Pub. L. 102–233; see Short Title of 1991 Amendment note set out under section 1421 of this title\] and the Federal Home Loan Bank Act \[12 U.S.C. 1421 et seq.\] shall take effect as if such amendments had been included in the Resolution Trust Corporation Refinancing, Restructuring, and Improvement Act of 1991 \[Pub. L. 102–233\] as of the date of the enactment of such Act \[Dec. 12, 1991\].”
 
 #### Effective Date of 1991 Amendment
 
-Section 318 of Pub. L. 102–233 provided that: “The effective date of the Resolution Trust Corporation Thrift Depositor Protection Reform Act of 1991 \[title III of Pub. L. 102–233, amending this section, sections 1441a, 1441b, 1786, 1818, 1821, 1833b, and 1833e of this title, sections 5313 and 5314 of Title 5, Government Organization and Employees, and section 11 of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, enacting provisions set out as notes under section 1441a of this title, and amending provisions set out as notes under sections 1437 and 1441a of this title\] shall be February 1, 1992.”
+Pub. L. 102–233, title III, §318, Dec. 12, 1991, 105 Stat. 1773, provided that: “The effective date of the Resolution Trust Corporation Thrift Depositor Protection Reform Act of 1991 \[title III of Pub. L. 102–233, amending this section, sections 1441a, 1441b, 1786, 1818, 1821, 1833b, and 1833e of this title, sections 5313 and 5314 of Title 5, Government Organization and Employees, and section 11 of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, enacting provisions set out as notes under section 1441a of this title, and amending provisions set out as notes under sections 1437 and 1441a of this title\] shall be February 1, 1992.”
 
 #### Transfer of Functions
 
@@ -586,7 +586,7 @@ Thrift Depositor Protection Oversight Board abolished, see section 14(a)–(d) o
 
 #### Prohibition on Deposit Shifting
 
-Section 2703(d) of Pub. L. 104–208 provided that:
+Pub. L. 104–208, div. A, title II, §2703(d), Sept. 30, 1996, 110 Stat. 3009–486, provided that:
 
 “(1)
 
@@ -610,7 +610,7 @@ Pub. L. 100–202, §101(f) \[title III, §301\], Dec. 22, 1987, 101 Stat. 1329�
 
 #### Sunset and Savings Provision
 
-Section 416 of Pub. L. 100–86 provided that:
+Pub. L. 100–86, title IV, §416, Aug. 10, 1987, 101 Stat. 623, provided that:
 
 “(a)
 

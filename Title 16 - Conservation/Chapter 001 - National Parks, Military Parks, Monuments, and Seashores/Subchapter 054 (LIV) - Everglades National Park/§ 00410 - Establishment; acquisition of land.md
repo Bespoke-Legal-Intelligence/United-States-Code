@@ -422,7 +422,7 @@ Use of noneasement lands.—
 
 &emsp;&emsp;“(A)
 
-In general.—The Secretary may use all or any part of the MRA lands to the extent necessary to restore or preserve the quality, quantity, timing, or distribution of surface or groundwater, if other reasonable alternative measures to achieve the same purpose are impractical.
+In general.—The Secretary may use all or any part of the MRA lands to the extent necessaryto restore or preserve the quality, quantity, timing, or distribution of surface or groundwater, if other reasonable alternative measures to achieve the same purpose are impractical.
 
 &emsp;&emsp;“(B)
 

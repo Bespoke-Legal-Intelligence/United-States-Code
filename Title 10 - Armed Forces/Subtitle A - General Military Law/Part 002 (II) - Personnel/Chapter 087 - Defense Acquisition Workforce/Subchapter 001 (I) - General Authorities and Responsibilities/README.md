@@ -8,11 +8,14 @@
 | \[1703. | Repealed.\] |
 | [1704\.](%C2%A7%2001704%20-%20Service%20acquisition%20executives%20authorities%20and%20responsibilities.md) | Service acquisition executives: authorities and responsibilities. |
 | [1705\.](%C2%A7%2001705%20-%20Department%20of%20Defense%20Acquisition%20Workforce%20Development%20Fund.md) | Department of Defense Acquisition Workforce Development Fund. |
-| \[1706, 1707. Repealed.\] |  |
+| [1706\.](%C2%A7%2001706%20-%20Government%20performance%20of%20certain%20acquisition%20functions.md) | Government performance of certain acquisition functions. |
+| \[1707. | Repealed.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2013</b>—Pub. L. 112–239, div. A, title VIII, §824(a)(2), Jan. 2, 2013, 126 Stat. 1833, added item 1706.
 
 <b>2011</b>—Pub. L. 111–383, div. A, title VIII, §871(b), Jan. 7, 2011, 124 Stat. 4300, added item 1701a.
 
@@ -35,4 +38,5 @@
 - [&sect; 01703 - Repealed. Pub. L. 108&#8211;136, div. A, title VIII, &sect;831(a), Nov. 24, 2003, 117 Stat. 1549](%C2%A7%2001703%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93136%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7831%28a%29%2C%20Nov.%2024%2C%202003%2C%20117%20Stat.%201549.md)
 - [&sect; 01704 - Service acquisition executives authorities and responsibilities](%C2%A7%2001704%20-%20Service%20acquisition%20executives%20authorities%20and%20responsibilities.md)
 - [&sect; 01705 - Department of Defense Acquisition Workforce Development Fund](%C2%A7%2001705%20-%20Department%20of%20Defense%20Acquisition%20Workforce%20Development%20Fund.md)
-- [&sect; 01706, 1707 - Repealed. Pub. L. 108&#8211;136, div. A, title VIII, &sect;831(a), Nov. 24, 2003, 117 Stat. 1549](%C2%A7%2001706%2C%201707%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93136%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7831%28a%29%2C%20Nov.%2024%2C%202003%2C%20117%20Stat.%201549.md)
+- [&sect; 01706 - Government performance of certain acquisition functions](%C2%A7%2001706%20-%20Government%20performance%20of%20certain%20acquisition%20functions.md)
+- [&sect; 01707 - Repealed. Pub. L. 108&#8211;136, div. A, title VIII, &sect;831(a), Nov. 24, 2003, 117 Stat. 1549](%C2%A7%2001707%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93136%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7831%28a%29%2C%20Nov.%2024%2C%202003%2C%20117%20Stat.%201549.md)

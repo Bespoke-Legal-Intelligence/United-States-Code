@@ -42,7 +42,7 @@ No claim may be asserted against the Fund pursuant to section 9611(a) of this ti
 
 #### (1) Claims for recovery of costs
 
-&emsp;No claim may be presented under this section for recovery of the costs referred to insection 9607(a) of this title after the date 6 years after the date of completion of all response action.
+&emsp;No claim may be presented under this section for recovery of the costs referred to in section 9607(a) of this title after the date 6 years after the date of completion of all response action.
 
 #### (2) Claims for recovery of damages
 
@@ -76,7 +76,7 @@ This chapter, referred to in subsec. (c)(2), was in the original “this Act”,
 
 #### Amendments
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–499, §112(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “All claims which may be asserted against the Fund pursuant to section 9611 of this title shall be presented in the first instance to the owner, operator, or guarantor of the vessel or facility from which a hazardous substance has been released, if known to the claimant, and to any other person known to the claimant who may be liable under section 9607 of this title. In any case where the claim has not been satisfied within sixty days of presentation in accordance with this subsection, the claimant may elect to commence an action in court against such owner, operator, guarantor, or other person or to present the claim to the Fund for payment.”
+<b>1986</b>—Subsec. (a). Pub. L. 99–499, §112(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “All claims which may be asserted against the Fund pursuant to section 9611 of this title shall be presented in the first instance to the owner, operator,or guarantor of the vessel or facility from which a hazardous substance has been released, if known to the claimant, and to any other person known to the claimant who may be liable under section 9607 of this title. In any case where the claim has not been satisfied within sixty days of presentation in accordance with this subsection, the claimant may elect to commence an action in court against such owner, operator, guarantor, or other person or to present the claim to the Fund for payment.”
 
 Subsec. (b)(1). Pub. L. 99–499, §112(b), added heading.
 

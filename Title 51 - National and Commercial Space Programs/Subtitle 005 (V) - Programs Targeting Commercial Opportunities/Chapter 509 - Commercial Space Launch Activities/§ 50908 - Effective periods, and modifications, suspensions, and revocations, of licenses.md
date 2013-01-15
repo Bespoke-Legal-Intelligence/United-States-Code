@@ -24,7 +24,7 @@ Additional Suspensions.—(1) The Secretary may suspend a license when a previou
 
 (2) Any suspension imposed under this subsection shall be for as brief a period as possible and, in any event, shall cease when the Secretary—
 
-&emsp;(A) has determined that the licensee has taken sufficient steps to reduce the likelihood of a recurrence of the serious or fatal injury; or
+&emsp;(A) has determined that the licensee has taken sufficient steps to reduce the likelihoodof a recurrence of the serious or fatal injury; or
 
 &emsp;(B) has modified the license pursuant to subsection (b) to sufficiently reduce the likelihood of a recurrence of the serious or fatal injury.
 

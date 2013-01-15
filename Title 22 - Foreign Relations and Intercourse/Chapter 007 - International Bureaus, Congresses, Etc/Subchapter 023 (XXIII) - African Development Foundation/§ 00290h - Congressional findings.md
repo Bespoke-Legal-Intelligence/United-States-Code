@@ -26,5 +26,5 @@ Amendment by Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §586(h)(1)\], N
 
 #### Short Title
 
-Section 501 of title V of Pub. L. 96–533 provided: “This title \[enacting this subchapter\] may be cited as the ‘African Development Foundation Act’.”
+Pub. L. 96–533, title V, §501, Dec. 16, 1980, 94 Stat. 3151, provided: “This title \[enacting this subchapter\] may be cited as the ‘African Development Foundation Act’.”
 

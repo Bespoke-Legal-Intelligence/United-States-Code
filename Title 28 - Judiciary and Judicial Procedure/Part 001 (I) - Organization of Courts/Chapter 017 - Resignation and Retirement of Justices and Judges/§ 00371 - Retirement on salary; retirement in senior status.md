@@ -54,7 +54,7 @@ Years of service:
 
 (2) Determinations of work performed under subparagraphs (A), (B), (C), and (D) of paragraph (1) shall be made pursuant to rules promulgated by the Judicial Conference of the United States. In promulgating such criteria, the Judicial Conference shall take into account existing standards promulgated by the Conference for allocation of space and staff for senior judges.
 
-(3) If in any year a justice or judge who retires under subsection (b) does not receive a certification under this subsection (except as provided in paragraph (1)(E)), he or she may thereafter receive a certification for that year by satisfying the requirements of subparagraph (A), (B), (C), or (D) of paragraph (1) of this subsection in a subsequent year and attributing a sufficientpart of the work performed in such subsequent year to the earlier year so that the work so attributed, when added to the work performed during such earlier year, satisfies the requirements for certification for that year. However, a justice or judge may not receive credit for the same work for purposes of certification for more than 1 year.
+(3) If in any year a justice or judge who retires under subsection (b) does not receive a certification under this subsection (except as provided in paragraph (1)(E)), he or she may thereafter receive a certification for that year by satisfying the requirements of subparagraph (A), (B), (C), or (D) of paragraph (1) of this subsection in a subsequent year and attributing a sufficient part of the work performed in such subsequent year to the earlier year so that the work so attributed, when added to the work performed during such earlier year, satisfies the requirements for certification for that year. However, a justice or judge may not receive credit for the same work for purposes of certification for more than 1 year.
 
 (4) In the case of any justice or judge who retires under subsection (b) during a calendar year, there shall be included in the determination under this subsection of work performed during that calendar year all work performed by that justice or judge (as described in subparagraphs (A), (B), (C), and (D) of paragraph (1)) during that calendar year before such retirement.
 
@@ -62,7 +62,7 @@ Years of service:
 
 #### Historical and Revision Notes
 
-Based on title 28, U.S.C., 1940 ed., §§375 and 375a (Mar. 3, 1911, ch. 231, §260, 36 Stat. 1161; Feb. 25, 1919, ch. 29, §6, 40 Stat. 1157; Mar. 1, 1929, ch. 419, 45 Stat. 1422; Mar. 1, 1937, ch. 21, §§1, 2, 50 Stat. 24; Feb. 11, 1938, ch. 25, §1, 52 Stat. 28; May 11, 1944, ch. 192, §1, 58 Stat. 218).
+Based on title 28, U.S.C., 1940 ed., §§375 and 375a (Mar. 3, 1911, ch. 231, §260, 36 Stat. 1161; Feb. 25, 1919, ch. 29,§6, 40 Stat. 1157; Mar. 1, 1929, ch. 419, 45 Stat. 1422; Mar. 1, 1937, ch. 21, §§1, 2, 50 Stat. 24; Feb. 11, 1938, ch. 25, §1, 52 Stat. 28; May 11, 1944, ch. 192, §1, 58 Stat. 218).
 
 This section consolidates provisions of sections 375 and 375a of title 28, U.S.C., 1940 ed., relating to resignation and retirement. Remaining provisions of said section 375 now appear in sections 136, 294, and 756 of this title, and remaining provisions of said section 375a now appear in section 294 of this title.
 
@@ -116,7 +116,7 @@ Pub. L. 106–398, §1 \[\[div. A\], title VI, §654(c)\], Oct. 30, 2000, 114 St
 
 #### Effective Date of 1989 Amendment
 
-Section 705(b) of Pub. L. 101–194 provided that:
+Pub. L. 101–194, title VII, §705(b), Nov. 30, 1989, 103 Stat. 1771, provided that:
 
 “(1)
 
@@ -128,17 +128,17 @@ Calendar year 1990.—In the case of certifications required by section 371(f) o
 
 &emsp;“(A) such certifications shall be based on the 10-month period beginning on January 1, 1990, and ending on October 31, 1990, and shall be completed not later than December 15, 1990;
 
-&emsp;“(B) determinations of work performed under section 371(f) of title 28, United States Code, shall be made pro rata on the basis of such 10-month period; and
+&emsp;“(B) determinations of work performed under section 371(f) of title 28, United States Code, shall bemade pro rata on the basis of such 10-month period; and
 
 &emsp;“(C) such certifications shall be deemed to be certifications made in calendar year 1991.”
 
 #### Effective Date of 1988 Amendment
 
-Section 1005(b) of Pub. L. 100–702 provided that: “The amendment made by this section \[amending this section\] shall apply to a justice or judge who retires, or has retired, from the judicial office or from regular active service (into senior status) as such justice or judge of the United States on or after the effective date of section 5532(c) of title 5 \[effective 90 days after Oct. 13, 1978, see Effective Date of 1978 Amendment note under section 1101 of Title 5, Government Organization and Employees\], and to whom section 5532(c) would otherwise be applicable.”
+Pub. L. 100–702, title X, §1005(b), Nov. 19, 1988, 102 Stat. 4666, provided that: “The amendment made by this section \[amending this section\] shall apply to a justice or judge who retires, or has retired, from the judicial office or from regular active service (into senior status) as such justice or judge of the United States on or after the effective date of section 5532(c) of title 5 \[effective 90 days after Oct. 13, 1978, see Effective Date of 1978 Amendment note under section 1101 of Title 5, Government Organization and Employees\], and to whom section 5532(c) would otherwise be applicable.”
 
 #### Effective Date of 1984 Amendment
 
-Section 204(c) of Pub. L. 98–353 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to any justice or judge of the United States appointed to hold office during good behavior who retires on or after the date of enactment of this Act \[July 10, 1984\].”
+Pub. L. 98–353, title II, §204(c), July 10, 1984, 98 Stat. 350, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to any justice or judge of the United States appointed to hold office during good behavior who retires on or after the date of enactment of this Act \[July 10, 1984\].”
 
 #### Computation of Judicial Service, District of Alaska
 

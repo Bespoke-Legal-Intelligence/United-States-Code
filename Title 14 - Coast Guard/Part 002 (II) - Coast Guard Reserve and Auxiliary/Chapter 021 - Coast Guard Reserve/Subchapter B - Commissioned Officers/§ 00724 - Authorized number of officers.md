@@ -8,7 +8,7 @@
 
 (c)
 
-Deferral of Limitation.—If at the end of any fiscal year there is in effect a declaration ofwar or national emergency, the President may defer the effectiveness of any end-strength limitation with respect to that fiscal year prescribed by law for any military or civilian component of the Coast Guard Reserve, for a period not to exceed 6 months after the end of the war or termination of the national emergency.
+Deferral of Limitation.—If at the end of any fiscal year there is in effect a declaration of war or national emergency, the President may defer the effectiveness of any end-strength limitation with respect to that fiscal year prescribed by law for any military or civilian component of the Coast Guard Reserve, for a period not to exceed 6 months after the end of the war or termination of the national emergency.
 
 (Added Pub. L. 96–322, §1, Aug. 4, 1980, 94 Stat. 1007; amended Pub. L. 97–417, §2(12), Jan. 4, 1983, 96 Stat. 2086; Pub. L. 98–557, §25(a)(4), Oct. 30, 1984, 98 Stat. 2872; Pub. L. 99–145, title V, §514(c)(1), Nov. 8, 1985, 99 Stat. 629; Pub. L. 107–295, title I, §105(b), Nov. 25, 2002, 116 Stat. 2085; Pub. L. 109–241, title II, §207, July 11, 2006, 120 Stat. 521.)
 

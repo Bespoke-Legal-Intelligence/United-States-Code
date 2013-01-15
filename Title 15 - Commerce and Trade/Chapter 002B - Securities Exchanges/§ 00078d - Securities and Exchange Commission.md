@@ -186,7 +186,7 @@ Notwithstanding any other provision of law, the Commission may accept payment an
 
 #### (1) Reserve Fund established
 
-&emsp;There is established in the Treasury of the United States a separate fund, to be known as the “Securities and Exchange Commission Reserve Fund” (referred to in this subsection as the “Reserve Fund”).
+&emsp;There is established in the Treasury of the United States a separate fund, to be known asthe “Securities and Exchange Commission Reserve Fund” (referred to in this subsection as the “Reserve Fund”).
 
 #### (2) Reserve Fund amounts
 
@@ -273,6 +273,10 @@ Act Oct. 28, 1949, ch. 782, set out in the credit of this section, was repealed 
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out below.
+
+#### Outreach by the Commission
+
+Pub. L. 112–106, title VII, §701, Apr. 5, 2012, 126 Stat. 327, provided that: “The Securities and Exchange Commission shall provide online information and conduct outreach to inform small and medium sized businesses, women owned businesses, veteran owned businesses, and minority owned businesses of the changes made bythis Act \[see Short Title of 2012 Amendment note set out under section 78a of this title\].”
 
 #### Pay Authority for Employment of Experts and Consultants
 

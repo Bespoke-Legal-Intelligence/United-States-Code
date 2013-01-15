@@ -104,5 +104,5 @@ Subsecs. (f), (g). Pub. L. 104–134, §31001(x)(2)(B), (C), added subsec. (f) a
 
 #### Effective Date of 1983 Amendment
 
-Section 2(i) of Pub. L. 97–452 provided that: “The amendments made by section 1(11), (14), (19), (22), (24), (26), and (27) \[amending this section and sections 3702, 5103, 5154, 6501, 9101, 9107, and 9108 of this title\] are effective as of September 13, 1982.”
+Pub. L. 97–452, §2(i), Jan. 12, 1983, 96 Stat. 2479, provided that: “The amendments made by section 1(11), (14), (19), (22), (24), (26), and (27) \[amending this section and sections 3702, 5103, 5154, 6501, 9101, 9107, and 9108 of this title\] are effective as of September 13, 1982.”
 

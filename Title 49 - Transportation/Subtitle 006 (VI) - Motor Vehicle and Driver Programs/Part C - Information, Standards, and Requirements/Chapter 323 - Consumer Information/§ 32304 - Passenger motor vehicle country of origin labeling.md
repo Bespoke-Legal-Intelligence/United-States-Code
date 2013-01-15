@@ -98,7 +98,7 @@ Value Added Determination.—If a manufacturer or allied supplier requests infor
 
 &emsp;(1) The manufacturer or allied supplier shall make the same value added determinations as would be made by the outside supplier, that is, whether 70 percent or more of the value of equipment is added in the United States and/or Canada.
 
-&emsp;(2) The manufacturer or allied supplier shall consider the amount of value added and the location in which the value was added for all of the stages that the outside supplier would be required to consider.
+&emsp;(2) The manufacturer or allied supplier shall consider the amount of value added and the location in which the value was added for all ofthe stages that the outside supplier would be required to consider.
 
 &emsp;(3) The manufacturer or allied supplier may determine that the value added in the United States and/or Canada is 70 percent or more only if it has a good faith basis to make that determination.
 

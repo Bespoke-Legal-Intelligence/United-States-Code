@@ -42,23 +42,23 @@ The Magnuson-Stevens Fishery Conservation and Management Act, referred to in par
 
 #### Effective Date of 1996 Amendment
 
-Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
 #### Effective Date of 1984 Amendment
 
-Section 303(c) of Pub. L. 98–364 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1974 of this title\] apply with respect to seizures made after April 1, 1983, by foreign countries of vessels of the United States.”
+Pub. L. 98–364, title III, §303(c), July 17, 1984, 98 Stat. 445, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1974 of this title\] apply with respect to seizures made after April 1, 1983, by foreign countries of vessels of the United States.”
 
 #### Effective Date of 1980 Amendment
 
-Section 238(b) of Pub. L. 96–561 provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
+Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300, provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
 
 #### Effective Date of 1976 Amendment
 
-Section 403(b) of Pub. L. 94–265 provided in part that the amendment made by section 403(a)(1) of Pub. L. 94–265 to this section was to take effect Mar. 1, 1977, prior to the general amendment of title IV of Pub. L. 94–265 by Pub. L. 104–297.
+Pub. L. 94–265, title IV, §403(b), Apr. 13, 1976, 90 Stat. 360, provided in part that the amendment made by section 403(a)(1) of Pub. L. 94–265 to this section was to take effect Mar. 1, 1977, prior to the general amendment of title IV of Pub. L. 94–265 by Pub. L. 104–297.
 
 #### Effective Date of 1972 Amendment
 
-Section 6 of Pub. L. 92–569 provided that: “The amendments made by this Act \[enacting section 1979 of this title and amending this section and sections 1973, 1975, and 1977 of this title\] shall apply with respect to seizures of vessels of the United States occurring on or after the date of the enactment of this Act \[Oct. 26, 1972\]; except that reimbursements under section 3 of the Fishermen's Protective Act of 1967 \[section 1973 of this title\] (as in effect before such date of enactment \[Oct. 26, 1972\]) may be made from the fund established by the amendment made by section 5 of this Act \[enacting section 1979 of this title\] with respect to any seizure of a vessel occurring before such date of enactment \[Oct. 26, 1972\] and after December 31, 1970, if no reimbursement was made before such date of enactment \[Oct. 26, 1972\].”
+Pub. L. 92–569, §6, Oct. 26, 1972, 86 Stat. 1183, provided that: “The amendments made by this Act \[enacting section 1979 of this title and amending this section and sections 1973, 1975, and 1977 of this title\] shall apply with respect to seizures of vessels of the United States occurring on or after the date of the enactment of this Act \[Oct. 26, 1972\]; except that reimbursements under section 3 of the Fishermen's Protective Act of 1967 \[section 1973 of this title\] (as in effect before such date of enactment \[Oct. 26, 1972\]) may be made from the fund established by the amendment made by section 5 of this Act \[enacting section 1979 of this title\] with respect to any seizure of a vessel occurring before such date of enactment \[Oct. 26, 1972\] and after December 31, 1970, if no reimbursement was made before such date of enactment \[Oct. 26, 1972\].”
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “or”.</i>
 

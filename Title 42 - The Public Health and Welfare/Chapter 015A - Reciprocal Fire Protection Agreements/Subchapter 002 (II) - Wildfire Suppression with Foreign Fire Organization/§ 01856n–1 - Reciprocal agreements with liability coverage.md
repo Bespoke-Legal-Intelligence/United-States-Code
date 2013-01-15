@@ -28,5 +28,5 @@ The Secretary of Agriculture and the Secretary of the Interior may provide the p
 
 #### Prior Provisions
 
-A prior section 4 of Pub. L. 100–428 was renumbered section 5 and is classified to section 1856<i>o</i> of this title.
+A prior section 4 of Pub. L. 100–428 was renumbered section 5 and is classified to section 1856o of this title.
 

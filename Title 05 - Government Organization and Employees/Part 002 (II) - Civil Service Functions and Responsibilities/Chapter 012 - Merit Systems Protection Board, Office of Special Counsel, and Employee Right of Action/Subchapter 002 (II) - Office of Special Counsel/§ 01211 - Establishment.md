@@ -46,5 +46,5 @@ Regulations.—The Integrity Committee may prescribe any rules or regulations ne
 
 #### Transfer of Funds
 
-Section 8(c) of Pub. L. 101–12 provided that: “The personnel, assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, held, used, arising from, available or to be made available to the Special Counsel of the Merit Systems Protection Board are, subject to section 1531 of title 31, United States Code, transferred to the Special Counsel referred to in section 1211 of title 5, United States Code (as added by section 3(a) of this Act), for appropriate allocation.”
+Pub. L. 101–12, §8(c), Apr. 10, 1989, 103 Stat. 34, provided that: “The personnel, assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, held, used, arising from, available or to be made available to the Special Counsel of the Merit Systems Protection Board are, subject to section 1531 of title 31, United States Code, transferred to the Special Counsel referred to in section 1211 of title 5, United States Code (as added by section 3(a) of this Act), for appropriate allocation.”
 

@@ -44,7 +44,7 @@ Application of Guidelines in Imposing a Sentence.—
 
 &emsp;(1)
 
-In general.—Except as provided in paragraph (2), the court shall impose a sentence of the kind, and within the range, referred to in subsection (a)(4) unless the court finds that there exists an aggravating or mitigating circumstance of a kind, or to a degree, not adequately taken into consideration by the Sentencing Commission in formulating the guidelines that should result in a sentence different from that described. In determining whether a circumstance was adequately taken into consideration, the court shall consider only the sentencing guidelines, policy statements, and official commentary of the Sentencing Commission. In the absence of an applicable sentencing guideline, the court shall impose an appropriate sentence, having due regard for the purposes set forth in subsection (a)(2). In the absence of an applicable sentencing guideline in the case of an offense other than a petty offense, the court shall also have due regard for the relationship of the sentence imposed to sentences prescribed by guidelines applicable to similar offenses and offenders, and to the applicable policy statements of the Sentencing Commission.
+In general.—Except as provided in paragraph (2), the court shall impose a sentence of the kind, and within the range, referred to in subsection (a)(4) unless the court finds that there exists an aggravating or mitigating circumstance of a kind, or to a degree, not adequately taken into consideration by the Sentencing Commission in formulating the guidelines that should result in a sentence different from that described. In determining whether a circumstance was adequately taken into consideration, the court shall consider only the sentencing guidelines, policy statements, and official commentary of the Sentencing Commission. In the absence of an applicable sentencing guideline, the court shall impose an appropriate sentence, having due regard for the purposes set forth in subsection (a)(2). In the absence of an applicable sentencing guideline in the case of an offense other than apetty offense, the court shall also have due regard for the relationship of the sentence imposed to sentences prescribed by guidelines applicable to similar offenses and offenders, and to the applicable policy statements of the Sentencing Commission.
 
 &emsp;(2)
 
@@ -80,7 +80,7 @@ Statement of Reasons for Imposing a Sentence.—The court, at the time of senten
 
 (d)
 
-Presentence Procedure for an Order of Notice.—Prior to imposing an order of noticepursuant to section 3555, the court shall give notice to the defendant and the Government that it is considering imposing such an order. Upon motion of the defendant or the Government, or on its own motion, the court shall—
+Presentence Procedure for an Order of Notice.—Prior to imposing an order of notice pursuant to section 3555, the court shall give notice to the defendant and the Government that it is considering imposing such an order. Upon motion of the defendant or the Government, or on its own motion, the court shall—
 
 &emsp;(1) permit the defendant and the Government to submit affidavits and written memoranda addressing matters relevant to the imposition of such an order;
 
@@ -92,7 +92,7 @@ Presentence Procedure for an Order of Notice.—Prior to imposing an order of no
 
 (e)
 
-Limited Authority To Impose a Sentence Below a Statutory Minimum.—Upon motion of the Government, the court shall have the authority to impose a sentence below a level established by statute as a minimum sentence so as to reflect a defendant's substantial assistance in the investigation or prosecution of another person who has committed an offense. Such sentence shall be imposed in accordance with the guidelines and policy statements issued by the Sentencing Commission pursuant to section 994 of title 28, United States Code.
+Limited Authority To Impose a Sentence Below a Statutory Minimum.—Upon motion of the Government, the court shall have the authority to impose a sentence below a level established by statute as a minimum sentence so as to reflect a defendant's substantial assistance in the investigation or prosecution of another person who has committed an offense. Such sentence shall be imposed in accordance with the guidelines and policy statements issued by theSentencing Commission pursuant to section 994 of title 28, United States Code.
 
 (f)
 
@@ -115,6 +115,10 @@ Limitation on Applicability of Statutory Minimums in Certain Cases.—Notwithsta
 The Federal Rules of Criminal Procedure, referred to in subsec. (c)(2), are set out in the Appendix to this title.
 
 Section 408 of the Controlled Substances Act, referred to in subsec. (f)(4), is classified to section 848 of Title 21, Food and Drugs.
+
+#### Constitutionality
+
+For information regarding constitutionality of certain provisions of this section, as amended by section 401(a)(1) of Pub. L. 108–21, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
 
 #### Amendments
 
@@ -166,7 +170,7 @@ Subsec. (e). Pub. L. 99–570 added subsec. (e).
 
 #### Effective Date of 1994 Amendment
 
-Section 80001(c) of Pub. L. 103–322 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to all sentences imposed on or after the 10th day beginning after the date of enactment of this Act \[Sept. 13, 1994\].”
+Pub. L. 103–322, title VIII, §80001(c), Sept. 13, 1994, 108 Stat. 1986, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to all sentences imposed on or after the 10th day beginning after the date of enactment of this Act \[Sept. 13, 1994\].”
 
 #### Effective Date of 1987 Amendment
 
@@ -174,15 +178,15 @@ Amendment by Pub. L. 100–182 applicable with respect to offenses committed aft
 
 #### Effective Date of 1986 Amendments
 
-Section 8(c) of Pub. L. 99–646 provided that: “The amendments made by this section \[amending this section and section 3663 of this title\] shall take effect on the date of the taking effect of section 3553 of title 18, United States Code \[Nov. 1, 1987\].”
+Pub. L. 99–646, §8(c), Nov. 10, 1986, 100 Stat. 3593, provided that: “The amendments made by this section \[amending this section and section 3663 of this title\] shall take effect on the date of the taking effect of section 3553 of title 18, United States Code \[Nov. 1, 1987\].”
 
-Section 9(b) of Pub. L. 99–646 provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of the taking effect of section 3553 of title 18, United States Code \[Nov. 1, 1987\].”
+Pub. L. 99–646, §9(b), Nov. 10, 1986, 100 Stat. 3593, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of the taking effect of section 3553 of title 18, United States Code \[Nov. 1, 1987\].”
 
-Section 80(b) of Pub. L. 99–646 provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of the taking effect of section 212(a)(2) of the Sentencing Reform Act of 1984 \[section 212(a)(2) of Pub. L. 98–473, effective Nov. 1, 1987\].”
+Pub. L. 99–646, §80(b), Nov. 10, 1986, 100 Stat. 3619, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of the taking effect of section 212(a)(2) of the Sentencing Reform Act of 1984 \[section 212(a)(2) of Pub. L. 98–473, effective Nov. 1, 1987\].”
 
-Section 81(b) of Pub. L. 99–646 provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of the taking effect of section 212(a)(2) of the Sentencing Reform Act of 1984 \[section 212(a)(2) of Pub. L. 98–473, effective Nov. 1, 1987\].”
+Pub. L. 99–646, §81(b), Nov. 10, 1986, 100 Stat. 3619, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of the taking effect of section 212(a)(2) of the Sentencing Reform Act of 1984 \[section 212(a)(2) of Pub. L. 98–473, effective Nov. 1, 1987\].”
 
-Section 1007(b) of Pub. L. 99–570 provided that: “The amendment made by this section \[amending this section\] shall take effect on the date of the taking effect of section 3553 of title 18, United States Code \[Nov. 1, 1987\].”
+Pub. L. 99–570, title I, §1007(b), Oct. 27, 1986, 100 Stat. 3207–7, provided that: “The amendment made by this section \[amending this section\] shall take effect on the date of the taking effect of section 3553 of title 18, United States Code \[Nov. 1, 1987\].”
 
 #### Effective Date
 
@@ -190,7 +194,7 @@ Section effective Nov. 1, 1987, and applicable only to offenses committed after 
 
 #### Report by Attorney General
 
-Pub. L. 108–21, title IV, §401(<i>l</i>), Apr. 30, 2003, 117 Stat. 674, provided that:
+Pub. L. 108–21, title IV, §401(l), Apr. 30, 2003, 117 Stat. 674, provided that:
 
 “(1)
 
@@ -238,7 +242,7 @@ Effective date.—Paragraph (2) shall take effect on the day that is 91 days aft
 
 #### Authority To Lower a Sentence Below Statutory Minimum for Old Offenses
 
-Section 24 of Pub. L. 100–182 provided that: “Notwithstanding section 235 of the Comprehensive Crime Control Act of 1984 \[section 235 of Pub. L. 98–473, set out as a note under section 3551 of this title\]—
+Pub. L. 100–182, §24, Dec. 7, 1987, 101 Stat. 1271, provided that: “Notwithstanding section 235 of the Comprehensive Crime Control Act of 1984 \[section 235 of Pub. L. 98–473, set out as a note under section 3551 of this title\]—
 
 &emsp;“(1) section 3553(e) of title 18, United States Code;
 

@@ -2,7 +2,7 @@
 
 (a) In this section—
 
-&emsp;(1) “included Federal loan program” has the same meaning given that term in section 6103(<i>l</i>)(3)(C) of the Internal Revenue Code of 1986 (26 U.S.C. 6103(<i>l</i>)(3)(C)).
+&emsp;(1) “included Federal loan program” has the same meaning given that term in section 6103(l)(3)(C) of the Internal Revenue Code of 1986 (26 U.S.C. 6103(l)(3)(C)).
 
 &emsp;(2) “taxpayer identifying number” means the identifying number required under section 6109 of the Internal Revenue Code of 1986 (26 U.S.C. 6109).
 

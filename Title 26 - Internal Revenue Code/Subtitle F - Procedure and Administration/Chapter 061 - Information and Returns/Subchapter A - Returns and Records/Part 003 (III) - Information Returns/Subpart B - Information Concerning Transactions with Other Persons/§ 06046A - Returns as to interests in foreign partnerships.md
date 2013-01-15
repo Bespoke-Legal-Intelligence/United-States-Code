@@ -38,11 +38,11 @@ Subsecs. (d), (e). Pub. L. 105–34, §1143(a)(2), added subsec. (d) and redesig
 
 #### Effective Date of 1997 Amendment
 
-Section 1143(c) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section and section 6679 of this title\] shall apply to transfers and changes after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title XI, §1143(c), Aug. 5, 1997, 111 Stat. 984, provided that: “The amendments made by this section \[amending this section and section 6679 of this title\] shall apply to transfers and changes after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 #### Effective Date
 
-Section 407(b) of Pub. L. 97–248 provided that: “The amendments made by section 405 \[enacting this section and amending section 6679 of this title\] shall apply with respect to acquisitions or dispositions of, or substantial changes in, interests in foreign partnerships occurring after the date of the enactment of this Act \[Sept. 3, 1982\].”
+Pub. L. 97–248, title IV, §407(b), Sept. 3, 1982, 96 Stat. 671, provided that: “The amendments made by section 405 \[enacting this section and amending section 6679 of this title\] shall apply with respect to acquisitions or dispositions of, or substantial changes in, interests in foreign partnerships occurring after the date of the enactment of this Act \[Sept. 3, 1982\].”
 
 #### Special Rule for Certain International Satellite Partnerships
 

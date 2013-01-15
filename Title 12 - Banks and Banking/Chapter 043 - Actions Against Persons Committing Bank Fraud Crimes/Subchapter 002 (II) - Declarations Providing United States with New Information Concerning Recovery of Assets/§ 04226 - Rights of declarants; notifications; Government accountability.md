@@ -6,7 +6,7 @@ A person who has filed a declaration that meets the requirements of sections 422
 
 #### (b) Notice of decision not to pursue
 
-If, after review, the Attorney General concludes that the information contained in a declaration should not be pursued in a proceeding to recover the asset or assets, the Attorney General shall so notify the declarant in writing and shall provide a brief statement of the reasons that the declaration will not be pursued.
+If, after review, the Attorney General concludes that the information contained in a declaration should not be pursued in a proceeding to recover the asset or assets, the Attorney General shall so notify the declarant in writing andshall provide a brief statement of the reasons that the declaration will not be pursued.
 
 #### (c) Judgment, order, or settlement
 

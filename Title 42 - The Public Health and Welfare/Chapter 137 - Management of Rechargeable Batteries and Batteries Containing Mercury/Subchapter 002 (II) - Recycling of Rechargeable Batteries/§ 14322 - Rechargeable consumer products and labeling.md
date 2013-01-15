@@ -36,7 +36,7 @@ Each regulated battery or rechargeable consumer product without an easily remova
 
 #### (1) Initial period
 
-&emsp;For a period of 2 years after May 13, 1996, regulated batteries, rechargeable consumer products containing regulated batteries, and rechargeable consumer product packages thatare labeled in substantial compliance with subsection (b) of this section shall be deemed to comply with the labeling requirements of subsection (b) of this section.
+&emsp;For a period of 2 years after May 13, 1996, regulated batteries, rechargeable consumerproducts containing regulated batteries, and rechargeable consumer product packages that are labeled in substantial compliance with subsection (b) of this section shall be deemed to comply with the labeling requirements of subsection (b) of this section.
 
 #### (2) Certification
 

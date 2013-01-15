@@ -20,7 +20,7 @@ The Congress finds the following:
 
 &emsp;(9) In spite of the denial of the right to organize under the Indian Reorganization Act \[25 U.S.C. 461 et seq.\], the Pokagon Band has continued to carry out its governmental functions through a Business Committee and Tribal Council from treaty times until today.
 
-&emsp;(10) The United States Government, the government of the State of Michigan, and local governments have had continuous dealings with the recognized political leaders of the Band from 1795 until the present.
+&emsp;(10) The United States Government, the government of the State of Michigan, and local governments have had continuous dealingswith the recognized political leaders of the Band from 1795 until the present.
 
 (Pub. L. 103–323, §1, Sept. 21, 1994, 108 Stat. 2152.)
 

@@ -66,7 +66,7 @@
 
 &emsp;&emsp;(A) United States coins and currency;
 
-&emsp;&emsp;(B) as the Secretary may prescribe by regulation, coins and currency of a foreign country, travelers’ checks, bearer negotiableinstruments, bearer investment securities, bearer securities, stock on which title is passed on delivery, and similar material; and
+&emsp;&emsp;(B) as the Secretary may prescribe by regulation, coins and currency of a foreign country, travelers’ checks, bearer negotiable instruments, bearer investment securities, bearer securities, stock on which title is passed on delivery, and similar material; and
 
 &emsp;&emsp;(C) as the Secretary of the Treasury shall provide by regulation for purposes of sections 5316 and 5331, checks, drafts, notes, money orders, and other similar instruments which are drawn on or by a foreign financial institution and are not in bearer form.
 
@@ -186,7 +186,7 @@ Subsec. (a)(5). Pub. L. 100–690, §6185(g)(1), inserted a comma after “Puert
 
 <b>1986</b>—Subsec. (a)(2)(T). Pub. L. 99–570, §1362(a), which directed that the Postal Service be included within United States agencies by amending subsec. (a)(2)(U) of this section by inserting before the semicolon at the end thereof the following “, including the United States Postal Service”, was executed to subsec. (a)(2)(T) of this section as the probable intent of Congress, because subsec. (a)(2)(U) does not contain a semicolon and subsec. (a)(2)(T) relates to United States agencies.
 
-Subsec. (a)(5). Pub. L. 99–570, §1362(b), inserted “the Virgin Islands, Guam, the Northern Mariana Islands, American Samoa, the Trust Territory of the Pacific Islands,” after “Puerto Rico”.
+Subsec. (a)(5). Pub. L. 99–570, §1362(b), inserted “the Virgin Islands, Guam, the Northern Mariana Islands,American Samoa, the Trust Territory of the Pacific Islands,” after “Puerto Rico”.
 
 #### Effective Date of 2004 Amendment
 

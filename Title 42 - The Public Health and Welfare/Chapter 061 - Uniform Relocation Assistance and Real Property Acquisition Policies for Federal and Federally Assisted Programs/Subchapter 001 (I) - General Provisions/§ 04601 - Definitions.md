@@ -76,11 +76,11 @@ Pars. (10) to (13). Pub. L. 100–17, §402(e), added pars. (10) to (13).
 
 #### Effective Date of 1987 Amendment
 
-Section 418 of title IV of Pub. L. 100–17 provided that: “The amendment made by section 412 of this title \[amending section 4633 of this title\] (to the extent such amendment prescribes authority to develop, publish, and issue regulations) shall take effect on the date of the enactment of this title \[Apr. 2, 1987\]. This title and the amendments made by this title \[enacting section 4604 of this title, amending this section and sections 4621 to 4626, 4630, 4631, 4633, 4636, 4638, 4651, and 4655 of this title, repealing sections 4634 and 4637 of this title, and enacting provisions set out as a note under this section\] (other than the amendment made by section 412 to such extent) shall take effect on the effective date provided in such regulations but not later than 2 years after such date of enactment.”
+Pub. L. 100–17, title IV, §418, Apr. 2, 1987, 101 Stat. 256, provided that: “The amendment made by section 412 of this title \[amending section 4633 of this title\] (to the extent such amendment prescribes authority to develop, publish, and issue regulations) shall take effect on the date of the enactment of this title \[Apr. 2, 1987\]. This title and the amendments made by this title \[enacting section 4604 of this title, amending this section and sections 4621 to 4626, 4630, 4631, 4633, 4636, 4638, 4651, and 4655 of this title, repealing sections 4634 and 4637 of this title, and enacting provisions set out as a note under this section\] (other than the amendment made by section 412 to such extent) shall take effect on the effective date provided in such regulations but not later than 2 years after such date of enactment.”
 
 #### Effective Date
 
-Section 221 of Pub. L. 91–646 provided that:
+Pub. L. 91–646, title II, §221, Jan. 2, 1971, 84 Stat. 1904, provided that:
 
 “(a) Except as provided in subsections (b) and (c) of this section, this Act and the amendments made by this Act \[see Short Title note below\] shall take effect on the date of its enactment \[Jan. 2, 1971\].
 
@@ -90,11 +90,11 @@ Section 221 of Pub. L. 91–646 provided that:
 
 #### Short Title of 1987 Amendment
 
-Section 401 of title IV of Pub. L. 100–17 provided that: “This title \[enacting section 4604 of this title, amending this section and sections 4621 to 4626, 4630, 4631, 4633, 4636, 4638, 4651, and 4655 of this title, repealing sections 4634 and 4637 of this title, and enacting provisions set out as a note under this section\] may be cited as the ‘Uniform Relocation Act Amendments of 1987’.”
+Pub. L. 100–17, title IV, §401, Apr. 2, 1987, 101 Stat. 246, provided that: “This title \[enacting section 4604 of this title, amending this section and sections 4621 to 4626, 4630, 4631, 4633, 4636, 4638, 4651, and 4655 of this title, repealing sections 4634 and 4637 of this title, and enacting provisions set out as a note under this section\] may be cited as the ‘Uniform Relocation Act Amendments of 1987’.”
 
 #### Short Title
 
-Section 1 of Pub. L. 91–646 provided: “That this Act \[enacting this chapter, amending sections 1415, 2473, and 3307 of this title and section 1606 of former Title 49, Transportation, repealing sections 1465 and 3071 to 3074 of this title, section 2680 of Title 10, Armed Forces, sections 141 and 501 to 512 of Title 23, Highways, section 596 of Title 33, Navigation and Navigable Waters, sections 1231 to 1234 of Title 43, Public Lands, and enacting provisions set out as notes under this section and sections 4621 and 4651 of this title, and repealing provisions set out as notes under sections 501 and 510 of Title 23\] may be cited as the ‘Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970’.”
+Pub. L. 91–646, §1, Jan. 2, 1971, 84 Stat. 1894, provided: “That this Act \[enacting this chapter, amending sections 1415, 2473, and 3307 of this title and section 1606 of former Title 49, Transportation, repealing sections 1465 and 3071 to 3074 of this title, section 2680 of Title 10, Armed Forces, sections 141 and 501 to 512 of Title 23, Highways, section 596 of Title 33, Navigation and Navigable Waters, sections 1231 to 1234 of Title 43, Public Lands, and enacting provisions set out as notes under this section and sections 4621 and 4651 of this title, and repealing provisions set out as notes under sections 501 and 510 of Title 23\] may be cited as the ‘Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970’.”
 
 #### Termination of Trust Territory of the Pacific Islands
 

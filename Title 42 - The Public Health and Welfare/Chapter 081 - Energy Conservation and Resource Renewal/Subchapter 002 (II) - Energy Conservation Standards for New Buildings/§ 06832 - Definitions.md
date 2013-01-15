@@ -44,7 +44,7 @@ Par. (1) of this section which read “The term ‘Administrator’ means the Ad
 
 <b>2007</b>—Par. (6). Pub. L. 110–140 struck out “which is not legally subject to State or local building codes or similar requirements” after “any Federal agency” and inserted at end “Such term shall include buildings built for the purpose of being leased by a Federal agency, and privatized military housing.”
 
-<b>1992</b>—Pars. (9) to (16). Pub. L. 102–486 redesignated pars. (10) to (13) as (9) to (12), respectively, added pars. (13) to (16), and struck out former par. (9) which read as follows: “The term ‘voluntary performance standards’ means an energy consumption goal or goals to be met without specification of the methods, materials, andprocesses to be employed in achieving that goal or goals, but including statements of the requirements, criteria and evaluation methods to be used, and any necessary commentary.”
+<b>1992</b>—Pars. (9) to (16). Pub. L. 102–486 redesignated pars. (10) to (13) as (9) to (12), respectively, added pars. (13) to (16), and struck out former par. (9) which read as follows: “The term ‘voluntary performance standards’ means an energy consumption goal or goals to be met without specification of the methods, materials, and processes to be employed in achieving that goal or goals, but including statements of the requirements, criteria and evaluation methods to be used, and any necessary commentary.”
 
 <b>1988</b>—Par. (11). Pub. L. 100–242 substituted “Secretary of Energy” for “Secretary of Housing and Urban Development”.
 

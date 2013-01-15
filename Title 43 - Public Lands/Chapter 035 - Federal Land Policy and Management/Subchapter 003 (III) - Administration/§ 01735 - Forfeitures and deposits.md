@@ -16,7 +16,7 @@ If any portion of a deposit or amount forfeited under this Act is found by the S
 
 #### References in Text
 
-This Act, referred to in subsecs. (b) and (c), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976.For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsecs. (b) and (c), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
 
 Act of August 28, 1937 (50 Stat. 874; 43 U.S.C. 1181a–1181j), referred to in subsec. (b), is act Aug. 28, 1937, ch. 876, 50 Stat. 874, which is classified principally to section 1181a et seq. of this title. Sections 1181f–1 to 1181f–4, included within the parenthetical reference to sections 1181a to 1181j, were enacted by act May 24, 1939, ch. 144, 53 Stat. 753. Sections 1181g to 1181j, also included within the parenthetical reference to sections 1181a to 1181j, were enacted by act June 24, 1954, ch. 357, 68 Stat. 270. Section 1181c, also included within the parenthetical reference to sections 1181a to 1181j, was repealed by Pub. L. 94–579, title VII, §702, Oct. 21, 1976, 90 Stat. 2787. For complete classification of these Acts to the Code, see Tables.
 

@@ -36,7 +36,7 @@ In this subchapter:
 
 #### (8) Intermediary
 
-&emsp;The term “intermediary” means a person that receives a good, service, or technology while the good, service, or technology is in transit to the end-user of the good, service, or technology.
+&emsp;The term “intermediary” means a person that receives a good, service, or technology while the good, service, or technology is intransit to the end-user of the good, service, or technology.
 
 #### (9) International Traffic in Arms Regulations
 

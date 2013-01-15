@@ -36,7 +36,7 @@ Subsec. (a)(5). Pub. L. 104–193, §361(a)(1)–(3), added par. (5).
 
 #### Effective Date of 1996 Amendment
 
-Section 361(b) of Pub. L. 104–193 provided that: “The amendments made by this section \[amending this section\] shall become effective October 1, 1997.”
+Pub. L. 104–193, title III, §361(b), Aug. 22, 1996, 110 Stat. 2242, provided that: “The amendments made by this section \[amending this section\] shall become effective October 1, 1997.”
 
 For provisions relating to effective date of title III of Pub. L. 104–193, see section 395(a)–(c) of Pub. L. 104–193, set out as a note under section 654 of Title 42, The Public Health and Welfare.
 

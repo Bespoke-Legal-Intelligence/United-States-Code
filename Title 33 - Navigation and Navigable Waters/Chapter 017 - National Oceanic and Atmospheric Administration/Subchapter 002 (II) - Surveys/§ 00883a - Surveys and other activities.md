@@ -54,7 +54,7 @@ Content of Plan.—A plan prepared under paragraph (1) shall include—
 
 “(a)
 
-In General.—The \[sic\] following completion of a shoreline mapping plan under section 3202 and subject to authorization and appropriation of funds, the Director, in consultation with the Director of the United States Geological Survey, shall prepare maps of the shoreline areas of the Great Lakes.
+In General.—The \[sic\] following completion of a shoreline mapping plan under section 3202 and subjectto authorization and appropriation of funds, the Director, in consultation with the Director of the United States Geological Survey, shall prepare maps of the shoreline areas of the Great Lakes.
 
 “(b)
 

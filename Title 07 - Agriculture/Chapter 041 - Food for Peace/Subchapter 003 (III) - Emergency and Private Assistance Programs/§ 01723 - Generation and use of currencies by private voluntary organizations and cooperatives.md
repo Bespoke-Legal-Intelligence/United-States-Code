@@ -56,7 +56,7 @@ Subsec. (d)(2). Pub. L. 104–127, §208(4), inserted “or within a country in 
 
 <b>1977</b>—Pub. L. 95–88 substituted “transportation from United States ports to designated points of entry abroad in the case (1) of landlocked countries, (2) where ports cannot be used effectively because of natural or other disturbances, (3) where carriers to a specific country are unavailable, or (4) where a substantial savings in costs or time can be effected by the utilization of points of entry other than ports” for “, or, in the case of landlocked countries, transportation from United States ports to designated points of entry abroad”.
 
-<b>1966</b>—Pub. L. 89–808 reenacted, with linguistic changes, existing provisions for payment of costs and charges, included costs of acquisition, packaging, enrichment, preservation, fortification, processing, handling, other incidents, struck out provisions for authorization of appropriations for reimbursement of CCC, limitation on amount, and use of funds for purchase of foreign currencies, now covered by section 1724 of this title, and deleted other provisions for use of agencies, organizations, and facilities in making transfers, now covered by section 1722 of this title, and provision for transfer of funds from the CCC to such other Federal agency designated by the President for payment of ocean freight costs or for purchase of foreign currencies under this subchapter.
+<b>1966</b>—Pub. L. 89–808 reenacted, with linguistic changes, existing provisions for payment of costs and charges, included costs of acquisition, packaging, enrichment, preservation, fortification, processing, handling, other incidents, struck out provisions for authorization of appropriations for reimbursement of CCC, limitation on amount, and use of funds for purchase of foreign currencies, now covered by section 1724 of this title, and deleted other provisions for use of agencies,organizations, and facilities in making transfers, now covered by section 1722 of this title, and provision for transfer of funds from the CCC to such other Federal agency designated by the President for payment of ocean freight costs or for purchase of foreign currencies under this subchapter.
 
 <b>1964</b>—Pub. L. 88–638 substituted “1965”; for “1961”, “1966” for “1964”, and “$400,000,000” for “$300,000,000”, inserted “or donated under said section 1431, or section 1431b or 1697 of this title”, provisions authorizing use of funds available under subchapter III, not exceeding $7,500,000 annually, to purchase foreign currencies accruing under subchapter II in order to meet costs designed to assure that commodities available under subchapters I or III are used to carry out more effectively the purposes for which such commodities are made available or to promote activities to alleviate the causes of the need for such assistance, provided that such funds are used to supplement, not substitute for, funds normally available for such purposes from other non-United States Government sources, and “or for the purchase of foreign currencies” after “ocean freight costs”.
 
@@ -88,9 +88,9 @@ Amendment by Pub. L. 89–808 effective Jan. 1, 1967, see section 5 of Pub. L. 8
 
 #### Effective Date of 1964 Amendment
 
-Section 1(13) of Pub. L. 88–638 provided that the substitution of “1965” for “1961”, “1966” for “1964”, and “$400,000,000” for “$300,000,000” are not effective until Jan. 1, 1965.
+Pub. L. 88–638, §1(13), Oct. 8, 1964, 78 Stat. 1037, provided that the substitutions of “1965” for “1961”, “1966” for “1964”, and “$400,000,000” for “$300,000,000” are not effective until Jan. 1, 1965.
 
 #### Effective Date of 1959 Amendment
 
-Section 3 of Pub. L. 86–341 provided that the amendment made by that section is effective Jan. 1, 1960.
+Pub. L. 86–341, title I, §3, Sept. 21, 1959, 73 Stat. 606, provided that the amendment made by section 3 is effective Jan. 1, 1960.
 

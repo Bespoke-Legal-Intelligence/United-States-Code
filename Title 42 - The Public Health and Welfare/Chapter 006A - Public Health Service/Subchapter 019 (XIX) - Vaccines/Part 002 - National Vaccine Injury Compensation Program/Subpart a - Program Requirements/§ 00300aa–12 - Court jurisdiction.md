@@ -8,7 +8,7 @@ The United States Court of Federal Claims and the United States Court of Federal
 
 (1) In all proceedings brought by the filing of a petition under section 300aa–11(b) of this title, the Secretary shall be named as the respondent, shall participate, and shall be represented in accordance with section 518(a) of title 28.
 
-(2) Within 30 days after the Secretary receives service of any petition filed under section 300aa–11 of this title the Secretary shall publish notice of such petition in the Federal Register. The special master designated with respect tosuch petition under subsection (c) of this section shall afford all interested persons an opportunity to submit relevant, written information—
+(2) Within 30 days after the Secretary receives service of any petition filed under section 300aa–11 of this title the Secretary shall publish notice of such petition in the Federal Register. The special master designated with respect to such petition under subsection (c) of this section shall afford all interested persons an opportunity to submit relevant, written information—
 
 &emsp;(A) relating to the existence of the evidence described in section 300aa–13(a)(1)(B) of this title, or
 
@@ -120,11 +120,11 @@ If—
 
 &emsp;(1) a special master fails to make a decision on a petition within the 240 days prescribed by subsection (d)(3)(A)(ii) of this section (excluding (A) any period of suspension under subsection (d)(3)(C) or (d)(3)(D) of this section, and (B) any days the petition is before a special master as a result of a remand under subsection (e)(2)(C) of this section), or
 
-&emsp;(2) the United States Court of Federal Claims fails to enter a judgment under this section on a petition within 420 days (excluding (A) any period of suspension under subsection (d)(3)(C) or (d)(3)(D) of this section, and\(B) any days the petition is before a special master as a result of a remand under subsection (e)(2)(C) of this section) after the date on which the petition was filed,
+&emsp;(2) the United States Court of Federal Claims fails to enter a judgment under this section on a petition within 420 days (excluding (A) any period of suspension under subsection (d)(3)(C) or (d)(3)(D) of this section, and (B) any days the petition is before a special master as a result of a remand under subsection (e)(2)(C) of this section) after the date on which the petition was filed,
 
 > the special master or court shall notify the petitioner under such petition that the petitioner may withdraw the petition under section 300aa–21(b) of this title or the petitioner may choose under section 300aa–21(b) of this title to have the petition remain before the special master or court, as the case may be.
 
-(July 1, 1944, ch. 373, title XXI, §2112, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3761; amended Pub. L. 100–203, title IV, §§4303(d)(2)(A), 4307(3), 4308(a), (b), Dec. 22, 1987, 101 Stat. 1330–222, 1330–224; Pub. L. 100–360, title IV, §411(<i>o</i>)(2), (3)(A), July 1, 1988, 102 Stat. 808; Pub. L. 101–239, title VI, §6601(d)–(i), Dec. 19, 1989, 103 Stat. 2286–2290; Pub. L. 101–502, §5(b), Nov. 3, 1990, 104 Stat. 1286; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 102–168, title II, §201(c), (d)(1), (h)(2), (3), Nov. 26, 1991, 105 Stat. 1103, 1104; Pub. L. 102–572, title IX, §902(b), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–66, title XIII, §13632(c), Aug. 10, 1993, 107 Stat. 646.)
+(July 1, 1944, ch. 373, title XXI, §2112, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3761; amended Pub. L. 100–203, title IV, §§4303(d)(2)(A), 4307(3), 4308(a), (b), Dec. 22, 1987, 101 Stat. 1330–222, 1330–224; Pub. L. 100–360, title IV, §411(o)(2), (3)(A), July 1, 1988, 102 Stat. 808; Pub. L. 101–239, title VI, §6601(d)–(i), Dec. 19, 1989, 103 Stat. 2286–2290; Pub. L. 101–502, §5(b), Nov. 3, 1990, 104 Stat. 1286; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 102–168, title II, §201(c), (d)(1), (h)(2), (3), Nov. 26, 1991, 105 Stat. 1103, 1104; Pub. L. 102–572, title IX, §902(b), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–66, title XIII, §13632(c), Aug. 10, 1993, 107 Stat. 646.)
 
 #### Codification
 
@@ -180,21 +180,21 @@ Subsec. (f). Pub. L. 101–239, §6601(i), inserted “within 60 days of the dat
 
 Pub. L. 101–239, §6601(e)(1), redesignated subsec. (e) as (f).
 
-<b>1988</b>—Subsec. (c)(2). Pub. L. 100–360, §411(<i>o</i>)(3)(A), added Pub. L. 100–203, §4308(a), see 1987 Amendment note below.
+<b>1988</b>—Subsec. (c)(2). Pub. L. 100–360, §411(o)(3)(A), added Pub. L. 100–203, §4308(a), see 1987 Amendment note below.
 
-Subsec. (e). Pub. L. 100–360, §411(<i>o</i>)(2), made technical amendment to directory language of Pub. L. 100–203, §4307(3)(C), see 1987 Amendment note below.
+Subsec. (e). Pub. L. 100–360, §411(o)(2), made technical amendment to directory language of Pub. L. 100–203, §4307(3)(C), see 1987 Amendment note below.
 
-Pub. L. 100–360, §411(<i>o</i>)(3)(A), added Pub. L. 100–203, §4308(b), see 1987 Amendment note below.
+Pub. L. 100–360, §411(o)(3)(A), added Pub. L. 100–203, §4308(b), see 1987 Amendment note below.
 
 <b>1987</b>—Subsec. (a). Pub. L. 100–203, §4307(3)(A), substituted “United States Claims Court” for “district courts of the United States” and “the court” for “the courts”.
 
 Subsec. (c)(1). Pub. L. 100–203, §4307(3)(B), substituted “the United States Claims Court” for “the district court of the United States in which the petition is filed”.
 
-Subsec. (c)(2). Pub. L. 100–203, §4308(a), as added by Pub. L. 100–360, §411(<i>o</i>)(3)(A), inserted “, shall prepare and submit to the court proposed findings of fact and conclusions of law,” in introductory provisions and struck out subpar. (E) which read as follows: “prepare and submit to the court proposed findings of fact and conclusions of law.”
+Subsec. (c)(2). Pub. L. 100–203, §4308(a), as added by Pub. L. 100–360, §411(o)(3)(A), inserted “, shall prepare and submit to the court proposed findings of fact and conclusions of law,” in introductory provisions and struck out subpar. (E) which read as follows: “prepare and submit to the court proposed findings of fact and conclusions of law.”
 
-Subsec. (e). Pub. L. 100–203, §4308(b), as added by Pub. L. 100–360, §411(<i>o</i>)(3)(A), inserted “within 60 days of the date of the judgment” after “petition filed”.
+Subsec. (e). Pub. L. 100–203, §4308(b), as added by Pub. L. 100–360, §411(o)(3)(A), inserted “within 60 days of the date of the judgment” after “petition filed”.
 
-Pub. L. 100–203, §4307(3)(C), as amended by Pub. L. 100–360, §411(<i>o</i>)(2), substituted “the United States Claims Court” for “a district court of the United States” and “for the Federal Circuit” for “for the circuit in which the court is located”.
+Pub. L. 100–203, §4307(3)(C), as amended by Pub. L. 100–360, §411(o)(2), substituted “the United States Claims Court” for “a district court of the United States” and “for the Federal Circuit” for “for the circuit in which the court is located”.
 
 Pub. L. 100–203, §4303(d)(2)(A), redesignated subsec. (g) as (e) and struck out former subsec. (e) relating to administration of an award.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Administrator of the Environmental Protection Agency, in consultation with the Secretary of Transportation, shall issue guidance on how to ensure that airport sponsors receive appropriate emission reduction credits for carrying out projects described in sections 40117(a)(3)(G), 47102(3)(F), 47102(3)(K), and 47102(3)(L). Such guidance shall include, at a minimum, the following conditions:
+In General.—The Administrator of the Environmental Protection Agency, in consultation with the Secretary of Transportation, shall issue guidance on how to ensure that airport sponsors receive appropriate emission reduction credits for carrying out projects described in sections 40117(a)(3)(G), 47102(3)(K), and 47102(3)(L). Such guidance shall include, at a minimum, the following conditions:
 
 &emsp;(1) The provision of credits is consistent with the Clean Air Act (42 U.S.C. 7402 et seq.).
 
@@ -16,7 +16,7 @@ In General.—The Administrator of the Environmental Protection Agency, in consu
 
 (b)
 
-Assurance of Receipt of Credits.—As a condition for making a grant for a project described in section 47102(3)(F), 47102(3)(K), 47102(3)(L), or 47140 or as a condition for granting approval to collect or use a passenger facility fee for a project described in section 40117(a)(3)(G), 47103(3)(F), 47102(3)(K), 47102(3)(L), or 47140, the Secretary must receive assurance from the State in which the project is located, or from the Administrator of the Environmental Protection Agency where there is a Federal implementation plan, that the airport sponsor will receive appropriate emission credits in accordance with the conditions of this section.
+Assurance of Receipt of Credits.—As a condition for making a grant for a project described in section 47102(3)(K), 47102(3)(L), or 47140 or as a condition for granting approval to collect or use a passenger facility charge for a project described in section 40117(a)(3)(G), 47102(3)(K), 47102(3)(L), or 47140, the Secretary must receive assurance from the State in which the project is located, or from the Administrator of the Environmental Protection Agency where there is a Federal implementation plan, that the airport sponsor will receive appropriate emission credits in accordance with the conditions of this section.
 
 (c)
 
@@ -26,11 +26,19 @@ Previously Approved Projects.—The Administrator of the Environmental Protectio
 
 State Authority Under CAA.—Nothing in this section shall be construed as overriding existing State law or regulation pursuant to section 116 of the Clean Air Act (42 U.S.C. 7416).
 
-(Added Pub. L. 108–176, title I, §158(a), Dec. 12, 2003, 117 Stat. 2508.)
+(Added Pub. L. 108–176, title I, §158(a), Dec. 12, 2003, 117 Stat. 2508; amended Pub. L. 112–95, title I, §§111(c)(2)(A)(v), 152(d), Feb. 14, 2012, 126 Stat. 18, 34.)
 
 #### References in Text
 
 The Clean Air Act, referred to in subsec. (a)(1), (2), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
+
+#### Amendments
+
+<b>2012</b>—Subsec. (a). Pub. L. 112–95, §152(d)(1), struck out “47102(3)(F),” after “40117(a)(3)(G),” in introductory provisions.
+
+Subsec. (b). Pub. L. 112–95, §152(d)(2), struck out “47102(3)(F),” after “grant for a project described in section” and “47103(3)(F),” after “40117(a)(3)(G),”.
+
+Pub. L. 112–95, §111(c)(2)(A)(v), substituted “charge” for “fee”.
 
 #### Effective Date
 

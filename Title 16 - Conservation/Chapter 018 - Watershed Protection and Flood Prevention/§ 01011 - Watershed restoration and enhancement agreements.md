@@ -40,7 +40,7 @@ Section was enacted as part of the Department of the Interior and Related Agenci
 
 <b>2003</b>—Subsec. (a). Pub. L. 108–7 inserted “including appropriations for the Wildland Fire Management account allocated to the National Park Service, Fish and Wildlife Service, and Bureau of Indian Affairs” after “appropriations made for the Bureau of Land Management”.
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–277 substituted “with the heads of other Federal agencies, tribal, State, and local governments, private and nonprofit entities, and landowners for the protection, restoration, and enhancement of fish and wildlife habitat and other resources on public or private land and the reduction of risk from natural disaster where public safety is threatened” for “with willing private landowners for restoration and enhancement of fish, wildlife, and other biotic resources on public or private land or both”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–277 substituted “with the heads of other Federal agencies, tribal, State, and local governments, private and nonprofit entities, andlandowners for the protection, restoration, and enhancement of fish and wildlife habitat and other resources on public or private land and the reduction of risk from natural disaster where public safety is threatened” for “with willing private landowners for restoration and enhancement of fish, wildlife, and other biotic resources on public or private land or both”.
 
 #### Watershed Agreements
 

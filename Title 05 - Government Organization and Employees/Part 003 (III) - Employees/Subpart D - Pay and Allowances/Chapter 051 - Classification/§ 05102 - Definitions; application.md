@@ -110,7 +110,7 @@
 
 &emsp;(20) employees employed on a fee, contract, or piece work basis;
 
-&emsp;(21) employees who may lawfully perform their duties concurrently with their privateprofession, business, or other employment, and whose duties require only a portion of their time, when it is impracticable to ascertain or anticipate the proportion of time devoted to the service of the Government of the United States;
+&emsp;(21) employees who may lawfully perform their duties concurrently with their private profession, business, or other employment, and whose duties require only a portion of their time, when it is impracticable to ascertain or anticipate the proportion of time devoted to the service of the Government of the United States;
 
 &emsp;(22) “teachers” and “teaching positions” as defined by section 901 of title 20;
 
@@ -314,7 +314,7 @@ Pub. L. 104–201, §1122(a)(1), substituted “National Imagery and Mapping Age
 
 Subsec. (c)(12). Pub. L. 104–201, §3548(a)(2)(B), struck out par. (12) which read as follows: “any Executive agency to the extent of any election under section 1212(b)(2) (relating to the Panama Canal Employment System) of the Panama Canal Act of 1979;”.
 
-<b>1994</b>—Subsec. (a)(1)(ix) to (xi). Pub. L. 103–359 directed the amendment of cl. (ix) by striking “or” at end whichcould not be executed because par. (1) does not contain a cl. (ix), directed the substitution of “; or” for period at end of cl. (x) which was executed by inserting “or” at end of cl. (x) to reflect the probable intent of Congress because a semicolon already exists at end of cl. (x), and added cl. (xi).
+<b>1994</b>—Subsec. (a)(1)(ix) to (xi). Pub. L. 103–359 directed the amendment of cl. (ix) by striking “or” at end which could not be executed because par. (1) does not contain a cl. (ix), directed the substitution of “; or” for period at end of cl. (x) which was executed by inserting “or” at end of cl. (x) to reflect the probable intent of Congress because a semicolon already exists at end of cl. (x), and added cl. (xi).
 
 Subsec. (c)(3). Pub. L. 103–446 struck out comma after “Department of Veterans Affairs”.
 
@@ -400,7 +400,7 @@ Amendment by section 529 \[title I, §109(a)(2)\] of Pub. L. 101–509 effective
 
 #### Effective Date of 1987 Amendment
 
-Pub. L. 100–135, §3, Oct. 16, 1987, 101 Stat. 812, provided that: “The amendments made by section 1 \[amendingthis section and sections 167 and 167h of Title 2, The Congress\] shall apply with respect to pay periods beginning after September 30, 1987, except that any pay increase for employees of the Library of Congress, pursuant to the amendments made by such section, shall be subject to appropriation and shall be implemented in four approximately equal annual increments, so that pay parity with the Capitol Police occurs beginning with the first pay period beginning after September 30, 1990.”
+Pub. L. 100–135, §3, Oct. 16, 1987, 101 Stat. 812, provided that: “The amendments made by section 1 \[amending this section and sections 167 and 167h of Title 2, The Congress\] shall apply with respect to pay periods beginning after September 30, 1987, except that any pay increase for employees of the Library of Congress, pursuant to the amendments made by such section, shall be subject to appropriation and shall be implemented in four approximately equal annual increments, so that pay parity with the Capitol Police occurs beginning with the first pay period beginning after September 30, 1990.”
 
 #### Effective Date of 1986 Amendment
 
@@ -448,7 +448,7 @@ Pub. L. 90–610, §3, Oct. 21, 1968, 82 Stat. 1201, provided that: “The amend
 
 #### Effective Date of 1967 Amendment
 
-Section 9(h) of Pub. L. 90–83 provided that: “Section 1(3) \[amending section 1305 of this title\], (10) \[amending section 3324 of this title\], (11) \[amending this section\], (12) \[amending section 5108 of this title\], (22) \[enacting section 5534a of this title\], (23) \[amending the analysis for chapter 55 of this title\], (83)(a) and (d) \[amending section 8344 of this title\], (89) \[amending section 8521 of this title\], (98) \[amending section 902 of this title\], (99) \[amending section 903 of this title\], and (100) \[amending section 8113 of this title\] of this Act is effective as of September 6, 1966, for all purposes.”
+Pub. L. 90–83, §9(h), Sept. 11, 1967, 81 Stat. 222, provided that: “Section 1(3) \[amending section 1305 of this title\], (10) \[amending section 3324 of this title\], (11) \[amending this section\], (12) \[amending section 5108 of this title\], (22) \[enacting section 5534a of this title\], (23) \[amending the analysis for chapter 55 of this title\], (83)(a) and (d) \[amending section 8344 of this title\], (89) \[amending section 8521 of this title\], (98) \[amending section 902 of this title\], (99) \[amending section 903 of this title\], and (100) \[amending section 8113 of this title\] of this Act is effective as of September 6, 1966, for all purposes.”
 
 #### Repeals
 
@@ -470,7 +470,7 @@ Virgin Islands Corporation established to have succession until June 30, 1969, u
 
 #### Civilian Members of Faculty of Air Force Institute of Technology on November 8, 1985
 
-Section 504(c) of Pub. L. 99–145 provided that: “Section 9314(b)(2) of title 10, United States Code (as added by subsection (a)(1)(B)), and section 5102(c)(28) of title 5, United States Code (as added by subsection (b)), shall not apply to any person who on the date of the enactment of this Act \[Nov. 8, 1985\]—
+Pub. L. 99–145, title V, §504(c), Nov. 8, 1985, 99 Stat. 622, provided that: “Section 9314(b)(2) of title 10, United States Code (as added by subsection (a)(1)(B)), and section 5102(c)(28) of title 5, United States Code (as added by subsection (b)), shall not apply to any person who on the date of the enactment of this Act \[Nov. 8, 1985\]—
 
 &emsp;“(1) is a civilian member of the faculty of the United States Air Force Institute of Technology;
 

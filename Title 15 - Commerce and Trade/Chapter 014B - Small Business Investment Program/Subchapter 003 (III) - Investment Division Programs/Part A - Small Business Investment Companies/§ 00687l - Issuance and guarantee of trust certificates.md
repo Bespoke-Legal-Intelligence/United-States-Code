@@ -84,9 +84,9 @@ Amendment by section 208 of Pub. L. 104–208 effective Sept. 30, 1996, see sect
 
 Pub. L. 99–272, title XVIII, §18005(b), Apr. 7, 1986, 100 Stat. 365, provided that:
 
-“(1) Notwithstanding any law, rule, or regulation, within 60 days after the date of the enactment of this Act \[Apr. 7, 1986\], the Small Business Administration shall develop and promulgate final rules and regulations to implement the central registration provisions provided for in section 321(f)(1) of the Small Business Investment Act \[15 U.S.C. 687<i>l</i>(f)(1)\], and shall contract with an agent for an initial period of not to exceed two years to carry out the functions provided for in sections 321(f)(2) and 321(f)(3) of such Act.
+“(1) Notwithstanding any law, rule, or regulation, within 60 days after the date of the enactment of this Act \[Apr. 7, 1986\], the Small Business Administration shall develop and promulgate final rules and regulations to implement the central registration provisions provided for in section 321(f)(1) of the Small Business Investment Act \[15 U.S.C. 687l(f)(1)\], and shall contract with an agent for an initial period of not to exceed two years to carry out the functions provided for in sections 321(f)(2) and 321(f)(3) of such Act.
 
-“(2) Notwithstanding any law, rule, or regulation, within 60 days after the date of the enactment of this Act \[Apr. 7, 1986\], the Small Business Administration also shall consult with representatives of appropriate Federal and State agencies and officials, the securities industry, financial institutions and lenders, and small business persons, and shall develop and promulgate final rules and regulations to implement sections 504 and 505 \[section 321; 15 U.S.C. 687<i>l</i>\] of the Small Business Investment Act.”
+“(2) Notwithstanding any law, rule, or regulation, within 60 days after the date of the enactment of this Act \[Apr. 7, 1986\], the Small Business Administration also shall consult with representatives of appropriate Federal and State agencies and officials, the securities industry, financial institutions and lenders, and small business persons, and shall develop and promulgate final rules and regulations to implement sections 504 and 505 \[section 321; 15 U.S.C. 687l\] of the Small Business Investment Act.”
 
 #### Effect of Small Business Equity Enhancement Act of 1992 on Securities Laws
 

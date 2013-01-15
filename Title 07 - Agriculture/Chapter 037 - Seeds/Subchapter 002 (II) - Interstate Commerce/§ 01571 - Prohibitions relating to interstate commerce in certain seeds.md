@@ -24,7 +24,7 @@ It shall be unlawful for any person to transport or deliver for transportation i
 
 &emsp;(10) The year and month beyond which an inoculant, if shown in the labeling, is no longer claimed to be effective.
 
-(b) Any vegetable seeds, for seeding purposes, in containers, unless each container bears alabel giving the following information in accordance with rules and regulations prescribed under section 1592 of this title:
+(b) Any vegetable seeds, for seeding purposes, in containers, unless each container bears a label giving the following information in accordance with rules and regulations prescribed under section 1592 of this title:
 
 &emsp;(1) For containers of one pound or less of seed that germinates equal to or above the standard last established by the Secretary of Agriculture, as provided under section 1593(c) of this title—
 
@@ -86,7 +86,7 @@ It shall be unlawful for any person to transport or deliver for transportation i
 
 (g) Seed which is a mixture of seeds which are required to be stained or which are stained with different colors under the provisions of this chapter and of the regulations made and promulgated thereunder, or which is a mixture of any seed required to be stained under the provisions of this chapter and of the regulations made and promulgated thereunder, with seed of the same kind produced in the United States.
 
-(h) Screenings of any seed subject to this chapter, unless they are not intended for seeding purposes; and it is stated on the label, if in containers, or on the invoice if in bulk, that theyare intended for cleaning, processing, or manufacturing purposes, and not for seeding purposes.
+(h) Screenings of any seed subject to this chapter, unless they are not intended for seeding purposes; and it is stated on the label, if in containers, or on the invoice if in bulk, that they are intended for cleaning, processing, or manufacturing purposes, and not for seeding purposes.
 
 (i) Any agricultural seeds or any mixture thereof or any vegetable seeds or any mixture thereof, for seeding purposes, that have been treated, unless each container thereof bears a label giving the following information and statements in accordance with rules and regulations prescribed under section 1592 of this title:
 

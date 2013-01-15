@@ -6,7 +6,7 @@ The President is authorized to accept membership for the Government of the Unite
 
 #### Acceptance of Constitution by United States
 
-Section 1 of act June 30, 1948, ch. 756, 62 Stat. 1151, provided: “That the President is hereby authorized to accept for the Government of the United States of America the Constitution of the International Labor Organization Instrument of Amendment adopted by the Twenty-ninth Session of the International Labor Conference on October 9, 1946.”
+Act June 30, 1948, ch. 756, §1, 62 Stat. 1151, provided: “That the President is hereby authorized to accept for the Government of the United States of America the Constitution of the International Labor Organization Instrument of Amendment adopted by the Twenty-ninth Session of the International Labor Conference on October 9, 1946.”
 
 #### Acceptance of Constitutional Amendment by United States
 
@@ -56,7 +56,7 @@ Funding and Expenses
 
 1–301. Each member of the Committee who is not otherwise employed full-time by the Federal government may receive, to the extent permitted by law, compensation for each day he is engaged in the work of the Committee at a rate not to exceed the maximum daily rate now or hereafter prescribed by law, and may also receive transportation and travel expenses, including per diem in lieu of subsistence, as authorized by law (5 U.S.C. 5702 and 5703).
 
-1–302. The Chairman of the Committee is authorized to establish such additional advisory committees as may be deemed appropriate to carry out the purposes of this Order.
+1–302. The Chairman of the Committee is authorized to establish such additional advisory committees asmay be deemed appropriate to carry out the purposes of this Order.
 
 1–303. All necessary administrative staff services, support, facilities and expenses of the Committee shall be furnished by the Department of Labor to the extent permitted by law.
 

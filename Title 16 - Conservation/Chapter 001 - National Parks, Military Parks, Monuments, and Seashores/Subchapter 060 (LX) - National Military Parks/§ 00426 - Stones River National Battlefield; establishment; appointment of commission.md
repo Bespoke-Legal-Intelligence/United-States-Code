@@ -12,7 +12,7 @@ A commission is created, to be composed of the following members, who shall be a
 
 #### Change of Name
 
-Stones River National Military Park redesignated Stones River National Battlefield by Pub. L. 86–443. See section 426<i>l</i> of this title.
+Stones River National Military Park redesignated Stones River National Battlefield by Pub. L. 86–443. See section 426l of this title.
 
 #### Transfer of Functions
 

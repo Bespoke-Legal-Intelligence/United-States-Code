@@ -20,9 +20,15 @@ In carrying out this section, the Secretary shall consult with the Secretary of 
 
 #### (d) Funding
 
-Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section $1,000,000 for each of fiscal years 2008 through 2012.
+#### (1) Fiscal years 2009 through 2012
 
-(Pub. L. 107–171, title IX, §9006, as added Pub. L. 110–234, title IX, §9001(a), May 22, 2008, 122 Stat. 1315, and Pub. L. 110–246, §4(a), title IX, §9001(a), June 18, 2008, 122 Stat. 1664, 2076.)
+&emsp;Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section $1,000,000 for each of fiscal years 2008 through 2012.
+
+#### (2) Authorization of appropriations
+
+&emsp;There is authorized to be appropriated to carry out this section $1,000,000 for fiscal year 2013.
+
+(Pub. L. 107–171, title IX, §9006, as added Pub. L. 110–234, title IX, §9001(a), May 22, 2008, 122 Stat. 1315, and Pub. L. 110–246, §4(a), title IX, §9001(a), June 18, 2008, 122 Stat. 1664, 2076; amended Pub. L. 112–240, title VII, §701(f)(5), Jan. 2, 2013, 126 Stat. 2365.)
 
 #### Codification
 
@@ -31,4 +37,12 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 #### Prior Provisions
 
 A prior section 8106, Pub. L. 107–171, title IX, §9006, May 13, 2002, 116 Stat. 482; Pub. L. 109–171, title I, §1301, Feb. 8, 2006, 120 Stat. 6, related to assistance to farmers, ranchers, and rural small businesses to purchase renewable energy systems and make energy efficiency improvements, prior to the general amendment of this chapter by Pub. L. 110–246. See section 8107 of this title.
+
+#### Amendments
+
+<b>2013</b>—Subsec. (d). Pub. L. 112–240 added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section $1,000,000 for each of fiscal years 2008 through 2012.”
+
+#### Effective Date of 2013 Amendment
+
+Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under section 8701 of this title.
 

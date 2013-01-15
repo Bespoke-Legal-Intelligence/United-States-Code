@@ -10,7 +10,7 @@ Qualified aliens under this subsection shall be eligible for any State public be
 
 #### (1) Time-limited exception for refugees and asylees
 
-&emsp;(A) An alien who is admitted to the United States as a refugee under section 207 of the Immigration and Nationality Act \[8 U.S.C. 1157\] until 5 years after the date of an alien's entry into the United States.
+&emsp;(A) An alien who is admitted to the United States as a refugee under section 207 of the Immigration and Nationality Act \[8 U.S.C. 1157\]until 5 years after the date of an alien's entry into the United States.
 
 &emsp;(B) An alien who is granted asylum under section 208 of such Act \[8 U.S.C. 1158\] until 5 years after the date of such grant of asylum.
 

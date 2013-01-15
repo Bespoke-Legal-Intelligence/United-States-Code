@@ -14,7 +14,7 @@ It is the sense of the Congress that the following, which are based in part on t
 
 &emsp;(6) The United States should recognize certificates issued by the Hong Kong to United States air carriers for air service involving travel to, from, or through Hong Kong which does not involve travel to, from, or through other parts of the People's Republic of China.
 
-&emsp;(7) The United States should negotiate at the appropriate time directly with the Hong Kong Special Administrative Region, acting under authorization from the Government of the People's Republic of China, to renew or amend all air service agreements existing on June 30, 1997, and to conclude new air service agreements affecting all flights to, from, or through the Hong Kong Special Administrative Region which do not involve travel to, from, or through other parts of the People's Republic of China.
+&emsp;(7) The United States should negotiate at the appropriate time directly with the HongKong Special Administrative Region, acting under authorization from the Government of the People's Republic of China, to renew or amend all air service agreements existing on June 30, 1997, and to conclude new air service agreements affecting all flights to, from, or through the Hong Kong Special Administrative Region which do not involve travel to, from, or through other parts of the People's Republic of China.
 
 &emsp;(8) The United States should make every effort to ensure that the negotiations described in paragraph (7) lead to procompetitive air service agreements.
 

@@ -14,7 +14,7 @@ Disclosure of information under this section shall be permitted only upon writte
 
 (2) Information disclosed to any person under this section may be provided in the form of written documents or reproductions of such documents, or by any other mode or means which the Secretary determines necessary or appropriate. A reasonable fee may be prescribed for furnishing such information.
 
-(3) Any reproduction of any document or other matter made in accordance with this subsection shall have the same legal status as the original, and any such reproduction shall, if properly authenticated, be admissible in evidence in any judicial or administrative proceeding as if it were the original, whether or not the original is in existence.
+(3) Any reproduction of any document or other matter made in accordance with this subsectionshall have the same legal status as the original, and any such reproduction shall, if properly authenticated, be admissible in evidence in any judicial or administrative proceeding as if it were the original, whether or not the original is in existence.
 
 #### (d) Confidentiality of disclosed information
 

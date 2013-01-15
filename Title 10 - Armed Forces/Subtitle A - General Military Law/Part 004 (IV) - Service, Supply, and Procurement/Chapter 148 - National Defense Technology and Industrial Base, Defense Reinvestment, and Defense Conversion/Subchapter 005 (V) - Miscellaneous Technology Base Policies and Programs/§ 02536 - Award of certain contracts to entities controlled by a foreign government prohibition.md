@@ -60,7 +60,7 @@ Definitions.—In this section:
 
 Waiver Authority.—The Secretary concerned may waive the application of subsection (a) to a contract award if the Secretary concerned determines that the waiver is essential to the national security interests of the United States.”
 
-<b>1993</b>—Pub. L. 103–160, §842(c)(1), substituted “Award of certain contracts to entities controlled by a foreign government: prohibition” for “Prohibition on award ofcertain Department of Defense and Department of Energy contracts to companies owned by an entity controlled by a foreign government.” as section catchline.
+<b>1993</b>—Pub. L. 103–160, §842(c)(1), substituted “Award of certain contracts to entities controlled by a foreign government: prohibition” for “Prohibition on award of certain Department of Defense and Department of Energy contracts to companies owned by an entity controlled by a foreign government.” as section catchline.
 
 Pub. L. 103–35 struck out period at end of section catchline.
 
@@ -70,5 +70,5 @@ Subsec. (c)(1). Pub. L. 103–160, §842(b), inserted at end “Such term does n
 
 #### Effective Date of 1992 Amendment
 
-Section 836(b) of Pub. L. 102–484 provided that: “Section 2536 of title 10, United States Code, as added by subsection (a), shall apply with respect to contracts entered into after the expiration of the 90-day period beginning on the date of the enactment of this Act \[Oct. 23, 1992\].”
+Pub. L. 102–484, div. A, title VIII, §836(b), Oct. 23, 1992, 106 Stat. 2463, provided that: “Section 2536 of title 10, United States Code, as added by subsection (a), shall apply with respect to contracts entered into after the expiration of the 90-day period beginning on the date of the enactment of this Act \[Oct. 23, 1992\].”
 

@@ -52,7 +52,7 @@ Amendment by Pub. L. 100–182 applicable with respect to offenses committed aft
 
 #### Effective Date of 1986 Amendment
 
-Section 10(b) of Pub. L. 99–646 provided that: “The amendment made by this section \[amending this section\] shall take effect on the date of the taking effect of such section 3561(a) \[Nov. 1, 1987\].”
+Pub. L. 99–646, §10(b), Nov. 10, 1986, 100 Stat. 3593, provided that: “The amendment made by this section \[amending this section\] shall take effect on the date of the taking effect of such section 3561(a) \[Nov. 1, 1987\].”
 
 #### Effective Date
 

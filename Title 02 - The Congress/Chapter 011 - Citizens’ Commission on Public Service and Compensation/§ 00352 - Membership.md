@@ -48,7 +48,7 @@
 
 #### References in Text
 
-The Federal Regulation of Lobbying Act, referred to in par. (2)(B), is title III of act Aug. 2, 1946, ch. 753, 60 Stat. 839, which was classified generally to chapter 8A (§261 et seq.) of this title, prior to repeal by Pub. L. 104–65, §11(a), Dec. 19, 1995, 109 Stat. 701. For complete classification of this Act to the Code, see Tables.
+The Federal Regulation of Lobbying Act, referred to in par. (2)(B), is title III of act Aug. 2, 1946, ch. 753, 60Stat. 839, which was classified generally to chapter 8A (§261 et seq.) of this title, prior to repeal by Pub. L. 104–65, §11(a), Dec. 19, 1995, 109 Stat. 701. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 

@@ -50,7 +50,7 @@ Protection of Classified and Sensitive Information.—The Secretary of Defense m
 
 &emsp;&emsp;(C) other utilities; or
 
-&emsp;(3) any personal or financial information about any individual private citizen, including information relating to such person's realproperty however described, without the prior consent of the individual.
+&emsp;(3) any personal or financial information about any individual private citizen, including information relating to such person's real property however described, without the prior consent of the individual.
 
 (g)
 

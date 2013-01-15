@@ -18,7 +18,7 @@ In this Act:
 
 &emsp;The term “State” means each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, and each outlying area.
 
-(Pub. L. 106–25, §3, Apr. 29, 1999, 113 Stat. 42; Pub. L. 107–110, title X, §1076(<i>o</i>), Jan. 8, 2002, 115 Stat. 2092.)
+(Pub. L. 106–25, §3, Apr. 29, 1999, 113 Stat. 42; Pub. L. 107–110, title X, §1076(o), Jan. 8, 2002, 115 Stat. 2092.)
 
 #### References in Text
 

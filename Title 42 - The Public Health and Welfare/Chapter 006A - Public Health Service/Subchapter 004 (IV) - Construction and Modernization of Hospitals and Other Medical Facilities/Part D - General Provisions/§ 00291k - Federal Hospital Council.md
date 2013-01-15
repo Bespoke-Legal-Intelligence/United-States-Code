@@ -36,7 +36,7 @@ Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, e
 
 #### Terms of Federal Hospital Council Members
 
-Section 3(b)(3) of Pub. L. 88–443 providing that the terms of members serving on the Council prior to Aug. 18, 1964, shall expire on the date they would have expired had Pub. L. 88–443 not been enacted, is set out as an Effective Date note under section 291 of this title.
+Pub. L. 88–443, §3(b)(3), Aug. 18, 1964, 78 Stat. 462, providing that the terms of members serving on the Council prior to Aug. 18, 1964, shall expire on the date they would have expired had Pub. L. 88–443 not been enacted, is set out as an Effective Date note under section 291 of this title.
 
 #### Termination of Advisory Committees
 

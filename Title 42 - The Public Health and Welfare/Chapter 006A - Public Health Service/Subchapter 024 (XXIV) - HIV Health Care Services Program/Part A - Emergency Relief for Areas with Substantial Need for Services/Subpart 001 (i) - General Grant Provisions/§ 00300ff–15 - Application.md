@@ -172,7 +172,7 @@ Subsec. (a)(1)(B). Pub. L. 104–146, §3(b)(5)(A)(ii), substituted “preceding
 
 Subsec. (a)(6). Pub. L. 104–146, §3(b)(5)(A)(iii)–(v), added par. (6).
 
-Subsec. (b). Pub. L. 104–146, §3(b)(5)(B), substituted “Application” for “Additional application” in heading and substituted “application, in accordance with subsection (c) of this section regarding a single application and grant award,” for “additional application” in introductory provisions.
+Subsec. (b). Pub. L. 104–146, §3(b)(5)(B), substituted “Application” for “Additional application” in headingand substituted “application, in accordance with subsection (c) of this section regarding a single application and grant award,” for “additional application” in introductory provisions.
 
 Subsec. (c). Pub. L. 104–146, §3(b)(5)(D), added subsec. (c). Former subsec. (c) redesignated (d).
 

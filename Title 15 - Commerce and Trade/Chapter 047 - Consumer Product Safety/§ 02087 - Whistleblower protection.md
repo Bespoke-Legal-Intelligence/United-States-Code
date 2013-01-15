@@ -2,7 +2,7 @@
 
 (a) No manufacturer, private labeler, distributor, or retailer,<sup>1</sup> may discharge an employee or otherwise discriminate against an employee with respect to compensation, terms, conditions, or privileges of employment because the employee, whether at the employee's initiative or in the ordinary course of the employee's duties (or any person acting pursuant to a request of the employee)—
 
-&emsp;(1) provided, caused to be provided, or is about to provide or cause to be provided to the employer, the Federal Government, or the attorney general of a State information relating to any violation of, or any act or omission the employee reasonably believes to be a violation of any provision of this chapter or any other Act enforced by the Commission, or any order, rule, regulation, standard, or ban under any such Acts;
+&emsp;(1) provided, caused to be provided, or is about to provide or cause to be provided to theemployer, the Federal Government, or the attorney general of a State information relating to any violation of, or any act or omission the employee reasonably believes to be a violation of any provision of this chapter or any other Act enforced by the Commission, or any order, rule, regulation, standard, or ban under any such Acts;
 
 &emsp;(2) testified or is about to testify in a proceeding concerning such violation;
 
@@ -24,7 +24,7 @@
 
 (3)(A) Not later than 120 days after the date of conclusion of any hearing under paragraph (2), the Secretary shall issue a final order providing the relief prescribed by this paragraph or denying the complaint. At any time before issuance of a final order, a proceeding under this subsection may be terminated on the basis of a settlement agreement entered into by the Secretary, the complainant, and the person alleged to have committed the violation.
 
-(B) If, in response to a complaint filed under paragraph (1), the Secretary determines that aviolation of subsection (a) has occurred, the Secretary shall order the person who committed such violation—
+(B) If, in response to a complaint filed under paragraph (1), the Secretary determines that a violation of subsection (a) has occurred, the Secretary shall order the person who committed such violation—
 
 &emsp;(i) to take affirmative action to abate the violation;
 

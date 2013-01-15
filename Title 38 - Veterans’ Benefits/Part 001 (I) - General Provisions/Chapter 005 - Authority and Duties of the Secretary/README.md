@@ -14,6 +14,7 @@
 | [513\.](Subchapter%20001%20%28I%29%20-%20General%20Authorities/%C2%A7%2000513%20-%20Contracts%20and%20personal%20services.md) | Contracts and personal services. |
 | [515\.](Subchapter%20001%20%28I%29%20-%20General%20Authorities/%C2%A7%2000515%20-%20Administrative%20settlement%20of%20tort%20claims.md) | Administrative settlement of tort claims. |
 | [516\.](Subchapter%20001%20%28I%29%20-%20General%20Authorities/%C2%A7%2000516%20-%20Equal%20employment%20responsibilities.md) | Equal employment responsibilities. |
+| [517\.](Subchapter%20001%20%28I%29%20-%20General%20Authorities/%C2%A7%2000517%20-%20Quarterly%20reports%20to%20Congress%20on%20conferences%20sponsored%20by%20the%20Department.md) | Quarterly reports to Congress on conferences sponsored by the Department. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -30,7 +31,7 @@
 | [529\.](Subchapter%20002%20%28II%29%20-%20Specified%20Functions/%C2%A7%2000529%20-%20Annual%20report%20to%20Congress.md) | Annual report to Congress. |
 | [530\.](Subchapter%20002%20%28II%29%20-%20Specified%20Functions/%C2%A7%2000530%20-%20Annual%20report%20on%20program%20and%20expenditures%20for%20domestic%20response%20to%20weapons%20of%20mass%20destruction.md) | Annual report on program and expenditures for domestic response to weapons of mass destruction. |
 | [531\.](Subchapter%20002%20%28II%29%20-%20Specified%20Functions/%C2%A7%2000531%20-%20Requirement%20relating%20to%20naming%20of%20Department%20property.md) | Requirement relating to naming of Department property. |
-| [532\.](Subchapter%20002%20%28II%29%20-%20Specified%20Functions/%C2%A7%2000532%20-%20Authority%20to%20advertise%20in%20national%20media.md) | Authority to advertise in national media. |
+| [532\.](Subchapter%20002%20%28II%29%20-%20Specified%20Functions/%C2%A7%2000532%20-%20Authority%20to%20advertise%20in%20national%20media%3B%20VetStar%20Award%20Program.md) | Authority to advertise in national media; VetStar Award Program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -48,6 +49,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2012</b>—Pub. L. 112–154, title VII, §§707(b), 709(b)(2), Aug. 6, 2012, 126 Stat. 1207, 1208, added item 517 and substituted “Authority to advertise in national media; VetStar Award Program” for “Authority to advertise in national media” in item 532.
 
 <b>2008</b>—Pub. L. 110–389, title II, §214(b), title VII, §702(b), title VIII, §809(b), Oct. 10, 2008, 122 Stat. 4154, 4183, 4190, added items 521A, 532, and 546.
 

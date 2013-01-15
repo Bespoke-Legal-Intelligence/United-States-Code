@@ -12,7 +12,7 @@ Thence along the said highway right-of-way south 82 degrees 09 minutes west, 317
 
 Thence with the park boundary the following courses and distances: south 86 degrees 39 minutes west, 261.44 feet; thence south 81 degrees 26 minutes west, 147.66 feet; thence north 6 degrees 55 minutes west, 49.23 feet; thence south 83 degrees 04 minutes west, 980 feet; thence north 6 degrees 55 minutes west, 135 feet, more or less, to a point in the middle of Little Yellow Creek;
 
-Thence leaving the park boundary and up the center of the meanders of Little Yellow Creek, 2,562 feet, more or less, to a point in the middleof Little Yellow Creek which is also a point in the middle of Davis Branch;
+Thence leaving the park boundary and up the center of the meanders of Little Yellow Creek, 2,562 feet, more or less, to a point in the middle of Little Yellow Creek which is also a point in the middle of Davis Branch;
 
 Thence leaving Little Yellow Creek and along the center of Davis Branch, 400 feet, more or less, to the south margin of Avondale Avenue; thence with the south right-of-way of Avondale Avenue south 55 degrees 44 minutes east, 5 feet, more or less, to the point of beginning, said tract containing 9.0 acres, more or less.
 

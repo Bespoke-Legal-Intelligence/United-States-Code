@@ -18,7 +18,7 @@
 
 #### (2) Excluded individuals
 
-&emsp;No individual who has been excluded from participation in any Federal health care program or whose State license is under suspension shall be eligible to receive payment or reimbursement under any such program forhealth care services furnished by that individual, directly or through an entity that is otherwise eligible to receive payment for health care services, to an Indian.
+&emsp;No individual who has been excluded from participation in any Federal health care program or whose State license is under suspension shall be eligible to receive payment or reimbursement under any such program for health care services furnished by that individual, directly or through an entity that is otherwise eligible to receive payment for health care services, to an Indian.
 
 #### (3) Federal health care program defined
 

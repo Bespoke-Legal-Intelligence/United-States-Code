@@ -16,7 +16,7 @@ Within one year after October 11, 1974, the Secretary shall submit, in writing, 
 
 #### (c) Completion of land acquisition program; time
 
-It is the express intent of the Congress that the Secretary should substantially complete theland acquisition program contemplated by sections 698 to 698e of this title within six years after October 11, 1974.
+It is the express intent of the Congress that the Secretary should substantially complete the land acquisition program contemplated by sections 698 to 698e of this title within six years after October 11, 1974.
 
 (Pub. L. 93–439, §2, Oct. 11, 1974, 88 Stat. 1256.)
 

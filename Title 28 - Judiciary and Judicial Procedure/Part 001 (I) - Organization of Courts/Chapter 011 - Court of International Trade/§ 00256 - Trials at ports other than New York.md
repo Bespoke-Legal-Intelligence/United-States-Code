@@ -16,7 +16,7 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 #### Effective Date
 
-Section 122 of title I of Pub. L. 91–271 provided that:
+Pub. L. 91–271, title I, §122, June 2, 1970, 84 Stat. 281, provided that:
 
 “(a) This title \[see Short Title of 1970 Amendment note set out under section 1 of this title\] shall become effective on October 1, 1970, and shall thereafter apply to all actions and proceedings in the Customs Court and the Court of Customs and Patent Appeals except those involving merchandise entered before the effective date for which trial has commenced by such effective date.
 

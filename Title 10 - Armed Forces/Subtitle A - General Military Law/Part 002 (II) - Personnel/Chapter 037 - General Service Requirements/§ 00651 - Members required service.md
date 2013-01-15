@@ -10,7 +10,7 @@
 
 &emsp;(A) two years; or
 
-&emsp;(B) in the case of an officer who has accepted an accession bonus or executed a contract oragreement for the multiyear receipt of special pay for service in the armed forces, the period of obligated service specified in such contract or agreement.
+&emsp;(B) in the case of an officer who has accepted an accession bonus or executed a contract or agreement for the multiyear receipt of special pay for service in the armed forces, the period of obligated service specified in such contract or agreement.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 27; Pub. L. 85–861, §§1(12), 36B(3), Sept. 2, 1958, 72 Stat. 1440, 1570; Pub. L. 89–718, §5, Nov. 2, 1966, 80 Stat. 1115; Pub. L. 95–79, title VIII, §803(a), July 30, 1977, 91 Stat. 333; Pub. L. 96–107, title VIII, §805(b), Nov. 9, 1979, 93 Stat. 813; Pub. L. 96–513, title V, §511(18), Dec. 12, 1980, 94 Stat. 2921; Pub. L. 98–94, title X, §1022(b)(1), Sept. 24, 1983, 97 Stat. 670; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 110–181, div. A, title V, §505, Jan. 28, 2008, 122 Stat. 96.)
 
@@ -104,7 +104,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 #### Effective Date of 1983 Amendment
 
-Section 1022(b)(2) of Pub. L. 98–94 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply only with respect to persons who enter the Armed Forces 60 or more days after the date of the enactment of this Act \[Sept. 24, 1983\].”
+Pub. L. 98–94, title X, §1022(b)(2), Sept. 24, 1983, 97 Stat. 671, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply only with respect to persons who enter the Armed Forces 60 or more days after the date of the enactment of this Act \[Sept. 24, 1983\].”
 
 #### Effective Date of 1980 Amendment
 
@@ -116,5 +116,5 @@ Amendment by Pub. L. 96–107 applicable to individuals who become members of an
 
 #### Effective Date of 1977 Amendment
 
-Section 803(b) of Pub. L. 95–79 provided that: “The amendments made by subsection (a) \[amending thissection\] shall take effect on the first day of the seventh calendar month beginning after the month in which this Act is enacted \[July 1977\] and shall apply to any female person who becomes a member of an Armed Force on or after such day.”
+Pub. L. 95–79, title VIII, §803(b), July 30, 1977, 91 Stat. 333, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the first day of the seventh calendar month beginning after the month in which this Act is enacted \[July 1977\] and shall apply to any female person who becomes a member of an Armed Force on or after such day.”
 

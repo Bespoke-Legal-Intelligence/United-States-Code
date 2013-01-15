@@ -24,7 +24,7 @@ Congress hereby consents to the Northeast Interstate Dairy Compact entered into 
 
 #### (6) Milk marketing order Administrator
 
-&emsp;At the request of the Northeast Interstate Dairy Compact Commission, the Administrator of the applicable Federal milk marketing order issued under section 608c(5) <sup>2</sup> of this title shall provide technical assistance to theCompact Commission and be compensated for that assistance.
+&emsp;At the request of the Northeast Interstate Dairy Compact Commission, the Administrator of the applicable Federal milk marketing order issued under section 608c(5) <sup>2</sup> of this title shall provide technical assistance to the Compact Commission and be compensated for that assistance.
 
 #### (7) Further conditions
 

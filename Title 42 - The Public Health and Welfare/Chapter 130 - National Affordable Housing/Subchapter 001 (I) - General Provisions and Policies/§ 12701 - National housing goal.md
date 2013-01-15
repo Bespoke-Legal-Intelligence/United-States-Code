@@ -14,11 +14,11 @@ Pub. L. 106–569, title I, §101, Dec. 27, 2000, 114 Stat. 2946, provided that:
 
 #### Short Title
 
-Section 1(a) of Pub. L. 101–625 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Cranston-Gonzalez National Affordable Housing Act’.”
+Pub. L. 101–625, §1(a), Nov. 28, 1990, 104 Stat. 4079, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Cranston-Gonzalez National Affordable Housing Act’.”
 
-Section 201 of title II of Pub. L. 101–625 provided that: “This title \[enacting subchapter II of this chapter, amending section 1437f of this title, and repealing sections 1437<i>o</i> and 1452b of this title, section 1706e of Title 12, Banks and Banking, and provisions set out as a note under section 1715<i>l</i> of Title 12\] may be cited as the ‘HOME Investment Partnerships Act’.”
+Pub. L. 101–625, title II, §201, Nov. 28, 1990, 104 Stat. 4094, provided that: “This title \[enacting subchapter II of this chapter, amending section 1437f of this title, and repealing sections 1437o and 1452b of this title, section 1706e of Title 12, Banks and Banking, and provisions set out as a note under section 1715l of Title 12\] may be cited as the ‘HOME Investment Partnerships Act’.”
 
-Section 301 of Pub. L. 101–625 provided that: “This subtitle \[subtitle A (§§301–310) of title III of Pub. L. 101–625, enacting subchapter III of this chapter\] may be cited as the ‘National Homeownership Trust Act’.”
+Pub. L. 101–625, title III, §301, Nov. 28, 1990, 104 Stat. 4129, provided that: “This subtitle \[subtitle A (§§301–310) of title III of Pub. L. 101–625, enacting subchapter III of this chapter\] may be cited as the ‘National Homeownership Trust Act’.”
 
 #### Millennial Housing Commission
 
@@ -154,7 +154,7 @@ Pub. L. 106–74, title V, §525, Oct. 20, 1999, 113 Stat. 1106, as amended by P
 
 “(a)
 
-Establishment.—There is hereby established a commission to be known as the Commission on Affordable Housing and Health Facility Needs for Seniors in the 21st Century (in this section referred to as the ‘Commission’.
+Establishment.—There is hereby established a commission to be known as the Commission on Affordable Housing and Health Facility Needs for Seniors in the 21st Century (in this section referred to as the ‘Commission’\[)\].
 
 “(b)
 

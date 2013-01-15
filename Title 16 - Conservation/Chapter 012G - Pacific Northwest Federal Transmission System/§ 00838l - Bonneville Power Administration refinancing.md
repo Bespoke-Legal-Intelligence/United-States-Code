@@ -40,7 +40,7 @@ For the purposes of this section—
 
 &emsp;&emsp;(A) the present value of the old payment amounts for the old capital investment, calculated using a discount rate equal to the Treasury rate for the old capital investment; and
 
-&emsp;&emsp;(B) an amount equal to $100,000,000 multiplied by a fraction whose numerator is the principal amount of the old paymentamounts for the old capital investment and whose denominator is the sum of the principal amounts of the old payment amounts for all old capital investments.
+&emsp;&emsp;(B) an amount equal to $100,000,000 multiplied by a fraction whose numerator is the principal amount of the old payment amounts for the old capital investment and whose denominator is the sum of the principal amounts of the old payment amounts for all old capital investments.
 
 #### (2) Determination
 
@@ -130,7 +130,7 @@ In each contract of the Administrator that provides for the Administrator to sel
 
 #### (1) Repayment
 
-&emsp;This section does not affect the obligation of the Administrator to repay the principal associated with each capital investment, and to pay interest on the principal, only from the “Administrator's net proceeds,” as defined in section 838k(b) of this title.
+&emsp;This section does not affect the obligation of the Administrator to repay the principal associated with each capital investment, and topay interest on the principal, only from the “Administrator's net proceeds,” as defined in section 838k(b) of this title.
 
 #### (2) Payment of capital investment
 

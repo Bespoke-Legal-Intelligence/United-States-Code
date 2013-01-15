@@ -34,7 +34,7 @@
 
 #### Authority of Secretary of Defense
 
-Section 2822(c) of Pub. L. 104–106 provided that:
+Pub. L. 104–106, div. B, title XXVIII, §2822(c), Feb. 10, 1996, 110 Stat. 557, provided that:
 
 “(1)
 

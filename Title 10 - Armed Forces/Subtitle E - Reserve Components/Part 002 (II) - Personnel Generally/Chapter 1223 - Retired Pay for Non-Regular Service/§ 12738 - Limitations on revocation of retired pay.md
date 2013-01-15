@@ -2,7 +2,7 @@
 
 (a) After a person is granted retired pay under this chapter, or is notified in accordance with section 12731(d) of this title that the person has completed the years of service required for eligibility for retired pay under this chapter, the person's eligibility for retired pay may not be denied or revoked on the basis of any error, miscalculation, misinformation, or administrative determination of years of service performed as required by section 12731(a)(2) of this title, unless it resulted directly from the fraud or misrepresentation of the person.
 
-(b) The number of years of creditable service upon which retired pay is computed may be adjusted to correct any error, miscalculation, misinformation, or administrative determination and when such a correction is made the person is entitled to retired pay in accordance with the number of years of creditable service, as corrected, from the date the person is granted retired pay.
+(b) The number of years of creditable service upon which retired pay is computed may be adjusted to correct any error, miscalculation, misinformation, or administrative determination and when such a correction is made the person is entitled to retired pay in accordance with thenumber of years of creditable service, as corrected, from the date the person is granted retired pay.
 
 (Added Pub. L. 89–652, §2(1), Oct. 14, 1966, 80 Stat. 902, §1406; renumbered §1338 and amended Pub. L. 99–348, title I, §104(a), July 1, 1986, 100 Stat. 686; renumbered §12738 and amended Pub. L. 103–337, div. A, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 2998, 3003.)
 
@@ -18,7 +18,7 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 #### Entitlement to Retirement Pay After October 14, 1966; Conclusiveness
 
-Section 3 of Pub. L. 89–652 provided that: “Notwithstanding section 1406 \[now 12738\] of title 10, United States Code, as added by this Act—
+Pub. L. 89–652, §3, Oct. 14, 1966, 80 Stat. 902, provided that: “Notwithstanding section 1406 \[now 12738\] of title 10, United States Code, as added by this Act—
 
 &emsp;“(1) the granting of retired pay to a person under chapter 67 \[now 1223\] of that title is conclusive as to that person's entitlement to such pay only if the payment of that retired pay is begun after the effective date of this Act \[Oct. 14, 1966\]; and
 

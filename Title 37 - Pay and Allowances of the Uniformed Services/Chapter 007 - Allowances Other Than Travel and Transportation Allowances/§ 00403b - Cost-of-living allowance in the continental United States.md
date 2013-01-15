@@ -114,7 +114,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Conditions on Provision of Allowance
 
-Section 602(b) of Pub. L. 103–337 provided that:
+Pub. L. 103–337, div. A, title VI, §602(b), Oct. 5, 1994, 108 Stat. 2781, provided that:
 
 “(1) A cost-of-living allowance under section 403b of title 37, United States Code, as added by subsection (a), may not be provided until after the end of the 90-day period beginning on the date the Secretary of Defense submits the report required under paragraph (2).
 

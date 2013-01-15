@@ -1,6 +1,6 @@
 ### §47. Vice commandant; <sup>1</sup> appointment
 
-The President may appoint, by and with the advice and consent of the Senate, one Vice Commandant who shall rank next after the Commandant, shall perform such duties as the Commandant may prescribe and shall act as Commandant during the absence or disability of theCommandant or in the event that there is a vacancy in the office of Commandant. The Vice Commandant shall be selected from the officers on the active duty promotion list serving above the grade of captain. The Commandant shall make recommendation for such appointment. The Vice Commandant shall, while so serving, have the grade of vice admiral with pay and allowances of that grade. The appointment and grade of a Vice Commandant shall be effective on the date the officer assumes that duty, and shall terminate on the date the officer is detached from that duty, except as provided in section 51(d) of this title.
+The President may appoint, by and with the advice and consent of the Senate, one Vice Commandant who shall rank next after the Commandant, shall perform such duties as the Commandant may prescribe and shall act as Commandant during the absence or disability of the Commandant or in the event that there is a vacancy in the office of Commandant. The Vice Commandant shall be selected from the officers on the active duty promotion list serving above the grade of captain. The Commandant shall make recommendation for such appointment. The Vice Commandant shall, while so serving, have the grade of vice admiral with pay and allowances of that grade. The appointment and grade of a Vice Commandant shall be effective on the date the officer assumes that duty, and shall terminate on the date the officer is detached from that duty, except as provided in section 51(d) of this title.
 
 (Aug. 4, 1949, ch. 393, 63 Stat. 499; Pub. L. 86–474, §1(6), May 14, 1960, 74 Stat. 144; Pub. L. 88–130, §1(5), (6), Sept. 24, 1963, 77 Stat. 175; Pub. L. 89–444, §1(6), (7), June 9, 1966, 80 Stat. 195; Pub. L. 92–451, §1(4), Oct. 2, 1972, 86 Stat. 755; Pub. L. 97–295, §2(2), Oct. 12, 1982, 96 Stat. 1301; Pub. L. 99–348, title II, §205(b)(2), July 1, 1986, 100 Stat. 700; Pub. L. 103–206, title II, §204(b)(1), Dec. 20, 1993, 107 Stat. 2421; Pub. L. 111–281, title V, §511(f)(1), (g), Oct. 15, 2010, 124 Stat. 2952, 2953.)
 
@@ -36,7 +36,7 @@ Subsec. (b). Pub. L. 92–451 substituted “A Vice Commandant” for “An Assi
 
 Subsecs. (c), (d). Pub. L. 92–451 substituted “Vice Commandant” for “Assistant Commandant” wherever appearing.
 
-<b>1966</b>—Subsec. (c). Pub. L. 89–444, §1(6), struck out requirement that Assistant Commandant serve 2½ years as Assistant Commandant before becoming eligible for retirement with the grade and pay of vice admiral.
+<b>1966</b>—Subsec. (c). Pub. L. 89–444, §1(6), struck out requirement that Assistant Commandant serve 2½ yearsas Assistant Commandant before becoming eligible for retirement with the grade and pay of vice admiral.
 
 Subsec. (d). Pub. L. 89–444, §1(7), struck out provision that section 334 of this title, which covers cases of retirement when a higher grade has been held, shall not apply to an officer retiring within 2½ years of the date of his original assignment as Assistant Commandant.
 

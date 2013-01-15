@@ -1,6 +1,6 @@
 ### §562. Timing of damage measurement in connection with swap agreements, securities contracts, forward contracts, commodity contracts, repurchase agreements, and master netting agreements
 
-(a) If the trustee rejects a swap agreement, securities contract (as defined in section 741), forward contract, commodity contract (as defined in section 761), repurchase agreement, or master netting agreement pursuant to section 365(a), or if a forward contract merchant, stockbroker, financial institution, securities clearing agency, repo participant, financial participant, master netting agreement participant, or swap participant liquidates, terminates, or accelerates suchcontract or agreement, damages shall be measured as of the earlier of—
+(a) If the trustee rejects a swap agreement, securities contract (as defined in section 741), forward contract, commodity contract (as defined in section 761), repurchase agreement, or master netting agreement pursuant to section 365(a), or if a forward contract merchant, stockbroker, financial institution, securities clearing agency, repo participant, financial participant, master netting agreement participant, or swap participant liquidates, terminates, or accelerates such contract or agreement, damages shall be measured as of the earlier of—
 
 &emsp;(1) the date of such rejection; or
 

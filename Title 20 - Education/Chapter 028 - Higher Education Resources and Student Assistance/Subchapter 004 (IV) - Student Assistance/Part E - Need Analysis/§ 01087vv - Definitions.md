@@ -6,9 +6,9 @@ As used in this part:
 
 (1)(A) Except as provided in subparagraph (B) and paragraph (2), the term “total income” is equal to adjusted gross income plus untaxed income and benefits for the preceding tax year minus excludable income (as defined in subsection (e) of this section).
 
-(B) Notwithstanding section 1087rr(a) of this title, the Secretary may provide for the use of data from the second preceding tax year when and to the extent necessary to carry out the simplification of applications (including simplification for a subset of applications) used for the estimation and determination of financial aid eligibility. Such simplification may include the sharing of data between the Internal Revenue Service and the Department, pursuant to the consent of the taxpayer.
+(B) Notwithstanding section 1087rr(a) of this title, the Secretary may provide for the use ofdata from the second preceding tax year when and to the extent necessary to carry out the simplification of applications (including simplification for a subset of applications) used for the estimation and determination of financial aid eligibility. Such simplification may include the sharing of data between the Internal Revenue Service and the Department, pursuant to the consent of the taxpayer.
 
-(2) No portion of any student financial assistance received from any program by an individual, no portion of veterans’ education benefits received by an individual, no portion of a national service educational award or post-service benefit received by an individual under title I of the National and Community Service Act of 1990 (42 U.S.C. 12511 et seq.), no portion of any tax credit taken under section 25A of title 26, and no distribution from any qualified education benefit described in subsection (f)(3) that is not subject to Federal income tax, shall be included as income or assets in the computation of expectedfamily contribution for any program funded in whole or in part under this chapter and part C of subchapter I of chapter 34 of title 42.
+(2) No portion of any student financial assistance received from any program by an individual, no portion of veterans’ education benefits received by an individual, no portion of a national service educational award or post-service benefit received by an individual under title I of the National and Community Service Act of 1990 (42 U.S.C. 12511 et seq.), no portion of any tax credit taken under section 25A of title 26, and no distribution from any qualified education benefit described in subsection (f)(3) that is not subject to Federal income tax, shall be included as income or assets in the computation of expected family contribution for any program funded in whole or in part under this chapter and part C of subchapter I of chapter 34 of title 42.
 
 #### (b) Untaxed income and benefits
 
@@ -90,7 +90,7 @@ As used in this part:
 
 &emsp;&emsp;(B) is an orphan, in foster care, or a ward of the court, or was an orphan, in foster care, or a ward of the court at any time when the individual was 13 years of age or older;
 
-&emsp;&emsp;(C) is, or was immediately prior to attaining the age of majority, an emancipated minor or in legal guardianship as determined by a court of competent jurisdiction in the individual's State of legal residence;
+&emsp;&emsp;(C) is, or was immediately prior to attaining the age of majority, an emancipatedminor or in legal guardianship as determined by a court of competent jurisdiction in the individual's State of legal residence;
 
 &emsp;&emsp;(D) is a veteran of the Armed Forces of the United States (as defined in subsection (c)(1) of this section) or is currently serving on active duty in the Armed Forces for other than training purposes;
 
@@ -102,7 +102,7 @@ As used in this part:
 
 &emsp;&emsp;(H) has been verified during the school year in which the application is submitted as either an unaccompanied youth who is a homeless child or youth (as such terms are defined in section 725 of the McKinney-Vento Homeless Assistance Act \[42 U.S.C. 11434a\]), or as unaccompanied, at risk of homelessness, and self-supporting, by—
 
-&emsp;&emsp;&emsp;(i) a local educational agency homeless liaison, designated pursuant to section722(g)(1)(J)(ii) of the McKinney-Vento Homeless Assistance Act \[42 U.S.C. 11432(g)(1)(J)(ii)\];
+&emsp;&emsp;&emsp;(i) a local educational agency homeless liaison, designated pursuant to section 722(g)(1)(J)(ii) of the McKinney-Vento Homeless Assistance Act \[42 U.S.C. 11432(g)(1)(J)(ii)\];
 
 &emsp;&emsp;&emsp;(ii) the director of a program funded under the Runaway and Homeless Youth Act \[42 U.S.C. 5701 et seq.\] or a designee of the director;
 
@@ -182,11 +182,11 @@ The term “current balance of checking and savings accounts” does not include
 
 #### (j) Other financial assistance
 
-(1) For purposes of determining a student's eligibility for funds under this subchapter and partC of subchapter I of chapter 34 of title 42, estimated financial assistance not received under this subchapter and part C of subchapter I of chapter 34 of title 42 shall include all scholarships, grants, loans, or other assistance known to the institution at the time the determination of the student's need is made, including national service educational awards or post-service benefits under title I of the National and Community Service Act of 1990 (42 U.S.C. 12511 et seq.), but excluding veterans’ education benefits as defined in subsection (c).
+(1) For purposes of determining a student's eligibility for funds under this subchapter and part C of subchapter I of chapter 34 of title 42, estimated financial assistance not received under this subchapter and part C of subchapter I of chapter 34 of title 42 shall include all scholarships, grants, loans, or other assistance known to the institution at the time the determination of the student's need is made, including national service educational awards or post-service benefits under title I of the National and Community Service Act of 1990 (42 U.S.C. 12511 et seq.), but excluding veterans’ education benefits as defined in subsection (c).
 
 (2) Notwithstanding paragraph (1), a tax credit taken under section 25A of title 26, or a distribution that is not includable in gross income under section 529 of such title, under another prepaid tuition plan offered by a State, or under a Coverdell education savings account under section 530 of such title, shall not be treated as estimated financial assistance for purposes of section 1087kk(3) of this title.
 
-(3) Notwithstanding paragraph (1) and section 1087<i>ll</i> of this title, assistance not received under this subchapter and part C of subchapter I of chapter 34 of title 42 may be excluded from both estimated financial assistance and cost of attendance, if that assistance is provided by a State and is designated by such State to offset a specific component of the cost of attendance. If that assistance is excluded from either estimated financial assistance or cost of attendance, it shall be excluded from both.
+(3) Notwithstanding paragraph (1) and section 1087ll of this title, assistance not received under this subchapter and part C of subchapter I of chapter 34 of title 42 may be excluded from both estimated financial assistance and cost of attendance, if that assistance is provided by a State and is designated by such State to offset a specific component of the cost of attendance. If that assistance is excluded from either estimated financial assistance or cost of attendance, it shall be excluded from both.
 
 (4) Notwithstanding paragraph (1), special combat pay shall not be treated as estimated financial assistance for purposes of section 1087kk(3) of this title.
 
@@ -196,7 +196,7 @@ The term “current balance of checking and savings accounts” does not include
 
 (2) Except as otherwise provided, the term “dependent of the student” means the student's dependent children and other persons (except the student's spouse) who live with and receive more than one-half of their support from the student and will continue to receive more than half of their support from the student during the award year.
 
-#### (<i>l</i>) Family size
+#### (l) Family size
 
 (1) In determining family size in the case of a dependent student—
 
@@ -228,7 +228,7 @@ The National and Community Service Act of 1990, referred to in subsecs. (a)(2), 
 
 The Workforce Investment Act of 1998, referred to in subsec. (b)(1)(I), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of this title and Tables.
 
-The Social Security Act, referred to in subsecs. (b)(2)(B) and (e)(5), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A and E of title IV of the Act are classified generally to parts A (§601 et seq.) and E (§670 et seq.)of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (b)(2)(B) and (e)(5), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A and E of title IV of the Act are classified generally to parts A (§601 et seq.) and E (§670 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 Section 903 of the Department of Defense Authorization Act, 1981, referred to in subsec. (c)(2)(J), is section 903 of Pub. L. 96–342, which is set out as a note under section 2141 of Title 10, Armed Forces.
 
@@ -282,7 +282,7 @@ Subsec. (d)(2). Pub. L. 110–84, §604(a)(3)(F), added par. (2).
 
 Subsec. (e)(5). Pub. L. 110–84, §604(a)(4), added par. (5).
 
-Subsec. (f)(3). Pub. L. 110–84, §604(a)(5), added par. (3) and struck out former par. (3) which read as follows: “A qualified education benefit shall not be considered an asset of a student for purposes of section 1087<i>oo</i> of this title.”
+Subsec. (f)(3). Pub. L. 110–84, §604(a)(5), added par. (3) and struck out former par. (3) which read as follows: “A qualified education benefit shall not be considered an asset of a student for purposes of section 1087oo of this title.”
 
 Subsec. (j)(2). Pub. L. 110–84, §604(a)(6)(A), inserted “, or a distribution that is not includable in gross income under section 529 of such title, under another prepaid tuition plan offered by a State, or under a Coverdell education savings account under section 530 of such title,” after “title 26”.
 
@@ -302,7 +302,7 @@ Subsec. (j). Pub. L. 109–171, §8019(e)(1), struck out “; tuition prepaymen
 
 Subsec. (j)(2), (3). Pub. L. 109–171, §8019(e)(2)–(4), struck out par. (2), redesignated par. (3) as (2), and added par. (3). Prior to amendment, par. (2) read as follows:
 
-“(2)(A) Except as provided in subparagraph (B), for purposes of determining a student's eligibility for funds under this subchapter and part C of subchapter I of chapter 34 of title 42, tuition prepayment plans shall reduce the cost of attendance (as determined under section 1087<i>ll</i> of this title) by the amount of the prepayment, and shall not be considered estimated financial assistance.
+“(2)(A) Except as provided in subparagraph (B), for purposes of determining a student's eligibility for funds under this subchapter and part C of subchapter I of chapter 34 of title 42, tuition prepayment plans shall reduce the cost of attendance (as determined under section 1087ll of this title) by the amount of the prepayment, and shall not be considered estimated financial assistance.
 
 “(B) If the institutional expense covered by the prepayment must be part of the student's cost of attendance for accounting purposes, the prepayment shall be considered estimated financial assistance.”
 
@@ -382,7 +382,7 @@ Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules rel
 
 #### Effective Date of 1993 Amendments
 
-Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L.102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 
 Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as a note under section 1701 of Title 16, Conservation.
 
@@ -400,7 +400,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Definition of “Independent Student”; Application to Specified Periods of Enrollment
 
-Section 406(b)(5), formerly section 406(b)(4), of Pub. L. 99–498, renumbered Pub. L. 100–50, §22(e)(2), June 3, 1987, 101 Stat. 361, provided that: “The definition of independent student contained in section 480(d) of the Act \[20 U.S.C. 1087vv(d)\] as amended by subsection (a) of this section shall apply with respect to the determination of such need for periods of enrollment beginning on or after January 1, 1987, in the case of programs operated under part B of title IV of the Act \[part B of this subchapter\], or for periods of enrollment beginning on or after July 1, 1987, in the case of programs operated under subpart 2 of part A and parts C and E of such title \[subpart 2 of part A of this subchapter and part C of subchapter I of chapter 34 of Title 42, The Public Health and Welfare, and part D of this subchapter\].”
+Pub. L. 99–498, title IV, §406(b)(5), formerly §406(b)(4), Oct. 17, 1986, 100 Stat. 1475; renumbered §406(b)(5), Pub. L. 100–50, §22(e)(2), June 3, 1987, 101 Stat. 361, provided that: “The definition of independent student contained in section 480(d) of the Act \[20 U.S.C. 1087vv(d)\] as amended by subsection (a) of this section shall apply with respect to the determination of such need for periods of enrollment beginning on or after January 1, 1987, in the case of programs operated under part B of title IV of the Act \[part B of this subchapter\], or for periods of enrollment beginning on or after July 1, 1987, in the case of programs operated under subpart 2 of part A and parts C and E of such title \[subpart 2 of part A of this subchapter and part C of subchapter I of chapter 34 of Title 42, The Public Health and Welfare, and part D of this subchapter\].”
 
 \[References to subpart 2 of part A of title IV of Pub. L. 89–329 deemed, after July 23, 1992, to refer to subpart 3 of such part, see section 402(b) of Pub. L. 102–325, set out as a note under section 1070a–11 of this title.\]
 

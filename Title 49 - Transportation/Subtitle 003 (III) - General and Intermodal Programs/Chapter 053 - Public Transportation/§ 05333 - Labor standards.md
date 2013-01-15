@@ -2,11 +2,11 @@
 
 (a)
 
-Prevailing Wages Requirement.—The Secretary of Transportation shall ensure that laborers and mechanics employed by contractors and subcontractors in construction work financed with a grant or loan under this chapter be paid wages not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor under sections 3141–3144, 3146, and 3147 of title 40. The Secretary of Transportation may approve a grant or loan only after being assured that required labor standards will be maintained on the construction work. For a labor standard under this subsection, the Secretary of Labor has the same duties and powers stated in Reorganization Plan No. 14 of 1950 (eff. May 24, 1950, 64 Stat. 1267) and section 3145 of title 40.
+Prevailing Wages Requirement.—The Secretary of Transportation shall ensure that laborers and mechanics employed by contractors and subcontractors in construction work financed with a grant or loan under this chapter be paid wages not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor under sections 3141 through 3144, 3146, and 3147 of title 40. The Secretary of Transportation may approve a grant or loan only after being assured that required labor standards will be maintained on the construction work. For a labor standard under this subsection, the Secretary of Labor has the same duties and powers stated in Reorganization Plan No. 14 of 1950 (eff. May 24, 1950, 64 Stat. 1267) and section 3145 of title 40.
 
 (b)
 
-Employee Protective Arrangements.—(1) As a condition of financial assistance under sections 5307–5312, 5316, 5318, 5323(a)(1), 5323(b), 5323(d), 5328, 5337, and 5338(b) of this title, the interests of employees affected by the assistance shall be protected under arrangements the Secretary of Labor concludes are fair and equitable. The agreement granting the assistance under sections 5307–5312, 5316, 5318, 5323(a)(1), 5323(b), 5323(d), 5328, 5337, and 5338(b) shall specify the arrangements.
+Employee Protective Arrangements.—(1) As a condition of financial assistance under sections 5307–5312, 5316,<sup>1</sup> 5318, 5323(a)(1), 5323(b), 5323(d), 5328,<sup>1</sup> 5337, and 5338(b) of this title, the interests of employees affected by the assistance shall be protected under arrangements the Secretary of Labor concludes are fair and equitable. The agreement granting the assistance under sections 5307–5312, 5316,<sup>1</sup> 5318, 5323(a)(1), 5323(b), 5323(d), 5328,<sup>1</sup> 5337, and 5338(b) shall specify the arrangements.
 
 (2) Arrangements under this subsection shall include provisions that may be necessary for—
 
@@ -28,7 +28,7 @@ Employee Protective Arrangements.—(1) As a condition of financial assistance u
 
 (5) When the Secretary is called upon to issue fair and equitable determinations involving assurances of employment when one private transit bus service contractor replaces another through competitive bidding, such decisions shall be based on the principles set forth in the Department of Labor's decision of September 21, 1994, as clarified by the supplemental ruling of November 7, 1994, with respect to grant NV–90–X021. This paragraph shall not serve as a basis for objections under section 215.3(d) of title 29, Code of Federal Regulations.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 835; Pub. L. 104–88, title III, §308(e), Dec. 29, 1995, 109 Stat. 947; Pub. L. 105–178, title III, §3029(b)(9), June 9, 1998, 112 Stat. 372; Pub. L. 107–217, §3(n)(3), Aug. 21, 2002, 116 Stat. 1302; Pub. L. 109–59, title III, §§3002(b)(4), 3031, Aug. 10, 2005, 119 Stat. 1545, 1625.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 835; Pub. L. 104–88, title III, §308(e), Dec. 29, 1995, 109 Stat. 947; Pub. L. 105–178, title III, §3029(b)(9), June 9, 1998, 112 Stat. 372; Pub. L. 107–217, §3(n)(3), Aug. 21, 2002, 116 Stat. 1302; Pub. L. 109–59, title III, §§3002(b)(4), 3031, Aug. 10, 2005, 119 Stat. 1545, 1625; Pub. L. 112–141, div. B, §20030(h), July 6, 2012, 126 Stat. 731.)
 
 Historical and Revision Notes
 
@@ -62,7 +62,11 @@ In subsection (b)(3), the words “section 11347 of this title” are substitute
 
 Reorganization Plan No. 14 of 1950, referred to in subsec. (a), is set out in the Appendix to Title 5, Government Organization and Employees.
 
+Sections 5316 and 5328 of this title, referred to in subsec. (b)(1), were repealed by Pub. L. 112–141, div. B, §20002(a), July 6, 2012, 126 Stat. 622.
+
 #### Amendments
+
+<b>2012</b>—Subsec. (a). Pub. L. 112–141 substituted “sections 3141 through 3144” for “sections 3141–3144”.
 
 <b>2005</b>—Subsec. (b)(1). Pub. L. 109–59, §3031(1), substituted “5316, 5318, 5323(a)(1), 5323(b), 5323(d), 5328, 5337, and 5338(b)” for “5318(d), 5323(a)(1), (b), (d), and (e), 5328, 5337, and 5338(b)” in two places.
 
@@ -76,7 +80,13 @@ Subsec. (b)(4), (5). Pub. L. 109–59, §3031(2), added pars. (4) and (5).
 
 <b>1995</b>—Subsec. (b)(3). Pub. L. 104–88 substituted “11326” for “11347”.
 
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
+
 #### Effective Date of 1995 Amendment
 
 Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -28,9 +28,9 @@ Consultation.—In carrying out this section, the Superintendent of Documents sh
 
 #### Status Report
 
-Section 3 of Pub. L. 103–40 provided that: “Not later than June 30, 1994, the Public Printer shall submit to the Congress a report on the status of the directory, the system of access, and the electronic storage facility referred to in section 4101 of title 44, United States Code, as added by section 2(a).”
+Pub. L. 103–40, §3, June 8, 1993, 107 Stat. 113, provided that: “Not later than June 30, 1994, the Public Printer shall submit to the Congress a report on the status of the directory, the system of access, and the electronic storage facility referred to in section 4101 of title 44, United States Code, as added by section 2(a).”
 
 #### Operational Deadline
 
-Section 4(a) of Pub. L. 103–40 provided that: “The directory, the system of access, and the electronic storage facility referred to in section 4101 of title 44, United States Code, as added by section 2(a), shall be operational not later than one year after the date of the enactment of this Act \[June 8, 1993\].”
+Pub. L. 103–40, §4(a), June 8, 1993, 107 Stat. 113, provided that: “The directory, the system of access, and the electronic storage facility referred to in section 4101 of title 44, United States Code, as added by section 2(a), shall be operational not later than one year after the date of the enactment of this Act \[June 8, 1993\].”
 

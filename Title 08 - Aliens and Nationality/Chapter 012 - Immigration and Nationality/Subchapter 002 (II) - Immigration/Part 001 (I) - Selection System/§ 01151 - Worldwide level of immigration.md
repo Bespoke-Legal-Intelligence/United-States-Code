@@ -6,7 +6,7 @@ Exclusive of aliens described in subsection (b) of this section, aliens born in 
 
 &emsp;(1) family-sponsored immigrants described in section 1153(a) of this title (or who are admitted under section 1181(a) of this title on the basis of a prior issuance of a visa to their accompanying parent under section 1153(a) of this title) in a number not to exceed in any fiscal year the number specified in subsection (c) of this section for that year, and not to exceed in any of the first 3 quarters of any fiscal year 27 percent of the worldwide level under such subsection for all of such fiscal year;
 
-&emsp;(2) employment-based immigrants described in section 1153(b) of this title (or who are admitted under section 1181(a) of this title on the basis of a prior issuance of a visa to their accompanying parent under section 1153(b) of this title), in a number not to exceed in any fiscal year the number specified in subsection (d) of this section for that year, and not to exceed in any of the first 3 quarters of any fiscal year 27 percent of the worldwide level under such subsection for all of such fiscal year; and
+&emsp;(2) employment-based immigrants described in section 1153(b) of this title (or who are admitted under section 1181(a) of this title on the basis of a prior issuance of a visa to their accompanying parent under section 1153(b) of this title), in a number not to exceed in any fiscal year the number specified in subsection (d) of this section for that year, and not to exceed in any of the first 3 quarters of any fiscalyear 27 percent of the worldwide level under such subsection for all of such fiscal year; and
 
 &emsp;(3) for fiscal years beginning with fiscal year 1995, diversity immigrants described in section 1153(c) of this title (or who are admitted under section 1181(a) of this title on the basis of a prior issuance of a visa to their accompanying parent under section 1153(c) of this title) in a number not to exceed in any fiscal year the number specified in subsection (e) of this section for that year, and not to exceed in any of the first 3 quarters of any fiscal year 27 percent of the worldwide level under such subsection for all of such fiscal year.
 
@@ -72,7 +72,7 @@ Immediate relatives.—For purposes of this subsection, the term “immediate re
 
 (2)(A) The number computed under this paragraph for fiscal year 1992 is zero.
 
-(B) The number computed under this paragraph for fiscal year 1993 is the difference (if any) between the worldwide level established under paragraph (1) for the previous fiscal year and the number of visas issued under section 1153(b) of this title during that fiscal year.
+(B) The number computed under this paragraph for fiscal year 1993 is the difference (ifany) between the worldwide level established under paragraph (1) for the previous fiscal year and the number of visas issued under section 1153(b) of this title during that fiscal year.
 
 (C) The number computed under this paragraph for a subsequent fiscal year is the difference (if any) between the maximum number of visas which may be issued under section 1153(a) of this title (relating to family-sponsored immigrants) during the previous fiscal year and the number of visas issued under that section during that year.
 
@@ -98,7 +98,7 @@ The worldwide level of diversity immigrants is equal to 55,000 for each fiscal y
 
 &emsp;Paragraphs (1) through (3) shall apply to self-petitioners and derivatives of self-petitioners.
 
-(June 27, 1952, ch. 477, title II, ch. 1, §201, 66 Stat. 175; Pub. L. 89–236, §1, Oct. 3, 1965, 79 Stat. 911; Pub. L. 94–571, §2, Oct. 20, 1976, 90 Stat. 2703; Pub. L. 95–412, §1, Oct. 5, 1978, 92 Stat. 907; Pub. L.96–212, title II, §203(a), Mar. 17, 1980, 94 Stat. 106; Pub. L. 97–116, §20\[(a)\], Dec. 29, 1981, 95 Stat. 1621; Pub. L. 101–649, title I, §101(a), Nov. 29, 1990, 104 Stat. 4980; Pub. L. 102–232, title III, §302(a)(1), Dec. 12, 1991, 105 Stat. 1742; Pub. L. 103–322, title IV, §40701(b)(2), Sept. 13, 1994, 108 Stat. 1954; Pub. L. 103–416, title II, §219(b)(1), Oct. 25, 1994, 108 Stat. 4316; Pub. L. 104–208, div. C, title III, §308(e)(5), (g)(8)(A)(i), title VI, §§603, 671(d)(1)(A), Sept. 30, 1996, 110 Stat. 3009–620, 3009–624, 3009–690, 3009–723; Pub. L. 106–386, div. B, title V, §1507(a)(3), Oct. 28, 2000, 114 Stat. 1530; Pub. L. 107–208, §2, Aug. 6, 2002, 116 Stat. 927; Pub. L. 109–162, title VIII, §805(b)(1), Jan. 5, 2006, 119 Stat. 3056; Pub. L. 111–83, title V, §568(c)(1), Oct. 28, 2009, 123 Stat. 2186.)
+(June 27, 1952, ch. 477, title II, ch. 1, §201, 66 Stat. 175; Pub. L. 89–236, §1, Oct. 3, 1965, 79 Stat. 911; Pub. L. 94–571, §2, Oct. 20, 1976, 90 Stat. 2703; Pub. L. 95–412, §1, Oct. 5, 1978, 92 Stat. 907; Pub. L. 96–212, title II, §203(a), Mar. 17, 1980, 94 Stat. 106; Pub. L. 97–116, §20\[(a)\], Dec. 29, 1981, 95 Stat. 1621; Pub. L. 101–649, title I, §101(a), Nov. 29, 1990, 104 Stat. 4980; Pub. L. 102–232, title III, §302(a)(1), Dec. 12, 1991, 105 Stat. 1742; Pub. L. 103–322, title IV, §40701(b)(2), Sept. 13, 1994, 108 Stat. 1954; Pub. L. 103–416, title II, §219(b)(1), Oct. 25, 1994, 108 Stat. 4316; Pub. L. 104–208, div. C, title III, §308(e)(5), (g)(8)(A)(i), title VI, §§603, 671(d)(1)(A), Sept. 30, 1996, 110 Stat. 3009–620, 3009–624, 3009–690, 3009–723; Pub. L. 106–386, div. B, title V, §1507(a)(3), Oct. 28, 2000, 114 Stat. 1530; Pub. L. 107–208, §2, Aug. 6, 2002, 116 Stat. 927; Pub. L. 109–162, title VIII, §805(b)(1), Jan. 5, 2006, 119 Stat. 3056; Pub. L. 111–83, title V, §568(c)(1), Oct. 28, 2009, 123 Stat. 2186.)
 
 #### Amendments
 
@@ -194,7 +194,7 @@ Amendment by section 308(e)(5), (g)(8)(A)(i) of Pub. L. 104–208 effective, wit
 
 Amendment by Pub. L. 103–416 effective as if included in the enactment of the Immigration Act of 1990, Pub. L. 101–649, see section 219(dd) of Pub. L. 103–416, set out as a note under section 1101 of this title.
 
-Section 40701(d) of Pub. L. 103–322 provided that: “The amendments made by this section \[amending this section and section 1154 of this title\] shall take effect January 1, 1995.”
+Pub. L. 103–322, title IV, §40701(d), Sept. 13, 1994, 108 Stat. 1955, provided that: “The amendments made by this section \[amending this section and section 1154 of this title\] shall take effect January 1, 1995.”
 
 #### Effective Date of 1991 Amendment
 
@@ -218,7 +218,7 @@ Amendment by Pub. L. 94–571 effective on first day of first month which begins
 
 #### Effective Date of 1965 Amendment
 
-Section 20 of Pub. L. 89–236 provided that: “This Act \[amending this section and sections 1101, 1152 to 1156, 1181, 1182, 1201, 1202, 1204, 1251, 1253, 1254, 1255, 1259, 1322, and 1351 of this title, repealing section 1157 of this title, and enacting provisions set out as a note under this section\] shall become effective on the first day of the first month after the expiration of thirty days following the date of its enactment \[Oct. 3, 1965\] except as provided herein.”
+Pub. L. 89–236, §20, Oct. 3, 1965, 79 Stat. 920, provided that: “This Act \[amending this section and sections 1101, 1152 to 1156, 1181, 1182, 1201, 1202, 1204, 1251, 1253, 1254, 1255, 1259, 1322, and 1351 of this title, repealing section 1157 of this title, and enacting provisions set out as a note under this section\] shall become effective on the first day of the first month after the expiration of thirty days following the date of its enactment \[Oct. 3, 1965\] except as provided herein.”
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
@@ -254,7 +254,7 @@ Parents.—
 
 &emsp;&emsp;“(A)
 
-In general.—In the case of an alien who was the parent of a citizen of the United States at the time of the citizen's death, if the citizen served honorably in an active duty status in the military, air, or naval forces of the United States and died asa result of injury or disease incurred in or aggravated by combat, the alien shall be considered, for purposes of section 201(b) of the Immigration and Nationality Act (8 U.S.C. 1151(b)), to remain an immediate relative after the date of the citizen's death (regardless of changes in age or marital status thereafter), but only if the alien files a petition under subparagraph (B) within 2 years after such date.
+In general.—In the case of an alien who was the parent of a citizen of the United States at the time of the citizen's death, if the citizen served honorably in an active duty status in the military, air, or naval forces of the United States and died as a result of injury or disease incurred in or aggravated by combat, the alien shall be considered, for purposes of section 201(b) of the Immigration and Nationality Act (8 U.S.C. 1151(b)), to remain an immediate relative after the date of the citizen's death (regardless of changes in age or marital status thereafter), but only if the alien files a petition under subparagraph (B) within 2 years after such date.
 
 &emsp;&emsp;“(B)
 
@@ -350,7 +350,7 @@ Pub. L. 105–100, title II, §203(d), Nov. 19, 1997, 111 Stat. 2199, as amended
 
 #### Transition Relating to Death of Citizen Spouse
 
-Section 101(c) of Pub. L. 101–649, as added by Pub. L. 102–232, title III, §302(a)(2), Dec. 12, 1991, 105 Stat. 1742, provided that: “In applying the second sentence of section 201(b)(2)(A)(i) of the Immigration and Nationality Act \[8 U.S.C. 1151(b)(2)(A)(i)\] (as amended by subsection (a)) in the case of a \[sic\] alien whose citizen spouse died before the date of the enactment of this Act \[Nov. 29, 1990\], notwithstanding the deadline specified in such sentence the alien spouse may file the classification petition referred to in such sentence within 2 years after the date of the enactment of this Act.”
+Pub. L. 101–649, title I, §101(c), as added by Pub. L. 102–232, title III, §302(a)(2), Dec. 12, 1991, 105 Stat. 1742, provided that: “In applying the second sentence of section 201(b)(2)(A)(i) of the Immigration and Nationality Act \[8 U.S.C. 1151(b)(2)(A)(i)\] (as amended by subsection (a)) in the case of a \[sic\] alien whose citizen spouse died before the date of the enactment of this Act \[Nov. 29, 1990\], notwithstanding the deadline specified in such sentence the alien spouse may file the classification petition referred to in such sentence within 2 years after the date of the enactment of this Act.”
 
 #### Inapplicability of Numerical Limitations for Certain Aliens Residing in the United States Virgin Islands
 
@@ -358,7 +358,7 @@ The numerical limitations described in subsec. (a) of this section not to apply 
 
 #### Exemption From Numerical Limitations for Certain Aliens Who Applied for Adjustment to Status of Permanent Resident Aliens on or Before June 1, 1978
 
-Section 19 of Pub. L. 97–116 provided that: “The numerical limitations contained in sections 201 and 202 of the Immigration and Nationality Act \[sections 1151 and 1152 of this title\] shall not apply to any alien who is present in the United States and who, on or before June 1, 1978—
+Pub. L. 97–116, §19, Dec. 29, 1981, 95 Stat. 1621, provided that: “The numerical limitations contained in sections 201 and 202 of the Immigration and Nationality Act \[sections 1151 and 1152 of this title\] shall not apply to any alien who is present in the United States and who, on or before June 1, 1978—
 
 &emsp;“(1) qualified as a nonpreference immigrant under section 203(a)(8) of such Act \[section 1153(a)(8) of this title\] (as in effect on June 1, 1978);
 
@@ -368,13 +368,13 @@ Section 19 of Pub. L. 97–116 provided that: “The numerical limitations conta
 
 #### Select Commission on Immigration and Refugee Policy
 
-Section 4 of Pub. L. 95–412, as amended by Pub. L. 96–132, §23, Nov. 30, 1979, 93 Stat. 1051, provided for the establishment of a Select Commission on Immigration and Refugee Policy to study and evaluate existing laws, policies, and procedures governing the admission of immigrants and refugees to the United States, to make such administrative and legislative recommendations to the President and Congress as appropriate, and to submit a final report no later than Mar. 1, 1981, at which time it ceased to exist although it was authorized to function for up to 60 days thereafter to wind up its affairs.
+Pub. L. 95–412, §4, Oct. 5, 1978, 92 Stat. 907, as amended by Pub. L. 96–132, §23, Nov. 30, 1979, 93 Stat. 1051, provided for the establishment of a Select Commission on Immigration and Refugee Policy to study and evaluate existing laws, policies, and procedures governing the admission of immigrants and refugees to the United States, to make such administrative and legislative recommendations to the President and Congress as appropriate, and to submit a final report no later than Mar. 1, 1981, at which time it ceased to exist although it was authorized to function for up to 60 days thereafter to wind up its affairs.
 
 #### Select Commission on Western Hemisphere Immigration
 
-Section 21(a)–(d) and (f)–(h) of Pub. L. 89–236 established a Select Commission on Western Hemisphere Immigration to study the operation of the immigration laws of the United States as they pertain to Western Hemisphere nations, with emphasis on the adequacy of such laws from the standpoint of fairness and the impact of such laws on employment and working conditions within the United States, and to make a final report to the President on or before Jan. 15, 1968, and terminate not later than 60 days after filing the final report.
+Pub. L. 89–236, §21(a)–(d), (f)–(h), Oct. 3, 1965, 79 Stat. 920, 921, established a Select Commission on Western Hemisphere Immigration to study the operation of the immigration laws of the United States as they pertain to Western Hemisphere nations, with emphasis on the adequacy of such laws from the standpoint of fairness and the impact of such laws on employment and working conditions within the United States, and to make a final report to the President on or before Jan. 15, 1968, and terminate not later than 60 days after filing the final report.
 
 #### Termination of Quota Deductions
 
-Section 10 of Pub. L. 85–316, Sept. 11, 1957, 71 Stat. 642, provided that the quota deductions required under the provisions of former subsec. (e) of this section, the Displaced Persons Act of 1948, as amended, the act of June 30, 1950, and the act of April 9, 1952 were terminated effective July 1, 1957.
+Pub. L. 85–316, §10, Sept. 11, 1957, 71 Stat. 642, provided that the quota deductions required under the provisions of former subsec. (e) of this section, the Displaced Persons Act of 1948, the act of June 30, 1950, and the act of April 9, 1952, were terminated effective July 1, 1957.
 

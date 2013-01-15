@@ -14,7 +14,7 @@ The following items shall not be included in gross income of a foreign corporati
 
 #### (3) Railroad rolling stock of foreign corporations
 
-&emsp;Earnings derived from payments by a common carrier for the use on a temporary basis\(not expected to exceed a total of 90 days in any taxable year) of railroad rolling stock owned by a corporation of a foreign country which grants an equivalent exemption to corporations organized in the United States.
+&emsp;Earnings derived from payments by a common carrier for the use on a temporary basis (not expected to exceed a total of 90 days in any taxable year) of railroad rolling stock owned by a corporation of a foreign country which grants an equivalent exemption to corporations organized in the United States.
 
 #### (4) Special rules
 
@@ -56,7 +56,7 @@ The earnings derived from the ownership or operation of a communications satelli
 
 #### References in Text
 
-The Communications Satellite Act of 1962, referred to in subsec. (b), is Pub. L. 87–624, Aug. 31, 1962, 76 Stat. 419, as amended, which is classified generally to chapter 6 (§701 et seq.) of Title 47, Telegraphs, Telephones, and Radiotelegraphs. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 47 and Tables.
+The Communications Satellite Act of 1962, referred to in subsec. (b), is Pub. L. 87–624, Aug. 31, 1962, 76 Stat. 419, as amended, which is classified generally to chapter 6 (§701 et seq.) of Title 47, Telecommunications. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 47 and Tables.
 
 #### Amendments
 
@@ -106,11 +106,11 @@ Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1975 Amendment
 
-Section 6(b) of Pub. L. 94–164 provided that: “The amendment made by this section \[amending this section\] shall apply to payments made after November 18, 1974.”
+Pub. L. 94–164, §6(b), Dec. 23, 1975, 89 Stat. 976, provided that: “The amendment made by this section \[amending this section\] shall apply to payments made after November 18, 1974.”
 
 #### Effective Date of 1968 Amendment
 
-Section 1(b) of Pub. L. 90–622 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1966.”
+Pub. L. 90–622, §1(b), Oct. 22, 1968, 82 Stat. 1311, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1966.”
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 

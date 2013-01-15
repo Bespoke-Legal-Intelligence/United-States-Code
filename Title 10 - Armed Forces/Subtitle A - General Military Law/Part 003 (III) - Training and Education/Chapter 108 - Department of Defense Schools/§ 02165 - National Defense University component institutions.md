@@ -34,7 +34,7 @@ Acceptance of Faculty Research Grants.—(1) The Secretary of Defense may author
 
 (3) A grant may be accepted under this subsection only from a corporation, fund, foundation, educational institution, or similar entity that is organized and operated primarily for scientific, literary, or educational purposes.
 
-(4) The Secretary shall establish an account for administering funds received as research grants under this subsection. The President of the University shall use the funds in the account in accordance with applicable provisions of the regulations and the terms and condition of the grants received.
+(4) The Secretary shall establish an account for administering funds received as research grants under this subsection. The President of the University shall use the funds in the accountin accordance with applicable provisions of the regulations and the terms and condition of the grants received.
 
 (5) Subject to such limitations as may be provided in appropriations Acts, appropriations available for the National Defense University may be used to pay expenses incurred by the University in applying for, and otherwise pursuing, the award of qualifying research grants.
 

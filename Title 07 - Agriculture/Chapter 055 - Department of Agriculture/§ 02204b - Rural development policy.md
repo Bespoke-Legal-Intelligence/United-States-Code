@@ -32,7 +32,7 @@ Cooperators.—Each cooperator, including each Federal agency, to the extent tha
 
 &emsp;(A) maximize the effectiveness, increase the responsiveness, and improve the delivery of Federal programs to rural areas;
 
-&emsp;(B) increase the coordination of Federal programs with the development needs, objectives, and resources of local communities, substate areas, States, and multistate regions; and
+&emsp;(B) increase the coordination of Federal programs with the development needs, objectives,and resources of local communities, substate areas, States, and multistate regions; and
 
 &emsp;(C) achieve the most effective combinations of Federal, State, and local resources to meet the needs of rural areas for orderly growth and development.
 
@@ -86,11 +86,11 @@ The Federal Advisory Committee Act, referred to in subsec. (b)(3), is Pub. L. 92
 
 #### Effective Date
 
-Section 10 of Pub. L. 96–355 provided that: “The provisions of this Act \[enacting this section and section2211b of this title, amending sections 1926, 2204, 2204a, 2204b–1, 2663, and 2667 of this title and section 5314 of Title 5, Government Organization and Employees, and enacting provisions set out as a note under section 2201 of this title\] shall become effective October 1, 1980.”
+Pub. L. 96–355, §10, Sept. 24, 1980, 94 Stat. 1176, provided that: “The provisions of this Act \[enacting this section and section 2211b of this title, amending sections 1926, 2204, 2204a, 2204b–1, 2663, and 2667 of this title and section 5314 of Title 5, Government Organization and Employees, and enacting provisions set out as a note under section 2201 of this title\] shall become effective October 1, 1980.”
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in subsec. (c)(5) of this section relating to transmittal of rural development strategy annual updates to certain committees of Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 44 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in subsec. (c)(5) of this section relating to transmittalof rural development strategy annual updates to certain committees of Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 44 of House Document No. 103–7.
 
 #### Transfer of Functions
 
@@ -98,7 +98,7 @@ Powers, duties, and assets of agencies, offices, and other entities within Depar
 
 #### Simplified, Uniform Application for Assistance From All Federal Rural Development Programs
 
-Section 762 of Pub. L. 104–127 provided that: “Not later than 1 year after the date of enactment of this Act \[Apr. 4, 1996\], the Secretary of Agriculture shall develop a streamlined, simplified, and uniform application which shall be used in applying for assistance under all of the following:
+Pub. L. 104–127, title VII, §762, Apr. 4, 1996, 110 Stat. 1148, provided that: “Not later than 1 year after the date of enactment of this Act \[Apr. 4, 1996\], the Secretary of Agriculture shall develop a streamlined, simplified, and uniform application which shall be used in applying for assistance under all of the following:
 
 &emsp;“(1) Sections 304(b), 306, 306A, 306C, 306D, 310B, and 375 \[former 7 U.S.C. 2008j\] and subtitle E \[7 U.S.C. 2009 et seq.\] of the Consolidated Farm and Rural Development Act (7 U.S.C. 1924(b), 1926, 1926a, 1926c, 1926d, and 1932).
 

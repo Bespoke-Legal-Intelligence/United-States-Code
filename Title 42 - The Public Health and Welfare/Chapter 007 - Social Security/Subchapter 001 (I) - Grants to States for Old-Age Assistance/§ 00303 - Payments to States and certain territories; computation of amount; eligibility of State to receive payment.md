@@ -26,7 +26,7 @@ The method of computing and paying such amounts shall be as follows:
 
 #### Repeal of Section
 
-<i>Pub. L. 92–603, title III, §303(a), (b), Oct. 30, 1972, 86 Stat. 1484, provided that this section is</i><i>repealed effective Jan. 1, 1974, except with respect to Puerto Rico, Guam, and the Virgin Islands.</i>
+<i>Pub. L. 92–603, title III, §303(a), (b), Oct. 30, 1972, 86 Stat. 1484, provided that this section is repealed effective Jan. 1, 1974, except with respect to Puerto Rico, Guam, and the Virgin Islands.</i>
 
 #### Amendments
 
@@ -76,13 +76,13 @@ Subsec. (d). Pub. L. 89–97, §221(a)(4), added subsec. (d).
 
 Subsec. (a)(2). Pub. L. 87–543, §132(a), substituted “$37.50” for “$35.50”, in subpar. (A) and “$45” and “$37.50” for “$43” and “$35.50”, respectively, in subpar. (B).
 
-Subsec. (a)(4). Pub. L. 87–543, §101(a)(1), (b)(1)(A), inserted in opening provisions “whose State plan approved under section 302 of this title meets the requirements of subsection (c) of this section” after “any State”, and substituted provisions which increased the Federal share of expenses of administration of State public assistance plans by providing quarterly payments of the sum of 75 per centum of the quarterly expenses for certain prescribed services to help attain and retain capability for self-care, services likely to prevent or reduce dependency, and services appropriate for individuals who were or are likely to become applicantsfor or recipients of assistance and request such services, and training of State or local public assistance personnel administering such plans and one-half of other administrative expenses for other services, permitted State health or vocational rehabilitation or other appropriate State agencies to furnish such services, except vocational rehabilitation services, and required the determination of the portion of expenses covered by the 75 and 50 per centum provisions in accordance with methods and procedures permitted by the Secretary for former provisions requiring quarterly payments of one-half of quarterly expenses of administration of State plans, including staff services of State or local public assistance agencies to applicants for and recipients of old-age assistance to help them attain self-care.
+Subsec. (a)(4). Pub. L. 87–543, §101(a)(1), (b)(1)(A), inserted in opening provisions “whose State plan approved under section 302 of this title meets the requirements of subsection (c) of this section” after “any State”, and substituted provisions which increased the Federal share of expenses of administration of State public assistance plans by providing quarterly payments of the sum of 75 per centum of the quarterly expenses for certain prescribed services to help attain and retain capability for self-care, services likely to prevent or reduce dependency, and services appropriate for individuals who were or are likely to become applicants for or recipients of assistance and request such services, and training of State or local public assistance personnel administering such plans and one-half of other administrative expenses for other services, permitted State health or vocational rehabilitation or other appropriate State agencies to furnish such services, except vocational rehabilitation services, and required the determination of the portion of expenses covered by the 75 and 50 per centum provisions in accordance with methods and procedures permitted by the Secretary for former provisions requiring quarterly payments of one-half of quarterly expenses of administration of State plans, including staff services of State or local public assistance agencies to applicants for and recipients of old-age assistance to help them attain self-care.
 
 Subsec. (a)(5). Pub. L. 87–543, §101(b)(1)(B), added par. (5).
 
 Subsec. (c). Pub. L. 87–543, §101(b)(1)(C), added subsec. (c).
 
-<b>1961</b>—Subsec. (a)(1). Pub. L. 87–64, §303(a)(1), substituted “$31” for “$30” in subpar. (A), “$66” for “$65” in subpar. (B), and “$81” for “$80” and “$66” for “$65” in subpar. (C).
+<b>1961</b>—Subsec. (a)(1). Pub. L. 87–64, §303(a)(1), substituted “$31” for “$30” in subpar. (A), “$66” for “$65”in subpar. (B), and “$81” for “$80” and “$66” for “$65” in subpar. (C).
 
 Pub. L. 87–31, §5(a), substituted “$80” and “$15” for “$77” and “$12”, respectively, in subpar. (C).
 
@@ -120,7 +120,7 @@ Subsec. (b). Act Aug. 10, 1946, §501(b), temporarily changed references to cl. 
 
 #### Effective Date of 1993 Amendment
 
-Section 13741(c) of Pub. L. 103–66 provided that:
+Pub. L. 103–66, title XIII, §13741(c), Aug. 10, 1993, 107 Stat. 663, provided that:
 
 “(1)
 
@@ -140,7 +140,7 @@ Amendment by section 2353(a) of Pub. L. 97–35 effective, except as otherwise s
 
 #### Effective Date of 1975 Amendment
 
-Section 7 of Pub. L. 93–647, as amended by Pub. L. 94–120, §3, Oct. 21, 1975, 89 Stat. 609; Pub. L. 94–401, §2,Sept. 7, 1976, 90 Stat. 1215, eff. Feb. 1, 1976; Pub. L. 95–171, §1(d), Nov. 12, 1977, 91 Stat. 1353; eff. Oct. 1, 1977, provided that:
+Pub. L. 93–647, §7, Jan. 4, 1975, 88 Stat. 2351, as amended by Pub. L. 94–120, §3, Oct. 21, 1975, 89 Stat. 609; Pub. L. 94–401, §2, Sept. 7, 1976, 90 Stat. 1215, eff. Feb. 1, 1976; Pub. L. 95–171, §1(d), Nov. 12, 1977, 91 Stat. 1353; eff. Oct. 1, 1977, provided that:
 
 “(a)(1) The amendments made by sections 2 and 5 of this Act \[enacting sections 1397 to 1397f of this title and amending this section, sections 603, 1203, and 1353 of this title, and provisions set out as a note under section 1383 of this title\] shall be effective with respect to payments for quarters commencing after September 30, 1975.
 
@@ -150,7 +150,7 @@ Section 7 of Pub. L. 93–647, as amended by Pub. L. 94–120, §3, Oct. 21, 197
 
 &emsp;“(B) the day in the twelve-month period beginning October 1, 1976,
 
-> which is the last day of the twelve-month period established by the State as its services program year under that section. Notwithstanding the provisions of subsection (b) of section 2003 of the Social Security Act, as amended by this Act \[section 1397b(b) of this title\], the aggregate expenditures required by that subsection with respect to the first services program year of each State shall be the amount which bears the same ratio to the amount that would otherwise be required under that subsection as the number of months in the State's first services program year bears to twelve.
+> which is the last day of the twelve-month period established by the State as its services program year underthat section. Notwithstanding the provisions of subsection (b) of section 2003 of the Social Security Act, as amended by this Act \[section 1397b(b) of this title\], the aggregate expenditures required by that subsection with respect to the first services program year of each State shall be the amount which bears the same ratio to the amount that would otherwise be required under that subsection as the number of months in the State's first services program year bears to twelve.
 
 “(3) Notwithstanding paragraph (1) of this subsection or section 3(f) \[set out as a note under section 1397a of this title\], payments under title IV \[subchapter IV of this chapter\] or section 2002(a)(1) of the Social Security Act \[section 1397a(a)(1) of this title\] with respect to expenditures made prior to October 1, 1978, in connection with the provision of child day care services in day care centers and group day care homes, in the case of children between the ages of six weeks and six years, may be made without regard to the requirements relating to staffing standards which are imposed by or under section 2002(a)(9)(A)(ii) of such Act \[section 1397a(a)(9)(A)(ii) of this title\], so long as the staffing standards actually being applied in the provision of the services involved (A) comply with applicable State law (as in effect at the time the services are provided), (B) are no lower than the corresponding staffing standards which were imposed or required by applicable State law on September 15, 1975, and (C) are no lower, in the case of any day care center or group day care home, than the corresponding standards actually being applied in such center or home on September 15, 1975.
 
@@ -158,29 +158,29 @@ Section 7 of Pub. L. 93–647, as amended by Pub. L. 94–120, §3, Oct. 21, 197
 
 #### Effective Date of 1972 Amendment
 
-Section 301(e) of Pub. L. 92–512 provided that: “The amendments made by this section (other than by subsection (b)) \[enacting section 1320b of this title and amending this section and sections 603, 1203, 1253, and 1383\] shall be effective July 1, 1972, and the amendments made by subsection (b) \[amending this section and sections 603, 1203, 1353, and 1383 of this title\] shall be effective January 1, 1973.”
+Pub. L. 92–512, title III, §301(e), Oct. 20, 1972, 86 Stat. 947, provided that: “The amendments made by this section (other than by subsection (b)) \[enacting section 1320b of this title and amending this section and sections 603, 1203, 1253, and 1383\] shall be effective July 1, 1972, and the amendments made by subsection (b) \[amending this section and sections 603, 1203, 1353, and 1383 of this title\] shall be effective January 1, 1973.”
 
 #### Effective Date of 1968 Amendment
 
-Section 212(e) of Pub. L. 90–248 provided that: “The amendments made by the preceding subsections of this section \[amending this section and sections 1203, 1353, and 1383 of this title\] shall take effect January 1, 1968.”
+Pub. L. 90–248, title II, §212(e), Jan. 2, 1968, 81 Stat. 898, provided that: “The amendments made by the preceding subsections of this section \[amending this section and sections 1203, 1353, and 1383 of this title\] shall take effect January 1, 1968.”
 
 #### Effective Date of 1965 Amendment
 
 Amendment by section 221 of Pub. L. 89–97 applicable in the case of expenditures made after Dec. 31, 1965, under a State plan approved under this subchapter, see section 221(e) of Pub. L. 89–97, set out as a note under section 302 of this title.
 
-Section 401(f) of Pub. L. 89–97 provided that: “The amendments made by this section \[amending this section and sections 603, 1203, 1353, and 1383 of this title\] shall apply in the case of expenditures made after December 31, 1965, under a State plan approved under title I, IV, X, XIV, or XVI of the Social Security Act \[subchapter I, IV, X, XIV, or XVI of this chapter\].”
+Pub. L. 89–97, title IV, §401(f), July 30, 1965, 79 Stat. 415, provided that: “The amendments made by this section \[amending this section and sections 603, 1203, 1353, and 1383 of this title\] shall apply in the case of expenditures made after December 31, 1965, under a State plan approved under title I, IV, X, XIV, or XVI of the Social Security Act \[subchapter I, IV, X, XIV, or XVI of this chapter\].”
 
 #### Effective Date of 1962 Amendment
 
-Section 202(d) of Pub. L. 87–543 provided that: “The amendments made by sections 109 and 132 (other than subsections (d) and (e) thereof) \[amending this section and sections 606, 1203, and 1353 of this title\] shall be applicable in the case of expenditures, under a State plan approved under title I, IV, X, or XIV of the Social Security Act \[subchapter I, IV, X, or XIV of this chapter\], as the case may be, made after September 30, 1962.”
+Pub. L. 87–543, title II, §202(d), July 25, 1962, 76 Stat. 208, provided that: “The amendments made by sections 109 and 132 (other than subsections (d) and (e) thereof) \[amending this section and sections 606, 1203, and 1353 of this title\] shall be applicable in the case of expenditures, under a State plan approved under title I, IV, X, or XIV of the Social Security Act \[subchapter I, IV, X, or XIV of this chapter\], as the case may be, made after September 30, 1962.”
 
-Section 202(f) of Pub. L. 87–543 provided that: “The amendments made by section 101(a) \[amending this section and sections 603, 1203, and 1353 of this title\] shall be applicable in the case of expenditures, under a State plan approved under title I, IV, X, or XIV of the Social Security Act \[subchapter I, IV, X, or XIV of this chapter\], as the case may be, made after August 31, 1962. The amendments made by section 101(b) \[amending this section and sections 603, 608, 609, 1203, and 1353 of this title\] shall be applicable in the case of expenditures, under a State plan approved under title I, IV, X, or XIV of the Social Security Act, as the case may be, made after June 30, 1963.”
+Pub. L. 87–543, title II, §202(f), July 25, 1962, 76 Stat. 208, provided that: “The amendments made by section 101(a) \[amending this section and sections 603, 1203, and 1353 of this title\] shall be applicable in the case of expenditures, under a State plan approved under title I, IV, X, or XIV of the Social Security Act \[subchapter I, IV, X, or XIV of this chapter\], as the case may be, made after August 31, 1962. The amendments made by section 101(b) \[amending this section and sections 603, 608, 609, 1203, and 1353 of this title\] shall be applicable in the case of expenditures, under a State plan approved under title I, IV, X, or XIV of the Social Security Act, as the case may be, made after June 30, 1963.”
 
-#### Effective Date of 1961 Amendments
+#### Effective Date of 1961 Amendment
 
-Section 303(e) of Pub. L. 87–64, as amended by Pub. L. 87–543, title I, §132(e), provided that: “The amendments made by subsections (a), (b), and (c) of this section \[amending this section and sections 1203 and 1353 of this title\] shall apply only in the case of expenditures made after September 30, 1961, and before October 1, 1962, under a State plan approved under title I, X, or XIV, as the case may be, of the Social Security Act \[subchapter I, X, or XIV of this chapter\].”
+Pub. L. 87–64, title III, §303(e), June 30, 1961, 75 Stat. 143, as amended by Pub. L. 87–543, title I, §132(e), July 25, 1962, 76 Stat. 196, provided that: “The amendments made by subsections (a), (b), and (c) of this section \[amending this section and sections 1203 and 1353 of this title\] shall apply only in the case of expenditures made after September 30, 1961, and before October 1, 1962, under a State plan approved under title I, X, or XIV, as the case may be, of the Social Security Act \[subchapter I, X, or XIV of this chapter\].”
 
-Section 5(c) of Pub. L. 87–31 provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply in the case of expenditures made after June 30, 1961, under a State plan approved under title I of the Social Security Act \[this subchapter\].”
+Pub. L. 87–31, §5(c), May 8, 1961, 75 Stat. 77, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply in the case of expenditures made after June 30, 1961, under a State plan approved under title I of the Social Security Act \[this subchapter\].”
 
 #### Effective Date of 1960 Amendment
 
@@ -188,7 +188,7 @@ Amendment by Pub. L. 86–778 effective Oct. 1, 1960, see section 604 of Pub. L.
 
 #### Effective Date of 1958 Amendment
 
-Section 512 of Pub. L. 85–840 provided that: “Notwithstanding the provisions of sections 305 and 345 of the Social Security Amendments of 1956, as amended \[set out as notes below\], the amendments made by sections 501, 502, 503, 504, 505, and 506 \[amending this section and sections 603, 1203, 1301, and 1353 of this title\] shall be effective—
+Pub. L. 85–840, title V, §512, Aug. 28, 1958, 72 Stat. 1052, provided that: “Notwithstanding the provisions of sections 305 and 345 of the Social Security Amendments of 1956, as amended \[set out as notes below\], the amendments made by sections 501, 502, 503, 504, 505, and 506 \[amending this section and sections 603, 1203, 1301, and 1353 of this title\] shall be effective—
 
 &emsp;“(1) in the case of money payments, under a State plan approved under title I, IV, X, or XIV of the Social Security Act \[subchapter I, IV, X, or XIV of this chapter\], for months after September 1958, and
 
@@ -198,11 +198,11 @@ Section 512 of Pub. L. 85–840 provided that: “Notwithstanding the provisions
 
 #### Effective and Termination Date of 1956 Amendment
 
-Section 345 of act Aug. 1, 1956, provided that: “The amendments made by this part \[part V (§§341–345) of title III of act Aug. 1, 1956, amending this section and sections 603, 1203, and 1353 of this title\] shall be effective for the period beginning October 1, 1956, and ending with the close of June 30, 1959, and after such amendments cease to be in effect any provision of law amended thereby shall be in full force and effect as though this part had not been enacted.”
+Act Aug. 1, 1956, ch. 836, title III, §345, 70 Stat. 854, provided that: “The amendments made by this part \[part V (§§341–345) of title III of act Aug. 1, 1956, amending this section and sections 603, 1203, and 1353 of this title\] shall be effective for the period beginning October1, 1956, and ending with the close of June 30, 1959, and after such amendments cease to be in effect any provision of law amended thereby shall be in full force and effect as though this part had not been enacted.”
 
 #### Effective Date of 1956 Amendment
 
-Section 305 of act Aug. 1, 1956, as amended by Pub. L. 85–110, July 17, 1957, 71 Stat. 308, provided that:
+Act Aug. 1, 1956, ch. 836, title III, §305, 70 Stat. 848, as amended by Pub. L. 85–110, July 17, 1957, 71 Stat. 308, provided that:
 
 “(a) Except as provided in subsection (b), the amendments made by this part \[part I (§§301–305) of title III of act Aug. 1, 1956, amending this section and sections 603, 1203, and 1353 of this title\] shall become effective July 1, 1957.
 
@@ -210,23 +210,23 @@ Section 305 of act Aug. 1, 1956, as amended by Pub. L. 85–110, July 17, 1957, 
 
 #### Effective and Termination Date of 1952 Amendment
 
-Section 8(e) of act July 18, 1952, as amended by act Sept. 1, 1954, title III, §301, provided that: “The amendments made by this section \[amending this section and sections 603, 1203, and 1353 of this title\] shall be effective for the period beginning October 1, 1952, and ending with the close of September 30, 1956, and after such amendments cease to be in effect any provision of law amended thereby shall be in full force and effect as though this Act \[July 18, 1952\] had not been enacted.”
+Act July 18, 1952, ch. 945, §8(e), 66 Stat. 780, as amended by act Sept. 1, 1954, ch. 1206, title III, §301, 68 Stat. 1097, provided that: “The amendments made by this section \[amending this section and sections 603, 1203, and 1353 of this title\] shall be effective for the period beginning October 1, 1952, and ending with the close of September 30, 1956, and after such amendments cease to be in effect any provision of law amended thereby shall be in full force and effect as though this Act \[July 18, 1952\] had not been enacted.”
 
 #### Effective Date of 1950 Amendment
 
-Section 302(b) of act Aug. 28, 1950, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect October 1, 1950.”
+Act Aug. 28, 1950, ch. 809, title III, §302(b), 64 Stat. 549, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect October 1, 1950.”
 
 #### Effective Date of 1948 Amendment
 
-Section 3(d) of act June 14, 1948, provided that: “The amendments made by this section \[amending this section and sections 603 and 1203 of this title\] shall become effective on October 1, 1948.”
+Act June 14, 1948, ch. 468, §3(d), 62 Stat. 440, provided that: “The amendments made by this section \[amending this section and sections 603 and 1203 of this title\] shall become effective on October 1, 1948.”
 
 #### Effective and Termination Date of 1946 Amendment
 
-Section 504 of act Aug. 10, 1946, as amended by act Aug. 6, 1947, ch. 510, §3, 61 Stat. 794, provided that: “Sections 501, 502, and 503 \[amending this section and sections 603 and 1203 of this title\] shall be effective with respect to the period commencing October 1, 1946, and ending on June 30, 1950.”
+Act Aug. 10, 1946, ch. 951, title V, §504, 60 Stat. 993, as amended by act Aug. 6, 1947, ch. 510, §3, 61 Stat. 794, provided that: “Sections 501, 502, and 503 \[amending this section and sections 603 and 1203 of this title\] shall be effective with respect to the period commencing October 1, 1946, and ending on June 30, 1950.”
 
 #### Effective Date of 1939 Amendment
 
-Section 102 of act Aug. 10, 1939, provided that the amendment made by that section is effective Jan. 1, 1940.
+Act Aug. 10, 1939, ch. 666, title I, §102, 53 Stat. 1361, provided that the amendment made by that section is effective Jan. 1, 1940.
 
 #### Transfer of Functions
 

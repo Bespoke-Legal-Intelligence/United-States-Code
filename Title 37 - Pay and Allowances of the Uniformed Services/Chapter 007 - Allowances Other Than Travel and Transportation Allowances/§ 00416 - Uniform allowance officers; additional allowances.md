@@ -64,9 +64,9 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Save Pay Provision
 
-Section 663(b) of Pub. L. 101–189 provided that: “An officer of an armed force who, but for the amendments made by subsection (a) \[amending this section\], would have become entitled to a uniform reimbursement under section 416(a) of title 37, United States Code, before the end of the one-year period beginning on the date of the enactment of this Act \[Nov. 29, 1989\] shall be entitled (during such one-year period) to receive such reimbursement under such section as in effect on the day before the date of the enactment of this Act.”
+Pub. L. 101–189, div. A, title VI, §663(b), Nov. 29, 1989, 103 Stat. 1465, provided that: “An officer of an armed force who, but for the amendments made by subsection (a) \[amending this section\], would have become entitled to a uniform reimbursement under section 416(a) of title 37, United States Code, before the end of the one-year period beginning on the date of the enactment of this Act \[Nov. 29, 1989\] shall be entitled (during such one-year period) to receive such reimbursement under such section as in effect on the day before the date of the enactment of this Act.”
 
 #### Allowance for Service Prior to October 3, 1964
 
-Section 2 of Pub. L. 88–624 provided that: “The amendments made by this Act \[amending this section\] do not entitle an officer to an allowance for any 4-year period of service completed prior to the effective date of this Act \[Oct. 3, 1964\].”
+Pub. L. 88–624, §2, Oct. 3, 1964, 78 Stat. 1002, provided that: “The amendments made by this Act \[amending this section\] do not entitle an officer to an allowance for any 4-year period of service completed prior to the effective date of this Act \[Oct. 3, 1964\].”
 

@@ -50,7 +50,7 @@ Notwithstanding any other provision of this section, the Secretary shall conside
 
 #### (d) Exclusion
 
-For purposes of this chapter, the term “homeless” or “homeless individual” does not include any individual imprisoned or otherwise detained pursuant to an Act of the Congress or a State law.
+For purposes of this chapter, the term “homeless” or “homeless individual” does not include any individual imprisoned or otherwise detainedpursuant to an Act of the Congress or a State law.
 
 #### (e) Persons experiencing homelessness
 
@@ -82,7 +82,7 @@ Pub. L. 111–22, div. B, title V, §1503, May 20, 2009, 123 Stat. 1702, provide
 
 &emsp;“(1) the expiration of the 18-month period beginning on the date of the enactment of this division \[May 20, 2009\], or
 
-&emsp;“(2) the expiration of the 3-month period beginning upon publication by the Secretary of Housing and Urban Development of final regulations pursuant to section 1504 \[set out as a note under section 11301 of this title\],
+&emsp;“(2) the expiration of the 3-month period beginning upon publication by the Secretary of Housing and Urban Development of final regulations pursuant to section 1504 \[the first final regulations pursuant to section 1503 (42 U.S.C. 11301 note) were published on Dec. 5, 2011, see 76 F.R. 75994\],
 
 > whichever occurs first.”
 

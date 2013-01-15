@@ -18,7 +18,7 @@
 
 (1) A person is guilty of an offense if the person commits any act prohibited by section 5009(5), (6), (7), or (8) of this title.
 
-(2) Any offense described in paragraph (1) is a class A misdemeanor punishable by a fine under title 18 or imprisonment for not more than 6months, or both; except that if in the commission of any offense the person uses a dangerous weapon, engages in conduct that causes bodily injury to any enforcement officer, or places any such officer in fear of imminent bodily injury, the offense is a felony punishable by a fine under title 18 or imprisonment for not more than 10 years, or both.
+(2) Any offense described in paragraph (1) is a class A misdemeanor punishable by a fine under title 18 or imprisonment for not more than 6 months, or both; except that if in the commission of any offense the person uses a dangerous weapon, engages in conduct that causes bodily injury to any enforcement officer, or places any such officer in fear of imminent bodily injury, the offense is a felony punishable by a fine under title 18 or imprisonment for not more than 10 years, or both.
 
 #### (c) Forfeiture
 

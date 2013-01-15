@@ -12,7 +12,7 @@ Except with respect to the States of Alaska and Hawaii, the Secretary shall give
 
 &emsp;(2) the clinical training of the school to be improved shall emphasize care and preventive medical programs for food animals and companion animals (including horses) which support industries of major economic importance; and
 
-&emsp;(3) the Secretary may set aside a portion of funds appropriated for the award of grants under this section and make such amounts available only for grants to eligible colleges and universities that the Secretary determines have unique capabilities for achieving the objective of full participation of minority groups in research in the Nation's schools of veterinary medicine.
+&emsp;(3) the Secretary may set aside a portion of funds appropriated for the award of grants under this section and make such amounts available only for grants to eligible colleges and universities that the Secretary determines have unique capabilities for achievingthe objective of full participation of minority groups in research in the Nation's schools of veterinary medicine.
 
 > Notwithstanding clause (1) of this subsection, no State which the Secretary determines has made a reasonable effort to establish appropriate cooperative agreements shall be denied a grant or otherwise prejudiced because of its failure to establish such cooperative agreements.
 

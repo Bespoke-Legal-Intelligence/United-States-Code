@@ -16,7 +16,7 @@ All surplus chimpanzees owned by the Federal Government shall be accepted into t
 
 #### (1) In general
 
-&emsp;Not later than 180 days after December 20, 2000, the Secretary shall by regulation establish standards for operating the sanctuary system to provide for the permanent retirement of surplus chimpanzees. In establishing the standards, the Secretary shall consider the recommendations of the board of directors of the nonprofit private entity that receives the contract under subsection (e) of this section, and shall consider the recommendations of the National Research Council applicable to surplus chimpanzees that are made in the report published in 1997 and entitled “Chimpanzees in Research—Strategies for Their Ethical Care, Management, and Use”.
+&emsp;Not later than 180 days after December 20, 2000, the Secretary shall by regulation establish standards for operating the sanctuary system to provide for the permanent retirement of surplus chimpanzees. In establishing the standards, the Secretary shall consider the recommendations of the board of directors of the nonprofit private entity that receives thecontract under subsection (e) of this section, and shall consider the recommendations of the National Research Council applicable to surplus chimpanzees that are made in the report published in 1997 and entitled “Chimpanzees in Research—Strategies for Their Ethical Care, Management, and Use”.
 
 #### (2) Chimpanzees accepted into system
 
@@ -142,7 +142,7 @@ All surplus chimpanzees owned by the Federal Government shall be accepted into t
 
 &emsp;The agreement required in paragraph (2)(E) for a nonprofit private entity (relating to the award of the contract under paragraph (1)) is an agreement that, with respect to the costs to be incurred by the entity in establishing and operating the sanctuary system, the entity will make available (directly or through donations from public or private entities) non-Federal contributions toward such costs, in cash or in kind, in an amount not less than the following, as applicable:
 
-&emsp;&emsp;(A) For expenses associated with establishing the sanctuary system (as determined by the Secretary), 10 percent of such costs ($1 for each $9 of Federal funds provided under the contract under paragraph (1)).
+&emsp;&emsp;(A) For expenses associated with establishing the sanctuary system (as determined bythe Secretary), 10 percent of such costs ($1 for each $9 of Federal funds provided under the contract under paragraph (1)).
 
 &emsp;&emsp;(B) For expenses associated with operating the sanctuary system (as determined by the Secretary), 25 percent of such costs ($1 for each $3 of Federal funds provided under such contract).
 

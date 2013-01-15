@@ -40,7 +40,7 @@ The Secretary shall, through the National Resource Center on Sexual Assault esta
 
 #### (2) Studies
 
-&emsp;A State may not use more than 2 percent of the amount received by the State under this section for each fiscal year for surveillance studies or prevalence studies.
+&emsp;A State may not use more than 2 percent of the amount received by the State under thissection for each fiscal year for surveillance studies or prevalence studies.
 
 #### (3) Administration
 

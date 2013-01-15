@@ -1,12 +1,12 @@
-### §406. Employees of foreign affiliates covered by section 3121(<i>l</i>) agreements
+### §406. Employees of foreign affiliates covered by section 3121(l) agreements
 
 #### (a) Treatment as employees of American employer
 
-For purposes of applying this part with respect to a pension, profit-sharing, or stock bonus plan described in section 401(a) or an annuity plan described in section 403(a), of an American employer (as defined in section 3121(h)), an individual who is a citizen or resident of the United States and who is an employee of a foreign affiliate (as defined in section 3121(<i>l</i>)(6)) of such American employer shall be treated as an employee of such American employer, if—
+For purposes of applying this part with respect to a pension, profit-sharing, or stock bonus plan described in section 401(a) or an annuity plan described in section 403(a), of an American employer (as defined in section 3121(h)), an individual who is a citizen or resident of the United States and who is an employee of a foreign affiliate (as defined in section 3121(l)(6)) of such American employer shall be treated as an employee of such American employer, if—
 
-&emsp;(1) such American employer has entered into an agreement under section 3121(<i>l</i>) which applies to the foreign affiliate of which such individual is an employee;
+&emsp;(1) such American employer has entered into an agreement under section 3121(l) which applies to the foreign affiliate of which such individual is an employee;
 
-&emsp;(2) the plan of such American employer expressly provides for contributions or benefits for individuals who are citizens or residents of the United States and who are employees of its foreign affiliates to which an agreement entered into by such American employer under section 3121(<i>l</i>) applies; and
+&emsp;(2) the plan of such American employer expressly provides for contributions or benefits for individuals who are citizens or residents of the United States and who are employees of its foreign affiliates to which an agreement entered into by such American employer under section 3121(l) applies; and
 
 &emsp;(3) contributions under a funded plan of deferred compensation (whether or not a plan described in section 401(a) or 403(a)) are not provided by any other person with respect to the remuneration paid to such individual by the foreign affiliate.
 
@@ -32,7 +32,7 @@ For purposes of applying this part with respect to a pension, profit-sharing, or
 
 #### (d) Deductibility of contributions
 
-For purposes of applying section 404 with respect to contributions made to or under a pension, profit-sharing, stock bonus, or annuity plan by an American employer, or by another taxpayer which is entitled to deduct its contributions under section 404(a)(3)(B), on behalf of an individual who is treated as an employee of such American employer under subsection (a)—
+For purposes of applying section 404 with respect to contributions made to or under a pension, profit-sharing, stock bonus, or annuityplan by an American employer, or by another taxpayer which is entitled to deduct its contributions under section 404(a)(3)(B), on behalf of an individual who is treated as an employee of such American employer under subsection (a)—
 
 &emsp;(1) except as provided in paragraph (2), no deduction shall be allowed to such American employer or to any other taxpayer which is entitled to deduct its contributions under such sections,
 
@@ -60,13 +60,13 @@ Subsec. (e)(2), (3). Pub. L. 104–188, §1402(b)(2), redesignated par. (3) as (
 
 <b>1992</b>—Subsec. (c). Pub. L. 102–318 substituted “402(d)” for “402(e)”.
 
-<b>1989</b>—Subsec. (a). Pub. L. 101–239, §10201(b)(1), substituted “3121(<i>l</i>)(6)” for “3121(<i>l</i>)(8)”.
+<b>1989</b>—Subsec. (a). Pub. L. 101–239, §10201(b)(1), substituted “3121(l)(6)” for “3121(l)(8)”.
 
 Subsec. (b)(1)(A). Pub. L. 101–239, §7831(f), made technical correction to Pub. L. 99–514, §1114(b)(9)(A), see 1986 Amendment note below.
 
 Subsec. (c). Pub. L. 101–239, §7811(g)(3), substituted “purposes of limitation” for “purposes limitation” in heading.
 
-Subsec. (c)(3). Pub. L. 101–239, §10201(b)(2), substituted “3121(<i>l</i>)(6)(B)” for “3121(<i>l</i>)(8)(B)”.
+Subsec. (c)(3). Pub. L. 101–239, §10201(b)(2), substituted “3121(l)(6)(B)” for “3121(l)(8)(B)”.
 
 <b>1988</b>—Subsec. (c). Pub. L. 100–647, §1011A(b)(16), struck out “of capital gain provisions and” after “service for purposes” in heading and substituted “applying section 402(e)” for “applying subsections (a)(2) and (e) of section 402, and section 403(a)(2)” in text.
 
@@ -88,7 +88,7 @@ Subsec. (d). Pub. L. 98–369, §491(d)(15)(A), (B), substituted in introductory
 
 Subsec. (d)(2). Pub. L. 98–369, §491(d)(15)(C), struck out “(or section 405(c))” after “section 404”.
 
-<b>1983</b>—Pub. L. 98–21, §321(e)(2)(D)(i), substituted “Employees of foreign affiliates covered by section 3121(<i>l</i>) agreements” for “Certain employees of foreign subsidiaries” in section catchline.
+<b>1983</b>—Pub. L. 98–21, §321(e)(2)(D)(i), substituted “Employees of foreign affiliates covered by section 3121(l) agreements” for “Certain employees of foreign subsidiaries” in section catchline.
 
 Subsec. (a). Pub. L. 98–21, §321(c), amended subsec. (a) generally, substituting “American employer” for “domestic corporation” in heading and in text wherever appearing, inserting reference to section 3121(h) of this title, inserting “or resident” after “citizen” wherever appearing, substituting “foreign affiliate” for “foreign subsidiary” wherever appearing, and “foreign affiliates” for “foreign subsidiaries”.
 
@@ -96,7 +96,7 @@ Subsec. (b). Pub. L. 98–21, §321(e)(2)(A), substituted reference to an Americ
 
 Subsec. (c). Pub. L. 98–21, §321(e)(2)(A), substituted reference to an American employer for reference to a domestic corporation, and reference to an affiliate for reference to a subsidiary, wherever appearing in provisions preceding par. (1) and in pars. (1) and (2).
 
-Subsec. (c)(3). Pub. L. 98–21, §321(e)(2)(A), (B), substituted “foreign affiliate by reason of which he is treated as an employee of such American employer, if he becomes an employee of another entity in which such American employer has not less than a 10-percent interest (within the meaning of section 3121(<i>l</i>)(8)(B)” for “foreign subsidiary by reason of which he is treated as an employee of such domestic corporation, if he becomes an employee of another corporation controlled by such domestic corporation”.
+Subsec. (c)(3). Pub. L. 98–21, §321(e)(2)(A), (B), substituted “foreign affiliate by reason of which he is treated as an employee of such American employer, if he becomes an employee of another entity in which such American employer has not less than a 10-percent interest (within the meaning of section 3121(l)(8)(B)” for “foreign subsidiary by reason of which he is treated as an employee of such domestic corporation, if he becomes an employee of another corporation controlled by such domestic corporation”.
 
 Subsec. (d). Pub. L. 98–21, §321(e)(2)(A), (C), substituted references to an American employer for references to a domestic corporation and reference to an affiliate for a reference to a subsidiary wherever appearing, substituted “another taxpayer” for “another corporation” in provisions preceding par. (1), and substituted “any other taxpayer” for “any other corporation” in par. (1).
 
@@ -126,7 +126,7 @@ Amendment by section 7811(g)(3) of Pub. L. 101–239 effective, except as otherw
 
 Amendment by section 7831(f) of Pub. L. 101–239 effective as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7831(g) of Pub. L. 101–239, set out as a note under section 1 of this title.
 
-Section 10201(c) of Pub. L. 101–239 provided that: “The amendments made by this section \[amending this section, section 3121 of this title, and section 410 of Title 42, The Public Health and Welfare\] shall apply with respect to any agreement in effect under section 3121(<i>l</i>) of the Internal Revenue Code of 1986 on or after June 15, 1989, with respect to which no notice of termination is in effect on such date.”
+Pub. L. 101–239, title X, §10201(c), Dec. 19, 1989, 103 Stat. 2472, provided that: “The amendments made by this section \[amending this section, section 3121 of this title, and section 410 of Title 42, The Public Health and Welfare\] shall apply with respect to any agreement in effect under section 3121(l) of the Internal Revenue Code of 1986 on or after June 15, 1989, with respect to which no notice of termination is in effect on such date.”
 
 #### Effective Date of 1988 Amendment
 
@@ -138,7 +138,7 @@ Amendment by section 1112(d)(3) of Pub. L. 99–514 applicable to plan years beg
 
 Amendment by section 1114(b)(9)(A), (C) of Pub. L. 99–514 applicable to years beginning after Dec. 31, 1988, see section 1114(c)(3) of Pub. L. 99–514, set out as a note under section 414 of this title.
 
-Section 1852(e)(2)(E) of Pub. L. 99–514 provided that: “The amendments made by this paragraph \[amending this section and section 407 of this title and repealing section 2517 of this title\] shall apply to transfers after the date of the enactment of this Act \[Oct. 22, 1986\].”
+Pub. L. 99–514, title XVIII, §1852(e)(2)(E), Oct. 22, 1986, 100 Stat. 2868, provided that: “The amendments made by this paragraph \[amending this section and section 407 of this title and repealing section 2517 of this title\] shall apply to transfers after the date of the enactment of this Act \[Oct. 22, 1986\].”
 
 #### Effective Date of 1984 Amendment
 
@@ -146,7 +146,7 @@ Amendment by Pub. L. 98–369 applicable to obligations issued after Dec. 31, 19
 
 #### Effective Date of 1983 Amendment
 
-Section 321(f) of Pub. L. 98–21 provided that:
+Pub. L. 98–21, title III, §321(f), Apr. 20, 1983, 97 Stat. 120, provided that:
 
 “(1)(A) The amendments made by this section \[amending this section and sections 407, 1402, 3121, and 6413 of this title and section 410 of Title 42, The Public Health and Welfare\] (other than subsection (d) \[amending section 407 of this title\]) shall apply to agreements entered into after the date of the enactment of this Act \[Apr. 20, 1983\].
 
@@ -168,7 +168,7 @@ Amendment by Pub. L. 91–172 applicable to taxable years ending after Dec. 31, 
 
 #### Effective Date
 
-Section 220(d) of Pub. L. 88–272 provided that: “The amendments made by subsections (a) \[enacting this section\], (b) \[enacting section 407 of this title\], and (c)(1) \[amending the analysis preceding section 401 of this title\] shall apply to taxable years ending after December 31, 1963. The amendments made by subsections (c)(2) \[amending section 3121 of this title\] and (3) \[amending section 409 of Title 42, The Public Health and Welfare\] shall apply to remuneration paid after December 31, 1962.”
+Pub. L. 88–272, title II, §220(d), Feb. 26, 1964, 78 Stat. 63, provided that: “The amendments made by subsections (a) \[enacting this section\], (b) \[enacting section 407 of this title\], and (c)(1) \[amending the analysis preceding section 401 of this title\] shall apply to taxable years ending after December 31, 1963. The amendments made by subsections (c)(2) \[amending section 3121 of this title\] and (3) \[amending section 409 of Title 42, The Public Health and Welfare\] shall apply to remuneration paid after December 31, 1962.”
 
 #### Regulations
 
@@ -176,7 +176,7 @@ Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final re
 
 #### Plan Amendments Not Required Until January 1, 1998
 
-For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L.104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1994
 
@@ -184,5 +184,5 @@ For provisions directing that if any amendments made by subtitle B \[§§521–5
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before thefirst plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

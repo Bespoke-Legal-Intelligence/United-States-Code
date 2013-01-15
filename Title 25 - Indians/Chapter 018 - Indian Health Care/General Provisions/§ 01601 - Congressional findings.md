@@ -26,7 +26,7 @@ Amendment by Pub. L. 111–148 is based on section 102 of title I of S. 1790, On
 
 #### Short Title of 2010 Amendment
 
-Section 1(a) of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935, provided that: “This Act \[probably means S. 1790 as enacted into law by Pub. L. 111–148, enacting subchapter V–A of this chapter, sections 1616p to 1616r, 1621y, 1638a, 1638e to 1638g, 1647 to 1647d, 1660d to 1660h, 1663, 1663a, 1675, 1678, 1678a, 1679, and 1680p to 1680v of this title, amending sections 1601 to 1603, 1615, 1616<i>l</i>, 1621, 1621a, 1621c to 1621f, 1621h, 1621j to 1621m, 1621<i>o</i> to 1621q, 1621t to 1621v, 1631, 1637, 1638b, 1641, 1642, 1644, 1645, 1652, 1659, 1660b, 1661, 1680b, 1680c, 1680<i>l</i>, and 1680<i>o</i> of this title and sections 1395<i>l</i>, 1395qq, 11705, 11706, 11709, and 11711 of Title 42, The Public Health and Welfare, repealing sections 1616p, 1621w, 1638a, 1647, 1660d, 1663, 1675, 1678, 1679, and 1680k of this title, and enacting provisions set out as a note under section 11705 of Title 42\] may be cited as the ‘Indian Health Care Improvement Reauthorization and Extension Act of 2009’.”
+Section 1(a) of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935, provided that: “This Act \[probably means S. 1790 as enacted into law by Pub. L. 111–148, enacting subchapter V–A of this chapter, sections 1616p to 1616r, 1621y, 1638a, 1638e to 1638g, 1647 to 1647d, 1660d to 1660h, 1663, 1663a, 1675, 1678, 1678a, 1679, and 1680p to 1680v of this title, amending sections 1601 to 1603, 1615, 1616l, 1621, 1621a, 1621c to 1621f, 1621h, 1621j to 1621m, 1621o to 1621q, 1621t to 1621v, 1631, 1637, 1638b, 1641, 1642, 1644, 1645, 1652, 1659, 1660b, 1661, 1680b, 1680c, 1680l, and 1680o of this title and sections 1395l, 1395qq, 11705, 11706, 11709, and 11711 of Title 42, The Public Health and Welfare, repealing sections 1616p, 1621w, 1638a, 1647, 1660d, 1663, 1675, 1678, 1679, and 1680k of this title, and enacting provisions set out as a note under section 11705 of Title 42\] may be cited as the ‘Indian Health Care Improvement Reauthorization and Extension Act of 2009’.”
 
 #### Short Title of 2000 Amendment
 
@@ -38,7 +38,7 @@ Pub. L. 104–313, §1(a), Oct. 19, 1996, 110 Stat. 3820, provided that: “This
 
 #### Short Title of 1992 Amendment
 
-Section 1 of Pub. L. 102–573 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Indian Health Amendments of 1992’.”
+Pub. L. 102–573, §1, Oct. 29, 1992, 106 Stat. 4526, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Indian Health Amendments of 1992’.”
 
 #### Short Title of 1990 Amendment
 
@@ -54,7 +54,7 @@ Pub. L. 96–537, §1(a), Dec. 17, 1980, 94 Stat. 3173, provided that: “this A
 
 #### Short Title
 
-Section 1 of Pub. L. 94–437 provided: “That this Act \[enacting this chapter and sections 1395qq and 1396j of Title 42, The Public Health and Welfare, amending sections 234, 1395f, 1395n, and 1396d of Title 42, and enacting provisions set out as notes under section 1671 of this title and sections 1395qq and 1396j of Title 42\] may be cited as the ‘Indian Health Care Improvement Act’.”
+Pub. L. 94–437, §1, Sept. 30, 1976, 90 Stat. 1400, provided: “That this Act \[enacting this chapter and sections 1395qq and 1396j of Title 42, The Public Health and Welfare, amending sections 234, 1395f, 1395n, and 1396d of Title 42, and enacting provisions set out as notes under section 1671 of this title and sections 1395qq and 1396j of Title 42\] may be cited as the ‘Indian Health Care Improvement Act’.”
 
 #### Separability
 

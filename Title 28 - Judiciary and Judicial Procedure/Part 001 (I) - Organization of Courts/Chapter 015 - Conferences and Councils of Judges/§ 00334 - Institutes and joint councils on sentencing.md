@@ -12,5 +12,5 @@
 
 #### Sentencing Procedures
 
-Section 7 of Pub. L. 85–752 provided that: “This Act \[enacting this section, sections 4208 and 4209 of Title 18, Crimes and Criminal Procedure, and provisions set out as a note under section 4208 of Title 18\] does not apply to any offense for which there is provided a mandatory penalty.”
+Pub. L. 85–752, §7, Aug. 25, 1958, 72 Stat. 847, provided that: “This Act \[enacting this section, sections 4208 and 4209 of Title 18, Crimes and Criminal Procedure, and provisions set out as a note under section 4208 of Title 18\] does not apply to any offense for which there is provided a mandatory penalty.”
 

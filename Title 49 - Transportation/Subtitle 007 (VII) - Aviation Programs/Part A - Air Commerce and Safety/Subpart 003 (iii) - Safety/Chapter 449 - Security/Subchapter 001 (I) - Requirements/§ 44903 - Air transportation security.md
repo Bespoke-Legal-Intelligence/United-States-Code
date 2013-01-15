@@ -38,13 +38,13 @@ Security Programs.—(1) The Under Secretary shall prescribe regulations under s
 
 &emsp;(i) the measures the tenant will use, within the tenant's leased areas or areas designated for the tenant's exclusive use under an agreement with the airport operator, to carry out the security requirements imposed by the Under Secretary on the airport operator under the access control system requirements of section 107.14 of title 14, Code of Federal Regulations, or under other requirements of part 107 of title 14; and
 
-&emsp;(ii) the methods the airport operator will use to monitor and audit the tenant's compliancewith the security requirements and provides that the tenant will be required to pay monetary penalties to the airport operator if the tenant fails to carry out a security requirement under a contractual provision or requirement imposed by the airport operator.
+&emsp;(ii) the methods the airport operator will use to monitor and audit the tenant's compliance with the security requirements and provides that the tenant will be required to pay monetary penalties to the airport operator if the tenant fails to carry out a security requirement under a contractual provision or requirement imposed by the airport operator.
 
 (B) If the Under Secretary approves a program or amendment described in subparagraph (A) of this paragraph, the airport operator may not be found to be in violation of a requirement of this subsection or subsection (b) of this section when the airport operator demonstrates that the tenant or an employee, permittee, or invitee of the tenant is responsible for the violation and that the airport operator has complied with all measures in its security program for securing compliance with its security program by the tenant.
 
 (C)
 
-Maximum use of chemical and biological weapon detection equipment.—The Secretary of Transportation may require airports to maximize the use of technology and equipment that is designed to detect or neutralize potential chemical or biological weapons.
+Maximum use of chemical and biological weapon detection equipment.—The Secretaryof Transportation may require airports to maximize the use of technology and equipment that is designed to detect or neutralize potential chemical or biological weapons.
 
 (3)
 
@@ -110,7 +110,7 @@ In general.—The Under Secretary, in consultation with the airport operator and
 
 &emsp;(2)
 
-Security of aircraft and ground access to secure areas.—In determining where to deploy such personnel, the Under Secretary shall consider the physical security needs of air traffic control facilities, parked aircraft, aircraft servicing equipment, aircraft supplies (including fuel), automobile parking facilities within airport perimeters or adjacent to secured facilities, and access and transition areas at airports served by other means of ground or water transportation.
+Security of aircraft and ground access to secure areas.—In determining where to deploy such personnel, the Under Secretary shall consider the physical security needs of air traffic control facilities, parked aircraft, aircraft servicing equipment, aircraft supplies (including fuel), automobile parking facilities within airport perimeters or adjacent to secured facilities, and access and transitionareas at airports served by other means of ground or water transportation.
 
 &emsp;(3)
 
@@ -176,7 +176,7 @@ Program requirements.—The program shall—
 
 &emsp;&emsp;&emsp;(iv) apply to all Federal, State, local, tribal, and territorial government law enforcement agencies; and
 
-&emsp;&emsp;&emsp;(v) establish a process by which the travel credential or system may be used to verify the identity, using biometric technology, of a Federal, State, local, tribal, orterritorial law enforcement officer seeking to carry a weapon on board a commercial aircraft, without unnecessarily disclosing to the public that the individual is a law enforcement officer.
+&emsp;&emsp;&emsp;(v) establish a process by which the travel credential or system may be used to verify the identity, using biometric technology, of a Federal, State, local, tribal, or territorial law enforcement officer seeking to carry a weapon on board a commercial aircraft, without unnecessarily disclosing to the public that the individual is a law enforcement officer.
 
 &emsp;&emsp;(C)
 
@@ -262,7 +262,7 @@ In general.—The Under Secretary of Transportation for Security shall recommend
 
 &emsp;&emsp;(E) specifically target the elimination of the “piggy-backing” phenomenon, where another person follows an authorized person through the access point.
 
-> &emsp;The 6-month assessment shall include a 12-month deployment strategy for currentlyavailable technology at all category X airports, as defined in the Federal Aviation Administration approved air carrier security programs required under part 108 of title 14, Code of Federal Regulations. Not later than 18 months after the date of enactment of this Act, the Secretary of Transportation shall conduct a review of reductions in unauthorized access at these airports.
+> &emsp;The 6-month assessment shall include a 12-month deployment strategy for currently available technology at all category X airports, as defined in the Federal Aviation Administration approved air carrier security programs required under part 108 of title 14, Code of Federal Regulations. Not later than 18 months after the date of enactment of this Act, the Secretary of Transportation shall conduct a review of reductions in unauthorized access at these airports.
 
 &emsp;(2)
 
@@ -380,7 +380,7 @@ Definition.—In this paragraph, the term “secure area of an airport” means 
 
 Limitation on Liability for Acts To Thwart Criminal Violence or Aircraft Piracy.—An individual shall not be liable for damages in any action brought in a Federal or State court arising out of the acts of the individual in attempting to thwart an act of criminal violence or piracy on an aircraft if that individual reasonably believed that such an act of criminal violence or piracy was occurring or was about to occur.
 
-(<i>l</i>)
+(l)
 
 Air Charter Program.—
 
@@ -514,13 +514,13 @@ Subsec. (h)(5) to (7). Pub. L. 108–458, §4011(a)(2), added pars. (5) to (7).
 
 Subsec. (j)(2)(C) to (H). Pub. L. 108–458, §4012(a)(1), added subpars. (C) to (H).
 
-<b>2003</b>—Subsec. (<i>l</i>). Pub. L. 108–176 added subsec. (<i>l</i>).
+<b>2003</b>—Subsec. (l). Pub. L. 108–176 added subsec. (l).
 
 <b>2002</b>—Subsec. (h). Pub. L. 107–296, §1406(3), redesignated subsec. (h), relating to limitation on liability for acts to thwart criminal violence or aircraft piracy, as (k).
 
 Pub. L. 107–296, §1406(2), redesignated subsec. (h), relating to authority to arm flight deck crews with less-than-lethal weapons, as (i).
 
-Subsec. (i). Pub. L. 107–296, §1406(2), redesignated subsec. (h), relating to authority to arm flight deck crews with less-than-lethal weapons, as (i). Former subsec. (i) redesignated (j).
+Subsec. (i). Pub. L. 107–296, §1406(2), redesignated subsec. (h), relating to authority to arm flight deck crewswith less-than-lethal weapons, as (i). Former subsec. (i) redesignated (j).
 
 Subsec. (i)(1). Pub. L. 107–296, §1405(b)(1), substituted “If the Under Secretary” for “If the Secretary” and “the Under Secretary may” for “the Secretary may”.
 
@@ -808,7 +808,7 @@ Pub. L. 107–71, title I, §106(e), Nov. 19, 2001, 115 Stat. 610, provided that
 
 #### Airline Computer Reservation Systems
 
-Pub. L. 107–71, title I, §117, Nov. 19, 2001, 115 Stat. 624, provided that: “In order to ensure that all airline computer reservation systems maintained by United States air carriers are secure from unauthorized access by persons seeking information on reservations, passengermanifests, or other nonpublic information, the Secretary of Transportation shall require all such air carriers to utilize to the maximum extent practicable the best technology available to secure their computer reservation system against such unauthorized access.”
+Pub. L. 107–71, title I, §117, Nov. 19, 2001, 115 Stat. 624, provided that: “In order to ensure that all airline computer reservation systems maintained by United States air carriers are secure from unauthorized access by persons seeking information on reservations, passenger manifests, or other nonpublic information, the Secretary of Transportation shall require all such air carriers to utilize to the maximum extent practicable the best technology available to secure their computer reservation system against such unauthorized access.”
 
 #### Authorization of Funds for Reimbursement of Airports for Security Mandates
 
@@ -820,7 +820,7 @@ Airport Security.—There is authorized to be appropriated to the Secretary of T
 
 “(b)
 
-Documentation of Costs; Audit.—The Secretary may not reimburse an airport operator, on-airport parking lot, or vendor of on-airfield direct services to air carriers under this section for any cost for which the airport operator, on-airport parking lot, or vendor of on-airfield direct services does not demonstrate to the satisfaction of the Secretary, using sworn financial statements or other appropriate data, that—
+Documentation of Costs; Audit.—The Secretary may not reimburse an airport operator, on-airport parking lot, or vendor of on-airfield direct services toair carriers under this section for any cost for which the airport operator, on-airport parking lot, or vendor of on-airfield direct services does not demonstrate to the satisfaction of the Secretary, using sworn financial statements or other appropriate data, that—
 
 &emsp;“(1) the cost is eligible for reimbursement under subsection (a); and
 

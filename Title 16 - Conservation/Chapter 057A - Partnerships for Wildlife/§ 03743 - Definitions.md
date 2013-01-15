@@ -4,7 +4,7 @@ As used in this chapter—
 
 &emsp;(1) The terms “conserve” and “conservation” mean to use, and the use of, such methods and procedures which are necessary to ensure, to the maximum extent practicable, the well being and enhancement of fish and wildlife and their habitats for the educational, aesthetic, cultural, recreational, scientific, and ecological enrichment of the public. Such methods and procedures may include, but are not limited to, any activity associated with scientific resources management, such as research, census, law enforcement, habitat acquisition, maintenance, development, information, education, population manipulation, propagation, technical assistance to private landowners, live trapping, and transplantation.
 
-&emsp;(2) The term “designated State agency” means the government agency, department, or division of any State that is empowered under the laws of the State to exercise the functions ordinarily exercised by a State fish and wildlife agency.
+&emsp;(2) The term “designated State agency” means the government agency, department, or division of any State that is empowered underthe laws of the State to exercise the functions ordinarily exercised by a State fish and wildlife agency.
 
 &emsp;(3) The term “fish and wildlife” means wild members of the animal kingdom that are in an unconfined state.
 
@@ -36,7 +36,7 @@ The Endangered Species Act of 1973, referred to in par. (9)(B), is Pub. L. 93–
 
 <b>1994</b>—Par. (2). Pub. L. 103–375, §6(2)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘designated State agency’ means the State fish and wildlife agency, which shall be construed to mean any department, or any division of any department of another name, of a State that is empowered under its laws to exercise the functions ordinarily exercised by a State fish and wildlife agency.”
 
-Par. (4). Pub. L. 103–375, §6(2)(B), made technical amendment to reference to section 3744(g) of this titleto correct reference to corresponding provision of original act.
+Par. (4). Pub. L. 103–375, §6(2)(B), made technical amendment to reference to section 3744(g) of this title to correct reference to corresponding provision of original act.
 
 Par. (8). Pub. L. 103–375, §6(3)(B), added par. (8). Former par. (8) redesignated (9).
 

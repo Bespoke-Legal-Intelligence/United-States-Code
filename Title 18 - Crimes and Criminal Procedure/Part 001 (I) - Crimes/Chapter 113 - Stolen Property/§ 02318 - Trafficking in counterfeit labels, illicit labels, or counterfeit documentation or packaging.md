@@ -86,7 +86,7 @@ Discretion of court.—In any action brought under paragraph (1), the court—
 
 &emsp;&emsp;(A) may grant 1 or more temporary or permanent injunctions on such terms as the court determines to be reasonable to prevent or restrain a violation of subsection (a);
 
-&emsp;&emsp;(B) at any time while the action is pending, may order the impounding, on such terms as the court determines to be reasonable, of any article that is in the custody or control of the alleged violator and that thecourt has reasonable cause to believe was involved in a violation of subsection (a); and
+&emsp;&emsp;(B) at any time while the action is pending, may order the impounding, on such terms as the court determines to be reasonable, of any article that is in the custody or control of the alleged violator and that the court has reasonable cause to believe was involved in a violation of subsection (a); and
 
 &emsp;&emsp;(C) may award to the injured party—
 

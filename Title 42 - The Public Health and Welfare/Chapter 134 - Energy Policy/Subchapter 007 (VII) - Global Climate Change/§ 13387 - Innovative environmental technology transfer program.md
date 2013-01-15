@@ -100,7 +100,7 @@ Not later than 6 months after October 24, 1992, the Secretary shall prepare a li
 
 &emsp;(G) such other criteria as may be appropriate.
 
-(3) In selecting among proposed projects, the Secretary shall seek to ensure that, relative to otherwise comparable projects in the host country, a selected project will meet the following criteria:
+(3) In selecting among proposed projects, the Secretary shall seek to ensure that, relative tootherwise comparable projects in the host country, a selected project will meet the following criteria:
 
 &emsp;(A) It will reduce environmental emissions, including greenhouse gases, to an extent greater than required by applicable provisions of law.
 
@@ -124,7 +124,7 @@ In carrying out this section, the Secretary, through the Agency for Internationa
 
 > In determining whether the cost of United States components equals or exceeds 50 percent, the cost of assembly of such United States components in the host country shall not be considered a part of the cost of such United States component.
 
-#### (<i>l</i>) Report to Congress
+#### (l) Report to Congress
 
 The Secretary and the Administrator of the Agency for International Development shall report annually to the Committee on Energy and Natural Resources of the Senate and the appropriate committees of the House of Representatives on the progress being made to introduce innovative energy technologies, and services related thereto, that substantially reduce environmental pollutants, including greenhouse gases, into foreign countries.
 

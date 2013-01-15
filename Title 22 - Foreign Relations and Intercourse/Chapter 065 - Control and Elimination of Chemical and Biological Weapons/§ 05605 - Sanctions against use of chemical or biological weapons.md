@@ -40,7 +40,7 @@ If, at any time, the President makes a determination pursuant to section 5604(a)
 
 &emsp;&emsp;(C) that government is willing to allow on-site inspections by United Nations observers or other internationally recognized, impartial observers, or other reliable means exist, to ensure that that government is not using chemical or biological weapons in violation of international law and is not using lethal chemical or biological weapons against its own nationals,
 
-> &emsp;then the President, after consultation with the Congress, shall impose on that country thesanctions set forth in at least 3 of subparagraphs (A) through (F) of paragraph (2).
+> &emsp;then the President, after consultation with the Congress, shall impose on that country the sanctions set forth in at least 3 of subparagraphs (A) through (F) of paragraph (2).
 
 #### (2) Sanctions
 
@@ -100,7 +100,7 @@ The President shall remove the sanctions imposed with respect to a country pursu
 
 &emsp;&emsp;(A) if—
 
-&emsp;&emsp;&emsp;(i) in the case of any sanction other than a sanction specified in subsection (b)(2)(D) of this section (relating to import restrictions) or (b)(2)(E) of this section (relating to the downgrading or suspension of diplomatic relations), the President determines and certifies to the Congress that such waiver is essential to the national security interests of the United States, and if the President notifies the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House ofRepresentatives of his determination and certification at least 15 days before the waiver takes effect, in accordance with the procedures applicable to reprogramming notifications under section 634A of the Foreign Assistance Act of 1961 \[22 U.S.C. 2394–1\], or
+&emsp;&emsp;&emsp;(i) in the case of any sanction other than a sanction specified in subsection (b)(2)(D) of this section (relating to import restrictions) or (b)(2)(E) of this section (relating to the downgrading or suspension of diplomatic relations), the President determines and certifies to the Congress that such waiver is essential to the national security interests of the United States, and if the President notifies the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives of his determination and certification at least 15 days before the waiver takes effect, in accordance with the procedures applicable to reprogramming notifications under section 634A of the Foreign Assistance Act of 1961 \[22 U.S.C. 2394–1\], or
 
 &emsp;&emsp;&emsp;(ii) in the case of any sanction specified in subsection (b)(2)(D) of this section (relating to import restrictions), the President determines and certifies to the Congress that such waiver is essential to the national security interest of the United States, and if the President notifies the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives of his determination and certification at least 15 days before the waiver takes effect; or
 

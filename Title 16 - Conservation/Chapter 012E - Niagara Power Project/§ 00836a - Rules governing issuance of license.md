@@ -1,6 +1,6 @@
 ### §836a. Rules governing issuance of license
 
-The license issued under the terms of this chapter shall be granted in conformance with Rules of Practice and Procedure of the FederalEnergy Regulatory Commission, but in the event of any conflict, the provisions of this chapter shall govern in respect of the project herein authorized.
+The license issued under the terms of this chapter shall be granted in conformance with Rules of Practice and Procedure of the Federal Energy Regulatory Commission, but in the event of any conflict, the provisions of this chapter shall govern in respect of the project herein authorized.
 
 (Pub. L. 85–159, §2, Aug. 21, 1957, 71 Stat. 402; Pub. L. 95–91, title IV, §402(a)(1)(A), Aug. 4, 1977, 91 Stat. 583.)
 

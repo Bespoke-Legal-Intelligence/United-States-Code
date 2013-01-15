@@ -46,6 +46,10 @@ Oct. 30, 1984, Pub. L. 98–554, §§202, 203, 98 Stat. 2832.
 
 In subsection (a)(3), the words “this chapter” are substituted for “this Act” because title II of the Act of October 30, 1984 (Public Law 98–554, 98 Stat. 2832), amended and enacted provisions restated in this chapter.
 
+#### Exemptions From Requirements of This Subchapter for Certain Farm Vehicles
+
+For provisions relating to exemptions from certain requirements of this subchapter with respect to certain farm vehicles and individuals operating those vehicles, see section 32934 of Pub. L. 112–141, set out as a note under section 31136 of this title.
+
 #### Traffic Law Initiative
 
 Pub. L. 106–159, title II, §220, Dec. 9, 1999, 113 Stat. 1769, provided that:

@@ -12,7 +12,7 @@ The term “spell of illness” with respect to any individual means a period of
 
 #### (b) Inpatient hospital services
 
-The term “inpatient hospital services” means the following items and services furnished to an inpatient of a hospital and (except as provided in paragraph (3)) by the hospital—
+The term “inpatient hospital services” means the following items and services furnished to aninpatient of a hospital and (except as provided in paragraph (3)) by the hospital—
 
 &emsp;(1) bed and board;
 
@@ -68,7 +68,7 @@ The term “hospital” (except for purposes of sections 1395f(d), 1395f(f), and
 
 &emsp;(9) meets such other requirements as the Secretary finds necessary in the interest of the health and safety of individuals who are furnished services in the institution.
 
-> For purposes of subsection (a)(2) of this section, such term includes any institution which meets the requirements of paragraph (1) of this subsection. For purposes of sections 1395f(d) and 1395n(b) of this title (including determination of whether an individual received inpatient hospital services or diagnostic services for purposes of such sections), section 1395f(f)(2) of this title, and subsection (i) of this section, such term includes any institution which (i) meets the requirements of paragraphs (5) and (7) of this subsection, (ii) is not primarily engaged in providing the services described in subsection (j)(1)(A) of this section and (iii) is primarily engaged in providing, by or under the supervision of individuals referred to in paragraph (1) of subsection (r) of this section, to inpatients diagnostic services and therapeutic services for medical diagnosis, treatment, and care of injured, disabled, or sick persons, or rehabilitation services for the rehabilitation of injured, disabled, or sick persons. For purposes of section 1395f(f)(1) of this title, such term includes an institution which (i) is a hospital for purposes of sections 1395f(d), 1395f(f)(2), and 1395n(b) of this title and (ii) is accredited by a national accreditation body recognized by the Secretary under section 1395bb(a) of this title, or is accredited by or approved by a program of the country in which such institution is located if the Secretary finds the accreditation or comparable approval standards of suchprogram to be essentially equivalent to those of such a national accreditation body..<sup>1</sup> Notwithstanding the preceding provisions of this subsection, such term shall not, except for purposes of subsection (a)(2) of this section, include any institution which is primarily for the care and treatment of mental diseases unless it is a psychiatric hospital (as defined in subsection (f) of this section). The term “hospital” also includes a religious nonmedical health care institution (as defined in subsection (ss)(1) of this section), but only with respect to items and services ordinarily furnished by such institution to inpatients, and payment may be made with respect to services provided by or in such an institution only to such extent and under such conditions, limitations, and requirements (in addition to or in lieu of the conditions, limitations, and requirements otherwise applicable) as may be provided in regulations consistent with section 1395i–5 of this title. For provisions deeming certain requirements of this subsection to be met in the case of accredited institutions, see section 1395bb of this title. The term “hospital” also includes a facility of fifty beds or less which is located in an area determined by the Secretary to meet the definition relating to a rural area described in subparagraph (A) of paragraph (5) of this subsection and which meets the other requirements of this subsection, except that—
+> For purposes of subsection (a)(2) of this section, such term includes any institution which meets the requirements of paragraph (1) of this subsection. For purposes of sections 1395f(d) and 1395n(b) of this title (including determination of whether an individual received inpatient hospital services or diagnostic services for purposes of such sections), section 1395f(f)(2) of this title, and subsection (i) of this section, such term includes any institution which (i) meets the requirements of paragraphs (5) and (7) of this subsection, (ii) is not primarily engaged in providing the services described in subsection (j)(1)(A) of this section and (iii) is primarily engaged in providing, by or under the supervision of individuals referred to in paragraph (1) of subsection (r) of this section, to inpatients diagnostic services and therapeutic services for medical diagnosis, treatment, and care of injured, disabled, or sick persons, or rehabilitation services for the rehabilitation of injured, disabled, or sick persons. For purposes of section 1395f(f)(1) of this title, such term includes an institution which (i) is a hospital for purposes of sections 1395f(d), 1395f(f)(2), and 1395n(b) of this title and (ii) is accredited by a national accreditation body recognized by the Secretary under section 1395bb(a) of this title, or is accredited by or approved by a program of the country in which such institution is located if the Secretary finds the accreditation or comparable approval standards of such program to be essentially equivalent to those of such a national accreditation body..<sup>1</sup> Notwithstanding the preceding provisions of this subsection, such term shall not, except for purposes of subsection (a)(2) of this section, include any institution which is primarily for the care and treatment of mental diseases unless it is a psychiatric hospital (as defined in subsection (f) of this section). The term “hospital” also includes a religious nonmedical health care institution (as defined in subsection (ss)(1) of this section), but only with respect to items and services ordinarily furnished by such institution to inpatients, and payment may be made with respect to services provided by or in such an institution only to such extent and under such conditions, limitations, and requirements (in addition to or in lieu of the conditions, limitations, and requirements otherwise applicable) as may be provided in regulations consistent with section 1395i–5 of this title. For provisions deeming certain requirements of this subsection to be met in the case of accredited institutions, see section 1395bb of this title. The term “hospital” also includes a facility of fifty beds or less which is located in an area determined by the Secretary to meet the definition relating to a rural area described in subparagraph (A) of paragraph (5) of this subsection and which meets the other requirements of this subsection, except that—
 
 &emsp;(A) with respect to the requirements for nursing services applicable after December 31, 1978, such requirements shall provide for temporary waiver of the requirements, for such period as the Secretary deems appropriate, where (i) the facility's failure to fully comply with the requirements is attributable to a temporary shortage of qualified nursing personnel in the area in which the facility is located, (ii) a registered professional nurse is present on the premises to render or supervise the nursing service provided during at least the regular daytime shift, and (iii) the Secretary determines that the employment of such nursing personnel as are available to the facility during such temporary period will not adversely affect the health and safety of patients;
 
@@ -110,7 +110,7 @@ The term “extended care services” means the following items and services fur
 
 &emsp;(5) such drugs, biologicals, supplies, appliances, and equipment, furnished for use in the skilled nursing facility, as are ordinarily furnished by such facility for the care and treatment of inpatients;
 
-&emsp;(6) medical services provided by an intern or resident-in-training of a hospital with which the facility has in effect a transfer agreement (meeting the requirements of subsection (<i>l</i>) of this section), under a teaching program of such hospital approved as provided in the last sentence of subsection (b) of this section, and other diagnostic or therapeutic services provided by a hospital with which the facility has such an agreement in effect; and
+&emsp;(6) medical services provided by an intern or resident-in-training of a hospital with which the facility has in effect a transfer agreement (meeting the requirements of subsection (l) of this section), under a teaching program of such hospital approved as provided in the last sentence of subsection (b) of this section, and other diagnostic or therapeutic services provided by a hospital with which the facility has such an agreement in effect; and
 
 &emsp;(7) such other services necessary to the health of the patients as are generally provided by skilled nursing facilities, or by others under arrangements with them made by the facility;
 
@@ -136,9 +136,9 @@ A utilization review plan of a hospital or skilled nursing facility shall be con
 
 &emsp;(4) for prompt notification to the institution, the individual, and his attending physician of any finding (made after opportunity for consultation to such attending physician) by the physician members of such committee or group that any further stay in the institution is not medically necessary.
 
-> The review committee must be composed as provided in clause (B) of paragraph (2) rather than as provided in clause (A) of such paragraph in the case of any hospital or skilled nursing facility where, because of the small size of the institution, or (in the case of a skilled nursing facility) because of lack of an organized medical staff, or for such other reason or reasons as may be included in regulations, it is impracticable for the institution to have a properly functioning staff committee for the purposes of this subsection. If the Secretary determines that the utilization review procedures established pursuant to subchapter XIX of this chapter are superior in their effectiveness to the procedures required under this section, he may, to the extent that he deems it appropriate, require for purposes of this subchapter that the procedures established pursuant to subchapter XIX of this chapter be utilized instead of the procedures required by this section.
+> The review committee must be composed as provided in clause (B) of paragraph (2) rather than as provided in clause (A) of such paragraph inthe case of any hospital or skilled nursing facility where, because of the small size of the institution, or (in the case of a skilled nursing facility) because of lack of an organized medical staff, or for such other reason or reasons as may be included in regulations, it is impracticable for the institution to have a properly functioning staff committee for the purposes of this subsection. If the Secretary determines that the utilization review procedures established pursuant to subchapter XIX of this chapter are superior in their effectiveness to the procedures required under this section, he may, to the extent that he deems it appropriate, require for purposes of this subchapter that the procedures established pursuant to subchapter XIX of this chapter be utilized instead of the procedures required by this section.
 
-#### (<i>l</i>) Agreements for transfer between skilled nursing facilities and hospitals
+#### (l) Agreements for transfer between skilled nursing facilities and hospitals
 
 A hospital and a skilled nursing facility shall be considered to have a transfer agreement in effect if, by reason of a written agreement between them or (in case the two institutions are under common control) by reason of a written undertaking by the person or body which controls them, there is reasonable assurance that—
 
@@ -178,7 +178,7 @@ The term “home health services” means the following items and services furni
 
 The term “durable medical equipment” includes iron lungs, oxygen tents, hospital beds, and wheelchairs (which may include a power-operated vehicle that may be appropriately used as a wheelchair, but only where the use of such a vehicle is determined to be necessary on the basis of the individual's medical and physical condition and the vehicle meets such safety requirements as the Secretary may prescribe) used in the patient's home (including an institution used as his home other than an institution that meets the requirements of subsection (e)(1) of this section or section 1395i–3(a)(1) of this title), whether furnished on a rental basis or purchased, and includes blood-testing strips and blood glucose monitors for individuals with diabetes without regard to whether the individual has Type I or Type II diabetes or to the individual's use of insulin (as determined under standards established by the Secretary in consultation with the appropriate organizations); except that such term does not include such equipment furnished by a supplier who has used, for the demonstration and use of specific equipment, an individual who has not met such minimum training standards as the Secretary may establish with respect to the demonstration and use of such specific equipment. With respect to a seat-lift chair, such term includes only the seat-lift mechanism and does not include the chair.
 
-#### (<i>o</i>) Home health agency
+#### (o) Home health agency
 
 The term “home health agency” means a public agency or private organization, or a subdivision of such an agency or organization, which—
 
@@ -224,7 +224,7 @@ The term “outpatient physical therapy services” means physical therapy servi
 
 &emsp;&emsp;&emsp;(i) provides an adequate program of physical therapy services for outpatients and has the facilities and personnel required for such program or required for the supervision of such a program, in accordance with such requirements as the Secretary may specify,
 
-&emsp;&emsp;&emsp;(ii) has policies, established by a group of professional personnel, including one or more physicians (associated with the clinic or rehabilitation agency) and one or more qualified physical therapists, to govern the services (referred to in clause (i)) it provides,
+&emsp;&emsp;&emsp;(ii) has policies, established by a group of professional personnel, including one or more physicians (associated with the clinic or rehabilitation agency) and one ormore qualified physical therapists, to govern the services (referred to in clause (i)) it provides,
 
 &emsp;&emsp;&emsp;(iii) maintains clinical records on all patients,
 
@@ -288,7 +288,7 @@ The term “medical and other health services” means any of the following item
 
 &emsp;(O) erythropoietin for dialysis patients competent to use such drug without medical or other supervision with respect to the administration of such drug, subject to methods and standards established by the Secretary by regulation for the safe and effective use of such drug, and items related to the administration of such drug;
 
-&emsp;(P) prostate cancer screening tests (as defined in subsection (<i>oo</i>) of this section);
+&emsp;(P) prostate cancer screening tests (as defined in subsection (oo) of this section);
 
 &emsp;(Q) an oral drug (which is approved by the Federal Food and Drug Administration) prescribed for use as an anticancer chemotherapeutic agent for a given indication, and containing an active ingredient (or ingredients), which is the same indication and active ingredient (or ingredients) as a drug which the carrier determines would be covered pursuant to subparagraph (A) or (B) if the drug could not be self-administered;
 
@@ -322,7 +322,7 @@ The term “medical and other health services” means any of the following item
 
 &emsp;(AA) ultrasound screening for abdominal aortic aneurysm (as defined in subsection (bbb)) for an individual—
 
-&emsp;&emsp;(i) who receives a referral for such an ultrasound screening as a result of an initialpreventive physical examination (as defined in subsection (ww)(1));
+&emsp;&emsp;(i) who receives a referral for such an ultrasound screening as a result of an initial preventive physical examination (as defined in subsection (ww)(1));
 
 &emsp;&emsp;(ii) who has not been previously furnished such an ultrasound screening under this subchapter; and
 
@@ -350,7 +350,7 @@ The term “medical and other health services” means any of the following item
 
 &emsp;(6) durable medical equipment;
 
-&emsp;(7) ambulance service where the use of other methods of transportation is contraindicated by the individual's condition, but, subject to section 1395m(<i>l</i>)(14) of this title, only to the extent provided in regulations;
+&emsp;(7) ambulance service where the use of other methods of transportation is contraindicated by the individual's condition, but, subject to section 1395m(l)(14) of this title, only to the extent provided in regulations;
 
 &emsp;(8) prosthetic devices (other than dental) which replace all or part of an internal body organ (including colostomy bags and supplies directly related to colostomy care), including replacement of such devices, and including one pair of conventional eyeglasses or contact lenses furnished subsequent to each cataract surgery with insertion of an intraocular lens;
 
@@ -384,7 +384,7 @@ The term “medical and other health services” means any of the following item
 
 &emsp;(B) meets such other conditions relating to the health and safety of individuals with respect to whom such tests are performed as the Secretary may find necessary.
 
-> There shall be excluded from the diagnostic services specified in paragraph (2)(C) any item or service (except services referred to in paragraph (1)) which would not be included under subsection (b) of this section if it were furnished to an inpatient of a hospital. None of the items and services referred to in the preceding paragraphs (other than paragraphs (1) and (2)(A)) of this subsection which are furnished to a patient of an institution which meets the definition of a hospital for purposes of section 1395f(d) of this title shall be included unless such other conditionsare met as the Secretary may find necessary relating to health and safety of individuals with respect to whom such items and services are furnished.
+> There shall be excluded from the diagnostic services specified in paragraph (2)(C) any item or service (except services referred to in paragraph (1)) which would not be included under subsection (b) of this section if it were furnished to an inpatient of a hospital. None of the items and services referred to in the preceding paragraphs (other than paragraphs (1) and (2)(A)) of this subsection which are furnished to a patient of an institution which meets the definition of a hospital for purposes of section 1395f(d) of this title shall be included unless such other conditions are met as the Secretary may find necessary relating to health and safety of individuals with respect to whom such items and services are furnished.
 
 #### (t) Drugs and biologicals
 
@@ -408,11 +408,11 @@ The term “provider of services” means a hospital, critical access hospital, 
 
 #### (v) Reasonable costs
 
-(1)(A) The reasonable cost of any services shall be the cost actually incurred, excluding therefrom any part of incurred cost found to be unnecessary in the efficient delivery of needed health services, and shall be determined in accordance with regulations establishing the method or methods to be used, and the items to be included, in determining such costs for various types or classes of institutions, agencies, and services; except that in any case to which paragraph (2) or (3) applies, the amount of the payment determined under such paragraph with respect to the services involved shall be considered the reasonable cost of such services. In prescribing the regulations referred to in the preceding sentence, the Secretary shall consider, among other things, the principles generally applied by national organizations or established prepayment organizations (which have developed such principles) in computing the amount of payment, to be made by persons other than the recipients of services, to providers of services on account of services furnished to such recipients by such providers. Such regulations may provide for determination of the costs of services on a per diem, per unit, per capita, or other basis, may provide for using different methods in different circumstances, may provide for the use of estimates of costs of particular items or services, may provide for the establishment of limits on the direct or indirect overall incurred costs or incurred costs of specific items or services or groups of items or services to be recognized as reasonable based on estimates of the costs necessary in the efficient delivery of needed health services to individuals covered by the insurance programs established under this subchapter, and may provide for the use of charges or a percentage of charges where this method reasonably reflects the costs. Such regulations shall (i) take into account both direct and indirect costs of providers of services (excluding therefrom any such costs, including standby costs, which are determined in accordance with regulations to be unnecessary in the efficient delivery of services covered by the insurance programs established under this subchapter) in order that, under the methods of determining costs, the necessary costs of efficiently delivering covered services to individuals covered by the insurance programs established by this subchapter will not be borne by individuals not so covered, and the costs with respect to individuals not so covered will not be borne by such insurance programs, and (ii) provide for the making of suitable retroactive corrective adjustments where, for a provider of services for any fiscal period, the aggregate reimbursement produced by the methods of determining costs proves to be either inadequate or excessive.
+(1)(A) The reasonable cost of any services shall be the cost actually incurred, excluding therefrom any part of incurred cost found to be unnecessary in the efficient delivery of needed health services, and shall be determined in accordance with regulations establishing the method or methods to be used, and the items to be included, in determining such costs for various types or classes of institutions, agencies, and services; except that in any case to which paragraph (2) or (3) applies, the amount of the payment determined under such paragraph with respect to the services involved shall be considered the reasonable cost of such services. In prescribing the regulations referred to in the preceding sentence, the Secretary shall consider, among other things, the principles generally applied by national organizations or established prepayment organizations (which have developed such principles) in computing the amount of payment, to be made by persons other than the recipients of services, to providers of services on account of services furnished to such recipients by such providers. Such regulations may provide for determination of the costs of services on a per diem, per unit, per capita, or other basis, may provide for using different methods in different circumstances, may provide for the use of estimates of costs of particular items or services, may provide for the establishment of limits on the direct or indirect overall incurred costs or incurred costs of specific items or services or groups of items or services to be recognized as reasonable based on estimates of the costs necessary in the efficient delivery of needed health services to individuals covered by the insurance programs establishedunder this subchapter, and may provide for the use of charges or a percentage of charges where this method reasonably reflects the costs. Such regulations shall (i) take into account both direct and indirect costs of providers of services (excluding therefrom any such costs, including standby costs, which are determined in accordance with regulations to be unnecessary in the efficient delivery of services covered by the insurance programs established under this subchapter) in order that, under the methods of determining costs, the necessary costs of efficiently delivering covered services to individuals covered by the insurance programs established by this subchapter will not be borne by individuals not so covered, and the costs with respect to individuals not so covered will not be borne by such insurance programs, and (ii) provide for the making of suitable retroactive corrective adjustments where, for a provider of services for any fiscal period, the aggregate reimbursement produced by the methods of determining costs proves to be either inadequate or excessive.
 
 (B) In the case of extended care services, the regulations under subparagraph (A) shall not include provision for specific recognition of a return on equity capital.
 
-(C) Where a hospital has an arrangement with a medical school under which the faculty of suchschool provides services at such hospital, an amount not in excess of the reasonable cost of such services to the medical school shall be included in determining the reasonable cost to the hospital of furnishing services—
+(C) Where a hospital has an arrangement with a medical school under which the faculty of such school provides services at such hospital, an amount not in excess of the reasonable cost of such services to the medical school shall be included in determining the reasonable cost to the hospital of furnishing services—
 
 &emsp;(i) for which payment may be made under part A of this subchapter, but only if—
 
@@ -436,7 +436,7 @@ The term “provider of services” means a hospital, critical access hospital, 
 
 &emsp;(III) the individual is entitled to have payment made for post-hospital extended care services under this subchapter,
 
-> except that if the Secretary determines that there is not an excess of hospital beds in such hospital and (subject to clause (iv)) there is not an excess of hospital beds in the area of such hospital, such payment shall be made (during such period) on the basis of the amount otherwise payable under part A with respect to inpatient hospital services.
+> except that if the Secretary determines that there is not an excess of hospital beds in such hospital and (subject to clause (iv)) there is notan excess of hospital beds in the area of such hospital, such payment shall be made (during such period) on the basis of the amount otherwise payable under part A with respect to inpatient hospital services.
 
 (ii)(I) Except as provided in subclause (II), the payment rate referred to in clause (i) is a rate equal to the estimated adjusted State-wide average rate per patient-day paid for services provided in skilled nursing facilities under the State plan approved under subchapter XIX of this chapter for the State in which such hospital is located, or, if the State in which the hospital is located does not have a State plan approved under subchapter XIX of this chapter, the estimated adjusted State-wide average allowable costs per patient-day for extended care services under this subchapter in that State.
 
@@ -448,9 +448,9 @@ The term “provider of services” means a hospital, critical access hospital, 
 
 (H) In determining such reasonable cost with respect to home health agencies, the Secretary may not include—
 
-&emsp;(i) any costs incurred in connection with bonding or establishing an escrow account by any such agency as a result of the surety bond requirement described in subsection (<i>o</i>)(7) of this section and the financial security requirement described in subsection (<i>o</i>)(8) of this section;
+&emsp;(i) any costs incurred in connection with bonding or establishing an escrow account by any such agency as a result of the surety bond requirement described in subsection (o)(7) of this section and the financial security requirement described in subsection (o)(8) of this section;
 
-&emsp;(ii) in the case of home health agencies to which the surety bond requirement described in subsection (<i>o</i>)(7) of this section and the financial security requirement described in subsection (<i>o</i>)(8) of this section apply, any costs attributed to interest charged such an agency in connection with amounts borrowed by the agency to repay overpayments made under this subchapter to the agency, except that such costs may be included in reasonable cost if the Secretary determines that the agency was acting in good faith in borrowing the amounts;
+&emsp;(ii) in the case of home health agencies to which the surety bond requirement described in subsection (o)(7) of this section and the financial security requirement described in subsection (o)(8) of this section apply, any costs attributed to interest charged such an agency in connection with amounts borrowed by the agency to repay overpayments made under this subchapter to the agency, except that such costs may be included in reasonable cost if the Secretary determines that the agency was acting in good faith in borrowing the amounts;
 
 &emsp;(iii) in the case of contracts entered into by a home health agency after December 5, 1980, for the purpose of having services furnished for or on behalf of such agency, any cost incurred by such agency pursuant to any such contract which is entered into for a period exceeding five years; and
 
@@ -466,7 +466,7 @@ The term “provider of services” means a hospital, critical access hospital, 
 
 (J) Such regulations may not provide for any inpatient routine salary cost differential as a reimbursable cost for hospitals and skilled nursing facilities.
 
-(K)(i) The Secretary shall issue regulations that provide, to the extent feasible, for the establishment of limitations on the amount of any costs or charges that shall be considered reasonable with respect to services provided on an outpatient basis by hospitals (other than bona fide emergency services as defined in clause (ii)) or clinics (other than rural health clinics), which are reimbursed on a cost basis or on the basis of cost related charges, and by physicians utilizing such outpatient facilities. Such limitations shall be reasonably related to the charges in the same area for similar services provided in physicians’ offices. Such regulations shall provide for exceptions to such limitations in cases where similar services are not generally available in physicians’ offices in the area to individuals entitled to benefits under this subchapter.
+(K)(i) The Secretary shall issue regulations that provide, to the extent feasible, for the establishment of limitations on the amount of any costs or charges that shall be considered reasonable with respect to services provided on an outpatient basis by hospitals (other than bona fide emergency services as defined in clause (ii)) or clinics (other than rural health clinics), which are reimbursed on a cost basis or on the basis of cost related charges, and by physicians utilizing such outpatient facilities. Such limitations shall be reasonably related to the charges in thesame area for similar services provided in physicians’ offices. Such regulations shall provide for exceptions to such limitations in cases where similar services are not generally available in physicians’ offices in the area to individuals entitled to benefits under this subchapter.
 
 (ii) For purposes of clause (i), the term “bona fide emergency services” means services provided in a hospital emergency room after the sudden onset of a medical condition manifesting itself by acute symptoms of sufficient severity (including severe pain) such that the absence of immediate medical attention could reasonably be expected to result in—
 
@@ -478,7 +478,7 @@ The term “provider of services” means a hospital, critical access hospital, 
 
 (L)(i) The Secretary, in determining the amount of the payments that may be made under this subchapter with respect to services furnished by home health agencies, may not recognize as reasonable (in the efficient delivery of such services) costs for the provision of such services by an agency to the extent these costs exceed (on the aggregate for the agency) for cost reporting periods beginning on or after—
 
-&emsp;(I) July 1, 1985, and before July 1, 1986, 120 percent of the mean of the labor-related andnonlabor per visit costs for freestanding home health agencies,
+&emsp;(I) July 1, 1985, and before July 1, 1986, 120 percent of the mean of the labor-related and nonlabor per visit costs for freestanding home health agencies,
 
 &emsp;(II) July 1, 1986, and before July 1, 1987, 115 percent of such mean,
 
@@ -542,39 +542,63 @@ The term “provider of services” means a hospital, critical access hospital, 
 
 (S)(i) Such regulations shall not include provision for specific recognition of any return on equity capital with respect to hospital outpatient departments.
 
-(ii)(I) Such regulations shall provide that, in determining the amount of the payments that may be made under this subchapter with respect to all the capital-related costs of outpatient hospital services, the Secretary shall reduce the amounts of such payments otherwise established under this subchapter by 15 percent for payments attributable to portions of cost reporting periods occurring during fiscal year 1990, by 15 percent for payments attributable to portions of cost reporting periods occurring during fiscal year 1991, and by 10 percent for payments attributable to portions of cost reporting periods occurring during fiscal years 1992 through 1999 and until the first date that the prospective payment system under section 1395<i>l</i>(t) of this title is implemented.
+(ii)(I) Such regulations shall provide that, in determining the amount of the payments that may be made under this subchapter with respect to all the capital-related costs of outpatient hospital services, the Secretary shall reduce the amounts of such payments otherwise established under this subchapter by 15 percent for payments attributable to portions of cost reporting periods occurring during fiscal year 1990, by 15 percent for payments attributable to portions of cost reporting periods occurring during fiscal year 1991, and by 10 percent for payments attributable to portions of cost reporting periods occurring during fiscal years 1992 through 1999 and until the first date that the prospective payment system under section 1395l(t) of this title is implemented.
 
-(II) The Secretary shall reduce the reasonable cost of outpatient hospital services (other than the capital-related costs of such services) otherwise determined pursuant to section 1395<i>l</i>(a)(2)(B)(i)(I) of this title by 5.8 percent for payments attributable to portions of cost reporting periods occurring during fiscal years 1991 through 1999 and until the first date that the prospective payment system under section 1395<i>l</i>(t) of this title is implemented.
+(II) The Secretary shall reduce the reasonable cost of outpatient hospital services (other than the capital-related costs of such services) otherwise determined pursuant to section 1395l(a)(2)(B)(i)(I) of this title by 5.8 percent for payments attributable to portions of cost reporting periods occurring during fiscal years 1991 through 1999 and until the first date thatthe prospective payment system under section 1395l(t) of this title is implemented.
 
 (III) Subclauses (I) and (II) shall not apply to payments with respect to the costs of hospital outpatient services provided by any hospital that is a sole community hospital (as defined in section 1395ww(d)(5)(D)(iii) of this title) or a critical access hospital (as defined in subsection (mm)(1) of this section).
 
-(IV) In applying subclauses (I) and (II) to services for which payment is made on the basis of a blend amount under section 1395<i>l</i>(i)(3)(A)(ii) or 1395<i>l</i>(n)(1)(A)(ii) of this title, the costs reflected in the amounts described in sections 1395<i>l</i>(i)(3)(B)(i)(I) and 1395<i>l</i>(n)(1)(B)(i)(I) of this title, respectively, shall be reduced in accordance with such subclause.<sup>6</sup>
+(IV) In applying subclauses (I) and (II) to services for which payment is made on the basis of a blend amount under section 1395l(i)(3)(A)(ii) or 1395l(n)(1)(A)(ii) of this title, the costs reflected in the amounts described in sections 1395l(i)(3)(B)(i)(I) and 1395l(n)(1)(B)(i)(I) of this title, respectively, shall be reduced in accordance with such subclause.<sup>6</sup>
 
-(T) In determining such reasonable costs for hospitals, no reduction in copayments under section 1395<i>l</i>(t)(8)(B) of this title shall be treated as a bad debt and the amount of bad debts otherwise treated as allowable costs which are attributable to the deductibles and coinsurance amounts under this subchapter shall be reduced—
+(T) In determining such reasonable costs for hospitals, no reduction in copayments under section 1395l(t)(8)(B) of this title shall be treated as a bad debt and the amount of bad debts otherwise treated as allowable costs which are attributable to the deductibles and coinsurance amounts under this subchapter shall be reduced—
 
 &emsp;(i) for cost reporting periods beginning during fiscal year 1998, by 25 percent of such amount otherwise allowable,
 
 &emsp;(ii) for cost reporting periods beginning during fiscal year 1999, by 40 percent of such amount otherwise allowable,
 
-&emsp;(iii) for cost reporting periods beginning during fiscal year 2000, by 45 percent of such amount otherwise allowable, and
+&emsp;(iii) for cost reporting periods beginning during fiscal year 2000, by 45 percent of such amount otherwise allowable,
 
-&emsp;(iv) for cost reporting periods beginning during a subsequent fiscal year, by 30 percent of such amount otherwise allowable.
+&emsp;(iv) for cost reporting periods beginning during fiscal years 2001 through 2012, by 30 percent of such amount otherwise allowable, and
+
+&emsp;(v) for cost reporting periods beginning during fiscal year 2013 or a subsequent fiscal year, by 35 percent of such amount otherwise allowable.
 
 (U) In determining the reasonable cost of ambulance services (as described in subsection (s)(7) of this section) provided during fiscal year 1998, during fiscal year 1999, and during so much of fiscal year 2000 as precedes January 1, 2000, the Secretary shall not recognize the costs per trip in excess of costs recognized as reasonable for ambulance services provided on a per trip basis during the previous fiscal year (after application of this subparagraph), increased by the percentage increase in the consumer price index for all urban consumers (U.S. city average) as estimated by the Secretary for the 12-month period ending with the midpoint of the fiscal year involved reduced by 1.0 percentage point. For ambulance services provided after June 30, 1998, the Secretary may provide that claims for such services must include a code (or codes) under a uniform coding system specified by the Secretary that identifies the services furnished.
 
-(V) In determining such reasonable costs for skilled nursing facilities with respect to cost reporting periods beginning on or after October 1, 2005, the amount of bad debts otherwise treated as allowed costs which are attributable to the coinsurance amounts under this subchapter for individuals who are entitled to benefits under part A and—
+(V) In determining such reasonable costs for skilled nursing facilities and (beginning with respect to cost reporting periods beginning during fiscal year 2013) for covered skilled nursing services described in section 1395yy(e)(2)(A) of this title furnished by hospital providers of extended care services (as described in section 1395tt of this title), the amount of bad debts otherwise treated as allowed costs which are attributable to the coinsurance amounts under this subchapter for individuals who are entitled to benefits under part A and—
 
-&emsp;(i) are not described in section 1396u–5(c)(6)(A)(ii) of this title shall be reduced by 30 percent of such amount otherwise allowable; and
+&emsp;(i) are not described in section 1396u–5(c)(6)(A)(ii) of this title shall be reduced by—
 
-&emsp;(ii) are described in such section shall not be reduced.
+&emsp;&emsp;(I) for cost reporting periods beginning on or after October 1, 2005, but before fiscal year 2013, 30 percent of such amount otherwise allowable; and
+
+&emsp;&emsp;(II) for cost reporting periods beginning during fiscal year 2013 or a subsequent fiscal year, by <sup>7</sup> 35 percent of such amount otherwise allowable.
+
+&emsp;(ii) are described in such section—
+
+&emsp;&emsp;(I) for cost reporting periods beginning on or after October 1, 2005, but before fiscal year 2013, shall not be reduced;
+
+&emsp;&emsp;(II) for cost reporting periods beginning during fiscal year 2013, shall be reduced by 12 percent of such amount otherwise allowable;
+
+&emsp;&emsp;(III) for cost reporting periods beginning during fiscal year 2014, shall be reduced by 24 percent of such amount otherwise allowable; and
+
+&emsp;&emsp;(IV) for cost reporting periods beginning during a subsequent fiscal year, shall be reduced by 35 percent of such amount otherwise allowable.
+
+(W)(i) In determining such reasonable costs for providers described in clause (ii), the amount of bad debts otherwise treated as allowable costs which are attributable to deductibles and coinsurance amounts under this subchapter shall be reduced—
+
+&emsp;(I) for cost reporting periods beginning during fiscal year 2013, by 12 percent of such amount otherwise allowable;
+
+&emsp;(II) for cost reporting periods beginning during fiscal year 2014, by 24 percent of such amount otherwise allowable; and
+
+&emsp;(III) for cost reporting periods beginning during a subsequent fiscal year, by 35 percent of such amount otherwise allowable.
+
+(ii) A provider described in this clause is a provider of services not described in subparagraph (T) or (V), a supplier, or any other type of entity that receives payment for bad debts under the authority under subparagraph (A).
 
 (2)(A) If the bed and board furnished as part of inpatient hospital services (including inpatient tuberculosis hospital services and inpatient psychiatric hospital services) or post-hospital extended care services is in accommodations more expensive than semi-private accommodations, the amount taken into account for purposes of payment under this subchapter with respect to such services may not exceed the amount that would be taken into account with respect to such services if furnished in such semi-private accommodations unless the more expensive accommodations were required for medical reasons.
 
-(B) Where a provider of services which has an agreement in effect under this subchapter furnishes to an individual items or services which are in excess of or more expensive than the items or services with respect to which payment may be made under part A or part B of this subchapter, as the case may be, the Secretary shall take into account for purposes of payment to such provider of services only the items or services with respect to which such payment may be made.
+(B) Where a provider of services which has an agreement in effect under this subchapter furnishes to an individual items or services whichare in excess of or more expensive than the items or services with respect to which payment may be made under part A or part B of this subchapter, as the case may be, the Secretary shall take into account for purposes of payment to such provider of services only the items or services with respect to which such payment may be made.
 
 (3) If the bed and board furnished as part of inpatient hospital services (including inpatient tuberculosis hospital services and inpatient psychiatric hospital services) or post-hospital extended care services is in accommodations other than, but not more expensive than, semi-private accommodations and the use of such other accommodations rather than semi-private accommodations was neither at the request of the patient nor for a reason which the Secretary determines is consistent with the purposes of this subchapter, the amount of the payment with respect to such bed and board under part A of this subchapter shall be the amount otherwise payable under this subchapter for such bed and board furnished in semi-private accommodations minus the difference between the charge customarily made by the hospital or skilled nursing facility for bed and board in semi-private accommodations and the charge customarily made by it for bed and board in the accommodations furnished.
 
-(4) If a provider of services furnishes items or services to an individual which are in excess of or more expensive than the items or services determined to be necessary in the efficient delivery of needed health services and charges are imposed for such more expensive items or services under the authority granted in section 1395cc(a)(2)(B)(ii) <sup>7</sup> of this title, the amount of payment with respect to such items or services otherwise due such provider in any fiscal period shall be reduced to the extent that such payment plus such charges exceed the cost actually incurred for such items or services in the fiscal period in which such charges are imposed.
+(4) If a provider of services furnishes items or services to an individual which are in excess of or more expensive than the items or services determined to be necessary in the efficient delivery of needed health services and charges are imposed for such more expensive items or services under the authority granted in section 1395cc(a)(2)(B)(ii) <sup>8</sup> of this title, the amount of payment with respect to such items or services otherwise due such provider in any fiscal period shall be reduced to the extent that such payment plus such charges exceed the cost actually incurred for such items or services in the fiscal period in which such charges are imposed.
 
 (5)(A) Where physical therapy services, occupational therapy services, speech therapy services, or other therapy services or services of other health-related personnel (other than physicians) are furnished under an arrangement with a provider of services or other organization, specified in the first sentence of subsection (p) of this section (including through the operation of subsection (g) of this section) the amount included in any payment to such provider or other organization under this subchapter as the reasonable cost of such services (as furnished under such arrangements) shall not exceed an amount equal to the salary which would reasonably have been paid for such services (together with any additional costs that would have been incurred by the provider or other organization) to the person performing them if they had been performed in an employment relationship with such provider or other organization (rather than under such arrangement) plus the cost of such other expenses (including a reasonable allowance for traveltime and other reasonable types of expense related to any differences in acceptable methods of organization for the provision of such therapy) incurred by such person, as the Secretary may in regulations determine to be appropriate.
 
@@ -608,7 +632,7 @@ Items unrelated to patient care.—Reasonable costs do not include costs for the
 
 (1) The term “arrangements” is limited to arrangements under which receipt of payment by the hospital, critical access hospital, skilled nursing facility, home health agency, or hospice program (whether in its own right or as agent), with respect to services for which an individual is entitled to have payment made under this subchapter, discharges the liability of such individual or any other person to pay for the services.
 
-(2) Utilization review activities conducted, in accordance with the requirements of the program established under part B of subchapter XI of this chapter with respect to services furnished by a hospital or critical access hospital to patients insured under part A of this subchapter or entitled to have payment made for such services under part B of this subchapter or under a State plan approved under subchapter XIX of this chapter, by a quality improvement organization designated for the area in which such hospital or critical access hospital is located shall be deemed to have been conducted pursuant to arrangements between such hospital or critical access hospital and such organization under which such hospital or critical access hospital is obligated to pay to such organization, as a condition of receiving payment for hospital or critical access hospital services so furnished under this part or under such a State plan, such amount as is reasonably incurred and requested (as determined under regulations of the Secretary) by such organization in conducting such review activities with respect to services furnished by such hospital or critical access hospital to such patients.
+(2) Utilization review activities conducted, in accordance with the requirements of the program established under part B of subchapter XI of this chapter with respect to services furnished by a hospital or critical access hospitalto patients insured under part A of this subchapter or entitled to have payment made for such services under part B of this subchapter or under a State plan approved under subchapter XIX of this chapter, by a quality improvement organization designated for the area in which such hospital or critical access hospital is located shall be deemed to have been conducted pursuant to arrangements between such hospital or critical access hospital and such organization under which such hospital or critical access hospital is obligated to pay to such organization, as a condition of receiving payment for hospital or critical access hospital services so furnished under this part or under such a State plan, such amount as is reasonably incurred and requested (as determined under regulations of the Secretary) by such organization in conducting such review activities with respect to services furnished by such hospital or critical access hospital to such patients.
 
 #### (x) State and United States
 
@@ -650,7 +674,7 @@ An overall plan and budget of a hospital, skilled nursing facility, comprehensiv
 
 (1) The term “rural health clinic services” means—
 
-&emsp;(A) physicians’ services and such services and supplies as are covered under subsection (s)(2)(A) of this section if furnished as an incident to a physician's professional service and items and services described in subsection (s)(10) of this section,
+&emsp;(A) physicians’ services and such services and supplies as are covered under subsection\(s)(2)(A) of this section if furnished as an incident to a physician's professional service and items and services described in subsection (s)(10) of this section,
 
 &emsp;(B) such services furnished by a physician assistant or a nurse practitioner (as defined in paragraph (5)), by a clinical psychologist (as defined by the Secretary) or by a clinical social worker (as defined in subsection (hh)(1) of this section), and such services and supplies furnished as an incident to his service as would otherwise be covered if furnished by a physician or as an incident to a physician's service, and
 
@@ -672,7 +696,7 @@ An overall plan and budget of a hospital, skilled nursing facility, comprehensiv
 
 &emsp;(F) has a physician, physician assistant, or nurse practitioner responsible for the execution of policies described in subparagraph (E) and relating to the provision of the clinic's services;
 
-&emsp;(G) directly provides routine diagnostic services, including clinical laboratory services, as prescribed in regulations by the Secretary,and has prompt access to additional diagnostic services from facilities meeting requirements under this subchapter;
+&emsp;(G) directly provides routine diagnostic services, including clinical laboratory services, as prescribed in regulations by the Secretary, and has prompt access to additional diagnostic services from facilities meeting requirements under this subchapter;
 
 &emsp;(H) in compliance with State and Federal law, has available for administering to patients of the clinic at least such drugs and biologicals as are determined by the Secretary to be necessary for the treatment of emergency cases (as defined in regulations) and has appropriate procedures or arrangements for storing, administering, and dispensing any drugs and biologicals;
 
@@ -682,7 +706,7 @@ An overall plan and budget of a hospital, skilled nursing facility, comprehensiv
 
 &emsp;(K) meets such other requirements as the Secretary may find necessary in the interest of the health and safety of the individuals who are furnished services by the clinic.
 
-> For the purposes of this subchapter, such term includes only a facility which (i) is located in an area that is not an urbanized area (as defined by the Bureau of the Census) and in which there are insufficient numbers of needed health care practitioners (as determined by the Secretary), and that, within the previous 4-year period, has been designated by the chief executive officer of the State and certified by the Secretary as an area with a shortage of personal health services or designated by the Secretary either (I) as an area with a shortage of personal health services under section 330(b)(3) or 1302(7) of the Public Health Service Act \[42 U.S.C. 254b(b)(3), 300e–1(7)\], (II) as a health professional shortage area described in section 332(a)(1)(A) of that Act \[42 U.S.C. 254e(a)(1)(A)\] because of its shortage of primary medical care manpower, (III) as a high impact area described in section 329(a)(5) <sup>7</sup> of that Act, or (IV) as an area which includes a population group which the Secretary determines has a health manpower shortage under section 332(a)(1)(B) of that Act \[42 U.S.C. 254e(a)(1)(B)\], (ii) has filed an agreement with the Secretary by which it agrees not to charge any individual or other person for items or services for which such individual is entitled to have payment made under this subchapter, except for the amount of any deductible or coinsurance amount imposed with respect to such items or services (not in excess of the amount customarily charged for such items and services by such clinic), pursuant to subsections (a) and (b) of section 1395<i>l</i> of this title, (iii) employs a physician assistant or nurse practitioner, and (iv) is not a rehabilitation agency or a facility which is primarily for the care and treatment of mental diseases. A facility that is in operation and qualifies as a rural health clinic under this subchapter or subchapter XIX of this chapter and that subsequently fails to satisfy the requirement of clause (i) shall be considered, for purposes of this subchapter and subchapter XIX of this chapter, as still satisfying the requirement of such clause if it is determined, in accordance with criteria established by the Secretary in regulations, to be essential to the delivery of primary care services that would otherwise be unavailable in the geographic area served by the clinic. If a State agency has determined under section 1395aa(a) of this title that a facility is a rural health clinic and the facility has applied to the Secretary for approval as such a clinic, the Secretary shall notify the facility of the Secretary's approval or disapproval not later than 60 days after the date of the State agency determination or the application (whichever is later).
+> For the purposes of this subchapter, such term includes only a facility which (i) is located in an area that is not an urbanized area (as defined by the Bureau of the Census) and in which there are insufficient numbers of needed health care practitioners (as determined by the Secretary), and that, within the previous 4-year period, has been designated by the chief executive officer of the State and certified by the Secretary as an area with a shortage of personal health services or designated by the Secretary either (I) as an area with a shortage of personal health services under section 330(b)(3) or 1302(7) of the Public Health Service Act \[42 U.S.C. 254b(b)(3), 300e–1(7)\], (II) as a health professional shortage area described in section 332(a)(1)(A) of that Act \[42 U.S.C. 254e(a)(1)(A)\] because of its shortage of primary medical care manpower, (III) as a high impact area described in section 329(a)(5) <sup>8</sup> of that Act, or (IV) as an area which includes a population group which the Secretary determines has a health manpower shortage under section 332(a)(1)(B) of that Act \[42 U.S.C. 254e(a)(1)(B)\], (ii) has filed an agreement with the Secretary by which it agrees not to charge any individual or other person for items or services for which such individual is entitled to have payment made under this subchapter, except for the amount of any deductible or coinsurance amount imposed with respect to such items or services (not in excess of the amount customarily charged for such items and services by such clinic), pursuant to subsections (a) and (b) of section 1395l of this title, (iii) employs a physician assistant or nurse practitioner, and (iv) isnot a rehabilitation agency or a facility which is primarily for the care and treatment of mental diseases. A facility that is in operation and qualifies as a rural health clinic under this subchapter or subchapter XIX of this chapter and that subsequently fails to satisfy the requirement of clause (i) shall be considered, for purposes of this subchapter and subchapter XIX of this chapter, as still satisfying the requirement of such clause if it is determined, in accordance with criteria established by the Secretary in regulations, to be essential to the delivery of primary care services that would otherwise be unavailable in the geographic area served by the clinic. If a State agency has determined under section 1395aa(a) of this title that a facility is a rural health clinic and the facility has applied to the Secretary for approval as such a clinic, the Secretary shall notify the facility of the Secretary's approval or disapproval not later than 60 days after the date of the State agency determination or the application (whichever is later).
 
 (3) The term “Federally qualified health center services” means—
 
@@ -724,7 +748,7 @@ An overall plan and budget of a hospital, skilled nursing facility, comprehensiv
 
 (1) The term “services of a certified registered nurse anesthetist” means anesthesia services and related care furnished by a certified registered nurse anesthetist (as defined in paragraph (2)) which the nurse anesthetist is legally authorized to perform as such by the State in which the services are furnished.
 
-(2) The term “certified registered nurse anesthetist” means a certified registered nurse anesthetist licensed by the State who meets such education, training, and other requirements relating to anesthesia services and related care as the Secretary may prescribe. In prescribing such requirements the Secretary may use the same requirements as those established by a national organization for the certification of nurse anesthetists. Such term also includes, as prescribed by the Secretary, an anesthesiologist assistant.
+(2) The term “certified registered nurse anesthetist” means a certified registered nurse anesthetist licensed by the State who meets such education, training, and other requirements relating to anesthesia services and related care as the Secretary may prescribe. In prescribing such requirements the Secretary may use the same requirements as those established by a nationalorganization for the certification of nurse anesthetists. Such term also includes, as prescribed by the Secretary, an anesthesiologist assistant.
 
 #### (cc) Comprehensive outpatient rehabilitation facility services
 
@@ -850,7 +874,7 @@ An overall plan and budget of a hospital, skilled nursing facility, comprehensiv
 
 &emsp;(iii) has demonstrated a good faith effort (as determined by the Secretary) to hire a sufficient number of nurses to provide such nursing care directly.
 
-(B) Any waiver, which is in such form and containing such information as the Secretary may require and which is requested by an agency or organization under subparagraph (A) or (C), shall be deemed to be granted unless such request is denied by the Secretary within 60 days after the date such request is received by the Secretary. The granting of a waiver under subparagraph (A) or (C) shall not preclude the granting of any subsequent waiver request should such a waiver again become necessary.
+(B) Any waiver, which is in such form and containing such information as the Secretary may require and which is requested by an agency or organization under subparagraph (A) or (C), shall be deemed to be granted unless such request is denied by the Secretary within 60 daysafter the date such request is received by the Secretary. The granting of a waiver under subparagraph (A) or (C) shall not preclude the granting of any subsequent waiver request should such a waiver again become necessary.
 
 (C) The Secretary may waive the requirements of paragraph (2)(A)(i) and (2)(A)(ii) for an agency or organization with respect to the services described in paragraph (1)(B) and, with respect to dietary counseling, paragraph (1)(H), if such agency or organization—
 
@@ -892,11 +916,11 @@ An overall plan and budget of a hospital, skilled nursing facility, comprehensiv
 
 &emsp;(A) the discharge planning evaluation under paragraph (2)(D) is not required to include information on the availability of home health services through individuals and entities which do not have a contract with the organization; and
 
-&emsp;(B) notwithstanding subparagraph (H)(i) <sup>8</sup>, the plan may specify or limit the provider (or providers) of post-hospital home health services or other post-hospital services under the plan.
+&emsp;(B) notwithstanding subparagraph (H)(i) <sup>9</sup>, the plan may specify or limit the provider (or providers) of post-hospital home health services or other post-hospital services under the plan.
 
 #### (ff) Partial hospitalization services
 
-(1) The term “partial hospitalization services” means the items and services described in paragraph (2) prescribed by a physician and provided under a program described in paragraph (3) under the supervision of a physician pursuant to an individualized, written plan of treatment established and periodically reviewed by a physician (in consultation with appropriate staff participating in such program), which plan sets forth the physician's diagnosis, the type, amount, frequency, and duration of the items and services provided under the plan, and the goals for treatment under the plan.
+(1) The term “partial hospitalization services” means the items and services described in paragraph (2) prescribed by a physician and provided under a program described in paragraph (3) under the supervision of a physician pursuant to an individualized, written plan of treatment established and periodically reviewed by a physician (in consultation with appropriate staff participating in such program), which plan sets forth the physician's diagnosis, the type,amount, frequency, and duration of the items and services provided under the plan, and the goals for treatment under the plan.
 
 (2) The items and services described in this paragraph are—
 
@@ -960,7 +984,7 @@ An overall plan and budget of a hospital, skilled nursing facility, comprehensiv
 
 #### (ii) Qualified psychologist services
 
-The term “qualified psychologist services” means such services and such services and supplies furnished as an incident to his service furnished by a clinical psychologist (as defined by the Secretary) which the psychologist is legally authorized to perform under State law (or the State regulatory mechanism provided by State law) as would otherwise be covered if furnished by a physician or as an incident to a physician's service.
+The term “qualified psychologist services” means such services and such services and supplies furnished as an incident to his service furnished by a clinical psychologist (as defined by the Secretary) which the psychologist is legally authorized to perform under State law (or theState regulatory mechanism provided by State law) as would otherwise be covered if furnished by a physician or as an incident to a physician's service.
 
 #### (jj) Screening mammography
 
@@ -974,7 +998,7 @@ The term “covered osteoporosis drug” means an injectable drug approved for t
 
 &emsp;(2) the individual is confined to the individual's home (except when receiving items and services referred to in subsection (m)(7) of this section).
 
-#### (<i>ll</i>) Speech-language pathology services; audiology services
+#### (ll) Speech-language pathology services; audiology services
 
 (1) The term “speech-language pathology services” means such speech, language, and related function assessment and rehabilitation services furnished by a qualified speech-language pathologist as the speech-language pathologist is legally authorized to perform under State law (or the State regulatory mechanism provided by State law) as would otherwise be covered if furnished by a physician.
 
@@ -1020,7 +1044,7 @@ The term “covered osteoporosis drug” means an injectable drug approved for t
 
 &emsp;(B) is at high risk of developing cervical or vaginal cancer (as determined pursuant to factors identified by the Secretary).
 
-#### (<i>oo</i>) Prostate cancer screening tests
+#### (oo) Prostate cancer screening tests
 
 (1) The term “prostate cancer screening test” means a test that consists of any (or all) of the procedures described in paragraph (2) provided for the purpose of early detection of prostate cancer to a man over 50 years of age who has not had such a test during the preceding year.
 
@@ -1120,7 +1144,7 @@ The term “covered osteoporosis drug” means an injectable drug approved for t
 
 (B)(i) In administering this subsection and section 1395i–5 of this title, the Secretary shall not subject a religious nonmedical health care institution or its personnel to any medical supervision, regulation, or control, insofar as such supervision, regulation, or control would be contrary to the religious beliefs observed by the institution or such personnel.
 
-(ii) Clause (i) shall not be construed as preventing the Secretary from reviewing items andservices billed by the institution to the extent the Secretary determines such review to be necessary to determine whether such items and services were not covered under part A of this subchapter, are excessive, or are fraudulent.
+(ii) Clause (i) shall not be construed as preventing the Secretary from reviewing items and services billed by the institution to the extent the Secretary determines such review to be necessary to determine whether such items and services were not covered under part A of this subchapter, are excessive, or are fraudulent.
 
 (4)(A) For purposes of paragraph (1)(G)(i), an ownership interest of less than 5 percent shall not be taken into account.
 
@@ -1168,7 +1192,7 @@ The term “screening for glaucoma” means a dilated eye examination with an in
 
 #### (ww) Initial preventive physical examination
 
-(1) The term “initial preventive physical examination” means physicians’ services consisting of a physical examination (including measurement of height, weight body mass index,,<sup>9</sup> and blood pressure) with the goal of health promotion and disease detection and includes education, counseling, and referral with respect to screening and other preventive services described in paragraph (2) and end-of-life planning (as defined in paragraph (3)) upon the agreement with the individual, but does not include clinical laboratory tests.
+(1) The term “initial preventive physical examination” means physicians’ services consisting of a physical examination (including measurement of height, weight body mass index,,<sup>10</sup> and blood pressure) with the goal of health promotion and disease detection and includes education, counseling, and referral with respect to screening and other preventive services described in paragraph (2) and end-of-life planning (as defined in paragraph (3)) upon the agreement with the individual, but does not include clinical laboratory tests.
 
 (2) The screening and other preventive services described in this paragraph include the following:
 
@@ -1178,7 +1202,7 @@ The term “screening for glaucoma” means a dilated eye examination with an in
 
 &emsp;(C) Screening pap smear and screening pelvic exam as defined in subsection (nn).
 
-&emsp;(D) Prostate cancer screening tests as defined in subsection (<i>oo</i>).
+&emsp;(D) Prostate cancer screening tests as defined in subsection (oo).
 
 &emsp;(E) Colorectal cancer screening tests as defined in subsection (pp).
 
@@ -1398,7 +1422,7 @@ The term “long-term care hospital” means a hospital which—
 
 &emsp;(A) is responsible for such program; and
 
-&emsp;(B) in consultation with appropriate staff, is involved substantially in directing the progress of individual <sup>10</sup> in the program.
+&emsp;(B) in consultation with appropriate staff, is involved substantially in directing the progress of individual <sup>1</sup> in the program.
 
 #### (fff) Pulmonary rehabilitation program
 
@@ -1426,7 +1450,7 @@ The term “long-term care hospital” means a hospital which—
 
 &emsp;(A) is responsible for such program; and
 
-&emsp;(B) in consultation with appropriate staff, is involved substantially in directing the progress of individual <sup>10</sup> in the program.
+&emsp;(B) in consultation with appropriate staff, is involved substantially in directing the progress of individual <sup>1</sup> in the program.
 
 #### (ggg) Kidney disease education services
 
@@ -1452,7 +1476,7 @@ The term “long-term care hospital” means a hospital which—
 
 (2)(A) The term “qualified person” means—
 
-&emsp;(i) a physician (as defined in subsection (r)(1)) or a physician assistant, nurse practitioner, or clinical nurse specialist (as defined in subsection (aa)(5)), who furnishes services for which payment may be made under the feeschedule established under section 1395w–4 of this title; and
+&emsp;(i) a physician (as defined in subsection (r)(1)) or a physician assistant, nurse practitioner, or clinical nurse specialist (as defined in subsection (aa)(5)), who furnishes services for which payment may be made under the fee schedule established under section 1395w–4 of this title; and
 
 &emsp;(ii) a provider of services located in a rural area (as defined in section 1395ww(d)(2)(D) of this title).
 
@@ -1540,7 +1564,7 @@ The term “long-term care hospital” means a hospital which—
 
 &emsp;(ii) establishes a yearly schedule for appropriate provision of such elements thereafter.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1861, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 313; amended Pub. L. 89–713, §7, Nov. 2, 1966, 80 Stat. 1111; Pub. L. 90–248, title I, §§127(a), 129(a), (b), (c)(9)(C), (10), (11), 132(a), 133(a), (b), 134(a), 143(a), 144(a)–(d), Jan. 2, 1968, 81 Stat. 846–850, 852, 857, 858; Pub. L. 91–690, Jan. 12, 1971, 84 Stat. 2074; Pub. L. 92–603, title II, §§211(b), (c)(2), 221(c)(4), 223(a)–(d), (f), 227(a), (c), (d)(1), (f), 234(a)–(f), 237(c), 244(c), 246(b), 248, 249(b), 251(a)(1), (b)(1), (c), 252(a), 256(b), 264(a), 265, 267, 273(a), 276(a), 278(a) (4)–(15), (b)(6), (10), (11), (13), 283(a), Oct. 30, 1972, 86 Stat. 1383, 1384, 1389, 1393, 1394, 1404–1407, 1412, 1413, 1416, 1423–1426, 1445–1447, 1449–1454, 1456; Pub. L. 94–182, title I, §§102, 106(a), 112(a)(1), Dec. 31, 1975, 89 Stat. 1051, 1052, 1055; Pub. L. 95–142, §§3(a)(2), 5(m), 19(b)(1), 21(a), Oct. 25, 1977, 91 Stat. 1178, 1191, 1204, 1207; Pub. L. 95–210, §1(d), (g), (h), Dec. 13, 1977, 91 Stat. 1485, 1487, 1488; Pub. L. 95–216, title V, §501(a), Dec. 20, 1977, 91 Stat. 1564; Pub. L. 95–292, §4(d), June 13, 1978, 92 Stat. 315; Pub. L. 96–499, title IX, §§902(a)(1), 915(a), 930(k)–(n), (p), 931(c), (d), 933(c)–(e), 936(a), 937(a), 938(a), 948(a)(1), 949, 950, 951(a), (b), 952(a), formerly 952, Dec. 5, 1980, 94 Stat. 2612, 2623, 2632, 2633, 2635, 2639, 2640, 2643, 2645, 2646; Pub. L. 96–611, §1(a)(1), (b)(3), Dec. 28, 1980, 94 Stat. 3566; Pub. L. 97–35, title XXI, §§2102(a), 2114, 2121(c), (d), 2141(a), 2142(a), 2143(a), 2144(a), 2193(c)(9), Aug. 13, 1981, 95 Stat. 787, 796–799, 828; Pub. L. 97–248, title I, §§101(a)(2), (d), 102(a), 103(a), 105(a), 106(a), 107(a), 108(a)(2), 109(b), 114(b), 122(d), 127(1), 128(a)(1), (d)(2), 148(b), Sept. 3, 1982, 96 Stat. 335–339, 350, 359, 366, 367, 394; Pub. L. 97–448, title III, §309(a)(4), Jan. 12, 1983, 96 Stat. 2408; Pub. L. 98–21, title VI, §§602(d), 607(b)(2), (d), Apr. 20, 1983, 97 Stat. 163, 171, 172; Pub. L. 98–369, div. B, title III, §§2314(a), 2318(a), (b), 2319(a), 2321(e), 2322(a), 2323(a), 2324(a), 2335(b), 2340(a), 2341(a), (c), 2342(a), 2343(a), (b), 2354(b)(18)–(29), July 18, 1984, 98 Stat. 1079, 1081, 1082, 1085, 1086, 1090, 1093, 1094, 1101; Pub. L. 98–617, §3(a)(4), (b)(7), Nov. 8, 1984, 98 Stat. 3295, 3296; Pub. L. 99–272, title IX, §§9107(b), 9110(a), 9202(i)(1), 9219(b)(1)(B), (3)(A), Apr. 7, 1986, 100 Stat. 160, 162, 177, 182, 183; Pub. L. 99–509, title IX, §§9305(c)(1), (2), 9313(a)(2), 9315(a), 9320(b), (c), (f), 9335(c)(1), 9336(a), 9337(d), 9338(a), Oct. 21, 1986, 100 Stat. 1989, 2002, 2005, 2013, 2015, 2030, 2033, 2034; Pub. L. 100–203, title IV, §§4009(e)(1), (f), 4021(a), 4026(a)(1), 4039(b), 4064(e)(1), 4065(a), 4070(b)(1), (2), 4071(a), 4072(a), 4073(a), (c), 4074(a), (b), 4075(a), 4076(a), 4077(a)(1), (b)(1), (4), formerly (5), 4078, 4084(c)(1), 4085(i)(9)–(14), 4201(a)(1), (b)(1), (d)(1), (2), (5), formerly (d), Dec. 22, 1987, 101 Stat. 1330–57, 1330–58, 1330–67, 1330–74, 1330–81, 1330–111, 1330–112, 1330–114, 1330–116, 1330–118 to 1330–121, 1330–132, 1330–133, 1330–160, 1330–174, as amended Pub. L. 100–360, title IV, §411(h)(4)(D), (5)–(7)(A), (E), (F), (i)(3), (4)(C)(iii), (<i>l</i>)(1)(B), (C), July 1, 1988, 102 Stat. 787–789, 801, as amended Pub. L. 100–485, title VI, §608(d)(27)(B), Oct. 13, 1988, 102 Stat. 2422; Pub. L. 100–360, title I, §104(d)(4), title II, §§202(a), 203(b), (e)(1), 204(a), 205(b), 206(a), title IV, §411(d)(1)(B)(i), (5)(A), (g)(3)(H), (h)(1)(B), (2), (3)(A), July 1, 1988, 102 Stat. 689, 702, 721, 725, 730, 731, 773, 774, 785, 786; Pub. L. 100–485, title VI, §608(d)(6)(A), (23)(B), Oct. 13, 1988, 102 Stat. 2414, 2421; Pub. L. 100–647, title VIII, §§8423(a), 8424(a), Nov. 10, 1988, 102 Stat. 3803; Pub. L. 101–234, title I, §101(a), title II, §201(a), Dec. 13, 1989, 103 Stat. 1979, 1981; Pub. L. 101–239, title VI, §§6003(g)(3)(A), (C)(i), (D)(x), 6110, 6112(e)(1), 6113(a)–(b)(2), 6114(a), (d), 6115(a), 6116(a)(1), 6131(a)(2), 6141(a), 6213(a)–(c), Dec. 19, 1989, 103 Stat. 2151–2153, 2213, 2215–2219, 2221, 2225, 2250, 2251; Pub. L. 101–508, title IV, §§4008(h)(2)(A)(i), 4151(a), (b)(1), 4152(a)(2), 4153(b)(2)(A), 4155(a), (d), 4156(a), 4157(a), 4161(a)(1), (2), (5), (b)(1), (2), 4162(a), 4163(a), 4201(d)(1), 4207(d)(1), formerly 4027(d)(1), Nov. 5, 1990, 104 Stat. 1388–48, 1388–71, 1388–72, 1388–74, 1388–84, 1388–86 to 1388–88, 1388–93 to 1388–96, 1388–104, 1388–120, renumbered Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 101–597, title IV, §401(c)(2), Nov. 16, 1990, 104 Stat. 3035; Pub. L. 103–66, title XIII, §§13503(c)(1)(A), 13521, 13522, 13553(a), (b), 13554(a), 13556(a), 13564(a)(2), (b)(1), 13565, 13566(b), Aug. 10, 1993, 107 Stat. 578, 586, 591, 592, 607; Pub. L. 103–432, title I, §§102(g)(4), 104, 107(a), 145(b), 146(a), (b), 147(e)(1), (4), (5), (f)(3), (4)(A), (6)(A), (B), (E), 158(a)(1), Oct. 31, 1994, 108 Stat. 4404, 4405, 4407, 4427–4432, 4442; Pub. L. 104–299, §4(b)(1), Oct. 11, 1996, 110 Stat. 3645; Pub. L. 105–33, title IV, §§4102(a), (c), 4103(a), 4104(a)(1), 4105(a)(1),\(b)(1), 4106(a), 4201(c)(1), (2), 4205(b)(1), (c)(1), (d)(1)–(3)(A), 4312(b)(1), (2), (d), (e), 4320, 4321(a), 4404(a), 4432(b)(5)(D), (E), 4444(a), 4445, 4446, 4451, 4454(a)(1), 4511(a)(1)–(2)(B), (d), 4512(a), 4513(a), 4522, 4531(a)(1), 4557(a), 4601(a), 4602(a)–(c), 4604(b), 4611(b), 4612(a), Aug. 5, 1997, 111 Stat. 360–362, 366, 367, 373, 376, 377, 386, 387, 394, 400, 421–426, 442–444, 450, 463, 466, 472, 474; Pub. L. 105–277, div. J, title V, §5101(a), (b), (d)(1), Oct. 21, 1998, 112 Stat. 2681–913, 2681–914; Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §§201(k), 221(b)(1), 227(a), title III, §§303(a), 304(a), 321(k)(7)–(9), title V, §521\], Nov. 29, 1999, 113 Stat. 1536, 1501A–341, 1501A–351, 1501A–354, 1501A–360, 1501A–361, 1501A–367, 1501A–386; Pub. L. 106–554, §1(a)(6) \[title I, §§101(a), 102(a), (b), 103(a), 105(a), (b), 112(a), 113(a), title IV, §§430(b), 431(a), title V, §§502(a), 541\], Dec. 21, 2000, 114 Stat. 2763, 2763A–467, 2763A–468, 2763A–471, 2763A–473, 2763A–525, 2763A–529, 2763A–550; Pub. L. 108–173, title III, §303(i)(2), title IV, §§408(a), 414(f)(2), formerly 414(g)(2), 415(b), title V, §512(c), title VI, §§611(a), (b), (d)(2), 612(a), (b), 613(a), (b), 642(a), title VII, §§706(b), 736(a)(10), (11), (b)(3), (11), (12), (c)(4), title IX, §§901(b), 926(b)(1), 946(a), Dec. 8, 2003, 117 Stat. 2254, 2270, 2281, 2282, 2299, 2303–2305, 2322, 2339, 2355, 2356, 2374, 2396, 2424, renumbered Pub. L. 111–68, div. A, title I, §1501(e)(2), Oct. 1, 2009, 123 Stat. 2041; Pub. L. 109–171, title V, §§5004, 5112(a), (b), 5114(a)(1), (b), title VI, §6001(f)(1), Feb. 8, 2006, 120 Stat. 32, 43–45, 58; Pub. L. 110–173, title I, §114(a), Dec. 29, 2007, 121 Stat. 2501; Pub. L. 110–275, title I, §§101(a)(1), (b)(1), 125(b)(2), 143(a), (b)(5), (6), 144(a)(1), 152(b)(1)(A), (B), 153(b)(3)(B), 182(b), July 15, 2008, 122 Stat. 2496, 2497, 2519, 2542–2544, 2551, 2556, 2583; Pub. L. 110–355, §7(a), Oct. 8, 2008, 122 Stat. 3995; Pub. L. 111–148, title IV, §§4103(a), (b), 4104(a), title V, §5502(a)(1), title VI, §6402(g)(2), title X, §§10402(b), 10501(i)(1), (2)(A), Mar. 23, 2010, 124 Stat. 553, 557, 654, 759, 975, 997; Pub. L. 111–152, title I, §1301(a), (b), Mar. 30, 2010, 124 Stat. 1057; Pub. L. 112–40, title II, §261(a)(3)(B), Oct. 21, 2011, 125 Stat. 423.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1861, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 313; amended Pub. L. 89–713, §7, Nov. 2, 1966, 80 Stat. 1111; Pub. L. 90–248, title I, §§127(a), 129(a), (b), (c)(9)(C), (10), (11), 132(a), 133(a), (b), 134(a), 143(a), 144(a)–(d), Jan. 2, 1968, 81 Stat. 846–850, 852, 857, 858; Pub. L. 91–690, Jan. 12, 1971, 84 Stat. 2074; Pub. L. 92–603, title II, §§211(b), (c)(2), 221(c)(4), 223(a)–(d), (f), 227(a), (c), (d)(1), (f), 234(a)–(f), 237(c), 244(c), 246(b), 248, 249(b), 251(a)(1), (b)(1), (c), 252(a), 256(b), 264(a), 265, 267, 273(a), 276(a), 278(a) (4)–(15), (b)(6), (10), (11), (13), 283(a), Oct. 30, 1972, 86 Stat. 1383, 1384, 1389, 1393, 1394, 1404–1407, 1412, 1413, 1416, 1423–1426, 1445–1447, 1449–1454, 1456; Pub. L. 94–182, title I, §§102, 106(a), 112(a)(1), Dec. 31, 1975, 89 Stat. 1051, 1052, 1055; Pub. L. 95–142, §§3(a)(2), 5(m), 19(b)(1), 21(a),Oct. 25, 1977, 91 Stat. 1178, 1191, 1204, 1207; Pub. L. 95–210, §1(d), (g), (h), Dec. 13, 1977, 91 Stat. 1485, 1487, 1488; Pub. L. 95–216, title V, §501(a), Dec. 20, 1977, 91 Stat. 1564; Pub. L. 95–292, §4(d), June 13, 1978, 92 Stat. 315; Pub. L. 96–499, title IX, §§902(a)(1), 915(a), 930(k)–(n), (p), 931(c), (d), 933(c)–(e), 936(a), 937(a), 938(a), 948(a)(1), 949, 950, 951(a), (b), 952(a), formerly 952, Dec. 5, 1980, 94 Stat. 2612, 2623, 2632, 2633, 2635, 2639, 2640, 2643, 2645, 2646; Pub. L. 96–611, §1(a)(1), (b)(3), Dec. 28, 1980, 94 Stat. 3566; Pub. L. 97–35, title XXI, §§2102(a), 2114, 2121(c), (d), 2141(a), 2142(a), 2143(a), 2144(a), 2193(c)(9), Aug. 13, 1981, 95 Stat. 787, 796–799, 828; Pub. L. 97–248, title I, §§101(a)(2), (d), 102(a), 103(a), 105(a), 106(a), 107(a), 108(a)(2), 109(b), 114(b), 122(d), 127(1), 128(a)(1), (d)(2), 148(b), Sept. 3, 1982, 96 Stat. 335–339, 350, 359, 366, 367, 394; Pub. L. 97–448, title III, §309(a)(4), Jan. 12, 1983, 96 Stat. 2408; Pub. L. 98–21, title VI, §§602(d), 607(b)(2), (d), Apr. 20, 1983, 97 Stat. 163, 171, 172; Pub. L. 98–369, div. B, title III, §§2314(a), 2318(a), (b), 2319(a), 2321(e), 2322(a), 2323(a), 2324(a), 2335(b), 2340(a), 2341(a), (c), 2342(a), 2343(a), (b), 2354(b)(18)–(29), July 18, 1984, 98 Stat. 1079, 1081, 1082, 1085, 1086, 1090, 1093, 1094, 1101; Pub. L. 98–617, §3(a)(4), (b)(7), Nov. 8, 1984, 98 Stat. 3295, 3296; Pub. L. 99–272, title IX, §§9107(b), 9110(a), 9202(i)(1), 9219(b)(1)(B), (3)(A), Apr. 7, 1986, 100 Stat. 160, 162, 177, 182, 183; Pub. L. 99–509, title IX, §§9305(c)(1), (2), 9313(a)(2), 9315(a), 9320(b), (c), (f), 9335(c)(1), 9336(a), 9337(d), 9338(a), Oct. 21, 1986, 100 Stat. 1989, 2002, 2005, 2013, 2015, 2030, 2033, 2034; Pub. L. 100–203, title IV, §§4009(e)(1), (f), 4021(a), 4026(a)(1), 4039(b), 4064(e)(1), 4065(a), 4070(b)(1), (2), 4071(a), 4072(a), 4073(a), (c), 4074(a), (b), 4075(a), 4076(a), 4077(a)(1), (b)(1), (4), formerly (5), 4078, 4084(c)(1), 4085(i)(9)–(14), 4201(a)(1), (b)(1), (d)(1), (2), (5), formerly (d), Dec. 22, 1987, 101 Stat. 1330–57, 1330–58, 1330–67, 1330–74, 1330–81, 1330–111, 1330–112, 1330–114, 1330–116, 1330–118 to 1330–121, 1330–132, 1330–133, 1330–160, 1330–174, as amended Pub. L. 100–360, title IV, §411(h)(4)(D), (5)–(7)(A), (E), (F), (i)(3), (4)(C)(iii), (l)(1)(B), (C), July 1, 1988, 102 Stat. 787–789, 801, as amended Pub. L. 100–485, title VI, §608(d)(27)(B), Oct. 13, 1988, 102 Stat. 2422; Pub. L. 100–360, title I, §104(d)(4), title II, §§202(a), 203(b), (e)(1), 204(a), 205(b), 206(a), title IV, §411(d)(1)(B)(i), (5)(A), (g)(3)(H), (h)(1)(B), (2), (3)(A), July 1, 1988, 102 Stat. 689, 702, 721, 725, 730, 731, 773, 774, 785, 786; Pub. L. 100–485, title VI, §608(d)(6)(A), (23)(B), Oct. 13, 1988, 102 Stat. 2414, 2421; Pub. L. 100–647, title VIII, §§8423(a), 8424(a), Nov. 10, 1988, 102 Stat. 3803; Pub. L. 101–234, title I, §101(a), title II, §201(a), Dec. 13, 1989, 103 Stat. 1979, 1981; Pub. L. 101–239, title VI, §§6003(g)(3)(A), (C)(i), (D)(x), 6110, 6112(e)(1), 6113(a)–(b)(2), 6114(a), (d), 6115(a), 6116(a)(1), 6131(a)(2), 6141(a), 6213(a)–(c), Dec. 19, 1989, 103 Stat. 2151–2153, 2213, 2215–2219, 2221, 2225, 2250, 2251; Pub. L. 101–508, title IV, §§4008(h)(2)(A)(i), 4151(a), (b)(1), 4152(a)(2), 4153(b)(2)(A), 4155(a), (d), 4156(a), 4157(a), 4161(a)(1), (2), (5), (b)(1), (2), 4162(a), 4163(a), 4201(d)(1), 4207(d)(1), formerly 4027(d)(1), Nov. 5, 1990, 104 Stat. 1388–48, 1388–71, 1388–72, 1388–74, 1388–84, 1388–86 to 1388–88, 1388–93 to 1388–96, 1388–104, 1388–120, renumbered Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 101–597, title IV, §401(c)(2), Nov. 16, 1990, 104 Stat. 3035; Pub. L. 103–66, title XIII, §§13503(c)(1)(A), 13521, 13522, 13553(a), (b), 13554(a), 13556(a), 13564(a)(2), (b)(1), 13565, 13566(b), Aug. 10, 1993, 107 Stat. 578, 586, 591, 592, 607; Pub. L. 103–432, title I, §§102(g)(4), 104, 107(a), 145(b), 146(a), (b), 147(e)(1), (4), (5), (f)(3), (4)(A), (6)(A), (B), (E), 158(a)(1), Oct. 31, 1994, 108 Stat. 4404, 4405, 4407, 4427–4432, 4442; Pub. L. 104–299, §4(b)(1), Oct. 11, 1996, 110 Stat. 3645; Pub. L. 105–33, title IV, §§4102(a), (c), 4103(a), 4104(a)(1), 4105(a)(1), (b)(1), 4106(a), 4201(c)(1), (2), 4205(b)(1), (c)(1), (d)(1)–(3)(A), 4312(b)(1), (2), (d), (e), 4320, 4321(a), 4404(a), 4432(b)(5)(D), (E), 4444(a), 4445, 4446, 4451, 4454(a)(1), 4511(a)(1)–(2)(B), (d), 4512(a), 4513(a), 4522, 4531(a)(1), 4557(a), 4601(a), 4602(a)–(c), 4604(b), 4611(b), 4612(a), Aug. 5, 1997, 111 Stat. 360–362, 366, 367, 373, 376, 377, 386, 387, 394, 400, 421–426, 442–444, 450, 463, 466, 472, 474; Pub. L. 105–277, div. J, title V, §5101(a), (b), (d)(1), Oct. 21, 1998, 112 Stat. 2681–913, 2681–914; Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §§201(k), 221(b)(1), 227(a), title III, §§303(a), 304(a), 321(k)(7)–(9), title V, §521\], Nov. 29, 1999, 113 Stat. 1536, 1501A–341, 1501A–351, 1501A–354, 1501A–360, 1501A–361, 1501A–367, 1501A–386; Pub. L. 106–554, §1(a)(6) \[title I, §§101(a), 102(a), (b), 103(a), 105(a), (b), 112(a), 113(a), title IV, §§430(b), 431(a), title V, §§502(a), 541\], Dec. 21, 2000, 114 Stat. 2763, 2763A–467, 2763A–468, 2763A–471, 2763A–473, 2763A–525, 2763A–529, 2763A–550; Pub. L. 108–173, title III, §303(i)(2), title IV, §§408(a), 414(f)(2), formerly 414(g)(2), 415(b), title V, §512(c), title VI, §§611(a), (b), (d)(2), 612(a), (b), 613(a), (b), 642(a), title VII, §§706(b), 736(a)(10), (11), (b)(3), (11), (12), (c)(4), title IX, §§901(b), 926(b)(1), 946(a), Dec. 8, 2003, 117 Stat. 2254, 2270, 2281, 2282, 2299, 2303–2305, 2322, 2339, 2355, 2356, 2374, 2396, 2424, renumbered Pub. L. 111–68, div. A, title I, §1501(e)(2), Oct. 1, 2009, 123 Stat. 2041; Pub. L. 109–171, title V, §§5004, 5112(a), (b), 5114(a)(1), (b), title VI, §6001(f)(1), Feb. 8, 2006, 120 Stat. 32, 43–45, 58; Pub. L. 110–173, title I, §114(a), Dec. 29, 2007, 121 Stat. 2501; Pub. L. 110–275, title I, §§101(a)(1), (b)(1), 125(b)(2), 143(a), (b)(5), (6), 144(a)(1), 152(b)(1)(A), (B), 153(b)(3)(B), 182(b), July 15, 2008, 122 Stat. 2496, 2497, 2519, 2542–2544, 2551, 2556, 2583; Pub. L. 110–355, §7(a), Oct. 8, 2008, 122 Stat. 3995; Pub. L. 111–148, title IV, §§4103(a), (b), 4104(a), title V, §5502(a)(1), title VI, §6402(g)(2), title X, §§10402(b), 10501(i)(1), (2)(A), Mar. 23, 2010, 124 Stat. 553, 557, 654, 759, 975, 997; Pub. L. 111–152, title I, §1301(a), (b), Mar. 30, 2010, 124 Stat. 1057; Pub. L. 112–40, title II, §261(a)(3)(B), Oct. 21, 2011, 125 Stat. 423; Pub. L. 112–96, title III, §3201(a)–(c), Feb. 22, 2012, 126 Stat. 191, 192.)
 
 #### References in Text
 
@@ -1562,9 +1586,19 @@ The Internal Revenue Code of 1986, referred to in subsec. (ss)(1)(A), is classif
 
 #### Amendments
 
+<b>2012</b>—Subsec. (v)(1)(T)(iv), (v). Pub. L. 112–96, §3201(a), substituted “fiscal years 2001 through 2012” for “a subsequent fiscal year” in cl. (iv) and added cl. (v).
+
+Subsec. (v)(1)(V). Pub. L. 112–96, §3201(b)(1), substituted “and (beginning with respect to cost reporting periods beginning during fiscal year 2013) for covered skilled nursing services described in section 1395yy(e)(2)(A) of this title furnished by hospital providers of extended care services (as described in section 1395tt of this title)” for “with respect to cost reporting periods beginning on or after October 1, 2005” in introductory provisions.
+
+Subsec. (v)(1)(V)(i). Pub. L. 112–96, §3201(b)(2), substituted “reduced by—” for “reduced by 30 percent of such amount otherwise allowable; and” and added subcls. (I) and (II).
+
+Subsec. (v)(1)(V)(ii). Pub. L. 112–96, §3201(b)(3), substituted “such section—” for “such section shall not be reduced.” and added subcls. (I) to (IV).
+
+Subsec. (v)(1)(W). Pub. L. 112–96, §3201(c), added subpar. (W).
+
 <b>2011</b>—Subsecs. (v)(1)(G)(i), (w)(2). Pub. L. 112–40 substituted “quality improvement” for “quality control and peer review”.
 
-<b>2010</b>—Subsec. (<i>o</i>)(7)(C). Pub. L. 111–148, §6402(g)(2), which directed amendment by inserting “that the Secretary determines is commensurate with the volume of the billing of the home health agency” before semicolon “at the end”, was executed by making the insertion before “; and” to reflect the probable intent of Congress.
+<b>2010</b>—Subsec. (o)(7)(C). Pub. L. 111–148, §6402(g)(2), which directed amendment by inserting “that the Secretary determines is commensurate with the volume of the billing of the home health agency” before semicolon “at the end”, was executed by making the insertion before “; and” to reflect the probable intent of Congress.
 
 Subsec. (s)(2)(K). Pub. L. 111–148, §4103(a)(2), substituted “subsections (ww)(1) and (hhh)” for “subsection (ww)(1)” in cls. (i) and (ii).
 
@@ -1610,7 +1644,7 @@ Subsec. (t)(2)(B). Pub. L. 110–275, §182(b), in concluding provisions, insert
 
 Subsec. (aa)(2). Pub. L. 110–355 substituted “4-year period” for “3-year period” in cl. (i) of concluding provisions.
 
-Subsec. (<i>ll</i>)(2) to (4). Pub. L. 110–275, §143(a), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+Subsec. (ll)(2) to (4). Pub. L. 110–275, §143(a), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
 Subsec. (ww)(1). Pub. L. 110–275, §101(b)(1)(A), inserted “body mass index,” after “weight”, struck out “, and an electrocardiogram” after “blood pressure”, and inserted “and end-of-life planning (as defined in paragraph (3)) upon the agreement with the individual” after “paragraph (2)”.
 
@@ -1630,7 +1664,7 @@ Subsec. (ggg). Pub. L. 110–275, §152(b)(1)(B), added subsec. (ggg).
 
 Subsec. (t)(2)(B)(ii)(I). Pub. L. 109–171, §6001(f)(1), inserted “(or its successor publications)” after “United States Pharmacopoeia-Drug Information”.
 
-Subsec. (v)(1)(T). Pub. L. 109–171, §5004(b), substituted “section 1395<i>l</i>(t)(8)(B)” for “section 1395<i>l</i>(t)(5)(B)” in introductory provisions.
+Subsec. (v)(1)(T). Pub. L. 109–171, §5004(b), substituted “section 1395l(t)(8)(B)” for “section 1395l(t)(5)(B)” in introductory provisions.
 
 Subsec. (v)(1)(V). Pub. L. 109–171, §5004(a), added subpar. (V).
 
@@ -1660,7 +1694,7 @@ Subsec. (s)(2)(Y). Pub. L. 108–173, §613(a), added subpar. (Y).
 
 Subsec. (s)(2)(Z). Pub. L. 108–173, §642(a)(1), added subpar. (Z).
 
-Subsec. (s)(7). Pub. L. 108–173, §415(b), inserted “, subject to section 1395m(<i>l</i>)(14) of this title,” after “but”.
+Subsec. (s)(7). Pub. L. 108–173, §415(b), inserted “, subject to section 1395m(l)(14) of this title,” after “but”.
 
 Subsec. (v)(1)(S)(ii)(III). Pub. L. 108–173, §736(b)(3), inserted closing parenthesis after “as defined in section 1395ww(d)(5)(D)(iii) of this title”.
 
@@ -1726,7 +1760,7 @@ Subsec. (uu). Pub. L. 106–554, §1(a)(6) \[title I, §102(b)\], added subsec. 
 
 Subsec. (vv). Pub. L. 106–554, §1(a)(6) \[title I, §105(b)\], added subsec. (vv).
 
-<b>1999</b>—Subsec. (<i>o</i>)(7). Pub. L. 106–113, §1000(a)(6) \[title III, §304(a)\], amended par. (7) generally. Prior to amendment, par. (7) read as follows: “provides the Secretary on a continuing basis with a surety bond in a form specified by the Secretary and in an amount that is not less than $50,000; and”.
+<b>1999</b>—Subsec. (o)(7). Pub. L. 106–113, §1000(a)(6) \[title III, §304(a)\], amended par. (7) generally. Prior to amendment, par. (7) read as follows: “provides the Secretary on a continuing basis with a surety bond in a form specified by the Secretary and in an amount that is not less than $50,000; and”.
 
 Subsec. (p)(1). Pub. L. 106–113, §1000(a)(6) \[title II, §221(b)(1)(A)\], substituted “, (3), or (4)” for “or (3)”.
 
@@ -1738,7 +1772,7 @@ Subsec. (s)(2)(T)(ii). Pub. L. 106–113, §1000(a)(6) \[title III, §321(k)(7)\
 
 Subsec. (v)(1)(L)(ix), (x). Pub. L. 106–113, §1000(a)(6) \[title III, §303(a)\], added cl. (ix) and redesignated former cl. (ix) as (x).
 
-Subsec. (v)(1)(S)(ii)(I), (II). Pub. L. 106–113, §1000(a)(6) \[title II, §201(k)\], substituted “and until the first date that the prospective payment system under section 1395<i>l</i>(t) of this title is implemented” for “and during fiscal year 2000 before January 1, 2000”.
+Subsec. (v)(1)(S)(ii)(I), (II). Pub. L. 106–113, §1000(a)(6) \[title II, §201(k)\], substituted “and until the first date that the prospective payment system under section 1395l(t) of this title is implemented” for “and during fiscal year 2000 before January 1, 2000”.
 
 Subsec. (aa)(2)(I). Pub. L. 106–113, §1000(a)(6) \[title III, §321(k)(8)\], substituted semicolon for comma at end and realigned margins.
 
@@ -1774,9 +1808,9 @@ Subsec. (m). Pub. L. 105–33, §4612(a), inserted at end of closing provisions 
 
 Subsec. (n). Pub. L. 105–33, §4105(b)(1), inserted before semicolon in first sentence “, and includes blood-testing strips and blood glucose monitors for individuals with diabetes without regard to whether the individual has Type I or Type II diabetes or to the individual's use of insulin (as determined under standards established by the Secretary in consultation with the appropriate organizations)”.
 
-Subsec. (<i>o</i>). Pub. L. 105–33, §4312(b)(1)(D), inserted at end of closing provisions “The Secretary may waive the requirement of a surety bond under paragraph (7) in the case of an agency or organization that provides a comparable surety bond under State law.”
+Subsec. (o). Pub. L. 105–33, §4312(b)(1)(D), inserted at end of closing provisions “The Secretary may waive the requirement of a surety bond under paragraph (7) in the case of an agency or organization that provides a comparable surety bond under State law.”
 
-Subsec. (<i>o</i>)(7), (8). Pub. L. 105–33, §4312(b)(1)(A)–(C), added par. (7) and redesignated former par. (7) as (8).
+Subsec. (o)(7), (8). Pub. L. 105–33, §4312(b)(1)(A)–(C), added par. (7) and redesignated former par. (7) as (8).
 
 Subsec. (p). Pub. L. 105–33, §4312(e)(2), inserted at end of closing provisions “The Secretary may waive the requirement of a surety bond under paragraph (4)(A)(v) in the case of a clinic or agency that provides a comparable surety bond under State law.”
 
@@ -1810,9 +1844,9 @@ Subsec. (s)(15) to (17). Pub. L. 105–33, §4106(a)(1)(B)–(D), added par. (15
 
 Subsec. (u). Pub. L. 105–33, §4201(c)(1), substituted “critical access” for “rural primary care”.
 
-Subsec. (v)(1)(H)(i). Pub. L. 105–33, §4312(b)(2)(A), substituted “the surety bond requirement described in subsection (<i>o</i>)(7) of this section and the financial security requirement described in subsection (<i>o</i>)(8) of this section” for “the financial security requirement described in subsection (<i>o</i>)(7) of this section”.
+Subsec. (v)(1)(H)(i). Pub. L. 105–33, §4312(b)(2)(A), substituted “the surety bond requirement described in subsection (o)(7) of this section and the financial security requirement described in subsection (o)(8) of this section” for “the financial security requirement described in subsection (o)(7) of this section”.
 
-Subsec. (v)(1)(H)(ii). Pub. L. 105–33, §4312(b)(2)(B), substituted “the surety bond requirement described in subsection (<i>o</i>)(7) of this section and the financial security requirement described in subsection (<i>o</i>)(8) of this section apply” for “the financial security requirement described in subsection (<i>o</i>)(7) of this section applies”.
+Subsec. (v)(1)(H)(ii). Pub. L. 105–33, §4312(b)(2)(B), substituted “the surety bond requirement described in subsection (o)(7) of this section and the financial security requirement described in subsection (o)(8) of this section apply” for “the financial security requirement described in subsection (o)(7) of this section applies”.
 
 Subsec. (v)(1)(L)(i). Pub. L. 105–33, §4602(a)(5), struck out closing provisions which read as follows: “of the mean of the labor-related and nonlabor per visit costs for free standing home health agencies.”
 
@@ -1864,7 +1898,7 @@ Subsec. (aa)(2)(I). Pub. L. 105–33, §4205(b)(1), amended subpar. (I) generall
 
 Subsec. (aa)(5). Pub. L. 105–33, §4511(d), designated existing provisions as subpar. (A), substituted “The term ‘physician assistant’ and the term ‘nurse practitioner’ mean, for purposes of this subchapter, a physician assistant or nurse practitioner who performs” for “The term ‘physician assistant’, the term ‘nurse practitioner’, and the term ‘clinical nurse specialist’ mean, for purposes of this subchapter, a physician assistant, nurse practitioner, or clinical nurse specialist who performs”, and added subpar. (B).
 
-Subsec. (aa)(7)(B). Pub. L. 105–33, §4205(c)(1), inserted before period at end “, or if the facility has not yet been determined to meet the requirements (including subparagraph (J) of the first sentence of paragraph (2)) of a rural health clinic”.
+Subsec. (aa)(7)(B). Pub. L. 105–33, §4205(c)(1), inserted before period at end “, or if the facility has not yet been determined to meet the requirements (includingsubparagraph (J) of the first sentence of paragraph (2)) of a rural health clinic”.
 
 Subsec. (cc)(2). Pub. L. 105–33, §4312(d)(4), inserted concluding provisions.
 
@@ -1894,7 +1928,7 @@ Subsec. (mm). Pub. L. 105–33, §4201(c)(2), amended heading and text of subsec
 
 Subsec. (nn). Pub. L. 105–33, §4102(a), substituted “Screening pap smear; screening pelvic exam” for “Screening pap smear” in heading, designated existing provisions as par. (1), inserted “or vaginal” after “cervical” in two places, substituted “3 years, or during the preceding year in the case of a woman described in paragraph (3).” for “3 years (or such shorter period as the Secretary may specify in the case of a woman who is at high risk of developing cervical or vaginal cancer (as determined pursuant to factors identified by the Secretary)).”, and added pars. (2) and (3).
 
-Subsec. (<i>oo</i>). Pub. L. 105–33, §4103(a)(2), added subsec. (<i>oo</i>).
+Subsec. (oo). Pub. L. 105–33, §4103(a)(2), added subsec. (oo).
 
 Subsec. (pp). Pub. L. 105–33, §4104(a)(1)(B), added subsec. (pp).
 
@@ -1930,7 +1964,7 @@ Subsec. (m)(5). Pub. L. 103–432, §147(f)(6)(B)(ii), substituted “and a cove
 
 Subsec. (p). Pub. L. 103–432, §146(b)(3), substituted “speech-language pathology services” for “speech pathology services” after “term ‘outpatient physical therapy services’ also includes” in third sentence of closing provisions.
 
-Subsec. (s)(2)(K)(iii). Pub. L. 103–432, §147(e)(1), made an amendment identical to that made by Pub. L.101–508, §4161(a)(5)(A), substituting “subsection (aa)(5)” for “subsection (aa)(3)” and “subsection (aa)(6)” for “subsection (aa)(4)”.
+Subsec. (s)(2)(K)(iii). Pub. L. 103–432, §147(e)(1), made an amendment identical to that made by Pub. L. 101–508, §4161(a)(5)(A), substituting “subsection (aa)(5)” for “subsection (aa)(3)” and “subsection (aa)(6)” for “subsection (aa)(4)”.
 
 Subsec. (s)(2)(N). Pub. L. 103–432, §147(f)(6)(B)(iii)(I), inserted “and” at end.
 
@@ -1956,7 +1990,7 @@ Pub. L. 103–432, §147(f)(6)(A), (B)(i), amended subsec. (jj), defining “cov
 
 Subsec. (kk). Pub. L. 103–432, §147(f)(6)(E), redesignated subsec. (jj), defining “covered osteoporosis drug”, as (kk).
 
-Subsec. (<i>ll</i>). Pub. L. 103–432, §146(a), added subsec. (<i>ll</i>).
+Subsec. (ll). Pub. L. 103–432, §146(a), added subsec. (ll).
 
 <b>1993</b>—Subsec. (s)(2)(J). Pub. L. 103–66, §13565, substituted “subchapter, but only in the case of drugs furnished—” and cls. (i) to (v) for “subchapter, within 1 year after the date of the transplant procedure;”.
 
@@ -2128,7 +2162,7 @@ Subsec. (hh). Pub. L. 101–239, §6113(b)(2)(B), inserted “; clinical social
 
 Subsec. (ii). Pub. L. 101–239, §6113(a), struck out “on-site at a community mental health center (as such term is used in the Public Health Service Act), and such services that are necessarily furnished off-site (other than at an off-site office of such psychologist) as part of a treatment plan because of the inability of the individual furnished such services to travel to the center by reason of physical or mental impairment, because of institutionalization, or because of similar circumstances of the individual,” after “as defined by the Secretary)”.
 
-Subsecs. (jj) to (<i>ll</i>). Pub. L. 101–234, §201(a), repealed Pub. L. 100–360, §§203(b), 204(a)(2), 205(b), and provided that the provisions of law amended or repealed by such sections are restored or revived as if such sections had not been enacted, see 1988 Amendment notes below.
+Subsecs. (jj) to (ll). Pub. L. 101–234, §201(a), repealed Pub. L. 100–360, §§203(b), 204(a)(2), 205(b), and provided that the provisions of law amended or repealed by such sections are restored or revived as if such sections had not been enacted, see 1988 Amendment notes below.
 
 Subsec. (mm). Pub. L. 101–239, §6003(g)(3)(A), added subsec. (mm).
 
@@ -2138,7 +2172,7 @@ Subsec. (nn). Pub. L. 101–239, §6115(a)(2), added subsec. (nn).
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–360, §104(d)(4)(A), struck out subsec. (a) which defined “spell of illness”.
 
-Subsec. (a)(2). Pub. L. 100–360, §411(<i>l</i>)(1)(B)(i), (ii), redesignated and amended Pub. L. 100–203, §4201(d)(1), see 1987 Amendment note below.
+Subsec. (a)(2). Pub. L. 100–360, §411(l)(1)(B)(i), (ii), redesignated and amended Pub. L. 100–203, §4201(d)(1), see 1987 Amendment note below.
 
 Subsec. (e). Pub. L. 100–360, §104(d)(4)(B), substituted “and paragraph (7) of this subsection” for “paragraph (7) of this subsection, and subsection (i) of this section” in introductory provisions, struck out second sentence which read as follows: “For purposes of subsection (a)(2) of this section, such term includes any institution which meets the requirements of paragraph (1) of this subsection.”, substituted “and section 1395f(f)(2) of this title” for “section 1395f(f)(2) of this title, and subsection (i) of this section” in third sentence, and struck out “, except for purposes of subsection (a)(2) of this section,” after “such term shall not” in fifth sentence.
 
@@ -2146,9 +2180,9 @@ Subsec. (i). Pub. L. 100–360, §104(d)(4)(C), struck out subsec. (i) which def
 
 Subsec. (m). Pub. L. 100–360, §206(a), inserted at end “For purposes of paragraphs (1) and (4) and sections 1395f(a)(2)(C) and 1395n(a)(2)(A) of this title, nursing care and home health aide services shall be considered to be provided or needed on an ‘intermittent’ basis if they are provided or needed less than 7 days each week and, in the case they are provided or needed for 7 days each week, if they are provided or needed for a period of up to 38 consecutive days.”
 
-Subsec. (n). Pub. L. 100–360, §411(<i>l</i>)(1)(C), as added by Pub. L. 100–485, §608(d)(27)(B), added Pub. L. 100–203, §4201(d)(5), see 1987 Amendment note below.
+Subsec. (n). Pub. L. 100–360, §411(l)(1)(C), as added by Pub. L. 100–485, §608(d)(27)(B), added Pub. L. 100–203, §4201(d)(5), see 1987 Amendment note below.
 
-Pub. L. 100–360, §411(<i>l</i>)(1)(B)(iii), added Pub. L. 100–203, §4201(d)(2), see 1987 Amendment note below.
+Pub. L. 100–360, §411(l)(1)(B)(iii), added Pub. L. 100–203, §4201(d)(2), see 1987 Amendment note below.
 
 Pub. L. 100–360, §411(d)(1)(B)(i), inserted “; except that such term does not include such equipment furnished by a supplier who has used, for the demonstration and use of specific equipment, an individual who has not met such minimum training standards as the Secretary may establish with respect to the demonstration and use of such specific equipment” before period at end.
 
@@ -2186,7 +2220,7 @@ Subsec. (u). Pub. L. 100–360, §203(e)(1), inserted “home intravenous drug t
 
 Subsec. (v)(1)(G)(i). Pub. L. 100–360, §104(d)(4)(D), struck out “post-hospital” before “extended care services” in four places.
 
-Subsec. (v)(1)(L)(iii). Pub. L. 100–360, §411(d)(5)(A), substituted “verified” for “audited” in subcls. (I) and (II) and inserted at end “In the case of a home health agency that refuses to provide data, or deliberately provides false data, respecting wages for purposes of this clause upon the request of the Secretary, the Secretary may withhold up to 5 percent of the amount of the payments otherwise payable to the agency under this subchapter until such date as the Secretary determines that such data has been satisfactorily provided.”
+Subsec. (v)(1)(L)(iii). Pub. L. 100–360, §411(d)(5)(A), substituted “verified” for “audited” in subcls. (I) and (II) and inserted at end “In the case of a home health agency that refuses to provide data, or deliberately provides false data, respecting wages for purposes of this clause upon the request of the Secretary, the Secretary may withhold up to 5 percent of the amount of the payments otherwise payable to the agency underthis subchapter until such date as the Secretary determines that such data has been satisfactorily provided.”
 
 Subsec. (v)(2)(A), (3). Pub. L. 100–360, §104(d)(4)(D), struck out “post-hospital” before “extended care services”.
 
@@ -2220,9 +2254,9 @@ Pub. L. 100–360, §203(b), added subsec. (jj) relating to home intravenous dru
 
 Subsec. (kk). Pub. L. 100–360, §204(a)(2), added subsec. (kk) relating to screening mammography.
 
-Subsec. (<i>ll</i>). Pub. L. 100–360, §205(b), added subsec. (<i>ll</i>) relating to in-home care furnished to chronically dependent individual.
+Subsec. (ll). Pub. L. 100–360, §205(b), added subsec. (ll) relating to in-home care furnished to chronically dependent individual.
 
-<b>1987</b>—Subsec. (a)(2). Pub. L. 100–203, §4201(d)(1), formerly §4201(d), as redesignated and amended by Pub. L. 100–360, §411(<i>l</i>)(1)(B)(i), (ii), substituted “facility described in section 1395i–3(a)(1) of this title or subsection (y)(1) of this section” for “skilled nursing facility”.
+<b>1987</b>—Subsec. (a)(2). Pub. L. 100–203, §4201(d)(1), formerly §4201(d), as redesignated and amended by Pub. L. 100–360, §411(l)(1)(B)(i), (ii), substituted “facility described in section 1395i–3(a)(1) of this title or subsection (y)(1) of this section” for “skilled nursing facility”.
 
 Subsec. (b)(3). Pub. L. 100–203, §4009(e)(1), inserted “(including clinical psychologist (as defined by the Secretary))” before “under arrangements”.
 
@@ -2234,13 +2268,13 @@ Subsec. (e)(4). Pub. L. 100–203, §4009(f), inserted “with respect to whom p
 
 Subsec. (g). Pub. L. 100–203, §4085(i)(10), made technical amendment to heading.
 
-Subsec. (j). Pub. L. 100–203, §4201(a)(1), amended subsec. generally, substituting provision defining “skilled nursing facility” as having the meaning given such term in section 1395i–3(a) of this title for provision defining “skilled nursing facility” as, except for purposes of subsec. (a)(2) of this section, an institution or a distinct part of an institution which has in effect a transfer agreement, meeting the requirements of subsec. (<i>l</i>) of this section, with one or more hospitals having agreements in effect under section 1395cc of this title and which meet a specified list of criteria.
+Subsec. (j). Pub. L. 100–203, §4201(a)(1), amended subsec. generally, substituting provision defining “skilled nursing facility” as having the meaning given such term in section 1395i–3(a) of this title for provision defining “skilled nursing facility” as, except for purposes of subsec. (a)(2) of this section, an institution or a distinct part of an institution which has in effect a transfer agreement, meeting the requirements of subsec. (l) of this section, with one or more hospitals having agreements in effect under section 1395cc of this title and which meet a specified list of criteria.
 
-Subsec. (n). Pub. L. 100–203, §4201(d)(2), (5), as added by Pub. L. 100–360, §411(<i>l</i>)(1)(B)(iii), and Pub. L. 100–360, §411(<i>l</i>)(1)(C), as added by Pub. L. 100–485, §608(d)(27)(B), made similar amendments, resulting in the substitution of “subsection (e)(1) of this section or section 1395i–3(a)(1) of this title” for “subsection (e)(1) or (j)(1) of this section” in introductory provisions.
+Subsec. (n). Pub. L. 100–203, §4201(d)(2), (5), as added by Pub. L. 100–360, §411(l)(1)(B)(iii), and Pub. L. 100–360, §411(l)(1)(C), as added by Pub. L. 100–485, §608(d)(27)(B), made similar amendments, resulting in the substitution of “subsection (e)(1) of this section or section 1395i–3(a)(1) of this title” for “subsection (e)(1) or (j)(1) of this section” in introductory provisions.
 
-Subsec. (<i>o</i>)(6). Pub. L. 100–203, §4021(a), inserted “the conditions of participation specified in section 1395bbb(a) of this title and” after “meets”.
+Subsec. (o)(6). Pub. L. 100–203, §4021(a), inserted “the conditions of participation specified in section 1395bbb(a) of this title and” after “meets”.
 
-Subsec. (r)(3). Pub. L. 100–203, §4039(b)(1), substituted “subsections (k), (m), (p)(1), and (s) of this section and sections 1395f(a), 1395k(a)(2)(F)(ii), and 1395n of this title” for “subsection (s) of this section”, and struckout “; and for the purposes of subsections (k), (m), and (p)(1) of this section and sections 1395f(a), 1395k(a)(2)(F)(ii), and 1395n of this title but only if his performance of functions under subsections (k), (m), and (p)(1) of this section and sections 1395f(a), 1395k(a)(2)(F)(ii), and 1395n of this title is consistent with the policy of the institution or agency with respect to which he performs them and with the functions which he is legally authorized to perform”.
+Subsec. (r)(3). Pub. L. 100–203, §4039(b)(1), substituted “subsections (k), (m), (p)(1), and (s) of this section and sections 1395f(a), 1395k(a)(2)(F)(ii), and 1395n of this title” for “subsection (s) of this section”, and struck out “; and for the purposes of subsections (k), (m), and (p)(1) of this section and sections 1395f(a), 1395k(a)(2)(F)(ii), and 1395n of this title but only if his performance of functions under subsections (k), (m), and (p)(1) of this section and sections 1395f(a), 1395k(a)(2)(F)(ii), and 1395n of this title is consistent with the policy of the institution or agency with respect to which he performs them and with the functions which he is legally authorized to perform”.
 
 Subsec. (s). Pub. L. 100–203, §4085(i)(11), substituted in closing provisions “which would not be included under subsection (b) of this section if it were furnished to an inpatient of a hospital.” for “which—” before par. (15) and struck out pars. (15) and (16).
 
@@ -2330,7 +2364,7 @@ Subsec. (v)(1)(L). Pub. L. 99–509, §9315(a), inserted “(i)” after “(L)�
 
 > of the mean of the labor-related and nonlabor per visit costs for free standing home health agencies.
 
-“(ii) Effective for cost reporting periods beginning on or after July 1, 1986, such limitations shall be applied on an aggregate basis for the agency, rather than on adiscipline specific basis, with appropriate adjustment for administrative and general costs of hospital-based agencies.”
+“(ii) Effective for cost reporting periods beginning on or after July 1, 1986, such limitations shall be applied on an aggregate basis for the agency, rather than on a discipline specific basis, with appropriate adjustment for administrative and general costs of hospital-based agencies.”
 
 Subsec. (v)(1)(O)(i). Pub. L. 99–272, §9110(a)(1), inserted “, except as provided in clause (iv),” after “such regulations shall provide”.
 
@@ -2362,7 +2396,7 @@ Subsec. (j)(2). Pub. L. 98–369, §2354(b)(18), substituted “provision for”
 
 Subsec. (j)(13). Pub. L. 98–369, §2354(b)(19), substituted “an institution” for “a nursing home”.
 
-Subsec. (m)(5). Pub. L. 98–369, §2321(e)(1), which directed the substitution of “and durable medical equipment” for “, and the use of medical applicances” was executed by making the substitution for “, and the use of medical appliances” as the probable intent of Congress.
+Subsec. (m)(5). Pub. L. 98–369, §2321(e)(1), which directed the substitution of “and durable medical equipment” for “, and the use of medical applicances” was executed by making the substitution for “, and the useof medical appliances” as the probable intent of Congress.
 
 Subsec. (n). Pub. L. 98–369, §2321(e)(3), added subsec. (n).
 
@@ -2506,13 +2540,13 @@ Subsec. (j)(13). Pub. L. 96–499, §915(a), substituted “such edition (as is 
 
 Subsec. (k)(2)(A). Pub. L. 96–499, §951(b), inserted “(of which at least two must be physicians described in subsection (r)(1) of this section)” after “two or more physicians”.
 
-Subsec. (m)(4). Pub. L. 96–499, §930(<i>l</i>), inserted “who has successfully completed a training program approved by the Secretary” after “health aide”.
+Subsec. (m)(4). Pub. L. 96–499, §930(l), inserted “who has successfully completed a training program approved by the Secretary” after “health aide”.
 
 Subsec. (n). Pub. L. 96–499, §930(m), struck out subsec. (n) which defined “post-hospital home health services”.
 
-Subsec. (<i>o</i>). Pub. L. 96–499, §930(n)(2), in provisions following par. (7), struck out provision that “home health agency” was not to include a private organization which was not a nonprofit organization exempt from Federal income taxation under section 501 of title 26 unless it were licensed pursuant to State law and met such additional standards and requirements as prescribed by regulations.
+Subsec. (o). Pub. L. 96–499, §930(n)(2), in provisions following par. (7), struck out provision that “home health agency” was not to include a private organization which was not a nonprofit organization exempt from Federal income taxation under section 501 of title 26 unless it were licensed pursuant to State law and met such additional standards and requirements as prescribed by regulations.
 
-Subsec. (<i>o</i>)(7). Pub. L. 96–499, §930(n)(1), added par. (7).
+Subsec. (o)(7). Pub. L. 96–499, §930(n)(1), added par. (7).
 
 Subsec. (r)(2). Pub. L. 96–499, §936(a), amended cl. (2) generally to expand definition of “physician” to include doctors of dental surgery or dental medicine acting within the scope of their licenses.
 
@@ -2592,15 +2626,15 @@ Subsec. (j)(11) to (13). Pub. L. 92–603, §246(b)(3), added pars. (11) to (13)
 
 Subsec. (j)(15). Pub. L. 92–603, §§234(d), 246(b)(2), (4), 265, 267, 278(b)(13), redesignated former par. (10) as (11), amended par. (11) as thus redesignated by inserting provisions that the Secretary shall not require as a condition of participation that medical social services be furnished in any such institution, redesignated such par. (11) as thus amended as par. (15), and inserted provision that all information concerning skilled nursing facilities required to be filed with the Secretary be made available to Federal and state employees for purposes consistent with the effective administration of programs established under subchapters XVIII and XIX and inserted provision for the waiver of the registered nurse requirement in skilled nursing facilities in rural areas.
 
-Subsec. (k). Pub. L. 92–603, §§237(c), 278(a)(8), inserted provisions authorizing the Secretary to utilize the procedures established under subchapter XIX of this chapter if such procedures were determined to be superior in their effectiveness and substituted “skilled nursing facility” for “extended care facility”, “skilled nursingfacilities” for “extended care facilities”, and “a” for “an”.
+Subsec. (k). Pub. L. 92–603, §§237(c), 278(a)(8), inserted provisions authorizing the Secretary to utilize the procedures established under subchapter XIX of this chapter if such procedures were determined to be superior in their effectiveness and substituted “skilled nursing facility” for “extended care facility”, “skilled nursing facilities” for “extended care facilities”, and “a” for “an”.
 
-Subsec. (<i>l</i>). Pub. L. 92–603, §278(a)(9), substituted “skilled nursing facility” for “extended care facility” and “a” for “an”.
+Subsec. (l). Pub. L. 92–603, §278(a)(9), substituted “skilled nursing facility” for “extended care facility” and “a” for “an”.
 
 Subsec. (m)(7). Pub. L. 92–603, §278(a)(10), substituted “skilled nursing facility” for “extended care facility”.
 
 Subsec. (n). Pub. L. 92–603, §278(a)(11), substituted “skilled nursing facility” for “extended care facility” and “a” for “an”.
 
-Subsec. (<i>o</i>)(5), (6). Pub. L. 92–603, §234(e), added par. (5) and redesignated former par. (5) as (6).
+Subsec. (o)(5), (6). Pub. L. 92–603, §234(e), added par. (5) and redesignated former par. (5) as (6).
 
 Subsec. (p). Pub. L. 92–603, §§251(a)(1), (b)(1), 283(a), inserted provisions covering physical therapy services of a licensed physical therapist other than under an arrangement with and under the supervision of a provider of services, clinic, rehabilitation agency, or public health agency, inserted “In addition, such term includes physical therapy services which meet the requirements of the first sentence of this subsection except that they are furnished to an individual as an inpatient of a hospital or extended care facility”, and extended definition of “outpatient physical therapy services” to include outpatient speech pathology services.
 
@@ -2668,9 +2702,9 @@ Amendment by Pub. L. 112–40 applicable to contracts entered into or renewed on
 
 Pub. L. 111–152, title I, §1301(c), Mar. 30, 2010, 124 Stat. 1057, provided that: “The amendments made by this section \[amending this section\] shall apply to items and services furnished on or after the first day of the first calendar quarter that begins at least 12 months after the date of the enactment of this Act \[Mar. 30, 2010\].”
 
-Amendment by section 4103(a), (b) of Pub. L. 111–148 applicable to services furnished on or after Jan. 1, 2011, see section 4103(e) of Pub. L. 111–148, set out as a note under section 1395<i>l</i> of this title.
+Amendment by section 4103(a), (b) of Pub. L. 111–148 applicable to services furnished on or after Jan. 1, 2011, see section 4103(e) of Pub. L. 111–148, set out as a note under section 1395l of this title.
 
-Amendment by section 4104(a) of Pub. L. 111–148 applicable to items and services furnished on or after Jan. 1, 2011, see section 4104(d) of Pub. L. 111–148, set out as a note under section 1395<i>l</i> of this title.
+Amendment by section 4104(a) of Pub. L. 111–148 applicable to items and services furnished on or after Jan. 1, 2011, see section 4104(d) of Pub. L. 111–148, set out as a note under section 1395l of this title.
 
 Pub. L. 111–148, title V, §5502(a)(2), Mar. 23, 2010, 124 Stat. 654, which provided that the amendment made by section 5502(a)(1) (amending this section) applied to services furnished on or after Jan. 1, 2011, was repealed by Pub. L. 111–148, title X, §10501(i)(1), Mar. 23, 2010, 124 Stat. 997.
 
@@ -2680,7 +2714,7 @@ Pub. L. 111–148, title X, §10501(i)(2)(B), Mar. 23, 2010, 124 Stat. 997, prov
 
 Pub. L. 110–355, §7(b), Oct. 8, 2008, 122 Stat. 3995, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 8, 2008\].”
 
-Amendment by section 101(a)(1), (b)(1) of Pub. L. 110–275 applicable to services furnished on or after Jan. 1, 2009, see section 101(c) of Pub. L. 110–275, set out as a note under section 1395<i>l</i> of this title.
+Amendment by section 101(a)(1), (b)(1) of Pub. L. 110–275 applicable to services furnished on or after Jan. 1, 2009, see section 101(c) of Pub. L. 110–275, set out as a note under section 1395l of this title.
 
 Amendment by section 125(b)(2) of Pub. L. 110–275 applicable with respect to accreditations of hospitals granted on or after the date that is 24 months after July 15, 2008, with transition rule, see section 125(d) of Pub. L. 110–275, set out as an Effective Date of 2008 Amendment; Transition Rule note under section 1395bb of this title.
 
@@ -2692,7 +2726,7 @@ Amendment by section 152(b)(1)(A), (B) of Pub. L. 110–275 applicable to servic
 
 #### Effective Date of 2006 Amendment
 
-Amendment by section 5112(a), (b) of Pub. L. 109–171 applicable to services furnished on or after Jan. 1, 2007, see section 5112(f) of Pub. L. 109–171, set out as a note under section 1395<i>l</i> of this title.
+Amendment by section 5112(a), (b) of Pub. L. 109–171 applicable to services furnished on or after Jan. 1, 2007, see section 5112(f) of Pub. L. 109–171, set out as a note under section 1395l of this title.
 
 Amendment by section 5114(a)(1), (b) of Pub. L. 109–171 applicable to services furnished on or after Jan. 1, 2006, see section 5114(c) of Pub. L. 109–171, set out as a note under section 1395u of this title.
 
@@ -2710,7 +2744,7 @@ Pub. L. 108–173, title VI, §612(d), Dec. 8, 2003, 117 Stat. 2305, provided th
 
 Pub. L. 108–173, title VI, §613(d), Dec. 8, 2003, 117 Stat. 2306, provided that: “The amendments made by this section \[amending this section and section 1395y of this title\] shall apply to tests furnished on or after January 1, 2005.”
 
-Amendment by section 642(a) of Pub. L. 108–173 applicable to items furnished on or after Jan. 1, 2004, see section 642(c) of Pub. L. 108–173, set out as a note under section 1395<i>l</i> of this title.
+Amendment by section 642(a) of Pub. L. 108–173 applicable to items furnished on or after Jan. 1, 2004, see section 642(c) of Pub. L. 108–173, set out as a note under section 1395l of this title.
 
 Pub. L. 108–173, title IX, §926(b)(2), Dec. 8, 2003, 117 Stat. 2396, provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply to discharge plans made on or after such date as the Secretary \[of Health and Human Services\] shall specify, but not later than 6 months after the date the Secretary provides for availability of information under subsection (a) \[enacting provisions set out as a note under this section\].”
 
@@ -2724,47 +2758,47 @@ Pub. L. 106–554, §1(a)(6) \[title I, §102(d)\], Dec. 21, 2000, 114 Stat. 276
 
 Amendment by section 1(a)(6) \[title I, §103(a)\] of Pub. L. 106–554 applicable to colorectal cancer screening services provided on or after July 1, 2001, see section 1(a)(6) \[title I, §103(c)\] of Pub. L. 106–554, set out as a note under section 1395m of this title.
 
-Amendment by section 1(a)(6) \[title I, §105(a), (b)\] of Pub. L. 106–554 applicable to services furnished on or after Jan. 1, 2002, see section 1(a)(6) \[title I, §105(e)\] of Pub. L. 106–554, set out as a note under section 1395<i>l</i> of this title.
+Amendment by section 1(a)(6) \[title I, §105(a), (b)\] of Pub. L. 106–554 applicable to services furnished on or after Jan. 1, 2002, see section 1(a)(6) \[title I, §105(e)\] of Pub. L. 106–554, set out as a note under section 1395l of this title.
 
 Pub. L. 106–554, §1(a)(6) \[title I, §112(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–473, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to drugs and biologicals administered on or after the date of the enactment of this Act \[Dec. 21, 2000\].”
 
 Pub. L. 106–554, §1(a)(6) \[title I, §113(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–473, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to drugs furnished on or after the date of the enactment of this Act \[Dec. 21, 2000\].”
 
-Amendment by section 1(a)(6) \[title IV, §430(b)\] of Pub. L. 106–554 applicable to items and services furnished on or after July 1, 2001, see section 1(a)(6) \[title IV, §430(c)\] of Pub. L. 106–554, set out as a note under section 1395<i>l</i> of this title.
+Amendment by section 1(a)(6) \[title IV, §430(b)\] of Pub. L. 106–554 applicable to items and services furnished on or after July 1, 2001, see section 1(a)(6) \[title IV, §430(c)\] of Pub. L. 106–554, set out as a note under section 1395l of this title.
 
 Pub. L. 106–554, §1(a)(6) \[title IV, §431(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–525, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to community mental health centers with respect to services furnished on or after the first day of the third month beginning after the date of the enactment of this Act \[Dec. 21, 2000\].”
 
 #### Effective Date of 1999 Amendment
 
-Amendment by section 1000(a)(6) \[title II, §201(k)\] of Pub. L. 106–113 effective as if included in enactment of the Balanced Budget Act of 1997, Pub. L. 105–33, except as otherwise provided, see §1000(a)(6) \[title II, §201(m)\] of Pub. L. 106–113, set out as a note under section 1395<i>l</i> of this title.
+Amendment by section 1000(a)(6) \[title II, §201(k)\] of Pub. L. 106–113 effective as if included in enactment of the Balanced Budget Act of 1997, Pub. L. 105–33, except as otherwise provided, see §1000(a)(6) \[title II, §201(m)\] of Pub. L. 106–113, set out as a note under section 1395l of this title.
 
 Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §221(b)(2)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–351, provided that: “The amendments made by paragraph (1) \[amending this section\] apply to services furnished on or after January 1, 2000.”
 
 Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §303(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–361, provided that: “The amendments made by this section \[amending this section and section 1395fff of this title\] shall apply to services furnished by home health agencies for cost reporting periods beginning on or after October 1, 1999.”
 
-Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §304(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–361, provided that: “The amendments made by this section \[amending this section and enacting section 1320b–7f of this title\] take effect on the date of the enactment of this Act \[Nov. 29, 1999\], and in applying section 1861(<i>o</i>)(7) of the Social Security Act (42 U.S.C. 1395x(<i>o</i>)(7)), as amended by subsection (a), the Secretary of Health and Human Services may take into account the previous period for which a home health agency had a surety bond in effect under such section before such date.”
+Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §304(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–361, provided that: “The amendments made by this section \[amending this section and enacting section 1320b–7f of this title\] take effect on the date of the enactment of this Act \[Nov. 29, 1999\], and in applying section 1861(o)(7) of the Social Security Act (42 U.S.C. 1395x(o)(7)), as amended by subsection (a), the Secretary of Health and Human Services may take into account the previous period for which a home health agency had a surety bond in effect under such section before such date.”
 
 Amendment by section 1000(a)(6) \[title III, §321(k)(7)–(9)\] of Pub. L. 106–113 effective as if included in the enactment of the Balanced Budget Act of 1997, Pub. L. 105–33, except as otherwise provided, see section 1000(a)(6) \[title III, §321(m)\] of Pub. L. 106–113, set out as a note under section 1395d of this title.
 
 #### Effective Date of 1997 Amendment
 
-Amendment by section 4102(a), (c) of Pub. L. 105–33 applicable to items and services furnished on or after Jan. 1, 1998, see section 4102(e) of Pub. L. 105–33, set out as a note under section 1395<i>l</i> of this title.
+Amendment by section 4102(a), (c) of Pub. L. 105–33 applicable to items and services furnished on or after Jan. 1, 1998, see section 4102(e) of Pub. L. 105–33, set out as a note under section 1395l of this title.
 
-Amendment by section 4103(a) of Pub. L. 105–33 applicable to items and services furnished on or after Jan. 1, 2000, see section 4103(e) of Pub. L. 105–33, set out as a note under section 1395<i>l</i> of this title.
+Amendment by section 4103(a) of Pub. L. 105–33 applicable to items and services furnished on or after Jan.1, 2000, see section 4103(e) of Pub. L. 105–33, set out as a note under section 1395l of this title.
 
-Amendment by section 4104(a)(1) of Pub. L. 105–33 applicable to items and services furnished on or after Jan. 1, 1998, see section 4104(e) of Pub. L. 105–33, set out as a note under section 1395<i>l</i> of this title.
+Amendment by section 4104(a)(1) of Pub. L. 105–33 applicable to items and services furnished on or after Jan. 1, 1998, see section 4104(e) of Pub. L. 105–33, set out as a note under section 1395l of this title.
 
 Amendment by section 4105(a)(1), (b)(1) of Pub. L. 105–33 applicable to items and services furnished on or after July 1, 1998, see section 4105(d)(1) of Pub. L. 105–33, set out as a note under section 1395m of this title.
 
-Section 4106(d) of Pub. L. 105–33 provided that: “The amendments made by this section \[amending this section and sections 1395w–4, 1395aa, 1396a, and 1396n of this title\] shall apply to bone mass measurements performed on or after July 1, 1998.”
+Pub. L. 105–33, title IV, §4106(d), Aug. 5, 1997, 111 Stat. 368, provided that: “The amendments made by this section \[amending this section and sections 1395w–4, 1395aa, 1396a, and 1396n of this title\] shall apply to bone mass measurements performed on or after July 1, 1998.”
 
 Amendment by section 4201(c)(1), (2) of Pub. L. 105–33 applicable to services furnished on or after Oct. 1, 1997, see section 4201(d) of Pub. L. 105–33, set out as a note under section 1395f of this title.
 
-Section 4205(b)(2) of Pub. L. 105–33 provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on January 1, 1998.”
+Pub. L. 105–33, title IV, §4205(b)(2), Aug. 5, 1997, 111 Stat. 376, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on January 1, 1998.”
 
-Section 4205(c)(2) of Pub. L. 105–33 provided that: “The amendment made by paragraph (1) \[amending this section\] applies to waiver requests made on or after January 1, 1998.”
+Pub. L. 105–33, title IV, §4205(c)(2), Aug. 5, 1997, 111 Stat. 376, provided that: “The amendment made by paragraph (1) \[amending this section\] applies to waiver requests made on or after January 1, 1998.”
 
-Section 4205(d)(4) of Pub. L. 105–33 provided that:
+Pub. L. 105–33, title IV, §4205(d)(4), Aug. 5, 1997, 111 Stat. 377, provided that:
 
 “(A)
 
@@ -2788,15 +2822,15 @@ Regulations.—The Secretary shall issue final regulations implementing paragrap
 
 Amendment by section 4312(d), (e) of Pub. L. 105–33 effective Aug. 5, 1997, and may be applied with respect to items and services furnished on or after Jan. 1, 1998, see section 4312(f)(3) of Pub. L. 105–33, set out as a note under section 1395m of this title.
 
-Section 4312(f)(2) of Pub. L. 105–33 provided that: “The amendments made by subsection (b) \[amending this section\] shall apply to home health agencies with respect to services furnished on or after January 1, 1998. The Secretary of Health and Human Services shall modify participation agreements under section 1866(a)(1) of the Social Security Act (42 U.S.C. 1395cc(a)(1)) with respect to home health agencies to provide for implementation of such amendments on a timely basis.”
+Pub. L. 105–33, title IV, §4312(f)(2), Aug. 5, 1997, 111 Stat. 388, provided that: “The amendments made by subsection (b) \[amending this section\] shall apply to home health agencies with respect to services furnished on or after January 1, 1998. The Secretary of Health and Human Services shall modify participation agreements under section 1866(a)(1) of the Social Security Act (42 U.S.C. 1395cc(a)(1)) with respect to home health agencies to provide for implementation of such amendments on a timely basis.”
 
-Section 4321(d)(1) of Pub. L. 105–33 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to discharges occurring on or after the date which is 90 days after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–33, title IV, §4321(d)(1), Aug. 5, 1997, 111 Stat. 395, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to discharges occurring on or after the date which is 90 days after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
-Section 4404(b) of Pub. L. 105–33 provided that: “The amendments made by subsection (a) \[amending this section\] apply to changes of ownership that occur after the third month beginning after the date of enactment of this section \[Aug. 5, 1997\].”
+Pub. L. 105–33, title IV, §4404(b), Aug. 5, 1997, 111 Stat. 400, provided that: “The amendments made by subsection (a) \[amending this section\] apply to changes of ownership that occur after the third month beginning after the date of enactment of this section \[Aug. 5, 1997\].”
 
 Amendment by section 4432(b)(5)(D), (E) of Pub. L. 105–33 applicable to items and services furnished on or after July 1, 1998, see section 4432(d) of Pub. L. 105–33, set out as a note under section 1395i–3 of this title.
 
-Section 4444(b) of Pub. L. 105–33 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to items or services furnished on or after April 1, 1998.”
+Pub. L. 105–33, title IV, §4444(b), Aug. 5, 1997, 111 Stat. 423, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to items or services furnished on or after April 1, 1998.”
 
 Amendment by sections 4445 and 4446 of Pub. L. 105–33 applicable to benefits provided on or after Aug. 5, 1997, except as otherwise provided, see section 4449 of Pub. L. 105–33, set out as a note under section 1395d of this title.
 
@@ -2804,17 +2838,17 @@ Amendment by section 4454(a)(1) of Pub. L. 105–33 effective Aug. 5, 1997, and 
 
 Amendment by section 4511(a)(1)–(2)(B), (d) of Pub. L. 105–33 applicable to services furnished and supplies provided on and after Jan. 1, 1998, see section 4511(e) of Pub. L. 105–33, set out as a note under section 1395k of this title.
 
-Amendment by section 4512(a) of Pub. L. 105–33 applicable to services furnished and supplies provided on and after Jan. 1, 1998, see section 4512(d) of Pub. L. 105–33, set out as a note under section 1395<i>l</i> of this title.
+Amendment by section 4512(a) of Pub. L. 105–33 applicable to services furnished and supplies provided on and after Jan. 1, 1998, see section 4512(d) of Pub. L. 105–33, set out as a note under section 1395l of this title.
 
-Section 4513(b) of Pub. L. 105–33 provided that: “The amendment made by subsection (a) \[amending this section\] applies to services furnished on or after January 1, 2000.”
+Pub. L. 105–33, title IV, §4513(b), Aug. 5, 1997, 111 Stat. 444, provided that: “The amendment made by subsection (a) \[amending this section\] applies to services furnished on or after January 1, 2000.”
 
-Section 4557(b) of Pub. L. 105–33 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to items and services furnished on or after January 1, 1998.”
+Pub. L. 105–33, title IV, §4557(b), Aug. 5, 1997, 111 Stat. 463, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to items and services furnished on or after January 1, 1998.”
 
-Section 4604(c) of Pub. L. 105–33 provided that: “The amendments made by this section \[amending this section and section 1395bbb of this title\] apply to cost reporting periods beginning on or after October 1, 1997.”
+Pub. L. 105–33, title IV, §4604(c), Aug. 5, 1997, 111 Stat. 472, provided that: “The amendments made by this section \[amending this section and section 1395bbb of this title\] apply to cost reporting periods beginning on or after October 1, 1997.”
 
 Amendment by section 4611(b) of Pub. L. 105–33 applicable to services furnished on or after Jan. 1, 1998, and for purposes of applying such amendment, any home health spell of illness that began, but did not end, before such date, to be considered to have begun as of such date, see section 4611(f) of Pub. L. 105–33, set out as a note under section 1395d of this title.
 
-Section 4612(b) of Pub. L. 105–33 provided that: “The amendment made by subsection (a) \[amending this section\] applies to services furnished on or after October 1, 1997.”
+Pub. L. 105–33, title IV, §4612(b), Aug. 5, 1997, 111 Stat. 474, provided that: “The amendment made by subsection (a) \[amending this section\] applies to services furnished on or after October 1, 1997.”
 
 #### Effective Date of 1996 Amendment
 
@@ -2822,29 +2856,29 @@ Amendment by Pub. L. 104–299 effective Oct. 1, 1996, see section 5 of Pub. L. 
 
 #### Effective Date of 1994 Amendment
 
-Section 107(b) of Pub. L. 103–432 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to services furnished on or after the first day of the first month beginning more than one year after the date of the enactment of this Act \[Oct. 31, 1994\].”
+Pub. L. 103–432, title I, §107(b), Oct. 31, 1994, 108 Stat. 4407, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to services furnished on or after the first day of the first month beginning more than one year after the date of the enactment of this Act \[Oct. 31, 1994\].”
 
 Amendment by section 145(b) of Pub. L. 103–432 applicable to mammography furnished by the facility on and after the first date that the certificate requirements of section 263b(b) of this title apply to such mammography conducted by such facility, see section 145(d) of Pub. L. 103–432, set out as a note under section 1395m of this title.
 
-Section 146(c) of Pub. L. 103–432 provided that: “The amendments made by this section \[amending this section\] shall take effect on January 1, 1995.”
+Pub. L. 103–432, title I, §146(c), Oct. 31, 1994, 108 Stat. 4429, provided that: “The amendments made by this section \[amending this section\] shall take effect on January 1, 1995.”
 
 Amendment by section 147(e)(1), (4), (5), (f)(3), (4)(A), (6)(A), (B), (E) of Pub. L. 103–432 effective as if included in the enactment of Pub. L. 101–508, see section 147(g) of Pub. L. 103–432, set out as a note under section 1320a–3a of this title.
 
-Section 158(a)(2) of Pub. L. 103–432 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to cost reporting periods beginning on or after July 1, 1996.”
+Pub. L. 103–432, title I, §158(a)(2), Oct. 31, 1994, 108 Stat. 4442, provided that: “The amendment made byparagraph (1) \[amending this section\] shall apply with respect to cost reporting periods beginning on or after July 1, 1996.”
 
 #### Effective Date of 1993 Amendment
 
-Section 13503(c)(2) of Pub. L. 103–66 provided that: “The amendments made by paragraph (1) \[amending this section and section 1395<i>oo</i> of this title\] shall take effect October 1, 1993.”
+Pub. L. 103–66, title XIII, §13503(c)(2), Aug. 10, 1993, 107 Stat. 579, provided that: “The amendments made by paragraph (1) \[amending this section and section 1395oo of this title\] shall take effect October 1, 1993.”
 
-Section 13553(c) of Pub. L. 103–66 provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply to items furnished on or after January 1, 1994.”
+Pub. L. 103–66, title XIII, §13553(c), Aug. 10, 1993, 107 Stat. 592, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply to items furnished on or after January 1, 1994.”
 
-Section 13554(b) of Pub. L. 103–66 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to services furnished on or after January 1, 1994.”
+Pub. L. 103–66, title XIII, §13554(b), Aug. 10, 1993, 107 Stat. 592, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to services furnished on or after January 1, 1994.”
 
-Section 13556(b) of Pub. L. 103–66 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of section 4161(a)(2)(C) of OBRA–1990 \[Pub. L. 101–508\].”
+Pub. L. 103–66, title XIII, §13556(b), Aug. 10, 1993, 107 Stat. 592, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of section 4161(a)(2)(C) of OBRA–1990 \[Pub. L. 101–508\].”
 
-Section 13564(b)(2) of Pub. L. 103–66 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to cost reporting periods beginning on or after October 1, 1993.”
+Pub. L. 103–66, title XIII, §13564(b)(2), Aug. 10, 1993, 107 Stat. 607, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to cost reporting periods beginning on or after October 1, 1993.”
 
-Section 13566(c) of Pub. L. 103–66 provided that: “The amendments made by this section \[amending this section and section 1395rr of this title\] shall apply to erythropoietin furnished on or after January 1, 1994.”
+Pub. L. 103–66, title XIII, §13566(c), Aug. 10, 1993, 107 Stat. 607, provided that: “The amendments made by this section \[amending this section and section 1395rr of this title\] shall apply to erythropoietin furnished on or after January 1, 1994.”
 
 #### Effective Date of 1990 Amendment
 
@@ -2852,7 +2886,7 @@ Amendment by section 4008(h)(2)(A)(i) of Pub. L. 101–508 effective as if inclu
 
 Amendment by section 4152(a)(2) of Pub. L. 101–508 applicable to items furnished on or after Jan. 1, 1991, see section 4152(a)(3) of Pub. L. 101–508, set out as a note under section 1395m of this title.
 
-Section 4153(b)(2)(C) of Pub. L. 101–508 provided that: “The amendments made by subparagraphs (A) and (B) \[amending this section and section 1395y of this title\] shall apply to items furnished on or after January 1, 1991.”
+Pub. L. 101–508, title IV, §4153(b)(2)(C), Nov. 5, 1990, 104 Stat. 1388–84, provided that: “The amendments made by subparagraphs (A) and (B) \[amending this section and section 1395y of this title\] shall apply to items furnished on or after January 1, 1991.”
 
 Amendment by section 4155(a), (d) of Pub. L. 101–508 applicable to services furnished on or after Jan. 1, 1991, see section 4155(e) of Pub. L. 101–508, set out as a note under section 1395k of this title.
 
@@ -2860,31 +2894,31 @@ Amendment by section 4157(a) of Pub. L. 101–508 applicable to services furnish
 
 Amendment by section 4161(a)(1), (2), (5) of Pub. L. 101–508 applicable to services furnished on or after Oct. 1, 1991, see section 4161(a)(8) of Pub. L. 101–508, set out as a note under section 1395k of this title.
 
-Section 4161(b)(5) of Pub. L. 101–508 provided that: “This subsection \[amending this section and section 1395<i>oo</i> of this title and enacting provisions set out as a note below\] shall take effect on October 1, 1991, except that the amendment made by paragraph (4) \[amending section 1395<i>oo</i> of this title\] shall apply to cost reports for periods beginning on or after October 1, 1991.”
+Pub. L. 101–508, title IV, §4161(b)(5), Nov. 5, 1990, 104 Stat. 1388–95, provided that: “This subsection \[amending this section and section 1395oo of this title and enacting provisions set out as a note below\] shall take effect on October 1, 1991, except that the amendment made by paragraph (4) \[amending section 1395oo of this title\] shall apply to cost reports for periods beginning on or after October 1, 1991.”
 
 Amendment by section 4162(a) of Pub. L. 101–508 applicable with respect to partial hospitalization services provided on or after Oct. 1, 1991, see section 4162(c) of Pub. L. 101–508, set out as a note under section 1395k of this title.
 
-Amendment by section 4163(a) of Pub. L. 101–508 applicable to screening mammography performed on or after Jan. 1, 1991, see section 4163(e) of Pub. L. 101–508, set out as a note under section 1395<i>l</i> of this title.
+Amendment by section 4163(a) of Pub. L. 101–508 applicable to screening mammography performed on or after Jan. 1, 1991, see section 4163(e) of Pub. L. 101–508, set out as a note under section 1395l of this title.
 
-Section 4201(d)(3)\[(4)\] of Pub. L. 101–508 provided that: “The amendments made by paragraphs (1) and (2) \[amending this section and section 1395rr of this title\] shall apply to items and services furnished on or after July 1, 1991.”
+Pub. L. 101–508, title IV, §4201(d)(3)\[(4)\], Nov. 5, 1990, 104 Stat. 1388–104, provided that: “The amendments made by paragraphs (1) and (2) \[amending this section and section 1395rr of this title\] shall apply to items and services furnished on or after July 1, 1991.”
 
-Section 4207(d)(4), formerly 4027(d)(3), of Pub. L. 101–508, as renumbered and amended by Pub. L. 103–432, title I, §160(d)(4), (10), Oct. 31, 1994, 108 Stat. 4444, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to home health agency cost reporting periods beginning on or after July 1, 1991.”
+Pub. L. 101–508, title IV, §4207(d)(4), formerly §4027(d)(3), Nov. 5, 1990, 104 Stat. 1388–121, as renumbered and amended by Pub. L. 103–432, title I, §160(d)(4), (10), Oct. 31, 1994, 108 Stat. 4444, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to home health agency cost reporting periods beginning on or after July 1, 1991.”
 
-#### Effective Date of 1989 Amendments
+#### Effective Date of 1989 Amendment
 
 Amendment by section 6112(e)(1) of Pub. L. 101–239 applicable with respect to items furnished on or after Jan. 1, 1990, see section 6112(e)(4) of Pub. L. 101–239, set out as a note under section 1395m of this title.
 
-Amendment by section 6113(a)–(b)(2) of Pub. L. 101–239 applicable to services furnished on or after July 1, 1990, see section 6113(e) of Pub. L. 101–239, set out as a note under section 1395<i>l</i> of this title.
+Amendment by section 6113(a)–(b)(2) of Pub. L. 101–239 applicable to services furnished on or after July 1, 1990, see section 6113(e) of Pub. L. 101–239, set out as a note under section 1395l of this title.
 
 Amendment by section 6114(a), (d) of Pub. L. 101–239 applicable to services furnished on or after Apr. 1, 1990, see section 6114(f) of Pub. L. 101–239, set out as a note under section 1395u of this title.
 
-Section 6115(d) of Pub. L. 101–239 provided that: “The amendments made by this section \[amending this section and sections 1395y, 1395aa, 1395bb, 1396a, and 1396n of this title\] shall apply to screening pap smears performed on or after July 1, 1990.”
+Pub. L. 101–239, title VI, §6115(d), Dec. 19, 1989, 103 Stat. 2219, provided that: “The amendments made by this section \[amending this section and sections 1395y, 1395aa, 1395bb, 1396a, and 1396n of this title\] shall apply to screening pap smears performed on or after July 1, 1990.”
 
-Amendment by section 6131(a)(2) of Pub. L. 101–239 applicable with respect to therapeutic shoes and inserts furnished on or after July 1, 1989, with additional provisions regarding applicability of the increase under section 1395<i>l</i>(<i>o</i>)(2)(C) of this title, see section 6131(c) of Pub. L. 101–239, set out as a note under section 1395<i>l</i> of this title.
+Amendment by section 6131(a)(2) of Pub. L. 101–239 applicable with respect to therapeutic shoes and inserts furnished on or after July 1, 1989, with additional provisions regarding applicability of the increase under section 1395l(o)(2)(C) of this title, see section 6131(c) of Pub. L. 101–239, set out as a note under section 1395l of this title.
 
-Section 6141(b) of Pub. L. 101–239 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 19, 1989\].”
+Pub. L. 101–239, title VI, §6141(b), Dec. 19, 1989, 103 Stat. 2225, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 19, 1989\].”
 
-Section 6213(d) of Pub. L. 101–239, as amended by Pub. L. 101–508, title IV, §4207(k)(4), formerly §4027(k)(4), Nov. 5, 1990, 104 Stat. 1388–125, renumbered Pub. L.103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444, provided that: “The amendments made by subsections (a) through (c) of this section \[amending this section\] shall apply to services furnished on or after October 1, 1989.”
+Pub. L. 101–239, title VI, §6213(d), Dec. 19, 1989, 103 Stat. 2251, as amended by Pub. L. 101–508, title IV, §4207(k)(4), formerly §4027(k)(4), Nov. 5, 1990, 104 Stat. 1388–125, renumbered Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444, provided that: “The amendments made by subsections (a) through (c) of this section \[amending this section\] shall apply to services furnished on or after October 1, 1989.”
 
 Amendment by section 101(a) of Pub. L. 101–234 effective Jan. 1, 1990, see section 101(d) of Pub. L. 101–234, set out as a note under section 1395c of this title.
 
@@ -2892,13 +2926,13 @@ Amendment by section 201(a) of Pub. L. 101–234 effective Jan. 1, 1990, see sec
 
 #### Effective Date of 1988 Amendment
 
-Section 8423(b) of Pub. L. 100–647 provided that: “The amendments made by subsection (a) \[amending this section\] shall be effective with respect to services furnished on or after January 1, 1989.”
+Pub. L. 100–647, title VIII, §8423(b), Nov. 10, 1988, 102 Stat. 3803, provided that: “The amendments made by subsection (a) \[amending this section\] shall be effective with respect to services furnished on or after January 1, 1989.”
 
-Section 8424(b) of Pub. L. 100–647 provided that: “The amendment made by subsection (a) \[amending this section\] shall become effective with respect to services provided after December 31, 1988.”
+Pub. L. 100–647, title VIII, §8424(b), Nov. 10, 1988, 102 Stat. 3803, provided that: “The amendment made by subsection (a) \[amending this section\] shall become effective with respect to services provided after December 31, 1988.”
 
 Amendment by Pub. L. 100–485 effective as if included in the enactment of the Medicare Catastrophic Coverage Act of 1988, Pub. L. 100–360, see section 608(g)(1) of Pub. L. 100–485, set out as a note under section 704 of this title.
 
-Amendment by section 104(d)(4) of Pub. L. 100–360 effective Jan. 1, 1989, except as otherwise provided, and applicable to inpatient hospital deductible for 1989 and succeeding years, to care and services furnished on or after Jan. 1, 1989, to premiums for January 1989 and succeeding months, and to blood or blood cells furnished on or after Jan. 1, 1989, see section 104(a) of Pub. L. 100–360, set out as a note under section 1395d of this title.
+Amendment by section 104(d)(4) of Pub. L. 100–360 effective Jan. 1, 1989, except as otherwise provided, and applicable to inpatient hospital deductible for 1989 and succeeding years, to care and services furnished on or after Jan. 1, 1989, to premiums for January 1989 andsucceeding months, and to blood or blood cells furnished on or after Jan. 1, 1989, see section 104(a) of Pub. L. 100–360, set out as a note under section 1395d of this title.
 
 Amendment by section 202(a) of Pub. L. 100–360 applicable to items dispensed on or after Jan. 1, 1990, see section 202(m)(1) of Pub. L. 100–360, set out as a note under section 1395u of this title.
 
@@ -2908,39 +2942,39 @@ Amendment by section 204(a) of Pub. L. 100–360 applicable to screening mammogr
 
 Amendment by section 205(b) of Pub. L. 100–360 applicable to items and services furnished on or after Jan. 1, 1990, see section 205(f) of Pub. L. 100–360, set out as a note under section 1395k of this title.
 
-Section 206(b) of Pub. L. 100–360, which provided that the amendment of this section by section 206(a) of Pub. L. 100–360 applied to services furnished in cases of initial periods of home health services beginning on or after January 1, 1990, was repealed by Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981.
+Pub. L. 100–360, title II, §206(b), July 1, 1988, 102 Stat. 732, which provided that the amendment of this section by section 206(a) of Pub. L. 100–360 applied to services furnished in cases of initial periods of home health services beginning on or after January 1, 1990, was repealed by Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981.
 
-Except as specifically provided in section 411 of Pub. L. 100–360, amendment by section 411(d)(5)(A), (g)(3)(H), (h)(1)(B)–(3)(A), (4)(D), (5)–(7)(A), (E), (F), (i)(3), (4)(C)(iii), (<i>l</i>)(1)(B), (C) of Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
+Except as specifically provided in section 411 of Pub. L. 100–360, amendment by section 411(d)(5)(A), (g)(3)(H), (h)(1)(B)–(3)(A), (4)(D), (5)–(7)(A), (E), (F), (i)(3), (4)(C)(iii), (l)(1)(B), (C) of Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
 
-Section 411(d)(1)(B)(ii) of Pub. L. 100–360 provided that: “The amendment made by clause (i) \[amending this section\] shall apply to equipment furnished on or after the effective date provided in section 4021(c) of OBRA \[Pub. L. 100–203, set out below\].”
+Pub. L. 100–360, title IV, §411(d)(1)(B)(ii), July 1, 1988, 102 Stat. 773, provided that: “The amendment made by clause (i) \[amending this section\] shall apply to equipment furnished on or after the effective date provided in section 4021(c) of OBRA \[Pub. L. 100–203, set out below\].”
 
 #### Effective Date of 1987 Amendment
 
-Section 4009(e)(2) of Pub. L. 100–203 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to services furnished on or after April 1, 1988.”
+Pub. L. 100–203, title IV, §4009(e)(2), Dec. 22, 1987, 101 Stat. 1330–58, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to services furnished on or after April 1, 1988.”
 
-Section 4021(c) of Pub. L. 100–203 provided that: “Except as otherwise provided, the amendments made by subsections (a) and (b) \[enacting section 1395bbb of this title and amending this section\] shall apply to home health agencies as of the first day of the 18th calendar month that begins after the date of the enactment of this Act \[Dec. 22, 1987\].”
+Pub. L. 100–203, title IV, §4021(c), Dec. 22, 1987, 101 Stat. 1330–69, provided that: “Except as otherwise provided, the amendments made by subsections (a) and (b) \[enacting section 1395bbb of this title and amending this section\] shall apply to home health agencies as of the first day of the 18th calendar month that begins after the date of the enactment of this Act \[Dec. 22, 1987\].”
 
-Section 4026(a)(2) of Pub. L. 100–203, as amended by Pub. L. 100–360, title IV, §411(d)(5)(B), July 1, 1988, 102 Stat. 775, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to cost reporting periods beginning on or after July 1, 1989.”
+Pub. L. 100–203, title IV, §4026(a)(2), Dec. 22, 1987, 101 Stat. 1330–75, as amended by Pub. L. 100–360, title IV, §411(d)(5)(B), July 1, 1988, 102 Stat. 775, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to cost reporting periods beginning on or after July 1, 1989.”
 
-Section 4064(e)(2) of Pub. L. 100–203 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to diagnostic tests performed on or after January 1, 1990.”
+Pub. L. 100–203, title IV, §4064(e)(2), Dec. 22, 1987, 101 Stat. 1330–112, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to diagnostic tests performed on or after January 1, 1990.”
 
-Section 4065(c) of Pub. L. 100–203 provided that: “The amendments made by this section \[amending this section and section 1395rr of this title\] shall become effective on January 1, 1988.”
+Pub. L. 100–203, title IV, §4065(c), Dec. 22, 1987, 101 Stat. 1330–112, provided that: “The amendments made by this section \[amending this section and section 1395rr of this title\] shall become effective on January 1, 1988.”
 
-Section 4070(c)(2) of Pub. L. 100–203 provided that:
+Pub. L. 100–203, title IV, §4070(c)(2), Dec. 22, 1987, 101 Stat. 1330–115, provided that:
 
-“(A) The amendments made by subsection (b) \[amending this section and sections 1395<i>l</i> and 1395n of this title\] shall become effective on the date of enactment of this Act \[Dec. 22, 1987\].
+“(A) The amendments made by subsection (b) \[amending this section and sections 1395l and 1395n of this title\] shall become effective on the date of enactment of this Act \[Dec. 22, 1987\].
 
 “(B) The Secretary of Health and Human Services shall implement the amendments made by subsection (b) so as to ensure that there is no additional cost to the medicare program by reason of such amendments.”
 
-Section 4071(b) of Pub. L. 100–203 provided that:
+Pub. L. 100–203, title IV, §4071(b), Dec. 22, 1987, 101 Stat. 1330–116, provided that:
 
 “(1) The provisions of subsection (e) of section 4072 of this subpart \[section 4072(e) of Pub. L. 100–203, set out below\] shall apply to this section \[amending this section\] in the same manner as it applies to section 4072. \[Amendments became effective pursuant to final report dated Apr. 26, 1993. See Cong. Rec., vol. 139, pt. 7, p. 10460, Ex. Comm. 1254.\]
 
 “(2) In conducting the demonstration project pursuant to paragraph (1), in order to determine the cost effectiveness of including influenza vaccine in the medicare program, the Secretary of Health and Human Services is required to conduct a demonstration of the provision of influenza vaccine as a service for medicare beneficiaries and to expend $25,000,000 each year of the demonstration project for this purpose. In conducting this demonstration, the Secretary is authorized to purchase in bulk influenza vaccine and to distribute it in a manner to make it widely available to medicare beneficiaries, to develop projects to provide vaccine in the same manner as other covered medicare services in large scale demonstration projects, including statewide projects, and to engage in other appropriate use of moneys to provide influenza vaccine to medicare beneficiaries and evaluate the cost effectiveness of its use. In determining cost effectiveness, the Secretary shall consider the direct cost of the vaccine, the utilization of vaccine which might otherwise not have occurred, the costs of illnesses and nursing home days avoided, and other relevant factors, except that extended life for beneficiaries shall not be considered to reduce the cost effectiveness of the vaccine.”
 
-Section 4072(e) of Pub. L. 100–203 provided that:
+Pub. L. 100–203, title IV, §4072(e), Dec. 22, 1987, 101 Stat. 1330–117, provided that:
 
-“(1) The amendments made by this section \[amending this section and sections 1395<i>l</i>, 1395y, 1395aa, 1395bb, 1396a, and 1396n of this title\] shall become effective (if at all) in accordance with paragraph (2).
+“(1) The amendments made by this section \[amending this section and sections 1395l, 1395y, 1395aa, 1395bb, 1396a, and 1396n of this title\] shall become effective (if at all) in accordance with paragraph (2).
 
 “(2)(A) The Secretary of Health and Human Services (in this paragraph referred to as the ‘Secretary’), shall establish a demonstration project to begin on October 1, 1988, to test the cost-effectiveness of furnishing therapeutic shoes under the medicare program to the extent provided under the amendments made by this section to a sample group of medicare beneficiaries.
 
@@ -2950,83 +2984,83 @@ Section 4072(e) of Pub. L. 100–203 provided that:
 
 \[Amendments by section 4072 of Pub. L. 100–203 became effective pursuant to final report dated Apr. 26, 1993. See Cong. Rec., vol. 139, pt. 7, p. 10460, Ex. Comm. 1252.\]
 
-Amendment by section 4073(a), (c) of Pub. L. 100–203 effective with respect to services performed on or after July 1, 1988, see section 4073(e) of Pub. L. 100–203, set out as a note under section 1395k of this title.
+Amendment by section 4073(a), (c) of Pub. L. 100–203 effective with respect to services performed on or afterJuly 1, 1988, see section 4073(e) of Pub. L. 100–203, set out as a note under section 1395k of this title.
 
-Section 4074(c) of Pub. L. 100–203 provided that: “The amendments made by this section \[amending this section\] shall be effective with respect to services performed on or after January 1, 1988.”
+Pub. L. 100–203, title IV, §4074(c), Dec. 22, 1987, 101 Stat. 1330–120, provided that: “The amendments made by this section \[amending this section\] shall be effective with respect to services performed on or after January 1, 1988.”
 
-Section 4075(b) of Pub. L. 100–203 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to drugs dispensed on or after the date of the enactment of this Act \[Dec. 22, 1987\].”
+Pub. L. 100–203, title IV, §4075(b), Dec. 22, 1987, 101 Stat. 1330–120, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to drugs dispensed on or after the date of the enactment of this Act \[Dec. 22, 1987\].”
 
-Section 4076(b) of Pub. L. 100–203 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to services furnished on or after January 1, 1989.”
+Pub. L. 100–203, title IV, §4076(b), Dec. 22, 1987, 101 Stat. 1330–120, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to services furnished on or after January 1, 1989.”
 
-Section 4077(a)(2) of Pub. L. 100–203 provided that: “The amendment made by paragraph (1) \[amending this section\] shall be effective with respect to services furnished on or after the date of enactment of this Act \[Dec. 22, 1987\].”
+Pub. L. 100–203, title IV, §4077(a)(2), Dec. 22, 1987, 101 Stat. 1330–120, provided that: “The amendment made by paragraph (1) \[amending this section\] shall be effective with respect to services furnished on or after the date of enactment of this Act \[Dec. 22, 1987\].”
 
 Amendment by section 4077(b)(1), (4) of Pub. L. 100–203 effective with respect to services performed on or after July 1, 1988, see section 4077(b)(5) of Pub. L. 100–203, as amended, set out as a note under section 1395k of this title.
 
-Amendment by section 4084(c)(1) of Pub. L. 100–203 applicable to services furnished after Dec. 31, 1988, see section 4084(c)(3) of Pub. L. 100–203, as added, set out as a note under section 1395<i>l</i> of this title.
+Amendment by section 4084(c)(1) of Pub. L. 100–203 applicable to services furnished after Dec. 31, 1988, see section 4084(c)(3) of Pub. L. 100–203, as added, set out as a note under section 1395l of this title.
 
 Amendments by section 4201(a)(1), (b)(1), (d)(1), (2), (5) of Pub. L. 100–203 applicable to services furnished on or after Oct. 1, 1990, without regard to whether regulations to implement such amendments are promulgated by such date, except as otherwise specifically provided in section 1395i–3 of this title, see section 4204(a) of Pub. L. 100–203, as amended, set out as an Effective Date note under section 1395i–3 of this title.
 
-#### Effective Date of 1986 Amendments
+#### Effective Date of 1986 Amendment
 
-Section 9305(c)(4) of Pub. L. 99–509 provided that: “The amendments made by this subsection \[amending this section and section 1395bb of this title\] shall apply to hospitals as of one year after the date of the enactment of this Act \[Oct. 21, 1986\].”
+Pub. L. 99–509, title IX, §9305(c)(4), Oct. 21, 1986, 100 Stat. 1990, provided that: “The amendments made by this subsection \[amending this section and section 1395bb of this title\] shall apply to hospitals as of one year after the date of the enactment of this Act \[Oct. 21, 1986\].”
 
-Section 9313(a)(3) of Pub. L. 99–509 provided that: “The amendments made by this paragraph \[probably means “this subsection” which amended this section and section 1395ff of this title\] take effect on the date of the enactment of this Act \[Oct. 21, 1986\].”
+Pub. L. 99–509, title IX, §9313(a)(3), Oct. 21, 1986, 100 Stat. 2002, provided that: “The amendments made by this paragraph \[probably means “this subsection” which amended this section and section 1395ff of this title\] take effect on the date of the enactment of this Act \[Oct. 21, 1986\].”
 
 Amendment by section 9320(b), (c), (f) of Pub. L. 99–509 applicable to services furnished on or after Jan. 1, 1989, with exceptions for hospitals located in rural areas which meet certain requirements related to certified registered nurse anesthetists, see section 9320(i), (k) of Pub. L. 99–509, as amended, set out as notes under section 1395k of this title.
 
-Section 9335(c)(2) of Pub. L. 99–509 provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply to immunosuppressive drugs furnished on or after January 1, 1987.”
+Pub. L. 99–509, title IX, §9335(c)(2), Oct. 21, 1986, 100 Stat. 2030, provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply to immunosuppressive drugs furnished on or after January 1, 1987.”
 
-Section 9336(b) of Pub. L. 99–509 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to services furnished on or after April 1, 1987.”
+Pub. L. 99–509, title IX, §9336(b), Oct. 21, 1986, 100 Stat. 2033, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to services furnished on or after April 1, 1987.”
 
 Amendment by section 9337(d) of Pub. L. 99–509 applicable to expenses incurred for outpatient occupational therapy services furnished on or after July 1, 1987, see section 9337(e) of Pub. L. 99–509, set out as a note under section 1395k of this title.
 
-Section 9338(f) of Pub. L. 99–509 provided that: “The amendments made by this section \[amending this section and section 1395u of this title\] shall apply to services furnished on or after January 1, 1987.”
+Pub. L. 99–509, title IX, §9338(f), Oct. 21, 1986, 100 Stat. 2036, provided that: “The amendments made by this section \[amending this section and section 1395u of this title\] shall apply to services furnished on or after January 1, 1987.”
 
-Section 9107(c)(2) of Pub. L. 99–272 provided that: “The amendments made by subsection (b) \[amending this section\] shall apply to cost reporting periods beginning on or after October 1, 1985.”
+Pub. L. 99–272, title IX, §9107(c)(2), Apr. 7, 1986, 100 Stat. 161, provided that: “The amendments made by subsection (b) \[amending this section\] shall apply to cost reporting periods beginning on or after October 1, 1985.”
 
-Section 9110(b) of Pub. L. 99–272 provided that: “The amendments made by subsection (a) \[amending this section\] shall be applied as though they were originally included in the Deficit Reduction Act of 1984 \[Pub. L. 98–369\].”
+Pub. L. 99–272, title IX, §9110(b), Apr. 7, 1986, 100 Stat. 162, provided that: “The amendments made by subsection (a) \[amending this section\] shall be applied as though they were originally included in the Deficit Reduction Act of 1984 \[Pub. L. 98–369\].”
 
-Section 9202(i)(2) of Pub. L. 99–272 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to cost reporting periods beginning on or after July 1, 1985.”
+Pub. L. 99–272, title IX, §9202(i)(2), Apr. 7, 1986, 100 Stat. 177, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to cost reporting periods beginning on or after July 1, 1985.”
 
 Amendment by section 9219(b)(1)(B) of Pub. L. 99–272 effective as if originally included in the Deficit Reduction Act of 1984, Pub. L. 98–369, see section 9219(b)(1)(D) of Pub. L. 99–272, set out as a note under section 1395u of this title.
 
-Section 9219(b)(3)(B) of Pub. L. 99–272 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall be effective as if it had been originally included in the Social Security Amendments of 1983 \[Pub. L. 98–21\].”
+Pub. L. 99–272, title IX, §9219(b)(3)(B), Apr. 7, 1986, 100 Stat. 183, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall be effective as if it had been originally included in the Social Security Amendments of 1983 \[Pub. L. 98–21\].”
 
-#### Effective Date of 1984 Amendments
+#### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–617 effective as if originally included in the Deficit Reduction Act of 1984, Pub. L. 98–369, see section 3(c) of Pub. L. 98–617, set out as a note under section 1395f of this title.
 
-Section 2314(c)(1), (2) of Pub. L. 98–369 provided that:
+Pub. L. 98–369, div. B, title III, §2314(c)(1), (2), July 18, 1984, 98 Stat. 1079, provided that:
 
 “(1) Clause (i) of section 1861(v)(1)(O) of the Social Security Act \[subsec. (v)(1)(O)(i) of this section\] shall not apply to changes of ownership of assets pursuant to an enforceable agreement entered into before the date of the enactment of this Act \[July 18, 1984\].
 
 “(2) Clause (iii) of section 1861(v)(1)(O) of such Act \[subsec. (v)(1)(O)(iii) of this section\] shall apply to costs incurred on or after the date of the enactment of this Act.”
 
-Section 2318(c) of Pub. L. 98–369 provided that: “The amendments made by this section \[amending this section\] shall apply to services furnished on or after the date of the enactment of this Act \[July 18, 1984\].”
+Pub. L. 98–369, div. B, title III, §2318(c), July 18, 1984, 98 Stat. 1082, provided that: “The amendments made by this section \[amending this section\] shall apply to services furnished on or after the date of the enactment of this Act \[July 18, 1984\].”
 
 Amendment by section 2319(a) of Pub. L. 98–369 applicable to cost reporting periods beginning on or after July 1, 1984, see section 2319(c) of Pub. L. 98–369, set out as an Effective Date note under section 1395yy of this title.
 
 Amendment by section 2321(e) of Pub. L. 98–369 applicable to items and services furnished on or after July 18, 1984, see section 2321(g) of Pub. L. 98–369, set out as a note under section 1395f of this title.
 
-Section 2322(b) of Pub. L. 98–369 provided that: “The amendments made by subsection (a) \[amending this section\] shall be effective with respect to services furnished on or after the date of the enactment of this Act \[July 18, 1984\].”
+Pub. L. 98–369, div. B, title III, §2322(b), July 18, 1984, 98 Stat. 1086, provided that: “The amendments made by subsection (a) \[amending this section\] shall be effective with respect to services furnished on or after the date of the enactment of this Act \[July 18, 1984\].”
 
-Amendment by section 2323(a) of Pub. L. 98–369 applicable to services furnished on or after Sept. 1, 1984, see section 2323(d) of Pub. L. 98–369, set out as a note under section 1395<i>l</i> of this title.
+Amendment by section 2323(a) of Pub. L. 98–369 applicable to services furnished on or after Sept. 1, 1984, see section 2323(d) of Pub. L. 98–369, set out as a note under section 1395l of this title.
 
-Section 2324(b) of Pub. L. 98–369 provided that: “The amendments made by subsection (a) \[amending this section\] shall be effective with respect to items and services purchased on or after the date of the enactment of this Act \[July 18, 1984\].”
+Pub. L. 98–369, div. B, title III, §2324(b), July 18, 1984, 98 Stat. 1087, provided that: “The amendments made by subsection (a) \[amending this section\] shall be effective with respect to items and services purchased on or after the date of the enactment of this Act \[July 18, 1984\].”
 
 Amendment by section 2335(b) of Pub. L. 98–369 effective July 18, 1984, see section 2335(g) of Pub. L. 98–369, set out as a note under section 1395f of this title.
 
-Section 2340(c) of Pub. L. 98–369 provided that: “The amendments made by this section \[amending this section and section 1396d of this title\] shall become effective on the date of the enactment of this Act \[July 18, 1984\].”
+Pub. L. 98–369, div. B, title III, §2340(c), July 18, 1984, 98 Stat. 1093, provided that: “The amendments made by this section \[amending this section and section 1396d of this title\] shall become effective on the date of the enactment of this Act \[July 18, 1984\].”
 
 Amendment by section 2341(a), (c) of Pub. L. 98–369 applicable to services furnished on or after July 18, 1984, see section 2341(d) of Pub. L. 98–369, set out as a note under section 1395k of this title.
 
 Amendment by section 2342(a) of Pub. L. 98–369 applicable to plans of care established on or after July 18, 1984, see section 2342(c) of Pub. L. 98–369, set out as a note under section 1395n of this title.
 
-Section 2343(c) of Pub. L. 98–369 provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall become effective on the date of the enactment of this Act \[July 18, 1984\].”
+Pub. L. 98–369, div. B, title III, §2343(c), July 18, 1984, 98 Stat. 1095, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall become effective on the date of the enactment of this Act \[July 18, 1984\].”
 
 Amendment by section 2354(b)(18)–(29) of Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2354(e)(1) of Pub. L. 98–369, set out as a note under section 1320a–1 of this title.
 
-#### Effective Date of 1983 Amendments
+#### Effective Date of 1983 Amendment
 
 Amendment by section 602(d) of Pub. L. 98–21 applicable to items and services furnished by or under arrangement with a hospital beginning with its first cost reporting period that begins on or after Oct. 1, 1983, any change in a hospital's cost reporting period made after November 1982 to be recognized for such purposes only if the Secretary finds good cause therefor, see section 604(a)(1) of Pub. L. 98–21, set out as a note under section 1395ww of this title.
 
@@ -3036,23 +3070,23 @@ Amendment by Pub. L. 97–448 effective as if originally included in the provisi
 
 Amendment by section 101(a)(2) of Pub. L. 97–248 applicable to cost reporting periods beginning on or after Oct. 1, 1982, see section 101(b)(1) of Pub. L. 97–248, set out as an Effective Date note under section 1395ww of this title.
 
-Section 102(b) of Pub. L. 97–248, as amended by Pub. L. 98–21, title VI, §605(a), Apr. 20, 1983, 97 Stat. 169, provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective with respect to cost reporting periods beginning on or after October 1, 1983.”
+Pub. L. 97–248, title I, §102(b), Sept. 3, 1982, 96 Stat. 336, as amended by Pub. L. 98–21, title VI, §605(a), Apr. 20, 1983, 97 Stat. 169, provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective with respect to cost reporting periods beginning on or after October 1, 1983.”
 
-Section 103(b) of Pub. L. 97–248 provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective with respect to cost reporting periods ending after September 30, 1982, but in the case of any cost reporting period beginning before October 1, 1982, any reduction in payments under title XVIII of the Social Security Act \[this subchapter\] to a hospital or skilled nursing facility resulting from such amendment shall be imposed only in proportion to the part of the period which occurs after September 30, 1982.”
+Pub. L. 97–248, title I, §103(b), Sept. 3, 1982, 96 Stat. 336, provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective with respect to cost reporting periods ending after September 30, 1982, but in the case of any cost reporting period beginning before October 1, 1982, any reduction in payments under title XVIII of the Social Security Act \[this subchapter\] to a hospital or skilled nursing facility resulting from such amendment shall be imposed only in proportion to the part of the period which occurs after September 30, 1982.”
 
-Section 105(b) of Pub. L. 97–248 provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective with respect to cost reporting periods beginning on or after the date of the enactment of this Act \[Sept. 3, 1982\].”
+Pub. L. 97–248, title I, §105(b), Sept. 3, 1982, 96 Stat. 337, provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective with respect to cost reporting periods beginning on or after the date of the enactment of this Act \[Sept. 3, 1982\].”
 
-Section 106(b) of Pub. L. 97–248 provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective with respect to any costs incurred under title XVIII of the Social Security Act \[this subchapter\], except that it shall not apply to costs which have been allowed prior to the date of the enactment of this Act \[Sept. 3, 1982\] pursuant to the final court order affirmed by a United States Court of Appeals.”
+Pub. L. 97–248, title I, §106(b), Sept. 3, 1982, 96 Stat. 337, provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective with respect to any costs incurred under title XVIII of the Social Security Act \[this subchapter\], except that it shall not apply to costs which have been allowed prior to the date of the enactment of this Act \[Sept. 3, 1982\] pursuant to the final court order affirmed by a United States Court of Appeals.”
 
-Section 107(b) of Pub. L. 97–248 provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective with respect to costs incurred after the date of the enactment of this Act \[Sept. 3, 1982\].”
+Pub. L. 97–248, title I, §107(b), Sept. 3, 1982, 96 Stat. 337, provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective with respect to costs incurred after the date of the enactment of this Act \[Sept. 3, 1982\].”
 
 Amendment by section 109(b)(2) of Pub. L. 97–248 effective Sept. 3, 1982, see section 109(c)(1) of Pub. L. 97–248, set out as a note under section 1395xx of this title.
 
-Section 109(c)(3) of Pub. L. 97–248 provided that: “The amendment made by subsection (b)(1) \[amending this section\] shall not apply to contracts entered into before the date of the enactment of this Act \[Sept. 3, 1982\].”
+Pub. L. 97–248, title I, §109(c)(3), Sept. 3, 1982, 96 Stat. 339, provided that: “The amendment made by subsection (b)(1) \[amending this section\] shall not apply to contracts entered into before the date of the enactment of this Act \[Sept. 3, 1982\].”
 
 Amendment by section 122(d) of Pub. L. 97–248 applicable to hospice care provided on or after Nov. 1, 1983, see section 122(h)(1) of Pub. L. 97–248, as amended, set out as a note under section 1395c of this title.
 
-Section 128(e) of Pub. L. 97–248, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 97–248, title I, §128(e), Sept. 3, 1982, 96 Stat. 367, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1) Any amendment to the Omnibus Budget Reconciliaton \[Reconciliation\] Act of 1981 \[Pub. L. 97–35\] made by this section \[amending provisions set out as notes under sections 426 and 1395x of this title\] shall be effective as if it had been originally included in the provision of the Omnibus Budget Reconciliation Act of 1981 to which such amendment relates.
 
@@ -3064,23 +3098,23 @@ Amendment by section 148(b) of Pub. L. 97–248 effective with respect to contra
 
 #### Effective Date of 1981 Amendment
 
-Section 2102(b)(1) of Pub. L. 97–35 provided that: “The amendments made by subsection (a) \[amending this section\], shall apply to services provided on or after the first day of the first month beginning after the date of the enactment of this Act \[Aug. 13, 1981\].”
+Pub. L. 97–35, title XXI, §2102(b)(1), Aug. 13, 1981, 95 Stat. 787, provided that: “The amendments made by subsection (a) \[amending this section\], shall apply to services provided on or after the first day of the first month beginning after the date of the enactment of this Act \[Aug. 13, 1981\].”
 
 Amendment by section 2121(c), (d) of Pub. L. 97–35 applicable to services furnished in detoxification facilities for inpatient stays beginning on or after the tenth day after Aug. 13, 1981, see section 2121(i) of Pub. L. 97–35, set out as a note under section 1395d of this title.
 
-Section 2141(c) of Pub. L. 97–35 provided that:
+Pub. L. 97–35, title XXI, §2141(c), Aug. 13, 1981, 95 Stat. 798, provided that:
 
 “(1) Subject to paragraph (2), the amendment made by subsection (a) \[amending this section\] shall apply to cost reporting periods ending after September 30, 1981.
 
 “(2) In the case of a cost reporting period beginning before October 1, 1981, any reduction in payments resulting from the amendment made by subsection (a) shall be imposed only in proportion to the part of the period that occurs after September 30, 1981.”
 
-Section 2143(b) of Pub. L. 97–35, as amended by Pub. L. 97–248, title I, §128(c)(1), Sept. 3, 1982, 96 Stat. 367, provided that:
+Pub. L. 97–35, title XXI, §2143(b), Aug. 13, 1981, 95 Stat. 799, as amended by Pub. L. 97–248, title I, §128(c)(1), Sept. 3, 1982, 96 Stat. 367, provided that:
 
 “(1) Subject to paragraph (2), the amendment made by subsection (a) \[amending this section\] shall apply to cost reporting periods ending after September 30, 1981.
 
 “(2) In the case of a cost reporting period beginning before October 1, 1981, any reduction in payments resulting from the amendment made by subsection (a) shall be imposed only in proportion to the part of the period that occurs after September 30, 1981.”
 
-Section 2144(b) of Pub. L. 97–35 provided that:
+Pub. L. 97–35, title XXI, §2144(b), Aug. 13, 1981, 95 Stat. 799, provided that:
 
 “(1) Subject to paragraph (2), the amendment made by subsection (a) \[amending this section\] shall apply to cost reporting periods ending after September 30, 1981.
 
@@ -3088,15 +3122,15 @@ Section 2144(b) of Pub. L. 97–35 provided that:
 
 For effective date, savings, and transitional provisions relating to amendment by section 2193(c)(9) of Pub. L. 97–35, see section 2194 of Pub. L. 97–35, set out as a note under section 701 of this title.
 
-#### Effective Date of 1980 Amendments
+#### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–611 effective July 1, 1981, and applicable to services furnished on or after that date, see section 2 of Pub. L. 96–611, set out as a note under section 1395<i>l</i> of this title.
+Amendment by Pub. L. 96–611 effective July 1, 1981, and applicable to services furnished on or after that date, see section 2 of Pub. L. 96–611, set out as a note under section 1395l of this title.
 
-Section 902(c) of Pub. L. 96–499 provided that: “The amendments made by this section \[amending this section and sections 1320c–7 and 1396a of this title\] shall become effective on the date of \[probably should be “on”\] which final regulations, promulgated by the Secretary to implement such amendments, are first issued; and those regulations shall be issued not later than the first day of the sixth month following the month in which this Act is enacted \[December 1980\].”
+Pub. L. 96–499, title IX, §902(c), Dec. 5, 1980, 94 Stat. 2614, provided that: “The amendments made by this section \[amending this section and sections 1320c–7 and 1396a of this title\] shall become effective on the date of \[probably should be “on”\] which final regulations, promulgated by the Secretary to implement such amendments, are first issued; and those regulations shall be issued not later than the first day of the sixth month following the month in which this Act is enacted \[December 1980\].”
 
-Section 930(s) of Pub. L. 96–499 provided that:
+Pub. L. 96–499, title IX, §930(s), Dec. 5, 1980, 94 Stat. 2633, provided that:
 
-“(1) the amendments made by this section \[amending this section, sections 426, 1395c, 1395d, 1395f, 1395h, 1395k, 1395<i>l</i>, and 1395n of this title, and section 231f of Title 45, Railroads, and repealing section 1395m of this title\] shall become effective with respect to services furnished on or after July 1, 1981, except that the amendments made by subsections (n)(1) and (<i>o</i>) \[amending this section and section 1395h of this title\] shall become effective on the date of the enactment of this Act \[Dec. 5, 1980\].
+“(1) the amendments made by this section \[amending this section, sections 426, 1395c, 1395d, 1395f, 1395h, 1395k, 1395l, and 1395n of this title, and section 231f of Title 45, Railroads, and repealing section 1395m of this title\] shall become effective with respect to services furnished on or after July 1, 1981, except that the amendments made by subsections (n)(1) and (o) \[amending this section and section 1395h of this title\] shall become effective on the date of the enactment of this Act \[Dec. 5, 1980\].
 
 “(2) The Secretary of Health and Human Services shall take administrative action to assure that improvements, in accordance with the amendment made by subsection (n)(1) \[amending this section\], will be made not later than June 30, 1981.”
 
@@ -3106,21 +3140,21 @@ Amendment by section 933(c)–(e) of Pub. L. 96–499 effective with respect to 
 
 Amendment by section 936(a) of Pub. L. 96–499 applicable with respect to services provided on or after July 1, 1981, see section 936(d) of Pub. L. 96–499, set out as a note under section 1395f of this title.
 
-Section 937(c) of Pub. L. 96–499, as amended by Pub. L. 98–369, div. B, title III, §2354(c)(1)(B), July 18, 1984, 98 Stat. 1102, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to services furnished on or after July 1, 1981.”
+Pub. L. 96–499, title IX, §937(c), Dec. 5, 1980, 94 Stat. 2640, as amended by Pub. L. 98–369, div. B, title III, §2354(c)(1)(B), July 18, 1984, 98 Stat. 1102, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to services furnished on or after July 1, 1981.”
 
-Section 938(b) of Pub. L. 96–499 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to services furnished on or after January 1, 1981.”
+Pub. L. 96–499, title IX, §938(b), Dec. 5, 1980, 94 Stat. 2640, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to services furnished on or after January 1, 1981.”
 
-Section 948(c)(1) of Pub. L. 96–499 provided that: “The amendments made by subsection (a) \[amending this section and section 1395k of this title\] shall apply with respect to cost accounting periods beginning on or after October 1, 1978. A hospital's election under section 1861(b)(7)(A) of the Social Security Act \[subsec. (b)(7)(A) of this section\] (as administered in accordance with section 15 of Public Law 93–233) as of September 30, 1978, shall constitute such hospital's election under such section (as amended by subsection (a)(1)) on and after October 1, 1978, until otherwise provided by the hospital.”
+Pub. L. 96–499, title IX, §948(c)(1), Dec. 5, 1980, 94 Stat. 2644, provided that: “The amendments made by subsection (a) \[amending this section and section 1395k of this title\] shall apply with respect to cost accounting periods beginning on or after October 1, 1978. A hospital's election under section 1861(b)(7)(A) of the Social Security Act \[subsec. (b)(7)(A) of this section\] (as administered in accordance with section 15 of Public Law 93–233) as of September 30, 1978, shall constitute such hospital's election under such section (as amended by subsection (a)(1)) on and after October 1, 1978, until otherwise provided by the hospital.”
 
-Section 951(c) of Pub. L. 96–499 provided that: “The amendments made by this section \[amending this section\] shall take effect on January 1, 1981.”
+Pub. L. 96–499, title IX, §951(c), Dec. 5, 1980, 94 Stat. 2646, provided that: “The amendments made by this section \[amending this section\] shall take effect on January 1, 1981.”
 
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–292 effective with respect to services, supplies, and equipment furnished after the third calendar month beginning after June 13, 1978, except that provisions for the implementation of an incentive reimbursement system for dialysis services furnished in facilities and providers to become effective with respect to a facility's or provider's first accounting period beginning after the last day of the twelfth month following the month of June 1978, and except that provisions for reimbursement rates for home dialysis to become effective on Apr. 1, 1979, see section 6 of Pub. L. 95–292, set out as a note under section 426 of this title.
 
-#### Effective Date of 1977 Amendments
+#### Effective Date of 1977 Amendment
 
-Section 501(c) of Pub. L. 95–216 provided that: “The amendments made by this section \[amending this section and section 1395u of this title\] shall be effective in the case of items and services furnished after the date of the enactment of this Act \[Dec. 20, 1977\].”
+Pub. L. 95–216, title V, §501(c), Dec. 20, 1977, 91 Stat. 1565, provided that: “The amendments made by this section \[amending this section and section 1395u of this title\] shall be effective in the case of items and services furnished after the date of the enactment of this Act \[Dec. 20, 1977\].”
 
 Amendment by Pub. L. 95–210 applicable to services rendered on or after the first day of the third calendar month which begins after Dec. 31, 1977, see section 1(j) of Pub. L. 95–210, set out as a note under section 1395k of this title.
 
@@ -3128,61 +3162,61 @@ Amendment by section 3(a)(2) of Pub. L. 95–142 effective Oct. 25, 1977, see se
 
 Amendment by section 19(b)(1) of Pub. L. 95–142 effective with respect to operation of a hospital, skilled nursing facility, or intermediate care facility on and after the first day of its first fiscal year which begins after the end of the six-month period beginning on the date a uniform reporting system is established under section 1320a(a) of this title for that type of health services facility, except that for other types of facilities or organizations effective with respect to operations on and after the first day of its first fiscal year which begins after such date as the Secretary determines to be appropriate for the implementation of the reporting requirement for that type of facility or organization, see section 19(c)(2) of Pub. L. 95–142, set out as a note under section 1396a of this title.
 
-Section 21(c)(1) of Pub. L. 95–142 provided that: “The amendments made by subsection (a) \[amending this section\] shall be effective on the first day of the first calendar quarter which begins more than six months after the date of enactment of this Act \[Oct. 25, 1977\].”
+Pub. L. 95–142, §21(c)(1), Oct. 25, 1977, 91 Stat. 1208, provided that: “The amendments made by subsection (a) \[amending this section\] shall be effective on the first day of the first calendar quarter which begins more than six months after the date of enactment of this Act \[Oct. 25, 1977\].”
 
 #### Effective Date of 1975 Amendment
 
-Section 106(b) of Pub. L. 94–182 provided that: “Subject to subsection (c) \[enacting provisions set out below\], the amendment made by subsection (a) \[amending this section\] shall be effective on the first day of the sixth month which begins after the date of enactment of this Act \[Dec. 31, 1975\].”
+Pub. L. 94–182, title I, §106(b), Dec. 31, 1975, 89 Stat. 1052, provided that: “Subject to subsection (c) \[enacting provisions set out below\], the amendment made by subsection (a) \[amending this section\] shall be effective on the first day of the sixth month which begins after the date of enactment of this Act \[Dec. 31, 1975\].”
 
-Section 112(d) of Pub. L. 94–182 provided that: “The amendments made by this section \[amending this section and sections 1320c–17 and 1395g of this title\] shall be effective with respect to utilization review activities conducted on and after the first day of the first month which begins more than 30 days after the date of enactment of this Act \[Dec. 31, 1975\].”
+Pub. L. 94–182, title I, §112(d), Dec. 31, 1975, 89 Stat. 1055, provided that: “The amendments made by this section \[amending this section and sections 1320c–17 and 1395g of this title\] shall be effective with respect to utilization review activities conducted on and after the first day of the first month which begins more than 30 days after the date of enactment of this Act \[Dec. 31, 1975\].”
 
 #### Effective Date of 1972 Amendment
 
 Amendment by section 211(b), (c)(2) of Pub. L. 92–603 applicable to services furnished with respect to admissions occurring after Dec. 31, 1972, see section 211(d) of Pub. L. 92–603, set out as a note under section 1395f of this title.
 
-Section 223(h) of Pub. L. 92–603 provided that: “The amendments made by this section \[amending this section and section 1395cc of this title\] shall be effective with respect to accounting periods beginning after December 31, 1972.”
+Pub. L. 92–603, title II, §223(h), Oct. 31, 1972, 86 Stat. 1394, provided that: “The amendments made by this section \[amending this section and section 1395cc of this title\] shall be effective with respect to accounting periods beginning after December 31, 1972.”
 
-Section 227(g) of Pub. L. 92–603 provided that: “The amendments made by this section \[amending this section and sections 1395f, 1395k, 1395n, 1395u, and 1395cc of this title\] shall apply with respect to accounting periods beginning after June 30, 1973.”
+Pub. L. 92–603, title II, §227(g), Oct. 31, 1972, 86 Stat. 1407, provided that: “The amendments made by this section \[amending this section and sections 1395f, 1395k, 1395n, 1395u, and 1395cc of this title\] shall apply with respect to accounting periods beginning after June 30, 1973.”
 
-Section 234(i) of Pub. L. 92–603 provided that: “The amendments made by this section \[amending this section and sections 1395f, 1395z, and 1395bb of this title\] shall apply with respect to any provider of services for fiscal years (of such provider) beginning after the fifth month following the month in which this Act is enacted \[October 1972\].”
+Pub. L. 92–603, title II, §234(i), Oct. 31, 1972, 86 Stat. 1414, provided that: “The amendments made by this section \[amending this section and sections 1395f, 1395z, and 1395bb of this title\] shall apply with respect to any provider of services for fiscal years (of such provider) beginning after the fifth month following the month in which this Act is enacted \[October 1972\].”
 
-Section 246(c) of Pub. L. 92–603 provided that: “The amendments made by this section \[amending this section and section 1396 of this title\] shall be effective July 1, 1973.”
+Pub. L. 92–603, title II, §246(c), Oct. 31, 1972, 86 Stat. 1425, provided that: “The amendments made by this section \[amending this section and section 1396 of this title\] shall be effective July 1, 1973.”
 
-Section 251(d) of Pub. L. 92–603, as amended by Pub. L. 93–233, §17(a), Dec. 31, 1973, 87 Stat. 967, provided that:
+Pub. L. 92–603, title II, §251(d), Oct. 31, 1972, 86 Stat. 1446, as amended by Pub. L. 93–233, §17(a), Dec. 31, 1973, 87 Stat. 967, provided that:
 
-“(1) The amendments made by subsection (a) \[amending this section and sections 1395<i>l</i> and 1395k of this title\] shall apply with respect to services furnished on or after July 1, 1973.
+“(1) The amendments made by subsection (a) \[amending this section and sections 1395l and 1395k of this title\] shall apply with respect to services furnished on or after July 1, 1973.
 
 “(2) The amendments made by subsection (b) \[amending this section and section 1395n of this title\] shall apply with respect to services furnished on or after the date of enactment of this Act \[Oct. 30, 1972\].
 
 “(3) The amendments made by subsection (c) \[amending this section\] shall be effective with respect to accounting periods beginning after the month in which there are promulgated, by the Secretary of Health, Education, and Welfare, final regulations implementing the provisions of section 1861(v)(5) of the Social Security Act \[subsec. (v)(5) of this section\].”
 
-Section 252(b) of Pub. L. 92–603 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply only with respect to items furnished on or after the date of the enactment of this Act \[Oct. 30, 1972\].”
+Pub. L. 92–603, title II, §252(b), Oct. 31, 1972, 86 Stat. 1446, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply only with respect to items furnished on or after the date of the enactment of this Act \[Oct. 30, 1972\].”
 
 Amendment by section 256(b) of Pub. L. 92–603 applicable with respect to admissions occurring after the second month following the month of enactment of Pub. L. 92–603 which was approved on Oct. 30, 1972, see section 256(d) of Pub. L. 92–603, set out as a note under section 1395f of this title.
 
-Section 264(b) of Pub. L. 92–603 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply only with respect to services performed on or after the date of the enactment of this Act \[Oct. 30, 1972\].”
+Pub. L. 92–603, title II, §264(b), Oct. 31, 1972, 86 Stat. 1449, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply only with respect to services performed on or after the date of the enactment of this Act \[Oct. 30, 1972\].”
 
-Section 273(b) of Pub. L. 92–603 provided that: “The amendments made by this section \[amending this section\] shall be effective with respect to services furnished after June 30, 1973.”
+Pub. L. 92–603, title II, §273(b), Oct. 31, 1972, 86 Stat. 1452, provided that: “The amendments made by this section \[amending this section\] shall be effective with respect to services furnished after June 30, 1973.”
 
-Section 276(b) of Pub. L. 92–603 provided that: “The amendment made by this section \[amending this section\] shall apply with respect to accounting periods beginning after December 31, 1972.”
+Pub. L. 92–603, title II, §276(b), Oct. 31, 1972, 86 Stat. 1452, provided that: “The amendment made by this section \[amending this section\] shall apply with respect to accounting periods beginning after December 31, 1972.”
 
 Amendment by section 283(a) of Pub. L. 92–603 to apply with respect to services rendered after Dec. 31, 1972, see section 283(c) of Pub. L. 92–603, set out as a note under section 1395n of this title.
 
 #### Effective Date of 1968 Amendment
 
-Section 127(c) of Pub. L. 90–248 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1395y of this title\] shall apply with respect to services furnished after December 31, 1967.”
+Pub. L. 90–248, title I, §127(c), Jan. 2, 1968, 81 Stat. 847, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1395y of this title\] shall apply with respect to services furnished after December 31, 1967.”
 
 Amendment by section 129(a), (b), (c)(9)(C), (10), (11) of Pub. L. 90–248 applicable with respect to services furnished after Mar. 31, 1968, see section 129(d) of Pub. L. 90–248, set out as a note under section 1395d of this title.
 
-Amendment by section 132(a) of Pub. L. 90–248 applicable with respect to items purchased after Dec. 31, 1967, see section 132(c) of Pub. L. 90–248, set out as a note under section 1395<i>l</i> of this title.
+Amendment by section 132(a) of Pub. L. 90–248 applicable with respect to items purchased after Dec. 31, 1967, see section 132(c) of Pub. L. 90–248, set out as a note under section 1395l of this title.
 
 Amendment by section 133(a), (b) of Pub. L. 90–248 applicable with respect to services furnished after June 30, 1968, see section 133(g) of Pub. L. 90–248, set out as a note under section 1395k of this title.
 
-Section 134(b) of Pub. L. 90–248 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to services furnished after December 31, 1967.”
+Pub. L. 90–248, title I, §134(b), Jan. 2, 1968, 81 Stat. 852, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to services furnished after December 31, 1967.”
 
 Amendment by section 143(a) of Pub. L. 90–248 effective July 1, 1966, see section 143(d) of Pub. L. 90–248, set out as a note under section 1395d of this title.
 
-Section 144(e) of Pub. L. 90–248 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to services furnished after March 31, 1968.”
+Pub. L. 90–248, title I, §144(e), Jan. 2, 1968, 81 Stat. 859, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to services furnished after March 31, 1968.”
 
 #### Effective Date of 1966 Amendment
 
@@ -3224,7 +3258,7 @@ Clinics Described.—A frontier extended stay clinic is described in this subsec
 
 “(c)
 
-Specification of Codes.—The Secretary shall determine the appropriate life-safety codes for such clinics that treat patients for needs referred to in subsection (b)(2).
+Specification of Codes.—The Secretary shall determine the appropriate life-safety codes for suchclinics that treat patients for needs referred to in subsection (b)(2).
 
 “(d)
 
@@ -3342,7 +3376,7 @@ Establishment.—The Secretary shall establish demonstration projects in accorda
 
 &emsp;“(2)
 
-No physician approval required.—In establishing the demonstration projects, the Secretary shall ensure that an eligible beneficiary who participates in a demonstration project, including an eligible beneficiary who is enrolled for coverage under a Medicare+Choice plan (or, on and after January 1, 2006, under a Medicare Advantage plan), is not required to receive approval from a physician or otherhealth care provider in order to receive a chiropractic service under a demonstration project.
+No physician approval required.—In establishing the demonstration projects, the Secretary shall ensure that an eligible beneficiary who participates in a demonstration project, including an eligible beneficiary who is enrolled for coverage under aMedicare+Choice plan (or, on and after January 1, 2006, under a Medicare Advantage plan), is not required to receive approval from a physician or other health care provider in order to receive a chiropractic service under a demonstration project.
 
 &emsp;“(3)
 
@@ -3480,7 +3514,7 @@ Report to Congress.—Not later than 1 year after the date of the completion of 
 
 &emsp;“(2) The specific data evidencing the amount of any increase in expenditures that is directly attributable to the demonstration project (expressed both in absolute dollar terms and as a percentage) above expenditures that would otherwise have been incurred for home health services under the medicare program.
 
-&emsp;“(3) Specific recommendations to exempt permanently and severely disabled homebound beneficiariesfrom restrictions on the length, frequency, and purpose of their absences from the home to qualify for home health services without incurring additional costs to the medicare program.
+&emsp;“(3) Specific recommendations to exempt permanently and severely disabled homebound beneficiaries from restrictions on the length, frequency, and purpose of their absences from the home to qualify for home health services without incurring additional costs to the medicare program.
 
 “(g)
 
@@ -3536,7 +3570,7 @@ Per visit limits.—In effecting the amendments made by subsection (b) \[amendin
 
 #### Study on Expansion of Medical Nutrition Therapy Services Benefit
 
-Pub. L. 106–554, §1(a)(6) \[title I, §105(f)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–472, provided that: “Not later than July 1, 2003, the Secretary of Health and Human Services shall submit to Congress a report that contains recommendations with respect to the expansion to other medicare beneficiary populations of the medical nutrition therapy services benefit (furnished under the amendments made by this section \[amending this section and sections 1395<i>l</i> and 1395u of this title\]).”
+Pub. L. 106–554, §1(a)(6) \[title I, §105(f)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–472, provided that: “Not later than July 1, 2003, the Secretary of Health and Human Services shall submit to Congress a report that contains recommendations with respect to the expansion to other medicare beneficiary populations of the medical nutrition therapy services benefit (furnished under the amendments made by this section \[amending this section and sections 1395l and 1395u of this title\]).”
 
 #### Study on Medicare Coverage of Routine Thyroid Screening
 
@@ -3646,15 +3680,15 @@ Description of Services.—For purposes of subsection (a), items and services de
 
 #### Conforming References to Previous Part C
 
-Section 4002(f)(1) of Pub. L. 105–33 provided that: “Any reference in law (in effect before the date of the enactment of this Act \[Aug. 5, 1997\]) to part C of title XVIII of the Social Security Act \[part C of this subchapter\] is deemed a reference to part D of such title \[this part\] (as in effect after such date).”
+Pub. L. 105–33, title IV, §4002(f)(1), Aug. 5, 1997, 111 Stat. 329, provided that: “Any reference in law (in effect before the date of the enactment of this Act \[Aug. 5, 1997\]) to part C of title XVIII of the Social Security Act \[part C of this subchapter\] is deemed a reference to part D of such title \[this part\] (as in effect after such date).”
 
 #### Deadline for Publication of Determination on Coverage of Screening Barium Enema
 
-Section 4104(a)(2) of Pub. L. 105–33 provided that: “Not later than the earlier of the date that is January 1, 1998, or 90 days after the date of the enactment of this Act \[Aug. 5, 1997\], the Secretary of Health and Human Services shall publish notice in the Federal Register with respect to the determination under paragraph (1)(D) of section 1861(pp) of the Social Security Act (42 U.S.C. 1395x(pp)), as added by paragraph (1), on the coverage of a screening barium enema as a colorectal cancer screening test under such section.”
+Pub. L. 105–33, title IV, §4104(a)(2), Aug. 5, 1997, 111 Stat. 363, provided that: “Not later than the earlier of the date that is January 1, 1998, or 90 days after the date of the enactment of this Act \[Aug. 5, 1997\], the Secretary of Health and Human Services shall publish notice in the Federal Register with respect to the determination under paragraph (1)(D) of section 1861(pp) of the Social Security Act (42 U.S.C. 1395x(pp)), as added by paragraph (1), on the coverage of a screening barium enema as a colorectal cancer screening test under such section.”
 
 #### Establishment of Outcome Measures for Beneficiaries With Diabetes
 
-Section 4105(c) of Pub. L. 105–33 provided that:
+Pub. L. 105–33, title IV, §4105(c), Aug. 5, 1997, 111 Stat. 367, provided that:
 
 “(1)
 
@@ -3666,7 +3700,7 @@ Recommendations for modifications to screening benefits.—Taking into account i
 
 #### Vaccines Outreach Expansion
 
-Section 4107 of Pub. L. 105–33 provided that:
+Pub. L. 105–33, title IV, §4107, Aug. 5, 1997, 111 Stat. 368, provided that:
 
 “(a)
 
@@ -3678,11 +3712,11 @@ Authorization of Appropriation.—There are hereby authorized to be appropriated
 
 #### Study on Preventive and Enhanced Benefits
 
-Section 4108 of Pub. L. 105–33 directed the Secretary of Health and Human Services to request the National Academy of Sciences to analyze the expansion or modification of preventive or other benefits provided to medicare beneficiaries under this subchapter, and not later than 2 years after Aug. 5, 1997, to submit a report on the findings of the analysis to Congress.
+Pub. L. 105–33, title IV, §4108, Aug. 5, 1997, 111 Stat. 369, directed the Secretary of Health and Human Services to request the National Academy of Sciences to analyze the expansion or modification of preventive or other benefits provided to medicare beneficiaries under this subchapter, and not later than 2 years after Aug. 5, 1997, to submit a report on the findings of the analysis to Congress.
 
 #### Utilization Guidelines
 
-Section 4513(c) of Pub. L. 105–33 provided that: “The Secretary of Health and Human Services shall developand implement utilization guidelines relating to the coverage of chiropractic services under part B of title XVIII of the Social Security Act \[part B of this subchapter\] in cases in which a subluxation has not been demonstrated by X-ray to exist.”
+Pub. L. 105–33, title IV, §4513(c), Aug. 5, 1997, 111 Stat. 444, provided that: “The Secretary of Health and Human Services shall develop and implement utilization guidelines relating to the coverage of chiropractic services under part B of title XVIII of the Social Security Act \[part B of this subchapter\] in cases in which a subluxation has not been demonstrated by X-ray to exist.”
 
 #### Authorizing Payment for Paramedic Intercept Service Providers in Rural Communities
 
@@ -3710,11 +3744,11 @@ Pub. L. 105–33, title IV, §4531(c), Aug. 5, 1997, 111 Stat. 452, as amended b
 
 #### No Exceptions Permitted Based on Amendment to Subsection (v)(1)(L)
 
-Section 4601(b) of Pub. L. 105–33 provided that: “The Secretary of Health and Human Services shall not consider the amendment made by subsection (a) \[amending this section\] in making any exemptions and exceptions pursuant to section 1861(v)(1)(L)(ii) of the Social Security Act (42 U.S.C. 1395x(v)(1)(L)(ii)).”
+Pub. L. 105–33, title IV, §4601(b), Aug. 5, 1997, 111 Stat. 466, provided that: “The Secretary of Health and Human Services shall not consider the amendment made by subsection (a) \[amending this section\] in making any exemptions and exceptions pursuant to section 1861(v)(1)(L)(ii) of the Social Security Act (42 U.S.C. 1395x(v)(1)(L)(ii)).”
 
 #### Study on Definition of Homebound
 
-Section 4613 of Pub. L. 105–33 provided that:
+Pub. L. 105–33, title IV, §4613, Aug. 5, 1997, 111 Stat. 474, provided that:
 
 “(a)
 
@@ -3726,57 +3760,57 @@ Report.—Not later than October 1, 1998, the Secretary shall submit a report to
 
 #### Revisions of Coverage for Immunosuppressive Drug Therapy
 
-Section 160(c) of Pub. L. 103–432 provided that: “The Secretary of Health and Human Services may administer section 1861(s)(2)(J) of the Social Security Act (42 U.S.C. 1395x(s)(2)(J)) in a manner such that the months of coverage of drugs described in such section are provided consecutively, so long as the total number of months of coverage provided is the same as the number of months described in such section.”
+Pub. L. 103–432, title I, §160(c), Oct. 31, 1994, 108 Stat. 4443, provided that: “The Secretary of Health and Human Services may administer section 1861(s)(2)(J) of the Social Security Act (42 U.S.C. 1395x(s)(2)(J)) in a manner such that the months of coverage of drugs described in such section are provided consecutively, so long as the total number of months of coverage provided is the same as the number of months described in such section.”
 
 #### Freeze in Per Visit Cost Limits for Home Health Services
 
-Section 13564(a)(1) of Pub. L. 103–66 provided that: “The Secretary of Health and Human Services shall not provide for any change in the per visit cost limits for home health services under section 1861(v)(1)(L) of such Act \[subsec. (v)(1)(L) of this section\] for cost reporting periods beginning on or after July 1, 1994, and before July 1, 1996, except as may be necessary to take into account the amendment made by subsection (b)(1) \[amending this section\]. The effect of the preceding sentence shall not be considered by the Secretary in making adjustments pursuant to section 1861(v)(1)(L)(ii) of such Act to the payment limits for such services during such cost reporting periods.”
+Pub. L. 103–66, title XIII, §13564(a)(1), Aug. 10, 1993, 107 Stat. 607, provided that: “The Secretary of Health and Human Services shall not provide for any change in the per visit cost limits for home health services under section 1861(v)(1)(L) of such Act \[subsec. (v)(1)(L) of this section\] for cost reporting periods beginning on or after July 1, 1994, and before July 1, 1996, except as may be necessary to take into account the amendment made by subsection (b)(1) \[amending this section\]. The effect of the preceding sentence shall not be considered by the Secretary in making adjustments pursuant to section 1861(v)(1)(L)(ii) of such Act to the payment limits for such services during such cost reporting periods.”
 
 #### Study and Report on Effects of Coverage of Osteoporosis Drugs
 
-Section 4156(b) of Pub. L. 101–508 directed Secretary of Health and Human Services to conduct a study analyzing effects of coverage of osteoporosis drugs under part B of this subchapter on health of individuals enrolled under such part and utilization of inpatient hospital and extended care services by such individuals, and, by not later than Oct. 1, 1994, to submit a report to Congress on such study, which was to include recommendations regarding expansion of coverage under the medicare program of items and services for individuals with post-menopausal osteoporosis as the Secretary considered appropriate.
+Pub. L. 101–508, title IV, §4156(b), Nov. 5, 1990, 104 Stat. 1388–88, directed Secretary of Health and Human Services to conduct a study analyzing effects of coverage of osteoporosis drugs under part B of this subchapter on health of individuals enrolled under such part and utilization of inpatient hospital and extended care services by such individuals, and, by not later than Oct. 1, 1994, to submit a report to Congress on such study, which was to include recommendations regarding expansion of coverage under the medicare program of items and services for individuals with post-menopausal osteoporosis as the Secretary considered appropriate.
 
 #### Productivity Screening Guidelines Application to Staff in Rural Health Clinics
 
-Section 4161(b)(3) of Pub. L. 101–508 provided that: “In employing any screening guideline in determining the productivity of physicians, physician assistants, nurse practitioners, and certified nurse-midwives in a rural health clinic, the Secretary of Health and Human Services shall provide that the guideline shall take into account the combined services of such staff (and not merely the service within each class of practitioner).”
+Pub. L. 101–508, title IV, §4161(b)(3), Nov. 5, 1990, 104 Stat. 1388–95, provided that: “In employing any screening guideline in determining the productivity of physicians, physician assistants, nurse practitioners, and certified nurse-midwives in a rural health clinic, the Secretary of Health and Human Services shall provide that the guideline shall take into account the combined services of such staff (and not merely the service within each class of practitioner).”
 
 #### Development of Prospective Payment System for Home Health Services
 
-Section 4207(c), formerly 4027(c), of Pub. L. 101–508, as renumbered and amended by Pub. L. 103–432, title I, §160(d)(4), (9), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 105–362, title VI, §601(b)(2), Nov. 10, 1998, 112 Stat. 3286, directed Secretary of Health and Human Services to develop a proposal to modify the current system under which payment is made for home health services under this subchapter or a proposal to replace such system with a system under which such payments would be made on the basis of prospectively determined rates, with Secretary to submit to Congress by not later than Apr. 1, 1993, the research findings upon which the proposal was to be based, and directed Prospective Payment Assessment Commission to submit to Congress by not later than Mar. 1, 1994, an analysis of and comments on the proposal.
+Pub. L. 101–508, title IV, §4207(c), formerly §4027(c), Nov. 5, 1990, 104 Stat. 1388–119, as renumbered and amended by Pub. L. 103–432, title I, §160(d)(4), (9), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 105–362, title VI, §601(b)(2), Nov. 10, 1998, 112 Stat. 3286, directed Secretary of Health and Human Services to develop a proposal to modify the current system under which payment is made for home health services under this subchapter or a proposal to replace such system with a system under which such payments would be made on the basis of prospectively determined rates, with Secretary to submit to Congress by not later than Apr. 1, 1993, the research findings upon which the proposal was to be based, and directed Prospective Payment Assessment Commission to submit to Congress by not later than Mar. 1, 1994, an analysis of and comments on the proposal.
 
 #### Application of Budget-Neutral Basis
 
-Section 4207(d)(2), formerly 4027(d)(2), of Pub. L. 101–508, as renumbered by Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444, provided that: “In updating the wage index for establishing limits under section 1861(v)(1)(L)(iii) of the Social Security Act \[subsec. (v)(1)(L)(iii) of this section\], the Secretary shall ensure that aggregate payments to home health agencies under title XVIII of such Act \[this subchapter\] will be no greater or lesser than such payments would have been without regard to such update.”
+Pub. L. 101–508, title IV, §4207(d)(2), formerly §4027(d)(2), Nov. 5, 1990, 104 Stat. 1388–120, as renumbered by Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444, provided that: “In updating the wage index for establishing limits under section 1861(v)(1)(L)(iii) of the Social Security Act \[subsec. (v)(1)(L)(iii) of this section\], the Secretary shall ensure that aggregate payments to home health agencies under title XVIII of such Act \[this subchapter\] will be no greater or lesser than such payments would have been without regard to such update.”
 
 #### Transition Provisions for Determining Reasonable Costs for Home Health Agency Services
 
-Section 4207(d)(3), formerly 4027(d)(3), of Pub. L. 101–508, as renumbered by Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444, provided that, notwithstanding subsec. (v)(1)(L)(iii) of this section, the Secretary of Health and Human Services was to, in determining the limits of reasonable costs under this subchapter with respect to services furnished by a home health agency, utilize a wage index equal to (1) for cost reporting periods beginning on or after July 1, 1991, and on or before June 30, 1992, a combined area wage index consisting of 67 percent of the area wage index applicable to such home health agency, determined using the survey of the 1982 wages and wage-related costs of hospitals in the United States, and 33 percent of the area wage index applicable to hospitals located in the geographic area in which the home health agency was located, determined using the survey of the 1988 wages and wage-related costs of hospitals in the United States, and (2) for cost reporting periods beginning on or after July 1, 1992, and on or before June 30, 1993, a combined area wage index consisting of 33 percent of the area wage index applicable to such home health agency, determined using the survey of the 1982 wages and wage-related costs of hospitals in the United States, and 67 percent of the area wage index applicable to hospitals located in the geographic area in which the home health agency was located, determined using the survey of the 1988 wages and wage-related costs of hospitals in the United States.
+Pub. L. 101–508, title IV, §4207(d)(3), formerly §4027(d)(3), Nov. 5, 1990, 104 Stat. 1388–121, as renumbered by Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444, provided that, notwithstanding subsec. (v)(1)(L)(iii) of this section, the Secretary of Health and Human Services was to, in determining the limits of reasonable costs under this subchapter with respect to services furnished by a home health agency, utilize a wage index equal to (1) for cost reporting periods beginning on or after July 1, 1991, and on or before June 30, 1992, a combined area wage index consisting of 67 percent of the area wage index applicable to such home health agency, determined using the survey of the 1982 wages and wage-related costs of hospitals in the United States, and 33 percent of the area wage index applicable to hospitals located in the geographic area in which the home health agency was located, determined using the survey of the 1988 wages and wage-related costs of hospitals in the United States, and (2) for cost reporting periods beginning on or after July 1, 1992, and on or before June 30, 1993, a combined area wage index consisting of 33 percent of the area wage index applicable to such home health agency, determined using the survey of the 1982 wages and wage-related costs of hospitals in the United States, and 67 percent of the area wage index applicable to hospitals located in the geographic area in which the home health agency was located, determined using the survey of the 1988 wages and wage-related costs of hospitals in the United States.
 
 #### Permitting Dentist To Serve as Hospital Medical Director
 
-Section 6025 of Pub. L. 101–239 provided that: “Notwithstanding the requirement that the responsibility for organization and conduct of the medical staff of an institution be assigned only to a doctor of medicine or osteopathy in order for the institution to participate as a hospital under the medicare program, an institution that has a doctor of dental surgery or of dental medicine serving as its medical director shall be considered to meet such requirement if the laws of the State in which the institution is located permit a doctor of dental surgery or of dental medicine to serve as the medical staff director of a hospital.”
+Pub. L. 101–239, title VI, §6025, Dec. 19, 1989, 103 Stat. 2167, provided that: “Notwithstanding the requirement that the responsibility for organization and conduct of the medical staff of an institution be assigned only to a doctor of medicine or osteopathy in order for the institution to participate as a hospital under the medicare program, an institution that has a doctor of dental surgery or of dental medicine serving as its medical director shall be considered to meet such requirement if the laws of the State in which the institution is located permit a doctor of dental surgery or of dental medicine to serve as the medical staff director of a hospital.”
 
 #### Recognition of Costs of Certain Hospital-Based Nursing Schools
 
-Section 6205(a)(1)(A) of Pub. L. 101–239 provided that: “The reasonable costs incurred by a hospital in training students of a hospital-based nursing school shall be allowable as reasonable costs under title XVIII of the Social Security Act \[this subchapter\] and reimbursed under such title on the same basis as if they were allowable direct costs of a hospital-operated educational program (other than an approved graduate medical education program) if, before June 15, 1989, and thereafter, the hospital demonstrates that for each year, it incurs at least 50 percent of the costs of training nursing students at such school, the nursing school and the hospital share some common board members, and all instruction is provided at the hospital or, if in another building, a building on the immediate grounds of the hospital.”
+Pub. L. 101–239, title VI, §6205(a)(1)(A), Dec. 19, 1989, 103 Stat. 2243, provided that: “The reasonable costs incurred by a hospital in training students of a hospital-based nursing school shall be allowable as reasonable costs under title XVIII of the Social Security Act \[this subchapter\] and reimbursed under such title on the same basis as if they were allowable direct costs of a hospital-operated educational program (other than an approved graduate medical education program) if, before June 15, 1989, and thereafter, the hospital demonstrates that for each year, it incurs at least 50 percent of the costs of training nursing students at such school, the nursing school and the hospital share some common board members, and all instruction is provided at the hospital or, if in another building, a building on the immediate grounds of the hospital.”
 
-\[Section 6205(a)(2) of Pub. L. 101–239 provided that: “Paragraph (1)(A) \[set out above\] shall apply with respect to cost reporting periods beginning on or after the date of the enactment of this Act \[Dec. 19, 1989\] and on or before the date on which the Secretary issues regulations pursuant to subsection (b)(2)(A) \[set out as a note under section 1395ww of this title\].”\]
+\[Pub. L. 101–239, title VI, §6205(a)(2), Dec. 19, 1989, 103 Stat. 2243, provided that: “Paragraph (1)(A) \[set out above\] shall apply with respect to cost reporting periods beginning on or after the date of the enactment of this Act \[Dec. 19, 1989\] and on or before the date on which the Secretary issues regulations pursuant to subsection (b)(2)(A) \[set out as a note under section 1395ww of this title\].”\]
 
 #### Dissemination of Rural Health Clinic Information
 
-Section 6213(e) of Pub. L. 101–239 directed Secretary of Health and Human Services, not later than 60 days after Dec. 19, 1989, in consultation with the Director of the Office of Rural Health Policy, to disseminate to health care facilities and to the chief executive officer, chief health officer, and chief human services officer of each State, applications and other necessary information to enable such a facility to apply for designation as a rural health clinic for the purposes of this subchapter and subchapter XIX of this chapter.
+Pub. L. 101–239, title VI, §6213(e), Dec. 19, 1989, 103 Stat. 2251, directed Secretary of Health and Human Services, not later than 60 days after Dec. 19, 1989, in consultation with the Director of the Office of Rural Health Policy, to disseminate to health care facilities and to the chief executive officer, chief health officer, and chief human services officer of each State, applications and other necessary information to enable such a facility to apply for designation as a rural health clinic for the purposes of this subchapter and subchapter XIX of this chapter.
 
 #### Treatment of Certain Facilities as Rural Health Clinics
 
-Section 6213(f) of Pub. L. 101–239 provided that: “The Secretary of Health and Human Services shall not deny certification of a facility as a rural health clinic under section 1861(aa)(2) of the Social Security Act \[subsec. (aa)(2) of this section\] if the facility is located on an island and would otherwise be qualified to be certified as such a facility but for the requirement that the services of a physician assistant or nurse practitioner be provided in the facility.”
+Pub. L. 101–239, title VI, §6213(f), Dec. 19, 1989, 103 Stat. 2251, provided that: “The Secretary of Health and Human Services shall not deny certification of a facility as a rural health clinic under section 1861(aa)(2) of the Social Security Act \[subsec. (aa)(2) of this section\] if the facility is located on an island and would otherwise be qualified to be certified as such a facility but for the requirement that the services of a physician assistant or nurse practitioner be provided in the facility.”
 
 #### Continued Use of Home Health Wage Index in Effect Prior to July 1, 1989, Until After July 1, 1991
 
-Section 6222 of Pub. L. 101–239 provided that: “Notwithstanding the requirement of section 1861(v)(1)(L)(iii) of the Social Security Act \[subsec. (v)(1)(L)(iii) of this section\], the Secretary of Health and Human Services shall, in determining the limits of reasonable costs under title XVIII of the Social Security Act \[this subchapter\] with respect to services furnished by home health agencies, continue to utilize the wage index that was in effect for cost reporting periods beginning before July 1, 1989, until cost reporting periods beginning on or after July 1, 1991.”
+Pub. L. 101–239, title VI, §6222, Dec. 19, 1989, 103 Stat. 2256, provided that: “Notwithstanding the requirement of section 1861(v)(1)(L)(iii) of the Social Security Act \[subsec. (v)(1)(L)(iii) of this section\], the Secretary of Health and Human Services shall, in determining the limits of reasonable costs under title XVIII of the Social Security Act \[this subchapter\] with respect to services furnished by home health agencies, continue to utilize the wage index that was in effect for cost reporting periods beginning before July 1, 1989, until cost reporting periods beginning on or after July 1, 1991.”
 
 #### Payment for Medical Escort or Medical Attendant on Commercial Airliner Allowed
 
-Section 8427 of Pub. L. 100–647 provided that:
+Pub. L. 100–647, title VIII, §8427, Nov. 10, 1988, 102 Stat. 3803, provided that:
 
 “(a)
 
@@ -3788,15 +3822,15 @@ Effective Period.—Subsection (a) shall apply to payment for services furnished
 
 #### Skilled Nursing Facility; Access and Visitation Rights
 
-Section 411(<i>l</i>)(2)(E) of Pub. L. 100–360 provided that: “Effective as of the date of the enactment of this Act \[July 1, 1988\] and until the effective date of section 1819(c) of such Act \[see Effective Date note set out under section 1395i–3 of this title\], section 1861(j) of the Social Security Act \[subsec. (j) of this section\] is deemed to include the requirement described in section 1819(c)(3)(A) of such Act \[section 1395i–3(c)(3)(A) of this title\] (as added by section 4201(a)(3) of OBRA).”
+Pub. L. 100–360, title IV, §411(l)(2)(E), July 1, 1988, 102 Stat. 802, provided that: “Effective as of the date of theenactment of this Act \[July 1, 1988\] and until the effective date of section 1819(c) of such Act \[see Effective Date note set out under section 1395i–3 of this title\], section 1861(j) of the Social Security Act \[subsec. (j) of this section\] is deemed to include the requirement described in section 1819(c)(3)(A) of such Act \[section 1395i–3(c)(3)(A) of this title\] (as added by section 4201(a)(3) of OBRA).”
 
 #### Moratorium on Prior Authorization for Home Health and Post-Hospital Extended Care Services
 
-Section 4039(e) of Pub. L. 100–203 provided that: “The Secretary of Health and Human Services shall not implement any voluntary or mandatory program of prior authorization for home health services, extended care services, or post-hospital extended care services under part A or B of title XVIII of the Social Security Act \[part A or B of this subchapter\] at any time prior to six months after the date on which the Congress receives the report required under section 9305(k)(4) of the Omnibus Budget Reconciliation Act of 1986 \[section 9305(k)(4) of Pub. L. 99–509, set out below\].”
+Pub. L. 100–203, title IV, §4039(e), Dec. 22, 1987, 101 Stat. 1330–82, provided that: “The Secretary of Health and Human Services shall not implement any voluntary or mandatory program of prior authorization for home health services, extended care services, or post-hospital extended care services under part A or B of title XVIII of the Social Security Act \[part A or B of this subchapter\] at any time prior to six months after the date on which the Congress receives the report required under section 9305(k)(4) of the Omnibus Budget Reconciliation Act of 1986 \[section 9305(k)(4) of Pub. L. 99–509, set out below\].”
 
 #### Delay in Publishing Regulations With Respect To Deeming Status of Entities
 
-Section 4039(f) of Pub. L. 100–203 provided that: “The Secretary of Health and Human Services (in this subsection referred to as the ‘Secretary’) shall not deem any entity to be a provider of services (as defined in section 1861(u) of the Social Security Act \[subsec. (u) of this section\]) for purposes of title XVIII of such Act \[this subchapter\]—
+Pub. L. 100–203, title IV, §4039(f), Dec. 22, 1987, 101 Stat. 1330–82, provided that: “The Secretary of Health and Human Services (in this subsection referred to as the ‘Secretary’) shall not deem any entity to be a provider of services (as defined in section 1861(u) of the Social Security Act \[subsec. (u) of this section\]) for purposes of title XVIII of such Act \[this subchapter\]—
 
 &emsp;“(1) on any date prior to 6 months after the date on which the Secretary has published a proposed rule with respect to the deeming of the entity, and
 
@@ -3804,15 +3838,15 @@ Section 4039(f) of Pub. L. 100–203 provided that: “The Secretary of Health a
 
 #### Development of Uniform Needs Assessment Instrument
 
-Section 9305(h) of Pub. L. 99–509 directed Secretary of Health and Human Services to develop a uniform needs assessment instrument that could be used by discharge planners, hospitals, nursing facilities, other health care providers, and fiscal intermediaries in evaluating individual's need for post-hospital extended care services, home health services, and long-term care services of health-related or supportive nature, and further provided for creation of advisory panel to assist Secretary and for a report to Congress not later than Jan. 1, 1989.
+Pub. L. 99–509, title IX, §9305(h), Oct. 21, 1986, 100 Stat. 1993, directed Secretary of Health and Human Services to develop a uniform needs assessment instrument that could be used by discharge planners, hospitals, nursing facilities, other health care providers, and fiscal intermediaries in evaluating individual's need for post-hospital extended care services, home health services, and long-term care services of health-related or supportive nature, and further provided for creation of advisory panel to assist Secretary and for a report to Congress not later than Jan. 1, 1989.
 
 #### Prior and Concurrent Authorization Demonstration Project
 
-Section 9305(k) of Pub. L. 99–509 directed Secretary of Health and Human Services to conduct a demonstration program concerning prior and concurrent authorization for post-hospital extended care services and home health services furnished under part A or part B of this subchapter, which was to include at least four projects and was to be initiated by not later than Jan. 1, 1987, under which the Secretary was to monitor the acceptance of individuals entitled to benefits under this subchapter by providers to ensure that the placement of such individuals was not delayed until the results of prior and concurrent review were known, and further directed Secretary to evaluate the demonstration program and report to Congress on such evaluation no later than Feb. 1, 1989.
+Pub. L. 99–509, title IX, §9305(k), Oct. 21, 1986, 100 Stat. 1994, directed Secretary of Health and Human Services to conduct a demonstration program concerning prior and concurrent authorization for post-hospital extended care services and home health services furnished under part A or part B of this subchapter, which was to include at least four projects and was to be initiated by not later than Jan. 1, 1987, under which the Secretary was to monitor the acceptance of individuals entitled to benefits under this subchapter by providers to ensure that the placement of such individuals was not delayed until the results of prior and concurrent review were known, and further directed Secretary to evaluate the demonstration program and report to Congress on such evaluation no later than Feb. 1, 1989.
 
 #### Considerations in Establishing Limits on Payment for Home Health Services
 
-Section 9315(b) of Pub. L. 99–509 provided that: “In establishing limitations under section 1861(v)(1)(L) of the Social Security Act \[subsec. (v)(1)(L) of this section\] on payment for home health services for cost reporting periods beginning on or after July 1, 1986, the Secretary of Health and Human Services shall—
+Pub. L. 99–509, title IX, §9315(b), Oct. 21, 1986, 100 Stat. 2006, provided that: “In establishing limitations under section 1861(v)(1)(L) of the Social Security Act \[subsec. (v)(1)(L) of this section\] on payment for home health services for cost reporting periods beginning on or after July 1, 1986, the Secretary of Health and Human Services shall—
 
 &emsp;“(1) base such limitations on the most recent data available, which data may be for cost reporting periods beginning no earlier than October 1, 1983; and
 
@@ -3822,67 +3856,67 @@ Section 9315(b) of Pub. L. 99–509 provided that: “In establishing limitation
 
 #### Comptroller General Study and Report on Cost Limits for Home Health Services
 
-Section 9315(c) of Pub. L. 99–509 directed Comptroller General to study and report to Congress, not later than Feb. 1, 1988, on appropriateness and impact on medicare beneficiaries of applying the per visit cost limits for home health services under subsec. (v)(1)(L) of this section on a discipline-specific basis, rather than on an aggregate basis, for all home health services furnished by an agency, and appropriateness of the percentage limits so established.
+Pub. L. 99–509, title IX, §9315(c), Oct. 21, 1986, 100 Stat. 2006, directed Comptroller General to study and report to Congress, not later than Feb. 1, 1988, on appropriateness and impact on medicare beneficiaries of applying the per visit cost limits for home health services under subsec. (v)(1)(L) of this section on a discipline-specific basis, rather than on an aggregate basis, for all home health services furnished by an agency, and appropriateness of the percentage limits so established.
 
 #### Reduction in Payment To Avoid Duplicate Payment for Services of Physician Assistants
 
-Section 9338(d) of Pub. L. 99–509 directed Secretary of Health and Human Services to reduce the amount of payments otherwise made to hospitals and skilled nursing facilities under this subchapter to eliminate estimated duplicate payments for historical or current costs attributable to services described in section 1395x(s)(2)(K) of this title, prior to repeal by Pub. L. 101–508, title IV, §4002(f), Nov. 5, 1990, 104 Stat. 1388–36, effective as if included in the enactment of Pub. L. 99–509.
+Pub. L. 99–509, title IX, §9338(d), Oct. 21, 1986, 100 Stat. 2035, directed Secretary of Health and Human Services to reduce the amount of payments otherwise made to hospitals and skilled nursing facilities under this subchapter to eliminate estimated duplicate payments for historical or current costs attributable to services described in section 1395x(s)(2)(K) of this title, prior to repeal by Pub. L. 101–508, title IV, §4002(f), Nov. 5, 1990, 104 Stat. 1388–36, effective as if included in the enactment of Pub. L. 99–509.
 
 #### Study and Report on Payments for Physician Assistants
 
-Section 9338(e) of Pub. L. 99–509 directed Secretary to report to Congress, by Apr. 1, 1988, concerning adjustments to amount of payment made, under part B for services described in subsec. (s)(2)(K) of this section, to ensure that amount of such payments reflects approximate cost of furnishing the services, taking into account compensation costs and overhead and supervision costs attributable to physician assistants.
+Pub. L. 99–509, title IX, §9338(e), Oct. 21, 1986, 100 Stat. 2035, directed Secretary to report to Congress, by Apr. 1, 1988, concerning adjustments to amount of payment made, under part B for services described in subsec. (s)(2)(K) of this section, to ensure that amount of such payments reflects approximate cost of furnishing the services, taking into account compensation costs and overhead and supervision costs attributable to physician assistants.
 
 #### Cost Limits for Routine Services for Urban and Rural Hospital-Based Skilled Nursing Facilities; Cost Reporting Periods Beginning On or After October 1, 1982, and Prior to July 1, 1984
 
-Section 2319(d) of Pub. L. 98–369 provided that: “Notwithstanding limits on the cost of skilled nursing facilities which may have been issued under section 1861(v) of the Social Security Act \[subsec. (v) of this section\] prior to the date of the enactment of this Act \[July 18, 1984\], in the case of cost reporting periods beginning on or after October 1, 1982, and prior to July 1, 1984, the cost limits for routine services for urban and rural hospital-based skilled nursing facilities shall be 112 percent of the mean of the respective routine costs for urban and rural hospital-based skilled nursing facilities.”
+Pub. L. 98–369, div. B, title III, §2319(d), July 18, 1984, 98 Stat. 1083, provided that: “Notwithstanding limits on the cost of skilled nursing facilities which may have been issued under section 1861(v) of the Social Security Act \[subsec. (v) of this section\] prior to the date of the enactment of this Act \[July 18, 1984\], in the case of cost reporting periods beginning on or after October 1, 1982, and prior to July 1, 1984, the cost limits for routine services for urban and rural hospital-based skilled nursing facilities shall be 112 percent of the mean of the respective routine costs for urban and rural hospital-based skilled nursing facilities.”
 
 #### Study and Report Relating to Requirements That Core Services Be Furnished Directly by Hospices
 
-Section 2343(d) of Pub. L. 98–369 directed Secretary of Health and Human Services to conduct a study of necessity and appropriateness of requirements that certain “core” services be furnished directly by a hospice, as required under subsec. (dd)(2)(A)(ii)(I) of this section and report results of such study to Congress with the report required under section 122(i)(1) \[122(j)(1)\] of the Tax Equity and Fiscal Responsibility Act of 1982 (Pub. L. 97–248), set out as a note under section 1395f of this title.
+Pub. L. 98–369, div. B, title III, §2343(d), July 18, 1984, 98 Stat. 1095, directed Secretary of Health and Human Services to conduct a study of necessity and appropriateness of requirements that certain “core” services be furnished directly by a hospice, as required under subsec. (dd)(2)(A)(ii)(I) of this section and report results of such study to Congress with the report required under section 122(i)(1) \[122(j)(1)\] of the Tax Equity and Fiscal Responsibility Act of 1982 (Pub. L. 97–248), set out as a note under section 1395f of this title.
 
 #### Report on Effect of 1982 Amendment on Hospital-Based Skilled Nursing Facilities
 
-Section 605(b) of Pub. L. 98–21 directed Secretary of Health and Human Services, prior to Dec. 31, 1983, to complete a study and report to Congress with respect to (1) effect which implementation of section 102 of the Tax Equity and Fiscal Responsibility Act of 1982, amending this section, would have on hospital-based skilled nursing facilities, given the differences (if any) in patient populations served by such facilities and by community-based skilled nursing facilities and (2) impact on skilled nursing facilities of hospital prospective payment systems, and recommendations concerning payment of skilled nursing facilities.
+Pub. L. 98–21, title VI, §605(b), Apr. 20, 1983, 97 Stat. 169, directed Secretary of Health and Human Services, prior to Dec. 31, 1983, to complete a study and report to Congress with respect to (1) effect which implementation of section 102 of the Tax Equity and Fiscal Responsibility Act of 1982, amending this section, would have on hospital-based skilled nursing facilities, given the differences (if any) in patient populations served by such facilities and by community-based skilled nursing facilities and (2) impact on skilled nursing facilities of hospital prospective payment systems, and recommendations concerning payment of skilled nursing facilities.
 
-Section 2319(e) of Pub. L. 98–369 directed Secretary of Health and Human Services to submit to Congress, prior to Dec. 1, 1984, the report required under section 605(b) of the Social Security Amendments of 1983 (Pub. L. 87–21), set out above.
+Pub. L. 98–369, div. B, title III, §2319(e), July 18, 1984, 98 Stat. 1083, directed Secretary of Health and Human Services to submit to Congress, prior to Dec. 1, 1984, the report required under section 605(b) of the Social Security Amendments of 1983 (Pub. L. 87–21), set out above.
 
 #### Elimination of Private Room Subsidy
 
-Section 111 of Pub. L. 97–248 provided that:
+Pub. L. 97–248, title I, §111, Sept. 3, 1982, 96 Stat. 340, provided that:
 
-“(a) The Secretary of Health and Human Services shall, pursuant to section 1861(v)(2) of the Social Security Act \[subsec. (v)(2) of this section\], not allow as a reasonable cost the estimated amount by which the costs incurred by a hospital or skilled nursing facility for nonmedically necessary private accommodations for medicare beneficiaries exceeds the costs whichwould have been incurred by such hospital or facility for semiprivate accommodations.
+“(a) The Secretary of Health and Human Services shall, pursuant to section 1861(v)(2) of the Social Security Act \[subsec. (v)(2) of this section\], not allow as a reasonable cost the estimated amount by which the costs incurred by a hospital or skilled nursing facility for nonmedically necessary private accommodations for medicare beneficiaries exceeds the costs which would have been incurred by such hospital or facility for semiprivate accommodations.
 
 “(b) The Secretary of Health and Human Services shall first issue such final regulations (whether on an interim or other basis) as may be necessary to implement subsection (a) by October 1, 1982. If such regulations are promulgated on an interim final basis, the Secretary shall take such steps as may be necessary to provide opportunity for public comment, and appropriate revision based thereon, so as to provide that such regulations are not on an interim basis later than January 31, 1983.”
 
 #### Regulations Regarding Access to Books and Records
 
-Section 952(b) of Pub. L. 96–499, as added by Pub. L. 97–248, title I, §127(2), Sept. 3, 1982, 96 Stat. 366, provided that: “Unless the Secretary of Health and Human Services first publishes final regulations prescribing the criteria and procedures described in the last sentence of section 1861(v)(1)(I) of the Social Security Act \[subsec. (v)(1)(I) of this section\] by January 1, 1983, after providing a period of not less than 60 days for public comment on proposed regulations, the amendment made by subsection (a) \[amending this section\] shall only apply to books, documents, and records relating to services furnished (pursuant to contract or subcontract) on or after the date on which final regulations of the Secretary are first published.”
+Pub. L. 96–499, title IX, §952(b), as added by Pub. L. 97–248, title I, §127(2), Sept. 3, 1982, 96 Stat. 366, provided that: “Unless the Secretary of Health and Human Services first publishes final regulations prescribing the criteria and procedures described in the last sentence of section 1861(v)(1)(I) of the Social Security Act \[subsec. (v)(1)(I) of this section\] by January 1, 1983, after providing a period of not less than 60 days for public comment on proposed regulations, the amendment made by subsection (a) \[amending this section\] shall only apply to books, documents, and records relating to services furnished (pursuant to contract or subcontract) on or after the date on which final regulations of the Secretary are first published.”
 
 #### Compliance With the Life Safety Code or State Fire and Safety Code
 
-Section 915(b) of Pub. L. 96–499 provided that: “Any institution (or part of an institution) which complied with the requirements of section 1861(j)(13) of the Social Security Act \[subsec. (j)(13) of this section\] on the day before the date of the enactment of this Act \[Dec. 5, 1980\] shall, so long as such compliance is maintained (either by meeting the applicable provisions of the Life Safety Code (21st edition, 1967, or 23d edition, 1973), with or without waivers of specific provisions, or by meeting the applicable provisions of a fire and safety code imposed by State law as provided for in such section 1861(j)(13)), be considered (for purposes of titles XVIII or XIX of such Act \[this subchapter or subchapter XIX of this chapter\]) to be in compliance with the requirements of such section 1861(j)(13), as it is amended by subsection (a) of this section.”
+Pub. L. 96–499, title IX, §915(b), Dec. 5, 1980, 94 Stat. 2623, provided that: “Any institution (or part of an institution) which complied with the requirements of section 1861(j)(13) of the Social Security Act \[subsec. (j)(13) of this section\] on the day before the date of the enactment of this Act \[Dec. 5, 1980\] shall, so long as such compliance is maintained (either by meeting the applicable provisions of the Life Safety Code (21st edition, 1967, or 23d edition, 1973), with or without waivers of specific provisions, or by meeting the applicable provisions of a fire and safety code imposed by State law as provided for in such section 1861(j)(13)), be considered (for purposes of titles XVIII or XIX of such Act \[this subchapter or subchapter XIX of this chapter\]) to be in compliance with the requirements of such section 1861(j)(13), as it is amended by subsection (a) of this section.”
 
-Section 106(c) of Pub. L. 94–182 provided that: “Any institution (or part of an institution) which complied with the requirements of section 1861(j)(13) of the Social Security Act \[subsec. (j)(13) of this section\] on the day preceding the first day referred to in subsection (b) \[enacting provisions set out as a note under this section\] shall, so long as such compliance is maintained (either by meeting the applicable provisions of the Life Safety Code (21st edition, 1967), with or without waivers of specific provisions, or by meeting the applicable provisions of a fire and safety code imposed by State law as provided for in such section 1861(j)(13)), be considered (for purposes of titles XVIII and XIX of such Act) \[subchapters XVIII and XIX of this chapter\] to be in compliance with the requirements of such section 1861(j)(13), as it is amended by subsection (a) of this section.”
+Pub. L. 94–182, title I, §106(c), Dec. 31, 1975, 89 Stat. 1052, provided that: “Any institution (or part of an institution) which complied with the requirements of section 1861(j)(13) of the Social Security Act \[subsec. (j)(13) of this section\] on the day preceding the first day referred to in subsection (b) \[enacting provisions set out as a note under this section\] shall, so long as such compliance is maintained (either by meeting the applicable provisions of the Life Safety Code (21st edition, 1967), with or without waivers of specific provisions, or by meeting the applicable provisions of a fire and safety code imposed by State law as provided for in such section 1861(j)(13)), be considered (for purposes of titles XVIII and XIX of such Act) \[subchapters XVIII and XIX of this chapter\] to be in compliance with the requirements of such section 1861(j)(13), as it is amended by subsection (a) of this section.”
 
 #### Private, Nonprofit Health Care Clinics Qualifying, as of July 1, 1977, as Rural Health Clinics
 
-Section 1(e) of Pub. L. 95–210 provided that: “Any private, nonprofit health care clinic that—
+Pub. L. 95–210, §1(e), Dec. 13, 1977, 91 Stat. 1487, provided that: “Any private, nonprofit health care clinic that—
 
 &emsp;“(1) on July 1, 1977, was operating and located in an area which on that date (A) was not an urbanized area (as defined by the Bureau of the Census) and (B) had a supply of physicians insufficient to meet the needs of the area (as determined by the Secretary), and
 
-&emsp;“(2) meets the definition of a rural health clinic under section 1861(aa)(2) \[subsec. (aa)(2) of this section\] or section 1905(<i>l</i>) of the Social Security Act \[section 1396d(<i>l</i>) of this title\], except for clause (i) of section 1861(aa)(2) \[subsec. (aa)(2) of this section\],
+&emsp;“(2) meets the definition of a rural health clinic under section 1861(aa)(2) \[subsec. (aa)(2) of this section\] or section 1905(l) of the Social Security Act \[section 1396d(l) of this title\], except for clause (i) of section 1861(aa)(2) \[subsec. (aa)(2) of this section\],
 
 > shall be considered, for the purposes of title XVIII or XIX, respectively, of the Social Security Act \[this subchapter or subchapter XIX of this chapter\], as satisfying the definition of a rural health clinic under such section.”
 
 #### Promulgation of Regulations Defining Costs Chargeable to Personal Funds of Patients in Skilled Nursing Facilities; Date of Issuance
 
-Section 21(b) of Pub. L. 95–142 provided that: “The Secretary of Health, Education, and Welfare \[now Health and Human Services\] shall, by regulation, define those costs which may be charged to the personal funds of patients in skilled nursing facilities who are individuals receiving benefits under the provisions of title XVIII \[this subchapter\], or under a State plan approved under the provisions of title XIX \[subchapter XIX of this chapter\], of the Social Security Act, and those costs which are to be included in the reasonable cost or reasonable charge for extended care services as determined under the provisions of title XVIII, or for skilled nursing and intermediate care facility services as determined under the provisions of title XIX, of such Act.”
+Pub. L. 95–142, §21(b), Oct. 25, 1977, 91 Stat. 1207, provided that: “The Secretary of Health, Education, and Welfare \[now Health and Human Services\] shall, by regulation, define those costs which may be charged to the personal funds of patients in skilled nursing facilities who are individuals receiving benefits under the provisions of title XVIII \[this subchapter\], or under a State plan approved under the provisions of title XIX \[subchapter XIX of this chapter\], of the Social Security Act, and those costs which are to be included in the reasonable cost or reasonable charge for extended care services as determined under the provisions of title XVIII, or for skilled nursing and intermediate care facility services as determined under the provisions of title XIX, of such Act.”
 
-\[Section 21(c)(2) of Pub. L. 95–142 provided that: “The Secretary of Health, Education, and Welfare shall issue the regulations required under subsection (b) \[set out above\] within ninety days after the date of enactment of this Act \[Oct. 25, 1977\].”\]
+\[Pub. L. 95–142, §21(c)(2), Oct. 25, 1977, 91 Stat. 1208, provided that: “The Secretary of Health, Education, and Welfare shall issue the regulations required under subsection (b) \[set out above\] within ninety days after the date of enactment of this Act \[Oct. 25, 1977\].”\]
 
 #### Home Health Services; Grants for Establishment, Operation, Staffing, Etc., of Public and Nonprofit Private Agencies and Entities; Procedures; Payments; Authorization of Appropriations
 
-Pub. L. 94–63, title VI, §602, July 29, 1975, 89 Stat. 346, as amended by Pub. L. 94–460, title III, §302, Oct. 8, 1976, 90 Stat. 1960; Pub. L. 95–83, title III, §310, Aug. 1, 1977, 91 Stat. 397, which provided for a program of home health services and of training of professional and paraprofessional personnel, was repealed by Pub. L. 95–626, title II, §207(b), Nov. 10, 1978, 92 Stat. 3586, effective Oct. 1, 1978.
+Pub. L. 94–63, title VI, §602, July 29, 1975, 89 Stat. 346, as amended by Pub. L. 94–460, title III, §302, Oct. 8, 1976, 90 Stat. 1960; Pub. L. 95–83, title III, §310, Aug. 1, 1977, 91 Stat. 397, which provided for a program of home health services and of training of professional and paraprofessional personnel, was repealed by Pub. L. 95–626,title II, §207(b), Nov. 10, 1978, 92 Stat. 3586, effective Oct. 1, 1978.
 
 #### Payment for Service of Physicians Rendered in a Teaching Hospital for Accounting Periods Beginning After June 30, 1975, and Prior to October 1, 1978; Studies, Reports, etc.; Effective Dates
 
@@ -3890,15 +3924,15 @@ Pub. L. 93–233, §15(a)(1), (b)–(d), Dec. 31, 1973, 87 Stat. 965, as amended
 
 #### Physical Therapy Services Requirements; Effective Date Postponement
 
-Section 17(a) of Pub. L. 93–233 provided that: “In the administration of title XVIII of the Social Security Act\[this subchapter\], the amount payable thereunder with respect to physical therapy and other services referred to in section 1861(v)(5)(A) of such Act \[subsec. (v)(5)(A) of this section\] (as added by section 151(c) \[251(c)\] of the Social Security Amendments of 1972) shall be determined (for the period with respect to which the amendment made by such section 151(c) \[251(c)\] would, except for the provisions of this section, be applicable) in like manner as if the ‘December 31, 1972’, which appears in such subsection (d)(3) of such section 151 \[251(d)(3), set out as Effective Date of 1972 Amendment note above\], read ‘the month in which there are promulgated, by the Secretary of Health, Education, and Welfare \[now Health and Human Services\], final regulations implementing the provisions of section 1861(v)(5) of the Social Security Act \[subsec. (v)(5) of this section\]’.”
+Pub. L. 93–233, §17(a), Dec. 31, 1973, 87 Stat. 967, provided that: “In the administration of title XVIII of the Social Security Act \[this subchapter\], the amount payable thereunder with respect to physical therapy and other services referred to in section 1861(v)(5)(A) of such Act \[subsec. (v)(5)(A) of this section\] (as added by section 151(c) \[251(c)\] of the Social Security Amendments of 1972) shall be determined (for the period with respect to which the amendment made by such section 151(c) \[251(c)\] would, except for the provisions of this section, be applicable) in like manner as if the ‘December 31, 1972’, which appears in such subsection (d)(3) of such section 151 \[251(d)(3), set out as Effective Date of 1972 Amendment note above\], read ‘the month in which there are promulgated, by the Secretary of Health, Education, and Welfare \[now Health and Human Services\], final regulations implementing the provisions of section 1861(v)(5) of the Social Security Act \[subsec. (v)(5) of this section\]’.”
 
 #### Payment for Durable Medical Equipment
 
-Section 245(a)–(c) of Pub. L. 92–603 provided that:
+Pub. L. 92–603, title II, §245(a)–(c), Oct. 30, 1972, 86 Stat. 1423, provided that:
 
 “(a) The Secretary is authorized to conduct reimbursement experiments designed to eliminate unreasonable expenses resulting from prolonged rentals of durable medical equipment described in section 1861(s)(6) of the Social Security Act \[subsec. (s)(6) of this section\].
 
-“(b) Such experiment may be conducted in one or more geographic areas, as the Secretary deems appropriate, and may, pursuant to agreements with suppliers, provide for reimbursement for such equipment on a lump-sum basis whenever it is determined (in accordance with guidelines established by the Secretary) that a lump-sum payment would be more economical than the anticipated period of rental payments. Such experiments may also provide for incentives to beneficiaries (including waiver of the 20 percent coinsurance amount applicable under section 1833 of the Social Security Act \[section 1395<i>l</i> of this title\]) to purchase used equipment whenever the purchase price is at least 25 percent less than the reasonable charge for new equipment.
+“(b) Such experiment may be conducted in one or more geographic areas, as the Secretary deems appropriate, and may, pursuant to agreements with suppliers, provide for reimbursement for such equipment on a lump-sum basis whenever it is determined (in accordance with guidelines established by the Secretary) that a lump-sum payment would be more economical than the anticipated period of rental payments. Such experiments may also provide for incentives to beneficiaries (including waiver of the 20 percent coinsurance amount applicable under section 1833 of the Social Security Act \[section 1395l of this title\]) to purchase used equipment whenever the purchase price is at least 25 percent less than the reasonable charge for new equipment.
 
 “(c) The Secretary is authorized, at such time as he deems appropriate, to implement on a nationwide basis any such reimbursement procedures which he finds to be workable, desirable and economical and which are consistent with the purposes of this section.”
 
@@ -3920,7 +3954,7 @@ My Administration can expand on these important steps to ensure that patients ca
 
 1\. Initiate appropriate rulemaking, pursuant to your authority under 42 U.S.C. 1395x and other relevant provisions of law, to ensure that hospitals that participate in Medicare or Medicaid respect the rights of patients to designate visitors. It should be made clear that designated visitors, including individuals designated by legally valid advance directives (such as durable powers of attorney and health care proxies), should enjoy visitation privileges that are no more restrictive than those that immediate family members enjoy. You should also provide that participating hospitals may not deny visitation privileges on the basis of race, color, national origin, religion, sex, sexual orientation, gender identity, or disability. The rulemaking should take into account the need for hospitals to restrict visitation in medically appropriate circumstances as well as the clinical decisions that medical professionals make about a patient's care or treatment.
 
-2\. Ensure that all hospitals participating in Medicare or Medicaid are in full compliance with regulations, codified at 42 CFR 482.13 and 42 CFR 489.102(a), promulgated to guarantee that all patients’ advance directives, such as durable powers of attorney and health care proxies, are respected, and that patients’ representatives otherwise have the right to make informed decisions regarding patients’ care. Additionally, I request that you issue new guidelines, pursuant to your authority under 42 U.S.C. 1395cc and other relevant provisions of law, and provide technical assistance on how hospitals participating in Medicare or Medicaid can best comply with the regulations and take any additional appropriate measures to fully enforce the regulations.
+2\. Ensure that all hospitals participating in Medicare or Medicaid are in full compliance with regulations,codified at 42 CFR 482.13 and 42 CFR 489.102(a), promulgated to guarantee that all patients’ advance directives, such as durable powers of attorney and health care proxies, are respected, and that patients’ representatives otherwise have the right to make informed decisions regarding patients’ care. Additionally, I request that you issue new guidelines, pursuant to your authority under 42 U.S.C. 1395cc and other relevant provisions of law, and provide technical assistance on how hospitals participating in Medicare or Medicaid can best comply with the regulations and take any additional appropriate measures to fully enforce the regulations.
 
 3\. Provide additional recommendations to me, within 180 days of the date of this memorandum, on actions the Department of Health and Human Services can take to address hospital visitation, medical decisionmaking, or other health care issues that affect LGBT patients and their families.
 
@@ -3942,11 +3976,11 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i><sup>6</sup></i><i> So in original. Probably should be “subclauses.”</i>
 
-<i><sup>7</sup></i><i> See References in Text note below.</i>
+<i><sup>7</sup></i><i> So in original. The word “by” probably should not appear.</i>
 
-<i><sup>8</sup></i><i> So in original. Probably should be “paragraph (2)(H)(i)”.</i>
+<i><sup>8</sup></i><i> See References in Text note below.</i>
 
-<i><sup>9</sup></i><i> So in original. Probably should be “weight, body mass index,”.</i>
+<i><sup>9</sup></i><i> So in original. Probably should be “paragraph (2)(H)(i)”.</i>
 
-<i><sup>10</sup></i><i> So in original.</i>
+<i><sup>10</sup></i><i> So in original. Probably should be “weight, body mass index,”.</i>
 

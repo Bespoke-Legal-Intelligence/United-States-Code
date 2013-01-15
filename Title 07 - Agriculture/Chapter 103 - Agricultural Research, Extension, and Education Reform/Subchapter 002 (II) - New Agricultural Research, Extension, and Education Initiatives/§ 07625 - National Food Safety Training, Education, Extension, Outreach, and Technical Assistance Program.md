@@ -16,7 +16,7 @@ In awarding grants under this section, the Secretary shall give priority to proj
 
 #### (1) In general
 
-&emsp;The Secretary shall coordinate implementation of the grant program under this sectionwith the National Integrated Food Safety Initiative.
+&emsp;The Secretary shall coordinate implementation of the grant program under this section with the National Integrated Food Safety Initiative.
 
 #### (2) Interaction
 
@@ -54,7 +54,7 @@ In awarding grants under this section, the Secretary shall give priority to proj
 
 &emsp;&emsp;(A) a State cooperative extension service;
 
-&emsp;&emsp;(B) a Federal, State, local, or tribal agency, a nonprofit community-based or non-governmental organization, or an organization representing owners and operators of farms, small food processors, or small fruit and vegetable merchant wholesalers that has a commitment to public health and expertise in administering programs that contribute to food safety;
+&emsp;&emsp;(B) a Federal, State, local, or tribal agency, a nonprofit community-based or non-governmental organization, or an organization representing owners and operators of farms, small food processors, or small fruitand vegetable merchant wholesalers that has a commitment to public health and expertise in administering programs that contribute to food safety;
 
 &emsp;&emsp;(C) an institution of higher education (as defined in section 1001(a) of title 20) or a foundation maintained by an institution of higher education;
 
@@ -95,6 +95,10 @@ Section 399c(d) of title 21, referred to in subsec. (a), was in the original “
 #### Prior Provisions
 
 A prior section 7625, Pub. L. 105–185, title IV, §405, June 23, 1998, 112 Stat. 572; Pub. L. 107–171, title VII, §§7130, 7207(b), May 13, 2002, 116 Stat. 435, 440, related to the Thomas Jefferson Initiative for Crop Diversification, prior to repeal by Pub. L. 110–234, title VII, §7305, May 22, 2008, 122 Stat. 1242, and Pub. L. 110–246, §4(a), title VII, §7305, June 18, 2008, 122 Stat. 1664, 2003. Repeal of prior section 7625 and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008.
+
+#### Construction
+
+Nothing in this section to be construed to apply to certain alcohol-related facilities, to alter jurisdiction and authorities established under certain other Acts, or in a manner inconsistent with international agreements to which the United States is a party, see sections 2206, 2251, and 2252 of Title 21, Food and Drugs.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

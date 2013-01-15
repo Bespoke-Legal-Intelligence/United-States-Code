@@ -10,9 +10,9 @@ Crediting of Receipts.—Any amount received under this section with respect to 
 
 (c)
 
-Transportation of Allied Personnel During Contingencies or Disaster Responses.—During the 5-year period beginning on the date of the enactment of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011, when space is available on vessels, vehicles, or aircraft operated by the Department of Defense and the Secretary of Defense determines that operations in the area of a contingency operation or disaster response would be facilitated if allied forces or civilians were to be transported using such vessels, vehicles, or aircraft, the Secretary may provide such transportation on a noninterference basis, without charge.
+Transportation of Allied Personnel During Contingencies or Disaster Responses.—Until January 6, 2016, when space is available on vessels, vehicles, or aircraft operated by the Department of Defense and the Secretary of Defense determines that operations in the area of a contingency operation or disaster response would be facilitated if allied forces or civilians were to be transported using such vessels, vehicles, or aircraft, the Secretary may provide such transportation on a noninterference basis, without charge.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 267, §4745; Pub. L. 96–513, title V, §512(22), Dec. 12, 1980, 94 Stat. 2930; Pub. L. 97–31, §12(3)(C), Aug. 6, 1981, 95 Stat. 154; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; renumbered §2649 and amended Pub. L. 108–375, div. A, title X, §1072(a), (b)(2), Oct. 28, 2004, 118 Stat. 2057; Pub. L. 111–383, div. A, title III, §352(a)–(c), (e)(2), Jan. 7, 2011, 124 Stat. 4193, 4194.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 267, §4745; Pub. L. 96–513, title V, §512(22), Dec. 12, 1980, 94 Stat. 2930; Pub. L. 97–31, §12(3)(C), Aug. 6, 1981, 95 Stat. 154; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; renumbered §2649 and amended Pub. L. 108–375, div. A, title X, §1072(a), (b)(2), Oct. 28, 2004, 118 Stat. 2057; Pub. L. 111–383, div. A, title III, §352(a)–(c), (e)(2), Jan. 7, 2011, 124 Stat. 4193, 4194; Pub. L. 112–239, div. A, title X, §1076(e)(4), Jan. 2, 2013, 126 Stat. 1951.)
 
 Historical and Revision Notes
 
@@ -36,11 +36,9 @@ June 5, 1920, ch. 240 (6th proviso under “Transportation of the Army and Its S
 
 In subsection (a), the words “Federal Maritime Board” are substituted for the words “United States Maritime Commission”, since the functions of the chairman of that commission were transferred to the chairman of the Board by 1950 Reorganization Plan No. 21, effective May 24, 1950, 64 Stat. 1273. The words “the same kinds of service” are substituted for the words “the same class of accommodations”. The words “shipments of” and “between the same ports” are omitted as surplusage. (See also third sentence of revision note for section 4746 of this title, below.)
 
-#### References in Text
-
-The date of the enactment of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011, referred to in subsec. (c), is the date of enactment of Pub. L. 111–383, which was approved Jan. 7, 2011.
-
 #### Amendments
+
+<b>2013</b>—Subsec. (c). Pub. L. 112–239 substituted “Until January 6, 2016” for “During the 5-year period beginning on the date of the enactment of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011”.
 
 <b>2011</b>—Pub. L. 111–383, §352(e)(2), substituted “Civilian passengers and commercial cargoes: transportation on Department of Defense vessels, vehicles, and aircraft” for “Civilian passengers and commercial cargoes: transportation on Department of Defense vessels” in section catchline.
 
@@ -50,7 +48,7 @@ Subsec. (b). Pub. L. 111–383, §352(b)(2), inserted heading and substituted �
 
 Subsec. (c). Pub. L. 111–383, §352(c), added subsec. (c).
 
-<b>2004</b>—Pub. L. 108–375, §1072(a), (b)(2)(A), renumbered section 4745 of this title as this section and substituted“Civilian passengers and commercial cargoes: transportation on Department of Defense vessels” for “Civilian passengers and commercial cargoes: transports in trans-Atlantic service” in section catchline.
+<b>2004</b>—Pub. L. 108–375, §1072(a), (b)(2)(A), renumbered section 4745 of this title as this section and substituted “Civilian passengers and commercial cargoes: transportation on Department of Defense vessels” for “Civilian passengers and commercial cargoes: transports in trans-Atlantic service” in section catchline.
 
 Subsec. (a). Pub. L. 108–375, §1072(b)(2)(B)–(D), struck out “(1) on vessels operated by Army transport agencies, or (2) within bulk space allocations made to the Department of the Army” after “available” and “any transport agency of” before “the Department of Defense” and substituted “Secretary of Defense, be transported” for “Secretary of the Army and the Secretary of Homeland Security, be transported”.
 

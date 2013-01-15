@@ -9,7 +9,7 @@
 | [41703\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2041703%20-%20Navigation%20of%20foreign%20civil%20aircraft.md) | Navigation of foreign civil aircraft. |
 | [41704\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2041704%20-%20Transporting%20property%20not%20to%20be%20transported%20in%20aircraft%20cabins.md) | Transporting property not to be transported in aircraft cabins. |
 | [41705\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2041705%20-%20Discrimination%20against%20handicapped%20individuals.md) | Discrimination against handicapped individuals. |
-| [41706\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2041706%20-%20Prohibitions%20against%20smoking%20on%20scheduled%20flights.md) | Prohibitions against smoking on scheduled flights. |
+| [41706\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2041706%20-%20Prohibitions%20against%20smoking%20on%20passenger%20flights.md) | Prohibitions against smoking on passenger flights. |
 | [41707\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2041707%20-%20Incorporating%20contract%20terms%20into%20written%20instrument.md) | Incorporating contract terms into written instrument. |
 | [41708\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2041708%20-%20Reports.md) | Reports. |
 | [41709\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2041709%20-%20Records%20of%20air%20carriers.md) | Records of air carriers. |
@@ -32,6 +32,7 @@
 | [41721\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2041721%20-%20Reports%20by%20carriers%20on%20incidents%20involving%20animals%20during%20air%20transport.md) | Reports by carriers on incidents involving animals during air transport. |
 | [41722\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2041722%20-%20Delay%20reduction%20actions.md) | Delay reduction actions. |
 | [41723\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2041723%20-%20Notice%20concerning%20aircraft%20assembly.md) | Notice concerning aircraft assembly. |
+| [41724\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2041724%20-%20Musical%20instruments.md) | Musical instruments. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -55,7 +56,7 @@
 | [41744\.](Subchapter%20002%20%28II%29%20-%20Small%20Community%20Air%20Service/%C2%A7%2041744%20-%20Preservation%20of%20basic%20essential%20air%20service%20at%20single%20carrier%20dominated%20hub%20airports.md) | Preservation of basic essential air service at single carrier dominated hub airports. |
 | [41745\.](Subchapter%20002%20%28II%29%20-%20Small%20Community%20Air%20Service/%C2%A7%2041745%20-%20Community%20and%20regional%20choice%20programs.md) | Community and regional choice programs. |
 | [41746\.](Subchapter%20002%20%28II%29%20-%20Small%20Community%20Air%20Service/%C2%A7%2041746%20-%20Tracking%20service.md) | Tracking service. |
-| [41747\.](Subchapter%20002%20%28II%29%20-%20Small%20Community%20Air%20Service/%C2%A7%2041747%20-%20EAS%20local%20participation%20program.md) | EAS local participation program. |
+| \[41747. | Repealed.\] |
 | [41748\.](Subchapter%20002%20%28II%29%20-%20Small%20Community%20Air%20Service/%C2%A7%2041748%20-%20Marketing%20program.md) | Marketing program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -75,6 +76,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2012</b>—Pub. L. 112–95, title IV, §403(b), Feb. 14, 2012, 126 Stat. 85, which directed amendment of analysis for “such subchapter”, meaning subchapter I of chapter 417, by adding item 41724 at the end, was executed by adding item 41724 to analysis for this chapter to reflect the probable intent of Congress.
+
+Pub. L. 112–95, title IV, §§401(b), 430, Feb. 14, 2012, 126 Stat. 83, 100, substituted “Prohibitions against smoking on passenger flights” for “Prohibitions against smoking on scheduled flights” in item 41706, and struck out item 41747 “EAS local participation program”.
 
 <b>2003</b>—Pub. L. 108–176, title IV, §§408(b), 410(b), 422(b), title VIII, §810(b), Dec. 12, 2003, 117 Stat. 2547, 2549, 2552, 2590, added items 41721 to 41723 and 41745 to 41748 and struck out former item 41721 “Reports by carriers on incidents involving animals during air transportation”.
 

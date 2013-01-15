@@ -30,7 +30,7 @@ Reports of Boards.—(1) Each special selection board convened under this sectio
 
 Appointment of Persons Selected by Boards.—(1) If the report of a special selection board convened under this section, as approved by the President, recommends for promotion to the next higher grade a person whose name was referred to it for consideration, that person shall, as soon as practicable, be appointed to that grade in accordance with subsections (b), (c), and (d) of section 624 of this title. However, in the case of a board convened under this section to consider a warrant officer or former warrant officer, if the report of that board, as approved by the Secretary concerned, recommends that warrant officer or former warrant officer for promotion to the next higher grade, that person shall, as soon as practicable, be appointed to the next higher grade in accordance with provisions of section 578(c) of this title (rather than subsections (b), (c), and (d) of section 624 of this title).
 
-(2) A person who is appointed to the next higher grade as the result of the recommendation ofa special selection board convened under this section shall, upon that appointment, have the same date of rank, the same effective date for the pay and allowances of that grade, and the same position on the active-duty list as he would have had if he had been recommended for promotion to that grade by the board which should have considered, or which did consider, him. In the case of a person who is not on the active-duty list when appointed to the next higher grade, placement of that person on the active-duty list pursuant to the preceding sentence shall be only for purposes of determination of eligibility of that person for consideration for promotion by any subsequent special selection board under this section.
+(2) A person who is appointed to the next higher grade as the result of the recommendation of a special selection board convened under this section shall, upon that appointment, have the same date of rank, the same effective date for the pay and allowances of that grade, and the same position on the active-duty list as he would have had if he had been recommended for promotion to that grade by the board which should have considered, or which did consider, him. In the case of a person who is not on the active-duty list when appointed to the next higher grade, placement of that person on the active-duty list pursuant to the preceding sentence shall be only for purposes of determination of eligibility of that person for consideration for promotion by any subsequent special selection board under this section.
 
 (e)
 
@@ -42,7 +42,7 @@ Convening of Boards.—A board convened under this section—
 
 &emsp;(1) shall be convened under regulations prescribed by the Secretary of Defense;
 
-&emsp;(2) shall be composed in accordance with section 612 of this title or, in the case of board to consider a warrant officer or former warrant officer, in accordance with section 573 of this title and regulations prescribed by the Secretary of the military department concerned; and
+&emsp;(2) shall be composed in accordance with section 612 of this title or, in the case of board to consider a warrant officer or former warrant officer, in accordance with section 573 of thistitle and regulations prescribed by the Secretary of the military department concerned; and
 
 &emsp;(3) shall be subject to the provisions of section 613 of this title.
 
@@ -118,7 +118,7 @@ Promotion Board Defined.—In this section, the term “promotion board” means
 
 Subsec. (b)(1)(A). Pub. L. 109–364, §514(a)(2), inserted “in a matter material to the decision of the board” after “contrary to law”.
 
-<b>2001</b>—Subsec. (a)(1). Pub. L. 107–107, §505(c)(3)(A), inserted “or the name of a person that should have been placed on an all-fully-qualified-officers list under section 624(a)(3) of this title was not so placed,” after “not so considered,”.
+<b>2001</b>—Subsec. (a)(1). Pub. L. 107–107, §505(c)(3)(A), inserted “or the name of a person that should have beenplaced on an all-fully-qualified-officers list under section 624(a)(3) of this title was not so placed,” after “not so considered,”.
 
 Subsecs. (g) to (k). Pub. L. 107–107, §503(b), added subsecs. (g) to (j) and redesignated former subsec. (g) as (k).
 
@@ -184,5 +184,5 @@ Functions of President under subsec. (d)(1) to approve, modify, or disapprove re
 
 #### Ratification of Codified Practice
 
-Pub. L. 105–261, div. A, title V, §501(f), Oct. 17, 1998, 112 Stat. 2002, provided that the consideration by a special selection board convened under this section before Oct. 17, 1998, of a person who, at the time of consideration, had been a retired officer or former officer of the Armed Forces (including a deceased retired or former officer) was ratified.
+Pub. L. 105–261, div. A, title V, §501(f), Oct. 17, 1998, 112 Stat. 2002, provided that the consideration by a specialselection board convened under this section before Oct. 17, 1998, of a person who, at the time of consideration, had been a retired officer or former officer of the Armed Forces (including a deceased retired or former officer) was ratified.
 

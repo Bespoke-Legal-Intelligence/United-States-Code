@@ -17,7 +17,7 @@
 | 39 | 1\.6&nbsp;&nbsp;&nbsp; |
 | 40 | 1\.5&nbsp;&nbsp;&nbsp; |
 | 41 | 1\.4&nbsp;&nbsp;&nbsp; |
-| 42 | 1\.3&nbsp;&nbsp;&nbsp; |
+| 42 | 1\.3    |
 | 43 | 1\.2&nbsp;&nbsp;&nbsp; |
 | 44 | 1\.1&nbsp;&nbsp;&nbsp; |
 | 45 or over | 1\.0.&nbsp;&nbsp;&nbsp;&nbsp; |
@@ -137,7 +137,7 @@ Amendment by Pub. L. 100–238 effective Jan. 1, 1987, see section 103(f) of Pub
 
 Amendment by section 2(d) of Pub. L. 96–427 applicable with respect to premium pay payable under section 5545(c)(2) of this title from and after the first day of the first pay period which begins on or after Oct. 10, 1980, see section 10(b) of Pub. L. 96–427, set out as a note under section 8701 of this title.
 
-Section 2(f) of Pub. L. 96–427 provided that: “Subsections (b) and (c) of this section \[amending this section\] shall take effect beginning with the first pay period beginning on or after October 1, 1981.”
+Pub. L. 96–427, §2(f), Oct. 10, 1980, 94 Stat. 1832, provided that: “Subsections (b) and (c) of this section \[amending this section\] shall take effect beginning with the first pay period beginning on or after October 1, 1981.”
 
 #### Effective Date of 1978 Amendment
 
@@ -151,7 +151,7 @@ Amendment by Pub. L. 92–392 effective on first day of first applicable pay per
 
 #### Effective Date of 1967 Amendment
 
-Section 405(a) of Pub. L. 90–206 provided that: “The amendments made by sections 401 to 403, inclusive, of this Act \[amending this section and sections 8707 and 8708 of this title\] shall take effect on the first day of the first pay period which begins on or after the sixtieth day following the date of enactment \[Dec. 16, 1967\]. In the case of an employee who dies or retires during the period beginning on the date of enactment of this Act and prior to the effective date prescribed by this subsection, the amount of insurance shall be determined as if the amendments made by section 401 \[amending this section\] were in effect for such employee during such period.”
+Pub. L. 90–206, title IV, §405(a), Dec. 16, 1967, 81 Stat. 648, provided that: “The amendments made by sections 401 to 403, inclusive, of this Act \[amending this section and sections 8707 and 8708 of this title\] shall take effect on the first day of the first pay period which begins on or after the sixtieth day following the date of enactment \[Dec. 16, 1967\]. In the case of an employee who dies or retires during the period beginning on the date of enactment of this Act and prior to the effective date prescribed by this subsection, the amount of insurance shall be determined as if the amendments made by section 401 \[amending this section\] were in effect for such employee during such period.”
 
 #### Effective Date of 1966 Amendment
 
@@ -159,11 +159,11 @@ Amendment by Pub. L. 89–737 applicable with respect to premium pay payable fro
 
 #### Retroactive Effect of 1967 Amendment
 
-Section 405(c) of Pub. L. 90–206 provided that: “The amendments made by sections 401 to 404, inclusive, of this Act \[enacting section 8714a of this title and amending this section and sections 8707 and 8708 of this title\] shall have no effect in the case of an employee who died, was finally separated, or retired prior to the date of enactment \[Dec. 16, 1967\].”
+Pub. L. 90–206, title IV, §405(c), Dec. 16, 1967, 81 Stat. 648, provided that: “The amendments made by sections 401 to 404, inclusive, of this Act \[enacting section 8714a of this title and amending this section and sections 8707 and 8708 of this title\] shall have no effect in the case of an employee who died, was finally separated, or retired prior to the date of enactment \[Dec. 16, 1967\].”
 
 #### 1967 Adjustment in Amount of Insurance
 
-Section 220(b) of Pub. L. 90–206 provided that: “For the purposes of determining the amount of insurance for which an individual is eligible chapter 87 of title 5, United States Code, relating to group life insurance for Federal employees—
+Pub. L. 90–206, title II, §220(b), Dec. 16, 1967, 81 Stat. 639, provided that: “For the purposes of determining the amount of insurance for which an individual is eligible chapter 87 of title 5, United States Code, relating to group life insurance for Federal employees—
 
 &emsp;“(1) all changes in rates of pay which result from the enactment of this title \[see Short Title Note under section 5332 of this title\] except Postal Field Service Schedule II, Rural Carrier Schedule II, and sections 207, 212, 213(d) and (e), 215, 219, and 225) shall be held and considered to become effective as of the date of such enactment \[Dec. 16, 1967\]; and
 

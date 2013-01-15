@@ -48,6 +48,8 @@ Merchandise shall only be withdrawn from a bonded warehouse in such quantity and
 
 <i>For termination of amendment by section 107(c) of Pub. L. 108–77, see Effective and Termination Dates of 2003 Amendment note below.</i>
 
+<i>For termination of amendment by section 501(c) of Pub. L. 100–449, see Effective and Termination Dates of 1988 Amendment note below.</i>
+
 #### References in Text
 
 Section 204 of the United States-Canada Free-Trade Agreement Implementation Act of 1988, referred to in par. (4)(B), is section 204 of Pub. L. 100–449, which is set out in a note under section 2112 of this title.
@@ -62,7 +64,7 @@ Prior provisions substantially the same, in effect, as those in this section wit
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–280, in introductory provisions, substituted “Merchandise shall only be withdrawn from a bonded warehouse in such quantity and in such condition as the Secretary of the Treasury shall by regulation prescribe. Upon permission” for “Unless by special authority of the Secretary of the Treasury, no merchandise shall be withdrawn from bonded warehouse in less quantity than an entire bale, cask, box, or other package; or, if in bulk, in the entire quantity imported or in a quantity not less than one ton weight. All merchandise so withdrawn shall be withdrawn in the original packages in which imported unless, upon the application of the importer, it appears to be the appropriate customs officer that it is necessary to the safety or preservation of the merchandise to repack or transfer the same; except that upon permission therefor”.
+<b>2006</b>—Pub. L. 109–280, in introductory provisions, substituted “Merchandise shall only be withdrawn from a bonded warehouse in such quantity and in such condition as the Secretary of the Treasury shall by regulation prescribe. Upon permission” for “Unless by special authority of the Secretary of the Treasury, no merchandise shall be withdrawn from bonded warehouse inless quantity than an entire bale, cask, box, or other package; or, if in bulk, in the entire quantity imported or in a quantity not less than one ton weight. All merchandise so withdrawn shall be withdrawn in the original packages in which imported unless, upon the application of the importer, it appears to be the appropriate customs officer that it is necessary to the safety or preservation of the merchandise to repack or transfer the same; except that upon permission therefor”.
 
 <b>2003</b>—Par. (3). Pub. L. 108–77, §§107(c), 203(b)(4)(A), temporarily substituted “to Chile, to a NAFTA country,” for “to a NAFTA country”. See Effective and Termination Dates of 2003 Amendment note below.
 
@@ -80,7 +82,7 @@ Par. (6). Pub. L. 108–77, §§107(c), 203(b)(4)(D), temporarily added par. (6)
 
 “(3) for shipment to the Virgin Islands, American Samoa, Wake Island, Midway Island, Kingman Reef, Johnston Island or the island of Guam.”
 
-<b>1988</b>—Pub. L. 100–449 substituted the except clause and following sentence for proviso at end of second section which read as follows: “: <i>Provided</i>, That upon permission therefor being granted by the Secretary of the Treasury, and under customs supervision, at the expense of the proprietor, merchandise may be cleaned, sorted, repacked, or otherwise changed in condition, but not manufactured, in bonded warehouses established for that purpose and be withdrawn therefrom for exportation to a foreign country or for shipment to the Virgin Islands, American Samoa, Wake Island, Midway Islands, Kingman Reef, Johnston Island, or the island of Guam, without payment of the duties, or for consumption, upon payment of the duties accruing thereon, in its condition and quantity, and at its weight, at the time of withdrawal from warehouse, with such additions to or deductions from the final appraised value as may be necessary by reason of change in condition.”
+<b>1988</b>—Pub. L. 100–449 temporarily substituted the except clause and following sentence for proviso at end of second section which read as follows: “: <i>Provided</i>, That upon permission therefor being granted by the Secretary of the Treasury, and under customs supervision, at the expense of the proprietor, merchandise may be cleaned, sorted, repacked, or otherwise changed in condition, but not manufactured, in bonded warehouses established for that purpose and be withdrawn therefrom for exportation to a foreign country or for shipment to the Virgin Islands, American Samoa, Wake Island, Midway Islands, Kingman Reef, Johnston Island, or the island of Guam, without payment of the duties, or for consumption, upon payment of the duties accruing thereon, in its condition and quantity, and at its weight, at the time of withdrawal from warehouse, with such additions to or deductions from the final appraised value as may be necessary by reason of change in condition.” See Effective and Termination Dates of 1988 Amendment note below.
 
 <b>1970</b>—Pub. L. 91–271 substituted reference to appropriate customs officer for reference to collector.
 

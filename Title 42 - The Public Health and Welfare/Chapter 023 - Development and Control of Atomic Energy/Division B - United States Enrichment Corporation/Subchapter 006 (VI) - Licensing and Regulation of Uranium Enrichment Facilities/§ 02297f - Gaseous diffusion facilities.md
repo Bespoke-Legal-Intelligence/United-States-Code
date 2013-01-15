@@ -18,7 +18,7 @@ Within 2 years after October 24, 1992, the Nuclear Regulatory Commission shall e
 
 #### (1) Establishment
 
-&emsp;The Nuclear Regulatory Commission shall establish a certification process to ensure that the Corporation complies with standards established under subsection (a) of this section.
+&emsp;The Nuclear Regulatory Commission shall establish a certification process to ensure thatthe Corporation complies with standards established under subsection (a) of this section.
 
 #### (2) Periodic application for certificate of compliance
 
@@ -56,5 +56,5 @@ The gaseous diffusion uranium enrichment facilities of the Department may not be
 
 #### References to United States Enrichment Corporation
 
-References to the Corporation, meaning the United States Enrichment Corporation, deemed, as of the privatization date (July 28, 1998), to be references to theprivate corporation, see section 3116(e) of Pub. L. 104–134, set out as a note under former section 2297 of this title.
+References to the Corporation, meaning the United States Enrichment Corporation, deemed, as of the privatization date (July 28, 1998), to be references to the private corporation, see section 3116(e) of Pub. L. 104–134, set out as a note under former section 2297 of this title.
 

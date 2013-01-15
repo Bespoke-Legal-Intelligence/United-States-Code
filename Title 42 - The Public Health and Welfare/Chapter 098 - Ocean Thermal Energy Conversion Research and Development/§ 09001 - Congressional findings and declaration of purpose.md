@@ -8,7 +8,7 @@
 
 &emsp;(3) ocean thermal energy is a renewable energy resource that can make a significant contribution to the energy needs of the United States;
 
-&emsp;(4) the technology base for ocean thermal energy conversion has improved over the past two years, and has consequently lowered the technical risk involved in constructing moderate-sized pilot plants with an electrical generating capacity of about ten to forty megawatts;
+&emsp;(4) the technology base for ocean thermal energy conversion has improved over the pasttwo years, and has consequently lowered the technical risk involved in constructing moderate-sized pilot plants with an electrical generating capacity of about ten to forty megawatts;
 
 &emsp;(5) while the Federal ocean thermal energy conversion program has grown in size and scope over the past several years, it is in the national interest to accelerate efforts to commercialize ocean thermal energy conversion by building pilot and demonstration facilities and to begin planning for the commercial demonstration of ocean thermal energy conversion technology;
 
@@ -30,5 +30,5 @@
 
 #### Short Title
 
-Section 1 of Pub. L. 96–310 provided: “That this Act \[enacting this chapter\] may be cited as the ‘Ocean Thermal Energy Conversion Research, Development, and Demonstration Act’.”
+Pub. L. 96–310, §1, July 17, 1980, 94 Stat. 941, provided: “That this Act \[enacting this chapter\] may be cited as the ‘Ocean Thermal Energy Conversion Research, Development, and Demonstration Act’.”
 

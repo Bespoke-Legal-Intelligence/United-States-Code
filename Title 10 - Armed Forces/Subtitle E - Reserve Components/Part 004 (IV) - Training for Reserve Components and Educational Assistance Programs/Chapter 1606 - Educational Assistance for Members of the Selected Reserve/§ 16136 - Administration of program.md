@@ -24,7 +24,7 @@
 
 Subsec. (c). Pub. L. 103–446 struck out “(1)” after “(c)”, redesignated subpars. (A) to (C) as pars. (1) to (3), respectively, and struck out former par. (2) which read as follows: “This subsection shall not apply to a course of flight training that commences on or after October 1, 1994.”
 
-<b>1992</b>—Subsec. (b). Pub. L. 102–568, §320(a)(3), substituted “sections 3470, 3471, 3474, 3476, 3482(g), 3483, and3485 of title 38 and the provisions of subchapters I and II of chapter 36 of such title (with the exception of sections 3686(a), 3687, and 3692)” for “sections 1670, 1671, 1673, 1674, 1676, 1682(g), 1683, and 1685 of title 38 and the provisions of subchapters I and II of chapter 36 of such title (with the exception of sections 1786(a), 1787, and 1792)”.
+<b>1992</b>—Subsec. (b). Pub. L. 102–568, §320(a)(3), substituted “sections 3470, 3471, 3474, 3476, 3482(g), 3483, and 3485 of title 38 and the provisions of subchapters I and II of chapter 36 of such title (with the exception of sections 3686(a), 3687, and 3692)” for “sections 1670, 1671, 1673, 1674, 1676, 1682(g), 1683, and 1685 of title 38 and the provisions of subchapters I and II of chapter 36 of such title (with the exception of sections 1786(a), 1787, and 1792)”.
 
 Pub. L. 102–568, §319, struck out “1780(c),” after “exception of sections”.
 
@@ -38,7 +38,7 @@ Subsec. (c)(1). Pub. L. 102–568, §313(a)(6), substituted “section 3680A(b) 
 
 Subsec. (b). Pub. L. 101–237, §405(d)(3), inserted reference to section 1685 of title 38.
 
-Pub. L. 101–189, §642(c), amended first sentence generally and substituted “and the term ‘a person’, as used” for “, as used” in second sentence. Prior to amendment, first sentence read as follows: “Except as otherwise provided in this chapter, the provisions of sections 1663, 1670, 1671, 1673, 1674, 1676, 1682(g), and 1683 of chapter 34 of title 38 and the provisions of subchapters I and II of chapter 36 of such title (with the exception of sections 1780(a)(5), 1780(b), 1786, 1787(b)(1), and 1792) shall be applicable to the provision of educational assistance under this chapter.”
+Pub. L. 101–189, §642(c), amended first sentence generally and substituted “and the term ‘a person’, as used” for “, as used” in second sentence. Prior to amendment, first sentence read as follows: “Except as otherwise provided in this chapter, the provisions of sections 1663, 1670, 1671, 1673, 1674, 1676, 1682(g), and 1683 of chapter 34 of title 38 and the provisions of subchapters I and II of chapter 36 of such title (with the exception of sections 1780(a)(5), 1780(b), 1786, 1787(b)(1), and 1792) shall beapplicable to the provision of educational assistance under this chapter.”
 
 Subsec. (c). Pub. L. 101–237, §422(b)(1), added subsec. (c).
 
@@ -56,7 +56,7 @@ Amendment by Pub. L. 103–446 effective Oct. 1, 1994, see section 601(d) of Pub
 
 #### Effective Date of 1989 Amendments
 
-Section 405(e) of Pub. L. 101–237 provided that: “The amendments made by this section \[amending this section and section 1685 \[now 3485\] of Title 38, Veterans’ Benefits\] shall take effect on May 1, 1990, and shall apply to services performed on or after that date.”
+Pub. L. 101–237, title IV, §405(e), Dec. 18, 1989, 103 Stat. 2082, provided that: “The amendments made by this section \[amending this section and section 1685 \[now 3485\] of Title 38, Veterans’ Benefits\] shall take effect on May 1, 1990, and shall apply to services performed on or after that date.”
 
 Amendment by section 422(b)(1) of Pub. L. 101–237 effective Sept. 30, 1990, see section 422(d) of Pub. L. 101–237, set out as a note under section 16131 of this title.
 
@@ -68,5 +68,5 @@ Section effective July 1, 1985, applicable only to members of the Armed Forces w
 
 #### Savings Provision
 
-Section 313(b) of Pub. L. 102–568 provided that: “The amendments made by paragraphs (2) through (6) of subsection (a) of this section \[enacting section 3680A of Title 38, Veterans’ Benefits, amending this section and sections 3034 and 3241 of Title 38, and repealing section 3473 of Title 38\] shall not apply to any person receiving educational assistance for pursuit of an independent study program in which the person was enrolled on the date of enactment of this section \[Oct. 29, 1992\] for as long as such person is continuously thereafter so enrolled and meets the requirements of eligibility for such assistance for the pursuit of such program under title 38, United States Code, or title 10, United States Code, in effect on that date.”
+Pub. L. 102–568, title III, §313(b), Oct. 29, 1992, 106 Stat. 4333, provided that: “The amendments made by paragraphs (2) through (6) of subsection (a) of this section \[enacting section 3680A of Title 38, Veterans’ Benefits, amending this section and sections 3034 and 3241 of Title 38, and repealing section 3473 of Title 38\] shall not apply to any person receiving educational assistance for pursuit of an independent study program in which the person was enrolled on the date of enactment of this section \[Oct. 29, 1992\] for as long as such person is continuously thereafter so enrolled and meets the requirements of eligibility for such assistance for the pursuit of such program under title 38, United States Code, or title 10, United States Code, in effect on that date.”
 

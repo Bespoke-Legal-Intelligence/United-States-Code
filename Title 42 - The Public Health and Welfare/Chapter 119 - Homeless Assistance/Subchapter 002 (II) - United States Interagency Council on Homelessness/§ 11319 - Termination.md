@@ -28,7 +28,7 @@ Pub. L. 101–402 substituted “October 31, 1990” for “October 1, 1990”.
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–402 deemed to have taken effect as if enacted Sept. 29, 1990, see section 1(a) of Pub. L. 101–494, set out as an Effective Date of Temporary Extension of Emergency Low Income Housing Preservation Act of 1987 and Correction of Any Repeal note under section 1715<i>l</i> of Title 12, Banks and Banking.
+Amendment by Pub. L. 101–402 deemed to have taken effect as if enacted Sept. 29, 1990, see section 1(a) of Pub. L. 101–494, set out as an Effective Date of Temporary Extension of Emergency Low Income Housing Preservation Act of 1987 and Correction of Any Repeal note under section 1715l of Title 12, Banks and Banking.
 
 #### Temporary Extension of Provisions
 
@@ -40,7 +40,7 @@ Pub. L. 101–494, §3, Oct. 31, 1990, 104 Stat. 1185, as amended by Pub. L. 106
 
 “(a)
 
-Extension.—If upon enactment of this Act \[Oct. 31, 1990\], section 209 of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11319) provides for the termination of the Interagency Council on the Homeless on October 31, 1990, then notwithstanding such section, theInteragency Council on the Homeless shall cease to exist, and the requirements of title II of the McKinney-Vento Homeless Assistance Act \[42 U.S.C. 11311 et seq.\] shall terminate, on November 30, 1990.
+Extension.—If upon enactment of this Act \[Oct. 31, 1990\], section 209 of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11319) provides for the termination of the Interagency Council on the Homeless on October 31, 1990, then notwithstanding such section, the Interagency Council on the Homeless shall cease to exist, and the requirements of title II of the McKinney-Vento Homeless Assistance Act \[42 U.S.C. 11311 et seq.\] shall terminate, on November 30, 1990.
 
 “(b)
 

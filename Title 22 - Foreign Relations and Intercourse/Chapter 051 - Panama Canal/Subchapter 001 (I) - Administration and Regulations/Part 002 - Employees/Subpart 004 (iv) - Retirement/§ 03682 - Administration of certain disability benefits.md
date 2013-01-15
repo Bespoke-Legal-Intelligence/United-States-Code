@@ -24,13 +24,13 @@ The Commission may pay cash relief to the widow of any former employee of the Ca
 
 &emsp;(3) a woman who has not remarried or assumed a common-law relationship with any other person.
 
-> Cash relief granted to such a widow shall not at any time exceed 50 percent of the rate at which cash relief, inclusive of any additional payment under subsection (b) of this section, would be payable to the former employee were he then alive.
+> Cash relief granted to such a widow shall not at any time exceed 50 percent of the rate at whichcash relief, inclusive of any additional payment under subsection (b) of this section, would be payable to the former employee were he then alive.
 
 #### (e) Applicability of subchapter III of chapter 83 of title 5
 
 Subchapter III of chapter 83 of title 5 applies with respect to those individuals who were in the service of the Canal Zone Government or the Panama Canal Company on October 5, 1958, and who, except for the operation of section 13(a)(1) of the Act entitled “An Act to implement item 1 of a Memorandum of Understanding attached to the treaty of January 25, 1955, entered into by the Government of the United States of America and the Government of the Republic of Panama with respect to wage and employment practices of the Government of the United States of America in the Canal Zone”, approved July 25, 1958 (72 Stat. 405), would have been within the classes of individuals subject to the Act of July 8, 1937, referred to in subsection (a) of this section.
 
-(Pub. L. 96–70, title I, §1245, Sept. 27, 1979, 93 Stat. 475; Pub. L. 104–201, div. C, title XXXV,§§3538, 3548(c)(2), Sept. 23, 1996, 110 Stat. 2864, 2869.)
+(Pub. L. 96–70, title I, §1245, Sept. 27, 1979, 93 Stat. 475; Pub. L. 104–201, div. C, title XXXV, §§3538, 3548(c)(2), Sept. 23, 1996, 110 Stat. 2864, 2869.)
 
 #### References in Text
 

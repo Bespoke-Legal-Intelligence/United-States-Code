@@ -6,23 +6,37 @@ Schedule of Fees.—The Administrator shall establish a schedule of new fees, an
 
 &emsp;(1) Air traffic control and related services provided to aircraft other than military and civilian aircraft of the United States government <sup>1</sup> or of a foreign government that neither take off from, nor land in, the United States.
 
-&emsp;(2) Services (other than air traffic control services) provided to a foreign government orservices provided to any entity obtaining services outside the United States, except that the Administrator shall not impose fees in any manner for production-certification related service performed outside the United States pertaining to aeronautical products manufactured outside the United States.
+&emsp;(2) Services (other than air traffic control services) provided to a foreign government or services provided to any entity obtaining services outside the United States, except that the Administrator shall not impose fees in any manner for production-certification related service performed outside the United States pertaining to aeronautical products manufactured outside the United States.
 
 (b)
 
-Limitations.—
+Establishment and Adjustment of Fees.—
 
 &emsp;(1)
 
-Authorization and impact considerations.—In establishing fees under subsection (a), the Administrator—
-
-&emsp;&emsp;(A) is authorized to recover in fiscal year 1997 $100,000,000; and
-
-&emsp;&emsp;(B) shall ensure that each of the fees required by subsection (a) is reasonably related to the Administration's costs, as determined by the Administrator, of providing the service rendered. Services for which costs may be recovered include the costs of air traffic control, navigation, weather services, training and emergency services which are available to facilitate safe transportation over the United States, and other services provided by the Administrator or by programs financed by the Administrator to flights that neither take off nor land in the United States. The Determination <sup>2</sup> of such costs by the Administrator is not subject to judicial review.
+In general.—In establishing and adjusting fees under this section, the Administrator shall ensure that the fees are reasonably related to the Administration's costs, as determined by the Administrator, of providing the services rendered.
 
 &emsp;(2)
 
-Publication; comment.—The Administrator shall publish in the Federal Register an initial fee schedule and associated collection process as an interim final rule, pursuant to which public comment will be sought and a final rule issued.
+Services for which costs may be recovered.—Services for which costs may be recovered under this section include the costs of air traffic control, navigation, weather services, training, and emergency services that are available to facilitate safe transportation over the United States and the costs of other services provided by the Administrator, or by programs financed by the Administrator, to flights that neither take off nor land in the United States.
+
+&emsp;(3)
+
+Limitations on judicial review.—Notwithstanding section 702 of title 5 or any otherprovision of law, the following actions and other matters shall not be subject to judicial review:
+
+&emsp;&emsp;(A) The establishment or adjustment of a fee by the Administrator under this section.
+
+&emsp;&emsp;(B) The validity of a determination of costs by the Administrator under paragraph (1), and the processes and procedures applied by the Administrator when reaching such determination.
+
+&emsp;&emsp;(C) An allocation of costs by the Administrator under paragraph (1) to services provided, and the processes and procedures applied by the Administrator when establishing such allocation.
+
+&emsp;(4)
+
+Aircraft altitude.—Nothing in this section shall require the Administrator to take into account aircraft altitude in establishing any fee for aircraft operations in en route or oceanic airspace.
+
+&emsp;(5)
+
+Costs defined.—In this subsection, the term “costs” includes operation and maintenance costs, leasing costs, and overhead expenses associated with the services provided and the facilities and equipment used in providing such services.
 
 (c)
 
@@ -32,13 +46,21 @@ Use of Experts and Consultants.—In developing the system, the Administrator ma
 
 Production-Certification Related Service Defined.—In this section, the term “production-certification related service” has the meaning given that term in appendix C of part 187 of title 14, Code of Federal Regulations.
 
-(Added Pub. L. 104–264, title II, §273(a), Oct. 9, 1996, 110 Stat. 3239; amended Pub. L. 106–181, title VII, §719, Apr. 5, 2000, 114 Stat. 163; Pub. L. 107–71, title I, §119(d), Nov. 19, 2001, 115 Stat. 629.)
+(e)
+
+Adjustment of Fees.—In addition to adjustments under subsection (b), the Administrator may periodically adjust the fees established under this section.
+
+(Added Pub. L. 104–264, title II, §273(a), Oct. 9, 1996, 110 Stat. 3239; amended Pub. L. 106–181, title VII, §719, Apr. 5, 2000, 114 Stat. 163; Pub. L. 107–71, title I, §119(d), Nov. 19, 2001, 115 Stat. 629; Pub. L. 112–95, title I, §121, Feb. 14, 2012, 126 Stat. 19.)
 
 #### Prior Provisions
 
 A prior section 45301, Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1225; Pub. L. 103–305, title II, §209, Aug. 23, 1994, 108 Stat. 1589; Pub. L. 104–287, §5(76), Oct. 11, 1996, 110 Stat. 3396; Pub. L. 105–102, §3(d)(1)(C), Nov. 20, 1997, 111 Stat. 2215, related to authority to impose fees, prior to repeal by Pub. L. 104–264, title II, §§203, 273(a), Oct. 9, 1996, 110 Stat. 3227, 3239, effective 30 days after Oct. 9, 1996.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (b). Pub. L. 112–95, §121(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to limitations on fees.
+
+Subsec. (e). Pub. L. 112–95, §121(b), added subsec. (e).
 
 <b>2001</b>—Subsec. (b)(1)(B). Pub. L. 107–71 substituted “reasonably” for “directly” and “Administration's costs, as determined by the Administrator,” for “Administration's costs” and inserted “The Determination of such costs by the Administrator is not subject to judicial review.” at end.
 
@@ -85,6 +107,4 @@ Deferred Collection of Fees.—The Administrator shall defer collecting fees und
 Enforcement.—The Administrator shall take an appropriate enforcement action under subtitle VII of title 49, United States Code, against any user that does not pay a fee under section 45301(a)(1) of such title.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should not be capitalized.</i>
 

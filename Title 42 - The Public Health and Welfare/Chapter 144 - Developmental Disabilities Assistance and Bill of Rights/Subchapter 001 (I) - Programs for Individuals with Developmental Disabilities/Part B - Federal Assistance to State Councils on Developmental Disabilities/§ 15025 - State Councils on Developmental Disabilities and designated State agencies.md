@@ -14,7 +14,7 @@ Each State that receives assistance under this part shall establish and maintain
 
 #### (B) Recommendations
 
-&emsp;&emsp;The Governor shall select members of the Council, at the discretion of the Governor, after soliciting recommendations from organizations representing a broad range of individuals with developmental disabilities and individuals interested in individuals with developmental disabilities, including the non-State agency members of the Council. The Council may, at the initiative of the Council, or on the request of the Governor, coordinate Council and public input to the Governor regarding all recommendations.
+&emsp;&emsp;The Governor shall select members of the Council, at the discretion of the Governor,after soliciting recommendations from organizations representing a broad range of individuals with developmental disabilities and individuals interested in individuals with developmental disabilities, including the non-State agency members of the Council. The Council may, at the initiative of the Council, or on the request of the Governor, coordinate Council and public input to the Governor regarding all recommendations.
 
 #### (C) Representation
 
@@ -144,7 +144,7 @@ Each State that receives assistance under this part shall establish and maintain
 
 &emsp;&emsp;The Council may support and conduct activities to enhance coordination of services with—
 
-&emsp;&emsp;&emsp;(i) other councils, entities, or committees, authorized by Federal or State law, concerning individuals with disabilities (such as the State interagency coordinating council established under part C of the Individuals with Disabilities Education Act (20 U.S.C. 1431 et seq.), the State Rehabilitation Council and the Statewide Independent Living Council established under the Rehabilitation Act of 1973 (29 U.S.C. 701 et seq.), the State mental health planning council established under subtitle B <sup>1</sup> of title XIX of the PublicHealth Service Act \[42 U.S.C. 300x et seq.\], and the activities authorized under section 3003 or 3004 of title 29, and entities carrying out other similar councils, entities, or committees);
+&emsp;&emsp;&emsp;(i) other councils, entities, or committees, authorized by Federal or State law, concerning individuals with disabilities (such as the State interagency coordinating council established under part C of the Individuals with Disabilities Education Act (20 U.S.C. 1431 et seq.), the State Rehabilitation Council and the Statewide Independent Living Council established under the Rehabilitation Act of 1973 (29 U.S.C. 701 et seq.), the State mental health planning council established under subtitle B <sup>1</sup> of title XIX of the Public Health Service Act \[42 U.S.C. 300x et seq.\], and the activities authorized under section 3003 or 3004 of title 29, and entities carrying out other similar councils, entities, or committees);
 
 &emsp;&emsp;&emsp;(ii) parent training and information centers under part D of the Individuals with Disabilities Education Act (20 U.S.C. 1451 et seq.) and other entities carrying out federally funded projects that assist parents of children with disabilities; and
 

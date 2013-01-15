@@ -108,7 +108,7 @@
 
 &emsp;&emsp;&emsp;(i) the increase in normal cost for a plan year determined under the entry age normal funding method due to increases in benefits described in section 418(b)(4)(A)(ii) (determined without regard to section 418(b)(4)(B)(ii)), and
 
-&emsp;&emsp;&emsp;(ii) the amount necessary to amortize in equal annual installments the increase in the value of vested benefits under the plan due to increases in benefits described in clause (i) over—
+&emsp;&emsp;&emsp;(ii) the amount necessary to amortize in equal annual installments the increase inthe value of vested benefits under the plan due to increases in benefits described in clause (i) over—
 
 &emsp;&emsp;&emsp;&emsp;(I) 10 years, to the extent such increase in value is attributable to persons in pay status, or
 

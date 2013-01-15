@@ -18,7 +18,7 @@ For short title of Pub. L. 100–553 which enacted this subpart and amended sect
 
 #### Effect of Enactment of Similar Provisions
 
-Section 2613(b) of Pub. L. 100–690 provided that:
+Pub. L. 100–690, title II, §2613(b), Nov. 18, 1988, 102 Stat. 4238, provided that:
 
 “(1) Paragraphs (2) and (3) shall take effect immediately after the enactment of both the bill, S. 1727, of the One Hundredth Congress \[Pub. L. 100–553, approved Oct. 28, 1988\], and the Health Omnibus Programs Extension of 1988 \[Pub. L. 100–607, approved Nov. 4, 1988\].
 
@@ -32,19 +32,19 @@ Section 2613(b) of Pub. L. 100–690 provided that:
 
 &emsp;“(C) the heading for subpart 10 of such part C \[42 U.S.C. prec. 285j\].
 
-“(3) Subsection (a)(2) of this section \[set out below\] is repealed.”
+“(3) Subsection (a)(2) of this section \[formerly set out below\] is repealed.”
 
 #### Transitional and Savings Provisions
 
-Section 3 of Pub. L. 100–553 provided that:
+Pub. L. 100–553, §3, Oct. 28, 1988, 102 Stat. 2774, provided that:
 
 “(a)
 
-Transfer of Personnel, Assets, and Liabilities.—Personnel employed by the National Institutes of Health in connection with the functions vested under section 2 \[enacting this subpart and amending sections 281 and 285j of this title\] in the Director of the National Institute on Deafness and Other Communication Disorders, and assets, property, contracts, liabilities, records, unexpended balances of appropriations, authorizations, allocations, and other funds of the National Institutes of Health, arising from or employed,held, used, available to, or to be made available, in connection with such functions shall be transferred to the Director for appropriate allocation. Unexpended funds transferred under this subsection shall be used only for the purposes for which the funds were originally authorized and appropriated.
+Transfer of Personnel, Assets, and Liabilities.—Personnel employed by the National Institutes of Health in connection with the functions vested under section 2 \[enacting this subpart and amending sections 281 and 285j of this title\] in the Director of the National Institute on Deafness and Other Communication Disorders, and assets, property, contracts, liabilities, records, unexpended balances of appropriations, authorizations, allocations, and other funds of the National Institutes of Health, arising from or employed, held, used, available to, or to be made available, in connection with such functions shall be transferred to the Director for appropriate allocation. Unexpended funds transferred under this subsection shall be used only for the purposes for which the funds were originally authorized and appropriated.
 
 “(b)
 
 Savings Provisions.—With respect to functions vested under section 1 \[probably means section 2, enacting this subpart and amending sections 281 and 285j of this title\] in the Director of the National Institute on Deafness and Other Communication Disorders, all orders, rules, regulations, grants, contracts, certificates, licenses, privileges, and other determinations, actions, or official documents, that have been issued, made, granted, or allowed to become effective, and that are effective on the date of the enactment of this Act \[Oct. 28, 1988\], shall continue in effect according to their terms unless changed pursuant to law.”
 
-Section 2612(a)(2) of Pub. L. 100–690, which enacted provisions that were substantially identical to the transitional and savings provisions above, was repealed by section 2613(b)(3) of Pub. L. 100–690.
+Pub. L. 100–690, title II, §2613(a)(2), Nov. 18, 1988, 102 Stat. 4238, which enacted provisions that were substantially identical to the transitional and savings provisions above, was repealed by section 2613(b)(3) of Pub. L. 100–690.
 

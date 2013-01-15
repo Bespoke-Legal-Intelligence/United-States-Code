@@ -22,7 +22,7 @@ Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see secti
 
 #### Effective Date
 
-Section 908(b) of Pub. L. 97–86 provided that: “Section 2315 of title 10, United States Code, as added by subsection (a), does not apply to a contract made before the date of the enactment of this Act \[Dec. 1, 1981\].”
+Pub. L. 97–86, title IX, §908(b), Dec. 1, 1981, 95 Stat. 1118, provided that: “Section 2315 of title 10, United States Code, as added by subsection (a), does not apply to a contract made before the date of the enactment of this Act \[Dec. 1, 1981\].”
 
 #### Limitation Regarding Telecommunications Requirements
 

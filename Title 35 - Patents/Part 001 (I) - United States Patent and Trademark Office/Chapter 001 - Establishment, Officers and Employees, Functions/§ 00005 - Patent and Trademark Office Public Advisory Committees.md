@@ -6,15 +6,11 @@ Establishment of Public Advisory Committees.—
 
 &emsp;(1)
 
-Appointment.—The United States Patent and Trademark Office shall have a Patent Public Advisory Committee and a Trademark Public Advisory Committee, each of which shall have nine voting members who shall be appointed by the Secretary of Commerce and serve at the pleasure of the Secretary of Commerce. Members of each Public Advisory Committee shall be appointed for a term of 3 years, except that of the members first appointed, three shall be appointed for a term of 1 year, and three shall be appointed for a term of 2 years. In making appointments to each Committee, the Secretary of Commerce shall consider the risk of loss of competitive advantage in international commerce or other harm to United States companies as a result of such appointments.
+Appointment.—The United States Patent and Trademark Office shall have a Patent Public Advisory Committee and a Trademark Public Advisory Committee, each of which shall have nine voting members who shall be appointed by the Secretary of Commerce and serve at the pleasure of the Secretary of Commerce. In each year, 3 members shall be appointed to each Advisory Committee for 3-year terms that shall begin on December 1 of that year. Any vacancy on an Advisory Committee shall be filled within 90 days after it occurs. A new member who is appointed to fill a vacancy shall be appointed to serve for the remainder of the predecessor's term.
 
 &emsp;(2)
 
-Chair.—The Secretary shall designate a chair of each Advisory Committee, whose term as chair shall be for 3 years.
-
-&emsp;(3)
-
-Timing of appointments.—Initial appointments to each Advisory Committee shall be made within 3 months after the effective date of the Patent and Trademark Office Efficiency Act. Vacancies shall be filled within 3 months after they occur.
+Chair.—The Secretary of Commerce, in consultation with the Director, shall designate a Chair and Vice Chair of each Advisory Committee from among the members appointed under paragraph (1). If the Chair resigns before the completion of his or her term, or is otherwise unable to exercise the functions of the Chair, the Vice Chair shall exercise the functions of the Chair.
 
 (b)
 
@@ -52,7 +48,7 @@ Compensation.—Each member of each Advisory Committee shall be compensated for 
 
 (f)
 
-Access to Information.—Members of each Advisory Committee shall be provided access to records and information in the United States Patent and Trademark Office, except for personnel or other privileged information and information concerning patent applications required to be kept in confidence by section 122.
+Access to Information.—Members of each Advisory Committee shall be provided access torecords and information in the United States Patent and Trademark Office, except for personnel or other privileged information and information concerning patent applications required to be kept in confidence by section 122.
 
 (g)
 
@@ -70,11 +66,9 @@ Open Meetings.—The meetings of each Advisory Committee shall be open to the pu
 
 Inapplicability of Patent Prohibition.—Section 4 shall not apply to voting members of the Advisory Committees.
 
-(Added Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4714\], Nov. 29, 1999, 113 Stat. 1536, 1501A–578; amended Pub. L. 107–273, div. C, title III, §§13203(b), 13206(a)(3), Nov. 2, 2002, 116 Stat. 1902, 1904.)
+(Added Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4714\], Nov. 29, 1999, 113 Stat. 1536, 1501A–578; amended Pub. L. 107–273, div. C, title III, §§13203(b), 13206(a)(3), Nov. 2, 2002, 116 Stat. 1902, 1904; Pub. L. 112–274, §1(l)(1), Jan. 14, 2013, 126 Stat. 2458.)
 
 #### References in Text
-
-For the effective date of the Patent and Trademark Office Efficiency Act, referred to in subsec. (a)(3), as 4 months after Nov. 29, 1999, see section 1009(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as an Effective Date of 1999 Amendment note under section 1 of this title.
 
 The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -84,6 +78,12 @@ A prior section 5, act July 19, 1952, ch. 950, 66 Stat. 793, related to bond of 
 
 #### Amendments
 
+<b>2013</b>—Subsec. (a)(1). Pub. L. 112–274, §1(l)(1)(A), substituted “In each year, 3 members shall be appointed to each Advisory Committee for 3-year terms that shall begin on December 1 of that year. Any vacancy on an Advisory Committee shall be filled within 90 days after it occurs. A new member who is appointed to fill a vacancy shall be appointed to serve for the remainder of the predecessor's term.” for “Members of each Public Advisory Committee shall be appointed for a term of 3 years, except that of the members first appointed, three shall be appointed for a term of 1 year, and three shall be appointed for a term of 2 years. In making appointments to each Committee, the Secretary of Commerce shall consider the risk of loss of competitive advantage in international commerce or other harm to United States companies as a result of such appointments.”
+
+Subsec. (a)(2). Pub. L. 112–274, §1(l)(1)(B), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The Secretary shall designate a chair of each Advisory Committee, whose term as chair shall be for 3 years.”
+
+Subsec. (a)(3). Pub. L. 112–274, §1(l)(1)(C), struck out par. (3). Text read as follows: “Initial appointments to each Advisory Committee shall be made within 3 months after the effective date of the Patent and Trademark Office Efficiency Act. Vacancies shall be filled within 3 months after they occur.”
+
 <b>2002</b>—Subsec. (e). Pub. L. 107–273, §13206(a)(3), struck out “, United States Code” after “title 5” in two places.
 
 Subsec. (g). Pub. L. 107–273, §13206(a)(3), struck out “, United States Code” after “title 18”.
@@ -92,7 +92,23 @@ Subsec. (i). Pub. L. 107–273, §13203(b)(1), inserted “, privileged,” aft
 
 Subsec. (j). Pub. L. 107–273, §13203(b)(2), added subsec. (j).
 
+#### Effective Date of 2013 Amendment
+
+Pub. L. 112–274, §1(n), Jan. 14, 2013, 126 Stat. 2459, provided that: “Except as otherwise provided in this Act \[amending this section and sections 42, 115, 123, 135, 154, 299, and 311 of this title, repealing section 373 of this title, enacting provisions set out as notes under this section and sections 2, 135, 298, and 311 of this title, and amending provisions set out as a note under section 321 of this title\], the amendments made by this Act shall take effect on the date of enactment of this Act \[Jan. 14, 2013\], and shall apply to proceedings commenced on or after such date of enactment.”
+
 #### Effective Date
 
 Section effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as an Effective Date of 1999 Amendment note under section 1 of this title.
+
+#### Transition
+
+Pub. L. 112–274, §1(l)(2), Jan. 14, 2013, 126 Stat. 2459, provided that:
+
+“(A)
+
+In general.—The Secretary of Commerce shall, in the Secretary's discretion, determine the time and manner in which the amendments made by paragraph (1) \[amending this section\] shall take effect, except that, in each year following the year in which this Act is enacted \[2013\], 3 members shall be appointed to each Advisory Committee (to which such amendments apply) for 3-year terms that begin on December 1 of that year, in accordance with section 5(a) of title 35, United States Code, as amended by paragraph (1) of this subsection.
+
+“(B)
+
+Deemed termination of terms.—In order to implement the amendments made by paragraph (1), the Secretary of Commerce may determine that the term of an existing member of an Advisory Committee under section 5 of title 35, United States Code, shall be deemed to terminate on December 1 of a year beginning after the date of the enactment of this Act \[Jan. 14, 2013\], regardless of whether December 1 is before or after the date on which such member's term would terminate if this Act had not been enacted.”
 

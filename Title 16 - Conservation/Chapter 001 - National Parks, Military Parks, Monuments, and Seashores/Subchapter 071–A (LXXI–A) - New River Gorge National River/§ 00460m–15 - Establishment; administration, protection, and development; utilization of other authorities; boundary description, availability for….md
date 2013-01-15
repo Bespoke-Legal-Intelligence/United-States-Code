@@ -18,7 +18,7 @@ Pub. L. 107–356, §1, Dec. 17, 2002, 116 Stat. 3013, provided that: “This Ac
 
 #### Short Title of 1988 Amendment
 
-Section 1 of Pub. L. 100–534 provided that: “This Act \[enacting sections 460m–26 to 460m–29 and 460ww to 460ww–5 of this title, amending this section and section 1274 of this title, and enacting provisions set out as notes under this section and section 1274 of this title\] may be cited as the ‘West Virginia National Interest River Conservation Act of 1987’.”
+Pub. L. 100–534, §1, Oct. 26, 1988, 102 Stat. 2699, provided that: “This Act \[enacting sections 460m–26 to 460m–29 and 460ww to 460ww–5 of this title, amending this section and section 1274 of this title, and enacting provisions set out as notes under this section and section 1274 of this title\] may be cited as the ‘West Virginia National Interest River Conservation Act of 1987’.”
 
 #### Land Exchange
 
@@ -38,7 +38,7 @@ Treatment of exchanged lands.—Upon the completion of such land exchange—
 
 #### New, Gauley, Meadow, and Bluestone Rivers; Congressional Findings and Purpose
 
-Section 2 of Pub. L. 100–534 provided that:
+Pub. L. 100–534, §2, Oct. 26, 1988, 102 Stat. 2699, provided that:
 
 “(a)
 
@@ -62,17 +62,17 @@ Purpose.—The purpose of this Act \[see Short Title of 1988 Amendment note abov
 
 #### Coordination Among Recreational Resources
 
-Section 401 of Pub. L. 100–534 provided that: “Subject to existing authority, the Secretary of the Interior shall cooperate with, and assist, any regional authority comprised of representatives of West Virginia State authorities and local government authorities in or any combination of the foregoing Nicholas, Fayette, Raleigh, Summers, Greenbrier, and Mercer Counties, West Virginia, for the purposes of providing for coordinated development and promotion of recreation resources of regional or national significance which are located in southern West Virginia and management by State or Federal agencies, including State, local and National Park System units, State and National Forest System units, and historic sites.”
+Pub. L. 100–534, title IV, §401, Oct. 26, 1988, 102 Stat. 2707, provided that: “Subject to existing authority, the Secretary of the Interior shall cooperate with, and assist, any regional authority comprised of representatives of West Virginia State authorities and local government authorities in or any combination of the foregoing Nicholas, Fayette, Raleigh, Summers, Greenbrier, and Mercer Counties, West Virginia, for the purposes of providing for coordinated development and promotion of recreation resources of regional or national significance which are located in southern West Virginia and management by State or Federal agencies, including State, local and National Park System units, State and National Forest System units, and historic sites.”
 
 #### Special Provisions
 
-Section 402 of Pub. L. 100–534 provided that: “Subject to his responsibilities to protect the natural resources of the National Park System, the Secretary of the Interior shall enter into a cooperative agreement with the State of West Virginia providing for the State's regulation, in accordance with State law, of persons providing commercial recreational watercraft services on units of the National Park System and components of the National Wild and Scenic Rivers System subject to this Act \[see Short Title of 1988 Amendment note above\].”
+Pub. L. 100–534, title IV, §402, Oct. 26, 1988, 102 Stat. 2707, provided that: “Subject to his responsibilities to protect the natural resources of the National Park System, the Secretary of the Interior shall enter into a cooperative agreement with the State of West Virginia providing for the State's regulation, in accordance with State law, of persons providing commercial recreational watercraft services on units of the National Park System and components of the National Wild and Scenic Rivers System subject to this Act \[see Short Title of 1988 Amendment note above\].”
 
 #### Consolidated Management
 
-Section 404 of Pub. L. 100–534 provided that: “In order to achieve the maximum economy and efficiency of operations in the administration of the National Park System units established or expanded pursuant to this Act \[see Short Title of 1988 Amendment note above\], the Secretary shall consolidate offices and personnel administering all such units to the extent practicable and shall utilize the existing facilities of the New River Gorge National River to the extent practicable.”
+Pub. L. 100–534, title IV, §404, Oct. 26, 1988, 102 Stat. 2708, provided that: “In order to achieve the maximum economy and efficiency of operations in the administration of the National Park System units established or expanded pursuant to this Act \[see Short Title of 1988 Amendment note above\], the Secretary shall consolidate offices and personnel administering all such units to the extent practicable and shall utilize the existing facilities of the New River Gorge National River to the extent practicable.”
 
 #### New Spending Authority
 
-Section 405 of Pub. L. 100–534 provided that: “Any new spending authority which is provided under this Act \[see Short Title of 1988 Amendment note above\] shall be effective for any fiscal year only to the extent or in such amounts as provided in appropriation Acts.”
+Pub. L. 100–534, title IV, §405, Oct. 26, 1988, 102 Stat. 2708, provided that: “Any new spending authority whichis provided under this Act \[see Short Title of 1988 Amendment note above\] shall be effective for any fiscal year only to the extent or in such amounts as provided in appropriation Acts.”
 

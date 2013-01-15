@@ -6,7 +6,7 @@ There is created an Emergency Loan Guarantee Board (referred to in this chapter 
 
 #### Short Title
 
-Section 1 of Pub. L. 92–70 provided that: “This Act \[enacting this chapter\] may be cited as the ‘Emergency Loan Guarantee Act’.”
+Pub. L. 92–70, §1, Aug. 9, 1971, 85 Stat. 178, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Emergency Loan Guarantee Act’.”
 
 #### Emergency Steel Loan Guarantees and Emergency Oil and Gas Guaranteed Loans
 
@@ -26,7 +26,7 @@ Short Title.—This chapter may be cited as the ‘Emergency Steel Loan Guarante
 
 Congressional Findings.—Congress finds that—
 
-&emsp;“(1) the United States steel industry has been severely harmed by a record surge of more than40,000,000 tons of steel imports into the United States since 1998, caused by the world financial crisis;
+&emsp;“(1) the United States steel industry has been severely harmed by a record surge of more than 40,000,000 tons of steel imports into the United States since 1998, caused by the world financial crisis;
 
 &emsp;“(2) this surge in imports resulted in the loss of more than 10,000 steel worker jobs since 1998, and was the imminent cause of three bankruptcies by medium-sized steel companies, Acme Steel, Laclede Steel, and Geneva Steel;
 
@@ -40,7 +40,7 @@ Congressional Findings.—Congress finds that—
 
 &emsp;“(5) these steel bankruptcies, job losses, and financial losses are also having serious negative effects on the tax base of cities, counties, and States, and on the essential health, education, and municipal services that these government entities provide to their citizens; and
 
-&emsp;“(6) a strong steel industry is necessary to the adequate defense preparedness of the United States in order to have sufficient steel available to build the ships, tanks, planes, and armaments necessary for the national defense.
+&emsp;“(6) a strong steel industry is necessary to the adequate defense preparedness of the United States in order to have sufficient steel available to build theships, tanks, planes, and armaments necessary for the national defense.
 
 “(c)
 
@@ -152,7 +152,7 @@ Increased level one.—A loan guarantee may be provided under this section in ex
 
 Increased level two.—A loan guarantee may be provided under this section in excess of 85 percent, but not more than 95 percent, of the amount of principal of the loan, if—
 
-&emsp;&emsp;&emsp;“(i) the aggregate amount of loans guaranteed at such percentage and outstanding under thissection at any one time does not exceed $100,000,000; and
+&emsp;&emsp;&emsp;“(i) the aggregate amount of loans guaranteed at such percentage and outstanding under this section at any one time does not exceed $100,000,000; and
 
 &emsp;&emsp;&emsp;“(ii) the aggregate amount of loans guaranteed at such percentage under this section with respect to a single qualified steel company does not exceed $50,000,000.
 
@@ -168,9 +168,9 @@ Salaries and Administrative Expenses.—For necessary expenses to administer the
 
 Termination of Guarantee Authority.—The authority of the Board to make commitments to guarantee any loan under this section shall terminate on December 31, 2011.
 
-“(<i>l</i>)
+“(l)
 
-Regulatory Action.—The Board shall issue such final procedures, rules, and regulations as may be necessary to carry out this section not later than 60 days after the date of the enactment of this Act \[Aug. 17, 1999\].
+Regulatory Action.—The Board shall issue such final procedures, rules, and regulations as may be necessary to carry out this section not later than 60 daysafter the date of the enactment of this Act \[Aug. 17, 1999\].
 
 “(m)
 
@@ -282,7 +282,7 @@ Authority.—
 
 &emsp;“(1)
 
-In general.—The Program may guarantee loans provided to qualified oil and gas companies byprivate banking and investment institutions in accordance with procedures, rules, and regulations established by the Board.
+In general.—The Program may guarantee loans provided to qualified oil and gas companies by private banking and investment institutions in accordance with procedures, rules, and regulations established by the Board.
 
 &emsp;“(2)
 
@@ -302,7 +302,7 @@ Additional costs.—For the additional cost of the loans guaranteed under this s
 
 “(f)
 
-Requirements for Loan Guarantees.—The Board may issue a loan guarantee on application by a qualified oil and gas company under an agreement by a private bank or investment company to provide a loan to the qualified oil and gas company, if the Board determines that—
+Requirements for Loan Guarantees.—The Board may issue a loan guarantee on application by a qualified oil and gas company under an agreement by a private bank or investment company to provide a loanto the qualified oil and gas company, if the Board determines that—
 
 &emsp;“(1) credit is not otherwise available to the company under reasonable terms or conditions sufficient to meet its financing needs, as reflected in the financial and business plans of the company;
 

@@ -140,7 +140,7 @@
 
 &emsp;&emsp;(C)(i) includes a finding that such person represents a credible threat to the physical safety of such intimate partner or child; or
 
-&emsp;&emsp;(ii) by its terms explicitly prohibits the use, attempted use, or threatened use of physical force against such intimate partneror child that would reasonably be expected to cause bodily injury; or
+&emsp;&emsp;(ii) by its terms explicitly prohibits the use, attempted use, or threatened use of physical force against such intimate partner or child that would reasonably be expected to cause bodily injury; or
 
 &emsp;(9) who has been convicted in any court of a misdemeanor crime of domestic violence,
 
@@ -158,13 +158,13 @@
 
 (k) It shall be unlawful for any person knowingly to transport, ship, or receive, in interstate or foreign commerce, any firearm which has had the importer's or manufacturer's serial number removed, obliterated, or altered or to possess or receive any firearm which has had the importer's or manufacturer's serial number removed, obliterated, or altered and has, at any time, been shipped or transported in interstate or foreign commerce.
 
-(<i>l</i>) Except as provided in section 925(d) of this chapter, it shall be unlawful for any person knowingly to import or bring into the United States or any possession thereof any firearm or ammunition; and it shall be unlawful for any person knowingly to receive any firearm or ammunition which has been imported or brought into the United States or any possession thereof in violation of the provisions of this chapter.
+(l) Except as provided in section 925(d) of this chapter, it shall be unlawful for any person knowingly to import or bring into the United States or any possession thereof any firearm or ammunition; and it shall be unlawful for any person knowingly to receive any firearm or ammunition which has been imported or brought into the United States or any possession thereof in violation of the provisions of this chapter.
 
 (m) It shall be unlawful for any licensed importer, licensed manufacturer, licensed dealer, or licensed collector knowingly to make any false entry in, to fail to make appropriate entry in, or to fail to properly maintain, any record which he is required to keep pursuant to section 923 of this chapter or regulations promulgated thereunder.
 
 (n) It shall be unlawful for any person who is under indictment for a crime punishable by imprisonment for a term exceeding one year to ship or transport in interstate or foreign commerce any firearm or ammunition or receive any firearm or ammunition which has been shipped or transported in interstate or foreign commerce.
 
-(<i>o</i>)(1) Except as provided in paragraph (2), it shall be unlawful for any person to transfer or possess a machinegun.
+(o)(1) Except as provided in paragraph (2), it shall be unlawful for any person to transfer or possess a machinegun.
 
 (2) This subsection does not apply with respect to—
 
@@ -176,7 +176,7 @@
 
 &emsp;(A) that, after removal of grips, stocks, and magazines, is not as detectable as the Security Exemplar, by walk-through metal detectors calibrated and operated to detect the Security Exemplar; or
 
-&emsp;(B) any major component of which, when subjected to inspection by the types of x-ray machines commonly used at airports, does not generate an image that accurately depicts the shape of the component. Barium sulfate or other compounds may be used in the fabrication of the component.
+&emsp;(B) any major component of which, when subjected to inspection by the types of x-raymachines commonly used at airports, does not generate an image that accurately depicts the shape of the component. Barium sulfate or other compounds may be used in the fabrication of the component.
 
 (2) For purposes of this subsection—
 
@@ -260,7 +260,7 @@
 
 (4) Nothing in this subsection shall be construed as preempting or preventing a State or local government from enacting a statute establishing gun free school zones as provided in this subsection.
 
-(r) It shall be unlawful for any person to assemble from imported parts any semiautomatic rifle or any shotgun which is identical to any rifle or shotgun prohibited from importationunder section 925(d)(3) of this chapter as not being particularly suitable for or readily adaptable to sporting purposes except that this subsection shall not apply to—
+(r) It shall be unlawful for any person to assemble from imported parts any semiautomatic rifle or any shotgun which is identical to any rifle or shotgun prohibited from importation under section 925(d)(3) of this chapter as not being particularly suitable for or readily adaptable to sporting purposes except that this subsection shall not apply to—
 
 &emsp;(1) the assembly of any such rifle or shotgun for sale or distribution by a licensed manufacturer to the United States or any department or agency thereof or to any State or any department, agency, or political subdivision thereof; or
 
@@ -298,7 +298,7 @@
 
 &emsp;(E) the Attorney General has approved the transfer under section 5812 of the Internal Revenue Code of 1986; or
 
-&emsp;(F) on application of the transferor, the Attorney General has certified that compliance with subparagraph (A)(i)(III) is impracticable because—
+&emsp;(F) on application of the transferor, the Attorney General has certified that compliancewith subparagraph (A)(i)(III) is impracticable because—
 
 &emsp;&emsp;(i) the ratio of the number of law enforcement officers of the State in which the transfer is to occur to the number of square miles of land area of the State does not exceed 0.0025;
 
@@ -366,7 +366,7 @@
 
 (9) The Attorney General shall take necessary actions to ensure that the provisions of this subsection are published and disseminated to licensed dealers, law enforcement officials, and the public.
 
-(t)(1) Beginning on the date that is 30 days after the Attorney General notifies licensees under section 103(d) of the Brady Handgun Violence Prevention Act that the national instant criminal background check system is established, a licensed importer, licensed manufacturer, or licensed dealer shall not transfer a firearm to any other person who is not licensed under this chapter, unless—
+(t)(1) Beginning on the date that is 30 days after the Attorney General notifies licenseesunder section 103(d) of the Brady Handgun Violence Prevention Act that the national instant criminal background check system is established, a licensed importer, licensed manufacturer, or licensed dealer shall not transfer a firearm to any other person who is not licensed under this chapter, unless—
 
 &emsp;(A) before the completion of the transfer, the licensee contacts the national instant criminal background check system established under section 103 of that Act;
 
@@ -392,7 +392,7 @@
 
 &emsp;&emsp;(II) was issued not more than 5 years earlier by the State in which the transfer is to take place; and
 
-&emsp;(ii) the law of the State provides that such a permit is to be issued only after an authorizedgovernment official has verified that the information available to such official does not indicate that possession of a firearm by such other person would be in violation of law;
+&emsp;(ii) the law of the State provides that such a permit is to be issued only after an authorized government official has verified that the information available to such official does not indicate that possession of a firearm by such other person would be in violation of law;
 
 &emsp;(B) the Attorney General has approved the transfer under section 5812 of the Internal Revenue Code of 1986; or
 
@@ -434,7 +434,7 @@
 
 &emsp;(A) a temporary transfer of a handgun or ammunition to a juvenile or to the possession or use of a handgun or ammunition by a juvenile if the handgun and ammunition are possessed and used by the juvenile—
 
-&emsp;&emsp;(i) in the course of employment, in the course of ranching or farming related to activities at the residence of the juvenile (or on property used for ranching or farming at which the juvenile, with the permission of the property owner or lessee, is performing activities related to the operation of the farm or ranch), target practice, hunting, or a course of instruction in the safe and lawful use of a handgun;
+&emsp;&emsp;(i) in the course of employment, in the course of ranching or farming related to activities at the residence of the juvenile (oron property used for ranching or farming at which the juvenile, with the permission of the property owner or lessee, is performing activities related to the operation of the farm or ranch), target practice, hunting, or a course of instruction in the safe and lawful use of a handgun;
 
 &emsp;&emsp;(ii) with the prior written consent of the juvenile's parent or guardian who is not prohibited by Federal, State, or local law from possessing a firearm, except—
 
@@ -546,7 +546,7 @@ Liability for use.—
 
 &emsp;&emsp;(A)
 
-In general.—Notwithstanding any other provision of law, a person who has lawful possession and control of a handgun, and who uses a secure gun storage or safety device with the handgun, shall be entitled toimmunity from a qualified civil liability action.
+In general.—Notwithstanding any other provision of law, a person who has lawful possession and control of a handgun, and who uses a secure gun storage or safety device with the handgun, shall be entitled to immunity from a qualified civil liability action.
 
 &emsp;&emsp;(B)
 
@@ -578,7 +578,7 @@ The effective date of this chapter, referred to in subsec. (a)(3), is December 1
 
 Section 5845 of the Internal Revenue Code of 1986, referred to in subsecs. (a)(4) and (b)(4), is classified to section 5845 of Title 26, Internal Revenue Code.
 
-For date this subsection takes effect, referred to in subsec. (<i>o</i>)(2)(B), as May 19, 1986, see Effective Date of 1986 Amendment note, set out below.
+For date this subsection takes effect, referred to in subsec. (o)(2)(B), as May 19, 1986, see Effective Date of 1986 Amendment note, set out below.
 
 The date of the enactment of this subsection and the date of the enactment of the Undetectable Firearms Act of 1988, referred to in subsec. (p)(2)(C)(i), (6), respectively, are both the date of enactment of Pub. L. 100–649, which enacted subsec. (p) of this section and which was approved Nov. 10, 1988.
 
@@ -591,6 +591,10 @@ Section 1028 of this title, referred to in subsec. (s)(3)(A), was subsequently a
 Section 102 of the Controlled Substances Act, referred to in subsec. (s)(3)(B)(iii), is classified to section 802 of Title 21, Food and Drugs.
 
 Section 103 of the Brady Handgun Violence Prevention Act, referred to in subsec. (t)(1), is section 103 of Pub. L. 103–159, which is set out below.
+
+#### Constitutionality
+
+For information regarding constitutionality of certain provisions of this section, as added by section 102(a)(1) of Pub. L. 103–159, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
 
 #### Amendments
 
@@ -628,7 +632,7 @@ Pub. L. 104–208, §101(f) \[§658(b)(2)(B)\], substituted “; or” for comm
 
 Subsec. (g)(9). Pub. L. 104–208, §101(f) \[§658(b)(2)(C)\], added par. (9).
 
-Subsec. (q). Pub. L. 104–208, §101(f) \[title VI, §657\], amended subsec. generally, revising and restating former provisions.
+Subsec. (q). Pub. L. 104–208, §101(f) \[title VI, §657\], amended subsec. (q) generally, revising and restating former provisions and inserting provisions related to possession of firearm that has moved in or that otherwise affects interstate or foreign commerce.
 
 Subsec. (s)(1). Pub. L. 104–294, §603(c)(1), amended directory language of Pub. L. 103–322, §320927. See 1994 Amendment note below.
 
@@ -704,7 +708,7 @@ Subsec. (b)(2). Pub. L. 99–308, §102(4)(A), struck out “or ammunition” af
 
 Subsec. (b)(3)(A). Pub. L. 99–308, §102(4)(B), inserted a new cl. (A) and struck out former cl. (A) which provided that par. (3) “shall not apply to the sale or delivery of a rifle or shotgun to a resident of a State contiguous to the State in which the licensee's place of business is located if the purchaser's State of residence permits such sale or delivery by law, the sale fully complies with the legal conditions of sale in both such contiguous States, and the purchaser and the licensee have, prior to the sale, or delivery for sale, of the rifle or shotgun, complied with all of the requirements of section 922(c) applicable to intrastate transactions other than at the licensee's business premises,”.
 
-Subsec. (b)(3)(B), (C). Pub. L. 99–308, §102(4)(C), (D), inserted “and” before “(B)” and struck out cl. (C), which provided that par. (3) “shall not preclude any person who is participating in any organized rifle or shotgun match or contest, or is engaged in hunting, in a State other than his State of residence and whose rifle or shotgun has been lost or stolen or has become inoperative in such other State, from purchasing a rifle or shotgun in such other State from a licensed dealer if such person presents to such dealer a sworn statement (i) that his rifle or shotgun was lost or stolen or became inoperative while participating in such a match or contest, or while engaged in hunting, in such otherState, and (ii) identifying the chief law enforcement officer of the locality in which such person resides, to whom such licensed dealer shall forward such statement by registered mail”.
+Subsec. (b)(3)(B), (C). Pub. L. 99–308, §102(4)(C), (D), inserted “and” before “(B)” and struck out cl. (C), which provided that par. (3) “shall not preclude any person who is participating in any organized rifle or shotgun match or contest, or is engaged in hunting, in a State other than his State of residence and whose rifle or shotgun has been lost or stolen or has become inoperative in such other State, from purchasing a rifle or shotgun in such other State from a licensed dealer if such person presents to such dealer a sworn statement (i) that his rifle or shotgun was lost or stolen or became inoperative while participating in such a match or contest, or while engaged in hunting, in such other State, and (ii) identifying the chief law enforcement officer of the locality in which such person resides, to whom such licensed dealer shall forward such statement by registered mail”.
 
 Subsec. (b)(4). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
@@ -738,7 +742,7 @@ Subsec. (h). Pub. L. 99–308, §102(7), amended subsec. (h) generally. Prior to
 
 Subsec. (n). Pub. L. 99–308, §102(8), added subsec. (n).
 
-Subsec. (<i>o</i>). Pub. L. 99–308, §102(9), added subsec. (<i>o</i>).
+Subsec. (o). Pub. L. 99–308, §102(9), added subsec. (o).
 
 <b>1982</b>—Subsec. (b)(5). Pub. L. 97–377 inserted “except .22 caliber rimfire ammunition” after “or ammunition”.
 
@@ -778,11 +782,11 @@ Subsec. (h). Pub. L. 90–618 redesignated former subsec. (f) as (h) and extende
 
 Subsec. (i). Pub. L. 90–618 redesignated former subsec. (g) as (i) and substituted “that the firearm or ammunition was” for “the same to have been”. Former subsec. (i) redesignated (k).
 
-Subsec. (j). Pub. L. 90–618 redesignated former subsec. (h) as (j) and substituted “which is moving as, which is a part of,” for “moving as or which is a part of” and “that the firearm or ammunition was” for “the same to have been”. Former subsec. (j) redesignated (<i>l</i>).
+Subsec. (j). Pub. L. 90–618 redesignated former subsec. (h) as (j) and substituted “which is moving as, which is a part of,” for “moving as or which is a part of” and “that the firearm or ammunition was” for “the same to have been”. Former subsec. (j) redesignated (l).
 
 Subsec. (k). Pub. L. 90–618 redesignated former subsec. (i) as (k). Former subsec. (k) redesignated (m).
 
-Subsec. (<i>l</i>). Pub. L. 90–618 redesignated former subsec. (j) as (<i>l</i>).
+Subsec. (l). Pub. L. 90–618 redesignated former subsec. (j) as (l).
 
 Subsec. (m). Pub. L. 90–618 redesignated former subsec. (k) as (m) and added licensed collectors to the enumerated list of licensees.
 
@@ -790,7 +794,7 @@ Subsec. (m). Pub. L. 90–618 redesignated former subsec. (k) as (m) and added l
 
 Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
 
-Post Office Department, referred to in subsec. (c)(2), redesignated United States Postal Service pursuant to Pub. L. 91–375, §6(<i>o</i>), Aug. 12, 1970, 84 Stat. 733, set out as a note preceding section 101 of Title 39, Postal Service.
+Post Office Department, referred to in subsec. (c)(2), redesignated United States Postal Service pursuant to Pub. L. 91–375, §6(o), Aug. 12, 1970, 84 Stat. 733, set out as a note preceding section 101 of Title 39, Postal Service.
 
 #### Effective Date of 2005 Amendment
 
@@ -802,17 +806,17 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 #### Effective Date of 1996 Amendment
 
-Section 603(c)(2) of Pub. L. 104–294 provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect as if the amendment had been included in section 320927 of the Act referred to in paragraph (1) \[Pub. L. 103–322\] on the date of the enactment of such Act \[Sept. 13, 1994\].”
+Pub. L. 104–294, title VI, §603(c)(2), Oct. 11, 1996, 110 Stat. 3503, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect as if the amendment had been included in section 320927 of the Act referred to in paragraph (1) \[Pub. L. 103–322\] on the date of the enactment of such Act \[Sept. 13, 1994\].”
 
-Section 603(f)(2) of Pub. L. 104–294 provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect as if the amendment had been included in section 110201 of the Act referred to in paragraph (1) \[Pub. L. 103–322\] on the date of the enactment of such Act \[Sept. 13, 1994\].”
+Pub. L. 104–294, title VI, §603(f)(2), Oct. 11, 1996, 110 Stat. 3503, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effectas if the amendment had been included in section 110201 of the Act referred to in paragraph (1) \[Pub. L. 103–322\] on the date of the enactment of such Act \[Sept. 13, 1994\].”
 
-Section 603(i)(2) of Pub. L. 104–294 provided that: “The amendment made by paragraph (1) \[amending section 210603(b) of Pub. L. 103–322, which amended sections 103(k) and 106(b)(2) of Pub. L. 103–159, set out as notes below\] shall take effect as if the amendment had been included in section 210603(b) of the Act referred to in paragraph (1) \[Pub. L. 103–322\] on the date of the enactment of such Act \[Sept. 13, 1994\].”
+Pub. L. 104–294, title VI, §603(i)(2), Oct. 11, 1996, 110 Stat. 3504, provided that: “The amendment made by paragraph (1) \[amending section 210603(b) of Pub. L. 103–322, which amended sections 103(k) and 106(b)(2) of Pub. L. 103–159, set out as notes below\] shall take effect as if the amendment had been included in section 210603(b) of the Act referred to in paragraph (1) \[Pub. L. 103–322\] on the date of the enactment of such Act \[Sept. 13, 1994\].”
 
 #### Effective and Termination Dates of 1994 Amendment
 
 Amendment by sections 110102(a), 110103(a), and 110106 of Pub. L. 103–322 repealed 10 years after Sept. 13, 1994, see section 110105(2) of Pub. L. 103–322, formerly set out as a note under section 921 of this title.
 
-Section 330011(i) of Pub. L. 103–322 provided that the amendment made by that section is effective as of the date on which section 3524 of Pub. L. 101–647 took effect.
+Pub. L. 103–322, title XXXIII, §330011(i), Sept. 13, 1994, 108 Stat. 2145, provided that the amendment made by that section is effective as of the date on which section 3524 of Pub. L. 101–647 took effect.
 
 #### Effective Date of 1990 Amendment
 
@@ -830,7 +834,7 @@ Effective date.—This Act and the amendments made by this Act \[amending this s
 
 &emsp;“(A) subsection (p) of section 922 of title 18, United States Code, is hereby repealed;
 
-&emsp;“(B) subsection (f) of section 924 of such title is hereby repealed and subsections (g) through (<i>o</i>) of such section are hereby redesignated as subsections (f) through (n), respectively;
+&emsp;“(B) subsection (f) of section 924 of such title is hereby repealed and subsections (g) through (o) of such section are hereby redesignated as subsections (f) through (n), respectively;
 
 &emsp;“(C) subsection (f) of section 925 of such title is hereby repealed;
 
@@ -850,7 +854,7 @@ Amendment by section 102(1)–(8) of Pub. L. 99–308 effective 180 days after M
 
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90–618 effective Dec. 16, 1968, except subsec. (<i>l</i>) effective Oct. 22, 1968, see section 105 of Pub. L. 90–618, set out as a note under section 921 of this title.
+Amendment by Pub. L. 90–618 effective Dec. 16, 1968, except subsec. (l) effective Oct. 22, 1968, see section 105 of Pub. L. 90–618, set out as a note under section 921 of this title.
 
 #### Purposes
 
@@ -1002,7 +1006,7 @@ Standard for Adjudications and Commitments Related to Mental Health.—
 
 &emsp;“(1)
 
-In general.—No department or agency of the Federal Government may provide to the Attorney General any record of an adjudication related to the mental health of a person or any commitment of a person to a mental institution if—
+In general.—No department or agency of the Federal Government may provide to the AttorneyGeneral any record of an adjudication related to the mental health of a person or any commitment of a person to a mental institution if—
 
 &emsp;&emsp;“(A) the adjudication or commitment, respectively, has been set aside or expunged, or the person has otherwise been fully released or discharged from all mandatory treatment, supervision, or monitoring;
 
@@ -1032,7 +1036,7 @@ Judicial review.—Relief and judicial review with respect to the program requir
 
 &emsp;&emsp;“(B)
 
-Relief from disabilities.—In the case of an adjudication related to the mental health of a person or a commitment of a person to a mental institution, a record of which may not be provided to the Attorney General under paragraph (1), including because of the absence of a finding described insubparagraph (C) of such paragraph, or from which a person has been granted relief under a program established under subparagraph (A) or (B), or because of a removal of a record under section 103(e)(1)(D) of the Brady Handgun Violence Prevention Act \[Pub. L. 103–159, set out below\], the adjudication or commitment, respectively, shall be deemed not to have occurred for purposes of subsections (d)(4) and (g)(4) of section 922 of title 18, United States Code. Any Federal agency that grants a person relief from disabilities under this subparagraph shall notify such person that the person is no longer prohibited under 922(d)(4) or 922(g)(4) of title 18, United States Code, on account of the relieved disability for which relief was granted pursuant to a proceeding conducted under this subparagraph, with respect to the acquisition, receipt, transfer, shipment, transportation, or possession of firearms.
+Relief from disabilities.—In the case of an adjudication related to the mental health of a person or a commitment of a person to a mental institution, a record of which may not be provided to the Attorney General under paragraph (1), including because of the absence of a finding described in subparagraph (C) of such paragraph, or from which a person has been granted relief under a program established under subparagraph (A) or (B), or because of a removal of a record under section 103(e)(1)(D) of the Brady Handgun Violence Prevention Act \[Pub. L. 103–159, set out below\], the adjudication or commitment, respectively, shall be deemed not to have occurred for purposes of subsections (d)(4) and (g)(4) of section 922 of title 18, United States Code. Any Federal agency that grants a person relief from disabilities under this subparagraph shall notify such person that the person is no longer prohibited under 922(d)(4) or 922(g)(4) of title 18, United States Code, on account of the relieved disability for which relief was granted pursuant to a proceeding conducted under this subparagraph, with respect to the acquisition, receipt, transfer, shipment, transportation, or possession of firearms.
 
 &emsp;“(3)
 
@@ -1110,7 +1114,7 @@ In general.—From the information collected by a State, the State shall make el
 
 updates.—The State, on being made aware that the basis under which a record was made available under subparagraph (A) does not apply, or no longer applies, shall, as soon as practicable—
 
-&emsp;&emsp;&emsp;“(i) update, correct, modify, or remove the record from any database that the Federal orState government maintains and makes available to the National Instant Criminal Background Check System, consistent with the rules pertaining to that database; and
+&emsp;&emsp;&emsp;“(i) update, correct, modify, or remove the record from any database that the Federal or State government maintains and makes available to the National Instant Criminal Background Check System, consistent with the rules pertaining to that database; and
 
 &emsp;&emsp;&emsp;“(ii) notify the Attorney General that such basis no longer applies so that the record system in which the record is maintained is kept up to date.
 
@@ -1148,7 +1152,7 @@ Authorization.—
 
 &emsp;“(1)
 
-In general.—From amounts made available to carry out this section and subject to section 102(b)(1)(B), the Attorney General shall make grants to States and Indian tribal governments, in a manner consistent with the National Criminal History Improvement Program, which shall be used by the States and Indian tribal governments, in conjunction with units of local government and State and local courts, to establish or upgrade information and identification technologies for firearms eligibility determinations. Not less than 3 percent, and no more than 10 percent of each grant under this paragraph shall be used to maintain the relief from disabilities program in accordance with section 105.
+In general.—From amounts made available to carry out this section and subject to section 102(b)(1)(B), the Attorney General shall make grants to States and Indian tribal governments, in a manner consistent with the National Criminal History Improvement Program, which shall be used by the States and Indian tribal governments, in conjunction with units of local government and State and local courts, to establish or upgrade information and identification technologies for firearms eligibility determinations. Not less than 3 percent, and no more than 10 percent of each grant under this paragraph shall beused to maintain the relief from disabilities program in accordance with section 105.
 
 &emsp;“(2)
 
@@ -1290,7 +1294,7 @@ Authorization of Appropriations.—There are authorized to be appropriated such 
 
 “(a)
 
-Grants Authorized.—From amounts made available to carry out this section, the Attorney General shall make grants to each State, consistent with State plans for the integration, automation, and accessibility of criminal history records, for use by the Statecourt system to improve the automation and transmittal of criminal history dispositions, records relevant to determining whether a person has been convicted of a misdemeanor crime of domestic violence, court orders, and mental health adjudications or commitments, to Federal and State record repositories in accordance with sections 102 and 103 and the National Criminal History Improvement Program.
+Grants Authorized.—From amounts made available to carry out this section, the Attorney General shall make grants to each State, consistent with State plans for the integration, automation, and accessibility of criminal history records, for use by the State court system to improve the automation and transmittal of criminal history dispositions, records relevant to determining whether a person has been convicted of a misdemeanor crime of domestic violence, court orders, and mental health adjudications or commitments, to Federal and State record repositories in accordance with sections 102 and 103 and the National Criminal History Improvement Program.
 
 “(b)
 
@@ -1324,7 +1328,7 @@ In General.—The Comptroller General of the United States shall conduct an audi
 
 Report.—Not later than 6 months after the date of enactment of this Act \[Jan. 8, 2008\], the Comptroller General shall submit a report to Congress describing the findings of the audit conducted pursuant to subsection (a).”
 
-Pub. L. 103–159, title I, §103, Nov. 30, 1993, 107 Stat. 1541, as amended by Pub. L. 103–322, title XXI, §210603(b), Sept. 13, 1994, 103 Stat. 2074; Pub. L. 104–294, title VI, §603(h), (i)(1), Oct. 11, 1996, 110 Stat. 3504; Pub. L. 110–180, title I, §101(a), Jan. 8, 2008, 121 Stat. 2561, provided that:
+Pub. L. 103–159, title I, §103, Nov. 30, 1993, 107 Stat. 1541, as amended by Pub. L. 103–322, title XXI, §210603(b), Sept. 13, 1994, 108 Stat. 2074; Pub. L. 104–294, title VI, §603(h), (i)(1), Oct. 11, 1996, 110 Stat. 3504; Pub. L. 110–180, title I, §101(a), Jan. 8, 2008, 121 Stat. 2561, provided that:
 
 “(a)
 
@@ -1430,7 +1434,7 @@ Authorization of Appropriations.—There are authorized to be appropriated such 
 
 #### Funding for Improvement of Criminal Records
 
-Section 106(b) of Pub. L. 103–159, as amended by Pub. L. 103–322, title XXI, §210603(b), Sept. 13, 1994, 103 Stat. 2074; Pub. L. 104–294, title VI, §603(i)(1), Oct. 11, 1996, 110 Stat. 3504, provided that:
+Pub. L. 103–159, title I, §106(b), Nov. 30, 1993, 107 Stat. 1544, as amended by Pub. L. 103–322, title XXI, §210603(b), Sept. 13, 1994, 103 Stat. 2074; Pub. L. 104–294, title VI, §603(i)(1), Oct. 11, 1996, 110 Stat. 3504, provided that:
 
 “(1)
 
@@ -1448,11 +1452,11 @@ Authorization of appropriations.—There are authorized to be appropriated for g
 
 #### Gun-Free Zone Signs
 
-Section 1702(b)(5) of Pub. L. 101–647 provided that: “Federal, State, and local authorities are encouraged to cause signs to be posted around school zones giving warning of prohibition of the possession of firearms in a school zone.”
+Pub. L. 101–647, title XVII, §1702(b)(5), Nov. 29, 1990, 104 Stat. 4845, provided that: “Federal, State, and local authorities are encouraged to cause signs to be posted around school zones giving warning of prohibition of the possession of firearms in a school zone.”
 
 #### Identification of Felons and Other Persons Ineligible To Purchase Handguns
 
-Section 6213 of Pub. L. 100–690 provided that:
+Pub. L. 100–690, title VI, §6213, Nov. 18, 1988, 102 Stat. 4360, provided that:
 
 “(a)
 
@@ -1472,7 +1476,7 @@ Definitions.—As used in this section, the terms ‘firearm’ and ‘dealer’
 
 #### Studies To Identify Equipment Capable of Distinguishing Security Exemplar From Other Metal Objects Likely To Be Carried on One's Person
 
-Section 2(e) of Pub. L. 100–649 provided that: “The Attorney General, the Secretary of the Treasury, and the Secretary of Transportation shall each conduct studies to identify available state-of-the-art equipment capable of detecting the Security Exemplar (as defined in section 922(p)(2)(C) of title 18, United States Code) and distinguishing the Security Exemplar from innocuous metal objects likely to be carried on one's person. Such studies shall be completed within 6 months after thedate of the enactment of this Act \[Nov. 10, 1988\] and shall include a schedule providing for the installation of such equipment at the earliest practicable time at security checkpoints maintained or regulated by the agency conducting the study. Such equipment shall be installed in accordance with each schedule. In addition, such studies may include recommendations, where appropriate, concerning the use of secondary security equipment and procedures to enhance detection capability at security checkpoints.”
+Pub. L. 100–649, §2(e), Nov. 10, 1988, 102 Stat. 3817, provided that: “The Attorney General, the Secretary of the Treasury, and the Secretary of Transportation shall each conduct studies to identify available state-of-the-art equipment capable of detecting the Security Exemplar (as defined in section 922(p)(2)(C) of title 18, United States Code) and distinguishing the Security Exemplar from innocuous metal objects likely to be carried on one's person. Such studies shall be completed within 6 months after the date of the enactment of this Act \[Nov. 10, 1988\] and shall include a schedule providing for the installation of such equipment at the earliest practicable time at security checkpoints maintained or regulated by the agency conducting the study. Such equipment shall be installed in accordance with each schedule. In addition, such studies may include recommendations, where appropriate, concerning the use of secondary security equipment and procedures to enhance detection capability at security checkpoints.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed with “and”.</i>
 

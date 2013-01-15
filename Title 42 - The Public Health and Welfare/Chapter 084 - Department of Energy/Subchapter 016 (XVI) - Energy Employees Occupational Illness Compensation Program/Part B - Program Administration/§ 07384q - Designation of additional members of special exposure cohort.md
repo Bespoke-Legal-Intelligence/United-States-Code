@@ -2,7 +2,7 @@
 
 #### (a) Advice on additional members
 
-(1) The Advisory Board on Radiation and Worker Health under section 7384<i>o</i> of this title shall advise the President whether there is a class of employees at any Department of Energy facility who likely were exposed to radiation at that facility but for whom it is not feasible to estimate with sufficient accuracy the radiation dose they received.
+(1) The Advisory Board on Radiation and Worker Health under section 7384o of this title shall advise the President whether there is a class of employees at any Department of Energy facility who likely were exposed to radiation at that facility but for whom it is not feasible to estimate with sufficient accuracy the radiation dose they received.
 
 (2) The advice of the Advisory Board on Radiation and Worker Health under paragraph (1) shall be based on exposure assessments by radiation health professionals, information provided by the Department of Energy, and such other information as the Advisory Board considers appropriate.
 
@@ -10,7 +10,7 @@
 
 #### (b) Designation of additional members
 
-Subject to the provisions of section 7384<i>l</i>(14)(C) of this title, the members of a class of employees at a Department of Energy facility, or at an atomic weapons employer facility, may be treated as members of the Special Exposure Cohort for purposes of the compensation program if the President, upon recommendation of the Advisory Board on Radiation and Worker Health, determines that—
+Subject to the provisions of section 7384l(14)(C) of this title, the members of a class of employees at a Department of Energy facility, or at an atomic weapons employer facility, may be treated as members of the Special Exposure Cohort for purposes of the compensation program if the President, upon recommendation of the Advisory Board on Radiation and Worker Health, determines that—
 
 &emsp;(1) it is not feasible to estimate with sufficient accuracy the radiation dose that the class received; and
 
@@ -22,9 +22,9 @@ Subject to the provisions of section 7384<i>l</i>(14)(C) of this title, the memb
 
 (2)(A) Upon receipt by the President of a recommendation of the Advisory Board on Radiation and Worker Health that the President should determine in the affirmative that paragraphs (1) and (2) of subsection (b) of this section apply to a class, the President shall have a period of 30 days in which to determine whether such paragraphs apply to the class and to submit that determination (whether affirmative or negative) to Congress.
 
-(B) If the determination submitted by the President under subparagraph (A) is in the affirmative, the President shall also submit a report meeting the requirements of section 7384<i>l</i>(14)(C)(ii) of this title.
+(B) If the determination submitted by the President under subparagraph (A) is in the affirmative, the President shall also submit a report meeting the requirements of section 7384l(14)(C)(ii) of this title.
 
-(C) If the President does not submit a determination required by subparagraph (A) within the period required by subparagraph (A), then upon the day following the expiration of that period, it shall be deemed for purposes of section 7384<i>l</i>(14)(C)(ii) of this title that the President submitted the report under that provision on that day.
+(C) If the President does not submit a determination required by subparagraph (A) within the period required by subparagraph (A), then upon the day following the expiration of that period, it shall be deemed for purposes of section 7384l(14)(C)(ii) of this title that the President submitted the report under that provision on that day.
 
 #### (d) Access to information
 

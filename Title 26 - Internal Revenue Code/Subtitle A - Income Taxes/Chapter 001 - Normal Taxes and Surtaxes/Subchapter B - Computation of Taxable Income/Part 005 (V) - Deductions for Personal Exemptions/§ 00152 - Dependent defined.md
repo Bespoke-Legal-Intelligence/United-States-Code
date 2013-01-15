@@ -28,7 +28,7 @@ For purposes of this section—
 
 #### (B) Exception for adopted child
 
-&emsp;&emsp;Subparagraph (A) shall not exclude any child of a taxpayer (within the meaning ofsubsection (f)(1)(B)) from the definition of “dependent” if—
+&emsp;&emsp;Subparagraph (A) shall not exclude any child of a taxpayer (within the meaning of subsection (f)(1)(B)) from the definition of “dependent” if—
 
 &emsp;&emsp;&emsp;(i) for the taxable year of the taxpayer, the child has the same principal place of abode as the taxpayer and is a member of the taxpayer's household, and
 
@@ -380,7 +380,7 @@ Subsec. (e). Pub. L. 90–78, §1(a), added subsec. (e).
 
 <b>1958</b>—Subsec. (a)(9). Pub. L. 85–866, §4(a), inserted “(other than an individual who at any time during the taxable year was the spouse, determined without regard to section 153, of the taxpayer)”.
 
-Subsec. (b)(3). Pub. L. 85–866, §4(b), among other changes, struck out provision that “dependent” does not include any individual who is not a United States citizen unless such individual is a resident of United States or of a contiguous country, or of Canal Zone or Panama, and inserted provision barring exclusion from definition of “dependent” any child of taxpayer, legally adopted by him, if, for taxable year of taxpayer, child's principal place of abode is taxpayer's home and child ismember of taxpayer's household, if taxpayer is United States citizen.
+Subsec. (b)(3). Pub. L. 85–866, §4(b), among other changes, struck out provision that “dependent” does not include any individual who is not a United States citizen unless such individual is a resident of United States or of a contiguous country, or of Canal Zone or Panama, and inserted provision barring exclusion from definition of “dependent” any child of taxpayer, legally adopted by him, if, for taxable year of taxpayer, child's principal place of abode is taxpayer's home and child is member of taxpayer's household, if taxpayer is United States citizen.
 
 Subsec. (b)(5). Pub. L. 85–866, §4(c), added par. (5).
 
@@ -414,31 +414,31 @@ Amendment by section 482(b)(2) of Pub. L. 98–369 applicable to taxable years b
 
 Amendment by section 1901(a)(24), (b)(7)(B), (8)(A) of Pub. L. 94–455 applicable with respect to taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
-Section 2139(b) of Pub. L. 94–455 provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Oct. 4, 1976\].”
+Pub. L. 94–455, title XXI, §2139(b), Oct. 4, 1976, 90 Stat. 1932, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Oct. 4, 1976\].”
 
 #### Effective Date of 1972 Amendment
 
-Section 1(c) of Pub. L. 92–580 provided that: “The amendments made by subsections (a) \[amending this section\] and (b) \[amending section 873 of this title\] shall apply to taxable years beginning after December 31, 1971.”
+Pub. L. 92–580, §1(c), Oct. 27, 1972, 86 Stat. 1276, provided that: “The amendments made by subsections (a) \[amending this section\] and (b) \[amending section 873 of this title\] shall apply to taxable years beginning after December 31, 1971.”
 
 #### Effective Date of 1969 Amendment
 
-Section 912(b) of Pub. L. 91–172 provided that: “The amendment made by subsection (a) of this section \[amending this section\] shall apply to taxable years beginning after December 31, 1969.”
+Pub. L. 91–172, title IX, §912(b), Dec. 30, 1969, 83 Stat. 722, provided that: “The amendment made by subsection (a) of this section \[amending this section\] shall apply to taxable years beginning after December 31, 1969.”
 
 #### Effective Date of 1967 Amendment
 
-Section 2 of Pub. L. 90–78 provided that: “The amendments made by the first section of this Act \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1966.”
+Pub. L. 90–78, §2, Aug. 31, 1967, 81 Stat. 192, provided that: “The amendments made by the first section of this Act \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1966.”
 
 #### Effective Date of 1959 Amendment
 
-Section 1(b) of Pub. L. 86–376 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1958.”
+Pub. L. 86–376, §1(b), Sept. 23, 1959, 73 Stat. 699, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1958.”
 
 #### Effective Date of 1958 Amendment
 
 Amendment by section 4(a), (c) of Pub. L. 85–866 applicable to taxable years beginning after Dec. 31, 1953, and ending after Aug. 16, 1954, see section 1(c)(1) of Pub. L. 85–866, set out as a note under section 165 of this title.
 
-Section 4(d) of Pub. L. 85–866 provided that: “The amendment made by subsection (b) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1957.”
+Pub. L. 85–866, §4(d), Sept. 2, 1958, 72 Stat. 1607, provided that: “The amendment made by subsection (b) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1957.”
 
 #### Effective Date of 1955 Amendment
 
-Section 3(b) of act Aug. 9, 1955, provided that: “The amendment made by section 2 of this Act \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1953, and ending after August 16, 1954.”
+Act Aug. 9, 1955, ch. 693, §3(b), 69 Stat. 626, provided that: “The amendment made by section 2 of this Act \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1953, and ending after August 16, 1954.”
 

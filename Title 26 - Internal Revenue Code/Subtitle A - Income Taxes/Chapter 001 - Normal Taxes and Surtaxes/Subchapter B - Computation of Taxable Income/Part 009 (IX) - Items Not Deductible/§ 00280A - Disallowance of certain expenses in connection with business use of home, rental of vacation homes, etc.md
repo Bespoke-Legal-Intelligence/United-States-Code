@@ -198,7 +198,7 @@ The date of enactment of the Tax Reduction and Simplification Act of 1977, refer
 
 #### Amendments
 
-<b>1997</b>—Subsec. (c)(1). Pub. L. 105–34, §932(a), inserted at end “For purposes of subparagraph (A), the term ‘principal place of business’ includes a place of business which is used by the taxpayer for the administrative ormanagement activities of any trade or business of the taxpayer if there is no other fixed location of such trade or business where the taxpayer conducts substantial administrative or management activities of such trade or business.”
+<b>1997</b>—Subsec. (c)(1). Pub. L. 105–34, §932(a), inserted at end “For purposes of subparagraph (A), the term ‘principal place of business’ includes a place of business which is used by the taxpayer for the administrative or management activities of any trade or business of the taxpayer if there is no other fixed location of such trade or business where the taxpayer conducts substantial administrative or management activities of such trade or business.”
 
 Subsec. (d)(4)(A). Pub. L. 105–34, §312(d)(1), substituted “section 121” for “section 1034”.
 
@@ -234,11 +234,11 @@ Subsec. (f)(4). Pub. L. 97–119, §113(b)(1), added par. (4).
 
 Amendment by section 312(d)(1) of Pub. L. 105–34 applicable to sales and exchanges after May 6, 1997, with certain exceptions, see section 312(d) of Pub. L. 105–34, set out as a note under section 121 of this title.
 
-Section 932(b) of Pub. L. 105–34 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1998.”
+Pub. L. 105–34, title IX, §932(b), Aug. 5, 1997, 111 Stat. 881, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1998.”
 
 #### Effective Date of 1996 Amendment
 
-Section 1113(b) of Pub. L. 104–188 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1995.”
+Pub. L. 104–188, title I, §1113(b), Aug. 20, 1996, 110 Stat. 1759, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1995.”
 
 #### Effective Date of 1988 Amendment
 
@@ -248,7 +248,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 151(a) of Pub. L. 99–514, set out as a note under section 1 of this title.
 
-#### Effective Dates of 1982 Amendments
+#### Effective Dates of 1982 Amendment
 
 Amendment by Pub. L. 97–354 applicable to taxable years beginning after Dec. 31, 1982, see section 6(a) of Pub. L. 97–354, set out as an Effective Date note under section 1361 of this title.
 
@@ -256,17 +256,17 @@ Amendment by Pub. L. 97–216 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1981 Amendment
 
-Section 113(e) of Pub. L. 97–119 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1975, except that in the case of taxable years beginning after December 31, 1975, and before January 1, 1980, the amendment made by this section shall apply only to taxable years for which, on the date of the enactment of this Act \[Dec. 29, 1981\], the making of a refund, or the assessment of a deficiency, was not barred by law or any rule of law.”
+Pub. L. 97–119, title I, §113(e), Dec. 29, 1981, 95 Stat. 1642, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1975, except that in the case of taxable years beginning after December 31, 1975, and before January 1, 1980, the amendment made by this section shall apply only to taxable years for which, on the date of the enactment of this Act \[Dec. 29, 1981\], the making of a refund, or the assessment of a deficiency, was not barred by law or any rule of law.”
 
 #### Effective Date of 1978 Amendment
 
-Section 701(h)(2) of Pub. L. 95–600, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect as if included in section 280A of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as such provision was added to such Code by section 601(a) of the Tax Reform Act of 1976 \[Pub. L. 94–455, title VI, §601(a), Oct. 4, 1976, 90 Stat. 1569\].”
+Pub. L. 95–600, title VII, §701(h)(2), Nov. 6, 1978, 92 Stat. 2904, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect as if included in section 280A of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as such provision was added to such Code by section 601(a) of the Tax Reform Act of 1976 \[Pub. L. 94–455, title VI, §601(a), Oct. 4, 1976, 90 Stat. 1569\].”
 
 #### Effective Date of 1977 Amendment
 
-Section 306(c) of Pub. L. 95–30 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1975.”
+Pub. L. 95–30, title III, §306(c), May 23, 1977, 91 Stat. 153, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1975.”
 
 #### Effective Date
 
-Section 601(c) of Pub. L. 94–455 provided that: “The amendments made by this section \[enacting this section and amending the analysis of sections preceding section 261 of this title\] shall apply to taxable years beginning after December 31, 1975.”
+Pub. L. 94–455, title VI, §601(c), Oct. 4, 1976, 90 Stat. 1572, provided that: “The amendments made by this section \[enacting this section and amending the analysis of sections preceding section 261 of this title\] shall apply to taxable years beginning after December 31, 1975.”
 

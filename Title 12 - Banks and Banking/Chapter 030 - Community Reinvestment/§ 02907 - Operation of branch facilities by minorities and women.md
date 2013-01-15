@@ -34,7 +34,7 @@ For purposes of this section—
 
 #### References in Text
 
-Section 1204(c)(3) of the Financial Institutions Reform, Recovery and Enforcement Act of 1989, referred to in subsec. (b)(3), is section 1204(c)(3) of Pub. L. 101–73, which is set out as a note under section 1811 of this title.
+Section 1204(c)(3) of the Financial Institutions Reform, Recovery and Enforcement Act of 1989, referredto in subsec. (b)(3), is section 1204(c)(3) of Pub. L. 101–73, which is set out as a note under section 1811 of this title.
 
 #### Amendments
 

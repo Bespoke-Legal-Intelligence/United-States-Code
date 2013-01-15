@@ -46,7 +46,7 @@ In making any finding under subsection (a) of this section or under subsection (
 
 (B) Whenever the Secretary of State receives information that the Commission on Narcotic Drugs of the United Nations proposes to decide whether to add a drug or other substance to one of the schedules of the Convention, transfer a drug or substance from one schedule to another, or delete it from the schedules, the Secretary of State shall transmit timely notice to the Secretary of Health and Human Services of such information who shall publish a summary of such information in the Federal Register and provide opportunity to interested persons to submit to him comments respecting the recommendation which he is to furnish, pursuant to this subparagraph, respecting such proposal. The Secretary of Health and Human Services shall evaluate the proposal and furnish a recommendation to the Secretary of State which shall be binding on the representative of the United States in discussions and negotiations relating to the proposal.
 
-(3) When the United States receives notification of a scheduling decision pursuant to article 2 of the Convention on Psychotropic Substances that a drug or other substance has been added or transferred to a schedule specified in the notification or receives notification (referred to in this subsection as a “schedule notice”) that existing legal controls applicable under this subchapter to a drug or substance and the controls required by the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\] do not meet the requirements of the schedule of the Convention in which such drug or substance has been placed, the Secretary of Health and Human Services after consultation with the Attorney General, shall first determine whether existing legal controls under this subchapter applicable to the drug or substance and the controls required by the Federal Food, Drug, and Cosmetic Act, meet the requirements of the schedule specified in the notification or schedule notice and shall take the following action:
+(3) When the United States receives notification of a scheduling decision pursuant to article 2 of the Convention on Psychotropic Substances that a drug or other substance has been added or transferred to a schedule specified in the notification or receives notification (referred to in this subsection as a “schedule notice”) that existing legal controls applicable under this subchapter to a drug or substance and the controls required by the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\] do not meet the requirements of the schedule of the Convention in which such drug or substance has been placed, the Secretary of Health and Human Services after consultation with the Attorney General, shall first determine whether existing legal controls under this subchapter applicable to the drug or substance and the controls required bythe Federal Food, Drug, and Cosmetic Act, meet the requirements of the schedule specified in the notification or schedule notice and shall take the following action:
 
 &emsp;(A) If such requirements are met by such existing controls but the Secretary of Health and Human Services nonetheless believes that more stringent controls should be applied to the drug or substance, the Secretary shall recommend to the Attorney General that he initiate proceedings for scheduling the drug or substance, pursuant to subsections (a) and (b) of this section, to apply to such controls.
 
@@ -56,7 +56,7 @@ In making any finding under subsection (a) of this section or under subsection (
 
 &emsp;&emsp;(i) if he deems that additional controls are necessary to protect the public health and safety, recommend to the Attorney General that he initiate proceedings for scheduling the drug or substance pursuant to subsections (a) and (b) of this section, to apply such additional controls;
 
-&emsp;&emsp;(ii) request the Secretary of State to transmit a notice of qualified acceptance, within the period specified in the Convention, pursuant to paragraph 7 of article 2 ofthe Convention, to the Secretary-General of the United Nations;
+&emsp;&emsp;(ii) request the Secretary of State to transmit a notice of qualified acceptance, within the period specified in the Convention, pursuant to paragraph 7 of article 2 of the Convention, to the Secretary-General of the United Nations;
 
 &emsp;&emsp;(iii) request the Secretary of State to transmit a notice of qualified acceptance as prescribed in clause (ii) and request the Secretary of State to ask for a review by the Economic and Social Council of the United Nations, in accordance with paragraph 8 of article 2 of the Convention, of the scheduling decision; or
 
@@ -70,7 +70,7 @@ In making any finding under subsection (a) of this section or under subsection (
 
 &emsp;(ii) the drug or substance subject to such decision is not required to be controlled under schedule IV or V to carry out the minimum United States obligations under paragraph 7 of article 2 of the Convention,
 
-> the order issued under this subparagraph with respect to such drug or substance shall expire upon receipt by the United States of the review decision. If, as a result of action taken pursuant to action initiated under a request transmitted under clause (iv) of paragraph (3)(C), the drug or substance with respect to which such action was taken is not required to be controlled under schedule IV or V, the order issued under this paragraph with respect to such drug or substance shall expire upon receipt by the United States of a notice of the action taken with respect to such drug or substance under the Convention.
+> the order issued under this subparagraph with respect to such drug or substance shall expire upon receipt by the United States of the review decision. If, as a result of action taken pursuantto action initiated under a request transmitted under clause (iv) of paragraph (3)(C), the drug or substance with respect to which such action was taken is not required to be controlled under schedule IV or V, the order issued under this paragraph with respect to such drug or substance shall expire upon receipt by the United States of a notice of the action taken with respect to such drug or substance under the Convention.
 
 (C) An order issued under subparagraph (A) or (B) may be issued without regard to the findings required by subsection (a) of this section or by section 812(b) of this title and without regard to the procedures prescribed by subsection (a) or (b) of this section.
 
@@ -78,7 +78,7 @@ In making any finding under subsection (a) of this section or under subsection (
 
 #### (e) Immediate precursors
 
-The Attorney General may, without regard to the findings required by subsection (a) of this section or section 812(b) of this title and without regard to the procedures prescribed by subsections (a) and (b) of this section, place an immediate precursor in the same schedule in which the controlled substance of which it is an immediate precursor is placed or in any other schedule with a higher numerical designation. If the Attorney General designates a substance as an immediate precursor and places it in a schedule,other substances shall not be placed in a schedule solely because they are its precursors.
+The Attorney General may, without regard to the findings required by subsection (a) of this section or section 812(b) of this title and without regard to the procedures prescribed by subsections (a) and (b) of this section, place an immediate precursor in the same schedule in which the controlled substance of which it is an immediate precursor is placed or in any other schedule with a higher numerical designation. If the Attorney General designates a substance as an immediate precursor and places it in a schedule, other substances shall not be placed in a schedule solely because they are its precursors.
 
 #### (f) Abuse potential
 
@@ -106,7 +106,7 @@ If, at the time a new-drug application is submitted to the Secretary for any dru
 
 &emsp;(B) the date the Attorney General has transmitted the notice required by paragraph (4).
 
-(2) The scheduling of a substance under this subsection shall expire at the end of one year from the date of the issuance of the order scheduling such substance, except that the Attorney General may, during the pendency of proceedings under subsection (a)(1) of this section with respect to the substance, extend the temporary scheduling for up to six months.
+(2) The scheduling of a substance under this subsection shall expire at the end of 2 years from the date of the issuance of the order scheduling such substance, except that the Attorney General may, during the pendency of proceedings under subsection (a)(1) of this section with respect to the substance, extend the temporary scheduling for up to 1 year.
 
 (3) When issuing an order under paragraph (1), the Attorney General shall be required to consider, with respect to the finding of an imminent hazard to the public safety, only those factors set forth in paragraphs (4), (5), and (6) of subsection (c) of this section, including actual abuse, diversion from legitimate channels, and clandestine importation, manufacture, or distribution.
 
@@ -116,7 +116,7 @@ If, at the time a new-drug application is submitted to the Secretary for any dru
 
 (6) An order issued under paragraph (1) is not subject to judicial review.
 
-(Pub. L. 91–513, title II, §201, Oct. 27, 1970, 84 Stat. 1245; Pub. L. 95–633, title I, §102(a), Nov. 10, 1978, 92 Stat. 3769; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 98–473, title II, §§508, 509(a), Oct. 12, 1984, 98 Stat. 2071, 2072; Pub. L. 108–358, §2(b), Oct. 22, 2004, 118 Stat. 1663.)
+(Pub. L. 91–513, title II, §201, Oct. 27, 1970, 84 Stat. 1245; Pub. L. 95–633, title I, §102(a), Nov. 10, 1978, 92 Stat. 3769; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 98–473, title II, §§508, 509(a), Oct. 12, 1984, 98 Stat. 2071, 2072; Pub. L. 108–358, §2(b), Oct. 22, 2004, 118 Stat. 1663; Pub. L. 112–144, title XI, §1153, July 9, 2012, 126 Stat. 1132.)
 
 #### References in Text
 
@@ -126,11 +126,13 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (d)(3) and (g)
 
 Schedules I, IV, and V, referred to in subsecs. (d)(4)(A), (B), and (h)(1), are set out in section 812(c) of this title.
 
-The Psychotropic Substances Act of 1978, referred to in subsec. (d)(5), is Pub. L. 95–633, Nov. 10, 1978, 92 Stat.3768, which enacted sections 801a, 830, and 852 of this title, amended sections 352, 802, 811, 812, 823, 827, 841 to 843, 872, 881, 952, 953, and 965 of this title and section 242a of Title 42, The Public Health and Welfare, repealed section 830 of this title effective Jan. 1, 1981, and enacted provisions set out as notes under sections 801, 801a, 812, and 830 of this title. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 801 of this title and Tables.
+The Psychotropic Substances Act of 1978, referred to in subsec. (d)(5), is Pub. L. 95–633, Nov. 10, 1978, 92 Stat. 3768, which enacted sections 801a, 830, and 852 of this title, amended sections 352, 802, 811, 812, 823, 827, 841 to 843, 872, 881, 952, 953, and 965 of this title and section 242a of Title 42, The Public Health and Welfare, repealed section 830 of this title effective Jan. 1, 1981, and enacted provisions set out as notes under sections 801, 801a, 812, and 830 of this title. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 801 of this title and Tables.
 
 This subchapter and subchapter II of this chapter, referred to in subsec. (g)(1), was in the original “titles II and III of the Comprehensive Drug Abuse Prevention and Control Act”, which was translated as meaning titles II and III of the Comprehensive Drug Abuse Prevention and Control Act of 1970, Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, 1285, as amended, to reflect the probable intent of Congress. Title II is classified principally to this subchapter and part A of title III comprises subchapter II of this chapter. For complete classification of this Act to the Code, see Short Title notes set out under section 801 of this title and Tables.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (h)(2). Pub. L. 112–144 substituted “2 years” for “one year” and “1 year” for “six months”.
 
 <b>2004</b>—Subsec. (g)(1). Pub. L. 108–358, §2(b)(1), substituted “drug which contains a controlled substance from the application of this subchapter and subchapter II of this chapter if such drug” for “substance from a schedule if such substance”.
 

@@ -22,11 +22,11 @@ The Secretary may make grants, from allocations made under section 7423 of this 
 
 #### (1) In general
 
-&emsp;If a local educational agency that is otherwise eligible for a grant under this subpart does not establish a committee under section 7424(c)(4) of this title for such grant, an Indian tribe that represents not less than ½ of the eligible Indian children who are served by such local educational agency may apply for such grant.
+&emsp;If a local educational agency that is otherwise eligible for a grant under this subpartdoes not establish a committee under section 7424(c)(4) of this title for such grant, an Indian tribe that represents not less than ½ of the eligible Indian children who are served by such local educational agency may apply for such grant.
 
 #### (2) Special rule
 
-&emsp;The Secretary shall treat each Indian tribe applying for a grant pursuant to paragraph (1) as if such Indian tribe were a local educational agency for purposes of this subpart, except that any such tribe is not subject to section7424(c)(4), section 7428(c), or section 7429 of this title.
+&emsp;The Secretary shall treat each Indian tribe applying for a grant pursuant to paragraph (1) as if such Indian tribe were a local educational agency for purposes of this subpart, except that any such tribe is not subject to section 7424(c)(4), section 7428(c), or section 7429 of this title.
 
 (Pub. L. 89–10, title VII, §7112, as added Pub. L. 107–110, title VII, §701, Jan. 8, 2002, 115 Stat. 1908.)
 

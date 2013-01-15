@@ -1,4 +1,4 @@
-### §6209. Repealed. Pub. L. 105–277, div. G, subdiv. A, title XIII, §1323(<i>l</i>)(2), Oct. 21, 1998, 112 Stat. 2681–780
+### §6209. Repealed. Pub. L. 105–277, div. G, subdiv. A, title XIII, §1323(l)(2), Oct. 21, 1998, 112 Stat. 2681–780
 
 Section, Pub. L. 103–236, title III, §310, Apr. 30, 1994, 108 Stat. 442, related to transition of transfer of functions from Board for International Broadcasting to United States Information Agency, Board, or Bureau.
 

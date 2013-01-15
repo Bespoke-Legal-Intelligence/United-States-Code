@@ -76,7 +76,7 @@ In the case of any controlled foreign corporation, the amount determined under t
 
 &emsp;&emsp;(B) property located in the United States which is purchased in the United States for export to, or use in, foreign countries;
 
-&emsp;&emsp;(C) any obligation of a United States person arising in connection with the sale or processing of property if the amount of such obligation outstanding at no time during the taxable year exceeds the amount which would be ordinary and necessary to carry on the trade or business of both the other party to the sale or processing transaction and the United States person had the sale or processing transaction been made between unrelated persons;
+&emsp;&emsp;(C) any obligation of a United States person arising in connection with the sale or processing of property if the amount of suchobligation outstanding at no time during the taxable year exceeds the amount which would be ordinary and necessary to carry on the trade or business of both the other party to the sale or processing transaction and the United States person had the sale or processing transaction been made between unrelated persons;
 
 &emsp;&emsp;(D) any aircraft, railroad rolling stock, vessel, motor vehicle, or container used in the transportation of persons or property in foreign commerce and used predominantly outside the United States;
 
@@ -132,11 +132,11 @@ For purposes of subsection (a), a controlled foreign corporation shall, under re
 
 The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section, including regulations to prevent the avoidance of the provisons <sup>2</sup> of this section through reorganizations or otherwise.
 
-(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1015; amended Pub. L. 94–455, title X, §1021(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1618, 1834; Pub. L. 98–369, div. A, title I, §123(b), title VIII, §801(d)(8), July 18, 1984, 98 Stat. 646, 996; Pub. L. 99–514, title XVIII, §1810(c)(1), Oct. 22, 1986, 100 Stat. 2824; Pub. L. 103–66, title XIII, §13232(a), (b), Aug. 10, 1993, 107 Stat. 501; Pub. L. 104–188, title I, §1501(b)(2), (3), Aug. 20, 1996, 110 Stat. 1825; Pub. L. 105–34, title XI, §1173(a), title XVI, §1601(e), Aug. 5, 1997, 111 Stat. 988, 1090; Pub. L. 108–357, title IV, §407(a), (b), title VIII, §837(a), Oct. 22, 2004, 118 Stat. 1498, 1499, 1596; Pub. L. 110–172, §11(g)(15)(A), Dec. 29, 2007, 121 Stat. 2490.)
+(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1015; amended Pub. L. 94–455, title X, §1021(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1618, 1834; Pub. L. 98–369, div. A, title I,§123(b), title VIII, §801(d)(8), July 18, 1984, 98 Stat. 646, 996; Pub. L. 99–514, title XVIII, §1810(c)(1), Oct. 22, 1986, 100 Stat. 2824; Pub. L. 103–66, title XIII, §13232(a), (b), Aug. 10, 1993, 107 Stat. 501; Pub. L. 104–188, title I, §1501(b)(2), (3), Aug. 20, 1996, 110 Stat. 1825; Pub. L. 105–34, title XI, §1173(a), title XVI, §1601(e), Aug. 5, 1997, 111 Stat. 988, 1090; Pub. L. 108–357, title IV, §407(a), (b), title VIII, §837(a), Oct. 22, 2004, 118 Stat. 1498, 1499, 1596; Pub. L. 110–172, §11(g)(15)(A), Dec. 29, 2007, 121 Stat. 2490.)
 
 #### References in Text
 
-Section 953(a)(1), referred to in subsec. (c)(2)(E), was subsequently amended, and section 953(a)(1) no longerdescribes contracts. However, contracts are described elsewhere in that section.
+Section 953(a)(1), referred to in subsec. (c)(2)(E), was subsequently amended, and section 953(a)(1) no longer describes contracts. However, contracts are described elsewhere in that section.
 
 #### Amendments
 
@@ -182,7 +182,7 @@ Pub. L. 108–357, title VIII, §837(b), Oct. 22, 2004, 118 Stat. 1596, provided
 
 #### Effective Date of 1997 Amendment
 
-Section 1173(b) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years of foreign corporations beginning after December 31, 1997, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end.”
+Pub. L. 105–34, title XI, §1173(b), Aug. 5, 1997, 111 Stat. 989, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years of foreign corporations beginning after December 31, 1997, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end.”
 
 Amendment by section 1601(e) of Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 23 of this title.
 
@@ -206,7 +206,7 @@ Amendment by section 801(d)(8) of Pub. L. 98–369 applicable to transactions af
 
 #### Effective Date of 1976 Amendment
 
-Section 1021(c) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[amending this section and section 958 of this title\] shall apply to taxable years of foreign corporations beginning after December 31, 1975, and to taxable years of United States shareholders (within the meaning of section 951(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) within which or with which such taxable years of such foreign corporations end. In determining for purposes of any taxable year referred to in the preceding sentence the amount referred to in section 956(a)(2)(A) of the Internal Revenue Code of 1986 for the last taxable year of a corporation beginning before January 1, 1976, the amendments made by this section shall be deemed also to apply to such last taxable year.”
+Pub. L. 94–455, title X, §1021(c), Oct. 4, 1976, 90 Stat. 1619, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[amending this section and section 958 of this title\] shall apply to taxable years of foreign corporations beginning after December 31, 1975, and to taxable years of United States shareholders (within the meaning of section 951(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) within which or with which such taxable years of such foreign corporationsend. In determining for purposes of any taxable year referred to in the preceding sentence the amount referred to in section 956(a)(2)(A) of the Internal Revenue Code of 1986 for the last taxable year of a corporation beginning before January 1, 1976, the amendments made by this section shall be deemed also to apply to such last taxable year.”
 
 #### Plan Amendments Not Required Until January 1, 1989
 

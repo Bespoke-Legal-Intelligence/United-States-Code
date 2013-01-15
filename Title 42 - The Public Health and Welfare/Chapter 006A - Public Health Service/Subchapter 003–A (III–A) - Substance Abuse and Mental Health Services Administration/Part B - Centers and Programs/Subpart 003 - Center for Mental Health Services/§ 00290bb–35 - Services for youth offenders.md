@@ -42,7 +42,7 @@ In this section:
 
 #### (f) Authorization of appropriations
 
-There is authorized to be appropriated to carry out this section $40,000,000 for fiscal year2001, and such sums as may be necessary for each of fiscal years 2002 and 2003.
+There is authorized to be appropriated to carry out this section $40,000,000 for fiscal year 2001, and such sums as may be necessary for each of fiscal years 2002 and 2003.
 
 (July 1, 1944, ch. 373, title V, §520D, as added Pub. L. 106–310, div. B, title XXXI, §3107, Oct. 17, 2000, 114 Stat. 1179.)
 

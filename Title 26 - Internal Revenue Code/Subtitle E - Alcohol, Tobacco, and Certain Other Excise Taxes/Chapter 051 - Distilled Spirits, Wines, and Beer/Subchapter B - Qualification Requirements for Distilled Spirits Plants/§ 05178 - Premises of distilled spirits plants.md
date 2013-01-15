@@ -30,7 +30,7 @@
 
 #### (4) Processing operations
 
-&emsp;Any person establishing a distilled spirits plant may, as described in the application forregistration, process distilled spirits on the bonded premises of such plant.
+&emsp;Any person establishing a distilled spirits plant may, as described in the application for registration, process distilled spirits on the bonded premises of such plant.
 
 #### (b) Use of premises for other businesses
 

@@ -48,7 +48,7 @@ The prohibition in subsection (a) shall apply to any insured depository institut
 
 #### (3) Limitation on credit default swaps
 
-&emsp;Acting as a swaps entity for credit default swaps, including swaps or security-based swaps referencing the credit risk of asset-backed securities as defined in section 3(a)(77) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(77)) (as amended by this Act) shall not be considered a bank permissible activity for purposes of subsection (d)(2) unless such swaps or security-based swaps are cleared by a derivatives clearing organization (as such term is defined in section la of the Commodity Exchange Act (7 U.S.C. la)) or a clearing agency (as such term is defined in section 3 of the Securities Exchange Act (15 U.S.C. 78c)) that is registered, or exempt from registration, as a derivatives clearing organization under the Commodity Exchange Act or as a clearing agency under the Securities Exchange Act, respectively.
+&emsp;Acting as a swaps entity for credit default swaps, including swaps or security-based swaps referencing the credit risk of asset-backed securities as defined in section 3(a)(77) <sup>1</sup> of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(77)) (as amended by this Act) shall not be considered a bank permissible activity for purposes of subsection (d)(2) unless such swaps or security-based swaps are cleared by a derivatives clearing organization (as such term is defined in section la of the Commodity Exchange Act (7 U.S.C. la)) or a clearing agency (as such term is defined in section 3 of the Securities Exchange Act (15 U.S.C. 78c)) that is registered, or exempt from registration, as a derivatives clearing organization under the Commodity Exchange Act or as a clearing agency under the Securities Exchange Act, respectively.
 
 #### (e) Existing swaps and security-based swaps
 
@@ -60,7 +60,7 @@ To the extent an insured depository institution qualifies as a “swaps entity�
 
 #### (g) Excluded entities
 
-For purposes of this section, the term “swaps entity” shall not include any insured depositoryinstitution under the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\] or a covered financial company under title II which is in a conservatorship, receivership, or a bridge bank operated by the Federal Deposit Insurance Corporation.
+For purposes of this section, the term “swaps entity” shall not include any insured depository institution under the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\] or a covered financial company under title II which is in a conservatorship, receivership, or a bridge bank operated by the Federal Deposit Insurance Corporation.
 
 #### (h) Effective date
 
@@ -108,7 +108,7 @@ In prescribing rules, the prudential regulator for a swaps entity shall consider
 
 &emsp;(5) Systems for controlling the swaps entity's participation or entry into in <sup>2</sup> new markets and products.
 
-#### (<i>l</i>) Authority of the Financial Stability Oversight Council
+#### (l) Authority of the Financial Stability Oversight Council
 
 The Financial Stability Oversight Council may determine that,<sup>3</sup> when other provisions established by this Act are insufficient to effectively mitigate systemic risk and protect taxpayers, that swaps entities may no longer access Federal assistance with respect to any swap, security-based swap, or other activity of the swaps entity. Any such determination by the Financial Stability Oversight Council of a prohibition of federal assistance shall be made on an institution-by-institution basis, and shall require the vote of not fewer than two-thirds of the members of the Financial Stability Oversight Council, which must include the vote by the Chairman of the Council, the Chairman of the Board of Governors of the Federal Reserve System, and the Chairperson of the Federal Deposit Insurance Corporation. Notice and hearing requirements for such determinations shall be consistent with the standards provided in title I.
 
@@ -124,7 +124,7 @@ The Commodity Exchange Act, referred to in subsecs. (b)(2)(A)(i) and (d)(3), is 
 
 The Securities Exchange Act of 1934, referred to in subsecs. (b)(2)(A)(ii) and (d)(3), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
 
-Section 3(a)(77) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(77)) (as amended by this Act), referred to in subsec. (d)(3), is section 3(a)(77) of act June 6, 1934, as amended by Pub. L. 111–203, which is classified to section 78c(a)(77) of this title.
+Section 3(a)(77) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(77)) (as amended by this Act), referred to in subsec. (d)(3), was section 3(a)(77) of act June 6, 1934, as amended by Pub. L. 111–203, which was redesignated section 3(a)(79) of the Act by Pub. L. 112–106, title I, §101(b)(1), Apr. 5, 2012, 126 Stat. 307, and is classified to section 78c(a)(79) of this title.
 
 The Federal Deposit Insurance Act, referred to in subsec. (g), is act Sept. 21, 1950, ch. 967, §2, 64 Stat. 873, which is classified generally to chapter 16 (§1811 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of Title 12 and Tables.
 
@@ -134,9 +134,9 @@ For the date on which this Act is effective, referred to in subsec. (h), see sec
 
 This title, referred to in subsec. (i)(3), is title VII of Pub. L. 111–203, July 21, 2010, 124 Stat. 1641, known as the Wall Street Transparency and Accountability Act of 2010, which enacted this chapter and enacted and amended numerous other sections and notes in the Code. For complete classification of title VII to the Code, see Short Title note set out under section 8301 of this title and Tables.
 
-This Act, referred to in subsec. (<i>l</i>), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376, known as the Dodd-Frank Wall Street Reform and Consumer Protection Act. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 12, Banks and Banking, and Tables.
+This Act, referred to in subsec. (l), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376, known as the Dodd-Frank Wall Street Reform and Consumer Protection Act. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 12, Banks and Banking, and Tables.
 
-Title I, referred to in subsec. (<i>l</i>), is title I of Pub. L. 111–203, July 21, 2010, 124 Stat. 1391, known as the Financial Stability Act of 2010, which is classified principally to subchapter I (§5311 et seq.) of chapter 53 of Title 12, Banks and Banking. For complete classification of title I to the Code, see Short Title note set out under section 5301 of Title 12 and Tables.
+Title I, referred to in subsec. (l), is title I of Pub. L. 111–203, July 21, 2010, 124 Stat. 1391, known as the Financial Stability Act of 2010, which is classified principally to subchapter I (§5311 et seq.) of chapter 53 of Title 12, Banks and Banking. For complete classification of title I to the Code, see Short Title note set out under section 5301 of Title 12 and Tables.
 
 Section 619 of the Dodd-Frank Wall Street Reform and Consumer Protection Act, referred to in subsec. (m), is section 619 of Pub. L. 111–203, which enacted section 1851 of Title 12, Banks and Banking.
 

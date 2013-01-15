@@ -2,7 +2,7 @@
 
 #### (a) Payment of wages prevailing in locality
 
-Any contract for loans, contributions, sale, or lease pursuant to this chapter shall contain a provision requiring that not less than the wages prevailing in the locality, as determined or adopted (subsequent to a determination under applicable State or local law) by the Secretary, shall be paid to all architects, technical engineers, draftsmen, and technicians employed in the development, and all maintenance laborers and mechanics employed in the operation, of the low-income housing project involved; and shall also contain a provision that not less than the wages prevailing in the locality, as predetermined by the Secretary of Labor pursuant to sections 3141–3144, 3146, and 3147 of title 40, shallbe paid to all laborers and mechanics employed in the development of the project involved (including a project with nine or more units assisted under section 1437f of this title, where the public housing agency or the Secretary and the builder or sponsor enter into agreement for such use before construction or rehabilitation is commenced), and the Secretary shall require certification as to compliance with the provisions of this section prior to making any payment under such contract.
+Any contract for loans, contributions, sale, or lease pursuant to this chapter shall contain a provision requiring that not less than the wages prevailing in the locality, as determined or adopted (subsequent to a determination under applicable State or local law) by the Secretary, shall be paid to all architects, technical engineers, draftsmen, and technicians employed in the development, and all maintenance laborers and mechanics employed in the operation, of the low-income housing project involved; and shall also contain a provision that not less than the wages prevailing in the locality, as predetermined by the Secretary of Labor pursuant to sections 3141–3144, 3146, and 3147 of title 40, shall be paid to all laborers and mechanics employed in the development of the project involved (including a project with nine or more units assisted under section 1437f of this title, where the public housing agency or the Secretary and the builder or sponsor enter into agreement for such use before construction or rehabilitation is commenced), and the Secretary shall require certification as to compliance with the provisions of this section prior to making any payment under such contract.
 
 #### (b) Exception for volunteers
 
@@ -20,7 +20,7 @@ Subsection (a) of this section and the provisions relating to wages (pursuant to
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2) and notwithstanding any other provision of law, each adult resident of a public housing project shall—
+&emsp;Except as provided in paragraph (2) and notwithstanding any other provision of law, eachadult resident of a public housing project shall—
 
 &emsp;&emsp;(A) contribute 8 hours per month of community service (not including political activities) within the community in which that adult resides; or
 
@@ -44,7 +44,7 @@ Subsection (a) of this section and the provisions relating to wages (pursuant to
 
 #### (A) Requirement
 
-&emsp;&emsp;For each public housing resident subject to the requirement under paragraph (1), the public housing agency shall, 30 days before the expiration of each lease term of the resident under section 1437d(<i>l</i>)(1) of this title, review and determine the compliance of the resident with the requirement under paragraph (1) of this subsection.
+&emsp;&emsp;For each public housing resident subject to the requirement under paragraph (1), the public housing agency shall, 30 days before the expiration of each lease term of the resident under section 1437d(l)(1) of this title, review and determine the compliance of the resident with the requirement under paragraph (1) of this subsection.
 
 #### (B) Due process
 
@@ -70,7 +70,7 @@ Subsection (a) of this section and the provisions relating to wages (pursuant to
 
 #### (5) Inclusion in plan
 
-&emsp;Each public housing agency shall include in its public housing agency plan a detailed description of the manner in which the agencyintends to implement and administer this subsection.
+&emsp;Each public housing agency shall include in its public housing agency plan a detailed description of the manner in which the agency intends to implement and administer this subsection.
 
 #### (6) Geographic location
 
@@ -124,7 +124,7 @@ Subsection (a) of this section and the provisions relating to wages (pursuant to
 
 #### (A) Requirement
 
-&emsp;&emsp;A public housing agency providing public housing dwelling units or tenant-based assistance under section 1437f of this title for covered families shall make its best efforts to enter into such cooperation agreements, with State, local, and other agencies providing assistance to covered families under welfare or public assistance programs, as may be necessary, to provide for such agencies totransfer information to facilitate administration of subsection (c) of this section and paragraphs (2), (3), and (4) of this subsection and other information regarding rents, income, and assistance that may assist a public housing agency or welfare or public assistance agency in carrying out its functions.
+&emsp;&emsp;A public housing agency providing public housing dwelling units or tenant-based assistance under section 1437f of this title for covered families shall make its best efforts to enter into such cooperation agreements, with State, local, and other agencies providing assistance to covered families under welfare or public assistance programs, as may be necessary, to provide for such agencies to transfer information to facilitate administration of subsection (c) of this section and paragraphs (2), (3), and (4) of this subsection and other information regarding rents, income, and assistance that may assist a public housing agency or welfare or public assistance agency in carrying out its functions.
 
 #### (B) Contents
 
@@ -136,7 +136,7 @@ Subsection (a) of this section and the provisions relating to wages (pursuant to
 
 #### (e) Lease provisions
 
-A public housing agency shall incorporate into leases under section 1437d(<i>l</i>) of this title and into agreements for the provision of tenant-based assistance under section 1437f of this title, provisions incorporating the conditions under subsection (d) of this section.
+A public housing agency shall incorporate into leases under section 1437d(l) of this title and into agreements for the provision of tenant-based assistance under section 1437f of this title, provisions incorporating the conditions under subsection (d) of this section.
 
 #### (f) Treatment of income
 

@@ -10,7 +10,7 @@ The Administration is authorized, upon such terms and conditions as are deemed a
 
 #### (c) Full faith and credit of United States
 
-The full faith and credit of the United States is pledged to the payment of all amounts whichmay be required to be paid under any guarantee of such trust certificates issued by the Administration or its agent pursuant to this section.
+The full faith and credit of the United States is pledged to the payment of all amounts which may be required to be paid under any guarantee of such trust certificates issued by the Administration or its agent pursuant to this section.
 
 #### (d) Collection of fees
 
@@ -56,7 +56,7 @@ Amendment by Pub. L. 104–208 effective Oct. 1, 1996, see section 3 of Pub. L. 
 
 #### Rules and Regulations for Implementation of Central Registration, Pilot Program and Trust Certificate Provisions; Consultation
 
-Section 18008(d) of Pub. L. 99–272 provided that:
+Pub. L. 99–272, title XVIII, §18008(d), Apr. 7, 1986, 100 Stat. 368, provided that:
 
 “(1) Notwithstanding any law, rule, or regulation, within 60 days after the date of enactment of this Act \[Apr. 7, 1986\], the Small Business Administration shall develop and promulgate final rules and regulations to implement the central registration provisions provided for in section 505(f)(1) of the Small Business Investment Act \[15 U.S.C. 697b(f)(1)\], and shall contract with an agent for an initial period of not to exceed two years to carry out the functions provided for in section 505(f)(2) of such Act.
 

@@ -82,7 +82,7 @@ The Secretary shall provide payment for obligations incurred by the Secretary un
 
 #### (C) Local preference
 
-&emsp;&emsp;In determining the acceptability of contract offers for new enrollments, the Secretary shall accept, to the maximum extent practicable, an offer from an owner or operator that is a resident of the county in which the land is located or of a contiguous countyif, as determined by the Secretary, the land would provide at least equivalent conservation benefits to land under competing offers.
+&emsp;&emsp;In determining the acceptability of contract offers for new enrollments, the Secretary shall accept, to the maximum extent practicable, an offer from an owner or operator that is a resident of the county in which the land is located or of a contiguous county if, as determined by the Secretary, the land would provide at least equivalent conservation benefits to land under competing offers.
 
 #### (4) Hardwood tree acreage
 
@@ -122,7 +122,7 @@ The Secretary shall provide payment for obligations incurred by the Secretary un
 
 #### (A) Commodity Credit Corporation stocks
 
-&emsp;&emsp;If stocks of a commodity acquired by the Commodity Credit Corporation are not readily available to make full payment in kind to the owner or operator, the Secretary may substitute full or partial payment in cash for payment in kind.
+&emsp;&emsp;If stocks of a commodity acquired by the Commodity Credit Corporation are not readily available to make full payment in kind to the owner or operator, the Secretary maysubstitute full or partial payment in cash for payment in kind.
 
 #### (B) Special conservation reserve enhancement program
 
@@ -158,7 +158,7 @@ If an owner or operator that is entitled to a payment under a contract entered i
 
 In addition to any payment under this subpart, an owner or operator may receive cost share assistance, rental payments, or tax benefits from a State or subdivision thereof for enrolling land in the conservation reserve program.
 
-(Pub. L. 99–198, title XII, §1234, as added Pub. L. 107–171, title II, §2101(a), May 13, 2002, 116 Stat. 245; amended Pub. L. 110–234, title II, §§2109,2110(a), (b)(1), (c), May 22, 2008, 122 Stat. 1034, 1035; Pub. L. 110–246, §4(a), title II, §§2109, 2110(a), (b)(1), (c), June 18, 2008, 122 Stat. 1664, 1762, 1763.)
+(Pub. L. 99–198, title XII, §1234, as added Pub. L. 107–171, title II, §2101(a), May 13, 2002, 116 Stat. 245; amended Pub. L. 110–234, title II, §§2109, 2110(a), (b)(1), (c), May 22, 2008, 122 Stat. 1034, 1035; Pub. L. 110–246, §4(a), title II, §§2109, 2110(a), (b)(1), (c), June 18, 2008, 122 Stat. 1664, 1762, 1763.)
 
 #### References in Text
 
@@ -196,7 +196,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 #### First Survey Pursuant to Subsection (c)(5)
 
-Pub. L. 110–234, title II, §2110(b)(2), May 22, 2008, 122 Stat. 1035, and Pub. L. 110–246, §4(a), title II, §2110(b)(2), June 18, 2008, 122 Stat. 1664, 1763, provided that: “The first survey required by paragraph (5) of section 1234(c) of the Food Security Act of 1985 (16 U.S.C. 3834(c)), as added by subsection (a), shall be conducted not later than 1 year after the date of enactment of this Act \[June 18, 2008\].”
+Pub. L. 110–234, title II, §2110(b)(2), May 22, 2008, 122 Stat. 1035, and Pub. L. 110–246, §4(a), title II, §2110(b)(2), June 18, 2008, 122 Stat. 1664, 1763, provided that: “The first survey required by paragraph (5) of section 1234(c)of the Food Security Act of 1985 (16 U.S.C. 3834(c)), as added by subsection (a), shall be conducted not later than 1 year after the date of enactment of this Act \[June 18, 2008\].”
 
 \[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
 

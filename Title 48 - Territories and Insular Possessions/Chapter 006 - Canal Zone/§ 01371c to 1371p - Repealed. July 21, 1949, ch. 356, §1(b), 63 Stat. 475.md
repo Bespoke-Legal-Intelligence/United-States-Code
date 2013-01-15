@@ -18,19 +18,19 @@ Section 1371j, acts Mar. 2, 1931, ch. 375, §11, 46 Stat. 1477; Ex. Ord. No. 667
 
 Section 1371k, acts Mar. 2, 1931, ch. 375, §12, 46 Stat. 1478; Ex. Ord. No. 6670, Apr. 7, 1934; July 29, 1942, ch. 536, §5, 56 Stat. 728, related to payment of annuities.
 
-Section 1371<i>l</i>, acts Mar. 2, 1931, ch. 375, §13, 46 Stat. 1479; Aug. 10, 1937, ch. 573, 50 Stat. 619, related to benefits for those already retired.
+Section 1371l, acts Mar. 2, 1931, ch. 375, §13, 46 Stat. 1479; Aug. 10, 1937, ch. 573, 50 Stat. 619, related to benefits for those already retired.
 
 Section 1371m, acts Mar. 2, 1931, ch. 375, §14, 46 Stat. 1479; Ex. Ord. No. 6670, Apr. 7, 1934, related to Board of actuaries.
 
 Section 1371n, acts July 3, 1930, ch. 863, §2, 46 Stat. 1016; Mar. 2, 1931, ch. 375, §15, 46 Stat. 1479; Ex. Ord. No. 6670, eff. Apr. 7, 1934, related to administrative provisions.
 
-Section 1371<i>o</i>, act Mar. 2, 1931, ch. 375, §16, 46 Stat. 1480, related to exemption from execution.
+Section 1371o, act Mar. 2, 1931, ch. 375, §16, 46 Stat. 1480, related to exemption from execution.
 
 Section 1371p, acts July 3, 1930, ch. 863, §2, 46 Stat. 1016; Mar. 2, 1931, ch. 375, §17, 46 Stat. 1480; Ex. Ord. No. 6670, eff. Apr. 7, 1934, related to effective date of these sections.
 
 #### Effective Date of Repeal
 
-Repeal effective Apr. 1, 1948, see section 7(a) of act July 21, 1949.
+Repeal effective Apr. 1, 1948, see Act July 21, 1949, ch. 356, §7(a), 63 Stat. 476.
 
 #### Additional Repeal
 

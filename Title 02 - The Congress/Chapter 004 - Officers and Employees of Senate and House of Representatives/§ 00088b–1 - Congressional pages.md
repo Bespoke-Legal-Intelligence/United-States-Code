@@ -16,7 +16,7 @@ A person shall not serve as a page—
 
 &emsp;(2) of the House of Representatives before he has attained the age of sixteen years.
 
-(Pub. L. 91–510, title IV, §491(a)–(d), Oct. 26, 1970, 84 Stat. 1198; Pub. L. 97–51, §§101(c), 123, Oct. 1,1981, 95 Stat. 959, 965; Pub. L. 104–186, title II, §204(36), Aug. 20, 1996, 110 Stat. 1735; Pub. L. 108–447, div. G, title I, §9, Dec. 8, 2004, 118 Stat. 3170.)
+(Pub. L. 91–510, title IV, §491(a)–(d), Oct. 26, 1970, 84 Stat. 1198; Pub. L. 97–51, §§101(c), 123, Oct. 1, 1981, 95 Stat. 959, 965; Pub. L. 104–186, title II, §204(36), Aug. 20, 1996, 110 Stat. 1735; Pub. L. 108–447, div. G, title I, §9, Dec. 8, 2004, 118 Stat. 3170.)
 
 #### Codification
 
@@ -36,7 +36,7 @@ Subsec. (b). Pub. L. 104–186, §204(36)(B), substituted a period for “; or�
 
 Subsecs. (a), (c), and (d) of this section effective immediately prior to noon on Jan. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as an Effective Date of 1970 Amendment note under section 72a of this title.
 
-Section 491(f) of Pub. L. 91–510 provided that: “Subsection (b) of this section shall become effective on January 3, 1971, but the provisions of such subsection limiting service as a page to persons who have attained the age of sixteen years shall not be construed to prohibit the continued service of any page appointed prior to the date of enactment of this Act \[Oct. 26, 1970\].”
+Pub. L. 91–510, title IV, §491(f), Oct. 26, 1970, 84 Stat. 1198, provided that: “Subsection (b) of this section shall become effective on January 3, 1971, but the provisions of such subsection limiting service as a page to persons who have attained the age of sixteen years shall not be construed to prohibit the continued service of any page appointed prior to the date of enactment of this Act \[Oct. 26, 1970\].”
 
 #### Pay of Pages Between Recess or Adjournment
 

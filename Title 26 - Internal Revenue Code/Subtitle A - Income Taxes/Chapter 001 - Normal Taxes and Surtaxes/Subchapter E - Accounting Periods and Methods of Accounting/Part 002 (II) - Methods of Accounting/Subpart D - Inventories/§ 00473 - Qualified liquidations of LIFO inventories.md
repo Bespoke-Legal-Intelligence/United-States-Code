@@ -118,7 +118,7 @@ For purposes of this chapter—
 
 &emsp;&emsp;(B) the assessment of a deficiency, or the allowance of a credit or refund of an overpayment of tax attributable to such adjustment, for any taxable year, is otherwise prevented by the operation of any law or rule of law (other than section 7122, relating to compromises),
 
-> &emsp;then such deficiency may be assessed, or credit or refund allowed, within the period prescribed for assessing a deficiency or allowing a credit or refund for the replacement year if a notice for deficiency is mailed, or claim for refund is filed, within such period.
+> &emsp;then such deficiency may be assessed, or credit or refund allowed, within the period prescribed for assessing a deficiency or allowing acredit or refund for the replacement year if a notice for deficiency is mailed, or claim for refund is filed, within such period.
 
 #### (2) Interest
 
@@ -132,5 +132,5 @@ The Secretary shall prescribe such regulations as may be necessary to coordinate
 
 #### Effective Date
 
-Section 403(a)(3) of Pub. L. 96–223, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by paragraphs (1) and (2) \[enacting this section\] shall apply to qualified liquidations (within the meaning of section 473(c) of the InternalRevenue Code of 1986 \[formerly I.R.C. 1954\]) in taxable years ending after October 31, 1979.”
+Pub. L. 96–223, title IV, §403(a)(3), Apr. 2, 1980, 94 Stat. 304, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by paragraphs (1) and (2) \[enacting this section\] shall apply to qualified liquidations (within the meaning of section 473(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) in taxable years ending after October 31, 1979.”
 

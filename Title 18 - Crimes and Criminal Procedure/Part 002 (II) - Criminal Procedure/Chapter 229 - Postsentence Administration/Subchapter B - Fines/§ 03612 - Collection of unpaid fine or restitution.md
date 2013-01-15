@@ -176,7 +176,7 @@ Section effective Nov. 1, 1987, and applicable only to offenses committed after 
 
 #### Collection of Outstanding Fines
 
-Section 237 of Pub. L. 98–473 provided that:
+Pub. L. 98–473, title II, §237, Oct. 12, 1984, 98 Stat. 2033, provided that:
 
 “(a)(1) Except as provided in paragraph (2), for each criminal fine for which the unpaid balance exceeds $100 as of the effective date of this Act \[see section 235 of Pub. L. 98–473, as amended, set out as a note under section 3551 of this title\], the Attorney General shall, within one hundred and twenty days, notify the person by certified mail of his obligation, within thirty days after notification, to—
 

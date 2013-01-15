@@ -42,7 +42,7 @@ Each protection and advocacy system that receives a payment under this section s
 
 #### (1) Allocation of payments
 
-&emsp;Payments under this section shall be made from amounts made available for the administration of subchapter II of this chapter and amounts made available for the administration of subchapter XVI of this chapter, andshall be allocated among those amounts as appropriate.
+&emsp;Payments under this section shall be made from amounts made available for the administration of subchapter II of this chapter and amounts made available for the administration of subchapter XVI of this chapter, and shall be allocated among those amounts as appropriate.
 
 #### (2) Carryover
 

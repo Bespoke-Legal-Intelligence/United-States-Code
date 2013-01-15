@@ -64,7 +64,7 @@ The aggregate unpaid principal amounts of obligations under direct loans and loa
 
 #### (2) Loan guarantees
 
-&emsp;The Secretary shall not make a loan guarantee under this section if the interest rate for the loan exceeds that which the Secretary determines to be reasonable, taking into consideration the prevailing interest rates and customary fees incurred under similar obligations in the private capital market.
+&emsp;The Secretary shall not make a loan guarantee under this section if the interest rate forthe loan exceeds that which the Secretary determines to be reasonable, taking into consideration the prevailing interest rates and customary fees incurred under similar obligations in the private capital market.
 
 #### (f) Infrastructure partners
 
@@ -150,7 +150,7 @@ Section 410(a) of the Amtrak Reform and Accountability Act of 1997, referred to 
 
 #### Prior Provisions
 
-A prior section 822, Pub. L. 94–210, title V, §502, Feb. 5, 1976, 90 Stat. 67; Pub. L. 95–620, title VIII,§803(c)(2)–(4), Nov. 9, 1978, 92 Stat. 3347, related to the Rail Fund, prior to repeal by Pub. L. 105–178, title VII, §7203(a)(1), June 9, 1998, 112 Stat. 471.
+A prior section 822, Pub. L. 94–210, title V, §502, Feb. 5, 1976, 90 Stat. 67; Pub. L. 95–620, title VIII, §803(c)(2)–(4), Nov. 9, 1978, 92 Stat. 3347, related to the Rail Fund, prior to repeal by Pub. L. 105–178, title VII, §7203(a)(1), June 9, 1998, 112 Stat. 471.
 
 #### Amendments
 

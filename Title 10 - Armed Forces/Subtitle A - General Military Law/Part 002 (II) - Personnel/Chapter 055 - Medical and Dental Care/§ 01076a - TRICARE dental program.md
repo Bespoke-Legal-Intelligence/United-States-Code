@@ -6,7 +6,7 @@ Establishment of Dental Plans.—The Secretary of Defense may establish, and in 
 
 &emsp;(1)
 
-Plan for selected reserve and individual ready reserve.—A dental insurance plan for members of the Selected Reserve of the Ready Reserve and for members of the Individual Ready Reserve described in subsection 10144(b) of this title.
+Plan for selected reserve and individual ready reserve.—A dental insurance plan for members of the Selected Reserve of the Ready Reserve and for members of the Individual Ready Reserve described in subsection 10144(b) of this title. During the period beginning on the date of the enactment of this sentence and ending December 31, 2018, such plan shall provide that coverage for a member of the Selected Reserve who is involuntarily separated from the Selected Reserve under other than adverse conditions, as characterized by the Secretary concerned, shall not terminate earlier than 180 days after the date on which the member is separated.
 
 &emsp;(2)
 
@@ -14,7 +14,7 @@ Plan for other reserves.—A dental insurance plan for members of the Individual
 
 &emsp;(3)
 
-Plan for active duty dependents.—Dental benefits plans for eligible dependents of members of the uniformed services who are on active duty for a period of more than 30 days.
+Plan for active duty dependents.—Dental benefits plans for eligible dependents ofmembers of the uniformed services who are on active duty for a period of more than 30 days.
 
 &emsp;(4)
 
@@ -90,7 +90,7 @@ Waiver of Requirements for Surviving Dependents.—The Secretary of Defense may 
 
 (i)
 
-Authority Subject to Appropriations.—The authority of the Secretary of Defense to enter into a contract under this section for any fiscal year is subject to the availability of appropriations for that purpose.
+Authority Subject to Appropriations.—The authority of the Secretary of Defense toenter into a contract under this section for any fiscal year is subject to the availability of appropriations for that purpose.
 
 (j)
 
@@ -122,13 +122,19 @@ Eligible Dependent Defined.—(1) In this section, the term “eligible dependen
 
 &emsp;&emsp;(ii) The date on which such dependent attains 23 years of age.
 
-(Added Pub. L. 106–65, div. A, title VII, §711(a), Oct. 5, 1999, 113 Stat. 685; amended Pub. L. 106–398, §1 \[\[div. A\], title VII, §704(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–174; Pub. L. 107–314, div. A, title VII, §703, Dec. 2, 2002, 116 Stat. 2584; Pub. L. 108–375, div. A, title VII, §711, Oct. 28, 2004, 118 Stat. 1984; Pub. L. 109–163, div. A, title VII, §713, Jan. 6, 2006, 119 Stat. 3343; Pub. L. 110–417, \[div. A\], title VII, §735(b), Oct. 14, 2008, 122 Stat. 4514; Pub. L. 111–84, div. A, title VII, §704, Oct. 28, 2009, 123 Stat. 2373; Pub. L. 111–383, div. A, title VII, §703, Jan. 7, 2011, 124 Stat. 4245.)
+(Added Pub. L. 106–65, div. A, title VII, §711(a), Oct. 5, 1999, 113 Stat. 685; amended Pub. L. 106–398, §1 \[\[div. A\], title VII, §704(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–174; Pub. L. 107–314, div. A, title VII, §703, Dec. 2, 2002, 116 Stat. 2584; Pub. L. 108–375, div. A, title VII, §711, Oct. 28, 2004, 118 Stat. 1984; Pub. L. 109–163, div. A, title VII, §713, Jan. 6, 2006, 119 Stat. 3343; Pub. L. 110–417, \[div. A\], title VII, §735(b), Oct. 14, 2008, 122 Stat. 4514; Pub. L. 111–84, div. A, title VII, §704, Oct. 28, 2009, 123 Stat. 2373; Pub. L. 111–383, div. A, title VII, §703, Jan. 7, 2011, 124 Stat. 4245; Pub. L. 112–239, div. A, title VII, §701(b), Jan. 2, 2013, 126 Stat. 1798.)
+
+#### References in Text
+
+The date of the enactment of this sentence, referred to in subsec. (a)(1), is the date of enactment of Pub. L. 112–239, which was approved Jan. 2, 2013.
 
 #### Prior Provisions
 
 A prior section 1076a, added Pub. L. 99–145, title VI, §651(a)(1), Nov. 8, 1985, 99 Stat. 655; amended Pub. L. 99–661, div. A, title VII, §707(a), (b), Nov. 14, 1986, 100 Stat. 3905; Pub. L. 102–190, div. A, title VII, §701, Dec. 5, 1991, 105 Stat. 1399; Pub. L. 102–484, div. A, title VII, §701(a)–(e), Oct. 23, 1992, 106 Stat. 2430; Pub. L. 103–337, div. A, title VII, §§702(b), 703(a), 707(b), Oct. 5, 1994, 108 Stat. 2797, 2798, 2800; Pub. L. 105–85, div. A, title VII, §732, Nov. 18, 1997, 111 Stat. 1812; Pub. L. 105–261, div. A, title VII, §701(a)(1), (b), Oct. 17, 1998, 112 Stat. 2056; Pub. L. 106–65, div. A, title X, §1066(a)(8), Oct. 5, 1999, 113 Stat. 770; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(d)(4)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–293, related to dependents’ dental program, prior to repeal by Pub. L. 106–65, div. A, title VII, §711(a), Oct. 5, 1999, 113 Stat. 685.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (a)(1). Pub. L. 112–239 inserted at end “During the period beginning on the date of the enactment of this sentence and ending December 31, 2018, such plan shall provide that coverage for a member of the Selected Reserve who is involuntarily separated from the Selected Reserve under other than adverse conditions, as characterized by the Secretary concerned, shall not terminate earlier than 180 days after the date on which the member is separated.”
 
 <b>2011</b>—Subsec. (k)(2). Pub. L. 111–383 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Such term includes any such dependent of a member who dies while on active duty for a period of more than 30 days or a member of the Ready Reserve if, on the date of the death of the member, the dependent—
 

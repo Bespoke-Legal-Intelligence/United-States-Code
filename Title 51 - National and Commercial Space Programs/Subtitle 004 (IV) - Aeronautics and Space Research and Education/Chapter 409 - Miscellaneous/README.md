@@ -80,7 +80,7 @@ Space Communications Plan.—
 
 &emsp;“(1)
 
-Plan.—The Administrator shall develop a plan, in consultation with relevant Federal agencies, forupdating NASA's space communications architecture for both low-Earth orbital operations and deep space exploration so that it is capable of meeting NASA's needs over the next 20 years. The plan shall include life-cycle cost estimates, milestones, estimated performance capabilities, and 5-year funding profiles. The plan shall also include an estimate of the amounts of any reimbursements NASA is likely to receive from other Federal agencies during the expected life of the upgrades described in the plan. At a minimum, the plan shall include a description of the following:
+Plan.—The Administrator shall develop a plan, in consultation with relevant Federal agencies, for updating NASA's space communications architecture for both low-Earth orbital operations and deep space exploration so that it is capable of meeting NASA's needs over the next 20 years. The plan shall include life-cycle cost estimates, milestones, estimated performance capabilities, and 5-year funding profiles. The plan shall also include an estimate of the amounts of any reimbursements NASA is likely to receive from other Federal agencies during the expected life of the upgrades described in the plan. At a minimum, the plan shall include a description of the following:
 
 &emsp;&emsp;“(A) Projected Deep Space Network requirements for the next 20 years, including those in support of human space exploration missions.
 
@@ -126,7 +126,7 @@ Report.—Not later than one year after the date of enactment of this Act \[Dec.
 
 &emsp;&emsp;“(B) lists the research and development programs of Federal agencies other than NASA that were reviewed as part of the study, which shall include any program supporting research and development in an area related to the programs of NASA, and the most recent budget figures for those programs of other agencies;
 
-&emsp;&emsp;“(C) recommends any changes to the research and development programs of NASA that should be made in response to the findings of the study required by paragraph (1); and
+&emsp;&emsp;“(C) recommends any changes to the research and development programs of NASA that should bemade in response to the findings of the study required by paragraph (1); and
 
 &emsp;&emsp;“(D) describes mechanisms the Office of Science and Technology Policy will use to ensure adequate coordination between NASA and Federal agencies that operate related programs.
 

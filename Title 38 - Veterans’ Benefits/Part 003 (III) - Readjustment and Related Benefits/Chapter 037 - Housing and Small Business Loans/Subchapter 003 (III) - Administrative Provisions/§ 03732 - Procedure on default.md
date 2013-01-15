@@ -4,7 +4,7 @@
 
 (2)(A) Before suit or foreclosure the holder of the obligation shall notify the Secretary of the default, and within thirty days thereafter the Secretary may, at the Secretary's option, pay the holder of the obligation the unpaid balance of the obligation plus accrued interest and receive an assignment of the loan and security. Nothing in this section shall preclude any forebearance for the benefit of the veteran as may be agreed upon by the parties to the loan and approved by the Secretary.
 
-(B) In the event that a housing loan guaranteed under this chapter is modified under the authority provided under section 1322(b) of title 11, the Secretary may pay the holder of the obligation the unpaid principal balance of the obligation due, plus accrued interest, as of the date of the filing of the petition under title 11, but only upon the assignment, transfer, and delivery to the Secretary (in a form and manner satisfactory to the Secretary) of all rights, interest, claims, evidence, and records with respect to the housing loan.
+(B) In the event that a housing loan guaranteed under this chapter is modified under the authority provided under section 1322(b) of title 11, the Secretary may pay the holder of the obligation the unpaid principal balance of the obligation due, plus accrued interest, as of the date of the filing of the petition under title 11, butonly upon the assignment, transfer, and delivery to the Secretary (in a form and manner satisfactory to the Secretary) of all rights, interest, claims, evidence, and records with respect to the housing loan.
 
 (3) The Secretary may establish the date, not later than the date of judgment and decree of foreclosure or sale, upon which accrual of interest or charges shall cease.
 
@@ -34,7 +34,7 @@
 
 &emsp;(C) The term “net value”, with respect to real property, means the amount equal to (i) the fair market value of the property, minus (ii) the total of the amounts which the Secretary estimates the Secretary would incur (if the Secretary were to acquire and dispose of the property) for property taxes, assessments, liens, property maintenance, property improvement, administration, resale (including losses sustained on the resale of the property), and other costs resulting from the acquisition and disposition of the property, excluding any amount attributed to the cost to the Government of borrowing funds.
 
-&emsp;(D) Except as provided in subparagraph (D) of paragraph (10) of this subsection, the term“total indebtedness”, with respect to a defaulted loan, means the amount equal to the total of (i) the unpaid principal of the loan, (ii) the interest on the loan as of the date applicable under paragraph (10) of this subsection, and (iii) such reasonably necessary and proper charges (as specified in the loan instrument and permitted by regulations prescribed by the Secretary to implement this subsection) associated with liquidation of the loan, including advances for taxes, insurance, and maintenance or repair of the real property securing the loan.
+&emsp;(D) Except as provided in subparagraph (D) of paragraph (10) of this subsection, the term “total indebtedness”, with respect to a defaulted loan, means the amount equal to the total of (i) the unpaid principal of the loan, (ii) the interest on the loan as of the date applicable under paragraph (10) of this subsection, and (iii) such reasonably necessary and proper charges (as specified in the loan instrument and permitted by regulations prescribed by the Secretary to implement this subsection) associated with liquidation of the loan, including advances for taxes, insurance, and maintenance or repair of the real property securing the loan.
 
 (2)(A) Except as provided in subparagraph (B) of this paragraph, this subsection applies to any case in which the holder of a defaulted loan undertakes to liquidate the loan by means of a liquidation sale.
 
@@ -46,7 +46,7 @@
 
 (4) A case referred to in paragraphs (5), (6), and (7) of this subsection as being described in this paragraph is a case in which the net value of the property securing a defaulted loan exceeds the amount of the total indebtedness under the loan minus the amount guaranteed under this chapter.
 
-(5) In a case described in paragraph (4) of this subsection, if the holder of the defaulted loan acquires the property securing the loan at a liquidation sale for an amount that does not exceed the lesser of the net value of the property or the total indebtedness under the loan—
+(5) In a case described in paragraph (4) of this subsection, if the holder of the defaulted loanacquires the property securing the loan at a liquidation sale for an amount that does not exceed the lesser of the net value of the property or the total indebtedness under the loan—
 
 &emsp;(A) the holder shall have the option to convey the property to the United States in return for payment by the Secretary of an amount equal to the lesser of such net value or total indebtedness; and
 
@@ -86,11 +86,13 @@
 
 (D) For the purpose of determining the liability of the United States under a loan guaranty under paragraphs (5)(B), (6), (7)(B), and (8)(B), the amount of the total indebtedness with respect to such loan guaranty shall include, in any case in which there was an excessive delay caused by the Department of Veterans Affairs in the liquidation sale of the property securing such loan, any interest which had accrued as of the date of such sale and which would not be included, except for this subparagraph, in the calculation of such total indebtedness as a result of the specification of an earlier date under subparagraph (C)(i) of this paragraph.
 
-(11) This subsection shall apply to loans closed before October 1, 2012.
+(11) This subsection shall apply to loans closed before October 1, 2013.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1212, §1816(a)–(c); Pub. L. 89–117, title I, §107(f), Aug. 10, 1965, 79 Stat. 460; Pub. L. 94–324, §7(17), June 30, 1976, 90 Stat. 722; Pub. L. 98–369, div. B, title V, §2512(a), July 18, 1984, 98 Stat. 1117; Pub. L. 100–198, §§4(a), 5(a), Dec. 21, 1987, 101 Stat. 1316; renumbered §1832 and amended Pub. L. 100–322, title IV, §415(b)(1)(A)–(C), (5), May 20, 1988, 102 Stat. 550, 551; Pub. L. 101–237, title III, §§304(b), 307–308(b)(1), 313(b)(1), (2), Dec. 18, 1989, 103 Stat. 2073–2075, 2077; Pub. L. 102–54, §§1, 3(a), 14(g)(1), June 13, 1991, 105 Stat. 267, 288; renumbered §3732 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–66, title XII, §12006(a), Aug. 10, 1993, 107 Stat. 414; Pub. L. 103–446, title IX, §907, Nov. 2, 1994, 108 Stat. 4677; Pub. L. 105–33, title VIII, §8013, Aug. 5, 1997, 111 Stat. 664; Pub. L. 106–419, title IV, §402(c), Nov. 1, 2000, 114 Stat. 1863; Pub. L. 107–103, title IV, §405(d), Dec. 27, 2001, 115 Stat. 994; Pub. L. 108–183, title IV, §406, Dec. 16, 2003, 117 Stat. 2666; Pub. L. 109–233, title V, §503(9), June 15, 2006, 120 Stat. 416; Pub. L. 111–275, title VIII, §802(a), Oct. 13, 2010, 124 Stat. 2888.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1212, §1816(a)–(c); Pub. L. 89–117, title I, §107(f), Aug. 10, 1965, 79 Stat. 460; Pub. L. 94–324, §7(17), June 30, 1976, 90 Stat. 722; Pub. L. 98–369, div. B, title V, §2512(a), July 18, 1984, 98 Stat. 1117; Pub. L. 100–198, §§4(a), 5(a), Dec. 21, 1987, 101 Stat. 1316; renumbered §1832 and amended Pub. L. 100–322, title IV, §415(b)(1)(A)–(C), (5), May 20, 1988, 102 Stat. 550, 551; Pub. L. 101–237, title III, §§304(b), 307–308(b)(1), 313(b)(1), (2), Dec. 18, 1989, 103 Stat. 2073–2075, 2077; Pub. L. 102–54, §§1, 3(a), 14(g)(1), June 13, 1991, 105 Stat. 267, 288; renumbered §3732 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–66, title XII,§12006(a), Aug. 10, 1993, 107 Stat. 414; Pub. L. 103–446, title IX, §907, Nov. 2, 1994, 108 Stat. 4677; Pub. L. 105–33, title VIII, §8013, Aug. 5, 1997, 111 Stat. 664; Pub. L. 106–419, title IV, §402(c), Nov. 1, 2000, 114 Stat. 1863; Pub. L. 107–103, title IV, §405(d), Dec. 27, 2001, 115 Stat. 994; Pub. L. 108–183, title IV, §406, Dec. 16, 2003, 117 Stat. 2666; Pub. L. 109–233, title V, §503(9), June 15, 2006, 120 Stat. 416; Pub. L. 111–275, title VIII, §802(a), Oct. 13, 2010, 124 Stat. 2888; Pub. L. 112–191, title II, §201, Oct. 5, 2012, 126 Stat. 1439.)
 
 #### Amendments
+
+<b>2012</b>—Subsec. (c)(11). Pub. L. 112–191 substituted “October 1, 2013” for “October 1, 2012”.
 
 <b>2010</b>—Subsec. (a)(2). Pub. L. 111–275 designated existing provisions as subpar. (A) and added subpar. (B).
 
@@ -172,29 +174,29 @@ Subsec. (b). Pub. L. 94–324 substituted “the Administrator” for “he” w
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–275, title VIII, §802(b), Oct. 13, 2010, 124 Stat. 2889, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to a housing loan guaranteed after the date of the enactment of this Act \[Oct. 13, 2010\].”
+Pub. L. 111–275, title VIII, §802(b), Oct. 13, 2010, 124 Stat. 2889, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply withrespect to a housing loan guaranteed after the date of the enactment of this Act \[Oct. 13, 2010\].”
 
 #### Effective Date of 1993 Amendment
 
-Section 12006(b) of Pub. L. 103–66 provided that: “The amendments made by this section \[amending this section\] shall become effective October 1, 1993.”
+Pub. L. 103–66, title XII, §12006(b), Aug. 10, 1993, 107 Stat. 414, provided that: “The amendments made by this section \[amending this section\] shall become effective October 1, 1993.”
 
 #### Effective Date of 1989 Amendment
 
-Section 308(b)(2) of Pub. L. 101–237 provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect as of October 1, 1989.”
+Pub. L. 101–237, title III, §308(b)(2), Dec. 18, 1989, 103 Stat. 2075, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect as of October 1, 1989.”
 
-#### Effective Date of 1987 Amendments
+#### Effective Date of 1987 Amendment
 
-Section 4(b) of Pub. L. 100–198 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on March 1, 1988.”
+Pub. L. 100–198, §4(b), Dec. 21, 1987, 101 Stat. 1316, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on March 1, 1988.”
 
-Section 5(c) of Pub. L. 100–198 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to defaults which occur more than 60 days after the date of the enactment of this Act \[Dec. 21, 1987\].”
+Pub. L. 100–198, §5(c), Dec. 21, 1987, 101 Stat. 1317, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to defaults which occur more than 60 days after the date of the enactment of this Act \[Dec. 21, 1987\].”
 
-#### Effective Date of 1984 Amendments
+#### Effective Date of 1984 Amendment
 
-Section 1(a) of Pub. L. 100–136 provided that: “Notwithstanding section 2512(c) of the Deficit Reduction Act of 1984 (Public Law 98–369) \[set out below\], the provisions of section 1816(c) \[now 3732(c)\] of title 38, United States Code, shall continue in effect through November 15, 1987.”
+Pub. L. 100–136, §1(a), Oct. 16, 1987, 101 Stat. 813, provided that: “Notwithstanding section 2512(c) of the Deficit Reduction Act of 1984 (Public Law 98–369) \[set out below\], the provisions of section 1816(c) \[now 3732(c)\] of title 38, United States Code, shall continue in effect through November 15, 1987.”
 
-Section 2512(c)(1) of Pub. L. 98–369 provided that: “The amendments made by subsection (a) \[amending subsec. (a) and adding subsecs. (c) and (d) of section 1816 \[now 3732(a), (c) and 3733(a)\] of this title\] shall take effect on October 1, 1984.”
+Pub. L. 98–369, div. B, title V, §2512(c)(1), July 18, 1984, 98 Stat. 1120, provided that: “The amendments made by subsection (a) \[amending subsec. (a) and adding subsecs. (c) and (d) of section 1816 \[now 3732(a), (c) and 3733(a)\] of this title\] shall take effect on October 1, 1984.”
 
-Section 2512(c)(2) of Pub. L. 98–369, which provided that subsecs. (c) and (d) of section 1816 (now 3732(a), (c) and 3733(a)) of this title would cease to be effective on Oct. 1, 1987, was repealed by Pub. L. 100–198, §5(b), Dec. 21, 1987, 101 Stat. 1317.
+Pub. L. 98–369, div. B, title V, §2512(c)(2), July 18, 1984, 98 Stat. 1120, which provided that subsecs. (c) and (d) of section 1816 (now 3732(a), (c) and 3733(a)) of this title would cease to be effective on Oct. 1, 1987, was repealed by Pub. L. 100–198, §5(b), Dec. 21, 1987, 101 Stat. 1317.
 
 #### Effective Date of 1976 Amendment
 

@@ -170,7 +170,7 @@ Subsec. (g)(4)(B)(ii). Pub. L. 100–368, §6(b)(2), substituted “section 2646
 
 #### Financial Assistance To Carry Out Inspections for Asbestos-Containing Material
 
-Section 4(b) of Pub. L. 99–519 provided that:
+Pub. L. 99–519, §4(b), Oct. 22, 1986, 100 Stat. 2989, provided that:
 
 “(1) Notwithstanding section 505(c) of the Asbestos School Hazard Abatement Act of 1984 \[20 U.S.C. 4014(c)\], for fiscal years 1988 and 1989 the Administrator shall provide financial assistance under section 505 of such Act in the form of grants to States or local educational agencies to carry out inspections for asbestos-containing material in school buildings and preparation of management plans for school buildings under this title \[probably means title II of the Toxic Substances Control Act, 15 U.S.C. 2641 et seq.\].
 

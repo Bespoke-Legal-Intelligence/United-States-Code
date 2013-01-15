@@ -96,7 +96,7 @@ Amendment by Pub. L. 94–455 effective on first day of first month which begins
 
 #### Effective Date of 1958 Amendment
 
-Amendment by Pub. L. 85–859 effective on first day of first calendar quarter which begins more than 60 days after Sept. 2, 1958, see section 1(c) of Pub. L. 85–859.
+Amendment by Pub. L. 85–859 effective on first day of first calendar quarter which begins more than 60 days after Sept. 2, 1958, see section 1(c) of Pub. L. 85–859, Sept. 2, 1958, 72 Stat. 1275.
 
 #### Effective Date of 1955 Amendment
 
@@ -104,5 +104,5 @@ Section effective on first day of first month which begins more than ten days af
 
 #### Application of Leases of Utility Trailers
 
-Section 117(c) of Pub. L. 85–859, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 4216 of this title\] shall not apply to any lease of an article if section 4216(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954, prior subsec. (d) of section 4216 of this title\] applied to any lease of such article before the effective date specified in section 1(c) of this Act.”
+Pub. L. 85–859, title I, §117(c), Sept. 2, 1958, 72 Stat. 1281, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 4216 of this title\] shall not apply to any lease of an article if section 4216(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954, prior subsec. (d) of section 4216 of this title\] applied to any lease of such article before the effective date specified in section 1(c) of this Act.”
 

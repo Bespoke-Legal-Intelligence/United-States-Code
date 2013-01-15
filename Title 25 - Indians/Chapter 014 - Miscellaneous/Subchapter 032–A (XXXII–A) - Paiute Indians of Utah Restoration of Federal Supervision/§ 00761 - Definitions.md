@@ -20,5 +20,5 @@ For the purposes of this subchapter—
 
 #### Short Title
 
-Section 1 of Pub. L. 96–227 provided: “That this act \[enacting this subchapter\] may be cited as the ‘Paiute Indian Tribe of Utah Restoration Act’.”
+Pub. L. 96–227, §1, Apr. 3, 1980, 94 Stat. 317, provided: “That this act \[enacting this subchapter\] may be cited as the ‘Paiute Indian Tribe of Utah Restoration Act’.”
 

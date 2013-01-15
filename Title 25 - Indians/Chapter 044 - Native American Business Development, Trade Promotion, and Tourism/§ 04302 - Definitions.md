@@ -60,7 +60,7 @@ In this chapter:
 
 #### (9) Tribal organization
 
-&emsp;The term “tribal organization” has the meaning given that term in section 450b(<i>l</i>) of this title.
+&emsp;The term “tribal organization” has the meaning given that term in section 450b(l) of this title.
 
 (Pub. L. 106–464, §3, Nov. 7, 2000, 114 Stat. 2013.)
 

@@ -14,7 +14,7 @@ Units at which entrance fees or admissions fees cannot be collected.—
 
 &emsp;(i)
 
-Withholding of amounts.—Notwithstanding section 107 of the Department of the Interior and Related Agencies Appropriations Act, 1998 (16 U.S.C. 460<i>l</i>–6a note; Public Law 105–83), the Secretary of the Interior shall withhold from the special account under section 6806(a) of this title 100 percent of the fees and charges collected in connection with any unit of the National Park System at which entrance fees or admission fees cannot be collected by reason of deed restrictions.
+Withholding of amounts.—Notwithstanding section 107 of the Department of the Interior and Related Agencies Appropriations Act, 1998 (16 U.S.C. 460l–6a note; Public Law 105–83), the Secretary of the Interior shall withhold from the special account under section 6806(a) of this title 100 percent of the fees and charges collected in connection with any unit of the National Park System at which entrance fees or admission fees cannot be collected by reason of deed restrictions.
 
 &emsp;(ii)
 
@@ -24,7 +24,7 @@ Use of amounts.—Amounts withheld under clause (i) shall be retained by the Sec
 
 #### (j) Funds available to National Park Service; required allocations; computations; unexpended funds
 
-(1) 10 percent of the funds made available to the Director of the National Park Service under subsection (i) of this section in each fiscal year shall be allocated among units of the National Park System on the basis of need in a manner to be determined by the Director.
+(1) 10 percent of the funds made available to the Director of the National Park Service undersubsection (i) of this section in each fiscal year shall be allocated among units of the National Park System on the basis of need in a manner to be determined by the Director.
 
 (2) 40 percent of the funds made available to the Director of the National Park Service under subsection (i) of this section in each fiscal year shall be allocated among units of the National Park System in accordance with paragraph (3) of this subsection and 50 percent shall be allocated in accordance with paragraph (4) of this subsection.
 
@@ -46,11 +46,11 @@ When authorized by the head of the collecting agency, volunteers at designated a
 
 > The Secretary shall require a surety bond for any such volunteer performing services under this subsection. Funds available to the collecting agency may be used to cover the cost of any such surety bond. The head of the collecting agency may enter into arrangements with qualified public or private entities pursuant to which such entities may sell (without cost to the United States) annual admission permits (including Golden Eagle Passports) at any appropriate location. Such arrangements shall require each such entity to reimburse the United States for the full amount to be received from the sale of such permits at or before the agency delivers the permits to such entity for sale.
 
-#### (<i>l</i>) Charge for transportation provided by National Park Service for viewing National Park System units; charge in lieu of admission fee; maximum charge; apportionment and expenditure of charges
+#### (l) Charge for transportation provided by National Park Service for viewing National Park System units; charge in lieu of admission fee; maximum charge; apportionment and expenditure of charges
 
 (1) Where the National Park Service provides transportation to view all or a portion of any unit of the National Park System, the Director may impose a charge for such service in lieu of an admission fee under this section. The charge imposed under this paragraph shall not exceed the maximum admission fee under subsection (a) <sup>1</sup> of this section.
 
-(2) Notwithstanding any other provision of law, half of the charges imposed under paragraph (1) shall be retained by the unit of the National Park System at which the service was provided. The remainder shall be covered into the special account referred to in subsection (i) <sup>1</sup> of this section in the same manner as receiptsfrom fees collected pursuant to this section. Fifty percent of the amount retained shall be expended only for maintenance of transportation systems at the unit where the charge was imposed. The remaining 50 percent of the retained amount shall be expended only for activities related to resource protection at such units.
+(2) Notwithstanding any other provision of law, half of the charges imposed under paragraph (1) shall be retained by the unit of the National Park System at which the service was provided. The remainder shall be covered into the special account referred to in subsection (i) <sup>1</sup> of this section in the same manner as receipts from fees collected pursuant to this section. Fifty percent of the amount retained shall be expended only for maintenance of transportation systems at the unit where the charge was imposed. The remaining 50 percent of the retained amount shall be expended only for activities related to resource protection at such units.
 
 #### (m) Admission fee at National Park System units where primary public access is provided by concessioner; maximum fee
 
@@ -82,7 +82,7 @@ Where the primary public access to a unit of the National Park System is provide
 
 #### References in Text
 
-Subsections (a) and (i) (except par. (1)(C)) of this section, referred to in subsecs. (<i>l</i>) to (n), were repealed by Pub. L. 108–447, div. J, title VIII, §813(a), Dec. 8, 2004, 118 Stat. 3390.
+Subsections (a) and (i) (except par. (1)(C)) of this section, referred to in subsecs. (l) to (n), were repealed by Pub. L. 108–447, div. J, title VIII, §813(a), Dec. 8, 2004, 118 Stat. 3390.
 
 Act of October 9, 1965, referred to in subsec. (n)(4)(B), is Pub. L. 89–249, Oct. 9, 1965, 79 Stat. 969, known as the National Park System Concessions Policy Act, which was classified generally to subchapter IV (§20 et seq.) of this chapter, prior to repeal by Pub. L. 105–391, title IV, §415(a), Nov. 13, 1998, 112 Stat. 3515.
 
@@ -90,13 +90,13 @@ Public Law 100–91, referred to in subsec. (n)(5)(A), is set out as a note unde
 
 #### Prior Provisions
 
-A prior section 4 of Pub. L. 88–578 was renumbered section 5 and is classified to section 460<i>l</i>–7 of this title.
+A prior section 4 of Pub. L. 88–578 was renumbered section 5 and is classified to section 460l–7 of this title.
 
 #### Amendments
 
 <b>2005</b>—Pub. L. 109–54, §132(a), amended Pub. L. 108–447, §813(a). See 2004 Amendment notes below.
 
-Subsec. (i)(1)(C)(i). Pub. L. 109–54, §132(b), substituted “Notwithstanding section 107” for “Notwithstanding subparagraph (A), section 315(c) of section 101(c) of the Omnibus Consolidated Recessions and Appropriations Act of 1996 (16 U.S.C. 460<i>l</i>–6a note; Public Law 104–134), or section 107” and “account under section 6806(a) of this title” for “account under subparagraph (A)”.
+Subsec. (i)(1)(C)(i). Pub. L. 109–54, §132(b), substituted “Notwithstanding section 107” for “Notwithstanding subparagraph (A), section 315(c) of section 101(c) of the Omnibus Consolidated Recessions and Appropriations Act of 1996 (16 U.S.C. 460l–6a note; Public Law 104–134), or section 107” and “account under section 6806(a) of this title” for “account under subparagraph (A)”.
 
 <b>2004</b>—Subsecs. (a) to (g). Pub. L. 108–447, §813(a), as amended by Pub. L. 109–54, §132(a), struck out subsec. (a) relating to admission fees, Golden Eagle and Golden Age Passports, and permits, subsec. (b) relating to recreation use fees, collection, campgrounds at lakes or reservoirs, and fees for Golden Age passport permittees, subsec. (c) relating to special recreation permits, subsec. (d) relating to criteria, posting, and uniformity of fees, subsec. (e) relating to establishment of rules and regulations, enforcement powers, and penalty for violations, subsec. (f) relating to contracts with any public or private entity to provide visitor registration services, and subsec. (g) relating to effect on Federal and State laws.
 
@@ -104,7 +104,7 @@ Subsec. (i). Pub. L. 108–447, §813(a), as amended by Pub. L. 109–54, §132(
 
 <b>1998</b>—Subsec. (i)(1)(C). Pub. L. 105–327 added subpar. (C).
 
-<b>1995</b>—Subsec. (h). Pub. L. 104–66 struck out subsec. (h) which read as follows: “Periodic reports indicating the number and location of fee collection areas, the number and location of potential fee collection areas, capacity and visitation information, the fees collected, and other pertinent data, shall be coordinated and compiled by the Bureau of Outdoor Recreation and transmitted to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate. Such reports, which shall be transmitted no later than March 31 annually, shall include any recommendations which theBureau may have with respect to improving this aspect of the land and water conservation fund program.”
+<b>1995</b>—Subsec. (h). Pub. L. 104–66 struck out subsec. (h) which read as follows: “Periodic reports indicating the number and location of fee collection areas, the number and location of potential fee collection areas, capacity and visitation information, the fees collected, and other pertinent data, shall be coordinated and compiled by the Bureau of Outdoor Recreation and transmitted to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate. Such reports, which shall be transmitted no later than March 31 annually, shall include any recommendations which the Bureau may have with respect to improving this aspect of the land and water conservation fund program.”
 
 <b>1994</b>—Subsec. (h). Pub. L. 103–437 substituted “Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate” for “Committees on Interior and Insular Affairs of the United States House of Representatives and United States Senate”.
 
@@ -116,7 +116,7 @@ Subsec. (a)(4). Pub. L. 103–66, §10001(b), substituted “for a one-time char
 
 Subsec. (b). Pub. L. 103–66, §10002(a)(1), in first sentence, substituted “or toilet facilities, nor shall there be any such charge solely for the use of picnic tables: <i>Provided</i>, That in no event shall there be a charge for the use of any campground not having a majority of the following: tent or trailer spaces, picnic tables, drinking water, access road, refuse containers, toilet facilities, personal collection of the fee by an employee or agent of the Federal agency operating the facility, reasonable visitor protection, and simple devices for containing a campfire (where campfires are permitted).” for “toilet facilities, picnic tables, or boat ramps: <i>Provided, however</i>, That a fee shall be charged for boat launching facilities only where specialized facilities or services such as mechanical or hydraulic boat lifts or facilities are provided: <i>And provided further</i>, That in no event shall there be a charge for the use of any campground not having the following—tent or trailer spaces, drinking water, access road, refuse containers, toilet facilities, personal collection of the fee by an employee or agent of the Federal agency operating the facility, reasonable visitor protection, and simple devices for containing a campfire (where campfires are permitted).”, and inserted new second sentence defining “specialized outdoor recreation sites”.
 
-Pub. L. 102–66, §§5001(b) and 10002(a)(2), amended subsec. (b) identically, striking out second sentence which read as follows: “At each lake or reservoir under the jurisdiction of the Corps of Engineers, United States Army, where camping is permitted, such agency shall provide at least one primitive campground, containing designated campsites, sanitary facilities, and vehicular access, where no charge shall be imposed.”
+Pub. L. 102–66, §§5001(b) and 10002(a)(2), amended subsec. (b) identically, striking out second sentence which read as follows: “At each lake or reservoir under the jurisdiction of the Corps of Engineers, United States Army, where camping is permitted, such agency shallprovide at least one primitive campground, containing designated campsites, sanitary facilities, and vehicular access, where no charge shall be imposed.”
 
 Subsec. (i)(1). Pub. L. 103–66, §10002(b), designated existing provisions as subpar. (A) and added subpar. (B).
 
@@ -146,7 +146,7 @@ Subsec. (a)(1). Pub. L. 93–303, §1(c), among other changes, substituted “Th
 
 Subsec. (a)(2). Pub. L. 93–303, §1(d), struck out “or who enter such an area by means other than by private, noncommercial vehicle” after “annual permit” in first sentence. See subsec. (a)(1) of this section.
 
-Subsec. (a)(4). Pub. L. 93–303, §1(e), substituted “a lifetime admission permit” for “an annual entrancepermit”, limited the issuance of this permit to citizens of, or persons domiciled in the United States, and inserted provisions to allow the permittee and his spouse and children accompanying him to enter an area which entry is by any means other than private, noncommercial vehicle.
+Subsec. (a)(4). Pub. L. 93–303, §1(e), substituted “a lifetime admission permit” for “an annual entrance permit”, limited the issuance of this permit to citizens of, or persons domiciled in the United States, and inserted provisions to allow the permittee and his spouse and children accompanying him to enter an area which entry is by any means other than private, noncommercial vehicle.
 
 Subsec. (b). Pub. L. 93–303, §1(f), (g), among other changes, substituted “daily recreation use fee” for “special recreation use fees”, authorized a fee for boat launching facilities where specialized facilities or services such as mechanical or hydraulic boat lifts or facilities are provided, required the Corps of Engineers to provide at least one primitive campground where no charge shall be imposed at each lake or reservoir under its jurisdiction, incorporated provisions formerly in subsec. (b)(1) allowing any Golden Age Passport permittee to utilize the recreation facilities at a rate of 50 per centum of the established use fee, struck out the remainder of former subsec. (b)(1) which related to determination of daily use fees for overnight occupancy, and redesignated former subsec. (b)(2) as (c).
 
@@ -174,7 +174,7 @@ For authority of Secretary to continue to issue Golden Eagle Passports, Golden A
 
 #### Construction
 
-Pub. L. 109–54, title I, §132(c), Aug. 2, 2005, 119 Stat. 526, provided that: “Except as provided in this section \[amending this section and section 6812 of this title and enacting provisions set out as a note under this section\], section 4(i)(1)(C) of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460<i>l</i>–6a(i)(1)(C)) shall be applied and administered as if section 813(a) of the Federal Lands Recreation Enhancement Act (16 U.S.C. 6812(a)) (and the amendments made by that section \[Pub. L. 108–447, amending this section\]) had not been enacted.”
+Pub. L. 109–54, title I, §132(c), Aug. 2, 2005, 119 Stat. 526, provided that: “Except as provided in this section \[amending this section and section 6812 of this title and enacting provisions set out as a note under this section\], section 4(i)(1)(C) of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460l–6a(i)(1)(C)) shall be applied and administered as if section 813(a) of the Federal Lands Recreation Enhancement Act (16 U.S.C. 6812(a)) (and the amendments made by that section \[Pub. L. 108–447, amending this section\]) had not been enacted.”
 
 #### Transfer of Functions
 
@@ -200,7 +200,7 @@ Withholding of Amounts.—
 
 &emsp;“(1)
 
-In general.—During fiscal years 1999 through 2002, the Secretary \[of the Army\] may withhold from the special account established under section 4(i)(1)(A) of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460<i>l</i>–6a(i)(1)(A)) 100 percent of the amount of receipts above a baseline of $34,000,000 per each fiscal year received from fees imposed at recreation sites under the administrative jurisdiction of the Department of the Army under section 4(b) of that Act (16 U.S.C. 460<i>l</i>–6a(b)).
+In general.—During fiscal years 1999 through 2002, the Secretary \[of the Army\] may withhold from the special account established under section 4(i)(1)(A) of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460l–6a(i)(1)(A)) 100 percent of the amount of receipts above a baseline of $34,000,000 per each fiscal year received from fees imposed at recreation sites under the administrative jurisdiction of the Department of the Army under section 4(b) of that Act (16 U.S.C. 460l–6a(b)).
 
 &emsp;“(2)
 
@@ -262,13 +262,13 @@ Pub. L. 106–291, title III, §334, Oct. 11, 2000, 114 Stat. 997.
 
 Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §344\], Nov. 29, 1999, 113 Stat. 1535, 1501A–203.
 
-Pub. L. 105–83, title I, §107, Nov. 14, 1997, 111 Stat. 1561, provided that: “In fiscal year 1998 and thereafter, for those years in which the recreation fee demonstration program authorized in Public Law 104–134 \[set out below\] is in effect, the fee collection support authority provided in 16 U.S.C. 460<i>l</i>–6(i)(1)(B) applies only to parks not included in the fee demonstration program, and that the amount retained under this authority to cover fee collection costs will not exceed those costs at the non-demonstration parks, or 15 percent of all fees collected at non-demonstration parks in a fiscal year whichever is less. Fee collection costs for parks included in the fee demonstration program will be covered by the fees retained at those parks.”
+Pub. L. 105–83, title I, §107, Nov. 14, 1997, 111 Stat. 1561, provided that: “In fiscal year 1998 and thereafter, for those years in which the recreation fee demonstration program authorized in Public Law 104–134 \[set out below\] is in effect, the fee collection support authority provided in 16 U.S.C. 460l–6(i)(1)(B) applies only to parks not included in the fee demonstration program, and that the amount retained under this authority to cover fee collection costs will not exceed those costs at the non-demonstration parks, or 15 percent of all fees collected at non-demonstration parks in a fiscal year whichever is less. Fee collection costs for parks included in the fee demonstration program will be covered by the fees retained at those parks.”
 
 Pub. L. 104–134, title I, §101(c) \[title III, §315\], Apr. 26, 1996, 110 Stat. 1321–156, 1321–200; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, as amended by Pub. L. 104–208, div. A, title I, §101(d) \[title I, title III, §319\], Sept. 30, 1996, 110 Stat. 3009–181, 3009–187, 3009–223; Pub. L. 105–18, title II, §5001, June 12, 1997, 111 Stat. 181; Pub. L. 105–83, title III, §320, Nov. 14, 1997, 111 Stat. 1596; Pub. L. 105–277, div. A, §101(e) \[title III, §327\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–291; Pub. L. 106–291, title III, §336, Oct. 11, 2000, 114 Stat. 997; Pub. L. 107–63, title III, §312, Nov. 5, 2001, 115 Stat. 466; Pub. L. 108–108, title III, §332, Nov. 10, 2003, 117 Stat. 1309; Pub. L. 108–447, div. E, title III, §331, Dec. 8, 2004, 118 Stat. 3099, directed the Secretary of the Interior and Secretary of Agriculture to implement fee programs to demonstrate the feasibility of user-generated cost recovery for operation and maintenance of recreation areas or sites and habitat enhancement projects on Federal lands and to establish various requirements for carrying out the pilot programs, prior to repeal by Pub. L. 108–447, div. J, title VIII, §813(b), Dec. 8, 2004, 118 Stat. 3390.
 
 #### Study To Assess Traffic Congestion and Overcrowding at Certain Park System Units
 
-Section 5201(e) of Pub. L. 100–203 directed Secretary of the Interior to assess extent to which traffic congestion and overcrowding occurs at certain park system units during times of seasonally high usage and to conduct a study of (A) feasibility of reducing vehicular traffic within national park system units through fee reductions for visitors traveling by bus and through other means which could shift visitation from automobiles to buses, and (B) feasibility of encouraging more even seasonal distribution of visitation, with study to include a pilot project to be carried out in Yosemite National Park, and a report containing results of study to be transmitted to Committee on Interior and Insular Affairs of House of Representatives and to Committee on Energy and Natural Resources of Senate within 3 years after Dec. 22, 1987.
+Pub. L. 100–203, title V, §5201(e), Dec. 22, 1987, 101 Stat. 1330–267, directed Secretary of the Interior to assess extent to which traffic congestion and overcrowding occurs at certain park system units during times of seasonally high usage and to conduct a study of (A) feasibility of reducing vehicular traffic within national park system units through fee reductions for visitors traveling by bus and through other means which could shift visitation from automobiles to buses, and (B) feasibility of encouraging more even seasonal distribution of visitation, with study to include a pilot project to be carried out in Yosemite National Park, and a report containing results of study to be transmitted to Committee on Interior and Insular Affairs of House of Representatives and to Committee on Energy and Natural Resources of Senate within 3 years after Dec. 22, 1987.
 
 #### Prohibition on Entrance Fee at Statue of Liberty National Monument
 
@@ -276,11 +276,11 @@ Pub. L. 100–55, June 19, 1987, 101 Stat. 371, provided: “That, notwithstandi
 
 #### Establishment and Collection of Use or Royalty Fees for Manufacture, Reproduction, or Use of “Golden Eagle Insignia”
 
-Section 3(a) of Pub. L. 92–347 provided that: “The Secretary of the Interior may establish and collect use or royalty fees for the manufacture, reproduction, or use of ‘The Golden Eagle Insignia’, originated by the Department of the Interior and announced in the December 3, 1970, issue of the Federal Register (35 Federal Register 18376) as the official symbol for Federal recreation areas designated for recreation fee collection. Any fees collected pursuant to this subsection shall be covered into the Land and Water Conservation Fund.”
+Pub. L. 92–347, §3(a), July 11, 1972, 86 Stat. 461, provided that: “The Secretary of the Interior may establish and collect use or royalty fees for the manufacture, reproduction, or use of ‘The Golden Eagle Insignia’, originated by the Department of the Interior and announced in the December 3, 1970, issue of the Federal Register (35 Federal Register 18376) as the official symbol for Federal recreation areas designated for recreation fee collection. Any fees collected pursuant to this subsection shall be covered into the Land and Water Conservation Fund.”
 
 #### Termination of Rights in “Golden Eagle Insignia”
 
-Section 3(d) of Pub. L. 92–347 provided that: “The rights in ‘The Golden Eagle Insignia’ under this Act \[which enacted this section and section 715 of title 18, enacted notes set out hereunder, and repealed note set out under section 460<i>l</i>–5 of this title\], shall terminate if the use by the Secretary of the Interior of ‘The Golden Eagle Insignia’ is abandoned. Nonuse for a continuous period of two years shall constitute abandonment.”
+Pub. L. 92–347, §3(d), July 11, 1972, 86 Stat. 462, provided that: “The rights in ‘The Golden Eagle Insignia’ under this Act \[which enacted this section and section 715 of title 18, enacted notes set out hereunder, and repealed note set out under section 460l–5 of this title\], shall terminate if the use by the Secretary of the Interior of ‘The Golden Eagle Insignia’ is abandoned. Nonuse for a continuous period of two years shall constitute abandonment.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

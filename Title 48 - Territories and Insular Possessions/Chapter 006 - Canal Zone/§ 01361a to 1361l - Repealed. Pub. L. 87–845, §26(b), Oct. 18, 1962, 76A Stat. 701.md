@@ -22,5 +22,5 @@ Section 1361j, act June 29, 1948, ch. 706, §2, 62 Stat. 1076, related to emerge
 
 Section 1361k, act June 29, 1948, ch. 706, §2, as added Sept. 26, 1950, ch. 1049, §10, 64 Stat. 1042, related to authorizations of appropriations to cover losses.
 
-Section 1361<i>l</i>, act June 29, 1948, ch. 706, §2, as added Sept. 26, 1950, ch. 1049, §10, 64 Stat. 1042, related to authorization for transfer of canal to corporation.
+Section 1361l, act June 29, 1948, ch. 706, §2, as added Sept. 26, 1950, ch. 1049, §10, 64 Stat. 1042, related to authorization for transfer of canal to corporation.
 

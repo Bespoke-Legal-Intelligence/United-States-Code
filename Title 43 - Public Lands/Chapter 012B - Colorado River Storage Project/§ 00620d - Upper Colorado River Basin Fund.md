@@ -64,7 +64,7 @@ Amendment by Pub. L. 98–569 effective Oct. 30, 1984, see section 6 of Pub. L. 
 
 #### Effective Date of 1960 Amendment
 
-Section 9 of Pub. L. 86–529 provided that the amendment made by that section is effective June 1, 1960.
+Pub. L. 86–529, §9, June 27, 1960, 74 Stat. 227, provided that the amendment made by section 9 is effective June 1, 1960.
 
 #### Termination of Reporting Requirements
 

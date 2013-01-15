@@ -6,11 +6,11 @@ Withholding of Apportionments for Noncompliance.—
 
 &emsp;(1)
 
-Fiscal year 1999.—The Secretary shall withhold 5 percent of the amount required to be apportioned to any State under each of paragraphs (1), (3), and (4) of section 104(b) on October 1, 1998, if the State does not meet the requirement of paragraph (3) on that date.
+Prior to fiscal year 2012.—The Secretary shall withhold 10 percent (including any amounts withheld under paragraph (1)) of the amount required to be apportioned to any State under each of paragraphs (1), (3), and (4) of section 104(b) <sup>1</sup> on October 1, 1999, and on October 1 of each fiscal year thereafter through fiscal year 2011, if the State does not meet the requirement of paragraph (3) on that date.
 
 &emsp;(2)
 
-Thereafter.—The Secretary shall withhold 10 percent (including any amounts withheld under paragraph (1)) of the amount required to be apportioned to any State under each of paragraphs (1), (3), and (4) of section 104(b) on October 1, 1999, and on October 1 of each fiscal year thereafter, if the State does not meet the requirement of paragraph (3) on that date.
+Fiscal year 2012 and thereafter.—The Secretary shall withhold an amount equal to 8 percent of the amount required to be apportioned to any State under each of paragraphs\(1) and (2) of section 104(b) on October 1, 2011, and on October 1 of each fiscal year thereafter, if the State does not meet the requirement of paragraph (3) on that date.
 
 &emsp;(3)
 
@@ -44,9 +44,25 @@ Period of availability of subsequently apportioned funds.—Any funds apportione
 
 Effect of noncompliance.—If, at the end of the period for which funds withheld under subsection (a) from apportionment are available for apportionment to a State under paragraph (1), the State does not meet the requirement of subsection (a)(3), the funds shall lapse.
 
-(Added Pub. L. 104–59, title III, §320(a), Nov. 28, 1995, 109 Stat. 589; amended Pub. L. 105–178, title I, §1103(<i>l</i>)(3)(F), June 9, 1998, 112 Stat. 126.)
+(Added Pub. L. 104–59, title III, §320(a), Nov. 28, 1995, 109 Stat. 589; amended Pub. L. 105–178, title I, §1103(l)(3)(F), June 9, 1998, 112 Stat. 126; Pub. L. 112–141, div. A, title I, §1404(h), July 6, 2012, 126 Stat. 559.)
+
+#### References in Text
+
+Section 104, referred to in subsec. (a)(1), was amended generally by Pub. L. 112–141, div. A, title I, §1105(a), July 6, 2012, 126 Stat. 427.
 
 #### Amendments
 
+<b>2012</b>—Subsec. (a)(1), (2). Pub. L. 112–141 redesignated par. (2) as (1), substituted “
+
+Prior to fiscal year 2012” for “
+
+Thereafter” in par. heading, inserted “through fiscal year 2011” after “each fiscal year thereafter” in text, added par. (2), and struck out former par. (1). Prior to amendment, text of par. (1) read as follows: “The Secretary shall withhold 5 percent of the amount required to be apportioned to any State under each of paragraphs (1), (3), and (4) of section 104(b) on October 1, 1998, if the State does not meet the requirement of paragraph (3) on that date.”
+
 <b>1998</b>—Subsec. (a)(1), (2). Pub. L. 105–178 substituted “paragraphs (1), (3), and (4) of section 104(b)” for “paragraphs (1), (3), and (5)(B) of section 104(b)”.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

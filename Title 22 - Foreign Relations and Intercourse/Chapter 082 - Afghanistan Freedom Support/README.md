@@ -25,15 +25,15 @@
 
 |  |  |
 | :--- | ---: |
-| [7531\.](Subchapter%20002%20%28II%29%20-%20Military%20Assistance%20for%20Afghanistan%20and%20Certain%20Other%20Foreign%20Countries%20and%20International%20Organizations/%C2%A7%2007531%20-%20Support%20for%20security%20during%20transition%20in%20Afghanistan.md) | Support for security during transition in Afghanistan. |
-| [7532\.](Subchapter%20002%20%28II%29%20-%20Military%20Assistance%20for%20Afghanistan%20and%20Certain%20Other%20Foreign%20Countries%20and%20International%20Organizations/%C2%A7%2007532%20-%20Authorization%20of%20assistance.md) | Authorization of assistance. |
-| [7533\.](Subchapter%20002%20%28II%29%20-%20Military%20Assistance%20for%20Afghanistan%20and%20Certain%20Other%20Foreign%20Countries%20and%20International%20Organizations/%C2%A7%2007533%20-%20Eligible%20foreign%20countries%20and%20eligible%20international%20organizations.md) | Eligible foreign countries and eligible international organizations. |
-| [7534\.](Subchapter%20002%20%28II%29%20-%20Military%20Assistance%20for%20Afghanistan%20and%20Certain%20Other%20Foreign%20Countries%20and%20International%20Organizations/%C2%A7%2007534%20-%20Reimbursement%20for%20assistance.md) | Reimbursement for assistance. |
-| [7535\.](Subchapter%20002%20%28II%29%20-%20Military%20Assistance%20for%20Afghanistan%20and%20Certain%20Other%20Foreign%20Countries%20and%20International%20Organizations/%C2%A7%2007535%20-%20Congressional%20notification%20requirements.md) | Congressional notification requirements. |
-| [7536\.](Subchapter%20002%20%28II%29%20-%20Military%20Assistance%20for%20Afghanistan%20and%20Certain%20Other%20Foreign%20Countries%20and%20International%20Organizations/%C2%A7%2007536%20-%20Promoting%20secure%20delivery%20of%20humanitarian%20and%20other%20assistance%20in%20Afghanistan%20and%20expansion%20of%20the%20International%20Security%20Assistance%20Force.md) | Promoting secure delivery of humanitarian and other assistance in Afghanistan and expansion of the International Security Assistance Force. |
-| [7536a.](Subchapter%20002%20%28II%29%20-%20Military%20Assistance%20for%20Afghanistan%20and%20Certain%20Other%20Foreign%20Countries%20and%20International%20Organizations/%C2%A7%2007536a%20-%20Sense%20of%20Congress%20and%20report%20regarding%20counter-drug%20efforts%20in%20Afghanistan.md) | Sense of Congress and report regarding counter-drug efforts in Afghanistan. |
-| [7537\.](Subchapter%20002%20%28II%29%20-%20Military%20Assistance%20for%20Afghanistan%20and%20Certain%20Other%20Foreign%20Countries%20and%20International%20Organizations/%C2%A7%2007537%20-%20Relationship%20to%20other%20authority.md) | Relationship to other authority. |
-| [7538\.](Subchapter%20002%20%28II%29%20-%20Military%20Assistance%20for%20Afghanistan%20and%20Certain%20Other%20Foreign%20Countries%20and%20International%20Organizations/%C2%A7%2007538%20-%20Sunset.md) | Sunset. |
+| 7531\. | Support for security during transition in Afghanistan. |
+| 7532\. | Authorization of assistance. |
+| 7533\. | Eligible foreign countries and eligible international organizations. |
+| 7534\. | Reimbursement for assistance. |
+| 7535\. | Congressional notification requirements. |
+| 7536\. | Promoting secure delivery of humanitarian and other assistance in Afghanistan and expansion of the International Security Assistance Force. |
+| 7536a. | Sense of Congress and report regarding counter-drug efforts in Afghanistan. |
+| 7537\. | Relationship to other authority. |
+| 7538\. | Sunset. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

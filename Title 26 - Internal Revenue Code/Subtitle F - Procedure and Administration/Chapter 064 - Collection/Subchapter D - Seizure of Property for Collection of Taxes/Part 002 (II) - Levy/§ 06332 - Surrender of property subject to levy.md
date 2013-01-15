@@ -26,7 +26,7 @@ Any bank (as defined in section 408(n)) shall surrender (subject to an attachmen
 
 #### (1) Extent of personal liability
 
-&emsp;Any person who fails or refuses to surrender any property or rights to property, subject to levy, upon demand by the Secretary, shall be liable in his own person and estate to the United States in a sum equal to the value of the property or rights not so surrendered, but not exceeding the amount of taxes for the collection of which such levy has been made, together with costs and interest on such sum at the underpayment rate established under section 6621 from the date of such levy (or, in the case of a levy described in section 6331(d)(3), from the date such person would otherwise have been obligated to pay over such amounts to the taxpayer). Any amount (other than costs) recovered under this paragraph shall be credited against the tax liability for the collection of which such levy was made.
+&emsp;Any person who fails or refuses to surrender any property or rights to property, subject tolevy, upon demand by the Secretary, shall be liable in his own person and estate to the United States in a sum equal to the value of the property or rights not so surrendered, but not exceeding the amount of taxes for the collection of which such levy has been made, together with costs and interest on such sum at the underpayment rate established under section 6621 from the date of such levy (or, in the case of a levy described in section 6331(d)(3), from the date such person would otherwise have been obligated to pay over such amounts to the taxpayer). Any amount (other than costs) recovered under this paragraph shall be credited against the tax liability for the collection of which such levy was made.
 
 #### (2) Penalty for violation
 
@@ -80,7 +80,7 @@ Subsec. (e). Pub. L. 89–719, §104(b)(3), redesignated former subsec. (c) as (
 
 #### Effective Date of 1988 Amendment
 
-Section 1015(t)(2) of Pub. L. 100–647 provided that: “The amendment made by this subsection \[amending this section\] shall apply to levies issued after the date of the enactment of this Act \[Nov. 10, 1988\].”
+Pub. L. 100–647, title I, §1015(t)(2), Nov. 10, 1988, 102 Stat. 3573, provided that: “The amendment made by this subsection \[amending this section\] shall apply to levies issued after the date of the enactment of this Act \[Nov. 10, 1988\].”
 
 Amendment by section 6236(e) of Pub. L. 100–647 applicable to levies issued on or after July 1, 1989, see section 6236(h)(1) of Pub. L. 100–647, set out as a note under section 6331 of this title.
 

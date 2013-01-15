@@ -38,7 +38,7 @@
 
 (3) Upon receiving notification under paragraph (2)(A), the Secretary shall not continue to investigate or further attempt to resolve the complaint to which the notification relates.
 
-(e)(1) This section shall not be construed to prohibit a preference eligible from appealing directly to the Merit Systems Protection Board from any action which is appealable to theBoard under any other law, rule, or regulation, in lieu of administrative redress under this section.
+(e)(1) This section shall not be construed to prohibit a preference eligible from appealing directly to the Merit Systems Protection Board from any action which is appealable to the Board under any other law, rule, or regulation, in lieu of administrative redress under this section.
 
 (2) A preference eligible may not pursue redress for an alleged violation described in subsection (a) under this section at the same time the preference eligible pursues redress for such violation under any other law, rule, or regulation.
 

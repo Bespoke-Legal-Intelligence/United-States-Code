@@ -10,7 +10,7 @@
 
 (e) Whoever, without lawful authority, brings into the United States any document printed therefrom; or
 
-(f) Whoever, without lawful authority, possesses any blank certificate of arrival, blankdeclaration of intention or blank certificate of naturalization or citizenship provided by the Immigration and Naturalization Service, with intent unlawfully to use the same; or
+(f) Whoever, without lawful authority, possesses any blank certificate of arrival, blank declaration of intention or blank certificate of naturalization or citizenship provided by the Immigration and Naturalization Service, with intent unlawfully to use the same; or
 
 (g) Whoever, with intent unlawfully to use the same, possesses a distinctive paper adopted by the proper officer or agency of the United States for the printing or engraving of a declaration of intention to become a citizen, or certificate of naturalization or certificate of citizenship; or
 
@@ -22,7 +22,7 @@ Shall be fined under this title or imprisoned not more than 25 years (if the off
 
 #### Historical and Revision Notes
 
-Based on subsections (a) pars. (8)–(12), (16), (17), (20)–(29), (b), (d), (<i>l</i>) of section 746 of Title 8, U.S.C., 1940 ed., Aliens and Nationality (Oct. 14, 1940, ch. 876, §346(a) pars. (8)–(12), (16), (17), (20)–(29), (b), (d), (<i>l</i>), 54 Stat. 1164–1168).
+Based on subsections (a) pars. (8)–(12), (16), (17), (20)–(29), (b), (d), (l) of section 746 of Title 8, U.S.C., 1940ed., Aliens and Nationality (Oct. 14, 1940, ch. 876, §346(a) pars. (8)–(12), (16), (17), (20)–(29), (b), (d), (l), 54 Stat. 1164–1168).
 
 Sections consolidates numerous similar paragraphs with necessary changes in phraseology and translations.
 

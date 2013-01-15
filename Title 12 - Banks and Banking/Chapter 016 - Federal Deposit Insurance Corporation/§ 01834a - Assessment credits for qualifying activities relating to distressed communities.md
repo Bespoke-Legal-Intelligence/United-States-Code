@@ -120,7 +120,7 @@
 
 #### (ii) Public notice
 
-&emsp;&emsp;&emsp;Upon the effective date of any designation of an area as a qualified distressed community, an insured depository institution shall publish a notice of such designation in major newspapers and other community publications which serve such area.
+&emsp;&emsp;&emsp;Upon the effective date of any designation of an area as a qualified distressedcommunity, an insured depository institution shall publish a notice of such designation in major newspapers and other community publications which serve such area.
 
 #### (B) Agency duties relating to designations
 
@@ -398,9 +398,9 @@ Subsec. (e)(2). Pub. L. 102–558, §303(b)(9)(C), substituted “of the semiann
 
 Amendment by section 303(b)(2) of Pub. L. 102–558 deemed to have become effective Mar. 1, 1992, see section 304 of Pub. L. 102–558, set out as a note under section 2062 of Title 50, Appendix, War and National Defense.
 
-Section 303(b)(9) of Pub. L. 102–558 provided that the amendment made by that section is effective on the effective date of the amendment made by section 302(e)(4) of Pub. L. 102–242 \[see section 302(g) of Pub. L. 102–242, set out as a note under section 1817 of this title\].
+Pub. L. 102–558, title III, §303(b)(9), Oct. 28, 1992, 106 Stat. 4226, provided that the amendment made by that section is effective on the effective date of the amendment made by section 302(e)(4) of Pub. L. 102–242 \[see section 302(g) of Pub. L. 102–242, set out as a note under section 1817 of this title\].
 
-Section 1605(a)(7) of Pub. L. 102–550, which provided effective date provisions for the amendment made by that section, was repealed, effective Oct. 28, 1992, by section 305 of Pub. L. 102–558, set out as a Repeal of Duplicative Provisions note under section 1815 of this title.
+Pub. L. 102–550, title XVI, §1605(a)(7), Oct. 28, 1992, 106 Stat. 4086, which provided effective date provisions for the amendment made by that section, was repealed, effective Oct. 28, 1992, by section 305 of Pub. L. 102–558, set out as a Repeal of Duplicative Provisions note under section 1815 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

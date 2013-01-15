@@ -6,5 +6,5 @@ Section 51a, R.S. §1695; acts Apr. 5, 1906, ch. 1366, §3, 34 Stat. 100; Feb. 5
 
 #### Effective Date of Repeal
 
-Repeal effective three months after Aug. 13, 1946, see section 1141 of act Aug. 13, 1946.
+Repeal effective three months after Aug. 13, 1946, see act Aug. 13, 1946, ch. 957, title XI, §1141, 60 Stat. 1040.
 

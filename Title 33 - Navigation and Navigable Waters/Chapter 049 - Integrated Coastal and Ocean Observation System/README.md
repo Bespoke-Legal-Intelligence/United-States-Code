@@ -12,6 +12,7 @@
 | [3608\.](%C2%A7%2003608%20-%20Independent%20cost%20estimate.md) | Independent cost estimate. |
 | [3609\.](%C2%A7%2003609%20-%20Intent%20of%20Congress.md) | Intent of Congress. |
 | [3610\.](%C2%A7%2003610%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [3611\.](%C2%A7%2003611%20-%20Assessing%20and%20modeling%20named%20storms%20over%20coastal%20States.md) | Assessing and modeling named storms over coastal States. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -30,3 +31,4 @@
 - [&sect; 03608 - Independent cost estimate](%C2%A7%2003608%20-%20Independent%20cost%20estimate.md)
 - [&sect; 03609 - Intent of Congress](%C2%A7%2003609%20-%20Intent%20of%20Congress.md)
 - [&sect; 03610 - Authorization of appropriations](%C2%A7%2003610%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 03611 - Assessing and modeling named storms over coastal States](%C2%A7%2003611%20-%20Assessing%20and%20modeling%20named%20storms%20over%20coastal%20States.md)

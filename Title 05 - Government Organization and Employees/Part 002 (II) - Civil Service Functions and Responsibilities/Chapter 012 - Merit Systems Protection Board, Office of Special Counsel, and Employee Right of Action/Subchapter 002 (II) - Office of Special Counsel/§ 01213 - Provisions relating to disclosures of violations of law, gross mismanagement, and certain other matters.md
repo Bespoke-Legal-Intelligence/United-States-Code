@@ -60,7 +60,7 @@
 
 (3) The Special Counsel shall transmit any agency report received pursuant to subsection (c) of this section, any comments provided by the complainant pursuant to subsection (e)(1), and any appropriate comments or recommendations by the Special Counsel to the President and the congressional committees with jurisdiction over the agency which the disclosure involves.
 
-(4) Whenever the Special Counsel does not receive the report of the agency within the time prescribed in subsection (c)(2) of this section, the Special Counsel shall transmit a copy of theinformation which was transmitted to the agency head to the President and the congressional committees with jurisdiction over the agency which the disclosure involves together with a statement noting the failure of the head of the agency to file the required report.
+(4) Whenever the Special Counsel does not receive the report of the agency within the time prescribed in subsection (c)(2) of this section, the Special Counsel shall transmit a copy of the information which was transmitted to the agency head to the President and the congressional committees with jurisdiction over the agency which the disclosure involves together with a statement noting the failure of the head of the agency to file the required report.
 
 (f) In any case in which evidence of a criminal violation obtained by an agency in an investigation under subsection (c) of this section is referred to the Attorney General—
 
@@ -94,7 +94,7 @@
 
 <b>2002</b>—Subsec. (g)(1). Pub. L. 107–304, §3(1), struck out at end “If the Special Counsel does not transmit the information to the head of the agency, the Special Counsel shall return any documents and other matter provided by the individual who made the disclosure.”
 
-Subsec. (g)(3). Pub. L. 107–304, §3(2), added par. (3) and struck out former par. (3) which read as follows: “If the Special Counsel does not transmit the information to the head of the agency under paragraph (2), the Special Counsel shall—
+Subsec. (g)(3). Pub. L. 107–304, §3(2), added par. (3) and struck out former par. (3) which read as follows: “If theSpecial Counsel does not transmit the information to the head of the agency under paragraph (2), the Special Counsel shall—
 
 &emsp;“(A) return any documents and other matter provided by the individual who made the disclosure; and
 

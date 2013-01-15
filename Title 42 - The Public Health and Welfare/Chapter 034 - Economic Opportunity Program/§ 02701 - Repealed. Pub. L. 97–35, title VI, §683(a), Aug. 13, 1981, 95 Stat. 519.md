@@ -8,7 +8,7 @@ Repeal effective Oct. 1, 1981, see section 9912(a) of this title, prior to the g
 
 #### Short Title of 1978 Amendment
 
-Section 1 of Pub. L. 95–568 provided: “That this Act \[enacting sections 2716, 2856, 2929b to 2929b–3, 2979a, 2981b, 2981c, and 2995c of this title, amending this section, sections 2712, 2713, 2790, 2791, 2796, 2808, 2809, 2812, 2814, 2823 to 2825, 2828, 2830, 2833 to 2837, 2841, 2855, 2901 to 2906, 2928a to 2928h, 2928<i>l</i> to 2928n, 2929, 2929a, 2932, 2933, 2941 to 2943, 2945, 2946, 2948, 2950, 2951, 2961, 2965, 2970, 2971g, 2973, 2974, 2977, 2982a to 2982c, 2983a, 2984, 2984a, 2985a, 2985e, 2991b, 2991f, 2992b, 2992d, 2995, and 2995a of this title, repealing sections 2829, 2832, 2861 to 2865, 2871, 2929b, 2971, and 2985c–1 of this title, and enacting provisions set out as notes under this section\] may be cited as the ‘Economic Opportunity Amendments of 1978’.”
+Pub. L. 95–568, §1, Nov. 2, 1978, 92 Stat. 2425, provided: “That this Act \[enacting sections 2716, 2856, 2929b to 2929b–3, 2979a, 2981b, 2981c, and 2995c of this title, amending this section, sections 2712, 2713, 2790, 2791, 2796, 2808, 2809, 2812, 2814, 2823 to 2825, 2828, 2830, 2833 to 2837, 2841, 2855, 2901 to 2906, 2928a to 2928h, 2928l to 2928n, 2929, 2929a, 2932, 2933, 2941 to 2943, 2945, 2946, 2948, 2950, 2951, 2961, 2965, 2970, 2971g, 2973, 2974, 2977, 2982a to 2982c, 2983a, 2984, 2984a, 2985a, 2985e, 2991b, 2991f, 2992b, 2992d, 2995, and 2995a of this title, repealing sections 2829, 2832, 2861 to 2865, 2871, 2929b, 2971, and 2985c–1 of this title, and enacting provisions set out as notes under this section\] may be cited as the ‘Economic Opportunity Amendments of 1978’.”
 
 #### Short Title of 1977 Amendment
 
@@ -16,7 +16,7 @@ Pub. L. 95–222, §1, Dec. 28, 1977, 91 Stat. 1619, provided that: “This Act 
 
 #### Short Title of 1976 Amendment
 
-Pub. L. 94–341, §1, July 6, 1976, 90 Stat. 803, provided that: “This Act \[enacting section 2985c–1 of this title, amending sections 2706, 2707, 2712, 2714, 2781, 2790, 2809, 2812, 2814, 2828, 2829, 2855, 2901, 2902, 2928c, 2928f, 2928<i>l</i>, 2928n, 2930e, 2930f, 2941, 2942, 2943, 2944, 2948, 2951, 2971f, 2971g, 2982a, 2982c, 2984, 2984a, and 2985 to 2985g of this title, enacting provision set out as a note under this section, and amending provisions set out as notes under this section and section 2942 of this title\] may be citedas the ‘Community Services Act Technical Amendments of 1976’.”
+Pub. L. 94–341, §1, July 6, 1976, 90 Stat. 803, provided that: “This Act \[enacting section 2985c–1 of this title, amending sections 2706, 2707, 2712, 2714, 2781, 2790, 2809, 2812, 2814, 2828, 2829, 2855, 2901, 2902, 2928c, 2928f, 2928l, 2928n, 2930e, 2930f, 2941, 2942, 2943, 2944, 2948, 2951, 2971f, 2971g, 2982a, 2982c, 2984, 2984a, and 2985 to 2985g of this title, enacting provision set out as a note under this section, and amending provisions set out as notes under this section and section 2942 of this title\] may be cited as the ‘Community Services Act Technical Amendments of 1976’.”
 
 #### Short Title of 1975 Amendments
 
@@ -42,7 +42,7 @@ Pub. L. 90–222, §1, Dec. 23, 1967, 81 Stat. 672, provided: “That this Act \
 
 #### Short Title of 1966 Amendment
 
-Section 1 of Pub. L. 89–794 provided: “That this Act \[enacting sections 2610c, 2721, 2722, 2762, 2771, 2792, 2793, 2794, 2924, 2925, 2951, 2968, 2969, 2970, and 2991 to 2991e of this title, amending this section, sections 2581, 2583, 2713, 2714, 2716, 2732, 2733, 2734, 2735, 2761, 2782, 2783, 2785, 2786, 2787, 2788, 2802, 2821, 2831, 2851, 2854, 2871, 2881, 2902, 2905, 2906, 2907, 2921, 2922, 2923, 2941, 2942, 2943, 2944, 2945, 2946, 2950, 2961, 2963, 2965, 2966, 2981, and 3161 of this title, and sections 425 and 1077 of Title 20, Education, repealing sections 2731, 2903, and 2904 of this title, and enacting provisions set out as notes under this section and section 2981 of this title and section 425 of Title 20\] may be cited as the ‘Economic Opportunity Amendments of 1966’.”
+Pub. L. 89–794, §1, Nov. 8, 1966, 80 Stat. 1451, provided: “That this Act \[enacting sections 2610c, 2721, 2722, 2762, 2771, 2792, 2793, 2794, 2924, 2925, 2951, 2968, 2969, 2970, and 2991 to 2991e of this title, amending this section, sections 2581, 2583, 2713, 2714, 2716, 2732, 2733, 2734, 2735, 2761, 2782, 2783, 2785, 2786, 2787, 2788, 2802, 2821, 2831, 2851, 2854, 2871, 2881, 2902, 2905, 2906, 2907, 2921, 2922, 2923, 2941, 2942, 2943, 2944, 2945, 2946, 2950, 2961, 2963, 2965, 2966, 2981, and 3161 of this title, and sections 425 and 1077 of Title 20, Education, repealing sections 2731, 2903, and 2904 of this title, and enacting provisions set out as notes under this section and section 2981 of this title and section 425 of Title 20\] may be cited as the ‘Economic Opportunity Amendments of 1966’.”
 
 #### Short Title of 1965 Amendment
 
@@ -50,15 +50,15 @@ Pub. L. 89–253, §1, Oct. 9, 1965, 79 Stat. 973, provided: “That this Act \[
 
 #### Short Title
 
-Section 1 of Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, which provided that Pub. L. 88–452, which enacted this chapter, was to be cited as the “Economic Opportunity Act of 1964”, was repealed by section 683(a) of Pub. L. 97–35.
+Pub. L. 88–452, §1, Aug. 20, 1964, 78 Stat. 508, which provided that Pub. L. 88–452, which enacted this chapter, was to be cited as the “Economic Opportunity Act of 1964”, was repealed by Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519.
 
-Section 3, formerly §101, of Pub. L. 88–452, as added by section 3 of Pub. L. 93–644, Jan. 4, 1975, 88 Stat. 2292, and renumbered and amended by Pub. L. 94–341, §2(a)(1), July 6, 1976, 90 Stat. 803, provided that: “Title I through IX of this Act \[subchapters I through IX of this chapter\] may be cited as the ‘Community Services Act of 1974’.”
+Pub. L. 88–452, §3, formerly §101, as added by Pub. L. 93–644, §3, Jan. 4, 1975, 88 Stat. 2292, and renumbered and amended by Pub. L. 94–341, §2(a)(1), July 6, 1976, 90 Stat. 803, provided that: “Title I through IX of this Act \[subchapters I through IX of this chapter\] may be cited as the ‘Community Services Act of 1974’.”
 
 Pub. L. 88–452, title X, §1014, as added by Pub. L. 93–355, §2, July 25, 1974, 88 Stat. 389, provided that: “This title \[subchapter X of this chapter\] may be cited as the ‘Legal Services Corporation Act’.”
 
 #### Statement of Purpose of 1978 Amendment
 
-Section 2 of Pub. L. 95–568 provided that: “It is the purpose of this Act \[see Short Title of 1978 Amendment note above\] to extend and revise programs under title I through title IX \[subchapter I to IX of this chapter\] of the Economic Opportunity Act of 1964 (hereinafter in this Act referred to as the ‘Act’).”
+Pub. L. 95–568, §2, Nov. 2, 1978, 92 Stat. 2425, provided that: “It is the purpose of this Act \[see Short Title of 1978 Amendment note above\] to extend and revise programs under title I through title IX \[subchapter I to IX of this chapter\] of the Economic Opportunity Act of 1964 (hereinafter in this Act referred to as the ‘Act’).”
 
 #### Executive Order No. 11470
 

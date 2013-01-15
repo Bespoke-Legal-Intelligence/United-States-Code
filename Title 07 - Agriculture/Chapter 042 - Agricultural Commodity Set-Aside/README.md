@@ -9,8 +9,8 @@
 | [1745\.](%C2%A7%2001745%20-%20Computation%20of%20carryover.md) | Computation of carryover. |
 | [1746\.](%C2%A7%2001746%20-%20Records%20and%20accounts.md) | Records and accounts. |
 | [1747\.](%C2%A7%2001747%20-%20Authorization%20of%20appropriations%3B%20determination%20of%20value%20of%20transferred%20commodity.md) | Authorization of appropriations; determination of value of transferred commodity. |
-| [1748\.](%C2%A7%2001748%20-%20Annual%20reports%20by%20agricultural%20attache%EF%BF%BDAE1s.md) | Annual reports by agricultural attache�AE1s. |
-| [1749\.](%C2%A7%2001749%20-%20Attache%EF%BF%BDAE1%20educational%20program.md) | Attache�AE1 educational program. |
+| [1748\.](%C2%A7%2001748%20-%20Annual%20reports%20by%20agricultural%20attach%C3%A9s.md) | Annual reports by agricultural attachés. |
+| [1749\.](%C2%A7%2001749%20-%20Attach%C3%A9%20educational%20program.md) | Attaché educational program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -26,5 +26,5 @@
 - [&sect; 01745 - Computation of carryover](%C2%A7%2001745%20-%20Computation%20of%20carryover.md)
 - [&sect; 01746 - Records and accounts](%C2%A7%2001746%20-%20Records%20and%20accounts.md)
 - [&sect; 01747 - Authorization of appropriations; determination of value of transferred commodity](%C2%A7%2001747%20-%20Authorization%20of%20appropriations%3B%20determination%20of%20value%20of%20transferred%20commodity.md)
-- [&sect; 01748 - Annual reports by agricultural attache&#65533;AE1s](%C2%A7%2001748%20-%20Annual%20reports%20by%20agricultural%20attache%EF%BF%BDAE1s.md)
-- [&sect; 01749 - Attache&#65533;AE1 educational program](%C2%A7%2001749%20-%20Attache%EF%BF%BDAE1%20educational%20program.md)
+- [&sect; 01748 - Annual reports by agricultural attach&#233;s](%C2%A7%2001748%20-%20Annual%20reports%20by%20agricultural%20attach%C3%A9s.md)
+- [&sect; 01749 - Attach&#233; educational program](%C2%A7%2001749%20-%20Attach%C3%A9%20educational%20program.md)

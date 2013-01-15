@@ -6,7 +6,7 @@ In General.—
 
 &emsp;(1)
 
-Plan required.—Not later than 18 months after the date of enactment of the Rail Safety Improvement Act of 2008, each Class I railroad carrier and each entity providing regularly scheduled intercity or commuter rail passenger transportation shall develop and submit to the Secretary of Transportation a plan for implementing a positive train control system by December 31, 2015, governing operations on—
+Plan required.—Not later than 18 months after the date of enactment of the Rail Safety Improvement Act of 2008, each Class I railroad carrier and each entity providing regularly scheduled intercity or commuter railpassenger transportation shall develop and submit to the Secretary of Transportation a plan for implementing a positive train control system by December 31, 2015, governing operations on—
 
 &emsp;&emsp;(A) its main line over which intercity rail passenger transportation or commuter rail passenger transportation, as defined in section 24102, is regularly provided;
 

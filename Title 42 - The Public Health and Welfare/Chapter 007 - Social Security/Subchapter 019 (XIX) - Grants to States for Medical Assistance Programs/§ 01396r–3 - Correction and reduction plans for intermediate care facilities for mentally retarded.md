@@ -68,7 +68,7 @@ The reduction plan must—
 
 The provisions of this section shall apply only to plans of correction and reduction plans approved by the Secretary by January 1, 1990.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1922, formerly §1919, as added Pub. L. 99–272, title IX, §9516(a), Apr. 7, 1986, 100 Stat. 213; renumbered §1922 and amended Pub. L. 100–203, title IV, §§4211(a)(2), 4212(e)(5), Dec. 22, 1987, 101 Stat. 1330–182; amended Pub. L. 100–360, title IV, §411(<i>l</i>)(6)(E), July 1, 1988, 102 Stat. 804; Pub. L. 100–647, title VIII, §8433(a), Nov. 10, 1988, 102 Stat. 3804.)
+(Aug. 14, 1935, ch. 531, title XIX, §1922, formerly §1919, as added Pub. L. 99–272, title IX, §9516(a), Apr. 7, 1986, 100 Stat. 213; renumbered §1922 and amended Pub. L. 100–203, title IV, §§4211(a)(2), 4212(e)(5), Dec. 22, 1987, 101 Stat. 1330–182; amended Pub. L. 100–360, title IV, §411(l)(6)(E), July 1, 1988, 102 Stat. 804; Pub. L. 100–647, title VIII, §8433(a), Nov. 10, 1988, 102 Stat. 3804.)
 
 #### Prior Provisions
 
@@ -80,19 +80,19 @@ A prior section 1922 of act Aug. 14, 1935, was renumbered section 1939 and is cl
 
 Subsec. (c)(5). Pub. L. 100–647, §8433(a)(2), inserted “, and to provide active treatment for,” after “safety of”.
 
-Subsec. (e)(1), (2)(A). Pub. L. 100–360, §411(<i>l</i>)(6)(E), substituted “1396i(b)” for “1396i(c)”.
+Subsec. (e)(1), (2)(A). Pub. L. 100–360, §411(l)(6)(E), substituted “1396i(b)” for “1396i(c)”.
 
 Subsec. (f). Pub. L. 100–647, §8433(a)(3), substituted “by January 1, 1990” for “within 3 years after the effective date of final regulations implementing this section”.
 
-#### Effective Date of 1988 Amendments
+#### Effective Date of 1988 Amendment
 
-Section 8433(b) of Pub. L. 100–647 provided that: “The amendments made by subsection (a) \[amending this section\] shall become effective on the date of the enactment of this Act \[Nov. 10, 1988\], and shall apply to any proceeding where there has not yet been a final determination by the Secretary (as defined for purposes of judicial review) as of the date of the enactment of this Act.”
+Pub. L. 100–647, title VIII, §8433(b), Nov. 10, 1988, 102 Stat. 3805, provided that: “The amendments made by subsection (a) \[amending this section\] shall become effective on the date of the enactment of this Act \[Nov. 10, 1988\], and shall apply to any proceeding where there has not yet been a final determination by the Secretary (as defined for purposes of judicial review) as of the date of the enactment of this Act.”
 
 Except as specifically provided in section 411 of Pub. L. 100–360, amendment by Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
 
 #### Effective Date
 
-Section 9516(b) of Pub. L. 99–272 provided that:
+Pub. L. 99–272, title IX, §9516(b), Apr. 7, 1986, 100 Stat. 215, provided that:
 
 “(1) The amendment made by this section \[enacting this section\] shall become effective on the date of the enactment of this Act \[Apr. 7, 1986\].
 
@@ -100,7 +100,7 @@ Section 9516(b) of Pub. L. 99–272 provided that:
 
 #### Regulations
 
-Section 4217 of Pub. L. 100–203 provided that:
+Pub. L. 100–203, title IV, §4217, Dec. 22, 1987, 101 Stat. 1330–220, provided that:
 
 “(a)
 
@@ -110,5 +110,5 @@ In General.—Not later than 30 days after the date of enactment of this Act \[D
 
 #### Report to Congress on Implementation and Results of This Section
 
-Section 9516(c) of Pub. L. 99–272, as amended by Pub. L. 100–203, title IV, §4211(<i>l</i>), Dec. 22, 1987, 101 Stat. 1330–207, directed Secretary of Health and Human Services to submit a report to Congress on implementation and results of this section, such report to be submitted not later than 30 months after the effective date of final regulations promulgated to implement this section.
+Pub. L. 99–272, title IX, §9516(c), Apr. 7, 1986, 100 Stat. 215, as amended by Pub. L. 100–203, title IV, §4211(l), Dec. 22, 1987, 101 Stat. 1330–207, directed Secretary of Health and Human Services to submit a report to Congress on implementation and results of this section, such report to be submitted not later than 30 months after the effective date of final regulations promulgated to implement this section.
 

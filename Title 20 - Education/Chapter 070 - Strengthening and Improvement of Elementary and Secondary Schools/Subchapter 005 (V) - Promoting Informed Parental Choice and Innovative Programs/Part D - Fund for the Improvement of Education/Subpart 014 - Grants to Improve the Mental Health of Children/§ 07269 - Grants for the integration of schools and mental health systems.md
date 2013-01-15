@@ -12,7 +12,7 @@ With respect to a grant, contract, or cooperative agreement awarded or entered i
 
 A State educational agency, local educational agency, or Indian tribe that receives a grant, contract, or cooperative agreement under this section shall use amounts made available through such grant, contract, or cooperative agreement for the following:
 
-&emsp;(1) To enhance, improve, or develop collaborative efforts between school-based service systems and mental health service systems to provide, enhance, or improve prevention, diagnosis, and treatment services to students.
+&emsp;(1) To enhance, improve, or develop collaborative efforts between school-based service systems and mental health service systems toprovide, enhance, or improve prevention, diagnosis, and treatment services to students.
 
 &emsp;(2) To enhance the availability of crisis intervention services, appropriate referrals for students potentially in need of mental health services, and ongoing mental health services.
 

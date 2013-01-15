@@ -50,7 +50,7 @@ Amendment by Pub. L. 103–416 effective on the first day of the first month beg
 
 #### Effective Date of 1991 Amendment
 
-Section 305(m) of Pub. L. 102–232 provided that the amendment made by that section is effective as if included in section 407(d) of the Immigration Act of 1990, Pub. L. 101–649.
+Pub. L. 102–232, title III, §305(m), Dec. 12, 1991, 105 Stat. 1750, provided that the amendment made by section 305(m) is effective as if included in section 407(d) of the Immigration Act of 1990, Pub. L. 101–649.
 
 #### Effective Date of 1988 Amendment
 
@@ -66,5 +66,5 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 #### Certificates of Non-Citizen National Status; $35 Limit on Fees for Processing Applications Filed Before End of Fiscal Year 1987
 
-Section 16(c) of Pub. L. 99–396 provided that: “The Secretary of State may not impose a fee exceeding $35 for the processing of an application for a certificate of non-citizen national status under section 341(b) of the Immigration and Nationality Act \[8 U.S.C. 1452(b)\] filed before the end of fiscal year 1987.”
+Pub. L. 99–396, §16(c), Aug. 27, 1986, 100 Stat. 843, provided that: “The Secretary of State may not impose a fee exceeding $35 for the processing of an application for a certificate of non-citizen national status under section 341(b) of the Immigration and Nationality Act \[8 U.S.C. 1452(b)\] filed before the end of fiscal year 1987.”
 

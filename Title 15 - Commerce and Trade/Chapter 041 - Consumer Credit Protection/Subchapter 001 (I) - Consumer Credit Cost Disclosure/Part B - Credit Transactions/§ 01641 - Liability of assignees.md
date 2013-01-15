@@ -16,7 +16,7 @@ Any consumer who has the right to rescind a transaction under section 1635 of th
 
 #### (1) In general
 
-&emsp;Any person who purchases or is otherwise assigned a mortgage referred to in section 1602(aa) <sup>1</sup> of this title shall be subject to all claims and defenses with respect to that mortgage that the consumer could assert against the creditor of the mortgage, unless the purchaser or assignee demonstrates, by a preponderance of the evidence, that a reasonable person exercising ordinary due diligence, could not determine, based on the documentation required by this subchapter, the itemization of the amount financed, and other disclosure of disbursements that the mortgage was a mortgage referred to in section 1602(aa) <sup>1</sup> of thistitle. The preceding sentence does not affect rights of a consumer under subsection (a), (b), or (c) of this section or any other provision of this subchapter.
+&emsp;Any person who purchases or is otherwise assigned a mortgage referred to in section 1602(aa) <sup>1</sup> of this title shall be subject to all claims and defenses with respect to that mortgage that the consumer could assert against the creditor of the mortgage, unless the purchaser or assignee demonstrates, by a preponderance of the evidence, that a reasonable person exercising ordinary due diligence, could not determine, based on the documentation required by this subchapter, the itemization of the amount financed, and other disclosure of disbursements that the mortgage was a mortgage referred to in section 1602(aa) <sup>1</sup> of this title. The preceding sentence does not affect rights of a consumer under subsection (a), (b),or (c) of this section or any other provision of this subchapter.
 
 #### (2) Limitation on damages
 
@@ -112,7 +112,7 @@ Subsec. (f). Pub. L. 104–29, §7(b), added subsec. (f).
 
 <b>1994</b>—Subsec. (d). Pub. L. 103–325 added subsec. (d).
 
-<b>1980</b>—Pub. L. 96–221 added subsecs. (a) and (c), designated existing provisions as subsec. (b), substituted “excepted as provided in subsection (a) of this section” for “unless the violation is apparent on the face of the statement”, and struck out exception for actions under section 1640(d) of this title.
+<b>1980</b>—Pub. L. 96–221 added subsecs. (a) and (c), designated existing provisions as subsec. (b), substituted “excepted as provided in subsection (a) of this section”for “unless the violation is apparent on the face of the statement”, and struck out exception for actions under section 1640(d) of this title.
 
 #### Effective Date of 2010 Amendment
 

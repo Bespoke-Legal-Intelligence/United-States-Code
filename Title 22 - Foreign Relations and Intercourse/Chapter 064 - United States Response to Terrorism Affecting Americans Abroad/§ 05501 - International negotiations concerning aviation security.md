@@ -30,7 +30,7 @@ No act with the title Foreign Airport Security Act, referred to in subsecs. (a)(
 
 #### Congressional Findings
 
-Section 2 of Pub. L. 101–604 provided that: “Congress finds that—
+Pub. L. 101–604, §2, Nov. 16, 1990, 104 Stat. 3066, provided that: “Congress finds that—
 
 &emsp;“(1) the safety and security of passengers of United States air carriers against terrorist threats should be given the highest priority by the United States Government;
 

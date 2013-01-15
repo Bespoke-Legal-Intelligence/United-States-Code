@@ -2,7 +2,7 @@
 
 #### (a) Bond to stay collection
 
-When an assessment has been made under section 6851, 6852,,<sup>1</sup> 6861 or 6862, the collection of the whole or any amount of such assessment may be stayed by filing with the Secretary, within such time as may be fixed by regulations prescribed by the Secretary, a bond in an amount equal tothe amount as to which the stay is desired, conditioned upon the payment of the amount (together with interest thereon) the collection of which is stayed, at the time at which, but for the making of such assessment, such amount would be due. Upon the filing of the bond the collection of so much of the amount assessed as is covered by the bond shall be stayed. The taxpayer shall have the right to waive such stay at any time in respect of the whole or any part of the amount covered by the bond, and if as a result of such waiver any part of the amount covered by the bond is paid, then the bond shall, at the request of the taxpayer, be proportionately reduced. If any portion of such assessment is abated, the bond shall, at the request of the taxpayer, be proportionately reduced.
+When an assessment has been made under section 6851, 6852,,<sup>1</sup> 6861 or 6862, the collection of the whole or any amount of such assessment may be stayed by filing with the Secretary, within such time as may be fixed by regulations prescribed by the Secretary, a bond in an amount equal to the amount as to which the stay is desired, conditioned upon the payment of the amount (together with interest thereon) the collection of which is stayed, at the time at which, but for the making of such assessment, such amount would be due. Upon the filing of the bond the collection of so much of the amount assessed as is covered by the bond shall be stayed. The taxpayer shall have the right to waive such stay at any time in respect of the whole or any part of the amount covered by the bond, and if as a result of such waiver any part of the amount covered by the bond is paid, then the bond shall, at the request of the taxpayer, be proportionately reduced. If any portion of such assessment is abated, the bond shall, at the request of the taxpayer, be proportionately reduced.
 
 #### (b) Further conditions in case of income, estate, or gift taxes
 
@@ -10,7 +10,7 @@ In the case of taxes subject to the jurisdiction of the Tax Court—
 
 #### (1) Prior to petition to Tax Court
 
-&emsp;If the bond is given before the taxpayer has filed his petition under section 6213(a), the bond shall contain a further condition that if a petition is not filed within the period provided in such section, then the amount, the collection of which is stayed by the bond, will be paid on notice and demand at any time after the expiration of such period, together with interest thereon from the date of the jeopardy notice and demand to the date of notice and demand under this paragraph.
+&emsp;If the bond is given before the taxpayer has filed his petition under section 6213(a), the bond shall contain a further condition that if a petition is not filed within the period provided in such section, then the amount, thecollection of which is stayed by the bond, will be paid on notice and demand at any time after the expiration of such period, together with interest thereon from the date of the jeopardy notice and demand to the date of notice and demand under this paragraph.
 
 #### (2) Effect of Tax Court decision
 
@@ -88,7 +88,7 @@ Amendment by Pub. L. 101–239 effective as if included in the provision of the 
 
 #### Effective Date of 1988 Amendment
 
-Section 6245(b) of Pub. L. 100–647 provided that: “The amendments made by this section \[amending this section\] shall take effect on the 90th day after the date of the enactment of this Act \[Nov. 10, 1988\].”
+Pub. L. 100–647, title VI, §6245(b), Nov. 10, 1988, 102 Stat. 3751, provided that: “The amendments made by this section \[amending this section\] shall take effect on the 90th day after the date of the enactment of this Act \[Nov. 10, 1988\].”
 
 #### Effective Date of 1976 Amendment
 

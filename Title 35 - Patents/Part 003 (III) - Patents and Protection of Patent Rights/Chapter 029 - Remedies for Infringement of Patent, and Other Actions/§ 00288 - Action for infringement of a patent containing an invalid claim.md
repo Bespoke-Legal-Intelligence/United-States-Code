@@ -1,12 +1,8 @@
 ### §288. Action for infringement of a patent containing an invalid claim
 
-Whenever, without deceptive intention, a claim of a patent is invalid, an action may be maintained for the infringement of a claim of the patent which may be valid. The patentee shall recover no costs unless a disclaimer of the invalid claim has been entered at the Patent and Trademark Office before the commencement of the suit.
+Whenever a claim of a patent is invalid, an action may be maintained for the infringement of a claim of the patent which may be valid. The patentee shall recover no costs unless a disclaimer of the invalid claim has been entered at the Patent and Trademark Office before the commencement of the suit.
 
 (July 19, 1952, ch. 950, 66 Stat. 813; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 112–29, §20(h), Sept. 16, 2011, 125 Stat. 334.)
-
-#### Amendment of Section
-
-<i>Pub. L. 112–29, §20(h), (l), Sept. 16, 2011, 125 Stat. 334, 335, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, this section is amended by striking “, without deceptive intention,”. See 2011 Amendment note below.</i>
 
 #### Historical and Revision Notes
 
@@ -24,7 +20,7 @@ Language is changed.
 
 #### Effective Date of 2011 Amendment
 
-Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(<i>l</i>) of Pub. L. 112–29, set out as a note under section 2 of this title.
+Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(l) of Pub. L. 112–29, set out as a note under section 2 of this title.
 
 #### Effective Date of 1975 Amendment
 

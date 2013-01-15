@@ -4,7 +4,7 @@
 
 This section shall apply only to a forward-looking statement made by—
 
-&emsp;(1) an issuer that, at the time that the statement is made, is subject to the reporting requirements of section 78m(a) or section 78<i>o</i>(d) of this title;
+&emsp;(1) an issuer that, at the time that the statement is made, is subject to the reporting requirements of section 78m(a) or section 78o(d) of this title;
 
 &emsp;(2) a person acting on behalf of such issuer;
 
@@ -20,7 +20,7 @@ Except to the extent otherwise specifically provided by rule, regulation, or ord
 
 &emsp;&emsp;(A) during the 3-year period preceding the date on which the statement was first made—
 
-&emsp;&emsp;&emsp;(i) was convicted of any felony or misdemeanor described in clauses (i) through (iv) of section 78<i>o</i>(b)(4)(B) of this title; or
+&emsp;&emsp;&emsp;(i) was convicted of any felony or misdemeanor described in clauses (i) through (iv) of section 78o(b)(4)(B) of this title; or
 
 &emsp;&emsp;&emsp;(ii) has been made the subject of a judicial or administrative decree or order arising out of a governmental action that—
 
@@ -76,7 +76,7 @@ Except to the extent otherwise specifically provided by rule, regulation, or ord
 
 #### (2) Oral forward-looking statements
 
-&emsp;In the case of an oral forward-looking statement made by an issuer that is subject to the reporting requirements of section 78m(a) or section 78<i>o</i>(d) of this title, or by a person acting on behalf of such issuer, the requirement set forth in paragraph (1)(A) shall be deemed to be satisfied—
+&emsp;In the case of an oral forward-looking statement made by an issuer that is subject to the reporting requirements of section 78m(a) or section 78o(d) of this title, or by a person acting on behalf of such issuer, the requirement set forth in paragraph (1)(A) shall be deemed to be satisfied—
 
 &emsp;&emsp;(A) if the oral forward-looking statement is accompanied by a cautionary statement—
 
@@ -140,7 +140,7 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;&emsp;(D) any statement of the assumptions underlying or relating to any statement described in subparagraph (A), (B), or (C);
 
-&emsp;&emsp;(E) any report issued by an outside reviewer retained by an issuer, to the extent that the report assesses a forward-looking statement made by the issuer; or
+&emsp;&emsp;(E) any report issued by an outside reviewer retained by an issuer, to the extentthat the report assesses a forward-looking statement made by the issuer; or
 
 &emsp;&emsp;(F) a statement containing a projection or estimate of such other items as may be specified by rule or regulation of the Commission.
 
@@ -182,7 +182,7 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
 #### Effective Date
 
-Section not to affect or apply to any private action arising under this subchapter or title I of the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.), commenced before and pending on Dec. 22, 1995, see section 108 of Pub. L. 104–67, set out as an Effective Date of 1995 Amendment note under section 77<i>l</i> of this title.
+Section not to affect or apply to any private action arising under this subchapter or title I of the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.), commenced before and pending on Dec. 22, 1995, see section 108 of Pub. L. 104–67, set out as an Effective Date of 1995 Amendment note under section 77l of this title.
 
 #### Construction
 

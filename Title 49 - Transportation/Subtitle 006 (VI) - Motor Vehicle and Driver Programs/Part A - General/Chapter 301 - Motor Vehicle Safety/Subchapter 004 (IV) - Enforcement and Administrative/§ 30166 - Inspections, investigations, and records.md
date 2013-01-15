@@ -20,17 +20,19 @@ Matters That Can Be Inspected and Impoundment.—In carrying out this chapter, a
 
 &emsp;(1) at reasonable times, may inspect and copy any record related to this chapter;
 
-&emsp;(2) on request, may inspect records of a manufacturer, distributor, or dealer to decide whether the manufacturer, distributor, or dealer has complied or is complying with this chapter or a regulation prescribed or order issued under this chapter; and
+&emsp;(2) on request, may inspect records of a manufacturer, distributor, or dealer to decide whether the manufacturer, distributor, or dealer has complied or is complying with this chapter or a regulation prescribed or order issued under this chapter;
 
 &emsp;(3) at reasonable times, in a reasonable way, and on display of proper credentials and written notice to an owner, operator, or agent in charge, may—
 
-&emsp;&emsp;(A) enter and inspect with reasonable promptness premises in which a motor vehicle or motor vehicle equipment is manufactured, held for introduction in interstate commerce, or held for sale after introduction in interstate commerce;
+&emsp;&emsp;(A) enter and inspect with reasonable promptness premises in which a motor vehicle or motor vehicle equipment is manufactured, held for introduction in interstate commerce (including at United States ports of entry), or held for sale after introduction in interstate commerce;
 
 &emsp;&emsp;(B) enter and inspect with reasonable promptness premises at which a vehicle or equipment involved in a motor vehicle accident is located;
 
 &emsp;&emsp;(C) inspect with reasonable promptness that vehicle or equipment; and
 
-&emsp;&emsp;(D) impound for not more than 72 hours a vehicle or equipment involved in a motor vehicle accident.
+&emsp;&emsp;(D) impound for not more than 72 hours a vehicle or equipment involved in a motor vehicle accident;
+
+&emsp;(4) shall enter into a memorandum of understanding with the Secretary of Homeland Security for inspections and sampling of motor vehicle equipment being offered for import to determine compliance with this chapter or a regulation or order issued under this chapter.
 
 (d)
 
@@ -42,7 +44,21 @@ Records and Making Reports.—The Secretary of Transportation reasonably may req
 
 (f)
 
-Providing Copies of Communications About Defects and Noncompliance.—A manufacturer shall give the Secretary of Transportation a true or representative copy of each communication to the manufacturer's dealers or to owners or purchasers of a motor vehicle or replacement equipment produced by the manufacturer about a defect or noncompliance with a motor vehicle safety standard prescribed under this chapter in a vehicle or equipment that is sold or serviced.
+Providing Copies of Communications About Defects and Noncompliance.—
+
+&emsp;(1)
+
+In general.—A manufacturer shall give the Secretary of Transportation, and the Secretary shall make available on a publicly accessible Internet website, a true or representative copy of each communication to the manufacturer's dealers or to owners or purchasers of a motor vehicle or replacement equipment produced by the manufacturer about a defect or noncompliance with a motor vehicle safety standard prescribed under this chapter in a vehicle or equipment that is sold or serviced.
+
+&emsp;(2)
+
+Index.—Communications required to be submitted to the Secretary under this subsection shall be accompanied by an index to each communication, that—
+
+&emsp;&emsp;(A) identifies the make, model, and model year of the affected vehicles;
+
+&emsp;&emsp;(B) includes a concise summary of the subject matter of the communication; and
+
+&emsp;&emsp;(C) shall be made available by the Secretary to the public on the Internet in a searchable format.
 
 (g)
 
@@ -70,7 +86,7 @@ Cooperation of Secretary.—The Secretary of Transportation may advise, assist, 
 
 Providing Information.—The Secretary of Transportation shall provide the Attorney General and, when appropriate, the Secretary of the Treasury, information obtained that indicates a violation of this chapter or a regulation prescribed or order issued under this chapter.
 
-(<i>l</i>)
+(l)
 
 Reporting of Defects in Motor Vehicles and Products in Foreign Countries.—
 
@@ -134,7 +150,7 @@ Secretary's specifications.—In requiring the reporting of any information requ
 
 &emsp;&emsp;(B)
 
-Information in possession of manufacturer.—The regulations promulgated by the Secretary under paragraph (1) may not require a manufacturer of a motor vehicle ormotor vehicle equipment to maintain or submit records respecting information not in the possession of the manufacturer.
+Information in possession of manufacturer.—The regulations promulgated by the Secretary under paragraph (1) may not require a manufacturer of a motor vehicle or motor vehicle equipment to maintain or submit records respecting information not in the possession of the manufacturer.
 
 &emsp;&emsp;(C)
 
@@ -164,7 +180,27 @@ Defect or noncompliance remedied or order not in effect.—Regulations under par
 
 &emsp;&emsp;(B) notification of the defect or noncompliance is required under section 30118(b) but enforcement of the order is restrained or the order is set aside in a civil action to which section 30121(d) applies.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 969; Pub. L. 103–429, §6(24), Oct. 31, 1994, 108 Stat. 4380; Pub. L. 104–88, title III, §308(j), Dec. 29, 1995, 109 Stat. 947; Pub. L. 104–287, §6(f)(3), Oct. 11, 1996, 110 Stat. 3399; Pub. L. 106–414, §3(a)–(c), Nov. 1, 2000, 114 Stat. 1800–1802.)
+(o)
+
+Corporate Responsibility for Reports.—
+
+&emsp;(1)
+
+In general.—The Secretary may promulgate rules requiring a senior official responsible for safety in any company submitting information to the Secretary in response to a request for information in a safety defect or compliance investigation under this chapter to certify that—
+
+&emsp;&emsp;(A) the signing official has reviewed the submission; and
+
+&emsp;&emsp;(B) based on the official's knowledge, the submission does not—
+
+&emsp;&emsp;&emsp;(i) contain any untrue statement of a material fact; or
+
+&emsp;&emsp;&emsp;(ii) omit to state a material fact necessary in order to make the statements made not misleading, in light of the circumstances under which such statements were made.
+
+&emsp;(2)
+
+Notice.—The certification requirements of this section shall be clearly stated on any request for information under paragraph (1).
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 969; Pub. L. 103–429, §6(24), Oct. 31, 1994, 108 Stat. 4380; Pub. L. 104–88, title III, §308(j), Dec. 29, 1995, 109 Stat. 947; Pub. L. 104–287, §6(f)(3), Oct. 11, 1996, 110 Stat. 3399; Pub. L. 106–414, §3(a)–(c), Nov. 1, 2000, 114 Stat. 1800–1802; Pub. L. 112–141, div. C, title I, §§31209, 31303(a), 31304(a), July 6, 2012, 126 Stat. 762, 764.)
 
 Historical and Revision Notes
 
@@ -292,7 +328,7 @@ In subsection (g)(1), before clause (A), the words “or on the authorization of
 
 In subsection (h), the words “A civil action to enforce a subpena or order . . . may be brought in the United States district court for the judicial district in which the proceeding is conducted” are substituted for “any of the district courts of the United States within the jurisdiction of which an inquiry is carried on may, in the case of contumacy or refusal to obey a subpena or order of the Secretary or such officer or employee . . . issue an order requiring compliance therewith” for clarity and to eliminate unnecessary words. The words “an order of the court to comply with a subpena or order” are substituted for “such order of the court” for clarity.
 
-In subsection (i), the words “United States” are substituted for “Federal” for consistency. The words “to provide” are substituted for “from” because of the restatement. The words “his functions under” are omitted as surplus. The words “head of the” are added for consistency. The words “to the Department of Transportation . . . made by the Secretary” are omitted as surplus. The words “detail personnel on a reimbursable basis” are substituted for 15:1401(c)(6)(B) to eliminate unnecessary words and because of the restatement. The word “otherwise” is added for clarity. The words “be deemed to” and “provision of” are omitted as surplus.
+In subsection (i), the words “United States” are substituted for “Federal” for consistency. The words “to provide” are substituted for “from” because of the restatement. The words “his functions under” are omitted as surplus. The words “head of the” are added for consistency. The words “to the Department of Transportation . . . made by the Secretary” are omitted as surplus. The words “detail personnel on a reimbursable basis” are substituted for 15:1401(c)(6)(B) to eliminate unnecessary words and because of the restatement. Theword “otherwise” is added for clarity. The words “be deemed to” and “provision of” are omitted as surplus.
 
 In subsection (j), the words “departments, agencies, and instrumentalities of the Government, States, and other public and private agencies” are substituted for “other Federal departments and agencies, and State and other interested public and private agencies” for consistency.
 
@@ -308,7 +344,15 @@ The date of the enactment of the Transportation Recall Enhancement, Accountabili
 
 #### Amendments
 
-<b>2000</b>—Subsecs. (<i>l</i>) to (n). Pub. L. 106–414 added subsecs. (<i>l</i>) to (n).
+<b>2012</b>—Subsec. (c)(3)(A). Pub. L. 112–141, §31209(2)(A), inserted “(including at United States ports of entry)” after “held for introduction in interstate commerce”.
+
+Subsec. (c)(4). Pub. L. 112–141, §31209(1), (2)(B), (3), added par. (4).
+
+Subsec. (f). Pub. L. 112–141, §31303(a), designated existing provisions as par. (1), inserted heading, substituted “A manufacturer shall give the Secretary of Transportation, and the Secretary shall make available on a publicly accessible Internet website,” for “A manufacturer shall give the Secretary of Transportation”, and added par. (2).
+
+Subsec. (o). Pub. L. 112–141, §31304(a), added subsec. (o).
+
+<b>2000</b>—Subsecs. (l) to (n). Pub. L. 106–414 added subsecs. (l) to (n).
 
 <b>1996</b>—Subsec. (d). Pub. L. 104–287 made technical amendment to directory language of Pub. L. 104–88, §308(j). See 1995 Amendment note below.
 
@@ -316,9 +360,13 @@ The date of the enactment of the Transportation Recall Enhancement, Accountabili
 
 <b>1994</b>—Subsec. (h). Pub. L. 103–429 substituted “any judicial district” for “the judicial district”.
 
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
+
 #### Effective Date of 1996 Amendment
 
-Section 6(f)(3) of Pub. L. 104–287 provided that the amendment made by that section is effective Dec. 29, 1995.
+Pub. L. 104–287, §6(f)(3), Oct. 11, 1996, 110 Stat. 3399, provided that the amendment made by section 6(f)(3) is effective Dec. 29, 1995.
 
 #### Effective Date of 1995 Amendment
 
@@ -327,4 +375,34 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
+
+#### Public Availability of Recall Information
+
+Pub. L. 112–141, div. C, title I, §31301, July 6, 2012, 126 Stat. 763, provided that:
+
+“(a)
+
+Vehicle Recall Information.—Not later than 1 year after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\], the Secretary \[of Transportation\] shall require that motor vehicle safety recall information—
+
+&emsp;“(1) be available to the public on the Internet;
+
+&emsp;“(2) be searchable by vehicle make and model and vehicle identification number;
+
+&emsp;“(3) be in a format that preserves consumer privacy; and
+
+&emsp;“(4) includes \[sic\] information about each recall that has not been completed for each vehicle.
+
+“(b)
+
+Rulemaking.—The Secretary may initiate a rulemaking proceeding to require each manufacturer to provide the information described in subsection (a), with respect to that manufacturer's motor vehicles, on a publicly accessible Internet website. Any rules promulgated under this subsection—
+
+&emsp;“(1) shall limit the information that must be made available under this section to include only those recalls issued not more than 15 years prior to the date of enactment of this Act;
+
+&emsp;“(2) may require information under paragraph (1) to be provided to a dealer or an owner of a vehicle at no charge; and
+
+&emsp;“(3) shall permit a manufacturer a reasonable period of time after receiving information from a dealer with respect to a vehicle to update the information about the vehicle on the publicly accessible Internet website.
+
+“(c)
+
+Promotion of Public Awareness.—The Secretary, in consultation with the heads of other relevant agencies, shall promote consumer awareness of the information made available to the public pursuant to this section.”
 

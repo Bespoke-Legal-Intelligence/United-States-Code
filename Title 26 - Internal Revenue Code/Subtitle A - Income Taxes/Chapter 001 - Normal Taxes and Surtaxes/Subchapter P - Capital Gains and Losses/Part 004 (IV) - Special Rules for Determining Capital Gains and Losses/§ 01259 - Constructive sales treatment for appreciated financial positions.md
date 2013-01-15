@@ -134,7 +134,7 @@ For purposes of this section—
 
 #### (3) Multiple positions in property
 
-&emsp;If a taxpayer holds multiple positions in property, the determination of whether a specific transaction is a constructive sale and, ifso, which appreciated financial position is deemed sold shall be made in the same manner as actual sales.
+&emsp;If a taxpayer holds multiple positions in property, the determination of whether a specific transaction is a constructive sale and, if so, which appreciated financial position is deemed sold shall be made in the same manner as actual sales.
 
 #### (f) Regulations
 

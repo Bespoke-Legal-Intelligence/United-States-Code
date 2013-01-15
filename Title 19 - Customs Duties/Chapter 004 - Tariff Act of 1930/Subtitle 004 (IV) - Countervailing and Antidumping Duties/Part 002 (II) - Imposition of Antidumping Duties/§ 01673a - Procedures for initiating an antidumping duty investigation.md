@@ -106,7 +106,7 @@
 
 #### (ii) Producers who are importers
 
-&emsp;&emsp;&emsp;The administering authority may disregard the position of domestic producersof a domestic like product who are importers of the subject merchandise.
+&emsp;&emsp;&emsp;The administering authority may disregard the position of domestic producers of a domestic like product who are importers of the subject merchandise.
 
 #### (C) Special rule for regional industries
 
@@ -176,7 +176,7 @@ Subsec. (c). Pub. L. 103–465, §212(a)(2), amended heading and text of subsec.
 
 Subsec. (e). Pub. L. 103–465, §233(a)(5)(R), in concluding provisions, substituted “subject merchandise” for “class or kind of merchandise that is the subject of the investigation” in two places.
 
-Subsec. (e)(1). Pub. L. 103–465, §233(a)(5)(P), substituted “the subject merchandise” for “class or kindof the merchandise which is the subject of the investigation”.
+Subsec. (e)(1). Pub. L. 103–465, §233(a)(5)(P), substituted “the subject merchandise” for “class or kind of the merchandise which is the subject of the investigation”.
 
 Subsec. (e)(2). Pub. L. 103–465, §233(a)(5)(Q), substituted “subject merchandise” for “merchandise which is the subject of the investigation”.
 
@@ -202,7 +202,7 @@ Amendment by Pub. L. 98–573 applicable with respect to investigations initiate
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

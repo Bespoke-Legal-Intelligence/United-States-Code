@@ -28,7 +28,7 @@ Administrative Review of Suspensions.—
 
 &emsp;(1)
 
-Proceeding.—A proceeding requested under subsection (c)(2) shall begin by the 30th day after the Secretary receives a request for the proceeding. The proceeding shall be before an administrative law judge appointed under section 3105 of title 5, United States Code. By the 30th day after the beginning of the proceeding, the judge shall issue a preliminary decision based on the record at the time on whether the unit of general local government is likely to prevail in showing compliance with section 6711(a) or (b).
+Proceeding.—A proceeding requested under subsection (c)(2) shall begin by the 30th day after the Secretary receives a request for the proceeding. The proceeding shall be before an administrative law judge appointed under section 3105 of title 5, United States Code. By the 30th day after the beginning of the proceeding, the judge shall issue a preliminary decision based on the record at the time onwhether the unit of general local government is likely to prevail in showing compliance with section 6711(a) or (b).
 
 &emsp;(2)
 

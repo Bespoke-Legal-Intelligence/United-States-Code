@@ -20,7 +20,7 @@
 
 (c) Notwithstanding the provision of subsection (a) of this section, a person born, after December 23, 1952, outside the United States and out of wedlock shall be held to have acquired at birth the nationality status of his mother, if the mother had the nationality of the United States at the time of such person's birth, and if the mother had previously been physically present in the United States or one of its outlying possessions for a continuous period of one year.
 
-(June 27, 1952, ch. 477, title III, ch. 1, §309, 66 Stat. 238; Pub. L. 97–116, §18(<i>l</i>), Dec. 29, 1981, 95 Stat. 1620; Pub. L. 99–653, §13, Nov. 14, 1986, 100 Stat. 3657; Pub. L. 100–525, §§8(k), 9(r), Oct. 24, 1988, 102 Stat. 2617, 2621.)
+(June 27, 1952, ch. 477, title III, ch. 1, §309, 66 Stat. 238; Pub. L. 97–116, §18(l), Dec. 29, 1981, 95 Stat. 1620; Pub. L. 99–653, §13, Nov. 14, 1986, 100 Stat. 3657; Pub. L. 100–525, §§8(k), 9(r), Oct. 24, 1988, 102 Stat. 2617, 2621.)
 
 #### References in Text
 
@@ -36,9 +36,9 @@ Subsec. (c). Pub. L. 100–525, §9(r)(2), substituted “after December 23, 195
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–653, as amended by Pub. L. 100–525, §8(k), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The provisions of paragraphs (c), (d), (e), and (g) of section 1401 of this title, and of paragraph (2) of section 1408, of this title shall apply as of the date of birth to a child born out of wedlock on or after the effective date of this chapter, if the paternity of such child is established while such child is under the age of twenty-one years by legitimation.”
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–116, §18(<i>l</i>)(1), substituted “(c), (d), (e), and (g) of section 1401” for “(3) to (5) and (7) of section 1401(a)”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–116, §18(l)(1), substituted “(c), (d), (e), and (g) of section 1401” for “(3) to (5) and (7) of section 1401(a)”.
 
-Subsec. (b). Pub. L. 97–116, §18(<i>l</i>)(2), substituted “section 1401(g)” for “section 1401(a)(7)”.
+Subsec. (b). Pub. L. 97–116, §18(l)(2), substituted “section 1401(g)” for “section 1401(a)(7)”.
 
 #### Effective Date of 1988 Amendment
 
@@ -46,7 +46,7 @@ Amendment by section 8(k) of Pub. L. 100–525 effective as if included in the e
 
 #### Effective Date of 1986 Amendment
 
-Section 23(e) of Pub. L. 99–653, as added by Pub. L. 100–525, §8(r), Oct. 24, 1988, 102 Stat. 2619, provided that:
+Pub. L. 99–653, §23(e), as added by Pub. L. 100–525, §8(r), Oct. 24, 1988, 102 Stat. 2619, provided that:
 
 “(1) Except as provided in paragraph (2)(B), the new section 309(a) \[8 U.S.C. 1409(a)\] (as defined in paragraph (4)(A)) shall apply to persons who have not attained 18 years of age as of the date of the enactment of this Act \[Nov. 14, 1986\].
 

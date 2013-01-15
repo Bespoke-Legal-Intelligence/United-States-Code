@@ -96,7 +96,7 @@ Each recipient of a grant under this section shall report annually to the Secret
 
 #### (h) Guidelines
 
-Before distribution of funds to recipients of grants, the Secretary shall issue guidelines to ensure that, to the extent that recipients of grants under this section use contractors or subcontractors, such recipients shall use small, minority, women-owned, or disadvantaged business concerns as contractors or subcontractors to the extent practicable.
+Before distribution of funds to recipients of grants, the Secretary shall issue guidelines toensure that, to the extent that recipients of grants under this section use contractors or subcontractors, such recipients shall use small, minority, women-owned, or disadvantaged business concerns as contractors or subcontractors to the extent practicable.
 
 #### (i) Coordination with State homeland security plans
 
@@ -110,7 +110,7 @@ In cases in which a public transportation system operates in more than one State
 
 Not later than 3 days before the award of any grant under this section, the Secretary shall notify simultaneously, the appropriate congressional committees of the intent to award such grant.
 
-#### (<i>l</i>) Return of misspent grant funds
+#### (l) Return of misspent grant funds
 
 The Secretary shall establish a process to require the return of any misspent grant funds received under this section determined to have been spent for a purpose other than those specified in the grant award.
 
@@ -134,7 +134,7 @@ Period of availability.—Sums appropriated to carry out this section shall rema
 
 (3)
 
-Waiver.—The Secretary may waive the limitation on operational costs specified in subparagraphs (B) through (E) of paragraph (1) if the Secretary determines that such a waiver isrequired in the interest of national security, and if the Secretary provides a written justification to the appropriate congressional committees prior to any such action.
+Waiver.—The Secretary may waive the limitation on operational costs specified in subparagraphs (B) through (E) of paragraph (1) if the Secretary determines that such a waiver is required in the interest of national security, and if the Secretary provides a written justification to the appropriate congressional committees prior to any such action.
 
 (4)
 

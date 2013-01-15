@@ -18,6 +18,10 @@ Section is based on act Mar. 4, 1907, popularly known as the “Sundry Civil App
 
 Change of name of Architect of the Capitol, functions abolished, transferred, etc., by prior acts, see Prior Provisions and Change of Name notes set out under section 1801 of this title.
 
+#### Short Title of 2012 Amendment
+
+Pub. L. 112–234, §1, Dec. 28, 2012, 126 Stat. 1624, provided that: “This Act \[amending sections 2084 and 2108 of this title, section 2703a of Title 19, Customs Duties, section 1708a of Title 21, Food and Drugs, section 376 of Title 28, Judiciary and Judicial Procedure, and section 2103 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations, amending provisions set out as notes under section 4301 of Title 38, Veterans’ Benefits, and section 416 of Title 39, Postal Service, and repealing provisions set out as a note under section 416 of Title 39\] may be cited as the ‘GAO Mandates Revision Act of 2012’.”
+
 #### Acquisition of Site
 
 Act Mar. 3, 1903, ch. 1007, 32 Stat. 1113, authorized acquisition of a site for and the construction of the House Office Building, and appointment of a Commission to supervise its construction.
@@ -28,13 +32,13 @@ Joint Resolution May 28, 1908, provided that it should be designated the House O
 
 Pub. L. 104–197, title III, §307, Sept. 16, 1996, 110 Stat. 2413, provided that:
 
-“(a) Upon approval of the Committee on Appropriations of the House of Representatives, and in accordance with conditions determined by the Committee on House Oversight \[now Committee on House Administration\], positions in connection with House public address sound system activities and related funding shall be transferred from the appropriation for the Architect of the Capitol for Capitol buildings and grounds under the heading ‘
+“(a) Upon approval of the Committee on Appropriations of the House of Representatives, and in accordance with conditions determined by the Committee onHouse Oversight \[now Committee on House Administration\], positions in connection with House public address sound system activities and related funding shall be transferred from the appropriation for the Architect of the Capitol for Capitol buildings and grounds under the heading ‘
 
 capitol buildings’ to the appropriation for salaries and expenses of the House of Representatives for the Office of the Clerk under the heading ‘
 
 salaries, officers and employees’.
 
-“(b) For purposes of section 8339(m) of title 5, United States Code, the days of unused sick leave to the credit of any such employee as of the date such employee is transferred under subsection (a) shall be included in the total service of such employee in connection with the computation of any annuity under subsections (a) through (e) and (<i>o</i>) of such section.
+“(b) For purposes of section 8339(m) of title 5, United States Code, the days of unused sick leave to the credit of any such employee as of the date such employee is transferred under subsection (a) shall be included in the total service of such employee in connection with the computation of any annuity under subsections (a) through (e) and (o) of such section.
 
 “(c) In the case of days of annual leave to the credit of any such employee as of the date such employee is transferred under subsection (a), the Architect of the Capitol is authorized to make a lump sum payment to each such employee for that annual leave. No such payment shall be considered a payment or compensation within the meaning of any law relating to dual compensation.”
 
@@ -130,7 +134,7 @@ Proceeds.—All proceeds from the sale of steam and chilled water under paragrap
 
 \[Pub. L. 104–134, title II, §21103, Apr. 26, 1996, 110 Stat. 1321–335, provided that: “Notwithstanding section 106 of Public Law 104–99 \[110 Stat. 27\], sections 118 \[110 Stat. 30\], 121 \[set out as a note above\], and 129 \[amending section 1611 of this title and enacting provisions set out as a note under section 1611 of this title\] of Public Law 104–99 shall remain in effect as if enacted as part of this Act.”\]
 
-Pub. L. 98–367, title I, July 17, 1984, 98 Stat. 483, provided in part: “That notwithstanding any other provision of law, the House Office Building Commission is authorized to use, to such extent as it may deem necessary, for the purposes of providing office and other accommodations for the House of Representatives, the building located at 501 First Street, S.E., on a portion of Reservation 17 in the District of Columbia when such building is acquired by the Architect of the Capitol at the direction of the House Office Building Commission under authority of the Additional House Office Building Act of 1955 \[act Apr. 22, 1955, ch. 26, Ch. XIIA, 69 Stat. 41, see note below\], and to incur any expenditures under this appropriation required for alterations, maintenance, and occupancy thereof: <i>Provided further</i>, That any space in such building used for office and other accommodations for the House of Representatives shall be deemed to be a part of the ‘House Office Buildings’ and, as such, shall be subject to the laws, rules, and regulations applicable to those buildings.”
+Pub. L. 98–367, title I, July 17, 1984, 98 Stat. 483, provided in part: “That notwithstanding any other provision of law, the House Office Building Commission is authorized to use, to such extent as it may deem necessary, for the purposes of providing office and other accommodations for the House of Representatives, the building located at 501 First Street, S.E., on a portion of Reservation 17 in the District of Columbia when such building is acquired by the Architect of the Capitol at the direction of the House Office Building Commission under authority of the Additional House Office Building Act of 1955 \[act Apr. 22, 1955, ch. 26, Ch. XIIA, 69 Stat. 41, see note below\], and to incur any expendituresunder this appropriation required for alterations, maintenance, and occupancy thereof: <i>Provided further</i>, That any space in such building used for office and other accommodations for the House of Representatives shall be deemed to be a part of the ‘House Office Buildings’ and, as such, shall be subject to the laws, rules, and regulations applicable to those buildings.”
 
 #### House Parking Activities; Transfer of Employees and Funding
 
@@ -138,7 +142,7 @@ Pub. L. 104–53, title III, §306, Nov. 19, 1995, 109 Stat. 536, provided that:
 
 “(a) Upon approval of the Committee on Appropriations of the House of Representatives, and in accordance with conditions determined by the Committee on House Oversight \[now Committee on House Administration\], positions in connection with House parking activities and related funding shall be transferred from the appropriation ‘Architect of the Capitol, Capitol buildings and grounds, House office buildings’ to the appropriation ‘House of Representatives, salaries, officers and employees, Office of the Sergeant at Arms’: <i>Provided</i>, That the position of Superintendent of Garages shall be subject to authorization in annual appropriations Acts.
 
-“(b) For purposes of section 8339(m) of title 5, United States Code, the days of unused sick leave to the credit of any such employee as of the date such employee is transferred under subsection (a) shall be included in the total service of such employee in connection with the computation of any annuity under subsections (a) through (e) and (<i>o</i>) of such section.
+“(b) For purposes of section 8339(m) of title 5, United States Code, the days of unused sick leave to the credit of any such employee as of the date such employee is transferred under subsection (a) shall be included in the total service of such employee in connection with the computation of any annuity under subsections (a) through (e) and (o) of such section.
 
 “(c) In the case of days of annual leave to the credit of any such employee as of the date such employee is transferred under subsection (a) the Architect of the Capitol is authorized to make a lump sum payment to each such employee for that annual leave. No such payment shall be considered a payment or compensation within the meaning of any law relating to dual compensation.”
 
@@ -150,7 +154,7 @@ House Resolution No. 402, One Hundred First Congress, Sept. 10, 1990, provided t
 
 “(a)
 
-Thomas P. O'Neill, Jr. House of Representatives Office Building.—The House of Representatives office building located at C Street and New Jersey Avenue, Southeast, in the District of Columbia, and known as House of Representatives Office Building Annex No.1, shall be known and designated as the ‘Thomas P. O'Neill, Jr. House of Representatives Office Building’.
+Thomas P. O'Neill, Jr. House of Representatives Office Building.—The House of Representatives office building located at C Street and New Jersey Avenue, Southeast, in the District of Columbia, and known as House of Representatives Office Building Annex No. 1, shall be known and designated as the ‘Thomas P. O'Neill, Jr. House of Representatives Office Building’.
 
 “(b)
 
@@ -184,7 +188,7 @@ Pub. L. 92–313, §8, June 16, 1972, 86 Stat. 222, provided that:
 
 #### Additional Parking Space for House Employees
 
-House Resolution No. 208, Ninety-fourth Congress, Feb. 24, 1975, as enacted into permanent law by Pub. L. 94–59, title II, §201, July 25, 1975, 89 Stat. 282, and amended by Pub. L. 104–186, title II, §221(4)(B), Aug. 20, 1996, 110 Stat. 1749, provided: “That the chairman, Committee on House Oversight \[now Committee on House Administration\] of the House of Representatives is authorized:
+House Resolution No. 208, Ninety-fourth Congress, Feb. 24, 1975, as enacted into permanent law by Pub. L. 94–59, title II, §201, July 25, 1975, 89 Stat. 282, and amended by Pub. L. 104–186, title II, §221(4)(B), Aug. 20, 1996, 110 Stat. 1749, provided: “That the chairman, Committee on House Oversight \[now Committee on HouseAdministration\] of the House of Representatives is authorized:
 
 &emsp;“(1) to lease or to otherwise provide additional indoor and outdoor parking facilities for employees of the House of Representatives in an area or areas in the District of Columbia outside but adjacent to the limits of the United States Capitol Grounds;
 

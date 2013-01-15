@@ -84,7 +84,7 @@ Act of May 8, 1914, referred to in subsec. (a)(2), is act May 8, 1914, ch. 79, 3
 
 Act of July 2, 1862, referred to in subsec. (a)(3)(A), is act July 2, 1862, ch. 130, 12 Stat. 503, popularly known as the “Morrill Act” and also as the “First Morrill Act”, which is classified generally to subchapter I (§301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
 
-Act of August 30, 1890, referred to in subsec. (a)(3)(B), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, as amended, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
+Act of August 30, 1890, referred to in subsec. (a)(3)(B), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, as amended, popularly known as the Agricultural College Act of 1890and also as the Second Morrill Act, which is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
 
 Act of June 29, 1935, referred to in subsec. (a)(3)(C), is act June 29, 1935, ch. 338, 49 Stat. 436, popularly known as the Bankhead-Jones Act and as the Agricultural Research Act, which was classified principally to sections 329 and 427 to 427j of this title, and was repealed by act Aug. 11, 1966, ch. 790, §2, 69 Stat. 674, except for sections 1, 10, and 22 of the Act, which are classified to sections 427, 427i, and 329, respectively, of this title. For complete classification of this Act to the Code, see Short Title note under section 427 of this title and Tables.
 
@@ -98,7 +98,7 @@ Title XVIII of this Act, referred to in subsec. (e)(2), is title XVIII of the Fo
 
 <b>1996</b>—Subsec. (e). Pub. L. 104–127 added subsec. (e).
 
-<b>1990</b>—Subsecs. (c) to (e). Pub. L. 101–624 redesignated subsecs. (d) and (e) as (c) and (d), respectively, and struck out former subsec. (c) which read as follows: “In order to meet the increasing needs of consumers and to promote the health and welfare of people, the Secretary shall ensure that the cooperative research, extension, and teaching programs of the various States adequately address the challenges described in paragraph (10) of section 3101 of this title. The Secretary may implement new cooperative initiatives in homeeconomics and related disciplines to address such challenges.”
+<b>1990</b>—Subsecs. (c) to (e). Pub. L. 101–624 redesignated subsecs. (d) and (e) as (c) and (d), respectively, and struck out former subsec. (c) which read as follows: “In order to meet the increasing needs of consumers and to promote the health and welfare of people, the Secretary shall ensure that the cooperative research, extension, and teaching programs of the various States adequately address the challenges described in paragraph (10) of section 3101 of this title. The Secretary may implement new cooperative initiatives in home economics and related disciplines to address such challenges.”
 
 <b>1985</b>—Subsec. (a)(4). Pub. L. 99–198, §1407(a), added par. (4).
 

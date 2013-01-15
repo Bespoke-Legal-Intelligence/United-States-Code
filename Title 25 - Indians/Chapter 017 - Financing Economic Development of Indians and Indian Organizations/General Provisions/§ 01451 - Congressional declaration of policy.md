@@ -18,5 +18,5 @@ Pub. L. 98–449, §1, Oct. 4, 1984, 98 Stat. 1725, provided: “That this Act \
 
 #### Short Title
 
-Section 1 of Pub. L. 93–262 provided: “That this Act \[enacting this chapter\] may be cited as the ‘Indian Financing Act of 1974’.”
+Pub. L. 93–262, §1, Apr. 12, 1974, 88 Stat. 77, provided: “That this Act \[enacting this chapter\] may be cited as the ‘Indian Financing Act of 1974’.”
 

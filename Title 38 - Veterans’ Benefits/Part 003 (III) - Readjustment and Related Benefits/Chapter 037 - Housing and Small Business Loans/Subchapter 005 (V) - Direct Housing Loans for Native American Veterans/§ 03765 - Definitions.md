@@ -18,13 +18,13 @@ For the purposes of this subchapter—
 
 &emsp;&emsp;(A) an Indian, as defined in section 4(d) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(d));
 
-&emsp;&emsp;(B) a native Hawaiian, as that term is defined in section 201(a)(7) of the Hawaiian Homes Commission Act, 1920 (Public Law 67–34; 42 Stat. 108);
+&emsp;&emsp;(B) a native Hawaiian, as that term is defined in section 201(a)(7) of the HawaiianHomes Commission Act, 1920 (Public Law 67–34; 42 Stat. 108);
 
 &emsp;&emsp;(C) an Alaska Native, within the meaning provided for the term “Native” in section 3(b) of the Alaska Native Claims Settlement Act (43 U.S.C. 1602(b)); and
 
 &emsp;&emsp;(D) a Pacific Islander, within the meaning of the Native American Programs Act of 1974 (42 U.S.C. 2991 et seq.).
 
-&emsp;(4) The term “tribal organization” shall have the meaning given such term in section 4(<i>l</i>) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(<i>l</i>)) and shall include the Department of Hawaiian Homelands, in the case of native Hawaiians, and such other organizations as the Secretary may prescribe.
+&emsp;(4) The term “tribal organization” shall have the meaning given such term in section 4(l) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(l)) and shall include the Department of Hawaiian Homelands, in the case of native Hawaiians, and such other organizations as the Secretary may prescribe.
 
 &emsp;(5) The term “qualified non-Native American veteran” means a veteran who—
 

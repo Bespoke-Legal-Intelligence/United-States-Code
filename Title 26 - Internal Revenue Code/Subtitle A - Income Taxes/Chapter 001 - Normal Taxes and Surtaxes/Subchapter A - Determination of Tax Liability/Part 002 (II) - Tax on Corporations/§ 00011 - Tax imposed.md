@@ -114,7 +114,7 @@ Pub. L. 94–12, §303(b), substituted “$50,000” for “$25,000”.
 
 Subsec. (f). Pub. L. 89–809, §104(b)(2)(B), added subsec. (f).
 
-<b>1964</b>—Subsec. (b). Pub. L. 88–272 applied the 30 percent tax to years beginning before Jan. 1, 1964 instead ofJuly 1, 1964 in par. (1), and in par. (2), reduced the rate from 25 percent to 22 percent, and applied it to years beginning after Dec. 31, 1963, instead of June 30, 1964.
+<b>1964</b>—Subsec. (b). Pub. L. 88–272 applied the 30 percent tax to years beginning before Jan. 1, 1964 instead of July 1, 1964 in par. (1), and in par. (2), reduced the rate from 25 percent to 22 percent, and applied it to years beginning after Dec. 31, 1963, instead of June 30, 1964.
 
 Subsec. (c). Pub. L. 88–272 increased the percentage from 22 to 28 for taxable years beginning after Dec. 31, 1963, and before Jan. 1, 1965, and to 26 percent for taxable years beginning after Dec. 31, 1964. The surtax exemption previously carried in subsec. (c), is now stated in subsec. (d).
 
@@ -142,7 +142,7 @@ Subsec. (d)(3). Pub. L. 86–779 inserted “and real estate investment trusts�
 
 #### Effective Date of 1993 Amendment
 
-Section 13221(d) of Pub. L. 103–66 provided that: “The amendments made by this section \[amending this section and sections 852, 1201, and 1445 of this title\] shall apply to taxable years beginning on or after January 1, 1993; except that the amendment made by subsection (c)(3) \[amending section 1445 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 10, 1993\].”
+Pub. L. 103–66, title XIII, §13221(d), Aug. 10, 1993, 107 Stat. 477, provided that: “The amendments made by this section \[amending this section and sections 852, 1201, and 1445 of this title\] shall apply to taxable years beginning on or after January 1, 1993; except that theamendment made by subsection (c)(3) \[amending section 1445 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 10, 1993\].”
 
 #### Effective Date of 1988 Amendment
 
@@ -150,11 +150,11 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1987 Amendment
 
-Section 10224(b) of Pub. L. 100–203 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1987.”
+Pub. L. 100–203, title X, §10224(b), Dec. 22, 1987, 101 Stat. 1330–413, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1987.”
 
 #### Effective Date of 1986 Amendment
 
-Section 601(b) of Pub. L. 99–514 provided that:
+Pub. L. 99–514, title VI, §601(b), Oct. 22, 1986, 100 Stat. 2249, provided that:
 
 “(1)
 
@@ -168,7 +168,7 @@ Cross reference.—
 
 #### Effective Date of 1984 Amendment
 
-Section 66(c) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–369, div. A, title I, §66(c), July 18, 1984, 98 Stat. 585, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 
@@ -180,21 +180,21 @@ Amendments not treated as changed in rate of tax.—The amendments made by this 
 
 #### Effective Date of 1981 Amendment
 
-Section 231(c) of Pub. L. 97–34 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1981.”
+Pub. L. 97–34, title II, §231(c), Aug. 13, 1981, 95 Stat. 250, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1981.”
 
 #### Effective Date of 1978 Amendment
 
-Section 301(c) of Pub. L. 95–600 provided that: “The amendments made by this section \[amending this section and sections 12, 57, 244, 247, 511, 527, 528, 802, 821, 826, 852, 857, 882, 907, 922, 962, 1351, 1551, 1561, 6154, and 6655 of this title\] shall apply to taxable years beginning after December 31, 1978.”
+Pub. L. 95–600, title III, §301(c), Nov. 6, 1978, 92 Stat. 2824, provided that: “The amendments made by this section \[amending this section and sections 12, 57, 244, 247, 511, 527, 528, 802, 821, 826, 852, 857, 882, 907, 922, 962, 1351, 1551, 1561, 6154, and 6655 of this title\] shall apply to taxable years beginning after December 31, 1978.”
 
 #### Effective Date of 1976 Amendment
 
-Section 901(d) of Pub. L. 94–455 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on December 23, 1975. The amendments made by subsection (b) \[amending section 821 of this title\] shall apply to taxable years ending after December 31, 1974. The amendments made by subsection (c) \[amending sections 21, 1561, and 6154 of this title\] shall apply to taxable years ending after December 31, 1975.”
+Pub. L. 94–455, title IX, §901(d), Oct. 4, 1976, 90 Stat. 1607, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on December 23, 1975. The amendments made by subsection (b) \[amending section 821 of this title\] shall apply to taxable years ending after December 31, 1974. The amendments made by subsection (c) \[amending sections 21, 1561, and 6154 of this title\] shall apply to taxable years ending after December 31, 1975.”
 
-#### Effective and Termination Dates of 1975 Amendments
+#### Effective and Termination Dates of 1975 Amendment
 
-Section 4(e) of Pub. L. 94–164 provided that: “The amendments made by subsections (b), (c), and (d) \[amending this section and sections 21, 962, and 1561 of this title\] apply to taxable years beginning after December 31, 1975. The amendment made by subsection (c) \[amending this section\] ceases to apply for taxable years beginning after December 31, 1976.”
+Pub. L. 94–164, §4(e), Dec. 23, 1975, 89 Stat. 975, provided that: “The amendments made by subsections (b), (c), and (d) \[amending this section and sections 21, 962, and 1561 of this title\] apply to taxable years beginning after December 31, 1975. The amendment made by subsection (c) \[amending this section\] ceases to apply for taxable years beginning after December 31, 1976.”
 
-Section 305(b)(1) of Pub. L. 94–12 provided that: “The amendments made by section 303 \[amending this section and sections 12, 962, and 1561 of this title and enacting provisions set out as a note under this section\] shall apply to taxable years ending after December 31, 1974. The amendments made by subsections (b) and (c) of such section \[amending this section and sections 12, 962, and 1561 of this title and enacting provisions set out as a note under this section\] shall cease to apply for taxable years ending after December 31, 1975.”
+Pub. L. 94–12, title III, §305(b)(1), Mar. 29, 1975, 89 Stat. 45, provided that: “The amendments made by section 303 \[amending this section and sections 12, 962, and 1561 of this title and enacting provisions set out as a note under this section\] shall apply to taxable years ending after December 31, 1974. The amendments made by subsections (b) and (c) of such section \[amending this section and sections 12, 962, and 1561 of this title and enacting provisions set out as a note under this section\] shall cease to apply for taxable years ending after December 31, 1975.”
 
 #### Effective Date of 1969 Amendment
 
@@ -202,7 +202,7 @@ Amendment by Pub. L. 91–172 applicable with respect to taxable years beginning
 
 #### Effective Date of 1966 Amendment
 
-Section 104(n) of Pub. L. 89–809 provided that: “The amendments made by this section (other than subsection (k)) \[enacting section 6683 to this title and amending this section and sections 245, 301, 512, 542, 543, 545, 819, 821, 822, 831, 832, 841, 842, 881, 882, 884, 952, 953, 1249, 1442, and 6016 of this title\] shall apply with respect to taxable years beginning after December 31, 1966. The amendment made by subsection (k) \[amending section 1248(d)(4) of this title\] shall apply with respect to sales or exchanges occurring after December 31, 1966.”
+Pub. L. 89–809, title I, §104(n), Nov. 13, 1966, 80 Stat. 1563, provided that: “The amendments made by this section (other than subsection (k)) \[enacting section 6683 to this title and amending this section and sections 245, 301, 512, 542, 543, 545, 819, 821, 822, 831, 832, 841, 842, 881, 882, 884, 952, 953, 1249, 1442, and 6016 of this title\] shall apply with respect to taxable years beginning after December 31, 1966. The amendment made by subsection (k) \[amending section 1248(d)(4) of this title\] shall apply with respect to sales or exchanges occurring after December 31, 1966.”
 
 #### Effective Date of 1964 Amendment
 
@@ -214,5 +214,5 @@ Amendment by Pub. L. 86–779 applicable with respect to taxable years of real e
 
 #### Allocation of 1975 Taxable Income Among Component Members of Controlled Group of Corporations
 
-Section 303(c)(1) of Pub. L. 94–12 provided in part that: “In applying subsection (b)(2) of section 11 \[subsec. (b)(2) of this section\], the first $25,000 of taxable income and the second $25,000 of taxable income shall each be allocated among the component members of a controlled group of corporations in the same manner as the surtax exemption is allocated.”
+Pub. L. 94–12, title III, §303(c)(1), Mar. 29, 1975, 89 Stat. 44, provided in part that: “In applying subsection (b)(2) of section 11 \[subsec. (b)(2) of this section\], the first $25,000 of taxable income and the second $25,000 of taxable income shall each be allocated among the component members of a controlled group of corporations in the same manner as the surtax exemption is allocated.”
 

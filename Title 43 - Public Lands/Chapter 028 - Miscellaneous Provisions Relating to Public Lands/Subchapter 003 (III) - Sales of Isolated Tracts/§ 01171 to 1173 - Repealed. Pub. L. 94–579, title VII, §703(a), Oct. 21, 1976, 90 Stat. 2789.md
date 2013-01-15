@@ -12,7 +12,7 @@ Section 1173, act May 10, 1920, ch. 178, 41 Stat. 595, provided for applicabilit
 
 #### Effective Date of Repeal
 
-Section 703(a) of Pub. L. 94–579 provided that the repeal made by that section is effective on and after Oct. 21, 1976.
+Pub. L. 94–579, title VII, §703(a), Oct. 21, 1976, 90 Stat. 2789, provided that the repeal made by section 703(a) is effective on and after Oct. 21, 1976.
 
 #### Savings Provision
 

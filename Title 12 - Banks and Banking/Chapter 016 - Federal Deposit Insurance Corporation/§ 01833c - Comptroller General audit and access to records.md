@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), all agencies, corporations, organizations, and other persons of any description which perform any function or activity under this Act,or any other Act which is amended by this Act, shall be subject to audit by the Comptroller General of the United States with respect to such function or activity.
+&emsp;Except as provided in paragraph (2), all agencies, corporations, organizations, and other persons of any description which perform any function or activity under this Act, or any other Act which is amended by this Act, shall be subject to audit by the Comptroller General of the United States with respect to such function or activity.
 
 #### (2) Exceptions
 

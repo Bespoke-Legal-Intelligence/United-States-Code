@@ -34,7 +34,7 @@ The Secretary shall award grants under this section in the same manner, and with
 
 &emsp;(2) the provisions of subsection (a)(3), subsection (b)(1), the matter following subsection (b)(2)(A)(v),<sup>1</sup> subsection (b)(3), and subsection (f), of section 1070a of this title shall not apply; and
 
-&emsp;(3) a grant made under this section to an eligible veteran's dependent for any award year shall equal the maximum Federal Pell Grant available for that award year, except that such a grant under this section—
+&emsp;(3) a grant made under this section to an eligible veteran's dependent for any award yearshall equal the maximum Federal Pell Grant available for that award year, except that such a grant under this section—
 
 &emsp;&emsp;(A) shall not exceed the cost of attendance of the eligible veteran's dependent for that award year; and
 

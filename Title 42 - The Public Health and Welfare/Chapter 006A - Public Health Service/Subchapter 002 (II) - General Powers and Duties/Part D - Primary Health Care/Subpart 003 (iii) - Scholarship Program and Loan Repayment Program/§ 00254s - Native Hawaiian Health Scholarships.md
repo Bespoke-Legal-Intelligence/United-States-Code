@@ -4,13 +4,13 @@
 
 Subject to the availability of funds appropriated under the authority of subsection (d) of this section, the Secretary shall provide funds to Papa Ola Lokahi for the purpose of providing scholarship assistance to students who—
 
-&emsp;(1) meet the requirements of section 254<i>l</i>(b) of this title, and
+&emsp;(1) meet the requirements of section 254l(b) of this title, and
 
 &emsp;(2) are Native Hawaiians.
 
 #### (b) Terms and conditions
 
-(1) The scholarship assistance provided under subsection (a) of this section shall be provided under the same terms and subject to the same conditions, regulations, and rules that apply to scholarship assistance provided under section 254<i>l</i> of this title.
+(1) The scholarship assistance provided under subsection (a) of this section shall be provided under the same terms and subject to the same conditions, regulations, and rules that apply to scholarship assistance provided under section 254l of this title.
 
 (2) The Native Hawaiian Health Scholarship program shall not be administered by or through the Indian Health Service.
 
@@ -42,7 +42,7 @@ There are authorized to be appropriated $1,800,000 for each of the fiscal years 
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–644, which directed the general amendment of subsec. (a) of section 338J of the Public Health Service Act, was executed to subsec. (a) of this section, to reflect the probable intent of Congress and the intervening renumbering of section 338J as 338K by Pub. L. 101–597. Prior to amendment, subsec. (a) read as follows: “Subject to the availability of funds appropriated under the authority of subsection (d) of this section, the Secretary shall provide scholarship assistance, pursuant to a contract with the Kamehameha Schools/Bishop Estate, to students who—
 
-&emsp;“(1) meet the requirements of section 254<i>l</i>(b) of this title, and
+&emsp;“(1) meet the requirements of section 254l(b) of this title, and
 
 &emsp;“(2) are Native Hawaiians.”
 

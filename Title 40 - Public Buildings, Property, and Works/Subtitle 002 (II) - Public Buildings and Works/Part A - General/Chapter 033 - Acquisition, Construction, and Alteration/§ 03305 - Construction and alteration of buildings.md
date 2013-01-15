@@ -34,7 +34,7 @@ Committee approval not required.—
 
 &emsp;&emsp;(A)
 
-Threshold amount.—Approval under section 3307 of this title is not required for any alteration and acquisition authorized by this subsection for which the estimated maximum cost does not exceed $1,500,000.
+Threshold amount.—Approval under section 3307 of this title is not required forany alteration and acquisition authorized by this subsection for which the estimated maximum cost does not exceed $1,500,000.
 
 &emsp;&emsp;(B)
 
@@ -44,7 +44,7 @@ Dollar amount adjustment.—The Administrator annually may adjust the dollar amo
 
 Construction or Alteration by Contract.—The Administrator may carry out any construction or alteration authorized by this chapter by contract if the Administrator considers it to be most advantageous to the Government.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1159; Pub. L. 111–350, §5(<i>l</i>)(16), Jan. 4, 2011, 124 Stat. 3852.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1159; Pub. L. 111–350, §5(l)(16), Jan. 4, 2011, 124 Stat. 3852.)
 
 Historical and Revision Notes
 

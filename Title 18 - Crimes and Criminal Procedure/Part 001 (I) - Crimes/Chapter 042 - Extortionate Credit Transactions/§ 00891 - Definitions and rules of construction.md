@@ -28,7 +28,7 @@ Chapter effective May 29, 1968, see section 504(a) of Pub. L. 90–321.
 
 #### Congressional Findings and Declaration of Purpose
 
-Section 201 of Pub. L. 90–321 provided that:
+Pub. L. 90–321, title II, §201, May 29, 1968, 82 Stat. 159, provided that:
 
 “(a) The Congress makes the following findings:
 

@@ -4,11 +4,11 @@
 
 &emsp;(1) Assets shall be valued on the basis of original cost less depreciation, to the extent that such value can be determined. The value recorded on the former Post Office Department's books of account shall be prima facie evidence of asset value.
 
-&emsp;(2) All liabilities attributable to operations of the former Post Office Department shall remain liabilities of the Government of the United States, except that upon commencement of operations of the Postal Service, the unexpended balances of appropriations made to, held or used by, or available to the former Post Office Department and all liabilities chargeable thereto shall become assets and liabilities, respectively, of the Postal Service.
+&emsp;(2) All liabilities attributable to operations of the former Post Office Department shall remain liabilities of the Government of the United States, except that upon commencement of operations of the Postal Service, the unexpended balances of appropriations made to, held or used by, or available to the former Post Office Department and all liabilitieschargeable thereto shall become assets and liabilities, respectively, of the Postal Service.
 
 (b) The capital of the Postal Service at any time shall consist of its assets, including the balance in the Fund and the balance in the Competitive Products Fund, less its liabilities.
 
-(c) The Postal Service, and the Administrator of General Services where properties under the jurisdiction of the Administrator are involved, with the approval of the Director of the Office of Management and Budget, shall determine whichFederal properties shall be transferred to the Postal Service and which shall remain under the jurisdiction of any other department, agency, or establishment of the Government of the United States upon the commencement of operations of the Postal Service. The transfer shall be accomplished at the time of or as near as possible to the commencement of operations of the Postal Service and the valuation of the assets and capital of the Postal Service shall be adjusted accordingly. The following properties shall be included in the transfer:
+(c) The Postal Service, and the Administrator of General Services where properties under the jurisdiction of the Administrator are involved, with the approval of the Director of the Office of Management and Budget, shall determine which Federal properties shall be transferred to the Postal Service and which shall remain under the jurisdiction of any other department, agency, or establishment of the Government of the United States upon the commencement of operations of the Postal Service. The transfer shall be accomplished at the time of or as near as possible to the commencement of operations of the Postal Service and the valuation of the assets and capital of the Postal Service shall be adjusted accordingly. The following properties shall be included in the transfer:
 
 &emsp;(1) the mail equipment shops located in Washington, District of Columbia;
 
@@ -36,7 +36,7 @@ The effective date of this section, referred to in subsec. (c)(3), (4), is July 
 
 #### Assets of Postal Service
 
-Section 4(b) of Pub. L. 91–375 provided that: “Postal revenues and fees collected on and after the effective date of this section \[see note below\] shall be considered assets of the Postal Service.”
+Pub. L. 91–375, §4(b), Aug. 12, 1970, 84 Stat. 774, provided that: “Postal revenues and fees collected on and after the effective date of this section \[see note below\] shall be considered assets of the Postal Service.”
 
 Provisions of section 4(b) of Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by the Board of Governors of the United States Postal Service and published by it in the Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of this title.
 

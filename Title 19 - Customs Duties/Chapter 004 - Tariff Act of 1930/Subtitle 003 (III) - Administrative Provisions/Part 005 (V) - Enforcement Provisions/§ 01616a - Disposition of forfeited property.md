@@ -38,7 +38,7 @@ If forfeiture proceedings are discontinued or dismissed under this section—
 
 #### (d) Liability of United States after transfer
 
-The United States shall not be liable in any action relating to property transferred underthis section if such action is based on an act or omission occurring after the transfer.
+The United States shall not be liable in any action relating to property transferred under this section if such action is based on an act or omission occurring after the transfer.
 
 (June 17, 1930, ch. 497, title IV, §616, as added Pub. L. 98–573, title II, §213(a)(14), Oct. 30, 1984, 98 Stat. 2987; amended Pub. L. 99–570, title I, §1863(a), Oct. 27, 1986, 100 Stat. 3207–54; Pub. L. 100–690, title VII, §7366(a), Nov. 18, 1988, 102 Stat. 4478; Pub. L. 101–207, §3(e), Dec. 7, 1989, 103 Stat. 1834; Pub. L. 103–447, title I, §102(c), Nov. 2, 1994, 108 Stat. 4693.)
 
@@ -64,7 +64,7 @@ Subsec. (c)(3). Pub. L. 101–207, §3(e)(2), added par. (3).
 
 #### Effective Date of 1988 Amendment
 
-Section 7366(b) of Pub. L. 100–690 provided that: “The amendment made by subsection (a) \[amending this section\] applies with respect to property forfeited under the Tariff Act of 1930 \[this chapter\] on or after the date of the enactment of this Act \[Nov. 18, 1988\].”
+Pub. L. 100–690, title VII, §7366(b), Nov. 18, 1988, 102 Stat. 4479, provided that: “The amendment made by subsection (a) \[amending this section\] applies with respect to property forfeited under the Tariff Act of 1930 \[this chapter\] on or after the date of the enactment of this Act \[Nov. 18, 1988\].”
 
 #### Effective Date
 

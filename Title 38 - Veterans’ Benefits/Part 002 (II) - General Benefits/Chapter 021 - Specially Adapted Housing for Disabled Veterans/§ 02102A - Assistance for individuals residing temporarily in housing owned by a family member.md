@@ -6,11 +6,13 @@ Provision of Assistance.—In the case of a disabled individual who is described
 
 (b)
 
-Amount of Assistance.—The assistance authorized under subsection (a) may not exceed—
+Amount of Assistance.—(1) The assistance authorized under subsection (a) may not exceed—
 
-&emsp;(1) $14,000, in the case of an individual described in section 2101(a)(2) of this title; or
+&emsp;(A) $28,000, in the case of an individual described in section 2101(a)(2) of this title; or
 
-&emsp;(2) $2,000, in the case of an individual described in section 2101(b)(2) of this title.
+&emsp;(B) $5,000, in the case of an individual described in section 2101(b)(2) of this title.
+
+(2) Effective on October 1 of each year (beginning in 2012), the Secretary shall use the same percentage calculated pursuant to section 2102(e) of this title to increase the amounts described in paragraph (1) of this subsection.
 
 (c)
 
@@ -22,11 +24,19 @@ Regulations.—Assistance under this section shall be provided in accordance wit
 
 (e)
 
-Termination.—No assistance may be provided under this section after December 31, 2012.
+Termination.—No assistance may be provided under this section after December 31, 2022.
 
-(Added Pub. L. 109–233, title I, §101(a), June 15, 2006, 120 Stat. 398; amended Pub. L. 110–289, div.B, title VI, §§2602(b)(3), (7)(B), 2604, July 30, 2008, 122 Stat. 2859–2861; Pub. L. 112–37, §14, Oct. 5, 2011, 125 Stat. 397.)
+(Added Pub. L. 109–233, title I, §101(a), June 15, 2006, 120 Stat. 398; amended Pub. L. 110–289, div. B, title VI, §§2602(b)(3), (7)(B), 2604, July 30, 2008, 122 Stat. 2859–2861; Pub. L. 112–37, §14, Oct. 5, 2011, 125 Stat. 397; Pub. L. 112–154, title II, §205(a)–(c), Aug. 6, 2012, 126 Stat. 1178.)
 
 #### Amendments
+
+<b>2012</b>—Subsec. (b). Pub. L. 112–154, §205(b), redesignated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B) of par. (1), and added par. (2).
+
+Subsec. (b)(1). Pub. L. 112–154, §205(a)(1), substituted “$28,000” for “$14,000”.
+
+Subsec. (b)(2). Pub. L. 112–154, §205(a)(2), substituted “$5,000” for “$2,000”.
+
+Subsec. (e). Pub. L. 112–154, §205(c), substituted “December 31, 2022” for “December 31, 2012”.
 
 <b>2011</b>—Subsec. (e). Pub. L. 112–37 substituted “2012” for “2011”.
 
@@ -39,4 +49,8 @@ Subsec. (b). Pub. L. 110–289, §2602(b)(3)(C), substituted “an individual”
 Subsec. (c). Pub. L. 110–289, §2602(b)(3)(A), substituted “individual” for “veteran”.
 
 Subsec. (e). Pub. L. 110–289, §2604, substituted “after December 31, 2011” for “after the end of the five-year period that begins on the date of the enactment of the Veterans’ Housing Opportunity and Benefits Improvement Act of 2006”.
+
+#### Effective Date of 2012 Amendment
+
+Pub. L. 112–154, title II, §205(d), Aug. 6, 2012, 126 Stat. 1178, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 6, 2012\] and shall apply with respect to assistance furnished in accordance with section 2102A of title 38, United States Code, on or after that date.”
 

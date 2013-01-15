@@ -10,7 +10,7 @@ For purposes of this subchapter, the term “covered housing assistance” means
 
 &emsp;(1) operating assistance under section 1437g of this title (as in effect before the effective date under section 503(a) of the Quality Housing and Work Responsibility Act of 1998);
 
-&emsp;(2) modernization assistance under section 1437<i>l</i> of this title (as in effect before the effective date under section 503(a) of the Quality Housing and Work Responsibility Act of 1998);
+&emsp;(2) modernization assistance under section 1437l of this title (as in effect before the effective date under section 503(a) of the Quality Housing and Work Responsibility Act of 1998);
 
 &emsp;(3) assistance for the certificate and voucher programs under section 1437f of this title (as in effect before the effective date under section 503(a) of the Quality Housing and Work Responsibility Act of 1998);
 
@@ -26,5 +26,5 @@ For purposes of this subchapter, the term “covered housing assistance” means
 
 The Quality Housing and Work Responsibility Act of 1998, referred to in subsec. (b), is title V of Pub. L. 105–276, Oct. 21, 1998, 112 Stat. 2518. Section 503(a) of the Act is set out as an Effective Date of 1998 Amendment note under section 1437 of this title. For complete classification of this Act to the Code, see Tables.
 
-Section 1437<i>l</i> of this title, referred to in subsec. (b)(2), was repealed by Pub. L. 105–276, title V, §522(a), Oct. 21, 1998, 112 Stat. 2564.
+Section 1437l of this title, referred to in subsec. (b)(2), was repealed by Pub. L. 105–276, title V, §522(a), Oct. 21, 1998, 112 Stat. 2564.
 

@@ -4,7 +4,7 @@ In those instances where the coal proposed to be mined by surface coal mining op
 
 &emsp;(1) the written consent of the permittee or lessee of the surface lands involved to enter and commence surface coal mining operations on such land, or in lieu thereof;
 
-&emsp;(2) evidence of the execution of a bond or undertaking to the United States or the State, whichever is applicable, for the use and benefit of the permittee or lessee of the surface lands involved to secure payment of any damages to the surface estate which the operations will cause to the crops, or to the tangible improvements of the permittee or lessee of the surface lands as may be determined by the parties involved, or as determined and fixed in an action brought against the operator or upon the bond in a court of competent jurisdiction. This bond is in addition to the performance bond required for reclamation under this chapter.
+&emsp;(2) evidence of the execution of a bond or undertaking to the United States or the State, whichever is applicable, for the use and benefit of the permittee or lessee of the surface lands involved to secure payment of any damages to the surface estate which the operations will cause to the crops, or to the tangible improvements of the permittee or lessee of the surface lands as may be determined by the parties involved, or as determined and fixed in an actionbrought against the operator or upon the bond in a court of competent jurisdiction. This bond is in addition to the performance bond required for reclamation under this chapter.
 
 (Pub. L. 95–87, title VII, §715, Aug. 3, 1977, 91 Stat. 525.)
 

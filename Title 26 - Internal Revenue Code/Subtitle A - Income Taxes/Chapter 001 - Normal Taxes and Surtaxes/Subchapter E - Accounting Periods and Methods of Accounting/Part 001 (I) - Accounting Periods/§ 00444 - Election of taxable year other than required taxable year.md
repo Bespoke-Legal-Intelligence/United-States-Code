@@ -102,7 +102,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date
 
-Section 10206(d) of Pub. L. 100–203, as amended by Pub. L. 100–647, title II, §2004(e)(11), Nov. 10, 1988, 102 Stat. 3602, provided that:
+Pub. L. 100–203, title X, §10206(d), Dec. 22, 1987, 101 Stat. 1330–403, as amended by Pub. L. 100–647, title II, §2004(e)(11), Nov. 10, 1988, 102 Stat. 3602, provided that:
 
 “(1)
 

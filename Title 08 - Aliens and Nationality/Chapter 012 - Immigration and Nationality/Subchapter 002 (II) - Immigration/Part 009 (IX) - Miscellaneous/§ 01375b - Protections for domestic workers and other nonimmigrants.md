@@ -50,7 +50,7 @@ The information pamphlet developed under subsection (a) shall include informatio
 
 #### (2) Revision
 
-&emsp;Every 2 years, the Secretary of State, in consultation with the Attorney General and the Secretary of Homeland Security, shall determine the specific languages into which the information pamphlet will be translated based on the languages spoken by the greatest concentrations of employment- or education-based nonimmigrant visa applicants.
+&emsp;Every 2 years, the Secretary of State, in consultation with the Attorney General and the Secretary of Homeland Security, shall determine the specific languages into which the information pamphlet will be translated basedon the languages spoken by the greatest concentrations of employment- or education-based nonimmigrant visa applicants.
 
 #### (d) Availability and distribution
 

@@ -52,7 +52,7 @@
 
 #### (ii) Gross covered retiree plan-related prescription drug costs
 
-&emsp;&emsp;&emsp;For purposes of this section, the term “gross covered retiree plan-related prescription drug costs” means, with respect to a qualifying covered retiree enrolled in a qualified retiree prescription drug plan during a coverage year, the costs incurred under the plan, not including administrative costs, but including costs directly related to the dispensing of covered part D drugs during the year. Such costs shall bedetermined whether they are paid by the retiree or under the plan.
+&emsp;&emsp;&emsp;For purposes of this section, the term “gross covered retiree plan-related prescription drug costs” means, with respect to a qualifying covered retiree enrolled in a qualified retiree prescription drug plan during a coverage year, the costs incurred under the plan, not including administrative costs, but including costs directly related to the dispensing of covered part D drugs during the year. Such costs shall be determined whether they are paid by the retiree or under the plan.
 
 #### (iii) Coverage year
 
@@ -130,7 +130,7 @@ Pub. L. 108–173, title I, §111, Dec. 8, 2003, 117 Stat. 2174, provided that:
 
 “(a)
 
-Study.—The Comptroller General of the United States shall conduct an initial and final study underthis subsection \[probably should be this section\] to examine trends in employment-based retiree health coverage (as defined in \[sic\] 1860D–22(c)(1) of the Social Security Act \[subsec. (c)(1) of this section\], as added by section 101), including coverage under the Federal Employees Health Benefits Program (FEHBP), and the options and incentives available under this Act \[see Tables for classification\] which may have an effect on the voluntary provision of such coverage.
+Study.—The Comptroller General of the United States shall conduct an initial and final study under this subsection \[probably should be this section\] to examine trends in employment-based retiree health coverage (as defined in \[sic\] 1860D–22(c)(1) of the Social Security Act \[subsec. (c)(1) of this section\], as added by section 101), including coverage under the Federal Employees Health Benefits Program (FEHBP), and the options and incentives available under this Act \[see Tables for classification\] which may have an effect on the voluntary provision of such coverage.
 
 “(b)
 

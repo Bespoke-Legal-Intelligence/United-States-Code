@@ -2,7 +2,7 @@
 
 (a)
 
-Joint Prices.—An air carrier may establish reasonable joint prices and through service with another carrier. However, an air carrier not directly operating aircraft in air transportation (except an air express company) may not establish under this section a joint price for the transportation of property with a carrier subject to subtitle IV of this title.
+Joint Prices.—An air carrier may establish reasonable joint prices and through servicewith another carrier. However, an air carrier not directly operating aircraft in air transportation (except an air express company) may not establish under this section a joint price for the transportation of property with a carrier subject to subtitle IV of this title.
 
 (b)
 
@@ -16,7 +16,7 @@ Prices, Classifications, Rules, and Practices and Divisions of Joint Prices.—F
 
 Statements Included in Tariffs.—An air carrier and a carrier subject to subtitle IV of this title that are participating in through service and joint prices shall include in their tariffs, filed with the Secretary of Transportation, a statement showing the through service and joint prices.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1132; Pub. L. 104–88, title III, §308(<i>l</i>), Dec. 29, 1995, 109 Stat. 948; Pub. L. 105–102, §2(22), Nov. 20, 1997, 111 Stat. 2205.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1132; Pub. L. 104–88, title III, §308(l), Dec. 29, 1995, 109 Stat. 948; Pub. L. 105–102, §2(22), Nov. 20, 1997, 111 Stat. 2205.)
 
 Historical and Revision Notes
 
@@ -58,7 +58,7 @@ In subsection (c), the words “or the Interstate Commerce Commission, as the ca
 
 #### Pub. L. 105–102
 
-This amends the catchline for 49:41502 to make a technical and conforming amendment necessary because section 308(<i>l</i>) of the ICC Termination Act (Public Law 104–88, 109 Stat. 948) struck “common” from the text of 49:41502.
+This amends the catchline for 49:41502 to make a technical and conforming amendment necessary because section 308(l) of the ICC Termination Act (Public Law 104–88, 109 Stat. 948) struck “common” from the text of 49:41502.
 
 #### Amendments
 

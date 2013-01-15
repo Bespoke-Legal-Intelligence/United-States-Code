@@ -6,7 +6,7 @@ Whenever—
 
 &emsp;(1) a court has authorized the appointment of observers under section 1973a(a) of this title for a political subdivision; or
 
-&emsp;(2) the Attorney General certifies with respect to any political subdivision named in, or included within the scope of, determinations made under section 1973b(b) of this title, unless a declaratory judgment has been rendered under section 1973b(a) of this title, that—
+&emsp;(2) the Attorney General certifies with respect to any political subdivision named in, or included within the scope of, determinationsmade under section 1973b(b) of this title, unless a declaratory judgment has been rendered under section 1973b(a) of this title, that—
 
 &emsp;&emsp;(A) the Attorney General has received written meritorious complaints from residents, elected officials, or civic participation organizations that efforts to deny or abridge the right to vote under the color of law on account of race or color, or in contravention of the guarantees set forth in section 1973b(f)(2) of this title are likely to occur; or
 

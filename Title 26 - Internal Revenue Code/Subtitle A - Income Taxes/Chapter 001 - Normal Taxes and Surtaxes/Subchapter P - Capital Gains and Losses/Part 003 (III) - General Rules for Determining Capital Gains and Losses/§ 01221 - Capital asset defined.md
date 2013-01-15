@@ -22,7 +22,7 @@ For purposes of this subtitle, the term “capital asset” means property held 
 
 &emsp;&emsp;(A) a taxpayer who so received such publication, or
 
-&emsp;&emsp;(B) a taxpayer in whose hands the basis of such publication is determined, for purposes of determining gain from a sale or exchange, in whole or in part by reference to the basis of such publication in the hands of a taxpayer described in subparagraph (A);
+&emsp;&emsp;(B) a taxpayer in whose hands the basis of such publication is determined, for purposes of determining gain from a sale or exchange,in whole or in part by reference to the basis of such publication in the hands of a taxpayer described in subparagraph (A);
 
 &emsp;(6) any commodities derivative financial instrument held by a commodities derivatives dealer, unless—
 
@@ -42,7 +42,7 @@ For purposes of this subtitle, the term “capital asset” means property held 
 
 #### (A) Commodities derivatives dealer
 
-&emsp;&emsp;The term “commodities derivatives dealer” means a person which <sup>1</sup> regularly offers to enter into, assume, offset, assign, or terminate positions in commodities derivativefinancial instruments with customers in the ordinary course of a trade or business.
+&emsp;&emsp;The term “commodities derivatives dealer” means a person which <sup>1</sup> regularly offers to enter into, assume, offset, assign, or terminate positions in commodities derivative financial instruments with customers in the ordinary course of a trade or business.
 
 #### (B) Commodities derivative financial instrument
 
@@ -90,15 +90,9 @@ For purposes of this subtitle, the term “capital asset” means property held 
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 321; Pub. L. 91–172, title V, §514(a), Dec. 30, 1969, 83 Stat. 643; Pub. L. 94–455, title XIX, §1901(c)(9), title XXI, §2132(a), Oct. 4, 1976, 90 Stat. 1803, 1925; Pub. L. 97–34, title V, §505(a), Aug. 13, 1981, 95 Stat. 331; Pub. L. 106–170, title V, §532(a), Dec. 17, 1999, 113 Stat. 1928; Pub. L. 107–16, title V, §542(e)(2)(A), June 7, 2001, 115 Stat. 85; Pub. L. 107–147, title IV, §417(20), Mar. 9, 2002, 116 Stat. 57; Pub. L. 109–222, title II, §204(a), May 17, 2006, 120 Stat. 350; Pub. L. 109–432, div. A, title IV, §412(a), Dec. 20, 2006, 120 Stat. 2963; Pub. L. 111–312, title III, §301(a), Dec. 17, 2010, 124 Stat. 3300.)
 
-#### Amendment of Section
-
-<i>For termination of amendment by section 304 of Pub. L. 111–312, see Effective and Termination Dates of 2010 Amendment note below.</i>
-
-<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
-
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(3)(C). Pub. L. 111–312, §§301(a), 304, temporarily amended subsec. (a)(3)(C) to read as if amendment by Pub. L. 107–16, §542(e)(2)(A), had never been enacted. See 2001 Amendment note and Effective and Termination Dates of 2010 Amendment note below.
+<b>2010</b>—Subsec. (a)(3)(C). Pub. L. 111–312 amended subsec. (a)(3)(C) to read as if amendment by Pub. L. 107–16, §542(e)(2)(A), had never been enacted. See 2001 Amendment note below.
 
 <b>2006</b>—Subsec. (b)(3). Pub. L. 109–432 struck out “before January 1, 2011,” after “exchanged”.
 
@@ -108,7 +102,7 @@ Subsec. (b)(4). Pub. L. 109–222 redesignated par. (3) as (4).
 
 <b>2002</b>—Subsec. (b)(1)(B)(i). Pub. L. 107–147 substituted “1256(b)))” for “1256(b))”.
 
-<b>2001</b>—Subsec. (a)(3)(C). Pub. L. 107–16, §§542(e)(2)(A), 901, temporarily inserted “(other than by reason of section 1022)” after “is determined”. See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Subsec. (a)(3)(C). Pub. L. 107–16, §542(e)(2)(A), inserted “(other than by reason of section 1022)” after “is determined”.
 
 <b>1999</b>—Pub. L. 106–170 designated existing provisions as subsec. (a), inserted heading, and added pars. (6) to (8) and subsec. (b).
 
@@ -120,23 +114,19 @@ Par. (6). Pub. L. 94–455, §2132(a), added par. (6).
 
 <b>1969</b>—Par. (3). Pub. L. 91–172 inserted reference to a letter or memorandum, added subpar. (B) dealing with a letter or memorandum, and redesignated former subpar. (B) as (C).
 
-#### Effective and Termination Dates of 2010 Amendment
+#### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–312 applicable to estates of decedents dying, and transfers made after Dec. 31, 2009, except as otherwise provided, see section 301(e) of Pub. L. 111–312, set out as a note under section 121 of this title.
-
-Section 901 of Pub. L. 107–16 applicable to amendments by section 301(a) of Pub. L. 111–312, see section 304 of Pub. L. 111–312, set out as a note under section 121 of this title.
+Amendment by Pub. L. 111–312 applicable to estates of decedents dying, and transfers made after Dec. 31, 2009, except as otherwise provided, see section 301(e) of Pub. L. 111–312, set out as an Effective and Termination Dates of 2010 Amendment note under section 121 of this title.
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–432, div. A, title IV, §412(b), Dec. 20, 2006, 120 Stat. 2963, provided that: “The amendment made bythis section \[amending this section\] shall take effect as if included in section 204 of the Tax Increase Prevention and Reconciliation Act of 2005 \[Pub. L. 109–222\].”
+Pub. L. 109–432, div. A, title IV, §412(b), Dec. 20, 2006, 120 Stat. 2963, provided that: “The amendment made by this section \[amending this section\] shall take effect as if included in section 204 of the Tax Increase Prevention and Reconciliation Act of 2005 \[Pub. L. 109–222\].”
 
 Amendment by Pub. L. 109–222 applicable to sales and exchanges in taxable years beginning after May 17, 2006, see section 204(c) of Pub. L. 109–222, set out as a note under section 170 of this title.
 
-#### Effective and Termination Dates of 2001 Amendment
+#### Effective Date of 2001 Amendment
 
 Amendment by Pub. L. 107–16 applicable to estates of decedents dying after Dec. 31, 2009, see section 542(f)(1) of Pub. L. 107–16, set out as a note under section 121 of this title.
-
-Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1999 Amendment
 
@@ -148,11 +138,11 @@ Amendment by Pub. L. 97–34 applicable to property acquired and positions estab
 
 #### Effective Date of 1976 Amendment
 
-Section 2132(b) of Pub. L. 94–455 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to sales, exchanges, and contributions made after the date of enactment of this Act \[Oct. 4, 1976\].”
+Pub. L. 94–455, title XXI, §2132(b), Oct. 4, 1976, 90 Stat. 1925, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to sales, exchanges, and contributions made after the date of enactment of this Act \[Oct. 4, 1976\].”
 
 #### Effective Date of 1969 Amendment
 
-Section 514(c) of Pub. L. 91–172 provided that: “The amendments made by this section \[amending this section and sections 341 and 1231 of this title\] shall apply to sales and other dispositions occurring after July 25, 1969.”
+Pub. L. 91–172, title V, §514(c), Dec. 30, 1969, 83 Stat. 643, provided that: “The amendments made by this section \[amending this section and sections 341 and 1231 of this title\] shall apply to sales and other dispositions occurring after July 25, 1969.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “who”.</i>
 

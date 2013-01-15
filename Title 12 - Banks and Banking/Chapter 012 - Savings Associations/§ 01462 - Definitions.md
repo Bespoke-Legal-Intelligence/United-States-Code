@@ -72,6 +72,10 @@ Pars. (10), (11). Pub. L. 111–203, §604(h)(1), added pars. (10) and (11).
 
 <b>1934</b>—Subsec. (c). Act June 27, 1934, substituted “(1) under a lease for not less than ninety-nine years which is renewable, or (2) under a lease having a period of not less than fifty years to run from the date the mortgage was executed” for “under a lease renewable for not less than ninety nine years”.
 
+#### Change of Name
+
+“Home Loan Bank Board” changed to “Federal Home Loan Bank Board” by act Aug. 11, 1955, ch. 783, §109(a)(3), which was classified to section 1437(b) of this title prior to the repeal of section 1437 by Pub. L. 101–73, title VII, §703(a), Aug. 9, 1989, 103 Stat. 415.
+
 #### Effective Date of 2010 Amendment
 
 Amendment by section 369(2) of Pub. L. 111–203 effective on the transfer date, see section 351 of Pub. L. 111–203, set out as a note under section 906 of Title 2, The Congress.
@@ -83,4 +87,8 @@ Pub. L. 111–203, title VI, §604(j), July 21, 2010, 124 Stat. 1604, provided t
 #### Effective Date of 1978 Amendment
 
 Amendment effective upon expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630 set out as an Effective Date note under section 375b of this title.
+
+#### Transfer of Functions
+
+Reorg. Plan No. 3 of 1947, set out in the Appendix to Title 5, Government Organization and Employees, abolished Federal Home Loan Bank Board and transferred its functions to Home Loan Bank Board created by the Plan.
 

@@ -24,9 +24,11 @@
 
 #### Amendments
 
+<b>2012</b>—Pub. L. 112–234, §2(e)(2), Dec. 28, 2012, 126 Stat. 1625, renumbered Pub. L. 106–253, §2(d). See 2000 Amendment note below.
+
 <b>2006</b>—Pub. L. 109–435, title IV, §403(c), Dec. 20, 2006, 120 Stat. 3227, added item 404a.
 
-<b>2000</b>—Pub. L. 106–253, §2(d), July 28, 2000, 114 Stat. 636, added item 416.
+<b>2000</b>—Pub. L. 106–253, §2(c), formerly §2(d), July 28, 2000, 114 Stat. 636, as renumbered §2(c) by Pub. L. 112–234, §2(e)(2), Dec. 28, 2012, 126 Stat. 1625, added item 416.
 
 <b>1998</b>—Pub. L. 105–241, §4(b), Sept. 28, 1998, 112 Stat. 1573, added item 415.
 

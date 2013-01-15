@@ -12,7 +12,7 @@ Subsection (a) shall not apply to a trust exempt from taxation under section 501
 
 #### Prior Provisions
 
-A prior section 644, added Pub. L. 94–455, title VII, §701(e)(1), Oct. 4, 1976, 90 Stat. 1578; amended Pub. L.95–600, title VII, §701(p)(1)–(3), Nov. 6, 1978, 92 Stat. 2908; Pub. L. 96–471, §2(b)(4), Oct. 19, 1980, 94 Stat. 2254; Pub. L. 99–514, title XV, §1511(c)(5), Oct. 22, 1986, 100 Stat. 2745, related to special rule for gain on property transferred to trust at less than fair market value, prior to repeal by Pub. L. 105–34, title V, §507(b)(1), Aug. 5, 1997, 111 Stat. 856.
+A prior section 644, added Pub. L. 94–455, title VII, §701(e)(1), Oct. 4, 1976, 90 Stat. 1578; amended Pub. L. 95–600, title VII, §701(p)(1)–(3), Nov. 6, 1978, 92 Stat. 2908; Pub. L. 96–471, §2(b)(4), Oct. 19, 1980, 94 Stat. 2254; Pub. L. 99–514, title XV, §1511(c)(5), Oct. 22, 1986, 100 Stat. 2745, related to special rule for gain on property transferred to trust at less than fair market value, prior to repeal by Pub. L. 105–34, title V, §507(b)(1), Aug. 5, 1997, 111 Stat. 856.
 
 #### Amendments
 
@@ -20,11 +20,11 @@ A prior section 644, added Pub. L. 94–455, title VII, §701(e)(1), Oct. 4, 197
 
 #### Effective Date of 1997 Amendment
 
-Section 507(c)(2) of Pub. L. 105–34 provided that: “The amendments made by subsection (b) \[amending section 706 of this title, repealing section 644 of this title, and renumbering section 645 of this title as this section\] shall apply to sales or exchanges after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title V, §507(c)(2), Aug. 5, 1997, 111 Stat. 857, provided that: “The amendments made by subsection (b) \[amending section 706 of this title, repealing section 644 of this title, and renumbering section 645 of this title as this section\] shall apply to sales or exchanges after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 #### Effective Date; Transition Rule
 
-Section 1403(c) of Pub. L. 99–514 provided that:
+Pub. L. 99–514, title XIV, §1403(c), Oct. 22, 1986, 100 Stat. 2713, provided that:
 
 “(1)
 

@@ -2,7 +2,7 @@
 
 #### Codification
 
-Sections were omitted. See sections 1356k and 1356<i>l</i> of this title.
+Sections were omitted. See sections 1356k and 1356l of this title.
 
 Section 1356a, Pub. L. 89–23, §2, May 22, 1965, 79 Stat. 112, authorized the President, for a period not to exceed October 1, 1968, to carry out the provisions of the International Coffee Agreement, 1962.
 

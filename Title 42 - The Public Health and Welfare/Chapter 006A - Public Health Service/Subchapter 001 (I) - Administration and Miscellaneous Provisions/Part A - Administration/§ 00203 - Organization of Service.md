@@ -10,7 +10,7 @@ The Service shall consist of (1) the Office of the Surgeon General, (2) the Nati
 
 <b>1993</b>—Pub. L. 103–43, §2008(g)(2), inserted “, and the Agency for Health Care Policy and Research” in first sentence.
 
-Pub. L. 103–43, §2008(g)(1), which directed the amendment of this section by striking “Surgeon General” the second and subsequent times that such term appears and inserting “Secretary”, was executed by making the substitution before “is authorized and directed” and before “may delegate to any officer” and by leaving unchanged “Surgeon General” in the phrase “assign to the Office of the Surgeon General” in second sentence, to reflect the probable intent of Congress.
+Pub. L. 103–43, §2008(g)(1), which directed the amendment of this section by striking “Surgeon General” thesecond and subsequent times that such term appears and inserting “Secretary”, was executed by making the substitution before “is authorized and directed” and before “may delegate to any officer” and by leaving unchanged “Surgeon General” in the phrase “assign to the Office of the Surgeon General” in second sentence, to reflect the probable intent of Congress.
 
 <b>1948</b>—Act June 16, 1948, substituted “National Institutes of Health” for “National Institute of Health” in cl. (2).
 

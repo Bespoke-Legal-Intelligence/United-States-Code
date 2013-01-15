@@ -130,7 +130,7 @@ Orders and other official actions not affected.—All orders, determinations, ru
 
 &emsp;“(2)
 
-Pending matters and proceedings.—This Act shall not affect any pending matters or proceedings, including notices of proposed rulemaking, relating to a function or authority transferred under this Act. Such matters or proceedings shall continue under the authority of the agency to which the function or authority is transferred until completed or terminated in accordance with law.
+Pending matters and proceedings.—This Act shall not affect any pending matters or proceedings, including notices of proposed rulemaking, relating to a function or authority transferred under this Act. Such matters or proceedings shall continue under theauthority of the agency to which the function or authority is transferred until completed or terminated in accordance with law.
 
 &emsp;“(3)
 

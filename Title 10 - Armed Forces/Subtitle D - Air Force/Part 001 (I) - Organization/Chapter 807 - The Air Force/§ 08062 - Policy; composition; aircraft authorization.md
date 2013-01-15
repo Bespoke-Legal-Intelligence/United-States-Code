@@ -26,7 +26,7 @@
 
 (f) There are authorized for the Air Force 24,000 serviceable aircraft or 225,000 airframe tons of serviceable aircraft, whichever the Secretary of the Air Force considers appropriate to carry out this section. This subsection does not apply to guided missiles.
 
-(g)(1) Effective October 1, 2011, the Secretary of the Air Force shall maintain a total aircraft inventory of strategic airlift aircraft of not less than 301 aircraft.
+(g)(1) Effective October 1, 2011, the Secretary of the Air Force shall maintain a total aircraft inventory of strategic airlift aircraft of not less than 301 aircraft. Effective on the date that is 45 days after the date on which the report under section 141(c)(3) of the National Defense Authorization Act for Fiscal Year 2013 is submitted to the congressional defense committees, the Secretary shall maintain a total aircraft inventory of strategic airlift aircraft of not less than 275 aircraft.
 
 (2) In this subsection:
 
@@ -38,7 +38,13 @@
 
 &emsp;(B) The term “outsized cargo” means any single item of equipment that exceeds 1,090 inches in length, 117 inches in width, or 105 inches in height.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 493; Pub. L. 96–513, title V, §504(4), Dec. 12, 1980, 94 Stat. 2916; Pub. L. 99–433, title I, §110(g)(10), Oct. 1, 1986, 100 Stat. 1004; Pub. L. 100–26, §7(g)(3), Apr. 21, 1987, 101 Stat. 282; Pub. L. 100–180, div. A, title XIII, §1314(b)(9), Dec. 4, 1987, 101 Stat. 1176; Pub. L. 109–163, div. A, title X, §1057(a)(6), Jan. 6, 2006, 119 Stat. 3441; Pub. L. 109–364, div. A, title I, §132, Oct. 17, 2006, 120 Stat. 2112; Pub. L. 111–84, div. A, title I, §139, Oct. 28, 2009, 123 Stat. 2223; Pub. L. 112–81, div. A, title I, §131, Dec. 31, 2011, 125 Stat. 1320.)
+(h)(1) Beginning October 1, 2011, the Secretary of the Air Force may not retire more than six B–1 aircraft.
+
+(2) The Secretary shall maintain in a common capability configuration not less than 36 B–1 aircraft as combat-coded aircraft.
+
+(3) In this subsection, the term “combat-coded aircraft” means aircraft assigned to meet the primary aircraft authorization to a unit for the performance of its wartime mission.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 493; Pub. L. 96–513, title V, §504(4), Dec. 12, 1980, 94 Stat. 2916; Pub. L. 99–433, title I, §110(g)(10), Oct. 1, 1986, 100 Stat. 1004; Pub. L. 100–26, §7(g)(3), Apr. 21, 1987, 101 Stat. 282; Pub. L. 100–180, div. A, title XIII, §1314(b)(9), Dec. 4, 1987, 101 Stat. 1176; Pub. L. 109–163, div. A, title X, §1057(a)(6), Jan. 6, 2006, 119 Stat. 3441; Pub. L. 109–364, div. A, title I, §132, Oct. 17, 2006, 120 Stat. 2112; Pub. L. 111–84, div. A, title I, §139, Oct. 28, 2009, 123 Stat. 2223; Pub. L. 112–81, div. A, title I, §131, Dec. 31, 2011, 125 Stat. 1320; Pub. L. 112–239, div. A, title I, §§141(a), 142(a), Jan. 2, 2013, 126 Stat. 1659, 1662.)
 
 Historical and Revision Notes
 
@@ -100,11 +106,19 @@ In subsection (d)(1), 10:20r(a) is omitted as superseded by 10:1831. The words �
 
 In subsection (d)(2), the words “or inducted” are omitted as covered by the word “conscripted”.
 
-In subsection (e), the words “Effective on July 10, 1950” are omitted as executed. The words “the limitations imposed by” are omitted as surplusage. The words “not to exceed” are omitted as surplusage, since the revised section states the authorized number and any number over that would not be authorized. The words “and chapter 31 of this title” are substituted for the reference to 10:20s to make it clear that the authority for a 70 group Air Force is subject to all provisions which prescribe the authorized personnel strength of the Air Force.
+In subsection (e), the words “Effective on July 10, 1950” are omitted as executed. The words “the limitations imposed by” are omitted as surplusage. The words “not to exceed” are omitted as surplusage, sincethe revised section states the authorized number and any number over that would not be authorized. The words “and chapter 31 of this title” are substituted for the reference to 10:20s to make it clear that the authority for a 70 group Air Force is subject to all provisions which prescribe the authorized personnel strength of the Air Force.
 
 In subsection (f), the word “considers” is substituted for the words “may determine is more”. The words “aggregate” and “amount” are omitted as surplusage. The words “carry out this section” are substituted for the words “fulfill the requirements of the Air Force of the United States for aircraft necessary to carry out the purposes of this chapter, section 481 of this title, and sections 235, 235a, 628, and 628a of title 5”, since the purposes to which the reference is made are stated in the revised section. The last sentence is substituted for 10:20t (proviso).
 
+#### References in Text
+
+Section 141(c)(3) of the National Defense Authorization Act for Fiscal Year 2013, referred to in subsec. (g)(1), is section 141(c)(3) of Pub. L. 112–239, div. A, title I, Jan. 2, 2013, 126 Stat. 1661.
+
 #### Amendments
+
+<b>2013</b>—Subsec. (g)(1). Pub. L. 112–239, §141(a), inserted at end “Effective on the date that is 45 days after the date on which the report under section 141(c)(3) of the National Defense Authorization Act for Fiscal Year 2013 is submitted to the congressional defense committees, the Secretary shall maintain a total aircraft inventory of strategic airlift aircraft of not less than 275 aircraft.”
+
+Subsec. (h). Pub. L. 112–239, §142(a), added subsec. (h).
 
 <b>2011</b>—Subsec. (g)(1). Pub. L. 112–81 substituted “October 1, 2011” for “October 1, 2009” and “301 aircraft” for “316 aircraft”.
 
@@ -170,7 +184,7 @@ Report on Criteria.—Not later than 30 days after the date of the enactment of 
 
 “(c)
 
-Report on Feasibility Study.—At least 90 days before any consolidation of aircraft repair facilities and personnel of the active Air Force with aircraft repair facilities and personnel of the Air National Guard, the Secretary of the Air Force shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the findings of the Rand Corporation feasibility study and the Rand Corporation's recommendations, the Air Force's assessment of the findings and recommendations, any plans developed for implementation of the consolidation, and a delineation of all infrastructure costs anticipated as a result of implementation.
+Report on Feasibility Study.—At least 90 days before any consolidation of aircraft repair facilities and personnel of the active Air Force with aircraft repair facilities and personnel of the Air National Guard, the Secretary of the Air Force shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the findings of the Rand Corporation feasibility study and the Rand Corporation's recommendations, the Air Force's assessment of the findings and recommendations, any plans developed forimplementation of the consolidation, and a delineation of all infrastructure costs anticipated as a result of implementation.
 
 “(d)
 

@@ -2,7 +2,7 @@
 
 The Secretary of the Interior is authorized to—
 
-&emsp;(1) maintain, either in an existing structure acquired under section 450<i>ll</i> of this title or in a building constructed by him for the purpose, a museum for relics and records pertaining to Booker T. Washington, and for other articles of national and patriotic interest, and to accept, on behalf of the United States, for installation in such museum, articles which may be offered as additions to the museum; and
+&emsp;(1) maintain, either in an existing structure acquired under section 450ll of this title or in a building constructed by him for the purpose, a museum for relics and records pertaining to Booker T. Washington, and for other articles of national and patriotic interest, and to accept, on behalf of the United States, for installation in such museum, articles which may be offered as additions to the museum; and
 
 &emsp;(2) provide for public parks and recreational areas, construct roads and mark with monuments, tablets, or otherwise, points of interest, within the boundaries of the Booker T. Washington National Monument.
 

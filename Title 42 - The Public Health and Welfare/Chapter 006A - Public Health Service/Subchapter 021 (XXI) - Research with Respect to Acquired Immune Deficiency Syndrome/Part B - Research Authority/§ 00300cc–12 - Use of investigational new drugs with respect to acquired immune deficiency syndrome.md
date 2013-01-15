@@ -2,7 +2,7 @@
 
 #### (a) Encouragement of applications with respect to clinical trials
 
-(1) If, in the determination of the Secretary, there is preliminary evidence that a new drughas effectiveness in humans with respect to the prevention or treatment of acquired immune deficiency syndrome, the Secretary shall, through statements published in the Federal Register—
+(1) If, in the determination of the Secretary, there is preliminary evidence that a new drug has effectiveness in humans with respect to the prevention or treatment of acquired immune deficiency syndrome, the Secretary shall, through statements published in the Federal Register—
 
 &emsp;(A) announce the fact of such determination; and
 

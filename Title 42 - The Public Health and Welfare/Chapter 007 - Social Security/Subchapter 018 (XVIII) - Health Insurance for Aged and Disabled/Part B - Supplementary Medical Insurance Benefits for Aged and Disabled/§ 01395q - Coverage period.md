@@ -6,7 +6,7 @@ The period during which an individual is entitled to benefits under the insuranc
 
 &emsp;(1) July 1, 1966, or (in the case of a disabled individual who has not attained age 65) July 1, 1973; or
 
-&emsp;(2)(A) in the case of an individual who enrolls pursuant to subsection (d) of section 1395p of this title before the month in which he first satisfies paragraph (1) or (2) of section 1395<i>o</i> of this title, the first day of such month, or
+&emsp;(2)(A) in the case of an individual who enrolls pursuant to subsection (d) of section 1395p of this title before the month in which he first satisfies paragraph (1) or (2) of section 1395o of this title, the first day of such month, or
 
 &emsp;(B) in the case of an individual who enrolls pursuant to such subsection (d) in the month in which he first satisfies such paragraph, the first day of the month following the month in which he so enrolls, or
 
@@ -16,7 +16,7 @@ The period during which an individual is entitled to benefits under the insuranc
 
 &emsp;(E) in the case of an individual who enrolls pursuant to subsection (e) of section 1395p of this title, the July 1 following the month in which he so enrolls; or
 
-&emsp;(3)(A) in the case of an individual who is deemed to have enrolled on or before the last day of the third month of his initial enrollment period, the first day of the month in which he first meets the applicable requirements of section 1395<i>o</i> of this title or July 1, 1973, whichever is later, or
+&emsp;(3)(A) in the case of an individual who is deemed to have enrolled on or before the last day of the third month of his initial enrollment period, the first day of the month in which he first meets the applicable requirements of section 1395o of this title or July 1, 1973, whichever is later, or
 
 &emsp;(B) in the case of an individual who is deemed to have enrolled on or after the first day of the fourth month of his initial enrollment period, as prescribed under subparagraphs (B), (C), (D), and (E) of paragraph (2) of this subsection.
 
@@ -34,7 +34,7 @@ Where an individual who is deemed to have enrolled for medical insurance pursuan
 
 #### (c) Termination
 
-In the case of an individual satisfying paragraph (1) of section 1395<i>o</i> of this title whose entitlement to hospital insurance benefits under part A of this subchapter is based on a disability rather than on his having attained the age of 65, his coverage period (and his enrollment under this part) shall be terminated as of the close of the last month for which he is entitled to hospital insurance benefits.
+In the case of an individual satisfying paragraph (1) of section 1395o of this title whose entitlement to hospital insurance benefits under part A of this subchapter is based on a disability rather than on his having attained the age of 65, his coverage period (and his enrollment under this part) shall be terminated as of the close of the last month for which he is entitled to hospital insurance benefits.
 
 #### (d) Payment of expenses incurred during coverage period
 
@@ -50,7 +50,7 @@ Notwithstanding subsection (a) of this section, in the case of an individual who
 
 #### (f) Commencement of coverage for certain volunteers serving outside United States
 
-Notwithstanding subsection (a), in the case of an individual who enrolls during a special enrollment period pursuant to section 1395p(k) of this title, the coverage period shall begin on the first day of the month following the month in which the individual so enrolls.
+Notwithstanding subsection (a), in the case of an individual who enrolls during a special enrollment period pursuant to section 1395p(k) ofthis title, the coverage period shall begin on the first day of the month following the month in which the individual so enrolls.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1838, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 305; amended Pub. L. 90–248, title I, §145(c), Jan. 2, 1968, 81 Stat. 859; Pub. L. 92–603, title II, §§201(c)(3), 206(b), (c), 257(a), Oct. 30, 1972, 86 Stat. 1373, 1378, 1447; Pub. L. 96–499, title IX, §§945(c)(1), 947(b), Dec. 5, 1980, 94 Stat. 2642, 2643; Pub. L. 97–35, title XXI, §§2106(b)(2), 2151(a)(3), Aug. 13, 1981, 95 Stat. 792, 802; Pub. L. 98–369, div. B, title III, §2338(c), July 18, 1984, 98 Stat. 1092; Pub. L. 99–272, title IX, §9201(c)(2), Apr. 7, 1986, 100 Stat. 171; Pub. L. 99–509, title IX, §9344(b)(1), Oct. 21, 1986, 100 Stat. 2042; Pub. L. 103–432, title I, §147(f)(1)(B), Oct. 31, 1994, 108 Stat. 4430; Pub. L. 105–33, title IV, §4581(b)(2), Aug. 5, 1997, 111 Stat. 465; Pub. L. 108–173, title VII, §736(b)(6), Dec. 8, 2003, 117 Stat. 2356; Pub. L. 109–171, title V, §5115(a)(2)(B), Feb. 8, 2006, 120 Stat. 46.)
 
@@ -118,9 +118,9 @@ Amendment by Pub. L. 105–33 applicable to involuntary terminations of coverage
 
 Amendment by Pub. L. 103–432 effective on first day of first month beginning after expiration of the 120-day period that begins on Oct. 31, 1994, see section 147(f)(1)(C) of Pub. L. 103–432, set out as a note under section 1395p of this title.
 
-#### Effective Date of 1986 Amendments
+#### Effective Date of 1986 Amendment
 
-Section 9344(b)(2) of Pub. L. 99–509 provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply to notices filed on or after July 1, 1987.”
+Pub. L. 99–509, title IX, §9344(b)(2), Oct. 21, 1986, 100 Stat. 2042, provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply to notices filed on or after July 1, 1987.”
 
 Amendment by Pub. L. 99–272 effective May 1, 1986, see section 9201(d)(2) of Pub. L. 99–272, set out as a note under section 1395p of this title.
 
@@ -130,7 +130,7 @@ For effective date of amendment by Pub. L. 98–369, see section 2338(d)(2) of P
 
 #### Effective Date of 1981 Amendment
 
-Amendment by section 2106(b)(2) of Pub. L. 97–35 effective Apr. 1, 1981, see section 2106(c) of Pub. L. 97–35, set out as a note under section 1395<i>l</i> of this title.
+Amendment by section 2106(b)(2) of Pub. L. 97–35 effective Apr. 1, 1981, see section 2106(c) of Pub. L. 97–35, set out as a note under section 1395l of this title.
 
 Amendment by section 2151(a)(3) of Pub. L. 97–35 not applicable to enrollments pursuant to written requests for enrollment filed before Oct. 1, 1981, see section 2151(b) of Pub. L. 97–35, set out as a note under section 1395p of this title.
 
@@ -142,7 +142,7 @@ Amendment by section 947(b) of Pub. L. 96–499 applicable to notices filed afte
 
 #### Effective Date of 1972 Amendment
 
-Section 257(b) of Pub. L. 92–603 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to nonpayment of premiums which become due and payable on or after the date of the enactment of this Act \[Oct. 30, 1972\] or which became payable within the 90-day period immediately preceding such date; and for purposes of such amendments any premium which became due and payable within such 90-day period shall be considered a premium becoming due and payable on the date of the enactment of this Act.”
+Pub. L. 92–603, title II, §257(b), Oct. 30, 1972, 86 Stat. 1447, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to nonpayment of premiums which become due and payable on or after the date of the enactment of this Act \[Oct. 30, 1972\] or which became payable within the 90-day period immediately preceding such date; and for purposes of such amendments any premium which became due and payable within such 90-day period shall be considered a premium becoming due and payable on the date of the enactment of this Act.”
 
 #### Effective Date of 1968 Amendment
 
@@ -164,9 +164,9 @@ Extension of the general enrollment period under section 1395p(e) of this title 
 
 #### Coverage Period for Individuals Becoming Eligible in March 1966 Who Enroll in May 1966
 
-Pub. L. 89–384, §3(d), Apr. 8, 1966, 80 Stat. 105, provided that: “In the case of an individual who first satisfies paragraphs (1) and (2) of section 1836 of the Social Security Act \[section 1395<i>o</i> of this title\] in March, 1966, and who enrolls pursuant to subsection (d) of section 1837 of such Act \[section 1395p of this title\] in May 1966, his coverage period shall, notwithstanding section 1838(a)(2)(D) of such Act \[subsec. (a)(2)(D) of this section\], begin on July 1, 1966.”
+Pub. L. 89–384, §3(d), Apr. 8, 1966, 80 Stat. 105, provided that: “In the case of an individual who first satisfies paragraphs (1) and (2) of section 1836 of the Social Security Act \[section 1395o of this title\] in March, 1966, and who enrolls pursuant to subsection (d) of section 1837 of such Act \[section 1395p of this title\] in May 1966, his coverage period shall, notwithstanding section 1838(a)(2)(D) of such Act \[subsec. (a)(2)(D) of this section\], begin on July 1, 1966.”
 
 #### Commencement of Coverage Period of Certain Enrollees
 
-Commencement of coverage period upon enrollment before Oct. 1, 1966 of eligible individuals failing for goodcause to enroll before June 1, 1966, see section 102(b) of Pub. L. 89–97, set out as a note under section 1395p of this title.
+Commencement of coverage period upon enrollment before Oct. 1, 1966 of eligible individuals failing for good cause to enroll before June 1, 1966, see section 102(b) of Pub. L. 89–97, set out as a note under section 1395p of this title.
 

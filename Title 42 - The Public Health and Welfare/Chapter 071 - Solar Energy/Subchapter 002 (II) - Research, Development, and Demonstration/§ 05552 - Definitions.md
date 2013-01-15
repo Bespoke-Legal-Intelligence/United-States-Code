@@ -2,7 +2,7 @@
 
 For the purposes of this subchapter—
 
-&emsp;(1) the term “solar energy” means energy which has recently originated in the Sun, including direct and indirect solar radiation and intermediate solar energy forms such as wind,sea thermal gradients, products of photosynthetic processes, organic wastes, and others;
+&emsp;(1) the term “solar energy” means energy which has recently originated in the Sun, including direct and indirect solar radiation and intermediate solar energy forms such as wind, sea thermal gradients, products of photosynthetic processes, organic wastes, and others;
 
 &emsp;(2) the term “byproducts” includes, with respect to any solar energy technology or process, any solar energy products (including energy forms) other than those associated with or constituting the primary product of such technology or process;
 

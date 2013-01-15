@@ -112,7 +112,7 @@ Sponges
 
 &emsp;(13) The term “fishery” means—
 
-&emsp;&emsp;(A) one or more stocks of fish which can be treated as a unit for purposes of conservation and management and which are identified on the basis of geographical, scientific,technical, recreational, and economic characteristics; and
+&emsp;&emsp;(A) one or more stocks of fish which can be treated as a unit for purposes of conservation and management and which are identified on the basis of geographical, scientific, technical, recreational, and economic characteristics; and
 
 &emsp;&emsp;(B) any fishing for such stocks.
 
@@ -180,7 +180,7 @@ Sponges
 
 &emsp;(31) The term “observer” means any person required or authorized to be carried on a vessel for conservation and management purposes by regulations or permits under this chapter.
 
-&emsp;(32) The term “observer information” means any information collected, observed, retrieved, or created by an observer or electronic monitoring system pursuant to authorization bythe Secretary, or collected as part of a cooperative research initiative, including fish harvest or processing observations, fish sampling or weighing data, vessel logbook data, vessel or processor-specific information (including any safety, location, or operating condition observations), and video, audio, photographic, or written documents.
+&emsp;(32) The term “observer information” means any information collected, observed, retrieved, or created by an observer or electronic monitoring system pursuant to authorization by the Secretary, or collected as part of a cooperative research initiative, including fish harvest or processing observations, fish sampling or weighing data, vessel logbook data, vessel or processor-specific information (including any safety, location, or operating condition observations), and video, audio, photographic, or written documents.
 
 &emsp;(33) The term “optimum”, with respect to the yield from a fishery, means the amount of fish which—
 
@@ -242,11 +242,11 @@ Sponges
 
 &emsp;(50) The term “waters of a foreign nation” means any part of the territorial sea or exclusive economic zone (or the equivalent) of a foreign nation, to the extent such territorial sea or exclusive economic zone is recognized by the United States.
 
-(Pub. L. 94–265, §3, Apr. 13, 1976, 90 Stat. 333; Pub. L. 95–354, §3, Aug. 28, 1978, 92 Stat. 519; Pub. L. 97–453, §15(a), Jan. 12, 1983, 96 Stat. 2492; Pub. L. 99–659, title I, §§101(a), 112, Nov. 14, 1986, 100 Stat. 3706, 3715; Pub. L. 100–239, §2, Jan. 11, 1988, 101 Stat. 1778; Pub. L. 101–627, title I, §102(a), title X, §1001(c), Nov. 28, 1990, 104 Stat. 4438, 4468; Pub. L. 102–251, title III, §301(b), Mar. 9, 1992, 106 Stat. 62; Pub. L. 104–297, title I, §102, Oct. 11, 1996, 110 Stat. 3561; Pub. L. 109–479, §3(b), (c), Jan. 12, 2007, 120 Stat. 3577, 3578.)
+(Pub. L. 94–265, §3, Apr. 13, 1976, 90 Stat. 333; Pub. L. 95–354, §3, Aug. 28, 1978, 92 Stat. 519; Pub. L. 97–453, §15(a), Jan. 12, 1983, 96 Stat. 2492; Pub. L. 99–659, title I, §§101(a), 112, Nov. 14, 1986, 100 Stat. 3706, 3715; Pub. L. 100–239, §2, Jan. 11, 1988, 101 Stat. 1778; Pub. L. 101–627, title I, §102(a), title X, §1001(c), Nov. 28, 1990, 104 Stat. 4438, 4468; Pub. L. 102–251, title III, §301(b), Mar. 9, 1992, 106 Stat. 62; Pub. L. 104–297, title I, §102, Oct. 11, 1996, 110Stat. 3561; Pub. L. 109–479, §3(b), (c), Jan. 12, 2007, 120 Stat. 3577, 3578.)
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 Proclamation Numbered 5030, referred to in par. (11), is set out under section 1453 of this title.
 
@@ -494,11 +494,11 @@ Pars. (6) to (8). Pub. L. 99–659, §101(a), added par. (6), redesignated forme
 
 #### Effective Date of 1992 Amendment
 
-Section 405(a) of Pub. L. 104–297 provided that: “Notwithstanding section 308 of the Act entitled ‘An Act to provide for the designation of the Flower Garden Banks National Marine Sanctuary’, approved March 9, 1992 (Public Law 102–251; 106 Stat. 66) \[set out as a note under section 773 of this title\] hereinafter referred to as the ‘FGB Act’, section 301(b) of that Act \[amending this section, see Codification note above\] (adding a definition of the term ‘special areas’) shall take effect on the date of enactment of this Act \[Oct. 11, 1996\].”
+Pub. L. 104–297, title IV, §405(a), Oct. 11, 1996, 110 Stat. 3620, provided that: “Notwithstanding section 308 of the Act entitled ‘An Act to provide for the designation of the Flower Garden Banks National Marine Sanctuary’, approved March 9, 1992 (Public Law 102–251; 106 Stat. 66) \[set out as a note under section 773 of this title\] hereinafter referred to as the ‘FGB Act’, section 301(b) of that Act \[amending this section, see Codification note above\] (adding a definition of the term ‘special areas’) shall take effect on the date of enactment of this Act \[Oct. 11, 1996\].”
 
 #### Redesignation of Pacific Marine Fisheries Commission as Pacific States Marine Fisheries Commission
 
-Section 1001 of Pub. L. 101–627 provided that:
+Pub. L. 101–627, title X, §1001, Nov. 28, 1990, 104 Stat. 4467, provided that:
 
 “(a)
 

@@ -20,7 +20,7 @@ The term “special maritime and territorial jurisdiction of the United States�
 
 &emsp;(9) With respect to offenses committed by or against a national of the United States as that term is used in section 101 of the Immigration and Nationality Act—
 
-&emsp;&emsp;(A) the premises of United States diplomatic, consular, military or other United States Government missions or entities in foreign States, including the buildings, parts of buildings, and land appurtenant or ancillary thereto or used for purposes of those missions or entities, irrespective of ownership; and
+&emsp;&emsp;(A) the premises of United States diplomatic, consular, military or other UnitedStates Government missions or entities in foreign States, including the buildings, parts of buildings, and land appurtenant or ancillary thereto or used for purposes of those missions or entities, irrespective of ownership; and
 
 &emsp;&emsp;(B) residences in foreign States and the land appurtenant or ancillary thereto, irrespective of ownership, used for purposes of those missions or entities or used by United States personnel assigned to those missions or entities.
 

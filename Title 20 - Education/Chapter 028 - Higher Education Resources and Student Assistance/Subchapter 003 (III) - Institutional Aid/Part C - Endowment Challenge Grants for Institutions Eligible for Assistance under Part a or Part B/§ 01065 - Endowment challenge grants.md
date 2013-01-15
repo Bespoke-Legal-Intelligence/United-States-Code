@@ -84,7 +84,7 @@ In selecting eligible institutions for grants under this section for any fiscal 
 
 &emsp;(1) give priority to an applicant that is receiving assistance under part A of this subchapter or part B of this subchapter or has received a grant under part A of this subchapter or part B of this subchapter within the 5 fiscal years preceding the fiscal year in which the applicant is applying for a grant under this section;
 
-&emsp;(2) give priority to an applicant with a greater need for such a grant, based on the current market value of the applicant's existing endowment in relation to the number of full-time equivalent students enrolled at such institution; and
+&emsp;(2) give priority to an applicant with a greater need for such a grant, based on thecurrent market value of the applicant's existing endowment in relation to the number of full-time equivalent students enrolled at such institution; and
 
 &emsp;(3) consider—
 
@@ -116,7 +116,7 @@ The Secretary, directly or by grant or contract, may provide technical assistanc
 
 #### Prior Provisions
 
-A prior section 331 of Pub. L. 89–329, title III, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat.1298, related to establishment of challenge grant program, was classified to section 1064 of this title prior to repeal by Pub. L. 102–325, §304(a)(2).
+A prior section 331 of Pub. L. 89–329, title III, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1298, related to establishment of challenge grant program, was classified to section 1064 of this title prior to repeal by Pub. L. 102–325, §304(a)(2).
 
 A prior section 1065, Pub. L. 89–329, title III, §332, as added Pub. L. 96–374, title III, §301, Oct. 3, 1980, 94 Stat. 1396, related to applications for challenge grants, prior to the general revision of this subchapter by Pub. L. 99–498.
 

@@ -28,5 +28,5 @@ Definitions.—In this section:
 
 #### Effective Date
 
-Section 344(c) of Pub. L. 100–456 provided that: “The amendment made by subsection (a) \[enacting this section\] shall take effect with respect to thefts and losses discovered more than 180 days after the date of the enactment of this Act \[Sept. 29, 1988\].”
+Pub. L. 100–456, div. A, title III, §344(c), Sept. 29, 1988, 102 Stat. 1962, provided that: “The amendment made by subsection (a) \[enacting this section\] shall take effect with respect to thefts and losses discovered more than 180 days after the date of the enactment of this Act \[Sept. 29, 1988\].”
 

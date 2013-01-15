@@ -24,7 +24,7 @@
 
 #### (b) Appointment of Commissioner for Education Statistics
 
-The National Center for Education Statistics shall be headed by a Commissioner for Education Statistics who shall be appointed by the President, by and with the advice and consent of the Senate, and who shall—
+The National Center for Education Statistics shall be headed by a Commissioner for Education Statistics who shall be appointed by the President and who shall—
 
 &emsp;(1) have substantial knowledge of programs assisted by the National Center for Education Statistics;
 
@@ -40,9 +40,17 @@ Each Commissioner of a National Education Center shall coordinate with each of t
 
 Each Commissioner, except the Commissioner for Education Statistics, shall carry out such Commissioner's duties under this subchapter under the supervision and subject to the approval of the Director.
 
-(Pub. L. 107–279, title I, §117, Nov. 5, 2002, 116 Stat. 1952.)
+(Pub. L. 107–279, title I, §117, Nov. 5, 2002, 116 Stat. 1952; Pub. L. 112–166, §2(d)(2), Aug. 10, 2012, 126 Stat. 1284.)
 
 #### References in Text
 
 Level IV of the Executive Schedule, referred to in subsecs. (a)(2)(A) and (b)(2), is set out in section 5315 of Title 5, Government Organization and Employees.
+
+#### Amendments
+
+<b>2012</b>—Subsec. (b). Pub. L. 112–166 struck out “, by and with the advice and consent of the Senate,” after “President” in introductory provisions.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under section 113 of Title 6, Domestic Security.
 

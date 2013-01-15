@@ -6,5 +6,5 @@ The Boeuf Floodway, authorized by the provisions adopted in section 702a of this
 
 #### Abandonment and Repeal of Projects
 
-For abandonment of Boeuf Floodway and Eudora Floodway as well as Northward Extension and back protection levee extending from head of Eudora Floodway north to Arkansas River and repeal of provisions relating to prosecution of work, see section 702a–12 of this title.
+For abandonment of Boeuf Floodway and Eudora Floodway as well as Northward Extension and backprotection levee extending from head of Eudora Floodway north to Arkansas River and repeal of provisions relating to prosecution of work, see section 702a–12 of this title.
 

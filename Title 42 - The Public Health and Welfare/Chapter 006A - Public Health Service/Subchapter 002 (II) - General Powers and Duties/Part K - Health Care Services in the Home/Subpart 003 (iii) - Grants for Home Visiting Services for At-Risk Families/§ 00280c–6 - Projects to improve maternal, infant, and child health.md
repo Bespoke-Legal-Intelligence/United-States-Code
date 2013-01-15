@@ -62,7 +62,7 @@ In awarding grants under subsection (a) of this section, the Secretary shall tak
 
 #### (d) Federal share
 
-With respect to the costs of carrying out a project under subsection (a) of this section, a grant under such subsection for the project may not exceed 90 percent of such costs. To be eligible to receive such a grant, an applicant must provide assurances that the applicant will obtain at least 10 percent of such costs from non-Federal funds (and such contributions to such costs may be in cash or in-kind, including facilities and personnel).
+With respect to the costs of carrying out a project under subsection (a) of this section, agrant under such subsection for the project may not exceed 90 percent of such costs. To be eligible to receive such a grant, an applicant must provide assurances that the applicant will obtain at least 10 percent of such costs from non-Federal funds (and such contributions to such costs may be in cash or in-kind, including facilities and personnel).
 
 #### (e) Rule of construction regarding at-risk births
 
@@ -148,7 +148,7 @@ The Secretary may award a grant under subsection (a) of this section only if the
 
 Not more than 10 percent of a grant under subsection (a) of this section may be expended for administrative expenses with respect to the grant. The costs of training individuals to serve in the project involved are not subject to the preceding sentence.
 
-#### (<i>l</i>) Restrictions on use of grant
+#### (l) Restrictions on use of grant
 
 To be eligible to receive a grant under this section, an entity must agree that the grant will not be expended—
 
@@ -196,7 +196,7 @@ The Secretary may make a grant under subsection (a) of this section only if—
 
 &emsp;(4) the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out this section.
 
-#### (<i>o</i>) Peer review
+#### (o) Peer review
 
 #### (1) Requirement
 
@@ -256,7 +256,7 @@ For purposes of this section:
 
 For the purpose of carrying out this section, there is authorized to be appropriated $30,000,000 for each of the fiscal years 1993 and 1994.
 
-(July 1, 1944, ch. 373, title III, §399, as added Pub. L. 102–321, title V, §502(2), July 10, 1992, 106 Stat. 427; amended Pub. L. 103–448, title II, §204(w)(2)(D), Nov. 2, 1994, 108 Stat. 4746; Pub. L.108–446, title III, §305(i)(2), Dec. 3, 2004, 118 Stat. 2806.)
+(July 1, 1944, ch. 373, title III, §399, as added Pub. L. 102–321, title V, §502(2), July 10, 1992, 106 Stat. 427; amended Pub. L. 103–448, title II, §204(w)(2)(D), Nov. 2, 1994, 108 Stat. 4746; Pub. L. 108–446, title III, §305(i)(2), Dec. 3, 2004, 118 Stat. 2806.)
 
 #### References in Text
 
@@ -290,7 +290,7 @@ Reference to community health center, migrant health center, public housing heal
 
 #### Purpose
 
-Section 501 of title V of Pub. L. 102–321 provided that: “The purpose of this title \[enacting this section\] is—
+Pub. L. 102–321, title V, §501, July 10, 1992, 106 Stat. 426, provided that: “The purpose of this title \[enacting this section\] is—
 
 &emsp;“(1) to increase the use of, and to provide information on the availability of early, continuous and comprehensive prenatal care;
 

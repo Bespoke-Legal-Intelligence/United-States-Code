@@ -24,7 +24,7 @@ When used in subchapter II of this chapter:
 
 #### (A) In general
 
-&emsp;&emsp;The term “surviving spouse” means the surviving wife or husband of a participant orretired participant who (i) was married to the participant or retired participant for at least 9 months immediately preceding the participant's or retired participant's death, or (ii) who is the parent of a child born of the marriage.
+&emsp;&emsp;The term “surviving spouse” means the surviving wife or husband of a participant or retired participant who (i) was married to the participant or retired participant for at least 9 months immediately preceding the participant's or retired participant's death, or (ii) who is the parent of a child born of the marriage.
 
 #### (B) Treatment when participant dies less than 9 months after marriage
 
@@ -44,7 +44,7 @@ When used in subchapter II of this chapter:
 
 #### (B) Divorces after December 4, 1991
 
-&emsp;&emsp;In the case of a divorce that becomes final after December 4, 1991, such term means a former wife or husband of a participant, former participant, or retired participant who was married to such participant for not less than 10 years during periods of the participant's creditable service, at least 5 years of which were spent by the participant during the participant's service as an employee of the Agency (i) outside the United States, or (ii) otherwise in a position the duties of which qualified the participant for designation by the Director as a participant under section 2013 of this title.
+&emsp;&emsp;In the case of a divorce that becomes final after December 4, 1991, such term means aformer wife or husband of a participant, former participant, or retired participant who was married to such participant for not less than 10 years during periods of the participant's creditable service, at least 5 years of which were spent by the participant during the participant's service as an employee of the Agency (i) outside the United States, or (ii) otherwise in a position the duties of which qualified the participant for designation by the Director as a participant under section 2013 of this title.
 
 #### (C) Creditable service
 
@@ -108,7 +108,7 @@ For purposes of sections 2031 and 2052 of this title:
 
 #### (A) Extension of age termination of status as “child”
 
-&emsp;&emsp;For purposes of this subsection, a child whose 22nd birthday occurs before July 1 orafter August 31 of a calendar year, and while regularly pursuing such a course of study or training, shall be treated as having attained the age of 22 on the first day of July following that birthday.
+&emsp;&emsp;For purposes of this subsection, a child whose 22nd birthday occurs before July 1 or after August 31 of a calendar year, and while regularly pursuing such a course of study or training, shall be treated as having attained the age of 22 on the first day of July following that birthday.
 
 #### (B) Treatment of interim period between school years
 
@@ -126,5 +126,5 @@ For purposes of sections 2031 and 2052 of this title:
 
 #### Prior Provisions
 
-A prior section 111 of Pub. L. 88–643, title I, Oct. 13, 1964, 78 Stat. 1043; Pub. L. 94–522, title I, §101, Oct. 17, 1976, 90 Stat. 2467, provided definitions for Pub. L. 88–643 and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
+A prior section 111 of Pub. L. 88–643, title I, Oct. 13, 1964, 78 Stat. 1043; Pub. L. 94–522, title I, §101, Oct. 17, 1976, 90 Stat. 2467, provided definitions for Pub. L. 88–643 and was set out as a note under section 403 of this titleprior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
 

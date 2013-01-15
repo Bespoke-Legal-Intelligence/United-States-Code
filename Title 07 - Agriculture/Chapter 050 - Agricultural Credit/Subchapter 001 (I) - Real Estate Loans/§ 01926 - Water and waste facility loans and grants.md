@@ -22,7 +22,7 @@ Amount.—The amount of any grant made under the authority of this subparagraph 
 
 &emsp;&emsp;(iii)
 
-Grant rate.—The Secretary shall fix the grant rate for each project in conformity with regulations issued by the Secretarythat shall provide for a graduated scale of grant rates establishing higher rates for projects in communities that have lower community population and income levels.
+Grant rate.—The Secretary shall fix the grant rate for each project in conformity with regulations issued by the Secretary that shall provide for a graduated scale of grant rates establishing higher rates for projects in communities that have lower community population and income levels.
 
 &emsp;(B)
 
@@ -170,7 +170,7 @@ In general.—The Secretary may make grants to private nonprofit organizations f
 
 &emsp;&emsp;(i) identify, and evaluate alternative solutions to, problems relating to the obtaining, storage, treatment, purification, or distribution of water or the collection, treatment, or disposal of waste in rural areas;
 
-&emsp;&emsp;(ii) prepare applications to receive financial assistance for any purpose specified inparagraph (2) of this subsection from any public or private source; and
+&emsp;&emsp;(ii) prepare applications to receive financial assistance for any purpose specified in paragraph (2) of this subsection from any public or private source; and
 
 &emsp;&emsp;(iii) improve the operation and maintenance practices at any existing works for the storage, treatment, purification, or distribution of water or the collection, treatment, or disposal of waste in rural areas.
 
@@ -254,7 +254,7 @@ Authorization of appropriations.—There are authorized to be appropriated to ca
 
 &emsp;(E)
 
-Rural broadband.—Notwithstanding subparagraph (C), the Secretary may make grants to State agencies for use by regulatorycommissions in states <sup>2</sup> with rural communities without local broadband service to establish a competitively, technologically neutral grant program to telecommunications carriers or cable operators that establish common carrier facilities and services which, in the commission's determination, will result in the long-term availability to such communities of affordable broadband services which are used for the provision of high speed Internet access.
+Rural broadband.—Notwithstanding subparagraph (C), the Secretary may make grants to State agencies for use by regulatory commissions in states <sup>2</sup> with rural communities without local broadband service to establish a competitively, technologically neutral grant program to telecommunications carriers or cable operators that establish common carrier facilities and services which, in the commission's determination, will result in the long-term availability to such communities of affordable broadband services which are used for the provision of high speed Internet access.
 
 (21)
 
@@ -356,7 +356,7 @@ Tribal college and university essential community facilities.—
 
 &emsp;(A)
 
-In general.—The Secretary may make grants to an entity that is a Tribal College or University (as defined in section 1059c of title20) to provide the Federal share of the cost of developing specific Tribal College or University essential community facilities in rural areas.
+In general.—The Secretary may make grants to an entity that is a Tribal College or University (as defined in section 1059c of title 20) to provide the Federal share of the cost of developing specific Tribal College or University essential community facilities in rural areas.
 
 &emsp;(B)
 
@@ -382,7 +382,7 @@ Any amounts appropriated under this section shall remain available until expende
 
 Section 766 of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 1999, referred to in subsec. (a)(1), is Pub. L. 105–277, div. A, §101(a)\[title VII, §766\], Oct. 21, 1998, 112 Stat. 2681, 2681–37, which is not classified to the Code.
 
-The Rural Electrification Act of 1936, referred to in subsec. (a)(1), is act May 20, 1936, ch. 432, 49 Stat. 1363, as amended, which is classified generally to chapter 31 (§901 et seq.) of this title. For complete classification of this Act to the Code, see section 901 of this title and Tables.
+The Rural Electrification Act of 1936, referred to in subsec. (a)(1), is act May 20, 1936, ch. 432, 49 Stat. 1363, as amended, which is classified generally to chapter 31\(§901 et seq.) of this title. For complete classification of this Act to the Code, see section 901 of this title and Tables.
 
 For definition of “this chapter”, referred to in subsec. (a)(2)(C)(iii), (12)(D), (18), see note set out under section 1921 of this title.
 
@@ -448,7 +448,7 @@ Subsec. (a)(21). Pub. L. 106–472, §305(a), added par. (21).
 
 Subsec. (a)(5). Pub. L. 104–127, §758, added par. (5).
 
-Subsec. (a)(7). Pub. L. 104–127, §741(a)(2), added par. (7) and struck out former par. (7) which read as follows: “As used in this chapter, the terms ‘rural’ and ‘rural area’ shall not include any area in any city or town which has a population in excess of ten thousand inhabitants, except that (A) for the purpose of loans for essential community facilities under subsection (a)(1) of this section, the terms ‘rural’ and ‘rural area’ may include any area in any city or town that has a population not in excess of twenty thousand inhabitants; and (B) for purposes of loans and grants for private business enterprises under sections 1924(b), 1932 and 1942(b), (c), and (d) of this title the terms ‘rural’ and ‘rural area’ may include all territory of a State that is not within the outer boundary of any city having a population of fifty thousand or more and its immediately adjacent urbanized and urbanizing areas with a population density of more than one hundred persons per square mile, as determined by the Secretary of Agriculture according to the latest decennial census of the United States: <i>Provided</i>, That special consideration for such loans and grants shall be given to areas other than cities having a population of more than twenty-five thousand.”
+Subsec. (a)(7). Pub. L. 104–127, §741(a)(2), added par. (7) and struck out former par. (7) which read as follows: “As used in this chapter, the terms ‘rural’ and ‘rural area’ shall not include any area in any city or town which has a population in excess of ten thousand inhabitants, except that (A) for the purpose of loans for essential community facilities under subsection (a)(1) of this section, the terms ‘rural’ and ‘rural area’ may include any area in any city or town that has a population not in excess of twenty thousand inhabitants; and (B) for purposes of loans and grants for private business enterprises under sections 1924(b), 1932 and 1942(b), (c), and (d) of this title the terms ‘rural’ and ‘rural area’ may include all territory of a State that is not within the outer boundary of any city having a population of fifty thousand or more and its immediately adjacent urbanized and urbanizing areas with a population density of more than one hundred persons per square mile, as determined by the Secretary of Agriculture according to the latest decennial census of theUnited States: <i>Provided</i>, That special consideration for such loans and grants shall be given to areas other than cities having a population of more than twenty-five thousand.”
 
 Subsec. (a)(9), (10). Pub. L. 104–127, §741(a)(3), added pars. (9) and (10) and struck out former pars. (9) and (10) which read as follows:
 
@@ -466,7 +466,7 @@ Pub. L. 104–127, §741(a)(4), (5), redesignated par. (16) as (14) and struck o
 
 “(B) For the purposes of this subsection, the term ‘eligible volunteer fire department’ means any established volunteer fire department in a rural town, village, or unincorporated area where the population is less than two thousand but greater than two hundred, as reasonably determined by the Secretary.”
 
-Subsec. (a)(14)(C). Pub. L. 104–127, §741(a)(6)(D)(ii), which directed substitution of “3 percent of any fundsappropriated” for “2 per centum of any funds provided in appropriations Acts”, was executed by making the substitution for “2 per centum of any funds provided in Appropriations Acts”, to reflect the probable intent of Congress.
+Subsec. (a)(14)(C). Pub. L. 104–127, §741(a)(6)(D)(ii), which directed substitution of “3 percent of any funds appropriated” for “2 per centum of any funds provided in appropriations Acts”, was executed by making the substitution for “2 per centum of any funds provided in Appropriations Acts”, to reflect the probable intent of Congress.
 
 Subsec. (a)(15). Pub. L. 104–127, §741(a)(4), (5), redesignated par. (17) as (15) and struck out former par. (15) which authorized making or insuring of loans to associations, including corporations not operated for profit, Indian tribes on Federal and State reservations and other federally recognized Indian tribes, and public and quasi-public agencies, for purpose of financing construction, acquisition, and operation of transmission facilities for any electric system owned and operated by a public body located in a rural area which was, as of October 1, 1976, receiving bulk power from designated agencies of Department of the Interior.
 
@@ -566,11 +566,11 @@ Amendment by Pub. L. 96–355 effective Oct. 1, 1980, see section 10 of Pub. L. 
 
 #### Effective Date of 1978 Amendment
 
-Section 105 of Pub. L. 95–334 provided that the amendment made by that section is effective Oct. 1, 1978.
+Pub. L. 95–334, title I, §105, Aug. 4, 1978, 92 Stat. 421, provided that the amendment made by that section is effective Oct. 1, 1978.
 
 #### Effective Date of 1970 Amendments
 
-Section 1(b) of Pub. L. 91–617 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to the insured loans sold out of the Agricultural Credit Insurance Fund after the date of the enactment of this Act \[Dec. 31, 1970\].”
+Pub. L. 91–617, §1(b), Dec. 31, 1970, 84 Stat. 1855, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to the insured loans sold out of the Agricultural Credit Insurance Fund after the date of the enactment of this Act \[Dec. 31, 1970\].”
 
 Amendment by Pub. L. 91–606 effective Dec. 31, 1970, see section 304 of Pub. L. 91–606, set out as a note under section 165 of Title 26, Internal Revenue Code.
 
@@ -596,7 +596,7 @@ Pub. L. 106–387, §1(a) \[title VII, §736\], Oct. 28, 2000, 114 Stat. 1549, 1
 
 &emsp;&emsp;“(B) charge a loan origination and servicing fee in an amount not to exceed 1 percent of the amount of the loan; and
 
-&emsp;“(4) in the case of assistance provided under the Rural Community Development Initiative for fiscal year 2001 carried out under the rural community advancement program established under subtitle E ofthe Consolidated Farm and Rural Development Act (7 U.S.C. 2009 et seq.), the median household income level, and the not employed rate, with respect to applicants for assistance under the Initiative shall be scored on a community-by-community basis.”
+&emsp;“(4) in the case of assistance provided under the Rural Community Development Initiative for fiscal year 2001 carried out under the rural community advancement program established under subtitle E of the Consolidated Farm and Rural Development Act (7 U.S.C. 2009 et seq.), the median household income level, and the not employed rate, with respect to applicants for assistance under the Initiative shall be scored on a community-by-community basis.”
 
 #### Temporary Expanded Eligibility of Certain Timber-Dependent Communities in Pacific Northwest for Loans and Grants From Rural Development Administration
 
@@ -626,7 +626,7 @@ Effect on State Allotments of Funds.—This section shall not be taken into cons
 
 #### Rural Wastewater Treatment Circuit Rider Program
 
-Section 2324 of Pub. L. 101–624 directed Secretary to establish national rural wastewater circuit rider grant program that was to be modeled after existing National Rural Water Association Rural Water Circuit Rider Program that received funding from Farmers Home Administration and authorized $4,000,000 for each fiscal year to carry out such program, prior to repeal by Pub. L. 104–127, title VII, §703, Apr. 4, 1996, 110 Stat. 1108.
+Pub. L. 101–624, title XXIII, §2324, Nov. 28, 1990, 104 Stat. 4013, directed Secretary to establish national rural wastewater circuit rider grant program that was to be modeled after existing National Rural Water Association Rural Water Circuit Rider Program that received funding from Farmers Home Administration and authorized $4,000,000 for each fiscal year to carry out such program, prior to repeal by Pub. L. 104–127, title VII, §703, Apr. 4, 1996, 110 Stat. 1108.
 
 #### Interest Rate Restructuring for Certain Borrowers
 

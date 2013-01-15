@@ -10,5 +10,5 @@ The Congress finds that—
 
 #### Short Title
 
-Section 1 of Pub. L. 100–298 provided that: “This Act \[enacting this chapter\] may be cited as the ‘Abandoned Shipwreck Act of 1987’.”
+Pub. L. 100–298, §1, Apr. 28, 1988, 102 Stat. 432, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Abandoned Shipwreck Act of 1987’.”
 

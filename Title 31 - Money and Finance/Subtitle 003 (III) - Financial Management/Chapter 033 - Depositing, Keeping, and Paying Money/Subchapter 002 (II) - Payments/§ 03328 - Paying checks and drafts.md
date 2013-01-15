@@ -130,9 +130,9 @@ Subsec. (f). Pub. L. 100–86, §1002(2), added subsec. (f).
 
 #### Effective Date of 1987 Amendment
 
-Section 1006 of Pub. L. 100–86 provided that: “The amendments made by sections 1002, 1003, and 1004 \[enacting section 3334 of this title and amending this section and sections 3702 and 3712 of this title\] shall become effective 6 months after the date of enactment of this Act \[Aug. 10, 1987\] or on such later date as the Secretary of the Treasury may prescribe in regulations.”
+Pub. L. 100–86, title X, §1006, Aug. 10, 1987, 101 Stat. 659, provided that: “The amendments made by sections 1002, 1003, and 1004 \[enacting section 3334 of this title and amending this section and sections 3702 and 3712 of this title\] shall become effective 6 months after the date of enactment of this Act \[Aug. 10, 1987\] or on such later date as the Secretary of the Treasury may prescribe in regulations.”
 
 #### Regulations
 
-Section 1005 of Pub. L. 100–86 provided that: “The Secretary of the Treasury may prescribe such rules, regulations, and procedures as the Secretary deems necessary to implement the amendments made by sections 1002, 1003, and 1004 \[enacting section 3334 of this title and amending this section and sections 3702 and 3712 of this title\], including the recertification of Treasury checks which have been canceled or for which a claim has been asserted or barred.”
+Pub. L. 100–86, title X, §1005, Aug. 10, 1987, 101 Stat. 659, provided that: “The Secretary of the Treasury may prescribe such rules, regulations, and procedures as the Secretary deems necessary to implement the amendments made by sections 1002, 1003, and 1004 \[enacting section 3334 of this title and amending this section and sections 3702 and 3712 of this title\], including the recertification of Treasury checks which have been canceled or for which a claim has been asserted or barred.”
 

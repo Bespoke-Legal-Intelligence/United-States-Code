@@ -20,7 +20,7 @@ Section was formerly classified to section 812 of this title, and prior thereto 
 
 #### Effective Date of 1931 Amendment
 
-Section 7 of act Feb. 23, 1931, provided: “That this Act \[see Tables for classification\] shall take effect on July 1, 1931.”
+Act May 24, 1924, ch. 182, §37, as added act Feb. 23, 1931, ch. 276, §7, 46 Stat. 1217, provided: “That this Act \[see Tables for classification\] shall take effect on July 1, 1931.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

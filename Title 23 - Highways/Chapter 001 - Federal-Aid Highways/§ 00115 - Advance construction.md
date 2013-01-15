@@ -14,13 +14,13 @@ In General.—The Secretary may authorize a State to proceed with a project auth
 
 (b)
 
-Obligation of Federal Share.—The Secretary, on the request of a State and execution of a project agreement, may obligate all or aportion of the Federal share of a project authorized to proceed under this section from any category of funds for which the project is eligible.
+Obligation of Federal Share.—The Secretary, on the request of a State and execution of a project agreement, may obligate all or a portion of the Federal share of a project authorized to proceed under this section from any category of funds for which the project is eligible.
 
 (c)
 
 Inclusion in Transportation Improvement Program.—The Secretary may approve an application for a project under this section only if the project is included in the transportation improvement program of the State developed under section 135(f).
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 896; Pub. L. 90–495, §25(a), (b), Aug. 23, 1968, 82 Stat. 828, 829; Pub. L. 93–643, §111, Jan. 4, 1975, 88 Stat. 2285; Pub. L. 96–106, §4, Nov. 9, 1979, 93 Stat. 797; Pub. L. 97–424, title I, §113, Jan. 6, 1983, 96 Stat. 2106; Pub. L. 100–17, title I, §113(a)–(d)(1), Apr. 2, 1987, 101 Stat. 149, 150; Pub. L. 102–302, §103, June 22, 1992, 106 Stat. 252; Pub. L. 104–59, title III, §308, Nov. 28, 1995, 109 Stat. 582; Pub. L. 105–178, title I, §§1103(<i>l</i>)(3)(A), 1106(c)(1)(A), 1226(a), title V, §5119(d), June 9, 1998, 112 Stat. 126, 136, 452; Pub. L. 105–206, title IX, §9003(a), July 22, 1998, 112 Stat. 837; Pub. L. 109–59, title I, §1501(a), Aug. 10, 2005, 119 Stat. 1235; Pub. L. 110–244, title I, §101(j), June 6, 2008, 122 Stat. 1574.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 896; Pub. L. 90–495, §25(a), (b), Aug. 23, 1968, 82 Stat. 828, 829; Pub. L. 93–643, §111, Jan. 4, 1975, 88 Stat. 2285; Pub. L. 96–106, §4, Nov. 9, 1979, 93 Stat. 797; Pub. L. 97–424, title I, §113, Jan. 6, 1983, 96 Stat. 2106; Pub. L. 100–17, title I, §113(a)–(d)(1), Apr. 2, 1987, 101 Stat. 149, 150; Pub. L. 102–302, §103, June 22, 1992, 106 Stat. 252; Pub. L. 104–59, title III, §308, Nov. 28, 1995, 109 Stat. 582; Pub. L. 105–178, title I, §§1103(l)(3)(A), 1106(c)(1)(A), 1226(a), title V, §5119(d), June 9, 1998, 112 Stat. 126, 136, 452; Pub. L. 105–206, title IX, §9003(a), July 22, 1998, 112 Stat. 837; Pub. L. 109–59, title I, §1501(a), Aug. 10, 2005, 119 Stat. 1235; Pub. L. 110–244, title I, §101(j), June 6, 2008, 122 Stat. 1574.)
 
 #### Amendments
 
@@ -36,7 +36,7 @@ Subsec. (a)(1)(A)(i). Pub. L. 105–178, §§1106(c)(1)(A)(ii), 5119(d), struck 
 
 Subsec. (b). Pub. L. 105–178, §1226(a)(1), as added by Pub. L. 105–206, §9003(a), struck out designation and heading of par. (1), redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, realigned margins, and struck out former pars. (2) and (3), which related to bond interest for projects under construction on Jan. 1, 1983, and directed that Federal share of cost of construction would include amount of bond interest but not in excess of estimated costs over actual costs.
 
-Subsec. (b)(1). Pub. L. 105–178, §1103(<i>l</i>)(3)(A), substituted “104(b)(4)” for “104(b)(5)”.
+Subsec. (b)(1). Pub. L. 105–178, §1103(l)(3)(A), substituted “104(b)(4)” for “104(b)(5)”.
 
 Subsecs. (c), (d). Pub. L. 105–178, §1226(a)(2), (3), as added by Pub. L. 105–206, §9003(a), redesignated subsec. (d) as (c) and struck out heading and text of former subsec. (c). Text read as follows: “In determining the apportionment for any fiscal year under the provisions of section 103(e)(4), 104, 134, 144,, or 307 of this title, any such project constructed by a State without the aid of Federal funds shall not be considered completed until an application under the provisions of this section with respect to such project has been approved by the Secretary.”
 
@@ -70,7 +70,7 @@ Subsec. (c). Pub. L. 102–302, §103(5), struck out “152” after “144,”.
 
 Subsec. (d). Pub. L. 102–302, §103(6), added subsec. (d) and struck out former subsec. (d) which read as follows: “
 
-Limitation on Advanced Funding for Fiscal Years 1987–1990.—The Secretary may not approve an application of a State under this section with respect to a project with funds apportioned, or currently authorized to be apportioned, under section 103(e)(4)(H), 104, 130, 144, 152, or 307 if the amount of approved applications with respect to such projects exceeds the total of unobligated funds apportioned or allocated to the State under such section, plus such State's expected apportionment under such section from existing authorizations plus an amount equal to such State's expected apportionment under such section (other than section 104(b)(5)(A)) for one additional fiscal year. This subsection shall only be effective during the period beginning January 1, 1987, and ending September 30, 1990.”
+Limitation on Advanced Funding for Fiscal Years 1987–1990.—The Secretary may not approve an application of a State under this section with respect to a project with funds apportioned, or currently authorized to be apportioned, under section 103(e)(4)(H), 104, 130, 144, 152, or 307 if the amount of approved applications with respect to such projects exceeds the total of unobligated funds apportioned or allocated to the Stateunder such section, plus such State's expected apportionment under such section from existing authorizations plus an amount equal to such State's expected apportionment under such section (other than section 104(b)(5)(A)) for one additional fiscal year. This subsection shall only be effective during the period beginning January 1, 1987, and ending September 30, 1990.”
 
 <b>1987</b>—Pub. L. 100–17, §113(d)(1)(A), substituted “Advance construction” for “Construction by States in advance of apportionment” in section catchline.
 

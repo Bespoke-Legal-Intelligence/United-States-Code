@@ -18,5 +18,5 @@ Amendment by Pub. L. 100–659 effective Nov. 15, 1988, and applicable to bankru
 
 #### Effective Date of 1986 Amendment
 
-Section 203 of title II of Pub. L. 99–651 provided that: “This title and the amendments made by this title \[enacting section 375 of this title and amending this section and sections 374, 631, 633, 636, and 797 of this title\] take effect on January 1, 1987.”
+Pub. L. 99–651, title II, §203, Nov. 14, 1986, 100 Stat. 3649, provided that: “This title and the amendments made by this title \[enacting section 375 of this title and amending this section and sections 374, 631, 633, 636, and 797 of this title\] take effect on January 1, 1987.”
 

@@ -20,11 +20,11 @@ The Secretary shall, to the extent permitted by, and consistent with, the requir
 
 #### (c) Breach of service contract
 
-If an individual breaches the contract entered into under section 254<i>l</i> or 254<i>l</i>–1 of this title byfailing (for any reason) to begin his service obligation in accordance with an agreement entered into under subsection (a) of this section or to complete such service obligation, the Secretary may permit such individual to perform such service obligation as a member of the Corps.
+If an individual breaches the contract entered into under section 254l or 254l–1 of this title by failing (for any reason) to begin his service obligation in accordance with an agreement entered into under subsection (a) of this section or to complete such service obligation, the Secretary may permit such individual to perform such service obligation as a member of the Corps.
 
 #### (d) Travel expenses
 
-The Secretary may pay an individual who has entered into an agreement with the Secretary under subsection (a) of this section an amount to cover all or part of the individual's expenses reasonably incurred in transporting himself, his family, and his possessions to the location of his private clinical practice.
+The Secretary may pay an individual who has entered into an agreement with the Secretaryunder subsection (a) of this section an amount to cover all or part of the individual's expenses reasonably incurred in transporting himself, his family, and his possessions to the location of his private clinical practice.
 
 #### (e) Sale of equipment and supplies
 
@@ -60,7 +60,7 @@ Section was formerly classified to section 294v of this title prior to its renum
 
 #### Prior Provisions
 
-A prior section 338D of act July 1, 1944, was renumbered section 338E by section 201(2) of Pub. L. 100–177 and is classified to section 254<i>o</i> of this title.
+A prior section 338D of act July 1, 1944, was renumbered section 338E by section 201(2) of Pub. L. 100–177 and is classified to section 254o of this title.
 
 #### Amendments
 
@@ -72,7 +72,7 @@ A prior section 338D of act July 1, 1944, was renumbered section 338E by section
 
 Subsec. (b). Pub. L. 100–177, §307(4), inserted at end “The Secretary shall take such action as may be appropriate to ensure that the conditions of the written agreement prescribed by this subsection are adhered to.”
 
-Subsec. (c). Pub. L. 100–177, §307(5), inserted reference to section 254<i>l</i>–1.
+Subsec. (c). Pub. L. 100–177, §307(5), inserted reference to section 254l–1.
 
 Subsec. (e). Pub. L. 100–177, §307(b), designated par. (2) as entire subsection and struck out par. (1) which read as follows: “The Secretary may make such arrangements as he determines are necessary for the individual for the use of equipment and supplies and for the lease or acquisition of other equipment and supplies.”
 
@@ -86,11 +86,11 @@ Subsecs. (c) to (g). Pub. L. 97–35, §2709(d)(3), added subsecs. (c) to (g).
 
 #### Effective Date
 
-Section effective Oct. 1, 1977, see section 408(b)(1) of Pub. L. 94–484, set out in part as a note under section 254<i>l</i> of this title.
+Section effective Oct. 1, 1977, see section 408(b)(1) of Pub. L. 94–484, set out in part as a note under section 254l of this title.
 
 #### Effective Date; Savings Provision; Credit for Period of Internship or Residency Before September 30, 1977, Towards Service Obligation
 
-See section 408(b)(2) of Pub. L. 94–484, set out as a note under section 254<i>l</i> of this title.
+See section 408(b)(2) of Pub. L. 94–484, set out as a note under section 254l of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

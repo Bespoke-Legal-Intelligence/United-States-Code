@@ -6,5 +6,5 @@ The Inter-American Convention on International Commercial Arbitration of January
 
 #### Effective Date
 
-Section 3 of Pub. L. 101–369 provided that: “This Act \[enacting this chapter\] shall take effect upon the entry into force of the Inter-American Convention on International Commercial Arbitration of January 30, 1975, with respect to the United States.” The Convention was entered into force for the United States on Oct. 27, 1990.
+Pub. L. 101–369, §3, Aug. 15, 1990, 104 Stat. 450, provided that: “This Act \[enacting this chapter\] shall take effect upon the entry into force of the Inter-American Convention on International Commercial Arbitration of January 30, 1975, with respect to the United States.” The Convention entered into force for the United States on Oct. 27, 1990.
 

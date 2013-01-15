@@ -28,7 +28,7 @@ Every person engaged in business as—
 
 #### (c) Penalty for failure to register
 
-Any person engaged in a business referred to in subsection (a) who willfully fails to pay thetax imposed by subsection (a) shall be fined not more than $5,000, or imprisoned not more than 2 years, or both, for each such offense.
+Any person engaged in a business referred to in subsection (a) who willfully fails to pay the tax imposed by subsection (a) shall be fined not more than $5,000, or imprisoned not more than 2 years, or both, for each such offense.
 
 (Added Pub. L. 100–203, title X, §10512(f)(1), Dec. 22, 1987, 101 Stat. 1330–449; amended Pub. L. 109–59, title XI, §11125(b)(20)(E), Aug. 10, 2005, 119 Stat. 1957.)
 
@@ -38,7 +38,7 @@ A prior section 5731, acts Aug. 16, 1954, ch. 736, 68A Stat. 714; Sept. 2, 1958,
 
 #### Amendments
 
-<b>2005</b>—Subsecs. (c), (d). Pub. L. 109–59 redesignated subsec. (d) as (c) and struck out former subsec. (c). Text read as follows: “Rules similar to the rules of subpart G of part II of subchapter A of chapter 51 shall apply for purposes of this section.”
+<b>2005</b>—Subsecs. (c), (d). Pub. L. 109–59 redesignated subsec. (d) as (c) and struck out former subsec. (c). Textread as follows: “Rules similar to the rules of subpart G of part II of subchapter A of chapter 51 shall apply for purposes of this section.”
 
 #### Effective Date of 2005 Amendment
 

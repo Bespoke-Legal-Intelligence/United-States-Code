@@ -34,7 +34,7 @@ The Secretary of Homeland Security or the Attorney General, in the Secretary's o
 
 The provisions of paragraphs (4), (5), and (7)(A) of section 1182(a) of this title shall not be applicable to any alien seeking adjustment of status under this section, and the Secretary of Homeland Security or the Attorney General may waive any other provision of such section (other than paragraph (2)(C) or subparagraph (A), (B), (C), or (E) of paragraph (3)) with respect to such an alien for humanitarian purposes, to assure family unity, or when it is otherwise in the public interest.
 
-(June 27, 1952, ch. 477, title II, ch. 1, §209, as added Pub. L. 96–212, title II, §201(b), Mar. 17, 1980, 94 Stat. 105; amended Pub. L. 101–649, title I, §104(a)(1), title VI, §603(a)(4), Nov. 29, 1990, 104 Stat. 4985, 5082; Pub. L. 102–232, title III, §307(<i>l</i>)(1), Dec. 12, 1991, 105 Stat. 1756; Pub. L. 104–208, div. C, title III, §§308(g)(3)(A), (4)(A), 371(b)(2), Sept. 30, 1996, 110 Stat. 3009–622, 3009–645; Pub. L. 109–13, div. B, title I, §101(g)(1), May 11, 2005, 119 Stat. 305.)
+(June 27, 1952, ch. 477, title II, ch. 1, §209, as added Pub. L. 96–212, title II, §201(b), Mar. 17, 1980, 94 Stat. 105; amended Pub. L. 101–649, title I, §104(a)(1), title VI, §603(a)(4), Nov. 29, 1990, 104 Stat. 4985, 5082; Pub. L. 102–232, title III, §307(l)(1), Dec. 12, 1991, 105 Stat. 1756; Pub. L. 104–208, div. C, title III, §§308(g)(3)(A), (4)(A), 371(b)(2), Sept. 30, 1996, 110 Stat. 3009–622, 3009–645; Pub. L. 109–13, div. B, title I, §101(g)(1), May 11, 2005, 119 Stat. 305.)
 
 #### References in Text
 
@@ -70,17 +70,17 @@ Amendment by section 371(b)(2) of Pub. L. 104–208 effective Sept. 30, 1996, se
 
 #### Effective Date of 1991 Amendment
 
-Section 307(<i>l</i>) of Pub. L. 102–232 provided that the amendment made by that section is effective as if included in section 603(a) of the Immigration Act of 1990, Pub. L. 101–649.
+Pub. L. 102–232, title III, §307(l), Dec. 12, 1991, 105 Stat. 1756, provided that the amendment made by section 307(l) is effective as if included in section 603(a) of the Immigration Act of 1990, Pub. L. 101–649.
 
 #### Effective Date of 1990 Amendment
 
-Section 104(a)(2) of Pub. L. 101–649 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to fiscal years beginning with fiscal year 1991 and the President is authorized, without the need for appropriate consultation, to increase the refugee determination previously made under section 207 of the Immigration and Nationality Act \[8 U.S.C. 1157\] for fiscal year 1991 in order to make such amendment effective for such fiscal year.”
+Pub. L. 101–649, title I, §104(a)(2), Nov. 29, 1990, 104 Stat. 4985, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to fiscal years beginning with fiscal year 1991 and the President is authorized, without the need for appropriate consultation, to increase the refugee determination previously made under section 207 of the Immigration and Nationality Act \[8 U.S.C. 1157\] for fiscal year 1991 in order to make such amendment effective for such fiscal year.”
 
 Amendment by section 603(a)(4) of Pub. L. 101–649 applicable to individuals entering United States on or after June 1, 1991, see section 601(e)(1) of Pub. L. 101–649, set out as a note under section 1101 of this title.
 
 #### Effective Date
 
-Section effective, except as otherwise provided, Mar. 17, 1980, and applicable to fiscal years beginning withthe fiscal year beginning Oct. 1, 1979, see section 204 of Pub. L. 96–212, set out as an Effective Date of 1980 Amendment note under section 1101 of this title.
+Section effective, except as otherwise provided, Mar. 17, 1980, and applicable to fiscal years beginning with the fiscal year beginning Oct. 1, 1979, see section 204 of Pub. L. 96–212, set out as an Effective Date of 1980 Amendment note under section 1101 of this title.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
@@ -88,7 +88,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 #### Waiver of Numerical Limitation for Certain Current Asylees; Adjustment of Certain Former Asylees
 
-Section 104(c), (d) of Pub. L. 101–649, as amended by Pub. L. 104–208, div. C, title VI, §604(b)(2), Sept. 30, 1996, 110 Stat. 3009–694, provided that:
+Pub. L. 101–649, title I, §104(c), (d), Nov. 29, 1990, 104 Stat. 4985, as amended by Pub. L. 104–208, div. C, title VI, §604(b)(2), Sept. 30, 1996, 110 Stat. 3009–694, provided that:
 
 “(c)
 

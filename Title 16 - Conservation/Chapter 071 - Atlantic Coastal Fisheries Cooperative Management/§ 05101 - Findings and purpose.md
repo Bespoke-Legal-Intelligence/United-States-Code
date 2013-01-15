@@ -36,5 +36,5 @@ Pub. L. 106–555, title I, §121, Dec. 21, 2000, 114 Stat. 2766, provided that:
 
 #### Short Title
 
-Section 801 of title VIII of Pub. L. 103–206 provided that: “This title \[enacting this chapter and amending section 4107 of this title and provisions set out as a note under section 1851 of this title\] may be cited as the ‘Atlantic Coastal Fisheries Cooperative Management Act’.”
+Pub. L. 103–206, title VIII, §801, Dec. 20, 1993, 107 Stat. 2447, provided that: “This title \[enacting this chapter and amending section 4107 of this title and provisions set out as a note under section 1851 of this title\] may be cited as the ‘Atlantic Coastal Fisheries Cooperative Management Act’.”
 

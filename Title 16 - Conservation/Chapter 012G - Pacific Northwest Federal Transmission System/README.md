@@ -14,7 +14,7 @@
 | [838i.](%C2%A7%2000838i%20-%20Bonneville%20Power%20Administration%20fund.md) | Bonneville Power Administration fund. |
 | [838j.](%C2%A7%2000838j%20-%20Investment%20of%20excess%20moneys%3B%20deposit%20of%20moneys.md) | Investment of excess moneys; deposit of moneys. |
 | [838k.](%C2%A7%2000838k%20-%20Bonneville%20Power%20Administration%20bonds.md) | Bonneville Power Administration bonds. |
-| 838<i>l</i>. | Bonneville Power Administration refinancing. |
+| [838l.](%C2%A7%2000838l%20-%20Bonneville%20Power%20Administration%20refinancing.md) | Bonneville Power Administration refinancing. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

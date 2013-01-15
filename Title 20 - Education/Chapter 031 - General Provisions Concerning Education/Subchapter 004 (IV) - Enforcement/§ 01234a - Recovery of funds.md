@@ -68,7 +68,7 @@ The amount of a preliminary departmental decision under subsection (a) of this s
 
 No recipient under an applicable program shall be liable to return funds which were expended in a manner not authorized by law more than 5 years before the recipient received written notice of a preliminary departmental decision.
 
-#### (<i>l</i>) Foregoing of interest during period of administrative review
+#### (l) Foregoing of interest during period of administrative review
 
 No interest shall be charged arising from a claim during the administrative review of the preliminary departmental decision.
 

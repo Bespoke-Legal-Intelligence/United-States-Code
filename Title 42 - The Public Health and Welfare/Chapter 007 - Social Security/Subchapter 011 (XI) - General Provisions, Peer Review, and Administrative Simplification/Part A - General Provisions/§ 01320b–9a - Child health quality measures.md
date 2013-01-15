@@ -48,7 +48,7 @@
 
 &emsp;&emsp;(B) the status of voluntary reporting by States under subchapters XIX and XXI, utilizing the initial core quality measurement set; and
 
-&emsp;&emsp;(C) any recommendations for legislative changes needed to improve the quality of care provided to children under subchaptersXIX and XXI, including recommendations for quality reporting by States.
+&emsp;&emsp;(C) any recommendations for legislative changes needed to improve the quality of care provided to children under subchapters XIX and XXI, including recommendations for quality reporting by States.
 
 #### (7) Technical assistance
 
@@ -238,7 +238,7 @@
 
 &emsp;&emsp;&emsp;(iii) planning and implementing a healthy lifestyle curriculum or program with an emphasis on healthy eating behaviors and physical activity; and
 
-&emsp;&emsp;&emsp;(iv) planning and implementing healthy lifestyle classes or programs for parents or guardians, with an emphasis on healthy eating behaviors and physical activity for children;
+&emsp;&emsp;&emsp;(iv) planning and implementing healthy lifestyle classes or programs for parents or guardians, with an emphasis on healthyeating behaviors and physical activity for children;
 
 &emsp;&emsp;(C) carry out educational, counseling, promotional, and training activities through the local health care delivery systems including by—
 
@@ -314,7 +314,7 @@
 
 #### (A) Federally-qualified health center
 
-&emsp;&emsp;The term “Federally-qualified health center” has the meaning given that term in section 1396d(<i>l</i>)(2)(B) of this title.
+&emsp;&emsp;The term “Federally-qualified health center” has the meaning given that term in section 1396d(l)(2)(B) of this title.
 
 #### (B) Indian tribe
 
@@ -400,7 +400,7 @@ Notwithstanding any other provision in this section, no evidence based quality m
 
 Out of any funds in the Treasury not otherwise appropriated, there is appropriated for each of fiscal years 2009 through 2013, $45,000,000 for the purpose of carrying out this section (other than subsection (e)). Funds appropriated under this subsection shall remain available until expended.
 
-(Aug. 14, 1935, ch. 531, title XI, §1139A, as added and amended Pub. L. 111–3, title IV, §401(a), title V, §501(g), Feb. 4, 2009, 123 Stat. 72, 88; Pub. L. 111–148, title IV, §4306, Mar. 23, 2010, 124 Stat. 587.)
+(Aug. 14, 1935, ch. 531, title XI, §1139A, as added and amended Pub. L. 111–3, title IV, §401(a), titleV, §501(g), Feb. 4, 2009, 123 Stat. 72, 88; Pub. L. 111–148, title IV, §4306, Mar. 23, 2010, 124 Stat. 587.)
 
 #### Amendments
 

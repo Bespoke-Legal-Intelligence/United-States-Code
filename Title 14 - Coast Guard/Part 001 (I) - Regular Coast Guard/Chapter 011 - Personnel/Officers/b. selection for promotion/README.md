@@ -18,3 +18,4 @@ b. selection for promotion
 - [&sect; 00260 - Selection boards; reports](%C2%A7%2000260%20-%20Selection%20boards%3B%20reports.md)
 - [&sect; 00261 - Selection boards; submission of reports](%C2%A7%2000261%20-%20Selection%20boards%3B%20submission%20of%20reports.md)
 - [&sect; 00262 - Failure of selection for promotion](%C2%A7%2000262%20-%20Failure%20of%20selection%20for%20promotion.md)
+- [&sect; 00263 - Special selection boards; correction of errors](%C2%A7%2000263%20-%20Special%20selection%20boards%3B%20correction%20of%20errors.md)

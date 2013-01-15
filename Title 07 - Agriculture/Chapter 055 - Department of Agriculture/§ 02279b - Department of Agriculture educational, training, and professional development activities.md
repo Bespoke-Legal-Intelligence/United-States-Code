@@ -130,7 +130,7 @@ In order to carry out the activities of the Graduate School, the Graduate School
 
 #### (i) Contract authority
 
-The Graduate School may enter into contracts without regard to the chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41 or any other law that prescribes procedures for the procurement of property or services by an executive agency.
+The Graduate School may enter into contracts without regard to chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41 or any other law that prescribes procedures for the procurement of property or services by an executive agency.
 
 #### (j) Use of Department facilities and resources
 
@@ -162,11 +162,11 @@ Subsec. (b). Pub. L. 110–246, §14213(a)(2), added subsec. (b) and struck out 
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–171, title X, §10705(c), May 13, 2002, 116 Stat. 519, provided that: “The amendments made by this section \[amending this section and repealing section 5922 of this title\] take effect on October 1, 2002.”
+Pub. L. 107–171, title X, §10705(c), May 13, 2002, 116 Stat. 519, provided that: “The amendments made bythis section \[amending this section and repealing section 5922 of this title\] take effect on October 1, 2002.”
 
 #### Procurement Procedures
 

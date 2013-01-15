@@ -24,11 +24,11 @@ Amendment by section 4001(b) of Pub. L. 110–246 effective Oct. 1, 2008, see se
 
 #### Effective Date of 1977 Amendment
 
-Section 1301 of Pub. L. 95–113 provided that the amendment made by that section is effective Oct. 1, 1977.
+Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 958, provided that the amendment made by section 1301 is effective Oct. 1, 1977.
 
 #### Short Title of 2002 Amendment
 
-Pub. L. 107–171, title IV, §4001, May 13, 2002, 116 Stat. 305, provided that: “This title \[enacting section 3007 of this title and section 1161 of Title 2, The Congress, amending sections 1431e, 2012, 2014 to 2017, 2019, 2020, 2022, 2023, 2025 to 2028, 2031, 2034, 2036, and 7508 of this title, sections 1612, 1613, and 1631 of Title 8, Aliens and Nationality, and sections 1755, 1758, 1760, 1769, and 1786 of Title 42, The Public Health and Welfare, repealing section 2033 of this title, enacting provisions set out as notes under sections 612c, 2014 to 2016, 2019, 2020, 2022, 2023, 2025, 2026, 2028, 2034, 2036, and 3171 of this title, section 1161 of Title 2, section 1612 of Title 8, and sections 1755, 1758, 1769, and 1786 of Title 42, and amending provisions set out as a note under section 612c of this title\] may be cited as the ‘Food Stamp Reauthorization Act of 2002’.”
+Pub. L. 107–171, title IV, §4001, May 13, 2002, 116 Stat. 305, provided that: “This title \[enacting section 3007 ofthis title and section 1161 of Title 2, The Congress, amending sections 1431e, 2012, 2014 to 2017, 2019, 2020, 2022, 2023, 2025 to 2028, 2031, 2034, 2036, and 7508 of this title, sections 1612, 1613, and 1631 of Title 8, Aliens and Nationality, and sections 1755, 1758, 1760, 1769, and 1786 of Title 42, The Public Health and Welfare, repealing section 2033 of this title, enacting provisions set out as notes under sections 612c, 2014 to 2016, 2019, 2020, 2022, 2023, 2025, 2026, 2028, 2034, 2036, and 3171 of this title, section 1161 of Title 2, section 1612 of Title 8, and sections 1755, 1758, 1769, and 1786 of Title 42, and amending provisions set out as a note under section 612c of this title\] may be cited as the ‘Food Stamp Reauthorization Act of 2002’.”
 
 #### Short Title of 2000 Amendment
 
@@ -54,7 +54,7 @@ Pub. L. 100–232, §1, Jan. 5, 1988, 101 Stat. 1566, provided that: “This Act
 
 #### Short Title of 1986 Amendment
 
-Pub. L. 99–570, title XI, §11001, Oct. 27, 1986, 100 Stat. 3207–167, provided that: “This title \[amending sections 2012, 2018 and 2019 of this title, sections 1531 and 1603 of Title 29, Labor, sections 3003 and 3020 \[now 5103 and 5120\] of Title 38, Veterans’ Benefits, and sections 1383and 1396a of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under section 2012 of this title, sections 5103 and 5120 of Title 38, and sections 602, 1383 and 1396a of Title 42\] may be cited as the ‘Homeless Eligibility Clarification Act’.”
+Pub. L. 99–570, title XI, §11001, Oct. 27, 1986, 100 Stat. 3207–167, provided that: “This title \[amending sections 2012, 2018 and 2019 of this title, sections 1531 and 1603 of Title 29, Labor, sections 3003 and 3020 \[now 5103 and 5120\] of Title 38, Veterans’ Benefits, and sections 1383 and 1396a of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under section 2012 of this title, sections 5103 and 5120 of Title 38, and sections 602, 1383 and 1396a of Title 42\] may be cited as the ‘Homeless Eligibility Clarification Act’.”
 
 #### Short Title of 1982 Amendment
 
@@ -96,7 +96,7 @@ Administration.—In conducting the study, the Secretary shall—
 
 &emsp;&emsp;“(C) the feasibility and cost-benefit ratio of each available option for a national database;
 
-&emsp;“(2) survey the States to determine how the States are enforcing the prohibition on recipients receiving assistance in more than one State under Federal means-tested public assistance programs;
+&emsp;“(2) survey the States to determine how the States are enforcing the prohibition on recipients receivingassistance in more than one State under Federal means-tested public assistance programs;
 
 &emsp;“(3) determine the functional requirements of each available option for a national database; and
 
@@ -134,7 +134,7 @@ Purpose.—It shall be the purpose of the Committee, in consultation, where appr
 
 &emsp;“(2) to examine the major reasons for such different programs and policies;
 
-&emsp;“(3) to evaluate how and the extent to which such different programs and policies hinder, to a significant degree, the receipt of benefits from more thanone program and substantially restrict administrators’ ability to provide efficient, timely, and appropriate benefits;
+&emsp;“(3) to evaluate how and the extent to which such different programs and policies hinder, to a significant degree, the receipt of benefits from more than one program and substantially restrict administrators’ ability to provide efficient, timely, and appropriate benefits;
 
 &emsp;“(4) to recommend common or simplified programs and policies (including recommendations for changes in law, regulations, and administrative practice and for policies that do not currently exist in such programs) that would substantially reduce difficulties in applying for and obtaining benefits from more than one program and significantly increase the ability of administrators of such programs to efficiently provide timely and appropriate assistance to those eligible for more than one type of assistance; and
 
@@ -160,7 +160,7 @@ Pub. L. 99–198, title XV, §1583, Dec. 23, 1985, 99 Stat. 1595, provided that:
 
 Pub. L. 95–113, title XIII, §1303, Sept. 29, 1997, 91 Stat. 979, as amended by Pub. L. 97–375, title I, §103(a), Dec. 21, 1982, 96 Stat. 1819, provided that:
 
-“(a) The Secretary of Agriculture shall implement the Food Stamp Act of 1977 \[now the Food and Nutrition Act of 2008, this chapter\] as expeditiously as possible consistent with the efficient and effective administration of the food stamp program. The provisions of the Food Stamp Act of 1964, as amended \[this chapter prior to amendment by Pub. L. 95–113\], which are relevant to current regulations of the Secretary governing the food stamp program, shall remain in effect until such regulations are revoked, superseded, amended, or modified by regulations issued pursuant to the Food Stamp Act of 1977. Coupons issued pursuant to the Food Stamp Act of 1964, as amended, and in general use as of the effective date of the Food Stamp Act of 1977 \[Oct. 1, 1977\], shall continue to be usable to purchase food, and all other liabilities of the Secretary, States, and applicant or participating households, under the Food Stamp Act of 1964, as amended, shall continue in force until finally resolved or terminated by administrative or judicial action, or otherwise.
+“(a) The Secretary of Agriculture shall implement the Food Stamp Act of 1977 \[now the Food and Nutrition Act of 2008, this chapter\] as expeditiously as possible consistent with the efficient and effective administration of the food stamp program. The provisions of the Food Stamp Act of 1964, as amended \[this chapter prior to amendment by Pub. L. 95–113\], which are relevant to current regulations of the Secretary governing the food stamp program, shall remain in effect until such regulations are revoked, superseded, amended, or modified by regulations issued pursuant to the Food Stamp Act of 1977. Coupons issued pursuant to the Food Stamp Act of 1964, as amended, and in general use as of the effective date of the Food Stamp Act of 1977 \[Oct.1, 1977\], shall continue to be usable to purchase food, and all other liabilities of the Secretary, States, and applicant or participating households, under the Food Stamp Act of 1964, as amended, shall continue in force until finally resolved or terminated by administrative or judicial action, or otherwise.
 
 “(b) Pending proceedings under the Food Stamp Act of 1964, as amended, shall not be abated by reason of any provision of the Food Stamp Act of 1977, but shall be disposed of pursuant to the applicable provisions of the Food Stamp Act of 1964, as amended, in effect prior to the effective date of the Food Stamp Act of 1977 \[Oct. 1, 1977\].
 

@@ -29,6 +29,7 @@
 | [7831\.](Subchapter%20002%20%28II%29%20-%20Assisting%20North%20Koreans%20in%20Need/%C2%A7%2007831%20-%20Report%20on%20United%20States%20humanitarian%20assistance.md) | Report on United States humanitarian assistance. |
 | [7832\.](Subchapter%20002%20%28II%29%20-%20Assisting%20North%20Koreans%20in%20Need/%C2%A7%2007832%20-%20Assistance%20provided%20inside%20North%20Korea.md) | Assistance provided inside North Korea. |
 | [7833\.](Subchapter%20002%20%28II%29%20-%20Assisting%20North%20Koreans%20in%20Need/%C2%A7%2007833%20-%20Assistance%20provided%20outside%20of%20North%20Korea.md) | Assistance provided outside of North Korea. |
+| [7834\.](Subchapter%20002%20%28II%29%20-%20Assisting%20North%20Koreans%20in%20Need/%C2%A7%2007834%20-%20Briefings%20on%20the%20welfare%20of%20North%20Korean%20children.md) | Briefings on the welfare of North Korean children. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

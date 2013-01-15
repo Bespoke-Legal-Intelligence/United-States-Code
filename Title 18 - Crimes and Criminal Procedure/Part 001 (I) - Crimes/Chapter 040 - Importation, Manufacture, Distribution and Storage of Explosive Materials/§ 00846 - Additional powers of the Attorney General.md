@@ -24,7 +24,7 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 #### Authorization of Appropriations
 
-Section 101(f) \[title VI, §654(b)\] of div. A of Pub. L. 104–208 provided that: “There is authorized to be appropriated such sums as may be necessary to carry out the provisions of this subsection \[probably means “this section” which amended this section\].”
+Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §654(b)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–369, provided that: “There is authorized to be appropriated such sums as may be necessary to carry out the provisions of this subsection \[probably means “this section” which amended this section\].”
 
 #### Certification of Explosives Detection Canines
 

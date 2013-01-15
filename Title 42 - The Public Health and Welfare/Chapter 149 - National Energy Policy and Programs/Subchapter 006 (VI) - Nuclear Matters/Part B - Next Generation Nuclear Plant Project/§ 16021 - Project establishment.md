@@ -22,7 +22,7 @@ The Project shall consist of the research, development, design, construction, an
 
 #### References in Text
 
-Section 16272(d) of this title, referred to in subsec. (b)(1), was in the original a reference to section 942(d)of Pub. L. 109–58, which is classified to section 16251(d) of this title but was translated as meaning section 952(d) of Pub. L. 109–58 to reflect the probable intent of Congress, because section 952(d) relates to Generation IV Nuclear Energy Systems Initiative and section 942(d) relates to limitations on production incentives for cellulosic biofuels.
+Section 16272(d) of this title, referred to in subsec. (b)(1), was in the original a reference to section 942(d) of Pub. L. 109–58, which is classified to section 16251(d) of this title but was translated as meaning section 952(d) of Pub. L. 109–58 to reflect the probable intent of Congress, because section 952(d) relates to Generation IV Nuclear Energy Systems Initiative and section 942(d) relates to limitations on production incentives for cellulosic biofuels.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

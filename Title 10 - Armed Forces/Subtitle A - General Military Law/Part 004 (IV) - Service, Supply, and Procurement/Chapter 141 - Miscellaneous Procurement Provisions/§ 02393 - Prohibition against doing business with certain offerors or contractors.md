@@ -8,7 +8,7 @@
 
 (2) Paragraph (1) does not apply in any case in which the Secretary concerned determines that there is a compelling reason to solicit an offer from, award a contract to, extend a contract with, or approve a subcontract with such offeror or contractor.
 
-(b) Whenever the Secretary concerned makes a determination described in subsection (a)(2), heshall, at the time of the determination, transmit a notice to the Administrator of General Services describing the determination. The Administrator of General Services shall maintain each such notice in a file available for public inspection.
+(b) Whenever the Secretary concerned makes a determination described in subsection (a)(2), he shall, at the time of the determination, transmit a notice to the Administrator of General Services describing the determination. The Administrator of General Services shall maintain each such notice in a file available for public inspection.
 
 (c) In this section:
 
@@ -24,7 +24,7 @@
 
 <b>2011</b>—Subsec. (d). Pub. L. 111–350 substituted “section 134 of title 41)” for “section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11)))” and “section 103 of title 41)” for “section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12)))”.
 
-<b>1994</b>—Subsec. (d). Pub. L. 103–355 substituted “greater than the simplified acquisition threshold (as defined in section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11))).” for “above the small purchase amount established in section 2304(g) of this title.” in second sentence and inserted at end “The requirement shall not apply in the case of a subcontract for the acquisition of commercial items (as defined in section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12))).”
+<b>1994</b>—Subsec. (d). Pub. L. 103–355 substituted “greater than the simplified acquisition threshold (as defined in section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11))).” for “above the small purchase amount established in section 2304(g) of this title.” in second sentence and inserted at end “The requirement shall not apply in the case of a subcontract for the acquisition of commercial items (as defined insection 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12))).”
 
 <b>1991</b>—Subsec. (d). Pub. L. 102–190 substituted “Federal Government” for “Federal government”.
 

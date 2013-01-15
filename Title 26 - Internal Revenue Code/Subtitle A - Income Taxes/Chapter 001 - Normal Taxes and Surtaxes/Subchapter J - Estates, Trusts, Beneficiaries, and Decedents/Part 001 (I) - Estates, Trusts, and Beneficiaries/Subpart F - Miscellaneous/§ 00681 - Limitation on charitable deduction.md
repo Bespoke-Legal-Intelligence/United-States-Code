@@ -30,5 +30,5 @@ Amendment by section 121(d)(2)(B) of Pub. L. 91–172 applicable to taxable year
 
 #### Effective Date of 1968 Amendment
 
-Section 6(c) of Pub. L. 90–630 provided that: “The amendments made by subsection (a) \[amending section 504 of this title\] and (b) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1953, and ending after August 16, 1954. For purposes of sections 3814 and 162(g)(4) of the InternalRevenue Code of 1939, provisions having the same effect as such amendments shall be treated as included in such sections effective with respect to taxable years beginning after December 31, 1950.”
+Pub. L. 90–630, §6(c), Oct. 22, 1968, 82 Stat. 1330, provided that: “The amendments made by subsection (a) \[amending section 504 of this title\] and (b) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1953, and ending after August 16, 1954. For purposes of sections 3814 and 162(g)(4) of the Internal Revenue Code of 1939, provisions having the same effect as such amendments shall be treated as included in such sections effective with respect to taxable years beginning after December 31, 1950.”
 

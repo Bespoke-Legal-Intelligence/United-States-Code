@@ -38,7 +38,7 @@ Subsec. (c). Pub. L. 101–649, §121(b)(3), added subsec. (c).
 
 #### Effective Date of 1996 Amendment
 
-Section 105(b) of div. C of Pub. L. 104–208 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to illegal entries or attempts to enter occurring on or after the first day of the sixth month beginning after the date of the enactment of this Act \[Sept. 30, 1996\].”
+Pub. L. 104–208, div. C, title I, §105(b), Sept. 30, 1996, 110 Stat. 3009–556, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to illegal entries or attempts to enter occurring on or after the first day of the sixth month beginning after the date of the enactment of this Act \[Sept. 30, 1996\].”
 
 #### Effective Date of 1991 Amendment
 

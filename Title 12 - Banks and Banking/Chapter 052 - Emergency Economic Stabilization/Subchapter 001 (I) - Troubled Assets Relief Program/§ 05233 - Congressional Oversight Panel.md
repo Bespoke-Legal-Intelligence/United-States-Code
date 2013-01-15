@@ -64,7 +64,7 @@ The Oversight Panel shall review the current state of the financial markets and 
 
 #### (4) Travel expenses
 
-&emsp;Each member shall receive travel expenses, including per diem in lieu of subsistence, inaccordance with applicable provisions under subchapter I of chapter 57 of title 5.
+&emsp;Each member shall receive travel expenses, including per diem in lieu of subsistence, in accordance with applicable provisions under subchapter I of chapter 57 of title 5.
 
 #### (5) Quorum
 

@@ -15,7 +15,7 @@
 
 (b) Nothing in this section shall authorize the alienation, encumbrance, or taxation of any real or personal property, including water rights, belonging to any Indian or any Indian tribe, band, or community that is held in trust by the United States or is subject to a restriction against alienation imposed by the United States; or shall authorize regulation of the use of such property in a manner inconsistent with any Federal treaty, agreement, or statute or with any regulation made pursuant thereto; or shall confer jurisdiction upon the State to adjudicate, in probate proceedings or otherwise, the ownership or right to possession of such property or any interest therein.
 
-(c) Any tribal ordinance or custom heretofore or hereafter adopted by an Indian tribe, band, or community in the exercise of any authority which it may possess shall, if not inconsistent with any applicable civil law of the State, be given full force and effect in the determination of civil causes of action pursuant to this section.
+(c) Any tribal ordinance or custom heretofore or hereafter adopted by an Indian tribe, band, orcommunity in the exercise of any authority which it may possess shall, if not inconsistent with any applicable civil law of the State, be given full force and effect in the determination of civil causes of action pursuant to this section.
 
 (Added Aug. 15, 1953, ch. 505, §4, 67 Stat. 589; amended Aug. 24, 1954, ch. 910, §2, 68 Stat. 795; Pub. L. 85–615, §2, Aug. 8, 1958, 72 Stat. 545; Pub. L. 95–598, title II, §239, Nov. 6, 1978, 92 Stat. 2668; Pub. L. 98–353, title I, §110, July 10, 1984, 98 Stat. 342.)
 
@@ -39,7 +39,7 @@ Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of
 
 #### Amendment of State Constitutions To Remove Legal Impediment; Effective Date
 
-Section 6 of act Aug. 15, 1953, provided that: “Notwithstanding the provisions of any Enabling Act forthe admission of a State, the consent of the United States is hereby given to the people of any State to amend, where necessary, their State constitution or existing statutes, as the case may be, to remove any legal impediment to the assumption of civil and criminal jurisdiction in accordance with the provisions of this Act \[adding this section and section 1162 of Title 18, Crimes and Criminal Procedure\]: <i>Provided</i>, That the provisions of this Act shall not become effective with respect to such assumption of jurisdiction by any such State until the people thereof have appropriately amended their State constitution or statutes as the case may be.”
+Act Aug. 15, 1953, ch. 505, §6, 67 Stat. 590, provided that: “Notwithstanding the provisions of any Enabling Act for the admission of a State, the consent of the United States is hereby given to the people of any State to amend, where necessary, their State constitution or existing statutes, as the case may be, to remove any legal impediment to the assumption of civil and criminal jurisdiction in accordance with the provisions of this Act \[adding this section and section 1162 of Title 18, Crimes and Criminal Procedure\]: <i>Provided</i>, That the provisions of this Act shall not become effective with respect to such assumption of jurisdiction by any such State until the people thereof have appropriately amended their State constitution or statutes as the case may be.”
 
 #### Consent of United States to Other States To Assume Jurisdiction
 

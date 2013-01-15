@@ -30,7 +30,7 @@ The Secretary shall—
 
 > that may be used by processors, refiners, operators of grain elevators and terminals, and others to accurately detect the level of aflatoxin contamination of corn in the United States.
 
-(Aug. 11, 1916, ch. 313, pt. B, §22, as added Pub. L. 101–624, title XX, §2009, Nov. 28, 1990, 104 Stat. 3931; amended Pub. L. 103–156, §§11, 13(b)(2), Nov. 24, 1993, 107 Stat. 1528, 1529; Pub. L. 103–354, title II, §293(a)(7), (8), Oct. 13, 1994, 108 Stat. 3237.)
+(Aug. 11, 1916, ch. 313, pt. B, §22, as added Pub. L. 101–624, title XX, §2009, Nov. 28, 1990, 104 Stat.3931; amended Pub. L. 103–156, §§11, 13(b)(2), Nov. 24, 1993, 107 Stat. 1528, 1529; Pub. L. 103–354, title II, §293(a)(7), (8), Oct. 13, 1994, 108 Stat. 3237.)
 
 #### References in Text
 

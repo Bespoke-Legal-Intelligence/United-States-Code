@@ -18,7 +18,7 @@
 
 (3)(A) No funds available for the Initiatives for Proliferation Prevention program may be provided to an institute or scientist under the program if the Secretary of Energy determines that the institute or scientist has made a scientific or business contact in any way associated with or related to weapons of mass destruction with a representative of a country of proliferation concern.
 
-(B) For purposes of this paragraph, the term “country of proliferation concern” means any country so designated by the Director of Central Intelligence for purposes of the Initiatives for Proliferation Prevention program.
+(B) For purposes of this paragraph, the term “country of proliferation concern” means any country so designated by the Director of National Intelligence for purposes of the Initiatives for Proliferation Prevention program.
 
 (4)(A) The Secretary of Energy shall prescribe procedures for the review of projects under the Initiatives for Proliferation Prevention program. The purpose of the review shall be to ensure the following:
 
@@ -46,7 +46,7 @@
 
 (B) If the Secretary determines as a result of the study that the intended commercial benefits of a program are not likely to be achieved, the Secretary may not provide assistance for the conduct of that program.
 
-(4) Not later than January 1, 2000, the Secretary shall submit to Congress a report describing the participation in or contribution to theNuclear Cities Initiative of each department and agency of the United States Government that participates in or contributes to the initiative. The report shall describe separately any interagency participation in or contribution to the initiative.
+(4) Not later than January 1, 2000, the Secretary shall submit to Congress a report describing the participation in or contribution to the Nuclear Cities Initiative of each department and agency of the United States Government that participates in or contributes to the initiative. The report shall describe separately any interagency participation in or contribution to the initiative.
 
 #### (c) Report
 
@@ -68,7 +68,7 @@
 
 For purposes of this section, the term “Nuclear Cities Initiative” means the initiative arising pursuant to the March 1998 discussions between the Vice President of the United States and the Prime Minister of the Russian Federation and between the Secretary of Energy of the United States and the Minister of Atomic Energy of the Russian Federation.
 
-(Pub. L. 107–314, div. D, title XLIII, §4302, formerly Pub. L. 106–65, div. C, title XXXI, §3136, Oct. 5, 1999, 113 Stat. 927; renumbered Pub. L. 107–314, div. D, title XLIII, §4302, and amended Pub. L. 108–136, div. C, title XXXI, §3141(f)(3), Nov. 24, 2003, 117 Stat. 1762; Pub. L. 112–81, div. C, title XXXI, §3121(b), Dec. 31, 2011, 125 Stat. 1709.)
+(Pub. L. 107–314, div. D, title XLIII, §4302, formerly Pub. L. 106–65, div. C, title XXXI, §3136, Oct. 5, 1999, 113 Stat. 927; renumbered Pub. L. 107–314, div. D, title XLIII, §4302, and amended Pub. L. 108–136, div. C, title XXXI, §3141(f)(3), Nov. 24, 2003, 117 Stat. 1762; Pub. L. 112–81, div. C, title XXXI, §3121(b), Dec. 31, 2011, 125 Stat. 1709; Pub. L. 112–239, div. C, title XXXI, §3131(bb)(1)(D), Jan. 2, 2013, 126 Stat. 2185.)
 
 #### References in Text
 
@@ -78,9 +78,105 @@ This title, referred to in subsec. (b)(2), probably means title XXXI of Pub. L. 
 
 #### Amendments
 
+<b>2013</b>—Subsec. (a)(3)(B). Pub. L. 112–239 substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+
 <b>2011</b>—Subsec. (a)(6). Pub. L. 112–81 amended par. (6) generally. Prior to amendment, par. (6) prohibited use of funds appropriated for the Initiatives for Proliferation Prevention program to be used to pay Russian Federation taxes or customs duties and, in the event funds were used to pay such taxes or duties, required the Secretary of Energy to provide explanation to the congressional defense committees and to provide additional funds to the program to offset the payment.
 
 <b>2003</b>—Subsec. (b)(1). Pub. L. 108–136, §3141(f)(3)(D), substituted “title XXXI of the National Defense Authorization Act for Fiscal Year 2000 (Public Law 106–65)” for “this title”.
+
+#### Program on Scientific Engagement for Nonproliferation
+
+Pub. L. 112–239, div. C, title XXXI, §3122, Jan. 2, 2013, 126 Stat. 2176, provided that:
+
+“(a)
+
+Program Required.—
+
+&emsp;“(1)
+
+Scientific engagement.—The Secretary of Energy, acting through the Administrator for Nuclear Security, shall carry out a program on scientific engagement in countries selected by the Secretary for purposes of the program to advance global nonproliferation and nuclear security efforts.
+
+&emsp;“(2)
+
+Elements.—The program under paragraph (1) shall include the following elements:
+
+&emsp;&emsp;“(A) Training and capacity-building to strengthen nonproliferation and security best practices.
+
+&emsp;&emsp;“(B) Engagement of scientists of the United States with foreign counterparts to advance nonproliferation goals.
+
+&emsp;“(3)
+
+Distinct program.—The program required by this subsection shall be a distinct program from the Global Initiatives for Proliferation Prevention program.
+
+“(b)
+
+Limitation.—
+
+&emsp;“(1)
+
+Report on commencement of program.—Of the funds authorized to be appropriated by this Act \[see Tables for classification\] or otherwise made available for fiscal year 2013 or any fiscal year thereafter for the National Nuclear Security Administration, not more than 50 percent may be obligated or expended under the program under subsection (a) until the date on which the Administrator submits to the appropriate congressional committees a report setting forth the following:
+
+&emsp;&emsp;“(A) For each country selected for the program as of the date of such report—
+
+&emsp;&emsp;&emsp;“(i) a proliferation threat assessment prepared by the Director of National Intelligence; and
+
+&emsp;&emsp;&emsp;“(ii) metrics for evaluating the effectiveness of the program.
+
+&emsp;&emsp;“(B) Accounting standards for the conduct of the program approved by the Comptroller General of the United States.
+
+&emsp;“(2)
+
+Form.—The report under paragraph (1) may be submitted in unclassified form and may include a classified annex.
+
+“(c)
+
+Reports on Modification of Program.—
+
+&emsp;“(1)
+
+In general.—Not later than 15 days before making any modification in the program under subsection (a) (including selecting a new country for the program, ceasing the selection of a country for the program, or modifying an element of the program), the Administrator shall submit to the appropriate congressional committees a report on the modification.
+
+&emsp;“(2)
+
+New country.—If the modification covered by a report under paragraph (1) consists of the selection for the program of a country not previously selected for the program, the report shall include, for each such country, the matters described in subsection (b)(1)(A).
+
+&emsp;“(3)
+
+Form.—The report under paragraph (1) may be submitted in unclassified form and may include a classified annex.
+
+“(d)
+
+Report on Coordination With Other U.S. Nonproliferation Programs.—Not later than 180 days after the date of the enactment of this Act \[Jan. 2, 2013\], the Administrator shall submit to the appropriate congressional committees a report describing the manner in which the program under subsection (a) coordinates with and complements, but does not duplicate, other nonproliferation programs of the Federal Government.
+
+“(e)
+
+Comptroller General Report.—
+
+&emsp;“(1)
+
+In general.—Not later than two years after the date of the enactment of this Act \[Jan. 2, 2013\], the Comptroller General of the United States shall submit to the appropriate congressional committees a report on the program under subsection (a).
+
+&emsp;“(2)
+
+Matters included.—The report under paragraph (1) shall include the following:
+
+&emsp;&emsp;“(A) An assessment by the Comptroller General of the effectiveness of the program, as determined in accordance with the metrics described in subsection (b)(1)(A)(ii).
+
+&emsp;&emsp;“(B) An assessment of how the program coordinates with, complements, or duplicates other nonproliferation programs of the Federal Government.
+
+&emsp;&emsp;“(C) Such other matters on the program as the Comptroller General considers appropriate.
+
+“(f)
+
+Termination.—The authority to carry out the program under subsection (a) shall expire on September 30, 2016.
+
+“(g)
+
+Appropriate Congressional Committees Defined.—In this section, the term ‘appropriate congressional committees’ means the following:
+
+&emsp;“(1) The congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\].
+
+&emsp;“(2) The Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.”
 
 <i><sup>1</sup></i><i> So in original. Initial letter probably should be lower case.</i>
 

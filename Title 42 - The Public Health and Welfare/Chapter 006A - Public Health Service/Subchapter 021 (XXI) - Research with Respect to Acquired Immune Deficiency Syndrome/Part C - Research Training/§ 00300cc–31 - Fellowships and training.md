@@ -10,7 +10,7 @@ The Secretary, acting through the Director of the National Institute of Mental H
 
 #### (c) Relationship to limitation on number of employees
 
-Any individual receiving a fellowship or receiving training under subsection (a) or (b) of this section shall not be included in any determination of the number of full-time equivalent employees of the Department of Health and Human Services for the purpose of any limitation on the number of such employees established by law prior to, on, or after November 4, 1988.
+Any individual receiving a fellowship or receiving training under subsection (a) or (b) ofthis section shall not be included in any determination of the number of full-time equivalent employees of the Department of Health and Human Services for the purpose of any limitation on the number of such employees established by law prior to, on, or after November 4, 1988.
 
 #### (d) Authorization of appropriations
 
@@ -28,5 +28,5 @@ For the purpose of carrying out this section, there are authorized to be appropr
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–690 effective immediately after enactment of Pub. L. 100–607, which was approvedNov. 4, 1988, see section 2600 of Pub. L. 100–690, set out as a note under section 242m of this title.
+Amendment by Pub. L. 100–690 effective immediately after enactment of Pub. L. 100–607, which was approved Nov. 4, 1988, see section 2600 of Pub. L. 100–690, set out as a note under section 242m of this title.
 

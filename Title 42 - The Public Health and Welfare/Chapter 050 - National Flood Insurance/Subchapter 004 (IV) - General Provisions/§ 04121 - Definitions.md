@@ -2,17 +2,17 @@
 
 (a) As used in this chapter—
 
-&emsp;(1) the term “flood” shall have such meaning as may be prescribed in regulations of the Director, and may include inundation from rising waters or from the overflow of streams, rivers, or other bodies of water, or from tidal surges, abnormally high tidal water, tidal waves, tsunamis, hurricanes, or other severe storms or deluge;
+&emsp;(1) the term “flood” shall have such meaning as may be prescribed in regulations of the Administrator, and may include inundation from rising waters or from the overflow of streams, rivers, or other bodies of water, or from tidal surges, abnormally high tidal water, tidal waves, tsunamis, hurricanes, or other severe storms or deluge;
 
-&emsp;(2) the terms “United States” (when used in a geographic sense) and “State” includes the several States, the District of Columbia, the territories and possessions, the Commonwealth of Puerto Rico, and the Trust Territory of the Pacific Islands;
+&emsp;(2) the terms “United States” (when used in a geographic sense) and “State” includes theseveral States, the District of Columbia, the territories and possessions, the Commonwealth of Puerto Rico, and the Trust Territory of the Pacific Islands;
 
-&emsp;(3) the terms “Insurance company”, “other insurer” and “insurance agent or broker” include any organizations and persons authorized to engage in the insurance business under the laws of any State;
+&emsp;(3) the terms “insurance company”, “other insurer” and “insurance agent or broker” include any organization or person that is authorized to engage in the business of insurance under the laws of any State, subject to the reporting requirements of the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\] pursuant to section 13(a) or 15(d) of such Act (15 U.S.C. 78m(a) and 78o(d)), or authorized by the Administrator to assume reinsurance on risks insured by the flood insurance program;
 
 &emsp;(4) the term “insurance adjustment organization” includes any organizations and persons engaged in the business of adjusting loss claims arising under insurance policies issued by any insurance company or other insurer;
 
 &emsp;(5) the term “person” includes any individual or group of individuals, corporation, partnership, association, or any other organized group of persons, including State and local governments and agencies thereof;
 
-&emsp;(6) the term “Director” means the Administrator of the Federal Emergency Management Agency;
+&emsp;(6) the term “Administrator” means the Administrator of the Federal Emergency Management Agency;
 
 &emsp;(7) the term “repetitive loss structure” means a structure covered by a contract for flood insurance that—
 
@@ -22,7 +22,7 @@
 
 &emsp;(8) the term “Federal agency lender” means a Federal agency that makes direct loans secured by improved real estate or a mobile home, to the extent such agency acts in such capacity;
 
-&emsp;(9) the term “Federal entity for lending regulation” means the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, the Comptroller of the Currency, the Office of Thrift Supervision, the National Credit Union Administration, and the Farm Credit Administration, and with respect to a particular regulated lending institution means the entity primarily responsible for the supervision of the institution;
+&emsp;(9) the term “Federal entity for lending regulation” means the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, the Comptroller of the Currency, the National Credit Union Administration, and the Farm Credit Administration, and with respect to a particular regulated lending institution means the entity primarily responsible for the supervision of the institution;
 
 &emsp;(10) the term “improved real estate” means real estate upon which a building is located;
 
@@ -38,19 +38,31 @@
 
 &emsp;(14) the term “servicer” means the person responsible for receiving any scheduled periodic payments from a borrower pursuant to the terms of a loan, including amounts for taxes, insurance premiums, and other charges with respect to the property securing the loan, and making the payments of principal and interest and such other payments with respect to the amounts received from the borrower as may be required pursuant to the terms of the loan; and
 
-&emsp;(15) the term “substantially damaged structure” means a structure covered by a contract for flood insurance that has incurred damage for which the cost of repair exceeds an amount specified in any regulation promulgated by the Director, or by a community ordinance, whichever is lower.
+&emsp;(15) the term “substantially damaged structure” means a structure covered by a contract for flood insurance that has incurred damage for which the cost of repair exceeds an amount specified in any regulation promulgated by the Administrator, or by a community ordinance, whichever is lower.
 
-(b) The term “flood” shall also include inundation from mudslides which are proximately caused by accumulations of water on or under the ground; and all of the provisions of this chapter shall apply with respect to such mud-slides in the same manner and to the same extent as with respect to floods described in subsection (a)(1) of this section, subject to and in accordance with such regulations, modifying the provisions of this chapter (including the provisions relating to land management and use) to the extent necessary to insure that they can be effectively so applied, as the Director may prescribe to achieve (with respect to such mudslides) the purposes of this chapter and the objectives of the program.
+(b) The term “flood” shall also include inundation from mudslides which are proximately caused by accumulations of water on or under the ground; and all of the provisions of this chapter shall apply with respect to such mud-slides in the same manner and to the same extent as with respect to floods described in subsection (a)(1) of this section, subject to and in accordance with such regulations, modifying the provisions of this chapter (including the provisions relating to land management and use) to the extent necessary to insure that they can be effectively so applied, as the Administrator may prescribe to achieve (with respect to such mudslides) the purposes of this chapter and the objectives of the program.
 
-(c) The term “flood” shall also include the collapse or subsidence of land along the shore of a lake or other body of water as a result of erosion or undermining caused by waves or currents of water exceeding anticipated cyclical levels, and all of the provisions of this chapter shall apply with respect to such collapse or subsidence in the same manner and to the same extent as with respect to floods described in subsection (a)(1) of this section, subject to and in accordance with such regulations, modifying the provisions of this chapter (including the provisions relating to land management and use) to the extent necessary to insure that they can be effectively so applied, as the Director may prescribe to achieve (with respect to such collapse or subsidence) the purposes of this chapter and the objectives of the program.
+(c) The term “flood” shall also include the collapse or subsidence of land along the shore of a lake or other body of water as a result of erosion or undermining caused by waves or currents of water exceeding anticipated cyclical levels, and all of the provisions of this chapter shall apply with respect to such collapse or subsidence in the same manner and to the same extent as with respect to floods described in subsection (a)(1) of this section, subject to and in accordance with such regulations, modifying the provisions of this chapter (including the provisions relating to land management and use) to the extent necessary to insure that they can be effectively so applied, as the Administrator may prescribe to achieve (with respect to such collapse or subsidence) the purposes of this chapter and the objectives of the program.
 
-(Pub. L. 90–448, title XIII, §1370, Aug. 1, 1968, 82 Stat. 588; Pub. L. 91–152, title IV, §409(b), Dec. 24, 1969, 83 Stat. 397; Pub. L. 93–234, title I, §§107, 108(b), Dec. 31, 1973, 87 Stat. 979, 980; Pub. L. 98–181, title IV, §451(d)(1), (8), Nov. 30, 1983, 97Stat. 1229; Pub. L. 100–628, title X, §1086(b), Nov. 7, 1988, 102 Stat. 3278; Pub. L. 103–325, title V, §512(a), Sept. 23, 1994, 108 Stat. 2256; Pub. L. 108–264, title I, §105(b), June 30, 2004, 118 Stat. 723; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410.)
+(Pub. L. 90–448, title XIII, §1370, Aug. 1, 1968, 82 Stat. 588; Pub. L. 91–152, title IV, §409(b), Dec. 24, 1969, 83 Stat. 397; Pub. L. 93–234, title I, §§107, 108(b), Dec. 31, 1973, 87 Stat. 979, 980; Pub. L. 98–181, title I \[title IV, §451(d)(1), (8)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 100–628, title X, §1086(b), Nov. 7, 1988, 102 Stat. 3278; Pub. L.103–325, title V, §512(a), Sept. 23, 1994, 108 Stat. 2256; Pub. L. 108–264, title I, §105(b), June 30, 2004, 118 Stat. 723; Pub. L. 112–141, div. F, title II, §§100232(d)(5), 100238(b)(1), (3), July 6, 2012, 126 Stat. 954, 958.)
 
 #### References in Text
 
 This chapter, referred to in text, was in the original a reference to “this title” meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
+The Securities Exchange Act of 1934, referred to in subsec. (a)(3), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
+
 #### Amendments
+
+<b>2012</b>—Subsec. (a)(1). Pub. L. 112–141, §100238(b)(1), substituted “Administrator” for “Director”.
+
+Subsec. (a)(3). Pub. L. 112–141, §100232(d)(5), substituted “include any organization or person that is authorized to engage in the business of insurance under the laws of any State, subject to the reporting requirements of the Securities Exchange Act of 1934 pursuant to section 13(a) or 15(d) of such Act (15 U.S.C. 78m(a) and 78o(d)), or authorized by the Administrator to assume reinsurance on risks insured by the flood insurance program;” for “include any organizations and persons authorized to engage in the insurance business under the laws of any State;”.
+
+Subsec. (a)(6). Pub. L. 112–141, §100238(b)(1), substituted “Administrator” for “Director” in two places.
+
+Subsec. (a)(9). Pub. L. 112–141, §100238(b)(3), struck out “the Office of Thrift Supervision,” after “the Comptroller of the Currency,”.
+
+Subsecs. (a)(15), (b), (c). Pub. L. 112–141, §100238(b)(1), substituted “Administrator” for “Director”.
 
 <b>2004</b>—Subsec. (a)(7). Pub. L. 108–264, §105(b)(1), added par. (7) and struck out former par. (7) which read as follows: “the term ‘repetitive loss structure’ means a structure covered by a contract for flood insurance under this chapter that has incurred flood-related damage on 2 occasions during a 10-year period ending on the date of the event for which a second claim is made, in which the cost of repair, on the average, equaled or exceeded 25 percent of the value of the structure at the time of each such flood event;”.
 
@@ -72,17 +84,11 @@ Subsec. (c). Pub. L. 93–234, §108(b), added subsec. (c).
 
 <b>1969</b>—Pub. L. 91–152 designated existing provisions as subsec. (a) and added subsec. (b).
 
-#### Change of Name
-
-“Administrator of the Federal Emergency Management Agency” substituted for “Director of the Federal Emergency Management Agency” in subsec. (a)(6) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
-
 #### Transfer of Functions
 
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-For transfer of functions of the Office of Thrift Supervision, including the functions of the Director of the Office of Thrift Supervision, to the Board of Governors of the Federal Reserve System, the Office of the Comptroller of the Currency and the Comptroller of the Currency, and the Federal Deposit Insurance Corporation, see sections 5412 and 5413 of Title 12, Banks and Banking.
 
 #### Termination of Trust Territory of the Pacific Islands
 

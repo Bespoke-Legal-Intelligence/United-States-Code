@@ -4,7 +4,7 @@ The Congress makes the following findings:
 
 &emsp;(1) Individuals enjoy a fundamental right to own and enjoy property which is enshrined in the United States Constitution.
 
-&emsp;(2) The wrongful confiscation or taking of property belonging to United States nationals by the Cuban Government, and the subsequent exploitation of this property at the expense of the rightful owner, undermines the comity of nations, the free flow of commerce, and economic development.
+&emsp;(2) The wrongful confiscation or taking of property belonging to United States nationalsby the Cuban Government, and the subsequent exploitation of this property at the expense of the rightful owner, undermines the comity of nations, the free flow of commerce, and economic development.
 
 &emsp;(3) Since Fidel Castro seized power in Cuba in 1959—
 

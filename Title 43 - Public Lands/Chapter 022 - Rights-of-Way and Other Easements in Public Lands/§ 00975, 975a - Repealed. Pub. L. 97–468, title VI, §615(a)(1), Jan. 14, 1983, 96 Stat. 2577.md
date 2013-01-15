@@ -14,5 +14,5 @@ Pub. L. 95–611, §6, Nov. 8, 1978, 92 Stat. 3090, authorized the Secretary of 
 
 #### Appropriations
 
-Section 2 of act Mar. 12, 1914, which provided that the cost of the work authorized by sections 975 to 975g should not exceed $35,000,000, and that in executing the authority granted by those sections the President should not expend nor obligate the United States to expend more than that sum, and also appropriated the sum of $1,000,000 to be used for carrying out the provisions of those sections, to continue available until expended, was repealed by section 615(a)(1) of Pub. L. 97–468.
+Act Mar. 12, 1914, ch. 37, §2, 38 Stat. 307, which provided that the cost of the work authorized by sections 975 to 975g should not exceed $35,000,000, and that in executing the authority granted by those sections the President should not expend nor obligate the United States to expend more than that sum, and also appropriated the sum of $1,000,000 to be used for carrying out the provisions of those sections, to continue available until expended, was repealed by section 615(a)(1) of Pub. L. 97–468.
 

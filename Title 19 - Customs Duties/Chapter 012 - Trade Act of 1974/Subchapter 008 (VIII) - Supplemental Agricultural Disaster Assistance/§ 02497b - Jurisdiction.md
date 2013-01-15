@@ -2,7 +2,7 @@
 
 Legislation in the Senate of the United States amending section 2497 or 2497a of this title shall be referred to the Committee on Finance of the Senate.
 
-(Pub. L. 93–618, title IX, §903, as added Pub. L. 110–234, title XV, §15101(a), May 22, 2008, 122 Stat. 1499, and Pub. L. 110–246, §4(a), title XV, §15101(a), June 18, 2008, 122 Stat. 1664, 2261.)
+(Pub. L. 93–618, title IX, §903, as added Pub. L. 110–234, title XV, §15101(a), May 22, 2008, 122 Stat.1499, and Pub. L. 110–246, §4(a), title XV, §15101(a), June 18, 2008, 122 Stat. 1664, 2261.)
 
 #### Codification
 

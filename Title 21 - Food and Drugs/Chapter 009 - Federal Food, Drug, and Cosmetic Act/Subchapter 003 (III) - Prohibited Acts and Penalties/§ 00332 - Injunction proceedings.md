@@ -24,7 +24,7 @@ Pub. L. 87–781, §201(c), struck out “(f),” after “paragraphs”.
 
 Amendment by section 103(c) of Pub. L. 87–781 effective on first day of seventh calendar month following October 1962, see section 107 of Pub. L. 87–781, set out as a note under section 321 of this title.
 
-Section 203 of title II of Pub. L. 87–781 provided that: “The amendments made by this title \[amending this section and section 374 of this title and enacting provisions set out as notes under sections 321 and 374 of this title\] shall take effect on the date of enactment of this Act \[Oct. 10, 1962\].”
+Pub. L. 87–781, title II, §203, Oct. 10, 1962, 76 Stat. 793, provided that: “The amendments made by this title \[amending this section and section 374 of this title and enacting provisions set out as notes under sections 321 and 374 of this title\] shall take effect on the date of enactment of this Act \[Oct. 10, 1962\].”
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

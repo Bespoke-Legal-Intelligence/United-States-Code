@@ -16,6 +16,10 @@ Scope of authority.—A determination described in paragraph (1) shall be made b
 
 Criteria.—The criteria under paragraph (2) shall include provisions for public availability of information consistent with section 552 of title 5 and the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
 
+&emsp;(4)
+
+Preservation of flexibility.—The Secretary shall not require a State, as a condition of assuming responsibility under this section, to forego project delivery methods that are otherwise permissible for highway projects.
+
 (b)
 
 Other Applicable Federal Laws.—
@@ -58,13 +62,25 @@ Monitoring.—The Secretary shall—
 
 (d)
 
-Termination.—The Secretary may terminate any assumption of responsibility under a memorandum of understanding on a determination that the State is not adequately carrying out the responsibilities assigned to the State.
+Termination.—
+
+&emsp;(1)
+
+Termination by the secretary.—The Secretary may terminate any assumption of responsibility under a memorandum of understanding on a determination that the State is not adequately carrying out the responsibilities assigned to the State.
+
+&emsp;(2)
+
+Termination by the state.—The State may terminate the participation of the State in the program at any time by providing to the Secretary a notice not later than the date that is 90 days before the date of termination, and subject to such terms and conditions as the Secretary may provide.
 
 (e)
 
 State Agency Deemed to Be Federal Agency.—A State agency that is assigned a responsibility under a memorandum of understanding shall be deemed to be a Federal agency for the purposes of the Federal law under which the responsibility is exercised.
 
-(Added Pub. L. 109–59, title VI, §6004(a), Aug. 10, 2005, 119 Stat. 1867.)
+(f)
+
+Legal Fees.—A State assuming the responsibilities of the Secretary under this section for a specific project may use funds apportioned to the State under section 104(b)(2) for attorney's fees directly attributable to eligible activities associated with the project.
+
+(Added Pub. L. 109–59, title VI, §6004(a), Aug. 10, 2005, 119 Stat. 1867; amended Pub. L. 112–141, div. A, title I, §1312, July 6, 2012, 126 Stat. 545.)
 
 #### References in Text
 
@@ -73,4 +89,16 @@ The National Environmental Policy Act of 1969, referred to in subsec. (a)(3), is
 #### Prior Provisions
 
 A prior section 326, added Pub. L. 102–240, title VI, §6004(a), Dec. 18, 1991, 105 Stat. 2169; amended Pub. L. 105–130, §5(e)(4), Dec. 1, 1997, 111 Stat. 2558, related to education and training program, prior to repeal by Pub. L. 105–178, title V, §5119(b), June 9, 1998, 112 Stat. 452.
+
+#### Amendments
+
+<b>2012</b>—Subsec. (a)(4). Pub. L. 112–141, §1312(1), added par. (4).
+
+Subsec. (d). Pub. L. 112–141, §1312(2), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “The Secretary may terminate any assumption of responsibility under a memorandum of understanding on a determination that the State is not adequately carrying out the responsibilities assigned to the State.”
+
+Subsec. (f). Pub. L. 112–141, §1312(3), added subsec. (f).
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
 

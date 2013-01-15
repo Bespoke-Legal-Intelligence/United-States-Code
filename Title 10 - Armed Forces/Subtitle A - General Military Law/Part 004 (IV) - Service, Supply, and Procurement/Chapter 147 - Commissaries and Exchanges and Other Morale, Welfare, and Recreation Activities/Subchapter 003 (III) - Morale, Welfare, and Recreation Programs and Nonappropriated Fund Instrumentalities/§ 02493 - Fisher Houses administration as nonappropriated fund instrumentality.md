@@ -8,7 +8,7 @@ Fisher Houses and Suites Defined.—In this section:
 
 &emsp;&emsp;(A) is located in proximity to a health care facility of the Army, the Air Force, or the Navy;
 
-&emsp;&emsp;(B) is available for residential use on a temporary basis by patients of that health care facility, members of the families of such patients, and others providing the equivalent of familial support for such patients; and
+&emsp;&emsp;(B) is available for residential use on a temporary basis by authorized Fisher House residents; and
 
 &emsp;&emsp;(C) is constructed and donated by—
 
@@ -16,7 +16,9 @@ Fisher Houses and Suites Defined.—In this section:
 
 &emsp;&emsp;&emsp;(ii) another source, if the Secretary of the military department concerned designates the housing facility as a Fisher House.
 
-&emsp;(2) The term “Fisher Suite” means one or more rooms that—
+&emsp;(2) The term “Fisher House” includes the Fisher House for the Families of the Fallen and Meditation Pavilion at Dover Air Force Base, Delaware, so long as such facility is available for residential use on a temporary basis by authorized Fisher House residents.
+
+&emsp;(3) The term “Fisher Suite” means one or more rooms that—
 
 &emsp;&emsp;(A) meet the requirements of subparagraphs (A) and (B) of paragraph (1);
 
@@ -24,9 +26,27 @@ Fisher Houses and Suites Defined.—In this section:
 
 &emsp;&emsp;(C) are designated by the Secretary of the military department concerned as a Fisher Suite.
 
+&emsp;(4) The term “authorized Fisher House residents” means the following:
+
+&emsp;&emsp;(A) With respect to a Fisher House described in paragraph (1) that is located in proximity to a health care facility of the Army, the Air Force, or the Navy, the following persons:
+
+&emsp;&emsp;&emsp;(i) Patients of that health care facility.
+
+&emsp;&emsp;&emsp;(ii) Members of the families of such patients.
+
+&emsp;&emsp;&emsp;(iii) Other persons providing the equivalent of familial support for such patients.
+
+&emsp;&emsp;(B) With respect to the Fisher House described in paragraph (2), the following persons:
+
+&emsp;&emsp;&emsp;(i) The primary next of kin of a member of the armed forces who dies while located or serving overseas.
+
+&emsp;&emsp;&emsp;(ii) Other family members of the deceased member who are eligible for transportation under section 481f(e) of title 37.
+
+&emsp;&emsp;&emsp;(iii) An escort of a family member described in clause (i) or (ii).
+
 (b)
 
-Nonappropriated Fund Instrumentality.—The Secretary of each military department shall administer all Fisher Houses and Fisher Suites associated with health care facilities of that military department as a nonappropriated fund instrumentality of the United States.
+Nonappropriated Fund Instrumentality.—The Secretary of each military department shall administer all Fisher Houses and Fisher Suites associated with facilities of that military department as a nonappropriated fund instrumentality of the United States.
 
 (c)
 
@@ -40,19 +60,25 @@ Central Fund.—The Secretary of each military department shall establish a sing
 
 Acceptance of Contributions; Imposition of Fees.—(1) The Secretary of a military department may—
 
-&emsp;(A) accept money, property, and services donated for the support of a Fisher House or Fisher Suite associated with health care facilities of that military department; and
+&emsp;(A) accept money, property, and services donated for the support of a Fisher House or Fisher Suite associated with facilities of that military department; and
 
 &emsp;(B) may impose fees relating to the use of such Fisher Houses and Fisher Suites.
 
-(2) All monetary donations, and the proceeds of the disposal of any other donated property, accepted by the Secretary of a military department under this subsection shall be credited to the fund established under subsection (d) for the Fisher Houses and Fisher Suites associated with health care facilities of that military department and shall be available to that Secretary to support all such Fisher Houses and Fisher Suites.
+(2) All monetary donations, and the proceeds of the disposal of any other donated property, accepted by the Secretary of a military department under this subsection shall be credited to the fund established under subsection (d) for the Fisher Houses and Fisher Suites associated with facilities of that military department and shall be available to that Secretary to support all such Fisher Houses and Fisher Suites.
 
 (f)
 
-Base Operating Support.—The Secretary of a military department may provide base operating support for Fisher Houses associated with health care facilities of that military department.
+Base Operating Support.—The Secretary of a military department may provide base operating support for Fisher Houses associated with facilities of that military department.
 
-(Added Pub. L. 105–261, div. A, title IX, §906(a)(1), Oct. 17, 1998, 112 Stat. 2093; amended Pub. L. 106–398, §1 \[\[div. A\], title IX, §914(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–230; Pub. L. 107–314, div. A, title III, §321, Dec. 2, 2002, 116 Stat. 2510; Pub. L. 112–81, div. A, title X, §1061(17), Dec. 31, 2011, 125 Stat. 1584.)
+(Added Pub. L. 105–261, div. A, title IX, §906(a)(1), Oct. 17, 1998, 112 Stat. 2093; amended Pub. L. 106–398, §1 \[\[div. A\], title IX, §914(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–230; Pub. L. 107–314, div. A, title III, §321, Dec. 2, 2002, 116 Stat. 2510; Pub. L. 112–81, div. A, title X, §1061(17), Dec. 31, 2011, 125 Stat. 1584; Pub. L. 112–239, div. A, title VI, §652(a), (b), Jan. 2, 2013, 126 Stat. 1784.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (a)(1)(B). Pub. L. 112–239. §652(a)(1), substituted “by authorized Fisher House residents;” for “by patients of that health care facility, members of the families of such patients, and others providing the equivalent of familial support for such patients;”.
+
+Subsec. (a)(2) to (4). Pub. L. 112–239, §652(a)(2)–(4), added pars. (2) and (4) and redesignated former par. (2) as (3).
+
+Subsecs. (b), (e), (f). Pub. L. 112–239, §652(b), struck out “health care” before “facilities” wherever appearing.
 
 <b>2011</b>—Subsec. (g). Pub. L. 112–81 struck out subsec. (g), which required submission of annual report describing the operation of Fisher Houses and Fisher Suites associated with military department health care facilities.
 
@@ -100,7 +126,7 @@ Funding Transition.—(1) Of the amount authorized to be appropriated pursuant t
 
 “(d)
 
-Reporting Requirements.—The Secretary of each military department, upon completing the actionsrequired of the Secretary under subsections (b) and (c), shall submit to Congress a report containing—
+Reporting Requirements.—The Secretary of each military department, upon completing the actions required of the Secretary under subsections (b) and (c), shall submit to Congress a report containing—
 
 &emsp;“(1) the certification of that Secretary that those actions have been completed; and
 

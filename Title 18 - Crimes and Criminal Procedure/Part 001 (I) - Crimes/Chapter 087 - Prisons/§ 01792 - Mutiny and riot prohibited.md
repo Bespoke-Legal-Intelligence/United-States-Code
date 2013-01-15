@@ -24,5 +24,5 @@ Minor changes were made in translation and phraseology.
 
 #### Effective Date of 1986 Amendment
 
-Section 53(b) of Pub. L. 99–646 provided that: “The amendment made by this section \[amending this section\] shall take effect 30 days after the enactment of this Act \[Nov. 10, 1986\].”
+Pub. L. 99–646, §53(b), Nov. 10, 1986, 100 Stat. 3607, provided that: “The amendment made by this section \[amending this section\] shall take effect 30 days after the enactment of this Act \[Nov. 10, 1986\].”
 

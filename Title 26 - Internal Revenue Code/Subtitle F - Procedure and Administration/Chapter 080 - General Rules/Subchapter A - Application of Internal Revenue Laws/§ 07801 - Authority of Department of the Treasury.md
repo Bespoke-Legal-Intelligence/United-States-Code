@@ -52,11 +52,11 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 #### Effective Date of 1964 Amendment
 
-Amendment by Pub. L. 88–426 effective on first day of first pay period which begins on or after July 1, 1964, except to the extent provided in section 501(c) of Pub. L. 88–426, see section 501 of Pub. L. 88–426.
+Amendment by Pub. L. 88–426 effective on first day of first pay period which begins on or after July 1, 1964, except to the extent provided in section 501(c) of Pub. L. 88–426, see section 501 of Pub. L. 88–426, title V, Aug. 14, 1964, 78 Stat. 435.
 
 #### Effective Date of 1959 Amendment
 
-Section 3 of Pub. L. 86–368 provided that:
+Pub. L. 86–368, §3, Sept. 22, 1959, 73 Stat. 648, provided that:
 
 “(a) Except as otherwise provided in this Act, the amendments made by this Act \[amending this section\] shall take effect on the date of the enactment of this Act \[Sept. 22, 1959\].
 
@@ -68,15 +68,15 @@ Pub. L. 86–368, §1, Sept. 22, 1959, 73 Stat. 648; Pub. L. 88–426, title III
 
 #### Savings Provision
 
-Section 4 of Pub. L. 86–368 provided that the position of Assistant General Counsel serving as Chief Counsel of the Internal Revenue Service was abolished as of the time that the Chief Counsel for the Internal Revenue Service appointed pursuant to the amendment to this section by Pub. L. 86–368, took office, but that Pub. L. 86–368 was not to be construed to otherwise abolish, terminate, or change any office or position, or employment of any officer or employee existing immediately preceding Sept. 22, 1959, and that any delegation of authority pursuant to Reorg. Plan No. 26 of 1950 or Reorg. Plan No. 2 of 1952 including any redelegation of authority, in effect immediately preceding Sept. 22, 1959, was to remain in effect unless distinctly inconsistent or manifestly incompatible with the amendment made to this section by Pub. L. 86–368.
+Pub. L. 86–368, §4, Sept. 22, 1959, 73 Stat. 649, provided that the position of Assistant General Counsel serving as Chief Counsel of the Internal Revenue Service was abolished as of the time that the Chief Counsel for the Internal Revenue Service appointed pursuant to the amendment to this section by Pub. L. 86–368, took office, but that Pub. L. 86–368 was not to be construed to otherwise abolish, terminate, or change any office or position, or employment of any officer or employee existing immediately preceding Sept. 22, 1959, and that any delegation of authority pursuant to Reorg. Plan No. 26 of 1950 or Reorg. Plan No. 2 of 1952 including any redelegation of authority, in effect immediately preceding Sept. 22, 1959, was to remain in effect unless distinctly inconsistent or manifestly incompatible with the amendment made to this section by Pub. L. 86–368.
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Bureau of Alcohol, Tobacco and Firearms,including the related functions of the Secretary of the Treasury, to the Department of Justice, see section 531(c) of Title 6, Domestic Security, and section 599A(c)(1) of Title 28, Judiciary and Judicial Procedure.
+For transfer of authorities, functions, personnel, and assets of the Bureau of Alcohol, Tobacco and Firearms, including the related functions of the Secretary of the Treasury, to the Department of Justice, see section 531(c) of Title 6, Domestic Security, and section 599A(c)(1) of Title 28, Judiciary and Judicial Procedure.
 
 #### Order of Succession
 
-For order of succession during any period when both Secretary and Deputy Secretary of the Treasury are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13246, Dec. 18, 2001, 66 F.R. 66270, set out as a note under section 3345 of Title 5, Government Organization and Employees.
+For order of succession during any period when both Secretary and Deputy Secretary of the Treasury are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13246, Dec. 18, 2001, 66 F.R. 66270, listed in a table under section 3345 of Title 5, Government Organization and Employees.
 
 #### IRS Reports on Information Technology Investments
 
@@ -240,7 +240,7 @@ Suits not affected.—The provisions of this section shall not affect suits comm
 
 &emsp;“(5)
 
-Nonabatement of actions.—No suit, action, or other proceeding commenced by or against the Department of the Treasury (or any administrative unit of the Department, including the Internal Revenue Service), or by or against any individual in the official capacity of such individual as an officer of the Department of the Treasury, shall abate by reason of the enactment of this section.
+Nonabatement of actions.—No suit, action, or other proceeding commenced by or against the Department of the Treasury (or any administrative unitof the Department, including the Internal Revenue Service), or by or against any individual in the official capacity of such individual as an officer of the Department of the Treasury, shall abate by reason of the enactment of this section.
 
 &emsp;“(6)
 
@@ -280,7 +280,7 @@ Pub. L. 105–206, title III, §3503, July 22, 1998, 112 Stat. 771, provided tha
 
 “(a)
 
-In General.—The Secretary of the Treasury or the Secretary's delegate shall, as soon as practicable, but not later than 180 days after the date of the enactment of this Act \[July 22, 1998\], incorporate into the statement required by section 6227 of the Omnibus Taxpayer Bill of Rights \[Pub. L. 100–647, set out below\] (Internal Revenue Service Publication No. 1) a statement which sets forth in simple and nontechnical terms thecriteria and procedures for selecting taxpayers for examination. Such statement shall not include any information the disclosure of which would be detrimental to law enforcement, but shall specify the general procedures used by the Internal Revenue Service, including whether taxpayers are selected for examination on the basis of information available in the media or on the basis of information provided to the Internal Revenue Service by informants.
+In General.—The Secretary of the Treasury or the Secretary's delegate shall, as soon as practicable, but not later than 180 days after the date of the enactment of this Act \[July 22, 1998\], incorporate into the statement required by section 6227 of the Omnibus Taxpayer Bill of Rights \[Pub. L. 100–647, set out below\] (Internal Revenue Service Publication No. 1) a statement which sets forth in simple and nontechnical terms the criteria and procedures for selecting taxpayers for examination. Such statement shall not include any information the disclosure of which would be detrimental to law enforcement, but shall specify the general procedures used by the Internal Revenue Service, including whether taxpayers are selected for examination on the basis of information available in the media or on the basis of information provided to the Internal Revenue Service by informants.
 
 “(b)
 
@@ -566,7 +566,7 @@ Authorization of Appropriations.—Such sums as may be necessary are authorized 
 
 “(i)
 
-Appropriations.—Notwithstanding any other provision of this Act, $1,000,000 shall be available from fiscal year 1996 funds appropriated to the Internal Revenue Service, ‘Information systems’ account, for the activities of the Commission, to remain available until expended.”
+Appropriations.—Notwithstanding any other provision of this Act, $1,000,000 shall be available fromfiscal year 1996 funds appropriated to the Internal Revenue Service, ‘Information systems’ account, for the activities of the Commission, to remain available until expended.”
 
 \[Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §643(f)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–366, provided that: “The amendments made by this section \[amending section 637 of Pub. L. 104–52, set out above\] shall take effect as if included in the provisions of the Treasury, Postal Service, and General Government Appropriations Act, 1996 \[Pub. L. 104–52\].”\]
 

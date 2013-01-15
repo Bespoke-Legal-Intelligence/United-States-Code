@@ -28,6 +28,22 @@ Subsec. (a). Pub. L. 101–510, §1402(a)(1), (2), substituted “a multiyear”
 
 Subsecs. (b)(2)(A), (c). Pub. L. 101–510, §1402(a)(2)(A), substituted “multiyear” for “five-year”.
 
+#### Consolidated Budget Justification Display for Aerospace Control Alert Mission
+
+Pub. L. 112–239, div. A, title III, §352(a), Jan. 2, 2013, 126 Stat. 1701, provided that: “The Secretary of Defense shall establish a consolidated budget justification display that fully identifies the baseline aerospace control alert budget for each of the military services and encompasses all programs and activities of the aerospace control alert mission for each of the following functions:
+
+&emsp;“(1) Procurement.
+
+&emsp;“(2) Operation and maintenance.
+
+&emsp;“(3) Research, development, testing, and evaluation.
+
+&emsp;“(4) Military construction.”
+
+#### Budget Justification Documents; Budget for Full-Spectrum Military Cyberspace Operations
+
+Pub. L. 112–239, div. A, title X, §1079(c), Jan. 2, 2013, 126 Stat. 1959, provided that: “The Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] dedicated budget documentation materials to accompany the budget submissions for fiscal year 2015 and each subsequent fiscal year, including a single Department of Defense-wide budget estimate and detailed budget planning data for full-spectrum military cyberspace operations. Such materials shall be submitted in unclassified form but may include a classified annex.”
+
 #### Separate Procurement Line Item for Certain Littoral Combat Ship Mission Modules
 
 Pub. L. 112–81, div. A, title I, §122, Dec. 31, 2011, 125 Stat. 1319, provided that:
@@ -60,7 +76,7 @@ Pub. L. 112–81, div. A, title X, §1094, Dec. 31, 2011, 125 Stat. 1607, provid
 
 “(a)
 
-Submission With Annual Budget Justification Documents.—For fiscal year 2013 and each subsequent fiscal year, the Secretary of Defense shall submit to the President, for inclusion with the budget materials submitted to Congress under section 1105(a) of title 31, United States Code, a budget justification display thatcovers all programs and activities associated with the procurement of organizational clothing and individual equipment.
+Submission With Annual Budget Justification Documents.—For fiscal year 2013 and each subsequent fiscal year, the Secretary of Defense shall submit to the President, for inclusion with the budget materials submitted to Congress under section 1105(a) of title 31, United States Code, a budget justification display that covers all programs and activities associated with the procurement of organizational clothing and individual equipment.
 
 “(b)
 
@@ -96,7 +112,7 @@ Pub. L. 111–84, div. A, title II, §220, Oct. 28, 2009, 123 Stat. 2229, provid
 
 “(a)
 
-Guidance on Budget Justification Materials.—The Secretary of Defense, acting through the Under Secretary of Defense (Comptroller) and the Director of the Department of Defense Test Resource Management Center, shall issue guidance clarifying and standardizing the information required in budget justification materials describing amounts to be requested in the budget of the President for a fiscal year (as submitted to Congress pursuant to section 1105(a) of title 31, United States Code) for funding for each facility and resource of the Major Range and Test Facility Base in connection with each of the following:
+Guidance on Budget Justification Materials.—The Secretary of Defense, acting through theUnder Secretary of Defense (Comptroller) and the Director of the Department of Defense Test Resource Management Center, shall issue guidance clarifying and standardizing the information required in budget justification materials describing amounts to be requested in the budget of the President for a fiscal year (as submitted to Congress pursuant to section 1105(a) of title 31, United States Code) for funding for each facility and resource of the Major Range and Test Facility Base in connection with each of the following:
 
 &emsp;“(1) Operation.
 
@@ -386,7 +402,7 @@ Pub. L. 105–56, title VIII, §8104, Oct. 8, 1997, 111 Stat. 1243.
 
 #### Modification of Budget Data Exhibits
 
-Pub. L. 105–85, div. A, title III, §324(c), Nov. 18, 1997, 111 Stat. 1678, provided that: “The Under Secretary of Defense (Comptroller) shall ensure that aircraft budget data exhibits of the Department of Defense that are submitted to Congress display total numbers of active aircraft where numbers of primary aircraft or primary authorized aircraft are displayed in those exhibits.”
+Pub. L. 105–85, div. A, title III, §324(c), Nov. 18, 1997, 111 Stat. 1678, provided that: “The Under Secretary ofDefense (Comptroller) shall ensure that aircraft budget data exhibits of the Department of Defense that are submitted to Congress display total numbers of active aircraft where numbers of primary aircraft or primary authorized aircraft are displayed in those exhibits.”
 
 #### Inclusion of Air Force Depot Maintenance as Operation and Maintenance Budget Line Items
 
@@ -408,7 +424,7 @@ Pub. L. 104–106, div. A, title II, §251, Feb. 10, 1996, 110 Stat. 233, which 
 
 #### Budget Submissions on Salaries and Expenses Related to Administrative Activities
 
-Pub. L. 109–148, div. A, title VIII, §8032, Dec. 30, 2005, 119 Stat. 2705, provided that: “The President shall include with each budget for a fiscal year submitted to the Congress under section 1105 of title 31, United States Code, and hereafter, materials that shall identify clearly and separately the amounts requested inthe budget for appropriation for that fiscal year for salaries and expenses related to administrative activities of the Department of Defense, the military departments, and the defense agencies.”
+Pub. L. 109–148, div. A, title VIII, §8032, Dec. 30, 2005, 119 Stat. 2705, provided that: “The President shall include with each budget for a fiscal year submitted to the Congress under section 1105 of title 31, United States Code, and hereafter, materials that shall identify clearly and separately the amounts requested in the budget for appropriation for that fiscal year for salaries and expenses related to administrative activities of the Department of Defense, the military departments, and the defense agencies.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
@@ -440,9 +456,9 @@ Pub. L. 102–396, title IX, §9132, Oct. 6, 1992, 106 Stat. 1936.
 
 #### Submission of Multiyear Defense Program
 
-Section 1402(b) of Pub. L. 101–510 provided for limitations on obligation by Secretary of Defense of fiscal year 1991 advance procurement funds if, as of end of 90-day period beginning on date on which President's budget for fiscal year 1992 was submitted to Congress, the Secretary had not submitted to Congress fiscal year 1992 multiyear defense program.
+Pub. L. 101–510, div. A, title XIV, §1402(b), Nov. 5, 1990, 104 Stat. 1674, provided for limitations on obligation by Secretary of Defense of fiscal year 1991 advance procurement funds if, as of end of 90-day period beginning on date on which President's budget for fiscal year 1992 was submitted to Congress, the Secretary had not submitted to Congress fiscal year 1992 multiyear defense program.
 
 #### Mission Oriented Presentation of Department of Defense Matters in Budget
 
-Section 1404 of Pub. L. 101–510 directed President to submit with budget submitted to Congress each year of programs of Department of Defense, a budget that organizes programs within major functional category 050 (National Defense) on basis of major roles and missions of Department of Defense, prior to repeal by Pub. L. 102–484, div. A, title X, §1002(b), Oct. 23, 1992, 106 Stat. 2480. See section 222 of this title.
+Pub. L. 101–510, div. A, title XIV, §1404, Nov. 5, 1990, 104 Stat. 1675, directed President to submit with budget submitted to Congress each year of programs of Department of Defense, a budget that organizes programs within major functional category 050 (National Defense) on basis of major roles and missions of Department of Defense, prior to repeal by Pub. L. 102–484, div. A, title X, §1002(b), Oct. 23, 1992, 106 Stat. 2480. See section 222 of this title.
 

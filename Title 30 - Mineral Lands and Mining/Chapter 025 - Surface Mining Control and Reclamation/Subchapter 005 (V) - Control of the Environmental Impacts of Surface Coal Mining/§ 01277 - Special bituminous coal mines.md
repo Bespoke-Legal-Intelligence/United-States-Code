@@ -16,7 +16,7 @@ The regulatory authority is authorized to issue separate regulations for those s
 
 &emsp;(6) there is no practicable method to reclaim the land in the manner required by this chapter; and
 
-&emsp;(7) the specific mine pit has been actually producing coal since January 1, 1972, in such manner as to meet the criteria set forth in this section, and, because of past duration of mining, is substantially committed to a mode of operation which warrants exceptions to some provisions of this subchapter.
+&emsp;(7) the specific mine pit has been actually producing coal since January 1, 1972, in such manner as to meet the criteria set forth inthis section, and, because of past duration of mining, is substantially committed to a mode of operation which warrants exceptions to some provisions of this subchapter.
 
 #### (b) New bituminous coal surface mines
 

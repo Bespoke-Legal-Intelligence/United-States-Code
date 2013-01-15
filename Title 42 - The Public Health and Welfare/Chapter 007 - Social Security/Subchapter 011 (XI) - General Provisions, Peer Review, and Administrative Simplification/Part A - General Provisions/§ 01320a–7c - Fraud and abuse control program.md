@@ -50,7 +50,7 @@
 
 #### (1) Reimbursements for investigations
 
-&emsp;The Inspector General of the Department of Health and Human Services is authorized to receive and retain for current use reimbursement for the costs of conducting investigations and audits and for monitoring compliance plans when such costs are ordered by a court, voluntarily agreed to by the payor, or otherwise.
+&emsp;The Inspector General of the Department of Health and Human Services is authorized toreceive and retain for current use reimbursement for the costs of conducting investigations and audits and for monitoring compliance plans when such costs are ordered by a court, voluntarily agreed to by the payor, or otherwise.
 
 #### (2) Crediting
 

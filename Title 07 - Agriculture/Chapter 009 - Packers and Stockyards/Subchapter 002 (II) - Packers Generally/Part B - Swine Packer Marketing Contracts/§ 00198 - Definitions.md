@@ -30,7 +30,7 @@ Except as provided in section 198b(a) of this title, in this part:
 
 &emsp;The term “type of contract” means the classification of contracts or risk management agreements for the purchase of swine by—
 
-&emsp;&emsp;(A) the mechanism used to determine the base price for swine committed to a packer,grouped into practicable classifications by the Secretary (including swine or pork market formula purchases, other market formula purchases, and other purchase arrangements); and
+&emsp;&emsp;(A) the mechanism used to determine the base price for swine committed to a packer, grouped into practicable classifications by the Secretary (including swine or pork market formula purchases, other market formula purchases, and other purchase arrangements); and
 
 &emsp;&emsp;(B) the presence or absence of an accrual account or ledger that must be repaid by the producer or packer that receives the benefit of the contract pricing mechanism in relation to negotiated prices.
 

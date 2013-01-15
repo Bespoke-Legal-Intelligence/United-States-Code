@@ -12,13 +12,17 @@ Each person required to pay a special tax under this subchapter shall register w
 
 #### (b) Firm or company
 
-Where subsection (a) requires the name and place of residence of a firm or company to beregistered, the names and places of residence of the several persons constituting the firm or company shall be registered.
+Where subsection (a) requires the name and place of residence of a firm or company to be registered, the names and places of residence of the several persons constituting the firm or company shall be registered.
 
 #### (c) Supplemental information
 
 In accordance with regulations prescribed by the Secretary, the Secretary may require from time to time such supplemental information from any person required to register under this section as may be needful to the enforcement of this chapter.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 527; Pub. L. 94–455, title XIX, §1906(b)(13)(I), Oct. 4, 1976, 90 Stat. 1835.)
+
+#### Constitutionality
+
+For information regarding constitutionality of section 4412 of act Aug. 16, 1954, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
 
 #### Amendments
 

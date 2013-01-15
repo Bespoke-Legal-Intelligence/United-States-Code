@@ -10,7 +10,7 @@
 
 (2) Subject to section 3695 of this title, an individual described in clause (B) or (C) of section 3018(b)(3) of this title whose discharge or release from active duty prevents the reduction of the basic pay of such individual by $1,200 is entitled to the number of months of assistance under this chapter that is equal to the lesser of—
 
-&emsp;(A) 36 multiplied by a fraction the numerator of which is the amount by which the basic pay of the individual has been reduced under section 3018(c) and the denominator of which is $1,200; or
+&emsp;(A) 36 multiplied by a fraction the numerator of which is the amount by which the basic pay of the individual has been reduced undersection 3018(c) and the denominator of which is $1,200; or
 
 &emsp;(B) the number of months the individual has served on continuous active duty after June 30, 1985.
 
@@ -40,7 +40,7 @@
 
 (3) The period for which, by reason of this subsection, an educational assistance allowance is not charged against entitlement or counted toward the applicable aggregate period under section 3695 of this title shall not exceed the portion of the period of enrollment in the course or courses for which the individual failed to receive credit or with respect to which the individual lost training time, as determined under paragraph (2)(C) of this subsection.
 
-(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2557, §1413; amended Pub. L. 99–576, title III, §321(3), Oct. 28, 1986, 100 Stat. 3277; Pub. L. 100–689, title I, §§102(b)(2), 103(b)(2), 111(a)(4), Nov. 18, 1988, 102 Stat. 4163, 4165, 4171; Pub. L. 101–237, title IV, §423(a)(2), Dec. 18, 1989, 103 Stat. 2091; Pub. L. 101–510, div. A, title V, §561(b)(1), Nov. 5, 1990, 104 Stat. 1573; renumbered §3013 and amended Pub. L. 102–83, §5(a), (c)(1),Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–127, §2(a), Oct. 10, 1991, 105 Stat. 619; Pub. L. 102–484, div. D, title XLIV, §4404(b)(2), Oct. 23, 1992, 106 Stat. 2706; Pub. L. 104–275, title I, §106(b)(2), Oct. 9, 1996, 110 Stat. 3329; Pub. L. 106–419, title I, §103(c), Nov. 1, 2000, 114 Stat. 1826; Pub. L. 107–103, title I, §103(a), (d), Dec. 27, 2001, 115 Stat. 979.)
+(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2557, §1413; amended Pub. L. 99–576, title III, §321(3), Oct. 28, 1986, 100 Stat. 3277; Pub. L. 100–689, title I, §§102(b)(2), 103(b)(2), 111(a)(4), Nov. 18, 1988, 102 Stat. 4163, 4165, 4171; Pub. L. 101–237, title IV, §423(a)(2), Dec. 18, 1989, 103 Stat. 2091; Pub. L. 101–510, div. A, title V, §561(b)(1), Nov. 5, 1990, 104 Stat. 1573; renumbered §3013 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–127, §2(a), Oct. 10, 1991, 105 Stat. 619; Pub. L. 102–484, div. D, title XLIV, §4404(b)(2), Oct. 23, 1992, 106 Stat. 2706; Pub. L. 104–275, title I, §106(b)(2), Oct. 9, 1996, 110 Stat. 3329; Pub. L. 106–419, title I, §103(c), Nov. 1, 2000, 114 Stat. 1826; Pub. L. 107–103, title I, §103(a), (d), Dec. 27, 2001, 115 Stat. 979.)
 
 #### Prior Provisions
 
@@ -82,7 +82,7 @@ Subsec. (c)(1). Pub. L. 101–237, §423(a)(2)(C)(i), inserted reference to par.
 
 Subsec. (c)(3). Pub. L. 101–237, §423(a)(2)(C)(ii), added par. (3).
 
-<b>1988</b>—Subsec. (a)(2). Pub. L. 100–689, §111(a)(4)(A), substituted “Subject to section 1795 of this title and subsection (c) of this section, in the case” for “In the case” and “continuous active duty served by such individual after June 30, 1985, as part of the individual's initial obligated period of active duty in the case of an individual described in section 1411(a)(1)(B)(ii)(I) or (III) of this title, or in the case of an individual described in section 1411(a)(1)(B)(ii)(I) or (III) of this title, after June 30, 1985” for “active duty served by such individual after the date of the beginning of the period for which the individual's basic pay is reduced under section 1411(b) of this title, in the case of an individual described in section 1411(a)(1)(A)(ii)(I) of this title, or after June 30, 1985, in the case of an individual described in section 1411(a)(1)(B)(ii)(I) of this title”.
+<b>1988</b>—Subsec. (a)(2). Pub. L. 100–689, §111(a)(4)(A), substituted “Subject to section 1795 of this title and subsection (c) of this section, in the case” for “In thecase” and “continuous active duty served by such individual after June 30, 1985, as part of the individual's initial obligated period of active duty in the case of an individual described in section 1411(a)(1)(B)(ii)(I) or (III) of this title, or in the case of an individual described in section 1411(a)(1)(B)(ii)(I) or (III) of this title, after June 30, 1985” for “active duty served by such individual after the date of the beginning of the period for which the individual's basic pay is reduced under section 1411(b) of this title, in the case of an individual described in section 1411(a)(1)(A)(ii)(I) of this title, or after June 30, 1985, in the case of an individual described in section 1411(a)(1)(B)(ii)(I) of this title”.
 
 Pub. L. 100–689, §102(b)(2), inserted “or (III)” after “section 1411(a)(1)(A)(ii)(I)” and after “section 1411(a)(1)(B)(ii)(I)”, the first place each appears.
 

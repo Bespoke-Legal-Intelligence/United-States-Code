@@ -30,11 +30,11 @@ The Reclamation Projects Act of 1939, referred to in subsec. (b), is act Aug. 4,
 
 #### Short Title of 1961 Amendment
 
-Section 11 of Pub. L. 87–88 provided that: “This Act \[amending this section, and sections 1151, 1153 to 1155, 1157 to 1160, 1171 to 1173 of Title 33, Navigation and Navigable Waters, and enacting provisions set out as notes under sections 1151, 1157, and 1159 of Title 33\] may be cited as the ‘Federal Water Pollution Control Act Amendments of 1961’.”
+Pub. L. 87–88, §11, July 20, 1961, 75 Stat. 210, provided that: “This Act \[amending this section, and sections 1151, 1153 to 1155, 1157 to 1160, 1171 to 1173 of Title 33, Navigation and Navigable Waters, and enacting provisions set out as notes under sections 1151, 1157, and 1159 of Title 33\] may be cited as the ‘Federal Water Pollution Control Act Amendments of 1961’.”
 
 #### Short Title
 
-Section 302 of Pub. L. 85–500 provided that: “Title III of this Act \[enacting this section\] may be cited as the ‘Water Supply Act of 1958’.”
+Pub. L. 85–500, title III, §302, July 3, 1958, 72 Stat. 320, provided that: “Title III of this Act \[enacting this section\] may be cited as the ‘Water Supply Act of 1958’.”
 
 #### Amendment of Contracts Existing Prior to November 17, 1986
 

@@ -58,7 +58,7 @@ Pub. L. 111–203, title XIV, §1400(a), July 21, 2010, 124 Stat. 2136, provided
 
 Pub. L. 111–93, §1, Nov. 6, 2009, 123 Stat. 2998, provided that: “This Act \[amending section 1666b of this title\] may be cited as the ‘Credit CARD Technical Corrections Act of 2009’.”
 
-Pub. L. 111–24, §1(a), May 22, 2009, 123 Stat. 1734, provided that: “This Act \[enacting sections 1616, 1651, 1665c to 1665e, 1666i–1, 1666i–2, and 1693<i>l</i>–1 of this title and section 1a–7b of Title 16, Conservation, amending sections 1602, 1632, 1637, 1640, 1650, 1666b, 1666c, 1666j, 1681b, 1681j, and 1693m to 1693r of this title, enacting provisions set out as notes under sections 1602, 1637, 1638, 1666b, 1681j, and 1693<i>l</i>–1 of this title and section 5311 of Title 31, Money and Finance, and amending provisions set out as notes under sections 1638 and 1693 of this title\] may be cited as the ‘Credit Card Accountability Responsibility and Disclosure Act of 2009’ or the ‘Credit CARD Act of 2009’.”
+Pub. L. 111–24, §1(a), May 22, 2009, 123 Stat. 1734, provided that: “This Act \[enacting sections 1616, 1651, 1665c to 1665e, 1666i–1, 1666i–2, and 1693l–1 of this title and section 1a–7b of Title 16, Conservation, amending sections 1602, 1632, 1637, 1640, 1650, 1666b, 1666c, 1666j, 1681b, 1681j, and 1693m to 1693r of this title, enacting provisions set out as notes under sections 1602, 1637, 1638, 1666b, 1681j, and 1693l–1 of this title and section 5311 of Title 31, Money and Finance, and amending provisions set out as notes under sections 1638 and 1693 of this title\] may be cited as the ‘Credit Card Accountability Responsibility and Disclosure Act of 2009’ or the ‘Credit CARD Act of 2009’.”
 
 #### Short Title of 2008 Amendment
 
@@ -70,7 +70,7 @@ Pub. L. 110–241, §1, June 3, 2008, 122 Stat. 1565, provided that: “This Act
 
 #### Short Title of 2003 Amendment
 
-Pub. L. 108–159, §1(a), Dec. 4, 2003, 117 Stat. 1952, provided that: “This Act \[enacting sections 1681c–1, 1681c–2, 1681s–3, 1681w, and 1681x of this title and sections 9701 to 9708 of Title 20, Education, amending sections 1681a, 1681b, 1681c, 1681g, 1681i, 1681j, 1681m, 1681<i>o</i>, 1681p, 1681s, 1681s–2, 1681t, 1681u, and 1681v of this title and section 5318 of Title 31, Money and Finance, enacting provisions set out as notes under this section, sections 1681, 1681a, 1681b, 1681c, 1681c–1, 1681i, 1681j, 1681m, 1681n, 1681s–2, 1681s–3 of this title, and section 9701 of Title 20, and amending provisions set out as a note under this section\] may be cited as the ‘Fair and Accurate Credit Transactions Act of 2003’.”
+Pub. L. 108–159, §1(a), Dec. 4, 2003, 117 Stat. 1952, provided that: “This Act \[enacting sections 1681c–1, 1681c–2, 1681s–3, 1681w, and 1681x of this title and sections 9701 to 9708 of Title 20, Education, amending sections 1681a, 1681b, 1681c, 1681g, 1681i, 1681j, 1681m, 1681o, 1681p, 1681s, 1681s–2, 1681t, 1681u, and 1681v of this title and section 5318 of Title 31, Money and Finance, enacting provisions set out as notes under this section, sections 1681, 1681a, 1681b, 1681c, 1681c–1, 1681i, 1681j, 1681m, 1681n, 1681s–2, 1681s–3 of this title, and section 9701 of Title 20, and amending provisions set out as a note under this section\] may be cited as the ‘Fair and Accurate Credit Transactions Act of 2003’.”
 
 #### Short Title of 1999 Amendment
 
@@ -82,7 +82,7 @@ Pub. L. 105–347, §1, Nov. 2, 1998, 112 Stat. 3208, provided that: “This Act
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–208, div. A, title II, §2401, Sept. 30, 1996, 110 Stat. 3009–426, provided that: “This chapter \[chapter 1 (§§2401–2422) of subtitle D of title II of div. A of Pub. L. 104–208, enacting section 1681s–2 of this title, amending sections 1681a to 1681e, 1681g to 1681j, 1681m to 1681<i>o</i>, 1681q to 1681s, and 1681t of this title, and enacting provisions set out as notes under sections 1681a, 1681b, and 1681g of this title\] may be cited as the ‘Consumer Credit Reporting Reform Act of 1996’.”
+Pub. L. 104–208, div. A, title II, §2401, Sept. 30, 1996, 110 Stat. 3009–426, provided that: “This chapter \[chapter 1 (§§2401–2422) of subtitle D of title II of div. A of Pub. L. 104–208, enacting section 1681s–2 of this title, amending sections 1681a to 1681e, 1681g to 1681j, 1681m to 1681o, 1681q to 1681s, and 1681t of this title, and enacting provisions set out as notes under sections 1681a, 1681b, and 1681g of this title\] may be cited as the ‘Consumer Credit Reporting Reform Act of 1996’.”
 
 #### Short Title of 1995 Amendments
 
@@ -106,7 +106,7 @@ Pub. L. 100–583, §1, Nov. 3, 1988, 102 Stat. 2960, provided that: “This Act
 
 #### Short Title of 1981 Amendment
 
-Pub. L. 97–25, §1, July 27, 1981, 95 Stat. 144, provided: “That this Act \[amending sections 1602 and 1666f of this title, section 29 of Title 12, Banks and Banking, and sections 205 and 212 of Title 42, The Public Health and Welfare; enacting provisions set out as notes under this section and sections 1602 and 1666f of this title; and amending provisions set out as notes under sections 1602 and 1666f of this title\] may be cited as the ‘Cash Discount Act’.”
+Pub. L. 97–25, §1, July 27, 1981, 95 Stat. 144, provided: “That this Act \[amending sections 1602 and 1666f of thistitle, section 29 of Title 12, Banks and Banking, and sections 205 and 212 of Title 42, The Public Health and Welfare; enacting provisions set out as notes under this section and sections 1602 and 1666f of this title; and amending provisions set out as notes under sections 1602 and 1666f of this title\] may be cited as the ‘Cash Discount Act’.”
 
 #### Short Title of 1980 Amendment
 
@@ -114,21 +114,21 @@ Pub. L. 96–221, title VI, §601, Mar. 31, 1980, 94 Stat. 168, provided that: �
 
 #### Short Title of 1976 Amendments
 
-Section 1 of Pub. L. 94–240 provided that: “This Act \[enacting sections 1667 to 1667e of this title, amending this section and section 1640 of this title, and enacting provisions set out as a note under section 1667 of this title\] may be cited as the ‘Consumer Leasing Act of 1976’.”
+Pub. L. 94–240, §1, Mar. 23, 1976, 90 Stat. 257, provided that: “This Act \[enacting sections 1667 to 1667e of this title, amending this section and section 1640 of this title, and enacting provisions set out as a note under section 1667 of this title\] may be cited as the ‘Consumer Leasing Act of 1976’.”
 
-Pub. L. 94–239, §1(a), Mar. 23, 1976, 90 Stat. 251, provided that: “This Act \[enacting section 1691f of this title, amending this section and sections 1691b, 1691c, 1691d, 1691e of this title, repealing section 1609 of this title, enacting provisions set out as notes under thissection, and repealing provision set out as a note under this section\] may be cited as the ‘Equal Credit Opportunity Act Amendments of 1976’.”
+Pub. L. 94–239, §1(a), Mar. 23, 1976, 90 Stat. 251, provided that: “This Act \[enacting section 1691f of this title, amending this section and sections 1691b, 1691c, 1691d, 1691e of this title, repealing section 1609 of this title, enacting provisions set out as notes under this section, and repealing provision set out as a note under this section\] may be cited as the ‘Equal Credit Opportunity Act Amendments of 1976’.”
 
 Section 1(c) of Pub. L. 94–239 repealed section 501 of Pub. L. 93–495, title V, Oct. 28, 1974, 88 Stat. 1521, which provided that subchapter IV of this chapter and notes set out under section 1691 were to be cited as the “Equal Credit Opportunity Act”.
 
 #### Short Title of 1974 Amendment
 
-Section 301 of title III of Pub. L. 93–495 provided that: “This title \[enacting sections 1666 to 1666j of this title, amending this section and sections 1602, 1610, 1631, 1632, and 1637 of this title, and enacting provision set out as a note under section 1666 of this title\] may be cited as the ‘Fair Credit Billing Act’.”
+Pub. L. 93–495, title III, §301, Oct. 28, 1974, 88 Stat. 1511, provided that: “This title \[enacting sections 1666 to 1666j of this title, amending this section and sections 1602, 1610, 1631, 1632, and 1637 of this title, and enacting provision set out as a note under section 1666 of this title\] may be cited as the ‘Fair Credit Billing Act’.”
 
 #### Short Title
 
-Section 1 of Pub. L. 90–321 provided that: “This Act \[enacting this chapter, sections 891 to 896 of Title 18, Crimes and Criminal Procedure, and provisions set out as notes under this section, sections 1631 and 1671 of this title, and section 891 of Title 18\] may be cited as the ‘Consumer Credit Protection Act’.”
+Pub. L. 90–321, §1, May 29, 1968, 82 Stat. 146, provided that: “This Act \[enacting this chapter, sections 891 to 896 of Title 18, Crimes and Criminal Procedure, and provisions set out as notes under this section, sections 1631 and 1671 of this title, and section 891 of Title 18\] may be cited as the ‘Consumer Credit Protection Act’.”
 
-Section 101 of title I of Pub. L. 90–321 provided that: “This title \[enacting this subchapter\] may be cited as the ‘Truth in Lending Act’.”
+Pub. L. 90–321, title I, §101, May 29, 1968, 82 Stat. 146, provided that: “This title \[enacting this subchapter\] may be cited as the ‘Truth in Lending Act’.”
 
 Section 401 of title IV of Pub. L. 90–321, as added by Pub. L. 104–208, div. A, title II, §2451, Sept. 30, 1996, 110 Stat. 3009–454, provided that: “This title \[enacting subchapter II–A of this chapter\] may be cited as the ‘Credit Repair Organizations Act’.”
 
@@ -142,7 +142,7 @@ Section 901 of title IX of Pub. L. 90–321, as added Pub. L. 95–630, title XX
 
 #### Severability
 
-Section 501 of Pub. L. 90–321 provided that: “If a provision enacted by this Act \[see Short Title note above\], is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision enacted by this Act is held invalid in one or more of its applications, the provision remains in effect in all valid applications that are severable from the invalid application or applications.”
+Pub. L. 90–321, title V, §501, May 29, 1968, 82 Stat. 167, provided that: “If a provision enacted by this Act \[see Short Title note above\], is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision enacted by this Act is held invalid in one or more of its applications, the provision remains in effect in all valid applications that are severable from the invalid application or applications.”
 
 #### Exemption or Modification of Mortgage Disclosure Requirements
 
@@ -188,7 +188,7 @@ Content of report.—The report described in paragraph (2) shall address the fol
 
 &emsp;&emsp;“(v) the ability to offer credit or insurance products to consumers who have been traditionally underserved.”
 
-\[For definitions of terms used in section 213(e) of Pub. L. 108–159, set out above, see section 2 of Pub. L. 108–159, set out as a Definitions note under section 1681 of this title.\]
+\[For definitions of terms used in section 213(e) of Pub. L. 108–159, set out above, see section 2 of Pub. L. 108–159,set out as a Definitions note under section 1681 of this title.\]
 
 #### Federal Reserve Study of Home Equity Lending and Appropriate Interest Rate Index
 
@@ -216,7 +216,7 @@ Pub. L. 97–25, title II, §202, July 27, 1981, 95 Stat. 145, directed Board of
 
 #### Inference of Legislative Intent in Section Captions and Catchlines
 
-Section 502 of Pub. L. 90–321 provided that: “Captions and catchlines are intended solely as aids to convenient reference, and no inference as to the legislative intent with respect to any provision enacted by this Act \[enacting this chapter, section 891 to 896 of Title 18, Crimes and Criminal Procedure, and provisions set out as notes under this section, sections 1631 and 1671 of this title, and section 891 of Title 18\] may be drawn from them.”
+Pub. L. 90–321, title V, §502, May 29, 1968, 82 Stat. 167, provided that: “Captions and catchlines are intended solely as aids to convenient reference, and no inference as to the legislative intent with respect to any provision enacted by this Act \[enacting this chapter, section 891 to 896 of Title 18, Crimes and Criminal Procedure, and provisions set out as notes under this section, sections 1631 and 1671 of this title, and section 891 of Title 18\] may be drawn from them.”
 
 #### Grammatical Usages
 

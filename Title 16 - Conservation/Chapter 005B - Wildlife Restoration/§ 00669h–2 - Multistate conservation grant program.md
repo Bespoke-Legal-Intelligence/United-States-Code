@@ -10,7 +10,7 @@
 
 #### (A) Period of availability
 
-&emsp;&emsp;Amounts made available under paragraph (1) shall remain available for making grantsonly for the first fiscal year for which the amount is made available and the following fiscal year.
+&emsp;&emsp;Amounts made available under paragraph (1) shall remain available for making grants only for the first fiscal year for which the amount is made available and the following fiscal year.
 
 #### (B) Apportionment
 

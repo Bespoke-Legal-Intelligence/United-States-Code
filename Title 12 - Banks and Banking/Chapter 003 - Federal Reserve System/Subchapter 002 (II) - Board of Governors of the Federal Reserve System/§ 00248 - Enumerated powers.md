@@ -4,7 +4,7 @@ The Board of Governors of the Federal Reserve System shall be authorized and emp
 
 #### (a) Examination of accounts and affairs of banks; publication of weekly statements; reports of liabilities and assets of depository institutions; covered institutions
 
-(1) To examine at its discretion the accounts, books, and affairs of each Federal reserve bank and of each member bank and to require such statements and reports as it may deem necessary. The said board shall publish once each week a statement showing the condition of each Federal reserve bank and a consolidated statement for all Federal reserve banks. Such statements shall show in detail the assets and liabilities of the Federal reserve banks, single andcombined, and shall furnish full information regarding the character of the money held as reserve and the amount, nature, and maturities of the paper and other investments owned or held by Federal reserve banks.
+(1) To examine at its discretion the accounts, books, and affairs of each Federal reserve bank and of each member bank and to require such statements and reports as it may deem necessary. The said board shall publish once each week a statement showing the condition of each Federal reserve bank and a consolidated statement for all Federal reserve banks. Such statements shall show in detail the assets and liabilities of the Federal reserve banks, single and combined, and shall furnish full information regarding the character of the money held as reserve and the amount, nature, and maturities of the paper and other investments owned or held by Federal reserve banks.
 
 (2) To require any depository institution specified in this paragraph to make, at such intervals as the Board may prescribe, such reports of its liabilities and assets as the Board may determine to be necessary or desirable to enable the Board to discharge its responsibility to monitor and control monetary and credit aggregates. Such reports shall be made (A) directly to the Board in the case of member banks and in the case of other depository institutions whose reserve requirements under sections 461, 463, 464, 465, and 466 of this title exceed zero, and (B) for all other reports to the Board through the (i) Federal Deposit Insurance Corporation in the case of insured State savings associations that are insured depository institutions (as defined in section 1813 of this title), State nonmember banks, savings banks, and mutual savings banks, (ii) National Credit Union Administration Board in the case of insured credit unions, (iii) the Comptroller of the Currency in the case of any Federal savings association which is an insured depository institution (as defined in section 1813 of this title) or which is a member as defined in section 1422 of this title, and (iv) such State officer or agency as the Board may designate in the case of any other type of bank, savings association, or credit union. The Board shall endeavor to avoid the imposition of unnecessary burdens on reporting institutions and the duplication of other reporting requirements. Except as otherwise required by law, any data provided to any department, agency, or instrumentality of the United States pursuant to other reporting requirements shall be made available to the Board. The Board may classify depository institutions for the purposes of this paragraph and may impose different requirements on each such class.
 
@@ -48,9 +48,9 @@ To exercise general supervision over said Federal reserve banks.
 
 To delegate, by published order or rule and subject to subchapter II of chapter 5, and chapter 7, of title 5, any of its functions, other than those relating to rulemaking or pertaining principally to monetary and credit policies, to one or more administrative law judges, members or employees of the Board, or Federal Reserve banks. The assignment of responsibility for the performance of any function that the Board determines to delegate shall be a function of the Chairman. The Board shall, upon the vote of one member, review action taken at a delegated level within such time and in such manner as the Board shall by rule prescribe. The Board of Governors may not delegate to a Federal reserve bank its functions for the establishment of policies for the supervision and regulation of depository institution holding companies and other financial firms supervised by the Board of Governors.
 
-#### (<i>l</i>) Employing attorneys, experts, assistants, and clerks; salaries and fees
+#### (l) Employing attorneys, experts, assistants, and clerks; salaries and fees
 
-To employ such attorneys, experts, assistants, clerks, or other employees as may be deemednecessary to conduct the business of the board. All salaries and fees shall be fixed in advance by said board and shall be paid in the same manner as the salaries of the members of said board. All such attorneys, experts, assistants, clerks, and other employees shall be appointed without regard to the provisions of the Act of January sixteenth, eighteen hundred and eighty-three (volume twenty-two, United States Statutes at Large, page four hundred and three), and amendments thereto, or any rule or regulation made in pursuance thereof: <i>Provided</i>, That nothing herein shall prevent the President from placing said employees in the classified service.
+To employ such attorneys, experts, assistants, clerks, or other employees as may be deemed necessary to conduct the business of the board. All salaries and fees shall be fixed in advance by said board and shall be paid in the same manner as the salaries of the members of said board. All such attorneys, experts, assistants, clerks, and other employees shall be appointed without regard to the provisions of the Act of January sixteenth, eighteen hundred and eighty-three (volume twenty-two, United States Statutes at Large, page four hundred and three), and amendments thereto, or any rule or regulation made in pursuance thereof: <i>Provided</i>, That nothing herein shall prevent the President from placing said employees in the classified service.
 
 #### (m) \[Repealed\]
 
@@ -58,7 +58,7 @@ To employ such attorneys, experts, assistants, clerks, or other employees as may
 
 To examine, at the Board's discretion, any depository institution, and any affiliate of such depository institution, in connection with any advance to, any discount of any instrument for, or any request for any such advance or discount by, such depository institution under this chapter.
 
-#### (<i>o</i>) Authority to appoint conservator or receiver
+#### (o) Authority to appoint conservator or receiver
 
 The Board may appoint the Federal Deposit Insurance Corporation as conservator or receiver for a State member bank under section 1821(c)(9) of this title.
 
@@ -80,7 +80,7 @@ The Board may act in its own name and through its own attorneys in enforcing any
 
 #### (r) Voting; documentation of determinations
 
-(1) Any action that this chapter provides may be taken only upon the affirmative vote of 5 members of the Board may be taken upon the unanimous vote of all members then in office if there are fewer than 5 members in office at the time of the action.
+(1) Any action that this chapter provides may be taken only upon the affirmative vote of 5members of the Board may be taken upon the unanimous vote of all members then in office if there are fewer than 5 members in office at the time of the action.
 
 (2)(A) Any action that the Board is otherwise authorized to take under section 343(3) of this title may be taken upon the unanimous vote of all available members then in office, if—
 
@@ -170,7 +170,7 @@ The Board may act in its own name and through its own attorneys in enforcing any
 
 #### (9) Rule of construction
 
-&emsp;Nothing in this section is meant to affect any pending litigation or lawsuit filed undersection 552 of title 5 (popularly known as the Freedom of Information Act) on or before July 21, 2010.
+&emsp;Nothing in this section is meant to affect any pending litigation or lawsuit filed under section 552 of title 5 (popularly known as the Freedom of Information Act) on or before July 21, 2010.
 
 #### (s) <sup>2</sup> Assessments, fees, and other charges for certain companies
 
@@ -198,9 +198,9 @@ This chapter, referred to in subsecs. (c), (h), (i), (n), (r)(1), and (s)(1), wa
 
 Reference in subsec. (e) to “section 20 of this Act” means section 20 of the Federal Reserve Act which is not classified to the Code. Since section 20 does not set forth any reserve requirements, section 19 of the Federal Reserve Act might have been intended. For provisions of section 19 relating to reserve requirements, see note above.
 
-The Act of January sixteenth, eighteen hundred and eighty-three, referred to in subsec. (<i>l</i>), is act Jan. 16, 1883, ch. 27, 22 Stat. 403, as amended, which enacted section 42 of former Title 40, Public Buildings, Property, and Works, and sections 632, 633, 635, 637, 638, and 640 to 642a of former Title 5, Executive Departments and Government Officers and Employees. For complete classification of this Act to the Code, see Tables. Section 42 of former Title 40 was repealed and reenacted as section 8165 of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. The sections that were classified to former Title 5 were repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 632, the first section of which enacted Title 5, Government Organization and Employees. For distribution of former sections of Title 5 into the revised Title 5, see table at the beginning of Title 5.
+The Act of January sixteenth, eighteen hundred and eighty-three, referred to in subsec. (l), is act Jan. 16, 1883, ch. 27, 22 Stat. 403, as amended, which enacted section 42 of former Title 40, Public Buildings, Property, and Works, and sections 632, 633, 635, 637, 638, and 640 to 642a of former Title 5, Executive Departments and Government Officers and Employees. For complete classification of this Act to the Code, see Tables. Section 42 of former Title 40 was repealed and reenacted as section 8165 of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. The sections that were classified to former Title 5 were repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 632, the first section of which enacted Title 5, Government Organization and Employees. For distribution of former sections of Title 5 into the revised Title 5, see table at the beginning of Title 5.
 
-This title, referred to in subsec. (p), probably should read “this Act”, meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, known as the Federal Reserve Act, which does not contain titles. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
+This title, referred to in subsec. (p), probably should read “this Act”, meaning act Dec. 23, 1913, ch. 6, 38Stat. 251, as amended, known as the Federal Reserve Act, which does not contain titles. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
 
 Subsection (a) or (c) of section 1109 of the Dodd-Frank Wall Street Reform and Consumer Protection Act, referred to in subsec. (s)(7), is subsec. (a) or (c) of section 1109 of Pub. L. 111–203, title XI, 124 Stat. 2127, 2128, which is not classified to the Code.
 
@@ -210,7 +210,7 @@ July 21, 2010, referred to in subsec. (s)(8)(B), was in the original “the date
 
 In subsec. (k), “subchapter II of chapter 5, and chapter 7, of title 5” was substituted for “the Administrative Procedure Act” on authority of section 7(b) of Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
-Section is comprised of section 11 of act Dec. 23, 1913. The fourteenth par. of section 16 of act Dec. 23, 1913, which formerly constituted subsec. (<i>o</i>) of this section, is now classified to section 248–1 of this title.
+Section is comprised of section 11 of act Dec. 23, 1913. The fourteenth par. of section 16 of act Dec. 23, 1913, which formerly constituted subsec. (o) of this section, is now classified to section 248–1 of this title.
 
 #### Amendments
 
@@ -238,7 +238,7 @@ Subsec. (m). Pub. L. 103–325, §322(d), which directed substitution of “15 p
 
 Subsec. (p). Pub. L. 103–325, §331(d), added subsec. (p).
 
-<b>1992</b>—Subsecs. (<i>o</i>), (p). Pub. L. 102–550 redesignated subsec. (p) as (<i>o</i>).
+<b>1992</b>—Subsecs. (o), (p). Pub. L. 102–550 redesignated subsec. (p) as (o).
 
 <b>1991</b>—Subsec. (n). Pub. L. 102–242, §142(c), which directed addition of subsec. (n) at end of section, was executed by adding subsec. (n) after subsec. (m). See Construction of 1991 Amendment note below.
 
@@ -300,7 +300,7 @@ Amendment by section 133(f) of Pub. L. 102–242 effective 1 year after Dec. 19,
 
 #### Effective Date of 1980 Amendment
 
-Section 108 of title I of Pub. L. 96–221 provided that: “This title \[enacting section 248a of this title, amending this section and sections 342, 347b, 355, 360, 412, 461, 463, 505, and 1425a of this title, and enacting provisions set out as notes under sections 226 and 355 of this title\] shall take effect on the first day of the sixth month which begins after the date of the enactment of this title \[Mar. 31, 1980\], except that the amendments regarding sections 19(b)(7) and 19(b)(8)(D) of the Federal Reserve Act \[section 461(b)(7) and (b)(8)(D) of this title\] shall take effect on the date of enactment of this title.”
+Pub. L. 96–221, title I, §108, Mar. 31, 1980, 94 Stat. 141, provided that: “This title \[enacting section 248a of this title, amending this section and sections 342, 347b, 355, 360, 412, 461, 463, 505, and 1425a of this title, and enacting provisions set out as notes under sections 226 and 355 of this title\] shall take effect on the first day of the sixth month which begins after the date of the enactment of this title \[Mar. 31, 1980\], except that the amendments regarding sections 19(b)(7) and 19(b)(8)(D) of the Federal Reserve Act \[section 461(b)(7) and (b)(8)(D) of this title\] shall take effect on the date of enactment of this title.”
 
 #### Effective Date of 1959 Amendment
 
@@ -308,7 +308,7 @@ Amendment by Pub. L. 86–114 effective three years after July 28, 1959, see sec
 
 #### Construction of 1991 Amendment
 
-Section 1603(e)(2) of Pub. L. 102–550 provided that: “The amendment made by section 142(c) of the Federal Deposit Insurance Corporation Improvement Act of 1991\[Pub. L. 102–242\] (adding a paragraph at the end of section 11 of the Federal Reserve Act \[this section\]) shall be considered to have been executed before the amendment made by section 133(f) of the Federal Deposit Insurance Corporation Improvement Act of 1991 \[amending this section\].”
+Pub. L. 102–550, title XVI, §1603(e)(2), Oct. 28, 1992, 106 Stat. 4081, provided that: “The amendment made by section 142(c) of the Federal Deposit Insurance Corporation Improvement Act of 1991 \[Pub. L. 102–242\] (adding a paragraph at the end of section 11 of the Federal Reserve Act \[this section\]) shall be considered to have been executed before the amendment made by section 133(f) of the Federal Deposit Insurance Corporation Improvement Act of 1991 \[amending this section\].”
 
 #### Executive Order No. 6359
 

@@ -6,7 +6,7 @@ In this section, the term “clinically susceptible concentrations” means spec
 
 #### (b) Identification
 
-The Secretary of Health and Human Services (referred to in this section as the “Secretary”), through the Commissioner of Food and Drugs, shall identify (where such information is reasonably available) and periodically update clinically susceptible concentrations.
+The Secretary of Health and Human Services (referred to in this section as the “Secretary”),through the Commissioner of Food and Drugs, shall identify (where such information is reasonably available) and periodically update clinically susceptible concentrations.
 
 #### (c) Public availability
 

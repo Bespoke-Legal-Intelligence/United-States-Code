@@ -40,7 +40,7 @@ In any case in which a consolidated return is made or is required to be made, th
 
 #### (4) Income on assets acquired after the loss
 
-&emsp;The Secretary shall prescribe such regulations as may be necessary or appropriate to prevent the avoidance of the purposes of this subsection by contributing assets to the corporation with the dual consolidated loss after such loss was sustained.
+&emsp;The Secretary shall prescribe such regulations as may be necessary or appropriate toprevent the avoidance of the purposes of this subsection by contributing assets to the corporation with the dual consolidated loss after such loss was sustained.
 
 #### (e) Special rule for determining adjustments to basis
 
@@ -122,7 +122,7 @@ In any case in which a consolidated return is made or is required to be made, th
 
 #### (B) Separately computed taxable income
 
-&emsp;&emsp;The term “separately computed taxable income” means the separate taxable incomeof the subsidiary for the taxable year determined—
+&emsp;&emsp;The term “separately computed taxable income” means the separate taxable income of the subsidiary for the taxable year determined—
 
 &emsp;&emsp;&emsp;(i) by taking into account gains and losses from the sale or exchange of a capital asset and section 1231 gains and losses,
 
@@ -204,11 +204,11 @@ Subsec. (d). Pub. L. 88–272, §234(b)(1), redesignated subsec. (d) as (b).
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 11813(b)(25) of Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) ofthis title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
+Amendment by section 11813(b)(25) of Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Effective Date of 1989 Amendment
 
-Section 7201(b) of Pub. L. 101–239 provided that:
+Pub. L. 101–239, title VII, §7201(b), Dec. 19, 1989, 103 Stat. 2329, provided that:
 
 “(1)
 
@@ -220,7 +220,7 @@ Binding contract exception.—For purposes of section 1503(f)(3)(D) of the Inter
 
 “(3)
 
-Special rule when subsidiary leaves group.—If, by reason of a transaction after November 17, 1989, a corporation ceases to be, or becomes, a member of an affiliated group, the stock of such corporation shall be treated, for purposes of section 1503(f)(3)(D) of such Code, as issued on the date of such cessation or commencement, unless such transaction is of a kind which would not result in the recognition of any deferred intercompany gain under the consolidated return regulations by reason of the acquisition of the entire group.
+Special rule when subsidiary leaves group.—If, by reason of a transaction after November 17, 1989,a corporation ceases to be, or becomes, a member of an affiliated group, the stock of such corporation shall be treated, for purposes of section 1503(f)(3)(D) of such Code, as issued on the date of such cessation or commencement, unless such transaction is of a kind which would not result in the recognition of any deferred intercompany gain under the consolidated return regulations by reason of the acquisition of the entire group.
 
 “(4)
 
@@ -244,7 +244,7 @@ Special rule for certain auction rate preferred.—For purposes of section 1503(
 
 &emsp;“(C) such stock is issued before the date 30 days after the date of the enactment of this Act \[Dec. 19, 1989\].”
 
-Section 7207(b) of Pub. L. 101–239 provided that:
+Pub. L. 101–239, title VII, §7207(b), Dec. 19, 1989, 103 Stat. 2337, provided that:
 
 “(1)
 
@@ -264,7 +264,7 @@ Amendment by section 2004(j)(1)(A), (2), (3)(A) of Pub. L. 100–647 effective, 
 
 #### Effective Date of 1987 Amendment
 
-Section 10222(a)(2) of Pub. L. 100–203, as amended by Pub. L. 100–647, title II, §2004(j)(1)(B), Nov. 10, 1988, 102 Stat. 3604, provided that:
+Pub. L. 100–203, title X, §10222(a)(2), Dec. 22, 1987, 101 Stat. 1330–410, as amended by Pub. L. 100–647, title II, §2004(j)(1)(B), Nov. 10, 1988, 102 Stat. 3604, provided that:
 
 “(A)
 
@@ -302,7 +302,7 @@ Coordination with binding contract exception.—A disposition shall be treated a
 
 #### Effective Date of 1986 Amendment
 
-Section 1249(b) of Pub. L. 99–514 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to net operating losses for taxable years beginning after December 31, 1986.”
+Pub. L. 99–514, title XII, §1249(b), Oct. 22, 1986, 100 Stat. 2585, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to net operating losses for taxable years beginning after December 31, 1986.”
 
 #### Effective Date of 1984 Amendment
 
@@ -320,11 +320,11 @@ Amendment by section 1901(b)(1)(Y) of Pub. L. 94–455 applicable with respect t
 
 #### Effective Date of 1964 Amendment
 
-Section 234(c) of Pub. L. 88–272 provided that: “The amendments made by subsections (a) and (b) \[amending this section and sections 12, 172, 904, 1341, 1552, and 7701 of this title\] shall apply with respect to taxable years beginning after December 31, 1963.”
+Pub. L. 88–272, title II, §234(c), Feb. 26, 1964, 78 Stat. 116, provided that: “The amendments made by subsections (a) and (b) \[amending this section and sections 12, 172, 904, 1341, 1552, and 7701 of this title\] shall apply with respect to taxable years beginning after December 31, 1963.”
 
 #### Effective Date of 1960 Amendment
 
-Amendment by Pub. L. 86–780 applicable to taxable years beginning after Dec. 31, 1960, see section 4 of Pub. L. 86–780, set out as a note under section 904 of this title.
+Amendment by Pub. L. 86–780 applicable to taxable years beginning after Dec. 31, 1960, see section 4 of Pub.L. 86–780, set out as a note under section 904 of this title.
 
 #### Savings Provision
 

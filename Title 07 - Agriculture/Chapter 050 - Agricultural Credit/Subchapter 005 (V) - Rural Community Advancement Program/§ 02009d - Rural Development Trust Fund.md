@@ -78,7 +78,7 @@ The Secretary shall allocate the amounts in each account specified in subsection
 
 The Secretary shall make available to each State the total amount allocated for the State under subsection (f) of this section that remains after applying section 2009f of this title.
 
-(Pub. L. 87–128, title III, §381E, as added Pub. L. 104–127, title VII, §761, Apr. 4, 1996, 110 Stat. 1140;amended Pub. L. 105–86, title III, Nov. 18, 1997, 111 Stat. 2094; Pub. L. 106–472, title III, §§304(b), 305(b), Nov. 9, 2000, 114 Stat. 2071; Pub. L. 107–171, title VI, §6026(a), May 13, 2002, 116 Stat. 372; Pub. L. 110–234, title VI, §6012(b)(4), May 22, 2008, 122 Stat. 1165; Pub. L. 110–246, §4(a), title VI, §6012(b)(4), June 18, 2008, 122 Stat. 1664, 1927.)
+(Pub. L. 87–128, title III, §381E, as added Pub. L. 104–127, title VII, §761, Apr. 4, 1996, 110 Stat. 1140; amended Pub. L. 105–86, title III, Nov. 18, 1997, 111 Stat. 2094; Pub. L. 106–472, title III, §§304(b), 305(b), Nov. 9, 2000, 114 Stat. 2071; Pub. L. 107–171, title VI, §6026(a), May 13, 2002, 116 Stat. 372; Pub. L. 110–234, title VI, §6012(b)(4), May 22, 2008, 122 Stat. 1165; Pub. L. 110–246, §4(a), title VI, §6012(b)(4), June 18, 2008, 122 Stat. 1664, 1927.)
 
 #### Codification
 
@@ -110,7 +110,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 Pub. L. 112–55, div. A, title VII, §747, Nov. 18, 2011, 125 Stat. 590, provided that: “For 2012 and subsequent fiscal years—
 
-&emsp;“(1) Any balances to carry out a housing demonstration program to provide revolving loans for the preservation of low-income multi-family housing projects as authorized in Public Law 108–447 and Public Law 109–97 and a demonstration program for the preservation and revitalization of the section 515 multi-family rental housing properties as authorized by Public Law 109–97 and Public Law 110–5 shall be transferred to and merged with the ‘Rural Housing Service, Multi-family Housing Revitalization Program Account’;
+&emsp;“(1) Any balances to carry out a housing demonstration program to provide revolving loans for the preservation of low-income multi-family housing projects as authorized in Public Law 108–447 and Public Law 109–97 and a demonstration program for the preservation and revitalization of the section 515 multi-family rental housing properties as authorizedby Public Law 109–97 and Public Law 110–5 shall be transferred to and merged with the ‘Rural Housing Service, Multi-family Housing Revitalization Program Account’;
 
 &emsp;“(2) Any prior balances in the Rural Development, Rural Community Advancement Program account for programs authorized by section 306 \[7 U.S.C. 1926\] and described in section 381E(d)(1) \[7 U.S.C. 2009d(d)(1)\] of such Act \[probably means title III of Pub. L. 87–128, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter\] be transferred and merged with the ‘Rural Community Facilities Program Account’ and any other prior balances from the Rural Development, Rural Community Advancement Program account that the Secretary determines are appropriate to transfer;
 

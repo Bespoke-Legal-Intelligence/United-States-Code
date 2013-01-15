@@ -10,5 +10,5 @@ For definition of “this chapter”, referred to in text, see note set out unde
 
 #### Regulations
 
-Section 1808(b) of Pub. L. 101–624 provided that: “The Secretary of Agriculture shall not issue final regulations providing for the use of ratios and standards for determining the degree of potential loan risk undersection 331F of the Consolidated Farm and Rural Development Act \[7 U.S.C. 1981f\] (as added by subsection (a) of this section), prior to the submission of the study and report on the effects of the regulations required by section 621 of the Agricultural Credit Act of 1987 (7 U.S.C. 1989 note).”
+Pub. L. 101–624, title XVIII, §1808(b), Nov. 28, 1990, 104 Stat. 3820, provided that: “The Secretary of Agriculture shall not issue final regulations providing for the use of ratios and standards for determining the degree of potential loan risk under section 331F of the Consolidated Farm and Rural Development Act \[7 U.S.C. 1981f\] (as added by subsection (a) of this section), prior to the submission of the study and report on the effects of the regulations required by section 621 of the Agricultural Credit Act of 1987 (7 U.S.C. 1989 note).”
 

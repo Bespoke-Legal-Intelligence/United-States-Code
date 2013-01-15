@@ -40,11 +40,11 @@ A prior section 3392, added Pub. L. 95–437, §3(a), Oct. 10, 1978, 92 Stat. 10
 
 #### Effective Date of 1990 Amendment
 
-Section 7(b)(1) of Pub. L. 101–335 provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of enactment of this Act \[July 17, 1990\].”
+Pub. L. 101–335, §7(b)(1), July 17, 1990, 104 Stat. 325, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of enactment of this Act \[July 17, 1990\].”
 
 #### Election by Persons Previously Appointed; Retroactive Performance Awards
 
-Section 7(b)(2), (3) of Pub. L. 101–335, as amended by Pub. L. 102–378, §7(a), Oct. 2, 1992, 106 Stat. 1359, provided that:
+Pub. L. 101–335, §7(b)(2), (3), July 17, 1990, 104 Stat. 325, as amended by Pub. L. 102–378, §7(a), Oct. 2, 1992, 106 Stat. 1359, provided that:
 
 “(2)
 

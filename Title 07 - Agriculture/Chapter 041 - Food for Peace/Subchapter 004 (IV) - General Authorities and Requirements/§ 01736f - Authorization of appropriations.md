@@ -30,13 +30,13 @@ In presenting the Budget of the United States, the President shall classify expe
 
 #### (d) Value of commodities
 
-Notwithstanding any other provision of law, in determining the reimbursement due the Commodity Credit Corporation for all expenses incurred under this chapter, commodities from theinventory of the Commodity Credit Corporation that were acquired under dairy price support operations shall be valued at a price not greater than the export market price for such commodities, as determined by the Secretary, as of the time such commodity is made available under this chapter.
+Notwithstanding any other provision of law, in determining the reimbursement due the Commodity Credit Corporation for all expenses incurred under this chapter, commodities from the inventory of the Commodity Credit Corporation that were acquired under dairy price support operations shall be valued at a price not greater than the export market price for such commodities, as determined by the Secretary, as of the time such commodity is made available under this chapter.
 
 #### (e) Minimum level of nonemergency food assistance
 
 #### (1) Funds and commodities
 
-&emsp;Of the amounts made available to carry out emergency and nonemergency food assistance programs under subchapter III, not less than $375,000,000 for fiscal year 2009, $400,000,000 for fiscal year 2010, $425,000,000 for fiscal year 2011, and $450,000,000 for fiscal year 2012 shall be expended for nonemergency food assistance programs under subchapter III.
+&emsp;Of the amounts made available to carry out emergency and nonemergency food assistanceprograms under subchapter III, not less than $375,000,000 for fiscal year 2009, $400,000,000 for fiscal year 2010, $425,000,000 for fiscal year 2011, and $450,000,000 for fiscal year 2012 shall be expended for nonemergency food assistance programs under subchapter III.
 
 #### (2) Exception
 

@@ -50,7 +50,7 @@ Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it 
 
 #### Effective Date of 1978 Amendment
 
-Section 702(n)(5) of Pub. L. 95–600, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 95–600, title VII, §702(n)(5), Nov. 6, 1978, 92 Stat. 2936, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(A) Except as provided in subparagraph (B), the amendments made by this subsection \[amending this section, section 2602 of this title, and provisions set out as a note under section 2601 of this title\] shall take effect as if included in chapter 13 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] as added by section 2006 of the Tax Reform Act of 1976 \[Pub. L. 94–455, title XX, §2006, Oct. 4, 1976, 90 Stat. 1879\].
 

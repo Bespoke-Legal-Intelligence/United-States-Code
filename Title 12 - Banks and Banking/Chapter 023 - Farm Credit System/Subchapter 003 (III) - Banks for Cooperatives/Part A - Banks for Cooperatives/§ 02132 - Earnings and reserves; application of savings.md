@@ -40,7 +40,7 @@ Subsecs. (f), (g). Pub. L. 100–233, §805(n)(4), (5), redesignated subsec. (g)
 
 <b>1985</b>—Subsec. (a). Pub. L. 99–205, §205(e)(7), struck out subsec. (a) which provided for application of savings when bank for cooperatives has outstanding stock held by the Governor.
 
-Subsec. (b). Pub. L. 99–205, §205(e)(8)(A), substituted “At the end of each fiscal year, the net” for “Wheneverat the end of any fiscal year a bank for cooperatives shall have no outstanding capital stock held by the Governor of the Farm Credit Administration, the net”.
+Subsec. (b). Pub. L. 99–205, §205(e)(8)(A), substituted “At the end of each fiscal year, the net” for “Whenever at the end of any fiscal year a bank for cooperatives shall have no outstanding capital stock held by the Governor of the Farm Credit Administration, the net”.
 
 Subsecs. (c), (d). Pub. L. 99–205, §205(e)(8)(B), substituted “subsection (b) of this section” for “subsection (a) or (b) of this section”.
 

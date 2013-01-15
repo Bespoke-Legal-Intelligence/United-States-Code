@@ -46,7 +46,7 @@ Except as provided in subsection (f) of this section, revenues credited to the d
 
 &emsp;&emsp;(B) to make deposits, totaling $53,000,000 in the aggregate, in the Gila River Indian Community Water OM\&R Trust Fund established by section 208 of the Arizona Water Settlements Act;
 
-&emsp;&emsp;(C) to pay $147,000,000 for the rehabilitation of the San Carlos Irrigation Project, of which not more than $25,000,000 shall be available annually consistent with attachment 6.5.1 of exhibit 20.1 of the Gila River agreement, except that the total amount of $147,000,000 shall be increased or decreased, as appropriate, based on ordinary fluctuations since January 1, 2000, in construction cost indices applicable to the types of construction involved in the rehabilitation;
+&emsp;&emsp;(C) to pay $147,000,000 for the rehabilitation of the San Carlos Irrigation Project, ofwhich not more than $25,000,000 shall be available annually consistent with attachment 6.5.1 of exhibit 20.1 of the Gila River agreement, except that the total amount of $147,000,000 shall be increased or decreased, as appropriate, based on ordinary fluctuations since January 1, 2000, in construction cost indices applicable to the types of construction involved in the rehabilitation;
 
 &emsp;&emsp;(D) in addition to amounts made available for the purpose through annual appropriations, as reasonably allocated by the Secretary without regard to any trust obligation on the part of the Secretary to allocate the funding under any particular priority and without regard to priority (except that payments required by clause (i) shall be made first)—
 
@@ -62,7 +62,7 @@ Except as provided in subsection (f) of this section, revenues credited to the d
 
 &emsp;&emsp;&emsp;&emsp;(III) section 304 of the Southern Arizona Water Rights Settlement Amendments Act of 2004;
 
-&emsp;&emsp;&emsp;(iv) to pay $52,396,000 for the rehabilitation of the San Carlos Irrigation Project as provided in section 203(d)(4) of the Arizona Water Settlements Act, of which not more than $9,000,000 shall be available annually, except that the total amount of $52,396,000shall be increased or decreased, as appropriate, based on ordinary fluctuations since January 1, 2000, in construction cost indices applicable to the types of construction involved in the rehabilitation;
+&emsp;&emsp;&emsp;(iv) to pay $52,396,000 for the rehabilitation of the San Carlos Irrigation Project as provided in section 203(d)(4) of the Arizona Water Settlements Act, of which not more than $9,000,000 shall be available annually, except that the total amount of $52,396,000 shall be increased or decreased, as appropriate, based on ordinary fluctuations since January 1, 2000, in construction cost indices applicable to the types of construction involved in the rehabilitation;
 
 &emsp;&emsp;&emsp;(v) to pay other costs specifically identified under—
 
@@ -88,7 +88,7 @@ Except as provided in subsection (f) of this section, revenues credited to the d
 
 &emsp;The funds and portion of revenues described in paragraph (1) that are in excess of amounts credited under paragraph (1) shall be available, on an annual basis, without further appropriation, in order of priority—
 
-&emsp;&emsp;(A) to pay annually the fixed operation, maintenance and replacement charges associated with the delivery of Central Arizona Project water under long-term contracts held by Arizona Indian tribes (as defined in section 2 of the Arizona Water Settlements Act);
+&emsp;&emsp;(A) to pay annually the fixed operation, maintenance and replacement charges associated with the delivery of Central Arizona Project water under long-term contracts held by Arizona Indian tribes (as defined insection 2 of the Arizona Water Settlements Act);
 
 &emsp;&emsp;(B) to make the final outstanding annual payment for the costs of each unit of the projects authorized under subchapter III of this chapter that are to be repaid by the Central Arizona Water Conservation District;
 
@@ -120,7 +120,7 @@ Except as provided in subsection (f) of this section, revenues credited to the d
 
 &emsp;&emsp;&emsp;&emsp;(I) Any investments referred to in the Act of June 24, 1938 (25 U.S.C. 162a).
 
-&emsp;&emsp;&emsp;&emsp;(II) Investments in obligations of government corporations and government-sponsored entities whose charter statutes provide that their obligations arelawful investments for federally managed funds.
+&emsp;&emsp;&emsp;&emsp;(II) Investments in obligations of government corporations and government-sponsored entities whose charter statutes provide that their obligations are lawful investments for federally managed funds.
 
 &emsp;&emsp;&emsp;&emsp;(III) The obligations referred to in section 401 of title 42.
 
@@ -158,7 +158,7 @@ Except as provided in subsection (f) of this section, revenues credited to the d
 
 #### (g) Repayment of costs
 
-All revenues credited to the development fund in accordance with subsection (c)(2) of this section (excluding only those revenues derived from the sale of power and energy for use in Arizona during the payout period of the Central Arizona Project as authorized herein) and such other revenues as remain in the development fund after making the payments required by subsections (d) and (f) of this section shall be available (1) to make payments, if any, as required by sections 616aa–1 and 620d–1 of this title, (2) for repayment to the general fund of the Treasury the costs of each salinity control unit or separable feature thereof <sup>2</sup> the costs of measures to replace incidental fish and wildlife values foregone, and the costs of on-farm measures payable from the Lower Colorado River Basin Development Fund in accordance with sections 1595(a)(2), 1595(a)(3), and 1595(b) of this title and (3) upon appropriation by the Congress, to assist in the repayment of reimbursable costs incurred in connection with units hereafter constructed to provide for the augmentation of the water supplies of the Colorado River for use below Lee Ferry as may be authorized as a result of the investigations and recommendations made pursuant to sections 1511 and 1513(a) of this title.
+All revenues credited to the development fund in accordance with subsection (c)(2) of this section (excluding only those revenues derived from the sale of power and energy for use in Arizona during the payout period of the Central Arizona Project as authorized herein) and such other revenues as remain in the development fund after making the payments required by subsections (d) and (f) of this section shall be available (1) to make payments, if any, as required by sections 616aa–1 and 620d–1 of this title, (2) for repayment to the general fund of the Treasury the costs of each salinity control unit or separable feature thereof <sup>2</sup> the costs of measures to replace incidental fish and wildlife values foregone, and the costs of on-farm measures payable from the Lower Colorado River Basin Development Fund in accordance with sections 1595(a)(2), 1595(a)(3), and 1595(b) of this title and (3) upon appropriation by the Congress, to assist in the repayment of reimbursable costs incurredin connection with units hereafter constructed to provide for the augmentation of the water supplies of the Colorado River for use below Lee Ferry as may be authorized as a result of the investigations and recommendations made pursuant to sections 1511 and 1513(a) of this title.
 
 #### (h) Interest rate
 

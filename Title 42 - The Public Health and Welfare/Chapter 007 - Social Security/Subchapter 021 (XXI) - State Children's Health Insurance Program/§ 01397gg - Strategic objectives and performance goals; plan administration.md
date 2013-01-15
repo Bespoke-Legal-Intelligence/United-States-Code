@@ -256,7 +256,7 @@ Pub. L. 109–171, title VI, §6102(d), Feb. 8, 2006, 120 Stat. 132, provided th
 
 Pub. L. 109–171, title VI, §6102(c), Feb. 8, 2006, 120 Stat. 131, as amended by Pub. L. 111–3, title I, §112(a)(2)(B), Feb. 4, 2009, 123 Stat. 33, provided that: “Subject to section 2111 of the Social Security Act \[42 U.S.C. 1397kk\], as added by section 112 of the Children's Health Insurance Program Reauthorization Act of 2009 \[Pub. L. 111–3\], nothing in this section \[amending this section and section 1397ee of this title and enacting provisions set out as a note above\] or the amendments made by this section shall be construed to—
 
-&emsp;“(1) authorize the waiver of any provision of title XIX or XXI of the Social Security Act (42 U.S.C. 1396 et seq., 1397aa et seq.) that is not otherwise authorized to be waived under such titles or under title XI of such Act (42 U.S.C. 1301 et seq.) as of the date of enactment of this Act \[Feb. 8, 2006\];
+&emsp;“(1) authorize the waiver of any provision of title XIX or XXI of the Social Security Act (42 U.S.C. 1396et seq., 1397aa et seq.) that is not otherwise authorized to be waived under such titles or under title XI of such Act (42 U.S.C. 1301 et seq.) as of the date of enactment of this Act \[Feb. 8, 2006\];
 
 &emsp;“(2) imply congressional approval of any waiver, experimental, pilot, or demonstration project affecting funds made available under the State children's health insurance program under title XXI of the Social Security Act (42 U.S.C. 1397aa et. seq.) or any amendment to such a waiver or project that has been approved as of such date of enactment; or
 

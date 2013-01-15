@@ -76,7 +76,7 @@
 
 &emsp;(B) the net amount of interest actually earned by the Fund during such debt issuance suspension period.
 
-(5) For purposes of this subsection and subsections (k) and (<i>l</i>) of this section—
+(5) For purposes of this subsection and subsections (k) and (l) of this section—
 
 &emsp;(A) the term “public debt limit” means the limitation imposed by section 3101(b) of title 31; and
 
@@ -86,7 +86,7 @@
 
 (2) The Secretary may sell or redeem securities, obligations, or other invested assets of the Fund under paragraph (1) of this subsection only during a debt issuance suspension period, and only to the extent necessary to obtain any amount of funds not exceeding the amount equal to the total amount of the payments authorized to be made from the Fund under the provisions of this subchapter or chapter 84 of this title or related provisions of law during such period. A sale or redemption may be made under this subsection even if, before the sale or redemption, there is a sufficient amount in the Fund to ensure that such payments are made in a timely manner.
 
-(<i>l</i>)(1) The Secretary of the Treasury shall report to Congress on the operation and status of the Fund during each debt issuance suspension period for which the Secretary is required to take action under paragraph (3) or (4) of subsection (j) of this section. The report shall be submitted as soon as possible after the expiration of such period, but not later than the date that is 30 days after the first normal interest payment date occurring after the expiration of such period.
+(l)(1) The Secretary of the Treasury shall report to Congress on the operation and status of the Fund during each debt issuance suspension period for which the Secretary is required to take action under paragraph (3) or (4) of subsection (j) of this section. The report shall be submitted as soon as possible after the expiration of such period, but not later than the date that is 30 days after the first normal interest payment date occurring after the expiration of such period.
 
 (2) Whenever the Secretary of the Treasury determines that, by reason of the public debt limit, the Secretary will be unable to fully comply with the requirements of subsection (c) of this section, the Secretary shall immediately notify Congress of the determination. The notification shall be made in writing.
 
@@ -174,7 +174,7 @@ Subsec. (m). Pub. L. 108–18, §2(d)(1)(A), struck out subsec. (m) which read a
 
 <b>1998</b>—Subsec. (g). Pub. L. 105–362 struck out at end “The Office shall report to the President and to the Congress the sums credited to the Fund under this subsection.”
 
-<b>1996</b>—Subsec. (<i>l</i>)(1). Pub. L. 104–316 struck out at end “The Secretary shall concurrently transmit a copy of such report to the Comptroller General of the United States.”
+<b>1996</b>—Subsec. (l)(1). Pub. L. 104–316 struck out at end “The Secretary shall concurrently transmit a copy of such report to the Comptroller General of the United States.”
 
 <b>1995</b>—Subsec. (a)(1)(B). Pub. L. 104–52 inserted “in making an allotment or assignment made by an individual under section 8345(h) or 8465(b) of this title,” after “of law),” and “or section 8345(k) or 8469 of this title” before semicolon at end.
 
@@ -192,7 +192,7 @@ Subsec. (m)(1). Pub. L. 101–508, §7101(a), substituted “July 1, 1971” for
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–335 inserted reference to provisions of chapter 84 of this title which relate to benefits payable out of the Fund in par. (1)(A), inserted “or 8462” and reference to subchapters II and IV of chapter 84 of this title in par. (1)(B), and inserted reference to chapter 84 of this title in par. (2).
 
-Subsecs. (j) to (<i>l</i>). Pub. L. 99–509 added subsecs. (j) to (<i>l</i>).
+Subsecs. (j) to (l). Pub. L. 99–509 added subsecs. (j) to (l).
 
 <b>1984</b>—Subsec. (a)(1)(B). Pub. L. 98–615 inserted “, in administering survivor annuities and elections providing therefor under sections 8339 and 8341 of this title,”.
 
@@ -288,7 +288,7 @@ Reconsideration.—Upon receiving the report from the Commission under paragraph
 
 #### Payments To Reimburse Fund for Increase in Unfunded Liability
 
-Pub. L. 105–261, div. C, title XXXI, §3154(<i>l</i>), Oct. 17, 1998, 112 Stat. 2256, provided that:
+Pub. L. 105–261, div. C, title XXXI, §3154(l), Oct. 17, 1998, 112 Stat. 2256, provided that:
 
 “(1) The Department of Energy shall pay into the Civil Service Retirement and Disability Fund an amount determined by the Director of the Office of Personnel Management to be necessary to reimburse the Fund for any estimated increase in the unfunded liability of the Fund resulting from the amendments related to the Civil Service Retirement System under this section \[amending sections 3307, 8331, 8334 to 8336, 8401, 8412, 8415, 8422, 8423, and 8425 of this title\], and for any estimated increase in the supplemental liability of the Fund resulting from the amendments related to the Federal Employees Retirement System under this section.
 

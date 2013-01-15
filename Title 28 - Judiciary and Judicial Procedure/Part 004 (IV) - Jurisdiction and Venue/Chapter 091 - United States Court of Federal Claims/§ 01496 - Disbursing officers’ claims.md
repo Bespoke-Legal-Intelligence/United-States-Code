@@ -1,6 +1,6 @@
 ### §1496. Disbursing officers’ claims
 
-The United States Court of Federal Claims shall have jurisdiction to render judgment upon any claim by a disbursing officer of the United States or by his administrator or executor for relief from responsibility for loss, in line of duty, of Government funds, vouchers, records or other papers in his charge.
+The United States Court of Federal Claims shall have jurisdiction to render judgment uponany claim by a disbursing officer of the United States or by his administrator or executor for relief from responsibility for loss, in line of duty, of Government funds, vouchers, records or other papers in his charge.
 
 (June 25, 1948, ch. 646, 62 Stat. 941; Pub. L. 97–164, title I, §133(c)(1), Apr. 2, 1982, 96 Stat. 40; Pub. L. 102–572, title IX, §902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
 

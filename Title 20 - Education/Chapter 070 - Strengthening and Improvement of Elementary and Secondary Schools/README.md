@@ -333,15 +333,9 @@
 
 #### Division A—Troops-to-Teachers Program
 
-|  |  |
-| :--- | ---: |
-| [6671\.](Subchapter%20002%20%28II%29%20-%20Preparing%2C%20Training%2C%20and%20Recruiting%20High%20Quality%20Teachers%20and%20Principals/Part%20C%20-%20Innovation%20for%20Teacher%20Quality/Subpart%20001%20-%20Transitions%20to%20Teaching/Division%20A%20-%20Troops-to-Teachers%20Program/%C2%A7%2006671%20-%20Definitions.md) | Definitions. |
-| [6672\.](Subchapter%20002%20%28II%29%20-%20Preparing%2C%20Training%2C%20and%20Recruiting%20High%20Quality%20Teachers%20and%20Principals/Part%20C%20-%20Innovation%20for%20Teacher%20Quality/Subpart%20001%20-%20Transitions%20to%20Teaching/Division%20A%20-%20Troops-to-Teachers%20Program/%C2%A7%2006672%20-%20Authorization%20of%20Troops-to-Teachers%20Program.md) | Authorization of Troops-to-Teachers Program. |
-| [6673\.](Subchapter%20002%20%28II%29%20-%20Preparing%2C%20Training%2C%20and%20Recruiting%20High%20Quality%20Teachers%20and%20Principals/Part%20C%20-%20Innovation%20for%20Teacher%20Quality/Subpart%20001%20-%20Transitions%20to%20Teaching/Division%20A%20-%20Troops-to-Teachers%20Program/%C2%A7%2006673%20-%20Recruitment%20and%20selection%20of%20program%20participants.md) | Recruitment and selection of program participants. |
-| [6674\.](Subchapter%20002%20%28II%29%20-%20Preparing%2C%20Training%2C%20and%20Recruiting%20High%20Quality%20Teachers%20and%20Principals/Part%20C%20-%20Innovation%20for%20Teacher%20Quality/Subpart%20001%20-%20Transitions%20to%20Teaching/Division%20A%20-%20Troops-to-Teachers%20Program/%C2%A7%2006674%20-%20Participation%20agreement%20and%20financial%20assistance.md) | Participation agreement and financial assistance. |
-| [6675\.](Subchapter%20002%20%28II%29%20-%20Preparing%2C%20Training%2C%20and%20Recruiting%20High%20Quality%20Teachers%20and%20Principals/Part%20C%20-%20Innovation%20for%20Teacher%20Quality/Subpart%20001%20-%20Transitions%20to%20Teaching/Division%20A%20-%20Troops-to-Teachers%20Program/%C2%A7%2006675%20-%20Participation%20by%20States.md) | Participation by States. |
-| [6676\.](Subchapter%20002%20%28II%29%20-%20Preparing%2C%20Training%2C%20and%20Recruiting%20High%20Quality%20Teachers%20and%20Principals/Part%20C%20-%20Innovation%20for%20Teacher%20Quality/Subpart%20001%20-%20Transitions%20to%20Teaching/Division%20A%20-%20Troops-to-Teachers%20Program/%C2%A7%2006676%20-%20Support%20of%20innovative%20preretirement%20teacher%20certification%20programs.md) | Support of innovative preretirement teacher certification programs. |
-| [6677\.](Subchapter%20002%20%28II%29%20-%20Preparing%2C%20Training%2C%20and%20Recruiting%20High%20Quality%20Teachers%20and%20Principals/Part%20C%20-%20Innovation%20for%20Teacher%20Quality/Subpart%20001%20-%20Transitions%20to%20Teaching/Division%20A%20-%20Troops-to-Teachers%20Program/%C2%A7%2006677%20-%20Reporting%20requirements.md) | Reporting requirements. |
+|  |
+| :--- |
+| 6671 to 6677. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -4,23 +4,19 @@ Mississippi is divided into two judicial districts to be known as the northern a
 
 ### Northern District
 
-(a) The northern district comprises four divisions.
+(a) The northern district comprises three divisions.
 
-&emsp;&emsp;(1) Eastern division comprises the counties of Alcorn, Attala, Chickasaw, Choctaw, Clay, Itawamba, Lee, Lowndes, Monroe, Oktibbeha, Prentiss, Tishomingo, and Winston.
+&emsp;&emsp;(1) The Aberdeen Division comprises the counties of Alcorn, Chickasaw, Choctaw, Clay, Itawamba, Lee, Lowndes, Monroe, Oktibbeha, Prentiss, Tishomingo, Webster, and Winston.
 
-&emsp;&emsp;Court for the eastern division shall be held at Aberdeen, Ackerman, and Corinth.
+&emsp;&emsp;Court for the Aberdeen Division shall be held at Aberdeen, Ackerman, and Corinth.
 
-&emsp;&emsp;(2) The western division comprises the counties of Benton, Calhoun, Grenada, Lafayette, Marshall, Montgomery, Pontotoc, Tippah, Union, Webster, and Yalobusha.
+&emsp;&emsp;(2) The Oxford Division comprises the counties of Benton, Calhoun, DeSoto, Lafayette, Marshall, Panola, Pontotoc, Quitman, Tallahatchie, Tate, Tippah, Tunica, Union, and Yalobusha.
 
-&emsp;&emsp;Court for the Western division shall be held at Oxford.
+&emsp;&emsp;Court for the Oxford Division shall be held at Oxford.
 
-&emsp;&emsp;(3) The Delta division comprises the counties of Bolivar, Coahoma, De Soto, Panola, Quitman, Tallahatchie, Tate, and Tunica.
+&emsp;&emsp;(3) The Greenville Division comprises the counties of Attala, Bolivar, Carroll, Coahoma, Grenada, Humphreys, Leflore, Montgomery, Sunflower, and Washington.
 
-&emsp;&emsp;Court for the Delta division shall be held at Clarksdale and Cleveland.
-
-&emsp;&emsp;(4) The Greenville division comprises the counties of Carroll, Humphreys, Leflore, Sunflower, and Washington.
-
-&emsp;&emsp;Court for the Greenville division shall be held at Greenville.
+&emsp;&emsp;Court for the Greenville Division shall be held at Clarksdale, Cleveland, and Greenville.
 
 ### Southern District
 
@@ -46,7 +42,7 @@ Mississippi is divided into two judicial districts to be known as the northern a
 
 &emsp;&emsp;Court for the Hattiesburg division shall be held at Hattiesburg.
 
-(June 25, 1948, ch. 646, 62 Stat. 883; Aug. 7, 1950, ch. 601, 64 Stat. 415; Pub. L. 90–92, Sept. 27, 1967, 81 Stat. 229; Pub. L. 91–546, §§2, 3, Dec. 14, 1970, 84 Stat. 1412; Pub. L. 95–408, §2(b), Oct. 2, 1978, 92 Stat. 883; Pub. L. 106–130, §1, Dec. 6, 1999, 113 Stat. 1677; Pub. L. 108–455, §2, Dec. 10, 2004, 118 Stat. 3628.)
+(June 25, 1948, ch. 646, 62 Stat. 883; Aug. 7, 1950, ch. 601, 64 Stat. 415; Pub. L. 90–92, Sept. 27, 1967, 81 Stat. 229; Pub. L. 91–546, §§2, 3, Dec. 14, 1970, 84 Stat. 1412; Pub. L. 95–408, §2(b), Oct. 2, 1978, 92 Stat. 883; Pub. L. 106–130, §1, Dec. 6, 1999, 113 Stat. 1677; Pub. L. 108–455, §2, Dec. 10, 2004, 118 Stat. 3628; Pub. L. 112–188, §3, Oct. 5, 2012, 126 Stat. 1433.)
 
 #### Historical and Revision Notes
 
@@ -57,6 +53,8 @@ Provisions relating to the maintenance of offices by the clerks and marshals wer
 Changes in arrangement and phraseology were made.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a). Pub. L. 112–188 added subsec. (a) and struck out former subsec. (a) which related to northern judicial district of Mississippi comprising four divisions and provided for holding court in those divisions.
 
 <b>2004</b>—Subsec. (a)(3). Pub. L. 108–455 inserted “and Cleveland” after “Clarksdale”.
 
@@ -71,6 +69,10 @@ Subsec. (b)(4). Pub. L. 91–546, §2, provided for holding court at Gulfport.
 <b>1967</b>—Subsec. (a)(1). Pub. L. 90–92 provided for holding court at Ackerman.
 
 <b>1950</b>—Act Aug. 7, 1950, created Greenville division in the northern district with terms of courts to be held at Greenville.
+
+#### Effective Date of 2012 Amendment
+
+Pub. L. 112–188, §4, Oct. 5, 2012, 126 Stat. 1434, provided that: “The amendments made by this Act \[amending this section and section 105 of this title\] take effect on the 60th day after the date of the enactment of this Act \[Oct. 5, 2012\].”
 
 #### Effective Date of 1978 Amendment; Savings Provision
 

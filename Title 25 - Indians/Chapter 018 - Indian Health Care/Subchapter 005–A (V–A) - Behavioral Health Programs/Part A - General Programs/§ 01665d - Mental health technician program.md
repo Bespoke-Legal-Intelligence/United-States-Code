@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Pursuant to section 13 of this title, the Secretary shall establish and maintain a mental health technician program within the Service which—
+Pursuant to section 13 of this title, the Secretary shall establish and maintain a mentalhealth technician program within the Service which—
 
 &emsp;(1) provides for the training of Indians as mental health technicians; and
 
@@ -10,7 +10,7 @@ Pursuant to section 13 of this title, the Secretary shall establish and maintain
 
 #### (b) Paraprofessional training
 
-In carrying out subsection (a), the Secretary, acting through the Service, shall provide high-standard paraprofessional training in mentalhealth care necessary to provide quality care to the Indian communities to be served. Such training shall be based upon a curriculum developed or approved by the Secretary which combines education in the theory of mental health care with supervised practical experience in the provision of such care.
+In carrying out subsection (a), the Secretary, acting through the Service, shall provide high-standard paraprofessional training in mental health care necessary to provide quality care to the Indian communities to be served. Such training shall be based upon a curriculum developed or approved by the Secretary which combines education in the theory of mental health care with supervised practical experience in the provision of such care.
 
 #### (c) Supervision and evaluation of technicians
 

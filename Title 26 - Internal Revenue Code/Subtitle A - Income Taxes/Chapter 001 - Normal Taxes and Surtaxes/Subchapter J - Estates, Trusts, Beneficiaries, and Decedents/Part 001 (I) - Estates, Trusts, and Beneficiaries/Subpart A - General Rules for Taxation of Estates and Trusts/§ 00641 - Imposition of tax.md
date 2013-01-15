@@ -60,7 +60,7 @@ The taxable income of an estate or trust shall be computed in the same manner as
 
 #### (4) Treatment of unused deductions where termination of separate trust
 
-&emsp;If a portion of an electing small business trust ceases to be treated as a separate trust under paragraph (1), any carryover or excess deduction of the separate trust which is referred to in section 642(h) shall be taken into account by the entire trust.
+&emsp;If a portion of an electing small business trust ceases to be treated as a separate trustunder paragraph (1), any carryover or excess deduction of the separate trust which is referred to in section 642(h) shall be taken into account by the entire trust.
 
 #### (5) Electing small business trust
 
@@ -108,7 +108,7 @@ Amendment by Pub. L. 105–34 effective as if included in the provisions of the 
 
 #### Effective Date of 1996 Amendment
 
-Section 1317(a) of title I of Pub. L. 104–188 provided that: “Except as otherwise provided in this subtitle \[subtitle C (§§1301–1317) of title I of Pub. L. 104–188\], the amendments made by this subtitle \[amending this section and sections 170, 404, 512, 1042, 1237, 1361, 1362, 1366 to 1368, 1371, 1375, 1377, 1504, 6037, and 6233 of this title and repealing sections 6241 to 6245 of this title\] shall apply to taxable years beginning after December 31, 1996.”
+Pub. L. 104–188, title I, §1317(a), Aug. 20, 1996, 110 Stat. 1787, provided that: “Except as otherwise provided in this subtitle \[subtitle C (§§1301–1317) of title I of Pub. L. 104–188\], the amendments made by this subtitle \[amending this section and sections 170, 404, 512, 1042, 1237, 1361, 1362, 1366 to 1368, 1371, 1375, 1377, 1504, 6037, and 6233 of this title and repealing sections 6241 to 6245 of this title\] shall apply to taxable years beginning after December 31, 1996.”
 
 #### Effective Date of 1977 Amendment
 

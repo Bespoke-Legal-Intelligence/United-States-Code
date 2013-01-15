@@ -8,7 +8,7 @@ The following shall be covered into the Treasury:
 
 &emsp;(3) Stoppage against members of the National Guard for the loss or destruction of, or damage to, property described in clause (1).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 616; Pub. L. 100–456, div. A, title XII, §1234(b)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 109–163, div. A, title X, §1057(b)(3), Jan. 6, 2006, 119 Stat. 3441.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 616; Pub. L. 100–456, div. A, title XII, §1234(b)(1), Sept. 29,1988, 102 Stat. 2059; Pub. L. 109–163, div. A, title X, §1057(b)(3), Jan. 6, 2006, 119 Stat. 3441.)
 
 Historical and Revision Notes
 

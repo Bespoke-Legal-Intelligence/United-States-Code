@@ -16,7 +16,7 @@ As used in this subpart:
 
 #### (4) Operates
 
-&emsp;The term “operates”, as used with respect to a fixed route system or demand responsive system, includes operation of such system by a person under a contractual or other arrangement or relationship with a public entity.
+&emsp;The term “operates”, as used with respect to a fixed route system or demand responsivesystem, includes operation of such system by a person under a contractual or other arrangement or relationship with a public entity.
 
 #### (5) Public school transportation
 
@@ -30,7 +30,7 @@ As used in this subpart:
 
 #### Effective Date
 
-Section 231 of Pub. L. 101–336 provided that:
+Pub. L. 101–336, title II, §231, July 26, 1990, 104 Stat. 346, provided that:
 
 “(a)
 

@@ -18,5 +18,5 @@ If—
 
 #### Effective Date of 1989 Amendment
 
-Section 7743(b) of Pub. L. 101–239 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to failures after December 31, 1989.”
+Pub. L. 101–239, title VII, §7743(b), Dec. 19, 1989, 103 Stat. 2406, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to failures after December 31, 1989.”
 

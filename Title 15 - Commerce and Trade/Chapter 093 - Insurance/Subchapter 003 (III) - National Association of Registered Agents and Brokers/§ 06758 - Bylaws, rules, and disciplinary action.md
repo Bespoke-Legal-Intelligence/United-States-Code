@@ -76,7 +76,7 @@
 
 #### (B) Approval before end of notice period
 
-&emsp;&emsp;The NAIC shall not approve any proposed rule before the end of the 30-day period beginning on the date on which the Association files proposed rules or amendments in accordance with paragraph (1), unless the NAIC finds good cause for so doing and sets forth the reasons for so finding.
+&emsp;&emsp;The NAIC shall not approve any proposed rule before the end of the 30-day period beginning on the date on which the Association files proposed rules or amendments in accordance with paragraph (1), unless theNAIC finds good cause for so doing and sets forth the reasons for so finding.
 
 #### (5) Alternate procedure
 

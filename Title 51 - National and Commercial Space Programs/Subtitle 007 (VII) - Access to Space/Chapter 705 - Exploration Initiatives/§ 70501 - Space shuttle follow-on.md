@@ -32,7 +32,7 @@ Pub. L. 109–155, title V, §501(a), (b), Dec. 30, 2005, 119 Stat. 2927.
 
 In subsection (b), the words “The Administrator shall transmit an annual report” are substituted for “Not later than 180 days after the date of enactment of this Act \[December 30, 2005\] and annually thereafter, the Administrator shall transmit a report” to eliminate obsolete language.
 
-In subsection (b), the words “Committee on Science and Technology” are substituted for “Committee on Science” on authority of Rule X(1)(<i>o</i>) of the Rules of the House of Representatives, adopted by House Resolution No. 6 (110th Congress, January 5, 2007).
+In subsection (b), the words “Committee on Science and Technology” are substituted for “Committee onScience” on authority of Rule X(1)(o) of the Rules of the House of Representatives, adopted by House Resolution No. 6 (110th Congress, January 5, 2007).
 
 #### Change of Name
 
@@ -106,5 +106,5 @@ Plan.—Not later than 180 days after the date of enactment of this Act \[Dec. 3
 
 “(c)
 
-Personnel.—The Administrator shall consult with other appropriate Federal agencies and with NASA contractors and employees to develop a transition plan for any Federal and contractor personnel engaged in the Space Shuttle program who can no longer be retained because of the retirement of the Space Shuttle. The plan shall include actions to assist Federal and contractor personnel in taking advantage of training, retraining, job placement and relocation programs, and any other actions that NASA will take to assist the employees. The plan shall also describe how the Administrator will ensure that NASA and its contractors will have an appropriate complement of employees to allow for the safest possible use of the Space Shuttle through its final flight. The Administrator shall transmit the plan to the Committee on Science \[now Committee, Space, on Science and Technology\] of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate not later than March 31, 2006.”
+Personnel.—The Administrator shall consult with other appropriate Federal agencies and with NASA contractors and employees to develop a transition plan for any Federal and contractor personnel engaged in the Space Shuttle program who can no longer be retained because of the retirement of the Space Shuttle. The plan shall include actions to assist Federal and contractor personnel in taking advantage of training, retraining, job placement and relocation programs, and any other actions that NASA will take to assist the employees. The plan shall also describe how the Administrator will ensure that NASA and its contractors will have an appropriate complement of employees to allow for the safest possible use of the Space Shuttle through its final flight. The Administrator shall transmit the plan to the Committee on Science \[now Committee on Science, Space, and Technology\] of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate not later than March 31, 2006.”
 

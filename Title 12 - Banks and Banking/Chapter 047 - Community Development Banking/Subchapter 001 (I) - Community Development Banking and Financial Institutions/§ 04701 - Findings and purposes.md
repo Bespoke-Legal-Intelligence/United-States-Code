@@ -6,7 +6,7 @@ The Congress finds that—
 
 &emsp;(1) many of the Nation's urban, rural, and Native American communities face critical social and economic problems arising in part from the lack of economic growth, people living in poverty, and the lack of employment and other opportunities;
 
-&emsp;(2) the restoration and maintenance of the economies of these communities will requirecoordinated development strategies, intensive supportive services, and increased access to equity investments and loans for development activities, including investment in businesses, housing, commercial real estate, human development, and other activities that promote the long-term economic and social viability of the community; and
+&emsp;(2) the restoration and maintenance of the economies of these communities will require coordinated development strategies, intensive supportive services, and increased access to equity investments and loans for development activities, including investment in businesses, housing, commercial real estate, human development, and other activities that promote the long-term economic and social viability of the community; and
 
 &emsp;(3) community development financial institutions have proven their ability to identify and respond to community needs for equity investments, loans, and development services.
 
@@ -22,7 +22,7 @@ This subchapter, referred to in subsec. (b), was in original “this subtitle”
 
 #### Short Title
 
-Section 1(a) of Pub. L. 103–325 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Riegle Community Development and Regulatory Improvement Act of 1994’.”
+Pub. L. 103–325, §1(a), Sept. 23, 1994, 108 Stat. 2160, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Riegle Community Development and Regulatory Improvement Act of 1994’.”
 
-Section 101 of title I of Pub. L. 103–325 provided that: “This subtitle \[subtitle A (§§101–121) of title I of Pub. L. 103–325, enacting this subchapter and section 1772c–1 of this title, amending sections 1766 and 1834a of this title, section 5313 of Title 5, Government Organization and Employees, section 11 of Pub. L. 95–452 set out in the Appendix to Title 5, section 657 of Title 18, Crimes and Criminal Procedure, and section 9101 of Title 31, Money and Finance, and enacting provisions set out as a note under section 11 of Pub. L. 95–452 set out in the Appendix to Title 5\] may be cited as the ‘Community Development Banking and Financial Institutions Act of 1994’.”
+Pub. L. 103–325, title I, §101, Sept. 23, 1994, 108 Stat. 2163, provided that: “This subtitle \[subtitle A (§§101–121) of title I of Pub. L. 103–325, enacting this subchapter and section 1772c–1 of this title, amending sections 1766 and 1834a of this title, section 5313 of Title 5, Government Organization and Employees, section 11 of Pub. L. 95–452 set out in the Appendix to Title 5, section 657 of Title 18, Crimes and Criminal Procedure, and section 9101 of Title 31, Money and Finance, and enacting provisions set out as a note under section 11 of Pub. L. 95–452 set out in the Appendix to Title 5\] may be cited as the ‘Community Development Banking and Financial Institutions Act of 1994’.”
 

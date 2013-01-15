@@ -68,7 +68,7 @@ Every corporation shall, when required by the Secretary—
 
 <b>1996</b>—Subsec. (c)(1). Pub. L. 104–168 substituted “name, address, and phone number of the information contact” for “name and address”.
 
-<b>1986</b>—Subsec. (c). Pub. L. 99–514, in amending subsec. (c) generally, substituted “information is required” for “information is furnished” in heading and, in text, substituted references to persons required to make returns for former references to persons making returns and struck out provisions directing that no statement was required to be furnished to any person under this subsection if the aggregate amount of payments to such person as shown on the return made under subsec. (a)(1) was less than $10.
+<b>1986</b>—Subsec. (c). Pub. L. 99–514, in amending subsec. (c) generally, substituted “information is required” for“information is furnished” in heading and, in text, substituted references to persons required to make returns for former references to persons making returns and struck out provisions directing that no statement was required to be furnished to any person under this subsection if the aggregate amount of payments to such person as shown on the return made under subsec. (a)(1) was less than $10.
 
 <b>1984</b>—Subsec. (b)(2). Pub. L. 98–369, in amending par. (2) generally, designated existing provision as subpar. (A), redesignated as cls. (i) and (ii) of subpar. (A) text formerly designated (A) and (B), and added subpar. (B).
 
@@ -80,7 +80,7 @@ Subsec. (b)(2). Pub. L. 97–354 redesignated cl. (A)(i) as subpar. (A) and cl. 
 
 <b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-<b>1962</b>—Pub. L. 87–834 substituted “Returns regarding payments of dividends and corporate earnings and profits” for “Returns regarding corporate dividends, earnings, and profits” in section catchline, added subsecs. (a) to (c), designated existing provisions of section as subsec. (d), and substituted in par. (1) of subsec. (d) “furnish to the Secretary or his delegate a statement stating the name and address of each shareholder, and the number of shares owned by each shareholder” for “Make a return of its payments of dividends, statingthe name and address of, the number of shares owned by, and the amount of dividends paid to, each shareholder.”
+<b>1962</b>—Pub. L. 87–834 substituted “Returns regarding payments of dividends and corporate earnings and profits” for “Returns regarding corporate dividends, earnings, and profits” in section catchline, added subsecs. (a) to (c), designated existing provisions of section as subsec. (d), and substituted in par. (1) of subsec. (d) “furnish to the Secretary or his delegate a statement stating the name and address of each shareholder, and the number of shares owned by each shareholder” for “Make a return of its payments of dividends, stating the name and address of, the number of shares owned by, and the amount of dividends paid to, each shareholder.”
 
 #### Effective Date of 1996 Amendment
 
@@ -104,7 +104,7 @@ Amendment by Pub. L. 97–354 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1962 Amendment
 
-Section 19(h) of Pub. L. 87–834, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 87–834, §19(h), Oct. 16, 1962, 76 Stat. 1058, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 

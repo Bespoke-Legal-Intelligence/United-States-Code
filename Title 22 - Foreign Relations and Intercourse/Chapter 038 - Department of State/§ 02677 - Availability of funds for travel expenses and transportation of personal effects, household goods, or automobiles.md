@@ -6,5 +6,5 @@ Appropriated funds made available to the Department of State for expenses in con
 
 #### Codification
 
-Section was formerly classified to section 170<i>o</i> of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 170o of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 

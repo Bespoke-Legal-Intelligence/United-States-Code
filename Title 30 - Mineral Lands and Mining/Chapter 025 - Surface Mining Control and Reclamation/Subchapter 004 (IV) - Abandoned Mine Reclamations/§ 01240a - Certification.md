@@ -102,13 +102,17 @@ The provisions of sections 1237 and 1238 of this title shall apply to subsection
 
 #### (A) In general
 
-&emsp;&emsp;The amount allocated to any State or Indian tribe under subparagraph (A) or (B) of section 1232(g)(1) of this title that is paid to the State or Indian tribe as a result of a payment under paragraph (1) or (2) shall be reallocated and available for grants under section 1232(g)(5) of this title.
+&emsp;&emsp;The annual amount allocated under subparagraph (A) or (B) of section 1232(g)(1) of this title to any State or Indian tribe that makes a certification under subsection (a) of this section in which the Secretary concurs shall be reallocated and available for grants under section 1232(g)(5) of this title.
 
 #### (B) Allocation
 
 &emsp;&emsp;The grants shall be allocated based on the amount of coal historically produced before August 3, 1977, in the same manner as under section 1232(g)(5) of this title.
 
-(Pub. L. 95–87, title IV, §411, as added Pub. L. 101–508, title VI, §6010(2), Nov. 5, 1990, 104 Stat. 1388–296; amended Pub. L. 109–432, div. C, title II, §206, Dec. 20, 2006, 120 Stat. 3016.)
+#### (5) Limitation on annual payments
+
+&emsp;Notwithstanding any other provision of this subsection, the total annual payment to a certified State or Indian tribe under this subsection shall be not more than $15,000,000.
+
+(Pub. L. 95–87, title IV, §411, as added Pub. L. 101–508, title VI, §6010(2), Nov. 5, 1990, 104 Stat. 1388–296; amended Pub. L. 109–432, div. C, title II, §206, Dec. 20, 2006, 120 Stat. 3016; Pub. L. 112–141, div. F, title I, §100125, July 6, 2012, 126 Stat. 915; Pub. L. 112–175, §142, Sept. 28, 2012, 126 Stat. 1321.)
 
 #### References in Text
 
@@ -121,6 +125,10 @@ The Comprehensive Environmental Response Compensation and Liability Act of 1980,
 A prior section 411 of Pub. L. 95–87 was renumbered section 412 and was classified to section 1241 of this title, prior to being omitted from the Code.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (h)(4)(A). Pub. L. 112–175 amended subpar. (A) generally. Prior to amendment, text read as follows: “The amount allocated to any State or Indian tribe under subparagraph (A) or (B) of section 1232(g)(1) of this title that is paid to the State or Indian tribe as a result of a payment under paragraph (1) or (2) shall be reallocated and available for grants under section 1232(g)(5) of this title.”
+
+Subsec. (h)(5). Pub. L. 112–141 added par. (5).
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–432, §206(1), designated existing provisions as par. (1) and added par. (2).
 

@@ -100,7 +100,7 @@ As used in this subpart:
 
 For other definitions of other terms used in this subpart, see section 675 of this title.
 
-(Aug. 14, 1935, ch. 531, title IV, §431, as added Pub. L. 103–66, title XIII, §13711(a)(2), Aug. 10,1993, 107 Stat. 650; amended Pub. L. 105–89, title III, §305(b)(2), (c)(2), (d)(1), Nov. 19, 1997, 111 Stat. 2131, 2132; Pub. L. 106–169, title IV, §401(e), Dec. 14, 1999, 113 Stat. 1858; Pub. L. 107–133, title I, §102, Jan. 17, 2002, 115 Stat. 2415; Pub. L. 109–288, §11(c), Sept. 28, 2006, 120 Stat. 1255; Pub. L. 112–34, title I, §102(c), (d), Sept. 30, 2011, 125 Stat. 371, 372.)
+(Aug. 14, 1935, ch. 531, title IV, §431, as added Pub. L. 103–66, title XIII, §13711(a)(2), Aug. 10, 1993, 107 Stat. 650; amended Pub. L. 105–89, title III, §305(b)(2), (c)(2), (d)(1), Nov. 19, 1997, 111 Stat. 2131, 2132; Pub. L. 106–169, title IV, §401(e), Dec. 14, 1999, 113 Stat. 1858; Pub. L. 107–133, title I, §102, Jan. 17, 2002, 115 Stat. 2415; Pub. L. 109–288, §11(c), Sept. 28, 2006, 120 Stat. 1255; Pub. L. 112–34, title I, §102(c), (d), Sept. 30, 2011, 125 Stat. 371, 372.)
 
 #### Prior Provisions
 
@@ -160,5 +160,5 @@ Amendment by Pub. L. 106–169 effective as if included in the enactment of the 
 
 Amendment by section 305(b)(2), (c)(2) of Pub. L. 105–89 effective Nov. 19, 1997, except as otherwise provided, with delay permitted if State legislation is required, see section 501 of Pub. L. 105–89, set out as a note under section 622 of this title.
 
-Section 305(d)(2) of Pub. L. 105–89 provided that: “The amendment made by paragraph (1) \[amending this section\] takes effect as if included in the enactment of section 13711 of the Omnibus Budget Reconciliation Act of 1993 (Public Law 103–33 \[103–66\]; 107 Stat. 649).”
+Pub. L. 105–89, title III, §305(d)(2), Nov. 19, 1997, 111 Stat. 2132, provided that: “The amendment made by paragraph (1) \[amending this section\] takes effect as if included in the enactment of section 13711 of the Omnibus Budget Reconciliation Act of 1993 (Public Law 103–33 \[103–66\]; 107 Stat. 649).”
 

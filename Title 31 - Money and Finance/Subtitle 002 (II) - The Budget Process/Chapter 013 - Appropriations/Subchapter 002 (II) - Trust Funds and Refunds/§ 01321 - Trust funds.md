@@ -196,7 +196,7 @@
 
 &emsp;(D) Fisher House Trust Fund, Department of the Navy.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 919; Pub. L. 98–426, §27(d)(2), Sept. 28, 1984, 98 Stat. 1654; Pub. L. 101–189, div. A, title III, §341(a), Nov. 29, 1989, 103 Stat. 1419; Pub. L. 101–510, div. A, title XV, §1533(c)(1), Nov. 5, 1990, 104 Stat. 1735; Pub. L. 102–54, §13(<i>l</i>)(1), June 13, 1991, 105 Stat. 277; Pub. L. 103–322, title XXXI, §310001(d), Sept. 13, 1994, 108 Stat. 2103; Pub. L. 104–106, div. A, title IX, §914(c), Feb. 10, 1996, 110 Stat. 413; Pub. L. 104–201, div. A, title X, §1008(c), Sept. 23, 1996, 110 Stat. 2633; Pub. L. 105–261, div. A, title IX, §906(f)(2), Oct. 17, 1998, 112 Stat. 2096; Pub. L. 108–199, div. B, title VI, §633(f), Jan. 23, 2004, 118 Stat. 101.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 919; Pub. L. 98–426, §27(d)(2), Sept. 28, 1984, 98 Stat. 1654; Pub. L. 101–189, div. A, title III, §341(a), Nov. 29, 1989, 103 Stat. 1419; Pub. L. 101–510, div. A, title XV, §1533(c)(1), Nov. 5, 1990, 104 Stat. 1735; Pub. L. 102–54, §13(l)(1), June 13, 1991, 105 Stat. 277; Pub. L. 103–322, title XXXI, §310001(d), Sept. 13, 1994, 108 Stat. 2103; Pub. L. 104–106, div. A, title IX, §914(c), Feb. 10, 1996, 110 Stat. 413; Pub. L. 104–201, div. A, title X, §1008(c), Sept. 23, 1996, 110 Stat. 2633; Pub. L. 105–261, div. A, title IX, §906(f)(2), Oct. 17, 1998, 112 Stat. 2096; Pub. L. 108–199, div. B, title VI, §633(f), Jan. 23, 2004, 118 Stat. 101.)
 
 Historical and Revision Notes
 
@@ -274,7 +274,7 @@ Pub. L. 105–261, div. A, title IX, §906(f)(3), Oct. 17, 1998, 112 Stat. 2096,
 
 #### Effective Date of 1989 Amendment
 
-Section 341(b) of Pub. L. 101–189 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to appropriations for the operation of the United States Soldiers’ and Airmen's Home \[now Armed Forces Retirement Home—Washington\] made for fiscal years after fiscal year 1990.”
+Pub. L. 101–189, div. A, title III, §341(b), Nov. 29, 1989, 103 Stat. 1419, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to appropriations for the operation of the United States Soldiers’ and Airmen's Home \[now Armed Forces Retirement Home—Washington\] made for fiscal years after fiscal year 1990.”
 
 #### Effective Date of 1984 Amendment
 

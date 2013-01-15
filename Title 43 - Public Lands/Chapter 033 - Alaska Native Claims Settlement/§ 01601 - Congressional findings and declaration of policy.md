@@ -38,7 +38,7 @@ Pub. L. 105–333, §14, Oct. 31, 1998, 112 Stat. 3136, provided that: “This A
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–415, §1, Oct. 14, 1992, 106 Stat. 2112, provided that: “This Act \[amending sections 1606, 1617,1620, 1621, 1626, and 1634 of this title and section 3198 of Title 16, Conservation, and enacting provisions set out as notes under section 852 of this title and section 539 of Title 16\] may be cited as the ‘Alaska Land Status Technical Corrections Act of 1992’.”
+Pub. L. 102–415, §1, Oct. 14, 1992, 106 Stat. 2112, provided that: “This Act \[amending sections 1606, 1617, 1620, 1621, 1626, and 1634 of this title and section 3198 of Title 16, Conservation, and enacting provisions set out as notes under section 852 of this title and section 539 of Title 16\] may be cited as the ‘Alaska Land Status Technical Corrections Act of 1992’.”
 
 #### Short Title of 1988 Amendment
 
@@ -46,17 +46,17 @@ Pub. L. 100–241, §1(a), Feb. 3, 1988, 101 Stat. 1788, provided that: “This 
 
 #### Short Title
 
-Section 1 of Pub. L. 92–203 provided: “That this Act \[enacting this chapter\] may be cited as the ‘Alaska Native Claims Settlement Act’.”
+Pub. L. 92–203, §1, Dec. 18, 1971, 85 Stat. 688, provided: “That this Act \[enacting this chapter\] may be cited as the ‘Alaska Native Claims Settlement Act’.”
 
 #### Savings Provision
 
 Provisions of Federal Land Policy and Management Act of 1976, Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, not to be construed as modifying, etc., any provision of this chapter, see section 701 of Pub. L. 94–579, set out as a note under section 1701 of this title.
 
-Section 26 of Pub. L. 92–203 provided that: “To the extent that there is a conflict between any provision of this Act \[enacting this chapter\] and any other Federal laws applicable to Alaska, the provisions of this Act shall govern.”
+Pub. L. 92–203, §26, Dec. 18, 1971, 85 Stat. 715, provided that: “To the extent that there is a conflict between any provision of this Act \[enacting this chapter\] and any other Federal laws applicable to Alaska, the provisions of this Act shall govern.”
 
 #### Severability
 
-Section 27 of Pub. L. 92–203, as amended by Pub. L. 100–241, §13, Feb. 3, 1988, 101 Stat. 1810, provided that: “The provisions of this Act, as amended \[enacting this chapter\], and the Alaska Native Claims Settlement Act Amendments of 1987 \[Pub. L. 100–241, see Short Title of 1988 Amendment note above\] are severable. If any provision of either Act is determined by a court of competent jurisdiction to be invalid, such invalidity shall not affect the validity of any other provision of either Act.”
+Pub. L. 92–203, §27, Dec. 18, 1971, 85 Stat. 716, as amended by Pub. L. 100–241, §13, Feb. 3, 1988, 101 Stat. 1810, provided that: “The provisions of this Act, as amended \[enacting this chapter\], and the Alaska Native Claims Settlement Act Amendments of 1987 \[Pub. L. 100–241, see Short Title of 1988 Amendment note above\] are severable. If any provision of either Act is determined by a court of competent jurisdiction to be invalid, such invalidity shall not affect the validity of any other provision of either Act.”
 
 #### Congressional Findings and Declaration of Policy
 

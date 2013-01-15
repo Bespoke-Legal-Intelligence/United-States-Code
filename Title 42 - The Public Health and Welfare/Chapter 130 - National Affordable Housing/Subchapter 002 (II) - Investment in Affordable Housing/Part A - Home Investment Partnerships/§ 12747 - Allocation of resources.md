@@ -26,7 +26,7 @@
 
 #### (C) Use of basic formula
 
-&emsp;&emsp;The basic formula established under subparagraph (A) shall be used for all formulaallocations and reallocations provided for in this part.
+&emsp;&emsp;The basic formula established under subparagraph (A) shall be used for all formula allocations and reallocations provided for in this part.
 
 #### (D) Weights
 
@@ -44,7 +44,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If the formula, when applied to funds approved under this section in appropriations Acts for a fiscal year, would allocate less than $3,000,000 to any State, the allocation for such State shall be $3,000,000, and the increase shall be deducted pro rata from the allocations of other States.
+&emsp;&emsp;If the formula, when applied to funds approved under this section in appropriationsActs for a fiscal year, would allocate less than $3,000,000 to any State, the allocation for such State shall be $3,000,000, and the increase shall be deducted pro rata from the allocations of other States.
 
 #### (B) Increased minimum allocation
 
@@ -128,7 +128,7 @@ In general.—For each fiscal year, of any amount approved in an appropriations 
 
 “(B)
 
-Specific criteria.—The Secretary shall provide for the distribution of amounts reserved under this paragraph among the insular areas in accordance withspecific criteria to be set forth in a regulation promulgated by the Secretary after notice and public comment.
+Specific criteria.—The Secretary shall provide for the distribution of amounts reserved under this paragraph among the insular areas in accordance with specific criteria to be set forth in a regulation promulgated by the Secretary after notice and public comment.
 
 “(C)
 
@@ -174,7 +174,7 @@ Committee on Banking, Finance and Urban Affairs of House of Representatives trea
 
 Amendment by Pub. L. 104–330 effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as an Effective Date note under section 4101 of Title 25, Indians.
 
-Section 505(b) of Pub. L. 104–330 provided that: “The amendments under subsection (a) \[amending this section and section 12838 of this title\] shall apply with respect to amounts made available for assistance under title II of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12721 et seq.\] for fiscal year 1998 and fiscal years thereafter.”
+Pub. L. 104–330, title V, §505(b), Oct. 26, 1996, 110 Stat. 4044, provided that: “The amendments under subsection (a) \[amending this section and section 12838 of this title\] shall apply with respect to amounts made available for assistance under title II of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12721 et seq.\] for fiscal year 1998 and fiscal years thereafter.”
 
 #### Effective Date of 1992 Amendment
 
@@ -188,7 +188,7 @@ Grant thresholds provided for in subsec. (b) of this section as amended by Pub. 
 
 #### Expedited Issuance of Regulation
 
-Section 211(a)(3) of Pub. L. 102–550 provided that: “The regulation referred to in the amendment made by paragraph (2)(D) \[amending this section\] shall take effect not later than the expiration of the 90-day period beginning on the date of the enactment of this Act \[Oct. 28, 1992\]. The regulation shall not be subject to the requirements of subsections (b) and (c) of section 553 of title 5, United States Code, or section 7(<i>o</i>) of the Department of Housing and Urban Development Act \[42 U.S.C. 3535(<i>o</i>)\].”
+Pub. L. 102–550, title II, §211(a)(3), Oct. 28, 1992, 106 Stat. 3757, provided that: “The regulation referred to in the amendment made by paragraph (2)(D) \[amending this section\] shall take effect not later than the expiration of the 90-day period beginning on the date of the enactment of this Act \[Oct. 28, 1992\]. The regulation shall not be subject to the requirements of subsections (b) and (c) of section 553 of title 5, United States Code, or section 7(o) of the Department of Housing and Urban Development Act \[42 U.S.C. 3535(o)\].”
 
 <i><sup>1</sup></i><i> See 1992 Amendment note below.</i>
 

@@ -40,7 +40,7 @@
 
 &emsp;&emsp;(C) An explanation of why the preferred alternative is the most effective means to achieve the stated project goals and the most cost-effective alternative.
 
-(c) Not less than 30 days before obligating funds for a major medical facility project approved by a law described in subsection (a)(2) of this section in an amount that would cause the total amount obligated for that project to exceed the amount specified in the law for that project (or would add to total obligations exceeding such specified amount) by more than 10 percent, the Secretary shall provide the committees with notice of the Secretary's intention to do so and the reasons for the specified amount being exceeded.
+(c) Not less than 30 days before obligating funds for a major medical facility project approved by a law described in subsection (a)(2) of this section in an amount that would cause the total amount obligated for that project to exceed the amount specified in the law for that project (or would add to total obligations exceeding such specified amount) by more than 10percent, the Secretary shall provide the committees with notice of the Secretary's intention to do so and the reasons for the specified amount being exceeded.
 
 (d)(1) Except as provided in paragraph (2), in any case in which the Secretary proposes that funds be used for a purpose other than the purpose for which such funds were appropriated, the Secretary shall promptly notify each committee, in writing, of the particulars involved and the reasons why such funds were not used for the purpose for which appropriated.
 
@@ -182,11 +182,11 @@ Subsec. (b)(1). Pub. L. 99–166, §303, inserted “and, in the case of a prosp
 
 #### Effective Date of 1996 Amendment
 
-Section 205(b) of Pub. L. 104–262 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to any prospectus submitted by the Secretary of Veterans Affairs after the date of the enactment of this Act \[Oct. 9, 1996\].”
+Pub. L. 104–262, title II, §205(b), Oct. 9, 1996, 110 Stat. 3190, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to any prospectus submitted by the Secretary of Veterans Affairs after the date of the enactment of this Act \[Oct. 9, 1996\].”
 
 #### Effective Date of 1992 Amendment
 
-Section 206(b)(2) of Pub. L. 104–262 provided that: “The amendments made by subsection (a) of such section \[meaning section 301(a) of Pub. L. 102–405, amending this section\] shall apply with respect to any major medical facility project or any major medical facility lease of the Department of Veterans Affairs, regardless of when funds are first appropriated for that project or lease, except that in the case of a project for which funds were first appropriated before October 9, 1992, such amendments shall not apply with respect to amounts appropriated for that project for a fiscal year before fiscal year 1998.”
+Pub. L. 104–262, title II, §206(b)(2), Oct. 9, 1996, 110 Stat. 3190, provided that: “The amendments made by subsection (a) of such section \[meaning section 301(a) of Pub. L. 102–405, amending this section\] shall apply with respect to any major medical facility project or any major medical facility lease of the Department of Veterans Affairs, regardless of when funds are first appropriated for that project or lease, except that in the case of a project for which funds were first appropriated before October 9, 1992, such amendments shall not apply with respect to amounts appropriated for that project for a fiscal year before fiscal year 1998.”
 
-Section 301(b) of Pub. L. 102–405 provided that the amendments made by section 301(a) of Pub. L. 102–405, amending this section, were not applicable with respect to any project for which funds were appropriated before Oct. 9, 1992, prior to repeal by Pub. L. 104–262, title II, §206(b)(1), Oct. 9, 1996, 110 Stat. 3190.
+Pub. L. 102–405, title III, §301(b), Oct. 9, 1992, 106 Stat. 1984, provided that the amendments made by section 301(a) of Pub. L. 102–405, amending this section, were not applicable with respect to any project for which funds were appropriated before Oct. 9, 1992, prior to repeal by Pub. L. 104–262, title II, §206(b)(1), Oct. 9, 1996, 110 Stat. 3190.
 

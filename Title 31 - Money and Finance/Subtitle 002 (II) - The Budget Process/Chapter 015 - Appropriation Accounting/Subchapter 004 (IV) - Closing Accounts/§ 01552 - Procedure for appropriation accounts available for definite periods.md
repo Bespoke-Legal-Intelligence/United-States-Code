@@ -68,7 +68,7 @@ Amendment by Pub. L. 101–510 applicable to any appropriation account the oblig
 
 #### Audit of Obligated Balances of Department of Defense
 
-Section 1406 of Pub. L. 101–510 provided that:
+Pub. L. 101–510, div. A, title XIV, §1406, Nov. 5, 1990, 104 Stat. 1680, provided that:
 
 “(a)
 

@@ -116,7 +116,7 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 #### Regulations
 
-Section 4(t) of Pub. L. 103–272 provided that:
+Pub. L. 103–272, §4(t), July 5, 1994, 108 Stat. 1372, provided that:
 
 “(1) Not later than March 3, 1995, the Secretary of Transportation shall complete a regulatory proceeding to consider prescribing regulations to improve the safety and working conditions of locomotive cabs. The proceeding shall assess—
 
@@ -162,7 +162,7 @@ Pub. L. 110–432, div. A, title IV, §405, Oct. 16, 2008, 122 Stat. 4885, provi
 
 “(a)
 
-In General.—Not later than 1 year after the date of enactment of this Act \[Oct. 16, 2008\], the Secretary, through the Railroad Safety Advisory Committee if the Secretary makes such a request, shall complete a study on the safety impact of the use of personal electronic devices, including cell phones, video games, and other distracting devices, by safety-related railroad employees (as defined in section 20102(4) of title 49, United States Code), during the performance ofsuch employees’ duties. The study shall consider the prevalence of the use of such devices.
+In General.—Not later than 1 year after the date of enactment of this Act \[Oct. 16, 2008\], the Secretary, through the Railroad Safety Advisory Committee if the Secretary makes such a request, shall complete a study on the safety impact of the use of personal electronic devices, including cell phones, video games, and other distracting devices, by safety-related railroad employees (as defined in section 20102(4) of title 49, United States Code), during the performance of such employees’ duties. The study shall consider the prevalence of the use of such devices.
 
 “(b)
 

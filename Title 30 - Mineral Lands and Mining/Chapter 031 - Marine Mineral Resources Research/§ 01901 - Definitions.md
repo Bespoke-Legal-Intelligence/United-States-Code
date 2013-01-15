@@ -60,5 +60,5 @@ Pars. (7), (8). Pub. L. 106–193, §4(2), (3), added par. (7) and redesignated 
 
 #### Short Title
 
-Section 1 of Pub. L. 104–325 provided that: “This Act \[enacting this chapter\] may be cited as the ‘Marine Mineral Resources Research Act of 1996’.”
+Pub. L. 104–325, §1, Oct. 19, 1996, 110 Stat. 3994, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Marine Mineral Resources Research Act of 1996’.”
 

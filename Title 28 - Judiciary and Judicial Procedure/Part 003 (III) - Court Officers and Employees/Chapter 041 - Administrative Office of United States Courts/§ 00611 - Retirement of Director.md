@@ -28,13 +28,13 @@ Subsec. (e). Pub. L. 100–702, §1004(a), added subsec. (e).
 
 #### Effective Date of 1988 Amendment
 
-Section 1004(b) of title X of Pub. L. 100–702 provided that: “The amendments made by this section \[amending this section and section 627 of this title\] shall apply to cost-of-living increases that go into effect on or after the date of enactment of this title \[Nov. 19, 1988\] with respect to any annuity being paid or becoming payable on or after such date.”
+Pub. L. 100–702, title X, §1004(b), Nov. 19, 1988, 102 Stat. 4666, provided that: “The amendments made by this section \[amending this section and section 627 of this title\] shall apply to cost-of-living increases that go into effect on or after the date of enactment of this title \[Nov. 19, 1988\] with respect to any annuity being paid or becoming payable on or after such date.”
 
-Section 1006(b) of title X of Pub. L. 100–702 provided that: “The amendments made by this section \[amending this section and section 627 of this title\] shall apply to persons holding the offices of Director of the Administrative Office of the United States Courts, Director of the Federal Judicial Center, and Administrative Assistant to the Chief Justice on the date of enactment of this title \[Nov. 19, 1988\].”
+Pub. L. 100–702, title X, §1006(b), Nov. 19, 1988, 102 Stat. 4667, provided that: “The amendments made by this section \[amending this section and section 627 of this title\] shall apply to persons holding the offices of Director of the Administrative Office of the United States Courts, Director of the Federal Judicial Center, and Administrative Assistant to the Chief Justice on the date of enactment of this title \[Nov. 19, 1988\].”
 
 #### Retroactive Effect
 
-Section 205 of Pub. L. 90–219 provided that:
+Pub. L. 90–219, title II, §205, Dec. 20, 1967, 81 Stat. 669, provided that:
 
 “(a) Except as provided in subsection (b), the amendments made by this title \[enacting this section and amending sections 376 and 604 of this title\], insofar as they relate to retirement and survivorship benefits of the Director of the Administrative Office of the United States Courts, shall be applicable only with respect to persons first appointed to such office after the date of enactment of this Act \[Dec. 20, 1967\].
 

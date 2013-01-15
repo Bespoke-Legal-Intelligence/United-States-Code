@@ -16,7 +16,7 @@ United States Government agencies carrying out programs of the types specified i
 
 #### Short Title
 
-Section 901 of title IX of Pub. L. 98–164 provided that: “This title \[enacting this subchapter\] may be cited as the ‘United States-India Fund for Cultural, Educational, and Scientific Cooperation Act’.”
+Pub. L. 98–164, title IX, §901, Nov. 22, 1983, 97 Stat. 1051, provided that: “This title \[enacting this subchapter\] may be cited as the ‘United States-India Fund for Cultural, Educational, and Scientific Cooperation Act’.”
 
 #### Ex. Ord. No. 12517. Delegation Concerning United States-India Fund for Cultural, Educational, and Scientific Cooperation
 

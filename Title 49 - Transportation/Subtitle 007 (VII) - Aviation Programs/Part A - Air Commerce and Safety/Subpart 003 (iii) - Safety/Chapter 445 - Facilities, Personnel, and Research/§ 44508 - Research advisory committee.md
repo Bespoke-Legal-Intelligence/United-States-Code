@@ -34,7 +34,7 @@ Nonapplication.—Section 14 of the Federal Advisory Committee Act (5 App. U.S.C
 
 Use and Limitation of Amounts.—(1) Not more than .1 percent of the amounts made available to conduct research under sections 40119, 44504, 44505, 44507, 44511–44513, and 44912 of this title may be used by the Administrator to carry out this section.
 
-(2) A limitation on amounts available for obligation by or for the committee does not apply toamounts made available to carry out this section.
+(2) A limitation on amounts available for obligation by or for the committee does not apply to amounts made available to carry out this section.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1180; Pub. L. 104–264, title XI, §1104, Oct. 9, 1996, 110 Stat. 3279.)
 
@@ -94,5 +94,5 @@ Section 14 of the Federal Advisory Committee Act, referred to in subsec. (d), is
 
 #### Effective Date of 1996 Amendment
 
-Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construedas affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 

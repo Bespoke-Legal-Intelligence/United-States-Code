@@ -2,7 +2,15 @@
 
 (a)
 
-Automatic Enrollment of Certain Dependents.—Each dependent of a member of the uniformed services in grade E4 or below who is entitled to medical and dental care under section 1076(a)(2)(A) of this title and resides in the catchment area of a facility of a uniformed service offering TRICARE Prime shall be automatically enrolled in TRICARE Prime at the facility. The Secretary concerned shall provide written notice of the enrollment to the member. The enrollment of a dependent of the member may be terminated by the member or the dependent at any time.
+Automatic Enrollment of Certain Dependents.—(1) In the case of a dependent of a member of the uniformed services who is entitled to medical and dental care under section 1076(a)(2)(A) of this title and resides in a catchment area in which TRICARE Prime is offered, the Secretary—
+
+&emsp;(A) shall automatically enroll the dependent in TRICARE Prime if the member is in pay grade E–4 or below; and
+
+&emsp;(B) may automatically enroll the dependent in TRICARE Prime if the member is in pay grade E–5 or higher.
+
+(2) Whenever a dependent of a member is enrolled in TRICARE Prime under paragraph (1), the Secretary concerned shall provide written notice of the enrollment to the member.
+
+(3) The enrollment of a dependent of the member may be terminated by the member or the dependent at any time.
 
 (b)
 
@@ -34,9 +42,11 @@ Definitions.—In this section:
 
 &emsp;(2) The term “catchment area”, with respect to a facility of a uniformed service, means the service area of the facility, as designated under regulations prescribed by the administering Secretaries.
 
-(Added Pub. L. 105–261, div. A, title VII, §712(a)(1), Oct. 17, 1998, 112 Stat. 2058; amended Pub. L. 106–398, §1 \[\[div. A\], title VII, §752(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–195; Pub. L. 107–107, div. A, title X, §1048(a)(11), Dec. 28, 2001, 115 Stat. 1223.)
+(Added Pub. L. 105–261, div. A, title VII, §712(a)(1), Oct. 17, 1998, 112 Stat. 2058; amended Pub. L. 106–398, §1 \[\[div. A\], title VII, §752(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–195; Pub. L. 107–107, div. A, title X, §1048(a)(11), Dec. 28, 2001, 115 Stat. 1223; Pub. L. 112–239, div. A, title VII, §711, Jan. 2, 2013, 126 Stat. 1801.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (a). Pub. L. 112–239 amended subsec. (a) generally. Prior to amendment, text read as follows: “Each dependent of a member of the uniformed services in grade E4 or below who is entitled to medical and dental care under section 1076(a)(2)(A) of this title and resides in the catchment area of a facility of a uniformed service offering TRICARE Prime shall be automatically enrolled in TRICARE Prime at the facility. The Secretary concerned shall provide written notice of the enrollment to the member. The enrollment of a dependent of the member may be terminated by the member or the dependent at any time.”
 
 <b>2001</b>—Subsec. (e). Pub. L. 107–107 substituted “section 1072(2)” for “section 1072”.
 

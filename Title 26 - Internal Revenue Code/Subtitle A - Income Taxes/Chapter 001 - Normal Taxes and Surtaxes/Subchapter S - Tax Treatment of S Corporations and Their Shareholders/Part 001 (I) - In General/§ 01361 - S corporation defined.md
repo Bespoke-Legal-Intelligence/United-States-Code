@@ -58,7 +58,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For purposes of this title, if any corporation which was a qualified subchapter S subsidiary ceases to meet the requirements of subparagraph (B), such corporation shall be treated as a new corporation acquiring all of its assets (and assuming all of its liabilities) immediately beforesuch cessation from the S corporation in exchange for its stock.
+&emsp;&emsp;&emsp;For purposes of this title, if any corporation which was a qualified subchapter S subsidiary ceases to meet the requirements of subparagraph (B), such corporation shall be treated as a new corporation acquiring all of its assets (and assuming all of its liabilities) immediately before such cessation from the S corporation in exchange for its stock.
 
 #### (ii) Termination by reason of sale of stock
 
@@ -436,7 +436,7 @@ Subsec. (d)(2)(D). Pub. L. 98–369, §721(f)(1), substituted “15 days and 2 m
 
 Subsec. (d)(3). Pub. L. 98–369, §721(f)(2), in amending par. (3) generally, redesignated subpar. (C) as (A), substituted a period for “, and” at end of subpar. (B), and struck out former subpar. (A) which read “which owns stock in 1 or more S corporations”.
 
-Subsec. (d)(4). Pub. L. 98–369, §721(f)(2), in amending par. (4) generally, redesignated existing provisions as subpar. (A), inserted “Failure to meet requirements of paragraph (3)(A)” as subpar. (A) heading, substituted “of paragraph (3)(A)” for “under paragraph (3)”, and added subpar. (B).
+Subsec. (d)(4). Pub. L. 98–369, §721(f)(2), in amending par. (4) generally, redesignated existing provisions assubpar. (A), inserted “Failure to meet requirements of paragraph (3)(A)” as subpar. (A) heading, substituted “of paragraph (3)(A)” for “under paragraph (3)”, and added subpar. (B).
 
 #### Effective Date of 2007 Amendment
 
@@ -506,11 +506,11 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 Amendment by section 901(d)(4)(G) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 901(e) of Pub. L. 99–514, set out as a note under section 166 of this title.
 
-Section 1879(m)(2) of Pub. L. 99–514 provided that: “The amendments made by this subsection \[amending this section and section 1368 of this title\] shall apply to taxable years beginning after December 31, 1982.”
+Pub. L. 99–514, title XVIII, §1879(m)(2), Oct. 22, 1986, 100 Stat. 2910, provided that: “The amendments made by this subsection \[amending this section and section 1368 of this title\] shall apply to taxable years beginning after December 31, 1982.”
 
 #### Effective Date of 1984 Amendment
 
-Section 721(y) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–369, div. A, title VII, §721(y), July 18, 1984, 98 Stat. 972, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 
@@ -536,7 +536,7 @@ Amendment made by subsection (g)
 
 “(4)
 
-Amendments made by subsection <i>(l</i>).—The amendments made by subsection (<i>l</i>) \[amending section 1362 of this title\] shall apply to any election under section 1362 of the Internal Revenue Code of 1986 (or any corresponding provision of prior law) made after October 19, 1982.
+Amendments made by subsection <i>(l</i>).—The amendments made by subsection (l) \[amending section 1362 of this title\] shall apply to any election under section 1362 of the Internal Revenue Code of 1986 (or any corresponding provision of prior law) made after October 19, 1982.
 
 “(5)
 
@@ -550,7 +550,7 @@ Amendment made by subsection (t).—If—
 
 #### Effective Date
 
-Section 6 of Pub. L. 97–354, as amended by Pub. L. 97–448, title III, §305(d)(1)(A), Jan. 12, 1983, 96 Stat. 2399; Pub. L. 98–369, div. A, title VII, §721(i), (k), July 18, 1984, 98 Stat. 969; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 97–354, §6, Oct. 19, 1982, 96 Stat. 1697, as amended by Pub. L. 97–448, title III, §305(d)(1)(A), Jan. 12, 1983, 96 Stat. 2399; Pub. L. 98–369, div. A, title VII, §721(i), (k), July 18, 1984, 98 Stat. 969; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(a)
 
@@ -606,7 +606,7 @@ Qualified casualty insurance electing small business corporation.—The term ‘
 
 &emsp;&emsp;&emsp;“(ii) such corporation was formed before April 1, 1982, and proposed (through a written private offering first circulated to investors before such date) to elect to be taxed as a subchapter S corporation and to be operated on an established insurance exchange, or
 
-&emsp;&emsp;&emsp;“(iii) such corporation is approved for membership on an established insurance exchange pursuant to a written agreement entered into beforeDecember 31, 1982, and such corporation is described in section 831(a) of such Code as of December 31, 1984.
+&emsp;&emsp;&emsp;“(iii) such corporation is approved for membership on an established insurance exchange pursuant to a written agreement entered into before December 31, 1982, and such corporation is described in section 831(a) of such Code as of December 31, 1984.
 
 &nbsp;&nbsp;A corporation shall not be treated as a qualified casualty insurance electing small business corporation unless an election under subchapter S of chapter 1 of such Code is in effect for its first taxable year beginning after December 31, 1984.
 
@@ -706,7 +706,7 @@ Pub. L. 110–28, title VIII, §8235, May 25, 2007, 121 Stat. 199, provided that
 
 #### Elimination of Certain Earnings and Profits
 
-Section 1311(a) of Pub. L. 104–188 provided that: “If—
+Pub. L. 104–188, title I, §1311(a), Aug. 20, 1996, 110 Stat. 1784, provided that: “If—
 
 &emsp;“(1) a corporation was an electing small business corporation under subchapter S of chapter 1 of the Internal Revenue Code of 1986 for any taxable year beginning before January 1, 1983, and
 
@@ -716,7 +716,7 @@ Section 1311(a) of Pub. L. 104–188 provided that: “If—
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Transitional Provisions
 

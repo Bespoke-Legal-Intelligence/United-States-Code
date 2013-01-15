@@ -2,15 +2,15 @@
 
 (a)
 
-Penalty.—(1) A person that knowingly violates this chapter or a regulation, order, specialpermit, or approval issued under this chapter is liable to the United States Government for a civil penalty of at least $250 but not more than $50,000 for each violation. A person acts knowingly when—
+Penalty.—(1) A person that knowingly violates this chapter or a regulation, order, special permit, or approval issued under this chapter is liable to the United States Government for a civil penalty of not more than $75,000 for each violation. A person acts knowingly when—
 
 &emsp;(A) the person has actual knowledge of the facts giving rise to the violation; or
 
 &emsp;(B) a reasonable person acting in the circumstances and exercising reasonable care would have that knowledge.
 
-(2) If the Secretary finds that a violation under paragraph (1) results in death, serious illness, or severe injury to any person or substantial destruction of property, the Secretary may increase the amount of the civil penalty for such violation to not more than $100,000.
+(2) If the Secretary finds that a violation under paragraph (1) results in death, serious illness, or severe injury to any person or substantial destruction of property, the Secretary may increase the amount of the civil penalty for such violation to not more than $175,000.
 
-(3) If the violation is related to training, paragraph (1) shall be applied by substituting “$450” for “$250”.
+(3) If the violation is related to training, a person described in paragraph (1) shall be liable for a civil penalty of at least $450.
 
 (4) A separate violation occurs for each day the violation, committed by a person that transports or causes to be transported hazardous material, continues.
 
@@ -44,7 +44,39 @@ Setoff.—The Government may deduct the amount of a civil penalty imposed or com
 
 Depositing Amounts Collected.—Amounts collected under this section shall be deposited in the Treasury as miscellaneous receipts.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 780; Pub. L. 109–59, title VII, §§7120(a)–(c), 7126, Aug. 10, 2005, 119 Stat. 1905, 1906, 1909.)
+(h)
+
+Penalty for Obstruction of Inspections and Investigations.—
+
+&emsp;(1) The Secretary may impose a penalty on a person who obstructs or prevents the Secretary from carrying out inspections or investigations under subsection (c) or (i) of section 5121.
+
+&emsp;(2) For the purposes of this subsection, the term “obstructs” means actions that wereknown, or reasonably should have been known, to prevent, hinder, or impede an investigation.
+
+(i)
+
+Prohibition on Hazardous Material Operations After Nonpayment of Penalties.—
+
+&emsp;(1)
+
+In general.—Except as provided under paragraph (2), a person subject to the jurisdiction of the Secretary under this chapter who fails to pay a civil penalty assessed under this chapter, or fails to arrange and abide by an acceptable payment plan for such civil penalty, may not conduct any activity regulated under this chapter beginning on the 91st day after the date specified by order of the Secretary for payment of such penalty unless the person has filed a formal administrative or judicial appeal of the penalty.
+
+&emsp;(2)
+
+Exception.—Paragraph (1) shall not apply to any person who is unable to pay a civil penalty because such person is a debtor in a case under chapter 11 of title 11.
+
+&emsp;(3)
+
+Rulemaking.—Not later than 2 years after the date of enactment of this subsection, the Secretary, after providing notice and an opportunity for public comment, shall issue regulations that—
+
+&emsp;&emsp;(A) set forth procedures to require a person who is delinquent in paying civil penalties to cease any activity regulated under this chapter until payment has been made or an acceptable payment plan has been arranged; and
+
+&emsp;&emsp;(B) ensures <sup>1</sup> that the person described in subparagraph (A)—
+
+&emsp;&emsp;&emsp;(i) is notified in writing; and
+
+&emsp;&emsp;&emsp;(ii) is given an opportunity to respond before the person is required to cease the activity.
+
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 780; Pub. L. 109–59, title VII, §§7120(a)–(c), 7126, Aug. 10, 2005, 119 Stat. 1905, 1906, 1909; Pub. L. 112–141, div. C, title III, §33010, July 6, 2012, 126 Stat. 837.)
 
 Historical and Revision Notes
 
@@ -102,7 +134,19 @@ In subsection (c)(2), the words “the violator” are substituted for “the pe
 
 In subsection (f), the words “imposed or compromised” are substituted for “of such penalty, when finally determined (or agreed upon in compromise)” to eliminate unnecessary words and for consistency. The words “liable for the penalty” are substituted for “charged” for clarity.
 
+#### References in Text
+
+The date of enactment of this subsection, referred to in subsec. (i)(3), is the date of enactment of Pub. L. 112–141, which was approved July 6, 2012.
+
 #### Amendments
+
+<b>2012</b>—Subsec. (a)(1). Pub. L. 112–141, §33010(1)(A), in introductory provisions, struck out “at least $250 but” after “civil penalty of” and substituted “$75,000” for “$50,000”.
+
+Subsec. (a)(2). Pub. L. 112–141, §33010(1)(B), substituted “$175,000” for “$100,000”.
+
+Subsec. (a)(3). Pub. L. 112–141, §33010(1)(C), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “If the violation is related to training, paragraph (1) shall be applied by substituting ‘$450’ for ‘$250’.”
+
+Subsecs. (h), (i). Pub. L. 112–141, §33010(2), added subsecs. (h) and (i).
 
 <b>2005</b>—Subsec. (a)(1). Pub. L. 109–59, §7120(a)(1), in introductory provisions substituted “regulation, order, special permit, or approval issued” for “regulation prescribed or order issued” and “$50,000” for “$25,000”.
 
@@ -114,6 +158,10 @@ Pub. L. 109–59, §7120(b), substituted “regulation prescribed or order, spec
 
 Subsec. (d). Pub. L. 109–59, §7120(c), substituted “section and any accrued interest on the civil penalty as calculated in accordance with section 1005 of the Oil Pollution Act of 1990 (33 U.S.C. 2705). In the civil action, the amount and appropriateness of the civil penalty shall not be subject to review.” for “section.”
 
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
+
 #### Effective Date of 2005 Amendment
 
 Pub. L. 109–59, title VII, §7120(d), Aug. 10, 2005, 119 Stat. 1906, provided that:
@@ -124,5 +172,7 @@ Hearing requirement.—The amendment made by subsection (b) \[amending this sect
 
 “(2)
 
-Civil actions to collect.—The amendment made by subsection (c) \[amending this section\] shall apply with respect to civil penalties imposed on violations described in section 5123(a) of title 49, United States Code (as amended by this section), that occur onor after the date of enactment of this Act \[Aug. 10, 2005\].”
+Civil actions to collect.—The amendment made by subsection (c) \[amending this section\] shall apply with respect to civil penalties imposed on violations described in section 5123(a) of title 49, United States Code (as amended by this section), that occur on or after the date of enactment of this Act \[Aug. 10, 2005\].”
+
+<i><sup>1</sup></i><i> So in original. Probably should be “ensure”.</i>
 

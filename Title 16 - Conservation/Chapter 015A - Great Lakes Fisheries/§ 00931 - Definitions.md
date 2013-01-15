@@ -16,9 +16,9 @@ As used in this chapter, the term—
 
 #### Short Title
 
-Section 1 of act June 4, 1956, provided: “That this Act \[enacting this chapter\] may be cited as the ‘Great Lakes Fishery Act of 1956’.”
+Act June 4, 1956, ch. 358, §1, 70 Stat. 242, provided: “That this Act \[enacting this chapter\] may be cited as the ‘Great Lakes Fishery Act of 1956’.”
 
 #### Separability
 
-Section 14 of act June 4, 1956, provided that: “If any provision of this Act \[this chapter\] or the application of such provision to any circumstances or persons shall be held invalid, the validity of the remainder of the Act and the applicability of such provision to other circumstances or persons shall not be affected thereby”.
+Act June 4, 1956, ch. 358, §14, 70 Stat. 244, provided that: “If any provision of this Act \[this chapter\] or the application of such provision to any circumstances or persons shall be held invalid, the validity of the remainder of the Act and the applicability of such provision to other circumstances or persons shall not be affected thereby”.
 

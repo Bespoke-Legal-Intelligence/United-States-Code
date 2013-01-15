@@ -80,7 +80,7 @@ For purposes of this part, the qualified export assets of a corporation are—
 
 &emsp;&emsp;(A) property leased or rented by a DISC for use by any member of a controlled group (as defined in subsection (a)(3)) which includes the DISC,
 
-&emsp;&emsp;(B) patents, inventions, models, designs, formulas, or processes, whether or not patented, copyrights (other than films, tapes, records, or similar reproductions, for commercial or home use), goodwill, trademarks, trade brands, franchises, or other like property,
+&emsp;&emsp;(B) patents, inventions, models, designs, formulas, or processes, whether or not patented, copyrights (other than films, tapes, records, or similar reproductions, for commercial or home use), goodwill, trademarks,trade brands, franchises, or other like property,
 
 &emsp;&emsp;(C) products of a character with respect to which a deduction for depletion is allowable (including oil, gas, coal, or uranium products) under section 613 or 613A,
 
@@ -88,7 +88,7 @@ For purposes of this part, the qualified export assets of a corporation are—
 
 &emsp;&emsp;(E) any unprocessed timber which is a softwood.
 
-> &emsp;Subparagraph (C) shall not apply to any commodity or product at least 50 percent of the fair market value of which is attributable to manufacturing or processing, except that subparagraph (C) shall apply to any primary product from oil, gas, coal, or uranium. For purposes of the preceding sentence, the term “processing” does not include extracting or handling, packing, packaging, grading, storing, or transporting. For purposes of subparagraph (E), the term “unprocessed timber”means any log, cant, or similar form of timber.
+> &emsp;Subparagraph (C) shall not apply to any commodity or product at least 50 percent of the fair market value of which is attributable to manufacturing or processing, except that subparagraph (C) shall apply to any primary product from oil, gas, coal, or uranium. For purposes of the preceding sentence, the term “processing” does not include extracting or handling, packing, packaging, grading, storing, or transporting. For purposes of subparagraph (E), the term “unprocessed timber” means any log, cant, or similar form of timber.
 
 #### (3) Property in short supply
 
@@ -198,7 +198,7 @@ For purposes of this part, the term “gross receipts” means the total receipt
 
 For purposes of this part, the term “United States” includes the Commonwealth of Puerto Rico and the possessions of the United States.
 
-(Added Pub. L. 92–178, title V, §501, Dec. 10, 1971, 85 Stat. 538; amended Pub. L. 93–482, §3(a), Oct. 26, 1974, 88 Stat. 1456; Pub. L. 94–12, title VI, §603(a), Mar. 29, 1975, 89 Stat. 64; Pub. L. 94–455, title XI, §1101(b), (c), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1658, 1834; Pub. L. 96–39, title II, §202(c)(2), July 26, 1979, 93 Stat. 202; Pub. L. 96–72, §22(c), Sept. 29, 1979, 93 Stat. 535; Pub. L. 98–369, div. A, title VIII, §802(c)(2), July 18, 1984, 98 Stat. 999; Pub. L. 103–66, title XIII, §13239(b), Aug. 10, 1993, 107 Stat. 509.)
+(Added Pub. L. 92–178, title V, §501, Dec. 10, 1971, 85 Stat. 538; amended Pub. L. 93–482, §3(a), Oct. 26, 1974, 88 Stat. 1456; Pub. L. 94–12, title VI, §603(a), Mar. 29, 1975, 89 Stat. 64; Pub. L. 94–455, title XI, §1101(b), (c), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1658, 1834; Pub. L. 96–39, title II, §202(c)(2), July 26, 1979, 93 Stat. 202; Pub. L.96–72, §22(c), Sept. 29, 1979, 93 Stat. 535; Pub. L. 98–369, div. A, title VIII, §802(c)(2), July 18, 1984, 98 Stat. 999; Pub. L. 103–66, title XIII, §13239(b), Aug. 10, 1993, 107 Stat. 509.)
 
 #### References in Text
 
@@ -246,13 +246,13 @@ Amendment by Pub. L. 96–39 effective Jan. 1, 1981, with provision for an earli
 
 #### Effective Date of 1976 Amendment
 
-Section 1101(g)(2) of Pub. L. 94–455 provided that: “The amendments made by subsection (b) \[amending this section\] shall apply to sales, exchanges, and other dispositions made after March 18, 1975, in taxable years ending after such date.”
+Pub. L. 94–455, title XI, §1101(g)(2), Oct. 4, 1976, 90 Stat. 1659, provided that: “The amendments made by subsection (b) \[amending this section\] shall apply to sales, exchanges, and other dispositions made after March 18, 1975, in taxable years ending after such date.”
 
-Section 1101(g)(3) of Pub. L. 94–455 provided that: “The amendments made by subsections (c) and (f) \[amending this section\] shall apply to taxable years ending after March 18, 1975.”
+Pub. L. 94–455, title XI, §1101(g)(3), Oct. 4, 1976, 90 Stat. 1659, provided that: “The amendments made by subsections (c) and (f) \[amending this section\] shall apply to taxable years ending after March 18, 1975.”
 
 #### Effective Date of 1975 Amendment
 
-Section 603(b) of Pub. L. 94–12, as amended by section 1101(f) of Pub. L. 94–455; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 94–12, title VI, §603(b), Mar. 29, 1975, 89 Stat. 65, as amended by Pub. L. 94–455, title XI, §1101(f), Oct. 4, 1976, 90 Stat. 1659; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 
@@ -264,5 +264,5 @@ Binding contract.—The amendments made by subsection (a) \[amending this sectio
 
 #### Effective Date of 1974 Amendment
 
-Section 3(b) of Pub. L. 93–482 provided that: “The amendment made by subsection (a) \[amending this section\] applies to taxable years beginning after December 31, 1973. The amendment shall, at the election of the taxpayer made within 90 days after the date of enactment of this Act \[Oct. 26, 1974\], also apply to any taxable year beginning after December 31, 1971, and before January 1, 1974.”
+Pub. L. 93–482, §3(b), Oct. 26, 1974, 88 Stat. 1456, provided that: “The amendment made by subsection (a) \[amending this section\] applies to taxable years beginning after December 31, 1973. The amendment shall, at the election of the taxpayer made within 90 days after the date of enactment of this Act \[Oct. 26, 1974\], also apply to any taxable year beginning after December 31, 1971, and before January 1, 1974.”
 

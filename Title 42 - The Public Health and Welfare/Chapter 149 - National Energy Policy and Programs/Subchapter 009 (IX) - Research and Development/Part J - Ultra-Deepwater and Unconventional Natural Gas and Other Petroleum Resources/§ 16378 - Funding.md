@@ -18,7 +18,7 @@ The distributions described in subsection (a) are those required by law—
 
 &emsp;&emsp;(A) any recipients pursuant to section 8(g) of the Outer Continental Shelf Lands Act (43 U.S.C. 1337(g));
 
-&emsp;&emsp;(B) the Land and Water Conservation Fund, pursuant to section 460<i>l</i>–5(c) of title 16;
+&emsp;&emsp;(B) the Land and Water Conservation Fund, pursuant to section 460l–5(c) of title 16;
 
 &emsp;&emsp;(C) the Historic Preservation Fund, pursuant to section 470h of title 16; and
 

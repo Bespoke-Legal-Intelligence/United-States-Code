@@ -4,7 +4,7 @@ Any person who embezzles, steals, or unlawfully and willfully abstracts or conve
 
 As used in this section, the term “any employee welfare benefit plan or employee pension benefit plan” means any employee benefit plan subject to any provision of title I of the Employee Retirement Income Security Act of 1974.
 
-(Added Pub. L. 87–420, §17(a), Mar. 20, 1962, 76 Stat. 41; amended Pub. L. 93–406, title I, §111(a)(2)(A), Sept. 2, 1974, 88 Stat. 851; Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
+(Added Pub. L. 87–420, §17(a), Mar. 20, 1962, 76 Stat. 41; amended Pub. L. 93–406, title I, §111(a)(2)(A), Sept. 2, 1974, 88 Stat. 851; Pub. L.103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### References in Text
 
@@ -22,9 +22,9 @@ Amendment by Pub. L. 93–406 effective Jan. 1, 1975, except as provided in sect
 
 #### Effective Date
 
-Section 19 of Pub. L. 87–420 provided that: “The amendments made by this Act \[see Short Title note below\] shall take effect ninety days after the enactment of this Act \[Mar. 20, 1962\], except that section 13 of the Welfare and Pension Plans Disclosure Act \[section 308d of Title 29, Labor\] shall take effect one hundred eighty days after such date of enactment.”
+Pub. L. 87–420, §19, Mar. 20, 1962, 76 Stat. 43, provided that: “The amendments made by this Act \[see Short Title note below\] shall take effect ninety days after the enactment of this Act \[Mar. 20, 1962\], except that section 13 of the Welfare and Pension Plans Disclosure Act \[section 308d of Title 29, Labor\] shall take effect one hundred eighty days after such date of enactment.”
 
 #### Short Title
 
-Section 1 of Pub. L. 87–420 provided: “That this Act \[enacting this section, sections 1027 and 1954 of this title, and sections 308a to 308f of Title 29, Labor, amending sections 302 to 308 and 309 of Title 29, and renumbering sections 10 to 12 of Pub. L. 85–536, classified to section 309 of Title 29 and as notes under section 301 of Title 29\], may be cited as the ‘Welfare and Pension Plans Disclosure Act Amendments of 1962’.”
+Pub. L. 87–420, §1, Mar. 20, 1962, 76 Stat. 35, provided: “That this Act \[enacting this section, sections 1027 and 1954 of this title, and sections 308a to 308f of Title 29, Labor, amending sections 302 to 308 and 309 of Title 29, and renumbering sections 10 to 12 of Pub. L. 85–536, classified to section 309 of Title 29 and as notes under section 301 of Title 29\], may be cited as the ‘Welfare and Pension Plans Disclosure Act Amendments of 1962’.”
 

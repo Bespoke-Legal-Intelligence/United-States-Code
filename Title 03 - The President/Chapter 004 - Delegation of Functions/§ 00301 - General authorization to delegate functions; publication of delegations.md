@@ -40,19 +40,19 @@ Ex. Ord. No. 10250, June 5, 1951, 16 F.R. 5385, as amended by Ex. Ord. No. 10732
 
 (k) The authority vested in the President by section 2253 of the Revised Statutes \[43 U.S.C. 127\], to change and reestablish the boundaries of land districts.
 
-(<i>l</i>) The authority vested in the President by section 2 of the act of March 2, 1917, ch. 145, 39 Stat. 951, as amended \[48 U.S.C. 737\], to approve the payment out of the Treasury for other purposes of money derived from any tax levied or assessed for a special purpose in Puerto Rico.
+(l) The authority vested in the President by section 2 of the act of March 2, 1917, ch. 145, 39 Stat. 951, as amended \[48 U.S.C. 737\], to approve the payment out of the Treasury for other purposes of money derived from any tax levied or assessed for a special purpose in Puerto Rico.
 
 (m) The authority vested in the President by section 7 of the act of March 2, 1917, ch. 145, 39 Stat. 954, as amended \[48 U.S.C. 748\], to convey to the people of Puerto Rico lands, buildings, or interests in lands, or other property owned by the United States, and to accept lands, buildings, or other interests or property by legislative grant from Puerto Rico.
 
 (n) The authority vested in the President by section 3(b) of the act of March 3, 1925, ch. 426, 43 Stat. 1111, as amended \[see 50 U.S.C. 167d\], to approve regulations governing the production and sale of helium for medical, scientific, and commercial use.
 
-(<i>o</i>) The authority vested in the President by section 6 of the act of April 26, 1906, ch. 1876, 34 Stat. 139, to remove from office the principal chief of the Choctaw, Cherokee, Creek, or Seminole tribe or the governor of the Chickasaw tribe, to declare any such office vacant, and to fill any vacancy in any such office arising from removal, disability, or death of the incumbent.
+(o) The authority vested in the President by section 6 of the act of April 26, 1906, ch. 1876, 34 Stat. 139, to remove from office the principal chief of the Choctaw, Cherokee, Creek, or Seminole tribe or the governor of the Chickasaw tribe, to declare any such office vacant, and to fill any vacancy in any such office arising from removal, disability, or death of the incumbent.
 
 (p) The authority vested in the President by section 28 of the act of April 26, 1906, ch. 1876, 34 Stat. 148, to approve acts, ordinances, or resolutions of the tribal council or legislature of the Choctaw, Chickasaw, Cherokee, Creek, and Seminole tribes or nations, and to approve contracts, involving the payment or expenditure of money or affecting property belonging to any of the said tribes or nations, made by them or any of them or by any officer thereof.
 
 (q) \[Superseded by section 3 of Ex. Ord. No. 10752, Feb. 12, 1958, 23 F.R. 973, set out as a note under 15 U.S.C. 715j\].
 
-(r) The authority vested in the President by section 55 of the act of April 30, 1900, 31 Stat. 150, as amended \[48 U.S.C. 562\], and by section 4 of the act of August 24, 1954, 68 Stat. 785, as amended \[48 U.S.C. 562<i>o</i>\], to approve the issuance of bonds or other instruments of indebtedness by the Territory of Hawaii.
+(r) The authority vested in the President by section 55 of the act of April 30, 1900, 31 Stat. 150, as amended \[48 U.S.C. 562\], and by section 4 of the act of August 24, 1954, 68 Stat. 785, as amended \[48 U.S.C. 562o\], to approve the issuance of bonds or other instruments of indebtedness by the Territory of Hawaii.
 
 2\. The Secretary of the Interior is hereby designated and empowered to perform, without the approval, ratification, or other action of the President, the following functions which have heretofore, under the respective provisions of law cited, required the approval, ratification, or other action of the President in connection with their performance by the Secretary of the Interior:
 
@@ -210,13 +210,13 @@ Section 1. The Secretary of Homeland Security is hereby designated and empowered
 
 (k) The authority vested in the President by the second paragraph of the said section 806 of the act of September 8, 1916 \[15 U.S.C. 77\], to withhold clearance from one or more vessels of a belligerent country or government until such belligerent shall restore to American vessels and American citizens reciprocal liberty of commerce and equal facilities for trade, and the authority to direct that similar privileges and facilities, if any, enjoyed by vessels and citizens of such belligerent in the United States or its possessions be refused to vessels or citizens of such belligerent; but such authority shall not, in either instance, be exercised by the Secretary of Homeland Security with respect to any vessel or citizen of such belligerent unless and until the President proclaims that the belligerent nation concerned is denying privileges and facilities to American vessels as described in the said paragraph.
 
-(<i>l</i>) The authority vested in the President by section 963(a) of title 18 of the United States Code to detain, in accordance with the provisions of such section, any armed vessel, or any vessel, domestic or foreign (other than one which has entered the ports of the United States as a public vessel), which is manifestly built for warlike purposes or has been converted or adapted from a private vessel to one suitable for warlike use, and to determine, in each case, whether the proof required by such section is satisfactory.
+(l) The authority vested in the President by section 963(a) of title 18 of the United States Code to detain, in accordance with the provisions of such section, any armed vessel, or any vessel, domestic or foreign (other than one which has entered the ports of the United States as a public vessel), which is manifestly built for warlike purposes or has been converted or adapted from a private vessel to one suitable for warlike use, and to determine, in each case, whether the proof required by such section is satisfactory.
 
 (m) The authority vested in the President by section 967(a) of title 18 of the United States Code, during a war in which the United States is a neutral nation, to withhold clearance from or to any vessel, domestic or foreign, or, by service of formal notice upon the owner, master, or person in command or in charge of any domestic vessel not required to secure clearances, and to forbid its departure from port or from the United States, whenever there is reasonable cause to believe that such vessel is about to carry fuel, arms, ammunition, men, supplies, dispatches, or information to any warship, tender, or supply ship of a foreign belligerent nation in violation of the laws, treaties, or obligations of the United States under the law of nations.
 
 (n) The authority vested in the President by section 10(a) of the act of November 4, 1939, ch. 2, 54 Stat. 9 \[22 U.S.C. 450(a)\], to require the owner, master, or person in command of a vessel to give a bond to the United States, as prescribed by the said section 10(a).
 
-(<i>o</i>) The authority vested in the President by section 10(b) of the act of November 4, 1939, ch. 2, 54 Stat. 9 \[22 U.S.C. 450(b)\], to prohibit the departure of a vessel from a port of the United States, in accordance with the provisions of the said section 10(b).
+(o) The authority vested in the President by section 10(b) of the act of November 4, 1939, ch. 2, 54 Stat. 9 \[22 U.S.C. 450(b)\], to prohibit the departure of a vessel from a port of the United States, in accordance with the provisions of the said section 10(b).
 
 (p) The authority vested in the President by section 2 of the act of August 18, 1914, ch. 256, 38 Stat. 699 \[46 U.S.C. 8103(h)(2)\], to suspend, in his discretion, by order, so far and for such length of time as he may deem desirable, the provisions of law prescribing that all watch officers of vessels of the United States registered for foreign trade shall be citizens of the United States.
 
@@ -338,7 +338,7 @@ Section 1. The Secretary of Commerce is hereby designated and empowered to perfo
 
 (k) The authority vested in the President by section 251 of the National Oceanic and Atmospheric Administration Commissioned Officer Corps Act of 2002 (Public Law 107–372; 33 U.S.C. 3061), to transfer to service and jurisdiction of the Department of Defense, as he may deem to be to the best interest of the country, vessels, equipment, stations, and officers of the National Oceanic and Atmospheric Administration; but the Secretary of Commerce may effect such transfers only during the existence of a state of national emergency proclaimed by President. Commissioned officers so transferred shall serve under their commissions in the National Oceanic and Atmospheric Administration and while so serving shall constitute a part of the active armed forces of the United States and shall be under the direct orders of, and shall be subject to the applicable laws, regulations, and orders for the government of, the armed forces to which they are transferred, respectively. The Secretary of Commerce may return such vessels, equipment, stations, and officers to the jurisdiction of the Department of Commerce, but in time of national emergency such return shall be effected only with the concurrence of the Secretary of Defense.
 
-(<i>l</i>) The authority vested in the President by section 8 of the Act of August 6, 1947 (61 Stat. 788; 33 U.S.C. 883h) to employ public vessels, and to give instructions for regulating their conduct, to carry out the provisions of the Act of August 6, 1947 \[33 U.S.C. 883a et seq.\]; but the employment by the Secretary of Commerce of vessels, except those of the Department of Commerce or of any subordinate entity thereof, shall require the concurrence of the head of the department or other executive agency having custody or control of the vessel.
+(l) The authority vested in the President by section 8 of the Act of August 6, 1947 (61 Stat. 788; 33 U.S.C. 883h) to employ public vessels, and to give instructions for regulating their conduct, to carry out the provisions of the Act of August 6, 1947 \[33 U.S.C. 883a et seq.\]; but the employment by the Secretary of Commerce of vessels, except those of the Department of Commerce or of any subordinate entity thereof, shall require the concurrence of the head of the department or other executive agency having custody or control of the vessel.
 
 (m) The authority vested in the President by Public Law 96–215, as amended (10 U.S.C. 716(a)), to transfer any commissioned officer with his consent from his uniformed service to, and appoint him in, the National Oceanic and Atmospheric Administration, provided consent for the transfer is given by the Secretary of Defense, the Secretary of Homeland Security, or the Secretary of Health and Human Services, as applicable, in accordance with joint regulations issued under that statute establishing the policies and procedures for such transfers and appointments.
 
@@ -778,7 +778,7 @@ Sec. 3. The authority delegated to the Secretary of Defense by this Order may be
 
 Sec. 4. All actions taken by, for, or on behalf of the President with respect to the functions delegated by this Order, which actions would be valid if taken pursuant to this Order, are ratified.
 
-Sec. 5. (a) Executive Order No. 10621, as amended \[set out above\], is further amended by revoking subsections (g), (h), (j), (k), (<i>l</i>), (m), and (n) of Section 1 thereof.
+Sec. 5. (a) Executive Order No. 10621, as amended \[set out above\], is further amended by revoking subsections (g), (h), (j), (k), (l), (m), and (n) of Section 1 thereof.
 
 (b) Executive Order No. 11390, as amended \[set out above\], is further amended by revoking subsections 2, 3, 9, 12, and 15 of Section 1 thereof.
 
@@ -1050,6 +1050,28 @@ Sec. 4. <i>General Provisions</i>. (a) This order shall take effect on October 1
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Ex. Ord. No. 13598. Assignment of Functions Relating to Certain Promotion and Appointment Actions in the Armed Forces
+
+Ex. Ord. No. 13598, Jan. 27, 2012, 77 F.R. 5371, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, it is hereby ordered as follows:
+
+Section 1. <i>Assignment of Functions to the Secretary of Defense</i>. The Secretary of Defense shall perform the functions of the President under the following provisions of title 10, United States Code:
+
+(a) the first sentence of section 14111(a) with respect to reports relating to the grades of brigadier general or above, or rear admiral (lower half) or above;
+
+(b) sections 629(c)(2) and 14310(c)(2) with respect to extending officer promotion eligibility periods; and
+
+(c) section 6222(c)(2) with respect to appointments of members of the Marine Band and members of the Marine Drum and Bugle Corps to grades not above the grade of captain.
+
+Sec. 2. <i>Reassignment of Functions Assigned</i>. The Secretary of Defense may reassign the functions assigned to him by sections \[sic\] 1(a) and (b) of this order only to civilian officers within the Office of the Secretary of Defense (as defined in section 131(b) of title 10, United States Code) who hold a position for which the President makes an appointment by and with the advice and consent of the Senate. The Secretary of Defense may not reassign the function assigned to him by section 1(c) of this order.
+
+Sec. 3. <i>General Provisions</i>. (a) Nothing in this order shall be construed to limit or otherwise affect the authority of the President as Commander in Chief of the Armed Forces of the United States, or under the Constitution and laws of the United States to nominate or to make or terminate appointments.
+
+(b) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Memorandum on Assignment of Reporting Functions Under the Intelligence Reform and Terrorism Prevention Act of 2004
 
 Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 48633, as amended by Memorandum of President of the United States, July 1, 2005, 70 F.R. 41341, provided:
@@ -1068,7 +1090,7 @@ Heads of departments and agencies shall, to the extent permitted by law, furnish
 
 Heads of departments and agencies shall, to the extent permitted by law, furnish to the Secretary of Defense information the Secretary requests to perform such functions, in the format and on the schedule specified by the Secretary.
 
-3\. The reporting functions under sections 1022 and 1094 of the Act \[50 U.S.C. 404<i>o</i>–1, 401 note\] are hereby assigned to the Director of National Intelligence.
+3\. The reporting functions under sections 1022 and 1094 of the Act \[50 U.S.C. 404o–1, 401 note\] are hereby assigned to the Director of National Intelligence.
 
 Heads of departments and agencies shall, to the extent permitted by law, furnish to the Director of National Intelligence information the Director requests to perform such functions, in the format and on the schedule specified by the Director.
 

@@ -10,7 +10,7 @@ Administrator.—
 
 &emsp;(1)
 
-Appointment.—The Administration shall be headed by an Administrator who shall be appointed by the President, by and with the advice and consent of the Senate.
+Appointment.—The Administration shall be headed by an Administrator who shall beappointed by the President, by and with the advice and consent of the Senate.
 
 &emsp;(2)
 
@@ -46,9 +46,61 @@ Administrative Authorities.—The Administrator may enter into grants and cooper
 
 &emsp;(2) to carry out other research activities of the Administration.
 
-(Added Pub. L. 102–508, title IV, §401(a), Oct. 24, 1992, 106 Stat. 3310; amended Pub. L. 103–429, §6(1), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 108–426, §4(a), Nov. 30, 2004, 118 Stat. 2425; Pub. L. 109–59, title VII, §7301, Aug. 10, 2005, 119 Stat. 1914.)
+(f)
+
+Program Evaluation and Oversight.—For each of fiscal years 2013 and 2014, the Administrator is authorized to expend not more than 1 ½ percent of the amounts authorized to be appropriated for necessary expenses for administration and operations of the Research and Innovative Technology Administration for the coordination, evaluation, and oversight of the programs administered by the Administration.
+
+(g)
+
+Collaborative Research and Development.—
+
+&emsp;(1)
+
+In general.—To encourage innovative solutions to multimodal transportation problems and stimulate the deployment of new technology, the Administrator may carry out, on a cost-shared basis, collaborative research and development with—
+
+&emsp;&emsp;(A) non-Federal entities, including State and local governments, foreign governments, institutions of higher education, corporations, institutions, partnerships, sole proprietorships, and trade associations that are incorporated or established under the laws of any State;
+
+&emsp;&emsp;(B) Federal laboratories; and
+
+&emsp;&emsp;(C) other Federal agencies.
+
+&emsp;(2)
+
+Cooperation, grants, contracts, and agreements.—Notwithstanding any other provision of law, the Administrator may directly initiate contracts, grants, cooperative research and development agreements (as defined in section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710a)), and other agreements to fund, and accept funds from, the Transportation Research Board of the National Research Council of the National Academy of Sciences, State departments of transportation, cities, counties, institutions of higher education, associations, and the agents of those entities to carry out joint transportation research and technology efforts.
+
+&emsp;(3)
+
+Federal share.—
+
+&emsp;&emsp;(A)
+
+In general.—Subject to subparagraph (B), the Federal share of the cost of an activity carried out under paragraph (2) shall not exceed 50 percent.
+
+&emsp;&emsp;(B)
+
+Exception.—If the Secretary determines that the activity is of substantial public interest or benefit, the Secretary may approve a greater Federal share.
+
+&emsp;&emsp;(C)
+
+Non-federal share.—All costs directly incurred by the non-Federal partners, including personnel, travel, facility, and hardware development costs, shall be credited toward the non-Federal share of the cost of an activity described in subparagraph (A).
+
+&emsp;(4)
+
+Use of technology.—The research, development, or use of a technology under a contract, grant, cooperative research and development agreement, or other agreement entered into under this subsection, including the terms under which the technology may be licensed and the resulting royalties may be distributed, shall be subject to the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3701 et seq.).
+
+&emsp;(5)
+
+Waiver of advertising requirements.—Section 6101 of title 41 shall not apply to a contract, grant, or other agreement entered into under this section.
+
+(Added Pub. L. 102–508, title IV, §401(a), Oct. 24, 1992, 106 Stat. 3310; amended Pub. L. 103–429, §6(1), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 108–426, §4(a), Nov. 30, 2004, 118 Stat. 2425; Pub. L. 109–59, title VII, §7301, Aug. 10, 2005, 119 Stat. 1914; Pub. L. 112–141, div. E, title II, §52012, July 6, 2012, 126 Stat. 896.)
+
+#### References in Text
+
+The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (g)(4), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, which is classified generally to chapter 63 (§3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of Title 15 and Tables.
 
 #### Amendments
+
+2012–Subsecs. (f), (g). Pub. L. 112–141 added subsecs. (f) and (g).
 
 <b>2005</b>—Subsec. (e). Pub. L. 109–59 added subsec. (e).
 
@@ -56,11 +108,15 @@ Administrative Authorities.—The Administrator may enter into grants and cooper
 
 Subsec. (a). Pub. L. 108–426, §4(a)(2), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “There is established in the Department of Transportation a Research and Special Programs Administration.”
 
-Subsec. (d). Pub. L. 108–426, §4(a)(3), added subsec. (d) and struck out heading and text of former subsec. (d) which related to the responsibilities of the Administrator of the Research and Special Programs Administration.
+Subsec. (d). Pub. L. 108–426, §4(a)(3), added subsec. (d) and struck out heading and text of former subsec. (d)which related to the responsibilities of the Administrator of the Research and Special Programs Administration.
 
 Subsec. (e). Pub. L. 108–426, §4(a)(4), struck out heading and text of subsec. (e). Text read as follows: “Nothing in this section shall affect any delegation of authority, regulation, order, approval, exemption, waiver, contract, or other administrative act of the Secretary with respect to laws administered through the Research and Special Programs Administration of the Department of Transportation on October 24, 1992.”
 
 <b>1994</b>—Subsec. (e). Pub. L. 103–429 substituted “October 24, 1992” for “the date of the enactment of this section”.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
 
 #### National Highway Traffic Safety Administration Programs Administered by Secretary of Transportation
 
@@ -76,13 +132,13 @@ Applicability.—Paragraph (1) shall not apply to the research and other program
 
 #### Transfer of Duties and Powers of Research and Special Programs Administration
 
-Pub. L. 108–426, §4(d), Nov. 30, 2004, 118 Stat. 2426, provided that: “The authority of the Research and Special Programs Administration, other than authority exercised under chapters 51, 57, 61, 601, and 603 of title 49,United States Code, is transferred to the Administrator of the Research and Innovative Technology Administration.”
+Pub. L. 108–426, §4(d), Nov. 30, 2004, 118 Stat. 2426, provided that: “The authority of the Research and Special Programs Administration, other than authority exercised under chapters 51, 57, 61, 601, and 603 of title 49, United States Code, is transferred to the Administrator of the Research and Innovative Technology Administration.”
 
 For transfer of authority of the Research and Special Programs Administration exercised under chapters 51, 57, 61, 601, and 603 of this title to the Administrator of the Pipeline and Hazardous Materials Safety Administration, see section 2(b) of Pub. L. 108–426, set out as a note under section 108 of this title.
 
 #### Development of Underground Utility Location Technologies
 
-Section 306 of Pub. L. 102–508 provided that:
+Pub. L. 102–508, title III, §306, Oct. 24, 1992, 106 Stat. 3309, provided that:
 
 “(a)
 

@@ -30,7 +30,7 @@ Subsec. (a). Pub. L. 108–458, §6904(a)(4), which directed amendment by striki
 
 Pub. L. 108–458, §6904(a)(3), (5), (6), inserted “receive,” after “acquire,”, struck out “or” before “export”, and inserted “, or use, or possess and threaten to use,” before “any atomic weapon”.
 
-Pub. L. 108–458, §6904(a)(2), which directed amendment by inserting “knowingly” after “for any person to”, was executed by making the insertion after “for any person, inside or outside of the United States, to” to reflect the probable intent of Congress and the amendment by Pub. L. 108–458, §6803(b)(1). See above.
+Pub. L. 108–458, §6904(a)(2), which directed amendment by inserting “knowingly” after “for any personto”, was executed by making the insertion after “for any person, inside or outside of the United States, to” to reflect the probable intent of Congress and the amendment by Pub. L. 108–458, §6803(b)(1). See above.
 
 Subsec. (b). Pub. L. 108–458, §6904(a)(7), added subsec. (b).
 

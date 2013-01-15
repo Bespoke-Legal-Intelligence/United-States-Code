@@ -26,7 +26,7 @@ Section 272, act Feb. 14, 1917, ch. 53, §11, 39 Stat. 905, related to form for 
 
 Section 273, act Feb. 14, 1917, ch. 53, §12, 39 Stat. 906, related to cancellation of permits to transport alcohol for scientific purposes.
 
-Section 274, act Feb. 14, 1917, ch. 53, §13, 39 Stat. 906, related to use of buildings or vehicles for unlawfulmanufacture, transportation, or disposal of intoxicating liquors.
+Section 274, act Feb. 14, 1917, ch. 53, §13, 39 Stat. 906, related to use of buildings or vehicles for unlawful manufacture, transportation, or disposal of intoxicating liquors.
 
 Section 275, act Feb. 14, 1917, ch. 53, §14, 39 Stat. 906, related to importation or possession of liquors except as provided by law.
 

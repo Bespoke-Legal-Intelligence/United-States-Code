@@ -18,7 +18,7 @@
 
 &emsp;(D) changes in trade agreements (including the incorporation therein of actions taken for import relief and compensation provided therefor);
 
-&emsp;(E) the extension or withdrawal of nondiscriminatory treatment by the United States with respect to the products of foreign countries;
+&emsp;(E) the extension or withdrawal of nondiscriminatory treatment by the UnitedStates with respect to the products of foreign countries;
 
 &emsp;(F) the extension, modification, withdrawal, suspension, or limitation of preferential treatment to exports of developing countries;
 
@@ -224,7 +224,7 @@ Duties of the Commission.—
 
 &emsp;“(1)
 
-In general.—The Commission shall be responsible for examining the nature, causes, and consequences of, and the accuracy of available data on, theUnited States merchandise trade and current account deficits.
+In general.—The Commission shall be responsible for examining the nature, causes, and consequences of, and the accuracy of available data on, the United States merchandise trade and current account deficits.
 
 &emsp;“(2)
 
@@ -328,7 +328,7 @@ Staff.—
 
 &emsp;&emsp;“(A)
 
-In general.—The Chairperson of the Commission may, without regard to the civil service laws and regulations, appoint and terminate an executive director and such other additional personnel as may be necessary to enable the Commissionto perform its duties. The employment of an executive director shall be subject to confirmation by the Commission.
+In general.—The Chairperson of the Commission may, without regard to the civil service laws and regulations, appoint and terminate an executive director and such other additional personnel as may be necessary to enable the Commission to perform its duties. The employment of an executive director shall be subject to confirmation by the Commission.
 
 &emsp;&emsp;“(B)
 
@@ -336,7 +336,7 @@ Compensation.—The Chairperson of the Commission may fix the compensation of th
 
 &emsp;“(4)
 
-Detail of government employees.—Any Federal Government employee may be detailed to the Commission without reimbursement, and such detail shall be without interruption or loss of civil service status or privilege.
+Detail of government employees.—Any Federal Government employee may be detailed to theCommission without reimbursement, and such detail shall be without interruption or loss of civil service status or privilege.
 
 &emsp;“(5)
 

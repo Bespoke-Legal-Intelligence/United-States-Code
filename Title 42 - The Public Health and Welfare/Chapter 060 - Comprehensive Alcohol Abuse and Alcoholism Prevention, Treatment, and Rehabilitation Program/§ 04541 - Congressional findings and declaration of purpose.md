@@ -58,23 +58,23 @@ Subsec. (b)(3) to (5). Pub. L. 96–180, §2(c)(3), added pars. (3) and (4) and 
 
 #### Short Title of 1980 Amendment
 
-Section 1(a) of Pub. L. 96–180 provided that: “This Act \[enacting section 4594, amending this section and sections 4551 to 4553, 4561, 4571 to 4573, 4576 to 4578, 4585, 4587, and 4588 of this title, and enacting provisions set out as notes under this section and section 4552 of this title\] may be cited as the ‘Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act Amendments of 1979’.”
+Pub. L. 96–180, §1(a), Jan. 2, 1980, 93 Stat. 1301, provided that: “This Act \[enacting section 4594, amending this section and sections 4551 to 4553, 4561, 4571 to 4573, 4576 to 4578, 4585, 4587, and 4588 of this title, and enacting provisions set out as notes under this section and section 4552 of this title\] may be cited as the ‘Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act Amendments of 1979’.”
 
 #### Short Title of 1976 Amendment
 
-Section 1 of Pub. L. 94–371 provided: “That this Act \[enacting sections 4578 and 4585 to 4588 of this title, amending this section, sections 218, 3511, 4571 to 4573, 4576, 4577, and 4581 of this title, and sections 1176 and 1177 of Title 21, Food and Drugs, and enacting provisions set out as notes under sections 4573 and 4577 of this title, and sections 1176 and 1177 of Title 21\] may be cited as the ‘Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act Amendments of 1976’.”
+Pub. L. 94–371, §1, July 26, 1976, 90 Stat. 1035, provided: “That this Act \[enacting sections 4578 and 4585 to 4588 of this title, amending this section, sections 218, 3511, 4571 to 4573, 4576, 4577, and 4581 of this title, and sections 1176 and 1177 of Title 21, Food and Drugs, and enacting provisions set out as notes under sections 4573 and 4577 of this title, and sections 1176 and 1177 of Title 21\] may be cited as the ‘Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act Amendments of 1976’.”
 
 #### Short Title of 1974 Amendment
 
-Section 101 of title I of Pub. L. 93–282 provided that: “This title \[enacting this section and sections 4542, 4553, 4576, and 4577 of this title, amending sections 242a, 4571, 4572, 4573, 4581, and 4582 of this title, and enacting provisions set out as notes under sections 4581 and 4582 of this title\] may be cited as the ‘Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act Amendments of 1974’.”
+Pub. L. 93–282, title I, §101, May 14, 1974, 88 Stat. 126, provided that: “This title \[enacting this section and sections 4542, 4553, 4576, and 4577 of this title, amending sections 242a, 4571, 4572, 4573, 4581, and 4582 of this title, and enacting provisions set out as notes under sections 4581 and 4582 of this title\] may be cited as the ‘Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act Amendments of 1974’.”
 
 #### Short Title
 
-Section 1 of Pub. L. 91–616 provided that: “This Act \[enacting this chapter and section 2688j–2 of this title and amending sections 218, 246, 2688h and 2688t of this title\] may be cited as the ‘Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act of 1970’.”
+Pub. L. 91–616, §1, Dec. 31, 1970, 84 Stat. 1848, provided that: “This Act \[enacting this chapter and section 2688j–2 of this title and amending sections 218, 246, 2688h and 2688t of this title\] may be cited as the ‘Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act of 1970’.”
 
 #### National Commission on Alcoholism and Other Alcohol-Related Problems; Establishment; Executive Secretary; Interim and Final Reports of Study; Termination; Authorization of Appropriations
 
-Section 18 of Pub. L. 96–180 as amended by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979; Pub. L. 98–24, §5(a)(2), Apr. 26, 1983, 97 Stat. 183, 93 Stat. 695, provided that:
+Pub. L. 96–180, §18, Jan. 2, 1980, 93 Stat. 1306, as amended by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979; Pub. L. 98–24, §5(a)(2), Apr. 26, 1983, 97 Stat. 183, 93 Stat. 695, provided that:
 
 “(a)(1) There is established a Commission to be known as the National Commission on Alcoholism and Other Alcohol-Related Problems (hereinafter in this section referred to as the ‘Commission’). The Commission shall be composed of—
 

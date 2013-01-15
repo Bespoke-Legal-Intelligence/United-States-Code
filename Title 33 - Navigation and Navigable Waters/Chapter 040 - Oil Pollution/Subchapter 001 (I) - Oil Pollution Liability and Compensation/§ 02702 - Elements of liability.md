@@ -10,7 +10,7 @@ Notwithstanding any other provision or rule of law, and subject to the provision
 
 &emsp;The removal costs referred to in subsection (a) of this section are—
 
-&emsp;&emsp;(A) all removal costs incurred by the United States, a State, or an Indian tribe under subsection (c), (d), (e), or (<i>l</i>) of section 1321 of this title, under the Intervention on the High Seas Act (33 U.S.C. 1471 et seq.), or under State law; and
+&emsp;&emsp;(A) all removal costs incurred by the United States, a State, or an Indian tribe under subsection (c), (d), (e), or (l) of section 1321 of this title, under the Intervention on the High Seas Act (33 U.S.C. 1471 et seq.), or under State law; and
 
 &emsp;&emsp;(B) any removal costs incurred by any person for acts taken by the person which are consistent with the National Contingency Plan.
 
@@ -82,7 +82,7 @@ This subchapter does not apply to any discharge—
 
 #### References in Text
 
-This Act, referred to in subsec. (a), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
+This Act, referred to in subsec. (a), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, known as theOil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
 The Intervention on the High Seas Act, referred to in subsec. (b)(1)(A), is Pub. L. 93–248, Feb. 5, 1974, 88 Stat. 8, as amended, which is classified generally to chapter 28 (§1471 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1471 of this title and Tables.
 

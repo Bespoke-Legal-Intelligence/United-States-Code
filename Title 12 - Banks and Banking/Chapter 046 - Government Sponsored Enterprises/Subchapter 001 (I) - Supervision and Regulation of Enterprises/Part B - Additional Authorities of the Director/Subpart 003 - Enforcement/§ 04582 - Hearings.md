@@ -22,7 +22,7 @@
 
 #### (1) In general
 
-&emsp;After any such hearing, and within 90 days after the enterprise has been notified that the case has been submitted to the Director for final decision, the Director shall render the decision (which shall include findings of fact upon which the decision is predicated) and shall issue and serve upon the enterprise anorder or orders consistent with the provisions of this subpart.
+&emsp;After any such hearing, and within 90 days after the enterprise has been notified that the case has been submitted to the Director for final decision, the Director shall render the decision (which shall include findings of fact upon which the decision is predicated) and shall issue and serve upon the enterprise an order or orders consistent with the provisions of this subpart.
 
 #### (2) Modification
 

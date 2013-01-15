@@ -42,7 +42,7 @@ Section 7832, Pub. L. 89–10, title IX, §9122, as added Pub. L. 103–382, tit
 
 Section 7833, Pub. L. 89–10, title IX, §9123, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3786, authorized fellowships for Indian students. See section 7453 of this title.
 
-Section 7834, Pub. L. 89–10, title IX, §9124, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3787; amended Pub. L. 105–244, title IX, §901(d), Oct. 7, 1998, 112 Stat. 1828, related to gifted and talented Indian students. See section 7454 of this title.
+Section 7834, Pub. L. 89–10, title IX, §9124, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3787;amended Pub. L. 105–244, title IX, §901(d), Oct. 7, 1998, 112 Stat. 1828, related to gifted and talented Indian students. See section 7454 of this title.
 
 Section 7835, Pub. L. 89–10, title IX, §9125, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3789, related to grants to tribes for education administrative planning and development. See section 7455 of this title.
 

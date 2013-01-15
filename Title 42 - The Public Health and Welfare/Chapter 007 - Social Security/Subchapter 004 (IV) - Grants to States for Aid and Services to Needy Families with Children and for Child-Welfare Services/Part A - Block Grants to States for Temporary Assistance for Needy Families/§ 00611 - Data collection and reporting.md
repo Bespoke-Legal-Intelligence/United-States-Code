@@ -6,7 +6,7 @@
 
 #### (A) Contents of report
 
-&emsp;&emsp;Each eligible State shall collect on a monthly basis, and report to the Secretary on a quarterly basis, the following disaggregated case record information on the families receiving assistance under the State program funded under this part (except for information relating to activities carried out under section 603(a)(5) of this title) or any other State program funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title):
+&emsp;&emsp;Each eligible State shall collect on a monthly basis, and report to the Secretary on a quarterly basis, the following disaggregated case record information on the families receiving assistance under the Stateprogram funded under this part (except for information relating to activities carried out under section 603(a)(5) of this title) or any other State program funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title):
 
 &emsp;&emsp;&emsp;(i) The county of residence of the family.
 
@@ -16,7 +16,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) benefits based on Federal disability status;
 
-&emsp;&emsp;&emsp;&emsp;(III) aid under a State plan approved under subchapter XIV of this chapter (as in effect without regard to the amendment made by section 301 of the Social Security Amendments of 1972)); <sup>1</sup>
+&emsp;&emsp;&emsp;&emsp;(III) aid under a State plan approved under subchapter XIV of this chapter (as in effect without regard to the amendment made by section 301 of the Social Security Amendments of 1972);
 
 &emsp;&emsp;&emsp;&emsp;(IV) aid or assistance under a State plan approved under subchapter XVI of this chapter (as in effect without regard to such amendment) by reason of being permanently and totally disabled; or
 
@@ -56,7 +56,7 @@
 
 &emsp;&emsp;&emsp;(xii) Information necessary to calculate participation rates under section 607 of this title.
 
-&emsp;&emsp;&emsp;(xiii) The type and amount of assistance received under the program, including theamount of and reason for any reduction of assistance (including sanctions).
+&emsp;&emsp;&emsp;(xiii) The type and amount of assistance received under the program, including the amount of and reason for any reduction of assistance (including sanctions).
 
 &emsp;&emsp;&emsp;(xiv) Any amount of unearned income received by any member of the family.
 
@@ -208,13 +208,55 @@ Not later than 6 months after the end of fiscal year 1997, and each fiscal year 
 
 #### (B) April-June, 2011 report
 
-&emsp;&emsp;Not later than September 30, 2011, the Secretary shall submit to Congress a report on the information submitted by eligible States for the April-June 2011 reporting period under paragraph (1)(A)(ii). The report shall include a State-by-State summary and analysis of such information, identification of any States with missing or incomplete reports, and recommendations for such administrative or legislative changes as the Secretary determines are necessary to require eligible States to report the information on a recurring basis <sup>2</sup>
+&emsp;&emsp;Not later than September 30, 2011, the Secretary shall submit to Congress a report on the information submitted by eligible States for the April-June 2011 reporting period under paragraph (1)(A)(ii). The report shall include a State-by-State summary and analysis of such information, identification of any States with missing or incomplete reports, and recommendations for such administrative or legislative changes as the Secretary determines are necessary to require eligible States to report the information on a recurring basis <sup>1</sup>
 
 #### (5) Authority for expeditious implementation
 
 &emsp;The requirements of chapter 5 of title 5 (commonly referred to as the “Administrative Procedure Act”) or any other law relating to rulemaking or publication in the Federal Register shall not apply to the issuance of guidance or instructions by the Secretary with respect to the implementation of this subsection to the extent the Secretary determines that compliance with any such requirement would impede the expeditious implementation of this subsection.
 
-(Aug. 14, 1935, ch. 531, title IV, §411, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2148; amended Pub. L. 105–33, title V, §§5001(e), 5507, 5514(c), Aug. 5, 1997, 111 Stat. 591, 616, 620; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §804(a)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–284; Pub. L. 109–171, title VII, §7102(b)(2), Feb. 8, 2006, 120 Stat. 136; Pub. L. 110–234, title IV, §4002(b)(1)(E), (2)(V), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(E), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 111–291, title VIII, §812(a), Dec. 8, 2010, 124 Stat. 3160.)
+#### (d) Data exchange standardization for improved interoperability
+
+#### (1) Data exchange standards
+
+#### (A) Designation
+
+&emsp;&emsp;The Secretary, in consultation with an interagency work group which shall be established by the Office of Management and Budget, and considering State and tribal perspectives, shall, by rule, designate a data exchange standard for any category of information required to be reported under this part.
+
+#### (B) Data exchange standards must be nonproprietary and interoperable
+
+&emsp;&emsp;The data exchange standard designated under subparagraph (A) shall, to the extent practicable, be nonproprietary and interoperable.
+
+#### (C) Other requirements
+
+&emsp;&emsp;In designating data exchange standards under this section, the Secretary shall, to the extent practicable, incorporate—
+
+&emsp;&emsp;&emsp;(i) interoperable standards developed and maintained by an international voluntary consensus standards body, as defined by the Office of Management and Budget, such as the International Organization for Standardization;
+
+&emsp;&emsp;&emsp;(ii) interoperable standards developed and maintained by intergovernmental partnerships, such as the National Information Exchange Model; and
+
+&emsp;&emsp;&emsp;(iii) interoperable standards developed and maintained by Federal entities with authority over contracting and financial assistance, such as the Federal Acquisition Regulatory Council.
+
+#### (2) Data exchange standards for reporting
+
+#### (A) Designation
+
+&emsp;&emsp;The Secretary, in consultation with an interagency work group established by the Office of Management and Budget, and considering State and tribal perspectives, shall, by rule, designate data exchange standards to govern the data reporting required under this part.
+
+#### (B) Requirements
+
+&emsp;&emsp;The data exchange standards required by subparagraph (A) shall, to the extent practicable—
+
+&emsp;&emsp;&emsp;(i) incorporate a widely-accepted, nonproprietary, searchable, computer-readable format;
+
+&emsp;&emsp;&emsp;(ii) be consistent with and implement applicable accounting principles; and
+
+&emsp;&emsp;&emsp;(iii) be capable of being continually upgraded as necessary.
+
+#### (C) Incorporation of nonproprietary standards
+
+&emsp;&emsp;In designating reporting standards under this paragraph, the Secretary shall, to the extent practicable, incorporate existing nonproprietary standards, such as the eXtensible Markup Language.
+
+(Aug. 14, 1935, ch. 531, title IV, §411, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2148; amended Pub. L. 105–33, title V, §§5001(e), 5507, 5514(c), Aug. 5, 1997, 111 Stat. 591, 616, 620; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §804(a)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–284; Pub. L. 109–171, title VII, §7102(b)(2), Feb. 8, 2006, 120 Stat. 136; Pub. L. 110–234, title IV, §4002(b)(1)(E), (2)(V), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(E), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 111–291, title VIII, §812(a), Dec. 8, 2010, 124 Stat. 3160; Pub. L. 112–96, title IV, §§4003(a), 4005(e), Feb. 22, 2012, 126 Stat. 195, 198.)
 
 #### References in Text
 
@@ -226,9 +268,13 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Prior Provisions
 
-A prior section 611, act Aug. 14, 1935, ch. 531, title IV, §411, as added Dec. 20, 1977, Pub. L. 95–216, title IV, §403(a), 91 Stat. 1561, related to availability of wage information to States and political subdivisions, prior to repeal by Pub. L. 98–369, div. B, title VI, §2651(b)(3), (<i>l</i>)(2), July 18, 1984, 98 Stat. 1149, 1151, effective Apr. 1, 1985, except as otherwise provided. See section 1320b–7 of this title.
+A prior section 611, act Aug. 14, 1935, ch. 531, title IV, §411, as added Dec. 20, 1977, Pub. L. 95–216, title IV, §403(a), 91 Stat. 1561, related to availability of wage information to States and political subdivisions, prior to repeal by Pub. L. 98–369, div. B, title VI, §2651(b)(3), (l)(2), July 18, 1984, 98 Stat. 1149, 1151, effective Apr. 1, 1985, except as otherwise provided. See section 1320b–7 of this title.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a)(1)(A)(ii)(III). Pub. L. 112–96, §4005(e), struck out second closing parenthesis after “1972”.
+
+Subsec. (d). Pub. L. 112–96, §4003(a), added subsec. (d).
 
 <b>2010</b>—Subsec. (c). Pub. L. 111–291 added subsec. (c).
 
@@ -270,6 +316,18 @@ Subsec. (a)(7). Pub. L. 105–33, §5507(2), redesignated par. (6) as (7).
 
 Pub. L. 105–33, §5001(e)(6), inserted before period at end “, and shall consult with the Secretary of Labor in defining the data elements with respect to programs operated with funds provided under section 603(a)(5) of this title”.
 
+#### Effective Date of 2012 Amendment; Regulations
+
+Pub. L. 112–96, title IV, §4003(b), Feb. 22, 2012, 126 Stat. 196, provided that:
+
+“(1)
+
+Data exchange standards.—The Secretary of Health and Human Services shall issue a proposed rule under section 411(d)(1) of the Social Security Act \[42 U.S.C. 611(d)(1)\] within 12 months after the date of the enactment of this section \[Feb. 22, 2012\], and shall issue a final rule under such section 411(d)(1), after public comment, within 24 months after such date of enactment.
+
+“(2)
+
+Data reporting standards.—The reporting standards required under section 411(d)(2) of such Act \[42 U.S.C. 611(d)(2)\] shall become effective with respect to reports required in the first reporting period, after the effective date of the final rule referred to in paragraph (1) of this subsection, for which the authority for data collection and reporting is established or renewed under the Paperwork Reduction Act \[44 U.S.C. 3501 et seq.\].”
+
 #### Effective Date of 2008 Amendment
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
@@ -290,7 +348,5 @@ Amendment by section 5514(c) of Pub. L. 105–33 effective as if included in the
 
 Section effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, set out as a note under section 601 of this title.
 
-<i><sup>1</sup></i><i> So in original. The second parenthesis probably should not appear.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be followed by a period.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

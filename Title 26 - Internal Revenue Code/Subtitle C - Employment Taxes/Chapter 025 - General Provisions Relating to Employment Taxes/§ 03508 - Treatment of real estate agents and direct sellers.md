@@ -50,11 +50,11 @@ For purposes of this section—
 
 #### Effective Date of 1996 Amendment
 
-Section 1118(b) of Pub. L. 104–188 provided that: “The amendments made by this section shall apply to services performed after December 31, 1995.”
+Pub. L. 104–188, title XI, §1118(b), Aug. 20, 1996, 110 Stat. 1764, provided that: “The amendments made by this section shall apply to services performed after December 31, 1995.”
 
 #### Effective Date
 
-Section 269(e) of Pub. L. 97–248 provided that:
+Pub. L. 97–248, title II, §269(e), Sept. 3, 1982, 96 Stat. 553, provided that:
 
 “(1)
 
@@ -66,5 +66,5 @@ Subsection (c).—The amendments made by subsection (c) \[amending provisions se
 
 #### Rules and Regulations
 
-Section 269(c)(3) of Pub. L. 97–248 provided that: “Nothing in section 530 of the Revenue Act of 1978 \[set out as a note under section 3401 of this title\] shall be construed to prohibit the implementation of the amendments made by this section \[enacting this section, amending section 410 of Title 42, The Public Health and Welfare, and amending provisions set out as a note under section 3401 of this title\].”
+Pub. L. 97–248, title II, §269(c)(3), Sept. 3, 1982, 96 Stat. 553, provided that: “Nothing in section 530 of the Revenue Act of 1978 \[set out as a note under section 3401 of this title\] shall be construed to prohibit the implementation of the amendments made by this section \[enacting this section, amending section 410 of Title 42, The Public Health and Welfare, and amending provisions set out as a note under section 3401 of this title\].”
 

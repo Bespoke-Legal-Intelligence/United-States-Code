@@ -6,7 +6,7 @@ Each rural business investment company that participates in the program establis
 
 &emsp;(1) information relating to the measurement criteria that the rural business investment company proposed in the program application of the rural business investment company; and
 
-&emsp;(2) in each case in which the rural business investment company under this subchapter makes an investment in, or a loan or grant to,a business that is not located in a rural area, a report on the number and percentage of employees of the business who reside in those areas.
+&emsp;(2) in each case in which the rural business investment company under this subchapter makes an investment in, or a loan or grant to, a business that is not located in a rural area, a report on the number and percentage of employees of the business who reside in those areas.
 
 #### (b) Public reports
 
@@ -36,7 +36,7 @@ Each rural business investment company that participates in the program establis
 
 &emsp;In compiling the report required under paragraph (1), the Secretary may not—
 
-&emsp;&emsp;(A) compile the report in a manner that permits identification of any particular type of investment by an individual rural business investment company or small business concern in which a rural business investment company invests; and
+&emsp;&emsp;(A) compile the report in a manner that permits identification of any particular type of investment by an individual rural business investment company or small businessconcern in which a rural business investment company invests; and
 
 &emsp;&emsp;(B) may not release any information that is prohibited under section 1905 of title 18.
 

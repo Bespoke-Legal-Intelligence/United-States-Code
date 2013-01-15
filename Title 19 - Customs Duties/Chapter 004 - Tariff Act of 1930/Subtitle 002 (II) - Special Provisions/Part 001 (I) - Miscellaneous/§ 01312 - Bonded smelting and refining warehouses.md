@@ -70,13 +70,13 @@ Upon the exportation of a product of smelting or refining other than refined met
 
 &emsp;&emsp;(A) 100 percent of the total amount of customs duties paid or owed on the materials on importation into the United States during the 8-year period beginning on January 1, 2004,
 
-&emsp;&emsp;(B) 75 percent of the total amount of customs duties paid or owed on the materials on importation into the United States during the 1-year period beginning on January 1, 2012,
+&emsp;&emsp;(B) 75 percent of the total amount of customs duties paid or owed on the materials onimportation into the United States during the 1-year period beginning on January 1, 2012,
 
 &emsp;&emsp;(C) 50 percent of the total amount of customs duties paid or owed on the materials on importation into the United States during the 1-year period beginning on January 1, 2013, and
 
 &emsp;&emsp;(D) 25 percent of the total amount of customs duties paid or owed on the materials on importation into the United States during the 1-year period beginning on January 1, 2014.
 
-> If Canada ceases to be a NAFTA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates, no bond shall be credited under this subsection with respect to an exportation of a product to Canada during the period such Agreement is in operation except to the extent that the product is a drawback eligible good undersection 204(a) of the United States-Canada Free-Trade Agreement Implementation Act of 1988.
+> If Canada ceases to be a NAFTA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates, no bond shall be credited under this subsection with respect to an exportation of a product to Canada during the period such Agreement is in operation except to the extent that the product is a drawback eligible good under section 204(a) of the United States-Canada Free-Trade Agreement Implementation Act of 1988.
 
 #### (e) General bond for two or more warehouses
 
@@ -105,6 +105,8 @@ Labor performed and services rendered pursuant to this section shall be under th
 #### Amendment of Section
 
 <i>For termination of amendment by section 107(c) of Pub. L. 108–77, see Effective and Termination Dates of 2003 Amendment note below.</i>
+
+<i>For termination of amendment by section 501(c) of Pub. L. 100–449, see Effective and Termination Dates of 1988 Amendment note below.</i>
 
 #### References in Text
 
@@ -156,9 +158,9 @@ Subsec. (b)(4). Pub. L. 103–182, §203(b)(2)(A), struck out “(other than exp
 
 Subsec. (d). Pub. L. 103–182, §203(b)(2)(C), struck out “(other than exportation to Canada on or after January 1, 1994, or such later date as may be proclaimed by the President under section 204(b)(2)(B) of the United States-Canada Free-Trade Agreement Implementation Act of 1988, except to the extent that the product is a drawback eligible good under section 204(a) of such Act of 1988)” after “Upon the exportation” and inserted before concluding period provisions excepting goods withdrawn for exportation to a NAFTA country, including pars. (1) and (2), as well as sentence relating to conditions arising should Canada cease to be a NAFTA country.
 
-<b>1988</b>—Subsec. (b)(1), (4). Pub. L. 100–449, §204(c)(2)(A), inserted “(other than exportation to Canada on or after January 1, 1994, or such later date as may be proclaimed by the President under section 204(b)(2)(B) of the United States-Canada Free-Trade Agreement Implementation Act of 1988, except to the extent that the metal-bearing materials were of Canadian origin as determined in accordance with section 202 of such Act of 1988)” after “exportation”.
+<b>1988</b>—Subsec. (b)(1), (4). Pub. L. 100–449, §204(c)(2)(A), temporarily inserted “(other than exportation to Canada on or after January 1, 1994, or such later date as may be proclaimed by the President under section 204(b)(2)(B) of the United States-Canada Free-Trade Agreement Implementation Act of 1988, except to the extent that the metal-bearing materials were of Canadian origin as determined in accordance with section 202 of such Act of 1988)” after “exportation”. See Effective and Termination Dates of 1988 Amendment note below.
 
-Subsec. (d). Pub. L. 100–449, §204(c)(2)(B), inserted “(other than exportation to Canada on or after January 1, 1994, or such later date as may be proclaimed by the President under section 204(b)(2)(B) of the United States-Canada Free-Trade Agreement Implementation Act of 1988, except to the extent that the product is a drawback eligible good under section 204(a) of such Act of 1988)” after “exportation”.
+Subsec. (d). Pub. L. 100–449, §204(c)(2)(B), temporarily inserted “(other than exportation to Canada on or after January 1, 1994, or such later date as may be proclaimed by the President under section 204(b)(2)(B) of the United States-Canada Free-Trade Agreement Implementation Act of 1988, except to the extent that the product is a drawback eligible good under section 204(a) of such Act of 1988)” after “exportation”. See Effective and Termination Dates of 1988 Amendment note below.
 
 Subsec. (f)(1). Pub. L. 100–418, §1214(h)(1)(A), substituted “chapter 26 of the Harmonized Tariff Schedule of the United States” for “schedule 6, part 1, of the Tariff Schedules of the United States” and “chapters 71 through 83 of the Harmonized Tariff Schedule of the United States” for “schedule 6, part 2, of such schedules” and struck out the quotation marks surrounding “metal waste and scrap” and “unwrought metal”.
 
@@ -176,9 +178,9 @@ Amendment by Pub. L. 108–77 effective on the date the United States-Chile Free
 
 Amendment by Pub. L. 103–182 applicable (1) with respect to exports from the United States to Canada on Jan. 1, 1996, if Canada is a NAFTA country on that date and after such date for so long as Canada continues to be a NAFTA country and (2) with respect to exports from the United States to Mexico on Jan. 1, 2001, if Mexico is a NAFTA country on that date and after such date for so long as Mexico continues to be a NAFTA country, see section 213(c) of Pub. L. 103–182, set out as an Effective Date note under section 3331 of this title.
 
-#### Effective and Termination Dates of 1988 Amendments
+#### Effective and Termination Dates of 1988 Amendment
 
-Amendment by Pub. L. 100–449 effective on date the United States-Canada Free-Trade Agreement enters into force (Jan. 1, 1989), and to cease to have effect on date Agreement ceases to be in force, see section 501(a), (c) of Pub. L. 100–449, set out in a note under section 2112 of this title.
+Amendment by Pub. L. 100–449 effective on date the United States-Canada Free-Trade Agreement entersinto force (Jan. 1, 1989), and to cease to have effect on date Agreement ceases to be in force, see section 501(a), (c) of Pub. L. 100–449, set out in a note under section 2112 of this title.
 
 Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100–418, set out as an Effective Date note under section 3001 of this title.
 

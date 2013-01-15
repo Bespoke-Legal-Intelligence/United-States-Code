@@ -16,5 +16,5 @@ A wilderness, in contrast with those areas where man and his own works dominate 
 
 #### Short Title
 
-Section 1 of Pub. L. 88–577 provided that: “This Act \[enacting this chapter\] may be cited as the ‘Wilderness Act’.”
+Pub. L. 88–577, §1, Sept. 3, 1964, 78 Stat. 890, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Wilderness Act’.”
 

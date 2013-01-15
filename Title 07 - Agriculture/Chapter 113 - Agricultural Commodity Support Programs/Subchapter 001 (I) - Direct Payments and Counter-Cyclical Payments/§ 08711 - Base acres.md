@@ -78,7 +78,7 @@
 
 #### (3) Review and report
 
-&emsp;Each year, to ensure, to the maximum extent practicable, that payments are received only by producers, the Secretary shall submit to Congress a report that describes the results of the actions taken under paragraph (2).
+&emsp;Each year, to ensure, to the maximum extent practicable, that payments are received only by producers, the Secretary shall submitto Congress a report that describes the results of the actions taken under paragraph (2).
 
 #### (d) Treatment of farms with limited base acres
 

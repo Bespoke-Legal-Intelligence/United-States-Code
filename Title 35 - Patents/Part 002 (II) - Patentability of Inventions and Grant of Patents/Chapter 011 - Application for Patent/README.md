@@ -6,7 +6,7 @@
 | [112\.](%C2%A7%2000112%20-%20Specification.md) | Specification. |
 | [113\.](%C2%A7%2000113%20-%20Drawings.md) | Drawings. |
 | [114\.](%C2%A7%2000114%20-%20Models%2C%20specimens.md) | Models, specimens. |
-| [115\.](%C2%A7%2000115%20-%20Oath%20of%20applicant.md) | Oath of applicant. |
+| [115\.](%C2%A7%2000115%20-%20Inventor%27s%20oath%20or%20declaration.md) | Inventor's oath or declaration. |
 | [116\.](%C2%A7%2000116%20-%20Inventors.md) | Inventors. |
 | [117\.](%C2%A7%2000117%20-%20Death%20or%20incapacity%20of%20inventor.md) | Death or incapacity of inventor. |
 | [118\.](%C2%A7%2000118%20-%20Filing%20by%20other%20than%20inventor.md) | Filing by other than inventor. |
@@ -17,10 +17,6 @@
 | [123\.](%C2%A7%2000123%20-%20Micro%20entity%20defined.md) | Micro entity defined. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Amendment of Analysis
-
-<i>Pub. L. 112–29, §4(a)(4), (e), Sept. 16, 2011, 125 Stat. 296, 297, provided that, effective upon the</i><i>expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to any patent application that is filed on or after that effective date, this analysis is amended by amending item 115 to read “Inventor's oath or declaration.” See 2011 Amendment note below.</i>
 
 #### Amendments
 
@@ -43,7 +39,7 @@ Pub. L. 112–29, §4(a)(4), Sept. 16, 2011, 125 Stat. 296, amended item 115 gen
 - [&sect; 00112 - Specification](%C2%A7%2000112%20-%20Specification.md)
 - [&sect; 00113 - Drawings](%C2%A7%2000113%20-%20Drawings.md)
 - [&sect; 00114 - Models, specimens](%C2%A7%2000114%20-%20Models%2C%20specimens.md)
-- [&sect; 00115 - Oath of applicant](%C2%A7%2000115%20-%20Oath%20of%20applicant.md)
+- [&sect; 00115 - Inventor's oath or declaration](%C2%A7%2000115%20-%20Inventor%27s%20oath%20or%20declaration.md)
 - [&sect; 00116 - Inventors](%C2%A7%2000116%20-%20Inventors.md)
 - [&sect; 00117 - Death or incapacity of inventor](%C2%A7%2000117%20-%20Death%20or%20incapacity%20of%20inventor.md)
 - [&sect; 00118 - Filing by other than inventor](%C2%A7%2000118%20-%20Filing%20by%20other%20than%20inventor.md)

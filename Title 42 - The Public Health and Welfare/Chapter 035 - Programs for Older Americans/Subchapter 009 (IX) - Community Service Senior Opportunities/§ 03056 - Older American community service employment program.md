@@ -14,7 +14,7 @@
 
 #### (1) Projects
 
-&emsp;To carry out this subchapter, the Secretary may make grants to public and nonprofit private agencies and organizations, agencies of a State, and tribal organizations to carry out the program established under subsection (a). Such grants may provide for the payment of costs, as provided in subsection (c), of projects developed by such organizations and agencies in cooperation with the Secretary in order to make such program effective or to supplement such program. The Secretary shall make the grants from allotments made under section 3056d of this title, and in accordance with section 3056<i>l</i> of this title. No payment shall be made by the Secretary toward the cost of any project established or administered by such an organization or agency unless the Secretary determines that such project—
+&emsp;To carry out this subchapter, the Secretary may make grants to public and nonprofit private agencies and organizations, agencies of a State, and tribal organizations to carry out the program established under subsection (a). Such grants may provide for the payment of costs, as provided in subsection (c), of projects developed by such organizations and agencies in cooperation with the Secretary in order to make such program effective or to supplement such program. The Secretary shall make the grants from allotments made under section 3056d of this title, and in accordance with section 3056l of this title. No payment shall be made by the Secretary toward the cost of any project established or administered by such an organization or agency unless the Secretary determines that such project—
 
 &emsp;&emsp;(A) will provide community service employment only for eligible individuals except for necessary technical, administrative, and supervisory personnel, and such personnel will, to the fullest extent possible, be recruited from among eligible individuals;
 
@@ -28,7 +28,7 @@
 
 &emsp;&emsp;&emsp;(ii) pursuant to the request of a grantee, an extended period of participation established by the Secretary for a specific project area for such grantee, up to a period of not more than 36 months, if the Secretary determines that extenuating circumstances exist relating to the factors identified in section 3056k(a)(2)(D) of this title that justify such an extended period for the program year involved;
 
-&emsp;&emsp;(D) will employ eligible individuals in service related to publicly owned and operated facilities and projects, or projects sponsored by nonprofit organizations (excludingpolitical parties exempt from taxation under section 501(c)(3) of title 26), but excluding projects involving the construction, operation, or maintenance of any facility used or to be used as a place for sectarian religious instruction or worship;
+&emsp;&emsp;(D) will employ eligible individuals in service related to publicly owned and operated facilities and projects, or projects sponsored by nonprofit organizations (excluding political parties exempt from taxation under section 501(c)(3) of title 26), but excluding projects involving the construction, operation, or maintenance of any facility used or to be used as a place for sectarian religious instruction or worship;
 
 &emsp;&emsp;(E) will contribute to the general welfare of the community, which may include support for children, youth, and families;
 
@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(H) will coordinate activities with training and other services provided under title I of the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.), including utilizing the one-stop delivery system of the local workforce investment areas involved to recruit eligible individuals to ensure that the maximum number of eligible individuals will have an opportunity to participate in the project;
 
-&emsp;&emsp;(I) will include such training (such as work experience, on-the-job training, and classroom training) as may be necessary to make the most effective use of the skills and talents of those individuals who are participating, and will provide for the payment of the reasonable expenses of individuals being trained, including a reasonable subsistence allowance equivalent to the wage described in subparagraph (J);
+&emsp;&emsp;(I) will include such training (such as work experience, on-the-job training, and classroom training) as may be necessary to make the most effective use of the skills and talents of those individuals who are participating, and will provide for the payment of thereasonable expenses of individuals being trained, including a reasonable subsistence allowance equivalent to the wage described in subparagraph (J);
 
 &emsp;&emsp;(J) will ensure that safe and healthy employment conditions will be provided, and will ensure that participants employed in community service and other jobs assisted under this subchapter will be paid wages that shall not be lower than whichever is the highest of—
 
@@ -94,7 +94,7 @@
 
 #### (B) Prepared under Workforce Investment Act of 1998
 
-&emsp;&emsp;An assessment and service strategy or individual employment plan prepared under subtitle B of title I of the Workforce Investment Act of 1998 (29 U.S.C. 2811 et seq.) for an eligible individual may be used to comply with the requirement specified in subparagraph (A).
+&emsp;&emsp;An assessment and service strategy or individual employment plan prepared under subtitle B of title I of the Workforce Investment Act of 1998 (29 U.S.C. 2811 et seq.) foran eligible individual may be used to comply with the requirement specified in subparagraph (A).
 
 #### (c) Federal share and use of funds
 
@@ -232,7 +232,7 @@ Whenever a grantee conducts a project within a planning and service area in a St
 
 #### (1) In general
 
-&emsp;The Secretary, in addition to exercising any other authority contained in this subchapter, shall use funds reserved under section 3056d(a)(1) of this title to carry out demonstration projects, pilot projects, and evaluation projects, for the purpose of developing and implementing techniques and approaches, and demonstrating the effectiveness of the techniques and approaches, in addressing the employment and training needs of eligible individuals. The Secretary shall enter into such agreements with States, public agencies, nonprofit private organizations, or private business concerns, as may be necessary, to conduct the projects authorized by this subsection. To the extent practicable, the Secretary shall provide an opportunity, prior to the development of a demonstration or pilot project, for the appropriate area agency on aging to submit comments on such a project in order to ensure coordination of activities under this subchapter.
+&emsp;The Secretary, in addition to exercising any other authority contained in this subchapter, shall use funds reserved under section 3056d(a)(1) of this title to carry out demonstration projects, pilot projects, and evaluation projects, for the purpose of developing and implementing techniques and approaches, and demonstrating the effectiveness of the techniques and approaches, in addressing the employment and training needs of eligible individuals. The Secretary shall enter into suchagreements with States, public agencies, nonprofit private organizations, or private business concerns, as may be necessary, to conduct the projects authorized by this subsection. To the extent practicable, the Secretary shall provide an opportunity, prior to the development of a demonstration or pilot project, for the appropriate area agency on aging to submit comments on such a project in order to ensure coordination of activities under this subchapter.
 
 #### (2) Projects
 
@@ -276,7 +276,7 @@ The Social Security Act, referred to in subsec. (b)(1)(N)(i), is act Aug. 14, 19
 
 #### Prior Provisions
 
-A prior section 3056, Pub. L. 89–73, title V, §502, as added Pub. L. 106–501, title V, §501, Nov. 13, 2000, 114Stat. 2267; amended Pub. L. 109–270, §2(k)(1), Aug. 12, 2006, 120 Stat. 748, related to the older American community service employment program, prior to the general amendment of this subchapter by Pub. L. 109–365.
+A prior section 3056, Pub. L. 89–73, title V, §502, as added Pub. L. 106–501, title V, §501, Nov. 13, 2000, 114 Stat. 2267; amended Pub. L. 109–270, §2(k)(1), Aug. 12, 2006, 120 Stat. 748, related to the older American community service employment program, prior to the general amendment of this subchapter by Pub. L. 109–365.
 
 Another prior section 3056, Pub. L. 89–73, title V, §502, formerly title IX, §902, as added Pub. L. 94–135, title I, §113(a), Nov. 28, 1975, 89 Stat. 720; renumbered title V, §502, and amended Pub. L. 95–478, title I, §105(a), (b), Oct. 18, 1978, 92 Stat. 1547; Pub. L. 97–115, §12(a)(1), (2), (b)(1), (c), Dec. 29, 1981, 95 Stat. 1606; Pub. L. 98–459, title V, §501, Oct. 9, 1984, 98 Stat. 1786; Pub. L. 100–175, title I, §§161, 162(a), Nov. 29, 1987, 101 Stat. 957; Pub. L. 102–375, title V, §§501, 504(c)(1), (2), title IX, §904(b)(1), Sept. 30, 1992, 106 Stat. 1265, 1269, 1309; Pub. L. 105–220, title III, §323, Aug. 7, 1998, 112 Stat. 1087; Pub. L. 105–277, div. A, §101(f) \[title VIII, §§403(b), 405(d)(33)(B), (f)(25)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–416, 2681–426, 2681–433; Pub. L. 105–332, §3(i)(1), Oct. 31, 1998, 112 Stat. 3126, related to the older American community service employment program, prior to the general amendment of this subchapter by Pub. L. 106–501.
 

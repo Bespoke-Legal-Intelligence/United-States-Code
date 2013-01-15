@@ -6,7 +6,7 @@ The Secretary shall ensure that the Department of Housing and Urban Development 
 
 #### (b) Report
 
-Not later than 60 days after November 28, 1990, and annually thereafter, the Secretary shall prepare and submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives a studydetailing the Department's plan to maintain such capacity, together with any recommendations for legislative and administrative action as the Secretary determines to be appropriate.
+Not later than 60 days after November 28, 1990, and annually thereafter, the Secretary shall prepare and submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives a study detailing the Department's plan to maintain such capacity, together with any recommendations for legislative and administrative action as the Secretary determines to be appropriate.
 
 (Pub. L. 101–625, title I, §110, Nov. 28, 1990, 104 Stat. 4093; Pub. L. 102–550, title IV, §407, Oct. 28, 1992, 106 Stat. 3778.)
 

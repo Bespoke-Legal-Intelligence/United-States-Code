@@ -50,7 +50,7 @@
 
 #### (d) Puerto Rico
 
-(1) There are authorized to be appropriated for grants to the Government of Puerto Rico $7,000,000 for fiscal year 1989 and $2,000,000 annually thereafter for grants to the Government of Puerto Rico to carry out the purposes of sections 1494 to 1494c of this title to be expended in accordance with a plan approved by the Executive Director of the White House Task Force on Puerto Rico in consultation with the Attorney General and the Secretaries of Education and Health and Human Services, to remain available until expended.
+(1) There are authorized to be appropriated for grants to the Government of Puerto Rico $7,000,000 for fiscal year 1989 and $2,000,000 annually thereafter for grants to the Government ofPuerto Rico to carry out the purposes of sections 1494 to 1494c of this title to be expended in accordance with a plan approved by the Executive Director of the White House Task Force on Puerto Rico in consultation with the Attorney General and the Secretaries of Education and Health and Human Services, to remain available until expended.
 
 (2) The United States Customs Service should station an aerostat in Puerto Rico.
 
@@ -80,7 +80,7 @@
 
 (2) There are authorized to be appropriated $500,000 for fiscal year 1989 and annually thereafter for grants to the Government of Palau to be expended in accordance with a plan to be approved by the Secretary of the Interior in consultation with the Attorney General and the Secretaries of Education, State, and Health and Human Services to carry out the purposes of sections 1494 to 1494c of this title.
 
-(3) To the extent not prohibited under the Constitution of Palau, upon written request of the President of Palau, the Drug Enforcement Administration, the Federal Bureau of Investigation, the Secret Service, the Immigration and Naturalization Service, and the Customs Service are authorized to investigate any United States criminal laws which are applicable in Palau incooperation with law enforcement agencies of Palau.
+(3) To the extent not prohibited under the Constitution of Palau, upon written request of the President of Palau, the Drug Enforcement Administration, the Federal Bureau of Investigation, the Secret Service, the Immigration and Naturalization Service, and the Customs Service are authorized to investigate any United States criminal laws which are applicable in Palau in cooperation with law enforcement agencies of Palau.
 
 (Pub. L. 99–570, title V, §5004, Oct. 27, 1986, 100 Stat. 3207–155; Pub. L. 100–690, title IX, §§9302–9305, 9306(b), 9307, Nov. 18, 1988, 102 Stat. 4536–4538.)
 
@@ -144,5 +144,5 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of Title 8, Aliens and Nationality.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
 

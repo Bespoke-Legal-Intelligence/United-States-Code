@@ -16,7 +16,7 @@ Except where the context requires otherwise, for purposes of this chapter:
 
 #### (4) Function
 
-&emsp;The term “function” means an administrative, financial, or regulatory activity of an agency, office, officer, or employee of the Department.
+&emsp;The term “function” means an administrative, financial, or regulatory activity of anagency, office, officer, or employee of the Department.
 
 (Pub. L. 103–354, title II, §203, Oct. 13, 1994, 108 Stat. 3209.)
 

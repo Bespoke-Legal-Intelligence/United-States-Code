@@ -42,7 +42,7 @@ Subsec. (b). Pub. L. 107–171, §1309(h)(3)(B), struck out “peanuts,” after
 
 <b>1960</b>—Subsec. (a). Pub. L. 86–507 inserted “or by certified mail” after “registered mail”.
 
-<b>1941</b>—Subsec. (a). Act Apr. 3, 1941, §6, among other changes, inserted “peanuts” after “rice” wherever appearing and inserted “all brokers and dealers in peanuts, all agents marketing peanuts for producers, or acquiring peanuts for buyers and dealers, and all peanutgrowers’ cooperative associations, all persons engaged in the business of cleaning, shelling, crushing, and salting of peanuts and the manufacture of peanut products, and all persons owning or operating peanut-picking or peanut-threshing machines”.
+<b>1941</b>—Subsec. (a). Act Apr. 3, 1941, §6, among other changes, inserted “peanuts” after “rice” wherever appearing and inserted “all brokers and dealers in peanuts, all agents marketing peanuts for producers, or acquiring peanuts for buyers and dealers, and all peanut growers’ cooperative associations, all persons engaged in the business of cleaning, shelling, crushing, and salting of peanuts and the manufacture of peanut products, and all persons owning or operating peanut-picking or peanut-threshing machines”.
 
 Subsec. (b). Act Apr. 3, 1941, §7, inserted “peanuts,” after “rice,”.
 
@@ -54,23 +54,23 @@ Amendment by Pub. L. 108–357 applicable to the 2005 and subsequent crops of to
 
 #### Effective and Termination Dates of 1996 Amendment
 
-Section 171(a)(2) of Pub. L. 104–127 provided that the amendment made by that section is effective only for 1996 through 2002 crops of peanuts.
+Pub. L. 104–127, title I, §171(a)(2), Apr. 4, 1996, 110 Stat. 937, provided that the amendment made by section 171(a)(2) is effective only for the 1996 through 2002 crops of peanuts.
 
 #### Effective and Termination Dates of 1990 Amendment
 
-Section 807 of Pub. L. 101–624 provided that the amendment made by that section is effective only for 1991 through 1995 crops of peanuts.
+Pub. L. 101–624, title VIII, §807, Nov. 28, 1990, 104 Stat. 3478, provided that the amendment made by section 807 is effective only for the 1991 through 1995 crops of peanuts.
 
 #### Effective and Termination Dates of 1985 Amendment
 
-Section 706 of Pub. L. 99–198 provided that the amendment made by that section is effective only for 1986 through 1990 crops of peanuts.
+Pub. L. 99–198, title VII, §706, Dec. 23, 1985, 99 Stat. 1441, provided that the amendment made by section 706 is effective only for the 1986 through 1990 crops of peanuts.
 
 #### Effective and Termination Dates of 1981 Amendment
 
-Section 706 of Pub. L. 97–98 provided that the amendment made by that section is effective for 1982 through 1985 crop of peanuts.
+Pub. L. 97–98, title VII, §706, Dec. 22, 1981, 95 Stat. 1256, provided that the amendment made by section 706 is effective for the 1982 through 1985 crop of peanuts.
 
 #### Effective and Termination Dates of 1977 Amendment
 
-Section 805 of Pub. L. 95–113 provided that the amendment made by that section is effective for 1978 through 1981 crops of peanuts.
+Pub. L. 95–113, title VIII, §805, Sept. 29, 1977, 91 Stat. 947, provided that the amendment made by section 805 is effective for the 1978 through 1981 crops of peanuts.
 
 #### Savings Provision
 

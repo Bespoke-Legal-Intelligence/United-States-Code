@@ -20,7 +20,7 @@ Any person who has entered into an agreement of indemnification under section 22
 
 (3)(A) In the case of any civil penalty with respect to which the procedures of this paragraph have been elected, the Secretary shall promptly assess such penalty, by order, after the date of the election under paragraph (1).
 
-(B) If the civil penalty has not been paid within sixty calendar days after the assessmentorder has been made under subparagraph (A), the Secretary shall institute an action in the appropriate district court of the United States for an order affirming the assessment of the civil penalty. The court shall have authority to review de novo the law and facts involved, and shall have jurisdiction to enter a judgment enforcing, modifying, and enforcing as so modified, or setting aside in whole or in part, such assessment.
+(B) If the civil penalty has not been paid within sixty calendar days after the assessment order has been made under subparagraph (A), the Secretary shall institute an action in the appropriate district court of the United States for an order affirming the assessment of the civil penalty. The court shall have authority to review de novo the law and facts involved, and shall have jurisdiction to enter a judgment enforcing, modifying, and enforcing as so modified, or setting aside in whole or in part, such assessment.
 
 (C) Any election to have this paragraph apply may not be revoked except with consent of the Secretary.
 

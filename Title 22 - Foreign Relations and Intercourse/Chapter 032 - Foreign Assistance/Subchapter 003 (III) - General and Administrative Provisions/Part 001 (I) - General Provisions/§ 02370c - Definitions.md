@@ -28,7 +28,7 @@ In sections 2370c to 2370c–2 of this title:
 
 &emsp;&emsp;&emsp;(iv) any person under 18 years of age who has been recruited or used in hostilities by armed forces distinct from the armed forces of a state; and
 
-&emsp;&emsp;(B) includes any person described in clauses <sup>1</sup> (ii), (iii), or (iv) of subparagraph (A)who is serving in any capacity, including in a support role such as a cook, porter, messenger, medic, guard, or sex slave.
+&emsp;&emsp;(B) includes any person described in clauses <sup>1</sup> (ii), (iii), or (iv) of subparagraph (A) who is serving in any capacity, including in a support role such as a cook, porter, messenger, medic, guard, or sex slave.
 
 (Pub. L. 110–457, title IV, §402, Dec. 23, 2008, 122 Stat. 5088.)
 

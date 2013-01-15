@@ -108,7 +108,7 @@
 
 &emsp;&emsp;In carrying out paragraph (1)(A), the State shall establish a default enrollment process—
 
-&emsp;&emsp;&emsp;(i) under which any such individual who does not enroll with a managed care entityduring the enrollment period specified by the State shall be enrolled by the State with such an entity which has not been found to be out of substantial compliance with the applicable requirements of this section and of section 1396b(m) of this title or section 1396d(t) of this title; and
+&emsp;&emsp;&emsp;(i) under which any such individual who does not enroll with a managed care entity during the enrollment period specified by the State shall be enrolled by the State with such an entity which has not been found to be out of substantial compliance with the applicable requirements of this section and of section 1396b(m) of this title or section 1396d(t) of this title; and
 
 &emsp;&emsp;&emsp;(ii) that takes into consideration—
 
@@ -182,7 +182,7 @@
 
 #### (B) “Emergency services” defined
 
-&emsp;&emsp;In subparagraph (A)(i), the term “emergency services” means, with respect to an individual enrolled with an organization,covered inpatient and outpatient services that—
+&emsp;&emsp;In subparagraph (A)(i), the term “emergency services” means, with respect to an individual enrolled with an organization, covered inpatient and outpatient services that—
 
 &emsp;&emsp;&emsp;(i) are furnished by a provider that is qualified to furnish such services under this subchapter, and
 
@@ -318,7 +318,7 @@
 
 #### (C) Deemed compliance for medicare managed care organizations
 
-&emsp;&emsp;At the option of a State, the requirements of subparagraph (A) shall not apply with respect to a medicaid managed care organization if the organization is an eligible organization with a contract in effect under section 1395mm of this title or a Medicare+�Choice organization with a contract in effect under part C of subchapter XVIII of this chapter and the organization has had a contract in effect under section 1396b(m) of this title at least during the previous 2-year period.
+&emsp;&emsp;At the option of a State, the requirements of subparagraph (A) shall not apply with respect to a medicaid managed care organization if the organization is an eligible organization with a contract in effect under section 1395mm of this title or a Medicare+Choice organization with a contract in effect under part C of subchapter XVIII of this chapter and the organization has had a contract in effect under section 1396b(m) of this title at least during the previous 2-year period.
 
 #### (d) Protections against fraud and abuse
 
@@ -414,7 +414,7 @@
 
 &emsp;&emsp;&emsp;(v) fails to comply with the applicable requirements of section 1396b(m)(2)(A)(x) of this title.
 
-> &emsp;&emsp;The State may also impose such intermediate sanction against a managed care entity if the State determines that the entity distributed directly or through any agent or independent contractor marketing materials in violation of subsection (d)(2)(A)(i)(II) of this section.
+> &emsp;&emsp;The State may also impose such intermediate sanction against a managed care entityif the State determines that the entity distributed directly or through any agent or independent contractor marketing materials in violation of subsection (d)(2)(A)(i)(II) of this section.
 
 #### (B) Rule of construction
 
@@ -444,7 +444,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) improvements are made to remedy the violations found under paragraph (1),
 
-&emsp;&emsp;&nbsp;except that temporary management under this subparagraph may not be terminated until the State has determined that themedicaid managed care organization has the capability to ensure that the violations shall not recur.
+&emsp;&emsp;&nbsp;except that temporary management under this subparagraph may not be terminated until the State has determined that the medicaid managed care organization has the capability to ensure that the violations shall not recur.
 
 &emsp;&emsp;(C) Permitting individuals enrolled with the managed care entity to terminate enrollment without cause, and notifying such individuals of such right to terminate enrollment.
 
@@ -480,7 +480,7 @@
 
 #### (f) Timeliness of payment; adequacy of payment for primary care services
 
-A contract under section 1396b(m) of this title with a medicaid managed care organization shall provide that the organization shall make payment to health care providers for items and services which are subject to the contract and that are furnished to individuals eligible for medical assistance under the State plan under this subchapter who are enrolled with the organization on a timely basis consistent with the claims payment procedures described in section 1396a(a)(37)(A) of this title, unless the health care provider and the organization agree to an alternate payment schedule and, in the case of primary care services described in section 1396a(a)(13)(C) of this title, consistent with the minimum payment rates specified in such section (regardless of the manner in which such payments are made, including in the form of capitation or partial capitation).
+A contract under section 1396b(m) of this title with a medicaid managed care organization shall provide that the organization shall make payment to health care providers for items and services which are subject to the contract and that are furnished to individuals eligible for medical assistance under the State plan under this subchapter who are enrolled with the organization on a timely basis consistent with the claims payment procedures described in section1396a(a)(37)(A) of this title, unless the health care provider and the organization agree to an alternate payment schedule and, in the case of primary care services described in section 1396a(a)(13)(C) of this title, consistent with the minimum payment rates specified in such section (regardless of the manner in which such payments are made, including in the form of capitation or partial capitation).
 
 #### (g) Identification of patients for purposes of making DSH payments
 
@@ -504,7 +504,7 @@ Each contract with a managed care entity under section 1396b(m) of this title or
 
 #### (2) Assurance of payment to Indian health care providers for provision of covered services
 
-&emsp;Each contract with a managed care entity under section 1396b(m) of this title or undersection 1396d(t)(3) of this title shall require any such entity, as a condition of receiving payment under such contract, to satisfy the following requirements:
+&emsp;Each contract with a managed care entity under section 1396b(m) of this title or under section 1396d(t)(3) of this title shall require any such entity, as a condition of receiving payment under such contract, to satisfy the following requirements:
 
 #### (A) Demonstration of access to Indian health care providers and application of alternative payment arrangements
 
@@ -646,7 +646,7 @@ Section effective Aug. 5, 1997, and applicable to contracts entered into or rene
 
 #### Studies and Reports
 
-Section 4705(c) of Pub. L. 105–33 provided that:
+Pub. L. 105–33, title IV, §4705(c), Aug. 5, 1997, 111 Stat. 500, provided that:
 
 “(1)
 

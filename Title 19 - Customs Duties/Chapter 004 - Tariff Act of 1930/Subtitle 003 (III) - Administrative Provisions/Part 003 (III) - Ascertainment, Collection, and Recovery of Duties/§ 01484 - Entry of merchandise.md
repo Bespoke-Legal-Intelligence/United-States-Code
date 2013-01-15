@@ -16,7 +16,7 @@
 
 (2)(A) The documentation or information required under paragraph (1) with respect to any imported merchandise shall be filed or transmitted in such manner and within such time periods as the Secretary shall by regulation prescribe. Such regulations shall provide for the filing of import activity summary statements, and permit the filing of reconfigured entries, covering merchandise released under a special delivery permit pursuant to section 1448(b) of this title and entries or warehouse withdrawals made during a calendar month, within such time period as is prescribed in regulations but not to exceed the 20th day following such calendar month. Entries filed under paragraph (1)(A) shall not be liquidated if covered by an import activity summary statement, but instead each reconfigured entry in the import activity summary statement shall be subject to liquidation or reliquidation pursuant to section 1500, 1501, or 1504 of this title.
 
-(B) When an entry of merchandise is made under this section, the required documentation or information shall be filed or electronically transmitted either by the owner or purchaser of the merchandise or, when appropriately designated by the owner, purchaser, or consignee of the merchandise, a person holding a valid license under section 1641 of this title. When a consignee declares on entry that he is the owner or purchaser of merchandise the Customs Service may, without liability, accept the declaration. For the purposes of this chapter, the importer of record must be one of the parties who is eligible to file the documentation or information required by this section.
+(B) When an entry of merchandise is made under this section, the required documentation or information shall be filed or electronically transmitted either by the owner or purchaser of the merchandise or, when appropriately designated by the owner, purchaser, or consignee of the merchandise, a person holding a valid license under section 1641 of this title. When a consignee declares on entry that he is the owner or purchaser of merchandise the Customs Service may, without liability, accept the declaration. For the purposes of this chapter, the importer of record must be one of the parties whois eligible to file the documentation or information required by this section.
 
 (C) The Secretary, in prescribing regulations to carry out this subsection, shall establish procedures which insure the accuracy and timeliness of import statistics, particularly statistics relevant to the classification and valuation of imports. Corrections of errors in such statistical data shall be transmitted immediately to the Director of the Bureau of the Census, who shall make corrections in the statistics maintained by the Bureau. The Secretary shall also provide, to the maximum extent practicable, for the protection of the revenue, the enforcement of laws governing the importation and exportation of merchandise, the facilitation of the commerce of the United States, and the equal treatment of all importers of record of imported merchandise.
 
@@ -24,7 +24,7 @@
 
 #### (1) In general
 
-&emsp;A party may elect to file a reconciliation with regard to such entry elements as are identified by the party pursuant to regulations prescribed by the Secretary. If the party so elects, the party shall declare that a reconciliation will be filed. The declaration shall be made in such manner as the Secretary shall prescribe and at the time the documentation or information required by subsection (a)(1)(B) of this section or the import activity summary statement is filed with, or transmitted to, the Customs Service, or at such later time as the Customs Service may, in its discretion, permit. The reconciliation shall be filed by the importer of record at such time and in such manner as the Secretary prescribes but not later than 21 months after the date the importer declares his intent to file the reconciliation. In the case of reconciling issues relatingto the assessment of antidumping and countervailing duties, the reconciliation shall be filed not later than 90 days after the date the Customs Service advises the importer that the period of review for antidumping or countervailing duty purposes has been completed. Before filing a reconciliation, an importer of record shall post bond or other security pursuant to such regulations as the Secretary may prescribe.
+&emsp;A party may elect to file a reconciliation with regard to such entry elements as are identified by the party pursuant to regulations prescribed by the Secretary. If the party so elects, the party shall declare that a reconciliation will be filed. The declaration shall be made in such manner as the Secretary shall prescribe and at the time the documentation or information required by subsection (a)(1)(B) of this section or the import activity summary statement is filed with, or transmitted to, the Customs Service, or at such later time as the Customs Service may, in its discretion, permit. The reconciliation shall be filed by the importer of record at such time and in such manner as the Secretary prescribes but not later than 21 months after the date the importer declares his intent to file the reconciliation. In the case of reconciling issues relating to the assessment of antidumping and countervailing duties, the reconciliation shall be filed not later than 90 days after the date the Customs Service advises the importer that the period of review for antidumping or countervailing duty purposes has been completed. Before filing a reconciliation, an importer of record shall post bond or other security pursuant to such regulations as the Secretary may prescribe.
 
 #### (2) Regulations regarding AD/CV duties
 
@@ -60,7 +60,7 @@ Any entry or other information transmitted by means of an authorized electronic 
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of law and except as provided in paragraph (3), all merchandise (including merchandise of different classes, types, and categories), withdrawn from a foreign trade zone during any 7-day period, shall, at the option of the operator or user of the zone, be the subject of a single estimated entry or release filed on or before the first day of the 7-day period in which the merchandise is to be withdrawn from the zone. The estimated entry or release shall be treated as a single entry and a single release of merchandise for purposes of section 58c(a)(9)(A) of this title and all fee exclusions and limitations of such section 58c of this title shall apply, including the maximum and minimum fee amounts provided for under subsection (b)(8)(A)(i) of such section. The entry summary for the estimated entry or release shall cover only the merchandise actually withdrawn from the foreign trade zone during the 7-day period.
+&emsp;Notwithstanding any other provision of law and except as provided in paragraph (3), allmerchandise (including merchandise of different classes, types, and categories), withdrawn from a foreign trade zone during any 7-day period, shall, at the option of the operator or user of the zone, be the subject of a single estimated entry or release filed on or before the first day of the 7-day period in which the merchandise is to be withdrawn from the zone. The estimated entry or release shall be treated as a single entry and a single release of merchandise for purposes of section 58c(a)(9)(A) of this title and all fee exclusions and limitations of such section 58c of this title shall apply, including the maximum and minimum fee amounts provided for under subsection (b)(8)(A)(i) of such section. The entry summary for the estimated entry or release shall cover only the merchandise actually withdrawn from the foreign trade zone during the 7-day period.
 
 #### (2) Other requirements
 
@@ -76,7 +76,7 @@ Any entry or other information transmitted by means of an authorized electronic 
 
 #### (3) Exception
 
-&emsp;The provisions of paragraph (1) shall not apply to merchandise the entry of which is prohibited by law or merchandise for whichthe filing of an entry summary is required before the merchandise is released from customs custody.
+&emsp;The provisions of paragraph (1) shall not apply to merchandise the entry of which is prohibited by law or merchandise for which the filing of an entry summary is required before the merchandise is released from customs custody.
 
 #### (4) Foreign trade zone; zone
 
@@ -110,7 +110,7 @@ R.S. §2842 required bond for the production of an invoice duly certified by the
 
 R.S. §§2847 and 2848 authorized the Secretary of the Treasury to admit to entry in certain cases merchandise subject to ad valorem duty, belonging to a person not residing in the United States, not accompanied with an invoice verified and authenticated as required by preceding section. They became inoperative by the repeal of R.S. §§2843, 2845, by the Customs Administrative Act of June 10, 1890, ch. 407, §29, 26 Stat. 141, reenacted by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 104, and the enactment of provisions for entry of goods without invoice by section 4 of said Customs Administrative Act amended by the Payne-Aldrich Tariff Act, and further amended by the Underwood Tariff Act of Oct. 3, 1913, ch. 16, §III, E, and were repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 
-R.S. §2858, provided that the Secretary of the Treasury, whenever it had become impracticable for the person desiring to make entry of merchandise to produce any invoice thereof, might authorize the entry thereof, and remit forfeitures in such cases, as in other cases under the revenue laws. It was repealed by the Customs Administrative Act of June 10, 1890, ch. 407, §29, 26 Stat. 141, reenacted by the Payne-Aldrich Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 104.
+R.S. §2858, provided that the Secretary of the Treasury, whenever it had become impracticable for the person desiring to make entry of merchandise to produceany invoice thereof, might authorize the entry thereof, and remit forfeitures in such cases, as in other cases under the revenue laws. It was repealed by the Customs Administrative Act of June 10, 1890, ch. 407, §29, 26 Stat. 141, reenacted by the Payne-Aldrich Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 104.
 
 A provision relating to statistical enumeration of merchandise, except that the “accurate statement” was to be a part of the declaration therein provided for, and a further provision making it the duty of the consular officer to whom the invoice should be produced to require the information to be given, were contained in act Oct. 3, 1913, ch. 16, §III, F, 38 Stat. 182, amending the Customs Administrative Act of June 10, 1890, ch. 407, §5, 26 Stat. 132, as previously amended by Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 95. Said section III, F, was repealed by act Sept. 21, 1922, ch. 356, title IV, §643, 42 Stat. 989.
 
@@ -156,7 +156,7 @@ Subsec. (h). Pub. L. 97–446, §201(d)(3), substituted provision relating to au
 
 Subsec. (i). Pub. L. 97–446, §201(d)(3), substituted provision authorizing appropriate customs officer to accept a duplicate bill of lading, for provision that any person might, upon the production of a duplicate bill of lading signed or certified to be genuine by the carrier bringing the merchandise to the port at which entry was to be made, make entry for the merchandise in respect to which such bill of lading was issued, in the manner and subject to the requirements prescribed in this section (or in regulations promulgated hereunder) in the case of a consignee within the meaning of paragraph (1) of section 1483 of this title, except that such person was to make such entry in his own name.
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–410, §102(a)(1), incorporated first sentence in introductory text of par. designated (1), added subpars. (A) and (B) and par. (2), and struck out second sentence which required the entry to be made at the customhouse within five days, exclusive of Sundays and holidays, after the entry of the importing vessel or report of the vehicle, or after the arrival at the port of destination in the case of merchandise transported in bond, unless the appropriate customs officer authorized in writing a longer time.
+<b>1978</b>—Subsec. (a). Pub. L. 95–410, §102(a)(1), incorporated first sentence in introductory text of par. designated (1), added subpars. (A) and (B) and par. (2), and struck out second sentence which required the entry to be made at the customhouse within five days, exclusiveof Sundays and holidays, after the entry of the importing vessel or report of the vehicle, or after the arrival at the port of destination in the case of merchandise transported in bond, unless the appropriate customs officer authorized in writing a longer time.
 
 Subsec. (c)(3). Pub. L. 95–410, §102(a)(2), substituted “subsection” for “subdivision”.
 
@@ -198,15 +198,15 @@ Pub. L. 106–200, title IV, §410(b), May 18, 2000, 114 Stat. 298, provided tha
 
 #### Effective Date of 1983 Amendment
 
-Section 201(g) of Pub. L. 97–446 provided that: “The amendments made by this section \[amending the General headnotes of the Tariff Schedules, this section, and sections 1485, 1487, 1494, 1505, and 1557 of this title, and repealing section 1483 of this title\] shall apply with respect to merchandise entered on and after the 30th day after the date of the enactment of this Act \[Jan. 12, 1983\].”
+Pub. L. 97–446, title II, §201(g), Jan. 12, 1983, 96 Stat. 2350, provided that: “The amendments made by this section \[amending the General headnotes of the Tariff Schedules, this section, and sections 1485, 1487, 1494, 1505, and 1557 of this title, and repealing section 1483 of this title\] shall apply with respect to merchandise entered on and after the 30th day after the date of the enactment of this Act \[Jan. 12, 1983\].”
 
 #### Effective Date of 1978 Amendment
 
-Section 102(b) of Pub. L. 95–410 provided that: “The amendments made by this section \[amending this section\] shall take effect 60 days after the date of enactment of this Act \[Oct. 3, 1978\].”
+Pub. L. 95–410, title I, §102(b), Oct. 3, 1978, 92 Stat. 889, provided that: “The amendments made by this section \[amending this section\] shall take effect 60 days after the date of enactment of this Act \[Oct. 3, 1978\].”
 
 #### Effective Date of 1975 Amendment
 
-Section 608(e) of Pub. L. 93–618 provided that: “The amendment made by subsection (a) \[amending this section\] insofar as it related to export declarations shall take effect on January 1, 1976.”
+Pub. L. 93–618, title VI, §608(e), Jan. 3, 1975, 88 Stat. 2074, provided that: “The amendment made by subsection (a) \[amending this section\] insofar as it related to export declarations shall take effect on January 1, 1976.”
 
 #### Effective Date of 1970 Amendment
 
@@ -242,7 +242,7 @@ In general.—Pursuant to sections 484 and 485 of the Tariff Act of 1930 (19 U.S
 
 &emsp;“(2)
 
-Information required.—The information referred to in paragraph (1) is a declaration as to whether the transaction value of the imported merchandise is determined on the basis of the price paid by the buyer in the first or earlier sale occurring prior to introduction of the merchandise into the United States.
+Information required.—The information referred to in paragraph (1) is a declaration as towhether the transaction value of the imported merchandise is determined on the basis of the price paid by the buyer in the first or earlier sale occurring prior to introduction of the merchandise into the United States.
 
 &emsp;“(3)
 
@@ -280,7 +280,7 @@ Matters to be included.—The report required under paragraph (1) shall include�
 
 &emsp;&emsp;“(A) the aggregate number of importers that declare the transaction value of the imported merchandise is determined on the basis of the method described in subsection (a)(2), including a description of the frequency of the use of such method;
 
-&emsp;&emsp;“(B) the tariff classification of such imported merchandise under the Harmonized Tariff Scheduleof the United States on an aggregate basis, including an analysis of the tariff classification of such imported merchandise on a sectoral basis;
+&emsp;&emsp;“(B) the tariff classification of such imported merchandise under the Harmonized Tariff Schedule of the United States on an aggregate basis, including an analysis of the tariff classification of such imported merchandise on a sectoral basis;
 
 &emsp;&emsp;“(C) the aggregate transaction value of such imported merchandise, including an analysis of the transaction value of such imported merchandise on a sectoral basis; and
 
@@ -352,15 +352,15 @@ Report.—By no later than the date that is 1 year after the date of enactment o
 
 #### Study of Commodity Classification Systems
 
-Section 608(b) of Pub. L. 93–618 mandated a joint study by the Secretary of Commerce and the United States International Trade Commission with a view toward development of an enumeration of articles resulting in comparability of import, production, and export data, with the submission of a report to both Houses of Congress and to the President no later than Aug. 1, 1975.
+Pub. L. 93–618, title VI, §608(b), Jan. 3, 1975, 88 Stat. 2074, mandated a joint study by the Secretary of Commerce and the United States International Trade Commission with a view toward development of an enumeration of articles resulting in comparability of import, production, and export data, with the submission of a report to both Houses of Congress and to the President no later than Aug. 1, 1975.
 
 #### Investigation by United States International Trade Commission; Formulation of International Commodity Code
 
-Section 608(c) of Pub. L. 93–618 authorized an investigation by the United States International Trade Commission to provide the basis for the formulation of an international commodity code (with a report to be submitted to both Houses of Congress and to the President no later than June 1, 1975) and to provide the basis for full and immediate participation by the Trade Commission in the United States contribution to technical work of the Harmonized Systems Committee to assure recognition of the needs of the business community in the development of a harmonized code.
+Pub. L. 93–618, title VI, §608(c), Jan. 3, 1975, 88 Stat. 2074, authorized an investigation by the United States International Trade Commission to provide the basis for the formulation of an international commodity code (with a report to be submitted to both Houses of Congress and to the President no later than June 1, 1975) and to provide the basis for full and immediate participation by the Trade Commission in the United States contribution to technical work of the Harmonized Systems Committee to assure recognition of the needs of the business community in the development of a harmonized code.
 
 #### Cooperation of Governmental Agencies With Secretary of Commerce and United States International Trade Commission in Studies and Investigations
 
-Section 608(d) of Pub. L. 93–618 provided that: “The President is requested to direct the appropriate agencies to cooperate fully with the Secretary of Commerce and the United States International Trade Commission in carrying out their responsibilities under subsections (a) \[amending this section\], (b), and (c) \[see notes set out above\].”
+Pub. L. 93–618, title VI, §608(d), Jan. 3, 1975, 88 Stat. 2074, provided that: “The President is requested to direct the appropriate agencies to cooperate fully with the Secretary of Commerce and the United States International Trade Commission in carrying out their responsibilities under subsections (a) \[amending this section\], (b), and (c) \[see notes set out above\].”
 
 <i><sup>1</sup></i><i> So in original. The word “and” probably should appear at end.</i>
 

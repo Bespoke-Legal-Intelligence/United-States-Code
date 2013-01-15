@@ -55,7 +55,7 @@
 
 <b>2001</b>—Pub. L. 107–56, title III, §361(c), Oct. 26, 2001, 115 Stat. 332, added item 310 and redesignated former item 310 as 311.
 
-<b>1994</b>—Pub. L. 103–296, title III, §312(<i>l</i>)(2), Aug. 15, 1994, 108 Stat. 1530, added item 333.
+<b>1994</b>—Pub. L. 103–296, title III, §312(l)(2), Aug. 15, 1994, 108 Stat. 1530, added item 333.
 
 <b>1989</b>—Pub. L. 101–73, title III, §307(a)(2), Aug. 9, 1989, 103 Stat. 352, added item 309 and redesignated former item 309 as 310.
 

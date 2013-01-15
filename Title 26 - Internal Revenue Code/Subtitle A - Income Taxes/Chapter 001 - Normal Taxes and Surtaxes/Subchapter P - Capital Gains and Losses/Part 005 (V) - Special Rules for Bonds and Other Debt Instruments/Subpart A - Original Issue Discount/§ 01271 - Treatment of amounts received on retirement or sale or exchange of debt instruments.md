@@ -76,7 +76,7 @@ For purposes of this title—
 
 #### (C) Ratable share
 
-&emsp;&emsp;For purposes of this paragraph, except as provided in subparagraph (D), the ratable share of the original issue discount is anamount which bears the same ratio to such discount as—
+&emsp;&emsp;For purposes of this paragraph, except as provided in subparagraph (D), the ratable share of the original issue discount is an amount which bears the same ratio to such discount as—
 
 &emsp;&emsp;&emsp;(i) the number of days which the taxpayer held the obligation, bears to
 
@@ -172,7 +172,7 @@ Subsec. (a)(4). Pub. L. 99–514, §1803(a)(1)(A), added par. (4).
 
 #### Effective Date of 1997 Amendment
 
-Section 1003(c)(2) of Pub. L. 105–34 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to sales, exchanges, and retirements after the date of enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title X, §1003(c)(2), Aug. 5, 1997, 111 Stat. 911, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to sales, exchanges, and retirements after the date of enactment of this Act \[Aug. 5, 1997\].”
 
 #### Effective Date of 1988 Amendment
 
@@ -184,11 +184,11 @@ Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if inc
 
 #### Effective Date
 
-Section 44 of subtitle C (§§41–44) of title I of division A of Pub. L. 98–369, as amended by Pub. L. 98–612, §2,Oct. 31, 1984, 98 Stat. 3182; Pub. L. 99–514, §2, title XVIII, §1803(b), Oct. 22, 1986, 100 Stat. 2095, 2797, provided that:
+Pub. L. 98–369, div. A, title I, §44, July 18, 1984, 98 Stat. 559, as amended by Pub. L. 98–612, §2, Oct. 31, 1984, 98 Stat. 3182; Pub. L. 99–514, §2, title XVIII, §1803(b), Oct. 22, 1986, 100 Stat. 2095, 2797, provided that:
 
 “(a)
 
-General Rule.—Except as otherwise provided in this section, the amendments made by this subtitle \[enacting this section and sections 1272 to 1288 and 6706, amending sections 103A, 163, 165, 249, 341, 405, 409, 453B, 483, 751, 811, 871, 881, 1016, 1037, 1351, 1441, 6049, 7701, and 7805, and repealing sections 1232, 1232A, and 1232B of this title\] shall apply to taxable years ending after the date of the enactment of this Act \[July 18, 1984\].
+General Rule.—Except as otherwise provided in this section, the amendments made by this subtitle \[subtitle C (§§41–44) of title I of div. A of Pub. L. 98–369, enacting this section and sections 1272 to 1288 and 6706, amending sections 103A, 163, 165, 249, 341, 405, 409, 453B,483, 751, 811, 871, 881, 1016, 1037, 1351, 1441, 6049, 7701, and 7805, and repealing sections 1232, 1232A, and 1232B of this title\] shall apply to taxable years ending after the date of the enactment of this Act \[July 18, 1984\].
 
 “(b)
 
@@ -326,7 +326,7 @@ Exception for assumptions of loans made on or before october 15, 1984.—
 
 In general.—If any person—
 
-&emsp;&emsp;&emsp;“(i) assumes, in connection with the sale or exchange of property, any debt obligation described in subparagraph (B) and issued on or before October 15, 1984, or
+&emsp;&emsp;&emsp;“(i) assumes, in connection with the sale or exchange of property, any debt obligation describedin subparagraph (B) and issued on or before October 15, 1984, or
 
 &emsp;&emsp;&emsp;“(ii) acquires any property subject to any such debt obligation issued on or before October 15, 1984,
 
@@ -466,7 +466,7 @@ Interest deferral rules.—Section 1277 of such Code (as added by section 41) sh
 
 “(d)
 
-Rules Relating to Discount on Short-Term Obligations.—Subpart C of part V of subchapter P ofchapter 1 of such Code (as added by section 41) shall apply to obligations acquired after the date of the enactment of this Act \[July 18, 1984\].
+Rules Relating to Discount on Short-Term Obligations.—Subpart C of part V of subchapter P of chapter 1 of such Code (as added by section 41) shall apply to obligations acquired after the date of the enactment of this Act \[July 18, 1984\].
 
 “(e) 5-
 

@@ -6,7 +6,7 @@ Program Establishment.—The Secretary of each military department, under regula
 
 (b)
 
-Authorized Education Programs.—Educational assistance may be provided under thischapter for pursuit of any program of education that is an approved program of education for purposes of chapter 30 of title 38.
+Authorized Education Programs.—Educational assistance may be provided under this chapter for pursuit of any program of education that is an approved program of education for purposes of chapter 30 of title 38.
 
 (c)
 
@@ -78,5 +78,5 @@ Subsec. (f). Pub. L. 110–181, §528(c)(2), added subsec. (f).
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–163 applicable to a licensing or certification test administered on or after Jan.6, 2006, see section 539(c) of Pub. L. 109–163, set out as a note under section 16131 of this title.
+Amendment by Pub. L. 109–163 applicable to a licensing or certification test administered on or after Jan. 6, 2006, see section 539(c) of Pub. L. 109–163, set out as a note under section 16131 of this title.
 

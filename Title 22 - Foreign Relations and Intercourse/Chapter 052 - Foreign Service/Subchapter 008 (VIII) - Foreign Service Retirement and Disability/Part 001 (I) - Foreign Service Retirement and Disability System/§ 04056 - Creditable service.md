@@ -42,13 +42,13 @@ A participant who during a period of war, or national emergency proclaimed by th
 
 #### (g) Recomputation of annuity for participants of Japanese ancestry interned during World War II
 
-(1) An annuity or survivor annuity based on the service of a participant of Japanese ancestry who would be eligible under section 8332(<i>l</i>) of title 5, for credit for civilian service for periods of internment during World War II shall, upon application to the Secretary of State, be recomputed to give credit for that service. Any such recomputation of an annuity shall apply with respect to months beginning more than 30 days after the date on which application for such recomputation is received by the Secretary of State.
+(1) An annuity or survivor annuity based on the service of a participant of Japanese ancestry who would be eligible under section 8332(l) of title 5, for credit for civilian service for periods of internment during World War II shall, upon application to the Secretary of State, be recomputed to give credit for that service. Any such recomputation of an annuity shall apply with respect to months beginning more than 30 days after the date on which application for such recomputation is received by the Secretary of State.
 
 (2) The Secretary of State shall take such action as may be necessary and appropriate to inform individuals entitled to have any service credited or annuity recomputed under this subsection of their entitlement to such credit or recomputation.
 
 (3) The Secretary of State shall, on request, assist any individual referred to in paragraph (1) in obtaining from any agency or other Government establishment information necessary to verify the entitlement of the individual to have any service credited or any annuity recomputed under this subsection.
 
-(4) Any agency or other Government establishment shall, upon request, furnish to the Secretary of State any information it possesses with respect to the internment or other detention, as described in section 8332(<i>l</i>) of title 5, of any participant.
+(4) Any agency or other Government establishment shall, upon request, furnish to the Secretary of State any information it possesses with respect to the internment or other detention, as described in section 8332(l) of title 5, of any participant.
 
 #### (h) Service as employees of Member or office of Congress while on approved leave without pay
 
@@ -82,7 +82,7 @@ A participant who, while on approved leave without pay, serves as a full-time pa
 
 <i>Section 5 of Ex. Ord. No. 12446, Oct. 17, 1983, 48 F.R. 48445, set out as a note under section 4067 of this title, provided that:</i>
 
-“(a) Section 816(a) of the Act (22 U.S.C. 4056(a)) is deemed to be further amended so that the provisions of section 8332(j) of Title 5 of the United States Code, relating to credit for military service, shall not apply with respect to any individual who is entitled to an annuity under such Act \[this chapter\] on or before the date of approval of this Order \[Oct. 17, 1983\], or who is entitled to an annuity based on a separation from service occurring on or before such date.
+“(a) Section 816(a) of the Act (22 U.S.C. 4056(a)) is deemed to be further amended so that the provisions of section 8332(j) of Title 5 of the United States Code, relating to credit for military service, shall not apply with respect to any individual who is entitled to an annuity under such Act \[this chapter\]on or before the date of approval of this Order \[Oct. 17, 1983\], or who is entitled to an annuity based on a separation from service occurring on or before such date.
 
 “(b) Subject to subsection (c), in any case in which an individual described in subsection (a) is also entitled to old-age or survivors insurance benefits under section 202 of the Social Security Act \[42 U.S.C. 402\] (or would be entitled to such benefits upon filing application therefor), the amount of the annuity to which such individual is entitled under chapter 8 of the Act \[this subchapter\] (after taking into account subsection (a)) which is payable for any month shall be reduced by an amount determined by multiplying the amount of such old-age or survivors insurance benefit for the determination month by a fraction—
 
@@ -102,7 +102,7 @@ A participant who, while on approved leave without pay, serves as a full-time pa
 
 “(f) The Secretary of Health and Human Services shall furnish such information to the Secretary of State as may be necessary to carry out the preceding provisions of this section.”
 
-<i>Section 1(b) and (c) of Ex. Ord. No. 12446 provided that subsection (d) of this section, applicable (i) to contributions for civilian service per</i><i>formed on or after the first day of Nov. 1983, (ii) to contributions for prior refunds to participants for which application is received by the employing agency on and after such first day of Nov. 1983, and (iii) to excess contributions under section 4055(h) of this title and voluntary contributions under section 4065(a) of this title from the first day of Nov. 1983, is deemed to be amended to exclude from the computation of creditable civilian service under subsec. (a) of this section any period of civilian service for which retirement deductions or contributions have not been made under section 4045(d) of this title unless—</i>
+<i>Section 1(b) and (c) of Ex. Ord. No. 12446 provided that subsection (d) of this section, applicable (i) to contributions for civilian service performed on or after the first day of Nov. 1983, (ii) to contributions for prior refunds to participants for which application is received by the employing agency on and after such first day of Nov. 1983, and (iii) to excess contributions under section 4055(h) of this title and voluntary contributions under section 4065(a) of this title from the first day of Nov. 1983, is deemed to be amended to exclude from the computation of creditable civilian service under subsec. (a) of this section any period of civilian service for which retirement deductions or contributions have not been made under section 4045(d) of this title unless—</i>
 
 <i>(1) the participant makes a contribution for such period as provided in such section 4045(d) of this title; or</i>
 

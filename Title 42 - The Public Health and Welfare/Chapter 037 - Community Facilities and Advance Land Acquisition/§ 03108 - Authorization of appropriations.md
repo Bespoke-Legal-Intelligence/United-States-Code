@@ -38,7 +38,7 @@ Subsec. (b). Pub. L. 90–448, §605(a), substituted “July 1, 1970” for “J
 
 #### Congressional Statement of Findings
 
-Section 2 of Pub. L. 91–431 provided that:
+Pub. L. 91–431, §2, Oct. 6, 1970, 84 Stat. 886, provided that:
 
 “(a) The Congress finds that a large number of municipalities and other entities of local government throughout the Nation are unable to finance construction of vital and urgently needed public facilities because of the shortage of funds for long-term borrowing.
 
@@ -46,5 +46,5 @@ Section 2 of Pub. L. 91–431 provided that:
 
 #### Administrative Priority for Applications Relating to Activities in Areas Affected by Base Closings
 
-State or unit of local government or agency thereof affected by reduction in level of expenditure or employment at Department of Defense installation located in or near such State or unit of local government, priorityin processing applications for assistance under this section, see section 1453a of this title.
+State or unit of local government or agency thereof affected by reduction in level of expenditure or employment at Department of Defense installation located in or near such State or unit of local government, priority in processing applications for assistance under this section, see section 1453a of this title.
 

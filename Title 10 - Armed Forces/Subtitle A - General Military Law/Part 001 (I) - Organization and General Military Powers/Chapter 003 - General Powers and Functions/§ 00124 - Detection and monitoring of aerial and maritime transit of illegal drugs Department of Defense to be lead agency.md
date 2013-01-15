@@ -76,7 +76,7 @@ Report.—Not later than six months after the date of the enactment of this Act 
 
 “(e)
 
-Limitation on Obligation of Funds.—(1) Except as provided in paragraph (2), none of the funds appropriated or otherwise made available for the Department of Defense for fiscal year 1993 pursuant to an authorization of appropriations in this Act \[see Tables for classification\] may be obligated or expended for the procurement or upgrading of a counter-drug detection and monitoring system, for research and development with respect to such a system, or for the lease or rental of such a system until after the date on which the Secretary of Defense submits to Congress the report required under subsection (d).
+Limitation on Obligation of Funds.—(1) Except as provided in paragraph (2), none of the funds appropriated or otherwise made available for the Department of Defense for fiscal year 1993 pursuant to an authorization of appropriations in this Act \[see Tables for classification\] may be obligated or expended for theprocurement or upgrading of a counter-drug detection and monitoring system, for research and development with respect to such a system, or for the lease or rental of such a system until after the date on which the Secretary of Defense submits to Congress the report required under subsection (d).
 
 “(2) Paragraph (1) shall not prohibit obligations or expenditures of funds for—
 
@@ -94,7 +94,7 @@ Definition.—For purposes of this section, the term ‘counter-drug detection a
 
 #### Integration of Communications Network
 
-Section 1204(a) of Pub. L. 101–189 provided that:
+Pub. L. 101–189, div. A, title XII, §1204(a), Nov. 29, 1989, 103 Stat. 1564, provided that:
 
 “(1) The Secretary of Defense shall integrate into an effective communications network the command, control, communications, and technical intelligence assets of the United States that are dedicated (in whole or in part) to the interdiction of illegal drugs into the United States.
 
@@ -102,7 +102,7 @@ Section 1204(a) of Pub. L. 101–189 provided that:
 
 #### Research and Development
 
-Section 1205 of Pub. L. 101–189 provided that: “The Secretary of Defense shall ensure that adequate research and development activities of the Department of Defense, including research and development activities of the Defense Advanced Research Projects Agency, are devoted to technologies designed to improve—
+Pub. L. 101–189, div. A, title XII, §1205, Nov. 29, 1989, 103 Stat. 1564, provided that: “The Secretary of Defense shall ensure that adequate research and development activities of the Department of Defense, including research and development activities of the Defense Advanced Research Projects Agency, are devoted to technologies designed to improve—
 
 &emsp;“(1) the ability of the Department to carry out the detection and monitoring function of the Department under section 124 of title 10, United States Code, as added by section 1202; and
 
@@ -110,7 +110,7 @@ Section 1205 of Pub. L. 101–189 provided that: “The Secretary of Defense sha
 
 #### Training Exercises in Drug-Interdiction Areas
 
-Section 1206 of Pub. L. 101–189 provided that:
+Pub. L. 101–189, div. A, title XII, §1206, Nov. 29, 1989, 103 Stat. 1564, provided that:
 
 “(a)
 
@@ -124,7 +124,7 @@ Report.—(1) Not later than February 1 of 1991 and 1992, the Secretary shall su
 
 &emsp;“(A) a description of the exercises conducted in drug-interdiction areas and the effectiveness of those exercises in the national counter-drug effort; and
 
-&emsp;“(B) a description of those additional actions that could be taken (and an assessment of the results ofthose actions) if additional funds were made available to the Department of Defense for additional military training exercises in drug-interdiction areas for the purpose of enhancing interdiction and deterrence of drug smuggling.
+&emsp;“(B) a description of those additional actions that could be taken (and an assessment of the results of those actions) if additional funds were made available to the Department of Defense for additional military training exercises in drug-interdiction areas for the purpose of enhancing interdiction and deterrence of drug smuggling.
 
 “(c)
 

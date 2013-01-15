@@ -44,7 +44,7 @@ The report required under subsection (a)(2) shall include—
 
 #### (2) Report
 
-&emsp;The Administrator shall include a report on the disaster simulation exercises conducted under paragraph (1) each time the Administration submits a report required under section 657<i>o</i> of this title, as added by this Act.
+&emsp;The Administrator shall include a report on the disaster simulation exercises conducted under paragraph (1) each time the Administration submits a report required under section 657o of this title, as added by this Act.
 
 (Pub. L. 110–234, title XII, §12072, May 22, 2008, 122 Stat. 1411; Pub. L. 110–246, §4(a), title XII, §12072, June 18, 2008, 122 Stat. 1664, 2173.)
 
@@ -52,7 +52,7 @@ The report required under subsection (a)(2) shall include—
 
 The date of enactment of this Act, referred to in subsec. (a), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
-Section 657<i>o</i> of this title, as added by this Act, referred to in subsec. (c)(2), is section 657<i>o</i> of this title, as added by Pub. L. 110–246.
+Section 657o of this title, as added by this Act, referred to in subsec. (c)(2), is section 657o of this title, as added by Pub. L. 110–246.
 
 #### Codification
 

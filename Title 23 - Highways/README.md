@@ -1,6 +1,4 @@
 
-23 U.S.C.<br>United States Code, 2011 Edition<br>Title 23 - HIGHWAYS<br>From the U.S. Government Publishing Office, www.gpo.gov
-
 # TITLE 23—HIGHWAYS
 
 <i>This title was enacted by Pub. L. 85–767, §1, Aug. 27, 1958, 72 Stat. 885</i>
@@ -649,15 +647,15 @@ Elim.
 
 #### Citation
 
-Section 1 of Pub. L 85–767, Aug. 27, 1958, 72 Stat. 885, provided in part that this title may be cited as “Title 23, United States Code, §—”.
+Pub. L 85–767, §1, Aug. 27, 1958, 72 Stat. 885, provided in part that this title may be cited as “Title 23, United States Code, §—”.
 
 #### Repeals
 
-Section 2 of Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 919, repealed the sections or parts of sections of the Revised Statutes or Statutes at Large covering provisions codified in this title.
+Pub. L. 85–767, §2, Aug. 27, 1958, 72 Stat. 919, repealed the sections or parts of sections of the Revised Statutes or Statutes at Large covering provisions codified in this title.
 
 #### Construction
 
-Section 3 of Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 921, provided that:
+Pub. L. 85–767, §3, Aug. 27, 1958, 72 Stat. 921, provided that:
 
 “(a) If any provision of title 23, as enacted by section 1 of this Act or the application thereof to any person or circumstance is held invalid, the remainder of the title and the application of the provision to other persons or circumstances shall not be affected thereby.
 
@@ -665,7 +663,7 @@ Section 3 of Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 921, provided that:
 
 #### Savings Provision
 
-Section 4 of Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 921, provided that: “Any rights or liabilities now existing under prior Acts or portions thereof shall not be affected by the repeal of such prior Acts or portions under section 2 of this Act.”
+Pub. L. 85–767, §4, Aug. 27, 1958, 72 Stat. 921, provided that: “Any rights or liabilities now existing under prior Acts or portions thereof shall not be affected by the repeal of such prior Acts or portions under section 2 of this Act.”
 
 #### Recodification of Title 23
 

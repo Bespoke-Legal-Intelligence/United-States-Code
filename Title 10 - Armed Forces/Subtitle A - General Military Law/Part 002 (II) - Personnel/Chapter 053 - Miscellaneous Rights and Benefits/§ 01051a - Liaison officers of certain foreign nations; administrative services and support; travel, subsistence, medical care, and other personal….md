@@ -70,7 +70,7 @@ Subsec. (e). Pub. L. 110–181, §1203(d), struck out heading and text of subsec
 
 #### Effective Date of 2009 Amendment
 
-Pub. L. 111–84, div. A, title XII, §1205(b), Oct. 28, 2009, 123 Stat. 2514, provided that: “Paragraph (2) of section 1051a(a) of title 10, United States Code (as added by subsection (a)), shall take effect on October 1, 2009, or the date of the enactment of this Act \[Oct. 28, 2009\], whichever is later.”
+Pub. L. 111–84, div. A, title XII, §1205(b), Oct. 28, 2009, 123 Stat. 2514, provided that: “Paragraph (2) of section1051a(a) of title 10, United States Code (as added by subsection (a)), shall take effect on October 1, 2009, or the date of the enactment of this Act \[Oct. 28, 2009\], whichever is later.”
 
 #### GAO Report
 

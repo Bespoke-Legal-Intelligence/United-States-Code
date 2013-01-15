@@ -10,7 +10,7 @@ Any person entitled to a refund of tax imposed by section 4251, 4261, or 4271 pa
 
 #### (c) Refund of overcollections
 
-In case any person required under section 4251, 4261, or 4271 to collect any tax shall make an overcollection of such tax, such person shall, upon proper application, refund such overcollection to the person entitled thereto.
+In case any person required under section 4251, 4261, or 4271 to collect any tax shall make anovercollection of such tax, such person shall, upon proper application, refund such overcollection to the person entitled thereto.
 
 #### (d) Refund of taxable payment
 
@@ -42,11 +42,11 @@ Amendment by Pub. L. 89–44 to take effect in a manner consistent with effectiv
 
 #### Effective Date of 1958 Amendments
 
-Section 1(c) of Pub. L. 85–859 provided in part that: “Except as otherwise provided, the amendments and repeals made by title I of this Act \[enacting sections 4057, 4143, 4221 to 4225, and 4294 of this title, amending chapter 34, this section, and sections 4001, 4003, 4031, 4041, 4053, 4111, 4121, 4141, 4142, 4192, 4216 to 4218, 4231 to 4233, 4263, 4291, 4501, 4601, 6011, 6412, 6416, 6420, 6421, 6501, and 6805 of this title, and repealing section 4112 of this title and former sections 4143, 4152, 4220 to 4225, and 4316 of this title\] shall take effect on the first day of the first calendar quarter which begins more than 60 days after the date on which this Act is enacted \[Sept. 2, 1958\].”
+Pub. L. 85–859, §1(c), Sept. 2, 1958, 72 Stat. 1275, provided in part that: “Except as otherwise provided, the amendments and repeals made by title I of this Act \[enacting sections 4057, 4143, 4221 to 4225, and 4294 of this title, amending chapter 34, this section, and sections 4001, 4003, 4031, 4041, 4053, 4111, 4121, 4141, 4142, 4192, 4216 to 4218, 4231 to 4233, 4263, 4291, 4501, 4601, 6011, 6412, 6416, 6420, 6421, 6501, and 6805 of this title, and repealing section 4112 of this title and former sections 4143, 4152, 4220 to 4225, and 4316 of this title\] shall take effect on the first day of the first calendar quarter which begins more than 60 days after the date on which this Act is enacted \[Sept. 2, 1958\].”
 
-Section 4(c) of Pub. L. 85–475, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 85–475, §4(c), June 30, 1958, 72 Stat. 261, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1) Except as provided in paragraph (2), the repeals and amendments made by subsections (a) and (b) \[repealing sections 4271 to 4273 and 4281 to 4283 of this title and amending this section and sections 4292, 6416, 7012, and 7272 of this title\] shall apply only with respect to amounts paid on or after August 1, 1958.
 
-“(2) In the case of transportation with respect to which the second sentence of section 4281 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] applies, the repeals and amendments made by subsections (a)and (b) \[repealing sections 4271 to 4273 and 4281 to 4283 of this title and amending this section and sections 4292, 6416, 7012, and 7272 of this title\] shall apply only if the transportation begins on or after August 1, 1958.”
+“(2) In the case of transportation with respect to which the second sentence of section 4281 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] applies, the repeals and amendments made by subsections (a) and (b) \[repealing sections 4271 to 4273 and 4281 to 4283 of this title and amending this section and sections 4292, 6416, 7012, and 7272 of this title\] shall apply only if the transportation begins on or after August 1, 1958.”
 

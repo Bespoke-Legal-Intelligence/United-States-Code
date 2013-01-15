@@ -10,11 +10,11 @@ Except as otherwise provided in section 460gg–1 of this title and section 3 of
 
 &emsp;(4) protection and maintenance of fish and wildlife habitat;
 
-&emsp;(5) protection of archeological and paleontologic sites and interpretation of these sites for the public benefit and knowledge insofar as it is compatible with protection;
+&emsp;(5) protection of archeological and paleontologic sites and interpretation of these sites forthe public benefit and knowledge insofar as it is compatible with protection;
 
 &emsp;(6) preservation and restoration of historic sites associated with and typifying the economic and social history of the region and the American West; and
 
-&emsp;(7) such management, utilization, and disposal of natural resources on federally ownedlands, including, but not limited to, timber harvesting by selective cutting, mining, and grazing and the continuation of such existing uses and developments as are compatible with the provisions of this subchapter.
+&emsp;(7) such management, utilization, and disposal of natural resources on federally owned lands, including, but not limited to, timber harvesting by selective cutting, mining, and grazing and the continuation of such existing uses and developments as are compatible with the provisions of this subchapter.
 
 (Pub. L. 94–199, §7, Dec. 31, 1975, 89 Stat. 1118.)
 

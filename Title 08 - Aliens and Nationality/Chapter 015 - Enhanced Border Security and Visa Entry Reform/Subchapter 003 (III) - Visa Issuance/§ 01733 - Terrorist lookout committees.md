@@ -20,7 +20,7 @@ The Secretary shall establish rules governing the composition of such committees
 
 #### (d) Meetings
 
-Each committee established under subsection (a) of this section shall meet at least monthly to share information pertaining to the committee's purpose as described in subsection (b)(2) of this section.
+Each committee established under subsection (a) of this section shall meet at least monthly toshare information pertaining to the committee's purpose as described in subsection (b)(2) of this section.
 
 #### (e) Periodic reports to the Secretary of State
 

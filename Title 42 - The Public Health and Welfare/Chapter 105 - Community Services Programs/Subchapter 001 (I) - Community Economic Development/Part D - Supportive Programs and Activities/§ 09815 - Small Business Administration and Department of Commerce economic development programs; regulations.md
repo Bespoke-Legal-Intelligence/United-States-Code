@@ -1,6 +1,6 @@
 ### §9815. Small Business Administration and Department of Commerce economic development programs; regulations
 
-(a)(1) Funds granted under this subchapter which are invested directly or indirectly, in a small investment company, local development company, limited small business investment company, or small business investment company licensee under section 681(d) <sup>1</sup> of title 15 shall be included as “private paid-in capital and paid-in surplus”, “combined paid-in capital and paid-in surplus”, and “paid-in capital” for purposes of sections 682, 683, and 696, respectively, of title 15.
+(a)(1) Funds granted under this subchapter which are invested directly or indirectly, in a small investment company, local development company, limited small business investment company, or small business investment company licensee under section 681(d) <sup>1</sup> of title 15 shall be included as “private paid-in capital andpaid-in surplus”, “combined paid-in capital and paid-in surplus”, and “paid-in capital” for purposes of sections 682, 683, and 696, respectively, of title 15.
 
 (2) Not later than 90 days after August 13, 1981, the Administrator of the Small Business Administration, after consultation with the Secretary, shall promulgate regulations to ensure the availability to community development corporations of such programs as shall further the purposes of this subchapter, including programs under section 637(a) of title 15.
 

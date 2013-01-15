@@ -24,7 +24,7 @@ Transfer.—To the extent that the Director of the National Park Service has jur
 
 “(b)
 
-Area Described.—The area described in this subsection is the property which is bounded on the north by Pennsylvania Avenue Northwest, on the east by First Street Northwest and First Street Southwest, on the south by Maryland Avenue Southwest, and on the west by Third Street Southwest and Third Street Northwest.”
+Area Described.—The area described in this subsection is the property which is bounded on thenorth by Pennsylvania Avenue Northwest, on the east by First Street Northwest and First Street Southwest, on the south by Maryland Avenue Southwest, and on the west by Third Street Southwest and Third Street Northwest.”
 
 #### Recyclable Materials
 

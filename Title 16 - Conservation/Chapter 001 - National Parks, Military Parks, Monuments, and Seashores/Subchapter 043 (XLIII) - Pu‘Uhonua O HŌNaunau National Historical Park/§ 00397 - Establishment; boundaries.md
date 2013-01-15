@@ -34,7 +34,7 @@ Beginning at a one and one-half-inch pipe in concrete monument called “Kalani�
 
 12\. One hundred and seventy-two degrees twenty-eight minutes forty-eight and one-tenth feet along same;
 
-13\. Two hundred and twenty-six degrees twenty-three minutes two hundred twenty-eight and eight-tenths feet along remainder of L. C. Aw.11216:34 to M. Kekauonohi to the south side of fifty-foot road;
+13\. Two hundred and twenty-six degrees twenty-three minutes two hundred twenty-eight and eight-tenths feet along remainder of L. C. Aw. 11216:34 to M. Kekauonohi to the south side of fifty-foot road;
 
 14\. Two hundred and sixty-four degrees fifty-one minutes one hundred fifteen and two-tenths feet along the south side of fifty-foot road;
 
@@ -86,7 +86,7 @@ Beginning at a one and one-half-inch pipe in concrete monument called “Kalani�
 
 1\. Three hundred thirty-eight degrees forty-nine minutes thirty seconds five hundred ninety-five and four-tenths feet along the remainder of L. C. Aw. 8521–B to G. D. Hueu to the eight thousand foot south coordinates line referred to Government Survey Triangulation Station “Lae-O-Kanoni”;
 
-2\. Ninety degree no minutes one thousand ninety-nine and seven-tenths feet along same and along said eight thousand foot south coordinates line and across school grant 7 Apana 6 to high-water mark;
+2\. Ninety degree no minutes one thousand ninety-nine and seven-tenths feet along sameand along said eight thousand foot south coordinates line and across school grant 7 Apana 6 to high-water mark;
 
 3\. Thence along high-water mark, along sea, the direct azimuth and distance being: two hundred six degrees thirty-three minutes thirty seconds four hundred eighty-two and nine-tenths feet;
 

@@ -1,6 +1,6 @@
 # Printed pages - Title 44 - Public Printing and Documents
 
-GPO's 2011 edition (laws in effect as of 2012-01-03), from its printed page marks. The exact position of
+GPO's 2012 edition (laws in effect as of 2013-01-15), from its printed page marks. The exact position of
 every mark is in `_page-maps/USCODE-title44.json`. Page numbers belong to the printed edition and change
 from edition to edition; the section files hold the text only.
 
@@ -195,8 +195,8 @@ from edition to edition; the section files hold the text only.
 | [&sect; 01710 - Index of documents number and distribution](Chapter%20017%20-%20Distribution%20and%20Sale%20of%20Public%20Documents/%C2%A7%2001710%20-%20Index%20of%20documents%20number%20and%20distribution.md) | 52 |
 | [&sect; 01711 - Catalog of Government publications](Chapter%20017%20-%20Distribution%20and%20Sale%20of%20Public%20Documents/%C2%A7%2001711%20-%20Catalog%20of%20Government%20publications.md) | 52 |
 | [&sect; 01712 - Documents for use of the Public Printer](Chapter%20017%20-%20Distribution%20and%20Sale%20of%20Public%20Documents/%C2%A7%2001712%20-%20Documents%20for%20use%20of%20the%20Public%20Printer.md) | 52 |
-| [&sect; 01713 - Documents to be delivered to the Executive Mansion](Chapter%20017%20-%20Distribution%20and%20Sale%20of%20Public%20Documents/%C2%A7%2001713%20-%20Documents%20to%20be%20delivered%20to%20the%20Executive%20Mansion.md) | 52 |
-| [&sect; 01714 - Publications for use of National Archives and Records Administration](Chapter%20017%20-%20Distribution%20and%20Sale%20of%20Public%20Documents/%C2%A7%2001714%20-%20Publications%20for%20use%20of%20National%20Archives%20and%20Records%20Administration.md) | 52–53 |
+| [&sect; 01713 - Documents to be delivered to the Executive Mansion](Chapter%20017%20-%20Distribution%20and%20Sale%20of%20Public%20Documents/%C2%A7%2001713%20-%20Documents%20to%20be%20delivered%20to%20the%20Executive%20Mansion.md) | 52–53 |
+| [&sect; 01714 - Publications for use of National Archives and Records Administration](Chapter%20017%20-%20Distribution%20and%20Sale%20of%20Public%20Documents/%C2%A7%2001714%20-%20Publications%20for%20use%20of%20National%20Archives%20and%20Records%20Administration.md) | 53 |
 | [&sect; 01715 - Publications for department or officer or for congressional committees](Chapter%20017%20-%20Distribution%20and%20Sale%20of%20Public%20Documents/%C2%A7%2001715%20-%20Publications%20for%20department%20or%20officer%20or%20for%20congressional%20committees.md) | 53 |
 | [&sect; 01716 - Public documents for legations and consulates of United States](Chapter%20017%20-%20Distribution%20and%20Sale%20of%20Public%20Documents/%C2%A7%2001716%20-%20Public%20documents%20for%20legations%20and%20consulates%20of%20United%20States.md) | 53 |
 | [&sect; 01717 - Documents and reports for foreign legations](Chapter%20017%20-%20Distribution%20and%20Sale%20of%20Public%20Documents/%C2%A7%2001717%20-%20Documents%20and%20reports%20for%20foreign%20legations.md) | 53 |
@@ -362,20 +362,20 @@ from edition to edition; the section files hold the text only.
 | [Chapter 036 - Management and Promotion of Electronic Government Services](Chapter%20036%20-%20Management%20and%20Promotion%20of%20Electronic%20Government%20Services/README.md) | 152 |
 | [&sect; 03601 - Definitions](Chapter%20036%20-%20Management%20and%20Promotion%20of%20Electronic%20Government%20Services/%C2%A7%2003601%20-%20Definitions.md) | 152–154 |
 | [&sect; 03602 - Office of Electronic Government](Chapter%20036%20-%20Management%20and%20Promotion%20of%20Electronic%20Government%20Services/%C2%A7%2003602%20-%20Office%20of%20Electronic%20Government.md) | 154–156 |
-| [&sect; 03603 - Chief Information Officers Council](Chapter%20036%20-%20Management%20and%20Promotion%20of%20Electronic%20Government%20Services/%C2%A7%2003603%20-%20Chief%20Information%20Officers%20Council.md) | 156 |
-| [&sect; 03604 - E-Government Fund](Chapter%20036%20-%20Management%20and%20Promotion%20of%20Electronic%20Government%20Services/%C2%A7%2003604%20-%20E-Government%20Fund.md) | 156–158 |
-| [&sect; 03605 - Program to encourage innovative solutions to enhance electronic Government services and processes](Chapter%20036%20-%20Management%20and%20Promotion%20of%20Electronic%20Government%20Services/%C2%A7%2003605%20-%20Program%20to%20encourage%20innovative%20solutions%20to%20enhance%20electronic%20Government%20services%20and%20processes.md) | 158 |
-| [&sect; 03606 - E-Government report](Chapter%20036%20-%20Management%20and%20Promotion%20of%20Electronic%20Government%20Services/%C2%A7%2003606%20-%20E-Government%20report.md) | 158 |
-| [Chapter 037 - Advertisements by Government Agencies](Chapter%20037%20-%20Advertisements%20by%20Government%20Agencies/README.md) | 158 |
-| [&sect; 03701 - Advertisements for contracts in District of Columbia](Chapter%20037%20-%20Advertisements%20by%20Government%20Agencies/%C2%A7%2003701%20-%20Advertisements%20for%20contracts%20in%20District%20of%20Columbia.md) | 158 |
-| [&sect; 03702 - Advertisements not to be published without written authority](Chapter%20037%20-%20Advertisements%20by%20Government%20Agencies/%C2%A7%2003702%20-%20Advertisements%20not%20to%20be%20published%20without%20written%20authority.md) | 158–159 |
+| [&sect; 03603 - Chief Information Officers Council](Chapter%20036%20-%20Management%20and%20Promotion%20of%20Electronic%20Government%20Services/%C2%A7%2003603%20-%20Chief%20Information%20Officers%20Council.md) | 156–157 |
+| [&sect; 03604 - E-Government Fund](Chapter%20036%20-%20Management%20and%20Promotion%20of%20Electronic%20Government%20Services/%C2%A7%2003604%20-%20E-Government%20Fund.md) | 157–158 |
+| [&sect; 03605 - Program to encourage innovative solutions to enhance electronic Government services and processes](Chapter%20036%20-%20Management%20and%20Promotion%20of%20Electronic%20Government%20Services/%C2%A7%2003605%20-%20Program%20to%20encourage%20innovative%20solutions%20to%20enhance%20electronic%20Government%20services%20and%20processes.md) | 158–159 |
+| [&sect; 03606 - E-Government report](Chapter%20036%20-%20Management%20and%20Promotion%20of%20Electronic%20Government%20Services/%C2%A7%2003606%20-%20E-Government%20report.md) | 159 |
+| [Chapter 037 - Advertisements by Government Agencies](Chapter%20037%20-%20Advertisements%20by%20Government%20Agencies/README.md) | 159 |
+| [&sect; 03701 - Advertisements for contracts in District of Columbia](Chapter%20037%20-%20Advertisements%20by%20Government%20Agencies/%C2%A7%2003701%20-%20Advertisements%20for%20contracts%20in%20District%20of%20Columbia.md) | 159 |
+| [&sect; 03702 - Advertisements not to be published without written authority](Chapter%20037%20-%20Advertisements%20by%20Government%20Agencies/%C2%A7%2003702%20-%20Advertisements%20not%20to%20be%20published%20without%20written%20authority.md) | 159 |
 | [&sect; 03703 - Rate of payment for advertisements, notices, and proposals](Chapter%20037%20-%20Advertisements%20by%20Government%20Agencies/%C2%A7%2003703%20-%20Rate%20of%20payment%20for%20advertisements%2C%20notices%2C%20and%20proposals.md) | 159 |
 | [Chapter 039 - Government Printing Office Office of Inspector General](Chapter%20039%20-%20Government%20Printing%20Office%20Office%20of%20Inspector%20General/README.md) | 159 |
-| [&sect; 03901 - Purpose and establishment of the Office of Inspector General](Chapter%20039%20-%20Government%20Printing%20Office%20Office%20of%20Inspector%20General/%C2%A7%2003901%20-%20Purpose%20and%20establishment%20of%20the%20Office%20of%20Inspector%20General.md) | 159 |
-| [&sect; 03902 - Appointment of Inspector General; supervision; removal](Chapter%20039%20-%20Government%20Printing%20Office%20Office%20of%20Inspector%20General/%C2%A7%2003902%20-%20Appointment%20of%20Inspector%20General%3B%20supervision%3B%20removal.md) | 159 |
-| [&sect; 03903 - Duties, responsibilities, authority, and reports](Chapter%20039%20-%20Government%20Printing%20Office%20Office%20of%20Inspector%20General/%C2%A7%2003903%20-%20Duties%2C%20responsibilities%2C%20authority%2C%20and%20reports.md) | 159–160 |
+| [&sect; 03901 - Purpose and establishment of the Office of Inspector General](Chapter%20039%20-%20Government%20Printing%20Office%20Office%20of%20Inspector%20General/%C2%A7%2003901%20-%20Purpose%20and%20establishment%20of%20the%20Office%20of%20Inspector%20General.md) | 159–160 |
+| [&sect; 03902 - Appointment of Inspector General; supervision; removal](Chapter%20039%20-%20Government%20Printing%20Office%20Office%20of%20Inspector%20General/%C2%A7%2003902%20-%20Appointment%20of%20Inspector%20General%3B%20supervision%3B%20removal.md) | 160 |
+| [&sect; 03903 - Duties, responsibilities, authority, and reports](Chapter%20039%20-%20Government%20Printing%20Office%20Office%20of%20Inspector%20General/%C2%A7%2003903%20-%20Duties%2C%20responsibilities%2C%20authority%2C%20and%20reports.md) | 160 |
 | [Chapter 041 - Access to Federal Electronic Information](Chapter%20041%20-%20Access%20to%20Federal%20Electronic%20Information/README.md) | 160 |
-| [&sect; 04101 - Electronic directory; online access to publications; electronic storage facility](Chapter%20041%20-%20Access%20to%20Federal%20Electronic%20Information/%C2%A7%2004101%20-%20Electronic%20directory%3B%20online%20access%20to%20publications%3B%20electronic%20storage%20facility.md) | 160 |
-| [&sect; 04102 - Fees](Chapter%20041%20-%20Access%20to%20Federal%20Electronic%20Information/%C2%A7%2004102%20-%20Fees.md) | 160 |
-| [&sect; 04103 - Biennial report](Chapter%20041%20-%20Access%20to%20Federal%20Electronic%20Information/%C2%A7%2004103%20-%20Biennial%20report.md) | 160 |
-| [&sect; 04104 - Definition](Chapter%20041%20-%20Access%20to%20Federal%20Electronic%20Information/%C2%A7%2004104%20-%20Definition.md) | 160 |
+| [&sect; 04101 - Electronic directory; online access to publications; electronic storage facility](Chapter%20041%20-%20Access%20to%20Federal%20Electronic%20Information/%C2%A7%2004101%20-%20Electronic%20directory%3B%20online%20access%20to%20publications%3B%20electronic%20storage%20facility.md) | 160–161 |
+| [&sect; 04102 - Fees](Chapter%20041%20-%20Access%20to%20Federal%20Electronic%20Information/%C2%A7%2004102%20-%20Fees.md) | 161 |
+| [&sect; 04103 - Biennial report](Chapter%20041%20-%20Access%20to%20Federal%20Electronic%20Information/%C2%A7%2004103%20-%20Biennial%20report.md) | 161 |
+| [&sect; 04104 - Definition](Chapter%20041%20-%20Access%20to%20Federal%20Electronic%20Information/%C2%A7%2004104%20-%20Definition.md) | 161 |

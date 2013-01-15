@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment.—The United States Patent and Trademark Office is established as an agency of the United States, within the Department of Commerce. In carrying out its functions, the United States Patent and Trademark Office shall be subject to the policy direction of the Secretary of Commerce, but otherwise shall retain responsibility for decisions regarding the management and administration of its operations and shall exercise independent control of its budget allocations and expenditures, personnel decisions and processes, procurements, and other administrative and management functionsin accordance with this title and applicable provisions of law. Those operations designed to grant and issue patents and those operations which are designed to facilitate the registration of trademarks shall be treated as separate operating units within the Office.
+Establishment.—The United States Patent and Trademark Office is established as an agency of the United States, within the Department of Commerce. In carrying out its functions, the United States Patent and Trademark Office shall be subject to the policy direction of the Secretary of Commerce, but otherwise shall retain responsibility for decisions regarding the management and administration of its operations and shall exercise independent control of its budget allocations and expenditures, personnel decisions and processes, procurements, and other administrative and management functions in accordance with this title and applicable provisions of law. Those operations designed to grant and issue patents and those operations which are designed to facilitate the registration of trademarks shall be treated as separate operating units within the Office.
 
 (b)
 
@@ -32,7 +32,7 @@ The phrase “and to trade-mark registrations” is added. There is no enactment
 
 #### Change of Name
 
-Section 3 of Pub. L. 93–596 provided that: “The terms ‘Patent Office’ and ‘Commissioner of Patents’ in all laws of the United States shall mean ‘Patent and Trademark Office’ and ‘Commissioner of Patents and Trademarks’, respectively.”
+Pub. L. 93–596, §3, Jan. 2, 1975, 88 Stat. 1949, provided that: “The terms ‘Patent Office’ and ‘Commissioner of Patents’ in all laws of the United States shall mean ‘Patent and Trademark Office’ and ‘Commissioner of Patents and Trademarks’, respectively.”
 
 #### Effective Date of 2011 Amendment
 
@@ -45,6 +45,10 @@ Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, subtitle G, §4731\], Nov. 2
 #### Effective Date of 1975 Amendment
 
 Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 93–596, set out as a note under section 1111 of Title 15, Commerce and Trade.
+
+#### Short Title of 2012 Amendment
+
+Pub. L. 112–211, §1, Dec. 18, 2012, 126 Stat. 1527, provided that: “This Act \[enacting part V and sections 27 and 151 of this title, amending sections 41, 100, 102, 111, 115, 119, 120, 122, 133, 154, 171, 173, 261, 361, 364 to 366, and 371 of this title, repealing section 151 of this title, and enacting provisions set out as notes under sections 27 and 100 of this title\] may be cited as the ‘Patent Law Treaties Implementation Act of 2012’.”
 
 #### Short Title of 2011 Amendment
 
@@ -68,7 +72,7 @@ Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, subtitle A, §4101\], Nov. 2
 
 Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, subtitle B, §4201\], Nov. 29, 1999, 113 Stat. 1536, 1501A–554, provided that: “This subtitle \[amending sections 41 and 42 of this title and enacting provisions set out as notes under section 41 of this title and section 1113 of Title 15, Commerce and Trade\] may be cited as the ‘Patent and Trademark Fee Fairness Act of 1999’.”
 
-Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, subtitle C, §4301\], Nov. 29, 1999, 113 Stat. 1536, 1501A–555, provided that: “This subtitle \[enacting section 273 of this titleand provisions set out as a note under section 273 of this title\] may be cited as the ‘First Inventor Defense Act of 1999’.”
+Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, subtitle C, §4301\], Nov. 29, 1999, 113 Stat. 1536, 1501A–555, provided that: “This subtitle \[enacting section 273 of this title and provisions set out as a note under section 273 of this title\] may be cited as the ‘First Inventor Defense Act of 1999’.”
 
 Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, subtitle D, §4401\], Nov. 29, 1999, 113 Stat. 1536, 1501A–557, provided that: “This subtitle \[amending sections 132, 154, 156, and 282 of this title and section 1295 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under sections 132 and 154 of this title\] may be cited as the ‘Patent Term Guarantee Act of 1999’.”
 
@@ -142,7 +146,7 @@ Suits.—This subtitle shall not affect suits commenced before the effective dat
 
 “(d)
 
-Nonabatement of Actions.—No suit, action, or other proceeding commenced by or against the Department of Commerce or the Secretary of Commerce, or by or against any individual in the official capacity of such individual as an officer or employee of an officetransferred by this subtitle, shall abate by reason of the enactment of this subtitle.
+Nonabatement of Actions.—No suit, action, or other proceeding commenced by or against the Department of Commerce or the Secretary of Commerce, or by or against any individual in the official capacity of such individual as an officer or employee of an office transferred by this subtitle, shall abate by reason of the enactment of this subtitle.
 
 “(e)
 

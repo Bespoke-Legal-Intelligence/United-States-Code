@@ -18,7 +18,7 @@ For purposes of this section, the term “certified individual” means any indi
 
 &emsp;For purposes of this section, the term “qualified health insurance costs eligibility certificate” means any written statement that an individual is an eligible individual (as defined in section 35(c)) if such statement provides such information as the Secretary may require for purposes of this section and—
 
-&emsp;&emsp;(A) in the case of an eligible TAA recipient (as defined in section 35(c)(2)) or an eligible alternative TAA recipient (as defined in section 35(c)(3)), is certified by the Secretary ofLabor (or by any other person or entity designated by the Secretary), or
+&emsp;&emsp;(A) in the case of an eligible TAA recipient (as defined in section 35(c)(2)) or an eligible alternative TAA recipient (as defined in section 35(c)(3)), is certified by the Secretary of Labor (or by any other person or entity designated by the Secretary), or
 
 &emsp;&emsp;(B) in the case of an eligible PBGC pension recipient (as defined in section 35(c)(4)), is certified by the Pension Benefit Guaranty Corporation (or by any other person or entity designated by the Secretary).
 
@@ -68,7 +68,7 @@ Subsec. (e). Pub. L. 111–344, §112(a), substituted “February 13, 2011” fo
 
 Subsec. (d). Pub. L. 111–5, §1899H(a), amended subsec. (d) generally. Prior to amendment, text read as follows: “For purposes of this section, the term ‘qualified health insurance costs credit eligibility certificate’ means any written statement that an individual is an eligible individual (as defined in section 35(c)) if such statement provides such information as the Secretary may require for purposes of this section and—
 
-&emsp;“(1) in the case of an eligible TAA recipient (as defined in section 35(c)(2)) or an eligible alternative TAA recipient (as defined in section 35(c)(3)), is certified by the Secretary of Labor (or by any other person or entity designated by the Secretary), or
+&emsp;“(1) in the case of an eligible TAA recipient (as defined in section 35(c)(2)) or an eligible alternativeTAA recipient (as defined in section 35(c)(3)), is certified by the Secretary of Labor (or by any other person or entity designated by the Secretary), or
 
 &emsp;“(2) in the case of an eligible PBGC pension recipient (as defined in section 35(c)(4)), is certified by the Pension Benefit Guaranty Corporation (or by any other person or entity designated by the Secretary).”
 

@@ -14,7 +14,7 @@ A State may use amounts provided under grants made under section 300ff–21 of t
 
 #### (1) In general
 
-&emsp;With respect to a grant under section 300ff–21 of this title for a State for a grant year, the State shall, of the portion of the grant remaining after reserving amounts for purposes of subparagraphs (A) and (E)(ii)(I) of section 300ff–28(b)(3) of this title, use not less than 75 percent to provide core medical services that are needed in the State for individuals with HIV/AIDS who are identified and eligible under this subchapter (including services regarding the co-occurring conditions of the individuals).
+&emsp;With respect to a grant under section 300ff–21 of this title for a State for a grantyear, the State shall, of the portion of the grant remaining after reserving amounts for purposes of subparagraphs (A) and (E)(ii)(I) of section 300ff–28(b)(3) of this title, use not less than 75 percent to provide core medical services that are needed in the State for individuals with HIV/AIDS who are identified and eligible under this subchapter (including services regarding the co-occurring conditions of the individuals).
 
 #### (2) Waiver
 
@@ -92,7 +92,7 @@ A State may use amounts provided under grants made under section 300ff–21 of t
 
 #### (2) Waiver
 
-&emsp;With respect to the population involved, the Secretary may provide to a State a waiver of the requirement of paragraph (1) if such State demonstrates to the satisfaction of the Secretary that the population is receiving HIV-related health services through the State medicaid program under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\], the State children's health insurance program under title XXI of such Act \[42 U.S.C. 1397aa et seq.\], or other Federal or State programs.
+&emsp;With respect to the population involved, the Secretary may provide to a State a waiver of the requirement of paragraph (1) if such State demonstrates to the satisfaction of the Secretary that the population is receiving HIV-related health services through the State medicaid program under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\], the Statechildren's health insurance program under title XXI of such Act \[42 U.S.C. 1397aa et seq.\], or other Federal or State programs.
 
 #### (f) Construction
 

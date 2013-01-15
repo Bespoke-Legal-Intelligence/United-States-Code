@@ -46,7 +46,7 @@
 
 (3) If, before that effective date, the President approves such increase, the Secretary may advance the effective date to any date not earlier than the date of the President's approval.
 
-(Added Pub. L. 102–40, title IV, §401(b)(4), May 7, 1991, 105 Stat. 234; amended Pub. L. 102–83, §2(c)(7), Aug. 6, 1991, 105 Stat. 402; Pub. L. 102–405, title II, §201, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1983, 1984; Pub. L. 106–419, title II, §203, Nov. 1, 2000, 114 Stat. 1841; Pub. L. 111–163, title VI, §601(<i>l</i>), May 5, 2010, 124 Stat. 1172.)
+(Added Pub. L. 102–40, title IV, §401(b)(4), May 7, 1991, 105 Stat. 234; amended Pub. L. 102–83, §2(c)(7), Aug. 6, 1991, 105 Stat. 402; Pub. L. 102–405, title II, §201, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1983, 1984; Pub. L. 106–419, title II, §203, Nov. 1, 2000, 114 Stat. 1841; Pub. L. 111–163, title VI, §601(l), May 5, 2010, 124 Stat. 1172.)
 
 #### References in Text
 

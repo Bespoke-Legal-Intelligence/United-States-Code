@@ -2,7 +2,7 @@
 
 #### (a) Submission of plan
 
-Not later than 60 days after November 25, 2002, the President shall transmit to the appropriatecongressional committees a reorganization plan regarding the following:
+Not later than 60 days after November 25, 2002, the President shall transmit to the appropriate congressional committees a reorganization plan regarding the following:
 
 &emsp;(1) The transfer of agencies, personnel, assets, and obligations to the Department pursuant to this chapter.
 
@@ -80,7 +80,7 @@ This plan is subject to modification pursuant to Section 1502(d) of the Act, whi
 
 &emsp;&emsp;• Pursuant to Section 201(g)(1) of the Act \[6 U.S.C. 121(g)(1)\], the Computer Investigations and Operations Section (“CIOS”) of the National Infrastructure Protection Center (“NIPC”) of the Federal Bureau of Investigation (“FBI”) will not transfer to the Department with the rest of NIPC. CIOS is the FBI headquarters entity responsible for managing all FBI computer intrusion field office cases (whether law enforcement or national security related).
 
-&emsp;&emsp;• Pursuant to Sections 421(c) \& (d) of the Act \[6 U.S.C. 231(c), (d)\], the regulatory responsibilities and quarantine activities relating to agricultural import and entry inspection activities of the United States Department of Agriculture (“the USDA”) Animal and Plant Health Inspection Service (“APHIS”) will remain with the USDA, as will theSecretary of Agriculture's authority to issue regulations, policies, and procedures regarding the functions transferred pursuant to Sections 421(a) \& (b) of the Act.
+&emsp;&emsp;• Pursuant to Sections 421(c) \& (d) of the Act \[6 U.S.C. 231(c), (d)\], the regulatory responsibilities and quarantine activities relating to agricultural import and entry inspection activities of the United States Department of Agriculture (“the USDA”) Animal and Plant Health Inspection Service (“APHIS”) will remain with the USDA, as will the Secretary of Agriculture's authority to issue regulations, policies, and procedures regarding the functions transferred pursuant to Sections 421(a) \& (b) of the Act.
 
 &emsp;&emsp;• Pursuant to Subtitle B of Title IV of the Act \[6 U.S.C. 211 et seq.\], the authorities of the Secretary of the Treasury related to Customs revenue functions, as defined in the statute, will not transfer to the Department.
 
@@ -222,7 +222,7 @@ B. <i>Delegation or Assignment Among Officers of Functions Transferred to the De
 
 &emsp;&emsp;&emsp;• Disseminate, as appropriate, information analyzed by the Department within the Department, to other agencies of the Federal Government with responsibilities relating to homeland security, and to agencies of State and local governments and private sector entities with such responsibilities in order to assist in the deterrence, prevention, preemption of, or response to, terrorist attacks against the United States.
 
-&emsp;&emsp;&emsp;• Consult with the Director of Central Intelligence and other appropriate intelligence, law enforcement, or other elements of the Federal Government to establish collection priorities and strategies for information, including law enforcement-related information, relating to threats of terrorism against the United States through such means as the representation of the Department in discussions regarding requirements and priorities in the collection of such information.
+&emsp;&emsp;&emsp;• Consult with the Director of Central Intelligence and other appropriate intelligence, law enforcement, or other elements of the Federal Government to establish collection priorities and strategies for information, including law enforcement-related information, relating to threats of terrorism against the United States through suchmeans as the representation of the Department in discussions regarding requirements and priorities in the collection of such information.
 
 &emsp;&emsp;&emsp;• Consult with State and local governments and private sector entities to ensure appropriate exchanges of information, including law enforcement-related information, relating to threats of terrorism against the United States.
 
@@ -350,7 +350,7 @@ B. <i>Delegation or Assignment Among Officers of Functions Transferred to the De
 
 &emsp;&emsp;&emsp;• Assist and support the Secretary, in coordination with other Directorates and entities outside the Department, in conducting appropriate risk analysis and risk management activities of State, local, and tribal governments consistent with the mission and functions of the Directorate.
 
-&emsp;&emsp;&emsp;• Supervise those elements of the Office of National Preparedness of FEMA that relate to terrorism, which shall be consolidated within the Department in the ODP established pursuant to Section 430 of the Act \[6 U.S.C. 238\].
+&emsp;&emsp;&emsp;• Supervise those elements of the Office of National Preparedness of FEMA that relate to terrorism, which shall be consolidated within theDepartment in the ODP established pursuant to Section 430 of the Act \[6 U.S.C. 238\].
 
 &emsp;<b>4. Emergency Preparedness and Response</b>
 
@@ -464,7 +464,7 @@ Enclosure.
 
 #### Introduction
 
-This Reorganization Plan Modification is submitted pursuant to the Homeland Security Act (“the Act”) of 2002 \[Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135\]. Allelements of the Department of Homeland Security Reorganization Plan of November 25, 2002 (“the Plan”) \[set out above\] remain as submitted except for those modifications addressed herein.
+This Reorganization Plan Modification is submitted pursuant to the Homeland Security Act (“the Act”) of 2002 \[Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135\]. All elements of the Department of Homeland Security Reorganization Plan of November 25, 2002 (“the Plan”) \[set out above\] remain as submitted except for those modifications addressed herein.
 
 #### Purpose of Modification
 
@@ -544,7 +544,7 @@ The White House, <i>Washington, January 30, 2003.</i>
 
 <i>Dear Mr. Speaker: (Dear Mr. President:)</i> <sup>1</sup>
 
-Pursuant to section 1502 of the Homeland Security Act of 2002 \[6 U.S.C. 542\] (Public Law 107–296) (the “Act”), I submit herewith the enclosed Reorganization Plan Modification for the Department of Homeland Security (DHS), which represents a modification of certain aspects of the DHS Reorganization Plan \[set out above\] I submitted to you on November 25, 2002. Themodification involves organizational units within the DHS Border and Transportation Security Directorate. The enclosed Reorganization Plan Modification provides information concerning the elements identified in section 1502(b), and is itself subject to modification pursuant to section 1502(d) of the Act. In accordance with section 1502(a) of the Act, please transmit this Reorganization Plan Modification to the appropriate congressional committees.
+Pursuant to section 1502 of the Homeland Security Act of 2002 \[6 U.S.C. 542\] (Public Law 107–296) (the “Act”), I submit herewith the enclosed Reorganization Plan Modification for the Department of Homeland Security (DHS), which represents a modification of certain aspects of the DHS Reorganization Plan \[set out above\] I submitted to you on November 25, 2002. The modification involves organizational units within the DHS Border and Transportation Security Directorate. The enclosed Reorganization Plan Modification provides information concerning the elements identified in section 1502(b), and is itself subject to modification pursuant to section 1502(d) of the Act. In accordance with section 1502(a) of the Act, please transmit this Reorganization Plan Modification to the appropriate congressional committees.
 
 > Sincerely,
 

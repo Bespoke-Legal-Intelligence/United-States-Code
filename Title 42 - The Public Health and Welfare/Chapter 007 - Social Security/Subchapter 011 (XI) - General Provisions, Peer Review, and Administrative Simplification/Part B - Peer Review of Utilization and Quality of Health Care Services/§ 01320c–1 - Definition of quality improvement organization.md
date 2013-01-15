@@ -12,7 +12,7 @@ The term “quality improvement organization” means an entity which—
 
 #### Prior Provisions
 
-A prior section 1320c–1, act Aug. 14, 1935, ch. 531, title XI, §1152, as added Oct. 30, 1972, Pub. L. 92–603, title II, §249F(b), 86 Stat. 1430; amended Dec. 31, 1975, Pub. L. 94–182, title I, §§105, 108(a), 89 Stat. 1052, 1053; Oct. 25, 1977, Pub. L. 95–142, §5(a), (d)(2)(A), (B), (<i>o</i>)(1), 91 Stat. 1183, 1185, 1191; Dec. 5, 1980, Pub. L. 96–499, title IX, §921, 94 Stat. 2627; Aug. 13, 1981, Pub. L. 97–35, title XXI, §§2112(a)(2)(A), (B), 2113(b), (c), 95 Stat. 793, 794, related to the designation of Professional Standards Review Organizations, prior to the general revision of this part by Pub. L. 97–248.
+A prior section 1320c–1, act Aug. 14, 1935, ch. 531, title XI, §1152, as added Oct. 30, 1972, Pub. L. 92–603, title II, §249F(b), 86 Stat. 1430; amended Dec. 31, 1975, Pub. L. 94–182, title I, §§105, 108(a), 89 Stat. 1052, 1053; Oct. 25, 1977, Pub. L. 95–142, §5(a), (d)(2)(A), (B), (o)(1), 91 Stat. 1183, 1185, 1191; Dec. 5, 1980, Pub. L. 96–499, title IX, §921, 94 Stat. 2627; Aug. 13, 1981, Pub. L. 97–35, title XXI, §§2112(a)(2)(A), (B), 2113(b), (c), 95 Stat. 793, 794, related to the designation of Professional Standards Review Organizations, prior to the general revision of this part by Pub. L. 97–248.
 
 #### Amendments
 
@@ -32,5 +32,5 @@ Amendment by Pub. L. 112–40 applicable to contracts entered into or renewed on
 
 #### Effective Date of 1986 Amendment
 
-Section 9353(b)(2) of Pub. L. 99–509 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to contracts entered into or renewed on or after January 1, 1987.”
+Pub. L. 99–509, title IX, §9353(b)(2), Oct. 21, 1986, 100 Stat. 2046, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to contracts entered into or renewed on or after January 1, 1987.”
 

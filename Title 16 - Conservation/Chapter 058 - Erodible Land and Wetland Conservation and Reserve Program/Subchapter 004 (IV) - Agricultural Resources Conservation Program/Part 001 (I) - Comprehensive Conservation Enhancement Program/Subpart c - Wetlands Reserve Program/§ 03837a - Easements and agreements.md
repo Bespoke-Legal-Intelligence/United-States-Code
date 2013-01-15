@@ -48,7 +48,7 @@ The development of a restoration plan, including any compatible use, under this 
 
 #### (d) Compatible uses
 
-Wetland reserve program lands may be used for compatible economic uses, including such activities as hunting and fishing, managed timber harvest, or periodic haying or grazing, if such use is specifically permitted by the plan and consistent with the long-term protection and enhancement of the wetlands resources for which the easement was established.
+Wetland reserve program lands may be used for compatible economic uses, including suchactivities as hunting and fishing, managed timber harvest, or periodic haying or grazing, if such use is specifically permitted by the plan and consistent with the long-term protection and enhancement of the wetlands resources for which the easement was established.
 
 #### (e) Type and length of easement
 
@@ -100,7 +100,7 @@ On the violation of the terms or conditions of the easement or related agreement
 
 #### (1) Program authorized
 
-&emsp;The Secretary may enter into 1 or more agreements with a State (including a political subdivision or agency of a State), nongovernmental organization, or Indian tribe to carryout a special wetlands reserve enhancement program that the Secretary determines would advance the purposes of this subpart.
+&emsp;The Secretary may enter into 1 or more agreements with a State (including a political subdivision or agency of a State), nongovernmental organization, or Indian tribe to carry out a special wetlands reserve enhancement program that the Secretary determines would advance the purposes of this subpart.
 
 #### (2) Reserved rights pilot program
 
@@ -126,13 +126,15 @@ The date of the enactment of the Food, Conservation, and Energy Act of 2008, ref
 
 #### Codification
 
+The authorities provided by each provision of, and each amendment made by, Pub. L. 110–246, as in effect on Sept. 30, 2012, to continue, and the Secretary of Agriculture to carry out the authorities, until the later of Sept. 30, 2013, or the date specified in the provision of, or amendment made by, Pub. L. 110–246, see section 701(a) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under section 8701 of this title.
+
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 
 <b>2008</b>—Subsec. (b)(2)(B). Pub. L. 110–246, §2204, struck out “or” at end of cl. (i), substituted “; or” for “; and” at end of cl. (ii), and added cl. (iii).
 
-Subsec. (f). Pub. L. 110–246, §2205, amended subsec. (f) generally. Prior to amendment, text read as follows: “Compensation for easements acquired by the Secretary under this subpart shall be made in cash in such amount as is agreed to and specified in the easement agreement, but not to exceed the fair market value of the land less the fair market value of such land encumbered by the easement. Lands may be enrolled through the submission of bids under a procedure established by the Secretary. Compensation may be provided in not less than 5, nor more than 30, annual payments of equal or unequal size, as agreed to by the owner and the Secretary.”
+Subsec. (f). Pub. L. 110–246, §2205, amended subsec. (f) generally. Prior to amendment, text read as follows: “Compensation for easements acquired by the Secretary under this subpart shall be made in cash in such amount as is agreed to and specified in the easementagreement, but not to exceed the fair market value of the land less the fair market value of such land encumbered by the easement. Lands may be enrolled through the submission of bids under a procedure established by the Secretary. Compensation may be provided in not less than 5, nor more than 30, annual payments of equal or unequal size, as agreed to by the owner and the Secretary.”
 
 Subsec. (h). Pub. L. 110–246, §2206, added subsec. (h).
 

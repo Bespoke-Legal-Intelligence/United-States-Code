@@ -8,7 +8,7 @@ As used in this subchapter—
 
 &emsp;(2) The term “interstate or foreign commerce” means commerce between any State and any place outside thereof, or commerce within any Territory or the District of Columbia, or between points within the same State but through any place outside thereof.
 
-&emsp;(3) The term “person” means individual, partnership, joint stock company, businesstrust, association, corporation, or other form of business enterprise, including a receiver, trustee, or liquidating agent and including an officer or employee of any agency of a State or political subdivision thereof; and the term “trade buyer” means any person who is a wholesaler or retailer.
+&emsp;(3) The term “person” means individual, partnership, joint stock company, business trust, association, corporation, or other form of business enterprise, including a receiver, trustee, or liquidating agent and including an officer or employee of any agency of a State or political subdivision thereof; and the term “trade buyer” means any person who is a wholesaler or retailer.
 
 &emsp;(4) The term “affiliate” means any one of two or more persons if one of such persons has actual or legal control, directly or indirectly, whether by stock ownership or otherwise, of the other or others of such persons; and any one of two or more persons subject to common control, actual or legal, directly or indirectly, whether by stock ownership or otherwise.
 

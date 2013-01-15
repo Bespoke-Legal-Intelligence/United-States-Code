@@ -158,7 +158,7 @@
 
 #### (B) Receipt and acceptance
 
-&emsp;&emsp;The Secretary shall be entitled to receive, shall accept, and shall use to carry out thissubsection the funds transferred under subparagraph (A), without further appropriation.
+&emsp;&emsp;The Secretary shall be entitled to receive, shall accept, and shall use to carry out this subsection the funds transferred under subparagraph (A), without further appropriation.
 
 #### (C) Use of funds
 

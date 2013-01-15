@@ -10,7 +10,7 @@ Congress declares that it is the policy of the United States that—
 
 &emsp;(1) United States oil shale, tar sands, and other unconventional fuels are strategically important domestic resources that should be developed to reduce the growing dependence of the United States on politically and economically unstable sources of foreign oil imports;
 
-&emsp;(2) the development of oil shale, tar sands, and other strategic unconventional fuels, for research and commercial development, should be conducted in an environmentally soundmanner, using practices that minimize impacts; and
+&emsp;(2) the development of oil shale, tar sands, and other strategic unconventional fuels, for research and commercial development, should be conducted in an environmentally sound manner, using practices that minimize impacts; and
 
 &emsp;(3) development of those strategic unconventional fuels should occur, with an emphasis on sustainability, to benefit the United States while taking into account affected States and communities.
 
@@ -74,7 +74,7 @@ Within 90 days after August 8, 2005, the Secretary of the Interior shall report 
 
 #### (4) Partnerships
 
-&emsp;The Task Force shall make recommendations with respect to initiating a partnership with the Province of Alberta, Canada, for purposes of sharing information relating to the development and production of oil from tar sands, and similar partnerships with other nations that contain significant oil shale resources.
+&emsp;The Task Force shall make recommendations with respect to initiating a partnership with the Province of Alberta, Canada, for purposes of sharing information relating to thedevelopment and production of oil from tar sands, and similar partnerships with other nations that contain significant oil shale resources.
 
 #### (5) Reports
 
@@ -122,7 +122,7 @@ Within 90 days after August 8, 2005, the Secretary of the Interior shall report 
 
 &emsp;Not later than 6 months after August 8, 2005, the Secretary shall issue any regulations necessary to implement this subsection.
 
-#### (<i>l</i>) Cost-shared demonstration technologies
+#### (l) Cost-shared demonstration technologies
 
 #### (1) Identification
 
@@ -178,7 +178,7 @@ Within 90 days after August 8, 2005, the Secretary of the Interior shall report 
 
 &emsp;A land exchange undertaken in furtherance of this subsection shall be implemented in accordance with section 1716 of title 43.
 
-#### (<i>o</i>) Royalty rates for leases
+#### (o) Royalty rates for leases
 
 The Secretary shall establish royalties, fees, rentals, bonus, or other payments for leases under this section that shall—
 

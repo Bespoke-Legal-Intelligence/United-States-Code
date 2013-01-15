@@ -2,7 +2,7 @@
 
 (a)
 
-Oversight and Accountability Measures.—Each Secretary concerned shall prescribe regulations to effectively oversee and manage military housing privatization projects carried out under this subchapter. The regulations shall include the following requirements for each privatization project:
+Oversight and Accountability Measures.—Each Secretary concerned shall prescribe regulations to effectively oversee and manage military housing privatization projects carried out under this subchapter during the course of the construction or renovation of the housing units. The regulations shall include the following requirements for each privatization project:
 
 &emsp;(1) The installation asset manager shall conduct monthly site visits and provide quarterly reports on the progress of the construction or renovation of the housing units. The reports shall be submitted quarterly to the assistant secretary for installations and environment of the respective military department.
 
@@ -32,9 +32,25 @@ Effect of Notices of Deficiency on Contractors and Affiliated Entities.—(1) Th
 
 (2) Each military department shall consult all records maintained under paragraph (1) when reviewing the past performance of owners, developers, and contractors in the bidding process for a contract or other agreement for a military housing privatization initiative project.
 
-(Added Pub. L. 110–417, div. B, title XXVIII, §2805(a)(1), Oct. 14, 2008, 122 Stat. 4721.)
+(f)
+
+Financial Integrity and Accountability Measures.—(1) The regulations required by subsection (a) shall address the following requirements for each military housing privatization project upon the completion of the construction or renovation of the housing units:
+
+&emsp;(A) The financial health and performance of the privatization project, including the debt-coverage ratio of the project and occupancy rates for the housing units.
+
+&emsp;(B) An assessment of the backlog of maintenance and repair of the housing units.
+
+(2) If the debt service coverage for a military housing privatization project falls below 1.0 or the occupancy rates for the housing units of the project are below 75 percent for more than one year, the Secretary concerned shall require the development of a plan to address the financial risk of the project.
+
+(Added Pub. L. 110–417, div. B, title XXVIII, §2805(a)(1), Oct. 14, 2008, 122 Stat. 4721; amended Pub. L. 112–239, div. B, title XXVIII, §2803(a), Jan. 2, 2013, 126 Stat. 2147.)
 
 #### Prior Provisions
 
 A prior section 2885, added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 551; amended Pub. L. 105–85, div. A, title X, §1073(a)(61), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 106–398, §1 \[div. B, title XXVIII, §2806\], Oct. 30, 2000, 114 Stat. 1654, 1654A–415; Pub. L. 107–107, div. B, title XXVIII, §2805, Dec. 28, 2001, 115 Stat. 1306, related to expiration of authority to enter into a contract under this subchapter, prior to repeal by Pub. L. 108–375, div. B, title XXVIII, §2805(b)(1), Oct. 28, 2004, 118 Stat. 2122.
+
+#### Amendments
+
+<b>2013</b>—Subsec. (a). Pub. L. 112–239, §2803(a)(2), in introductory provisions, inserted “during the course of the construction or renovation of the housing units” before period at end of first sentence.
+
+Subsec. (f). Pub. L. 112–239, §2803(a)(1), added subsec. (f).
 

@@ -6,7 +6,7 @@ Requirement for Determination and Notification.—A major weapon system of the D
 
 &emsp;(1) the Secretary of Defense determines that—
 
-&emsp;&emsp;(A) the major weapon system is a commercial item, as defined in section 4(12) <sup>1</sup> of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12)); and
+&emsp;&emsp;(A) the major weapon system is a commercial item, as defined in section 4(12) <sup>1</sup> of theOffice of Federal Procurement Policy Act (41 U.S.C. 403(12)); and
 
 &emsp;&emsp;(B) such treatment is necessary to meet national security objectives;
 
@@ -64,7 +64,7 @@ Major Weapon System Defined.—In this section, the term “major weapon system�
 
 #### References in Text
 
-Section 4(12) of the Office of Federal Procurement Policy Act, referred to in subsecs. (a)(1)(A), (b)(2)(A),and (c)(1)(B)(i), means section 4(12) of Pub. L. 93–400, which was classified to section 403(12) of former Title 41, Public Contracts, and was repealed and restated in section 103 of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
+Section 4(12) of the Office of Federal Procurement Policy Act, referred to in subsecs. (a)(1)(A), (b)(2)(A), and (c)(1)(B)(i), means section 4(12) of Pub. L. 93–400, which was classified to section 403(12) of former Title 41, Public Contracts, and was repealed and restated in section 103 of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
 
 Section 35(c) of the Office of Federal Procurement Policy Act, referred to in subsecs. (b) and (c)(1), means section 35(c) of Pub. L. 93–400, which was classified to section 431(c) of former Title 41, Public Contracts, and was repealed and restated as section 104 of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
 
@@ -78,7 +78,7 @@ Subsecs. (c) to (f). Pub. L. 110–181, §815(a)(1)(C), (D), added subsecs. (c) 
 
 #### Effective Date
 
-Pub. L. 109–163, div. A, title VIII, §803(b), Jan. 6, 2006, 119 Stat. 3371, provided that: “The amendments made by subsection (a) \[enacting this section\] shall take effect on the date of the enactment of this Act \[Jan. 6, 2006\], and shall apply to contracts entered into on or after such date.”
+Pub. L. 109–163, div. A, title VIII, §803(b), Jan. 6, 2006, 119 Stat. 3371, provided that: “The amendments madeby subsection (a) \[enacting this section\] shall take effect on the date of the enactment of this Act \[Jan. 6, 2006\], and shall apply to contracts entered into on or after such date.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

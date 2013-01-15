@@ -4,9 +4,9 @@ A management official of a depository institution or a depository holding compan
 
 &emsp;(1) the same primary metropolitan statistical area, the same metropolitan statistical area, or the same consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas as defined by the Office of Management and Budget, except in the case of depository institutions with less than $50,000,000 in assets in which case the provision of paragraph (2) shall apply, as that in which an office of the other institution or any depository institution that is an affiliate of such other institution is located, or
 
-&emsp;(2) the same city, town, or village as that in which an office of the other institution or any depository institution that is an affiliate of such other institution is located, or in any city, town, or village contiguous or adjacent thereto.
+&emsp;(2) the same city, town, or village as that in which an office of the other institution or anydepository institution that is an affiliate of such other institution is located, or in any city, town, or village contiguous or adjacent thereto.
 
-(Pub. L. 95–630, title II, §203, Nov. 10, 1978, 92 Stat. 3673; Pub. L. 98–181, title VII, §701(c), Nov. 30, 1983, 97 Stat. 1267; Pub. L. 109–351, title VI, §610, Oct. 13, 2006, 120 Stat. 1984.)
+(Pub. L. 95–630, title II, §203, Nov. 10, 1978, 92 Stat. 3673; Pub. L. 98–181, title I \[title VII, §701(c)\], Nov. 30, 1983, 97 Stat. 1267; Pub. L. 109–351, title VI, §610, Oct. 13, 2006, 120 Stat. 1984.)
 
 #### Amendments
 

@@ -86,7 +86,7 @@ In this section:
 
 #### (4) Notification
 
-&emsp;The sponsor of a human drug application shall notify the Secretary not later than 365days prior to submission of the human drug application that is the subject of a priority review voucher of an intent to submit the human drug application, including the date on which the sponsor intends to submit the application. Such notification shall be a legally binding commitment to pay for the user fee to be assessed in accordance with this section.
+&emsp;The sponsor of a human drug application shall notify the Secretary not later than 365 days prior to submission of the human drug application that is the subject of a priority review voucher of an intent to submit the human drug application, including the date on which the sponsor intends to submit the application. Such notification shall be a legally binding commitment to pay for the user fee to be assessed in accordance with this section.
 
 #### (c) Priority review user fee
 

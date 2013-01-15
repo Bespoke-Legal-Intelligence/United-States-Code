@@ -76,7 +76,7 @@ The Administrator shall—
 
 #### (1) In general
 
-&emsp;Subject to paragraphs (2) and (3) and, to the extent practicable, the priority areas listed in section 16132(c)(3) of this title, a State shall use any funds provided under this section to develop and implement such grant, rebate, and low-cost revolving loan programs in the State as are appropriate to meet State needs and goals relating to the reduction of diesel emissions.
+&emsp;Subject to paragraphs (2) and (3) and, to the extent practicable, the priority areas listed in section 16132(c)(3) of this title, a State shall use any funds provided under this section to develop and implement such grant, rebate, andlow-cost revolving loan programs in the State as are appropriate to meet State needs and goals relating to the reduction of diesel emissions.
 
 #### (2) Apportionment of funds
 
@@ -96,7 +96,7 @@ The Administrator shall—
 
 #### (5) Public notification
 
-&emsp;Not later than 60 days after the date of the award of a grant, rebate, or loan by a State,the State shall publish on the Web site of the State—
+&emsp;Not later than 60 days after the date of the award of a grant, rebate, or loan by a State, the State shall publish on the Web site of the State—
 
 &emsp;&emsp;(A) for rebates, grants, and loans provided to the owner of a diesel vehicle or fleet, the total number and dollar amount of rebates, grants, or loans provided, as well as a breakdown of the technologies funded through the rebates, grants, or loans; and
 

@@ -2,7 +2,7 @@
 
 #### (a) Grants and contracts authorized
 
-The Secretary shall, in accordance with the provisions of this division, carry out a program of making grants and contracts designed to identify qualified individuals from disadvantaged backgrounds, to prepare them for a program of postsecondary education, to providesupport services for such students who are pursuing programs of postsecondary education, to motivate and prepare students for doctoral programs, and to train individuals serving or preparing for service in programs and projects so designed.
+The Secretary shall, in accordance with the provisions of this division, carry out a program of making grants and contracts designed to identify qualified individuals from disadvantaged backgrounds, to prepare them for a program of postsecondary education, to provide support services for such students who are pursuing programs of postsecondary education, to motivate and prepare students for doctoral programs, and to train individuals serving or preparing for service in programs and projects so designed.
 
 #### (b) Recipients, duration, and size
 
@@ -110,7 +110,7 @@ The Secretary shall, in accordance with the provisions of this division, carry o
 
 #### (I) Referral to secondary review
 
-&emsp;&emsp;&emsp;&emsp;In the case of a peer review process error listed in clause (i)(I), if the Secretary determines that points were withheld for criteria not required in Federal statute, regulation, or guidance governing a program assisted under this division or the application for a grant for such program, or determines that information pertaining to selection criteria was wrongly determined to be missing from an application by a peer reviewer,then the Secretary shall refer the application to a secondary review panel.
+&emsp;&emsp;&emsp;&emsp;In the case of a peer review process error listed in clause (i)(I), if the Secretary determines that points were withheld for criteria not required in Federal statute, regulation, or guidance governing a program assisted under this division or the application for a grant for such program, or determines that information pertaining to selection criteria was wrongly determined to be missing from an application by a peer reviewer, then the Secretary shall refer the application to a secondary review panel.
 
 #### (II) Timely review; replacement score
 
@@ -228,7 +228,7 @@ The Secretary shall, in accordance with the provisions of this division, carry o
 
 &emsp;&emsp;&emsp;(ii) such students’ school performance, as measured by the grade point average, or its equivalent;
 
-&emsp;&emsp;&emsp;(iii) such students’ academic performance, as measured by standardized tests, including tests required by the students’ State;
+&emsp;&emsp;&emsp;(iii) such students’ academic performance, as measured by standardized tests,including tests required by the students’ State;
 
 &emsp;&emsp;&emsp;(iv) the retention in, and graduation from, secondary school of such students;
 
@@ -342,7 +342,7 @@ The Higher Education Amendments of 1992, referred to in subsec. (g), is Pub. L. 
 
 #### References to Subpart 2, 3, or 4 of This Part Deemed To Refer to Subpart 3, 4, or 2 of This Part
 
-Section 402(b) of Pub. L. 102–325 provided that: “Reference in any provision of law (other than the Act \[20U.S.C. 1001 et seq.\]) to subpart 2, 3, or 4 of part A of title IV of the Act shall, after the date of enactment of this Act \[July 23, 1992\], be deemed to refer to subpart 3 \[20 U.S.C. 1070b et seq.\], 4 \[20 U.S.C. 1070c et seq.\], or 2 \[20 U.S.C. 1070a–11 et seq.\] of such part, respectively.”
+Section 402(b) of Pub. L. 102–325 provided that: “Reference in any provision of law (other than the Act \[20 U.S.C. 1001 et seq.\]) to subpart 2, 3, or 4 of part A of title IV of the Act shall, after the date of enactment of this Act \[July 23, 1992\], be deemed to refer to subpart 3 \[20 U.S.C. 1070b et seq.\], 4 \[20 U.S.C. 1070c et seq.\], or 2 \[20 U.S.C. 1070a–11 et seq.\] of such part, respectively.”
 
 #### Codification
 
@@ -384,7 +384,7 @@ Subsec. (e)(3). Pub. L. 110–315, §403(a)(3)(B), added par. (3).
 
 Subsec. (f). Pub. L. 110–315, §403(a)(5), added subsec. (f). Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 110–315, §403(a)(6), substituted “$900,000,000 for fiscal year 2009 and such sums as may be necessary for each of the five succeeding fiscal years” for “$700,000,000 for fiscal year 1999, and such sums as may be necessary for each of the 4 succeeding fiscal years” and struck out last sentence which read as follows: “The Secretary shall report to Congress by October 1, 1994, on the use of these funds.”
+Subsec. (g). Pub. L. 110–315, §403(a)(6), substituted “$900,000,000 for fiscal year 2009 and such sums as may be necessary for each of the five succeeding fiscal years” for “$700,000,000 for fiscal year 1999, and suchsums as may be necessary for each of the 4 succeeding fiscal years” and struck out last sentence which read as follows: “The Secretary shall report to Congress by October 1, 1994, on the use of these funds.”
 
 Pub. L. 110–315, §403(a)(4), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
@@ -420,7 +420,7 @@ Subsec. (c)(2)(A). Pub. L. 103–208, §2(b)(8), inserted “with respect to gra
 
 Subsec. (e). Pub. L. 103–208, §2(b)(9), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Documentation of an individual's status pursuant to subsection (g)(2) of this section shall be made—
 
-&emsp;“(1) in the case of an individual who is eighteen years of age or younger or a dependent student by providing the Secretary with a signed statement fromthe parent or legal guardian, verification from another governmental source, a signed financial aid application, or a signed United States or Puerto Rican income tax return; and
+&emsp;“(1) in the case of an individual who is eighteen years of age or younger or a dependent student by providing the Secretary with a signed statement from the parent or legal guardian, verification from another governmental source, a signed financial aid application, or a signed United States or Puerto Rican income tax return; and
 
 &emsp;“(2) in the case of an individual who is age 18 or older or who is an independent student, by providing the Secretary with a signed statement from the individual, verification from another governmental source, a signed financial aid form, or a signed United States or Puerto Rican income tax return.”
 

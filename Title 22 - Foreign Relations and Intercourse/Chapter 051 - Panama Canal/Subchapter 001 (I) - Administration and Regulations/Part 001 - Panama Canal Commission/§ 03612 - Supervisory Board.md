@@ -32,11 +32,11 @@ The Board shall hold meetings as provided in regulations adopted by the Commissi
 
 #### Effective Date of 1988 Amendment
 
-Section 10 of Pub. L. 100–705 provided that: “This Act \[enacting sections 3715 to 3715d of this title, amending this section and sections 3712 and 3731 of this title, and enacting provisions set out as a note under section 3601 of this title\] takes effect on October 1, 1988.”
+Pub. L. 100–705, §10, Nov. 19, 1988, 102 Stat. 4687, provided that: “This Act \[enacting sections 3715 to 3715d of this title, amending this section and sections 3712 and 3731 of this title, and enacting provisions set out as a note under section 3601 of this title\] takes effect on October 1, 1988.”
 
 #### Effective Date of 1985 Amendment
 
-Section 8 of Pub. L. 99–223 provided that: “Section 5 and section 6 of the Act \[enacting section 3650 of this title and amending this section and sections 3647 and 3731 of this title\] shall be effective as of October 1, 1985.”
+Pub. L. 99–223, §8, Dec. 28, 1985, 99 Stat. 1740, provided that: “Section 5 and section 6 of the Act \[enacting section 3650 of this title and amending this section and sections 3647 and 3731 of this title\] shall be effective as of October 1, 1985.”
 
 <i><sup>1</sup></i><i> So in original.</i>
 

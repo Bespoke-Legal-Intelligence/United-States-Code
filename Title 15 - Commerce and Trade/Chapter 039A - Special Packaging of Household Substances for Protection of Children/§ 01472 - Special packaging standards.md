@@ -30,7 +30,7 @@ Nothing in this Act shall authorize the Commission to prescribe specific packagi
 
 #### (e) Cost-benefit analysis not required
 
-Nothing in this Act shall be construed to require the Consumer Product Safety Commission, in establishing a standard under this section, to prepare a comparison of the costs that would be incurred in complying with such standard with the benefits of such standard.
+Nothing in this Act shall be construed to require the Consumer Product Safety Commission,in establishing a standard under this section, to prepare a comparison of the costs that would be incurred in complying with such standard with the benefits of such standard.
 
 (Pub. L. 91–601, §3, Dec. 30, 1970, 84 Stat. 1670; Pub. L. 92–573, §30(a), Oct. 27, 1972, 86 Stat. 1231; Pub. L. 97–414, §9(k), Jan. 4, 1983, 96 Stat. 2065; Pub. L. 110–314, title II, §233, Aug. 14, 2008, 122 Stat. 3073.)
 

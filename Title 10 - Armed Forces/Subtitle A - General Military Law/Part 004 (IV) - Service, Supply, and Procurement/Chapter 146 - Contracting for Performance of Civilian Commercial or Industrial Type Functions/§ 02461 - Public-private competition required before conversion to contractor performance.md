@@ -64,7 +64,7 @@ Public-Private Competition.—(1) No function of the Department of Defense perfo
 
 (iii) If the Secretary specifies an alternative time period under this subparagraph, the alternative time period shall be binding on the Department in the same manner and to the same extent as the limitation provided in subparagraph (A).
 
-(C) The time period specified in subparagraph (A) for a public-private competition does not include any day during which the public-private competition is delayed by reason of the filing of a protest before the Government Accountability Office or a complaint in the United States Court of Federal Claims up until the day the decision or recommendation of either authority becomes final. In the case of a protest before the Government Accountability Office, the recommendation becomes final after the period of time forfiling a request for reconsideration, or if a request for reconsideration is filed, on the day the Government Accountability Office issues a decision on the reconsideration.
+(C) The time period specified in subparagraph (A) for a public-private competition does not include any day during which the public-private competition is delayed by reason of the filing of a protest before the Government Accountability Office or a complaint in the United States Court of Federal Claims up until the day the decision or recommendation of either authority becomes final. In the case of a protest before the Government Accountability Office, the recommendation becomes final after the period of time for filing a request for reconsideration, or if a request for reconsideration is filed, on the day the Government Accountability Office issues a decision on the reconsideration.
 
 (D) If a protest with respect to a public-private competition before the Government Accountability Office or the United States Court of Federal Claims is sustained, and the recommendation is final as described in subparagraph (C), and if such protest and recommendation result in an unforeseen delay in implementing a final performance decision, the Secretary of Defense may terminate the public-private competition or extend the period of time specified for the public-private competition under subparagraph (A) or subparagraph (B). If the Secretary decides not to terminate a competition, the Secretary shall submit to Congress written notice of such decision. Any such notification shall include a justification for the Secretary's decision and a new time limitation for the competition, which shall not exceed 12 months from the final decision and shall be binding on the Department.
 
@@ -106,7 +106,7 @@ Congressional Notification.—(1) Before commencing a public-private competition
 
 &emsp;(C) The number of Department of Defense civilian employee positions potentially affected.
 
-&emsp;(D) The anticipated length and cost of the public-private competition, and a specific identification of the budgetary line item from which funds will be used to cover the cost of the public-private competition.
+&emsp;(D) The anticipated length and cost of the public-private competition, and a specific identification of the budgetary line item fromwhich funds will be used to cover the cost of the public-private competition.
 
 &emsp;(E) A certification that a proposed performance of the function by a contractor is not a result of a decision by an official of a military department or Defense Agency to impose predetermined constraints or limitations on such employees in terms of man years, end strengths, full-time equivalent positions, or maximum number of employees.
 
@@ -130,23 +130,21 @@ Exemption for the Purchase of Products and Services of the Blind and Other Sever
 
 &emsp;(1) is included on the procurement list established pursuant to section 8503 of title 41; or
 
-&emsp;(2) is planned to be changed to performance by a qualified nonprofit agency for the blind or by a qualified nonprofit agency for other severely handicapped persons in accordance with that Act.<sup>2</sup>
+&emsp;(2) is planned to be changed to performance by a qualified nonprofit agency for the blind or by a qualified nonprofit agency for other severely handicapped persons in accordance with such section.
 
 (e)
 
 Inapplicability During War or Emergency.—The provisions of this section shall not apply during war or during a period of national emergency declared by the President or Congress.
 
-(Added Pub. L. 100–370, §2(a)(1), July 19, 1988, 102 Stat. 851; amended Pub. L. 101–189, div. A, title XI, §1132, Nov. 29, 1989, 103 Stat. 1561; Pub. L. 104–106, div. D, title XLIII, §4321(b)(19), Feb. 10, 1996, 110 Stat. 673; Pub. L. 105–85, div. A, title III, §384, Nov. 18, 1997, 111 Stat. 1711; Pub. L. 105–261, div. A, title III, §342(a)–(c), Oct. 17, 1998, 112 Stat. 1974–1976; Pub. L. 106–65, div. A, title III, §341, Oct. 5, 1999, 113 Stat. 568; Pub. L. 106–398, §1 \[\[div. A\], title III, §§351, 352\], Oct. 30, 2000, 114 Stat. 1654, 1654A–71, 1654A–72; Pub. L. 107–107, div. A, title III, §344, Dec. 28, 2001, 115 Stat. 1061; Pub. L. 107–314, div. A, title III, §331, Dec. 2, 2002, 116 Stat. 2512; Pub. L. 109–163, div. A, title III, §341(a), (b), (c)(2), (3), (g)(1)–(2)(B), Jan. 6, 2006, 119 Stat. 3195, 3196, 3199, 3200; Pub. L. 110–181, div. A, title III, §§322(a), (b)(2), (c), 323, Jan. 28, 2008, 122 Stat. 58–60; Pub. L. 111–84, div. A, title III, §§321(a), 322(a), title X, §1073(a)(25), Oct. 28, 2009, 123 Stat. 2250, 2251, 2474; Pub. L. 111–350, §5(b)(34), Jan. 4, 2011, 124 Stat. 3845; Pub. L. 112–81, div. A, title IX, §937, Dec. 31, 2011, 125 Stat. 1546.)
+(Added Pub. L. 100–370, §2(a)(1), July 19, 1988, 102 Stat. 851; amended Pub. L. 101–189, div. A, title XI, §1132, Nov. 29, 1989, 103 Stat. 1561; Pub. L. 104–106, div. D, title XLIII, §4321(b)(19), Feb. 10, 1996, 110 Stat. 673; Pub. L. 105–85, div. A, title III, §384, Nov. 18, 1997, 111 Stat. 1711; Pub. L. 105–261, div. A, title III, §342(a)–(c), Oct. 17, 1998, 112 Stat. 1974–1976; Pub. L. 106–65, div. A, title III, §341, Oct. 5, 1999, 113 Stat. 568; Pub. L. 106–398, §1 \[\[div. A\], title III, §§351, 352\], Oct. 30, 2000, 114 Stat. 1654, 1654A–71, 1654A–72; Pub. L. 107–107, div. A, title III, §344, Dec. 28, 2001, 115 Stat. 1061; Pub. L. 107–314, div. A, title III, §331, Dec. 2, 2002, 116 Stat. 2512; Pub. L. 109–163, div. A, title III, §341(a), (b), (c)(2), (3), (g)(1)–(2)(B), Jan. 6, 2006, 119 Stat. 3195, 3196, 3199, 3200; Pub. L. 110–181, div. A, title III, §§322(a), (b)(2), (c), 323, Jan. 28, 2008, 122 Stat. 58–60; Pub. L. 111–84, div. A, title III, §§321(a), 322(a), title X, §1073(a)(25), Oct. 28, 2009, 123 Stat. 2250, 2251, 2474; Pub. L. 111–350, §5(b)(34), Jan. 4, 2011, 124 Stat. 3845; Pub. L. 112–81, div. A, title IX, §937, Dec. 31, 2011, 125 Stat. 1546; Pub. L. 112–239, div. A, title X, §1076(f)(28), Jan. 2, 2013, 126 Stat. 1953.)
 
 #### Historical and Revision Notes
 
 Section is based on Pub. L. 96–342, title V, §502, Sept. 8, 1980, 94 Stat. 1086, as amended by Pub. L. 97–252, title XI, §1112(a), Sept. 8, 1982, 96 Stat. 747; Pub. L. 99–145, title XII, §1234(a), Nov. 8, 1985, 99 Stat. 734; Pub. L. 99–661, div. A, title XII, §1221, Nov. 14, 1986, 100 Stat. 3976.
 
-#### References in Text
-
-That Act, referred to in subsec. (d)(2), is a reference to the Javits-Wagner-O'Day Act, which is act June 25, 1938, ch. 697, 52 Stat. 1196, and was classified to sections 46 to 48c of former Title 41, Public Contracts, prior to being repealed and restated as chapter 85 (§8501 et seq.) of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
-
 #### Amendments
+
+<b>2013</b>—Subsec. (d)(2). Pub. L. 112–239 substituted “such section” for “that Act”.
 
 <b>2011</b>—Subsec. (a)(5)(E). Pub. L. 112–81, §937(1)(A)–(E), in introductory provisions, substituted “competition shall be conducted in accordance with guidance and procedures that shall be issued and maintained by the Under Secretary of Defense for Personnel and Readiness and shall begin on the date on which a component of the Department of Defense first obligates funds specifically for the acquisition of contract support for the preliminary planning effort” for “competition, begins on the date on which the Department of Defense obligates funds for the acquisition of contract support”.
 
@@ -248,7 +246,7 @@ Subsec. (d). Pub. L. 105–85, §384(c), substituted “20 or fewer” for “45
 
 #### Effective Date of 2009 Amendment
 
-Pub. L. 111–84, div. A, title III, §321(b), Oct. 28, 2009, 123 Stat. 2250, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to a function for which a public-privatecompetition is commenced on or after the date of the enactment of this Act \[Oct. 28, 2009\].”
+Pub. L. 111–84, div. A, title III, §321(b), Oct. 28, 2009, 123 Stat. 2250, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to a function for which a public-private competition is commenced on or after the date of the enactment of this Act \[Oct. 28, 2009\].”
 
 Pub. L. 111–84, div. A, title III, §322(b), Oct. 28, 2009, 123 Stat. 2252, provided that: “Paragraph (5) of section 2461(a) of title 10, United States Code, as added by subsection (a), shall apply with respect to a public-private competition covered by such section that is initiated on or after the date of the enactment of this Act \[Oct. 28, 2009\].”
 
@@ -338,7 +336,7 @@ In general.—The pilot program required by subsection (a) shall evaluate the fe
 
 Elements.—In order to achieve the purpose of the pilot program, the Secretary of the Air Force shall—
 
-&emsp;&emsp;“(A) demonstrate and validate a comprehensive strategy for air refueling on a fee-for-service basis by evaluating all mission areas, including testing support, training support to receiving aircraft,homeland defense support, deployment support, air bridge support, aeromedical evacuation, and emergency air refueling; and
+&emsp;&emsp;“(A) demonstrate and validate a comprehensive strategy for air refueling on a fee-for-service basis by evaluating all mission areas, including testing support, training support to receiving aircraft, homeland defense support, deployment support, air bridge support, aeromedical evacuation, and emergency air refueling; and
 
 &emsp;&emsp;“(B) integrate fee-for-service air refueling described in paragraph (1) into Air Mobility Command operations during the evaluation and execution phases of the pilot program.
 
@@ -426,7 +424,7 @@ Pub. L. 108–136, div. A, title III, §335, Nov. 24, 2003, 117 Stat. 1443, prov
 
 “(a)
 
-Limitation Pending Report.—No studies or competitions may be conducted under the policies and procedures contained in the revised Office of Management and Budget Circular A–76 dated May 29, 2003 (68 Fed. Reg. 32134), relating to the possible contracting out of commercial activities being performed, as of such date, by employees of the Department of Defense, until the end of the 45-day period beginning on the date on which the Secretary of Defense submits to Congress a report on the effects of the revisions.
+Limitation Pending Report.—No studies or competitions may be conducted under the policies and procedures contained in the revised Office of Managementand Budget Circular A–76 dated May 29, 2003 (68 Fed. Reg. 32134), relating to the possible contracting out of commercial activities being performed, as of such date, by employees of the Department of Defense, until the end of the 45-day period beginning on the date on which the Secretary of Defense submits to Congress a report on the effects of the revisions.
 
 “(b)
 
@@ -496,7 +494,7 @@ Pub. L. 105–261, div. A, title III, §379, Oct. 17, 1998, 112 Stat. 1995, prov
 
 #### Development of Standard Forms Regarding Performance Work Statement and Request for Proposal for Conversion of Certain Operational Functions of Military Installations
 
-Section 389 of Pub. L. 105–85, as amended by Pub. L. 105–261, div. A, title X, §1069(b)(1), Oct. 17, 1998, 112 Stat. 2136, provided that:
+Pub. L. 105–85, div. A, title III, §389, Nov. 18, 1997, 111 Stat. 1714, as amended by Pub. L. 105–261, div. A, title X, §1069(b)(1), Oct. 17, 1998, 112 Stat. 2136, provided that:
 
 “(a)
 
@@ -504,7 +502,7 @@ Standardization of Requirements.—The Secretary of Defense is authorized and en
 
 “(b)
 
-Relationship to OMB Requirements.—A standard performance work statement or a standard request for proposal developed under subsection (a) must fulfill the basic requirements of the performance work statement or request for proposal otherwise required under the procedures and requirements of Office of Management and Budget Circular A–76 (or any successor administrative regulation or policy) in effect at the time the standard form will be used.
+Relationship to OMB Requirements.—A standard performance work statement or a standard requestfor proposal developed under subsection (a) must fulfill the basic requirements of the performance work statement or request for proposal otherwise required under the procedures and requirements of Office of Management and Budget Circular A–76 (or any successor administrative regulation or policy) in effect at the time the standard form will be used.
 
 “(c)
 
@@ -534,7 +532,7 @@ Military Installation Defined.—For purposes of this section, the term ‘milit
 
 #### Private-Sector Operation of Certain Payroll, Finance, and Accounting Functions of Department of Defense; Plan; Report
 
-Section 353(a) of Pub. L. 104–106 provided that:
+Pub. L. 104–106, div. A, title III, §353(a), Feb. 10, 1996, 110 Stat. 267, provided that:
 
 “(1) Not later than October 1, 1996, the Secretary of Defense shall submit to Congress a plan for the performance by private-sector sources of payroll functions for civilian employees of the Department of Defense other than employees paid from nonappropriated funds.
 
@@ -554,7 +552,7 @@ Section 353(a) of Pub. L. 104–106 provided that:
 
 #### Pilot Program for Private-Sector Operation of NAFI Functions
 
-Section 353(b) of Pub. L. 104–106 provided that:
+Pub. L. 104–106, div. A, title III, §353(b), Feb. 10, 1996, 110 Stat. 267, provided that:
 
 “(1) The Secretary shall carry out a pilot program to test the performance by private-sector sources of payroll and other accounting and finance functions of nonappropriated fund instrumentalities and to evaluate the extent to which cost savings and efficiencies would result from the performance of such functions by those sources.
 
@@ -582,7 +580,7 @@ Section 353(b) of Pub. L. 104–106 provided that:
 
 Pub. L. 105–85, div. A, title III, §388(c), Nov. 18, 1997, 111 Stat. 1714, provided that, not later than Dec. 31, 1998, the Comptroller General was to submit to Congress a report containing the results of a review by the Comptroller General of the demonstration program conducted under section 354 of Pub. L. 104–106, set out below.
 
-Section 354 of Pub. L. 104–106, as amended by Pub. L. 105–85, div. A, title III, §388(a), (b), Nov. 18, 1997, 111 Stat. 1713, 1714, provided that:
+Pub. L. 104–106, div. A, title III, §354, Feb. 10, 1996, 110 Stat. 268, as amended by Pub. L. 105–85, div. A, title III, §388(a), (b), Nov. 18, 1997, 111 Stat. 1713, 1714, provided that:
 
 “(a)
 
@@ -592,7 +590,7 @@ In General.—The Secretary of Defense shall conduct a demonstration program to 
 
 Program Requirements.—(1) Under the demonstration program, the Secretary shall, by contract, provide for one or more persons to audit the accounting and procurement records relating to fiscal years after fiscal year 1993 of the working-capital funds and industrial, commercial, and support type activities managed through the Defense Business Operations Fund, except the Defense Logistics Agency to the extent such records have already been audited. The Secretary may enter into more than one contract under the program.
 
-“(2) A contract under the demonstration program shall require the contractor to use data processingtechniques that are generally used in audits of private-sector records similar to the records audited under the contract.
+“(2) A contract under the demonstration program shall require the contractor to use data processing techniques that are generally used in audits of private-sector records similar to the records audited under the contract.
 
 “(c)
 
@@ -620,7 +618,7 @@ Fees for Contractor.—The Secretary shall pay to the contractor under the contr
 
 #### Program for Improved Travel Process for Department of Defense
 
-Section 356 of Pub. L. 104–106, as amended by Pub. L. 105–85, div. A, title X, §1073(d)(1)(B), Nov. 18, 1997, 111 Stat. 1905, provided that:
+Pub. L. 104–106, div. A, title III, §356, Feb. 10, 1996, 110 Stat. 270, as amended by Pub. L. 105–85, div. A, title X, §1073(d)(1)(B), Nov. 18, 1997, 111 Stat. 1905, provided that:
 
 “(a)
 
@@ -678,11 +676,11 @@ Plan for Program.—Before conducting the program, the Secretary shall develop a
 
 “(e)
 
-Report.—After the first full year of the conduct of the tests required by subsection (b), the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on National Security ofthe House of Representatives a report on the implementation of the program. The report shall include an analysis of the evaluation criteria established pursuant to subsection (c).”
+Report.—After the first full year of the conduct of the tests required by subsection (b), the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a report on the implementation of the program. The report shall include an analysis of the evaluation criteria established pursuant to subsection (c).”
 
 #### Increased Reliance on Private-Sector Sources for Commercial Products and Services
 
-Section 357 of Pub. L. 104–106 provided that:
+Pub. L. 104–106, div. A, title III, §357, Feb. 10, 1996, 110 Stat. 271, provided that:
 
 “(a)
 
@@ -721,6 +719,4 @@ Report.—(1) The Secretary shall identify activities of the Department (other t
 “(4) The Secretary shall carry out paragraph (1) in consultation with the Director of the Office of Management and Budget and the Comptroller General of the United States. In carrying out that paragraph, the Secretary shall consult with, and seek the views of, representatives of the private sector, including organizations representing small businesses.”
 
 <i><sup>1</sup></i><i> So in original.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
 

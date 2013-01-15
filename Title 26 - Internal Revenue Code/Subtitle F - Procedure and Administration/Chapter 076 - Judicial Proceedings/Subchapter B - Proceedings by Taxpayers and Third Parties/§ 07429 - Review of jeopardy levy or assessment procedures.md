@@ -140,11 +140,11 @@ Pub. L. 105–206, title III, §3434(b), July 22, 1998, 112 Stat. 760, provided 
 
 #### Effective Date of 1988 Amendment
 
-Section 6237(f) of Pub. L. 100–647 provided that: “The amendments made by this section \[amending this section\] shall apply to jeopardy levies issued and assessments made on or after July 1, 1989.”
+Pub. L. 100–647, title VI, §6237(f), Nov. 10, 1988, 102 Stat. 3743, provided that: “The amendments made by this section \[amending this section\] shall apply to jeopardy levies issued and assessments made on or after July 1, 1989.”
 
 #### Effective Date of 1984 Amendment
 
-Section 446(b) of Pub. L. 98–369 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to actions commenced after the date of the enactment of this Act \[July 18, 1984\].”
+Pub. L. 98–369, div. A, title IV, §446(b), July 18, 1984, 98 Stat. 817, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to actions commenced after the date of the enactment of this Act \[July 18, 1984\].”
 
 #### Effective Date
 

@@ -24,13 +24,13 @@ Section 79j, act Aug. 26, 1935, ch. 687, title I, §10, 49 Stat. 818, related to
 
 Section 79k, acts Aug. 26, 1935, ch. 687, title I, §11, 49 Stat. 820; Pub. L. 95–598, title III, §309, Nov. 6, 1978, 92 Stat. 2676, related to simplification of holding company systems.
 
-Section 79<i>l</i>, act Aug. 26, 1935, ch. 687, title I, §12, 49 Stat. 823, related to intercompany and other transactions relating to registered companies.
+Section 79l, act Aug. 26, 1935, ch. 687, title I, §12, 49 Stat. 823, related to intercompany and other transactions relating to registered companies.
 
 Section 79m, act Aug. 26, 1935, ch. 687, title I, §13, 49 Stat. 825, related to service, sales, and construction contracts.
 
 Section 79n, act Aug. 26, 1935, ch. 687, title I, §14, 49 Stat. 827, related to periodic and other reports.
 
-Section 79<i>o</i>, act Aug. 26, 1935, ch. 687, title I, §15, 49 Stat. 828, related to keeping of accounts and records.
+Section 79o, act Aug. 26, 1935, ch. 687, title I, §15, 49 Stat. 828, related to keeping of accounts and records.
 
 Section 79p, act Aug. 26, 1935, ch. 687, title I, §16, 49 Stat. 829, related to penalty for misleading statements and rights and remedies in addition to those under other laws.
 
@@ -50,7 +50,7 @@ Section 79w, act Aug. 26, 1935, ch. 687, title I, §23, 49 Stat. 834, related to
 
 Section 79x, acts Aug. 26, 1935, ch. 687, title I, §24, 49 Stat. 834; June 25, 1948, ch. 646, §32(a), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Pub. L. 85–791, §15, Aug. 28, 1958, 72 Stat. 946; Pub. L. 100–181, title IV, §403, Dec. 4, 1987, 101 Stat. 1259, related to judicial review of orders.
 
-Section 79y, acts Aug. 26, 1935, ch. 687, title I, §25, 49 Stat. 835; June 25, 1936, ch. 804, 49 Stat. 1921; June 25, 1948, ch. 646, §32(b), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Pub. L. 100–181, title IV, §404, Dec. 4, 1987, 101 Stat. 1260, related to court jurisdiction of violations of chapter.
+Section 79y, acts Aug. 26, 1935, ch. 687, title I, §25, 49 Stat. 835; June 25, 1936, ch. 804, 49 Stat. 1921; June 25, 1948, ch. 646, §32(b), 62 Stat. 991; May 24, 1949, ch. 139,§127, 63 Stat. 107; Pub. L. 100–181, title IV, §404, Dec. 4, 1987, 101 Stat. 1260, related to court jurisdiction of violations of chapter.
 
 Section 79z, act Aug. 26, 1935, ch. 687, title I, §26, 49 Stat. 835, related to validity of contracts.
 
@@ -58,7 +58,7 @@ Section 79z–1, act Aug. 26, 1935, ch. 687, title I, §27, 49 Stat. 836, relate
 
 Section 79z–2, act Aug. 26, 1935, ch. 687, title I, §28, 49 Stat. 836, related to representation of guaranty or recommendation by United States.
 
-Section 79z–3, acts Aug. 26, 1935, ch. 687, title I, §29, 49 Stat. 836; Pub. L. 94–29, §27(c), June 4, 1975, 89 Stat. 163,related to penalties for violations of provisions, false statements, or destruction of records.
+Section 79z–3, acts Aug. 26, 1935, ch. 687, title I, §29, 49 Stat. 836; Pub. L. 94–29, §27(c), June 4, 1975, 89 Stat. 163, related to penalties for violations of provisions, false statements, or destruction of records.
 
 Section 79z–4, acts Aug. 26, 1935, ch. 687, title I, §30, 49 Stat. 837; Pub. L. 100–181, title IV, §405, Dec. 4, 1987, 101 Stat. 1260, related to studies and investigations of public utility companies.
 

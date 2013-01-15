@@ -44,3 +44,39 @@ The text of section 201(d) of the Highway Safety Act of 1966 is omitted as execu
 
 <b>1994</b>—Subsec. (d). Pub. L. 103–272 substituted “chapter 301 of this title” for “the National Traffic and Motor Vehicle Safety Act of 1966 (15 U.S.C. 1381 et seq.)”.
 
+#### National Highway Traffic Safety Administration Electronics, Software, and Engineering Expertise
+
+Pub. L. 112–141, div. C, title I, §31401, July 6, 2012, 126 Stat. 772, provided that:
+
+“(a)
+
+Council for Vehicle Electronics, Vehicle Software, and Emerging Technologies.—
+
+&emsp;“(1)
+
+In general.—The Secretary \[of Transportation\] shall establish, within the National Highway Traffic Safety Administration, a Council for Vehicle Electronics, Vehicle Software, and Emerging Technologies (referred to in this section as the ‘Council’) to build, integrate, and aggregate the Administration's expertise in passenger motor vehicle electronics and other new and emerging technologies.
+
+&emsp;“(2)
+
+Implementation of roadmap.—The Council shall research the inclusion of emerging lightweight plastic and composite technologies in motor vehicles to increase fuel efficiency, lower emissions, meet fuel economy standards, and enhance passenger motor vehicle safety through continued utilization of the Administration's Plastic and Composite Intensive Vehicle Safety Roadmap (Report No. DOT HS 810 863).
+
+&emsp;“(3)
+
+Intra-agency coordination.—The Council shall coordinate with all components of the Administration responsible for vehicle safety, including research and development, rulemaking, and defects investigation.
+
+“(b)
+
+Honors Recruitment Program.—
+
+&emsp;“(1)
+
+Establishment.—The Secretary shall establish, within the National Highway Traffic Safety Administration, an honors program for engineering students, computer science students, and other students interested in vehicle safety that will enable such students to train with engineers and other safety officials for careers in vehicle safety.
+
+&emsp;“(2)
+
+Stipend.—The Secretary is authorized to provide a stipend to any student during the student's participation in the program established under paragraph (1).
+
+“(c)
+
+Assessment.—The Council, in consultation with affected stakeholders, shall periodically assess the implications of emerging safety technologies in passenger motor vehicles, including the effect of such technologies on consumers, product availability, and cost.”
+

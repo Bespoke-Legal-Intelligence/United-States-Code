@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) promote and maintain the John F. Kennedy Center for the Performing Arts as the National Center for the Performing Arts—
 
-&emsp;&emsp;&emsp;(i) by developing and maintaining a leadership role in national performing arts education policy and programs, including developing and presenting original and innovative performing arts and educational programs for children, youth, families, adults, and educators designed specifically to foster an appreciation and understanding of the performing arts;
+&emsp;&emsp;&emsp;(i) by developing and maintaining a leadership role in national performing arts education policy and programs, including developing and presenting original and innovative performing arts and educational programs for children, youth, families, adults, and educators designed specificallyto foster an appreciation and understanding of the performing arts;
 
 &emsp;&emsp;&emsp;(ii) by developing and maintaining a comprehensive and broad program for national and community outreach, including establishing model programs for adaptation by other presenting and educational institutions; and
 
@@ -46,7 +46,7 @@
 
 #### (C) Use of agency personnel
 
-&emsp;&emsp;The Board may utilize or employ the services of the personnel of any agency or instrumentality of the Federal Government or the District of Columbia, with the consent of theagency or the instrumentality concerned, on a reimbursable basis, and utilize voluntary and uncompensated personnel.
+&emsp;&emsp;The Board may utilize or employ the services of the personnel of any agency or instrumentality of the Federal Government or the District of Columbia, with the consent of the agency or the instrumentality concerned, on a reimbursable basis, and utilize voluntary and uncompensated personnel.
 
 #### (D) Selection of contractors
 
@@ -76,7 +76,7 @@
 
 &emsp;(B) any plaque on a theater chair or a theater box acknowledging the gift of such chair or box; and
 
-&emsp;(C) any inscription on the marble walls in the north or south galleries, the Hall of States, or the Hall of Nations acknowledging a major contribution;
+&emsp;(C) any inscription on the marble walls in the north or south galleries, the Hall ofStates, or the Hall of Nations acknowledging a major contribution;
 
 > which plaque or inscription is permitted under policies of the Board in effect on December 2, 1983.
 

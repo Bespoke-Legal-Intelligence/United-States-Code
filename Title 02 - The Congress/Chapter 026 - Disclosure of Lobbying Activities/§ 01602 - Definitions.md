@@ -8,7 +8,7 @@ As used in this chapter:
 
 #### (2) Client
 
-&emsp;The term “client” means any person or entity that employs or retains another person for financial or other compensation to conduct lobbying activities on behalf of that person or entity. A person or entity whose employeesact as lobbyists on its own behalf is both a client and an employer of such employees. In the case of a coalition or association that employs or retains other persons to conduct lobbying activities, the client is the coalition or association and not its individual members.
+&emsp;The term “client” means any person or entity that employs or retains another person for financial or other compensation to conduct lobbying activities on behalf of that person orentity. A person or entity whose employees act as lobbyists on its own behalf is both a client and an employer of such employees. In the case of a coalition or association that employs or retains other persons to conduct lobbying activities, the client is the coalition or association and not its individual members.
 
 #### (3) Covered executive branch official
 

@@ -48,7 +48,7 @@ Upon enrollment in the Peace Corps, every volunteer shall take the oath prescrib
 
 In order to assure that the skills and experience which former volunteers have derived from their training and their service abroad are best utilized in the national interest, the President may, in cooperation with agencies of the United States, private employers, educational institutions and other entities of the United States, undertake programs under which volunteers would be counseled with respect to opportunities for further education and employment.
 
-#### (<i>l</i>) Legal expenses of defendant in judicial or administrative proceedings
+#### (l) Legal expenses of defendant in judicial or administrative proceedings
 
 Notwithstanding any other provision of law, counsel may be employed and counsel fees, court costs, bail, and other expenses incident to the defense of volunteers may be paid in foreign judicial or administrative proceedings to which volunteers have been made parties and counsel may be employed and counsel fees, court costs and other expenses may be paid in the support of volunteers who are parties, complaining witnesses, or otherwise participating in the prosecution of crimes committed against such volunteers.
 
@@ -58,11 +58,11 @@ The minor children of a volunteer living with the volunteer may receive—
 
 &emsp;(1) such living, travel, education, and leave allowances, such housing, transportation, subsistence, and essential special items of clothing as the President may determine;
 
-&emsp;(2) such health care, including health care following the volunteer's service for illness or injury incurred during such service, and health and accident insurance, as the President may determine and upon such terms ashe may determine, including health care in any facility referred to in subsection (e) of this section, subject to such conditions as the President may prescribe and subject to reimbursement of appropriations as provided in such subsection (e);
+&emsp;(2) such health care, including health care following the volunteer's service for illness or injury incurred during such service, and health and accident insurance, as the President may determine and upon such terms as he may determine, including health care in any facility referred to in subsection (e) of this section, subject to such conditions as the President may prescribe and subject to reimbursement of appropriations as provided in such subsection (e);
 
 &emsp;(3) such orientation, language, and other training necessary to accomplish the purposes of this chapter as the President may determine; and
 
-&emsp;(4) the benefits of subsection (<i>l</i>) of this section on the same basis as volunteers.
+&emsp;(4) the benefits of subsection (l) of this section on the same basis as volunteers.
 
 #### (n) Moving expenses
 
@@ -80,7 +80,7 @@ The Assisted Suicide Funding Restriction Act of 1997, referred to in subsec. (e)
 
 The Foreign Service Act of 1980, referred to in subsec. (f)(1), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, which is classified principally to chapter 52 (§3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 
-The Federal Tort Claims Act, referred to in subsec. (h), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
+The Federal Tort Claims Act, referred to in subsec. (h), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
 
 #### Amendments
 
@@ -88,7 +88,7 @@ The Federal Tort Claims Act, referred to in subsec. (h), is title IV of act Aug.
 
 Subsec. (e). Pub. L. 112–57, §8(b), in first sentence, inserted “(including, if necessary, for volunteers and trainees, services under section 2507b of this title)” after “health care” and “including services provided in accordance with section 2507b of this title (except that the six-month limitation shall not apply in the case of such services),” before “as the President”.
 
-Subsec. (<i>l</i>). Pub. L. 112–57, §3, inserted “and counsel may be employed and counsel fees, court costs and other expenses may be paid in the support of volunteers who are parties, complaining witnesses, or otherwise participating in the prosecution of crimes committed against such volunteers” before period at end.
+Subsec. (l). Pub. L. 112–57, §3, inserted “and counsel may be employed and counsel fees, court costs and other expenses may be paid in the support of volunteers who are parties, complaining witnesses, or otherwise participating in the prosecution of crimes committed against such volunteers” before period at end.
 
 <b>1999</b>—Subsec. (f)(1)(B). Pub. L. 106–30, §2(b)(1), substituted “Office of Personnel Management” for “Civil Service Commission”.
 
@@ -132,7 +132,7 @@ Subsec. (f). Repealed, as applicable to the Civil Service Retirement Act, as ame
 
 Subsec. (h). Repealed, as applicable to act June 4, 1954, chapter 264, section 5 (5 U.S.C. 73b-5), by Pub. L. 89–554, and now covered by section 5732 of Title 5.
 
-Subsec. (<i>l</i>). Pub. L. 89–572 added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 89–572 added subsec. (l).
 
 <b>1965</b>—Subsec. (c). Pub. L. 89–134, §2(a), provided that, for purposes of the Internal Revenue Code of 1954, a volunteer is deemed to be paid and to receive readjustment allowance to which he is entitled after December 31, 1964, when the amount is transferred from funds made available under this chapter to the fund from which the readjustment allowance is paid.
 
@@ -204,7 +204,7 @@ Definitions.—For purposes of this section—
 
 #### Legal Expenses Incurred Prior to Sept. 13, 1966
 
-Section 2(b) of Pub. L. 89–572 provided that: “The authority contained in subsection (a) \[adding subsec. (<i>l</i>) to this section\] shall extend to counsels fees, costs, and other expenses of the types specified therein that were incurred prior to the date of enactment of this Act \[Sept. 13, 1966\].”
+Pub. L. 89–572, §2(b), Sept. 13, 1966, 80 Stat. 765, provided that: “The authority contained in subsection (a) \[adding subsec. (l) to this section\] shall extend to counsels fees, costs, and other expenses of the types specified therein that were incurred prior to the date of enactment of this Act \[Sept. 13, 1966\].”
 
 #### Ex. Ord. No. 11103. Appointment of Former Volunteers to Civilian Career Services
 

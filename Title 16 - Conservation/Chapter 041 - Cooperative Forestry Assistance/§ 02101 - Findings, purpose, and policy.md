@@ -4,7 +4,7 @@
 
 Congress finds that—
 
-&emsp;(1) most of the productive forest land of the United States is in private, State, and local governmental ownership, and the capacity of the United States to produce renewable forestresources is significantly dependent on such non-Federal forest lands;
+&emsp;(1) most of the productive forest land of the United States is in private, State, and local governmental ownership, and the capacity of the United States to produce renewable forest resources is significantly dependent on such non-Federal forest lands;
 
 &emsp;(2) adequate supplies of timber and other forest resources are essential to the United States, and adequate supplies are dependent on efficient methods for establishing, managing, and harvesting trees and processing, marketing, and using wood and wood products;
 
@@ -118,15 +118,15 @@ Section 17, formerly section 14, of Pub. L. 95–313, as renumbered §17 by Pub.
 
 #### Short Title of 1990 Amendment
 
-Section 1201 of title XII of Pub. L. 101–624 provided that: “This title \[enacting sections 582a–8, 1648, 1649, 1674a, 2103a to 2103c, 2106a, 2113, and 2114 of this title, amending this section and sections 1642, 1672, 1674, 2102 to 2106, and 2108 to 2110 of this title, and enacting provisions set out as notes under this section and sections 582a, 1601, 1642, and 2112 of this title\] may be cited as the ‘Forest Stewardship Act of 1990’.”
+Pub. L. 101–624, title XII, §1201, Nov. 28, 1990, 104 Stat. 3521, provided that: “This title \[enacting sections 582a–8, 1648, 1649, 1674a, 2103a to 2103c, 2106a, 2113, and 2114 of this title, amending this section and sections 1642, 1672, 1674, 2102 to 2106, and 2108 to 2110 of this title, and enacting provisions set out as notes under this section and sections 582a, 1601, 1642, and 2112 of this title\] may be cited as the ‘Forest Stewardship Act of 1990’.”
 
 #### Short Title
 
-Section 1 of Pub. L. 95–313 provided: “That this Act \[enacting this chapter, amending sections 1510 and 1606 of this title, repealing sections 565, 566, 567, 568c to 568e, 594–1 to 594–5, 594a, and 1509 of this title, and sections 2651 to 2654 of Title 7, Agriculture, enacting provisions set out as notes under this section and section 1606 of this title, and repealing provisions set out as notes under sections 568c and 594–1 of this title\] may be cited as the ‘Cooperative Forestry Assistance Act of 1978’.”
+Pub. L. 95–313, §1, July 1, 1978, 92 Stat. 365, provided: “That this Act \[enacting this chapter, amending sections 1510 and 1606 of this title, repealing sections 565, 566, 567, 568c to 568e, 594–1 to 594–5, 594a, and 1509 of this title, and sections 2651 to 2654 of Title 7, Agriculture, enacting provisions set out as notes under this section and section 1606 of this title, and repealing provisions set out as notes under sections 568c and 594–1 of this title\] may be cited as the ‘Cooperative Forestry Assistance Act of 1978’.”
 
 #### America the Beautiful Act of 1990
 
-Subtitle C (§§1261–1266) of title XII of Pub. L. 101–624, as amended by Pub. L. 102–237, title X, §1018(e), Dec. 13, 1991, 105 Stat. 1905, provided that:
+Pub. L. 101–624, title XII, subtitle C, Nov. 28, 1990, 104 Stat. 3553–3557, as amended by Pub. L. 102–237, title X, §1018(e), Dec. 13, 1991, 105 Stat. 1905, provided that:
 
 #### “SEC. 1261. SHORT TITLE.
 
@@ -176,7 +176,7 @@ Purpose.—The purpose of this section is to authorize the President to designat
 
 “(b)
 
-Authority.—The President is authorized to designate a private nonprofit organization (hereafter in this section referred to as the ‘Foundation’) as eligible to receive funds pursuant to subsections (d) and (e) upon determining that such organization can, consistent with its charter, carry out the purposes stated in subsection (a), and that the officers of such organization have the experience and expertise necessary to direct the activities of the organization. Nothing in this section shall be construed to make officers, employees, or members of the board of directors of the Foundation officers or employees of the United States. The Foundation shall be a private and nonprofit organization and not an agency or establishment of the United States.
+Authority.—The President is authorized to designate a private nonprofit organization (hereafter inthis section referred to as the ‘Foundation’) as eligible to receive funds pursuant to subsections (d) and (e) upon determining that such organization can, consistent with its charter, carry out the purposes stated in subsection (a), and that the officers of such organization have the experience and expertise necessary to direct the activities of the organization. Nothing in this section shall be construed to make officers, employees, or members of the board of directors of the Foundation officers or employees of the United States. The Foundation shall be a private and nonprofit organization and not an agency or establishment of the United States.
 
 “(c)
 
@@ -242,7 +242,7 @@ Conflicts of interest.—No director, officer, or employee of the Foundation sha
 
 &emsp;&emsp;&emsp;“(ii) has any direct or indirect financial interest.
 
-“(<i>l</i>)
+“(l)
 
 Records; Audits.—The Foundation shall ensure that—
 
@@ -256,7 +256,7 @@ Records; Audits.—The Foundation shall ensure that—
 
 &emsp;&emsp;“(D) such other records as will facilitate an effective audit; and
 
-&emsp;“(2) the Foundation and any duly authorized representative of the Foundation shall have access, for the purpose of audit and examination, to any books,documents, papers, and records of the recipient that are pertinent to assistance provided through the Foundation under this section.
+&emsp;“(2) the Foundation and any duly authorized representative of the Foundation shall have access, for the purpose of audit and examination, to any books, documents, papers, and records of the recipient that are pertinent to assistance provided through the Foundation under this section.
 
 “(m)
 
@@ -280,9 +280,9 @@ In general.—Not later than 3 months after the conclusion of each fiscal year, 
 
 &emsp;“(2)
 
-Termination.—The obligation of the Foundation to publish annual reports pursuant to this subsection shall terminate after publication of the report incorporating the findings of the final audit in accordance with procedures required by subsection (<i>l</i>).
+Termination.—The obligation of the Foundation to publish annual reports pursuant to this subsection shall terminate after publication of the report incorporating the findings of the final audit in accordance with procedures required by subsection (l).
 
-“(<i>o</i>)
+“(o)
 
 Prohibition on Commercial Harvest.—Trees planted pursuant to a program receiving funds under this section may not be commercially harvested and sold for Christmas trees.
 

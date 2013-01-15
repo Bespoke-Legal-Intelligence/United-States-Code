@@ -6,7 +6,7 @@
 
 (c) Whoever, except as directed by the United States Senate, or the Secretary of the Senate on its behalf, knowingly uses, manufactures, reproduces, sells or purchases for resale, either separately or appended to any article manufactured or sold, any likeness of the seal of the United States Senate, or any substantial part thereof, except for manufacture or sale of the article for the official use of the Government of the United States, shall be fined under this title or imprisoned not more than six months, or both.
 
-(d) Whoever, except as directed by the United States House of Representatives, or the Clerk of the House of Representatives on its behalf, knowingly uses, manufactures, reproduces, sells or purchases for resale, either separately or appended to any article manufactured or sold, any likeness of the seal of the United States House of Representatives, or any substantial partthereof, except for manufacture or sale of the article for the official use of the Government of the United States, shall be fined under this title or imprisoned not more than six months, or both.
+(d) Whoever, except as directed by the United States House of Representatives, or the Clerk of the House of Representatives on its behalf, knowingly uses, manufactures, reproduces, sells or purchases for resale, either separately or appended to any article manufactured or sold, any likeness of the seal of the United States House of Representatives, or any substantial part thereof, except for manufacture or sale of the article for the official use of the Government of the United States, shall be fined under this title or imprisoned not more than six months, or both.
 
 (e) Whoever, except as directed by the United States Congress, or the Secretary of the Senate and the Clerk of the House of Representatives, acting jointly on its behalf, knowingly uses, manufactures, reproduces, sells or purchases for resale, either separately or appended to any article manufactured or sold, any likeness of the seal of the United States Congress, or any substantial part thereof, except for manufacture or sale of the article for the official use of the Government of the United States, shall be fined under this title or imprisoned not more than six months, or both.
 
@@ -50,7 +50,7 @@ Subsecs. (b), (c). Pub. L. 91–651 added subsecs. (b) and (c).
 
 #### Effective Date of 1971 Amendment
 
-Section 3 of Pub. L. 91–651 provided that: The amendments made by this Act \[amending this section\] shall not make unlawful any preexisting use of the design of the great seal of the United States or of the seals of the President or Vice President of the United States that was lawful on the date of enactment of this Act \[Jan. 5, 1971\], until one year after the date of such enactment.”
+Pub. L. 91–651, §3, Jan. 5, 1971, 84 Stat. 1941, provided that: The amendments made by this Act \[amending this section\] shall not make unlawful any preexisting use of the design of the great seal of the United States or of the seals of the President or Vice President of the United States that was lawful on the date of enactment of this Act \[Jan. 5, 1971\], until one year after the date of such enactment.”
 
 #### Ex. Ord. No. 11649. Regulations Governing Seals of President and Vice President of United States
 

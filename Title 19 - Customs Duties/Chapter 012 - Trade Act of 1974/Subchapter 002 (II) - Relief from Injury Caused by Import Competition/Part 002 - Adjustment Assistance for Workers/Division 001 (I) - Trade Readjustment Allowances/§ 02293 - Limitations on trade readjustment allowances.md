@@ -10,7 +10,7 @@
 
 &emsp;(B) with respect to which the worker meets the requirements of section 2291(a)(2) of this title.
 
-(3) Notwithstanding paragraph (1), in order to assist the adversely affected worker to completea training program approved for the worker under section 2296 of this title, and in accordance with regulations prescribed by the Secretary, payments may be made as trade readjustment allowances for up to 65 additional weeks in the 78-week period that—
+(3) Notwithstanding paragraph (1), in order to assist the adversely affected worker to complete a training program approved for the worker under section 2296 of this title, and in accordance with regulations prescribed by the Secretary, payments may be made as trade readjustment allowances for up to 65 additional weeks in the 78-week period that—
 
 &emsp;(A) follows the last week of entitlement to trade readjustment allowances otherwise payable under this part; or
 
@@ -74,9 +74,9 @@ If the Secretary determines that there is justifiable cause, the Secretary may e
 
 &emsp;&emsp;(A) serves on active duty for a period of more than 30 days under a call or order to active duty of more than 30 days; or
 
-&emsp;&emsp;(B) in the case of a member of the Army National Guard of the United States or Air National Guard of the United States, performs full-time National Guard duty under section 502(f) of title 32 for 30 consecutive days or more when authorized by the President or the Secretary of Defense for the purpose of responding to a national emergency declared by the President and supported by Federal funds.
+&emsp;&emsp;(B) in the case of a member of the Army National Guard of the United States or Air National Guard of the United States, performs full-time National Guard duty under section 502(f) of title 32 for 30 consecutive days or more when authorized by the President or the Secretary of Defense for the purpose of responding to a national emergencydeclared by the President and supported by Federal funds.
 
-(Pub. L. 93–618, title II, §233, Jan. 3, 1975, 88 Stat. 2022; Pub. L. 97–35, title XXV, §2505(a), Aug. 13, 1981, 95 Stat. 883; Pub. L. 98–369, div. B, title VI,§2671, July 18, 1984, 98 Stat. 1172; Pub. L. 99–272, title XIII, §13003(d), Apr. 7, 1986, 100 Stat. 301; Pub. L. 100–418, title I, §§1423(c), 1425(a), Aug. 23, 1988, 102 Stat. 1246, 1250; Pub. L. 106–36, title I, §1001(a)(1), June 25, 1999, 113 Stat. 130; Pub. L. 107–210, div. A, title I, §116, Aug. 6, 2002, 116 Stat. 941; Pub. L. 111–5, div. B, title I, §§1821(c)(2), 1823, 1824, 1829(b), Feb. 17, 2009, 123 Stat. 377, 378, 383; Pub. L. 112–40, title II, §§201(b), (c), 213, Oct. 21, 2011, 125 Stat. 403, 404.)
+(Pub. L. 93–618, title II, §233, Jan. 3, 1975, 88 Stat. 2022; Pub. L. 97–35, title XXV, §2505(a), Aug. 13, 1981, 95 Stat. 883; Pub. L. 98–369, div. B, title VI, §2671, July 18, 1984, 98 Stat. 1172; Pub. L. 99–272, title XIII, §13003(d), Apr. 7, 1986, 100 Stat. 301; Pub. L. 100–418, title I, §§1423(c), 1425(a), Aug. 23, 1988, 102 Stat. 1246, 1250; Pub. L. 106–36, title I, §1001(a)(1), June 25, 1999, 113 Stat. 130; Pub. L. 107–210, div. A, title I, §116, Aug. 6, 2002, 116 Stat. 941; Pub. L. 111–5, div. B, title I, §§1821(c)(2), 1823, 1824, 1829(b), Feb. 17, 2009, 123 Stat. 377, 378, 383; Pub. L. 112–40, title II, §§201(b), (c), 213, Oct. 21, 2011, 125 Stat. 403, 404.)
 
 #### Reversion to Provisions in Effect on February 13, 2011
 
@@ -124,7 +124,7 @@ Subsec. (g). Pub. L. 107–210, §116(c), added subsec. (g).
 
 <b>1988</b>—Subsec. (a)(2). Pub. L. 100–418, §1425(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “A trade readjustment allowance shall not be paid for any week after the 104-week period beginning with the first week following the first week in the period covered by the certification with respect to which the worker has exhausted (as determined for purposes of section 2291(a)(3)(B) of this title) all rights to that part of his unemployment insurance that is regular compensation.”
 
-Subsec. (a)(3). Pub. L. 100–418, §1423(c)(2), substituted “participating in such training” for “engaged in such training and has not been determined under section 2296(c) of this title to be failing to make satisfactory progress in the training” in last sentence.
+Subsec. (a)(3). Pub. L. 100–418, §1423(c)(2), substituted “participating in such training” for “engaged in suchtraining and has not been determined under section 2296(c) of this title to be failing to make satisfactory progress in the training” in last sentence.
 
 Subsec. (a)(3)(B). Pub. L. 100–418, §1423(c)(1), substituted “begins” for “is approved” after “training”.
 

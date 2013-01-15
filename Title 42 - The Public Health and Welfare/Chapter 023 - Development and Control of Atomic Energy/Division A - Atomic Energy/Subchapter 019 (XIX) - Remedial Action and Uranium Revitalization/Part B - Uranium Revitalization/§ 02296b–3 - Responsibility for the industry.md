@@ -6,7 +6,7 @@ The Secretary shall have a continuing responsibility for the domestic uranium in
 
 #### (b) Encourage export
 
-The Department, with the cooperation of the Department of Commerce, the United StatesTrade Representative and other governmental organizations, shall encourage the export of domestic uranium. Within 180 days after October 24, 1992, the Secretary shall develop recommendations and implement government programs to promote the export of domestic uranium.
+The Department, with the cooperation of the Department of Commerce, the United States Trade Representative and other governmental organizations, shall encourage the export of domestic uranium. Within 180 days after October 24, 1992, the Secretary shall develop recommendations and implement government programs to promote the export of domestic uranium.
 
 (Pub. L. 102–486, title X, §1014, Oct. 24, 1992, 106 Stat. 2949.)
 

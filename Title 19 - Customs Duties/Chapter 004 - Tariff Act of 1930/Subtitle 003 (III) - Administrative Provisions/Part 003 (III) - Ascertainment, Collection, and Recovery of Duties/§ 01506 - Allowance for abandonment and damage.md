@@ -14,7 +14,7 @@ Allowance shall be made in the estimation and liquidation of duties under regula
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in act Oct. 3, 1913, ch. 16, §III, X, 38 Stat. 190, reenacting the provisions of the Customs Administrative Act of June 10, 1890, ch. 407, §23, 26 Stat. 140, as amended by Act May 17, 1898, ch. 341, 30 Stat. 417, and further amended by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 103. Section III of the 1913 act was superseded by act Sept. 21, 1922, ch. 356, title IV, §505, 42 Stat. 967, and repealed by section 643 thereof. Section 505 of the 1922 act was superseded by section 506 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Oct. 3, 1913, ch. 16, §III, X, 38 Stat. 190, reenacting the provisions of the Customs Administrative Act of June 10, 1890, ch. 407, §23, 26 Stat. 140, as amended by Act May 17, 1898, ch. 341, 30 Stat. 417, and furtheramended by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 103. Section III of the 1913 act was superseded by act Sept. 21, 1922, ch. 356, title IV, §505, 42 Stat. 967, and repealed by section 643 thereof. Section 505 of the 1922 act was superseded by section 506 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 R.S. §2927 provided for the appraisal of articles damaged during the voyage, and for the allowances for such damages in estimating duties, prior to repeal by the Customs Administrative Act of June 10, 1890, ch. 407, §29, 26 Stat. 141.
 

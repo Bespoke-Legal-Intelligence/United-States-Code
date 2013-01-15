@@ -40,7 +40,7 @@ In this section, the term “team nutrition network” means a statewide multidi
 
 Subject to the availability of funds for use in carrying out this section, the total amount of funds made available for a fiscal year for grants under this section shall equal not more than the sum of—
 
-&emsp;(1) the product obtained by multiplying ½ cent by the number of lunches reimbursed through food service programs under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) during the second preceding fiscal year in schools, institutions, and service institutions that participate in the food service programs; and
+&emsp;(1) the product obtained by multiplying ½ cent by the number of lunches reimbursed through food service programs under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) during the second precedingfiscal year in schools, institutions, and service institutions that participate in the food service programs; and
 
 &emsp;(2) the total value of funds received by the Secretary in support of this section from nongovernmental sources.
 
@@ -56,7 +56,7 @@ To be eligible to receive a grant under this section, a State agency shall submi
 
 &emsp;&emsp;(B) an analysis of the means by which the State agency will use and disseminate the team nutrition messages and material developed by the Secretary;
 
-&emsp;&emsp;(C) an explanation of the ways in which the State agency will use the funds from thegrant to work toward the goals required under subparagraph (A), and to promote healthy eating and physical activity and fitness in schools throughout the State;
+&emsp;&emsp;(C) an explanation of the ways in which the State agency will use the funds from the grant to work toward the goals required under subparagraph (A), and to promote healthy eating and physical activity and fitness in schools throughout the State;
 
 &emsp;&emsp;(D) a description of the ways in which the State team nutrition network messages and activities will be coordinated at the State level with other health promotion and education activities;
 
@@ -128,7 +128,7 @@ A State agency that receives a grant under this section may use funds from the g
 
 &emsp;&emsp;(B) a description of how the proposed project will improve health and nutrition through education and increased access to physical activity;
 
-&emsp;&emsp;(C) a description of how the proposed project will be aligned with the local wellness policy required under section 204 ofthe Child Nutrition and WIC Reauthorization Act of 2004;
+&emsp;&emsp;(C) a description of how the proposed project will be aligned with the local wellness policy required under section 204 of the Child Nutrition and WIC Reauthorization Act of 2004;
 
 &emsp;&emsp;(D) a description of how funds under this subsection will be coordinated with other programs under this chapter, the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.), or other Acts, as appropriate, to improve student health and nutrition;
 
@@ -220,7 +220,7 @@ Material prepared under this section regarding agricultural commodities, food, o
 
 &emsp;Not later than 3 years after funds are made available to carry out this subsection, the Secretary shall submit to the Committee on Education and the Workforce of the House of Representatives, the Committee on Health, Education, Labor, and Pensions and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing the findings of the independent evaluation.
 
-#### (<i>l</i>) Authorization of appropriations
+#### (l) Authorization of appropriations
 
 There are authorized to be appropriated such sums as are necessary to carry out this section.
 
@@ -252,7 +252,7 @@ Subsec. (f)(1). Pub. L. 104–193, §731(b)(1)(B), struck out “(A)” before �
 
 Pub. L. 104–193, §731(b)(1)(A), struck out subpar. (B) which read as follows: “As used in this paragraph, the term ‘language appropriate’ used with respect to materials, programming, or advertisements means materials, programming, or advertisements, respectively, using a language other than the English language in a case in which the language is dominant for a large percentage of individuals participating in the program.”
 
-Subsec. (f)(2), (3). Pub. L. 104–193, §731(b)(2), (3), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “Any State desiring to receive grants authorized by this section may, from the funds appropriated to carry out this section, receive a planning and assessment grant for the purposes of carrying out the responsibilities described in clauses (A), (B),\(C), and (D) of paragraph (1) of this subsection. Any State receiving a planning and assessment grant, may, during the first year of participation, be advanced a portion of the funds necessary to carry out such responsibilities: <i>Provided</i>, That in order to receive additional funding, the State must carry out such responsibilities.”
+Subsec. (f)(2), (3). Pub. L. 104–193, §731(b)(2), (3), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “Any State desiring to receive grants authorized by this section may, from the funds appropriated to carry out this section, receive a planning and assessment grant for the purposes of carrying out the responsibilities described in clauses (A), (B), (C), and (D) of paragraph (1) of this subsection. Any State receiving a planning and assessment grant, may, during the first year of participation, be advanced a portion of the funds necessary to carry out such responsibilities: <i>Provided</i>, That in order to receive additional funding, the State must carry out such responsibilities.”
 
 Subsec. (f)(4). Pub. L. 104–193, §731(b)(2), struck out par. (4) which read as follows: “Nothing in this section shall prohibit State or local educational agencies from making available or distributing to adults nutrition education materials, resources, activities, or programs authorized under this section.”
 
@@ -328,7 +328,7 @@ Subsec. (j)(1). Pub. L. 103–448, §205(a), substituted “education and traini
 
 Subsec. (d)(1)(C). Pub. L. 101–147, §124(1)(A)(ii), substituted “schools, child care institutions, and institutions offering summer food service programs under section 13 of the National School Lunch Act” for “schools and child care institutions”.
 
-Subsec. (d)(2). Pub. L. 101–147, §§124(1)(B), 327(1)(A), substituted “recommendations of State educational agencies, the Department of Health and Human Services, and other” for “recommendation of the National Advisory Council on Child Nutrition; State educational agencies; the Department of Health and Human Services; and other”.
+Subsec. (d)(2). Pub. L. 101–147, §§124(1)(B), 327(1)(A), substituted “recommendations of State educationalagencies, the Department of Health and Human Services, and other” for “recommendation of the National Advisory Council on Child Nutrition; State educational agencies; the Department of Health and Human Services; and other”.
 
 Subsec. (d)(4). Pub. L. 101–147, §§124(1)(C), 327(1)(B), struck out “(12 Stat. 503, as amended; 7 U.S.C. 301–305, 307 and 308)” after “Act of July 2, 1862” and “(26 Stat. 417, as amended; 7 U.S.C. 321–326 and 328)” after “Act of August 30, 1890” and inserted “, in coordination with the activities authorized under section 21 of the National School Lunch Act”.
 
@@ -360,7 +360,7 @@ Amendment by Pub. L. 105–336 effective Oct. 1, 1998, see section 401 of Pub. L
 
 #### Effective Date of 1996 Amendment
 
-Section 731(g) of Pub. L. 104–193 provided that: “The amendments made by subsection (e) \[amending this section\] shall become effective on October 1, 1996.”
+Pub. L. 104–193, title VII, §731(g), Aug. 22, 1996, 110 Stat. 2307, provided that: “The amendments made by subsection (e) \[amending this section\] shall become effective on October 1, 1996.”
 
 #### Effective Date of 1994 Amendment
 

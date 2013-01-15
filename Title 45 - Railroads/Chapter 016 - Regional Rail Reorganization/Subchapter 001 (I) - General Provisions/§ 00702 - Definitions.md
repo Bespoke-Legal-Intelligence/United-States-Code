@@ -54,7 +54,7 @@ Section 711(i) of this title, referred to in par. (9), which related to the Fina
 
 Section 10361 of title 49, referred to in par. (12), was omitted in the general amendment of subtitle IV of Title 49, Transportation, by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804. Previously, in par. (12) “section 10361 of title 49” was substituted for “section 205 of this Act”, meaning section 205 of Pub. L. 93–236, on authority of Pub. L. 95–473, §3(b), Oct. 17, 1978, 92 Stat. 1466, the first section of which enacted subtitle IV (§10101 et seq.) of Title 49.
 
-Section 77 of the Bankruptcy Act, referred to in par. (16), was classified to section 205 of former Title 11, Bankruptcy. The Bankruptcy Act (act July 1, 1898, ch. 541, 30 Stat. 544, as amended) was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11. For current provisions relating to railroad reorganization, see subchapter IV (§1161 et seq.) of chapter 11 of Title 11.
+Section 77 of the Bankruptcy Act, referred to in par. (16), was classified to section 205 of former Title 11, Bankruptcy. The Bankruptcy Act (act July 1, 1898, ch. 541, 30 Stat. 544, as amended) was repealed effective Oct.1, 1979, by Pub. L. 95–598, §§401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11. For current provisions relating to railroad reorganization, see subchapter IV (§1161 et seq.) of chapter 11 of Title 11.
 
 The Conrail Privatization Act, referred to in par. (17A), is subtitle A (§§4001–4052) of title IV of Pub. L. 99–509, Oct. 21, 1986, 100 Stat. 1892, which is classified principally to chapter 22 (§1301 et seq.) of this title. For complete classification of this Act to the Code see Short Title note set out under section 1301 of this title and Tables. The date on which the initial public offering of the securities of the corporation is closed under this Act was Apr. 2, 1987.
 
@@ -110,7 +110,7 @@ Amendment by Pub. L. 96–448 effective Oct. 1, 1980, see section 710(a) of Pub.
 
 #### Effective Date of 1976 Amendment
 
-Section 303 of Pub. L. 94–555 provided that: “The provisions of this Act and the amendments made by this Act \[amending this section, sections 543, 545, 546, 563, 601, 602, 641, 711, 716, 720, 721, 743, 744, 771, 774, 775, 779, 823, 824, 825, 826, 829, 831, and 854 of this title, section 960 of Title 20, Education, and sections 1a, 5, 5c, 13, 15, 17, 22, 26c, and 1653 of former Title 49, Transportation, and enacting provisions set out as notes under sections 501, 641, 701, and 714 of this title, section 80a–3 of Title 15, Commerce and Trade, and sections 1a and 1654 of former Title 49\] shall take effect on October 1, 1976.”
+Pub. L. 94–555, title III, §303, Oct. 19, 1976, 90 Stat. 2631, provided that: “The provisions of this Act and the amendments made by this Act \[amending this section, sections 543, 545, 546, 563, 601, 602, 641, 711, 716, 720, 721, 743, 744, 771, 774, 775, 779, 823, 824, 825, 826, 829, 831, and 854 of this title, section 960 of Title 20, Education, and sections 1a, 5, 5c, 13, 15, 17, 22, 26c, and 1653 of former Title 49, Transportation, and enacting provisions set out as notes under sections 501, 641, 701, and 714 of this title, section 80a–3 of Title 15, Commerce and Trade, and sections 1a and 1654 of former Title 49\] shall take effect on October 1, 1976.”
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 

@@ -104,7 +104,7 @@ At any time after a committee reports the allocations required to be made under 
 
 #### (2) Revised allocations
 
-&emsp;(A) As soon as practicable after Congress agrees to a bill or joint resolution that would have been subject to a point of order under subsection (f)(1) of this section but for the exception provided in paragraph (1)(A) or would have been subject to a point of order undersection 642(a) of this title but for the exception provided in paragraph (1)(B), the chairman of the committee <sup>1</sup> on the Budget of the House of Representatives shall file with the House appropriately revised allocations under subsection (a) of this section and revised functional levels and budget aggregates to reflect that bill.
+&emsp;(A) As soon as practicable after Congress agrees to a bill or joint resolution that would have been subject to a point of order under subsection (f)(1) of this section but for the exception provided in paragraph (1)(A) or would have been subject to a point of order under section 642(a) of this title but for the exception provided in paragraph (1)(B), the chairman of the committee <sup>1</sup> on the Budget of the House of Representatives shall file with the House appropriately revised allocations under subsection (a) of this section and revised functional levels and budget aggregates to reflect that bill.
 
 &emsp;(B) Such revised allocations, functional levels, and budget aggregates shall be considered for the purposes of this Act as allocations, functional levels, and budget aggregates contained in the most recently agreed to concurrent resolution on the budget.
 
@@ -112,7 +112,7 @@ At any time after a committee reports the allocations required to be made under 
 
 #### References in Text
 
-This Act, referred to in subsec. (g)(2)(B), means Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended, known as the Congressional Budget and Impoundment Control Act of 1974, which enacted chapters 17, 17A, and 17B and section 190a–3 of this title and sections 11a, 11c, 11d, 1020a of former Title 31, Money and Finance, amended sections 11, 665, 701, 1020, 1151, 1152, 1153, and 1154 of former Title 31, section 105 of Title 1, General Provisions, and sections 190b and 190d of this title, repealed sections 571 and 581c–1 of former Title 31, and sections 66 and 81 of this title, and enacted provisions set out as notes under sections 190a–1, 621, 632, and 682 of this title, section 105 of Title 1, and section 1020 of former Title 31. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
+This Act, referred to in subsec. (g)(2)(B), means Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended, known as the Congressional Budget and Impoundment Control Act of 1974, which enacted chapters 17, 17A, and 17B and section 190a–3 of this title and sections 11a, 11c, 11d, 1020a of former Title 31, Money and Finance, amended sections 11, 665, 701, 1020, 1151, 1152, 1153, and 1154 of former Title 31, section 105 of Title 1, General Provisions, and sections 190b and 190d of this title, repealed sections 571 and 581c–1 of former Title 31, and sections 66 and 81 of this title, and enacted provisions set out as notes under sections 190a–1, 621, 632, and 682 of this title, section 105 of Title 1, and section 1020 of former Title 31. For complete classification of this Act to theCode, see Short Title note set out under section 621 of this title and Tables.
 
 #### Codification
 
@@ -158,7 +158,7 @@ Pub. L. 101–508, §13201(b)(3)(E), substituted “year or new entitlement auth
 
 Subsec. (f)(2). Pub. L. 101–508, §13303(c)(3), inserted three sentences at end beginning with “In applying this paragraph—”.
 
-Pub. L. 101–508, §13303(c)(2), which directed the insertion of “or provides for social security outlays in excess of the appropriate allocation of social securityoutlays under subsection (a) of this section for the fiscal year of the resolution or for the total of that year and the 4 succeeding fiscal years” before the period, was executed by making the insertion before the period at end of first sentence, as the probable intent of Congress, in view of the applicability of the amendment. See Effective and Termination Dates of 1990 Amendment note below.
+Pub. L. 101–508, §13303(c)(2), which directed the insertion of “or provides for social security outlays in excess of the appropriate allocation of social security outlays under subsection (a) of this section for the fiscal year of the resolution or for the total of that year and the 4 succeeding fiscal years” before the period, was executed by making the insertion before the period at end of first sentence, as the probable intent of Congress, in view of the applicability of the amendment. See Effective and Termination Dates of 1990 Amendment note below.
 
 Pub. L. 101–508, §13207(a)(2), substituted “outlays, new budget authority, or new spending authority (as defined in section 651(c)(2) of this title)” for “outlays or new budget authority”.
 

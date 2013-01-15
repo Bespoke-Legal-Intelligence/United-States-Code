@@ -72,11 +72,11 @@ In this section, the following definitions apply:
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall develop a program to evaluate the success of the projects carried out under paragraph (3) in meeting fishery and ecosystem restoration goals.
+&emsp;&emsp;The Secretary shall develop a program to evaluate the success of the projects carriedout under paragraph (3) in meeting fishery and ecosystem restoration goals.
 
 #### (B) Studies
 
-&emsp;&emsp;Evaluations under subparagraph (A) shall be conducted in consultation with the GreatLakes Fishery Commission and appropriate Federal, State, and local agencies.
+&emsp;&emsp;Evaluations under subparagraph (A) shall be conducted in consultation with the Great Lakes Fishery Commission and appropriate Federal, State, and local agencies.
 
 #### (d) Cooperative agreements
 

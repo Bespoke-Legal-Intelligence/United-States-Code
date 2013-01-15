@@ -10,7 +10,7 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 &emsp;(3) To conduct research to increase the understanding of the effects of folic acid in preventing birth defects, including understanding with respect to cleft lip, cleft palate, and heart defects.
 
-&emsp;(4) To provide for appropriate epidemiological activities regarding folic acid and birthdefects, including epidemiological activities regarding neural tube defects.
+&emsp;(4) To provide for appropriate epidemiological activities regarding folic acid and birth defects, including epidemiological activities regarding neural tube defects.
 
 #### (b) Consultations with States and private entities
 
@@ -22,7 +22,7 @@ The Secretary may (directly or through grants or contracts) provide technical as
 
 #### (d) Evaluations
 
-The Secretary shall (directly or through grants or contracts) provide for the evaluation of activities under subsection (a) of this section in order to determine the extent to which such activities have been effective in carrying out the purposes of the program under such subsection, including the effects on various demographic populations. Methods of evaluation under the preceding sentence may include surveys of knowledge and attitudes on the consumption of folic acid and on blood folate levels. Such methods may include complete and timely monitoring of infants who are born with neural tube defects.
+The Secretary shall (directly or through grants or contracts) provide for the evaluation of activities under subsection (a) of this section in order to determine the extent to which such activities have been effective in carrying out thepurposes of the program under such subsection, including the effects on various demographic populations. Methods of evaluation under the preceding sentence may include surveys of knowledge and attitudes on the consumption of folic acid and on blood folate levels. Such methods may include complete and timely monitoring of infants who are born with neural tube defects.
 
 #### (e) Authorization of appropriations
 

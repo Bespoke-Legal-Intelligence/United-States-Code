@@ -1,6 +1,6 @@
 ### §413. Postal services at diplomatic posts
 
-(a) The Postal Service and the Department of State may enter into 1 or more agreements for field testing to ascertain the feasibility of providing postal services through personnel provided by the Department of State at branch post offices established by the Postal Service in United States diplomatic missions at locations abroad for which branch post offices are not established under section 406.
+(a) The Postal Service and the Department of State may enter into 1 or more agreements for field testing to ascertain the feasibility of providing postal services through personnel provided by the Department of State at branch post offices established by the Postal Service in United States diplomatic missions at locationsabroad for which branch post offices are not established under section 406.
 
 (b) To the extent that the Postal Service and the Department of State conclude it to be feasible and in the public interest, the Postal Service may establish branch post offices at United States diplomatic missions in locations abroad for which branch post offices are not established under section 406, and the Department of State may enter into an agreement with the Postal Service to perform postal services at such branch post offices through personnel designated by the Department of State.
 

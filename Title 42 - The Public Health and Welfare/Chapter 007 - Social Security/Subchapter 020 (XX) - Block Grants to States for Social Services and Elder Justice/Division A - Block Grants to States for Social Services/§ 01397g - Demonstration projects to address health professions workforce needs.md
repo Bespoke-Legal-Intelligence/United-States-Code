@@ -20,7 +20,7 @@
 
 #### (B) Consultation and coordination
 
-&emsp;&emsp;An eligible entity applying for a grant to carry out a demonstration project under this section shall demonstrate in the application that the entity has consulted with the State agency responsible for administering the State TANF program, the local workforce investment board in the area in which the project is to be conducted (unless the applicant is such board), the State workforce investment board established under section 2821 of title 29, and the State Apprenticeship Agency recognized under the Act of August 16, 1937 (commonly known as the “National Apprenticeship Act”) \[29 U.S.C. 50 et seq.\] (or if no agency has been recognized in theState, the Office of Apprenticeship of the Department of Labor) and that the project will be carried out in coordination with such entities.
+&emsp;&emsp;An eligible entity applying for a grant to carry out a demonstration project under this section shall demonstrate in the application that the entity has consulted with the State agency responsible for administering the State TANF program, the local workforce investment board in the area in which the project is to be conducted (unless the applicant is such board), the State workforce investment board established under section 2821 of title 29, and the State Apprenticeship Agency recognized under the Act of August 16, 1937 (commonly known as the “National Apprenticeship Act”) \[29 U.S.C. 50 et seq.\] (or if no agency has been recognized in the State, the Office of Apprenticeship of the Department of Labor) and that the project will be carried out in coordination with such entities.
 
 #### (C) Assurance of opportunities for Indian populations
 
@@ -214,7 +214,7 @@
 
 #### (A) Eligible health and long-term care provider
 
-&emsp;&emsp;The term “eligible health and long-term care provider” means a personal or home care agency (including personal or home care public authorities), a nursing home, a home health agency (as defined in section 1395x(<i>o</i>) of this title), or any other health care provider the Secretary determines appropriate which—
+&emsp;&emsp;The term “eligible health and long-term care provider” means a personal or home care agency (including personal or home care public authorities), a nursing home, a home health agency (as defined in section 1395x(o) of this title), or any other health care provider the Secretary determines appropriate which—
 
 &emsp;&emsp;&emsp;(i) is licensed or authorized to provide services in a participating State; and
 
@@ -240,7 +240,7 @@
 
 #### (2) Training and certification programs for personal and home care aides
 
-&emsp;With respect to the demonstration projects under subsection (b), the Secretary shall use $5,000,000 of the amount appropriated under paragraph (1) for each of fiscal years 2010 through 2012 to carry out such projects. No funds appropriated under paragraph (1) shall be used to carry out demonstration projects under subsection (b) after fiscal year 2012.
+&emsp;With respect to the demonstration projects under subsection (b), the Secretary shall use$5,000,000 of the amount appropriated under paragraph (1) for each of fiscal years 2010 through 2012 to carry out such projects. No funds appropriated under paragraph (1) shall be used to carry out demonstration projects under subsection (b) after fiscal year 2012.
 
 #### (d) Nonapplication
 

@@ -34,7 +34,7 @@
 
 (4) Storage costs payable under this subsection may be paid in advance.
 
-(c) When there has been a shipping error, or when orders directing a change of permanent station have been canceled, revoked, or modified after receipt by the member, a motor vehicle transported pursuant to this section may also be reshipped or transshipped in accordance with this section.
+(c) When there has been a shipping error, or when orders directing a change of permanentstation have been canceled, revoked, or modified after receipt by the member, a motor vehicle transported pursuant to this section may also be reshipped or transshipped in accordance with this section.
 
 (d) When the Secretary concerned makes a determination under section 476(j) of title 37 that the dependents of a member on a permanent change of station are unable to accompany the member to an overseas duty station because of unexpected and uncontrollable circumstances, and the member shipped a motor vehicle pursuant to this section in anticipation of a dependent accompanying the member to the new duty station, the member may reship or transship such motor vehicle in accordance with this section.
 
@@ -62,25 +62,23 @@
 
 &emsp;(3) The term “nonforeign area outside the continental United States” means any of the following: the States of Alaska and Hawaii, the Commonwealths of Puerto Rico and the Northern Mariana Islands, and any possession of the United States.
 
-(Added Pub. L. 87–651, title I, §111(b), Sept. 7, 1962, 76 Stat. 510; amended Pub. L. 88–431, §1(b), Aug. 14, 1964, 78 Stat. 439; Pub. L. 89–101, §1(1), July 30, 1965, 79 Stat. 425; Pub. L. 93–548, §§1, 2, Dec. 26, 1974, 88 Stat. 1743; Pub. L. 97–60, title II, §202, Oct. 14, 1981, 95 Stat. 1005; Pub. L. 99–661, div. A, title VI, §§611, 620(b)(2), Nov. 14, 1986, 100 Stat. 3878, 3883; Pub. L. 100–26, §7(j)(6), Apr. 21, 1987, 101 Stat. 283; Pub. L. 100–180, div. A, title VI, §616(a), Dec. 4, 1987, 101 Stat. 1096; Pub. L. 102–484, div. A, title VI, §622(b), Oct. 23, 1992, 106 Stat. 2422; Pub. L. 104–106, div. A, title VI, §642(a)(2), Feb. 10, 1996, 110 Stat. 368; Pub. L. 104–201, div. A, title III, §368(a)(1), (2)(A), Sept. 23, 1996, 110 Stat. 2497; Pub. L. 105–261, div. A, title VI, §§631(b)(2), 653(a), Oct. 17, 1998, 112 Stat. 2044, 2051; Pub. L. 107–107, div. A, title V, §594(a), (b), Dec. 28, 2001, 115 Stat. 1126; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title V, §575(a), (b), Dec. 2, 2002, 116 Stat. 2558, 2559; Pub. L. 108–136, div. A, title VI, §631(a), Nov. 24, 2003, 117 Stat. 1508; Pub. L. 112–81, div. A, title VI, §631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465.)
+(Added Pub. L. 87–651, title I, §111(b), Sept. 7, 1962, 76 Stat. 510; amended Pub. L. 88–431, §1(b), Aug. 14, 1964, 78 Stat. 439; Pub. L. 89–101, §1(1), July 30, 1965, 79 Stat. 425; Pub. L. 93–548, §§1, 2, Dec. 26, 1974, 88 Stat. 1743; Pub. L. 97–60, title II, §202, Oct. 14, 1981, 95 Stat. 1005; Pub. L. 99–661, div. A, title VI, §§611, 620(b)(2), Nov. 14, 1986, 100 Stat. 3878, 3883; Pub. L. 100–26, §7(j)(6), Apr. 21, 1987, 101 Stat. 283; Pub. L. 100–180, div. A, title VI, §616(a), Dec. 4, 1987, 101 Stat. 1096; Pub. L. 102–484, div. A, title VI, §622(b), Oct. 23, 1992, 106 Stat. 2422; Pub. L. 104–106, div. A, title VI, §642(a)(2), Feb. 10, 1996, 110 Stat. 368; Pub. L. 104–201, div. A, title III, §368(a)(1), (2)(A), Sept. 23, 1996, 110 Stat. 2497; Pub. L. 105–261, div. A, title VI, §§631(b)(2), 653(a), Oct. 17, 1998, 112 Stat. 2044, 2051; Pub. L. 107–107, div. A, title V, §594(a), (b), Dec. 28, 2001, 115 Stat. 1126; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title V, §575(a), (b), Dec. 2, 2002, 116 Stat. 2558, 2559; Pub. L. 108–136, div. A, title VI, §631(a), Nov. 24, 2003, 117 Stat. 1508; Pub. L. 112–81, div. A, title VI, §631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
 
 #### Historical and Revision Notes
 
 The new section 2634 of title 10 combines sections 4748, 6157, and 9748 of this title and section 471a of title 14 (which are being repealed), and reflects the Act of May 28, 1956, ch. 325 (46 U.S.C. 1241(c)).
 
-#### Codification
-
-Section 631(f)(4)(A) of Pub. L. 112–81, which directed that this title be amended by conforming any references to sections of title 37, United States Code, which were transferred and redesignated by “subsection (c)” of section 631, was executed by conforming the references to those sections as transferred and redesignated by subsection (d) of section 631, to reflect the probable intent of Congress.
-
 #### Amendments
 
-<b>2011</b>—Subsecs. (a), (d), (h). Pub. L. 112–81 substituted “476(h)” for “406(h)” in subsec. (a), “476(j)” for “406(j)” in subsec. (d), and “474(d)(1)” for “404(d)(1)” in subsec. (h). See Codification note above.
+<b>2013</b>—Subsecs. (a), (d), (h). Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, §631(f)(4)(A). See 2011 Amendment note below.
+
+<b>2011</b>—Subsecs. (a), (d), (h). Pub. L. 112–81, §631(f)(4)(A), as amended by Pub. L. 112–239, §1076(a)(9), substituted “476(h)” for “406(h)” in subsec. (a), “476(j)” for “406(j)” in subsec. (d), and “474(d)(1)” for “404(d)(1)” in subsec. (h).
 
 <b>2003</b>—Subsecs. (h), (i). Pub. L. 108–136 added subsec. (h) and redesignated former subsec. (h) as (i).
 
 <b>2002</b>—Subsec. (b)(1), (2). Pub. L. 107–314, §575(a), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 
-“(1) In lieu of transportation authorized by this section, if a member is ordered to make a change of permanent station to a foreign country and the laws, regulations, or other restrictions imposed by the foreign country or the United States preclude entry of a motor vehicle described in subsection (a) into that country, or would require extensive modification of the vehicle as a condition to entry, the member may elect to have the vehicle stored at the expense of the United States at a location approved by the Secretary concerned.
+“(1) In lieu of transportation authorized by this section, if a member is ordered to make a change of permanent station to a foreign country and the laws, regulations, or other restrictions imposed by the foreign country or the United States preclude entry of a motor vehicle described in subsection (a) into that country, orwould require extensive modification of the vehicle as a condition to entry, the member may elect to have the vehicle stored at the expense of the United States at a location approved by the Secretary concerned.
 
 “(2) If a member is transferred or assigned in connection with a contingency operation to duty at a location other than the permanent station of the member for a period of more than 30 consecutive days, but the transfer or assignment is not considered a change of permanent station, the member may elect to have a motor vehicle described in subsection (a) stored at the expense of the United States at a location approved by the Secretary concerned.”
 
@@ -100,7 +98,7 @@ Subsecs. (g), (h). Pub. L. 105–261, §653(a), added subsec. (g) and redesignat
 
 Subsec. (b). Pub. L. 104–201, §368(a)(1)(C), added subsec. (b). Former subsec. (b) redesignated (g).
 
-Subsec. (d). Pub. L. 104–106 substituted “section 406(k) of title 37” for “section 406(<i>l</i>) of title 37”.
+Subsec. (d). Pub. L. 104–106 substituted “section 406(k) of title 37” for “section 406(l) of title 37”.
 
 Subsec. (g). Pub. L. 104–201, §368(a)(1)(A), (B), redesignated subsec. (b) as (g) and transferred it to end of section.
 
@@ -130,6 +128,10 @@ Subsec. (c). Pub. L. 93–548, §2, added subsec. (c).
 
 <b>1964</b>—Pub. L. 88–431 inserted “, leased, or chartered” and “unless a motor vehicle owned by him was transported in advance of that permanent change of station under section 406(h) of title 37”.
 
+#### Effective Date of 2013 Amendment
+
+Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
+
 #### Effective Date of 2002 Amendments
 
 Pub. L. 107–314, div. A, title V, §575(c), Dec. 2, 2002, 116 Stat. 2559, provided that: “The amendments made by this section \[amending this section\] apply to orders to make a change of permanent station to a nonforeign area outside the continental United States (as such term is defined in subsection (h)(3) of section 2634 of title 10, United States Code, as added by subsection (b)) that are issued on or after the date of the enactment of this Act \[Dec. 2, 2002\].”
@@ -144,13 +146,13 @@ Pub. L. 107–107, div. A, title V, §594(c), Dec. 28, 2001, 115 Stat. 1126, pro
 
 Pub. L. 105–261, div. A, title VI, §653(e), Oct. 17, 1998, 112 Stat. 2052, provided that:
 
-“(1) Reimbursement for motor vehicle rental expenses may not be provided under the amendments made by this section \[amending this section and sections 405a, 406, and 554 of Title 37, Pay and Allowances of the Uniformed Services\] until after the date on which the Secretary of Defense submits to Congress a report containing a certification that the Department of Defense has in place and operational a system to recover the cost of providing such reimbursement from commercial carriers that are responsible for the delayin the delivery of the motor vehicles of members of the Armed Forces and their dependents. The Secretary of Defense shall prepare the report in consultation with the Secretary of Transportation, with respect to the Coast Guard.
+“(1) Reimbursement for motor vehicle rental expenses may not be provided under the amendments made by this section \[amending this section and sections 405a, 406, and 554 of Title 37, Pay and Allowances of the Uniformed Services\] until after the date on which the Secretary of Defense submits to Congress a report containing a certification that the Department of Defense has in place and operational a system to recover the cost of providing such reimbursement from commercial carriers that are responsible for the delay in the delivery of the motor vehicles of members of the Armed Forces and their dependents. The Secretary of Defense shall prepare the report in consultation with the Secretary of Transportation, with respect to the Coast Guard.
 
 “(2) The amendments shall apply with respect to rental expenses described in such amendments that are incurred on or after the date of the submission of the report. The report shall be submitted not later than six months after the date of the enactment of this Act \[Oct. 17, 1998\] and shall include, in addition to the certification, a description of the system to be used to recover from commercial carriers the costs incurred under such amendments.”
 
 #### Effective Date of 1996 Amendment
 
-Section 368(c) of Pub. L. 104–201 provided that: “The amendments made by this section \[amending this section and section 406 of Title 37, Pay and Allowances of the Uniformed Services\] shall take effect on April 1, 1997.”
+Pub. L. 104–201, div. A, title III, §368(c), Sept. 23, 1996, 110 Stat. 2498, provided that: “The amendments made by this section \[amending this section and section 406 of Title 37, Pay and Allowances of the Uniformed Services\] shall take effect on April 1, 1997.”
 
 #### Effective Date of 1986 Amendment
 
@@ -158,7 +160,7 @@ Amendment by Pub. L. 99–661, applicable with respect to members whose dependen
 
 #### Effective Date of 1965 Amendment; Reimbursement of Expenses
 
-Section 3 of Pub. L. 89–101 provided that: “This Act \[amending this section and section 406 of title 37\] shall be effective May 1, 1965. Any member who—
+Pub. L. 89–101, §3, July 30, 1965, 79 Stat. 425, provided that: “This Act \[amending this section and section 406 of title 37\] shall be effective May 1, 1965. Any member who—
 
 &emsp;“(1) transported a motor vehicle at his personal expense after April 30, 1965, and before the enactment of this Act \[July 30, 1965\]; and
 

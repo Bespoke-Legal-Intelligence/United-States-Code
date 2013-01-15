@@ -96,7 +96,7 @@ If any amount excluded from gross income by subsection (a) is held under an agre
 
 #### (E) Adjustments
 
-&emsp;&emsp;The guideline single premium and guideline level premium shall be adjusted in the event of a change in the future benefits or any qualified additional benefit under thecontract which was not reflected in any guideline single premiums or guideline level premium previously determined.
+&emsp;&emsp;The guideline single premium and guideline level premium shall be adjusted in the event of a change in the future benefits or any qualified additional benefit under the contract which was not reflected in any guideline single premiums or guideline level premium previously determined.
 
 #### (3) Other definitions and special rules
 
@@ -192,7 +192,7 @@ If any amount excluded from gross income by subsection (a) is held under an agre
 
 &emsp;&emsp;&emsp;The term “viatical settlement provider” means any person regularly engaged in the trade or business of purchasing, or taking assignments of, life insurance contracts on the lives of insureds described in paragraph (1) if—
 
-&emsp;&emsp;&emsp;&emsp;(I) such person is licensed for such purposes (with respect to insureds describedin the same subparagraph of paragraph (1) as the insured) in the State in which the insured resides, or
+&emsp;&emsp;&emsp;&emsp;(I) such person is licensed for such purposes (with respect to insureds described in the same subparagraph of paragraph (1) as the insured) in the State in which the insured resides, or
 
 &emsp;&emsp;&emsp;&emsp;(II) in the case of an insured who resides in a State not requiring the licensing of such persons for such purposes with respect to such insured, such person meets the requirements of clause (ii) or (iii), whichever applies to such insured.
 
@@ -276,7 +276,7 @@ If any amount excluded from gross income by subsection (a) is held under an agre
 
 #### (1) In general
 
-&emsp;Gross income shall not include any amount paid as a survivor annuity on account of the death of a public safety officer (as such term is defined in section 1204 of the Omnibus Crime Control and Safe Streets Act of 1968) killed in the line of duty—
+&emsp;Gross income shall not include any amount paid as a survivor annuity on account of the death of a public safety officer (as such term is defined in section 1204 of the Omnibus Crime Control and Safe Streets Act of 1968, as in effect immediately before the enactment of the National Defense Authorization Act for Fiscal Year 2013) killed in the line of duty—
 
 &emsp;&emsp;(A) if such annuity is provided, under a governmental plan which meets the requirements of section 401(a), to the spouse (or a former spouse) of the public safety officer or to a child of such officer; and
 
@@ -400,17 +400,19 @@ If any amount excluded from gross income by subsection (a) is held under an agre
 
 &emsp;&emsp;The term “insured” means, with respect to an employer-owned life insurance contract, an individual covered by the contract who is a United States citizen or resident. In the case of a contract covering the joint lives of 2 individuals, references to an insured include both of the individuals.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 26; Pub. L. 85–866, title I, §23(d), Sept. 2, 1958, 72 Stat. 1622; Pub. L. 87–792, §7(c), Oct. 10, 1962, 76 Stat. 829; Pub. L. 89–365, §1(c), Mar. 8, 1966, 80 Stat. 32; Pub. L. 91–172, title I, §101(j)(l), Dec. 30, 1969, 83 Stat. 526; Pub. L. 93–406, title II, §§2005(c)(15), 2007(b)(3), Sept. 2, 1974, 88 Stat. 992, 994; Pub. L. 94–455, title XIX, §§1901(a)(16), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1765, 1834; Pub. L. 97–248, title II, §§239, 266(a), (b), Sept. 3, 1982, 96 Stat. 514, 547, 550; Pub. L. 98–369, div. A, title II, §221(b)(2), title IV, §421(b)(2), title VII, §713(e), July 18, 1984, 98 Stat. 772, 794, 958; Pub. L. 99–514, title X, §1001(a)–(c), Oct. 22, 1986, 100 Stat. 2387; Pub. L. 104–188, title I, §1402(a), (b)(1), Aug. 20, 1996, 110 Stat. 1789; Pub. L. 104–191, title III, §331(a), Aug. 21, 1996, 110 Stat. 2067; Pub. L. 105–34, title X, §1084(b)(2), title XV, §1528(a), Aug. 5, 1997, 111 Stat. 952, 1074; Pub. L. 107–134, title I, §102(a), Jan. 23, 2002, 115 Stat. 2429; Pub. L. 108–121, title I, §110(b)(1), (2), Nov. 11, 2003, 117 Stat. 1342; Pub. L. 109–280, title VIII, §863(a), (c)(1), Aug. 17, 2006, 120 Stat. 1021, 1024.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 26; Pub. L. 85–866, title I, §23(d), Sept. 2, 1958, 72 Stat. 1622; Pub. L. 87–792, §7(c), Oct. 10, 1962, 76 Stat. 829; Pub. L. 89–365, §1(c), Mar. 8, 1966, 80 Stat. 32; Pub. L. 91–172, title I, §101(j)(l), Dec. 30, 1969, 83 Stat. 526; Pub. L. 93–406, title II, §§2005(c)(15), 2007(b)(3), Sept. 2, 1974, 88 Stat. 992, 994; Pub. L. 94–455, title XIX, §§1901(a)(16), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1765, 1834; Pub. L. 97–248, title II, §§239, 266(a), (b), Sept. 3, 1982, 96 Stat. 514, 547, 550; Pub. L. 98–369, div. A, title II, §221(b)(2), title IV, §421(b)(2), title VII, §713(e), July 18, 1984, 98 Stat. 772, 794, 958; Pub. L. 99–514, title X, §1001(a)–(c), Oct. 22, 1986, 100 Stat. 2387; Pub. L. 104–188, title I, §1402(a), (b)(1), Aug. 20, 1996, 110 Stat. 1789; Pub. L. 104–191, title III, §331(a), Aug. 21, 1996, 110 Stat. 2067; Pub. L. 105–34, title X, §1084(b)(2), title XV, §1528(a), Aug. 5, 1997, 111 Stat. 952, 1074; Pub. L. 107–134, title I, §102(a), Jan. 23, 2002, 115 Stat. 2429; Pub. L. 108–121, title I, §110(b)(1), (2), Nov. 11, 2003, 117 Stat. 1342; Pub. L. 109–280, title VIII, §863(a), (c)(1), Aug. 17, 2006, 120 Stat. 1021, 1024; Pub. L. 112–239, div. A, title X, §1086(b)(3)(B), Jan. 2, 2013, 126 Stat. 1968.)
 
 #### References in Text
 
-The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (h), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197, as amended. Section 1204 of the Act is classified to section 3796b of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3711 of Title 42 and Tables.
+The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (h), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197. Section 1204 of the Act is classified to section 3796b of Title 42, The Public Health and Welfare. Section 1204 of the Act, as in effect immediately before the enactment of the National Defense Authorization Act for Fiscal Year 2013, means section 1204 prior to its amendment by Pub. L. 112–239, div. A, title X, §1086(b)(1)(E), Jan. 2, 2013, 126 Stat. 1967. For complete classification of this Act to the Code, see Short Title note set out under section 3711 of Title 42 and Tables.
 
 #### Codification
 
 Another section 1084(b) of Pub. L. 105–34 amended sections 805, 807, 812, and 832 of this title.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (h)(1). Pub. L. 112–239 inserted “, as in effect immediately before the enactment of the National Defense Authorization Act for Fiscal Year 2013” after “1968” in introductory provisions.
 
 <b>2006</b>—Subsec. (a)(1). Pub. L. 109–280, §863(c)(1), substituted “subsection (f), and subsection (j)” for “and subsection (f)”.
 
@@ -476,6 +478,10 @@ Subsec. (b)(3). Pub. L. 87–792, §7(c)(2), added par. (3).
 
 <b>1958</b>—Subsec. (b)(2)(B). Pub. L. 85–866 substituted “This subparagraph shall not apply to total distributions payable (as defined in section 402(a)(3) which are paid to a distributee within one taxable year of the distributee by reason of the employee's death—” for “(other than total distributions payable, as defined in section 402(a)(3), which are paid to distributee, by a stock bonus, pension, or profit-sharing trust described in section 401(a) which is exempt from tax under section 501(a), or under an annuity contract under a plan which meets the requirements of paragraphs (3), (4), (5), and (6) of section 401(a), within one taxable year of the distributee by reason of the employee's death)”, and added cls. (i), (ii), and (iii).
 
+#### Effective Date of 2013 Amendment
+
+Amendment by Pub. L. 112–239 effective Jan. 2, 2013, and applicable to matters pending on Jan. 2, 2013, or filed or accruing after that date, with certain exceptions, see section 1086(d) of Pub. L. 112–239, set out as a note under section 3791 of Title 42, The Public Health and Welfare.
+
 #### Effective Date of 2006 Amendment
 
 Pub. L. 109–280, title VIII, §863(d), Aug. 17, 2006, 120 Stat. 1024, provided that: “The amendments made by this section \[enacting section 6039I of this title and amending this section\] shall apply to life insurance contracts issued after the date of the enactment of this Act \[Aug. 17, 2006\], except for a contract issued after such date pursuant to an exchange described in section 1035 of the Internal Revenue Code of 1986 for a contract issued on or prior to that date. For purposes of the preceding sentence, any material increase in the death benefit or other material change shall cause the contract to be treated as a new contract except that, in the case of a master contract (within the meaning of section 264(f)(4)(E) of such Code), the addition of covered lives shall be treated as a new contract only with respect to such additional covered lives.”
@@ -498,19 +504,19 @@ Waiver of limitations.—If refund or credit of any overpayment of tax resulting
 
 #### Effective Date of 1997 Amendment
 
-Section 1084(d) of Pub. L. 105–34, as amended by Pub. L. 105–206, title VI, §6010(<i>o</i>)(3)(B), July 22, 1998, 112 Stat. 816, provided that: “The amendments made by this section \[amending this section and sections 264, 265, 805, 807, 812, and 832 of this title\] shall apply to contracts issued after June 8, 1997, in taxable years ending after such date. For purposes of the preceding sentence, any material increase in the death benefit or other material change in the contract shall be treated as a new contract except that, in the case of a master contract (within the meaning of section 264(f)(4)(E) of the Internal Revenue Code of 1986), the addition of covered lives shall be treated as a new contract only with respect to such additional covered lives. For purposes of this subsection, an increase in the death benefit under a policy or contract issued in connection with a lapse described in section 501(d)(2) of the Health Insurance Portability and Accountability Act of 1996 \[Pub. L. 104–191, set out as a note under section 264 of this title\] shall not be treated as a new contract.”
+Pub. L. 105–34, title X, §1084(d), Aug. 5, 1997, 111 Stat. 955, as amended by Pub. L. 105–206, title VI, §6010(o)(3)(B), July 22, 1998, 112 Stat. 816, provided that: “The amendments made by this section \[amending this section and sections 264, 265, 805, 807, 812, and 832 of this title\] shall apply to contracts issued after June 8, 1997, in taxable years ending after such date. For purposes of the preceding sentence, any material increase in the death benefit or other material change in the contract shall be treated as a new contract except that, in the case of a master contract (within the meaning of section 264(f)(4)(E) of the Internal Revenue Code of 1986), the addition of covered lives shall be treated as a new contract only with respect to such additional covered lives. For purposes of this subsection, an increase in the death benefit under a policy or contract issued in connection with a lapse described in section 501(d)(2) of the Health Insurance Portability and Accountability Act of 1996 \[Pub. L. 104–191, set out as a note under section 264 of this title\] shall not be treated as a new contract.”
 
-Section 1528(b) of Pub. L. 105–34, as amended by Pub. L. 107–15, §2, June 5, 2001, 115 Stat. 37, provided that: “The amendments made by this section \[amending this section\] shall apply to amounts received in taxable years beginning after December 31, 1996, with respect to individuals dying after such date, and to amounts received in taxable years beginning after December 31, 2001, with respect to individuals dying on or before December 31, 1996.”
+Pub. L. 105–34, title XV, §1528(b), Aug. 5, 1997, 111 Stat. 1075, as amended by Pub. L. 107–15, §2, June 5, 2001, 115 Stat. 37, provided that: “The amendments made by this section \[amending this section\] shall apply to amounts received in taxable years beginning after December 31, 1996, with respect to individuals dying after such date, and to amounts received in taxable years beginning after December 31, 2001, with respect to individuals dying on or before December 31, 1996.”
 
-#### Effective Date of 1996 Amendments
+#### Effective Date of 1996 Amendment
 
-Section 331(b) of Pub. L. 104–191 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to amounts received after December 31, 1996.”
+Pub. L. 104–191, title III, §331(b), Aug. 21, 1996, 110 Stat. 2069, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to amounts received after December 31, 1996.”
 
-Section 1402(c) of Pub. L. 104–188 provided that: “The amendments made by this section \[amending this section and sections 406, 407, and 7701 of this title\] shall apply with respect to decedents dying after the date of the enactment of this Act \[Aug. 20, 1996\].”
+Pub. L. 104–188, title I, §1402(c), Aug. 20, 1996, 110 Stat. 1790, provided that: “The amendments made by this section \[amending this section and sections 406, 407, and 7701 of this title\] shall apply with respect to decedents dying after the date of the enactment of this Act \[Aug. 20, 1996\].”
 
 #### Effective Date of 1986 Amendment
 
-Section 1001(d) of Pub. L. 99–514 provided that: “The amendments made by this section \[amending this section\] shall apply to amounts received with respect to deaths occurring after the date of the enactment of this section \[Oct. 22, 1986\] in taxable years ending after such date.”
+Pub. L. 99–514, title X, §1001(d), Oct. 22, 1986, 100 Stat. 2387, provided that: “The amendments made by this section \[amending this section\] shall apply to amounts received with respect to deaths occurring after the date of the enactment of this section \[Oct. 22, 1986\] in taxable years ending after such date.”
 
 #### Effective Date of 1984 Amendment
 
@@ -520,9 +526,9 @@ Amendment by section 421(b)(2) of Pub. L. 98–369 applicable to transfers after
 
 Amendment by section 713 of Pub. L. 98–369 effective as if included in the provision of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section 715 of Pub. L. 98–369, set out as a note under section 31 of this title.
 
-#### Effective Date of 1982 Amendments
+#### Effective Date of 1982 Amendment
 
-Section 266(c)(1) of Pub. L. 97–248, as amended by Pub. L. 98–369, div. A, title II, §221(b)(1), July 18, 1984, 98 Stat. 772, provided that: “The amendments made by this section \[amending this section\] shall apply to contracts entered into before January 1, 1985.”
+Pub. L. 97–248, title II, §266(c)(1), Sept. 3, 1982, 96 Stat. 550, as amended by Pub. L. 98–369, div. A, title II,§221(b)(1), July 18, 1984, 98 Stat. 772, provided that: “The amendments made by this section \[amending this section\] shall apply to contracts entered into before January 1, 1985.”
 
 Amendment by section 239 of Pub. L. 97–248 applicable to decedents dying after Dec. 31, 1983, see section 241(b) of Pub. L. 97–248, set out as an Effective Date note under section 416 of this title. Such amendment is applicable, in the case of amounts received under the plan of an S corporation, with respect to decedents dying after Dec. 31, 1982, notwithstanding section 241(b) of Pub. L. 97–248, see section 6(b)(2) of Pub. L. 97–354, Oct. 19, 1982, 96 Stat. 1697, set out as a note under section 1361 of this title.
 
@@ -564,7 +570,7 @@ Flexible premium contracts issued during 1984 which meet requirements of section
 
 #### Special Rules for Contracts Entered Into Before January 1, 1983
 
-Section 266(c)(2), (3) of Pub. L. 97–248, as amended by Pub. L. 97–448, title III, §306(a)(13), Jan. 12, 1983, 96 Stat. 2405; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 97–248, title II, §266(c)(2), (3), Sept. 3, 1982, 96 Stat. 550, as amended by Pub. L. 97–448, title III, §306(a)(13), Jan. 12, 1983, 96 Stat. 2405; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(2)
 

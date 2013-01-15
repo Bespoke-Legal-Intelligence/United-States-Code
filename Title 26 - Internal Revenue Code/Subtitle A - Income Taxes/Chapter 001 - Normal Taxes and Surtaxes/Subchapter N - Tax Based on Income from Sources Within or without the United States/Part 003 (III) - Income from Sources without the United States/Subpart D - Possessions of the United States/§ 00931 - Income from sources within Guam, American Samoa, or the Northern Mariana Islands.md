@@ -60,11 +60,11 @@ Amendment by Pub. L. 108–357 applicable to taxable years ending after Oct. 22,
 
 #### Effective Date of 1986 Amendment
 
-Section 1277 of subtitle G (§§1271–1277) of title XII of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1012(z), Nov. 10, 1988, 102 Stat. 3530, provided that:
+Pub. L. 99–514, title XII, §1277, Oct. 22, 1986, 100 Stat. 2600, as amended by Pub. L. 100–647, title I, §1012(z), Nov. 10, 1988, 102 Stat. 3530, provided that:
 
 “(a)
 
-In General.—Except as otherwise provided in this section, the amendments made by this subtitle \[enacting section 932 of this title, amending this section and sections 28, 32, 48, 63, 153, 246, 338, 864, 876, 881, 933, 934, 936, 957, 1402, 1442, 3401, 6091, 7651, 7654, and 7655 of this title, repealing sections 932, 934A, and 935 of this title, and enacting provisions set out as notes under this section and section 932 of this title\] shall apply to taxable years beginning after December 31, 1986.
+In General.—Except as otherwise provided in this section, the amendments made by this subtitle \[subtitle G (§§1271–1277) of title XII of Pub. L. 99–514, enacting section 932 of this title, amending this section and sections 28, 32, 48, 63, 153, 246, 338, 864, 876, 881, 933, 934, 936, 957, 1402, 1442, 3401, 6091, 7651, 7654, and 7655 of this title, repealing sections 932, 934A, and 935 of this title, and enacting provisions set out as notes under this section and section 932 of this title\] shall apply to taxable years beginning after December 31, 1986.
 
 “(b)
 
@@ -170,19 +170,19 @@ Amendment by section 1901(a)(117) of Pub. L. 94–455 applicable with respect to
 
 #### Effective Date of 1972 Amendment
 
-Section 2 of Pub. L. 92–606 provided in part that: “The amendments made by section 1 \[enacting sections 935 and 6688 of this title, amending this section, sections 932, 7654, and 7701 of this title, and section 1421i of Title 48, Territories and Insular Possessions, and enacting provisions set out as notes under sections 881 and 1442 of this title\] (other than section 1(e)) \[amending sections 881 and 1442 of this title\] shall apply with respect to taxable years beginning after December 31, 1972.”
+Pub. L. 92–606, §2, Oct. 31, 1972, 86 Stat. 1497, provided in part that: “The amendments made by section 1 \[enacting sections 935 and 6688 of this title, amending this section, sections 932, 7654, and 7701 of this title, and section 1421i of Title 48, Territories and Insular Possessions, and enacting provisions set out as notes under sections 881 and 1442 of this title\] (other than section 1(e)) \[amending sections 881 and 1442 of this title\] shall apply with respect to taxable years beginning after December 31, 1972.”
 
 #### Effective Date of 1971 Amendment
 
-Amendment by Pub. L. 92–178 applicable with respect to taxable years ending after Dec. 31, 1971, except that a corporation may not be a DISC for any taxable year beginning before Jan. 1, 1972, see section 507 of Pub. L. 92–178, set out as an Effective Date note under section 991 of this title.
+Amendment by Pub. L. 92–178 applicable with respect to taxable years ending after Dec. 31, 1971, except thata corporation may not be a DISC for any taxable year beginning before Jan. 1, 1972, see section 507 of Pub. L. 92–178, set out as an Effective Date note under section 991 of this title.
 
 #### Effective Date of 1966 Amendment
 
-Section 107(b) of Pub. L. 89–809 provided that: “The amendment made by this section \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1966.”
+Pub. L. 89–809, title I, §107(b), Nov. 13, 1966, 80 Stat. 1571, provided that: “The amendment made by this section \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1966.”
 
 #### Authority of Guam, American Samoa, and the Northern Mariana Islands To Enact Revenue Laws
 
-Section 1271 of Pub. L. 99–514 provided that:
+Pub. L. 99–514, title XII, §1271, Oct. 22, 1986, 100 Stat. 2591, provided that:
 
 “(a)
 

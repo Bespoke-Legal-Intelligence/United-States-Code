@@ -22,7 +22,7 @@ With respect to any undercover investigative operation of the United States Cust
 
 &emsp;(2) sums authorized to be appropriated for the Service and the proceeds from the undercover operation, may be deposited in banks or other financial institutions without regard to the provisions of section 648 of title 18 and section 3302 of title 31; and
 
-&emsp;(3) the proceeds from the undercover operation may be used to offset necessary and reasonable expenses incurred in such operation without regard to the provisions of section 3302 of title 31;
+&emsp;(3) the proceeds from the undercover operation may be used to offset necessary and reasonable expenses incurred in such operationwithout regard to the provisions of section 3302 of title 31;
 
 > only upon the written certification of the Commissioner of Customs (or, if designated by the Commissioner the Deputy or an Assistant Commissioner of Customs) that any action authorized by paragraph (1), (2), or (3) of this subsection is necessary for the conduct of such undercover operation.
 

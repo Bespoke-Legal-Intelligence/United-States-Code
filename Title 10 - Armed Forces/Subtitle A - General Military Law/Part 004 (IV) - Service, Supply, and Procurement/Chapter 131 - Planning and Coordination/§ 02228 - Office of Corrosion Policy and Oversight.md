@@ -56,7 +56,7 @@ Long-Term Strategy.—(1) The Secretary of Defense shall develop and implement a
 
 &emsp;(C) Implementation of programs, including supporting databases, to ensure that a focused and coordinated approach is taken throughout the Department of Defense to collect, review, validate, and distribute information on proven methods and products that are relevant to the prevention of corrosion of military equipment and infrastructure.
 
-&emsp;(D) Establishment of a coordinated research and development program for the prevention and mitigation of corrosion for new and existing military equipment and infrastructure that includes a plan to transition new corrosion prevention technologies into operational systems, including through the establishment of memoranda of agreement, joint funding agreements, public-private partnerships, university research and education centers, and other cooperative research agreements.
+&emsp;(D) Establishment of a coordinated research and development program for the prevention and mitigation of corrosion for new and existing military equipment and infrastructure that includes a plan to transition new corrosion prevention technologies into operational systems, including through the establishment of memoranda of agreement, joint fundingagreements, public-private partnerships, university research and education centers, and other cooperative research agreements.
 
 (3) The strategy shall include, for the matters specified in paragraph (2), the following:
 
@@ -72,21 +72,17 @@ Report.—(1) For each budget for a fiscal year, beginning with the budget for f
 
 &emsp;(A) Funding requirements for the long-term strategy developed under subsection (d).
 
-&emsp;(B) The return on investment that would be achieved by implementing the strategy.
+&emsp;(B) The return on investment that would be achieved by implementing the strategy, including available validated data on return on investment for completed corrosion projects and activities.
 
 &emsp;(C) For the fiscal year covered by the report and the preceding fiscal year, the funds requested in the budget compared to the funding requirements.
 
 &emsp;(D) An explanation if the funding requirements are not fully funded in the budget.
 
-&emsp;(E) For the fiscal year covered by the report and the preceding fiscal year, the amount of funds requested in the budget for each project or activity described in subsection (d) compared to the funding requirements for the project or activity.
+&emsp;(E) For the fiscal year preceding the fiscal year covered by the report, the amount of funds requested in the budget for each project or activity described in subsection (d) compared to the funding requirements for the project or activity.
 
-(2) Within 60 days after submission of the budget for a fiscal year, the Comptroller General shall provide to the congressional defense committees—
+&emsp;(F) For the fiscal year preceding the fiscal year covered by the report, a description of the specific amount of funds used for military corrosion projects, the Technical Corrosion Collaboration pilot program, and other corrosion-related activities.
 
-&emsp;(A) an analysis of the budget submission for corrosion control and prevention by the Department of Defense; and
-
-&emsp;(B) an analysis of the report required under paragraph (1), including the annex to the report described in paragraph (3).
-
-(3) Each report under this section shall include, in an annex to the report, a copy of the annual corrosion report most recently submitted by the corrosion control and prevention executive of each military department under section 903(b)(5) of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 (Public Law 110–417; 122 Stat. 4567; 10 U.S.C. 2228 note).
+(2) Each report under this section shall include, in an annex to the report, a copy of the annual corrosion report most recently submitted by the corrosion control and prevention executive of each military department under section 903(b)(5) of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 (Public Law 110–417; 122 Stat. 4567; 10 U.S.C. 2228 note).
 
 (f)
 
@@ -102,9 +98,21 @@ Definitions.—In this section:
 
 &emsp;(5) The term “defense budget materials”, with respect to a fiscal year, means the materials submitted to Congress by the Secretary of Defense in support of the budget for that fiscal year.
 
-(Added Pub. L. 107–314, div. A, title X, §1067(a)(1), Dec. 2, 2002, 116 Stat. 2657; amended Pub. L. 110–181, div. A, title III, §371(a)–(e), Jan. 28, 2008, 122 Stat. 79–81; Pub. L. 110–417, \[div. A\], title X, §1061(b)(1), Oct. 14, 2008, 122 Stat. 4612; Pub. L. 111–383, div. A, title III, §331, Jan. 7, 2011, 124 Stat. 4185.)
+(Added Pub. L. 107–314, div. A, title X, §1067(a)(1), Dec. 2, 2002, 116 Stat. 2657; amended Pub. L. 110–181, div. A, title III, §371(a)–(e), Jan. 28, 2008, 122 Stat. 79–81; Pub. L. 110–417, \[div. A\], title X, §1061(b)(1), Oct. 14, 2008, 122 Stat. 4612; Pub. L. 111–383, div. A, title III, §331, Jan. 7, 2011, 124 Stat. 4185; Pub. L. 112–239, div. A, title III, §341, Jan. 2, 2013, 126 Stat. 1699.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (e)(1)(B). Pub. L. 112–239, §341(1)(A), inserted “, including available validated data on return on investment for completed corrosion projects and activities” before period at end.
+
+Subsec. (e)(1)(E). Pub. L. 112–239, §341(1)(B), substituted “For the fiscal year preceding the fiscal year covered by the report” for “For the fiscal year covered by the report and the preceding fiscal year”.
+
+Subsec. (e)(1)(F). Pub. L. 112–239, §341(1)(C), added subpar. (F).
+
+Subsec. (e)(2), (3). Pub. L. 112–239, §341(2), (3), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “Within 60 days after submission of the budget for a fiscal year, the Comptroller General shall provide to the congressional defense committees—
+
+&emsp;“(A) an analysis of the budget submission for corrosion control and prevention by the Department of Defense; and
+
+&emsp;“(B) an analysis of the report required under paragraph (1), including the annex to the report described in paragraph (3).”
 
 <b>2011</b>—Subsec. (e)(1)(C). Pub. L. 111–383, §331(1)(A), substituted “For the fiscal year covered by the report and the preceding fiscal year, the” for “The”.
 

@@ -2,7 +2,7 @@
 
 #### (a) Powers of nonprofit corporation; additional powers
 
-To the extent consistent with the provisions of this subchapter, the Corporation shall exercise the powers conferred upon a nonprofit corporation by the District of Columbia Nonprofit Corporation Act (except for section 1005(<i>o</i>) of title 29 of the District of Columbia Code). In addition, the Corporation is authorized—
+To the extent consistent with the provisions of this subchapter, the Corporation shall exercise the powers conferred upon a nonprofit corporation by the District of Columbia Nonprofit Corporation Act (except for section 1005(o) of title 29 of the District of Columbia Code). In addition, the Corporation is authorized—
 
 &emsp;(1)(A) to provide financial assistance to qualified programs furnishing legal assistance to eligible clients, and to make grants to and contracts with—
 

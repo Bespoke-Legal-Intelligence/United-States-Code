@@ -16,11 +16,11 @@ Notwithstanding any other provision of law—
 
 &emsp;(1) except as provided in subsection (c) of this section, all personnel and positions of USIA employed or maintained to carry out the functions transferred by this part to the Broadcasting Board of Governors shall be transferred to the Broadcasting Board of Governors at the same grade or class and the same rate of basic pay or basic salary rate and with the same tenure held immediately preceding transfer; and
 
-&emsp;(2) the personnel and positions of USIA, as determined by the Secretary of State, withthe concurrence of the Broadcasting Board of Governors and the Director of USIA, to support the functions transferred by this part shall be transferred to the Broadcasting Board of Governors, including the International Broadcasting Bureau, at the same grade or class and the same rate of basic pay or basic salary rate and with the same tenure held immediately preceding transfer.
+&emsp;(2) the personnel and positions of USIA, as determined by the Secretary of State, with the concurrence of the Broadcasting Board of Governors and the Director of USIA, to support the functions transferred by this part shall be transferred to the Broadcasting Board of Governors, including the International Broadcasting Bureau, at the same grade or class and the same rate of basic pay or basic salary rate and with the same tenure held immediately preceding transfer.
 
 #### (c) Transfer and allocation of property, appropriations, and personnel associated with Worldnet
 
-USIA personnel responsible for carrying out interactive dialogs with foreign media and other similar overseas public diplomacy programs using the Worldnet television broadcasting system, and funds associated with such personnel, shall be transferred to the Department of State in accordance with the provisions of subchapter VI of this chapter.
+USIA personnel responsible for carrying out interactive dialogs with foreign media and othersimilar overseas public diplomacy programs using the Worldnet television broadcasting system, and funds associated with such personnel, shall be transferred to the Department of State in accordance with the provisions of subchapter VI of this chapter.
 
 #### (d) Incidental transfers
 

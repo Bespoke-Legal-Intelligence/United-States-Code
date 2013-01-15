@@ -10,7 +10,7 @@ Section 3045c, Pub. L. 89–73, title VII, §704, as added Pub. L. 92–258, §2
 
 Section 3045d, Pub. L. 89–73, title VII, §705, as added Pub. L. 92–258, §2, Mar. 22, 1972, 86 Stat. 91; amended Pub. L. 93–29, title VII, §§702–704, May 3, 1973, 87 Stat. 56, 57; Pub. L. 94–135, title I, §114(k)–(n), Nov. 28, 1975, 89 Stat. 726, related to provisions for State plans. See section 3027 of this title.
 
-Section 3045e, Pub. L. 89–73, title VII, §706, as added Pub. L. 92–258, §2, Mar. 22, 1972, 86 Stat. 93; amended Pub. L. 93–29, title VII, §704(c), May 3, 1973, 87 Stat. 57; Pub. L. 94–135, title I, §114(<i>o</i>), (p), Nov. 28, 1975, 89 Stat. 726, related to nutrition and other program requirements.
+Section 3045e, Pub. L. 89–73, title VII, §706, as added Pub. L. 92–258, §2, Mar. 22, 1972, 86 Stat. 93; amended Pub. L. 93–29, title VII, §704(c), May 3, 1973, 87 Stat. 57; Pub. L. 94–135, title I, §114(o), (p), Nov. 28, 1975, 89 Stat. 726, related to nutrition and other program requirements.
 
 Section 3045f, Pub. L. 89–73, title VII, §707, as added Pub. L. 92–258, §2, Mar. 22, 1972, 86 Stat. 94; amended Pub. L. 93–29, title VII, §701, May 3, 1973, 87 Stat. 56; Pub. L. 93–351, §5, July 12, 1974, 88 Stat. 358; Pub. L. 94–135, title I, §111(a)–(d), (f), Nov. 28, 1975, 89 Stat. 718, 719; Pub. L. 95–65, §2, July 11, 1977, 91 Stat. 269, related to surplus commodities. See section 3030a of this title.
 
@@ -22,7 +22,7 @@ Section 3045i, Pub. L. 89–73, title VII, §710, as added Pub. L. 92–258, §2
 
 #### Effective Date of Repeal
 
-Section 501(a) of Pub. L. 95–478 provided that the repeal by that section is effective at the close of Sept. 30, 1978.
+Pub. L. 95–478, title V, §501(a), Oct. 18, 1978, 92 Stat. 1558, provided that the repeal by that section is effective at the close of Sept. 30, 1978.
 
 #### Nutrition Projects for Elderly Under Prior Provisions, Qualified Under Successor Provisions, Eligible for Funds Under Such Provisions; Competitive Bidding; Discontinuance of Payments for Ineffective Activities
 

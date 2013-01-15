@@ -10,7 +10,7 @@ Convict Labor and Convict Produced Materials.—
 
 &emsp;(1)
 
-Limitation on convict labor.—Convict labor shall not be used in construction of highways or portions of highways located on a Federal-aid system unless it is labor performed by convicts who are on parole, supervised release, or probation.
+Limitation on convict labor.—Convict labor shall not be used in construction of Federal-aid highways or portions of Federal-aid highways unless the labor is performed by convicts who are on parole, supervised release, or probation.
 
 &emsp;(2)
 
@@ -22,7 +22,7 @@ Limitation on convict produced materials.—Materials produced after July 1, 199
 
 &emsp;(3)
 
-Qualified prison facility defined.—As used in this subsection, “qualified prison facility” means any prison facility in which convicts, during the 12-month period ending July 1, 1987, produced materials for use in construction of highways or portions of highways located on a Federal-aid system.
+Qualified prison facility defined.—As used in this subsection, “qualified prison facility” means any prison facility in which convicts, during the 12-month period ending July 1, 1987, produced materials for use in construction of highways or portions of highways located on a Federal-aid system in existence during that period.
 
 (c)
 
@@ -70,9 +70,31 @@ Remote.—The term “remote”, as used with respect to a project, means that t
 
 Resident.—The term “resident”, as used with respect to a project, means a person living within 65 road miles of the midpoint of the project for at least 12 consecutive months prior to the award of the project.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 896; Pub. L. 86–657, §8(f), July 14, 1960, 74 Stat. 525; Pub. L. 93–87, title I, §115, Aug. 13, 1973, 87 Stat. 258; Pub. L. 97–424, title I, §148, Jan. 6, 1983, 96 Stat. 2131; Pub. L. 98–473, title II, §226, Oct. 12, 1984, 98 Stat. 2030; Pub. L. 100–17, title I, §112(a), (b)(1), Apr. 2, 1987, 101 Stat. 148; Pub. L. 102–240, title I, §1019, Dec. 18, 1991, 105 Stat. 1948; Pub. L. 105–178, title I, §1212(a)(2)(A), June 9, 1998, 112 Stat. 193; Pub. L. 109–59, title I, §§1409(d), 1904(b), Aug. 10, 2005, 119 Stat. 1232, 1467.)
+(d)
+
+Veterans Employment.—
+
+&emsp;(1)
+
+In general.—Subject to paragraph (2), a recipient of Federal financial assistance under this chapter shall, to the extent practicable, encourage contractors working on a highway project funded using the assistance to make a best faith effort in the hiring or referral of laborers on any project for the construction of a highway to veterans (as defined in section 2108 of title 5) who have the requisite skills and abilities to perform the construction work required under the contract.
+
+&emsp;(2)
+
+Administration.—This subsection shall not—
+
+&emsp;&emsp;(A) apply to projects subject to section 140(d); or
+
+&emsp;&emsp;(B) be administered or enforced in any manner that would require an employer to give a preference to any veteran over any equally qualified applicant who is a member of any racial or ethnic minority, a female, or any equally qualified former employee.
+
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 896; Pub. L. 86–657, §8(f), July 14, 1960, 74 Stat. 525; Pub. L. 93–87, title I, §115, Aug. 13, 1973, 87 Stat. 258; Pub. L. 97–424, title I, §148, Jan. 6, 1983, 96 Stat. 2131; Pub. L. 98–473, title II, §226, Oct. 12, 1984, 98 Stat. 2030; Pub. L. 100–17, title I, §112(a), (b)(1), Apr. 2, 1987, 101 Stat. 148; Pub. L. 102–240, title I, §1019, Dec. 18, 1991, 105 Stat. 1948; Pub. L. 105–178, title I, §1212(a)(2)(A), June 9, 1998, 112 Stat. 193; Pub. L. 109–59, title I, §§1409(d), 1904(b), Aug. 10, 2005, 119 Stat. 1232, 1467; Pub. L. 112–141, div. A, title I, §1506, July 6, 2012, 126 Stat. 564.)
 
 #### Amendments
+
+<b>2012</b>—Subsec. (b)(1). Pub. L. 112–141, §1506(1)(A), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “Convict labor shall not be used in construction of highways or portions of highways located on a Federal-aid system unless it is labor performed by convicts who are on parole, supervised release, or probation.”
+
+Subsec. (b)(3). Pub. L. 112–141, §1506(1)(B), inserted “in existence during that period” after “located on a Federal-aid system”.
+
+Subsec. (d). Pub. L. 112–141, §1506(2), added subsec. (d).
 
 <b>2005</b>—Subsec. (a). Pub. L. 109–59, §1904(b), substituted “Federal-aid highway or a portion of a Federal-aid highway” for “highways or portions of highways located on a Federal-aid system” and “The Secretary shall have the right to conduct such inspections and take such corrective action as the Secretary determines to be appropriate.” for “Except as provided in section 117 of this title, such construction shall be subject to the inspection and approval of the Secretary.”
 
@@ -93,6 +115,10 @@ Subsec. (b). Pub. L. 100–17, §112(b)(1), amended subsec. (b) generally. Prior
 <b>1973</b>—Subsec. (a). Pub. L. 93–87 amended last sentence generally. Prior to amendment, last sentence read as follows: “On any project where actual construction is in progress and visible to highway users, the State highway department shall erect such informational sign or signs as prescribed by the Secretary, identifying the project and the respective amounts contributed therefor by the State and Federal Governments.”
 
 <b>1960</b>—Subsec. (a). Pub. L. 86–657 required State highway departments to erect, on any project where actual construction is in progress and visible to highway users, such informational sign or signs as prescribed by the Secretary, identifying the project and the respective contributions therefor by the State and Federal Governments.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
 
 #### Effective Date of 1991 Amendment
 
@@ -176,15 +202,15 @@ Funds for highways for life projects.—Out of amounts made available to carry o
 
 &emsp;&emsp;“(B)
 
-Use of apportioned funds.—A State may obligate not more than 10 percent of the amount apportioned to the State under one or more of paragraphs (1), (2), (3), and (4) of section 104(b) of title 23, United States Code, for a fiscal year for projects approved under this section.
+Use of apportioned funds.—A State may obligate not more than 10 percent of the amount apportioned to the State under one or more of \[former\] paragraphs (1), (2), (3), and (4) of section 104(b) of title 23, United States Code, for a fiscal year for projects approved under this section.
 
 &emsp;&emsp;“(C)
 
-Increased federal share.—Notwithstanding sections 120 and 129 of title 23, United States Code, the Federal share payable on account of any project constructed with Federal funds allocated under this section, or apportioned under section 104(b) of such title, to a State under such title and approved under this section may amount to 100 percent of the cost of construction of such project.
+Increased federal share.—Notwithstanding sections 120 and 129 of title 23, United States Code, the Federal share payable on account of any project constructed with Federal funds allocated under this section, or apportioned under \[former\] section 104(b) of such title, to a State under such title and approved under this section may amount to 100 percent of the cost of construction of such project.
 
 &emsp;&emsp;“(D)
 
-Limitation on statutory construction.—Except as provided in subparagraph (C), nothing in this subsection shall be construed as altering or otherwise affecting the applicability of the requirements of chapter 1 of title 23, United States Code (including requirements relating to the eligibility of a project for assistance under the program and the location of the project), to amounts apportioned to a State for a program under section 104(b) that are obligated by the State for projects approved under this subsection.
+Limitation on statutory construction.—Except as provided in subparagraph (C), nothing in this subsection shall be construed as altering or otherwise affecting the applicability of the requirements of chapter 1 of title 23, United States Code (including requirements relating to the eligibility of a project for assistance under the program and the location of the project), to amounts apportioned to a State for a program under \[former\] section 104(b) that are obligated by the State for projects approved under this subsection.
 
 &emsp;“(6)
 
@@ -251,4 +277,8 @@ Pub. L. 99–180, title II, §202, Dec. 13, 1985, 99 Stat. 1146.
 Pub. L. 98–411, title II, §202, Aug. 30, 1984, 98 Stat. 1558, repealed by Pub. L. 100–17, title I, §112(b)(2), Apr. 2, 1987, 101 Stat. 149.
 
 Pub. L. 98–166, title II, §202, Nov. 28, 1983, 97 Stat. 1085.
+
+#### Acceleration of Projects
+
+Pub. L. 97–424, title I, §129, Jan. 6, 1983, 96 Stat. 2118, provided that: “The Secretary of Transportation shall by rule or regulation establish, as soon as practicable,alternative methods for processing projects under title 23, United States Code, so as to reduce the time required from the request for project approval through the completion of construction. In carrying out this section the Secretary shall utilize the knowledge and experience resulting from the demonstration project authorized by and carried out under section 141 of the Federal-Aid Highway Act of 1976 \[Pub. L. 94–280, title I, §141, May 5, 1976, 90 Stat. 444, formerly set out as a note under former section 124 of this title\].”
 

@@ -42,7 +42,7 @@ For purposes of this section, the following definitions apply:
 
 #### (b) Federal employee office buildings
 
-(1)(A) No Federal funds may be used for the construction or purchase of a Federal employee office building of 6 or more stories unless during the period of occupancy by Federal employees the building is protected by an automatic sprinkler system or equivalent level of safety. No Federal funds may be used for the construction or purchase of any other Federal employee office building unless during the period of occupancy by Federal employees the hazardous areas of the building are protected by automatic sprinkler systems or an equivalent level of safety.
+(1)(A) No Federal funds may be used for the construction or purchase of a Federal employee office building of 6 or more stories unless duringthe period of occupancy by Federal employees the building is protected by an automatic sprinkler system or equivalent level of safety. No Federal funds may be used for the construction or purchase of any other Federal employee office building unless during the period of occupancy by Federal employees the hazardous areas of the building are protected by automatic sprinkler systems or an equivalent level of safety.
 
 (B)(i) Except as provided in clause (ii), no Federal funds may be used for the lease of a Federal employee office building of 6 or more stories, where at least some portion of the federally leased space is on the sixth floor or above and at least 35,000 square feet of space is federally occupied, unless during the period of occupancy by Federal employees the entire Federal employee office building is protected by an automatic sprinkler system or equivalent level of safety. No Federal funds may be used for the lease of any other Federal employee office building unless during the period of occupancy by Federal employees the hazardous areas of the entire Federal employee office building are protected by automatic sprinkler systems or an equivalent level of safety.
 
@@ -92,7 +92,7 @@ For purposes of this section, the following definitions apply:
 
 &emsp;(I) that is newly constructed after October 26, 1992; and
 
-&emsp;(II) for which (a) housing assistance is used for such new construction, or (b) a binding commitment is made, before commencement of such construction, to provide housing assistance for the newly constructed property.
+&emsp;(II) for which (a) housing assistance is used for such new construction, or (b) a binding commitment is made, before commencementof such construction, to provide housing assistance for the newly constructed property.
 
 (iii) Clause (i) shall not apply to any multifamily property for which, before October 26, 1992, a binding commitment is made to provide housing assistance for the new construction of the property or for the newly constructed property.
 
@@ -160,7 +160,7 @@ Subsec. (c)(1)(C), (D). Pub. L. 103–254, §6(2), added subpars. (C) and (D).
 
 #### Effective Date
 
-Section 106(b) of Pub. L. 102–522 provided that: “Subsection (b) of section 31 of the Federal Fire Prevention and Control Act of 1974 \[15 U.S.C. 2227\], as added by subsection (a) of this section, shall take effect 2 years after the date of enactment of this Act \[Oct. 26, 1992\].”
+Pub. L. 102–522, title I, §106(b), Oct. 26, 1992, 106 Stat. 3417, provided that: “Subsection (b) of section 31 of the Federal Fire Prevention and Control Act of 1974 \[15 U.S.C. 2227\], as added by subsection (a) of this section, shall take effect 2 years after the date of enactment of this Act \[Oct. 26, 1992\].”
 
 #### Transfer of Functions
 

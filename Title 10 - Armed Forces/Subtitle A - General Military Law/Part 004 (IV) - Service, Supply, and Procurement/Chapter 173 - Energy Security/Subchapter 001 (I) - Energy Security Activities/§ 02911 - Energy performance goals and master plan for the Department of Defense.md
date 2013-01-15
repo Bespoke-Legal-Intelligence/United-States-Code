@@ -78,7 +78,7 @@ Goal Regarding Use of Renewable Energy To Meet Facility Energy Needs.—(1) It s
 
 (3)(A) The Secretary of Defense shall establish a policy to maximize savings for the bulk purchase of replacement renewable energy certificates in connection with the development of facility energy projects using renewable energy sources.
 
-(B) Under the policy required by subparagraph (A), the Secretary of a military departmentshall submit requests for the purchase of replacement renewable energy certificates to a centralized purchasing authority maintained by such department or the Defense Logistics Agency with expertise regarding—
+(B) Under the policy required by subparagraph (A), the Secretary of a military department shall submit requests for the purchase of replacement renewable energy certificates to a centralized purchasing authority maintained by such department or the Defense Logistics Agency with expertise regarding—
 
 &emsp;(i) the market for renewable energy certificates;
 
@@ -125,6 +125,38 @@ Subsec. (e)(3). Pub. L. 112–81, §2824(a), added par. (3).
 Pub. L. 111–84, §2842(a), (b), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), in par. (1)(A), substituted “facility energy” for “electric energy” and struck out “and in its activities” after “facilities” and “(as defined in section 203(b) of the Energy Policy Act of 2005 (42 U.S.C. 15852(b)))” after “sources”, in par. (1)(B), substituted “facility energy” for “electric energy”, and added par. (2).
 
 <b>2006</b>—Subsec. (e). Pub. L. 109–364, §2852, added subsec. (e).
+
+#### Guidance on Financing for Renewable Energy Projects
+
+Pub. L. 112–239, div. B, title XXVIII, §2824, Jan. 2, 2013, 126 Stat. 2153, provided that:
+
+“(a)
+
+Guidance on Use of Available Financing Approaches.—
+
+&emsp;“(1)
+
+Issuance.—Not later than 180 days after the date of the enactment of this Act \[Jan. 2, 2013\], the Secretary of Defense shall—
+
+&emsp;&emsp;“(A) issue guidance about the use of available financing approaches for financing renewable energy projects; and
+
+&emsp;&emsp;“(B) direct the Secretaries of the military departments to update their military department-wide guidance accordingly.
+
+&emsp;“(2)
+
+Elements.—The guidance issued pursuant to paragraph (1) should describe the requirements andrestrictions applicable to the underlying authorities and any Department of Defense-specific guidelines for using appropriated funds and alternative-financing approaches for renewable energy projects to maximize cost savings and energy efficiency for the Department of Defense.
+
+“(b)
+
+Guidance on Use of Business Case Analyses.—Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall issue guidance that establishes and clearly describes the processes used by the military departments to select financing approaches for renewable energy projects to ensure that business case analyses are completed to maximize cost savings and energy efficiency and mitigate drawbacks and risks associated with different financing approaches.
+
+“(c)
+
+Information Sharing.—Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall develop a formalized communications process, such as a shared Internet website, that will enable officials at military installations to have timely access on an ongoing basis to information related to financing renewable energy projects on other installations, including best practices and lessons that officials at other installations have learned from their experiences in financing renewable energy projects.
+
+“(d)
+
+Consultation.—The Secretary of Defense shall issue the guidance under subsections (a) and (b) and develop the communications process under subsection (c) in consultation with the Under Secretary of Defense for Acquisition, Technology, and Logistics and the Deputy Under Secretary of Defense for Installations and Environment. The Secretary of Defense shall also issue the guidance under subsection (b) in consultation with the Secretaries of the military departments.”
 
 #### Energy-Efficient Technologies in Contracts for Logistics Support of Contingency Operations
 
@@ -196,7 +228,7 @@ Pub. L. 112–81, div. B, title XXVIII, §2829, Dec. 31, 2011, 125 Stat. 1694, p
 
 Establishment of Training Policy.—The Secretary of Defense shall establish a training policy for Department of Defense energy managers designated for military installations in order to—
 
-&emsp;“(1) improve the knowledge, skills, and abilities of energy managers by ensuring understanding of existing energy laws, regulations, mandates, contracting options, local renewable portfolio standards, current renewable energy technology options, energy auditing, and options to reduce energy consumption;
+&emsp;“(1) improve the knowledge, skills, and abilities of energy managers by ensuring understanding of existing energy laws, regulations, mandates, contracting options, local renewable portfolio standards, currentrenewable energy technology options, energy auditing, and options to reduce energy consumption;
 
 &emsp;“(2) improve consistency among energy managers throughout the Department in the performance of their responsibilities;
 
@@ -258,7 +290,7 @@ Reports.—
 
 &emsp;“(1)
 
-Initial report.—If the Secretary of Defense carries out a pilot program under this section, the Secretary shall submit to the appropriate congressional committees by not later than October 1, 2011,an initial report that provides an update on the implementation of the pilot program, including an identification of the selected military installation and national laboratory partner and a description of technologies under evaluation.
+Initial report.—If the Secretary of Defense carries out a pilot program under this section, the Secretary shall submit to the appropriate congressional committees by not later than October 1, 2011, an initial report that provides an update on the implementation of the pilot program, including an identification of the selected military installation and national laboratory partner and a description of technologies under evaluation.
 
 &emsp;“(2)
 
@@ -418,7 +450,7 @@ Energy Star.—A lighting fixture or bulb shall be treated as being energy effic
 
 “(e)
 
-Significant Alterations.—A building shall be treated as being significantly altered for purposes of subsection (a) if the alteration is subject to congressional authorization under section 2802 of title 10, United States Code.
+Significant Alterations.—A building shall be treated as being significantly altered for purposes ofsubsection (a) if the alteration is subject to congressional authorization under section 2802 of title 10, United States Code.
 
 “(f)
 
@@ -476,7 +508,7 @@ Pub. L. 107–107, div. A, title III, §317, Dec. 28, 2001, 115 Stat. 1054, prov
 
 “(a)
 
-Sense of Congress.—It is the sense of Congress that the Secretary of Defense should work to implement fuel efficiency reforms that allow for investment decisions based on the true cost of delivered fuel, strengthen the linkage between warfighting capabilityand fuel logistics requirements, provide high-level leadership encouraging fuel efficiency, target fuel efficiency improvements through science and technology investment, and include fuel efficiency in requirements and acquisition processes.
+Sense of Congress.—It is the sense of Congress that the Secretary of Defense should work to implement fuel efficiency reforms that allow for investment decisions based on the true cost of delivered fuel, strengthen the linkage between warfighting capability and fuel logistics requirements, provide high-level leadership encouraging fuel efficiency, target fuel efficiency improvements through science and technology investment, and include fuel efficiency in requirements and acquisition processes.
 
 “(b)
 
@@ -516,5 +548,5 @@ Strategies for Improving Energy Efficiency.—In order to achieve the goals set 
 
 “(e)
 
-Reporting Requirements.—Not later than January 1, 2002, and each January 1 thereafter through 2010, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] the report required to be prepared by the Secretary pursuant to section 303 of Executive Order 13123 (64 Fed. Reg. 30851; \[former\] 42 U.S.C. 8251 note) regarding the progress made toward achieving the energy efficiency goals of the Department of Defense.”
+Reporting Requirements.—Not later than January 1, 2002, and each January 1 thereafter through 2010, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] the report required to be prepared by the Secretary pursuant to section 303 of Executive Order 13123\(64 Fed. Reg. 30851; \[former\] 42 U.S.C. 8251 note) regarding the progress made toward achieving the energy efficiency goals of the Department of Defense.”
 

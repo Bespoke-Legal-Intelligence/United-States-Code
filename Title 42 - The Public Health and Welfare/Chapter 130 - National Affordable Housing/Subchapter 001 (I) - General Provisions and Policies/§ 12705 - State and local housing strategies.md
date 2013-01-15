@@ -48,7 +48,7 @@ A housing strategy submitted under this section shall be in a form that the Secr
 
 &emsp;(16) include a certification that the jurisdiction has in effect and is following a residential antidisplacement and relocation assistance plan that, in any case of any such displacement in connection with any activity assisted with amounts provided under subchapter II of this chapter, requires the same actions and provides the same rights as required and provided under a residential antidisplacement and relocation assistance plan under section 104(d) of the Housing and Community Development Act of 1974 \[42 U.S.C. 5304(d)\] in the event of displacement in connection with a development project assisted under section 106 or 119 of such Act \[42 U.S.C. 5306, 5318\];
 
-&emsp;(17) estimate the number of housing units within the jurisdiction that are occupied by low-income families or very low-income families and that contain lead-based paint hazards, as defined in section 4851b of this title, outline the actions proposed or being taken to evaluate and reduce lead-based paint hazards, and describe how lead-based paint hazard reduction will be integrated into housing policies and programs;
+&emsp;(17) estimate the number of housing units within the jurisdiction that are occupied by low-income families or very low-income families and that contain lead-based paint hazards, as defined in section 4851b of this title, outlinethe actions proposed or being taken to evaluate and reduce lead-based paint hazards, and describe how lead-based paint hazard reduction will be integrated into housing policies and programs;
 
 &emsp;(18) include the number of families to whom the jurisdiction will provide affordable housing as defined in section 12745 of this title using funds made available;
 
@@ -74,7 +74,7 @@ A housing strategy submitted under this section shall be in a form that the Secr
 
 #### (d) Coordination of State and local housing strategies
 
-The Secretary may establish such requirements as the Secretary deems appropriate to encourage coordination between and among the housing strategies of a State and any participating jurisdictions within the State, except that aunit of general local government shall not be required to have elements of its housing strategy approved by the State.
+The Secretary may establish such requirements as the Secretary deems appropriate to encourage coordination between and among the housing strategies of a State and any participating jurisdictions within the State, except that a unit of general local government shall not be required to have elements of its housing strategy approved by the State.
 
 #### (e) Consultation with social service agencies
 
@@ -94,7 +94,7 @@ Not later than 4 months after completion of the final report of the Secretary's 
 
 #### (1) Effect of troubled status on CHAS
 
-&emsp;The comprehensive housing affordability strategy (or any consolidated plan incorporating such strategy) for the State or unit of general local government in which any troubled public housing agency is located shall not be considered to comply with the requirements under this section unless such plan includes a description of the manner in which the State or unit will provide financial or other assistance to such troubled agency in improving its operations to remove such designation.
+&emsp;The comprehensive housing affordability strategy (or any consolidated plan incorporating such strategy) for the State or unit of general local government in which any troubledpublic housing agency is located shall not be considered to comply with the requirements under this section unless such plan includes a description of the manner in which the State or unit will provide financial or other assistance to such troubled agency in improving its operations to remove such designation.
 
 #### (2) Definition
 

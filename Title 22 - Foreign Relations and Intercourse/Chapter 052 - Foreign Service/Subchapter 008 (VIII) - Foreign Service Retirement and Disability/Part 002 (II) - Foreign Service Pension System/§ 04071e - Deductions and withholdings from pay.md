@@ -4,7 +4,7 @@
 
 (1) The employing agency shall deduct and withhold from the basic pay of each participant the applicable percentage of basic pay specified in paragraph (2) of this subsection minus the percentage then in effect under section 3101(a) of title 26 (relating to the rate of tax for old age, survivors, and disability insurance).
 
-(2) The applicable percentage under this subsection shall be as follows:
+(2)(A) The applicable percentage for a participant other than a revised annuity participant shall be as follows:
 
 &nbsp;
 
@@ -14,6 +14,14 @@
 | &nbsp; | 7\.75 | January 1, 1999, to December 31, 1999. |
 | &nbsp; | 7\.9 | January 1, 2000, to December 31, 2000. |
 | &nbsp; | 7\.55 | After January 11, 2003. |
+
+(B) The applicable percentage for a revised annuity participant shall be as follows:
+
+&nbsp;
+
+| &nbsp; | &nbsp; | &nbsp; |
+| --- | --- | --- |
+| &nbsp; | 9\.85 | After December 31, 2012 |
 
 #### (b) Consent to deductions; discharge of claims
 
@@ -27,9 +35,11 @@ Amounts deducted and withheld under this section shall be deposited in the Treas
 
 Under such regulations as the Secretary of State may issue, amounts deducted under subsection (a) of this section shall be entered on individual retirement records.
 
-(Pub. L. 96–465, title I, §856, as added Pub. L. 99–335, title IV, §415, June 6, 1986, 100 Stat. 618; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 105–33, title VII, §7001(e)(1)(A), Aug. 5, 1997, 111 Stat. 661; Pub. L. 106–346, §101(a) \[title V, §505(e)(1)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–53; Pub. L. 107–228, div. A, title III, §322(b)(2), Sept. 30, 2002, 116 Stat. 1384.)
+(Pub. L. 96–465, title I, §856, as added Pub. L. 99–335, title IV, §415, June 6, 1986, 100 Stat. 618; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 105–33, title VII, §7001(e)(1)(A), Aug. 5, 1997, 111 Stat. 661; Pub. L. 106–346, §101(a) \[title V, §505(e)(1)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–53; Pub. L. 107–228, div. A, title III, §322(b)(2), Sept. 30, 2002, 116 Stat. 1384; Pub. L. 112–96, title V, §5002(b), Feb. 22, 2012, 126 Stat. 200.)
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a)(2). Pub. L. 112–96 designated existing provisions as subpar. (A), substituted “The applicable percentage for a participant other than a revised annuity participant” for “The applicable percentage under this subsection”, and added subpar. (B).
 
 <b>2002</b>—Subsec. (a)(2). Pub. L. 107–228, in table, substituted item relating to applicable percentage after January 11, 2003, for item relating to applicable percentage after December 31, 2000.
 

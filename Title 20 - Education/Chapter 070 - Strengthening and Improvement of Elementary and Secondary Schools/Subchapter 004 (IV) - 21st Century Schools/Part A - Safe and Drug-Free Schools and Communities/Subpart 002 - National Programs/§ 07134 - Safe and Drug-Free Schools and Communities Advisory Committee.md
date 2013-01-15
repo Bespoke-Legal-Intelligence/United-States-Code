@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;There is hereby established an advisory committee to be known as the “Safe and Drug Free Schools and Communities Advisory Committee” (referred to in this section as the “Advisory Committee”) to—
+&emsp;There is hereby established an advisory committee to be known as the “Safe and DrugFree Schools and Communities Advisory Committee” (referred to in this section as the “Advisory Committee”) to—
 
 &emsp;&emsp;(A) consult with the Secretary under subsection (b) of this section;
 
@@ -50,7 +50,7 @@
 
 #### (1) In general
 
-&emsp;From amounts made available under section 7103(2) of this title to carry out this subpart,the Secretary, in consultation with the Advisory Committee, shall carry out scientifically based research programs to strengthen the accountability and effectiveness of the State, chief executive officer's, and national programs under this part.
+&emsp;From amounts made available under section 7103(2) of this title to carry out this subpart, the Secretary, in consultation with the Advisory Committee, shall carry out scientifically based research programs to strengthen the accountability and effectiveness of the State, chief executive officer's, and national programs under this part.
 
 #### (2) Grants, contracts or cooperative agreements
 

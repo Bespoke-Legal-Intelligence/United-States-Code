@@ -50,7 +50,7 @@
 
 (2) Subsection (c) of this section does not apply to pay received by a teacher of the public schools of the District of Columbia for employment in a position during the summer vacation period.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 483; Pub. L. 90–57, §105(h), July 28, 1967, 81 Stat. 143; Pub. L. 90–206, title II, §214(<i>o</i>), Dec. 16, 1967. 81 Stat. 637; Pub. L. 91–510, title IV, §477(d), Oct. 26, 1970, 84 Stat. 1195; Pub. L. 93–140, §23, Oct. 26, 1973, 87 Stat. 508; Pub. L. 93–145, §101, Nov. 1, 1973, 87 Stat. 532; Pub. L. 94–183, §2(21), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 94–440, title I, §103, Oct. 1, 1976, 90 Stat. 1443; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–70, title III, §3302(e)(8), Sept. 27, 1979, 93 Stat. 498; Pub. L. 104–186, title II, §215(7), Aug. 20, 1996, 110 Stat. 1745; Pub. L. 111–145, §7(b)(2), Mar. 4, 2010, 124 Stat. 55.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 483; Pub. L. 90–57, §105(h), July 28, 1967, 81 Stat. 143; Pub. L. 90–206, title II, §214(o), Dec. 16, 1967. 81 Stat. 637; Pub. L. 91–510, title IV, §477(d), Oct. 26, 1970, 84 Stat. 1195; Pub. L. 93–140, §23, Oct. 26, 1973, 87 Stat. 508; Pub. L. 93–145, §101, Nov. 1, 1973, 87 Stat. 532; Pub. L. 94–183, §2(21), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 94–440, title I, §103, Oct. 1, 1976, 90 Stat. 1443; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–70, title III, §3302(e)(8), Sept. 27, 1979, 93 Stat. 498; Pub. L. 104–186, title II, §215(7), Aug. 20, 1996, 110 Stat. 1745; Pub. L. 111–145, §7(b)(2), Mar. 4, 2010, 124 Stat. 55.)
 
 Historical and Revision Notes
 
@@ -112,7 +112,7 @@ Subsec. (e). Pub. L. 93–140 designated existing provisions as par. (1) and add
 
 Subsec. (c)(2). Pub. L. 91–510 substituted provision making appropriated funds unavailable for payment to an individual of pay from more than one position, for each of which pay is disbursed by the Clerk of the House, if the aggregate gross pay from those positions exceeds the maximum per annum gross rate of pay authorized to be paid to an employee out of clerk hire allowance of a Member of the House for definition of “gross pay”, now incorporated in cl. (3).
 
-Subsec. (c)(3). Pub. L. 91–510 redesignated former cl. (2) as (3) and deleted provision which included in gross pay of an individual receiving basic pay plus additional compensation provided by law the aggregate amount received as basic and additional compensation, but excluded sums received as premium pay under subchapter V of this chapter.
+Subsec. (c)(3). Pub. L. 91–510 redesignated former cl. (2) as (3) and deleted provision which included in gross pay of an individual receiving basic pay plus additionalcompensation provided by law the aggregate amount received as basic and additional compensation, but excluded sums received as premium pay under subchapter V of this chapter.
 
 <b>1967</b>—Subsec. (c). Pub. L. 90–206 provided for an increase in the aggregate gross pay allowed to certain specified congressional employees on two payrolls as dual office compensation.
 
@@ -180,7 +180,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 <b>1992</b>—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1992, to the figure “$20,987”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 18, 1991, formerly set out as a note under section 60a–1 of Title 2.
 
-<b>1991</b>—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1991, to the figure “$20,141”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 20, 1990, formerly set out as a note under section 60a–1 of Title 2.
+<b>1991</b>—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1991, to the figure “$20,141”, see section 9 of Salary Directive ofPresident pro tempore of the Senate, Dec. 20, 1990, formerly set out as a note under section 60a–1 of Title 2.
 
 <b>1990</b>—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1990, to the figure “$19,347”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 21, 1989, formerly set out as a note under section 60a–1 of Title 2.
 

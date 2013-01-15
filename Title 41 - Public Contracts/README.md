@@ -1,6 +1,4 @@
 
-41 U.S.C.<br>United States Code, 2011 Edition<br>Title 41 - PUBLIC CONTRACTS<br>From the U.S. Government Publishing Office, www.gpo.gov
-
 # TITLE 41—PUBLIC CONTRACTS
 
 <i>This title was enacted by Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3677</i>

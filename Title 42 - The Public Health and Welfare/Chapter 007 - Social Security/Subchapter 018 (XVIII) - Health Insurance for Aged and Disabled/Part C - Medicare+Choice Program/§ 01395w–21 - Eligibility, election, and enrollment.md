@@ -62,7 +62,7 @@
 
 #### (C) Continuation of enrollment permitted where service changed
 
-&emsp;&emsp;Notwithstanding subparagraph (A) and in addition to subparagraph (B), if a Medicare+Choice organization eliminatesfrom its service area a Medicare+Choice payment area that was previously within its service area, the organization may elect to offer individuals residing in all or portions of the affected area who would otherwise be ineligible to continue enrollment the option to continue enrollment in an MA local plan it offers so long as—
+&emsp;&emsp;Notwithstanding subparagraph (A) and in addition to subparagraph (B), if a Medicare+Choice organization eliminates from its service area a Medicare+Choice payment area that was previously within its service area, the organization may elect to offer individuals residing in all or portions of the affected area who would otherwise be ineligible to continue enrollment the option to continue enrollment in an MA local plan it offers so long as—
 
 &emsp;&emsp;&emsp;(i) the enrollee agrees to receive the full range of basic benefits (excluding emergency and urgently needed care) exclusively at facilities designated by the organization within the plan service area; and
 
@@ -136,7 +136,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall provide for activities under this subsection to broadly disseminate information to medicare beneficiaries (and prospective medicare beneficiaries) on the coverage options provided under this section in order to promote an active, informed selection among such options.
+&emsp;The Secretary shall provide for activities under this subsection to broadly disseminate information to medicare beneficiaries (andprospective medicare beneficiaries) on the coverage options provided under this section in order to promote an active, informed selection among such options.
 
 #### (2) Provision of notice
 
@@ -296,7 +296,7 @@
 
 #### (C) Annual 45-day period for disenrollment from MA plans to elect to receive benefits under the original Medicare fee-for-service program
 
-&emsp;&emsp;Subject to subparagraph (D), at any time during the first 45 days of a year (beginningwith 2011), an individual who is enrolled in a Medicare Advantage plan may change the election under subsection (a)(1), but only with respect to coverage under the original medicare fee-for-service program under parts A and B, and may elect qualified prescription drug coverage in accordance with section 1395w–101 of this title.
+&emsp;&emsp;Subject to subparagraph (D), at any time during the first 45 days of a year (beginning with 2011), an individual who is enrolled in a Medicare Advantage plan may change the election under subsection (a)(1), but only with respect to coverage under the original medicare fee-for-service program under parts A and B, and may elect qualified prescription drug coverage in accordance with section 1395w–101 of this title.
 
 #### (D) Continuous open enrollment for institutionalized individuals
 
@@ -364,7 +364,7 @@
 
 #### (4) Special election periods
 
-&emsp;Effective as of January 1, 2006, an individual may discontinue an election of a Medicare+�Choice plan offered by a Medicare+Choice organization other than during an annual, coordinated election period and make a new election under this section if—
+&emsp;Effective as of January 1, 2006, an individual may discontinue an election of a Medicare+Choice plan offered by a Medicare+Choice organization other than during an annual, coordinated election period and make a new election under this section if—
 
 &emsp;&emsp;(A)(i) the certification of the organization or plan under this part has been terminated, or the organization or plan has notified the individual of an impending termination of such certification; or
 
@@ -442,7 +442,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), a Medicare+�Choice organization may not for any reason terminate the election of any individual under this section for a Medicare+Choice plan it offers.
+&emsp;&emsp;Subject to subparagraph (B), a Medicare+Choice organization may not for any reason terminate the election of any individual under this section for a Medicare+Choice plan it offers.
 
 #### (B) Basis for termination of election
 
@@ -472,7 +472,7 @@
 
 #### (1) Submission
 
-&emsp;No marketing material or application form may be distributed by a Medicare+Choice organization to (or for the use of) Medicare+�Choice eligible individuals unless—
+&emsp;No marketing material or application form may be distributed by a Medicare+Choice organization to (or for the use of) Medicare+Choice eligible individuals unless—
 
 &emsp;&emsp;(A) at least 45 days (or 10 days in the case described in paragraph (5)) before the date of distribution the organization has submitted the material or form to the Secretary for review, and
 
@@ -504,7 +504,7 @@
 
 #### (6) Required inclusion of plan type in plan name
 
-&emsp;For plan years beginning on or after January 1, 2010, a Medicare Advantage organizationmust ensure that the name of each Medicare Advantage plan offered by the Medicare Advantage organization includes the plan type of the plan (using standard terminology developed by the Secretary).
+&emsp;For plan years beginning on or after January 1, 2010, a Medicare Advantage organization must ensure that the name of each Medicare Advantage plan offered by the Medicare Advantage organization includes the plan type of the plan (using standard terminology developed by the Secretary).
 
 #### (7) Strengthening the ability of States to act in collaboration with the Secretary to address fraudulent or inappropriate marketing practices
 
@@ -580,9 +580,9 @@
 
 #### (E) Required training, annual retraining, and testing of agents, brokers, and other third parties
 
-&emsp;&emsp;The use by a Medicare Advantage organization of any individual as an agent, broker, or other third party representing the organization that has not completed an initial training and testing program and does notcomplete an annual retraining and testing program.
+&emsp;&emsp;The use by a Medicare Advantage organization of any individual as an agent, broker, or other third party representing the organization that has not completed an initial training and testing program and does not complete an annual retraining and testing program.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1851, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 275; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(k)(6)(A), title V, §§501(a)(1), (b), (c), 502(a), 519(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–367, 1501A–378 to 1501A–380, 1501A–385; Pub. L. 106–554, §1(a)(6) \[title VI, §§606(a)(2)(C), 613(a), 619(a), 620(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–558, 2763A–560, 2763A–563; Pub. L. 107–188, title V, §532(a), (c)(1), June 12, 2002, 116 Stat. 696; Pub. L. 108–173, title I, §102(a), (c)(1), title II, §§221(a)(1), (d)(5), 222(<i>l</i>)(3)(A), (B), (D), (E), 231(a), 233(b), (d), 237(b)(2)(A), Dec. 8, 2003, 117 Stat. 2152, 2154, 2180, 2193, 2206, 2207, 2209, 2212; Pub. L. 109–432, div. B, title II, §206(a), Dec. 20, 2006, 120 Stat. 2990; Pub. L. 110–48, §2, July 18, 2007, 121 Stat. 244; Pub. L. 110–275, title I, §103(a)(1), (b)(1), (c)(1), (d)(1), July 15, 2008, 122 Stat. 2498–2501; Pub. L. 111–5, div. B, title IV, §4102(d)(2), Feb. 17, 2009, 123 Stat. 486; Pub. L. 111–148, title III, §§3201(e)(2)(A)(i), 3204(a)(1), (b), Mar. 23, 2010, 124 Stat. 446, 456; Pub. L. 111–152, title I, §1102(a), Mar. 30, 2010, 124 Stat. 1040.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1851, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 275; amended Pub. L. 106–113, div. B,§1000(a)(6) \[title III, §321(k)(6)(A), title V, §§501(a)(1), (b), (c), 502(a), 519(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–367, 1501A–378 to 1501A–380, 1501A–385; Pub. L. 106–554, §1(a)(6) \[title VI, §§606(a)(2)(C), 613(a), 619(a), 620(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–558, 2763A–560, 2763A–563; Pub. L. 107–188, title V, §532(a), (c)(1), June 12, 2002, 116 Stat. 696; Pub. L. 108–173, title I, §102(a), (c)(1), title II, §§221(a)(1), (d)(5), 222(l)(3)(A), (B), (D), (E), 231(a), 233(b), (d), 237(b)(2)(A), Dec. 8, 2003, 117 Stat. 2152, 2154, 2180, 2193, 2206, 2207, 2209, 2212; Pub. L. 109–432, div. B, title II, §206(a), Dec. 20, 2006, 120 Stat. 2990; Pub. L. 110–48, §2, July 18, 2007, 121 Stat. 244; Pub. L. 110–275, title I, §103(a)(1), (b)(1), (c)(1), (d)(1), July 15, 2008, 122 Stat. 2498–2501; Pub. L. 111–5, div. B, title IV, §4102(d)(2), Feb. 17, 2009, 123 Stat. 486; Pub. L. 111–148, title III, §§3201(e)(2)(A)(i), 3204(a)(1), (b), Mar. 23, 2010, 124 Stat. 446, 456; Pub. L. 111–152, title I, §1102(a), Mar. 30, 2010, 124 Stat. 1040.)
 
 #### References in Text
 
@@ -628,11 +628,11 @@ Subsec. (a)(2)(A). Pub. L. 108–173, §221(a)(1), substituted “Coordinated ca
 
 Subsec. (a)(2)(A)(ii). Pub. L. 108–173, §231(a), added cl. (ii).
 
-Subsec. (a)(3)(B)(ii). Pub. L. 108–173, §222(<i>l</i>)(3)(D), made technical amendment to reference in original act which appears in text as reference to subsection (e)(4)(A) of this section.
+Subsec. (a)(3)(B)(ii). Pub. L. 108–173, §222(l)(3)(D), made technical amendment to reference in original act which appears in text as reference to subsection (e)(4)(A) of this section.
 
-Subsec. (b)(1)(B). Pub. L. 108–173, §222(<i>l</i>)(3)(A)(i), (ii), substituted “an MA local plan” for “a plan” and “benefits under the original medicare fee-for-service program option” for “basic benefits described in section 1395w–22(a)(1)(A) of this title”.
+Subsec. (b)(1)(B). Pub. L. 108–173, §222(l)(3)(A)(i), (ii), substituted “an MA local plan” for “a plan” and “benefits under the original medicare fee-for-service program option” for “basic benefits described in section 1395w–22(a)(1)(A) of this title”.
 
-Subsec. (b)(1)(C). Pub. L. 108–173, §222(<i>l</i>)(3)(A)(iii), substituted “in an MA local plan” for “in a Medicare+Choice plan” in introductory provisions.
+Subsec. (b)(1)(C). Pub. L. 108–173, §222(l)(3)(A)(iii), substituted “in an MA local plan” for “in a Medicare+Choice plan” in introductory provisions.
 
 Subsec. (b)(4). Pub. L. 108–173, §233(b)(1), struck out “on a demonstration basis” after “plans” in heading.
 
@@ -644,13 +644,13 @@ Subsec. (b)(4)(A). Pub. L. 108–173, §233(b)(2), struck out first sentence whi
 
 Subsec. (b)(4)(C). Pub. L. 108–173, §233(b)(3), struck out at end “The Secretary shall submit such a report, by not later than March 1, 2002, on whether the time limitation under subparagraph (A)(i) should be extended or removed and whether to change the numerical limitation under subparagraph (A)(ii).”
 
-Subsec. (d)(3)(F). Pub. L. 108–173, §222(<i>l</i>)(3)(B)(i), added subpar. (F).
+Subsec. (d)(3)(F). Pub. L. 108–173, §222(l)(3)(B)(i), added subpar. (F).
 
-Subsec. (d)(4)(A)(ii). Pub. L. 108–173, §222(<i>l</i>)(3)(B)(ii), inserted “, including information on the single deductible (if applicable) under section 1395w–27a(b)(1) of this title” after “cost sharing”.
+Subsec. (d)(4)(A)(ii). Pub. L. 108–173, §222(l)(3)(B)(ii), inserted “, including information on the single deductible (if applicable) under section 1395w–27a(b)(1) of this title” after “cost sharing”.
 
-Subsec. (d)(4)(B)(i). Pub. L. 108–173, §222(<i>l</i>)(3)(B)(iii), substituted “monthly amount of the premium charged to an individual” for “Medicare+Choice monthly basic beneficiary premium and Medicare+Choice monthly supplemental beneficiary premium, if any, for the plan or, in the case of an MSA plan, the Medicare+Choice monthly MSA premium”.
+Subsec. (d)(4)(B)(i). Pub. L. 108–173, §222(l)(3)(B)(iii), substituted “monthly amount of the premium charged to an individual” for “Medicare+Choice monthly basic beneficiary premium and Medicare+Choice monthly supplemental beneficiary premium, if any, for the plan or, in the case of an MSA plan, the Medicare+Choice monthly MSA premium”.
 
-Subsec. (d)(4)(E). Pub. L. 108–173, §222(<i>l</i>)(3)(B)(iv), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Whether the organization offering the plan includes mandatory supplemental benefits in its base benefit package or offers optional supplemental benefits and the terms and conditions (including premiums) for such coverage.”
+Subsec. (d)(4)(E). Pub. L. 108–173, §222(l)(3)(B)(iv), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Whether the organization offering the plan includes mandatory supplemental benefits in its base benefit package or offers optional supplemental benefits and the terms and conditions (including premiums) for such coverage.”
 
 Subsec. (e)(1). Pub. L. 108–173, §102(a)(4), inserted at end “If any portion of an individual's initial enrollment period under part B of this subchapter occurs after the end of the annual, coordinated election period described in paragraph (3)(B)(iii), the initial enrollment period under this part shall further extend through the end of the individual's initial enrollment period under part B of this subchapter.”
 
@@ -662,7 +662,7 @@ Subsec. (e)(2)(C)(i). Pub. L. 108–173, §102(a)(6)(B), substituted “clauses 
 
 Subsec. (e)(2)(C)(iii). Pub. L. 108–173, §102(a)(6)(C), added cl. (iii).
 
-Subsec. (e)(3)(B). Pub. L. 108–173, §102(a)(2), reenacted heading without change and amended text generally.Prior to amendment, text read as follows: “For purposes of this section, the term ‘annual, coordinated election period’ means, with respect to a year before 2003 and after 2005, the month of November before such year and with respect to 2003, 2004, and 2005, the period beginning on November 15 and ending on December 31 of the year before such year.”
+Subsec. (e)(3)(B). Pub. L. 108–173, §102(a)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “For purposes of this section, the term ‘annual, coordinated election period’ means, with respect to a year before 2003 and after 2005, the month of November before such year and with respect to 2003, 2004, and 2005, the periodbeginning on November 15 and ending on December 31 of the year before such year.”
 
 Subsec. (e)(3)(C). Pub. L. 108–173, §102(a)(3)(A), inserted “and during the period described in subparagraph (B)(iii)” after “(beginning with 1999)”.
 
@@ -676,7 +676,7 @@ Subsec. (e)(5)(A)(ii). Pub. L. 108–173, §233(d)(2), substituted semicolon for
 
 Subsec. (e)(5)(A)(iii). Pub. L. 108–173, §233(d)(3), struck out cl. (iii) which read as follows: “the month of November 1998;”.
 
-Subsec. (f)(1). Pub. L. 108–173, §222(<i>l</i>)(3)(E), substituted “subsection (e)(1)” for “subsection (e)(1)(A)”.
+Subsec. (f)(1). Pub. L. 108–173, §222(l)(3)(E), substituted “subsection (e)(1)” for “subsection (e)(1)(A)”.
 
 Subsec. (f)(3). Pub. L. 108–173, §102(a)(5), inserted “, other than the period described in clause (iii) of such subsection” after “subsection (e)(3)(B) of this section”.
 
@@ -746,7 +746,7 @@ Pub. L. 110–275, title I, §103(d)(3), July 15, 2008, 122 Stat. 2501, provided
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–173, title I, §102(c)(2), Dec. 8, 2003, 117 Stat. 2154, provided that: “The amendments made by thissubsection \[amending this section\] shall apply on and after January 1, 2006.”
+Pub. L. 108–173, title I, §102(c)(2), Dec. 8, 2003, 117 Stat. 2154, provided that: “The amendments made by this subsection \[amending this section\] shall apply on and after January 1, 2006.”
 
 Pub. L. 108–173, title II, §223(a), Dec. 8, 2003, 117 Stat. 2207, provided that: “The amendments made by this subtitle \[subtitle C (§§221–223) of title II of Pub. L. 108–173, enacting section 1395w–27a of this title and amending this section and sections 1395r, 1395s, 1395w, 1395w–22 to 1395w–24, 1395w–27, and 1395w–28 of this title\] shall apply with respect to plan years beginning on or after January 1, 2006.”
 
@@ -874,19 +874,19 @@ Reports.—Not later than March 31 of 2001, 2004, 2007, and 2010, the Comptrolle
 
 #### Enrollment Transition Rule
 
-Section 4002(c) of Pub. L. 105–33 provided that: “An individual who is enrolled on December 31, 1998, with an eligible organization under section 1876 of the Social Security Act (42 U.S.C. 1395mm) shall be considered to be enrolled with that organization on January 1, 1999, under part C of title XVIII of such Act \[this part\] if that organization has a contract under that part for providing services on January 1, 1999 (unless the individual has disenrolled effective on that date).”
+Pub. L. 105–33, title IV, §4002(c), Aug. 5, 1997, 111 Stat. 329, provided that: “An individual who is enrolled on December 31, 1998, with an eligible organization under section 1876 of the Social Security Act (42 U.S.C. 1395mm) shall be considered to be enrolled with that organization on January 1, 1999, under part C of title XVIII of such Act \[this part\] if that organization has a contract under that part for providing services on January 1, 1999 (unless the individual has disenrolled effective on that date).”
 
 #### Secretarial Submission of Legislative Proposal
 
-Pub. L. 105–33, title IV, §4002(f)(2), Aug. 5, 1997, 111 Stat. 330, directed the Secretary of Health and Human Services to submit to Congress, no later than 6 monthsafter Aug. 5, 1997, proposed technical and conforming amendments in the law as required by the provisions of chapter 1 (§§4001–4006) of subtitle A of title IV of Pub. L. 105–33.
+Pub. L. 105–33, title IV, §4002(f)(2), Aug. 5, 1997, 111 Stat. 330, directed the Secretary of Health and Human Services to submit to Congress, no later than 6 months after Aug. 5, 1997, proposed technical and conforming amendments in the law as required by the provisions of chapter 1 (§§4001–4006) of subtitle A of title IV of Pub. L. 105–33.
 
 #### Report on Integration and Transition
 
-Pub. L. 105–33, title IV, §4014(c), Aug. 5, 1997, 111 Stat. 337, directed the Secretary of Health and Human Services to submit to Congress, no later than Jan. 1, 1999, a plan which provided for the integration of health plans offered by social health maintenance organizations and similar plans as an option under the Medicare+Choice program under this part, for a transition for such organizations operating under demonstration project authority, and for appropriate payment levels for plans offered by such organizations.
+Pub. L. 105–33, title IV, §4014(c), Aug. 5, 1997, 111 Stat. 337, directed the Secretary of Health and Human Services to submit to Congress, no later than Jan. 1, 1999,a plan which provided for the integration of health plans offered by social health maintenance organizations and similar plans as an option under the Medicare+Choice program under this part, for a transition for such organizations operating under demonstration project authority, and for appropriate payment levels for plans offered by such organizations.
 
 #### Medicare Enrollment Demonstration Project
 
-Section 4018 of Pub. L. 105–33 provided that:
+Pub. L. 105–33, title IV, §4018, Aug. 5, 1997, 111 Stat. 346, provided that:
 
 “(a)
 

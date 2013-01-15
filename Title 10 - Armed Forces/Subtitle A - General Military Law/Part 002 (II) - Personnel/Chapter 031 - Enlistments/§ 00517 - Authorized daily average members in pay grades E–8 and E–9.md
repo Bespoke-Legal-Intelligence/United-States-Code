@@ -38,7 +38,7 @@ Pub. L. 105–261, §407(a), substituted “a fiscal year” for “a calendar y
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–337, §552(a), inserted “(or, in the case of the Army, 2.5 percent)” after “may not be more than 2 percent”.
 
-Subsec. (b). Pub. L. 103–337, §1661(a)(4)(B), redesignated subsec. (c) as (b) and struck out “or whenever the number of members serving in pay grade E–9 for duty described in subsection (b) is less than the number authorized for that grade under subsection (b),” after “under subsection (a),”.
+Subsec. (b). Pub. L. 103–337, §1661(a)(4)(B), redesignated subsec. (c) as (b) and struck out “or whenever the number of members serving in pay grade E–9 for dutydescribed in subsection (b) is less than the number authorized for that grade under subsection (b),” after “under subsection (a),”.
 
 Pub. L. 103–337, §1662(a)(4)(A), struck out subsec. (b) which limited the number of enlisted members in pay grades E–8 and E–9 who could be on active duty (other than for training) or on full-time National Guard duty under the authority of section 502(f) of title 32 (other than for training) as of the end of any fiscal year in connection with organizing, administering, recruiting, instructing, or training the reserve components or the National Guard.
 
@@ -78,29 +78,29 @@ Pub. L. 105–261, div. A, title IV, §407(b), Oct. 17, 1998, 112 Stat. 1996, pr
 
 #### Effective Date of 1994 Amendment
 
-Section 552(c) of Pub. L. 103–337 provided that: “The amendment made by subsection (a) \[amending this section\] shall not apply with respect to the number of enlisted members of the Army on active duty in pay grade E–8 during 1994.”
+Pub. L. 103–337, div. A, title V, §552(c), Oct. 5, 1994, 108 Stat. 2772, provided that: “The amendment made by subsection (a) \[amending this section\] shall not apply with respect to the number of enlisted members of the Army on active duty in pay grade E–8 during 1994.”
 
 Amendment by section 1662(a)(4) of Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
 
 #### Effective Date of 1989 Amendment
 
-Section 413(a)(2) of Pub. L. 101–189 provided that the amendment made by that section is effective Oct. 1, 1990.
+Pub. L. 101–189, div. A, title IV, §413(a)(2), Nov. 29, 1989, 103 Stat. 1433, provided that the amendment made by that section is effective Oct. 1, 1990.
 
 #### Effective Date of 1987 Amendment
 
-Section 413(a)(2) of Pub. L. 100–180 provided that the amendment made by that section is effective Oct. 1, 1988.
+Pub. L. 100–180, div. A, title IV, §413(a)(2), Dec. 4, 1987, 101 Stat. 1083, provided that the amendment made by that section is effective Oct. 1, 1988.
 
 #### Effective Date of 1985 Amendment
 
-Section 413(c) of Pub. L. 99–145 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 524 \[now 12011\] of this title\] shall take effect on October 1, 1985.”
+Pub. L. 99–145, title IV, §413(c), Nov. 8, 1985, 99 Stat. 620, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 524 \[now 12011\] of this title\] shall take effect on October 1, 1985.”
 
 #### Effective Date of 1984 Amendment
 
-Section 413(c) of Pub. L. 98–525 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 524 \[now 12011\] of this title\] shall take effect on October 1, 1984.”
+Pub. L. 98–525, title IV, §413(c), Oct. 19, 1984, 98 Stat. 2518, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 524 \[now 12011\] of this title\] shall take effect on October 1, 1984.”
 
 #### Effective Date of 1983 Amendment
 
-Section 503(c) of Pub. L. 98–94 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 524 \[now 12011\] of this title\] shall take effect on October 1, 1983.”
+Pub. L. 98–94, title V, §503(c), Sept. 24, 1983, 97 Stat. 631, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 524 \[now 12011\] of this title\] shall take effect on October 1, 1983.”
 
 #### Effective Date
 
@@ -108,7 +108,7 @@ Section effective Nov. 1, 1962, see section 15 of Pub. L. 87–649, set out as a
 
 #### Authorized Active Duty Strengths for Army Enlisted Members in Pay Grade E–8; Special Rule for 1995
 
-Pub. L. 103–337, div. A, title V, §552(b), Oct. 5, 1994, 108 Stat. 2772, provided that the percentage applicable to enlisted members of the Army in pay grade E–8 under subsec. (a) of this section during 1995 would be 2.3 percent, rather than the percentage provided by the amendment made by Pub. L. 103–337, §552(a).
+Pub. L. 103–337, div. A, title V, §552(b), Oct. 5, 1994, 108 Stat. 2772, provided that the percentage applicable toenlisted members of the Army in pay grade E–8 under subsec. (a) of this section during 1995 would be 2.3 percent, rather than the percentage provided by the amendment made by Pub. L. 103–337, §552(a).
 
 #### Authority To Waive Grade Strength Laws for Fiscal Year 1991; Certification; Relationship to Other Suspension Authority
 

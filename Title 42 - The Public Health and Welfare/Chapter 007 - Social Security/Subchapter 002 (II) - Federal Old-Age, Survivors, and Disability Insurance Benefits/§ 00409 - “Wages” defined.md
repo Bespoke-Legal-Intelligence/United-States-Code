@@ -90,7 +90,7 @@ For the purposes of this subchapter, the term “wages” means remuneration pai
 
 &emsp;&emsp;(B) any disposition by the individual of such stock; or
 
-&emsp;(20) Any benefit or payment which is excludable from the gross income of the employee under section 139B(b) of the Internal Revenue Code of 1986).<sup>2</sup>
+&emsp;(20) Any benefit or payment which is excludable from the gross income of the employeeunder section 139B(b) of the Internal Revenue Code of 1986).<sup>2</sup>
 
 #### (b) Regulations providing exclusions from term
 
@@ -102,11 +102,11 @@ For purposes of this subchapter, in the case of domestic service described in su
 
 #### (d) Members of uniformed services
 
-For purposes of this subchapter, in the case of an individual performing service, as a member of a uniformed service, to which the provisions of section 410(<i>l</i>)(1) of this title are applicable, the term “wages” shall, subject to the provisions of subsection (a)(1) of this section, include as such individual's remuneration for such service only (1) his basic pay as described in chapter 3 and section 1009 of title 37 in the case of an individual performing service to which subparagraph (A) of such section 410(<i>l</i>)(1) of this title applies, or (2) his compensation for such service as determined under section 206(a) of title 37 in the case of an individual performing service to which subparagraph (B) of such section 410(<i>l</i>)(1) of this title applies.
+For purposes of this subchapter, in the case of an individual performing service, as a member of a uniformed service, to which the provisions of section 410(l)(1) of this title are applicable, the term “wages” shall, subject to the provisions of subsection (a)(1) of this section, include as such individual's remuneration for such service only (1) his basic pay as described in chapter 3 and section 1009 of title 37 in the case of an individual performing service to which subparagraph (A) of such section 410(l)(1) of this title applies, or (2) his compensation for such service as determined under section 206(a) of title 37 in the case of an individual performing service to which subparagraph (B) of such section 410(l)(1) of this title applies.
 
 #### (e) Peace Corps volunteers
 
-For purposes of this subchapter, in the case of an individual performing service, as a volunteer or volunteer leader within the meaning of the Peace Corps Act \[22 U.S.C. 2501 et seq.\], to which the provisions of section 410(<i>o</i>) of this title are applicable, (1) the term “wages” shall, subject to the provisions of subsection (a) of this section, include as such individual's remuneration for such service only amounts certified as payable pursuant to section 5(c) or 6(1) of the Peace Corps Act \[22 U.S.C. 2504(c) or 2505(1)\], and (2) any such amount shall be deemed to have been paid to such individual at the time the service, with respect to which it is paid, is performed.
+For purposes of this subchapter, in the case of an individual performing service, as a volunteer or volunteer leader within the meaning of the Peace Corps Act \[22 U.S.C. 2501 et seq.\], to which the provisions of section 410(o) of this title are applicable, (1) the term “wages” shall, subject to the provisions of subsection (a) of this section, include as such individual's remuneration for such service only amounts certified as payable pursuant to section 5(c) or 6(1) of the Peace Corps Act \[22 U.S.C. 2504(c) or 2505(1)\], and (2) any such amount shall be deemed to have been paid to such individual at the time the service, with respect to which it is paid, is performed.
 
 #### (f) Tips
 
@@ -130,7 +130,7 @@ Nothing in any of the foregoing provisions of this section (other than subsectio
 
 #### (j) Amounts deferred under nonqualified deferred compensation plans
 
-Any amount deferred under a nonqualified deferred compensation plan (within the meaning ofsection 3121(v)(2)(C) of the Internal Revenue Code of 1986) shall be taken into account for purposes of this subchapter as of the later of when the services are performed, or when there is no substantial risk of forfeiture of the rights to such amount. Any amount taken into account as wages by reason of the preceding sentence (and the income attributable thereto) shall not thereafter be treated as wages for purposes of this subchapter.
+Any amount deferred under a nonqualified deferred compensation plan (within the meaning of section 3121(v)(2)(C) of the Internal Revenue Code of 1986) shall be taken into account for purposes of this subchapter as of the later of when the services are performed, or when there is no substantial risk of forfeiture of the rights to such amount. Any amount taken into account as wages by reason of the preceding sentence (and the income attributable thereto) shall not thereafter be treated as wages for purposes of this subchapter.
 
 #### (k) “National average wage index” and “deferred compensation amount” defined
 
@@ -204,7 +204,7 @@ Pub. L. 103–296, §107(a)(4), in subsec. (k) as amended by Pub. L. 103–296, 
 
 <b>1990</b>—Subsec. (a)(7)(B). Pub. L. 101–508 substituted “clause (ii)” for “subparagraph (B)” in concluding provisions.
 
-<b>1989</b>—Subsec. (a). Pub. L. 101–239, §10208(d)(1)(A)–(K), inserted “(a)” at beginning of text and in subsec. (a) as so designated, redesignated, respectively, former subsec. (a)(1) to (9) as par. (1)(A) to (I), former subsec. (b)(1) to (3) as par. (2)(A) to (C), former subsec. (d) as par. (3), former subsec. (e)(1) to (9) as par. (4)(A) to (I), former subsec. (f)(1) and (2) as par. (5)(A) and (B), former subsec. (g)(1) to (3) as par. (6)(A) to (C), former subsec. (h)(1), (2)(A) and (B), and (i) to (iii) as par. (7)(A), (B)(i) and (ii), and (I) to (III), former subsecs. (j) and (k) as pars. (8) and (9), former subsec. (<i>l</i>)(1) and (2) as par. (10)(A) and (B), former subsec. (m)(1) and (2) as par. (11)(A) and (B), former subsecs. (n) and (<i>o</i>) as pars. (12) and (13), former subsec. (p)(1) and (2) as par. (14)(A) and (B), and former subsecs. (q) to (t) as pars. (15) to (18).
+<b>1989</b>—Subsec. (a). Pub. L. 101–239, §10208(d)(1)(A)–(K), inserted “(a)” at beginning of text and in subsec. (a) as so designated, redesignated, respectively, former subsec. (a)(1) to (9) as par. (1)(A) to (I), former subsec. (b)(1) to (3) as par. (2)(A) to (C), former subsec. (d) as par. (3), former subsec. (e)(1) to (9) as par. (4)(A) to (I), former subsec. (f)(1) and (2) as par. (5)(A) and (B), former subsec. (g)(1) to (3) as par. (6)(A) to (C), former subsec. (h)(1), (2)(A) and (B), and (i) to (iii) as par. (7)(A), (B)(i) and (ii), and (I) to (III), former subsecs. (j) and (k) as pars. (8) and (9), former subsec. (l)(1) and (2) as par. (10)(A) and (B), former subsec. (m)(1) and (2) as par. (11)(A) and (B), former subsecs. (n) and (o) as pars. (12) and (13), former subsec. (p)(1) and (2) as par. (14)(A) and (B), and former subsecs. (q) to (t) as pars. (15) to (18).
 
 Subsec. (b). Pub. L. 101–239, §10208(d)(1)(L), designated par. beginning with “Nothing in the regulations” as subsec. (b). Former subsec. (b) redesignated subsec. (a)(2).
 
@@ -228,13 +228,13 @@ Subsec. (e)(8). Pub. L. 100–647, §1011(f)(8), amended cl. (8) generally. Prio
 
 Subsec. (e)(9). Pub. L. 100–647, §1011B(a)(23)(B), inserted “if such payment would not be treated as wages without regard to such plan and it is reasonable to believe that (if section 125 applied for purposes of this section) section 125 would not treat any wages as constructively received” after “1986)”.
 
-Subsec. (h)(2). Pub. L. 100–647, §8017(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Cash remuneration paid by an employer in any calendar year to an employee for agricultural labor unless (A) the cash remuneration paid in such year by the employer to the employee for such labor is $150 ormore, or (B) the employer's expenditures for agricultural labor in such year equal or exceed $2,500;”.
+Subsec. (h)(2). Pub. L. 100–647, §8017(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Cash remuneration paid by an employer in any calendar year to an employee for agricultural labor unless (A) the cash remuneration paid in such year by the employer to the employee for such labor is $150 or more, or (B) the employer's expenditures for agricultural labor in such year equal or exceed $2,500;”.
 
 Subsec. (k). Pub. L. 100–647, §1001(g)(4)(C), substituted “section 217 of the Internal Revenue Code of 1986 (determined without regard to section 274(n) of such Code)” for “section 217 of the Internal Revenue Code of 1954”.
 
 Subsec. (t). Pub. L. 100–647, §3043(a), added subsec. (t).
 
-<b>1987</b>—Pub. L. 100–203, §9001(a)(2), in second indented par. of closing provisions, substituted “only (1) his basic pay as described in chapter 3 and section 1009 of title 37 in the case of an individual performing service to which subparagraph (A) of such section 410(<i>l</i>)(1) of this title applies, or (2) his compensation for such service as determined under section 206(a) of title 37 in the case of an individual performing service to which subparagraph (B) of such section 410(<i>l</i>)(1) of this title applies.” for “only his basic pay as described in chapter 3 and section 1009 of title 37.”
+<b>1987</b>—Pub. L. 100–203, §9001(a)(2), in second indented par. of closing provisions, substituted “only (1) his basic pay as described in chapter 3 and section 1009 oftitle 37 in the case of an individual performing service to which subparagraph (A) of such section 410(l)(1) of this title applies, or (2) his compensation for such service as determined under section 206(a) of title 37 in the case of an individual performing service to which subparagraph (B) of such section 410(l)(1) of this title applies.” for “only his basic pay as described in chapter 3 and section 1009 of title 37.”
 
 Subsec. (b)(3). Pub. L. 100–203, §9003(a)(1), substituted “death, except that this subsection does not apply to a payment for group-term life insurance to the extent that such payment is includible in the gross income of the employee under the Internal Revenue Code of 1986” for “death”.
 
@@ -264,7 +264,7 @@ Subsecs. (q), (r). Pub. L. 98–369, §2663(a)(6)(A)(v), realigned margins of su
 
 Subsec. (s). Pub. L. 98–369, §531(d)(1)(B)(ii), added subsec. (s).
 
-Pub. L. 98–369, §2663(a)(6)(B), in undesignated par. relating to the meaning of “wages” in the case of a member of a uniformed service to which section 410(<i>l</i>)(1) of this title is applicable, substituted “chapter 3 and section 1009 of title 37” for “section 102(10) of the Servicemen's and Veterans’ Survivor Benefits Act”.
+Pub. L. 98–369, §2663(a)(6)(B), in undesignated par. relating to the meaning of “wages” in the case of a member of a uniformed service to which section 410(l)(1) of this title is applicable, substituted “chapter 3 and section 1009 of title 37” for “section 102(10) of the Servicemen's and Veterans’ Survivor Benefits Act”.
 
 Pub. L. 98–369, §2661(i)(2), in undesignated par. relating to employer contributions as not being excluded from “wages”, inserted “where the pickup referred to in such section is pursuant to a salary reduction agreement (whether evidenced by a written instrument or otherwise)”.
 
@@ -302,7 +302,7 @@ Subsec. (q). Pub. L. 95–600 added subsec. (q).
 
 Subsec. (n). Pub. L. 95–216, §351(a)(3)(A), struck out “or” after “such employee died”.
 
-Subsec. (<i>o</i>). Pub. L. 95–216, §351(a)(3)(A), substituted “payment is made; or” for “payment is made.”.
+Subsec. (o). Pub. L. 95–216, §351(a)(3)(A), substituted “payment is made; or” for “payment is made.”.
 
 Subsec. (p). Pub. L. 95–216, §351(a)(3)(A), added subsec. (p).
 
@@ -318,7 +318,7 @@ Subsec. (i). Pub. L. 92–603, §104(g), struck out “(if a woman) and age 65 (
 
 Subsec. (n). Pub. L. 92–603, §122(a), added subsec. (n).
 
-Subsec. (<i>o</i>). Pub. L. 92–603, §138(a), added subsec. (<i>o</i>).
+Subsec. (o). Pub. L. 92–603, §138(a), added subsec. (o).
 
 Pub. L. 92–603, §123(c)(1), added par. at end defining “wages” in the case of members of a religious order when an election under section 3121(r) of the Internal Revenue Code of 1954 is in effect.
 
@@ -334,7 +334,7 @@ Subsec. (m). Pub. L. 90–248, §504(c), added subsec. (m).
 
 Subsec. (a)(4). Pub. L. 89–97, §320(a)(1)(B), added par. (4).
 
-Subsec. (<i>l</i>). Pub. L. 89–97, §313(a)(1), added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 89–97, §313(a)(1), added subsec. (l).
 
 Pub. L. 89–97, §313(a)(2), added paragraph at end providing that tips be considered remuneration and that such remuneration be deemed paid as of the filing of a written statement or as of the time received.
 
@@ -348,7 +348,7 @@ Pub. L. 87–293 added last paragraph providing for computation of wages for Pea
 
 <b>1960</b>—Subsec. (j). Pub. L. 86–778, §103(j)(2)(F), substituted “section 410(j)(3)(C)” for “section 410(k)(3)(C)”.
 
-Pub. L. 86–778, §103(j)(2)(C), substituted “section 410(<i>l</i>)(1) of this title” for “section 410(m)(1) of this title” in last par.
+Pub. L. 86–778, §103(j)(2)(C), substituted “section 410(l)(1) of this title” for “section 410(m)(1) of this title” in last par.
 
 <b>1958</b>—Subsec. (a). Pub. L. 85–840 inserted “and prior to 1959” after “any calendar year after 1954” in cl. (2), and added cl. (3).
 
@@ -386,9 +386,9 @@ Subsec. (r). Act Aug. 10, 1946, §411, added subsec. (r).
 
 Subsec. (p). Act Oct. 23, 1945, added subsec. (p).
 
-<b>1944</b>—Subsec. (<i>o</i>)(1). Act Apr. 4, 1944, §2, inserted “but shall not include any such service performed (1) under a contract entered into without the United States and during the performance of which the vessel does not touch at a port in the United States, or (2) on a vessel documented under the laws of any foreign country and bareboat chartered to the War Shipping Administration”.
+<b>1944</b>—Subsec. (o)(1). Act Apr. 4, 1944, §2, inserted “but shall not include any such service performed (1) under a contract entered into without the United States and during the performance of which the vessel does not touch at a port in the United States, or (2) on a vessel documented under the laws of any foreign country and bareboat chartered to the War Shipping Administration”.
 
-<b>1943</b>—Subsec. (<i>o</i>). Act Mar. 24, 1943, added subsec. (<i>o</i>).
+<b>1943</b>—Subsec. (o). Act Mar. 24, 1943, added subsec. (o).
 
 <b>1939</b>—Act Aug. 10, 1939, amended section generally.
 
@@ -420,13 +420,13 @@ Amendment by Pub. L. 101–508 effective as if included in the enactment of Pub.
 
 #### Effective Date of 1989 Amendments
 
-Amendment by section 10208(a) of Pub. L. 101–239 applicable with respect to computation of average totalwage amounts (under amended provisions) for calendar years after 1990, see section 10208(c) of Pub. L. 101–239, set out as a note under section 430 of this title.
+Amendment by section 10208(a) of Pub. L. 101–239 applicable with respect to computation of average total wage amounts (under amended provisions) for calendar years after 1990, see section 10208(c) of Pub. L. 101–239, set out as a note under section 430 of this title.
 
 Amendment by Pub. L. 101–140 effective as if included in section 1151 of Pub. L. 99–514, see section 203(c) of Pub. L. 101–140, set out as a note under section 79 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1988 Amendment
 
-Amendment by sections 1001(g)(4)(C), 1011(f)(8), and 1011B(a)(23)(B) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of Title 26, Internal Revenue Code.
+Amendment by sections 1001(g)(4)(C), 1011(f)(8), and 1011B(a)(23)(B) of Pub. L. 100–647 effective, except asotherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of Title 26, Internal Revenue Code.
 
 Amendment by section 1011B(a)(22)(E) of Pub. L. 100–647 not applicable to any individual who separated from service with the employer before Jan. 1, 1989, see section 1011B(a)(22)(F) of Pub. L. 100–647, set out as a note under section 3121 of Title 26.
 
@@ -442,13 +442,13 @@ Amendment by section 9002(a) of Pub. L. 100–203 applicable with respect to rem
 
 Amendment by section 9003(a)(1) of Pub. L. 100–203 applicable with respect to group-term life insurance coverage in effect after Dec. 31, 1987, with exception for employer's group-term life insurance payments for certain former employees, see section 9003(b) of Pub. L. 100–203, as amended, set out as a note under section 3121 of Title 26.
 
-#### Effective Date of 1986 Amendments
+#### Effective Date of 1986 Amendment
 
 Amendment by section 122(e)(5) of Pub. L. 99–514 applicable to prizes and awards granted after Dec. 31, 1986, see section 151(c) of Pub. L. 99–514, set out as a note under section 1 of Title 26, Internal Revenue Code.
 
 Amendment by section 1151(d)(2)(C) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1983, see section 1151(k)(5) of Pub. L. 99–514, set out as a note under section 79 of Title 26.
 
-Section 12112(c) of Pub. L. 99–272 provided that: “The amendments made by this section \[amending this section and section 3121 of Title 26, Internal Revenue Code\] shall be effective with respect to service performed after December 31, 1983.”
+Pub. L. 99–272, title XII, §12112(c), Apr. 7, 1986, 100 Stat. 288, provided that: “The amendments made by this section \[amending this section and section 3121 of Title 26, Internal Revenue Code\] shall be effective with respect to service performed after December 31, 1983.”
 
 #### Effective Date of 1984 Amendment
 
@@ -472,7 +472,7 @@ Amendment by section 327(b)(2) of Pub. L. 98–21 applicable to remuneration (ot
 
 Amendment by section 328(b) of Pub. L. 98–21 applicable to remuneration paid after Dec. 31, 1983, see section 328(d)(1) of Pub. L. 98–21, set out as a note under section 3121 of Title 26.
 
-#### Effective Date of 1981 Amendments
+#### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–123 applicable, except as otherwise provided, to remuneration paid after Dec. 31, 1981, see section 3(g) of Pub. L. 97–123, set out as a note under section 3121 of Title 26, Internal Revenue Code.
 
@@ -482,7 +482,7 @@ Amendment by Pub. L. 97–34 applicable to remuneration paid after Dec. 31, 1981
 
 For effective date of amendment by Pub. L. 96–499, see section 1141(c) of Pub. L. 96–499, set out as a note under section 3121 of Title 26, Internal Revenue Code.
 
-#### Effective Date of 1978 Amendments
+#### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–600 applicable with respect to taxable years beginning after Dec. 31, 1978, see section 164(d) of Pub. L. 95–600, set out as an Effective Date note under section 127 of Title 26, Internal Revenue Code.
 
@@ -490,31 +490,31 @@ Amendment by Pub. L. 95–472 applicable with respect to taxable years beginning
 
 #### Effective Date of 1977 Amendment
 
-Section 351(d) of Pub. L. 95–216 provided that: “The amendments made by subsection (a) \[amending this section and section 410 of this title\] shall apply with respect to remuneration paid and services rendered after December 31, 1977. The amendments made by subsections (b) and (c) \[amending sections 412 and 413 of this title\] shall be effective January 1, 1978.”
+Pub. L. 95–216, title III, §351(d), Dec. 20, 1977, 91 Stat. 1551, provided that: “The amendments made by subsection (a) \[amending this section and section 410 of this title\] shall apply with respect to remuneration paid and services rendered after December 31, 1977. The amendments made by subsections (b) and (c) \[amending sections 412 and 413 of this title\] shall be effective January 1, 1978.”
 
-#### Effective Date of 1973 Amendments
+#### Effective Date of 1973 Amendment
 
-Section 5(e) of Pub. L. 93–233 provided that: “The amendments made by this section \[amending this section and sections 411, 413, and 430 of this title and sections 3121, 3122, 3125, 6413, and 6654 of Title 26, Internal Revenue Code\], except subsection (a)(4), shall apply only with respect to remuneration paid after, and taxable years beginning after, 1973. The amendments made by subsection (a)(4) \[amending section 415 of this title\] shall apply with respect to calendar years after 1973.”
+Pub. L. 93–233, §5(e), Dec. 31, 1973, 87 Stat. 954, provided that: “The amendments made by this section \[amending this section and sections 411, 413, and 430 of this title and sections 3121, 3122, 3125, 6413, and 6654 of Title 26, Internal Revenue Code\], except subsection (a)(4), shall apply only with respect to remuneration paid after, and taxable years beginning after, 1973. The amendments made by subsection (a)(4) \[amending section 415 of this title\] shall apply with respect to calendar years after 1973.”
 
-Section 203(e) of Pub. L. 93–66 provided that: “The amendments made by this section \[amending this section and sections 411, 415, and 430 of this title and sections 3121, 3122, 3125, 6413, and 6654 of Title 26\] except subsection (a)(4), shall apply only with respect to remuneration paid after, and taxable years beginning after, 1973. The amendments made by subsection (a)(4) \[amending section 415 of this title\] shall apply with respect to calendar years after 1973.”
+Pub. L. 93–66, title II, §203(e), July 9, 1973, 87 Stat. 153, provided that: “The amendments made by this section \[amending this section and sections 411, 415, and 430 of this title and sections 3121, 3122, 3125, 6413, and 6654 of Title 26\] except subsection (a)(4), shall apply only with respect to remuneration paid after, and taxable yearsbeginning after, 1973. The amendments made by subsection (a)(4) \[amending section 415 of this title\] shall apply with respect to calendar years after 1973.”
 
-#### Effective Date of 1972 Amendments
+#### Effective Date of 1972 Amendment
 
 Amendment by section 104(g) of Pub. L. 92–603 applicable only with respect to payments after 1974, see section 104(j) of Pub. L. 92–603, set out as a note under section 414 of this title.
 
-Section 122(c) of Pub. L. 92–603 provided that: “The amendments made by this section \[amending this section and section 3121 of Title 26, Internal Revenue Code\] shall apply in the case of any payment made after December 1972.”
+Pub. L. 92–603, title I, §122(c), Oct. 30, 1972, 86 Stat. 1354, provided that: “The amendments made by this section \[amending this section and section 3121 of Title 26, Internal Revenue Code\] shall apply in the case of any payment made after December 1972.”
 
-Section 138(c) of Pub. L. 92–603 provided that: “The amendments made by this section \[amending this section and section 3121 of Title 26, Internal Revenue Code\] shall apply in the case of any payment made after December 1972.”
+Pub. L. 92–603, title I, §138(c), Oct. 30, 1972, 86 Stat. 1366, provided that: “The amendments made by this section \[amending this section and section 3121 of Title 26, Internal Revenue Code\] shall apply in the case of any payment made after December 1972.”
 
-Section 203(c) of Pub. L. 92–336 provided that: “The amendments made by subsections (a)(1) and (a)(3)(A) \[amending this section and section 413 of this title\], and the amendments made by subsection (b) \[amending sections 3121, 3122, 3125, and 6413 of Title 26, Internal Revenue Code\] (except paragraphs (1) and (7) thereof), shall apply only with respect to remuneration paid after December 1972. The amendments made by subsections (a)(2), (a)(3)(B), (b)(1), and (b)(7) \[amending sections 411 and 413 of this title and sections 1402 and 6654 of Title 26\] shall apply only with respect to taxable years beginning after 1972. The amendment made by subsection (a)(4) \[amending section 415 of this title\] shall apply only with respect to calendar years after 1972.”
+Pub. L. 92–336, title II, §203(c), July 1, 1972, 86 Stat. 420, provided that: “The amendments made by subsections (a)(1) and (a)(3)(A) \[amending this section and section 413 of this title\], and the amendments made by subsection (b) \[amending sections 3121, 3122, 3125, and 6413 of Title 26, Internal Revenue Code\] (except paragraphs (1) and (7) thereof), shall apply only with respect to remuneration paid after December 1972. The amendments made by subsections (a)(2), (a)(3)(B), (b)(1), and (b)(7) \[amending sections 411 and 413 of this title and sections 1402 and 6654 of Title 26\] shall apply only with respect to taxable years beginning after 1972. The amendment made by subsection (a)(4) \[amending section 415 of this title\] shall apply only with respect to calendar years after 1972.”
 
 #### Effective Date of 1971 Amendment
 
-Section 203(c) of Pub. L. 92–5 provided that: “The amendments made by subsections (a)(1) and (a)(3)(A) \[amending this section and section 413 of this title\], and the amendments made by subsection (b) (except paragraphs (1) and (7) thereof) \[amending sections 3121, 3122, 3125, and 6413 of Title 26, Internal Revenue Code\], shall apply only with respect to remuneration paid after December 1971. The amendments made by subsections (a)(2), (a)(3)(B), (b)(1), and (b)(7) \[amending sections 411 and 413 of this title and sections 1402 and 6654 of Title 26\] shall apply only with respect to taxable years beginning after 1971. The amendment made by subsection (a)(4) \[amending section 415 of this title\] shall apply only with respect to calendar years after 1971.”
+Pub. L. 92–5, title II, §203(c), Mar. 17, 1971, 85 Stat. 11, provided that: “The amendments made by subsections (a)(1) and (a)(3)(A) \[amending this section and section 413 of this title\], and the amendments made by subsection (b) (except paragraphs (1) and (7) thereof) \[amending sections 3121, 3122, 3125, and 6413 of Title 26, Internal Revenue Code\], shall apply only with respect to remuneration paid after December 1971. The amendments made by subsections (a)(2), (a)(3)(B), (b)(1), and (b)(7) \[amending sections 411 and 413 of this title and sections 1402 and 6654 of Title 26\] shall apply only with respect to taxable years beginning after 1971. The amendment made by subsection (a)(4) \[amending section 415 of this title\] shall apply only with respect to calendar years after 1971.”
 
 #### Effective Date of 1968 Amendment
 
-Section 108(c) of Pub. L. 90–248 provided that: “The amendment made by subsections (a)(1) and (a)(3)(A) \[amending this section and section 423 of this title\], and the amendments made by subsection (b) (except paragraph (1) thereof) \[amending sections 1402, 3121, 3122, 3125, and 6413 of Title 26, Internal Revenue Code\], shall apply only with respect to remuneration paid after December 1967. The amendments made by subsections (a)(2), (a)(3)(B), and (b)(1) \[amending sections 411 and 413 of this title and section 1402 of Title 26\] shall apply only with respect to taxable years ending after 1967. The amendment made by subsection (a)(4) \[amending section 415 of this title\] shall apply only with respect to calendar years after 1967.”
+Pub. L. 90–248, title I, §108(c), Jan. 2, 1968, 81 Stat. 835, provided that: “The amendment made by subsections (a)(1) and (a)(3)(A) \[amending this section and section 423 of this title\], and the amendments made by subsection (b) (except paragraph (1) thereof) \[amending sections 1402, 3121, 3122, 3125, and 6413 of Title 26, Internal Revenue Code\], shall apply only with respect to remuneration paid after December 1967. The amendments made by subsections (a)(2), (a)(3)(B), and (b)(1) \[amending sections 411 and 413 of this title and section 1402 of Title 26\] shall apply only with respect to taxable years ending after 1967. The amendment made by subsection (a)(4) \[amending section 415 of this title\] shall apply only with respect to calendar years after 1967.”
 
 Amendment by section 504(c) of Pub. L. 90–248 applicable with respect to remuneration paid after Jan. 2, 1968, see section 504(d) of Pub. L. 90–248, set out as a note under section 3121 of Title 26.
 
@@ -524,13 +524,13 @@ Amendment by section 313(a) of Pub. L. 89–97 applicable only with respect to t
 
 Amendment by section 320(a)(1) of Pub. L. 89–97 applicable with respect to remuneration paid after December 1965, see section 320(c) of Pub. L. 89–97, set out as a note under section 3121 of Title 26.
 
-#### Effective Date of 1964 Amendments
+#### Effective Date of 1964 Amendment
 
 Amendment by Pub. L. 88–650 applicable with respect to remuneration paid on or after the first day of the first calendar month which begins more than ten days after Oct. 13, 1964, see section 4(d) of Pub. L. 88–650, set out as a note under section 3121 of Title 26, Internal Revenue Code.
 
 Amendment by Pub. L. 88–272 applicable to remuneration paid after Dec. 31, 1962, see section 220(d) of Pub. L. 88–272, set out as an Effective Date note under section 406 of Title 26.
 
-#### Effective Date of 1961 Amendments
+#### Effective Date of 1961 Amendment
 
 Amendment by Pub. L. 87–293 applicable with respect to service performed after Sept. 22, 1961, but in the case of persons serving under the Peace Corps agency established by executive order applicable with respect to service performed on or after the effective date of enrollment, see section 202(c) of Pub. L. 87–293, set out as a note under section 3121 of Title 26, Internal Revenue Code.
 
@@ -542,13 +542,13 @@ Amendment by Pub. L. 86–778 effective Sept. 13, 1960, see section 103(v)(1) of
 
 #### Effective Date of 1958 Amendment
 
-Section 2 of Pub. L. 85–786 provided that: “The amendment made by section 1 \[amending this section\] shall be applicable to remuneration paid after the enactment of this Act \[Aug. 27, 1958\], except that, in the case of any coverage group which is included under the agreement of a State under section 218 of the Social Security Act \[section 418 of this title\], the amendment made by section 1 shall also be applicable to remuneration for any member of such coverage group with respect to services performed after the effective date, specified in such agreement, for such coverage group, if such State has paid or agrees, prior to January 1, 1959, to pay, prior to such date, the amounts which under section 218(e) \[section 418(e) of this title\] would have been payable with respect to remuneration of all members of such coverage group had the amendment made by section 1 been in effect on and after January 1, 1951. Failure by a State to make such payments prior to January 1, 1959, shall be treated the same as failure to make payments when due under section 218(e).”
+Pub. L. 85–786, §2, Aug. 27, 1958, 72 Stat. 938, provided that: “The amendment made by section 1 \[amending this section\] shall be applicable to remuneration paid after the enactment of this Act \[Aug. 27, 1958\], except that, in the case of any coverage group which is included under the agreement of a State under section 218 of the Social Security Act \[section 418 of this title\], the amendment made by section 1 shall also be applicable to remuneration for any member of such coverage group with respect to services performed after the effective date, specified in such agreement, for such coverage group, if such State has paid or agrees, prior to January 1, 1959, to pay, prior to such date, the amounts which under section 218(e) \[section 418(e) of this title\] would have been payable with respect to remuneration of all members of such coverage group had the amendment made by section 1 been in effect on and after January 1, 1951. Failure by a State to make such payments prior to January 1, 1959, shall be treated the same as failure to make payments when due under section 218(e).”
 
 #### Effective Date of 1956 Amendment
 
-Amendment by act Aug. 1, 1956, ch. 837, effective Jan. 1, 1957, see section 603(a) of act Aug. 1, 1956.
+Amendment by act Aug. 1, 1956, ch. 837, effective Jan. 1, 1957, see act Aug. 1, 1956, ch. 837, title VI, §603(a), 70 Stat. 887.
 
-Section 105(d) of act Aug. 1, 1956, ch. 836, provided that: “The amendment made by subsection (a) of thissection \[amending this section\] shall apply with respect to remuneration paid after 1956, and the amendment made by subsection (b) of this section \[amending section 410 of this title\] shall apply with respect to service performed after 1956.”
+Act Aug. 1, 1956, ch. 836, title I, §105(d), 70 Stat. 828, provided that: “The amendment made by subsection (a) of this section \[amending this section\] shall apply with respect to remuneration paid after 1956, and the amendment made by subsection (b) of this section \[amending section 410 of this title\] shall apply with respect to service performed after 1956.”
 
 #### Effective Date of 1954 Amendment
 
@@ -556,27 +556,27 @@ Amendment by section 101(a)(1)–(3) of act Sept. 1, 1954, applicable only with 
 
 #### Effective Date of 1950 Amendment
 
-Section 104(b) of act Aug. 28, 1950, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect January 1, 1951, except that sections 214, 215, and 216 of the Social Security Act \[sections 414 to 416 of this title\] shall be applicable (1) in the case of monthly benefits for months after August 1950, and (2) in the case of lump-sum death payments with respect to deaths after August 1950.”
+Act Aug. 28, 1950, ch. 809, title I, §104(b), 64 Stat. 512, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect January 1, 1951, except that sections 214, 215, and 216 of the Social Security Act \[sections 414 to 416 of this title\] shall be applicable (1) in the case of monthly benefits for months after August 1950, and (2) in the case of lump-sum death payments with respect to deaths after August 1950.”
 
 #### Effective Date of 1948 Amendment
 
-Section 1(b) of act Apr. 20, 1948, provided in part that: “The amendment made by subsection (a) \[amending this section\] shall be applicable with respect to services performed after the date of the enactment of this Act \[Apr. 20, 1948\].”
+Act Apr. 20, 1948, ch. 222, §1(b), 62 Stat. 195, provided in part that: “The amendment made by subsection (a) \[amending this section\] shall be applicable with respect to services performed after the date of the enactment of this Act \[Apr. 20, 1948\].”
 
 #### Effective Date of 1946 Amendment
 
-Sections 407(b), 408(b), and 409(b) of act Aug. 10, 1946, each provided that: “The amendment made by subsection (a) of this section \[amending this section\] shall be applicable only in cases of applications for benefits under this title \[this subchapter\] filed after December 31, 1946.”
+Act Aug. 10, 1946, ch. 951, title IV, §§407(b), 408(b), 409(b), 60 Stat. 988, each provided that: “The amendment made by subsection (a) of this section \[amending this section\] shall be applicable only in cases of applications for benefits under this title \[this subchapter\] filed after December 31, 1946.”
 
 #### Effective Date of 1945 Amendment
 
-Section 5(a) of act Dec. 29, 1945, provided that the amendment made by that section is effective Jan. 1, 1946.
+Act Dec. 29, 1945, ch. 652, title I, §5(a), 59 Stat. 671, provided that the amendment made by that section is effective Jan. 1, 1946.
 
 #### Effective Date of 1939 Amendment
 
-Section 201 of act Aug. 10, 1939, provided that the amendment made by that section is effective Jan. 1, 1940.
+Act Aug. 10, 1939, ch. 666, title II, §201, 53 Stat. 1362, provided that the amendment made by that section is effective Jan. 1, 1940.
 
 #### Repeals: Amendments and Application of Amendments Unaffected
 
-Section 202(b)(2) of Pub. L. 87–293, cited as a credit to this section, was repealed by Pub. L. 89–572, §5(a), Sept. 13, 1966, 80 Stat. 765. Such repeal not deemed to affect amendments to this section contained in such provisions, and continuation in full force and effect until modified by appropriate authority of all determinations, authorization, regulations, orders, contracts, agreements, and other actions issued, undertaken, or entered into under authority of the repealed provisions, see section 5(b) of Pub. L. 89–572, set out as a note under former section 2515 of Title 22, Foreign Relations and Intercourse.
+Pub. L. 87–293, title II, §202(b)(2), Sept. 22, 1961, 75 Stat. 626, cited as a credit to this section, was repealed by Pub. L. 89–572, §5(a), Sept. 13, 1966, 80 Stat. 765. Such repeal not deemed to affect amendments to this section contained in such provisions, and continuation in full force and effect until modified by appropriate authority of all determinations, authorization, regulations, orders, contracts, agreements, and other actions issued, undertaken, or entered into under authority of the repealed provisions, see section 5(b) of Pub. L. 89–572, set out as a note under former section 2515 of Title 22, Foreign Relations and Intercourse.
 
 #### Exclusion From Wages and Compensation of Refunds Required From Employers To Compensate for Duplication of Medicare Benefits by Health Care Benefits Provided by Employers
 
@@ -596,11 +596,11 @@ For purposes of applying this section with respect to the parenthetical matter c
 
 #### Services for Cooperatives Prior to 1951
 
-Section 110 of act Aug. 28, 1950, provided that: “In any case in which—
+Act Aug. 28, 1950, ch. 809, title I, §110, 64 Stat. 523, provided that: “In any case in which—
 
 &emsp;“(1) an individual has been employed at any time prior to 1951 by organizations enumerated in the first sentence of section 101(12) of the Internal Revenue Code \[1939\].
 
-&emsp;“(2) the service performed by such individual during the time he was so employed constituted agricultural labor as defined in section 209(<i>l</i>) of the Social Security Act \[former subsec. (<i>l</i>) of this section\] and section 1426(h) of the Internal Revenue Code \[1939\], as in effect prior to the enactment of this Act \[Aug. 28, 1950\], and such service would, but for the provisions of such sections, have constituted employment for the purposes of title II of the Social Security Act \[this subchapter\] and subchapter A of chapter 9 of such Code \[1939\].
+&emsp;“(2) the service performed by such individual during the time he was so employed constituted agricultural labor as defined in section 209(l) of the Social Security Act \[former subsec. (l) of this section\] and section 1426(h) of the Internal Revenue Code \[1939\], as in effect prior to the enactment of this Act \[Aug. 28, 1950\], and such service would, but for the provisions of such sections, have constituted employment for the purposes of title II of the Social Security Act \[this subchapter\] and subchapter A of chapter 9 of such Code \[1939\].
 
 &emsp;“(3) the taxes imposed by sections 1400 and 1410 of the Internal Revenue Code \[1939\] have been paid with respect to any part of the remuneration paid to such individual by such organization for such service and the payment of such taxes by such organization has been made in good faith upon the assumption that such service did not constitute agricultural labor as so defined, and
 
@@ -610,7 +610,7 @@ Section 110 of act Aug. 28, 1950, provided that: “In any case in which—
 
 #### Refunds or Credits for Overpayments
 
-Section 3 of act Apr. 20, 1948, provided that: “If any amount paid prior to the date of the enactment of this Act \[Apr. 20, 1948\] constitutes an overpayment of tax solely by reason of an amendment made by this Act \[amending this section\], no refund or credit shall be made or allowed with respect to the amount of such overpayment.”
+Act Apr. 20, 1948, ch. 222, §3, 62 Stat. 195, provided that: “If any amount paid prior to the date of the enactment of this Act \[Apr. 20, 1948\] constitutes an overpayment of tax solely by reason of an amendment made by this Act \[amending this section\], no refund or credit shall be made or allowed with respect to the amount of such overpayment.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be designated cls. (i) and (ii), respectively.</i>
 

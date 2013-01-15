@@ -64,7 +64,7 @@ The Secretary shall require the inspection of all intact and nonintact interior 
 
 #### (1) Transitional testing and abatement in public housing receiving modernization assistance
 
-&emsp;In the case of public housing assisted with capital assistance provided under section 1437gof this title, the Secretary shall require the inspection described in subsection (c) of this section for—
+&emsp;In the case of public housing assisted with capital assistance provided under section 1437g of this title, the Secretary shall require the inspection described in subsection (c) of this section for—
 
 &emsp;&emsp;(A) a random sample of dwellings and common areas in all public housing projects assisted under such section; and
 
@@ -76,7 +76,7 @@ The Secretary shall require the inspection of all intact and nonintact interior 
 
 #### (A) Abatement demonstration program
 
-&emsp;&emsp;In carrying out the requirements of this subsection with respect to single-family and multifamily properties owned by the Department of Housing and Urban Development and public housing, the Secretary shall utilize a sufficient variety of abatement methods in a sufficient number of areas and circumstances to demonstrate their relative cost-effectiveness and their applicability to various types of housing. For purposes of the demonstration, a public housing agency may elect to test for lead-based paint using atomic absorption spectroscopy and may elect to abate lead-based paint and dust containing lead under standards more stringent than that in subsection (c) of this section, including the abatement of lead-based paint and dust which exceeds the standard of lead permitted in paints by the Consumer Product Safety Commission under this chapter, and such abatement shall qualify for assistance under section 1437<i>l</i> <sup>1</sup> of this title.
+&emsp;&emsp;In carrying out the requirements of this subsection with respect to single-family and multifamily properties owned by the Department of Housing and Urban Development and public housing, the Secretary shall utilize a sufficient variety of abatement methods in a sufficient number of areas and circumstances to demonstrate their relative cost-effectiveness and their applicability to various types of housing. For purposes of the demonstration, a public housing agency may elect to test for lead-based paint using atomic absorption spectroscopy and may elect to abate lead-based paint and dust containing lead under standards more stringent than that in subsection (c) of this section, including the abatement of lead-based paint and dust which exceeds the standard of lead permitted in paints by the Consumer Product Safety Commission under this chapter, and such abatement shall qualify for assistance under section 1437l <sup>1</sup> of this title.
 
 #### (B) Report
 
@@ -94,7 +94,7 @@ The Secretary shall require the inspection of all intact and nonintact interior 
 
 &emsp;&emsp;&emsp;(vi) an estimate of the amount, characteristics, and regional distribution of housing in the United States that contains lead-based paint hazards at differing levels of contamination; and
 
-&emsp;&emsp;&emsp;(vii) the merits of an interim containment protocol for public housing dwellings that are determined to have lead-based paint hazards but for which comprehensive improvement assistance under section 1437<i>l</i> <sup>1</sup> of this title is not available.
+&emsp;&emsp;&emsp;(vii) the merits of an interim containment protocol for public housing dwellings that are determined to have lead-based paint hazards but for which comprehensive improvement assistance under section 1437l <sup>1</sup> of this title is not available.
 
 #### (3) Testing and abatement of other public housing
 
@@ -108,7 +108,7 @@ The Secretary shall require the inspection of all intact and nonintact interior 
 
 #### (B) Schedule
 
-&emsp;&emsp;The Secretary shall require the inspection of all housing subject to this paragraph priorto the expiration of 5 years after the report is required to be transmitted under paragraph (2)(B). The Secretary may prioritize, within such 5-year period, inspections on the basis of vacancy, age of housing, or projected modernization or rehabilitation. The Secretary shall require abatement and final inspection and certification of such housing in accordance with the last two sentences of paragraph (1).
+&emsp;&emsp;The Secretary shall require the inspection of all housing subject to this paragraph prior to the expiration of 5 years after the report is required to be transmitted under paragraph (2)(B). The Secretary may prioritize, within such 5-year period, inspections on the basis of vacancy, age of housing, or projected modernization or rehabilitation. The Secretary shall require abatement and final inspection and certification of such housing in accordance with the last two sentences of paragraph (1).
 
 #### (4) Report required
 
@@ -136,19 +136,19 @@ This section may not be construed to affect the responsibilities of the Environm
 
 #### References in Text
 
-Section 1437<i>l</i> of this title, referred to in subsec. (d)(2)(A), (B)(vii), was repealed by Pub. L. 105–276, title V, §522(a), Oct. 21, 1998, 112 Stat. 2564.
+Section 1437l of this title, referred to in subsec. (d)(2)(A), (B)(vii), was repealed by Pub. L. 105–276, title V, §522(a), Oct. 21, 1998, 112 Stat. 2564.
 
 For effective date of the regulations issued to carry out this subsection, referred to in subsec. (d)(2)(B), see section 566(b) of Pub. L. 100–242, set out as a note below.
 
 #### Amendments
 
-<b>1998</b>—Subsec. (d)(1). Pub. L. 105–276, §522(b)(4)(A), in introductory provisions, substituted “assisted with capital assistance provided under section 1437g of this title” for “assisted under section 1437<i>l</i> of this title” and, in concluding provisions, substituted “capital assistance provided under section 1437g of this title” for “assistance under section 1437<i>l</i> of this title”.
+<b>1998</b>—Subsec. (d)(1). Pub. L. 105–276, §522(b)(4)(A), in introductory provisions, substituted “assisted with capital assistance provided under section 1437g of this title” for “assisted under section 1437l of this title” and, in concluding provisions, substituted “capital assistance provided under section 1437g of this title” for “assistance under section 1437l of this title”.
 
-Subsec. (f). Pub. L. 105–276, §522(b)(4)(B), substituted “under the Capital Fund under section 1437g of this title” for “for comprehensive improvement assistance under section 1437<i>l</i> of this title”.
+Subsec. (f). Pub. L. 105–276, §522(b)(4)(B), substituted “under the Capital Fund under section 1437g of this title” for “for comprehensive improvement assistance under section 1437l of this title”.
 
 <b>1992</b>—Pub. L. 102–550, §1012(a)(1), amended section catchline generally.
 
-Subsec. (a). Pub. L. 102–550, §1012(a)(2)–(4), designated first sentence of subsec. (a) as par. (1), inserted heading, inserted before period at end of first sentence “or otherwise receives more than $5,000 in project-based assistance under a Federal housing program”, substituted “Beginning on January 1, 1995, such procedures shall apply to all such housing that constitutes target housing, as defined in section 4851b of this title, and shall provide for appropriate measures to conduct risk assessments, inspections, interim controls, and abatement of lead-based paint hazards. At a minimum, such procedures shall require—” and subpars. (A) to (G) for former second sentence of subsec. (a) which read as follows: “Such procedures shall apply to all such housing constructed or substantially rehabilitated prior to 1978 and shall as a minimum provide for (1) appropriate measures to eliminate as far as practicable immediate hazards due to the presence of accessible intact, intact, and nonintact interior and exterior painted surfaces that may contain lead in any such housing in which any child who is less than 7 years of age resides or is expected to reside, and (2) assured notification (using a brochure developed after consultation with the National Institute of Building Sciences) to purchasers and tenants of such housing of the hazards of lead based paint, of the symptoms and treatment of lead based paint poisoning, and of the importance and availability of maintenance and removal techniques for eliminating such hazards.”, and designated former third sentence of subsec. (a) as par. (2) and inserted heading.
+Subsec. (a). Pub. L. 102–550, §1012(a)(2)–(4), designated first sentence of subsec. (a) as par. (1), inserted heading, inserted before period at end of first sentence “or otherwise receives more than $5,000 in project-based assistance under a Federal housing program”, substituted “Beginning on January 1, 1995, such procedures shall apply to all such housing that constitutes target housing, as defined in section 4851b of this title, and shall provide for appropriate measures to conduct risk assessments, inspections, interim controls, and abatement of lead-based paint hazards. At a minimum, such procedures shall require—” and subpars. (A) to (G) for former second sentence of subsec. (a) which read as follows: “Such procedures shall apply to all such housing constructed or substantially rehabilitated prior to 1978 and shall as a minimum provide for (1) appropriate measures to eliminate as far as practicable immediate hazards due to the presence of accessible intact, intact, and nonintact interior and exterior painted surfaces that may contain lead in any such housing in which any child who is less than 7 years of age resides or isexpected to reside, and (2) assured notification (using a brochure developed after consultation with the National Institute of Building Sciences) to purchasers and tenants of such housing of the hazards of lead based paint, of the symptoms and treatment of lead based paint poisoning, and of the importance and availability of maintenance and removal techniques for eliminating such hazards.”, and designated former third sentence of subsec. (a) as par. (2) and inserted heading.
 
 Pub. L. 102–550, §1013, added pars. (3) and (4) and struck out former fourth sentence of subsec. (a) which read as follows: “Further, the Secretary shall establish and implement procedures to eliminate the hazards of lead based paint poisoning in all federally owned properties prior to the sale of such properties when their use is intended for residential habitation.”
 
@@ -162,11 +162,11 @@ Subsec. (c). Pub. L. 102–550, §1012(c), substituted “certified inspector”
 
 Subsec. (d)(1). Pub. L. 102–550, §1012(d), in heading, substituted “modernization” for “CIAP” and in fourth sentence, substituted “of lead-based paint and lead-based paint hazards” for “to eliminate the lead-based paint poisoning hazards”.
 
-<b>1988</b>—Pub. L. 100–242 designated existing provisions as subsec. (a) “General requirements”, substituted “housing constructed or substantially rehabilitated prior to 1978” for “housing constructed prior to 1950”, in cl. (1), substituted “accessible intact, intact, and nonintact interior and exterior painted surfaces that may contain lead in any such housing in which any child who is lessthan 7 years of age resides or is expected to reside” for “paint which may contain lead and to which children may be exposed”, in cl. (2), inserted “(using a brochure developed after consultation with the National Institute of Building Sciences)” after “notification”, and struck out after second sentence “Such procedures may apply to housing constructed during or after 1950 if the Secretary determines, in his discretion, that such housing presents hazards of lead based paint.”, and added subsecs. (b) to (f).
+<b>1988</b>—Pub. L. 100–242 designated existing provisions as subsec. (a) “General requirements”, substituted “housing constructed or substantially rehabilitated prior to 1978” for “housing constructed prior to 1950”, in cl. (1), substituted “accessible intact, intact, and nonintact interior and exterior painted surfaces that may contain lead in any such housing in which any child who is less than 7 years of age resides or is expected to reside” for “paint which may contain lead and to which children may be exposed”, in cl. (2), inserted “(using a brochure developed after consultation with the National Institute of Building Sciences)” after “notification”, and struck out after second sentence “Such procedures may apply to housing constructed during or after 1950 if the Secretary determines, in his discretion, that such housing presents hazards of lead based paint.”, and added subsecs. (b) to (f).
 
 Subsec. (c). Pub. L. 100–628, §1088(f), inserted “, atomic absorption spectroscopy,” after “fluorescence analyzer” in first sentence, and “or laboratory” after “inspector” in second sentence.
 
-Subsec. (d)(1). Pub. L. 100–628, §1088(a), substituted “Transitional testing and abatement in public housing receiving CIAP assistance” for “Public housing” in heading, substituted “section 1437<i>l</i> of this title” for “section 1437g of this title” in first sentence, added subpars. (A) and (B) and second and third sentences, inserted “, industrial hygienist, or local public health official” before period at end of last sentence, and struck out former subpars. (A) to (C) and second and third sentences which read as follows:
+Subsec. (d)(1). Pub. L. 100–628, §1088(a), substituted “Transitional testing and abatement in public housing receiving CIAP assistance” for “Public housing” in heading, substituted “section 1437l of this title” for “section 1437g of this title” in first sentence, added subpars. (A) and (B) and second and third sentences, inserted “, industrial hygienist, or local public health official” before period at end of last sentence, and struck out former subpars. (A) to (C) and second and third sentences which read as follows:
 
 &emsp;“(A) each vacant dwelling prior to rerenting;
 
@@ -178,7 +178,7 @@ Subsec. (d)(1). Pub. L. 100–628, §1088(a), substituted “Transitional testin
 
 Subsec. (d)(2). Pub. L. 100–628, §1088(b)(1), substituted “Abatement demonstration program” for “HUD-owned properties” in heading.
 
-Subsec. (d)(2)(A). Pub. L. 100–628, §1088(b)(2), inserted “and public housing” after “Urban Development”, and inserted at end “For purposes of the demonstration, a public housing agency may elect to test for lead-based paint using atomic absorption spectroscopy and may elect to abate lead-based paint and dust containing lead under standards more stringent than that in subsection (c) of this section, including the abatement of lead-based paint and dust which exceeds the standard of lead permitted in paints by the Consumer Product Safety Commission under this chapter, and such abatement shall qualify for assistance under section 1437<i>l</i> of this title.”
+Subsec. (d)(2)(A). Pub. L. 100–628, §1088(b)(2), inserted “and public housing” after “Urban Development”, and inserted at end “For purposes of the demonstration, a public housing agency may elect to test for lead-based paint using atomic absorption spectroscopy and may elect to abate lead-based paint and dust containing lead under standards more stringent than that in subsection (c) of this section, including the abatement of lead-based paint and dust which exceeds the standard of lead permitted in paints by the Consumer Product Safety Commission under this chapter, and such abatement shall qualify for assistance under section 1437l of this title.”
 
 Subsec. (d)(2)(B). Pub. L. 100–628, §1088(b)(3), in introductory provisions, inserted after first sentence “Based on the demonstration, the Secretary shall prepare and include in the report a comprehensive and workable plan for the cost-effective inspection and abatement of public housing in accordance with paragraph (3), including an estimate of the total cost of abatement in accordance with paragraph (3)(B).”
 
@@ -202,7 +202,7 @@ Amendment by title V of Pub. L. 105–276 effective and applicable beginning upo
 
 #### Effective Date
 
-Section 4(b) of Pub. L. 93–151 provided that: “The amendments made by subsection (a) of this section \[enacting this section\] become effective upon the expiration of ninety days following the date of enactment of this Act \[Nov. 9, 1973\].”
+Pub. L. 93–151, §4(b), Nov. 9, 1973, 87 Stat. 566, provided that: “The amendments made by subsection (a) of this section \[enacting this section\] become effective upon the expiration of ninety days following the date of enactment of this Act \[Nov. 9, 1973\].”
 
 #### Termination of Reporting Requirements
 
@@ -222,7 +222,7 @@ Pub. L. 100–404, title I, Aug. 19, 1988, 102 Stat. 1021, provided that: “Non
 
 #### Regulations and Consultation
 
-Section 566(b) of Pub. L. 100–242, as amended by Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 100–628, title X, §1088(g), Nov. 7, 1988, 102 Stat. 3282, provided that:
+Pub. L. 100–242, title V, §566(b), Feb. 5, 1988, 101 Stat. 1947, as amended by Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 100–628, title X, §1088(g), Nov. 7, 1988, 102 Stat. 3282, provided that:
 
 “(1)
 

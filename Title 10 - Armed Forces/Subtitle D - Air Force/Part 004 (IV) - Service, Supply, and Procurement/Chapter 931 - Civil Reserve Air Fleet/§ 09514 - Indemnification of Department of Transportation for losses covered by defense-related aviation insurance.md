@@ -26,7 +26,7 @@ Implementing Matters.—(1) Payment of indemnification under this section is not
 
 (e)
 
-Construction With Other Transfer Authority.—Authority to transfer funds under this section is in addition to any other authorityprovided by law to transfer funds (whether enacted before, on, or after the date of the enactment of this section) and is not subject to any dollar limitation or notification requirement contained in any other such authority to transfer funds.
+Construction With Other Transfer Authority.—Authority to transfer funds under this section is in addition to any other authority provided by law to transfer funds (whether enacted before, on, or after the date of the enactment of this section) and is not subject to any dollar limitation or notification requirement contained in any other such authority to transfer funds.
 
 \[(f) Repealed. Pub. L. 108–136, div. A, title X, §1031(a)(60)(B), Nov. 24, 2003, 117 Stat. 1603.\]
 

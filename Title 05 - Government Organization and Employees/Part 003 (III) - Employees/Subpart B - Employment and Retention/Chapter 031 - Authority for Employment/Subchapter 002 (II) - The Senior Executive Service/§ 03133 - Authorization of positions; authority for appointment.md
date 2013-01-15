@@ -40,7 +40,7 @@ The date of such Act, referred to in subsec. (e)(1), probably means Oct. 13, 197
 
 #### Conversion to Senior Executive Service
 
-Section 413 of Pub. L. 95–454 provided that:
+Pub. L. 95–454, title IV, §413, Oct. 13, 1978, 92 Stat. 1175, provided that:
 
 “(a) For the purpose of this section, ‘agency’, ‘Senior Executive Service position’, ‘career appointee’, ‘career reserved position’, ‘limited term appointee’, ‘noncareer appointee’, and ‘general position’ have the meanings set forth in section 3132(a) of title 5, United States Code (as added by this title) and ‘Senior Executive Service’ has the meaning set forth in section 2101a of such title 5 (as added by this title).
 
@@ -74,7 +74,7 @@ Section 413 of Pub. L. 95–454 provided that:
 
 > in a position which is designated as a Senior Executive Service position shall be appointed as a career appointee to such Senior Executive Service position without regard to section 3393(b)–(e) of title 5, United States Code (as added by this title).
 
-“(e) Each employee who has elected conversion to a Senior Executive Service position under subsection\(c)(1)(B) of this section and who is serving under an excepted appointment in a position which is not designated a career reserved position in the Senior Executive Service, but is—
+“(e) Each employee who has elected conversion to a Senior Executive Service position under subsection (c)(1)(B) of this section and who is serving under an excepted appointment in a position which is not designated a career reserved position in the Senior Executive Service, but is—
 
 &emsp;“(1) a position in Schedule C of subpart C of part 213 of title 5, Code of Federal Regulations;
 
@@ -102,5 +102,5 @@ Section 413 of Pub. L. 95–454 provided that:
 
 “(k) The Office shall prescribe regulations to carry out the purpose of this section.”
 
-Section 415(a)(2) of Pub. L. 95–454 provided that section 413 is effective Oct. 13, 1978.
+\[Pub. L. 95–454, title IV, §415(a)(2), Oct. 13, 1978, 92 Stat. 1179, provided that section 413 \[set out above\] is effective Oct. 13, 1978.\]
 

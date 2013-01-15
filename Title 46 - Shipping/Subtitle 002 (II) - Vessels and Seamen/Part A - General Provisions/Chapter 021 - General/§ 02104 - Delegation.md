@@ -24,7 +24,7 @@ Historical and Revision Notes
 
 46:689
 
-Section 2104 provides the Secretary with authority to delegate duties and powers to others. It also contains the authority to designate an officer or employee of the United States Customs Service to act in the place of a Coast Guard official.
+Section 2104 provides the Secretary with authority to delegate duties and powers to others. It also containsthe authority to designate an officer or employee of the United States Customs Service to act in the place of a Coast Guard official.
 
 #### Transfer of Functions
 

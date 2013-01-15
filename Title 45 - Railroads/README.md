@@ -1,6 +1,4 @@
 
-45 U.S.C.<br>United States Code, 2011 Edition<br>Title 45 - RAILROADS<br>From the U.S. Government Publishing Office, www.gpo.gov
-
 # TITLE 45—RAILROADS
 
 | Chap. |  | Sec. |

@@ -54,7 +54,7 @@ The regulations under subsection (b) of this section shall—
 
 &emsp;(2) require that an importer of a prescription drug under the regulations comply with subsections (d)(1) and (e) of this section; and
 
-&emsp;(3) contain any additional provisions determined by the Secretary to be appropriate as a safeguard to protect the public health or as a means to facilitate the importation of prescription drugs.
+&emsp;(3) contain any additional provisions determined by the Secretary to be appropriate as a safeguard to protect the public health or as ameans to facilitate the importation of prescription drugs.
 
 #### (d) Information and records
 
@@ -192,7 +192,7 @@ Notwithstanding any other provision of this section, section 381(d)(1) of this t
 
 Nothing in this section limits the authority of the Secretary relating to the importation of prescription drugs, other than with respect to section 381(d)(1) of this title as provided in this section.
 
-#### (<i>l</i>) Effectiveness of section
+#### (l) Effectiveness of section
 
 #### (1) Commencement of program
 

@@ -10,7 +10,7 @@ For purposes of subsection (a), taxable income shall be adjusted as follows:
 
 #### (1) Taxes
 
-&emsp;There shall be allowed as a deduction Federal income and excess profits taxes and income, war profits, and excess profits taxes of foreign countries and possessions of the United States (to the extent not allowable as a deduction under section 275(a)(4)), accrued during the taxable year or deemed to be paidby a domestic corporation under section 902(a) or 960(a)(1) for the taxable year, but not including the accumulated earnings tax imposed by section 531, the personal holding company tax imposed by section 541, or the taxes imposed by corresponding sections of a prior income tax law.
+&emsp;There shall be allowed as a deduction Federal income and excess profits taxes and income, war profits, and excess profits taxes of foreign countries and possessions of the United States (to the extent not allowable as a deduction under section 275(a)(4)), accrued during the taxable year or deemed to be paid by a domestic corporation under section 902(a) or 960(a)(1) for the taxable year, but not including the accumulated earnings tax imposed by section 531, the personal holding company tax imposed by section 541, or the taxes imposed by corresponding sections of a prior income tax law.
 
 #### (2) Charitable contributions
 
@@ -96,13 +96,13 @@ For purposes of subsection (a), taxable income shall be adjusted as follows:
 
 #### (10) Controlled foreign corporations
 
-&emsp;There shall be allowed as a deduction the amount of the corporation's income for the taxable year which is included in the gross income of a United States shareholder under section 951(a). In the case of any corporation the accumulated taxable income of which would (but for this sentence) be determined without allowance of any deductions, the deduction under this paragraph shall be allowed and shall be appropriately adjusted to take into account any deductions which reduced such inclusion.
+&emsp;There shall be allowed as a deduction the amount of the corporation's income for thetaxable year which is included in the gross income of a United States shareholder under section 951(a). In the case of any corporation the accumulated taxable income of which would (but for this sentence) be determined without allowance of any deductions, the deduction under this paragraph shall be allowed and shall be appropriately adjusted to take into account any deductions which reduced such inclusion.
 
 #### (c) Accumulated earnings credit
 
 #### (1) General rule
 
-&emsp;For purposes of subsection (a), in the case of a corporation other than a mere holding or investment company the accumulated earnings credit is (A) an amount equal to such part of the earnings and profits for the taxable year as are retained for the reasonable needs of the business, minus (B) the deduction allowed by subsection (b)(6). For purposes of this paragraph, the amount of the earnings and profitsfor the taxable year which are retained is the amount by which the earnings and profits for the taxable year exceed the dividends paid deduction (as defined in section 561) for such year.
+&emsp;For purposes of subsection (a), in the case of a corporation other than a mere holding or investment company the accumulated earnings credit is (A) an amount equal to such part of the earnings and profits for the taxable year as are retained for the reasonable needs of the business, minus (B) the deduction allowed by subsection (b)(6). For purposes of this paragraph, the amount of the earnings and profits for the taxable year which are retained is the amount by which the earnings and profits for the taxable year exceed the dividends paid deduction (as defined in section 561) for such year.
 
 #### (2) Minimum credit
 
@@ -208,13 +208,13 @@ Pub. L. 108–357, title IV, §402(c), Oct. 22, 2004, 118 Stat. 1492, provided t
 
 #### Effective Date of 1986 Amendment
 
-Section 1225(c) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1012(k), Nov. 10, 1988, 102 Stat. 3513, provided that: “The amendments made by this section \[amending this section and section 545 of this title\] shall apply to gains and losses realized on or after January 1, 1986.”
+Pub. L. 99–514, title XII, §1225(c), Oct. 22, 1986, 100 Stat. 2559, as amended by Pub. L. 100–647, title I, §1012(k), Nov. 10, 1988, 102 Stat. 3513, provided that: “The amendments made by this section \[amending this section and section 545 of this title\] shall apply to gains and losses realized on or after January 1, 1986.”
 
 #### Effective Date of 1984 Amendment
 
 Amendment by section 58(b) of Pub. L. 98–369 applicable to taxable years beginning after July 18, 1984, see section 58(c) of Pub. L. 98–369, set out as a note under section 532 of this title.
 
-Section 125(b) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–369, div. A, title I, §125(b), July 18, 1984, 98 Stat. 647, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 
@@ -226,7 +226,7 @@ Corporations in existence on may 23, 1983.—In the case of a United States-owne
 
 #### Effective Date of 1981 Amendment
 
-Section 232(c) of Pub. L. 97–34 provided that: “The amendments made by this section \[amending this section and sections 243, 1551, and 1561 of this title\] shall apply to taxable years beginning after December 31, 1981.”
+Pub. L. 97–34, title II, §232(c), Aug. 13, 1981, 95 Stat. 250, provided that: “The amendments made by this section \[amending this section and sections 243, 1551, and 1561 of this title\] shall apply to taxable years beginning after December 31, 1981.”
 
 #### Effective Date of 1976 Amendment
 
@@ -236,7 +236,7 @@ Amendment by section 1901(a)(74), (b)(20)(A), (32)(C), (33)(D) of Pub. L. 94–4
 
 #### Effective Date of 1975 Amendment
 
-Section 305(c) of Pub. L. 94–12 provided that: “The amendments made by section 304 \[amending this section and sections 243, 1551, and 1561 of this title\] apply to taxable years beginning after December 31, 1974.”
+Pub. L. 94–12, title III, §305(c), Mar. 29, 1975, 89 Stat. 45, provided that: “The amendments made by section 304 \[amending this section and sections 243, 1551, and 1561 of this title\] apply to taxable years beginning after December 31, 1974.”
 
 #### Effective Date of 1969 Amendment
 
@@ -258,7 +258,7 @@ Amendment by Pub. L. 87–403 applicable only with respect to distributions made
 
 Amendment by section 31 of Pub. L. 85–866 applicable to taxable years beginning after Dec. 31, 1953, and ending after Aug. 16, 1954, see section 1(c)(1) of Pub. L. 85–866, set out as a note under section 165 of this title.
 
-Section 205(b) of Pub. L. 85–866 provided that: “The amendments made by subsection (a) \[amending this section and section 1551 of this title\] shall apply with respect to taxable years beginning after December 31, 1957.”
+Pub. L. 85–866, title II, §205(b), Sept. 2, 1958, 72 Stat. 1680, provided that: “The amendments made by subsection (a) \[amending this section and section 1551 of this title\] shall apply with respect to taxable years beginning after December 31, 1957.”
 
 #### Savings Provision
 
@@ -266,5 +266,5 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before thefirst plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

@@ -116,3 +116,25 @@ In subsection (h), the text of section 8(b) (words before semicolon of the Hazar
 
 <b>2005</b>—Subsec. (a). Pub. L. 109–59 substituted “Secretary issues” for “Secretary of Transportation issues” in introductory provisions.
 
+#### Motor Carrier Safety Permits
+
+Pub. L. 112–141, div. C, title III, §33014, July 6, 2012, 126 Stat. 840, provided that:
+
+“(a)
+
+Review.—Not later than 1 year after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\], the Secretary \[of Transportation\] shall conduct a study of, and transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on, the implementation of the hazardous material safety permit program under section 5109 of title 49, United States Code. In conducting the study, the Secretary shall review, at a minimum—
+
+&emsp;“(1) the list of hazardous materials requiring a safety permit;
+
+&emsp;“(2) the number of permits that have been issued, denied, revoked, or suspended since inception of the program and the number of commercial motor carriers that have never had a permit denied, revoked, or suspended since inception of the program;
+
+&emsp;“(3) the reasons for such denials, revocations, or suspensions;
+
+&emsp;“(4) the criteria used by the Federal Motor Carrier Safety Administration to determine whether a hazardous material safety permit issued by a State is equivalent to the Federal permit; and
+
+&emsp;“(5) actions the Secretary could implement to improve the program, including whether to provide opportunities for an additional level of fitness review prior to the denial, revocation, or suspension of a safety permit.
+
+“(b)
+
+Actions Taken.—Not later than 2 years after the date of enactment of this Act, based on the study conducted under subsection (a), the Secretary shall either institute a rulemaking to make any necessary improvements to the hazardous materials safety permit program under section 5109 of title 49, United States Code or publish in the Federal Register the Secretary's justification for why a rulemaking is not necessary.”
+

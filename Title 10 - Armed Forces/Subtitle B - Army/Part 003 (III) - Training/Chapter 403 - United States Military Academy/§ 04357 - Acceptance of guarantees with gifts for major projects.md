@@ -14,7 +14,7 @@ Notice of Proposed Acceptance.—The Secretary of the Army may not accept a qual
 
 (d)
 
-Prohibition on Commingling of Funds.—The Secretary of the Army may not enter into any contract or other transaction involving theuse of a qualified guarantee and appropriated funds in the same contract or transaction.
+Prohibition on Commingling of Funds.—The Secretary of the Army may not enter into any contract or other transaction involving the use of a qualified guarantee and appropriated funds in the same contract or transaction.
 
 (e)
 
@@ -42,7 +42,7 @@ Qualified guarantee.—The term “qualified guarantee”, with respect to a maj
 
 &emsp;(3)
 
-Qualified account control agreement.—The term “qualified account control agreement”, with respect to a guarantee of a donor, means an agreement among the donor, the Secretary of the Army, and a major United States investment management firm that—
+Qualified account control agreement.—The term “qualified account controlagreement”, with respect to a guarantee of a donor, means an agreement among the donor, the Secretary of the Army, and a major United States investment management firm that—
 
 &emsp;&emsp;(A) ensures the availability of sufficient funds or other financial resources to pay the amount guaranteed during the period of the guarantee;
 

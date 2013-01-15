@@ -4,7 +4,7 @@ For purposes of sections 7142a to 7142d of this title:
 
 #### (1) Museum
 
-&emsp;The term “Museum” means the museum operated by the Secretary of Energy and located at 300 South Tulane Avenue in Oak Ridge, Tennessee.
+&emsp;The term “Museum” means the museum operated by the Secretary of Energy and locatedat 300 South Tulane Avenue in Oak Ridge, Tennessee.
 
 #### (2) Secretary
 

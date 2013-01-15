@@ -102,7 +102,7 @@ For purposes of this section—
 
 #### Effective Date of 1986 Amendment
 
-Section 802(c) of Pub. L. 99–514 provided that:
+Pub. L. 99–514, title VIII, §802(c), Oct. 22, 1986, 100 Stat. 2350, provided that:
 
 “(1)
 
@@ -114,5 +114,5 @@ Treatment of taxpayers who made elections under existing section 474.—The amen
 
 #### Effective Date
 
-Section 237(c) of Pub. L. 97–34 provided that: “The amendments made by this section \[enacting this section\] shall apply to taxable years beginning after December 31, 1981.”
+Pub. L. 97–34, title II, §237(c), Aug. 13, 1981, 95 Stat. 253, provided that: “The amendments made by this section \[enacting this section\] shall apply to taxable years beginning after December 31, 1981.”
 

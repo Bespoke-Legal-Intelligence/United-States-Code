@@ -26,7 +26,7 @@
 
 #### (1) Authority described
 
-&emsp;Notwithstanding any other provision of law (including any provision of law that sets forth an allowance for official expenses), the amount appropriated or otherwise made available during a Congress for the salaries and expenses of any office or authority described in paragraph (2) shall be the amount allocated for such office or authority by the Minority Leader of the House of Representatives from the aggregate amount appropriated or otherwise made available for all such offices and authorities.
+&emsp;Notwithstanding any other provision of law (including any provision of law that sets forth an allowance for official expenses), the amount appropriated or otherwise made available during a Congress for the salaries and expenses of any office or authority described in paragraph (2) shall be the amount allocated for such office or authority by the MinorityLeader of the House of Representatives from the aggregate amount appropriated or otherwise made available for all such offices and authorities.
 
 #### (2) Offices and authorities described
 

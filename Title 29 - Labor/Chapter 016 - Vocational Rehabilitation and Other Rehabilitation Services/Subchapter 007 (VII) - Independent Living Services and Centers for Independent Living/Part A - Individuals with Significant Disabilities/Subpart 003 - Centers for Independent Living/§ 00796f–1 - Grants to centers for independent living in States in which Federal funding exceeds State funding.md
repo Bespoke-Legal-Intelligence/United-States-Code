@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Unless the director of a designated State unit awards grants under section 796f–2 of this title to eligible agencies in a State for a fiscal year, the Commissioner shall award grants under this section to such eligible agencies for such fiscal year from the amount of funds allotted to the State under subsection (c) or (d) of section 796f of this title for such year.
+&emsp;Unless the director of a designated State unit awards grants under section 796f–2 of thistitle to eligible agencies in a State for a fiscal year, the Commissioner shall award grants under this section to such eligible agencies for such fiscal year from the amount of funds allotted to the State under subsection (c) or (d) of section 796f of this title for such year.
 
 #### (2) Grants
 

@@ -198,15 +198,15 @@ Pub. L. 105–200, title IV, §401(h)(3)(B), July 16, 1998, 112 Stat. 668, provi
 
 #### Effective Date of 1997 Amendment
 
-Section 5611(c) of Pub. L. 105–33 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to medical child support orders issued on or after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–33, title V, §5611(c), Aug. 5, 1997, 111 Stat. 647, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to medical child support orders issued on or after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
-Section 5612(b) of Pub. L. 105–33 provided that: “The amendment made by this section \[amending this section\] shall be effective as if included in the enactment of section 381 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (Public Law 104–193; 110 Stat. 2257).”
+Pub. L. 105–33, title V, §5612(b), Aug. 5, 1997, 111 Stat. 647, provided that: “The amendment made by this section \[amending this section\] shall be effective as if included in the enactment of section 381 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (Public Law 104–193; 110 Stat. 2257).”
 
-Section 5613(c) of Pub. L. 105–33 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to medical child support orders issued on or after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–33, title V, §5613(c), Aug. 5, 1997, 111 Stat. 648, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to medical child support orders issued on or after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 #### Effective Date of 1996 Amendment
 
-Section 381(b) of Pub. L. 104–193 provided that:
+Pub. L. 104–193, title III, §381(b), Aug. 22, 1996, 110 Stat. 2257, provided that:
 
 “(1)
 
@@ -304,7 +304,7 @@ Qualified medical child support order.—The term ‘qualified medical child sup
 
 Medical child support order.—The term ‘medical child support order’ means any judgment, decree, or order (including approval of a settlement agreement) which—
 
-&emsp;&emsp;&emsp;“(i) provides for child support with respect to a child of a participant under a church group health plan or provides for health benefit coverage to such a child, is made pursuant to a State domestic relations law (including a community property law), and relates to benefits under such plan; or
+&emsp;&emsp;&emsp;“(i) provides for child support with respect to a child of a participant under a church group health plan or provides for health benefit coverage tosuch a child, is made pursuant to a State domestic relations law (including a community property law), and relates to benefits under such plan; or
 
 &emsp;&emsp;&emsp;“(ii) is made pursuant to a law relating to medical child support described in section 1908 of the Social Security Act \[42 U.S.C. 1396g–1\] (as added by section 13822 \[13623\] of the Omnibus Budget Reconciliation Act of 1993 \[Pub. L. 103–66\]) with respect to a church group health plan,
 
@@ -368,7 +368,7 @@ National medical support notice deemed to be a qualified medical child support o
 
 &emsp;&emsp;&emsp;“(i)
 
-In general.—If the plan administrator of any church group health plan which is maintained by the employer of a parent of a child or to which such an employer contributes receives an appropriately completed National Medical Support Notice promulgated pursuant to subsection (b) of this section \[section 401(b) of Pub. L. 105–200, 42 U.S.C. 651 note\] in the case of suchchild, and the Notice meets the requirements of paragraphs (3) and (4) of this subsection, the Notice shall be deemed to be a qualified medical child support order in the case of such child.
+In general.—If the plan administrator of any church group health plan which is maintained by the employer of a parent of a child or to which such an employer contributes receives an appropriately completed National Medical Support Notice promulgated pursuant to subsection (b) of this section \[section 401(b) of Pub. L. 105–200, 42 U.S.C. 651 note\] in the case of such child, and the Notice meets the requirements of paragraphs (3) and (4) of this subsection, the Notice shall be deemed to be a qualified medical child support order in the case of such child.
 
 &emsp;&emsp;&emsp;“(ii)
 
@@ -388,7 +388,7 @@ Direct provision of benefits provided to alternate recipients.—Any payment for
 
 &emsp;“(7)
 
-Payment to state official treated as satisfaction of plan's obligation to make payment to alternate recipient.—Payment of benefits by a church group health plan to an official of a State or a political subdivision thereof whose name and address have been substituted for the address of an alternate recipient in a medical child support order, pursuant to paragraph (3)(A), shall be treated, for purposes of this subsection and part D of title IV of the Social Security Act \[42 U.S.C. 651 et seq.\], as payment of benefits to the alternate recipient.
+Payment to state official treated as satisfaction of plan's obligation to make payment to alternate recipient.—Payment of benefits by a church group health plan to an official of a State ora political subdivision thereof whose name and address have been substituted for the address of an alternate recipient in a medical child support order, pursuant to paragraph (3)(A), shall be treated, for purposes of this subsection and part D of title IV of the Social Security Act \[42 U.S.C. 651 et seq.\], as payment of benefits to the alternate recipient.
 
 &emsp;“(8)
 

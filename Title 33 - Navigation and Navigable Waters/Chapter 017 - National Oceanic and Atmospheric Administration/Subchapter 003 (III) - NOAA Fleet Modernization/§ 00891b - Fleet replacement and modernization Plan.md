@@ -26,7 +26,7 @@ The Plan required in subsection (a) of this section shall include the following�
 
 #### (d) Contracting limitation
 
-The Secretary may not enter into any contract for the construction, lease, or service lifeextension of a vessel of the NOAA fleet before the date of the submission to Congress of the Plan required in subsection (a) of this section.
+The Secretary may not enter into any contract for the construction, lease, or service life extension of a vessel of the NOAA fleet before the date of the submission to Congress of the Plan required in subsection (a) of this section.
 
 (Pub. L. 102–567, title VI, §604, Oct. 29, 1992, 106 Stat. 4300.)
 

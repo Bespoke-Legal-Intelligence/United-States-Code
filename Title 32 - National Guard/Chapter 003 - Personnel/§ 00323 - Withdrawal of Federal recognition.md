@@ -102,7 +102,7 @@ In subsection (e), the words “if appropriate” are omitted as surplusage.
 
 Subsecs. (d), (e). Pub. L. 103–337, §1630(2), added subsec. (d) and struck out former subsecs. (d) and (e) which read as follows:
 
-“(d) Except as provided in sections 1005 and 1006 of title 10, the Federal recognition of a second lieutenantof the Army National Guard who is discharged under section 3820(c) of title 10 for failure of promotion shall be withdrawn on the date of that discharge.
+“(d) Except as provided in sections 1005 and 1006 of title 10, the Federal recognition of a second lieutenant of the Army National Guard who is discharged under section 3820(c) of title 10 for failure of promotion shall be withdrawn on the date of that discharge.
 
 “(e) Except as provided in sections 1005 and 1006 of title 10, the Federal recognition of a reserve officer of the Air Force who is not recommended for promotion under section 8368(c)(1) or (2) of title 10, or who is found to be not qualified for Federal recognition under section 8368(d) or (e) of title 10, shall be withdrawn.”
 

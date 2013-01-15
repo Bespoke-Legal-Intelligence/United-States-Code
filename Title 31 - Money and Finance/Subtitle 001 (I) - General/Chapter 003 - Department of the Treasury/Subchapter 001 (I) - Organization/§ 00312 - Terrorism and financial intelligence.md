@@ -144,7 +144,7 @@ The date of enactment of this section, referred to in subsecs. (a)(1) and (e), i
 
 For the Bank Secrecy Act, referred to in subsec. (a)(4)(A), see Short Title note set out under section 1951 of Title 12, Banks and Banking, and Tables.
 
-Section 105 of the Intelligence Authorization Act for Fiscal Year 2004, referred to in subsec. (b)(4)(A), is section 105 of Pub. L. 108–177, title I, Dec. 13, 2003, 117 Stat. 2603, which enacted section 311 of this title. For complete classification of section 105 to the Code, see Tables.
+Section 105 of the Intelligence Authorization Act for Fiscal Year 2004, referred to in subsec. (b)(4)(A), is section 105 of Pub. L. 108–177, title I, Dec. 13, 2003, 117 Stat.2603, which enacted section 311 of this title. For complete classification of section 105 to the Code, see Tables.
 
 Section 9703 of title 31, referred to in subsec. (d), probably means the section 9703 of this title added by section 638(b)(1) of Pub. L. 102–393.
 

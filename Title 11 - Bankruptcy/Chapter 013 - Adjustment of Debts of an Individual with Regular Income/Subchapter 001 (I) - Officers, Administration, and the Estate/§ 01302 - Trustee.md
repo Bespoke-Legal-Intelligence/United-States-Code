@@ -34,7 +34,7 @@
 
 &emsp;(ii) include in the notice provided under clause (i) the name, address, and telephone number of such holder; and
 
-&emsp;(C) at such time as the debtor is granted a discharge under section 1328, provide writtennotice to such holder and to such State child support enforcement agency of—
+&emsp;(C) at such time as the debtor is granted a discharge under section 1328, provide written notice to such holder and to such State child support enforcement agency of—
 
 &emsp;&emsp;(i) the granting of the discharge;
 
@@ -80,7 +80,7 @@ Subsection (d) gives the trustee an additional duty if the debtor is engaged in 
 
 #### References in Text
 
-Chapter XIII of the Bankruptcy Act, referred to in subsec. (b)(3), is chapter XIII of act July 1, 1898, ch. 541, as added June 22, 1938, ch. 575, §1, 52 Stat. 930, which was classified to chapter 13 (§1001 et seq.) of former Title 11.
+Chapter XIII of the Bankruptcy Act, referred to in subsec. (b)(3), is chapter XIII of act July 1, 1898, ch. 541,as added June 22, 1938, ch. 575, §1, 52 Stat. 930, which was classified to chapter 13 (§1001 et seq.) of former Title 11.
 
 Sections 464 and 466 of the Social Security Act, referred to in subsec. (d)(1)(A)(i), are classified to sections 664 and 666, respectively, of Title 42, The Public Health and Welfare.
 
@@ -110,7 +110,7 @@ Pub. L. 99–554, §228(2), struck out subsec. (e) which read as follows:
 
 “(2) Such individual shall collect such percentage fee from all payments under plans in the cases under this chapter for which such individual serves as standing trustee. Such individual shall pay annually to the Treasury—
 
-&emsp;“(A) any amount by which the actual compensation received by such individual exceeds five percent of all such payments made under plans in cases under thischapter for which such individual serves as standing trustee; and
+&emsp;“(A) any amount by which the actual compensation received by such individual exceeds five percent of all such payments made under plans in cases under this chapter for which such individual serves as standing trustee; and
 
 &emsp;“(B) any amount by which the percentage fee fixed under paragraph (1)(B) of this subsection for all such cases exceeds—
 

@@ -14,7 +14,7 @@ Pub. L. 111–11, title V, §5002(a), Mar. 30, 2009, 123 Stat. 1147, provided th
 
 #### Short Title of 2006 Amendment
 
-Pub. L. 109–452, §1, Dec. 22, 2006, 120 Stat. 3363, provided that: “This Act \[amending section 1274 of thistitle and enacting provisions classified as a note under section 1274 of this title\] may be cited as the ‘Musconetcong Wild and Scenic Rivers Act’.”
+Pub. L. 109–452, §1, Dec. 22, 2006, 120 Stat. 3363, provided that: “This Act \[amending section 1274 of this title and enacting provisions classified as a note under section 1274 of this title\] may be cited as the ‘Musconetcong Wild and Scenic Rivers Act’.”
 
 Pub. L. 109–370, §1, Nov. 27, 2006, 120 Stat. 2643, provided that: “This Act \[amending section 1276 of this title\] may be cited as the ‘Lower Farmington River and Salmon Brook Wild and Scenic River Study Act of 2005’.”
 
@@ -94,9 +94,9 @@ Pub. L. 99–590, title II, §201, Oct. 30, 1986, 100 Stat. 3332, provided that:
 
 #### Short Title of 1972 Amendment
 
-Section 1 of Pub. L. 92–560, Oct. 25, 1972, 86 Stat. 1174, provided: “That this Act \[amending section 1274 of this title and enacting provisions classified as a note under section 1274 of this title\] may be cited as the ‘Lower Saint Croix River Act of 1972’.”
+Pub. L. 92–560, §1, Oct. 25, 1972, 86 Stat. 1174, provided: “That this Act \[amending section 1274 of this title and enacting provisions classified as a note under section 1274 of this title\] may be cited as the ‘Lower Saint Croix River Act of 1972’.”
 
 #### Short Title
 
-Section 1(a) of Pub. L. 90–542 provided that: “This Act \[enacting this chapter\] may be cited as the ‘Wild and Scenic Rivers Act’.”
+Pub. L. 90–542, §1(a), Oct. 2, 1968, 82 Stat. 906, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Wild and Scenic Rivers Act’.”
 

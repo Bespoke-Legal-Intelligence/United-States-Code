@@ -16,7 +16,7 @@
 
 (b)(1) An officer in a grade below brigadier general or rear admiral (lower half) who is recommended for early retirement under this section or section 638a of this title and whose early retirement is approved by the Secretary concerned shall—
 
-&emsp;(A) be retired, under any provision of law under which he is eligible to retire, on the date requested by him and approved by the Secretary concerned, which date shall be notlater than the first day of the seventh calendar month beginning after the month in which the Secretary concerned approves the report of the board which recommended the officer for early retirement; or
+&emsp;(A) be retired, under any provision of law under which he is eligible to retire, on the date requested by him and approved by the Secretary concerned, which date shall be not later than the first day of the seventh calendar month beginning after the month in which the Secretary concerned approves the report of the board which recommended the officer for early retirement; or
 
 &emsp;(B) if the officer is not eligible for retirement under any provision of law, be retained on active duty until he is qualified for retirement under section 3911, 6323, or 8911 of this title, and then be retired under that section, unless he is sooner retired or discharged under some other provision of law.
 

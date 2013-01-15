@@ -88,7 +88,7 @@ For purposes of this part, the items of tax preference determined under this sec
 
 #### (iv) Exception for refundings
 
-&emsp;&emsp;&emsp;For purposes of clause (i), the term “private activity bond” shall not include anyrefunding bond (whether a current or advance refunding) if the refunded bond (or in the case of a series of refundings, the original bond) was issued before August 8, 1986.
+&emsp;&emsp;&emsp;For purposes of clause (i), the term “private activity bond” shall not include any refunding bond (whether a current or advance refunding) if the refunded bond (or in the case of a series of refundings, the original bond) was issued before August 8, 1986.
 
 #### (v) Certain bonds issued before September 1, 1986
 
@@ -136,10 +136,6 @@ For purposes of paragraph (2) of subsection (a)—
 
 (Added Pub. L. 99–514, title VII, §701(a), Oct. 22, 1986, 100 Stat. 2333; amended Pub. L. 100–647, title I, §1007(b)(14)(B), (c), Nov. 10, 1988, 102 Stat. 3430, 3432; Pub. L. 101–508, title XI, §§11344, 11801(c)(12)(A), 11815(b)(3), Nov. 5, 1990, 104 Stat. 1388–472, 1388–527, 1388–558; Pub. L. 102–227, title I, §112, Dec. 11, 1991, 105 Stat. 1689; Pub. L. 102–486, title XIX, §1915(a)(1), (b)(1), Oct. 24, 1992, 106 Stat. 3023, 3024; Pub. L. 103–66, title XIII, §§13113(b)(1), 13171(a), Aug. 10, 1993, 107 Stat. 429, 454; Pub. L. 104–188, title I, §1616(b)(3), Aug. 20, 1996, 110 Stat. 1856; Pub. L. 105–34, title III, §311(b)(2)(B), Aug. 5, 1997, 111 Stat. 835; Pub. L. 105–206, title VI, §6005(d)(3), July 22, 1998, 112 Stat. 805; Pub. L. 108–27, title III, §301(b)(3), May 28, 2003, 117 Stat. 759; Pub. L. 110–289, div. C, title I, §3022(a)(1), July 30, 2008, 122 Stat. 2893; Pub. L. 111–5, div. B, title I, §1503(a), Feb. 17, 2009, 123 Stat. 354.)
 
-#### Amendment of Section
-
-<i>For termination of amendment by section 303 of Pub. L. 108–27, see Effective and Termination Dates of 2003 Amendment note below.</i>
-
 #### References in Text
 
 The date of the enactment of this clause, referred to in subsec. (a)(5)(C)(iii), is the date of enactment of Pub. L. 110–289, which was approved July 30, 2008.
@@ -156,7 +152,7 @@ A prior section 57, added Pub. L. 91–172, title III, §301(a), Dec. 30, 1969, 
 
 <b>2008</b>—Subsec. (a)(5)(C)(iii) to (v). Pub. L. 110–289 added cl. (iii) and redesignated former cls. (iii) and (iv) as (iv) and (v), respectively.
 
-<b>2003</b>—Subsec. (a)(7). Pub. L. 108–27, §§301(b)(3), 303, temporarily substituted “7 percent” for “42 percent” after “An amount equal to” and struck out last sentence which read as follows: “In the case of stock the holding period of which begins after December 31, 2000 (determined with the application of the last sentence of section 1(h)(2)(B)), the preceding sentence shall be applied by substituting ‘28 percent’ for ‘42 percent’.” See Effective and Termination Dates of 2003 Amendment note below.
+<b>2003</b>—Subsec. (a)(7). Pub. L. 108–27 substituted “7 percent” for “42 percent” after “An amount equal to” and struck out last sentence which read as follows: “In the case of stock the holding period of which begins after December 31, 2000 (determined with the application of the last sentence of section 1(h)(2)(B)), the preceding sentence shall be applied by substituting ‘28 percent’ for ‘42 percent’.”
 
 <b>1998</b>—Subsec. (a)(7). Pub. L. 105–206 inserted at end “In the case of stock the holding period of which begins after December 31, 2000 (determined with the application of the last sentence of section 1(h)(2)(B)), the preceding sentence shall be applied by substituting ‘28 percent’ for ‘42 percent’.”
 
@@ -184,7 +180,7 @@ Pub. L. 103–66, §13113(b)(1), added par. (8).
 
 Subsec. (a)(2)(E). Pub. L. 102–486, §1915(b)(1), added subpar. (E).
 
-<b>1991</b>—Subsec. (a)(6)(B). Pub. L. 102–227 inserted at end “In the case of a contribution made before July 1, 1992, in a taxable year beginning in 1992, such term shall not include any tangible personal property.”
+<b>1991</b>—Subsec. (a)(6)(B). Pub. L. 102–227 inserted at end “In the case of a contribution made before July 1, 1992,in a taxable year beginning in 1992, such term shall not include any tangible personal property.”
 
 <b>1990</b>—Subsec. (a)(2)(D)(ii). Pub. L. 101–508, §11815(b)(3), substituted “section 613(e)(2)” for “section 613(e)(3)”.
 
@@ -208,11 +204,9 @@ Amendment by Pub. L. 111–5 applicable to obligations issued after Dec. 31, 200
 
 Amendment by Pub. L. 110–289 applicable to bonds issued after July 30, 2008, see section 3022(d)(1) of Pub. L. 110–289, set out as a note under section 56 of this title.
 
-#### Effective and Termination Dates of 2003 Amendment
+#### Effective Date of 2003 Amendment
 
-Amendment by Pub. L. 108–27 applicable to dispositions on or after May 6, 2003, see section 301(d)(3) of Pub. L. 108–27, set out as a note under section 1 of this title.
-
-Amendment by Pub. L. 108–27 inapplicable to taxable years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 303 of Pub. L. 108–27, as amended, set out as a note under section 1 of this title.
+Amendment by Pub. L. 108–27 applicable to dispositions on or after May 6, 2003, see section 301(d)(3) of Pub. L. 108–27, set out as an Effective and Termination Dates of 2003 Amendment note under section 1 of this title.
 
 #### Effective Date of 1998 Amendment
 
@@ -252,7 +246,7 @@ For provisions that nothing in amendment by sections 11801 and 11815 of Pub. L. 
 
 #### Transitional Provisions
 
-Section 1007(f)(4) of Pub. L. 100–647 provided that:
+Pub. L. 100–647, title I, §1007(f)(4), Nov. 10, 1988, 102 Stat. 3433, provided that:
 
 “(A) If any property to which this paragraph applies is placed in service in a taxable year which begins before January 1, 1987, and ends on or after August 1, 1986, the item of tax preference determined under section 57(a) of the Internal Revenue Code of 1954 (as in effect on the day before the date of the enactment of the Tax Reform Act of 1986 \[Oct. 22, 1986\]) with respect to such property shall be the excess of—
 

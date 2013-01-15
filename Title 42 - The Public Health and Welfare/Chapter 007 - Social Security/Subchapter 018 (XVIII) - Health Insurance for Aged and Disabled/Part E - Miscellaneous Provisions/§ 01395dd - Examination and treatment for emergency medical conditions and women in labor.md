@@ -2,7 +2,7 @@
 
 #### (a) Medical screening requirement
 
-In the case of a hospital that has a hospital emergency department, if any individual\(whether or not eligible for benefits under this subchapter) comes to the emergency department and a request is made on the individual's behalf for examination or treatment for a medical condition, the hospital must provide for an appropriate medical screening examination within the capability of the hospital's emergency department, including ancillary services routinely available to the emergency department, to determine whether or not an emergency medical condition (within the meaning of subsection (e)(1) of this section) exists.
+In the case of a hospital that has a hospital emergency department, if any individual (whether or not eligible for benefits under this subchapter) comes to the emergency department and a request is made on the individual's behalf for examination or treatment for a medical condition, the hospital must provide for an appropriate medical screening examination within the capability of the hospital's emergency department, including ancillary services routinely available to the emergency department, to determine whether or not an emergency medical condition (within the meaning of subsection (e)(1) of this section) exists.
 
 #### (b) Necessary stabilizing treatment for emergency medical conditions and labor
 
@@ -50,7 +50,7 @@ In the case of a hospital that has a hospital emergency department, if any indiv
 
 &emsp;&emsp;&emsp;(ii) has agreed to accept transfer of the individual and to provide appropriate medical treatment;
 
-&emsp;&emsp;(C) in which the transferring hospital sends to the receiving facility all medical records (or copies thereof), related to the emergency condition for which the individual has presented, available at the time of the transfer, including records related to the individual's emergency medical condition, observations of signs or symptoms, preliminary diagnosis, treatment provided, results of any tests and the informed written consent or certification (or copy thereof) provided under paragraph (1)(A), and the name and address of any on-call physician (described in subsection (d)(1)(C) of this section) who has refused or failed to appear within a reasonable time to provide necessary stabilizing treatment;
+&emsp;&emsp;(C) in which the transferring hospital sends to the receiving facility all medicalrecords (or copies thereof), related to the emergency condition for which the individual has presented, available at the time of the transfer, including records related to the individual's emergency medical condition, observations of signs or symptoms, preliminary diagnosis, treatment provided, results of any tests and the informed written consent or certification (or copy thereof) provided under paragraph (1)(A), and the name and address of any on-call physician (described in subsection (d)(1)(C) of this section) who has refused or failed to appear within a reasonable time to provide necessary stabilizing treatment;
 
 &emsp;&emsp;(D) in which the transfer is effected through qualified personnel and transportation equipment, as required including the use of necessary and medically appropriate life support measures during the transfer; and
 
@@ -102,7 +102,7 @@ In this section:
 
 &emsp;&emsp;(A) a medical condition manifesting itself by acute symptoms of sufficient severity (including severe pain) such that the absence of immediate medical attention could reasonably be expected to result in—
 
-&emsp;&emsp;&emsp;(i) placing the health of the individual (or, with respect to a pregnant woman, thehealth of the woman or her unborn child) in serious jeopardy,
+&emsp;&emsp;&emsp;(i) placing the health of the individual (or, with respect to a pregnant woman, the health of the woman or her unborn child) in serious jeopardy,
 
 &emsp;&emsp;&emsp;(ii) serious impairment to bodily functions, or
 
@@ -144,7 +144,7 @@ A participating hospital may not penalize or take adverse action against a quali
 
 #### Prior Provisions
 
-A prior section 1395dd, act Aug. 14, 1935, ch. 531, title XVIII, §1867, as added July 30, 1965, Pub. L. 89–97, title I, §102(a), 79 Stat. 329; amended Jan. 2, 1968, Pub. L. 90–248, title I, §164(a), 81 Stat. 873; Oct. 30, 1972, Pub. L. 92–603, title II, §288, 86 Stat. 1457, related to creation, composition, meetings, and functions of the Health Insurance Benefits Advisory Council and the appointment of a Chairman and members thereto, and qualifications, terms of office, compensation, and reimbursement of travel expenses of members, prior to repeal by Pub. L. 98–369, div. B, title III, §2349(a), July 18, 1984, 98 Stat. 1097, eff. July 18, 1984.
+A prior section 1395dd, act Aug. 14, 1935, ch. 531, title XVIII, §1867, as added July 30, 1965, Pub. L. 89–97, title I, §102(a), 79 Stat. 329; amended Jan. 2, 1968, Pub. L. 90–248, title I, §164(a), 81 Stat. 873; Oct. 30, 1972, Pub. L. 92–603, title II, §288, 86 Stat. 1457, related to creation, composition, meetings, and functions of the Health Insurance Benefits Advisory Council and the appointment of a Chairman and members thereto, and qualifications, terms of office, compensation, and reimbursement of travel expenses of members, prior to repeal byPub. L. 98–369, div. B, title III, §2349(a), July 18, 1984, 98 Stat. 1097, eff. July 18, 1984.
 
 #### Amendments
 
@@ -152,7 +152,7 @@ A prior section 1395dd, act Aug. 14, 1935, ch. 531, title XVIII, §1867, as adde
 
 <b>2003</b>—Subsec. (d)(1)(B). Pub. L. 108–173, §736(a)(14)(A), substituted “if the violation is” for “if the violation is is” in concluding provisions.
 
-Subsec. (d)(3). Pub. L. 108–173, §944(c)(1), inserted “or in terminating a hospital's participation under this subchapter” after “in imposing sanctions under paragraph (1)” and inserted at end “Except in the case in which a delay would jeopardize the health or safety of individuals, the Secretary shall also request such a review before making a compliance determination as part of the process of terminating a hospital's participation under this subchapter for violations related to the appropriateness of a medical screening examination, stabilizing treatment, or an appropriate transfer as required by this section, and shall provide a period of 5 days for such review. The Secretary shall provide acopy of the organization's report to the hospital or physician consistent with confidentiality requirements imposed on the organization under such part B.”
+Subsec. (d)(3). Pub. L. 108–173, §944(c)(1), inserted “or in terminating a hospital's participation under this subchapter” after “in imposing sanctions under paragraph (1)” and inserted at end “Except in the case in which a delay would jeopardize the health or safety of individuals, the Secretary shall also request such a review before making a compliance determination as part of the process of terminating a hospital's participation under this subchapter for violations related to the appropriateness of a medical screening examination, stabilizing treatment, or an appropriate transfer as required by this section, and shall provide a period of 5 days for such review. The Secretary shall provide a copy of the organization's report to the hospital or physician consistent with confidentiality requirements imposed on the organization under such part B.”
 
 Subsec. (d)(4). Pub. L. 108–173, §944(b), added par. (4).
 
@@ -212,13 +212,13 @@ Subsec. (c)(2)(A). Pub. L. 101–239, §6211(c)(5), added subpar. (A). Former su
 
 Subsec. (c)(2)(B). Pub. L. 101–239, §6211(c)(5)(A), (g)(1)(B), redesignated subpar. (A) as (B) and substituted “the individual” for “the patient” in cls. (i) and (ii). Former subpar. (B) redesignated (C).
 
-Subsec. (c)(2)(C). Pub. L. 101–239, §6211(c)(5)(A), (d), redesignated subpar. (B) as (C) and substituted “sends to” for “provides” and “all medical records (or copies thereof), related to the emergency condition for which the individual has presented, available at the time of the transfer, including records related to the individual's emergency medical condition, observations of signs or symptoms, preliminary diagnosis, treatment provided, results of any tests and the informed written consent or certification (or copy thereof) provided under paragraph (1)(A), and the name and address of any on-call physician (described in subsection (d)(2)(C) of this section) who has refused or failed to appear within a reasonable time to provide necessary stabilizing treatment” for “with appropriate medical records (or copies thereof) of the examination and treatment effected at the transferring hospital”. Former subpar. (C) redesignated (D).
+Subsec. (c)(2)(C). Pub. L. 101–239, §6211(c)(5)(A), (d), redesignated subpar. (B) as (C) and substituted “sends to” for “provides” and “all medical records (or copies thereof), related to the emergency condition for which the individual has presented, available at the time of the transfer, including records related to the individual's emergency medical condition, observations of signs or symptoms, preliminary diagnosis, treatmentprovided, results of any tests and the informed written consent or certification (or copy thereof) provided under paragraph (1)(A), and the name and address of any on-call physician (described in subsection (d)(2)(C) of this section) who has refused or failed to appear within a reasonable time to provide necessary stabilizing treatment” for “with appropriate medical records (or copies thereof) of the examination and treatment effected at the transferring hospital”. Former subpar. (C) redesignated (D).
 
 Subsec. (c)(2)(D). Pub. L. 101–239, §6211(c)(5)(A), redesignated subpar. (C) as (D). Former subpar. (D) redesignated (E).
 
 Subsec. (c)(2)(E). Pub. L. 101–239, §6211(c)(5)(A), (g)(1)(B), redesignated subpar. (D) as (E) and substituted “individuals” for “patients”.
 
-Subsec. (d)(2)(B). Pub. L. 101–239, §6211(e)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “The responsible physician in a participating hospital with respect to the hospital's violation of a requirement of this subsection is subject to the sanctions described in section 1395u(j)(2) of this title, except that, for purposes of this subparagraph, the civilmoney penalty with respect to each violation may not exceed $50,000, rather than $2,000.”
+Subsec. (d)(2)(B). Pub. L. 101–239, §6211(e)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “The responsible physician in a participating hospital with respect to the hospital's violation of a requirement of this subsection is subject to the sanctions described in section 1395u(j)(2) of this title, except that, for purposes of this subparagraph, the civil money penalty with respect to each violation may not exceed $50,000, rather than $2,000.”
 
 Subsec. (d)(2)(C). Pub. L. 101–239, §6211(e)(2), added subpar. (C) and struck out former subpar. (C) which read as follows: “As used in this paragraph, the term ‘responsible physician’ means, with respect to a hospital's violation of a requirement of this section, a physician who—
 
@@ -284,13 +284,13 @@ Amendment by section 4008(b)(1)–(3)(A) of Pub. L. 101–508 applicable to acti
 
 Amendment by section 4207(a)(1)(A) of Pub. L. 101–508 effective on the first day of the first month beginning more than 60 days after Nov. 5, 1990, see section 4207(a)(1)(C) of Pub. L. 101–508, as amended, set out as a note under section 1320c–3 of this title.
 
-Section 4207(a)(4), formerly 4027(a)(4), of Pub. L. 101–508, as renumbered and amended by Pub. L. 103–432, title I, §160(d)(4), (5)(B), Oct. 31, 1994, 108 Stat. 4444, provided that: “The amendments made by paragraphs (2) and (3) \[amending this section\] shall apply to actions occurring on or after the first day of the sixth month beginning after the date of the enactment of this Act \[Nov. 5, 1990\].”
+Pub. L. 101–508, title IV, §4207(a)(4), formerly §4027(a)(4), Nov. 5, 1990, 104 Stat. 1388–118, as renumbered and amended by Pub. L. 103–432, title I, §160(d)(4), (5)(B), Oct. 31, 1994, 108 Stat. 4444, provided that: “The amendments made by paragraphs (2) and (3) \[amending this section\] shall apply to actions occurring on or after the first day of the sixth month beginning after the date of the enactment of this Act \[Nov. 5, 1990\].”
 
 #### Effective Date of 1989 Amendment
 
-Section 6211(i) of Pub. L. 101–239 provided that: “The amendments made by this section \[amending this section\] shall take effect on the first day of the first month that begins more than 180 days after the date of the enactment of this Act \[Dec. 19, 1989\], without regard to whether regulations to carry out such amendments have been promulgated by such date.”
+Pub. L. 101–239, title VI, §6211(i), Dec. 19, 1989, 103 Stat. 2249, provided that: “The amendments made by this section \[amending this section\] shall take effect on the first day of the first month that begins more than 180 days after the date of the enactment of this Act \[Dec. 19, 1989\], without regard to whether regulations tocarry out such amendments have been promulgated by such date.”
 
-#### Effective Date of 1988 Amendments
+#### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–485 effective as if included in the enactment of the Medicare Catastrophic Coverage Act of 1988, Pub. L. 100–360, see section 608(g)(1) of Pub. L. 100–485, set out as a note under section 704 of this title.
 
@@ -298,7 +298,7 @@ Except as specifically provided in section 411 of Pub. L. 100–360, amendment b
 
 #### Effective Date of 1987 Amendment
 
-Section 4009(a)(2), formerly §4009(a)(3), of Pub. L. 100–203, as redesignated by Pub. L. 100–360, title IV, §411(b)(8)(A)(ii), July 1, 1988, 102 Stat. 772, provided that: “The amendments made by this subsection\[amending this section\] shall apply to actions occurring on or after the date of the enactment of this Act \[Dec. 22, 1987\].”
+Pub. L. 100–203, title IV, §4009(a)(2), formerly §4009(a)(3), Dec. 22, 1987, 101 Stat. 1330–57, as redesignated by Pub. L. 100–360, title IV, §411(b)(8)(A)(ii), July 1, 1988, 102 Stat. 772, provided that: “The amendments made by this subsection \[amending this section\] shall apply to actions occurring on or after the date of the enactment of this Act \[Dec. 22, 1987\].”
 
 #### Effective Date of 1986 Amendment
 
@@ -306,7 +306,7 @@ Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if inc
 
 #### Effective Date
 
-Section 9121(c) of Pub. L. 99–272 provided that: “The amendments made by this section \[enacting this section and amending section 1395cc of this title\] shall take effect on the first day of the first month that begins at least 90 days after the date of the enactment of this Act \[Apr. 7, 1986\].”
+Pub. L. 99–272, title IX, §9121(c), Apr. 7, 1986, 100 Stat. 167, provided that: “The amendments made by this section \[enacting this section and amending section 1395cc of this title\] shall take effect on the first day of the first month that begins at least 90 days after the date of the enactment of this Act \[Apr. 7, 1986\].”
 
 #### Short Title
 
@@ -530,7 +530,7 @@ State.—The term ‘State’ means the 50 States and the District of Columbia.�
 
 #### Inspector General Study of Prohibition on Hospital Employment of Physicians
 
-Section 4008(c) of Pub. L. 101–508 directed Secretary of Health and Human Services (acting through Inspector General of Department of Health and Human Services) to conduct a study of the effect of State laws prohibiting the employment of physicians by hospitals on the availability and accessibility of trauma and emergency care services, and include in such study an analysis of the effect of such laws on the ability of hospitals to meet the requirements of section 1867 of the Social Security Act (this section) relating to the examination and treatment of individuals with an emergency medical condition and women in labor, with Secretary to submit a report to Congress on the study not later than 1 year after Nov. 5, 1990.
+Pub. L. 101–508, title IV, §4008(c), Nov. 5, 1990, 104 Stat. 1388–44, directed Secretary of Health and Human Services (acting through Inspector General of Department of Health and Human Services) to conduct a study of the effect of State laws prohibiting the employment of physicians by hospitals on the availability and accessibility of trauma and emergency care services, and include in such study an analysis of the effect of such laws on the ability of hospitals to meet the requirements of section 1867 of the Social Security Act (this section) relating to the examination and treatment of individuals with an emergency medical condition and women in labor, with Secretary to submit a report to Congress on the study not later than 1 year after Nov. 5, 1990.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

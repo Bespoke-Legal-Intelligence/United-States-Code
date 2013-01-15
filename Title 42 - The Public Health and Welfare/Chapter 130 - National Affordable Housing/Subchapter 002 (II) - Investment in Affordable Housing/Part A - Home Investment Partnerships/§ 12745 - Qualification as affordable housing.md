@@ -54,7 +54,7 @@
 
 Housing that is for homeownership shall qualify as affordable housing under this subchapter only if the housing—
 
-&emsp;(1) has an initial purchase price that does not exceed 95 percent of the median purchase price for the area, as determined by the Secretary with such adjustments for differences in structure, including whether the housing issingle-family or multifamily, and for new and old housing as the Secretary determines to be appropriate;
+&emsp;(1) has an initial purchase price that does not exceed 95 percent of the median purchase price for the area, as determined by the Secretary with such adjustments for differences in structure, including whether the housing is single-family or multifamily, and for new and old housing as the Secretary determines to be appropriate;
 
 &emsp;(2) is the principal residence of an owner whose family qualifies as a low-income family—
 
@@ -76,7 +76,7 @@ Housing that is for homeownership shall qualify as affordable housing under this
 
 &emsp;(4) if newly constructed, meets the energy efficiency standards promulgated by the Secretary in accordance with section 12709 of this title.
 
-(Pub. L. 101–625, title II, §215, Nov. 28, 1990, 104 Stat. 4101; Pub. L. 102–550, title II, §§208, 209, Oct. 28, 1992, 106 Stat. 3754; Pub. L. 103–233, title II, §203, Apr. 11, 1994, 108 Stat. 364; Pub. L. 105–276, title V, §599B(b), Oct. 21, 1998, 112 Stat. 2660; Pub. L. 106–569, title IX, §904, Dec. 27, 2000, 114 Stat. 3027.)
+(Pub. L. 101–625, title II, §215, Nov. 28, 1990, 104 Stat. 4101; Pub. L. 102–550, title II, §§208, 209, Oct. 28, 1992, 106 Stat. 3754; Pub. L. 103–233, title II, §203, Apr. 11, 1994, 108 Stat. 364; Pub. L. 105–276, title V, §599B(b), Oct. 21, 1998, 112 Stat. 2660; Pub.L. 106–569, title IX, §904, Dec. 27, 2000, 114 Stat. 3027.)
 
 #### References in Text
 

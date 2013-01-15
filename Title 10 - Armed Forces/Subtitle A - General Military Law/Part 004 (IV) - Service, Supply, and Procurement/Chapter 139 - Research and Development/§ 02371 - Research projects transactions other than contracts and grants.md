@@ -160,7 +160,7 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 #### Authority of Defense Advanced Research Projects Agency To Carry Out Certain Prototype Projects
 
-Pub. L. 103–160, div. A, title VIII, §845, Nov. 30, 1993, 107 Stat. 1721, as amended by Pub. L. 104–201, div. A, title VIII, §804, title X, §1073(e)(1)(D), (2)(A), Sept. 23, 1996, 110 Stat. 2605, 2658; Pub. L. 105–261, div. A, title II, §241, Oct. 17, 1998, 112 Stat. 1954; Pub. L. 106–65, div. A, title VIII, §801, title X, §1066(d)(6), Oct. 5, 1999, 113 Stat. 700, 773; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §§803, 804(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–205, 1654A–206; Pub. L. 107–107, div. A, title VIII, §822, title X, §1048(i)(2), Dec. 28, 2001, 115 Stat. 1182, 1229; Pub. L. 108–136, div. A, title VIII, §847, Nov. 24, 2003, 117 Stat. 1554; Pub. L. 109–163, div. A, title VIII, §823, Jan. 6, 2006, 119 Stat. 3387; Pub. L. 109–364, div. A, title VIII, §855, Oct. 17, 2006, 120 Stat. 2347; Pub. L. 110–181, div. A, title VIII, §823, title X, §1063(h), Jan. 28, 2008, 122 Stat. 226, 324; Pub. L. 110–417, \[div. A\], title VIII, §824, Oct. 14, 2008, 122 Stat. 4533; Pub. L. 111–383, div. A, title VIII, §§826, 866(g)(2), Jan. 7, 2011, 124 Stat. 4270, 4298, provided that:
+Pub. L. 103–160, div. A, title VIII, §845, Nov. 30, 1993, 107 Stat. 1721, as amended by Pub. L. 104–201, div. A, title VIII, §804, title X, §1073(e)(1)(D), (2)(A), Sept. 23, 1996, 110 Stat. 2605, 2658; Pub. L. 105–261, div. A, title II, §241, Oct. 17, 1998, 112 Stat. 1954; Pub. L. 106–65, div. A, title VIII, §801, title X, §1066(d)(6), Oct. 5, 1999, 113 Stat. 700, 773; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §§803, 804(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–205, 1654A–206; Pub. L. 107–107, div. A, title VIII, §822, title X, §1048(i)(2), Dec. 28, 2001, 115 Stat. 1182, 1229; Pub. L. 108–136, div. A, title VIII, §847, Nov. 24, 2003, 117 Stat. 1554; Pub. L. 109–163, div. A, title VIII, §823, Jan. 6, 2006, 119 Stat. 3387; Pub. L. 109–364, div. A, title VIII, §855, Oct. 17, 2006, 120 Stat. 2347; Pub. L. 110–181, div. A, title VIII, §823, title X, §1063(h), Jan. 28, 2008, 122 Stat. 226, 324; Pub. L. 110–417, \[div. A\], title VIII, §824, Oct. 14, 2008, 122 Stat. 4533; Pub. L. 111–383, div. A, title VIII, §§826, 866(g)(2), Jan. 7, 2011, 124 Stat. 4270, 4298; Pub. L. 112–239, div. A, title VIII, §863, Jan. 2, 2013, 126 Stat. 1860, provided that:
 
 “(a)
 
@@ -272,5 +272,5 @@ Applicability of Procurement Ethics Requirements.—An agreement entered into un
 
 “(i)
 
-Period of Authority.—The authority to carry out projects under subsection (a) shall terminate at the end of September 30, 2013.”
+Period of Authority.—The authority to carry out projects under subsection (a) shall terminate at the end of September 30, 2018.”
 

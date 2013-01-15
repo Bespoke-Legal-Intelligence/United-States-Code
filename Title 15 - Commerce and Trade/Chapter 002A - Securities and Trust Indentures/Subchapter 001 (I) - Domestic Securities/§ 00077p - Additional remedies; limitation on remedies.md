@@ -52,7 +52,7 @@ Any covered class action brought in any State court involving a covered security
 
 #### (4) Remand of removed actions
 
-&emsp;In an action that has been removed from a State court pursuant to subsection (c) of thissection, if the Federal court determines that the action may be maintained in State court pursuant to this subsection, the Federal court shall remand such action to such State court.
+&emsp;In an action that has been removed from a State court pursuant to subsection (c) of this section, if the Federal court determines that the action may be maintained in State court pursuant to this subsection, the Federal court shall remand such action to such State court.
 
 #### (e) Preservation of State jurisdiction
 
@@ -98,9 +98,13 @@ For purposes of this section, the following definitions shall apply:
 
 #### (3) Covered security
 
-&emsp;The term “covered security” means a security that satisfies the standards for a covered security specified in paragraph (1) or (2) of section 77r(b) of this title at the time during which it is alleged that the misrepresentation, omission, or manipulative or deceptive conduct occurred, except that such term shall not include any debt security that is exempt from registration under this subchapter pursuant to rules issued by the Commission under section 77d(2) of this title.
+&emsp;The term “covered security” means a security that satisfies the standards for a covered security specified in paragraph (1) or (2) of section 77r(b) of this title at the time during which it is alleged that the misrepresentation, omission, or manipulative or deceptive conduct occurred, except that such term shall not include any debt security that is exempt from registration under this subchapter pursuant to rules issued by the Commission under section 77d(2) <sup>1</sup> of this title.
 
 (May 27, 1933, ch. 38, title I, §16, 48 Stat. 84; Pub. L. 105–353, title I, §101(a)(1), Nov. 3, 1998, 112 Stat. 3227.)
+
+#### References in Text
+
+Section 77d(2) of this title, referred to in subsec. (f)(3), was redesignated section 77d(a)(2) of this title by Pub. L. 112–106, title II, §201(b)(1), (c)(1), Apr. 5, 2012, 126 Stat. 314.
 
 #### Amendments
 
@@ -109,4 +113,6 @@ For purposes of this section, the following definitions shall apply:
 #### Effective Date of 1998 Amendment
 
 Pub. L. 105–353, title I, §101(c), Nov. 3, 1998, 112 Stat. 3233, provided that: “The amendments made by this section \[amending this section and sections 77v, 77z–1, 78u–4, and 78bb of this title\] shall not affect or apply to any action commenced before and pending on the date of enactment of this Act \[Nov. 3, 1998\].”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

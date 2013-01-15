@@ -26,7 +26,7 @@
 
 #### Effective Date; Regulations
 
-Section 806(c)(3) of Pub. L. 99–399 provided that:
+Pub. L. 99–399, title VIII, §806(c)(3), Aug. 27, 1986, 100 Stat. 886, provided that:
 
 “(A) Section 1095 \[now 1095a\] of title 10, United States Code, as added by paragraph (1), shall apply with respect to any person whose captive status begins after January 21, 1981.
 

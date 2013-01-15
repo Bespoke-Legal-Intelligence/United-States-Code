@@ -50,7 +50,7 @@
 
 &emsp;&emsp;(ii) who is 22 years of age or older and is incapable of self-support because of a mental or physical disability which existed before the child became 22 years of age.
 
-(2) For the purpose of this subsection, “dependent”, in the case of any child, means thatthe individual involved was, at the time of the child's death, either living with or contributing to the support of the child, as determined in accordance with the regulations the Office shall prescribe.
+(2) For the purpose of this subsection, “dependent”, in the case of any child, means that the individual involved was, at the time of the child's death, either living with or contributing to the support of the child, as determined in accordance with the regulations the Office shall prescribe.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 592; Pub. L. 91–418, §3(a), Sept. 25, 1970, 84 Stat. 869; Pub. L. 93–160, §1(a), Nov. 27, 1973, 87 Stat. 635; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–54, §2(a)(51), Aug. 14, 1979, 93 Stat. 384; Pub. L. 96–70, title I, §1209(b), Sept. 27, 1979, 93 Stat. 463; Pub. L. 96–427, §§2(a), 8(b), Oct. 10, 1980, 94 Stat. 1831, 1837; Pub. L. 98–353, title II, §205, July 10, 1984, 98 Stat. 350; Pub. L. 99–335, title II, §207(k)(1), June 6, 1986, 100 Stat. 597; Pub. L. 100–679, §13(b), Nov. 17, 1988, 102 Stat. 4071; Pub. L. 105–311, §§3(1), 4, Oct. 30, 1998, 112 Stat. 2950.)
 
@@ -202,7 +202,7 @@ Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub.
 
 #### Effective Date of 1980 Amendment
 
-Section 10 of Pub. L. 96–427 provided that:
+Pub. L. 96–427, §10, Oct. 10, 1980, 94 Stat. 1838, provided that:
 
 “(a) Unless otherwise specified, this Act \[see Short Title note below\] shall take effect on the date of the enactment of this Act \[Oct. 10, 1980\] and shall have no effect in the case of an employee who died, was separated, or retired before the date of enactment.
 
@@ -232,7 +232,7 @@ Pub. L. 103–409, §1, Oct. 25, 1994, 108 Stat. 4230, provided that: “This Ac
 
 #### Short Title of 1980 Amendment
 
-Section 1 of Pub. L. 96–427 provided that: “This Act \[enacting sections 8714b and 8714c of this title, amending this section and sections 8704, 8706, 8707, 8709, and 8714a of this title, repealing section 8713 of this title and enacting provisions set out as notes under this section and sections 8704 and 8714a of this title\] may be cited as the ‘Federal Employees’ Group Life Insurance Act of 1980’.”
+Pub. L. 96–427, §1, Oct. 10, 1980, 94 Stat. 1831, provided that: “This Act \[enacting sections 8714b and 8714c of this title, amending this section and sections 8704, 8706, 8707, 8709, and 8714a of this title, repealing section 8713 of this title and enacting provisions set out as notes under this section and sections 8704 and 8714a of this title\] may be cited as the ‘Federal Employees’ Group Life Insurance Act of 1980’.”
 
 #### Construction
 
@@ -258,7 +258,7 @@ Pub. L. 110–177, title V, §502(b), Jan. 7, 2008, 121 Stat. 2542.
 
 Pub. L. 105–311, §9, Oct. 30, 1998, 112 Stat. 2954, provided that: “Beginning not later than 180 days after the date of enactment of this Act \[Oct. 30, 1998\], the Office of Personnel Management shall conduct an open enrollment opportunity for purposes of chapter 87 of title 5, United States Code, over a period of not less than 8 weeks. During this period, an employee (as defined under section 8701(a) of such title)—
 
-&emsp;“(1) may, if the employee previously declined or voluntarily terminated any coverage under chapter 87of such title, elect to begin, resume, or increase group life insurance (and acquire applicable accidental death and dismemberment insurance) under all sections of such chapter without submitting evidence of insurability; and
+&emsp;“(1) may, if the employee previously declined or voluntarily terminated any coverage under chapter 87 of such title, elect to begin, resume, or increase group life insurance (and acquire applicable accidental death and dismemberment insurance) under all sections of such chapter without submitting evidence of insurability; and
 
 &emsp;“(2) may, if currently insured for optional life insurance on family members, elect an amount above the minimum insurance on a spouse.”
 
@@ -274,11 +274,11 @@ Pub. L. 103–409, §3(b), Oct. 25, 1994, 108 Stat. 4232, provided that:
 
 &emsp;“(B) such other elections as the Office allows may be made.
 
-“(2) The Office shall take such action as may be necessary to ensure that employees and any other individuals who would be eligible to make an election under this subsection are afforded advance notification to that effect.”
+“(2) The Office shall take such action as may be necessary to ensure that employees and any other individuals who would be eligible to make an election underthis subsection are afforded advance notification to that effect.”
 
 #### Continued Coverage Under Certain Federal Employee Benefit Programs for Certain Employees of Saint Elizabeths Hospital
 
-For provisions relating to treatment of certain Federal employees of Saint Elizabeths Hospital under certain Federal employee benefit programs, see section 207(<i>o</i>) of Pub. L. 99–335, set out as a note under section 8331 of this title.
+For provisions relating to treatment of certain Federal employees of Saint Elizabeths Hospital under certain Federal employee benefit programs, see section 207(o) of Pub. L. 99–335, set out as a note under section 8331 of this title.
 
 <i><sup>1</sup></i><i> See Change of Name note below.</i>
 

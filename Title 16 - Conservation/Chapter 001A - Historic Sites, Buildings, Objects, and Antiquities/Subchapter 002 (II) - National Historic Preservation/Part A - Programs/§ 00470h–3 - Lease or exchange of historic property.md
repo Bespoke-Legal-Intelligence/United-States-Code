@@ -20,5 +20,5 @@ The head of any Federal agency having responsibility for the management of any h
 
 #### Historic Lease Process Simplification
 
-Pub. L. 105–391, title VIII, §802(b), Nov. 13, 1998, 112 Stat. 3523, provided that: “The Secretary is directed to simplify, to the maximum extent possible, the leasing process for historic properties with the goal of leasing available structures in a timely manner.”
+Pub. L. 105–391, title VIII, §802(b), Nov. 13, 1998, 112 Stat. 3523, provided that: “The Secretary is directed tosimplify, to the maximum extent possible, the leasing process for historic properties with the goal of leasing available structures in a timely manner.”
 

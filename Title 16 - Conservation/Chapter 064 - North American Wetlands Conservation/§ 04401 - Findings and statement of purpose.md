@@ -20,7 +20,7 @@ The Congress finds and declares that—
 
 &emsp;(8) wetlands destruction, loss of nesting cover, and degradation of migration and wintering habitat have contributed to long-term downward trends in populations of migratory bird species such as pintails, American bitterns, and black ducks;
 
-&emsp;(9) the migratory bird treaty obligations of the United States with Canada, Mexico, and other countries require protection of wetlands that are used by migratory birds for breeding, wintering, or migration and are needed to achieve and to maintain optimum population levels, distributions, and patterns of migration;
+&emsp;(9) the migratory bird treaty obligations of the United States with Canada, Mexico, andother countries require protection of wetlands that are used by migratory birds for breeding, wintering, or migration and are needed to achieve and to maintain optimum population levels, distributions, and patterns of migration;
 
 &emsp;(10) the 1988 amendments to the Fish and Wildlife Conservation Act of 1980 require the Secretary of the Interior to identify conservation measures to assure that nongame migratory bird species do not reach the point at which measures of the Endangered Species Act of 1973 \[16 U.S.C. 1531 et seq.\] are necessary;
 
@@ -82,9 +82,9 @@ Pub. L. 105–312, title III, §301, Oct. 30, 1998, 112 Stat. 2958, provided tha
 
 #### Short Title of 1994 Amendment
 
-Pub. L. 103–375, §1, Oct. 19, 1994, 108 Stat. 3494, provided that: “This Act \[enacting section 4414 of this title and amending sections 3742 to 3744, 3955, 4406, 4407, 4409, and 4410 of this title\] may be cited as the ‘North American Wetlands Conservation Act Amendments of 1994’.”
+Pub. L. 103–375, §1, Oct. 19, 1994, 108 Stat. 3494, provided that: “This Act \[enacting section 4414 of this title and amending sections 3742 to 3744, 3955, 4406, 4407, 4409,and 4410 of this title\] may be cited as the ‘North American Wetlands Conservation Act Amendments of 1994’.”
 
 #### Short Title
 
-Section 1 of Pub. L. 101–233 provided that: “This Act \[enacting this chapter, amending sections 669b, 669c, 703, 715a, 2912, and 3931 of this title, enacting provisions set out as a note under section 669b of this title, and amending provisions set out as a note under section 668dd of this title\] may be cited as the ‘North American Wetlands Conservation Act’.”
+Pub. L. 101–233, §1, Dec. 13, 1989, 103 Stat. 1968, provided that: “This Act \[enacting this chapter, amending sections 669b, 669c, 703, 715a, 2912, and 3931 of this title, enacting provisions set out as a note under section 669b of this title, and amending provisions set out as a note under section 668dd of this title\] may be cited as the ‘North American Wetlands Conservation Act’.”
 

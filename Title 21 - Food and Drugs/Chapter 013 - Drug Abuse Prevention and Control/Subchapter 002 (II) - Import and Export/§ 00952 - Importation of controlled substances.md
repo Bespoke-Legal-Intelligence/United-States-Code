@@ -2,7 +2,7 @@
 
 #### (a) Controlled substances in schedule I or II and narcotic drugs in schedule III, IV, or V; exceptions
 
-It shall be unlawful to import into the customs territory of the United States from any place outside thereof (but within the United States), or to import into the United States from any place outside thereof, any controlled substance in schedule I or II of subchapter I of this chapter, or any narcotic drug in schedule III, IV, or V of subchapter I of this chapter, or ephedrine, pseudoephedrine, or phenylpropanolamine, except that—
+It shall be unlawful to import into the customs territory of the United States from any place outside thereof (but within the UnitedStates), or to import into the United States from any place outside thereof, any controlled substance in schedule I or II of subchapter I of this chapter, or any narcotic drug in schedule III, IV, or V of subchapter I of this chapter, or ephedrine, pseudoephedrine, or phenylpropanolamine, except that—
 
 &emsp;(1) such amounts of crude opium, poppy straw, concentrate of poppy straw, and coca leaves, and of ephedrine, pseudoephedrine, and phenylpropanolamine, as the Attorney General finds to be necessary to provide for medical, scientific, or other legitimate purposes, and
 

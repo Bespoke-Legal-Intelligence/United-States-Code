@@ -46,7 +46,7 @@ There is hereby established a commission to be known as the Commission on Safegu
 
 #### (c) Duties
 
-(1) The Commission shall, in accordance with this section, review the safeguards, security,and counterintelligence activities (including activities relating to information management, computer security, and personnel security) at Department of Energy facilities to—
+(1) The Commission shall, in accordance with this section, review the safeguards, security, and counterintelligence activities (including activities relating to information management, computer security, and personnel security) at Department of Energy facilities to—
 
 &emsp;(A) determine the adequacy of those activities to ensure the security of sensitive information, processes, and activities under the jurisdiction of the Department against threats to the disclosure of such information, processes, and activities; and
 
@@ -116,7 +116,7 @@ Section is comprised of section 3142 of Pub. L. 106–65. Subsec. (h)(1) of sect
 
 #### Change of Name
 
-Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in theDirector's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
 
 #### Short Title
 

@@ -2,7 +2,7 @@
 
 #### (a) Submission by Federal officer; approval of Attorney General; contents
 
-Each application for an order approving a physical search under this subchapter shall be made by a Federal officer in writing upon oath or affirmation to a judge of the Foreign Intelligence Surveillance Court. Each application shall require the approval of the Attorney General based upon the Attorney General's finding that it satisfies the criteria and requirementsfor such application as set forth in this subchapter. Each application shall include—
+Each application for an order approving a physical search under this subchapter shall be made by a Federal officer in writing upon oath or affirmation to a judge of the Foreign Intelligence Surveillance Court. Each application shall require the approval of the Attorney General based upon the Attorney General's finding that it satisfies the criteria and requirements for such application as set forth in this subchapter. Each application shall include—
 
 &emsp;(1) the identity of the Federal officer making the application;
 

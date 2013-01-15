@@ -50,11 +50,11 @@ Pub. L. 102–190, §347(b), designated existing provisions as subsec. (a) and a
 
 #### Implementation of 1991 Amendment
 
-Section 347(c) of Pub. L. 102–190 provided that: “The Secretary of Defense shall establish the uniform system of valuation described in section 2458(a)(3) of title 10, United States Code (as added by subsection (a)), and prescribe the regulations required by section 2721(b) of such title (as added by subsection (b)), not later than 180 days after the date of the enactment of this Act \[Dec. 5, 1991\].”
+Pub. L. 102–190, div. A, title III, §347(c), Dec. 5, 1991, 105 Stat. 1347, provided that: “The Secretary of Defense shall establish the uniform system of valuation described in section 2458(a)(3) of title 10, United States Code (as added by subsection (a)), and prescribe the regulations required by section 2721(b) of such title (as added by subsection (b)), not later than 180 days after the date of the enactment of this Act \[Dec. 5, 1991\].”
 
 #### Inventory Investigations
 
-Section 343 of Pub. L. 100–456 provided that:
+Pub. L. 100–456, div. A, title III, §343, Sept. 29, 1988, 102 Stat. 1961, provided that:
 
 “(a)
 

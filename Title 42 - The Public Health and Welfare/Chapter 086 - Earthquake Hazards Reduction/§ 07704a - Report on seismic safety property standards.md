@@ -16,7 +16,7 @@ In carrying out this section, the Secretary shall consult with the Administrator
 
 #### References in Text
 
-The Earthquake Hazards Reduction Act of 1977, referred to in subsec. (c), is Pub. L. 95–124, Oct. 7, 1977, 91Stat. 1098, as amended, which is classified generally to this chapter (§7701 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 7701 of this title and Tables.
+The Earthquake Hazards Reduction Act of 1977, referred to in subsec. (c), is Pub. L. 95–124, Oct. 7, 1977, 91 Stat. 1098, as amended, which is classified generally to this chapter (§7701 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 7701 of this title and Tables.
 
 #### Codification
 
@@ -26,7 +26,7 @@ Section was enacted as part of the Cranston-Gonzalez National Affordable Housing
 
 #### Change of Name
 
-“Administrator of the Federal Emergency Management Agency” substituted for “Director of the Federal Emergency Management Agency” in subsec. (c) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
+“Administrator of the Federal Emergency Management Agency” substituted for “Director of the FederalEmergency Management Agency” in subsec. (c) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
 
 #### Transfer of Functions
 

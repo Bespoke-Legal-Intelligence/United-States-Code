@@ -20,5 +20,5 @@ Section was formerly classified to sections 60 and 65 of Title 5 prior to the ge
 
 #### Effective Date of 1964 Amendment
 
-Amendment by Pub. L. 88–448 effective on first day of first month which begins later than the ninetieth day following Aug. 19, 1964, see section 403 of Pub. L. 88–448.
+Amendment by Pub. L. 88–448 effective on first day of first month which begins later than the ninetieth day following Aug. 19, 1964, see section 403 of Pub. L. 88–448, title IV, Aug. 19, 1964, 78 Stat. 496.
 

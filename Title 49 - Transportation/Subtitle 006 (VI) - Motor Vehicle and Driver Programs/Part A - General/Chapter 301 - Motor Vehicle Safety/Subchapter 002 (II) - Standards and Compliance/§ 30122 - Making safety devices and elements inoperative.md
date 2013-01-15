@@ -16,11 +16,7 @@ Regulations.—The Secretary of Transportation may prescribe regulations—
 
 &emsp;(2) to define “make inoperative”.
 
-(d)
-
-Nonapplication.—This section does not apply to a safety belt interlock or buzzer designed to indicate a safety belt is not in use as described in section 30124 of this title.
-
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 956.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 956; Pub. L. 112–141, div. C, title I, §31202(a)(1), July 6, 2012, 126 Stat. 757.)
 
 Historical and Revision Notes
 
@@ -59,4 +55,12 @@ In subsection (b), the words “an applicable motor vehicle safety standard pres
 In subsection (c)(1), the words “section 30101 of this title” are substituted for “the purposes of this chapter” as being more precise.
 
 In subsection (d), the words “with respect . . . the rendering inoperative of” are omitted as surplus.
+
+#### Amendments
+
+<b>2012</b>—Subsec. (d). Pub. L. 112–141 struck out subsec. (d). Text read as follows: “This section does not apply to a safety belt interlock or buzzer designed to indicate a safety belt is not in use as described in section 30124 of this title.”
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
 

@@ -2,11 +2,11 @@
 
 (a)
 
-Requirements.—(1) The Secretary of Defense may not enter into a contract with an aircarrier for the charter air transportation of members of the armed forces unless the air carrier—
+Requirements.—(1) The Secretary of Defense may not enter into a contract with an air carrier for the charter air transportation of members of the armed forces unless the air carrier—
 
 &emsp;(A) meets, at a minimum, the safety standards established by the Secretary of Transportation under chapter 447 of title 49;
 
-&emsp;(B) has at least 12 months of experience operating services in air transportation that are substantially equivalent to the service sought by the Department of Defense; and
+&emsp;(B) has at least 12 months of experience operating services in air transportation that aresubstantially equivalent to the service sought by the Department of Defense; and
 
 &emsp;(C) undergoes a technical safety evaluation.
 
@@ -104,13 +104,13 @@ Subsec. (i)(1). Pub. L. 103–272, §5(b)(1)(B), substituted “section 40102(a)
 
 #### Effective Date of 1997 Amendment
 
-Section 1075(b) of Pub. L. 105–85 provided that: “Subsection (h) of section 2640 of title 10, United States Code, as added by subsection (a), shall apply with respect to requests for information made on or after the date of the enactment of this Act \[Nov. 18, 1997\].”
+Pub. L. 105–85, div. A, title X, §1075(b), Nov. 18, 1997, 111 Stat. 1911, provided that: “Subsection (h) of section 2640 of title 10, United States Code, as added by subsection (a), shall apply with respect to requests for information made on or after the date of the enactment of this Act \[Nov. 18, 1997\].”
 
 #### Effective Date
 
-Section 1204(c) of Pub. L. 99–661 provided that: “Section 2640 of title 10, United States Code, as added by subsection (a), shall apply only to contracts which are entered into on or after the date on which the regulations required by subsection (b) are prescribed \[set out below\].”
+Pub. L. 99–661, div. A, title XII, §1204(c), Nov. 14, 1986, 100 Stat. 3971, provided that: “Section 2640 of title 10, United States Code, as added by subsection (a), shall apply only to contracts which are entered into on or after the date on which the regulations required by subsection (b) are prescribed \[set out below\].”
 
 #### Regulations
 
-Section 1204(b) of Pub. L. 99–661 required Secretary of Defense, not later than 120 days after Nov. 14, 1986, to prescribe regulations required by this section.
+Pub. L. 99–661, div. A, title XII, §1204(b), Nov. 14, 1986, 100 Stat. 3971, required Secretary of Defense, not later than 120 days after Nov. 14, 1986, to prescribe regulations required by this section.
 

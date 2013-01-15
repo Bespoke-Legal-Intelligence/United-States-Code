@@ -26,7 +26,7 @@
 
 #### (1) Grant authority
 
-&emsp;The Secretary of Agriculture may make competitive grants (or grants without regard to any requirement for competition) to Native Hawaiian serving institutions for the purpose of promoting and strengthening the ability of Native Hawaiian serving institutions to carry out education, applied research, and related community development programs.
+&emsp;The Secretary of Agriculture may make competitive grants (or grants without regardto any requirement for competition) to Native Hawaiian serving institutions for the purpose of promoting and strengthening the ability of Native Hawaiian serving institutions to carry out education, applied research, and related community development programs.
 
 #### (2) Use of grant funds
 

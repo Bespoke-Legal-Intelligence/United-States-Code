@@ -62,7 +62,7 @@ Subsec. (b)(9). Pub. L. 94–433, §402(2), substituted “the beneficiary's” 
 
 #### Effective Date of 1982 Amendment
 
-Section 402(b) of Pub. L. 97–253 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to any marriage, annulment, divorce, or death that occurs after September 30, 1982.”
+Pub. L. 97–253, title IV, §402(b), Sept. 8, 1982, 96 Stat. 802, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to any marriage, annulment, divorce, or death that occurs after September 30, 1982.”
 
 #### Effective Date of 1978 Amendment
 

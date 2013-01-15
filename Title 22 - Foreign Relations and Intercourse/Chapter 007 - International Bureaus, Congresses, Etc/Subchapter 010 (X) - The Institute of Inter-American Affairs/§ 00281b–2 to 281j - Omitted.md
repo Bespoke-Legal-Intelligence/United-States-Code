@@ -20,5 +20,5 @@ Section 281h, act Aug. 5, 1947, ch. 498, §9, 61 Stat. 783, provided that princi
 
 Section 281i, act Aug. 5, 1947, ch. 498, §10, 61 Stat. 783, exempted Institute of Inter-American Affairs from taxation by any Federal, State, or local taxing authority.
 
-Section 281j, act Aug. 5, 1947, ch. 498, §11, 61 Stat. 783, reserved right to alter, amend or repeal provisions of sections 281 to 281b and 281c to 281<i>l</i> of this title, and set forth savings clause for such provisions.
+Section 281j, act Aug. 5, 1947, ch. 498, §11, 61 Stat. 783, reserved right to alter, amend or repeal provisions of sections 281 to 281b and 281c to 281l of this title, and set forth savings clause for such provisions.
 

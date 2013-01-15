@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Corporation shall provide, directly or through grants or contracts, for the continuing evaluation of programs that receive assistanceunder the national service laws, including evaluations that measure the impact of such programs, to determine—
+The Corporation shall provide, directly or through grants or contracts, for the continuing evaluation of programs that receive assistance under the national service laws, including evaluations that measure the impact of such programs, to determine—
 
 &emsp;(1) the effectiveness of programs receiving assistance under the national service laws in achieving stated goals and the costs associated with such programs, including an evaluation of each such program's performance based on the performance levels established under subsection (k); and
 
@@ -30,7 +30,7 @@ The Corporation shall evaluate and compare the effectiveness of different progra
 
 #### (g) Program objectives
 
-The Corporation shall ensure that programs that receive assistance under division C of this subchapter are evaluated to determine their effectiveness in—
+The Corporation shall ensure that programs that receive assistance under division C of thissubchapter are evaluated to determine their effectiveness in—
 
 &emsp;(1) recruiting and enrolling diverse participants in such programs, consistent with the requirements of section 12575 <sup>1</sup> of this title, based on economic background, race, ethnicity, age, marital status, education levels, and disability;
 
@@ -108,7 +108,7 @@ The Corporation shall ensure that programs that receive assistance under divisio
 
 #### (j) Reserved program funds for accountability
 
-Notwithstanding any other provision of law, in addition to amounts appropriated to carry out this section, the Corporation may reserve not more than 1 percent of the total funds appropriated for a fiscal year under section 12681 of this title and sections 501 and 502 of the Domestic Volunteer Service Act of 1973 \[42 U.S.C. 5081, 5082\] to support program accountability activities under this section.
+Notwithstanding any other provision of law, in addition to amounts appropriated to carry outthis section, the Corporation may reserve not more than 1 percent of the total funds appropriated for a fiscal year under section 12681 of this title and sections 501 and 502 of the Domestic Volunteer Service Act of 1973 \[42 U.S.C. 5081, 5082\] to support program accountability activities under this section.
 
 #### (k) Performance levels
 
@@ -128,7 +128,7 @@ The Corporation shall, in consultation with each recipient of assistance under t
 
 &emsp;(7) Other quantitative and qualitative measures as determined to be appropriate by the recipient of assistance and the Corporation.
 
-#### (<i>l</i>) Corrective action plans
+#### (l) Corrective action plans
 
 #### (1) In general
 
@@ -158,7 +158,7 @@ The Corporation shall, in consultation with each recipient of assistance under t
 
 #### (m) Failure to meet performance levels
 
-If, after a period for correction as approved by the Corporation in accordance with subsection (<i>l</i>), a recipient of assistance under the national service laws fails to meet or exceed the performance levels for a national service program, the Corporation shall—
+If, after a period for correction as approved by the Corporation in accordance with subsection (l), a recipient of assistance under the national service laws fails to meet or exceed the performance levels for a national service program, the Corporation shall—
 
 &emsp;(1) reduce the annual amount of the assistance received by the underperforming recipient by at least 25 percent, for each remaining year of the grant period for that program; or
 
@@ -168,9 +168,9 @@ If, after a period for correction as approved by the Corporation in accordance w
 
 The Corporation shall submit to the authorizing committees not later than 2 years after April 21, 2009, and annually thereafter, a report containing information on the number of—
 
-&emsp;(1) recipients of assistance under the national service laws implementing corrective action plans under subsection (<i>l</i>)(1);
+&emsp;(1) recipients of assistance under the national service laws implementing corrective action plans under subsection (l)(1);
 
-&emsp;(2) recipients for which the Corporation provides technical assistance for a program under subsection (<i>l</i>)(2)(A)(i);
+&emsp;(2) recipients for which the Corporation provides technical assistance for a program under subsection (l)(2)(A)(i);
 
 &emsp;(3) recipients for which the Corporation terminates assistance for a program under subsection (m);
 
@@ -242,7 +242,7 @@ Subsec. (f). Pub. L. 102–384, §9(2), inserted “or post-service benefit” a
 
 Subsec. (h)(1). Pub. L. 102–384, §9(3)(A), substituted “this section” for “subsection (g) of this section”.
 
-Subsec. (h)(2). Pub. L. 102–384, §9(3)(B), added par. (2) and struck out former par. (2) which read as follows:“The Commission shall keep information acquired under this section confidential.”
+Subsec. (h)(2). Pub. L. 102–384, §9(3)(B), added par. (2) and struck out former par. (2) which read as follows: “The Commission shall keep information acquired under this section confidential.”
 
 #### Effective Date of 2009 Amendment
 

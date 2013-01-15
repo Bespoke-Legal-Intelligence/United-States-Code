@@ -22,7 +22,7 @@
 
 #### (4) Relationship with future years homeland security program
 
-&emsp;The Secretary shall ensure that each review conducted under this section is coordinated with the Future Years Homeland SecurityProgram required under section 454 of this title.
+&emsp;The Secretary shall ensure that each review conducted under this section is coordinated with the Future Years Homeland Security Program required under section 454 of this title.
 
 #### (b) Contents of review
 

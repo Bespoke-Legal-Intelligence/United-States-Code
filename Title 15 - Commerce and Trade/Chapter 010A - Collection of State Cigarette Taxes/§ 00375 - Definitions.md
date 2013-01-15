@@ -140,7 +140,7 @@ Findings.—Congress finds that—
 
 &emsp;“(8) the number of active tobacco investigations being conducted by the Bureau of Alcohol, Tobacco, Firearms, and Explosives rose to 452 in 2005;
 
-&emsp;“(9) the number of Internet vendors in the United States and in foreign countries that sell cigarettes and smokeless tobacco to buyers in the United States increased from only about 40 in 2000 to more than 500 in 2005; and
+&emsp;“(9) the number of Internet vendors in the United States and in foreign countries that sell cigarettes and smokeless tobacco to buyers in the United Statesincreased from only about 40 in 2000 to more than 500 in 2005; and
 
 &emsp;“(10) the intrastate sale of illegal cigarettes and smokeless tobacco over the Internet has a substantial effect on interstate commerce.
 

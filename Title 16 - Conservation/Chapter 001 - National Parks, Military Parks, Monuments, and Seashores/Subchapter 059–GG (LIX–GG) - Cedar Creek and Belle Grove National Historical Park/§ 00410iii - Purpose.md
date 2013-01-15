@@ -2,7 +2,7 @@
 
 The purpose of this subchapter is to establish the Cedar Creek and Belle Grove National Historical Park in order to—
 
-&emsp;(1) help preserve, protect, and interpret a nationally significant Civil War landscape andantebellum plantation for the education, inspiration, and benefit of present and future generations;
+&emsp;(1) help preserve, protect, and interpret a nationally significant Civil War landscape and antebellum plantation for the education, inspiration, and benefit of present and future generations;
 
 &emsp;(2) tell the rich story of Shenandoah Valley history from early settlement through the Civil War and beyond, and the Battle of Cedar Creek and its significance in the conduct of the war in the Shenandoah Valley;
 

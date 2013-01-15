@@ -19,10 +19,13 @@
 | [185\.](%C2%A7%2000185%20-%20Financial%20Management%20Modernization%20Executive%20Committee.md) | Financial Management Modernization Executive Committee. |
 | [186\.](%C2%A7%2000186%20-%20Defense%20Business%20System%20Management%20Committee.md) | Defense Business System Management Committee. |
 | [187\.](%C2%A7%2000187%20-%20Strategic%20Materials%20Protection%20Board.md) | Strategic Materials Protection Board. |
+| [188\.](%C2%A7%2000188%20-%20Interagency%20Council%20on%20the%20Strategic%20Capability%20of%20the%20National%20Laboratories.md) | Interagency Council on the Strategic Capability of the National Laboratories. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2013</b>—Pub. L. 112–239, div. A, title X, §1040(b), Jan. 2, 2013, 126 Stat. 1930, added item 188.
 
 <b>2008</b>—Pub. L. 110–417, \[div. A\], title X, §1061(a)(3), Oct. 14, 2008, 122 Stat. 4612, inserted period at end of item 183.
 
@@ -74,3 +77,4 @@ Pub. L. 98–36, §2(b), May 27, 1983, 97 Stat. 201, added item 178.
 - [&sect; 00185 - Financial Management Modernization Executive Committee](%C2%A7%2000185%20-%20Financial%20Management%20Modernization%20Executive%20Committee.md)
 - [&sect; 00186 - Defense Business System Management Committee](%C2%A7%2000186%20-%20Defense%20Business%20System%20Management%20Committee.md)
 - [&sect; 00187 - Strategic Materials Protection Board](%C2%A7%2000187%20-%20Strategic%20Materials%20Protection%20Board.md)
+- [&sect; 00188 - Interagency Council on the Strategic Capability of the National Laboratories](%C2%A7%2000188%20-%20Interagency%20Council%20on%20the%20Strategic%20Capability%20of%20the%20National%20Laboratories.md)

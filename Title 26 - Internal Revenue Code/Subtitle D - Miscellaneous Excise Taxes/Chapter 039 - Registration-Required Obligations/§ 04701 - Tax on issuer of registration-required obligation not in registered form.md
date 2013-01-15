@@ -40,7 +40,7 @@ For purposes of this section—
 
 #### Amendments
 
-<b>2010</b>—Subsec. (b)(1). Pub. L. 111–147 amended par. (1) generally. Prior to amendment, text read as follows: “The term ‘registration-required obligation’ has the same meaning as when used in section 163(f), except that such term shall not include any obligation required to be registered under section 149(a).”
+<b>2010</b>—Subsec. (b)(1). Pub. L. 111–147 amended par. (1) generally. Prior to amendment, text read as follows:“The term ‘registration-required obligation’ has the same meaning as when used in section 163(f), except that such term shall not include any obligation required to be registered under section 149(a).”
 
 <b>1986</b>—Subsec. (b)(1). Pub. L. 99–514 substituted “section 149(a)” for “section 103(j)”.
 

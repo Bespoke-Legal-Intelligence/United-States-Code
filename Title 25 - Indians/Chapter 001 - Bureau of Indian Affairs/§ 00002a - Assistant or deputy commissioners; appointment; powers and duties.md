@@ -20,7 +20,7 @@ Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (sub
 
 #### Repeal of Inconsistent Laws
 
-Section 2 of act June 5, 1942, provided as follows: “All provisions of law inconsistent with this Act \[this section\] are hereby repealed to the extent of such inconsistency.”
+Act June 5, 1942, ch. 336, §2, 56 Stat. 312, provided that: “All provisions of law inconsistent with this Act \[this section\] are hereby repealed to the extent of such inconsistency.”
 
 #### Transfer of Functions
 

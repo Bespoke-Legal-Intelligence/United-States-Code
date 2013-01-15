@@ -16,7 +16,7 @@ When used in this subchapter—
 
 <b>1998</b>—Pars. (3) to (5). Pub. L. 105–185 inserted “and” at end of par. (3), redesignated par. (5) as (4), and struck out former par. (4) which read as follows: “the term ‘Board’ means the Animal Health Science Research Advisory Board; and”.
 
-<b>1981</b>—Par. (1). Pub. L. 97–98 substituted “an accredited school or college of veterinary medicine or a State agricultural research experiment station that conducts animal health and disease research” for “any college or university having an accredited college of veterinary medicine or a department of veterinary science or animal pathology, or a similar unit conducting animal health and disease research in a State agricultural experiment station”.
+<b>1981</b>—Par. (1). Pub. L. 97–98 substituted “an accredited school or college of veterinary medicine or a State agricultural research experiment station that conducts animal health and disease research” for “any college or university having an accredited college of veterinarymedicine or a department of veterinary science or animal pathology, or a similar unit conducting animal health and disease research in a State agricultural experiment station”.
 
 Par. (2). Pub. L. 97–98 substituted “an accredited school or college of veterinary medicine” for “a college or university which qualifies as an eligible institution”.
 

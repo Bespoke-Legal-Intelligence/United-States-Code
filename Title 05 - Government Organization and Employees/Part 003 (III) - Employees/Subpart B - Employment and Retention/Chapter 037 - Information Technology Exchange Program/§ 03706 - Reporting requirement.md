@@ -30,7 +30,7 @@ Publication.—A copy of each report submitted under subsection (a)—
 
 (d)
 
-Agency Cooperation.—On request of the Office, agencies shall furnish such information and reports as the Office may require in order to carry out this section.
+Agency Cooperation.—On request of the Office, agencies shall furnish such informationand reports as the Office may require in order to carry out this section.
 
 (Added Pub. L. 107–347, title II, §209(c)(1), Dec. 17, 2002, 116 Stat. 2929.)
 

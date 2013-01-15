@@ -22,7 +22,7 @@
 
 <b>2003</b>—Pub. L. 108–136, div. A, title VI, §621(b)(2), Nov. 24, 2003, 117 Stat. 1505, struck out “enlisted” before “members” in item 705.
 
-<b>2002</b>—Pub. L. 107–314, div. A, title V, §§506(d), 572(b), 574(b)(2)(B), Dec. 2, 2002, 116 Stat. 2536, 2558, substituted“Rest and recuperation absence: qualified enlisted members extending duty at designated locations overseas” for “Rest and recuperative absence for qualified enlisted members extending duty at designated locations overseas” in item 705, added items 706, 707a, and 709, and struck out former item 706 “Administration of leave required to be taken pending review of certain court-martial convictions”.
+<b>2002</b>—Pub. L. 107–314, div. A, title V, §§506(d), 572(b), 574(b)(2)(B), Dec. 2, 2002, 116 Stat. 2536, 2558, substituted “Rest and recuperation absence: qualified enlisted members extending duty at designated locations overseas” for “Rest and recuperative absence for qualified enlisted members extending duty at designated locations overseas” in item 705, added items 706, 707a, and 709, and struck out former item 706 “Administration of leave required to be taken pending review of certain court-martial convictions”.
 
 <b>1984</b>—Pub. L. 98–525, title VII, §707(a)(2), Oct. 19, 1984, 98 Stat. 2572, added item 708.
 
@@ -32,7 +32,7 @@
 
 #### Pilot Programs on Career Flexibility To Enhance Retention of Members of the Armed Forces
 
-Pub. L. 110–417, \[div. A\], title V, §533, Oct. 14, 2008, 122 Stat. 4449, as amended by Pub. L. 112–81, div. A, title V, §531, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1403, 1465, provided that:
+Pub. L. 110–417, \[div. A\], title V, §533, Oct. 14, 2008, 122 Stat. 4449, as amended by Pub. L. 112–81, div. A, title V, §531, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1403, 1465; Pub. L. 112–239, div. A, title V, §522, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1722, 1948, provided that:
 
 “(a)
 
@@ -40,7 +40,7 @@ Pilot Programs Authorized.—
 
 &emsp;“(1)
 
-In general.—Each Secretary of a military department may carry out pilot programs under which officers and enlisted members of the regular components of the Armed Forces under the jurisdiction of such Secretary may be inactivated from active duty in order to meet personal or professional needs and returned to active duty at the end of such period of inactivation from active duty.
+In general.—Each Secretary of a military department may carry out pilot programs under which officers and enlisted members of the regular components and members on active Guard and Reserve duty of the Armed Forces under the jurisdiction of such Secretary may be inactivated from active duty in order to meet personal or professional needs and returned to active duty at the end of such period of inactivation from active duty.
 
 &emsp;“(2)
 
@@ -168,6 +168,10 @@ In general.—Subject to subparagraph (B), a member who participates in a pilot 
 
 Limitation.—An allowance is payable under this paragraph only with respect to travel of a member to and from a single residence.
 
+&emsp;“(5)
+
+Leave.—A member who participates in a pilot program is entitled to carry forward the leave balance existing as of the day on which the member begins participation and accumulated in accordancewith section 701 of title 10, United States Code, but not to exceed 60 days.
+
 “(i)
 
 Promotion.—
@@ -198,7 +202,11 @@ Enlisted members.—An enlisted member participating in a pilot program shall no
 
 “(j)
 
-Medical and Dental Care.—A member participating in a pilot program under this section shall, while participating in the pilot program, be treated as a member of the Armed Forces on active duty for a period of more than 30 days for purposes of the entitlement of the member and the member's dependents to medical and dental care under the provisions of chapter 55 of title 10, United States Code.
+Continued Entitlements.—A member participating in a pilot program under this section shall, while participating in the pilot program, be treated as a member of the Armed Forces on active duty for a period of more than 30 days for purposes of—
+
+&emsp;“(1) the entitlement of the member and the member's dependents to medical and dental care under the provisions of chapter 55 of title 10, United States Code; and
+
+&emsp;“(2) retirement or separation for physical disability under the provisions of chapters 55 and 61 of title 10, United States Code.
 
 “(k)
 
@@ -228,11 +236,13 @@ Elements of report.—Each interim report and the final report under this subsec
 
 &emsp;&emsp;“(C) Such recommendations for legislative or administrative action as the Secretary concerned considers appropriate for the modification or continuation of the pilot programs.
 
-“(<i>l</i>)
+“(l)
+
+Definition.—In this section, the term ‘active Guard and Reserve duty’ has the meaning given that term in section 101(d)(6) of title 10, United States Code.
+
+“(m)
 
 Duration of Program Authority.—No member of the Armed Forces may be released from active duty under a pilot program conducted under this section after December 31, 2015.”
-
-\[Amendment by section 631(f)(4)(B) of Pub. L. 112–81 to section 533 of Pub. L. 110–417, set out above, was executed to reflect the probable intent of Congress, notwithstanding an error in the directory language.\]
 
 
 ---

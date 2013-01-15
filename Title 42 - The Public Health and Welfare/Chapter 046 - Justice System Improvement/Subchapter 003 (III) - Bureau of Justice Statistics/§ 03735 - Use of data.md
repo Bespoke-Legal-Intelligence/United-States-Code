@@ -14,7 +14,7 @@ Section 3735, Pub. L. 90–351, title I, §305, June 19, 1968, 82 Stat. 202; Pub
 
 Section 3736, Pub. L. 90–351, title I, §306, June 19, 1968, 82 Stat. 202; Pub. L. 91–644, title I, §4(8), Jan. 2, 1971, 84 Stat. 1883; Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 203; Pub. L. 94–503, title I, §113, Oct. 15, 1976, 90 Stat. 2415, related to allocation of funds.
 
-Section 3737, Pub. L. 90–351, title I, §307, June 19, 1968, 82 Stat. 202; Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 204;Pub. L. 94–503, title I, §114, Oct. 15, 1976, 90 Stat. 2415, related to priority programs and projects.
+Section 3737, Pub. L. 90–351, title I, §307, June 19, 1968, 82 Stat. 202; Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 204; Pub. L. 94–503, title I, §114, Oct. 15, 1976, 90 Stat. 2415, related to priority programs and projects.
 
 Section 3738, Pub. L. 90–351, title I, §308, as added Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 204; amended Pub. L. 94–503, title I, §115, Oct. 15, 1976, 90 Stat. 2415, related to Administration action upon State plans within prescribed time after date of submission.
 

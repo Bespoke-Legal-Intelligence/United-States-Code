@@ -2,7 +2,7 @@
 
 #### (a) Transfer of powers and authority from Secretary of Agriculture to Telephone Bank Board; cessation of Presidential appointees as Board members and reduction in number of Board members; status of telephone bank
 
-Whenever fifty-one per centum of the maximum amount of class A stock issued to the United States and outstanding at any time after September 30, 1985, has been fully redeemed and retired pursuant to section 946(c) of this title—
+Whenever fifty-one per centum of the maximum amount of class A stock issued to theUnited States and outstanding at any time after September 30, 1985, has been fully redeemed and retired pursuant to section 946(c) of this title—
 
 &emsp;(1) the powers and authority of the Governor of the telephone bank granted to the Secretary by this subchapter shall vest in the Telephone Bank Board, and may be exercised and performed through the Governor of the telephone bank, to be selected by the Telephone Bank Board, and through such other employees as the Telephone Bank Board shall designate;
 
@@ -18,7 +18,7 @@ When all class A stock has been fully redeemed and retired, loans made by the te
 
 Congress reserves the right to review the continued operations of the telephone bank after all class A stock has been fully redeemed and retired.
 
-(May 20, 1936, ch. 432, title IV, §410, as added Pub. L. 92–12, §2, May 7, 1971, 85 Stat. 36; amended Pub. L. 94–273, §2(2), Apr. 21, 1976, 90 Stat. 375; Pub. L. 101–624, title XXIII, §2363(b)(2), Nov. 28,1990, 104 Stat. 4043; Pub. L. 103–354, title II, §235(a)(11), Oct. 13, 1994, 108 Stat. 3221.)
+(May 20, 1936, ch. 432, title IV, §410, as added Pub. L. 92–12, §2, May 7, 1971, 85 Stat. 36; amended Pub. L. 94–273, §2(2), Apr. 21, 1976, 90 Stat. 375; Pub. L. 101–624, title XXIII, §2363(b)(2), Nov. 28, 1990, 104 Stat. 4043; Pub. L. 103–354, title II, §235(a)(11), Oct. 13, 1994, 108 Stat. 3221.)
 
 #### Amendments
 

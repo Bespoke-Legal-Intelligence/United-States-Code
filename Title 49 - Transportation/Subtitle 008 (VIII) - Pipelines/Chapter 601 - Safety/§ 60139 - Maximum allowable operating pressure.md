@@ -50,7 +50,7 @@ Testing Regulations.—
 
 &emsp;(1)
 
-In general.—Not later than 18 months after the date of enactment of this section, the Secretary shall issue regulations for conducting tests to confirm the material strength of previously untested natural gas transmission pipelines located in high-consequence areas and operating at a pressure greater than 30 percent of specified minimum yield strength.
+In general.—Not later than 18 months after the date of enactment of this section, the Secretary shall issue regulations for conducting tests to confirm the material strength of previously untested natural gas transmission pipelines located in high-consequence areasand operating at a pressure greater than 30 percent of specified minimum yield strength.
 
 &emsp;(2)
 

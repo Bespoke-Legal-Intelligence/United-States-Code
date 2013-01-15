@@ -46,7 +46,7 @@ Pub. L. 108–375, div. A, title X, §1084(g), Oct. 28, 2004, 118 Stat. 2064, am
 
 <b>2002</b>—Pub. L. 107–314, div. A, title XI, §1104(a)(2), Dec. 2, 2002, 116 Stat. 2661, added item 1599d.
 
-Pub. L. 107–314, div. A, title X, §1064(a)(2), Dec. 2, 2002, 116 Stat. 2654, as amended by Pub. L. 108–375, div. A, title X, §1084(g), Oct. 28, 2004, 118 Stat. 2064, added item 1596b.
+Pub. L. 107–314, div. A, title X, §1064(a)(2), Dec. 2, 2002, 116 Stat. 2654, as amended by Pub. L. 108–375, div. A,title X, §1084(g), Oct. 28, 2004, 118 Stat. 2064, added item 1596b.
 
 <b>2001</b>—Pub. L. 107–107, div. A, title XI, §1104(b), Dec. 28, 2001, 115 Stat. 1238, added item 1599c.
 
@@ -112,7 +112,7 @@ Regulations.—Not later than 120 days after the date of the enactment of this A
 
 &emsp;“(1) shall ensure that the authority in subsection (a) is utilized to build government capabilities that are needed to perform inherently governmental functions, functions closely associated with inherently governmental functions, and other critical functions;
 
-&emsp;“(2) shall include a mechanism to ensure that follow-on funding to provide compensation for civilianemployees of the Department to perform functions described in paragraph (1) is provided from appropriate accounts; and
+&emsp;“(2) shall include a mechanism to ensure that follow-on funding to provide compensation for civilian employees of the Department to perform functions described in paragraph (1) is provided from appropriate accounts; and
 
 &emsp;“(3) may establish additional criteria and levels of approval within the Department for the utilization of funds to provide compensation for civilian employees of the Department pursuant to subsection (a).
 
@@ -142,7 +142,7 @@ Leadership Program Required.—
 
 &emsp;“(1)
 
-In general.—Not later than 180 days after the date of the enactment of this Act \[Oct. 28, 2009\], the Secretary of Defense shall establish a program of leadership recruitment and development for civilian employees of the Department of Defense, to be known as the ‘Department of Defense Civilian Leadership Program’ (in this section referred to as the ‘program’).
+In general.—Not later than 180 days after the date of the enactment of this Act \[Oct. 28, 2009\], the Secretary of Defense shall establish a program of leadership recruitment and development for civilianemployees of the Department of Defense, to be known as the ‘Department of Defense Civilian Leadership Program’ (in this section referred to as the ‘program’).
 
 &emsp;“(2)
 
@@ -236,7 +236,7 @@ Authority.—The Secretary of Defense may appoint qualified candidates possessin
 
 “(b)
 
-Applicability.—This section applies with respect to candidates for scientific and engineering positions within any laboratory designated by section1105(a) of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 123 Stat. 2486; 10 U.S.C. 2358 note) as a Department of Defense science and technology reinvention laboratory.
+Applicability.—This section applies with respect to candidates for scientific and engineering positions within any laboratory designated by section 1105(a) of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 123 Stat. 2486; 10 U.S.C. 2358 note) as a Department of Defense science and technology reinvention laboratory.
 
 “(c)
 
@@ -256,7 +256,7 @@ Pub. L. 110–417, \[div. A\], title XII, §1235, Oct. 14, 2008, 122 Stat. 4641,
 
 “(a)
 
-In General.—The Secretary of Defense and the Secretary of State are authorized to jointly establish and operate a temporary program to offer employment as translators, interpreters, or cultural awareness instructors to individuals described in subsection (b). Individuals described in such subsection may be appointed to temporary positions of one year or less outside Iraq with either the Department of Defense or the Department of State, without competition and without regard for the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code. Such individuals may also be hired as personal services contractors by either of such Departments to provide translation, interpreting, or cultural awareness instruction, except that such individuals so hired shall not by virtue of such employment be considered employees of the United States Government, except for purposes of chapter 81 of title 5, United States Code, and chapter 171 of title 28, United States Code.
+In General.—The Secretary of Defense and the Secretary of State are authorized to jointly establish and operate a temporary program to offer employment as translators, interpreters, or cultural awareness instructors to individuals described in subsection (b). Individuals described in such subsection may be appointed to temporary positions of one year or less outside Iraq with either the Department of Defense or theDepartment of State, without competition and without regard for the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code. Such individuals may also be hired as personal services contractors by either of such Departments to provide translation, interpreting, or cultural awareness instruction, except that such individuals so hired shall not by virtue of such employment be considered employees of the United States Government, except for purposes of chapter 81 of title 5, United States Code, and chapter 171 of title 28, United States Code.
 
 “(b)
 

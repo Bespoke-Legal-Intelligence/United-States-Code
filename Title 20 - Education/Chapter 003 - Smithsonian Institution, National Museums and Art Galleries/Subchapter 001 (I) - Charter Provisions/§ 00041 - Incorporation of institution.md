@@ -20,7 +20,7 @@ R.S. §5579, as originally enacted, constituted the President, the Vice-Presiden
 
 #### Short Title of 2003 Amendment
 
-Pub. L. 108–72, §1, Aug. 15, 2003, 117 Stat. 888, provided that: “This Act \[enacting section 253<i>l</i>–8 of Title 41, Public Contracts, enacting provisions set out as notes under section 75b of this title and section 3521 of Title 5, Government Organization and Employees, and amending provisions set out as a note under section 50 of this title\] may be cited as the ‘Smithsonian Facilities Authorization Act’.”
+Pub. L. 108–72, §1, Aug. 15, 2003, 117 Stat. 888, provided that: “This Act \[enacting section 253l–8 of Title 41, Public Contracts, enacting provisions set out as notes under section 75b of this title and section 3521 of Title 5, Government Organization and Employees, and amending provisions set out as a note under section 50 of this title\] may be cited as the ‘Smithsonian Facilities Authorization Act’.”
 
 #### Short Title of 1966 Amendment
 

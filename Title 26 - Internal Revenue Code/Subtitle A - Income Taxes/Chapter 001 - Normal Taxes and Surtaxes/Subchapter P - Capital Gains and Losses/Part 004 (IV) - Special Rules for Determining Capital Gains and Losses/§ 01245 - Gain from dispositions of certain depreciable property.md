@@ -32,7 +32,7 @@
 
 #### (3) Section 1245 property
 
-&emsp;For purposes of this section, the term “section 1245 property” means any property which is or has been property of a character subject to the allowance for depreciation provided in section 167 and is either—
+&emsp;For purposes of this section, the term “section 1245 property” means any property whichis or has been property of a character subject to the allowance for depreciation provided in section 167 and is either—
 
 &emsp;&emsp;(A) personal property,
 
@@ -258,7 +258,7 @@ Subsec. (a)(3). Pub. L. 91–172, §§212(a)(2), 704(b)(4)(C)–(F), struck out 
 
 Amendment by Pub. L. 109–432 applicable to costs paid or incurred after Dec. 20, 2006, see section 404(c) of Pub. L. 109–432, set out as an Effective Date note under section 179E of this title.
 
-#### Effective Date of 2005 Amendments
+#### Effective Date of 2005 Amendment
 
 Amendment by section 402(a)(6) of Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which it relates, but not applicable with respect to any transaction ordered in compliance with the Public Utility Holding Company Act of 1935 (15 U.S.C. 79 et seq.) before its repeal, see section 402(m) of Pub. L. 109–135, set out as an Effective and Termination Dates of 2005 Amendments note under section 23 of this title.
 
@@ -272,7 +272,7 @@ Pub. L. 109–58, title XIII, §1363(b), Aug. 8, 2005, 119 Stat. 1060, provided 
 
 #### Effective Date of 2004 Amendment
 
-Amendment by section 338(b)(5) of Pub. L. 108–357 applicable to expenses paid or incurred after Dec. 31, 2002, in taxable years ending after such date, see section 338(c) of Pub. L. 108–357, set out as an Effective Date note under section 179B of this title.
+Amendment by section 338(b)(5) of Pub. L. 108–357 applicable to expenses paid or incurred after Dec. 31, 2002,in taxable years ending after such date, see section 338(c) of Pub. L. 108–357, set out as an Effective Date note under section 179B of this title.
 
 Amendment by section 886(b)(2) of Pub. L. 108–357 applicable to franchises acquired after Oct. 22, 2004, see section 886(c)(2) of Pub. L. 108–357, set out as a note under section 197 of this title.
 
@@ -282,7 +282,7 @@ Amendment by Pub. L. 105–34 effective as if included in the amendments made by
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of1993, Pub. L. 103–66, §§13001–13444, to which such amendment relates, see section 1703(<i>o</i>) of Pub. L. 104–188, set out as a note under section 39 of this title.
+Amendment by Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of 1993, Pub. L. 103–66, §§13001–13444, to which such amendment relates, see section 1703(o) of Pub. L. 104–188, set out as a note under section 39 of this title.
 
 #### Effective Date of 1995 Amendment
 
@@ -328,7 +328,7 @@ Amendment by sections 201(b), 202(b), and 204(a)–(d) of Pub. L. 97–34 applic
 
 Amendment by section 212(d)(2)(F) of Pub. L. 97–34 applicable to expenditures incurred after Dec. 31, 1981, in taxable years ending after such date, see section 212(e) of Pub. L. 97–34, set out as a note under section 46 of this title.
 
-#### Effective Date of 1980 Amendments
+#### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–451 applicable with respect to additions to capital account made after Dec. 31, 1979, see section 301(d) of Pub. L. 96–451, set out as an Effective Date note under section 194 of this title.
 
@@ -338,11 +338,11 @@ Amendment by Pub. L. 96–223 applicable to taxable years beginning after Dec. 3
 
 Amendment by section 701(f)(3)(A), (B) of Pub. L. 95–600 effective as if included within the amendment of subsec. (a)(2), (3)(D) by section 2124 of Pub. L. 94–455, see section 701(f)(8) of Pub. L. 95–600, set out as an Effective and Termination Dates of 1978 Amendments note under section 167 of this title.
 
-Section 701(w)(3) of Pub. L. 95–600 provided that: “The amendments made by this subsection \[amending this section\] shall apply to transfers of player contracts in connection with any sale or exchange of a franchise after December 31, 1975.”
+Pub. L. 95–600, title VII, §701(w)(3), Nov. 6, 1978, 92 Stat. 2920, provided that: “The amendments made by this subsection \[amending this section\] shall apply to transfers of player contracts in connection with any sale or exchange of a franchise after December 31, 1975.”
 
 #### Effective Date of 1976 Amendment
 
-Section 212(b)(2) of Pub. L. 94–455 provided that: “The amendment made by this subsection \[amending this section\] applies to transfers of player contracts in connection with any sale or exchange of a franchise after December 31, 1975.”
+Pub. L. 94–455, title II, §212(b)(2), Oct. 4, 1976, 90 Stat. 1547, provided that: “The amendment made by this subsection \[amending this section\] applies to transfers of player contracts in connection with any sale or exchange of a franchise after December 31, 1975.”
 
 Amendment by section 1901(a)(140), (b)(3)(K), (11)(D) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
@@ -350,7 +350,7 @@ Amendment by section 1951(c)(2)(C) of Pub. L. 94–455 applicable to taxable yea
 
 Amendment by section 2122(b)(3) of Pub. L. 94–455 applicable to taxable years beginning after Dec. 31, 1976, see section 2122(c) of Pub. L. 94–455, as amended, set out as an Effective Date note under section 190 of this title.
 
-Amendment by section 2124(a)(2) of Pub. L. 94–455 applicable with respect to additions to capital account made after June 14, 1976 and before June 15, 1981, see section 2124(a)(4) of Pub. L. 94–455, set out as an Effective Date note under section 642 of this title.
+Amendment by section 2124(a)(2) of Pub. L. 94–455 applicable with respect to additions to capital accountmade after June 14, 1976 and before June 15, 1981, see section 2124(a)(4) of Pub. L. 94–455, set out as an Effective Date note under section 642 of this title.
 
 #### Effective Date of 1975 Amendment
 
@@ -364,7 +364,7 @@ Amendment by section 303(c)(1), (2) of Pub. L. 92–178 applicable to taxable ye
 
 #### Effective Date of 1969 Amendment
 
-Section 212(a)(3) of Pub. L. 91–172 provided that: “The amendments made by paragraphs (1) and (2) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1969.”
+Pub. L. 91–172, title II, §212(a)(3), Dec. 30, 1969, 83 Stat. 571, provided that: “The amendments made by paragraphs (1) and (2) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1969.”
 
 Amendment by section 704(b)(4) of Pub. L. 91–172 applicable to taxable years ending after Dec. 31, 1968, see section 704(c) of Pub. L. 91–172, set out as a note under section 169 of this title.
 
@@ -374,7 +374,7 @@ Amendment by Pub. L. 88–272 applicable with respect to dispositions after Dec.
 
 #### Effective Date
 
-Section 13(g) of Pub. L. 87–834 provided that: “The amendments made by this section \[enacting this section and amending sections 167, 170, 301, 312, 341, 453, 613, and 751 of this title\] (other than the amendments made by subsection (c) \[amending sections 167, 179, and 642 of this title\]) shall apply to taxable years beginning after December 31, 1962. The amendments made by subsection (c) shall apply to taxable years beginning after December 31, 1961, and ending after the date of the enactment of this Act \[Oct. 16, 1962\].”
+Pub. L. 87–834, §13(g), Oct. 16, 1962, 76 Stat. 1035, provided that: “The amendments made by this section \[enacting this section and amending sections 167, 170, 301, 312, 341, 453, 613, and 751 of this title\] (other than the amendments made by subsection (c) \[amending sections 167, 179, and 642 of this title\]) shall apply to taxable years beginning after December 31, 1962. The amendments made by subsection (c) shall apply to taxable years beginning after December 31, 1961, and ending after the date of the enactment of this Act \[Oct. 16, 1962\].”
 
 #### Savings Provision
 

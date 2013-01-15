@@ -152,13 +152,13 @@ Any multiemployer plan which terminates under section 4041A(a)(2) of the Employe
 
 Section 412, referred to in subsec. (b)(2), was amended generally by Pub. L. 109–280, title I, §111(a), Aug. 17, 2006, 120 Stat. 820, and as so amended, section 412(b)(3) no longer contains a subpar. (B) and section 412(b)(2) no longer relates to charges to the funding standard account.
 
-Section 4001(a)(8) of the Employee Retirement Income Security Act of 1974, referred to in subsec. (b)(7)(B), is classified to section 1301(a)(8) of Title 29, Labor.
+Section 4001(a)(8) of the Employee Retirement Income Security Act of 1974, referred to in subsec.\(b)(7)(B), is classified to section 1301(a)(8) of Title 29, Labor.
 
 Section 4041A(a)(2) of the Employee Retirement Income Security Act of 1974, referred to in subsec. (d), is classified to section 1341a(a)(2) of Title 29.
 
 #### Effective Date
 
-Section 210 of title II of Pub. L. 96–364 provided that:
+Pub. L. 96–364, title II, §210, Sept. 26, 1980, 94 Stat. 1291, provided that:
 
 “(a) Except as otherwise provided in this section, the amendments made by this title \[amending sections 401, 404, 411 to 414, 4971, and 4975 of this title\] shall take effect on the date of the enactment of this Act \[Sept. 26, 1980\].
 

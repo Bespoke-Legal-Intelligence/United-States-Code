@@ -4,5 +4,5 @@ Section, Pub. L. 87–415, title II, §241, as added Pub. L. 89–15, §9(a), Ap
 
 #### Effective Date of Repeal
 
-Section 714, formerly §614, of Pub. L. 93–203 provided that the repeal is effective with respect to fiscal years after June 30, 1974.
+Pub. L. 93–203, title VII, §714, formerly title VI, §614, Dec. 28, 1973, 87 Stat. 883; renumbered title VII, §714, Pub. L. 93–567, title I, §101, Dec. 31, 1974, 88 Stat. 1845, provided that the repeal is effective with respect to fiscal years after June 30, 1974.
 

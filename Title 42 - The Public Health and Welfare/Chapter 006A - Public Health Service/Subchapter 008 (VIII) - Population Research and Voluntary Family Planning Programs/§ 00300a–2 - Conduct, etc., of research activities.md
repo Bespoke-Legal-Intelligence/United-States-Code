@@ -28,7 +28,7 @@ Subsec. (b). Pub. L. 94–63, §§202(c), 701(d), revised structure of provision
 
 #### Effective Date of 1979 Amendment
 
-Section 1(b) of Pub. L. 96–32 provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective as of November 8, 1978.”
+Pub. L. 96–32, §1(b), July 10, 1979, 93 Stat. 82, provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective as of November 8, 1978.”
 
 #### Effective Date of 1975 Amendment
 

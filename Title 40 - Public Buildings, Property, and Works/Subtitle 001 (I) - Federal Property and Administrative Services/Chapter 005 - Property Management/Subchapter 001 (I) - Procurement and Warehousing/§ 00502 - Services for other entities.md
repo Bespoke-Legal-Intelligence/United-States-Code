@@ -100,7 +100,7 @@ Qualified organization.—In this subsection, the term “qualified organization
 
 Duty of Users Regarding Use of Supply Schedules.—All users of Federal supply schedules, including non-Federal users, shall use the schedules in accordance with the ordering guidance provided by the Administrator of General Services.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1080; Pub. L. 107–347, title II, §211(a), Dec. 17, 2002, 116 Stat. 2939; Pub. L. 109–364, div. A, title VIII, §833(a), Oct. 17, 2006, 120 Stat. 2332; Pub. L. 110–248, §2, June 26, 2008, 122 Stat. 2316; Pub. L. 111–263, §§2–4, Oct. 8, 2010, 124 Stat. 2787, 2788; Pub. L. 111–350, §5(<i>l</i>)(7), Jan. 4, 2011, 124 Stat. 3851.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1080; Pub. L. 107–347, title II, §211(a), Dec. 17, 2002, 116 Stat. 2939; Pub. L. 109–364, div. A, title VIII, §833(a), Oct. 17, 2006, 120 Stat. 2332; Pub. L. 110–248, §2, June 26, 2008, 122 Stat. 2316; Pub. L. 111–263, §§2–4, Oct. 8, 2010, 124 Stat. 2787, 2788; Pub. L. 111–350, §5(l)(7), Jan. 4, 2011, 124 Stat. 3851.)
 
 Historical and Revision Notes
 
@@ -132,13 +132,13 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to
 
 #### Amendments
 
-<b>2011</b>—Subsec. (b)(1)(A)(i). Pub. L. 111–350, §5(<i>l</i>)(7)(A), substituted “section 8501(7) of title 41” for “section 5(3) of the Javits-Wagner-O'Day Act (41 U.S.C. 48b(3))”.
+<b>2011</b>—Subsec. (b)(1)(A)(i). Pub. L. 111–350, §5(l)(7)(A), substituted “section 8501(7) of title 41” for “section 5(3) of the Javits-Wagner-O'Day Act (41 U.S.C. 48b(3))”.
 
-Subsec. (b)(1)(A)(ii). Pub. L. 111–350, §5(<i>l</i>)(7)(B), substituted “disabled (as defined in section 8501(6) of title 41)” for “handicapped (as defined in section 5(4) of the Javits-Wagner-O'Day Act (41 U.S.C. 48b(4)))”.
+Subsec. (b)(1)(A)(ii). Pub. L. 111–350, §5(l)(7)(B), substituted “disabled (as defined in section 8501(6) of title 41)” for “handicapped (as defined in section 5(4) of the Javits-Wagner-O'Day Act (41 U.S.C. 48b(4)))”.
 
-Subsec. (b)(1)(B). Pub. L. 111–350, §5(<i>l</i>)(7)(C), substituted “chapter 85 of title 41” for “the Javits-Wagner-O'Day Act (41 U.S.C. 46 et seq.)”.
+Subsec. (b)(1)(B). Pub. L. 111–350, §5(l)(7)(C), substituted “chapter 85 of title 41” for “the Javits-Wagner-O'Day Act (41 U.S.C. 46 et seq.)”.
 
-Subsec. (b)(2). Pub. L. 111–350, §5(<i>l</i>)(7)(D), substituted “section 8503 of title 41” for “section 2 of the Javits-Wagner-O'Day Act (41 U.S.C. 47)”.
+Subsec. (b)(2). Pub. L. 111–350, §5(l)(7)(D), substituted “section 8503 of title 41” for “section 2 of the Javits-Wagner-O'Day Act (41 U.S.C. 47)”.
 
 <b>2010</b>—Subsec. (d)(1). Pub. L. 111–263, §4, inserted “, to facilitate disaster preparedness or response,” after “Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.)”.
 

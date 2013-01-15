@@ -4,7 +4,7 @@ Purchases of stationery and materials for folding shall be made in accordance wi
 
 All contracts and bonds for purchases made under the authority of this section shall be filed with the Committee on Rules and Administration of the Senate.
 
-(Mar. 3, 1887, ch. 392, §1, 24 Stat. 596; Aug. 2, 1946 ch. 753, §102, 60 Stat. 814; Pub. L. 104–186, title II, §204(58), Aug. 20, 1996, 110 Stat. 1738.)
+(Mar. 3, 1887, ch. 392, §1, 24 Stat. 596; Aug. 2, 1946, ch. 753, title I, §102, 60 Stat. 814; Pub. L. 104–186, title II, §204(58), Aug. 20, 1996, 110 Stat. 1738.)
 
 #### Amendments
 
@@ -14,5 +14,5 @@ All contracts and bonds for purchases made under the authority of this section s
 
 #### Effective Date of 1946 Amendment
 
-Section 142 of act Aug. 2, 1946, provided that the amendment made by that act is effective Jan. 2, 1947.
+Act Aug. 2, 1946, ch. 753, title I, §142, 60 Stat. 834, provided that the amendment made by that act is effective Jan. 2, 1947.
 

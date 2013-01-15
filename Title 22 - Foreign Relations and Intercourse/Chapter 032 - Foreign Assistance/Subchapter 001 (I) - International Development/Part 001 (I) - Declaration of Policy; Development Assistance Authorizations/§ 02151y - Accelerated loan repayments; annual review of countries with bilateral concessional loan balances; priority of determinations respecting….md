@@ -14,5 +14,5 @@ Section effective Oct. 1, 1979, see section 512(a) of Pub. L. 96–53, set out a
 
 #### Negotiating Efforts Concerning Accelerated Loan Repayments To Be Included in Annual Reports on Foreign Assistance for 1980 and 1981
 
-Section 508(b) of Pub. L. 96–53, which related to loan repayment provisions in reports, was repealed by Pub. L. 97–113, title VII, §734(a)(3), Dec. 29, 1981, 95 Stat. 1560.
+Pub. L. 96–53, title V, §508(b), Aug. 14, 1979, 93 Stat. 379, which related to loan repayment provisions in reports, was repealed by Pub. L. 97–113, title VII, §734(a)(3), Dec. 29, 1981, 95 Stat. 1560.
 

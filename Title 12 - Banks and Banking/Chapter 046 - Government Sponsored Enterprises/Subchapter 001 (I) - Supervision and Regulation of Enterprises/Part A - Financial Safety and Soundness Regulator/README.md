@@ -16,6 +16,7 @@ Part A—Financial Safety and Soundness Regulator
 - [&sect; 04516 - Funding](%C2%A7%2004516%20-%20Funding.md)
 - [&sect; 04517 - Examinations](%C2%A7%2004517%20-%20Examinations.md)
 - [&sect; 04518 - Prohibition and withholding of executive compensation](%C2%A7%2004518%20-%20Prohibition%20and%20withholding%20of%20executive%20compensation.md)
+- [&sect; 04518a - Limitation on bonuses to executives of Fannie Mae and Freddie Mac](%C2%A7%2004518a%20-%20Limitation%20on%20bonuses%20to%20executives%20of%20Fannie%20Mae%20and%20Freddie%20Mac.md)
 - [&sect; 04519 - Authority to provide for review of regulated entities](%C2%A7%2004519%20-%20Authority%20to%20provide%20for%20review%20of%20regulated%20entities.md)
 - [&sect; 04520 - Minority and women inclusion; diversity requirements](%C2%A7%2004520%20-%20Minority%20and%20women%20inclusion%3B%20diversity%20requirements.md)
 - [&sect; 04521 - Annual reports by Director](%C2%A7%2004521%20-%20Annual%20reports%20by%20Director.md)

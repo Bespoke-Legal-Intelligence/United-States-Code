@@ -12,7 +12,7 @@
 
 #### (3) Prohibition on assistance for facilities for sectarian instruction or religious worship
 
-&emsp;Participants shall not be employed under this chapter to carry out the construction, operation, or maintenance of any part of any facility that is used or to be used for sectarianinstruction or as a place for religious worship (except with respect to the maintenance of a facility that is not primarily or inherently devoted to sectarian instruction or religious worship, in a case in which the organization operating the facility is part of a program or activity providing services to participants).
+&emsp;Participants shall not be employed under this chapter to carry out the construction, operation, or maintenance of any part of any facility that is used or to be used for sectarian instruction or as a place for religious worship (except with respect to the maintenance of a facility that is not primarily or inherently devoted to sectarian instruction or religious worship, in a case in which the organization operating the facility is part of a program or activity providing services to participants).
 
 #### (4) Prohibition on discrimination on basis of participant status
 

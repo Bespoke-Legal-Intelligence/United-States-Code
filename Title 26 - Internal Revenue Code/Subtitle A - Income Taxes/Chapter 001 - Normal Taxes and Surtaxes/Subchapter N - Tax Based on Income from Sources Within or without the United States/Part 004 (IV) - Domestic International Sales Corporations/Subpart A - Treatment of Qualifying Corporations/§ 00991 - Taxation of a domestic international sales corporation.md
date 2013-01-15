@@ -14,7 +14,7 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 #### Effective Date
 
-Section 507 of title V of Pub. L. 92–178, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Except as provided in section 505 of this title \[amending section 971 of this title and enacting provisions set out as a note under section 970 of this title\], the amendments made by sections 501 through 504 of this title \[enacting this section and sections 992 to 994, 995 to 997, and 6686 of this title and amending sections 246, 861, 901, 904, 922, 931, 1014, 1504, 6011, 6072, and 6501 of this title\] shall apply with respect to taxable years ending after December 31, 1971, except that a corporation may not be a DISC (as defined in section 992(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], added by section 501 of this title) for any taxable year beginning before January 1, 1972.”
+Pub. L. 92–178, title V, §507, Dec. 10, 1971, 85 Stat. 553, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Except as provided in section 505 of this title \[amending section 971 of this title and enacting provisions set out as a note under section 970 of this title\], the amendments made by sections 501 through 504 of this title \[enacting this section and sections 992 to 994, 995 to 997, and 6686 of this title and amending sections 246, 861, 901, 904, 922, 931, 1014, 1504, 6011, 6072, and 6501 of this title\] shall apply with respect to taxable years ending after December 31, 1971, except that a corporation may not be a DISC (as defined in section 992(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], added by section 501 of this title) for any taxable year beginning before January 1, 1972.”
 
 #### Transition Rules for DISC's
 
@@ -26,7 +26,7 @@ Close of 1984 taxable years of disc's.—
 
 &emsp;“(A)
 
-In general.—For purposes of applying the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the taxable year of each DISC which begins before January 1, 1985, and which (but for this paragraph) would include January 1, 1985, shall close on December 31, 1984. For purposes of such Code, the requirements of section 992(a)(1)(B) of such Code (relating to percentage of qualified export assets on last day of the taxable year) shall not apply to any taxable year ending on December 31, 1984.
+In general.—For purposes of applying the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], thetaxable year of each DISC which begins before January 1, 1985, and which (but for this paragraph) would include January 1, 1985, shall close on December 31, 1984. For purposes of such Code, the requirements of section 992(a)(1)(B) of such Code (relating to percentage of qualified export assets on last day of the taxable year) shall not apply to any taxable year ending on December 31, 1984.
 
 &emsp;“(B)
 
@@ -38,7 +38,7 @@ Exemption of accumulated disc income from tax.—
 
 &emsp;“(A)
 
-In general.—For purposes of applying the Internal Revenue Code of 1986 with respect to actual distributions made after December 31, 1984, by a DISCor former DISC which was a DISC on December 31, 1984, any accumulated DISC income of a DISC or former DISC (within the meaning of section 996(f)(1) of such Code) which is derived before January 1, 1985, shall be treated as previously taxed income (within the meaning of section 996(f)(2) of such Code) with respect to which there had previously been a deemed distribution to which section 996(e)(1) of such Code applied. For purposes of the preceding sentence, the term ‘actual distribution’ includes a distribution in liquidation, and the earnings and profits of any corporation receiving a distribution not included in gross income by reason of the preceding sentence shall be increased by the amount of such distribution.
+In general.—For purposes of applying the Internal Revenue Code of 1986 with respect to actual distributions made after December 31, 1984, by a DISC or former DISC which was a DISC on December 31, 1984, any accumulated DISC income of a DISC or former DISC (within the meaning of section 996(f)(1) of such Code) which is derived before January 1, 1985, shall be treated as previously taxed income (within the meaning of section 996(f)(2) of such Code) with respect to which there had previously been a deemed distribution to which section 996(e)(1) of such Code applied. For purposes of the preceding sentence, the term ‘actual distribution’ includes a distribution in liquidation, and the earnings and profits of any corporation receiving a distribution not included in gross income by reason of the preceding sentence shall be increased by the amount of such distribution.
 
 &emsp;“(B)
 
@@ -118,5 +118,5 @@ Export trade corporation.—For purposes of this subsection, the term ‘export 
 
 #### Submission of Annual Reports to Congress
 
-Section 506 of Pub. L. 92–178, which directed, that commencing with calendar year 1972, the Secretary of the Treasury submit annual reports to Congress on the effect and operation of title V, §§501–507, of Pub. L. 92–178, was probably intended by Congress to be repealed by Pub. L. 98–369, div. A, title VIII, §804(b)(1), July 18, 1984, 98 Stat. 1000, which directed that section 806 of Pub. L. 98–178 relating to submission of annual reports to Congress be repealed. Section 804(b)(2) of Pub. L. 98–369 provided that the repeal is applicable to reports for calendar years after 1984.
+Pub. L. 92–178, title V, §506, Dec. 10, 1971, 85 Stat. 553, which directed, that commencing with calendar year 1972, the Secretary of the Treasury submit annual reports to Congress on the effect and operation of title V, §§501–507, of Pub. L. 92–178, was probably intended by Congress to be repealed by Pub. L. 98–369, div. A, title VIII, §804(b)(1), July 18, 1984, 98 Stat. 1000, which directed that section 806 of Pub. L. 98–178 relating to submission of annual reports to Congress be repealed. Section 804(b)(2) of Pub. L. 98–369 provided that the repeal is applicable to reports for calendar years after 1984.
 

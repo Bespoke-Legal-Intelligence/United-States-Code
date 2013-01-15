@@ -24,9 +24,9 @@ Section was formerly classified to section 300aaa–4 of this title prior to ren
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 902(h) of Pub. L. 97–35, set out as a note under section 238<i>l</i> of this title.
+Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 902(h) of Pub. L. 97–35, set out as a note under section 238l of this title.
 
 #### Effective Date
 
-Section 5 of Pub. L. 90–31 provided that this section is effective July 1, 1968.
+Pub. L. 90–31, §5, June 24, 1967, 81 Stat. 79, provided that this section is effective July 1, 1968.
 

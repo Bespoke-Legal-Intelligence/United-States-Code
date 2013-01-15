@@ -18,7 +18,7 @@ The President shall—
 
 #### (b) Federal procurement practices
 
-Except as provided in subsections (c) and (d) of this section, acquisition of strategic and critical materials under this subchapter shall be made in accordance with established Federal procurement practices, and, except as provided in subsections (c) and (d) of this section and in section 98f(a) of this title, disposal of strategic and critical materials from the stockpile shall be made in accordance with the next sentence. To the maximum extent feasible—
+Except as provided in subsections (c) and (d) of this section, acquisition of strategic and criticalmaterials under this subchapter shall be made in accordance with established Federal procurement practices, and, except as provided in subsections (c) and (d) of this section and in section 98f(a) of this title, disposal of strategic and critical materials from the stockpile shall be made in accordance with the next sentence. To the maximum extent feasible—
 
 &emsp;(1) competitive procedures shall be used in the acquisition and disposal of such materials; and
 

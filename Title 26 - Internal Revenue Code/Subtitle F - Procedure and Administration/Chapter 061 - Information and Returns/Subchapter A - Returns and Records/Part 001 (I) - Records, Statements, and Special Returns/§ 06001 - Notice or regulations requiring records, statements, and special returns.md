@@ -18,5 +18,5 @@ Amendment by Pub. L. 97–248 applicable to calendar years beginning after Dec. 
 
 #### Effective Date of 1978 Amendment
 
-Section 501(c) of Pub. L. 95–600 provided that: “The amendments made by this section \[amending this section and section 6041 of this title\] shall apply to payments made after December 31, 1978.”
+Pub. L. 95–600, title V, §501(c), Nov. 6, 1978, 92 Stat. 2878, provided that: “The amendments made by this section \[amending this section and section 6041 of this title\] shall apply to payments made after December 31, 1978.”
 

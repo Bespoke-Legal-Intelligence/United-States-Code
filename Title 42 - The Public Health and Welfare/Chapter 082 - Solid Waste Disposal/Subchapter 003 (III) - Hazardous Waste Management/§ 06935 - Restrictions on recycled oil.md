@@ -24,7 +24,7 @@ Not later than twelve months after November 8, 1984, the Administrator shall pro
 
 &emsp;(ii) such used oil is not mixed by the generator with other types of hazardous wastes; and
 
-&emsp;(iii) the generator maintains such records relating to such used oil, including records of agreements or other arrangements for delivery of such used oil to any recycling facility referred to in clause (i)(I), as the Administrator deems necessary to protect human health and the environment.
+&emsp;(iii) the generator maintains such records relating to such used oil, including records of agreements or other arrangements for deliveryof such used oil to any recycling facility referred to in clause (i)(I), as the Administrator deems necessary to protect human health and the environment.
 
 (3) The regulations under this subsection regarding the transportation of used oil which is exempt from the standards promulgated under section <sup>1</sup> 6921(d), 6922, and 6923 of this title under paragraph (1) shall require the transporters of such used oil to deliver such used oil to a facility which has a valid permit under section 6925 of this title or which is deemed to have a valid permit under subsection (d) of this section. The Administrator shall also establish other standards for such transporters as may be necessary to protect human health and the environment.
 
@@ -42,7 +42,7 @@ Section was formerly classified to section 6932 of this title.
 
 #### Amendments
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–616, §§241(a), 242, designated existing provisions as subsec. (a) and inserted“, consistent with the protection of human health and the environment” at end.
+<b>1984</b>—Subsec. (a). Pub. L. 98–616, §§241(a), 242, designated existing provisions as subsec. (a) and inserted “, consistent with the protection of human health and the environment” at end.
 
 Subsecs. (b) to (d). Pub. L. 98–616, §241(a), added subsecs. (b) to (d).
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary, acting through the Administrator of the Substance Abuse and Mental Health Services Administration, shall make grants to public and nonprofit private entities for the purpose of carrying out programs—
+&emsp;The Secretary, acting through the Administrator of the Substance Abuse and MentalHealth Services Administration, shall make grants to public and nonprofit private entities for the purpose of carrying out programs—
 
 &emsp;&emsp;(A) to provide the services described in subsection (b) of this section to children of substance abusers;
 
@@ -64,11 +64,11 @@ The Secretary may make a grant under subsection (a) of this section only if the 
 
 &emsp;(8) Additional developmental services that are consistent with the provision of early intervention services, as such term is defined in part C of the Individuals with Disabilities Education Act \[20 U.S.C. 1431 et seq.\].
 
-> Services shall be provided under paragraphs (2) through (8) by a public health nurse, social worker, or similar professional, or by a trained worker from the community who is supervised by a professional, or by an entity, where the professional or entity provides assurances that theprofessional or entity is licensed or certified by the State if required and is complying with applicable licensure or certification requirements.
+> Services shall be provided under paragraphs (2) through (8) by a public health nurse, social worker, or similar professional, or by a trained worker from the community who is supervised by a professional, or by an entity, where the professional or entity provides assurances that the professional or entity is licensed or certified by the State if required and is complying with applicable licensure or certification requirements.
 
 #### (c) Services for affected families
 
-The Secretary may make a grant under subsection (a) of this section only if, in the case of families in which a member is a substance abuser, the applicant involved agrees to make available (directly or through agreements with other entities) each of the following services, as applicable to the family member involved:
+The Secretary may make a grant under subsection (a) of this section only if, in the case of families in which a member is a substanceabuser, the applicant involved agrees to make available (directly or through agreements with other entities) each of the following services, as applicable to the family member involved:
 
 &emsp;(1) Services as follows, to be provided by a public health nurse, social worker, or similar professional, or by a trained worker from the community who is supervised by a professional, or by an entity, where the professional or entity provides assurances that the professional or entity is licensed or certified by the State if required and is complying with applicable licensure or certification requirements:
 
@@ -144,7 +144,7 @@ The Secretary may make a grant under subsection (a) of this section only if the 
 
 &emsp;(2) to make cash payments to intended recipients of services;
 
-&emsp;(3) to purchase or improve land, purchase, construct, or permanently improve (other than minor remodeling) any building or other facility, or purchase major medical equipment;
+&emsp;(3) to purchase or improve land, purchase, construct, or permanently improve (otherthan minor remodeling) any building or other facility, or purchase major medical equipment;
 
 &emsp;(4) to satisfy any requirement for the expenditure of non-Federal funds as a condition for the receipt of Federal funds; or
 
@@ -208,9 +208,9 @@ The Secretary shall periodically conduct evaluations to determine the effectiven
 
 &emsp;(4) in improving parental and family functioning, including increased participation in work or employment-related activities and decreased participation in welfare programs.
 
-#### (<i>l</i>) Report to Congress
+#### (l) Report to Congress
 
-Not later than 2 years after the date on which amounts are first appropriated under subjection <sup>5</sup> (<i>o</i>) of this section, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives,and to the Committee on Labor and Human Resources of the Senate, a report that contains a description of programs carried out under this section. At a minimum, the report shall contain—
+Not later than 2 years after the date on which amounts are first appropriated under subjection <sup>5</sup> (o) of this section, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report that contains a description of programs carried out under this section. At a minimum, the report shall contain—
 
 &emsp;(1) information concerning the number and type of programs receiving grants;
 
@@ -246,7 +246,7 @@ For purposes of this section:
 
 &emsp;(5) The term “substance abuse” means the abuse of alcohol or other drugs.
 
-#### (<i>o</i>) Authorization of appropriations
+#### (o) Authorization of appropriations
 
 For the purpose of carrying out this section, there are authorized to be appropriated $50,000,000 for fiscal year 2001, and such sums as may be necessary for each of fiscal years 2002 and 2003.
 
@@ -272,7 +272,7 @@ Section was formerly classified to section 280d of this title.
 
 <b>2004</b>—Subsecs. (b)(8), (f). Pub. L. 108–446, §305(i)(1), (3), which directed amendment of subsecs. (b)(8) and (f) of section 399A of the Public Health Service Act by substituting “part C” for “part H”, was executed to subsec. (b)(8) of this section, which is section 519 of the Public Health Service Act, to reflect the probable intent of Congress and the renumbering of this section and repeal of former subsec. (f). See 2000 Amendments notes below.
 
-<b>2000</b>—Pub. L. 106–310, §3106(a)–(m), which directed numerous amendments to section 399D of the Public Health Service Act and the subsequent renumbering of that section as section 519 of title V of the Act, was executed by amending this section and renumbering thissection as section 519 of title V, to reflect the probable intent of Congress, notwithstanding the intervening renumbering of this section as section 399A of the Act by section 502(1) of Pub. L. 106–310. See source credit above and notes below.
+<b>2000</b>—Pub. L. 106–310, §3106(a)–(m), which directed numerous amendments to section 399D of the Public Health Service Act and the subsequent renumbering of that section as section 519 of title V of the Act, was executed by amending this section and renumbering this section as section 519 of title V, to reflect the probable intent of Congress, notwithstanding the intervening renumbering of this section as section 399A of the Act by section 502(1) of Pub. L. 106–310. See source credit above and notes below.
 
 Subsec. (a)(1). Pub. L. 106–310, §3106(a)(1)(A), substituted “Administrator of the Substance Abuse and Mental Health Services Administration” for “Administrator of the Health Resources and Services Administration” in introductory provisions.
 
@@ -306,7 +306,7 @@ Subsec. (c)(2)(E). Pub. L. 106–310, §3106(c)(2)(D), substituted “Career pla
 
 Subsec. (c)(3)(D). Pub. L. 106–310, §3106(c)(3), inserted “which include child abuse and neglect prevention techniques” before period at end.
 
-Subsec. (d). Pub. L. 106–310, §3106(<i>l</i>)(3), (4), added subsec. (d) and redesignated former subsec. (d) as (e).
+Subsec. (d). Pub. L. 106–310, §3106(l)(3), (4), added subsec. (d) and redesignated former subsec. (d) as (e).
 
 Pub. L. 106–310, §3106(d)(1), substituted “Eligible entities” for “Considerations in making grants” in heading and “The Secretary shall distribute the grants through the following types of entities:” for “In making grants under subsection (a) of this section, the Secretary shall ensure that the grants are reasonably distributed among the following types of entities:” in introductory provisions.
 
@@ -316,9 +316,9 @@ Subsec. (d)(2)(A). Pub. L. 106–310, §3106(d)(3)(A), substituted “; or” f
 
 Subsec. (d)(2)(B). Pub. L. 106–310, §3106(d)(3)(B), inserted “or pediatric health or mental health providers and family mental health providers” before period at end.
 
-Subsec. (e). Pub. L. 106–310, §3106(<i>l</i>)(3), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+Subsec. (e). Pub. L. 106–310, §3106(l)(3), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 106–310, §3106(<i>l</i>)(1), (3), redesignated subsec. (e) as (f) and struck out former subsec. (f) relating to coordination with other providers.
+Subsec. (f). Pub. L. 106–310, §3106(l)(1), (3), redesignated subsec. (e) as (f) and struck out former subsec. (f) relating to coordination with other providers.
 
 Subsec. (h)(2). Pub. L. 106–310, §3106(e)(1), inserted “including maternal and child health” before “mental health”, struck out “treatment programs” after “substance abuse”, and substituted “, the State agency responsible for administering alcohol and drug programs, the State lead agency, and the State Interagency Coordinating Council under part H of the Individuals with Disabilities Education Act; and” for “and the State agency responsible for administering public maternal and child health services”.
 
@@ -330,21 +330,21 @@ Subsec. (i)(6)(C). Pub. L. 106–310, §3106(f)(2), added subpar. (C) and struck
 
 Subsec. (i)(6)(D), (E). Pub. L. 106–310, §3106(f)(2), struck out subpars. (D) and (E) relating to the number of children described in subparagraph (C) who were reunited with their families and the number of children described in subparagraph (C) for whom a permanent plan has not been made or for whom the permanent plan is other than family reunification, respectively.
 
-Subsec. (k). Pub. L. 106–310, §3106(<i>l</i>)(2), (3), redesignated subsec. (<i>l</i>) as (k) and struck out former subsec. (k) relating to peer review.
+Subsec. (k). Pub. L. 106–310, §3106(l)(2), (3), redesignated subsec. (l) as (k) and struck out former subsec. (k) relating to peer review.
 
-Subsec. (k)(2). Pub. L. 106–310, §3106(<i>l</i>)(5), which directed amendment of subsec. (k)(2) of this section by substituting “(i)” for “(h)”, could not be executed because “(h)” does not appear in subsec. (k)(2).
+Subsec. (k)(2). Pub. L. 106–310, §3106(l)(5), which directed amendment of subsec. (k)(2) of this section by substituting “(i)” for “(h)”, could not be executed because “(h)” does not appear in subsec. (k)(2).
 
-Subsec. (<i>l</i>). Pub. L. 106–310, §3106(<i>l</i>)(3), redesignated subsec. (m) as (<i>l</i>). Former subsec. (<i>l</i>) redesignated (k).
+Subsec. (l). Pub. L. 106–310, §3106(l)(3), redesignated subsec. (m) as (l). Former subsec. (l) redesignated (k).
 
-Subsec. (<i>l</i>)(3). Pub. L. 106–310, §3106(<i>l</i>)(6), which directed substitution of “(e)” for “(d)” in subsec. (m)(3)(E), was executed by making the substitution in concluding provisions of subsec. (<i>l</i>)(3) to reflect the probable intent of Congress and the amendment by Pub. L. 106–310, §3106(<i>l</i>)(3). See above.
+Subsec. (l)(3). Pub. L. 106–310, §3106(l)(6), which directed substitution of “(e)” for “(d)” in subsec. (m)(3)(E), was executed by making the substitution in concluding provisions of subsec. (l)(3) to reflect the probable intent of Congress and the amendment by Pub. L. 106–310, §3106(l)(3). See above.
 
 Pub. L. 106–310, §3106(g)(1), inserted “and” at end.
 
-Subsec. (<i>l</i>)(4). Pub. L. 106–310, §3106(g)(2), substituted “, including increased participation in work or employment-related activities and decreased participation in welfare programs.” for semicolon at end.
+Subsec. (l)(4). Pub. L. 106–310, §3106(g)(2), substituted “, including increased participation in work or employment-related activities and decreased participation in welfare programs.” for semicolon at end.
 
-Subsec. (<i>l</i>)(5), (6). Pub. L. 106–310, §3106(g)(3), struck out pars. (5) and (6) relating to reducing the incidence of out-of-home placement for children whose parents receive services under the program and facilitating the reunification of families after children have been placed in out-of-home care, respectively.
+Subsec. (l)(5), (6). Pub. L. 106–310, §3106(g)(3), struck out pars. (5) and (6) relating to reducing the incidence of out-of-home placement for children whose parents receive services under the program and facilitating the reunification of families after children have been placed in out-of-home care, respectively.
 
-Subsec. (m). Pub. L. 106–310, §3106(<i>l</i>)(3), redesignated subsec. (n) as (m). Former subsec. (m) redesignated (<i>l</i>).
+Subsec. (m). Pub. L. 106–310, §3106(l)(3), redesignated subsec. (n) as (m). Former subsec. (m) redesignated (l).
 
 Subsec. (m)(2). Pub. L. 106–310, §3106(h)(1), inserted “and” at end.
 
@@ -352,23 +352,23 @@ Subsec. (m)(3)(A). Pub. L. 106–310, §3106(h)(2)(A), inserted “and” at end
 
 Subsec. (m)(3)(B). Pub. L. 106–310, §3106(h)(2)(B), substituted period for semicolon at end.
 
-Subsec. (m)(3)(C) to (E). Pub. L. 106–310, §3106(h)(2)(C), struck out subpars. (C) to (E) relating to the number of children served who were placed in out-of-home care during the period in which entities provided services under this section, the number of children described insubparagraph (C) who were reunited with their families, and the number of children described in subparagraph (C) who were permanently placed in out-of-home care, respectively.
+Subsec. (m)(3)(C) to (E). Pub. L. 106–310, §3106(h)(2)(C), struck out subpars. (C) to (E) relating to the number of children served who were placed in out-of-home care during the period in which entities provided services under this section, the number of children described in subparagraph (C) who were reunited with their families, and the number of children described in subparagraph (C) who were permanently placed in out-of-home care, respectively.
 
 Subsec. (m)(4). Pub. L. 106–310, §3106(h)(3), struck out par. (4) relating to an analysis of the access provided to, and use of, related services and alcohol and drug treatment through programs carried out under this section.
 
-Subsec. (m)(5). Pub. L. 106–310, §3106(<i>l</i>)(6), which directed amendment of subsec. (m)(5) by substituting “(e)” for “(d)”, could not be executed because subsec. (m) did not contain a par. (5) or a reference to “(d)” subsequent to the amendments by Pub. L. 106–310, §3106(h)(3), (<i>l</i>)(3). See notes above and below.
+Subsec. (m)(5). Pub. L. 106–310, §3106(l)(6), which directed amendment of subsec. (m)(5) by substituting“(e)” for “(d)”, could not be executed because subsec. (m) did not contain a par. (5) or a reference to “(d)” subsequent to the amendments by Pub. L. 106–310, §3106(h)(3), (l)(3). See notes above and below.
 
 Pub. L. 106–310, §3106(h)(3), struck out par. (5) relating to a comparison of the costs of providing services through each of the types of entities described in subsection (d) of this section.
 
-Subsec. (n). Pub. L. 106–310, §3106(<i>l</i>)(3), redesignated subsec. (<i>o</i>) as (n). Former subsec. (n) redesignated (m).
+Subsec. (n). Pub. L. 106–310, §3106(l)(3), redesignated subsec. (o) as (n). Former subsec. (n) redesignated (m).
 
 Pub. L. 106–310, §3106(i), inserted at end “The periodic report shall include a quantitative estimate of the prevalence of alcohol and drug problems in families involved in the child welfare system, the barriers to treatment and prevention services facing these families, and policy recommendations for removing the identified barriers, including training for child welfare workers.”
 
-Subsec. (<i>o</i>). Pub. L. 106–310, §3106(<i>l</i>)(3), redesignated subsec. (p) as (<i>o</i>). Former subsec. (<i>o</i>) redesignated (n).
+Subsec. (o). Pub. L. 106–310, §3106(l)(3), redesignated subsec. (p) as (o). Former subsec. (o) redesignated (n).
 
-Subsec. (<i>o</i>)(2)(B). Pub. L. 106–310, §3106(j), struck out “dangerous” before “drugs”.
+Subsec. (o)(2)(B). Pub. L. 106–310, §3106(j), struck out “dangerous” before “drugs”.
 
-Subsec. (p). Pub. L. 106–310, §3106(<i>l</i>)(3), redesignated subsec. (p) as (<i>o</i>).
+Subsec. (p). Pub. L. 106–310, §3106(l)(3), redesignated subsec. (p) as (o).
 
 Pub. L. 106–310, §3106(k), amended heading and text of subsec. (p) generally, substituting provisions relating to authorization of appropriations for provisions relating to funding for carrying out section.
 
@@ -384,7 +384,7 @@ Section effective July 10, 1992, with programs making awards providing financial
 
 #### Construction
 
-Section 401(b) of Pub. L. 102–321 provided that: “With respect to the program established in section 399D \[now 519\] of the Public Health Service Act \[this section\] (as added by subsection (a) of this section), nothing in such section 399D may be construed as establishing for any other Federal program any requirement, authority, or prohibition, including with respect to recipients of funds under such other Federal programs.”
+Pub. L. 102–321, title IV, §401(b), July 10, 1992, 106 Stat. 426, provided that: “With respect to the program established in section 399D \[now 519\] of the Public Health Service Act \[this section\] (as added by subsection (a) of this section), nothing in such section 399D may be construed as establishing for any other Federal program any requirement, authority, or prohibition, including with respect to recipients of funds under such other Federal programs.”
 
 #### Reference to Community, Migrant, Public Housing, or Homeless Health Center Considered Reference to Health Center
 

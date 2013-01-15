@@ -62,7 +62,7 @@ Whenever the Secretary declines to enter into a self-determination contract or c
 
 #### (d) Tribal organizations and Indian contractors deemed part of Public Health Service
 
-For purposes of section 233 of title 42, with respect to claims by any person, initially filed on or after December 22, 1987, whether or not such person is an Indian or Alaska Native or is served on a fee basis or under other circumstances as permitted by Federal law or regulations for personal injury, including death, resulting from the performance prior to, including, or after December 22, 1987, of medical, surgical, dental, or related functions, including the conduct of clinical studies or investigations, or for purposes of section 2679, title 28, with respect to claims by any such person, on or after November 29, 1990, for personal injury, including death, resulting from the operation of an emergency motor vehicle, an Indian tribe, a tribal organization or Indian contractor carrying out a contract, grant agreement, or cooperative agreement under sections <sup>2</sup>450f or 450h of this title is deemed to be part of the Public Health Service in the Department of Health and Human Services while carrying out any such contract or agreement and its employees (including those acting on behalf of the organization or contractor as provided in section 2671 of title 28 and including an individual who provides health care services pursuant to a personal services contract with a tribal organization for the provision of services in any facility owned, operated, or constructed under the jurisdiction of the Indian Health Service) are deemed employees of the Service while acting within the scope of their employment in carrying out the contract or agreement: <i>Provided</i>, That such employees shall be deemed to be acting within the scope of their employment in carrying out such contract or agreement when they are required, by reason of such employment, to perform medical, surgical, dental or related functions at a facility other than the facility operated pursuant to such contract or agreement, but only if such employees are not compensated for the performance of such functions by a person or entity other than such Indian tribe, tribal organization or Indian contractor.
+For purposes of section 233 of title 42, with respect to claims by any person, initially filed on or after December 22, 1987, whether or not such person is an Indian or Alaska Native or is served on a fee basis or under other circumstances as permitted by Federal law or regulations for personal injury, including death, resulting from the performance prior to, including, or after December 22, 1987, of medical, surgical, dental, or related functions, including the conduct of clinical studies or investigations, or for purposes of section 2679, title 28, with respect to claims by any such person, on or after November 29, 1990, for personal injury, including death, resulting from the operation of an emergency motor vehicle, an Indian tribe, a tribal organization or Indian contractor carrying out a contract, grant agreement, or cooperative agreement under sections <sup>2</sup> 450f or 450h of this title is deemed to be part of the Public Health Service in the Department of Health and Human Services while carrying out any such contract or agreement and its employees (including those acting on behalf of the organization or contractor as provided in section 2671 of title 28 and including an individual who provides health care services pursuant to a personal services contract with a tribal organization for the provision of services in any facility owned, operated, or constructed under the jurisdiction of the Indian Health Service) are deemed employees of the Service while acting within the scope of their employment in carrying out the contract or agreement: <i>Provided</i>, That such employees shall be deemed to be acting within the scope of their employment in carrying out such contract or agreement when they are required, by reason of such employment, to perform medical, surgical, dental or related functions at a facility other than the facility operated pursuant to such contract or agreement, but only if such employees are not compensated for the performance of such functions by a person or entity other than such Indian tribe, tribal organization or Indian contractor.
 
 #### (e) Burden of proof at hearing or appeal declining contract; final agency action
 
@@ -130,7 +130,7 @@ Pub. L. 106–260, §11, Aug. 18, 2000, 114 Stat. 734, provided that: “Funds a
 
 #### Tribal Self-Governance—Department of Health and Human Services
 
-Title VI of Pub. L. 93–638, as added by Pub. L. 106–260, §5, Aug. 18, 2000, 114 Stat. 731, provided that:
+Pub. L. 93–638, title VI, as added by Pub. L. 106–260, §5, Aug. 18, 2000, 114 Stat. 731, provided that:
 
 #### “SEC. 601. DEFINITIONS.
 
@@ -246,7 +246,7 @@ Purpose.—The purpose of this title is to provide for a study to facilitate rel
 
 &emsp;“(1)
 
-Indian tribe.—The term ‘Indian tribe’ has the meaning given that term in section 4(e) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(e)).
+Indian tribe.—The term ‘Indian tribe’ has the meaning given that term in section 4(e) of the IndianSelf-Determination and Education Assistance Act (25 U.S.C. 450b(e)).
 
 &emsp;“(2)
 
@@ -254,7 +254,7 @@ Secretary.—The term ‘Secretary’ means the Secretary of the Interior.
 
 &emsp;“(3)
 
-Tribal organization.—The term ‘tribal organization’ has the meaning given that term in section 4(<i>l</i>) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(<i>l</i>)).
+Tribal organization.—The term ‘tribal organization’ has the meaning given that term in section 4(l) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(l)).
 
 #### “SEC. 704. STUDY AND REPORT TO CONGRESS.
 
@@ -312,11 +312,11 @@ Pub. L. 101–512, title III, §314, Nov. 5, 1990, 104 Stat. 1959, as amended by
 
 #### Reference to Section 450g(c) in Public Law 100–446
 
-Section 201(b)(2) of Pub. L. 100–472 provided that: “Any reference to section 103(c) \[§103(c) of Pub. L. 93–638, formerly 25 U.S.C. 450g(c)\] contained in an Act making appropriations for the Department of the Interior and Related Agencies for fiscal year 1989 \[Pub. L. 100–446\] shall be deemed to apply to section 102(d) of such Act \[§102(d) of Pub. L. 93–638, 25 U.S.C. 450f(d)\] as amended by this Act.”
+Pub. L. 100–472, title II, §201(b)(2), Oct. 5, 1988, 102 Stat. 2289, provided that: “Any reference to section 103(c) \[§103(c) of Pub. L. 93–638, formerly 25 U.S.C. 450g(c)\] contained in an Act making appropriations for the Department of the Interior and Related Agencies for fiscal year 1989 \[Pub. L. 100–446\] shall be deemed to apply to section 102(d) of such Act \[§102(d) of Pub. L. 93–638, 25 U.S.C. 450f(d)\] as amended by this Act.”
 
 #### Tribal Self-Governance Demonstration Project
 
-Title III of Pub. L. 93–638, as added by Pub. L. 100–472, title II, §209, Oct. 5, 1988, 102 Stat. 2296; amended by Pub. L. 102–184, §§2–6, Dec. 4, 1991, 105 Stat. 1278; Pub. L. 102–573, title VIII, §814, Oct. 29, 1992, 106 Stat. 4590; Pub. L. 103–435, §22(a)(2), (3), Nov. 2, 1994, 108 Stat. 4575; Pub. L. 103–437, §10(c)(1), Nov. 2, 1994, 108 Stat. 4589; Pub. L. 105–244, title IX, §901(d), Oct. 7, 1998, 112 Stat. 1828, related to tribal self-governance research and demonstration project conducted by Secretary of the Interior andSecretary of Health and Human Services, prior to repeal by Pub. L. 106–260, §10, Aug. 18, 2000, 114 Stat. 734.
+Pub. L. 93–638, title III, as added by Pub. L. 100–472, title II, §209, Oct. 5, 1988, 102 Stat. 2296; amended by Pub. L. 102–184, §§2–6, Dec. 4, 1991, 105 Stat. 1278; Pub. L. 102–573, title VIII, §814, Oct. 29, 1992, 106 Stat. 4590; Pub. L. 103–435, §22(a)(2), (3), Nov. 2, 1994, 108 Stat. 4575; Pub. L. 103–437, §10(c)(1), Nov. 2, 1994, 108 Stat. 4589; Pub. L. 105–244, title IX, §901(d), Oct. 7, 1998, 112 Stat. 1828, related to tribal self-governance research and demonstration project conducted by Secretary of the Interior and Secretary of Health and Human Services, prior to repeal by Pub. L. 106–260, §10, Aug. 18, 2000, 114 Stat. 734.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “paragraph,”.</i>
 

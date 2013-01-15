@@ -6,7 +6,7 @@ There is authorized to be appropriated for the period beginning July 1, 1973, an
 
 #### Amendments
 
-<b>1990</b>—Pub. L. 101–627, which directed the substitution of “1988, 1989, 1990, 1991, 1992, 1993, 1994, and 1995” for “and 1988” in section 7 of the Central, Western, and South Pacific Fisheries Development Act, meaning section 7 of Pub. L. 92–444, was executed by making the substitution in section 8 of Pub. L. 92–444, this section,to reflect the probable intent of Congress and the renumbering of section 7 as 8 by Pub. L. 95–295, §1(4).
+<b>1990</b>—Pub. L. 101–627, which directed the substitution of “1988, 1989, 1990, 1991, 1992, 1993, 1994, and 1995” for “and 1988” in section 7 of the Central, Western, and South Pacific Fisheries Development Act, meaning section 7 of Pub. L. 92–444, was executed by making the substitution in section 8 of Pub. L. 92–444, this section, to reflect the probable intent of Congress and the renumbering of section 7 as 8 by Pub. L. 95–295, §1(4).
 
 <b>1986</b>—Pub. L. 99–659 inserted provision authorizing appropriations for each of fiscal years 1986, 1987, and 1988.
 

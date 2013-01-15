@@ -12,11 +12,11 @@ The court, in imposing a sentence on a defendant who has been found guilty of an
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–132 to be effective, to extent constitutionally permissible, for sentencing proceedings in cases in which defendant is convicted on orafter Apr. 24, 1996, see section 211 of Pub. L. 104–132, set out as a note under section 2248 of this title.
+Amendment by Pub. L. 104–132 to be effective, to extent constitutionally permissible, for sentencing proceedings in cases in which defendant is convicted on or after Apr. 24, 1996, see section 211 of Pub. L. 104–132, set out as a note under section 2248 of this title.
 
 #### Effective Date of 1986 Amendment
 
-Section 20(c) of Pub. L. 99–646 provided that: “The amendments made by this section \[amending this section and section 3663 of this title\] shall take effect on the date of the taking effect of section 212(a)(2) of the Sentencing Reform Act of 1984 \[section 212(a)(2) of Pub. L. 98–473, effective Nov. 1, 1987\].”
+Pub. L. 99–646, §20(c), Nov. 10, 1986, 100 Stat. 3596, provided that: “The amendments made by this section \[amending this section and section 3663 of this title\] shall take effect on the date of the taking effect of section 212(a)(2) of the Sentencing Reform Act of 1984 \[section 212(a)(2) of Pub. L. 98–473, effective Nov. 1, 1987\].”
 
 #### Effective Date
 

@@ -4,5 +4,5 @@ Section, act Oct. 31, 1949, ch. 792, title II, §204, as added Nov. 28, 1990, Pu
 
 #### Effective Date of Repeal
 
-Section 141(g) of Pub. L. 104–127 provided that the repeal of this section is effective on the first day of the first month beginning after Apr. 4, 1996.
+Pub. L. 104–127, title I, §141(g), Apr. 4, 1996, 110 Stat. 915, provided that the repeal of this section is effective on the first day of the first month beginning after Apr. 4, 1996.
 

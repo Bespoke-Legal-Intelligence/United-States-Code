@@ -174,7 +174,7 @@ Pub. L. 110–387, title I, §§102–105, Oct. 10, 2008, 122 Stat. 4112–4114,
 
 &emsp;“(2) The effects of substance use disorder are wide ranging, including significantly increased risk of suicide, exacerbation of mental and physical health disorders, breakdown of family support, and increased risk of unemployment and homelessness.
 
-&emsp;“(3) While veterans suffering from mental health conditions, chronic physical illness, and polytrauma may be at increased risk for development of a substance use disorder, treatment for these veterans is complicated by the need to address adequately the physical and mental symptoms associated with these conditions through appropriate medical intervention.
+&emsp;“(3) While veterans suffering from mental health conditions, chronic physical illness, and polytrauma may be at increased risk for development of a substance use disorder, treatment for these veterans iscomplicated by the need to address adequately the physical and mental symptoms associated with these conditions through appropriate medical intervention.
 
 &emsp;“(4) While the Veterans Health Administration has dramatically increased health services for veterans from 1996 through 2006, the number of veterans receiving specialized substance use disorder treatment services decreased 18 percent during that time. No comparable decrease in the national rate of substance use disorder has been observed during that time.
 
@@ -318,7 +318,7 @@ Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under pr
 
 #### Report on Consolidation of Certain Programs
 
-Section 202(a) of Pub. L. 104–110 provided that: “The Secretary of Veterans Affairs shall submit to Congress, not later than March 1, 1997, a report on the advantages and disadvantages of consolidating into one program the following three programs:
+Pub. L. 104–110, title II, §202(a), Feb. 13, 1996, 110 Stat. 770, provided that: “The Secretary of Veterans Affairs shall submit to Congress, not later than March 1, 1997, a report on the advantages and disadvantages of consolidating into one program the following three programs:
 
 &emsp;“(1) The alcohol and drug abuse contract care program under section 1720A of title 38, United States Code.
 
@@ -328,7 +328,7 @@ Section 202(a) of Pub. L. 104–110 provided that: “The Secretary of Veterans 
 
 #### Loans to Organizations Providing Transitional Housing for Substance Abusers
 
-Section 8 of Pub. L. 102–54 provided that:
+Pub. L. 102–54, §8, June 13, 1991, 105 Stat. 271, provided that:
 
 “(a)
 
@@ -380,5 +380,5 @@ Pub. L. 100–690, title II, §2501, Nov. 18, 1988, 102 Stat. 4232, directed Adm
 
 #### Ratification for Lapsed Period
 
-Section 502(a)(2) of Pub. L. 100–689 ratified actions by the Administrator of Veterans’ Affairs in providing, during the period beginning Oct. 1, 1988, and ending Nov. 18, 1988, for care and treatment and rehabilitative services under this section.
+Pub. L. 100–689, title V, §502(a)(2), Nov. 18, 1988, 102 Stat. 4179, ratified actions by the Administrator of Veterans’ Affairs in providing, during the period beginning Oct. 1, 1988, and ending Nov. 18, 1988, for care and treatment and rehabilitative services under this section.
 

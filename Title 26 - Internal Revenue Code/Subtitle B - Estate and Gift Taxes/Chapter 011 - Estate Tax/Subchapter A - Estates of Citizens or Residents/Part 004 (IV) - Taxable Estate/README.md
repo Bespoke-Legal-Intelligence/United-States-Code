@@ -14,13 +14,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Amendment of Analysis
-
-<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note set out under section 1 of this title.</i>
-
 #### Amendments
 
-<b>2001</b>—Pub. L. 107–16, title V, §532(c)(14), title IX, §901, June 7, 2001, 115 Stat. 75, 150, temporarily added item 2058.
+<b>2001</b>—Pub. L. 107–16, title V, §532(c)(14), June 7, 2001, 115 Stat. 75, added item 2058.
 
 <b>1998</b>—Pub. L. 105–206, title VI, §6006(b)(1)(F), July 22, 1998, 112 Stat. 808, added item 2057.
 

@@ -20,7 +20,7 @@
 
 #### (1) In general
 
-&emsp;The $5,000,000 limitation provided in section 1901(a)(2) of title 41, section 2304(g)(1)(B) of title 10, and section 3305(a)(2) of title 41 shall not apply to purchases of property or services to which any of the provisions of law referred to in subsection (a) of this section are applied under the authority of this section.
+&emsp;The $5,000,000 limitation provided in section 1901(a)(2) of title 41, section 2304(g)(1)(B) of title 10, and section 3305(a)(2) of title 41 shallnot apply to purchases of property or services to which any of the provisions of law referred to in subsection (a) of this section are applied under the authority of this section.
 
 #### (2) OMB guidance
 
@@ -34,7 +34,7 @@ Authority under a provision of law referred to in subsection (a)(2) of this sect
 
 #### References in Text
 
-Section 4202(e) of the Clinger-Cohen Act of 1996, referred to in subsec. (c), is section 4202(e) of Pub. L.104–106, which is set out as a note under section 2304 of Title 10, Armed Forces.
+Section 4202(e) of the Clinger-Cohen Act of 1996, referred to in subsec. (c), is section 4202(e) of Pub. L. 104–106, which is set out as a note under section 2304 of Title 10, Armed Forces.
 
 #### Codification
 

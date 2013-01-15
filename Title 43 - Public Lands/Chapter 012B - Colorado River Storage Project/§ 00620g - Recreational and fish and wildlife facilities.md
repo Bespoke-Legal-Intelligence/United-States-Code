@@ -10,7 +10,7 @@ In connection with the development of the Colorado River storage project and of 
 
 #### Effective Date of 1976 Amendment
 
-Section 704(a) of Pub. L. 94–579 provided that the amendment made by that section is effective on and after Oct. 21, 1976.
+Pub. L. 94–579, title VII, §704(a), Oct. 21, 1976, 90 Stat. 2792, provided that the amendment made by section 704(a) is effective on and after Oct. 21, 1976.
 
 #### Savings Provision
 

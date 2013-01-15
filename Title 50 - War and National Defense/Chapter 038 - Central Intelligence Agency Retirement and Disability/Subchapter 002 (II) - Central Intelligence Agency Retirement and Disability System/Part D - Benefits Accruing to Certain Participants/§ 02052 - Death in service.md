@@ -36,7 +36,7 @@ If a participant dies and no claim for an annuity is payable under this subchapt
 
 &emsp;In the case of a participant who on or after April 1, 1992, dies before separation or retirement from the Agency and who is survived by a child or children—
 
-&emsp;&emsp;(A) if the participant is survived by a spouse or former spouse who is the natural or adoptive parent of a surviving child of the participant, there shall be paid from the fund to or on behalf of each such surviving child an annuity determined under section 2031(d)(3)(A) of this title; and
+&emsp;&emsp;(A) if the participant is survived by a spouse or former spouse who is the natural or adoptive parent of a surviving child of theparticipant, there shall be paid from the fund to or on behalf of each such surviving child an annuity determined under section 2031(d)(3)(A) of this title; and
 
 &emsp;&emsp;(B) if the participant is not survived by a spouse or former spouse who is the natural or adoptive parent of a surviving child of the participant, there shall be paid to or on behalf of each such surviving child an annuity determined under section 2031(d)(3)(B) of this title.
 

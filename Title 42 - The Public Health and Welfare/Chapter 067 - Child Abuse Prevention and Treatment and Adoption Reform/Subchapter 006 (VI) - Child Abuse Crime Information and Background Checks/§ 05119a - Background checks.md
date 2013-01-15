@@ -32,7 +32,7 @@ The procedures established under subsection (a) of this section shall require—
 
 &emsp;(3) that an authorized agency, upon receipt of a background check report lacking disposition data, shall conduct research in whatever State and local recordkeeping systems are available in order to obtain complete data;
 
-&emsp;(4) that the authorized agency shall make a determination whether the provider has beenconvicted of, or is under pending indictment for, a crime that bears upon the provider's fitness to have responsibility for the safety and well-being of children, the elderly, or individuals with disabilities and shall convey that determination to the qualified entity; and
+&emsp;(4) that the authorized agency shall make a determination whether the provider has been convicted of, or is under pending indictment for, a crime that bears upon the provider's fitness to have responsibility for the safety and well-being of children, the elderly, or individuals with disabilities and shall convey that determination to the qualified entity; and
 
 &emsp;(5) that any background check under subsection (a) of this section and the results thereof shall be handled in accordance with the requirements of Public Law 92–544, except that this paragraph does not apply to any request by a qualified entity for a national criminal fingerprint background check pursuant to subsection (a)(3) of this section.
 
@@ -258,7 +258,7 @@ Limitation on Liability.—In connection with the Pilot Programs established und
 
 &emsp;“(1) arising from any act or communication by the Center, the director, officer, employee, or agent that results in or contributes to a decision that an individual is unfit to serve as a volunteer for any volunteer organization;
 
-&emsp;“(2) alleging harm arising from a decision based on the information in an individual's criminal history record that an individual is fit to serve as a volunteer for any volunteer organization unless the Center, the director, officer, employee, or agent is furnished with an individual's criminal history records which they know to be inaccurate or incomplete, or which they know reflect a lesser crime than that for which the individual was arrested; and
+&emsp;“(2) alleging harm arising from a decision based on the information in an individual's criminal history record that an individual is fit to serve as a volunteer for any volunteer organization unless the Center, the director, officer, employee, or agent is furnished withan individual's criminal history records which they know to be inaccurate or incomplete, or which they know reflect a lesser crime than that for which the individual was arrested; and
 
 &emsp;“(3) alleging harm arising from a decision that, based on the absence of criminal history information, an individual is fit to serve as a volunteer for any volunteer organization unless the Center, the director, officer, employee, or agent knows that criminal history records exist and have not been furnished as required under this section.”
 

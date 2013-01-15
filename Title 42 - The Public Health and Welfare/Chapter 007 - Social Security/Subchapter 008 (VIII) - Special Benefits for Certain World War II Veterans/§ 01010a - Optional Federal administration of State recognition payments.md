@@ -12,7 +12,7 @@ The Commissioner of Social Security may enter into an agreement with any State (
 
 #### (2) Financial terms
 
-&emsp;Such agreement shall provide for the State to pay the Commissioner of Social Security,at such times and in such installments as the parties may specify—
+&emsp;Such agreement shall provide for the State to pay the Commissioner of Social Security, at such times and in such installments as the parties may specify—
 
 &emsp;&emsp;(A) an amount equal to the expenditures made by the Commissioner of Social Security pursuant to such agreement as payments to individuals on behalf of such State; and
 

@@ -6,5 +6,5 @@ Whoever obtains or uses the property of another which has a value of $10,000 or 
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000” and inserted at end “The term ‘livestock’ has the meaning set forth in section 2311 of this title.”
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000” and inserted atend “The term ‘livestock’ has the meaning set forth in section 2311 of this title.”
 

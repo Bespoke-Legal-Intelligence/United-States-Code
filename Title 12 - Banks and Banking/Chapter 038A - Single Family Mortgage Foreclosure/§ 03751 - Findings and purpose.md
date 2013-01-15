@@ -50,11 +50,11 @@ Section is based on section 802 of title VIII of S. 2281, One Hundred Third Cong
 
 #### Effective Date
 
-Title II of Pub. L. 103–327, Sept. 28, 1994, 108 Stat. 2316, provided in part that title VIII of S. 2281, One Hundred Third Congress, as reported July 13, 1994, which is classified to this chapter, is incorporated into Pub. L. 103–327 and deemed enacted into law upon enactment of Pub. L. 103–327, which was approved Sept. 28, 1994.
+Pub. L. 103–327, title II, Sept. 28, 1994, 108 Stat. 2316, provided in part that title VIII of S. 2281, One Hundred Third Congress, as reported July 13, 1994, which is classified to this chapter, is incorporated into Pub. L. 103–327 and deemed enacted into law upon enactment of Pub. L. 103–327, which was approved Sept. 28, 1994.
 
 #### Short Title
 
-Section 801 of title VIII of S. 2281, One Hundred Third Congress, as reported July 13, 1994, which was enacted into law by title II of Pub. L. 103–327, Sept. 28, 1994, 108 Stat. 2316, provided in part, that: “This title \[enacting this chapter\] may be cited as the ‘Single Family Mortgage Foreclosure Act of 1994’.”
+Section 801 of title VIII of S. 2281, One Hundred Third Congress, as reported July 13, 1994, which was enacted into law by Pub. L. 103–327, title II \[title VIII, §801\], Sept. 28, 1994, 108 Stat. 2316, provided in part, that: “This title \[enacting this chapter\] may be cited as the ‘Single Family Mortgage Foreclosure Act of 1994’.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

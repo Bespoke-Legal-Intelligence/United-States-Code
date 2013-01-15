@@ -32,7 +32,7 @@
 
 &emsp;(3) the term “grand jury information” means matters occurring before a grand jury other than the deliberations of the grand jury or the vote of any grand juror.
 
-(Added Pub. L. 101–73, title IX, §964(a), Aug. 9, 1989, 103 Stat. 505; amended Pub. L. 106–102, title VII, §740, Nov. 12, 1999, 113 Stat. 1480; Pub. L. 106–185, §10, Apr. 25, 2000, 114 Stat. 217; Pub. L.107–273, div. C, title I, §11002, Nov. 2, 2002, 116 Stat. 1816.)
+(Added Pub. L. 101–73, title IX, §964(a), Aug. 9, 1989, 103 Stat. 505; amended Pub. L. 106–102, title VII, §740, Nov. 12, 1999, 113 Stat. 1480; Pub. L. 106–185, §10, Apr. 25, 2000, 114 Stat. 217; Pub. L. 107–273, div. C, title I, §11002, Nov. 2, 2002, 116 Stat. 1816.)
 
 #### References in Text
 

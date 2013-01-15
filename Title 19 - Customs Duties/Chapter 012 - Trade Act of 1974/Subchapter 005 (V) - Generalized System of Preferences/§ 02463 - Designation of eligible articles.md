@@ -114,7 +114,7 @@
 
 #### (C) Redesignations
 
-&emsp;&emsp;A country which is no longer treated as a beneficiary developing country with respect to an eligible article by reason of subparagraph (A) may, subject to the considerationsset forth in sections 2461 and 2462 of this title, be redesignated a beneficiary developing country with respect to such article if imports of such article from such country did not exceed the limitations in subparagraph (A) during the preceding calendar year.
+&emsp;&emsp;A country which is no longer treated as a beneficiary developing country with respect to an eligible article by reason of subparagraph (A) may, subject to the considerations set forth in sections 2461 and 2462 of this title, be redesignated a beneficiary developing country with respect to such article if imports of such article from such country did not exceed the limitations in subparagraph (A) during the preceding calendar year.
 
 #### (D) Least-developed beneficiary developing countries and beneficiary sub-Saharan African countries
 

@@ -54,7 +54,7 @@ Civil penalties owed under this chapter shall be paid to the Secretary for depos
 
 No proposed penalty which has been contested before the Commission under section 815(a) of this title shall be compromised, mitigated, or settled except with the approval of the Commission. No penalty assessment which has become a final order of the Commission shall be compromised, mitigated, or settled except with the approval of the court.
 
-#### (<i>l</i>) Inapplicability to black lung benefit provisions
+#### (l) Inapplicability to black lung benefit provisions
 
 The provisions of this section shall not be applicable with respect to subchapter IV of this chapter.
 
@@ -84,7 +84,7 @@ Pub. L. 109–280, §1301(1), struck out subsec. (d) which read as follows: “A
 
 Subsec. (b). Pub. L. 101–508, §3102(2), substituted “$5,000” for “1,000”.
 
-<b>1977</b>—Pub. L. 95–164 substituted provisions setting the civil and criminal penalties with regard to violations ofthis chapter for provisions relating to claims of idled miners, which provisions, as revised, were transferred to section 821 of this title.
+<b>1977</b>—Pub. L. 95–164 substituted provisions setting the civil and criminal penalties with regard to violations of this chapter for provisions relating to claims of idled miners, which provisions, as revised, were transferred to section 821 of this title.
 
 #### Effective Date of 1977 Amendment
 

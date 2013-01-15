@@ -86,7 +86,7 @@ Chairperson.—The Chairperson of the Advisory Committee shall be appointed for 
 
 &emsp;(7)
 
-Pay and expenses.—Members of the Advisory Committee shall serve without pay for such service but each member of the Advisory Committee shall be reimbursed from theUnited States Mint Public Enterprise Fund for travel, lodging, meals, and incidental expenses incurred in connection with attendance of such members at meetings of the Advisory Committee in the same amounts and under the same conditions as employees of the United States Mint who engage in official travel, as determined by the Secretary.
+Pay and expenses.—Members of the Advisory Committee shall serve without pay for such service but each member of the Advisory Committee shall be reimbursed from the United States Mint Public Enterprise Fund for travel, lodging, meals, and incidental expenses incurred in connection with attendance of such members at meetings of the Advisory Committee in the same amounts and under the same conditions as employees of the United States Mint who engage in official travel, as determined by the Secretary.
 
 &emsp;(8)
 
@@ -176,7 +176,7 @@ Abolishment of Citizens Commemorative Coin Advisory Committee.—Effective on th
 
 “(c)
 
-Continuity of Members of Citizens Commemorative Coin Advisory Committee.—Subject to paragraphs (1) and (2) of section 5135(b) of title 31, United States Code, any person who is a member of the Citizens Commemorative Coin Advisory Committee on the date of the enactment of this Act \[Apr. 23, 2003\], other than the member of such committee who is appointed from among the officers or employees of the UnitedStates Mint, may continue to serve the remainder of the term to which such member was appointed as a member of the Citizens Coinage Advisory Committee in one of the positions as determined by the Secretary.”
+Continuity of Members of Citizens Commemorative Coin Advisory Committee.—Subject to paragraphs (1) and (2) of section 5135(b) of title 31, United States Code, any person who is a member of the Citizens Commemorative Coin Advisory Committee on the date of the enactment of this Act \[Apr. 23, 2003\], other than the member of such committee who is appointed from among the officers or employees of the United States Mint, may continue to serve the remainder of the term to which such member was appointed as a member of the Citizens Coinage Advisory Committee in one of the positions as determined by the Secretary.”
 
 #### Staggered Terms for Members of Citizens Commemorative Coin Advisory Committee
 

@@ -28,9 +28,9 @@
 
 &emsp;(K) contain such additional information and assurances as the Secretary may find necessary to carry out the purposes of this subsection.
 
-(3)(A) From the sums appropriated for such purpose for each fiscal year, the several Statesshall be entitled to allotments determined, in accordance with regulations, on the basis of the population and the per capita income of the respective States; except that no such allotment to any State for any fiscal year shall be less than 1 per centum of the sum appropriated for such fiscal year pursuant to paragraph (1). Any such allotment to a State for a fiscal year shall remain available for obligation by the State, in accordance with the provisions of this subsection and the State's plan approved thereunder, until the close of the succeeding fiscal year.
+(3)(A) From the sums appropriated for such purpose for each fiscal year, the several States shall be entitled to allotments determined, in accordance with regulations, on the basis of the population and the per capita income of the respective States; except that no such allotment to any State for any fiscal year shall be less than 1 per centum of the sum appropriated for such fiscal year pursuant to paragraph (1). Any such allotment to a State for a fiscal year shall remain available for obligation by the State, in accordance with the provisions of this subsection and the State's plan approved thereunder, until the close of the succeeding fiscal year.
 
-(B) The amount of any allotment to a State under subparagraph (A) for any fiscal year which the Secretary determines will not be required by the State, during the period for which it is available, for the purposes for which allotted shall be available for reallotment by the Secretary from time to time, on such date or dates as he may fix, to other States with respect to which such a determination has not been made, in proportion to the original allotments to such States under subparagraph (A) for such fiscal year, but with such proportionate amount for any of such other States being reduced to the extent it exceeds the sum the Secretary estimates such State needs and will be able to use during such period; and the total of such reductions shall be similarly reallotted among the States whose proportionate amounts were not so reduced. Any amount so reallotted to a State from funds appropriated pursuant to this subsection for a fiscal year shall be deemed part of its allotment under subparagraph (A) for such fiscal year.
+(B) The amount of any allotment to a State under subparagraph (A) for any fiscal year which the Secretary determines will not be required by the State, during the period for which it is available, for the purposes for which allotted shall be available for reallotment by the Secretary from time to time, on such date or dates as he may fix, to other States with respect to which such a determination has not been made, in proportion to the original allotments to suchStates under subparagraph (A) for such fiscal year, but with such proportionate amount for any of such other States being reduced to the extent it exceeds the sum the Secretary estimates such State needs and will be able to use during such period; and the total of such reductions shall be similarly reallotted among the States whose proportionate amounts were not so reduced. Any amount so reallotted to a State from funds appropriated pursuant to this subsection for a fiscal year shall be deemed part of its allotment under subparagraph (A) for such fiscal year.
 
 (4) From each State's allotment for a fiscal year under this subsection, the State shall from time to time be paid the Federal share of the expenditures incurred during that year or the succeeding year pursuant to its State plan approved under this subsection. Such payments shall be made on the basis of estimates by the Secretary of the sums the State will need in order to perform the planning under its approved State plan under this subsection, but with such adjustments as may be necessary to take account of previously made underpayments or overpayments. The “Federal share” for any State for purposes of this subsection shall be all, or such part as the Secretary may determine, of the cost of such planning, except that in the case of the allotments for the fiscal year ending June 30, 1970, it shall not exceed 75 per centum of such cost.
 
@@ -42,11 +42,11 @@
 
 (2)(A) In order to be approved under this subsection, an application for a grant under this subsection must contain or be supported by reasonable assurances that there has been or will be established, in or for the area with respect to which such grant is sought, an areawide health planning council. The membership of such council shall include representatives of public, voluntary, and nonprofit private agencies, institutions, and organizations concerned with health (including representatives of the interests of local government of the regional medical program for such area, and of consumers of health services). A majority of the members of such council shall consist of representatives of consumers of health services.
 
-(B) In addition, an application for a grant under this subsection must contain or be supported by reasonable assurances that the areawide health planning agency has made provision for assisting health care facilities in its area to develop a program for capital expenditures for replacement, modernization, and expansionwhich is consistent with an overall State plan which will meet the needs of the State and the area for health care facilities, equipment, and services without duplication and otherwise in the most efficient and economical manner.
+(B) In addition, an application for a grant under this subsection must contain or be supported by reasonable assurances that the areawide health planning agency has made provision for assisting health care facilities in its area to develop a program for capital expenditures for replacement, modernization, and expansion which is consistent with an overall State plan which will meet the needs of the State and the area for health care facilities, equipment, and services without duplication and otherwise in the most efficient and economical manner.
 
 #### (c) Project grants for training, studies, and demonstrations; authorization of appropriations
 
-The Secretary is also authorized, during the period beginning July 1, 1966, and ending June 30, 1974, to make grants to any public or nonprofit private agency, institution, or other organization to cover all or any part of the cost of projects for training, studies, or demonstrations looking toward the development of improved or more effective comprehensive health planning throughout the Nation. For the purposes of carrying out this subsection, there are hereby authorized to be appropriated $1,500,000 for the fiscal year ending June 30, 1967, $2,500,000 for the fiscal year ending June 30, 1968, $5,000,000 for the fiscal year ending June 30, 1969, $7,500,000 for the fiscal year ending June 30, 1970, $8,000,000 for the fiscal year ending June 30, 1971, $10,000,000 for the fiscal year ending June 30, 1972, $12,000,000 for the fiscal year ending June 30, 1973, and $4,700,000 for the fiscal year ending June 30, 1974.
+The Secretary is also authorized, during the period beginning July 1, 1966, and ending June 30, 1974, to make grants to any public or nonprofit private agency, institution, or other organization to cover all or any part of the cost of projects for training, studies, or demonstrations looking toward the development of improved or more effective comprehensive health planning throughout the Nation. For the purposes of carrying out this subsection, there are hereby authorized to be appropriated $1,500,000 for the fiscal year ending June 30, 1967, $2,500,000 for the fiscal year ending June 30, 1968, $5,000,000 for the fiscal year ending June 30, 1969, $7,500,000 for the fiscal year ending June 30, 1970, $8,000,000 for thefiscal year ending June 30, 1971, $10,000,000 for the fiscal year ending June 30, 1972, $12,000,000 for the fiscal year ending June 30, 1973, and $4,700,000 for the fiscal year ending June 30, 1974.
 
 (July 1, 1944, ch. 373, title III, §314, 58 Stat. 693; July 3, 1946, ch. 538, §9, 60 Stat. 424; June 16, 1948, ch. 481, §5, 62 Stat. 468; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Aug. 1, 1956, ch. 852, §18, 70 Stat. 910; Pub. L. 85–544, §1, July 22, 1958, 72 Stat. 400; Pub. L. 87–395, §2(a)–(d), Oct. 5, 1961, 75 Stat. 824; Pub. L. 87–688, §4(a)(1), Sept. 25, 1962, 76 Stat. 587; Pub. L. 89–109, §4, Aug. 5, 1965, 79 Stat. 436; Pub. L. 89–749, §3, Nov. 3, 1966, 80 Stat. 1181; Pub. L. 90–174, §§2(a)–(f), 3(b)(2), 8(a), (b), 12(d), Dec. 5, 1967, 81 Stat. 533–535, 540, 541; Pub. L. 91–296, title I, §111(b), title IV, §401(b)(1)(C), (D), June 30, 1970, 84 Stat. 340, 352; Pub. L. 91–513, title I, §3(b), Oct. 27, 1970, 84 Stat. 1241; Pub. L. 91–515, title II, §§220, 230, 240, 250, 260(a)–(c)(1), 282, Oct. 30, 1970, 84 Stat. 1304–1306, 1308; Pub. L. 91–616, title III, §331, Dec. 31, 1970, 84 Stat. 1853; Pub. L. 91–648, title IV, §403, Jan. 5, 1971, 84 Stat. 1925, as amended Pub. L. 95–454, title VI, §602(c), Oct. 13, 1978, 92 Stat. 1189; Pub. L. 92–255, title IV, §403(a), Mar. 21, 1972, 86 Stat. 77; Pub. L. 93–45, title I, §106, June 18, 1973, 87 Stat. 92; Pub. L. 93–151, §8, Nov. 9, 1973, 87 Stat. 568; Pub. L. 94–63, title I, §102, title V, §501(b), title VII, §701(a), (b), July 29, 1975, 89 Stat. 304, 346, 352; Pub. L. 94–484, title IX, §905(b)(1), Oct. 12, 1976, 90 Stat. 2325; Pub. L. 95–83, title III, §302, Aug. 1, 1977, 91 Stat. 387; Pub. L. 95–454, title VI, §602(c), Oct. 13, 1978, 92 Stat. 1189; Pub. L. 95–622, title I, §109, Nov. 9, 1978, 92 Stat. 3417; Pub. L. 95–626, title II, §201(a), (b)(2), Nov. 10, 1978, 92 Stat. 3570; Pub. L. 96–32, §6(e), (f), July 10, 1979, 93 Stat. 83; Pub. L. 96–79, title I, §115(k)(2), Oct. 4, 1979, 93 Stat. 610; Pub. L. 96–398, title I, §107(d), Oct. 7, 1980, 94 Stat. 1571; Pub. L. 97–35, title IX, §902(b), Aug. 13, 1981, 95 Stat. 559; Pub. L. 99–117, §12(a), Oct. 7, 1985, 99 Stat. 495; Pub. L. 102–54, §13(q)(1)(D), June 13, 1991, 105 Stat. 279.)
 
@@ -172,7 +172,7 @@ Subsecs. (h) to (m). Pub. L. 89–749 struck out subsecs. (h) to (m) which dealt
 
 <b>1965</b>—Subsec. (c). Pub. L. 89–109 substituted “first six fiscal years ending after June 30, 1961” for “first five fiscal years ending after June 30, 1961” and “$5,000,000” for “$2,500,000”.
 
-<b>1962</b>—Subsec. (<i>l</i>). Pub. L. 87–688 inserted “and American Samoa”, “or American Samoa”, and “or American Samoa, respectively” after “Guam”.
+<b>1962</b>—Subsec. (l). Pub. L. 87–688 inserted “and American Samoa”, “or American Samoa”, and “or American Samoa, respectively” after “Guam”.
 
 <b>1961</b>—Subsec. (c). Pub. L. 87–395, §2(a)–(c), substituted “of the first five fiscal years ending after June 30, 1961, the sum of $50,000,000” for “fiscal year a sum not to exceed $30,000,000”, “such amount as may be necessary” for “an amount, not to exceed $3,000,000”, “$2,500,000” for “$1,000,000”, and provided that when an appropriating act provides that the amounts it specifies are available only for allotments and payments for such services and activities under this subsection as specified in such act, the requirements of subsec. (h) shall apply to such allotments and payments.
 
@@ -180,7 +180,7 @@ Subsec. (m). Pub. L. 87–395, §2(d), added subsec. (m).
 
 <b>1958</b>—Subsec. (c). Pub. L. 85–544 designated existing provisions of second sentence as cl. (1) and added cl. (2).
 
-<b>1956</b>—Subsec. (<i>l</i>). Act Aug. 1, 1956, added subsec. (<i>l</i>).
+<b>1956</b>—Subsec. (l). Act Aug. 1, 1956, added subsec. (l).
 
 <b>1948</b>—Subsec. (e). Act June 16, 1948, §5(a), added subsec. (e) to provide for community programs of heart disease control. Former subsec. (e) redesignated (f).
 
@@ -202,7 +202,7 @@ Subsecs. (f), (h), (i). Act July 3, 1946, provided that in matters relating to w
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 902(h) of Pub. L. 97–35, set out as a note under section 238<i>l</i> of this title.
+Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 902(h) of Pub. L. 97–35, set out as a note under section 238l of this title.
 
 #### Effective Date of 1980 Amendment
 
@@ -214,13 +214,13 @@ Amendment by Pub. L. 96–79 effective one year after Oct. 4, 1979, see section 
 
 #### Effective Date of 1978 Amendments
 
-Section 201(b)(2) of Pub. L. 95–626 provided that the amendment made by section is effective Oct. 1, 1979.
+Pub. L. 95–626, title II, §201(b)(2), Nov. 10, 1978, 92 Stat. 3570, provided that the amendment made by section is effective Oct. 1, 1979.
 
-Section 403(b) of Pub. L. 91–648, as added by section 602(c) of Pub. L. 95–454, provided that the repeal of subsec. (f) of this section (as applicable to commissioned officers of the Public Health Service) is effective beginning on the effective date of the Civil Service Reform Act of 1978, i.e., 90 days after Oct. 13, 1978.
+Pub. L. 91–648, title IV, §403(b), as added by Pub. L. 95–454, title VI, §602(c), Oct. 13, 1978, 92 Stat. 1189, provided that the repeal of subsec. (f) of this section (as applicable to commissioned officers of the Public Health Service) is effective beginning on the effective date of the Civil Service Reform Act of 1978, i.e., 90 days after Oct. 13, 1978.
 
 #### Effective Date of 1975 Amendment
 
-Section 102 of Pub. L. 94–63 provided that the amendment made by that section is effective with respect to grants made under subsec. (d) of this section from appropriations under such subsection for fiscal years beginning after June 30, 1975.
+Pub. L. 94–63, title I, §102, July 29, 1975, 89 Stat. 304, provided that the amendment made by that section is effective with respect to grants made under subsec. (d) of this section from appropriations under such subsection for fiscal years beginning after June 30, 1975.
 
 Amendment by section 501(b) of Pub. L. 94–63 effective July 1, 1975, see section 608 of Pub. L. 94–63, set out as a note under section 247b of this title.
 
@@ -230,31 +230,31 @@ Repeal of subsec. (f) of this section (less applicability to commissioned office
 
 #### Effective Date of 1970 Amendments
 
-Section 260(c)(2) of Pub. L. 91–515 provided that: “The amendment made by paragraph (1) \[amending this section\] shall be effective with respect to grants under section 314(c) of the Public Health Service Act \[subsec. (e) of this section\] which are made after the date of enactment of this Act \[Oct. 30, 1970.\]”
+Pub. L. 91–515, title II, §260(c)(2), Oct. 30, 1970, 84 Stat. 1306, provided that: “The amendment made by paragraph (1) \[amending this section\] shall be effective with respect to grants under section 314(c) of the Public Health Service Act \[subsec. (e) of this section\] which are made after the date of enactment of this Act \[Oct. 30, 1970.\]”
 
-Section 401(b)(1) of Pub. L. 91–296 provided that the amendment made by that section is effective with respect to appropriations for fiscal years beginning after June 30, 1970.
+Pub. L. 91–296, title IV, §401(b)(1), June 30, 1970, 84 Stat. 352, provided that the amendment made by that section is effective with respect to appropriations for fiscal years beginning after June 30, 1970.
 
 #### Effective Date of 1967 Amendment
 
-Section 2(d)(2), (f) of Pub. L. 90–174 provided that the amendments made by that section are effective July 1, 1968.
+Pub. L. 90–174, §2(d)(2), (f), Dec. 5, 1967, 81 Stat. 534, provided that the amendments made by that section are effective July 1, 1968.
 
-Section 3(b) of Pub. L. 90–174 provided that the amendment of this section, the repeal of section 291n of this title, and the enactment of provisions set out as a note under section 242b of this title by such section 3(b) is effective with respect to appropriations for fiscal years ending after June 30, 1967.
+Pub. L. 90–174, §3(b), Dec. 5, 1967, 81 Stat. 535, provided that the amendment of this section, the repeal of section 291n of this title, and the enactment of provisions set out as a note under section 242b of this title by such section 3(b) is effective with respect to appropriations for fiscal years ending after June 30, 1967.
 
 #### Effective Date of 1966 Amendment
 
-Section 6 of Pub. L. 89–749 provided in part that: “The amendments made by section 3 \[amending this section\] shall become effective as of July 1, 1966, except that the provisions of section 314 of the Public Health Service Act \[this section\] as in effect prior to the enactment of this Act shall be effective until July 1, 1967, in lieu of the provisions of subsections (d) and (e), and the provisions of subsections (g) insofar as they relate to such subsections (d) and (e), of section 314 of the Public Health Service Act \[this section\] as amended by this Act.”
+Pub. L. 89–749, §6, Nov. 3, 1966, 80 Stat. 1190, provided in part that: “The amendments made by section 3 \[amending this section\] shall become effective as of July 1, 1966, except that the provisions of section 314 of the Public Health Service Act \[this section\] as in effect prior to the enactment of this Act shall be effective until July 1, 1967, in lieu of the provisions of subsections (d) and (e), and the provisions of subsections (g) insofar as they relate to such subsections (d) and (e), of section 314 of the Public Health Service Act \[this section\] as amended by this Act.”
 
 #### Effective Date of 1962 Amendment
 
-Section 4(b) of Pub. L. 87–688 provided that: “The amendments made by this section \[amending this section and sections 291g, 291i, and 291t of this title\] shall become effective July 1, 1962.”
+Pub. L. 87–688, §4(b), Sept. 25, 1962, 76 Stat. 587, provided that: “The amendments made by this section \[amending this section and sections 291g, 291i, and 291t of this title\] shall become effective July 1, 1962.”
 
 #### Effective and Termination Date of 1958 Amendment
 
-Section 2 of Pub. L. 85–544 provided that: “The amendment made by the first section of this Act \[amending this section\] shall be applicable only to the fiscal years beginning July 1, 1958, and July 1, 1959.”
+Pub. L. 85–544, §2, July 22, 1958, 72 Stat. 401, provided that: “The amendment made by the first section of this Act \[amending this section\] shall be applicable only to the fiscal years beginning July 1, 1958, and July 1, 1959.”
 
 #### Effective Date of 1956 Amendment
 
-Section 18 of act Aug. 1, 1956, provided that the amendment made by that section is effective July 1, 1956.
+Act Aug. 1, 1956, ch. 852, §18, 70 Stat. 910, provided that the amendment made by that section is effective July 1, 1956.
 
 #### Repeals
 
@@ -272,7 +272,7 @@ Pub. L. 101–582, Nov. 15, 1990, 104 Stat. 2867, provided for grants for State 
 
 #### Congressional Findings and Declaration
 
-Section 201(b)(1) of Pub. L. 95–626 provided that: “The Congress finds and declares that—
+Pub. L. 95–626, title II, §201(b)(1), Nov. 10, 1978, 92 Stat. 3570, provided that: “The Congress finds and declares that—
 
 &emsp;“(A) individual health status can be effectively and economically improved through an adequate investment in community public health programs and services;
 
@@ -284,13 +284,13 @@ Section 201(b)(1) of Pub. L. 95–626 provided that: “The Congress finds and d
 
 &emsp;“(E) the States and their communities, not the Federal Government, should have primary responsibility for identifying and measuring the impact of public health problems and the allocation of resources for their amelioration.”
 
-Section 2 of Pub. L. 89–749 provided that:
+Pub. L. 89–749, §2, Nov. 3, 1966, 80 Stat. 1180, provided that:
 
-“(a) The Congress declares that fulfillment of our national purpose depends on promoting and assuring the highest level of health attainable for every person, in an environment which contributes positively to healthful individual and family living; that attainment of this goal depends on an effective partnership, involving close intergovernmental collaboration, official and voluntary efforts, and participation of individuals and organizations; that Federal financial assistance must be directed to support the marshaling of all health resources—national, State, and local—to assure comprehensive health services of high quality for every person, but without interference with existing patterns of private professional practice of medicine, dentistry, and related healing arts.
+“(a) The Congress declares that fulfillment of our national purpose depends on promoting and assuring thehighest level of health attainable for every person, in an environment which contributes positively to healthful individual and family living; that attainment of this goal depends on an effective partnership, involving close intergovernmental collaboration, official and voluntary efforts, and participation of individuals and organizations; that Federal financial assistance must be directed to support the marshaling of all health resources—national, State, and local—to assure comprehensive health services of high quality for every person, but without interference with existing patterns of private professional practice of medicine, dentistry, and related healing arts.
 
 “(b) To carry out such purpose, and recognizing the changing character of health problems, the Congress finds that comprehensive planning for health services, health manpower, and health facilities is essential at every level of government; that desirable administration requires strengthening the leadership and capacities of State health agencies; and that support of health services provided people in their communities should be broadened and made more flexible.”
 
-Section 2 of act July 3, 1956, provided that:
+Act July 3, 1956, ch. 852, §2, 70 Stat. 908, provided that:
 
 “(a) The Congress hereby finds and declares—
 
@@ -302,7 +302,7 @@ Section 2 of act July 3, 1956, provided that:
 
 #### Limitation on Grants-in-Aid to Schools of Public Health
 
-Section 2 of Pub. L. 85–544, which had limited the authority of the Surgeon General to make grants-in-aid totaling not to exceed $1,000,000 annually to schools of public health for fiscal year beginning July 1, 1958, and July 1, 1959, was repealed by section 2 of Pub. L. 86–720, Sept. 8, 1960, 74 Stat. 820.
+Pub. L. 85–544, §2, July 22, 1958, 72 Stat. 401, which had limited the authority of the Surgeon General to make grants-in-aid totaling not to exceed $1,000,000 annually to schools of public health for fiscal year beginning July 1, 1958, and July 1, 1959, was repealed by section 2 of Pub. L. 86–720, Sept. 8, 1960, 74 Stat. 820.
 
 #### Grants to States To Provide for Vaccination Against Poliomyelitis
 
@@ -310,5 +310,5 @@ The Poliomyelitis Vaccination Assistance Act of 1955, act Aug. 12, 1955, ch. 863
 
 #### Applicability of Reorganization Plan No. 3 of 1966
 
-Section 7 of Pub. L. 89–749 provided that: “The provisions enacted by this Act \[amending this section and sections 242g and 243 of this title\] shall be subject to the provisions of Reorganization Plan No. 3 of 1966 \[set out as a note under section 202 of this title\].”
+Pub. L. 89–749, §7, Nov. 3, 1966, 80 Stat. 1190, provided that: “The provisions enacted by this Act \[amending this section and sections 242g and 243 of this title\] shall be subject to the provisions of Reorganization Plan No. 3 of 1966 \[set out as a note under section 202 of this title\].”
 

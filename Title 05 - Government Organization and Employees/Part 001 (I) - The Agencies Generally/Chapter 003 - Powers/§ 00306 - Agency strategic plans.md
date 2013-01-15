@@ -24,7 +24,7 @@
 
 (b) The strategic plan shall cover a period of not less than 4 years following the fiscal year in which the plan is submitted. As needed, the head of the agency may make adjustments to the strategic plan to reflect significant changes in the environment in which the agency is operating, with appropriate notification of Congress.
 
-(c) The performance plan required by section 1115(b) of title 31 shall be consistent with the agency's strategic plan. A performance plan may not be submitted for a fiscal year not covered by a current strategic plan under this section.
+(c) The performance plan required by section 1115(b) of title 31 shall be consistent with the agency's strategic plan. A performance planmay not be submitted for a fiscal year not covered by a current strategic plan under this section.
 
 (d) When developing or making adjustments to a strategic plan, the agency shall consult periodically with the Congress, including majority and minority views from the appropriate authorizing, appropriations, and oversight committees, and shall solicit and consider the views and suggestions of those entities potentially affected by or interested in such a plan. The agency shall consult with the appropriate committees of Congress at least once every 2 years.
 

@@ -34,7 +34,7 @@ Testing Facilities Involved in Accidents.—The Secretary may require testing of
 
 &emsp;(1) notifying the appropriate State official in the State in which the facility is located; and
 
-&emsp;(2) attempting to negotiate a mutually acceptable plan for testing with the owner of the facility and, when the Secretary considers appropriate, the National Transportation Safety Board.
+&emsp;(2) attempting to negotiate a mutually acceptable plan for testing with the owner of thefacility and, when the Secretary considers appropriate, the National Transportation Safety Board.
 
 (g)
 
@@ -64,7 +64,7 @@ Withholding Information From Congress.—This section does not authorize informa
 
 Authority for Cooperative Agreements.—To carry out this chapter, the Secretary may enter into grants, cooperative agreements, and other transactions with any person, agency, or instrumentality of the United States, any unit of State or local government, any educational institution, or any other entity to further the objectives of this chapter. The objectives of this chapter include the development, improvement, and promotion of one-call damage prevention programs, research, risk assessment, and mapping.
 
-(<i>l</i>)
+(l)
 
 Safety Orders.—
 
@@ -116,7 +116,7 @@ Projects to which applicable.—Subparagraph (A) applies to any project that—
 
 &emsp;&emsp;&emsp;&emsp;(I) the cost estimate provided to the Federal Energy Regulatory Commission in an application for a certificate of public convenience and necessity for a gas pipeline facility or an application for authorization for a liquefied natural gas pipeline facility; or
 
-&emsp;&emsp;&emsp;&emsp;(II) a good faith estimate developed by the person proposing a hazardous liquid pipeline facility and submitted to the Secretary; or
+&emsp;&emsp;&emsp;&emsp;(II) a good faith estimate developed by the person proposing a hazardous liquidpipeline facility and submitted to the Secretary; or
 
 &emsp;&emsp;&emsp;(ii) uses new or novel technologies or design, as determined by the Secretary.
 
@@ -142,7 +142,7 @@ Use.—Amounts in the Fund shall be available to the Secretary, in amounts speci
 
 &emsp;(4)
 
-No additional permitting authority.—Nothing in this subsection may be construedas authorizing the Secretary to require a person to obtain a permit before beginning design and construction in connection with a project described in paragraph (1)(B).
+No additional permitting authority.—Nothing in this subsection may be construed as authorizing the Secretary to require a person to obtain a permit before beginning design and construction in connection with a project described in paragraph (1)(B).
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1321; Pub. L. 103–429, §6(77), Oct. 31, 1994, 108 Stat. 4388; Pub. L. 104–304, §§12, 19, Oct. 12, 1996, 110 Stat. 3802, 3804; Pub. L. 107–355, §7, Dec. 17, 2002, 116 Stat. 2993; Pub. L. 109–468, §§11, 13, 17, Dec. 29, 2006, 120 Stat. 3494–3496; Pub. L. 112–90, §13(a), Jan. 3, 2012, 125 Stat. 1913.)
 
@@ -348,11 +348,11 @@ Deposit.—The Secretary shall deposit all funds paid to the Secretary under thi
 
 Authorization of appropriations.—Funds deposited pursuant to this subsection are authorized to be appropriated for the purposes set forth in section 60301(d).”
 
-<b>2006</b>—Subsec. (<i>l</i>). Pub. L. 109–468, §13, reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “If the Secretary decides that a pipeline facility has a potential safety-related condition, the Secretary may order the operator of the facility to take necessary corrective action, including physical inspection, testing, repair, replacement, or other appropriate action to remedy the safety-related condition.”
+<b>2006</b>—Subsec. (l). Pub. L. 109–468, §13, reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “If the Secretary decides that a pipeline facility has a potential safety-related condition, the Secretary may order the operator of the facility to take necessary corrective action, including physical inspection, testing, repair, replacement, or other appropriate action to remedy the safety-related condition.”
 
 Subsecs. (m), (n). Pub. L. 109–468, §§11, 17, added subsecs. (m) and (n).
 
-<b>2002</b>—Subsec. (<i>l</i>). Pub. L. 107–355 added subsec. (<i>l</i>).
+<b>2002</b>—Subsec. (l). Pub. L. 107–355 added subsec. (l).
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–304, §19, inserted “and promotional activities relating to prevention of damage to pipeline facilities” after “and training activities”.
 
@@ -408,7 +408,7 @@ Minimum Requirements.—In revising the regulations, the Secretary, at a minimum
 
 &emsp;“(2) review procedures for owners and operators of pipeline facilities and the National Response Center to provide thorough and coordinated notification to all relevant State and local emergency response officials, including 911 emergency call centers, for the jurisdictions in which those pipeline facilities are located in the event of an accident or incident, and revise such procedures as appropriate; and
 
-&emsp;“(3) require such owners and operators to revise their initial telephonic or electronic notice to the Secretary and the National Response Center with an estimate of the amount of the product released, an estimate of the number of fatalities and injuries, if any, and any other information determined appropriate by the Secretary within 48 hours of the accident or incident, to the extent practicable.
+&emsp;“(3) require such owners and operators to revise their initial telephonic or electronic notice to the Secretary and the National Response Center with anestimate of the amount of the product released, an estimate of the number of fatalities and injuries, if any, and any other information determined appropriate by the Secretary within 48 hours of the accident or incident, to the extent practicable.
 
 “(c)
 

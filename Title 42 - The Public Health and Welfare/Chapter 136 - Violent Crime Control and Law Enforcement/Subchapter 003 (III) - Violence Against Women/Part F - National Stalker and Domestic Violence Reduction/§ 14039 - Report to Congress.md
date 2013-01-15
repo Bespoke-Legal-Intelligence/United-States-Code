@@ -8,7 +8,7 @@ Each even-numbered fiscal year, the Attorney General shall submit to the Congres
 
 <b>2006</b>—Pub. L. 109–162, §1135(a), which directed an amendment substantially identical to that directed by Pub. L. 109–162, §3(b)(1), was repealed by Pub. L. 109–271.
 
-Pub. L. 109–162, §3(b)(1), which directed the substitution of “Each even-numbered fiscal year, the Attorney General shall submit to the Congress a biennial report that provides” for “The Attorney General shall submit to the Congress an annual report, beginning 1 year after September 13, 1994, that provides”, was executed by making the substitution for “The Attorney General shall submit to the Congress an annual report,beginning one year after September 13, 1994, that provides”, to reflect the probable intent of Congress.
+Pub. L. 109–162, §3(b)(1), which directed the substitution of “Each even-numbered fiscal year, the Attorney General shall submit to the Congress a biennial report that provides” for “The Attorney General shall submit to the Congress an annual report, beginning 1 year after September 13, 1994, that provides”, was executed by making the substitution for “The Attorney General shall submit to the Congress an annual report, beginning one year after September 13, 1994, that provides”, to reflect the probable intent of Congress.
 
 #### Report Relating to Stalking Laws
 

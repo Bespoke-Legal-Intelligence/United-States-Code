@@ -10,7 +10,7 @@ A prior section 602 of Pub. L. 93–344, title VI, July 12, 1974, 88 Stat. 324, 
 
 Section 665b, Pub. L. 93–344, title VI, §603, as added Pub. L. 101–508, title XIII, §13111, Nov. 5, 1990, 104 Stat. 1388–605, related to consideration of legislation before adoption of budget resolution for that fiscal year.
 
-A prior section 603 of Pub. L. 93–344, title VI, July 12, 1974, 88 Stat. 324, was classified to section 11 of former Title 31, prior to repeal and reenactment in section 1105(a)(1)–(14) of Title 31, Money and Finance, by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, the first section of which enacted Title 31.
+A prior section 603 of Pub. L. 93–344, title VI, July 12, 1974, 88 Stat. 324, was classified to section 11 of former Title 31, prior to repeal and reenactment in section 1105(a)(1)–(14) of Title 31, Money and Finance, by Pub.L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, the first section of which enacted Title 31.
 
 Section 665c, Pub. L. 93–344, title VI, §604, as added Pub. L. 101–508, title XIII, §13111, Nov. 5, 1990, 104 Stat. 1388–605, related to reconciliation directives regarding pay-as-you-go requirements.
 
@@ -26,5 +26,5 @@ A prior section 606 of Pub. L. 93–344, title VI, July 12, 1974, 88 Stat. 325, 
 
 #### Effective Date
 
-Section 607 of title VI of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, §13111, Nov. 5, 1990, 104 Stat. 1388–607, and amended by Pub. L. 103–66, title XIV, §14002(c)(3)(B), Aug. 10, 1993, 107 Stat. 684, provided that title VI of Pub. L. 93–344, enacting this subchapter, was effective Nov. 5, 1990, and was applicable to fiscal years 1991 to 1998, prior to repeal by Pub. L. 105–33, title X, §10118(a), Aug. 5, 1997, 111 Stat. 695.
+Pub. L. 93–344, title VI, §607, as added by Pub. L. 101–508, title XIII, §13111, Nov. 5, 1990, 104 Stat. 1388–607, and amended by Pub. L. 103–66, title XIV, §14002(c)(3)(B), Aug. 10, 1993, 107 Stat. 684, provided that title VI of Pub. L. 93–344, enacting this subchapter, was effective Nov. 5, 1990, and was applicable to fiscal years 1991 to 1998, prior to repeal by Pub. L. 105–33, title X, §10118(a), Aug. 5, 1997, 111 Stat. 695.
 

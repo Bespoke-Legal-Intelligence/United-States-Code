@@ -134,7 +134,7 @@ Amendment by Pub. L. 100–654 applicable with respect to any calendar year begi
 
 Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub. L. 99–335, set out as an Effective Date note under section 8401 of this title.
 
-Section 104(b) of Pub. L. 99–251 provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective with respect to contracts entered into or renewed for calendar years beginning after December 31, 1986.”
+Pub. L. 99–251, title I, §104(b), Feb. 27, 1986, 100 Stat. 15, provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective with respect to contracts entered into or renewed for calendar years beginning after December 31, 1986.”
 
 #### Effective Date of 1984 Amendment
 

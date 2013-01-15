@@ -18,7 +18,7 @@
 
 (d) A member who is performing full-time training duty or inactive-duty training is entitled to the benefits of this section only when he is officially determined to be in a missing status that results from the performance of duties prescribed by competent authority.
 
-(e) A member in a missing status who is continued in that status under section 555 of this title or under chapter 76 of title 10 is entitled tobe credited with pay and allowances under subsection (a).
+(e) A member in a missing status who is continued in that status under section 555 of this title or under chapter 76 of title 10 is entitled to be credited with pay and allowances under subsection (a).
 
 (Added Pub. L. 89–554, §5(b), Sept. 6, 1966, 80 Stat. 625; amended Pub. L. 92–169, §1, Nov. 24, 1971, 85 Stat. 489; Pub. L. 92–482, Oct. 12, 1972, 86 Stat. 796; Pub. L. 93–26, §1, Apr. 27, 1973, 87 Stat. 26; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–106, div. A, title V, §569(c)(2), Feb. 10, 1996, 110 Stat. 351.)
 
@@ -68,7 +68,7 @@ Only that portion of the source law which is applicable to members of the unifor
 
 In subsection (a), the first 22 words are substituted for 50 App. U.S.C. 1002(a) (1st 66 words) to conform to the definitions in 37 U.S.C. 101(3), (18), (20), (22), and (23) and revised section 551(2) of this chapter. The words “pay and allowances, as defined in this chapter,” are substituted for the enumeration of pay and allowances in 50 App. U.S.C. 1002(a) (1st sentence) to conform to the definition in revised section 551(3) of this chapter. The words “on active duty” are substituted for “performing full-time active duty” to conform to the definition in 37 U.S.C. 101(18).
 
-In subsection (b), the first sentence is substituted for 50 App. U.S.C. 1002(a) (1st 21 words of 2d sentence). The words “or employment” are omitted as inapplicable to members of the uniformed services. The words “entitlement to pay and allowances under subsection (a) of this section” are substituted for “Such entitlement to pay and allowances” for clarity. The words “Notwithstanding the death of a member while in a missing status” are substituted for 50 App. U.S.C. 1002(a) (2d sentence, less 1st 21 words). The word “member” is substituted for “person” and the word “Secretary” is substituted for “department” to conform to the definitions in 37 U.S.C. 101(5) and (23).
+In subsection (b), the first sentence is substituted for 50 App. U.S.C. 1002(a) (1st 21 words of 2d sentence). The words “or employment” are omitted as inapplicable to members of the uniformed services. The words “entitlement to pay and allowances under subsection (a) of this section” are substituted for “Such entitlement to pay and allowances” for clarity. The words “Notwithstanding the death of a member while in a missing status” are substituted for 50 App. U.S.C. 1002(a) (2d sentence, less 1st 21 words). The word “member” is substituted for “person” and the word “Secretary” is substitutedfor “department” to conform to the definitions in 37 U.S.C. 101(5) and (23).
 
 In subsection (c), the words “A member” are substituted for “such person”. The words “under subsection (a) of this section” are inserted for clarity. The words “United States” are substituted for “Government” to conform to the style of title 37.
 
@@ -94,7 +94,7 @@ Subsec. (e). Pub. L. 104–106, §569(c)(2)(C), inserted “or under chapter 76 
 
 #### Effective Date of 1973 Amendment
 
-Section 2 of Pub. L. 93–26 provided that: “For the purposes of chapter 13 \[§1301 et seq.\] of title 38, United States Code, this Act \[amending this section\] becomes effective as of November 24, 1971. For all other purposes this Act becomes effective as of February 28, 1961.”
+Pub. L. 93–26, §2, Apr. 27, 1973, 87 Stat. 26, provided that: “For the purposes of chapter 13 \[§1301 et seq.\] of title 38, United States Code, this Act \[amending this section\] becomes effective as of November 24, 1971. For all other purposes this Act becomes effective as of February 28, 1961.”
 
 #### Effective Date of 1971 Amendment
 

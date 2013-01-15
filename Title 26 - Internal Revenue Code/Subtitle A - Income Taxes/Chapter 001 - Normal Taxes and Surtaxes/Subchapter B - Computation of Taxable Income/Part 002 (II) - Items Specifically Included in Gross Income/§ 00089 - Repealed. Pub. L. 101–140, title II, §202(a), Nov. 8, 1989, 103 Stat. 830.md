@@ -4,7 +4,7 @@ Section, added Pub. L. 99–514, title XI, §1151(a), Oct. 22, 1986, 100 Stat. 2
 
 #### Effective Date of Repeal
 
-Section 202(c) of Pub. L. 101–140 provided that: “The amendments made by this section \[repealing this section\] shall take effect as if included in section 1151 of the Tax Reform Act of 1986 \[Pub. L. 99–514, see section 1151(k) set out as a note under section 79 of this title\].”
+Pub. L. 101–140, title II, §202(c), Nov. 8, 1989, 103 Stat. 830, provided that: “The amendments made by this section \[repealing this section\] shall take effect as if included in section 1151 of the Tax Reform Act of 1986 \[Pub. L. 99–514, see section 1151(k) set out as a note under section 79 of this title\].”
 
 #### Nonenforcement of Section for Fiscal Year 1990
 
@@ -12,9 +12,9 @@ Pub. L. 101–136, title V, §528, Nov. 3, 1989, 103 Stat. 816, provided that: �
 
 #### Transitional Provisions
 
-Section 3021(c) of Pub. L. 100–647 provided for the first issue of valuation rules, the interim impact on former employees, the meeting of the written requirement for covered plans in connection with implementation of section 89 of the Code, and the issuance by Nov. 15, 1988, of rules necessary to carry out section 89, prior to repeal by Pub. L. 101–140, title II, §203(a)(7), Nov. 8, 1989, 103 Stat. 831.
+Pub. L. 100–647, title III, §3021(c), Nov. 10, 1988, 102 Stat. 3633, provided for the first issue of valuation rules, the interim impact on former employees, the meeting of the written requirement for covered plans in connection with implementation of section 89 of the Code, and the issuance by Nov. 15, 1988, of rules necessary to carry out section 89, prior to repeal by Pub. L. 101–140, title II, §203(a)(7), Nov. 8, 1989, 103 Stat. 831.
 
 #### Part-Time Employee Defined for Purposes of Subsection (f)
 
-Section 6070 of Pub. L. 100–647 increased the number of employees who would be excluded from consideration under this section during plan years 1989 and 1990, in the case of a plan maintained by an employer which employs fewer than 10 employees on a normal working day during a plan year, prior to repeal by Pub. L. 101–140, title II, §203(a)(7), Nov. 8, 1989, 103 Stat. 831.
+Pub. L. 100–647, title VI, §6070, Nov. 10, 1988, 102 Stat. 3704, increased the number of employees who would be excluded from consideration under this section during plan years 1989 and 1990, in the case of a plan maintained by an employer which employs fewer than 10 employees on a normal working day during a plan year, prior to repeal by Pub. L. 101–140, title II, §203(a)(7), Nov. 8, 1989, 103 Stat. 831.
 

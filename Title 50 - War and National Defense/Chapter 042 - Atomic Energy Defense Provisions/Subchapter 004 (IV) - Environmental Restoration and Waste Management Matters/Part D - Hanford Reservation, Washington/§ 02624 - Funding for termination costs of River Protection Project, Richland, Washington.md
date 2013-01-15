@@ -8,7 +8,7 @@ The Secretary of Energy may not use appropriated funds to establish a reserve fo
 
 &emsp;(3) funds appropriated specifically for the payment of such costs.
 
-(Pub. L. 107–314, div. D, title XLIV, §4444, formerly Pub. L. 106–398, §1 \[div. C, title XXXI, §3131\], Oct. 30, 2000, 114 Stat. 1654, 1654A–454; renumbered Pub. L. 107–314, div. D, title XLIV, §4444, and amended Pub. L. 108–136, div. C, title XXXI, §3141(g)(19), Nov. 24, 2003, 117 Stat. 1768.)
+(Pub. L. 107–314, div. D, title XLIV, §4444, formerly Pub. L. 106–398, §1 \[div. C, title XXXI,§3131\], Oct. 30, 2000, 114 Stat. 1654, 1654A–454; renumbered Pub. L. 107–314, div. D, title XLIV, §4444, and amended Pub. L. 108–136, div. C, title XXXI, §3141(g)(19), Nov. 24, 2003, 117 Stat. 1768.)
 
 #### Amendments
 

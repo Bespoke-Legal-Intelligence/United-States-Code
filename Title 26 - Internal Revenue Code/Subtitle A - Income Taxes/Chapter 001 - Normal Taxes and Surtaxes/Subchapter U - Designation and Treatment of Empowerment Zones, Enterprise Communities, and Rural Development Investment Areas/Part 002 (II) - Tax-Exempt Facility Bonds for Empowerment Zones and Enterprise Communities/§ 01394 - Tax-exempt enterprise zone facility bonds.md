@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For purposes of part IV of subchapter B of this chapter (relating to tax exemption requirementsfor State and local bonds), the term “exempt facility bond” includes any bond issued as part of an issue 95 percent or more of the net proceeds (as defined in section 150(a)(3)) of which are to be used to provide any enterprise zone facility.
+For purposes of part IV of subchapter B of this chapter (relating to tax exemption requirements for State and local bonds), the term “exempt facility bond” includes any bond issued as part of an issue 95 percent or more of the net proceeds (as defined in section 150(a)(3)) of which are to be used to provide any enterprise zone facility.
 
 #### (b) Enterprise zone facility
 
@@ -96,7 +96,7 @@ The requirements of sections 147(c)(1)(A) and 147(d) shall not apply to any bond
 
 #### (2) Loss of deductions where facility ceases to be qualified
 
-&emsp;No deduction shall be allowed under this chapter for interest on any financing provided from any bond to which subsection (a) applies with respect to any facility to the extent suchinterest accrues during the period beginning on the first day of the calendar year which includes the date on which—
+&emsp;No deduction shall be allowed under this chapter for interest on any financing provided from any bond to which subsection (a) applies with respect to any facility to the extent such interest accrues during the period beginning on the first day of the calendar year which includes the date on which—
 
 &emsp;&emsp;(A) substantially all of the facility with respect to which the financing was provided ceases to be used in an empowerment zone or enterprise community, or
 
@@ -200,11 +200,11 @@ Amendment by section 1(a)(7) \[title I, §116(b)(3), (4)\] of Pub. L. 106–554 
 
 #### Effective Date of 1997 Amendment
 
-Section 953(b) of Pub. L. 105–34 provided that: “The amendment made by this section \[amending this section\] shall apply to obligations issued after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title IX, §953(b), Aug. 5, 1997, 111 Stat. 888, provided that: “The amendment made by this section \[amending this section\] shall apply to obligations issued after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
-Section 955(c) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section\] shall apply to obligations issued after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title IX, §955(c), Aug. 5, 1997, 111 Stat. 890, provided that: “The amendments made by this section \[amending this section\] shall apply to obligations issued after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of 1993, Pub. L. 103–66, §§13001–13444, to which such amendment relates, see section 1703(<i>o</i>) of Pub. L. 104–188, set out as a note under section 39 of this title.
+Amendment by Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of 1993, Pub. L. 103–66, §§13001–13444, to which such amendment relates, see section 1703(o) of Pub. L. 104–188, set out as a note under section 39 of this title.
 

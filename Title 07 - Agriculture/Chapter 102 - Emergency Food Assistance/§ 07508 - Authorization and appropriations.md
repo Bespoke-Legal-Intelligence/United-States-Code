@@ -28,7 +28,7 @@
 
 (b) The value of the commodities made available under this chapter and the funds of the Corporation used to pay the costs of initial processing, packaging (including forms suitable for home use), and delivering commodities to the States shall not be charged against appropriations made or authorized under this section.
 
-(Pub. L. 98–8, title II, §204, Mar. 24, 1983, 97 Stat. 35; Pub. L. 98–92, §2(6), Sept. 2, 1983, 97 Stat. 610; Pub. L. 99–198, title XV, §1569, Dec. 23, 1985, 99 Stat. 1592; Pub. L. 100–77, title VIII, §813, July 22, 1987, 101 Stat. 537; Pub. L. 100–435, title I, §§103(a)–(c), 105(a), Sept. 19, 1988, 102 Stat. 1647, 1650; Pub. L. 101–624, title XVII, §1772(c), (d), Nov. 28, 1990, 104 Stat. 3808, 3809; Pub. L. 104–127, title IV, §403(a), Apr. 4, 1996, 110 Stat. 1029; Pub. L. 104–193, title VIII, §871(c), (e)(2), Aug. 22, 1996, 110 Stat. 2345; Pub. L. 107–171, title IV, §4204, May 13, 2002, 116 Stat. 330; Pub. L. 110–234, titleIV, §§4201(c), 4406(b)(1), May 22, 2008, 122 Stat. 1121, 1141; Pub. L. 110–246, §4(a), title IV, §§4201(c), 4406(b)(1), June 18, 2008, 122 Stat. 1664, 1882, 1902.)
+(Pub. L. 98–8, title II, §204, Mar. 24, 1983, 97 Stat. 35; Pub. L. 98–92, §2(6), Sept. 2, 1983, 97 Stat. 610; Pub. L. 99–198, title XV, §1569, Dec. 23, 1985, 99 Stat. 1592; Pub. L. 100–77, title VIII, §813, July 22, 1987, 101 Stat. 537; Pub. L. 100–435, title I, §§103(a)–(c), 105(a), Sept. 19, 1988, 102 Stat. 1647, 1650; Pub. L. 101–624, title XVII, §1772(c), (d), Nov. 28, 1990, 104 Stat. 3808, 3809; Pub. L. 104–127, title IV, §403(a), Apr. 4, 1996, 110 Stat. 1029; Pub. L. 104–193, title VIII, §871(c), (e)(2), Aug. 22, 1996, 110 Stat. 2345; Pub. L. 107–171, title IV, §4204, May 13, 2002, 116 Stat. 330; Pub. L. 110–234, title IV, §§4201(c), 4406(b)(1), May 22, 2008, 122 Stat. 1121, 1141; Pub. L. 110–246, §4(a), title IV, §§4201(c), 4406(b)(1), June 18, 2008, 122 Stat. 1664, 1882, 1902.)
 
 #### Codification
 
@@ -54,7 +54,7 @@ Subsec. (a)(1). Pub. L. 101–624, §1772(c)(3), substituted “1991 through 199
 
 Subsec. (a)(2). Pub. L. 101–624, §1772(d), inserted “repackaging, processing,” after “handling,” in second sentence.
 
-Subsec. (b). Pub. L. 101–624, §1772(c)(1), (2), redesignated subsec. (d) as (b) and struck out former subsec. (b) which read as follows: “There are hereby authorized to be appropriated $50,000,000 for each of the fiscal years ending September 30, 1984, and September 30, 1985, for the Secretary to make available to the States for storage and distribution costs of which not less than twenty per centum of the amount appropriated under this subsection in any fiscal year shall be made available for paying or providing advance payments to cover the actual costs incurred by charitable institutions, food banks, hunger centers, soup kitchens, and similar nonprofit eligible recipient agencies providing nutrition assistance to relieve situations of emergency and distress through the provision of food to needy persons, including low-income and unemployed persons: <i>Provided</i>, That in no case shall such payments exceed five per centum of the value of commodities distributed by any such agency.”
+Subsec. (b). Pub. L. 101–624, §1772(c)(1), (2), redesignated subsec. (d) as (b) and struck out former subsec. (b) which read as follows: “There are hereby authorized to be appropriated $50,000,000 for each of the fiscal years ending September 30, 1984, and September 30, 1985, for the Secretary to make available to the States for storage and distribution costs of which not less than twenty per centum of the amount appropriated under this subsection in any fiscal year shall be made available for paying or providing advance payments to cover the actual costs incurred by charitable institutions, foodbanks, hunger centers, soup kitchens, and similar nonprofit eligible recipient agencies providing nutrition assistance to relieve situations of emergency and distress through the provision of food to needy persons, including low-income and unemployed persons: <i>Provided</i>, That in no case shall such payments exceed five per centum of the value of commodities distributed by any such agency.”
 
 Subsecs. (c), (d). Pub. L. 101–624, §1772(c)(2), redesignated subsecs. (c) and (d) as (a) and (b), respectively.
 
@@ -90,5 +90,5 @@ Amendment by section 103(a)–(c) of Pub. L. 100–435 to be effective and imple
 
 #### Effective Date of 1983 Amendment
 
-Section 2 of Pub. L. 98–92 provided in part that the amendment made by that section is effective Oct. 1, 1983.
+Pub. L. 98–92, §2, Sept. 2, 1983, 97 Stat. 608, provided in part that the amendment made by section 2 is effective Oct. 1, 1983.
 

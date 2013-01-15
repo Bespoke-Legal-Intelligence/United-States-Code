@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) the responsible party for each domestic facility (as defined in section 350d(b) of this title) and the United States agent for each foreign facility subject to a reinspection in such fiscal year, to cover reinspection-related costs for such year;
 
-&emsp;&emsp;(B) the responsible party for a domestic facility (as defined in section 350d(b) of this title) and an importer who does not comply with a recall order under section 350<i>l</i> of this title or under section 350a(f) of this title in such fiscal year, to cover food recall activities associated with such order performed by the Secretary, including technical assistance, follow-up effectiveness checks, and public notifications, for such year;
+&emsp;&emsp;(B) the responsible party for a domestic facility (as defined in section 350d(b) of this title) and an importer who does not comply with a recall order under section 350l of this title or under section 350a(f) of this title in such fiscal year, to cover food recall activities associated with such order performed by the Secretary, including technical assistance, follow-up effectiveness checks, and public notifications, for such year;
 
 &emsp;&emsp;(C) each importer participating in the voluntary qualified importer program under section 384b of this title in such year, to cover the administrative costs of such program for such year; and
 
@@ -64,7 +64,7 @@
 
 #### (ii) Crediting of fees
 
-&emsp;&emsp;&emsp;In establishing the fee amounts under subparagraph (A) for a fiscal year, the Secretary shall provide for the crediting of fees from the previous year to the next year if the Secretary overestimated the amount of fees needed to carry out suchactivities, and consider the need to account for any adjustment of fees and such other factors as the Secretary determines appropriate.
+&emsp;&emsp;&emsp;In establishing the fee amounts under subparagraph (A) for a fiscal year, the Secretary shall provide for the crediting of fees from the previous year to the next year if the Secretary overestimated the amount of fees needed to carry out such activities, and consider the need to account for any adjustment of fees and such other factors as the Secretary determines appropriate.
 
 #### (iii) Published guidelines
 
@@ -126,7 +126,7 @@ Fees authorized under subsection (a) shall be collected and available for obliga
 
 #### (2) Collection of unpaid fees
 
-&emsp;In any case where the Secretary does not receive payment of a fee assessed under this section within 30 days after it is due, such fee shall be treated as a claim of the United States Government subject to provisions of subchapter II of chapter 37 of title 31.
+&emsp;In any case where the Secretary does not receive payment of a fee assessed under this section within 30 days after it is due, such feeshall be treated as a claim of the United States Government subject to provisions of subchapter II of chapter 37 of title 31.
 
 #### (f) Annual report to Congress
 
@@ -134,7 +134,7 @@ Not later than 120 days after each fiscal year for which fees are assessed under
 
 #### (g) Authorization of appropriations
 
-For fiscal year 2010 and each fiscal year thereafter, there is authorized to be appropriated forfees under this section an amount equal to the total revenue amount determined under subsection (b) for the fiscal year, as adjusted or otherwise affected under the other provisions of this section.
+For fiscal year 2010 and each fiscal year thereafter, there is authorized to be appropriated for fees under this section an amount equal to the total revenue amount determined under subsection (b) for the fiscal year, as adjusted or otherwise affected under the other provisions of this section.
 
 (June 25, 1938, ch. 675, §743, as added Pub. L. 111–353, title I, §107(a), Jan. 4, 2011, 124 Stat. 3906.)
 

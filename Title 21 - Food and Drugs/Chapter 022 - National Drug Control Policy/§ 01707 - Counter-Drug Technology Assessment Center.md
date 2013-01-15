@@ -82,7 +82,7 @@ The Secretary of Defense, the Secretary of Homeland Security, and the Secretary 
 
 &emsp;&emsp;(C) A summary of the criteria used in making the determination on what requests were funded and what requests were not funded, except that such summary shall not include specific information on any individual requests.
 
-&emsp;&emsp;(D) A general assessment of the future needs of the program, based on expectedchanges in threats, expected technologies, and likely need from potential recipients.
+&emsp;&emsp;(D) A general assessment of the future needs of the program, based on expected changes in threats, expected technologies, and likely need from potential recipients.
 
 &emsp;&emsp;(E) An assessment of the effectiveness of the technologies transferred, based in part on the evaluations provided by the recipients, with a recommendation whether the technology should continue to be offered through the program.
 
@@ -94,7 +94,7 @@ The Secretary of Defense, the Secretary of Homeland Security, and the Secretary 
 
 #### Amendments
 
-<b>2006</b>—Subsec. (b). Pub. L. 109–469, §401(a), amended subsec. (b) generally. Prior to amendment, text read as follows: “There shall be at the head of the Center the Director of Technology, who shall be appointed by the Director of National Drug Control Policy from among individuals qualified and distinguished in the area of science, medicine, engineering, or technology.”
+<b>2006</b>—Subsec. (b). Pub. L. 109–469, §401(a), amended subsec. (b) generally. Prior to amendment, text read as follows: “There shall be at the head of the Center the Director of Technology, who shall be appointed by theDirector of National Drug Control Policy from among individuals qualified and distinguished in the area of science, medicine, engineering, or technology.”
 
 Subsec. (c). Pub. L. 109–469, §401(b)(1)(B), added subsec. (c) and struck out former subsec. (c) which related to additional responsibilities of the Director of National Drug Control Policy.
 

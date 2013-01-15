@@ -104,7 +104,7 @@ In case any judge or special trial judge electing under subsection (b) shall die
 
 &emsp;&emsp;(B) 40 percent of such average annual salary, divided by the number of such children.
 
-> The annuity payable to a surviving spouse under this subsection shall be terminable upon suchsurviving spouse's death or such surviving spouse's remarriage before attaining age 55. The annuity payable to a child under this subsection shall be terminable upon (A) his attaining the age of 18 years, (B) his marriage, or (C) his death, whichever first occurs, except that if such child is incapable of self-support by reason of mental or physical disability his annuity shall be terminable only upon death, marriage, or recovery from such disability. In case of the death of a surviving spouse of a judge or special trial judge leaving a dependent child or children of the judge or special trial judge surviving such spouse, the annuity of such child or children shall be recomputed and paid as provided in paragraph (3) of this subsection. In any case in which the annuity of a dependent child is terminated under this subsection, the annuities of any remaining dependent child or children, based upon the service of the same judge or special trial judge, shall be recomputed and paid as though the child whose annuity was so terminated had not survived such judge or special trial judge.
+> The annuity payable to a surviving spouse under this subsection shall be terminable upon such surviving spouse's death or such surviving spouse's remarriage before attaining age 55. The annuity payable to a child under this subsection shall be terminable upon (A) his attaining the age of 18 years, (B) his marriage, or (C) his death, whichever first occurs, except that if such child is incapable of self-support by reason of mental or physical disability his annuity shall be terminable only upon death, marriage, or recovery from such disability. In case of the death of a surviving spouse of a judge or special trial judge leaving a dependent child or children of the judge or special trial judge surviving such spouse, the annuity of such child or children shall be recomputed and paid as provided in paragraph (3) of this subsection. In any case in which the annuity of a dependent child is terminated under this subsection, the annuities of any remaining dependent child or children, based upon the service of the same judge or special trial judge, shall be recomputed and paid as though the child whose annuity was so terminated had not survived such judge or special trial judge.
 
 #### (i) Determination of dependency and disability
 
@@ -134,7 +134,7 @@ Questions of dependency and disability arising under this section shall be deter
 
 > Determination as to the surviving spouse, child, or parent of a judge or special trial judge for the purposes of this paragraph shall be made by the chief judge without regard to the definitions in paragraphs (8) and (9) of subsection (a).
 
-(2) In any case in which the annuities of all persons entitled to annuity based upon the service of a judge or special trial judge shall terminate before the aggregate amount of annuity paid equals the total amount credited to the individual account of such judge or special trial judge, with interest at 4 percent per annum to December 31, 1947, and 3 percent per annum thereafter, compounded on December 31 of each year, to the date of the death of such judge or special trial judge, the difference shall be paid, upon establishment of a valid claim therefor, in the order of precedence prescribed in paragraph (1).
+(2) In any case in which the annuities of all persons entitled to annuity based upon the service of a judge or special trial judge shall terminate before the aggregate amount of annuitypaid equals the total amount credited to the individual account of such judge or special trial judge, with interest at 4 percent per annum to December 31, 1947, and 3 percent per annum thereafter, compounded on December 31 of each year, to the date of the death of such judge or special trial judge, the difference shall be paid, upon establishment of a valid claim therefor, in the order of precedence prescribed in paragraph (1).
 
 (3) Any accrued annuity remaining unpaid upon the termination (other than by death) of the annuity of any person based upon the service of a judge or special trial judge shall be paid to such person. Any accrued annuity remaining unpaid upon the death of any person receiving annuity based upon the service of a judge or special trial judge shall be paid, upon the establishment of a valid claim therefor, in the following order of precedence:
 
@@ -146,7 +146,7 @@ Questions of dependency and disability arising under this section shall be deter
 
 Where any payment under this section is to be made to a minor, or to a person mentally incompetent or under other legal disability adjudged by a court of competent jurisdiction, such payment may be made to the person who is constituted guardian or other fiduciary by the law of the State of residence of such claimant or is otherwise legally vested with the care of the claimant or his estate. Where no guardian or other fiduciary of the person under legal disability has been appointed under the laws of the State of residence of the claimant, the chief judge shall determine the person who is otherwise legally vested with the care of the claimant or his estate.
 
-#### (<i>l</i>) Method of payment of annuities
+#### (l) Method of payment of annuities
 
 Annuities granted under the terms of this section shall accrue monthly and shall be due and payable in monthly installments on the first business day of the month following the month or other period for which the annuity shall have accrued. None of the moneys mentioned in this section shall be assignable, either in law or in equity, or subject to execution, levy, attachment, garnishment, or other legal process.
 
@@ -158,13 +158,13 @@ The annuity of the surviving spouse of a judge or special trial judge electing u
 
 Subject to the provisions of subsection (d), the years of service of a judge or special trial judge which are allowable as the basis for calculating the amount of the annuity of his surviving spouse shall include his years of service as a member of the United States Board of Tax Appeals, as a judge or special trial judge of the Tax Court of the United States, and as a judge or special trial judge of the Tax Court, his years of service pursuant to any appointment under section 7443A, his years of service as a Senator, Representative, Delegate, or Resident Commissioner in Congress, his years of active service as a member of the Armed Forces of the United States not exceeding 5 years in the aggregate and not including any such service for which credit is allowed for the purposes of retirement or retired pay under any other provision of law, and his years of any other civilian service within the purview of section 8332 of title 5 of the United States Code.
 
-#### (<i>o</i>) Simultaneous entitlement
+#### (o) Simultaneous entitlement
 
 Nothing contained in this section shall be construed to prevent a surviving spouse eligible therefor from simultaneously receiving an annuity under this section and any annuity to which such spouse would otherwise be entitled under any other law without regard to this section, but in computing such other annuity service used in the computation of such spouse's annuity under this section shall not be credited.
 
 #### (p) Estimates of expenditures
 
-The chief judge shall submit to the President annual estimates of the expenditures and appropriations necessary for the maintenance and operation of the survivors annuity fund, and such supplemental and deficiency estimates as may be required from time to time for the same purposes, according to law. The chief judge shall cause periodic examinations of the survivors annuity fund to be made by an actuary, who may be an actuary employed by another department of the Government temporarily assigned for the purpose, and whose findings and recommendations shall be transmitted by the chief judge to the Tax Court.
+The chief judge shall submit to the President annual estimates of the expenditures and appropriations necessary for the maintenance and operation of the survivors annuity fund, and such supplemental and deficiency estimates as may be required from time to time for the same purposes, according to law. The chief judge shall cause periodic examinations of the survivors annuity fund to be made by an actuary, who may be an actuary employed by another departmentof the Government temporarily assigned for the purpose, and whose findings and recommendations shall be transmitted by the chief judge to the Tax Court.
 
 #### (q) Transitional provision
 
@@ -188,7 +188,7 @@ Funds necessary to carry out the provisions of this section may be appropriated 
 
 Section 1106 of the Internal Revenue Code of 1939, referred to in subsecs. (a)(2) and (g), was classified to section 1106 of former Title 26, Internal Revenue Code. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of this title. See, also, section 7851(e) of this title for provision that references in the 1986 Code to a provision of the 1939 Code, not then applicable, shall be deemed a reference to the corresponding provision of the 1986 Code, which is then applicable.
 
-Section 7443B, referred to in subsec. (a)(5), (6), was repealed by Pub. L. 110–458, title I, §108(<i>l</i>), Dec. 23, 2008, 122 Stat. 5110.
+Section 7443B, referred to in subsec. (a)(5), (6), was repealed by Pub. L. 110–458, title I, §108(l), Dec. 23, 2008, 122 Stat. 5110.
 
 The date of the enactment of this paragraph, referred to in subsec. (b)(2)(A), is the date of enactment of Pub. L. 109–280, which was approved Aug. 17, 2006.
 
@@ -248,7 +248,7 @@ Subsec. (h)(3). Pub. L. 99–514, §1559(b)(2)(B), substituted “the lesser of�
 
 &emsp;“(A) 20 percent of the average annual salary of such judge (determined in accordance with subsection (m)), or
 
-&emsp;“(B) 40 percent of such average annual salary, divided by the number of such children” for “the amount of the annuity to which such survivingspouse would have been entitled under paragraph (2) of this subsection had such spouse survived, but not to exceed $5,580 per year divided by the number of such children or $1,860 per year, whichever is lesser”.
+&emsp;“(B) 40 percent of such average annual salary, divided by the number of such children” for “the amount of the annuity to which such surviving spouse would have been entitled under paragraph (2) of this subsection had such spouse survived, but not to exceed $5,580 per year divided by the number of such children or $1,860 per year, whichever is lesser”.
 
 Subsec. (m). Pub. L. 99–514, §1559(b)(1)(A), substituted “1.5 percent” for “1¼ percent” and “except that such annuity shall not exceed an amount equal to 50 percent of such average annual salary, nor be less than an amount equal to 25 percent of such average annual salary, and shall be further reduced in accordance with subsection (d) (if applicable)” for “but such annuity shall not exceed 40 percent of such average annual salary and shall be further reduced in accordance with subsection (d), if applicable”.
 
@@ -274,7 +274,7 @@ Subsec. (h). Pub. L. 94–455, §1906(a)(46)(B), (C), substituted “a surviving
 
 Subsecs. (j), (m), (n). Pub. L. 94–455, §1906(a)(46)(E), substituted “surviving spouse” for “widow” wherever appearing.
 
-Subsec. (<i>o</i>). Pub. L. 94–455, §1906(a)(46)(C), (D), (E), substituted “surviving spouse” for “widow”, “such spouse” for “she” and “such spouse's” for “her”.
+Subsec. (o). Pub. L. 94–455, §1906(a)(46)(C), (D), (E), substituted “surviving spouse” for “widow”, “such spouse” for “she” and “such spouse's” for “her”.
 
 Subsec. (q). Pub. L. 94–455, §1906(a)(46)(E), substituted “surviving spouse” for “widow”.
 
@@ -302,7 +302,7 @@ Pub. L. 109–280, title VIII, §851(b), Aug. 17, 2006, 120 Stat. 1016, provided
 
 Amendment by section 1557(c) of Pub. L. 99–514 effective Oct. 22, 1986, but not applicable to any individual who, before Oct. 22, 1986, forfeited his rights to retired pay under section 7447(d) of this title by reason of the 1st sentence of section 7447(f) of this title (as in effect on the day before such date), see section 1557(e) of Pub. L. 99–514, set out as a note under section 7447 of this title.
 
-Section 1559(d) of Pub. L. 99–514 provided that:
+Pub. L. 99–514, title XV, §1559(d), Oct. 22, 1986, 100 Stat. 2760, provided that:
 
 “(1)
 
@@ -338,15 +338,15 @@ Period revocation permitted.—Any revocation under subparagraph (A) may be made
 
 “(5)
 
-Opportunity to elect survivor annuity where prior revocation.—Any individual who under paragraph (4) revoked an election under subsection (b) of section 7448 of such Code may thereafter make such an election only if such individual deposits to the credit of the survivors annuity fund under subsection (c) of suchsection the entire amount paid to such individual under paragraph (4), together with interest computed as provided in subsection (d) of such section.”
+Opportunity to elect survivor annuity where prior revocation.—Any individual who under paragraph (4) revoked an election under subsection (b) of section 7448 of such Code may thereafter make such an election only if such individual deposits to the credit of the survivors annuity fund under subsection (c) of such section the entire amount paid to such individual under paragraph (4), together with interest computed as provided in subsection (d) of such section.”
 
 #### Effective Date of 1984 Amendment
 
-Section 462(b) of Pub. L. 98–369, provided that: “The amendments made by this \[sic\] subsection (a) \[amending this section\] shall apply to annuities payable with respect to months beginning after the date of the enactment of this Act \[July 18, 1984\].”
+Pub. L. 98–369, div. A, title IV, §462(b), July 18, 1984, 98 Stat. 824, provided that: “The amendments made by this \[sic\] subsection (a) \[amending this section\] shall apply to annuities payable with respect to months beginning after the date of the enactment of this Act \[July 18, 1984\].”
 
 #### Effective Date of 1982 Amendment
 
-Section 105(d) of Pub. L. 97–362 provided that:
+Pub. L. 97–362, title I, §105(d), Oct. 25, 1982, 96 Stat. 1730, provided that:
 
 “(1)
 
@@ -362,7 +362,7 @@ Amendment by Pub. L. 94–455 effective on first day of first month which begins
 
 #### Effective Date of 1971 Amendment
 
-Section 4(c)(2) of Pub. L. 92–41 provided that: “The amendment made by subsection (b) \[amending this section\] shall apply only with respect to judges of the United States Tax Court dying on or after the date of the enactment of this Act \[July 1, 1971\].”
+Pub. L. 92–41, §4(c)(2), July 1, 1971, 85 Stat. 99, provided that: “The amendment made by subsection (b) \[amending this section\] shall apply only with respect to judges of the United States Tax Court dying on or after the date of the enactment of this Act \[July 1, 1971\].”
 
 #### Effective Date of 1969 Amendment
 
@@ -374,7 +374,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Catchup for Survivors Annuities in Pay Status on October 25, 1982
 
-Section 105(c) of Pub. L. 97–362, as amended by Pub. L. 97–448, title III, §305(e), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “If an annuity payable under section 7448(h) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to entitlement to annuity) to the surviving spouse of a judge of the United States Tax Court is being paid on the date of the enactment of this Act, then the amount of that annuity shall be adjusted, as of the first day of the first month beginning more than 30 days after such date, to reflect the amount of the annuity which would have been payable if the amendment made by subsection (b) applied with respect to increases in the salary of a judge under section 7443(c) of such Code taking effect after December 31, 1963.”
+Pub. L. 97–362, title I, §105(c), Oct. 25, 1982, 96 Stat. 1729, as amended by Pub. L. 97–448, title III, §305(e), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “If an annuity payable under section 7448(h) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to entitlement to annuity) to the surviving spouse of a judge of the United States Tax Court is being paid on the date of the enactment of this Act, then the amount of that annuity shall be adjusted, as of the first day of the first month beginning more than 30 days after such date, to reflect the amount of the annuity which would have been payable if the amendment made by subsection (b) applied with respect to increases in the salary of a judge under section 7443(c) of such Code taking effect after December 31, 1963.”
 
 \[Pub. L. 97–448, title III, §311(c)(5), Jan. 12, 1983, 96 Stat. 2412, provided that: “The amendment made by subsection (e) of section 305 \[amending section 105(c) of Pub. L. 97–362, set out above\] shall take effect on the date of the enactment of the Miscellaneous Revenue Act of 1982 \[Oct. 25, 1982\].”\]
 

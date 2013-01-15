@@ -152,7 +152,7 @@ Pub. L. 105–206, title III, §3106(c), July 22, 1998, 112 Stat. 734, provided 
 
 #### Effective Date of 1982 Amendment
 
-Section 348(b) of Pub. L. 97–248 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to liens—
+Pub. L. 97–248, title III, §348(b), Sept. 3, 1982, 96 Stat. 638, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to liens—
 
 &emsp;“(1) which are filed after December 31, 1982,
 
@@ -162,7 +162,7 @@ Section 348(b) of Pub. L. 97–248 provided that: “The amendment made by subse
 
 #### Effective Date of 1978 Amendment
 
-Section 513(b) of Pub. L. 95–600 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to the estates of decedents dying after December 31, 1976.”
+Pub. L. 95–600, title V, §513(b), Nov. 6, 1978, 92 Stat. 2883, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to the estates of decedents dying after December 31, 1976.”
 
 #### Effective Date of 1966 Amendment
 

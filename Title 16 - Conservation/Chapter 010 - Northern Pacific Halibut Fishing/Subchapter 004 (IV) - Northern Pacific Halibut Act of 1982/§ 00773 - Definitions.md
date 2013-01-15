@@ -26,7 +26,7 @@ As used in this subchapter the term:
 
 #### Amendment of Section
 
-<i>Pub. L. 102–251, title III, §§302(a), 308, Mar. 9, 1992, 106 Stat. 64, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, section is amended by amending subsection (c) generally and adding subsection (h) to read as follows:</i>
+<i>Pub. L. 102–251, title III, §§302(a), 308, Mar. 9, 1992, 106 Stat. 64, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the</i><i>United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, section is amended by amending subsection (c) generally and adding subsection (h) to read as follows:</i>
 
 (c) “Exclusive economic zone” means the zone established by Proclamation Numbered 5030, dated March 10, 1983. For purposes of applying this subchapter, the inner boundary of that zone is a line coterminous with the seaward boundary of each of the coastal States.
 
@@ -44,11 +44,11 @@ Proclamation Numbered 5030, referred to in subsec. (c), is Proc. No. 5030, Mar. 
 
 #### Effective Date of 1996 Amendment
 
-Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
 #### Effective Date of 1992 Amendment
 
-Section 308 of title III of Pub. L. 102–251 provided that:
+Pub. L. 102–251, title III, §308, Mar. 9, 1992, 106 Stat. 66, provided that:
 
 “(a)
 
@@ -60,7 +60,7 @@ Authority To Prescribe Regulations.—The authority to prescribe regulations to 
 
 #### Short Title
 
-Section 1 of Pub. L. 97–176 provided: “That this Act \[enacting this subchapter and repealing subchapter III of this chapter\] may be cited as the ‘Northern Pacific Halibut Act of 1982’.”
+Pub. L. 97–176, §1, May 17, 1982, 96 Stat. 78, provided: “That this Act \[enacting this subchapter and repealing subchapter III of this chapter\] may be cited as the ‘Northern Pacific Halibut Act of 1982’.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -18,5 +18,5 @@ Another section 202 of Pub. L. 95–188 amended section 302 of this title.
 
 #### Effective Date of 1978 Amendment
 
-Section 108(b) of Pub. L. 95–523 provided that: “The amendment made by subsection (a) \[amending this section\] takes effect on January 1, 1979.”
+Pub. L. 95–523, title I, §108(b), Oct. 27, 1978, 92 Stat. 1898, provided that: “The amendment made by subsection (a) \[amending this section\] takes effect on January 1, 1979.”
 

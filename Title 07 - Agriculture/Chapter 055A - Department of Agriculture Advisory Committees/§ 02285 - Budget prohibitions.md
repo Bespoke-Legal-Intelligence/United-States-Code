@@ -4,11 +4,11 @@ No advisory committee may expend funds in excess of its estimated annual operati
 
 (Pub. L. 95–113, title XVIII, §1805, Sept. 29, 1977, 91 Stat. 1042; Pub. L. 97–98, title XI, §1116(a), Dec. 22, 1981, 95 Stat. 1271.)
 
-#### Effective Date of 1981 Amendment
-
-Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under section 4301 of this title.
-
 #### Amendments
 
 <b>1981</b>—Pub. L. 97–98 substituted provision relating to budget prohibitions for provision relating to membership on advisory committees. See section 2283 of this title.
+
+#### Effective Date of 1981 Amendment
+
+Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under section 4301 of this title.
 

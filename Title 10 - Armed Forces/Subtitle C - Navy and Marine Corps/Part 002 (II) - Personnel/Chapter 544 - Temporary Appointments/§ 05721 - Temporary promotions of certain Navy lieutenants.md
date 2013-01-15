@@ -76,15 +76,15 @@ Pub. L. 104–106, §508(b)(1), redesignated subsec. (f) as (g).
 
 #### Effective Date of 1996 Amendment
 
-Section 508(e) of Pub. L. 104–106 provided that: “Subsection (f) of section 5721 of title 10, United States Code, as added by subsection (b)(2), shall take effect at the end of the 30-day period beginning on the date of the enactment of this Act \[Feb. 10, 1996\] and shall apply to any appointment under that section after the end of such period.”
+Pub. L. 104–106, div. A, title V, §508(e), Feb. 10, 1996, 110 Stat. 297, provided that: “Subsection (f) of section 5721 of title 10, United States Code, as added by subsection (b)(2), shall take effect at the end of the 30-day period beginning on the date of the enactment of this Act \[Feb. 10, 1996\] and shall apply to any appointment under that section after the end of such period.”
 
 #### Effective Date of 1993 Amendment
 
-Section 508(b) of Pub. L. 103–160 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as of September 30, 1993.”
+Pub. L. 103–160, div. A, title V, §508(b), Nov. 30, 1993, 107 Stat. 1647, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as of September 30, 1993.”
 
 #### Effective Date of 1992 Amendment
 
-Section 507 of Pub. L. 102–484 provided that the amendment made by that section is effective Sept. 29, 1992.
+Pub. L. 102–484, div. A, title V, §507, Oct. 23, 1992, 106 Stat. 2405, provided that the amendment made by that section is effective Sept. 29, 1992.
 
 #### Effective Date
 
@@ -92,7 +92,7 @@ Section effective Sept. 15, 1981, but the authority to prescribe regulations und
 
 #### Savings Provision
 
-Section 512(b) of Pub. L. 101–189 provided that:
+Pub. L. 101–189, div. A, title V, §512(b), Nov. 29, 1989, 103 Stat. 1439, provided that:
 
 “(1) The Secretary of the Navy shall provide, in the case of an officer appointed to the grade of lieutenant commander on or after the date of the enactment of this Act \[Nov. 29, 1989\] under an appointment described in paragraph (2), that the date of rank of such officer under that appointment shall be the date of rank that would have applied to the appointment had the authority referred to in that paragraph not lapsed.
 

@@ -16,5 +16,5 @@
 
 #### Effective Date of 1992 Amendment
 
-Section 516(e)(2) of Pub. L. 102–552 provided that: “The amendment made by paragraph (1) of this subsection \[amending this section\] shall take effect at the same time as the amendments made by section 501(a) of the Food, Agriculture, Conservation, and Trade Act Amendments of 1991 (Public Law 102–237; 105 Stat. 1865) \[amending section 1924 of this title\] took effect.”
+Pub. L. 102–552, title V, §516(e)(2), Oct. 28, 1992, 106 Stat. 4137, provided that: “The amendment made by paragraph (1) of this subsection \[amending this section\] shall take effect at the same time as the amendments made by section 501(a) of the Food, Agriculture, Conservation, and Trade Act Amendments of 1991 (Public Law 102–237; 105 Stat. 1865) \[amending section 1924 of this title\] took effect.”
 

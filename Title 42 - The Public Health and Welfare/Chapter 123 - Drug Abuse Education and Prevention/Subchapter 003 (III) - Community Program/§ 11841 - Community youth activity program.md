@@ -52,7 +52,7 @@ The Secretary of Health and Human Services shall make grants to eligible States 
 
 &emsp;&emsp;&emsp;(iii) if the State involved has proposed the funding of additional projects targeted at the areas of highest need;
 
-> &emsp;&emsp;to carry out the activities and projects that are consistent with the activities described in subsection (e)(1) of this section. The activities and projects for which such grants are made shall be selected by the Secretary from among proposed activities and projects submitted to the Secretary by the States. Such grants shall be made to the States forredistribution to the persons on whose behalf the State submitted an application under subsection (b) of this section.
+> &emsp;&emsp;to carry out the activities and projects that are consistent with the activities described in subsection (e)(1) of this section. The activities and projects for which such grants are made shall be selected by the Secretary from among proposed activities and projects submitted to the Secretary by the States. Such grants shall be made to the States for redistribution to the persons on whose behalf the State submitted an application under subsection (b) of this section.
 
 #### (d) Priority
 
@@ -98,7 +98,7 @@ Financial assistance may be provided with a grant received under subsection (a)�
 
 #### (1) Community services and partnerships
 
-&emsp;Such assistance may be provided for community services and partnerships designed to develop community activities targeted at drug abuse prevention through education, training, and recreation projects. Such services may be provided by, and such partnerships may be entered into with—
+&emsp;Such assistance may be provided for community services and partnerships designed to develop community activities targeted at drug abuse prevention through education, training,and recreation projects. Such services may be provided by, and such partnerships may be entered into with—
 
 &emsp;&emsp;(A) local educational agencies;
 

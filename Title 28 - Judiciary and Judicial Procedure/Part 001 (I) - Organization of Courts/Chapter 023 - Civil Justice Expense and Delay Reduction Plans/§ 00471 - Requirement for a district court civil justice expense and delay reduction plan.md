@@ -1,6 +1,6 @@
 ### §471. Requirement for a district court civil justice expense and delay reduction plan
 
-There shall be implemented by each United States district court, in accordance with this chapter, a civil justice expense and delay reduction plan. The plan may be a plan developed bysuch district court or a model plan developed by the Judicial Conference of the United States. The purposes of each plan are to facilitate deliberate adjudication of civil cases on the merits, monitor discovery, improve litigation management, and ensure just, speedy, and inexpensive resolutions of civil disputes.
+There shall be implemented by each United States district court, in accordance with this chapter, a civil justice expense and delay reduction plan. The plan may be a plan developed by such district court or a model plan developed by the Judicial Conference of the United States. The purposes of each plan are to facilitate deliberate adjudication of civil cases on the merits, monitor discovery, improve litigation management, and ensure just, speedy, and inexpensive resolutions of civil disputes.
 
 (Added Pub. L. 101–650, title I, §103(a), Dec. 1, 1990, 104 Stat. 5090; amended Pub. L. 102–198, §2(1), Dec. 9, 1991, 105 Stat. 1623.)
 
@@ -10,7 +10,7 @@ There shall be implemented by each United States district court, in accordance w
 
 #### Congressional Statement of Findings
 
-Section 102 of Pub. L. 101–650 provided that: “The Congress makes the following findings:
+Pub. L. 101–650, title I, §102, Dec. 1, 1990, 104 Stat. 5089, provided that: “The Congress makes the following findings:
 
 &emsp;“(1) The problems of cost and delay in civil litigation in any United States district court must be addressed in the context of the full range of demands made on the district court's resources by both civil and criminal matters.
 
@@ -34,7 +34,7 @@ Section 102 of Pub. L. 101–650 provided that: “The Congress makes the follow
 
 #### Implementation of Plans
 
-Section 103(b), (c) of Pub. L. 101–650, as amended by Pub. L. 102–572, title V, §505, Oct. 29, 1992, 106 Stat. 4513; Pub. L. 105–53, §2, Oct. 6, 1997, 111 Stat. 1173; Pub. L. 106–518, title II, §206, Nov. 13, 2000, 114 Stat. 2414, provided that:
+Pub. L. 101–650, title I, §103(b), (c), Dec. 1, 1990, 104 Stat. 5096, as amended by Pub. L. 102–572, title V, §505, Oct. 29, 1992, 106 Stat. 4513; Pub. L. 105–53, §2, Oct. 6, 1997, 111 Stat. 1173; Pub. L. 106–518, title II, §206, Nov. 13, 2000, 114 Stat. 2414, provided that:
 
 “(b)
 
@@ -64,7 +64,7 @@ Early Implementation District Courts.—
 
 #### Demonstration Program
 
-Section 104 of Pub. L. 101–650, as amended by Pub. L. 104–33, §1, Oct. 3, 1995, 109 Stat. 292; Pub. L. 104–317, title VI, §608(a), Oct. 19, 1996, 110 Stat. 3860, provided that:
+Pub. L. 101–650, title I, §104, Dec. 1, 1990, 104 Stat. 5097, as amended by Pub. L. 104–33, §1, Oct. 3, 1995, 109 Stat. 292; Pub. L. 104–317, title VI, §608(a), Oct. 19, 1996, 110 Stat. 3860, provided that:
 
 “(a)
 
@@ -80,7 +80,7 @@ Program Requirement.—(1) The United States District Court for the Western Dist
 
 “(c)
 
-Study of Results.—The Judicial Conference of the United States, in consultation with the Director ofthe Federal Judicial Center and the Director of the Administrative Office of the United States Courts, shall study the experience of the district courts under the demonstration program.
+Study of Results.—The Judicial Conference of the United States, in consultation with the Director of the Federal Judicial Center and the Director of the Administrative Office of the United States Courts, shall study the experience of the district courts under the demonstration program.
 
 “(d)
 
@@ -88,7 +88,7 @@ Report.—Not later than June 30, 1997, the Judicial Conference of the United St
 
 #### Pilot Program
 
-Section 105 of Pub. L. 101–650, as amended by Pub. L. 103–420, §4, Oct. 25, 1994, 108 Stat. 4345; Pub. L. 104–317, title VI, §608(b), Oct. 19, 1996, 110 Stat. 3860, provided that:
+Pub. L. 101–650, title I, §105, Dec. 1, 1990, 104 Stat. 5097, as amended by Pub. L. 103–420, §4, Oct. 25, 1994, 108 Stat.4345; Pub. L. 104–317, title VI, §608(b), Oct. 19, 1996, 110 Stat. 3860, provided that:
 
 “(a)
 

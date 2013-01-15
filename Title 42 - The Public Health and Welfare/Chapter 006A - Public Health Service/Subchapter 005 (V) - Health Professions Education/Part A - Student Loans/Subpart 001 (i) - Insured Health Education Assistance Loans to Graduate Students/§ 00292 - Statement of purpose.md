@@ -1,6 +1,6 @@
 ### §292. Statement of purpose
 
-The purpose of this subpart is to enable the Secretary to provide a Federal program of student loan insurance for students in (and certain former students of) eligible institutions (as defined in section 292<i>o</i> of this title).
+The purpose of this subpart is to enable the Secretary to provide a Federal program of student loan insurance for students in (and certain former students of) eligible institutions (as defined in section 292o of this title).
 
 (July 1, 1944, ch. 373, title VII, §701, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994.)
 
@@ -14,7 +14,7 @@ A prior section 701 of act July 1, 1944, was classified to section 292a of this 
 
 #### Effective Date
 
-Section 103 of Pub. L. 102–408 provided that: “The amendment made by section 102 \[enacting this subchapter\] takes effect on the date of the enactment of this Act \[Oct. 13, 1992\], except that section 708 of the Public Health Service Act \[section 292g of this title\], as added by section 102 of this Act, takes effect January 1, 1993. Until such date, section 732(c) of the Public Health Service Act \[former section 294e(c) of this title\], as in effect on the day before the date of the enactment of this Act, continues in effect in lieu of such section 708.”
+Pub. L. 102–408, title I, §103, Oct. 13, 1992, 106 Stat. 2069, provided that: “The amendment made by section 102 \[enacting this subchapter\] takes effect on the date of the enactment of this Act \[Oct. 13, 1992\], except that section 708 of the Public Health Service Act \[section 292g of this title\], as added by section 102 of this Act, takes effect January 1, 1993. Until such date, section 732(c) of the Public Health Service Act \[former section 294e(c) of this title\], as in effect on the day before the date of the enactment of this Act, continues in effect in lieu of such section 708.”
 
 #### Study on Effectiveness of Health Professions Programs
 

@@ -6,5 +6,5 @@ Section, Pub. L. 95–84, §2, Aug. 2, 1977, 91 Stat. 400; Pub. L. 95–467, tit
 
 #### Additional Authorization of Appropriations
 
-Section 205(c) of Pub. L. 95–467, which authorized an appropriation of $10,000,000 to remain available until expended for the fiscal year ending Sept. 30, 1980, and thereafter in addition to sums previously authorized to be appropriated to carry out the purpose of this section, was repealed by Pub. L. 96–457, §4, Oct. 15, 1980, 94 Stat. 2034, and Pub. L. 98–242, title I, §110(a), Mar. 22, 1984, 98 Stat. 101.
+Pub. L. 95–467, title II, §205(c), Oct. 17, 1978, 92 Stat. 1311, which authorized an appropriation of $10,000,000 to remain available until expended for the fiscal year ending Sept. 30, 1980, and thereafter in addition to sums previously authorized to be appropriated to carry out the purpose of this section, was repealed by Pub. L. 96–457, §4, Oct. 15, 1980, 94 Stat. 2034, and Pub. L. 98–242, title I, §110(a), Mar. 22, 1984, 98 Stat. 101.
 

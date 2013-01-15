@@ -44,7 +44,7 @@ Subsec. (c). Pub. L. 103–66, §13262(b)(2)(B), struck out heading and text of 
 
 #### Effective Date of 1993 Amendment
 
-Section 13262(c) of Pub. L. 103–66 provided that:
+Pub. L. 103–66, title XIII, §13262(c), Aug. 10, 1993, 107 Stat. 541, provided that:
 
 “(1)
 
@@ -56,5 +56,5 @@ Binding contract exception.—The amendments made by this section shall not appl
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–600 applicable to transfers beginning after Oct. 9, 1975, and to sales, exchanges, and distributions taking place after Oct. 9, 1975, see section 701(u)(13)(C) of Pub. L. 95–600, set out as a note under section 751 of this title.
+Amendment by Pub. L. 95–600 applicable to transfers beginning after Oct. 9, 1975, and to sales, exchanges,and distributions taking place after Oct. 9, 1975, see section 701(u)(13)(C) of Pub. L. 95–600, set out as a note under section 751 of this title.
 

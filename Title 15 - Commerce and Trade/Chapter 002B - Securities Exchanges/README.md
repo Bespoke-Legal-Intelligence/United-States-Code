@@ -33,7 +33,7 @@
 | [78k.](%C2%A7%2000078k%20-%20Trading%20by%20members%20of%20exchanges%2C%20brokers%2C%20and%20dealers.md) | Trading by members of exchanges, brokers, and dealers. |
 | 78k–1. | National market system for securities; securities information processors. |
 | 78<i>l.</i> | Registration requirements for securities. |
-| 78<i>l</i>–1. | Applications for unlisted trading privileges deemed filed under section 78<i>l</i> of this title. |
+| 78l–1. | Applications for unlisted trading privileges deemed filed under section 78l of this title. |
 | [78m.](%C2%A7%2000078m%20-%20Periodical%20and%20other%20reports.md) | Periodical and other reports. |
 | 78m–1. | Reporting and recordkeeping for certain security-based swaps. |
 | 78m–2. | Reporting requirements regarding coal or other mine safety. |
@@ -41,18 +41,18 @@
 | 78n–1. | Shareholder approval of executive compensation. |
 | 78n–2. | Corporate governance. |
 | 78<i>o.</i> | Registration and regulation of brokers and dealers. |
-| 78<i>o</i>–1. | Brokers deemed to be registered. |
-| 78<i>o</i>–2. | Liabilities arising prior to amendment unaffected. |
-| 78<i>o</i>–3. | Registered securities associations. |
-| 78<i>o</i>–4. | Municipal securities. |
-| 78<i>o</i>–4a. | Commission Office of Municipal Securities. |
-| 78<i>o</i>–5. | Government securities brokers and dealers. |
-| 78<i>o</i>–6. | Securities analysts and research reports. |
-| 78<i>o</i>–7. | Registration of nationally recognized statistical rating organizations. |
-| 78<i>o</i>–8. | Universal ratings symbols. |
-| 78<i>o</i>–9. | Study and rulemaking on assigned credit ratings. |
-| 78<i>o</i>–10. | Registration and regulation of security-based swap dealers and major security-based swap participants. |
-| 78<i>o</i>–11. | Credit risk retention. |
+| 78o–1. | Brokers deemed to be registered. |
+| 78o–2. | Liabilities arising prior to amendment unaffected. |
+| 78o–3. | Registered securities associations. |
+| 78o–4. | Municipal securities. |
+| 78o–4a. | Commission Office of Municipal Securities. |
+| 78o–5. | Government securities brokers and dealers. |
+| 78o–6. | Securities analysts and research reports. |
+| 78o–7. | Registration of nationally recognized statistical rating organizations. |
+| 78o–8. | Universal ratings symbols. |
+| 78o–9. | Study and rulemaking on assigned credit ratings. |
+| 78o–10. | Registration and regulation of security-based swap dealers and major security-based swap participants. |
+| 78o–11. | Credit risk retention. |
 | [78p.](%C2%A7%2000078p%20-%20Directors%2C%20officers%2C%20and%20principal%20stockholders.md) | Directors, officers, and principal stockholders. |
 | [78q.](%C2%A7%2000078q%20-%20Records%20and%20reports.md) | Records and reports. |
 | 78q–1. | National system for clearance and settlement of securities transactions. |

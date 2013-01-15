@@ -102,7 +102,7 @@ For purposes of this subchapter—
 
 #### (4) Medicaid applicable income level
 
-&emsp;The term “medicaid applicable income level” means, with respect to a child, the effective income level (expressed as a percent of the poverty line) that has been specified under the State plan under subchapter XIX of this chapter (including under a waiver authorized by the Secretary or under section 1396a(r)(2) of this title), as of March 31, 1997, for the child to be eligible for medical assistance under section 1396a(<i>l</i>)(2) or 1396d(n)(2) of this title (as selected by a State) for the age of such child.
+&emsp;The term “medicaid applicable income level” means, with respect to a child, the effective income level (expressed as a percent of the poverty line) that has been specified under the State plan under subchapter XIX of this chapter (including under a waiver authorized by the Secretary or under section 1396a(r)(2) of this title), as of March 31, 1997, for the child to be eligible for medical assistance under section 1396a(l)(2) or 1396d(n)(2) of this title (as selected by a State) for the age of such child.
 
 #### (5) Option for States with a separate CHIP program to provide dental-only supplemental coverage
 
@@ -164,7 +164,7 @@ For purposes of this subchapter:
 
 #### (2) Creditable health coverage
 
-&emsp;The term “creditable health coverage” has the meaning given the term “creditable coverage” under section 2701(c) <sup>2</sup> of the Public Health Service Act (42 U.S.C. 300gg(c)) and includes coverage that meets the requirements of section 1397cc of this title provided to a targeted low-income child under this subchapter or under a waiver approved under section 1397ee(c)(2)(B) of this title (relating to a direct service waiver).
+&emsp;The term “creditable health coverage” has the meaning given the term “creditable coverage” under section 2701(c) <sup>2</sup> of the PublicHealth Service Act (42 U.S.C. 300gg(c)) and includes coverage that meets the requirements of section 1397cc of this title provided to a targeted low-income child under this subchapter or under a waiver approved under section 1397ee(c)(2)(B) of this title (relating to a direct service waiver).
 
 #### (3) Group health plan; health insurance coverage; etc.
 
@@ -252,7 +252,7 @@ Subsec. (c)(9). Pub. L. 111–3, §505(b), added par. (9).
 
 <b>1997</b>—Subsec. (b)(1)(B)(ii). Pub. L. 105–100, §162(3)(A), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “is a child whose family income (as determined under the State child health plan) exceeds the medicaid applicable income level (as defined in paragraph (4)), but does not exceed 50 percentage points above the medicaid applicable income level; and”.
 
-Subsec. (b)(4). Pub. L. 105–100, §162(3)(B), substituted “March 31, 1997” for “June 1, 1997” and “1396a(<i>l</i>)(2) or 1396d(n)(2) of this title (as selected by a State)” for “1396a(<i>l</i>)(2) of this title”.
+Subsec. (b)(4). Pub. L. 105–100, §162(3)(B), substituted “March 31, 1997” for “June 1, 1997” and “1396a(l)(2) or 1396d(n)(2) of this title (as selected by a State)” for “1396a(l)(2) of this title”.
 
 Subsec. (c)(3). Pub. L. 105–100, §162(9), made technical amendment to reference in original act which appears in text as reference to section 300gg–91 of this title.
 
@@ -270,7 +270,7 @@ Amendment by Pub. L. 106–554 effective as if included in the enactment of sect
 
 #### Effective Date of 1997 Amendment
 
-Section 162 of Pub. L. 105–100 provided in part that the amendment made by that section is effective as if included in the enactment of subtitle J (§§4901–4923) of title IV of the Balanced Budget Act of 1997, Pub. L. 105–33.
+Pub. L. 105–100, title I, §162, Nov. 19, 1997, 111 Stat. 2188, provided in part that the amendment made by that section is effective as if included in the enactment of subtitle J (§§4901–4923) of title IV of the Balanced Budget Act of 1997, Pub. L. 105–33.
 
 #### CHIP Eligibility for Children Ineligible for Medicaid as a Result of Elimination of Disregards
 

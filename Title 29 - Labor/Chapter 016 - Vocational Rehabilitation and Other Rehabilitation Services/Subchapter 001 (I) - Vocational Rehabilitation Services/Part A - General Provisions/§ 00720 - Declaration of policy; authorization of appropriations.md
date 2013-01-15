@@ -22,7 +22,7 @@
 
 &emsp;&emsp;&emsp;(ii) lack of accessible and available transportation;
 
-&emsp;&emsp;&emsp;(iii) fear of losing health coverage under the medicare and medicaid programs carried out under titles XVIII and XIX of theSocial Security Act (42 U.S.C. 1395 et seq. and 1396 et seq.) or fear of losing private health insurance; and
+&emsp;&emsp;&emsp;(iii) fear of losing health coverage under the medicare and medicaid programs carried out under titles XVIII and XIX of the Social Security Act (42 U.S.C. 1395 et seq. and 1396 et seq.) or fear of losing private health insurance; and
 
 &emsp;&emsp;&emsp;(iv) lack of education, training, and supports to meet job qualification standards necessary to secure, retain, regain, or advance in employment;
 
@@ -82,7 +82,7 @@
 
 #### (A) Increase
 
-&emsp;&emsp;If in any fiscal year the percentage change published under paragraph (1) indicates an increase in the Consumer Price Index, then the amount to be appropriated under subsection (b)(1) of this section for the subsequent fiscal year shall be at least theamount appropriated under subsection (b)(1) of this section for the fiscal year in which the publication is made under paragraph (1) increased by such percentage change.
+&emsp;&emsp;If in any fiscal year the percentage change published under paragraph (1) indicates an increase in the Consumer Price Index, then the amount to be appropriated under subsection (b)(1) of this section for the subsequent fiscal year shall be at least the amount appropriated under subsection (b)(1) of this section for the fiscal year in which the publication is made under paragraph (1) increased by such percentage change.
 
 #### (B) No increase or decrease
 

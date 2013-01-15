@@ -70,7 +70,7 @@ First COLA Adjustment for Members With Retired Pay Computed Using High-Three.—
 
 (e)
 
-Pro Rating of Initial Adjustment.—Notwithstanding subsection (b) but subject to subsection (f)(2), the retired pay of a member or former member of an armed force who first became a member of a uniformed service on orafter August 1, 1986, and elected to receive a bonus under section 322 (as in effect before the enactment of the National Defense Authorization Act for Fiscal Year 2008) or section 354 of title 37 shall be increased on the effective date of the first adjustment of retired pay under subsection (b) after the member or former member becomes entitled to retired pay by the percent (adjusted to the nearest one-tenth of 1 percent) equal to the difference between—
+Pro Rating of Initial Adjustment.—Notwithstanding subsection (b) but subject to subsection (f)(2), the retired pay of a member or former member of an armed force who first became a member of a uniformed service on or after August 1, 1986, and elected to receive a bonus under section 322 (as in effect before the enactment of the National Defense Authorization Act for Fiscal Year 2008) or section 354 of title 37 shall be increased on the effective date of the first adjustment of retired pay under subsection (b) after the member or former member becomes entitled to retired pay by the percent (adjusted to the nearest one-tenth of 1 percent) equal to the difference between—
 
 &emsp;(1) the percent by which—
 
@@ -124,9 +124,9 @@ Section 322 of title 37 (as in effect before the enactment of the National Defen
 
 Subsec. (c)(2). Pub. L. 107–314, §633(a)(2), inserted “(subject to subsection (f)(2) as applied to other members whose retired pay is computed on the current rates of basic pay in the most recent adjustment under this section)” after “shall be increased” in introductory provisions.
 
-Subsec. (d). Pub. L. 107–314, §633(a)(1), (b)(1), in introductory provisions, inserted “but subject to subsection (f)(2)” after “Notwithstanding subsection (b)” and “or on or after August 1, 1986, if the member or former member did not elect to receive a bonus under section 322 of title 37” after “August 1, 1986,”.
+Subsec. (d). Pub. L. 107–314, §633(a)(1), (b)(1), in introductory provisions, inserted “but subject to subsection (f)(2)” after “Notwithstanding subsection (b)” and “oron or after August 1, 1986, if the member or former member did not elect to receive a bonus under section 322 of title 37” after “August 1, 1986,”.
 
-Subsec. (e). Pub. L. 107–314, §633(a)(1), (b)(2), in introductory provisions, inserted “but subject to subsection (f)(2)” after “Notwithstanding subsection (b)” and “andelected to receive a bonus under section 322 of title 37” after “August 1, 1986,”.
+Subsec. (e). Pub. L. 107–314, §633(a)(1), (b)(2), in introductory provisions, inserted “but subject to subsection (f)(2)” after “Notwithstanding subsection (b)” and “and elected to receive a bonus under section 322 of title 37” after “August 1, 1986,”.
 
 Subsec. (f). Pub. L. 107–314, §633(a)(3), designated existing provisions as par. (1), inserted par. heading, realigned margins, and added par. (2).
 
@@ -226,7 +226,7 @@ Fiscal year 1994.—In the case of an increase in the retired pay of a member or
 
 &emsp;“(B)
 
-Fiscal years 1995 through 1998.—In the case of an increase in retired pay of a member or former member referred to in paragraph (2) that, pursuant to paragraph (1), becomes effective on December 1 of 1994, 1995, 1996, or 1997, the initial month for which such increase is payable as part of such retired pay shall (notwithstanding such December 1 effective date) be September of the following year.
+Fiscal years 1995 through 1998.—In the case of an increase in retired pay of a member or former member referred to in paragraph (2) that, pursuant to paragraph (1), becomes effective on December 1 of 1994, 1995, 1996, or 1997, the initial month for which such increase is payable as part of such retired payshall (notwithstanding such December 1 effective date) be September of the following year.
 
 &emsp;“(C)
 
@@ -298,7 +298,7 @@ Pub. L. 94–361 struck out “the per centum obtained by adding 1 per centum an
 
 <b>1967</b>—Subsec. (a). Pub. L. 90–207 substituted “may not be recomputed” for “shall not be recomputed”, struck out “if that increase becomes effective after the effective date of this section” after “armed forces” and inserted sentence defining “Index”.
 
-Subsec. (b). Pub. L. 90–207 revised subsec. (b) generally and, among other changes, substituted provisionsrequiring the Secretary of Defense to determine monthly the percent by which the index has increased over that used as the basis for the most recent adjustment of retired and retainer pay under this subsection for provisions which required the Secretary of Defense to determine the per centum that the index for each calendar month after the calendar month immediately preceding the effective date of Pub. L. 89–132 has increased over the base index (that for the calendar month immediately preceding the effective date of Pub. L. 89–132 or, if later, that used as the basis for the most recent adjustment of retired and retainer pay under this subsection).
+Subsec. (b). Pub. L. 90–207 revised subsec. (b) generally and, among other changes, substituted provisions requiring the Secretary of Defense to determine monthly the percent by which the index has increased over that used as the basis for the most recent adjustment of retired and retainer pay under this subsection for provisions which required the Secretary of Defense to determine the per centum that the index for each calendar month after the calendar month immediately preceding the effective date of Pub. L. 89–132 has increased over the base index (that for the calendar month immediately preceding the effective date of Pub. L. 89–132 or, if later, that used as the basis for the most recent adjustment of retired and retainer pay under this subsection).
 
 Subsecs. (c) to (e). Pub. L. 90–207 added subsecs. (c) to (e).
 
@@ -310,19 +310,19 @@ Pub. L. 106–65, div. A, title VI, §644, Oct. 5, 1999, 113 Stat. 664, provided
 
 #### Effective Date of 1996 Amendment
 
-Section 632(b) of Pub. L. 104–201 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply only to adjustments of retired and retainer pay effective after the date of the enactment of this Act \[Sept. 23, 1996\].”
+Pub. L. 104–201, div. A, title VI, §632(b), Sept. 23, 1996, 110 Stat. 2550, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply only to adjustments of retired and retainer pay effective after the date of the enactment of this Act \[Sept. 23, 1996\].”
 
 #### Effective Date of 1994 Amendment
 
-Section 633(b) of Pub. L. 103–337 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to the computation of the retired pay of a member of the Armed Forces who retires on or after the date of the enactment of this Act \[Oct. 5, 1994\].”
+Pub. L. 103–337, div. A, title VI, §633(b), Oct. 5, 1994, 108 Stat. 2787, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to the computation of the retired pay of a member of the Armed Forces who retires on or after the date of the enactment of this Act \[Oct. 5, 1994\].”
 
 #### Effective Date of 1988 Amendment
 
-Section 622(b) of Pub. L. 100–456 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the first day of the first month that begins after the date of the enactment of this Act \[Sept. 29, 1988\] and shall apply to the computation of the retired or retainer pay of members who initially become entitled to such pay on or after such effective date.”
+Pub. L. 100–456, div. A, title VI, §622(b), Sept. 29, 1988, 102 Stat. 1983, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the first day of the first month that begins after the date of the enactment of this Act \[Sept. 29, 1988\] and shall apply to the computation of the retired or retainer pay of members who initially become entitled to such pay on or after such effective date.”
 
 #### Effective Date of 1983 Amendment
 
-Section 921(a)(2) of Pub. L. 98–94 provided that:
+Pub. L. 98–94, title IX, §921(a)(2), Sept. 24, 1983, 97 Stat. 640, provided that:
 
 “(A) Notwithstanding the repeal of such subsection \[subsec. (e) of this section\], the provisions of such subsection shall apply in the case of any member or former member of the Armed Forces eligible to retire on the date of the enactment of this Act \[Sept. 24, 1983\] for a period of three years after such date in the same manner such provisions would have applied had they not been repealed.
 
@@ -332,15 +332,15 @@ Amendment by section 922 of Pub. L. 98–94 effective Oct. 1, 1983, see section 
 
 #### Effective Date of 1980 Amendment
 
-Section 812(b)(1) of Pub. L. 96–342, set out below, provided that the amendment made by that section is effective Aug. 31, 1981, but subject to certain conditions.
+Pub. L. 96–342, title VIII, §812(b)(1), Sept. 8, 1980, 94 Stat. 1098, set out below, provided that the amendment made by that section is effective Aug. 31, 1981, but subject to certain conditions.
 
 #### Effective Date of 1976 Amendment
 
-Section 1306(d)(2) of Pub. L. 94–440 provided that: “The amendment made by subsection (1) \[amending this section\] shall apply to any increase in retired pay or retainer pay after the date of enactment of this Act \[Oct. 1, 1976\], except that with respect to the first date after the date of enactment of this Act on which the Secretary of Defense is to determine a percent change, such percent change shall be determined by computing the change in the index published for the month immediately preceding such first date over the index for the last month preceding the date of enactment of this Act used as the basis for the most recent adjustment of retired pay and retainer pay under section 1401a(b) of title 10, United States Code \[subsec. (b) of this section\], as in effect immediately prior to the date of enactment of this Act \[Oct. 1, 1976\].”
+Pub. L. 94–440, title XIII, §1306(d)(2), Oct. 1, 1976, 90 Stat. 1463, provided that: “The amendment made by subsection (1) \[amending this section\] shall apply to any increase in retired pay or retainer pay after the date of enactment of this Act \[Oct. 1, 1976\], except that with respect to the first date after the date of enactment of this Act on which the Secretary of Defense is to determine a percent change, such percent change shall be determined by computing the change in the index published for the month immediately preceding such first date over the index for the last month preceding the date of enactment of this Act used as the basis for the most recent adjustment of retired pay and retainer pay under section 1401a(b) of title 10, United States Code \[subsec. (b) of this section\], as in effect immediately prior to the date of enactment of this Act \[Oct. 1, 1976\].”
 
 #### Effective Date of 1969 Amendment
 
-Section 2 of Pub. L. 91–179 provided that: “The provisions of this Act \[amending this section\] become effective on October 31, 1969.”
+Pub. L. 91–179, §2, Dec. 30, 1969, 83 Stat. 837, provided that: “The provisions of this Act \[amending this section\] become effective on October 31, 1969.”
 
 #### Effective Date of 1967 Amendment
 
@@ -356,11 +356,11 @@ Section effective Oct. 1, 1963, see section 14 of Pub. L. 88–132, set out as a
 
 #### Contingent Alternative Date for Fiscal Year 1998
 
-Section 631(b) of Pub. L. 104–106 provided that if a civil service retiree COLA that becomes effective during fiscal year 1998 becomes effective on a date other than the date on which a military retiree COLA during that fiscal year is specified to become effective under subsec. (b)(2)(B) of this section, then the increase in military retired and retainer pay would become payable as part of such retired and retainer pay effective on the same date on which such civil service retiree COLA was to become effective, prior to repeal by Pub. L. 104–201, div. A, title VI, §631(b), Sept. 23, 1996, 110 Stat. 2549.
+Pub. L. 104–106, div. A, title VI, §631(b), Feb. 10, 1996, 110 Stat. 364, provided that if a civil service retiree COLA that becomes effective during fiscal year 1998 becomes effective on a date other than the date on which a military retiree COLA during that fiscal year is specified to become effective under subsec. (b)(2)(B) of this section, then the increase in military retired and retainer pay would become payable as part of such retired and retainer pay effective on the same date on which such civil service retiree COLA was to becomeeffective, prior to repeal by Pub. L. 104–201, div. A, title VI, §631(b), Sept. 23, 1996, 110 Stat. 2549.
 
 #### Elimination of Disparity Between Effective Dates for Military and Civilian Retiree Cost-of-Living Adjustments for Fiscal Year 1995
 
-Section 631 of Pub. L. 103–337 provided that:
+Pub. L. 103–337, div. A, title VI, §631, Oct. 5, 1994, 108 Stat. 2785, provided that:
 
 “(a)
 
@@ -370,7 +370,7 @@ In General.—The fiscal year 1995 increase in military retired pay shall (notwi
 
 Definitions.—For the purposes of subsection (a):
 
-&emsp;“(1) The term ‘fiscal year 1995 increase in military retired pay’ means the increase in retired pay that,pursuant to paragraph (1) of section 1401a(b) of title 10, United States Code, becomes effective on December 1, 1994.
+&emsp;“(1) The term ‘fiscal year 1995 increase in military retired pay’ means the increase in retired pay that, pursuant to paragraph (1) of section 1401a(b) of title 10, United States Code, becomes effective on December 1, 1994.
 
 &emsp;“(2) The term ‘retired pay’ includes retainer pay.
 
@@ -384,7 +384,7 @@ Authorization of Appropriations.—There is authorized to be appropriated for fi
 
 #### Sense of Congress on Equal Treatment of Effective Dates for Future Cost-of-Living Adjustments for Military and Civilian Retirees
 
-Section 632 of Pub. L. 103–337 provided that:
+Pub. L. 103–337, div. A, title VI, §632, Oct. 5, 1994, 108 Stat. 2786, provided that:
 
 “(a)
 
@@ -408,7 +408,7 @@ Sense of Congress.—In light of the findings in subsection (a), it is the sense
 
 #### Waiver of Administrative Time-in-Grade Requirements To Prevent Pay Inversions in Retired Pay of Certain Military Retirees
 
-Section 634 of Pub. L. 103–337 provided that:
+Pub. L. 103–337, div. A, title VI, §634, Oct. 5, 1994, 108 Stat. 2787, provided that:
 
 “(a)
 
@@ -512,11 +512,11 @@ Sec. 2. (a) Any change in the retired pay of any individual by reason of the ena
 
 “(b) The enactment of this Act shall not reduce the retired pay of any individual.”
 
-\[The Central Intelligence Agency Retirement Act of 1964 for Certain Employees, referred to in Pub. L. 96–342, set out above, is Pub. L. 88–643, Oct. 13, 1964, 78 Stat. 1043, which was revised generally by Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3196, is known as the Central Intelligence Agency Retirement Act and is classified generally to chapter 38 (§2001 et seq.) of Title 50, War and National Defense.\]
+\[The Central Intelligence Agency Retirement Act of 1964 for Certain Employees, referred to in Pub. L. 96–342, set out above, is Pub. L. 88–643, Oct. 13, 1964, 78 Stat. 1043, which was revised generally by Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3196, is known as the Central Intelligence Agency RetirementAct and is classified generally to chapter 38 (§2001 et seq.) of Title 50, War and National Defense.\]
 
 #### Cost-of-Living Adjustment of Retired Pay or Retainer Pay of Members and Former Members of Armed Forces and Commissioned Officers of National Oceanic and Atmospheric Administration and Public Health Service; Effective Date of 1976 Amendment
 
-Section 801(c) of Pub. L. 94–361 provided that:
+Pub. L. 94–361, title VIII, §801(c), July 14, 1976, 90 Stat. 929, provided that:
 
 “(1) The amendments made by subsections (a) \[to subsec. (b) of this section\] and (b) \[to provisions formerly set out as a note under section 403 of title 50\] shall not become effective unless legislation is enacted repealing the so-called 1 per centum add-on provision applicable to the cost-of-living adjustment of annuities paid under chapter 83 of title 5, United States Code. In the event such legislation is enacted, such amendments shall become effective with respect to the cost-of-living adjustment of the retired pay and retainer pay of members and former members of the Armed Forces and the cost-of-living adjustment of annuities paid under the Central Intelligence Agency \[Retirement\] Act of 1964 for Certain Employees at the same time the repeal of such 1 per centum add-on provision becomes effective with respect to such cost-of-living adjustment of annuities paid under such chapter 83.
 
@@ -542,5 +542,5 @@ Pub. L. 93–210, §2, Dec. 28, 1973, 87 Stat. 908, provided that:
 
 #### Retroactive Adjustment of Retired or Retainer Pay of Persons Entitled Thereto After November 30, 1966, But Prior to Effective Date of Next Increase After July 1, 1966
 
-Section 2(b) of Pub. L. 90–207 provided that: “Notwithstanding section 1401a(d) of title 10, United States Code, a person who is a member or former member of an armed force on the date of enactment of this Act \[Dec. 16, 1967\] and who initially became, or hereafter initially becomes, entitled to retired pay or retainer pay after November 30, 1966, but before the effective date of the next increase after July 1, 1966, in the rates of monthly basic pay prescribed by section 203 of title 37, United States Code, is entitled to have his retired pay or retainer pay increased by 3.7 percent, effective as of the date of his entitlement to that pay.”
+Pub. L. 90–207, §2(b), Dec. 16, 1967, 81 Stat. 653, provided that: “Notwithstanding section 1401a(d) of title 10, United States Code, a person who is a member or former member of an armed force on the date of enactment of this Act \[Dec. 16, 1967\] and who initially became, or hereafter initially becomes, entitled to retired pay or retainer pay after November 30, 1966, but before the effective date of the next increase after July 1, 1966, in the rates of monthly basic pay prescribed by section 203 of title 37, United States Code, is entitled to have his retired pay or retainer pay increased by 3.7 percent, effective as of the date of his entitlement to that pay.”
 

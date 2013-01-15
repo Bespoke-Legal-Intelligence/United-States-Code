@@ -14,7 +14,7 @@ Benefits shall be paid during such period by each such operator under this secti
 
 #### (d) Monthly payments; amounts; accrual of interest
 
-Benefits payable under this section shall be paid on a monthly basis and, except as otherwise provided in this section, such payments shall be equal to the amounts specified in section 922(a) of this title. If payment is not made within the time required, interest shall accrue to such amounts at the rates set forth in section 934(b)(5) of this title for interest owed to the fund. With respect to payments withheld pending final adjudication of liability, in the case of claims filed on or after the effective date of the Black Lung Benefits Amendments of 1981, such interest shall commence to accumulate 30 days after the date of the determination that such an award should be made.
+Benefits payable under this section shall be paid on a monthly basis and, except as otherwise provided in this section, such payments shall be equal to the amounts specified in section 922(a) of this title. If payment is not made within thetime required, interest shall accrue to such amounts at the rates set forth in section 934(b)(5) of this title for interest owed to the fund. With respect to payments withheld pending final adjudication of liability, in the case of claims filed on or after the effective date of the Black Lung Benefits Amendments of 1981, such interest shall commence to accumulate 30 days after the date of the determination that such an award should be made.
 
 #### (e) Conditions upon payment
 
@@ -34,7 +34,7 @@ Any claim for benefits by a miner under this section shall be filed within three
 
 #### (g) Reduction of monthly benefits
 
-The amount of benefits payable under this section shall be reduced, on a monthly or other appropriate basis, by the amount of any compensation received under or pursuant to any Federal or State workmen's compensation law because of death or disability due to pneumoconiosis. In addition, the amount of benefits payable under this section with respect to any claim filed on or after the effective date of the Black Lung Benefits Amendments of 1981 shall be reduced, on a monthly or other appropriate basis, by the amount by which such benefits would be reduced on account of excess earnings of such miner under section 403(b) through (<i>l</i>) of title 42 if the amount paid were a benefit payable under section 402 of title 42.
+The amount of benefits payable under this section shall be reduced, on a monthly or other appropriate basis, by the amount of any compensation received under or pursuant to any Federal or State workmen's compensation law because of death or disability due to pneumoconiosis. In addition, the amount of benefits payable under this section with respect to any claim filed on or after the effective date of the Black Lung Benefits Amendments of 1981 shall be reduced, on a monthly or other appropriate basis, by the amount by which such benefits would be reduced on account of excess earnings of such miner under section 403(b) through (l) of title 42 if the amount paid were a benefit payable under section 402 of title 42.
 
 #### (h) Promulgation of regulations
 
@@ -70,11 +70,11 @@ Notwithstanding the provisions of this section, section 9501 of title 26 shall g
 
 The Secretary shall be a party in any proceeding relative to a claim for benefits under this part.
 
-#### (<i>l</i>) Filing of new claims or refiling or revalidation of claims of miners already determined eligible at time of death
+#### (l) Filing of new claims or refiling or revalidation of claims of miners already determined eligible at time of death
 
 In no case shall the eligible survivors of a miner who was determined to be eligible to receive benefits under this subchapter at the time of his or her death be required to file a new claim for benefits, or refile or otherwise revalidate the claim of such miner,.<sup>3</sup>
 
-(Pub. L. 91–173, title IV, §422, Dec. 30, 1969, 83 Stat. 796; Pub. L. 92–303, §§3(a), (b), 5(2)–(4), (9), 8, May 19, 1972, 86 Stat. 153, 155–157; Pub. L. 95–239, §§3(b)(4), 7(a)–(h), Mar. 1, 1978, 92 Stat. 97–99; Pub. L. 97–119, title I, §104(b)(3)–(5), title II, §§203(a)(6), (b), 204, 205(a), Dec. 29, 1981, 95 Stat. 1639, 1644, 1645; Pub. L. 98–426, §28(h)(2), Sept. 28, 1984, 98 Stat. 1655; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 111–148, title I, §1556(b), Mar. 23, 2010, 124 Stat. 260.)
+(Pub. L. 91–173, title IV, §422, Dec. 30, 1969, 83 Stat. 796; Pub. L. 92–303, §§3(a), (b), 5(2)–(4), (9), 8, May 19, 1972, 86 Stat. 153, 155–157; Pub. L. 95–239, §§3(b)(4), 7(a)–(h), Mar. 1, 1978, 92 Stat. 97–99; Pub. L. 97–119, title I, §104(b)(3)–(5), title II, §§203(a)(6), (b), 204, 205(a), Dec. 29, 1981, 95Stat. 1639, 1644, 1645; Pub. L. 98–426, §28(h)(2), Sept. 28, 1984, 98 Stat. 1655; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 111–148, title I, §1556(b), Mar. 23, 2010, 124 Stat. 260.)
 
 #### References in Text
 
@@ -94,7 +94,7 @@ The effective date of the Black Lung Benefits Amendments of 1981, referred to in
 
 #### Amendments
 
-<b>2010</b>—Subsec. (<i>l</i>). Pub. L. 111–148 struck out “, except with respect to a claim filed under this part on or after the effective date of the Black Lung Benefits Amendments of 1981” after “claim of such miner”.
+<b>2010</b>—Subsec. (l). Pub. L. 111–148 struck out “, except with respect to a claim filed under this part on or after the effective date of the Black Lung Benefits Amendments of 1981” after “claim of such miner”.
 
 <b>1986</b>—Subsecs. (a), (i)(4), (j). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954” wherever appearing, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
@@ -112,7 +112,7 @@ Subsec. (i)(4). Pub. L. 97–119, §104(b)(4), substituted “section 9501(d) of
 
 Subsec. (j). Pub. L. 97–119, §§104(b)(5), 205(a)(2), substituted in provision preceding par. (1) “section 9501 of title 26” for “section 934 of this title” and in par. (1) “section 9501(d)(1) of title 26” for “section 934(a)(1) of this title” and added par. (3).
 
-Subsec. (<i>l</i>). Pub. L. 97–119, §203(a)(6), inserted before period at end “, except with respect to a claim filed under this part on or after the effective date of the Black Lung Benefits Amendments of 1981,”.
+Subsec. (l). Pub. L. 97–119, §203(a)(6), inserted before period at end “, except with respect to a claim filed under this part on or after the effective date of the Black Lung Benefits Amendments of 1981,”.
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–239, §§3(b)(4), 7(a), inserted “, and as it may be amended from time to time” after “as amended”, inserted a comma after “and 51 thereof)”, substituted “or by regulations of the Secretary and except that references in such Act to the employer shall be considered to refer to the trustees of the fund, as the Secretary considers appropriate and as is consistent with the provisions of section 934 of this title)” for “and except as the Secretary shall by regulation otherwise provide)”, and inserted “, or with respect to entitlements established in paragraph (5) of section 921(c) of this title” after “with respect to death or total disability due to pneumoconiosis arising out of employment in such mine”.
 
@@ -132,7 +132,7 @@ Subsec. (i)(2). Pub. L. 95–239, §7(g), reenacted par. (2) without change.
 
 Subsec. (i)(3), (4). Pub. L. 95–239, §7(g), added pars. (3) and (4).
 
-Subsecs. (j) to (<i>l</i>). Pub. L. 95–239, §7(h), added subsecs. (j) to (<i>l</i>).
+Subsecs. (j) to (l). Pub. L. 95–239, §7(h), added subsecs. (j) to (l).
 
 <b>1972</b>—Subsec. (a). Pub. L. 92–303, §§3(b), 5(2), (9), substituted “a coal mine” for “an underground coal mine”, “1973” for “1972” and struck out reference to section 7 of Pub. L. 803, 69th Congress (44 Stat. 1424, approved March 4, 1927), respectively,
 
@@ -150,7 +150,7 @@ Amendment by Pub. L. 111–148 applicable with respect to claims filed under par
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–426 effective Sept. 28, 1984, and applicable both with respect to claims filed after such date and to claims pending on such date, see section 28(a) of Pub. L. 98–426, set out as a note under section 901 of Title 33, Navigation and Navigable Waters.
+Amendment by Pub. L. 98–426 effective Sept. 28, 1984, and applicable both with respect to claims filed aftersuch date and to claims pending on such date, see section 28(a) of Pub. L. 98–426, set out as a note under section 901 of Title 33, Navigation and Navigable Waters.
 
 #### Effective Date of 1981 Amendment
 

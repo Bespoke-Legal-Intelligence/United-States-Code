@@ -54,7 +54,7 @@ A prior section 1070b–2, Pub. L. 89–329, title IV, §413C, as added Pub. L. 
 
 #### Amendments
 
-<b>1998</b>—Subsec. (d). Pub. L. 105–244 amended heading and text of subsec. (d) generally. Prior to amendment,text read as follows: “If the institution's allocation under this subpart is directly or indirectly based in part on the financial need demonstrated by students who are independent students or attending the institution less than full time and if the total financial need of all such students attending the institution exceeds 5 percent of the total financial need of all students attending such institution, then at least 5 percent of such allotment shall be made available to such students.”
+<b>1998</b>—Subsec. (d). Pub. L. 105–244 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “If the institution's allocation under this subpart is directly or indirectly based in part on the financial need demonstrated by students who are independent students or attending the institution less than full time and if the total financial need of all such students attending the institution exceeds 5 percent of the total financial need of all students attending such institution, then at least 5 percent of such allotment shall be made available to such students.”
 
 <b>1993</b>—Subsec. (d). Pub. L. 103–208 substituted “and” for “, a reasonable proportion of the institution's allocation shall be made available to such students, except that” and “5 percent of the total financial need” for “5 percent of the need”.
 
@@ -88,5 +88,5 @@ Amendment by Pub. L. 102–325 effective July 23, 1992, except that changes in s
 
 Section effective Oct. 17, 1986, except as otherwise provided, see section 2 of Pub. L. 99–498, set out as a note under section 1001 of this title.
 
-Section 401(b)(5) of Pub. L. 99–498 provided that: “Section 413C(c)(2) of the Act \[20 U.S.C. 1070b–2(c)(2)\] as amended by this section shall apply to the awarding of grants under subpart 2 of part A of title IV of the Act \[this subpart\] for periods of enrollment beginning on or after July 1, 1987.”
+Pub. L. 99–498, title IV, §401(b)(5), Oct. 17, 1986, 100 Stat. 1353, provided that: “Section 413C(c)(2) of the Act \[20 U.S.C. 1070b–2(c)(2)\] as amended by this section shall apply to the awarding of grants under subpart 2 of part A of title IV of the Act \[this subpart\] for periods of enrollment beginning on or after July 1, 1987.”
 

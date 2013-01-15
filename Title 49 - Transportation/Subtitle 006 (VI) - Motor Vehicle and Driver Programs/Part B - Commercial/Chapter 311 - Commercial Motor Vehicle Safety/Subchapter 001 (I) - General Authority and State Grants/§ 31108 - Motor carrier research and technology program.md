@@ -46,7 +46,7 @@ Procedures.—The Secretary may carry out this section—
 
 &emsp;(7)
 
-Development and promotion of use of products.—The Secretary shall use funds made available to carry out this section to develop, administer, communicate, and promote the use of products of research, technology, and technology transfer programs under this section.
+Development and promotion of use of products.—The Secretary shall use fundsmade available to carry out this section to develop, administer, communicate, and promote the use of products of research, technology, and technology transfer programs under this section.
 
 (b)
 

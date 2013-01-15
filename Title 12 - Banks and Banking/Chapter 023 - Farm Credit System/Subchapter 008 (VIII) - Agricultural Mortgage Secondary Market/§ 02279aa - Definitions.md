@@ -124,7 +124,7 @@ Par. (9). Pub. L. 101–624, §1839(b), amended par. (9) generally. Prior to ame
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 ofPub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 #### Effective Date of 1988 Amendment
 
@@ -132,7 +132,7 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 
 #### Statement of Purpose
 
-Section 701 of subtitle A (§§701–705) of title VII of Pub. L. 100–233 provided that: “It is the purpose of this subtitle \[enacting this subchapter, amending sections 2012, 2033, 2072, and 2093 of this title and section 9105 of Title 31, Money and Finance, and enacting provisions set out as a note below\]—
+Pub. L. 100–233, title VII, §701, Jan. 6, 1988, 101 Stat. 1686, provided that: “It is the purpose of this subtitle \[subtitle A (§§701–705) of title VII of Pub. L. 100–233, enacting this subchapter, amending sections 2012, 2033, 2072, and 2093 of this title and section 9105 of Title 31, Money and Finance, and enacting provisions set out as a note below\]—
 
 &emsp;“(1) to establish a corporation chartered by the Federal Government;
 
@@ -150,5 +150,5 @@ Section 701 of subtitle A (§§701–705) of title VII of Pub. L. 100–233 prov
 
 #### GAO Studies
 
-Section 704 of subtitle A (§§701–705) of title VII of Pub. L. 100–233, as amended by Pub. L. 100–399, title VI, §603, Aug. 17, 1988, 102 Stat. 1006, directed Comptroller General of United States to conduct studies of (1) implementation of amendments made by subtitle A of title VII of Pub. L. 100–233 (which enacted this subchapter and amended sections 2012, 2033, 2072, and 2093 of this title and section 9105 of Title 31, Money and Finance) by Federal Agricultural Mortgage Corporation and effect of operations of Corporation on producers, Farm Credit System, and other lenders, and capital markets, (2) feasibility and appropriateness of promoting establishment of a secondary market for securities representing interests in, or obligations backed by, pools of agricultural real estate loans for which a guarantee had not been provided by Federal Agricultural Mortgage Corporation, and (3) feasibility of expanding authority granted under amendments made by such subtitle A to authorize sale of securities based on or backed by a trust or pool consisting of loans made to farm-related and rural small businesses, and required, not later than Jan. 6, 1990, Comptroller General to transmit to Congress a report on the studies, including therein such recommendations for administrative action and legislation as might be appropriate.
+Pub. L. 100–233, title VII, §704, Jan. 6, 1988, 101 Stat. 1706, as amended by Pub. L. 100–399, title VI, §603, Aug. 17, 1988, 102 Stat. 1006, directed Comptroller General of United States to conduct studies of (1) implementation of amendments made by subtitle A (§§701–705) of title VII of Pub. L. 100–233 (which enacted this subchapter and amended sections 2012, 2033, 2072, and 2093 of thistitle and section 9105 of Title 31, Money and Finance) by Federal Agricultural Mortgage Corporation and effect of operations of Corporation on producers, Farm Credit System, and other lenders, and capital markets, (2) feasibility and appropriateness of promoting establishment of a secondary market for securities representing interests in, or obligations backed by, pools of agricultural real estate loans for which a guarantee had not been provided by Federal Agricultural Mortgage Corporation, and (3) feasibility of expanding authority granted under amendments made by such subtitle A to authorize sale of securities based on or backed by a trust or pool consisting of loans made to farm-related and rural small businesses, and required, not later than Jan. 6, 1990, Comptroller General to transmit to Congress a report on the studies, including therein such recommendations for administrative action and legislation as might be appropriate.
 

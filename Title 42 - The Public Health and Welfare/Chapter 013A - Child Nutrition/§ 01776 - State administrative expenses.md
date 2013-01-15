@@ -410,7 +410,7 @@ Amendment by Pub. L. 102–512 effective Sept. 30, 1992, see section 104 of Pub.
 
 #### Effective Date of 1989 Amendment
 
-Section 122(b) of Pub. L. 101–147 provided that: “The amendment made by subsection (a)(1)(A) \[amending this section\] shall be effective as of October 1, 1989.”
+Pub. L. 101–147, title I, §122(b), Nov. 10, 1989, 103 Stat. 894, provided that: “The amendment made by subsection (a)(1)(A) \[amending this section\] shall be effective as of October 1, 1989.”
 
 #### Effective Date of 1981 Amendment
 

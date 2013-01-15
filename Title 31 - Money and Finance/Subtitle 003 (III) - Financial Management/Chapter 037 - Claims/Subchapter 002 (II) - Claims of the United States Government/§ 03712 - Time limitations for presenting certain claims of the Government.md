@@ -6,7 +6,7 @@ Claims Over Forged or Unauthorized Endorsements.—
 
 &emsp;(1)
 
-Period for claims.—If the Secretary of the Treasury determines that a Treasury check has been paid over a forged or unauthorized endorsement, the Secretary may reclaim the amount of such check from the presenting bank or any other endorser that has breached its guarantee of endorsements prior to—
+Period for claims.—If the Secretary of the Treasury determines that a Treasurycheck has been paid over a forged or unauthorized endorsement, the Secretary may reclaim the amount of such check from the presenting bank or any other endorser that has breached its guarantee of endorsements prior to—
 
 &emsp;&emsp;(A) the end of the 1-year period beginning on the date of payment; or
 
@@ -80,7 +80,7 @@ In subsection (b), the words “at any time” in 31:131 are omitted as surplus.
 
 In subsection (c), the words “of the United States” and “allow . . . in” are omitted as surplus. The word “appropriate” is added for clarity. The word “Treasury” is substituted for “Treasurer of the United States” before “for the amount” because of the source provisions restated in section 321 of the revised title and Department of the Treasury Order 229 of January 14, 1974 (39 F.R. 2280). The words “cannot be brought because notice was not given within the time required under this subsection” are substituted for “shall have been barred pursuant to the provisions of sections 129 to 131 of this title upon a showing that the barring of such proceedings . . . required by the provision of section 129 of this title” for clarity. The word “Secretary” is substituted for “Treasurer of the United States” before “in failing” because of the source provisions restated in section 321 of the revised title and Department of the Treasury Order 229 of January 14, 1974.
 
-In subsection (d), the words “arising from dual pay” are substituted for “arising out of the receipt by such person of compensation . . . in violation of any provision of law prohibiting or restricting the receipt of dual compensation” to eliminate unnecessary words and for consistency in the revised title and with other titles of the Code. The words “including Government owned or controlled corporations” are omitted as unnecessary. The words “or from the government of the District of Columbia” are omitted because of sections 102(a), 448, 449, and 761 of the District of Columbia Self-Government and Governmental Reorganization Act (Pub. L. 93–198, 87 Stat. 777, 801, 836).
+In subsection (d), the words “arising from dual pay” are substituted for “arising out of the receipt by such person of compensation . . . in violation of any provision of law prohibiting or restricting the receipt of dual compensation” to eliminate unnecessary words and for consistency in the revised title and with other titles ofthe Code. The words “including Government owned or controlled corporations” are omitted as unnecessary. The words “or from the government of the District of Columbia” are omitted because of sections 102(a), 448, 449, and 761 of the District of Columbia Self-Government and Governmental Reorganization Act (Pub. L. 93–198, 87 Stat. 777, 801, 836).
 
 #### Amendments
 

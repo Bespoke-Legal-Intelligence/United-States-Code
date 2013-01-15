@@ -26,7 +26,7 @@ As used in this chapter, the term “honeybee” means all life stages and the g
 
 Subsec. (b). Pub. L. 103–182, §361(d)(2)(B), inserted “(1)” after “only from” and added cl. (2).
 
-<b>1976</b>—Pub. L. 94–319 incorporated existing provisions, which related only to honeybees, into subsecs. (a) to (e) relating to honeybees and honeybee semen, making honeybee provisions applicable to all life stages and the germ plasm of honeybees instead of only to honeybeesin the adult stage, restating purpose of prohibiting importation of honeybees and restating conditions to be determined by Secretary of Agriculture with respect to countries from which honeybees may be imported.
+<b>1976</b>—Pub. L. 94–319 incorporated existing provisions, which related only to honeybees, into subsecs. (a) to (e) relating to honeybees and honeybee semen, making honeybee provisions applicable to all life stages and the germ plasm of honeybees instead of only to honeybees in the adult stage, restating purpose of prohibiting importation of honeybees and restating conditions to be determined by Secretary of Agriculture with respect to countries from which honeybees may be imported.
 
 <b>1962</b>—Pub. L. 87–539 enlarged prohibition against importation of honeybees to include the honeybee of the genus Apis instead of only the honeybee Apis mellifica and restricted permission to import the honeybee to countries which take adequate precautions to prevent importation of honeybees from countries where dangerous diseases exist.
 

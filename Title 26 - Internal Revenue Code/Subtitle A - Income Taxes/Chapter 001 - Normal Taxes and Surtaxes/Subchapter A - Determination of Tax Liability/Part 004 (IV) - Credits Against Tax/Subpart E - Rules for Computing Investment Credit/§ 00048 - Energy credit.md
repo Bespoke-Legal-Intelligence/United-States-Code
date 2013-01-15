@@ -106,15 +106,17 @@
 
 #### (C) Qualified investment credit facility
 
-&emsp;&emsp;For purposes of this paragraph, the term “qualified investment credit facility” means any of the following facilities if no credit has been allowed under section 45 with respect to such facility and the taxpayer makes an irrevocable election to have this paragraph apply to such facility:
+&emsp;&emsp;For purposes of this paragraph, the term “qualified investment credit facility” means any facility—
 
-#### (i) Wind facilities
+&emsp;&emsp;&emsp;(i) which is a qualified facility (within the meaning of section 45) described in paragraph (1), (2), (3), (4), (6), (7), (9), or (11) of section 45(d),
 
-&emsp;&emsp;&emsp;Any qualified facility (within the meaning of section 45) described in paragraph (1) of section 45(d) if such facility is placed in service in 2009, 2010, 2011, or 2012.
+&emsp;&emsp;&emsp;(ii) which is placed in service after 2008 and the construction of which begins before January 1, 2014, and
 
-#### (ii) Other facilities
+&emsp;&emsp;&emsp;(iii) with respect to which—
 
-&emsp;&emsp;&emsp;Any qualified facility (within the meaning of section 45) described in paragraph (2), (3), (4), (6), (7), (9), or (11) of section 45(d) if such facility is placed in service in 2009, 2010, 2011, 2012, or 2013.
+&emsp;&emsp;&emsp;&emsp;(I) no credit has been allowed under section 45, and
+
+&emsp;&emsp;&emsp;&emsp;(II) the taxpayer makes an irrevocable election to have this paragraph apply.
 
 #### (D) Qualified property
 
@@ -124,9 +126,13 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) tangible personal property, or
 
-&emsp;&emsp;&emsp;&emsp;(II) other tangible property (not including a building or its structural components), but only if such property is used as an integral part of the qualified investment credit facility, and
+&emsp;&emsp;&emsp;&emsp;(II) other tangible property (not including a building or its structural components), but only if such property is used as an integral part of the qualified investment credit facility,
 
-&emsp;&emsp;&emsp;(ii) with respect to which depreciation (or amortization in lieu of depreciation) is allowable.
+&emsp;&emsp;&emsp;(ii) with respect to which depreciation (or amortization in lieu of depreciation) is allowable,
+
+&emsp;&emsp;&emsp;(iii) which is constructed, reconstructed, erected, or acquired by the taxpayer, and
+
+&emsp;&emsp;&emsp;(iv) the original use of which commences with the taxpayer.
 
 #### (b) Certain progress expenditure rules made applicable
 
@@ -152,7 +158,7 @@ For purposes of this section—
 
 #### (C) Fuel cell power plant
 
-&emsp;&emsp;The term “fuel cell power plant” means an integrated system comprised of a fuel cell stack assembly and associated balance of plant components which converts a fuel into electricity using electrochemical means.
+&emsp;&emsp;The term “fuel cell power plant” means an integrated system comprised of a fuel cellstack assembly and associated balance of plant components which converts a fuel into electricity using electrochemical means.
 
 #### (D) Termination
 
@@ -186,7 +192,7 @@ For purposes of this section—
 
 &emsp;&emsp;The term “combined heat and power system property” means property comprising a system—
 
-&emsp;&emsp;&emsp;(i) which uses the same energy source for the simultaneous or sequential generationof electrical power, mechanical shaft power, or both, in combination with the generation of steam or other forms of useful thermal energy (including heating and cooling applications),
+&emsp;&emsp;&emsp;(i) which uses the same energy source for the simultaneous or sequential generation of electrical power, mechanical shaft power, or both, in combination with the generation of steam or other forms of useful thermal energy (including heating and cooling applications),
 
 &emsp;&emsp;&emsp;(ii) which produces—
 
@@ -278,7 +284,7 @@ In the case of any property with respect to which the Secretary makes a grant un
 
 &emsp;&emsp;(B) shall <sup>3</sup> be taken into account in determining the basis of the property to which such grant relates, except that the basis of such property shall be reduced under section 50(c) in the same manner as a credit allowed under subsection (a).
 
-(Added Pub. L. 87–834, §2(b), Oct. 16, 1962, 76 Stat. 967; amended Pub. L. 88–272, title II, §203(a)(1), (3)(A), (b), (c), Feb. 26, 1964, 78 Stat. 33, 34; Pub. L. 89–800, §1 Nov. 8, 1966, 80 Stat. 1508; Pub. L. 89–809, title II, §201(a), Nov. 13, 1966, 80 Stat. 1575; Pub. L. 90–26, §§1, 2(a), 3, June 13, 1967, 81 Stat. 57, 58; Pub. L. 91–172, title I, §121(d)(2)(A), title IV, §401(e)(2)–(4), Dec. 30, 1969, 83 Stat. 547, 603; Pub. L. 92–178, title I, §§102(a)(2), 103, 104(a)(1), (b)–(f)(1), (g), 108(b), (c), Dec. 10, 1971, 85 Stat. 499–502, 507; Pub. L. 94–12, title III, §§301(c)(1), 302(c)(3), title VI, §604(a), Mar. 29, 1975, 89 Stat. 38, 44, 65; Pub. L. 94–455, title VIII, §§802(b)(6), 804(a), title X, §1051(h)(1), title XIX, §§1901(a)(5), (b)(11)(A), 1906(b)(13)(A), title XXI, §2112(a)(1), Oct. 4, 1976, 90 Stat. 1583, 1591, 1647, 1764, 1795, 1834, 1905; Pub. L. 95–473, §2(a)(2)(A), Oct. 17, 1978, 92 Stat. 1464; Pub. L. 95–600, title I, §141(b), title III, §§312(c)(1)–(3), 314(a), (b), 315(a)–(c), title VII, §703(a)(3), (4), Nov. 6, 1978, 92 Stat. 2791, 2826–2829, 2939; Pub. L. 95–618, title III, §301(b), (d)(1), (2), Nov. 9, 1978, 92 Stat. 3195, 3199, 3200; Pub. L. 96–222, title I, §§101(a)(7)(G), (H), (L)(i)(I)–(IV), (ii)(III)–(VI), (iii)(II), (III), (v)(II)–(V), (M)(ii), (iii), 103(a)(2)(A), (4)(B), 108(c)(6), Apr. 1, 1980, 94 Stat. 198–201, 208, 209, 228; Pub. L. 96–223, title II, §§221(b), 222(a)–(e)(1), (f)–(i), 223(a)(1), (c)(1), Apr. 2, 1980, 94 Stat. 261–266; Pub. L. 96–451, title III, §302(a), Oct. 14, 1980, 94 Stat. 1991; Pub. L. 96–605, title I, §109(a), title II, §223(a), Dec. 28, 1980, 94 Stat. 3525, 3528; Pub. L. 97–34, title II, §§211(a)(2), (c), (e)(3), (4), (h), 212(a)(3), (b), (c), (d)(2)(A), 213(a), 214(a), (b), title III, §332(b), Aug. 13, 1981, 95 Stat. 227–229, 235, 236, 239, 240, 296; Pub. L. 97–248, title II, §§205(a)(1), (4), (5)(A), 209(c), Sept. 3, 1982, 96 Stat. 427, 429, 447; Pub. L. 97–354, §§3(d), 5(a)(7), (8), Oct. 19, 1982, 96 Stat. 1689, 1692; Pub. L. 97–362, title I, §104(a), Oct. 25, 1982, 96 Stat. 1729; Pub. L. 97–424, title V, §546(a), Jan. 6, 1983, 96 Stat. 2198; Pub. L. 97–448, title I, §102(e)(2)(A), (f)(2), (3), (6), title II, §202(c), title III, §306(a)(3), Jan. 12, 1983, 96 Stat. 2371, 2372, 2396, 2400; Pub. L. 98–369, div. A, title I, §§11, 31(b), (c), 111(e)(8), 113(a)(1), (b)(3), (4), 114(a), title IV, §§431(c), 474(<i>o</i>)(10)–(18), title VII, §§712(b), 721(x)(1), 735(c)(1), title X, §1043(a), July 18, 1984, 98 Stat. 503, 517, 518, 633, 635, 637, 638, 808, 836, 837, 946, 971, 981, 1044; Pub. L. 99–121, title I, §103(b)(5), Oct. 11, 1985, 99 Stat. 510; Pub. L. 99–514, title II, §251(b), (c), title VII, §701(e)(4)(C), title VIII, §803(b)(2)(B), title XII, §§1272(d)(5), 1275(c)(5), title XV, §1511(c)(3), title XVIII, §§1802(a)(4)(C), (5)(B), (9)(A), (B), 1809(d)(2), (e), 1847(b)(6), 1879(j)(1), Oct. 22, 1986, 100 Stat. 2184, 2186, 2343, 2355, 2594, 2599, 2745, 2788, 2789, 2821, 2856, 2908; Pub. L. 100–647, title I, §§1002(a)(14), (16)(A), (20), (29), (30), 1013(a)(41), Nov. 10, 1988, 102 Stat. 3355–3357, 3544; Pub. L. 101–508, title XI, §§11801(c)(6)(A), 11813(a), Nov. 5, 1990, 104 Stat. 1388–523, 1388–541; Pub. L. 102–227, title I, §106, Dec. 11, 1991, 105 Stat. 1687; Pub. L. 102–486, title XIX, §1916(a), Oct. 24, 1992, 106 Stat. 3024; Pub. L. 108–357, title III, §322(d)(2)(A), (B), title VII, §710(e), Oct. 22, 2004, 118 Stat. 1475, 1557; Pub. L. 109–58, title XIII, §§1336(a)–(d), 1337(a)–(c), Aug. 8, 2005, 119 Stat. 1036–1038; Pub. L. 109–135, title IV, §412(m), (n), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 109–432, div. A, title II, §207, Dec. 20, 2006, 120 Stat. 2945; Pub. L. 110–172, §11(a)(8), (9), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 110–343, div. B, title I, §§103(a), (c)–(e), 104(a)–(d), 105(a), Oct. 3, 2008, 122 Stat. 3811, 3813, 3814; Pub. L. 111–5, div. B, title I, §§1102(a), 1103(a), (b)(1), 1104, Feb. 17, 2009, 123 Stat. 319–321.)
+(Added Pub. L. 87–834, §2(b), Oct. 16, 1962, 76 Stat. 967; amended Pub. L. 88–272, title II, §203(a)(1), (3)(A), (b), (c), Feb. 26, 1964, 78 Stat. 33, 34; Pub. L. 89–800, §1 Nov. 8, 1966, 80 Stat. 1508; Pub. L. 89–809, title II, §201(a), Nov. 13, 1966, 80 Stat. 1575; Pub. L. 90–26, §§1, 2(a), 3, June 13, 1967, 81 Stat. 57, 58; Pub. L. 91–172, title I, §121(d)(2)(A), title IV, §401(e)(2)–(4), Dec. 30, 1969, 83 Stat. 547, 603; Pub. L. 92–178, title I, §§102(a)(2), 103, 104(a)(1), (b)–(f)(1), (g), 108(b), (c), Dec. 10, 1971, 85 Stat. 499–502, 507; Pub. L. 94–12, title III, §§301(c)(1), 302(c)(3), title VI, §604(a), Mar. 29, 1975, 89 Stat. 38, 44, 65; Pub. L. 94–455, title VIII, §§802(b)(6), 804(a), title X, §1051(h)(1), title XIX, §§1901(a)(5), (b)(11)(A), 1906(b)(13)(A), title XXI, §2112(a)(1), Oct. 4, 1976, 90 Stat. 1583, 1591, 1647, 1764, 1795, 1834, 1905; Pub. L. 95–473, §2(a)(2)(A), Oct. 17, 1978, 92 Stat. 1464; Pub. L. 95–600, title I, §141(b), title III, §§312(c)(1)–(3), 314(a), (b), 315(a)–(c), title VII, §703(a)(3), (4), Nov. 6, 1978, 92 Stat. 2791, 2826–2829, 2939; Pub. L. 95–618, title III, §301(b), (d)(1), (2), Nov. 9, 1978, 92 Stat. 3195, 3199, 3200; Pub. L. 96–222, title I, §§101(a)(7)(G), (H), (L)(i)(I)–(IV), (ii)(III)–(VI), (iii)(II), (III), (v)(II)–(V), (M)(ii), (iii), 103(a)(2)(A), (4)(B), 108(c)(6), Apr. 1, 1980, 94 Stat. 198–201, 208, 209, 228; Pub. L. 96–223, title II, §§221(b), 222(a)–(e)(1), (f)–(i), 223(a)(1), (c)(1), Apr. 2, 1980, 94 Stat. 261–266; Pub. L. 96–451, title III, §302(a), Oct. 14, 1980, 94 Stat. 1991; Pub. L. 96–605, title I, §109(a), title II, §223(a), Dec. 28, 1980, 94 Stat. 3525, 3528; Pub. L. 97–34, title II, §§211(a)(2), (c), (e)(3), (4), (h), 212(a)(3), (b), (c), (d)(2)(A), 213(a), 214(a), (b), title III, §332(b), Aug. 13, 1981, 95 Stat. 227–229, 235, 236, 239, 240, 296; Pub. L. 97–248, title II, §§205(a)(1), (4), (5)(A), 209(c), Sept. 3, 1982, 96 Stat. 427, 429, 447; Pub. L. 97–354, §§3(d), 5(a)(7), (8), Oct. 19, 1982, 96 Stat. 1689, 1692; Pub. L. 97–362, title I, §104(a), Oct. 25, 1982, 96 Stat. 1729; Pub. L. 97–424, title V, §546(a), Jan. 6, 1983, 96 Stat. 2198; Pub. L. 97–448, title I, §102(e)(2)(A), (f)(2), (3), (6), title II, §202(c), title III, §306(a)(3), Jan. 12, 1983, 96 Stat. 2371, 2372, 2396, 2400; Pub. L. 98–369, div. A, title I, §§11, 31(b), (c), 111(e)(8), 113(a)(1), (b)(3), (4), 114(a), title IV, §§431(c), 474(o)(10)–(18), title VII, §§712(b), 721(x)(1), 735(c)(1), title X, §1043(a), July 18, 1984, 98 Stat. 503, 517, 518, 633, 635, 637, 638, 808, 836, 837, 946, 971, 981, 1044; Pub. L. 99–121, title I, §103(b)(5), Oct. 11, 1985, 99 Stat. 510; Pub. L. 99–514, title II, §251(b), (c), title VII, §701(e)(4)(C), title VIII, §803(b)(2)(B), title XII, §§1272(d)(5), 1275(c)(5), title XV, §1511(c)(3), title XVIII, §§1802(a)(4)(C), (5)(B), (9)(A), (B), 1809(d)(2), (e), 1847(b)(6), 1879(j)(1), Oct. 22, 1986, 100 Stat. 2184, 2186, 2343, 2355, 2594, 2599, 2745, 2788, 2789, 2821, 2856, 2908; Pub. L. 100–647, title I, §§1002(a)(14), (16)(A), (20), (29), (30), 1013(a)(41), Nov. 10, 1988, 102 Stat. 3355–3357, 3544; Pub. L. 101–508, title XI, §§11801(c)(6)(A), 11813(a), Nov. 5, 1990, 104 Stat. 1388–523, 1388–541; Pub. L. 102–227, title I, §106, Dec. 11, 1991, 105 Stat. 1687; Pub. L. 102–486, title XIX, §1916(a), Oct. 24, 1992, 106 Stat. 3024; Pub. L. 108–357, title III, §322(d)(2)(A), (B), title VII, §710(e), Oct. 22, 2004, 118 Stat. 1475, 1557; Pub. L. 109–58, title XIII, §§1336(a)–(d), 1337(a)–(c), Aug. 8, 2005, 119 Stat. 1036–1038; Pub. L. 109–135, title IV, §412(m), (n), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 109–432, div. A, title II, §207, Dec. 20, 2006, 120 Stat. 2945; Pub. L. 110–172, §11(a)(8), (9), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 110–343, div. B, title I, §§103(a), (c)–(e), 104(a)–(d), 105(a), Oct. 3, 2008, 122 Stat. 3811, 3813, 3814; Pub. L. 111–5, div. B, title I, §§1102(a), 1103(a), (b)(1), 1104, Feb. 17, 2009,123 Stat. 319–321; Pub. L. 112–240, title IV, §407(b), (c)(1), Jan. 2, 2013, 126 Stat. 2341.)
 
 #### References in Text
 
@@ -289,6 +295,18 @@ The date of the enactment of the Revenue Reconciliation Act of 1990, referred to
 Section 1603 of the American Recovery and Reinvestment Tax Act of 2009, referred to in subsec. (d), is section 1603 of Pub. L. 111–5, which is set out as a note below.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (a)(5)(C). Pub. L. 112–240, §407(b), amended subpar. (C) generally. Prior to amendment, text read as follows: “For purposes of this paragraph, the term ‘qualified investment credit facility’ means any of the following facilities if no credit has been allowed under section 45 with respect to such facility and the taxpayer makes an irrevocable election to have this paragraph apply to such facility:
+
+&emsp;“(i)
+
+Wind facilities.—Any qualified facility (within the meaning of section 45) described in paragraph (1) of section 45(d) if such facility is placed in service in 2009, 2010, 2011, or 2012.
+
+&emsp;“(ii)
+
+Other facilities.—Any qualified facility (within the meaning of section 45) described in paragraph (2), (3), (4), (6), (7), (9), or (11) of section 45(d) if such facility is placed in service in 2009, 2010, 2011, 2012, or 2013.”
+
+Subsec. (a)(5)(D)(iii), (iv). Pub. L. 112–240, §407(c)(1), added cls. (iii) and (iv).
 
 <b>2009</b>—Subsec. (a)(4)(D). Pub. L. 111–5, §1103(b)(1), added subpar. (D).
 
@@ -412,9 +430,9 @@ Subsec. (a)(5)(D). Pub. L. 100–647, §1002(a)(14)(F), substituted “paragraph
 
 Subsec. (a)(5)(E). Pub. L. 100–647, §1002(a)(14)(G), amended subpar. (E) generally, substituting “provision” for “provisions” and “168(h)” for “168(j)”.
 
-Subsec. (<i>l</i>)(2)(C). Pub. L. 100–647, §1002(a)(30), substituted “to which section 168 applies” for “which is recovery property (within the meaning of section 168)”.
+Subsec. (l)(2)(C). Pub. L. 100–647, §1002(a)(30), substituted “to which section 168 applies” for “which is recovery property (within the meaning of section 168)”.
 
-Subsec. (<i>l</i>)(11)(A)(ii). Pub. L. 100–647, §1013(a)(41), substituted “a private activity bond (within the meaning of section 141)” for “an industrial development bond (within the meaning of section 103(b)(2))”.
+Subsec. (l)(11)(A)(ii). Pub. L. 100–647, §1013(a)(41), substituted “a private activity bond (within the meaning of section 141)” for “an industrial development bond (within the meaning of section 103(b)(2))”.
 
 Subsec. (s). Pub. L. 100–647, §1002(a)(20), redesignated subsec. (s), relating to cross reference, as (t).
 
@@ -440,7 +458,7 @@ Subsec. (d)(6)(C)(ii). Pub. L. 99–514, §1511(c)(3), substituted “the underp
 
 Subsec. (g)(1). Pub. L. 99–514, §251(b), amended par. (1) generally, restating in subpars. (A) to (D) provisions relating to qualified rehabilitated buildings which had in subpar. (A) provided general definition of qualified rehabilitated building, in subpar. (B) directed that 30 years must have elapsed since construction, in subpar. (C) provided general definition of substantially rehabilitated with special rule for phased rehabilitation and application of provision to lessees, and in subpar. (D) provided that rehabilitation included reconstruction, and striking out former subpar. (E) which had provided an alternative test for definition of qualified rehabilitated building.
 
-Subsec. (g)(2). Pub. L. 99–514, §251(b), amended par. (2) generally, in subpar. (A) striking out reference to amounts “incurred after December 31, 1981” in introductory provision, and in cl. (i) substituting subcls. (I) to (IV) for “for real property (or additions or improvements to real property) which have a recovery period (within the meaning of section 168) of 19 (15 years in the case of low-income housing) years,”, in subpar. (B), in cl. (i), substituting provision relating to use of straight line depreciation for provision relating to use of accelerated methods of depreciation, redesignating former cl. (vi) as (v) and substituting “section 168(h)” for “section 168(j)”, redesignating former cl. (v) as (vi) and substituting “less than the recovery period determined under section 168(c)” for “less than 19 years (15 years in the case of low-income housing”, restating subpar. (C) without change, and in subpar. (D) substituting provisions defining nonresidential real property, residential rental property and class life for provisions defining low-income housing.
+Subsec. (g)(2). Pub. L. 99–514, §251(b), amended par. (2) generally, in subpar. (A) striking out reference to amounts “incurred after December 31, 1981” in introductory provision, and in cl. (i) substituting subcls. (I) to (IV) for “for real property (or additions or improvements to real property) which have a recovery period (within the meaning of section 168) of 19 (15 years in the case of low-income housing) years,”, in subpar. (B), in cl. (i), substituting provision relating to use of straight line depreciation for provision relating to use of accelerated methods of depreciation, redesignating former cl. (vi) as (v) and substituting “section 168(h)” for “section 168(j)”, redesignating former cl. (v) as (vi) and substituting “less than the recovery period determined under section 168(c)” for “less than 19 years (15 years in the case of low-income housing”, restating subpar. (C)without change, and in subpar. (D) substituting provisions defining nonresidential real property, residential rental property and class life for provisions defining low-income housing.
 
 Subsec. (g)(2)(B)(vi)(I). Pub. L. 99–514, §1802(a)(9)(B), substituted “section 168(j)” for “section 168(j)(3)”.
 
@@ -448,7 +466,7 @@ Subsec. (g)(3). Pub. L. 99–514, §251(b), in amending par. (3) generally, inse
 
 Subsec. (g)(4). Pub. L. 99–514, §251(b), in amending subsec. (g) generally, reenacted par. (4) without change.
 
-Subsec. (<i>l</i>)(5). Pub. L. 99–514, §1847(b)(6), substituted “section 23(c)” for “section 44C(c)” and “section 23(c)(4)(A)(viii)” for “section 44C(c)(4)(A)(viii)”.
+Subsec. (l)(5). Pub. L. 99–514, §1847(b)(6), substituted “section 23(c)” for “section 44C(c)” and “section 23(c)(4)(A)(viii)” for “section 44C(c)(4)(A)(viii)”.
 
 Subsec. (q)(3). Pub. L. 99–514, §251(c), struck out “other than a certified historic structure” after “qualified rehabilitated building”.
 
@@ -470,13 +488,13 @@ Subsec. (c)(2)(A). Pub. L. 98–369, §11(a), substituted “$125,000 ($150,000 
 
 Subsec. (c)(2)(B). Pub. L. 98–369, §11(b), substituted “$62,500 ($75,000 for taxable years beginning after 1987)” for “$75,000 ($62,500 for taxable years beginning in 1981, 1982, 1983, or 1984)”.
 
-Subsec. (c)(3)(B). Pub. L. 98–369, §474(<i>o</i>)(10), substituted “section 39” for “section 46(b)”.
+Subsec. (c)(3)(B). Pub. L. 98–369, §474(o)(10), substituted “section 39” for “section 46(b)”.
 
-Subsec. (d)(1)(B). Pub. L. 98–369, §474(<i>o</i>)(11), substituted “section 38(c)(3)(B)” for “section 46(a)(6)”.
+Subsec. (d)(1)(B). Pub. L. 98–369, §474(o)(11), substituted “section 38(c)(3)(B)” for “section 46(a)(6)”.
 
 Subsec. (d)(6). Pub. L. 98–369, §431(c), added par. (6).
 
-Subsec. (f)(3). Pub. L. 98–369, §474(<i>o</i>)(12), struck out par. (3) which provided that the $25,000 amount specified under subparagraphs (A) and (B) of section 46(a)(3) applicable to an estate or trust be reduced to an amount which bore the same ratio to $25,000 as the amount of the qualified investment allocated to the estate or trust under paragraph (1) to the entire amount of the qualified investment.
+Subsec. (f)(3). Pub. L. 98–369, §474(o)(12), struck out par. (3) which provided that the $25,000 amount specified under subparagraphs (A) and (B) of section 46(a)(3) applicable to an estate or trust be reduced to an amount which bore the same ratio to $25,000 as the amount of the qualified investment allocated to the estate or trust under paragraph (1) to the entire amount of the qualified investment.
 
 Subsec. (g)(1)(E). Pub. L. 98–369, §1043(a), added subpar. (E).
 
@@ -498,21 +516,21 @@ Subsec. (k)(4)(B). Pub. L. 98–369, §113(b)(3)(C), substituted “used” for 
 
 Subsec. (k)(5)(D)(i). Pub. L. 98–369, §721(x)(1), substituted “S corporation” for “electing small business corporation”.
 
-Subsec. (<i>l</i>)(1). Pub. L. 98–369, §474(<i>o</i>)(13), substituted “section 46(b)(2)” for “section 46(a)(2)(C)”.
+Subsec. (l)(1). Pub. L. 98–369, §474(o)(13), substituted “section 46(b)(2)” for “section 46(a)(2)(C)”.
 
-Subsec. (<i>l</i>)(16)(B)(i). Pub. L. 98–369, §735(c)(1), substituted “the chassis of which is an automobile bus chassis and the body of which is an automobile bus body” for “the chassis and body of which is exempt under section 4063(a)(6) from the tax imposed by section 4061(a)”.
+Subsec. (l)(16)(B)(i). Pub. L. 98–369, §735(c)(1), substituted “the chassis of which is an automobile bus chassis and the body of which is an automobile bus body” for “the chassis and body of which is exempt under section 4063(a)(6) from the tax imposed by section 4061(a)”.
 
-Subsec. (m). Pub. L. 98–369, §474(<i>o</i>)(14), substituted “subsection (b)” for “subsection (a)(2)”.
+Subsec. (m). Pub. L. 98–369, §474(o)(14), substituted “subsection (b)” for “subsection (a)(2)”.
 
-Subsec. (n). Pub. L. 98–369, §474(<i>o</i>)(15), repealed subsec. (n). For continuing applicability of par. (4) of subsec. (n), see section 474(<i>o</i>)(15) of Pub. L. 98–369, set out in Effective Date of 1984 Amendment note below.
+Subsec. (n). Pub. L. 98–369, §474(o)(15), repealed subsec. (n). For continuing applicability of par. (4) of subsec. (n), see section 474(o)(15) of Pub. L. 98–369, set out in Effective Date of 1984 Amendment note below.
 
-Subsec. (<i>o</i>)(3) to (8). Pub. L. 98–369, §474(<i>o</i>)(16), redesignated par. (8) as (3) and struck out former pars. (3) to (7) which defined “employee plan credit”, “basic employee plan credit”, “matching employee plan credit”, “basic employee plan percentage”, and “matching employee plan percentage”, respectively.
+Subsec. (o)(3) to (8). Pub. L. 98–369, §474(o)(16), redesignated par. (8) as (3) and struck out former pars. (3) to (7) which defined “employee plan credit”, “basic employee plan credit”, “matching employee plan credit”, “basic employee plan percentage”, and “matching employee plan percentage”, respectively.
 
-Subsec. (q)(1), (3). Pub. L. 98–369, §474(<i>o</i>)(17)(A), substituted “section 46(a)” for “section 46(a)(2)”.
+Subsec. (q)(1), (3). Pub. L. 98–369, §474(o)(17)(A), substituted “section 46(a)” for “section 46(a)(2)”.
 
-Subsec. (q)(4)(A)(i). Pub. L. 98–369, §474(<i>o</i>)(17), substituted “section 46(a)” for “section 46(a)(2)” and “section 46(b)(1)” for “section 46(a)(2)(B)”.
+Subsec. (q)(4)(A)(i). Pub. L. 98–369, §474(o)(17), substituted “section 46(a)” for “section 46(a)(2)” and “section 46(b)(1)” for “section 46(a)(2)(B)”.
 
-Subsec. (q)(4)(B)(ii). Pub. L. 98–369, §474(<i>o</i>)(17)(B), substituted “section 46(b)(1)” for “section 46(a)(2)(B)”.
+Subsec. (q)(4)(B)(ii). Pub. L. 98–369, §474(o)(17)(B), substituted “section 46(b)(1)” for “section 46(a)(2)(B)”.
 
 Subsec. (q)(6). Pub. L. 98–369, §712(b), added par. (6) relating to adjustment in basis of interest in partnership or S corporation.
 
@@ -520,7 +538,7 @@ Pub. L. 98–369, §113(b)(4), added par. (6) relating to special rule for quali
 
 Subsec. (r). Pub. L. 98–369, §113(a)(1), added subsec. (r). Former subsec. (r) redesignated (s).
 
-Pub. L. 98–369, §474(<i>o</i>)(18), substituted “section 381(c)(26)” for “section 381(c)(23)”.
+Pub. L. 98–369, §474(o)(18), substituted “section 381(c)(26)” for “section 381(c)(23)”.
 
 Subsec. (s). Pub. L. 98–369, §113(a)(1), redesignated former subsec. (r) as (s).
 
@@ -532,9 +550,9 @@ Subsec. (g)(1)(C)(i). Pub. L. 97–448, §102(f)(2), (6), substituted “the 24-
 
 Subsec. (g)(5)(A). Pub. L. 97–448, §102(f)(3), substituted “a credit is determined under section 46(a)(2)” for “a credit is allowed under this section” and “the credit so determined” for “the credit so allowed”. See 1982 Amendment note for subsec. (g)(5) below and see Effective Date of 1982 and 1983 Amendment notes set out under sections 1 and 196 of this title.
 
-Subsec. (<i>l</i>)(5). Pub. L. 97–424, §546(a)(3), substituted reference to subpar. (N) for reference to subpar. (M) in provision following subparagraphs.
+Subsec. (l)(5). Pub. L. 97–424, §546(a)(3), substituted reference to subpar. (N) for reference to subpar. (M) in provision following subparagraphs.
 
-Subsec. (<i>l</i>)(5)(M), (N). Pub. L. 97–424, §546(a)(1), (2), added subpar. (M) and redesignated former subpar. (M) as (N).
+Subsec. (l)(5)(M), (N). Pub. L. 97–424, §546(a)(1), (2), added subpar. (M) and redesignated former subpar. (M) as (N).
 
 Subsec. (q)(3). Pub. L. 97–448, §306(a)(3), substituted “paragraphs (1) and (2) of this subsection and paragraph (5) of subsection (d)” for “paragraphs (1) and (2)”.
 
@@ -550,7 +568,7 @@ Subsec. (g)(5). Pub. L. 97–248, §205(a)(5)(A), struck out par. (5) which, as 
 
 Subsec. (k)(5)(D)(i). Pub. L. 97–354, §5(a)(8), substituted “an S corporation” for “an electing small business corporation (within the meaning of section 1371)”.
 
-Subsec. (<i>l</i>)(7). Pub. L. 97–362, §104(a), temporarily substituted the qualification that such term does not include equipment for hydrogenation, refining, or other process subsequent to retorting other than hydrogenation or other process which is applied in the vicinity of the property from which the shale was extracted and which is applied to bring the shale oil to a grade and quality suitable for transportation to and processing in a refinery, for the qualification that such equipment did not include equipment for hydrogenation, refining, or other processes subsequent to retorting. See Effective and Termination Dates of 1982 Amendment note below.
+Subsec. (l)(7). Pub. L. 97–362, §104(a), temporarily substituted the qualification that such term does not include equipment for hydrogenation, refining, or other process subsequent to retorting other than hydrogenation or other process which is applied in the vicinity of the property from which the shale was extracted and which is applied to bring the shale oil to a grade and quality suitable for transportation to and processing in a refinery, for the qualification that such equipment did not include equipment for hydrogenation, refining, or other processes subsequent to retorting. See Effective and Termination Dates of 1982 Amendment note below.
 
 Subsecs. (q), (r). Pub. L. 97–248, §205(a)(1), added subsec. (q) and redesignated former subsec. (q) as (r).
 
@@ -574,11 +592,11 @@ Subsec. (c)(2)(A) to (C). Pub. L. 97–34, §213(a), amended subpars. (A) to (C)
 
 Subsec. (g). Pub. L. 97–34, §212(b), in amending subsec. (c) generally incorporated the concept of “substantial rehabilitation” into par. (1)(A), substituted “30 years” for “20 years” as the requisite period in par. (1)(B), substituted a definition of “substantially rehabilitated” for former provisions that a major portion could be treated as a separate building in certain cases in par. (1)(C), reenacted par. (1)(D) without change, substituted “December 31, 1981” for “October 31, 1978” in provisions of par. (2)(A) preceding cl. (i), substituted provisions for a recovery period of 15 years for provisions that had provided for a useful life of 5 years or more in cl. (i) of par. (2)(A), reenacted cl. (ii) without change, substituted provisions that accelerated methods of depreciation may not be used for provisions relating to property otherwise section 38 property in cl. (i) of par. (2)(B), reenacted cls. (ii) and (iii) without change, revised the provisions of cl. (iv) relating to certified historic structures, and added cl. (v) relating to expenditures of lessees, added par. (3), redesignated former par. (3) as (4), and added par. (5).
 
-Subsec. (<i>l</i>)(2)(C). Pub. L. 97–34, §211(e)(3), inserted “or which is recovery property (within the meaning of section 168)” after “3 years or more”.
+Subsec. (l)(2)(C). Pub. L. 97–34, §211(e)(3), inserted “or which is recovery property (within the meaning of section 168)” after “3 years or more”.
 
 Subsec. (n)(1)(A)(i). Pub. L. 97–34, §332(b), substituted “which does not exceed” for “equal to”.
 
-Subsec. (<i>o</i>)(8). Pub. L. 97–34, §212(a)(3), added par. (8).
+Subsec. (o)(8). Pub. L. 97–34, §212(a)(3), added par. (8).
 
 <b>1980</b>—Subsec. (a)(1). Pub. L. 96–451 added subpar. (F) and provision for treatment of the useful life of subpar. (F) property as its normal growing period.
 
@@ -588,45 +606,45 @@ Subsec. (a)(5). Pub. L. 96–605, §109(a), included the International Maritime 
 
 Subsec. (a)(7)(B). Pub. L. 95–600, §312(c)(2), as amended by Pub. L. 96–222, §103(a)(2)(A), substituted “ ‘described in section 50 (as in effect before its repeal by the Revenue Act of 1978’ ” for “ ‘described in section 50’ ”.
 
-Subsec. (a)(10)(A). Pub. L. 96–223, §223(a)(1), as amended by Pub. L. 97–448, §202(c), provided that “petroleum or petroleum products” does not include petroleum coke or petroleum pitch.
+Subsec. (a)(10)(A). Pub. L. 96–223, §223(a)(1), as amended by Pub. L. 97–448, §202(c), provided that “petroleumor petroleum products” does not include petroleum coke or petroleum pitch.
 
 Subsec. (a)(10)(B). Pub. L. 96–222, §108(c)(6), substituted “5” for “51”.
 
-Subsec. (g)(2)(B)(i). Pub. L. 96–222, §103(a)(4)(B), substituted “subsections (a)(1)(E) and (<i>l</i>)” for “subsection (a)(1)(E)”.
+Subsec. (g)(2)(B)(i). Pub. L. 96–222, §103(a)(4)(B), substituted “subsections (a)(1)(E) and (l)” for “subsection (a)(1)(E)”.
 
-Subsec. (<i>l</i>)(1). Pub. L. 96–223, §221(b)(1), substituted “For any period for which the energy percentage determined under section 46(a)(2)(C) for any energy property is greater than zero” for “For the period beginning on October 1, 1978, and ending on December 31, 1982” in provisions preceding subpar. (A) and, in subpars. (A) and (B), substituted “such energy property” and “such property” for “any energy property”.
+Subsec. (l)(1). Pub. L. 96–223, §221(b)(1), substituted “For any period for which the energy percentage determined under section 46(a)(2)(C) for any energy property is greater than zero” for “For the period beginning on October 1, 1978, and ending on December 31, 1982” in provisions preceding subpar. (A) and, in subpars. (A) and (B), substituted “such energy property” and “such property” for “any energy property”.
 
-Subsec. (<i>l</i>)(2)(A). Pub. L. 96–223, §222(a), added cls. (vii), (viii), and (ix).
+Subsec. (l)(2)(A). Pub. L. 96–223, §222(a), added cls. (vii), (viii), and (ix).
 
-Subsec. (<i>l</i>)(3)(A). Pub. L. 96–223, §222(b), (g)(2), struck out “(other than coke or coke gas)” after “solid fuel” in cl. (iii) and, in cl. (v), substituted provisions relating to equipment which converts coal into a substitute for a petroleum or natural gas derived feedstock for the manufacture of chemicals or other products and equipment which converts coal into methanol, ammonia, or hydroprocessed coal liquid or solid for provisions which had related simply to equipment which used coal as feedstock for the manufacture of chemicals or other products other than coke or coke gas, added cl. (ix), and, following cl. (ix), inserted provision that the equipment described in cl. (vii) includes equipment used for the storage of fuel derived from garbage at the site at which such fuel was produced from garbage.
+Subsec. (l)(3)(A). Pub. L. 96–223, §222(b), (g)(2), struck out “(other than coke or coke gas)” after “solid fuel” in cl. (iii) and, in cl. (v), substituted provisions relating to equipment which converts coal into a substitute for a petroleum or natural gas derived feedstock for the manufacture of chemicals or other products and equipment which converts coal into methanol, ammonia, or hydroprocessed coal liquid or solid for provisions which had related simply to equipment which used coal as feedstock for the manufacture of chemicals or other products other than coke or coke gas, added cl. (ix), and, following cl. (ix), inserted provision that the equipment described in cl. (vii) includes equipment used for the storage of fuel derived from garbage at the site at which such fuel was produced from garbage.
 
-Subsec. (<i>l</i>)(3)(B). Pub. L. 96–223, §222(i)(1)(A), redesignated subpar. (C) as (B). Former subpar. (B), which excluded public utility property from the terms “alternative energy property”, “solar or wind energy property”, or “recycling equipment”, was struck out.
+Subsec. (l)(3)(B). Pub. L. 96–223, §222(i)(1)(A), redesignated subpar. (C) as (B). Former subpar. (B), which excluded public utility property from the terms “alternative energy property”, “solar or wind energy property”, or “recycling equipment”, was struck out.
 
-Subsec. (<i>l</i>)(3)(C), (D). Pub. L. 96–223, §222(i)(1)(A), (3), redesignated subpar. (D) as (C) and inserted following cl. (ii) provision that, for the purposes of the preceding sentence, in the case of property which is alternative energy property solely by reason of the amendments made by section 222(b) of the Crude Oil Windfall Profit Tax Act of 1980, “January 1, 1980” was to be substituted for “October 1, 1978”. Former subpar. (C) redesignated (B).
+Subsec. (l)(3)(C), (D). Pub. L. 96–223, §222(i)(1)(A), (3), redesignated subpar. (D) as (C) and inserted following cl. (ii) provision that, for the purposes of the preceding sentence, in the case of property which is alternative energy property solely by reason of the amendments made by section 222(b) of the Crude Oil Windfall Profit Tax Act of 1980, “January 1, 1980” was to be substituted for “October 1, 1978”. Former subpar. (C) redesignated (B).
 
-Subsec. (<i>l</i>)(4)(C). Pub. L. 96–223, §222(c), added subpar. (C).
+Subsec. (l)(4)(C). Pub. L. 96–223, §222(c), added subpar. (C).
 
-Subsec. (<i>l</i>)(5). Pub. L. 96–223, §222(d), added subpar. (L), redesignated former subpar. (L) as (M), and inserted provision that the Secretary shall not specify any property under subpar. (M) unless he determines that such specification meets the requirements of par. (9) of section 44C(c) for specification of items under section 44C(c)(4)(A)(viii).
+Subsec. (l)(5). Pub. L. 96–223, §222(d), added subpar. (L), redesignated former subpar. (L) as (M), and inserted provision that the Secretary shall not specify any property under subpar. (M) unless he determines that such specification meets the requirements of par. (9) of section 44C(c) for specification of items under section 44C(c)(4)(A)(viii).
 
-Subsec. (<i>l</i>)(11). Pub. L. 96–223, §221(b)(2), substituted “one-half of the energy percentage determined under section 46(a)(2)(C)” for “5 percent”.
+Subsec. (l)(11). Pub. L. 96–223, §221(b)(2), substituted “one-half of the energy percentage determined under section 46(a)(2)(C)” for “5 percent”.
 
 Pub. L. 96–223, §223(c)(1), completely revised par. (11) to incorporate property financed by subsidized energy financing, effective with regard to periods after Dec. 31, 1982. Prior to the revision par. (11) read as follows: “In the case of property which is financed in whole or in part by the proceeds of an industrial development bond (within the meaning of section 103(b)(2)) the interest on which is exempt from tax under section 103, the energy percentage shall be one-half of the energy percentage determined under section 46(a)(2)(C).”
 
-Subsec. (<i>l</i>)(13). Pub. L. 96–223, §222(e)(1), added par. (13).
+Subsec. (l)(13). Pub. L. 96–223, §222(e)(1), added par. (13).
 
-Subsec. (<i>l</i>)(14). Pub. L. 96–223, §222(f), added par. (14).
+Subsec. (l)(14). Pub. L. 96–223, §222(f), added par. (14).
 
-Subsec. (<i>l</i>)(15). Pub. L. 96–223, §222(g)(1), added par. (15).
+Subsec. (l)(15). Pub. L. 96–223, §222(g)(1), added par. (15).
 
-Subsec. (<i>l</i>)(16). Pub. L. 96–223, §222(h), added par. (16).
+Subsec. (l)(16). Pub. L. 96–223, §222(h), added par. (16).
 
-Subsec. (<i>l</i>)(17). Pub. L. 96–223, §222(i)(1)(B), added par. (17).
+Subsec. (l)(17). Pub. L. 96–223, §222(i)(1)(B), added par. (17).
 
 Subsec. (n). Pub. L. 96–222, §101(a)(7)(G), (H), (L)(i)(I)–(IV), (ii)(III)–(VI), (iii)(II), (v)(II)–(IV), (M)(ii), amended subsec. (n) generally to reflect the renaming of an investment tax credit ESOP to a tax credit employee stock ownership plan and a leveraged employee stock ownership plan (commonly referred to as an ESOP) to an employee stock ownership plan.
 
 Subsec. (n)(6)(B)(i). Pub. L. 96–605, §223(a), substituted “the date on which the securities are contributed to the plan” for “the due date for filing the return for the taxable year (determined with regard to extensions)”.
 
-Subsec. (<i>o</i>). Pub. L. 96–222, §101(a)(7)(L)(iii)(III), (v)(IV), (V), (M)(iii), substituted “employee plan” for“ESOP” wherever appearing and inserted “percentage” after “attributable to the matching employee plan” in par. (5).
+Subsec. (o). Pub. L. 96–222, §101(a)(7)(L)(iii)(III), (v)(IV), (V), (M)(iii), substituted “employee plan” for “ESOP” wherever appearing and inserted “percentage” after “attributable to the matching employee plan” in par. (5).
 
 <b>1978</b>—Subsec. (a)(1)(A). Pub. L. 95–618, §301(d)(1), inserted “(other than an air conditioning or heating unit)” after “personal property”.
 
@@ -656,13 +674,13 @@ Subsec. (i). Pub. L. 95–600, §312(c)(1), struck out subsec. (i) which related
 
 Subsec. (j). Pub. L. 95–600, §312(c)(1), struck out subsec. (j) which defined “suspension period”.
 
-Subsecs. (<i>l</i>), (m). Pub. L. 95–618, §301(b), added subsecs. (<i>l</i>) and (m) and redesignated former subsec. (<i>l</i>) as (n).
+Subsecs. (l), (m). Pub. L. 95–618, §301(b), added subsecs. (l) and (m) and redesignated former subsec. (l) as (n).
 
-Subsec. (n). Pub. L. 95–618, §301(b), redesignated former subsec. (<i>l</i>) as (n).
+Subsec. (n). Pub. L. 95–618, §301(b), redesignated former subsec. (l) as (n).
 
 Pub. L. 95–600, §141(b), added subsec. (n). Former subsec. (n) redesignated (p).
 
-Subsec. (<i>o</i>). Pub. L. 95–600, §141(b), added subsec. (<i>o</i>).
+Subsec. (o). Pub. L. 95–600, §141(b), added subsec. (o).
 
 Subsecs. (p), (q). Pub. L. 95–600, §§141(b), 314(b), added subsec. (p). Former subsec. (n) redesignated (p) and subsequently as (q).
 
@@ -680,7 +698,7 @@ Subsec. (f). Pub. L. 94–455, §802(b)(6), substituted “section 46(a)(3)” f
 
 Subsec. (i)(2). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsecs. (k), (<i>l</i>). Pub. L. 94–455, §804(a), added subsec. (k) and redesignated former subsec. (k) as subsec. (<i>l</i>).
+Subsecs. (k), (l). Pub. L. 94–455, §804(a), added subsec. (k) and redesignated former subsec. (k) as subsec. (l).
 
 <b>1975</b>—Subsec. (a)(2)(B). Pub. L. 94–12, §604(a), substituted “territorial waters within the northern portion of the Western Hemisphere” for “territorial waters” in cl. (x) and inserted definition of “northern portion of the Western Hemisphere” following cl. (x).
 
@@ -734,6 +752,10 @@ Subsec. (d). Pub. L. 88–272, §203(a)(3)(A), (b), substituted “except as pro
 
 Subsec. (g). Pub. L. 88–272, §203(a)(1), repealed subsec. (g) which required that the basis of section 38 property be reduced by 7 percent of the qualified investment.
 
+#### Effective Date of 2013 Amendment
+
+Amendment by Pub. L. 112–240 effective on Jan. 2, 2013, and amendment by section 407(c)(1) of Pub. L. 112–240 applicable as if included in the enactment of the provisions of the American Recovery and Reinvestment Act of 2009, Pub. L. 111–5, to which it relates, see section 407(d) of Pub. L. 112–240, set out as a note under section 45 of this title.
+
 #### Effective Date of 2009 Amendment
 
 Pub. L. 111–5, div. B, title I, §1102(b), Feb. 17, 2009, 123 Stat. 320, provided that: “The amendments made by this section \[amending this section\] shall apply to facilities placed in service after December 31, 2008.”
@@ -754,7 +776,7 @@ Allowance against alternative minimum tax.—The amendments made by subsection (
 
 “(3)
 
-Combined heat and power and fuel cell property.—The amendments made by subsections (c) and (d) \[amending this section\] shall apply to periods after the date of the enactment of this Act, in taxable years ending after such date, under rules similar to the rules of section 48(m) of the Internal Revenue Code of 1986 (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990 \[Nov. 5, 1990\]).
+Combined heat and power and fuel cell property.—The amendments made by subsections (c) and (d) \[amending this section\] shall apply to periods after the date of the enactment of this Act, in taxable years ending after such date, under rules similar to the rulesof section 48(m) of the Internal Revenue Code of 1986 (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990 \[Nov. 5, 1990\]).
 
 “(4)
 
@@ -778,7 +800,7 @@ Amendment by section 710(e) of Pub. L. 108–357 applicable, except as otherwise
 
 #### Effective Date of 1992 Amendment
 
-Section 1916(b) of Pub. L. 102–486 provided that: “The amendments made by this section \[amending this section\] shall take effect on June 30, 1992.”
+Pub. L. 102–486, title XIX, §1916(b), Oct. 24, 1992, 106 Stat. 3024, provided that: “The amendments made by this section \[amending this section\] shall take effect on June 30, 1992.”
 
 #### Effective Date of 1990 Amendment
 
@@ -802,9 +824,9 @@ Amendment by sections 1272(d)(5) and 1275(c)(5) of Pub. L. 99–514 applicable t
 
 Amendment by section 1511(c)(3) of Pub. L. 99–514 applicable for purposes of determining interest for periods after Dec. 31, 1986, see section 1511(d) of Pub. L. 99–514, set out as a note under section 47 of this title.
 
-Section 1879(j)(2) of Pub. L. 99–514 provided that: “The amendments made by this subsection \[amending this section\] shall apply to periods after December 31, 1978 (under rules similar to the rules of section 48(m) of the Internal Revenue Code of 1954 \[now 1986\]), in taxable years ending after such date.”
+Pub. L. 99–514, title XVIII, §1879(j)(2), Oct. 22, 1986, 100 Stat. 2909, provided that: “The amendments made by this subsection \[amending this section\] shall apply to periods after December 31, 1978 (under rules similar to the rules of section 48(m) of the Internal Revenue Code of 1954 \[now 1986\]), in taxable years ending after such date.”
 
-Section 1881 of title XVIII of Pub. L. 99–514 provided that: “Except as otherwise provided in this subtitle, any amendment made by this subtitle \[subtitle A (§§1801–1881) of title XVIII of Pub. L. 99–514, see Tables for classification\] shall take effect as if included in the provision of the Tax Reform Act of 1984 \[Pub. L. 98–369, div. A\] to which such amendment relates.”
+Pub. L. 99–514, title XVIII, §1881, Oct. 22, 1986, 100 Stat. 2914, provided that: “Except as otherwise provided in this subtitle, any amendment made by this subtitle \[subtitle A (§§1801–1881) of title XVIII of Pub. L. 99–514, see Tables for classification\] shall take effect as if included in the provision of the Tax Reform Act of 1984 \[Pub. L. 98–369, div. A\] to which such amendment relates.”
 
 #### Effective Date of 1985 Amendment
 
@@ -812,7 +834,7 @@ Amendment by Pub. L. 99–121 applicable with respect to property placed in serv
 
 #### Effective Date of 1984 Amendment
 
-Section 18 of Pub. L. 98–369 provided that:
+Pub. L. 98–369, div. A, title I, §18, July 18, 1984, 98 Stat. 506, provided that:
 
 “(a)
 
@@ -834,15 +856,15 @@ Amendment by section 113(b)(3) of Pub. L. 98–369 applicable as if included in 
 
 Amendment by section 113(b)(4) of Pub. L. 98–369 applicable as if included in the amendments made by section 205(a)(1) of Pub. L. 97–248, see section 113(c)(2)(C) of Pub. L. 98–369, set out as a note under section 168 of this title.
 
-Section 113(c)(1) of Pub. L. 98–369 provided that: “The amendments made by subsection (a) \[amending this section and section 168 of this title\] shall apply to property placed in service after March 15, 1984, in taxable years ending after such date.”
+Pub. L. 98–369, div. A, title I, §113(c)(1), July 18, 1984, 98 Stat. 637, provided that: “The amendments made by subsection (a) \[amending this section and section 168 of this title\] shall apply to property placed in service after March 15, 1984, in taxable years ending after such date.”
 
-Section 114(b) of Pub. L. 98–369 provided that: “The amendment made by this section \[amending this section\] shall apply to property originally placed in service after April 11, 1984 (determined without regard to such amendment).”
+Pub. L. 98–369, div. A, title I, §114(b), July 18, 1984, 98 Stat. 638, provided that: “The amendment made by this section \[amending this section\] shall apply to property originally placed in service after April 11, 1984 (determined without regard to such amendment).”
 
 Amendment by section 431(c) of Pub. L. 98–369 applicable to property placed in service after July 18, 1984, in taxable years ending after such date, but not applicable to property to which sections 46(c)(8), (9) and 47(d) of this title, as enacted by section 211(f) of Pub. L. 97–34, do not apply, with the taxpayer having an option to elect retroactive application of amendment by Pub. L. 98–369, see section 431(e) of Pub. L. 98–369, set out as a note under section 46 of this title.
 
-Amendment by section 474(<i>o</i>)(10)–(18) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as a note under section 21 of this title.
+Amendment by section 474(o)(10)–(18) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as a note under section 21 of this title.
 
-Section 474(<i>o</i>)(15) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Subsection (n) of section 48 (relating to requirements for allowance of employee plan percentage) is hereby repealed; except that paragraph (4) of section 48(n) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as in effect before its repeal by this paragraph) shall continue to apply in the case of any recapture under section 47(f) of such Code of a credit allowable for a taxable year beginning before January 1, 1984.”
+Pub. L. 98–369, div. A, title IV, §474(o)(15), July 18, 1984, 98 Stat. 837, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Subsection (n) of section 48 (relating to requirements for allowance of employee plan percentage) is hereby repealed; except that paragraph (4) of section 48(n) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as in effect before its repeal by this paragraph) shall continue to apply in the case of any recapture under section 47(f) of such Code of a credit allowable for a taxable year beginning before January 1, 1984.”
 
 Amendment by section 712(b) of Pub. L. 98–369 effective as if included in the provision of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section 715 of Pub. L. 98–369, set out as a note under section 31 of this title.
 
@@ -850,7 +872,7 @@ Amendment by section 721(x)(1) of Pub. L. 98–369 effective as if included in t
 
 Amendment by section 735(c)(1) of Pub. L. 98–369 effective, except as otherwise provided, as if included in the provisions of the Highway Revenue Act of 1982, title V of Pub. L. 97–424, to which such amendment relates, see section 736 of Pub. L. 98–369, set out as a note under section 4051 of this title.
 
-Section 1043(b) of Pub. L. 98–369 provided that: “The amendments made by this section \[amending this section\] shall apply to expenditures incurred after December 31, 1983, in taxable years ending after such date.”
+Pub. L. 98–369, div. A, title X, §1043(b), July 18, 1984, 98 Stat. 1044, provided that: “The amendments made by this section \[amending this section\] shall apply to expenditures incurred after December 31, 1983, in taxable years ending after such date.”
 
 #### Effective Date of 1983 Amendment
 
@@ -860,9 +882,9 @@ Amendment by section 202(c) of Pub. L. 97–448 effective, except as otherwise p
 
 Amendment by section 306(a)(3) of Pub. L. 97–448 effective as if included in the provisions of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section 311(d) of Pub. L. 97–448, set out as a note under section 31 of this title.
 
-#### Effective and Termination Dates of 1982 Amendments
+#### Effective and Termination Dates of 1982 Amendment
 
-Section 104(b) of Pub. L. 97–362, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by this section \[amending this section\] shall apply to periods beginning after December 31, 1980, and before January 1, 1983, under rules similar to the rules of section 48(m) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\].”
+Pub. L. 97–362, title I, §104(b), Oct. 25, 1982, 96 Stat. 1729, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by this section \[amending this section\] shall apply to periods beginning after December 31, 1980, and before January 1, 1983, under rules similar to the rules of section 48(m) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\].”
 
 Amendment by Pub. L. 97–354 applicable to taxable years beginning after Dec. 31, 1982, see section 6(a) of Pub. L. 97–354, set out as an Effective Date note under section 1361 of this title.
 
@@ -872,11 +894,11 @@ Amendment by section 209(c) of Pub. L. 97–248 applicable to property placed in
 
 #### Effective Date of 1981 Amendment
 
-Section 213(b) of Pub. L. 97–34, as amended by Pub. L. 97–448, title I, §102(g), Jan. 12, 1983, 96 Stat. 2372, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1980.”
+Pub. L. 97–34, title II, §213(b), Aug. 13, 1981, 95 Stat. 240, as amended by Pub. L. 97–448, title I, §102(g), Jan. 12, 1983, 96 Stat. 2372, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1980.”
 
-Section 214(c) of Pub. L. 97–34 provided that: “The amendments made by this section \[amending this section\] shall apply to uses after July 29, 1980, in taxable years ending after such date.”
+Pub. L. 97–34, title II, §214(c), Aug. 13, 1981, 95 Stat. 241, provided that: “The amendments made by this section \[amending this section\] shall apply to uses after July 29, 1980, in taxable years ending after such date.”
 
-Section 332(c)(2) of Pub. L. 97–34 provided that: “The amendment made by subsection (b) \[amending this section\] shall apply to qualified investments made after December 31, 1981.”
+Pub. L. 97–34, title III, §332(c)(2), Aug. 13, 1981, 95 Stat. 296, provided that: “The amendment made by subsection (b) \[amending this section\] shall apply to qualified investments made after December 31, 1981.”
 
 Amendment by section 211(a)(2), (e)(3), (4) of Pub. L. 97–34 applicable to property placed in service after Dec. 31, 1980, see section 211(i)(1) of Pub. L. 97–34, set out as a note under section 46 of this title.
 
@@ -886,15 +908,15 @@ Amendment by section 211(h) of Pub. L. 97–34 applicable to taxable years begin
 
 Amendment by section 212(a)(3), (b), (c), (d)(2)(A) of Pub. L. 97–34 applicable to expenditures incurred after Dec. 31, 1981, in taxable years ending after such date, see section 212(e) of Pub. L. 97–34, set out as a note under section 46 of this title.
 
-#### Effective Date of 1980 Amendments
+#### Effective Date of 1980 Amendment
 
-Section 109(b) of Pub. L. 96–605 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1979.”
+Pub. L. 96–605, title I, §109(b), Dec. 28, 1980, 94 Stat. 3525, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1979.”
 
-Section 223(b) of Pub. L. 96–605 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1980.”
+Pub. L. 96–605, title II, §223(b), Dec. 28, 1980, 94 Stat. 3528, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1980.”
 
-Section 302(b) of Pub. L. 96–451 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to additions to capital account made after December 31, 1979.”
+Pub. L. 96–451, title III, §302(b), Oct. 14, 1980, 94 Stat. 1991, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to additions to capital account made after December 31, 1979.”
 
-Section 222(j) of Pub. L. 96–223, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 96–223, title II, §222(j), Apr. 2, 1980, 94 Stat. 266, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 
@@ -904,9 +926,9 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 Alumina electrolytic cells.—The amendments made by subsection (d)(1) \[amending this section\] shall apply to periods after September 30, 1978, under rules similar to the rules of section 48(m) of such Code.”
 
-Section 223(a)(2) of Pub. L. 96–223, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to periods after December 31, 1979, under rules similar to the rules of section 48(m) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\].”
+Pub. L. 96–223, title II, §223(a)(2), Apr. 2, 1980, 94 Stat. 266, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to periods after December 31, 1979, under rules similar to the rules of section 48(m) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\].”
 
-Section 223(c)(2) of Pub. L. 96–223, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 96–223, title II, §223(c)(2), Apr. 2, 1980, 94 Stat. 267, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(A)
 
@@ -916,13 +938,13 @@ In general.—Except as provided in subparagraph (B), the amendment made by para
 
 Earlier application for certain property.—In the case of property which is—
 
-&emsp;“(i) qualified hydroelectric generating property (described in section 48(<i>l</i>)(2)(A)(vii) of such Code),
+&emsp;“(i) qualified hydroelectric generating property (described in section 48(l)(2)(A)(vii) of such Code),
 
-&emsp;“(ii) cogeneration equipment (described in section 48(<i>l</i>)(2)(A)(viii) of such Code),
+&emsp;“(ii) cogeneration equipment (described in section 48(l)(2)(A)(viii) of such Code),
 
-&emsp;“(iii) qualified intercity buses (described in section 48(<i>l</i>)(2)(A)(ix) of such Code),
+&emsp;“(iii) qualified intercity buses (described in section 48(l)(2)(A)(ix) of such Code),
 
-&emsp;“(iv) ocean thermal property (described in section 48(<i>l</i>)(3)(A)(ix) of such Code), or
+&emsp;“(iv) ocean thermal property (described in section 48(l)(3)(A)(ix) of such Code), or
 
 &emsp;“(v) expanded energy credit property,
 
@@ -932,25 +954,25 @@ Earlier application for certain property.—In the case of property which is—
 
 Expanded energy credit property.—For purposes of subparagraph (B), the term ‘expanded energy credit property’ means—
 
-&emsp;“(i) property to which section 48(<i>l</i>)(3)(A) of such Code applies because of the amendments made by paragraphs (1) and (2) of section 222(b) \[amending this section\],
+&emsp;“(i) property to which section 48(l)(3)(A) of such Code applies because of the amendments made by paragraphs (1) and (2) of section 222(b) \[amending this section\],
 
-&emsp;“(ii) property described in section 48(<i>l</i>)(4)(C) of such Code (relating to solar process heat),
+&emsp;“(ii) property described in section 48(l)(4)(C) of such Code (relating to solar process heat),
 
-&emsp;“(iii) property described in section 48(<i>l</i>)(5)(L) of such Code (relating to alumina electrolytic cells), and
+&emsp;“(iii) property described in section 48(l)(5)(L) of such Code (relating to alumina electrolytic cells), and
 
-&emsp;“(iv) property described in the last sentence of section 48(<i>l</i>)(3)(A) of such Code (relating to storage equipment for refuse-derived fuel).
+&emsp;“(iv) property described in the last sentence of section 48(l)(3)(A) of such Code (relating to storage equipment for refuse-derived fuel).
 
 “(D)
 
-Financing taken into account.—For the purpose of applying the provisions of section 48(<i>l</i>)(11) of such Code in the case of property financed in whole or in part by subsidized energy financing (within the meaning of section 48(<i>l</i>)(11)(C) of such Code), no financing made before January 1, 1980, shall be taken into account. The preceding sentence shall not apply to financing provided from the proceeds of any tax exempt industrial development bond (within the meaning of section 103(b)(2) of such Code).”
+Financing taken into account.—For the purpose of applying the provisions of section 48(l)(11) of such Code in the case of property financed in whole or in part by subsidized energy financing (within the meaning of section 48(l)(11)(C) of such Code), no financing made before January 1, 1980, shall be taken into account. The preceding sentence shall not apply to financing provided from the proceeds of any tax exempt industrial development bond (within the meaning of section 103(b)(2) of such Code).”
 
 Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it had been included in the provisions of the Revenue Act of 1978, Pub. L. 95–600, to which such amendment relates, see section 201 of Pub. L. 96–222, set out as a note under section 32 of this title.
 
-Section 108(c)(7) of Pub. L. 96–222 provided that: “Any amendment made by this subsection \[amending sections 4071, 4221, 6416, and 6421 of this title\] shall take effect as if included in the provision of the Energy Tax Act of 1978 \[See Short Title of 1978 Amendment note set out under section 1 of this title\] to which such amendment relates; except that the amendment made by paragraph (6) \[amending this section\] shall take effect on the first day of the first calendar month which begins more than 10 days after the date of the enactment of this Act \[Apr. 1, 1980\].”
+Pub. L. 96–222, title I, §108(c)(7), Apr. 1, 1980, 94 Stat. 228, provided that: “Any amendment made by this subsection \[amending sections 4071, 4221, 6416, and 6421 of this title\] shall take effect as if included in the provision of the Energy Tax Act of 1978 \[See Short Title of 1978 Amendment note set out under section 1 of this title\] to which such amendment relates; except that the amendment made by paragraph (6) \[amending this section\] shall take effect on the first day of the first calendar month which begins more than 10 days after the date of the enactment of this Act \[Apr. 1, 1980\].”
 
-#### Effective Date of 1978 Amendments
+#### Effective Date of 1978 Amendment
 
-Section 301(d)(4) of Pub. L. 95–618 provided that:
+Pub. L. 95–618, title III, §301(d)(4), Nov. 9, 1978, 92 Stat. 3200, provided that:
 
 “(A)
 
@@ -964,17 +986,17 @@ Amendment by section 141(b) of Pub. L. 95–600 effective with respect to qualif
 
 Amendment by section 312(c)(1), (2), (3) of Pub. L. 95–600 applicable to taxable years ending after Dec. 31, 1978, see section 312(d) of Pub. L. 95–600, set out as a note under section 46 of this title.
 
-Section 314(c) of Pub. L. 95–600 provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply to taxable years ending after August 15, 1971.”
+Pub. L. 95–600, title III, §314(c), Nov. 6, 1978, 92 Stat. 2828, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply to taxable years ending after August 15, 1971.”
 
-Section 315(d) of Pub. L. 95–600 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years ending after October 31, 1978; except that the amendment made by subsection (c) shall only apply with respect to property placed in service after such date.”
+Pub. L. 95–600, title III, §315(d), Nov. 6, 1978, 92 Stat. 2829, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years ending after October 31, 1978; except that the amendment made by subsection (c) shall only apply with respect to property placed in service after such date.”
 
 Amendment by section 703(a)(3), (4) of Pub. L. 95–600 effective on Oct. 4, 1976, see section 703(r) of Pub. L. 95–600, set out as a note under section 46 of this title.
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 802(b)(6) of Pub. L. 94–455 applicable to taxable years beginning after Dec. 31, 1975, see section 802(c) of Pub. L. 94–455, set out as a note under section 46 of this title.
+Amendment by section 802(b)(6) of Pub. L. 94–455 applicable to taxable years beginning after Dec. 31, 1975,see section 802(c) of Pub. L. 94–455, set out as a note under section 46 of this title.
 
-Section 804(e) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 94–455, title VIII, §804(e), Oct. 4, 1976, 90 Stat. 1596, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 &emsp;“(1)
 
@@ -992,11 +1014,11 @@ Amendment by section 2112(a) of Pub. L. 94–455 applicable to property acquired
 
 #### Effective and Termination Dates of 1975 Amendment
 
-Section 301(c)(2) of Pub. L. 94–12, as amended by Pub. L. 94–455, title VIII, §801, Oct. 4, 1976, 90 Stat. 1580; Pub. L. 95–600, title III, §311(b), Nov. 6, 1978, 92 Stat. 2824, provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply only to taxable years beginning after December 31, 1974.”
+Pub. L. 94–12, title III, §301(c)(2), Mar. 29, 1975, 89 Stat. 38, as amended by Pub. L. 94–455, title VIII, §801, Oct. 4, 1976, 90 Stat. 1580; Pub. L. 95–600, title III, §311(b), Nov. 6, 1978, 92 Stat. 2824, provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply only to taxable years beginning after December 31, 1974.”
 
 Amendment by section 302(c)(3) of Pub. L. 94–12 applicable to taxable years ending after Dec. 31, 1974, see section 305(a) of Pub. L. 94–12, set out as an Effective Date of 1975 Amendment note under section 46 of this title.
 
-Section 604(b) of Pub. L. 94–12, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 94–12, title VI, §604(b), Mar. 29, 1975, 89 Stat. 65, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 &emsp;“(1)
 
@@ -1012,7 +1034,7 @@ Certain lease-back transactions, etc.—Where a person who is a party to a bindi
 
 #### Effective Date of 1971 Amendment
 
-Section 104(h) of Pub. L. 92–178, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[amending this section and sections 169 and 1245 of this title\] (other than by subsections (c)(1), (c)(2), and (g) \[amending this section\]) shall apply to property described in section 50 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]. The amendments made by subsections (c)(1), (c)(2), and (g) \[amending this section\] shall apply to taxable years ending after December 31, 1961.”
+Pub. L. 92–178, title I, §104(h), Dec. 10, 1971, 85 Stat. 503, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[amending this section and sections 169 and 1245 of this title\] (other than by subsections (c)(1), (c)(2), and (g) \[amending this section\]) shall apply to property described in section 50 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]. The amendments made by subsections (c)(1), (c)(2), and (g) \[amending this section\] shall apply to taxable years ending after December 31, 1961.”
 
 Amendment by section 108(b), (c) of Pub. L. 92–178, applicable to leases entered into after Sept. 22, 1971, and after Nov. 8, 1971, respectively, see section 108(d) of Pub. L. 92–178, set out as a note under section 46 of this title.
 
@@ -1024,29 +1046,29 @@ Amendment by section 401(e)(2)–(4) of Pub. L. 91–172 applicable with respect
 
 #### Effective Date of 1967 Amendment
 
-Section 4 of Pub. L. 90–26 provided that: “The amendments made by the first three sections of this Act \[amending this section and section 167 of this title\] shall apply to taxable years ending after March 9, 1967.”
+Pub. L. 90–26, §4, June 13, 1967, 81 Stat. 58, provided that: “The amendments made by the first three sections of this Act \[amending this section and section 167 of this title\] shall apply to taxable years ending after March 9, 1967.”
 
-#### Effective Date of 1966 Amendments
+#### Effective Date of 1966 Amendment
 
-Section 201(b) of Pub. L. 89–809, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to taxable years ending after December 31, 1965, but only with respect to property placed in service after such date. In applying section 46(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to carryback and carryover of unused credits), the amount of any investment credit carryback to any taxable year ending on or before December 31, 1965, shall be determined without regard to the amendments made by this section.”
+Pub. L. 89–809, title II, §201(b), Nov. 13, 1966, 80 Stat. 1576, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to taxable years ending after December 31, 1965, but only with respect to property placed in service after such date. In applying section 46(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to carryback and carryover of unused credits), the amount of any investment credit carryback to any taxable year ending on or before December 31, 1965, shall be determined without regard to the amendments made by this section.”
 
 Amendment by Pub. L. 89–800 applicable to taxable years ending after Oct. 9, 1966, see section 4 of Pub. L. 89–800, set out as a note under section 46 of this title.
 
 #### Effective Date of 1964 Amendment
 
-Section 203(a)(4) of Pub. L. 88–272 provided that: “Paragraphs (1) \[amending this section\] and (3) \[amending this section and section 1016 of this title and repealing section 181 of this title\] of this subsection shall apply—
+Pub. L. 88–272, title II, §203(a)(4), Feb. 26, 1964, 78 Stat. 34, provided that: “Paragraphs (1) \[amending this section\] and (3) \[amending this section and section 1016 of this title and repealing section 181 of this title\] of this subsection shall apply—
 
 &emsp;“(A) in the case of property placed in service after December 31, 1963, with respect to taxable years ending after such date, and
 
 &emsp;“(B) in the case of property placed in service before January 1, 1964, with respect to taxable years beginning after December 31, 1963.”
 
-Section 203(f) of Pub. L. 88–272 provided that:
+Pub. L. 88–272, title II, §203(f), Feb. 26, 1964, 78 Stat. 35, provided that:
 
 “(1) The amendments made by subsection (b) \[amending this section\] shall apply with respect to property possession of which is transferred to a lessee on or after the date of enactment of this Act \[Feb. 26, 1964\].
 
 “(2) The amendments made by subsection (c) \[amending this section\] shall apply with respect to taxable years ending after June 30, 1963.
 
-“(3) The amendments made by subsection (d) \[amending section 1245 of this title\] shall apply with respect to dispositions after December 31, 1963, in taxable years ending after such date.”
+“(3) The amendments made by subsection (d) \[amending section 1245 of this title\] shall apply with respect todispositions after December 31, 1963, in taxable years ending after such date.”
 
 #### Effective Date
 
@@ -1062,15 +1084,15 @@ Functions, powers, and duties of Federal Aviation Agency and of Administrator an
 
 #### Grants for Specified Energy Property in Lieu of Tax Credits
 
-Pub. L. 111–5, div. B, title I, §1603, Feb. 17, 2009, 123 Stat. 364, as amended by Pub. L. 111–312, title VII, §707, Dec. 17, 2010, 124 Stat. 3312; Pub. L. 112–81, div. A, title X, §1096(a), Dec. 31, 2011, 125 Stat. 1608, provided that:
+Pub. L. 111–5, div. B, title I, §1603, Feb. 17, 2009, 123 Stat. 364, as amended by Pub. L. 111–312, title VII, §707, Dec. 17, 2010, 124 Stat. 3312; Pub. L. 112–81, div. A, title X, §1096(a), Dec. 31, 2011, 125 Stat. 1608; Pub. L. 112–240, title IV, §407(c)(2), Jan. 2, 2013, 126 Stat. 2342, provided that:
 
 “(a)
 
 In General.—Upon application, the Secretary of the Treasury shall, subject to the requirements of this section, provide a grant to each person who places in service specified energy property to reimburse such person for a portion of the expense of such property as provided in subsection (b). No grant shall be made under this section with respect to any property unless such property—
 
-&emsp;“(1) is placed in service during 2009, 2010, or 2011, or
+&emsp;“(1) is originally placed in service by such person during 2009, 2010, or 2011, or
 
-&emsp;“(2) is placed in service after 2011 and before the credit termination date with respect to such property, but only if the construction of such property began during 2009, 2010, or 2011.
+&emsp;“(2) is originally placed in service by such person after 2011 and before the credit termination date with respect to such property, but only if the construction of such property began during 2009, 2010, or 2011.
 
 “(b)
 
@@ -1144,7 +1166,7 @@ Credit Termination Date.—For purposes of this section, the term ‘credit term
 
 &emsp;“(1) in the case of any specified energy property which is part of a facility described in paragraph (1) of section 45(d) of the Internal Revenue Code of 1986, January 1, 2013,
 
-&emsp;“(2) in the case of any specified energy property which is part of a facility described in paragraph (2),\(3), (4), (6), (7), (9), or (11) of section 45(d) of such Code, January 1, 2014, and
+&emsp;“(2) in the case of any specified energy property which is part of a facility described in paragraph (2), (3), (4), (6), (7), (9), or (11) of section 45(d) of such Code, January 1, 2014, and
 
 &emsp;“(3) in the case of any specified energy property described in section 48 of such Code, January 1, 2017.
 
@@ -1190,15 +1212,15 @@ For applicability of amendment by section 701(e)(4)(C) of Pub. L. 99–514 notwi
 
 #### Special Rule
 
-Section 1879(j)(3) of Pub. L. 99–514 provided that: “If refund or credit of any overpayment of tax resulting from the application of this subsection \[amending this section\] is prevented at any time before the close of the date which is 1 year after the date of the enactment of this Act \[Oct. 22, 1986\] by operation of any law or rule of law (including res judicata), refund or credit of such overpayment (to the extent attributable to the application of the amendments made by this subsection \[amending this section\]) may, nevertheless, be made or allowed if claim therefor is filed before the close of such 1-year period.”
+Pub. L. 99–514, title XVIII, §1879(j)(3), Oct. 22, 1986, 100 Stat. 2909, provided that: “If refund or credit of any overpayment of tax resulting from the application of this subsection \[amending this section\] is prevented at any time before the close of the date which is 1 year after the date of the enactment of this Act \[Oct. 22, 1986\] by operation of any law or rule of law (including res judicata), refund or credit of such overpayment (to the extent attributable to the application of the amendments made by this subsection \[amending this section\]) may, nevertheless, be made or allowed if claim therefor is filed before the close of such 1-year period.”
 
 #### Clarification of Effect of 1984 Amendment on Investment Tax Credit
 
-For provision that nothing in the amendments made by section 474(<i>o</i>) of Pub. L. 98–369, which amended this section, be construed as reducing the investment tax credit in taxable years beginning before Jan. 1, 1984, see section 475(c) of Pub. L. 98–369, set out as a note under section 46 of this title.
+For provision that nothing in the amendments made by section 474(o) of Pub. L. 98–369, which amended this section, be construed as reducing the investment tax credit in taxable years beginning before Jan. 1, 1984, see section 475(c) of Pub. L. 98–369, set out as a note under section 46 of this title.
 
 #### Alternative Methods of Computing Credit for Past Periods
 
-Section 804(c) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 94–455, title VIII, §804(c), Oct. 4, 1976, 90 Stat. 1594, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 &emsp;“(1)
 
@@ -1232,7 +1254,7 @@ Effect of election.—If the taxpayer makes an election under this paragraph, th
 
 &emsp;&emsp;“(C)
 
-Rules relating to elections.—An election under this paragraph shall be made not later thanthe day which is 6 months after the date of the enactment of this Act \[Oct. 4, 1976\] and shall be made in such manner as the Secretary of the Treasury or his delegate shall by regulations prescribe. Such an election may be revoked only with the consent of the Secretary of the Treasury or his delegate.
+Rules relating to elections.—An election under this paragraph shall be made not later than the day which is 6 months after the date of the enactment of this Act \[Oct. 4, 1976\] and shall be made in such manner as the Secretary of the Treasury or his delegate shall by regulations prescribe. Such an election may be revoked only with the consent of the Secretary of the Treasury or his delegate.
 
 &emsp;&emsp;“(D)
 
@@ -1266,11 +1288,11 @@ Rules relating to elections.—An election under this paragraph shall be made no
 
 #### Entitlement to Credit
 
-Section 804(d) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Paragraph (1) of section 48(k) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to entitlement to credit) shall apply to any motion picture film or video tape placed in service in any taxable year beginning before January 1, 1975.”
+Pub. L. 94–455, title VIII, §804(d), Oct. 4, 1976, 90 Stat. 1596, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Paragraph (1) of section 48(k) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to entitlement to credit) shall apply to any motion picture film or video tape placed in service in any taxable year beginning before January 1, 1975.”
 
 #### Increase in Basis of Property Placed in Service Before January 1, 1964
 
-Section 203(a)(2) of Pub. L. 88–272, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 88–272, title II, §203(a)(2), Feb. 26, 1964, 78 Stat. 33, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(A) The basis of any section 38 property (as defined in section 48(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) placed in service before January 1, 1964, shall be increased, under regulations prescribed by the Secretary of the Treasury or his delegate, by an amount equal to 7 percent of the qualified investment with respect to such property under section 46(c) of the Internal Revenue Code of 1986. If there has been any increase with respect to such property under section 48(g)(2) of such Code, the increase under the preceding sentence shall be appropriately reduced therefor.
 

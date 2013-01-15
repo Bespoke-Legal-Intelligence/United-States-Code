@@ -96,7 +96,7 @@ For purposes of this section, livestock of different sexes are not property of a
 
 #### (2) Property to which subsection applies
 
-&emsp;This paragraph shall apply to any property for any period during which the holder's risk of loss with respect to the property is substantially diminished by—
+&emsp;This paragraph shall apply to any property for any period during which the holder's riskof loss with respect to the property is substantially diminished by—
 
 &emsp;&emsp;(A) the holding of a put with respect to such property,
 
@@ -176,7 +176,7 @@ Subsec. (f)(3). Pub. L. 101–508, §11701(h), substituted “section 267(b) or 
 
 <b>1959</b>—Subsecs. (b) to (d). Pub. L. 86–346 inserted references to section 1037(a) in subsecs. (b) and (c) and in first two sentences of subsec. (d).
 
-<b>1958</b>—Subsec. (d). Pub. L. 85–866 inserted in first sentence a comma between “exchanged” and “decreased” and “or decreased in the amount of loss”, and substituted in second sentence “subsection” for “paragraph”.
+<b>1958</b>—Subsec. (d). Pub. L. 85–866 inserted in first sentence a comma between “exchanged” and “decreased”and “or decreased in the amount of loss”, and substituted in second sentence “subsection” for “paragraph”.
 
 #### Effective Date of 2008 Amendment
 
@@ -192,7 +192,7 @@ Amendment by Pub. L. 106–36 applicable to transfers after Oct. 18, 1998, see s
 
 #### Effective Date of 1997 Amendment
 
-Section 1052(b) of Pub. L. 105–34 provided that:
+Pub. L. 105–34, title X, §1052(b), Aug. 5, 1997, 111 Stat. 941, provided that:
 
 “(1)
 
@@ -208,13 +208,13 @@ Binding contracts.—The amendment made by this section shall not apply to any t
 
 #### Effective Date of 1990 Amendment
 
-Section 11701(h) of Pub. L. 101–508 provided that the amendment made by that section is effective with respect to transfers after Aug. 3, 1990.
+Pub. L. 101–508, title XI, §11701(h), Nov. 5, 1990, 104 Stat. 1388–508, provided that the amendment made by that section is effective with respect to transfers after Aug. 3, 1990.
 
-Section 11703(d)(2) of Pub. L. 101–508 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to transfers after July 18, 1984.”
+Pub. L. 101–508, title XI, §11703(d)(2), Nov. 5, 1990, 104 Stat. 1388–517, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to transfers after July 18, 1984.”
 
 #### Effective Date of 1989 Amendment
 
-Section 7601(b) of Pub. L. 101–239 provided that:
+Pub. L. 101–239, title VII, §7601(b), Dec. 19, 1989, 103 Stat. 2371, provided that:
 
 “(1)
 
@@ -230,7 +230,7 @@ Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if inc
 
 #### Effective Date of 1984 Amendment
 
-Section 77(b) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–369, div. A, title I, §77(b), July 18, 1984, 98 Stat. 596, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 
@@ -264,7 +264,7 @@ Special rule for like-kind exchange of partnership interests.—Paragraph (2)(D)
 
 #### Effective Date of 1969 Amendment
 
-Section 212(c)(2) of Pub. L. 91–172, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to taxable years to which the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] applies.”
+Pub. L. 91–172, title II, §212(c)(2), Dec. 30, 1969, 83 Stat. 571, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to taxable years to which the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] applies.”
 
 #### Effective Date of 1959 Amendment
 

@@ -20,7 +20,7 @@ The Corporation, and any legal assistance program assisted by the Corporation, s
 
 #### Transition to Legal Services Corporation Program
 
-Section 3(a)–(d)(1), (e) of Pub. L. 93–355 provided that:
+Pub. L. 93–355, §3(a)–(d)(1), (e), July 25, 1974, 88 Stat. 389, 390, provided that:
 
 “(a) Notwithstanding any other provision of law, effective ninety days after the date of the first meeting of the Board of Directors of the Legal Services Corporation established under the Legal Services Corporation Act (title X of the Economic Opportunity Act of 1964, as added by this Act) \[this subchapter\], the Legal Services Corporation shall succeed to all rights of the Federal Government to capital equipment in the possession of legal services programs or activities assisted pursuant to section 222(a)(3), 230, 232 \[sections 2809(a)(3), 2823, and 2825 of this title\], or any other provision of the Economic Opportunity Act of 1964 \[this chapter\].
 
@@ -38,7 +38,7 @@ Section 3(a)–(d)(1), (e) of Pub. L. 93–355 provided that:
 
 &emsp;“(D) to arrange for the orderly continuation by such Corporation of financial assistance to legal services programs and activities assisted pursuant to the Economic Opportunity Act of 1964 \[this chapter\] or successor authority.
 
-> Whenever the Director of the Office of Economic Opportunity or the head of any successor authority determines that an obligation to provide financial assistance pursuant to any contract or grant for such legal services will extend beyond six months after the date of enactment of this Act \[July 25, 1974\], he shall include, in any such contract or grant, provisions to assure that the obligation to provide such financial assistance may be assumed by the Legal Services Corporation, subject to such modifications of the terms and conditions of such contract or grant as the Corporation determines to be necessary.
+> Whenever the Director of the Office of Economic Opportunity or the head of any successor authority determines that an obligation to provide financial assistance pursuant to any contract or grant for such legal services will extend beyond six months after the date of enactment of this Act \[July 25, 1974\], he shall include,in any such contract or grant, provisions to assure that the obligation to provide such financial assistance may be assumed by the Legal Services Corporation, subject to such modifications of the terms and conditions of such contract or grant as the Corporation determines to be necessary.
 
 “(2) \[Omitted. Provided for the repeal of section 2809(a)(3) of this title.\]
 

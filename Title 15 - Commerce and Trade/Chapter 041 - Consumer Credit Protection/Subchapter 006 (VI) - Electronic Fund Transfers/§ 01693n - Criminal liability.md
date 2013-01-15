@@ -36,5 +36,5 @@ As used in this section, the term “debit instrument” means a card, code, or 
 
 #### Prior Provisions
 
-A prior section 917 of Pub. L. 90–321 was renumbered section 918 and is classified to section 1693<i>o</i> of this title.
+A prior section 917 of Pub. L. 90–321 was renumbered section 918 and is classified to section 1693o of this title.
 

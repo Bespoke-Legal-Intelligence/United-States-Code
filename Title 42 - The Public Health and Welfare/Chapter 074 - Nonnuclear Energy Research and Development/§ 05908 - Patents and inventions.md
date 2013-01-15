@@ -78,7 +78,7 @@ The Secretary shall, in granting waivers or licenses, consider the small busines
 
 The Secretary is authorized to take all suitable and necessary steps to protect any invention or discovery to which the United States holds title, and to require that contractors or persons who acquire rights to inventions under this section protect such inventions.
 
-#### (<i>l</i>) Department as defense agency of United States for purpose of maintaining secrecy of inventions
+#### (l) Department as defense agency of United States for purpose of maintaining secrecy of inventions
 
 The Department shall be considered a defense agency of the United States for the purpose of chapter 17 of title 35.
 
@@ -128,7 +128,7 @@ Subsec. (f)(2). Pub. L. 109–58, §1009(b)(7)(A), substituted “Department” 
 
 Subsecs. (j), (k). Pub. L. 109–58, §1009(b)(7)(B), substituted “Secretary” for “Administrator”.
 
-Subsec. (<i>l</i>). Pub. L. 109–58, §1009(b)(7)(A), substituted “Department” for “Administration”.
+Subsec. (l). Pub. L. 109–58, §1009(b)(7)(A), substituted “Department” for “Administration”.
 
 Subsec. (m)(5). Pub. L. 109–58, §1009(b)(7)(A), substituted “Department” for “Administration”.
 

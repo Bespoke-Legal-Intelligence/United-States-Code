@@ -24,9 +24,9 @@ Congress finds and declares that—
 
 #### Effective Date
 
-Section 10 of Pub. L. 100–228 provided that: “This Act \[enacting this subchapter\] shall take effect upon the date of its enactment \[Dec. 31, 1987\].”
+Pub. L. 100–228, §10, Dec. 31, 1987, 101 Stat. 1561, provided that: “This Act \[enacting this subchapter\] shall take effect upon the date of its enactment \[Dec. 31, 1987\].”
 
 #### Short Title
 
-Section 1 of Pub. L. 100–228 provided that: “This Act \[enacting this subchapter\] may be cited as the ‘Seminole Indian Land Claims Settlement Act of 1987’.”
+Pub. L. 100–228, §1, Dec. 31, 1987, 101 Stat. 1556, provided that: “This Act \[enacting this subchapter\] may be cited as the ‘Seminole Indian Land Claims Settlement Act of 1987’.”
 

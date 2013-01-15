@@ -6,29 +6,51 @@ As used in this chapter, the term—
 
 &emsp;(2) “Administration” means the United States Fire Administration established pursuant to section 2204 of this title;
 
-&emsp;(3) “Administrator” means the Administrator of the United States Fire Administration, within the Federal Emergency Management Agency;
+&emsp;(3) “Administrator” means, except as otherwise provided, the Administrator of the United States Fire Administration, within the Federal Emergency Management Agency;
 
-&emsp;(4) “Director” means the Administrator of the Federal Emergency Management Agency;
+&emsp;(4) “Administrator of FEMA” means the Administrator of the Federal Emergency Management Agency;
 
-&emsp;(5) “fire service” means any organization in any State consisting of personnel, apparatus, and equipment which has as its purpose protecting property and maintaining the safety and welfare of the public from the dangers of fire, including a private firefighting brigade. The personnel of any such organization may be paid employees or unpaid volunteers or any combination thereof. The location of any such organization and its responsibility for extinguishment and suppression of fires may include, but need not be limited to, a Federal installation, a State, city, town, borough, parish, county, fire district, fire protection district, rural fire district, or other special district. The terms “fire prevention”, “firefighting”, and “fire control” relate to activities conducted by a fire service;
+&emsp;(5) “fire service” means any organization in any State consisting of personnel, apparatus, and equipment which has as its purpose protecting property and maintaining the safety and welfare of the public from the dangers of fire, including a private firefighting brigade. The personnel of any such organization may be paid employees or unpaid volunteers or any combination thereof. The location of any such organization and its responsibility for extinguishment and suppression of fires may include, but need not be limited to, a Federal installation, a State, city, town, borough, parish, county, Indian tribe, fire district, fire protection district, rural fire district, or other special district. The terms “fire prevention”, “firefighting”, and “fire control” relate to activities conducted by a fire service;
 
-&emsp;(6) “local” means of or pertaining to any city, town, county, special purpose district, unincorporated territory, or other political subdivision of a State;
+&emsp;(6) “Indian tribe” has the meaning given that term in section 450b of title 25 and “tribal” means of or pertaining to an Indian tribe;
 
-&emsp;(7) “place of public accommodation affecting commerce” means any inn, hotel, or other establishment not owned by the Federal Government that provides lodging to transient guests, except that such term does not include an establishment treated as an apartment building for purposes of any State or local law or regulation or an establishment located within a building that contains not more than 5 rooms for rent or hire and that is actually occupied as a residence by the proprietor of such establishment;
+&emsp;(7) “local” means of or pertaining to any city, town, county, special purpose district, unincorporated territory, or other political subdivision of a State;
 
-&emsp;(8) “State” means any State, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, the Canal Zone, Guam, American Samoa, the Trust Territory of the Pacific Islands and any other territory or possession of the United States; and
+&emsp;(8) “place of public accommodation affecting commerce” means any inn, hotel, or other establishment not owned by the Federal Government that provides lodging to transient guests, except that such term does not include an establishment treated as an apartment building for purposes of any State or local law or regulation or an establishment located within a building that contains not more than 5 rooms for rent or hire and that is actually occupied as a residence by the proprietor of such establishment;
 
-&emsp;(9) “wildland-urban interface” has the meaning given such term in section 6511 of title 16.
+&emsp;(9) “Secretary” means, except as otherwise provided, the Secretary of Homeland Security;
 
-(Pub. L. 93–498, §4, Oct. 29, 1974, 88 Stat. 1536; Pub. L. 95–422, §2(a)(1), Oct. 5, 1978, 92 Stat. 932; Pub. L. 101–391, §3(b), Sept. 25, 1990, 104 Stat. 749; Pub. L. 106–503, title I, §110(a)(2)(A), Nov. 13, 2000, 114 Stat. 2302; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 110–376, §10, Oct. 8, 2008, 122 Stat. 4061.)
+&emsp;(10) “State” has the meaning given the term in section 101 of title 6.<sup>1</sup>
+
+&emsp;(11) “wildland-urban interface” has the meaning given such term in section 6511 of title 16.
+
+(Pub. L. 93–498, §4, Oct. 29, 1974, 88 Stat. 1536; Pub. L. 95–422, §2(a)(1), Oct. 5, 1978, 92 Stat. 932; Pub. L. 101–391, §3(b), Sept. 25, 1990, 104 Stat. 749; Pub. L. 106–503, title I, §110(a)(2)(A), Nov. 13, 2000, 114 Stat. 2302; Pub. L. 110–376, §10, Oct. 8, 2008, 122 Stat. 4061; Pub. L. 112–239, div. A, title XVIII, §1802(a), Jan. 2, 2013, 126 Stat. 2099.)
 
 #### References in Text
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 93–498, Oct. 29, 1974, 88 Stat. 1535, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2201 of this title and Tables.
 
-For definition of Canal Zone, referred to in par. (8), see section 3602(b) of Title 22, Foreign Relations and Intercourse.
-
 #### Amendments
+
+<b>2013</b>—Par. (3). Pub. L. 112–239, §1802(a)(1), inserted “, except as otherwise provided,” after “means”.
+
+Par. (4). Pub. L. 112–239, §1802(a)(2), substituted “ ‘Administrator of FEMA’ means the Administrator of the Federal Emergency Management Agency;” for “ ‘Director’ means the Director of the Federal Emergency Management Agency;”.
+
+Par. (5). Pub. L. 112–239, §1802(a)(3), inserted “Indian tribe,” after “county,” and substituted “and ‘fire control’ ” for “and ‘firecontrol’ ”.
+
+Pars. (6) to (8). Pub. L. 112–239, §1802(a)(4), (5), added par. (6) and redesignated former pars. (6) and (7) as (7) and (8), respectively. Former par. (8) redesignated (9).
+
+Par. (9). Pub. L. 112–239, §1802(a)(6), (7), added par. (9) and redesignated former par. (9) as (10). Former par. (10) redesignated (11).
+
+Pub. L. 112–239, §1802(a)(4), redesignated par. (8) as (9). Former par. (9) redesignated (10).
+
+Par. (10). Pub. L. 112–239, §1802(a)(8), amended par. (10) generally. Prior to amendment, par. (10) defined the term “State”.
+
+Pub. L. 112–239, §1802(a)(6), redesignated par. (9) as (10). Former par. (10) redesignated (11).
+
+Pub. L. 112–239, §1802(a)(4), redesignated par. (9) as (10).
+
+Par. (11). Pub. L. 112–239, §1802(a)(6), redesignated par. (10) as (11).
 
 <b>2008</b>—Par. (3). Pub. L. 110–376, §10(1), substituted “Administration, within the Federal Emergency Management Agency” for “Administration”.
 
@@ -39,10 +61,6 @@ Par. (9). Pub. L. 110–376, §10(2)–(4), added par. (9).
 <b>1990</b>—Pars. (4) to (9). Pub. L. 101–391 added pars. (4) and (7) and redesignated former pars. (4), (5), (6), and (7) as (5), (6), (8), and (9), respectively.
 
 <b>1978</b>—Pars. (2), (3). Pub. L. 95–422 substituted “United States Fire Administration” for “National Fire Prevention and Control Administration”.
-
-#### Change of Name
-
-“Administrator of the Federal Emergency Management Agency” substituted for “Director of the Federal Emergency Management Agency” in par.(4) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
 
 #### Transfer of Functions
 
@@ -55,4 +73,6 @@ Functions of National Fire Prevention and Control Administration \[now United St
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
+
+<i><sup>1</sup></i><i> So in original. The period probably should be “; and”.</i>
 

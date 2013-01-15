@@ -14,7 +14,7 @@ Section is from the Legislative Branch Appropriations Act, 1991.
 
 #### Effective Date of 1994 Amendment
 
-Section 3(c) of Pub. L. 103–283 provided that: “The amendments made by this section \[amending this section and section 104a of this title\] shall be effective with respect to—
+Pub. L. 103–283, title I, §3(c), July 22, 1994, 108 Stat. 1427, provided that: “The amendments made by this section \[amending this section and section 104a of this title\] shall be effective with respect to—
 
 &emsp;“(1) reports and statements covering periods beginning on and after October 1, 1994; and
 

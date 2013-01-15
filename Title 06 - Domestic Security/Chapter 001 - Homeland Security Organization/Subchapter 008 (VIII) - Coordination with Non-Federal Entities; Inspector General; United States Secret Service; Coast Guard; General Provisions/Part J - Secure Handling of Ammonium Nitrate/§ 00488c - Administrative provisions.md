@@ -16,7 +16,7 @@ The Secretary—
 
 #### (2) Delegation required
 
-&emsp;At the request of a Governor of a State, the Secretary shall delegate to that State the authority to carry out functions under sections488a and 488b of this title, if the Secretary determines that the State is capable of satisfactorily carrying out such functions.
+&emsp;At the request of a Governor of a State, the Secretary shall delegate to that State the authority to carry out functions under sections 488a and 488b of this title, if the Secretary determines that the State is capable of satisfactorily carrying out such functions.
 
 #### (3) Funding
 

@@ -66,7 +66,7 @@ The Corporation, in consultation with the Secretary of Education, is authorized 
 
 &emsp;&emsp;(A) assurances that—
 
-&emsp;&emsp;&emsp;(i) prior to the placement of a participant, the applicant will consult with the appropriate local labor organization, ifany, representing employees in the area who are engaged in the same or similar work as that proposed to be carried out by such program, to prevent the displacement and protect the rights of such employees; and
+&emsp;&emsp;&emsp;(i) prior to the placement of a participant, the applicant will consult with the appropriate local labor organization, if any, representing employees in the area who are engaged in the same or similar work as that proposed to be carried out by such program, to prevent the displacement and protect the rights of such employees; and
 
 &emsp;&emsp;&emsp;(ii) the applicant will comply with the nonduplication and nondisplacement provisions of section 12637 of this title and the notice, hearing, and grievance procedures required by section 12636 of this title; and
 

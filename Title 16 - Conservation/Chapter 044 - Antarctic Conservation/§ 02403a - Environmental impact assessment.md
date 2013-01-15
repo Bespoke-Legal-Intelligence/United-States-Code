@@ -6,7 +6,7 @@
 
 (B) The obligations contained in section 102(2)(C) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332(2)(C)) shall apply to all proposals for Federal agency activities occurring in Antarctica and affecting the quality of the human environment in Antarctica or dependent or associated ecosystems, only as specified in this section. For purposes of the application of such section 102(2)(C) under this subsection, the term “significantly affecting the quality of the human environment” shall have the same meaning as the term “more than a minor or transitory impact”.
 
-(2)(A) Unless an agency which proposes to conduct a Federal activity in Antarctica determines that the activity will have less than a minor or transitory impact, or unless a comprehensive environmental evaluation is being prepared in accordance with subparagraph (C), the agency shall prepare an initial environmental evaluation in accordance with Article 2 of Annex I to the Protocol.
+(2)(A) Unless an agency which proposes to conduct a Federal activity in Antarctica determines that the activity will have less than a minor or transitory impact, or unless a comprehensive environmental evaluation is being prepared in accordance with subparagraph (C), the agency shall prepare an initial environmentalevaluation in accordance with Article 2 of Annex I to the Protocol.
 
 (B) If the agency determines, through the preparation of the initial environmental evaluation, that the proposed Federal activity is likely to have no more than a minor or transitory impact, the activity may proceed if appropriate procedures are put in place to assess and verify the impact of the activity.
 
@@ -70,5 +70,5 @@ Whenever the Secretary of State makes a determination under paragraph (2) of sub
 
 #### References in Text
 
-The National Environmental Policy Act of 1969, referred to in subsec. (a)(1)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (a)(1)(A), is Pub. L. 91–190, Jan. 1,1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 

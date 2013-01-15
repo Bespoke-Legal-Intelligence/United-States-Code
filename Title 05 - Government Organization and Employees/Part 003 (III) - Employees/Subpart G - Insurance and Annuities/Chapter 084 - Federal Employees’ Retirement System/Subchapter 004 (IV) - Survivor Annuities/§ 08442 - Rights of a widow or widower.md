@@ -64,7 +64,7 @@
 
 (2) In the case of a widow or widower whose annuity under this section is terminated because of remarriage before becoming 55 years of age, the annuity shall be restored at the same rate commencing on the day the remarriage is dissolved by death, divorce, or annulment, if—
 
-&emsp;(A) the widow or widower elects to receive this annuity instead of any other survivor benefit to which such widow or widower may be entitled (under this subchapter or section 8424or under another retirement system for Government employees) by reason of the remarriage; and
+&emsp;(A) the widow or widower elects to receive this annuity instead of any other survivor benefit to which such widow or widower may be entitled (under this subchapter or section 8424 or under another retirement system for Government employees) by reason of the remarriage; and
 
 &emsp;(B) any lump sum paid on termination of the annuity is returned to the Fund.
 
@@ -116,7 +116,7 @@
 
 (B)(i) In the case of a widow or widower entitled to an annuity based on the service of a disability annuitant who dies before age 62, the amount under clause (ii) shall apply instead of the amount which would otherwise apply under subparagraph (A).
 
-(ii)(I) Subject to subclause (II), the amount of the annuity to which the disability annuitant was entitled as of the day before the date of death shall be considered to be the amount which would be computed with respect to suchdisability annuitant under section 8452(b) if the disability annuitant had attained age 62 on the day before date of death.
+(ii)(I) Subject to subclause (II), the amount of the annuity to which the disability annuitant was entitled as of the day before the date of death shall be considered to be the amount which would be computed with respect to such disability annuitant under section 8452(b) if the disability annuitant had attained age 62 on the day before date of death.
 
 (II) For purposes of any such computation under section 8452(b)(2) pursuant to this clause, creditable service shall (in addition to the service which would otherwise be used under subparagraph (B)(i) of such section) include the period of time between date of death and the date of the sixty-second anniversary of the birth of the annuitant, and average pay shall be adjusted in accordance with subparagraph (B)(ii) of such section only through date of death.
 
@@ -140,7 +140,7 @@
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (f)(3), (4), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42. Sections 202, 203, and 215 are classified to sections 402, 403, and 415, respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (f)(3), (4), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended,which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42. Sections 202, 203, and 215 are classified to sections 402, 403, and 415, respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
 

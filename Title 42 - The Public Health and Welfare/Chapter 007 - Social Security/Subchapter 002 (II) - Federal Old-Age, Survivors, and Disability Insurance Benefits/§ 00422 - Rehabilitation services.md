@@ -24,7 +24,7 @@
 
 &emsp;(C) taking other actions to conceal work activity with an intent fraudulently to secure payment in a greater amount than is due or when no payment is authorized,
 
-> no benefit shall be payable to such individual under this subchapter with respect to a period of disability for any month before such conviction during which the individual rendered services during the period of trial work with respect to which the fraudulently concealed work activity occurred, and amounts otherwise due under this subchapter as restitution, penalties, assessments, fines, or other repayments shall in all cases be in addition to any amounts for whichsuch individual is liable as overpayments by reason of such concealment.
+> no benefit shall be payable to such individual under this subchapter with respect to a period of disability for any month before such conviction during which the individual rendered services during the period of trial work with respect to which the fraudulently concealed work activity occurred, and amounts otherwise due under this subchapter as restitution, penalties, assessments, fines, or other repayments shall in all cases be in addition to any amounts for which such individual is liable as overpayments by reason of such concealment.
 
 #### (d) Cost of rehabilitation services from trust funds
 
@@ -56,7 +56,7 @@
 
 In the case of any individual whose benefits under this subchapter are paid to a representative payee pursuant to section 405(j)(1)(B) of this title, the Commissioner of Social Security shall refer such individual to the appropriate State agency administering the State plan for substance abuse treatment services approved under subpart II of part B of title XIX of the Public Health Service Act (42 U.S.C. 300x–21 et seq.).
 
-(Aug. 14, 1935, ch. 531, title II, §222, as added Sept. 1, 1954, ch. 1206, title I, §106(g) 68 Stat. 1081; amended Aug. 1, 1956, ch. 836, title I, §103(b), 70 Stat. 817; Pub. L. 85–840, title II, §205(n), title III, §307(g), Aug. 28, 1958, 72 Stat. 1025, 1032; Pub. L. 86–778, title IV, §403(a), Sept. 13, 1960, 74 Stat. 968; Pub. L. 89–97, title III, §§306(c)(14), 308(d)(11), 336, July 30, 1965, 79 Stat. 373, 379, 408; Pub. L. 90–248, title I, §§104(d)(3), (4), 158(c)(5), Jan. 2, 1968, 81 Stat. 832, 869; Pub. L. 92–603, title I, §§107(b)(3), (4), 131, Oct. 30, 1972, 86 Stat. 1343, 1360; Pub. L. 96–265, title III, §303(a), June 9, 1980, 94 Stat. 451; Pub. L. 97–35, title XXII, §2209(a), Aug. 13, 1981, 95 Stat. 840; Pub. L. 98–21, title III, §309(<i>l</i>)–(n), Apr. 20, 1983, 97 Stat. 117; Pub. L. 98–369, div. B, title VI, §2663(a)(15), July 18, 1984, 98 Stat. 1165; Pub. L. 98–460, §11(a), Oct. 9, 1984, 98 Stat. 1805; Pub. L. 101–508, title V, §5112(a), Nov. 5, 1990, 104 Stat. 1388–273; Pub. L. 103–296, title I, §107(a)(4), title II, §201(a)(4)(B), Aug. 15, 1994, 108 Stat. 1478, 1499; Pub. L. 104–121, title I, §105(a)(3), Mar. 29, 1996, 110 Stat. 852; Pub. L. 106–170, title I, §101(b)(1)(B), (C), Dec. 17, 1999, 113Stat. 1873; Pub. L. 108–203, title II, §208(a), Mar. 2, 2004, 118 Stat. 513.)
+(Aug. 14, 1935, ch. 531, title II, §222, as added Sept. 1, 1954, ch. 1206, title I, §106(g) 68 Stat. 1081; amended Aug. 1, 1956, ch. 836, title I, §103(b), 70 Stat. 817; Pub. L. 85–840, title II, §205(n), title III, §307(g), Aug. 28, 1958, 72 Stat. 1025, 1032; Pub. L. 86–778, title IV, §403(a), Sept. 13, 1960, 74 Stat. 968; Pub. L. 89–97, title III, §§306(c)(14), 308(d)(11), 336, July 30, 1965, 79 Stat. 373, 379, 408; Pub. L. 90–248, title I, §§104(d)(3), (4), 158(c)(5), Jan. 2, 1968, 81 Stat. 832, 869; Pub. L. 92–603, title I, §§107(b)(3), (4), 131, Oct. 30, 1972, 86 Stat. 1343, 1360; Pub. L. 96–265, title III, §303(a), June 9, 1980, 94 Stat. 451; Pub. L. 97–35, title XXII, §2209(a), Aug. 13, 1981, 95 Stat. 840; Pub. L. 98–21, title III, §309(l)–(n), Apr. 20, 1983, 97 Stat. 117; Pub. L. 98–369, div. B, title VI, §2663(a)(15), July 18, 1984, 98 Stat. 1165; Pub. L. 98–460, §11(a), Oct. 9, 1984, 98 Stat. 1805; Pub. L. 101–508, title V, §5112(a), Nov. 5, 1990, 104 Stat. 1388–273; Pub. L. 103–296, title I, §107(a)(4), title II, §201(a)(4)(B), Aug. 15, 1994, 108 Stat. 1478, 1499; Pub. L. 104–121, title I, §105(a)(3), Mar. 29, 1996, 110 Stat. 852; Pub. L. 106–170, title I, §101(b)(1)(B), (C), Dec. 17, 1999, 113 Stat. 1873; Pub. L. 108–203, title II, §208(a), Mar. 2, 2004, 118 Stat. 513.)
 
 #### References in Text
 
@@ -100,7 +100,7 @@ Subsec. (b)(4). Pub. L. 98–369, §2663(a)(15)(C), substituted “full-time ele
 
 Subsec. (d)(1). Pub. L. 98–460, §11(a), in provisions following subpar. (D) struck out “into substantial gainful activity” after “rehabilitating such individuals”, designated existing provisions as cl. (i), added cls. (ii) and (iii), and substituted “of an individual to substantial gainful activity, the determination that an individual, without good cause, refused to continue to accept vocational rehabilitation services or failed to cooperate in such a manner as to preclude successful rehabilitation,” for “of such individuals to substantial gainful activity” after cl. (iii).
 
-<b>1983</b>—Subsec. (b)(1). Pub. L. 98–21, §309(<i>l</i>), substituted “, surviving divorced wife, or surviving divorced husband” for “or surviving divorced wife”.
+<b>1983</b>—Subsec. (b)(1). Pub. L. 98–21, §309(l), substituted “, surviving divorced wife, or surviving divorced husband” for “or surviving divorced wife”.
 
 Subsec. (b)(2). Pub. L. 98–21, §309(m), inserted “or father's” after “mother's” wherever appearing.
 
@@ -154,15 +154,15 @@ Amendment by Pub. L. 104–121 effective July 1, 1996, with respect to any indiv
 
 Amendment by section 107(a)(4) of Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of this title.
 
-Section 201(a)(4)(C) of Pub. L. 103–296 provided that: “The amendments made by this paragraph \[amending this section and section 423 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 15, 1994\].”
+Pub. L. 103–296, title II, §201(a)(4)(C), Aug. 15, 1994, 108 Stat. 1499, provided that: “The amendments made by this paragraph \[amending this section and section 423 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 15, 1994\].”
 
 #### Effective Date of 1990 Amendment
 
-Section 5112(b) of Pub. L. 101–508 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on January 1, 1992.”
+Pub. L. 101–508, title V, §5112(b), Nov. 5, 1990, 104 Stat. 1388–273, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on January 1, 1992.”
 
-#### Effective Date of 1984 Amendments
+#### Effective Date of 1984 Amendment
 
-Section 11(c) of Pub. L. 98–460 provided that: “The amendments made by this section \[amending this section and section 1382d of this title\] shall apply with respect to individuals who receive benefits as a result of section 225(b) or section 1631(a)(6) of the Social Security Act \[section 425(b) or 1383(a)(6) of this title\], or who refuse to continue to accept rehabilitation services or fail to cooperate in an approved vocational rehabilitation program, in or after the first month following the month in which this Act is enacted \[October 1984\].”
+Pub. L. 98–460, §11(c), Oct. 9, 1984, 98 Stat. 1806, provided that: “The amendments made by this section\[amending this section and section 1382d of this title\] shall apply with respect to individuals who receive benefits as a result of section 225(b) or section 1631(a)(6) of the Social Security Act \[section 425(b) or 1383(a)(6) of this title\], or who refuse to continue to accept rehabilitation services or fail to cooperate in an approved vocational rehabilitation program, in or after the first month following the month in which this Act is enacted \[October 1984\].”
 
 Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
 
@@ -172,7 +172,7 @@ Amendment by Pub. L. 98–21 applicable only with respect to monthly payments pa
 
 #### Effective Date of 1981 Amendment
 
-Section 2209(b) of Pub. L. 97–35 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to services rendered on or after October 1, 1981.”
+Pub. L. 97–35, title XXII, §2209(b), Aug. 13, 1981, 95 Stat. 841, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to services rendered on or after October 1, 1981.”
 
 #### Effective Date of 1980 Amendment
 
@@ -194,7 +194,7 @@ Amendment by section 308(d)(11) of Pub. L. 89–97 applicable with respect to mo
 
 #### Effective Date of 1960 Amendment
 
-Section 403(e) of Pub. L. 86–778 provided that:
+Pub. L. 86–778, title IV, §403(e), Sept. 13, 1960, 74 Stat. 969, provided that:
 
 “(1) The amendment made by subsection (a) \[amending this section\] shall be effective only with respect to months beginning after the month in which this Act is enacted \[September 1960\].
 
@@ -206,5 +206,5 @@ Section 403(e) of Pub. L. 86–778 provided that:
 
 Amendment by section 205(n) of Pub. L. 85–840 applicable with respect to monthly benefits under this subchapter for months after August 1958, but only if an application for such benefits is filed on or after August 28, 1958, see section 207(a) of Pub. L. 85–840, set out as a note under section 416 of this title.
 
-Section 307(h)(3) of Pub. L. 85–840 provided that: “The amendments made by subsection (g) \[amending this section\] shall apply with respect to monthly benefits under section 202 of the Social Security Act \[section 402 of this title\] for months, occurring after the month in which this Act is enacted \[August 1958\], in which a deduction is incurred under paragraph (1) of section 222(b) of the Social Security Act \[subsec. (b)(1) of this section\].”
+Pub. L. 85–840, title III, §307(h)(3), Aug. 28, 1958, 72 Stat. 1033, provided that: “The amendments made by subsection (g) \[amending this section\] shall apply with respect to monthly benefits under section 202 of the Social Security Act \[section 402 of this title\] for months, occurring after the month in which this Act is enacted \[August 1958\], in which a deduction is incurred under paragraph (1) of section 222(b) of the Social Security Act \[subsec. (b)(1) of this section\].”
 

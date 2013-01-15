@@ -68,7 +68,7 @@ Subsecs. (b), (c). Pub. L. 91–230, §401(a)(2)(B), added subsecs. (b) and (c).
 
 #### Effective Date of 1994 Amendment
 
-Section 3(a)(2) of Pub. L. 103–382 provided that: “Title II of this Act \[§§211 to 272 of Pub. L. 103–382, see Tables for classification\] and the amendments made by title II of this Act shall take effect on the date of enactment of this Act \[Oct. 20, 1994\], except that section 236 \[enacting section 1228a of this title\] (equity for students, teachers, and other program beneficiaries) of such title shall be effective—
+Pub. L. 103–382, §3(a)(2), Oct. 20, 1994, 108 Stat. 3518, provided that: “Title II of this Act \[§§211 to 272 of Pub. L. 103–382, see Tables for classification\] and the amendments made by title II of this Act shall take effect on the date of enactment of this Act \[Oct. 20, 1994\], except that section 236 \[enacting section 1228a of this title\] (equity for students, teachers, and other program beneficiaries) of such title shall be effective—
 
 &emsp;“(A) July 1, 1995 for noncompetitive programs in which funds are allocated on the basis of a formula; and
 
@@ -76,7 +76,11 @@ Section 3(a)(2) of Pub. L. 103–382 provided that: “Title II of this Act \[§
 
 #### Effective Date of 1974 Amendment
 
-Section 505(b) of Pub. L. 93–380 provided that: “The amendments made by subsection (a) \[amending this section and section 1221g of this title\] shall be effective on the tenth day after the date of enactment of this Act \[Aug. 21, 1974\].”
+Pub. L. 93–380, title V, §505(b), Aug. 21, 1974, 88 Stat. 562, provided that: “The amendments made by subsection (a) \[amending this section and section 1221g of this title\] shall be effective on the tenth day after the date of enactment of this Act \[Aug. 21, 1974\].”
+
+#### Short Title of 2013 Amendment
+
+Pub. L. 112–278, §1, Jan. 14, 2013, 126 Stat. 2480, provided that: “This Act \[amending section 1232g of this title\] may be cited as the ‘Uninterrupted Scholars Act (USA)’.”
 
 #### Short Title of 1988 Amendment
 
@@ -88,7 +92,7 @@ Pub. L. 95–561, title XII, §1211, Nov. 1, 1978, 92 Stat. 2338, provided that:
 
 #### Short Title of 1974 Amendment
 
-Section 513(b)(2) of Pub. L. 93–380 provided that: “This section \[enacting section 1232g of this title and provisions set out as a note under section 1232g of this title\] may be cited as the ‘Family Educational Rights and Privacy Act of 1974’.”
+Pub. L. 93–380, title V, §513(b)(2), Aug. 21, 1974, 88 Stat. 574, provided that: “This section \[enacting section 1232g of this title and provisions set out as a note under section 1232g of this title\] may be cited as the ‘Family Educational Rights and Privacy Act of 1974’.”
 
 #### Executive Order No. 11761
 

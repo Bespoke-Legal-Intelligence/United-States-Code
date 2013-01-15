@@ -16,17 +16,17 @@
 
 #### (3) Access to resource advisory committees
 
-&emsp;To ensure that each unit of Federal land has access to a resource advisory committee, and that there is sufficient interest in participation on a committee to ensure that membership can be balanced in terms of the points of view represented and the functions to be performed, the Secretary concerned may,<sup>1</sup> establish resource advisory committees for part of, or 1 or more, units of Federal land.
+&emsp;To ensure that each unit of Federal land has access to a resource advisory committee, andthat there is sufficient interest in participation on a committee to ensure that membership can be balanced in terms of the points of view represented and the functions to be performed, the Secretary concerned may,<sup>1</sup> establish resource advisory committees for part of, or 1 or more, units of Federal land.
 
 #### (4) Existing advisory committees
 
 #### (A) In general
 
-&emsp;&emsp;An advisory committee that meets the requirements of this section, a resource advisory committee established before September 29, 2006, or an advisory committee determined by the Secretary concerned before September 29, 2006, to meet the requirements of this section may be deemed by the Secretary concerned to be a resource advisory committee for the purposes of this subchapter.
+&emsp;&emsp;An advisory committee that meets the requirements of this section, a resource advisory committee established before September 29, 2011, or an advisory committee determined by the Secretary concerned before September 29, 2011, to meet the requirements of this section may be deemed by the Secretary concerned to be a resource advisory committee for the purposes of this subchapter.
 
 #### (B) Charter
 
-&emsp;&emsp;A charter for a committee described in subparagraph (A) that was filed on or before September 29, 2006, shall be considered to be filed for purposes of this chapter.
+&emsp;&emsp;A charter for a committee described in subparagraph (A) that was filed on or before September 29, 2011, shall be considered to be filed for purposes of this chapter.
 
 #### (C) Bureau of land management advisory committees
 
@@ -168,7 +168,7 @@ A resource advisory committee shall—
 
 &emsp;A resource advisory committee shall maintain records of the meetings of the committee and make the records available for public inspection.
 
-(Pub. L. 106–393, title II, §205, as added Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3905.)
+(Pub. L. 106–393, title II, §205, as added Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3905; amended Pub. L. 112–141, div. F, title I, §100101(a)(7), July 6, 2012, 126 Stat. 906.)
 
 #### References in Text
 
@@ -176,11 +176,15 @@ This chapter, referred to in subsecs. (a)(4)(B) and (b)(3), was in the original 
 
 #### Codification
 
-October 3, 2008, referred to in subsec. (c)(3), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L.110–343, which enacted this section, to reflect the probable intent of Congress.
+October 3, 2008, referred to in subsec. (c)(3), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 110–343, which enacted this section, to reflect the probable intent of Congress.
 
 #### Prior Provisions
 
 A prior section 205 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3893.
+
+#### Amendments
+
+<b>2012</b>—Subsec. (a)(4)(A), (B). Pub. L. 112–141 substituted “2011” for “2006” wherever appearing.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

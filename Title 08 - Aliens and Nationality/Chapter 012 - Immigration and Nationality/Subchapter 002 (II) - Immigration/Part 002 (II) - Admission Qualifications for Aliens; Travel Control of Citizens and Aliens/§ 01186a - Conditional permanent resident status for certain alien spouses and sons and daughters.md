@@ -32,7 +32,7 @@
 
 &emsp;&emsp;&emsp;(ii) has been judicially annulled or terminated, other than through the death of a spouse; or
 
-&emsp;&emsp;(B) a fee or other consideration was given (other than a fee or other consideration toan attorney for assistance in preparation of a lawful petition) for the filing of a petition under section 1154(a) of this title or subsection (d) or (p) of section 1184 of this title with respect to the alien;
+&emsp;&emsp;(B) a fee or other consideration was given (other than a fee or other consideration to an attorney for assistance in preparation of a lawful petition) for the filing of a petition under section 1154(a) of this title or subsection (d) or (p) of section 1184 of this title with respect to the alien;
 
 > &emsp;the Secretary of Homeland Security shall so notify the parties involved and, subject to paragraph (2), shall terminate the permanent resident status of the alien (or aliens) involved as of the date of the determination.
 
@@ -48,7 +48,7 @@
 
 &emsp;&emsp;(A) the alien spouse and the petitioning spouse (if not deceased) jointly must submit to the Secretary of Homeland Security, during the period described in subsection (d)(2), a petition which requests the removal of such conditional basis and which states, under penalty of perjury, the facts and information described in subsection (d)(1), and
 
-&emsp;&emsp;(B) in accordance with subsection (d)(3), the alien spouse and the petitioning spouse (if not deceased) must appear for a personal interview before an officer or employee of the Department of Homeland Security respecting the facts and information described in subsection (d)(1).
+&emsp;&emsp;(B) in accordance with subsection (d)(3), the alien spouse and the petitioning spouse (if not deceased) must appear for a personal interview before an officer or employee ofthe Department of Homeland Security respecting the facts and information described in subsection (d)(1).
 
 #### (2) Termination of permanent resident status for failure to file petition or have personal interview
 
@@ -98,7 +98,7 @@
 
 &emsp;&emsp;(B) the qualifying marriage was entered into in good faith by the alien spouse, but the qualifying marriage has been terminated (other than through the death of the spouse) and the alien was not at fault in failing to meet the requirements of paragraph (1), or
 
-&emsp;&emsp;(C) the qualifying marriage was entered into in good faith by the alien spouse and during the marriage the alien spouse or child was battered by or was the subject of extreme cruelty perpetrated by his or herspouse or citizen or permanent resident parent and the alien was not at fault in failing to meet the requirements of paragraph (1).
+&emsp;&emsp;(C) the qualifying marriage was entered into in good faith by the alien spouse and during the marriage the alien spouse or child was battered by or was the subject of extreme cruelty perpetrated by his or her spouse or citizen or permanent resident parent and the alien was not at fault in failing to meet the requirements of paragraph (1).
 
 > &emsp;In determining extreme hardship, the Secretary of Homeland Security shall consider circumstances occurring only during the period that the alien was admitted for permanent residence on a conditional basis. In acting on applications under this paragraph, the Secretary of Homeland Security shall consider any credible evidence relevant to the application. The determination of what evidence is credible and the weight to be given that evidence shall be within the sole discretion of the Secretary of Homeland Security. The Secretary of Homeland Security shall, by regulation, establish measures to protect the confidentiality of information concerning any abused alien spouse or child, including information regarding the whereabouts of such spouse or child.
 
@@ -164,7 +164,7 @@ In the case of an alien who has permanent residence status on a conditional basi
 
 #### (2) Personal interview
 
-&emsp;The 90-day period described in the first sentence of subsection (d)(3) shall be tolled during any period of time in which the alien spouse or petitioning spouse is a member of the Armed Forces of the United States and serving abroad in an active-duty status in the Armed Forces,except that nothing in this paragraph shall be construed to prohibit the Secretary of Homeland Security from waiving the requirement for an interview under subsection (c)(1)(B) pursuant to the Secretary's authority under the second sentence of subsection (d)(3).
+&emsp;The 90-day period described in the first sentence of subsection (d)(3) shall be tolled during any period of time in which the alien spouse or petitioning spouse is a member of the Armed Forces of the United States and serving abroad in an active-duty status in the Armed Forces, except that nothing in this paragraph shall be construed to prohibit the Secretary of Homeland Security from waiving the requirement for an interview under subsection (c)(1)(B) pursuant to the Secretary's authority under the second sentence of subsection (d)(3).
 
 #### (h) Definitions
 
@@ -186,7 +186,7 @@ In this section:
 
 &emsp;(4) The term “petitioning spouse” means the spouse of a qualifying marriage, other than the alien.
 
-(June 27, 1952, ch. 477, title II, ch. 2, §216, as added Pub. L. 99–639, §2(a), Nov. 10, 1986, 100 Stat. 3537; amended Pub. L. 100–525, §7(a), Oct. 24, 1988, 102 Stat. 2616; Pub. L. 101–649, title VII, §701(a), Nov. 29, 1990, 104 Stat. 5085; Pub. L. 102–232, title III, §302(e)(8)(B), Dec. 12, 1991, 105 Stat. 1746; Pub. L. 103–322, title IV, §40702(a), Sept. 13, 1994, 108 Stat. 1955; Pub. L. 104–208, div. C, title III, §308(d)(4)(E), (e)(7), (f)(1)(I), (J), Sept. 30, 1996, 110 Stat. 3009–618, 3009–620, 3009–621; Pub. L. 106–553, §1(a)(2) \[title XI, §1103(c)(2)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–145; Pub. L. 112–58, §1, Nov. 23, 2011, 125 Stat. 747.)
+(June 27, 1952, ch. 477, title II, ch. 2, §216, as added Pub. L. 99–639, §2(a), Nov. 10, 1986, 100Stat. 3537; amended Pub. L. 100–525, §7(a), Oct. 24, 1988, 102 Stat. 2616; Pub. L. 101–649, title VII, §701(a), Nov. 29, 1990, 104 Stat. 5085; Pub. L. 102–232, title III, §302(e)(8)(B), Dec. 12, 1991, 105 Stat. 1746; Pub. L. 103–322, title IV, §40702(a), Sept. 13, 1994, 108 Stat. 1955; Pub. L. 104–208, div. C, title III, §308(d)(4)(E), (e)(7), (f)(1)(I), (J), Sept. 30, 1996, 110 Stat. 3009–618, 3009–620, 3009–621; Pub. L. 106–553, §1(a)(2) \[title XI, §1103(c)(2)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–145; Pub. L. 112–58, §1, Nov. 23, 2011, 125 Stat. 747.)
 
 #### References in Text
 
@@ -248,15 +248,15 @@ Amendment by Pub. L. 104–208 effective, with certain transitional provisions, 
 
 #### Effective Date of 1994 Amendment
 
-Section 40702(b) of Pub. L. 103–322 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of enactment of this Act \[Sept. 13, 1994\] and shall apply to applications made before, on, or after such date.”
+Pub. L. 103–322, title IV, §40702(b), Sept. 13, 1994, 108 Stat. 1955, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of enactment of this Act \[Sept. 13, 1994\] and shall apply to applications made before, on, or after such date.”
 
 #### Effective Date of 1991 Amendment
 
-Section 302(e)(8) of Pub. L. 102–232 provided that the amendment made by that section is effective as if included in section 162(e) of the Immigration Act of 1990, Pub. L. 101–649.
+Pub. L. 102–232, title III, §302(e)(8), Dec. 12, 1991, 105 Stat. 1746, provided that the amendment made by section 302(e)(8) is effective as if included in section 162(e) of the Immigration Act of 1990, Pub. L. 101–649.
 
 #### Effective Date of 1990 Amendment
 
-Section 701(b) of Pub. L. 101–649 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to marriages entered into before, on, or after the date of the enactment of this Act \[Nov. 29, 1990\].”
+Pub. L. 101–649, title VII, §701(b), Nov. 29, 1990, 104 Stat. 5086, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to marriages entered into before, on, or after the date of the enactment of this Act \[Nov. 29, 1990\].”
 
 #### Effective Date of 1988 Amendment
 

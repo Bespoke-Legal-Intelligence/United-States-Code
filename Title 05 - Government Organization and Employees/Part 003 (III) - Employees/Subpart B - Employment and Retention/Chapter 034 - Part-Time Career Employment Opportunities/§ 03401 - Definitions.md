@@ -60,7 +60,7 @@ Section 1 of Pub. L. 95–437 provided that: “This Act \[enacting this chapter
 
 #### Congressional Findings and Purpose
 
-Section 2 of Pub. L. 95–437 provided that:
+Pub. L. 95–437, §2, Oct. 10, 1978, 92 Stat. 1055, provided that:
 
 “(a) The Congress finds that—
 

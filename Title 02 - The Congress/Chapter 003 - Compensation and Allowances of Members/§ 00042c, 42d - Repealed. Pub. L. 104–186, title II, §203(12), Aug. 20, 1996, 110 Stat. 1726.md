@@ -6,5 +6,5 @@ Section 42d, Pub. L. 85–778, §2, Aug. 27, 1958, 72 Stat. 934; H. Res. No. 532
 
 #### Existing Entitlements
 
-Sections 3 and 4 of Pub. L. 85–778, which provided that Members, committees, and officers of the House of Representatives retained their existing entitlements to airmail and special delivery postage stamps until June 30, 1959, and thereafter the airmail and special delivery stamps made available under former sections 42c and 42d of this title were to be in lieu of any made available under any other law, were repealed by Pub. L. 104–186, title II, §203(12), Aug. 20, 1996, 110 Stat. 1726.
+Pub. L. 85–778, §§3, 4, Aug. 27, 1958, 72 Stat. 934, which provided that Members, committees, and officers of theHouse of Representatives retained their existing entitlements to airmail and special delivery postage stamps until June 30, 1959, and thereafter the airmail and special delivery stamps made available under former sections 42c and 42d of this title were to be in lieu of any made available under any other law, were repealed by Pub. L. 104–186, title II, §203(12), Aug. 20, 1996, 110 Stat. 1726.
 

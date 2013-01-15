@@ -46,7 +46,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 #### Effective Date of 1975 Amendment
 
-Section 106 of Pub. L. 94–169 provided that the amendment made by that section is effective Jan. 1, 1976.
+Pub. L. 94–169, title I, §106, Dec. 23, 1975, 89 Stat. 1017, provided that the amendment made by that section is effective Jan. 1, 1976.
 
 #### Effective Date of 1965 Amendment
 
@@ -54,5 +54,5 @@ Amendment by Pub. L. 89–311 effective first day of second calendar month follo
 
 #### Effective Date of 1961 Amendment
 
-Section 4 of Pub. L. 87–138 provided that: “The amendments made by this Act \[amending this section and sections 561 and 562 \[now 1561 and 1562\] of this title\] shall take effect on the first day of the first month which begins after the date of the enactment of this Act \[Aug. 14, 1961\], except that the amendments made by subsection (b) of the first section \[amending subsec. (c) of this section\] and by section 2 \[amending section 561 \[now 1561\] of this title\] shall not apply with respect to any application under section 560 \[now 1560\] of title 38, United States Code, made before such first day by any person who fulfilled the qualifications prescribed by subsection (b) of such section at the time such application was made.”
+Pub. L. 87–138, §4, Aug. 14, 1961, 75 Stat. 339, provided that: “The amendments made by this Act \[amending this section and sections 561 and 562 \[now 1561 and 1562\] of this title\] shall take effect on the first day of the first month which begins after the date of the enactment of this Act \[Aug. 14, 1961\], except that the amendments made by subsection (b) of the first section \[amending subsec. (c) of this section\] and by section 2 \[amending section 561 \[now 1561\] of this title\] shall not apply with respect to any application under section 560 \[now 1560\] of title 38, United States Code, made before such first day by any person who fulfilled the qualifications prescribed by subsection (b) of such section at the time such application was made.”
 

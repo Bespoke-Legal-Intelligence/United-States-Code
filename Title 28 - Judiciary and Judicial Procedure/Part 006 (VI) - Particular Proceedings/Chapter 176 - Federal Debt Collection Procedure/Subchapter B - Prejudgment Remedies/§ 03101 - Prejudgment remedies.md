@@ -22,11 +22,11 @@ Grounds.—Subject to section 3102, 3103, 3104, or 3105, a prejudgment remedy ma
 
 &emsp;&emsp;(B) has or is about to assign, dispose, remove, conceal, ill treat, waste, or destroy property with the effect of hindering, delaying, or defrauding the United States;
 
-&emsp;&emsp;(C) has or is about to convert the debtor's property into money, securities, or evidence of debt in a manner prejudicial to the United States with the effect of hindering, delaying, or defrauding the United States; or
+&emsp;&emsp;(C) has or is about to convert the debtor's property into money, securities, or evidence of debt in a manner prejudicial to the UnitedStates with the effect of hindering, delaying, or defrauding the United States; or
 
 &emsp;&emsp;(D) has evaded service of process by concealing himself or has temporarily withdrawn from the jurisdiction of the United States with the effect of hindering, delaying, or defrauding the United States; or
 
-&emsp;(2) a prejudgment remedy is required to obtain jurisdiction within the United States andthe prejudgment remedy sought will result in obtaining such jurisdiction.
+&emsp;(2) a prejudgment remedy is required to obtain jurisdiction within the United States and the prejudgment remedy sought will result in obtaining such jurisdiction.
 
 (c)
 

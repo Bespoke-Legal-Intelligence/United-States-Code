@@ -1,6 +1,6 @@
 ### §5321. Civil penalties
 
-(a)(1) A domestic financial institution or nonfinancial trade or business, and a partner, director, officer, or employee of a domestic financial institution or nonfinancial trade or business, willfully violating this subchapter or a regulation prescribed or order issued under this subchapter (except sections 5314 and 5315 of this title or a regulation prescribed under sections 5314 and 5315), or willfully violating a regulation prescribed under section 21 of the Federal Deposit Insurance Act or section 123 of Public Law 91–508, is liable to the United States Government for a civil penalty of not more than the greater of the amount (not to exceed $100,000) involved in the transaction (if any) or $25,000. For a violation of section 5318(a)(2) of this title or a regulation prescribed under section 5318(a)(2), a separate violation occurs for each day the violationcontinues and at each office, branch, or place of business at which a violation occurs or continues.
+(a)(1) A domestic financial institution or nonfinancial trade or business, and a partner, director, officer, or employee of a domestic financial institution or nonfinancial trade or business, willfully violating this subchapter or a regulation prescribed or order issued under this subchapter (except sections 5314 and 5315 of this title or a regulation prescribed under sections 5314 and 5315), or willfully violating a regulation prescribed under section 21 of the Federal Deposit Insurance Act or section 123 of Public Law 91–508, is liable to the United States Government for a civil penalty of not more than the greater of the amount (not to exceed $100,000) involved in the transaction (if any) or $25,000. For a violation of section 5318(a)(2) of this title or a regulation prescribed under section 5318(a)(2), a separate violation occurs for each day the violation continues and at each office, branch, or place of business at which a violation occurs or continues.
 
 (2) The Secretary of the Treasury may impose an additional civil penalty on a person not filing a report, or filing a report containing a material omission or misstatement, under section 5316 of this title or a regulation prescribed under section 5316. A civil penalty under this paragraph may not be more than the amount of the monetary instrument for which the report was required. A civil penalty under this paragraph is reduced by an amount forfeited under section 5317(b) of this title.
 
@@ -246,13 +246,13 @@ Pub. L. 108–357, title VIII, §821(b), Oct. 22, 2004, 118 Stat. 1586, provided
 
 #### Effective Date of 1992 Amendment
 
-Section 1561(b) of Pub. L. 102–550 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to violations committed after the date of the enactment of this Act \[Oct. 28, 1992\].”
+Pub. L. 102–550, title XV, §1561(b), Oct. 28, 1992, 106 Stat. 4072, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to violations committed after the date of the enactment of this Act \[Oct. 28, 1992\].”
 
 #### Effective Date of 1986 Amendment
 
 Amendment by section 1357(a) of Pub. L. 99–570, applicable with respect to violations committed after the end of the 3-month period beginning Oct. 27, 1986, see section 1364(b) of Pub. L. 99–570, set out as a note under section 5317 of this title.
 
-Section 1364(c) of Pub. L. 99–570 provided that: “The amendments made by section 1357 (other than subsection (a) of such section) \[amending sections 5321 and 5322 of this title\] shall apply with respect to violations committed after the date of the enactment of this Act \[Oct. 27, 1986\].”
+Pub. L. 99–570, title I, §1364(c), Oct. 27, 1986, 100 Stat. 3207–34, provided that: “The amendments made by section 1357 (other than subsection (a) of such section) \[amending sections 5321 and 5322 of this title\] shall apply with respect to violations committed after the date of the enactment of this Act \[Oct. 27, 1986\].”
 
 <i><sup>1</sup></i><i> So in original. Section 5317 does not contain a subsec. (d).</i>
 

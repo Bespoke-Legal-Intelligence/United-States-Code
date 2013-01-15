@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(B) will serve on active duty for at least five years immediately after such appointment.
 
-&emsp;(3) That if an appointment described in paragraph (2) is not tendered or if the cadet is permitted to resign as a regular officer before thecompletion of the commissioned service obligation of the cadet, the cadet—
+&emsp;(3) That if an appointment described in paragraph (2) is not tendered or if the cadet is permitted to resign as a regular officer before the completion of the commissioned service obligation of the cadet, the cadet—
 
 &emsp;&emsp;(A) will accept an appointment as a commissioned officer in the Coast Guard Reserve; and
 

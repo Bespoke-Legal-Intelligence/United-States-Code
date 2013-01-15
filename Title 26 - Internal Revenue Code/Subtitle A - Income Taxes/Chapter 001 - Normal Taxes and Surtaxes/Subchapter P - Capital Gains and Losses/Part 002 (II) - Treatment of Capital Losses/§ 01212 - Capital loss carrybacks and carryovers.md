@@ -26,7 +26,7 @@
 
 &emsp;&emsp;&emsp;(i) losses sustained directly by reason of the expropriation, intervention, seizure, or similar taking of property by the government of any foreign country, any political subdivision thereof, or any agency or instrumentality of the foregoing, or
 
-&emsp;&emsp;&emsp;(ii) losses (treated under section 165(g)(1) as losses from the sale or exchange of capital assets) from securities which become worthless by reason of the expropriation, intervention, seizure, or similar taking of property by the government of any foreign country, any political subdivision thereof, or any agency or instrumentality of the foregoing.
+&emsp;&emsp;&emsp;(ii) losses (treated under section 165(g)(1) as losses from the sale or exchange of capital assets) from securities which become worthless by reason of the expropriation, intervention, seizure, or similar taking of property by the government of any foreign country, any political subdivision thereof,or any agency or instrumentality of the foregoing.
 
 #### (B) Portion of loss attributable to foreign expropriation capital loss
 
@@ -264,7 +264,7 @@ Amendment by section 301(b)(11) of Pub. L. 99–514 applicable to taxable years 
 
 Amendment by section 102(e)(3) of Pub. L. 98–369 applicable to positions established after July 18, 1984, in taxable years after that date, except as otherwise provided, see section 102(f), (g) of Pub. L. 98–369, set out as a note under section 1256 of this title.
 
-Section 1002(b) of Pub. L. 98–369 provided that: “The repeal made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1986.”
+Pub. L. 98–369, div. A, title X, §1002(b), July 18, 1984, 98 Stat. 1012, provided that: “The repeal made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1986.”
 
 #### Effective Date of 1983 Amendment
 
@@ -276,7 +276,7 @@ Amendment by Pub. L. 97–354 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–34 applicable to property acquired and positions established by the taxpayer after June 23, 1981, in taxable years ending after such date, and applicable when so elected with respect to property held on June 23, 1981, see section 508 of Pub. L. 97–34, set out as an Effective Date note under section 1092 of this title.
+Amendment by Pub. L. 97–34 applicable to property acquired and positions established by the taxpayerafter June 23, 1981, in taxable years ending after such date, and applicable when so elected with respect to property held on June 23, 1981, see section 508 of Pub. L. 97–34, set out as an Effective Date note under section 1092 of this title.
 
 #### Effective Date of 1978 Amendment
 
@@ -284,21 +284,21 @@ Amendment by Pub. L. 95–600 effective Oct. 4, 1976, see section 703(r) of Pub.
 
 #### Effective Date of 1976 Amendment
 
-Section 1403(b) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[amending this section\] shall apply to loss years (within the meaning of section 1212(a)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) ending on or after January 1, 1970.”
+Pub. L. 94–455, title XIV, §1403(b), Oct. 4, 1976, 90 Stat. 1733, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[amending this section\] shall apply to loss years (within the meaning of section 1212(a)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) ending on or after January 1, 1970.”
 
 Amendment by section 1901(b)(33)(O) of Pub. L. 94–455 applicable with respect to taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
 #### Effective Date of 1969 Amendment
 
-Section 512(g) of Pub. L. 91–172 provided that: “The amendments made by this section \[amending this section and sections 246, 381, 481, 535, 1314, 6411, 6501, 6511, 6601, and 6611 of this title\] shall apply with respect to net capital losses sustained in taxable years beginning after December 31, 1969.”
+Pub. L. 91–172, title V, §512(g), Dec. 30, 1969, 83 Stat. 642, provided that: “The amendments made by this section \[amending this section and sections 246, 381, 481, 535, 1314, 6411, 6501, 6511, 6601, and 6611 of this title\] shall apply with respect to net capital losses sustained in taxable years beginning after December 31, 1969.”
 
 Amendment by section 513(b) of Pub. L. 91–172 applicable to taxable years beginning after Dec. 31, 1969, see section 513(d) of Pub. L. 91–172, set out as a note under section 1211 of this title.
 
 #### Effective Date of 1964 Amendments
 
-Section 7(b) of Pub. L. 88–571, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by subsection (a) \[amendingthis section\] shall apply with respect to net capital losses (to the extent attributable to foreign expropriation capital losses, as defined in section 1212(a)(2)(A) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) sustained in taxable years ending after December 31, 1958.”
+Pub. L. 88–571, §7(b), Sept. 2, 1964, 78 Stat. 861, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to net capital losses (to the extent attributable to foreign expropriation capital losses, as defined in section 1212(a)(2)(A) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) sustained in taxable years ending after December 31, 1958.”
 
-Section 230(c) of Pub. L. 88–272 provided that: “The amendments made by this section \[amending this section and section 1222 of this title\] shall apply to taxable years beginning after December 31, 1963.”
+Pub. L. 88–272, title II, §230(c), Feb. 26, 1964, 78 Stat. 100, provided that: “The amendments made by this section \[amending this section and section 1222 of this title\] shall apply to taxable years beginning after December 31, 1963.”
 
 #### Plan Amendments Not Required Until January 1, 1989
 

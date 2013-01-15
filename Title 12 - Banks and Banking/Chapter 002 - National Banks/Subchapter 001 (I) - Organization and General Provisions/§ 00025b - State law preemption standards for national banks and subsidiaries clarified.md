@@ -40,7 +40,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (A) Definition
 
-&emsp;&emsp;As used in this section the term “case-by-case basis” refers to a determination pursuant to this section made by the Comptroller concerning the impact of a particular State consumer financial law on any national bank that is subject to that law, or the law of any other State with substantively equivalent terms.
+&emsp;&emsp;As used in this section the term “case-by-case basis” refers to a determination pursuant to this section made by the Comptroller concerning the impact of a particular State consumer financial law on any nationalbank that is subject to that law, or the law of any other State with substantively equivalent terms.
 
 #### (B) Consultation
 

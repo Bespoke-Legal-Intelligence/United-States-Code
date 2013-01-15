@@ -60,13 +60,15 @@ For purposes of this part—
 
 &emsp;&emsp;(x) kilns;
 
-&emsp;&emsp;(xi) evaporators; and
+&emsp;&emsp;(xi) evaporators;
 
-&emsp;&emsp;(xii) dryers.
+&emsp;&emsp;(xii) dryers; and
+
+&emsp;&emsp;(xiii) other motors.
 
 &emsp;(3) The term “energy efficiency” means the ratio of the useful output of services from an article of industrial equipment to the energy use by such article, determined in accordance with test procedures under section 6314 of this title.
 
-&emsp;(4) The term “energy use” means the quantity of energy directly consumed by an articleof industrial equipment at the point of use, determined in accordance with test procedures established under section 6314 of this title.
+&emsp;(4) The term “energy use” means the quantity of energy directly consumed by an article of industrial equipment at the point of use, determined in accordance with test procedures established under section 6314 of this title.
 
 &emsp;(5) The term “manufacturer” means any person who manufactures industrial equipment.
 
@@ -116,7 +118,7 @@ For purposes of this part—
 
 &emsp;(F) The term “self-contained condensing unit” means a factory-made assembly of refrigerating components designed to compress and liquefy a specific refrigerant that is an integral part of the refrigerated equipment and consists of one or more refrigerant compressors, refrigerant condensers, condenser fans and motors, and factory supplied accessories.
 
-&emsp;(10)(A) The term “packaged terminal air conditioner” means a wall sleeve and a separate unencased combination of heating and cooling assemblies specified by the builder and intended for mounting through the wall. It includes a prime source of refrigeration, separable outdoor louvers, forced ventilation, and heating availability by builder's choice of hot water, steam, or electricity.
+&emsp;(10)(A) The term “packaged terminal air conditioner” means a wall sleeve and a separate unencased combination of heating and cooling assemblies specified by the builder andintended for mounting through the wall. It includes a prime source of refrigeration, separable outdoor louvers, forced ventilation, and heating availability by builder's choice of hot water, steam, or electricity.
 
 &emsp;(B) The term “packaged terminal heat pump” means a packaged terminal air conditioner that utilizes reverse cycle refrigeration as its prime heat source and should have supplementary heat source available to builders with the choice of hot water, steam, or electric resistant heat.
 
@@ -200,7 +202,7 @@ In general.—The terms “walk-in cooler” and “walk-in freezer” mean an e
 
 &emsp;&emsp;(B)
 
-Exclusion.—The terms “walk-in cooler” and “walk-in freezer” do not include products designed and marketed exclusively for medical, scientific, or research purposes.
+Exclusion.—The terms “walk-in cooler” and “walk-in freezer” do not includeproducts designed and marketed exclusively for medical, scientific, or research purposes.
 
 &emsp;(21) The term “commercial clothes washer” means a soft-mount front-loading or soft-mount top-loading clothes washer that—
 
@@ -232,7 +234,7 @@ Single package vertical air conditioner.—The term “single package vertical a
 
 &emsp;&emsp;(B) is powered by a single- or 3-phase current;
 
-&emsp;&emsp;(C) may contain 1 or more separate indoor grilles, outdoor louvers, various ventilationoptions, indoor free air discharges, ductwork, well plenum, or sleeves; and
+&emsp;&emsp;(C) may contain 1 or more separate indoor grilles, outdoor louvers, various ventilation options, indoor free air discharges, ductwork, well plenum, or sleeves; and
 
 &emsp;&emsp;(D) has heating components that may include electrical resistance, steam, hot water, or gas, but may not include reverse cycle refrigeration as a heating means.
 
@@ -244,9 +246,11 @@ Single package vertical heat pump.—The term “single package vertical heat pu
 
 &emsp;&emsp;(B) may include secondary supplemental heating by means of electrical resistance, steam, hot water, or gas.
 
-(Pub. L. 94–163, title III, §340, as added Pub. L. 95–619, title IV, §441(a), Nov. 9, 1978, 92 Stat. 3267; amended Pub. L. 102–486, title I, §122(a), (f)(1), Oct. 24, 1992, 106 Stat. 2806, 2817; Pub. L. 109–58, title I, §136(a), Aug. 8, 2005, 119 Stat. 634; Pub. L. 110–140, title III, §§312(a), 313(a), 314(a), Dec. 19, 2007, 121 Stat. 1564, 1568, 1569.)
+(Pub. L. 94–163, title III, §340, as added Pub. L. 95–619, title IV, §441(a), Nov. 9, 1978, 92 Stat. 3267; amended Pub. L. 102–486, title I, §122(a), (f)(1), Oct. 24, 1992, 106 Stat. 2806, 2817; Pub. L. 109–58, title I, §136(a), Aug. 8, 2005, 119 Stat. 634; Pub. L. 110–140, title III, §§312(a), 313(a), 314(a), Dec. 19, 2007, 121 Stat. 1564, 1568, 1569; Pub. L. 112–210, §10(c)(1), Dec. 18, 2012, 126 Stat. 1525.)
 
 #### Amendments
+
+<b>2012</b>—Par. (2)(B)(xiii). Pub. L. 112–210 added cl. (xiii).
 
 <b>2007</b>—Par. (1)(G) to (L). Pub. L. 110–140, §312(a)(1), added subpar. (G) and redesignated former subpars. (G) to (K) as (H) to (L), respectively.
 

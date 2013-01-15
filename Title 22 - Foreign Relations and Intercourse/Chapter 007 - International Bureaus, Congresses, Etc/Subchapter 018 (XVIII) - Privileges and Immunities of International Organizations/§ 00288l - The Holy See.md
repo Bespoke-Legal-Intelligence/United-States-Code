@@ -12,7 +12,7 @@ Section was enacted as part of the Department of State Authorities Act of 2006, 
 
 Ex. Ord. No. 13427, Mar. 7, 2007, 72 F.R. 10879, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 7(b) of the Department of State Authorities Act of 2006 (22 U.S.C. 288<i>l</i>), I hereby extend to the Permanent Observer Mission of the Holy See to the United Nations in New York, and to its members, the privileges and immunities enjoyed by the diplomatic missions of member states to the United Nations, and members of such missions, subject to corresponding conditions and obligations.
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 7(b) of the Department of State Authorities Act of 2006 (22 U.S.C. 288l), I hereby extend to the Permanent Observer Mission of the Holy See to the United Nations in New York, and to its members, the privileges and immunities enjoyed by the diplomatic missions of member states to the United Nations, and members of such missions, subject to corresponding conditions and obligations.
 
 This extension of privileges and immunities is not intended to abridge in any respect privileges or immunities that the Permanent Observer Mission of the Holy See to the United Nations in New York and its members otherwise may have acquired or may acquire by law.
 

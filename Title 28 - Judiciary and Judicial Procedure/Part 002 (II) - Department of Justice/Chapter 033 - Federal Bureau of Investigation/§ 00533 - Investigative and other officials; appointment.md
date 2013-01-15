@@ -42,7 +42,7 @@ The last sentence is added because in various areas the authority to investigate
 
 #### FBI Investigations of Espionage by Persons Employed by or Assigned to United States Diplomatic Missions Abroad
 
-Pub. L. 101–193, title VI, §603, Nov. 30, 1989, 103 Stat. 1710, provided that: “Subject to the authority of the Attorney General, the FBI shall supervise the conduct of all investigations of violations of the espionage laws of the United States by persons employed by or assigned to United States diplomatic missions abroad. All departments and agencies shall report immediately tothe FBI any information concerning such a violation. All departments and agencies shall provide appropriate assistance to the FBI in the conduct of such investigations. Nothing in this provision shall be construed as establishing a defense to any criminal, civil, or administrative action.”
+Pub. L. 101–193, title VI, §603, Nov. 30, 1989, 103 Stat. 1710, provided that: “Subject to the authority of the Attorney General, the FBI shall supervise the conduct of all investigations of violations of the espionage laws of the United States by persons employed by or assigned to United States diplomatic missions abroad. All departments and agencies shall report immediately to the FBI any information concerning such a violation. All departments and agencies shall provide appropriate assistance to the FBI in the conduct of such investigations. Nothing in this provision shall be construed as establishing a defense to any criminal, civil, or administrative action.”
 
 #### Undercover Investigative Operations Conducted by Federal Bureau of Investigation or Drug Enforcement Administration; Annual Report to Congress; Financial Audit
 

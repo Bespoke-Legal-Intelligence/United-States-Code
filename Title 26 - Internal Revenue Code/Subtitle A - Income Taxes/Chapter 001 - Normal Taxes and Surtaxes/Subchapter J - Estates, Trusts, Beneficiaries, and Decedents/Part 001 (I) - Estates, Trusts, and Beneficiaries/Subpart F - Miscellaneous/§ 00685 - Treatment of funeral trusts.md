@@ -58,5 +58,5 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 #### Effective Date
 
-Section 1309(c) of Pub. L. 105–34 provided that: “The amendments made by this section \[enacting this section\] shall apply to taxable years ending after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title XIII, §1309(c), Aug. 5, 1997, 111 Stat. 1043, provided that: “The amendments made by this section \[enacting this section\] shall apply to taxable years ending after the date of the enactment of this Act \[Aug. 5, 1997\].”
 

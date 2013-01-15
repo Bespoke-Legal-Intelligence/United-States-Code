@@ -72,7 +72,7 @@ The Council may appoint such special advisory, technical, or professional commit
 
 #### (1) Timing
 
-&emsp;The Council shall meet at the call of the Chairperson or a majority of the members then serving, but not less frequently than quarterly.
+&emsp;The Council shall meet at the call of the Chairperson or a majority of the membersthen serving, but not less frequently than quarterly.
 
 #### (2) Rules for conducting business
 

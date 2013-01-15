@@ -16,7 +16,7 @@ To effectuate the policy described in section 7481(b) of this title, the Secreta
 
 #### (3) Issuance of order
 
-&emsp;After notice and opportunity for public comment under paragraph (2), the Secretary shall issue an order, taking into consideration the comments received and including in the order such provisions as are necessary to ensure that the order conforms to this subchapter. The order shall be issued and become effective not later than 150 days after the date of publication of the proposed order.
+&emsp;After notice and opportunity for public comment under paragraph (2), the Secretary shall issue an order, taking into consideration the comments received and including in the order such provisions as are necessary to ensure that the order conforms to this subchapter.The order shall be issued and become effective not later than 150 days after the date of publication of the proposed order.
 
 #### (c) Amendments
 

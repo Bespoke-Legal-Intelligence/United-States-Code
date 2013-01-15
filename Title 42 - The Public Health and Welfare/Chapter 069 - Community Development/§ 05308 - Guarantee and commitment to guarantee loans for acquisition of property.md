@@ -2,7 +2,7 @@
 
 #### (a) Authority of Secretary; issuance of obligations by eligible public entities or designated public agencies; form, denomination, maturity, and conditions of notes or other obligations; percentage allocation requirements
 
-The Secretary is authorized, upon such terms and conditions as the Secretary may prescribe, to guarantee and make commitments to guarantee, only to such extent or in such amounts as provided in appropriation Acts, the notes or other obligations issued by eligible public entities, or by public agencies designated by such eligible public entities, for the purposes of financing (1) acquisition of real property or the rehabilitation of real property owned by the eligible public entity (including such related expenses as the Secretary may permit by regulation); (2) housing rehabilitation; (3) economic development activities permitted under paragraphs (14), (15), and (17) of section 5305(a) of this title; (4) construction of housing by nonprofit organizations for homeownership under section 1437<i>o</i>(d) <sup>1</sup> of this title or title VI of the Housing and Community Development Act of 1987; (5) the acquisition, construction, reconstruction, or installation of public facilities (except for buildings for the general conduct of government); or (6) in the case of colonias (as such term is defined in section 916 of the Cranston-Gonzalez National Affordable Housing Act), public works and site or other improvements. A guarantee under this section may be used to assist a grantee in obtaining financing only if the grantee has made efforts to obtain such financing without the use of such guarantee and cannot complete such financing consistent with the timely execution of the program plans without such guarantee. Notes or other obligations guaranteed pursuant to this section shall be in such form and denominations, have such maturities, and be subject to such conditions as may be prescribed by regulations issued by the Secretary. The Secretary may not deny a guarantee under this section on the basis of the proposed repayment period for the note or other obligation, unless the period is more than 20 years or the Secretary determines that the period causes the guarantee to constitute an unacceptable financial risk. Notwithstanding any other provision of law and subject only to the absence of qualified applicants or proposed activities and to the authority provided in this section, to the extent approved or provided in appropriation Acts, the Secretary shall enter into commitments to guarantee notes and obligations under this section with an aggregate principal amount of $2,000,000,000 for fiscal year 1993 and $2,000,000,000 for fiscal year 1994. Of the amount approved in any appropriation Act for guarantees under this section in any fiscal year, the Secretary shall allocate 70 percent for guarantees for metropolitan cities, urban counties, and Indian tribes and 30 percent for guarantees for units of general local government in nonentitlement areas. The Secretary may waive the percentage requirements of the preceding sentence in any fiscal year only to the extent that there is an absence of qualified applicants or proposed activities from metropolitan cities, urban counties, and Indian tribes or units of general local government in nonentitlement areas.
+The Secretary is authorized, upon such terms and conditions as the Secretary may prescribe, to guarantee and make commitments to guarantee, only to such extent or in such amounts as provided in appropriation Acts, the notes or other obligations issued by eligible public entities, or by public agencies designated by such eligible public entities, for the purposes of financing (1) acquisition of real property or the rehabilitation of real property owned by the eligible public entity (including such related expenses as the Secretary may permit by regulation); (2) housing rehabilitation; (3) economic development activities permitted under paragraphs (14), (15), and (17) of section 5305(a) of this title; (4) construction of housing by nonprofit organizations for homeownership under section 1437o(d) <sup>1</sup> of this title or title VI of the Housing and Community Development Act of 1987; (5) the acquisition, construction, reconstruction, or installation of public facilities (except for buildings for the general conduct of government); or (6) in the case of colonias (as such term is defined in section 916 of the Cranston-Gonzalez National Affordable Housing Act), public works and site or other improvements. A guarantee under this section may be used to assist a grantee in obtaining financing only if the grantee has made efforts to obtain such financing without the use of such guarantee and cannot complete such financing consistent with the timely execution of the program plans without such guarantee. Notes or other obligations guaranteed pursuant to this section shall be in such form and denominations, have such maturities, and be subject to such conditions as may be prescribed by regulations issued by the Secretary. The Secretary may not deny a guarantee under this section on the basis of the proposed repayment period for the note or other obligation, unless the period is more than 20 years or the Secretary determines that the period causes the guarantee to constitute an unacceptable financial risk. Notwithstanding any other provision of law and subject only to the absence of qualified applicants or proposed activities and to the authority provided in this section, to the extent approved or provided in appropriation Acts, the Secretary shall enter into commitments to guarantee notes and obligations under this section with an aggregate principal amount of $2,000,000,000 for fiscal year 1993 and $2,000,000,000 for fiscal year 1994. Of the amount approved in any appropriation Act for guarantees under this section in any fiscal year, the Secretary shall allocate 70 percent for guarantees for metropolitan cities, urban counties, and Indian tribes and 30 percent for guarantees for units of general local government in nonentitlement areas. The Secretary may waive the percentage requirements of the preceding sentence in any fiscal year only to the extent that there is an absence of qualified applicants or proposed activities from metropolitan cities, urban counties, and Indian tribes or units of general local government in nonentitlement areas.
 
 #### (b) Prerequisites
 
@@ -26,7 +26,7 @@ Notwithstanding any other provision of this chapter, grants allocated to an issu
 
 #### (e) Pledged grants for repayments
 
-The Secretary is authorized, notwithstanding any other provision of this chapter, to applygrants pledged pursuant to paragraphs (1)(B) and (2) of subsection (d) of this section to any repayments due the United States as a result of such guarantees.
+The Secretary is authorized, notwithstanding any other provision of this chapter, to apply grants pledged pursuant to paragraphs (1)(B) and (2) of subsection (d) of this section to any repayments due the United States as a result of such guarantees.
 
 #### (f) Full faith and credit of United States pledged for payment; conclusiveness and validity of guarantee
 
@@ -38,7 +38,7 @@ The Secretary may issue obligations to the Secretary of the Treasury in an amoun
 
 #### (h) Federal taxation of guaranteed obligations; grants to borrowing entity or agency of taxable obligations for net interest costs, etc.; limitation on amount of grant; assistance to issuer in hardship cases
 
-Obligations guaranteed under this section shall be subject to Federal taxation as provided in subsection (j) of this section. The Secretary is authorized to make, and to contract to make, grants, in such amounts as may be approved in appropriations Acts, to or on behalf of the issuing eligible public entity or public agency to cover not to exceed 30 per centum of the net interest cost (including such servicing, underwriting, or other costs as may be specified in regulations of the Secretary) to the borrowing entity or agency of such obligations. The Secretary may also, to the extent approved in appropriation Acts, assist the issuer of a note or other obligation guaranteed under this section in the payment of all or a portion of the principal and interest amount due under the note or other obligation, if the Secretary determines that the issuer is unable to pay the amount because of circumstances of extreme hardship beyond the control of the issuer.
+Obligations guaranteed under this section shall be subject to Federal taxation as provided in subsection (j) of this section. The Secretary is authorized to make, and to contract to make, grants, in such amounts as may be approved inappropriations Acts, to or on behalf of the issuing eligible public entity or public agency to cover not to exceed 30 per centum of the net interest cost (including such servicing, underwriting, or other costs as may be specified in regulations of the Secretary) to the borrowing entity or agency of such obligations. The Secretary may also, to the extent approved in appropriation Acts, assist the issuer of a note or other obligation guaranteed under this section in the payment of all or a portion of the principal and interest amount due under the note or other obligation, if the Secretary determines that the issuer is unable to pay the amount because of circumstances of extreme hardship beyond the control of the issuer.
 
 #### (i) Omitted
 
@@ -56,7 +56,7 @@ With respect to any obligation issued by a <sup>2</sup> eligible public entity 
 
 &emsp;(B) request the enactment of legislation increasing the aggregate limitation on guarantees under this section.
 
-#### (<i>l</i>) Purchase of guaranteed obligations by Federal Financing Bank
+#### (l) Purchase of guaranteed obligations by Federal Financing Bank
 
 Notes or other obligations guaranteed under this section may not be purchased by the Federal Financing Bank.
 
@@ -68,7 +68,7 @@ No fee or charge may be imposed by the Secretary or any other Federal agency on 
 
 Any State that has elected under section 5306(d)(2)(A) of this title to distribute funds to units of general local government in nonentitlement areas may assist such units in the submission of applications for guarantees under this section.
 
-#### (<i>o</i>) “Eligible public entity” defined
+#### (o) “Eligible public entity” defined
 
 For purposes of this section, the term “eligible public entity” means any unit of general local government, including units of general local government in nonentitlement areas.
 
@@ -132,13 +132,13 @@ For purposes of this section, the term “eligible public entity” means any un
 
 &emsp;&emsp;(C) any ownership rights of the Secretary, as applicable, in notes, certificates, or other obligations guaranteed under this section, or constituting the trust or pool against which trust certificates, or other obligations guaranteed under this section, are offered.
 
-(Pub. L. 93–383, title I, §108, Aug. 22, 1974, 88 Stat. 647; Pub. L. 95–128, title I, §108, Oct. 12, 1977, 91 Stat. 1123; Pub. L. 96–399, title I, §108, Oct. 8, 1980, 94 Stat. 1619; Pub. L. 97–35, title III, §309(i), Aug. 13, 1981, 95 Stat. 397; Pub. L. 98–181, title I, §108, Nov. 30, 1983, 97 Stat. 1168; Pub. L. 98–479, title II, §§203(<i>l</i>)(2), 204(k)(1), Oct. 17, 1984, 98 Stat. 2231, 2233; Pub. L. 99–272, title III, §3002(a), Apr. 7, 1986, 100 Stat. 102; Pub. L. 100–242, title V, §514, Feb. 5, 1988, 101 Stat. 1930; Pub. L. 101–625, title IX, §§901(b), 910(b)–(g), Nov. 28, 1990, 104 Stat. 4385, 4389–4391; Pub. L. 102–550, title VIII, §801(b), Oct. 28, 1992, 106 Stat. 3843; Pub. L. 103–233, title II, §§231, 232(a)(1), 233, Apr. 11, 1994, 108 Stat. 366, 368; Pub. L. 104–120, §3(b), Mar. 28, 1996, 110 Stat. 835.)
+(Pub. L. 93–383, title I, §108, Aug. 22, 1974, 88 Stat. 647; Pub. L. 95–128, title I, §108, Oct. 12, 1977, 91 Stat. 1123; Pub. L. 96–399, title I, §108, Oct. 8, 1980, 94 Stat. 1619; Pub. L. 97–35, title III, §309(i), Aug. 13, 1981, 95 Stat. 397; Pub. L. 98–181, title I \[title I, §108\], Nov. 30, 1983, 97 Stat. 1168; Pub. L. 98–479, title II, §§203(l)(2), 204(k)(1), Oct. 17, 1984, 98 Stat. 2231, 2233; Pub. L. 99–272, title III, §3002(a), Apr. 7, 1986, 100 Stat. 102; Pub. L. 100–242, title V, §514, Feb. 5, 1988, 101 Stat. 1930; Pub. L. 101–625, title IX, §§901(b), 910(b)–(g), Nov. 28, 1990, 104 Stat. 4385, 4389–4391; Pub. L. 102–550, title VIII, §801(b), Oct. 28, 1992, 106 Stat. 3843; Pub. L. 103–233, title II, §§231, 232(a)(1), 233, Apr. 11, 1994, 108 Stat. 366, 368; Pub. L. 104–120, §3(b), Mar. 28, 1996, 110 Stat. 835.)
 
 #### References in Text
 
-Section 1437<i>o</i> of this title, referred to in subsec. (a)(4), was repealed by Pub. L. 101–625, title II, §289(b), Nov. 28, 1990, 104 Stat. 4128.
+Section 1437o of this title, referred to in subsec. (a)(4), was repealed by Pub. L. 101–625, title II, §289(b), Nov. 28, 1990, 104 Stat. 4128.
 
-Title VI of the Housing Community Development Act of 1987, referred to in subsec. (a)(4), is title VI of Pub. L. 100–242, Feb. 5, 1988, 101 Stat. 1951, which was set out as a note under section 1715<i>l</i> of Title 12, Banks and Banking, and was repealed by Pub. L. 101–625, title II, §289(b), Nov. 28, 1990, 104 Stat. 4128.
+Title VI of the Housing Community Development Act of 1987, referred to in subsec. (a)(4), is title VI of Pub. L. 100–242, Feb. 5, 1988, 101 Stat. 1951, which was set out as a note under section 1715l of Title 12, Banks and Banking, and was repealed by Pub. L. 101–625, title II, §289(b), Nov. 28, 1990, 104 Stat. 4128.
 
 Section 916 of the Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (a)(6), is section 916 of Pub. L. 101–625, which is set out as a note under section 5306 of this title.
 
@@ -188,7 +188,7 @@ Subsec. (k). Pub. L. 101–625, §910(e)(2), designated existing provisions as p
 
 Subsec. (n). Pub. L. 101–625, §910(b)(3), added subsec. (n).
 
-Subsec. (<i>o</i>). Pub. L. 101–625, §910(b)(5), added subsec. (<i>o</i>).
+Subsec. (o). Pub. L. 101–625, §910(b)(5), added subsec. (o).
 
 Subsec. (p). Pub. L. 101–625, §910(g), added subsec. (p).
 
@@ -198,9 +198,9 @@ Pub. L. 100–242, §514(a), in last sentence struck out “during fiscal year 1
 
 Subsec. (m). Pub. L. 100–242, §514(b), added subsec. (m).
 
-<b>1986</b>—Subsec. (<i>l</i>). Pub. L. 99–272 added subsec. (<i>l</i>).
+<b>1986</b>—Subsec. (l). Pub. L. 99–272 added subsec. (l).
 
-<b>1984</b>—Subsec. (g). Pub. L. 98–479, §203(<i>l</i>)(2), substituted “chapter 31 of title 31” for “the Second Liberty Bond Act, as now or hereafter in force” and “such chapter” for “such Act”.
+<b>1984</b>—Subsec. (g). Pub. L. 98–479, §203(l)(2), substituted “chapter 31 of title 31” for “the Second Liberty Bond Act, as now or hereafter in force” and “such chapter” for “such Act”.
 
 Subsec. (h). Pub. L. 98–479, §204(k)(1), substituted “subsection (j)” for “subsection (g)”.
 
@@ -236,7 +236,7 @@ Amendment by Pub. L. 103–233 applicable with respect to any amounts made avail
 
 #### Effective Date of 1986 Amendment
 
-Section 3002(b) of Pub. L. 99–272 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on July 1, 1986.”
+Pub. L. 99–272, title III, §3002(b), Apr. 7, 1986, 100 Stat. 102, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on July 1, 1986.”
 
 #### Effective Date of 1983 Amendment
 
@@ -252,7 +252,7 @@ Amendment by Pub. L. 95–128 effective Oct. 1, 1977, see section 114 of Pub. L.
 
 #### Regulations
 
-Section 910(i) of Pub. L. 101–625 provided that: “To carry out the amendments made by this section \[amending this section and section 5313 of this title\], the Secretary of Housing and Urban Development shall—
+Pub. L. 101–625, title IX, §910(i), Nov. 28, 1990, 104 Stat. 4392, provided that: “To carry out the amendments made by this section \[amending this section and section 5313 of this title\], the Secretary of Housing and Urban Development shall—
 
 &emsp;“(1) issue proposed regulations not later than 90 days after the date of the enactment of this Act \[Nov. 28, 1990\]; and
 
@@ -260,7 +260,7 @@ Section 910(i) of Pub. L. 101–625 provided that: “To carry out the amendment
 
 #### Community Development Loan Guarantees
 
-Section 910(a) of Pub. L. 101–625 provided that:
+Pub. L. 101–625, title IX, §910(a), Nov. 28, 1990, 104 Stat. 4389, provided that:
 
 “(1)
 
@@ -282,7 +282,7 @@ Objectives.—In order to further the purpose described in paragraph (1), activi
 
 #### Administrative Actions for Provision of Private Sector Financing of Guaranteed Loans
 
-Section 3002(c) of Pub. L. 99–272 provided that: “The Secretary of Housing and Urban Development shall take such administrative actions as are necessary to provide by the effective date of subsection (a) \[July 1, 1986\] private sector financing of loans guaranteed under section 108 of the Housing and Community Development Act of 1974 \[this section\].”
+Pub. L. 99–272, title III, §3002(c), Apr. 7, 1986, 100 Stat. 102, provided that: “The Secretary of Housing and Urban Development shall take such administrative actions as are necessary to provide by the effective date of subsection (a) \[July 1, 1986\] private sector financing of loans guaranteed under section 108 of the Housing and Community Development Act of 1974 \[this section\].”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

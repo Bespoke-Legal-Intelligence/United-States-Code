@@ -1,6 +1,6 @@
 ### §845. Exceptions; relief from disabilities
 
-(a) Except in the case of subsection (<i>l</i>), (m), (n), or (<i>o</i>) of section 842 and subsections (d), (e), (f), (g), (h), and (i) of section 844 of this title, this chapter shall not apply to:
+(a) Except in the case of subsection (l), (m), (n), or (o) of section 842 and subsections (d), (e), (f), (g), (h), and (i) of section 844 of this title, this chapter shall not apply to:
 
 &emsp;(1) aspects of the transportation of explosive materials via railroad, water, highway, or air that pertain to safety, including security, and are regulated by the Department of Transportation or the Department of Homeland Security;
 
@@ -22,7 +22,7 @@
 
 (3) A licensee or permittee who applies for relief, under this subsection, from the disabilities incurred under this chapter as a result of an indictment for or conviction of a crime punishable by imprisonment for a term exceeding 1 year shall not be barred by such disability from further operations under the license or permit pending final action on an application for relief filed pursuant to this section.
 
-(c) It is an affirmative defense against any proceeding involving subsections (<i>l</i>) through (<i>o</i>) of section 842 if the proponent proves by a preponderance of the evidence that the plastic explosive—
+(c) It is an affirmative defense against any proceeding involving subsections (l) through (o) of section 842 if the proponent proves by a preponderance of the evidence that the plastic explosive—
 
 &emsp;(1) consisted of a small amount of plastic explosive intended for and utilized solely in lawful—
 
@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(C) forensic science purposes; or
 
-&emsp;(2) was plastic explosive that, within 3 years after the date of enactment of the Antiterrorism and Effective Death Penalty Act of 1996, will be or is incorporated in a military device within the territory of the United States and remains an integral part of such military device, or is intended to be, or is incorporated in, and remains an integral part of a military device that is intended to become, or has become, the property of any agency of the United States performing military or police functions (including any military reserve component) or the National Guard of any State, wherever such device is located.
+&emsp;(2) was plastic explosive that, within 3 years after the date of enactment of the Antiterrorism and Effective Death Penalty Act of 1996, will be or is incorporated in a military device within the territory of the United States and remains an integral part of such military device, or is intended to be, or is incorporated in, and remains an integral part of a military device that is intended to become,or has become, the property of any agency of the United States performing military or police functions (including any military reserve component) or the National Guard of any State, wherever such device is located.
 
 &emsp;(3) For purposes of this subsection, the term “military device” includes, but is not restricted to, shells, bombs, projectiles, mines, missiles, rockets, shaped charges, grenades, perforators, and similar devices lawfully manufactured exclusively for military or police purposes.
 
@@ -44,7 +44,7 @@ The date of enactment of the Antiterrorism and Effective Death Penalty Act of 19
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–211, §236(c)(1), substituted “subsection (<i>l</i>),” for “subsections (<i>l</i>),” in introductory provisions.
+<b>2010</b>—Subsec. (a). Pub. L. 111–211, §236(c)(1), substituted “subsection (l),” for “subsections (l),” in introductory provisions.
 
 Subsec. (a)(7). Pub. L. 111–211, §236(a), added par. (7).
 
@@ -56,7 +56,7 @@ Subsec. (b). Pub. L. 111–211, §236(c)(2), substituted “Attorney General” 
 
 Pub. L. 107–296, §1112(e)(3), substituted “Attorney General” for “Secretary” in two places.
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–132, §605(1), inserted “(<i>l</i>), (m), (n), or (<i>o</i>) of section 842 and subsections” after “subsections” in introductory provisions and “, and which pertain to safety” before semicolon at end of par. (1).
+<b>1996</b>—Subsec. (a). Pub. L. 104–132, §605(1), inserted “(l), (m), (n), or (o) of section 842 and subsections” after “subsections” in introductory provisions and “, and which pertain to safety” before semicolon at end of par. (1).
 
 Subsec. (c). Pub. L. 104–132, §605(2), added subsec. (c).
 

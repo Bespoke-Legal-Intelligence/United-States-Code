@@ -16,7 +16,7 @@ The provisions of this part (other than subsection (c) of this section) shall no
 
 &emsp;&emsp;(B) as of the close of the taxable year, the investment company has no earnings and profits accumulated in any taxable year to which the provisions of this part (or the corresponding provisions of prior law) did not apply to it.
 
-> The Secretary may waive the requirements of paragraph (1) for any taxable year if the regulated investment company establishes to the satisfaction of the Secretary that it was unable to meet such requirements by reason of distributions previously made to meet the requirements of section 4982.
+> The Secretary may waive the requirements of paragraph (1) for any taxable year if the regulated investment company establishes to thesatisfaction of the Secretary that it was unable to meet such requirements by reason of distributions previously made to meet the requirements of section 4982.
 
 #### (b) Method of taxation of companies and shareholders
 
@@ -92,7 +92,7 @@ The provisions of this part (other than subsection (c) of this section) shall no
 
 #### (III) Aggregate reported amount
 
-&emsp;&emsp;&emsp;&emsp;The term “aggregate reported amount” means the aggregate amount of dividends reported by the company under clause (i) as capital gain dividends for the taxable year (including capital gain dividends paid after the close of the taxable year described in section 855).
+&emsp;&emsp;&emsp;&emsp;The term “aggregate reported amount” means the aggregate amount of dividends reported by the company under clause (i) as capital gain dividends for the taxable year (including capital gaindividends paid after the close of the taxable year described in section 855).
 
 #### (IV) Post-December reported amount
 
@@ -100,7 +100,7 @@ The provisions of this part (other than subsection (c) of this section) shall no
 
 #### (v) Adjustment for determinations
 
-&emsp;&emsp;&emsp;If there is an increase in the excess described in subparagraph (A) for the taxable year which results from a determination (as defined in section 860(e)), the companymay, subject to the limitations of this subparagraph, increase the amount of capital gain dividends reported under clause (i).
+&emsp;&emsp;&emsp;If there is an increase in the excess described in subparagraph (A) for the taxable year which results from a determination (as defined in section 860(e)), the company may, subject to the limitations of this subparagraph, increase the amount of capital gain dividends reported under clause (i).
 
 #### (vi) Special rule for losses late in the calendar year
 
@@ -164,7 +164,7 @@ The provisions of this part (other than subsection (c) of this section) shall no
 
 #### (i) Daily dividend companies
 
-&emsp;&emsp;&emsp;Except as otherwise provided by regulations, subparagraph (B) shall not apply with respect to a regular dividend paid by a regulated investment company which declares exempt-interest dividends on a daily basis in an amount equal to at least 90 percent of its net tax-exempt interest and distributes such dividends on a monthly or more frequent basis.
+&emsp;&emsp;&emsp;Except as otherwise provided by regulations, subparagraph (B) shall not apply with respect to a regular dividend paid bya regulated investment company which declares exempt-interest dividends on a daily basis in an amount equal to at least 90 percent of its net tax-exempt interest and distributes such dividends on a monthly or more frequent basis.
 
 #### (ii) Authority to shorten required holding period with respect to other companies
 
@@ -236,7 +236,7 @@ The provisions of this part (other than subsection (c) of this section) shall no
 
 #### (6) Section 311(b) not to apply to certain distributions
 
-&emsp;Section 311(b) shall not apply to any distribution by a regulated investment company to which this part applies, if such distribution is in redemption of its stock upon the demand of the shareholder.
+&emsp;Section 311(b) shall not apply to any distribution by a regulated investment companyto which this part applies, if such distribution is in redemption of its stock upon the demand of the shareholder.
 
 #### (7) Time certain dividends taken into account
 
@@ -328,7 +328,7 @@ The provisions of this part (other than subsection (c) of this section) shall no
 
 #### (2) Coordination with tax on undistributed income
 
-&emsp;For purposes of applying this chapter to distributions made by a regulated investment company with respect to any calendar year, the earnings and profits of such company shall be determined without regard to any net capital loss attributable to the portion of the taxable year after October 31 and without regard to any late-year ordinary loss (as defined in subsection (b)(8)(D)). The preceding sentence shall apply—
+&emsp;For purposes of applying this chapter to distributions made by a regulated investment company with respect to any calendar year, the earnings and profits of such company shall be determined without regard to any net capital loss attributable to the portion of the taxable year after October 31 and without regard to any late-year ordinary loss (as defined insubsection (b)(8)(D)). The preceding sentence shall apply—
 
 &emsp;&emsp;(A) only to the extent that the amount distributed by the company with respect to the calendar year does not exceed the required distribution for such calendar year (as determined under section 4982 by substituting “100 percent” for each percentage set forth in section 4982(b)(1)), and
 
@@ -460,7 +460,7 @@ In the case of a unit investment trust—
 
 &emsp;For purposes of this subsection, the term “qualified fund of funds” means a regulated investment company if (at the close of each quarter of the taxable year) at least 50 percent of the value of its total assets is represented by interests in other regulated investment companies.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 271; July 11, 1956, ch. 573, §2(a), 70 Stat. 530; Pub. L. 85–866, title I, §§39(a), 101(a), (b), Sept. 2, 1958, 72 Stat. 1638, 1674; Pub. L. 86–779, §10(b)(2), (3), Sept. 14, 1960, 74 Stat. 1009; Pub. L. 88–272, title II, §229(a)(1), (2), (b), Feb. 26, 1964, 78 Stat. 99; Pub. L. 91–172, title V, §511(c)(2), Dec. 30, 1969, 83 Stat. 637; Pub. L. 94–455, title XIV, §1402(b)(1)(N), (2), title XIX, §§1901(a)(110)(A), (B)(i), (C), (b)(1)(V), (6)(B), (33)(I), (J), (N), 1906(b)(13)(A), title XXI, §2137(a)–(c), Oct. 4, 1976, 90 Stat. 1732, 1783, 1792, 1794, 1801, 1802, 1834, 1930, 1931; Pub. L. 95–600, title III, §§301(b)(11), 362(c), title VII, §701(s)(2), Nov. 6, 1978, 92 Stat. 2822, 2851, 2911; Pub. L. 96–222, title I, §104(a)(3)(B), Apr. 1, 1980, 94 Stat. 215; Pub. L. 97–424, title V, §547(b)(2), Jan. 6, 1983, 96 Stat. 2199; Pub. L. 98–369, div. A, title I, §55(a), title X, §§1001(b)(11), (e), 1071(a)(2)–(4), (b)(1), July 18, 1984, 98 Stat. 571, 1011, 1012, 1049, 1050, 1052; Pub. L. 99–514, title III, §311(b)(1), title VI, §§631(e)(11), 651(b)(1)(A), (2), (3), 655(a)(1), (2), title XI, §1173(b)(1)(B), title XV, §1511(c)(6), title XVIII, §§1804(c)(1)–(5), 1878(j), Oct. 22, 1986, 100 Stat. 2219, 2274, 2296, 2298, 2299, 2515, 2745, 2799, 2800, 2905; Pub. L. 100–647, title I, §§1006(<i>l</i>)(1)(A), (3), (4), (7)–(10), 1011B(h)(4), 1018(p), Nov. 10, 1988, 102 Stat. 3413–3415, 3491, 3585; Pub. L. 101–239, title VII, §7204(b)(1), (c)(1), Dec. 19, 1989, 103 Stat. 2334, 2335; Pub. L. 103–66, title XIII, §13221(c)(1), Aug. 10, 1993, 107 Stat. 477; Pub. L. 104–188, title I, §1602(b)(3), Aug. 20, 1996, 110 Stat. 1833; Pub. L. 105–34, title XI, §1122(c)(2), (3), title XII, §1254(b)(2), Aug. 5, 1997, 111 Stat. 977, 1033; Pub. L. 106–170, title V, §566(a)(1), (c), Dec. 17, 1999, 113 Stat. 1950; Pub. L. 109–222, title V, §505(c)(1), May 17, 2006, 120 Stat. 356; Pub. L. 110–172, §11(a)(17)(A), Dec. 29, 2007, 121 Stat. 2486; Pub. L. 111–325, title II, §201(c), title III, §§301(a)(1), (b), 302(a), (b)(1), 303(a), 308(a)–(b)(2), 309(a), (b), title V, §502(a), Dec. 22, 2010, 124 Stat. 3541, 3542, 3547, 3548, 3550–3552, 3554.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 271; July 11, 1956, ch. 573, §2(a), 70 Stat. 530; Pub. L. 85–866, title I, §§39(a), 101(a), (b), Sept. 2, 1958, 72 Stat. 1638, 1674; Pub. L. 86–779, §10(b)(2), (3), Sept. 14, 1960, 74 Stat. 1009; Pub. L. 88–272, title II, §229(a)(1), (2), (b), Feb. 26, 1964, 78 Stat. 99; Pub. L. 91–172, title V, §511(c)(2), Dec. 30, 1969, 83 Stat. 637; Pub. L. 94–455, title XIV, §1402(b)(1)(N), (2), title XIX, §§1901(a)(110)(A), (B)(i), (C), (b)(1)(V), (6)(B), (33)(I), (J), (N), 1906(b)(13)(A), title XXI, §2137(a)–(c), Oct. 4, 1976, 90 Stat. 1732, 1783, 1792, 1794, 1801, 1802, 1834, 1930, 1931; Pub. L. 95–600, title III, §§301(b)(11), 362(c), title VII, §701(s)(2), Nov. 6, 1978, 92 Stat. 2822, 2851, 2911; Pub. L. 96–222, title I, §104(a)(3)(B), Apr. 1, 1980, 94 Stat. 215; Pub. L. 97–424, title V, §547(b)(2), Jan. 6, 1983, 96 Stat. 2199; Pub. L. 98–369, div. A, title I, §55(a), title X, §§1001(b)(11), (e), 1071(a)(2)–(4), (b)(1), July 18, 1984, 98 Stat. 571, 1011, 1012, 1049, 1050, 1052; Pub. L. 99–514, title III, §311(b)(1), title VI, §§631(e)(11), 651(b)(1)(A), (2), (3), 655(a)(1), (2), title XI, §1173(b)(1)(B), title XV, §1511(c)(6), title XVIII, §§1804(c)(1)–(5), 1878(j), Oct. 22, 1986, 100 Stat. 2219, 2274, 2296, 2298, 2299, 2515, 2745, 2799, 2800, 2905; Pub. L. 100–647, title I, §§1006(l)(1)(A), (3), (4), (7)–(10), 1011B(h)(4), 1018(p), Nov. 10, 1988, 102 Stat. 3413–3415, 3491, 3585; Pub. L. 101–239, title VII, §7204(b)(1), (c)(1), Dec. 19, 1989, 103 Stat. 2334, 2335; Pub. L. 103–66, title XIII, §13221(c)(1), Aug. 10, 1993, 107 Stat. 477; Pub. L. 104–188, title I, §1602(b)(3), Aug. 20, 1996, 110 Stat. 1833; Pub. L. 105–34, title XI, §1122(c)(2), (3), title XII, §1254(b)(2), Aug. 5, 1997, 111 Stat. 977, 1033; Pub. L. 106–170, title V, §566(a)(1), (c), Dec. 17, 1999, 113 Stat. 1950; Pub. L. 109–222, title V, §505(c)(1), May 17, 2006, 120 Stat. 356; Pub. L. 110–172, §11(a)(17)(A), Dec. 29, 2007, 121 Stat. 2486; Pub. L. 111–325, title II, §201(c), title III, §§301(a)(1), (b), 302(a), (b)(1), 303(a), 308(a)–(b)(2), 309(a), (b), title V, §502(a), Dec. 22, 2010, 124 Stat. 3541, 3542, 3547, 3548, 3550–3552, 3554.)
 
 #### References in Text
 
@@ -526,23 +526,23 @@ Interest on certain loans used to acquire employer securities.—For purposes of
 
 Subsec. (f). Pub. L. 101–239, §7204(b)(1), added subsec. (f).
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–647, §1006(<i>l</i>)(8), inserted at end “The Secretary may waive the requirements of paragraph (1) for any taxable year if the regulated investment company establishes to the satisfaction of the Secretary that it was unable to meet such requirements by reason of distributions previously made to meet the requirements of section 4982.”
+<b>1988</b>—Subsec. (a). Pub. L. 100–647, §1006(l)(8), inserted at end “The Secretary may waive the requirements of paragraph (1) for any taxable year if the regulated investment company establishes to the satisfaction of the Secretary that it was unable to meet such requirements by reason of distributions previously made to meet the requirements of section 4982.”
 
-Subsec. (b)(3)(C). Pub. L. 100–647, §1006(<i>l</i>)(4), substituted “net capital loss or net long-term capital loss” for “net capital loss” in two places in third sentence, and “computing the taxable income of the regulated investment company” for “computing regulated investment company taxable income” in fourth sentence.
+Subsec. (b)(3)(C). Pub. L. 100–647, §1006(l)(4), substituted “net capital loss or net long-term capital loss” for “net capital loss” in two places in third sentence, and “computing the taxable income of the regulated investment company” for “computing regulated investment company taxable income” in fourth sentence.
 
 Subsec. (b)(5)(C). Pub. L. 100–647, §1011B(h)(4), substituted “section” for “paragraph”.
 
-Subsec. (b)(6). Pub. L. 100–647, §1006(<i>l</i>)(1)(A), redesignated par. (6), relating to time certain dividends are taken into account, as (7).
+Subsec. (b)(6). Pub. L. 100–647, §1006(l)(1)(A), redesignated par. (6), relating to time certain dividends are taken into account, as (7).
 
-Subsec. (b)(7). Pub. L. 100–647, §1006(<i>l</i>)(9), substituted “in October, November, or December” for “in December” and “in such a month” for “in such month”, in introductory text, “on December 31 of such calendar year” for “on such date” in subpars. (A) an (B), and “during January” for “before February 1” in last sentence.
+Subsec. (b)(7). Pub. L. 100–647, §1006(l)(9), substituted “in October, November, or December” for “in December” and “in such a month” for “in such month”, in introductory text, “on December 31 of such calendar year” for “on such date” in subpars. (A) an (B), and “during January” for “before February 1” in last sentence.
 
-Pub. L. 100–647, §1006(<i>l</i>)(1)(A), redesignated par. (6), relating to time certain dividends are taken into account, as (7).
+Pub. L. 100–647, §1006(l)(1)(A), redesignated par. (6), relating to time certain dividends are taken into account, as (7).
 
-Subsec. (b)(8). Pub. L. 100–647, §1006(<i>l</i>)(7), added par. (8).
+Subsec. (b)(8). Pub. L. 100–647, §1006(l)(7), added par. (8).
 
-Subsec. (c)(2). Pub. L. 100–647, §1006(<i>l</i>)(3), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “A regulated investment company shall be treated as having sufficient earnings and profits to treat as a dividend any distribution (other than in a redemption to which section 302(a) applies) which is treated as a dividend by such company. The preceding sentence shall not apply to the extent that the amount distributed during any calendar year by the company exceeds the required distribution for such calendar year (as determined under section 4982).”
+Subsec. (c)(2). Pub. L. 100–647, §1006(l)(3), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “A regulated investment company shall be treated as having sufficient earnings and profits to treat as a dividend any distribution (other than in a redemption to which section 302(a) applies) which is treated as a dividend by such company. The preceding sentence shall not apply to the extent that the amount distributed during any calendar year by the company exceeds the required distribution for such calendar year (as determined under section 4982).”
 
-Subsec. (e)(1). Pub. L. 100–647, §§1006(<i>l</i>)(10), 1018(p), amended par. (1) identically, substituting “subsection (a)(2)” for “subsection (a)(3)” in last sentence.
+Subsec. (e)(1). Pub. L. 100–647, §§1006(l)(10), 1018(p), amended par. (1) identically, substituting “subsection (a)(2)” for “subsection (a)(3)” in last sentence.
 
 <b>1986</b>—Subsec. (a)(2), (3). Pub. L. 99–514, §1878(j)(1), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “the investment company complies for such year with regulations prescribed by the Secretary for the purpose of ascertaining the actual ownership of its outstanding stock, and”.
 
@@ -626,7 +626,7 @@ Subsec. (b)(3)(B). Pub. L. 94–455, §1402(b)(2), provided that “9 months” 
 
 Pub. L. 94–455, §1402(b)(1)(N), provided that “6 months” would be changed to “9 months” for taxable years beginning in 1977.
 
-Subsec. (b)(3)(C). Pub. L. 94–455, §1901(a)(110)(A), (b)(33)(J)(ii), substituted “net capital gain” for “excessof the net long-term capital gain over the net short-term capital loss” in two places and struck out provision requiring for purpose of the deduction for capital gains dividends paid, the deductions shall in the case of a taxable year beginning before Jan. 1, 1975, first be made from the amount subject to tax in accordance with section 1201(a)(1)(B), to the extent thereof, and then from the amount subject to tax in accordance with section 1201(a)(1)(A).
+Subsec. (b)(3)(C). Pub. L. 94–455, §1901(a)(110)(A), (b)(33)(J)(ii), substituted “net capital gain” for “excess of the net long-term capital gain over the net short-term capital loss” in two places and struck out provision requiring for purpose of the deduction for capital gains dividends paid, the deductions shall in the case of a taxable year beginning before Jan. 1, 1975, first be made from the amount subject to tax in accordance with section 1201(a)(1)(B), to the extent thereof, and then from the amount subject to tax in accordance with section 1201(a)(1)(A).
 
 Subsec. (b)(3)(D)(iii). Pub. L. 94–455, §1901(a)(110)(B)(i), struck out “by 75 percent of so much of such amounts as equals the amount subject to tax in accordance with section 1201(a)(1)(A) and” after “his long term capital gains,” and “(72 percent in the case of a taxable year beginning after December 31, 1969, and before January 1, 1971)” after “by 70 percent” and substituted “section 1201(a)” for “section 1201(a)(1)(B) or (2)”.
 
@@ -688,9 +688,9 @@ Pub. L. 106–170, title V, §566(d), Dec. 17, 1999, 113 Stat. 1950, provided th
 
 #### Effective Date of 1997 Amendment
 
-Amendment by section 1122(c)(2), (3) of Pub. L. 105–34 applicable to taxable years of United States persons beginning after Dec. 31, 1997, and to taxable years of foreign corporations ending with or within such taxable years of United States persons, see section 1124 of Pub. L. 105–34, set out as a note under section 532 of this title.
+Amendment by section 1122(c)(2), (3) of Pub. L. 105–34 applicable to taxable years of United States persons beginning after Dec. 31, 1997, and to taxable years of foreign corporations ending with or within such taxableyears of United States persons, see section 1124 of Pub. L. 105–34, set out as a note under section 532 of this title.
 
-Section 1263 of title XII of Pub. L. 105–34 provided that: “The amendments made by this part \[probably means subtitle D (§§1251–1263) of title XII of Pub. L. 105–34, amending this section and sections 856 and 857 of this title\] shall apply to taxable years beginning after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title XII, §1263, Aug. 5, 1997, 111 Stat. 1036, provided that: “The amendments made by this part \[probably means subtitle D (§§1251–1263) of title XII of Pub. L. 105–34, amending this section and sections 856 and 857 of this title\] shall apply to taxable years beginning after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 #### Effective Date of 1996 Amendment
 
@@ -702,15 +702,15 @@ Amendment by Pub. L. 103–66 applicable to taxable years beginning on or after 
 
 #### Effective Date of 1989 Amendment
 
-Section 7204(b)(2) of Pub. L. 101–239 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to charges incurred after October 3, 1989, in taxable years ending after such date.”
+Pub. L. 101–239, title VII, §7204(b)(2), Dec. 19, 1989, 103 Stat. 2335, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to charges incurred after October 3, 1989, in taxable years ending after such date.”
 
-Section 7204(c)(2) of Pub. L. 101–239 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to dividends in cases where the stock becomes ex-dividend after the date of the enactment of this Act \[Dec. 19, 1989\].”
+Pub. L. 101–239, title VII, §7204(c)(2), Dec. 19, 1989, 103 Stat. 2335, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to dividends in cases where the stock becomes ex-dividend after the date of the enactment of this Act \[Dec. 19, 1989\].”
 
 #### Effective Date of 1988 Amendment
 
-Section 1006(<i>l</i>)(9) of Pub. L. 100–647 provided that the amendment made by that section is effective with respect to dividends declared in 1988 and subsequent calendar years.
+Pub. L. 100–647, title I, §1006(l)(9), Nov. 10, 1988, 102 Stat. 3414, provided that the amendment made by that section is effective with respect to dividends declared in 1988 and subsequent calendar years.
 
-Amendment by sections 1006(<i>l</i>)(1)(A), (3), (4), (7), (8), (10), 1011B(h)(4), and 1018(p) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by sections 1006(l)(1)(A), (3), (4), (7), (8), (10), 1011B(h)(4), and 1018(p) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -720,23 +720,23 @@ Amendment by section 631(e)(11) of Pub. L. 99–514 applicable to any distributi
 
 Amendment by section 651(b)(1)(A), (2), (3) of Pub. L. 99–514 applicable to calendar years beginning after Dec. 31, 1986, see section 651(d) of Pub. L. 99–514, set out as an Effective Date note under section 4982 of this title.
 
-Section 655(b) of Pub. L. 99–514 provided that: “The amendments made by subsection (a) \[amending this section and sections 853 to 855 of this title\] shall apply to taxable years beginning after the date of the enactment of this Act \[Oct. 22, 1986\].”
+Pub. L. 99–514, title VI, §655(b), Oct. 22, 1986, 100 Stat. 2299, provided that: “The amendments made by subsection (a) \[amending this section and sections 853 to 855 of this title\] shall apply to taxable years beginning after the date of the enactment of this Act \[Oct. 22, 1986\].”
 
-Section 1173(c)(2)(A) of Pub. L. 99–514 provided that: “The amendments made by subsection (b)(1) \[amending this section and former section 133 of this title\] shall apply to loans used to acquire employer securities after the date of the enactment of this Act \[Oct. 22, 1986\], including loans used to refinance loans used to acquire employer securities before such date if such loans were used to acquire employer securities after May 23, 1984.”
+Pub. L. 99–514, title XI, §1173(c)(2)(A), Oct. 22, 1986, 100 Stat. 2516, provided that: “The amendments made by subsection (b)(1) \[amending this section and former section 133 of this title\] shall apply to loans used to acquire employer securities after the date of the enactment of this Act \[Oct. 22, 1986\], including loans used to refinance loans used to acquire employer securities before such date if such loans were used to acquire employer securities after May 23, 1984.”
 
 Amendment by section 1511(c)(6) of Pub. L. 99–514 applicable for purposes of determining interest for periods after Dec. 31, 1986, see section 1511(d) of Pub. L. 99–514, set out as a note under section 47 of this title.
 
-Section 1804(c)(6) of Pub. L. 99–514 provided that: “The amendments made by this subsection \[amending this section\] shall apply to stock with respect to which the taxpayer's holding period begins after March 28, 1985.”
+Pub. L. 99–514, title XVIII, §1804(c)(6), Oct. 22, 1986, 100 Stat. 2800, provided that: “The amendments made by this subsection \[amending this section\] shall apply to stock with respect to which the taxpayer's holding period begins after March 28, 1985.”
 
 Amendment by section 1878(j) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date of 1984 Amendment
 
-Section 55(c) of Pub. L. 98–369 provided that: “The amendments made by this section \[amending this section and section 857 of this title\] shall apply to losses incurred with respect to shares of stock and beneficial interests with respect to which the taxpayer's holding period begins after the date of the enactment of this Act \[July 18, 1984\].”
+Pub. L. 98–369, div. A, title I, §55(c), July 18, 1984, 98 Stat. 572, provided that: “The amendments made by this section \[amending this section and section 857 of this title\] shall apply to losses incurred with respect to shares of stock and beneficial interests with respect to which the taxpayer's holding period begins after the date of the enactment of this Act \[July 18, 1984\].”
 
 Amendment by section 1001(b)(11) of Pub. L. 98–369 applicable to property acquired after June 22, 1984, and before Jan. 1, 1988, see section 1001(e) of Pub. L. 98–369, set out as a note under section 166 of this title.
 
-Section 1071(a)(5) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–369, div. A, title X, §1071(a)(5), July 18, 1984, 98 Stat. 1051, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(A)
 
@@ -764,9 +764,9 @@ Investment companies registering before november 8, 1983.—In the case of any i
 
 &emsp;“(ii) to which the provisions of part I of subchapter M of chapter 1 of the Internal Revenue Code of 1986 applied for its first taxable year beginning after November 8, 1983,
 
-> for purposes of section 852(a)(3)(A) of such Code (as amended by paragraph (3)), the provisions of part I of subchapter M of chapter 1 of such Code shall be treated as applying to such investment company for its first taxable year ending after November 8, 1983. For purposes of the preceding sentence, all members of an affiliated group (as defined in section 1504(a) of such Code) filing a consolidated return shall be treated as 1 taxpayer.”
+> for purposes of section 852(a)(3)(A) of such Code (as amended by paragraph (3)), the provisions of part I of subchapter M of chapter 1 of such Code shall be treatedas applying to such investment company for its first taxable year ending after November 8, 1983. For purposes of the preceding sentence, all members of an affiliated group (as defined in section 1504(a) of such Code) filing a consolidated return shall be treated as 1 taxpayer.”
 
-Section 1071(b)(2) of Pub. L. 98–369 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to taxable years beginning after December 31, 1978.”
+Pub. L. 98–369, div. A, title X, §1071(b)(2), July 18, 1984, 98 Stat. 1052 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to taxable years beginning after December 31, 1978.”
 
 #### Effective Date of 1980 Amendment
 
@@ -782,15 +782,15 @@ Amendment by section 701(s)(2) of Pub. L. 95–600 applicable to taxable years b
 
 #### Effective Date of 1976 Amendment
 
-Section 1402(b)(1) of Pub. L. 94–455 provided that the amendment made by that section is effective with respect to taxable years beginning in 1977.
+Pub. L. 94–455, title XIV, §1402(b)(1), Oct. 4, 1976, 90 Stat. 1731, provided that the amendment made by that section is effective with respect to taxable years beginning in 1977.
 
-Section 1402(b)(2) of Pub. L. 94–455 provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1977.
+Pub. L. 94–455, title XIV, §1402(b)(2), Oct. 4, 1976, 90 Stat. 1732, provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1977.
 
 Amendment by section 1901(a)(110)(A), (C), (b)(1)(V), (6)(B), (33)(I), (J), (N) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as an Effective Date of 1976 Amendment note under section 2 of this title.
 
-Section 1901(a)(110)(B)(ii) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by clause (i) \[amending this section\] shall not be considered to affect the amount of any increase in the basis of stock under the provisions of section 852(b)(3)(D)(iii) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] which is based upon amounts subject to tax under section 1201 of such Code \[section 1201 of this title\] in taxable years beginning before January 1, 1975.”
+Pub. L. 94–455, title XIX, §1901(a)(110)(B)(ii), Oct. 4, 1976, 90 Stat. 1783, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by clause (i) \[amending this section\] shall not be considered to affect the amount of any increase in the basis of stock under the provisions of section 852(b)(3)(D)(iii) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] which is based upon amounts subject to tax under section 1201 of such Code \[section 1201 of this title\] in taxable years beginning before January 1, 1975.”
 
-Section 2137(e) of Pub. L. 94–455 provided that: “The amendments made by this section \[amending this section and sections 103 and 265 of this title\] shall apply to taxable years beginning after December 31, 1975.”
+Pub. L. 94–455, title XXI, §2137(e), Oct. 4, 1976, 90 Stat. 1931, provided that: “The amendments made by this section \[amending this section and sections 103 and 265 of this title\] shall apply to taxable years beginning after December 31, 1975.”
 
 #### Effective Date of 1969 Amendment
 
@@ -798,7 +798,7 @@ Amendment by Pub. L. 91–172 applicable with respect to taxable years beginning
 
 #### Effective Date of 1964 Amendment
 
-Section 229(c) of Pub. L. 88–272 provided that: “The amendments made by subsection (a) \[amending this section and sections 853, 854, and 855 of this title\] shall apply to taxable years of regulated investment companies ending on or after the date of the enactment of this Act \[Feb. 26, 1964\]. The amendment made by subsection (b) \[amending this section\] shall apply to taxable years of regulated investment companies ending after December 31, 1963.”
+Pub. L. 88–272, title II, §229(c), Feb. 26, 1964, 78 Stat. 99, provided that: “The amendments made by subsection (a) \[amending this section and sections 853, 854, and 855 of this title\] shall apply to taxable years of regulated investment companies ending on or after the date of the enactment of this Act \[Feb. 26, 1964\]. The amendment made by subsection (b) \[amending this section\] shall apply to taxable years of regulated investment companies ending after December 31, 1963.”
 
 #### Effective Date of 1960 Amendment
 
@@ -806,13 +806,13 @@ Amendment of section by Pub. L. 86–779 applicable with respect to taxable year
 
 #### Effective Date of 1958 Amendment
 
-Section 39(b) of Pub. L. 85–866 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to taxable years ending after December 31, 1957, but only with respect to shares of stock acquired after December 31, 1957.”
+Pub. L. 85–866, title I, §39(b), Sept. 2, 1958, 72 Stat. 1638, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to taxable years ending after December 31, 1957, but only with respect to shares of stock acquired after December 31, 1957.”
 
-Section 101(c) of Pub. L. 85–866 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to taxable years of regulated investment companies beginning on or after March 1, 1958.”
+Pub. L. 85–866, title I, §101(c), Sept. 2, 1958, 72 Stat. 1674, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to taxable years of regulated investment companies beginning on or after March 1, 1958.”
 
 #### Effective Date of 1956 Amendment
 
-Section 2(b) of act July 11, 1956, provided that: “The amendment made by this section \[amending this section\] shall apply only with respect to taxable years of regulated investment companies beginning after December 31, 1956.”
+Act July 11, 1956, ch. 573, §2(b), 70 Stat. 530, provided that: “The amendment made by this section \[amending this section\] shall apply only with respect to taxable years of regulated investment companies beginning after December 31, 1956.”
 
 #### Plan Amendments Not Required Until January 1, 1989
 

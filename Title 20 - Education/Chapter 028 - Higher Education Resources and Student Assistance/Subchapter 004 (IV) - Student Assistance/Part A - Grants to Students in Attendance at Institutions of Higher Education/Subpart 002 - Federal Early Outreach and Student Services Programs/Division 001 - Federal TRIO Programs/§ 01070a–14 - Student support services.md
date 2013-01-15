@@ -74,7 +74,7 @@ A project assisted under this section may provide services such as—
 
 #### (3) Determination of need
 
-&emsp;A grant provided to a student under paragraph (1) shall not be considered in determining that student's need for grant or work assistance under this subchapter and part C of subchapter I of chapter 34 of title 42, except that in no case shall the total amount of student financial assistance awarded to a student under this subchapter exceed that student's cost of attendance, as defined in section 1087<i>ll</i> of this title.
+&emsp;A grant provided to a student under paragraph (1) shall not be considered in determining that student's need for grant or work assistance under this subchapter and part C of subchapter I of chapter 34 of title 42, except that in no case shall the total amount of student financial assistance awarded to a student under this subchapter exceed that student's cost of attendance, as defined in section 1087ll of this title.
 
 #### (4) Matching required
 
@@ -100,7 +100,7 @@ In approving applications for projects under this section for any fiscal year, t
 
 &emsp;(2) require an assurance that the remaining students participating in the project proposed to be carried out under any application be low-income individuals, first generation college students, or individuals with disabilities;
 
-&emsp;(3) require an assurance that not less than one-third of the individuals with disabilities participating in the project be low-income individuals;
+&emsp;(3) require an assurance that not less than one-third of the individuals with disabilitiesparticipating in the project be low-income individuals;
 
 &emsp;(4) require that there be a determination by the institution, with respect to each participant in such project, that the participant has a need for academic support in order to pursue successfully a program of education beyond secondary school;
 

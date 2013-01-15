@@ -8,7 +8,7 @@ No State other than the home State of an insured may require any premium tax pay
 
 #### (1) In general
 
-&emsp;The States may enter into a compact or otherwise establish procedures to allocateamong the States the premium taxes paid to an insured's home State described in subsection (a).
+&emsp;The States may enter into a compact or otherwise establish procedures to allocate among the States the premium taxes paid toan insured's home State described in subsection (a).
 
 #### (2) Effective date
 
@@ -34,7 +34,7 @@ To facilitate the payment of premium taxes among the States, an insured's home S
 
 #### Effective Date
 
-Pub. L. 111–203, title V, §512, July 21, 2010, 124 Stat. 1589, provided that: “Except as otherwise specifically provided in this subtitle \[see Short Title note above\], this subtitle shall take effect upon the expiration of the 12-month period beginning on the date of the enactment of this subtitle \[July 21, 2010\].”
+Pub. L. 111–203, title V, §512, July 21, 2010, 124 Stat. 1589, provided that: “Except as otherwise specifically provided in this subtitle \[see Short Title note below\], this subtitle shall take effect upon the expiration of the 12-month period beginning on the date of the enactment of this subtitle \[July 21, 2010\].”
 
 #### Short Title
 

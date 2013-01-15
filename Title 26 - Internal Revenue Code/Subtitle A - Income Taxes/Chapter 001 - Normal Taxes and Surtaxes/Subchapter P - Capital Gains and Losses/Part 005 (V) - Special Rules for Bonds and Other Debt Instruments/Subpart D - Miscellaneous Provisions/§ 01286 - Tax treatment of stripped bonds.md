@@ -146,7 +146,7 @@ Amendment by Pub. L. 108–357 applicable to purchases and dispositions after Oc
 
 #### Effective Date of 1988 Amendment
 
-Section 1018(q)(4)(B) of Pub. L. 100–647 provided that:
+Pub. L. 100–647, title I, §1018(q)(4)(B), Nov. 10, 1988, 102 Stat. 3586, provided that:
 
 “(i) Except as provided in clause (ii), the amendment made by subparagraph (A) \[amending this section\] shall apply to any purchase or sale after June 10, 1987, of any stripped tax-exempt obligation or stripped coupon from such an obligation.
 
@@ -162,7 +162,7 @@ Section 1018(q)(4)(B) of Pub. L. 100–647 provided that:
 
 Amendment by section 1803(a)(13)(B) of Pub. L. 99–514 applicable to obligations acquired after Oct. 22, 1986, see section 1803(a)(13)(C) of Pub. L. 99–514, set out as a note under section 1276 of this title.
 
-Section 1879(s)(2) of Pub. L. 99–514 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to any purchase or sale of any stripped tax-exempt obligation or stripped coupon from such an obligation after the date of the enactment of this Act \[Oct. 22, 1986\].”
+Pub. L. 99–514, title XVIII, §1879(s)(2), Oct. 22, 1986, 100 Stat. 2913, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to any purchase or sale of any stripped tax-exempt obligation or stripped coupon from such an obligation after the date of the enactment of this Act \[Oct. 22, 1986\].”
 
 #### Effective Date
 

@@ -38,7 +38,7 @@ Budget Activity Defined.—In this section, the term “O\&M budget activity” 
 
 <b>2011</b>—Pub. L. 112–81, §1064(4)(B)(i), amended section catchline generally, substituting “Biannual reports on allocation of funds within operation and maintenance budget subactivities” for “Quarterly reports on allocation of funds within operation and maintenance budget subactivities”.
 
-Subsec. (a). Pub. L. 112–81, §1064(4)(A)(i), substituted “Biannual Report” for “Quarterly Report” in headingand “a biannual report” for “a quarterly report” and “two fiscal-year quarters” for “fiscal-year quarter” in text.
+Subsec. (a). Pub. L. 112–81, §1064(4)(A)(i), substituted “Biannual Report” for “Quarterly Report” in heading and “a biannual report” for “a quarterly report” and “two fiscal-year quarters” for “fiscal-year quarter” in text.
 
 Subsec. (c). Pub. L. 112–81, §1064(4)(A)(ii), struck out par. (1) designation before “If, in the report”, substituted “the second two fiscal-year quarters of a fiscal year” for “a quarter of a fiscal year after the first quarter of that fiscal year” and “the first two fiscal-year quarters of that fiscal year” for “the first quarter of that fiscal year”, and struck out par. (2) which read as follows: “If, in the report under this section for a quarter of a fiscal year after a quarter for which the report under this section includes a notice under paragraph (1), an amount shown under subsection (b) for a subactivity is different by more than $15,000,000 from the corresponding amount for that subactivity in the most recent report that includes a notice under paragraph (1) or this paragraph, the Secretary shall include in the report notice of that difference.”
 

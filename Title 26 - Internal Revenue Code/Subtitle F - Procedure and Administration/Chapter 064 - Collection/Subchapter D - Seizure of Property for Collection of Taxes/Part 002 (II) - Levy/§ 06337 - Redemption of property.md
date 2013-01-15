@@ -12,7 +12,7 @@ Any person whose property has been levied upon shall have the right to pay the a
 
 #### (2) Price
 
-&emsp;Such property or tract of property shall be permitted to be redeemed upon payment tothe purchaser, or in case he cannot be found in the county in which the property to be redeemed is situated, then to the Secretary, for the use of the purchaser, his heirs, or assigns, the amount paid by such purchaser and interest thereon at the rate of 20 percent per annum.
+&emsp;Such property or tract of property shall be permitted to be redeemed upon payment to the purchaser, or in case he cannot be found in the county in which the property to be redeemed is situated, then to the Secretary, for the use of the purchaser, his heirs, or assigns, the amount paid by such purchaser and interest thereon at the rate of 20 percent per annum.
 
 #### (c) Record
 
@@ -30,7 +30,7 @@ When any lands sold are redeemed as provided in this section, the Secretary shal
 
 #### Effective Date of 1982 Amendment
 
-Section 349A(b) of Pub. L. 97–248 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to property sold after the date of the enactment of this Act \[Sept. 3, 1982\].”
+Pub. L. 97–248, title III, §349A(b), Sept. 3, 1982, 96 Stat. 639, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to property sold after the date of the enactment of this Act \[Sept. 3, 1982\].”
 
 #### Effective Date of 1966 Amendment
 

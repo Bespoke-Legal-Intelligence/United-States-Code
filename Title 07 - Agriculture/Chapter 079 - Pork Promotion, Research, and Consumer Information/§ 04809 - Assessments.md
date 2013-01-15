@@ -2,7 +2,7 @@
 
 #### (a) Collection and remission to Board; persons required to pay
 
-(1) The order shall provide that, not later than 30 days after the effective date of the order under section 4805(c) of this title an assessment shall be paid, in the manner prescribed in the order. Upon the appointment of the Board, the assessments held in escrow shall be distributed to the Board. Except as provided in paragraph (3), assessments shall be payable by—
+(1) The order shall provide that, not later than 30 days after the effective date of the order under section 4805(c) of this title an assessment shall be paid, in the manner prescribed in the order. Upon the appointment of the Board, the assessments held in escrow shall be distributedto the Board. Except as provided in paragraph (3), assessments shall be payable by—
 
 &emsp;(A) each producer for each porcine animal described in subparagraph (A) or (C) of section 4802(8) of this title produced in the United States that is sold or slaughtered for sale;
 
@@ -50,7 +50,7 @@ Funds collected by the Board from assessments collected under this section shall
 
 &emsp;&emsp;(ii) a percentage applicable to such State association determined by the Delegate Body, but in no event less than sixteen and one-half percent, or
 
-&emsp;(B) in the case of a State association that was conducting a pork promotion program inthe period from July 1, 1984, to June 30, 1985, if greater than (A) an amount of funds equal to the amount of funds that would have been collected in such State pursuant to the pork promotion program in existence in such State from July 1, 1984, to June 30, 1985, had the porcine animals, subject to assessment and to which no refund was received in such State in each year following December 23, 1985, been produced from July 1, 1984, to June 30, 1985, and been subject to the rates of assessments then in effect and the rate of return then in effect from each State to the Council described in paragraph (2)(A), and other national entities involved in pork promotion, research and consumer information.
+&emsp;(B) in the case of a State association that was conducting a pork promotion program in the period from July 1, 1984, to June 30, 1985, if greater than (A) an amount of funds equal to the amount of funds that would have been collected in such State pursuant to the pork promotion program in existence in such State from July 1, 1984, to June 30, 1985, had the porcine animals, subject to assessment and to which no refund was received in such State in each year following December 23, 1985, been produced from July 1, 1984, to June 30, 1985, and been subject to the rates of assessments then in effect and the rate of return then in effect from each State to the Council described in paragraph (2)(A), and other national entities involved in pork promotion, research and consumer information.
 
 &emsp;(C) A State association shall use such funds and any proceeds from the investment of such funds for financing—
 
@@ -128,7 +128,7 @@ The Board, with the approval of the Secretary, may invest funds collected throug
 
 #### References in Text
 
-This chapter, referred to in subsec. (c)(3)(B)(i), (iv), was in the original “this title” and was translated asreading “this subtitle”, meaning subtitle B of title XVI of Pub. L. 99–198, which enacted this chapter, as the probable intent of Congress.
+This chapter, referred to in subsec. (c)(3)(B)(i), (iv), was in the original “this title” and was translated as reading “this subtitle”, meaning subtitle B of title XVI of Pub. L. 99–198, which enacted this chapter, as the probable intent of Congress.
 
 #### Amendments
 

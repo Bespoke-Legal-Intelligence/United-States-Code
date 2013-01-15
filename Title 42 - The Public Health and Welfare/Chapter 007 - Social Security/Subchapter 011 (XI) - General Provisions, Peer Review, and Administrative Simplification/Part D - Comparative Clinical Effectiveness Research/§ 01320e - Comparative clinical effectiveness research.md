@@ -64,7 +64,7 @@ The purpose of the Institute is to assist patients, clinicians, purchasers, and 
 
 #### (A) Research
 
-&emsp;&emsp;The Institute shall carry out the research project agenda established under paragraph\(1)(B) in accordance with the methodological standards adopted under paragraph (9) using methods, including the following:
+&emsp;&emsp;The Institute shall carry out the research project agenda established under paragraph (1)(B) in accordance with the methodological standards adopted under paragraph (9) using methods, including the following:
 
 &emsp;&emsp;&emsp;(i) Systematic reviews and assessments of existing and future research and evidence including original research conducted subsequent to March 23, 2010.
 
@@ -96,7 +96,7 @@ The purpose of the Institute is to assist patients, clinicians, purchasers, and 
 
 &emsp;&emsp;&emsp;&emsp;(II) comply with the methodological standards adopted under paragraph (9) with respect to such research;
 
-&emsp;&emsp;&emsp;&emsp;(III) consult with the expert advisory panels for clinical trials and rare disease appointed under clauses (ii) and (iii), respectively, of paragraph (4)(A);
+&emsp;&emsp;&emsp;&emsp;(III) consult with the expert advisory panels for clinical trials and rare diseaseappointed under clauses (ii) and (iii), respectively, of paragraph (4)(A);
 
 &emsp;&emsp;&emsp;&emsp;(IV) subject to clause (iv), permit a researcher who conducts original research, as described in subparagraph (A)(ii), under the contract for the agency, instrumentality, or other entity to have such research published in a peer-reviewed journal or other publication, as long as the researcher enters into a data use agreement with the Institute for use of the data from the original research, as appropriate;
 
@@ -134,7 +134,7 @@ The purpose of the Institute is to assist patients, clinicians, purchasers, and 
 
 #### (B) Use of data
 
-&emsp;&emsp;The Institute shall only use data provided to the Institute under subparagraph (A) inaccordance with laws and regulations governing the release and use of such data, including applicable confidentiality and privacy standards.
+&emsp;&emsp;The Institute shall only use data provided to the Institute under subparagraph (A) in accordance with laws and regulations governing the release and use of such data, including applicable confidentiality and privacy standards.
 
 #### (4) Appointing expert advisory panels
 
@@ -288,7 +288,7 @@ The purpose of the Institute is to assist patients, clinicians, purchasers, and 
 
 #### (3) Terms; vacancies
 
-&emsp;A member of the Board shall be appointed for a term of 6 years, except with respect to the members first appointed, whose terms of appointment shall be staggered evenly over 2-year increments. No individual shall be appointed to the Board for more than 2 terms. Vacancies shall be filled in the same manner as the original appointment was made.
+&emsp;A member of the Board shall be appointed for a term of 6 years, except with respect tothe members first appointed, whose terms of appointment shall be staggered evenly over 2-year increments. No individual shall be appointed to the Board for more than 2 terms. Vacancies shall be filled in the same manner as the original appointment was made.
 
 #### (4) Chairperson and Vice-Chairperson
 
@@ -376,7 +376,7 @@ The Institute shall establish procedures to ensure that the following requiremen
 
 #### (i) Rules
 
-The Institute,<sup>7</sup> its Board or staff, shall be prohibited from accepting gifts, bequeaths,<sup>8</sup> or donations of services or property. In addition, the Institute shall be prohibited from establishing acorporation or generating revenues from activities other than as provided under this section.
+The Institute,<sup>7</sup> its Board or staff, shall be prohibited from accepting gifts, bequeaths,<sup>8</sup> or donations of services or property. In addition, the Institute shall be prohibited from establishing a corporation or generating revenues from activities other than as provided under this section.
 
 #### (j) Rules of construction
 

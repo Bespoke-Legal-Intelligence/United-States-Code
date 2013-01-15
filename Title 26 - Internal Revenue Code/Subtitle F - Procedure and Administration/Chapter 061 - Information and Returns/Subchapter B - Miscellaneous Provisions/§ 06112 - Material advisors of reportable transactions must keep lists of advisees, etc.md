@@ -50,13 +50,13 @@ Subsec. (c). Pub. L. 108–357, §815(b)(3)(A), redesignated subsec. (c) as (b).
 
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–135 effective as if included in the provision of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
+Amendment by Pub. L. 109–135 effective as if included in the provision of the American Jobs Creation Act of2004, Pub. L. 108–357, to which such amendment relates, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–357 applicable to transactions with respect to which material aid, assistance,or advice referred to in section 6111(b)(1)(A)(i) of this title is provided after Oct. 22, 2004, see section 815(c) of Pub. L. 108–357, set out as a note under section 6111 of this title.
+Amendment by Pub. L. 108–357 applicable to transactions with respect to which material aid, assistance, or advice referred to in section 6111(b)(1)(A)(i) of this title is provided after Oct. 22, 2004, see section 815(c) of Pub. L. 108–357, set out as a note under section 6111 of this title.
 
 #### Effective Date
 
-Section 142(d) of Pub. L. 98–369 provided that: “The amendments made by this section \[enacting this section and section 6708 of this title and renumbering former section 6112 as section 6113 of this title\] shall apply to any interest which is first sold to any investor after August 31, 1984.”
+Pub. L. 98–369, div. A, title I, §142(d), July 18, 1984, 98 Stat. 682, provided that: “The amendments made by this section \[enacting this section and section 6708 of this title and renumbering former section 6112 as section 6113 of this title\] shall apply to any interest which is first sold to any investor after August 31, 1984.”
 

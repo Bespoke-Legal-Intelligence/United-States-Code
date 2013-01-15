@@ -26,7 +26,7 @@ Changes in arrangement and phraseology were made.
 
 #### Effective Date of 1984 Amendment
 
-Section 411 of Pub. L. 98–620 provided that:
+Pub. L. 98–620, title IV, §411, Nov. 8, 1984, 98 Stat. 3362, provided that:
 
 “(a) The amendments made by this subtitle \[subtitle B (§§404–411) of title IV of Pub. L. 98–620, amending this section and sections 90, 93, 112, 124, and 126 of this title and enacting provisions set out as notes under sections 1, 90, 93, and 124 of this title\] shall take effect on January 1, 1985.
 

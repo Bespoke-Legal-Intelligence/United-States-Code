@@ -14,7 +14,7 @@ For the purposes of this chapter—
 
 (f) The term “hazardous substance” means:
 
-&emsp;(1)(A) Any substance or mixture of substances which (i) is toxic, (ii) is corrosive, (iii) is an irritant, (iv) is a strong sensitizer, (v) is flammable or combustible, or (vi) generates pressure through decomposition, heat, or other means, if such substances or mixture of substances may cause substantial personal injury or substantial illness during or as a proximate result of any customary or reasonably foreseeable handling or use, including reasonably foreseeable ingestion by children.
+&emsp;(1)(A) Any substance or mixture of substances which (i) is toxic, (ii) is corrosive, (iii) is an irritant, (iv) is a strong sensitizer, (v) is flammable or combustible, or (vi) generates pressure through decomposition, heat, or other means, if such substance or mixture of substances may cause substantial personal injury or substantial illness during or as a proximate result of any customary or reasonably foreseeable handling or use, including reasonably foreseeable ingestion by children.
 
 &emsp;(B) Any substances which the Commission by regulation finds, pursuant to the provisions of section 1262(a) of this title, meet the requirements of subparagraph (1)(A) of this paragraph.
 
@@ -40,7 +40,7 @@ For the purposes of this chapter—
 
 (k) The term “strong sensitizer” means a substance which will cause on normal living tissue through an allergic or photodynamic process a hypersensitivity which becomes evident on reapplication of the same substance and which is designated as such by the Commission. Before designating any substance as a strong sensitizer, the Commission, upon consideration of the frequency of occurrence and severity of the reaction, shall find that the substance has a significant potential for causing hypersensitivity.
 
-(<i>l</i>)(1) The terms “extremely flammable”, “flammable”, and “combustible” as applied to any substance, liquid, solid, or the content of a self-pressurized container shall be defined by regulations issued by the Commission.
+(l)(1) The terms “extremely flammable”, “flammable”, and “combustible” as applied to any substance, liquid, solid, or the content of a self-pressurized container shall be defined by regulations issued by the Commission.
 
 (2) The test methods found by the Commission to be generally applicable for defining the flammability or combustibility characteristics of any such substance shall also be specified in such regulations.
 
@@ -52,7 +52,7 @@ For the purposes of this chapter—
 
 (n) The term “label” means a display of written, printed, or graphic matter upon the immediate container of any substance or, in the case of an article which is unpackaged or is not packaged in an immediate container intended or suitable for delivery to the ultimate consumer, a display of such matter directly upon the article involved or upon a tag or other suitable material affixed thereto; and a requirement made by or under authority of this chapter that any word, statement, or other information appear on the label shall not be considered to be complied with unless such word, statement, or other information also appears (1) on the outside container or wrapper, if any there be, unless it is easily legible through the outside container or wrapper and (2) on all accompanying literature where there are directions for use, written or otherwise.
 
-(<i>o</i>) The term “immediate container” does not include package liners.
+(o) The term “immediate container” does not include package liners.
 
 (p) The term “misbranded hazardous substance” means a hazardous substance (including a toy, or other article intended for use by children, which is a hazardous substance, or which bears or contains a hazardous substance in such manner as to be susceptible of access by a child to whom such toy or other article is entrusted) intended, or packaged in a form suitable, for use in the household or by children, if the packaging or labeling of such substance is in violation of an applicable regulation issued pursuant to section 1472 or 1473 of this title or if such substance, except as otherwise provided by or pursuant to section 1262 of this title, fails to bear a label—
 
@@ -60,15 +60,15 @@ For the purposes of this chapter—
 
 &emsp;(2) on which any statements required under subparagraph (1) of this paragraph are located prominently and are in the English language in conspicuous and legible type in contrast by typography, layout, or color with other printed matter on the label.
 
-> The term “misbranded hazardous substance” also includes a household substance as defined in section 1471(2)(d) of this title if it is a substance described in paragraph (1) of subsection (f) of this section and its packaging or labeling is in violation of an applicable regulation issued pursuant to section 1472 or 1473 of this title.
+> The term “misbranded hazardous substance” also includes a household substance as defined in section 1471(2)(D) <sup>1</sup> of this title if it is a substance described in paragraph (1) of subsection (f) of this section and its packaging or labeling is in violation of an applicable regulation issued pursuant to section 1472 or 1473 of this title.
 
-(q)(1) The term “banned hazardous substance” means (A) any toy, or other article intended for use by children, which is a hazardous substance, or which bears or contains a hazardous substance in such manner as to be susceptible of access by a child to whom such toy or other article is entrusted; or (B) any hazardous substance intended, or packaged in a form suitable, for use in the household, which the Commission by regulation classifies as a “banned hazardous substance” on the basis of a finding that, notwithstanding such cautionary labeling as is or may be required under this chapter for that substance, the degree or nature of the hazard involved in the presence or use of such substance in households is such that the objective of the protection of the public health and safety can be adequately served only by keeping such substance, when so intended or packaged, out of the channels of interstate commerce: <i>Provided</i>, That the Commission, by regulation, (i) shall exemptfrom clause (A) of this paragraph articles, such as chemical sets, which by reason of their functional purpose require the inclusion of the hazardous substance involved or necessarily present an electrical, mechanical, or thermal hazard, and which bear labeling giving adequate directions and warnings for safe use and are intended for use by children who have attained sufficient maturity, and may reasonably be expected, to read and heed such directions and warnings, and (ii) shall exempt from clause (A), and provide for the labeling of, common fireworks (including toy paper caps, cone fountains, cylinder fountains, whistles without report, and sparklers) to the extent that it determines that such articles can be adequately labeled to protect the purchasers and users thereof.
+(q)(1) The term “banned hazardous substance” means (A) any toy, or other article intended for use by children, which is a hazardous substance, or which bears or contains a hazardous substance in such manner as to be susceptible of access by a child to whom such toy or other article is entrusted; or (B) any hazardous substance intended, or packaged in a form suitable, for use in the household, which the Commission by regulation classifies as a “banned hazardous substance” on the basis of a finding that, notwithstanding such cautionary labeling as is or maybe required under this chapter for that substance, the degree or nature of the hazard involved in the presence or use of such substance in households is such that the objective of the protection of the public health and safety can be adequately served only by keeping such substance, when so intended or packaged, out of the channels of interstate commerce: <i>Provided</i>, That the Commission, by regulation, (i) shall exempt from clause (A) of this paragraph articles, such as chemical sets, which by reason of their functional purpose require the inclusion of the hazardous substance involved or necessarily present an electrical, mechanical, or thermal hazard, and which bear labeling giving adequate directions and warnings for safe use and are intended for use by children who have attained sufficient maturity, and may reasonably be expected, to read and heed such directions and warnings, and (ii) shall exempt from clause (A), and provide for the labeling of, common fireworks (including toy paper caps, cone fountains, cylinder fountains, whistles without report, and sparklers) to the extent that it determines that such articles can be adequately labeled to protect the purchasers and users thereof.
 
 (2) Proceedings for the issuance, amendment, or repeal of regulations pursuant to clause (B) of subparagraph (1) of this paragraph shall be governed by the provisions of subsections (f) through (i) of section 1262 of this title, except that if the Commission finds that the distribution for household use of the hazardous substance involved presents an imminent hazard to the public health, it may by order published in the Federal Register give notice of such finding, and thereupon such substance when intended or offered for household use, or when so packaged as to be suitable for such use, shall be deemed to be a “banned hazardous substance” pending the completion of proceedings relating to the issuance of such regulations.
 
 (r) An article may be determined to present an electrical hazard if, in normal use or when subjected to reasonably foreseeable damage or abuse, its design or manufacture may cause personal injury or illness by electric shock.
 
-(s) An article may be determined to present a mechanical hazard if, in normal use or when subjected to reasonably foreseeable damage or abuse, its design or manufacture presents an unreasonable risk of personal injury or illness (1) from fracture, fragmentation, or disassembly of the article, (2) from propulsion of the article (or any part or accessory thereof), (3) from points or other protrusions, surfaces, edges, openings, or closures, (4) from moving parts, (5) from lack of insufficiency of controls to reduce or stop motion, (6) as a result of self-adhering characteristics of the article, (7) because the article (or any part or accessory thereof) may be aspirated or ingested, (8) because of instability, or (9) because of any other aspect of the article's design or manufacture.
+(s) An article may be determined to present a mechanical hazard if, in normal use or when subjected to reasonably foreseeable damage or abuse, its design or manufacture presents an unreasonable risk of personal injury or illness (1) from fracture, fragmentation, or disassembly of the article, (2) from propulsion of the article (or any part or accessory thereof), (3) from points or other protrusions, surfaces, edges, openings, or closures, (4) from moving parts, (5) from lack or insufficiency of controls to reduce or stop motion, (6) as a result of self-adhering characteristics of the article, (7) because the article (or any part or accessory thereof) may be aspirated or ingested, (8) because of instability, or (9) because of any other aspect of the article's design or manufacture.
 
 (t) An article may be determined to present a thermal hazard if, in normal use or when subjected to reasonably foreseeable damage or abuse, its design or manufacture presents an unreasonable risk of personal injury or illness because of heat as from heated parts, substances, or surfaces.
 
@@ -86,6 +86,8 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (f)(2), is act 
 
 The Atomic Energy Act of 1954, as amended, referred to in subsec. (f)(3), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended, which is classified generally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
 
+Section 1471(2)(D) of this title, referred to in subsec. (p), was redesignated section 1471(2)(C) by Pub. L. 94–284, §3(a)(2), May 11, 1976, 90 Stat. 503.
+
 #### Amendments
 
 <b>2008</b>—Subsec. (c). Pub. L. 110–314, §204(b)(4)(A), added subsec. (c) and struck out former subsec. (c) which read as follows: “The term ‘Department’ means the Department of Health, Education, and Welfare.”
@@ -100,7 +102,7 @@ Subsec. (q)(2). Pub. L. 110–314, §204(b)(2), substituted “Proceedings for t
 
 <b>1986</b>—Subsec. (f)(1)(E). Pub. L. 99–339 added subpar. (E).
 
-<b>1978</b>—Subsec. (<i>l</i>). Pub. L. 95–631 transferred the duties hereunder to the Commission from the Secretary; incorporated in provisions designated par. (1) existing text, authorized regulations to be applicable to liquids, and struck out definition of “extremely flammable” as substance with flash point at or below twenty degrees Fahrenheit and “flammable” as substance with a flash point of above twenty degrees to and including eighty degrees Fahrenheit, as determined by the Tagliabue Open Cup Tester; incorporated in provisions designated par. (2) existing text extended to liquids covered in term “substance”; added par. (3); and incorporated in provisions designated par. (4) existing text applicable until superseded by regulation.
+<b>1978</b>—Subsec. (l). Pub. L. 95–631 transferred the duties hereunder to the Commission from the Secretary; incorporated in provisions designated par. (1) existingtext, authorized regulations to be applicable to liquids, and struck out definition of “extremely flammable” as substance with flash point at or below twenty degrees Fahrenheit and “flammable” as substance with a flash point of above twenty degrees to and including eighty degrees Fahrenheit, as determined by the Tagliabue Open Cup Tester; incorporated in provisions designated par. (2) existing text extended to liquids covered in term “substance”; added par. (3); and incorporated in provisions designated par. (4) existing text applicable until superseded by regulation.
 
 <b>1976</b>—Subsec. (f)(2). Pub. L. 94–284 inserted “nor to tobacco and tobacco products,” after “or refrigeration system of a house”.
 
@@ -112,7 +114,7 @@ Subsec. (q)(2). Pub. L. 110–314, §204(b)(2), substituted “Proceedings for t
 
 Subsec. (f)(1)(D). Pub. L. 91–113, §2(a), added subsec. (f)(1)(D).
 
-Subsec. (<i>l</i>). Pub. L. 91–113, §3(b), inserted definition of term “combustible” and expanded references to “flammability” and “flammable” to include “combustibility” and “combustible”, respectively.
+Subsec. (l). Pub. L. 91–113, §3(b), inserted definition of term “combustible” and expanded references to “flammability” and “flammable” to include “combustibility” and “combustible”, respectively.
 
 Subsec. (p)(1)(E). Pub. L. 91–113, §3(c), inserted “Combustible” to the enumerated affirmative statements of the principal hazard or hazards required to be stated on the label of a hazardous substance.
 
@@ -130,7 +132,7 @@ Subsec. (q). Pub. L. 89–756, §3(a), added subsec. (q).
 
 #### Effective Date of 1986 Amendment
 
-Section 109(d)(3) of Pub. L. 99–339 provided that: “The amendments made by this subsection \[amending this section and section 1263 of this title\] shall become effective 24 months after the enactment of this Act \[June 19, 1986\].”
+Pub. L. 99–339, title I, §109(d)(3), June 19, 1986, 100 Stat. 653, provided that: “The amendments made by this subsection \[amending this section and section 1263 of this title\] shall become effective 24 months after the enactment of this Act \[June 19, 1986\].”
 
 #### Effective Date of 1972 Amendment
 
@@ -142,7 +144,7 @@ Amendment by Pub. L. 91–601 effective Dec. 30, 1970, and regulations establish
 
 #### Effective Date of 1969 Amendment
 
-Section 5 of Pub. L. 91–113 provided that: “The amendments made by this Act \[see Short Title of 1969 Amendment note below\] shall take effect on the sixtieth day following the date of the enactment of this Act \[Nov. 6, 1969\].”
+Pub. L. 91–113, §5, Nov. 6, 1969, 83 Stat. 190, provided that: “The amendments made by this Act \[see Short Title of 1969 Amendment note below\] shall take effect on the sixtieth day following the date of the enactment of this Act \[Nov. 6, 1969\].”
 
 #### Effective Date
 
@@ -162,19 +164,19 @@ Pub. L. 98–491, §1, Oct. 17, 1984, 98 Stat. 2269, provided: “That this Act 
 
 #### Short Title of 1969 Amendment
 
-Section 1 of Pub. L. 91–113 provided that: “This Act \[enacting section 1274 of this title, amending this section and section 1262 of this title, enacting provisions set out as notes under this section, and amending provisions set out as notes under this section and section 401 of this title\] may be cited as the ‘Child Protection and Toy Safety Act of 1969’.”
+Pub. L. 91–113, §1, Nov. 6, 1969, 83 Stat. 187, provided that: “This Act \[enacting section 1274 of this title, amending this section and section 1262 of this title, enacting provisions set out as notes under this section, and amending provisions set out as notes under this section and section 401 of this title\] may be cited as the ‘Child Protection and Toy Safety Act of 1969’.”
 
 #### Short Title of 1966 Amendment
 
-Section 1 of Pub. L. 89–756 provided that: “This title \[probably means this “Act”, amending this section, sections 1262, 1263, 1264, 1265, 1273 of this title, and provisions set out as a note under this section\] may be cited as the ‘Child Protection Act of 1966’.”
+Pub. L. 89–756, §1, Nov. 3, 1966, 80 Stat. 1303, provided that: “This title \[probably means this “Act”, amendingthis section, sections 1262, 1263, 1264, 1265, 1273 of this title, and provisions set out as a note under this section\] may be cited as the ‘Child Protection Act of 1966’.”
 
 #### Short Title
 
-Section 1 of Pub. L. 86–613, as amended by section 5 of Pub. L. 89–756, provided: “This Act \[enacting this chapter, repealing sections 401 to 411 of this title, and enacting notes set out under this section\], may be cited as the ‘Federal Hazardous Substances Act’.”
+Pub. L. 86–613, §1, July 12, 1960, 74 Stat. 372, as amended by Pub. L. 89–756, §5, Nov. 3, 1966, 80 Stat. 1305, provided: “This Act \[enacting this chapter, repealing sections 401 to 411 of this title, and enacting notes set out under this section\] may be cited as the ‘Federal Hazardous Substances Act’.”
 
 #### Separability
 
-Pub. L. 86–613, §16, formerly §15, July 12, 1960, 74 Stat. 380, renumbered Pub. L. 91–113, §4(a), Nov. 6, 1969, 83Stat. 189, provided that: “If any provision of this Act \[enacting this chapter and repealing sections 401 to 411 of this title\] is declared unconstitutional, or the applicability thereof to any person or circumstance is held invalid, the constitutionality of the remainder of the Act and the applicability thereof to other persons and circumstances shall not be affected thereby.”
+Pub. L. 86–613, §16, formerly §15, July 12, 1960, 74 Stat. 380, renumbered Pub. L. 91–113, §4(a), Nov. 6, 1969, 83 Stat. 189, provided that: “If any provision of this Act \[enacting this chapter and repealing sections 401 to 411 of this title\] is declared unconstitutional, or the applicability thereof to any person or circumstance is held invalid, the constitutionality of the remainder of the Act and the applicability thereof to other persons and circumstances shall not be affected thereby.”
 
 #### Transfer of Functions
 
@@ -217,4 +219,6 @@ Pub. L. 103–267, title I, §101(b), June 16, 1994, 108 Stat. 725, provided tha
 > shall be considered a banned hazardous substance under section 2(q) of the Federal Hazardous Substances Act (15 U.S.C. 1261(q)).”
 
 \[Section 101(b) of Pub. L. 103–267, set out above, effective Jan. 1, 1995, see section 101(d) of Pub. L. 103–267, set out as an Effective Date note under section 1278 of this title.\]
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

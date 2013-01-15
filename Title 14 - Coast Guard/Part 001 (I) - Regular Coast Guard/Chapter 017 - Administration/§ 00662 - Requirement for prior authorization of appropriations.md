@@ -12,7 +12,7 @@ Amounts may be appropriated to or for the use of the Coast Guard for the followi
 
 &emsp;(5) For environmental compliance and restoration at Coast Guard facilities.
 
-(Added Pub. L. 97–295, §2(20)(A), Oct. 12, 1982, 96 Stat. 1303; amended Pub. L. 101–225, title II,§222(c), Dec. 12, 1989, 103 Stat. 1919; Pub. L. 111–259, title IV, §442(2), Oct. 7, 2010, 124 Stat. 2733.)
+(Added Pub. L. 97–295, §2(20)(A), Oct. 12, 1982, 96 Stat. 1303; amended Pub. L. 101–225, title II, §222(c), Dec. 12, 1989, 103 Stat. 1919; Pub. L. 111–259, title IV, §442(2), Oct. 7, 2010, 124 Stat. 2733.)
 
 Historical and Revision Notes
 
@@ -28,7 +28,7 @@ Historical and Revision Notes
 
 Sept. 10, 1976, Pub. L. 94–406, §5, 90 Stat. 1236.
 
-The word “Amounts” is substituted for “funds” for clarity and consistency. Before clause (1), the words “After fiscal year 1977” are omitted as executed. The words “of such funds” are omitted as unnecessary. In clause (2), the words “aids, establishments, vessels, or aircraft” are substituted for “thereto” for clarity. In clause (4), the words “a matter referred to in clauses (1)–(3)” are substituted for “any of the above” for clarity.
+The word “Amounts” is substituted for “funds” for clarity and consistency. Before clause (1), the words “After fiscal year 1977” are omitted as executed. The words “of such funds” are omitted as unnecessary. In clause (2), the words “aids, establishments, vessels, or aircraft” are substituted for “thereto” for clarity. Inclause (4), the words “a matter referred to in clauses (1)–(3)” are substituted for “any of the above” for clarity.
 
 #### Amendments
 

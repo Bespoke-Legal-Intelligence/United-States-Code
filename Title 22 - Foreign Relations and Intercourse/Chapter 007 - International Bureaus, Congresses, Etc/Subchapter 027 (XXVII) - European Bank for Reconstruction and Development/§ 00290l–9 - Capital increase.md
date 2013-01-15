@@ -1,4 +1,4 @@
-### §290<i>l–9</i>. Capital increase
+### §290<i>l</i>–9. Capital increase
 
 #### (a) Subscription authorized
 
@@ -14,7 +14,7 @@ In order to pay for the increase in the United States subscription to the Bank u
 
 #### Codification
 
-Pub. L. 112–74, div. I, title VII, §7081(e), Dec. 23, 2011, 125 Stat. 1260, which directed amendment of section 562(c) of Pub. L. 101–513 (22 U.S.C. 290<i>l</i> et seq.) by adding at the end a new par. (12), was executed to the second of two subsecs. (c) by adding this section, to reflect the probable intent of Congress. The first subsec. (c) of section 562 is set out as a note under section 2293 of this title.
+Pub. L. 112–74, div. I, title VII, §7081(e), Dec. 23, 2011, 125 Stat. 1260, which directed amendment of section 562(c) of Pub. L. 101–513 (22 U.S.C. 290l et seq.) by adding at the end a new par. (12), was executed to the second of two subsecs. (c) by adding this section, to reflect the probable intent of Congress. The first subsec. (c) of section 562 is set out as a note under section 2293 of this title.
 
 Subsecs. (a) and (b) were in the original (A) and (B), respectively, and pars. (1) and (2) of subsec. (a) were in the original (i) and (ii), respectively, and were editorially redesignated for purposes of codification.
 

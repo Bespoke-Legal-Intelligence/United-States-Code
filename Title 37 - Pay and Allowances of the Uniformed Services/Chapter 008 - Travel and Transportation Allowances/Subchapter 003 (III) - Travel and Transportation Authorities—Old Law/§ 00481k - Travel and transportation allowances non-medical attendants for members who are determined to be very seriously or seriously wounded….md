@@ -22,7 +22,7 @@ Covered Members.—A member of the uniformed services covered by this section is
 
 (d)
 
-Authorized Travel and Transportation.—(1) The transportation authorized bysubsection (a) for a qualified non-medical attendant for a member is round-trip transportation between the home of the attendant and the location at which the member is receiving treatment and may include transportation, while accompanying the member, to any other location to which the member is subsequently transferred for further treatment. A designated non-medical attendant under this section may not also be a designated individual for travel and transportation allowances under section 481h(a) of this title.
+Authorized Travel and Transportation.—(1) The transportation authorized by subsection (a) for a qualified non-medical attendant for a member is round-trip transportation between the home of the attendant and the location at which the member is receiving treatment and may include transportation, while accompanying the member, to any other location to which the member is subsequently transferred for further treatment. A designated non-medical attendant under this section may not also be a designated individual for travel and transportation allowances under section 481h(a) of this title.
 
 (2) The transportation authorized by subsection (a) includes any travel necessary to obtain treatment for the member at the location to which the member is permanently assigned.
 
@@ -44,15 +44,13 @@ Authorized Travel and Transportation.—(1) The transportation authorized bysubs
 
 Termination.—No transportation, allowance, reimbursement, or per diem may be provided under this section for travel that begins after the travel authorities transition expiration date.
 
-(Added Pub. L. 111–84, div. A, title VI, §633(a)(1), Oct. 28, 2009, 123 Stat. 2362, §411k; amended Pub. L. 111–383, div. A, title X, §1075(c)(4), Jan. 7, 2011, 124 Stat. 4372; renumbered §481k and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(24), (f)(4)(A), Dec. 31, 2011, 125 Stat. 1460, 1463, 1465.)
-
-#### Codification
-
-Section 631(f)(4)(A) of Pub. L. 112–81, which directed that this title be amended by conforming any references to sections of this title which were transferred and redesignated by “subsection (c)” of section 631, was executed by conforming the references to those sections as transferred and redesignated by subsection (d) of section 631, to reflect the probable intent of Congress.
+(Added Pub. L. 111–84, div. A, title VI, §633(a)(1), Oct. 28, 2009, 123 Stat. 2362, §411k; amended Pub. L. 111–383, div. A, title X, §1075(c)(4), Jan. 7, 2011, 124 Stat. 4372; renumbered §481k and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(24), (f)(4)(A), Dec. 31, 2011, 125 Stat. 1460, 1463, 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 112–81, §631(f)(4)(A), substituted “481h” for “411h” in subsec. (d)(1) and “474” for “404” in subsec. (d)(3). See Codification note above.
+<b>2013</b>—Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, §631(f)(4)(A). See 2011 Amendment note below.
+
+<b>2011</b>—Pub. L. 112–81, §631(f)(4)(A), as amended by Pub. L. 112–239, §1076(a)(9), substituted “481h” for “411h” in subsec. (d)(1) and “474” for “404” in subsec. (d)(3).
 
 Pub. L. 112–81, §631(d)(2), renumbered section 411k of this title as this section.
 
@@ -60,9 +58,11 @@ Subsec. (d)(1). Pub. L. 111–383 substituted “allowances under section” for
 
 Subsec. (e). Pub. L. 112–81, §631(e)(24), added subsec. (e).
 
+#### Effective Date of 2013 Amendment
+
+Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
+
 #### Effective Date
 
-Pub. L. 111–84, div. A, title VI, §633(b), Oct. 28, 2009, 123 Stat. 2363, as amended by Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465, provided that: “No reimbursement may be provided under section 481k of title 37, United States Code, as added by subsection (a), for travel and transportation costs incurred before the date of the enactment of this Act \[Oct. 28, 2009\].”
-
-\[Amendment by Pub. L. 112–81 to section 633(b) of Pub. L. 111–84, set out above, was executed to reflect the probable intent of Congress, notwithstanding an error in the directory language.\]
+Pub. L. 111–84, div. A, title VI, §633(b), Oct. 28, 2009, 123 Stat. 2363, as amended by Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that: “No reimbursement may be provided under section 481k of title 37, United States Code, as added by subsection (a), for travel and transportation costs incurred before the date of the enactment of this Act \[Oct. 28, 2009\].”
 

@@ -120,7 +120,7 @@ For purposes of this section—
 
 #### (1) National limitation
 
-&emsp;There is a national zone academy bond limitation for each calendar year. Such limitation is $400,000,000 for 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, and 2007, and, except as provided in paragraph (4), zero thereafter.
+&emsp;There is a national zone academy bond limitation for each calendar year. Such limitationis $400,000,000 for 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, and 2007, and, except as provided in paragraph (4), zero thereafter.
 
 #### (2) Allocation of limitation
 
@@ -128,7 +128,7 @@ For purposes of this section—
 
 #### (3) Designation subject to limitation amount
 
-&emsp;The maximum aggregate face amount of bonds issued during any calendar year which may be designated under subsection (d)(1) withrespect to any qualified zone academy shall not exceed the limitation amount allocated to such academy under paragraph (2) for such calendar year.
+&emsp;The maximum aggregate face amount of bonds issued during any calendar year which may be designated under subsection (d)(1) with respect to any qualified zone academy shall not exceed the limitation amount allocated to such academy under paragraph (2) for such calendar year.
 
 #### (4) Carryover of unused limitation
 
@@ -192,7 +192,7 @@ Gross income includes the amount of the credit allowed to the taxpayer under thi
 
 For purposes of this title, the credit allowed by this section shall be treated as a credit allowable under subpart H of part IV of subchapter A of this chapter.
 
-#### (<i>l</i>) S corporations
+#### (l) S corporations
 
 In the case of a qualified zone academy bond held by an S corporation which is an eligible taxpayer—
 
@@ -204,7 +204,7 @@ In the case of a qualified zone academy bond held by an S corporation which is a
 
 This section shall not apply to any obligation issued after the date of the enactment of the Tax Extenders and Alternative Minimum Tax Relief Act of 2008.
 
-(Added Pub. L. 105–34, title II, §226(a), Aug. 5, 1997, 111 Stat. 821; amended Pub. L. 105–206, title VI, §6004(g)(2)–(4), July 22, 1998, 112 Stat. 796; Pub. L. 106–78, title VII, §752(b)(11), Oct. 22, 1999, 113 Stat. 1169; Pub. L. 106–170, title V, §509, Dec. 17, 1999, 113 Stat. 1924; Pub. L. 107–110, title X, §1076(t), Jan. 8, 2002, 115 Stat. 2092; Pub. L. 107–147, title VI, §608(a), Mar. 9, 2002, 116 Stat. 60; Pub. L. 108–311, title III, §304(a), title IV, §406(c), Oct. 4, 2004, 118 Stat. 1179, 1189; Pub. L. 109–58, title XIII, §1303(c)(2), (3), Aug. 8, 2005, 119 Stat. 997; Pub. L. 109–432, div. A, title I, §107(a), (b)(1), Dec. 20, 2006, 120 Stat. 2938; Pub. L. 110–234, title XV, §15316(c)(2), May 22, 2008, 122 Stat. 1511; Pub. L. 110–246, §4(a), title XV, §15316(c)(2), June 18, 2008, 122 Stat. 1664, 2273; Pub. L. 110–343, div. C, title III, §313(b)(3), Oct. 3, 2008, 122 Stat. 3872; Pub. L. 111–5, div. B, title I, §1531(c)(3), Feb. 17, 2009, 123 Stat. 360.)
+(Added Pub. L. 105–34, title II, §226(a), Aug. 5, 1997, 111 Stat. 821; amended Pub. L. 105–206, titleVI, §6004(g)(2)–(4), July 22, 1998, 112 Stat. 796; Pub. L. 106–78, title VII, §752(b)(11), Oct. 22, 1999, 113 Stat. 1169; Pub. L. 106–170, title V, §509, Dec. 17, 1999, 113 Stat. 1924; Pub. L. 107–110, title X, §1076(t), Jan. 8, 2002, 115 Stat. 2092; Pub. L. 107–147, title VI, §608(a), Mar. 9, 2002, 116 Stat. 60; Pub. L. 108–311, title III, §304(a), title IV, §406(c), Oct. 4, 2004, 118 Stat. 1179, 1189; Pub. L. 109–58, title XIII, §1303(c)(2), (3), Aug. 8, 2005, 119 Stat. 997; Pub. L. 109–432, div. A, title I, §107(a), (b)(1), Dec. 20, 2006, 120 Stat. 2938; Pub. L. 110–234, title XV, §15316(c)(2), May 22, 2008, 122 Stat. 1511; Pub. L. 110–246, §4(a), title XV, §15316(c)(2), June 18, 2008, 122 Stat. 1664, 2273; Pub. L. 110–343, div. C, title III, §313(b)(3), Oct. 3, 2008, 122 Stat. 3872; Pub. L. 111–5, div. B, title I, §1531(c)(3), Feb. 17, 2009, 123 Stat. 360.)
 
 #### References in Text
 
@@ -232,7 +232,7 @@ Subsec. (m). Pub. L. 110–343 added subsec. (m).
 
 Subsec. (e)(1). Pub. L. 109–432, §107(a), substituted “2005, 2006, and 2007” for “and 2005”.
 
-Subsecs. (f) to (<i>l</i>). Pub. L. 109–432, §107(b)(1)(B), added subsecs. (f) to (h) and redesignated former subsecs. (f) to (i) as (i) to (<i>l</i>), respectively.
+Subsecs. (f) to (l). Pub. L. 109–432, §107(b)(1)(B), added subsecs. (f) to (h) and redesignated former subsecs. (f) to (i) as (i) to (l), respectively.
 
 <b>2005</b>—Subsec. (c)(2). Pub. L. 109–58, §1303(c)(2), inserted “, and subpart H thereof” after “refundable credits”.
 
@@ -304,5 +304,5 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 #### Effective Date
 
-Section 226(c) of Pub. L. 105–34 provided that: “The amendments made by this section \[enacting this section and renumbering section 1397D as section 1397F of this title\] shall apply to obligations issued after December 31, 1997.”
+Pub. L. 105–34, title II, §226(c), Aug. 5, 1997, 111 Stat. 824, provided that: “The amendments made by this section \[enacting this section and renumbering section 1397D as section 1397F of this title\] shall apply to obligations issued after December 31, 1997.”
 

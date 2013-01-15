@@ -4,7 +4,7 @@
 
 #### (1) Authorities of Secretary
 
-&emsp;The Secretary of Health and Human Services (hereinafter in this subsection referred to as the Secretary), in consultation with the Administrator, shall establish and support a basic research and training program (throughgrants, cooperative agreements, and contracts) consisting of the following:
+&emsp;The Secretary of Health and Human Services (hereinafter in this subsection referred to as the Secretary), in consultation with the Administrator, shall establish and support a basic research and training program (through grants, cooperative agreements, and contracts) consisting of the following:
 
 &emsp;&emsp;(A) Basic research (including epidemiologic and ecologic studies) which may include each of the following:
 
@@ -40,7 +40,7 @@
 
 #### (4) Procedures
 
-&emsp;In making grants and entering into cooperative agreements and contracts under this subsection, the Secretary shall act through the Director of the National Institute for Environmental Health Sciences. In considering the allocation of funds for training purposes, the Director shall ensure that at least one grant, cooperative agreement, or contract shall be awarded for training described in each of clauses (i), (ii), and (iii) of paragraph (1)(B). Where applicable, the Director may choose to operate training activities in cooperation with the Director of the National Institute for Occupational Safety and Health. The procedures applicable to grants and contracts under title IV of the Public Health Service Act \[42 U.S.C. 281 et seq.\] shall be followed under this subsection.
+&emsp;In making grants and entering into cooperative agreements and contracts under this subsection, the Secretary shall act through the Director of the National Institute for Environmental Health Sciences. In considering the allocation of funds for training purposes, the Director shall ensure that at least one grant, cooperative agreement, or contract shall beawarded for training described in each of clauses (i), (ii), and (iii) of paragraph (1)(B). Where applicable, the Director may choose to operate training activities in cooperation with the Director of the National Institute for Occupational Safety and Health. The procedures applicable to grants and contracts under title IV of the Public Health Service Act \[42 U.S.C. 281 et seq.\] shall be followed under this subsection.
 
 #### (5) Advisory council
 
@@ -204,7 +204,7 @@ The Administrator may conduct and support, through grants, cooperative agreement
 
 &emsp;&emsp;(F) The grant recipient shall have an interdisciplinary staff with demonstrated expertise in hazardous substance management and research.
 
-&emsp;&emsp;(G) The grant recipient shall have a demonstrated ability to disseminate results of hazardous substance research and educational programs through an interdisciplinary continuing education program.
+&emsp;&emsp;(G) The grant recipient shall have a demonstrated ability to disseminate results ofhazardous substance research and educational programs through an interdisciplinary continuing education program.
 
 &emsp;&emsp;(H) The projects which the grant recipient proposes to carry out under the grant are necessary and appropriate.
 
@@ -326,7 +326,7 @@ Conference.—Not later than 90 days after the date of enactment of this Act \[D
 
 “(b)
 
-Report.—Not later than 3 months after each conference, the Administrator shall submit a report to the Congress that summarizes the proceedings of theconference, including a summary of any recommendations or concerns raised by the non-Federal participants and how the Administrator intends to respond to them. The report shall also be made widely available to the general public.
+Report.—Not later than 3 months after each conference, the Administrator shall submit a report to the Congress that summarizes the proceedings of the conference, including a summary of any recommendations or concerns raised by the non-Federal participants and how the Administrator intends to respond to them. The report shall also be made widely available to the general public.
 
 #### “SEC. 6. RESIDUAL EFFECTS STUDY.
 
@@ -366,7 +366,7 @@ National Institute of Standards and Technology.—There are authorized to be app
 
 #### Gulf Coast Hazardous Substance Research, Development, and Demonstration Center
 
-Section 118(<i>l</i>) of Pub. L. 99–499 provided that:
+Pub. L. 99–499, title I, §118(l), Oct. 17, 1986, 100 Stat. 1660, provided that:
 
 “(1)
 
@@ -378,7 +378,7 @@ Purposes of the center.—The Center shall carry out a program of research, eval
 
 “(3)
 
-Operation of center.—(A) For purposes of operating the Center, the Administrator is authorized to enter into contracts and cooperative agreements with, and make grants to, a university related institute involved with the improvement of waste management. Such institute shall be located in Jefferson County, Texas.
+Operation of center.—(A) For purposes of operating the Center, the Administrator is authorized to enter into contracts and cooperative agreements with,and make grants to, a university related institute involved with the improvement of waste management. Such institute shall be located in Jefferson County, Texas.
 
 “(B) The Center shall be authorized to make grants, accept contributions, and enter into agreements with universities located in the States of Texas, Louisiana, Mississippi, Alabama, and Florida in order to carry out the purposes of the Center.
 
@@ -388,7 +388,7 @@ Authorization of appropriations.—There are authorized to be appropriated to th
 
 #### Pacific Northwest Hazardous Substance Research, Development, and Demonstration Center
 
-Section 118(<i>o</i>) of Pub. L. 99–499 provided that:
+Pub. L. 99–499, title I, §118(o), Oct. 17, 1986, 100 Stat. 1661, provided that:
 
 “(1)
 
@@ -428,7 +428,7 @@ Authorization of appropriations.—There is authorized to be appropriated to the
 
 #### Congressional Statement of Purpose
 
-Section 209(a) of Pub. L. 99–499 provided that: “The purposes of this section \[enacting this section\] are as follows:
+Pub. L. 99–499, title II, §209(a), Oct. 17, 1986, 100 Stat. 1708, provided that: “The purposes of this section \[enacting this section\] are as follows:
 
 &emsp;“(1) To establish a comprehensive and coordinated Federal program of research, development, demonstration, and training for the purpose of promoting the development of alternative and innovative treatment technologies that can be used in response actions under the CERCLA program, to provide incentives for the development and use of such technologies, and to improve the scientific capability to assess, detect and evaluate the effects on and risks to human health from hazardous substances.
 

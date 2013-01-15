@@ -50,7 +50,7 @@ In carrying out the purposes of this section the Secretary is authorized and dir
 
 There are hereby authorized to be appropriated not to exceed $25,000,000 for acquisition and $1,000,000 for development.
 
-(Pub. L. 95–625, title V, §505, Nov. 10, 1978, 92 Stat. 3499; Pub. L. 96–87, title IV, §401(i), Oct. 12, 1979, 93 Stat. 666; Pub. L. 104–333, div. I, title V, §503(b), Nov. 12, 1996, 110 Stat. 4155; Pub. L. 106–510, §3(c)(1), Nov. 13, 2000, 114 Stat. 2363; Pub. L. 108–142, §2, Dec. 2, 2003, 117 Stat. 1875; Pub. L. 111–11, title VII, §7401, Mar. 30, 2009, 123 Stat. 1219.)
+(Pub. L. 95–625, title V, §505, Nov. 10, 1978, 92 Stat. 3499; Pub. L. 96–87, title IV, §401(i), Oct. 12, 1979, 93 Stat. 666; Pub. L. 104–333, div. I, title V,§503(b), Nov. 12, 1996, 110 Stat. 4155; Pub. L. 106–510, §3(c)(1), Nov. 13, 2000, 114 Stat. 2363; Pub. L. 108–142, §2, Dec. 2, 2003, 117 Stat. 1875; Pub. L. 111–11, title VII, §7401, Mar. 30, 2009, 123 Stat. 1219.)
 
 #### References in Text
 
@@ -60,7 +60,7 @@ Sections 1, 2, 3, and 4 of this title, referred to in subsec. (c), was in the or
 
 <b>2009</b>—Subsec. (f)(7). Pub. L. 111–11, which directed substitution of “on December 31, 2018” for “ten years after the date of enactment of the Na Hoa Pili O Kaloko-Honokohau Re-establishment Act of 1996”, was executed by making the substitution for “ten years after the date of enactment of the Na Hoa Pili Kaloko-Honokōhau Re-establishment Act of 1996”, to reflect the probable intent of Congress.
 
-<b>2003</b>—Subsec. (a). Pub. L. 108–142 designated existing provisions as par. (1), substituted “1978.” for “1978, which shall be on file and available for public inspection in the appropriate offices of the National ParkService, Department of the Interior.”, and added pars. (2) and (3).
+<b>2003</b>—Subsec. (a). Pub. L. 108–142 designated existing provisions as par. (1), substituted “1978.” for “1978, which shall be on file and available for public inspection in the appropriate offices of the National Park Service, Department of the Interior.”, and added pars. (2) and (3).
 
 <b>2000</b>—Pub. L. 106–510, §3(c)(1)(A), amended section catchline.
 

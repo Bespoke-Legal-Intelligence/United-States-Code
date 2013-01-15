@@ -22,7 +22,7 @@ Merchandise entered under bond, under any provision of law, may, upon payment of
 
 Merchandise may be withdrawn for consumption without the payment of the duty thereon if the importer of record or transferee is permitted to pay duty at a later time pursuant to regulations prescribed by the Secretary under section 1505 of this title.
 
-(June 17, 1930, ch. 497, title IV, §557, 46 Stat. 744; June 25, 1938, ch. 679, §§2, 22(a), 23(a), 52 Stat. 1077, 1087, 1088; Aug. 8, 1953, ch. 397, §21(a), 67 Stat. 519; June 30, 1955, ch. 258, §2(a) (4), 69 Stat. 242; Pub. L. 91–271, title III, §301(t), June 2, 1970, 84 Stat. 290; Pub. L. 91–685, §1, Jan. 12, 1971, 84Stat. 2069; Pub. L. 95–410, title I, §108(a), (b)(1), Oct. 3, 1978, 92 Stat. 892; Pub. L. 97–446, title II, §201(f), Jan. 12, 1983, 96 Stat. 2350; Pub. L. 103–182, title VI, §665, Dec. 8, 1993, 107 Stat. 2215; Pub. L. 106–36, title II, §2409, June 25, 1999, 113 Stat. 171; Pub. L. 109–280, title XIV, §1635(c), Aug. 17, 2006, 120 Stat. 1170.)
+(June 17, 1930, ch. 497, title IV, §557, 46 Stat. 744; June 25, 1938, ch. 679, §§2, 22(a), 23(a), 52 Stat. 1077, 1087, 1088; Aug. 8, 1953, ch. 397, §21(a), 67 Stat. 519; June 30, 1955, ch. 258, §2(a) (4), 69 Stat. 242; Pub. L. 91–271, title III, §301(t), June 2, 1970, 84 Stat. 290; Pub. L. 91–685, §1, Jan. 12, 1971, 84 Stat. 2069; Pub. L. 95–410, title I, §108(a), (b)(1), Oct. 3, 1978, 92 Stat. 892; Pub. L. 97–446, title II, §201(f), Jan. 12, 1983, 96 Stat. 2350; Pub. L. 103–182, title VI, §665, Dec. 8, 1993, 107 Stat. 2215; Pub. L. 106–36, title II, §2409, June 25, 1999, 113 Stat. 171; Pub. L. 109–280, title XIV, §1635(c), Aug. 17, 2006, 120 Stat. 1170.)
 
 #### Prior Provisions
 
@@ -78,11 +78,11 @@ Amendment by Pub. L. 97–446 applicable with respect to merchandise entered on 
 
 #### Effective Date of 1978 Amendment
 
-Section 108(b)(2) of Pub. L. 95–410 provided that: “For purposes of applying the amendments made by paragraph (1) \[amending this section and section 1559 of this title\] to merchandise remaining in a bonded warehouse on the date of enactment of this Act \[Oct. 3, 1978\], any period of time the merchandise was in the bonded warehouse before that date shall be disregarded.”
+Pub. L. 95–410, title I, §108(b)(2), Oct. 3, 1978, 92 Stat. 892, provided that: “For purposes of applying the amendments made by paragraph (1) \[amending this section and section 1559 of this title\] to merchandise remaining in a bonded warehouse on the date of enactment of this Act \[Oct. 3, 1978\], any period of time the merchandise was in the bonded warehouse before that date shall be disregarded.”
 
 #### Effective Date of 1971 Amendment
 
-Section 2 of Pub. L. 91–685 provided that: “The amendment made by the first section of this Act \[amending this section\] shall apply with respect to articles entered for warehousing on or after the date of the enactment of this Act \[Jan. 12, 1971\].”
+Pub. L. 91–685, §2, Jan. 12, 1971, 84 Stat. 2069, provided that: “The amendment made by the first section of this Act \[amending this section\] shall apply with respect to articles entered for warehousing on or after the date of the enactment of this Act \[Jan. 12, 1971\].”
 
 #### Effective Date of 1970 Amendment
 
@@ -94,13 +94,13 @@ Amendment by act June 30, 1955, effective July 1, 1955, see note set out under s
 
 #### Effective Date of 1953 Amendment
 
-Section 21(b) of act Aug. 8, 1953, provided that: “Notwithstanding any other provision of this Act \[amending this section and sections 258, 1001, 1201, 1304, 1308, 1309, 1313, 1315, 1317, 1321, 1431, 1439, 1440, 1482, 1484, 1486, 1487, 1489, 1498, 1501, 1503, 1508, 1520, 1523, and 1562 of this title, enacting sections 1322 and 1646a of this title, and repealing sections 33 to 35, 39, 42 to 45, 273, 274, 472 to 475, 1320, and 1503a of this title\], the foregoing subsection (a) shall be effective with respect to merchandise entered after the date of the enactment of this Act \[Aug. 8, 1953\] and to merchandise which has been entered before that date and is the subject of a transfer within the purview of section 557(b) of the Tariff Act \[subsec. (b) of this section\], as amended by this Act, and made after the date of the enactment of this Act.”
+Act Aug. 8, 1953, ch. 397, §21(b), 67 Stat. 520, provided that: “Notwithstanding any other provision of this Act \[amending this section and sections 258, 1001, 1201, 1304, 1308, 1309, 1313, 1315, 1317, 1321, 1431, 1439, 1440, 1482, 1484, 1486, 1487, 1489, 1498, 1501, 1503, 1508, 1520, 1523, and 1562 of this title, enacting sections 1322 and 1646a of this title, and repealing sections 33 to 35, 39, 42 to 45, 273, 274, 472 to 475, 1320, and 1503a of this title\], the foregoing subsection (a) shall be effective with respect to merchandise entered after the date of the enactment of this Act \[Aug. 8, 1953\] and to merchandise which has been entered before that date and is the subject of a transfer within the purview of section 557(b) of the Tariff Act \[subsec. (b) of this section\], as amended by this Act, and made after the date of the enactment of this Act.”
 
 #### Effective Date of 1938 Amendment
 
-Section 22(b) of act June 25, 1938, provided that: “On and after the effective date of this Act \[see note set out under section 1401 of this title\], this section \[amending this section\] shall be effective with respect to merchandise entered for warehouse prior to, as well as after, such date.”
+Act June 25, 1938, ch. 679, §22(b), 52 Stat. 1088, provided that: “On and after the effective date of this Act \[see note set out under section 1401 of this title\], this section \[amending this section\] shall be effective with respect to merchandise entered for warehouse prior to, as well as after, such date.”
 
-Section 23(b) of act June 25, 1938, provided that: “The amendments made by subsection (a) of this section \[amending this section\] shall apply in the case of grain imported prior to the effective date of this act \[see note set out under section 1401 of this title\] which, on such date, has not become abandoned to the Government under section 491 or 559 of the Tariff Act of 1930 \[section 1491 or 1559 of this title\], and which has remained in the custody of customs officers.”
+Act June 25, 1938, ch. 679, §23(b), 52 Stat. 1088, provided that: “The amendments made by subsection (a) of this section \[amending this section\] shall apply in the case of grain imported prior to the effective date of this act \[see note set out under section 1401 of this title\] which, on such date, has not become abandoned to the Government under section 491 or 559 of the Tariff Act of 1930 \[section 1491 or 1559 of this title\], and which has remained in the custody of customs officers.”
 
 #### Savings Provision
 
@@ -114,7 +114,7 @@ Proc. No. 2599, Nov. 6, 1943, 8 F.R. 15359, 57 Stat. 758, as amended by Proc. No
 
 #### Appropriations
 
-Section 2 of act June 26, 1934, ch. 756, 48 Stat. 1225, which was classified to section 725a of former Title 31, Money and Finance, repealed the permanent appropriation under the title “Debentures or drawbacks, bounties, or allowances (Customs) (2x321)” effective July 1, 1935, and provided that such portions of any Acts as make permanent appropriations to be expended under such account are amended so as to authorize, in lieu thereof, annual appropriations from the general fund of the Treasury in identical terms and in such amounts as now provided by the laws providing such permanent appropriations.
+Act June 26, 1934, ch. 756, §2, 48 Stat. 1225, which was classified to section 725a of former Title 31, Money and Finance, repealed the permanent appropriation under the title “Debentures or drawbacks, bounties, or allowances (Customs) (2x321)” effective July 1, 1935, and provided that such portions of any Acts as make permanent appropriations to be expended under such account are amended so as to authorize, in lieu thereof, annual appropriations from the general fund of the Treasury in identical terms and in such amounts as now provided by the laws providing such permanent appropriations.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

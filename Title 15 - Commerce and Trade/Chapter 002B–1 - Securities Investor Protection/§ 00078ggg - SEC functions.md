@@ -26,7 +26,7 @@ This chapter, referred to in subsecs. (b) and (c), was in the original “this A
 
 #### Codification
 
-Section is comprised of section 11 of Pub. L. 91–598. Subsec. (d) of section 11 of Pub. L. 91–598 amended section 78<i>o</i> of this title.
+Section is comprised of section 11 of Pub. L. 91–598. Subsec. (d) of section 11 of Pub. L. 91–598 amended section 78o of this title.
 
 #### Prior Provisions
 

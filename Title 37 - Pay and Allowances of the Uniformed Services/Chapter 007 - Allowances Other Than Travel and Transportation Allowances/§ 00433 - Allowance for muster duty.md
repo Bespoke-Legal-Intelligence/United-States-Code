@@ -8,15 +8,13 @@
 
 (d) A member who performs muster duty is not entitled to compensation for inactive-duty training under section 206(a) of this title for the same period.
 
-(Added Pub. L. 101–189, div. A, title V, §502(b)(1), Nov. 29, 1989, 103 Stat. 1436; amended Pub. L. 101–510, div. A, title XIV, §1484(h)(5), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 104–106, div. A, title XV, §1501(d)(4)(B), Feb. 10, 1996, 110 Stat. 501; Pub. L. 105–85, div. A, title VI, §627, Nov. 18, 1997, 111 Stat. 1795; Pub. L. 112–81, div. A, title VI, §631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465.)
-
-#### Codification
-
-Section 631(f)(4)(A) of Pub. L. 112–81, which directed that this title be amended by conforming any references to sections of this title which were transferred and redesignated by “subsection (c)” of section 631, was executed by conforming the references to those sections as transferred and redesignated by subsection (d) of section 631, to reflect the probable intent of Congress.
+(Added Pub. L. 101–189, div. A, title V, §502(b)(1), Nov. 29, 1989, 103 Stat. 1436; amended Pub. L. 101–510, div. A, title XIV, §1484(h)(5), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 104–106, div. A, title XV, §1501(d)(4)(B), Feb. 10, 1996, 110 Stat. 501; Pub. L. 105–85, div. A, title VI, §627, Nov. 18, 1997, 111 Stat. 1795; Pub. L. 112–81, div. A, title VI, §631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
 
 #### Amendments
 
-<b>2011</b>—Subsec. (b). Pub. L. 112–81 substituted “474” for “404”. See Codification note above.
+<b>2013</b>—Subsec. (b). Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, §631(f)(4)(A). See 2011 Amendment note below.
+
+<b>2011</b>—Subsec. (b). Pub. L. 112–81, §631(f)(4)(A), as amended by Pub. L. 112–239, §1076(a)(9), substituted “474” for “404”.
 
 <b>1997</b>—Subsec. (c). Pub. L. 105–85 struck out “and shall be paid to the member on or before the date on which the muster duty is performed” after “disbursed in kind” in first sentence and inserted “The allowance may be paid to the member before, on, or after the date on which the muster duty is performed, but not later than 30 days after that date.” after first sentence.
 
@@ -24,11 +22,15 @@ Section 631(f)(4)(A) of Pub. L. 112–81, which directed that this title be amen
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–510 substituted “section 687 of title 10” for “section 691 of title 10”.
 
+#### Effective Date of 2013 Amendment
+
+Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
+
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of Title 10, Armed Forces.
 
 #### Effective Date of 1990 Amendment
 
-Section 1484(h)(5) of Pub. L. 101–510 provided that the amendment made by that section is effective as of Nov. 29, 1989.
+Pub. L. 101–510, div. A, title XIV, §1484(h)(5), Nov. 5, 1990, 104 Stat. 1718, provided that the amendment made by that section is effective as of Nov. 29, 1989.
 

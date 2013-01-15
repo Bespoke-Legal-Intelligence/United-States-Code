@@ -22,7 +22,7 @@ The Director of the United States Information Agency is authorized, when he cons
 
 &emsp;&emsp;(iv) participation by groups and individuals from other countries in nonprofit activities in the United States similar to those described in subparagraphs (ii) and (iii) of this paragraph, when the Director of the United States Information Agency determines that such participation is in the national interest.<sup>1</sup>
 
-&emsp;(3) United States participation in international fairs and expositions abroad, including trade and industrial fairs and other publicor private demonstrations of United States economic accomplishments and cultural attainments.
+&emsp;(3) United States participation in international fairs and expositions abroad, including trade and industrial fairs and other public or private demonstrations of United States economic accomplishments and cultural attainments.
 
 #### (b) Other exchanges
 
@@ -46,7 +46,7 @@ In furtherance of the purposes of this chapter, the President is further authori
 
 &emsp;(9) encouraging independent research into the problems of educational and cultural exchange;
 
-&emsp;(10) promoting studies, research, instruction, and other educational activities of citizens and nationals of foreign countries in American schools, colleges, and universities located in the United States by making available to citizens and nationals of less developed friendly foreign countries for exchange for currencies of their respective countries (other than excess foreign currencies), at United States embassies, United States dollars in such amounts as may be necessary to enable such foreign citizens or nationals who are coming temporarily to the United States as students, trainees, teachers, instructors, or professors to meet expenses of the kind described in section 2454(e)(1) of this title;
+&emsp;(10) promoting studies, research, instruction, and other educational activities of citizens and nationals of foreign countries in Americanschools, colleges, and universities located in the United States by making available to citizens and nationals of less developed friendly foreign countries for exchange for currencies of their respective countries (other than excess foreign currencies), at United States embassies, United States dollars in such amounts as may be necessary to enable such foreign citizens or nationals who are coming temporarily to the United States as students, trainees, teachers, instructors, or professors to meet expenses of the kind described in section 2454(e)(1) of this title;
 
 &emsp;(11) interchanges and visits between the United States and other countries of scientists, scholars, leaders, and other experts in the fields of environmental science and environmental management; and
 
@@ -70,7 +70,7 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 #### Effective Date of 1962 Amendment
 
-Section 403 of Pub. L. 87–565 provided in part that: “The amendment made by this section \[amending this section\] shall not be applicable with respect to any fair or exposition within the United States for which an appropriation has been provided.”
+Pub. L. 87–565, pt. IV, §403, Aug. 1, 1962, 76 Stat. 263, provided in part that: “The amendment made by this section \[amending this section\] shall not be applicable with respect to any fair or exposition within the United States for which an appropriation has been provided.”
 
 #### Transfer of Functions
 
@@ -110,7 +110,7 @@ Grantee Organizations.—To the extent practicable, grantee organizations select
 
 #### Limitation on Participation in International Expositions or Fairs
 
-Pub. L. 103–236, title II, §230, Apr. 30, 1994, 108 Stat. 424, which provided that United States Information Agency could not obligate or expend funds for a United States Government funded pavilion or major exhibit at any international exposition or world's fair in excess of amounts expressly authorized and appropriated for such purpose, was repealed by Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §204(e)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–421. See section 2452b of this title.
+Pub. L. 103–236, title II, §230, Apr. 30, 1994, 108 Stat. 424, which provided that United States Information Agency could not obligate or expend funds for a United States Government funded pavilion or major exhibit at any international exposition or world's fair in excess ofamounts expressly authorized and appropriated for such purpose, was repealed by Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §204(e)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–421. See section 2452b of this title.
 
 #### International Exchange, Scholarship, and Training Programs
 
@@ -144,7 +144,7 @@ Pub. L. 102–138, title II, §214, Oct. 28, 1991, 105 Stat. 696, established Is
 
 Pub. L. 102–138, title II, §225, Oct. 28, 1991, 105 Stat. 699, authorized establishment of an endowment fund to support an exchange program among secondary school students from United States and former Warsaw Pact countries, prior to repeal, eff. 6 months after Oct. 24, 1992, by Pub. L. 102–511, title VIII, §807(c), Oct. 24, 1992, 106 Stat. 3354.
 
-Pub. L. 102–138, title II, §226, Oct. 28, 1991, 105 Stat. 699, authorized scholarships for foreign and UnitedStates students and scholars awarded by Bureau of Educational and Cultural Affairs of United States Information Agency to facilitate study, research, and teaching within United States.
+Pub. L. 102–138, title II, §226, Oct. 28, 1991, 105 Stat. 699, authorized scholarships for foreign and United States students and scholars awarded by Bureau of Educational and Cultural Affairs of United States Information Agency to facilitate study, research, and teaching within United States.
 
 Pub. L. 102–138, title II, §227, Oct. 28, 1991, 105 Stat. 700, as amended by Pub. L. 102–511, title VIII, §801, Oct. 24, 1992, 106 Stat. 3352; Pub. L. 105–277, div. G, subdiv. B, title XXIV, §2413, Oct. 21, 1998, 112 Stat. 2681–832, established Muskie Fellowship Program to award scholarships to graduate students from independent states of the former Soviet Union, Lithuania, Latvia, and Estonia for study within United States.
 

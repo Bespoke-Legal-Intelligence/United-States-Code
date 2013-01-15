@@ -32,7 +32,7 @@
 
 #### (3) Projects primarily for CIA
 
-&emsp;If a project referred to in paragraph (1) is primarily for the Central Intelligence Agency,the Director of the Central Intelligence Agency shall make the determination and submit the report required by paragraphs (1) and (2).
+&emsp;If a project referred to in paragraph (1) is primarily for the Central Intelligence Agency, the Director of the Central Intelligence Agency shall make the determination and submit the report required by paragraphs (1) and (2).
 
 #### (4) Limitation
 
@@ -64,7 +64,7 @@ Subsec. (b)(2). Pub. L. 108–177, §314(b), designated existing provisions as s
 
 #### Definitions
 
-Section 604 of title VI of Pub. L. 103–359 provided that: “As used in this title \[enacting this section and provisions set out as a note under section 403–3 of this title\]:
+Pub. L. 103–359, title VI, §604, Oct. 14, 1994, 108 Stat. 3433, provided that: “As used in this title \[enacting this section and provisions set out as a note under section 403–3 of this title\]:
 
 &emsp;“(1)
 

@@ -50,7 +50,7 @@ For purposes of this subchapter:
 
 #### (9) Official poverty line
 
-&emsp;The term “official poverty line” means the poverty line established by the Director of theOffice of Management and Budget and revised by the Secretary in accordance with section 9902(2) of this title.
+&emsp;The term “official poverty line” means the poverty line established by the Director of the Office of Management and Budget and revised by the Secretary in accordance with section 9902(2) of this title.
 
 #### (10) Person
 

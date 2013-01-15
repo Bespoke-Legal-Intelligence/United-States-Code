@@ -6,7 +6,7 @@ Inspection, Repair, and Maintenance of Intermodal Equipment.—
 
 &emsp;(1)
 
-In general.—Not later than 1 year after the date of enactment of this section, the Secretary of Transportation, after providing notice and opportunity for comment, shall issue regulations establishing a program to ensure that intermodal equipment used to transport intermodal containers is safe and systematically maintained.
+In general.—The Secretary of Transportation shall maintain a program to ensure that intermodal equipment used to transport intermodal containers is safe and systematically maintained.
 
 &emsp;(2)
 
@@ -38,7 +38,7 @@ Contents.—The regulations issued under this section shall include, at a minimu
 
 &emsp;&emsp;(I) a prohibition on intermodal equipment providers from placing intermodal equipment in service on the public highways to the extent such providers or their equipment are found to pose an imminent hazard;
 
-&emsp;&emsp;(J) a process by which motor carriers and agents of motor carriers shall be able to request the Federal Motor Carrier Safety Administration to undertake an investigation of an intermodal equipment provider identified under subparagraph (A) that is alleged to be not in compliance with the regulations under this section;
+&emsp;&emsp;(J) a process by which motor carriers and agents of motor carriers shall be able to request the Federal Motor Carrier Safety Administration to undertake an investigation of an intermodal equipment provider identified under subparagraph (A) that is allegedto be not in compliance with the regulations under this section;
 
 &emsp;&emsp;(K) a process by which equipment providers and agents of equipment providers shall be able to request the Administration to undertake an investigation of a motor carrier that is alleged to be not in compliance with the regulations issued under this section;
 
@@ -47,10 +47,6 @@ Contents.—The regulations issued under this section shall include, at a minimu
 &emsp;&emsp;(M) a requirement that any actual damage or defect identified in the process established under subparagraph (L) be repaired before the equipment is made available for interchange to a motor carrier and that repairs of equipment made pursuant to the requirements of this subparagraph and reports made pursuant to the subparagraph (L) process be documented in the maintenance records for such equipment; and
 
 &emsp;&emsp;(N) a procedure under which motor carriers, drivers and intermodal equipment providers may seek correction of their motor carrier safety records through the deletion from those records of violations of safety regulations attributable to deficiencies in the intermodal chassis or trailer for which they should not have been held responsible.
-
-&emsp;(4)
-
-Deadline for rulemaking proceeding.—Not later than 120 days after the date of enactment of this section, the Secretary shall initiate a rulemaking proceeding for issuance of the regulations under this section.
 
 (b)
 
@@ -106,7 +102,7 @@ Intermodal equipment interchange agreement.—The term “intermodal equipment i
 
 &emsp;(3)
 
-Intermodal equipment provider.—The term “intermodal equipment provider” meansany person that interchanges intermodal equipment with a motor carrier pursuant to a written interchange agreement or has a contractual responsibility for the maintenance of the intermodal equipment.
+Intermodal equipment provider.—The term “intermodal equipment provider” means any person that interchanges intermodal equipment with a motor carrier pursuant to a written interchange agreement or has a contractual responsibility for the maintenance of the intermodal equipment.
 
 &emsp;(4)
 
@@ -116,13 +112,21 @@ Interchange.—The term “interchange”—
 
 &emsp;&emsp;(B) does not include the leasing of equipment to a motor carrier for primary use in the motor carrier's freight hauling operations.
 
-(Added Pub. L. 109–59, title IV, §4118(a), Aug. 10, 2005, 119 Stat. 1729; amended Pub. L. 110–244, title III, §301(e), June 6, 2008, 122 Stat. 1616.)
+(Added Pub. L. 109–59, title IV, §4118(a), Aug. 10, 2005, 119 Stat. 1729; amended Pub. L. 110–244, title III, §301(e), June 6, 2008, 122 Stat. 1616; Pub. L. 112–141, div. C, title II, §32931(b), July 6, 2012, 126 Stat. 829.)
 
 #### References in Text
 
-The date of enactment of this section, referred to in subsec. (a)(1), (3)(E)(ii), (4), is the date of enactment of Pub. L. 109–59, which was approved Aug. 10, 2005.
+The date of enactment of this section, referred to in subsec. (a)(3)(E)(ii), is the date of enactment of Pub. L. 109–59, which was approved Aug. 10, 2005.
 
 #### Amendments
 
+<b>2012</b>—Subsec. (a)(1). Pub. L. 112–141, §32931(b)(1), amended par. (1) generally. Prior to amendment, text read as follows: “Not later than 1 year after the date of enactment of this section, the Secretary of Transportation, after providing notice and opportunity for comment, shall issue regulations establishing a program to ensure that intermodal equipment used to transport intermodal containers is safe and systematically maintained.”
+
+Subsec. (a)(4). Pub. L. 112–141, §32931(b)(2), struck out par. (4). Text read as follows: “Not later than 120 days after the date of enactment of this section, the Secretary shall initiate a rulemaking proceeding for issuance of the regulations under this section.”
+
 <b>2008</b>—Subsec. (a)(3)(E)(ii). Pub. L. 110–244 substituted “section” for “Act”.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
 

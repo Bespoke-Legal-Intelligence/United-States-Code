@@ -1,6 +1,6 @@
 ### §1221–1. National policy with respect to equal educational opportunity
 
-Recognizing that the Nation's economic, political, and social security require a well-educated citizenry, the Congress (1) reaffirms, as a matter of high priority, the Nation's goal of equal educational opportunity, and (2) declares it to bethe policy of the United States of America that every citizen is entitled to an education to meet his or her full potential without financial barriers.
+Recognizing that the Nation's economic, political, and social security require a well-educatedcitizenry, the Congress (1) reaffirms, as a matter of high priority, the Nation's goal of equal educational opportunity, and (2) declares it to be the policy of the United States of America that every citizen is entitled to an education to meet his or her full potential without financial barriers.
 
 (Pub. L. 93–380, title VIII, §801, Aug. 21, 1974, 88 Stat. 597.)
 
@@ -10,7 +10,7 @@ Section was enacted as part of Education Amendments of 1974, and not as part of 
 
 #### Effective Date
 
-Section 2(c) of Pub. L. 93–380 provided that:
+Pub. L. 93–380, §2(c), Aug. 21, 1974, 88 Stat. 488, provided that:
 
 “(1) Unless otherwise specified, each provision of this Act \[see Tables for classification\] and each amendment made by this Act shall be effective on and after the sixtieth day after the enactment of this Act \[Aug. 21, 1974\].
 
@@ -38,7 +38,7 @@ Pub. L. 99–498, title XIII, §1321, Oct. 17, 1986, 100 Stat. 1584, as amended 
 
 #### Study of Classroom Use of Volunteers
 
-Pub. L. 99–498, title XIII, §1341, Oct. 17, 1986, 100 Stat. 1587, as amended by Pub. L. 100–50, §23(7), June 3, 1987,101 Stat. 362, directed National Academy of Sciences to conduct a thorough study of how volunteers could best be used in the classroom with the study to (1) feasibility of using recipients of student loans as part of repayment of such loans, (2) use of older Americans as such volunteers, (3) use of business persons and other professionals as volunteers, and (4) place of incentives to encourage volunteerism, and with National Academy of Sciences to prepare and submit to Congress a report, together with a description of programs on use of volunteers and with such recommendations as deemed appropriate not later than one year after entering into a contract to conduct the study, prior to repeal by Pub. L. 105–332, §6(a), Oct. 31, 1998, 112 Stat. 3127.
+Pub. L. 99–498, title XIII, §1341, Oct. 17, 1986, 100 Stat. 1587, as amended by Pub. L. 100–50, §23(7), June 3, 1987, 101 Stat. 362, directed National Academy of Sciences to conduct a thorough study of how volunteers could best be used in the classroom with the study to (1) feasibility of using recipients of student loans as part of repayment of such loans, (2) use of older Americans as such volunteers, (3) use of business persons and other professionals as volunteers, and (4) place of incentives to encourage volunteerism, and with National Academy of Sciences to prepare and submit to Congress a report, together with a description of programs on use of volunteers and with such recommendations as deemed appropriate not later than one year after entering into a contract to conduct the study, prior to repeal by Pub. L. 105–332, §6(a), Oct. 31, 1998, 112 Stat. 3127.
 
 #### Native Hawaiian Education Study
 

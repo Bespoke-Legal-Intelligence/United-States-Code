@@ -32,11 +32,11 @@ Subsec. (c). Pub. L. 101–510, §1484(k)(3)(B), inserted a comma after first re
 
 #### Effective Date of 1992 Amendment
 
-Section 506(b) of Pub. L. 102–484 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect as of November 29, 1989.”
+Pub. L. 102–484, div. A, title V, §506(b), Oct. 23, 1992, 106 Stat. 2405, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect as of November 29, 1989.”
 
 #### Effective Date
 
-Section 634(b) of Pub. L. 101–189 provided that:
+Pub. L. 101–189, div. A, title VI, §634(b), Nov. 29, 1989, 103 Stat. 1454, provided that:
 
 “(1) Except as provided in paragraphs (2) and (3), section 653 of title 10, United States Code, as added by subsection (a)(1), shall apply to persons who begin undergraduate pilot training, undergraduate navigator training, or undergraduate naval flight officer training, as the case may be, after September 30, 1990.
 

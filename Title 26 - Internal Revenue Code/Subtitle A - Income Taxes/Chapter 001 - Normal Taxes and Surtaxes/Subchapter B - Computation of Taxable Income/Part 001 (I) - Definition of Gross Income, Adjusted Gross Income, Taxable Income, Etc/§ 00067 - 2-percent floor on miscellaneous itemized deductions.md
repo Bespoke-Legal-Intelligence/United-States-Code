@@ -112,7 +112,7 @@ Termination.—This subsection shall not apply to any taxable year beginning aft
 
 <b>1988</b>—Subsec. (b)(4). Pub. L. 100–647, §1001(f)(2), substituted “deductions” for “deduction” and inserted before comma at end “and section 642(c) (relating to deduction for amounts paid or permanently set aside for a charitable purpose)”.
 
-Subsec. (c). Pub. L. 100–647, §4011(a), amended subsec. (c) generally. Prior to amendment subsec. (c) read as follows: “The Secretary shall prescribe regulationswhich prohibit the indirect deduction through pass-thru entities of amounts which are not allowable as a deduction if paid or incurred directly by an individual and which contain such reporting requirements as may be necessary to carry out the purposes of this subsection. The preceding sentence shall not apply—
+Subsec. (c). Pub. L. 100–647, §4011(a), amended subsec. (c) generally. Prior to amendment subsec. (c) read as follows: “The Secretary shall prescribe regulations which prohibit the indirect deduction through pass-thru entities of amounts which are not allowable as a deduction if paid or incurred directly by an individual and which contain such reporting requirements as may be necessary to carry out the purposes of this subsection. The preceding sentence shall not apply—
 
 &emsp;“(1) with respect to cooperatives and real estate investment trusts, and
 
@@ -140,7 +140,7 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
 Amendment by section 1001(f) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Section 4011(b) of Pub. L. 100–647 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1987.”
+Pub. L. 100–647, title IV, §4011(b), Nov. 10, 1988, 102 Stat. 3656, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1987.”
 
 #### Effective Date
 

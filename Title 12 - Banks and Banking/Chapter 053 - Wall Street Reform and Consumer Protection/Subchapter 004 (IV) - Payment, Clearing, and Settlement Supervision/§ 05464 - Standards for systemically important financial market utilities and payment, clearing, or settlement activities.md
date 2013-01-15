@@ -14,7 +14,7 @@
 
 #### (A) CFTC and Commission
 
-&emsp;&emsp;The Commodity Futures Trading Commission and the Commission may each prescribe regulations, in consultation with the Council and the Board of Governors, containing risk management standards, taking into consideration relevant international standards and existing prudential requirements, for those designated clearing entities and financial institutions engaged in designatedactivities for which each is the Supervisory Agency or the appropriate financial regulator, governing—
+&emsp;&emsp;The Commodity Futures Trading Commission and the Commission may each prescribe regulations, in consultation with the Council and the Board of Governors, containing risk management standards, taking into consideration relevant international standards and existing prudential requirements, for those designated clearing entities and financial institutions engaged in designated activities for which each is the Supervisory Agency or the appropriate financial regulator, governing—
 
 &emsp;&emsp;&emsp;(i) the operations related to payment, clearing, and settlement activities of such designated clearing entities; and
 

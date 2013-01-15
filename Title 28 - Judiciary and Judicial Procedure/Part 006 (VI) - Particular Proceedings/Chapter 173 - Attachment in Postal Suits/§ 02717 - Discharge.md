@@ -12,5 +12,5 @@ The court, or a judge thereof, upon—
 
 #### Codification
 
-Section was derived from R.S. §931, which was originally classified to section 744 of former Title 28. Following the general revision and enactment of Title 28 by act June 25, 1948, R.S. §931 was reclassified to section 844 of Title 39. R.S. §931 was repealed by section 12(c) of Pub. L. 86–682 (section 1 of which revised and enacted Title 39), and reenacted by section 9 thereof as section 2717 of this title.
+Section was derived from R.S. §931, which was originally classified to section 744 of former Title 28. Following the general revision and enactment of Title 28 by act June 25, 1948, R.S. §931 was reclassified to section 844 of Title 39. R.S. §931 was repealed by Pub. L. 86–682, §12(c), Sept. 2, 1960, 74 Stat. 708, (section 1 of which revised and enacted Title 39), and reenacted by section 9 thereof as section 2717 of this title.
 

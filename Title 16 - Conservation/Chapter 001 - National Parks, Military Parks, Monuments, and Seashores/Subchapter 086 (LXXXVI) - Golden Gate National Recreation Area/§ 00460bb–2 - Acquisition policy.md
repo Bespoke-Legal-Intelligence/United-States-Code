@@ -44,7 +44,7 @@ The owner of improved residential property or of agricultural property on the da
 
 The term “improved property”, as used in subsection (j) of this section, means a detached, noncommercial residential dwelling, the construction of which was begun before June 1, 1971, or, in the case of areas added by action of the Ninety-fifth Congress, October 1, 1978, together with so much of the land on which the dwelling is situated, the said land being in the same ownership as dwelling, as the Secretary shall designate to be reasonably necessary for the enjoyment of the dwelling for the sole purpose of noncommercial residential use, together with any structures accessory to the dwelling which are situated on the land so designated. The term “agricultural property” as used in this subchapter means lands which are in regular use for agricultural, ranching, or dairying purposes as of January 1, 1978, together with residential and other structures related to the above uses of the property as such structures exist on said date.
 
-#### (<i>l</i>) Relocation assistance benefits and rights; waiver through retention of right of use and occupancy; displaced person status of owner
+#### (l) Relocation assistance benefits and rights; waiver through retention of right of use and occupancy; displaced person status of owner
 
 Whenever an owner of property elects to retain a right of use and occupancy as provided for in this subchapter, such owner shall be deemed to have waived any benefits or rights accruing under sections 4623, 4624, 4625, and 4626 of title 42, and for the purposes of those sections such owner shall not be considered a displaced person as defined in section 4601(6) of title 42.
 
@@ -56,7 +56,7 @@ Notwithstanding any other provision of law, the Secretary shall have the same au
 
 The Secretary shall accept and shall manage in accordance with this subchapter, any land and improvements adjacent to the recreation area which are donated by the State of California or its political subdivisions. The boundaries of the recreation area shall be changed to include such donated lands.
 
-#### (<i>o</i>) Payment deferral; scheduling; interest rate
+#### (o) Payment deferral; scheduling; interest rate
 
 In acquiring those lands authorized by the Ninety-fifth Congress for the purposes of thissubchapter, the Secretary may, when agreed upon by the landowner involved, defer payment or schedule payments over a period of ten years and pay interest on the unpaid balance at a rate not exceeding that paid by the Treasury of the United States for borrowing purposes.
 
@@ -92,7 +92,7 @@ Subsec. (j). Pub. L. 95–625, §317(c), substituted provision making the subsec
 
 Subsec. (k). Pub. L. 95–625, §317(d), defined “improved property” to include residential dwelling, the construction of which was begun, in the case of areas added by action of the Ninety-fifth Congress, October 1, 1978, and included definition of “agricultural property”.
 
-Subsecs. (n), (<i>o</i>). Pub. L. 95–625, §317(e), added subsecs. (n) and (<i>o</i>).
+Subsecs. (n), (o). Pub. L. 95–625, §317(e), added subsecs. (n) and (o).
 
 #### Transfer of Functions
 

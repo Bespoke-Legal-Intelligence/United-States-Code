@@ -16,7 +16,7 @@
 
 &emsp;(F) the card issuer has provided a method whereby the user of such card can be identified as the person authorized to use it.
 
-(2) For purposes of this section, a card issuer has been notified when such steps as may be reasonably required in the ordinary course of of business to provide the card issuer with the pertinent information have been taken, whether or not any particular officer, employee, or agent of the card issuer does in fact receive such information.
+(2) For purposes of this section, a card issuer has been notified when such steps as may be reasonably required in the ordinary course of business to provide the card issuer with the pertinent information have been taken, whether or not any particular officer, employee, or agent of the card issuer does in fact receive such information.
 
 #### (b) Burden of proof
 
@@ -42,5 +42,5 @@ Amendment by Pub. L. 96–221 effective on expiration of two years and six month
 
 #### Effective Date
 
-Section 503(2) of Pub. L. 91–508 provided that: “Section 133 of such Act \[this section\] takes effect upon the expiration of 90 days after such date of enactment \[Oct. 26, 1970\].”
+Pub. L. 91–508, title V, §503(2), Oct. 26, 1970, 84 Stat. 1127, provided that: “Section 133 of such Act \[this section\] takes effect upon the expiration of 90 days after such date of enactment \[Oct. 26, 1970\].”
 

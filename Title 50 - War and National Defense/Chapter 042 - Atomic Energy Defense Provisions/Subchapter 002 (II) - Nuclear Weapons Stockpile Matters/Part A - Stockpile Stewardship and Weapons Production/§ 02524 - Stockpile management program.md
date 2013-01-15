@@ -24,39 +24,23 @@ In carrying out the stockpile management program under subsection (a), the Secre
 
 &emsp;&emsp;(A) remain consistent with basic design parameters by including, to the maximum extent feasible, components that are well understood or are certifiable without the need to resume underground nuclear weapons testing; and
 
-&emsp;&emsp;(B) use the design, certification, and production expertise resident in the nuclear complex to fulfill current mission requirements of the existing stockpile.
+&emsp;&emsp;(B) use the design, certification, and production expertise resident in the nuclear security enterprise to fulfill current mission requirements of the existing stockpile.
 
-#### (c) Program plan
-
-In carrying out the stockpile management program under subsection (a), the Secretary of Energy shall develop a long-term plan to extend the effective life of the weapons in the nuclear weapons stockpile without the use of nuclear weapons testing. The plan shall include the following:
-
-&emsp;(1) Mechanisms to provide for the manufacture, maintenance, and modernization of each weapon design in the nuclear stockpile, as needed.
-
-&emsp;(2) Mechanisms to expedite the collection of information necessary for carrying out the program, including information relating to the aging of materials and components, new manufacturing techniques, and the replacement or substitution of materials.
-
-&emsp;(3) Mechanisms to ensure the appropriate assignment of roles and missions for each nuclear weapons laboratory and production plant of the Department of Energy, including mechanisms for allocation of workload, mechanisms to ensure the carrying out of appropriate modernization activities, and mechanisms to ensure the retention of skilled personnel.
-
-&emsp;(4) Mechanisms to ensure that each national laboratory of the National Nuclear Security Administration has full and complete access to all weapons data to enable a rigorous peer review process to support the annual assessment of the condition of the nuclear weapons stockpile required under section 2525 of this title.
-
-&emsp;(5) Mechanisms for allocating funds for activities under the program, including allocations of funds by weapon type and facility.
-
-&emsp;(6) An identification of the funds needed, in the fiscal year in which the plan is developed and in each of the following five fiscal years, to carry out the program.
-
-#### (d) Annual updates
-
-The Secretary of Energy shall annually update the plan required under subsection (c) and shall submit the updated plan to Congress as part of the stockpile stewardship plan required by section 2523(c) of this title.
-
-#### (e) Program budget
+#### (c) Program budget
 
 In accordance with the requirements under section 2529 of this title, for each budget submitted by the President to Congress under section 1105 of title 31, the amounts requested for the program under this section shall be clearly identified in the budget justification materials submitted to Congress in support of that budget.
 
-(Pub. L. 107–314, div. D, title XLII, §4204, formerly Pub. L. 106–65, div. C, title XXXI, §3133, Oct. 5, 1999, 113 Stat. 926; renumbered Pub. L. 107–314, div. D, title XLII, §4204, and amended Pub. L. 108–136, div. C, title XXXI, §§3111, 3141(e)(5), Nov. 24, 2003, 117 Stat. 1743, 1758; Pub. L. 111–84, div. C, title XXXI, §3113(a)(2), Oct. 28, 2009, 123 Stat. 2704.)
+(Pub. L. 107–314, div. D, title XLII, §4204, formerly Pub. L. 106–65, div. C, title XXXI, §3133, Oct. 5, 1999, 113 Stat. 926; renumbered Pub. L. 107–314, div. D, title XLII, §4204, and amendedPub. L. 108–136, div. C, title XXXI, §§3111, 3141(e)(5), Nov. 24, 2003, 117 Stat. 1743, 1758; Pub. L. 111–84, div. C, title XXXI, §3113(a)(2), Oct. 28, 2009, 123 Stat. 2704; Pub. L. 112–239, div. C, title XXXI, §3133(d), Jan. 2, 2013, 126 Stat. 2192.)
 
 #### Codification
 
 Section was formerly set out as a note under section 2121 of Title 42, The Public Health and Welfare, prior to renumbering by Pub. L. 108–136.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (b)(2)(B). Pub. L. 112–239, §3133(d)(1), substituted “nuclear security enterprise” for “nuclear complex”.
+
+Subsecs. (c) to (e). Pub. L. 112–239, §3133(d)(2), (3), redesignated subsec. (e) as (c) and struck out former subsecs. (c) and (d), which related, respectively, to program plan and annual updates.
 
 <b>2009</b>—Pub. L. 111–84 amended section generally. Prior to amendment, section related to the nuclear weapons stockpile life extension program.
 

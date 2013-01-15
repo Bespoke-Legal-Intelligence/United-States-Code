@@ -16,7 +16,7 @@ Suitability for Adoption.—The decision whether a particular military animal is
 
 (c)
 
-Authorized Recipients.—Military animals may be adopted under this section by law enforcement agencies, former handlers of these animals, and other persons capable of humanely caring for these animals. If the Secretary of the military department concerned determines that an adoption is justified under subsection (a)(2) under circumstances under which the handler of a military working dog is wounded in action, the dog may be made available for adoption only by the handler. If the Secretary of the military department concerned determines that such an adoption is justified under circumstances under which the handler of a military working dog is killed in action or dies of wounds received in action, the military working dog shall be made available for adoption only by a parent, child, spouse, or sibling of the deceased handler.
+Authorized Recipients.—Military animals may be adopted under this section by law enforcement agencies, former handlers of these animals, and other persons capable of humanely caring for these animals. If the Secretary of the military department concerned determines that an adoption is justified under subsection (a)(2) under circumstances under which the handler of a military working dog is wounded in action, the dog may be made available for adoption only by the handler. If the Secretary of the military department concerned determines that such an adoption is justified under circumstances underwhich the handler of a military working dog is killed in action or dies of wounds received in action, the military working dog shall be made available for adoption only by a parent, child, spouse, or sibling of the deceased handler.
 
 (d)
 
@@ -30,15 +30,27 @@ Limitations on Liability for Transferred Animals.—(1) Notwithstanding any othe
 
 (f)
 
+Transfer of Retired Military Working Dogs.—If the Secretary of the military department concerned determines that a military working dog should be retired, and no suitable adoption is available at the military facility where the dog is located, the Secretary may transfer the dog—
+
+&emsp;(1) to the 341st Training Squadron; or
+
+&emsp;(2) to another location for adoption under this section.
+
+(g)
+
 Military Animal Defined.—In this section, the term “military animal” means the following:
 
 &emsp;(1) A military working dog.
 
 &emsp;(2) A horse owned by the Department of Defense.
 
-(Added Pub. L. 106–446, §1(a), Nov. 6, 2000, 114 Stat. 1932, §2582; renumbered §2583, Pub. L. 107–107, div. A, title X, §1048(a)(25), Dec. 28, 2001, 115 Stat. 1224; amended Pub. L. 109–163, div. A, title V, §599, Jan. 6, 2006, 119 Stat. 3284; Pub. L. 109–364, div. A, title III, §352(a), Oct. 17, 2006, 120 Stat. 2160; Pub. L. 110–181, div. A, title X, §1063(a)(13), Jan. 28, 2008, 122 Stat. 322; Pub. L. 112–81, div. A, title III, §351, title X, §1061(20), Dec. 31, 2011, 125 Stat. 1375, 1584.)
+(Added Pub. L. 106–446, §1(a), Nov. 6, 2000, 114 Stat. 1932, §2582; renumbered §2583, Pub. L. 107–107, div. A, title X, §1048(a)(25), Dec. 28, 2001, 115 Stat. 1224; amended Pub. L. 109–163, div. A, title V, §599, Jan. 6, 2006, 119 Stat. 3284; Pub. L. 109–364, div. A, title III, §352(a), Oct. 17, 2006, 120 Stat. 2160; Pub. L. 110–181, div. A, title X, §1063(a)(13), Jan. 28, 2008, 122 Stat. 322; Pub. L. 112–81, div. A, title III, §351, title X, §1061(20), Dec. 31, 2011, 125 Stat. 1375, 1584; Pub. L. 112–239, div. A, title III, §371(a), Jan. 2, 2013, 126 Stat. 1706.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (f). Pub. L. 112–239, §371(a)(2), added subsec. (f). Former subsec. (f) redesignated (g).
+
+Subsec. (g). Pub. L. 112–239, §371(a)(1), which directed the amendment of this section by redesignating subsecs. (f) and (g) as (g) and (h), respectively, was executed by redesignating subsec. (f) as (g) to reflect the probable intent of Congress and the intervening amendment by Pub. L. 112–81, §1061(20). See 2011 Amendment note below.
 
 <b>2011</b>—Subsec. (a)(2). Pub. L. 112–81, §351(1), inserted “, including circumstances under which the handler of a military working dog is killed in action, dies of wounds received in action, or is medically retired as a result of injuries received in action,” after “extraordinary circumstances”.
 

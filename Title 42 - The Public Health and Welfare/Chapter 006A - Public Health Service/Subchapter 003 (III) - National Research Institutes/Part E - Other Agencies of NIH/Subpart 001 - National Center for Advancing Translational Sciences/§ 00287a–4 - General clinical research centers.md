@@ -2,7 +2,7 @@
 
 #### (a) Grants
 
-The Director of the Center shall award grants for the establishment of general clinical research centers to provide the infrastructure for clinical research including clinical research training and career enhancement. Such centers shall support clinical studies and career development in all settings of the hospital or academic medical center involved.
+The Director of the Center shall award grants for the establishment of general clinical research centers to provide the infrastructure forclinical research including clinical research training and career enhancement. Such centers shall support clinical studies and career development in all settings of the hospital or academic medical center involved.
 
 #### (b) Activities
 
@@ -12,7 +12,7 @@ In carrying out subsection (a) of this section, the Director of National Institu
 
 #### Prior Provisions
 
-A prior section 481B of act July 1, 1944, was renumbered section 404J, and is classified to section 283<i>l</i> of this title.
+A prior section 481B of act July 1, 1944, was renumbered section 404J, and is classified to section 283l of this title.
 
 #### Amendments
 

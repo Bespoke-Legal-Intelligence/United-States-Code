@@ -12,7 +12,7 @@ It shall be the function of the joint committee—
 
 &emsp;(2) to study means of coordinating programs in order to further the policy of this chapter; and
 
-&emsp;(3) as a guide to the several committees of the Congress dealing with legislation relating to the Economic Report, not later than March 1 of each year (beginning with the year 1947) to file a report with the Senate and the House of Representatives containing its findings and recommendations with respect to each of the main recommendations made by the President in the Economic Report, and from time to time to make such other reports and recommendations to the Senate and House of Representatives as it deems advisable.
+&emsp;(3) as a guide to the several committees of the Congress dealing with legislation relating to the Economic Report, not later than March1 of each year (beginning with the year 1947) to file a report with the Senate and the House of Representatives containing its findings and recommendations with respect to each of the main recommendations made by the President in the Economic Report, and from time to time to make such other reports and recommendations to the Senate and House of Representatives as it deems advisable.
 
 #### (c) Vacancies; selection of chairman and vice chairman
 
@@ -76,7 +76,7 @@ Similar provisions were contained in Pub. L. 107–3, Mar. 13, 2001, 115 Stat. 5
 
 Pub. L. 106–554, §1(a)(2) \[title I, §7\], Dec. 21, 2000, 114 Stat. 2763, 2763A–98, provided that:
 
-“(a) Agency contributions for employees whose salaries are disbursed by the Secretary of the Senate from the appropriations account ‘Joint Economic Committee’ under the heading ‘JOINT ITEMS’ shall be paid from the Senate appropriations account for ‘Salaries, Officers and Employees’.
+“(a) Agency contributions for employees whose salaries are disbursed by the Secretary of the Senate fromthe appropriations account ‘Joint Economic Committee’ under the heading ‘JOINT ITEMS’ shall be paid from the Senate appropriations account for ‘Salaries, Officers and Employees’.
 
 “(b) This section shall apply to pay periods beginning on or after October 1, 2000.”
 

@@ -114,7 +114,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) has not at any time had any direct or indirect ownership interest in substantial farmland in the operation of which such individual materially participated, and
 
-&emsp;&emsp;&emsp;&emsp;(II) has not received financing under this paragraph in an amount which,when added to the financing to be provided under this paragraph, exceeds the amount in effect under subparagraph (A).
+&emsp;&emsp;&emsp;&emsp;(II) has not received financing under this paragraph in an amount which, when added to the financing to be provided under this paragraph, exceeds the amount in effect under subparagraph (A).
 
 #### (ii) Aggregation rules
 
@@ -212,7 +212,7 @@
 
 #### (e) No portion of bonds may be issued for skyboxes, airplanes, gambling establishments, etc.
 
-A private activity bond shall not be a qualified bond if issued as part of an issue and any portion of the proceeds of such issue is to be used to provide any airplane, skybox or other private luxury box, health club facility, facility primarily used for gambling, or store the principal business of which is the sale of alcoholic beverages for consumption off premises.
+A private activity bond shall not be a qualified bond if issued as part of an issue and any portion of the proceeds of such issue is to be used to provide any airplane, skybox or other private luxury box, health club facility, facility primarily used for gambling, or store the principal business of which is the sale of alcoholic beverages for consumption off premises. The preceding sentence shall not apply to any fixed-wing aircraft equipped for, and exclusively dedicated to providing, acute care emergency medical services (within the meaning of section 4261(g)(2)).
 
 #### (f) Public approval required for private activity bonds
 
@@ -320,15 +320,11 @@ A private activity bond shall not be a qualified bond if issued as part of an is
 
 &emsp;Subsection (c) shall not apply to any exempt facility bond issued as part of an issue described in section 142(a)(13) (relating to qualified public educational facilities).
 
-(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2635; amended Pub. L. 100–647, title I, §1013(a)(11)–(13)(B), (29), (36), title VI, §6180(b)(4), (5), Nov. 10, 1988, 102 Stat. 3539, 3543, 3544, 3728; Pub. L. 101–239, title VII, §7816(s)(3), Dec. 19, 1989, 103 Stat. 2423; Pub. L. 101–508, title XI, §11813(b)(8), Nov. 5, 1990, 104 Stat. 1388–552; Pub. L. 104–188, title I, §1117(a), (b), Aug. 20, 1996, 110 Stat. 1764; Pub. L. 107–16, title IV, §422(d), (e), June 7, 2001, 115 Stat. 66; Pub. L. 110–234, title XV, §15341(a)–(d), May 22, 2008, 122 Stat. 1517; Pub. L. 110–246, §4(a), title XV, §15341(a)–(d), June 18, 2008, 122 Stat. 1664, 2279.)
+(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2635; amended Pub. L. 100–647, title I, §1013(a)(11)–(13)(B), (29), (36), title VI, §6180(b)(4), (5), Nov. 10, 1988, 102 Stat. 3539, 3543, 3544, 3728; Pub. L. 101–239, title VII, §7816(s)(3), Dec. 19, 1989, 103 Stat. 2423; Pub. L. 101–508, title XI, §11813(b)(8), Nov. 5, 1990, 104 Stat. 1388–552; Pub. L. 104–188, title I, §1117(a), (b), Aug. 20, 1996, 110 Stat. 1764; Pub. L. 107–16, title IV, §422(d), (e), June 7, 2001, 115 Stat. 66; Pub. L. 110–234, title XV, §15341(a)–(d), May 22, 2008, 122 Stat. 1517; Pub. L. 110–246, §4(a), title XV, §15341(a)–(d), June 18, 2008, 122 Stat. 1664, 2279; Pub. L. 112–95, title XI, §1105(a), Feb. 14, 2012, 126 Stat. 152.)
 
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
-
-#### Amendment of Section
-
-<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### References in Text
 
@@ -339,6 +335,8 @@ The date of the enactment of the Tax Reform Act of 1986, referred to in subsec. 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (e). Pub. L. 112–95 inserted at end: “The preceding sentence shall not apply to any fixed-wing aircraft equipped for, and exclusively dedicated to providing, acute care emergency medical services (within the meaning of section 4261(g)(2)).”
 
 <b>2008</b>—Subsec. (c)(2)(A). Pub. L. 110–246, §15341(a), substituted “$450,000” for “$250,000”.
 
@@ -352,9 +350,9 @@ Subsec. (c)(2)(E). Pub. L. 110–246, §15341(c), substituted “unless such par
 
 Subsec. (c)(2)(H). Pub. L. 110–246, §15341(b), added subpar. (H).
 
-<b>2001</b>—Subsec. (h). Pub. L. 107–16, §§422(e), 901, temporarily substituted “certain bonds” for “mortgage revenue bonds, qualified student loan bonds, and qualified 501(c)(3) bonds” in heading. See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Subsec. (h). Pub. L. 107–16, §422(e), substituted “certain bonds” for “mortgage revenue bonds, qualified student loan bonds, and qualified 501(c)(3) bonds” in heading.
 
-Subsec. (h)(3). Pub. L. 107–16, §§422(d), 901, temporarily added par. (3). See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (h)(3). Pub. L. 107–16, §422(d), added par. (3).
 
 <b>1996</b>—Subsec. (c)(2)(E)(i). Pub. L. 104–188, §1117(b), substituted “30 percent” for “15 percent”.
 
@@ -368,7 +366,7 @@ Subsec. (c)(2)(G). Pub. L. 104–188, §1117(a), added subpar. (G).
 
 Subsec. (e). Pub. L. 100–647, §1013(a)(11), struck out “treated as” after “shall not be”.
 
-Subsec. (f)(2)(D). Pub. L. 100–647, §1013(a)(29), substituted “the average maturity date of the issue of which the refunding bond is a part is later than the average maturity date of the bonds to be refunded by such issue. For purposes of the preceding sentence, average maturity shall be determined in accordance withsubsection (b)(2)(A)” for “the maturity date of such bond is later than the maturity date of the bond to be refunded”.
+Subsec. (f)(2)(D). Pub. L. 100–647, §1013(a)(29), substituted “the average maturity date of the issue of which the refunding bond is a part is later than the average maturity date of the bonds to be refunded by such issue. For purposes of the preceding sentence, average maturity shall be determined in accordance with subsection (b)(2)(A)” for “the maturity date of such bond is later than the maturity date of the bond to be refunded”.
 
 Subsec. (f)(2)(E)(i). Pub. L. 100–647, §1013(a)(36), inserted sentence at end relating to treatment of an individual appointed to fill a vacancy in the office of an elected official.
 
@@ -380,6 +378,10 @@ Subsec. (g)(1). Pub. L. 100–647, §1013(a)(13)(A), substituted “proceeds” 
 
 Subsec. (g)(2). Pub. L. 100–647, §1013(a)(13)(B), substituted “proceeds” for “aggregate authorized face amount” and “do” for “does”.
 
+#### Effective Date of 2012 Amendment
+
+Pub. L. 112–95, title XI, §1105(b), Feb. 14, 2012, 126 Stat. 152, provided that: “The amendment made by this section \[amending this section\] shall apply to obligations issued after the date of the enactment of this Act \[Feb. 14, 2012\].”
+
 #### Effective Date of 2008 Amendment
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
@@ -388,15 +390,13 @@ Pub. L. 110–234, title XV, §15341(e), May 22, 2008, 122 Stat. 1517, and Pub. 
 
 \[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
 
-#### Effective and Termination Dates of 2001 Amendment
+#### Effective Date of 2001 Amendment
 
 Amendment by Pub. L. 107–16 applicable to bonds issued after Dec. 31, 2001, see section 422(f) of Pub. L. 107–16, set out as a note under section 142 of this title.
 
-Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
-
 #### Effective Date of 1996 Amendment
 
-Section 1117(c) of Pub. L. 104–188 provided that: “The amendments made by this section \[amending this section\] shall apply to bonds issued after the date of the enactment of this Act \[Aug. 20, 1996\].”
+Pub. L. 104–188, title I, §1117(c), Aug. 20, 1996, 110 Stat. 1764, provided that: “The amendments made by this section \[amending this section\] shall apply to bonds issued after the date of the enactment of this Act \[Aug. 20, 1996\].”
 
 #### Effective Date of 1990 Amendment
 
@@ -408,7 +408,7 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1988 Amendment
 
-Section 1013(a)(13)(C) of Pub. L. 100–647 provided that: “The amendments made by this paragraph \[amending this section\] shall apply to bonds issued after June 30, 1987.”
+Pub. L. 100–647, title I, §1013(a)(13)(C), Nov. 10, 1988, 102 Stat. 3539, provided that: “The amendments made by this paragraph \[amending this section\] shall apply to bonds issued after June 30, 1987.”
 
 Amendment by section 1013(a)(11), (12), (29), (36) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 

@@ -6,7 +6,7 @@ Any requirement established by or under section 387b, 387c, 387e, or 387i of thi
 
 #### (b) Information on public access and comment
 
-Each notice of proposed rulemaking or other notification under section 387g, 387h, 387i, 387j,or 387k of this title or under this section, any other notice which is published in the Federal Register with respect to any other action taken under any such section and which states the reasons for such action, and each publication of findings required to be made in connection with rulemaking under any such section shall set forth—
+Each notice of proposed rulemaking or other notification under section 387g, 387h, 387i, 387j, or 387k of this title or under this section, any other notice which is published in the Federal Register with respect to any other action taken under any such section and which states the reasons for such action, and each publication of findings required to be made in connection with rulemaking under any such section shall set forth—
 
 &emsp;(1) the manner in which interested persons may examine data and other information on which the notice or findings is <sup>1</sup> based; and
 
@@ -78,7 +78,7 @@ Any information reported to or otherwise obtained by the Secretary or the Secret
 
 &emsp;&emsp;&emsp;(iii) provide the Tobacco Products Scientific Advisory Committee a reasonable time to make its recommendation with respect to proposed regulations under subparagraph (A);
 
-&emsp;&emsp;&emsp;(iv) in establishing the effective date of a regulation promulgated under this subsection, take into account the differences in the manner in which the different types of tobacco products have historically been produced, the financial resources of the different tobacco product manufacturers, and the state of their existing manufacturing facilities, and shall provide for a reasonable period of time for such manufacturers to conform to good manufacturing practices; and
+&emsp;&emsp;&emsp;(iv) in establishing the effective date of a regulation promulgated under this subsection, take into account the differences in the manner in which the different typesof tobacco products have historically been produced, the financial resources of the different tobacco product manufacturers, and the state of their existing manufacturing facilities, and shall provide for a reasonable period of time for such manufacturers to conform to good manufacturing practices; and
 
 &emsp;&emsp;&emsp;(v) not require any small tobacco product manufacturer to comply with a regulation under subparagraph (A) for at least 4 years following the effective date established by the Secretary for such regulation.
 

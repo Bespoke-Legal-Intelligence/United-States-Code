@@ -12,7 +12,7 @@
 
 (b) Notwithstanding any other provision of this section or any other provision of law, no reduction shall be made in the pension of any veteran for any part of the period during which the veteran is furnished hospital treatment, or institutional or domiciliary care, for Hansen's disease, by the United States or any political subdivision thereof.
 
-(c) Where any veteran in receipt of an aid and attendance allowance described in subsection (r) or (t) of section 1114 of this title is hospitalized at Government expense, such allowance shall be discontinued from the first day of the second calendar month which begins after the date of the veteran's admission for such hospitalization for so long as such hospitalization continues. Any discontinuance required by administrative regulation, during hospitalization of a veteran by the Department, of increased pension based on need of regular aid and attendance or additional compensation based on need of regular aid and attendance as described in subsection (<i>l</i>) or (m) of section 1114 of this title, shall not be effective earlier than the first day of the second calendar month which begins after the date ofthe veteran's admission for hospitalization. In case a veteran affected by this subsection leaves a hospital against medical advice and is thereafter admitted to hospitalization within six months from the date of such departure, such allowance, increased pension, or additional compensation, as the case may be, shall be discontinued from the date of such readmission for so long as such hospitalization continues.
+(c) Where any veteran in receipt of an aid and attendance allowance described in subsection (r) or (t) of section 1114 of this title is hospitalized at Government expense, such allowance shall be discontinued from the first day of the second calendar month which begins after the date of the veteran's admission for such hospitalization for so long as such hospitalization continues. Any discontinuance required by administrative regulation, during hospitalization of a veteran by the Department, of increased pension based on need of regular aid and attendance or additional compensation based on need of regular aid and attendance as described in subsection (l) or (m) of section 1114 of this title, shall not be effective earlier than the first day of the second calendar month which begins after the date of the veteran's admission for hospitalization. In case a veteran affected by this subsection leaves a hospital against medical advice and is thereafter admitted to hospitalization within six months from the date of such departure, such allowance, increased pension, or additional compensation, as the case may be, shall be discontinued from the date of such readmission for so long as such hospitalization continues.
 
 (d)(1) For the purposes of this subsection—
 
@@ -32,15 +32,17 @@
 
 (6) The costs of administering this subsection shall be paid for from amounts available to the Department of Veterans Affairs for the payment of compensation and pension.
 
-(7) This subsection expires on September 30, 2016.
+(7) This subsection expires on November 30, 2016.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1234, §3203; Pub. L. 86–146, §§1(b), 2, Aug. 7, 1959, 73 Stat. 298; Pub. L. 86–211, §6, Aug. 29, 1959, 73 Stat. 435; Pub. L. 87–544, §1, July 25, 1962, 76 Stat. 208; Pub. L. 87–556, §1, July 27, 1962, 76 Stat. 245; Pub. L. 87–645, §2(b), Sept. 7, 1962, 76 Stat. 441; Pub. L. 88–450, §5(a), Aug. 19, 1964, 78 Stat. 504; Pub. L. 89–362, §§1, 2, Mar. 7, 1966, 80 Stat. 30; Pub. L. 91–24, §10, June 11, 1969, 83 Stat. 34; Pub. L. 92–328, title I, §104, June 30, 1972, 86 Stat. 394; Pub. L. 93–177, §5, Dec. 6, 1973, 87 Stat. 696; Pub. L. 95–588, title III, §307, Nov. 4, 1978, 92 Stat. 2510; Pub. L. 96–385, title V, §503(b), Oct. 7, 1980, 94 Stat. 1534; Pub. L. 97–66, title VI, §602, Oct. 17, 1981, 95 Stat. 1034; Pub. L. 98–160, title VII, §703(4), Nov. 21, 1983, 97 Stat. 1010; Pub. L. 98–543, title IV, §402(a), Oct. 24, 1984, 98 Stat. 2749; Pub. L. 99–576, title VII, §701(77), Oct. 28, 1986, 100 Stat. 3298; Pub. L. 101–237, title I, §111(a), Dec. 18, 1989, 103 Stat. 2064; Pub. L. 101–508, title VIII, §8003(a), Nov. 5, 1990, 104 Stat. 1388–342; renumbered §5503 and amended Pub. L. 102–40, title III, §304(a), title IV, §402(b)(1), May 7, 1991, 105 Stat. 209, 238; Pub. L. 102–83, §§4(a)(2)(A)(x), (3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 102–86, title I, §101(a), Aug. 14, 1991, 105 Stat. 414; Pub. L. 102–568, title VI, §601(a)–(c), Oct. 29, 1992, 106 Stat. 4341; Pub. L. 103–66, title XII, §12005, Aug. 10, 1993, 107 Stat. 414; Pub. L. 105–33, title VIII, §8015, Aug. 5, 1997, 111 Stat. 664; Pub. L. 105–368, title IX, §904(a), Nov. 11, 1998, 112 Stat. 3361; Pub. L. 106–419, title III, §304, title IV, §402(e), Nov. 1, 2000, 114 Stat. 1853, 1863; Pub. L. 107–103, title II, §204(a), title V, §504, Dec. 27, 2001, 115 Stat. 990, 995; Pub. L. 111–275, title VI, §§601(b)(2), 606, 607, Oct. 13, 2010, 124 Stat. 2884, 2886; Pub. L. 112–56, title II, §262, Nov. 21, 2011, 125 Stat. 732.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1234, §3203; Pub. L. 86–146, §§1(b), 2, Aug. 7, 1959, 73 Stat. 298; Pub. L. 86–211, §6, Aug. 29, 1959, 73 Stat. 435; Pub. L. 87–544, §1, July 25, 1962, 76 Stat. 208; Pub. L. 87–556, §1, July 27, 1962, 76 Stat. 245; Pub. L. 87–645, §2(b), Sept. 7, 1962, 76 Stat. 441; Pub. L. 88–450, §5(a), Aug. 19, 1964, 78 Stat. 504; Pub. L. 89–362, §§1, 2, Mar. 7, 1966, 80 Stat. 30; Pub. L. 91–24, §10, June 11, 1969, 83 Stat. 34; Pub. L. 92–328, title I, §104, June 30, 1972, 86 Stat. 394; Pub. L. 93–177, §5, Dec. 6, 1973, 87 Stat. 696; Pub. L. 95–588, title III, §307, Nov. 4, 1978, 92 Stat. 2510; Pub. L. 96–385, title V, §503(b), Oct. 7, 1980, 94 Stat. 1534; Pub. L. 97–66, title VI, §602, Oct. 17, 1981, 95 Stat. 1034; Pub. L. 98–160, title VII, §703(4), Nov. 21, 1983, 97 Stat. 1010; Pub. L. 98–543, title IV, §402(a), Oct. 24, 1984, 98 Stat. 2749; Pub. L. 99–576, title VII, §701(77), Oct. 28, 1986, 100 Stat. 3298; Pub. L. 101–237, title I, §111(a), Dec. 18, 1989, 103 Stat. 2064; Pub. L. 101–508, title VIII, §8003(a), Nov. 5, 1990, 104 Stat. 1388–342; renumbered §5503 and amended Pub. L. 102–40, title III, §304(a), title IV, §402(b)(1), May 7, 1991, 105 Stat. 209, 238; Pub. L. 102–83, §§4(a)(2)(A)(x), (3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 102–86, title I, §101(a), Aug. 14, 1991, 105 Stat. 414; Pub. L. 102–568, title VI, §601(a)–(c), Oct. 29, 1992, 106 Stat. 4341; Pub. L. 103–66, title XII, §12005, Aug. 10, 1993, 107 Stat. 414; Pub. L. 105–33, title VIII, §8015, Aug. 5, 1997, 111 Stat. 664; Pub. L. 105–368, title IX, §904(a), Nov. 11, 1998, 112 Stat. 3361; Pub. L. 106–419, title III, §304, title IV, §402(e), Nov. 1, 2000, 114 Stat. 1853, 1863; Pub. L. 107–103, title II, §204(a), title V, §504, Dec. 27, 2001, 115 Stat. 990, 995; Pub. L. 111–275, title VI, §§601(b)(2), 606, 607, Oct. 13, 2010, 124 Stat. 2884, 2886; Pub. L. 112–56, title II, §262, Nov. 21, 2011, 125 Stat. 732; Pub. L. 112–260, title II, §203, Jan. 10, 2013, 126 Stat. 2424.)
 
 #### References in Text
 
 The Social Security Act, referred to in subsec. (d)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (d)(7). Pub. L. 112–260 substituted “November 30, 2016” for “September 30, 2016”.
 
 <b>2011</b>—Subsec. (d)(7). Pub. L. 112–56 substituted “September 30, 2016” for “May 31, 2015”.
 
@@ -56,7 +58,7 @@ Subsec. (d)(7). Pub. L. 111–275, §607, substituted “May 31, 2015” for “
 
 “(B) The amount which would be payable but for this paragraph shall be paid to the veteran in a lump sum; however, no payment of a lump sum herein authorized shall be made to the veteran until after the expiration of six months following a finding of competency and in the event of the veterans’ death before payment of such lump sum no part thereof shall be payable.
 
-“(C) The Secretary may waive the discontinuance under this paragraph of payments to a veteran with respect to not more than 60 days of care of the veteran during any calendar year if the Secretary determinesthat the waiver is necessary in order to avoid a hardship for the veteran. Any such waiver shall be made pursuant to regulations which the Secretary shall prescribe.
+“(C) The Secretary may waive the discontinuance under this paragraph of payments to a veteran with respect to not more than 60 days of care of the veteran during any calendar year if the Secretary determines that the waiver is necessary in order to avoid a hardship for the veteran. Any such waiver shall be made pursuant to regulations which the Secretary shall prescribe.
 
 “(D) For purposes of this paragraph, the term ‘section 1114(j) rate’ means the monthly rate of compensation in effect under section 1114(j) of this title for a veteran with a service-connected disability rated as total.
 
@@ -146,7 +148,7 @@ Subsec. (a)(1)(D). Pub. L. 97–66, §602(2), added subpar. (D).
 
 <b>1973</b>—Subsec. (a)(1). Pub. L. 93–177 substituted “$50” for “$30”.
 
-<b>1972</b>—Subsec. (a). Pub. L. 92–328, §104(a), (b), redesignated subsec. (d) as (a). Former subsec. (a), which related to payment of compensation or retirement pay toveterans being furnished hospital treatment, institutional or domiciliary care by the Veterans’ Administration, was struck out.
+<b>1972</b>—Subsec. (a). Pub. L. 92–328, §104(a), (b), redesignated subsec. (d) as (a). Former subsec. (a), which related to payment of compensation or retirement pay to veterans being furnished hospital treatment, institutional or domiciliary care by the Veterans’ Administration, was struck out.
 
 Subsec. (b)(1). Pub. L. 92–328, §104(c), redesignated par. (2) as (1) and inserted provisions relating to the rating by the Veterans’ Administration of a veteran as incompetent by reason of mental illness and provisions relating to the payment of a lump sum to the veteran until after the expiration of six months following the finding of competency of the veteran. Former par. (1), which related to the payment of compensation or retirement pay pursuant to the provisions of subsec. (a) of this section to veterans rated by the Veterans’ Administration as incompetent, was struck out.
 
@@ -166,7 +168,7 @@ Subsecs. (e), (f). Pub. L. 92–328, §104(f), (g), redesignated subsecs. (e) an
 
 Subsec. (f). Pub. L. 89–362, §2, limited the application of the rule requiring discontinuance of aid and attendance allowance upon readmission following departure from a hospital against medical advice to situations where the readmission occurs within 6 months following prior termination of the hospitalization.
 
-<b>1964</b>—Subsec. (f). Pub. L. 88–450 directed that any discontinuance required by administrative regulation, during hospitalization of a veteran by the Veterans’ Administration, of increased pension based on need of regular aid and attendance as described in subsection (<i>l</i>) or (m) of section 314 of this title, shall not be effective earlier than the first day of the second calendar month which begins after the date of the veteran's admission for hospitalization, and authorized discontinuance of the increased pension or additional compensation of a veteran upon readmission if he left a hospital against medical advice.
+<b>1964</b>—Subsec. (f). Pub. L. 88–450 directed that any discontinuance required by administrative regulation, during hospitalization of a veteran by the Veterans’ Administration, of increased pension based on need of regular aid and attendance as described in subsection (l) or (m) of section 314 of this title, shall not be effective earlier than the first day of the second calendar month which begins after the date of the veteran's admission for hospitalization, and authorized discontinuance of the increased pension or additional compensation of a veteran upon readmission if he left a hospital against medical advice.
 
 <b>1962</b>—Subsec. (a)(2)(A). Pub. L. 87–544 removed brothers, sisters, and nondependent parents from the permitted class of beneficiaries.
 
@@ -196,21 +198,21 @@ Pub. L. 105–368, title IX, §904(b), Nov. 11, 1998, 112 Stat. 3361, provided t
 
 #### Effective Date of 1992 Amendment
 
-Section 601(d) of Pub. L. 102–568 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 1992, and shall apply with respect to months after September 1992. The amendment made by subsection (c) \[amending this section\] shall take effect on November 1, 1992, and shall apply with respect to months after October 1992.”
+Pub. L. 102–568, title VI, §601(d), Oct. 29, 1992, 106 Stat. 4342, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 1992, and shall apply with respect to months after September 1992. The amendment made by subsection (c) \[amending this section\] shall take effect on November 1, 1992, and shall apply with respect to months after October 1992.”
 
 #### Effective Date of 1991 Amendments
 
-Section 101(b) of Pub. L. 102–86 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as if contained in section 111 of the Veterans’ Benefits Amendments of 1989 (Public Law 101–237; 103 Stat. 2064).”
+Pub. L. 102–86, title I, §101(b), Aug. 14, 1991, 105 Stat. 414, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as if contained in section 111 of the Veterans’ Benefits Amendments of 1989 (Public Law 101–237; 103 Stat. 2064).”
 
-Section 304(b) of Pub. L. 102–40 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply as if included in the amendment made by section 8003(a) of the Omnibus Budget Reconciliation Act of 1990 (Public Law 101–508; 104 Stat. 1388–874).”
+Pub. L. 102–40, title III, §304(b), May 7, 1991, 105 Stat. 209, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply as if included in the amendment made by section 8003(a) of the Omnibus Budget Reconciliation Act of 1990 (Public Law 101–508; 104 Stat. 1388–874).”
 
 #### Effective Date of 1990 Amendment
 
-Section 8003(b) of Pub. L. 101–508 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on November 1, 1990, or the date of the enactment of this Act \[Nov. 5, 1990\], whichever is later.”
+Pub. L. 101–508, title VIII, §8003(b), Nov. 5, 1990, 104 Stat. 1388–343, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on November 1, 1990, or the date of the enactment of this Act \[Nov. 5, 1990\], whichever is later.”
 
 #### Effective Date of 1989 Amendment
 
-Section 111(b) of Pub. L. 101–237 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on February 1, 1990.”
+Pub. L. 101–237, title I, §111(b), Dec. 18, 1989, 103 Stat. 2065, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on February 1, 1990.”
 
 #### Effective Date of 1981 Amendment
 
@@ -234,13 +236,13 @@ Amendment by Pub. L. 92–328 effective first day of second calendar month which
 
 #### Effective Date of 1964 Amendment
 
-Section 5(b) of Pub. L. 88–450 provided that: “The amendment made by this section \[amending this section\] shall apply only with respect to compensation or pension based upon need of regular aid and attendance in the case of veterans admitted for hospitalization on or after the first day of the second calendar month which begins after the date of enactment of this Act \[Aug. 19, 1964\].”
+Pub. L. 88–450, §5(b), Aug. 19, 1964, 78 Stat. 504, provided that: “The amendment made by this section \[amending this section\] shall apply only with respect to compensation or pension based upon need of regular aid and attendance in the case of veterans admitted for hospitalization on or after the first day of the second calendar month which begins after the date of enactment of this Act \[Aug. 19, 1964\].”
 
 #### Effective Date of 1962 Amendments
 
 Amendment by Pub. L. 87–645 effective first day of first calendar month which begins after Sept. 7, 1962, see section 4 of Pub. L. 87–645, set out as a note under section 1112 of this title.
 
-Section 2(b) of Pub. L. 87–556 provided that: “The amendments made by this Act \[amending this section\] shall take effect on the first day of the first calendar month which begins more than thirty days after the date of enactment of this Act \[July 27, 1962\].”
+Pub. L. 87–556, §2(b), July 27, 1962, 76 Stat. 245, provided that: “The amendments made by this Act \[amending this section\] shall take effect on the first day of the first calendar month which begins more than thirty days after the date of enactment of this Act \[July 27, 1962\].”
 
 #### Effective Date of 1959 Amendments
 
@@ -254,21 +256,21 @@ Pub. L. 99–166, title I, §108(d), Dec. 3, 1985, 99 Stat. 947, provided that (
 
 #### Regulations; Waiver for Hardship Reasons
 
-Section 402(b) of Pub. L. 98–543 directed the Administrator to prescribe regulations under subsec. (b)(1)(C) of this section not later than 60 days after Oct. 24, 1984.
+Pub. L. 98–543, title IV, §402(b), Oct. 24, 1984, 98 Stat. 2749, directed the Administrator to prescribe regulations under subsec. (b)(1)(C) of this section not later than 60 days after Oct. 24, 1984.
 
 #### Payment of Lump Sum Compensation or Retirement Pay to Veterans Withheld Pursuant to Provisions in Effect on the Day Before the Effective Date of Pub. L. 92–328
 
-Section 106 of Pub. L. 92–328 provided that: “All compensation or retirement pay which is being withheld pursuant to the provisions of subsections (a) and (b)(1) of section 3203 \[now 5503\], title 38, United States Code, in effect on the day before the effective date of this Act, shall be paid to the veteran, if competent, in a lump sum. If the veteran is incompetent, the withheld amounts shall be paid in a lump sum, or successive lump sums, subject to the $1,500 and $500 limitations of subsection (b)(1) of such section 3203 \[now 5503\] as amended by this Act. If a competent veteran dies before payment is made the withheld amounts shall be paid according to the order of precedence, and subject to the time limitation, of subsection (a)(2) of such section 3203 \[now 5503\] in effect the day before the effective date of this Act. In the event of the death of an incompetent veteran before payment of all withheld amounts, no part of the remainder shall be payable.”
+Pub. L. 92–328, title I, §106, June 30, 1972, 86 Stat. 395, provided that: “All compensation or retirement pay which is being withheld pursuant to the provisions of subsections (a) and (b)(1) of section 3203 \[now 5503\], title 38, United States Code, in effect on the day before the effective date of this Act, shall be paid to the veteran, if competent, in a lump sum. If the veteran is incompetent, the withheld amounts shall be paid in a lump sum, or successive lump sums, subject to the $1,500 and $500 limitations of subsection (b)(1) of such section 3203 \[now 5503\] as amended by this Act. If a competent veteran dies before payment is made the withheld amounts shall be paid according to the order of precedence, and subject to the time limitation, of subsection (a)(2) of such section 3203 \[now 5503\] in effect the day before the effective date of this Act. In the event of the death of an incompetent veteran before payment of all withheld amounts, no part of the remainder shall be payable.”
 
 \[For effective date of Pub. L. 92–328, see Effective Date of 1972 Amendment notes set out under sections 1114, 1134, and 3713 of this title.\]
 
 #### Applicability of 1966 Amendments to Any Pension Eligibility Which Is Subject to Veterans’ Pension Act of 1959
 
-Section 3 of Pub. L. 89–362 provided that: “The amendments made by this Act \[amending this section\] shall also apply to cases in which pension eligibility is subject to the provisions of section 9(b) of the Veterans’ Pension Act of 1959 \[set out as a note under section 1521 of this title\].”
+Pub. L. 89–362, §3, Mar. 7, 1966, 80 Stat. 30, provided that: “The amendments made by this Act \[amending this section\] shall also apply to cases in which pension eligibility is subject to the provisions of section 9(b) of the Veterans’ Pension Act of 1959 \[set out as a note under section 1521 of this title\].”
 
 #### Applicability of 1962 Amendments to Persons Not Electing Pension Under Veterans’ Act of 1959
 
-Section 2(a) of Pub. L. 87–556 provided that: “The amendments made by this Act \[amending this section\] shall not apply to cases in which pension is payable pursuant to sections 9(b) and (c) of the Veterans’ Pension Act of 1959 \[set out as notes under section 1521 of this title\].”
+Pub. L. 87–556, §2(a), July 27, 1962, 76 Stat. 245, provided that: “The amendments made by this Act\[amending this section\] shall not apply to cases in which pension is payable pursuant to sections 9(b) and (c) of the Veterans’ Pension Act of 1959 \[set out as notes under section 1521 of this title\].”
 
-Section 2 of Pub. L. 87–544 provided that: “The amendment made by this Act \[amending this section\] shall also apply to cases in which pension eligibility is subject to the provisions of section 9(b) of the Veterans’ Pension Act of 1959 \[set out as notes under section 1521 of this title\].”
+Pub. L. 87–544, §2, July 25, 1962, 76 Stat. 208, provided that: “The amendment made by this Act \[amending this section\] shall also apply to cases in which pension eligibility is subject to the provisions of section 9(b) of the Veterans’ Pension Act of 1959 \[set out as notes under section 1521 of this title\].”
 

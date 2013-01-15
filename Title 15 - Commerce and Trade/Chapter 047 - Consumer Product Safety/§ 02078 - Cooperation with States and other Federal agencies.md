@@ -44,7 +44,7 @@ Notwithstanding section 2055(a)(3) of this title, the Commission may provide to 
 
 &emsp;&emsp;&emsp;(ii) a law administered by the Commission, if disclosure of the material would further a Commission investigation or enforcement proceeding; or
 
-&emsp;&emsp;&emsp;(iii) with respect to a foreign law enforcement agency, with the approval of the Attorney General, other foreign criminal laws, if such foreign criminal laws are offenses defined in or covered by a criminal mutual legal assistance treaty in force between the government of the United Statesand the foreign law enforcement agency's government; and
+&emsp;&emsp;&emsp;(iii) with respect to a foreign law enforcement agency, with the approval of the Attorney General, other foreign criminal laws, if such foreign criminal laws are offenses defined in or covered by a criminal mutual legal assistance treaty in force between the government of the United States and the foreign law enforcement agency's government; and
 
 &emsp;&emsp;(C) in the case of a foreign government agency, such agency is not from a foreign state that the Secretary of State has determined, in accordance with section 2405(j) of the Appendix to title 50, has repeatedly provided support for acts of international terrorism, unless and until such determination is rescinded pursuant to section 2405(j)(4) of the Appendix to title 50.
 

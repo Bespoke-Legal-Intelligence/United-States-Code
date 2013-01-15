@@ -36,7 +36,7 @@ The Secretary shall by regulation promulgate procedures for the implementation o
 
 Subsec. (b)(1). Pub. L. 105–115, §125(b)(2)(I)(i), struck out “, a certificate was issued for the drug under section 357 of this title,” before “or a license was issued”.
 
-Subsec. (b)(2). Pub. L. 105–115, §125(b)(2)(I)(ii), struck out “, a certificate has not been issued for the drug under section 357 of this title,” before “or a license has not been issued” and “, approval of an application for certification under section 357 of this title,” before “or approval of a license”.
+Subsec. (b)(2). Pub. L. 105–115, §125(b)(2)(I)(ii), struck out “, a certificate has not been issued for the drugunder section 357 of this title,” before “or a license has not been issued” and “, approval of an application for certification under section 357 of this title,” before “or approval of a license”.
 
 <b>1988</b>—Subsec. (a)(1). Pub. L. 100–290, §2(a), inserted after first sentence “A request for designation of a drug shall be made before the submission of an application under section 355(b) of this title for the drug, the submission of an application for certification of the drug under section 357 of this title, or the submission of an application for licensing of the drug under section 262 of title 42.”
 

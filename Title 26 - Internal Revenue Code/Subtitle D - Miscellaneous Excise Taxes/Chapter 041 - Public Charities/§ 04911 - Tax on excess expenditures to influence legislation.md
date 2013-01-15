@@ -45,7 +45,7 @@ For purposes of this section—
 
 #### (4) Grass roots nontaxable amount
 
-&emsp;The grass roots nontaxable amount for any organization for any taxable year is 25 percentof the lobbying nontaxable amount (determined under paragraph (2)) for such organization for such taxable year.
+&emsp;The grass roots nontaxable amount for any organization for any taxable year is 25 percent of the lobbying nontaxable amount (determined under paragraph (2)) for such organization for such taxable year.
 
 #### (d) Influencing legislation
 
@@ -123,7 +123,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;Except as otherwise provided in paragraph (4), if for a taxable year two or more organizations described in section 501(c)(3) are members of an affiliated group of organizations as defined in paragraph (2), and an election undersection 501(h) is effective for at least one such organization for such year, then—
+&emsp;Except as otherwise provided in paragraph (4), if for a taxable year two or more organizations described in section 501(c)(3) are members of an affiliated group of organizations as defined in paragraph (2), and an election under section 501(h) is effective for at least one such organization for such year, then—
 
 &emsp;&emsp;(A) the determination as to whether excess lobbying expenditures have been made and the determination as to whether the expenditure limits of section 501(h)(1) have been exceeded shall be made as though such affiliated group is one organization,
 
@@ -155,7 +155,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) in the case of any organization whose decisions bind one or more members of such affiliated group, directly or indirectly, the determination as to whether such organization has paid or incurred excess lobbying expenditures and the determination as to whether such organization has exceeded the expenditure limits of section 501(h)(1) shall be made as though such organization has paid or incurred those amounts paid or incurred by such members of such affiliated group to influence legislation with respect to Acts, bills, resolutions, or similar items by the Congress, and
 
-&emsp;&emsp;(B) in the case of any organization to which subparagraph (A) does not apply, but which is a member of such affiliated group, the determination as to whether such organization has paid or incurred excess lobbying expenditures and the determination as to whether such organization has exceeded the expenditure limits of section 501(h)(1) shall be made as though such organization is not a member of such affiliated group.
+&emsp;&emsp;(B) in the case of any organization to which subparagraph (A) does not apply, butwhich is a member of such affiliated group, the determination as to whether such organization has paid or incurred excess lobbying expenditures and the determination as to whether such organization has exceeded the expenditure limits of section 501(h)(1) shall be made as though such organization is not a member of such affiliated group.
 
 (Added Pub. L. 94–455, title XIII, §1307(b), Oct. 4, 1976, 90 Stat. 1723; amended Pub. L. 95–600, title VII, §703(g)(1), Nov. 6, 1978, 92 Stat. 2940.)
 

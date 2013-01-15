@@ -6,7 +6,7 @@
 
 (3) An appeal may not be taken in forma pauperis if the trial court certifies in writing that it is not taken in good faith.
 
-(b)(1) Notwithstanding subsection (a), if a prisoner brings a civil action or files an appeal in forma pauperis, the prisoner shall be required to pay the full amount of a filing fee. The court shall assess and, when funds exist, collect, as a partial payment of any court fees required by law, an initial partial filing fee of 20 percent of the greater of—
+(b)(1) Notwithstanding subsection (a), if a prisoner brings a civil action or files an appeal informa pauperis, the prisoner shall be required to pay the full amount of a filing fee. The court shall assess and, when funds exist, collect, as a partial payment of any court fees required by law, an initial partial filing fee of 20 percent of the greater of—
 
 &emsp;(A) the average monthly deposits to the prisoner's account; or
 
@@ -66,7 +66,7 @@ Words “and willful false swearing in any affidavit provided for in this sectio
 
 A proviso in section 836 of title 28, U.S.C., 1940 ed., that the United States should not be liable for costs was deleted as covered by section 2412 of this title.
 
-The provision in section 9a(e) of title 28, U.S.C., 1940 ed., respecting stenographic transcripts furnished on appeals in civil cases is extended by subsection (b) of the revised section to include criminal cases. Obviously it would be inconsistent to furnish the same to a poor person in a civil case involving money only and to deny it in a criminal proceeding where life and liberty are in jeopardy.
+The provision in section 9a(e) of title 28, U.S.C., 1940 ed., respecting stenographic transcripts furnished on appeals in civil cases is extended by subsection (b) of the revised section to include criminal cases. Obviously it would be inconsistent to furnish the same to a poorperson in a civil case involving money only and to deny it in a criminal proceeding where life and liberty are in jeopardy.
 
 The provision of section 832 of title 28, U.S.C., 1940 ed., for payment when authorized by the Attorney General was revised to substitute the Director of the Administrative Office of the United States Courts who now disburses such items.
 

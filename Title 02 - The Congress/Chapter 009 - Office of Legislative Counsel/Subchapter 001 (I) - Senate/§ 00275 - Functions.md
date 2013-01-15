@@ -14,5 +14,5 @@ Provisions setting forth functions of office of legislative counsel with respect
 
 #### Effective Date of 1946 Amendment
 
-Section 142 of act Aug. 2, 1946, provided that the amendment made by that act is effective Jan. 2, 1947.
+Act Aug. 2, 1946, ch. 753, title I, §142, 60 Stat. 834, provided that the amendment made by that act is effective Jan. 2, 1947.
 

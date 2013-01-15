@@ -18,7 +18,7 @@
 
 #### (B) Years after appropriation trigger
 
-&emsp;&emsp;For any fiscal year that is not a covered year, the Secretary shall reserve not lessthan $300,000 and not more than 2 percent of the amount appropriated under paragraph (1) to fund technical assistance activities under section 15063(c) of this title (other than section 15063(c)(4) of this title).
+&emsp;&emsp;For any fiscal year that is not a covered year, the Secretary shall reserve not less than $300,000 and not more than 2 percent of the amount appropriated under paragraph (1) to fund technical assistance activities under section 15063(c) of this title (other than section 15063(c)(4) of this title).
 
 #### (C) Covered year
 

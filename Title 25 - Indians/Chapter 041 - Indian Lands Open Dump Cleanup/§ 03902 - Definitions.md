@@ -22,7 +22,7 @@ For the purposes of this chapter, the following definitions shall apply:
 
 #### (4) Alaska Native land
 
-&emsp;The term “Alaska Native land” means (A) land conveyed or to be conveyed pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], including any land reconveyed under section 14(c)(3) of that Act (43 U.S.C. 1613(c)(3)), and (B) land conveyed pursuant to the Act of November 2, 1966 (16 U.S.C. 1151 et seq.; commonly known as the “Fur Seal Act of 1966”).
+&emsp;The term “Alaska Native land” means (A) land conveyed or to be conveyed pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], including any land reconveyed under section 14(c)(3) of that Act (43 U.S.C. 1613(c)(3)), and (B) land conveyed pursuant to the Act of November 2, 1966 (16 U.S.C.1151 et seq.; commonly known as the “Fur Seal Act of 1966”).
 
 #### (5) Indian tribal government
 

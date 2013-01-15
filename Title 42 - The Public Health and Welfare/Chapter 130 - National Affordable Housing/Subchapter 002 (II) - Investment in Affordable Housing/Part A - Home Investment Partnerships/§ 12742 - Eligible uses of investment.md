@@ -40,7 +40,7 @@
 
 #### (E) Security deposit assistance
 
-&emsp;&emsp;A jurisdiction using funds provided under this part for tenant-based rental assistance may use such funds to provide loans or grants to very low- and low-income families for security deposits for rental of dwelling units. Assistance under this subparagraph does not preclude assistance under any other provision of this paragraph.
+&emsp;&emsp;A jurisdiction using funds provided under this part for tenant-based rental assistancemay use such funds to provide loans or grants to very low- and low-income families for security deposits for rental of dwelling units. Assistance under this subparagraph does not preclude assistance under any other provision of this paragraph.
 
 #### (4) Redesignated (3)
 
@@ -76,7 +76,7 @@ Funds made available under this part may not be used to—
 
 #### (1) In general
 
-&emsp;The Secretary shall establish limits on the amount of funds under this part that may be invested on a per unit basis. For multifamily housing, such limits shall not be less than the per unit dollar amount limitations set forth in section 1715<i>l</i>(d)(3)(ii) of title 12, as such limitations may be adjusted in accordance therewith, except that for purposes of this subsection the Secretary shall, by regulation, increase the per unit dollar amount limitations in any geographical area by an amount, not to exceed 140 percent, that equals the amount by which the costs of multifamily housing construction in the area exceed the national average of such costs. The limits shall be established on a market-by-market basis, with adjustments made for number of bedrooms, and shall reflect the actual cost of new construction, reconstruction, or rehabilitation of housing that meets applicable State and local housing and building codes and the cost of land, including necessary site improvements. Adjustments shall be made annually to reflect inflation. Separate limits may be set for different eligible activities.
+&emsp;The Secretary shall establish limits on the amount of funds under this part that may be invested on a per unit basis. For multifamily housing, such limits shall not be less than the per unit dollar amount limitations set forth in section 1715l(d)(3)(ii) of title 12, as such limitations may be adjusted in accordance therewith, except that for purposes of this subsection the Secretary shall, by regulation, increase the per unit dollar amount limitations in any geographical area by an amount, not to exceed 140 percent, that equals the amount by which the costs of multifamily housing construction in the area exceed the national average of such costs. The limits shall be established on a market-by-market basis, with adjustments made for number of bedrooms, and shall reflect the actual cost of new construction, reconstruction, or rehabilitation of housing that meets applicable State and local housing and building codes and the cost of land, including necessary site improvements. Adjustments shall be made annually to reflect inflation. Separate limits may be set for different eligible activities.
 
 #### (2) Criteria
 
@@ -110,11 +110,11 @@ Section 1437d(c)(4)(A) of this title, referred to in subsec. (a)(3)(A)(ii), was 
 
 Section 1437g(d)(1) of this title, referred to in subsec. (d)(5), was in the original “section 9(d)(1) of the Housing Act of 1937”, and was translated as reading “section 9(d)(1) of the United States Housing Act of 1937”, act Sept. 1, 1937, ch. 896, to reflect the probable intent of Congress.
 
-The Emergency Low Income Housing Preservation Act of 1987, referred to in subsec. (d)(6), is title II of Pub. L. 100–242, Feb. 5, 1988, 102 Stat. 1877, as amended, which was classified principally as a note under section 1715<i>l</i> of Title 12, Banks and Banking. Title II of Pub. L. 100–242, was amended generally by Pub. L. 101–625, title VI, §601(a), Nov. 28, 1990, 104 Stat. 4249, and is now known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990, which is classified principally to chapter 42 (§4101 et seq.) of Title 12. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 12 and Tables.
+The Emergency Low Income Housing Preservation Act of 1987, referred to in subsec. (d)(6), is title II of Pub. L. 100–242, Feb. 5, 1988, 102 Stat. 1877, as amended, which was classified principally as a note under section 1715l of Title 12, Banks and Banking. Title II of Pub. L. 100–242, was amended generally by Pub. L. 101–625, title VI, §601(a), Nov. 28, 1990, 104 Stat. 4249, and is now known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990, which is classified principally to chapter 42 (§4101 et seq.) of Title 12. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 12 and Tables.
 
 #### Amendments
 
-<b>1998</b>—Subsec. (d)(5). Pub. L. 105–276 substituted “section 1437g(d)(1)” for “section 1437<i>l</i>”.
+<b>1998</b>—Subsec. (d)(5). Pub. L. 105–276 substituted “section 1437g(d)(1)” for “section 1437l”.
 
 <b>1992</b>—Subsec. (a)(1). Pub. L. 102–550, §207(a), inserted “to provide for the payment of reasonable administrative and planning costs, to provide for the payment of operating expenses of community housing development organizations,” after “or organizations,”.
 
@@ -138,7 +138,7 @@ Pub. L. 102–550, §207(b)(1), inserted before comma at end of par. (1) “that
 
 Subsec. (d). Pub. L. 102–550, §207(b)(2), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Pub. L. 102–550, §206, inserted after first sentence of par. (1) “For multifamily housing, such limits shall not be less than the per unit dollar amount limitations set forth in section 1715<i>l</i>(d)(3)(ii) of title 12, as such limitations may be adjusted in accordance therewith, except that for purposes of this subsection the Secretary shall, by regulation, increase the per unit dollar amount limitations in any geographical area by an amount, not to exceed 140 percent, that equals the amount by which the costs of multifamily housing construction in the area exceed the national average of such costs.”
+Pub. L. 102–550, §206, inserted after first sentence of par. (1) “For multifamily housing, such limits shall not be less than the per unit dollar amount limitations set forth in section 1715l(d)(3)(ii) of title 12, as such limitations may be adjusted in accordance therewith, except that for purposes of this subsection the Secretary shall, by regulation, increase the per unit dollar amount limitations in any geographical area by an amount, not to exceed 140 percent, that equals the amount by which the costs of multifamily housing construction in the area exceed the national average of such costs.”
 
 Subsecs. (e), (f). Pub. L. 102–550, §207(b)(2), redesignated subsecs. (d) and (e) as (e) and (f), respectively.
 

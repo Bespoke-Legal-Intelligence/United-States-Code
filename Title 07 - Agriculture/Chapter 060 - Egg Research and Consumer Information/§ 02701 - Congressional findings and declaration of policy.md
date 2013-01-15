@@ -1,6 +1,6 @@
 ### §2701. Congressional findings and declaration of policy
 
-Eggs constitute one of the basic, natural foods in the diet. They are produced by many individual egg producers throughout the United States. Egg products, spent fowl, and products of spent fowl are derivatives of egg production. These products move in interstate and foreign commerce and those which do not move in such channels of commerce directly burden or affect interstate commerce of these products. Themaintenance and expansion of existing markets and the development of new or improved markets and uses are vital to the welfare of egg producers and those concerned with marketing, using, and processing eggs as well as the general economy of the Nation. The production and marketing of these products by numerous individual egg producers have prevented the development and carrying out of adequate and coordinated programs of research and promotion necessary for the maintenance of markets and the development of new products of, and markets for, eggs, egg products, spent fowl, and products of spent fowl. Without an effective and coordinated method of assuring cooperative and collective action in providing for and financing such programs, individual egg producers are unable to provide, obtain, or carry out the research, consumer and producer information, and promotion necessary to maintain and improve markets for any or all of these products.
+Eggs constitute one of the basic, natural foods in the diet. They are produced by many individual egg producers throughout the United States. Egg products, spent fowl, and products of spent fowl are derivatives of egg production. These products move in interstate and foreign commerce and those which do not move in such channels of commerce directly burden or affect interstate commerce of these products. The maintenance and expansion of existing markets and the development of new or improved markets and uses are vital to the welfare of egg producers and those concerned with marketing, using, and processing eggs as well as the general economy of the Nation. The production and marketing of these products by numerous individual egg producers have prevented the development and carrying out of adequate and coordinated programs of research and promotion necessary for the maintenance of markets and the development of new products of, and markets for, eggs, egg products, spent fowl, and products of spent fowl. Without an effective and coordinated method of assuring cooperative and collective action in providing for and financing such programs, individual egg producers are unable to provide, obtain, or carry out the research, consumer and producer information, and promotion necessary to maintain and improve markets for any or all of these products.
 
 It has long been recognized that it is in the public interest to provide an adequate, steady supply of fresh eggs readily available to the consumers of the Nation. Maintenance of markets and the development of new markets, both domestic and foreign, are essential to the egg industry if the consumers of eggs, egg products, spent fowl, or products of spent fowl are to be assured of an adequate, steady supply of such products.
 
@@ -10,7 +10,7 @@ It is therefore declared to be the policy of the Congress and the purpose of thi
 
 #### Effective Date
 
-Section 21 of Pub. L. 93–428 provided that: “This Act \[enacting this chapter and provisions set out as notes under this section\] shall take effect upon enactment \[Oct. 1, 1974\]”.
+Pub. L. 93–428, §21, Oct. 1, 1974, 88 Stat. 1179, provided that: “This Act \[enacting this chapter and provisions set out as notes under this section\] shall take effect upon enactment \[Oct. 1, 1974\]”.
 
 #### Short Title of 1993 Amendment
 
@@ -26,9 +26,9 @@ Pub. L. 96–276, §1, June 17, 1980, 94 Stat. 541, provided: “That this Act \
 
 #### Short Title
 
-Section 1 of Pub. L. 93–428 provided: “That this Act \[enacting this chapter and provisions set out as notes under this section\] shall be known as the ‘Egg Research and Consumer Information Act’.”
+Pub. L. 93–428, §1, Oct. 1, 1974, 88 Stat. 1171, provided: “That this Act \[enacting this chapter and provisions set out as notes under this section\] shall be known as the ‘Egg Research and Consumer Information Act’.”
 
 #### Separability
 
-Section 19 of Pub. L. 93–428 provided that: “If any provision of this Act \[enacting this chapter and provisions set out as notes under this section\] or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the Act and of the application of such provision to other persons and circumstances shall not be affected thereby”.
+Pub. L. 93–428, §19, Oct. 1, 1974, 88 Stat. 1179, provided that: “If any provision of this Act \[enacting this chapter and provisions set out as notes under this section\] or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the Act and of the application of such provision to other persons and circumstances shall not be affected thereby”.
 

@@ -12,7 +12,7 @@
 
 #### (2) Monitoring and review of certain countries
 
-&emsp;The President shall monitor, review, and report to Congress annually on the progress of each country listed in section 107 of the African Growth and Opportunity Act in meeting the requirements described in paragraph (1) in order to determine the current or potential eligibility of each country to be designated as a beneficiary sub-Saharan African country for purposes of this section. The President's determinations, and explanations of such determinations, with specific analysis of the eligibility requirements described in paragraph (1)(A), shall be included in the annual report required by section 106 of the African Growth and Opportunity Act \[19 U.S.C. 3705\].
+&emsp;The President shall monitor, review, and report to Congress annually on the progress of each country listed in section 107 of the African Growth and Opportunity Act in meeting the requirements described in paragraph (1) in order to determine the current or potential eligibility of each country to be designated asa beneficiary sub-Saharan African country for purposes of this section. The President's determinations, and explanations of such determinations, with specific analysis of the eligibility requirements described in paragraph (1)(A), shall be included in the annual report required by section 106 of the African Growth and Opportunity Act \[19 U.S.C. 3705\].
 
 #### (3) Continuing compliance
 

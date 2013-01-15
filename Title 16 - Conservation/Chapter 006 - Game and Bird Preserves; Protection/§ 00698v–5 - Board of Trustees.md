@@ -48,7 +48,7 @@ The President shall make the initial appointments to the Board of Trustees withi
 
 #### (2) Vacancies
 
-&emsp;Any vacancy among the appointed trustees shall be filled in the same manner in which the original appointment was made, and any trustee appointed to fill a vacancy shall serve for the remainder of that term for which his or her predecessor was appointed.
+&emsp;Any vacancy among the appointed trustees shall be filled in the same manner in whichthe original appointment was made, and any trustee appointed to fill a vacancy shall serve for the remainder of that term for which his or her predecessor was appointed.
 
 #### (3) Limitations
 

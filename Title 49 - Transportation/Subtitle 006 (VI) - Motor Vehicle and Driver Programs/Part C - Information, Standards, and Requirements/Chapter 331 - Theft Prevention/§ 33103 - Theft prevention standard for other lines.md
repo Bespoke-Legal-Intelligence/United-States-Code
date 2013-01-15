@@ -16,7 +16,7 @@ Extension of Application.—(1) Not later than 3 years after the standard is pre
 
 (c)
 
-Initial Review of Effectiveness.—Before the Secretary begins a regulatory proceeding under subsection (b) of this section, the Attorney General shall make a finding that the Secretary shall apply the standard prescribed under subsection (a) of this section unless the Attorney General finds, based on information collected and analyzed under section 33112 of this title and other information the Attorney General develops after providing notice and an opportunity for a public hearing, that applying the standard prescribed in subsection (a) to the remaining lines of passenger motor vehicles (except light duty trucks) not covered by that standard would not substantially inhibit chop shop operations and motor vehicle thefts. The Attorney General also shall consider and include in the record additional costs, effectiveness, competition, and available alternative factors. The Attorney General shall submit to the Secretary the finding and record on which the finding is based.
+Initial Review of Effectiveness.—Before the Secretary begins a regulatory proceeding under subsection (b) of this section, the Attorney General shall make a finding that the Secretary shall apply the standard prescribed under subsection (a) of this section unless the Attorney General finds, based on information collected and analyzed under section 33112 <sup>1</sup> of this title and other information the Attorney General develops after providing notice and an opportunity for a public hearing, that applying the standard prescribed in subsection (a) to the remaining lines of passenger motor vehicles (except light duty trucks) not covered by that standard would not substantially inhibit chop shop operations and motor vehicle thefts. The Attorney General also shall consider and include in the record additional costs, effectiveness, competition, and available alternative factors. The Attorney General shall submit to the Secretary the finding and record on which the finding is based.
 
 (d)
 
@@ -30,7 +30,7 @@ Long Range Review of Effectiveness.—(1) Not later than December 31, 1999, the 
 
 &emsp;(i) consider the additional cost, competition, and available alternatives;
 
-&emsp;(ii) base that finding on information collected and analyzed under section 33112 of this title;
+&emsp;(ii) base that finding on information collected and analyzed under section 33112 <sup>1</sup> of this title;
 
 &emsp;(iii) consider the effectiveness, the extent of use, and the extent to which civil and criminal penalties under section 33115(b) of this title and section 2322 of title 18 on chop shops have been effective in substantially inhibiting operation of chop shops and motor vehicle theft;
 
@@ -113,4 +113,10 @@ In subsection (d)(2)(A)(iii), the words “civil . . . penalties under section
 In subsection (d)(3), the words “for the model years after model year 2000” are substituted for “Nothing in this paragraph affects exemptions granted in model year 2000 or earlier to any manufacturer” to eliminate unnecessary words. The words “at one of the following levels that the Attorney General decides” are substituted for “as determined by the Attorney General” for clarity.
 
 In subsection (e), the text of 15:2022(c)(4) (related to the standard under 15:2022(c)(1)) is omitted as obsolete because the standard under 15:2022(c)(1) has already been prescribed. See 49 C.F.R. 541.
+
+#### References in Text
+
+Section 33112 of this title, referred to in subsecs. (c) and (d)(2)(A)(ii), was repealed by Pub. L. 112–141, div. C, title I, §31313(2), July 6, 2012, 126 Stat. 772.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

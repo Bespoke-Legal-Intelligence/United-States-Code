@@ -74,7 +74,7 @@ Subsec. (g). Pub. L. 101–640, §303(b)(1), redesignated subsec. (f) as (g).
 
 #### Demonstration of Construction of Federal Project by Non-Federal Interests
 
-Section 404 of Pub. L. 101–640 provided that:
+Pub. L. 101–640, title IV, §404, Nov. 28, 1990, 104 Stat. 4646, provided that:
 
 “(a)
 

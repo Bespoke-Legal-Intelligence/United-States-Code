@@ -24,7 +24,7 @@ The amount of a penalty under this section, as determined by the Director, may n
 
 #### (1) Establishment
 
-&emsp;The Director shall establish standards and procedures governing the imposition of civilmoney penalties under this section. Such standards and procedures—
+&emsp;The Director shall establish standards and procedures governing the imposition of civil money penalties under this section. Such standards and procedures—
 
 &emsp;&emsp;(A) shall provide for the Director to notify the enterprise in writing of the determination of the Director to impose the penalty, which shall be made on the record;
 
@@ -54,7 +54,7 @@ The amount of a penalty under this section, as determined by the Director, may n
 
 #### (d) Action to collect penalty
 
-If an enterprise fails to comply with an order by the Director imposing a civil money penalty under this section, after the order is no longer subject to review, as provided in sections 4582 and 4583 of this title, the Director may bring an action in the United States District Court for the District of Columbia to obtain a monetary judgment against the enterprise, and such other relief as may be available. The monetary judgment may, in the court's discretion, include the attorneys’ fees and other expenses incurred by the United States in connection with the action. In an action under this subsection, the validity and appropriateness of the order imposing the penalty shall not be subject to review.
+If an enterprise fails to comply with an order by the Director imposing a civil money penalty under this section, after the order is no longer subject to review, as provided in sections 4582 and 4583 of this title, the Director may bring an action in the United States District Court for the District of Columbia to obtain a monetary judgment against the enterprise, and such other relief as may be available. The monetary judgment may, in the court's discretion, include the attorneys’ fees and other expenses incurred by the United States in connection with the action.In an action under this subsection, the validity and appropriateness of the order imposing the penalty shall not be subject to review.
 
 #### (e) Settlement by Director
 

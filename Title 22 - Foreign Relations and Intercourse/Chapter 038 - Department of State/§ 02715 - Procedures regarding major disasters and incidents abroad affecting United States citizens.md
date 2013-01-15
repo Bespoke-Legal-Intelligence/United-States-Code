@@ -20,7 +20,7 @@ A prior section 43 of act Aug. 1, 1956, was renumbered section 44 by section 115
 
 #### Development of Standardized Procedures
 
-Section 115(d) of Pub. L. 101–246 provided that:
+Pub. L. 101–246, title I, §115(d), Feb. 16, 1990, 104 Stat. 23, provided that:
 
 “(1) The Secretary of State shall enter into discussions with international air carriers and other appropriate entities to develop standardized procedures which will assist the Secretary in implementing the provisions of section 43 of the State Department Basic Authorities Act of 1956, as amended by subsection (c) \[22 U.S.C. 2715\].
 

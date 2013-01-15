@@ -8,7 +8,7 @@
 
 &emsp;(2) in any instance where the eligible veteran or eligible person has interrupted, or failed to progress in, the veteran's or person's program due to the veteran's or person's own misconduct, the veteran's or person's own neglect, or the veteran's or person's own lack of application, there exists a reasonable likelihood with respect to the program which the eligible veteran or eligible person proposes to pursue that there will not be a recurrence of such an interruption or failure to progress.
 
-(c) The Secretary may also approve additional changes in program if the Secretary finds such changes are necessitated by circumstances beyond the control of the eligible veteran or eligible person.
+(c) The Secretary may also approve additional changes in program if the Secretary finds suchchanges are necessitated by circumstances beyond the control of the eligible veteran or eligible person.
 
 (d)(1) For the purposes of this section, the term “change of program of education” shall not be deemed to include a change by a veteran or eligible person from the pursuit of one program to the pursuit of another program if—
 
@@ -24,7 +24,7 @@
 
 (2) A veteran or eligible person undergoing a change from one program of education to another program of education as described in paragraph (1)(E) shall not be required to apply to the Secretary for approval of such change.
 
-(Added Pub. L. 92–540, title III, §316(2), Oct. 24, 1972, 86 Stat. 1089, §1791; amended Pub. L. 94–502, title V, §513(a)(20), Oct. 15, 1976, 90 Stat. 2403; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 101–366, title II, §208(a), Aug. 15, 1990, 104 Stat. 443; renumbered §3691, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat.406; Pub. L. 102–568, title III, §317, Oct. 29, 1992, 106 Stat. 4334; Pub. L. 110–389, title III, §324, Oct. 10, 2008, 122 Stat. 4168.)
+(Added Pub. L. 92–540, title III, §316(2), Oct. 24, 1972, 86 Stat. 1089, §1791; amended Pub. L. 94–502, title V, §513(a)(20), Oct. 15, 1976, 90 Stat. 2403; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 101–366, title II, §208(a), Aug. 15, 1990, 104 Stat. 443; renumbered §3691, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §317, Oct. 29, 1992, 106 Stat. 4334; Pub. L. 110–389, title III, §324, Oct. 10, 2008, 122 Stat. 4168.)
 
 #### Prior Provisions
 
@@ -50,7 +50,7 @@ Subsec. (c). Pub. L. 94–502 substituted “if the Administrator finds” for �
 
 #### Effective Date of 1990 Amendment
 
-Section 208(b) of Pub. L. 101–366 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on June 1, 1991.”
+Pub. L. 101–366, title II, §208(b), Aug. 15, 1990, 104 Stat. 443, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on June 1, 1991.”
 
 #### Effective Date of 1976 Amendment
 

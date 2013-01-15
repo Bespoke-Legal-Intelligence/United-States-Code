@@ -192,7 +192,7 @@ Pub. L. 99–661 and Pub. L. 99–500 added identical sections.
 
 #### Effective Date
 
-Section 101(c) \[§9115(i)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 1311(i) of Pub. L. 99–661, provided that: “Section 167 of title 10, United States Code (as added by subsection (b)), shall be implemented not later than 180 days after the date of the enactment of this Act \[Oct. 18, 1986\].”
+Pub. L. 99–500, §101(c) \[title IX, §9115(i)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–125, Pub. L. 99–591, §101(c) \[title IX, §9115(i)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–125, and Pub. L. 99–661, div. A, title XIII, §1311(i), Nov. 14, 1986, 100 Stat. 3986, provided that: “Section 167 of title 10, United States Code (as added by subsection (b)), shallbe implemented not later than 180 days after the date of the enactment of this Act \[Oct. 18, 1986\].”
 
 #### Memoranda of Agreement on Identification and Dedication of Enabling Capabilities of General Purpose Forces to Fulfill Certain Requirements of Special Operations Forces
 
@@ -276,13 +276,13 @@ Form.—Each report under subsection (a) shall be submitted in unclassified form
 
 #### Resources for CINCSOF
 
-Section 1211(b) of Pub. L. 100–180, as amended by Pub. L. 104–106, div. A, title IX, §903(f)(5), Feb. 10, 1996, 110 Stat. 402; Pub. L. 104–201, div. A, title IX, §901, Sept. 23, 1996, 110 Stat. 2617, provided that: “The Secretary of Defense shall provide sufficient resources for the commander of the unified combatant command for special operations forces established pursuant to section 167 of title 10, United States Code, to carry out his duties and responsibilities, including particularly his duties and responsibilities relating to the following functions:
+Pub. L. 100–180, div. A, title XII, §1211(b), Dec. 4, 1987, 101 Stat. 1155, as amended by Pub. L. 104–106, div. A, title IX, §903(f)(5), Feb. 10, 1996, 110 Stat. 402; Pub. L. 104–201, div. A, title IX, §901, Sept. 23, 1996, 110 Stat. 2617, provided that: “The Secretary of Defense shall provide sufficient resources for the commander of the unified combatant command for special operations forces established pursuant to section 167 of title 10, United States Code, to carry out his duties and responsibilities, including particularly his duties and responsibilities relating to the following functions:
 
 &emsp;“(1) Developing and acquiring special operations-peculiar equipment and acquiring special operations-peculiar material, supplies, and services.
 
 &emsp;“(2) Providing advice and assistance to the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict in the Assistant Secretary's overall supervision of the preparation and justification of the program recommendations and budget proposals for special operations forces.
 
-&emsp;“(3) Managing assigned resources from the major force program category for special operations forcesof the Five-Year Defense Plan of the Department of Defense (as required to be created pursuant to subsection (e)).”
+&emsp;“(3) Managing assigned resources from the major force program category for special operations forces of the Five-Year Defense Plan of the Department of Defense (as required to be created pursuant to subsection (e)).”
 
 #### Major Force Program Category; Program and Budget Execution; Grade for Commanders of Certain Area Special Operations Commands
 
@@ -290,7 +290,7 @@ Pub. L. 102–484, div. A, title IX, §936(a), (b), Oct. 23, 1992, 106 Stat. 247
 
 Pub. L. 100–180, div. A, title XII, §1211(e), Dec. 4, 1987, 101 Stat. 1156, directed that the major force program category for special operations forces of the Five-Year Defense Plan of the Department of Defense created pursuant to Pub. L. 99–661, §1311(c), set out below, was to be created not later than 30 days after Dec. 4, 1987, and required the Secretary of Defense to submit to committees of Congress on such date a report explaining the program recommendations and budget proposals included in such category and a certification that all program recommendations and budget proposals for special operations forces had been included.
 
-Section 1311(c)–(e) of Pub. L. 99–661 provided that:
+Pub. L. 99–661, div. A, title XIII, §1311(c)–(e), Nov. 14, 1986, 100 Stat. 3985, 3986, provided that:
 
 “(c)
 
@@ -308,5 +308,5 @@ Grade for Commanders of Certain Area Special Operations Commands.—The commande
 
 #### Report on Capabilities of United States To Conduct Special Operations and Engage in Low Intensity Conflicts
 
-Section 101(c) \[§9115(h)(2)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 1311(h)(2) of Pub. L. 99–661, required President, not later than one year after Oct. 1, 1986, to transmit to Congress a report on capabilities of United States to conduct special operations and engage in low intensity conflicts, the report to include a description of deficiencies in such capabilities, actions being taken throughout executive branch to correct such deficiencies, the principal low intensity conflict threats to interests of United States, and the actions taken and to be taken to implement this section.
+Pub. L. 99–500, §101(c) \[title IX, §9115(h)(2)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–125, Pub. L. 99–591, §101(c) \[title IX, §9115(h)(2)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–125, and Pub. L. 99–661, div. A, title XIII, §1311(h)(2), Nov. 14, 1986, 100 Stat. 3986, required President, not later than one year after the date of enactment, to transmit to Congress a report on capabilities of United States to conduct special operations and engage in low intensity conflicts, the report to include a description of deficiencies in such capabilities, actions being taken throughout executive branch to correct such deficiencies, the principal low intensity conflict threats to interests of United States, and the actions taken and to be taken to implement this section.
 

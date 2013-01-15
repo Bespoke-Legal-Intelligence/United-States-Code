@@ -26,7 +26,7 @@ An Rx plan described in this subsection is any of the following:
 
 #### (1) Medicaid programs
 
-&emsp;A State plan under subchapter XIX of this chapter, including such a plan operating undera waiver under section 1315 of this title, if it meets the requirements of section 1395w–133(b)(2) of this title.
+&emsp;A State plan under subchapter XIX of this chapter, including such a plan operating under a waiver under section 1315 of this title, if it meets the requirements of section 1395w–133(b)(2) of this title.
 
 #### (2) Group health plans
 

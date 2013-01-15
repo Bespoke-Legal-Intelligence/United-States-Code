@@ -24,7 +24,7 @@ In the case of any experimental, pilot, or demonstration project undertaken unde
 
 #### (c) Demonstration projects to test alternative definitions of unemployment
 
-(1)(A) The Secretary shall enter into agreements with up to 8 States submitting applications under this subsection for the purpose of conducting demonstration projects in such States to test and evaluate the use, with respect to individuals who received aid under part A of subchapter IV of this chapter in the preceding month (on the basis of the unemployment of the parent who is the principal earner), of a number greater than 100 for the number of hours per month that such individuals may work and still be considered to be unemployed for purposes ofsection 607 of this title. If any State submits an application under this subsection for the purpose of conducting a demonstration project to test and evaluate the total elimination of the 100-hour rule, the Secretary shall approve at least one such application.
+(1)(A) The Secretary shall enter into agreements with up to 8 States submitting applications under this subsection for the purpose of conducting demonstration projects in such States to test and evaluate the use, with respect to individuals who received aid under part A of subchapter IV of this chapter in the preceding month (on the basis of the unemployment of the parent who is the principal earner), of a number greater than 100 for the number of hours per month that such individuals may work and still be considered to be unemployed for purposes of section 607 of this title. If any State submits an application under this subsection for the purpose of conducting a demonstration project to test and evaluate the total elimination of the 100-hour rule, the Secretary shall approve at least one such application.
 
 (B) If any State with an agreement under this subsection so requests, the demonstration project conducted pursuant to such agreement may test and evaluate the complete elimination of the 100-hour rule and of any other durational standard that might be applied in defining unemployment for purposes of determining eligibility under section 607 of this title.
 
@@ -40,7 +40,7 @@ In the case of any experimental, pilot, or demonstration project undertaken unde
 
 #### (d) Regulations relating to applications for or renewals of demonstration projects
 
-(1) An application or renewal of any experimental, pilot, or demonstration project undertaken under subsection (a) to promote the objectives of subchapter XIX or XXI in a State that would result in an impact on eligibility, enrollment, benefits, cost-sharing, or financing with respect to a State program under subchapter XIX or XXI (in this subsection referred to as a “demonstration project”) shall be considered by the Secretary in accordance with the regulations required to be promulgated under paragraph (2).
+(1) An application or renewal of any experimental, pilot, or demonstration project undertaken under subsection (a) to promote the objectives of subchapter XIX or XXI in a State thatwould result in an impact on eligibility, enrollment, benefits, cost-sharing, or financing with respect to a State program under subchapter XIX or XXI (in this subsection referred to as a “demonstration project”) shall be considered by the Secretary in accordance with the regulations required to be promulgated under paragraph (2).
 
 (2) Not later than 180 days after March 23, 2010, the Secretary shall promulgate regulations relating to applications for, and renewals of, a demonstration project that provide for—
 
@@ -74,7 +74,7 @@ In the case of any experimental, pilot, or demonstration project undertaken unde
 
 (5) The Secretary shall release an evaluation of each such project not later than 1 year after the date of receipt of the final report.
 
-(6) Subject to paragraphs (4) and (7), the extension of a waiver project under this subsection shall be on the same terms and conditions (including applicable terms and conditions relating to quality and access of services, budget neutrality, data and reporting requirements, andspecial population protections) that applied to the project before its extension under this subsection.
+(6) Subject to paragraphs (4) and (7), the extension of a waiver project under this subsection shall be on the same terms and conditions (including applicable terms and conditions relating to quality and access of services, budget neutrality, data and reporting requirements, and special population protections) that applied to the project before its extension under this subsection.
 
 (7) If an original condition of approval of a waiver project was that Federal expenditures under the project not exceed the Federal expenditures that would otherwise have been made, the Secretary shall take such steps as may be necessary to ensure that, in the extension of the project under this subsection, such condition continues to be met. In applying the previous sentence, the Secretary shall take into account the Secretary's best estimate of rates of change in expenditures at the time of the extension.
 
@@ -100,7 +100,7 @@ An application by the chief executive officer of a State for an extension of a w
 
 &emsp;&emsp;(ii) disapprove the application.
 
-&emsp;(B) A failure by the Secretary to approve or disapprove an application submitted under this subsection in accordance with the requirements of subparagraph (A) shall be deemed to be an approval of the application subject to such modifications in the terms and conditions as have been agreed to (if any) by the Secretary and the State.
+&emsp;(B) A failure by the Secretary to approve or disapprove an application submitted underthis subsection in accordance with the requirements of subparagraph (A) shall be deemed to be an approval of the application subject to such modifications in the terms and conditions as have been agreed to (if any) by the Secretary and the State.
 
 &emsp;(6) An approval of an application for an extension of a waiver project under this subsection shall be for a period not to exceed 3 years (5 years, in the case of a waiver described in section 1396n(h)(2) of this title).
 
@@ -136,7 +136,7 @@ Subsec. (d). Pub. L. 104–193, §108(g)(2)(C), redesignated subsec. (d) as (c).
 
 <b>1988</b>—Subsec. (d). Pub. L. 100–485 added subsec. (d).
 
-<b>1986</b>—Subsec. (b)(2)(C). Pub. L. 99–272 struck out subpar. (C) relating to use of funds as are appropriated forpayments to States under chapter 67 of title 31 to cover costs of salaries for individuals in public service employment.
+<b>1986</b>—Subsec. (b)(2)(C). Pub. L. 99–272 struck out subpar. (C) relating to use of funds as are appropriated for payments to States under chapter 67 of title 31 to cover costs of salaries for individuals in public service employment.
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–378, §10(a)(1), substituted “part A or D of subchapter IV” for “part A of subchapter IV” in provisions preceding par. (1).
 
@@ -178,7 +178,7 @@ Pub. L. 106–554, §1(a)(6) \[title VII, §703(b)\], Dec. 21, 2000, 114 Stat. 2
 
 #### Effective Date of 1997 Amendment
 
-Section 4757(b) of Pub. L. 105–33 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to demonstration projects initially approved before, on, or after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–33, title IV, §4757(b), Aug. 5, 1997, 111 Stat. 528, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to demonstration projects initially approved before, on, or after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 #### Effective Date of 1996 Amendment
 
@@ -186,7 +186,7 @@ Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules rel
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–272 effective Oct. 18, 1986, see section 14001(e) of Pub. L. 99–272.
+Amendment by Pub. L. 99–272 effective Oct. 18, 1986, see Pub. L. 99–272, title XIV, §14001(e), Apr. 7, 1986, 100 Stat. 329.
 
 #### Effective Date of 1984 Amendment
 
@@ -206,17 +206,17 @@ Amendment by Pub. L. 93–233 effective on and after Jan. 1, 1974, see section 1
 
 #### Effective Date of 1965 Amendment
 
-Section 121(c)(3) of Pub. L. 89–97 provided that the amendment made by that section is effective Jan. 1, 1966.
+Pub. L. 89–97, title I, §121(c)(3), July 30, 1965, 79 Stat. 352, provided that the amendment made by that section is effective Jan. 1, 1966.
 
 #### Family Support Demonstration Projects
 
-Section 501 of Pub. L. 100–485, as amended by Pub. L. 103–432, title II, §262, Oct. 31, 1994, 108 Stat. 4467, provided that:
+Pub. L. 100–485, title V, §501, Oct. 13, 1988, 102 Stat. 2400, as amended by Pub. L. 103–432, title II, §262, Oct. 31, 1994, 108 Stat. 4467, provided that:
 
 “(a)
 
 Demonstration Projects To Test the Effect of Early Childhood Development Programs.—(1) In order to test the effect of in-home early childhood development programs and pre-school center-based development programs (emphasizing the use of volunteers and including academic credit for student volunteers) on families receiving aid under State plans approved under section 402 of the Social Security Act \[section 602 of this title\] and participating in the job opportunities and basic skills training program under part F of title IV of such Act \[part F of subchapter IV of this chapter\], up to 10 States may undertake and carry out demonstration projects utilizing such development programs to enhance the cognitive skills and linguistic ability of children under the age of 5, to improve the communications skills of such children, and to develop their ability to read, write, and speak the English language effectively. Such projects may include parents along with their eligible children in family-centered education programs that assist children directly in achieving the goals stated in the preceding sentence and also help parents contribute to the proper development and education of their young children. Demonstration projects under this subsection shall meet such conditions and requirements as the Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall prescribe, and no such project shall be conducted for a period of more than 3 years.
 
-“(2) The Secretary shall consider all applications received from States desiring to conduct demonstration projects under this subsection, shall approve up to 10 applications involving projects which appear likely to contribute significantly to the achievement of the purpose of this subsection, and shall make grants to theStates whose applications are approved to assist them in carrying out such projects.
+“(2) The Secretary shall consider all applications received from States desiring to conduct demonstration projects under this subsection, shall approve up to 10 applications involving projects which appear likely to contribute significantly to the achievement of the purpose of this subsection, and shall make grants to the States whose applications are approved to assist them in carrying out such projects.
 
 “(3) The Secretary shall submit to the Congress with respect to each project undertaken by a State under this subsection, after such project has been carried out for one year and again when such project is completed, a detailed evaluation of the project and of its contribution to the achievement of the purpose of this subsection.
 
@@ -236,15 +236,15 @@ Authorization of Appropriations.—For the purpose of making grants to States to
 
 #### Demonstration Projects To Encourage States To Employ Parents Receiving AFDC as Paid Child Care Providers
 
-Section 502 of Pub. L. 100–485 authorized Secretary of Health and Human Services to permit up to 5 States to undertake and carry out demonstration projects designed to test whether employment of parents of dependent children receiving AFDC as providers of child care for other children receiving AFDC would effectively facilitate the conduct of the job opportunities and basic skills training program under part F of title IV of this chapter by making additional child care services available to meet the requirements of section 602(g)(1)(A) of this title while affording significant numbers of families receiving such aid a realistic opportunity to avoid welfare dependence through employment as a child care provider, and authorized to be appropriated not to exceed $1,000,000 for each of the fiscal years 1990, 1991, and 1992 for grants to States to carry out such demonstration projects.
+Pub. L. 100–485, title V, §502, Oct. 13, 1988, 102 Stat. 2401, authorized Secretary of Health and Human Services to permit up to 5 States to undertake and carry out demonstration projects designed to test whether employment of parents of dependent children receiving AFDC as providers of child care for other children receiving AFDC would effectively facilitate the conduct of the job opportunities and basic skills training program under part F of title IV of this chapter by making additional child care services available to meet the requirements of section 602(g)(1)(A) of this title while affording significant numbers of families receiving such aid a realistic opportunity to avoid welfare dependence through employment as a child care provider, and authorized to be appropriated not to exceed $1,000,000 for each of the fiscal years 1990, 1991, and 1992 for grants to States to carry out such demonstration projects.
 
 #### Demonstration Projects To Address Child Access Problems
 
-Section 504 of Pub. L. 100–485 provided that any State could establish and conduct one or more demonstration projects (in accordance with such terms, conditions, and requirements prescribed by the Secretary of Health and Human Services, except that no such project could include the withholding of aid to families with dependent children pending visitation) to develop, improve, or expand activities designed to increase compliance with child access provisions of court orders, specified activities that could be funded by a grant under this section, authorized to be appropriated not to exceed $4,000,000 for each of the fiscal years 1990 and 1991, and directed Secretary of Health and Human Services, not later than July 1, 1992, to submit to Congress a report on the effectiveness of the demonstration projects established under this section.
+Pub. L. 100–485, title V, §504, Oct. 13, 1988, 102 Stat. 2403, provided that any State could establish and conduct one or more demonstration projects (in accordance with such terms, conditions, and requirements prescribed by the Secretary of Health and Human Services, except that no such project could include the withholding of aid to families with dependent children pending visitation) to develop, improve, or expand activities designed to increase compliance with child access provisions of court orders, specified activities that could be funded by a grant under this section, authorized to be appropriated not to exceed $4,000,000 for each of the fiscal years 1990 and 1991, and directed Secretary of Health and Human Services, not later than July 1, 1992, to submit to Congress a report on the effectiveness of the demonstration projects established under this section.
 
 #### Demonstration Projects To Provide Counseling and Services to High-Risk Teenagers
 
-Section 506 of Pub. L. 100–485 provided that:
+Pub. L. 100–485, title V, §506, Oct. 13, 1988, 102 Stat. 2405, provided that:
 
 “(a)
 
@@ -346,7 +346,7 @@ Authorization of Appropriations.—For the purpose of funding in equal amounts e
 
 #### Continuation of Federal Financial Participation in Experimental, Pilot, or Demonstration Projects Approved Before October 1, 1973, for Period On-And-After December 31, 1973, Without Denial or Reduction on Account of Subchapter XVI Provisions for Supplemental Security Income for the Aged, Blind and Disabled; Waiver of Subchapter XVI Restrictions for Individuals; Federal Payments of Non-Federal Share as Supplementary Payments
 
-Section 11 of Pub. L. 93–233 provided that:
+Pub. L. 93–233, §11, Dec. 31, 1973, 87 Stat. 958, provided that:
 
 “(a) If any State (other than the Commonwealth of Puerto Rico, the Virgin Islands, or Guam) has any experimental, pilot, or demonstration project (referred to in section 1115 of the Social Security Act \[this section\])—
 
@@ -372,5 +372,5 @@ Section 11 of Pub. L. 93–233 provided that:
 
 &emsp;“(1) be paid, from time to time, to such State by the Secretary, and
 
-&emsp;“(2) shall, for purposes of section 1616(d) of the Social Security Act \[section 1382e(d) of this title\] and section 401 of the Social Security Amendments of 1972 \[set out as a note under section 1382e of this title\] betreated in like manner as if such non-Federal share were supplementary payments made by the Secretary on behalf of such State pursuant to such agreement.”
+&emsp;“(2) shall, for purposes of section 1616(d) of the Social Security Act \[section 1382e(d) of this title\] and section 401 of the Social Security Amendments of 1972 \[set out as a note under section 1382e of this title\] be treated in like manner as if such non-Federal share were supplementary payments made by the Secretary on behalf of such State pursuant to such agreement.”
 

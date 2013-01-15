@@ -32,7 +32,7 @@ In awarding grants under this subchapter, the Director shall give preferential c
 
 #### (e) Equitable distribution
 
-In awarding grants under this subchapter, the Director shall ensure, to the extent practicable,an equitable geographic distribution among the regions of the United States and among urban, suburban, and rural areas.
+In awarding grants under this subchapter, the Director shall ensure, to the extent practicable, an equitable geographic distribution among the regions of the United States and among urban, suburban, and rural areas.
 
 #### (f) Administrative costs
 

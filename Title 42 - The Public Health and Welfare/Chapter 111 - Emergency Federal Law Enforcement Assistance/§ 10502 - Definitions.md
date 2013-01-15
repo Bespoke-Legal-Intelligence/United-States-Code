@@ -42,7 +42,7 @@ For purposes of this chapter—
 
 &emsp;(4) the term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Trust Territory of the Pacific Islands, or the Commonwealth of the Northern Mariana Islands.
 
-(Pub. L. 98–473, title II, §609N, Oct. 12, 1984, 98 Stat. 2104; Pub. L. 107–296, title XI, §1112(<i>o</i>), Nov. 25, 2002, 116 Stat. 2278; Pub. L. 109–177, title V, §506(a)(11), Mar. 9, 2006, 120 Stat. 248.)
+(Pub. L. 98–473, title II, §609N, Oct. 12, 1984, 98 Stat. 2104; Pub. L. 107–296, title XI, §1112(o), Nov. 25, 2002, 116 Stat. 2278; Pub. L. 109–177, title V, §506(a)(11), Mar. 9, 2006, 120 Stat. 248.)
 
 #### References in Text
 

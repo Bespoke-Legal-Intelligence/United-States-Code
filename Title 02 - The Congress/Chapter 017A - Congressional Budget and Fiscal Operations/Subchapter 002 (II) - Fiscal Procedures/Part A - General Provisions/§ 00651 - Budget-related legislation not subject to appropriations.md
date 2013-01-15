@@ -24,7 +24,7 @@ Point of order.—It shall not be in order in either the House of Representative
 
 #### (c) Exceptions
 
-(1) Subsections (a) and (b) of this section shall not apply to new authority described in those subsections if outlays from that new authority will flow—
+(1) Subsections (a) and (b) of this section shall not apply to new authority described in thosesubsections if outlays from that new authority will flow—
 
 &emsp;(A) from a trust fund established by the Social Security Act (as in effect on July 12, 1974) \[42 U.S.C. 301 et seq.\]; or
 
@@ -92,5 +92,5 @@ Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respe
 
 #### Effective Date
 
-Section 905(c) of Pub. L. 93–344 (formerly set out as a note under section 621 of this title) provided that except as provided in section 906 of Pub. L. 93–344 (formerly set out as a note under section 632 of this title) this section shall take effect on the first day of the second regular session of the Ninety-fourth Congress.
+Pub. L. 93–344, title IX, §905(c), July 12, 1974, 88 Stat. 331 (formerly set out as a note under section 621 of this title), provided that except as provided in section 906 of Pub. L. 93–344 (formerly set out as a note under section 632 of this title) this section shall take effect on the first day of the second regular session of the Ninety-fourth Congress.
 

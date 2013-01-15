@@ -66,7 +66,7 @@ Components of Program.—The program of education for which such a grant is made
 
 (h)
 
-Grant Proposals.—The Secretary of Defense, in coordination with the Director of theNational Science Foundation, shall solicit from institutions of higher education in the United States (and from consortia of such institutions) proposals for grants to be made pursuant to this section for the support of programs of manufacturing engineering education that are consistent with the purposes of this section.
+Grant Proposals.—The Secretary of Defense, in coordination with the Director of the National Science Foundation, shall solicit from institutions of higher education in the United States (and from consortia of such institutions) proposals for grants to be made pursuant to this section for the support of programs of manufacturing engineering education that are consistent with the purposes of this section.
 
 (i)
 
@@ -104,5 +104,5 @@ A prior section 2196, added Pub. L. 101–510, div. A, title II, §247(a)(1), No
 
 #### Implementation of Grant Program; Priority in Funding
 
-Section 825(b) of Pub. L. 102–190 provided that: “Within one year after the date of the enactment of this Act \[Dec. 5, 1991\], the Secretary of Defense, in consultation with the Director of the National Science Foundation, shall award grants under section 2196 of title 10, United States Code (as added by subsection (a)), to institutions of higher education throughout the United States.”
+Pub. L. 102–190, div. A, title VIII, §825(b), Dec. 5, 1991, 105 Stat. 1442, provided that: “Within one year after the date of the enactment of this Act \[Dec. 5, 1991\], the Secretary of Defense, in consultation with the Director of the National Science Foundation, shall award grants under section 2196 of title 10, United States Code (as added by subsection (a)), to institutions of higher education throughout the United States.”
 

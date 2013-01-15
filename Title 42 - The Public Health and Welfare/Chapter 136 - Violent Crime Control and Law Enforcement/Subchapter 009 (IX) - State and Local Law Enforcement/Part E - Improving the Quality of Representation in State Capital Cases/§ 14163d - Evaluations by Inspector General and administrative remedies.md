@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a report evaluating the compliance by the State with the terms and conditions of the grant; and
 
-&emsp;&emsp;(B) if the Inspector General concludes that the State is not in compliance with the terms and conditions of the grant, specify any deficiencies and make recommendationsto the Attorney General for corrective action.
+&emsp;&emsp;(B) if the Inspector General concludes that the State is not in compliance with the terms and conditions of the grant, specify any deficiencies and make recommendations to the Attorney General for corrective action.
 
 #### (2) Priority
 

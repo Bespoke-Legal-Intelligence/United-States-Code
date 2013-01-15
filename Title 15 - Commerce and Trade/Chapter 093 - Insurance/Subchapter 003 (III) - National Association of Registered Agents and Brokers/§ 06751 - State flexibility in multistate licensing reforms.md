@@ -66,7 +66,7 @@ If, at any time, the uniformity or reciprocity required by subsections (b) and (
 
 #### (f) Savings provision
 
-No provision of this section shall be construed as requiring that any law, regulation, provision, or action of any State which purports to regulate insurance producers, including any such law, regulation, provision, or action which purports to regulate unfair trade practices or establish consumer protections, including countersignature laws, be altered or amended in order to satisfy the uniformity or reciprocity required by subsections (b) and (c) of this section, unless any such law, regulation, provision, or action is inconsistent with a specific requirement of any such subsection and then only to the extent of such inconsistency.
+No provision of this section shall be construed as requiring that any law, regulation, provision, or action of any State which purports to regulate insurance producers, including any such law, regulation, provision, or action which purports to regulate unfair trade practices or establish consumer protections, including countersignature laws, be altered or amended in order to satisfy the uniformity or reciprocity required by subsections (b) and (c) of this section, unless any such law, regulation, provision, oraction is inconsistent with a specific requirement of any such subsection and then only to the extent of such inconsistency.
 
 #### (g) Uniform licensing
 

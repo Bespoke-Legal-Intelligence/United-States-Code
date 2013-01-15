@@ -6,7 +6,7 @@ There are authorized to be appropriated such sums as may be necessary and approp
 
 #### References in Text
 
-This Act, referred to in text, means act July 26, 1947, ch. 343, 61 Stat. 495, as amended, known as the NationalSecurity Act of 1947. Titles V, VI, and VII of the Act are classified generally to subchapters III (§413 et seq.), IV (§421 et seq.), and V (§431 et seq.) of this chapter, respectively. For complete classification of this Act to the Code, see Short Title note set out under section 401 of this title and Tables.
+This Act, referred to in text, means act July 26, 1947, ch. 343, 61 Stat. 495, as amended, known as the National Security Act of 1947. Titles V, VI, and VII of the Act are classified generally to subchapters III (§413 et seq.), IV (§421 et seq.), and V (§431 et seq.) of this chapter, respectively. For complete classification of this Act to the Code, see Short Title note set out under section 401 of this title and Tables.
 
 #### Codification
 

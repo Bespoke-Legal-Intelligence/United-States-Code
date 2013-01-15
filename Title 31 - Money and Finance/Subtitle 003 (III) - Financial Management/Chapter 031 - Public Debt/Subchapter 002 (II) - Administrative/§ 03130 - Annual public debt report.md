@@ -38,7 +38,7 @@ Required Information on Public Debt Activities.—Each report submitted under su
 
 &emsp;(5) A table showing the relationship of federally assisted borrowing to total Federal borrowing as of the time the report is submitted and for prior years.
 
-&emsp;(6) A table showing the annual principal and interest payments which would be required to amortize in equal annual payments the level (as of the time the report is submitted) of the net public debt over the longest remaining term to maturity of any obligation which is a part of such debt.
+&emsp;(6) A table showing the annual principal and interest payments which would be required to amortize in equal annual payments the level (as of the time the report is submitted) of thenet public debt over the longest remaining term to maturity of any obligation which is a part of such debt.
 
 (c)
 

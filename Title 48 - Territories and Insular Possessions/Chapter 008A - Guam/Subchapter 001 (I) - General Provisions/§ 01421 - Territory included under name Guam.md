@@ -10,7 +10,7 @@ Section 34 of act Aug. 1, 1950, provided that on the 21st day of July 1950, the 
 
 #### Short Title of 2002 Amendment
 
-Pub. L. 107–212, §1, Aug. 21, 2002, 116 Stat. 1051, provided that: “This Act \[amending section 1421i of this title and enacting provisions set out as a note under section 1421i of this title\] may be cited as the ‘Guam Foreign Investment Equity Act’.”
+Pub. L. 107–212, §1, Aug. 21, 2002, 116 Stat. 1051, provided that: “This Act \[amending section 1421i of this title and enacting provisions set out as a note undersection 1421i of this title\] may be cited as the ‘Guam Foreign Investment Equity Act’.”
 
 #### Short Title of 1998 Amendment
 
@@ -24,7 +24,7 @@ Pub. L. 90–497, §14, Sept. 11, 1968, 82 Stat. 848, provided that: “This Act
 
 #### Short Title
 
-Section 1 of act Aug. 1, 1950, provided that: “This Act \[enacting this chapter and amending section 703 of Title 8, Aliens and Nationality\] may be cited as the ‘Organic Act of Guam’.”
+Act Aug. 1, 1950, ch. 512, §1, 64 Stat. 384, provided that: “This Act \[enacting this chapter and amending section 703 of Title 8, Aliens and Nationality\] may be cited as the ‘Organic Act of Guam’.”
 
 #### Political Union Between Territory of Guam and Commonwealth of Northern Mariana Islands, Effects on Rights and Entitlements
 

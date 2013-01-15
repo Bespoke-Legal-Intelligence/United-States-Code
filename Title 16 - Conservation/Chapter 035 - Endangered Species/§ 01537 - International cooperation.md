@@ -62,7 +62,7 @@ Pub. L. 101–162, title VI, §609, Nov. 21, 1989, 103 Stat. 1037, provided that
 
 &emsp;“(2) initiate negotiations as soon as possible with all foreign governments which are engaged in, or which have persons or companies engaged in, commercial fishing operations which, as determined by the Secretary of Commerce, may affect adversely such species of sea turtles, for the purpose of entering into bilateral and multilateral treaties with such countries to protect such species of sea turtles;
 
-&emsp;“(3) encourage such other agreements to promote the purposes of this section with other nations for the protection of specific ocean and land regions whichare of special significance to the health and stability of such species of sea turtles;
+&emsp;“(3) encourage such other agreements to promote the purposes of this section with other nations for the protection of specific ocean and land regions which are of special significance to the health and stability of such species of sea turtles;
 
 &emsp;“(4) initiate the amendment of any existing international treaty for the protection and conservation of such species of sea turtles to which the United States is a party in order to make such treaty consistent with the purposes and policies of this section; and
 

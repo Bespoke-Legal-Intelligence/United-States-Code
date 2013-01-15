@@ -18,7 +18,7 @@ Section 3348, Pub. L. 95–621, title II, §208, Nov. 9, 1978, 92 Stat. 3381, di
 
 #### Repeal of Incremental Pricing Requirements
 
-Section 2 of Pub. L. 100–42 provided that:
+Pub. L. 100–42, §2, May 21, 1987, 101 Stat. 314, provided that:
 
 “(a)
 

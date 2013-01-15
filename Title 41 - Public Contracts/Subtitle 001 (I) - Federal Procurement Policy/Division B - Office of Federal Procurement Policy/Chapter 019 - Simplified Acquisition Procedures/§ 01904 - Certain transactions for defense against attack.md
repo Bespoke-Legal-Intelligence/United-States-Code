@@ -38,7 +38,7 @@ Regulations.—The Director of the Office of Management and Budget shall prescri
 
 (c)
 
-Annual Report.—The annual report of the head of an executive agency that is required under section 2371(h) of title 10, as applied to the head of the executive agency by subsection (a), shall be submitted to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform of the House of Representatives.
+Annual Report.—The annual report of the head of an executive agency that is requiredunder section 2371(h) of title 10, as applied to the head of the executive agency by subsection (a), shall be submitted to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform of the House of Representatives.
 
 (d)
 

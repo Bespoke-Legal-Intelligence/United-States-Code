@@ -72,7 +72,7 @@ Definitions.—In this section:
 
 #### Effective Date
 
-Section 911(b)\[(c)\] of Pub. L. 101–510 provided that: “Section 2162 of title 10, United States Code, as added by subsection (a), shall apply with respect to fiscal years after fiscal year 1991.”
+Pub. L. 101–510, div. A, title IX, §911(b)\[(c)\], Nov. 5, 1990, 104 Stat. 1626, provided that: “Section 2162 of title 10, United States Code, as added by subsection (a), shall apply with respect to fiscal years after fiscal year 1991.”
 
 #### Executive Agent for Funding Professional Development Education
 

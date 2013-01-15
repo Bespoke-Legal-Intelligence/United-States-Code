@@ -20,7 +20,7 @@ There is authorized to be appropriated to the Secretary such sums as the Congres
 
 (2)(A) The Secretary may, directly or through a market maker approved by the Secretary, issue pool certificates representing ownership of part or all of the guaranteed portion of any loan guaranteed by the Secretary under this chapter. Such certificates shall be based on and backed by a pool established or approved by the Secretary and composed solely of the entire guaranteed portion of such loans.
 
-(B) The Secretary may, on such terms and conditions as the Secretary deems appropriate, guarantee the timely payment of the principal and interest on pool certificates issued on behalf of the Secretary by approved market makers for purposes of this subsection. Such guarantee shall be limited to the extent of principal and interest on the guaranteed portions of loans that compose the pool. If a loan in such pool is prepaid, either voluntarily or by reason of default, the guarantee of timely payment of principal and interest on the pool certificates shall be reduced in proportion to the amount of principal and interest such prepaid loan represents in the pool. Interest on prepaid or defaulted loans shall accrue and be guaranteed by the Secretary only through the date of payment on the guarantee. During the term of the pool certificate, the certificate may be called for redemption due to prepayment or default of all loans constituting the pool.
+(B) The Secretary may, on such terms and conditions as the Secretary deems appropriate, guarantee the timely payment of the principal and interest on pool certificates issued on behalf of the Secretary by approved market makers for purposes of this subsection. Such guarantee shall be limited to the extent of principal and interest on the guaranteed portions of loans that compose the pool. If a loan in such pool isprepaid, either voluntarily or by reason of default, the guarantee of timely payment of principal and interest on the pool certificates shall be reduced in proportion to the amount of principal and interest such prepaid loan represents in the pool. Interest on prepaid or defaulted loans shall accrue and be guaranteed by the Secretary only through the date of payment on the guarantee. During the term of the pool certificate, the certificate may be called for redemption due to prepayment or default of all loans constituting the pool.
 
 (C) The full faith and credit of the United States is pledged to the payment of all amounts that may be required to be paid under any guarantee of such pool certificates issued by approved market makers under this subsection. The Secretary may expend amounts in the Agricultural Credit Insurance Fund to make payments on such guarantees.
 
@@ -44,7 +44,7 @@ There is authorized to be appropriated to the Secretary such sums as the Congres
 
 &emsp;(C) Provide for adequate custody of any pooled guaranteed loans.
 
-&emsp;(D) Take such actions as are necessary, in restructuring pools of the guaranteed portionof loans, to minimize the estimated costs of paying claims under guarantees issued under this subsection.
+&emsp;(D) Take such actions as are necessary, in restructuring pools of the guaranteed portion of loans, to minimize the estimated costs of paying claims under guarantees issued under this subsection.
 
 &emsp;(E) Require each market maker—
 
@@ -82,11 +82,11 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 
 #### Regulations
 
-Section 711(b) of Pub. L. 100–233 provided that: “Within 180 days after the date of the enactment of this Act \[Jan. 6, 1988\], the Secretary shall develop and promulgate final regulations to implement this section and the amendment made by this section \[amending this section and enacting provisions set out below\].”
+Pub. L. 100–233, title VII, §711(b), Jan. 6, 1988, 101 Stat. 1709, provided that: “Within 180 days after the date of the enactment of this Act \[Jan. 6, 1988\], the Secretary shall develop and promulgate final regulations to implement this section and the amendment made by this section \[amending this section and enacting provisions set out below\].”
 
 #### Pool Certificates Not To Be Issued Until Final Regulations Take Effect
 
-Section 711(c) of Pub. L. 100–233 provided that: “The Secretary of Agriculture shall not implement paragraph (2) of section 338(f) \[now 338(b)\] of the Consolidated Farm and Rural Development Act \[7 U.S.C. 1988(f) \[now 1988(b)\]\], as added by subsection (a), until the final regulations governing the administration of such paragraph take effect.”
+Pub. L. 100–233, title VII, §711(c), Jan. 6, 1988, 101 Stat. 1709, provided that: “The Secretary of Agriculture shall not implement paragraph (2) of section 338(f) \[now 338(b)\] of the Consolidated Farm and Rural Development Act \[7 U.S.C. 1988(f) \[now 1988(b)\]\], as added by subsection (a), until the final regulations governing the administration of such paragraph take effect.”
 
 #### Loans to Indians
 

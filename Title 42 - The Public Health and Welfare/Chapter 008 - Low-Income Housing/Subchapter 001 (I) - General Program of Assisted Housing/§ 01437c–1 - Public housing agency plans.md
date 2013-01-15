@@ -22,7 +22,7 @@
 
 #### (1) In general
 
-&emsp;Effective beginning upon October 1, 1999, each public housing agency shall submit to the Secretary an annual public housing agency plan under this subsection for each fiscal year for which the public housing agency receives assistance under section 1437f(<i>o</i>) or 1437g of this title.
+&emsp;Effective beginning upon October 1, 1999, each public housing agency shall submit to the Secretary an annual public housing agency plan under this subsection for each fiscal year for which the public housing agency receives assistance under section 1437f(o) or 1437g of this title.
 
 #### (2) Updates
 
@@ -44,9 +44,9 @@
 
 #### (C) Definition
 
-&emsp;&emsp;For purposes of this section, the term “qualified public housing agency” means apublic housing agency that meets the following requirements:
+&emsp;&emsp;For purposes of this section, the term “qualified public housing agency” means a public housing agency that meets the following requirements:
 
-&emsp;&emsp;&emsp;(i) The sum of (I) the number of public housing dwelling units administered by the agency, and (II) the number of vouchers under section 1437f(<i>o</i>) of this title administered by the agency, is 550 or fewer.
+&emsp;&emsp;&emsp;(i) The sum of (I) the number of public housing dwelling units administered by the agency, and (II) the number of vouchers under section 1437f(o) of this title administered by the agency, is 550 or fewer.
 
 &emsp;&emsp;&emsp;(ii) The agency is not designated under section 1437d(j)(2) of this title as a troubled public housing agency, and does not have a failing score under the section 8 \[42 U.S.C. 1437f\] Management Assessment Program during the prior 12 months.
 
@@ -62,7 +62,7 @@
 
 &emsp;&emsp;(A) in developing the plan consult with the resident advisory board established under subsection (e) of this section; and
 
-&emsp;&emsp;(B) ensure that the plan under this section is consistent with the applicable comprehensive housing affordability strategy (or any consolidated plan incorporating such strategy) for the jurisdiction in which the public housing agency is located, in accordance with title I of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12701 et seq.\], and contains a certification by the appropriate State or local official that the plan meets the requirements of this paragraph and a description of the manner in which the applicable contents of the public housing agency plan are consistent with the comprehensive housing affordability strategy.
+&emsp;&emsp;(B) ensure that the plan under this section is consistent with the applicable comprehensive housing affordability strategy (or any consolidated plan incorporating such strategy) for the jurisdiction in which the public housing agency is located, in accordance with title I of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12701 et seq.\], and contains a certification by the appropriate State or local official that the plan meets the requirements of this paragraph and a description of the mannerin which the applicable contents of the public housing agency plan are consistent with the comprehensive housing affordability strategy.
 
 #### (d) Contents
 
@@ -78,7 +78,7 @@ An annual public housing agency plan under subsection (b) of this section for a 
 
 #### (3) Eligibility, selection, and admissions policies
 
-&emsp;A statement of the policies governing eligibility, selection, admissions (including any preferences), assignment, and occupancy of families with respect to public housing dwelling units and housing assistance under section 1437f(<i>o</i>) of this title, including—
+&emsp;A statement of the policies governing eligibility, selection, admissions (including any preferences), assignment, and occupancy of families with respect to public housing dwelling units and housing assistance under section 1437f(o) of this title, including—
 
 &emsp;&emsp;(A) the procedures for maintaining waiting lists for admissions to public housing projects of the agency, which may include a system of site-based waiting lists under section 1437d(r) of this title; and
 
@@ -86,7 +86,7 @@ An annual public housing agency plan under subsection (b) of this section for a 
 
 #### (4) Rent determination
 
-&emsp;A statement of the policies of the public housing agency governing rents charged for public housing dwelling units and rental contributions of families assisted under section 1437f(<i>o</i>) of this title.
+&emsp;A statement of the policies of the public housing agency governing rents charged for public housing dwelling units and rental contributions of families assisted under section 1437f(o) of this title.
 
 #### (5) Operation and management
 
@@ -212,7 +212,7 @@ An annual public housing agency plan under subsection (b) of this section for a 
 
 #### (B) Applicability of waiver authority
 
-&emsp;&emsp;Paragraph (3) shall apply to qualified public housing agencies, except that for purposes of such qualified public housing agencies, subparagraph (B) of such paragraph shall be applied by substituting “the functions described in the second sentence of paragraph (4)(A)” for “the functions described in paragraph (2)”.
+&emsp;&emsp;Paragraph (3) shall apply to qualified public housing agencies, except that for purposes of such qualified public housing agencies, subparagraph (B) of such paragraph shall be applied by substituting “the functions described in the second sentence ofparagraph (4)(A)” for “the functions described in paragraph (2)”.
 
 #### (f) Public hearings
 
@@ -350,7 +350,7 @@ In carrying out this section, the Secretary may establish a streamlined public h
 
 &emsp;(C) public housing agencies that only administer tenant-based assistance and that do not own or operate public housing.
 
-#### (<i>l</i>) Compliance with plan
+#### (l) Compliance with plan
 
 #### (1) In general
 
@@ -364,7 +364,7 @@ In carrying out this section, the Secretary may establish a streamlined public h
 
 &emsp;&emsp;(B) if the Secretary determines, based on a finding of the Secretary or other information available to the Secretary, that a public housing agency is not complying with the applicable public housing agency plan, take such actions as the Secretary determines to be appropriate to ensure such compliance.
 
-(Sept. 1, 1937, ch. 896, title I, §5A, as added Pub. L. 105–276, title V, §511(a), Oct. 21, 1998, 112 Stat. 2531; amended Pub. L. 109–162, title VI, §603, Jan. 5, 2006, 119 Stat. 3040; Pub. L. 110–289, div. B, title VII, §2702, July 30, 2008, 122 Stat. 2863.)
+(Sept. 1, 1937, ch. 896, title I, §5A, as added Pub. L. 105–276, title V, §511(a), Oct. 21, 1998, 112 Stat.2531; amended Pub. L. 109–162, title VI, §603, Jan. 5, 2006, 119 Stat. 3040; Pub. L. 110–289, div. B, title VII, §2702, July 30, 2008, 122 Stat. 2863.)
 
 #### References in Text
 

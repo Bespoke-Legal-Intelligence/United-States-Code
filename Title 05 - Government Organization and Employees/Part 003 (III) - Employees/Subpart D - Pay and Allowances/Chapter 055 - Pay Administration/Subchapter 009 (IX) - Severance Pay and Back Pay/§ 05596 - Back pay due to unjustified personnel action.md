@@ -50,7 +50,7 @@
 
 (c) The Office of Personnel Management shall prescribe regulations to carry out this section. However, the regulations are not applicable to the Tennessee Valley Authority and its employees, or to the agencies specified in subsection (a)(2) of this section.
 
-(Added Pub. L. 90–83, §1(34)(C), Sept. 11, 1967, 81 Stat. 203; amended Pub. L. 94–172, §1(a), Dec. 23, 1975, 89 Stat. 1025; Pub. L. 95–454, title VII, §702, Oct. 13, 1978, 92 Stat. 1216; Pub. L. 96–54, §2(a)(14), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–465, title II, §2306, Oct. 17, 1980, 94 Stat. 2165; Pub. L. 100–202, §101(m) \[title VI, §623(a)\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–428; Pub. L. 101–474, §5(<i>l</i>), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 105–261, div. A, title XI, §1104(a), Oct. 17, 1998, 112 Stat. 2141; Pub. L. 107–68, title III, §309, Nov. 12, 2001, 115 Stat. 592.)
+(Added Pub. L. 90–83, §1(34)(C), Sept. 11, 1967, 81 Stat. 203; amended Pub. L. 94–172, §1(a), Dec. 23, 1975, 89 Stat. 1025; Pub. L. 95–454, title VII, §702, Oct. 13, 1978, 92 Stat. 1216; Pub. L. 96–54, §2(a)(14), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–465, title II, §2306, Oct. 17, 1980, 94 Stat. 2165; Pub. L. 100–202, §101(m) \[title VI, §623(a)\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–428; Pub. L. 101–474, §5(l), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 105–261, div. A, title XI, §1104(a), Oct. 17, 1998, 112 Stat. 2141; Pub. L. 107–68, title III, §309, Nov. 12, 2001, 115 Stat. 592.)
 
 Historical and Revision Notes
 
@@ -94,9 +94,9 @@ Sections 1101, 1002, and 1015 of the Foreign Service Act of 1980, referred to in
 
 <b>1998</b>—Subsec. (b)(4), (5). Pub. L. 105–261 added par. (4) and redesignated former par. (4) as (5).
 
-<b>1990</b>—Subsec. (a)(2). Pub. L. 101–474, §5(<i>l</i>)(1), substituted “Courts, the Federal Judicial Center, and the courts named by section 610 of title 28” for “Courts”.
+<b>1990</b>—Subsec. (a)(2). Pub. L. 101–474, §5(l)(1), substituted “Courts, the Federal Judicial Center, and the courts named by section 610 of title 28” for “Courts”.
 
-Subsec. (c). Pub. L. 101–474, §5(<i>l</i>)(2), substituted “employees, or to the agencies specified in subsection (a)(2) of this section” for “employees”.
+Subsec. (c). Pub. L. 101–474, §5(l)(2), substituted “employees, or to the agencies specified in subsection (a)(2) of this section” for “employees”.
 
 <b>1987</b>—Subsec. (b)(2) to (4). Pub. L. 100–202 added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
@@ -116,7 +116,7 @@ Pub. L. 107–68, title III, §309, Nov. 12, 2001, 115 Stat. 592, provided that 
 
 #### Effective Date of 1987 Amendment
 
-Section 101(m) \[title VI, §623(b)\] of Pub. L. 100–202 provided that:
+Pub. L. 100–202, §101(m) \[title VI, §623(b)\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–429, provided that:
 
 “(1)
 
@@ -160,17 +160,17 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 #### Effective Date of 1975 Amendment
 
-Section 1(b) of Pub. L. 94–172 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to any employee found, on or after March 30, 1966, to have undergone an unjustified or unwarranted personnel action the correction of which entitled or entitles such employee to the benefits provided under section 5596 of title 5, United States Code.”
+Pub. L. 94–172, §1(b), Dec. 23, 1975, 89 Stat. 1025, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to any employee found, on or after March 30, 1966, to have undergone an unjustified or unwarranted personnel action the correction of which entitled or entitles such employee to the benefits provided under section 5596 of title 5, United States Code.”
 
 #### Lump-Sum Payments for Former Employees not on the Rolls on December 23, 1975
 
-Section 2 of Pub. L. 94–172 provided that: “With respect to former employee (except a former employee referred to in section 3 of this Act) \[set out as a note below\] who is not on the rolls on the date of the enactment of this Act \[Dec. 23, 1975\], annual leave, which was not credited under section 5596 of title 5, United States Code, because it was in an amount that would have caused the amount of leave to the employee's credit to exceed the maximum amount of the leave authorized for the employee by law or regulation, is subject to credit and liquidation by lump-sum payment only if a claim therefor is filed within three years immediately following the date of the enactment of this Act with the agency by which the employee was employed when the lump-sum payment provisions of section 5551 of title 5, United States Code, last became applicable to such employee. Payment shall be by that agency at the salary rate in effect on the date the lump-sum payment provisions became applicable.”
+Pub. L. 94–172, §2, Dec. 23, 1975, 89 Stat. 1025, provided that: “With respect to former employee (except a former employee referred to in section 3 of this Act) \[set out as a note below\] who is not on the rolls on the date of the enactment of this Act \[Dec. 23, 1975\], annual leave, which was not credited under section 5596 of title 5, United States Code, because it was in an amount that would have caused the amount of leave to the employee's credit to exceed the maximum amount of the leave authorized for the employee by law or regulation, is subject to credit and liquidation by lump-sum payment only if a claim therefor is filed within three years immediately following the date of the enactment of this Act with the agency by which the employee was employed when the lump-sum payment provisions of section 5551 of title 5, United States Code, last became applicable to such employee. Payment shall be by that agency at the salary rate in effect on the date the lump-sum payment provisions became applicable.”
 
 #### Lump-Sum Payments for Postal Employees not on the Rolls on December 23, 1975
 
-Section 3 of Pub. L. 94–172 provided that:
+Pub. L. 94–172, §3, Dec. 23, 1975, 89 Stat. 1025, provided that:
 
-“(a) With respect to a former employee of the Post Office Department or a former employee of the United States Postal Service who had prior civilian service with the Post Office Department or other Federal agency, who is not on the rolls on the date of the enactment of this Act \[Dec. 23, 1975\], annual leave which was accrued before July 1, 1971, but was not credited under section 5596 of title 5, United States Code, because it was in an amount that would have caused the amount of leave to his credit to exceed the maximum amount of the leave authorized for the employee by law or regulation, is subject to credit and, liquidation by lump-sum payment only if a claim therefor is filed within 3 years immediately following the date of enactment of this Act with the Postal Service. Payment shall be by the Postal Service at the salary rate in effect on the date the lump-sum payment provisions of section 5551 of title 5, United States Code, or comparable provisions of regulations of the Postal Service, as appropriate, last became applicable to the former employee.
+“(a) With respect to a former employee of the Post Office Department or a former employee of the United States Postal Service who had prior civilian service with the Post Office Department or other Federal agency, who is not on the rolls on the date of the enactmentof this Act \[Dec. 23, 1975\], annual leave which was accrued before July 1, 1971, but was not credited under section 5596 of title 5, United States Code, because it was in an amount that would have caused the amount of leave to his credit to exceed the maximum amount of the leave authorized for the employee by law or regulation, is subject to credit and, liquidation by lump-sum payment only if a claim therefor is filed within 3 years immediately following the date of enactment of this Act with the Postal Service. Payment shall be by the Postal Service at the salary rate in effect on the date the lump-sum payment provisions of section 5551 of title 5, United States Code, or comparable provisions of regulations of the Postal Service, as appropriate, last became applicable to the former employee.
 
-“(b) With respect to a present employee of the Postal Service who had prior Federal civilian service with the Post Office Department or other Federal agency, annual leave which was accrued before July 1, 1971, but was not credited under section 5596 of title 5, United States Code, because it was in an amount that would have caused the amount of leave to the employee's credit to exceed the maximum amount of the leave authorized for the employee by law or regulation, is subject to credit and liquidation by lump-sum payment only if a claim therefor is filed with the Postal Service within three years immediately following the date ofthe enactment of this Act \[Dec. 23, 1975\]. Payment shall be by the Postal Service at the salary rate in effect on the date of the enactment of this Act.”
+“(b) With respect to a present employee of the Postal Service who had prior Federal civilian service with the Post Office Department or other Federal agency, annual leave which was accrued before July 1, 1971, but was not credited under section 5596 of title 5, United States Code, because it was in an amount that would have caused the amount of leave to the employee's credit to exceed the maximum amount of the leave authorized for the employee by law or regulation, is subject to credit and liquidation by lump-sum payment only if a claim therefor is filed with the Postal Service within three years immediately following the date of the enactment of this Act \[Dec. 23, 1975\]. Payment shall be by the Postal Service at the salary rate in effect on the date of the enactment of this Act.”
 

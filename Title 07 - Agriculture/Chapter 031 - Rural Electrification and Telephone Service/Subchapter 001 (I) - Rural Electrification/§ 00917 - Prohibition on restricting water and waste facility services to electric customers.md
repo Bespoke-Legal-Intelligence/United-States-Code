@@ -6,7 +6,7 @@ Assistance under any rural development program administered by the Secretary or 
 
 #### (b) Ensuring compliance
 
-The Secretary shall establish, by regulation, adequate safeguards to ensure that assistance under any rural development program is not subject to such a condition. The safeguards shallinclude periodic certifications and audits, and appropriate measures and sanctions against any person violating, or attempting to violate subsection (a) of this section.
+The Secretary shall establish, by regulation, adequate safeguards to ensure that assistance under any rural development program is not subject to such a condition. The safeguards shall include periodic certifications and audits, and appropriate measures and sanctions against any person violating, or attempting to violate subsection (a) of this section.
 
 #### (c) “Rural development programs” defined
 
@@ -14,7 +14,7 @@ In this section, the term “rural development program” means the following:
 
 &emsp;(1) Sections 304(b), 306, 306A, 306C, 306D, 310B, and 375 <sup>1</sup> and subtitle E \[7 U.S.C. 2009 et seq.\] of the Consolidated Farm and Rural Development Act (7 U.S.C. 1924(b), 1926, 1926a, 1926c, 1926d, and 1932).
 
-&emsp;(2) Subtitle G <sup>1</sup> of title XVI and sections 2281 \[42 U.S.C. 5177a\], 2333, and 2381 \[7 U.S.C. 950aaa–2, 3125b\] of the Food, Agriculture, Conservation, and Trade Act of 1990.
+&emsp;(2) Subtitle G <sup>1</sup> of title XVI and sections 2281 \[42 U.S.C. 5177a\], 2333,<sup>1</sup> and 2381 \[7 U.S.C. 950aaa–2, 3125b\] of the Food, Agriculture, Conservation, and Trade Act of 1990.
 
 &emsp;(3) Subtitle C of title IX of the Food, Agriculture, Conservation, and Trade Act Amendments of 1991 (Public Law 102–237; 7 U.S.C. 5930 note).
 

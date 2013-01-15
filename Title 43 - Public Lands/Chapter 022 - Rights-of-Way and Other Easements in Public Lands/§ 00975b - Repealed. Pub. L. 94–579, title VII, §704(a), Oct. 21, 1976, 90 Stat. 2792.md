@@ -4,7 +4,7 @@ Section, act Mar. 12, 1914, ch. 37, §1, 38 Stat. 307, authorized the President 
 
 #### Effective Date of Repeal
 
-Section 704(a) of Pub. L. 94–579 provided that the repeal made by that section is effective on and after Oct. 21, 1976.
+Pub. L. 94–579, title VII, §704(a), Oct. 21, 1976, 90 Stat. 2792, provided that the repeal made by section 704(a) is effective on and after Oct. 21, 1976.
 
 #### Savings Provision
 

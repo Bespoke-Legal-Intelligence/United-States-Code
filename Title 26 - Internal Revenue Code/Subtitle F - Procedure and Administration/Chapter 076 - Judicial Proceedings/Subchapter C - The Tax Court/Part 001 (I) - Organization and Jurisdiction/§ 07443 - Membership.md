@@ -30,7 +30,7 @@ Judges of the Tax Court may be removed by the President, after notice and opport
 
 A judge of the Tax Court removed from office in accordance with subsection (f) shall not be permitted at any time to practice before the Tax Court.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 879; Mar. 2, 1955, ch. 9, §1(h), 69 Stat. 10; Pub. L. 88–426, title IV, §403(i), Aug. 14, 1964, 78 Stat. 434; Pub. L. 91–172, title IX, §§952, 953, Dec. 30, 1969, 83 Stat. 730; Pub. L. 96–417, title VI, §601(10), Oct. 10, 1980, 94 Stat.1744; Pub. L. 96–439, §1(a), (b), Oct. 13, 1980, 94 Stat. 1878.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 879; Mar. 2, 1955, ch. 9, §1(h), 69 Stat. 10; Pub. L. 88–426, title IV, §403(i), Aug. 14, 1964, 78 Stat. 434; Pub. L. 91–172, title IX, §§952, 953, Dec. 30, 1969, 83 Stat. 730; Pub. L. 96–417, title VI, §601(10), Oct. 10, 1980, 94 Stat. 1744; Pub. L. 96–439, §1(a), (b), Oct. 13, 1980, 94 Stat. 1878.)
 
 #### Amendments
 
@@ -52,13 +52,13 @@ Subsec. (e). Pub. L. 91–172, §952(b), substituted provisions that a term in o
 
 #### Effective Date of 1980 Amendments
 
-Section 1(c) of Pub. L. 96–439 provided that: “The amendments made by this section \[amending this section\] shall take effect on February 1, 1981.”
+Pub. L. 96–439, §1(c), Oct. 13, 1980, 94 Stat. 1878, provided that: “The amendments made by this section \[amending this section\] shall take effect on February 1, 1981.”
 
 Amendment by Pub. L. 96–417 effective, except as otherwise provided, Nov. 1, 1980, and applicable with respect to civil actions pending on or commenced on or after such date, see section 701(a) of Pub. L. 96–417, as amended, set out as a note under section 251 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1969 Amendment
 
-Section 962(b), (c) of Pub. L. 91–172 provided that:
+Pub. L. 91–172, title IX, §962(b), (c), Dec. 30, 1969, 83 Stat. 736, provided that:
 
 “(b) The amendment made by section 952(a) \[amending this section\] shall apply to judges appointed after the date of enactment of this Act \[Dec. 30, 1969\].
 
@@ -72,7 +72,7 @@ Amendment by section 953 of Pub. L. 91–172 to take effect on Dec. 30, 1969, se
 
 #### Effective Date of 1964 Amendment
 
-Amendment by Pub. L. 88–426 effective on first day of first pay period which begins on or after July 1, 1964, except to the extent provided in section 501(c) of Pub. L. 88–426, see section 501 of Pub. L. 88–426.
+Amendment by Pub. L. 88–426 effective on first day of first pay period which begins on or after July 1, 1964, except to the extent provided in section 501(c) of Pub. L. 88–426, see section 501 of Pub. L. 88–426, title V, Aug. 14, 1964, 78 Stat. 435.
 
 #### Effective Date of 1955 Amendment
 
@@ -192,5 +192,5 @@ June 1, 1955, ch. 113, title III, 69 Stat. 78.
 
 #### Executive Order No. 12064
 
-Ex. Ord. No. 12064, June 5, 1978, 43 F.R. 24661, which established the United States Tax Court Nominating Commission and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12305, May 5, 1981, 46 F.R. 25421, set out as a note under section 14 of the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12064, June 5, 1978, 43 F.R. 24661, which established the United States Tax Court Nominating Commission and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12305, May 5, 1981, 46 F.R. 25421, formerly set out as a note under section 14 of the Appendix to Title 5, Government Organization and Employees.
 

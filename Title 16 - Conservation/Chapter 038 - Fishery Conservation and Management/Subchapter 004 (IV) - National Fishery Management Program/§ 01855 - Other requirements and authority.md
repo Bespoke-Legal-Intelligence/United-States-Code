@@ -110,7 +110,7 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. 3501 et seq.),<sup>1</sup> the Re
 
 (4) The priority of security interests shall be determined in order of filing, the first filed having the highest priority. A validly-filed security interest shall remain valid and perfected notwithstanding a change in residence or place of business of the owner of record. For the purposes of this subsection, “security interest” shall include security interests, assignments, liens and other encumbrances of whatever kind.
 
-(5)(A) Notwithstanding section 1854(d)(1) of this title, the Secretary shall collect a reasonable fee of not more than one-half of one percent of the value of a limited access system permitupon registration of the title to such permit with the central registry system and upon the transfer of such registered title. Any such fee collected shall be deposited in the Limited Access System Administration Fund established under subparagraph (B).
+(5)(A) Notwithstanding section 1854(d)(1) of this title, the Secretary shall collect a reasonable fee of not more than one-half of one percent of the value of a limited access system permit upon registration of the title to such permit with the central registry system and upon the transfer of such registered title. Any such fee collected shall be deposited in the Limited Access System Administration Fund established under subparagraph (B).
 
 (B) There is established in the Treasury a Limited Access System Administration Fund. The Fund shall be available, without appropriation or fiscal year limitation, only to the Secretary for the purposes of—
 
@@ -138,7 +138,7 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. 3501 et seq.),<sup>1</sup> the Re
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), the annual percentage of the total allowable catch, guideline harvest level, or other annual catch limit allocated to the program in each directed fishery of the Bering Sea and Aleutian Islands shall be the percentage approved by the Secretary, or established by Federal law, as of March 1, 2006, for the program. The percentage for each fishery shall be either a directed fishing allowance or include both directed fishing and nontarget needs based on existing practice with respect to the program as of March 1, 2006, for each fishery.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), the annual percentage of the total allowable catch, guideline harvest level, or other annual catch limit allocated to the program in each directed fishery of the Bering Sea and Aleutian Islands shall be the percentage approved by the Secretary, or established by Federal law, as of March 1, 2006, for the program. The percentage for each fishery shall be either a directed fishing allowance or include both directed fishing and nontarget needs based on existingpractice with respect to the program as of March 1, 2006, for each fishery.
 
 #### (ii) Exceptions
 
@@ -172,7 +172,7 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. 3501 et seq.),<sup>1</sup> the Re
 
 &emsp;&emsp;&emsp;(iii) The village of Saint Paul through the Central Bering Sea Fishermen's Association.
 
-&emsp;&emsp;&emsp;(iv) The villages of Chefornak, Chevak, Eek, Goodnews Bay, Hooper Bay, Kipnuk,Kongiganak, Kwigillingok, Mekoryuk, Napakiak, Napaskiak, Newtok, Nightmute, Oscarville, Platinum, Quinhagak, Scammon Bay, Toksook Bay, Tuntutuliak, and Tununak through the Coastal Villages Region Fund.
+&emsp;&emsp;&emsp;(iv) The villages of Chefornak, Chevak, Eek, Goodnews Bay, Hooper Bay, Kipnuk, Kongiganak, Kwigillingok, Mekoryuk, Napakiak, Napaskiak, Newtok, Nightmute, Oscarville, Platinum, Quinhagak, Scammon Bay, Toksook Bay, Tuntutuliak, and Tununak through the Coastal Villages Region Fund.
 
 &emsp;&emsp;&emsp;(v) The villages of Brevig Mission, Diomede, Elim, Gambell, Golovin, Koyuk, Nome, Saint Michael, Savoonga, Shaktoolik, Stebbins, Teller, Unalakleet, Wales, and White Mountain through the Norton Sound Economic Development Corporation.
 
@@ -198,7 +198,7 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. 3501 et seq.),<sup>1</sup> the Re
 
 &emsp;&emsp;&emsp;&emsp;(II) On a pooled or joint investment basis with one or more other entities participating in the program for projects that are not fishery-related and that are located in one or more of their regions.
 
-&emsp;&emsp;&emsp;&emsp;(III) For matching Federal or State grants for projects or programs in its member villages without regard to any limitation on the Federal or State share, or restriction on the source of any non-Federal or non-State matching funds, of any grant program under any other provision of law.
+&emsp;&emsp;&emsp;&emsp;(III) For matching Federal or State grants for projects or programs in its member villages without regard to any limitation on the Federal or State share, or restriction on the source of any non-Federal or non-State matching funds, ofany grant program under any other provision of law.
 
 #### (iv) Fishery-related investments
 
@@ -250,7 +250,7 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. 3501 et seq.),<sup>1</sup> the Re
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;During calendar year 2012 and every 10 years thereafter, the State of Alaska shall evaluate the performance of each entityparticipating in the program based on the criteria described in clause (ii).
+&emsp;&emsp;&emsp;During calendar year 2012 and every 10 years thereafter, the State of Alaska shall evaluate the performance of each entity participating in the program based on the criteria described in clause (ii).
 
 #### (ii) Criteria
 
@@ -274,7 +274,7 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. 3501 et seq.),<sup>1</sup> the Re
 
 #### (iv) Reallocation of reduced amount
 
-&emsp;&emsp;&emsp;If the State or the Secretary reduces an entity's allocation under clause (iii), the reduction shall be reallocated among other entities participating in the program whose allocations are not reduced during the same period in proportion to each such entity's allocation of the applicable species under subparagraph (C).
+&emsp;&emsp;&emsp;If the State or the Secretary reduces an entity's allocation under clause (iii), thereduction shall be reallocated among other entities participating in the program whose allocations are not reduced during the same period in proportion to each such entity's allocation of the applicable species under subparagraph (C).
 
 #### (I) Secretarial approval not required
 
@@ -466,7 +466,7 @@ Pub. L. 109–59, title X, §10206, Aug. 10, 2005, 119 Stat. 1934, provided that
 
 #### Community Development Quota Report
 
-Section 108(h) of Pub. L. 104–297 provided that: “Not later than October 1, 1998, the National Academy of Sciences, in consultation with the Secretary, the North Pacific and Western Pacific Councils, communities and organizations participating in the program, participants in affected fisheries, and the affected States, shall submit to the Secretary of Commerce and Congress a comprehensive report on the performance and effectiveness of the community development quota programs under the authority of the North Pacific and Western Pacific Councils. The report shall—
+Pub. L. 104–297, title I, §108(h), Oct. 11, 1996, 110 Stat. 3580, provided that: “Not later than October 1, 1998, the National Academy of Sciences, in consultation with the Secretary, the North Pacific and Western Pacific Councils, communities and organizations participating in the program, participants in affected fisheries, and the affected States, shall submit to the Secretary of Commerce and Congress a comprehensive report on the performance and effectiveness of the community development quota programs under the authority of the North Pacific and Western Pacific Councils. The report shall—
 
 &emsp;“(1) evaluate the extent to which such programs have met the objective of providing communities with the means to develop ongoing commercial fishing activities;
 
@@ -486,7 +486,7 @@ Section 108(h) of Pub. L. 104–297 provided that: “Not later than October 1, 
 
 #### Registry Transition for Limited Access System Permits
 
-Section 110(e) of Pub. L. 104–297, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: “Security interests on permits described under section 305(h)(1) of the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1855(h)(1)\], as amended by this Act, that are effective and perfected by otherwise applicable law on the date of the final regulations implementing section 305(h) shall remain effective and perfected if, within 120 days after such date, the secured party submits evidence satisfactory to the Secretary of Commerce and in compliance with such regulations of the perfection of such security.”
+Pub. L. 104–297, title I, §110(e), Oct. 11, 1996, 110 Stat. 3592, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: “Security interests on permits described under section 305(h)(1) of the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1855(h)(1)\], as amended by this Act, that are effective and perfected by otherwise applicable law on the date of the final regulations implementing section 305(h) shall remain effective and perfected if, within 120 days after such date, the secured party submits evidence satisfactory to the Secretary of Commerce and in compliance with such regulations of the perfection of such security.”
 
 #### Western Pacific Demonstration Projects
 

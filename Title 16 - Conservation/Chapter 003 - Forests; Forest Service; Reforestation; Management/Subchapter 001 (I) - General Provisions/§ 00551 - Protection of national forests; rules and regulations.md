@@ -10,7 +10,7 @@ The Secretary of Agriculture shall make provisions for the protection against de
 
 #### References in Text
 
-Section 471 of this title, referred to in text, was in the original a reference to act Mar. 3, 1891, 26 Stat. 1103,and was repealed by Pub. L. 94–579, title VII, §704(a), Oct. 21, 1976, 90 Stat. 2792.
+Section 471 of this title, referred to in text, was in the original a reference to act Mar. 3, 1891, 26 Stat. 1103, and was repealed by Pub. L. 94–579, title VII, §704(a), Oct. 21, 1976, 90 Stat. 2792.
 
 #### Codification
 

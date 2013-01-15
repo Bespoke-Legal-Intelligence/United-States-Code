@@ -42,7 +42,7 @@ In any State in which the Commissioner has approved the State plan required by s
 
 #### (c) Existing eligible agencies
 
-In the administration of the provisions of this section, the director of the designated State unit shall award grants under this section to any eligible agency that has been awarded a grant under this subpart by September 30, 1997,unless the director makes a finding that the agency involved fails to comply with the standards and assurances set forth in section 796f–4 of this title.
+In the administration of the provisions of this section, the director of the designated State unit shall award grants under this section to any eligible agency that has been awarded a grant under this subpart by September 30, 1997, unless the director makes a finding that the agency involved fails to comply with the standards and assurances set forth in section 796f–4 of this title.
 
 #### (d) New centers for independent living
 
@@ -82,7 +82,7 @@ In the administration of the provisions of this section, the director of the des
 
 Unless the director of the designated State unit and the chairperson of the Council or other individual designated by the Council acting on behalf of and at the direction of the Council jointly agree on another order of priority, the director shall be guided by the following order of priorities in allocating funds among centers for independent living within a State, to the extent funds are available:
 
-&emsp;(1) The director of the designated State unit shall support existing centers for independent living, as described in subsection (c) of this section, that comply with the standards and assurances set forth in section 796f–4 of this title, at the level of funding for the previous year.
+&emsp;(1) The director of the designated State unit shall support existing centers for independent living, as described in subsection (c) of thissection, that comply with the standards and assurances set forth in section 796f–4 of this title, at the level of funding for the previous year.
 
 &emsp;(2) The director of the designated State unit shall provide for a cost-of-living increase for such existing centers for independent living.
 
@@ -110,7 +110,7 @@ A center that provides or manages residential housing after October 1, 1994, sha
 
 #### (h) Onsite compliance review
 
-The director of the designated State unit shall annually conduct onsite compliance reviews of at least 15 percent of the centers for independent living that receive funding under this section in the State. Each team that conducts onsite compliance review of centers for independent living shall include at least one person who is not an employee of the designated State agency, who has experience in the operation of centers forindependent living, and who is jointly selected by the director of the designated State unit and the chairperson of or other individual designated by the Council acting on behalf of and at the direction of the Council. A copy of this review shall be provided to the Commissioner.
+The director of the designated State unit shall annually conduct onsite compliance reviews of at least 15 percent of the centers for independent living that receive funding under this section in the State. Each team that conducts onsite compliance review of centers for independent living shall include at least one person who is not an employee of the designated State agency, who has experience in the operation of centers for independent living, and who is jointly selected by the director of the designated State unit and the chairperson of or other individual designated by the Council acting on behalf of and at the direction of the Council. A copy of this review shall be provided to the Commissioner.
 
 #### (i) Adverse actions
 

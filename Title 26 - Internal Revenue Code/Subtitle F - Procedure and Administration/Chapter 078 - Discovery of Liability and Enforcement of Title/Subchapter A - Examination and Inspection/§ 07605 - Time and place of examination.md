@@ -96,5 +96,5 @@ Amendment by act June 29, 1956, effective June 29, 1956, see section 211 of act 
 
 #### Regulations
 
-Section 6228(b) of Pub. L. 100–647 provided that: “The Secretary of the Treasury or the Secretary's delegate shall issue regulations to implement subsection (a) of section 7605 of the 1986 Code (relating to time and place of examination) within 1 year after the date of the enactment of this Act \[Nov. 10, 1988\].”
+Pub. L. 100–647, title VI, §6228(b), Nov. 10, 1988, 102 Stat. 3732, provided that: “The Secretary of the Treasury or the Secretary's delegate shall issue regulations to implement subsection (a) of section 7605 of the 1986 Code (relating to time and place of examination) within 1 year after the date of the enactment of this Act \[Nov. 10, 1988\].”
 

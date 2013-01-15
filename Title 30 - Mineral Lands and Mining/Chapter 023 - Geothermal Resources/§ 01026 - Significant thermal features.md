@@ -32,7 +32,7 @@
 
 &emsp;(N) Hawai‘i Volcanoes National Park.
 
-&emsp;(O) Haleakala�AE8 National Park.
+&emsp;(O) Haleakalā National Park.
 
 &emsp;(P) Lake Mead National Recreation Area.
 
@@ -96,11 +96,11 @@ Subsec. (d)(3). Pub. L. 109–58, §236(1), substituted “geothermal resources�
 
 <b>2000</b>—Subsec. (a)(1)(N). Pub. L. 106–510, §3(a)(2), substituted “Hawai‘i Volcanoes National Park” for “Hawaii Volcanoes National Park”.
 
-Subsec. (a)(1)(O). Pub. L. 106–510, §3(b)(2), substituted “Haleakala�AE8 National Park” for “Haleakala National Park”.
+Subsec. (a)(1)(O). Pub. L. 106–510, §3(b)(2), substituted “Haleakalā National Park” for “Haleakala National Park”.
 
 #### Corwin Springs Known Geothermal Resource Area Study
 
-Section 8 of Pub. L. 100–443 provided that:
+Pub. L. 100–443, §8, Sept. 22, 1988, 102 Stat. 1771, provided that:
 
 “(a) The United States Geological Survey, in consultation with the National Park Service, shall conduct a study on the impact of present and potential geothermal development in the vicinity of Yellowstone National Park on the thermal features within the park. The area to be studied shall be the lands within the Corwin Springs Known Geothermal Resource Area as designated in the July 22, 1975, Federal Register (Fed. Reg. Vol. 40, No. 141). The study shall be transmitted to Congress no later than December 1, 1990.
 

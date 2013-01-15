@@ -12,7 +12,7 @@ An application submitted under subsection (a) of this section shall include each
 
 &emsp;(2) A description of the telecommunications facilities and equipment and technical assistance for which assistance is sought, which may include—
 
-&emsp;&emsp;(A) the design, development, construction, acquisition, maintenance, and operation of State or multistate educational telecommunications networks and technology resource centers;
+&emsp;&emsp;(A) the design, development, construction, acquisition, maintenance, and operation ofState or multistate educational telecommunications networks and technology resource centers;
 
 &emsp;&emsp;(B) microwave, fiber optics, cable, and satellite transmission equipment or any combination thereof;
 

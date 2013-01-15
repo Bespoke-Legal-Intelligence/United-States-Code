@@ -94,7 +94,7 @@ Acres
 
 &emsp;&emsp;Lake Valley
 
-30&nbsp;&nbsp;
+30  
 
 &emsp;&emsp;Manuelito-Atsee Nitsaa
 

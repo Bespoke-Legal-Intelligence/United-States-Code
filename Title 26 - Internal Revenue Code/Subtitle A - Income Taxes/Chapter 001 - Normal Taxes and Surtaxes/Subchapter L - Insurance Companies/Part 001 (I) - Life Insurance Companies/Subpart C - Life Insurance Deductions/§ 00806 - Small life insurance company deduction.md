@@ -116,7 +116,7 @@ Section applicable to taxable years beginning after Dec. 31, 1983, see section 2
 
 #### Determination of Tentative LICTI Where Corporation Made Certain Acquisitions in 1980, 1981, 1982, and 1983
 
-Section 217(c) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “If—
+Pub. L. 98–369, div. A, title II, §217(c), July 18, 1984, 98 Stat. 762, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “If—
 
 &emsp;“(1) a corporation domiciled or having its principal place of business in Alabama, Arkansas, Oklahoma, or Texas acquired the assets of 1 or more insurance companies after 1979 and before April 1, 1983, and
 
@@ -126,7 +126,7 @@ Section 217(c) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22
 
 #### Determination of Assets of Controlled Group for Purposes of Small Life Insurance Company Deduction for 1984
 
-Section 217(h) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–369, div. A, title II, §217(h), July 18, 1984, 98 Stat. 763, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 
@@ -152,7 +152,7 @@ Members of group taken into account.—For purposes of paragraph (1), the member
 
 #### Special Rule for Certain Debt-Financed Acquisition of Stock
 
-Section 217(k) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, title X, §1011(c)(2), Oct. 22, 1986, 100 Stat. 2095, 2389, provided that: “If—
+Pub. L. 98–369, div. A, title II, §217(k), July 18, 1984, 98 Stat. 765, as amended by Pub. L. 99–514, §2, title X, §1011(c)(2), Oct. 22, 1986, 100 Stat. 2095, 2389, provided that: “If—
 
 &emsp;“(1) a life insurance company owns the stock of another corporation through a partnership of which it is a partner,
 
@@ -164,7 +164,7 @@ Section 217(k) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, title X
 
 #### Treatment of Losses From Certain Guaranteed Interest Contracts
 
-Section 217(<i>l</i>) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–369, div. A, title II, §217(l), July 18, 1984, 98 Stat. 765, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 
@@ -200,7 +200,7 @@ Income on underlying assets taken into account.—In determining the amount of a
 
 “(6)
 
-Limitation on tax benefit.—The amount of any reduction in tax for any taxable year by reason of this subsection for any qualified life insurance company (or controlled group within the meaning of section 806(d)(3) of the Internal Revenue Code of 1986) shall not exceed the applicable amount set forth in the following table:
+Limitation on tax benefit.—The amount of any reduction in tax for any taxable year by reason of thissubsection for any qualified life insurance company (or controlled group within the meaning of section 806(d)(3) of the Internal Revenue Code of 1986) shall not exceed the applicable amount set forth in the following table:
 
 <b>“In the case of taxable</b>
 
@@ -220,7 +220,7 @@ Limitation on tax benefit.—The amount of any reduction in tax for any taxable 
 
 &nbsp;&nbsp;1986
 
-&nbsp;$3,000,000  
+&nbsp;$3,000,000&nbsp;&nbsp;
 
 &nbsp;&nbsp;1987
 
@@ -230,7 +230,7 @@ Limitation on tax benefit.—The amount of any reduction in tax for any taxable 
 
 #### Special Rule for Certain Interests in Oil and Gas Properties
 
-Section 217(m) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–369, div. A, title II, §217(m), July 18, 1984, 98 Stat. 766, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 

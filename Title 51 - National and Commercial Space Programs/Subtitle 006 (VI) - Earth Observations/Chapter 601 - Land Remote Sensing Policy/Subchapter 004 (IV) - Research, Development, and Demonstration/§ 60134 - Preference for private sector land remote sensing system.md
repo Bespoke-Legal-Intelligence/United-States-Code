@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—If a successor land remote sensing system to Landsat 7 can be funded and managed by the private sector while still achieving the goals stated in subsection (b) without jeopardizing the domestic, national security, and foreign policy interests of the United States, preference should be given to the development of such a system by the private sectorwithout competition from the United States Government.
+In General.—If a successor land remote sensing system to Landsat 7 can be funded and managed by the private sector while still achieving the goals stated in subsection (b) without jeopardizing the domestic, national security, and foreign policy interests of the United States, preference should be given to the development of such a system by the private sector without competition from the United States Government.
 
 (b)
 

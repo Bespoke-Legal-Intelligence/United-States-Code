@@ -2,7 +2,7 @@
 
 (a) For purposes of determining compensation for overtime hours in the case of an employee participating in a program under section 6122 of this title—
 
-&emsp;(1) the head of an agency may, on request of the employee, grant the employee compensatory time off in lieu of payment for such overtime hours, whether or not irregular or occasional in nature and notwithstanding the provisions of sections 5542(a), 5543(a)(1) and section <sup>1</sup> 5544(a) of this title, section 7453(e) of title 38, section 7 of the Fair Labor StandardsAct (29 U.S.C. 207), or any other provision of law; or
+&emsp;(1) the head of an agency may, on request of the employee, grant the employee compensatory time off in lieu of payment for such overtime hours, whether or not irregular or occasional in nature and notwithstanding the provisions of sections 5542(a), 5543(a)(1) and section <sup>1</sup> 5544(a) of this title, section 7453(e) of title 38, section 7 of the Fair Labor Standards Act (29 U.S.C. 207), or any other provision of law; or
 
 &emsp;(2) the employee shall be compensated for such overtime hours in accordance with such provisions, as applicable.
 

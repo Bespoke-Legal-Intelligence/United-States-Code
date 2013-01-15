@@ -10,7 +10,7 @@ This Act, referred to in text, is act Apr. 24, 1944, ch. 177, 58 Stat. 215, as a
 
 #### Repeals
 
-Section 4 of act Apr. 24, 1944, provided: “Sections 2237 and 2240 of the Revised Statutes and the act of May 21, 1928 (45 Stat. 684; 43 U.S.C., sec. 80), as amended \[sections 80 and 80a of this title\], are hereby repealed, and all other provisions of law inconsistent with this Act \[See References in Text note above\] are repealed to the extent of such inconsistency.”
+Act Apr. 24, 1944, ch. 177, §4, 58 Stat. 215, provided that: “Sections 2237 and 2240 of the Revised Statutes and the act of May 21, 1928 (45 Stat. 684; 43 U.S.C., sec. 80), as amended \[sections 80 and 80a of this title\], are hereby repealed, and all other provisions of law inconsistent with this Act \[See References in Text note above\] are repealed to the extent of such inconsistency.”
 
 #### Transfer of Functions
 
@@ -20,5 +20,5 @@ Words “officials of district land offices” substituted for “registers” o
 
 #### Extension to Alaska
 
-Section 5 of act Apr. 24, 1944, provided that the provisions of this Act \[see References in Text note above\] not extend to the territory of Alaska.
+Act Apr. 24, 1944, ch. 177, §5, 58 Stat. 215, provided that the provisions of such Act \[see References in Text note above\] would not extend to the territory of Alaska.
 

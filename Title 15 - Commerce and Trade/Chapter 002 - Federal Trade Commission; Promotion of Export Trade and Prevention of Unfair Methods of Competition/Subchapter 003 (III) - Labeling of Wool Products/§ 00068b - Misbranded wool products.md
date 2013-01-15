@@ -12,7 +12,7 @@ A wool product shall be misbranded—
 
 &emsp;&emsp;(B) the maximum percentage of the total weight of the wool product, of any nonfibrous loading, filling, or adulterating matter.
 
-&emsp;&emsp;(C) the name of the manufacturer of the wool product and/or the name of one or morepersons subject to section 68a of this title with respect to such wool product.
+&emsp;&emsp;(C) the name of the manufacturer of the wool product and/or the name of one or more persons subject to section 68a of this title with respect to such wool product.
 
 &emsp;&emsp;(D) the name of the country where processed or manufactured.
 
@@ -72,7 +72,7 @@ A wool product shall be misbranded—
 
 #### (b) Additional information
 
-In addition to information required in this section, the stamp, tag, label, or other means of identification, or substitute therefor under section 68c of this title, may contain other information not violating the provisions of this subchapter or the rules and regulations of the Commission.
+In addition to information required in this section, the stamp, tag, label, or other means ofidentification, or substitute therefor under section 68c of this title, may contain other information not violating the provisions of this subchapter or the rules and regulations of the Commission.
 
 #### (c) Substitute identification
 
@@ -86,7 +86,7 @@ The Commission, after giving due notice and opportunity to be heard to intereste
 
 #### (e) False or deceptive advertising in mail order promotions
 
-For the purposes of this subchapter, a wool product shall be considered to be falsely or deceptively advertised in any mail order promotional material which is used in the direct sale or direct offering for sale of such wool product, unless such wool product description states in a clear and conspicuous manner that such wool product is processed or manufactured inthe United States of America, or imported, or both.
+For the purposes of this subchapter, a wool product shall be considered to be falsely or deceptively advertised in any mail order promotional material which is used in the direct sale or direct offering for sale of such wool product, unless such wool product description states in a clear and conspicuous manner that such wool product is processed or manufactured in the United States of America, or imported, or both.
 
 #### (f) Location of label, etc.
 

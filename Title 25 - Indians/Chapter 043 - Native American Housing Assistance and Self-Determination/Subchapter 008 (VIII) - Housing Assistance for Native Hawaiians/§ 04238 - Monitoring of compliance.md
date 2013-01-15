@@ -36,7 +36,7 @@
 
 The Secretary shall establish such performance measures as may be necessary to assess compliance with the requirements of this subchapter.
 
-(Pub. L. 104–330, title VIII, §819, as added Pub. L. 106–568, title II, §203, Dec. 27, 2000, 114 Stat. 2893, and Pub. L. 106–569, title V, §513, Dec. 27, 2000, 114 Stat. 2987.)
+(Pub. L. 104–330, title VIII, §819, as added Pub. L. 106–568, title II, §203, Dec. 27, 2000, 114 Stat. 2893,and Pub. L. 106–569, title V, §513, Dec. 27, 2000, 114 Stat. 2987.)
 
 #### Codification
 

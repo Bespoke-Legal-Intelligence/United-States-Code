@@ -44,7 +44,7 @@ Withdrawal of slot.—If the Secretary determines that an air carrier that is us
 
 &emsp;(4)
 
-Continuation.—If the Secretary determines that an air carrier that is using a slot under paragraph (2) is no longer providing the air transportation that replaced the turboprop air transportation with a regional jet, the Secretary shall withdraw the slot being used by the air carrier under paragraph (2) but shall allow the air carrier to continue to hold the exemption granted to the air carrier under subsection (b)(3).
+Continuation.—If the Secretary determines that an air carrier that is using a slot under paragraph (2) is no longer providing the air transportation that replaced the turboprop air transportation with a regional jet, the Secretary shall withdraw the slot being used by the air carrier under paragraph (2) but shallallow the air carrier to continue to hold the exemption granted to the air carrier under subsection (b)(3).
 
 (e)
 

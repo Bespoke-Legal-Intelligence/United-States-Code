@@ -6,7 +6,7 @@ In implementing this section, the Comptroller and the Federal Deposit Insurance 
 
 #### (b) Deposits of less than amount equal to the standard maximum deposit insurance amount
 
-No foreign bank may establish or operate a Federal branch which receives deposits of less than an amount equal to the standard maximum deposit insurance amount unless the branch is an insured branch as defined in section 3(s) of the Federal Deposit Insurance Act \[12 U.S.C.1813(s)\], or unless the Comptroller determines by order or regulation that the branch is not engaged in domestic retail deposit activities requiring deposit insurance protection, taking account of the size and nature of depositors and deposit accounts.
+No foreign bank may establish or operate a Federal branch which receives deposits of less than an amount equal to the standard maximum deposit insurance amount unless the branch is an insured branch as defined in section 3(s) of the Federal Deposit Insurance Act \[12 U.S.C. 1813(s)\], or unless the Comptroller determines by order or regulation that the branch is not engaged in domestic retail deposit activities requiring deposit insurance protection, taking account of the size and nature of depositors and deposit accounts.
 
 #### (c) Deposits required to be insured under State law
 
@@ -72,7 +72,7 @@ Amendment by Pub. L. 109–173 effective Apr. 1, 2006, see section 2(e) of Pub. 
 
 #### Effective Date of 1992 Amendments
 
-Section 302(b) of Pub. L. 102–558 provided that: “This section, and the amendments made by this section\[amending this section\], shall have the same effective date as the Federal Deposit Insurance Corporation Improvement Act of 1991 \[Pub. L. 102–242\].”
+Pub. L. 102–558, title III, §302(b), Oct. 28, 1992, 106 Stat. 4224, provided that: “This section, and the amendments made by this section \[amending this section\], shall have the same effective date as the Federal Deposit Insurance Corporation Improvement Act of 1991 \[Pub. L. 102–242\].”
 
 Amendment by Pub. L. 102–550 effective as if included in the Federal Deposit Insurance Corporation Improvement Act of 1991, Pub. L. 102–242, as of Dec. 19, 1991, see section 1609(a) of Pub. L. 102–550, set out as a note under section 191 of this title.
 

@@ -16,7 +16,7 @@ A countervailing duty investigation shall be initiated whenever the administerin
 
 #### (3) Petition based upon a derogation of an international undertaking on official export credits
 
-&emsp;If the sole basis of a petition filed under paragraph (1) is the derogation of an international undertaking on official export credits, the Administering Authority shall immediately notify the Secretary of the Treasury who shall, in consultation with the Administering Authority, within 5 days after thedate on which the administering authority initiates an investigation under subsection (c) of this section, determine the existence and estimated value of the derogation, if any, and shall publish such determination in the Federal Register.
+&emsp;If the sole basis of a petition filed under paragraph (1) is the derogation of an international undertaking on official export credits, the Administering Authority shall immediately notify the Secretary of the Treasury who shall, in consultation with the Administering Authority, within 5 days after the date on which the administering authority initiates an investigation under subsection (c) of this section, determine the existence and estimated value of the derogation, if any, and shall publish such determination in the Federal Register.
 
 #### (4) Action with respect to petitions
 
@@ -122,7 +122,7 @@ The administering authority shall—
 
 If, at any time after the initiation of an investigation under this part, the administering authority finds a reasonable basis to suspect that the alleged countervailable subsidy is inconsistent with the Subsidies Agreement, the administering authority may request the Commissioner of Customs to compile information on an expedited basis regarding entries of the subject merchandise. Upon receiving such request, the Commissioner of Customs shall collect information regarding the volume and value of entries of the subject merchandise and shall transmit such information to the administering authority at such times as the administering authority shall direct (at least once every 30 days), until a final determination is made under section 1671d(a) of this title, the investigation is terminated, or the administering authority withdraws the request.
 
-(June 17, 1930, ch. 497, title VII, §702, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 151; amended Pub. L. 98–181, title VI, §650(a), Nov. 30, 1983, 97 Stat. 1266; Pub. L. 99–514, title XVIII, §1886(a)(2), Oct. 22, 1986, 100 Stat. 2921; Pub. L. 100–418, title I, §§1324(a)(1), 1326(d)(1), Aug. 23, 1988, 102 Stat. 1199, 1204; Pub. L. 103–465, title II, §§211(a), 212(a)(1), (b)(1)(E), 233(a)(5)(B), (6)(A)(i), (ii), 270(a)(1)(A), (d), Dec. 8, 1994, 108 Stat. 4842, 4843, 4848, 4899, 4901, 4917, 4918; Pub. L. 104–295, §20(b)(3), Oct. 11, 1996, 110 Stat. 3527.)
+(June 17, 1930, ch. 497, title VII, §702, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 151; amended Pub. L. 98–181, title I \[title VI, §650(a)\], Nov. 30, 1983, 97 Stat. 1266; Pub. L. 99–514, title XVIII, §1886(a)(2), Oct. 22, 1986, 100 Stat. 2921; Pub. L. 100–418, title I, §§1324(a)(1), 1326(d)(1), Aug. 23, 1988, 102 Stat. 1199, 1204; Pub. L. 103–465, title II, §§211(a), 212(a)(1), (b)(1)(E), 233(a)(5)(B), (6)(A)(i), (ii), 270(a)(1)(A), (d), Dec. 8, 1994, 108 Stat. 4842, 4843, 4848, 4899, 4901, 4917, 4918; Pub. L. 104–295, §20(b)(3), Oct. 11, 1996, 110 Stat. 3527.)
 
 #### Amendments
 

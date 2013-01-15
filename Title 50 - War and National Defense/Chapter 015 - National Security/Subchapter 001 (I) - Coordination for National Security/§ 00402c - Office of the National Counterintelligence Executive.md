@@ -64,7 +64,7 @@ Subject to the direction and control of the National Counterintelligence Executi
 
 #### (B) Outreach
 
-&emsp;&emsp;To carry out and coordinate outreach programs and activities on counterintelligenceto other elements of the United States Government, and the private sector, and to coordinate the dissemination to the public of warnings on intelligence threats to the United States.
+&emsp;&emsp;To carry out and coordinate outreach programs and activities on counterintelligence to other elements of the United States Government, and the private sector, and to coordinate the dissemination to the public of warnings on intelligence threats to the United States.
 
 #### (C) Research and development
 
@@ -166,7 +166,7 @@ Subsec. (e)(5). Pub. L. 108–458, §1071(g)(2)(B)(ii), substituted “Director 
 
 Subsec. (h)(1), (2). Pub. L. 108–458, §1071(g)(2)(B)(iii), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
-Subsec. (<i>l</i>). Pub. L. 108–458, §1072(d)(1)(C)(ii), substituted “Office of the Director of National Intelligence” for “Office of the Director of Central Intelligence” in introductory provisions.
+Subsec. (l). Pub. L. 108–458, §1072(d)(1)(C)(ii), substituted “Office of the Director of National Intelligence” for “Office of the Director of Central Intelligence” in introductory provisions.
 
 Subsec. (m). Pub. L. 108–458, §1071(g)(2)(B)(iv), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 

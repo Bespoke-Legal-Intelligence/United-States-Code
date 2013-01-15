@@ -1,6 +1,4 @@
 
-37 U.S.C.<br>United States Code, 2011 Edition<br>Title 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES<br>From the U.S. Government Publishing Office, www.gpo.gov
-
 # TITLE 37—PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
 
 <i>This title was enacted by Pub. L. 87–649, §1, Sept. 7, 1962, 76 Stat. 451</i>
@@ -24,7 +22,9 @@
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 112–81, div. A, title VI, §631(f)(2), Dec. 31, 2011, 125 Stat. 1464, substituted “Allowances Other Than Travel and Transportation Allowances” for “Allowances” in item for chapter 7 and added item for chapter 8.
+<b>2013</b>—Pub. L. 112–239, div. A, title X, §1076(a)(7), Jan. 2, 2013, 126 Stat. 1948, made technical amendment to directory language of Pub. L. 112–81, §631(f)(2). See 2011 Amendment note below.
+
+<b>2011</b>—Pub. L. 112–81, div. A, title VI, §631(f)(2), Dec. 31, 2011, 125 Stat. 1464, as amended by Pub. L. 112–239, div. A, title X, §1076(a)(7), Jan. 2, 2013, 126 Stat. 1948, substituted “Allowances Other Than Travel and Transportation Allowances” for “Allowances” in item for chapter 7 and added item for chapter 8.
 
 <b>1966</b>—Pub. L. 89–554, §5(a), Sept. 6, 1966, 80 Stat. 625, added item for chapter 10.
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary may acquire, at the discretion of the Secretary and with the consent of the owner, or from an heir during probate in accordance with section 2206(<i>o</i>) of this title and at fair market value, any fractional interest in trust or restricted lands.
+&emsp;The Secretary may acquire, at the discretion of the Secretary and with the consent of the owner, or from an heir during probate in accordance with section 2206(o) of this title and at fair market value, any fractional interest in trust or restricted lands.
 
 #### (2) Authority of Secretary
 
@@ -82,7 +82,7 @@ The Indian Self-Determination and Education Assistance Act of 1974, referred to 
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(1). Pub. L. 110–453 substituted “section 2206(<i>o</i>)” for “section 2206(p)”.
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–453 substituted “section 2206(o)” for “section 2206(p)”.
 
 <b>2005</b>—Pub. L. 109–157, §5(1), amended section catchline generally making technical correction to section designation.
 

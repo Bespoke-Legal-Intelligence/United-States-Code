@@ -52,7 +52,7 @@ Pub. L. 111–5, div. B, title I, §1007(b), Feb. 17, 2009, 123 Stat. 317, provi
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 applicable to amounts received after Dec. 31, 1986, in taxable years ending after such date, see section 151(b) of Pub. L. 99–514, set out as a note under section 1 of this title.
+Amendment by Pub. L. 99–514 applicable to amounts received after Dec. 31, 1986, in taxable years endingafter such date, see section 151(b) of Pub. L. 99–514, set out as a note under section 1 of this title.
 
 #### Effective Date of 1983 Amendment
 
@@ -62,7 +62,7 @@ Amendment by section 122(c)(2) of Pub. L. 98–21 applicable to taxable years be
 
 #### Effective Date of 1982 Amendment
 
-Section 611(b) of Pub. L. 97–248, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 97–248, title VI, §611(b), Sept. 3, 1982, 96 Stat. 706, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 
@@ -90,7 +90,7 @@ Amendment by Pub. L. 97–34 applicable to taxable years beginning after Dec. 31
 
 #### Effective Date
 
-Section 112(d) of Pub. L. 95–600, as amended by Pub. L. 98–369, div. A, title X, §1075(a), July 18, 1984, 98 Stat. 1053, provided that: “The amendments made by this section \[enacting this section and section 6050B of this title\] shall apply to payments of unemployment compensation made after December 31, 1978, in taxable years ending after such date, except that such amendments shall not apply to payments made for weeks of unemployment ending before December 1, 1978.”
+Pub. L. 95–600, title I, §112(d), Nov. 6, 1978, 92 Stat. 2778, as amended by Pub. L. 98–369, div. A, title X, §1075(a), July 18, 1984, 98 Stat. 1053, provided that: “The amendments made by this section \[enacting this section and section 6050B of this title\] shall apply to payments of unemployment compensation made after December 31, 1978, in taxable years ending after such date, except that such amendments shall not apply to payments made for weeks of unemployment ending before December 1, 1978.”
 
 #### Waiver of Statute of Limitations
 

@@ -4,13 +4,13 @@
 
 It is the policy of the United States that sustainable economic growth must be predicated on sustainable use of natural resources. The Secretary of the Treasury shall instruct the United States Executive Directors of the Multilateral Development Banks (MDB's) to—
 
-&emsp;(1) promote the adoption of internal guidelines requiring the use of least-cost planning techniques in evaluating proposed energy loans, and consider refusal to support power generation, utilization or energy sector loans unless cost-effective conservation measures have been fully evaluated and considered;
+&emsp;(1) promote the adoption of internal guidelines requiring the use of least-cost planning techniques in evaluating proposed energy loans, and consider refusal to support power generation, utilization or energy sector loansunless cost-effective conservation measures have been fully evaluated and considered;
 
 &emsp;(2) encourage each MDB to offer technical assistance to borrower nations in preparing national energy plans. Special emphasis shall be given to least-cost analysis in making decisions on energy use and development, and such analyses shall take into account all demand-side as well as supply-side options;
 
 &emsp;(3) promote expansion of MDB expertise in the areas of energy conservation and renewable energy sources;
 
-&emsp;(4) promote the adoption of lending strategies which place increased emphasis on energyconservation and efficiency as opposed to merely increasing generating capacity;
+&emsp;(4) promote the adoption of lending strategies which place increased emphasis on energy conservation and efficiency as opposed to merely increasing generating capacity;
 
 &emsp;(5) promote adoption of policies which minimize emissions of greenhouse gases;
 
@@ -38,11 +38,11 @@ The Administrator of the Agency for International Development shall—
 
 #### References in Text
 
-The Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1988, referred to in subsec. (c)(1), is Pub. L. 100–202, §101(e), Dec. 22, 1987, 101 Stat. 1329–131. The “early warning system” reports refer to the reports required by section 537(h)(1) of the Act (Pub. L. 100–202, §101(e) \[title V, §537(h)(1)\]), which is classified to section 262<i>l</i>–1(h)(1) of this title. For complete classification of this Act to the Code, see Tables.
+The Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1988, referred to in subsec. (c)(1), is Pub. L. 100–202, §101(e), Dec. 22, 1987, 101 Stat. 1329–131. The “early warning system” reports refer to the reports required by section 537(h)(1) of the Act (Pub. L. 100–202, §101(e) \[title V, §537(h)(1)\]), which is classified to section 262l–1(h)(1) of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 
 Section is from the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1989.
 
-Section was formerly classified to section 262<i>l</i> of this title.
+Section was formerly classified to section 262l of this title.
 

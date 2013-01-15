@@ -110,7 +110,7 @@ In order to facilitate the administration of the national park system, the Secre
 
 &emsp;&emsp;&emsp;The Secretary shall develop procedures for the use of the special account that ensure accountability and demonstrated results consistent with this Act.
 
-#### (<i>l</i>) Cooperative management agreements
+#### (l) Cooperative management agreements
 
 #### (1) In general
 
@@ -150,7 +150,7 @@ Subsec. (i). Pub. L. 106–176, §118(2), (4), capitalized the first letter of t
 
 Subsec. (j). Pub. L. 106–176, §118(5), realigned margins.
 
-<b>1998</b>—Subsecs. (k), (<i>l</i>). Pub. L. 105–391 added subsecs. (k) and (<i>l</i>).
+<b>1998</b>—Subsecs. (k), (l). Pub. L. 105–391 added subsecs. (k) and (l).
 
 <b>1996</b>—Subsec. (g). Pub. L. 104–333, §703, inserted provisions relating to Glacier Bay and substituted “interpretive demonstrations” for “interpretive demonstrations and park programs”.
 

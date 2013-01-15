@@ -34,7 +34,7 @@ Whenever such merchandise is consigned to a deceased person, or to an insolvent 
 
 #### (g) Exported merchandise returned as undeliverable
 
-With respect to any importation of merchandise to which General Headnote 4(e) of the Harmonized Tariff Schedule of the United States applies, any person who gained any benefit from, or met any obligation to, the United States as a result of the prior exportation of such merchandise shall, in accordance with regulations prescribed by the Secretary, within a reasonable time inform the Customs Service of the return of the merchandise.
+With respect to any importation of merchandise to which General Headnote 4(e) of the Harmonized Tariff Schedule of the United States applies, any person who gained any benefit from,or met any obligation to, the United States as a result of the prior exportation of such merchandise shall, in accordance with regulations prescribed by the Secretary, within a reasonable time inform the Customs Service of the return of the merchandise.
 
 (June 17, 1930, ch. 497, title IV, §485, 46 Stat. 724; June 25, 1938, ch. 679, §13, 52 Stat. 1083; Pub. L. 91–271, title III, §301(b), June 2, 1970, 84 Stat. 287; Pub. L. 95–598, title III, §315, Nov. 6, 1978, 92 Stat. 2678; Pub. L. 97–446, title II, §201(e), Jan. 12, 1983, 96 Stat. 2350; Pub. L. 103–182, title VI, §657, Dec. 8, 1993, 107 Stat. 2212.)
 

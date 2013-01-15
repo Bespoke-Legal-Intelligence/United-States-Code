@@ -10,13 +10,17 @@ Specified Provisions.—The provisions of this title referred to in subsection (
 
 &emsp;(1) Section 5101(c).
 
-&emsp;(2) Subsections (a), (b)(2), (g), and (i) of section 5110.
+&emsp;(2) Subsections (a), (b)(2),<sup>1</sup> (g), and (i) of section 5110.
 
 &emsp;(3) Section 5111.
 
 &emsp;(4) Subsection (a) and paragraphs (1), (6), (9), and (10) of subsection (b) of section 5112.
 
 (Added Pub. L. 106–419, title IV, §401(b), Nov. 1, 2000, 114 Stat. 1859, §1822; renumbered §1832, Pub. L. 108–183, title I, §102(a)(1), Dec. 16, 2003, 117 Stat. 2653.)
+
+#### References in Text
+
+Subsection (b)(2) of section 5110 of this title, referred to in subsec. (b)(2), was redesignated subsec. (b)(3) by Pub. L. 112–154, title V, §506(1), Aug. 6, 2012, 126 Stat. 1193.
 
 #### Prior Provisions
 
@@ -27,4 +31,6 @@ Another prior section 1832 was renumbered section 3733(d) of this title.
 #### Amendments
 
 <b>2003</b>—Pub. L. 108–183 renumbered section 1822 of this title as this section.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -24,7 +24,7 @@ Subsec. (c). Pub. L. 99–145, §919(b)(3), added subsec. (c).
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–292, provided that the amendment made by section 1 \[\[div. A\], title X, §1087(d)(5)\] is effective Oct. 17, 1998, and as if included in the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999, Pub. L. 105–261, as enacted.
+Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–292, provided that the amendment made by section 1 \[\[div. A\], title X, §1087(d)(5)\] is effective Oct. 17, 1998, and as if included in the StromThurmond National Defense Authorization Act for Fiscal Year 1999, Pub. L. 105–261, as enacted.
 
 #### Effective Date of 1985 Amendment
 

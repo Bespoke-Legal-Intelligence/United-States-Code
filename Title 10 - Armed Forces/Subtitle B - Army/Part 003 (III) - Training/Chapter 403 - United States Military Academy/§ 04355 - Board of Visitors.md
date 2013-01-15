@@ -16,7 +16,7 @@
 
 (c) If a member of the Board dies or resigns, a successor shall be designated for the unexpired portion of the term by the official who designated the member.
 
-(d) The Board shall visit the Academy annually. With the approval of the Secretary of the Army, the Board or its members may makeother visits to the Academy in connection with the duties of the Board or to consult with the Superintendent of the Academy.
+(d) The Board shall visit the Academy annually. With the approval of the Secretary of the Army, the Board or its members may make other visits to the Academy in connection with the duties of the Board or to consult with the Superintendent of the Academy.
 
 (e) The Board shall inquire into the morale and discipline, the curriculum, instruction, physical equipment, fiscal affairs, academic methods, and other matters relating to the Academy that the Board decides to consider.
 

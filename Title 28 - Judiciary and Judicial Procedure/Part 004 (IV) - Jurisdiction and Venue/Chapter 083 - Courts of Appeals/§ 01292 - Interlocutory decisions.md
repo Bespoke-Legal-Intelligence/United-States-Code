@@ -16,7 +16,7 @@
 
 &emsp;(2) of an appeal from a judgment in a civil action for patent infringement which would otherwise be appealable to the United States Court of Appeals for the Federal Circuit and is final except for an accounting.
 
-(d)(1) When the chief judge of the Court of International Trade issues an order under the provisions of section 256(b) of this title, or when any judge of the Court of International Trade, in issuing any other interlocutory order, includes in the order a statement that a controlling question of law is involved with respect to which there is a substantial ground for difference of opinion and that an immediate appeal from that order may materially advance the ultimate termination of the litigation, the United States Court of Appeals for the Federal Circuit may, in its discretion, permit an appeal to be taken from such order, if application is made to that Court within ten days after the entry of such order.
+(d)(1) When the chief judge of the Court of International Trade issues an order under the provisions of section 256(b) of this title, or when any judge of the Court of International Trade, in issuing any other interlocutory order, includes in the order a statement that a controlling question of law is involved with respect to which there is a substantial ground for difference ofopinion and that an immediate appeal from that order may materially advance the ultimate termination of the litigation, the United States Court of Appeals for the Federal Circuit may, in its discretion, permit an appeal to be taken from such order, if application is made to that Court within ten days after the entry of such order.
 
 (2) When the chief judge of the United States Court of Federal Claims issues an order under section 798(b) of this title, or when any judge of the United States Court of Federal Claims, in issuing an interlocutory order, includes in the order a statement that a controlling question of law is involved with respect to which there is a substantial ground for difference of opinion and that an immediate appeal from that order may materially advance the ultimate termination of the litigation, the United States Court of Appeals for the Federal Circuit may, in its discretion, permit an appeal to be taken from such order, if application is made to that Court within ten days after the entry of such order.
 
@@ -94,7 +94,7 @@ Amendment by sections 902(b) and 906(c) of Pub. L. 102–572 effective Oct. 29, 
 
 #### Effective Date of 1988 Amendment
 
-Section 502 of title V of Pub. L. 100–702 provided that: “The amendment made by section 501 \[amending this section\] shall apply to any action commenced in the district court on or after the date of enactment of this title \[Nov. 19, 1988\].”
+Pub. L. 100–702, title V, §502, Nov. 19, 1988, 102 Stat. 4652, provided that: “The amendment made by section 501 \[amending this section\] shall apply to any action commenced in the district court on or after the date of enactment of this title \[Nov. 19, 1988\].”
 
 #### Effective Date of 1982 Amendment
 

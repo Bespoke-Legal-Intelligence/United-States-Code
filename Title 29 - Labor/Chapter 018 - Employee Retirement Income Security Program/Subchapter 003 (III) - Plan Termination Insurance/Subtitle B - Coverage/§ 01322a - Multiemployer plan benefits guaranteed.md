@@ -114,7 +114,7 @@ The corporation shall not guarantee benefits under a multiemployer plan which, u
 
 (1) The corporation may guarantee the payment of such other classes of benefits under multiemployer plans, and establish the terms and conditions under which those other classes of benefits are guaranteed, as it determines to be appropriate.
 
-(2)(A) The corporation shall prescribe regulations to establish a supplemental program to guarantee benefits under multiemployer plans which would be guaranteed under this section but for the limitations in subsection (c) of this section. Such regulations shall be proposed by the corporation no later than the end of the 18th calendar month following September 26, 1980. The regulations shall make coverage under the supplemental program available no later than January 1, 1983. Any election to participate inthe supplemental program shall be on a voluntary basis, and a plan electing such coverage shall continue to pay the premiums required under section 1306(a)(2)(B) of this title to the revolving fund used pursuant to section 1305 of this title in connection with benefits otherwise guaranteed under this section. Any such election shall be irrevocable, except to the extent otherwise provided by regulations prescribed by the corporation.
+(2)(A) The corporation shall prescribe regulations to establish a supplemental program toguarantee benefits under multiemployer plans which would be guaranteed under this section but for the limitations in subsection (c) of this section. Such regulations shall be proposed by the corporation no later than the end of the 18th calendar month following September 26, 1980. The regulations shall make coverage under the supplemental program available no later than January 1, 1983. Any election to participate in the supplemental program shall be on a voluntary basis, and a plan electing such coverage shall continue to pay the premiums required under section 1306(a)(2)(B) of this title to the revolving fund used pursuant to section 1305 of this title in connection with benefits otherwise guaranteed under this section. Any such election shall be irrevocable, except to the extent otherwise provided by regulations prescribed by the corporation.
 
 (B) The regulations prescribed under this paragraph shall provide—
 
@@ -212,7 +212,7 @@ Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherw
 
 Amendment by section 7893(b) of Pub. L. 101–239 effective as if included in the provision of the Single-Employer Pension Plan Amendments Act of 1986, Pub. L. 99–272, title XI, to which such amendment relates, see section 7893(h) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 
-Section 7894(g)(3)(C)(ii) of Pub. L. 101–239 provided that: “The amendment made by clause (i) \[amending this section\] shall take effect as if originally included in section 102 of the Multiemployer Pension Plan Amendments Act of 1980 \[Pub. L. 96–364\].”
+Pub. L. 101–239, title VII, §7894(g)(3)(C)(ii), Dec. 19, 1989, 103 Stat. 2451, provided that: “The amendment made by clause (i) \[amending this section\] shall take effect as if originally included in section 102 of the Multiemployer Pension Plan Amendments Act of 1980 \[Pub. L. 96–364\].”
 
 #### Effective Date of 1986 Amendment
 

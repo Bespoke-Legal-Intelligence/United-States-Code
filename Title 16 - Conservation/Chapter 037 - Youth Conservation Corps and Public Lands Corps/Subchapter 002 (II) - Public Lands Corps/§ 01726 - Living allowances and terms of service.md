@@ -12,7 +12,7 @@ Each participant in the Corps and each resource assistant shall agree to partici
 
 The Secretary may—
 
-&emsp;(1) grant to a member of the Public Lands Corps credit for time served with the PublicLands Corps, which may be used toward future Federal hiring; and
+&emsp;(1) grant to a member of the Public Lands Corps credit for time served with the Public Lands Corps, which may be used toward future Federal hiring; and
 
 &emsp;(2) provide to a former member of the Public Lands Corps noncompetitive hiring status for a period of not more than 120 days after the date on which the member's service with the Public Lands Corps is complete.
 

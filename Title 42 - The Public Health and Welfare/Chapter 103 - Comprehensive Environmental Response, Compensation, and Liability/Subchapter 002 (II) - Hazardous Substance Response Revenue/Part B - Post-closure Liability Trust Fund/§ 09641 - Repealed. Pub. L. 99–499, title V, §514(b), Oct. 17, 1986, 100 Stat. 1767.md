@@ -4,7 +4,7 @@ Section, Pub. L. 96–510, title II, §232, Dec. 11, 1980, 94 Stat. 2804, provid
 
 #### Effective Date of Repeal
 
-Section 514(c) of Pub. L. 99–499 provided that:
+Pub. L. 99–499, title V, §514(c), Oct. 17, 1986, 100 Stat. 1767, provided that:
 
 “(1)
 

@@ -10,7 +10,7 @@ During the 2-year period beginning on September 23, 1994, each Federal banking a
 
 &emsp;&emsp;(B) remove inconsistencies and outmoded and duplicative requirements; and
 
-&emsp;&emsp;(C) with respect to regulations prescribed pursuant to section 1828(<i>o</i>) of this title, consider the impact that such standards have on the availability of credit for small business, residential, and agricultural purposes, and on low- and moderate-income communities;
+&emsp;&emsp;(C) with respect to regulations prescribed pursuant to section 1828(o) of this title, consider the impact that such standards have on the availability of credit for small business, residential, and agricultural purposes, and on low- and moderate-income communities;
 
 &emsp;(2) review the extent to which existing regulations require insured depository institutions and insured credit unions to produce unnecessary internal written policies and eliminate such requirements, where appropriate;
 

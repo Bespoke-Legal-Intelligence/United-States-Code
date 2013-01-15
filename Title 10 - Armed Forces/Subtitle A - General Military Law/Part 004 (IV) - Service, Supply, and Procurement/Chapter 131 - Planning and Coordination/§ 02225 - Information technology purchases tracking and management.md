@@ -68,7 +68,7 @@ Definitions.—In this section:
 
 &emsp;(5) The term “small business concern owned and controlled by women” has the meaning given that term in section 8(d)(3)(D) of the Small Business Act (15 U.S.C. 637(d)(3)(D)).
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title VIII, §812(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–212; amended Pub. L. 108–178, §4(b)(2), Dec. 15, 2003,117 Stat. 2640; Pub. L. 109–364, div. A, title X, §1071(a)(2), Oct. 17, 2006, 120 Stat. 2398; Pub. L. 111–350, §5(b)(6), Jan. 4, 2011, 124 Stat. 3842.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title VIII, §812(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–212; amended Pub. L. 108–178, §4(b)(2), Dec. 15, 2003, 117 Stat. 2640; Pub. L. 109–364, div. A, title X, §1071(a)(2), Oct. 17, 2006, 120 Stat. 2398; Pub. L. 111–350, §5(b)(6), Jan. 4, 2011, 124 Stat. 3842.)
 
 #### Amendments
 
@@ -83,6 +83,34 @@ Subsec. (f)(2). Pub. L. 111–350, §5(b)(6)(B), substituted “section 134 of t
 #### Effective Date of 2003 Amendment
 
 Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L. 108–178, set out as a note under section 5334 of Title 5, Government Organization and Employees.
+
+#### Competition in Connection With Department of Defense Tactical Data Link Systems
+
+Pub. L. 112–239, div. A, title IX, §934, Jan. 2, 2013, 126 Stat. 1885, provided that:
+
+“(a)
+
+Competition in Connection With Tactical Data Link Systems.—Not later than December 1, 2013, the Under Secretary of Defense for Acquisition, Technology, and Logistics shall—
+
+&emsp;“(1) develop an inventory of all tactical data link systems in use and in development in the Department of Defense, including interfaces and waveforms;
+
+&emsp;“(2) conduct an analysis of each data link system contained in the inventory under paragraph (1) to determine whether—
+
+&emsp;&emsp;“(A) the upgrade, new deployment, or replacement of such system should be open to competition; or
+
+&emsp;&emsp;“(B) the data link should be converted to an open architecture, or a different data link standard should be adopted to enable such competition;
+
+&emsp;“(3) for each data link system for which competition is determined advisable under subparagraph (A) or (B) of paragraph (2), develop a plan to achieve such competition, including a plan to address any policy, legal, programmatic, or technical barriers to such competition; and
+
+&emsp;“(4) for each data link system for which competition is determined not advisable under paragraph (2), prepare an explanation for such determination.
+
+“(b)
+
+Earlier Actions.—If the Under Secretary completes any portion of the plan described in subsection (a)(3) before December 1, 2013, the Secretary may commence action on such portion of the plan upon completion of such portion, including publication of such portion of the plan.
+
+“(c)
+
+Report.—At the same time the budget of the President for fiscal year 2015 is submitted to Congress pursuant to section 1105(a) of title 31, United States Code, the Under Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the plans described in paragraph (3) of subsection (a), including any explanation prepared under paragraph (4) of such subsection.”
 
 #### Demonstration and Pilot Projects on Cybersecurity
 
@@ -180,7 +208,7 @@ New Acquisition Process Required.—The Secretary of Defense shall develop and i
 
 “(b)
 
-Report to Congress.—Not later than 270 days after the date of the enactment of this Act \[Oct. 28,2009\], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the new acquisition process developed pursuant to subsection (a). The report required by this subsection shall, at a minimum—
+Report to Congress.—Not later than 270 days after the date of the enactment of this Act \[Oct. 28, 2009\], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the new acquisition process developed pursuant to subsection (a). The report required by this subsection shall, at a minimum—
 
 &emsp;“(1) describe the new acquisition process;
 

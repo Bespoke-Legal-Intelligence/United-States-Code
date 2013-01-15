@@ -18,7 +18,7 @@ Historical and Revision Notes
 
 June 5, 1920, ch. 240 (2d proviso under “Contingencies of the Army”), 41 Stat. 949; Oct. 31, 1951, ch. 654, §2(8), 65 Stat. 707.
 
-The word “may” is substituted for the words “is authorized in his discretion to”. The words “war material” are substituted for the word “mate�AE1riel”. The words “or equipment” are omitted as covered by the word “supplies”. The words “of the Department of the Army” are substituted for the words “pertaining to the Military Establishment”. The words “which are not needed for military purposes” are omitted as covered by the word “surplus”. The words “as or may be found to be” are omitted as surplusage.
+The word “may” is substituted for the words “is authorized in his discretion to”. The words “war material” are substituted for the word “matériel”. The words “or equipment” are omitted as covered by the word “supplies”. The words “of the Department of the Army” are substituted for the words “pertaining to the Military Establishment”. The words “which are not needed for military purposes” are omitted as covered by the word “surplus”. The words “as or may be found to be” are omitted as surplusage.
 
 #### Amendments
 

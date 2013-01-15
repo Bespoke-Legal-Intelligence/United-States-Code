@@ -72,7 +72,7 @@ In this title: <sup>1</sup>
 
 #### (A) In general
 
-&emsp;&emsp;The term “operational cost savings” means a reduction in end-use operational costs through the application of cost-effective technologies and practices or geothermal heat pumps, including a reduction in electricity consumption relative to consumption by the same customer or at the same facility in a given year, as defined in guidelines promulgated by the Administrator pursuant to section 7628(b) of this title, that achieves cost savings sufficient to pay the incremental additional costs of using cost-effective technologies and practices including geothermal heat pumps by not later than the later of the date established under sections 431 through 434,<sup>1</sup> or—
+&emsp;&emsp;The term “operational cost savings” means a reduction in end-use operational costs through the application of cost-effective technologies and practices or geothermal heat pumps, including a reduction in electricity consumption relative to consumption by the same customer or at the same facility in a given year, as defined in guidelines promulgated by the Administrator pursuant to section 7628(b) of this title, that achieves cost savings sufficient to pay the incremental additional costs of using cost-effective technologies and practices including geothermal heat pumps bynot later than the later of the date established under sections 431 through 434,<sup>1</sup> or—
 
 &emsp;&emsp;&emsp;(i) for cost-effective technologies and practices, the date that is 5 years after the date of installation; and
 
@@ -156,7 +156,7 @@ In this title: <sup>1</sup>
 
 #### (15) Life-cycle assessment
 
-&emsp;The term “life-cycle assessment” means a comprehensive system approach for measuring the environmental performance of a product or service over the life of the product or service, beginning at raw materials acquisition and continuing through manufacturing, transportation, installation, use, reuse, and end-of-life waste management.
+&emsp;The term “life-cycle assessment” means a comprehensive system approach for measuringthe environmental performance of a product or service over the life of the product or service, beginning at raw materials acquisition and continuing through manufacturing, transportation, installation, use, reuse, and end-of-life waste management.
 
 #### (16) Life-cycle costing
 
@@ -210,7 +210,7 @@ Sections 431 through 435, referred to in pars. (6)(C) and 9(A), are sections 431
 
 Title V, referred to in par. (6)(C), is title V of Pub. L. 110–140, Dec. 19, 2007, 121 Stat. 1655, which enacted subchapter IV (§17131 et seq.) of this chapter, part D (§8279) of subchapter III of chapter 91 of this title, and sections 1824, 2162a, and 2169 of Title 2, The Congress, amended sections 6325, 6834, 8256, 8258, 8259b, 8287, and 8287c of this title, section 2162 of Title 2, section 2913 of Title 10, Armed Forces, section 3203 of Title 15, Commerce and Trade, and section 2621 of Title 16, Conservation, and enacted provisions set out as a note under section 8259b of this title. For complete classification of title V to the Code, see Tables.
 
-Sections 511 through 525, referred to in par. (6)(C), are sections 511 to 525 of Pub. L. 110–140, which enacted part A (§17131) of subchapter IV of this chapter and section 17141 of this title, amended sections 6834, 8256, 8258,8259b, 8287, and 8287c of this title and section 2913 of Title 10, Armed Forces, and enacted provisions set out as a note under section 8259b of this title.
+Sections 511 through 525, referred to in par. (6)(C), are sections 511 to 525 of Pub. L. 110–140, which enacted part A (§17131) of subchapter IV of this chapter and section 17141 of this title, amended sections 6834, 8256, 8258, 8259b, 8287, and 8287c of this title and section 2913 of Title 10, Armed Forces, and enacted provisions set out as a note under section 8259b of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

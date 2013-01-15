@@ -64,5 +64,5 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Effective Date of 1966 Amendment
 
-Section 4 of Pub. L. 89–737, which provided that the amendments made by this Act \[amending this section and sections 8331 and 8704 of this title\] apply with respect to premium pay payable from and after the first day of the first pay period which begins after the date of enactment of this Act \[Nov. 2, 1966\], was repealed by Pub. L. 90–83, §10(b), Sept. 11, 1967, 81 Stat. 223.
+Pub. L. 89–737, §4, Nov. 2, 1966, 80 Stat. 1164, which provided that the amendments made by this Act \[amending this section and sections 8331 and 8704 of thistitle\] apply with respect to premium pay payable from and after the first day of the first pay period which begins after the date of enactment of this Act \[Nov. 2, 1966\], was repealed by Pub. L. 90–83, §10(b), Sept. 11, 1967, 81 Stat. 223.
 

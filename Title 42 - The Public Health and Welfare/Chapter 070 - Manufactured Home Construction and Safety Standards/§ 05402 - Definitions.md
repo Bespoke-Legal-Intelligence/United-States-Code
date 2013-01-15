@@ -38,7 +38,7 @@ As used in this chapter, the term—
 
 &emsp;(18) “design approval primary inspection agency” means a State agency or private organization that has been approved by the Secretary to evaluate and either approve or disapprove manufactured home designs and quality control procedures;
 
-&emsp;(19) “installation standards” means reasonable specifications for the installation of amanufactured home, at the place of occupancy, to ensure proper siting, the joining of all sections of the home, and the installation of stabilization, support, or anchoring systems;
+&emsp;(19) “installation standards” means reasonable specifications for the installation of a manufactured home, at the place of occupancy, to ensure proper siting, the joining of all sections of the home, and the installation of stabilization, support, or anchoring systems;
 
 &emsp;(20) “monitoring” means the process of periodic review of the primary inspection agencies, by the Secretary or by a State agency under an approved State plan pursuant to section 5422 of this title, in accordance with regulations promulgated under this chapter, giving due consideration to the recommendations of the consensus committee under section 5403(b) of this title, which process shall be for the purpose of ensuring that the primary inspection agencies are discharging their duties under this chapter; and
 

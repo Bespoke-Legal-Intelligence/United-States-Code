@@ -6,7 +6,7 @@ A taxpayer may make a cash deposit with the Secretary which may be used by the S
 
 #### (b) No interest imposed
 
-To the extent that such deposit is used by the Secretary to pay tax, for purposes of section 6601 (relating to interest on underpayments), the tax shall be treated as paid when the deposit is made.
+To the extent that such deposit is used by the Secretary to pay tax, for purposes of section 6601\(relating to interest on underpayments), the tax shall be treated as paid when the deposit is made.
 
 #### (c) Return of deposit
 

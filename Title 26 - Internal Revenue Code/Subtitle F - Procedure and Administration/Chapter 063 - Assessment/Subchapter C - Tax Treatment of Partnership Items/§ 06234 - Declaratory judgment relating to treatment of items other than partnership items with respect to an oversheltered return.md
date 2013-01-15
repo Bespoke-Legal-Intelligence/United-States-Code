@@ -28,7 +28,7 @@ Within 90 days, or 150 days if the notice is addressed to a person outside the U
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), if the taxpayer does not file a petition with the Tax Court within the time prescribed in subsection (c), the determination of the Secretary setforth in the notice of adjustment that was mailed to the taxpayer shall be deemed to be correct.
+&emsp;Except as provided in paragraph (2), if the taxpayer does not file a petition with the Tax Court within the time prescribed in subsection (c), the determination of the Secretary set forth in the notice of adjustment that was mailed to the taxpayer shall be deemed to be correct.
 
 #### (2) Exception
 

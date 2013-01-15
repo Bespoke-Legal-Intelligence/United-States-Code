@@ -96,5 +96,5 @@ Act Apr. 1, 1954, ch. 127, 68 Stat. 47, which established the Air Force Academy,
 
 #### Temporary Buildings and Facilities
 
-Section 4 of act Apr. 1, 1954, ch. 127, 68 Stat. 47, provided that for the purpose of providing temporary facilities and enabling early operation of the Academy, the Secretary of the Air Force was authorized to provide for the erection of the minimum additional number of temporary buildings and the modification of existing structures and facilities at an existing Air Force base and to provide for the proper functioning, equipping, maintaining, and repairing thereof; and to contract with civilian institutions for such operation or instruction as he deemed necessary.
+Act Apr. 1, 1954, ch. 127, §4, 68 Stat. 47, provided that for the purpose of providing temporary facilities and enabling early operation of the Academy, the Secretary of the Air Force was authorized to provide for the erection of the minimum additional number of temporary buildings and the modification of existing structures and facilities at an existing Air Force base and to provide for the proper functioning, equipping, maintaining, and repairing thereof; and to contract with civilian institutions for such operation or instruction as he deemed necessary.
 

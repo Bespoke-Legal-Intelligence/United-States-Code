@@ -6,7 +6,7 @@
 
 (c) The prohibition in subsection (a) shall not apply to any activity of an employee (as defined in section 7322(1) of title 5) or any individual employed in or under the United States Postal Service or the Postal Regulatory Commission, unless that activity is prohibited by section 7323 or 7324 of such title.
 
-(June 25, 1948, ch. 645, 62 Stat. 722; Oct. 31, 1951, ch. 655, §20(b), 65 Stat. 718; Pub. L. 96–187, titleII, §201(a)(4), Jan. 8, 1980, 93 Stat. 1367; Pub. L. 103–94, §4(b), Oct. 6, 1993, 107 Stat. 1005; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242.)
+(June 25, 1948, ch. 645, 62 Stat. 722; Oct. 31, 1951, ch. 655, §20(b), 65 Stat. 718; Pub. L. 96–187, title II, §201(a)(4), Jan. 8, 1980, 93 Stat. 1367; Pub. L. 103–94, §4(b), Oct. 6, 1993, 107 Stat. 1005; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242.)
 
 #### Historical and Revision Notes
 

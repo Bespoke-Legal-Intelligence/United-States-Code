@@ -80,7 +80,7 @@ Pub. L. 106–580, §2, Dec. 29, 2000, 114 Stat. 3088, provided that: “The Con
 
 &emsp;“(7) At a time when a consensus exists to add significant resources to the NIH in coming years, it is appropriate to modernize the structure of the NIH to ensure that research dollars are expended more effectively and efficiently and that the fields of medical science that have contributed the most to the detection, diagnosis, and treatment of disease in recent years receive appropriate emphasis.
 
-&emsp;“(8) The establishment of a National Institute of Biomedical Imaging and Bioengineering at the NIHwould accelerate the development of new technologies with clinical and research applications, improve coordination and efficiency at the NIH and throughout the Federal Government, reduce duplication and waste, lay the foundation for a new medical information age, promote economic development, and provide a structure to train the young researchers who will make the pathbreaking discoveries of the next century.”
+&emsp;“(8) The establishment of a National Institute of Biomedical Imaging and Bioengineering at the NIH would accelerate the development of new technologies with clinical and research applications, improve coordination and efficiency at the NIH and throughout the Federal Government, reduce duplication and waste, lay the foundation for a new medical information age, promote economic development, and provide a structure to train the young researchers who will make the pathbreaking discoveries of the next century.”
 
 #### Establishment of Institute and Advisory Council
 
@@ -98,7 +98,7 @@ Use of Existing Resources.—In providing for the establishment of the National 
 
 “(c)
 
-Construction of Facilities.—None of the provisions of this Act \[enacting this subpart, amending section 281 of this title, and enacting provisions set out as notes under this section and section 201 of this title\] or the amendments made by the Act may be construed as authorizing the construction of facilities, or the acquisition of land, for purposes of the establishment or operation of the National Institute of Biomedical Imaging and Bioengineering.
+Construction of Facilities.—None of the provisions of this Act \[enacting this subpart, amending section 281 of this title, and enacting provisions set out as notes under this section and section 201 of this title\] or the amendments made by the Act may be construed asauthorizing the construction of facilities, or the acquisition of land, for purposes of the establishment or operation of the National Institute of Biomedical Imaging and Bioengineering.
 
 “(d)
 

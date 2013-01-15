@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Administrator for Nuclear Security shall establish a cost and schedule baseline for each nuclear stockpile life extension project of the National Nuclear Security Administration.
+&emsp;&emsp;The Administrator shall establish a cost and schedule baseline for each nuclear stockpile life extension project of the Administration.
 
 #### (B) Per unit cost
 
@@ -46,7 +46,7 @@
 
 #### (b) Notification of costs exceeding baseline
 
-The Administrator or the Secretary, as applicable, shall notify the congressional defense committees not later than 30 days after determining that—
+The Administrator or the Secretary, as applicable, shall notify the congressional defensecommittees not later than 30 days after determining that—
 
 &emsp;(1) the total cost for a project referred to in paragraph (1), (2), or (3) of subsection (a) will exceed an amount that is equal to 125 percent of the cost baseline established under subsection (a) for that project; and
 
@@ -74,5 +74,9 @@ A revised cost and schedule baseline established under subsection (c) shall—
 
 &emsp;(2) be subject to the notification requirements of subsections (b) and (c) in the same manner and to the same extent as a cost and schedule baseline established under subsection (a).
 
-(Pub. L. 107–314, div. D, title XLVII, §4713, as added Pub. L. 111–383, div. C, title XXXI, §3114(a), Jan. 7, 2011, 124 Stat. 4510.)
+(Pub. L. 107–314, div. D, title XLVII, §4713, as added Pub. L. 111–383, div. C, title XXXI, §3114(a), Jan. 7, 2011, 124 Stat. 4510; amended Pub. L. 112–239, div. C, title XXXI, §3131(t), Jan. 2, 2013, 126 Stat. 2184.)
+
+#### Amendments
+
+<b>2013</b>—Subsec. (a)(1)(A). Pub. L. 112–239 struck out “for Nuclear Security” after “Administrator” and struck out “National Nuclear Security” after “life extension project of the”.
 

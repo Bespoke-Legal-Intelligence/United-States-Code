@@ -54,7 +54,7 @@ Members of the Development Committee shall not receive any compensation for thei
 
 &emsp;The technical support provided under paragraph (1) shall include intramural research and development in areas to support the development of the voluntary voting system guidelines under this subpart, including—
 
-&emsp;&emsp;(A) the security of computers, computer networks, and computer data storage used in voting systems, including the computerized list required under section 15483(a) of this title;
+&emsp;&emsp;(A) the security of computers, computer networks, and computer data storage used in voting systems, including the computerizedlist required under section 15483(a) of this title;
 
 &emsp;&emsp;(B) methods to detect and prevent fraud;
 

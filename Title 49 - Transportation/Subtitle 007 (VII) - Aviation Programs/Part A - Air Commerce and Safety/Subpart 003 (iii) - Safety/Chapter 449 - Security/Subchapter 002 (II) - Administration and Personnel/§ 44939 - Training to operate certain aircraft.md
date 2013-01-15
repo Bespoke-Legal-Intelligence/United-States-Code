@@ -112,5 +112,5 @@ Pub. L. 108–176, title VI, §612(d), Dec. 12, 2003, 117 Stat. 2574, provided t
 
 #### International Cooperation
 
-Pub. L. 107–71, title I, §113(c), Nov. 19, 2001, 115 Stat. 622, provided that: “The Secretary of Transportation, in consultation with the Secretary of State, shall work with the International Civil Aviation Organization andthe civil aviation authorities of other countries to improve international aviation security through screening programs for flight instruction candidates.”
+Pub. L. 107–71, title I, §113(c), Nov. 19, 2001, 115 Stat. 622, provided that: “The Secretary of Transportation, in consultation with the Secretary of State, shall work with the International Civil Aviation Organization and the civil aviation authorities of other countries to improve international aviation security through screening programs for flight instruction candidates.”
 

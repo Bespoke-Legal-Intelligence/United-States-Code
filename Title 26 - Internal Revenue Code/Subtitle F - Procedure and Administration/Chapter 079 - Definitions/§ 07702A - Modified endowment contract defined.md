@@ -144,13 +144,13 @@ Pub. L. 106–554, §1(a)(7) \[title III, §318(a)(3)\], Dec. 21, 2000, 114 Stat
 
 #### Effective Date of 1989 Amendment
 
-Section 7647(b) of Pub. L. 101–239 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to contracts entered into on or after September 14, 1989.”
+Pub. L. 101–239, title VII, §7647(b), Dec. 19, 1989, 103 Stat. 2383, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to contracts entered into on or after September 14, 1989.”
 
 Amendment by section 7815(a)(1), (4) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
 #### Effective Date
 
-Section 5012(e) of Pub. L. 100–647, as amended by Pub. L. 101–239, title VII, §7815(a)(2), Dec. 19, 1989, 103 Stat. 2414, provided that:
+Pub. L. 100–647, title V, §5012(e), Nov. 10, 1988, 102 Stat. 3665, as amended by Pub. L. 101–239, title VII, §7815(a)(2), Dec. 19, 1989, 103 Stat. 2414, provided that:
 
 “(1)
 

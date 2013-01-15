@@ -38,7 +38,7 @@
 
 #### References in Text
 
-This chapter, referred to in subsec. (a)(2), (3)(C), was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
+This chapter, referred to in subsec. (a)(2), (3)(C), was in the original “this title” meaning title I of Pub. L.105–220, Aug. 7, 1998, 112 Stat. 939, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
 
 #### Prior Provisions
 
@@ -86,7 +86,7 @@ Conditions.—Under the pilot program, each grant to a State shall be subject to
 
 &emsp;“(1) The State shall repay to the Secretary, on such date as shall be determined by the Secretary, any amount received under the pilot program that is not used for the purposes described in subsection (c).
 
-&emsp;“(2) The State shall submit to the Secretary, at such times and containing such information as theSecretary shall require, reports on the use of grant funds.
+&emsp;“(2) The State shall submit to the Secretary, at such times and containing such information as the Secretary shall require, reports on the use of grant funds.
 
 “(e)
 
@@ -148,7 +148,7 @@ Definitions.—For purposes of this section:
 
 “(j)
 
-Appropriations.—There is authorized to be appropriated to the Secretary $1,500,000 for each of fiscal years 2012 through 2014, for the purpose of carrying out the pilot program under this section.”
+Appropriations.—There is authorized to be appropriated to the Secretary $1,500,000 for each of fiscalyears 2012 through 2014, for the purpose of carrying out the pilot program under this section.”
 
 #### Coordination of Information and Assistance
 
@@ -358,7 +358,7 @@ Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, ti
 
 #### “payments to employers; overpayment
 
-“Sec. 8. (a)(1) Except as provided in paragraph (3) and subsection (b) and subject to the provisions of section9, the Administrator shall make quarterly payments to an employer of a veteran participating in an approved program of job training under this Act. Subject to section 5(c) and paragraph (2), the amount paid to an employer on behalf of a veteran for any period of time shall be 50 percent of the product of (A) the starting hourly rate of wages paid to the veteran by the employer (without regard to overtime or premium pay), and (B) the number of hours worked by the veteran during that period.
+“Sec. 8. (a)(1) Except as provided in paragraph (3) and subsection (b) and subject to the provisions of section 9, the Administrator shall make quarterly payments to an employer of a veteran participating in an approved program of job training under this Act. Subject to section 5(c) and paragraph (2), the amount paid to an employer on behalf of a veteran for any period of time shall be 50 percent of the product of (A) the starting hourly rate of wages paid to the veteran by the employer (without regard to overtime or premium pay), and (B) the number of hours worked by the veteran during that period.
 
 “(2) The total amount that may be paid to an employer on behalf of a veteran participating in a program of job training under this Act is $10,000.
 
@@ -388,7 +388,7 @@ Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, ti
 
 #### “entry into program of job training
 
-“Sec. 9. Notwithstanding any other provision of this Act, the Administrator may withhold or deny approval of a veteran's entry into an approved program of job training if the Administrator determines that funds are not available to make payments under this Act on behalf of the veteran to the employer offering that program. Before the entry of a veteran into an approved program of job training of an employer for purposes of assistance under this Act, the employer shall notify the Administrator of the employer's intention to employ that veteran. The veteran may begin such program of job training with the employer two weeks after the notice is transmitted to the Administrator unless within that time the employer has received notice from the Administrator that approval of the veteran's entry into that program of job training must be withheld or denied in accordance with this section.
+“Sec. 9. Notwithstanding any other provision of this Act, the Administrator may withhold or deny approvalof a veteran's entry into an approved program of job training if the Administrator determines that funds are not available to make payments under this Act on behalf of the veteran to the employer offering that program. Before the entry of a veteran into an approved program of job training of an employer for purposes of assistance under this Act, the employer shall notify the Administrator of the employer's intention to employ that veteran. The veteran may begin such program of job training with the employer two weeks after the notice is transmitted to the Administrator unless within that time the employer has received notice from the Administrator that approval of the veteran's entry into that program of job training must be withheld or denied in accordance with this section.
 
 #### “provision of training through educational institutions
 
@@ -410,7 +410,7 @@ Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, ti
 
 #### “inspection of records; investigations
 
-“Sec. 12. (a) The records and accounts of employers pertaining to veterans on behalf of whom assistance has been paid under this Act, as well as other recordsthat the Administrator determines to be necessary to ascertain compliance with the requirements established under this Act, shall be available at reasonable times for examination by authorized representatives of the Federal Government.
+“Sec. 12. (a) The records and accounts of employers pertaining to veterans on behalf of whom assistance has been paid under this Act, as well as other records that the Administrator determines to be necessary to ascertain compliance with the requirements established under this Act, shall be available at reasonable times for examination by authorized representatives of the Federal Government.
 
 “(b) The Administrator may monitor employers and veterans participating in programs of job training under this Act to determine compliance with the requirements established under this Act.
 
@@ -490,7 +490,7 @@ Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, ti
 
 #### “authorization of appropriations
 
-“Sec. 16. (a) There is authorized to be appropriated to the Veterans’ Administration (1) $150,000,000 for each of fiscal years 1984 and 1985, (2) a total of $65,000,000 for fiscal years 1986, and 1987, and (3) $60,000,000 for each of the fiscal years 1988 and 1989 for the purpose of making payments to employers under this Act and for the purpose of section 18 of this Act. Amounts appropriated pursuant to this section shall remain available until September 30, 1991.
+“Sec. 16. (a) There is authorized to be appropriated to the Veterans’ Administration (1) $150,000,000 for each of fiscal years 1984 and 1985, (2) a total of $65,000,000 for fiscal years 1986, and 1987, and (3) $60,000,000 for each of the fiscal years 1988 and 1989 for the purpose of makingpayments to employers under this Act and for the purpose of section 18 of this Act. Amounts appropriated pursuant to this section shall remain available until September 30, 1991.
 
 “(b) Notwithstanding any other provision of law, any funds appropriated under subsection (a) for any fiscal year which are obligated for the purpose of making payments under section 8 on behalf of a veteran (including funds so obligated which previously had been obligated for such purpose on behalf of another veteran and were thereafter deobligated) and are later deobligated shall immediately upon deobligation become available to the Administrator for obligation for such purpose. The further obligation of such funds by the Administrator for such purpose shall not be delayed, directly or indirectly, in any manner by any officer or employee in the executive branch.
 

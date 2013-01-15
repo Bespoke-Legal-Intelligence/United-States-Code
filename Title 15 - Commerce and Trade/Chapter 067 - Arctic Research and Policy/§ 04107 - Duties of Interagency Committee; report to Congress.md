@@ -20,7 +20,7 @@
 
 &emsp;(5) provide the necessary coordination, data, and assistance for the preparation of a single integrated, coherent, and multiagency budget request for Arctic research as provided for in section 4109 of this title;
 
-&emsp;(6) facilitate cooperation between the Federal Government and State and local governments in Arctic research, and recommend theundertaking of neglected areas of research in accordance with the findings and purposes of this chapter;
+&emsp;(6) facilitate cooperation between the Federal Government and State and local governments in Arctic research, and recommend the undertaking of neglected areas of research in accordance with the findings and purposes of this chapter;
 
 &emsp;(7) coordinate and promote cooperative Arctic scientific research programs with other nations, subject to the foreign policy guidance of the Secretary of State;
 

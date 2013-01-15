@@ -40,7 +40,7 @@ The duties of the Board shall be the following:
 
 #### (1) Voting members
 
-&emsp;The Board shall have 15 voting members appointed by the President, by and with the advice and consent of the Senate.
+&emsp;The Board shall have 15 voting members appointed by the President.
 
 #### (2) Advice
 
@@ -114,7 +114,7 @@ The duties of the Board shall be the following:
 
 #### (B) Additional staff
 
-&emsp;&emsp;The Board shall utilize such additional staff as may be appointed or assigned by the Director, in consultation with the Chair and the Executive Director.
+&emsp;&emsp;The Board shall utilize such additional staff as may be appointed or assigned by theDirector, in consultation with the Chair and the Executive Director.
 
 #### (C) Detail of personnel
 
@@ -154,7 +154,7 @@ The duties of the Board shall be the following:
 
 &emsp;&emsp;(B) ex officio members of the Board; and
 
-&emsp;&emsp;(C) policymakers and expert practitioners with knowledge of, and experience using, the results of research, evaluation, and statistics who are not members of the Board, but who may have been recommended by the Commissioner of the appropriate NationalEducation Center and approved by the Board.
+&emsp;&emsp;(C) policymakers and expert practitioners with knowledge of, and experience using, the results of research, evaluation, and statistics who are not members of the Board, but who may have been recommended by the Commissioner of the appropriate National Education Center and approved by the Board.
 
 #### (3) Duties
 
@@ -176,7 +176,7 @@ The Board shall submit to the Director, the Secretary, and the appropriate congr
 
 The Board shall submit to the Director, the Secretary, and the appropriate congressional committees a report that includes any recommendations regarding any actions that may be taken to enhance the ability of the Institute to carry out its priorities and mission. The Board shall submit an interim report not later than 3 years after November 5, 2002, and a final report not later than 5 years after such date.
 
-(Pub. L. 107–279, title I, §116, Nov. 5, 2002, 116 Stat. 1948; Pub. L. 108–446, title II, §§201(b)(2)(D), 202, Dec. 3, 2004, 118 Stat. 2802; Pub. L. 110–154, §1(d), Dec. 21, 2007, 121 Stat. 1828.)
+(Pub. L. 107–279, title I, §116, Nov. 5, 2002, 116 Stat. 1948; Pub. L. 108–446, title II, §§201(b)(2)(D), 202, Dec. 3, 2004, 118 Stat. 2802; Pub. L. 110–154, §1(d), Dec. 21, 2007, 121 Stat. 1828; Pub. L. 112–166, §2(cc), Aug. 10, 2012, 126 Stat. 1290.)
 
 #### References in Text
 
@@ -186,6 +186,8 @@ This Act, referred to in subsec. (c)(8)(C), means Pub. L. 107–279, Nov. 5, 200
 
 #### Amendments
 
+<b>2012</b>—Subsec. (c)(1). Pub. L. 112–166 struck out “, by and with the advice and consent of the Senate” before period at end.
+
 <b>2004</b>—Subsec. (c)(4)(A)(ii). Pub. L. 108–446, §201(b)(2)(D), inserted “special education experts,” after “early childhood experts,”.
 
 Subsec. (c)(9). Pub. L. 108–446, §202, substituted “Meetings of the Board are subject to section 552b of title 5 (commonly referred to as the Government in the Sunshine Act).” for “Meetings of the Board shall be open to the public.”
@@ -193,4 +195,8 @@ Subsec. (c)(9). Pub. L. 108–446, §202, substituted “Meetings of the Board a
 #### Change of Name
 
 “Eunice Kennedy Shriver National Institute of Child Health and Human Development” substituted for “National Institute of Child Health and Human Development” in subsec. (c)(3)(C), on authority of section 1(d) of Pub. L. 110–154, set out as a note under section 285g of Title 42, The Public Health and Welfare.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under section 113 of Title 6, Domestic Security.
 

@@ -36,7 +36,7 @@ During any period in which there is in effect an agreement entered into pursuant
 
 #### (1) In general
 
-&emsp;Subsection (a) shall not apply to wages paid by a qualified employer with respect to employment during the period beginning on the day after the date of the enactment of this subsection and ending on December 31, 2010, ofany qualified individual for services performed—
+&emsp;Subsection (a) shall not apply to wages paid by a qualified employer with respect to employment during the period beginning on the day after the date of the enactment of this subsection and ending on December 31, 2010, of any qualified individual for services performed—
 
 &emsp;&emsp;(A) in a trade or business of such qualified employer, or
 
@@ -112,7 +112,7 @@ During any period in which there is in effect an agreement entered into pursuant
 
 &emsp;&emsp;(B) the term “qualified veteran” has meaning <sup>1</sup> given such term by section 51(d)(3).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 416; Sept. 1, 1954, ch. 1206, title II, §208(c), 68 Stat. 1094; Aug. 1, 1956. ch. 836, title II, §202(c), 70 Stat. 845; Pub. L. 85–840, title IV, §401(c), Aug. 28, 1958, 72 Stat. 1042; Pub. L. 87–64, title II, §201(c), June 30, 1961, 75 Stat. 141; Pub. L. 89–97, title I, §111(c)(6), title III, §321(c), July 30, 1965, 79 Stat. 343, 396; Pub. L. 90–248, title I, §109(a)(3), (b)(3), Jan. 2, 1968, 81 Stat. 836, 837; Pub. L. 92–5, title II, §204(a)(2), Mar. 17, 1971, 85 Stat. 11; Pub. L. 92–336, title II, §204(a)(3), (b)(3), July 1, 1972, 86 Stat. 421, 422; Pub. L. 92–603, title I, §135(a)(3), (b)(3), Oct. 30,1972, 86 Stat. 1363, 1364; Pub. L. 93–233, §6(a)(2), (b)(3), Dec. 31, 1973, 87 Stat. 954, 955; Pub. L. 94–455, title XIX, §1903(a)(1), Oct. 4, 1976, 90 Stat. 1806; Pub. L. 95–216, title I, §101(a)(2), (b)(2), title III, §§315(b), 317(b)(2), Dec. 20, 1977, 91 Stat. 1511, 1512, 1537, 1540; Pub. L. 98–21, title I, §123(a)(2), Apr. 20, 1983, 97 Stat. 88; Pub. L. 100–203, title IX, §9006(b)(1), Dec. 22, 1987, 101 Stat. 1330–289; Pub. L. 100–647, title VIII, §8016(a)(5), Nov. 10, 1988, 102 Stat. 3793; Pub. L. 108–203, title IV, §415, Mar. 2, 2004, 118 Stat. 530; Pub. L. 111–147, title I, §101(a), Mar. 18, 2010, 124 Stat. 72; Pub. L. 112–56, title II, §261(e)(2), Nov. 21, 2011, 125 Stat. 730.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 416; Sept. 1, 1954, ch. 1206, title II, §208(c), 68 Stat. 1094; Aug. 1, 1956. ch. 836, title II, §202(c), 70 Stat. 845; Pub. L. 85–840, title IV, §401(c), Aug. 28, 1958, 72 Stat. 1042; Pub. L. 87–64, title II, §201(c), June 30, 1961, 75 Stat. 141; Pub. L. 89–97, title I, §111(c)(6), title III, §321(c), July 30, 1965, 79 Stat. 343, 396; Pub. L. 90–248, title I, §109(a)(3), (b)(3), Jan. 2, 1968, 81 Stat. 836, 837; Pub. L. 92–5, title II, §204(a)(2), Mar. 17, 1971, 85 Stat. 11; Pub. L. 92–336, title II, §204(a)(3), (b)(3), July 1, 1972, 86 Stat. 421, 422; Pub. L. 92–603, title I, §135(a)(3), (b)(3), Oct. 30, 1972, 86 Stat. 1363, 1364; Pub. L. 93–233, §6(a)(2), (b)(3), Dec. 31, 1973, 87 Stat. 954, 955; Pub. L.94–455, title XIX, §1903(a)(1), Oct. 4, 1976, 90 Stat. 1806; Pub. L. 95–216, title I, §101(a)(2), (b)(2), title III, §§315(b), 317(b)(2), Dec. 20, 1977, 91 Stat. 1511, 1512, 1537, 1540; Pub. L. 98–21, title I, §123(a)(2), Apr. 20, 1983, 97 Stat. 88; Pub. L. 100–203, title IX, §9006(b)(1), Dec. 22, 1987, 101 Stat. 1330–289; Pub. L. 100–647, title VIII, §8016(a)(5), Nov. 10, 1988, 102 Stat. 3793; Pub. L. 108–203, title IV, §415, Mar. 2, 2004, 118 Stat. 530; Pub. L. 111–147, title I, §101(a), Mar. 18, 2010, 124 Stat. 72; Pub. L. 112–56, title II, §261(e)(2), Nov. 21, 2011, 125 Stat. 730.)
 
 #### References in Text
 
@@ -174,7 +174,7 @@ Subsec. (a)(6). Pub. L. 92–603, §135(a)(3)(B), added par. (6).
 
 Subsec. (b)(2). Pub. L. 92–603, §135(b)(3), increased rate to 1.0 percent from 0.9 percent.
 
-Subsec. (b)(2) to (5). Pub. L. 92–336, §204(b)(3), inserted references to 1976 and 1977 and substituted “0.9” for “0.65” in par. (2), substituted references for the calendar years 1978 through 1985 for references to the calendar years 1976 through 1979 and substituted “1.0” for “0.70” in par. (3), substituted references for the calendar years 1986 through 1992 for references to the calendars 1980 through 1986 and substituted “1.1” for “0.80” in par. (4), and substituted “1992” and “1986” and “1.2” for “0.9” in par. (5).
+Subsec. (b)(2) to (5). Pub. L. 92–336, §204(b)(3), inserted references to 1976 and 1977 and substituted “0.9” for “0.65” in par. (2), substituted references for the calendar years 1978 through 1985 for references to the calendar years 1976 through 1979 and substituted “1.0” for “0.70” in par. (3), substituted references for the calendar years 1986 through 1992 for references to the calendars 1980 through 1986 and substituted “1.1” for “0.80”in par. (4), and substituted “1992” and “1986” and “1.2” for “0.9” in par. (5).
 
 Subsec. (b)(3). Pub. L. 92–603, §135(b)(3), substituted “and 1980, the rate shall be 1.25 percent” for “1980, 1981, 1982, 1983, 1984, and 1985, the rate shall be 1.0 percent”.
 
@@ -212,7 +212,7 @@ Amendment by Pub. L. 111–147 applicable to wages paid after Mar. 18, 2010, see
 
 #### Effective Date of 1988 Amendment
 
-Section 8016(b) of Pub. L. 100–647 provided that:
+Pub. L. 100–647, title VIII, §8016(b), Nov. 10, 1988, 102 Stat. 3793, provided that:
 
 “(1) Except as provided in paragraph (2), the amendments made by this section \[amending this section, sections 3121 and 3306 of this title, and sections 405, 410, and 411 of Title 42, The Public Health and Welfare\] shall be effective on the date of the enactment of this Act \[Nov. 10, 1988\].
 
@@ -220,7 +220,7 @@ Section 8016(b) of Pub. L. 100–647 provided that:
 
 #### Effective Date of 1987 Amendment
 
-Section 9006(c) of Pub. L. 100–203 provided that: “The amendments made by this section \[amending this section and section 3121 of this title\] shall apply with respect to tips received (and wages paid) on and after January 1, 1988.”
+Pub. L. 100–203, title IX, §9006(c), Dec. 22, 1987, 101 Stat. 1330–289, provided that: “The amendments made by this section \[amending this section and section 3121 of this title\] shall apply with respect to tips received (and wages paid) on and after January 1, 1988.”
 
 #### Effective Date of 1983 Amendment
 
@@ -230,7 +230,7 @@ Amendment by Pub. L. 98–21 applicable to remuneration paid after Dec. 31, 1983
 
 Amendment by section 101(a)(2), (b)(2) of Pub. L. 95–216 applicable with respect to remuneration paid or received, and taxable years beginning, after 1977, see section 104 of Pub. L. 95–216, set out as a note under section 1401 of this title.
 
-Section 315(c) of Pub. L. 95–216 provided that: “The amendments made by this section \[amending this section and section 3121 of this title\] shall apply with respect to wages paid with respect to employment performed in months after December 1977.”
+Pub. L. 95–216, title III, §315(c), Dec. 20, 1977, 91 Stat. 1537, provided that: “The amendments made by this section \[amending this section and section 3121 of this title\] shall apply with respect to wages paid with respect to employment performed in months after December 1977.”
 
 #### Effective Date of 1976 Amendment
 

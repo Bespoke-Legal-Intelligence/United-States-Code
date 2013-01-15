@@ -14,13 +14,13 @@
 
 &emsp;(C) considering appeals from such recommendations, nominations, removals, and designations (or any failure or refusal by a nominating authority to nominate or designate);
 
-&emsp;(D) nominating historic properties for inclusion in the World Heritage List in accordance with the terms of the Convention concerning the Protection of the World Cultural and Natural Heritage;
+&emsp;(D) nominating historic properties for inclusion in the World Heritage List in accordance with the terms of the Convention concerningthe Protection of the World Cultural and Natural Heritage;
 
 &emsp;(E) making determinations of eligibility of properties for inclusion on the National Register; and
 
 &emsp;(F) notifying the owner of a property, any appropriate local governments, and the general public, when the property is being considered for inclusion on the National Register, for designation as a National Historic Landmark or for nomination to the World Heritage List.
 
-(3) Subject to the requirements of paragraph (6), any State which is carrying out a program approved under subsection (b) of this section, shall nominate to the Secretary properties which meet the criteria promulgated under subsection (a) of this section for inclusion on the National Register. Subject to paragraph (6), any property nominated under this paragraph or under section 470h–2(a)(2) of this title shall beincluded on the National Register on the date forty-five days after receipt by the Secretary of the nomination and the necessary documentation, unless the Secretary disapproves such nomination within such forty-five day period or unless an appeal is filed under paragraph (5).
+(3) Subject to the requirements of paragraph (6), any State which is carrying out a program approved under subsection (b) of this section, shall nominate to the Secretary properties which meet the criteria promulgated under subsection (a) of this section for inclusion on the National Register. Subject to paragraph (6), any property nominated under this paragraph or under section 470h–2(a)(2) of this title shall be included on the National Register on the date forty-five days after receipt by the Secretary of the nomination and the necessary documentation, unless the Secretary disapproves such nomination within such forty-five day period or unless an appeal is filed under paragraph (5).
 
 (4) Subject to the requirements of paragraph (6) the Secretary may accept a nomination directly from any person or local government for inclusion of a property on the National Register only if such property is located in a State where there is no program approved under subsection (b) of this section. The Secretary may include on the National Register any property for which such a nomination is made if he determines that such property is eligible in accordance with the regulations promulgated under paragraph (2). Such determination shall be made within ninety days from the date of the nomination unless the nomination is appealed under paragraph (5).
 
@@ -222,7 +222,7 @@
 
 (2) The Secretary may administer grants to the National Trust for Historic Preservation in the United States, chartered by sections 468 to 468d of this title consistent with the purposes of its charter and this subchapter.
 
-(3)(A) In addition to the programs under paragraphs (1) and (2), the Secretary shall administer a program of direct grants for the preservation of properties included on the National Register. Funds to support such program annually shall not exceed 10 per centum of the amount appropriated annually for the fund established under section 470h of this title. These grants may be made by the Secretary, in consultationwith the appropriate State Historic Preservation Officer—
+(3)(A) In addition to the programs under paragraphs (1) and (2), the Secretary shall administer a program of direct grants for the preservation of properties included on the National Register. Funds to support such program annually shall not exceed 10 per centum of the amount appropriated annually for the fund established under section 470h of this title. These grants may be made by the Secretary, in consultation with the appropriate State Historic Preservation Officer—
 
 &emsp;(i) for the preservation of National Historic Landmarks which are threatened with demolition or impairment and for the preservation of historic properties of World Heritage significance,
 
@@ -442,7 +442,7 @@ Partial term.—A member appointed to fill a vacancy on the Commission shall ser
 
 &emsp;&emsp;&emsp;“(iii)
 
-Continuation of membership.—If a member of the Commission was appointed to the Commission as Mayor of the city of St. Augustine or as an employee of the National Park Service or the State University System of Florida, and ceases to hold such position, that member may continue to serve on the Commission for not longer than the 30-day period beginning on the date on which that member ceases to hold the position.
+Continuation of membership.—If a member of the Commission was appointed to the Commission as Mayor of the city of St. Augustine or as an employee of the National Park Service orthe State University System of Florida, and ceases to hold such position, that member may continue to serve on the Commission for not longer than the 30-day period beginning on the date on which that member ceases to hold the position.
 
 &emsp;“(3)
 
@@ -614,7 +614,7 @@ Procurement of temporary and intermittent services.—The Chairperson of the Com
 
 &emsp;“(7)
 
-Volunteer and uncompensated services.—Notwithstanding section 1342 of title 31, United States Code, the Commission may accept and use such voluntary and uncompensated services as the Commission determines to be necessary.
+Volunteer and uncompensated services.—Notwithstanding section 1342 of title 31, UnitedStates Code, the Commission may accept and use such voluntary and uncompensated services as the Commission determines to be necessary.
 
 &emsp;“(8)
 
@@ -776,7 +776,7 @@ Chairperson and Vice Chairperson.—The Commission shall select a Chairperson an
 
 #### “SEC. 4. DUTIES OF THE COMMISSION.
 
-“Not later than 1 year after the initial meeting of the Commission, the Commission, in cooperation with the Secretary of the Interior and other appropriate Federal, State, and local public and private entities, shall prepare and submit to the Secretary of the Interior a report that—
+“Not later than 1 year after the initial meeting of the Commission, the Commission, in cooperation with the Secretary of the Interior and other appropriate Federal, State, and local public and private entities, shallprepare and submit to the Secretary of the Interior a report that—
 
 &emsp;“(1) identifies sites of historical significance to the women's movement; and
 
@@ -878,7 +878,7 @@ Funding Provision.—
 
 &emsp;“(1)
 
-In general.—Under section 108 of the National Historic Preservation Act \[16 U.S.C. 470h\], $29,000,000 shall be made available to carry out the purposes of this section. Of amounts made available pursuant to this section, $5,000,000 shall be available for grants to Fisk University, $2,500,000 shall be available for grants to Knoxville College, $2,000,000 shall be available for grants to Miles College, Alabama, $1,500,000 shall be available for grants to Talladega College, Alabama, $1,550,000 shall be available for grants to Selma University, Alabama, $250,000 shall be available for grants to Stillman College, Alabama, $200,000 shall be available for grants to Concordia College, Alabama, $2,900,000 shall be available for grants to Allen University, South Carolina, $1,000,000 shall be available for grants to Claflin College, South Carolina, $2,000,000 shall be available for grants to Voorhees College, South Carolina, $1,000,000 shall be available for grants to Rust College, Mississippi, and $3,000,000 shall be available for grants to Tougaloo College, Mississippi.
+In general.—Under section 108 of the National Historic Preservation Act \[16 U.S.C. 470h\], $29,000,000 shall be made available to carry out the purposes of this section. Of amounts made available pursuant to this section, $5,000,000 shall be available for grants to Fisk University, $2,500,000 shall be available forgrants to Knoxville College, $2,000,000 shall be available for grants to Miles College, Alabama, $1,500,000 shall be available for grants to Talladega College, Alabama, $1,550,000 shall be available for grants to Selma University, Alabama, $250,000 shall be available for grants to Stillman College, Alabama, $200,000 shall be available for grants to Concordia College, Alabama, $2,900,000 shall be available for grants to Allen University, South Carolina, $1,000,000 shall be available for grants to Claflin College, South Carolina, $2,000,000 shall be available for grants to Voorhees College, South Carolina, $1,000,000 shall be available for grants to Rust College, Mississippi, and $3,000,000 shall be available for grants to Tougaloo College, Mississippi.
 
 &emsp;“(2)
 
@@ -902,7 +902,7 @@ Historic building and structures.—The term ‘historic building and structures
 
 #### Recommendations of Historic Properties for Preservation
 
-Section 4021 of Pub. L. 102–575 provided that: “The Secretary of the Interior, in consultation with the Advisory Council, shall seek to ensure that historic properties preserved under the National Historic Preservation Act \[16 U.S.C. 470 et seq.\] fully reflect the historical experience of this nation.”
+Pub. L. 102–575, title XL, §4021, Oct. 30, 1992, 106 Stat. 4765, provided that: “The Secretary of the Interior, in consultation with the Advisory Council, shall seek to ensure that historic properties preserved under the National Historic Preservation Act \[16 U.S.C. 470 et seq.\] fully reflect the historical experience of this nation.”
 
 #### Secretarial Report
 

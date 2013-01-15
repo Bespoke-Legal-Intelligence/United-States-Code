@@ -26,7 +26,7 @@ Ex. Ord. No. 13416, Dec. 5, 2006, 71 F.R. 71033, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and to strengthen the security of the Nation's surface transportation systems and thereby enhance the protection of the people, property, and territory of the United States of America against terrorist attacks, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. The security of our Nation's surface transportation systems is a national priority, vital to our economy, and essential to the security of our Nation. Federal, State, local, and tribal governments, the private sector, and the public share responsibility for the security of surface transportation. It is the policy of the United States to protect the people, property, and territory of the United States by facilitating the implementation of a comprehensive, coordinated, andefficient security program to protect surface transportation systems within and adjacent to the United States against terrorist attacks.
+Section 1. <i>Policy</i>. The security of our Nation's surface transportation systems is a national priority, vital to our economy, and essential to the security of our Nation. Federal, State, local, and tribal governments, the private sector, and the public share responsibility for the security of surface transportation. It is the policy of the United States to protect the people, property, and territory of the United States by facilitating the implementation of a comprehensive, coordinated, and efficient security program to protect surface transportation systems within and adjacent to the United States against terrorist attacks.
 
 Sec. 2. <i>Definitions</i>. For purposes of this order:
 

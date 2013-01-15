@@ -40,5 +40,5 @@ Section 1619, Pub. L. 92–318, title VII, §720, June 23, 1972, 86 Stat. 369; P
 
 #### Effective Date of Repeal
 
-Section 601(b)(2) of Pub. L. 95–561 provided that the repeal is effective Sept. 30, 1979.
+Pub. L. 95–561, title VI, §601(b)(2), Nov. 1, 1978, 92 Stat. 2268, provided that the repeal is effective Sept. 30, 1979.
 

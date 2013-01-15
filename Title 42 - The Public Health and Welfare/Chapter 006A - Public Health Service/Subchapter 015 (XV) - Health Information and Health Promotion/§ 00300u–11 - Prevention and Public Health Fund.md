@@ -10,25 +10,23 @@ There are hereby authorized to be appropriated, and appropriated, to the Fund, o
 
 &emsp;(1) for fiscal year 2010, $500,000,000;
 
-&emsp;(2) for fiscal year 2011, $750,000,000;
+&emsp;(2) for each of fiscal years 2012 through 2017, $1,000,000,000;
 
-&emsp;(3) for fiscal year 2012, $1,000,000,000;
+&emsp;(3) for each of fiscal years 2018 and 2019, $1,250,000,000;
 
-&emsp;(4) for fiscal year 2013, $1,250,000,000;
+&emsp;(4) for each of fiscal years 2020 and 2021, $1,500,000,000; and
 
-&emsp;(5) for fiscal year 2014, $1,500,000,000; and
-
-&emsp;(6) for fiscal year 2015, and each fiscal year thereafter, $2,000,000,000.
+&emsp;(5) for fiscal year 2022, and each fiscal year thereafter, $2,000,000,000.
 
 #### (c) Use of Fund
 
-The Secretary shall transfer amounts in the Fund to accounts within the Department of Health and Human Services to increase funding, over the fiscal year 2008 level, for programs authorized by the Public Health Service Act \[42 U.S.C. 201 et seq.\], for prevention, wellness, andpublic health activities including prevention research, health screenings, and initiatives, such as the Community Transformation grant program, the Education and Outreach Campaign Regarding Preventive Benefits, and immunization programs.
+The Secretary shall transfer amounts in the Fund to accounts within the Department of Health and Human Services to increase funding, over the fiscal year 2008 level, for programs authorized by the Public Health Service Act \[42 U.S.C. 201 et seq.\], for prevention, wellness, and public health activities including prevention research, health screenings, and initiatives, such as the Community Transformation grant program, the Education and Outreach Campaign Regarding Preventive Benefits, and immunization programs.
 
 #### (d) Transfer authority
 
 The Committee on Appropriations of the Senate and the Committee on Appropriations of the House of Representatives may provide for the transfer of funds in the Fund to eligible activities under this section, subject to subsection (c).
 
-(Pub. L. 111–148, title IV, §4002, title X, §10401(b), Mar. 23, 2010, 124 Stat. 541, 974.)
+(Pub. L. 111–148, title IV, §4002, title X, §10401(b), Mar. 23, 2010, 124 Stat. 541, 974; Pub. L. 112–96, title III, §3205, Feb. 22, 2012, 126 Stat. 194.)
 
 #### References in Text
 
@@ -39,6 +37,8 @@ The Public Health Service Act, referred to in subsec. (c), is act July 1, 1944, 
 Section was enacted as part of the Patient Protection and Affordable Care Act, and not as part of the Public Health Service Act which comprises this chapter.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (b)(2) to (6). Pub. L. 112–96 added pars. (2) to (5) and struck out former pars. (2) to (6) which appropriated amounts for fiscal years 2011 through 2015 and each fiscal year thereafter.
 
 <b>2010</b>—Subsec. (c). Pub. L. 111–148, §10401(b), substituted “research, health screenings, and initiatives” for “research and health screenings” and “Regarding Preventive” for “for Preventive”.
 

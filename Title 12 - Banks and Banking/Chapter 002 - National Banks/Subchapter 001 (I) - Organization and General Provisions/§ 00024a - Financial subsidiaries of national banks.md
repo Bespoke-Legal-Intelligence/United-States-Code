@@ -32,19 +32,15 @@
 
 &emsp;&emsp;&emsp;(ii) $50,000,000,000;
 
-&emsp;&emsp;(E) except as provided in paragraph (4), the national bank meets any applicable rating or other requirement set forth in paragraph (3); and
+&emsp;&emsp;(E) except as provided in paragraph (4), the national bank meets standards of credit-worthiness established by the Comptroller of the Currency or other requirement set forth in paragraph (3); and
 
 &emsp;&emsp;(F) the national bank has received the approval of the Comptroller of the Currency for the financial subsidiary to engage in such activities, which approval shall be based solely upon the factors set forth in this section.
 
-#### (3) Rating or comparable requirement
+#### (3) Requirement
 
 #### (A) In general
 
-&emsp;&emsp;A national bank meets the requirements of this paragraph if—
-
-&emsp;&emsp;&emsp;(i) the bank is 1 of the 50 largest insured banks and has not fewer than 1 issue of outstanding eligible debt that is currently rated within the 3 highest investment grade rating categories by a nationally recognized statistical rating organization; or
-
-&emsp;&emsp;&emsp;(ii) the bank is 1 of the second 50 largest insured banks and meets the criteria set forth in clause (i) or such other criteria as the Secretary of the Treasury and the Board of Governors of the Federal Reserve System may jointly establish by regulation and determine to be comparable to and consistent with the purposes of the rating required in clause (i).
+&emsp;&emsp;A national bank meets the requirements of this paragraph if the bank is one of the 100 largest insured banks and has not fewer than 1 issue of outstanding debt that meets standards of credit-worthiness or other criteria as the Secretary of the Treasury and the Board of Governors of the Federal Reserve System may jointly establish.
 
 #### (B) Consolidated total assets
 
@@ -62,9 +58,9 @@
 
 &emsp;The dollar amount contained in paragraph (2)(D) shall be adjusted according to an indexing mechanism jointly established by regulation by the Secretary of the Treasury and the Board of Governors of the Federal Reserve System.
 
-#### (7) Coordination with section 1843(<i>l</i>)(2) of this title
+#### (7) Coordination with section 1843(l)(2) of this title
 
-&emsp;Section 1843(<i>l</i>)(2) of this title applies to a national bank that controls a financial subsidiary in the manner provided in that section.
+&emsp;Section 1843(l)(2) of this title applies to a national bank that controls a financial subsidiary in the manner provided in that section.
 
 #### (b) Activities that are financial in nature
 
@@ -178,11 +174,11 @@ A national bank that establishes or maintains a financial subsidiary shall assur
 
 &emsp;In taking any action under this subsection, the Comptroller shall consult with all relevant Federal and State regulatory agencies and authorities.
 
-#### (f) Failure to maintain public rating or meet applicable criteria
+#### (f) Failure to meet standards of credit-worthiness meet <sup>2</sup> applicable criteria
 
 #### (1) In general
 
-&emsp;A national bank that does not continue to meet any applicable rating or other requirement of subsection (a)(2)(E) of this section after acquiring or establishing a financial subsidiary shall not, directly or through a subsidiary, purchase or acquire any additional equity capital of any financial subsidiary until the bank meets such requirements.
+&emsp;A national bank that does not continue to meet standards of credit-worthiness established by the Comptroller of the Currency or other requirement of subsection (a)(2)(E) of this section after acquiring or establishing a financial subsidiary shall not, directly or through a subsidiary, purchase or acquire any additional equity capital of any financial subsidiary until the bank meets such requirements.
 
 #### (2) Equity capital
 
@@ -218,7 +214,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (5) Well capitalized
 
-&emsp;The term “well capitalized” has the meaning given the term in section 1831<i>o</i> of this title.
+&emsp;The term “well capitalized” has the meaning given the term in section 1831o of this title.
 
 #### (6) Well managed
 
@@ -234,24 +230,6 @@ For purposes of this section, the following definitions shall apply:
 
 (R.S. §5136A, as added Pub. L. 106–102, title I, §121(a)(2), Nov. 12, 1999, 113 Stat. 1373; amended Pub. L. 111–203, title IX, §939(d), July 21, 2010, 124 Stat. 1886.)
 
-#### Amendment of Section
-
-<i>Pub. L. 111–203, title IX, §939(d), (g), July 21, 2010, 124 Stat. 1886, 1887, provided that, effective 2 years after July 21, 2010, this section is amended:</i>
-
-<i>(1) in subsection (a)(2)(E), by substituting “standards of credit-worthiness established by the Comptroller of the Currency” for “any applicable rating”;</i>
-
-<i>(2) in the heading for subsection (a)(3), by substituting “Requirement” for “Rating or Comparable Requirement”;</i>
-
-<i>(3) by amending subsection (a)(3)(A) to read as follows:</i>
-
-#### <i>“(A) In general</i>
-
-&emsp;&emsp;<i>“A national bank meets the requirements of this paragraph if the bank is one of the 100 largest insured banks and has not fewer than 1 issue of outstanding debt that meets standards of credit-worthiness or other criteria as the Secretary of the Treasury and the Board of Governors of the Federal Reserve System may jointly establish.”;</i>
-
-<i>(4) in the heading for subsection (f), by substituting “meet standards of credit-worthiness” for “maintain public rating or”; and</i>
-
-<i>(5) in subsection (f)(1), by substituting “standards of credit-worthiness established by the Comptroller of the Currency” for “any applicable rating”.</i>
-
 #### References in Text
 
 The Gramm-Leach-Bliley Act, referred to in subsecs. (a)(2)(B)(iii), (b)(2)(A), (3), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338. Section 122 of the Act is set out as a note under section 1843 of this title. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of this title and Tables.
@@ -264,6 +242,22 @@ The Bank Service Company Act, referred to in subsec. (g)(3)(B), is Pub. L. 87–
 
 A prior section 5136A of the Revised Statutes was renumbered section 5136B by Pub. L. 106–102 and is classified to section 25a of this title.
 
+#### Amendments
+
+<b>2010</b>—Subsec. (a)(2)(E). Pub. L. 111–203, §939(d)(1), substituted “standards of credit-worthiness established by the Comptroller of the Currency” for “any applicable rating”.
+
+Subsec. (a)(3). Pub. L. 111–203, §939(d)(2), substituted “Requirement” for “Rating or comparable requirement” in heading.
+
+Subsec. (a)(3)(A). Pub. L. 111–203, §939(d)(3), amended subpar. (A) generally. Prior to amendment, text read as follows: “A national bank meets the requirements of this paragraph if—
+
+&emsp;“(i) the bank is 1 of the 50 largest insured banks and has not fewer than 1 issue of outstanding eligible debt that is currently rated within the 3 highest investment grade rating categories by a nationally recognized statistical rating organization; or
+
+&emsp;“(ii) the bank is 1 of the second 50 largest insured banks and meets the criteria set forth in clause (i) or such other criteria as the Secretary of the Treasury and the Board of Governors of the Federal Reserve System may jointly establish by regulation and determine to be comparable to and consistent with the purposes of the rating required in clause (i).”
+
+Subsec. (f). Pub. L. 111–203, §939(d)(4), substituted “meet standards of credit-worthiness” for “maintain public rating or” in heading.
+
+Subsec. (f)(1). Pub. L. 111–203, §939(d)(5), substituted “standards of credit-worthiness established by the Comptroller of the Currency” for “any applicable rating”.
+
 #### Effective Date of 2010 Amendment
 
 Pub. L. 111–203, title IX, §939(g), July 21, 2010, 124 Stat. 1887, provided that: “The amendments made by this section \[amending this section, sections 1817, 1831e, and 4519 of this title, sections 78c and 80a–6 of Title 15, Commerce and Trade, and section 286hh of Title 22, Foreign Relations and Intercourse\] shall take effect 2 years after the date of enactment of this Act \[July 21, 2010\].”
@@ -273,4 +267,6 @@ Pub. L. 111–203, title IX, §939(g), July 21, 2010, 124 Stat. 1887, provided t
 Section effective 120 days after Nov. 12, 1999, see section 161 of Pub. L. 106–102, set out as an Effective Date of 1999 Amendment note under section 24 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “or meet”.</i>
 

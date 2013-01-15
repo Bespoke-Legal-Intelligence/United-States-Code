@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of the Interior (in sections 469<i>l</i> to 469<i>l</i>–3 of this title referred to as the “Secretary”) shall establish in the National Park Service a program to be known as the “National Underground Railroad Network to Freedom” (in sections 469<i>l</i> to 469<i>l</i>–3 of this title referred to as the “national network”). Under the program, the Secretary shall—
+The Secretary of the Interior (in sections 469l to 469l–3 of this title referred to as the “Secretary”) shall establish in the National Park Service a program to be known as the “National Underground Railroad Network to Freedom” (in sections 469l to 469l–3 of this title referred to as the “national network”). Under the program, the Secretary shall—
 
 &emsp;(1) produce and disseminate appropriate educational materials, such as handbooks, maps, interpretive guides, or electronic information;
 
@@ -22,7 +22,7 @@ The national network shall encompass the following elements:
 
 #### (c) Cooperative agreements and memoranda of understanding
 
-To achieve the purposes of sections 469<i>l</i> to 469<i>l</i>–3 of this title and to ensure effective coordination of the Federal and non-Federal elements of the national network referred to in subsection (b) of this section with National Park Service units and programs, the Secretary may enter into cooperative agreements and memoranda of understanding with, and provide technical assistance to—
+To achieve the purposes of sections 469l to 469l–3 of this title and to ensure effective coordination of the Federal and non-Federal elements of the national network referred to in subsection (b) of this section with National Park Service units and programs, the Secretary may enter into cooperative agreements and memoranda of understanding with, and provide technical assistance to—
 
 &emsp;(1) the heads of other Federal agencies, States, localities, regional governmental bodies, and private entities; and
 
@@ -32,9 +32,9 @@ To achieve the purposes of sections 469<i>l</i> to 469<i>l</i>–3 of this title
 
 #### Amendments
 
-<b>2008</b>—Subsec. (d). Pub. L. 110–229 struck out subsec. (d) which authorized appropriations for sections 469<i>l</i> to 469<i>l</i>–2 of this title.
+<b>2008</b>—Subsec. (d). Pub. L. 110–229 struck out subsec. (d) which authorized appropriations for sections 469l to 469l–2 of this title.
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–229, title III, §361(b), May 8, 2008, 122 Stat. 802, provided that: “The amendments made by subsection (a) \[enacting section 469<i>l</i>–3 of this title and amending this section and section 469<i>l</i>–2 of this title\] shall take effect at the beginning of the fiscal year immediately following the date of the enactment of this Act \[May 8, 2008\].”
+Pub. L. 110–229, title III, §361(b), May 8, 2008, 122 Stat. 802, provided that: “The amendments made by subsection (a) \[enacting section 469l–3 of this title and amending this section and section 469l–2 of this title\] shall take effect at the beginning of the fiscal year immediately following the date of the enactment of this Act \[May 8, 2008\].”
 

@@ -54,7 +54,7 @@ Developmental Opportunities.—(1) The Secretary of Defense may—
 
 Contingency Contracting Force.—The Secretary shall establish qualification requirements for the contingency contracting force consisting of members of the armed forces whose mission is to deploy in support of contingency operations and other operations of the Department of Defense, including—
 
-&emsp;(1) completion of at least 24 semester credit hours or the equivalent of study from an accredited institution of higher education or similar educational institution in any of the disciplines of accounting, business, finance,law, contracts, purchasing, economics, industrial management, marketing, quantitative methods, or organization and management; or
+&emsp;(1) completion of at least 24 semester credit hours or the equivalent of study from an accredited institution of higher education or similar educational institution in any of the disciplines of accounting, business, finance, law, contracts, purchasing, economics, industrial management, marketing, quantitative methods, or organization and management; or
 
 &emsp;(2) passing an examination that demonstrates skills, knowledge, or abilities comparable to that of an individual who has completed at least 24 semester credit hours or the equivalent of study in any of the disciplines described in paragraph (1).
 
@@ -120,7 +120,7 @@ Pub. L. 106–398, §1 \[\[div. A\], title VIII, §808(e)\], Oct. 30, 2000, 114 
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Fulfillment Standards for Mandatory Training
 
@@ -128,5 +128,5 @@ For provisions relating to development of fulfillment standards for purposes of 
 
 #### Credit for Experience in Certain Positions
 
-Section 1209(i) of Pub. L. 101–510, as amended by Pub. L. 102–25, title VII, §704(b)(3)(D), Apr. 6, 1991, 105 Stat. 119, provided that: “For purposes of meeting any requirement under chapter 87 of title 10, United States Code (as added by section 1202), for a period of experience (such as requirements for experience in acquisition positions or in critical acquisition positions) and for purposes of coverage under the exceptions established by section 1724(c)(1) and section 1732(c)(1) of such title, any period of time spent serving in a position later designated as an acquisition position or a critical acquisition position under such chapter may be counted as experience in such a position for such purposes.”
+Pub. L. 101–510, div. A, title XII, §1209(i), Nov. 5, 1990, 104 Stat. 1667, as amended by Pub. L. 102–25, title VII, §704(b)(3)(D), Apr. 6, 1991, 105 Stat. 119, provided that: “For purposes of meeting any requirement under chapter 87 of title 10, United States Code (as added by section 1202), for a period of experience (such as requirements for experience in acquisition positions or in critical acquisition positions) and for purposes of coverage under the exceptions established by section 1724(c)(1) and section 1732(c)(1) of such title, any period of time spent serving in a position later designated as an acquisition position or a critical acquisition position under such chapter may be counted as experience in such a position for such purposes.”
 

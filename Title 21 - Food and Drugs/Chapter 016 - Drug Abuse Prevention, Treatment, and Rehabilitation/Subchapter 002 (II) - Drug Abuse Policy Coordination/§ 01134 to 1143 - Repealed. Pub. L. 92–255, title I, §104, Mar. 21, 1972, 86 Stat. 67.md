@@ -22,5 +22,5 @@ Section 1143, Pub. L. 92–255, title II, §233, Mar. 21, 1972, 86 Stat. 73, pro
 
 #### Effective Date of Repeal
 
-Section 1104 of this title, prior to repeal by section 4(c)(1) of Pub. L. 94–237, provided for repeal of sections effective June 30, 1975.
+Section 1104 of this title, prior to repeal by Pub. L. 94–237, §4(c)(1), Mar. 19, 1976, 90 Stat. 244, provided for repeal of sections effective June 30, 1975.
 

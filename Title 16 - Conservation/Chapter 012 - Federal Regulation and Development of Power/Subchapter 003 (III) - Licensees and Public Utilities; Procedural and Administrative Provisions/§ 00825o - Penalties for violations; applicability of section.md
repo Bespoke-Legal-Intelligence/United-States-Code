@@ -16,7 +16,7 @@ Any person who willfully and knowingly violates any rule, regulation, restrictio
 
 Subsec. (b). Pub. L. 109–58, §1284(d)(2), substituted “$25,000” for “$500”.
 
-Subsec. (c). Pub. L. 109–58, §1284(d)(3), struck out subsec. (c) which read as follows: “This subsection shall not apply in the case of any provision of section 824j, 824k, 824<i>l</i>, or 824m of this title or any rule or order issued under any such provision.”
+Subsec. (c). Pub. L. 109–58, §1284(d)(3), struck out subsec. (c) which read as follows: “This subsection shall not apply in the case of any provision of section 824j, 824k, 824l, or 824m of this title or any rule or order issued under any such provision.”
 
 <b>1992</b>—Subsec. (c). Pub. L. 102–486 added subsec. (c).
 

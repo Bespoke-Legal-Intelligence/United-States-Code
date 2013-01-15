@@ -6,7 +6,7 @@ In General.—An invention promoter shall have a duty to disclose the following 
 
 &emsp;(1) the total number of inventions evaluated by the invention promoter for commercial potential in the past 5 years, as well as the number of those inventions that received positive evaluations, and the number of those inventions that received negative evaluations;
 
-&emsp;(2) the total number of customers who have contracted with the invention promoter in the past 5 years, not including customers who have purchased trade show services, research, advertising, or other nonmarketing servicesfrom the invention promoter, or who have defaulted in their payment to the invention promoter;
+&emsp;(2) the total number of customers who have contracted with the invention promoter in the past 5 years, not including customers who have purchased trade show services, research, advertising, or other nonmarketing services from the invention promoter, or who have defaulted in their payment to the invention promoter;
 
 &emsp;(3) the total number of customers known by the invention promoter to have received a net financial profit as a direct result of the invention promotion services provided by such invention promoter;
 

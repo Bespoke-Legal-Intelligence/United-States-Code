@@ -174,7 +174,7 @@
 
 #### (ii) Less than floor percentage of estimated cost
 
-&emsp;&emsp;&emsp;In any case in which the actual cost of repairing, restoring, reconstructing, or replacing a facility under this section is lessthan the floor percentage established under paragraph (3) of the cost estimated under paragraph (1), the State or local government or person receiving assistance under this section shall reimburse the President in the amount of the difference.
+&emsp;&emsp;&emsp;In any case in which the actual cost of repairing, restoring, reconstructing, or replacing a facility under this section is less than the floor percentage established under paragraph (3) of the cost estimated under paragraph (1), the State or local government or person receiving assistance under this section shall reimburse the President in the amount of the difference.
 
 #### (C) No effect on appeals process
 
@@ -214,7 +214,7 @@
 
 &emsp;In any case in which the facility being repaired, restored, reconstructed, or replaced under this section was under construction on the date of the major disaster, the cost of repairing, restoring, reconstructing, or replacing the facility shall include, for the purposes of this section, only those costs that, under the contract for the construction, are the owner's responsibility and not the contractor's responsibility.
 
-(Pub. L. 93–288, title IV, §406, as added Pub. L. 100–707, title I, §106(b), Nov. 23, 1988, 102 Stat. 4699; amended Pub. L. 106–390, title II, §205(a)–(d)(1), (e), Oct. 30, 2000, 114 Stat. 1562–1564, 1566; Pub. L. 109–295, title VI, §689h, Oct. 4, 2006, 120 Stat. 1453; Pub. L. 109–347, title VI, §609, Oct. 13, 2006, 120 Stat. 1942; Pub. L. 111–351, §3(c)(2), Jan. 4, 2011, 124 Stat. 3864.)
+(Pub. L. 93–288, title IV, §406, as added Pub. L. 100–707, title I, §106(b), Nov. 23, 1988, 102 Stat. 4699; amended Pub. L. 106–390, title II,§205(a)–(d)(1), (e), Oct. 30, 2000, 114 Stat. 1562–1564, 1566; Pub. L. 109–295, title VI, §689h, Oct. 4, 2006, 120 Stat. 1453; Pub. L. 109–347, title VI, §609, Oct. 13, 2006, 120 Stat. 1942; Pub. L. 111–351, §3(c)(2), Jan. 4, 2011, 124 Stat. 3864.)
 
 #### References in Text
 

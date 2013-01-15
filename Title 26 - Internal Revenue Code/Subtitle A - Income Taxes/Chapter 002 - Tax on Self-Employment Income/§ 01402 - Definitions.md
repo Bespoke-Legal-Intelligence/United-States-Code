@@ -4,7 +4,7 @@
 
 The term “net earnings from self-employment” means the gross income derived by an individual from any trade or business carried on by such individual, less the deductions allowed by this subtitle which are attributable to such trade or business, plus his distributive share (whether or not distributed) of income or loss described in section 702(a)(8) from any trade or business carried on by a partnership of which he is a member; except that in computing such gross income and deductions and such distributive share of partnership ordinary income or loss—
 
-&emsp;(1) there shall be excluded rentals from real estate and from personal property leased with the real estate (including such rentals paid in crop shares, and including payments under section 1233(2) of the Food Security Act of 1985 (16 U.S.C. 3833(2)) to individuals receiving benefits under section 202 or 223 of the Social Security Act) together with the deductions attributable thereto, unless such rentals are received in the course of a trade or business as a real estate dealer; except that the preceding provisions of this paragraph shall not apply to any income derived by the owner or tenant of land if (A) such income is derived under an arrangement, between the owner or tenant and another individual, which provides that such other individual shall produce agricultural or horticultural commodities (including livestock, bees, poultry, and fur-bearing animals and wildlife) on such land, and that there shall be material participation by the owner or tenant (as determined without regard to any activities of an agent of such owner or tenant) in the production or the management of the production of such agricultural or horticulturalcommodities, and (B) there is material participation by the owner or tenant (as determined without regard to any activities of an agent of such owner or tenant) with respect to any such agricultural or horticultural commodity;
+&emsp;(1) there shall be excluded rentals from real estate and from personal property leased with the real estate (including such rentals paid in crop shares, and including payments under section 1233(2) of the Food Security Act of 1985 (16 U.S.C. 3833(2)) to individuals receiving benefits under section 202 or 223 of the Social Security Act) together with the deductions attributable thereto, unless such rentals are received in the course of a trade or business as a real estate dealer; except that the preceding provisions of this paragraph shall not apply to any income derived by the owner or tenant of land if (A) such income is derived under an arrangement, between the owner or tenant and another individual, which provides that such other individual shall produce agricultural or horticultural commodities (including livestock, bees, poultry, and fur-bearing animals and wildlife) on such land, and that there shall be material participation by the owner or tenant (as determined without regard to any activities of an agent of such owner or tenant) in the production or the management of the production of such agricultural or horticultural commodities, and (B) there is material participation by the owner or tenant (as determined without regard to any activities of an agent of such owner or tenant) with respect to any such agricultural or horticultural commodity;
 
 &emsp;(2) there shall be excluded dividends on any share of stock, and interest on any bond, debenture, note, or certificate, or other evidence of indebtedness, issued with interest coupons or in registered form by any corporation (including one issued by a government or political subdivision thereof), unless such dividends and interest are received in the course of a trade or business as a dealer in stocks or securities;
 
@@ -50,7 +50,7 @@ The term “net earnings from self-employment” means the gross income derived 
 
 &emsp;&emsp;(A) the taxpayer's net earnings from self-employment for the taxable year (determined without regard to this paragraph), and
 
-&emsp;&emsp;(B) one-half of the sum of the rates imposed by subsections (a) and (b) of section 1401 for such year;
+&emsp;&emsp;(B) one-half of the sum of the rates imposed by subsections (a) and (b) of section 1401 for such year (determined without regard to the rate imposed under paragraph (2) of section 1401(b));
 
 &emsp;(13) there shall be excluded the distributive share of any item of income or loss of a limited partner, as such, other than guaranteed payments described in section 707(c) to that partner for services actually rendered to or on behalf of the partnership to the extent that those payments are established to be in the nature of remuneration for those services;
 
@@ -66,7 +66,7 @@ The term “net earnings from self-employment” means the gross income derived 
 
 &emsp;(i) in the case of an individual, if the gross income derived by him from such trade or business is not more than the upper limit, the net earnings from self-employment derived by him from such trade or business may, at his option, be deemed to be 662/3 percent of such gross income; or
 
-&emsp;(ii) in the case of an individual, if the gross income derived by him from such trade or business is more than the upper limit and the net earnings from self-employment derived by him from such trade or business (computed under this subsection without regard to this sentence) are less than the lower limit, the net earnings from self-employment derived by him from such trade or business may, at his option, be deemed to be the lower limit; and
+&emsp;(ii) in the case of an individual, if the gross income derived by him from such trade or business is more than the upper limit and thenet earnings from self-employment derived by him from such trade or business (computed under this subsection without regard to this sentence) are less than the lower limit, the net earnings from self-employment derived by him from such trade or business may, at his option, be deemed to be the lower limit; and
 
 &emsp;(iii) in the case of a member of a partnership, if his distributive share of the gross income of the partnership derived from such trade or business (after such gross income has been reduced by the sum of all payments to which section 707(c) applies) is not more than the upper limit, his distributive share of income described in section 702(a)(8) derived from such trade or business may, at his option, be deemed to be an amount equal to 662/3 percent of his distributive share of such gross income (after such gross income has been so reduced); or
 
@@ -90,7 +90,7 @@ The term “self-employment income” means the net earnings from self-employmen
 
 &emsp;(2) the net earnings from self-employment, if such net earnings for the taxable year are less than $400.
 
-> For purposes of paragraph (1), the term “wages” (A) includes such remuneration paid to an employee for services included under an agreement entered into pursuant to the provisions of section 3121(<i>l</i>) (relating to coverage of citizens of the United States who are employees of foreign affiliates of American employers), as would be wages under section 3121(a) if such services constituted employment under section 3121(b), and (B) includes compensation which is subject to the tax imposed by section 3201 or 3211,.<sup>1</sup> An individual who is not a citizen of the United States but who is a resident of the Commonwealth of Puerto Rico, the Virgin Islands, Guam, or American Samoa shall not, for purposes of this chapter be considered to be a nonresident alien individual. In the case of church employee income, the special rules of subsection (j)(2) shall apply for purposes of paragraph (2).
+> For purposes of paragraph (1), the term “wages” (A) includes such remuneration paid to an employee for services included under an agreement entered into pursuant to the provisions of section 3121(l) (relating to coverage of citizens of the United States who are employees of foreign affiliates of American employers), as would be wages under section 3121(a) if such services constituted employment under section 3121(b), and (B) includes compensation which is subject to the tax imposed by section 3201 or 3211,.<sup>1</sup> An individual who is not a citizen of the United States but who is a resident of the Commonwealth of Puerto Rico, the Virgin Islands, Guam, or American Samoa shall not, for purposes of this chapter be considered to be a nonresident alien individual. In the case of church employee income, the special rules of subsection (j)(2) shall apply for purposes of paragraph (2).
 
 #### (c) Trade or business
 
@@ -136,7 +136,7 @@ The term “employee” and the term “wages” shall have the same meaning as 
 
 #### (2) Verification of application
 
-&emsp;The Secretary may approve an application for an exemption filed pursuant to paragraph (1) only if the Secretary has verified that theindividual applying for the exemption is aware of the grounds on which the individual may receive an exemption pursuant to this subsection and that the individual seeks exemption on such grounds. The Secretary (or the Commissioner of Social Security under an agreement with the Secretary) shall make such verification by such means as prescribed in regulations.
+&emsp;The Secretary may approve an application for an exemption filed pursuant to paragraph (1) only if the Secretary has verified that the individual applying for the exemption is aware of the grounds on which the individual may receive an exemption pursuant to this subsection and that the individual seeks exemption on such grounds. The Secretary (or the Commissioner of Social Security under an agreement with the Secretary) shall make such verification by such means as prescribed in regulations.
 
 #### (3) Time for filing application
 
@@ -260,7 +260,7 @@ Nothing in subsection (a) shall be construed as including in the net earnings fr
 
 &emsp;&emsp;(B) does not depend to any extent on length of service or overall earnings from services performed for such company (without regard to whether eligibility for payment depends on length of service).
 
-#### (<i>l</i>) Upper and lower limits
+#### (l) Upper and lower limits
 
 For purposes of subsection (a)—
 
@@ -272,15 +272,11 @@ For purposes of subsection (a)—
 
 &emsp;The upper limit for any taxable year is the amount equal to 150 percent of the lower limit for such taxable year.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 353; Sept. 1, 1954, ch. 1206, title II, §201(a)–(c), 68 Stat. 1087; Aug. 1, 1956, ch. 836, title II, §201(e)(2), (3), (f), (g), (i), 70 Stat. 840–842; Pub. L. 85–239, §§1(a), (b), 2, 5(b), Aug. 30, 1957, 71 Stat. 521–523; Pub. L. 85–840, title IV, §§402(a), 403(a), Aug. 28, 1958, 72 Stat. 1042, 1043; Pub. L. 86–778, title I, §§101(a)–(c), 103(k), (<i>l</i>), 105(c)(1), 106(b), Sept. 13, 1960, 74 Stat. 926, 927, 938, 944, 945; Pub. L. 87–64, title II, §202(a), June 30, 1961, 75 Stat. 141; Pub. L. 88–272, title II, §227(b)(6), Feb. 26, 1964, 78 Stat. 98; Pub. L.88–650, §2(a), (b), Oct. 13, 1964, 78 Stat. 1076, 1077; Pub. L. 89–97, title III, §§311(b)(1)–(3), 312(b), 319(a), (c), 320(b)(1), 331(a), 341(a), (b), July 30, 1965, 79 Stat. 381, 390, 391, 393, 401, 411; Pub. L. 89–368, title I, §102(c), Mar. 15, 1966, 80 Stat. 64; Pub. L. 90–248, title I, §§108(b)(1), 115(b), 118(a), 122(b), title V, §§501(a), 502(b)(1), Jan. 2, 1968, 81 Stat. 835, 839, 841, 843, 933, 934; Pub. L. 92–5, title II, §203(b)(1), Mar. 17, 1971, 85 Stat. 10; Pub. L. 92–336, title II, §203(b)(1), July 1, 1972, 86 Stat. 418; Pub. L. 92–603, title I, §§121(b), 124(b), 140(b), Oct. 30, 1972, 86 Stat. 1353, 1357, 1366; Pub. L. 93–66, title II, §203(b)(1), July 9, 1973, 87 Stat. 153; Pub. L. 93–233, §5(b)(1), Dec. 31, 1973, 87 Stat. 954; Pub. L. 93–368, §10(b), Aug. 7, 1974, 88 Stat. 422; Pub. L. 94–92, title II, §203(a), Aug. 9, 1975, 89 Stat. 465; Pub. L. 94–455, title XII, §1207(e)(1)(B), title XIX, §§1901(a)(155), (b)(1)(I)(iii), (X), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1707, 1789, 1791, 1792, 1834; Pub. L. 95–216, title III, §313(b), Dec. 20, 1977, 91 Stat. 1536; Pub. L. 95–600, title VII, §703(j)(8), Nov. 6, 1978, 92 Stat. 2941; Pub. L. 95–615, §202(g)(5), formerly §202(f)(5), Nov. 8, 1978, 92 Stat. 3100, renumbered §202(g)(5), Pub. L. 96–222, title I, §108(a)(1)(A), Apr. 1, 1980, 94 Stat. 223; Pub. L. 97–34, title I, §111(b)(3), (5), Aug. 13, 1981, 95 Stat. 194; Pub. L. 97–248, title II, §278(a)(2), Sept. 3, 1982, 96 Stat. 559; Pub. L. 98–21, title I, §124(c)(2), title III, §§321(e)(3), 322(b)(2), 323(b)(1), Apr. 20, 1983, 97 Stat. 90, 120, 121; Pub. L. 98–369, div. A, title I, §102(c)(1), div. B, title VI, §§2603(c)(2), (d)(2), 2663(j)(5)(B), July 18, 1984, 98 Stat. 622, 1129, 1130, 1171; Pub. L. 99–272, title XIII, §13205(a)(2)(B), Apr. 7, 1986, 100 Stat. 315; Pub. L. 99–509, title IX, §9002(b)(1)(B), Oct. 21, 1986, 100 Stat. 1971; Pub. L. 99–514, title III, §301(b)(12), title XII, §1272(d)(8), (9), title XVII, §1704(a)(1), (2), title XVIII, §§1882(a), (b)(1), 1883(a)(11)(A), Oct. 22, 1986, 100 Stat. 2218, 2594, 2779, 2914, 2916; Pub. L. 100–203, title IX, §9022(b), Dec. 22, 1987, 101 Stat. 1330–295; Pub. L. 100–647, title III, §3043(c)(1), title VIII, §8007(c), Nov. 10, 1988, 102 Stat. 3642, 3783; Pub. L. 101–239, title X, §10204(a)(1), Dec. 19, 1989, 103 Stat. 2474; Pub. L. 101–508, title V, §§5123(a)(3), 5130(a)(2), title XI, §11331(b), Nov. 5, 1990, 104 Stat. 1388–284, 1388–289, 1388–467; Pub. L. 103–66, title XIII, §13207(b), Aug. 10, 1993, 107 Stat. 468; Pub. L. 103–296, title I, §108(h)(1), title III, §319(a)(4), Aug. 15, 1994, 108 Stat. 1487, 1534; Pub. L. 104–188, title I, §1456(a), Aug. 20, 1996, 110 Stat. 1818; Pub. L. 105–34, title IX, §922(a), Aug. 5, 1997, 111 Stat. 879; Pub. L. 108–203, title IV, §425(b), Mar. 2, 2004, 118 Stat. 536; Pub. L. 108–357, title I, §102(d)(7), Oct. 22, 2004, 118 Stat. 1429; Pub. L. 110–28, title VIII, §8215(b)(1), May 25, 2007, 121 Stat. 193; Pub. L. 110–234, title XV, §§15301(a), 15352(a), May 22, 2008, 122 Stat. 1501, 1525; Pub. L. 110–246, §4(a), title XV, §§15301(a), 15352(a), June 18, 2008, 122 Stat. 1664, 2263, 2287; Pub. L. 111–148, title IX, §9015(b)(2)(B), Mar. 23, 2010, 124 Stat. 871.)
-
-#### Amendment of Subsection (a)(12)(B)
-
-<i>Pub. L. 111–148, title IX, §9015(b)(2)(B), (c), Mar. 23, 2010, 124 Stat. 871, 872, provided that, applicable with respect to remuneration received, and taxable years beginning, after Dec. 31, 2012, subsection (a)(12)(B) of this section is amended by inserting “(determined without regard to the rate imposed under paragraph (2) of section 1401(b))” after “for such year”.</i>
+(Aug. 16, 1954, ch. 736, 68A Stat. 353; Sept. 1, 1954, ch. 1206, title II, §201(a)–(c), 68 Stat. 1087; Aug. 1, 1956, ch. 836, title II, §201(e)(2), (3), (f), (g), (i), 70 Stat. 840–842; Pub. L. 85–239, §§1(a), (b), 2, 5(b), Aug. 30, 1957, 71 Stat. 521–523; Pub. L. 85–840, title IV, §§402(a), 403(a), Aug. 28, 1958, 72 Stat. 1042, 1043; Pub. L. 86–778, title I, §§101(a)–(c), 103(k), (l), 105(c)(1), 106(b), Sept. 13, 1960, 74 Stat. 926, 927, 938, 944, 945; Pub. L. 87–64, title II, §202(a), June 30, 1961, 75 Stat. 141; Pub. L. 88–272, title II, §227(b)(6), Feb. 26, 1964, 78 Stat. 98; Pub. L. 88–650, §2(a), (b), Oct. 13, 1964, 78 Stat. 1076, 1077; Pub. L. 89–97, title III, §§311(b)(1)–(3), 312(b), 319(a), (c), 320(b)(1), 331(a), 341(a), (b), July 30, 1965, 79 Stat. 381, 390, 391, 393, 401, 411; Pub. L. 89–368, title I, §102(c), Mar. 15, 1966, 80 Stat. 64; Pub. L. 90–248, title I, §§108(b)(1), 115(b), 118(a), 122(b), title V, §§501(a), 502(b)(1), Jan. 2, 1968, 81 Stat. 835, 839, 841, 843, 933, 934; Pub. L. 92–5, title II, §203(b)(1), Mar. 17, 1971, 85 Stat. 10; Pub. L. 92–336, title II, §203(b)(1), July 1, 1972, 86 Stat. 418; Pub. L. 92–603, title I, §§121(b), 124(b), 140(b), Oct. 30, 1972, 86 Stat. 1353, 1357, 1366; Pub. L. 93–66, title II, §203(b)(1), July 9, 1973, 87 Stat. 153; Pub. L. 93–233, §5(b)(1), Dec. 31, 1973, 87 Stat. 954; Pub. L. 93–368, §10(b), Aug. 7, 1974, 88 Stat. 422; Pub. L. 94–92, title II, §203(a), Aug. 9, 1975, 89 Stat. 465; Pub. L. 94–455, title XII, §1207(e)(1)(B), title XIX, §§1901(a)(155), (b)(1)(I)(iii), (X), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1707, 1789, 1791, 1792, 1834; Pub. L. 95–216, title III, §313(b), Dec. 20, 1977, 91 Stat. 1536; Pub. L. 95–600, title VII, §703(j)(8), Nov. 6, 1978, 92 Stat. 2941; Pub. L. 95–615, §202(g)(5), formerly §202(f)(5), Nov. 8, 1978, 92 Stat. 3100, renumbered §202(g)(5), Pub. L. 96–222, title I, §108(a)(1)(A), Apr. 1, 1980, 94 Stat. 223; Pub. L. 97–34, title I, §111(b)(3), (5), Aug. 13, 1981, 95 Stat. 194; Pub. L. 97–248, title II, §278(a)(2), Sept. 3, 1982, 96 Stat. 559; Pub. L. 98–21, title I, §124(c)(2), title III, §§321(e)(3), 322(b)(2), 323(b)(1), Apr. 20, 1983, 97 Stat. 90, 120, 121; Pub. L. 98–369, div. A, title I, §102(c)(1), div. B, title VI, §§2603(c)(2), (d)(2), 2663(j)(5)(B), July 18, 1984, 98 Stat. 622, 1129, 1130, 1171; Pub. L. 99–272, title XIII, §13205(a)(2)(B), Apr. 7, 1986, 100 Stat. 315;Pub. L. 99–509, title IX, §9002(b)(1)(B), Oct. 21, 1986, 100 Stat. 1971; Pub. L. 99–514, title III, §301(b)(12), title XII, §1272(d)(8), (9), title XVII, §1704(a)(1), (2), title XVIII, §§1882(a), (b)(1), 1883(a)(11)(A), Oct. 22, 1986, 100 Stat. 2218, 2594, 2779, 2914, 2916; Pub. L. 100–203, title IX, §9022(b), Dec. 22, 1987, 101 Stat. 1330–295; Pub. L. 100–647, title III, §3043(c)(1), title VIII, §8007(c), Nov. 10, 1988, 102 Stat. 3642, 3783; Pub. L. 101–239, title X, §10204(a)(1), Dec. 19, 1989, 103 Stat. 2474; Pub. L. 101–508, title V, §§5123(a)(3), 5130(a)(2), title XI, §11331(b), Nov. 5, 1990, 104 Stat. 1388–284, 1388–289, 1388–467; Pub. L. 103–66, title XIII, §13207(b), Aug. 10, 1993, 107 Stat. 468; Pub. L. 103–296, title I, §108(h)(1), title III, §319(a)(4), Aug. 15, 1994, 108 Stat. 1487, 1534; Pub. L. 104–188, title I, §1456(a), Aug. 20, 1996, 110 Stat. 1818; Pub. L. 105–34, title IX, §922(a), Aug. 5, 1997, 111 Stat. 879; Pub. L. 108–203, title IV, §425(b), Mar. 2, 2004, 118 Stat. 536; Pub. L. 108–357, title I, §102(d)(7), Oct. 22, 2004, 118 Stat. 1429; Pub. L. 110–28, title VIII, §8215(b)(1), May 25, 2007, 121 Stat. 193; Pub. L. 110–234, title XV, §§15301(a), 15352(a), May 22, 2008, 122 Stat. 1501, 1525; Pub. L. 110–246, §4(a), title XV, §§15301(a), 15352(a), June 18, 2008, 122 Stat. 1664, 2263, 2287; Pub. L. 111–148, title IX, §9015(b)(2)(B), Mar. 23, 2010, 124 Stat. 871.)
 
 #### References in Text
 
-The Social Security Act, referred to in subsecs. (a)(1), (b), (c)(1), (2)(E), (e)(1), (g)(1), and (<i>l</i>)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Titles II and XVIII of the Act are classified generally to subchapters II (§401 et seq.) and XVIII (§1395 et seq.) of Title 42. Sections 202, 203, 213, 218, 222, 223, 230, and 233 of the Act are classified to sections 402, 403, 413, 418, 422, 423, 430, and 433, respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (a)(1), (b), (c)(1), (2)(E), (e)(1), (g)(1), and (l)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Titles II and XVIII of the Act are classified generally to subchapters II (§401 et seq.) and XVIII (§1395 et seq.) of Title 42. Sections 202, 203, 213, 218, 222, 223, 230, and 233 of the Act are classified to sections 402, 403, 413, 418, 422, 423, 430, and 433, respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The Federal Insurance Contributions Act, referred to in subsec. (d), is act Aug. 16, 1954, ch. 736, 68A Stat. 415, as amended, which is classified generally to chapter 21 (§3101 et seq.) of this title. For complete classification of this Act to the Code, see section 3128 of this title and Tables.
 
@@ -290,11 +286,13 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
+<b>2010</b>—Subsec. (a)(12)(B). Pub. L. 111–148 inserted “(determined without regard to the rate imposed under paragraph (2) of section 1401(b))” after “for such year”.
+
 <b>2008</b>—Subsec. (a). Pub. L. 110–246, §15352(a)(1), in concluding provisions, substituted “the upper limit” for “$2,400” wherever appearing and “the lower limit” for “$1,600” wherever appearing.
 
 Subsec. (a)(1). Pub. L. 110–246, §15301(a), inserted “, and including payments under section 1233(2) of the Food Security Act of 1985 (16 U.S.C. 3833(2)) to individuals receiving benefits under section 202 or 223 of the Social Security Act” after “crop shares”.
 
-Subsec. (<i>l</i>). Pub. L. 110–246, §15352(a)(2), added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 110–246, §15352(a)(2), added subsec. (l).
 
 <b>2007</b>—Subsec. (a)(17). Pub. L. 110–28 added par. (17).
 
@@ -312,7 +310,7 @@ Subsec. (c)(2)(C). Pub. L. 103–296, §319(a)(4), inserted at end “except ser
 
 Subsecs. (c)(2)(E), (e)(2), (g)(1), (2)(A), (B). Pub. L. 103–296, §108(h)(1), substituted “Commissioner of Social Security” for “Secretary of Health and Human Services”.
 
-<b>1993</b>—Subsec. (b). Pub. L. 103–66, §13207(b)(1)(C), (D), in concluding provisions, inserted “and” after “section 3121(b),” and struck out “and (C) includes, but only with respect to the tax imposed by section 1401(b), remuneration paid for medicare qualified government employment (as defined in section 3121(u)(3)) which issubject to the taxes imposed by sections 3101(b) and 3111(b)” after “section 3201 or 3211,”.
+<b>1993</b>—Subsec. (b). Pub. L. 103–66, §13207(b)(1)(C), (D), in concluding provisions, inserted “and” after “section 3121(b),” and struck out “and (C) includes, but only with respect to the tax imposed by section 1401(b), remuneration paid for medicare qualified government employment (as defined in section 3121(u)(3)) which is subject to the taxes imposed by sections 3101(b) and 3111(b)” after “section 3201 or 3211,”.
 
 Subsec. (b)(1). Pub. L. 103–66, §13207(b)(1)(A), (B), substituted “in the case of the tax imposed by section 1401(a), that part of the net” for “that part of the net” and “contribution and benefit base (as determined under section 230 of the Social Security Act)” for “applicable contribution base (as determined under subsection (k))”.
 
@@ -482,7 +480,7 @@ Subsec. (e)(3)(C). Pub. L. 88–650, §2(b), added subpar. (C).
 
 <b>1960</b>—Subsec. (a). Pub. L. 86–778, §103(k), added par. (9) and inserted references to paragraph (9) in cls. (v) and (vi) of last sentence.
 
-Subsec. (b). Pub. L. 86–778, §103(<i>l</i>), substituted “the Commonwealth of Puerto Rico, the Virgin Islands, Guam, or American Samoa” for “the Virgin Islands or a resident of Puerto Rico” in last sentence.
+Subsec. (b). Pub. L. 86–778, §103(l), substituted “the Commonwealth of Puerto Rico, the Virgin Islands, Guam, or American Samoa” for “the Virgin Islands or a resident of Puerto Rico” in last sentence.
 
 Subsec. (c)(2). Pub. L. 86–778, §106(b), excluded service described in section 3121(b)(11), (12), or (15) performed in the United States (as defined in section 3121(e)(2)) by a citizen of the United States.
 
@@ -540,7 +538,7 @@ Pub. L. 110–234, title XV, §15301(c), May 22, 2008, 122 Stat. 1501, and Pub. 
 
 \[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
 
-Pub. L. 110–234, title XV, §15352(c), May 22, 2008, 122 Stat. 1526, and Pub. L. 110–246, §4(a), title XV, §15352(c),June 18, 2008, 122 Stat. 1664, 2288, provided that: “The amendments made by this section \[amending this section and sections 411 and 412 of Title 42, The Public Health and Welfare\] shall apply to taxable years beginning after December 31, 2007.”
+Pub. L. 110–234, title XV, §15352(c), May 22, 2008, 122 Stat. 1526, and Pub. L. 110–246, §4(a), title XV, §15352(c), June 18, 2008, 122 Stat. 1664, 2288, provided that: “The amendments made by this section \[amending this section and sections 411 and 412 of Title 42, The Public Health and Welfare\] shall apply to taxable years beginning after December 31, 2007.”
 
 \[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
 
@@ -554,43 +552,43 @@ Amendment by Pub. L. 108–357 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 1997 Amendment
 
-Section 922(c) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section and section 411 of Title 42, The Public Health and Welfare\] shall apply to payments after December 31, 1997.”
+Pub. L. 105–34, title IX, §922(c), Aug. 5, 1997, 111 Stat. 880, provided that: “The amendments made by this section \[amending this section and section 411 of Title 42, The Public Health and Welfare\] shall apply to payments after December 31, 1997.”
 
 #### Effective Date of 1996 Amendment
 
-Section 1456(b) of Pub. L. 104–188 provided that: “The amendments made by this section \[amending this section\] shall apply to years beginning before, on, or after December 31, 1994.”
+Pub. L. 104–188, title I, §1456(b), Aug. 20, 1996, 110 Stat. 1818, provided that: “The amendments made by this section \[amending this section\] shall apply to years beginning before, on, or after December 31, 1994.”
 
 #### Effective Date of 1994 Amendment
 
 Amendment by section 108(h)(1) of Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of Title 42, The Public Health and Welfare.
 
-Section 319(c) of Pub. L. 103–296 provided that: “The amendments made by this section \[amending this section, sections 3102, 3121, and 3122 of this title, and sections 410 and 411 of Title 42, The Public Health and Welfare\] shall apply with respect to service performed after the calendar quarter following the calendar quarter in which the date of the enactment of this Act \[Aug. 15, 1994\] occurs.”
+Pub. L. 103–296, title III, §319(c), Aug. 15, 1994, 108 Stat. 1535, provided that: “The amendments made by this section \[amending this section, sections 3102, 3121, and 3122 of this title, and sections 410 and 411 of Title 42, The Public Health and Welfare\] shall apply with respect to service performed after the calendar quarterfollowing the calendar quarter in which the date of the enactment of this Act \[Aug. 15, 1994\] occurs.”
 
 #### Effective Date of 1993 Amendment
 
-Section 13207(e) of Pub. L. 103–66 provided that: “The amendments made by this section \[amending this section and sections 3121, 3122, 3125, 3231, and 6413 of this title\] shall apply to 1994 and later calendar years.”
+Pub. L. 103–66, title XIII, §13207(e), Aug. 10, 1993, 107 Stat. 469, provided that: “The amendments made by this section \[amending this section and sections 3121, 3122, 3125, 3231, and 6413 of this title\] shall apply to 1994 and later calendar years.”
 
 #### Effective Date of 1990 Amendment
 
 Amendment by section 5123(a)(3) of Pub. L. 101–508 applicable with respect to income received for services performed in taxable years beginning after Dec. 31, 1990, see section 5123(b) of Pub. L. 101–508, set out as a note under section 403 of Title 42, The Public Health and Welfare.
 
-Section 5130(b) of Pub. L. 101–508 provided that: “The amendments made by subsection (a) \[amending this section, section 3509 of this title, and sections 408, 409, and 411 of Title 42\] shall be effective as if included in the enactment of the provision to which it relates.”
+Pub. L. 101–508, title V, §5130(b), Nov. 5, 1990, 104 Stat. 1388–289, provided that: “The amendments made by subsection (a) \[amending this section, section 3509 of this title, and sections 408, 409, and 411 of Title 42\] shall be effective as if included in the enactment of the provision to which it relates.”
 
-Section 11331(e) of Pub. L. 101–508 provided that: “The amendments made by this section \[amending this section and sections 3121, 3122, 3125, 3231, and 6413 of this title\] shall apply to 1991 and later calendar years.”
+Pub. L. 101–508, title XI, §11331(e), Nov. 5, 1990, 104 Stat. 1388–468, provided that: “The amendments made by this section \[amending this section and sections 3121, 3122, 3125, 3231, and 6413 of this title\] shall apply to 1991 and later calendar years.”
 
 #### Effective Date of 1989 Amendment
 
-Section 10204(a)(2) of Pub. L. 101–239 provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1989.”
+Pub. L. 101–239, title X, §10204(a)(2), Dec. 19, 1989, 103 Stat. 2474, provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1989.”
 
 #### Effective Date of 1988 Amendment
 
 Amendment by section 3043(c)(1) of Pub. L. 100–647 applicable to all periods beginning before, on, or after Nov. 10, 1988, with no inference created as to existence or nonexistence or scope of any exemption from tax for income derived from fishing rights secured as of Mar. 17, 1988, by any treaty, law, or Executive Order, see section 3044 of Pub. L. 100–647, set out as an Effective Date note under section 7873 of this title.
 
-Section 8007(d) of Pub. L. 100–647 provided that: “The amendments made by subsection (a) \[enacting section 3127 of this title and renumbering former section 3127 of this title as section 3128\] shall apply to wages paid after December 31, 1988. The amendments made by subsection (b) \[amending section 402 of Title 42, The Public Health and Welfare\] shall apply to benefits paid for (and items and services furnished in) months after December 1988. The amendments made by subsection (c) \[amending this section\] shall apply to applications for exemptions filed on or after the date of the enactment of this Act \[Nov. 10, 1988\].”
+Pub. L. 100–647, title VIII, §8007(d), Nov. 10, 1988, 102 Stat. 3783, provided that: “The amendments made by subsection (a) \[enacting section 3127 of this title and renumbering former section 3127 of this title as section 3128\] shall apply to wages paid after December 31, 1988. The amendments made by subsection (b) \[amending section 402 of Title 42, The Public Health and Welfare\] shall apply to benefits paid for (and items and services furnished in) months after December 1988. The amendments made by subsection (c) \[amending this section\] shall apply to applications for exemptions filed on or after the date of the enactment of this Act \[Nov. 10, 1988\].”
 
 #### Effective Date of 1987 Amendment
 
-Section 9022(c) of Pub. L. 100–203 provided that: “The amendments made by this section \[amending this section and section 411 of Title 42, The Public Health and Welfare\] shall apply with respect to services performed in taxable years beginning on or after January 1, 1988.”
+Pub. L. 100–203, title IX, §9022(c), Dec. 22, 1987, 101 Stat. 1330–295, provided that: “The amendments made by this section \[amending this section and section 411 of Title 42, The Public Health and Welfare\] shall apply with respect to services performed in taxable years beginning on or after January 1, 1988.”
 
 #### Effective Date of 1986 Amendments
 
@@ -598,9 +596,9 @@ Amendment by section 301(b)(12) of Pub. L. 99–514 applicable to taxable years 
 
 Amendment by section 1272(d)(8), (9) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 1277 of Pub. L. 99–514, set out as a note under section 931 of this title.
 
-Section 1704(a)(3) of Pub. L. 99–514 provided that: “The amendments made by paragraphs (1) and (2) \[amending this section\] shall apply to applications filed after December 31, 1986.”
+Pub. L. 99–514, title XVII, §1704(a)(3), Oct. 22, 1986, 100 Stat. 2779, provided that: “The amendments made by paragraphs (1) and (2) \[amending this section\] shall apply to applications filed after December 31, 1986.”
 
-Section 1882(b)(3) of Pub. L. 99–514 provided that: “The amendments made by this subsection \[amending this section and section 411 of Title 42, The Public Health and Welfare\] shall apply to remuneration paid or derived in taxable years beginning after December 31, 1985.”
+Pub. L. 99–514, title XVIII, §1882(b)(3), Oct. 22, 1986, 100 Stat. 2915, provided that: “The amendments made by this subsection \[amending this section and section 411 of Title 42, The Public Health and Welfare\] shall apply to remuneration paid or derived in taxable years beginning after December 31, 1985.”
 
 Amendment by Pub. L. 99–509 effective, except as otherwise provided, with respect to payments due with respect to wages paid after Dec. 31, 1986, including wages paid after such date by a State (or political subdivision thereof) that modified its agreement pursuant to section 418(e)(2) of Title 42, The Public Health and Welfare, see section 9002(d) of Pub. L. 99–509, set out as a note under section 418 of Title 42.
 
@@ -616,13 +614,13 @@ Amendment by section 2663(j)(5)(B) of Pub. L. 98–369 effective July 18, 1984, 
 
 #### Effective Date of 1983 Amendment
 
-Amendment by section 124(c)(2) of Pub. L. 98–21 applicable to taxable years beginning after Dec. 31, 1989, seesection 124(d)(2) of Pub. L. 98–21, set out as a note under section 1401 of this title.
+Amendment by section 124(c)(2) of Pub. L. 98–21 applicable to taxable years beginning after Dec. 31, 1989, see section 124(d)(2) of Pub. L. 98–21, set out as a note under section 1401 of this title.
 
 Amendment by section 321(e)(3) of Pub. L. 98–21 applicable to agreements entered into after Apr. 20, 1983, except that at the election of any American employer such amendment shall also apply to any agreement entered into on or before Apr. 20, 1983, see section 321(f) of Pub. L. 98–21 set out as a note under section 406 of this title.
 
 Amendment by section 322(b)(2) of Pub. L. 98–21 effective for taxable years beginning on or after Apr. 20, 1983, see section 322(c) of Pub. L. 98–21 set out as a note under section 3121 of this title.
 
-Section 323(c)(2) of Pub. L. 98–21 provided that: “Except as provided in subsection (b)(2)(B) \[amending section 411 of Title 42, The Public Health and Welfare, effective with respect to taxable years beginning after Dec. 31, 1981, and before Jan. 1, 1984\], the amendments made by subsection (b) \[amending this section and section 411 of Title 42\] shall apply to taxable years beginning after December 31, 1983.”
+Pub. L. 98–21, title III, §323(c)(2), Apr. 20, 1983, 97 Stat. 121, provided that: “Except as provided in subsection (b)(2)(B) \[amending section 411 of Title 42, The Public Health and Welfare, effective with respect to taxable years beginning after Dec. 31, 1981, and before Jan. 1, 1984\], the amendments made by subsection (b) \[amending this section and section 411 of Title 42\] shall apply to taxable years beginning after December 31, 1983.”
 
 #### Effective Date of 1982 Amendment
 
@@ -652,7 +650,7 @@ Amendment by section 1901(a)(155), (b)(1)(I)(iii), (X) of Pub. L. 94–455 effec
 
 #### Effective Date of 1975 Amendment
 
-Section 203(c) of Pub. L. 94–92 provided that: “The amendments made by this section \[amending this section and section 3231 of this title\] shall be effective January 1, 1975, and shall apply only with respect to compensation paid for services rendered on or after that date.”
+Pub. L. 94–92, title II, §203(c), Aug. 9, 1975, 89 Stat. 465, provided that: “The amendments made by this section \[amending this section and section 3231 of this title\] shall be effective January 1, 1975, and shall apply only with respect to compensation paid for services rendered on or after that date.”
 
 #### Effective Date of 1974 Amendment
 
@@ -678,19 +676,19 @@ Amendment by Pub. L. 92–5 applicable only with respect to taxable years beginn
 
 Amendment by section 108(b)(1) of Pub. L. 90–248 applicable only with respect to taxable years ending after 1967, see section 108(c) of Pub. L. 90–248, set out as a note under section 409 of Title 42, The Public Health and Welfare.
 
-Section 115(c) of Pub. L. 90–248 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 411 of Title 42\] shall apply only with respect to taxable years ending after 1967.”
+Pub. L. 90–248, title I, §115(c), Jan. 2, 1968, 81 Stat. 840, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 411 of Title 42\] shall apply only with respect to taxable years ending after 1967.”
 
-Section 118(c) of Pub. L. 90–248 provided that: “The amendments made by this section \[amending this section and section 411 of Title 42\] shall apply only with respect to taxable years ending on or after December 31, 1967.”
+Pub. L. 90–248, title I, §118(c), Jan. 2, 1968, 81 Stat. 842, provided that: “The amendments made by this section \[amending this section and section 411 of Title 42\] shall apply only with respect to taxable years ending on or after December 31, 1967.”
 
-Section 122(c) of Pub. L. 90–248 provided that:
+Pub. L. 90–248, title I, §122(c), Jan. 2, 1968, 81 Stat. 844, provided that:
 
 “(1) The amendments made by subsections (a) and (b) of this section \[amending this section and section 411 of Title 42\] shall apply with respect to fees received after 1967.
 
 “(2) Notwithstanding the provisions of subsections (a) and (b) of this section \[amending this section and section 411 of Title 42\], any individual who in 1968 is in a position to which the amendments made by such subsections apply may make an irrevocable election not to have such amendments apply to the fees he receives in 1968 and every year thereafter, if on or before the due date of his income tax return for 1968 (including any extensions thereof) he files with the Secretary of the Treasury or his delegate, in such manner as the Secretary of the Treasury or his delegate shall by regulations prescribe, a certificate of election of exemption from such amendments.”
 
-Section 501(b) of Pub. L. 90–248, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1950. For such purpose, chapter 2 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall be treated as applying to all taxable years beginning after such date.”
+Pub. L. 90–248, title V, §501(b), Jan. 2, 1968, 81 Stat. 933, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1950. For such purpose, chapter 2 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall be treated as applying to all taxable years beginning after such date.”
 
-Section 502(b)(2) of Pub. L. 90–248 provided that: “The amendments made by paragraph (1) \[amending this section\] shall be effective only with respect to taxable years ending on or after December 31, 1968.”
+Pub. L. 90–248, title V, §502(b)(2), Jan. 2, 1968, 81 Stat. 934, provided that: “The amendments made by paragraph (1) \[amending this section\] shall be effective only with respect to taxable years ending on or after December 31, 1968.”
 
 #### Effective Date of 1966 Amendment
 
@@ -698,41 +696,41 @@ Amendment by Pub. L. 89–368 applicable with respect to taxable years beginning
 
 #### Effective Date of 1965 Amendment
 
-Amendment by section 311(b)(1)–(3) of Pub. L. 89–97 applicable only with respect to taxable years ending onor after Dec. 31, 1965, see section 311(c) of Pub. L. 89–97, set out as a note under section 410 of Title 42, The Public Health and Welfare.
+Amendment by section 311(b)(1)–(3) of Pub. L. 89–97 applicable only with respect to taxable years ending on or after Dec. 31, 1965, see section 311(c) of Pub. L. 89–97, set out as a note under section 410 of Title 42, The Public Health and Welfare.
 
 Amendment by section 312(b) of Pub. L. 89–97 applicable only with respect to taxable years beginning after Dec. 31, 1965, see section 312(c) of Pub. L. 89–97, set out as a note under section 411 of Title 42.
 
-Section 319(e) of Pub. L. 89–97, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[amending this section and sections 402 and 411 of Title 42\] shall apply with respect to taxable years beginning after December 31, 1950. For such purpose, chapter 2 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall be treated as applying to all taxable years beginning after such date.”
+Pub. L. 89–97, title III, §319(e), July 30, 1965, 79 Stat. 392, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[amending this section and sections 402 and 411 of Title 42\] shall apply with respect to taxable years beginning after December 31, 1950. For such purpose, chapter 2 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall be treated as applying to all taxable years beginning after such date.”
 
 Amendment by section 320(b)(1) of Pub. L. 89–97 applicable with respect to taxable years ending after 1965, see section 320(c) of Pub. L. 89–97, set out as a note under section 3121 of this title.
 
-Section 331(d) of Pub. L. 89–97, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[amending this section\] shall be applicable (except as otherwise specifically provided therein) only to certificates with respect to which supplemental certificates are filed pursuant to section 1402(e)(5)(A) of such Code after the date of the enactment of this Act \[July 30, 1965\], and to certificates filed pursuant to section 1402(e)(5)(B) after such date; except that no monthly benefits under title II of the Social Security Act \[section 401 et seq. of Title 42\] for the month in which this Act is enacted \[July 1965\] or any prior month shall be payable or increased by reason of such amendments, and no lump sum death payment under such title \[section 401 et seq. of Title 42\] shall be payable or increased by reason of such amendments in the case of any individual who died prior to the date of the enactment of this Act \[July 30, 1965\]. The provisions of section 1402(e)(5) and (6) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] which were in effect before the date of enactment of this Act shall be applicable with respect to any certificate filed pursuant thereto before such date if a supplemental certificate is not filed with respect to such certificate as provided in this section.”
+Pub. L. 89–97, title III, §331(d), July 30, 1965, 79 Stat. 403, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[amending this section\] shall be applicable (except as otherwise specifically provided therein) only to certificates with respect to which supplemental certificates are filed pursuant to section 1402(e)(5)(A) of such Code after the date of the enactment of this Act \[July 30, 1965\], and to certificates filed pursuant to section 1402(e)(5)(B) after such date; except that no monthly benefits under title II of the Social Security Act\[section 401 et seq. of Title 42\] for the month in which this Act is enacted \[July 1965\] or any prior month shall be payable or increased by reason of such amendments, and no lump sum death payment under such title \[section 401 et seq. of Title 42\] shall be payable or increased by reason of such amendments in the case of any individual who died prior to the date of the enactment of this Act \[July 30, 1965\]. The provisions of section 1402(e)(5) and (6) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] which were in effect before the date of enactment of this Act shall be applicable with respect to any certificate filed pursuant thereto before such date if a supplemental certificate is not filed with respect to such certificate as provided in this section.”
 
-Section 341(c) of Pub. L. 89–97, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall be applicable only with respect to certificates filed pursuant to section 1402(e) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] after the date of the enactment of this Act \[July 30, 1965\]; except that no monthly benefits under title II of the Social Security Act \[section 401 et seq. of Title 42\] for the month in which this Act is enacted \[July 1965\] or any prior month shall be payable or increased by reason of such amendments.”
+Pub. L. 89–97, title III, §341(c), July 30, 1965, 79 Stat. 412, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall be applicable only with respect to certificates filed pursuant to section 1402(e) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] after the date of the enactment of this Act \[July 30, 1965\]; except that no monthly benefits under title II of the Social Security Act \[section 401 et seq. of Title 42\] for the month in which this Act is enacted \[July 1965\] or any prior month shall be payable or increased by reason of such amendments.”
 
-#### Effective Date of 1964 Amendments
+#### Effective Date of 1964 Amendment
 
-Section 2(c) of Pub. L. 88–650, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall be applicable only with respect to certificates filed pursuant to section 1402(e) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] after the date of the enactment of this Act \[Oct. 13, 1964\]; except that no monthly benefits under title II of the Social Security Act \[section 401 et seq. of Title 42, The Public Health and Welfare\] for the month in which this Act \[Oct. 1964\] is enacted or any prior month shall be payable or increased by reason of such amendments.”
+Pub. L. 88–650, §2(c), Oct. 13, 1964, 78 Stat. 1077, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall be applicable only with respect to certificates filed pursuant to section 1402(e) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] after the date of the enactment of this Act \[Oct. 13, 1964\]; except that no monthly benefits under title II of the Social Security Act \[section 401 et seq. of Title 42, The Public Health and Welfare\] for the month in which this Act \[Oct. 1964\] is enacted or any prior month shall be payable or increased by reason of such amendments.”
 
 Amendment by Pub. L. 88–272 applicable with respect to amounts received or accrued in taxable years beginning after Dec. 31, 1963, attributable to iron ore mined in such years, see section 227(c) of Pub. L. 88–272, set out as a note under section 272 of this title.
 
 #### Effective Date of 1961 Amendment
 
-Section 202(b) of Pub. L. 87–64 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of enactment of this Act \[June 30, 1961\]; except that no monthly benefits under title II of the Social Security Act \[section 401 et seq. of Title 42, The Public Health and Welfare\] for the month in which this Act is enacted or any prior month shall be payable or increased by reason of such amendment, and no lump-sum death payment under such title shall be payable or increased by reason of such amendment in the case of any individual who died prior to the date of enactment of this Act \[June 30, 1961\].”
+Pub. L. 87–64, title II, §202(b), June 30, 1961, 75 Stat. 142, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of enactment of this Act \[June 30, 1961\]; except that no monthly benefits under title II of the Social Security Act \[section 401 et seq. of Title 42, The Public Health and Welfare\] for the month in which this Act is enacted or any prior month shall be payable or increased by reason of such amendment, and no lump-sum death payment under such title shall be payable or increased by reason of such amendment in the case of any individual who died prior to the date of enactment of this Act \[June 30, 1961\].”
 
 #### Effective Date of 1960 Amendment
 
-Section 101(f) of Pub. L. 86–778, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[amending this section\] shall be applicable (except as otherwise specifically indicated therein) only with respect to certificates (and supplemental certificates) filed pursuant to section 1402(e) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] after the date of the enactment of this Act \[Sept. 13, 1960\]; except that no monthly benefits under title II of the Social Security Act \[section 401 et seq. of Title 42, The Public Health and Welfare\] for the month in which this Act is enacted or any prior month shall be payable or increased by reason of such amendments, and no lump-sum death payment under such title shall be payable or increased by reason of such amendments in the case of any individual who died prior to the date of the enactment of this Act \[Sept. 13, 1960\].”
+Pub. L. 86–778, title I, §101(f), Sept. 13, 1960, 74 Stat. 928, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[amending this section\] shall be applicable (except as otherwise specifically indicated therein) only with respect to certificates (and supplemental certificates) filed pursuant to section 1402(e) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] after the date of the enactment of this Act \[Sept. 13, 1960\]; except that no monthly benefits under title II of the Social Security Act \[section 401 et seq. of Title 42, The Public Health and Welfare\] for the month in which this Act is enacted or any prior month shall be payable or increased by reason of such amendments, and no lump-sum death payment under such title shall be payable or increased by reason of such amendments in the case of any individual who died prior to the date of the enactment of this Act \[Sept. 13, 1960\].”
 
 Amendment by section 103(k) of Pub. L. 86–778 applicable only in the case of taxable years beginning after 1960, except that, insofar as such enactment involves the nonapplication of section 932 of this title to the Virgin Islands for purposes of section 1401 et seq. of this title and section 411 of Title 42, such enactment shall be effective in the case of all taxable years with respect to which such chapter 2 (and corresponding provisions of prior law) and section 411 of Title 42 are applicable, see section 103(v)(1) of Pub. L. 86–778, set out as a note under section 402 of Title 42.
 
-Amendment by section 103(<i>l</i>) of Pub. L. 86–778 applicable only in the case of taxable years beginning after 1960, see section 103(v)(1) of Pub. L. 86–778, set out as a note under section 402 of Title 42.
+Amendment by section 103(l) of Pub. L. 86–778 applicable only in the case of taxable years beginning after 1960, see section 103(v)(1) of Pub. L. 86–778, set out as a note under section 402 of Title 42.
 
 Amendment by section 106(b) of Pub. L. 86–778 applicable only with respect to taxable years ending on or after Dec. 31, 1960, see section 106(c) of Pub. L. 86–778, set out as a note under section 411 of Title 42.
 
 #### Effective Date of 1958 Amendment
 
-Section 403(b) of Pub. L. 85–840, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 85–840, title IV, §403(b), Aug. 28, 1958, 72 Stat. 1044, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1) Except as provided in paragraph (2), the amendment made by subsection (a) \[amending this section\] shall apply only with respect to individuals who die after the date of the enactment of this Act \[Aug. 28, 1958\].
 
@@ -746,7 +744,7 @@ Section 403(b) of Pub. L. 85–840, as amended by Pub. L. 99–514, §2, Oct. 22
 
 #### Effective Date of 1957 Amendment
 
-Section 4 of Pub. L. 85–239, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 85–239, §4, Aug. 30, 1957, 71 Stat. 522, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(a) Section 3 \[set out below\], and the amendments made by the first section of this Act \[amending this section\], shall apply with respect to monthly insurance benefits under title II of the Social Security Act \[section 401 et seq. of Title 42, The Public Health and Welfare\], for months beginning after, and lump sum death payments under such title in the case of deaths occurring after, the date of the enactment of this Act \[Aug. 30, 1957\].
 
@@ -762,7 +760,7 @@ Section 4 of Pub. L. 85–239, as amended by Pub. L. 99–514, §2, Oct. 22, 198
 
 “(c) The preceding provisions of this section shall not render erroneous any monthly insurance benefits under title II of the Social Security Act \[section 401 et seq. of Title 42\] for the month in which this Act \[August 1957\] is enacted or any prior month.”
 
-Section 5(c) of Pub. L. 85–239 provided that: “The amendments made by this section \[amending this section and section 411 of Title 42\] shall, except for purposes of section 203 of the Social Security Act \[section 403 of title 42\], apply only with respect to taxable years ending on or after December 31, 1957. For purposes of section 203 of the Social Security Act \[section 403 of Title 42\] (other than subsection (a)), such amendments shall apply only with respect to taxable years beginning after the month in which this Act is enacted \[August 1957\]. For purposes of subsection (a) of such section 203, such amendments shall apply only with respect to taxable years of the insured individual ending on or after December 31, 1957.”
+Pub. L. 85–239, §5(c), Aug. 30, 1957, 71 Stat. 524, provided that: “The amendments made by this section \[amending this section and section 411 of Title 42\] shall, except for purposes of section 203 of the Social Security Act \[section 403 of title 42\], apply only with respect to taxable years ending on or after December 31, 1957. For purposes of section 203 of the Social Security Act \[section 403 of Title 42\] (other than subsection (a)), such amendments shall apply only with respect to taxable years beginning after the month in which this Act is enacted \[August 1957\]. For purposes of subsection (a) of such section 203, such amendments shall apply only with respect to taxable years of the insured individual ending on or after December 31, 1957.”
 
 #### Effective Date of 1956 Amendment
 
@@ -770,7 +768,7 @@ Amendment by section 201(e)(2), (f) of act Aug. 1, 1956, applicable with respect
 
 #### Effective Date of 1954 Amendment
 
-Section 201(d) of act Sept. 1, 1954, provided that: “The amendments made by subsections (a), (b) and (c) of this section \[amending this section\] shall be applicable only with respect to taxable years ending after 1954.”
+Act Sept. 1, 1954, ch. 1206, title II, §201(d), 68 Stat. 1089, provided that: “The amendments made by subsections (a), (b) and (c) of this section \[amending this section\] shall be applicable only with respect to taxable years ending after 1954.”
 
 #### Revocation by Members of the Clergy of Exemption From Social Security Coverage
 
@@ -786,7 +784,7 @@ Effective Date.—Subsection (a) shall apply with respect to service performed (
 
 #### Limited Exemption for Canadian Ministers From Certain Self-Employment Tax Liability
 
-Section 306 of Pub. L. 103–296 provided that:
+Pub. L. 103–296, title III, §306, Aug. 15, 1994, 108 Stat. 1521, provided that:
 
 “(a)
 
@@ -810,7 +808,7 @@ Taxable Years Affected by Certificate.—A certificate referred to in subsection
 
 “(d)
 
-Restriction on Crediting of Exempt Self-Employment Income.—In any case in which an individual is exempt under this section from paying a tax imposed under section 1401 of the Internal Revenue Code of 1986, any income on which such tax would have been imposed but for such exemption shall not constitute self-employment income under section 211(b) of the Social Security Act (42 U.S.C. 411(b)), and, if such individual's primary insurance amount has been determined under section 215 of such Act (42 U.S.C. 415), notwithstanding section 215(f)(1) of such Act, the Secretary of Health and Human Services (prior to March 31, 1995) or the Commissioner of Social Security (after March 30, 1995) shall recompute such primary insurance amount so as to take into account the provisions of this subsection. The recomputation under this subsection shall be effective with respect to benefits for months following approval of the certificate of exemption.”
+Restriction on Crediting of Exempt Self-Employment Income.—In any case in which an individual is exempt under this section from paying a tax imposed under section 1401 of the Internal Revenue Code of 1986,any income on which such tax would have been imposed but for such exemption shall not constitute self-employment income under section 211(b) of the Social Security Act (42 U.S.C. 411(b)), and, if such individual's primary insurance amount has been determined under section 215 of such Act (42 U.S.C. 415), notwithstanding section 215(f)(1) of such Act, the Secretary of Health and Human Services (prior to March 31, 1995) or the Commissioner of Social Security (after March 30, 1995) shall recompute such primary insurance amount so as to take into account the provisions of this subsection. The recomputation under this subsection shall be effective with respect to benefits for months following approval of the certificate of exemption.”
 
 #### Plan Amendments Not Required Until January 1, 1989
 
@@ -818,7 +816,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Revocation of Exemption From Coverage by Clergymen; Procedure, Applicability, Etc.
 
-Section 1704(b) of Pub. L. 99–514 provided that:
+Pub. L. 99–514, title XVII, §1704(b), Oct. 22, 1986, 100 Stat. 2779, provided that:
 
 “(1)
 
@@ -834,7 +832,7 @@ In general.—Notwithstanding section 1402(e)(3) of the Internal Revenue Code of
 
 Effective date.—Paragraph (1) of this subsection shall apply with respect to service performed (to the extent specified in such paragraph) in taxable years ending on or after the date of the enactment of this Act \[Oct. 22, 1986\] and with respect to monthly insurance benefits payable under title II of the Social Security Act \[42 U.S.C. 401 et seq.\] on the basis of the wages and self-employment income of any individual for months in or after the calendar year in which such individual's application for revocation (as described in such paragraph) is effective (and lump-sum death payments payable under such title on the basis of such wages and self-employment income in the case of deaths occurring in or after such calendar year).”
 
-Section 316 of Pub. L. 95–216, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 95–216, title III, §316, Dec. 20, 1977, 91 Stat. 1537, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(a) Notwithstanding section 1402(e)(3) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], any exemption which has been received under section 1402(e)(1) of such Code, by a duly ordained, commissioned, or licensed minister of a church or a Christian Science practitioner, and which is effective for the taxable year in which this Act \[Pub. L. 95–216, enacted Dec. 20, 1977\] is enacted, may be revoked by filing an application therefor (in such form and manner, and with such official, as may be prescribed in regulations made under chapter 2 of such Code \[this chapter\]), if such application is filed—
 
@@ -848,37 +846,35 @@ Section 316 of Pub. L. 95–216, as amended by Pub. L. 99–514, §2, Oct. 22, 1
 
 #### Election of Exemption of Fees From Coverages Self-Employment Income
 
-Section 122(c)(2) of Pub. L. 90–248 authorized any individual affected by the amendments made by Pub. L. 90–248 to subsecs. (c)(1), (2)(E) of this section and section 411(c)(1), (2)(E) of Title 42, The Public Health and Welfare, to make an irrevocable election not to have such amendments apply to fees received in 1968 and every year thereafter if he filed, on or before the due date of his income tax return for 1968, with the Secretary of the Treasury, a certificate of election of exemption from such amendments.
+Pub. L. 90–248, title I, §122(c)(2), Jan. 2, 1968, 81 Stat. 844, authorized any individual affected by the amendments made by Pub. L. 90–248 to subsecs. (c)(1), (2)(E) ofthis section and section 411(c)(1), (2)(E) of Title 42, The Public Health and Welfare, to make an irrevocable election not to have such amendments apply to fees received in 1968 and every year thereafter if he filed, on or before the due date of his income tax return for 1968, with the Secretary of the Treasury, a certificate of election of exemption from such amendments.
 
 #### Time for Claim for Refund or Credit of Overpayment; Disallowance of Interest
 
-Section 501(c) of Pub. L. 90–248 authorized the payment of a refund or credit of any overpayment resulting from the amendment of subsec. (h)(2), relating to the filing of applications under this section, by section 501(a) of Pub. L. 90–248 if the claim therefore was filed on or before Dec. 31, 1968.
+Pub. L. 90–248, title V, §501(c), Jan. 2, 1968, 81 Stat. 933, authorized the payment of a refund or credit of any overpayment resulting from the amendment of subsec. (h)(2), relating to the filing of applications under this section, by section 501(a) of Pub. L. 90–248 if the claim therefore was filed on or before Dec. 31, 1968.
 
 #### Refund or Credit on Claims for Overpayment Filed Before April 15, 1966, by Members of Religious Groups Opposed to Insurance
 
-Section 319(f) of Pub. L. 89–97 authorized the payment of a refund or credit of any overpayment resulting from the amendments made to sections 402, 411, and 1402 of this title by Pub. L. 89–97, if the claim therefore is filed on or before Apr. 15, 1966.
+Pub. L. 89–97, title III, §319(f), July 30, 1965, 79 Stat. 392, authorized the payment of a refund or credit of any overpayment resulting from the amendments made to sections 402, 411, and 1402 of this title by Pub. L. 89–97, if the claim therefore is filed on or before Apr. 15, 1966.
 
 #### Computation of Interest or Assessment of Penalties on Self-Employment Taxes Payable by Ministers, Members of Religious Orders, and Christian Science Practitioners
 
-Section 331(b) of Pub. L. 89–97 established, for purposes of computing interest, Apr. 15, 1967, as the due date for the payment, under section 1401 of this title, of taxes due for any taxable year ending before Jan. 1, 1966 solely by reason of the filing of a certificate or supplementary certificate under subsec. (e)(5) of this section, which was struck out by section 115(b)(2) of Pub. L. 90–248.
+Pub. L. 89–97, title III, §331(b), July 30, 1965, 79 Stat. 402, established, for purposes of computing interest, Apr. 15, 1967, as the due date for the payment, under section 1401 of this title, of taxes due for any taxable year ending before Jan. 1, 1966 solely by reason of the filing of a certificate or supplementary certificate under subsec. (e)(5) of this section, which was struck out by section 115(b)(2) of Pub. L. 90–248.
 
-#### Computation of Interest or Assessment of Penalties on Self-Employment Taxes Payable by Ministers, Members of Religious Orders, and Christian Science Practitioners
+Pub. L. 86–778, title I, §101(d), Sept. 13, 1960, 74 Stat. 927, established, for purposes of computing interest, Apr. 15, 1962, as the due date for the payment, under section 1401 of this title, of taxes due for any taxable year ending before 1959 solely by reason of the filing of a certificate or supplementary certificate under subsec. (e)(3)(B) or (5) of this section.
 
-Section 101(d) of Pub. L. 86–778 established, for purposes of computing interest, Apr. 15, 1962, as the due date for the payment, under section 1401 of this title, of taxes due for any taxable year ending before 1959 solely by reason of the filing of a certificate or supplementary certificate under subsec. (e)(3)(B) or (5) of this section.
-
-Section 1(c) of Pub. L. 85–239 established the due date, for purposes of computing interest, for the payment of taxes, where a certificate had been filed under subsec. (e)(3)(A) or (B) of this section after the due date of a return for any taxable year.
+Pub. L. 85–239, §1(c), Aug. 30, 1957, 71 Stat. 521, established the due date, for purposes of computing interest, for the payment of taxes, where a certificate had been filed under subsec. (e)(3)(A) or (B) of this section after the due date of a return for any taxable year.
 
 #### Remuneration Deemed Net Earnings From Self-Employment and not Remuneration for Employment
 
-Section 105(c)(2) of Pub. L. 86–778, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Remuneration which is deemed under section 1402(g) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] to constitute net earnings from self-employment and not remuneration for employment shall also be deemed, for purposes of title II of the Social Security Act \[section 401 et seq. of Title 42, The Public Health and Welfare\], to constitute net earnings from self-employment and not remuneration for employment. If, pursuant to the last sentence of section 1402(g) of the Internal Revenue Code of 1986, an individual is deemed to have become an employee of an organization (or to have become a member of a group) on the first day of a calendar quarter, such individual shall likewise be deemed, for purposes of clause (ii) or (iii) of section 210(a)(8)(B) of the Social Security Act \[section 410(a)(18)(B)(ii), (iii) of Title 42\], to have become an employee of such organization (or to have become a member of such group) on such day.”
+Pub. L. 86–778, title I, §105(c)(2), Sept. 13, 1960, 74 Stat. 945, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Remuneration which is deemed under section 1402(g) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] to constitute net earnings from self-employment and not remuneration for employment shall also be deemed, for purposes of title II of the Social Security Act \[section 401 et seq. of Title 42, The Public Health and Welfare\], to constitute net earnings from self-employment and not remuneration for employment. If, pursuant to the last sentence of section 1402(g) of the Internal Revenue Code of 1986, an individual is deemed to have become an employee of an organization (or to have become a member of a group) on the first day of a calendar quarter, such individual shall likewise be deemed, for purposes of clause (ii) or (iii) of section 210(a)(8)(B) of the Social Security Act \[section 410(a)(18)(B)(ii), (iii) of Title 42\], to have become an employee of such organization (or to have become a member of such group) on such day.”
 
 #### Remuneration Paid to Ministers, Members of Religious Orders, and Christian Science Practitioners in 1955 and 1956 Deemed Remuneration for Employment for Purposes of Social Security Benefits
 
-Section 3 of Pub. L. 85–239, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Remuneration which is deemed under section 1402(e)(4) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] to constitute remuneration for employment shall also be deemed, notwithstanding sections 210(a)(8)(A) and 211(c) of the Social Security Act \[sections 410(a)(8)(A) and 411(c) of Title 42, The Public Health and Welfare\], to constitute remuneration for employment (and not net earnings from self-employment) for purposes of title II of such Act \[section 401 et seq. of Title 42\].” See section 4 of Pub. L. 85–239, set out as an Effective Date of 1957 Amendment note above.
+Pub. L. 85–239, §3, Aug. 30, 1957, 71 Stat. 522, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Remuneration which is deemed under section 1402(e)(4) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] to constitute remuneration for employment shall also be deemed, notwithstanding sections 210(a)(8)(A) and 211(c) of the Social Security Act \[sections 410(a)(8)(A) and 411(c) of Title 42, The Public Health and Welfare\], to constitute remuneration for employment (and not net earnings from self-employment) for purposes of title II of such Act \[section 401 et seq. of Title 42\].” See section 4 of Pub. L. 85–239, set out as an Effective Date of 1957 Amendment note above.
 
 #### Monthly Benefits and Lump-Sum Death Payments Under Social Security Act
 
-Section 105(d)(2) of Pub. L. 86–778, set out as an Effective Date of 1960 Amendment note under section 3121 of this title, provided that no monthly benefits under title II of the Social Security Act \[section 401 et seq. of Title 42, The Public Health and Welfare\], for September 1960 or any prior month shall be payable or increased by reason of the provisions of subsections (b) and (c) of section 105 or the amendments made by such subsections \[adding subsec. (g) to this section and enacting notes under this section and section 3121 of this title\], and no lump-sum death payment under title II of the Social Security Act shall be payable or increased by reason of such provisions or amendments in the case of any individual who died prior to Sept. 13, 1960.
+Pub. L. 86–778, title I, §105(d)(2), Sept. 13, 1960, 74 Stat. 945, set out as an Effective Date of 1960 Amendment note under section 3121 of this title, provided that no monthly benefits under title II of the Social Security Act \[section 401 et seq. of Title 42, The Public Health and Welfare\], for September 1960 or any prior month shall be payable or increased by reason of the provisions of subsections (b) and (c) of section 105 or the amendments made by such subsections \[adding subsec. (g) to this section and enacting notes under this section and section 3121 of this title\], and no lump-sum death payment under title II of the Social Security Act shall be payable or increased by reason of such provisions or amendments in the case of any individual who died prior to Sept. 13, 1960.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

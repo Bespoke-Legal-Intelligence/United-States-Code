@@ -18,5 +18,5 @@ Subsec. (b). Pub. L. 102–83, §5(c)(1), substituted “3485” for “1685”.
 
 #### Effective Date
 
-Section 406(b) of Pub. L. 101–237 provided that: “The amendments made by this section \[enacting this section\] shall take effect on May 1, 1990.”
+Pub. L. 101–237, title IV, §406(b), Dec. 18, 1989, 103 Stat. 2082, provided that: “The amendments made by this section \[enacting this section\] shall take effect on May 1, 1990.”
 

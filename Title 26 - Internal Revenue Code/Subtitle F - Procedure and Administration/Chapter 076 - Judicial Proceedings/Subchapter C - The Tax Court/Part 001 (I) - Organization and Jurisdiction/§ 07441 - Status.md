@@ -10,7 +10,7 @@ There is hereby established, under article I of the Constitution of the United S
 
 #### Effective Date of 1969 Amendment
 
-Section 962(a) of Pub. L. 91–172 provided that: “The amendments made by sections 951, 953, 954(c) and (e), 955, 956, 958, and 960(c), (d), (e), (g), and (j) \[amending this section and sections 7443, 7447, 7448, 7456, 7471, and 7701 of this title\] shall take effect on the date of enactment of this Act \[Dec. 30, 1969\].”
+Pub. L. 91–172, title IX, §962(a), Dec. 30, 1969, 83 Stat. 736, provided that: “The amendments made by sections 951, 953, 954(c) and (e), 955, 956, 958, and 960(c), (d), (e), (g), and (j) \[amending this section and sections 7443, 7447, 7448, 7456, 7471, and 7701 of this title\] shall take effect on the date of enactment of this Act \[Dec. 30, 1969\].”
 
 #### Report on Inventory of Cases in Tax Court
 
@@ -18,5 +18,5 @@ Pub. L. 99–514, title XV, §1552(c), Oct. 22, 1986, 100 Stat. 2753, provided t
 
 #### Continuation of Status
 
-Section 961 of Pub. L. 91–172 provided that: “The United States Tax Court established under the amendment made by section 951 \[amending this section\] is a continuation of the Tax Court of the United States as it existed prior to the date of enactment of this Act \[Dec. 30, 1969\], the judges of the Tax Court of the United States immediately prior to the date of enactment of this Act \[Dec. 30, 1969\] shall become the judges of the United States Tax Court upon the enactment of this Act, and no loss of rights or powers, interruption of jurisdiction, or prejudice to matters pending in the Tax Court of the United States before the date of enactment of this Act \[Dec. 30, 1969\] shall result from the enactment of this Act.”
+Pub. L. 91–172, title IX, §961, Dec. 30, 1969, 83 Stat. 735, provided that: “The United States Tax Court established under the amendment made by section 951 \[amending this section\] is a continuation of the Tax Court of the United States as it existed prior to the date of enactment of this Act \[Dec. 30, 1969\], the judges of the Tax Court of the United States immediately prior to the date of enactment of this Act \[Dec. 30, 1969\] shall become the judges of the United States Tax Court upon the enactment of this Act, and no loss of rights or powers, interruption of jurisdiction, or prejudice to matters pending in the Tax Court of the United States before the date of enactment of this Act \[Dec. 30, 1969\] shall result from the enactment of this Act.”
 

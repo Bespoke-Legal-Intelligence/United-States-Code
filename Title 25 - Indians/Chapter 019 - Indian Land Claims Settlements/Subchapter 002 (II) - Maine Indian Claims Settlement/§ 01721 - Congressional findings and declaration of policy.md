@@ -12,7 +12,7 @@ Congress hereby finds and declares that:
 
 &emsp;(4) The Passamaquoddy Tribe, as represented as of the time of passage of this subchapter by the Joint Tribal Council of the Passamaquoddy Tribe, is the sole successor in interest to the aboriginal entity generally known as the Passamaquoddy Tribe which years ago claimed aboriginal title to certain lands in the State of Maine.
 
-&emsp;(5) The Houlton Band of Maliseet Indians, as represented as of the time of passage of this subchapter by the Houlton Band Council, is the sole successor in interest, as to lands within the United States, to the aboriginal entity generally known as the Maliseet Tribe which years ago claimed aboriginal title to certain lands in the State of Maine.
+&emsp;(5) The Houlton Band of Maliseet Indians, as represented as of the time of passage of this subchapter by the Houlton Band Council, is the sole successor in interest, as to lands within the United States, to the aboriginal entity generally known as the Maliseet Tribe whichyears ago claimed aboriginal title to certain lands in the State of Maine.
 
 &emsp;(6) Substantial economic and social hardship to a large number of landowners, citizens, and communities in the State of Maine, and therefore to the economy of the State of Maine as a whole, will result if the aforementioned claims are not resolved promptly.
 
@@ -42,7 +42,7 @@ The Trade and Intercourse Act of 1790 (1 Stat. 137), referred to in subsec. (a)(
 
 #### Short Title
 
-Section 1 of Pub. L. 96–420 provided: “That this Act \[enacting this subchapter\] may be cited as the ‘Maine Indian Claims Settlement Act of 1980’.”
+Pub. L. 96–420, §1, Oct. 10, 1980, 94 Stat. 1785, provided: “That this Act \[enacting this subchapter\] may be cited as the ‘Maine Indian Claims Settlement Act of 1980’.”
 
 #### Aroostook Band of Micmacs Settlement
 
@@ -86,7 +86,7 @@ Purpose.—It is the purpose of this Act to—
 
 “For the purposes of this Act:
 
-&emsp;“(1) The term ‘Band’ means the Aroostook Band of Micmacs, the sole successor to the Micmac Nation as constituted in aboriginal times in what is now the State of Maine, and all its predecessors and successors in interest. The Aroostook Band of Micmacs is represented, as of the date of enactment of this Act \[Nov. 26, 1991\], as to lands within the United States, by the Aroostook Micmac Council.
+&emsp;“(1) The term ‘Band’ means the Aroostook Band of Micmacs, the sole successor to the Micmac Nation as constituted in aboriginal times in what is now the State of Maine, and all its predecessors and successors in interest. The Aroostook Band of Micmacs isrepresented, as of the date of enactment of this Act \[Nov. 26, 1991\], as to lands within the United States, by the Aroostook Micmac Council.
 
 &emsp;“(2) The term ‘Band Tax Fund’ means the fund established under section 4(b) of this Act.
 
@@ -98,7 +98,7 @@ Purpose.—It is the purpose of this Act to—
 
 &emsp;“(6) The term ‘laws of the State’ means the constitution, and all statutes, regulations, and common laws of the State of Maine and its political subdivisions and all subsequent amendments thereto or judicial interpretations thereof.
 
-&emsp;“(7) The term ‘Maine Implementing Act’ means the Act entitled ‘Act to Implement the Maine IndianClaims Settlement’ that was enacted by the State of Maine in chapter 732 of the Maine Public Laws of 1979, as amended by chapter 675 of the Maine Public Laws of 1981 and chapter 672 of the Maine Public Laws of 1985, and all subsequent amendments thereto.
+&emsp;“(7) The term ‘Maine Implementing Act’ means the Act entitled ‘Act to Implement the Maine Indian Claims Settlement’ that was enacted by the State of Maine in chapter 732 of the Maine Public Laws of 1979, as amended by chapter 675 of the Maine Public Laws of 1981 and chapter 672 of the Maine Public Laws of 1985, and all subsequent amendments thereto.
 
 &emsp;“(8) The term ‘Micmac Settlement Act’ means the Act entitled ‘Act to implement the Aroostook Band of Micmacs Settlement Act’ that was enacted by the State of Maine in chapter 148 of the Maine Public Laws of 1989, and all subsequent amendments thereto.
 
@@ -178,7 +178,7 @@ Alienation.—(1) Land or natural resources acquired with funds expended under t
 
 “(c)
 
-Condemnation by State of Maine and Political Subdivisions Thereof.—(1) Land or natural resources acquired with funds expended under the authority of subsection (a) and held in trust for the benefit of the Band may be condemned for public purposes by the State of Maine, or any political subdivision thereof, only upon such terms and conditions as shall be agreed upon in writing between the State and such Band after the date of enactment of this Act \[Nov. 26, 1991\].
+Condemnation by State of Maine and Political Subdivisions Thereof.—(1) Land or natural resources acquired with funds expended under the authority of subsection (a) and held in trust for the benefit of the Band may be condemned for public purposes by the State of Maine, or any political subdivision thereof, only upon such terms and conditions as shall be agreedupon in writing between the State and such Band after the date of enactment of this Act \[Nov. 26, 1991\].
 
 “(2) The consent of the United States is hereby given to the State of Maine to further amend the Micmac Settlement Act for the purpose of embodying the agreement described in paragraph (1).
 
@@ -192,7 +192,7 @@ Acquisition.—(1) Lands and natural resources may be acquired by the Secretary 
 
 “(2)(A) No land or natural resources may be acquired by the Secretary for the Band until the Secretary files with the Secretary of State of the State of Maine a certified copy of the deed, contract, or other conveyance setting forth the location and boundaries of the land or natural resources to be acquired.
 
-“(B) For purposes of subparagraph (A), a filing with the Secretary of State of the State of Maine may bemade by mail and, if such method of filing is used, shall be considered to be completed on the date on which the document is properly mailed to the Secretary of State of the State of Maine.
+“(B) For purposes of subparagraph (A), a filing with the Secretary of State of the State of Maine may be made by mail and, if such method of filing is used, shall be considered to be completed on the date on which the document is properly mailed to the Secretary of State of the State of Maine.
 
 “(3) Notwithstanding the provisions of the first section of the Act of August 1, 1888 (40 U.S.C. 257) \[now 40 U.S.C. 3113\] and the first section of the Act of February 26, 1931 (40 U.S.C. 258a) \[now 40 U.S.C. 3114(a)–(d)\], the Secretary may acquire land or natural resources under this section from the ostensible owner of the land or natural resources only if the Secretary and the ostensible owner of the land or natural resources have agreed upon the identity of the land or natural resources to be sold and upon the purchase price and other terms of sale. Subject to the agreement required by the preceding sentence, the Secretary may institute condemnation proceedings in order to perfect title, satisfactory to the Attorney General of the United States, in the United States and condemn interests adverse to the ostensible owner.
 
@@ -244,7 +244,7 @@ State of Maine.—No payments to be made for the benefit of the Band pursuant to
 
 Band and Members of the Band.—(1) The eligibility for, or receipt of, payments from the State of Maine by the Band or any of its members shall not be considered by any department or agency of the United States in determining the eligibility of, or computing payments to, the Band or any of the members of the Band under any Federal financial aid program.
 
-“(2) To the extent that eligibility for the benefits of any Federal financial aid program is dependent upon a showing of need by the applicant, the administering agency shall not be barred by this subsection from considering the actual financial situation of the applicant.
+“(2) To the extent that eligibility for the benefits of any Federal financial aid program is dependent upon ashowing of need by the applicant, the administering agency shall not be barred by this subsection from considering the actual financial situation of the applicant.
 
 #### “SEC. 10. AUTHORIZATION OF APPROPRIATIONS.
 

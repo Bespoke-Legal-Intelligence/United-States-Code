@@ -28,7 +28,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In the case of a transfer of stock in a foreign corporation described in subparagraph (B) by a donor to whom section 877(b) applies for the taxable year which includes the date of the transfer—
+&emsp;&emsp;In the case of a transfer of stock in a foreign corporation described in subparagraph (B) by a donor to whom section 877(b) appliesfor the taxable year which includes the date of the transfer—
 
 &emsp;&emsp;&emsp;(i) section 2511(a) shall be applied without regard to whether such stock is situated within the United States, and
 
@@ -60,7 +60,7 @@ A donor who is a citizen of the United States and a resident of a possession the
 
 #### (c) Certain residents of possessions considered nonresidents not citizens of the United States
 
-A donor who is a citizen of the United States and a resident of a possession thereof shall, forpurposes of the tax imposed by this chapter, be considered a “nonresident not a citizen of the United States” within the meaning of that term wherever used in this title, but only if such donor acquired his United States citizenship solely by reason of (1) his being a citizen of such possession of the United States, or (2) his birth or residence within such possession of the United States.
+A donor who is a citizen of the United States and a resident of a possession thereof shall, for purposes of the tax imposed by this chapter, be considered a “nonresident not a citizen of the United States” within the meaning of that term wherever used in this title, but only if such donor acquired his United States citizenship solely by reason of (1) his being a citizen of such possession of the United States, or (2) his birth or residence within such possession of the United States.
 
 #### (d) Cross references
 
@@ -132,27 +132,27 @@ Amendment by Pub. L. 100–647 applicable in cases where transfer referred to in
 
 #### Effective Date of 1981 Amendment
 
-Section 442(e) of Pub. L. 97–34 provided that: “The amendments made by this section \[amending this section and sections 1015, 2502, 2503, 2504, 2505, 2512, 2513, 2522, 6019, 6075, and 6212 of this title\] shall apply with respect to gifts made after December 31, 1981.”
+Pub. L. 97–34, title IV, §442(e), Aug. 13, 1981, 95 Stat. 323, provided that: “The amendments made by this section \[amending this section and sections 1015, 2502, 2503, 2504, 2505, 2512, 2513, 2522, 6019, 6075, and 6212 of this title\] shall apply with respect to gifts made after December 31, 1981.”
 
 #### Effective Date of 1976 Amendment
 
-Section 1902(c)(2) of Pub. L. 94–455, as amended by Pub. L. 95–600, title VII, §703(j)(12), Nov. 6, 1978, 92 Stat. 2942, provided that: “The amendments made by paragraphs (10), (11), and (12)(D) and (E) of subsection (a) \[amending this section and sections 2522 and 2523 of this title\] shall apply with respect to gifts made after December 31, 1976.”
+Pub. L. 94–455, title XIX, §1902(c)(2), Oct. 4, 1976, 90 Stat. 1806, as amended by Pub. L. 95–600, title VII, §703(j)(12), Nov. 6, 1978, 92 Stat. 2942, provided that: “The amendments made by paragraphs (10), (11), and (12)(D) and (E) of subsection (a) \[amending this section and sections 2522 and 2523 of this title\] shall apply with respect to gifts made after December 31, 1976.”
 
 #### Effective Date of 1975 Amendment
 
-Section 14(b) of Pub. L. 93–625 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to transfers made after May 7, 1974.”
+Pub. L. 93–625, §14(b), Jan. 3, 1975, 88 Stat. 2121, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to transfers made after May 7, 1974.”
 
 #### Effective Date of 1970 Amendment
 
-Section 102(e) of Pub. L. 91–614 provided that: “The amendments made by this section \[amending this section and sections 1015, 2012, 2502, 2503, 2504, 2512, 2513, 2515, 2521, 2522, 2523, 6019, 6075, 6212, 6214, 6324, 6501, and 6512 of this title and enacting provisions set out as a note under this section\] shall apply with respect to gifts made after December 31, 1970.”
+Pub. L. 91–614, title I, §102(e), Dec. 31, 1970, 84 Stat. 1842, provided that: “The amendments made by this section \[amending this section and sections 1015, 2012, 2502, 2503, 2504, 2512, 2513, 2515, 2521, 2522, 2523, 6019, 6075, 6212, 6214, 6324, 6501, and 6512 of this title and enacting provisions set out as a note under this section\] shall apply with respect to gifts made after December 31, 1970.”
 
 #### Effective Date of 1966 Amendment
 
-Section 109(c) of Pub. L. 89–809 provided that: “The amendments made by this section \[amending this section and section 2511 of this title\] shall apply with respect to the calendar year 1967 and all calendar years thereafter.”
+Pub. L. 89–809, title I, §109(c), Nov. 13, 1966, 80 Stat. 1575, provided that: “The amendments made by this section \[amending this section and section 2511 of this title\] shall apply with respect to the calendar year 1967 and all calendar years thereafter.”
 
 #### Effective Date of 1960 Amendment
 
-Section 4(e)(3) of Pub. L. 86–779 provided that: “The amendments made by subsection (d) \[amending this section\] shall apply with respect to gifts made after the date of the enactment of this Act \[Sept. 14, 1960\].”
+Pub. L. 86–779, §4(e)(3), Sept. 14, 1960, 74 Stat. 1000, provided that: “The amendments made by subsection (d) \[amending this section\] shall apply with respect to gifts made after the date of the enactment of this Act \[Sept. 14, 1960\].”
 
 #### Effective Date of 1958 Amendment
 

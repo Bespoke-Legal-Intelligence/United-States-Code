@@ -20,7 +20,7 @@ As used in this subchapter:
 
 #### (4) Associate degree school of nursing
 
-&emsp;The term “associate degree school of nursing” means a department, division, or otheradministrative unit in a junior college, community college, college, or university which provides primarily or exclusively a two-year program of education in professional nursing and allied subjects leading to an associate degree in nursing or to an equivalent degree, but only if such program, or such unit, college, or university is accredited.
+&emsp;The term “associate degree school of nursing” means a department, division, or other administrative unit in a junior college, community college, college, or university which provides primarily or exclusively a two-year program of education in professional nursing and allied subjects leading to an associate degree in nursing or to an equivalent degree, but only if such program, or such unit, college, or university is accredited.
 
 #### (5) Diploma school of nursing
 
@@ -58,7 +58,7 @@ As used in this subchapter:
 
 #### (12) Home health agency
 
-&emsp;The term “home health agency” has the meaning given such term in section 1861(<i>o</i>) of the Social Security Act \[42 U.S.C. 1395x(<i>o</i>)\].
+&emsp;The term “home health agency” has the meaning given such term in section 1861(o) of the Social Security Act \[42 U.S.C. 1395x(o)\].
 
 #### (13) Hospice program
 
@@ -134,7 +134,7 @@ Section 951 of Pub. L. 94–63, as amended by Pub. L. 95–623, §12(h), Nov. 9,
 
 &emsp;“(A) the supply (both current and projected and within the United States and within each State) of registered nurses, licensed practical and vocational nurses, nurse's aides, registered nurses with advanced training or graduate degrees, and nurse practitioners;
 
-&emsp;“(B) the distribution within the United States and within each State, of such nurses so as to determine (i) those areas of the United States which are oversupplied or undersupplied, or which have an adequate supply of such nurses in relation to the population of the area, and (ii) the demand for the services which such nurses provide; and
+&emsp;“(B) the distribution within the United States and within each State, of such nurses so as to determine\(i) those areas of the United States which are oversupplied or undersupplied, or which have an adequate supply of such nurses in relation to the population of the area, and (ii) the demand for the services which such nurses provide; and
 
 &emsp;“(C) the current and future requirements for such nurses, nationally and within each State.
 

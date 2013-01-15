@@ -6,7 +6,7 @@ Section, Pub. L. 93–618, title II, §287, as added Pub. L. 100–418, title I,
 
 #### Effective Date
 
-Section 1430 of Pub. L. 100–418, as amended by Pub. L. 100–647, title IX, §9001(a)(21), Nov. 10, 1988, 102 Stat. 3808, provided that:
+Pub. L. 100–418, title I, §1430, Aug. 23, 1988, 102 Stat. 1256, as amended by Pub. L. 100–647, title IX, §9001(a)(21), Nov. 10, 1988, 102 Stat. 3808, provided that:
 
 “(a)
 
@@ -54,7 +54,7 @@ Limitation on Period for Which Trade Readjustment Allowances May Be Made.—The 
 
 #### Imposition of Small Uniform Fee on All Imports
 
-Section 1428(a) of Pub. L. 100–418 provided that:
+Pub. L. 100–418, title I, §1428(a), Aug. 23, 1988, 102 Stat. 1254, provided that:
 
 “(1) The President shall—
 

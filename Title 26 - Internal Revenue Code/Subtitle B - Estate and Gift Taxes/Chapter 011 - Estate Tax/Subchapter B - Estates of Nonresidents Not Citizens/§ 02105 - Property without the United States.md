@@ -86,7 +86,7 @@ Amendment by Pub. L. 108–357 applicable to estates of decedents dying after De
 
 #### Effective Date of 1997 Amendment
 
-Section 1304(b) of Pub. L. 105–34 provided that: “The amendment made by this section \[amending this section\] shall apply to estates of decedents dying after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title XIII, §1304(b), Aug. 5, 1997, 111 Stat. 1040, provided that: “The amendment made by this section \[amending this section\] shall apply to estates of decedents dying after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 #### Effective Date of 1993 Amendment
 

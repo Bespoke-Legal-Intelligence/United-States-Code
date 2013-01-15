@@ -26,7 +26,7 @@ No gain or loss shall be recognized to the liquidating corporation on the distri
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subparagraph (A) shall not apply to any distribution of property to an organization described in section 511(a)(2) if, immediately after such distribution, such organization uses such property in an activity the income from which is subject to tax under section 511(a).
+&emsp;&emsp;&emsp;Subparagraph (A) shall not apply to any distribution of property to an organizationdescribed in section 511(a)(2) if, immediately after such distribution, such organization uses such property in an activity the income from which is subject to tax under section 511(a).
 
 #### (ii) Later disposition or change in use
 
@@ -66,7 +66,7 @@ Subsec. (d). Pub. L. 100–647, §1006(e)(5)(A), in introductory provisions, sub
 
 #### Effective Date of 1988 Amendment
 
-Section 1006(e)(5)(B) of Pub. L. 100–647 provided that: “The amendment made by subparagraph (A)(ii) \[amending this section\] shall not apply to any reorganization if before June 10, 1987—
+Pub. L. 100–647, title I, §1006(e)(5)(B), Nov. 10, 1988, 102 Stat. 3401, provided that: “The amendment made by subparagraph (A)(ii) \[amending this section\] shall not apply to any reorganization if before June 10, 1987—
 
 &emsp;“(i) the board of directors of a party to the reorganization adopted a resolution to solicit shareholder approval for the transaction, or
 

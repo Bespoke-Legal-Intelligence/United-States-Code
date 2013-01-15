@@ -52,7 +52,7 @@ Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31
 
 Amendment by section 803(d)(1) of Pub. L. 91–172 applicable to taxable years beginning after Dec. 31, 1969, see section 803(f) of Pub. L. 91–172, set out as a note under section 1 of this title.
 
-Section 942(b) of Pub. L. 91–172 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1969.”
+Pub. L. 91–172, title IX, §942(b), Dec. 30, 1969, 83 Stat. 727, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1969.”
 
 #### Effective Date of 1964 Amendment
 

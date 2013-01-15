@@ -110,7 +110,7 @@ In this chapter (other than subchapter III):
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this title”, meaning title I of Pub. L. 110–246, June 18, 2008, 122 Stat. 1664, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
+This chapter, referred to in text, was in the original “this title”, meaning title I of Pub. L. 110–246, June 18,2008, 122 Stat. 1664, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
 
 #### Codification
 

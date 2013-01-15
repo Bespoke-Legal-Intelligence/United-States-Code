@@ -20,7 +20,7 @@
 
 (d) When the assets, liabilities, and membership of employee organizations sponsoring or underwriting plans approved under section 8903(3) or 8903a of this title are merged, the assets (including contingency reserves) and liabilities of the plans sponsored or underwritten by the merged organizations shall be transferred at the beginning of the contract term next following the date of the merger to the plan sponsored or underwritten by the successor organization. Each employee, annuitant, former spouse, or person having continued coverage under section 8905a of this title affected by a merger shall be transferred to the plan sponsored or underwritten by the successor organization unless he enrolls in another plan under this chapter. If the successor organization is an organization described in section 8901(8)(B) of this title, any employee, annuitant, former spouse, or person having continued coverage under section 8905a of this title so transferred may not remain enrolled in the plan after the end of the contract term in which the merger occurs unless that individual is a full member of such organization (as determined under section 8903a(d) of this title).
 
-(e)(1) Except as provided by subsection (d) of this section, when a plan described by section 8903(3) or (4) or 8903a of this title is discontinued under this chapter, the contingency reserve of that plan shall be credited to the contingency reserves of the plans continuing under this chapter for the contract term following that in which termination occurs, each reserve to be credited in proportion to the amount of the subscription charges paid and accrued to the plan for the year of termination.
+(e)(1) Except as provided by subsection (d) of this section, when a plan described by section 8903(3) or (4) or 8903a of this title is discontinued under this chapter, the contingency reserve ofthat plan shall be credited to the contingency reserves of the plans continuing under this chapter for the contract term following that in which termination occurs, each reserve to be credited in proportion to the amount of the subscription charges paid and accrued to the plan for the year of termination.
 
 (2) Any crediting required under paragraph (1) pursuant to the discontinuation of any plan under this chapter shall be completed by the end of the second contract year beginning after such plan is so discontinued.
 
@@ -98,7 +98,7 @@ Amendment by Pub. L. 100–654 applicable with respect to any calendar year begi
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–615 effective May 7, 1985, with enumerated exceptions, and applicable to any individual who is married to an employee or annuitant on or after that date, see section 4(a)(2) of Pub. L. 98–615, as amended, set out as a note under section 8341 of this title.
+Amendment by Pub. L. 98–615 effective May 7, 1985, with enumerated exceptions, and applicable to any individual who is married to an employee or annuitant onor after that date, see section 4(a)(2) of Pub. L. 98–615, as amended, set out as a note under section 8341 of this title.
 
 #### Effective Date of 1978 Amendment
 
@@ -144,7 +144,7 @@ Pub. L. 99–272, title XV, §15202(a), Apr. 7, 1986, 100 Stat. 333, provided th
 
 #### Restrictions Relating to Amounts Refunded to Employees Health Benefits Fund From Carriers’ Special Reserves
 
-Section 112 of Pub. L. 99–251 provided that:
+Pub. L. 99–251, title I, §112, Feb. 27, 1986, 100 Stat. 19, provided that:
 
 “(a)
 

@@ -174,7 +174,7 @@ The Service shall develop methods for analyzing and evaluating the overall statu
 
 (6) Grants made pursuant to this section may be expended over a period of three years and no grant may exceed $1,000,000 for the fiscal years involved.
 
-#### (<i>l</i>) Licensing requirement for mental health care workers
+#### (l) Licensing requirement for mental health care workers
 
 Any person employed as a psychologist, social worker, or marriage and family therapist for the purpose of providing mental health care services to Indians in a clinical setting under the authority of this chapter or through a contract pursuant to the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\] shall—
 
@@ -206,7 +206,7 @@ Any person employed as a psychologist, social worker, or marriage and family the
 
 &emsp;(D) to make renovations and hire appropriate staff to convert existing hospital beds into adolescent psychiatric units.
 
-(3) Funds provided under this subsection may not be used for the purposes described in section 1621<i>o</i>(b)(1) of this title.
+(3) Funds provided under this subsection may not be used for the purposes described in section 1621o(b)(1) of this title.
 
 (4) An Indian tribe or tribal organization receiving a grant under this subsection shall ensure that intermediate adolescent mental health services are coordinated with other tribal, Service, and Bureau of Indian Affairs mental health, alcohol and substance abuse, and social services programs on the reservation of such tribe or tribal organization.
 
@@ -218,11 +218,11 @@ Any person employed as a psychologist, social worker, or marriage and family the
 
 The Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986, referred to in subsec. (b)(6)(A), is subtitle C of title IV of Pub. L. 99–570, Oct. 27, 1986, 100 Stat. 3207–137, as amended, which is classified generally to chapter 26 (§2401 et seq.) of this title. For complete classification of subtitle C to the Code, see Short Title note set out under section 2401 of this title and Tables.
 
-This chapter, referred to in subsecs. (b)(6)(A) and (<i>l</i>), was in the original “this Act”, meaning Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, known as the Indian Health Care Improvement Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
+This chapter, referred to in subsecs. (b)(6)(A) and (l), was in the original “this Act”, meaning Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, known as the Indian Health Care Improvement Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 
 The Indian Self-Determination and Education Assistance Act, referred to in subsec. (d)(3)(A), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
-The Indian Self-Determination Act, referred to in subsecs. (k)(3) and (<i>l</i>), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+The Indian Self-Determination Act, referred to in subsecs. (k)(3) and (l), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
 #### Codification
 
@@ -254,13 +254,13 @@ Subsec. (i). Pub. L. 102–573, §§217(b)(4)(C), 902(3)(B), redesignated subsec
 
 Subsec. (j). Pub. L. 102–573, §§205(1), 902(3)(B), redesignated subsec. (k) as (j) and substituted “submit to the President, for inclusion in each report required to be transmitted to the Congress under section 1671 of this title, a report” for “submit to the Congress an annual report”. Former subsec. (j) redesignated (i).
 
-Subsec. (k). Pub. L. 102–573, §§217(b)(4)(E), 902(3)(B), redesignated subsec. (<i>l</i>) as (k), and in par. (6) substituted “section” for “subsection” in second sentence and struck out first sentence which authorized appropriations of $2,000,000 for fiscal year 1991 and $3,000,000 for fiscal year 1992 to carry out purposes of this subsec. Former subsec. (k) redesignated (j).
+Subsec. (k). Pub. L. 102–573, §§217(b)(4)(E), 902(3)(B), redesignated subsec. (l) as (k), and in par. (6) substituted “section” for “subsection” in second sentence and struck out first sentence which authorized appropriations of $2,000,000 for fiscal year 1991 and $3,000,000 for fiscal year 1992 to carry out purposes of this subsec. Former subsec. (k) redesignated (j).
 
-Subsecs. (<i>l</i>), (m). Pub. L. 102–573, §205(2), added subsecs. (<i>l</i>) and (m). Former subsec. (<i>l</i>) redesignated (k).
+Subsecs. (l), (m). Pub. L. 102–573, §205(2), added subsecs. (l) and (m). Former subsec. (l) redesignated (k).
 
 #### Statement of Purposes
 
-Section 503(a) of Pub. L. 101–630 provided that: “The purposes of this section \[enacting this section\] are to—
+Pub. L. 101–630, title V, §503(a), Nov. 28, 1990, 104 Stat. 4556, provided that: “The purposes of this section \[enacting this section\] are to—
 
 &emsp;“(1) authorize and direct the Indian Health Service to develop a comprehensive mental health prevention and treatment program;
 

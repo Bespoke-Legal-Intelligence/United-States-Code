@@ -2,7 +2,7 @@
 
 #### (a) Functions of Secretary and Department of the Interior
 
-There are hereby transferred to and vested in the Administrator all functions of the Secretary of the Interior, the Department of the Interior, and officers and components of that Department—
+There are hereby transferred to and vested in the Administrator all functions of the Secretary of the Interior, the Department of the Interior,and officers and components of that Department—
 
 &emsp;(1) as relate to or are utilized by the Office of Petroleum Allocation;
 

@@ -1,6 +1,6 @@
 ### §8902. Contracting authority
 
-(a) The Office of Personnel Management may contract with qualified carriers offering plans described by section 8903 or 8903a of this title, without regard to section 6101(b) to (d) of title 41 or other statute requiring competitive bidding. Each contract shall be for a uniform term of at least 1 year, but may be made automatically renewable from term to term in the absence of notice of termination by either party.
+(a) The Office of Personnel Management may contract with qualified carriers offering plans described by section 8903 or 8903a of this title, without regard to section 6101(b) to (d) of title 41 or other statute requiring competitive bidding. Each contract shall be for a uniform term of atleast 1 year, but may be made automatically renewable from term to term in the absence of notice of termination by either party.
 
 (b) To be eligible as a carrier for the plan described by section 8903(2) of this title, a company must be licensed to issue group health insurance in all the States and the District of Columbia.
 
@@ -30,7 +30,7 @@
 
 (3) The provisions of this subsection shall not apply to comprehensive medical plans as described in section 8903(4) of this title.
 
-(<i>l</i>) The Office shall contract under this chapter for a plan described in section 8903(4) of this title with any qualified health maintenance carrier which offers such a plan. For the purpose of this subsection, “qualified health maintenance carrier” means any qualified carrier which is a qualified health maintenance organization within the meaning of section 1310(d)(1) <sup>1</sup> of title XIII of the Public Health Service Act (42 U.S.C. 300c–9(d)).
+(l) The Office shall contract under this chapter for a plan described in section 8903(4) of this title with any qualified health maintenance carrier which offers such a plan. For the purpose of this subsection, “qualified health maintenance carrier” means any qualified carrier which is a qualified health maintenance organization within the meaning of section 1310(d)(1) <sup>1</sup> of title XIII of the Public Health Service Act (42 U.S.C. 300c–9(d)).
 
 (m)(1) The terms of any contract under this chapter which relate to the nature, provision, or extent of coverage or benefits (including payments with respect to benefits) shall supersede and preempt any State or local law, or any regulation issued thereunder, which relates to health insurance or plans.
 
@@ -52,7 +52,7 @@
 
 &emsp;(2) to establish incentives to encourage compliance with measures under paragraph (1).
 
-(<i>o</i>) A contract may not be made or a plan approved which includes coverage for any benefit, item, or service for which funds may not be used under the Assisted Suicide Funding Restriction Act of 1997.
+(o) A contract may not be made or a plan approved which includes coverage for any benefit, item, or service for which funds may not be used under the Assisted Suicide Funding Restriction Act of 1997.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 601; Pub. L. 93–246, §3, Jan. 31, 1974, 88 Stat. 4; Pub. L. 93–363, §1, July 30, 1974, 88 Stat. 398; Pub. L. 94–183, §2(43), Dec. 31, 1975, 89 Stat. 1059; Pub. L. 94–460, title I, §110(b), Oct. 8, 1976, 90 Stat. 1952; Pub. L. 95–368, §1, Sept. 17, 1978, 92 Stat. 606; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–179, §3, Jan. 2, 1980, 93 Stat. 1299; Pub. L. 98–615, §3(2), Nov. 8, 1984, 98 Stat. 3203; Pub. L. 99–53, §2(a), June 17, 1985, 99 Stat. 94; Pub. L. 99–251, title I, §§105(b), 106(a)(3), Feb. 27, 1986, 100 Stat. 15, 16; Pub. L. 100–202, §101(m) \[title VI, §626\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–430; Pub. L. 100–654, title II, §§201(b), 202(a), Nov. 14, 1988, 102 Stat. 3845; Pub. L. 101–508, title VII, §7002(a), Nov. 5, 1990, 104 Stat. 1388–329; Pub. L. 101–509, title IV, §1, Nov. 5, 1990, 104 Stat. 1421; Pub. L. 102–393, title V, §537(a), (b), Oct. 6, 1992, 106 Stat. 1765; Pub. L. 105–12, §9(g), Apr. 30, 1997, 111 Stat. 27; Pub. L. 105–266, §§3(c), 8, Oct. 19, 1998, 112 Stat. 2366, 2370; Pub. L. 111–350, §5(a)(15), Jan. 4, 2011, 124 Stat. 3842.)
 
@@ -78,9 +78,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### References in Text
 
-Section 1310(d)(1) of title XIII of the Public Health Service Act (42 U.S.C. 300c–9(d)), referred to in subsec. (<i>l</i>), probably is intended as a reference to section 300e–9(d) of Title 42, The Public Health and Welfare. Section 300e–9(d) of Title 42 was redesignated section 300e–9(c) of Title 42 by Pub. L. 100–517, §7(b), Oct. 24, 1988, 102 Stat. 2580.
+Section 1310(d)(1) of title XIII of the Public Health Service Act (42 U.S.C. 300c–9(d)), referred to in subsec. (l), probably is intended as a reference to section 300e–9(d) of Title 42, The Public Health and Welfare. Section 300e–9(d) of Title 42 was redesignated section 300e–9(c) of Title 42 by Pub. L. 100–517, §7(b), Oct. 24, 1988, 102 Stat. 2580.
 
-The Assisted Suicide Funding Restriction Act of 1997, referred to in subsec. (<i>o</i>), is Pub. L. 105–12, Apr. 30, 1997, 111 Stat. 23, which is classified principally to chapter 138 (§14401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 14401 of Title 42 and Tables.
+The Assisted Suicide Funding Restriction Act of 1997, referred to in subsec. (o), is Pub. L. 105–12, Apr. 30, 1997, 111 Stat. 23, which is classified principally to chapter 138 (§14401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 14401 of Title 42 and Tables.
 
 #### Codification
 
@@ -94,7 +94,7 @@ Another section 1 of title IV of Pub. L. 101–509, 104 Stat. 1416, enacted sect
 
 Subsec. (m)(1). Pub. L. 105–266, §3(c), added par. (1) and struck out former par. (1) which read as follows: “The provisions of any contract under this chapter which relate to the nature or extent of coverage or benefits (including payments with respect to benefits) shall supersede and preempt any State or local law, or any regulation issued thereunder, which relates to health insurance or plans to the extent that such law or regulation is inconsistent with such contractual provisions.”
 
-<b>1997</b>—Subsec. (<i>o</i>). Pub. L. 105–12 added subsec. (<i>o</i>).
+<b>1997</b>—Subsec. (o). Pub. L. 105–12 added subsec. (o).
 
 <b>1992</b>—Pub. L. 102–393 amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows:
 
@@ -130,11 +130,11 @@ Subsecs. (j), (k). Pub. L. 98–615, §3(2)(B), substituted “family member, or
 
 <b>1980</b>—Subsec. (m)(2)(A). Pub. L. 96–179 substituted “in a State where 25 percent or more of the population is located in primary medical care manpower shortage areas designated pursuant to section 332 of the Public Health Service Act (42 U.S.C. 254e)” for “who is a member of a medically underserved population (within the meaning of section 1302(7) of the Public Health Service Act (42 U.S.C. 300e–17))”.
 
-<b>1978</b>—Subsecs. (a), (c) to (e), (i), (j), (<i>l</i>). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission” wherever appearing.
+<b>1978</b>—Subsecs. (a), (c) to (e), (i), (j), (l). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission” wherever appearing.
 
 Subsec. (m). Pub. L. 95–368 added subsec. (m).
 
-<b>1976</b>—Subsec. (<i>l</i>). Pub. L. 94–460 added subsec. (<i>l</i>).
+<b>1976</b>—Subsec. (l). Pub. L. 94–460 added subsec. (l).
 
 <b>1975</b>—Subsecs. (j), (k). Pub. L. 94–183 redesignated subsec. (j), added by Pub. L. 93–363 and relating to services performed by a clinical psychologist or optometrist, as (k).
 
@@ -148,15 +148,15 @@ Amendment by Pub. L. 105–12 effective Apr. 30, 1997, and applicable to Federal
 
 #### Effective Date of 1992 Amendment
 
-Section 537(c) of Pub. L. 102–393 provided that: “The amendments made by this section \[amending this section\] shall be effective with respect to contract years beginning after the date of enactment of this Act \[Oct. 6, 1992\].”
+Pub. L. 102–393, title V, §537(c), Oct. 6, 1992, 106 Stat. 1765, provided that: “The amendments made by this section \[amending this section\] shall be effective with respect to contract years beginning after the date of enactment of this Act \[Oct. 6, 1992\].”
 
 #### Effective Date of 1990 Amendment
 
-Section 7002(g) of Pub. L. 101–508 provided that: “Except as provided in subsection (f) \[set out as a note under section 8904 of this title\], the amendments made by this section \[amending this section, sections 8904, 8909, and 8910 of this title, and provisions set out as a note under section 8906 of this title\] shall apply with respect to contract years beginning on or after January 1, 1991.”
+Pub. L. 101–508, title VII, §7002(g), Nov. 5, 1990, 104 Stat. 1388–331, provided that: “Except as provided in subsection (f) \[set out as a note under section 8904 of this title\], the amendments made by this section \[amending this section, sections 8904, 8909, and 8910 of this title, and provisions set out as a note under section 8906 of this title\] shall apply with respect to contract years beginning on or after January 1, 1991.”
 
 #### Effective Date of 1988 Amendment
 
-Section 203 of title II of Pub. L. 100–654 provided that:
+Pub. L. 100–654, title II, §203, Nov. 14, 1988, 102 Stat. 3845, provided that:
 
 “(a)
 
@@ -180,7 +180,7 @@ Definition.—For the purpose of this section, the term ‘qualifying event’ m
 
 Amendment by section 105(b) of Pub. L. 99–251 effective with respect to contracts entered into or renewed for calendar years beginning after Dec. 31, 1986, see section 105(c) of Pub. L. 99–251, set out as a note under section 8901 of this title.
 
-Section 106(b) of Pub. L. 99–251 provided that: “The amendments made by subsection (a) \[amending this section and provisions set out as notes under this section\] shall take effect with respect to services provided after December 31, 1984.”
+Pub. L. 99–251, title I, §106(b), Feb. 27, 1986, 100 Stat. 16, provided that: “The amendments made by subsection (a) \[amending this section and provisions set out as notes under this section\] shall take effect with respect to services provided after December 31, 1984.”
 
 #### Effective Date of 1984 Amendment
 
@@ -188,13 +188,13 @@ Amendment by Pub. L. 98–615 effective May 7, 1985, with enumerated exceptions,
 
 #### Effective Date of 1980 Amendment
 
-Section 5(b) of Pub. L. 96–179, as amended by Pub. L. 99–251, title I, §106(a)(2), Feb. 27, 1986, 100 Stat. 16, provided that: “The amendments made by section 3 \[amending this section\] shall apply to services providedafter December 31, 1979, under any contract entered into or renewed after December 31, 1979.”
+Pub. L. 96–179, §5(b), Jan. 2, 1980, 93 Stat. 1300, as amended by Pub. L. 99–251, title I, §106(a)(2), Feb. 27, 1986, 100 Stat. 16, provided that: “The amendments made by section 3 \[amending this section\] shall apply to services provided after December 31, 1979, under any contract entered into or renewed after December 31, 1979.”
 
 #### Effective Date of 1978 Amendments
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
-Section 3 of Pub. L. 95–368, as amended by Pub. L. 99–251, title I, §106(a)(1), Feb. 27, 1986, 100 Stat. 16, provided that: “The provisions of section 8902(m)(2) of title 5, United States Code, as added by the first section of this Act, shall apply to services provided under any contract entered into or renewed after December 31, 1979.”
+Pub. L. 95–368, §3, Sept. 17, 1978, 92 Stat. 606, as amended by Pub. L. 99–251, title I, §106(a)(1), Feb. 27, 1986, 100 Stat. 16, provided that: “The provisions of section 8902(m)(2) of title 5, United States Code, as added by the first section of this Act, shall apply to services provided under any contract entered into or renewed after December 31, 1979.”
 
 #### Effective Date of 1976 Amendment
 
@@ -202,9 +202,9 @@ Amendment by Pub. L. 94–460 effective Oct. 8, 1976, see section 118 of Pub. L.
 
 #### Effective Date of 1974 Amendments
 
-Section 2 of Pub. L. 93–363 provided that: “The amendment made by this Act \[amending this section\] shall become effective with respect to any contract entered into or renewed on or after the date of enactment of this Act \[July 30, 1974\].”
+Pub. L. 93–363, §2, July 30, 1974, 88 Stat. 398, provided that: “The amendment made by this Act \[amending this section\] shall become effective with respect to any contract entered into or renewed on or after the date of enactment of this Act \[July 30, 1974\].”
 
-Section 4(c) of Pub. L. 93–246 provided that: “Section 3 \[amending this section\] shall become effective with respect to any contract entered into or renewed on or after the date of enactment of this Act \[Jan. 31, 1974\].”
+Pub. L. 93–246, §4(c), Jan. 31, 1974, 88 Stat. 4, provided that: “Section 3 \[amending this section\] shall become effective with respect to any contract entered into or renewed on or after the date of enactment of this Act \[Jan. 31, 1974\].”
 
 #### Full Disclosure in Health Plan Contracts
 

@@ -64,7 +64,7 @@ The Secretary shall—
 
 #### (c) Deployment of detailed or assigned officers
 
-For purposes of pay, allowances, and benefits of a Commissioned Corps officer who is detailedor assigned to a Federal entity, the deployment of such officer by the Secretary in response to an urgent or emergency public health care need shall be deemed to be an authorized activity of the Federal entity to which the officer is detailed or assigned.
+For purposes of pay, allowances, and benefits of a Commissioned Corps officer who is detailed or assigned to a Federal entity, the deployment of such officer by the Secretary in response to an urgent or emergency public health care need shall be deemed to be an authorized activity of the Federal entity to which the officer is detailed or assigned.
 
 (July 1, 1944, ch. 373, title II, §203A, as added Pub. L. 109–417, title II, §206(b), Dec. 19, 2006, 120 Stat. 2851.)
 

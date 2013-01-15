@@ -2,7 +2,7 @@
 
 #### (a) Prohibition of inspection of articles not intended for use as human food; denaturation or other identification prior to distribution in commerce; inedible articles
 
-Inspection shall not be provided under this chapter at any establishment for the slaughter of poultry or the processing of any carcasses or parts or products of poultry, which are not intended for use as human food, but such articles shall, prior to their offer for sale or transportation in commerce, unless naturally inedible byhumans, be denatured or otherwise identified as prescribed by regulations of the Secretary to deter their use for human food. No person shall buy, sell, transport, or offer for sale or transportation, or receive for transportation, in commerce, or import, any poultry carcasses or parts or products thereof which are not intended for use as human food unless they are denatured or otherwise identified as required by the regulations of the Secretary or are naturally inedible by humans.
+Inspection shall not be provided under this chapter at any establishment for the slaughter of poultry or the processing of any carcasses or parts or products of poultry, which are not intended for use as human food, but such articles shall, prior to their offer for sale or transportation in commerce, unless naturally inedible by humans, be denatured or otherwise identified as prescribed by regulations of the Secretary to deter their use for human food. No person shall buy, sell, transport, or offer for sale or transportation, or receive for transportation, in commerce, or import, any poultry carcasses or parts or products thereof which are not intended for use as human food unless they are denatured or otherwise identified as required by the regulations of the Secretary or are naturally inedible by humans.
 
 #### (b) Recordkeeping requirements; persons liable; scope of disclosure; access to places of business; examination of records, facilities, and inventories; copies; samples
 
@@ -30,7 +30,7 @@ The authority conferred on the Secretary by paragraph (b), (c), or (d) of this s
 
 #### Amendments
 
-<b>1968</b>—Pub. L. 90–492 designated existing provisions as par. (b), added pars. (a), and (c) to (e), and in par. (b), as so designated, extended the types of persons required to maintain records necessary for the enforcement of this chapter, required such persons to give representatives of the Secretary access to their places of business, and opportunity to examine records, facilities, and inventories and to copy records and take inventory samples upon payment.
+<b>1968</b>—Pub. L. 90–492 designated existing provisions as par. (b), added pars. (a), and (c) to (e), and in par. (b),as so designated, extended the types of persons required to maintain records necessary for the enforcement of this chapter, required such persons to give representatives of the Secretary access to their places of business, and opportunity to examine records, facilities, and inventories and to copy records and take inventory samples upon payment.
 
 #### Effective Date of 1968 Amendment
 

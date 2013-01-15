@@ -26,7 +26,7 @@ The amount of any money, or the fair market value of any property, received by a
 
 &emsp;&emsp;(B) partnership property (including money) other than property described in subparagraph (A)(i) or (ii) in exchange for all or a part of his interest in partnership property described in subparagraph (A)(i) or (ii),
 
-> &emsp;such transactions shall, under regulations prescribed by the Secretary, be considered as asale or exchange of such property between the distributee and the partnership (as constituted after the distribution).
+> &emsp;such transactions shall, under regulations prescribed by the Secretary, be considered as a sale or exchange of such property between the distributee and the partnership (as constituted after the distribution).
 
 #### (2) Exceptions
 
@@ -82,11 +82,11 @@ In determining whether property of a partnership is—
 
 > such partnership shall be treated as owning its proportionate share of the property of any other partnership in which it is a partner. Under regulations, rules similar to the rules of the preceding sentence shall also apply in the case of interests in trusts.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 250; Pub. L. 87–834, §§13(f)(1), 14(b)(2), Oct. 16, 1962, 76 Stat. 1035, 1041; Pub. L. 88–272, title II, §231(b)(6), Feb. 26, 1964, 78 Stat. 105; Pub. L. 89–570, §1(c), Sept. 12, 1966, 80 Stat. 762; Pub. L. 91–172, title II, §211(b)(6), Dec. 30, 1969, 83 Stat. 570; Pub. L. 94–455, title II, §205(b), title X, §1042(c)(2), title XI, §1101(d)(2), title XIX, §§1901(a)(93), 1906(b)(13)(A), title XXI, §2110(a), Oct. 4, 1976, 90 Stat. 1535, 1637, 1658, 1780, 1834, 1905; Pub. L. 95–600, title VII, §701(u)(13)(A), Nov. 6, 1978, 92 Stat. 2918; Pub. L. 95–618, title IV, §402(c)(5), Nov. 9, 1978, 92 Stat. 3202; Pub. L. 97–448, title I, §102(a)(6), Jan. 12, 1983, 96 Stat. 2368; Pub. L. 98–369, div. A, title I, §§43(c)(3), 76(a), title IV, §492(b)(4), July 18, 1984, 98 Stat. 558, 595, 854; Pub. L. 99–514, title II, §201(d)(10), title XVIII, §1899A(19), Oct. 22, 1986, 100 Stat. 2141, 2959; Pub. L. 103–66, title XIII, §§13206(e)(1), 13262(b)(1), (2)(A), Aug. 10, 1993, 107 Stat. 467, 541; Pub. L. 105–34, title X, §1062(a)–(b)(2), Aug. 5, 1997, 111 Stat. 946, 947; Pub. L. 105–206, title VI, §6010(m), July 22, 1998, 112 Stat. 816; Pub. L. 106–170, title V, §532(c)(2)(F), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 108–357, title IV, §413(c)(11), Oct. 22, 2004, 118 Stat. 1507.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 250; Pub. L. 87–834, §§13(f)(1), 14(b)(2), Oct. 16, 1962, 76 Stat. 1035, 1041; Pub. L. 88–272, title II, §231(b)(6), Feb. 26, 1964, 78 Stat. 105; Pub. L. 89–570, §1(c), Sept. 12, 1966, 80 Stat. 762; Pub. L. 91–172, title II, §211(b)(6), Dec. 30, 1969, 83 Stat. 570; Pub. L. 94–455, title II, §205(b), title X, §1042(c)(2), title XI, §1101(d)(2), title XIX, §§1901(a)(93), 1906(b)(13)(A), title XXI, §2110(a), Oct. 4, 1976, 90 Stat. 1535, 1637, 1658, 1780, 1834, 1905; Pub. L. 95–600, title VII, §701(u)(13)(A), Nov. 6, 1978, 92 Stat. 2918; Pub. L. 95–618, title IV, §402(c)(5), Nov. 9, 1978, 92 Stat. 3202; Pub. L. 97–448, title I, §102(a)(6), Jan. 12, 1983, 96 Stat. 2368; Pub. L.98–369, div. A, title I, §§43(c)(3), 76(a), title IV, §492(b)(4), July 18, 1984, 98 Stat. 558, 595, 854; Pub. L. 99–514, title II, §201(d)(10), title XVIII, §1899A(19), Oct. 22, 1986, 100 Stat. 2141, 2959; Pub. L. 103–66, title XIII, §§13206(e)(1), 13262(b)(1), (2)(A), Aug. 10, 1993, 107 Stat. 467, 541; Pub. L. 105–34, title X, §1062(a)–(b)(2), Aug. 5, 1997, 111 Stat. 946, 947; Pub. L. 105–206, title VI, §6010(m), July 22, 1998, 112 Stat. 816; Pub. L. 106–170, title V, §532(c)(2)(F), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 108–357, title IV, §413(c)(11), Oct. 22, 2004, 118 Stat. 1507.)
 
 #### Amendments
 
-<b>2004</b>—Subsec. (d)(2) to (4). Pub. L. 108–357 inserted “and” at end of par. (2), redesignated par. (4) as (3) andsubstituted “paragraph (1) or (2)” for “paragraph (1), (2), or (3)”, and struck out former par. (3) which read as follows: “any other property of the partnership which, if sold or exchanged by the partnership, would result in a gain taxable under subsection (a) of section 1246 (relating to gain on foreign investment company stock), and”.
+<b>2004</b>—Subsec. (d)(2) to (4). Pub. L. 108–357 inserted “and” at end of par. (2), redesignated par. (4) as (3) and substituted “paragraph (1) or (2)” for “paragraph (1), (2), or (3)”, and struck out former par. (3) which read as follows: “any other property of the partnership which, if sold or exchanged by the partnership, would result in a gain taxable under subsection (a) of section 1246 (relating to gain on foreign investment company stock), and”.
 
 <b>1999</b>—Subsec. (d)(1). Pub. L. 106–170 substituted “section 1221(a)(1)” for “section 1221(1)”.
 
@@ -162,7 +162,7 @@ Amendment by Pub. L. 105–34 applicable to sales, exchanges, and distributions 
 
 #### Effective Date of 1993 Amendment
 
-Section 13206(e)(2) of Pub. L. 103–66 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to sales, exchanges, and distributions after April 30, 1993.”
+Pub. L. 103–66, title XIII, §13206(e)(2), Aug. 10, 1993, 107 Stat. 467, provided that: “The amendment made byparagraph (1) \[amending this section\] shall apply to sales, exchanges, and distributions after April 30, 1993.”
 
 Amendment by section 13262(b)(1) and (2)(A) of Pub. L. 103–66 applicable in the case of partners retiring or dying on or after Jan. 5, 1993, with a binding contract exception, see section 13262(c) of Pub. L. 103–66, set out as a note under section 736 of this title.
 
@@ -176,7 +176,7 @@ Amendment by section 201(d)(10) of Pub. L. 99–514 not applicable to any proper
 
 Amendment by section 43(c)(3) of Pub. L. 98–369 applicable to taxable years ending after July 18, 1984, see section 44 of Pub. L. 98–369, set out as an Effective Date note under section 1271 of this title.
 
-Section 76(b) of Pub. L. 98–369 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to distributions, sales, and exchanges made after March 31, 1984, in taxable years ending after such date.”
+Pub. L. 98–369, div. A, title I, §76(b), July 18, 1984, 98 Stat. 595, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to distributions, sales, and exchanges made after March 31, 1984, in taxable years ending after such date.”
 
 Amendment by section 492(b)(4) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, see section 492(d) of Pub. L. 98–369, set out as a note under section 170 of this title.
 
@@ -188,7 +188,7 @@ Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it 
 
 Amendment by Pub. L. 95–618 applicable with respect to wells commenced on or after Oct. 1, 1978, in taxable years ending on or after such date, see section 402(e) of Pub. L. 95–618, set out as a note under section 263 of this title.
 
-Section 701(u)(13)(C) of Pub. L. 95–600 provided that: “The amendments made by this paragraph \[amending this section and section 736 of this title\] shall apply to transfers beginning after October 9, 1975, and to sales, exchanges, and distributions taking place after such date.”
+Pub. L. 95–600, title VII, §701(u)(13)(C), Nov. 6, 1978, 92 Stat. 2918, provided that: “The amendments made by this paragraph \[amending this section and section 736 of this title\] shall apply to transfers beginning after October 9, 1975, and to sales, exchanges, and distributions taking place after such date.”
 
 #### Effective Date of 1976 Amendment
 
@@ -200,7 +200,7 @@ Amendment by section 1101(d)(2) of Pub. L. 94–455 applicable to sales, exchang
 
 Amendment by section 1901(a)(93) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
-Section 2110(b) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Subsection (a) \[amending this section\] shall apply to transactions described in sections 731, 736, 741, or 751 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] which occur after December 31, 1976, in taxable years ending after that date.”
+Pub. L. 94–455, title XXI, §2110(b), Oct. 4, 1976, 90 Stat. 1905, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Subsection (a) \[amending this section\] shall apply to transactions described in sections 731, 736, 741, or 751 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] which occur after December 31, 1976, in taxable years ending after that date.”
 
 #### Effective Date of 1969 Amendment
 

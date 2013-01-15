@@ -76,7 +76,7 @@ Criminal penalty.—A person that violates, or attempts or conspires to violate,
 
 Forfeiture.—The following shall be forfeited to the Government:
 
-&emsp;&emsp;(A) A vessel, a facility for building or repairing vessels, or an interest in a vessel or such a facility, that is sold, mortgaged, leased, chartered, delivered, transferred, or documented, or agreed to be sold, mortgaged, leased, chartered, delivered, transferred, or documented, in violation of this section.
+&emsp;&emsp;(A) A vessel, a facility for building or repairing vessels, or an interest in a vessel or such a facility, that is sold, mortgaged,leased, chartered, delivered, transferred, or documented, or agreed to be sold, mortgaged, leased, chartered, delivered, transferred, or documented, in violation of this section.
 
 &emsp;&emsp;(B) Stock and other securities sold or transferred, or agreed to be sold or transferred, in violation of this section.
 

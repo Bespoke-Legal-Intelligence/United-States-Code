@@ -108,7 +108,7 @@ Not later than 90 days after December 17, 2004, the President shall select a sin
 
 #### (f) Evaluation of use of available technology in clearance investigations and adjudications
 
-(1) The head of the entity selected pursuant to subsection (b) of this section shall evaluate the use of available information technology and databases to expedite investigative and adjudicative processes for all and to verify standard information submitted as part of an application for a security clearance.
+(1) The head of the entity selected pursuant to subsection (b) of this section shall evaluate theuse of available information technology and databases to expedite investigative and adjudicative processes for all and to verify standard information submitted as part of an application for a security clearance.
 
 (2) The evaluation shall assess the application of the technologies described in paragraph (1) for—
 
@@ -124,7 +124,7 @@ Not later than 90 days after December 17, 2004, the President shall select a sin
 
 &emsp;(F) such other purposes as the head of the entity selected pursuant to subsection (b) of this section considers appropriate.
 
-(3) An individual subject to verification utilizing the technology described in paragraph (1) shall be notified of such verification, shall provide consent to such use, and shall have accessto data being verified in order to correct errors or challenge information the individual believes is incorrect.
+(3) An individual subject to verification utilizing the technology described in paragraph (1) shall be notified of such verification, shall provide consent to such use, and shall have access to data being verified in order to correct errors or challenge information the individual believes is incorrect.
 
 (4) Not later than one year after December 17, 2004, the head of the entity selected pursuant to subsection (b) of this section shall submit to the President and the appropriate committees of Congress a report on the results of the evaluation, including recommendations on the use of technologies described in paragraph (1).
 
@@ -179,6 +179,22 @@ Section was enacted as part of the Intelligence Reform and Terrorism Prevention 
 #### Change of Name
 
 Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
+#### Strategy for Security Clearance Reciprocity
+
+Pub. L. 112–277, title III, §306, Jan. 14, 2013, 126 Stat. 2472, provided that:
+
+“(a)
+
+Strategy.—The President shall develop a strategy and a schedule for carrying out the requirements of section 3001(d) of the Intelligence Reform and Terrorism Prevention Act of 2004 (50 U.S.C. 435b(d)). Such strategy and schedule shall include—
+
+&emsp;“(1) a process for accomplishing the reciprocity required under such section for a security clearance issued by a department or agency of the Federal Government, including reciprocity for security clearances that are issued to both persons who are and who are not employees of the Federal Government; and
+
+&emsp;“(2) a description of the specific circumstances under which a department or agency of the Federal Government may not recognize a security clearance issued by another department or agency of the Federal Government.
+
+“(b)
+
+Congressional Notification.—Not later than 180 days after the date of the enactment of this Act \[Jan. 14, 2013\], the President shall inform Congress of the strategy and schedule developed under subsection (a).”
 
 #### Security Clearances for Transition Team Members
 

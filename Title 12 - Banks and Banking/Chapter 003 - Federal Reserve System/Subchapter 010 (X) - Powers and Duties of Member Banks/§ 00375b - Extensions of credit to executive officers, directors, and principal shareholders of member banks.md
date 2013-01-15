@@ -48,7 +48,7 @@ A member bank may extend credit to any executive officer, director, or principal
 
 #### (C) Board may make exceptions for certain banks
 
-&emsp;The Board may, by regulation, make exceptions to subparagraph (A) for member banks with less than $100,000,000 in deposits if theBoard determines that the exceptions are important to avoid constricting the availability of credit in small communities or to attract directors to such banks. In no case may the aggregate amount of all outstanding extensions of credit to a bank's executive officers, directors, principal shareholders, and those persons’ related interests be more than 2 times the bank's unimpaired capital and unimpaired surplus.
+&emsp;The Board may, by regulation, make exceptions to subparagraph (A) for member banks with less than $100,000,000 in deposits if the Board determines that the exceptions are important to avoid constricting the availability of credit in small communities or to attract directors to such banks. In no case may the aggregate amount of all outstanding extensions of credit to a bank's executive officers, directors, principal shareholders, and those persons’ related interests be more than 2 times the bank's unimpaired capital and unimpaired surplus.
 
 #### (6) Overdrafts by executive officers and directors prohibited
 
@@ -118,7 +118,11 @@ For purposes of this section:
 
 #### (i) In general
 
-&emsp;&emsp;A member bank extends credit by making or renewing any loan, granting a line of credit, or entering into any similar transaction as a result of which a person becomes obligated (directly or indirectly, or by any means whatsoever) to pay money or its equivalent to the bank.
+&emsp;&emsp;A member bank extends credit to a person by—
+
+&emsp;&emsp;&emsp;(I) making or renewing any loan, granting a line of credit, or entering into any similar transaction as a result of which the person becomes obligated (directly or indirectly, or by any means whatsoever) to pay money or its equivalent to the bank; or
+
+&emsp;&emsp;&emsp;(II) having credit exposure to the person arising from a derivative transaction (as defined in section 84(b) of this title), repurchase agreement, reverse repurchase agreement, securities lending transaction, or securities borrowing transaction between the member bank and the person.
 
 #### (ii) Exceptions
 
@@ -154,29 +158,13 @@ The Board of Governors of the Federal Reserve System may prescribe such regulati
 
 (Dec. 23, 1913, ch. 6, §22(h), as added Pub. L. 95–630, title I, §104, Nov. 10, 1978, 92 Stat. 3644; amended Pub. L. 97–320, title IV, §§410(e), 422, Oct. 15, 1982, 96 Stat. 1520, 1522; Pub. L. 102–242, title III, §306(a)–(h), Dec. 19, 1991, 105 Stat. 2355, 2357–2359; Pub. L. 102–550, title IX, §955, title XVI, §1605(a)(10), Oct. 28, 1992, 106 Stat. 3895, 4086; Pub. L. 103–325, title III, §334(b), Sept. 23, 1994, 108 Stat. 2233; Pub. L. 104–208, div. A, title II, §2211, Sept. 30, 1996, 110 Stat. 3009–410; Pub. L. 111–203, title VI, §614(a), July 21, 2010, 124 Stat. 1614.)
 
-#### Amendment of Paragraph (9)(D)(i)
-
-<i>Pub. L. 111–203, title VI, §614, July 21, 2010, 124 Stat. 1614, provided that, effective 1 year after the transfer date, paragraph (9)(D)(i) of this section is amended by:</i>
-
-<i>(1) substituting “the person” for “a person”;</i>
-
-<i>(2) striking out “extends credit by making” and inserting “extends credit to a person by—</i>
-
-&emsp;&emsp;&emsp;<i>“(I) making”;</i>
-
-<i>(3) substituting “; or” for the period at the end; and</i>
-
-<i>(4) adding at the end the following:</i>
-
-&emsp;&emsp;&emsp;<i>“(II) having credit exposure to the person arising from a derivative transaction (as defined in section 84(b) of this title), repurchase agreement, reverse repurchase agreement, securities lending transaction, or securities borrowing transaction between the member bank and the person.”</i>
-
-<i>See Effective Date of 2010 Amendment note below.</i>
-
 #### Prior Provisions
 
 A prior section 22(h) of act Dec. 23, 1913, ch. 6, as added June 19, 1934, ch. 653, §3, 48 Stat. 1107, was classified to section 596 of this title, prior to repeal by act June 25, 1948, ch. 645, §21, 62 Stat. 862, eff. Sept. 1, 1948.
 
 #### Amendments
+
+<b>2010</b>—Subsec. (9)(D)(i). Pub. L. 111–203 substituted “extends credit to a person by—” for “extends credit by making”, inserted “(I) making” before “or renewing”, substituted “which the person” for “which a person” and “the bank; or” for “the bank.”, and added subcl. (II).
 
 <b>1996</b>—Par. (2)(A). Pub. L. 104–208, §2211(a)(1), (2), designated existing provisions as subpar. (A), inserted heading, redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, and adjusted margins.
 
@@ -228,7 +216,7 @@ Amendment by section 1605(a)(10) of Pub. L. 102–550 effective as if included i
 
 #### Effective Date of 1991 Amendment
 
-Section 306(<i>l</i>) of Pub. L. 102–242 provided that: “The amendments made by this section \[amending this section and sections 1468, 1828, and 1972 of this title\] shall become effective upon the earlier of—
+Pub. L. 102–242, title III, §306(l), Dec. 19, 1991, 105 Stat. 2360, provided that: “The amendments made by this section \[amending this section and sections 1468, 1828, and 1972 of this title\] shall become effective upon the earlier of—
 
 &emsp;“(1) the date on which final regulations under subsection (m)(1) \[set out below\] become effective \[May 18, 1992, see 57 F.R. 22417\]; or
 
@@ -236,11 +224,11 @@ Section 306(<i>l</i>) of Pub. L. 102–242 provided that: “The amendments made
 
 #### Effective Date
 
-Section 2101 of Pub. L. 95–630 provided that: “Except as otherwise provided herein, this Act \[see Short Title of 1978 Amendment note set out under section 226 of this title\] shall take effect upon the expiration of one hundred and twenty days after the date of its enactment \[Nov. 10, 1978\].”
+Pub. L. 95–630, title XXI, §2101, Nov. 10, 1978, 92 Stat. 3741, provided that: “Except as otherwise provided herein, this Act \[see Short Title of 1978 Amendment note set out under section 226 of this title\] shall take effect upon the expiration of one hundred and twenty days after the date of its enactment \[Nov. 10, 1978\].”
 
 #### Regulations
 
-Section 306(m) of Pub. L. 102–242 provided that:
+Pub. L. 102–242, title III, §306(m), Dec. 19, 1991, 105 Stat. 2360, provided that:
 
 “(1)
 
@@ -252,9 +240,9 @@ Limiting extensions of credit to executive officers.—The Federal Deposit Insur
 
 #### Existing Transactions Not Affected by 1991 Amendments
 
-Section 306(n) of Pub. L. 102–242 provided that: “The amendments made by this section \[amending this section and sections 1468, 1828, and 1972 of this title\] do not affect the validity of any extension of credit or other transaction lawfully entered into on or before the effective date of those amendments \[see Effective Date of 1991 Amendment note above\].”
+Pub. L. 102–242, title III, §306(n), Dec. 19, 1991, 105 Stat. 2360, provided that: “The amendments made by this section \[amending this section and sections 1468, 1828, and 1972 of this title\] do not affect the validity of any extension of credit or other transaction lawfully entered into on or before the effective date of those amendments \[see Effective Date of 1991 Amendment note above\].”
 
 #### Reporting of Credit by Executive Officers and Directors
 
-Section 306(<i>o</i>) of Pub. L. 102–242 provided that: “An executive officer or director of an insured depository institution, a bank holding company, or a savings and loan holding company, the shares of which are not publicly traded, shall report annually to the board of directors of the institution or holding company the outstanding amount of any credit that was extended to such executive officer or director and that is secured by shares of the institution or holding company.”
+Pub. L. 102–242, title III, §306(o), Dec. 19, 1991, 105 Stat. 2360, provided that: “An executive officer or director of an insured depository institution, a bank holding company, or a savings and loan holding company, the shares of which are not publicly traded, shall report annually to the board of directors of the institution or holding company the outstanding amount of any credit that was extended to such executive officer or director and that is secured by shares of the institution or holding company.”
 

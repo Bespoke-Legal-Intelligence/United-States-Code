@@ -106,7 +106,7 @@ Subsec. (c)(1)(A) to (D). Pub. L. 109–364, §527(a)(1)(B), added subpars. (A) 
 
 “(B) a terrorist attack or threatened terrorist attack in the United States that results, or could result, in catastrophic loss of life or property.”
 
-Subsec. (c)(3). Pub. L. 109–364, §527(a)(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “A Reserve may perform duties described in paragraph (1) only while assigned to a reserve component rapid assessment element team and performing those duties within the geographical limits of the United States, its territories and possessions, the District of Columbia, and the Commonwealth of Puerto Rico.”
+Subsec. (c)(3). Pub. L. 109–364, §527(a)(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “A Reserve may perform duties described in paragraph (1) only while assigned to a reserve component rapid assessment element team and performing those duties within the geographical limits of the UnitedStates, its territories and possessions, the District of Columbia, and the Commonwealth of Puerto Rico.”
 
 Subsec. (c)(5). Pub. L. 109–364, §527(b)(2), substituted “weapons of mass destruction civil support team” for “rapid assessment element team”.
 
@@ -160,7 +160,7 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 #### Additional Weapons of Mass Destruction Civil Support Teams
 
-Pub. L. 107–314, div. A, title XIV, §1403, Dec. 2, 2002, 116 Stat. 2676, provided that:
+Pub. L. 107–314, div. A, title XIV, §1403, Dec. 2, 2002, 116 Stat. 2676, as amended by Pub. L. 112–239, div. A, title XIV, §1435(a), Jan. 2, 2013, 126 Stat. 2051, provided that:
 
 “(a)
 
@@ -172,13 +172,25 @@ Establishment of Additional Teams.—The Secretary of Defense shall—
 
 “(b)
 
-Plan.—Not later than 180 days after the date of the enactment of this Act \[Dec. 2, 2002\], the Secretary shall submit to Congress a plan, in furtherance of subsection (a), for establishing at least one Weapons of Mass Destruction Civil Support Team in each State and territory that does not have such a team as of the date of the enactment of this Act. The plan shall include the following:
+Establishment of Further Additional Teams.—The Secretary of Defense is authorized to have established two additional teams designated as Weapons of Mass Destruction Civil Support Teams, beyond the 55 teams required in subsection (a), if—
 
-&emsp;“(1) A schedule and budget for manning, training, and equipping the new teams as rapidly as is possible without jeopardizing the attainment of full effectiveness by the new teams.
+&emsp;“(1) the Secretary of Defense has made the certification provided for in section 12310(c)(5) of title 10, United States Code, with respect to each of such additional teams before December 31, 2011; and
 
-&emsp;“(2) A discussion of whether the mission of the Weapons of Mass Destruction Civil Support Teams should be expanded and, if so, how.
+&emsp;“(2) the establishment of such additional teams does not require an increase in authorized personnel levels above the numbers authorized as of the date of the enactment of the National Defense Authorization Act for Fiscal Year 2013 \[Pub. L. 112–239, approved Jan. 2, 2013\].
 
 “(c)
+
+Limitation of Establishment of Further Teams.—No Weapons of Mass Destruction Civil Support Team may be established beyond the number authorized by subsections (a) and (b) unless—
+
+&emsp;“(1) the Secretary submits to Congress a request for authority to establish such team, including a detailed justification for its establishment; and
+
+&emsp;“(2) the establishment of such team is specifically authorized by a law enacted after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2013.
+
+“(d)
+
+Notification of Disestablishment of Teams.—No Weapons of Mass Destruction Civil Support Team established pursuant to this section may be disestablished unless, by not later than 90 days before the date on which such team is disestablished, the Secretary submits to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] notice of the proposed disestablishment of the team and the date on which the disestablishment is proposed to take place.
+
+“(e)
 
 Definitions.—For purposes of this section:
 

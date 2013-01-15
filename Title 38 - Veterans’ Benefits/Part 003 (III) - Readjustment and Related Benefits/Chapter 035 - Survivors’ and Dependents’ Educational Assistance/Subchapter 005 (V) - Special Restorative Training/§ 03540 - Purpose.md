@@ -1,8 +1,8 @@
 ### §3540. Purpose
 
-The purpose of special restorative training is to overcome, or lessen, the effects of a manifest physical or mental disability which would handicap an eligible person (other than a person made eligible under subparagraph (C) of such section <sup>1</sup> by reason of a spouse being listed in one of the categories referred to in that subparagraph) in the pursuit of a program of education.
+The purpose of special restorative training is to overcome, or lessen, the effects of a manifest physical or mental disability which would handicap an eligible person (other than a person made eligible under subparagraph (C) of such section <sup>1</sup> by reason of a spouse being listed inone of the categories referred to in that subparagraph) in the pursuit of a program of education.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1200, §1740; Pub. L. 96–466, title III, §331, Oct. 17, 1980, 94Stat. 2198; renumbered §3540 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 107–103, title I, §109(a), Dec. 27, 2001, 115 Stat. 986; Pub. L. 109–444, §3(b)(4), Dec. 21, 2006, 120 Stat. 3307; Pub. L. 109–461, title III, §301(b)(4), title X, §1006(b), Dec. 22, 2006, 120 Stat. 3427, 3468.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1200, §1740; Pub. L. 96–466, title III, §331, Oct. 17, 1980, 94 Stat. 2198; renumbered §3540 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 107–103, title I, §109(a), Dec. 27, 2001, 115 Stat. 986; Pub. L. 109–444, §3(b)(4), Dec. 21, 2006, 120 Stat. 3307; Pub. L. 109–461, title III, §301(b)(4), title X, §1006(b), Dec. 22, 2006, 120 Stat. 3427, 3468.)
 
 #### References in Text
 

@@ -14,4 +14,4 @@ Part B—Health Care Improvement Research
 - [&sect; 00299b&#8211;5 - Health care practice and technology innovation](%C2%A7%2000299b%E2%80%935%20-%20Health%20care%20practice%20and%20technology%20innovation.md)
 - [&sect; 00299b&#8211;6 - Coordination of Federal Government quality improvement efforts](%C2%A7%2000299b%E2%80%936%20-%20Coordination%20of%20Federal%20Government%20quality%20improvement%20efforts.md)
 - [&sect; 00299b&#8211;7 - Research on outcomes of health care items and services](%C2%A7%2000299b%E2%80%937%20-%20Research%20on%20outcomes%20of%20health%20care%20items%20and%20services.md)
-- [&sect; 00299b&#8211;8 - Federal Coordinating Council for Comparative Effectiveness Research](%C2%A7%2000299b%E2%80%938%20-%20Federal%20Coordinating%20Council%20for%20Comparative%20Effectiveness%20Research.md)
+- [&sect; 00299b&#8211;8 - Omitted](%C2%A7%2000299b%E2%80%938%20-%20Omitted.md)

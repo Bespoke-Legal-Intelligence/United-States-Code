@@ -12,7 +12,7 @@ Any person who sells, transfers, or ships for profit cigarettes or smokeless tob
 
 #### (b) Presumptive evidence
 
-The fact that any person ships or delivers for shipment any cigarettes or smokeless tobacco shall, if such shipment is into a State in which such person has filed a statement with the tobacco tax administrator under subsection (a)(1) of this section, be presumptive evidence that such cigarettes or smokeless tobacco were sold, or transferred for profit, by such person.
+The fact that any person ships or delivers for shipment any cigarettes or smokeless tobaccoshall, if such shipment is into a State in which such person has filed a statement with the tobacco tax administrator under subsection (a)(1) of this section, be presumptive evidence that such cigarettes or smokeless tobacco were sold, or transferred for profit, by such person.
 
 #### (c) Use of information
 
@@ -50,5 +50,7 @@ Act Aug. 9, 1955, ch. 695, §2, 69 Stat. 628, provided that:
 
 “(b) The provisions of section 2(a) of the Act of October 19, 1949, as amended by this Act \[15 U.S.C. 376(a)\], insofar as it requires the filing of memoranda or copies of invoices with the appropriate tax administrator for shipments of cigarettes into the District of Columbia, Alaska, Hawaii, and the Commonwealth of Puerto Rico, shall apply in respect of memoranda or copies of invoices covering shipments made during calendar months beginning after the month in which this Act is enacted \[August 1955\].”
 
-#### Effective Date of 1953 AmendmentAct Aug. 15, 1953, ch. 512, title II, §201(b), 67 Stat. 617, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply only in respect of memoranda or copies of invoices covering shipments made during the calendar month in which this Act is enacted \[August 1953\] and subsequent calendar months.”
+#### Effective Date of 1953 Amendment
+
+Act Aug. 15, 1953, ch. 512, title II, §201(b), 67 Stat. 617, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply only in respect of memoranda or copies of invoices covering shipments made during the calendar month in which this Act is enacted \[August 1953\] and subsequent calendar months.”
 

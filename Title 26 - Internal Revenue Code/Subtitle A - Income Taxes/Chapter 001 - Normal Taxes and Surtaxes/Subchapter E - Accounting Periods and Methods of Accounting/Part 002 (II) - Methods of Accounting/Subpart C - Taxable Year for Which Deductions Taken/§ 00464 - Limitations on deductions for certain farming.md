@@ -26,7 +26,7 @@ In the case of any farming syndicate (as defined in subsection (c))—
 
 &emsp;For purposes of paragraph (1)(B), the following shall be treated as an interest which is not held by a limited partner or a limited entrepreneur:
 
-&emsp;&emsp;(A) in the case of any individual who has actively participated (for a period of not less than 5 years) in the management of anytrade or business of farming, any interest in a partnership or other enterprise which is attributable to such active participation,
+&emsp;&emsp;(A) in the case of any individual who has actively participated (for a period of not less than 5 years) in the management of any trade or business of farming, any interest in a partnership or other enterprise which is attributable to such active participation,
 
 &emsp;&emsp;(B) in the case of any individual whose principal residence is on a farm, any partnership or other enterprise engaged in the trade or business of farming such farm,
 
@@ -116,7 +116,7 @@ For purposes of this section—
 
 Except as provided in subsection (f), subsections (a) and (b) shall not apply to any taxable year beginning after December 31, 1986.
 
-(Added Pub. L. 94–455, title II, §207(a)(1), Oct. 4, 1976, 90 Stat. 1536; amended Pub. L. 95–600, title VII, §701(<i>l</i>)(3), Nov. 6, 1978, 92 Stat. 2907; Pub. L. 97–354, §5(a)(30), Oct. 19, 1982, 96 Stat. 1695; Pub. L. 99–514, title IV, §404(a), (b)(1), title VIII, §803(b)(8), Oct. 22, 1986, 100 Stat. 2223, 2224, 2356; Pub. L. 100–647, title I, §1008(a)(4), Nov. 10, 1988, 102 Stat. 3437; Pub. L. 105–34, title III, §312(d)(1), Aug. 5, 1997, 111 Stat. 839.)
+(Added Pub. L. 94–455, title II, §207(a)(1), Oct. 4, 1976, 90 Stat. 1536; amended Pub. L. 95–600, title VII, §701(l)(3), Nov. 6, 1978, 92 Stat. 2907; Pub. L. 97–354, §5(a)(30), Oct. 19, 1982, 96 Stat. 1695; Pub. L. 99–514, title IV, §404(a), (b)(1), title VIII, §803(b)(8), Oct. 22, 1986, 100 Stat. 2223, 2224, 2356; Pub. L. 100–647, title I, §1008(a)(4), Nov. 10, 1988, 102 Stat. 3437; Pub. L. 105–34, title III, §312(d)(1), Aug. 5, 1997, 111 Stat. 839.)
 
 #### Amendments
 
@@ -150,7 +150,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 If any interest costs incurred after Dec. 31, 1986, are attributable to costs incurred before Jan. 1, 1987, the amendment by section 803(b)(8) of Pub. L. 99–514 is applicable to such interest costs only to the extent such interest costs are attributable to costs which were required to be capitalized under section 263 of the Internal Revenue Code of 1954 and which would have been taken into account in applying section 189 of the Internal Revenue Code of 1954 (as in effect before its repeal by section 803 of Pub. L. 99–514) or, if applicable, section 266 of such Code, see section 7831(d)(2) of Pub. L. 101–239, set out as an Effective Date note under section 263A of this title.
 
-Section 404(c) of Pub. L. 99–514 provided that: “The amendments made by this section \[amending this section\] shall apply to amounts paid or incurred after March 1, 1986, in taxable years beginning after such date.”
+Pub. L. 99–514, title IV, §404(c), Oct. 22, 1986, 100 Stat. 2224, provided that: “The amendments made by this section \[amending this section\] shall apply to amounts paid or incurred after March 1, 1986, in taxable years beginning after such date.”
 
 Amendment by section 803(b)(8) of Pub. L. 99–514 applicable to costs incurred after Dec. 31, 1986, in taxable years ending after such date, except as otherwise provided, see section 803(d) of Pub. L. 99–514, set out as an Effective Date note under section 263A of this title.
 
@@ -160,11 +160,11 @@ Amendment by Pub. L. 97–354 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–600 effective as if included in this section or section 447 of this title at the time of their enactment, Oct. 4, 1976, see section 701(<i>l</i>)(4) of Pub. L. 95–600, set out as a note under section 447 of this title.
+Amendment by Pub. L. 95–600 effective as if included in this section or section 447 of this title at the time of their enactment, Oct. 4, 1976, see section 701(l)(4) of Pub. L. 95–600, set out as a note under section 447 of this title.
 
 #### Effective Date
 
-Section 207(a)(3) of Pub. L. 94–455 provided that:
+Pub. L. 94–455, title II, §207(a)(3), Oct. 4, 1976, 90 Stat. 1537, provided that:
 
 “(A)
 

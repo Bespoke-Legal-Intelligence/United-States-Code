@@ -18,7 +18,7 @@ Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administ
 
 <b>1978</b>—Pub. L. 95–588 designated existing provisions as subsec. (a), inserted provisions relating to consideration of the income and estates of the spouse and children of an eligible veteran, and added subsec. (b).
 
-<b>1959</b>—Pub. L. 86–211 substituted provisions requiring the denial or discontinuance of payment of pension when the corpus of the veteran's estate is such that under all the circumstances, including consideration of the veteran's income, it is reasonable that some part of the corpus be consumed for the veteran's maintenance for provisions which prohibited the payment of a pension to any unmarried veteran whose annual income exceeds $1,400 or to any married veteran or any veteran with children whose annual income exceeds $2,700.
+<b>1959</b>—Pub. L. 86–211 substituted provisions requiring the denial or discontinuance of payment of pension when the corpus of the veteran's estate is such thatunder all the circumstances, including consideration of the veteran's income, it is reasonable that some part of the corpus be consumed for the veteran's maintenance for provisions which prohibited the payment of a pension to any unmarried veteran whose annual income exceeds $1,400 or to any married veteran or any veteran with children whose annual income exceeds $2,700.
 
 #### Effective Date of 2001 Amendment
 

@@ -6,7 +6,7 @@ Surface transportation inspectors shall be prohibited from issuing fines to publ
 
 #### (b) Civil penalties
 
-The Secretary shall be prohibited from assessing civil penalties against public transportationagencies for violations of the Department's regulations or orders, except in accordance with the following:
+The Secretary shall be prohibited from assessing civil penalties against public transportation agencies for violations of the Department's regulations or orders, except in accordance with the following:
 
 &emsp;(1) In the case of a public transportation agency that is found to be in violation of a regulation or order issued by the Secretary, the Secretary shall seek correction of the violation through a written notice to the public transportation agency and shall give the public transportation agency reasonable opportunity to correct the violation or propose an alternative means of compliance acceptable to the Secretary.
 

@@ -10,7 +10,7 @@ Prohibition of Officially Provided Sexually Explicit Material.—A member of the
 
 (c)
 
-Resale Activities Review Board.—(1) The Secretary of Defense shall establish a nine-member board to make recommendations to the Secretary regarding whether material sold or rented, or proposed for sale or rental, on property under the jurisdiction of the Department of Defense is barred from sale or rental by subsection (a).
+Resale Activities Review Board.—(1) The Secretary of Defense shall establish a nine-member board to make recommendations to the Secretary regarding whether material sold orrented, or proposed for sale or rental, on property under the jurisdiction of the Department of Defense is barred from sale or rental by subsection (a).
 
 (2)(A) The Secretary of Defense shall appoint six members of the board to broadly represent the interests of the patron base served by the defense commissary system and the exchange system. The Secretary shall appoint one of the members to serve as the chairman of the board. At least one member appointed under this subparagraph shall be a person with experience managing or advocating for military family programs and who is also an eligible patron of the defense commissary system and the exchange system.
 

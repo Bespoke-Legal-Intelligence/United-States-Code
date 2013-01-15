@@ -112,9 +112,9 @@ Reports to Congress.—Not later than 1 year after the date of the enactment of 
 
 &emsp;(5) a description of the quality of health care services provided to inmates during the preceding 12-month period, as compared with the quality of those services provided during the 12-month period ending on the date of the enactment of such Act.
 
-(<i>l</i>)
+(l)
 
-Comprehensive HIV/AIDS Services Required.—The Bureau of Prisons shall providecomprehensive coverage for services relating to human immunodeficiency virus (HIV) and acquired immune deficiency syndrome (AIDS) to each Federal prisoner in the custody of the Bureau of Prisons when medically appropriate. The Bureau of Prisons may not assess or collect a fee under this section for providing such coverage.
+Comprehensive HIV/AIDS Services Required.—The Bureau of Prisons shall provide comprehensive coverage for services relating to human immunodeficiency virus (HIV) and acquired immune deficiency syndrome (AIDS) to each Federal prisoner in the custody of the Bureau of Prisons when medically appropriate. The Bureau of Prisons may not assess or collect a fee under this section for providing such coverage.
 
 (Added Pub. L. 106–294, §2(a), Oct. 12, 2000, 114 Stat. 1038.)
 

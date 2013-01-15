@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Administrator shall use 70 percent of the funds made available to carry out this part for each fiscal year to provide grants, rebates, or low-cost revolving loans, as determined by the Administrator, on a competitive basis, to eligible entities, including through contracts entered into under subsection (e) of this section, to achieve significant reductions in diesel emissions in terms of—
+The Administrator shall use 70 percent of the funds made available to carry out this part for each fiscal year to provide grants, rebates, or low-cost revolving loans, as determined by theAdministrator, on a competitive basis, to eligible entities, including through contracts entered into under subsection (e) of this section, to achieve significant reductions in diesel emissions in terms of—
 
 &emsp;(1) pollution produced; and
 
@@ -18,7 +18,7 @@ The Administrator shall use 70 percent of the funds made available to carry out 
 
 #### (A) Certified engine configurations and verified technologies
 
-&emsp;&emsp;The Administrator shall provide not less than 95 percent of funds available for a fiscalyear under this section to eligible entities for projects using—
+&emsp;&emsp;The Administrator shall provide not less than 95 percent of funds available for a fiscal year under this section to eligible entities for projects using—
 
 &emsp;&emsp;&emsp;(i) a certified engine configuration; or
 
@@ -222,5 +222,5 @@ Subsecs. (e), (f). Pub. L. 111–364, §2(b)(6), added subsecs. (e) and (f).
 
 #### Effective Date of 2011 Amendment
 
-Amendment by Pub. L. 111–364 effective Oct. 1, 2011, except as otherwise provided, see section 4 of Pub. L.111–364, set out as a note under section 16131 of this title.
+Amendment by Pub. L. 111–364 effective Oct. 1, 2011, except as otherwise provided, see section 4 of Pub. L. 111–364, set out as a note under section 16131 of this title.
 

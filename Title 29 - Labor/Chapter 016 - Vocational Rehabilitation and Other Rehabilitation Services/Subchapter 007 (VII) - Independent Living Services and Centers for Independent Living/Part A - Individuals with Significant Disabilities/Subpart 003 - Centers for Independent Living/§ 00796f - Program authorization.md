@@ -32,7 +32,7 @@ From the funds appropriated for fiscal year 1999 and for each subsequent fiscal 
 
 #### (A) Population basis
 
-&emsp;&emsp;After the reservation required by subsection (b) of this section has been made, and except as provided in subparagraphs (B) and (C), from the remainder of the amounts appropriated for each such fiscal year to carry out this subpart, the Commissioner shall make an allotment to each State whose State plan has been approved under section 796d–1 of this title of an amount bearing the same ratio to such remainder as the population of the State bears to the population of all States.
+&emsp;&emsp;After the reservation required by subsection (b) of this section has been made, and except as provided in subparagraphs (B) and (C), from the remainder of the amounts appropriated for each such fiscal year to carry out this subpart, the Commissioner shall make an allotment to each Statewhose State plan has been approved under section 796d–1 of this title of an amount bearing the same ratio to such remainder as the population of the State bears to the population of all States.
 
 #### (B) Maintenance of 1992 amounts
 

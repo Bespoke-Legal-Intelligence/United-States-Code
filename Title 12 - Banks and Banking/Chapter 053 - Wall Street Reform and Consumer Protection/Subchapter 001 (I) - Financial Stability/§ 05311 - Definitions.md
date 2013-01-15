@@ -50,7 +50,7 @@ For purposes of this subchapter, unless the context otherwise requires, the foll
 
 &emsp;A company is “predominantly engaged in financial activities” if—
 
-&emsp;&emsp;(A) the annual gross revenues derived by the company and all of its subsidiaries from activities that are financial in nature (as defined in section 4(k) of the Bank Holding Company Act of 1956 \[12 U.S.C. 1843(k)\]) and, if applicable, from the ownership or controlof one or more insured depository institutions, represents 85 percent or more of the consolidated annual gross revenues of the company; or
+&emsp;&emsp;(A) the annual gross revenues derived by the company and all of its subsidiaries from activities that are financial in nature (as defined in section 4(k) of the Bank Holding Company Act of 1956 \[12 U.S.C. 1843(k)\]) and, if applicable, from the ownership or control of one or more insured depository institutions, represents 85 percent or more of the consolidated annual gross revenues of the company; or
 
 &emsp;&emsp;(B) the consolidated assets of the company and all of its subsidiaries related to activities that are financial in nature (as defined in section 4(k) of the Bank Holding Company Act of 1956) and, if applicable, related to the ownership or control of one or more insured depository institutions, represents 85 percent or more of the consolidated assets of the company.
 
@@ -64,7 +64,7 @@ The Board of Governors shall establish, by regulation, the requirements for dete
 
 #### (c) Foreign nonbank financial companies
 
-For purposes of the application of parts A and C (other than section 5323(b) of this title) with respect to a foreign nonbank financial company, references in this subchapter to “company” or “subsidiary” include only the United States activities and subsidiaries of such foreign company, except as otherwise provided.
+For purposes of the application of parts A and C (other than section 5323(b) of this title) withrespect to a foreign nonbank financial company, references in this subchapter to “company” or “subsidiary” include only the United States activities and subsidiaries of such foreign company, except as otherwise provided.
 
 (Pub. L. 111–203, title I, §102, July 21, 2010, 124 Stat. 1391.)
 

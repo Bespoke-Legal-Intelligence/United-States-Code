@@ -12,7 +12,7 @@ Section was enacted as part of the Hydrogen Future Act of 1996, and not as part 
 
 #### Definitions
 
-Section 2 of Pub. L. 104–271 provided that: “For purposes of titles II and III \[enacting this section and provisions set out as a note under section 12403 of this title\]—
+Pub. L. 104–271, §2, Oct. 9, 1996, 110 Stat. 3304, provided that: “For purposes of titles II and III \[enacting this section and provisions set out as a note under section 12403 of this title\]—
 
 &emsp;“(1) the term ‘Department’ means the Department of Energy; and
 

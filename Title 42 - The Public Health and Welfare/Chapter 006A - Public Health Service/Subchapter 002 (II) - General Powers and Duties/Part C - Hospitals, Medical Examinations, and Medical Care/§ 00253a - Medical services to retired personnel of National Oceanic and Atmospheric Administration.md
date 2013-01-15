@@ -66,7 +66,7 @@ Sec. 2. <i>Persons entitled to treatment</i>. The following persons shall be ent
 
 (3) Dependent members of families of active duty ships’ officers and crew members of the Coast and Geodetic Survey \[now National Oceanic and Atmospheric Administration\].
 
-Sec. 3. <i>Application for treatment; evidence of eligibility</i>. Persons entitled to medical care under Section 2 of these regulations, when applying to Public Health Service medical care facilities for medical care, shall produce proper identification, as issued to them by the Coast and Geodetic Survey \[now National Oceanic and Atmospheric Administration\], and such identification shall be accepted as evidence of eligibility for such medical care by the Service.
+Sec. 3. <i>Application for treatment; evidence of eligibility</i>. Persons entitled to medical care under Section 2 of these regulations, when applying to Public Health Service medical care facilities for medical care, shall produce proper identification, as issued to them by the Coast and Geodetic Survey \[now National Oceanic andAtmospheric Administration\], and such identification shall be accepted as evidence of eligibility for such medical care by the Service.
 
 Sec. 4. <i>Extent of treatment; retired ships’ officers and crew members</i>. Subject to the limitation imposed by paragraph (2) of this section, retired ships’ officers and crew members entitled to medical care under these regulations shall be furnished:
 

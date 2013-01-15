@@ -22,7 +22,7 @@ If for any month prior to the month in which an individual attains the age of 65
 
 &emsp;(5) 80 per centum of his “average current earnings”, or
 
-&emsp;(6) the total of such individual's disability insurance benefits under section 423 of thistitle for such month and of any monthly insurance benefits under section 402 of this title for such month based on his wages and self-employment income, prior to reduction under this section.
+&emsp;(6) the total of such individual's disability insurance benefits under section 423 of this title for such month and of any monthly insurance benefits under section 402 of this title for such month based on his wages and self-employment income, prior to reduction under this section.
 
 > In no case shall the reduction in the total of such benefits under sections 423 and 402 of this title for a month (in a continuous period of months) reduce such total below the sum of—
 
@@ -34,7 +34,7 @@ If for any month prior to the month in which an individual attains the age of 65
 
 #### (b) Reduction where benefits payable on other than monthly basis
 
-If any periodic benefit for a total or partial disability under a law or plan described in subsection (a)(2) of this section is payable on other than a monthly basis (excluding a benefit payable as a lump sum except to the extent that it is a commutation of, or a substitute for, periodic payments), the reduction under this section shall be made at such time or times and in such amounts as the Commissioner of Social Security finds will approximate as nearly as practicable the reduction prescribed by subsection (a) of this section.
+If any periodic benefit for a total or partial disability under a law or plan described in subsection (a)(2) of this section is payable on other than a monthly basis (excluding a benefit payable as a lump sum except to the extent that it is a commutation of, or a substitute for, periodic payments), the reduction under this section shall be made at such time or times and in such amounts as the Commissioner of Social Securityfinds will approximate as nearly as practicable the reduction prescribed by subsection (a) of this section.
 
 #### (c) Reductions and deductions under other provisions
 
@@ -112,7 +112,7 @@ Subsec. (a)(2)(B). Pub. L. 99–509 substituted “section 418(g)” for “sect
 
 Pub. L. 99–272, §12109(a)(2), substituted “all or substantially all of which” for “all or part of which” in cl. (iv).
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–35, §2208(a)(2)–(4), in provision preceding par. (1) substituted “age of 65” for“age of 62”, in par. (2) inserted provisions including periodic benefits under any other law or plan of the United States, a State, a political subdivision, or an instrumentality of two or more States and excluding specified benefits and struck out provision requiring that the Secretary receive notice, in a prior month, of the entitlement for such month, and in par. (4) substituted “such laws or plans” for “the workmen's compensation law or plan”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–35, §2208(a)(2)–(4), in provision preceding par. (1) substituted “age of 65” for “age of 62”, in par. (2) inserted provisions including periodic benefits under any other law or plan of the United States, a State, a political subdivision, or an instrumentality of two or more States and excluding specified benefits and struck out provision requiring that the Secretary receive notice, in a prior month, of the entitlement for such month, and in par. (4) substituted “such laws or plans” for “the workmen's compensation law or plan”.
 
 Subsec. (b). Pub. L. 97–35, §2208(a)(5), substituted “for a total or partial disability under a law or plan described in subsection (a)(2) of this section” for “under a workmen's compensation law or plan”.
 
@@ -128,7 +128,7 @@ Subsec. (f)(2). Pub. L. 95–216, §353(c)(2), divided existing provisions into 
 
 <b>1976</b>—Subsec. (f)(2). Pub. L. 94–202 substituted “calendar year before the calendar year” for “calendar year” and “taxable year before the calendar year” for “taxable year”.
 
-<b>1972</b>—Subsec. (a). Pub. L. 92–603 added cl. (C) in provisions for the determination of an individual's average current earnings so as to introduce into the formula a factor of one-twelfth of the total wages and self-employment income for the calendar year in which he had the highest such wages and income during the year in which he became disabled and the five years preceding that year.
+<b>1972</b>—Subsec. (a). Pub. L. 92–603 added cl. (C) in provisions for the determination of an individual's average current earnings so as to introduce into the formula afactor of one-twelfth of the total wages and self-employment income for the calendar year in which he had the highest such wages and income during the year in which he became disabled and the five years preceding that year.
 
 <b>1968</b>—Subsec. (a). Pub. L. 90–248 inserted in cl. (B) of first sentence following par. (8) “(computed without regard to the limitations specified in sections 409(a) and 411(b)(1) of this title)” before “for the five”, and inserted last sentence authorizing the Secretary, in certain cases, to estimate the total of wages and self-employment income for purposes of cl. (B) indicating the extent such earnings exceed the limitations in sections 409(a) and 411(b)(1) of this title.
 
@@ -140,11 +140,11 @@ Amendment by section 107(a)(4) of Pub. L. 103–296 effective Mar. 31, 1995, see
 
 Amendment by section 10208(b)(2)(A), (C) of Pub. L. 101–239 applicable with respect to computation of average total wage amounts (under amended provisions) for calendar years after 1990, see section 10208(c) of Pub. L. 101–239, set out as a note under section 430 of this title.
 
-#### Effective Date of 1986 Amendments
+#### Effective Date of 1986 Amendment
 
 Amendment by Pub. L. 99–509 effective with respect to payments due with respect to wages paid after Dec. 31, 1986, including wages paid after such date by a State (or political subdivision thereof) that modified its agreement pursuant to section 418(e)(2) of this title prior to Oct. 21, 1986, with certain exceptions, see section 9002(d) of Pub. L. 99–509 set out as a note under section 418 of this title.
 
-Section 12109(b) of Pub. L. 99–272 provided that:
+Pub. L. 99–272, title XII, §12109(b), Apr. 7, 1986, 100 Stat. 287, provided that:
 
 “(1) The amendment made by subsection (a)(1) \[amending this section\] shall be effective as though it had been included or reflected in the amendment made by section 2208(a)(3) of the Omnibus Budget Reconciliation Act of 1981 \[Pub. L. 97–35, amending this section\].
 
@@ -152,23 +152,23 @@ Section 12109(b) of Pub. L. 99–272 provided that:
 
 #### Effective Date of 1981 Amendment
 
-Section 2208(b) of Pub. L. 97–35 provided that: “The amendments made by subsection (a) \[amending this section\] shall be effective with respect to individuals who first become entitled to benefits under section 223(a) of the Social Security Act \[section 423(a) of this title\] for months beginning after the month in which this Act is enacted \[August 1981\], but only in the case of an individual who became disabled within the meaning of section 223(d) of such Act after the sixth month preceding the month in which this Act is enacted.”
+Pub. L. 97–35, title XXII, §2208(b), Aug. 13, 1981, 95 Stat. 840, provided that: “The amendments made by subsection (a) \[amending this section\] shall be effective with respect to individuals who first become entitled to benefits under section 223(a) of the Social Security Act \[section 423(a) of this title\] for months beginning after the month in which this Act is enacted \[August 1981\], but only in the case of an individual who became disabled within the meaning of section 223(d) of such Act after the sixth month preceding the month in which this Act is enacted.”
 
 #### Effective Date of 1977 Amendment
 
 Amendment by section 205(d) of Pub. L. 95–216 effective with respect to monthly benefits under this subchapter payable for months after December 1978 and with respect to lump-sum death payments with respect to deaths occurring after December 1978, see section 206 of Pub. L. 95–216, set out as a note under section 402 of this title.
 
-Section 353(c)(1) of Pub. L. 95–216 provided that the amendment made by that section is effective with respect to the estimates for calendar years beginning after Dec. 31, 1977.
+Pub. L. 95–216, title III, §353(c)(1), Dec. 20, 1977, 91 Stat. 1553, provided that the amendment made by that section is effective with respect to the estimates for calendar years beginning after Dec. 31, 1977.
 
 Amendment by section 353(c)(2) of Pub. L. 95–216 effective Jan. 1, 1979, see section 353(g) of Pub. L. 95–216, set out as a note under section 418 of this title.
 
 #### Effective Date of 1972 Amendment
 
-Section 119(c) of Pub. L. 92–603 provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply with respect to monthly benefits under title II of the Social Security Act \[this subchapter\] for months after December 1972.”
+Pub. L. 92–603, title I, §119(c), Oct. 30, 1972, 86 Stat. 1352, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply with respect to monthly benefits under title II of the Social Security Act \[this subchapter\] for months after December 1972.”
 
 #### Effective Date of 1968 Amendments; Determination of Average Current Earnings Upon Redetermination of Benefits Subject to Reduction
 
-Section 159(b) of Pub. L. 90–248 provided that:
+Pub. L. 90–248, title I, §159(b), Jan. 2, 1968, 81 Stat. 869, provided that:
 
 “(1) The amendments made by subsection (a) \[amending this section\] shall apply only with respect to monthly benefits under title II of the Social Security Act \[this subchapter\] for months after January 1968.
 
@@ -176,7 +176,7 @@ Section 159(b) of Pub. L. 90–248 provided that:
 
 #### Effective Date
 
-Section 335 of Pub. L. 89–97 provided that this section is effective with respect to benefits under this subchapter for months after December 1965 based on the wages and self-employment income of individuals entitled to benefits under section 423 of this title whose period of disability (as defined in this subchapter) began after June 1, 1965.
+Pub. L. 89–97, title III, §335, July 30, 1965, 79 Stat. 406, provided that this section is effective with respect to benefits under this subchapter for months after December 1965 based on the wages and self-employment income of individuals entitled to benefits under section 423 of this title whose period of disability (as defined in this subchapter) began after June 1, 1965.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

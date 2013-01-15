@@ -54,10 +54,14 @@
 | [2333\.](%C2%A7%2002333%20-%20Joint%20policies%20on%20requirements%20definition%2C%20contingency%20program%20management%2C%20and%20contingency%20contracting.md) | Joint policies on requirements definition, contingency program management, and contingency contracting. |
 | [2334\.](%C2%A7%2002334%20-%20Independent%20cost%20estimation%20and%20cost%20analysis.md) | Independent cost estimation and cost analysis. |
 | [2335\.](%C2%A7%2002335%20-%20Prohibition%20on%20collection%20of%20political%20information.md) | Prohibition on collection of political information. |
+| [2336\.](%C2%A7%2002336%20-%20Intergovernmental%20support%20agreements%20with%20State%20and%20local%20governments.md) | Intergovernmental support agreements with State and local governments. |
+| [2337\.](%C2%A7%2002337%20-%20Life-cycle%20management%20and%20product%20support.md) | Life-cycle management and product support. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2013</b>—Pub. L. 112–239, div. A, title III, §331(b), title VIII, §823(a)(2), Jan. 2, 2013, 126 Stat. 1697, 1832, added items 2336 and 2337.
 
 <b>2011</b>—Pub. L. 112–81, div. A, title VIII, §805(b), 823(b), Dec. 31, 2011, 125 Stat. 1486, 1503, added items 2313a and 2335.
 
@@ -176,3 +180,5 @@ Pub. L. 98–369, div. B, title VII, §2727(a), July 18, 1984, 98 Stat. 1194, su
 - [&sect; 02333 - Joint policies on requirements definition, contingency program management, and contingency contracting](%C2%A7%2002333%20-%20Joint%20policies%20on%20requirements%20definition%2C%20contingency%20program%20management%2C%20and%20contingency%20contracting.md)
 - [&sect; 02334 - Independent cost estimation and cost analysis](%C2%A7%2002334%20-%20Independent%20cost%20estimation%20and%20cost%20analysis.md)
 - [&sect; 02335 - Prohibition on collection of political information](%C2%A7%2002335%20-%20Prohibition%20on%20collection%20of%20political%20information.md)
+- [&sect; 02336 - Intergovernmental support agreements with State and local governments](%C2%A7%2002336%20-%20Intergovernmental%20support%20agreements%20with%20State%20and%20local%20governments.md)
+- [&sect; 02337 - Life-cycle management and product support](%C2%A7%2002337%20-%20Life-cycle%20management%20and%20product%20support.md)

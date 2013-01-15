@@ -2,125 +2,9 @@
 
 (a)
 
-Authorization of Appropriations.—Not more than the following amounts may be appropriated to the Secretary of Transportation out of the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 (26 U.S.C. 9502) for conducting civil aviation research and development under sections 44504, 44505, 44507, 44509, and 44511–44513 of this title:
+Authorization of Appropriations.—Not more than the following amounts may be appropriated to the Secretary of Transportation out of the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 (26 U.S.C. 9502) for conducting civil aviation research and development under sections 44504, 44505, 44507, 44509, and 44511–44513 of this title and, for each of fiscal years 2012 through 2015, under subsection (g):
 
-&emsp;(1) for fiscal year 1995—
-
-&emsp;&emsp;(A) $7,673,000 for management and analysis projects and activities;
-
-&emsp;&emsp;(B) $80,901,000 for capacity and air traffic management technology projects and activities;
-
-&emsp;&emsp;(C) $39,242,000 for communications, navigation, and surveillance projects and activities;
-
-&emsp;&emsp;(D) $2,909,000 for weather projects and activities;
-
-&emsp;&emsp;(E) $8,660,000 for airport technology projects and activities;
-
-&emsp;&emsp;(F) $51,004,000 for aircraft safety technology projects and activities;
-
-&emsp;&emsp;(G) $36,604,000 for system security technology projects and activities;
-
-&emsp;&emsp;(H) $26,484,000 for human factors and aviation medicine projects and activities;
-
-&emsp;&emsp;(I) $8,124,000 for environment and energy projects and activities; and
-
-&emsp;&emsp;(J) $5,199,000 for innovative/cooperative research projects and activities;
-
-&emsp;(2) for fiscal year 1996—
-
-&emsp;&emsp;(A) $8,056,000 for management and analysis projects and activities;
-
-&emsp;&emsp;(B) $84,946,000 for capacity and air traffic management technology projects and activities;
-
-&emsp;&emsp;(C) $41,204,000 for communications, navigation, and surveillance projects and activities;
-
-&emsp;&emsp;(D) $3,054,000 for weather projects and activities;
-
-&emsp;&emsp;(E) $9,093,000 for airport technology projects and activities;
-
-&emsp;&emsp;(F) $53,554,000 for aircraft safety technology projects and activities;
-
-&emsp;&emsp;(G) $38,434,000 for system security technology projects and activities;
-
-&emsp;&emsp;(H) $27,808,000 for human factors and aviation medicine projects and activities;
-
-&emsp;&emsp;(I) $8,532,000 for environment and energy projects and activities; and
-
-&emsp;&emsp;(J) $5,459,000 for innovative/cooperative research projects and activities;
-
-&emsp;(3) for fiscal year 1997—
-
-&emsp;&emsp;(A) $13,660,000 for system development and infrastructure projects and activities;
-
-&emsp;&emsp;(B) $34,889,000 for capacity and air traffic management technology projects and activities;
-
-&emsp;&emsp;(C) $19,000,000 for communications, navigation, and surveillance projects and activities;
-
-&emsp;&emsp;(D) $13,000,000 for weather projects and activities;
-
-&emsp;&emsp;(E) $5,200,000 for airport technology projects and activities;
-
-&emsp;&emsp;(F) $36,504,000 for aircraft safety technology projects and activities;
-
-&emsp;&emsp;(G) $57,055,000 for system security technology projects and activities;
-
-&emsp;&emsp;(H) $23,504,000 for human factors and aviation medicine projects and activities;
-
-&emsp;&emsp;(I) $3,600,000 for environment and energy projects and activities; and
-
-&emsp;&emsp;(J) $2,000,000 for innovative/cooperative research projects and activities;
-
-&emsp;(4) for fiscal year 1998, $226,800,000, including—
-
-&emsp;&emsp;(A) $16,379,000 for system development and infrastructure projects and activities;
-
-&emsp;&emsp;(B) $27,089,000 for capacity and air traffic management technology projects and activities;
-
-&emsp;&emsp;(C) $23,362,000 for communications, navigation, and surveillance projects and activities;
-
-&emsp;&emsp;(D) $16,600,000 for weather projects and activities;
-
-&emsp;&emsp;(E) $7,854,000 for airport technology projects and activities;
-
-&emsp;&emsp;(F) $49,202,000 for aircraft safety technology projects and activities;
-
-&emsp;&emsp;(G) $53,759,000 for system security technology projects and activities;
-
-&emsp;&emsp;(H) $26,550,000 for human factors and aviation medicine projects and activities;
-
-&emsp;&emsp;(I) $2,891,000 for environment and energy projects and activities; and
-
-&emsp;&emsp;(J) $3,114,000 for innovative/cooperative research projects and activities, of which $750,000 shall be for carrying out the grant program established under subsection (h);
-
-&emsp;(5) for fiscal year 1999, $229,673,000;
-
-&emsp;(6) for fiscal year 2000, $224,000,000, including—
-
-&emsp;&emsp;(A) $17,269,000 for system development and infrastructure projects and activities;
-
-&emsp;&emsp;(B) $33,042,500 for capacity and air traffic management technology projects and activities;
-
-&emsp;&emsp;(C) $11,265,400 for communications, navigation, and surveillance projects and activities;
-
-&emsp;&emsp;(D) $19,300,000 for weather projects and activities;
-
-&emsp;&emsp;(E) $6,358,200 for airport technology projects and activities;
-
-&emsp;&emsp;(F) $44,457,000 for aircraft safety technology projects and activities;
-
-&emsp;&emsp;(G) $53,218,000 for system security technology projects and activities;
-
-&emsp;&emsp;(H) $26,207,000 for human factors and aviation medicine projects and activities;
-
-&emsp;&emsp;(I) $3,481,000 for environment and energy projects and activities; and
-
-&emsp;&emsp;(J) $2,171,000 for innovative/cooperative research projects and activities, of which $750,000 shall be for carrying out subsection (h);
-
-&emsp;(7) for fiscal year 2001, $237,000,000;
-
-&emsp;(8) for fiscal year 2002, $249,000,000;
-
-&emsp;(9) for fiscal year 2004, $346,317,000, including—
+&emsp;(1) for fiscal year 2004, $346,317,000, including—
 
 &emsp;&emsp;(A) $65,000,000 for Improving Aviation Safety;
 
@@ -128,7 +12,7 @@ Authorization of Appropriations.—Not more than the following amounts may be ap
 
 &emsp;&emsp;(C) $27,500,000 for Human Factors and Aeromedical Research;
 
-&emsp;&emsp;(D) $30,000,000 for Environmental Research and Development, of which $20,000,000 shallbe for research activities related to reducing community exposure to civilian aircraft noise or emissions;
+&emsp;&emsp;(D) $30,000,000 for Environmental Research and Development, of which $20,000,000 shall be for research activities related to reducing community exposure to civilian aircraft noise or emissions;
 
 &emsp;&emsp;(E) $7,000,000 for Research Mission Support;
 
@@ -146,7 +30,7 @@ Authorization of Appropriations.—Not more than the following amounts may be ap
 
 &emsp;&emsp;(L) $7,750,000 for Airports Technology-Efficiency;
 
-&emsp;(10) for fiscal year 2005, $356,192,000, including—
+&emsp;(2) for fiscal year 2005, $356,192,000, including—
 
 &emsp;&emsp;(A) $65,705,000 for Improving Aviation Safety;
 
@@ -174,7 +58,7 @@ Authorization of Appropriations.—Not more than the following amounts may be ap
 
 &emsp;&emsp;(M) $7,828,000 for Airports Technology-Efficiency;
 
-&emsp;(11) for fiscal year 2006, $352,157,000, including—
+&emsp;(3) for fiscal year 2006, $352,157,000, including—
 
 &emsp;&emsp;(A) $66,447,000 for Improving Aviation Safety;
 
@@ -196,11 +80,11 @@ Authorization of Appropriations.—Not more than the following amounts may be ap
 
 &emsp;&emsp;(J) $100,000,000 for the Center for Advanced Aviation System Development;
 
-&emsp;&emsp;(K) $9,862,000 for Airports Technology-Safety; <sup>1</sup>
+&emsp;&emsp;(K) $9,862,000 for Airports Technology-Safety; and
 
-&emsp;&emsp;(L) $7,906,000 for Airports Technology-Efficiency; and <sup>2</sup>
+&emsp;&emsp;(L) $7,906,000 for Airports Technology-Efficiency;
 
-&emsp;(12) for fiscal year 2007, $356,261,000, including—
+&emsp;(4) for fiscal year 2007, $356,261,000, including—
 
 &emsp;&emsp;(A) $67,244,000 for Improving Aviation Safety;
 
@@ -226,13 +110,13 @@ Authorization of Appropriations.—Not more than the following amounts may be ap
 
 &emsp;&emsp;(L) $8,000,000 for Airports Technology-Efficiency;
 
-&emsp;(13) $171,000,000 for fiscal year 2009;
+&emsp;(5) $171,000,000 for fiscal year 2009;
 
-&emsp;(14) $190,500,000 for fiscal year 2010;
+&emsp;(6) $190,500,000 for fiscal year 2010;
 
-&emsp;(15) $170,000,000 for fiscal year 2011; and
+&emsp;(7) $170,000,000 for fiscal year 2011; and
 
-&emsp;(16) $57,016,885 for the period beginning on October 1, 2011, and ending on January 31, 2012.
+&emsp;(8) $168,000,000 for each of fiscal years 2012 through 2015.
 
 (b)
 
@@ -266,7 +150,55 @@ Air Traffic Controller Performance Research.—Necessary amounts may be appropri
 
 Availability of Amounts.—Amounts appropriated under subsection (a) of this section remain available until expended.
 
-(h) <sup>3</sup>
+(g)
+
+Specific Authorizations.—The following programs described in the research, engineering, and development account of the national aviation research plan required under section 44501(c) are authorized:
+
+&emsp;(1) Fire Research and Safety.
+
+&emsp;(2) Propulsion and Fuel Systems.
+
+&emsp;(3) Advanced Materials/Structural Safety.
+
+&emsp;(4) Atmospheric Hazards—Aircraft Icing/Digital System Safety.
+
+&emsp;(5) Continued Airworthiness.
+
+&emsp;(6) Aircraft Catastrophic Failure Prevention Research.
+
+&emsp;(7) Flightdeck/Maintenance/System Integration Human Factors.
+
+&emsp;(8) System Safety Management.
+
+&emsp;(9) Air Traffic Control/Technical Operations Human Factors.
+
+&emsp;(10) Aeromedical Research.
+
+&emsp;(11) Weather Program.
+
+&emsp;(12) Unmanned Aircraft Systems Research.
+
+&emsp;(13) NextGen—Alternative Fuels for General Aviation.
+
+&emsp;(14) Joint Planning and Development Office.
+
+&emsp;(15) NextGen—Wake Turbulence Research.
+
+&emsp;(16) NextGen—Air Ground Integration Human Factors.
+
+&emsp;(17) NextGen—Self Separation Human Factors.
+
+&emsp;(18) NextGen—Weather Technology in the Cockpit.
+
+&emsp;(19) Environment and Energy Research.
+
+&emsp;(20) NextGen Environmental Research—Aircraft Technologies, Fuels, and Metrics.
+
+&emsp;(21) System Planning and Resource Management.
+
+&emsp;(22) The William J. Hughes Technical Center Laboratory Facility.
+
+(h)
 
 Research Grants Program Involving Undergraduate Students.—
 
@@ -284,7 +216,7 @@ Establishment.—The Administrator of the Federal Aviation Administration shall 
 
 &emsp;(2)
 
-Notice of criteria.—Within 6 months after the date of the enactment of the FAA Research, Engineering, and Development Authorization Act of 1998, the Administrator of the Federal Aviation Administration shall establish and publish in the Federal Register criteria for the submittal of proposals for a grant under this subsection, and for the awarding of such grants.
+Notice of criteria.—Within 6 months after the date of the enactment of the FAAResearch, Engineering, and Development Authorization Act of 1998, the Administrator of the Federal Aviation Administration shall establish and publish in the Federal Register criteria for the submittal of proposals for a grant under this subsection, and for the awarding of such grants.
 
 &emsp;(3)
 
@@ -300,7 +232,7 @@ Principal criteria.—The principal criteria for the awarding of grants under th
 
 Competitive, merit-based evaluation.—Grants shall be awarded under this subsection on the basis of evaluation of proposals through a competitive, merit-based process.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1294; Pub. L. 103–305, title III, §302, Aug. 23, 1994, 108 Stat. 1589; Pub. L. 104–264, title XI, §§1102, 1103, Oct. 9, 1996, 110 Stat. 3278; Pub. L. 104–287, §5(9), (74), Oct. 11, 1996, 110 Stat. 3389, 3396; Pub. L. 105–155, §§2, 3, Feb. 11, 1998, 112 Stat. 5; Pub. L. 106–181, title IX, §901, Apr. 5, 2000, 114 Stat. 194; Pub. L. 108–176, title VII, §§701, 707, Dec. 12, 2003, 117 Stat. 2574, 2582; Pub. L. 110–330, §8, Sept. 30, 2008, 122 Stat. 3719; Pub. L. 111–12, §8, Mar. 30, 2009, 123 Stat. 1459; Pub. L. 111–69, §8, Oct. 1, 2009, 123 Stat. 2056; Pub. L. 111–116, §8, Dec. 16, 2009, 123 Stat. 3033; Pub. L. 111–153, §8, Mar. 31, 2010, 124 Stat. 1086; Pub. L. 111–161, §8, Apr. 30, 2010, 124 Stat. 1128; Pub. L. 111–197, §8, July 2, 2010, 124 Stat. 1355; Pub. L. 111–216, title I, §107, Aug. 1, 2010, 124 Stat. 2350; Pub. L. 112–30, title II, §208, Sept. 16, 2011, 125 Stat. 359.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1294; Pub. L. 103–305, title III, §302, Aug. 23, 1994, 108 Stat. 1589; Pub. L. 104–264, title XI, §§1102, 1103, Oct. 9, 1996, 110 Stat. 3278; Pub. L. 104–287, §5(9), (74), Oct. 11, 1996, 110 Stat. 3389, 3396; Pub. L. 105–155, §§2, 3, Feb. 11, 1998, 112 Stat. 5; Pub. L. 106–181, title IX, §901, Apr. 5, 2000, 114 Stat. 194; Pub. L. 108–176, title VII, §§701, 707, Dec. 12, 2003, 117 Stat. 2574, 2582; Pub. L. 110–330, §8, Sept. 30, 2008, 122 Stat. 3719; Pub. L. 111–12, §8, Mar. 30, 2009, 123 Stat. 1459; Pub. L. 111–69, §8, Oct. 1, 2009, 123 Stat. 2056; Pub. L. 111–116, §8, Dec. 16, 2009, 123 Stat. 3033; Pub. L. 111–153, §8, Mar. 31, 2010, 124 Stat. 1086; Pub. L. 111–161, §8, Apr. 30, 2010, 124 Stat. 1128; Pub. L. 111–197, §8, July 2, 2010, 124 Stat. 1355; Pub. L. 111–216, title I, §107, Aug. 1, 2010, 124 Stat. 2350; Pub. L. 112–30, title II, §208, Sept. 16, 2011, 125 Stat. 359; Pub. L. 112–91, §8, Jan. 31, 2012, 126 Stat. 4; Pub. L. 112–95, title IX, §901(a), (b), Feb. 14, 2012, 126 Stat. 137.)
 
 Historical and Revision Notes
 
@@ -363,6 +295,16 @@ In subsection (d)(2), the reference to fiscal years 1988–1992 and the words �
 The date of the enactment of the FAA Research, Engineering, and Development Authorization Act of 1998, referred to in subsec. (h)(2), is the date of enactment of Pub. L. 105–155, which was approved Feb. 11, 1998.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a). Pub. L. 112–95, §901(a)(1), substituted “of this title and, for each of fiscal years 2012 through 2015, under subsection (g)” for “of this title” in introductory provisions.
+
+Subsec. (a)(1) to (15). Pub. L. 112–95, §901(a)(2)–(5), redesignated pars. (9) to (15) as (1) to (7), respectively, inserted “and” at end of par. (3)(K), struck out “and” at end of par. (3)(L), added par. (8), and struck out former pars. (1) to (8) which related to appropriations for fiscal years 1995 to 2002.
+
+Subsec. (a)(16). Pub. L. 112–95, §901(a)(5), struck out par. (16) which read as follows: “$64,092,459 for the period beginning on October 1, 2011, and ending on February 17, 2012.”
+
+Pub. L. 112–91 amended par. (16) generally. Prior to amendment, par. (16) read as follows: “$57,016,885 for the period beginning on October 1, 2011, and ending on January 31, 2012.”
+
+Subsec. (g). Pub. L. 112–95, §901(b), added subsec. (g).
 
 <b>2011</b>—Subsec. (a)(15), (16). Pub. L. 112–30 added pars. (15) and (16).
 
@@ -465,10 +407,4 @@ Reprogramming.—If any funds authorized by the amendments made by this Act \[am
 “(b)
 
 Notice of Reorganization.—The Administrator of the Federal Aviation Administration shall provide notice to the Committees on Science \[now Science, Space, and Technology\], Transportation and Infrastructure, and Appropriations of the House of Representatives, and the Committees on Commerce, Science, and Transportation and Appropriations of the Senate, not later than 30 days before any major reorganization (as determined by the Administrator) of any program of the Federal Aviation Administration for which funds are authorized by this Act.”
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “and”.</i>
-
-<i><sup>2</sup></i><i> So in original. The word “and” probably should not appear.</i>
-
-<i><sup>3</sup></i><i> So in original. No subsec. (g) has been enacted.</i>
 

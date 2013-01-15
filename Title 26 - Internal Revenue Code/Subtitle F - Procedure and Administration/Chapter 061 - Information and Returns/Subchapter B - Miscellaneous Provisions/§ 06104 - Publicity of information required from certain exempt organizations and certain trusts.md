@@ -346,11 +346,11 @@ Publication of annual returns.—Section 6104(d) of such Code, as in effect befo
 
 #### Effective Date of 1996 Amendment
 
-Section 1313(c) of Pub. L. 104–168 provided that: “The amendments made by this section \[amending this section and section 6685 of this title\] shall apply to requests made on or after the 60th day after the Secretary of the Treasury first issues the regulations referred to section 6104(e)(3) of the Internal Revenue Code of 1986 (as added by subsection (a)(3)).”
+Pub. L. 104–168, title XIII, §1313(c), July 30, 1996, 110 Stat. 1480, provided that: “The amendments made by this section \[amending this section and section 6685 of this title\] shall apply to requests made on or after the 60th day after the Secretary of the Treasury first issues the regulations referred to section 6104(e)(3) of the Internal Revenue Code of 1986 (as added by subsection (a)(3)).”
 
 #### Effective Date of 1987 Amendment
 
-Section 10702(b) of Pub. L. 100–203 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply—
+Pub. L. 100–203, title X, §10702(b), Dec. 22, 1987, 101 Stat. 1330–460, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply—
 
 &emsp;“(1) to returns for years beginning after December 31, 1986, and
 
@@ -380,13 +380,13 @@ Amendment by Pub. L. 95–227 applicable with respect to contributions, acts, an
 
 #### Effective Date of 1976 Amendment
 
-Section 1201(d)(2) of Pub. L. 94–455 provided that: “The amendments made by this subsection \[amending this section\] apply to any letter or other document issued with respect to applications filed after October 31, 1976.”
+Pub. L. 94–455, title XII, §1201(d)(2), Oct. 4, 1976, 90 Stat. 1667, provided that: “The amendments made by this subsection \[amending this section\] apply to any letter or other document issued with respect to applications filed after October 31, 1976.”
 
 Amendment by section 1307(d)(2)(B) of Pub. L. 94–455 applicable on and after Oct. 4, 1976, see section 1307(e)(6) of Pub. L. 94–455, set out as a note under section 6001 of this title.
 
 #### Effective Date of 1974 Amendment
 
-Section 1022(g)(4) of Pub. L. 93–406 provided that: “The amendments made by this subsection \[amending this section\] shall apply to applications filed (or documents issued) after the date of enactment of this Act \[Sept. 2, 1974\].”
+Pub. L. 93–406, title X, §1022(g)(4), Sept. 2, 1974, 88 Stat. 941, provided that: “The amendments made by this subsection \[amending this section\] shall apply to applications filed (or documents issued) after the date of enactment of this Act \[Sept. 2, 1974\].”
 
 #### Effective Date of 1969 Amendment
 
@@ -394,7 +394,7 @@ Amendment by Pub. L. 91–172 effective Jan. 1, 1970, see section 101(k)(1) of P
 
 #### Effective Date of 1958 Amendment
 
-Section 75(c) of Pub. L. 85–866 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the 60th day after the day on which this Act is enacted \[Sept. 2, 1958\]. The amendments made by subsection (b) \[amending section 6033 of this title\] shall apply to taxable years ending on or after December 31, 1958.”
+Pub. L. 85–866, title I, §75(c), Sept. 2, 1958, 72 Stat. 1661, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the 60th day after the day on which this Act is enacted \[Sept. 2, 1958\]. The amendments made by subsection (b) \[amending section 6033 of this title\] shall apply to taxable years ending on or after December 31, 1958.”
 
 #### Effect of Amendments on Existing Disclosures
 

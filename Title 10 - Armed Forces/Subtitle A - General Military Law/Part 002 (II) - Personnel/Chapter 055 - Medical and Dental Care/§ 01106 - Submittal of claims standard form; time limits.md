@@ -34,7 +34,7 @@ Waiver.—The Secretary of Defense may waive the requirements of subsection (a) 
 
 #### Regulations
 
-Section 716(b) of Pub. L. 102–190 provided that: “The regulations required by section 1106 of title 10, United States Code (as added by subsection (a)), shall be prescribed to take effect not later than 180 days after the date of the enactment of this Act \[Dec. 5, 1991\].”
+Pub. L. 102–190, div. A, title VII, §716(b), Dec. 5, 1991, 105 Stat. 1404, provided that: “The regulations required by section 1106 of title 10, United States Code (as added by subsection (a)), shall be prescribed to take effect not later than 180 days after the date of the enactment of this Act \[Dec. 5, 1991\].”
 
 #### Establishment of Appeals Process for ClaimCheck Denials
 

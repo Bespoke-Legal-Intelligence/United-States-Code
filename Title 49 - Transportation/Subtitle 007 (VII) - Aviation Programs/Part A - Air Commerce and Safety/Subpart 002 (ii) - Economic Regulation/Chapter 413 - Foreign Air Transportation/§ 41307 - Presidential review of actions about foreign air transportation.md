@@ -40,7 +40,7 @@ Ex. Ord. No. 11920, June 10, 1976, 41 F.R. 23665, which provided for establishme
 
 #### Executive Order No. 12547
 
-Ex. Ord. No. 12547, Feb. 6, 1986, 51 F.R. 5029, which provided for establishment of procedures to facilitate Presidential review of international aviation decisions submitted by Department of Transportation, was revoked by Ex. Ord. No. 12597, May 13, 1987, 52 F.R. 18335, set out below.
+Ex. Ord. No. 12547, Feb. 6, 1986, 51 F.R. 5029, which provided for establishment of procedures to facilitatePresidential review of international aviation decisions submitted by Department of Transportation, was revoked by Ex. Ord. No. 12597, May 13, 1987, 52 F.R. 18335, set out below.
 
 #### Ex. Ord. No. 12597. Establishing Procedures for Facilitating Presidential Review of International Aviation Decisions by the Department of Transportation
 
@@ -54,7 +54,7 @@ Sec. 2. The Secretary of Transportation is designated and empowered to receive o
 
 Sec. 3. (a) Except as otherwise provided in this section, decisions of the DOT subject to Section 801 of the Federal Aviation Act, as amended, may be made available by the DOT for public inspection and copying following transmission to Executive departments and agencies pursuant to section 3(c) of this Order.
 
-(b) In the interests of national security, and in order to allow for consideration of appropriate action underExecutive Order No. 12356 \[50 U.S.C. 435 note\], decisions of the DOT transmitted to Executive departments and agencies pursuant to section 3(c) of this Order shall be withheld from public disclosure for a period not to exceed 5 days after said transmission.
+(b) In the interests of national security, and in order to allow for consideration of appropriate action under Executive Order No. 12356 \[50 U.S.C. 435 note\], decisions of the DOT transmitted to Executive departments and agencies pursuant to section 3(c) of this Order shall be withheld from public disclosure for a period not to exceed 5 days after said transmission.
 
 (c) At the same time that decisions of the DOT are received by the Secretary of Transportation pursuant to section 2 of this Order, the DOT shall transmit copies thereof to the Secretary of State, the Secretary of Defense, the Secretary of the Treasury, the Attorney General, the Assistant to the President for National Security Affairs, the Director of the Office of Management and Budget, and any other Executive department or agency that the DOT deems appropriate.
 
@@ -80,7 +80,7 @@ Sec. 7. Individuals within the Executive Office of the President shall follow a 
 
 Sec. 8. Departments and agencies outside of the Executive Office of the President that regularly make recommendations in connection with the presidential review pursuant to Section 801 shall, consistent with applicable law, including the provisions of Chapter 5 of Title 5 of the United States Code:
 
-(a) establish public dockets for all written communications (other than those requiring confidential treatment for defense or foreign policy reasons) between their officers and employees and private parties in connection with the preparation of such recommendations; and
+(a) establish public dockets for all written communications (other than those requiring confidentialtreatment for defense or foreign policy reasons) between their officers and employees and private parties in connection with the preparation of such recommendations; and
 
 (b) prescribe such other procedures governing oral and written communications as they deem appropriate.
 

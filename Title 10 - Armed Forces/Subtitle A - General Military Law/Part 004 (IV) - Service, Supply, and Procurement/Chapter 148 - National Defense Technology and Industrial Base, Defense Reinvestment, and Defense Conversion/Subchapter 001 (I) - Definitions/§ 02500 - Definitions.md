@@ -30,7 +30,7 @@ In this chapter:
 
 &emsp;&emsp;&emsp;(i) encourages the participation of firms so owned or controlled in research and development consortia to which the government of that country provides funding directly or provides funding indirectly through international organizations or agreements; and
 
-&emsp;&emsp;&emsp;(ii) affords adequate and effective protection for the intellectual property rights ofcompanies incorporated in the United States.
+&emsp;&emsp;&emsp;(ii) affords adequate and effective protection for the intellectual property rights of companies incorporated in the United States.
 
 > &emsp;Such term includes a consortium of such companies or other business entities, as determined by the Secretary of Commerce.
 
@@ -40,7 +40,7 @@ In this chapter:
 
 &emsp;&emsp;(A) Paragraphs (4) through (7) of subsection (b).
 
-&emsp;&emsp;(B) Subsections (e) through (<i>l</i>).
+&emsp;&emsp;(B) Subsections (e) through (l).
 
 &emsp;(12) The term “Small Business Technology Transfer Program” means the program established under the following provisions of such section:
 
@@ -106,15 +106,15 @@ Pars. (13) to (15). Pub. L. 103–160, §1315(f), added pars. (13) to (15).
 
 #### Short Title of 1994 Amendment
 
-Section 1101 of title XI of div. A of Pub. L. 103–337 provided that: “This title \[enacting sections 2519 and 2520 of this title, amending this section, sections 1151, 1152, 2391, 2511 to 2513, and 2524 of this title, and sections 1662d and 1662d–1 of Title 29, Labor, and enacting and amending provisions set out as notes under section 2501 of this title\] may be cited as the ‘Defense Conversion, Reinvestment, and Transition Assistance Amendments of 1994’.”
+Pub. L. 103–337, div. A, title XI, §1101, Oct. 5, 1994, 108 Stat. 2862, provided that: “This title \[enacting sections 2519 and 2520 of this title, amending this section, sections 1151, 1152, 2391, 2511 to 2513, and 2524 of this title, and sections 1662d and 1662d–1 of Title 29, Labor, and enacting and amending provisions set out as notes under section 2501 of this title\] may be cited as the ‘Defense Conversion, Reinvestment, and Transition Assistance Amendments of 1994’.”
 
 #### Short Title of 1993 Amendment
 
-Section 1301 of title XIII of div. A of Pub. L. 103–160 provided that: “This title \[enacting sections 1152 and 1153 of this title and sections 1279d, 1279e, and 1280a of the Appendix to Title 46, Shipping, amending this section, sections 1142, 1151, 1598, 2410j, 2501, 2502, 2511 to 2513, 2523, and 2524 of this title, sections 1551 and 1662d–1 of Title 29, Labor, section 31326 of Title 46, and sections 1271, 1273, 1274, and 1274a of the Appendix to Title 46, repealing section 2504 of this title, enacting provisions set out as notes under sections 1143, 1151, 2501, 2511, 2701, and 5013 of this title, section 1662d–1 of Title 29, and sections 1279b and 1279d of the Appendix to Title 46, amending provisions set out as notes under sections 1143, 2391, and 2501 of this title, and repealing provisions set out as a note under section 2701 of this title\] may be cited as the ‘Defense Conversion, Reinvestment, and Transition Assistance Amendments of 1993’.”
+Pub. L. 103–160, div. A, title XIII, §1301, Nov. 30, 1993, 107 Stat. 1783, provided that: “This title \[enacting sections 1152 and 1153 of this title and sections 1279d, 1279e, and 1280a of the Appendix to Title 46, Shipping, amending this section, sections 1142, 1151, 1598, 2410j, 2501, 2502, 2511 to 2513, 2523, and 2524 of this title, sections 1551 and 1662d–1 of Title 29, Labor, section 31326 of Title 46, and sections 1271, 1273, 1274, and 1274a of the Appendix to Title 46, repealing section 2504 of this title, enacting provisions set out as notes under sections 1143, 1151, 2501, 2511, 2701, and 5013 of this title, section 1662d–1 of Title 29, and sections 1279b and 1279d of the Appendix to Title 46, amending provisions set out as notes under sections 1143, 2391, and 2501 of this title, and repealing provisions set out as a note under section 2701 of this title\] may be cited as the ‘Defense Conversion, Reinvestment, and Transition Assistance Amendments of 1993’.”
 
 #### Short Title
 
-Section 4001 of Pub. L. 102–484 provided that: “This division \[div. D (§§4001–4501) of Pub. L. 102–484, see Tablesfor classification\] may be cited as the ‘Defense Conversion, Reinvestment, and Transition Assistance Act of 1992’.”
+Pub. L. 102–484, div. D, §4001, Oct. 23, 1992, 106 Stat. 2658, provided that: “This division \[div. D (§§4001–4501) of Pub. L. 102–484, see Tables for classification\] may be cited as the ‘Defense Conversion, Reinvestment, and Transition Assistance Act of 1992’.”
 
 #### Application of 1993 Amendments to Existing Technology Reinvestment Projects
 
@@ -122,7 +122,7 @@ Amendment by section 1315(f) of Pub. L. 103–160 not to alter financial commitm
 
 #### Congressional Findings
 
-Section 4101 of Pub. L. 102–484 provided that: “Congress makes the following findings:
+Pub. L. 102–484, div. D, title XLI, §4101, Oct. 23, 1992, 106 Stat. 2658, provided that: “Congress makes the following findings:
 
 &emsp;“(1) The collapse of communism in Eastern Europe and the dissolution of the Soviet Union have fundamentally changed the military threat that formed the basis for the national security policy of the United States since the end of World War II.
 
@@ -144,11 +144,11 @@ Section 4101 of Pub. L. 102–484 provided that: “Congress makes the following
 
 #### Purposes of Title XLII of Pub. L. 102–484
 
-Section 4201 of title XLII of div. D of Pub. L. 102–484 provided that: “The purposes of this title \[see Tables for classification\] are to consolidate, revise, clarify, and reenact policies and requirements, and to enact additional policies and requirements, relating to the national technology and industrial base, defense reinvestment, and defense conversion programs that further national security objectives.”
+Pub. L. 102–484, div. D, title XLII, §4201, Oct. 23, 1992, 106 Stat. 2659, provided that: “The purposes of this title \[see Tables for classification\] are to consolidate, revise, clarify, and reenact policies and requirements, and to enact additional policies and requirements, relating to the national technology and industrial base, defense reinvestment, and defense conversion programs that further national security objectives.”
 
 #### Transition Provision; “Defense Critical Technology” Defined
 
-Section 4203(b) of Pub. L. 102–484 provided that until first national technology and industrial base assessment was submitted to Congress by Secretary of Defense pursuant to former section 2506(e) of this title, the term “defense critical technology” for purposes of this chapter, would have meaning given such term in section 2521 of this title, as in effect on day before Oct. 23, 1992.
+Pub. L. 102–484, div. D, title XLII, §4203(b), Oct. 23, 1992, 106 Stat. 2662, provided that until first national technology and industrial base assessment was submitted to Congress by Secretary of Defense pursuant to former section 2506(e) of this title, the term “defensecritical technology” for purposes of this chapter, would have meaning given such term in section 2521 of this title, as in effect on day before Oct. 23, 1992.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -82,7 +82,7 @@
 
 (4) For the purpose of this subsection, “agency in the legislative branch”, “employee of the House of Representatives”, “employee of the Senate”, and “congressional employee” each has the meaning given to it in section 5531 of this title.
 
-(<i>l</i>)(1) For purposes of this subsection—
+(l)(1) For purposes of this subsection—
 
 &emsp;(A) the term “head of an agency” means—
 
@@ -148,11 +148,11 @@
 
 (7) The authority of the head of an agency under this subsection to waive the application of subsection (a) or (b) shall terminate 5 years after the date of enactment of the National Defense Authorization Act for Fiscal Year 2010.
 
-(m)(1) For the purpose of subsections (i) through (<i>l</i>), “Executive agency” shall not include the Government Accountability Office.
+(m)(1) For the purpose of subsections (i) through (l), “Executive agency” shall not include the Government Accountability Office.
 
-(2) An employee as to whom a waiver under subsection (i), (j), (k), or (<i>l</i>) is in effect shall not be considered an employee for purposes of this chapter or chapter 84 of this title.
+(2) An employee as to whom a waiver under subsection (i), (j), (k), or (l) is in effect shall not be considered an employee for purposes of this chapter or chapter 84 of this title.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 581; Pub. L. 90–83, §1(83), Sept. 11, 1967, 81 Stat. 217; Pub. L. 91–375, §6(c)(20), Aug. 12, 1970, 84 Stat. 776; Pub. L. 91–658, §4, Jan. 8, 1971, 84 Stat. 1962; Pub. L. 92–297, §7(5), May 16, 1972, 86 Stat. 145; Pub. L. 94–397, §1(a)–(c), Sept. 3, 1976, 90 Stat. 1202, 1303; Pub. L. 95–454, title IX, §906(a)(14), Oct. 13, 1978, 92 Stat. 1226; Pub. L. 95–598, title III, §338(d), Nov. 6, 1978, 92 Stat. 2681; Pub. L. 96–179, §4, Jan. 2, 1980, 93 Stat. 1299; Pub. L. 96–504, §1, Dec. 5, 1980, 94 Stat. 2741; Pub. L. 97–141, §5(a), Dec. 29, 1981, 95 Stat. 1719; Pub. L. 97–276, §151(g), Oct. 2, 1982, 96 Stat. 1202; Pub. L. 97–346, §3(j)(2), Oct. 15, 1982, 96 Stat. 1649; Pub. L. 98–353, title I, §112, July 10, 1984, 98 Stat. 343; Pub. L. 98–396, title I, Aug. 22, 1984, 98 Stat. 1403; Pub. L. 98–525, title XV, §1537(e), Oct. 19, 1984, 98 Stat. 2636; Pub. L. 99–88, title I, §100, Aug. 15, 1985, 99 Stat. 351; Pub. L. 99–500, §101(<i>l</i>), Oct. 18, 1986, 100 Stat. 1783–308, and Pub. L. 99–591, §101(<i>l</i>), Oct. 30, 1986, 100 Stat.3341–308; Pub. L. 100–202, §§101(<i>l</i>) \[title I\], 106, Dec. 22, 1987, 101 Stat. 1329–358, 1329–362, 1329–433; Pub. L. 100–457, title I, Sept. 30, 1988, 102 Stat. 2129; Pub. L. 101–428, §2(d)(8), Oct. 15, 1990, 104 Stat. 929; Pub. L. 101–509, title V, §529 \[title I, §108(b)\], Nov. 5, 1990, 104 Stat. 1427, 1450; Pub. L. 101–510, div. A, title XII, §1206(j)(2), Nov. 5, 1990, 104 Stat. 1664; Pub. L. 102–190, div. A, title VI, §655(b), Dec. 5, 1991, 105 Stat. 1391; Pub. L. 102–378, §8(a), Oct. 2, 1992, 106 Stat. 1359; Pub. L. 105–55, title I, §107, Oct. 7, 1997, 111 Stat. 1184; Pub. L. 105–61, title V, §516(a)(6), Oct. 10, 1997, 111 Stat. 1306; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(f)(5)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–293; Pub. L. 106–553, §1(a)(2) \[title III, §308(h)(8)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–89; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 111–84, div. A, title XI, §1122(a), Oct. 28, 2009, 123 Stat. 2505; Pub. L. 111–383, div. A, title X, §1075(a)(1), Jan. 7, 2011, 124 Stat. 4368.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 581; Pub. L. 90–83, §1(83), Sept. 11, 1967, 81 Stat. 217; Pub. L. 91–375, §6(c)(20), Aug. 12, 1970, 84 Stat. 776; Pub. L. 91–658, §4, Jan. 8, 1971, 84 Stat. 1962; Pub. L. 92–297, §7(5), May 16, 1972, 86 Stat. 145; Pub. L. 94–397, §1(a)–(c), Sept. 3, 1976, 90 Stat. 1202, 1203; Pub. L. 95–454, title IX, §906(a)(14), Oct. 13, 1978, 92 Stat. 1226; Pub. L. 95–598, title III, §338(d), Nov. 6, 1978, 92 Stat. 2681; Pub. L. 96–179, §4, Jan. 2, 1980, 93 Stat. 1299; Pub. L. 96–504, §1, Dec. 5, 1980, 94 Stat. 2741; Pub. L. 97–141, §5(a), Dec. 29, 1981, 95 Stat. 1719; Pub. L. 97–276, §151(g), Oct. 2, 1982, 96 Stat. 1202; Pub. L. 97–346, §3(j)(2), Oct. 15, 1982, 96 Stat. 1649; Pub. L. 98–353, title I, §112, July 10, 1984, 98 Stat. 343; Pub. L. 98–396, title I, Aug. 22, 1984, 98 Stat. 1403; Pub. L. 98–525, title XV, §1537(e), Oct. 19, 1984, 98 Stat. 2636; Pub. L. 99–88, title I, §100, Aug. 15, 1985, 99 Stat. 351; Pub. L. 99–500, §101(l), Oct. 18, 1986, 100 Stat. 1783–308, and Pub. L. 99–591, §101(l), Oct. 30, 1986, 100 Stat.3341–308; Pub. L. 100–202, §§101(l) \[title I\], 106, Dec. 22, 1987, 101 Stat. 1329–358, 1329–362, 1329–433; Pub. L. 100–457, title I, Sept. 30, 1988, 102 Stat. 2129; Pub. L. 101–428, §2(d)(8), Oct. 15, 1990, 104 Stat. 929; Pub. L. 101–509, title V, §529 \[title I, §108(b)\], Nov. 5, 1990, 104 Stat. 1427, 1450; Pub. L. 101–510, div. A, title XII, §1206(j)(2), Nov. 5, 1990, 104 Stat. 1664; Pub. L. 102–190, div. A, title VI, §655(b), Dec. 5, 1991, 105 Stat. 1391; Pub. L. 102–378, §8(a), Oct. 2, 1992, 106 Stat. 1359; Pub. L. 105–55, title I, §107, Oct. 7, 1997, 111 Stat. 1184; Pub. L. 105–61, title V, §516(a)(6), Oct. 10, 1997, 111 Stat. 1306; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(f)(5)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–293; Pub. L. 106–553, §1(a)(2) \[title III, §308(h)(8)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–89; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 111–84, div. A, title XI, §1122(a), Oct. 28, 2009, 123 Stat. 2505; Pub. L. 111–383, div. A, title X, §1075(a)(1), Jan. 7, 2011, 124 Stat. 4368.)
 
 Historical and Revision Notes<br>1966
 
@@ -214,31 +214,31 @@ In the codification of 5 U.S.C. 8344 by Public Law 89–554, the words “except
 
 Level V of the Executive Schedule, referred to in subsec. (h)(1), is set out in section 5316 of this title.
 
-The American Recovery and Reinvestment Act of 2009, referred to in subsec. (<i>l</i>)(2)(B), is Pub. L. 111–5, Feb. 17, 2009, 123 Stat. 115. For complete classification of this Act to the Code, see Short Title of 2009 Amendment note set out under section 1 of Title 26, Internal Revenue Code, and Tables.
+The American Recovery and Reinvestment Act of 2009, referred to in subsec. (l)(2)(B), is Pub. L. 111–5, Feb. 17, 2009, 123 Stat. 115. For complete classification of this Act to the Code, see Short Title of 2009 Amendment note set out under section 1 of Title 26, Internal Revenue Code, and Tables.
 
-The Emergency Economic Stabilization Act of 2008, referred to in subsec. (<i>l</i>)(2)(B), is div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765. Title I of the Act is classified principally to subchapter I (§5211 et seq.) of chapter 52 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 5201 of Title 12 and Tables.
+The Emergency Economic Stabilization Act of 2008, referred to in subsec. (l)(2)(B), is div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765. Title I of the Act is classified principally to subchapter I (§5211 et seq.) of chapter 52 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 5201 of Title 12 and Tables.
 
-The date of enactment of the National Defense Authorization Act for Fiscal Year 2010, referred to in subsec. (<i>l</i>)(7), is the date of enactment of Pub. L. 111–84, which was approved Oct. 28, 2009.
+The date of enactment of the National Defense Authorization Act for Fiscal Year 2010, referred to in subsec. (l)(7), is the date of enactment of Pub. L. 111–84, which was approved Oct. 28, 2009.
 
 #### Codification
 
-Amendment of subsec. (h)(2) by Pub. L. 99–500 and 99–591 is based on provisions under the subheading “Federal Aviation Administration, Operations”, in title I of H.R. 5205 (Department of Transportation and Related Agencies Appropriations Act, 1987), as incorporated by reference by section 101(<i>l</i>) of Pub. L. 99–500 and 99–591, and enacted into law by section 106 of Pub. L. 100–202.
+Amendment of subsec. (h)(2) by Pub. L. 99–500 and 99–591 is based on provisions under the subheading “Federal Aviation Administration, Operations”, in title I of H.R. 5205 (Department of Transportation and Related Agencies Appropriations Act, 1987), as incorporated by reference by section 101(l) of Pub. L. 99–500 and 99–591, and enacted into law by section 106 of Pub. L. 100–202.
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-<b>2011</b>—Subsec. (<i>l</i>)(2)(B). Pub. L. 111–383 substituted “5211 et seq.” for “5201 et seq.”
+<b>2011</b>—Subsec. (l)(2)(B). Pub. L. 111–383 substituted “5211 et seq.” for “5201 et seq.”
 
-<b>2009</b>—Subsec. (<i>l</i>). Pub. L. 111–84, §1122(a)(1), (2), added subsec. (<i>l</i>). Former subsec. (<i>l</i>) redesignated (m).
+<b>2009</b>—Subsec. (l). Pub. L. 111–84, §1122(a)(1), (2), added subsec. (l). Former subsec. (l) redesignated (m).
 
-Subsec. (m). Pub. L. 111–84, §1122(a)(1), redesignated subsec. (<i>l</i>) as (m).
+Subsec. (m). Pub. L. 111–84, §1122(a)(1), redesignated subsec. (l) as (m).
 
-Subsec. (m)(1). Pub. L. 111–84, §1122(a)(3)(A), substituted “(<i>l</i>)” for “(k)”.
+Subsec. (m)(1). Pub. L. 111–84, §1122(a)(3)(A), substituted “(l)” for “(k)”.
 
-Subsec. (m)(2). Pub. L. 111–84, §1122(a)(3)(B), substituted “(k), or (<i>l</i>)” for “or (k)”.
+Subsec. (m)(2). Pub. L. 111–84, §1122(a)(3)(B), substituted “(k), or (l)” for “or (k)”.
 
-<b>2004</b>—Subsec. (<i>l</i>)(1). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (l)(1). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
 <b>2000</b>—Subsec. (a)(A). Pub. L. 106–553 substituted “(q), (r), and (s)” for “(q), and (r)”.
 
@@ -252,7 +252,7 @@ Subsec. (k)(2)(B), (3). Pub. L. 105–55 substituted “the Committee on House O
 
 <b>1991</b>—Subsec. (i)(3). Pub. L. 102–190, §655(b)(2), struck out par. (3) which read as follows: “An employee to whom a waiver under subparagraph (A) or (B) of paragraph (1) applies shall not be deemed an employee for the purposes of this chapter or chapter 84 while such waiver is in effect.”
 
-Subsecs. (j) to (<i>l</i>). Pub. L. 102–190, §655(b)(1), added subsecs. (j) to (<i>l</i>).
+Subsecs. (j) to (l). Pub. L. 102–190, §655(b)(1), added subsecs. (j) to (l).
 
 <b>1990</b>—Subsec. (a)(A). Pub. L. 101–428 substituted “(i), (n), and (q)” for “(i), and (n)”.
 
@@ -262,17 +262,17 @@ Pub. L. 101–509 added subsec. (i).
 
 <b>1988</b>—Subsec. (h)(2). Pub. L. 100–457 substituted “1987” for “1986”.
 
-<b>1987</b>—Subsec. (h)(2). Pub. L. 100–202, §101(<i>l</i>) \[title I\], substituted “December 31, 1986” for “April 1, 1986”.
+<b>1987</b>—Subsec. (h)(2). Pub. L. 100–202, §101(l) \[title I\], substituted “December 31, 1986” for “April 1, 1986”.
 
 For amendment by section 106 of Pub. L. 100–202, see 1986 Amendment note below.
 
-<b>1986</b>—Subsec. (h)(2). Pub. L. 99–500 and Pub. L. 99–591, §101(<i>l</i>), as enacted by Pub. L. 100–202, §106, substituted “April 1, 1986” for “April 1, 1985”. See Codification note above.
+<b>1986</b>—Subsec. (h)(2). Pub. L. 99–500 and Pub. L. 99–591, §101(l), as enacted by Pub. L. 100–202, §106, substituted “April 1, 1986” for “April 1, 1985”. See Codification note above.
 
 <b>1985</b>—Subsec. (h)(1). Pub. L. 99–88 inserted proviso directing that the amount an annuitant may receive in pay, excluding premium pay, in any pay period when aggregated with the annuity payable during that same period shall not exceed the rate payable for level V of the Executive Schedule.
 
 Subsec. (h)(2). Pub. L. 99–88 substituted “April 1, 1985” for “August 3, 1981”.
 
-<b>1984</b>—Subsec. (a)(A). Pub. L. 98–353 substituted “and (n)” for “and (<i>o</i>)”.
+<b>1984</b>—Subsec. (a)(A). Pub. L. 98–353 substituted “and (n)” for “and (o)”.
 
 Subsec. (d). Pub. L. 98–396 substituted “on termination of the employment in the amount equal to the sum of the amount of the annuity the member was receiving immediately before the commencement of the employment and the amount of the increases which would have been made in the amount of the annuity under section 8340 of this title during the period of the employment if the annuity had been payable during that period” for “in the same amount on termination of the employment”.
 
@@ -290,7 +290,7 @@ Subsec. (h). Pub. L. 97–276 added subsec. (h).
 
 Subsecs. (f), (g). Pub. L. 96–504 added subsecs. (f) and (g).
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–598 inserted reference to subsec. (<i>o</i>) of section 8339 of this title in par. (A).
+<b>1978</b>—Subsec. (a). Pub. L. 95–598 inserted reference to subsec. (o) of section 8339 of this title in par. (A).
 
 Pub. L. 95–454 substituted “Office of Personnel Management” for “Commission” in provisions following par. (B).
 
@@ -330,7 +330,7 @@ Amendment by Pub. L. 101–509 effective on such date as the President shall det
 
 #### Effective Date of 1986 Amendment
 
-Section 106 of Pub. L. 100–202 provided that the amendment by Pub. L. 99–500 and 99–591 is effective ondate of enactment \[Oct. 18, 1986\] of the “pertinent joint resolution” making continuing appropriations for fiscal year 1987 \[Pub. L. 99–500 and 99–591\].
+Pub. L. 100–202, §106, Dec. 22, 1987, 101 Stat. 1329–433, provided that the amendment by Pub. L. 99–500 and99–591 is effective on date of enactment \[Oct. 18, 1986\] of the “pertinent joint resolution” making continuing appropriations for fiscal year 1987 \[Pub. L. 99–500 and 99–591\].
 
 #### Effective Date of 1984 Amendments
 
@@ -344,7 +344,7 @@ Amendment by Pub. L. 97–276 effective at 5 o'clock ante meridian eastern dayli
 
 #### Effective Date of 1981 Amendment
 
-Section 5(b) of Pub. L. 97–141 provided that:
+Pub. L. 97–141, §5(b), Dec. 29, 1981, 95 Stat. 1719, provided that:
 
 “(1) Subject to paragraph (2), the amendment made by subsection (a) \[amending this section\] shall apply to individuals whose annuities terminate under section 8344(c) of title 5, United States Code, on or after October 1, 1976.
 
@@ -352,7 +352,7 @@ Section 5(b) of Pub. L. 97–141 provided that:
 
 #### Effective Date of 1980 Amendment
 
-Section 6 of Pub. L. 96–504 provided that:
+Pub. L. 96–504, §6, Dec. 5, 1980, 94 Stat. 2742, provided that:
 
 “(a) The provisions of this Act \[amending this section, repealing section 375 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under sections 8342 of this title and section 376 of Title 28\] shall take effect on—
 
@@ -372,7 +372,7 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 #### Effective Date of 1976 Amendment
 
-Section 2 of Pub. L. 94–397 provided that:
+Pub. L. 94–397, §2, Sept. 3, 1976, 90 Stat. 1203, provided that:
 
 “(a) Except as provided under subsection (b) of this section, the amendments made by this Act \[amending this section and section 8339 of this title\] shall become effective on the date of the enactment of this Act \[Sept. 3, 1976\] or October 1, 1976, whichever is later, and shall apply to annuitants serving in appointive or elective positions on and after such date.
 
@@ -384,7 +384,7 @@ Amendment by Pub. L. 92–297 effective on 90th day after May 16, 1972, see sect
 
 #### Effective Date of 1971 Amendment
 
-Section 5(d) of Pub. L. 91–658 provided that: “The amendment made by section 4 of this Act \[amending this section\] shall apply only with respect to a reemployed annuitant whose employment terminates on or after the date of enactment of this Act \[Jan. 8, 1971\].”
+Pub. L. 91–658, §5(d), Jan. 8, 1971, 84 Stat. 1963, provided that: “The amendment made by section 4 of this Act \[amending this section\] shall apply only with respect to a reemployed annuitant whose employment terminates on or after the date of enactment of this Act \[Jan. 8, 1971\].”
 
 #### Effective Date of 1970 Amendment
 

@@ -14,7 +14,7 @@ July 12, 1943, ch. 215, 57 Stat. 401.
 
 July 22, 1942, ch. 516, 56 Stat. 674.
 
-#### Appropriations
+#### Authorization of Appropriation
 
-Section 101(g) of act Sept. 21, 1944, provided that Congress may appropriate such funds as are necessary to accomplish the purpose of this section.
+Act Sept. 21, 1944, ch. 412, title I, §101(g), 58 Stat. 735, provided that: “There are hereby authorized to be appropriated for the purposes of this section \[enacting this section, section 396, former section 429, and sections 430 and 431 of this title, and former section 114a of Title 21, Food and Drugs\] such sums as the Congress may from time to time determine to be necessary.”
 

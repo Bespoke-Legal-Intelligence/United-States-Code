@@ -46,15 +46,15 @@ In order to ensure the safety of adult, youth, and minor victims of domestic vio
 
 #### (1) In general
 
-&emsp;Not less than 5 percent of funds appropriated under subsection (<i>l</i>) of this section in any year shall be available for grants to tribal schools, schools on tribal lands or schools whose student population is more than 25 percent Native American.
+&emsp;Not less than 5 percent of funds appropriated under subsection (l) of this section in any year shall be available for grants to tribal schools, schools on tribal lands or schools whose student population is more than 25 percent Native American.
 
 #### (2) Administration
 
-&emsp;The Director shall not use more than 5 percent of funds appropriated under subsection (<i>l</i>) of this section in any year for administration, monitoring and evaluation of grants made available under this section.
+&emsp;The Director shall not use more than 5 percent of funds appropriated under subsection (l) of this section in any year for administration, monitoring and evaluation of grants made available under this section.
 
 #### (3) Training, technical assistance, and data collection
 
-&emsp;Not less than 5 percent of funds appropriated under subsection (<i>l</i>) of this section in any year shall be available to provide training, technical assistance, and data collection for programs funded under this section.
+&emsp;Not less than 5 percent of funds appropriated under subsection (l) of this section in any year shall be available to provide training, technical assistance, and data collection for programs funded under this section.
 
 #### (h) Application
 
@@ -64,7 +64,7 @@ To be eligible to be awarded a grant or contract under this section for any fisc
 
 To be eligible to receive a grant under this section, an entity shall be a partnership that—
 
-&emsp;(1) shall include a public, charter, tribal, or nationally accredited private middle or high school, a school administered by the Department of Defense under 10 U.S.C. 2164 or 20U.S.C. 921, a group of schools, or a school district;
+&emsp;(1) shall include a public, charter, tribal, or nationally accredited private middle or high school, a school administered by the Department of Defense under 10 U.S.C. 2164 or 20 U.S.C. 921, a group of schools, or a school district;
 
 &emsp;(2) shall include a domestic violence victim service provider that has a history of working on domestic violence and the impact that domestic violence and dating violence have on children and youth;
 
@@ -86,7 +86,7 @@ In awarding grants under this section, the Director shall give priority to entit
 
 &emsp;Within 9 months of the completion of the first full grant cycle, the Director shall publicly disseminate, including through electronic means, model policies and procedures developed and implemented in middle and high schools by the grantees, including information on the impact the policies have had on their respective schools and communities.
 
-#### (<i>l</i>) Authorization of appropriations
+#### (l) Authorization of appropriations
 
 #### (1) In general
 

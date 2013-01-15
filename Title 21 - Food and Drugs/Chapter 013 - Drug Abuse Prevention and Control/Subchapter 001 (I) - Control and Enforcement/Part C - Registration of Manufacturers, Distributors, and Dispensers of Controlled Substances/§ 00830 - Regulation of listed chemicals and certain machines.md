@@ -10,7 +10,7 @@
 
 #### (b) Reports to Attorney General
 
-(1) Each regulated person shall report to the Attorney General, in such form and manner as the Attorney General shall prescribe by regulation—
+(1) Each regulated person shall report to the Attorney General, in such form and manner asthe Attorney General shall prescribe by regulation—
 
 &emsp;(A) any regulated transaction involving an extraordinary quantity of a listed chemical, an uncommon method of payment or delivery, or any other circumstance that the regulated person believes may indicate that the listed chemical will be used in violation of this subchapter;
 
@@ -66,7 +66,7 @@ Mail order reporting.—(A) As used in this paragraph:
 
 #### (c) Confidentiality of information obtained by Attorney General; non-disclosure; exceptions
 
-(1) Except as provided in paragraph (2), any information obtained by the Attorney General under this section which is exempt from disclosure under section 552(a) of title 5, by reason of section 552(b)(4) of such title, is confidential and may not be disclosed to any person.
+(1) Except as provided in paragraph (2), any information obtained by the Attorney Generalunder this section which is exempt from disclosure under section 552(a) of title 5, by reason of section 552(b)(4) of such title, is confidential and may not be disclosed to any person.
 
 (2) Information referred to in paragraph (1) may be disclosed only—
 
@@ -120,7 +120,7 @@ With respect to ephedrine base, pseudoephedrine base, or phenylpropanolamine bas
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(AA) Signing a device presented by the seller that captures signatures in an electronic format. Such device shall display the notice described in clause (v). Any device used shall preserve each signature in a manner that clearly links that signature to the other electronically-captured logbook information relating to the prospective purchaser providing that signature.
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(BB) Signing a bound paper book. Such bound paper book shall include, for such purchaser, either (aaa) a printed sticker affixed to the bound paper book at the time of sale which either displays the name of each product sold, the quantity sold, the name and address of the purchaser, and the date and time of the sale, or a unique identifier which can be linked to that electronic information, or (bbb) a unique identifier which can be linked to that information and which is written into the book by the seller at the time of sale. The purchaser shall sign adjacent to the printed sticker or written unique identifier related to that sale. Such bound paper book shall display the notice described in clause (v).
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(BB) Signing a bound paper book. Such bound paper book shall include, for such purchaser, either (aaa) a printed sticker affixed to the bound paper book at the time of sale which either displays the name of each product sold, the quantity sold, the name and address of the purchaser, and the date and time of the sale, ora unique identifier which can be linked to that electronic information, or (bbb) a unique identifier which can be linked to that information and which is written into the book by the seller at the time of sale. The purchaser shall sign adjacent to the printed sticker or written unique identifier related to that sale. Such bound paper book shall display the notice described in clause (v).
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(CC) Signing a printed document that includes, for such purchaser, the name of each product sold, the quantity sold, the name and address of the purchaser, and the date and time of the sale. Such document shall be printed by the seller at the time of the sale. Such document shall contain a clearly identified signature line for a purchaser to sign. Such printed document shall display the notice described in clause (v). Each signed document shall be inserted into a binder or other secure means of document storage immediately after the purchaser signs the document.
 
@@ -224,7 +224,7 @@ With respect to ephedrine base, pseudoephedrine base, or phenylpropanolamine bas
 
 &emsp;Upon the application of a manufacturer of a scheduled listed chemical product, the Attorney General may by regulation provide that the product is exempt from the provisions of subsection (d) and paragraphs (1) and (2) of this subsection if the Attorney General determines that the product cannot be used in the illicit manufacture of methamphetamine.
 
-(Pub. L. 91–513, title II, §310, as added Pub. L. 95–633, title II, §202(a), Nov. 10, 1978, 92 Stat. 3774; amended Pub. L. 100–690, title VI, §6052(a), Nov. 18, 1988, 102 Stat. 4312; Pub. L. 103–200, §§2(c), 10, Dec. 17, 1993, 107 Stat. 2336, 2341; Pub. L. 104–237, title II, §208, title IV, §402, Oct. 3, 1996, 110 Stat. 3104, 3111; Pub. L. 106–310, div. B, title XXXVI, §3652, Oct. 17, 2000, 114 Stat. 1239; Pub. L. 109–177, title VII, §§711(a)(2)(B), (b)(1), (c)(1), (2), (d), 716(b)(2), Mar. 9, 2006, 120 Stat. 257, 261, 267; Pub. L. 110–415, §2, Oct. 14, 2008, 122 Stat. 4349; Pub. L. 111–268, §§2, 3, Oct. 12, 2010, 124 Stat. 2847.)
+(Pub. L. 91–513, title II, §310, as added Pub. L. 95–633, title II, §202(a), Nov. 10, 1978, 92 Stat. 3774; amended Pub. L. 100–690, title VI, §6052(a), Nov. 18, 1988, 102 Stat. 4312; Pub. L. 103–200, §§2(c), 10, Dec. 17, 1993, 107 Stat. 2336, 2341; Pub. L. 104–237, title II, §208, title IV, §402, Oct. 3, 1996, 110 Stat. 3104, 3111; Pub. L. 106–310, div. B, title XXXVI, §3652, Oct. 17, 2000, 114 Stat. 1239; Pub. L. 109–177, title VII, §§711(a)(2)(B), (b)(1), (c)(1), (2), (d),716(b)(2), Mar. 9, 2006, 120 Stat. 257, 261, 267; Pub. L. 110–415, §2, Oct. 14, 2008, 122 Stat. 4349; Pub. L. 111–268, §§2, 3, Oct. 12, 2010, 124 Stat. 2847.)
 
 #### References in Text
 
@@ -298,7 +298,7 @@ Amendment by Pub. L. 100–690 effective 120 days after Nov. 18, 1988, see secti
 
 #### Effective Date; Time To Submit Piperidine Report; Required Information
 
-Section 203(a) of title II of Pub. L. 95–633 provided that:
+Pub. L. 95–633, title II, §203(a), Nov. 10, 1978, 92 Stat. 3776, provided that:
 
 “(1) Except as provided under paragraph (2), the amendments made by this title \[enacting this section and amending sections 841 to 843 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 10, 1978\].
 
@@ -318,11 +318,11 @@ Pub. L. 96–359, §8(b), Sept. 26, 1980, 94 Stat. 1194, repealed section 203(d)
 
 Pub. L. 111–268, §6(b), Oct. 12, 2010, 124 Stat. 2848, provided that: “In promulgating the regulations authorized by section 2 \[amending this section\], the Attorney General may issue regulations on an interim basis as necessary to ensure the implementation of this Act by the effective date \[see Effective Date of 2010 Amendment note above\].”
 
-Section 203(b) of Pub. L. 95–633 required the Attorney General to publish proposed interim regulations for piperidine reporting under section 830(a) of this title not later than 30 days after enactment, and final interim regulations not later than 75 days after enactment, such final interim regulations to be effective on and after the ninety-first day after enactment.
+Pub. L. 95–633, title II, §203(b), Nov. 10, 1978, 92 Stat. 3777, required the Attorney General to publish proposed interim regulations for piperidine reporting under section 830(a) of this title not later than 30 days after enactment, and final interim regulations not later than 75 days after enactment, such final interim regulations to be effective on and after the ninety-first day after enactment.
 
 #### Report to President and Congress on Effectiveness of Title II of Pub. L. 95–633
 
-Section 203(c) of Pub. L. 95–633 required the Attorney General to analyze and evaluate the impact and effectiveness of the amendments made by title II of Pub. L. 95–633, and report to the President and Congress not later than Mar. 1, 1980.
+Pub. L. 95–633, title II, §203(c), Nov. 10, 1978, 92 Stat. 3777, required the Attorney General to analyze and evaluate the impact and effectiveness of the amendments made by title II of Pub. L. 95–633, and report to the President and Congress not later than Mar. 1, 1980.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

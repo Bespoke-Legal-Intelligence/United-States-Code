@@ -40,7 +40,7 @@ In order to carry out its functions under this chapter, the Commission is author
 
 #### Effective Date of 1978 Amendment
 
-Section 703(b) of Pub. L. 95–426 provided that: “The amendments made by this section \[amending this section\] shall take effect on October 1, 1978.”
+Pub. L. 95–426, title VII, §703(b), Oct. 7, 1978, 92 Stat. 992, provided that: “The amendments made by this section \[amending this section\] shall take effect on October 1, 1978.”
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

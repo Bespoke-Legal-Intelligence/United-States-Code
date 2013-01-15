@@ -18,7 +18,7 @@ For a State to be eligible to receive funds under the authorities of this chapte
 
 &emsp;&emsp;(A) strategies for addressing threats to forest resources in the State outlined in the assessment required by paragraph (1); and
 
-&emsp;&emsp;(B) a description of the resources necessary for the State forester or equivalentState official from all sources to address the State-wide strategy.
+&emsp;&emsp;(B) a description of the resources necessary for the State forester or equivalent State official from all sources to address the State-wide strategy.
 
 #### (b) Updating
 
@@ -54,7 +54,7 @@ Once approved by the Secretary, a State-wide assessment and State-wide strategy 
 
 #### (2) Additional funding sources
 
-&emsp;In addition to the funds appropriated for a fiscal year pursuant to the authorization of appropriations in paragraph (1) to carry out this section, the Secretary may use any other funds made available for planning under this chapter to carry out this section, except that the total amount of combined funding used to carry out this section may not exceed $10,000,000 in any fiscal year.
+&emsp;In addition to the funds appropriated for a fiscal year pursuant to the authorization of appropriations in paragraph (1) to carry out this section, the Secretary may use any otherfunds made available for planning under this chapter to carry out this section, except that the total amount of combined funding used to carry out this section may not exceed $10,000,000 in any fiscal year.
 
 #### (g) Annual report on use of funds
 

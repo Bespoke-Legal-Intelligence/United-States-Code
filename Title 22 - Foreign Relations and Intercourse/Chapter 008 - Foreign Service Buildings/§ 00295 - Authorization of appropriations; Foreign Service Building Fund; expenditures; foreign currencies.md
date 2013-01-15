@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(F) for facilities for the United States Information Agency, not to exceed $1,125,000, of which not to exceed $720,000 may be appropriated for the fiscal year 1964, and
 
-&emsp;&emsp;(G) for facilities for agricultural and defense attache�AE1 housing, not to exceed $800,000, of which not to exceed $400,000 may be appropriated for the fiscal year 1964;
+&emsp;&emsp;(G) for facilities for agricultural and defense attaché housing, not to exceed $800,000, of which not to exceed $400,000 may be appropriated for the fiscal year 1964;
 
 &emsp;(2) for use to carry out the other purposes of this chapter, not to exceed $11,500,000 for the fiscal year 1964, $12,000,000 for the fiscal year 1965, $12,200,000 for the fiscal year 1966, $12,400,000 for the fiscal year 1967.
 
@@ -30,7 +30,7 @@
 
 (f) In addition to amounts authorized before October 10, 1966, there is hereby authorized to be appropriated to the Secretary of State—
 
-&emsp;(1) for acquisition by purchase or construction (including acquisition of leaseholds) of sites and buildings in foreign countries under this chapter, and for major alterations of buildings acquired under this chapter, the following sums—
+&emsp;(1) for acquisition by purchase or construction (including acquisition of leaseholds) ofsites and buildings in foreign countries under this chapter, and for major alterations of buildings acquired under this chapter, the following sums—
 
 &emsp;&emsp;(A) for use in Africa, not to exceed $5,485,000, of which not to exceed $1,885,000 may be appropriated for the fiscal year 1967;
 
@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(F) for facilities for the United States Information Agency, not to exceed $615,000, of which not to exceed $430,000 may be appropriated for the fiscal year 1967;
 
-&emsp;&emsp;(G) for facilities for agricultural and defense attache�AE1 housing, not to exceed $800,000, of which not to exceed $400,000 may be appropriated for the fiscal year 1967;
+&emsp;&emsp;(G) for facilities for agricultural and defense attaché housing, not to exceed $800,000, of which not to exceed $400,000 may be appropriated for the fiscal year 1967;
 
 &emsp;(2) for use to carry out the other purposes of this chapter, not to exceed $12,600,000 for the fiscal year 1968, not to exceed $12,750,000 for the fiscal year 1969, not to exceed $13,500,000 for the fiscal year 1970, not to exceed $14,300,000 for the fiscal year 1971, not to exceed $15,000,000 for the fiscal year 1972, and not to exceed $15,900,000 for the fiscal year 1973.
 
@@ -64,7 +64,7 @@
 
 &emsp;&emsp;(F) for facilities for the United States Information Agency, not to exceed $45,000 for use beginning in the fiscal year 1975;
 
-&emsp;&emsp;(G) for facilities for agricultural and defense attache�AE1 housing, not to exceed $318,000 for use beginning in the fiscal year 1974; and
+&emsp;&emsp;(G) for facilities for agricultural and defense attaché housing, not to exceed $318,000 for use beginning in the fiscal year 1974; and
 
 &emsp;(2) for use to carry out other purposes of this chapter for fiscal years 1974 and 1975, $48,532,000, of which not to exceed $23,066,000 may be appropriated for fiscal year 1974.
 
@@ -78,7 +78,7 @@
 
 &emsp;&emsp;(C) for facilities for the United States Information Agency, not to exceed $3,400,000, of which not to exceed $2,800,000 may be appropriated for fiscal year 1976;
 
-&emsp;&emsp;(D) for facilities for agricultural and defense attache�AE1 housing, not to exceed $150,000 for fiscal year 1977; and
+&emsp;&emsp;(D) for facilities for agricultural and defense attaché housing, not to exceed $150,000 for fiscal year 1977; and
 
 &emsp;&emsp;(E) for facilities for the United States Agency for International Development, not to exceed $17,200,000 for fiscal year 1977; and
 
@@ -90,7 +90,7 @@
 
 (3) There are hereby authorized to be appropriated to the Secretary of State such additional or supplemental amounts as may be necessary for increases in salary, pay, retirement, or other employee benefits authorized by law.
 
-(May 7, 1926, ch. 250, §4, 44 Stat. 404; June 19, 1952, ch. 446, §2, 66 Stat. 140; Pub. L. 86–723, §49,Sept. 8, 1960, 74 Stat. 847; Pub. L. 88–94, §§1, 2(d), Aug. 12, 1963, 77 Stat. 121, 122; Pub. L. 88–414, Aug. 10, 1964, 78 Stat. 387; Pub. L. 89–22, May 21, 1965, 79 Stat. 112; Pub. L. 89–636, §1, Oct. 10, 1966, 80 Stat. 881; Pub. L. 90–442, July 30, 1968, 82 Stat. 461; Pub. L. 91–586, Dec. 24, 1970, 84 Stat. 1578; Pub. L. 93–47, June 22, 1973, 87 Stat. 98; Pub. L. 93–263, Apr. 12, 1974, 88 Stat. 83; Pub. L. 94–141, title I, §171, Nov. 29, 1975, 89 Stat. 760; Pub. L. 94–350, title I, §109, July 12, 1976, 90 Stat. 824; Pub. L. 95–45, §3, June 15, 1977, 91 Stat. 221; Pub. L. 103–199, title V, §503, Dec. 17, 1993, 107 Stat. 2327.)
+(May 7, 1926, ch. 250, §4, 44 Stat. 404; June 19, 1952, ch. 446, §2, 66 Stat. 140; Pub. L. 86–723, §49, Sept. 8, 1960, 74 Stat. 847; Pub. L. 88–94, §§1, 2(d), Aug. 12, 1963, 77 Stat. 121, 122; Pub. L. 88–414, Aug. 10, 1964, 78 Stat. 387; Pub. L. 89–22, May 21, 1965, 79 Stat. 112; Pub. L. 89–636, §1, Oct. 10, 1966, 80 Stat. 881; Pub. L. 90–442, July 30, 1968, 82 Stat. 461; Pub. L. 91–586, Dec. 24, 1970, 84 Stat. 1578; Pub. L. 93–47, June 22, 1973, 87 Stat. 98; Pub. L. 93–263, Apr. 12, 1974, 88 Stat. 83; Pub. L. 94–141, title I, §171, Nov. 29, 1975, 89 Stat. 760; Pub. L. 94–350, title I, §109, July 12, 1976, 90 Stat. 824; Pub. L. 95–45, §3, June 15, 1977, 91 Stat. 221; Pub. L. 103–199, title V, §503, Dec. 17, 1993, 107 Stat. 2327.)
 
 #### References in Text
 

@@ -4,7 +4,7 @@
 
 (b) For persons covered by this section the plans contracted for under section 1079(a) of this title shall contain the following provisions for payment by the patient:
 
-&emsp;(1) Except as provided in clause (2), the first $150 each fiscal year of the charges for all types of care authorized by this section and received while in an outpatient status and 25 percent of all subsequent charges for such care during a fiscal year.
+&emsp;(1) Except as provided in paragraph (2), the first $150 each fiscal year of the charges for all types of care authorized by this section and received while in an outpatient status and 25 percent of all subsequent charges for such care during a fiscal year.
 
 &emsp;(2) A family group of two or more persons covered by this section shall not be required to pay collectively more than the first $300 each fiscal year of the charges for all types of care authorized by this section and received while in an outpatient status and 25 percent of the additional charges for such care during a fiscal year.
 
@@ -34,7 +34,7 @@
 
 &emsp;(A) is enrolled in the supplementary medical insurance program under part B of such title (42 U.S.C. 1395j et seq.); and
 
-&emsp;(B) in the case of a person under 65 years of age, is entitled to hospital insurance benefits under part A of title XVIII of the Social Security Act pursuant to subparagraph (A) or (C) ofsection 226(b)(2) of such Act (42 U.S.C. 426(b)(2)) or section 226A(a) of such Act (42 U.S.C. 426–1(a)).
+&emsp;(B) in the case of a person under 65 years of age, is entitled to hospital insurance benefits under part A of title XVIII of the Social Security Act pursuant to subparagraph (A) or (C) of section 226(b)(2) of such Act (42 U.S.C. 426(b)(2)) or section 226A(a) of such Act (42 U.S.C. 426–1(a)).
 
 (3)(A) Subject to subparagraph (B), if a person described in paragraph (2) receives medical or dental care for which payment may be made under medicare and a plan contracted for under subsection (a), the amount payable for that care under the plan shall be the amount of the actual out-of-pocket costs incurred by the person for that care over the sum of—
 
@@ -68,7 +68,7 @@
 
 (f) The provisions of section 1079(h) of this title shall apply to payments for services by an individual health-care professional (or other noninstitutional health-care provider) under a plan contracted for under subsection (a).
 
-(g) Section 1079(j) of this title shall apply to a plan contracted for under this section, except that no person eligible for health benefits under this section may be denied benefits under this section with respect to care or treatment for any service-connected disability which is compensable under chapter 11 of title 38 solely on the basis that such person is entitled to care or treatment for such disability in facilities of the Department of Veterans Affairs.
+(g) Section 1079(j) of this title shall apply to a plan contracted for under this section, except that no person eligible for health benefits under this section may be denied benefits under this section with respect to care or treatment for any service-connected disability which is compensable under chapter 11 of title 38 solely on the basis that such person is entitled to care ortreatment for such disability in facilities of the Department of Veterans Affairs.
 
 (h)(1) Subject to paragraph (2), the Secretary of Defense may, upon request, make payments under this section for a charge for services for which a claim is submitted under a plan contracted for under subsection (a) to a hospital that does not impose a legal obligation on any of its patients to pay for such services.
 
@@ -78,7 +78,7 @@
 
 (4) The Secretary of Defense may require each hospital the Secretary approves for payment under this subsection to provide evidence that it has sources of revenue to cover unbilled costs.
 
-(Added Pub. L. 89–614, §2(7), Sept. 30, 1966, 80 Stat. 865; amended Pub. L. 95–485, title VIII, §806(a)(2), Oct. 20, 1978, 92 Stat. 1622; Pub. L. 96–173, §1, Dec. 29, 1979, 93 Stat. 1287; Pub. L. 96–513, title V, §§501(14), 511(36), (39), Dec. 12, 1980, 94 Stat. 2908, 2923; Pub. L. 97–86, title IX, §906(a)(2), Dec. 1, 1981, 95 Stat. 1117; Pub. L. 97–252, title X, §1004(c), Sept. 8, 1982, 96 Stat. 737; Pub. L. 98–94, title IX, §931(b), Sept. 24, 1983, 97 Stat. 649; Pub. L. 98–525, title VI, §632(a)(2), Oct. 19, 1984, 98 Stat. 2543; Pub. L. 98–557, §19(13), Oct. 30, 1984, 98 Stat. 2870; Pub. L. 99–145, title VI, §652(b), Nov. 8, 1985, 99 Stat. 657; Pub. L. 99–661, div. A, title VI, §604(f)(1)(C), Nov. 14, 1986, 100 Stat. 3877; Pub. L. 100–180, div. A, title VII, §721(b), Dec. 4, 1987, 101 Stat. 1115; Pub. L. 100–456, div. A, title VI, §646(b), Sept. 29, 1988, 102 Stat. 1989; Pub. L. 101–189, div. A, title VII, §731(c)(2), title XVI, §1621(a)(3), Nov. 29, 1989, 103 Stat. 1482, 1603; Pub. L. 101–510, div. A, title VII, §712(b), Nov. 5, 1990, 104 Stat. 1583; Pub. L. 102–190, div. A, title VII, §704(a), (b)(1), Dec. 5, 1991, 105 Stat. 1401; Pub. L. 102–484, div. A, title VII, §§703(a), 705(a), Oct. 23, 1992, 106 Stat. 2432;Pub. L. 103–35, title II, §203(b)(2), May 31, 1993, 107 Stat. 102; Pub. L. 103–160, div. A, title VII, §716(b)(2), Nov. 30, 1993, 107 Stat. 1693; Pub. L. 103–337, div. A, title VII, §711, Oct. 5, 1994, 108 Stat. 2801; Pub. L. 104–106, div. A, title VII, §732, Feb. 10, 1996, 110 Stat. 381; Pub. L. 104–201, div. A, title VII, §734(a)(2), (b)(2), Sept. 23, 1996, 110 Stat. 2598; Pub. L. 106–398, §1 \[\[div. A\], title VII, §§712(a)(1), 759\], Oct. 30, 2000, 114 Stat. 1654, 1654A–176, 1654A–200; Pub. L. 108–173, title IX, §900(e)(4)(A), Dec. 8, 2003, 117 Stat. 2373; Pub. L. 109–364, div. A, title VII, §704(b), Oct. 17, 2006, 120 Stat. 2280; Pub. L. 110–181, div. A, title VII, §701(b), Jan. 28, 2008, 122 Stat. 187; Pub. L. 110–417, \[div. A\], title VII, §701(b), Oct. 14, 2008, 122 Stat. 4498; Pub. L. 111–84, div. A, title VII, §§706, 709, Oct. 28, 2009, 123 Stat. 2375, 2378; Pub. L. 111–383, div. A, title VII, §701(b), Jan. 7, 2011, 124 Stat. 4244.)
+(Added Pub. L. 89–614, §2(7), Sept. 30, 1966, 80 Stat. 865; amended Pub. L. 95–485, title VIII, §806(a)(2), Oct. 20, 1978, 92 Stat. 1622; Pub. L. 96–173, §1, Dec. 29, 1979, 93 Stat. 1287; Pub. L. 96–513, title V, §§501(14), 511(36), (39), Dec. 12, 1980, 94 Stat. 2908, 2923; Pub. L. 97–86, title IX, §906(a)(2), Dec. 1, 1981, 95 Stat. 1117; Pub. L. 97–252, title X, §1004(c), Sept. 8, 1982, 96 Stat. 737; Pub. L. 98–94, title IX, §931(b), Sept. 24, 1983, 97 Stat. 649; Pub. L. 98–525, title VI, §632(a)(2), Oct. 19, 1984, 98 Stat. 2543; Pub. L. 98–557, §19(13), Oct. 30, 1984, 98 Stat. 2870; Pub. L. 99–145, title VI, §652(b), Nov. 8, 1985, 99 Stat. 657; Pub. L. 99–661, div. A, title VI, §604(f)(1)(C), Nov. 14, 1986, 100 Stat. 3877; Pub. L. 100–180, div. A, title VII, §721(b), Dec. 4, 1987, 101 Stat. 1115; Pub. L. 100–456, div. A, title VI, §646(b), Sept. 29, 1988, 102 Stat. 1989; Pub. L. 101–189, div. A, title VII, §731(c)(2), title XVI, §1621(a)(3), Nov. 29, 1989, 103 Stat. 1482, 1603; Pub. L. 101–510, div. A, title VII, §712(b), Nov. 5, 1990, 104 Stat. 1583; Pub. L. 102–190, div. A, title VII, §704(a), (b)(1), Dec. 5, 1991, 105 Stat. 1401; Pub. L. 102–484, div. A, title VII, §§703(a), 705(a), Oct. 23, 1992, 106 Stat. 2432; Pub. L. 103–35, title II, §203(b)(2), May 31, 1993, 107 Stat. 102; Pub. L. 103–160, div. A, title VII, §716(b)(2), Nov. 30, 1993, 107 Stat. 1693; Pub. L. 103–337, div. A, title VII, §711, Oct. 5, 1994, 108 Stat. 2801; Pub. L. 104–106, div. A, title VII, §732, Feb. 10, 1996, 110 Stat. 381; Pub. L. 104–201, div. A, title VII, §734(a)(2), (b)(2), Sept. 23, 1996, 110 Stat. 2598; Pub. L. 106–398, §1 \[\[div. A\], title VII, §§712(a)(1), 759\], Oct. 30, 2000, 114 Stat. 1654, 1654A–176, 1654A–200; Pub. L. 108–173, title IX, §900(e)(4)(A), Dec. 8, 2003, 117 Stat. 2373; Pub. L. 109–364, div. A, title VII, §704(b), Oct. 17, 2006, 120 Stat. 2280; Pub. L. 110–181, div. A, title VII, §701(b), Jan. 28, 2008, 122 Stat. 187; Pub. L. 110–417, \[div. A\], title VII, §701(b), Oct. 14, 2008, 122 Stat. 4498; Pub. L. 111–84, div. A, title VII, §§706, 709, Oct. 28, 2009, 123 Stat. 2375, 2378; Pub. L. 111–383, div. A, title VII, §701(b), Jan. 7, 2011, 124 Stat. 4244; Pub. L. 112–239, div. A, title X, §1076(f)(11), Jan. 2, 2013, 126 Stat. 1952.)
 
 #### References in Text
 
@@ -89,6 +89,8 @@ The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 5
 A prior section 1086, act Aug. 10, 1956, ch. 1041, 70A Stat. 88, authorized the mailing of official post cards, ballots, voting instructions, and envelopes, free of postage, prior to repeal by Pub. L. 85–861, §36(B)(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (b)(1). Pub. L. 112–239 substituted “paragraph (2)” for “clause (2)”.
 
 <b>2011</b>—Subsec. (b)(3). Pub. L. 111–383 substituted “September 30, 2011” for “September 30, 2010”.
 
@@ -154,7 +156,7 @@ Subsec. (h). Pub. L. 100–456, §646(b)(2), added subsec. (h).
 
 <b>1986</b>—Subsec. (c)(2)(B). Pub. L. 99–661 inserted reference to disease.
 
-<b>1985</b>—Subsec. (c)(2). Pub. L. 99–145 amended par. (2) generally. Prior to amendment, par. (2) read as follows:“A dependent of a member of a uniformed service who died while on active duty for a period of more than thirty days, except a dependent covered by section 1072(2)(E) of this title.”
+<b>1985</b>—Subsec. (c)(2). Pub. L. 99–145 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “A dependent of a member of a uniformed service who died while on active duty for a period of more than thirty days, except a dependent covered by section 1072(2)(E) of this title.”
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–557, §19(13)(A), substituted reference to other administering Secretaries for reference to Secretary of Health and Human Services.
 
@@ -184,11 +186,11 @@ Pub. L. 106–398, §1 \[\[div. A\], title VII, §712(a)(3)\], Oct. 30, 2000, 11
 
 #### Effective Date of 1992 Amendment
 
-Section 703(b) of Pub. L. 102–484 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to fiscal years beginning after September 30, 1992.”
+Pub. L. 102–484, div. A, title VII, §703(b), Oct. 23, 1992, 106 Stat. 2432, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to fiscal years beginning after September 30, 1992.”
 
 #### Effective Date of 1991 Amendment
 
-Section 704(c) of Pub. L. 102–190, which provided that subsection (d) of this section was to apply with respect to health care benefits or services received by a person described in such subsection on or after Dec. 5, 1991, was repealed by Pub. L. 102–484, div. A, title VII, §705(c)(1), Oct. 23, 1992, 106 Stat. 2433.
+Pub. L. 102–190, div. A, title VII, §704(c), Dec. 5, 1991, 105 Stat. 1402, which provided that subsection (d) of this section was to apply with respect to health care benefits or services received by a person described in such subsection on or after Dec. 5, 1991, was repealed by Pub. L. 102–484, div. A, title VII, §705(c)(1), Oct. 23, 1992, 106 Stat. 2433.
 
 #### Effective Date of 1990 Amendment
 
@@ -208,7 +210,7 @@ Amendment by Pub. L. 100–180 applicable with respect to fiscal years beginning
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–661 applicable with respect to persons who, after Nov. 14, 1986, incur or aggravate an injury, illness, or disease or die, see section 604(g) of Pub. L. 99–661, set out as a note under section 1074a of this title.
+Amendment by Pub. L. 99–661 applicable with respect to persons who, after Nov. 14, 1986, incur or aggravatean injury, illness, or disease or die, see section 604(g) of Pub. L. 99–661, set out as a note under section 1074a of this title.
 
 #### Effective Date of 1985 Amendment
 
@@ -236,7 +238,7 @@ Amendment by section 501(14) of Pub. L. 96–513 effective Sept. 15, 1981, and a
 
 #### Effective Date of 1979 Amendment
 
-Section 2 of Pub. L. 96–173 provided that: “The amendment made by the first section of this Act \[amending this section\] shall take effect on October 1, 1979.”
+Pub. L. 96–173, §2, Dec. 29, 1979, 93 Stat. 1287, provided that: “The amendment made by the first section of this Act \[amending this section\] shall take effect on October 1, 1979.”
 
 #### Effective Date of 1978 Amendment
 
@@ -264,9 +266,9 @@ Pub. L. 103–335, title VIII, §8052, Sept. 30, 1994, 108 Stat. 2629, provided 
 
 Pub. L. 103–160, div. A, title VII, §704, Nov. 30, 1993, 107 Stat. 1687, provided that in the case of an eligible dependent of a member of a uniformed service who died while on active duty for a period of more than 30 days, the administering Secretary could apply the payment provisions set forth in section 1079(b) of this title (in lieu of the payment provisions set forth in section 1086(b) of this title), with respect to health benefits received by the dependent under such section 1086 in connection with an illness or medical condition for which the dependent was receiving treatment under chapter 55 of this title at time of death of the member, prior to repeal by Pub. L. 103–337, div. A, title VII, §707(d), Oct. 5, 1994, 108 Stat. 2801.
 
-\[Section 707(d) of Pub. L. 103–337 provided in part that: “The repeal of such section \[section 704 of Pub. L. 103–160, formerly set out above\] shall not terminate the special payment rules provided in such section with respect to any person eligible for such payment rules on the date of the enactment of this Act \[Oct. 5, 1994\].”\]
+\[Pub. L. 103–337, div. A, title VII, §707(d), Oct. 5, 1994, 108 Stat. 2801, provided in part that: “The repeal of such section \[section 704 of Pub. L. 103–160, formerly set out above\] shall not terminate the special payment rules provided in such section with respect to any person eligible for such payment rules on the date of the enactment of this Act \[Oct. 5, 1994\].”\]
 
 #### Coverage of Care Provided Since September 30, 1991
 
-Section 705(b) of Pub. L. 102–484 provided that: “Subsection (d) of section 1086 of title 10, United States Code, as added by section 704(a) of the National Defense Authorization Act for Fiscal Years 1992 and 1993 (Public Law 102–190; 105 Stat. 1401) and amended by subsection (a) of this section, shall apply with respect to health care benefits or services received after September 30, 1991, by a person described in subsection (d)(2) of such section 1086 if such benefits or services would have been covered under a plan contracted for under such section 1086.”
+Pub. L. 102–484, div. A, title VII, §705(b), Oct. 23, 1992, 106 Stat. 2433, provided that: “Subsection (d) of section 1086 of title 10, United States Code, as added by section 704(a) of the National Defense Authorization Act for Fiscal Years 1992 and 1993 (Public Law 102–190; 105 Stat. 1401) and amended by subsection (a) of this section, shall apply with respect to health care benefits or services received after September 30, 1991, by a person described in subsection (d)(2) of such section 1086 if such benefits or services would have been covered under a plan contracted for under such section 1086.”
 

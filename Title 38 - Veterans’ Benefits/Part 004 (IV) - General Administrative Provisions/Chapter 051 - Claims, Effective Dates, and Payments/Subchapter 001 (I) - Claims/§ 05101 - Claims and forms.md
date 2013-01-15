@@ -1,24 +1,48 @@
 ### §5101. Claims and forms
 
-(a) A specific claim in the form prescribed by the Secretary (or jointly with the Commissioner of Social Security, as prescribed by section 5105 of this title) must be filed in order for benefits to be paid or furnished to any individual under the laws administered by the Secretary.
+(a)(1) A specific claim in the form prescribed by the Secretary (or jointly with the Commissioner of Social Security, as prescribed by section 5105 of this title) must be filed in order for benefits to be paid or furnished to any individual under the laws administered by the Secretary.
+
+(2) If an individual has not attained the age of 18 years, is mentally incompetent, or is physically unable to sign a form, a form filed under paragraph (1) for the individual may be signed by a court-appointed representative, a person who is responsible for the care of the individual, including a spouse or other relative, or an attorney in fact or agent authorized to act on behalf of the individual under a durable power of attorney. If the individual is in the care of an institution, the manager or principal officer of the institution may sign the form.
 
 (b)(1) A claim by a surviving spouse or child for compensation or dependency and indemnity compensation shall also be considered to be a claim for death pension and accrued benefits, and a claim by a surviving spouse or child for death pension shall be considered to be a claim for death compensation (or dependency and indemnity compensation) and accrued benefits.
 
 (2) A claim by a parent for compensation or dependency and indemnity compensation shall also be considered to be a claim for accrued benefits.
 
-(c)(1) Any person who applies for or is in receipt of any compensation or pension benefit under laws administered by the Secretary shall, if requested by the Secretary, furnish the Secretary with the social security number of such person and the social security number of any dependent or beneficiary on whose behalf, or based upon whom, such person applies for or is in receipt of such benefit. A person is not required to furnish the Secretary with a social security number for any person to whom a social security number has not been assigned.
+(c)(1) Any person who applies for, signs a form on behalf of an individual to apply for, or is in receipt of any compensation or pension benefit under laws administered by the Secretary shall, if requested by the Secretary, furnish the Secretary with the social security number of such person, or TIN in the case that the person is not an individual, and the social security number of any claimant, dependent, or beneficiary on whose behalf, or based upon whom, such person applies for or is in receipt of such benefit. A person is not required to furnish the Secretary with a social security number for any person to whom a social security number has not been assigned.
 
-(2) The Secretary shall deny the application of or terminate the payment of compensation or pension to a person who fails to furnish the Secretary with a social security number required to be furnished pursuant to paragraph (1) of this subsection. The Secretary may thereafter reconsider the application or reinstate payment of compensation or pension, as the case may be, if such person furnishes the Secretary with such social security number.
+(2) The Secretary shall deny the application of or terminate the payment of compensation or pension to a person who fails to furnish the Secretary with a social security number or TIN required to be furnished pursuant to paragraph (1) of this subsection. The Secretary may thereafter reconsider the application or reinstate payment of compensation or pension, as the case may be, if such person furnishes the Secretary with such social security number or TIN.
 
 (3) The costs of administering this subsection shall be paid for from amounts available to the Department of Veterans Affairs for the payment of compensation and pension.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1225, §3001; Pub. L. 97–295, §4(95)(A), Oct. 12, 1982, 96 Stat. 1313; Pub. L. 99–576, title VII, §701(61), Oct. 28, 1986, 100 Stat. 3296; Pub. L. 101–508, title VIII, §8053(a), Nov. 5, 1990, 104 Stat. 1388–352; renumbered §5101 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(a)(1), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405; Pub. L. 108–183, title VII, §708(c)(2), Dec. 16, 2003, 117 Stat. 2674.)
+(d) In this section:
+
+&emsp;(1) The term “mentally incompetent” with respect to an individual means that the individual lacks the mental capacity—
+
+&emsp;&emsp;(A) to provide substantially accurate information needed to complete a form; or
+
+&emsp;&emsp;(B) to certify that the statements made on a form are true and complete.
+
+&emsp;(2) The term “TIN” has the meaning given the term in section 7701(a)(41) of the Internal Revenue Code of 1986.
+
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1225, §3001; Pub. L. 97–295, §4(95)(A), Oct. 12, 1982, 96 Stat. 1313; Pub. L. 99–576, title VII, §701(61), Oct. 28, 1986, 100 Stat. 3296; Pub. L. 101–508, title VIII, §8053(a), Nov. 5, 1990, 104 Stat. 1388–352; renumbered §5101 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(a)(1), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405; Pub. L. 108–183, title VII, §708(c)(2), Dec. 16, 2003, 117 Stat. 2674; Pub. L. 112–154, title V, §502(a), Aug. 6, 2012, 126 Stat. 1190.)
+
+#### References in Text
+
+Section 7701(a)(41) of the Internal Revenue Code of 1986, referred to in subsec. (d)(2), is classified to section 7701(a)(41) of Title 26, Internal Revenue Code.
 
 #### Prior Provisions
 
 Prior section 5101 was renumbered section 8301 of this title.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a). Pub. L. 112–154, §502(a)(1), designated existing provisions as par. (1) and added par. (2).
+
+Subsec. (c)(1). Pub. L. 112–154, §502(a)(2)(A), inserted “, signs a form on behalf of an individual to apply for,” after “who applies for” and “, or TIN in the case that the person is not an individual,” after “of such person” and substituted “claimant, dependent,” for “dependent”.
+
+Subsec. (c)(2). Pub. L. 112–154, §502(a)(2)(B), inserted “or TIN” after “social security number” in two places.
+
+Subsec. (d). Pub. L. 112–154, §502(a)(3), added subsec. (d).
 
 <b>2003</b>—Subsec. (a). Pub. L. 108–183 substituted “Commissioner of Social Security” for “Secretary of Health and Human Services”.
 
@@ -35,6 +59,10 @@ Pub. L. 102–40, §402(d)(1), substituted “5105” for “3005”.
 <b>1986</b>—Subsec. (b)(1). Pub. L. 99–576 substituted “surviving spouse or” for “widow or” in two places.
 
 <b>1982</b>—Subsec. (a). Pub. L. 97–295 substituted “Health and Human Services” for “Health, Education, and Welfare”.
+
+#### Effective Date of 2012 Amendment
+
+Pub. L. 112–154, title V, §502(b), Aug. 6, 2012, 126 Stat. 1191, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to claims filed on or after the date of the enactment of this Act \[Aug. 6, 2012\].”
 
 #### Pilot Programs on Expedited Treatment of Fully Developed Claims and Provision of Checklists to Individuals Submitting Claims
 
@@ -110,7 +138,7 @@ First initial report.—Not later than 335 days after the date of the enactment 
 
 &emsp;“(2)
 
-Second interim report.—Not later than 1,065 days after the date of the enactment of this Act, the Secretary shall submit to Congress a report on the pilot program under subsection (b) with respect to claims described in subsection (b)(2)(B).
+Second interim report.—Not later than 1,065 days after the date of the enactment of this Act, theSecretary shall submit to Congress a report on the pilot program under subsection (b) with respect to claims described in subsection (b)(2)(B).
 
 &emsp;“(3)
 
@@ -256,7 +284,7 @@ Report to Congress.—Not later than April 1, 2010, the Secretary shall submit t
 
 #### Temporary Authority for Performance of Medical Disabilities Examinations by Contract Physicians
 
-Pub. L. 108–183, title VII, §704, Dec. 16, 2003, 117 Stat. 2672, as amended by Pub. L. 110–389, §105, Oct. 10, 2008, 122 Stat. 4149; Pub. L. 111–275, title VIII, §809, Oct. 13, 2010, 124 Stat. 2894, provided that:
+Pub. L. 108–183, title VII, §704, Dec. 16, 2003, 117 Stat. 2672, as amended by Pub. L. 110–389, §105, Oct. 10, 2008, 122 Stat. 4149; Pub. L. 111–275, title VIII, §809, Oct. 13, 2010, 124 Stat. 2894; Pub. L. 112–191, title II, §207, Oct. 5, 2012, 126 Stat. 1440, provided that:
 
 “(a)
 
@@ -268,7 +296,7 @@ Performance by Contract.—Examinations under the authority provided in subsecti
 
 “(c)
 
-Expiration.—The authority in subsection (a) shall expire on December 31, 2012. No examination maybe carried out under the authority provided in that subsection after that date.
+Expiration.—The authority in subsection (a) shall expire on December 31, 2013. No examination may be carried out under the authority provided in that subsection after that date.
 
 “(d)
 

@@ -10,7 +10,7 @@ Act of June 17, 1902, referred to in text, is popularly known as the Reclamation
 
 #### Authorization of Appropriations
 
-Section 3 of act Dec. 29, 1950, provided that: “There are hereby authorized to be appropriated, out of any moneys in the Treasury not otherwise appropriated, such sums as may be required to carry out the purposes of this Act \[enacting this section and section 600c of this title\].”
+Act Dec. 29, 1950, ch. 1183, §3, 64 Stat. 1125, provided that: “There are hereby authorized to be appropriated, out of any moneys in the Treasury not otherwise appropriated, such sums as may be required to carry out the purposes of this Act \[enacting this section and section 600c of this title\].”
 
 #### Canadian River Project Prepayment
 

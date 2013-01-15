@@ -34,5 +34,5 @@ The Congress finds the following:
 
 #### Short Title
 
-Section 101 of title I of Pub. L. 102–440 provided that: “This title \[enacting this chapter\] may be cited as the ‘Wild Bird Conservation Act of 1992’.”
+Pub. L. 102–440, title I, §101, Oct. 23, 1992, 106 Stat. 2224, provided that: “This title \[enacting this chapter\] may be cited as the ‘Wild Bird Conservation Act of 1992’.”
 

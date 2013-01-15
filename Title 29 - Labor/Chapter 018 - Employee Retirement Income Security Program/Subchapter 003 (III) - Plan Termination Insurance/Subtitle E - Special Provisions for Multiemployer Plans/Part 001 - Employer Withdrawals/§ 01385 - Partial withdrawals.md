@@ -66,7 +66,7 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
 #### Applicability to Certain Employers Engaged in Trade or Business of Shipping Bulk Cargoes in Great Lakes Maritime Industry
 
-Section 108(c)(2) of Pub. L. 96–364 provided that:
+Pub. L. 96–364, title I, §108(c)(2), Sept. 26, 1980, 94 Stat. 1268, provided that:
 
 “(A) For the purpose of applying section 4205 of the Employee Retirement Income Security Act of 1974 \[this section\] in the case of an employer described in subparagraph (B)—
 
@@ -80,11 +80,11 @@ Section 108(c)(2) of Pub. L. 96–364 provided that:
 
 &emsp;“(i) the employer is engaged in the trade or business of shipping bulk cargoes in the Great Lakes Maritime Industry, and whose fleet consists of vessels the gross registered tonnage of which was at least 7,800, as stated in the American Bureau of Shipping Record, and
 
-&emsp;“(ii) whose fleet during any 5 years from the period 1970 through and including 1979 has experienced a 33 percent or more increase in the contribution units asmeasured from the average annual contribution units for the calendar years 1970 and 1971.”
+&emsp;“(ii) whose fleet during any 5 years from the period 1970 through and including 1979 has experienced a 33 percent or more increase in the contribution units as measured from the average annual contribution units for the calendar years 1970 and 1971.”
 
 #### Applicability to Specified Plan Year, Cessation of Contribution Obligations, and Contribution Base Units of Employer
 
-Section 108(d) of Pub. L. 96–364, as amended by Pub. L. 98–369, div. A, title V, §558(b)(2), July 18, 1984, 98 Stat. 899, provided that: “For purposes of section 4205 of the Employee Retirement Income Security Act of 1974 \[this section\]—
+Pub. L. 96–364, title I, §108(d), Sept. 26, 1980, 94 Stat. 1269, as amended by Pub. L. 98–369, div. A, title V, §558(b)(2), July 18, 1984, 98 Stat. 899, provided that: “For purposes of section 4205 of the Employee Retirement Income Security Act of 1974 \[this section\]—
 
 &emsp;“(1) subsection (a)(1) of such section shall not apply to any plan year beginning before September 26, 1982,
 
@@ -94,7 +94,7 @@ Section 108(d) of Pub. L. 96–364, as amended by Pub. L. 98–369, div. A, titl
 
 #### Liability of Certain Employers Announcing Publicly Before December 13, 1979, Total Cessation of Covered Operations at a Facility in a State; Amount, Coverage, Determinative Factors, Etc.
 
-Section 108(e) of Pub. L. 96–364 provided that:
+Pub. L. 96–364, title I, §108(e), Sept. 26, 1980, 94 Stat. 1269, provided that:
 
 “(1) In the case of a partial withdrawal under section 4205 of the Employee Retirement Income Security Act of 1974 \[this section\], an employer who—
 

@@ -4,5 +4,5 @@ Section, Pub. L. 97–12, title I, §110, June 5, 1981, 95 Stat. 62; Pub. L. 97�
 
 #### Effective Date of Repeal
 
-Section 2 of Pub. L. 100–137 provided that the repeal is effective Jan. 1, 1988.
+Pub. L. 100–137, §2, Oct. 21, 1987, 101 Stat. 819, provided that the repeal is effective Jan. 1, 1988.
 

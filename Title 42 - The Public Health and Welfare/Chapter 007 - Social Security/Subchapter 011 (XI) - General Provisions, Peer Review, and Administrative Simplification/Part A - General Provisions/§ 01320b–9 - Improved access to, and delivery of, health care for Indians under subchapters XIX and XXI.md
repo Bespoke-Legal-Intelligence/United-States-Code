@@ -44,7 +44,7 @@ Subsec. (f). Pub. L. 101–45 amended subsec. (f) generally. Prior to amendment,
 
 Subsec. (j). Pub. L. 101–239, §6221(3), substituted “through fiscal year 1991, such sums” for “such sums”.
 
-Subsecs. (k), (<i>l</i>). Pub. L. 101–239, §6221(4), added subsecs. (k) and (<i>l</i>).
+Subsecs. (k), (l). Pub. L. 101–239, §6221(4), added subsecs. (k) and (l).
 
 <b>1988</b>—Subsec. (d). Pub. L. 100–647, §8201(1), (2), substituted “March 31, 1990” for “September 30, 1988” and “September 30, 1990” for “March 31, 1989” in introductory provisions.
 
@@ -58,9 +58,9 @@ Amendment by Pub. L. 111–3 effective Apr. 1, 2009, and applicable to child hea
 
 #### Effective Date of 1994 Amendment
 
-Section 264(h) of Pub. L. 103–432 provided that: “Each amendment made by this section \[amending this section and sections 602, 1382a, and 1383 of this title\] shall take effect as if included in the provision of OBRA–1990 \[Pub. L. 101–508\] to which the amendment relates at the time such provision became law.”
+Pub. L. 103–432, title II, §264(h), Oct. 31, 1994, 108 Stat. 4469, provided that: “Each amendment made by this section \[amending this section and sections 602, 1382a, and 1383 of this title\] shall take effect as if included in the provision of OBRA–1990 \[Pub. L. 101–508\] to which the amendment relates at the time such provision became law.”
 
 #### Construction of 1990 Amendment
 
-Section 264(d) of Pub. L. 103–432 provided that: “Section 5057 of OBRA–1990 \[Pub. L. 101–508, amending this section\], and the amendment made by such section, are hereby repealed, and section 1139(d) of the Social Security Act \[subsec. (d) of this section\] shall be applied and administered as if such section 5057 had never been enacted.”
+Pub. L. 103–432, title II, §264(d), Oct. 31, 1994, 108 Stat. 4468, provided that: “Section 5057 of OBRA–1990 \[Pub. L. 101–508, amending this section\], and the amendment made by such section, are hereby repealed, and section 1139(d) of the Social Security Act \[subsec. (d) of this section\] shall be applied and administered as if such section 5057 had never been enacted.”
 

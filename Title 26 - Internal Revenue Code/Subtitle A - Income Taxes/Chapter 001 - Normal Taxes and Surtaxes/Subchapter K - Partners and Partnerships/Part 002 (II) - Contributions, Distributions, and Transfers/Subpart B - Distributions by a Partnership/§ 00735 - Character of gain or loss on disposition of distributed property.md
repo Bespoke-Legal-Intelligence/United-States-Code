@@ -18,7 +18,7 @@ In determining the period for which a partner has held property received in a di
 
 #### (1) Waiver of holding periods contained in section 1231
 
-&emsp;For purposes of this section, section 751(d) (defining inventory item) shall be appliedwithout regard to any holding period in section 1231(b).
+&emsp;For purposes of this section, section 751(d) (defining inventory item) shall be applied without regard to any holding period in section 1231(b).
 
 #### (2) Substituted basis property
 
@@ -46,7 +46,7 @@ Amendment by Pub. L. 105–34 applicable to sales, exchanges, and distributions 
 
 #### Effective Date of 1984 Amendment
 
-Section 74(d)(2) of Pub. L. 98–369 provided that: “The amendment made by subsection (b) \[amending this section\] shall apply to property distributed after March 31, 1984, in taxable years ending after such date.”
+Pub. L. 98–369, div. A, title I, §74(d)(2), July 18, 1984, 98 Stat. 594, provided that: “The amendment made by subsection (b) \[amending this section\] shall apply to property distributed after March 31, 1984, in taxable years ending after such date.”
 
 #### Effective Date of 1976 Amendment
 

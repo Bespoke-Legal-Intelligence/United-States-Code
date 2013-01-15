@@ -16,9 +16,9 @@ The Congress finds that—
 
 #### Short Title
 
-Section 1 of Pub. L. 104–142 provided that: “This Act \[enacting this chapter\] may be cited as the ‘Mercury-Containing and Rechargeable Battery Management Act’.”
+Pub. L. 104–142, §1, May 13, 1996, 110 Stat. 1329, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Mercury-Containing and Rechargeable Battery Management Act’.”
 
-Section 101 of title I of Pub. L. 104–142 provided that: “This title \[enacting subchapter II of this chapter\] may be cited as the ‘Rechargeable Battery Recycling Act’.”
+Pub. L. 104–142, title I, §101, May 13, 1996, 110 Stat. 1332, provided that: “This title \[enacting subchapter II of this chapter\] may be cited as the ‘Rechargeable Battery Recycling Act’.”
 
-Section 201 of title II of Pub. L. 104–142 provided that: “This title \[enacting subchapter III of this chapter\] may be cited as the ‘Mercury-Containing Battery Management Act’.”
+Pub. L. 104–142, title II, §201, May 13, 1996, 110 Stat. 1336, provided that: “This title \[enacting subchapter III of this chapter\] may be cited as the ‘Mercury-Containing Battery Management Act’.”
 

@@ -14,21 +14,17 @@ Driving while intoxicated; driving under the influence.—The terms “driving w
 
 &emsp;(3)
 
-License suspension.—The term “license suspension” means the suspension of all driving privileges.
-
-&emsp;(4)
-
 Motor vehicle.—The term “motor vehicle” means a vehicle driven or drawn by mechanical power and manufactured primarily for use on public highways, but does not include a vehicle operated solely on a rail line or a commercial vehicle.
 
-&emsp;(5)
+&emsp;(4)
 
 Repeat intoxicated driver law.—The term “repeat intoxicated driver law” means a State law that provides, as a minimum penalty, that an individual convicted of a second or subsequent offense for driving while intoxicated or driving under the influence after a previous conviction for that offense shall—
 
 &emsp;&emsp;(A) receive—
 
-&emsp;&emsp;&emsp;(i) a driver's license suspension for not less than 1 year; or
+&emsp;&emsp;&emsp;(i) a suspension of all driving privileges for not less than 1 year; or
 
-&emsp;&emsp;&emsp;(ii) a combination of suspension of all driving privileges for the first 45 days of the suspension period followed by a reinstatement of limited driving privileges for the purpose of getting to and from work, school, or an alcohol treatment program if an ignition interlock device is installed on each of the motor vehicles owned or operated, or both, by the individual;
+&emsp;&emsp;&emsp;(ii) a suspension of unlimited driving privileges for 1 year, allowing for the reinstatement of limited driving privileges subject to restrictions and limited exemptions as established by State law, if an ignition interlock device is installed for not less than 1 year on each of the motor vehicles owned or operated, or both, by the individual;
 
 &emsp;&emsp;(B) be subject to the impoundment or immobilization of, or the installation of an ignition interlock system on, each motor vehicle owned or operated, or both, by the individual;
 
@@ -54,7 +50,7 @@ Transfer of Funds.—
 
 &emsp;(1)
 
-Fiscal years 2001 and 2002.—On October 1, 2000, and October 1, 2001, if a State has not enacted or is not enforcing a repeat intoxicated driver law, the Secretary shall transfer an amount equal to 1½ percent of the funds apportioned to the State on that date under each of paragraphs (1), (3), and (4) of section 104(b) to the apportionment of the State under section 402—
+Fiscal years 2001 and 2002.—On October 1, 2000, and October 1, 2001, if a State has not enacted or is not enforcing a repeat intoxicated driver law, the Secretary shall transfer an amount equal to 1½ percent of the funds apportioned to the State on that date under each of paragraphs (1), (3), and (4) of section 104(b) <sup>1</sup> to the apportionment of the State under section 402—
 
 &emsp;&emsp;(A) to be used for alcohol-impaired driving countermeasures; or
 
@@ -62,11 +58,31 @@ Fiscal years 2001 and 2002.—On October 1, 2000, and October 1, 2001, if a Stat
 
 &emsp;(2)
 
-Fiscal year 2003 and fiscal years thereafter.—On October 1, 2002, and each October 1 thereafter, if a State has not enacted or is not enforcing a repeat intoxicated driver law, the Secretary shall transfer an amount equal to 3 percent of the funds apportioned to the State on that date under each of paragraphs (1), (3), and (4) of section 104(b) to the apportionment of the State under section 402 to be used or directed as described in subparagraph (A) or (B) of paragraph (1).
+Fiscal year 2012 and thereafter.—
+
+&emsp;&emsp;(A)
+
+Reservation of funds.—On October 1, 2011, and each October 1 thereafter, if a State has not enacted or is not enforcing a repeat intoxicated driver law, the Secretary shall reserve an amount equal to 2.5 percent of the funds to be apportioned to the State on that date under each of paragraphs (1) and (2) of section 104(b) until the State certifies to the Secretary the means by which the States will use those reserved funds among the uses authorized under subparagraphs (A) and (B) of paragraph (1), and paragraph (3).
+
+&emsp;&emsp;(B)
+
+Transfer of funds.—As soon as practicable after the date of receipt of a certification from a State under subparagraph (A), the Secretary shall—
+
+&emsp;&emsp;&emsp;(i) transfer the reserved funds identified by the State for use as described in subparagraphs (A) and (B) of paragraph (1) to the apportionment of the State under section 402; and
+
+&emsp;&emsp;&emsp;(ii) release the reserved funds identified by the State as described in paragraph (3).
 
 &emsp;(3)
 
-Use for hazard elimination program.—A State may elect to use all or a portion of the funds transferred under paragraph (1) or (2) for activities eligible under section 148.
+Use for highway safety improvement program.—
+
+&emsp;&emsp;(A)
+
+In general.—A State may elect to use all or a portion of the funds transferred under paragraph (2) for activities eligible under section 148.
+
+&emsp;&emsp;(B)
+
+State departments of transportation.—If the State makes an election under subparagraph (A), the funds shall be transferred to the department of transportation of the State, which shall be responsible for the administration of the funds.
 
 &emsp;(4)
 
@@ -74,13 +90,11 @@ Federal share.—The Federal share of the cost of a project carried out with fun
 
 &emsp;(5)
 
-Derivation of amount to be transferred.—The amount to be transferred under paragraph (1) or (2) may be derived from one or more of the following:
+Derivation of amount to be transferred.—The amount to be transferred under paragraph (2) may be derived from the following:
 
 &emsp;&emsp;(A) The apportionment of the State under section 104(b)(1).
 
-&emsp;&emsp;(B) The apportionment of the State under section 104(b)(3).
-
-&emsp;&emsp;(C) The apportionment of the State under section 104(b)(4).
+&emsp;&emsp;(B) The apportionment of the State under section 104(b)(2).
 
 &emsp;(6)
 
@@ -98,7 +112,7 @@ Amount.—The amount of obligation authority referred to in subparagraph (A) sha
 
 &emsp;&emsp;&emsp;(ii) the ratio that—
 
-&emsp;&emsp;&emsp;&emsp;(I) the amount of obligation authority distributed for the fiscal year to theState for Federal-aid highways and highway safety construction programs, bears to
+&emsp;&emsp;&emsp;&emsp;(I) the amount of obligation authority distributed for the fiscal year to the State for Federal-aid highways and highway safety construction programs, bears to
 
 &emsp;&emsp;&emsp;&emsp;(II) the total of the sums apportioned to the State for Federal-aid highways and highway safety construction programs (excluding sums not subject to any obligation limitation) for the fiscal year.
 
@@ -106,9 +120,37 @@ Amount.—The amount of obligation authority referred to in subparagraph (A) sha
 
 Limitation on applicability of obligation limitation.—Notwithstanding any other provision of law, no limitation on the total of obligations for highway safety programs under section 402 shall apply to funds transferred under this subsection to the apportionment of a State under such section.
 
-(Added Pub. L. 105–178, title I, §1406(a), as added Pub. L. 105–206, title IX, §9005(a), July 22, 1998, 112 Stat. 845; amended Pub. L. 109–59, title I, §1401(a)(3)(C), Aug. 10, 2005, 119 Stat. 1225; Pub. L. 110–244, title I, §115, June 6, 2008, 122 Stat. 1606.)
+(Added Pub. L. 105–178, title I, §1406(a), as added Pub. L. 105–206, title IX, §9005(a), July 22, 1998, 112 Stat. 845; amended Pub. L. 109–59, title I, §1401(a)(3)(C), Aug. 10, 2005, 119 Stat. 1225; Pub. L. 110–244, title I, §115, June 6, 2008, 122 Stat. 1606; Pub. L. 112–141, div. A, title I, §1403, July 6, 2012, 126 Stat. 556.)
+
+#### References in Text
+
+Section 104, referred to in subsec. (b)(1), was amended generally by Pub. L. 112–141, div. A, title I, §1105(a), July 6, 2012, 126 Stat. 427.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a)(3). Pub. L. 112–141, §1403(a)(1), (2), redesignated par. (4) as (3) and struck out former par. (3) which defined “license suspension”.
+
+Subsec. (a)(4). Pub. L. 112–141, §1403(a)(2), (3), redesignated par. (5) as (4), added subpar. (A), and struck out former subpar. (A) which read as follows: “receive—
+
+&emsp;“(i) a driver's license suspension for not less than 1 year; or
+
+&emsp;“(ii) a combination of suspension of all driving privileges for the first 45 days of the suspension period followed by a reinstatement of limited driving privileges for the purpose of getting to and from work, school, or an alcohol treatment program if an ignition interlock device is installed on each of the motor vehicles owned or operated, or both, by the individual;”.
+
+> Former par. (4) redesignated (3).
+
+Subsec. (a)(5). Pub. L. 112–141, §1403(a)(2), redesignated par. (5) as (4).
+
+Subsec. (b)(2). Pub. L. 112–141, §1403(b)(1), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “On October 1, 2002, and each October 1 thereafter, if a State has not enacted or is not enforcing a repeat intoxicated driver law, the Secretary shall transfer an amount equal to 3 percent of the funds apportioned to the State on that date under each of paragraphs (1), (3), and (4) of section 104(b) to the apportionment of the State under section 402 to be used or directed as described in subparagraph (A) or (B) of paragraph (1).”
+
+Subsec. (b)(3). Pub. L. 112–141, §1403(b)(2), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “A State may elect to use all or a portion of the funds transferred under paragraph (1) or (2) for activities eligible under section 148.”
+
+Subsec. (b)(5). Pub. L. 112–141, §1403(b)(3), added par. (5) and struck out former par. (5). Prior to amendment, text read as follows: “The amount to be transferred under paragraph (1) or (2) may be derived from one or more of the following:
+
+&emsp;“(A) The apportionment of the State under section 104(b)(1).
+
+&emsp;“(B) The apportionment of the State under section 104(b)(3).
+
+&emsp;“(C) The apportionment of the State under section 104(b)(4).”
 
 <b>2008</b>—Subsec. (a)(5)(A), (B). Pub. L. 110–244 added subpars. (A) and (B) and struck out former subpars. (A) and (B) which read as follows:
 
@@ -118,7 +160,13 @@ Limitation on applicability of obligation limitation.—Notwithstanding any othe
 
 <b>2005</b>—Subsec. (b)(3). Pub. L. 109–59 substituted “148” for “152”.
 
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
+
 #### Effective Date
 
 Section effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, see section 9016 of Pub. L. 105–206, set out as an Effective Date of 1998 Amendment note under section 101 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

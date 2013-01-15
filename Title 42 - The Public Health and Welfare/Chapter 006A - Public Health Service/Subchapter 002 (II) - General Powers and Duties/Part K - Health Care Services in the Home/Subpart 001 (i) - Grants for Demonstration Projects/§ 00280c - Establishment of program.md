@@ -42,7 +42,7 @@ A prior section 395 of act July 1, 1944, ch. 373, title III, formerly §397, as 
 
 Subsec. (a)(1). Pub. L. 101–557, §101(b), substituted “skilled nursing care services, homemaker or home health aide services, or personal care services are provided in the homes of the individuals” for “skilled medical services or related health services (or both) are provided in the homes of the individuals”.
 
-Subsec. (b). Pub. L. 101–557, §101(c), substituted “to ensure that—” and pars. (1) and (2) for “to ensure that not less than 25 percent of individuals receiving services pursuant to subsection (a) of this section are individuals who are not less than 65 years of age”.
+Subsec. (b). Pub. L. 101–557, §101(c), substituted “to ensure that—” and pars. (1) and (2) for “to ensure thatnot less than 25 percent of individuals receiving services pursuant to subsection (a) of this section are individuals who are not less than 65 years of age”.
 
 #### Effective Date
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment; availability
 
-To carry out the flood insurance program authorized by this chapter, the Director shall establish in the Treasury of the United States a National Flood Insurance Fund (hereinafter referred to as the “fund”) which shall be an account separate from any other accounts or funds available to the Director and shall be available as described in subsection (f) of this section, without fiscal year limitation (except as otherwise provided in this section)—
+To carry out the flood insurance program authorized by this chapter, the Administrator shall establish in the Treasury of the United States a National Flood Insurance Fund (hereinafter referred to as the “fund”) which shall be an account separate from any other accounts or funds available to the Administrator and shall be available as described in subsection (f) of this section, without fiscal year limitation (except as otherwise provided in this section)—
 
 &emsp;(1) for making such payments as may, from time to time, be required under section 4054 of this title;
 
@@ -14,19 +14,15 @@ To carry out the flood insurance program authorized by this chapter, the Directo
 
 &emsp;(5) for the purposes specified in subsection (d) of this section under the conditions provided therein;
 
-&emsp;(6) for carrying out the program under section 4022(b) of this title;
+&emsp;(6) for carrying out the program under section 4022(b) of this title; and
 
-&emsp;(7) for transfers to the National Flood Mitigation Fund, but only to the extent provided in section 4104d(b)(1) of this title;
-
-&emsp;(8) for financial assistance under section 4102a of this title to States and communities for taking actions under such section with respect to severe repetitive loss properties, but only to the extent provided in section 4102a(i) of this title; and
-
-&emsp;(9) for funding, not to exceed $10,000,000 in any fiscal year, for mitigation actions under section 4030 of this title, except that, notwithstanding any other provision of this chapter, amounts made available pursuant to this paragraph shall not be subject to offsetting collections through premium rates for flood insurance coverage under this chapter.
+&emsp;(7) for transfers to the National Flood Mitigation Fund, but only to the extent provided in section 4104d(b)(1) of this title.
 
 #### (b) Credits to Fund
 
 The fund shall be credited with—
 
-&emsp;(1) such funds borrowed in accordance with the authority provided in section 4016 of this title as may from time to time be deposited in the fund;
+&emsp;(1) such funds borrowed in accordance with the authority provided in section 4016 of thistitle as may from time to time be deposited in the fund;
 
 &emsp;(2) premiums, fees, or other charges which may be paid or collected in connection with the excess loss reinsurance coverage provided under section 4055 of this title;
 
@@ -34,7 +30,7 @@ The fund shall be credited with—
 
 &emsp;(4) interest which may be earned on investments of the fund pursuant to subsection (c) of this section;
 
-&emsp;(5) such sums as are required to be paid to the Director under section 4015(d) of this title; and
+&emsp;(5) such sums as are required to be paid to the Administrator under section 4015(d) of this title; and
 
 &emsp;(6) receipts from any other operations under this chapter (including premiums under the conditions specified in subsection (d) of this section, and salvage proceeds, if any, resulting from reinsurance coverage).
 
@@ -46,17 +42,17 @@ If, after—
 
 &emsp;(2) any outstanding amounts which may have been advanced to the fund from appropriations authorized under section 4127(a)(2)(B) of this title have been credited to the appropriation from which advanced, with interest accrued at the rate prescribed under section 2414(e) of this title, as in effect immediately prior to August 1, 1968,
 
-> the Director determines that the moneys of the fund are in excess of current needs, he may request the investment of such amounts as he deems advisable by the Secretary of the Treasury in obligations issued or guaranteed by the United States.
+> the Administrator determines that the moneys of the fund are in excess of current needs, he may request the investment of such amounts as he deems advisable by the Secretary of the Treasury in obligations issued or guaranteed by the United States.
 
 #### (d) Availability of Fund if operation of program is carried out through facilities of Federal Government
 
-In the event the Director makes a determination in accordance with the provisions of section 4071 of this title that operation of the flood insurance program, in whole or in part, should be carried out through the facilities of the Federal Government, the fund shall be available for all purposes incident thereto, including—
+In the event the Administrator makes a determination in accordance with the provisions of section 4071 of this title that operation of the flood insurance program, in whole or in part, should be carried out through the facilities of the Federal Government, the fund shall be available for all purposes incident thereto, including—
 
 &emsp;(1) cost incurred in the adjustment and payment of any claims for losses, and
 
 &emsp;(2) payment of applicable operating costs set forth in the schedules prescribed under section 4018 of this title,
 
-> for so long as the program is so carried out, and in such event any premiums paid shall be deposited by the Director to the credit of the fund.
+> for so long as the program is so carried out, and in such event any premiums paid shall be deposited by the Administrator to the credit of the fund.
 
 #### (e) Annual budget
 
@@ -66,13 +62,23 @@ An annual business-type budget for the fund shall be prepared, transmitted to th
 
 The fund shall be available, with respect to any fiscal year beginning on or after October 1, 1981, only to the extent approved in appropriation Acts; except that the fund shall be available for the purpose described in subsection (d)(1) of this section without such approval.
 
-(Pub. L. 90–448, title XIII, §1310, Aug. 1, 1968, 82 Stat. 577; Pub. L. 97–35, title III, §341(c), Aug. 13, 1981, 95 Stat. 419; Pub. L. 98–181, title IV, §451(d)(1), Nov. 30, 1983, 97 Stat. 1229; Pub. L. 98–479, title II, §203(j)(1), Oct. 17, 1984, 98 Stat. 2231; Pub. L. 100–242, title V, §545(d), Feb. 5, 1988, 101 Stat. 1942; Pub. L. 101–508, title II, §2302(e)(3), Nov. 5, 1990, 104 Stat. 1388–24; Pub. L. 103–325, title V, §§542, 554(b), 577(h), Sept. 23, 1994, 108 Stat. 2269, 2274, 2283; Pub. L. 108–264, title I, §§102(b), 104(b), June 30, 2004, 118 Stat. 721, 723.)
+(Pub. L. 90–448, title XIII, §1310, Aug. 1, 1968, 82 Stat. 577; Pub. L. 97–35, title III, §341(c), Aug. 13, 1981, 95 Stat. 419; Pub. L. 98–181, title I \[title IV, §451(d)(1)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 98–479, title II, §203(j)(1), Oct. 17, 1984, 98 Stat. 2231; Pub. L. 100–242, title V, §545(d), Feb. 5, 1988, 101 Stat. 1942; Pub. L. 101–508, title II, §2302(e)(3), Nov. 5, 1990, 104 Stat. 1388–24; Pub. L. 103–325, title V, §§542, 554(b), 577(h), Sept. 23, 1994, 108 Stat. 2269, 2274, 2283; Pub. L. 108–264, title I, §§102(b), 104(b), June 30, 2004, 118 Stat. 721, 723; Pub. L. 112–141, div. F, title II, §§100225(d), 100238(b)(1), July 6, 2012, 126 Stat. 941, 958.)
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) and (b)(6), was in the original a reference to “this title” meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which isclassified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
+This chapter, referred to in subsecs. (a) and (b)(6), was in the original a reference to “this title” meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a). Pub. L. 112–141, §100238(b)(1), substituted “Administrator” for “Director” in two places.
+
+Subsec. (a)(6) to (9). Pub. L. 112–141, §100225(d), inserted “and” at end of par. (6), substituted period for semicolon at end of par. (7), and struck out pars. (8) and (9) which read as follows:
+
+“(8) for financial assistance under section 4102a of this title to States and communities for taking actions under such section with respect to severe repetitive loss properties, but only to the extent provided in section 4102a(i) of this title; and
+
+“(9) for funding, not to exceed $10,000,000 in any fiscal year, for mitigation actions under section 4030 of this title, except that, notwithstanding any other provision of this chapter, amounts made available pursuant to this paragraph shall not be subject to offsetting collections through premium rates for flood insurance coverage under this chapter.”
+
+Subsecs. (b)(5), (c), (d). Pub. L. 112–141, §100238(b)(1), substituted “Administrator” for “Director” wherever appearing.
 
 <b>2004</b>—Subsec. (a)(7), (8). Pub. L. 108–264, §102(b), struck out “and” at end of par. (7), added par. (8), and struck out former par. (8) which read as follows: “for costs of preparing the report under section 577 of the Riegle Community Development and Regulatory Improvement Act of 1994, except that the fund shall be available for the purpose under this paragraph in an amount not to exceed an aggregate of $5,000,000 over the 2-year period beginning on September 23, 1994.”
 

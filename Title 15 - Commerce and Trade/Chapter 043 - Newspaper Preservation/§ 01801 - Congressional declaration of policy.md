@@ -6,7 +6,7 @@ In the public interest of maintaining a newspaper press editorially and reportor
 
 #### Short Title
 
-Section 1 of Pub. L. 91–353 provided that: “This Act \[enacting this chapter\] may be cited as the ‘Newspaper Preservation Act’.”
+Pub. L. 91–353, §1, July 24, 1970, 84 Stat. 466, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Newspaper Preservation Act’.”
 
 #### Separability
 

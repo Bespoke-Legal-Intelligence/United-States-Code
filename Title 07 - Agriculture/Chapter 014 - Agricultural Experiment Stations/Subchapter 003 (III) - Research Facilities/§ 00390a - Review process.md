@@ -12,7 +12,7 @@ In consultation with the congressional agriculture committees, the Secretary sha
 
 #### (1) Determination by Secretary
 
-&emsp;With respect to each proposal for an agricultural research facility submitted under subsection (a) of this section, the Secretary shall determine whether the proposal meets the criteria set forth in paragraph (2).
+&emsp;With respect to each proposal for an agricultural research facility submitted under subsection (a) of this section, the Secretary shalldetermine whether the proposal meets the criteria set forth in paragraph (2).
 
 #### (2) Criteria
 

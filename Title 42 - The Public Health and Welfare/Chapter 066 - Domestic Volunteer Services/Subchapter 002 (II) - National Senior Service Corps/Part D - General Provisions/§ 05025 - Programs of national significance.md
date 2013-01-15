@@ -42,7 +42,7 @@ The Director shall make grants under subsection (a) of this section to support o
 
 &emsp;(11) Programs that engage older individuals with children and youth to complete service in energy conservation, environmental stewardship, or other environmental needs of a community, including service relating to conducting energy audits, insulating homes, or conducting other activities to promote energy efficiency.
 
-&emsp;(12) Programs that reach out to organizations (such as labor unions and profitmaking organizations) not previously involved in addressing national problems of local concern.
+&emsp;(12) Programs that reach out to organizations (such as labor unions and profitmakingorganizations) not previously involved in addressing national problems of local concern.
 
 &emsp;(13) Programs that provide for outreach to increase participation of members of ethnic groups who have limited English proficiency.
 
@@ -60,7 +60,7 @@ The Director shall make grants under subsection (a) of this section to support o
 
 #### (d) Amount of funds available for grants
 
-(1) Except as provided in paragraph (2), from the amounts appropriated under subsection (a), (b), (c), or (d) of section 5082 of this title, for each fiscal year there shall be available to theDirector such sums as may be necessary to make grants under subsection (a) of this section.
+(1) Except as provided in paragraph (2), from the amounts appropriated under subsection (a), (b), (c), or (d) of section 5082 of this title, for each fiscal year there shall be available to the Director such sums as may be necessary to make grants under subsection (a) of this section.
 
 (2) No funds shall be available to the Director to make grants under subsection (a) of this section for a fiscal year unless the amounts appropriated under subsections (a), (b), and (c) of section 5082 of this title and available for such fiscal year to carry out parts A, B, and C (without regard to this section) are sufficient to maintain the number of projects and volunteers funded under parts A, B, and C, respectively, in the preceding fiscal year.
 
@@ -112,7 +112,7 @@ Pub. L. 111–13, §2146(d)(2)(F), redesignated par. (15) as (14). Former par. (
 
 Subsec. (b)(15) to (18). Pub. L. 111–13, §2146(d)(2)(J), (K), redesignated pars. (17) and (18) as (15) and (16), respectively, and struck out former par. (16), which read as follows: “Programs that involve older volunteers working with young people in apprenticeship programs.” Former par. (15) redesignated (14).
 
-Subsec. (c)(1). Pub. L. 111–13, §2146(d)(3), inserted “and that such applicant has expertise applicable to implementing the proposed program for which the applicant is requesting the grant” after “supported by such applicant”.
+Subsec. (c)(1). Pub. L. 111–13, §2146(d)(3), inserted “and that such applicant has expertise applicable toimplementing the proposed program for which the applicant is requesting the grant” after “supported by such applicant”.
 
 Subsec. (e). Pub. L. 111–13, §2146(d)(4), inserted “widely” after “shall”.
 

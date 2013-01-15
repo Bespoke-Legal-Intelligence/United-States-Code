@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(ii) is not being made in conjunction with an intelligence or intelligence-related activity.
 
-(3) An intelligence agency may not transfer any defense articles or defense services outside the agency in conjunction with any intelligence or intelligence-related activity for which funds were denied by the Congress.
+(3) An intelligence agency may not transfer any defense articles or defense services outside the agency in conjunction with any intelligenceor intelligence-related activity for which funds were denied by the Congress.
 
 (b) As used in this section—
 

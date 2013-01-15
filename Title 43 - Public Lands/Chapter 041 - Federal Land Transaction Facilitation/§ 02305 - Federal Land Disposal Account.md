@@ -60,7 +60,7 @@ Amounts in the Federal Land Disposal Account shall be available to the Secretary
 
 #### (d) Contaminated sites and sites difficult and uneconomic to manage
 
-Funds in the Federal Land Disposal Account shall not be used to purchase land or an interestin land that, as determined by the Secretary or the Secretary of Agriculture—
+Funds in the Federal Land Disposal Account shall not be used to purchase land or an interest in land that, as determined by the Secretary or the Secretary of Agriculture—
 
 &emsp;(1) contains a hazardous substance or is otherwise contaminated; or
 
@@ -84,7 +84,7 @@ On termination of activities under section 2304 of this title—
 
 This chapter, referred to in subsec. (a), was in the original “this Act” and was translated as reading “this title”, meaning title II of Pub. L. 106–248, which enacted this chapter, to reflect the probable intent of Congress.
 
-The Land and Water Conservation Fund Act, referred to in subsec. (e), probably means the Land and Water Conservation Fund Act of 1965, Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended, which is classified generally to part B (§460<i>l</i>–4 et seq.) of subchapter LXIX of chapter 1 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 460<i>l</i>–4 of Title 16 and Tables.
+The Land and Water Conservation Fund Act, referred to in subsec. (e), probably means the Land and Water Conservation Fund Act of 1965, Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended, which is classified generally to part B (§460l–4 et seq.) of subchapter LXIX of chapter 1 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 460l–4 of Title 16 and Tables.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -130,7 +130,7 @@ Performance Goals for Remediation.—The Secretary of Defense shall set the foll
 
 &emsp;“(3) To achieve, by not later than September 30, 2009, a remedy in place or response complete for unexploded ordnance, discarded military munitions, and munitions constituents at all military installations closed or realigned as part of a round of defense base closure and realignment occurring prior to the 2005 round.
 
-&emsp;“(4) To achieve, by a date certain established by the Secretary of Defense, a remedy in place or response complete for unexploded ordnance, discarded military munitions, and munitions constituents at all active installations and formerly used defense sites (other than operational ranges) and all military installations realigned or closed under the 2005 round of defense base closure and realignment.
+&emsp;“(4) To achieve, by a date certain established by the Secretary of Defense, a remedy in place or response complete for unexploded ordnance, discarded militarymunitions, and munitions constituents at all active installations and formerly used defense sites (other than operational ranges) and all military installations realigned or closed under the 2005 round of defense base closure and realignment.
 
 “(b)
 
@@ -238,7 +238,7 @@ Research criteria.—In conducting the research required by this subsection, the
 
 &emsp;“(4)
 
-Authority to make grants and enter into cooperative agreements.—In conducting research under this subsection, the Secretary may make grants to, and enter into cooperative agreements with, qualified research entities.
+Authority to make grants and enter into cooperative agreements.—In conducting research under this subsection, the Secretary may makegrants to, and enter into cooperative agreements with, qualified research entities.
 
 “(d)
 

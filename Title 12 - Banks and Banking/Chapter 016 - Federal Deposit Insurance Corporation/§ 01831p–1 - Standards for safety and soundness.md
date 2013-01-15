@@ -64,7 +64,7 @@ Each appropriate Federal banking agency shall, for all insured depository instit
 
 #### (3) Senior executive officers at undercapitalized institutions
 
-&emsp;Paragraph (1) shall not affect the authority of any appropriate Federal banking agency to restrict compensation paid to any senior executive officer of an undercapitalized insured depository institution pursuant to section 1831<i>o</i> of this title.
+&emsp;Paragraph (1) shall not affect the authority of any appropriate Federal banking agency torestrict compensation paid to any senior executive officer of an undercapitalized insured depository institution pursuant to section 1831o of this title.
 
 #### (4) Safety and soundness or enforcement actions
 
@@ -110,9 +110,9 @@ Each appropriate Federal banking agency shall, for all insured depository instit
 
 &emsp;&emsp;&emsp;(ii) Require the institution to increase its ratio of tangible equity to assets.
 
-&emsp;&emsp;&emsp;(iii) Take the action described in section 1831<i>o</i>(f)(2)(C) of this title.
+&emsp;&emsp;&emsp;(iii) Take the action described in section 1831o(f)(2)(C) of this title.
 
-&emsp;&emsp;&emsp;(iv) Require the institution to take any other action that the agency determines will better carry out the purpose of section 1831<i>o</i> of this title than any of the actions described in this subparagraph.
+&emsp;&emsp;&emsp;(iv) Require the institution to take any other action that the agency determines will better carry out the purpose of section 1831o of this title than any of the actions described in this subparagraph.
 
 #### (3) Restrictions mandatory for certain institutions
 
@@ -134,7 +134,7 @@ Each appropriate Federal banking agency shall, for all insured depository instit
 
 #### (f) Definitions
 
-For purposes of this section, the terms “average” and “capital restoration plan” have the same meanings as in section 1831<i>o</i> of this title.
+For purposes of this section, the terms “average” and “capital restoration plan” have the same meanings as in section 1831o of this title.
 
 #### (g) Other authority not affected
 
@@ -186,11 +186,11 @@ Subsec. (e)(1)(A). Pub. L. 102–550, §956(2), substituted “(a) or (b)” for
 
 #### Effective Date of 1994 Amendment
 
-Section 318(d) of Pub. L. 103–325 provided that: “The amendments made by this section \[amending this section\] shall be construed to have the same effective date as section 39 of the Federal Deposit Insurance Act \[this section\], as provided in section 132(c) of the Federal Deposit Insurance Corporation Improvement Act of 1991 \[Pub. L. 102–242, set out as an Effective Date note below\].”
+Pub. L. 103–325, title III, §318(d), Sept. 23, 1994, 108 Stat. 2224, provided that: “The amendments made by this section \[amending this section\] shall be construed to have the same effective date as section 39 of the Federal Deposit Insurance Act \[this section\], as provided in section 132(c) of the Federal Deposit Insurance Corporation Improvement Act of 1991 \[Pub. L. 102–242, set out as an Effective Date note below\].”
 
 #### Effective Date
 
-Section 132(c) of Pub. L. 102–242 provided that: “The amendment made by subsection (a) \[enacting this section\] shall become effective on the earlier of—
+Pub. L. 102–242, title I, §132(c), Dec. 19, 1991, 105 Stat. 2270, provided that: “The amendment made by subsection (a) \[enacting this section\] shall become effective on the earlier of—
 
 &emsp;“(1) the date on which final regulations promulgated in accordance with subsection (b) \[set out below\] become effective \[Final rules were published July 10, 1995, 60 F.R. 35674, eff. Aug. 9, 1995.\]; or
 
@@ -198,5 +198,5 @@ Section 132(c) of Pub. L. 102–242 provided that: “The amendment made by subs
 
 #### Regulations
 
-Section 132(b) of Pub. L. 102–242 provided that: “Each appropriate Federal banking agency (as defined in section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\]) shall promulgate final regulations under section 39 of the Federal Deposit Insurance Act \[12 U.S.C. 1831p–1\] (as added by subsection (a)) not later than August 1, 1993.”
+Pub. L. 102–242, title I, §132(b), Dec. 19, 1991, 105 Stat. 2270, provided that: “Each appropriate Federal banking agency (as defined in section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\]) shall promulgate final regulations under section 39 of the Federal Deposit Insurance Act \[12 U.S.C. 1831p–1\] (as added by subsection (a)) not later than August 1, 1993.”
 

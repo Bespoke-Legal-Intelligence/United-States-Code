@@ -44,11 +44,11 @@ Pounds.—A person from whom the additional legally applicable and effective tar
 
 (d)
 
-Claims Involving Public Warehousemen.—Notwithstanding subsections (b) and (c), a person from whom the additional legally applicable and effective tariff rate or charges aresought may elect to satisfy the claim by payment of 5 percent of the difference between the carrier's applicable and effective tariff rate and the rate originally billed and paid if such person is a public warehouseman. In the event that a dispute arises as to the rate that was legally applicable to the shipment, such dispute shall be resolved by the Board.
+Claims Involving Public Warehousemen.—Notwithstanding subsections (b) and (c), a person from whom the additional legally applicable and effective tariff rate or charges are sought may elect to satisfy the claim by payment of 5 percent of the difference between the carrier's applicable and effective tariff rate and the rate originally billed and paid if such person is a public warehouseman. In the event that a dispute arises as to the rate that was legally applicable to the shipment, such dispute shall be resolved by the Board.
 
 (e)
 
-Effects of Election.—When a person from whom additional legally applicable freight rates or charges are sought does not elect to use the provisions of subsection (b), (c) or (d), the person may pursue all rights and remedies existing under this part or, for transportation provided before January 1, 1996, all rights and remedies that existed under this title on December 31, 1995.
+Effects of Election.—When a person from whom additional legally applicable freight rates or charges are sought does not elect to use the provisions of subsection (b), (c) or (d), the person may pursue all rights and remedies existingunder this part or, for transportation provided before January 1, 1996, all rights and remedies that existed under this title on December 31, 1995.
 
 (f)
 

@@ -6,9 +6,15 @@ In each budget submitted by the President to the Congress under section 1105 of 
 
 #### (b) Budget justification materials
 
-In the budget justification materials submitted to Congress in support of each such budget, the amounts requested for the Administration shall be specified in individual, dedicated program elements.
+(1) In the budget justification materials submitted to Congress in support of each such budget, the amounts requested for the Administration shall be specified in individual, dedicated program elements.
 
-(Pub. L. 106–65, div. C, title XXXII, §3251, Oct. 5, 1999, 113 Stat. 966.)
+(2) In the budget justification materials submitted to Congress in support of each such budget, the Administrator shall include an assessment of how the budget maintains the core nuclear weapons skills of the Administration, including nuclear weapons design, engineering, production, testing, and prediction of stockpile aging.
+
+(Pub. L. 106–65, div. C, title XXXII, §3251, Oct. 5, 1999, 113 Stat. 966; Pub. L. 112–239, div. C, title XXXI, §3112, Jan. 2, 2013, 126 Stat. 2169.)
+
+#### Amendments
+
+<b>2013</b>—Subsec. (b). Pub. L. 112–239 designated existing provisions as par. (1) and added par. (2).
 
 #### Ten-Year Plan for Use and Funding of Certain Department of Energy Facilities
 

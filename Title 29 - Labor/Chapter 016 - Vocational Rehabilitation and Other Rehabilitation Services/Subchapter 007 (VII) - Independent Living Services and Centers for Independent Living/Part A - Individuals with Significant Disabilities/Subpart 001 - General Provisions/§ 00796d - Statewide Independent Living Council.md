@@ -146,7 +146,7 @@ Another prior section 796d, Pub. L. 93–112, title VII, §705, as added Pub. L.
 
 #### Amendments
 
-<b>1998</b>—Subsec. (b)(1). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(7)(A)\], in first sentence, substituted “by the Governor or, in the case of a State that, under State law, vests authority for the administration of the activities carried out under this chapter in an entity other than the Governor (such as one or more houses of the State legislature or an independent board), the chief officer of that entity” for “by the Governor” and, in second sentence, substituted “The appointing authority” for “The Governor”.
+<b>1998</b>—Subsec. (b)(1). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(7)(A)\], in first sentence, substituted “by the Governor or, in the case of a State that, under State law, vests authority for the administration of the activities carried out under this chapter in an entityother than the Governor (such as one or more houses of the State legislature or an independent board), the chief officer of that entity” for “by the Governor” and, in second sentence, substituted “The appointing authority” for “The Governor”.
 
 Subsec. (b)(5)(B). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(7)(B)\], substituted “chief executive officer” for “Governor” in heading and “appointing authority described in paragraph (3) shall” for “Governor shall” in text.
 

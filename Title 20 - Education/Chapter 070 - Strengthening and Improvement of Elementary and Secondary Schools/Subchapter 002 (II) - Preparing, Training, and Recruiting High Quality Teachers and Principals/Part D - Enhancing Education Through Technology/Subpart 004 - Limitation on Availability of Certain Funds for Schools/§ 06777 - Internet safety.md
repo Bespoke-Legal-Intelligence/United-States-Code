@@ -50,7 +50,7 @@ No funds made available under this part to a local educational agency for an ele
 
 #### (C) Waivers
 
-&emsp;&emsp;Any school subject to a certification under subparagraph (B)(i)(II) for which the local educational agency concerned cannot make the certification otherwise required by that subparagraph may seek a waiver of that subparagraph if State or local procurement rules or regulations or competitive bidding requirements prevent the making of the certification otherwise required by that subparagraph. The local educational agency concerned shall notify the Secretary of the applicability of that subparagraph to the school. Such notice shall certify that the school will be brought into compliance with the requirements in subsection (a) of this section before the start of the third program year after December 21, 2000, in which the school is applying for funds under this part.
+&emsp;&emsp;Any school subject to a certification under subparagraph (B)(i)(II) for which the localeducational agency concerned cannot make the certification otherwise required by that subparagraph may seek a waiver of that subparagraph if State or local procurement rules or regulations or competitive bidding requirements prevent the making of the certification otherwise required by that subparagraph. The local educational agency concerned shall notify the Secretary of the applicability of that subparagraph to the school. Such notice shall certify that the school will be brought into compliance with the requirements in subsection (a) of this section before the start of the third program year after December 21, 2000, in which the school is applying for funds under this part.
 
 #### (c) Disabling during certain use
 

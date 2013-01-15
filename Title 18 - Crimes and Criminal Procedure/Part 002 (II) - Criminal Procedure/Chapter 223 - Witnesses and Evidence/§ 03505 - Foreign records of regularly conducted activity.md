@@ -1,6 +1,6 @@
 ### §3505. Foreign records of regularly conducted activity
 
-(a)(1) In a criminal proceeding in a court of the United States, a foreign record of regularlyconducted activity, or a copy of such record, shall not be excluded as evidence by the hearsay rule if a foreign certification attests that—
+(a)(1) In a criminal proceeding in a court of the United States, a foreign record of regularly conducted activity, or a copy of such record, shall not be excluded as evidence by the hearsay rule if a foreign certification attests that—
 
 &emsp;(A) such record was made, at or near the time of the occurrence of the matters set forth, by (or from information transmitted by) a person with knowledge of those matters;
 
@@ -28,5 +28,5 @@
 
 #### Effective Date
 
-Section 1220 of part K (§§1217–1220) of chapter XII of title II of Pub. L. 98–473 provided that: “This part and the amendments made by this part \[enacting this section and sections 3292, 3506, and 3507 of this title and amending section 3161 of this title\] shall take effect thirty days after the date of the enactment of this Act \[Oct. 12, 1984\].”
+Pub. L. 98–473, title II, §1220, Oct. 12, 1984, 98 Stat. 2167, provided that: “This part \[part K (§§1217–1220) of chapter XII of title II of Pub. L. 98–473, enacting this section and sections 3292, 3506, and 3507 of this title and amending section 3161 of this title\] and the amendments made by this part shall take effect thirty days after the date of the enactment of this Act \[Oct. 12, 1984\].”
 

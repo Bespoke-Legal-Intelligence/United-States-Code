@@ -30,7 +30,7 @@ The Secretary shall make up to 125 grants to States, political subdivisions of S
 
 &emsp;&emsp;&emsp;(ii) there has been relevant interagency collaboration between the appropriate criminal justice, mental health, and substance abuse systems; and
 
-&emsp;&emsp;&emsp;(iii) the Federal support provided will be used to supplement, and not supplant, State, local, Indian tribe, or tribal organization sources of funding that would otherwise be available;
+&emsp;&emsp;&emsp;(iii) the Federal support provided will be used to supplement, and not supplant,State, local, Indian tribe, or tribal organization sources of funding that would otherwise be available;
 
 &emsp;&emsp;(B) demonstrate that the diversion program will be integrated with an existing system of care for those with mental illness;
 

@@ -20,7 +20,7 @@ If such detailed plans are in conformity with the provisions of this chapter and
 
 #### Amendments
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–220, §306(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any State desiring to receive the benefits of this chapter shall, by the agency designated to cooperate with the United States Employment Service, submit to the Secretary of Labor detailed plans for carrying out the provisions of this chapter within such State.”
+<b>1998</b>—Subsec. (a). Pub. L. 105–220, §306(1), amended subsec. (a) generally. Prior to amendment, subsec. (a)read as follows: “Any State desiring to receive the benefits of this chapter shall, by the agency designated to cooperate with the United States Employment Service, submit to the Secretary of Labor detailed plans for carrying out the provisions of this chapter within such State.”
 
 Subsec. (b). Pub. L. 105–220, §306(2), (3), redesignated subsec. (d) as (b) and struck out former subsec. (b) which contained certain requirements for plan preparation at State and national levels.
 

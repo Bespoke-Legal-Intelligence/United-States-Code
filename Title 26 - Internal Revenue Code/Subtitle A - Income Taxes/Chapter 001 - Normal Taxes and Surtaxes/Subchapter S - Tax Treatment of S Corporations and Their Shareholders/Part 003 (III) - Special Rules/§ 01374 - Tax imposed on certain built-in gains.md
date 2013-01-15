@@ -70,7 +70,7 @@ For purposes of this section—
 
 #### (B) Carryover
 
-&emsp;&emsp;If, for any taxable year, the amount referred to in clause (i) of subparagraph (A) exceeds the amount referred to in clause (ii) of subparagraph (A), such excess shall be treated as a recognized built-in gain in the succeeding taxable year. The preceding sentence shall apply only in the case of a corporation treated as an S corporation by reason of an election made on or after March 31, 1988.
+&emsp;&emsp;If, for any taxable year described in subparagraph (A), the amount referred to in clause (i) of subparagraph (A) exceeds the amount referred to in clause (ii) of subparagraph (A), such excess shall be treated as a recognized built-in gain in the succeeding taxable year. The preceding sentence shall apply only in the case of a corporation treated as an S corporation by reason of an election made on or after March 31, 1988.
 
 #### (3) Recognized built-in gain
 
@@ -104,7 +104,7 @@ For purposes of this section—
 
 #### (B) Deduction items
 
-&emsp;&emsp;Any amount which is allowable as a deduction during the recognition period (determined without regard to any carryover) but which is attributable to periods before the 1st taxable year referred to in subparagraph\(A) shall be treated as a recognized built-in loss for the taxable year for which it is allowable as a deduction.
+&emsp;&emsp;Any amount which is allowable as a deduction during the recognition period (determined without regard to any carryover) but which is attributable to periods before the 1st taxable year referred to in subparagraph (A) shall be treated as a recognized built-in loss for the taxable year for which it is allowable as a deduction.
 
 #### (C) Adjustment to net unrealized built-in gain
 
@@ -134,13 +134,21 @@ For purposes of this section—
 
 > &emsp;&emsp;The preceding sentence shall be applied separately with respect to any asset to which paragraph (8) applies.
 
-#### (C) Special rule for distributions to shareholders
+#### (C) Special rule for 2012 and 2013
+
+&emsp;&emsp;For purposes of determining the net recognized built-in gain for taxable years beginning in 2012 or 2013, subparagraphs (A) and (D) shall be applied by substituting “5-year” for “10-year”.
+
+#### (D) Special rule for distributions to shareholders
 
 &emsp;&emsp;For purposes of applying this section to any amount includible in income by reason of distributions to shareholders pursuant to section 593(e)—
 
 &emsp;&emsp;&emsp;(i) subparagraph (A) shall be applied without regard to the phrase “10-year”, and
 
 &emsp;&emsp;&emsp;(ii) subparagraph (B) shall not apply.
+
+#### (E) Installment sales
+
+&emsp;&emsp;If an S corporation sells an asset and reports the income from the sale using the installment method under section 453, the treatment of all payments received shall be governed by the provisions of this paragraph applicable to the taxable year in which such sale was made.
 
 #### (8) Treatment of transfer of assets from C corporation to S corporation
 
@@ -174,7 +182,7 @@ For purposes of this section—
 
 The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section including regulations providing for the appropriate treatment of successor corporations.
 
-(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1683; amended Pub. L. 97–448, title III, §305(d)(3), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title I, §102(d)(1), title IV, §474(r)(27), title VII, §721(u), July 18, 1984, 98 Stat. 623, 844, 971; Pub. L. 99–514, title VI, §632(a), Oct. 22, 1986, 100 Stat. 2275; Pub. L. 100–647, title I, §1006(f)(1)–(5)(A), Nov. 10, 1988, 102 Stat. 3403, 3404; Pub. L. 101–239, title VII, §7811(c)(4), (5)(B), (8), Dec. 19, 1989, 103 Stat. 2407, 2408; Pub. L. 105–34, title XVI, §1601(f)(5)(B), Aug. 5, 1997, 111 Stat. 1091; Pub. L. 111–5, div. B, title I, §1251(a), Feb. 17, 2009, 123 Stat. 342; Pub. L. 111–240, title II, §2014(a), Sept. 27, 2010, 124 Stat. 2556.)
+(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1683; amended Pub. L. 97–448, title III, §305(d)(3), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title I, §102(d)(1), title IV, §474(r)(27), title VII, §721(u), July 18, 1984, 98 Stat. 623, 844, 971; Pub. L. 99–514, title VI, §632(a), Oct. 22, 1986, 100 Stat. 2275; Pub. L. 100–647, title I, §1006(f)(1)–(5)(A), Nov. 10, 1988, 102 Stat. 3403, 3404; Pub. L. 101–239, title VII, §7811(c)(4), (5)(B), (8), Dec. 19, 1989, 103 Stat. 2407, 2408; Pub. L. 105–34, title XVI, §1601(f)(5)(B), Aug. 5, 1997, 111 Stat. 1091; Pub. L. 111–5, div. B, title I, §1251(a), Feb. 17, 2009, 123 Stat. 342; Pub. L. 111–240, title II, §2014(a), Sept. 27, 2010, 124 Stat. 2556; Pub. L. 112–240, title III, §326(a), (b), Jan. 2, 2013, 126 Stat. 2334.)
 
 #### Prior Provisions
 
@@ -182,9 +190,15 @@ A prior section 1374, added Pub. L. 85–866, title I, §64(a), Sept. 2, 1958, 7
 
 #### Amendments
 
+<b>2013</b>—Subsec. (d)(2)(B). Pub. L. 112–240, §326(b), inserted “described in subparagraph (A)” after “for any taxable year”.
+
+Subsec. (d)(7)(C), (D). Pub. L. 112–240, §326(a)(1), (2), added subpar. (C) and redesignated former subpar. (C) as (D).
+
+Subsec. (d)(7)(E). Pub. L. 112–240, §326(a)(3), added subpar. (E).
+
 <b>2010</b>—Subsec. (d)(7)(B). Pub. L. 111–240 amended subpar. (B) generally. Prior to amendment, text read as follows: “In the case of any taxable year beginning in 2009 or 2010, no tax shall be imposed on the net recognized built-in gain of an S corporation if the 7th taxable year in the recognition period preceded such taxable year. The preceding sentence shall be applied separately with respect to any asset to which paragraph (8) applies.”
 
-<b>2009</b>—Subsec. (d)(7). Pub. L. 111–5 amended par. (7) generally. Prior to amendment, text read as follows:“The term ‘recognition period’ means the 10-year period beginning with the 1st day of the 1st taxable year for which the corporation was an S corporation. For purposes of applying this section to any amount includible in income by reason of section 593(e), the preceding sentence shall be applied without regard to the phrase ‘10-year’.”
+<b>2009</b>—Subsec. (d)(7). Pub. L. 111–5 amended par. (7) generally. Prior to amendment, text read as follows: “The term ‘recognition period’ means the 10-year period beginning with the 1st day of the 1st taxable year for which the corporation was an S corporation. For purposes of applying this section to any amount includible in income by reason of section 593(e), the preceding sentence shall be applied without regard to the phrase ‘10-year’.”
 
 <b>1997</b>—Subsec. (d)(7). Pub. L. 105–34 inserted at end “For purposes of applying this section to any amount includible in income by reason of section 593(e), the preceding sentence shall be applied without regard to the phrase ‘10-year’.”
 
@@ -223,6 +237,10 @@ Subsec. (c)(2). Pub. L. 98–369, §721(u), struck out “(and any predecessor c
 Subsec. (c)(4). Pub. L. 98–369, §102(d)(1), added par. (4).
 
 <b>1983</b>—Subsec. (d). Pub. L. 97–448 substituted “this section” for “subsections (a)(2) and (b)(2)”.
+
+#### Effective Date of 2013 Amendment
+
+Pub. L. 112–240, title III, §326(c), Jan. 2, 2013, 126 Stat. 2334, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2011.”
 
 #### Effective Date of 2010 Amendment
 

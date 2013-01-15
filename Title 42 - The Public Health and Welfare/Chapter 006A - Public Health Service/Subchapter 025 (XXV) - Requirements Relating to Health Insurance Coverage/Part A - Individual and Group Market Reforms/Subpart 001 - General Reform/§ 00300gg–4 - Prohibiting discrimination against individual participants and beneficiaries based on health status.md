@@ -54,13 +54,13 @@ A group health plan and a health insurance issuer offering group or individual h
 
 #### (2) Rule of construction
 
-&emsp;Paragraph (1) shall not be construed to limit the authority of a health care professional who is providing health care services to an individual to request that such individual undergo a genetic test.
+&emsp;Paragraph (1) shall not be construed to limit the authority of a health care professionalwho is providing health care services to an individual to request that such individual undergo a genetic test.
 
 #### (3) Rule of construction regarding payment
 
 #### (A) In general
 
-&emsp;&emsp;Nothing in paragraph (1) shall be construed to preclude a group health plan, or a health insurance issuer offering health insurance coverage in connection with a group health plan, from obtaining and using the results of a genetic test in making a determination regarding payment (as such term is defined for the purposes of applying theregulations promulgated by the Secretary under part C of title XI of the Social Security Act \[42 U.S.C. 1320d et seq.\] and section 264 of the Health Insurance Portability and Accountability Act of 1996, as may be revised from time to time) consistent with subsection (a).
+&emsp;&emsp;Nothing in paragraph (1) shall be construed to preclude a group health plan, or a health insurance issuer offering health insurance coverage in connection with a group health plan, from obtaining and using the results of a genetic test in making a determination regarding payment (as such term is defined for the purposes of applying the regulations promulgated by the Secretary under part C of title XI of the Social Security Act \[42 U.S.C. 1320d et seq.\] and section 264 of the Health Insurance Portability and Accountability Act of 1996, as may be revised from time to time) consistent with subsection (a).
 
 #### (B) Limitation
 
@@ -120,11 +120,11 @@ Any reference in this part to genetic information concerning an individual or fa
 
 #### (B) No conditions based on health status factor
 
-&emsp;&emsp;If none of the conditions for obtaining a premium discount or rebate or other reward for participation in a wellness program is based on an individual satisfying a standard that is related to a health status factor, such wellness program shall not violate this section if participation in the program is made available to all similarly situated individuals and the requirements of paragraph (2) are complied with.
+&emsp;&emsp;If none of the conditions for obtaining a premium discount or rebate or other rewardfor participation in a wellness program is based on an individual satisfying a standard that is related to a health status factor, such wellness program shall not violate this section if participation in the program is made available to all similarly situated individuals and the requirements of paragraph (2) are complied with.
 
 #### (C) Conditions based on health status factor
 
-&emsp;&emsp;If any of the conditions for obtaining a premium discount or rebate or other reward for participation in a wellness program is based on an individual satisfying a standard that is related to a health status factor,such wellness program shall not violate this section if the requirements of paragraph (3) are complied with.
+&emsp;&emsp;If any of the conditions for obtaining a premium discount or rebate or other reward for participation in a wellness program is based on an individual satisfying a standard that is related to a health status factor, such wellness program shall not violate this section if the requirements of paragraph (3) are complied with.
 
 #### (2) Wellness programs not subject to requirements
 
@@ -160,13 +160,13 @@ Any reference in this part to genetic information concerning an individual or fa
 
 &emsp;&emsp;&emsp;(ii) If reasonable under the circumstances, the plan or issuer may seek verification, such as a statement from an individual's physician, that a health status factor makes it unreasonably difficult or medically inadvisable for the individual to satisfy or attempt to satisfy the otherwise applicable standard.
 
-&emsp;&emsp;(E) The plan or issuer involved shall disclose in all plan materials describing the terms of the wellness program the availability of a reasonable alternative standard (or the possibility of waiver of the otherwise applicable standard) required under subparagraph (D). If plan materials disclose that such a program is available, without describing its terms, the disclosure under this subparagraph shall not be required.
+&emsp;&emsp;(E) The plan or issuer involved shall disclose in all plan materials describing theterms of the wellness program the availability of a reasonable alternative standard (or the possibility of waiver of the otherwise applicable standard) required under subparagraph (D). If plan materials disclose that such a program is available, without describing its terms, the disclosure under this subparagraph shall not be required.
 
 #### (k) Existing programs
 
-Nothing in this section shall prohibit a program of health promotion or disease prevention that was established prior to March 23, 2010, and applied with all applicable regulations, and thatis operating on such date, from continuing to be carried out for as long as such regulations remain in effect.
+Nothing in this section shall prohibit a program of health promotion or disease prevention that was established prior to March 23, 2010, and applied with all applicable regulations, and that is operating on such date, from continuing to be carried out for as long as such regulations remain in effect.
 
-#### (<i>l</i>) Wellness program demonstration project
+#### (l) Wellness program demonstration project
 
 #### (1) In general
 
@@ -238,13 +238,13 @@ Nothing in this section shall be construed as prohibiting the Secretaries of Lab
 
 The Social Security Act, referred to in subsec. (c)(3)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part C of title XI of the Act is classified generally to part C (§1320d et seq.) of subchapter XI of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
-Section 264 of the Health Insurance Portability and Accountability Act of 1996, referred to in subsecs. (c)(3)(A) and (<i>l</i>)(3)(B)(iv), is section 264 of Pub. L. 104–191, which is set out as a note under section 1320d–2 of this title.
+Section 264 of the Health Insurance Portability and Accountability Act of 1996, referred to in subsecs.\(c)(3)(A) and (l)(3)(B)(iv), is section 264 of Pub. L. 104–191, which is set out as a note under section 1320d–2 of this title.
 
 Section 300gg–21(a) of this title, referred to in subsec. (e), was in the original a reference to section 2735(a) of act July 1, 1944, and was translated as if it referred to section 2722(a) of that act to reflect the probable intent of Congress because of the renumbering of section 2735 as 2722 by Pub. L. 111–148, title I, §1563(c)(12)(D), formerly §1562(c)(12)(D), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 269, 911. The act July 1, 1944, does not contain a section 2735.
 
 #### Codification
 
-The text of section 300gg–1 of this title, which was amended and transferred to subsecs. (b) to (f) of thissection by Pub. L. 111–148, §1201(3), was based on act July 1, 1944, ch. 373, title XXVII, §2702, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1961; amended Pub. L. 110–233, title I, §102(a)(1)–(3), May 21, 2008, 122 Stat. 888, 890. For text of section 300gg–1 prior to amendment and transfer by Pub. L. 111–148, see Prior Provisions note under section 300gg–1 of this title.
+The text of section 300gg–1 of this title, which was amended and transferred to subsecs. (b) to (f) of this section by Pub. L. 111–148, §1201(3), was based on act July 1, 1944, ch. 373, title XXVII, §2702, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1961; amended Pub. L. 110–233, title I, §102(a)(1)–(3), May 21, 2008, 122 Stat. 888, 890. For text of section 300gg–1 prior to amendment and transfer by Pub. L. 111–148, see Prior Provisions note under section 300gg–1 of this title.
 
 #### Prior Provisions
 

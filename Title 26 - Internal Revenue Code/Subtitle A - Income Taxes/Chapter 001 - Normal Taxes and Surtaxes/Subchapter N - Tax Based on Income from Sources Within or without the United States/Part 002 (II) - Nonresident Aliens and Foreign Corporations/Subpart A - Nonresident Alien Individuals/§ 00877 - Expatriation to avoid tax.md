@@ -178,7 +178,7 @@ For purposes of subsection (b)—
 
 #### (1) In general
 
-&emsp;Any long-term resident of the United States who ceases to be a lawful permanent resident of the United States (within the meaning of section 7701(b)(6)) shall be treated for purposes of this section and sections 2107, 2501, and 6039G in the same manner as if such resident were a citizen of the United States who lost United States citizenship on the date of such cessation or commencement.
+&emsp;Any long-term resident of the United States who ceases to be a lawful permanent resident of the United States (within the meaning of section 7701(b)(6)) shall be treated for purposes of this section and sections 2107, 2501, and 6039G in the same manner as if such resident were a citizen of the United States who lostUnited States citizenship on the date of such cessation or commencement.
 
 #### (2) Long-term resident
 
@@ -246,7 +246,7 @@ If the Secretary establishes that it is reasonable to believe that an individual
 
 This section shall not apply to any individual whose expatriation date (as defined in section 877A(g)(3)) is on or after the date of the enactment of this subsection.
 
-(Added Pub. L. 89–809, title I, §103(f)(1), Nov. 13, 1966, 80 Stat. 1551; amended Pub. L. 93–406, title II, §2005(c)(8), Sept. 2, 1974, 88 Stat. 992; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title IV, §421(e)(5), Nov. 6, 1978, 92 Stat. 2876; Pub. L. 96–222, title I, §104(a)(1), (4)(H)(v), Apr. 1, 1980, 94 Stat. 214, 217; Pub. L. 99–514, title XII, §1243(a), Oct. 22, 1986, 100 Stat. 2580; Pub. L. 102–318, title V, §521(b)(31), July 3, 1992, 106 Stat. 312; Pub. L. 104–188, title I, §1401(b)(11), Aug. 20, 1996, 110 Stat. 1789; Pub. L. 104–191, title V, §511(a)–(d), (f)(1), Aug. 21, 1996, 110 Stat. 2093–2098; Pub. L. 105–34, title XVI, §1602(g)(1)–(4), (h)(3), Aug. 5, 1997, 111 Stat. 1095, 1096; Pub. L. 108–357, title VIII, §804(a)(1), (2), (c), Oct. 22, 2004, 118 Stat. 1569, 1570; Pub. L. 109–135, title IV, §403(v)(1), Dec. 21, 2005, 119 Stat. 2628; Pub. L. 110–245, title III, §301(c)(2)(A), (d), June 17, 2008, 122 Stat. 1646.)
+(Added Pub. L. 89–809, title I, §103(f)(1), Nov. 13, 1966, 80 Stat. 1551; amended Pub. L. 93–406, title II, §2005(c)(8), Sept. 2, 1974, 88 Stat. 992; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title IV, §421(e)(5), Nov. 6, 1978, 92 Stat. 2876; Pub. L. 96–222, title I, §104(a)(1), (4)(H)(v), Apr. 1, 1980, 94 Stat. 214, 217; Pub. L. 99–514, title XII, §1243(a), Oct. 22, 1986, 100 Stat. 2580; Pub. L. 102–318, title V, §521(b)(31),July 3, 1992, 106 Stat. 312; Pub. L. 104–188, title I, §1401(b)(11), Aug. 20, 1996, 110 Stat. 1789; Pub. L. 104–191, title V, §511(a)–(d), (f)(1), Aug. 21, 1996, 110 Stat. 2093–2098; Pub. L. 105–34, title XVI, §1602(g)(1)–(4), (h)(3), Aug. 5, 1997, 111 Stat. 1095, 1096; Pub. L. 108–357, title VIII, §804(a)(1), (2), (c), Oct. 22, 2004, 118 Stat. 1569, 1570; Pub. L. 109–135, title IV, §403(v)(1), Dec. 21, 2005, 119 Stat. 2628; Pub. L. 110–245, title III, §301(c)(2)(A), (d), June 17, 2008, 122 Stat. 1646.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -336,7 +336,7 @@ Subsecs. (e), (f). Pub. L. 104–191, §511(f)(1), added subsec. (e) and redesig
 
 <b>1992</b>—Subsec. (b). Pub. L. 102–318 substituted “402(d)(1)” for “402(e)(1)”.
 
-<b>1986</b>—Subsec. (c). Pub. L. 99–514 inserted at end “For purposes of this section, gain on the sale or exchange of property which has a basis determined in whole or in part by reference to property described in paragraph (1) or (2) shall be treated as gain described in paragraph (1) or (2).”
+<b>1986</b>—Subsec. (c). Pub. L. 99–514 inserted at end “For purposes of this section, gain on the sale or exchange of property which has a basis determined in whole or inpart by reference to property described in paragraph (1) or (2) shall be treated as gain described in paragraph (1) or (2).”
 
 <b>1980</b>—Subsec. (b). Pub. L. 96–222 substituted “55, or 402(e)(1)” for “section 55, 402(e)(1), or section 1201(b)”.
 
@@ -364,7 +364,7 @@ Amendment by Pub. L. 105–34 effective as if included in the provisions of the 
 
 #### Effective Date of 1996 Amendment
 
-Section 511(g) of Pub. L. 104–191 provided that:
+Pub. L. 104–191, title V, §511(g), Aug. 21, 1996, 110 Stat. 2100, provided that:
 
 “(1)
 
@@ -398,7 +398,7 @@ Amendment by Pub. L. 102–318 applicable to distributions after Dec. 31, 1992, 
 
 #### Effective Date of 1986 Amendment
 
-Section 1243(b) of Pub. L. 99–514 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to sales or exchanges of property received in exchanges after September 25, 1985.”
+Pub. L. 99–514, title XII, §1243(b), Oct. 22, 1986, 100 Stat. 2581, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to sales or exchanges of property received in exchanges after September 25, 1985.”
 
 #### Effective Date of 1980 Amendment
 

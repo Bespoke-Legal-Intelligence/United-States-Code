@@ -6,7 +6,7 @@ Except as provided in subsection (b), for purposes of this subtitle, the term �
 
 #### (b) Individuals who do not itemize their deductions
 
-In the case of an individual who does not elect to itemize his deductions for the taxable year, for purposes of this subtitle, the term “taxable income” means adjusted gross income, minus—
+In the case of an individual who does not elect to itemize his deductions for the taxable year,for purposes of this subtitle, the term “taxable income” means adjusted gross income, minus—
 
 &emsp;(1) the standard deduction, and
 
@@ -120,7 +120,7 @@ For purposes of this subtitle, the term “itemized deductions” means the dedu
 
 #### (3) Change of election
 
-&emsp;Under regulations prescribed by the Secretary, a change of election with respect to itemized deductions for any taxable year may be made after the filing of the return for such year. If the spouse of the taxpayer filed a separate return for any taxable year corresponding to the taxable year of the taxpayer, the change shall not be allowed unless, in accordance with such regulations—
+&emsp;Under regulations prescribed by the Secretary, a change of election with respect to itemized deductions for any taxable year may be made after the filing of the return for such year. If the spouse of the taxpayer filed a separate return for any taxable year correspondingto the taxable year of the taxpayer, the change shall not be allowed unless, in accordance with such regulations—
 
 &emsp;&emsp;(A) the spouse makes a change of election with respect to itemized deductions, for the taxable year covered in such separate return, consistent with the change of treatment sought by the taxpayer, and
 
@@ -160,19 +160,11 @@ For purposes of this subtitle, the term “itemized deductions” means the dedu
 
 For purposes of this section, marital status shall be determined under section 7703.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 18; Pub. L. 95–30, title I, §102(a), May 23, 1977, 91 Stat. 135; Pub. L. 95–600, title I, §101(b), Nov. 6, 1978, 92 Stat. 2769; Pub. L. 97–34, title I, §§104(b), 111(b)(4), 121(b), (c)(2), Aug. 13, 1981, 95 Stat. 189, 194, 196, 197; Pub. L. 99–514, title I, §102(a), title XII, §1272(d)(6), Oct. 22, 1986, 100 Stat. 2099, 2594; Pub. L. 100–647, title I, §1001(b)(1), Nov. 10, 1988, 102 Stat. 3349; Pub. L. 101–508, title XI, §§11101(d)(1)(D), 11801(a)(4), Nov. 5, 1990, 104 Stat. 1388–405, 1388–520; Pub. L. 103–66, title XIII, §13201(b)(3)(D), Aug. 10, 1993, 107 Stat. 459; Pub. L. 105–34, title XII, §1201(a), Aug. 5, 1997, 111 Stat. 993; Pub. L. 107–16, title III, §301(a), (b), (c)(2), June 7, 2001, 115 Stat. 53, 54; Pub. L. 107–147, title IV, §411(e), Mar. 9, 2002, 116 Stat. 46; Pub. L. 108–27, title I, §103(a), May 28, 2003, 117 Stat. 754; Pub. L. 108–311, title I, §101(b), Oct. 4, 2004, 118 Stat. 1167; Pub. L. 110–289, div. C, title I, §3012(a), (b), July 30, 2008, 122 Stat. 2891, 2892; Pub. L. 110–343, div.C, title II, §204(a), title VII, §706(b)(1), (2), Oct. 3, 2008, 122 Stat. 3865, 3922; Pub. L. 111–5, div. B, title I, §1008(c), Feb. 17, 2009, 123 Stat. 318.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 18; Pub. L. 95–30, title I, §102(a), May 23, 1977, 91 Stat. 135; Pub. L. 95–600, title I, §101(b), Nov. 6, 1978, 92 Stat. 2769; Pub. L. 97–34, title I, §§104(b), 111(b)(4), 121(b), (c)(2), Aug. 13, 1981, 95 Stat. 189, 194, 196, 197; Pub. L. 99–514, title I, §102(a), title XII, §1272(d)(6), Oct. 22, 1986, 100 Stat. 2099, 2594; Pub. L. 100–647, title I, §1001(b)(1), Nov. 10, 1988, 102 Stat. 3349; Pub. L. 101–508, title XI, §§11101(d)(1)(D), 11801(a)(4), Nov. 5, 1990, 104 Stat. 1388–405, 1388–520; Pub. L. 103–66, title XIII, §13201(b)(3)(D), Aug. 10, 1993, 107 Stat. 459; Pub. L. 105–34, title XII, §1201(a), Aug. 5, 1997, 111 Stat. 993; Pub. L. 107–16, title III, §301(a), (b), (c)(2), June 7, 2001, 115 Stat. 53, 54; Pub. L. 107–147, title IV, §411(e), Mar. 9, 2002, 116 Stat. 46; Pub. L. 108–27, title I, §103(a), May 28, 2003, 117 Stat. 754; Pub. L. 108–311, title I, §101(b), Oct. 4, 2004, 118 Stat. 1167; Pub. L. 110–289, div. C, title I, §3012(a), (b), July 30, 2008, 122 Stat. 2891, 2892; Pub. L. 110–343, div. C, title II, §204(a), title VII, §706(b)(1), (2), Oct. 3, 2008, 122 Stat. 3865, 3922; Pub. L. 111–5, div. B, title I, §1008(c), Feb. 17, 2009, 123 Stat. 318.)
 
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
-
-#### Amendment of Section
-
-<i>For termination of amendment by section 105 of Pub. L. 108–311, see Effective and Termination Dates of 2004 Amendment note below.</i>
-
-<i>For termination of amendment by section 107 of Pub. L. 108–27, see Effective and Termination Dates of 2003 Amendment note below.</i>
-
-<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Amendments
 
@@ -190,13 +182,13 @@ Subsec. (c)(7). Pub. L. 110–289, §3012(b), added par. (7).
 
 Subsec. (c)(8). Pub. L. 110–343, §706(b)(2), added par. (8).
 
-<b>2004</b>—Subsec. (c)(2). Pub. L. 108–311, §§101(b)(1), 105, temporarily reenacted heading without change and amended text generally, substituting provisions relating to a specific percentage for provisions relating to applicable percentage in subpar. (A), redesignating subpar. (D) as (C), and deleting former subpar. (C) relating to married individuals filing separately. See Effective and Termination Dates of 2004 Amendment note below.
+<b>2004</b>—Subsec. (c)(2). Pub. L. 108–311, §101(b)(1), reenacted heading without change and amended text generally, substituting provisions relating to a specific percentage for provisions relating to applicable percentage in subpar. (A), redesignating subpar. (D) as (C), and deleting former subpar. (C) relating to married individuals filing separately.
 
-Subsec. (c)(4). Pub. L. 108–311, §§101(b)(2)(A), 105, temporarily substituted “(2)(C)” for “(2)(D)” in introductory provisions and in subpar. (B)(i). See Effective and Termination Dates of 2004 Amendment note below.
+Subsec. (c)(4). Pub. L. 108–311, §101(b)(2)(A), substituted “(2)(C)” for “(2)(D)” in introductory provisions and in subpar. (B)(i).
 
-Subsec. (c)(7). Pub. L. 108–311, §§101(b)(2)(B), 105, temporarily struck out par. (7) which related to applicable percentage for purposes of par. (2). See Effective and Termination Dates of 2004 Amendment note below.
+Subsec. (c)(7). Pub. L. 108–311, §101(b)(2)(B), struck out par. (7) which related to applicable percentage for purposes of par. (2).
 
-<b>2003</b>—Subsec. (c)(7). Pub. L. 108–27, §§103(a), 107, temporarily inserted table item relating to years 2003 and 2004. See Effective and Termination Dates of 2003 Amendment note below.
+<b>2003</b>—Subsec. (c)(7). Pub. L. 108–27 inserted table item relating to years 2003 and 2004.
 
 <b>2002</b>—Subsec. (c)(2). Pub. L. 107–147, §411(e)(1)(E), inserted “If any amount determined under subparagraph (A) is not a multiple of $50, such amount shall be rounded to the next lowest multiple of $50.” at end.
 
@@ -212,17 +204,17 @@ Pub. L. 107–147, §411(e)(2)(A), substituted “paragraph (2)(B), (2)(D), or (
 
 Subsec. (c)(4)(B)(i). Pub. L. 107–147, §411(e)(2)(B), substituted “paragraph (2)(B), (2)(D),” for “paragraph (2)”.
 
-<b>2001</b>—Subsec. (c)(2)(A). Pub. L. 107–16, §§301(a)(1), 901, temporarily substituted “the applicable percentage of the dollar amount in effect under subparagraph (C) for the taxable year” for “$5,000”. See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Subsec. (c)(2)(A). Pub. L. 107–16, §301(a)(1), substituted “the applicable percentage of the dollar amount in effect under subparagraph (C) for the taxable year” for “$5,000”.
 
-Subsec. (c)(2)(B). Pub. L. 107–16, §§301(a)(2), 901, temporarily inserted “or” at end. See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (c)(2)(B). Pub. L. 107–16, §301(a)(2), inserted “or” at end.
 
-Subsec. (c)(2)(C). Pub. L. 107–16, §§301(a)(3), 901, temporarily substituted “in any other case.” for “in the case of an individual who is not married and who is not a surviving spouse or head of household, or”. See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (c)(2)(C). Pub. L. 107–16, §301(a)(3), substituted “in any other case.” for “in the case of an individual who is not married and who is not a surviving spouse or head of household, or”.
 
-Subsec. (c)(2)(D). Pub. L. 107–16, §§301(a)(4), 901, temporarily struck out subpar. (D) which read as follows: “$2,500 in the case of a married individual filing a separate return.” See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (c)(2)(D). Pub. L. 107–16, §301(a)(4), struck out subpar. (D) which read as follows: “$2,500 in the case of a married individual filing a separate return.”
 
-Subsec. (c)(4). Pub. L. 107–16, §§301(c)(2), 901, temporarily inserted at end “The preceding sentence shall not apply to the amount referred to in paragraph (2)(A).” See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (c)(4). Pub. L. 107–16, §301(c)(2), inserted at end “The preceding sentence shall not apply to the amount referred to in paragraph (2)(A).”
 
-Subsec. (c)(7). Pub. L. 107–16, §§301(b), 901, temporarily added par. (7). See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (c)(7). Pub. L. 107–16, §301(b), added par. (7).
 
 <b>1997</b>—Subsec. (c)(4). Pub. L. 105–34, §1201(a)(2), in introductory provisions, substituted “(5)” for “(5)(A)” and, in subpar. (B), substituted “by substituting for ‘calendar year 1992’ in subparagraph (B) thereof—” for “by substituting ‘calendar year 1987’ for ‘calendar year 1992’ in subparagraph (B) thereof” and added cls. (i) and (ii).
 
@@ -338,25 +330,23 @@ Pub. L. 110–289, div. C, title I, §3012(c), July 30, 2008, 122 Stat. 2892, pr
 
 #### Effective and Termination Dates of 2004 Amendment
 
-Amendment by section 101(b) of Pub. L. 108–311 applicable to taxable years beginning after Dec. 31, 2003, see section 101(e) of Pub. L. 108–311, set out as a note under section 1 of this title.
+Amendment by Pub. L. 108–311 applicable to taxable years beginning after Dec. 31, 2003, see section 101(e) of Pub. L. 108–311, set out as a note under section 1 of this title.
 
-Amendment by section 101(b) of Pub. L. 108–311 subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, §901, to the same extent and in the same manner as the provisions of such Act to which such amendments relate, see section 105 of Pub. L. 108–311, set out as a note under section 1 of this title.
+Amendment by Pub. L. 108–311 subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, §901, to the same extent and in the same manner as the provisions of such Act to which such amendments relate, see section 105 of Pub. L. 108–311, set out as a note under section 1 of this title. Title IX of Pub. L. 107–16 was repealed by Pub. L. 112–240, title I, §101(a)(1), Jan. 2, 2013, 126 Stat. 2315.
 
 #### Effective and Termination Dates of 2003 Amendment
 
 Pub. L. 108–27, title I, §103(c), May 28, 2003, 117 Stat. 754, provided that: “The amendments made by this section \[amending this section and provisions set out as an Effective and Termination Dates of 2001 Amendment note under section 1 of this title\] shall apply to taxable years beginning after December 31, 2002.”
 
-Amendments by title I of Pub. L. 108–27 subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, §901, to the same extent and in the same manner as the provisions of such Act to which such amendments relate, see section 107 of Pub. L. 108–27, set out as a note under section 1 of this title.
+Amendments by title I of Pub. L. 108–27 subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, §901, to the same extent and in the same manner as the provisions of such Act to which such amendments relate, see section 107 of Pub. L. 108–27, set out as a note under section 1 of this title. Title IX of Pub. L. 107–16 was repealed by Pub. L. 112–240, title I, §101(a)(1), Jan. 2, 2013, 126 Stat. 2315.
 
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–147 effective as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, to which such amendment relates, see section 411(x) of Pub. L. 107–147, set out as a note under section 25B of this title.
 
-#### Effective and Termination Dates of 2001 Amendment
+#### Effective Date of 2001 Amendment
 
-Amendment by Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2002, see section 301(d) of Pub. L. 107–16, as amended, set out as a note under section 1 of this title.
-
-Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+Amendment by Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2002, see section 301(d) of Pub. L. 107–16, set out as an Effective and Termination Dates of 2001 Amendment note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -394,7 +384,7 @@ Amendment by Pub. L. 95–600 effective with respect to taxable years beginning 
 
 #### Effective Date of 1977 Amendment
 
-Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31, 1976, see section 106(a) of Pub. L. 95–30, set out as a note under section 1 of this title.
+Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31, 1976, see section 106(a) ofPub. L. 95–30, set out as a note under section 1 of this title.
 
 #### Savings Provision
 

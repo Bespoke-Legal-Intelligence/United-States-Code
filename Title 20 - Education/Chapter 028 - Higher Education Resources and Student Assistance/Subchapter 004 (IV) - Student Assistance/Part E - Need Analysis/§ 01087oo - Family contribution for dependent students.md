@@ -56,7 +56,6 @@ Percentages for Computation of State and Other Tax Allowance
 | &nbsp; |  |  |
 | (1)then the percentage is— |  |  |
 |  |  |  |
-|  |  |  |
 | Alaska, Puerto Rico, Wyoming | &nbsp;3 | &nbsp;2 |
 | American Samoa, Guam, Louisiana, Nevada, Texas, Trust Territory, Virgin Islands | &nbsp;4 | &nbsp;3 |
 | Florida, South Dakota, Tennessee, New Mexico | &nbsp;5 | &nbsp;4 |
@@ -95,7 +94,7 @@ Income Protection Allowance
 
 &emsp;The employment expense allowance is determined as follows (or using a successor provision prescribed by the Secretary under section 1087rr of this title):
 
-&emsp;&emsp;(A) If both parents were employed in the year for which their income is reported and both have their incomes reported in determining the expected family contribution, such allowance is equal to the lesser of $2,500 or 35 percent of the earned income of the parent with the lesser earned income.
+&emsp;&emsp;(A) If both parents were employed in the year for which their income is reported andboth have their incomes reported in determining the expected family contribution, such allowance is equal to the lesser of $2,500 or 35 percent of the earned income of the parent with the lesser earned income.
 
 &emsp;&emsp;(B) If a parent qualifies as a surviving spouse or as a head of household as defined in section 2 of title 26, such allowance is equal to the lesser of $2,500 or 35 percent of such parent's earned income.
 
@@ -142,7 +141,6 @@ Education Savings and Asset Protection Allowances for Families and Students
 | two parents | one parent |  |
 | &nbsp; |  |  |
 | (1)then the allowance is— |  |  |
-|  |  |  |
 |  |  |  |
 | 25 or less | &nbsp;$  0 | &nbsp;&nbsp;&nbsp;$0 |
 | 26 | &nbsp;2,200 | &nbsp;1,600 |
@@ -212,7 +210,7 @@ Parents’ Assessment From Adjusted Available Income (AAI)
 
 &emsp;Parental income and assets for a student whose parents are divorced or separated is determined under the following procedures:
 
-&emsp;&emsp;(A) Include only the income and assets of the parent with whom the student resided for the greater portion of the 12-month period preceding the date of the application.
+&emsp;&emsp;(A) Include only the income and assets of the parent with whom the student residedfor the greater portion of the 12-month period preceding the date of the application.
 
 &emsp;&emsp;(B) If the preceding criterion does not apply, include only the income and assets of the parent who provided the greater portion of the student's support for the 12-month period preceding the date of application.
 
@@ -228,7 +226,7 @@ Parents’ Assessment From Adjusted Available Income (AAI)
 
 #### (3) Remarried parents
 
-&emsp;If a parent whose income and assets are taken into account under paragraph (1) of this subsection, or if a parent who is a widow or widower and whose income is taken into account under paragraph (2) of this subsection, has remarried, the income of that parent'sspouse shall be included in determining the parent's adjusted available income only if—
+&emsp;If a parent whose income and assets are taken into account under paragraph (1) of this subsection, or if a parent who is a widow or widower and whose income is taken into account under paragraph (2) of this subsection, has remarried, the income of that parent's spouse shall be included in determining the parent's adjusted available income only if—
 
 &emsp;&emsp;(A) the student's parent and the stepparent are married as of the date of application for the award year concerned; and
 

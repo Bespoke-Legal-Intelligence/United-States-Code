@@ -2,7 +2,7 @@
 
 #### (a) Consultation with representatives of member countries
 
-The Secretary of the Treasury shall consult with representatives of other member countries of the International Bank for Reconstruction and Development, the International Development Association, the Asian Development Bank, the African Development Fund, and the African Development Bank (if the United States becomes a member of that Bank), for the purpose of establishing guidelines within each of thoseinstitutions which specify that, in a manner consistent with the purposes and charters of those institutions, a specified proportion of the annual lending by each institution shall be designed to benefit needy people, primarily by financing sound, efficient, productive, self-sustaining projects designed to benefit needy people in developing countries, thus helping poor people improve their conditions of life.
+The Secretary of the Treasury shall consult with representatives of other member countriesof the International Bank for Reconstruction and Development, the International Development Association, the Asian Development Bank, the African Development Fund, and the African Development Bank (if the United States becomes a member of that Bank), for the purpose of establishing guidelines within each of those institutions which specify that, in a manner consistent with the purposes and charters of those institutions, a specified proportion of the annual lending by each institution shall be designed to benefit needy people, primarily by financing sound, efficient, productive, self-sustaining projects designed to benefit needy people in developing countries, thus helping poor people improve their conditions of life.
 
 #### (b) Congressional findings regarding implementation of objectives
 
@@ -20,5 +20,5 @@ Section effective Aug. 13, 1981, see section 1372 of Pub. L. 97–35, set out as
 
 #### Reports to Congress
 
-Section 1103 of Pub. L. 95–118, as added by Pub. L. 97–35, title XIII, §1361(b), Aug. 13, 1981, 95 Stat. 746, required reports on the progress being made toward achieving the goals of this section, prior to repeal by Pub. L. 101–240, title V, §541(d)(4), Dec. 19, 1989, 103 Stat. 2518.
+Pub. L. 95–118, title XI, §1103, as added by Pub. L. 97–35, title XIII, §1361(b), Aug. 13, 1981, 95 Stat. 746, required reports on the progress being made toward achieving the goals of this section, prior to repeal by Pub. L. 101–240, title V, §541(d)(4), Dec. 19, 1989, 103 Stat. 2518.
 

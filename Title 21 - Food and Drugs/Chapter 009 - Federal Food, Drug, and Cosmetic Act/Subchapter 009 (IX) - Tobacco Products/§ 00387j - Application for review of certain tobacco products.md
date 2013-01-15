@@ -168,7 +168,7 @@
 
 #### (2) Appeal
 
-&emsp;The holder of an application subject to an order issued under paragraph (1) withdrawing an order issued pursuant to subsection (c)(1)(A)(i) may, by petition filed on or before the 30th day after the date upon which such holder receives notice of such withdrawal, obtain review thereof in accordance with section 387<i>l</i> of this title.
+&emsp;The holder of an application subject to an order issued under paragraph (1) withdrawing an order issued pursuant to subsection (c)(1)(A)(i) may, by petition filed on or before the 30th day after the date upon which such holder receives notice of such withdrawal, obtain review thereof in accordance with section 387l of this title.
 
 #### (3) Temporary suspension
 

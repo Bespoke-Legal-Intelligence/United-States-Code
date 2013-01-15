@@ -60,7 +60,7 @@ Inspector General Investigation of Underlying Allegations.—Upon receiving an a
 
 Reports on Investigations.—(1) After completion of an investigation under subsection (c) or (d) or, in the case of an investigation under subsection (c) by an Inspector General within a military department, after approval of the report of that investigation under subsection (c)(3)(E), the Inspector General conducting the investigation shall submit a report on the results of the investigation to the Secretary of Defense (or to the Secretary of Homeland Security in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy) and shall transmit a copy of the report on the results of the investigation to the member of the armed forces who made the allegation investigated. The report shall be transmitted to the Secretary, and the copy of the report shall be transmitted to the member, not later than 30 days after the completion of the investigation or, in the case of an investigation under subsection (c) by an Inspector General within a military department, after approval of the report of that investigation under subsection (c)(3)(E).
 
-(2) In the copy of the report transmitted to the member, the Inspector General shall ensure the maximum disclosure of information possible, with the exception of information that is not required to be disclosed under section 552 of title 5. However, the copy need not include summaries of interviews conducted, nor any document acquired, during the course of the investigation. Such items shall be transmitted to the member, if the member requests the items, with the copy of the report or after the transmittal to the member of the copy of the report, regardless of whether the request for those items is made before or after the copy of the report is transmitted to the member.
+(2) In the copy of the report transmitted to the member, the Inspector General shall ensure the maximum disclosure of information possible, with the exception of information that is not required to be disclosed under section 552 of title 5. However, the copy need not include summaries of interviews conducted, nor any document acquired, during the course of the investigation. Such items shall be transmitted to the member, if the member requests the items, with the copy of the report or after the transmittal to the member of the copy of the report, regardless of whether the request for those items ismade before or after the copy of the report is transmitted to the member.
 
 (3) If, in the course of an investigation of an allegation under this section, the Inspector General determines that it is not possible to submit the report required by paragraph (1) within 180 days after the date of receipt of the allegation being investigated, the Inspector General shall provide to the Secretary of Defense (or to the Secretary of Homeland Security in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy) and to the member making the allegation a notice—
 
@@ -124,7 +124,7 @@ Definitions.—In this section:
 
 &emsp;(3) The term “unlawful discrimination” means discrimination on the basis of race, color, religion, sex, or national origin.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 80; Pub. L. 98–525, title XIV, §1405(19)(A), (B)(i), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 100–456, div. A, title VIII, §846(a)(1), Sept. 29, 1988, 102 Stat. 2027; Pub. L. 101–225, title II, §202, Dec. 12, 1989, 103 Stat. 1910; Pub. L. 103–337, div. A, title V, §531(a)–(g)(1), Oct. 5, 1994, 108 Stat. 2756–2758; Pub. L. 105–261, div. A, title IX, §933, Oct. 17, 1998, 112 Stat. 2107; Pub. L. 106–398, §1 \[\[div. A\], title IX, §903\], Oct. 30, 2000, 114 Stat. 1654, 1654A–224; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–375, div. A, title V, §591(a), Oct. 28, 2004, 118 Stat. 1933; Pub. L. 110–181, div. A, title X, §1063(a)(8), Jan. 28, 2008, 122 Stat. 322; Pub. L. 112–81, div. A, title V, §523, Dec. 31, 2011, 125 Stat. 1401.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 80; Pub. L. 98–525, title XIV, §1405(19)(A), (B)(i), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 100–456, div. A, title VIII, §846(a)(1), Sept. 29, 1988, 102 Stat. 2027; Pub. L. 101–225, title II, §202, Dec. 12, 1989, 103 Stat. 1910; Pub. L. 103–337, div. A, title V, §531(a)–(g)(1), Oct. 5, 1994, 108 Stat. 2756–2758; Pub. L. 105–261, div. A,title IX, §933, Oct. 17, 1998, 112 Stat. 2107; Pub. L. 106–398, §1 \[\[div. A\], title IX, §903\], Oct. 30, 2000, 114 Stat. 1654, 1654A–224; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–375, div. A, title V, §591(a), Oct. 28, 2004, 118 Stat. 1933; Pub. L. 110–181, div. A, title X, §1063(a)(8), Jan. 28, 2008, 122 Stat. 322; Pub. L. 112–81, div. A, title V, §523, Dec. 31, 2011, 125 Stat. 1401.)
 
 Historical and Revision Notes
 
@@ -196,7 +196,7 @@ Subsec. (i). Pub. L. 105–261, §933(f)(1), redesignated subsec. (j) as (i). Fo
 
 Subsec. (j). Pub. L. 105–261, §933(f)(1), redesignated subsec. (j) as (i).
 
-Subsec. (j)(2). Pub. L. 105–261, §933(e), substituted “means the following:” for “means—” in introductory provisions, added subpars. (A) to (F), redesignated former subpar. (B) as (G) and substituted “An officer” for “an officer” in that subpar., and struck out former subpar. (A) which read as follows: “an Inspector General appointed under the Inspector General Act of 1978; and”.
+Subsec. (j)(2). Pub. L. 105–261, §933(e), substituted “means the following:” for “means—” in introductory provisions, added subpars. (A) to (F), redesignatedformer subpar. (B) as (G) and substituted “An officer” for “an officer” in that subpar., and struck out former subpar. (A) which read as follows: “an Inspector General appointed under the Inspector General Act of 1978; and”.
 
 <b>1994</b>—Pub. L. 103–337, §531(g)(1), substituted “Protected communications” for “Communicating with a Member of Congress or Inspector General” in section catchline.
 
@@ -260,11 +260,11 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 #### Effective Date of 1988 Amendment
 
-Section 846(d) of Pub. L. 100–456 provided that: “The amendment to section 1034 of title 10, United States Code, made by subsection (a)(1), shall apply with respect to any personnel action taken (or threatened to be taken) on or after the date of the enactment of this Act \[Sept. 29, 1988\] as a reprisal prohibited by subsection (b) of that section.”
+Pub. L. 100–456, div. A, title VIII, §846(d), Sept. 29, 1988, 102 Stat. 2030, provided that: “The amendment to section 1034 of title 10, United States Code, made by subsection (a)(1), shall apply with respect to any personnel action taken (or threatened to be taken) on or after the date of the enactment of this Act \[Sept. 29, 1988\] as a reprisal prohibited by subsection (b) of that section.”
 
 #### Regulations
 
-Section 531(h), (i) of Pub. L. 103–337 provided that:
+Pub. L. 103–337, div. A, title V, §531(h), (i), Oct. 5, 1994, 108 Stat. 2758, provided that:
 
 “(h)
 
@@ -272,9 +272,37 @@ Deadline for Regulations.—The Secretary of Defense and the Secretary of Transp
 
 “(i)
 
-Content of Regulations.—In prescribing regulations under section 1034 of title 10, United States Code,as amended by this section, the Secretary of Defense and the Secretary of Transportation shall provide for appropriate procedural protections for the subject of any investigation carried out under the provisions of that section, including a process for appeal and review of investigative findings.”
+Content of Regulations.—In prescribing regulations under section 1034 of title 10, United States Code, as amended by this section, the Secretary of Defense and the Secretary of Transportation shall provide forappropriate procedural protections for the subject of any investigation carried out under the provisions of that section, including a process for appeal and review of investigative findings.”
 
-Section 846(b) of Pub. L. 100–456 provided that: “The Secretary of Defense and the Secretary of Transportation shall prescribe the regulations required by subsection (g) \[now (h)\] of section 1034 of title 10, United States Code, as amended by subsection (a), not later than 180 days after the date of the enactment of this Act \[Sept. 29, 1988\].”
+Pub. L. 100–456, div. A, title VIII, §846(b), Sept. 29, 1988, 102 Stat. 2030, provided that: “The Secretary of Defense and the Secretary of Transportation shall prescribe the regulations required by subsection (g) \[now (h)\] of section 1034 of title 10, United States Code, as amended by subsection (a), not later than 180 days after the date of the enactment of this Act \[Sept. 29, 1988\].”
+
+#### Notice to Congress of Certain Department of Defense Nondisclosure Agreements
+
+Pub. L. 112–239, div. A, title X, §1054, Jan. 2, 2013, 126 Stat. 1937, provided that:
+
+“(a)
+
+Notice Required.—The Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] notice of any request or requirement for members of the Armed Forces or civilian employees of the Department of Defense to enter into nondisclosure agreements that could restrict the ability of such members or employees to communicate with Congress. Each such notice shall include the following:
+
+&emsp;“(1) The basis in law for the agreement.
+
+&emsp;“(2) An explanation for the restriction of the ability to communicate with Congress.
+
+&emsp;“(3) A description of the category of individuals requested or required to enter into the agreement.
+
+&emsp;“(4) A copy of the language contained in the agreement.
+
+“(b)
+
+Timing of Notification.—
+
+&emsp;“(1)
+
+Requests or requirements before date of enactment.—In the case of nondisclosure agreements described in subsection (a) that members or employees were first requested or required to enter into on or before the date of the enactment of this Act \[Jan. 2, 2013\], the notice required by subsection (a) shall be submitted not later than 60 days after the date of enactment.
+
+&emsp;“(2)
+
+Requests or requirements after date of enactment.—In the case of nondisclosure agreements described in subsection (a) that members or employees were first requested or required to enter into after the date of the enactment of this Act, the notice required by subsection (a) shall be submitted not later than 30 days after the date on which the Secretary first requests or requires that the members or employees enter into the agreements.”
 
 #### Whistleblower Protections for Members of Armed Forces
 
@@ -294,5 +322,5 @@ Deadline.—The regulations required by this section shall be prescribed not lat
 
 #### Report on Activities of Inspector General
 
-Section 846(c) of Pub. L. 100–456 directed Inspector General of Department of Defense (and Inspector General of Department of Transportation with respect to Coast Guard) to submit, not later than Feb. 1, 1990, a report to Congress on activities of Inspector General under this section, with that report to include, in the case of each case handled by Inspector General under this section, a description of (A) nature of allegation described in subsec. (c) of this section; (B) evaluation and recommendation of Inspector General with respect to allegation; (C) any action of appropriate board for correction of military records with respect to allegation; (D) if allegation was determined to be meritorious, any corrective action taken; and (E) views of member or former member of armed forces making allegation (determined on basis of interview under subsec. (f) of this section) on disposition of case.
+Pub. L. 100–456, div. A, title VIII, §846(c), Sept. 29, 1988, 102 Stat. 2030, directed Inspector General of Department of Defense (and Inspector General of Department of Transportation with respect to Coast Guard) to submit, not later than Feb. 1, 1990, a report to Congress on activities of Inspector General under this section, with that report to include, in the case of each case handled by Inspector General under this section, a description of (A) nature of allegation described in subsec. (c) of this section; (B) evaluation and recommendation of Inspector General with respect to allegation; (C) any action of appropriate board for correction of military records with respect to allegation; (D) if allegation was determined to be meritorious, any corrective action taken; and (E) views of member or former member of armed forces making allegation (determined on basis of interview under subsec. (f) of this section) on disposition of case.
 

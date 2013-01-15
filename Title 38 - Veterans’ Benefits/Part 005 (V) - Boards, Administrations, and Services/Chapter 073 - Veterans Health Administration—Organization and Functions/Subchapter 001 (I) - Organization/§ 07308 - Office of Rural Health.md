@@ -20,5 +20,23 @@ Functions.—The functions of the Office are as follows:
 
 &emsp;(4) To perform such other functions and duties as the Secretary or the Under Secretary for Health considers appropriate.
 
-(Added Pub. L. 109–461, title II, §212(a)(1), Dec. 22, 2006, 120 Stat. 3421.)
+(d)
+
+Rural Health Resource Centers.—(1) There are, in the Office, veterans rural health resource centers that serve as satellite offices for the Office.
+
+(2) The veterans rural health resource centers have purposes as follows:
+
+&emsp;(A) To improve the understanding of the Office of the challenges faced by veterans living in rural areas.
+
+&emsp;(B) To identify disparities in the availability of health care to veterans living in rural areas.
+
+&emsp;(C) To formulate practices or programs to enhance the delivery of health care to veterans living in rural areas.
+
+&emsp;(D) To develop special practices and products for the benefit of veterans living in rural areas and for implementation of such practices and products in the Department systemwide.
+
+(Added Pub. L. 109–461, title II, §212(a)(1), Dec. 22, 2006, 120 Stat. 3421; amended Pub. L. 112–154, title I, §110, Aug. 6, 2012, 126 Stat. 1175.)
+
+#### Amendments
+
+Subsec. (d). Pub. L. 112–154 added subsec. (d).
 

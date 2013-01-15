@@ -34,13 +34,13 @@ Subsec. (d). Pub. L. 101–189, §664(a)(2), amended subsec. (d) generally. Prio
 
 #### Effective Date of 1996 Amendment
 
-Section 1501(c) of Pub. L. 104–106 provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
+Pub. L. 104–106, div. A, title XV, §1501(c), Feb. 10, 1996, 110 Stat. 498, provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
 
 #### Effective Date of 1989 Amendment
 
-Section 664(c) of Pub. L. 101–189 provided that: “The amendments made by subsection (a) \[amending this section\], and section 1594 of title 10, United States Code, as added by subsection (b), shall apply with respect to pay and allowances deposited (or scheduled to be deposited) on or after the first day of the first month beginning after the date of the enactment of this Act \[Nov. 29, 1989\].”
+Pub. L. 101–189, div. A, title VI, §664(c), Nov. 29, 1989, 103 Stat. 1467, provided that: “The amendments made by subsection (a) \[amending this section\], and section 1594 of title 10, United States Code, as added by subsection (b), shall apply with respect to pay and allowances deposited (or scheduled to be deposited) on or after the first day of the first month beginning after the date of the enactment of this Act \[Nov. 29, 1989\].”
 
 #### Effective Date
 
-Section 662(c) of Pub. L. 99–661 provided that: “Section 1053 of title 10, United States Code, as added by subsection (a), shall apply only with respect to charges levied as a result of errors occurring on or after the date of the enactment of this Act \[Nov. 14, 1986\].”
+Pub. L. 99–661, div. A, title VI, §662(c), Nov. 14, 1986, 100 Stat. 3894, provided that: “Section 1053 of title 10, United States Code, as added by subsection (a), shall apply only with respect to charges levied as a result of errors occurring on or after the date of the enactment of this Act \[Nov. 14, 1986\].”
 

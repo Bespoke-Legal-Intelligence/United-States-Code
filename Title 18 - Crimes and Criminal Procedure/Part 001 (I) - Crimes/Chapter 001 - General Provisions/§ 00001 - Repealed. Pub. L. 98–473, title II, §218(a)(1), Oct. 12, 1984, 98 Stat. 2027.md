@@ -6,6 +6,26 @@ Section, acts June 25, 1948, ch. 645, 62 Stat. 684; Oct. 30, 1984, Pub. L. 98–
 
 Repeal of section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such repeal, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.
 
+#### Short Title of 2013 Amendment
+
+Pub. L. 112–269, §1, Jan. 14, 2013, 126 Stat. 2442, provided that: “This Act \[amending section 1831 of this title and enacting provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Foreign and Economic Espionage Penalty Enhancement Act of 2012’.”
+
+Pub. L. 112–258, §1, Jan. 10, 2013, 126 Stat. 2414, provided that: “This Act \[amending section 2710 of this title\] may be cited as the ‘Video Privacy Protection Act Amendments Act of 2012’.”
+
+Pub. L. 112–257, §1, Jan. 10, 2013, 126 Stat. 2413, provided that: “This Act \[amending section 3056 of this title\] may be cited as the ‘Former Presidents Protection Act of 2012’.”
+
+#### Short Title of 2012 Amendment
+
+Pub. L. 112–236, §1, Dec. 28, 2012, 126 Stat. 1627, provided that: “This Act \[amending section 1832 of this title\] may be cited as the ‘Theft of Trade Secrets Clarification Act of 2012’.”
+
+Pub. L. 112–206, §1, Dec. 7, 2012, 126 Stat. 1490, provided that: “This Act \[amending sections 1514, 2252, 2252A, and 3486 of this title, section 566 of Title 28, Judiciary and Judicial Procedure, and sections 17611, 17612, 17615, and 17617 of Title 42, The Public Health and Welfare, and enacting provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28\] may be cited as the ‘Child Protection Act of 2012’.”
+
+Pub. L. 112–186, §1, Oct. 5, 2012, 126 Stat. 1427, provided that: “This Act \[enacting section 670 of this title, amending sections 659, 981, 1952, 1957, 2117, 2314, 2315, 2516, and 3663A of this title, and enacting provisions set out as a note under section 670 of this title and listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Strengthening and Focusing Enforcement to Deter Organized Stealing and Enhance Safety Act of 2012’ or the ‘SAFE DOSES Act’.”
+
+Pub. L. 112–127, §1, June 5, 2012, 126 Stat. 370, provided that: “This Act \[enacting section 257 of Title 6, Domestic Security, amending sections 555, 982, 1956, and 2516 of this title, and enacting provisions set out as a note under section 555 of this title\] may be cited as the ‘Border Tunnel Prevention Act of 2012’.”
+
+Pub. L. 112–98, §1, Mar. 8, 2012, 126 Stat. 263, provided that: “This Act \[amending section 1752 of this title\] may be cited as the ‘Federal Restricted Buildings and Grounds Improvement Act of 2011’.”
+
 #### Short Title of 2011 Amendment
 
 Pub. L. 112–44, §1, Oct. 21, 2011, 125 Stat. 532, provided that: “This Act \[enacting provisions set out as a note under section 3551 of this title\] may be cited as the ‘United States Parole Commission Extension Act of 2011’.”
@@ -16,7 +36,7 @@ Pub. L. 111–307, §1, Dec. 14, 2010, 124 Stat. 3282, provided that: “This Ac
 
 Pub. L. 111–294, §1, Dec. 9, 2010, 124 Stat. 3177, provided that: “This Act \[amending section 48 of this title and enacting provisions set out as notes under section 48 of this title\] may be cited as the ‘Animal Crush Video Prohibition Act of 2010’.”
 
-Pub. L. 111–272, §1, Oct. 12, 2010, 124 Stat. 2855, provided that: “This Act \[amending sections 926B and 926C of this title\] may be cited as the ‘Law Enforcement Officers Safety Act Improvements Act of 2010’.”
+Pub. L. 111–272, §1, Oct. 12, 2010, 124 Stat. 2855, provided that: “This Act \[amending sections 926B and 926Cof this title\] may be cited as the ‘Law Enforcement Officers Safety Act Improvements Act of 2010’.”
 
 Pub. L. 111–225, §1, Aug. 10, 2010, 124 Stat. 2387, provided that: “This Act \[amending section 1791 of this title\] may be cited as the ‘Cell Phone Contraband Act of 2010’.”
 
@@ -92,7 +112,7 @@ Pub. L. 108–21, §1(a), Apr. 30, 2003, 117 Stat. 650, provided that: “This A
 
 #### Short Title of 2002 Amendment
 
-Pub. L. 107–273, div. B, title IV, §4001, Nov. 2, 2002, 116 Stat. 1806, provided that: “This title \[see Tables forclassification\] may be cited as the ‘Criminal Law Technical Amendments Act of 2002’.”
+Pub. L. 107–273, div. B, title IV, §4001, Nov. 2, 2002, 116 Stat. 1806, provided that: “This title \[see Tables for classification\] may be cited as the ‘Criminal Law Technical Amendments Act of 2002’.”
 
 #### Short Title of 2001 Amendment
 
@@ -132,7 +152,7 @@ Pub. L. 99–646, §1, Nov. 10, 1986, 100 Stat. 3592, provided that: “This Act
 
 #### Short Title of 1984 Amendment
 
-Section 200 of title II (§§200–2304) of Pub. L. 98–473 provided that: “This title \[see Tables for classification\] may be cited as the ‘Comprehensive Crime Control Act of 1984’.”
+Pub. L. 98–473, title II, §200, Oct. 12, 1984, 98 Stat. 1976, provided that: “This title \[see Tables for classification\] may be cited as the ‘Comprehensive Crime Control Act of 1984’.”
 
 #### Severability
 

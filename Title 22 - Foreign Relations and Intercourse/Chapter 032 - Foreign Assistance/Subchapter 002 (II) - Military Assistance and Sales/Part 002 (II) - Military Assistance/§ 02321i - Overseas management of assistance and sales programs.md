@@ -64,15 +64,15 @@ Pub. L. 101–165 changed effective date from Oct. 1, 1982, to Oct. 1, 1989, and
 
 Subsec. (b). Pub. L. 97–113 substituted provision directing that advisory and training assistance conducted by military personnel assigned under this section be kept to an absolute minimum for provision authorizing the President to assign military personnel under international security programs to Portugal, Spain, Jordan, the Philippines, the Republic of Korea, Panama, Greece, Turkey, Indonesia, Thailand, Morocco, Egypt, and Saudi Arabia to perform logistics management, transportation, fiscal management, and contract administration of country programs, designated the maximum number assignable, and provided for reimbursement from Saudi Arabia. See subsec. (a) of this section.
 
-Subsec. (c). Pub. L. 97–113 substituted provision designating the maximum number of personnel assignable, waiver of this limitation, and the procedures applicablefor provision relating to assignment of military personnel to countries not specified in former subsec. (b) of this section for performance of accounting and other management functions, the maximum number assignable, and an exception to that number if the Chief of the Diplomatic Mission so requests.
+Subsec. (c). Pub. L. 97–113 substituted provision designating the maximum number of personnel assignable, waiver of this limitation, and the procedures applicable for provision relating to assignment of military personnel to countries not specified in former subsec. (b) of this section for performance of accounting and other management functions, the maximum number assignable, and an exception to that number if the Chief of the Diplomatic Mission so requests.
 
 Subsec. (d). Pub. L. 97–113 substituted provision directing that, effective Oct. 1, 1982, the entire costs of overseas management of international security assistance programs be charged or reimbursed from funds made available to carry out this part, other than costs paid directly for defense services under section 2761(a) of this title or reimbursed from charges for services collected from foreign governments pursuant to sections 2761(e) and 2792(b) of this title, for provision that the maximum number of members of the Armed Forces assignable for fiscal year 1979 to all countries not exceed 790.
 
 Subsec. (e). Pub. L. 97–113 substituted “under this section” for “under subsection (b) or (c) of this section” and “to that country” for “in that country”.
 
-Subsec. (f). Pub. L. 97–113 redesignated subsec. (h) as (f). Former subsec. (f), relating to performance of management functions by defense attache�AE1's if that President determined it was the most economic and efficient means of performing those functions, was struck out.
+Subsec. (f). Pub. L. 97–113 redesignated subsec. (h) as (f). Former subsec. (f), relating to performance of management functions by defense attaché's if that President determined it was the most economic and efficient means of performing those functions, was struck out.
 
-Subsec. (g). Pub. L. 97–113 struck out subsec. (g) which provided that the entire cost of overseas management of international security assistance programs under this section be charged or reimbursed from funds made available to carry out this part, including costs reimbursed from charges for services collected from foreign governments pursuant to sections 2761(e) and 2792(b) of this title, and that the prohibition of former subsec. (a) of this section and the numerical limitations of former subsecs. (b), (c), and (d) of this section not apply to Armed Forces members performing services for specific purposes and for fixed periods of time on a fully reimbursable basis under section 2761(a) of this title. See subsec. (d) of this section.
+Subsec. (g). Pub. L. 97–113 struck out subsec. (g) which provided that the entire cost of overseas management of international security assistance programs under this section be charged or reimbursed from funds made available to carry out this part, including costs reimbursed from charges for services collected from foreign governments pursuant to sections 2761(e) and 2792(b) of this title, and that the prohibition of former subsec. (a) of this section and the numerical limitations of former subsecs. (b), (c), and (d) of this sectionnot apply to Armed Forces members performing services for specific purposes and for fixed periods of time on a fully reimbursable basis under section 2761(a) of this title. See subsec. (d) of this section.
 
 Subsec. (h). Pub. L. 97–113 redesignated subsec. (h) as (f).
 
@@ -80,7 +80,7 @@ Subsec. (h). Pub. L. 97–113 redesignated subsec. (h) as (f).
 
 Subsec. (b)(3). Pub. L. 96–533, §114(2), substituted “assigned to Saudi Arabia” for “assigned to Iran, Kuwait, and Saudi Arabia”, “assigned to such country” for “assigned to such countries” and “assigned to such country exceeds” for “assigned to each such country exceeds”.
 
-Subsec. (f). Pub. L. 96–533, §114(3), substituted “may not exceed six more than the number of defense attache�AE1s” for “may not exceed the number of defense attache�AE1s” and “December 31, 1979” for “December 31, 1978”, and inserted “such countries and countries to which military personnel have been assigned pursuant to subsection (c) of this section” after “such countries”.
+Subsec. (f). Pub. L. 96–533, §114(3), substituted “may not exceed six more than the number of defense attachés” for “may not exceed the number of defense attachés” and “December 31, 1979” for “December 31, 1978”, and inserted “such countries and countries to which military personnel have been assigned pursuant to subsection (c) of this section” after “such countries”.
 
 <b>1979</b>—Subsec. (b)(1). Pub. L. 96–92, §7(1), substituted “fiscal year 1980” for “fiscal year 1979” and authorized assignment of military personnel for programs in Greece.
 
@@ -90,7 +90,7 @@ Subsec. (f). Pub. L. 96–92, §7(2), substituted “December 31, 1978” for �
 
 Subsec. (d). Pub. L. 95–384, §9(b), substituted “, including any such members serving on a reimbursable basis pursuant to subsection (b)(3) of this section, may not exceed 790 for the fiscal year 1979” for “may not exceed 865 for the fiscal year 1978”.
 
-Subsec. (f). Pub. L. 95–384, §9(c), substituted “December 31, 1977, except that the President may assign an aggregate total of not to exceed eight additional defense attache�AE1s to such countries in order to perform overseas management functions under this subsection” for “December 31, 1976”.
+Subsec. (f). Pub. L. 95–384, §9(c), substituted “December 31, 1977, except that the President may assign an aggregate total of not to exceed eight additional defense attachés to such countries in order to perform overseas management functions under this subsection” for “December 31, 1976”.
 
 Subsec. (g). Pub. L. 95–384, §9(d), inserted “for fixed” after “for specific purposes and”.
 

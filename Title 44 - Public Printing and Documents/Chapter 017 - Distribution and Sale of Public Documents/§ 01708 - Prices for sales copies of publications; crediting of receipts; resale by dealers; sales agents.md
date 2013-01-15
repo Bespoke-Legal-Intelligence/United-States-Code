@@ -24,5 +24,5 @@ Amendment by Pub. L. 103–69 effective Oct. 1, 1993, see section 207(c) of Pub.
 
 #### Effective Date of 1977 Amendment
 
-Section 409(b) of Pub. L. 95–94 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1977.”
+Pub. L. 95–94, title IV, §409(b), Aug. 5, 1977, 91 Stat. 683, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1977.”
 

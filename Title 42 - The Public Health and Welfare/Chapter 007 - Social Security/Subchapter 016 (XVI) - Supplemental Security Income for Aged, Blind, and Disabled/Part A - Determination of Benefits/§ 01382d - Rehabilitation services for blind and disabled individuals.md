@@ -16,7 +16,7 @@ In the case of any blind or disabled individual who—
 
 #### (d) Reimbursement by Commissioner to State agency of costs of providing services to referred individuals
 
-The Commissioner of Social Security is authorized to reimburse the State agency administering or supervising the administration of a State plan for vocational rehabilitation services approved under title I of the Rehabilitation Act of 1973 \[29 U.S.C. 720 et seq.\] for the costs incurred under such plan in the provision of rehabilitation services to individuals who are referred for such services pursuant to subsection (a) of this section, (1) in cases where the furnishing of such services results in the performance by such individuals of substantial gainful activity for a continuous period of nine months, (2) in cases where such individuals receive benefits as a result of section 1383(a)(6) of this title (except that no reimbursement under this subsection shall be made for services furnished to any individual receiving such benefits for any period after the close of such individual's ninth consecutive month of substantial gainful activity or the close of the month with which his or her entitlement to such benefits ceases, whichever first occurs), and (3) in cases where such individuals, without good cause, refuse to continue to accept vocational rehabilitation services or fail to cooperate in such a manner as to preclude their successful rehabilitation. The determination that the vocational rehabilitation services contributed to the successful return of an individual to substantial gainful activity, the determination that an individual, without good cause, refused to continue to accept vocational rehabilitation services or failed to cooperate in such a manner as to preclude successful rehabilitation, and the determination of the amount of costs to be reimbursed under this subsection shall be made by the Commissioner of Social Security in accordance with criteria determined by the Commissioner in the same manner as under section 422(d)(1) of this title.
+The Commissioner of Social Security is authorized to reimburse the State agency administering or supervising the administration of a State plan for vocational rehabilitation services approved under title I of the Rehabilitation Act of 1973 \[29 U.S.C. 720 et seq.\] for the costs incurred under such plan in the provision of rehabilitation services to individuals who are referred for such services pursuant to subsection (a) of this section, (1) in cases where the furnishing of such services results in the performance by such individuals of substantial gainful activity for a continuous period of nine months, (2) in cases where such individuals receive benefits as a result of section 1383(a)(6) of this title (except that no reimbursement under this subsection shall be made for services furnished to any individual receiving such benefits for any period after the close of such individual's ninth consecutive month of substantial gainful activity or the close of the month with which his or her entitlement to such benefits ceases, whichever first occurs), and (3) in cases where such individuals, without good cause, refuse to continue toaccept vocational rehabilitation services or fail to cooperate in such a manner as to preclude their successful rehabilitation. The determination that the vocational rehabilitation services contributed to the successful return of an individual to substantial gainful activity, the determination that an individual, without good cause, refused to continue to accept vocational rehabilitation services or failed to cooperate in such a manner as to preclude successful rehabilitation, and the determination of the amount of costs to be reimbursed under this subsection shall be made by the Commissioner of Social Security in accordance with criteria determined by the Commissioner in the same manner as under section 422(d)(1) of this title.
 
 #### (e) Reimbursement for vocational rehabilitation services furnished during certain months of nonpayment of insurance benefits
 
@@ -116,9 +116,9 @@ Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pu
 
 #### Effective Date of 1990 Amendment
 
-Section 5037(b) of Pub. L. 101–508 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 5, 1990\] and shall apply to claims for reimbursement pending on or after such date.”
+Pub. L. 101–508, title V, §5037(b), Nov. 5, 1990, 104 Stat. 1388–226, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 5, 1990\] and shall apply to claims for reimbursement pending on or after such date.”
 
-#### Effective Date of 1984 Amendments
+#### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–460 applicable with respect to individuals who receive benefits as a result of section 425(b) or section 1383(a)(6) of this title, or who refuse to continue to accept rehabilitation services or fail to cooperate in an approved vocational rehabilitation program, in or after November 1984, see section 11(c) of Pub. L. 98–460, set out as a note under section 422 of this title.
 
@@ -126,19 +126,19 @@ Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed a
 
 #### Effective and Termination Dates of 1981 Amendment
 
-Section 2193(a)(4)(B) of Pub. L. 97–35 provided that the amendment made by that section is effective for fiscal year 1982.
+Pub. L. 97–35, title XXI, §2193(a)(4)(B), Aug. 13, 1981, 95 Stat. 827, provided that the amendment made by that section is effective for fiscal year 1982.
 
 For effective date, savings, and transitional provisions relating to amendments by section 2193(a)(4)(A) and (c)(8) of Pub. L. 97–35, see section 2194 of Pub. L. 97–35, set out as a note under section 701 of this title.
 
-Section 2344 of Pub. L. 97–35 provided that the amendment made by that section is effective Oct. 1, 1981.
+Pub. L. 97–35, title XXIII, §2344, Aug. 13, 1981, 95 Stat. 867, provided that the amendment made by that section is effective Oct. 1, 1981.
 
 #### Effective Date
 
-Section 301 of Pub. L. 92–603 provided that this section is effective Jan. 1, 1974.
+Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1465, provided that this section is effective Jan. 1, 1974.
 
 #### Publication of Criteria
 
-Section 501(b) of Pub. L. 94–566 directed Secretary, within 120 days after Oct. 20, 1976, to publish criteria to be employed to determine disability (as defined in subsec. (a)(3) of this section) in the case of persons who have not attained the age of 18.
+Pub. L. 94–566, title V, §501(b), Oct. 20, 1976, 90 Stat. 2685, directed Secretary, within 120 days after Oct. 20, 1976, to publish criteria to be employed to determine disability (as defined in subsec. (a)(3) of this section) in the case of persons who have not attained the age of 18.
 
 #### Application to Northern Mariana Islands
 

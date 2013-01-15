@@ -22,7 +22,7 @@ The Secretary may require in any contract under which water is provided from the
 
 #### (e) Water shortage priorities
 
-In times of shortage or reduction of main stream Colorado River water for the CentralArizona Project, as determined by the Secretary, users which have yielded water from other sources in exchange for main stream water supplied by that project shall have a first priority to receive main stream water, as against other users supplied by that project which have not so yielded water from other sources, but only in quantities adequate to replace the water so yielded.
+In times of shortage or reduction of main stream Colorado River water for the Central Arizona Project, as determined by the Secretary, users which have yielded water from other sources in exchange for main stream water supplied by that project shall have a first priority to receive main stream water, as against other users supplied by that project which have not so yielded water from other sources, but only in quantities adequate to replace the water so yielded.
 
 #### (f) New Mexico users; water exchange contracts
 
@@ -40,7 +40,7 @@ The Boulder Canyon Project Act, referred to in subsec. (c), is act Dec. 21, 1928
 
 #### Codification
 
-Subsec. (g) of this section, which restricted the use of water from the projects authorized by this chapter for the production of basic agricultural commodities on newly irrigated lands for a period of ten years from Sept. 30, 1968, was omitted.
+Subsec. (g) of this section, which restricted the use of water from the projects authorized by this chapter for the production of basic agricultural commodities onnewly irrigated lands for a period of ten years from Sept. 30, 1968, was omitted.
 
 #### Amendments
 
@@ -52,7 +52,7 @@ Subsec. (f)(2), (3). Pub. L. 108–451, §212(d)(2), (3), redesignated par. (3) 
 
 #### Transportation of Water Pumped Within Boundary
 
-Section 3710(k) of Pub. L. 102–575 provided in part that: “This subsection \[amending this section\] does not authorize transportation of water pumped within the exterior boundary of a Federal reclamation project established prior to September 30, 1968, pursuant to the Act of June 17, 1902 (32 Stat. 388; 43 U.S.C. 391) \[see Short Title note set out under section 371 of this title\], as amended and supplemented, across project boundaries.”
+Pub. L. 102–575, title XXXVII, §3710(k), Oct. 30, 1992, 106 Stat. 4751, provided in part that: “This subsection \[amending this section\] does not authorize transportation of water pumped within the exterior boundary of a Federal reclamation project established prior to September 30, 1968, pursuant to the Act of June 17, 1902 (32 Stat. 388; 43 U.S.C. 391) \[see Short Title note set out under section 371 of this title\], as amended and supplemented, across project boundaries.”
 
 <i><sup>1</sup></i><i> So in original.</i>
 

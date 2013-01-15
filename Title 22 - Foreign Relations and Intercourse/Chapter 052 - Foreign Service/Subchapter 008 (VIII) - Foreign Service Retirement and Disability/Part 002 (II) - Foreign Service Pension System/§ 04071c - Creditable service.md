@@ -41,7 +41,7 @@ For purposes of this part, creditable service of a participant includes—
 
 #### (d) Prior service under other retirement system; waiver of credit and payment into Fund
 
-Credit shall be given under this System to a participant for a period of prior service under the Federal Employees’ Retirement System (described in chapter 84 of title 5) or under title III of the Central Intelligence Agency Retirement Act (50 U.S.C. 2151 et seq.) if the participant waives credit under the other retirement system and makes a payment to the Fund equal to the amount which was deducted and withheld from the individual's basic pay under the other retirement system during the prior creditable service under the other retirement system together with interest on such amount computed in accordance with regulations issued by the Secretary of State.
+Credit shall be given under this System to a participant for a period of prior service under the Federal Employees’ Retirement System (described in chapter 84 of title 5) or under title III of the Central Intelligence Agency Retirement Act (50 U.S.C. 2151 et seq.) if the participant waives credit under the other retirement systemand makes a payment to the Fund equal to the amount which was deducted and withheld from the individual's basic pay under the other retirement system during the prior creditable service under the other retirement system together with interest on such amount computed in accordance with regulations issued by the Secretary of State.
 
 #### (e) Employees of Members or offices of Congress
 
@@ -65,7 +65,7 @@ The Domestic Volunteer Service Act of 1973, referred to in subsec. (c)(1)(C), is
 
 #### Amendments
 
-<b>2000</b>—Subsec. (c)(1). Pub. L. 106–346, in concluding provisions, substituted “December 31, 2000” for “December 31, 2002”, and in table in concluding provisions, struckout item at end relating to service period January 1, 2001, to December 31, 2002.
+<b>2000</b>—Subsec. (c)(1). Pub. L. 106–346, in concluding provisions, substituted “December 31, 2000” for “December 31, 2002”, and in table in concluding provisions, struck out item at end relating to service period January 1, 2001, to December 31, 2002.
 
 <b>1997</b>—Subsec. (c). Pub. L. 105–33 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Credit shall be given under this System to a participant for a period of prior satisfactory service as—
 
@@ -105,7 +105,7 @@ Amendment by Pub. L. 99–556 effective Jan. 1, 1987, see section 408 of Pub. L.
 
 #### Impact of Amendments by Pub. L. 105–33 on Agency Contributions
 
-Section 7001(e)(2) of Pub. L. 105–33 provided that: “Agency contributions under section 857 of the Foreign Service Act of 1980 (22 U.S.C. 4071f) shall not be reduced as a result of the amendments made under paragraph (1) of this subsection \[amending this section and section 4071e of this title\].”
+Pub. L. 105–33, title VII, §7001(e)(2), Aug. 5, 1997, 111 Stat. 662, provided that: “Agency contributions under section 857 of the Foreign Service Act of 1980 (22 U.S.C. 4071f) shall not be reduced as a result of the amendments made under paragraph (1) of this subsection \[amending this section and section 4071e of this title\].”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

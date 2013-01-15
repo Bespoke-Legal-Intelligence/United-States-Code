@@ -26,7 +26,7 @@ June 15, 1956, ch. 390, 70 Stat. 283.
 
 Sept. 13, 1961, Pub. L. 87–224, §1, 75 Stat. 496.
 
-The words “individuals employed by” and the word “individuals” are substituted for “civilian employees of” and “employees”, respectively, in view of the definition of “employee” in section 2105 which is limited tothose employed by the Government of the United States. The word “civilian” is omitted as unnecessary as military personnel are not “employed”. The words “disbursing officials” are substituted for “disbursing officers” as the definition of “officer” in section 2104 excludes a member of a uniformed service.
+The words “individuals employed by” and the word “individuals” are substituted for “civilian employees of” and “employees”, respectively, in view of the definition of “employee” in section 2105 which is limited to those employed by the Government of the United States. The word “civilian” is omitted as unnecessary as military personnel are not “employed”. The words “disbursing officials” are substituted for “disbursing officers” as the definition of “officer” in section 2104 excludes a member of a uniformed service.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 

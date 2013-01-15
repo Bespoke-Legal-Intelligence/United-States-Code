@@ -22,5 +22,5 @@ Pub. L. 95–250, title I, §102(c), Mar. 27, 1978, 92 Stat. 167, directed Secre
 
 #### Reference to Secretary as Reference to Secretary of Department of the Interior; Exception
 
-Pub. L. 95–250, title I, §109, Mar. 27, 1978, 92 Stat. 172, provided that: “Unless otherwise indicated hereinbefore, a reference to the Secretary will refer to the Secretary of the Department of the Interior, except in subsections 103(d) through 103(i) \[section 79<i>l</i>(d) to (i) of this title\], where a reference to the Secretary will refer to the Secretary of the Department of Labor.”
+Pub. L. 95–250, title I, §109, Mar. 27, 1978, 92 Stat. 172, provided that: “Unless otherwise indicated hereinbefore, a reference to the Secretary will refer to the Secretary of the Department of the Interior, except in subsections 103(d) through 103(i) \[section 79l(d) to (i) of this title\], where a reference to the Secretary will refer to the Secretary of the Department of Labor.”
 

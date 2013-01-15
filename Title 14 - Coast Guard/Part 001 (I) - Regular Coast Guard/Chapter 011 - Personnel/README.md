@@ -31,6 +31,7 @@
 | [260\.](Officers/b.%20selection%20for%20promotion/%C2%A7%2000260%20-%20Selection%20boards%3B%20reports.md) | Selection boards; reports. |
 | [261\.](Officers/b.%20selection%20for%20promotion/%C2%A7%2000261%20-%20Selection%20boards%3B%20submission%20of%20reports.md) | Selection boards; submission of reports. |
 | [262\.](Officers/b.%20selection%20for%20promotion/%C2%A7%2000262%20-%20Failure%20of%20selection%20for%20promotion.md) | Failure of selection for promotion. |
+| [263\.](Officers/b.%20selection%20for%20promotion/%C2%A7%2000263%20-%20Special%20selection%20boards%3B%20correction%20of%20errors.md) | Special selection boards; correction of errors. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -141,6 +142,7 @@
 | [424a.](General%20Provisions/%C2%A7%2000424a%20-%20Suspension%20of%20payment%20of%20retired%20pay%20of%20members%20who%20are%20absent%20from%20the%20United%20States%20to%20avoid%20prosecution.md) | Suspension of payment of retired pay of members who are absent from the United States to avoid prosecution. |
 | [425\.](General%20Provisions/%C2%A7%2000425%20-%20Board%20for%20Correction%20of%20Military%20Records%20deadline.md) | Board for Correction of Military Records deadline. |
 | [426\.](General%20Provisions/%C2%A7%2000426%20-%20Emergency%20leave%20retention%20authority.md) | Emergency leave retention authority. |
+| [427\.](General%20Provisions/%C2%A7%2000427%20-%20Prohibition%20of%20certain%20involuntary%20administrative%20separations.md) | Prohibition of certain involuntary administrative separations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -161,6 +163,8 @@ This chapter, dealing with the appointment, enlistment, promotion, retirement an
 The subject matter seemed to break down into the sub-heads of “Commissioned Officers”, “Warrant Officers”, “Enlisted Men”, and “General Provisions”. Each of the first three sub-heads parallels the other two, insofar as the applicability of statutes of the three groups permits. The last sub-head includes the broad provisions which, in the same terms, can be made applicable to all military personnel. In accord with existing Navy and Coast Guard law, the term “commissioned officer” includes commissioned warrant officers unless specifically excepted, or manifestly inapplicable. Heretofore Coast Guard statutes have designated commissioned warrant officers as chief warrant officers; in line with Navy designation it is changed to commissioned warrant officers throughout this title. Terms such as “Coast Guard personnel” or “personnel of the Coast Guard”, as used throughout this title, are intended to include all employees of the Service, civilian and military. 81st Congress, House Report No. 557.
 
 #### Amendments
+
+<b>2012</b>—Pub. L. 112–213, title II, §§208(d), 209(b), Dec. 20, 2012, 126 Stat. 1549, 1550, added items 263 and 427.
 
 <b>2010</b>—Pub. L. 111–281, title II, §§207(b), 209, 215(b), Oct. 15, 2010, 124 Stat. 2912, 2917, struck out item 216 “Director of Boating Safety Office”, substituted “Compulsory retirement” for “Compulsory retirement at age of sixty-two” in item 293, and added item 426.
 

@@ -4,7 +4,7 @@
 
 Requirement.—(1) Within the time periods specified in paragraph (3), the Secretary concerned shall (except as provided in paragraph (4)) provide for individual preseparation counseling of each member of the armed forces whose discharge or release from active duty is anticipated as of a specific date. A notation of the provision of such counseling with respect to each matter specified in subsection (b), signed by the member, shall be placed in the service record of each member receiving such counseling.
 
-(2) In carrying out this section, the Secretary concerned may use the services available under section 1144 of this title.
+(2) In carrying out this section, the Secretary concerned shall use the services available under section 1144 of this title.
 
 (3)(A) In the case of an anticipated retirement, preseparation counseling shall commence as soon as possible during the 24-month period preceding the anticipated retirement date. In the case of a separation other than a retirement, preseparation counseling shall commence as soon as possible during the 12-month period preceding the anticipated date. Except as provided in subparagraph (B), in no event shall preseparation counseling commence later than 90 days before the date of discharge or release.
 
@@ -30,7 +30,7 @@ Matters To Be Covered By Counseling.—Counseling under this section shall inclu
 
 &emsp;&emsp;(B) civilian occupations that correspond to military occupational specialties; and
 
-&emsp;&emsp;(C) Government and private-sector programs for job search and job placement assistance, including the public and community service jobs program carried out under section 1143a of this title, and information regarding the placement programs established under sections 1152 and 1153 of this title and the Troops-to-Teachers Program under section 2302 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6672).
+&emsp;&emsp;(C) Government and private-sector programs for job search and job placement assistance, including the public and community service jobs program carried out under section 1143a of this title, and information regarding the placement programs established under sections 1152 and 1153 of this title and the Troops-to-Teachers Program.
 
 &emsp;(5) If the member has a spouse, inclusion of the spouse, at the discretion of the member and the spouse, when counseling regarding the matters covered by paragraphs (9), (10), and (16) is provided, job placement counseling for the spouse, and the provision of information on survivor benefits available under the laws administered by the Secretary of Defense or the Secretary of Veterans Affairs.
 
@@ -42,13 +42,13 @@ Matters To Be Covered By Counseling.—Counseling under this section shall inclu
 
 &emsp;(9) Financial planning assistance, including information on budgeting, saving, credit, loans, and taxes.
 
-&emsp;(10) The creation of a transition plan for the member to attempt to achieve the educational, training,,<sup>1</sup> employment, and financial objectives of the member and, if the member has a spouse, the spouse of the member.
+&emsp;(10) The creation of a transition plan for the member to attempt to achieve the educational, training, employment, and financial objectives of the member and, if the member has a spouse, the spouse of the member.
 
 &emsp;(11) Information concerning the availability of mental health services and the treatment of post-traumatic stress disorder, anxiety disorders, depression, suicidal ideations, or other mental health conditions associated with service in the armed forces.
 
 &emsp;(12) Information concerning the priority of service for veterans in the receipt of employment, training, and placement services provided under qualified job training programs of the Department of Labor.
 
-&emsp;(13) Information concerning veterans small business ownership and entrepreneurship programs of the Small Business Administration and the National Veterans Business Development Corporation.
+&emsp;(13) Information concerning veterans small business ownership and entrepreneurship programs of the Small Business Administration.
 
 &emsp;(14) Information concerning employment and reemployment rights and obligations under chapter 43 of title 38.
 
@@ -62,13 +62,15 @@ Matters To Be Covered By Counseling.—Counseling under this section shall inclu
 
 Transmittal of Medical Information to Department of Veterans Affairs.—In the case of a member being medically separated or being retired under chapter 61 of this title, the Secretary concerned shall ensure (subject to the consent of the member) that a copy of the member's service medical record (including any results of a Physical Evaluation Board) is transmitted to the Secretary of Veterans Affairs within 60 days of the separation or retirement.
 
-(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1552; amended Pub. L. 102–190, div. A, title X, §1061(a)(5), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 102–484, div. D, title XLIV, §§4401, 4441(b), 4462(b), Oct. 23, 1992, 106 Stat. 2701, 2730, 2740; Pub. L. 103–35, title II, §201(i)(1), May 31, 1993, 107 Stat. 100; Pub. L. 103–160, div. A, title XIII, §1332(c), Nov. 30, 1993, 107 Stat. 1797; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(9)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–290; Pub. L. 107–103, title III, §302(a), Dec. 27, 2001, 115 Stat. 991; Pub. L. 109–163, div. A, title V, §594, Jan. 6, 2006, 119 Stat. 3281; Pub. L. 111–84, div. A, title X, §1073(a)(13), Oct. 28, 2009, 123 Stat. 2473; Pub. L. 112–56, title II, §221(b), Nov. 21, 2011, 125 Stat. 716; Pub. L. 112–81, div. A, title V, §§513, 529, 533(c), Dec. 31, 2011, 125 Stat. 1393, 1402, 1404.)
-
-#### Amendment of Subsection (a)(2)
-
-<i>Pub. L. 112–56, title II, §221(b), (c), Nov. 21, 2011, 125 Stat. 716, provided that, effective on the date that is 1 year after Nov. 21, 2011, subsection (a)(2) of this section is amended by striking “may” and inserting “shall”. See 2011 Amendment note below.</i>
+(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1552; amended Pub. L. 102–190, div. A, title X, §1061(a)(5), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 102–484, div. D, title XLIV, §§4401, 4441(b), 4462(b), Oct. 23, 1992, 106 Stat. 2701, 2730, 2740; Pub. L. 103–35, title II, §201(i)(1), May 31, 1993, 107 Stat. 100; Pub. L. 103–160, div. A, title XIII, §1332(c), Nov. 30, 1993, 107 Stat. 1797; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(9)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–290; Pub. L. 107–103, title III, §302(a), Dec. 27, 2001, 115 Stat. 991; Pub. L. 109–163, div. A, title V, §594, Jan. 6, 2006, 119 Stat. 3281; Pub. L. 111–84, div. A, title X, §1073(a)(13), Oct. 28, 2009, 123 Stat. 2473; Pub. L. 112–56, title II, §221(b), Nov. 21, 2011, 125 Stat. 716; Pub. L. 112–81, div. A, title V, §§513, 529, 533(c), Dec. 31, 2011, 125 Stat. 1393, 1402, 1404; Pub. L. 112–239, div. A, title V, §541(c), title X, §1076(f)(12), title XVI, §1699(c)(1), Jan. 2, 2013, 126 Stat. 1735, 1952, 2092.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (b)(4)(C). Pub. L. 112–239, §541(c), struck out “under section 2302 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6672)” before period at end.
+
+Subsec. (b)(10). Pub. L. 112–239, §1076(f)(12), substituted “training,” for “training,,”.
+
+Subsec. (b)(13). Pub. L. 112–239, §1699(c)(1), struck out “and the National Veterans Business Development Corporation” before period at end.
 
 <b>2011</b>—Subsec. (a)(2). Pub. L. 112–56 substituted “shall” for “may”.
 
@@ -133,6 +135,4 @@ Pub. L. 103–337, div. A, title V, §543(a), Oct. 5, 1994, 108 Stat. 2769, prov
 #### Limitation on Funding To Carry Out Section 543 of Pub. L. 103–337
 
 Pub. L. 103–337, div. A, title V, §543(h), Oct. 5, 1994, 108 Stat. 2772, provided that: “Funds appropriated or otherwise made available to the Department of Defense, the Department of Education, the Department of Labor, or the Department of Veterans Affairs may not be used to carry out subsection (a) \[set out above\] or the amendments made by this section \[amending sections 1144 and 1151 to 1153 of this title and provisions set out as notes under section 1143 of this title\].”
-
-<i><sup>1</sup></i><i> So in original.</i>
 

@@ -24,7 +24,7 @@ As used in this chapter, unless otherwise provided or indicated by the context�
 
 #### Effective Date of 1990 Amendment; Continued Service by Incumbents
 
-Section 529 \[title I, §112(e)\] of Pub. L. 101–509 provided that:
+Pub. L. 101–509, title V, §529 \[title I, §112(e)\], Nov. 5, 1990, 104 Stat. 1427, 1455, provided that:
 
 “(1) This section \[amending this section, section 3412 of this title, sections 5313 and 5314 of Title 5, Government Organization and Employees, section 472a of Title 25, Indians, section 3533 of Title 42, The Public Health and Welfare, and section 1452 of Title 43, Public Lands and enacting provisions set out as notes under this section and section 3501 of Title 42\] shall take effect on the first day of the first pay period that begins on or after the date of enactment of this Act \[Nov. 5, 1990\].
 
@@ -38,7 +38,7 @@ Section 529 \[title I, §112(e)\] of Pub. L. 101–509 provided that:
 
 #### Construction of References
 
-Section 529 \[title I, §112(c)\] of Pub. L. 101–509 provided that: “Any reference in any statute, reorganization plan, regulation, executive order, or any document issued pursuant thereto in force on the date this section takes effect \[see Effective Date of 1990 Amendment; Continued Service by Incumbents note above\] to the Under Secretary of Health and Human Services, the Under Secretary of the Interior, the Under Secretary of Education, or the Under Secretary of Housing and Urban Development shall be deemed to be a reference to the Deputy Secretary of Health and Human Services, the Deputy Secretary of the Interior, the Deputy Secretary of Education, or the Deputy Secretary of Housing and Urban Development, respectively.”
+Pub. L. 101–509, title V, §529 \[title I, §112(c)\], Nov. 5, 1990, 104 Stat. 1427, 1454, provided that: “Any reference in any statute, reorganization plan, regulation, executive order, or any document issued pursuant thereto in force on the date this section takes effect \[see Effective Date of 1990 Amendment; Continued Service by Incumbents note above\] to the Under Secretary of Health and Human Services, the Under Secretary of the Interior, the Under Secretary of Education, or the Under Secretary of Housing and Urban Development shall be deemed to be a reference to the Deputy Secretary of Health and Human Services, the Deputy Secretary of the Interior, the Deputy Secretary of Education, or the Deputy Secretary of Housing and Urban Development, respectively.”
 
 #### Termination of Trust Territory of the Pacific Islands
 

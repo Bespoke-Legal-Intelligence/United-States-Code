@@ -10,7 +10,7 @@ The words defined in this section shall have the following meanings for purposes
 
 &emsp;(4) “person” means an individual or a corporation;
 
-&emsp;(5) “licensee” means any person, State, or municipality licensed under the provisions ofsection 797 of this title, and any assignee or successor in interest thereof;
+&emsp;(5) “licensee” means any person, State, or municipality licensed under the provisions of section 797 of this title, and any assignee or successor in interest thereof;
 
 &emsp;(6) “State” means a State admitted to the Union, the District of Columbia, and any organized Territory of the United States;
 
@@ -140,7 +140,7 @@ Par. (18)(B). Pub. L. 109–58, §1253(b)(2), amended subpar. (B) generally. Pri
 
 &emsp;“(i) the Commission determines, by rule, meets such requirements (including requirements respecting minimum size, fuel use, and fuel efficiency) as the Commission may, by rule, prescribe; and
 
-&emsp;“(ii) is owned by a person not primarily engaged in the generation or sale of electric power (other thanelectric power solely from cogeneration facilities or small power production facilities);”.
+&emsp;“(ii) is owned by a person not primarily engaged in the generation or sale of electric power (other than electric power solely from cogeneration facilities or small power production facilities);”.
 
 Pars. (22), (23). Pub. L. 109–58, §1291(b)(1), added pars. (22) and (23) and struck out former pars. (22) and (23) which read as follows:
 
@@ -170,7 +170,7 @@ Par. (17)(E). Pub. L. 101–575, §3(b), added subpar. (E).
 
 #### FERC Regulations
 
-Section 4 of Pub. L. 101–575 provided that: “Unless the Federal Energy Regulatory Commission otherwise specifies, by rule after enactment of this Act \[Nov. 15, 1990\], any eligible solar, wind, waste, or geothermal facility (as defined in section 3(17)(E) of the Federal Power Act as amended by this Act \[16 U.S.C. 796(17)(E)\]), which is a qualifying small power production facility (as defined in subparagraph (C) of section 3(17) of the Federal Power Act as amended by this Act)—
+Pub. L. 101–575, §4, Nov. 15, 1990, 104 Stat. 2834, provided that: “Unless the Federal Energy Regulatory Commission otherwise specifies, by rule after enactment of this Act \[Nov. 15, 1990\], any eligible solar, wind, waste, or geothermal facility (as defined in section 3(17)(E) of the Federal Power Act as amended by this Act \[16 U.S.C. 796(17)(E)\]), which is a qualifying small power production facility (as defined in subparagraph (C) of section 3(17) of the Federal Power Act as amended by this Act)—
 
 &emsp;“(1) shall be considered a qualifying small power production facility for purposes of part 292 of title 18, Code of Federal Regulations, notwithstanding any size limitations contained in such part, and
 
@@ -178,7 +178,7 @@ Section 4 of Pub. L. 101–575 provided that: “Unless the Federal Energy Regul
 
 #### State Authorities; Construction
 
-Pub. L. 102–486, title VII, §731, Oct. 24, 1992, 106 Stat. 2921, provided that: “Nothing in this title \[enacting sections 824<i>l</i>, 824m, and 825<i>o</i>–1 of this title and former sections 79z–5a and 79z–5b of Title 15, Commerce and Trade, and amending this section, sections 824, 824j, 824k, 825n, 825<i>o</i>, and 2621 of this title, and provisions formerly set out as a note under former section 79k of Title 15\] or in any amendment made by this title shall be construed as affecting or intending to affect, or in any way to interfere with, the authority of any State or local government relating to environmental protection or the siting of facilities.”
+Pub. L. 102–486, title VII, §731, Oct. 24, 1992, 106 Stat. 2921, provided that: “Nothing in this title \[enacting sections 824l, 824m, and 825o–1 of this title and former sections 79z–5a and 79z–5b of Title 15, Commerce and Trade, and amending this section, sections 824, 824j, 824k, 825n, 825o, and 2621 of this title, and provisions formerly set out as a note under former section 79k of Title 15\] or in any amendment made by this title shall be construed as affecting or intending to affect, or in any way to interfere with, the authority of any State or local government relating to environmental protection or the siting of facilities.”
 
 #### Termination of Federal Power Commission; Transfer of Functions
 

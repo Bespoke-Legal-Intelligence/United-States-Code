@@ -20,9 +20,9 @@ Act of March 2, 1867, referred to in par. (5), is act Mar. 2, 1867, ch. 162, 14 
 
 #### Effective Date
 
-Section 209 of title II of Pub. L. 98–480 provided that: “This title \[see Short Title note below\] shall take effect on October 1, 1984.”
+Pub. L. 98–480, title II, §209, Oct. 17, 1984, 98 Stat. 2247, provided that: “This title \[see Short Title note below\] shall take effect on October 1, 1984.”
 
 #### Short Title
 
-Section 201 of title II of Pub. L. 98–480 provided that: “This title \[enacting this subchapter, amending section 123 of this title, and enacting provisions set out as a note above\] may be cited as the ‘Howard University Endowment Act’.”
+Pub. L. 98–480, title II, §201, Oct. 17, 1984, 98 Stat. 2245, provided that: “This title \[enacting this subchapter, amending section 123 of this title, and enacting provisions set out as a note above\] may be cited as the ‘Howard University Endowment Act’.”
 

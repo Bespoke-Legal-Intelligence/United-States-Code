@@ -24,7 +24,7 @@ Bar To Concurrent Receipt of Transferred Education Benefits and Marine Gunnery S
 
 Bar To Receipt of Compensation and Pension and Marine Gunnery Sergeant John David Fry Scholarship Assistance.—The commencement of a program of education under section 3311(b)(9) shall be a bar to the following:
 
-&emsp;(1) Subsequent payments of dependency and indemnity compensation or pension based on the death of a parent to an eligible person over the age of 18 years by reason of pursuing a course in an educational institution.
+&emsp;(1) Subsequent payments of dependency and indemnity compensation or pension based onthe death of a parent to an eligible person over the age of 18 years by reason of pursuing a course in an educational institution.
 
 &emsp;(2) Increased rates, or additional amounts, of compensation, dependency and indemnity compensation, or pension because of such a person, whether eligibility is based upon the death of the parent.
 
@@ -44,7 +44,7 @@ Active-duty service.—An individual with qualifying service in the Armed Forces
 
 Eligibility for educational assistance based on parent's service.—A child of a member of the Armed Forces who, on or after September 11, 2001, dies in the line of duty while serving on active duty, who is eligible for educational assistance under either section 3311(b)(9) or chapter 35 of this title based on the parent's death may not receive such assistance under both this chapter and chapter 35 of this title, but shall elect (in such form and manner as the Secretary may prescribe) under which chapter to receive such assistance.
 
-(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2373; amended Pub. L. 111–377,title I, §111(a)–(d), title II, §202(a), Jan. 4, 2011, 124 Stat. 4120, 4121, 4124.)
+(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2373; amended Pub. L. 111–377, title I, §111(a)–(d), title II, §202(a), Jan. 4, 2011, 124 Stat. 4120, 4121, 4124.)
 
 #### References in Text
 

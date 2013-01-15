@@ -2,13 +2,13 @@
 
 #### (a) Federal National Mortgage Association and Federal Home Loan Mortgage Corporation
 
-No class of equity securities of the Federal National Mortgage Association or the Federal Home Loan Mortgage Corporation shall be treated as an exempted security for purposes of section 78<i>l</i>, 78m, 78n, or 78p of this title.
+No class of equity securities of the Federal National Mortgage Association or the Federal Home Loan Mortgage Corporation shall be treated as an exempted security for purposes of section 78l, 78m, 78n, or 78p of this title.
 
 #### (b) Federal Home Loan Banks
 
 #### (1) Registration
 
-&emsp;Each Federal Home Loan Bank shall register a class of its common stock under section 78<i>l</i>(g) of this title, not later than 120 days after July 30, 2008, and shall thereafter maintain such registration and be treated for purposes of this chapter as an “issuer”, the securities of which are required to be registered under section 78<i>l</i> of this title, regardless of the number of members holding such stock at any given time.
+&emsp;Each Federal Home Loan Bank shall register a class of its common stock under section 78l(g) of this title, not later than 120 days after July 30, 2008, and shall thereafter maintain such registration and be treated for purposes of this chapter as an “issuer”, the securities of which are required to be registered under section 78l of this title, regardless of the number of members holding such stock at any given time.
 
 #### (2) Standards relating to audit committees
 
@@ -42,5 +42,5 @@ The Federal Home Loan Mortgage Corporation Act, referred to in subsec. (c)(3), i
 
 #### Codification
 
-Pub. L. 110–289, which directed amendment of the Securities Exchange Act of 1934 by adding this section at the end, is reflected in the source credit above as adding this section to title I of the Securities Exchange Act of 1934, to reflect the probable intent of Congress.
+Pub. L. 110–289, which directed amendment of the Securities Exchange Act of 1934 by adding this section atthe end, is reflected in the source credit above as adding this section to title I of the Securities Exchange Act of 1934, to reflect the probable intent of Congress.
 

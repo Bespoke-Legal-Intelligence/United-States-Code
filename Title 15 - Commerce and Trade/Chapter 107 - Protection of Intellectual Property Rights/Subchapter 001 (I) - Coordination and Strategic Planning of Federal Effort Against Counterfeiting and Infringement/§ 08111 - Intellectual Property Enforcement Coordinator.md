@@ -70,7 +70,7 @@ This subchapter, referred to in subsec. (a), was in the original “this title�
 
 Ex. Ord. No. 13565, Feb. 8, 2011, 76 F.R. 7681, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including title III of the Prioritizing Resources and Organization for Intellectual Property Act of 2008 (Public Law 110–403)(15 U.S.C. 8111–8116) (the “PRO IP Act”), and in order to strengthen the efforts of the Federal Government to encourage innovation through the effective and efficient enforcement of laws protecting copyrights, patents, trademarks, trade secrets, and other forms of intellectual property, both in the United States and abroad, including matters relating to combating infringement, and thereby support efforts to reinvigorate the Nation's global competitiveness, accelerate export growth, promote job creation, and reduce threats posed to national security and to public health and safety, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including title III of the Prioritizing Resources and Organization for Intellectual Property Act of 2008 (Public Law 110–403) (15 U.S.C. 8111–8116) (the “PRO IP Act”), and in order to strengthen the efforts of the Federal Government to encourage innovation through the effective and efficient enforcement of laws protecting copyrights, patents, trademarks, trade secrets, and other forms of intellectual property, both in the United States and abroad, including matters relating to combating infringement, and thereby support efforts to reinvigorate the Nation's global competitiveness, accelerate export growth, promote job creation, and reduce threats posed to national security and to public health and safety, it is hereby ordered as follows:
 
 Section 1. <i>Senior Intellectual Property Enforcement Advisory Committee</i>.
 
@@ -128,7 +128,7 @@ Sec. 2. <i>Intellectual Property Enforcement Advisory Committee</i>.
 
 (x) such other executive branch departments, agencies, or offices as the President determines to be substantially involved in the efforts of the Federal Government to combat counterfeiting and infringement.
 
-Pursuant to the PRO IP Act (15 U.S.C. 8111), the Coordinator shall also invite the Register of Copyrights, or a senior representative of the United States Copyright Office designated by the Register of Copyrights, to serve as a member of the Enforcement Advisory Committee.
+Pursuant to the PRO IP Act (15 U.S.C. 8111), the Coordinator shall also invite the Register of Copyrights,or a senior representative of the United States Copyright Office designated by the Register of Copyrights, to serve as a member of the Enforcement Advisory Committee.
 
 (c) <i>Mission and Functions</i>.
 

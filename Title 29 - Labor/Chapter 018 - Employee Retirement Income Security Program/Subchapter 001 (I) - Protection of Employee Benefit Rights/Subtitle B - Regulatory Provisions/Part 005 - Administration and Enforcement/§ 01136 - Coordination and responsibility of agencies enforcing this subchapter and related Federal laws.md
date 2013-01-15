@@ -6,7 +6,7 @@ In order to avoid unnecessary expense and duplication of functions among Governm
 
 #### (b) Responsibility for detecting and investigating civil and criminal violations of this subchapter and related Federal laws
 
-The Secretary shall have the responsibility and authority to detect and investigate and refer, where appropriate, civil and criminal violations related to the provisions of this subchapter and other related Federal laws, including the detection, investigation, and appropriate referrals of related violations of title 18. Nothing in this subsection shall be construed to preclude other appropriate Federal agencies from detecting and investigating civil and criminal violations of this subchapter and other related Federal laws.
+The Secretary shall have the responsibility and authority to detect and investigate andrefer, where appropriate, civil and criminal violations related to the provisions of this subchapter and other related Federal laws, including the detection, investigation, and appropriate referrals of related violations of title 18. Nothing in this subsection shall be construed to preclude other appropriate Federal agencies from detecting and investigating civil and criminal violations of this subchapter and other related Federal laws.
 
 #### (c) Coordination of enforcement with States with respect to certain arrangements
 
@@ -34,5 +34,5 @@ Secretary authorized, effective Sept. 2, 1974, to promulgate regulations whereve
 
 #### Relation of Subtitle E of Title II of Pub. L. 104–191 to ERISA Authority
 
-Section 250 of title II of Pub. L. 104–191 provided that: “Nothing in this subtitle \[subtitle E (§§241–250) of title II of Pub. L. 104–191, enacting sections 24, 669, 1035, 1347, 1518, and 3486 of Title 18, Crimes and Criminal Procedure, amending sections 982, 1345, 1510, and 1956 of Title 18, and enacting provisions set out as notes under section 1395i of Title 42, The Public Health and Welfare\] shall be construed as affecting the authority of the Secretary of Labor under section 506(b) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1136(b)\], including the Secretary's authority with respect to violations of title 18, United States Code (as amended by this subtitle).”
+Pub. L. 104–191, title II, §250, Aug. 21, 1996, 110 Stat. 2021, provided that: “Nothing in this subtitle \[subtitle E (§§241–250) of title II of Pub. L. 104–191, enacting sections 24, 669, 1035, 1347, 1518, and 3486 of Title 18, Crimes and Criminal Procedure, amending sections 982, 1345, 1510, and 1956 of Title 18, and enacting provisions set out as notes under section 1395i of Title 42, The Public Health and Welfare\] shall be construed as affecting the authority of the Secretary of Labor under section 506(b) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1136(b)\], including the Secretary's authority with respect to violations of title 18, United States Code (as amended by this subtitle).”
 

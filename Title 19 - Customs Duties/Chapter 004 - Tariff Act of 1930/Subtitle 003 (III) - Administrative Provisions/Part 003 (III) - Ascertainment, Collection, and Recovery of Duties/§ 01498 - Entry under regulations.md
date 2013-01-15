@@ -80,7 +80,7 @@ Subsec. (a)(2). Pub. L. 103–182, §662(2), substituted “such amounts as the 
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–609 added par. (2) and redesignated former pars. (2) to (11) as (3) to (12), respectively.
 
-<b>1953</b>—Subsec. (a)(1). Act Aug. 8, 1953, §16(d), increased valuation figure with respect to informal entries from $100 to $250, and inserted provisions with respect to possible variation for different classes or kinds of merchandise and different classes of transactions.
+<b>1953</b>—Subsec. (a)(1). Act Aug. 8, 1953, §16(d), increased valuation figure with respect to informal entries from$100 to $250, and inserted provisions with respect to possible variation for different classes or kinds of merchandise and different classes of transactions.
 
 Subsec. (a)(11). Act Aug. 8, 1953, §16(e), substituted “paragraph 1631 of section 1201 of this title” for “sections 472 to 574 of this title”.
 

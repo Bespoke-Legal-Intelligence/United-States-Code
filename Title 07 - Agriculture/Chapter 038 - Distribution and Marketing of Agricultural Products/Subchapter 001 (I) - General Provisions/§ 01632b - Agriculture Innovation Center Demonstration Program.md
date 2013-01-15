@@ -150,7 +150,7 @@ An eligible entity to which a grant is made under the Program may use the grant 
 
 &emsp;The report under paragraph (1) shall—
 
-&emsp;&emsp;(A) include a description of the best practices and innovations found at each of theAgriculture Innovation Centers established under the Program; and
+&emsp;&emsp;(A) include a description of the best practices and innovations found at each of the Agriculture Innovation Centers established under the Program; and
 
 &emsp;&emsp;(B) specify the number and type of activities assisted, and the type of assistance provided, under the Program.
 

@@ -32,17 +32,19 @@ Authorization of Appropriations.—(1) There are authorized to be appropriated t
 
 &emsp;(E) $50,000,000 for fiscal year 2006.
 
-&emsp;(F) $50,000,000 for each of fiscal years 2007 through 2012.
+&emsp;(F) $50,000,000 for each of fiscal years 2007 through 2013.
 
 (2) Funds appropriated to carry out this section shall remain available until expended. Funds obligated in any fiscal year to carry out this section may be expended in that fiscal year and the succeeding fiscal year.
 
-(Added Pub. L. 107–95, §5(a)(1), Dec. 21, 2001, 115 Stat. 909; amended Pub. L. 109–233, title II, §203,June 15, 2006, 120 Stat. 404; Pub. L. 111–275, title II, §201, Oct. 13, 2010, 124 Stat. 2873; Pub. L. 112–37, §10(b), Oct. 5, 2011, 125 Stat. 396.)
+(Added Pub. L. 107–95, §5(a)(1), Dec. 21, 2001, 115 Stat. 909; amended Pub. L. 109–233, title II, §203, June 15, 2006, 120 Stat. 404; Pub. L. 111–275, title II, §201, Oct. 13, 2010, 124 Stat. 2873; Pub. L. 112–37, §10(b), Oct. 5, 2011, 125 Stat. 396; Pub. L. 112–154, title III, §305(b), Aug. 6, 2012, 126 Stat. 1187.)
 
 #### Prior Provisions
 
 A prior section 2021 was renumbered section 4301 of this title and subsequently omitted in the general amendment of chapter 43 of this title by Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3150.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (e)(1)(F). Pub. L. 112–154 substituted “2013” for “2012”.
 
 <b>2011</b>—Subsec. (e)(1)(F). Pub. L. 112–37 substituted “2012” for “2011”.
 

@@ -22,7 +22,7 @@ The ex officio members of the advisory council shall consist of the following pe
 
 &emsp;(7) The Director of the Office of Science and Technology Policy.
 
-&emsp;(8) Such additional officers and employees of the United States as the Secretary determines are necessary for the advisory council to effectively carry out its functions.
+&emsp;(8) Such additional officers and employees of the United States as the Secretary determinesare necessary for the advisory council to effectively carry out its functions.
 
 #### (c) Appointment of other members
 
@@ -84,7 +84,7 @@ The advisory council may prepare, for inclusion in a report submitted under sect
 
 The advisory council may prepare such reports as the advisory council determines to be appropriate.
 
-#### (<i>l</i>) Application of Advisory Committee Act
+#### (l) Application of Advisory Committee Act
 
 Section 14(a) of the Federal Advisory Committee Act (5 U.S.C. App.) relating to the termination of an advisory committee shall not apply to the advisory council established under this section.
 
@@ -92,9 +92,9 @@ Section 14(a) of the Federal Advisory Committee Act (5 U.S.C. App.) relating to 
 
 #### References in Text
 
-Section 14(a) of the Federal Advisory Committee Act, referred to in subsec. (<i>l</i>), is section 14(a) of Pub. L.92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 14(a) of the Federal Advisory Committee Act, referred to in subsec. (l), is section 14(a) of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 
-<b>1991</b>—Subsec. (<i>l</i>). Pub. L. 102–237 substituted “council established” for “committee established”.
+<b>1991</b>—Subsec. (l). Pub. L. 102–237 substituted “council established” for “committee established”.
 

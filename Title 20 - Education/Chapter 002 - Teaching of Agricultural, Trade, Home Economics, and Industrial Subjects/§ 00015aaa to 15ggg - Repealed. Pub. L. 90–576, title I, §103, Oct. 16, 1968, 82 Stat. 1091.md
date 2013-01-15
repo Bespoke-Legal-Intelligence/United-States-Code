@@ -18,5 +18,5 @@ For general subject matter of sections 15aaa to 15ggg, see section 1241 et seq. 
 
 #### Effective Date of Repeal
 
-Section 103 of Pub. L. 90–576 provided that the repeal is effective July 1, 1969.
+Pub. L. 90–576, title I, §103, Oct. 16, 1968, 82 Stat. 1091, provided that the repeal is effective July 1, 1969.
 

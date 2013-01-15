@@ -52,7 +52,7 @@
 
 #### (2) Contracts
 
-&emsp;The procedures established by each agency for review and evaluation of contract proposals and for hiring service providers shall include, to the extent consistent with applicable law, a component that gives consideration to the diversity of the applicant. Such procedure shall include a written statement, in a form and with such content as the Director shall prescribe, that a contractor shall ensure, tothe maximum extent possible, the fair inclusion of women and minorities in the workforce of the contractor and, as applicable, subcontractors.
+&emsp;The procedures established by each agency for review and evaluation of contract proposals and for hiring service providers shall include, to the extent consistent with applicable law, a component that gives consideration to the diversity of the applicant. Such procedure shall include a written statement, in a form and with such content as the Director shall prescribe, that a contractor shall ensure, to the maximum extent possible, the fair inclusion of women and minorities in the workforce of the contractor and, as applicable, subcontractors.
 
 #### (3) Termination
 
@@ -64,7 +64,7 @@
 
 #### (i) Recommendation to agency administrator
 
-&emsp;&emsp;&emsp;Upon a determination described in subparagraph (A), the Director shall make a recommendation to the agency administrator that the contract be terminated.
+&emsp;&emsp;&emsp;Upon a determination described in subparagraph (A), the Director shall make arecommendation to the agency administrator that the contract be terminated.
 
 #### (ii) Action by agency administrator
 

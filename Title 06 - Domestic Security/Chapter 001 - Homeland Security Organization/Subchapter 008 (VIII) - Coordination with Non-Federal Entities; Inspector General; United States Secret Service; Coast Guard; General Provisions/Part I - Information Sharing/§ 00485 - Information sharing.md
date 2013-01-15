@@ -46,7 +46,7 @@ In this section:
 
 &emsp;The President shall—
 
-&emsp;&emsp;(A) create an information sharing environment for the sharing of terrorism information in a manner consistent with nationalsecurity and with applicable legal standards relating to privacy and civil liberties;
+&emsp;&emsp;(A) create an information sharing environment for the sharing of terrorism information in a manner consistent with national security and with applicable legal standards relating to privacy and civil liberties;
 
 &emsp;&emsp;(B) designate the organizational and management structures that will be used to operate and manage the ISE; and
 
@@ -90,7 +90,7 @@ In this section:
 
 Not later than 180 days after December 17, 2004, the program manager shall, in consultation with the Information Sharing Council—
 
-&emsp;(1) submit to the President and Congress a description of the technological, legal, and policy issues presented by the creation of the ISE, and the way in which these issues will be addressed;
+&emsp;(1) submit to the President and Congress a description of the technological, legal, andpolicy issues presented by the creation of the ISE, and the way in which these issues will be addressed;
 
 &emsp;(2) establish an initial capability to provide electronic directory services, or the functional equivalent, to assist in locating in the Federal Government intelligence and terrorism information and people with relevant knowledge about intelligence and terrorism information; and
 
@@ -306,7 +306,7 @@ The program manager is authorized to hire not more than 40 full-time employees t
 
 &emsp;(2) identifying and resolving information sharing disputes between Federal departments, agencies, and components under subsection (f)(2)(A)(iv).
 
-#### (<i>l</i>) Authorization of appropriations
+#### (l) Authorization of appropriations
 
 There is authorized to be appropriated to carry out this section $30,000,000 for each of fiscal years 2008 and 2009.
 
@@ -322,7 +322,7 @@ The Federal Advisory Committee Act, referred to in subsec. (g)(4), is Pub. L. 92
 
 #### Codification
 
-Section was enacted as part of the Intelligence Reform and Terrorism Prevention Act of 2004, and also aspart of the National Security Intelligence Reform Act of 2004, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
+Section was enacted as part of the Intelligence Reform and Terrorism Prevention Act of 2004, and also as part of the National Security Intelligence Reform Act of 2004, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
 
 #### Amendments
 
@@ -366,7 +366,7 @@ Subsec. (g)(5). Pub. L. 110–53, §504(4)(D), added par. (5).
 
 Subsec. (h)(1). Pub. L. 110–53, §504(5), substituted “and not later than June 30 of each year thereafter” for “and annually thereafter”.
 
-Subsecs. (j) to (<i>l</i>). Pub. L. 110–53, §504(6), added subsecs. (j) to (<i>l</i>) and struck out heading and text of former subsec. (j). Text read as follows: “There is authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2005 and 2006.”
+Subsecs. (j) to (l). Pub. L. 110–53, §504(6), added subsecs. (j) to (l) and struck out heading and text of former subsec. (j). Text read as follows: “There is authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2005 and 2006.”
 
 #### Effective Date
 
@@ -396,7 +396,7 @@ Section 1. <i>Policy</i>. To the maximum extent consistent with applicable law, 
 
 Sec. 2. <i>Duties of Heads of Agencies Possessing or Acquiring Terrorism Information</i>. To implement the policy set forth in section 1 of this order, the head of each agency that possesses or acquires terrorism information:
 
-(a) shall promptly give access to the terrorism information to the head of each other agency that hascounterterrorism functions, and provide the terrorism information to each such agency, unless otherwise directed by the President, and consistent with (i) the statutory responsibilities of the agencies providing and receiving the information; (ii) any guidance issued by the Attorney General to fulfill the policy set forth in subsection 1(b) of this order; and (iii) other applicable law, including sections 102A(g) and (i) of the National Security Act of 1947 \[50 U.S.C. 403–1(g), (i)\], section 1016 of the Intelligence Reform and Terrorism Prevention Act of 2004 \[6 U.S.C. 485\] (including any policies, procedures, guidelines, rules, and standards issued pursuant thereto), sections 202 and 892 of the Homeland Security Act of 2002 \[6 U.S.C. 122, 482\], Executive Order 12958 of April 17, 1995, as amended \[50 U.S.C. 435 note\], and Executive Order 13311 of July 29, 2003 \[6 U.S.C. 482 note\]; and
+(a) shall promptly give access to the terrorism information to the head of each other agency that has counterterrorism functions, and provide the terrorism information to each such agency, unless otherwise directed by the President, and consistent with (i) the statutory responsibilities of the agencies providing and receiving the information; (ii) any guidance issued by the Attorney General to fulfill the policy set forth in subsection 1(b) of this order; and (iii) other applicable law, including sections 102A(g) and (i) of the National Security Act of 1947 \[50 U.S.C. 403–1(g), (i)\], section 1016 of the Intelligence Reform and Terrorism Prevention Act of 2004 \[6 U.S.C. 485\] (including any policies, procedures, guidelines, rules, and standards issued pursuant thereto), sections 202 and 892 of the Homeland Security Act of 2002 \[6 U.S.C. 122, 482\], Executive Order 12958 of April 17, 1995, as amended \[50 U.S.C. 435 note\], and Executive Order 13311 of July 29, 2003 \[6 U.S.C. 482 note\]; and
 
 (b) shall cooperate in and facilitate production of reports based on terrorism information with contents and formats that permit dissemination that maximizes the utility of the information in protecting the territory, people, and interests of the United States.
 
@@ -420,7 +420,7 @@ Sec. 7. <i>General Provisions</i>. (a) This order:
 
 (i) shall be implemented in a manner consistent with applicable law, including Federal law protecting the information privacy and other legal rights of Americans, and subject to the availability of appropriations;
 
-(ii) shall be implemented in a manner consistent with the authority of the principal officers of agencies as heads of their respective agencies, including under section 199 of the Revised Statutes (22 U.S.C. 2651), section 201 of the Department of Energy Organization Act (42 U.S.C. 7131), section 103 of the National Security Act of 1947 (50 U.S.C. 403–3), section 102(a) of the Homeland Security Act of 2002 (6 U.S.C. 112(a)), and sections 301 of title 5, 113(b) and 162(b) of title 10, 1501 of title 15, 503 of title 28, and 301(b) of title 31, United States Code;
+(ii) shall be implemented in a manner consistent with the authority of the principal officers of agencies as heads of their respective agencies, including under section 199 of the Revised Statutes (22 U.S.C. 2651), section 201 of the Department of Energy Organization Act (42 U.S.C. 7131), section 103 of the National Security Act of 1947 (50 U.S.C. 403–3), section 102(a) of the Homeland Security Act of 2002 (6 U.S.C. 112(a)), and sections 301 oftitle 5, 113(b) and 162(b) of title 10, 1501 of title 15, 503 of title 28, and 301(b) of title 31, United States Code;
 
 (iii) shall be implemented consistent with the Presidential Memorandum of June 2, 2005, on “Strengthening Information Sharing, Access, and Integration—Organizational, Management, and Policy Development Structures for Creating the Terrorism Information Sharing Environment;” \[not set out in the Code\]
 
@@ -456,7 +456,7 @@ Memorandum of President of the United States, Apr. 10, 2007, 72 F.R. 18561, prov
 
 Memorandum for the Director of National Intelligence
 
-By the authority vested in me as President by the Constitution and laws of the United States of America,including section 301 of title 3, United States Code, the functions of the President under section 1016(b) of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458) (the “Act”) are hereby assigned to the Director of National Intelligence (Director).
+By the authority vested in me as President by the Constitution and laws of the United States of America, including section 301 of title 3, United States Code, the functions of the President under section 1016(b) of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458) (the “Act”) are hereby assigned to the Director of National Intelligence (Director).
 
 The Director shall perform such functions in a manner consistent with direction and guidance issued by the President, including (1) the Memorandum for the Heads of Executive Departments and Agencies of June 2, 2005, entitled “Strengthening Information Sharing, Access, and Integration—Organizational, Management, and Policy Development Structures for Creating the Terrorism Information Sharing Environment,” and (2) the Memorandum for the Heads of Executive Departments and Agencies of December 16, 2005, entitled “Guidelines and Requirements in Support of the Information Sharing Environment;” provided that the Director shall ensure that the official within the Office of the Director of National Intelligence previously designated as the program manager responsible for information sharing across the Federal Government pursuant to the Act shall be the assistant to the Director in carrying out the functions delegated by this memorandum.
 

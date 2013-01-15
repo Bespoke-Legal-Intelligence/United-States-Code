@@ -50,7 +50,7 @@
 
 (f) An employee who is separated from the service after becoming 62 years of age and completing 5 years of service is entitled to an annuity.
 
-(g) A Member who is separated from the service after becoming 62 years of age and completing 5 years of civilian service or after becoming 60 years of age and completing 10 years of Member service is entitled to an annuity. A Memberwho is separated from the service after becoming 55 years of age (but before becoming 60 years of age) and completing 30 years of service is entitled to a reduced annuity. A Member who is separated from the service, except by resignation or expulsion, after completing 25 years of service or after becoming 50 years of age and (1) completing 20 years of service or (2) serving in 9 Congresses is entitled to an annuity.
+(g) A Member who is separated from the service after becoming 62 years of age and completing 5 years of civilian service or after becoming 60 years of age and completing 10 years of Member service is entitled to an annuity. A Member who is separated from the service after becoming 55 years of age (but before becoming 60 years of age) and completing 30 years of service is entitled to a reduced annuity. A Member who is separated from the service, except by resignation or expulsion, after completing 25 years of service or after becoming 50 years of age and (1) completing 20 years of service or (2) serving in 9 Congresses is entitled to an annuity.
 
 (h)(1) A member of the Senior Executive Service who is removed from the Senior Executive Service for less than fully successful executive performance (as determined under subchapter II of chapter 43 of this title) after completing 25 years of service or after becoming 50 years of age and completing 20 years of service is entitled to an annuity.
 
@@ -100,7 +100,7 @@
 
 &emsp;(A) the employee was employed by the tribal organization after January 4, 1975, and immediately before such employment he was an employee of the Bureau of Indian Affairs or the Indian Health Service, and
 
-&emsp;(B) at the time of such employment such employee and the tribal organization were eligible to elect, and elected, to have the employee retain the coverage, rights, and benefits of this chapter under section 105(e)(2) ofthe Indian Self-Determination Act (25 U.S.C. 450i(a)(2); <sup>3</sup> 88 Stat. 2209).
+&emsp;(B) at the time of such employment such employee and the tribal organization were eligible to elect, and elected, to have the employee retain the coverage, rights, and benefits of this chapter under section 105(e)(2) of the Indian Self-Determination Act (25 U.S.C. 450i(a)(2); <sup>3</sup> 88 Stat. 2209).
 
 (3)(A) The provisions of paragraph (1) of this subsection shall not apply with respect to any separation of any employee which occurs after the date 10 years after—
 
@@ -124,13 +124,13 @@
 
 (k) A bankruptcy judge, United States magistrate judge, or Court of Federal Claims judge who is separated from service, except by removal, after becoming 62 years of age and completing 5 years of civilian service, or after becoming 60 years of age and completing 10 years of service as a bankruptcy judge, United States magistrate judge, or Court of Federal Claims judge, is entitled to an annuity.
 
-(<i>l</i>) A judge of the United States Court of Appeals for the Armed Forces who is separated from the service after becoming 62 years of age and completing 5 years of civilian service or after completing the term of service for which he was appointed as a judge of such court is entitled to an annuity. A judge who is separated from the service before becoming 60 years of age is entitled to a reduced annuity.
+(l) A judge of the United States Court of Appeals for the Armed Forces who is separated from the service after becoming 62 years of age and completing 5 years of civilian service or after completing the term of service for which he was appointed as a judge of such court is entitled to an annuity. A judge who is separated from the service before becoming 60 years of age is entitled to a reduced annuity.
 
 (m) A member of the Capitol Police who is separated from the service after becoming 50 years of age and completing 20 years of service as a member of the Capitol Police as a law enforcement officer, or as a customs and border protection officer, or any combination of such service totaling at least 20 years, is entitled to an annuity.
 
 (n) A member of the Supreme Court Police who is separated from the service after becoming 50 years of age and completing 20 years of service as a member of the Supreme Court Police as a law enforcement officer, or as a customs and border protection officer, or any combination of such service totaling at least 20 years, is entitled to an annuity.
 
-(<i>o</i>) An annuity or reduced annuity authorized by this section is computed under section 8339 of this title.
+(o) An annuity or reduced annuity authorized by this section is computed under section 8339 of this title.
 
 (p)(1) The Secretary of Defense may, during fiscal years 2002 and 2003, carry out a program under which an employee of the Department of Defense may be separated from the service entitled to an immediate annuity under this subchapter if the employee—
 
@@ -196,7 +196,7 @@
 
 &emsp;&emsp;(iv) to reduce the number of high-grade, managerial, supervisory, or similar positions.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 571; Pub. L. 90–83, §1(75), Sept. 11, 1967, 81 Stat. 214; Pub. L. 92–297, §5, May 16, 1972, 86 Stat. 144; Pub. L. 92–382, Aug. 14, 1972, 86 Stat. 539; Pub. L. 93–39, June 12, 1973, 87 Stat. 73; Pub. L. 93–350, §5, July 12, 1974, 88 Stat. 356; Pub. L. 94–183, §2(40), (41), Dec. 31, 1975, 89 Stat. 1059; Pub. L. 95–454, title III, §306, title IV, §412(a), Oct. 13, 1978, 92 Stat. 1147, 1175; Pub. L. 96–70, title I, §1241(a), Sept. 27, 1979, 93 Stat. 471; Pub. L. 96–135, §1(a), Dec. 5, 1979, 93 Stat. 1056; Pub. L. 97–89, title VIII, §803, Dec. 4, 1981, 95 Stat. 1161; Pub. L. 97–253, title III, §308(a), Sept. 8, 1982, 96 Stat. 798; Pub. L. 98–94, title XII, §1256(b), Sept. 24, 1983, 97 Stat. 701; Pub. L. 98–353, title I, §116(c), July 10, 1984, 98 Stat. 344; Pub. L. 98–531, §2(b), Oct. 19, 1984, 98 Stat. 2704; Pub. L. 98–615, title III, §304(d), Nov. 8, 1984, 98 Stat. 3219; Pub. L. 99–190, §101(d) \[title III, §315\], Dec. 19, 1985, 99 Stat. 1224, 1266; Pub. L. 100–53, §2(c), June 18, 1987, 101 Stat. 368; Pub. L. 100–325, §2(<i>l</i>), May 30, 1988, 102 Stat. 582; Pub. L. 101–194, title V, §506(b)(7), Nov. 30, 1989, 103 Stat. 1758; Pub. L. 101–428, §2(a), Oct. 15, 1990, 104 Stat. 928; Pub. L. 101–510, div. C, title XXXV, §3506(a), Nov. 5, 1990, 104 Stat. 1846; Pub. L. 101–650, title III, §§306(c)(3), 321, Dec. 1, 1990, 104 Stat. 5110, 5117; Pub. L. 102–572, title IX, §902(b)(2), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–337, div. A, title IX, §924(d)(1)(A), Oct. 5, 1994, 108 Stat. 2832; Pub. L. 105–261, div. A, title XI, §1109(a), div. C, title XXXI, §3154(e), Oct. 17, 1998, 112 Stat. 2143, 2255; Pub. L. 106–58, title VI, §651(b), Sept. 29, 1999, 113 Stat. 480; Pub. L. 106–398, §1 \[\[div. A\], title XI, §1152(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–320; Pub. L. 106–553, §1(a)(2) \[title III, §308(b)(3)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–87; Pub. L. 107–107, div. A, title X, §1048(i)(5), Dec. 28, 2001, 115 Stat. 1229; Pub. L. 107–296, title XIII, §§1313(b)(1), 1321(a)(4)(A), Nov. 25, 2002, 116 Stat. 2294, 2297; Pub. L. 110–161, div. E, title V, §535(a)(4), Dec. 26, 2007, 121 Stat. 2075.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 571; Pub. L. 90–83, §1(75), Sept. 11, 1967, 81 Stat. 214; Pub. L. 92–297, §5, May 16, 1972, 86 Stat. 144; Pub. L. 92–382, Aug. 14, 1972, 86 Stat. 539; Pub. L. 93–39, June 12, 1973, 87 Stat. 73; Pub. L. 93–350, §5, July 12, 1974, 88 Stat. 356; Pub. L. 94–183, §2(40), (41), Dec. 31, 1975, 89 Stat. 1059; Pub. L. 95–454, title III, §306, title IV, §412(a), Oct. 13, 1978, 92 Stat. 1147, 1175; Pub. L. 96–70, title I, §1241(a), Sept. 27, 1979, 93 Stat. 471; Pub. L. 96–135, §1(a), Dec. 5, 1979, 93 Stat. 1056; Pub. L. 97–89, title VIII, §803, Dec. 4, 1981, 95 Stat. 1161; Pub. L. 97–253, title III, §308(a), Sept. 8, 1982, 96 Stat. 798; Pub. L. 98–94, title XII, §1256(b), Sept. 24, 1983, 97 Stat. 701; Pub. L. 98–353, title I, §116(c), July 10, 1984, 98 Stat. 344; Pub. L. 98–531, §2(b), Oct. 19, 1984, 98 Stat. 2704; Pub. L. 98–615, title III, §304(d), Nov. 8, 1984, 98 Stat. 3219; Pub. L. 99–190, §101(d) \[title III, §315\], Dec. 19, 1985, 99 Stat. 1224, 1266; Pub. L. 100–53, §2(c), June 18, 1987, 101 Stat. 368; Pub. L. 100–325, §2(l), May 30, 1988, 102 Stat. 582; Pub. L. 101–194, title V, §506(b)(7), Nov. 30, 1989, 103 Stat. 1758; Pub. L. 101–428, §2(a), Oct. 15, 1990, 104 Stat. 928; Pub. L. 101–510, div. C, title XXXV, §3506(a), Nov. 5, 1990, 104 Stat. 1846; Pub. L. 101–650, title III, §§306(c)(3), 321, Dec. 1, 1990, 104 Stat. 5110, 5117; Pub. L. 102–572, title IX, §902(b)(2), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–337, div. A, title IX, §924(d)(1)(A), Oct. 5, 1994, 108 Stat. 2832; Pub. L. 105–261, div. A, title XI, §1109(a), div. C, title XXXI, §3154(e), Oct. 17, 1998, 112 Stat. 2143, 2255; Pub. L. 106–58, title VI, §651(b), Sept. 29, 1999, 113 Stat. 480; Pub. L. 106–398, §1 \[\[div. A\], title XI, §1152(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–320; Pub. L. 106–553, §1(a)(2) \[title III, §308(b)(3)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–87; Pub. L. 107–107, div. A, title X, §1048(i)(5), Dec. 28, 2001, 115 Stat. 1229; Pub. L. 107–296, title XIII, §§1313(b)(1), 1321(a)(4)(A), Nov. 25, 2002, 116 Stat. 2294, 2297; Pub. L. 110–161, div. E, title V, §535(a)(4), Dec. 26, 2007, 121 Stat. 2075.)
 
 Historical and Revision Notes<br>1966
 
@@ -266,27 +266,27 @@ Subsecs. (m), (n). Pub. L. 110–161, §535(a)(4)(B), substituted “as a law en
 
 Subsec. (h)(1). Pub. L. 107–296, §1321(a)(4)(A), struck out “for failure to be recertified as a senior executive under section 3393a or” before “for less than”.
 
-<b>2001</b>—Subsec. (d)(2). Pub. L. 107–107, §1048(i)(5)(A), substituted “subsection (p)” for “subsection (<i>o</i>)” in introductory provisions.
+<b>2001</b>—Subsec. (d)(2). Pub. L. 107–107, §1048(i)(5)(A), substituted “subsection (p)” for “subsection (o)” in introductory provisions.
 
-Subsecs. (<i>o</i>), (p). Pub. L. 107–107, §1048(i)(5)(B), redesignated subsec. (<i>o</i>), relating to Department of Defense employees, as (p).
+Subsecs. (o), (p). Pub. L. 107–107, §1048(i)(5)(B), redesignated subsec. (o), relating to Department of Defense employees, as (p).
 
-<b>2000</b>—Subsec. (d)(2). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1152(a)(1)\], inserted “except in the case of an employee who is separated from the service under a program carried out under subsection (<i>o</i>),” before “while serving” in introductory provisions.
+<b>2000</b>—Subsec. (d)(2). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1152(a)(1)\], inserted “except in the case of an employee who is separated from the service under a program carried out under subsection (o),” before “while serving” in introductory provisions.
 
-Subsec. (n). Pub. L. 106–553 added subsec. (n). Former subsec. (n), relating to computation of annuity under section 8339 of this title, redesignated (<i>o</i>).
+Subsec. (n). Pub. L. 106–553 added subsec. (n). Former subsec. (n), relating to computation of annuity under section 8339 of this title, redesignated (o).
 
-Subsec. (<i>o</i>). Pub. L. 106–553 redesignated subsec. (n), relating to computation of annuity under section 8339 of this title, as (<i>o</i>).
+Subsec. (o). Pub. L. 106–553 redesignated subsec. (n), relating to computation of annuity under section 8339 of this title, as (o).
 
-Pub. L. 106–398, §1 \[\[div. A\], title XI, §1152(a)(2)\], added subsec. (<i>o</i>) relating to Department of Defense employees.
+Pub. L. 106–398, §1 \[\[div. A\], title XI, §1152(a)(2)\], added subsec. (o) relating to Department of Defense employees.
 
-<b>1999</b>—Subsecs. (d)(2), (<i>o</i>). Pub. L. 106–58 repealed Pub. L. 105–261, §1109(a). See 1998 Amendment notes below.
+<b>1999</b>—Subsecs. (d)(2), (o). Pub. L. 106–58 repealed Pub. L. 105–261, §1109(a). See 1998 Amendment notes below.
 
 <b>1998</b>—Subsec. (c)(1). Pub. L. 105–261, §3154(e), substituted “, firefighter, or nuclear materials courier” for “or firefighter”.
 
-Subsec. (d)(2). Pub. L. 105–261, §1109(a)(1), which directed insertion of “except in the case of an employee described in subsection (<i>o</i>)(1),” after “(2)”, was repealed by Pub. L. 106–58.
+Subsec. (d)(2). Pub. L. 105–261, §1109(a)(1), which directed insertion of “except in the case of an employee described in subsection (o)(1),” after “(2)”, was repealed by Pub. L. 106–58.
 
-Subsec. (<i>o</i>). Pub. L. 105–261, §1109(a)(2), which directed addition of subsec. (<i>o</i>), relating to authority of Department of Defense to offer employees voluntary early retirement, was repealed by Pub. L. 106–58.
+Subsec. (o). Pub. L. 105–261, §1109(a)(2), which directed addition of subsec. (o), relating to authority of Department of Defense to offer employees voluntary early retirement, was repealed by Pub. L. 106–58.
 
-<b>1994</b>—Subsec. (<i>l</i>). Pub. L. 103–337 substituted “Court of Appeals for the Armed Forces” for “Court of Military Appeals”.
+<b>1994</b>—Subsec. (l). Pub. L. 103–337 substituted “Court of Appeals for the Armed Forces” for “Court of Military Appeals”.
 
 <b>1992</b>—Subsec. (k). Pub. L. 102–572 substituted “Court of Federal Claims” for “Claims Court” in two places.
 
@@ -308,15 +308,15 @@ Subsec. (h)(2), (3). Pub. L. 101–194, §506(b)(7)(B), (C), substituted “for 
 
 <b>1984</b>—Subsec. (d). Pub. L. 98–615 inserted provision that for purposes of par. (1), separation for failure to accept a directed reassignment to a position outside the commuting area of the employee concerned or to accompany a position outside of such area pursuant to a transfer of function shall not be considered to be a removal for cause on charges of misconduct or delinquency.
 
-Subsec. (k). Pub. L. 98–353, §116(c), added subsec. (k). Former subsec. (k) redesignated (<i>l</i>).
+Subsec. (k). Pub. L. 98–353, §116(c), added subsec. (k). Former subsec. (k) redesignated (l).
 
-Subsec. (<i>l</i>). Pub. L. 98–531 redesignated the subsec. (<i>l</i>), which was redesignated by Pub. L. 98–94, as (m).
+Subsec. (l). Pub. L. 98–531 redesignated the subsec. (l), which was redesignated by Pub. L. 98–94, as (m).
 
-Pub. L. 98–353, §116(c)(1), redesignated subsec. (k) as (<i>l</i>).
+Pub. L. 98–353, §116(c)(1), redesignated subsec. (k) as (l).
 
-Subsec. (m). Pub. L. 98–531 redesignated the subsec. (<i>l</i>), which was redesignated by Pub. L. 98–94, as (m).
+Subsec. (m). Pub. L. 98–531 redesignated the subsec. (l), which was redesignated by Pub. L. 98–94, as (m).
 
-<b>1983</b>—Subsecs. (k), (<i>l</i>). Pub. L. 98–94 added subsec. (k) and redesignated former subsec. (k) as (<i>l</i>).
+<b>1983</b>—Subsecs. (k), (l). Pub. L. 98–94 added subsec. (k) and redesignated former subsec. (k) as (l).
 
 <b>1982</b>—Subsec. (d). Pub. L. 97–253, §308(a), inserted provision that the agency which is undergoing a major reorganization, a major reduction in force, or a major transfer of function must have a significant percent of its employees who will be separated or subject to an immediate reduction in the rate of basic pay and inserted provision that notwithstanding the first sentence of this subsection, an employee described in paragraph (1) of this subsection is not entitled to an annuity under this subsection if the employee has declined a reasonable offer of another position in the employee's agency for which the employee is qualified, which is not lower than 2 grades (or pay levels) below the employee's grade (or pay level), and which is within the employee's commuting area.
 
@@ -428,7 +428,7 @@ Pub. L. 107–296, title XIII, §1313(b)(5), Nov. 25, 2002, 116 Stat. 2296, prov
 
 #### Termination of United States District Court for the District of the Canal Zone
 
-For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203(a) of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
+For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203(a) of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified tosections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
 
 #### Government Accountability Office: Voluntary Early Retirement
 

@@ -44,7 +44,7 @@
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, known as the Tribally Controlled Colleges and Universities Assistance Act of 1978, which enacted this chapter and section 640c–1 of this title, amended section 640c of this title, and enacted provisions set out as notes under sections 640a, 640c–1, and 1801 of this title. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, known as the Tribally ControlledColleges and Universities Assistance Act of 1978, which enacted this chapter and section 640c–1 of this title, amended section 640c of this title, and enacted provisions set out as notes under sections 640a, 640c–1, and 1801 of this title. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 The Alaskan Native Claims Settlement Act, referred to in subsec. (a)(2), probably means the Alaska Native Claims Settlement Act, Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
@@ -90,7 +90,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Short Title of 1986 Amendment
 
-Section 1 of Pub. L. 99–428 provided that: “This Act \[amending this section and sections 640c–1, 1808 to 1810, 1812, 1813, and 1836 of this title\] may be cited as the ‘Tribally Controlled Community College Assistance Amendments of 1986’.”
+Pub. L. 99–428, §1, Sept. 30, 1986, 100 Stat. 982, provided that: “This Act \[amending this section and sections 640c–1, 1808 to 1810, 1812, 1813, and 1836 of this title\] may be cited as the ‘Tribally Controlled Community College Assistance Amendments of 1986’.”
 
 #### Short Title
 

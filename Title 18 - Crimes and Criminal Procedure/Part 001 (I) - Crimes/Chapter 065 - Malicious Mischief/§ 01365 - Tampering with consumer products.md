@@ -60,7 +60,7 @@
 
 &emsp;&emsp;(E) any other injury to the body, no matter how temporary.
 
-(Added Pub. L. 98–127, §2, Oct. 13, 1983, 97 Stat. 831; amended Pub. L. 101–647, title XXXV, §3544, Nov. 29, 1990, 104 Stat. 4926; Pub. L. 103–322, title XXXIII, §330016(1)(L), (O), (Q), (S), Sept. 13, 1994, 108 Stat. 2147, 2148; Pub. L. 107–307, §2, Dec. 2, 2002, 116 Stat. 2445.)
+(Added Pub. L. 98–127, §2, Oct. 13, 1983, 97 Stat. 831; amended Pub. L. 101–647, title XXXV, §3544,Nov. 29, 1990, 104 Stat. 4926; Pub. L. 103–322, title XXXIII, §330016(1)(L), (O), (Q), (S), Sept. 13, 1994, 108 Stat. 2147, 2148; Pub. L. 107–307, §2, Dec. 2, 2002, 116 Stat. 2445.)
 
 #### Codification
 
@@ -88,5 +88,5 @@ Pub. L. 107–307, §1, Dec. 2, 2002, 116 Stat. 2445, provided that: “This Act
 
 #### Short Title
 
-Section 1 of Pub. L. 98–127 provided: “That this Act \[enacting this section and section 155A of Title 35, Patents\] may be cited as the ‘Federal Anti-Tampering Act’.”
+Pub. L. 98–127, §1, Oct. 13, 1983, 97 Stat. 831, provided: “That this Act \[enacting this section and section 155A of Title 35, Patents\] may be cited as the ‘Federal Anti-Tampering Act’.”
 

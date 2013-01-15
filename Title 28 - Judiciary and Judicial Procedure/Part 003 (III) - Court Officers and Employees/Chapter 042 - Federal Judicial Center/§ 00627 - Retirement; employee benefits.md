@@ -12,7 +12,7 @@ Upon the retirement of a Director who has elected coverage under this section an
 
 (e) Each annuity payable under this section shall be increased by the same percentage amount and effective on the same date as annuities payable under chapter 83 of title 5, are increased as provided by section 8340 of title 5.
 
-(Added Pub. L. 90–219, title I, §101, Dec. 20, 1967, 81 Stat. 666; amended Pub. L. 100–702, title X, §§1004(a), 1006(a)(2), Nov. 19, 1988, 102 Stat. 4665, 4666; Pub. L. 104–317, title VI, §604, Oct. 19, 1996,110 Stat. 3857; Pub. L. 106–518, title III, §§301(b), 312(a), Nov. 13, 2000, 114 Stat. 2416, 2421.)
+(Added Pub. L. 90–219, title I, §101, Dec. 20, 1967, 81 Stat. 666; amended Pub. L. 100–702, title X, §§1004(a), 1006(a)(2), Nov. 19, 1988, 102 Stat. 4665, 4666; Pub. L. 104–317, title VI, §604, Oct. 19, 1996, 110 Stat. 3857; Pub. L. 106–518, title III, §§301(b), 312(a), Nov. 13, 2000, 114 Stat. 2416, 2421.)
 
 #### Amendments
 

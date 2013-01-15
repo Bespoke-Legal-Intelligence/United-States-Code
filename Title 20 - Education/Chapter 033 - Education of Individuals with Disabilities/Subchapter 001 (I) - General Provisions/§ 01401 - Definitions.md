@@ -64,7 +64,7 @@ Except as otherwise provided, in this chapter:
 
 #### (6) Elementary school
 
-&emsp;The term “elementary school” means a nonprofit institutional day or residential school, including a public elementary charter school, that provides elementary education, as determined under State law.
+&emsp;The term “elementary school” means a nonprofit institutional day or residential school,including a public elementary charter school, that provides elementary education, as determined under State law.
 
 #### (7) Equipment
 
@@ -114,7 +114,7 @@ Except as otherwise provided, in this chapter:
 
 &emsp;&emsp;When used with respect to any public elementary school or secondary school special education teacher teaching in a State, such term means that—
 
-&emsp;&emsp;&emsp;(i) the teacher has obtained full State certification as a special education teacher (including certification obtained through alternative routes to certification), or passed the State special education teacher licensing examination, and holds a license to teach in the State as a special education teacher, except that when used withrespect to any teacher teaching in a public charter school, the term means that the teacher meets the requirements set forth in the State's public charter school law;
+&emsp;&emsp;&emsp;(i) the teacher has obtained full State certification as a special education teacher (including certification obtained through alternative routes to certification), or passed the State special education teacher licensing examination, and holds a license to teach in the State as a special education teacher, except that when used with respect to any teacher teaching in a public charter school, the term means that the teacher meets the requirements set forth in the State's public charter school law;
 
 &emsp;&emsp;&emsp;(ii) the teacher has not had special education certification or licensure requirements waived on an emergency, temporary, or provisional basis; and
 
@@ -186,7 +186,7 @@ Except as otherwise provided, in this chapter:
 
 #### (A) In general
 
-&emsp;&emsp;The term “local educational agency” means a public board of education or otherpublic authority legally constituted within a State for either administrative control or direction of, or to perform a service function for, public elementary schools or secondary schools in a city, county, township, school district, or other political subdivision of a State, or for such combination of school districts or counties as are recognized in a State as an administrative agency for its public elementary schools or secondary schools.
+&emsp;&emsp;The term “local educational agency” means a public board of education or other public authority legally constituted within a State for either administrative control or direction of, or to perform a service function for, public elementary schools or secondary schools in a city, county, township, school district, or other political subdivision of a State, or for such combination of school districts or counties as are recognized in a State as an administrative agency for its public elementary schools or secondary schools.
 
 #### (B) Educational service agencies and other public institutions or agencies
 
@@ -210,7 +210,7 @@ Except as otherwise provided, in this chapter:
 
 #### (22) Outlying area
 
-&emsp;The term “outlying area” means the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+&emsp;The term “outlying area” means the United States Virgin Islands, Guam, AmericanSamoa, and the Commonwealth of the Northern Mariana Islands.
 
 #### (23) Parent
 

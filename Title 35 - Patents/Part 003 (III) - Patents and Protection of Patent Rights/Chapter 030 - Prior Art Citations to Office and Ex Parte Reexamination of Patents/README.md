@@ -2,7 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [301\.](%C2%A7%2000301%20-%20Citation%20of%20prior%20art.md) | Citation of prior art. |
+| [301\.](%C2%A7%2000301%20-%20Citation%20of%20prior%20art%20and%20written%20statements.md) | Citation of prior art and written statements. |
 | [302\.](%C2%A7%2000302%20-%20Request%20for%20reexamination.md) | Request for reexamination. |
 | [303\.](%C2%A7%2000303%20-%20Determination%20of%20issue%20by%20Director.md) | Determination of issue by Director. |
 | [304\.](%C2%A7%2000304%20-%20Reexamination%20order%20by%20Director.md) | Reexamination order by Director. |
@@ -11,18 +11,6 @@
 | [307\.](%C2%A7%2000307%20-%20Certificate%20of%20patentability%2C%20unpatentability%2C%20and%20claim%20cancellation.md) | Certificate of patentability, unpatentability, and claim cancellation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Amendment of Analysis
-
-<i>Pub. L. 112–29, §6(g)(2), (3), Sept. 16, 2011, 125 Stat. 312, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to any patent issued before, on, or after that effective date, the item relating to section 301 in this analysis is amended to read as follows:</i>
-
-|  |  |
-| :--- | ---: |
-| <i>301.</i> | <i>Citation of prior art and written statements.</i> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<i>See 2011 Amendment note below.</i>
 
 #### Amendments
 
@@ -39,7 +27,7 @@ Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4602, 4732(a)(9)(B)\], N
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 00301 - Citation of prior art](%C2%A7%2000301%20-%20Citation%20of%20prior%20art.md)
+- [&sect; 00301 - Citation of prior art and written statements](%C2%A7%2000301%20-%20Citation%20of%20prior%20art%20and%20written%20statements.md)
 - [&sect; 00302 - Request for reexamination](%C2%A7%2000302%20-%20Request%20for%20reexamination.md)
 - [&sect; 00303 - Determination of issue by Director](%C2%A7%2000303%20-%20Determination%20of%20issue%20by%20Director.md)
 - [&sect; 00304 - Reexamination order by Director](%C2%A7%2000304%20-%20Reexamination%20order%20by%20Director.md)

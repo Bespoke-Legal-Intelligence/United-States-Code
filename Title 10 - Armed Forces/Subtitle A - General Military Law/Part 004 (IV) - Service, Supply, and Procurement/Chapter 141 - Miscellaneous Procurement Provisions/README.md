@@ -3,7 +3,7 @@
 | Sec. |  |
 | :--- | ---: |
 | [2381\.](%C2%A7%2002381%20-%20Contracts%20regulations%20for%20bids.md) | Contracts: regulations for bids. |
-| [2382\.](%C2%A7%2002382%20-%20Consolidation%20of%20contract%20requirements%20policy%20and%20restrictions.md) | Consolidation of contract requirements: policy and restrictions. |
+| \[2382. | Repealed.\] |
 | [2383\.](%C2%A7%2002383%20-%20Contractor%20performance%20of%20acquisition%20functions%20closely%20associated%20with%20inherently%20governmental%20functions.md) | Contractor performance of acquisition functions closely associated with inherently governmental functions. |
 | [2384\.](%C2%A7%2002384%20-%20Supplies%20identification%20of%20supplier%20and%20sources.md) | Supplies: identification of supplier and sources. |
 | [2384a.](%C2%A7%2002384a%20-%20Supplies%20economic%20order%20quantities.md) | Supplies: economic order quantities. |
@@ -41,7 +41,7 @@
 | [2410i.](%C2%A7%2002410i%20-%20Prohibition%20on%20contracting%20with%20entities%20that%20comply%20with%20the%20secondary%20Arab%20boycott%20of%20Israel.md) | Prohibition on contracting with entities that comply with the secondary Arab boycott of Israel. |
 | [2410j.](%C2%A7%2002410j%20-%20Displaced%20contractor%20employees%20assistance%20to%20obtain%20certification%20and%20employment%20as%20teachers%20or%20employment%20as%20teachers%E2%80%99%20aides.md) | Displaced contractor employees: assistance to obtain certification and employment as teachers or employment as teachers’ aides. |
 | [2410k.](%C2%A7%2002410k%20-%20Defense%20contractors%20listing%20of%20suitable%20employment%20openings%20with%20local%20employment%20service%20office.md) | Defense contractors: listing of suitable employment openings with local employment service office. |
-| 2410<i>l</i>. | Contracts for advisory and assistance services: cost comparison studies. |
+| [2410l.](%C2%A7%2002410l%20-%20Contracts%20for%20advisory%20and%20assistance%20services%20cost%20comparison%20studies.md) | Contracts for advisory and assistance services: cost comparison studies. |
 | [2410m.](%C2%A7%2002410m%20-%20Retention%20of%20amounts%20collected%20from%20contractor%20during%20the%20pendency%20of%20contract%20dispute.md) | Retention of amounts collected from contractor during the pendency of contract dispute. |
 | [2410n.](%C2%A7%2002410n%20-%20Products%20of%20Federal%20Prison%20Industries%20procedural%20requirements.md) | Products of Federal Prison Industries: procedural requirements. |
 | 2410<i>o.</i> | Multiyear procurement authority: purchase of dinitrogen tetroxide, hydrazine, and hydrazine-related products. |
@@ -52,11 +52,13 @@
 
 #### Amendments
 
+<b>2013</b>—Pub. L. 112–239, div. A, title XVI, §1671(c)(1), Jan. 2, 2013, 126 Stat. 2084, struck out item 2382 “Consolidation of contract requirements: policy and restrictions”.
+
 <b>2008</b>—Pub. L. 110–181, div. A, title VIII, §828(b), title X, §1063(a)(11), Jan. 28, 2008, 122 Stat. 229, 322, inserted period at end of item 2410p and added item 2410q.
 
 <b>2006</b>—Pub. L. 109–364, div. A, title VIII, §807(a)(2), div. B, title XXVIII, §2851(c)(2), Oct. 17, 2006, 120 Stat. 2315, 2495, added item 2410p and struck out items 2388 “Liquid fuels and natural gas: contracts for storage, handling, or distribution”, 2394 “Contracts for energy or fuel for military installations”, 2394a “Procurement of energy systems using renewable forms of energy”, 2398 “Procurement of gasohol as motor vehicle fuel”, 2398a “Procurement of fuel derived from coal, oil shale, and tar sands”, 2404 “Acquisition of certain fuel sources: authority to waive contract procedures; acquisition by exchange; sales authority”, and 2410c “Preference for energy efficient electric equipment”.
 
-Pub. L. 109–163, div. A, title VIII, §815(d)(2), Jan. 6, 2006, 119 Stat. 3382, substituted “Requirement for authorization by law of certain contracts relating to vessels, aircraft, and combat vehicles” for “Requirementfor authorization by law of certain contracts relating to vessels and aircraft” in item 2401.
+Pub. L. 109–163, div. A, title VIII, §815(d)(2), Jan. 6, 2006, 119 Stat. 3382, substituted “Requirement for authorization by law of certain contracts relating to vessels, aircraft, and combat vehicles” for “Requirement for authorization by law of certain contracts relating to vessels and aircraft” in item 2401.
 
 <b>2005</b>—Pub. L. 109–58, title III, §369(q)(2), Aug. 8, 2005, 119 Stat. 733, added item 2398a.
 
@@ -76,7 +78,7 @@ Pub. L. 109–163, div. A, title VIII, §815(d)(2), Jan. 6, 2006, 119 Stat. 3382
 
 <b>1994</b>—Pub. L. 103–355, title II, §§2102(b), 2201(b)(2), 2301(c), title III, §3065(a)(2), title VI, §6005(b)(2), Oct. 13, 1994, 108 Stat. 3309, 3318, 3321, 3337, 3365, added item 2401a, struck out items 2382 “Contract profit controls during emergency periods”, 2406 “Availability of cost and pricing records”, 2409a “Communicating with Government officials: defense contractor requirement to prohibit retaliatory personnel actions”, and 2410e “Contract claims: certification regulations”, and substituted in item 2410 “Requests for equitable adjustment or other relief: certification” for “Contract claims: certification”.
 
-Pub. L. 103–337, div. A, title III, §363(a)(2), Oct. 5, 1994, 108 Stat. 2734, added item 2410<i>l</i>.
+Pub. L. 103–337, div. A, title III, §363(a)(2), Oct. 5, 1994, 108 Stat. 2734, added item 2410l.
 
 <b>1993</b>—Pub. L. 103–160, div. A, title VIII, §828(a)(3), (c)(3), (4), Nov. 30, 1993, 107 Stat. 1713, 1714, substituted “Liquid fuels and natural gas: contracts for storage, handling, or distribution” for “Liquid fuels: contracts for storage, handling, and distribution” in item 2388, struck out item 2389 “Contracts for the procurement of milk: price adjustments; purchases from the Commodity Credit Corporation”, and inserted “and natural gas” and “; acquisition by exchange; sales authority” in item 2404.
 
@@ -134,7 +136,7 @@ Pub. L. 97–214, §6(a)(2), July 12, 1982, 96 Stat. 172, added item 2394.
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 02381 - Contracts regulations for bids](%C2%A7%2002381%20-%20Contracts%20regulations%20for%20bids.md)
-- [&sect; 02382 - Consolidation of contract requirements policy and restrictions](%C2%A7%2002382%20-%20Consolidation%20of%20contract%20requirements%20policy%20and%20restrictions.md)
+- [&sect; 02382 - Repealed. Pub. L. 112&#8211;239, div. A, title XVI, &sect;1671(c)(1), Jan. 2, 2013, 126 Stat. 2084](%C2%A7%2002382%20-%20Repealed.%20Pub.%20L.%20112%E2%80%93239%2C%20div.%20A%2C%20title%20XVI%2C%20%C2%A71671%28c%29%281%29%2C%20Jan.%202%2C%202013%2C%20126%20Stat.%202084.md)
 - [&sect; 02383 - Contractor performance of acquisition functions closely associated with inherently governmental functions](%C2%A7%2002383%20-%20Contractor%20performance%20of%20acquisition%20functions%20closely%20associated%20with%20inherently%20governmental%20functions.md)
 - [&sect; 02384 - Supplies identification of supplier and sources](%C2%A7%2002384%20-%20Supplies%20identification%20of%20supplier%20and%20sources.md)
 - [&sect; 02384a - Supplies economic order quantities](%C2%A7%2002384a%20-%20Supplies%20economic%20order%20quantities.md)

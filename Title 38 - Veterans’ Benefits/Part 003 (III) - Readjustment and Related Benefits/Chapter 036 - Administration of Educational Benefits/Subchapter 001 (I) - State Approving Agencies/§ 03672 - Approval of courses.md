@@ -90,7 +90,7 @@ Amendment by Pub. L. 111–377 effective Aug. 1, 2011, see section 203(e) of Pub
 
 #### Effective Date of 1994 Amendment
 
-Section 605(b) of Pub. L. 103–446 provided that: “The amendments made by subsection (a) \[amending this section and sections 3675, 3680, and 3686 of this title\] shall apply with respect to programs of education exclusively by correspondence and to correspondence-residence courses commencing more than 90 days after the date of the enactment of this Act \[Nov. 2, 1994\].”
+Pub. L. 103–446, title VI, §605(b), Nov. 2, 1994, 108 Stat. 4672, provided that: “The amendments made by subsection (a) \[amending this section and sections 3675, 3680, and 3686 of this title\] shall apply with respect to programs of education exclusively by correspondence and to correspondence-residence courses commencing more than 90 days after the date of the enactment of this Act \[Nov. 2, 1994\].”
 
 #### Effective Date of 1980 Amendment
 

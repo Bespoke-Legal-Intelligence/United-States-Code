@@ -48,13 +48,13 @@ In the case of any article or merchandise imported from a country which is not a
 
 &emsp;(1) no determination by the Commission under section 1671b(a), 1671c, or 1671d(b) of this title shall be required,
 
-&emsp;(2) an investigation may not be suspended under section 1671c(c) or 1671c(<i>l</i>) of this title,
+&emsp;(2) an investigation may not be suspended under section 1671c(c) or 1671c(l) of this title,
 
 &emsp;(3) no determination as to the presence of critical circumstances shall be made under section 1671b(e) or 1671d(a)(2) of this title,
 
 &emsp;(4) section 1671e(c) of this title shall not apply,
 
-&emsp;(5) any reference to a determination described in paragraph (1) or (3), or to the suspension of an investigation under section 1671c(c) or 1671c(<i>l</i>) of this title, shall be disregarded, and
+&emsp;(5) any reference to a determination described in paragraph (1) or (3), or to the suspension of an investigation under section 1671c(c) or 1671c(l) of this title, shall be disregarded, and
 
 &emsp;(6) section 1675(c) of this title shall not apply.
 
@@ -66,9 +66,21 @@ For purposes of this part, if the members (or other participating entities) of a
 
 Whenever the administering authority has reasonable grounds to believe or suspect that an upstream subsidy, as defined in section 1677–1(a)(1) <sup>1</sup> of this title, is being paid or bestowed, the administering authority shall investigate whether an upstream subsidy has in fact been paid or bestowed, and if so, shall include the amount of the upstream subsidy as provided in section 1677–1(a)(3) <sup>2</sup> of this title.
 
-(June 17, 1930, ch. 497, title VII, §701, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 151; amended Pub. L. 98–573, title VI, §§602(a)(1), 613(b), Oct. 30, 1984, 98 Stat. 3024, 3035; Pub. L. 99–514, title XVIII, §1886(a)(1), Oct. 22, 1986, 100 Stat. 2921; Pub. L. 100–418, title I, §§1314, 1315, Aug. 23, 1988, 102 Stat. 1185; Pub. L. 100–647, title IX, §9001(a)(9), Nov. 10, 1988, 102 Stat. 3807; Pub. L. 103–465, title II, §§233(a)(5)(A), 261(d)(1)(B)(iii), 262, 270(b)(1)(A), Dec. 8, 1994, 108 Stat. 4899, 4910, 4917.)
+#### (f) Applicability to proceedings involving nonmarket economy countries
+
+#### (1) In general
+
+&emsp;Except as provided in paragraph (2), the merchandise on which countervailing duties shall be imposed under subsection (a) includes a class or kind of merchandise imported, or sold (or likely to be sold) for importation, into the United States from a nonmarket economy country.
+
+#### (2) Exception
+
+&emsp;A countervailing duty is not required to be imposed under subsection (a) on a class or kind of merchandise imported, or sold (or likely to be sold) for importation, into the United States from a nonmarket economy country if the administering authority is unable to identify and measure subsidies provided by the government of the nonmarket economy country or a public entity within the territory of the nonmarket economy country because the economy of that country is essentially comprised of a single entity.
+
+(June 17, 1930, ch. 497, title VII, §701, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 151; amended Pub. L. 98–573, title VI, §§602(a)(1), 613(b), Oct. 30, 1984, 98 Stat. 3024, 3035; Pub. L. 99–514, title XVIII, §1886(a)(1), Oct. 22, 1986, 100 Stat. 2921; Pub. L. 100–418, title I, §§1314, 1315, Aug. 23, 1988, 102 Stat. 1185; Pub. L. 100–647, title IX, §9001(a)(9), Nov. 10, 1988, 102 Stat. 3807; Pub. L. 103–465, title II, §§233(a)(5)(A), 261(d)(1)(B)(iii), 262, 270(b)(1)(A), Dec. 8, 1994, 108 Stat. 4899, 4910, 4917; Pub. L. 112–99, §1(a), Mar. 13, 2012, 126 Stat. 265.)
 
 #### Amendments
+
+<b>2012</b>—Subsec. (f). Pub. L. 112–99 added subsec. (f).
 
 <b>1994</b>—Subsecs. (a) to (c). Pub. L. 103–465, §262, amended subsecs. (a) to (c) generally, substituting present provisions for provisions which generally authorized the imposition of countervailing duties, defined “country under the Agreement”, and provided for revocation of status as country under the Agreement.
 
@@ -100,11 +112,21 @@ Subsec. (a)(2). Pub. L. 98–573, §602(a)(1)(B), inserted “or by reason of sa
 
 Subsec. (g). Pub. L. 98–573, §613(b), added subsec. (g).
 
+#### Effective Date of 2012 Amendment
+
+Pub. L. 112–99, §1(b), Mar. 13, 2012, 126 Stat. 265, provided that: “Subsection (f) of section 701 of the Tariff Act of 1930 \[19 U.S.C. 1671(f)\], as added by subsection (a) of this section, applies to—
+
+&emsp;“(1) all proceedings initiated under subtitle A of title VII of that Act (19 U.S.C. 1671 et seq.) on or after November 20, 2006;
+
+&emsp;“(2) all resulting actions by U.S. Customs and Border Protection; and
+
+&emsp;“(3) all civil actions, criminal proceedings, and other proceedings before a Federal court relating to proceedings referred to in paragraph (1) or actions referred to in paragraph (2).”
+
 #### Effective Date of 1994 Amendment
 
 Amendment by section 261(d)(1)(B)(iii) of Pub. L. 103–465 effective on the effective date of title II of Pub. L. 103–465, Jan. 1, 1995, see section 261(d)(2) of Pub. L. 103–465, set out as a note under section 1315 of this title.
 
-Section 291 of title II of Pub. L. 103–465 provided that:
+Pub. L. 103–465, title II, §291, Dec. 8, 1994, 108 Stat. 4931, provided that:
 
 “(a)
 
@@ -140,7 +162,7 @@ Date Described.—The date described in this subsection is the date on which the
 
 Amendment by Pub. L. 100–647 applicable as if such amendment took effect on Aug. 23, 1988, see section 9001(b) of Pub. L. 100–647, set out as an Effective and Termination Dates of 1988 Amendments note under section 58c of this title.
 
-Section 1337 of Pub. L. 100–418, as amended by Pub. L. 100–647, title IX, §9001(a)(6), Nov. 10, 1988, 102 Stat. 3807, provided that:
+Pub. L. 100–418, title I, §1337, Aug. 23, 1988, 102 Stat. 1211, as amended by Pub. L. 100–647, title IX, §9001(a)(6), Nov. 10, 1988, 102 Stat. 3807, provided that:
 
 “(a)
 
@@ -160,7 +182,7 @@ Investigations After Enactment.—The amendments made by sections 1324 and 1330 
 
 “(d)
 
-Prevention of Circumvention of Duties; Drawback.—The provisions of section 781 of the Tariff Act of 1930, as added by section 1321(a) \[19 U.S.C. 1677j\], and the amendments made by section 1334 \[amending section 1677h of this title\] shall apply with respect to articles entered, or withdrawn from warehouse for consumption, on or after the date of enactment of this Act \[Aug. 23, 1988\].
+Prevention of Circumvention of Duties; Drawback.—The provisions of section 781 of the Tariff Act of1930, as added by section 1321(a) \[19 U.S.C. 1677j\], and the amendments made by section 1334 \[amending section 1677h of this title\] shall apply with respect to articles entered, or withdrawn from warehouse for consumption, on or after the date of enactment of this Act \[Aug. 23, 1988\].
 
 “(e)
 
@@ -180,7 +202,7 @@ Fictitious Markets.—The amendment made by section 1319 \[amending section 1677
 
 #### Effective Date of 1984 Amendment
 
-Section 626 of title VI of Pub. L. 98–573, as amended by Pub. L. 99–514, title XVIII, §1886(b), Oct. 22, 1986, 100 Stat. 2922, provided that:
+Pub. L. 98–573, title VI, §626, Oct. 30, 1984, 98 Stat. 3042, as amended by Pub. L. 99–514, title XVIII, §1886(b), Oct. 22, 1986, 100 Stat. 2922, provided that:
 
 “(a) Except as provided in subsections (b) and (c), this Act \[probably should be “this title”\], and the amendments made by it \[enacting sections 1671h, 1677–1, and 1677h of this title, amending this section and sections 1671b to 1671e, 1673c, 1673d, 1677a to 1677f, and 1677g of this title, and repealing sections 1673h and 1673i of this title\], shall take effect on the date of the enactment of this Act \[Oct. 30, 1984\].
 
@@ -198,7 +220,7 @@ Section 626 of title VI of Pub. L. 98–573, as amended by Pub. L. 99–514, tit
 
 #### Effective Date
 
-Section 107 of title I of Pub. L. 96–39 provided that: “Except as otherwise provided in this title, this title and the amendments made by it \[enacting this subtitle, amending sections 1303, 1337, 2033, and 2251 of this title, repealing sections 160 to 171 of this title, and enacting provisions set out as notes under this section and sections 160 and 1303 of this title\] shall take effect on January 1, 1980, if—
+Pub. L. 96–39, title I, §107, July 26, 1979, 93 Stat. 193, provided that: “Except as otherwise provided in this title, this title and the amendments made by it \[enacting this subtitle, amending sections 1303, 1337, 2033, and 2251 of this title, repealing sections 160 to 171 of this title, and enacting provisions set out as notes under this section and sections 160 and 1303 of this title\] shall take effect on January 1, 1980, if—
 
 &emsp;“(1) the Agreement on Interpretation and Application of Articles VI, XVI, and XXIII of the General Agreement on Tariffs and Trade (relating to subsidies and countervailing measures), and
 
@@ -218,7 +240,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Investigations Pending on January 1, 1980
 
-Section 102 of Pub. L. 96–39 provided that:
+Pub. L. 96–39, title I, §102, July 26, 1979, 93 Stat. 189, provided that:
 
 “(a)
 
@@ -230,7 +252,7 @@ Pending Investigations of Bounties or Grants.—If, on the effective date of the
 
 “(b)
 
-Pending Investigations of Less-Than-Fair-Value Sales.—If, on the effective date of title VII of the Tariff Act of 1930 \[see Effective Date note set out above\], there is an investigation in progress under the Antidumping Act, 1921 \[sections 160 to 171 of this title\], as to whether imports from a country are being, or are likely to be, sold in the United States or elsewhere at less than fair value, then:
+Pending Investigations of Less-Than-Fair-Value Sales.—If, on the effective date of title VII ofthe Tariff Act of 1930 \[see Effective Date note set out above\], there is an investigation in progress under the Antidumping Act, 1921 \[sections 160 to 171 of this title\], as to whether imports from a country are being, or are likely to be, sold in the United States or elsewhere at less than fair value, then:
 
 &emsp;“(1) If the Secretary has not yet made a preliminary determination under the Antidumping Act, 1921 \[sections 160 to 171 of this title\], as to the question of less-than-fair-value sales, he shall terminate the investigation and the United States International Trade Commission shall terminate any investigation under section 201(c)(2) of the Antidumping Act, 1921 \[section 160(c)(2) of this title\], and the matter previously under investigation shall be subject to the provisions of title VII of the Tariff Act of 1930 \[this subtitle\] as if the affirmative determination called for in section 732 \[section 1673a of this title\] were made with respect to such matter on the effective date of title VII of the Tariff Act of 1930.
 
@@ -246,7 +268,7 @@ Pending Investigations of Injury.—If, on the effective date of the application
 
 #### Transition Rules for Countervailing Duty Orders
 
-Section 104 of Pub. L. 96–39, as amended by Pub. L. 98–573, title VI, §611(c), Oct. 30, 1984, 98 Stat. 3033, provided that:
+Pub. L. 96–39, title I, §104, July 26, 1979, 93 Stat. 190, as amended by Pub. L. 98–573, title VI, §611(c), Oct. 30, 1984, 98 Stat. 3033, provided that:
 
 “(a)
 
@@ -284,7 +306,7 @@ Determination by the commission.—Within 180 days after the date on which it re
 
 Effect of determination.—
 
-“(A) Affirmative determination.—Upon being notified by the Commission of an affirmative determination under paragraph (2), the administering authority shall terminate the waiver of impositionof countervailing duties for merchandise subject to the order, if any. The countervailing duty order under section 303 of the Tariff Act of 1930 \[section 1303 of this title\] which applies to that merchandise shall remain in effect until revoked, in whole or in part, under section 751(d) of such Act \[section 1675(d) of this title\].
+“(A) Affirmative determination.—Upon being notified by the Commission of an affirmative determination under paragraph (2), the administering authority shall terminate the waiver of imposition of countervailing duties for merchandise subject to the order, if any. The countervailing duty order under section 303 of the Tariff Act of 1930 \[section 1303 of this title\] which applies to that merchandise shall remain in effect until revoked, in whole or in part, under section 751(d) of such Act \[section 1675(d) of this title\].
 
 “(B) Negative determination.—Upon being notified by the Commission of a negative determination under paragraph (2), the administering authority shall revoke the countervailing duty order, and publish notice in the Federal Register of the revocation.
 

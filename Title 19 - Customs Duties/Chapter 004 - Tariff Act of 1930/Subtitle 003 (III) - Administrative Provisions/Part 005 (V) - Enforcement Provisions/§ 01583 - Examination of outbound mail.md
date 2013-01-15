@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;For purposes of ensuring compliance with the Customs laws of the United States and other laws enforced by the Customs Service, including the provisions of law described in paragraph (2), a Customs officer may, subject to the provisions of this section, stop and search at the border, without a search warrant, mail of domestic origin transmitted for export by the United States Postal Service and foreign mail transiting the United States that is being imported or exported by the United States Postal Service.
+&emsp;For purposes of ensuring compliance with the Customs laws of the United States and other laws enforced by the Customs Service, including the provisions of law described inparagraph (2), a Customs officer may, subject to the provisions of this section, stop and search at the border, without a search warrant, mail of domestic origin transmitted for export by the United States Postal Service and foreign mail transiting the United States that is being imported or exported by the United States Postal Service.
 
 #### (2) Provisions of law described
 
@@ -24,7 +24,7 @@
 
 #### (b) Search of mail not sealed against inspection and other mail
 
-Mail not sealed against inspection under the postal laws and regulations of the United States,mail which bears a Customs declaration, and mail with respect to which the sender or addressee has consented in writing to search, may be searched by a Customs officer.
+Mail not sealed against inspection under the postal laws and regulations of the United States, mail which bears a Customs declaration, and mail with respect to which the sender or addressee has consented in writing to search, may be searched by a Customs officer.
 
 #### (c) Search of mail sealed against inspection weighing in excess of 16 ounces
 
@@ -96,7 +96,7 @@ Pub. L. 107–210, div. A, title III, §344(c), Aug. 6, 2002, 116 Stat. 987, pro
 
 “(1)
 
-In general.—Except as provided in paragraph (2), this section \[enacting this section and provisions set out as a note under this section\] and the amendments made by this section shall take effect on the date of enactment of this Act \[Aug. 6, 2002\].
+In general.—Except as provided in paragraph (2), this section \[enacting this section and provisions setout as a note under this section\] and the amendments made by this section shall take effect on the date of enactment of this Act \[Aug. 6, 2002\].
 
 “(2)
 
@@ -108,7 +108,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 #### Certification by Secretary
 
-Pub. L. 107–210, div. A, title III, §344(b), Aug. 6, 2002, 116 Stat. 987, provided that: “Not later than 3 months after the date of enactment of this section \[Aug. 6, 2002\], the Secretary of State shall determine whether the application of section 583 of the Tariff Act of 1930\[this section\] to foreign mail transiting the United States that is imported or exported by the United States Postal Service is being handled in a manner consistent with international law and any international obligation of the United States. Section 583 of such Act shall not apply to such foreign mail unless the Secretary certifies to Congress that the application of such section 583 is consistent with international law and any international obligation of the United States.”
+Pub. L. 107–210, div. A, title III, §344(b), Aug. 6, 2002, 116 Stat. 987, provided that: “Not later than 3 months after the date of enactment of this section \[Aug. 6, 2002\], the Secretary of State shall determine whether the application of section 583 of the Tariff Act of 1930 \[this section\] to foreign mail transiting the United States that is imported or exported by the United States Postal Service is being handled in a manner consistent with international law and any international obligation of the United States. Section 583 of such Act shall not apply to such foreign mail unless the Secretary certifies to Congress that the application of such section 583 is consistent with international law and any international obligation of the United States.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

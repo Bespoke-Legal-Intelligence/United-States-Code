@@ -6,7 +6,7 @@ The Office for Domestic Preparedness shall be within the Directorate of Border a
 
 #### (b) Director
 
-There shall be a Director of the Office for Domestic Preparedness, who shall be appointed bythe President, by and with the advice and consent of the Senate. The Director of the Office for Domestic Preparedness shall report directly to the Under Secretary for Border and Transportation Security.
+There shall be a Director of the Office for Domestic Preparedness, who shall be appointed by the President. The Director of the Office for Domestic Preparedness shall report directly to the Under Secretary for Border and Transportation Security.
 
 #### (c) Responsibilities
 
@@ -34,9 +34,15 @@ The Office for Domestic Preparedness shall have the primary responsibility withi
 
 During fiscal year 2003 and fiscal year 2004, the Director of the Office for Domestic Preparedness established under this section shall manage and carry out those functions of the Office for Domestic Preparedness of the Department of Justice (transferred under this section) before September 11, 2001, under the same terms, conditions, policies, and authorities, and with the required level of personnel, assets, and budget before September 11, 2001.
 
-(Pub. L. 107–296, title IV, §430, Nov. 25, 2002, 116 Stat. 2191; Pub. L. 108–458, title VII, §7303(h)(2), Dec. 17, 2004, 118 Stat. 3847.)
+(Pub. L. 107–296, title IV, §430, Nov. 25, 2002, 116 Stat. 2191; Pub. L. 108–458, title VII, §7303(h)(2), Dec. 17, 2004, 118 Stat. 3847; Pub. L. 112–166, §2(f)(1), Aug. 10, 2012, 126 Stat. 1284.)
 
 #### Amendments
 
+<b>2012</b>—Subsec. (b). Pub. L. 112–166 struck out “, by and with the advice and consent of the Senate” before period at end of first sentence.
+
 <b>2004</b>—Subsec. (c)(9). Pub. L. 108–458 added par. (9).
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under section 113 of this title.
 

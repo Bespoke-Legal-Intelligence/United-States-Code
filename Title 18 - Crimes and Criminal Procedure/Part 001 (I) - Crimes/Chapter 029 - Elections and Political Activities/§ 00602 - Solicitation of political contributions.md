@@ -42,7 +42,7 @@ Section 301(8) of the Federal Election Campaign Act of 1971, referred to in subs
 
 #### Effective Date of 1993 Amendment; Savings Provision
 
-Amendment by Pub. L. 103–94 effective 120 days after Oct. 6, 1993, but not to release or extinguish any penalty, forfeiture, or liability incurred under amended provision, which is to be treated as remaining in force for purpose of sustaining any proper proceeding or action for enforcement of that penalty, forfeiture, or liability, and no provision of Pub. L. 103–94 to affect any proceedings with respect to which charges were filed on or before 120 days after Oct. 6, 1993, with orders to be issued in such proceedings and appeals taken therefrom as if Pub. L. 103–94 had not been enacted, see section 12 of Pub. L. 103–94, set out as an Effective Date; Savings Provision note under section 7321 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 103–94 effective 120 days after Oct. 6, 1993, but not to release or extinguish any penalty, forfeiture, or liability incurred under amendedprovision, which is to be treated as remaining in force for purpose of sustaining any proper proceeding or action for enforcement of that penalty, forfeiture, or liability, and no provision of Pub. L. 103–94 to affect any proceedings with respect to which charges were filed on or before 120 days after Oct. 6, 1993, with orders to be issued in such proceedings and appeals taken therefrom as if Pub. L. 103–94 had not been enacted, see section 12 of Pub. L. 103–94, set out as an Effective Date; Savings Provision note under section 7321 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1980 Amendment
 

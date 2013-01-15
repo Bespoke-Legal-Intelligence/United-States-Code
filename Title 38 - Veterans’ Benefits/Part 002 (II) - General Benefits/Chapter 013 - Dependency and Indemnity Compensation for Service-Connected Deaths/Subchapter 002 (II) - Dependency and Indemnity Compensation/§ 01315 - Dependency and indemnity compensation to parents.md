@@ -14,7 +14,7 @@
 
 (c)(1) Except as provided in subsection (d) of this section, if there are two parents, but they are not living together, the monthly rate of dependency and indemnity compensation paid to each such parent shall be $412, as increased from time to time under section 5312(b)(1) of this title and reduced by an amount, based upon the amount of such parent's annual income, determined in accordance with regulations which the Secretary shall prescribe under section 5312(b)(2) of this title.
 
-(2) In no case may the amount of dependency and indemnity compensation payable to anyparent under this subsection be less than $5 monthly.
+(2) In no case may the amount of dependency and indemnity compensation payable to any parent under this subsection be less than $5 monthly.
 
 (3) In no case may dependency and indemnity compensation be paid under paragraph (1) of this subsection to any parent if the annual income of such parent exceeds $13,456, as increased from time to time under section 5312 of this title.
 
@@ -70,7 +70,7 @@
 
 (g) The monthly rate of dependency and indemnity compensation payable to a parent shall be increased by $308, as increased from time to time under section 5312 of this title, if such parent is (1) a patient in a nursing home or (2) blind, or so nearly blind or significantly disabled as to need or require the regular aid and attendance of another person.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1129, §415; Pub. L. 87–268, §1(b), Sept. 21, 1961, 75 Stat. 566; Pub. L. 88–21, §4, May 15, 1963, 77 Stat. 17; Pub. L. 89–730, §§1, 2, Nov. 2, 1966, 80 Stat. 1157, 1158; Pub. L. 90–275, §2, Mar. 28, 1968, 82 Stat. 66; Pub. L. 91–588, §§2, 8(a), Dec. 24, 1970, 84 Stat. 1582, 1584; Pub. L. 92–197, §4, Dec. 15, 1971, 85 Stat. 661; Pub. L. 92–425, §6(1), Sept. 21, 1972, 86 Stat. 713; Pub. L. 93–177, §4, Dec. 6, 1973, 87 Stat. 695; Pub. L. 93–527, §7, Dec. 21, 1974, 88 Stat. 1704; Pub. L. 94–169, title II, §201, Dec. 23, 1975, 89 Stat. 1019; Pub. L. 94–432, title III, §301, Sept. 30, 1976, 90 Stat. 1371; Pub. L. 95–204, title II, §201, Dec. 2, 1977, 91 Stat. 1457; Pub. L. 95–588, title II, §201, Nov. 4, 1978, 92 Stat. 2505; Pub. L. 96–466, title VI, §605(c)(1), Oct. 17, 1980, 94 Stat. 2211; Pub. L. 97–295, §4(10), Oct. 12, 1982, 96 Stat. 1305; Pub. L. 100–687, div. B, title XIV, §1402(a), Nov. 18, 1988, 102 Stat. 4129; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §1315 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–86, title I, §102, Aug. 14, 1991, 105 Stat. 414; Pub. L. 103–271, §9(a), July 1, 1994, 108 Stat. 743;Pub. L. 104–275, title IV, §405(c)(1), Oct. 9, 1996, 110 Stat. 3340; Pub. L. 109–233, title V, §502(3), June 15, 2006, 120 Stat. 415; Pub. L. 111–37, §3(f), June 30, 2009, 123 Stat. 1930.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1129, §415; Pub. L. 87–268, §1(b), Sept. 21, 1961, 75 Stat. 566; Pub. L. 88–21, §4, May 15, 1963, 77 Stat. 17; Pub. L. 89–730, §§1, 2, Nov. 2, 1966, 80 Stat. 1157, 1158; Pub. L. 90–275, §2, Mar. 28, 1968, 82 Stat. 66; Pub. L. 91–588, §§2, 8(a), Dec. 24, 1970, 84 Stat. 1582, 1584; Pub. L. 92–197, §4, Dec. 15, 1971, 85 Stat. 661; Pub. L. 92–425, §6(1), Sept. 21, 1972, 86 Stat. 713; Pub. L. 93–177, §4, Dec. 6, 1973, 87 Stat. 695; Pub. L. 93–527, §7, Dec. 21, 1974, 88 Stat. 1704; Pub. L. 94–169, title II, §201, Dec. 23, 1975, 89 Stat. 1019; Pub. L. 94–432, title III, §301, Sept. 30, 1976, 90 Stat. 1371; Pub. L. 95–204, title II, §201, Dec. 2, 1977, 91 Stat. 1457; Pub. L. 95–588, title II, §201, Nov. 4, 1978, 92 Stat. 2505; Pub. L. 96–466, title VI, §605(c)(1), Oct. 17, 1980, 94 Stat. 2211; Pub. L. 97–295, §4(10), Oct. 12, 1982, 96 Stat. 1305; Pub. L. 100–687, div. B, title XIV, §1402(a), Nov. 18, 1988, 102 Stat. 4129; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §1315 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–86, title I, §102, Aug. 14, 1991, 105 Stat. 414; Pub. L. 103–271, §9(a), July 1, 1994, 108 Stat. 743; Pub. L. 104–275, title IV, §405(c)(1), Oct. 9, 1996, 110 Stat. 3340; Pub. L. 109–233, title V, §502(3), June 15, 2006, 120 Stat. 415; Pub. L. 111–37, §3(f), June 30, 2009, 123 Stat. 1930.)
 
 #### References in Text
 
@@ -226,7 +226,7 @@ Subsec. (b)(2). Pub. L. 92–197, §4(a), substituted reference to formula in su
 
 Subsec. (c). Pub. L. 92–197, §4(b), substituted formula to measure dependency and indemnity compensation rates of two parents not living together by specifying a maximum monthly rate for each group within designated income category and each individual's monthly rate to be computed by reducing the maximum monthly rate by a specified number of cents for each dollar by which the minimum income limitation for that group is exceeded, for table providing for income and benefit rates, and increased the maximum income limit to $2,600 from $2,300.
 
-Subsec. (d). Pub. L. 92–197, §4(c), substituted formula to measure dependency and indemnity compensation to two parents living together or a remarried parent living with his spouse by specifying a maximum monthly rate for each group within designated income categoryand each individual's monthly rate to be computed by reducing the maximum monthly rate by a specified number of cents for each dollar by which the minimum income limitation for that group is exceeded, for table providing for income and benefit rates, and increased the maximum income limit to $3,800 from $3,500.
+Subsec. (d). Pub. L. 92–197, §4(c), substituted formula to measure dependency and indemnity compensation to two parents living together or a remarried parent living with his spouse by specifying a maximum monthly rate for each group within designated income category and each individual's monthly rate to be computed by reducing the maximum monthly rate by a specified number of cents for each dollar by which the minimum income limitation for that group is exceeded, for table providing for income and benefit rates, and increased the maximum income limit to $3,800 from $3,500.
 
 Subsec. (g)(2), (3). Pub. L. 92–197, §4(d), redesignated par. (2) as par. (3) and added par. (2).
 
@@ -286,7 +286,7 @@ Amendment by Pub. L. 94–432 effective Jan. 1, 1977, see section 405(b) of Pub.
 
 #### Effective Date of 1975 Amendment
 
-Section 201 of Pub. L. 94–169, as amended by section 101 of Pub. L. 94–432, eff. Sept. 30, 1976, provided that the amendment made by that section is effective Jan. 1, 1976.
+Pub. L. 94–169, title II, §201, Dec. 23, 1975, 89 Stat. 1019, as amended by section 101 of Pub. L. 94–432, eff. Sept. 30, 1976, provided that the amendment made by that section is effective Jan. 1, 1976.
 
 #### Effective Date of 1974 Amendment
 
@@ -310,7 +310,7 @@ Amendment by Pub. L. 90–275 effective Jan. 1, 1969, see section 6(a) of Pub. L
 
 #### Effective Date of 1966 Amendment
 
-Section 7 of Pub. L. 89–730 provided that:
+Pub. L. 89–730, §7, Nov. 2, 1966, 80 Stat. 1160, provided that:
 
 “(a) Except section 6 \[enacting and amending provisions set out as notes under section 1976 of this title\] and as otherwise provided in subsection (b) of this section, this Act \[amending this section and sections 413, 414, and 3012 \[now 1313, 1314, and 1512\] of this title\] shall take effect on the first day of the second calendar month following the date of enactment of this Act \[Nov. 2, 1966\].
 

@@ -56,7 +56,7 @@ In this chapter:
 
 &emsp;&emsp;(A) land within the National Forest System, as defined in section 1609(a) of this title exclusive of the National Grasslands and land utilization projects designated as National Grasslands administered pursuant to the Act of July 22, 1937 (7 U.S.C. 1010–1012); and
 
-&emsp;&emsp;(B) such portions of the revested Oregon and California Railroad and reconveyed Coos Bay Wagon Road grant land as are or may hereafter come under the jurisdiction of the Department of the Interior, which have heretofore or may hereafter be classified as timberlands, and power-site land valuable for timber, that shall be managed, except as provided in the former section 3 of the Act of August 28, 1937 (50 Stat. 875; 43 U.S.C. 1181c), for permanent forest production.
+&emsp;&emsp;(B) such portions of the revested Oregon and California Railroad and reconveyed Coos Bay Wagon Road grant land as are or may hereafter come under the jurisdiction of the Department of the Interior, which have heretofore or may hereafter be classified as timberlands, and power-site land valuablefor timber, that shall be managed, except as provided in the former section 3 of the Act of August 28, 1937 (50 Stat. 875; 43 U.S.C. 1181c), for permanent forest production.
 
 #### (8) 50-percent adjusted share
 
@@ -94,9 +94,11 @@ In this chapter:
 
 &emsp;The term “full funding amount” means—
 
-&emsp;&emsp;(A) $500,000,000 for fiscal year 2008; and
+&emsp;&emsp;(A) $500,000,000 for fiscal year 2008;
 
-&emsp;&emsp;(B) for fiscal year 2009 and each fiscal year thereafter, the amount that is equal to 90 percent of the full funding amount for the preceding fiscal year.
+&emsp;&emsp;(B) for each of fiscal years 2009 through 2011, the amount that is equal to 90 percent of the full funding amount for the preceding fiscal year; and
+
+&emsp;&emsp;(C) for fiscal year 2012 and each fiscal year thereafter, the amount that is equal to 95 percent of the full funding amount for the preceding fiscal year.
 
 #### (12) Income adjustment
 
@@ -130,7 +132,7 @@ In this chapter:
 
 &emsp;The term “25-percent payment” means the payment to States required by the sixth paragraph under the heading of “FOREST SERVICE” in the Act of May 23, 1908 (35 Stat. 260; 16 U.S.C. 500), and section 13 of the Act of March 1, 1911 (36 Stat. 963; 16 U.S.C. 500).
 
-(Pub. L. 106–393, §3, as added Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3894.)
+(Pub. L. 106–393, §3, as added Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3894; amended Pub. L. 112–141, div. F, title I, §100101(a)(1), July 6, 2012, 126 Stat. 905.)
 
 #### References in Text
 
@@ -147,6 +149,10 @@ Sections 13982 and 13983 of the Omnibus Budget Reconciliation Act of 1993, refer
 #### Prior Provisions
 
 A prior section 3 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3893.
+
+#### Amendments
+
+<b>2012</b>—Par. (11). Pub. L. 112–141 substituted “each of fiscal years 2009 through 2011” for “fiscal year 2009 and each fiscal year thereafter” in subpar. (B) and added subpar. (C).
 
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by “of”.</i>
 

@@ -40,7 +40,7 @@ The words “for all purposes” and “to the contrary”, in each source credi
 
 #### Effective Date of 1964 Amendment
 
-Section 5(1) of Pub. L. 88–558 provided that the amendment made by that section is effective two years from Aug. 31, 1964.
+Pub. L. 88–558, §5, Aug. 31, 1964, 78 Stat. 768, provided that the amendment made by that section is effective two years from Aug. 31, 1964.
 
 #### Repeals
 

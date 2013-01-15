@@ -1,6 +1,6 @@
 ### §503. Participation in field exercises
 
-(a)(1) Under such regulations as the President may prescribe, the Secretary of the Army and the Secretary of the Air Force, as the case may be, may provide for the participation of the National Guard in encampments, maneuvers, outdoor target practice, or other exercises for field or coast-defense instruction, independently of or in conjunction with the Army or the Air Force, or both.
+(a)(1) Under such regulations as the President may prescribe, the Secretary of the Army and the Secretary of the Air Force, as the case may be, may provide for the participation of the National Guard in encampments, maneuvers, outdoor target practice, or other exercises for field or coast-defense instruction, independently of orin conjunction with the Army or the Air Force, or both.
 
 (2) Paragraph (1) includes authority to provide for participation of the National Guard in conjunction with the Army or the Air Force, or both, in joint exercises for instruction to prepare the National Guard for response to civil emergencies and disasters.
 

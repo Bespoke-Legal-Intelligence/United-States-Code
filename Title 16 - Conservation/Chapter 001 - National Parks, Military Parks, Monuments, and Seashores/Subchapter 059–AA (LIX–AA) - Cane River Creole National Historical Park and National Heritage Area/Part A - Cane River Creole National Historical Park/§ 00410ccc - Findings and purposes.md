@@ -34,5 +34,5 @@ The purposes of this subchapter are to—
 
 #### Short Title
 
-Section 301 of Pub. L. 103–449 provided that: “Titles III and IV of this Act \[enacting this subchapter\] may be cited as the ‘Cane River Creole National Historical Park and National Heritage Area Act’.”
+Pub. L. 103–449, title III, §301, Nov. 2, 1994, 108 Stat. 4757, provided that: “Titles III and IV of this Act \[enacting this subchapter\] may be cited as the ‘Cane River Creole National Historical Park and National Heritage Area Act’.”
 

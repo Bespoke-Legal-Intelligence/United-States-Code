@@ -176,17 +176,17 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 Amendment by section 1402(b) of Pub. L. 105–34 effective Jan. 1, 1998, see section 1402(c) of Pub. L. 105–34, set out as a note under section 4051 of this title.
 
-Section 1434(c) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section\] shall take effect on January 1, 1998.”
+Pub. L. 105–34, title XIV, §1434(c), Aug. 5, 1997, 111 Stat. 1052, provided that: “The amendments made by this section \[amending this section\] shall take effect on January 1, 1998.”
 
 #### Effective Date of 1988 Amendment
 
-Section 6111(b) of Pub. L. 100–647 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 1988.”
+Pub. L. 100–647, title VI, §6111(b), Nov. 10, 1988, 102 Stat. 3713, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 1988.”
 
 #### Effective Date of 1987 Amendment
 
-Section 505(d) of Pub. L. 100–17 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to articles sold by the manufacturer, producer, or importer on or after the first day of the first calendar quarter which begins more than 90 days after the date of the enactment of this Act \[Apr. 2, 1987\].”
+Pub. L. 100–17, title V, §505(d), Apr. 2, 1987, 101 Stat. 259, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to articles sold by the manufacturer, producer, or importer on or after the first day of the first calendar quarter which begins more than 90 days after the date of the enactment of this Act \[Apr. 2, 1987\].”
 
-Section 506(b) of Pub. L. 100–17 provided that: “The amendment made by this section \[amending this section\] shall apply with respect to articles sold by the manufacturer, producer, or importer on or after the 1st day of the 1st calendar quarter which begins more than 90 days after the date of the enactment of this Act \[Apr. 2, 1987\].”
+Pub. L. 100–17, title V, §506(b), Apr. 2, 1987, 101 Stat. 259, provided that: “The amendment made by this section \[amending this section\] shall apply with respect toarticles sold by the manufacturer, producer, or importer on or after the 1st day of the 1st calendar quarter which begins more than 90 days after the date of the enactment of this Act \[Apr. 2, 1987\].”
 
 #### Effective Date of 1984 Amendment
 

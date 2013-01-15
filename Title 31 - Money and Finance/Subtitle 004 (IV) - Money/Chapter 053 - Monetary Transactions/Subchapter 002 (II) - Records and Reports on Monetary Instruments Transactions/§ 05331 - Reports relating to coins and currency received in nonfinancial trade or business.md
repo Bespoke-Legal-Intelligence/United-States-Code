@@ -54,7 +54,7 @@ In general.—For purposes of this section, the term “currency” includes—
 
 &emsp;(2)
 
-Scope of application.—Paragraph (1)(B) shall not apply to any check drawn on the account of the writer in a financial institution referred to in subparagraph (A), (B), (C), (D), (E), (F), (G), (J), (K), (R), or (S) of section 5312(a)(2).
+Scope of application.—Paragraph (1)(B) shall not apply to any check drawn on the account of the writer in a financial institution referred to in subparagraph (A), (B), (C), (D),\(E), (F), (G), (J), (K), (R), or (S) of section 5312(a)(2).
 
 (Added Pub. L. 107–56, title III, §365(a), Oct. 26, 2001, 115 Stat. 333; amended Pub. L. 112–74, div. C, title I, §120, Dec. 23, 2011, 125 Stat. 891.)
 

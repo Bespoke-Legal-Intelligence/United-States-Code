@@ -80,7 +80,7 @@ The Commissioner for Education Statistics shall, with the advice of the Assessme
 
 #### (D) Applicability to home schools
 
-&emsp;&emsp;Nothing in this section shall be construed to affect home schools, whether or not a home school is treated as a home school ora private school under State law, nor shall any home schooled student be required to participate in any assessment referenced or authorized under this section.
+&emsp;&emsp;Nothing in this section shall be construed to affect home schools, whether or not a home school is treated as a home school or a private school under State law, nor shall any home schooled student be required to participate in any assessment referenced or authorized under this section.
 
 #### (5) Requirement
 
@@ -172,7 +172,7 @@ The Commissioner for Education Statistics shall, with the advice of the Assessme
 
 #### (B) Agreement
 
-&emsp;&emsp;For reading and mathematics assessments in grades 4 and 8, the Secretary shall enter into an agreement with any State carrying out an assessment for the State under this section. Each such agreement shall contain provisions designed to ensure that the State will participate in the assessment.
+&emsp;&emsp;For reading and mathematics assessments in grades 4 and 8, the Secretary shall enter into an agreement with any State carryingout an assessment for the State under this section. Each such agreement shall contain provisions designed to ensure that the State will participate in the assessment.
 
 #### (4) Review
 

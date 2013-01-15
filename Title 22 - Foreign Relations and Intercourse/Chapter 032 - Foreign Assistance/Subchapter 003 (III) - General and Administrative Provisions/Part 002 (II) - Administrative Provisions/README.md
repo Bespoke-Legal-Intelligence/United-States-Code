@@ -27,7 +27,7 @@ Part II—Administrative Provisions
 - [&sect; 02394a - Extortion and illegal payments to officials of foreign countries receiving international security assistance](%C2%A7%2002394a%20-%20Extortion%20and%20illegal%20payments%20to%20officials%20of%20foreign%20countries%20receiving%20international%20security%20assistance.md)
 - [&sect; 02394b - HELP Commission](%C2%A7%2002394b%20-%20HELP%20Commission.md)
 - [&sect; 02395 - General authorities](%C2%A7%2002395%20-%20General%20authorities.md)
-- [&sect; 02395a - International agreements concerning debt relief; transmittal to Congressional committees](%C2%A7%2002395a%20-%20International%20agreements%20concerning%20debt%20relief%3B%20transmittal%20to%20Congressional%20committees.md)
+- [&sect; 02395a - International agreements concerning debt relief; transmittal to congressional committees](%C2%A7%2002395a%20-%20International%20agreements%20concerning%20debt%20relief%3B%20transmittal%20to%20congressional%20committees.md)
 - [&sect; 02396 - Availability of funds](%C2%A7%2002396%20-%20Availability%20of%20funds.md)
 - [&sect; 02396a - Property Management Fund](%C2%A7%2002396a%20-%20Property%20Management%20Fund.md)
 - [&sect; 02397 - Administrative expenses](%C2%A7%2002397%20-%20Administrative%20expenses.md)

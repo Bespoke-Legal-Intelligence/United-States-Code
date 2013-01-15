@@ -2,7 +2,7 @@
 
 #### (a) Generally
 
-Whoever willfully violates, attempts to violate, or conspires to violate, any provision of this chapter for which no criminal penalty is specifically provided or of any regulation or order prescribed or issued under section 2095 or 2201(b), (i), or (<i>o</i>) of this title shall, upon conviction thereof, be punished by a fine of not more than $5,000 or by imprisonment for not more than two years, or both, except that whoever commits such an offense with intent to injure the United States or with intent to secure an advantage to any foreign nation, shall, upon conviction thereof, be punished by a fine of not more than $20,000 or by imprisonment for not more than twenty years, or both.
+Whoever willfully violates, attempts to violate, or conspires to violate, any provision of this chapter for which no criminal penalty is specifically provided or of any regulation ororder prescribed or issued under section 2095 or 2201(b), (i), or (o) of this title shall, upon conviction thereof, be punished by a fine of not more than $5,000 or by imprisonment for not more than two years, or both, except that whoever commits such an offense with intent to injure the United States or with intent to secure an advantage to any foreign nation, shall, upon conviction thereof, be punished by a fine of not more than $20,000 or by imprisonment for not more than twenty years, or both.
 
 #### (b) Construction or supply of components for utilization facilities; impairment of basic components; “basic component” defined; posting at construction sites of utilization facilities and on premises of component fabrication plants
 
@@ -30,7 +30,7 @@ Any individual director, officer or employee of a person indemnified under an ag
 
 <b>1969</b>—Pub. L. 91–161 limited application of section to instances where no criminal penalties have been provided.
 
-<b>1967</b>—Pub. L. 90–190 substituted “(<i>o</i>)” for “(p)”.
+<b>1967</b>—Pub. L. 90–190 substituted “(o)” for “(p)”.
 
 #### Effective Date of 1988 Amendment
 

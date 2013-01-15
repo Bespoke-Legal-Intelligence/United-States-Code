@@ -40,7 +40,7 @@ The Secretary shall carry out a program, through the holder of the loan, of assu
 
 &emsp;&emsp;&emsp;(i) who meets the requirements of subsection (b) of this section;
 
-&emsp;&emsp;&emsp;(ii) whose qualifying employment for purposes of such subsection is as a special education teacher whose primary responsibility is to provide special education to children with disabilities (as those terms are defined in section 1401 of this title); and
+&emsp;&emsp;&emsp;(ii) whose qualifying employment for purposes of such subsection is as a special education teacher whose primary responsibility is to provide special education tochildren with disabilities (as those terms are defined in section 1401 of this title); and
 
 &emsp;&emsp;&emsp;(iii) who, as certified by the chief administrative officer of the public or non-profit private elementary school or secondary school in which the borrower is employed, or, in the case of a teacher who is employed by an educational service agency, as certified by the chief administrative officer of such agency, is teaching children with disabilities that correspond with the borrower's special education training and has demonstrated knowledge and teaching skills in the content areas of the elementary school or secondary school curriculum that the borrower is teaching.
 
@@ -86,7 +86,7 @@ If the list of schools in which a teacher may perform service pursuant to subsec
 
 For purposes of this section, the term “year”, where applied to service as a teacher, means an academic year as defined by the Secretary.
 
-(Pub. L. 89–329, title IV, §428J, as added Pub. L. 102–325, title IV, §422, July 23, 1992, 106 Stat. 541;amended Pub. L. 103–82, title I, §102(c)(2), Sept. 21, 1993, 107 Stat. 824; Pub. L. 103–208, §2(c)(47)–(51), Dec. 20, 1993, 107 Stat. 2467; Pub. L. 105–244, title IV, §424, Oct. 7, 1998, 112 Stat. 1698; Pub. L. 108–409, §3(a)(1)(A), (b)(1), Oct. 30, 2004, 118 Stat. 2300; Pub. L. 109–171, title VIII, §8013(e)(1), Feb. 8, 2006, 120 Stat. 167; Pub. L. 110–315, title IV, §429, Aug. 14, 2008, 122 Stat. 3236; Pub. L. 111–39, title IV, §402(f)(6), July 1, 2009, 123 Stat. 1944.)
+(Pub. L. 89–329, title IV, §428J, as added Pub. L. 102–325, title IV, §422, July 23, 1992, 106 Stat. 541; amended Pub. L. 103–82, title I, §102(c)(2), Sept. 21, 1993, 107 Stat. 824; Pub. L. 103–208, §2(c)(47)–(51), Dec. 20, 1993, 107 Stat. 2467; Pub. L. 105–244, title IV, §424, Oct. 7, 1998, 112 Stat. 1698; Pub. L. 108–409, §3(a)(1)(A), (b)(1), Oct. 30, 2004, 118 Stat. 2300; Pub. L. 109–171, title VIII, §8013(e)(1), Feb. 8, 2006, 120 Stat. 167; Pub. L. 110–315, title IV, §429, Aug. 14, 2008, 122 Stat. 3236; Pub. L. 111–39, title IV, §402(f)(6), July 1, 2009, 123 Stat. 1944.)
 
 #### References in Text
 

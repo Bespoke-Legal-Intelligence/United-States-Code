@@ -14,7 +14,7 @@ The Corporation may purchase or lease and hold such real and personal property a
 
 #### (d) Suit
 
-Subject to section 1508(j)(2)(A) of this title, the Corporation, subject to the provisions of section 1508(j) of this title,<sup>1</sup> may sue and be sued in its corporate name, but no attachment, injunction, garnishment, or other similar process, mesne or final, shall be issued against the Corporation or its property. The district courts of the United States, including the district courts of the District of Columbia and of any territory or possession, shall have exclusive original jurisdiction, without regard to the amount in controversy, of all suits brought by or against the Corporation. The Corporation may intervene in any court in any suit, action, or proceeding in which it has an interest. Any suit against the Corporation shall be brought in the District of Columbia, orin the district wherein the plaintiff resides or is engaged in business.
+Subject to section 1508(j)(2)(A) of this title, the Corporation, subject to the provisions of section 1508(j) of this title,<sup>1</sup> may sue and be sued in its corporate name, but no attachment, injunction, garnishment, or other similar process, mesne or final, shall be issued against the Corporation or its property. The district courts of the United States, including the district courts of the District of Columbia and of any territory or possession, shall have exclusive original jurisdiction, without regard to the amount in controversy, of all suits brought by or against the Corporation. The Corporation may intervene in any court in any suit, action, or proceeding in which it has an interest. Any suit against the Corporation shall be brought in the District of Columbia, or in the district wherein the plaintiff resides or is engaged in business.
 
 #### (e) Bylaws and regulations
 
@@ -54,7 +54,7 @@ The Corporation shall have the authority to make final and conclusive settlement
 
 The Corporation shall have such powers as may be necessary or appropriate for the exercise of the powers herein specifically conferred upon the Corporation and all such incidental powers as are customary in corporations generally.
 
-#### (<i>l</i>) Contracts
+#### (l) Contracts
 
 The Corporation may enter into and carry out contracts or agreements, and issue regulations, necessary in the conduct of its business, as determined by the Board. State and local laws or rules shall not apply to contracts, agreements, or regulations of the Corporation or the parties thereto to the extent that such contracts, agreements, or regulations provide that such laws or rules shall not apply, or to the extent that such laws or rules are inconsistent with such contracts, agreements, or regulations.
 
@@ -98,7 +98,7 @@ The Corporation may enter into and carry out contracts or agreements, and issue 
 
 &emsp;To the extent that the Corporation uses the nonstandard classification system, the Corporation shall apply the system to all insured producers in a fair and consistent manner.
 
-#### (<i>o</i>) Regulations
+#### (o) Regulations
 
 The Secretary and the Corporation are each authorized to issue such regulations as are necessary to carry out this subchapter.
 
@@ -130,11 +130,11 @@ The Secretary and the Corporation are each authorized to issue such regulations 
 
 &emsp;If the Corporation fails to respond to an inquiry in accordance with the procedures established pursuant to this subsection, the person requesting the interpretation of this subchapter or regulation may assume the interpretation is correct for the applicable reinsurance year.
 
-(Feb. 16, 1938, ch. 30, title V, §506, 52 Stat. 73; June 21, 1941, ch. 214, §2, 55 Stat. 255; Aug. 1, 1947, ch. 440, §7, 61 Stat. 719; Aug. 25, 1949, ch. 512, §8, 63 Stat. 665; Pub. L. 96–365, title I, §§103, 107(a), Sept. 26, 1980, 94 Stat. 1313, 1317; Pub. L. 101–624, title XXII, §§2201(a), 2202, Nov. 28, 1990, 104 Stat. 3951, 3954; Pub. L. 102–237, title VI, §601(1), (2), Dec. 13, 1991, 105 Stat. 1878; Pub. L. 103–66, title XIV, §1403(a), Aug. 10, 1993, 107 Stat. 333; Pub. L. 103–354, title I, §§104, 119(f)(1), Oct. 13, 1994, 108 Stat. 3181, 3208; Pub. L. 105–185, title V, §533, June 23, 1998, 112 Stat. 583; Pub. L. 106–224, title I, §§121(b), 124(b), June 20, 2000, 114 Stat. 377, 378; Pub. L. 110–234, title XII, §§12002(a), (b)(1), 12003(a), 12033(c)(2)(B), May 22, 2008, 122 Stat. 1371, 1405; Pub. L. 110–246, §4(a), title XII, §§12002(a), (b)(1), 12003(a), 12033(c)(2)(B), June 18, 2008, 122 Stat. 1664, 2133, 2167.)
+(Feb. 16, 1938, ch. 30, title V, §506, 52 Stat. 73; June 21, 1941, ch. 214, §2, 55 Stat. 255; Aug. 1, 1947, ch. 440, §7, 61 Stat. 719; Aug. 25, 1949, ch. 512, §8, 63 Stat. 665; Pub. L. 96–365, title I, §§103, 107(a), Sept. 26, 1980, 94 Stat. 1313, 1317; Pub. L. 101–624, title XXII, §§2201(a), 2202, Nov. 28, 1990, 104 Stat. 3951, 3954; Pub. L. 102–237, title VI, §601(1), (2), Dec. 13, 1991, 105 Stat. 1878; Pub. L. 103–66, title I, §1403(a), Aug. 10, 1993, 107 Stat. 333; Pub. L. 103–354, title I, §§104, 119(f)(1), Oct. 13, 1994, 108 Stat. 3181, 3208; Pub. L. 105–185, title V, §533, June 23, 1998, 112 Stat. 583; Pub. L. 106–224, title I, §§121(b), 124(b), June 20, 2000, 114 Stat. 377, 378; Pub. L. 110–234, title XII, §§12002(a), (b)(1), 12003(a), 12033(c)(2)(B), May 22, 2008, 122 Stat. 1371, 1405; Pub. L. 110–246, §4(a), title XII, §§12002(a), (b)(1), 12003(a), 12033(c)(2)(B), June 18, 2008, 122 Stat. 1664, 2133, 2167.)
 
 #### References in Text
 
-Section 405(c)(2)(C)(iii) of title 42, referred to in subsec. (m)(1), was redesignated section 405(c)(2)(C)(iv) of title 42 by Pub. L. 103–296, title III, §321(a)(9)(B), Aug. 15, 1994, 108 Stat. 1536.
+Section 405(c)(2)(C)(iii) of title 42, referred to in subsec. (m)(1), was redesignated section 405(c)(2)(C)(iv) oftitle 42 by Pub. L. 103–296, title III, §321(a)(9)(B), Aug. 15, 1994, 108 Stat. 1536.
 
 #### Codification
 
@@ -146,7 +146,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 Subsecs. (g) to (i), (m). Pub. L. 110–246, §12033(c)(2)(B), substituted “this subchapter” for “this chapter” wherever appearing.
 
-Subsec. (n). Pub. L. 110–246, §12002(b)(1), redesignated subsec. (<i>o</i>) as (n).
+Subsec. (n). Pub. L. 110–246, §12002(b)(1), redesignated subsec. (o) as (n).
 
 Pub. L. 110–246, §12002(a)(2), struck out subsec. (n) which related to penalty for willful and intentional provision of false or inaccurate information to the Corporation or any insurer.
 
@@ -156,9 +156,9 @@ Subsec. (n)(2). Pub. L. 110–246, §12033(c)(2)(B), substituted “this subchap
 
 Pub. L. 110–246, §12003(a), in heading, struck out “as of October 1, 1998” after “loss ratio” and, in text, struck out “, on and after October 1, 1998,” after “to achieve” and substituted “1.0” for “1.075”.
 
-Subsecs. (<i>o</i>), (p). Pub. L. 110–246, §12033(c)(2)(B), substituted “this subchapter” for “this chapter”.
+Subsecs. (o), (p). Pub. L. 110–246, §12033(c)(2)(B), substituted “this subchapter” for “this chapter”.
 
-Pub. L. 110–246, §12002(b)(1), redesignated subsecs. (p) and (q) as (<i>o</i>) and (p), respectively. Former subsec. (<i>o</i>) redesignated (n).
+Pub. L. 110–246, §12002(b)(1), redesignated subsecs. (p) and (q) as (o) and (p), respectively. Former subsec. (o) redesignated (n).
 
 Subsec. (q). Pub. L. 110–246, §12002(b)(1), redesignated subsec. (q) as (p).
 
@@ -174,29 +174,29 @@ Subsecs. (q) to (s). Pub. L. 106–224, §121(b), redesignated subsecs. (r) and 
 
 Subsec. (j). Pub. L. 103–354, §104(2), added subsec. (j). Former subsec. (j) redesignated (k).
 
-Subsec. (k). Pub. L. 103–354, §104(1), redesignated subsec. (j) as (k). Former subsec. (k) redesignated (<i>l</i>).
+Subsec. (k). Pub. L. 103–354, §104(1), redesignated subsec. (j) as (k). Former subsec. (k) redesignated (l).
 
-Subsec. (<i>l</i>). Pub. L. 103–354, §104(1), (3), redesignated subsec. (k) as (<i>l</i>), in first sentence inserted “, and issue regulations,” after “agreements”, and in second sentence substituted “contracts, agreements, or regulations” for “contracts or agreements” wherever appearing. Former subsec. (<i>l</i>) redesignated (m).
+Subsec. (l). Pub. L. 103–354, §104(1), (3), redesignated subsec. (k) as (l), in first sentence inserted “, and issue regulations,” after “agreements”, and in second sentence substituted “contracts, agreements, or regulations” for “contracts or agreements” wherever appearing. Former subsec. (l) redesignated (m).
 
-Subsec. (m). Pub. L. 103–354, §104(1), redesignated subsec. (<i>l</i>) as (m). Former subsec. (m) redesignated (n).
+Subsec. (m). Pub. L. 103–354, §104(1), redesignated subsec. (l) as (m). Former subsec. (m) redesignated (n).
 
-Subsec. (n). Pub. L. 103–354, §104(1), redesignated subsec. (m) as (n). Former subsec. (n) redesignated (<i>o</i>).
+Subsec. (n). Pub. L. 103–354, §104(1), redesignated subsec. (m) as (n). Former subsec. (n) redesignated (o).
 
 Subsec. (n)(1)(B). Pub. L. 103–354, §104(4), added subpar. (B) and struck out former subpar. (B) which read as follows: “disqualify the person from receiving any benefit under this chapter for a period of not to exceed 10 years.”
 
-Subsec. (<i>o</i>). Pub. L. 103–354, §104(1), (5)(B), redesignated subsec. (n) as (<i>o</i>) and reenacted heading without change.
+Subsec. (o). Pub. L. 103–354, §104(1), (5)(B), redesignated subsec. (n) as (o) and reenacted heading without change.
 
-Subsec. (<i>o</i>)(1). Pub. L. 103–354, §104(5)(B), designated existing provisions as par. (1) and inserted heading. Former par. (1) redesignated subpar. (A).
+Subsec. (o)(1). Pub. L. 103–354, §104(5)(B), designated existing provisions as par. (1) and inserted heading. Former par. (1) redesignated subpar. (A).
 
-Subsec. (<i>o</i>)(1)(A). Pub. L. 103–354, §104(5)(A), (C), redesignated former par. (1) as subpar. (A) and substituted “(as defined by the Secretary) from obtaining Federal crop insurance” for “from obtaining adequate Federal crop insurance, as determined by the Corporation”.
+Subsec. (o)(1)(A). Pub. L. 103–354, §104(5)(A), (C), redesignated former par. (1) as subpar. (A) and substituted “(as defined by the Secretary) from obtaining Federal crop insurance” for “from obtaining adequate Federal crop insurance, as determined by the Corporation”.
 
-Subsec. (<i>o</i>)(1)(B). Pub. L. 103–354, §104(5)(A), redesignated former par. (2) as subpar. (B).
+Subsec. (o)(1)(B). Pub. L. 103–354, §104(5)(A), redesignated former par. (2) as subpar. (B).
 
-Subsec. (<i>o</i>)(1)(C). Pub. L. 103–354, §104(5)(A), (D), redesignated former par. (3) as subpar. (C) and inserted “, agents, and loss adjusters” after “participating producers” and after “identify insured producers”.
+Subsec. (o)(1)(C). Pub. L. 103–354, §104(5)(A), (D), redesignated former par. (3) as subpar. (C) and inserted “, agents, and loss adjusters” after “participating producers” and after “identify insured producers”.
 
-Subsec. (<i>o</i>)(1)(D). Pub. L. 103–354, §104(5)(A), redesignated former par. (4) as subpar. (D).
+Subsec. (o)(1)(D). Pub. L. 103–354, §104(5)(A), redesignated former par. (4) as subpar. (D).
 
-Subsec. (<i>o</i>)(2) to (4). Pub. L. 103–354, §104(5)(A), (E), added pars. (2) and (3) and redesignated former pars. (2) to (4) as subpars. (B) to (D), respectively, of par. (1) and realigned their margins.
+Subsec. (o)(2) to (4). Pub. L. 103–354, §104(5)(A), (E), added pars. (2) and (3) and redesignated former pars. (2) to (4) as subpars. (B) to (D), respectively, of par. (1) and realigned their margins.
 
 Subsecs. (p) to (r). Pub. L. 103–354, §104(6), added subsecs. (p) to (r).
 
@@ -230,7 +230,7 @@ Subsec. (j). Pub. L. 101–624, §2202(b)(11), (14), inserted heading and “The
 
 Subsec. (k). Pub. L. 101–624, §2202(b)(12), inserted heading and “The Corporation”.
 
-Subsec. (<i>l</i>). Pub. L. 101–624, §2201(a), added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 101–624, §2201(a), added subsec. (l).
 
 Subsec. (m). Pub. L. 101–624, §2202(a), added subsec. (m).
 
@@ -260,11 +260,11 @@ Pub. L. 105–185, title V, §537, June 23, 1998, 112 Stat. 584, provided that: 
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–354 effective Oct. 13, 1994, and applicable to provision of crop insurance underFederal Crop Insurance Act (7 U.S.C. 1501 et seq.) beginning with 1995 crop year, with such Act, as in effect on the day before Oct. 13, 1994, to continue to apply with respect to 1994 crop year, see section 120 of Pub. L. 103–354, set out as a note under section 1502 of this title.
+Amendment by Pub. L. 103–354 effective Oct. 13, 1994, and applicable to provision of crop insurance under Federal Crop Insurance Act (7 U.S.C. 1501 et seq.) beginning with 1995 crop year, with such Act, as in effect on the day before Oct. 13, 1994, to continue to apply with respect to 1994 crop year, see section 120 of Pub. L. 103–354, set out as a note under section 1502 of this title.
 
 #### Effective Date of 1993 Amendment
 
-Section 1403(c)(1) of Pub. L. 103–66 provided that: “Except as provided in paragraph (2), this section \[amending this section and sections 1508 and 1508a of this title\] and the amendments made by this section shall become effective on October 1, 1993.”
+Pub. L. 103–66, title I, §1403(c)(1), Aug. 10, 1993, 107 Stat. 335, provided that: “Except as provided in paragraph (2), this section \[amending this section and sections 1508 and 1508a of this title\] and the amendments made by this section shall become effective on October 1, 1993.”
 
 #### Effective Date of 1980 Amendment
 
@@ -272,7 +272,7 @@ Amendment by Pub. L. 96–365 effective Sept. 26, 1980, see section 112 of Pub. 
 
 #### Regulations
 
-Section 1403(c)(2) of Pub. L. 103–66 provided that: “Not later than 30 days after the date of enactment of this Act \[Aug. 10, 1993\], the Secretary of Agriculture shall publish, for public comment, proposed regulations to implement the amendments made by this section \[amending this section and sections 1508 and 1508a of this title\].”
+Pub. L. 103–66, title I, §1403(c)(2), Aug. 10, 1993, 107 Stat. 335, provided that: “Not later than 30 days after the date of enactment of this Act \[Aug. 10, 1993\], the Secretary of Agriculture shall publish, for public comment, proposed regulations to implement the amendments made by this section \[amending this section and sections 1508 and 1508a of this title\].”
 
 #### Transfer of Functions
 
@@ -318,7 +318,7 @@ Implementation.—To implement this subtitle and the amendments made by this sub
 
 #### Crop Insurance Provider Evaluation
 
-Section 118 of Pub. L. 103–354 provided that:
+Pub. L. 103–354, title I, §118, Oct. 13, 1994, 108 Stat. 3205, provided that:
 
 “(a)
 

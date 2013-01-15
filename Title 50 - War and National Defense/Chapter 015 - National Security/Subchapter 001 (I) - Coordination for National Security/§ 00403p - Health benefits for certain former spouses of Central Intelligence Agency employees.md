@@ -106,13 +106,13 @@ Amendment by section 203(c) of Pub. L. 103–178 applicable to individuals on an
 
 #### Effective Date of 1991 Amendment
 
-Section 307(d) of Pub. L. 102–88 provided that: “The amendments made by this section \[amending this section and provisions formerly set out as a note under section 403 of this title\] shall take effect as of October 1, 1990. No benefits provided pursuant to the amendments made by this section shall be payable with respect to any period before such date.”
+Pub. L. 102–88, title III, §307(d), Aug. 14, 1991, 105 Stat. 433, provided that: “The amendments made by this section \[amending this section and provisions formerly set out as a note under section 403 of this title\] shall take effect as of October 1, 1990. No benefits provided pursuant to the amendments made by this section shall be payable with respect to any period before such date.”
 
 #### Effective Date
 
-Section 303(b) of Pub. L. 99–569 provided that: “The amendment made by this section \[enacting this section\] shall take effect on October 1, 1986.”
+Pub. L. 99–569, title III, §303(b), Oct. 27, 1986, 100 Stat. 3195, provided that: “The amendment made by this section \[enacting this section\] shall take effect on October 1, 1986.”
 
 #### Compliance With Budget Act
 
-Section 307(e) of Pub. L. 102–88 provided that: “Any new spending authority (within the meaning of section 401(c) of the Congressional Budget Act of 1974 \[2 U.S.C. 651(c)\]) provided pursuant to the amendments made by this section \[amending this section and provisions formerly set out as a note under section 403 of this title\] shall be effective for any fiscal year only to such extent or in such amounts as are provided in advance in appropriation Acts.”
+Pub. L. 102–88, title III, §307(e), Aug. 14, 1991, 105 Stat. 433, provided that: “Any new spending authority (within the meaning of section 401(c) of the Congressional Budget Act of 1974 \[2 U.S.C. 651(c)\]) provided pursuant to the amendments made by this section \[amending this section and provisions formerly set out as a note under section 403 of this title\] shall be effective for any fiscal year only to such extent or in such amounts as are provided in advance in appropriation Acts.”
 

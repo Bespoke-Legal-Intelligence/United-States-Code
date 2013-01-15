@@ -66,7 +66,7 @@
 
 (B) If a supplemental report is requested under paragraph (5), the President shall take action under paragraph (1) within 30 days after the supplemental report is received, except that, in a case in which the President has proclaimed provisional relief under section 2252(d)(2)(D) of this title with respect to the article concerned, action by the President under paragraph (1) may not be taken later than the 200th day after the provisional relief was proclaimed.
 
-(5) The President may, within 15 days after the date on which he receives a report from theCommission containing an affirmative determination under section 2252(b)(1) of this title, request additional information from the Commission. The Commission shall, as soon as practicable but in no event more than 30 days after the date on which it receives the President's request, furnish additional information with respect to the industry in a supplemental report.
+(5) The President may, within 15 days after the date on which he receives a report from the Commission containing an affirmative determination under section 2252(b)(1) of this title, request additional information from the Commission. The Commission shall, as soon as practicable but in no event more than 30 days after the date on which it receives the President's request, furnish additional information with respect to the industry in a supplemental report.
 
 #### (b) Reports to Congress
 
@@ -120,7 +120,7 @@ If the President reports under subsection (b)(1) or (2) of this section that—
 
 > shall be treated as an increase in duty.
 
-(B) No proclamation providing for a suspension referred to in subparagraph (A) with respect to any article may be made by the President, nor may any such suspension be recommended by the Commission under section 2252(e) of this title, unless the Commission, in addition to making an affirmative determination under section 2252(b)(1) of this title, determines in thecourse of its investigation under section 2252(b) of this title that the serious injury, or threat thereof, substantially caused by imports to the domestic industry producing a like or directly competitive article results from, as the case may be—
+(B) No proclamation providing for a suspension referred to in subparagraph (A) with respectto any article may be made by the President, nor may any such suspension be recommended by the Commission under section 2252(e) of this title, unless the Commission, in addition to making an affirmative determination under section 2252(b)(1) of this title, determines in the course of its investigation under section 2252(b) of this title that the serious injury, or threat thereof, substantially caused by imports to the domestic industry producing a like or directly competitive article results from, as the case may be—
 
 &emsp;(i) the application of subheading 9802.00.60 or subheading 9802.00.80 of the Harmonized Tariff Schedule of the United States; or
 
@@ -178,11 +178,11 @@ Subsec. (e)(1). Pub. L. 103–465, §302(b)(1), amended par. (1) generally. Prio
 
 “(B) If the initial effective period for action taken under this section is less than 8 years, the President may extend the effective period once, but the aggregate of the initial period and the extension may not exceed 8 years.”
 
-Subsec. (e)(2). Pub. L. 103–465, §303(9), substituted “of a type described in subsection (a)(3)(A), (B), or (C) of this section may be taken under subsection (a)(1) of this section, under section 2252(d)(1)(G) of this title, or under section 2252(d)(2)(D) of this title” for “may be taken under subsection (a)(1)(A), (B), or (C) of this section or under section 2252(d)(2)(B) of this title” and struck out “or threat thereof” after “the serious injury”.
+Subsec. (e)(2). Pub. L. 103–465, §303(9), substituted “of a type described in subsection (a)(3)(A), (B), or (C) of this section may be taken under subsection (a)(1) of this section, under section 2252(d)(1)(G) of this title, or under section 2252(d)(2)(D) of this title” for “may be taken under subsection (a)(1)(A), (B), or (C) of this section or under section 2252(d)(2)(B) of this title” andstruck out “or threat thereof” after “the serious injury”.
 
 Subsec. (e)(4), (5). Pub. L. 103–465, §302(b)(2), (3), amended pars. (4) and (5) generally. Prior to amendment, pars. (4) and (5) read as follows:
 
-“(4) Any action taken under this section proclaiming a quantitative restriction shall permit the importationof a quantity or value of the article which is not less than the quantity or value of such article imported into the United States during the most recent period that is representative of imports of such article.
+“(4) Any action taken under this section proclaiming a quantitative restriction shall permit the importation of a quantity or value of the article which is not less than the quantity or value of such article imported into the United States during the most recent period that is representative of imports of such article.
 
 “(5) To the extent feasible, an effective period of more than 3 years for an action described in subsection (a)(3)(A), (B), or (C) of this section shall be phased down during the period in which the action is taken, with the first reduction taking effect no later than the close of the day which is 3 years after the day on which such action first takes effect.”
 
@@ -246,7 +246,7 @@ Amendment by Pub. L. 96–39 effective July 26, 1979, see section 1114 of Pub. L
 
 #### Steel Import Stabilization
 
-Title VIII of Pub. L. 98–573, as amended by Pub. L. 100–418, title I, §1322, Aug. 23, 1988, 102 Stat. 1195; Pub. L. 101–221, §§2, 3(a), 4–6(a), Dec. 12, 1989, 103 Stat. 1886–1889, known as the Steel Import Stabilization Act, endorsed principles and goals of steel trade liberalization program as announced by the President on July 25, 1989, and provided for its implementation, granted specific enforcement powers to President to carry out terms and conditions of bilateral arrangements entered into for purposes of implementing that program, made continuation of those powers subject to condition that steel industry continue to modernize its plant and equipment and provide for appropriate worker retraining, directed Secretary of Labor to prepare and submit to Congress plan of action for assisting workers in communities adversely affected by imports of steel products, and provided that section 805 which provided enforcement authority for President would terminate Mar. 31, 1992.
+Title VIII of Pub. L. 98–573, as amended by Pub. L. 100–418, title I, §1322, Aug. 23, 1988, 102 Stat. 1195; Pub. L. 101–221, §§2, 3(a), 4–6(a), Dec. 12, 1989, 103 Stat. 1886–1889, known as the Steel Import Stabilization Act, endorsed principles and goals of steel trade liberalization program as announced by the President on July 25, 1989, and provided for its implementation, granted specific enforcement powers to President to carry out terms and conditions of bilateral arrangements entered into for purposes of implementing that program, made continuation of those powers subject to condition that steel industry continue to modernize its plant andequipment and provide for appropriate worker retraining, directed Secretary of Labor to prepare and submit to Congress plan of action for assisting workers in communities adversely affected by imports of steel products, and provided that section 805 which provided enforcement authority for President would terminate Mar. 31, 1992.
 
 #### Limitation on Meat Imports
 

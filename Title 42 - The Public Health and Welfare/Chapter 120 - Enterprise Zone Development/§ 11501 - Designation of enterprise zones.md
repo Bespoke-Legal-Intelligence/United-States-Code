@@ -238,5 +238,5 @@ Subsec. (a)(3)(A). Pub. L. 100–628, §1090(a), amended first sentence generall
 
 #### Regulations
 
-Section 1090(c) of Pub. L. 100–628 provided that: “Not later than 30 days after the date of the enactment of this Act \[Nov. 7, 1988\], the Secretary of Housing and Urban Development shall revise the regulations issued by the Secretary to carry out title VII of the Housing and Community Development Act of 1987 (42 U.S.C. 11501 et seq.) by issuing a final regulation, effective upon the date of publication, that carries out the amendments made by this section \[amending this section\].”
+Pub. L. 100–628, title X, §1090(c), Nov. 7, 1988, 102 Stat. 3283, provided that: “Not later than 30 days after the date of the enactment of this Act \[Nov. 7, 1988\], the Secretary of Housing and Urban Development shall revise the regulations issued by the Secretary to carry out title VII of the Housing and Community Development Act of 1987 (42 U.S.C. 11501 et seq.) by issuing a final regulation, effective upon the date of publication, that carries out the amendments made by this section \[amending this section\].”
 

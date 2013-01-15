@@ -40,7 +40,7 @@ Limitation.—A duty or power specified in subsection (g)(1) may be transferred 
 
 (i)
 
-Authorities.—Subject to the provisions of subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, the Secretary of Transportation may make, enter into, and perform such contracts, grants, leases, cooperative agreements, and other similar transactions with Federal or other public agencies (including State and local governments) and private organizations and persons, and make such payments, by way of advance or reimbursement, as the Secretary may determine to be necessary or appropriate to carry out functions at the Administration. The authority of the Secretary granted by this subsection shall be carried out by the Administrator. Notwithstanding any other provision of this chapter, no authority to enter into contracts or to make payments under this subsection shall be effective, except as provided for in appropriations Acts.
+Authorities.—Subject to the provisions of subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) ofsubtitle I of title 41, the Secretary of Transportation may make, enter into, and perform such contracts, grants, leases, cooperative agreements, and other similar transactions with Federal or other public agencies (including State and local governments) and private organizations and persons, and make such payments, by way of advance or reimbursement, as the Secretary may determine to be necessary or appropriate to carry out functions at the Administration. The authority of the Secretary granted by this subsection shall be carried out by the Administrator. Notwithstanding any other provision of this chapter, no authority to enter into contracts or to make payments under this subsection shall be effective, except as provided for in appropriations Acts.
 
 (j)
 
@@ -76,7 +76,7 @@ Resource needs.—The strategy and annual plans shall include estimates of the f
 
 Submission with president's budget.—Beginning with fiscal year 2010 and each fiscal year thereafter, the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate, at the same time as the President's budget submission, the Administration's performance goals and schedule developed under paragraph (1), including an assessment of the progress of the Administration toward achieving its performance goals.
 
-(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2414; Pub. L. 98–216, §2(2), Feb. 14, 1984, 98 Stat. 5; Pub. L. 103–272, §5(m)(1), July 5, 1994, 108 Stat. 1375; Pub. L. 103–440, title II, §216, Nov. 2, 1994, 108 Stat. 4624; Pub. L. 107–217, §3(n)(1), Aug. 21, 2002, 116 Stat. 1302; Pub. L. 110–432, div. A, title I, §101, div. B, title III, §307, Oct. 16, 2008, 122 Stat. 4851, 4953; Pub. L. 111–350, §5(<i>o</i>)(1), Jan. 4, 2011, 124 Stat. 3853.)
+(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2414; Pub. L. 98–216, §2(2), Feb. 14, 1984, 98 Stat. 5; Pub. L. 103–272, §5(m)(1), July 5, 1994, 108 Stat. 1375; Pub. L. 103–440, title II, §216, Nov. 2, 1994, 108 Stat. 4624; Pub. L. 107–217, §3(n)(1), Aug. 21, 2002, 116 Stat. 1302; Pub. L. 110–432, div. A, title I, §101, div. B, title III, §307, Oct. 16, 2008, 122 Stat. 4851, 4953; Pub. L. 111–350, §5(o)(1), Jan. 4, 2011, 124 Stat. 3853.)
 
 Historical and Revision Notes
 
@@ -144,7 +144,7 @@ The date of enactment of the Passenger Rail Investment and Improvement Act of 20
 
 <b>2011</b>—Subsec. (i). Pub. L. 111–350, which directed substitution of “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)” in subsec. (e), was executed to subsec. (i), to reflect the probable intent of Congress.
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–432, §307(1), (2), inserted heading and struck out at end “To carry out all railroad safety laws of the United States, the Administration is divided on a geographical basis into at least 8safety offices. The Secretary of Transportation is responsible for all acts taken under those laws and for ensuring that the laws are uniformly administered and enforced among the safety offices.”
+<b>2008</b>—Subsec. (a). Pub. L. 110–432, §307(1), (2), inserted heading and struck out at end “To carry out all railroad safety laws of the United States, the Administration is divided on a geographical basis into at least 8 safety offices. The Secretary of Transportation is responsible for all acts taken under those laws and for ensuring that the laws are uniformly administered and enforced among the safety offices.”
 
 Subsecs. (b) to (k). Pub. L. 110–432, §§101, 307(3), (4), added subsecs. (b) to (k) and struck out former subsecs. (b) to (e), which related to: in subsec. (b), Administrator as head of the Administration; in subsec. (c), Administrator's duties and powers; in subsec. (d), transfer of duties or powers and effect of Administrator's decision; and, in subsec. (e), authority of Secretary of Transportation.
 

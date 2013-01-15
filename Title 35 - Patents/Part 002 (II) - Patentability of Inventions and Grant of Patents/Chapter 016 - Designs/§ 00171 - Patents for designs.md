@@ -4,11 +4,39 @@ Whoever invents any new, original and ornamental design for an article of manufa
 
 The provisions of this title relating to patents for inventions shall apply to patents for designs, except as otherwise provided.
 
-(July 19, 1952, ch. 950, 66 Stat. 805.)
+(July 19, 1952, ch. 950, 66 Stat. 805; Pub. L. 112–211, title II, §202(a), Dec. 18, 2012, 126 Stat. 1535.)
+
+#### Amendment of Section
+
+<i>Pub. L. 112–211, title II, §§202(a), 203, Dec. 18, 2012, 126 Stat. 1535, 1536, provided that, effective on the date that is 1 year after Dec. 18, 2012, applicable to patents issued before, on, or after that effective date and patent applications pending on or filed after that effective date, and not effective with respect to patents in litigation commenced before that effective date, this section is amended as follows:</i>
+
+<i>(1) by striking “Whoever” and inserting “(a)</i>
+
+<i>In General.—Whoever”;</i>
+
+<i>(2) by striking “The provisions” and inserting “(b)</i>
+
+<i>Applicability of This Title.—The provisions”; and</i>
+
+<i>(3) by adding at the end the following:</i>
+
+<i>(c)</i>
+
+<i>Filing Date.—The filing date of an application for patent for design shall be the date on which the specification as prescribed by section 112 and any required drawings are filed.</i>
+
+<i>See 2012 Amendment note below.</i>
 
 #### Historical and Revision Notes
 
 Based on Title 35, U.S.C., 1946 ed., §73 (R.S. 4929, amended (1) May 9, 1902, ch. 783, 32 Stat. 193, (2) Aug. 5, 1939, ch. 450, §1, 53 Stat. 1212; R.S. 4933).
 
 The list of conditions specified in the corresponding section of existing statute is omitted as unnecessary in view of the general inclusion of all conditions applying to other patents. Language is changed.
+
+#### Amendments
+
+<b>2012</b>—Pub. L. 112–211 designated first and second pars. as subsecs. (a) and (b), respectively, inserted headings, and added subsec. (c).
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–211 effective on the date that is 1 year after Dec. 18, 2012, applicable to patents issued before, on, or after that effective date and patent applications pending on or filed after that effective date, and not effective with respect to patents in litigation commenced before that effective date, see section 203 of Pub. L. 112–211, set out as an Effective Date note under section 27 of this title.
 

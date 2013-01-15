@@ -86,13 +86,13 @@ Pub. L. 112–56, title II, §233(c), Nov. 21, 2011, 125 Stat. 720, provided tha
 
 #### Effective Date of 1992 Amendment
 
-Section 404(b) of Pub. L. 102–568, as amended by Pub. L. 103–446, title VI, §602(c)(1), Nov. 2, 1994, 108 Stat. 4671, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1993, but shall not apply to veterans and other persons who originally applied for assistance under chapter 31 of title 38, United States Code, before November 1, 1990.”
+Pub. L. 102–568, title IV, §404(b), Oct. 29, 1992, 106 Stat. 4338, as amended by Pub. L. 103–446, title VI, §602(c)(1), Nov. 2, 1994, 108 Stat. 4671, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1993, but shall not apply to veterans and other persons who originally applied for assistance under chapter 31 of title 38, United States Code, before November 1, 1990.”
 
-\[Section 602(c)(2) of Pub. L. 103–446 provided that: “The amendment made by paragraph (1) \[amending section 404(b) of Pub. L. 102–568, set out above\] shall take effect as of October 29, 1992.”\]
+\[Pub. L. 103–446, title VI, §602(c)(2), Nov. 2, 1994, 108 Stat. 4671, provided that: “The amendment made by paragraph (1) \[amending section 404(b) of Pub. L. 102–568, set out above\] shall take effect as of October 29, 1992.”\]
 
 #### Effective Date of 1990 Amendment
 
-Section 8021(b) of Pub. L. 101–508 provided that: “The amendments made by this section \[amending this section\] shall apply to veterans and other persons originally applying for assistance under chapter 31 of title 38, United States Code, on or after November 1, 1990.”
+Pub. L. 101–508, title VIII, §8021(b), Nov. 5, 1990, 104 Stat. 1388–347, provided that: “The amendments made by this section \[amending this section\] shall apply to veterans and other persons originally applying for assistance under chapter 31 of title 38, United States Code, on or after November 1, 1990.”
 
 #### Effective Date
 

@@ -18,7 +18,7 @@ Provisions similar to those in this section were contained in section 784 of thi
 
 #### Amendments
 
-<b>2004</b>—Subsec. (b). Pub. L. 108–293, §220(b), amended subsec. (b) generally. Prior to amendment, subsec. (b)read as follows: “Notwithstanding any other law, when the running mate of a reserve officer serving in the grade of rear admiral (lower half) is promoted to the grade of rear admiral, the reserve officer shall also be promoted to that grade.”
+<b>2004</b>—Subsec. (b). Pub. L. 108–293, §220(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Notwithstanding any other law, when the running mate of a reserve officer serving in the grade of rear admiral (lower half) is promoted to the grade of rear admiral, the reserve officer shall also be promoted to that grade.”
 
 Subsec. (c). Pub. L. 108–293, §220(c), struck out “of subsection (a)” after “For the purposes”.
 

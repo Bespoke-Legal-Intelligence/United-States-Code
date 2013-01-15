@@ -58,7 +58,7 @@ The Administrator shall establish and carry out special programs under this subp
 
 #### Amendments
 
-<b>2000</b>—Subsec. (a)(1). Pub. L. 106–373, §3(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “to strengthen the capabilities of universities in teaching, research, and extension work to enable them to implement current programs authorized by paragraphs (2), (3), (4), and (5) of this subsection, and those proposed in the report required by section 2220e of this title;”.
+<b>2000</b>—Subsec. (a)(1). Pub. L. 106–373, §3(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read asfollows: “to strengthen the capabilities of universities in teaching, research, and extension work to enable them to implement current programs authorized by paragraphs (2), (3), (4), and (5) of this subsection, and those proposed in the report required by section 2220e of this title;”.
 
 Subsec. (a)(3). Pub. L. 106–373, §3(a)(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “to provide program support for long-term collaborative university research, in the developing countries themselves to the maximum extent practicable, on food production, distribution, storage, marketing, and consumption;”.
 

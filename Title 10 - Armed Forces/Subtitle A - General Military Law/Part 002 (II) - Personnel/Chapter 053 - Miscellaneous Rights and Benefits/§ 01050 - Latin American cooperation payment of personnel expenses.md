@@ -1,6 +1,6 @@
 ### §1050. Latin American cooperation: payment of personnel expenses
 
-The Secretary of Defense or the Secretary of a military department may pay the travel, subsistence, and special compensation of officers and students of Latin American countries and other expenses that the Secretary considers necessary for Latin American cooperation.
+The Secretary of Defense or the Secretary of a military department may pay the travel, subsistence, and special compensation of officersand students of Latin American countries and other expenses that the Secretary considers necessary for Latin American cooperation.
 
 (Added Pub. L. 98–525, title XIV, §1401(d)(1), Oct. 19, 1984, 98 Stat. 2616; amended Pub. L. 105–261, div. A, title IX, §905(b), Oct. 17, 1998, 112 Stat. 2093.)
 

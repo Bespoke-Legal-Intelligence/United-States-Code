@@ -36,7 +36,7 @@ Information for Inclusion in Comprehensive Statement.—Included in its comprehe
 
 &emsp;(2) the amount of the bonus or other payment; and
 
-&emsp;(3) the amount by which the limitation set forth in the last sentence of section 1003(a) was exceeded as a result of such bonus or other payment.
+&emsp;(3) the amount by which the limitation set forth in the last sentence of section 1003(a) wasexceeded as a result of such bonus or other payment.
 
 (e)
 

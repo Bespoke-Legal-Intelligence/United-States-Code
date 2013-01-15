@@ -32,7 +32,7 @@ Pub. L. 104–106, §1502(a)(5), substituted “Committee on Armed Services and 
 
 Subsec. (d). Pub. L. 104–106, §915(1), redesignated subsec. (c), as amended by Pub. L. 104–106, §§1502(a)(5), 1506, as (d).
 
-<b>1994</b>—Subsec. (c). Pub. L. 103–337 struck out par. (1) designation before “In any case” and struck out par. (2) which read as follows: “The amount of funds expended by the Inspector General of the Department of Defense under subsections (a) and (b) during a fiscal year may not exceed $400,000.”
+<b>1994</b>—Subsec. (c). Pub. L. 103–337 struck out par. (1) designation before “In any case” and struck out par. (2)which read as follows: “The amount of funds expended by the Inspector General of the Department of Defense under subsections (a) and (b) during a fiscal year may not exceed $400,000.”
 
 <b>1993</b>—Subsec. (a). Pub. L. 103–160, §361(1), inserted “, the Inspector General of the Department of Defense,” after “the Secretary of Defense” and “or the Inspector General” after “the Secretary concerned” and after “The Secretary concerned”.
 

@@ -78,7 +78,7 @@ For purposes of this section—
 
 <b>2004</b>—Subsec. (b). Pub. L. 108–357, §902(a)(2), substituted “deduct” for “amortize” in heading.
 
-Subsec. (b)(1). Pub. L. 108–357, §902(a)(1), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “Start-up expendituresmay, at the election of the taxpayer, be treated as deferred expenses. Such deferred expenses shall be allowed as a deduction prorated equally over such period of not less than 60 months as may be selected by the taxpayer (beginning with the month in which the active trade or business begins).”
+Subsec. (b)(1). Pub. L. 108–357, §902(a)(1), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “Start-up expenditures may, at the election of the taxpayer, be treated as deferred expenses. Such deferred expenses shall be allowed as a deduction prorated equally over such period of not less than 60 months as may be selected by the taxpayer (beginning with the month in which the active trade or business begins).”
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–369 amended subsec. (a) generally, substituting provisions dealing with capitalization of expenditures for provisions dealing with election to amortize.
 
@@ -98,9 +98,9 @@ Pub. L. 108–357, title VIII, §902(d), Oct. 22, 2004, 118 Stat. 1652, provided
 
 #### Effective Date of 1984 Amendment
 
-Section 94(c) of Pub. L. 98–369 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after June 30, 1984.”
+Pub. L. 98–369, div. A, title I, §94(c), July 18, 1984, 98 Stat. 615, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after June 30, 1984.”
 
 #### Effective Date
 
-Section 102(c) of Pub. L. 96–605 provided that: “The amendments made by this section \[enacting this section\] shall apply to amounts paid or incurred after July 29, 1980, in taxable years ending after such date.”
+Pub. L. 96–605, title I, §102(c), Dec. 28, 1980, 94 Stat. 3522, provided that: “The amendments made by this section \[enacting this section\] shall apply to amounts paid or incurred after July 29, 1980, in taxable years ending after such date.”
 

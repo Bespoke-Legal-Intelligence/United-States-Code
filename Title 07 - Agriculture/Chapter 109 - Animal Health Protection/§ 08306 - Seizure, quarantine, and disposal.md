@@ -92,7 +92,7 @@ The Secretary may hold, seize, quarantine, treat, destroy, dispose of, or take o
 
 #### (C) Reviewability
 
-&emsp;&emsp;The determination by the Secretary of the amount to be paid under this subsection shall be final and not subject to judicial review or review by any officer or employee of the Federal Government other than the Secretary or the designee of the Secretary.
+&emsp;&emsp;The determination by the Secretary of the amount to be paid under this subsectionshall be final and not subject to judicial review or review by any officer or employee of the Federal Government other than the Secretary or the designee of the Secretary.
 
 #### (3) Exceptions
 
@@ -122,7 +122,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 #### Transfer of Functions
 

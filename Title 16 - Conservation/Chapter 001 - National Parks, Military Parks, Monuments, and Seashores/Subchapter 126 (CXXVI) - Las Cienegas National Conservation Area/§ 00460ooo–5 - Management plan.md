@@ -2,7 +2,7 @@
 
 #### (a) Plan required
 
-Not later than 2 years after December 6, 2000, the Secretary, through the Bureau of Land Management, shall develop and begin to implement a comprehensive management plan for the long-term management of the public lands within the Conservation Area in order to fulfill the purposes for which it is established, as set forth in section 460<i>ooo</i>–3(a) of this title. Consistent with the provisions of this subchapter, the management plan shall be developed—
+Not later than 2 years after December 6, 2000, the Secretary, through the Bureau of Land Management, shall develop and begin to implement a comprehensive management plan for the long-term management of the public lands within the Conservation Area in order to fulfill the purposes for which it is established, as set forth in section 460ooo–3(a) of this title. Consistent with the provisions of this subchapter, the management plan shall be developed—
 
 &emsp;(1) in consultation with appropriate departments of the State of Arizona, including wildlife and land management agencies, with full public participation;
 
@@ -14,17 +14,17 @@ Not later than 2 years after December 6, 2000, the Secretary, through the Bureau
 
 The management plan shall include—
 
-&emsp;(1) provisions designed to ensure the protection of the resources and values described in section 460<i>ooo</i>–3(a) of this title;
+&emsp;(1) provisions designed to ensure the protection of the resources and values described in section 460ooo–3(a) of this title;
 
 &emsp;(2) an implementation plan for a continuing program of interpretation and public education about the resources and values of the Conservation Area;
 
 &emsp;(3) a proposal for minimal administrative and public facilities to be developed or improved at a level compatible with achieving the resource objectives for the Conservation Area and with the other proposed management activities to accommodate visitors to the Conservation Area;
 
-&emsp;(4) cultural resources management strategies for the Conservation Area, prepared in consultation with appropriate departments of the State of Arizona, with emphasis on the preservation of the resources of the Conservation Area and the interpretive, educational, and long-term scientific uses of these resources, giving priority to the enforcement of the Archaeological Resources Protection Act of 1979 (16 U.S.C. 470aa et seq.) and the National Historic Preservation Act (16 U.S.C. 470 et seq.) within the Conservation Area;
+&emsp;(4) cultural resources management strategies for the Conservation Area, prepared inconsultation with appropriate departments of the State of Arizona, with emphasis on the preservation of the resources of the Conservation Area and the interpretive, educational, and long-term scientific uses of these resources, giving priority to the enforcement of the Archaeological Resources Protection Act of 1979 (16 U.S.C. 470aa et seq.) and the National Historic Preservation Act (16 U.S.C. 470 et seq.) within the Conservation Area;
 
 &emsp;(5) wildlife management strategies for the Conservation Area, prepared in consultation with appropriate departments of the State of Arizona and using previous studies of the Conservation Area;
 
-&emsp;(6) production livestock grazing management strategies, prepared in consultation withappropriate departments of the State of Arizona;
+&emsp;(6) production livestock grazing management strategies, prepared in consultation with appropriate departments of the State of Arizona;
 
 &emsp;(7) provisions designed to ensure the protection of environmentally sustainable livestock use on appropriate lands within the Conservation Area;
 

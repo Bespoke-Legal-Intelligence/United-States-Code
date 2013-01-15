@@ -10,7 +10,7 @@ Whenever the President determines that any existing duties or other import restr
 
 #### (b) Maximum volume of imported articles subject to reduction of duties or continuance of duty-free or excise treatment
 
-Agreements entered into under this section in any 1-year period shall not provide for the reduction of duties, or the continuance of duty-free or excise treatment, for articles which account for more than 2 percent of the value of United States imports for the most recent 12-month period for which import statistics are available.
+Agreements entered into under this section in any 1-year period shall not provide for the reduction of duties, or the continuance of duty-free or excise treatment, for articles which account for more than 2 percent of the value ofUnited States imports for the most recent 12-month period for which import statistics are available.
 
 #### (c) Maximum reduction in duties
 
@@ -18,7 +18,7 @@ Agreements entered into under this section in any 1-year period shall not provid
 
 (2) No proclamation shall be made pursuant to subsection (a) of this section decreasing or increasing any rate of duty to a rate which is lower or higher than the corresponding rate which would have resulted if the maximum authority granted by section 2111 of this title with respect to such article had been exercised.
 
-(3) Where the rate of duty in effect at any time is an intermediate stage under section 2119 of this title, the proclamation made pursuant tosubsection (a) of this section may provide for the reduction of each rate of duty at each such stage proclaimed under section 2111 of this title by not more than 20 percent of such rate of duty, and, subject to the limitation in paragraph (2), may provide for a final rate of duty which is not less than 80 percent of the rate of duty proclaimed as the final stage under section 2111 of this title.
+(3) Where the rate of duty in effect at any time is an intermediate stage under section 2119 of this title, the proclamation made pursuant to subsection (a) of this section may provide for the reduction of each rate of duty at each such stage proclaimed under section 2111 of this title by not more than 20 percent of such rate of duty, and, subject to the limitation in paragraph (2), may provide for a final rate of duty which is not less than 80 percent of the rate of duty proclaimed as the final stage under section 2111 of this title.
 
 (4) If the President determines that such action will simplify the computation of the amount of duty imposed with respect to an article, he may exceed the limitations provided by paragraphs (1) and (2) of this subsection by not more than the lesser of—
 

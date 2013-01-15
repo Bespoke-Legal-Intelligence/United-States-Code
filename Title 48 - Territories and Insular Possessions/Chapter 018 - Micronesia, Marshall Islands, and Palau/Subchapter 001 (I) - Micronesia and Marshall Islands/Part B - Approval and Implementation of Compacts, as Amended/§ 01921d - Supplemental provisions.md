@@ -192,7 +192,7 @@ Technical assistance may be provided pursuant to section 224 of the U.S.-FSM Com
 
 Notwithstanding any other provision of law, persons who on January 1, 1985, were eligible to receive payment under the Prior Service Benefits Program established within the Social Security System of the Trust Territory of the Pacific Islands because of their services performed for the United States Navy or the Government of the Trust Territory of the Pacific Islands prior to July 1, 1968, shall continue to receive such payments on and after the effective date of the Compact.
 
-#### (<i>l</i>) Indefinite land use payments
+#### (l) Indefinite land use payments
 
 There are authorized to be appropriated such sums as may be necessary to complete repayment by the United States of any debts owed for the use of various lands in the Federated States of Micronesia and the Marshall Islands prior to January 1, 1985.
 
@@ -204,7 +204,7 @@ There are authorized to be appropriated for grants to the Government of the Fede
 
 Any person in the Federated States of Micronesia or the Republic of the Marshall Islands shall be liable for user fees, if any, for services provided in the Federated States of Micronesia or the Republic of the Marshall Islands by the Government of the United States to the same extent as any person in the United States would be liable for fees, if any, for such services in the United States.
 
-#### (<i>o</i>) Treatment of judgments of courts of the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau
+#### (o) Treatment of judgments of courts of the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau
 
 No judgment, whenever issued, of a court of the Federated States of Micronesia, the Republic of the Marshall Islands, or the Republic of Palau, against the United States, its departments and agencies, or officials of the United States or any other individuals acting on behalf of the United States within the scope of their official duty, shall be honored by the United States, or be subject to recognition or enforcement in a court in the United States, unless the judgment is consistent with the interpretation by the United States of international agreements relevant to the judgment. In determining the consistency of a judgment with an international agreement, due regard shall be given to assurances made by the Executive Branch to Congress of the United States regarding the proper interpretation of the international agreement.
 
@@ -230,7 +230,7 @@ No judgment, whenever issued, of a court of the Federated States of Micronesia, 
 
 &emsp;Without limiting the authority that the United States Government may otherwise have under applicable law, the United States Government may, but shall not be obligated to, provide financial, technical, or other assistance directly or indirectly to the Government of the Federated States of Micronesia or the Government of the Republic of the Marshall Islands for the purpose of establishing and operating a trust fund or other legal entity that will solicit bids from, and enter into contracts with, parties willing to serve in such capacities as trustee, depositary, money manager, or investment advisor, with the intention that the contracts will ultimately be assumed by and assigned to a trust fund established pursuant to a Trust Fund Agreement.
 
-(Pub. L. 108–188, title I, §105, Dec. 17, 2003, 117 Stat. 2744; Pub. L. 109–270, §2(<i>l</i>), Aug. 12, 2006, 120 Stat. 749; Pub. L. 110–161, div. F, title I, §124, Dec. 26, 2007, 121 Stat. 2121; Pub. L. 110–229, title VIII, §§803(a), 804, 805, 806(a)(3), May 8, 2008, 122 Stat. 870, 871.)
+(Pub. L. 108–188, title I, §105, Dec. 17, 2003, 117 Stat. 2744; Pub. L. 109–270, §2(l), Aug. 12, 2006, 120 Stat. 749; Pub. L. 110–161, div. F, title I, §124, Dec. 26, 2007, 121 Stat. 2121; Pub. L. 110–229, title VIII, §§803(a), 804, 805, 806(a)(3), May 8, 2008, 122 Stat. 870, 871.)
 
 #### References in Text
 

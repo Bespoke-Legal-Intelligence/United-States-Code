@@ -58,8 +58,8 @@
 | [426m.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000426m%20-%20Collection%20and%20removal%20of%20drift%20and%20debris%20from%20publicly%20maintained%20commercial%20boat%20harbors%20and%20adjacent%20land%20and%20water%20areas.md) | Collection and removal of drift and debris from publicly maintained commercial boat harbors and adjacent land and water areas. |
 | [426n.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000426n%20-%20Technical%20assistance%20to%20States%20and%20local%20governments%3B%20cost%20sharing.md) | Technical assistance to States and local governments; cost sharing. |
 | 426<i>o.</i> | Great Lakes material disposal. |
-| 426<i>o</i>–1. | Great Lakes dredging levels adjustment. |
-| 426<i>o</i>–2. | Great Lakes navigation and protection. |
+| 426o–1. | Great Lakes dredging levels adjustment. |
+| 426o–2. | Great Lakes navigation and protection. |
 | [426p.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000426p%20-%20Corps%20of%20Engineers.md) | Corps of Engineers. |
 | 427 to 430. Repealed. |  |
 

@@ -16,7 +16,7 @@ If—
 
 &emsp;(4) no portion of such earned income is transferred (directly or indirectly) between such individuals before the close of the calendar year,
 
-> then, for purposes of this title, any community income of such individuals for the calendar yearshall be treated in accordance with the rules provided by section 879(a).
+> then, for purposes of this title, any community income of such individuals for the calendar year shall be treated in accordance with the rules provided by section 879(a).
 
 #### (b) Secretary may disregard community property laws where spouse not notified of community income
 
@@ -56,7 +56,7 @@ For purposes of this section—
 
 #### Amendments
 
-<b>1998</b>—Subsec. (c). Pub. L. 105–206 inserted at end “Under procedures prescribed by the Secretary, if, taking into account all the facts and circumstances, it is inequitable to hold the individual liable for any unpaid tax or any deficiency (or any portion of either) attributable to any item for which relief is not available under the preceding sentence, the Secretary may relieve such individual of such liability.”
+<b>1998</b>—Subsec. (c). Pub. L. 105–206 inserted at end “Under procedures prescribed by the Secretary, if, taking into account all the facts and circumstances, it is inequitable to hold the individual liable for any unpaid tax or any deficiency (or any portion of either) attributable to any item for which relief is not availableunder the preceding sentence, the Secretary may relieve such individual of such liability.”
 
 <b>1989</b>—Subsec. (d)(1). Pub. L. 101–239 substituted “section 911(d)(2)” for “section 911(b)”.
 
@@ -76,5 +76,5 @@ Amendment by Pub. L. 98–369 applicable to all taxable years to which the Inter
 
 #### Effective Date
 
-Section 101(c) of Pub. L. 96–605 provided that: “The amendments made by this section \[enacting this section\] shall apply to calendar years beginning after December 31, 1980.”
+Pub. L. 96–605, title I, §101(c), Dec. 28, 1980, 94 Stat. 3522, provided that: “The amendments made by this section \[enacting this section\] shall apply to calendar years beginning after December 31, 1980.”
 

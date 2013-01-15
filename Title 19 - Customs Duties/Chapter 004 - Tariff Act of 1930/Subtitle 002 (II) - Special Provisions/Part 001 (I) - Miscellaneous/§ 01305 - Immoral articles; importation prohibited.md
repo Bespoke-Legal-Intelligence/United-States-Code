@@ -18,7 +18,7 @@ In any such proceeding any party in interest may upon demand have the facts at i
 
 #### (c) <sup>1</sup> Institution of forfeiture proceedings
 
-Notwithstanding the provisions of subsections (a) and (b) of this section, whenever a customs officer discovers any obscene material after such material has been imported or brought into the United States, or attempted to be imported or brought into the United States, he may refer the matter to the United States attorney for the institution of forfeiture proceedings under this section. Such proceedings shall begin no more than 30 days after the time the material is seized; except that no seizure or forfeiture shall be invalidated for delay if the claimant is responsible for extending the action beyond the allowable time limits or if proceedings are postponed pending the consideration of constitutional issues.
+Notwithstanding the provisions of subsections (a) and (b) of this section, whenever a customsofficer discovers any obscene material after such material has been imported or brought into the United States, or attempted to be imported or brought into the United States, he may refer the matter to the United States attorney for the institution of forfeiture proceedings under this section. Such proceedings shall begin no more than 30 days after the time the material is seized; except that no seizure or forfeiture shall be invalidated for delay if the claimant is responsible for extending the action beyond the allowable time limits or if proceedings are postponed pending the consideration of constitutional issues.
 
 #### (d) Stay of forfeiture proceedings
 
@@ -46,13 +46,17 @@ Upon motion of the United States, a court, for good cause shown, shall stay civi
 
 (June 17, 1930, ch. 497, title III, §305, 46 Stat. 688; June 25, 1948, ch. 645, §21, 62 Stat. 862; June 25, 1948, ch. 646, §1, 62 Stat. 869; Pub. L. 91–271, title III, §301(a), June 2, 1970, 84 Stat. 287; Pub. L. 91–662, §1, Jan. 8, 1971, 84 Stat. 1973; Pub. L. 96–417, title VI, §601(2), Oct. 10, 1980, 94 Stat. 1744; Pub. L. 100–418, title I, §1901(a), Aug. 23, 1988, 102 Stat. 1312; Pub. L. 100–449, title II, §206, Sept. 28, 1988, 102 Stat. 1864; Pub. L. 100–690, title VII, §7522(e)\[d\], Nov. 18, 1988, 102 Stat. 4500.)
 
+#### Amendment of Section
+
+<i>For termination of amendment by section 501(c) of Pub. L. 100–449, see Effective and Termination Dates of 1988 Amendment note below.</i>
+
 #### Prior Provisions
 
-Provisions in substantially the same language as those in this section were made by act Oct. 3, 1913, ch. 16, §IV, subsections 1, 2, and 3, 38 Stat. 194, superseding similar provisions of previous tariff acts. Those subsections were superseded by act Sept. 21, 1922, ch. 356, title III, §305, 42 Stat. 937, and repealed by section 321of that act. Section 305 of act Sept. 21, 1922, was superseded by section 305 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions in substantially the same language as those in this section were made by act Oct. 3, 1913, ch. 16, §IV, subsections 1, 2, and 3, 38 Stat. 194, superseding similar provisions of previous tariff acts. Those subsections were superseded by act Sept. 21, 1922, ch. 356, title III, §305, 42 Stat. 937, and repealed by section 321 of that act. Section 305 of act Sept. 21, 1922, was superseded by section 305 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 #### Amendments
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–449 inserted proviso at end of first par. directing that, “effective January 1, 1993, this section shall not apply to any lottery ticket, printed paper that may be used as a lottery ticket, or advertisement of any lottery, that is printed in Canada for use in connection with a lottery conducted in the United States”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–449 temporarily inserted proviso at end of first par. directing that, “effective January 1, 1993, this section shall not apply to any lottery ticket, printed paper that may be used as a lottery ticket, or advertisement of any lottery, that is printed in Canada for use in connection with a lottery conducted in the United States”. See Effective and Termination Dates of 1988 Amendment note below.
 
 Pub. L. 100–418, §1901(a)(1), designated second par. of subsec. (a) as subsec. (b) “Enforcement procedures”.
 
@@ -78,11 +82,11 @@ Subsec. (d). Pub. L. 100–418 added subsec. (d) relating to stay of forfeiture 
 
 Act June 25, 1948, eff. Sept. 1, 1948, substituted “United States attorney” for “district attorney”. See section 541 of Title 28, Judiciary and Judicial Procedure, and Historical and Revision Notes thereunder.
 
-#### Effective and Termination Dates of 1988 Amendments
+#### Effective and Termination Dates of 1988 Amendment
 
 Amendment by Pub. L. 100–449 effective on date the United States-Canada Free-Trade Agreement enters into force (Jan. 1, 1989), and to cease to have effect on date Agreement ceases to be in force, see section 501(a), (c) of Pub. L. 100–449, set out in a note under section 2112 of this title.
 
-Section 1901(b) of Pub. L. 100–418 provided that: “The amendments made by subsection (a) \[amending this section\] apply with respect to articles entered, or withdrawn from warehouse for consumption, on or after the 15th day after the date of the enactment of this Act \[Aug. 23, 1988\].”
+Pub. L. 100–418, title I, §1901(b), Aug. 23, 1988, 102 Stat. 1312, provided that: “The amendments made by subsection (a) \[amending this section\] apply with respect to articles entered, or withdrawn from warehouse for consumption, on or after the 15th day after the date of the enactment of this Act \[Aug. 23, 1988\].”
 
 #### Effective Date of 1980 Amendment
 

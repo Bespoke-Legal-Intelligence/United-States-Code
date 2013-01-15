@@ -40,5 +40,5 @@ Amendment by Pub. L. 100–203 applicable with respect to activities after Dec. 
 
 #### Construction of Amendment
 
-Section 1307(a)(3) of Pub. L. 94–455 provided that: “It is the intent of Congress that enactment of this section \[amending section 501 and enacting section 504 of this title\] is not to be regarded in any way as an approval or disapproval of the decision of the Court of Appeals for the Tenth Circuit in Christian Echoes National Ministry, Inc. versus United States, 470 F.2d 849 (1972), or of the reasoning in any of the opinions leading to that decision.”
+Pub. L. 94–455, title XIII, §1307(a)(3), Oct. 4, 1976, 90 Stat. 1722, provided that: “It is the intent of Congressthat enactment of this section \[amending section 501 and enacting section 504 of this title\] is not to be regarded in any way as an approval or disapproval of the decision of the Court of Appeals for the Tenth Circuit in Christian Echoes National Ministry, Inc. versus United States, 470 F.2d 849 (1972), or of the reasoning in any of the opinions leading to that decision.”
 

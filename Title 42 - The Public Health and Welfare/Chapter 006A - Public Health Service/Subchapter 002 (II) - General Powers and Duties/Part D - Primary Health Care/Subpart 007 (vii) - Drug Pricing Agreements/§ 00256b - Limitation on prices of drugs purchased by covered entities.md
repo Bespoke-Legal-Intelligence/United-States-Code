@@ -34,7 +34,7 @@
 
 &emsp;In this section, the term “covered entity” means an entity that meets the requirements described in paragraph (5) and is one of the following:
 
-&emsp;&emsp;(A) A Federally-qualified health center (as defined in section 1905(<i>l</i>)(2)(B) of the Social Security Act \[42 U.S.C. 1396d(<i>l</i>)(2)(B)\]).
+&emsp;&emsp;(A) A Federally-qualified health center (as defined in section 1905(l)(2)(B) of the Social Security Act \[42 U.S.C. 1396d(l)(2)(B)\]).
 
 &emsp;&emsp;(B) An entity receiving a grant under section 256a <sup>1</sup> of this title.
 
@@ -390,7 +390,7 @@ Effectiveness.—The amendments made by this section and section 7102 shall be e
 
 #### Study of Treatment of Certain Clinics as Covered Entities Eligible for Prescription Drug Discounts
 
-Section 602(b) of Pub. L. 102–585 directed Secretary of Health and Human Services to conduct a study of feasibility and desirability of including specified entities receiving funds from a State as covered entities eligible for limitations on prices of covered outpatient drugs under 42 U.S.C. 256b(a) and, not later than 1 year after Nov. 4, 1992, to submit a report to Congress on the study, including in the report a description of the entities that were the subject of the study, an analysis of the extent to which such entities procured prescription drugs, and an analysis of the impact of the inclusion of such entities as covered entities on the quality of care provided to and the health status of the patients of such entities.
+Pub. L. 102–585, title VI, §602(b), Nov. 4, 1992, 106 Stat. 4970, directed Secretary of Health and Human Services to conduct a study of feasibility and desirability of including specified entities receiving funds from a State as covered entities eligible for limitations on prices of covered outpatient drugs under 42 U.S.C. 256b(a) and, not later than 1 year after Nov. 4, 1992, to submit a report to Congress on the study, including in the report a description of the entities that were the subject of the study, an analysis of the extent to which such entities procured prescription drugs, and an analysis of the impact of the inclusion of such entities as covered entities on the quality of care provided to and the health status of the patients of such entities.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

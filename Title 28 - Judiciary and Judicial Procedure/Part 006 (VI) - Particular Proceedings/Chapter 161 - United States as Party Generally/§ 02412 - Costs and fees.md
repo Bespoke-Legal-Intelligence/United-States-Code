@@ -134,9 +134,9 @@ Amendment by Pub. L. 104–121 applicable to civil actions and adversary adjudic
 
 #### Effective Date of 1992 Amendment
 
-Section 506(b) of Pub. L. 102–572 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to any case pending before the United States Court of Veterans Appeals \[now United States Court of Appeals for Veterans Claims\] on the date of the enactment of this Act \[Oct. 29, 1992\], to any appeal filed in that court on or after such date, and to any appeal from that court that is pending on such date in the United States Court of Appeals for the Federal Circuit.”
+Pub. L. 102–572, title V, §506(b), Oct. 29, 1992, 106 Stat. 4513, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to any case pending before the United States Court of Veterans Appeals \[now United States Court of Appeals for Veterans Claims\] on the date of the enactment of this Act \[Oct. 29, 1992\], to any appeal filed in that court on or after such date, and to any appeal from that court that is pending on such date in the United States Court of Appeals for the Federal Circuit.”
 
-Section 506(d) of Pub. L. 102–572 provided that: “This section \[amending this section and enacting provisions set out under this section\], and the amendment made by this section, shall take effect on the date of the enactment of this Act \[Oct. 29, 1992\].”
+Pub. L. 102–572, title V, §506(d), Oct. 29, 1992, 106 Stat. 4513, provided that: “This section \[amending this section and enacting provisions set out under this section\], and the amendment made by this section, shall take effect on the date of the enactment of this Act \[Oct. 29, 1992\].”
 
 Amendment by section 902(b)(1) of Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under section 171 of this title.
 
@@ -154,11 +154,11 @@ Amendment by Pub. L. 97–248 applicable to civil actions or proceedings commenc
 
 Amendment by section 204(a) of Pub. L. 96–481 effective Oct. 1, 1981, and applicable to any adversary adjudication, as defined in section 504(b)(1)(C) of Title 5, Government Organization and Employees, and any civil action or adversary adjudication described in this section which is pending on, or commenced on or after, such date, see section 208 of Pub. L. 96–481, set out as an Effective Date note under section 504 of Title 5.
 
-Section 204(c) of Pub. L. 96–481 which provided in part that effective Oct. 1, 1984, subsec. (d) of this section is repealed, except that the provisions of subsec. (d) shall continue to apply through final disposition of any adversary adjudication initiated before the date of repeal, was repealed by Pub. L. 99–80, §6(b)(2), Aug. 5, 1985, 99 Stat. 186.
+Pub. L. 96–481, title II, §204(c), Oct. 21, 1980, 94 Stat. 2329, which provided in part that effective Oct. 1, 1984, subsec. (d) of this section is repealed, except that the provisions of subsec. (d) shall continue to apply through final disposition of any adversary adjudication initiated before the date of repeal, was repealed by Pub. L. 99–80, §6(b)(2), Aug. 5, 1985, 99 Stat. 186.
 
 #### Effective Date of 1966 Amendment
 
-Section 3 of Pub. L. 89–507 provided that: “These amendments \[amending this section and section 2520 of this title\] shall apply only to judgments entered in actions filed subsequent to the date of enactment of this Act \[July 18, 1966\]. These amendments shall not authorize the reopening or modification of judgments entered prior to the enactment of this Act.”
+Pub. L. 89–507, §3, July 18, 1966, 80 Stat. 308, provided that: “These amendments \[amending this section and section 2520 of this title\] shall apply only to judgments entered in actions filed subsequent to the date of enactment of this Act \[July 18, 1966\]. These amendments shall not authorize the reopening or modification of judgments entered prior to the enactment of this Act.”
 
 #### Revival of Previously Repealed Provisions
 
@@ -166,11 +166,11 @@ For revival of subsec. (d) of this section effective on or after Aug. 5, 1985, a
 
 #### Savings Provision
 
-Section 206 of Pub. L. 96–481, as amended by Pub. L. 99–80, §3, Aug. 5, 1985, 99 Stat. 186, provided that:
+Pub. L. 96–481, title II, §206, Oct. 21, 1980, 94 Stat. 2330, as amended by Pub. L. 99–80, §3, Aug. 5, 1985, 99 Stat. 186, provided that:
 
 “(a) Except as provided in subsection (b), nothing in section 2412(d) of title 28, United States Code, as added by section 204(a) of this title, alters, modifies, repeals, invalidates, or supersedes any other provision of Federal law which authorizes an award of such fees and other expenses to any party other than the United States that prevails in any civil action brought by or against the United States.
 
-“(b) Section 206(b) of the Social Security Act (42 U.S.C. 406(b)(1)) shall not prevent an award of fees and other expenses under section 2412(d) of title 28, United States Code. Section 206(b)(2) of the Social Security Act shall not apply with respect to any such award but only if, where the claimant's attorney receives fees for the same work under both section 206(b) of that Act andsection 2412(d) of title 28, United States Code, the claimant's attorney refunds to the claimant the amount of the smaller fee.”
+“(b) Section 206(b) of the Social Security Act (42 U.S.C. 406(b)(1)) shall not prevent an award of fees and other expenses under section 2412(d) of title 28, United States Code. Section 206(b)(2) of the Social Security Act shall not apply with respect to any such award butonly if, where the claimant's attorney receives fees for the same work under both section 206(b) of that Act and section 2412(d) of title 28, United States Code, the claimant's attorney refunds to the claimant the amount of the smaller fee.”
 
 #### Authority of Court of Appeals for Veterans Claims to Award Fees Under Equal Access to Justice Act for Non-attorney Practitioners.
 
@@ -182,5 +182,5 @@ Pub. L. 104–317, title III, §309(a), Oct. 19, 1996, 110 Stat. 3853, provided 
 
 #### Fee Agreements
 
-Section 506(c) of Pub. L. 102–572 provided that: “Section 5904(d) of title 38, United States Code, shall not prevent an award of fees and other expenses under section 2412(d) of title 28, United States Code. Section 5904(d) of title 38, United States Code, shall not apply with respect to any such award but only if, where the claimant's attorney receives fees for the same work under both section 5904 of title 38, United States Code, and section 2412(d) of title 28, United States Code, the claimant's attorney refunds to the claimant the amount of the smaller fee.”
+Pub. L. 102–572, title V, §506(c), Oct. 29, 1992, 106 Stat. 4513, provided that: “Section 5904(d) of title 38, United States Code, shall not prevent an award of fees and other expenses under section 2412(d) of title 28, United States Code. Section 5904(d) of title 38, United States Code, shall not apply with respect to any such award but only if, where the claimant's attorney receives fees for the same work under both section 5904 of title 38, United States Code, and section 2412(d) of title 28, United States Code, the claimant's attorney refunds to the claimant the amount of the smaller fee.”
 

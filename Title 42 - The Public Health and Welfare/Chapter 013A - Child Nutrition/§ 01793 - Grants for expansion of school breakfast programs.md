@@ -12,7 +12,7 @@ Subject to the availability of appropriations provided in advance in an appropri
 
 #### (1) Application
 
-&emsp;To be eligible to receive a grant under this section, a State educational agency shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
+&emsp;To be eligible to receive a grant under this section, a State educational agency shall submit to the Secretary an application at suchtime, in such manner, and containing such information as the Secretary may require.
 
 #### (2) Administration
 
@@ -118,5 +118,5 @@ The Richard B. Russell National School Lunch Act, referred to in subsec. (d)(2),
 
 #### Effective Date
 
-Section effective Oct. 1, 2010, except as otherwise specifically provided, see section 445 of Pub. L. 111–296, setout as an Effective Date of 2010 Amendment note under section 1751 of this title.
+Section effective Oct. 1, 2010, except as otherwise specifically provided, see section 445 of Pub. L. 111–296, set out as an Effective Date of 2010 Amendment note under section 1751 of this title.
 

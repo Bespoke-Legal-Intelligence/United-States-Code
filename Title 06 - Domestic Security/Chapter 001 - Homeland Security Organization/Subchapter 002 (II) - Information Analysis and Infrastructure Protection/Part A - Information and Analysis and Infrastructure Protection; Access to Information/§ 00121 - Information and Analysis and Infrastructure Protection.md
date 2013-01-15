@@ -26,7 +26,7 @@ The Secretary shall ensure that the responsibilities of the Department relating 
 
 The responsibilities of the Secretary relating to intelligence and analysis and infrastructure protection shall be as follows:
 
-&emsp;(1) To access, receive, and analyze law enforcement information, intelligence information, and other information from agencies of the Federal Government, State and local government agencies (including law enforcement agencies), and private sector entities, and to integrate such information, in support of the mission responsibilities of the Department and the functions of the National Counterterrorism Center established under section 119 of the National Security Act of 1947 (50 U.S.C. 404<i>o</i>), in order to—
+&emsp;(1) To access, receive, and analyze law enforcement information, intelligence information, and other information from agencies of the Federal Government, State and local government agencies (including law enforcement agencies), and private sector entities, and to integrate such information, in support of the mission responsibilities of the Department and the functions of the National Counterterrorism Center established under section 119 of the National Security Act of 1947 (50 U.S.C. 404o), in order to—
 
 &emsp;&emsp;(A) identify and assess the nature and scope of terrorist threats to the homeland;
 
@@ -50,7 +50,7 @@ The responsibilities of the Secretary relating to intelligence and analysis and 
 
 &emsp;(7) To review, analyze, and make recommendations for improvements to the policies and procedures governing the sharing of information within the scope of the information sharing environment established under section 485 of this title, including homeland security information, terrorism information, and weapons of mass destruction information, and any policies, guidelines, procedures, instructions, or standards established under that section.
 
-&emsp;(8) To disseminate, as appropriate, information analyzed by the Department within the Department, to other agencies of the Federal Government with responsibilities relating to homeland security, and to agencies of State and local governments and private sector entities with such responsibilities in order to assist in the deterrence, prevention, preemption of, or response to, terrorist attacks against the United States.
+&emsp;(8) To disseminate, as appropriate, information analyzed by the Department within the Department, to other agencies of the FederalGovernment with responsibilities relating to homeland security, and to agencies of State and local governments and private sector entities with such responsibilities in order to assist in the deterrence, prevention, preemption of, or response to, terrorist attacks against the United States.
 
 &emsp;(9) To consult with the Director of National Intelligence and other appropriate intelligence, law enforcement, or other elements of the Federal Government to establish collection priorities and strategies for information, including law enforcement-related information, relating to threats of terrorism against the United States through such means as the representation of the Department in discussions regarding requirements and priorities in the collection of such information.
 
@@ -194,7 +194,7 @@ Subsecs. (a) to (c). Pub. L. 110–53, §531(a)(2), added subsecs. (a) to (c) an
 
 Subsec. (d). Pub. L. 110–53, §531(a)(3), substituted “Secretary relating to intelligence and analysis and infrastructure protection” for “Under Secretary” in heading and “The responsibilities of the Secretary relating to intelligence and analysis and infrastructure protection” for “Subject to the direction and control of the Secretary, the responsibilities of the Under Secretary for Information Analysis and Infrastructure Protection” in introductory provisions.
 
-Subsec. (d)(1). Pub. L. 110–53, §501(b)(1), inserted “, in support of the mission responsibilities of the Department and the functions of the National Counterterrorism Center established under section 119 of the National Security Act of 1947 (50 U.S.C. 404<i>o</i>),” after “to integrate such information” in introductory provisions.
+Subsec. (d)(1). Pub. L. 110–53, §501(b)(1), inserted “, in support of the mission responsibilities of the Department and the functions of the National Counterterrorism Center established under section 119 of the National Security Act of 1947 (50 U.S.C. 404o),” after “to integrate such information” in introductory provisions.
 
 Subsec. (d)(7). Pub. L. 110–53, §501(b)(2), added par. (7) and struck out former par. (7) which read as follows: “To review, analyze, and make recommendations for improvements in the policies and procedures governing the sharing of law enforcement information, intelligence information, intelligence-related information, and other information relating to homeland security within the Federal Government and between the Federal Government and State and local government agencies and authorities.”
 
@@ -260,7 +260,7 @@ Pub. L. 109–295, title V, §550, Oct. 4, 2006, 120 Stat. 1388, as amended by P
 
 “(g) If the Secretary determines that a chemical facility is not in compliance with this section, the Secretary shall provide the owner or operator with written notification (including a clear explanation of deficiencies in the vulnerability assessment and site security plan) and opportunity for consultation, and issue an order to comply by such date as the Secretary determines to be appropriate under the circumstances: <i>Provided</i>, That if the owner or operator continues to be in noncompliance, the Secretary may issue an order for the facility to cease operation, until the owner or operator complies with the order.
 
-“(h) This section shall not preclude or deny any right of any State or political subdivision thereof to adopt or enforce any regulation, requirement, or standard ofperformance with respect to chemical facility security that is more stringent than a regulation, requirement, or standard of performance issued under this section, or otherwise impair any right or jurisdiction of any State with respect to chemical facilities within that State, unless there is an actual conflict between this section and the law of that State.”
+“(h) This section shall not preclude or deny any right of any State or political subdivision thereof to adopt or enforce any regulation, requirement, or standard of performance with respect to chemical facility security that is more stringent than a regulation, requirement, or standard of performance issued under this section, or otherwise impair any right or jurisdiction of any State with respect to chemical facilities within that State, unless there is an actual conflict between this section and the law of that State.”
 
 #### Cybersecurity Collaboration Between the Department of Defense and the Department of Homeland Security
 
@@ -342,7 +342,7 @@ Program Reports.—
 
 &emsp;“(1)
 
-Requirement for reports.—The head of a department or agency of the United States with responsibility for a cybersecurity program for which a notification was submitted under subsection (a), in consultation with the inspector general for that department or agency, shall submit to Congress and the President a report on such cybersecurity program that includes—
+Requirement for reports.—The head of a department or agency of the United States with responsibility for a cybersecurity program for which a notification was submitted under subsection (a), in consultation with the inspector general for that department or agency, shall submit to Congress and thePresident a report on such cybersecurity program that includes—
 
 &emsp;&emsp;“(A) the results of any audit or review of the cybersecurity program carried out under the plan referred to in subsection (a)(2)(E), if any; and
 
@@ -384,7 +384,7 @@ Coordination.—The heads of all of the departments and agencies of the United S
 
 “(c)
 
-Information Sharing Report.—Not later than one year after the date of the enactment of this Act \[Oct. 7, 2010\], the Inspector General of the Department of Homeland Security and the Inspector General of theIntelligence Community shall jointly submit to Congress and the President a report on the status of the sharing of cyber-threat information, including—
+Information Sharing Report.—Not later than one year after the date of the enactment of this Act \[Oct. 7, 2010\], the Inspector General of the Department of Homeland Security and the Inspector General of the Intelligence Community shall jointly submit to Congress and the President a report on the status of the sharing of cyber-threat information, including—
 
 &emsp;“(1) a description of how cyber-threat intelligence information, including classified information, is shared among the agencies and departments of the United States and with persons responsible for critical infrastructure;
 
@@ -456,7 +456,7 @@ Definitions.—In this section:
 
 &emsp;“(1)
 
-Cybersecurity program.—The term ‘cybersecurity program’ means a class or collection of similar cybersecurity operations of a department or agency of the United States that involves personally identifiable data that is—
+Cybersecurity program.—The term ‘cybersecurity program’ means a class or collection of similar cybersecurity operations of a departmentor agency of the United States that involves personally identifiable data that is—
 
 &emsp;&emsp;“(A) screened by a cybersecurity system outside of the department or agency of the United States that was the intended recipient of the personally identifiable data;
 

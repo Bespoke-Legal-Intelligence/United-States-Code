@@ -142,7 +142,7 @@ All of the foregoing sections of the Revised Statutes were repealed by act Sept.
 
 #### Amendments
 
-<b>1993</b>—Pub. L. 103–182 amended section generally, substituting present provisions for provisions which required imported merchandise to be inspected, examined, appraised, and reported by appropriate customsofficer to have been truly and correctly invoiced and found to comply with requirements of laws of the United States prior to release of such merchandise from customs custody.
+<b>1993</b>—Pub. L. 103–182 amended section generally, substituting present provisions for provisions which required imported merchandise to be inspected, examined, appraised, and reported by appropriate customs officer to have been truly and correctly invoiced and found to comply with requirements of laws of the United States prior to release of such merchandise from customs custody.
 
 <b>1970</b>—Pub. L. 91–271 substituted references to appropriate customs officer or such officer for references to collector or appraiser wherever appearing, and struck out references to duties of appraiser.
 
@@ -164,5 +164,5 @@ Functions of all other officers of Department of the Treasury and functions of a
 
 #### Existing Laboratories
 
-Section §613(b) of Pub. L. 103–182 provided that: “Accreditation under section 499(b) of the Tariff Act of 1930 \[19 U.S.C. 1499(b)\] (as added by subsection (a)) is not required for any private laboratory (including any gauger) that was accredited or approved by the Customs Service as of the day before the date of the enactment of this Act \[Dec. 8, 1993\]; but any such laboratory is subject to reaccreditation under the provisions of such section and the regulations promulgated thereunder.”
+Pub. L. 103–182, title VI, §613(b), Dec. 8, 1993, 107 Stat. 2174, provided that: “Accreditation under section 499(b) of the Tariff Act of 1930 \[19 U.S.C. 1499(b)\] (as added by subsection (a)) is not required for any private laboratory (including any gauger) that was accredited or approved by the Customs Service as of the day before the date of the enactment of this Act \[Dec. 8, 1993\]; but any such laboratory is subject to reaccreditation under the provisions of such section and the regulations promulgated thereunder.”
 

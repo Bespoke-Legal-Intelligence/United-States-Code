@@ -2,7 +2,7 @@
 
 (a)(1) The Secretary of Defense may provide to civilian personnel described in subsection (d) allowances and benefits comparable to those provided by the Secretary of State to officers and employees of the Foreign Service under paragraphs (2), (3), (4), (5), (6), (7), (8), and (13) of section 901 and sections 705 and 903 of the Foreign Service Act of 1980 (22 U.S.C. 4081(2), (3), (4), (5), (6), (7), (8), and (13), 4025, 4083) and under section 5924(4) of title 5.
 
-(2) The Secretary may also provide to any such civilian personnel special retirement accrual benefits in the same manner provided for certain officers and employees of the Central Intelligence Agency in section 303 of the Central Intelligence Agency Retirement Act (50 U.S.C. 2153) and in section 18 of the Central Intelligence Agency Act of 1949 (50 U.S.C. 403r).
+(2) The Secretary may also provide to any such civilian personnel special retirement accrual benefits in the same manner provided for certain officers and employees of the Central Intelligence Agency in section 303 of the Central Intelligence Agency Retirement Act (50 U.S.C.2153) and in section 18 of the Central Intelligence Agency Act of 1949 (50 U.S.C. 403r).
 
 (b) The authority of the Secretary of Defense to make payments under subsection (a) is effective for any fiscal year only to the extent that appropriated funds are available for such purpose.
 
@@ -16,7 +16,7 @@
 
 &emsp;(1) are United States nationals;
 
-&emsp;(2) in the case of employees of the Defense Intelligence Agency, are assigned to duty outside the United States and, in the case of other employees, are assigned to Defense Attache�AE1 Offices or Defense Intelligence Agency Liaison Offices outside the United States; and
+&emsp;(2) in the case of employees of the Defense Intelligence Agency, are assigned to duty outside the United States and, in the case of other employees, are assigned to Defense Attaché Offices or Defense Intelligence Agency Liaison Offices outside the United States; and
 
 &emsp;(3) are designated by the Secretary of Defense for the purposes of subsection (a).
 
@@ -28,7 +28,7 @@
 
 <b>1996</b>—Pub. L. 104–201 substituted “assigned outside the United States” for “of the Defense Intelligence Agency” in section catchline.
 
-Subsec. (a). Pub. L. 104–93, §502(a)(1), designated first sentence of existing text as par. (1) and substituted “described in subsection (d)” for “of the Department of Defense who are United States nationals, who are assigned to Defense Attache�AE1 Offices and Defense Intelligence Agency Liaison Offices outside the United States, and who are designated by the Secretary of Defense for the purposes of this subsection,”, and designated second sentence of existing text as par. (2).
+Subsec. (a). Pub. L. 104–93, §502(a)(1), designated first sentence of existing text as par. (1) and substituted “described in subsection (d)” for “of the Department of Defense who are United States nationals, who are assigned to Defense Attaché Offices and Defense Intelligence Agency Liaison Offices outside the United States, and who are designated by the Secretary of Defense for the purposes of this subsection,”, and designated second sentence of existing text as par. (2).
 
 Subsec. (c). Pub. L. 104–93, §502(a)(2), added subsec. (c) and struck out former subsec. (c) which read as follows: “Regulations issued pursuant to subsection (a) shall be submitted to the Committee on Armed Services and the Permanent Select Committee on Intelligence of the House of Representatives and the Committee on Armed Services and the Select Committee on Intelligence of the Senate before such regulations take effect.”
 

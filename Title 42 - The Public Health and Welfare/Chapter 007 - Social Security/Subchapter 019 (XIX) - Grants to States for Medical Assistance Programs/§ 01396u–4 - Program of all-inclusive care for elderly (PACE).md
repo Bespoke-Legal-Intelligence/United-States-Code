@@ -26,7 +26,7 @@
 
 #### (C) Transition
 
-&emsp;&emsp;In the case of an individual who is enrolled under the program under this section andwhose enrollment ceases for any reason (including that the individual no longer qualifies as a PACE program eligible individual, the termination of a PACE program agreement, or otherwise), the program provides assistance to the individual in obtaining necessary transitional care through appropriate referrals and making the individual's medical records available to new providers.
+&emsp;&emsp;In the case of an individual who is enrolled under the program under this section and whose enrollment ceases for any reason (including that the individual no longer qualifies as a PACE program eligible individual, the termination of a PACE program agreement, or otherwise), the program provides assistance to the individual in obtaining necessary transitional care through appropriate referrals and making the individual's medical records available to new providers.
 
 #### (3) “PACE provider” defined
 
@@ -100,7 +100,7 @@
 
 &emsp;&emsp;(A) provide to PACE program eligible individuals, regardless of source of payment and directly or under contracts with other entities, at a minimum—
 
-&emsp;&emsp;&emsp;(i) all items and services covered under subchapter XVIII of this chapter (for individuals enrolled under section 1395eee of this title) and all items and services covered under this subchapter, but without any limitation or condition as to amount,duration, or scope and without application of deductibles, copayments, coinsurance, or other cost-sharing that would otherwise apply under such subchapter or this subchapter, respectively; and
+&emsp;&emsp;&emsp;(i) all items and services covered under subchapter XVIII of this chapter (for individuals enrolled under section 1395eee of this title) and all items and services covered under this subchapter, but without any limitation or condition as to amount, duration, or scope and without application of deductibles, copayments, coinsurance, or other cost-sharing that would otherwise apply under such subchapter or this subchapter, respectively; and
 
 &emsp;&emsp;&emsp;(ii) all additional items and services specified in regulations, based upon those required under the PACE protocol;
 
@@ -126,7 +126,7 @@
 
 #### (B) Reference to related provision for noncontract providers of services
 
-&emsp;&emsp;For the provision relating to limitations on balance billing against PACE providers for services covered under subchapter XVIII of this chapter furnished by noncontract providers of services, see section 1395cc(a)(1)(O) of this title.
+&emsp;&emsp;For the provision relating to limitations on balance billing against PACE providersfor services covered under subchapter XVIII of this chapter furnished by noncontract providers of services, see section 1395cc(a)(1)(O) of this title.
 
 #### (4) Reference to related provision for services covered under this subchapter but not under subchapter XVIII
 
@@ -158,7 +158,7 @@
 
 #### (4) Continuation of eligibility
 
-&emsp;An individual who is a PACE program eligible individual may be deemed to continue to be such an individual notwithstanding a determination that the individual no longer meets the requirement of subsection (a)(5)(B) of this section if, in accordance with regulations, in the absence of continued coverage under aPACE program the individual reasonably would be expected to meet such requirement within the succeeding 6-month period.
+&emsp;An individual who is a PACE program eligible individual may be deemed to continue to be such an individual notwithstanding a determination that the individual no longer meets the requirement of subsection (a)(5)(B) of this section if, in accordance with regulations, in the absence of continued coverage under a PACE program the individual reasonably would be expected to meet such requirement within the succeeding 6-month period.
 
 #### (5) Enrollment; disenrollment
 
@@ -192,7 +192,7 @@
 
 #### (2) Capitation amount
 
-&emsp;The capitation amount to be applied under this subsection for a provider for a contract year shall be an amount specified in the PACE program agreement for the year. Such amount shall be an amount, specified under the PACE agreement, which is less than the amount that would otherwise have been made under the State plan if the individuals were not so enrolled and shall be adjusted to take into account the comparative frailty of PACE enrollees and such other factors as the Secretary determines to be appropriate. The payment under this section shall be in addition to any payment made under section 1395eee of this title for individuals who are enrolled in a PACE program under such section.
+&emsp;The capitation amount to be applied under this subsection for a provider for a contractyear shall be an amount specified in the PACE program agreement for the year. Such amount shall be an amount, specified under the PACE agreement, which is less than the amount that would otherwise have been made under the State plan if the individuals were not so enrolled and shall be adjusted to take into account the comparative frailty of PACE enrollees and such other factors as the Secretary determines to be appropriate. The payment under this section shall be in addition to any payment made under section 1395eee of this title for individuals who are enrolled in a PACE program under such section.
 
 #### (e) PACE program agreement
 
@@ -372,7 +372,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In issuing such regulations and subject to subparagraph (B), the Secretary may apply with respect to PACE programs, providers, and agreements such requirements of part C of subchapter XVIII of this chapter (or, forperiods before January 1, 1999, section 1395mm of this title) and sections 1396b(m) and 1396u–2 of this title relating to protection of beneficiaries and program integrity as would apply to Medicare+Choice organizations under such part C (or for such periods eligible organizations under risk-sharing contracts under section 1395mm of this title) and to medicaid managed care organizations under prepaid capitation agreements under section 1396b(m) of this title.
+&emsp;&emsp;In issuing such regulations and subject to subparagraph (B), the Secretary may apply with respect to PACE programs, providers, and agreements such requirements of part C of subchapter XVIII of this chapter (or, for periods before January 1, 1999, section 1395mm of this title) and sections 1396b(m) and 1396u–2 of this title relating to protection of beneficiaries and program integrity as would apply to Medicare+Choice organizations under such part C (or for such periods eligible organizations under risk-sharing contracts under section 1395mm of this title) and to medicaid managed care organizations under prepaid capitation agreements under section 1396b(m) of this title.
 
 #### (B) Considerations
 

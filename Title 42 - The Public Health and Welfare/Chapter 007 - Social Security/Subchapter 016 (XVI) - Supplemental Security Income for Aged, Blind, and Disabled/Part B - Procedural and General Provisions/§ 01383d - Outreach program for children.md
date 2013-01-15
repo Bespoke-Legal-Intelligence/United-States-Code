@@ -24,7 +24,7 @@ Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pu
 
 #### Effective Date
 
-Section 8008(b) of Pub. L. 101–239 provided that: “The amendment made by subsection (a) \[enacting this section\] shall take effect 3 months after the date of the enactment of this Act \[Dec. 19, 1989\].”
+Pub. L. 101–239, title VIII, §8008(b), Dec. 19, 1989, 103 Stat. 2463, provided that: “The amendment made by subsection (a) \[enacting this section\] shall take effect 3 months after the date of the enactment of this Act \[Dec. 19, 1989\].”
 
 #### Application to Northern Mariana Islands
 

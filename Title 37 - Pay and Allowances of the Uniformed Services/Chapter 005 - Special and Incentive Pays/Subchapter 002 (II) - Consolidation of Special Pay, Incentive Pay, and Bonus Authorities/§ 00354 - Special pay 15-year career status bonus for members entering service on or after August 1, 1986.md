@@ -42,7 +42,7 @@ Amount of Bonus; Payment.—(1) A bonus under this section shall be equal to $30
 
 &emsp;(B) January 15 of each succeeding calendar year.
 
-(4) The lump sum payment of the bonus, and the first installment payment in the case of members who elect to receive the bonus in installments, shall be paid to an eligible career bonus member not later than the first month that begins on or after the date that is 60 days after the date on which the Secretary concerned receives from the member the election required under subsection (a)(1) and the written agreement required under subsection (a)(2), if applicable.
+(4) The lump sum payment of the bonus, and the first installment payment in the case of members who elect to receive the bonus in installments, shall be paid to an eligible career bonus member not later than the first month that begins on or after the date that is 60 days after the date on which the Secretary concernedreceives from the member the election required under subsection (a)(1) and the written agreement required under subsection (a)(2), if applicable.
 
 (e)
 

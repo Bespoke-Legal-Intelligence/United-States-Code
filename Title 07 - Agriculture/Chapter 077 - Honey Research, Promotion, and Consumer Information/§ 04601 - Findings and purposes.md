@@ -80,5 +80,5 @@ Pub. L. 101–624, title XIX, §1981, Nov. 28, 1990, 104 Stat. 3904, provided th
 
 #### Short Title
 
-Section 1 of Pub. L. 98–590 provided that: “This Act \[enacting this chapter\] may be cited as the ‘Honey Research, Promotion, and Consumer Information Act’.”
+Pub. L. 98–590, §1, Oct. 30, 1984, 98 Stat. 3115, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Honey Research, Promotion, and Consumer Information Act’.”
 

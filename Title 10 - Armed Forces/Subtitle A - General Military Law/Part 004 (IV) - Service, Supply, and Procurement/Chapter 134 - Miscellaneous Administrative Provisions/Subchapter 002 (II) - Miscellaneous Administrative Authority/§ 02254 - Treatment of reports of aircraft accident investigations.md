@@ -40,11 +40,11 @@ Regulations.—The Secretary of each military department shall prescribe regulat
 
 #### Effective Date
 
-Section 1071(c) of Pub. L. 102–484 provided that: “Section 2254 of title 10, United States Code, as added by subsection (a), shall apply with respect to accidents occurring on or after the date on which regulations are first prescribed under that section.”
+Pub. L. 102–484, div. A, title X, §1071(c), Oct. 23, 1992, 106 Stat. 2508, provided that: “Section 2254 of title 10, United States Code, as added by subsection (a), shall apply with respect to accidents occurring on or after the date on which regulations are first prescribed under that section.”
 
 #### Regulations
 
 Pub. L. 105–261, div. A, title X, §1065(c), Oct. 17, 1998, 112 Stat. 2134, provided that: “The Secretary of Defense shall prescribe regulations, which shall be applied uniformly across the Department of Defense, establishing procedures by which the military departments shall provide to the family members of any person involved in a military aviation accident periodic update reports on the conduct and progress of investigations into the accident.”
 
-Section 1071(b) of Pub. L. 102–484 provided that: “Regulations under section 2254 of title 10, United States Code, as added by subsection (a), shall be prescribed not later than 180 days after the date of the enactment of this Act \[Oct. 23, 1992\].”
+Pub. L. 102–484, div. A, title X, §1071(b), Oct. 23, 1992, 106 Stat. 2508, provided that: “Regulations under section 2254 of title 10, United States Code, as added by subsection (a), shall be prescribed not later than 180 days after the date of the enactment of this Act \[Oct. 23, 1992\].”
 

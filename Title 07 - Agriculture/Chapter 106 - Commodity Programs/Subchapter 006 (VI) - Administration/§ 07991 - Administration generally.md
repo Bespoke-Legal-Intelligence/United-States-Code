@@ -30,7 +30,7 @@ A determination made by the Secretary under this chapter shall be final and conc
 
 #### (d) Treatment of advance payment option
 
-The protection that was afforded producers that had an option to elect to accelerate the receipt of any payment under a production flexibility contract payable under the Federal Agriculture Improvement and Reform Act of 1996, as provided by section 525 of Public <sup>2</sup> 106–170 (113Stat. 1928; 7 U.S.C. 7212 note), shall also apply to the option to receive—
+The protection that was afforded producers that had an option to elect to accelerate the receipt of any payment under a production flexibility contract payable under the Federal Agriculture Improvement and Reform Act of 1996, as provided by section 525 of Public <sup>2</sup> 106–170 (113 Stat. 1928; 7 U.S.C. 7212 note), shall also apply to the option to receive—
 
 &emsp;(1) the advance payment of direct payments and counter-cyclical payments under subchapter I and subchapter III of this chapter;
 
@@ -46,7 +46,7 @@ The protection that was afforded producers that had an option to elect to accele
 
 #### (2) Congressional notification
 
-&emsp;Before making any adjustment under paragraph (1), the Secretary shall submit to the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House of Representatives a report describing the determination made under that paragraph and the extent of the adjustment to be made.
+&emsp;Before making any adjustment under paragraph (1), the Secretary shall submit to theCommittee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House of Representatives a report describing the determination made under that paragraph and the extent of the adjustment to be made.
 
 (Pub. L. 107–171, title I, §1601, May 13, 2002, 116 Stat. 211; Pub. L. 110–234, title I, §1601(e), May 22, 2008, 122 Stat. 1001; Pub. L. 110–246, §4(a), title I, §1601(e), June 18, 2008, 122 Stat. 1664, 1729.)
 
@@ -60,7 +60,7 @@ Subchapter III of this chapter, referred to in subsec. (d)(1), was in the origin
 
 The Food, Conservation, and Energy Act of 2008, referred to in subsec. (d)(3), is Pub. L. 110–246, June 18, 2008, 122 Stat. 1651. Title I of the Act is classified principally to chapter 113 (§8701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8701 of this title and Tables.
 
-Subchapter V of this chapter, referred to in subsec. (e)(1), was in the original “subtitle E”, meaning subtitle E (§§1501–1508) of title I of Pub. L. 107–171, May 13, 2002, 116 Stat. 205, which enacted subchapter V of this chapter and amended sections 450<i>l</i>, 1637a, 4501–4504, 4507, 6402, and 6414 of this title and section 713a–4 of Title 15, Commerce and Trade. For complete classification of subtitle E to the Code, see Tables.
+Subchapter V of this chapter, referred to in subsec. (e)(1), was in the original “subtitle E”, meaning subtitle E (§§1501–1508) of title I of Pub. L. 107–171, May 13, 2002, 116 Stat. 205, which enacted subchapter V of this chapter and amended sections 450l, 1637a, 4501–4504, 4507, 6402, and 6414 of this title and section 713a–4 of Title 15, Commerce and Trade. For complete classification of subtitle E to the Code, see Tables.
 
 #### Codification
 

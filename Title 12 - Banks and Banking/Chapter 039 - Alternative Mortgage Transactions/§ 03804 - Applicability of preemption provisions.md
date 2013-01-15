@@ -12,7 +12,7 @@
 
 &emsp;(2) is a renewal, extension, refinancing, or other modification of an alternative mortgage transaction entered into before the preemption period and such renewal, extension, or other modification is made during such period with the written consent of any person obligated to repay such credit.
 
-(Pub. L. 97–320, title VIII, §805, Oct. 15, 1982, 96 Stat. 1547; Pub. L. 98–181, title IV, §472, Nov. 30, 1983, 97 Stat. 1237.)
+(Pub. L. 97–320, title VIII, §805, Oct. 15, 1982, 96 Stat. 1547; Pub. L. 98–181, title I \[title IV, §472\], Nov. 30, 1983, 97 Stat. 1237.)
 
 #### Amendments
 

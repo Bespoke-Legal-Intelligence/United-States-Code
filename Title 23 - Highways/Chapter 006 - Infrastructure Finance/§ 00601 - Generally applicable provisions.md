@@ -6,23 +6,31 @@ Definitions.—In this chapter, the following definitions apply:
 
 &emsp;(1)
 
+Contingent commitment.—The term “contingent commitment” means a commitment to obligate an amount from future available budget authority that is—
+
+&emsp;&emsp;(A) contingent on those funds being made available in law at a future date; and
+
+&emsp;&emsp;(B) not an obligation of the Federal Government.
+
+&emsp;(2)
+
 Eligible project costs.—The term “eligible project costs” means amounts substantially all of which are paid by, or for the account of, an obligor in connection with a project, including the cost of—
 
 &emsp;&emsp;(A) development phase activities, including planning, feasibility analysis, revenue forecasting, environmental review, permitting, preliminary engineering and design work, and other preconstruction activities;
 
-&emsp;&emsp;(B) construction, reconstruction, rehabilitation, replacement, and acquisition of real property (including land related to the project and improvements to land), environmental mitigation, construction contingencies, and acquisition of equipment; and
+&emsp;&emsp;(B) construction, reconstruction, rehabilitation, replacement, and acquisition of real property (including land relating to the project and improvements to land), environmental mitigation, construction contingencies, and acquisition of equipment; and
 
 &emsp;&emsp;(C) capitalized interest necessary to meet market requirements, reasonably required reserve funds, capital issuance expenses, and other carrying costs during construction.
 
-&emsp;(2)
+&emsp;(3)
 
 Federal credit instrument.—The term “Federal credit instrument” means a secured loan, loan guarantee, or line of credit authorized to be made available under this chapter with respect to a project.
 
-&emsp;(3)
+&emsp;(4)
 
 Investment-grade rating.—The term “investment-grade rating” means a rating of BBB minus, Baa3, bbb minus, BBB (low), or higher assigned by a rating agency to project obligations.
 
-&emsp;(4)
+&emsp;(5)
 
 Lender.—The term “lender” means any non-Federal qualified institutional buyer (as defined in section 230.144A(a) of title 17, Code of Federal Regulations (or any successor regulation), known as Rule 144A(a) of the Securities and Exchange Commission and issued under the Securities Act of 1933 (15 U.S.C. 77a et seq.)), including—
 
@@ -30,19 +38,65 @@ Lender.—The term “lender” means any non-Federal qualified institutional bu
 
 &emsp;&emsp;(B) a governmental plan (as defined in section 414(d) of the Internal Revenue Code of 1986) that is a qualified institutional buyer.
 
-&emsp;(5)
-
-Line of credit.—The term “line of credit” means an agreement entered into by the Secretary with an obligor under section 604 to provide a direct loan at a future date upon the occurrence of certain events.
-
 &emsp;(6)
 
-Loan guarantee.—The term “loan guarantee” means any guarantee or other pledgeby the Secretary to pay all or part of the principal of and interest on a loan or other debt obligation issued by an obligor and funded by a lender.
+Letter of interest.—The term “letter of interest” means a letter submitted by a potential applicant prior to an application for credit assistance in a format prescribed by the Secretary on the website of the TIFIA program that—
+
+&emsp;&emsp;(A) describes the project and the location, purpose, and cost of the project;
+
+&emsp;&emsp;(B) outlines the proposed financial plan, including the requested credit assistance and the proposed obligor;
+
+&emsp;&emsp;(C) provides a status of environmental review; and
+
+&emsp;&emsp;(D) provides information regarding satisfaction of other eligibility requirements of the TIFIA program.
 
 &emsp;(7)
 
-Obligor.—The term “obligor” means a party primarily liable for payment of the principal of or interest on a Federal credit instrument, which party may be a corporation, partnership, joint venture, trust, or governmental entity, agency, or instrumentality.
+Line of credit.—The term “line of credit” means an agreement entered into by the Secretary with an obligor under section 604 to provide a direct loan at a future date upon the occurrence of certain events.
 
 &emsp;(8)
+
+Limited buydown.—The term “limited buydown” means, subject to the conditions described in section 603(b)(4)(C), a buydown of the interest rate by the obligor if the interest rate has increased between—
+
+&emsp;&emsp;(A)(i) the date on which a project application acceptable to the Secretary is submitted; or
+
+&emsp;&emsp;(ii) the date on which the Secretary entered into a master credit agreement; and
+
+&emsp;&emsp;(B) the date on which the Secretary executes the Federal credit instrument.
+
+&emsp;(9)
+
+Loan guarantee.—The term “loan guarantee” means any guarantee or other pledge by the Secretary to pay all or part of the principal of and interest on a loan or other debt obligation issued by an obligor and funded by a lender.
+
+&emsp;(10)
+
+Master credit agreement.—The term “master credit agreement” means an agreement to extend credit assistance for a program of projects secured by a common security pledge (which shall receive an investment grade rating from a rating agency), or for a single project covered under section 602(b)(2) that would—
+
+&emsp;&emsp;(A) make contingent commitments of 1 or more secured loans or other Federal credit instruments at future dates, subject to the availability of future funds being made available to carry out this chapter;
+
+&emsp;&emsp;(B) establish the maximum amounts and general terms and conditions of the secured loans or other Federal credit instruments;
+
+&emsp;&emsp;(C) identify the 1 or more dedicated non-Federal revenue sources that will secure the repayment of the secured loans or secured Federal credit instruments;
+
+&emsp;&emsp;(D) provide for the obligation of funds for the secured loans or secured Federal credit instruments after all requirements have been met for the projects subject to the master credit agreement, including—
+
+&emsp;&emsp;&emsp;(i) completion of an environmental impact statement or similar analysis required under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.);
+
+&emsp;&emsp;&emsp;(ii) compliance with such other requirements as are specified in section 602(c); and
+
+&emsp;&emsp;&emsp;(iii) the availability of funds to carry out this chapter; and
+
+&emsp;&emsp;(E) require that contingent commitments result in a financial close and obligation of credit assistance not later than 3 years after the date of entry into the master credit agreement, or release of the commitment, unless otherwise extended by the Secretary.
+
+&emsp;(11)
+
+Obligor.—The term “obligor” means a party that—
+
+&emsp;&emsp;(A) is primarily liable for payment of the principal of or interest on a Federal credit instrument; and
+
+&emsp;&emsp;(B) may be a corporation, partnership, joint venture, trust, or governmental entity, agency, or instrumentality.
+
+&emsp;(12)
 
 Project.—The term “project” means—
 
@@ -56,7 +110,7 @@ Project.—The term “project” means—
 
 &emsp;&emsp;&emsp;(i) is a project—
 
-&emsp;&emsp;&emsp;&emsp;(I) for a public freight rail facility or a private facility providing public benefit for highway users;
+&emsp;&emsp;&emsp;&emsp;(I) for a public freight rail facility or a private facility providing public benefit for highway users by way of direct freight interchange between highway and rail carriers;
 
 &emsp;&emsp;&emsp;&emsp;(II) for an intermodal freight transfer facility;
 
@@ -66,51 +120,71 @@ Project.—The term “project” means—
 
 &emsp;&emsp;&emsp;&emsp;(V) that comprises a series of projects described in subclauses (I) through (IV) with the common objective of improving the flow of goods;
 
-&emsp;&emsp;&emsp;(ii) may involve the combining of private and public sector funds, including investment of public funds in private sector facility improvements; and
+&emsp;&emsp;&emsp;(ii) may involve the combining of private and public sector funds, including investment of public funds in private sector facility improvements;
 
-&emsp;&emsp;&emsp;(iii) if located within the boundaries of a port terminal, includes only such surface transportation infrastructure modifications as are necessary to facilitate direct intermodal interchange, transfer, and access into and out of the port.
+&emsp;&emsp;&emsp;(iii) if located within the boundaries of a port terminal, includes only such surface transportation infrastructure modifications as are necessary to facilitate direct intermodal interchange, transfer, and access into and out of the port; and
 
-&emsp;(9)
-
-Project obligation.—The term “project obligation” means any note, bond, debenture, or other debt obligation issued by an obligor in connection with the financing of a project, other than a Federal credit instrument.
-
-&emsp;(10)
-
-Rating agency.—The term “rating agency” means a credit rating agency registered with the Securities and Exchange Commission as a nationally recognized statistical rating organization, as that term is defined in section 3(a) of the Securities Exchange Act of 1934.
-
-&emsp;(11)
-
-Secured loan.—The term “secured loan” means a direct loan or other debt obligation issued by an obligor and funded by the Secretary in connection with the financing of a project under section 603.
-
-&emsp;(12)
-
-State.—The term “State” has the meaning given the term in section 101.
+&emsp;&emsp;&emsp;(iv) is composed of related highway, surface transportation, transit, rail, or intermodal capital improvement projects eligible for assistance under this section in order to meet the eligible project cost threshold under section 602, by grouping related projects together for that purpose, subject to the condition that the credit assistance for the projects is secured by a common pledge.
 
 &emsp;(13)
 
-Subsidy amount.—The term “subsidy amount” means the amount of budget authority sufficient to cover the estimated long-term cost to the Federal Government of a Federal credit instrument, calculated on a net present value basis, excluding administrative costs and any incidental effects on governmental receipts or outlays in accordance with the provisions of the Federal Credit Reform Act of 1990 (2 U.S.C. 661 et seq.).
+Project obligation.—The term “project obligation” means any note, bond, debenture, or other debt obligation issued by an obligor in connection with the financing of a project, other than a Federal credit instrument.
 
 &emsp;(14)
 
-Substantial completion.—The term “substantial completion” means the opening of a project to vehicular or passenger traffic.
+Rating agency.—The term “rating agency” means a credit rating agency registered with the Securities and Exchange Commission as a nationally recognized statistical rating organization (as that term is defined in section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a))).
+
+&emsp;(15)
+
+Rural infrastructure project.—The term “rural infrastructure project” means a surface transportation infrastructure project located in any area other than a city with a population of more than 250,000 inhabitants within the city limits.
+
+&emsp;(16)
+
+Secured loan.—The term “secured loan” means a direct loan or other debt obligation issued by an obligor and funded by the Secretary in connection with the financing of a project under section 603.
+
+&emsp;(17)
+
+State.—The term “State” has the meaning given the term in section 101.
+
+&emsp;(18)
+
+Subsidy amount.—The term “subsidy amount” means the amount of budget authority sufficient to cover the estimated long-term cost to the Federal Government of a Federal credit instrument—
+
+&emsp;&emsp;(A) calculated on a net present value basis; and
+
+&emsp;&emsp;(B) excluding administrative costs and any incidental effects on governmental receipts or outlays in accordance with the Federal Credit Reform Act of 1990 (2 U.S.C. 661 et seq.).
+
+&emsp;(19)
+
+Substantial completion.—The term “substantial completion” means—
+
+&emsp;&emsp;(A) the opening of a project to vehicular or passenger traffic; or
+
+&emsp;&emsp;(B) a comparable event, as determined by the Secretary and specified in the credit agreement.
+
+&emsp;(20)
+
+TIFIA program.—The term “TIFIA program” means the transportation infrastructure finance and innovation program of the Department.
 
 (b)
 
 Treatment of Chapter.—For purposes of this title, this chapter shall be treated as being part of chapter 1.
 
-(Added Pub. L. 105–178, title I, §1503(a), June 9, 1998, 112 Stat. 241, §181; renumbered §601 and amended Pub. L. 109–59, title I, §§1601(a), 1602(b)(1), (5), (d), Aug. 10, 2005, 119 Stat. 1239, 1246, 1247; Pub. L. 109–291, §4(b)(6), Sept. 29, 2006, 120 Stat. 1338; Pub. L. 110–244, title I, §101(r), June 6, 2008, 122 Stat. 1577.)
+(Added Pub. L. 105–178, title I, §1503(a), June 9, 1998, 112 Stat. 241, §181; renumbered §601 and amended Pub. L. 109–59, title I, §§1601(a), 1602(b)(1), (5), (d), Aug. 10, 2005, 119 Stat. 1239, 1246, 1247; Pub. L. 109–291, §4(b)(6), Sept. 29, 2006, 120 Stat. 1338; Pub. L. 110–244, title I, §101(r), June 6, 2008, 122 Stat. 1577; Pub. L. 112–141, div. A, title II, §2002, July 6, 2012, 126 Stat. 607.)
 
 #### References in Text
 
-The Securities Act of 1933, referred to in subsec. (a)(4), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
+The Securities Act of 1933, referred to in subsec. (a)(5), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
 
-The Internal Revenue Code of 1986, referred to in subsec. (a)(4), is set out in Title 26, Internal Revenue Code.
+The Internal Revenue Code of 1986, referred to in subsec. (a)(5), is set out in Title 26, Internal Revenue Code.
 
-Section 3(a) of the Securities and Exchange Act of 1934, referred to in subsec. (a)(10), is classified to section 78c(a) of Title 15, Commerce and Trade.
+The National Environmental Policy Act of 1969, referred to in subsec. (a)(10)(D)(i), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-The Federal Credit Reform Act of 1990, referred to in subsec. (a)(13), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–609, and amended, which is classified generally to subchapter III (§661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
+The Federal Credit Reform Act of 1990, referred to in subsec. (a)(18)(B), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
 
 #### Amendments
+
+<b>2012</b>—Pub. L. 112–141 amended section generally. Prior to amendment, section related to generally applicable provisions.
 
 <b>2008</b>—Subsec. (a)(3). Pub. L. 110–244 inserted “bbb minus, BBB (low),” after “Baa3,”.
 
@@ -135,6 +209,10 @@ Par. (9). Pub. L. 109–59, §1601(a)(2), redesignated par. (10) as (9). Former 
 Par. (10). Pub. L. 109–59, §1601(a)(2), (4), redesignated par. (11) as (10) and substituted “credit” for “bond”. Former par. (10) redesignated (9).
 
 Pars. (11) to (15). Pub. L. 109–59, §1601(a)(2), redesignated pars. (12) to (15) as (11) to (14), respectively. Former par. (11) redesignated (10).
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
 
 #### Congressional Findings
 
@@ -208,9 +286,9 @@ Funding.—
 
 Contribution.—Notwithstanding any other provision of law, the Secretary may allow, subject to subsection (h)(1), a State that enters into a cooperative agreement under this section to contribute to the infrastructure bank established by the State not to exceed—
 
-&emsp;&emsp;“(A)(i) the total amount of funds apportioned to the State under each of paragraphs (1), (3), and (4) of section 104(b) and section 144 of title 23, United States Code, excluding funds set aside under paragraphs (1) and (2) of section 133(d) of such title; and
+&emsp;&emsp;“(A)(i) the total amount of funds apportioned to the State under each of \[former\] paragraphs (1), (3), and (4) of section 104(b) and \[former\] section 144 of title 23, United States Code, excluding funds set aside under paragraphs (1) and (2) of \[former\] section 133(d) of such title; and
 
-&emsp;&emsp;“(ii) the total amount of funds allocated to the State under section 105 of such title;
+&emsp;&emsp;“(ii) the total amount of funds allocated to the State under \[former\] section 105 of such title;
 
 &emsp;&emsp;“(B) the total amount of funds made available to the State or other Federal transit grant recipient for capital projects (as defined in section 5302 of title 49, United States Code) under sections 5307, 5309, and 5311 of such title; and
 
@@ -222,7 +300,7 @@ Capitalization grant.—For the purposes of this section, Federal funds contribu
 
 &emsp;“(3)
 
-Special rule for urbanized areas of over 200,000.—Funds that are apportioned or allocated to a State under section 104(b)(3) of title 23, United States Code, and attributed to urbanized areas of a State with a population of over 200,000 individuals under section 133(d)(2) of such title may be used to provide assistance from an infrastructure bank under this section with respect to a project only if the metropolitan planning organization designated for the area concurs, in writing, with the provision of the assistance.
+Special rule for urbanized areas of over 200,000.—Funds that are apportioned or allocated to a State under \[former\] section 104(b)(3) of title 23, United States Code, and attributed to urbanized areas of a State with a population of over 200,000 individuals under \[former\] section 133(d)(2) of such title may be used to provide assistance from an infrastructure bank under this section with respect to a project only if the metropolitan planning organization designated for the area concurs, in writing, with the provision of the assistance.
 
 “(d)
 
@@ -234,7 +312,7 @@ In general.—An infrastructure bank established under this section may make loa
 
 &emsp;“(2)
 
-Subordination of loans.—The amount of any loan or other assistance provided for the project may be subordinated to any other debt financing for the project.
+Subordination of loans.—The amount of any loan or other assistance provided for the project maybe subordinated to any other debt financing for the project.
 
 &emsp;“(3)
 
@@ -246,11 +324,11 @@ Qualifying Projects.—
 
 &emsp;“(1)
 
-In general.—Subject to paragraph (2), funds in an infrastructure bank established under this sectionmay be used only to provide assistance with respect to projects eligible for assistance under title 23, United States Code, for capital projects (as defined in section 5302 of title 49, United States Code), or for any other project related to surface transportation that the Secretary determines to be appropriate.
+In general.—Subject to paragraph (2), funds in an infrastructure bank established under this section may be used only to provide assistance with respect to projects eligible for assistance under title 23, United States Code, for capital projects (as defined in section 5302 of title 49, United States Code), or for any other project related to surface transportation that the Secretary determines to be appropriate.
 
 &emsp;“(2)
 
-Interstate funds.—Funds contributed to an infrastructure bank from funds apportioned to a State under section 104(b)(4) of title 23, United States Code, may be used only to provide assistance with respect to projects eligible for assistance under such paragraph.
+Interstate funds.—Funds contributed to an infrastructure bank from funds apportioned to a State under \[former\] section 104(b)(4) of title 23, United States Code, may be used only to provide assistance with respect to projects eligible for assistance under such paragraph.
 
 &emsp;“(3)
 
@@ -338,7 +416,7 @@ Statement.—Any security or debt financing instrument issued by the infrastruct
 
 Management of Federal Funds.—Sections 3335 and 6503 of title 31, United States Code, shall not apply to funds contributed under this section.
 
-“(<i>l</i>)
+“(l)
 
 Program Administration.—
 
@@ -370,15 +448,15 @@ Funding.—
 
 &emsp;“(1)
 
-Separate accounts.—An infrastructure bank established under this section shall maintain a separate highway account for Federal funds contributed to the bank under paragraph (2) and a separate transit account for Federal funds contributed to the bank under paragraph (3). No Federal funds contributed or credited to an account of an infrastructure bank established under this section may be commingled withFederal funds contributed or credited to any other account of such bank.
+Separate accounts.—An infrastructure bank established under this section shall maintain a separate highway account for Federal funds contributed to the bank under paragraph (2) and a separate transit account for Federal funds contributed to the bank under paragraph (3). No Federal funds contributed or credited to an account of an infrastructure bank established under this section may be commingled with Federal funds contributed or credited to any other account of such bank.
 
 &emsp;“(2)
 
 Highway account.—Notwithstanding any other provision of law, the Secretary may allow, subject to subsection (g)(1), a State entering into a cooperative agreement under this section to contribute not to exceed—
 
-&emsp;&emsp;“(A) 10 percent of the funds apportioned to the State for each of fiscal years 1996 and 1997 under each of sections 104(b)(1), 104(b)(3), 104(b)(5)(B), 144, and 160 of title 23, United States Code, and section 1015 of the Intermodal Surface Transportation Efficiency Act of 1991 \[Pub. L. 102–240, 23 U.S.C. 104 note\]; and
+&emsp;&emsp;“(A) 10 percent of the funds apportioned to the State for each of fiscal years 1996 and 1997 under each of \[former\] sections 104(b)(1), 104(b)(3), 104(b)(5)(B), 144, and 160 of title 23, United States Code, and section 1015 of the Intermodal Surface Transportation Efficiency Act of 1991 \[Pub. L. 102–240, former 23 U.S.C. 104 note\]; and
 
-&emsp;&emsp;“(B) 10 percent of the funds allocated to the State for each of such fiscal years under each of section 157 of such title and section 1013(c) of such Act \[formerly 23 U.S.C. 157 note\];
+&emsp;&emsp;“(B) 10 percent of the funds allocated to the State for each of such fiscal years under each of \[former\] section 157 of such title and section 1013(c) of such Act \[former 23 U.S.C. 157 note\];
 
 > &emsp;into the highway account of the infrastructure bank established by the State. Federal funds contributed to such account under this paragraph shall constitute for purposes of this section a capitalization grant for the highway account of the infrastructure bank.
 
@@ -388,7 +466,7 @@ Transit account.—Notwithstanding any other provision of law, the Secretary may
 
 &emsp;“(4)
 
-Special rule for urbanized areas of over 200,000.—Funds that are apportioned or allocated to a State under section 104(b)(3) or 160 of title 23, United States Code, or under section 1013(c) or 1015 of the Intermodal Surface Transportation Efficiency Act of 1991 \[Pub. L. 102–240, 23 U.S.C. 104 note, formerly 157 note\] and attributed to urbanized areas of a State with an urbanized population of over 200,000 under section 133(d)(3) of such title may be used to provide assistance with respect to a project only if the metropolitan planning organization designated for such area concurs, in writing, with the provision of such assistance.
+Special rule for urbanized areas of over 200,000.—Funds that are apportioned or allocated to a State under \[former\] section 104(b)(3) or 160 of title 23, United States Code, or under section 1013(c) or 1015 of the Intermodal Surface Transportation Efficiency Act of 1991 \[Pub. L. 102–240, former 23 U.S.C. 157 note, former 104 note\] and attributed to urbanized areas of a State with an urbanized population of over 200,000 under \[former\] section 133(d)(3) of such title may be used to provide assistance with respect to a project only if the metropolitan planning organization designated for such area concurs, in writing, with the provision of such assistance.
 
 “(c)
 
@@ -414,7 +492,7 @@ Infrastructure Bank Requirements.—In order to establish an infrastructure bank
 
 &emsp;&emsp;“(C) invested in United States Treasury securities, bank deposits, or such other financing instruments as the Secretary may approve to earn interest to enhance the leveraging of projects assisted by the bank;
 
-&emsp;“(4) provide that the repayment of a loan or other assistance from an account of the bank under this section shall be consistent with the repayment provisions of section 129(a)(7) of title 23, United States Code, except to the extent the Secretary determines that such provisions are not consistent with this section;
+&emsp;“(4) provide that the repayment of a loan or other assistance from an account of the bank under this section shall be consistent with the repayment provisions of \[former\] section 129(a)(7) of title 23, United States Code, except to the extent the Secretary determines that such provisions are not consistent with this section;
 
 &emsp;“(5) ensure that any loan from the bank will bear interest at or below market interest rates, as determined by the State, to make the project that is the subject of the loan feasible;
 
@@ -446,7 +524,7 @@ Secretarial Requirements.—In administering this section, the Secretary shall�
 
 “(h)
 
-United States Not Obligated.—The contribution of Federal funds into an infrastructure bank established under this section shall not be construed as a commitment, guarantee, or obligation on the part of the United States to any third party, nor shall any third party have any right against the United States for payment solely by virtue of the contribution. Any security or debt financing instrument issued by the infrastructure bank shall expressly state that the security or instrument does not constitute a commitment, guarantee, or obligation of the United States.
+United States Not Obligated.—The contribution of Federal funds into an infrastructure bank established under this section shall not be construed as acommitment, guarantee, or obligation on the part of the United States to any third party, nor shall any third party have any right against the United States for payment solely by virtue of the contribution. Any security or debt financing instrument issued by the infrastructure bank shall expressly state that the security or instrument does not constitute a commitment, guarantee, or obligation of the United States.
 
 “(i)
 
@@ -464,7 +542,7 @@ Secretarial Review.—The Secretary shall review the financial condition of each
 
 &emsp;“(2) recommendations of the Secretary as to whether the program should be expanded or made a part of the Federal-aid highway and transit programs.
 
-“(<i>l</i>)
+“(l)
 
 Definitions.—In this section, the following definitions apply:
 

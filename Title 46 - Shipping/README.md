@@ -1,6 +1,4 @@
 
-46 U.S.C.<br>United States Code, 2011 Edition<br>Title 46 - SHIPPING<br>From the U.S. Government Publishing Office, www.gpo.gov
-
 # TITLE 46—SHIPPING
 
 <i>This title was enacted by Pub. L. 98–89, §1, Aug. 26, 1983, 97 Stat. 500; Pub. L. 99–509, title V, subtitle B, §5101, Oct. 21, 1986, 100 Stat. 1913; Pub. L. 100–424, §6, Sept. 9, 1988, 102 Stat. 1591; Pub. L. 100–710, title I, §102, Nov. 23, 1988, 102 Stat. 4738; Pub. L. 109–304, Oct. 6, 2006, 120 Stat. 1485</i>

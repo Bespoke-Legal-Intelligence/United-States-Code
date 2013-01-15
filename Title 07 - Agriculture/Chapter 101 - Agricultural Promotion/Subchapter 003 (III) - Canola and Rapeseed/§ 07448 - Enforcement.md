@@ -26,7 +26,7 @@ A civil action authorized to be commenced under this section shall be referred t
 
 #### (2) Cease-and-desist orders
 
-&emsp;In addition to, or in lieu of, a civil penalty under paragraph (1), the Secretary may issuean order requiring a person to cease and desist from continuing a violation.
+&emsp;In addition to, or in lieu of, a civil penalty under paragraph (1), the Secretary may issue an order requiring a person to cease and desist from continuing a violation.
 
 #### (3) Notice and hearing
 
@@ -64,7 +64,7 @@ Any person who fails to obey a cease-and-desist order issued under this section 
 
 #### (f) Failure to pay penalties
 
-If a person fails to pay an assessment of a civil penalty under this section after the assessment has become a final and unappealable order, or after the appropriate United States district court has entered final judgment in favor of the Secretary, the Secretary shall refer the matter to the Attorney General for recovery of the amount assessed in the district court of the United States for any district in which the person resides or carries on business. In an action for recovery, the validity and appropriateness of the final order imposing the civil penalty shall not be subject to review.
+If a person fails to pay an assessment of a civil penalty under this section after the assessment has become a final and unappealable order, orafter the appropriate United States district court has entered final judgment in favor of the Secretary, the Secretary shall refer the matter to the Attorney General for recovery of the amount assessed in the district court of the United States for any district in which the person resides or carries on business. In an action for recovery, the validity and appropriateness of the final order imposing the civil penalty shall not be subject to review.
 
 #### (g) Additional remedies
 

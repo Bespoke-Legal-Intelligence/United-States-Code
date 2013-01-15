@@ -40,5 +40,5 @@ Pub. L. 93–559, §50, Dec. 30, 1974, 88 Stat. 1816, as amended by Pub. L. 97�
 
 #### Executive Order No. 12599
 
-Ex. Ord. No. 12599, June 23, 1987, 52 F.R. 23779, which established the Coordinating Committee for Sub-Saharan Africa and assigned its functions in order to establish procedures for development of a common long-termgoal for all United States economic programs and policies in Sub-Saharan Africa, was revoked by Ex. Ord. No. 13118, §10(3), Mar. 31, 1999, 64 F.R. 16598.
+Ex. Ord. No. 12599, June 23, 1987, 52 F.R. 23779, which established the Coordinating Committee for Sub-Saharan Africa and assigned its functions in order to establish procedures for development of a common long-term goal for all United States economic programs and policies in Sub-Saharan Africa, was revoked by Ex. Ord. No. 13118, §10(3), Mar. 31, 1999, 64 F.R. 16598.
 

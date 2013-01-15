@@ -16,5 +16,5 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 #### Study of the Adequacy of Royalty Management for Minerals on Federal and Indian Lands
 
-Section 303 of Pub. L. 97–451 directed Secretary to study question of adequacy of royalty management for coal, uranium and other energy and nonenergy minerals on Federal and Indian lands, include proposed legislation if Secretary determined that such legislation was necessary to ensure prompt and proper collection of revenues owed to the United States, the States and Indian tribes or Indian allottees from the sale, lease or other disposal of such minerals, with study to be submitted to Congress not later than one year from Jan. 12, 1983.
+Pub. L. 97–451, title III, §303, Jan. 12, 1983, 96 Stat. 2461, directed Secretary to study question of adequacy of royalty management for coal, uranium and other energy and nonenergy minerals on Federal and Indian lands, include proposed legislation if Secretary determined that such legislation was necessary to ensure prompt and proper collection of revenues owed to the United States, the States and Indian tribes or Indian allottees from the sale, lease or other disposal of such minerals, with study to be submitted to Congress not later than one year from Jan. 12, 1983.
 

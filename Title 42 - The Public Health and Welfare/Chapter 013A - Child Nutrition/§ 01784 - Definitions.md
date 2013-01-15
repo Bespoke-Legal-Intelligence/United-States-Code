@@ -86,5 +86,5 @@ Amendment by Pub. L. 95–627 effective Oct. 1, 1978, see section 14 of Pub. L. 
 
 #### Effective Date of 1977 Amendment
 
-Section 20 of Pub. L. 95–166 provided that the amendment made by that section is effective July 1, 1977.
+Pub. L. 95–166, §20, Nov. 10, 1977, 91 Stat. 1346, provided that the amendment made by that section is effective July 1, 1977.
 

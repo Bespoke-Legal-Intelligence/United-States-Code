@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Subject to the availability of funds pursuant to this section, the Secretary shall carry out aprogram to control grasshoppers and Mormon crickets on all Federal lands to protect rangeland.
+Subject to the availability of funds pursuant to this section, the Secretary shall carry out a program to control grasshoppers and Mormon crickets on all Federal lands to protect rangeland.
 
 #### (b) Transfer authority
 

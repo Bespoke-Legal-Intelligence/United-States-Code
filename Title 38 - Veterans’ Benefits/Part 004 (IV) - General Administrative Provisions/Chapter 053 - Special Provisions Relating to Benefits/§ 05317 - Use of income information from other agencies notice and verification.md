@@ -1,8 +1,8 @@
 ### §5317. Use of income information from other agencies: notice and verification
 
-(a) The Secretary shall notify each applicant for a benefit or service described in subsection (c) of this section that income information furnished by the applicant to the Secretary may be compared with information obtained by the Secretary from the Commissioner of Social Security or the Secretary of the Treasury under section 6103(<i>l</i>)(7)(D)(viii) of the Internal Revenue Code of 1986. The Secretary shall periodically transmit to recipients of such benefits and services additional notifications of such matters.
+(a) The Secretary shall notify each applicant for a benefit or service described in subsection (c) of this section that income information furnished by the applicant to the Secretary may be compared with information obtained by the Secretary from the Commissioner of Social Security or the Secretary of the Treasury under section 6103(l)(7)(D)(viii) of the Internal Revenue Code of 1986. The Secretary shall periodically transmit to recipients of such benefits and services additional notifications of such matters.
 
-(b) The Secretary may not, by reason of information obtained from the Commissioner of Social Security or the Secretary of the Treasury under section 6103(<i>l</i>)(7)(D)(viii) of the Internal Revenue Code of 1986, terminate, deny, suspend, or reduce any benefit or service described in subsection (c) of this section until the Secretary takes appropriate steps to verify independently information relating to the following:
+(b) The Secretary may not, by reason of information obtained from the Commissioner of Social Security or the Secretary of the Treasury under section 6103(l)(7)(D)(viii) of the Internal Revenue Code of 1986, terminate, deny, suspend, or reduce any benefit or service described in subsection (c) of this section until the Secretary takes appropriate steps to verify independently information relating to the following:
 
 &emsp;(1) The amount of the asset or income involved.
 
@@ -22,17 +22,17 @@
 
 (d) In the case of compensation described in subsection (c)(4) of this section, the Secretary may independently verify or otherwise act upon wage or self-employment information referred to in subsection (b) of this section only if the Secretary finds that the amount and duration of the earnings reported in that information clearly indicate that the individual may no longer be qualified for a rating of total disability.
 
-(e) The Secretary shall inform the individual of the findings made by the Secretary on the basis of verified information under subsection (b) of this section, and shall give the individual an opportunity to contest such findings, in the same manner as applies to other informationand findings relating to eligibility for the benefit or service involved.
+(e) The Secretary shall inform the individual of the findings made by the Secretary on the basis of verified information under subsection (b) of this section, and shall give the individual an opportunity to contest such findings, in the same manner as applies to other information and findings relating to eligibility for the benefit or service involved.
 
 (f) The Secretary shall pay the expenses of carrying out this section from amounts available to the Department for the payment of compensation and pension.
 
-(g) The authority of the Secretary to obtain information from the Secretary of the Treasury or the Commissioner of Social Security under section 6103(<i>l</i>)(7)(D)(viii) of the Internal Revenue Code of 1986 expires on September 30, 2016.
+(g) The authority of the Secretary to obtain information from the Secretary of the Treasury or the Commissioner of Social Security under section 6103(l)(7)(D)(viii) of the Internal Revenue Code of 1986 expires on September 30, 2016.
 
 (Added Pub. L. 101–508, title VIII, §8051(b)(1), Nov. 5, 1990, 104 Stat. 1388–350, §3117; renumbered §5317, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–83, §5(c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title VI, §602(a), Oct. 29, 1992, 106 Stat. 4342; Pub. L. 103–66, title XII, §12004, Aug. 10, 1993, 107 Stat. 414; Pub. L. 104–262, title I, §101(e)(3), Oct. 9, 1996, 110 Stat. 3181; Pub. L. 105–33, title VIII, §8014, Aug. 5, 1997, 111 Stat. 664; Pub. L. 106–419, title IV, §402(d), Nov. 1, 2000, 114 Stat. 1863; Pub. L. 108–183, title VII, §708(c)(3), Dec. 16, 2003, 117 Stat. 2674; Pub. L. 110–389, title VIII, §802, Oct. 10, 2008, 122 Stat. 4185; Pub. L. 112–37, §16, Oct. 5, 2011, 125 Stat. 398; Pub. L. 112–56, title II, §264, Nov. 21, 2011, 125 Stat. 732.)
 
 #### References in Text
 
-Section 6103(<i>l</i>)(7)(D)(viii) of the Internal Revenue Code, referred to in subsecs. (a), (b), and (g), is classified to section 6103(<i>l</i>)(7)(D)(viii) of Title 26, Internal Revenue Code.
+Section 6103(l)(7)(D)(viii) of the Internal Revenue Code, referred to in subsecs. (a), (b), and (g), is classified to section 6103(l)(7)(D)(viii) of Title 26, Internal Revenue Code.
 
 #### Amendments
 
@@ -62,15 +62,15 @@ Subsec. (c)(3). Pub. L. 102–83 substituted “1710(a)(1)(I)”, “1710(a)(2)�
 
 #### Notification Prior to Use of Income Information From Other Federal Agencies
 
-Section 8051(c) of Pub. L. 101–508 provided that:
+Pub. L. 101–508, title VIII, §8051(c), Nov. 5, 1990, 104 Stat. 1388–351, provided that:
 
-“(1) The Secretary of Veterans Affairs shall notify individuals who (as of the date of the enactment of this Act \[Nov. 5, 1990\]) are applicants for or recipients of the benefits described in subsection (c) (other than paragraph (3)) of section 3117 \[now 5317\] of title 38, United States Code (as added by subsection (b)), that income information furnished to the Secretary by such applicants and recipients may be compared with information obtained by the Secretary from the Secretary of Health and Human Services or the Secretary of the Treasury under clause (viii) of section 6103(<i>l</i>)(7)(D) of the Internal Revenue Code of 1986 \[26 U.S.C. 6103(<i>l</i>)(7)(D)\] (as added by subsection (a)).
+“(1) The Secretary of Veterans Affairs shall notify individuals who (as of the date of the enactment of this Act \[Nov. 5, 1990\]) are applicants for or recipients of the benefits described in subsection (c) (other than paragraph (3)) of section 3117 \[now 5317\] of title 38, United States Code (as added by subsection (b)), that income information furnished to the Secretary by such applicants and recipients may be compared with information obtained by the Secretary from the Secretary of Health and Human Services or the Secretary of the Treasury under clause (viii) of section 6103(l)(7)(D) of the Internal Revenue Code of 1986 \[26 U.S.C. 6103(l)(7)(D)\] (as added by subsection (a)).
 
 “(2) Notification under paragraph (1) shall be made not later than 90 days after the date of the enactment of this Act.
 
-“(3) The Secretary of Veterans Affairs may not obtain information from the Secretary of Health and Human Services or the Secretary of the Treasury under section 6103(<i>l</i>)(7)(D)(viii) of the Internal Revenue Code of 1986 (as added by subsection (a)) until notification under paragraph (1) is made.”
+“(3) The Secretary of Veterans Affairs may not obtain information from the Secretary of Health and Human Services or the Secretary of the Treasury under section 6103(l)(7)(D)(viii) of the Internal Revenue Code of 1986 (as added by subsection (a)) until notification under paragraph (1) is made.”
 
 #### Study by Comptroller General on Effectiveness of Amendments by Pub. L. 101–508
 
-Section 8051(d) of Pub. L. 101–508 provided that: “The Comptroller General of the United States shall conduct a study of the effectiveness of the amendments made by this section \[enacting this section\] and shall submit a report on such study to the Committees on Veterans’ Affairs and Ways and Means of the House of Representatives and the Committees on Veterans’ Affairs and Finance of the Senate not later than January 1, 1992.”
+Pub. L. 101–508, title VIII, §8051(d), Nov. 5, 1990, 104 Stat. 1388–351, provided that: “The Comptroller General of the United States shall conduct a study of the effectiveness of the amendments made by this section \[enacting this section\] and shall submit a report on such study to the Committees on Veterans’ Affairs and Ways and Means of the House of Representatives and the Committees on Veterans’ Affairs and Finance of the Senate not later than January 1, 1992.”
 

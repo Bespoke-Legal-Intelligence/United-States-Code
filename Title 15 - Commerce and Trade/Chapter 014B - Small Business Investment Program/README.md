@@ -63,10 +63,10 @@
 | [689i.](Subchapter%20003%20%28III%29%20-%20Investment%20Division%20Programs/Part%20B%20-%20New%20Markets%20Venture%20Capital%20Program/%C2%A7%2000689i%20-%20Federal%20Financing%20Bank.md) | Federal Financing Bank. |
 | [689j.](Subchapter%20003%20%28III%29%20-%20Investment%20Division%20Programs/Part%20B%20-%20New%20Markets%20Venture%20Capital%20Program/%C2%A7%2000689j%20-%20Reporting%20requirement.md) | Reporting requirement. |
 | [689k.](Subchapter%20003%20%28III%29%20-%20Investment%20Division%20Programs/Part%20B%20-%20New%20Markets%20Venture%20Capital%20Program/%C2%A7%2000689k%20-%20Examinations.md) | Examinations. |
-| 689<i>l</i>. | Injunctions and other orders. |
+| [689l.](Subchapter%20003%20%28III%29%20-%20Investment%20Division%20Programs/Part%20B%20-%20New%20Markets%20Venture%20Capital%20Program/%C2%A7%2000689l%20-%20Injunctions%20and%20other%20orders.md) | Injunctions and other orders. |
 | [689m.](Subchapter%20003%20%28III%29%20-%20Investment%20Division%20Programs/Part%20B%20-%20New%20Markets%20Venture%20Capital%20Program/%C2%A7%2000689m%20-%20Additional%20penalties%20for%20noncompliance.md) | Additional penalties for noncompliance. |
 | [689n.](Subchapter%20003%20%28III%29%20-%20Investment%20Division%20Programs/Part%20B%20-%20New%20Markets%20Venture%20Capital%20Program/%C2%A7%2000689n%20-%20Unlawful%20acts%20and%20omissions%3B%20breach%20of%20fiduciary%20duty.md) | Unlawful acts and omissions; breach of fiduciary duty. |
-| 689<i>o</i>. | Removal or suspension of directors or officers. |
+| [689o.](Subchapter%20003%20%28III%29%20-%20Investment%20Division%20Programs/Part%20B%20-%20New%20Markets%20Venture%20Capital%20Program/%C2%A7%2000689o%20-%20Removal%20or%20suspension%20of%20directors%20or%20officers.md) | Removal or suspension of directors or officers. |
 | [689p.](Subchapter%20003%20%28III%29%20-%20Investment%20Division%20Programs/Part%20B%20-%20New%20Markets%20Venture%20Capital%20Program/%C2%A7%2000689p%20-%20Regulations.md) | Regulations. |
 | [689q.](Subchapter%20003%20%28III%29%20-%20Investment%20Division%20Programs/Part%20B%20-%20New%20Markets%20Venture%20Capital%20Program/%C2%A7%2000689q%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 

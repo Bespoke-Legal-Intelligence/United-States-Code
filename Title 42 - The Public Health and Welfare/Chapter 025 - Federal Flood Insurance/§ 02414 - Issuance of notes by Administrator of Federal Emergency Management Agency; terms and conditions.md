@@ -8,9 +8,11 @@ The Administrator of the Federal Emergency Management Agency is authorized to is
 
 The Secretary of the Treasury may at any time sell any of the notes or other obligations acquired by him under this section. All redemptions, purchases, and sales by the Secretary of the Treasury of such notes or other obligations shall be treated as public debt transactions of the United States.
 
-(Aug. 7, 1956, ch. 1025, §15, 70 Stat. 1083; Pub. L. 89–174, §5(a), Sept. 9, 1965, 79 Stat. 669; Pub. L. 90–448, title XIII, §1303, Aug. 1, 1968, 82 Stat. 573; Pub. L. 98–181, title IV, §451(f), Nov. 30, 1983, 97 Stat. 1229; Pub. L. 98–479, title II, §203(g), Oct. 17, 1984, 98 Stat. 2230; Pub. L. 100–242, title V, §545(f), Feb. 5, 1988, 101 Stat. 1942; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410.)
+(Aug. 7, 1956, ch. 1025, §15, 70 Stat. 1083; Pub. L. 89–174, §5(a), Sept. 9, 1965, 79 Stat. 669; Pub. L. 90–448, title XIII, §1303, Aug. 1, 1968, 82 Stat. 573; Pub. L. 98–181, title I \[title IV, §451(f)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 98–479, title II, §203(g), Oct. 17, 1984, 98 Stat. 2230; Pub. L. 100–242, title V, §545(f), Feb. 5, 1988, 101 Stat. 1942; Pub. L. 112–141, div. F, title II, §100238(c), July 6, 2012, 126 Stat. 958.)
 
 #### Amendments
+
+<b>2012</b>—Subsec. (e). Pub. L. 112–141 substituted “Administrator” for “Director” in two places.
 
 <b>1988</b>—Subsec. (e). Pub. L. 100–242 substituted “title 31, United States Code,” for “title 31, United States Code”, which for purposes of codification was translated as “title 31”, thus requiring no change in text.
 
@@ -24,13 +26,9 @@ Subsec. (e). Pub. L. 90–448, §1303(a), (b), substituted “current average ma
 
 Subsecs. (f), (g). Pub. L. 90–448, §1303(c), repealed subsecs. (f) and (g) which provided for use of moneys in the Funds and for payment of administrative expenses.
 
-#### Change of Name
-
-“Administrator of the Federal Emergency Management Agency” substituted for “Director of the Federal Emergency Management Agency” in subsec. (e) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
-
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90–448 effective 120 days following Aug. 1, 1968, or such later date prescribed by theSecretary but in no event more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as an Effective Date note under section 4001 of this title.
+Amendment by Pub. L. 90–448 effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in no event more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as an Effective Date note under section 4001 of this title.
 
 #### Transfer of Functions
 

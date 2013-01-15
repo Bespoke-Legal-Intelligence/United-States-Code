@@ -18,7 +18,7 @@
 
 (2) An annuity under paragraph (1) shall be computed—
 
-&emsp;(A) in accordance with section 8415(d)(1) of title 5 for all service while a participant in this System and for prior service creditable under this part not otherwise counted as—
+&emsp;(A) in accordance with section 8415(e)(1) of title 5 for all service while a participant in this System and for prior service creditable under this part not otherwise counted as—
 
 &emsp;&emsp;(i) a member of the Service,
 
@@ -28,11 +28,11 @@
 
 &emsp;(B) at the rate stated in section 8415(a) of title 5 for all other service creditable under this System including service in excess of 20 years otherwise creditable under paragraph (A).
 
-(3) Any participant who is involuntarily retired or separated under section 4007, 4008, 4010,or 4010a of this title and who would if a participant under part I of this subchapter, become eligible for a refund of contributions or a deferred annuity under part I of this subchapter, shall, in lieu thereof, receive benefits for an involuntary separation under this part.
+(3) Any participant who is involuntarily retired or separated under section 4007, 4008, 4010, or 4010a of this title and who would if a participant under part I of this subchapter, become eligible for a refund of contributions or a deferred annuity under part I of this subchapter, shall, in lieu thereof, receive benefits for an involuntary separation under this part.
 
 (4) A disability annuity under this part required to be redetermined under section 8452(b) of title 5, or computed under section 8452(c) or (d) of such title 5, shall be recomputed or computed using the formula in subsection (b)(2)(A) of this section rather than section 8415 of such title 5 (as stated in section 8452(b)(2)(A) and 8452(c) and (d) of such title). Such annuity shall also be computed in accordance with the preceding sentence if, as of the day on which such annuity commences or is restored, the annuitant satisfies the age and service requirements for entitlement to an immediate annuity under section 4051 of this title.
 
-(5) A former participant entitled to a deferred annuity under section 8413(b) of title 5 shall not be subject to section 8415(f)(1) of such title 5 if the former participant has 20 years of service creditable under this part and is at least 50 years of age as of the date on which the annuity is to commence.
+(5) A former participant entitled to a deferred annuity under section 8413(b) of title 5 shall not be subject to section 8415(g)(1) of such title 5 if the former participant has 20 years of service creditable under this part and is at least 50 years of age as of the date on which the annuity is to commence.
 
 (6)(A) The amount of a survivor annuity for a widow or widower of a participant or former participant shall be 50 percent of an annuity computed for the deceased under this part rather than under section 8415 of such title 5 (as stated in sections 8442(a)(1), (b)(1)(B), and (c)(2) of such title).
 
@@ -46,7 +46,7 @@ A participant who is entitled to an immediate annuity under subsection (b) of th
 
 Any participant who is separated for cause under section 4010 of this title shall not be entitled to an annuity under this System when the Secretary determines that the separation was based in whole or in part on disloyalty to the United States.
 
-(Pub. L. 96–465, title I, §855, as added Pub. L. 99–335, title IV, §415, June 6, 1986, 100 Stat. 617; amended Pub. L. 99–556, title IV, §406, Oct. 27, 1986, 100 Stat. 3138; Pub. L. 103–178, title II, §204(b)(3), Dec. 3, 1993, 107 Stat. 2033; Pub. L. 105–277, div. G, subdiv. B, title XXIII, §2312(b), Oct. 21, 1998, 112 Stat. 2681–827; Pub. L. 105–382, §2(d)(3)(B), Nov. 13, 1998, 112 Stat. 3408; Pub. L. 107–228, div. A, title III, §322(b)(1), Sept. 30, 2002, 116 Stat. 1384.)
+(Pub. L. 96–465, title I, §855, as added Pub. L. 99–335, title IV, §415, June 6, 1986, 100 Stat. 617; amended Pub. L. 99–556, title IV, §406, Oct. 27, 1986, 100 Stat. 3138; Pub. L. 103–178, title II, §204(b)(3), Dec. 3, 1993, 107 Stat. 2033; Pub. L. 105–277, div. G, subdiv. B, title XXIII, §2312(b), Oct. 21, 1998, 112 Stat. 2681–827; Pub. L. 105–382, §2(d)(3)(B), Nov. 13, 1998, 112 Stat. 3408; Pub. L. 107–228, div. A, title III, §322(b)(1), Sept. 30, 2002, 116 Stat. 1384; Pub. L. 112–96, title V, §5001(c)(2)(F), Feb. 22, 2012, 126 Stat. 200.)
 
 #### References in Text
 
@@ -55,6 +55,10 @@ Section 8414 of title 5, referred to in subsec. (a)(3), does not contain the ter
 The Central Intelligence Agency Retirement Act, referred to in subsec. (b)(2)(A)(ii), is Pub. L. 88–643, as revised generally by Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3196. Title II of the Act is classified generally to subchapter II (§2011 et seq.) of chapter 38 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 50 and Tables.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (b)(2)(A). Pub. L. 112–96, §5001(c)(2)(F)(i), substituted “section 8415(e)(1)” for “section 8415(d)(1)” in introductory provisions.
+
+Subsec. (b)(5). Pub. L. 112–96, §5001(c)(2)(F)(ii), substituted “section 8415(g)(1)” for “section 8415(f)(1)”.
 
 <b>2002</b>—Subsec. (a)(3). Pub. L. 107–228 added par. (3).
 
@@ -90,7 +94,7 @@ Amendment by Pub. L. 107–228 applicable to service performed on or after the f
 
 Amendment by Pub. L. 105–382 effective Nov. 13, 1998, with provisions relating to applicability with respect to certain individuals, see section 4 of Pub. L. 105–382, as amended, set out as a note under section 4044 of this title.
 
-Amendment by Pub. L. 105–277 effective Oct. 21, 1998, except that amendment made by section 2312(b)(1)(A),\(2) of Pub. L. 105–277 applicable with respect to any actions taken under section 4010a of this title on or after Jan. 1, 1996, see section 2312(c) of Pub. L. 105–277, set out as a note under section 4009 of this title.
+Amendment by Pub. L. 105–277 effective Oct. 21, 1998, except that amendment made by section 2312(b)(1)(A), (2) of Pub. L. 105–277 applicable with respect to any actions taken under section 4010a of this title on or after Jan. 1, 1996, see section 2312(c) of Pub. L. 105–277, set out as a note under section 4009 of this title.
 
 #### Effective Date of 1986 Amendment
 

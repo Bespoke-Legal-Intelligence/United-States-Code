@@ -54,7 +54,7 @@
 
 #### (B) Joint election for waiver or reduction of spouse survivor annuity
 
-&emsp;&emsp;A married participant or former participant and the participant's spouse may jointly elect in writing at the time of retirement to waive a survivor annuity for that spouse under this section or to reduce such survivor annuity under this section by designating a portion of the annuity of the participant as the base for the survivor annuity. If the marriage is dissolved following an election for such a reduced annuity and the spousequalifies as a former spouse, the base used in calculating any annuity of the former spouse under section 2032(b) of this title may not exceed the portion of the participant's annuity designated under this subparagraph.
+&emsp;&emsp;A married participant or former participant and the participant's spouse may jointly elect in writing at the time of retirement to waive a survivor annuity for that spouse under this section or to reduce such survivor annuity under this section by designating a portion of the annuity of the participant as the base for the survivor annuity. If the marriage is dissolved following an election for such a reduced annuity and the spouse qualifies as a former spouse, the base used in calculating any annuity of the former spouse under section 2032(b) of this title may not exceed the portion of the participant's annuity designated under this subparagraph.
 
 #### (C) Joint election of participant and former spouse
 
@@ -190,7 +190,7 @@
 
 #### (1) Commencement
 
-&emsp;An annuity payable to a child under subsection (d) of this section, or under section2052(c) of this title, shall begin on the day after the date on which the participant or retired participant dies or, in the case of an individual over the age of 18 who is not a child within the meaning of section 2002(b) of this title, shall begin or resume on the first day of the month in which the individual later becomes or again becomes a student as described in section 2002(b) of this title. Such annuity may not commence until any lump-sum that has been paid is returned to the fund.
+&emsp;An annuity payable to a child under subsection (d) of this section, or under section 2052(c) of this title, shall begin on the day after the date on which the participant or retired participant dies or, in the case of an individual over the age of 18 who is not a child within the meaning of section 2002(b) of this title, shall begin or resume on the first day of the month in which the individual later becomes or again becomes a student as described in section 2002(b) of this title. Such annuitymay not commence until any lump-sum that has been paid is returned to the fund.
 
 #### (2) Termination
 
@@ -302,7 +302,7 @@ Notwithstanding any other provision of this subchapter, an annuity (including a 
 
 &emsp;The Director, in consultation with the officials from whom information is requested, shall ensure that information made available under this subsection is used only for the purposes authorized.
 
-#### (<i>l</i>) Information on rights under system
+#### (l) Information on rights under system
 
 The Director shall, on an annual basis—
 
@@ -310,11 +310,11 @@ The Director shall, on an annual basis—
 
 &emsp;(2) to the maximum extent practicable, inform spouses and former spouses of participants, former participants, and retired participants of their rights under this chapter.
 
-(Pub. L. 88–643, title II, §221, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat.3204; amended Pub. L. 103–178, title II, §202(a)(4), Dec. 3, 1993, 107 Stat. 2026.)
+(Pub. L. 88–643, title II, §221, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3204; amended Pub. L. 103–178, title II, §202(a)(4), Dec. 3, 1993, 107 Stat. 2026.)
 
 #### Prior Provisions
 
-A prior section 221 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1045; Pub. L. 91–185, §2, Dec. 30, 1969, 83 Stat. 847; Pub. L. 91–626, §§2, 3, Dec. 31, 1970, 84 Stat. 1872; Pub. L. 94–522, title II, §§202–204, Oct. 17, 1976, 90 Stat. 2468, 2469; Ex. Ord. No. 12326, §§1, 3, 6, Sept. 30, 1981, 46 F.R. 48889, 48890; Pub. L. 97–269, title VI, §§603–605, 610, Sept. 27, 1982, 96 Stat. 1146, 1147, 1153; Ex. Ord. No. 12443, §§4, 7, 8, Sept. 27, 1983, 48 F.R. 44752; Pub. L. 99–335, title V, §§501(2), (3), 503, June 6, 1986, 100 Stat. 622, 623; Pub. L. 100–178, title IV, §402(b)(1), Dec. 2, 1987, 101 Stat. 1014; Pub. L. 100–453, title III, §302(d)(1), (2), Sept. 29, 1988, 102 Stat. 1907; Pub. L. 102–88, title III, §§304(a), 305(a)(1), 306, Aug. 14, 1991, 105 Stat. 431, 432; Pub. L. 102–183, title III, §§302(a), 303(a), Dec. 4, 1991, 105 Stat. 1262, 1263, related to computation of annuities for other than former spouses and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
+A prior section 221 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1045; Pub. L. 91–185, §2, Dec. 30, 1969, 83 Stat. 847; Pub. L. 91–626, §§2, 3, Dec. 31, 1970, 84 Stat. 1872; Pub. L. 94–522, title II, §§202–204, Oct. 17, 1976, 90 Stat. 2468, 2469; Ex. Ord. No. 12326, §§1, 3, 6, Sept. 30, 1981, 46 F.R. 48889, 48890; Pub. L. 97–269, title VI, §§603–605, 610, Sept. 27, 1982, 96 Stat. 1146, 1147, 1153; Ex. Ord. No. 12443, §§4, 7, 8, Sept. 27, 1983, 48 F.R. 44752; Pub. L. 99–335, title V, §§501(2), (3), 503, June 6, 1986, 100 Stat.622, 623; Pub. L. 100–178, title IV, §402(b)(1), Dec. 2, 1987, 101 Stat. 1014; Pub. L. 100–453, title III, §302(d)(1), (2), Sept. 29, 1988, 102 Stat. 1907; Pub. L. 102–88, title III, §§304(a), 305(a)(1), 306, Aug. 14, 1991, 105 Stat. 431, 432; Pub. L. 102–183, title III, §§302(a), 303(a), Dec. 4, 1991, 105 Stat. 1262, 1263, related to computation of annuities for other than former spouses and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
 
 #### Amendments
 

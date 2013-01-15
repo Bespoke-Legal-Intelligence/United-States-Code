@@ -74,7 +74,7 @@ Motor Vehicle Report.—Not later than October 25, 1997, the Secretary shall sub
 
 &emsp;&emsp;(E) to have benefits greater than the costs of the identification; and
 
-&emsp;(10) other relevant and reliable information available to the Secretary about the impact, including the beneficial impact, of the laws set forth in titles II and III of the Motor VehicleTheft Law Enforcement Act of 1984 on law enforcement, consumers, and manufacturers; and
+&emsp;(10) other relevant and reliable information available to the Secretary about the impact, including the beneficial impact, of the laws set forth in titles II and III of the Motor Vehicle Theft Law Enforcement Act of 1984 on law enforcement, consumers, and manufacturers; and
 
 &emsp;(11) recommendations (including, as appropriate, legislative and administrative recommendations) for—
 
@@ -138,5 +138,5 @@ In subsection (c)(1)(C), the words “carrying out” are substituted for “the
 
 #### References in Text
 
-The Motor Vehicle Theft Law Enforcement Act of 1984, referred to in subsecs. (b)(6)(A), (10) and (c)(1)(D), is Pub. L. 98–547, Oct. 25, 1984, 98 Stat. 2754. Titles II and III of that act enacted sections 511, 512, 553, and 2320 \[now 2321\] of Title 18, Crimes and Criminal Procedure, and section 1627 of Title 19, Customs Duties, and amended sections 1961, 2311, and 2313 of Title 18. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under section 1901 of Title 15, Commerce and Trade, and Tables.
+The Motor Vehicle Theft Law Enforcement Act of 1984, referred to in subsecs. (b)(6)(A), (10) and (c)(1)(D), is Pub. L. 98–547, Oct. 25, 1984, 98 Stat. 2754. Titles II and III of that act enacted sections 511, 512, 553, and 2320\[now 2321\] of Title 18, Crimes and Criminal Procedure, and section 1627 of Title 19, Customs Duties, and amended sections 1961, 2311, and 2313 of Title 18. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under section 1901 of Title 15, Commerce and Trade, and Tables.
 

@@ -42,5 +42,5 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 #### Effective Date
 
-Section 368(c) of Pub. L. 103–160 provided that: “The amendments made by this section \[enacting this section\] shall apply with respect to the payment of incidental expenses for civilian employees who die while serving in a contingency operation that occurs after the date of the enactment of this Act \[Nov. 30, 1993\].”
+Pub. L. 103–160, div. A, title III, §368(c), Nov. 30, 1993, 107 Stat. 1634, provided that: “The amendments made by this section \[enacting this section\] shall apply with respect to the payment of incidental expenses for civilian employees who die while serving in a contingency operation that occurs after the date of the enactment of this Act \[Nov. 30, 1993\].”
 

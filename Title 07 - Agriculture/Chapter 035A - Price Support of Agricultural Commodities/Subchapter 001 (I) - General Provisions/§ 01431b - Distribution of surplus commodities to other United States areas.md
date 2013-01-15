@@ -16,5 +16,5 @@ Section was not enacted as part of the Agricultural Act of 1949 which is classif
 
 #### Effective Date of 1966 Amendment
 
-Section 3(a) of Pub. L. 89–808 provided that the amendment made by that section is effective Jan. 1, 1967.
+Pub. L. 89–808, §3(a), Nov. 11, 1966, 80 Stat. 1538, provided that the amendment made by section 3(a) is effective Jan. 1, 1967.
 

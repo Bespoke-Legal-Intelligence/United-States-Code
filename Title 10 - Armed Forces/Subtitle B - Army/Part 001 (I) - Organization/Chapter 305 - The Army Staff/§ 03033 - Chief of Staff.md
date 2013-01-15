@@ -1,6 +1,6 @@
 ### §3033. Chief of Staff
 
-(a)(1) There is a Chief of Staff of the Army, appointed for a period of four years by the President, by and with the advice and consent of theSenate, from the general officers of the Army. He serves at the pleasure of the President. In time of war or during a national emergency declared by Congress, he may be reappointed for a term of not more than four years.
+(a)(1) There is a Chief of Staff of the Army, appointed for a period of four years by the President, by and with the advice and consent of the Senate, from the general officers of the Army. He serves at the pleasure of the President. In time of war or during a national emergency declared by Congress, he may be reappointed for a term of not more than four years.
 
 (2) The President may appoint an officer as Chief of Staff only if—
 
@@ -104,7 +104,7 @@ A prior section 3033 was renumbered section 10302 of this title.
 
 “(b) The Chief of Staff, while so serving, has the grade of general without vacating his regular or reserve grade.
 
-“(c) Except as otherwise prescribed by law and subject to section 3012(c) and (d) of this title, the Chief ofStaff performs his duties under the direction of the Secretary of the Army, and is directly responsible to the Secretary for the efficiency of the Army, its preparedness for military operations, and plans therefor.
+“(c) Except as otherwise prescribed by law and subject to section 3012(c) and (d) of this title, the Chief of Staff performs his duties under the direction of the Secretary of the Army, and is directly responsible to the Secretary for the efficiency of the Army, its preparedness for military operations, and plans therefor.
 
 “(d) The Chief of Staff shall—
 
@@ -132,7 +132,7 @@ A prior section 3033 was renumbered section 10302 of this title.
 
 #### Effective Date of 1981 Amendment
 
-Section 10(b) of Pub. L. 97–22 provided that the amendment made by that section is effective Sept. 15, 1981.
+Pub. L. 97–22, §10(b), July 10, 1981, 95 Stat. 137, provided that the amendment made by that section is effective Sept. 15, 1981.
 
 #### Effective Date of 1980 Amendment
 
@@ -140,7 +140,7 @@ Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. 
 
 #### Effective Date of 1967 Amendment
 
-Section 405 of title IV of Pub. L. 90–22 provided that: “The amendments made by this title \[amending sections 3034 \[now 3033\], 5081, 5201, and 8034 \[now 8033\] of this title\] shall take effect as of January 1, 1969.”
+Pub. L. 90–22, title IV, §405, June 5, 1967, 81 Stat. 53, provided that: “The amendments made by this title \[amending sections 3034 \[now 3033\], 5081, 5201, and 8034 \[now 8033\] of this title\] shall take effect as of January 1, 1969.”
 
 #### Waiver of Qualifications for Appointment as Service Chief
 

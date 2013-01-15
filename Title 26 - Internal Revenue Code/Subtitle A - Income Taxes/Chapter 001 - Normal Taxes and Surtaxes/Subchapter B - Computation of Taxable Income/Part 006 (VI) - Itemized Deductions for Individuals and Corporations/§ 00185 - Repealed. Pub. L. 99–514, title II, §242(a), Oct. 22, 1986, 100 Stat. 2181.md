@@ -4,7 +4,7 @@ Section, added Pub. L. 91–172, title VII, §705(a), Dec. 30, 1969, 83 Stat. 67
 
 #### Effective Date of Repeal
 
-Section 242(c) of Pub. L. 99–514 provided that:
+Pub. L. 99–514, title II, §242(c), Oct. 22, 1986, 100 Stat. 2181, provided that:
 
 “(1)
 

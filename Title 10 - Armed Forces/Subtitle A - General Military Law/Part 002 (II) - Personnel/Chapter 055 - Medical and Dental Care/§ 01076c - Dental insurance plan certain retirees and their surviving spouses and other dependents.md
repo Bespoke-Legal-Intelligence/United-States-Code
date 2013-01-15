@@ -46,7 +46,7 @@ Benefits Available Under the Plan.—The dental insurance plan established under
 
 (e)
 
-Coverage.—(1) The Secretary shall prescribe a minimum required period for enrollment by a member or surviving spouse in the dental insurance plan established under subsection (a).
+Coverage.—(1) The Secretary shall prescribe a minimum required period for enrollment by a member or surviving spouse in thedental insurance plan established under subsection (a).
 
 (2) The dental insurance plan shall provide for voluntary enrollment of participants and shall authorize a member or eligible unremarried surviving spouse to enroll for self only or for self and eligible dependents.
 
@@ -128,11 +128,11 @@ Subsec. (h). Pub. L. 105–85, §734(b)(2), substituted “other administering S
 
 #### Limitation on Implementation of Alternative Collection Procedures
 
-Pub. L. 105–85, div. A, title VII, §733(d), Nov. 18, 1997, 111 Stat. 1813, provided that: “The Secretary of Defense may not implement procedures for collecting premiums under \[former\] section 1076b(b)(3) of title 10, United States Code, or section 1076c(c)(2) of such title other than by deductions and withholding from pay until 120 days after the date that the Secretary submits a report to Congress describing the justifications for implementing such alternative procedures.”
+Pub. L. 105–85, div. A, title VII, §733(d), Nov. 18, 1997, 111 Stat. 1813, provided that: “The Secretary of Defensemay not implement procedures for collecting premiums under \[former\] section 1076b(b)(3) of title 10, United States Code, or section 1076c(c)(2) of such title other than by deductions and withholding from pay until 120 days after the date that the Secretary submits a report to Congress describing the justifications for implementing such alternative procedures.”
 
 #### Implementation of Dental Plan
 
-Section 703(b) of Pub. L. 104–201, as amended by Pub. L. 105–85, div. A, title VII, §733(e), Nov. 18, 1997, 111 Stat. 1813, provided that: “Beginning not later than April 1, 1998, the Secretary of Defense shall—
+Pub. L. 104–201, div. A, title VII, §703(b), Sept. 23, 1996, 110 Stat. 2590, as amended by Pub. L. 105–85, div. A, title VII, §733(e), Nov. 18, 1997, 111 Stat. 1813, provided that: “Beginning not later than April 1, 1998, the Secretary of Defense shall—
 
 &emsp;“(1) offer members of the Armed Forces and other persons described in subsection (b) of section 1076c of title 10, United States Code (as added by subsection (a)(1) of this section), the opportunity to enroll in the dental insurance plan required under that section; and
 

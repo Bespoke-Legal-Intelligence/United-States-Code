@@ -22,5 +22,5 @@ For purposes of this subchapter—
 
 &emsp;(6) the term “Bank” means the Export-Import Bank of the United States.
 
-(Pub. L. 98–181, title VI, §647, Nov. 30, 1983, 97 Stat. 1265.)
+(Pub. L. 98–181, title I \[title VI, §647\], Nov. 30, 1983, 97 Stat. 1265.)
 
